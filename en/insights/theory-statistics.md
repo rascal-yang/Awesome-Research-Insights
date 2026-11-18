@@ -644,6 +644,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Incremental Learning of Sparse Attention Patterns in Transformers](../../conferences/icml-2026/cards/5601-5700.md#yuksel26a-theory-statistics) · 中文
 - [Unveiling the Structure of Do-Calculus Reasoning via Derivation Graphs](../../conferences/icml-2026/cards/5601-5700.md#yvernes26a-theory-statistics) · 中文
 - [Differentially Private Submodular Maximization with a Knapsack Constraint](../../conferences/icml-2026/cards/5601-5700.md#zadicario26a-theory-statistics) · 中文
+- [The Loss Is Not Enough: Sampling Conditions and Inductive Bias in Contrastive Representation Learning](../../conferences/icml-2026/cards/5601-5700.md#zaliaduonis26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

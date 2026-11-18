@@ -70,6 +70,7 @@
 - [递归记忆生成FFN低秩调制](../conferences/icml-2026/cards/5401-5500.md#yao26g-architecture) · Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers
 - [用随机mask latent提供并行解码共享随机性](../conferences/icml-2026/cards/5501-5600.md#yoo26b-architecture) · Infinite Mask Diffusion for Few-Step Distillation
 - [用原型通道缓存多时间尺度上下文](../conferences/icml-2026/cards/5501-5600.md#yordanov26a-architecture) · Prototype Transformer: Towards Language Model Architectures Interpretable by Design
+- [同步点门控的有界路由记忆](../conferences/icml-2026/cards/5701-5800.md#zeng26h-architecture) · Attention with Routed-Memory for Learnable Sparse Control
 
 <a id="by-computer-vision"></a>
 
@@ -459,4 +460,5 @@
 - [latent-conditioned-operator-splitting](../conferences/icml-2026/cards/4301-4400.md#sun26aa-architecture) · Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting
 - [sign-equivariant-orbital-attention](../conferences/icml-2026/cards/4401-4500.md#thiede26a-architecture) · Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions
 - [按解正则性缩放谱系数并嵌入基底](../conferences/icml-2026/cards/5601-5700.md#yu26ao-architecture) · Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs
+- [共享算子策略的跨数量PDE控制](../conferences/icml-2026/cards/5601-5700.md#zanotta26a-architecture) · CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control
 <!-- classification:end -->

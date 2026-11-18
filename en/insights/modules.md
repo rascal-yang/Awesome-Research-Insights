@@ -59,6 +59,7 @@ Reusable components and local changes to model inputs or connections.
 - [Low Kruskal-Rank Adaptation](../../conferences/icml-2026/cards/5201-5300.md#xu26ae-modules) · 中文
 - [Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs](../../conferences/icml-2026/cards/5301-5400.md#yang26ah-modules) · 中文
 - [Inner-layer Token Self-modulation as Another Scaling Axis for LLMs](../../conferences/icml-2026/cards/5401-5500.md#yang26cj-modules) · 中文
+- [SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs](../../conferences/icml-2026/cards/5601-5700.md#zasada26a-modules) · 中文
 
 <a id="by-computer-vision"></a>
 

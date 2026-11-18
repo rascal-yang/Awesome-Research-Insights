@@ -126,6 +126,7 @@ Objectives, auxiliary supervision, and regularization.
 - [FeRA: Frequency-Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning](../../conferences/icml-2026/cards/5501-5600.md#yin26c-loss-functions) · 中文
 - [Temporal Difference Learning for Diffusion Models](../../conferences/icml-2026/cards/5501-5600.md#ying26a-loss-functions) · 中文
 - [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](../../conferences/icml-2026/cards/5501-5600.md#yu26p-loss-functions) · 中文
+- [Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection](../../conferences/icml-2026/cards/5701-5800.md#zeng26c-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

@@ -604,6 +604,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models](../../conferences/icml-2026/cards/5401-5500.md#yang26cx-evaluation) · 中文
 - [Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](../../conferences/icml-2026/cards/5501-5600.md#yashwante26a-evaluation) · 中文
 - [Securing Multimodal AI through Internal Information Decomposition](../../conferences/icml-2026/cards/5501-5600.md#yeon26a-evaluation) · 中文
+- [MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](../../conferences/icml-2026/cards/5601-5700.md#zeller26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -677,6 +678,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [OptiFluence: Principled Design of Privacy Canaries](../../conferences/icml-2026/cards/5301-5400.md#yaghini26a-evaluation) · 中文
 - [Rethink the Role of Neural Decoders in Quantum Error Correction](../../conferences/icml-2026/cards/5301-5400.md#yan26g-evaluation) · 中文
 - [Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression](../../conferences/icml-2026/cards/5601-5700.md#yu26az-evaluation) · 中文
+- [Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation](../../conferences/icml-2026/cards/5601-5700.md#zarvandi26a-evaluation) · 中文
+- [Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#zeng26f-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

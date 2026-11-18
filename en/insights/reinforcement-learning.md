@@ -199,6 +199,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26br-reinforcement-learning) · 中文
 - [Mem-T: Densifying Rewards for Long-Horizon Memory Agents](../../conferences/icml-2026/cards/5601-5700.md#yue26b-reinforcement-learning) · 中文
 - [Learning to Discover at Test Time](../../conferences/icml-2026/cards/5601-5700.md#yuksekgonul26a-reinforcement-learning) · 中文
+- [UCPO: Uncertainty-Aware Policy Optimization](../../conferences/icml-2026/cards/5701-5800.md#zeng26i-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -469,6 +470,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/4801-4900.md#wang26ji-reinforcement-learning) · 中文
 - [Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding](../../conferences/icml-2026/cards/5001-5100.md#xi26a-reinforcement-learning) · 中文
 - [MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence](../../conferences/icml-2026/cards/5501-5600.md#yin26f-reinforcement-learning) · 中文
+- [POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26b-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

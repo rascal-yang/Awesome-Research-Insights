@@ -70,6 +70,7 @@ Model-wide design and information flow.
 - [Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers](../../conferences/icml-2026/cards/5401-5500.md#yao26g-architecture) · 中文
 - [Infinite Mask Diffusion for Few-Step Distillation](../../conferences/icml-2026/cards/5501-5600.md#yoo26b-architecture) · 中文
 - [Prototype Transformer: Towards Language Model Architectures Interpretable by Design](../../conferences/icml-2026/cards/5501-5600.md#yordanov26a-architecture) · 中文
+- [Attention with Routed-Memory for Learnable Sparse Control](../../conferences/icml-2026/cards/5701-5800.md#zeng26h-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -459,4 +460,5 @@ Model-wide design and information flow.
 - [Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting](../../conferences/icml-2026/cards/4301-4400.md#sun26aa-architecture) · 中文
 - [Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions](../../conferences/icml-2026/cards/4401-4500.md#thiede26a-architecture) · 中文
 - [Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs](../../conferences/icml-2026/cards/5601-5700.md#yu26ao-architecture) · 中文
+- [CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control](../../conferences/icml-2026/cards/5601-5700.md#zanotta26a-architecture) · 中文
 <!-- classification:end -->

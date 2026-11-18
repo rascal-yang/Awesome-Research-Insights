@@ -70,6 +70,7 @@
 - <a id="yao26g-architecture"></a>[Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers](../conferences/icml-2026/cards/5401-5500.md#paper-yao26g)
 - <a id="yoo26b-architecture"></a>[Infinite Mask Diffusion for Few-Step Distillation](../conferences/icml-2026/cards/5501-5600.md#paper-yoo26b)
 - <a id="yordanov26a-architecture"></a>[Prototype Transformer: Towards Language Model Architectures Interpretable by Design](../conferences/icml-2026/cards/5501-5600.md#paper-yordanov26a)
+- <a id="zeng26h-architecture"></a>[Attention with Routed-Memory for Learnable Sparse Control](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26h)
 
 <a id="by-modules"></a>
 
@@ -121,6 +122,7 @@
 - <a id="xu26ae-modules"></a>[Low Kruskal-Rank Adaptation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ae)
 - <a id="yang26ah-modules"></a>[Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ah)
 - <a id="yang26cj-modules"></a>[Inner-layer Token Self-modulation as Another Scaling Axis for LLMs](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cj)
+- <a id="zasada26a-modules"></a>[SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs](../conferences/icml-2026/cards/5601-5700.md#paper-zasada26a)
 
 <a id="by-loss-functions"></a>
 
@@ -476,6 +478,7 @@
 - <a id="yu26br-reinforcement-learning"></a>[PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26br)
 - <a id="yue26b-reinforcement-learning"></a>[Mem-T: Densifying Rewards for Long-Horizon Memory Agents](../conferences/icml-2026/cards/5601-5700.md#paper-yue26b)
 - <a id="yuksekgonul26a-reinforcement-learning"></a>[Learning to Discover at Test Time](../conferences/icml-2026/cards/5601-5700.md#paper-yuksekgonul26a)
+- <a id="zeng26i-reinforcement-learning"></a>[UCPO: Uncertainty-Aware Policy Optimization](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26i)
 
 <a id="by-training-strategies"></a>
 
@@ -633,6 +636,7 @@
 - <a id="yoon26d-training-strategies"></a>[SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification](../conferences/icml-2026/cards/5501-5600.md#paper-yoon26d)
 - <a id="you26b-training-strategies"></a>[RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs](../conferences/icml-2026/cards/5501-5600.md#paper-you26b)
 - <a id="yu26bi-training-strategies"></a>[Efficient Bilevel Optimization for CKA-Guided MoE Upcycling](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bi)
+- <a id="zeng26l-training-strategies"></a>[PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26l)
 
 <a id="by-data-strategies"></a>
 

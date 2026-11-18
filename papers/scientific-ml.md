@@ -120,6 +120,7 @@
 - <a id="sun26aa-architecture"></a>[Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting](../conferences/icml-2026/cards/4301-4400.md#paper-sun26aa)
 - <a id="thiede26a-architecture"></a>[Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions](../conferences/icml-2026/cards/4401-4500.md#paper-thiede26a)
 - <a id="yu26ao-architecture"></a>[Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ao)
+- <a id="zanotta26a-architecture"></a>[CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control](../conferences/icml-2026/cards/5601-5700.md#paper-zanotta26a)
 
 <a id="by-modules"></a>
 

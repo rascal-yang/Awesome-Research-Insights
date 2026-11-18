@@ -214,6 +214,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26ji-reinforcement-learning"></a>[Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ji)
 - <a id="xi26a-reinforcement-learning"></a>[Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding](../../conferences/icml-2026/cards/5001-5100.md#paper-xi26a)
 - <a id="yin26f-reinforcement-learning"></a>[MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26f)
+- <a id="zeng26b-reinforcement-learning"></a>[POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26b)
 
 <a id="by-training-strategies"></a>
 
@@ -572,6 +573,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yang26cx-evaluation"></a>[Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cx)
 - <a id="yashwante26a-evaluation"></a>[Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](../../conferences/icml-2026/cards/5501-5600.md#paper-yashwante26a)
 - <a id="yeon26a-evaluation"></a>[Securing Multimodal AI through Internal Information Decomposition](../../conferences/icml-2026/cards/5501-5600.md#paper-yeon26a)
+- <a id="zeller26a-evaluation"></a>[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](../../conferences/icml-2026/cards/5601-5700.md#paper-zeller26a)
 
 <a id="by-theory-statistics"></a>
 

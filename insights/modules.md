@@ -59,6 +59,7 @@
 - [Khatri-Rao结构的参数高效更新](../conferences/icml-2026/cards/5201-5300.md#xu26ae-modules) · Low Kruskal-Rank Adaptation
 - [无查表trellis计算码](../conferences/icml-2026/cards/5301-5400.md#yang26ah-modules) · Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs
 - [token索引的逐层残差调制向量](../conferences/icml-2026/cards/5401-5500.md#yang26cj-modules) · Inner-layer Token Self-modulation as Another Scaling Axis for LLMs
+- [软topk预算与跨层激活分配](../conferences/icml-2026/cards/5601-5700.md#zasada26a-modules) · SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs
 
 <a id="by-computer-vision"></a>
 

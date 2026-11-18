@@ -462,6 +462,7 @@
 - [把本地多步视为不精确对偶梯度](../conferences/icml-2026/cards/5401-5500.md#yang26de-optimization) · Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates
 - [把Sinkhorn归一化映射到流式注意力内核](../conferences/icml-2026/cards/5501-5600.md#ye26l-optimization) · FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU
 - [固定亲和模板与可逆Markov协作投影](../conferences/icml-2026/cards/5501-5600.md#yin26j-optimization) · Controlled Collaboration Geometry for Personalized Federated Learning
+- [强凸输出头的快慢学习率条件](../conferences/icml-2026/cards/5601-5700.md#zeng26a-optimization) · Rethinking Neural Network Learning Rates: A Stackelberg Perspective
 
 <a id="by-graph-and-recommendation"></a>
 

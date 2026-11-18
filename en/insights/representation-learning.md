@@ -281,6 +281,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Generalizable and Composable Multi-Model Embedding Translation](../../conferences/icml-2026/cards/5301-5400.md#yang26e-representation-learning) · 中文
 - [Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments](../../conferences/icml-2026/cards/5501-5600.md#ye26p-representation-learning) · 中文
 - [Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference](../../conferences/icml-2026/cards/5601-5700.md#yuan26h-representation-learning) · 中文
+- [HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference](../../conferences/icml-2026/cards/5601-5700.md#zang26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

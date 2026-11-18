@@ -462,6 +462,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates](../../conferences/icml-2026/cards/5401-5500.md#yang26de-optimization) · 中文
 - [FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU](../../conferences/icml-2026/cards/5501-5600.md#ye26l-optimization) · 中文
 - [Controlled Collaboration Geometry for Personalized Federated Learning](../../conferences/icml-2026/cards/5501-5600.md#yin26j-optimization) · 中文
+- [Rethinking Neural Network Learning Rates: A Stackelberg Perspective](../../conferences/icml-2026/cards/5601-5700.md#zeng26a-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

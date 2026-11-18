@@ -126,6 +126,7 @@
 - [频带能量路由与更新谱正则](../conferences/icml-2026/cards/5501-5600.md#yin26c-loss-functions) · FeRA: Frequency-Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning
 - [成对posterior进度匹配的TD辅助目标](../conferences/icml-2026/cards/5501-5600.md#ying26a-loss-functions) · Temporal Difference Learning for Diffusion Models
 - [以原型拥挤度修正无监督映射排名间隔](../conferences/icml-2026/cards/5501-5600.md#yu26p-loss-functions) · Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models
+- [重叠query修正与旧类秩蒸馏](../conferences/icml-2026/cards/5701-5800.md#zeng26c-loss-functions) · Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection
 
 <a id="by-nlp"></a>
 

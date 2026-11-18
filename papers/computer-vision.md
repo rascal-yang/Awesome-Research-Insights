@@ -196,6 +196,7 @@
 - <a id="yin26c-loss-functions"></a>[FeRA: Frequency-Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning](../conferences/icml-2026/cards/5501-5600.md#paper-yin26c)
 - <a id="ying26a-loss-functions"></a>[Temporal Difference Learning for Diffusion Models](../conferences/icml-2026/cards/5501-5600.md#paper-ying26a)
 - <a id="yu26p-loss-functions"></a>[Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](../conferences/icml-2026/cards/5501-5600.md#paper-yu26p)
+- <a id="zeng26c-loss-functions"></a>[Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26c)
 
 <a id="by-optimization"></a>
 

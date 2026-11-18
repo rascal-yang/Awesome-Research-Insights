@@ -604,6 +604,7 @@
 - [固定任务下成对测试判据切换](../conferences/icml-2026/cards/5401-5500.md#yang26cx-evaluation) · Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models
 - [时间序列对齐应区分全局几何和局部邻域](../conferences/icml-2026/cards/5501-5600.md#yashwante26a-evaluation) · Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces
 - [用三路首token分布构造融合异常特征](../conferences/icml-2026/cards/5501-5600.md#yeon26a-evaluation) · Securing Multimodal AI through Internal Information Decomposition
+- [oracle视觉中间态分解生成与解读失败](../conferences/icml-2026/cards/5601-5700.md#zeller26a-evaluation) · MentisOculi: Revealing the Limits of Reasoning with Mental Imagery
 
 <a id="by-ml-foundations"></a>
 
@@ -677,6 +678,8 @@
 - [面向授权隐私审计的可检性canary](../conferences/icml-2026/cards/5301-5400.md#yaghini26a-evaluation) · OptiFluence: Principled Design of Privacy Canaries
 - [硬件预算下解码器的QAT与时序结构选择](../conferences/icml-2026/cards/5301-5400.md#yan26g-evaluation) · Rethink the Role of Neural Decoders in Quantum Error Correction
 - [用计算树误差放大筛选符号公式](../conferences/icml-2026/cards/5601-5700.md#yu26az-evaluation) · Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression
+- [SSL局部GGN响应的landmark归因](../conferences/icml-2026/cards/5601-5700.md#zarvandi26a-evaluation) · Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation
+- [Wasserstein参考切向场的双统计监测](../conferences/icml-2026/cards/5701-5800.md#zeng26f-evaluation) · Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data
 
 <a id="by-graph-and-recommendation"></a>
 

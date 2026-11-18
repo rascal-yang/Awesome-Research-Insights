@@ -480,6 +480,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26de-optimization"></a>[Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26de)
 - <a id="ye26l-optimization"></a>[FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26l)
 - <a id="yin26j-optimization"></a>[Controlled Collaboration Geometry for Personalized Federated Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26j)
+- <a id="zeng26a-optimization"></a>[Rethinking Neural Network Learning Rates: A Stackelberg Perspective](../../conferences/icml-2026/cards/5601-5700.md#paper-zeng26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -756,6 +757,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26e-representation-learning"></a>[Generalizable and Composable Multi-Model Embedding Translation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26e)
 - <a id="ye26p-representation-learning"></a>[Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26p)
 - <a id="yuan26h-representation-learning"></a>[Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26h)
+- <a id="zang26a-representation-learning"></a>[HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference](../../conferences/icml-2026/cards/5601-5700.md#paper-zang26a)
 
 <a id="by-evaluation"></a>
 
@@ -829,6 +831,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yaghini26a-evaluation"></a>[OptiFluence: Principled Design of Privacy Canaries](../../conferences/icml-2026/cards/5301-5400.md#paper-yaghini26a)
 - <a id="yan26g-evaluation"></a>[Rethink the Role of Neural Decoders in Quantum Error Correction](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26g)
 - <a id="yu26az-evaluation"></a>[Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26az)
+- <a id="zarvandi26a-evaluation"></a>[Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation](../../conferences/icml-2026/cards/5601-5700.md#paper-zarvandi26a)
+- <a id="zeng26f-evaluation"></a>[Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26f)
 
 <a id="by-theory-statistics"></a>
 
@@ -1269,4 +1273,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yuksel26a-theory-statistics"></a>[Incremental Learning of Sparse Attention Patterns in Transformers](../../conferences/icml-2026/cards/5601-5700.md#paper-yuksel26a)
 - <a id="yvernes26a-theory-statistics"></a>[Unveiling the Structure of Do-Calculus Reasoning via Derivation Graphs](../../conferences/icml-2026/cards/5601-5700.md#paper-yvernes26a)
 - <a id="zadicario26a-theory-statistics"></a>[Differentially Private Submodular Maximization with a Knapsack Constraint](../../conferences/icml-2026/cards/5601-5700.md#paper-zadicario26a)
+- <a id="zaliaduonis26a-theory-statistics"></a>[The Loss Is Not Enough: Sampling Conditions and Inductive Bias in Contrastive Representation Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-zaliaduonis26a)
 <!-- classification:end -->

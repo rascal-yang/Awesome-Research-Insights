@@ -199,6 +199,7 @@
 - [同种子分支与分阶段优势的设计RL](../conferences/icml-2026/cards/5601-5700.md#yu26br-reinforcement-learning) · PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning
 - [将检索结果信用回传到源记忆写操作](../conferences/icml-2026/cards/5601-5700.md#yue26b-reinforcement-learning) · Mem-T: Densifying Rewards for Long-Horizon Memory Agents
 - [为单题最优解训练risk-seeking策略并复用高潜力状态](../conferences/icml-2026/cards/5601-5700.md#yuksekgonul26a-reinforcement-learning) · Learning to Discover at Test Time
+- [确定回答与弃答的双通道优势](../conferences/icml-2026/cards/5701-5800.md#zeng26i-reinforcement-learning) · UCPO: Uncertainty-Aware Policy Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -469,6 +470,7 @@
 - [盲文本解题代理的模态奖励路由](../conferences/icml-2026/cards/4801-4900.md#wang26ji-reinforcement-learning) · Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning
 - [自先验分布驱动的视频推理奖励](../conferences/icml-2026/cards/5001-5100.md#xi26a-reinforcement-learning) · Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding
 - [时空坐标中间目标的过程奖励](../conferences/icml-2026/cards/5501-5600.md#yin26f-reinforcement-learning) · MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence
+- [按相同对象集合归组的坐标优势](../conferences/icml-2026/cards/5701-5800.md#zeng26b-reinforcement-learning) · POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning
 
 <a id="by-ml-foundations"></a>
 
