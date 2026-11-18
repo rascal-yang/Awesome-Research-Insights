@@ -256,6 +256,7 @@ Reusable components and local changes to model inputs or connections.
 - [Rotary Position Encodings for Graphs](../../conferences/icml-2026/cards/3801-3900.md#reid26a-modules) · 中文
 - [Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis](../../conferences/icml-2026/cards/4101-4200.md#sim26b-modules) · 中文
 - [Enhancing LLMs for Graph Tasks via Graph-aware LoRA Generation](../../conferences/icml-2026/cards/4201-4300.md#sun26f-modules) · 中文
+- [MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning](../../conferences/icml-2026/cards/5301-5400.md#yan26i-modules) · 中文
 
 <a id="by-scientific-ml"></a>
 

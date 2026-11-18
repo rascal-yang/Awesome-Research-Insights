@@ -616,6 +616,7 @@
 - [先相似性后属性的课程非对称](../conferences/icml-2026/cards/5201-5300.md#xu26bu-theory-statistics) · Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers
 - [部分标签补全的可学习性边界](../conferences/icml-2026/cards/5301-5400.md#xu26cs-theory-statistics) · On Learnability and Disambiguation of Multiclass Partial Concept Classes
 - [非高斯设计下ERM分数分布边界](../conferences/icml-2026/cards/5301-5400.md#yaakoubi26a-theory-statistics) · Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization
+- [区间概率诚实性与潜时间校准分离](../conferences/icml-2026/cards/5301-5400.md#yanagisawa26a-theory-statistics) · A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis
 
 <a id="by-graph-and-recommendation"></a>
 

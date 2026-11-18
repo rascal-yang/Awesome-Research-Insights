@@ -81,6 +81,7 @@
 - <a id="whittle26a-architecture"></a>[Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](../conferences/icml-2026/cards/4901-5000.md#paper-whittle26a)
 - <a id="woerner26a-architecture"></a>[Universal Algorithm-Implicit Learning](../conferences/icml-2026/cards/4901-5000.md#paper-woerner26a)
 - <a id="xie26aa-architecture"></a>[mHC: Manifold-Constrained Hyper-Connections](../conferences/icml-2026/cards/5101-5200.md#paper-xie26aa)
+- <a id="yan26o-architecture"></a>[Arboreal Neural Network](../conferences/icml-2026/cards/5301-5400.md#paper-yan26o)
 
 <a id="by-modules"></a>
 
@@ -196,6 +197,7 @@
 - <a id="xie26l-loss-functions"></a>[FedUSD: Unbiased Synthetic Data for Federated Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xie26l)
 - <a id="xu26i-loss-functions"></a>[Discretized Density-Guided Source-Free Domain Adaptation for Regression](../conferences/icml-2026/cards/5201-5300.md#paper-xu26i)
 - <a id="xu26by-loss-functions"></a>[Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition](../conferences/icml-2026/cards/5201-5300.md#paper-xu26by)
+- <a id="yan26l-loss-functions"></a>[Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](../conferences/icml-2026/cards/5301-5400.md#paper-yan26l)
 
 <a id="by-optimization"></a>
 
@@ -453,6 +455,7 @@
 - <a id="xu26as-optimization"></a>[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](../conferences/icml-2026/cards/5201-5300.md#paper-xu26as)
 - <a id="xu26bx-optimization"></a>[Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bx)
 - <a id="xu26cr-optimization"></a>[Gradient Flow Sampler-based Distributionally Robust Optimization](../conferences/icml-2026/cards/5301-5400.md#paper-xu26cr)
+- <a id="yan26x-optimization"></a>[Robust Federated Learning Against Adaptive Compression](../conferences/icml-2026/cards/5301-5400.md#paper-yan26x)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1202,4 +1205,5 @@
 - <a id="xu26bu-theory-statistics"></a>[Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bu)
 - <a id="xu26cs-theory-statistics"></a>[On Learnability and Disambiguation of Multiclass Partial Concept Classes](../conferences/icml-2026/cards/5301-5400.md#paper-xu26cs)
 - <a id="yaakoubi26a-theory-statistics"></a>[Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization](../conferences/icml-2026/cards/5301-5400.md#paper-yaakoubi26a)
+- <a id="yanagisawa26a-theory-statistics"></a>[A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis](../conferences/icml-2026/cards/5301-5400.md#paper-yanagisawa26a)
 <!-- classification:end -->

@@ -108,6 +108,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Controlled LLM Training on Spectral Sphere](../../conferences/icml-2026/cards/5101-5200.md#xie26r-optimization) · 中文
 - [Principled SVD-based Delta Compression via Quantization Error Minimization](../../conferences/icml-2026/cards/5101-5200.md#xiong26k-optimization) · 中文
 - [Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#xu26am-optimization) · 中文
+- [PLoRA: Efficient Concurrent LoRA Training for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#yan26q-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -146,6 +147,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#xie26q-optimization) · 中文
 - [Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](../../conferences/icml-2026/cards/5201-5300.md#xiong26l-optimization) · 中文
 - [FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#xue26i-optimization) · 中文
+- [DGS-Net: Distillation-Guided Gradient Surgery for CLIP Fine-Tuning in AI-Generated Image Detection](../../conferences/icml-2026/cards/5301-5400.md#yan26h-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -444,6 +446,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26as-optimization) · 中文
 - [Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate](../../conferences/icml-2026/cards/5201-5300.md#xu26bx-optimization) · 中文
 - [Gradient Flow Sampler-based Distributionally Robust Optimization](../../conferences/icml-2026/cards/5301-5400.md#xu26cr-optimization) · 中文
+- [Robust Federated Learning Against Adaptive Compression](../../conferences/icml-2026/cards/5301-5400.md#yan26x-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

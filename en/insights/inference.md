@@ -353,6 +353,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity](../../conferences/icml-2026/cards/5201-5300.md#xu26bw-inference) · 中文
 - [SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](../../conferences/icml-2026/cards/5201-5300.md#xu26cg-inference) · 中文
 - [R2-Router: A New Paradigm for LLM Routing with Reasoning](../../conferences/icml-2026/cards/5301-5400.md#xue26h-inference) · 中文
+- [SpecExit: Accelerating Large Reasoning Model via Speculative Exit](../../conferences/icml-2026/cards/5301-5400.md#yang26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -672,6 +673,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Geometry-based Schrödinger Bridges for Trustworthy Multimodal Fusion](../../conferences/icml-2026/cards/5201-5300.md#xiong26n-inference) · 中文
 - [VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26w-inference) · 中文
 - [Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning](../../conferences/icml-2026/cards/5201-5300.md#xu26cj-inference) · 中文
+- [GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification](../../conferences/icml-2026/cards/5301-5400.md#yan26w-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

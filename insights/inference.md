@@ -353,6 +353,7 @@
 - [稀疏激活后学习可折叠静态补偿](../conferences/icml-2026/cards/5201-5300.md#xu26bw-inference) · Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity
 - [把安全判别接入分段推测验证](../conferences/icml-2026/cards/5201-5300.md#xu26cg-inference) · SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling
 - [模型与输出长度预算联合路由](../conferences/icml-2026/cards/5301-5400.md#xue26h-inference) · R2-Router: A New Paradigm for LLM Routing with Reasoning
+- [草稿模型多信号推理早停](../conferences/icml-2026/cards/5301-5400.md#yang26a-inference) · SpecExit: Accelerating Large Reasoning Model via Speculative Exit
 
 <a id="by-computer-vision"></a>
 
@@ -672,6 +673,7 @@
 - [模态内纠正量与跨模态残差门控](../conferences/icml-2026/cards/5201-5300.md#xiong26n-inference) · Geometry-based Schrödinger Bridges for Trustworthy Multimodal Fusion
 - [按解码步的视觉attention分配token预算](../conferences/icml-2026/cards/5201-5300.md#xu26w-inference) · VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning
 - [任务分布间隔决定模态路由权重](../conferences/icml-2026/cards/5201-5300.md#xu26cj-inference) · Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning
+- [位置反事实的表示与logit差分](../conferences/icml-2026/cards/5301-5400.md#yan26w-inference) · GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification
 
 <a id="by-ml-foundations"></a>
 

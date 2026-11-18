@@ -146,6 +146,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Offline Multi-agent Continual Cooperation via Skill Partition and Reuse](../../conferences/icml-2026/cards/5101-5200.md#xiao26v-loss-functions) · 中文
 - [Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism](../../conferences/icml-2026/cards/5201-5300.md#xu26bk-loss-functions) · 中文
 - [Path-Coupled Bellman Flows for Distributional Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#xu26ct-loss-functions) · 中文
+- [GLARE: Scalable Neuro-Symbolic Reward Shaping for LLM Agents via Group-Level Automata](../../conferences/icml-2026/cards/5301-5400.md#yan26k-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -266,6 +267,7 @@ Objectives, auxiliary supervision, and regularization.
 - [FedUSD: Unbiased Synthetic Data for Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#xie26l-loss-functions) · 中文
 - [Discretized Density-Guided Source-Free Domain Adaptation for Regression](../../conferences/icml-2026/cards/5201-5300.md#xu26i-loss-functions) · 中文
 - [Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition](../../conferences/icml-2026/cards/5201-5300.md#xu26by-loss-functions) · 中文
+- [Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](../../conferences/icml-2026/cards/5301-5400.md#yan26l-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

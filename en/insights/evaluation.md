@@ -358,6 +358,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs](../../conferences/icml-2026/cards/5201-5300.md#xu26cd-evaluation) · 中文
 - [More Capable, Less Cooperative? When LLMs Fail at Zero-Cost Collaboration](../../conferences/icml-2026/cards/5301-5400.md#yadav26a-evaluation) · 中文
 - [Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](../../conferences/icml-2026/cards/5301-5400.md#yan26f-evaluation) · 中文
+- [MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections](../../conferences/icml-2026/cards/5301-5400.md#yan26n-evaluation) · 中文
+- [CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#yan26t-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -427,6 +429,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Attention Sinks in Diffusion Transformers: A Causal Analysis](../../conferences/icml-2026/cards/5001-5100.md#wu26ax-evaluation) · 中文
 - [Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression](../../conferences/icml-2026/cards/5101-5200.md#xiao26k-evaluation) · 中文
 - [Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting](../../conferences/icml-2026/cards/5201-5300.md#xu26bf-evaluation) · 中文
+- [Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?](../../conferences/icml-2026/cards/5301-5400.md#yan26j-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -492,6 +495,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis](../../conferences/icml-2026/cards/3701-3800.md#qi26p-evaluation) · 中文
 - [AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation](../../conferences/icml-2026/cards/4301-4400.md#sun26an-evaluation) · 中文
 - [See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent](../../conferences/icml-2026/cards/4301-4400.md#tang26a-evaluation) · 中文
+- [Can VLMs Diagnose and Recover from VLA Manipulation Faults?](../../conferences/icml-2026/cards/5301-5400.md#yan26r-evaluation) · 中文
+- [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning](../../conferences/icml-2026/cards/5301-5400.md#yan26y-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 

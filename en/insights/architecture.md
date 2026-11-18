@@ -130,6 +130,7 @@ Model-wide design and information flow.
 - [Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#sinha26a-architecture) · 中文
 - [PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization](../../conferences/icml-2026/cards/4301-4400.md#tang26j-architecture) · 中文
 - [Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](../../conferences/icml-2026/cards/5001-5100.md#wu26v-architecture) · 中文
+- [Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics](../../conferences/icml-2026/cards/5301-5400.md#yan26v-architecture) · 中文
 
 <a id="by-nlp"></a>
 
@@ -299,6 +300,7 @@ Model-wide design and information flow.
 - [Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](../../conferences/icml-2026/cards/4901-5000.md#whittle26a-architecture) · 中文
 - [Universal Algorithm-Implicit Learning](../../conferences/icml-2026/cards/4901-5000.md#woerner26a-architecture) · 中文
 - [mHC: Manifold-Constrained Hyper-Connections](../../conferences/icml-2026/cards/5101-5200.md#xie26aa-architecture) · 中文
+- [Arboreal Neural Network](../../conferences/icml-2026/cards/5301-5400.md#yan26o-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

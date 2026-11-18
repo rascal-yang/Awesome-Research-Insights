@@ -358,6 +358,8 @@
 - [遗忘评估同时测恢复和保留能力](../conferences/icml-2026/cards/5201-5300.md#xu26cd-evaluation) · Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs
 - [自动化通信一侧区分协作失败](../conferences/icml-2026/cards/5301-5400.md#yadav26a-evaluation) · More Capable, Less Cooperative? When LLMs Fail at Zero-Cost Collaboration
 - [伪奖励下污染捷径的分层审计](../conferences/icml-2026/cards/5301-5400.md#yan26f-evaluation) · Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs
+- [多记录记忆污染的集合级评测](../conferences/icml-2026/cards/5301-5400.md#yan26n-evaluation) · MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections
+- [内部干预目标导出的查询指纹](../conferences/icml-2026/cards/5301-5400.md#yan26t-evaluation) · CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -427,6 +429,7 @@
 - [扩散attention汇聚量与必要性分离](../conferences/icml-2026/cards/5001-5100.md#wu26ax-evaluation) · Attention Sinks in Diffusion Transformers: A Causal Analysis
 - [拆分图像与软标签的数据压缩比较](../conferences/icml-2026/cards/5101-5200.md#xiao26k-evaluation) · Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression
 - [标签重映射下的组指纹一致性](../conferences/icml-2026/cards/5201-5300.md#xu26bf-evaluation) · Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting
+- [按下游任务分配像素预训练算力](../conferences/icml-2026/cards/5301-5400.md#yan26j-evaluation) · Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?
 
 <a id="by-nlp"></a>
 
@@ -492,6 +495,8 @@
 - [以原子技能定位具身长任务错误](../conferences/icml-2026/cards/3701-3800.md#qi26p-evaluation) · BEAR: Dissecting Embodied Abilities in Multimodal Language Models through Skill-level Evaluation and Diagnosis
 - [空中操纵的视角依赖诊断](../conferences/icml-2026/cards/4301-4400.md#sun26an-evaluation) · AIR-VLA: Vision-Language-Action Systems for Aerial Manipulation
 - [主动视角中的置信奖励失效](../conferences/icml-2026/cards/4301-4400.md#tang26a-evaluation) · See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent
+- [静态诊断与闭环修复的分离](../conferences/icml-2026/cards/5301-5400.md#yan26r-evaluation) · Can VLMs Diagnose and Recover from VLA Manipulation Faults?
+- [跨视角保留与子空间adapter路由](../conferences/icml-2026/cards/5301-5400.md#yan26y-evaluation) · CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning
 
 <a id="by-multimodal"></a>
 

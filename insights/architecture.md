@@ -130,6 +130,7 @@
 - [冻结参考与对称非扩张去噪](../conferences/icml-2026/cards/4101-4200.md#sinha26a-architecture) · Trainable Nonexpansive Denoisers for Contractive Image Reconstruction
 - [条件路由化解多教师冲突](../conferences/icml-2026/cards/4301-4400.md#tang26j-architecture) · PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization
 - [固定记忆预算与不确定动作标签](../conferences/icml-2026/cards/5001-5100.md#wu26v-architecture) · Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory
+- [局部方向几何与全局顺序的拆分](../conferences/icml-2026/cards/5301-5400.md#yan26v-architecture) · Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics
 
 <a id="by-nlp"></a>
 
@@ -299,6 +300,7 @@
 - [混合分布token的后验变换](../conferences/icml-2026/cards/4901-5000.md#whittle26a-architecture) · Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation
 - [大标签字典的随机注入](../conferences/icml-2026/cards/4901-5000.md#woerner26a-architecture) · Universal Algorithm-Implicit Learning
 - [双随机残差流混合](../conferences/icml-2026/cards/5101-5200.md#xie26aa-architecture) · mHC: Manifold-Constrained Hyper-Connections
+- [树路径拓扑的全叶softmax路由](../conferences/icml-2026/cards/5301-5400.md#yan26o-architecture) · Arboreal Neural Network
 
 <a id="by-graph-and-recommendation"></a>
 

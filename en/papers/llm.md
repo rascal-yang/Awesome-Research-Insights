@@ -268,6 +268,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xie26r-optimization"></a>[Controlled LLM Training on Spectral Sphere](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26r)
 - <a id="xiong26k-optimization"></a>[Principled SVD-based Delta Compression via Quantization Error Minimization](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26k)
 - <a id="xu26am-optimization"></a>[Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26am)
+- <a id="yan26q-optimization"></a>[PLoRA: Efficient Concurrent LoRA Training for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26q)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1031,6 +1032,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xu26bw-inference"></a>[Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bw)
 - <a id="xu26cg-inference"></a>[SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cg)
 - <a id="xue26h-inference"></a>[R2-Router: A New Paradigm for LLM Routing with Reasoning](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26h)
+- <a id="yang26a-inference"></a>[SpecExit: Accelerating Large Reasoning Model via Speculative Exit](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1403,6 +1405,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xu26cd-evaluation"></a>[Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cd)
 - <a id="yadav26a-evaluation"></a>[More Capable, Less Cooperative? When LLMs Fail at Zero-Cost Collaboration](../../conferences/icml-2026/cards/5301-5400.md#paper-yadav26a)
 - <a id="yan26f-evaluation"></a>[Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26f)
+- <a id="yan26n-evaluation"></a>[MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26n)
+- <a id="yan26t-evaluation"></a>[CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26t)
 
 <a id="by-theory-statistics"></a>
 

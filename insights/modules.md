@@ -256,6 +256,7 @@
 - [让图谱坐标旋转查询和键](../conferences/icml-2026/cards/3801-3900.md#reid26a-modules) · Rotary Position Encodings for Graphs
 - [在可学习图谱尺度上生成软超边](../conferences/icml-2026/cards/4101-4200.md#sim26b-modules) · Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis
 - [生成LoRA的范数参照](../conferences/icml-2026/cards/4201-4300.md#sun26f-modules) · Enhancing LLMs for Graph Tasks via Graph-aware LoRA Generation
+- [跨层关系EMA与属性结构分支](../conferences/icml-2026/cards/5301-5400.md#yan26i-modules) · MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning
 
 <a id="by-scientific-ml"></a>
 

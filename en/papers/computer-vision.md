@@ -72,6 +72,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="sinha26a-architecture"></a>[Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#paper-sinha26a)
 - <a id="tang26j-architecture"></a>[PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26j)
 - <a id="wu26v-architecture"></a>[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26v)
+- <a id="yan26v-architecture"></a>[Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26v)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -222,6 +223,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xie26q-optimization"></a>[Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26q)
 - <a id="xiong26l-optimization"></a>[Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26l)
 - <a id="xue26i-optimization"></a>[FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26i)
+- <a id="yan26h-optimization"></a>[DGS-Net: Distillation-Guided Gradient Surgery for CLIP Fine-Tuning in AI-Generated Image Detection](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26h)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -613,6 +615,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wu26ax-evaluation"></a>[Attention Sinks in Diffusion Transformers: A Causal Analysis](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ax)
 - <a id="xiao26k-evaluation"></a>[Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26k)
 - <a id="xu26bf-evaluation"></a>[Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bf)
+- <a id="yan26j-evaluation"></a>[Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26j)
 
 <a id="by-theory-statistics"></a>
 

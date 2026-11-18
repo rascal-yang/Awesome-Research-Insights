@@ -58,6 +58,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="xiao26v-loss-functions"></a>[Offline Multi-agent Continual Cooperation via Skill Partition and Reuse](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26v)
 - <a id="xu26bk-loss-functions"></a>[Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bk)
 - <a id="xu26ct-loss-functions"></a>[Path-Coupled Bellman Flows for Distributional Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-xu26ct)
+- <a id="yan26k-loss-functions"></a>[GLARE: Scalable Neuro-Symbolic Reward Shaping for LLM Agents via Group-Level Automata](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26k)
 
 <a id="by-optimization"></a>
 

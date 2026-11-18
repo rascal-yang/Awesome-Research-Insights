@@ -146,6 +146,7 @@
 - [状态密度控制的技能复用优势](../conferences/icml-2026/cards/5101-5200.md#xiao26v-loss-functions) · Offline Multi-agent Continual Cooperation via Skill Partition and Reuse
 - [把Bellman可行性施加到在线状态](../conferences/icml-2026/cards/5201-5300.md#xu26bk-loss-functions) · Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism
 - [保持源边界的Bellman路径耦合](../conferences/icml-2026/cards/5301-5400.md#xu26ct-loss-functions) · Path-Coupled Bellman Flows for Distributional Reinforcement Learning
+- [组共享自动机的过程奖励](../conferences/icml-2026/cards/5301-5400.md#yan26k-loss-functions) · GLARE: Scalable Neuro-Symbolic Reward Shaping for LLM Agents via Group-Level Automata
 
 <a id="by-robotics"></a>
 
@@ -266,6 +267,7 @@
 - [按主方向与方差匹配合成数据](../conferences/icml-2026/cards/5101-5200.md#xie26l-loss-functions) · FedUSD: Unbiased Synthetic Data for Federated Learning
 - [用分箱密度头精炼回归伪标签](../conferences/icml-2026/cards/5201-5300.md#xu26i-loss-functions) · Discretized Density-Guided Source-Free Domain Adaptation for Regression
 - [按teacher不确定性选择反向交叉熵](../conferences/icml-2026/cards/5201-5300.md#xu26by-loss-functions) · Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition
+- [源目标差校正的冻结预测蒸馏](../conferences/icml-2026/cards/5301-5400.md#yan26l-loss-functions) · Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising
 
 <a id="by-graph-and-recommendation"></a>
 
