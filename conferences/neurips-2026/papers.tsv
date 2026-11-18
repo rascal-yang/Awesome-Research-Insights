@@ -1844,66 +1844,66 @@ poster_id	title	paper_url	status	reason
 154986	Curvature-Dependent Lower Bounds for Frank-Wolfe	https://neurips.cc/virtual/2026/poster/154986	included	区分可行域曲率带来的加速与所用步长规则的极限。
 153902	Curvature-Dependent Lower Bounds for Riemannian Online Convex Optimization	https://neurips.cc/virtual/2026/poster/153902	included	在负曲率空间区分梯度反馈和完整损失反馈。
 152159	Curvature-Guided Parameter Initialization for Multi-Task Learning	https://neurips.cc/virtual/2026/poster/152159	included	对多任务训练先检查初始化敏感性，再比较梯度改造方法。
-138987	CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves	https://neurips.cc/virtual/2026/poster/138987	pending	-
-149893	CurveRL: Principled Distribution-Aware Context Reweighting for LLM Reasoning	https://neurips.cc/virtual/2026/poster/149893	pending	-
-148257	CutAttn: Discovering Cognitive Transition Layers for Efficient Long-Context Prefilling	https://neurips.cc/virtual/2026/poster/148257	pending	-
-148338	CUVET: A Partitioning Approach for Continuous Treatment Assignment At Scale	https://neurips.cc/virtual/2026/poster/148338	pending	-
-152025	CVTA: Cross-Variable Temporal Attention for Multivariate Irregular Time Series Prediction	https://neurips.cc/virtual/2026/poster/152025	pending	-
-149212	CWAGraph: Retrieving What Was Never Explicitly Identified in Graph-Based RAG	https://neurips.cc/virtual/2026/poster/149212	pending	-
-138885	CyberDualEval: Measuring Dual-Use Cyber Risks in Frontier Language Models	https://neurips.cc/virtual/2026/poster/138885	pending	-
-139207	CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios	https://neurips.cc/virtual/2026/poster/139207	pending	-
-153270	CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation	https://neurips.cc/virtual/2026/poster/153270	pending	-
-152695	CycleSpectra: Cyclic Motion Spectra for Phase-Queryable 4D Cardiac Reconstruction	https://neurips.cc/virtual/2026/poster/152695	pending	-
-153681	Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models	https://neurips.cc/virtual/2026/poster/153681	pending	-
-155503	Cyclic Discrete Diffusion: A Novel Multi-Class Segmentation Refinement Technique	https://neurips.cc/virtual/2026/poster/155503	pending	-
-155983	Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation	https://neurips.cc/virtual/2026/poster/155983	pending	-
-149093	CytoWave: Perturbation-Centric Pretraining for Single-Cell Response Prediction	https://neurips.cc/virtual/2026/poster/149093	pending	-
-151535	D$^2$Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs	https://neurips.cc/virtual/2026/poster/151535	pending	-
-153310	D2D: Detector-to-Differentiable Critic for Improved Numeracy in Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/153310	pending	-
-148695	DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models	https://neurips.cc/virtual/2026/poster/148695	pending	-
-154329	DACE: Diversity-Driven Adversarial Co-Evolution for Robust LLM Safety Alignment	https://neurips.cc/virtual/2026/poster/154329	pending	-
-156146	DaCe-DT: Data-Centric Offline Multi-Task Reinforcement Learning via Adaptive Prompts and Trajectory Correction for Heterogeneous Tasks	https://neurips.cc/virtual/2026/poster/156146	pending	-
-151411	DACE RL for Compute Efficient Reinforcement Learning in Small Model Reasoning	https://neurips.cc/virtual/2026/poster/151411	pending	-
-153686	DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers	https://neurips.cc/virtual/2026/poster/153686	pending	-
-155436	DAG-Biased Graph Learning for Multimodal Survival on EHR	https://neurips.cc/virtual/2026/poster/155436	pending	-
-150664	DAGent: Evaluate-then-Grow Planning for Deep Research Agents	https://neurips.cc/virtual/2026/poster/150664	pending	-
-151308	Dancing in Fetters: Pareto-Optimal On-Device LLMs under Hardware Constraints	https://neurips.cc/virtual/2026/poster/151308	pending	-
-155531	Dandelions: A Spherical Flower for Neural Simulation of Planetary Dynamics	https://neurips.cc/virtual/2026/poster/155531	pending	-
-148819	DAPS: Dependency-Aware Premise Selection for LLM Theorem Proving	https://neurips.cc/virtual/2026/poster/148819	pending	-
-154306	DARE: Dual-Level Adversarial Learning with Domain-Aware Regularization for Whole Slide Image Classification	https://neurips.cc/virtual/2026/poster/154306	pending	-
-148595	DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax	https://neurips.cc/virtual/2026/poster/148595	pending	-
-151097	DARLING: Detection Augmented Reinforcement Learning with Non-Stationary Guarantees	https://neurips.cc/virtual/2026/poster/151097	pending	-
-152813	DARPAN: Controllability-Aware Residual Filtering for Pretrained Physical Control	https://neurips.cc/virtual/2026/poster/152813	pending	-
-152532	DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection	https://neurips.cc/virtual/2026/poster/152532	pending	-
-151821	DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments	https://neurips.cc/virtual/2026/poster/151821	pending	-
-155299	DART: Zero-Shot Dual-Side Alignment Routing for LLM Performance-Cost Tradeoffs	https://neurips.cc/virtual/2026/poster/155299	pending	-
-154713	Darwin-7B: A Multi-Omic Foundation Model for the Human Gut Microbiome via Sparsified Quality-Aware Tokenization	https://neurips.cc/virtual/2026/poster/154713	pending	-
-151399	DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention	https://neurips.cc/virtual/2026/poster/151399	pending	-
-155623	DASM: Dynamic Autoregressive Subgraph Mining via Two-Stage Policy Alignment	https://neurips.cc/virtual/2026/poster/155623	pending	-
-149310	DASS: A Solver-Agnostic Dynamic Auxiliary Search Strategy for Symbolic Regression	https://neurips.cc/virtual/2026/poster/149310	pending	-
-151478	Data-Adaptive Mahalanobis Metric Learning for Cross-Head Attention in Transformers	https://neurips.cc/virtual/2026/poster/151478	pending	-
-154287	Data Auctions for Retrieval Augmented Generation	https://neurips.cc/virtual/2026/poster/154287	pending	-
-138991	DataComp-VLM: Improved open datasets for Vision-Language Models	https://neurips.cc/virtual/2026/poster/138991	pending	-
-149999	Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws	https://neurips.cc/virtual/2026/poster/149999	pending	-
-150410	Data Density Scaling Laws for Image Self-Distillation	https://neurips.cc/virtual/2026/poster/150410	pending	-
-155264	Data Diversity Drives the Emergence of Symbolic Mechanisms Supporting Abstract Reasoning	https://neurips.cc/virtual/2026/poster/155264	pending	-
-155410	Data-Driven Covariate Selection for Nonparametric and Cycle-Agnostic Causal Effect Estimation	https://neurips.cc/virtual/2026/poster/155410	pending	-
-150257	Data-Driven Soft Labeling Scales DNA Read Classification to Whole-Body Cell-Type Deconvolution	https://neurips.cc/virtual/2026/poster/150257	pending	-
-150335	Data-Efficient Learning for Constraint Satisfaction Problems via  Relational Biases and Hard Axiom Clamping	https://neurips.cc/virtual/2026/poster/150335	pending	-
-139364	DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models	https://neurips.cc/virtual/2026/poster/139364	pending	-
-152919	Data-Free Metrics Are Not Invariant Under Functionality-Preserving Reparametrisations	https://neurips.cc/virtual/2026/poster/152919	pending	-
-154499	Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning	https://neurips.cc/virtual/2026/poster/154499	pending	-
-139023	Dataset Collections: Challenges of Large-Scale Data Aggregation in 3D Medical Image Datasets	https://neurips.cc/virtual/2026/poster/139023	pending	-
-155633	Dataset Distillation via Drifting	https://neurips.cc/virtual/2026/poster/155633	pending	-
-151119	Dataset Mismatch Matters in Group Relative Policy Optimization for Reinforcement Learning from Verifiable Rewards	https://neurips.cc/virtual/2026/poster/151119	pending	-
-153138	DAWN: Dependency-Aware Fast Inference for Diffusion LLMs	https://neurips.cc/virtual/2026/poster/153138	pending	-
-154080	DBPS: Doob-Bridge Posterior Sampler with Balanced Endpoint-Population Control for Unpaired Neurodegenerative Pathology Transport	https://neurips.cc/virtual/2026/poster/154080	pending	-
-148857	DC-DiT: Adaptive Compute and Elastic Inference for Visual Generation via Dynamic Chunking	https://neurips.cc/virtual/2026/poster/148857	pending	-
-152997	DC-Ocean: Deep Latent Compression for Global High-Resolution Ocean Forecasting	https://neurips.cc/virtual/2026/poster/152997	pending	-
-152595	DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence	https://neurips.cc/virtual/2026/poster/152595	pending	-
-152806	DCVD: Dual-Channel Cross-Modal Fusion for Joint Vulnerability Detection and Localization	https://neurips.cc/virtual/2026/poster/152806	pending	-
-150507	DC-ViT: Modulating Spatial and Channel Interactions for Multi-Channel Images	https://neurips.cc/virtual/2026/poster/150507	pending	-
-154024	DDACOM: Dual-Decoupled Adaptive Communication for Multi-Agent Reinforcement Learning under Dynamic Networks	https://neurips.cc/virtual/2026/poster/154024	pending	-
+138987	CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves	https://neurips.cc/virtual/2026/poster/138987	included	用完整包含树验收视觉推理
+149893	CurveRL: Principled Distribution-Aware Context Reweighting for LLM Reasoning	https://neurips.cc/virtual/2026/poster/149893	included	按通过率分布而非绝对值调整提示权重
+148257	CutAttn: Discovering Cognitive Transition Layers for Efficient Long-Context Prefilling	https://neurips.cc/virtual/2026/poster/148257	included	在注意力转为集中的层裁剪隐藏状态
+148338	CUVET: A Partitioning Approach for Continuous Treatment Assignment At Scale	https://neurips.cc/virtual/2026/poster/148338	included	分群后按边际投入产出分配连续预算
+152025	CVTA: Cross-Variable Temporal Attention for Multivariate Irregular Time Series Prediction	https://neurips.cc/virtual/2026/poster/152025	included	用紧凑跨变量状态预测异步序列
+149212	CWAGraph: Retrieving What Was Never Explicitly Identified in Graph-Based RAG	https://neurips.cc/virtual/2026/poster/149212	included	检索有界规则时显式表示适用范围与例外
+138885	CyberDualEval: Measuring Dual-Use Cyber Risks in Frontier Language Models	https://neurips.cc/virtual/2026/poster/138885	included	分别验证防御回答质量和拒绝校准
+139207	CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios	https://neurips.cc/virtual/2026/poster/139207	excluded	主要贡献涉及高风险操作，未提取可独立复用的防御性技术机制。
+153270	CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation	https://neurips.cc/virtual/2026/poster/153270	included	用布局到图像再到布局的一致性作训练信号
+152695	CycleSpectra: Cyclic Motion Spectra for Phase-Queryable 4D Cardiac Reconstruction	https://neurips.cc/virtual/2026/poster/152695	included	用固定周期合成层查询任意相位
+153681	Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models	https://neurips.cc/virtual/2026/poster/153681	excluded	主要贡献涉及高风险操作，未提取可独立复用的防御性技术机制。
+155503	Cyclic Discrete Diffusion: A Novel Multi-Class Segmentation Refinement Technique	https://neurips.cc/virtual/2026/poster/155503	included	在统一多类别标签空间精修分割
+155983	Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation	https://neurips.cc/virtual/2026/poster/155983	included	为周期信号选择尊重相位环绕的插值
+149093	CytoWave: Perturbation-Centric Pretraining for Single-Cell Response Prediction	https://neurips.cc/virtual/2026/poster/149093	excluded	主要贡献涉及高风险操作，未提取可独立复用的防御性技术机制。
+151535	D$^2$Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs	https://neurips.cc/virtual/2026/poster/151535	included	分别处理降维投影保真和激活均值漂移
+153310	D2D: Detector-to-Differentiable Critic for Improved Numeracy in Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/153310	included	将检测器的计数信号改造为可微指导
+148695	DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models	https://neurips.cc/virtual/2026/poster/148695	included	按去噪进展分配 token 权重并改进似然估计
+154329	DACE: Diversity-Driven Adversarial Co-Evolution for Robust LLM Safety Alignment	https://neurips.cc/virtual/2026/poster/154329	included	用带不确定度的历史防御反馈降低遗忘
+156146	DaCe-DT: Data-Centric Offline Multi-Task Reinforcement Learning via Adaptive Prompts and Trajectory Correction for Heterogeneous Tasks	https://neurips.cc/virtual/2026/poster/156146	included	按任务复杂度和轨迹质量调整提示和回报
+151411	DACE RL for Compute Efficient Reinforcement Learning in Small Model Reasoning	https://neurips.cc/virtual/2026/poster/151411	included	以训练诊断动态调整 rollout 预算
+153686	DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers	https://neurips.cc/virtual/2026/poster/153686	included	以注意力质量决定是否开启实例门控。
+155436	DAG-Biased Graph Learning for Multimodal Survival on EHR	https://neurips.cc/virtual/2026/poster/155436	included	用软无环先验约束多模态关系，并保留注意传播。
+150664	DAGent: Evaluate-then-Grow Planning for Deep Research Agents	https://neurips.cc/virtual/2026/poster/150664	included	依据上一轮节点的证据置信度扩展任务图。
+151308	Dancing in Fetters: Pareto-Optimal On-Device LLMs under Hardware Constraints	https://neurips.cc/virtual/2026/poster/151308	included	先以代理损失和目标设备时延筛选架构。
+155531	Dandelions: A Spherical Flower for Neural Simulation of Planetary Dynamics	https://neurips.cc/virtual/2026/poster/155531	included	用大圆上的特征运输代替经纬网卷积。
+148819	DAPS: Dependency-Aware Premise Selection for LLM Theorem Proving	https://neurips.cc/virtual/2026/poster/148819	included	对形式化证明候选建依赖邻域，并按组学习排序。
+154306	DARE: Dual-Level Adversarial Learning with Domain-Aware Regularization for Whole Slide Image Classification	https://neurips.cc/virtual/2026/poster/154306	included	分别对齐局部块与全局样本嵌入。
+148595	DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax	https://neurips.cc/virtual/2026/poster/148595	included	可见光弱时选择性注入热红外几何，保留正常光照表现。
+151097	DARLING: Detection Augmented Reinforcement Learning with Non-Stationary Guarantees	https://neurips.cc/virtual/2026/poster/151097	included	以可检测变化点决定何时重新适配在线策略。
+152813	DARPAN: Controllability-Aware Residual Filtering for Pretrained Physical Control	https://neurips.cc/virtual/2026/poster/152813	included	用动作可影响的残差信号决定在线适配。
+152532	DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection	https://neurips.cc/virtual/2026/poster/152532	included	把异常参考残差拆成异常与域特异两部分。
+151821	DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments	https://neurips.cc/virtual/2026/poster/151821	included	用前批反馈选择后批应购买的协变量。
+155299	DART: Zero-Shot Dual-Side Alignment Routing for LLM Performance-Cost Tradeoffs	https://neurips.cc/virtual/2026/poster/155299	included	把查询难度和模型能力投影到共同空间以接入新模型。
+154713	Darwin-7B: A Multi-Omic Foundation Model for the Human Gut Microbiome via Sparsified Quality-Aware Tokenization	https://neurips.cc/virtual/2026/poster/154713	excluded	该摘要主要描述多组学基础模型的领域构建；本批未提取经独立对照验证的通用机制。
+151399	DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention	https://neurips.cc/virtual/2026/poster/151399	included	按查询自适应选择 KV 块，并允许细层梯度返回粗选择。
+155623	DASM: Dynamic Autoregressive Subgraph Mining via Two-Stage Policy Alignment	https://neurips.cc/virtual/2026/poster/155623	included	用整轨迹质量监督子图停止边界。
+149310	DASS: A Solver-Agnostic Dynamic Auxiliary Search Strategy for Symbolic Regression	https://neurips.cc/virtual/2026/poster/149310	included	给不同求解器共享一个动态更新的高潜力子空间。
+151478	Data-Adaptive Mahalanobis Metric Learning for Cross-Head Attention in Transformers	https://neurips.cc/virtual/2026/poster/151478	included	用输入相关的跨头度量替代各头独立相似度。
+154287	Data Auctions for Retrieval Augmented Generation	https://neurips.cc/virtual/2026/poster/154287	included	在专属分配的 RAG 数据拍卖中兼顾近似效率与激励相容。
+138991	DataComp-VLM: Improved open datasets for Vision-Language Models	https://neurips.cc/virtual/2026/poster/138991	included	固定预算对照混合与过滤，并随模型规模扫描。
+149999	Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws	https://neurips.cc/virtual/2026/poster/149999	included	有限语料下独立比较掩码辅助监督与单纯增强权重衰减。
+150410	Data Density Scaling Laws for Image Self-Distillation	https://neurips.cc/virtual/2026/poster/150410	included	固定训练步数扫描唯一图像和重复次数，按域拟合响应。
+155264	Data Diversity Drives the Emergence of Symbolic Mechanisms Supporting Abstract Reasoning	https://neurips.cc/virtual/2026/poster/155264	included	验证新推理机制时控制训练多样性再比较架构。
+155410	Data-Driven Covariate Selection for Nonparametric and Cycle-Agnostic Causal Effect Estimation	https://neurips.cc/virtual/2026/poster/155410	included	存在反馈时，先验证局部调整条件再决定是否需要估计全图。
+150257	Data-Driven Soft Labeling Scales DNA Read Classification to Whole-Body Cell-Type Deconvolution	https://neurips.cc/virtual/2026/poster/150257	included	多类弱监督中比较软标签与硬标签对校准和聚合误差的影响。
+150335	Data-Efficient Learning for Constraint Satisfaction Problems via  Relational Biases and Hard Axiom Clamping	https://neurips.cc/virtual/2026/poster/150335	included	将不可改变量从自由预测中分离，并检验每轮钳制的收益。
+139364	DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models	https://neurips.cc/virtual/2026/poster/139364	included	评测数据算法时统一训练协议并按模型尺寸及资源域分别报告。
+152919	Data-Free Metrics Are Not Invariant Under Functionality-Preserving Reparametrisations	https://neurips.cc/virtual/2026/poster/152919	included	用函数等价模型做指标不变性测试，再将指标用于压缩选层。
+154499	Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning	https://neurips.cc/virtual/2026/poster/154499	included	在极少初始数据时加入随机固定特征加在线头作为低成本对照。
+139023	Dataset Collections: Challenges of Large-Scale Data Aggregation in 3D Medical Image Datasets	https://neurips.cc/virtual/2026/poster/139023	included	合并公共数据时保留来源图，并按原始来源核查训练测试交叉。
+155633	Dataset Distillation via Drifting	https://neurips.cc/virtual/2026/poster/155633	included	用冻结骨干的训练贡献筛小数据，并检查换骨干后的收益。
+151119	Dataset Mismatch Matters in Group Relative Policy Optimization for Reinforcement Learning from Verifiable Rewards	https://neurips.cc/virtual/2026/poster/151119	included	目标数据不可共享时，可用汇总验证信号更新源任务分配。
+153138	DAWN: Dependency-Aware Fast Inference for Diffusion LLMs	https://neurips.cc/virtual/2026/poster/153138	included	在同质量预算下对照按置信度和按依赖结构批量解码。
+154080	DBPS: Doob-Bridge Posterior Sampler with Balanced Endpoint-Population Control for Unpaired Neurodegenerative Pathology Transport	https://neurips.cc/virtual/2026/poster/154080	included	无配对传输中扫描个体与总体引导权重并保留两个边界基线。
+148857	DC-DiT: Adaptive Compute and Elastic Inference for Visual Generation via Dynamic Chunking	https://neurips.cc/virtual/2026/poster/148857	included	比较按内容及时间步压缩与固定 token 预算的质量计算曲线。
+152997	DC-Ocean: Deep Latent Compression for Global High-Resolution Ocean Forecasting	https://neurips.cc/virtual/2026/poster/152997	included	分别报告近边界和远场误差，并测压缩对滚动预报的影响。
+152595	DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence	https://neurips.cc/virtual/2026/poster/152595	included	在固定潜空间大小下对照单语义编码与保留像素支路。
+152806	DCVD: Dual-Channel Cross-Modal Fusion for Joint Vulnerability Detection and Localization	https://neurips.cc/virtual/2026/poster/152806	included	为授权代码审计分别测全局检出与定位质量，保留人工确认。
+150507	DC-ViT: Modulating Spatial and Channel Interactions for Multi-Channel Images	https://neurips.cc/virtual/2026/poster/150507	included	对照共享注意力和解耦交互，按通道组合报告稳健性。
+154024	DDACOM: Dual-Decoupled Adaptive Communication for Multi-Agent Reinforcement Learning under Dynamic Networks	https://neurips.cc/virtual/2026/poster/154024	included	在波动带宽下分别评估消息价值和发送策略，以同字节预算比较。
 138907	DDBench: A Benchmark for Agentic Debugging on Distributed Systems	https://neurips.cc/virtual/2026/poster/138907	pending	-
 151520	DD-CAM: Minimal Sufficient Explanations for Vision Models Using Delta Debugging	https://neurips.cc/virtual/2026/poster/151520	pending	-
 151036	DDGE: Disentangled Dirichlet Geodesic Evaluation for Robust Few-Shot Learning	https://neurips.cc/virtual/2026/poster/151036	pending	-

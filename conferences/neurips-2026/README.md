@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1889** 篇，暂收录 **1745** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1949** 篇，暂收录 **1801** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1753,3 +1753,59 @@
 | 优化 | 复杂度下界 | [Curvature-Dependent Lower Bounds for Frank-Wolfe](cards-0003.md#paper-154986) | 区分可行域曲率带来的加速与所用步长规则的极限。 |
 | 优化 | 在线学习下界 | [Curvature-Dependent Lower Bounds for Riemannian Online Convex Optimization](cards-0003.md#paper-153902) | 在负曲率空间区分梯度反馈和完整损失反馈。 |
 | 优化 | 初始化 | [Curvature-Guided Parameter Initialization for Multi-Task Learning](cards-0003.md#paper-152159) | 对多任务训练先检查初始化敏感性，再比较梯度改造方法。 |
+| 多模态 | 拓扑评测 | [CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves](cards-0003.md#paper-138987) | 用完整包含树验收视觉推理 |
+| 强化学习 | 样本权重 | [CurveRL: Principled Distribution-Aware Context Reweighting for LLM Reasoning](cards-0003.md#paper-149893) | 按通过率分布而非绝对值调整提示权重 |
+| 大语言模型 | 推理加速 | [CutAttn: Discovering Cognitive Transition Layers for Efficient Long-Context Prefilling](cards-0003.md#paper-148257) | 在注意力转为集中的层裁剪隐藏状态 |
+| 优化 | 资源分配 | [CUVET: A Partitioning Approach for Continuous Treatment Assignment At Scale](cards-0003.md#paper-148338) | 分群后按边际投入产出分配连续预算 |
+| 时间序列 | 连续时间预测 | [CVTA: Cross-Variable Temporal Attention for Multivariate Irregular Time Series Prediction](cards-0003.md#paper-152025) | 用紧凑跨变量状态预测异步序列 |
+| 图学习 | 检索增强 | [CWAGraph: Retrieving What Was Never Explicitly Identified in Graph-Based RAG](cards-0003.md#paper-149212) | 检索有界规则时显式表示适用范围与例外 |
+| 安全评测 | 防御效用 | [CyberDualEval: Measuring Dual-Use Cyber Risks in Frontier Language Models](cards-0003.md#paper-138885) | 分别验证防御回答质量和拒绝校准 |
+| 计算机视觉 | 循环监督 | [CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation](cards-0003.md#paper-153270) | 用布局到图像再到布局的一致性作训练信号 |
+| 医学影像 | 周期表示 | [CycleSpectra: Cyclic Motion Spectra for Phase-Queryable 4D Cardiac Reconstruction](cards-0003.md#paper-152695) | 用固定周期合成层查询任意相位 |
+| 计算机视觉 | 离散扩散 | [Cyclic Discrete Diffusion: A Novel Multi-Class Segmentation Refinement Technique](cards-0003.md#paper-155503) | 在统一多类别标签空间精修分割 |
+| 时间序列 | 几何流匹配 | [Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation](cards-0003.md#paper-155983) | 为周期信号选择尊重相位环绕的插值 |
+| 大语言模型 | 权重量化 | [D$^2$Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs](cards-0003.md#paper-151535) | 分别处理降维投影保真和激活均值漂移 |
+| 生成模型 | 可微评价 | [D2D: Detector-to-Differentiable Critic for Improved Numeracy in Text-to-Image Generation](cards-0003.md#paper-153310) | 将检测器的计数信号改造为可微指导 |
+| 强化学习 | 信用分配 | [DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models](cards-0003.md#paper-148695) | 按去噪进展分配 token 权重并改进似然估计 |
+| 安全 | 防御回放 | [DACE: Diversity-Driven Adversarial Co-Evolution for Robust LLM Safety Alignment](cards-0003.md#paper-154329) | 用带不确定度的历史防御反馈降低遗忘 |
+| 强化学习 | 离线数据 | [DaCe-DT: Data-Centric Offline Multi-Task Reinforcement Learning via Adaptive Prompts and Trajectory Correction for Heterogeneous Tasks](cards-0003.md#paper-156146) | 按任务复杂度和轨迹质量调整提示和回报 |
+| 强化学习 | 算力调度 | [DACE RL for Compute Efficient Reinforcement Learning in Small Model Reasoning](cards-0003.md#paper-151411) | 以训练诊断动态调整 rollout 预算 |
+| 视觉学习 | 参数高效适配 | [DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers](cards-0003.md#paper-153686) | 以注意力质量决定是否开启实例门控。 |
+| 科学机器学习 | 图结构正则 | [DAG-Biased Graph Learning for Multimodal Survival on EHR](cards-0003.md#paper-155436) | 用软无环先验约束多模态关系，并保留注意传播。 |
+| Agent | 增量规划 | [DAGent: Evaluate-then-Grow Planning for Deep Research Agents](cards-0003.md#paper-150664) | 依据上一轮节点的证据置信度扩展任务图。 |
+| 机器学习系统 | 硬件感知搜索 | [Dancing in Fetters: Pareto-Optimal On-Device LLMs under Hardware Constraints](cards-0003.md#paper-151308) | 先以代理损失和目标设备时延筛选架构。 |
+| 科学机器学习 | 球面算子 | [Dandelions: A Spherical Flower for Neural Simulation of Planetary Dynamics](cards-0003.md#paper-155531) | 用大圆上的特征运输代替经纬网卷积。 |
+| 大语言模型 | 依赖检索 | [DAPS: Dependency-Aware Premise Selection for LLM Theorem Proving](cards-0003.md#paper-148819) | 对形式化证明候选建依赖邻域，并按组学习排序。 |
+| 计算机视觉 | 域适配 | [DARE: Dual-Level Adversarial Learning with Domain-Aware Regularization for Whole Slide Image Classification](cards-0003.md#paper-154306) | 分别对齐局部块与全局样本嵌入。 |
+| 多模态学习 | 几何融合 | [DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax](cards-0003.md#paper-148595) | 可见光弱时选择性注入热红外几何，保留正常光照表现。 |
+| 强化学习 | 变化检测 | [DARLING: Detection Augmented Reinforcement Learning with Non-Stationary Guarantees](cards-0003.md#paper-151097) | 以可检测变化点决定何时重新适配在线策略。 |
+| 强化学习 | 残差适配 | [DARPAN: Controllability-Aware Residual Filtering for Pretrained Physical Control](cards-0003.md#paper-152813) | 用动作可影响的残差信号决定在线适配。 |
+| 计算机视觉 | 异常表征 | [DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection](cards-0003.md#paper-152532) | 把异常参考残差拆成异常与域特异两部分。 |
+| 统计学习 | 实验设计 | [DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments](cards-0003.md#paper-151821) | 用前批反馈选择后批应购买的协变量。 |
+| 大语言模型 | 模型路由 | [DART: Zero-Shot Dual-Side Alignment Routing for LLM Performance-Cost Tradeoffs](cards-0003.md#paper-155299) | 把查询难度和模型能力投影到共同空间以接入新模型。 |
+| 大语言模型 | 稀疏注意力 | [DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention](cards-0003.md#paper-151399) | 按查询自适应选择 KV 块，并允许细层梯度返回粗选择。 |
+| 图学习 | 序列决策 | [DASM: Dynamic Autoregressive Subgraph Mining via Two-Stage Policy Alignment](cards-0003.md#paper-155623) | 用整轨迹质量监督子图停止边界。 |
+| 科学机器学习 | 符号搜索 | [DASS: A Solver-Agnostic Dynamic Auxiliary Search Strategy for Symbolic Regression](cards-0003.md#paper-149310) | 给不同求解器共享一个动态更新的高潜力子空间。 |
+| 深度学习 | 注意力度量 | [Data-Adaptive Mahalanobis Metric Learning for Cross-Head Attention in Transformers](cards-0003.md#paper-151478) | 用输入相关的跨头度量替代各头独立相似度。 |
+| 统计学习 | 机制设计 | [Data Auctions for Retrieval Augmented Generation](cards-0003.md#paper-154287) | 在专属分配的 RAG 数据拍卖中兼顾近似效率与激励相容。 |
+| 多模态学习 | 数据配比 | [DataComp-VLM: Improved open datasets for Vision-Language Models](cards-0003.md#paper-138991) | 固定预算对照混合与过滤，并随模型规模扫描。 |
+| 大语言模型 | 训练正则 | [Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws](cards-0003.md#paper-149999) | 有限语料下独立比较掩码辅助监督与单纯增强权重衰减。 |
+| 计算机视觉 | 数据配比 | [Data Density Scaling Laws for Image Self-Distillation](cards-0003.md#paper-150410) | 固定训练步数扫描唯一图像和重复次数，按域拟合响应。 |
+| 学习理论 | 机制诊断 | [Data Diversity Drives the Emergence of Symbolic Mechanisms Supporting Abstract Reasoning](cards-0003.md#paper-155264) | 验证新推理机制时控制训练多样性再比较架构。 |
+| 因果推断 | 协变量选择 | [Data-Driven Covariate Selection for Nonparametric and Cycle-Agnostic Causal Effect Estimation](cards-0003.md#paper-155410) | 存在反馈时，先验证局部调整条件再决定是否需要估计全图。 |
+| 科学机器学习 | 软标注 | [Data-Driven Soft Labeling Scales DNA Read Classification to Whole-Body Cell-Type Deconvolution](cards-0003.md#paper-150257) | 多类弱监督中比较软标签与硬标签对校准和聚合误差的影响。 |
+| 机器学习基础 | 约束推理 | [Data-Efficient Learning for Constraint Satisfaction Problems via  Relational Biases and Hard Axiom Clamping](cards-0003.md#paper-150335) | 将不可改变量从自由预测中分离，并检验每轮钳制的收益。 |
+| 大语言模型 | 数据评测 | [DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models](cards-0003.md#paper-139364) | 评测数据算法时统一训练协议并按模型尺寸及资源域分别报告。 |
+| 可解释性 | 指标诊断 | [Data-Free Metrics Are Not Invariant Under Functionality-Preserving Reparametrisations](cards-0003.md#paper-152919) | 用函数等价模型做指标不变性测试，再将指标用于压缩选层。 |
+| 持续学习 | 在线分类 | [Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning](cards-0003.md#paper-154499) | 在极少初始数据时加入随机固定特征加在线头作为低成本对照。 |
+| 医学影像 | 数据审计 | [Dataset Collections: Challenges of Large-Scale Data Aggregation in 3D Medical Image Datasets](cards-0003.md#paper-139023) | 合并公共数据时保留来源图，并按原始来源核查训练测试交叉。 |
+| 计算机视觉 | 数据蒸馏 | [Dataset Distillation via Drifting](cards-0003.md#paper-155633) | 用冻结骨干的训练贡献筛小数据，并检查换骨干后的收益。 |
+| 强化学习 | 采样优化 | [Dataset Mismatch Matters in Group Relative Policy Optimization for Reinforcement Learning from Verifiable Rewards](cards-0003.md#paper-151119) | 目标数据不可共享时，可用汇总验证信号更新源任务分配。 |
+| 大语言模型 | 解码调度 | [DAWN: Dependency-Aware Fast Inference for Diffusion LLMs](cards-0003.md#paper-153138) | 在同质量预算下对照按置信度和按依赖结构批量解码。 |
+| 科学机器学习 | 概率传输 | [DBPS: Doob-Bridge Posterior Sampler with Balanced Endpoint-Population Control for Unpaired Neurodegenerative Pathology Transport](cards-0003.md#paper-154080) | 无配对传输中扫描个体与总体引导权重并保留两个边界基线。 |
+| 计算机视觉 | 动态计算 | [DC-DiT: Adaptive Compute and Elastic Inference for Visual Generation via Dynamic Chunking](cards-0003.md#paper-148857) | 比较按内容及时间步压缩与固定 token 预算的质量计算曲线。 |
+| 科学机器学习 | 时空压缩 | [DC-Ocean: Deep Latent Compression for Global High-Resolution Ocean Forecasting](cards-0003.md#paper-152997) | 分别报告近边界和远场误差，并测压缩对滚动预报的影响。 |
+| 生成模型 | 图像压缩 | [DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence](cards-0003.md#paper-152595) | 在固定潜空间大小下对照单语义编码与保留像素支路。 |
+| 软件安全 | 防御审计 | [DCVD: Dual-Channel Cross-Modal Fusion for Joint Vulnerability Detection and Localization](cards-0003.md#paper-152806) | 为授权代码审计分别测全局检出与定位质量，保留人工确认。 |
+| 计算机视觉 | 通道建模 | [DC-ViT: Modulating Spatial and Channel Interactions for Multi-Channel Images](cards-0003.md#paper-150507) | 对照共享注意力和解耦交互，按通道组合报告稳健性。 |
+| 多智能体学习 | 通信调度 | [DDACOM: Dual-Decoupled Adaptive Communication for Multi-Agent Reinforcement Learning under Dynamic Networks](cards-0003.md#paper-154024) | 在波动带宽下分别评估消息价值和发送策略，以同字节预算比较。 |
