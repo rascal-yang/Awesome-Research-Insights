@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **929** 篇，暂收录 **838** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **989** 篇，暂收录 **897** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -846,3 +846,62 @@
 | 生成模型 | 推理引导 | [Best-of-$N$ Guidance for Test-time Diffusion Alignment](cards-0002.md#paper-154666) | 并行去噪过程中用当前优选粒子引导其余样本。 |
 | 统计学习 | 序贯检验 | [Bet Imaginatively, not Historically in Independent-Data Sequential Testing](cards-0002.md#paper-155229) | 独立同分布假设成立时，用重排历史估计下注收益。 |
 | 大语言模型 | 架构诊断 | [Better Language Models Require Better Domain-Specific Inductive Biases](cards-0002.md#paper-140098) | 激活函数搜索后加跨领域移植对照。 |
+| 生成模型 | 流匹配 | [Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching](cards-0002.md#paper-148679) | 学习条件源分布 |
+| 科学机器学习 | 高分辨率表示 | [Beyond 3 Million Tokens: A Multi-Modal Foundation Model for Full-Resolution Heliophysics](cards-0002.md#paper-152539) | 保留掩码区域的压缩频率视图 |
+| Agent | 诊断评测 | [Beyond Accuracy: A Diagnostic Benchmark for Hypothesis-Driven Experiment Planning in LLM Agents](cards-0002.md#paper-139344) | 拆分实验规划各环节评测 |
+| 大语言模型 | 压缩 | [Beyond Adjacent Layers: Graph-Guided Layer Fusion for Compressing Large Language Models](cards-0002.md#paper-152044) | 按全层相似性选保留层 |
+| 具身智能 | 行为校准 | [Beyond Appearance Shifts: Task-Semantic Action Calibration for VLA Models](cards-0002.md#paper-150087) | 分别测任务保持和任务改变后的动作 |
+| 多模态学习 | 数据审计 | [Beyond a Single Score: An Audit of Aesthetic Evaluation in Text-to-Image Pipelines Across Subcultural Visual Languages](cards-0002.md#paper-139303) | 按风格报告审美过滤保留率 |
+| 学习理论 | 专家路由 | [Beyond Augmented-Action Surrogates for Multi-Expert Learning-to-Defer](cards-0002.md#paper-148942) | 解耦类别与各专家的训练头 |
+| 优化 | 域泛化 | [Beyond Average Flatness: Domain-wise Flatness for Domain Generalization](cards-0002.md#paper-150477) | 按域测尖锐度并约束域间不平衡 |
+| 多模态学习 | 组合评测 | [Beyond Bag-of-Words: Diagnosing Compositional Binding Failures in Vision-Language Models](cards-0002.md#paper-139620) | 配对最小场景和真实上下文 |
+| 计算机视觉 | 来源标识 | [Beyond Bit Matching: Orthogonal Watermarks for Collusion-Resistant Image Fingerprinting](cards-0002.md#paper-148565) | 按检测误报约束设计图像指纹 |
+| 优化 | 随机优化 | [Beyond Bounded Variance: Variance-Reduced Normalized Methods for Nonconvex Optimization under Blum-Gladyshev Noise](cards-0002.md#paper-150036) | 根据噪声增长和光滑性选择归一化更新 |
+| 具身智能 | 地图评测 | [Beyond Chamfer Distance: Granular Order-aware Evaluation Metric For Online Mapping](cards-0002.md#paper-139462) | 区分折线排序、定位和检出 |
+| 强化学习 | 策略优化 | [Beyond Clipping: Signed Logarithmic Smoothing for Policy Optimization](cards-0002.md#paper-153088) | 平滑整个重要性加权优势而非只截断比率 |
+| 大语言模型 | 置信校准 | [Beyond Confidence: Rethinking Self-Assessments for Performance Prediction in LLMs](cards-0002.md#paper-149177) | 按任务类型选择自评维度 |
+| 可视化 | 降维 | [Beyond Contraction: Geometry-Faithful Supervised Dimensionality Reduction for Data Visualization](cards-0002.md#paper-155065) | 优先正则读出平滑并约束邻域扭曲 |
+| 图学习 | 结构编码 | [Beyond Coordinates: Encoding Graph Structure via Contextual Distribution and Relational Similarity](cards-0002.md#paper-148246) | 使用上下文分布和相似核表示局部结构 |
+| 视频生成 | 诊断评测 | [Beyond Copy-Paste: How Well Do Subject-Driven Video Models Understand Their Subjects?](cards-0002.md#paper-152728) | 用未见同主体目标检验身份保持 |
+| 大语言模型 | 后训练 | [Beyond Correctness: Robustness-Driven Evolutionary Self-Training for Large Language Models](cards-0002.md#paper-151953) | 按推理轨迹的扰动稳健性筛选正确答案 |
+| 具身智能 | 表征预训练 | [Beyond Data Scaling: Representation-Centric Pre-training for Vision-Language-Action Models](cards-0002.md#paper-155956) | 共享跨本体动作监督并允许下游换头 |
+| 大语言模型 / 多模态 | 参数高效适配 | [Beyond Decoupled PEFT: Geometry-Aware Low-Rank Adaptation via Riemannian Reparameterization](cards-0002.md#paper-153695) | 把低秩方向预算限定在权重方向的切空间 |
+| 强化学习 | 课程学习 | [Beyond difficulties: Insights for provably efficient design of autocurriculum in RLVR](cards-0002.md#paper-149187) | 按训练收益而非当前成功率选题 |
+| 视觉生成 | 蒸馏 | [Beyond Distribution Matching: Self-Supervised Representation Forcing for Few-Step Video Generation](cards-0002.md#paper-154363) | 在输出分布匹配外加入内部预测监督 |
+| 智能体 | 技能迁移 | [Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns](cards-0002.md#paper-152827) | 按页面布局结构复用正常交互技能 |
+| 三维视觉 | 控制诊断 | [Beyond Downstream Scores: Controlled Diagnostics for Point-Cloud Self-Supervised Learning Evaluation](cards-0002.md#paper-139098) | 将预训练信号、可见几何和读出分别消融 |
+| 科学机器学习 | 评测设计 | [Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark](cards-0002.md#paper-139426) | 采用物理模拟检验代理分数能否代表科学效用 |
+| 动力系统 | 相似性 | [Beyond DSA: Conjugacy-based Comparison of Dynamical Systems](cards-0002.md#paper-152248) | 将对齐约束为状态双射诱导的变换 |
+| 表征学习 | 谱分析 | [Beyond Eigenfunctions: Divergence Principal Functions for Representation Learning](cards-0002.md#paper-153338) | 按训练散度选择低秩表示几何 |
+| 可靠性 | 分布外评测 | [Beyond Empirical Support: Structured Outlier Generation via Sinkhorn Optimal Transport](cards-0002.md#paper-151741) | 在弱支持边界构造受语义约束的压力样本 |
+| 多模态学习 | 组件消融 | [Beyond Encoder Accumulation: Measuring Encoder Roles in Multi-Encoder VLMs](cards-0002.md#paper-152266) | 重新训练编码器组合而非仅在固定权重上遮蔽 |
+| 持续学习 | 记忆预算 | [Beyond Exemplar Selection: Value-Aware Memory Allocation in Replay-Based Continual Learning](cards-0002.md#paper-155700) | 在固定缓存中按类别效用调整配额 |
+| 强化学习 | 风险规划 | [Beyond Expected Values: Risk-Sensitive Planning with Distributional Monte-Carlo Tree Search](cards-0002.md#paper-149403) | 在树边维护回报分布以评估嵌套尾部风险 |
+| 三维视觉 | 结构先验 | [Beyond Family Labels: A Taxonomic Ornstein-Uhlenbeck Prior for Avian 3D Shape Recovery](cards-0002.md#paper-151996) | 用连续分类树距离替代同科二元标签 |
+| 大语言模型 | 能力校准 | [Beyond Fixed Benchmarks and Worst-Case Attacks: Dynamic Boundary Evaluation for Language Models](cards-0002.md#paper-139552) | 用靠近模型能力边界的题估计可比较分数 |
+| 多模态学习 | 长视频 | [Beyond Flat Frames: Hierarchical Graph Reasoning for Long Video Understanding](cards-0002.md#paper-152948) | 用事件图粗检索后再找关键帧 |
+| 分布式学习 | 通信 | [Beyond Flat Gossip: Tiered Gossip Learning for Scalable Collaborative AI](cards-0002.md#paper-154579) | 将数据持有节点与高容量混合节点分层 |
+| 图学习 | 层次生成 | [Beyond Flat Walks: Compositional Abstraction for Autoregressive Graph Generation](cards-0002.md#paper-152657) | 在复杂图上对照社区分解与平坦线性化 |
+| 高效推理 | 静态部署 | [Beyond FLOPs: Train-Full, Deploy-Partial Multi-Exit Inference via Selective Lightweight IC Ensemble](cards-0002.md#paper-152802) | 使用校准后的静态截断替代逐样本动态退出 |
+| 视觉表征 | 生成蒸馏 | [Beyond Generation: Unlocking Discriminative Representations from Diffusion Models](cards-0002.md#paper-150350) | 以生成的类 token 作为判别学习教师 |
+| 多模态学习 | 组合对齐 | [Beyond Global Alignment: Structured Compositional Reasoning for Vision-Language Models](cards-0002.md#paper-155609) | 分开监督关系方向与属性的对象归属 |
+| 大语言模型 | 评测诊断 | [Beyond Ground Truth: Evaluating Non-Verifiable Reasoning in LLMs through Moral Robustness](cards-0002.md#paper-154911) | 用多轮一致性评估价值判断。 |
+| 多模态学习 | 区域对齐 | [Beyond Hard Negatives: Grounded Positive Supervision for Compositional CLIP](cards-0002.md#paper-150916) | 用结构化正例改善属性绑定。 |
+| 大语言模型 | 模拟诊断 | [Beyond High and Low: Evaluating Graded Cognitive Diversity in LLM Persona Simulations](cards-0002.md#paper-138966) | 使用反思错误分布检验模拟人群。 |
+| 学习理论 | 可识别性 | [Beyond ICA: Identifiability by Symmetry Breaking](cards-0002.md#paper-150471) | 用对称性条件判断潜表示能否恢复。 |
+| 表格学习 | 基准诊断 | [Beyond IID: How General Are Tabular Foundation Models, Really?](cards-0002.md#paper-139490) | 选表格模型时分别检查时间、分组与 IID 划分。 |
+| 统计学习 | 保形校准 | [Beyond Imputation: Mask-Adaptive Conformal Prediction via Tree Embeddings on General Missing Data Mechanisms](cards-0002.md#paper-154427) | 在缺失掩码层面检查覆盖率。 |
+| 可解释性 | 组合搜索 | [Beyond Incremental Beam Search for Compositional Explanations of Neurons](cards-0002.md#paper-152763) | 避免按单个概念增量扩展时过早丢掉解释候选。 |
+| 多模态学习 | 表征干预 | [Beyond Interpretability: When, Why, and How Sparse Autoencoders Enable Label-Free Visual Steering](cards-0002.md#paper-148658) | 用逐样本重建误差决定是否采用稀疏特征修正。 |
+| 推荐系统 | 离线评测 | [Beyond IPS: Reliable Counterfactual Evaluation in Multi-Stage Ad Systems without Logged Propensities](cards-0002.md#paper-151796) | 无记录倾向时对直接奖励估计做目标分布校正。 |
+| 时序学习 | 训练数据剪枝 | [Beyond Isolation: Neighbor-Consistent Data Pruning for Multivariate Time Series Forecasting](cards-0002.md#paper-154771) | 用重叠窗口的损失轨迹一致性诊断异常样本。 |
+| 自监督学习 | 表征几何 | [Beyond Isotropy in JEPAs: Hamiltonian Geometry and Symplectic Prediction](cards-0002.md#paper-149858) | 通过跨视图预测耦合注入结构先验。 |
+| 统计学习 | 排序聚合 | [Beyond Kemeny Medians: Consensus Ranking Distributions. Definition, Properties and Statistical Learning](cards-0002.md#paper-149736) | 用多个局部共识代表有分群的排序分布。 |
+| 概率建模 | 采样 | [Beyond Langevin: Sampling Multimodal Densities using the Witten Laplacian on 1-forms](cards-0002.md#paper-155804) | 区分跨模态路径探索和盆地内采样。 |
+| 大语言模型 | 表征控制 | [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](cards-0002.md#paper-148807) | 对照固定方向和随输入变化的潜空间干预。 |
+| 时序学习 | 专家路由 | [Beyond Linear Decoders: Dynamic Expert-Coupled Optimal Decoding for Time Series Forecasting](cards-0002.md#paper-153816) | 依据变量动态选择预测解码专家。 |
+| Agent | 故障归因 | [Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution](cards-0002.md#paper-149719) | 用轻量轨迹图替代长文本故障归因。 |
+| 图学习 | 分数阶扩散 | [Beyond Local Neighborhoods: Fractional Diffusion with Levy Flights on Simplicial Complexes for Link Prediction](cards-0002.md#paper-148623) | 需要跨远距离高阶关系时测试单纯形上的非局部扩散。 |
+| 大语言模型 | 微调路由 | [Beyond LoRA vs. Full Fine-Tuning: Gradient-Guided Optimizer Routing for LLM Adaptation](cards-0002.md#paper-154880) | 在优化器层动态分配低秩和全量更新。 |
+| 神经形态计算 | 频率选择 | [Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons](cards-0002.md#paper-148662) | 用异构共振单元辨别不同时标。 |
+| 统计学习 | 局部校准 | [Beyond Marginal Coverage: Efficient Localized Conformal Prediction via Residual Rank Calibration](cards-0002.md#paper-153265) | 用标准化残差的局部秩代替逐查询的加权分位数。 |
