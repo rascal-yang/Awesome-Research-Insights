@@ -881,5 +881,9 @@ Robot perception, policy learning, planning, and control.
 - [Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models](../../conferences/neurips-2026/cards-0011.md#paper-149986)
 - [STEER: Route-Aware Adaptive Reasoning for  Autonomous Driving](../../conferences/neurips-2026/cards-0011.md#paper-150589)
 - [StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models](../../conferences/neurips-2026/cards-0011.md#paper-154290)
+- [Support-Safe Variational Hybrid Filtering for Contact-Mode and Sparse-Law Recovery](../../conferences/neurips-2026/cards-0011.md#paper-155217)
+- [SwiftFlow: An Efficient One-Step Policy Learning via Improved Mean Flow for Robotic Manipulation](../../conferences/neurips-2026/cards-0011.md#paper-153489)
+- [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](../../conferences/neurips-2026/cards-0011.md#paper-149981)
+- [SynerVLA: Exploiting Embodied Execution Phases for On-Device Dual-System VLA Acceleration](../../conferences/neurips-2026/cards-0011.md#paper-151851)
 
 <!-- conference-classification:end -->

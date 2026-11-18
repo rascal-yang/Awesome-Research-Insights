@@ -735,5 +735,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](../../conferences/neurips-2026/cards-0011.md#paper-152317)
 - [Strengthening LLMs for Tabular Prediction with Structural Priors](../../conferences/neurips-2026/cards-0011.md#paper-149527)
 - [Structural Entropy Optimized Communication for Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-149682)
+- [Submodular Multi-Agent Reinforcement Learning for Effective Online Distributed Task Allocation](../../conferences/neurips-2026/cards-0011.md#paper-149944)
+- [Survive or Collapse: The Asymmetric Roles of Data Gating and Reward Grounding in Self-Play RL](../../conferences/neurips-2026/cards-0011.md#paper-154070)
+- [SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-150413)
 
 <!-- conference-classification:end -->

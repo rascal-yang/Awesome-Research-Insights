@@ -1423,5 +1423,15 @@ Decoding, test-time adaptation, and efficient execution.
 - [Stop the Sampler! Classifier-Based Adaptive Stopping for Sampling Kernels](../../conferences/neurips-2026/cards-0011.md#paper-148260)
 - [Strategist: Designing Agentic Reasoning at Scale](../../conferences/neurips-2026/cards-0011.md#paper-150241)
 - [Structured State-Space Regularization for Generation-Friendly Image Tokenization](../../conferences/neurips-2026/cards-0011.md#paper-151619)
+- [Structure, Subspace and System: Push the Real Limit of Extremely Low-Bit Quantization for MoE-LLMs](../../conferences/neurips-2026/cards-0011.md#paper-153046)
+- [Structuring Open-Ended NAS: Semi-Automated Design Knowledge Structuring with LLMs for Efficient Neural Architecture Search](../../conferences/neurips-2026/cards-0011.md#paper-151464)
+- [StylePlan: Style-Conditioned Intent Planning for Zero-Shot Coordination](../../conferences/neurips-2026/cards-0011.md#paper-152367)
+- [Surjective Pseudo-Invertible Neural Networks](../../conferences/neurips-2026/cards-0011.md#paper-148844)
+- [SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass](../../conferences/neurips-2026/cards-0011.md#paper-150961)
+- [SynerVLA: Exploiting Embodied Execution Phases for On-Device Dual-System VLA Acceleration](../../conferences/neurips-2026/cards-0011.md#paper-151851)
+- [SynGeo: Synergizing Seeing and Proving through Revisable Geometric States](../../conferences/neurips-2026/cards-0011.md#paper-150196)
+- [Systematic Hazard Sampling: Minimal-Variance Inference for Discrete Diffusion and Flow Models](../../conferences/neurips-2026/cards-0011.md#paper-151432)
+- [TabWorld: A World-Modeling Foundation Model for Tabular Generation](../../conferences/neurips-2026/cards-0011.md#paper-150304)
+- [Tail Competition Explains Scaling in Best-of-N Sampling for Verifiable Problems](../../conferences/neurips-2026/cards-0011.md#paper-150715)
 
 <!-- conference-classification:end -->

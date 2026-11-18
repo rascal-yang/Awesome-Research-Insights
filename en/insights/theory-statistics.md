@@ -1144,5 +1144,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Statistical Inference in Causal Partial Identification under Smooth Densities](../../conferences/neurips-2026/cards-0011.md#paper-152254)
 - [Strategic Causal Policy Learning: Welfare, Safety, and Fairness Thresholds](../../conferences/neurips-2026/cards-0011.md#paper-151459)
 - [Structural Causal Bottleneck Models](../../conferences/neurips-2026/cards-0011.md#paper-155742)
+- [Sub-Gaussian Confidence Intervals for Heavy-Tailed Data: Characterizing the Limits of Inference](../../conferences/neurips-2026/cards-0011.md#paper-148636)
+- [Support Before Frequency in Discrete Diffusion](../../conferences/neurips-2026/cards-0011.md#paper-149817)
+- [Symmetry Guarantees Statistic Recovery in Variational Inference](../../conferences/neurips-2026/cards-0011.md#paper-151617)
+- [SympFNO: Structure-Preserving Fourier Neural Operators for Physical Surrogate Modeling](../../conferences/neurips-2026/cards-0011.md#paper-152328)
+- [Symplectic Neural Operators for Learning Infinite Dimensional Hamiltonian Systems](../../conferences/neurips-2026/cards-0011.md#paper-148541)
+- [Symplectic Parallel Scan: A Neural Hamiltonian Framework for Accelerated Scientific Simulation](../../conferences/neurips-2026/cards-0011.md#paper-148524)
 
 <!-- conference-classification:end -->

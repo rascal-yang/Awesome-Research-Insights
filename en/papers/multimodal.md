@@ -993,5 +993,16 @@ Learning across modalities such as images, text, audio, and video.
 - [Structured State-Space Regularization for Generation-Friendly Image Tokenization](../../conferences/neurips-2026/cards-0011.md#paper-151619)
 - [Structure-Guided Masked Autoencoders for Ultra-High Resolution Scientific Image Understanding](../../conferences/neurips-2026/cards-0011.md#paper-150156)
 - [Structure Over Scale: Learning Visual Reasoning from Pedagogical Video](../../conferences/neurips-2026/cards-0011.md#paper-153531)
+- [Subset-Conditioned Boundary Compensation for Missing-Modality Multimodal Classification](../../conferences/neurips-2026/cards-0011.md#paper-151551)
+- [Surprisingly consistent failures of post-hoc OOD detectors reveal security concerns in open-set recognition with modern CNNs and ViTs, stemming from representation mismatch](../../conferences/neurips-2026/cards-0011.md#paper-139105)
+- [SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-150413)
+- [SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass](../../conferences/neurips-2026/cards-0011.md#paper-150961)
+- [SynDORBench: Evaluating LVLM Perceptual Robustness Under Physically Constrained Visibility Conditions](../../conferences/neurips-2026/cards-0011.md#paper-139213)
+- [SynGeo: Synergizing Seeing and Proving through Revisable Geometric States](../../conferences/neurips-2026/cards-0011.md#paper-150196)
+- [SynIB: Informational Bottleneck for Maximizing Synergy in Multimodal Learning](../../conferences/neurips-2026/cards-0011.md#paper-150893)
+- [T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals](../../conferences/neurips-2026/cards-0011.md#paper-152792)
+- [TACO: Towards Task-Consistent Open-Vocabulary Adaptation in Video Recognition](../../conferences/neurips-2026/cards-0011.md#paper-154934)
+- [TAC: Timestamped Audio Captioning](../../conferences/neurips-2026/cards-0011.md#paper-148688)
+- [TACT-KV: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs](../../conferences/neurips-2026/cards-0011.md#paper-153041)
 
 <!-- conference-classification:end -->

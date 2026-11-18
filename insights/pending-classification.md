@@ -1217,5 +1217,14 @@
 - [STILL: Selecting Tokens for Intra-Layer Hybrid Attention to Linearize LLMs](../conferences/neurips-2026/cards-0011.md#paper-149260)
 - [StoSplat: Ray-Aligned Stochastic Preconditioning for Feed-Forward 3D Gaussian Splatting](../conferences/neurips-2026/cards-0011.md#paper-155026)
 - [Structured Transforms for Low-Overhead Quantization of Language Models](../conferences/neurips-2026/cards-0011.md#paper-152193)
+- [Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy](../conferences/neurips-2026/cards-0011.md#paper-150200)
+- [StyleRoute: Diffusion Style Transfer via Regional Routing and Conflict-aware Projection](../conferences/neurips-2026/cards-0011.md#paper-155545)
+- [Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation](../conferences/neurips-2026/cards-0011.md#paper-153652)
+- [SVDP: Training-Free Contextual Sparsity Predictors for Fast LLM Inference](../conferences/neurips-2026/cards-0011.md#paper-150863)
+- [SwiftFlow: An Efficient One-Step Policy Learning via Improved Mean Flow for Robotic Manipulation](../conferences/neurips-2026/cards-0011.md#paper-153489)
+- [Symmetry-Guaranteed Prediction of High-Order Tensor Properties for Crystalline Materials via Irreducible Decomposition](../conferences/neurips-2026/cards-0011.md#paper-155311)
+- [Symplectic Normal Coordinates Flow for Generative Modeling of Hamiltonian Systems](../conferences/neurips-2026/cards-0011.md#paper-155724)
+- [SyncLight: Single-Edit Multi-View Relighting](../conferences/neurips-2026/cards-0011.md#paper-148172)
+- [TACT-KV: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs](../conferences/neurips-2026/cards-0011.md#paper-153041)
 
 <!-- conference-classification:end -->

@@ -1152,5 +1152,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [StoSplat: Ray-Aligned Stochastic Preconditioning for Feed-Forward 3D Gaussian Splatting](../../conferences/neurips-2026/cards-0011.md#paper-155026)
 - [Stranger Things: When Objects Appear Without Their Typical Neighbours](../../conferences/neurips-2026/cards-0011.md#paper-139618)
 - [STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation](../../conferences/neurips-2026/cards-0011.md#paper-149538)
+- [SUPERVISE: A Unified Framework for Standardized and Reproducible Superpixel Evaluation](../../conferences/neurips-2026/cards-0011.md#paper-139383)
+- [SurGe: Improved Surface Geometry in Point Maps](../../conferences/neurips-2026/cards-0011.md#paper-153420)
+- [Surjective Pseudo-Invertible Neural Networks](../../conferences/neurips-2026/cards-0011.md#paper-148844)
+- [Swift Sampling: Selecting Temporal Surprises via Taylor Series](../../conferences/neurips-2026/cards-0011.md#paper-151623)
+- [SyncLight: Single-Edit Multi-View Relighting](../../conferences/neurips-2026/cards-0011.md#paper-148172)
+- [SynGS: Synergistic Continual Learning and Change Detection with Gaussian Splatting](../../conferences/neurips-2026/cards-0011.md#paper-153370)
+- [SynthForensics: Benchmarking and Evaluating People-Centric Synthetic Video Deepfakes](../../conferences/neurips-2026/cards-0011.md#paper-139072)
 
 <!-- conference-classification:end -->

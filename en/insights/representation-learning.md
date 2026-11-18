@@ -615,5 +615,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video](../../conferences/neurips-2026/cards-0011.md#paper-155198)
 - [Strategic Feature Selection and Regularization](../../conferences/neurips-2026/cards-0011.md#paper-154371)
 - [STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation](../../conferences/neurips-2026/cards-0011.md#paper-149538)
+- [SymDrift: One-Shot Generative Modeling under Symmetries](../../conferences/neurips-2026/cards-0011.md#paper-151782)
+- [Synthetic Anchor-Assisted Prototype Alignment for Heterogeneous Federated Learning](../../conferences/neurips-2026/cards-0011.md#paper-149579)
 
 <!-- conference-classification:end -->

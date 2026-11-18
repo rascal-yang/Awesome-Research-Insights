@@ -389,3 +389,78 @@
 | 大语言模型 | 效率与系统 | [Structured Transforms for Low-Overhead Quantization of Language Models](cards-0011.md#paper-152193) | 低比特权重量化用结构正交变换降开销 |
 | 视觉与多模态 | 模型与架构 | [Structure-Guided Masked Autoencoders for Ultra-High Resolution Scientific Image Understanding](cards-0011.md#paper-150156) | 超大图像 token 预算按结构分配 |
 | 视觉与多模态 | 训练与优化 | [Structure Over Scale: Learning Visual Reasoning from Pedagogical Video](cards-0011.md#paper-153531) | 视频推理选具提示、停顿与回答对齐的教学段落 |
+| 模型效率与系统 | 量化 | [Structure, Subspace and System: Push the Real Limit of Extremely Low-Bit Quantization for MoE-LLMs](cards-0011.md#paper-153046) | MoE 专家压缩优先保护实际路由子空间。 |
+| 大语言模型 | 模型鲁棒性 | [Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy](cards-0011.md#paper-150200) | 指令层级防御独立监测内部状态是否偏离。 |
+| 深度学习 | 搜索与规划 | [Structuring Open-Ended NAS: Semi-Automated Design Knowledge Structuring with LLMs for Efficient Neural Architecture Search](cards-0011.md#paper-151464) | 开放架构搜索把已有设计知识结构化再变异。 |
+| 强化学习 | 搜索与规划 | [StylePlan: Style-Conditioned Intent Planning for Zero-Shot Coordination](cards-0011.md#paper-152367) | 协作伙伴在线表示分慢风格与快意图。 |
+| 生成模型 | 图像编辑 | [StyleRoute: Diffusion Style Transfer via Regional Routing and Conflict-aware Projection](cards-0011.md#paper-155545) | 风格迁移分别选择区域和解决优化冲突。 |
+| 深度学习 | 训练策略 | [Subcritical Signal Propagation at Initialization in Normalization-Free Transformers](cards-0011.md#paper-149848) | 无归一化 Transformer 初始化量跨层梯度放大。 |
+| 机器学习理论 | 数据选择 | [Subdata Selection: A Unified Framework for Optimal Selection and Statistical Efficiency Assessment](cards-0011.md#paper-149020) | 子集选择和最优统计效率界对照。 |
+| 机器学习理论 | 不确定性估计 | [Sub-Gaussian Confidence Intervals for Heavy-Tailed Data: Characterizing the Limits of Inference](cards-0011.md#paper-148636) | 重尾估计按有效样本数配置置信区间。 |
+| 大语言模型 | 知识蒸馏 | [Subliminal Learning as Trait-Direction Drift: A Mechanism and Targeted Control under SFT Distillation](cards-0011.md#paper-154775) | 蒸馏上线前监测非目标属性方向。 |
+| 大语言模型 | 知识蒸馏 | [Subliminal Learning Is Steering Vector Distillation](cards-0011.md#paper-153935) | 蒸馏审计同时看优化器是否积累小一致偏差。 |
+| 智能体与工具使用 | 模型鲁棒性 | [Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation](cards-0011.md#paper-153652) | 代理蒸馏后做独立行为安全回归。 |
+| 机器学习理论 | 优化算法 | [Sublinear Variational Optimization of Gaussian Mixture Models with Millions to Billions of Parameters](cards-0011.md#paper-156665) | 超大混合模型训练同时压低每轮成分和协方差估计代价。 |
+| 大语言模型 | 评测与诊断 | [Submodular Benchmark Selection](cards-0011.md#paper-151522) | 选少量评测时直接最大化其对未测成绩的信息。 |
+| 强化学习 | 奖励设计 | [Submodular Multi-Agent Reinforcement Learning for Effective Online Distributed Task Allocation](cards-0011.md#paper-149944) | 分布式任务分配可用边际差奖励训练去中心策略。 |
+| 强化学习 | 约束优化 | [Subprocess-Constrained Markov Decision Processes](cards-0011.md#paper-151247) | 轨迹从任意状态起都需安全时增加子过程约束。 |
+| 多模态学习 | 多模态融合 | [Subset-Conditioned Boundary Compensation for Missing-Modality Multimodal Classification](cards-0011.md#paper-151551) | 缺模态分类按观测子集分别补决策边界。 |
+| 机器学习基础与统计 | 训练策略 | [Subspace-Guided Continual Learning: Hessian Based Stable–Plastic Decomposition for Exemplar-Free Class-Incremental Learning](cards-0011.md#paper-150615) | 持续学习把旧任务高曲率方向和新知识方向分别管理。 |
+| 大语言模型 | 评测与诊断 | [SudoBench: A Contextual Authorization Benchmark for LLM Agents](cards-0011.md#paper-139455) | 用请求文本相同但授权相反的成对任务测试权限判断。 |
+| 机器学习基础与统计 | 优化 | [Super-Level-Set Regression: Conditional Quantiles via Volume Minimization](cards-0011.md#paper-154847) | 多变量条件分位区域直接最小化覆盖目标所需体积。 |
+| 大语言模型 | 评测与诊断 | [SuperSycophantic: Stress-Testing Frontier LLMs from Single- to Multi-Turn Sycophancy](cards-0011.md#paper-148794) | 多轮指令遵循区分客观正确性和主观迎合，并测初答正确后的翻转。 |
+| 计算机视觉 | 评测与诊断 | [SUPERVISE: A Unified Framework for Standardized and Reproducible Superpixel Evaluation](cards-0011.md#paper-139383) | 不同分割器用实际生成区域数对齐评价。 |
+| 机器学习基础与统计 | 数据策略 | [Supervision Recovery for Time Series Anomaly Detection via Counterfactual Pairing](cards-0011.md#paper-151678) | 合成异常先分离作用机制，再把影响转入目标域正常轨迹。 |
+| 大语言模型 | 理论与统计 | [Support Before Frequency in Discrete Diffusion](cards-0011.md#paper-149817) | 离散扩散分开测语法或可行性恢复，与样本相对频率拟合。 |
+| 机器学习基础与统计 | 评测与诊断 | [Support Mismatch as a Benchmark Failure Mode for In-Context Prediction](cards-0011.md#paper-153575) | 少样本基准要检查正确假设是否在候选支持内。 |
+| 机器人学 | 模型架构 | [Support-Safe Variational Hybrid Filtering for Contact-Mode and Sparse-Law Recovery](cards-0011.md#paper-155217) | 接触模式过滤给所有可行的离散转移保留概率。 |
+| 大语言模型 | 评测与诊断 | [Surface Recovery Is Not State Recovery: Pressure–Recovery–Relapse in Multi-turn LLMs](cards-0011.md#paper-152116) | 多轮纠错后施加弱压力做复发测试。 |
+| 机器学习基础与统计 | 优化 | [SURF: Steering the Scalarization Weight to Uniformly Traverse the Pareto Front](cards-0011.md#paper-155157) | 以 Pareto 前沿的弧长而非权重均匀度设计多目标扫描。 |
+| 计算机视觉 | 评测与诊断 | [SurGe: Improved Surface Geometry in Point Maps](cards-0011.md#paper-153420) | 单目点图要单测局部法向，而非只评深度或位姿。 |
+| 计算机视觉 | 推理策略 | [Surjective Pseudo-Invertible Neural Networks](cards-0011.md#paper-148844) | 非线性逆问题用解空间投影保持模型输出符合当前观测。 |
+| 大语言模型 | 训练与优化 | [Surprise, Episodic Context, and Catastrophic Forgetting in LLM Fine-Tuning: An Empirical Study](cards-0011.md#paper-150609) | 高惊讶度微调样本加入显式情境 |
+| 视觉与多模态 | 评测与诊断 | [Surprisingly consistent failures of post-hoc OOD detectors reveal security concerns in open-set recognition with modern CNNs and ViTs, stemming from representation mismatch](cards-0011.md#paper-139105) | 开放集感知单测不同检测器反复漏掉的共享难例 |
+| 大语言模型 | 强化学习与奖励 | [Survive or Collapse: The Asymmetric Roles of Data Gating and Reward Grounding in Self-Play RL](cards-0011.md#paper-154070) | 自博弈优先控制入场任务的有效性 |
+| 大语言模型 | 效率与系统 | [SVDP: Training-Free Contextual Sparsity Predictors for Fast LLM Inference](cards-0011.md#paper-150863) | 高激活稀疏层按上下文提前预测计算需求 |
+| 视觉与多模态 | 强化学习与奖励 | [SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning](cards-0011.md#paper-150413) | 空间推理直接验证可视中间状态及合法转移 |
+| 智能体 | 评测与诊断 | [SWE-Git-Bench: A Worktree-Level Benchmark for Real Merge Conflict Resolution](cards-0011.md#paper-139812) | 代码合并自动评测要验证语义与安全性 |
+| 智能体 | 评测与诊断 | [SWE-Marathon: Can AI Agents Autonomously Complete Ultra-Long-Horizon Software Work?](cards-0011.md#paper-139342) | 超长代码任务对评测环境本身做完整性验收 |
+| 智能体与工具使用 | 评测与诊断 | [SWE-Pro: A Benchmark for Evaluating LLMs on Performance-Oriented Repository-Level Optimization](cards-0011.md#paper-139202) | 代码加速测试按输入及环境参数复测峰值和时间加权内存。 |
+| 智能体与工具使用 | 模型路由 | [SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](cards-0011.md#paper-155936) | 小代码代理只在高价值问题请求专家。 |
+| 具身智能与机器人 | 流匹配 | [SwiftFlow: An Efficient One-Step Policy Learning via Improved Mean Flow for Robotic Manipulation](cards-0011.md#paper-153489) | 机器人策略若要求一步推理，训练中直接约束 mean flow。 |
+| 计算机视觉 | 采样与数据选择 | [Swift Sampling: Selecting Temporal Surprises via Taylor Series](cards-0011.md#paper-151623) | 视频抽帧按预测残差找意外时刻。 |
+| 多模态学习 | 剪枝与稀疏化 | [SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass](cards-0011.md#paper-150961) | 浅层暂不处理的视觉 token 后续可重新进入。 |
+| 模型效率与系统 | 架构设计 | [Swimba: Switch Mamba Model Scales State Space Models](cards-0011.md#paper-150319) | SSM 专家需要固定递归成本时在参数层混合。 |
+| 深度学习 | 可解释性 | [Symb-xMIL: Symbolic Explanations for Multiple Instance Learning in Digital Pathology](cards-0011.md#paper-152976) | 多实例模型解释应量化与明确规则的匹配。 |
+| 生成模型 | 表征学习 | [SymDrift: One-Shot Generative Modeling under Symmetries](cards-0011.md#paper-151782) | 等变生成需使训练漂移场本身尊重对称。 |
+| 大语言模型 | 评测与诊断 | [Symmetric Interventions for Eliciting Model Intent](cards-0011.md#paper-152474) | 安全意图评估设计行为相同但假说预测不同的对照。 |
+| 深度学习 | 等变性 | [Symmetry-Guaranteed Prediction of High-Order Tensor Properties for Crystalline Materials via Irreducible Decomposition](cards-0011.md#paper-155311) | 高阶物理张量先预测约束的不可约量。 |
+| 机器学习理论 | 不确定性估计 | [Symmetry Guarantees Statistic Recovery in Variational Inference](cards-0011.md#paper-151617) | VI 用对称条件预判哪些统计量可恢复。 |
+| 深度学习 | 世界模型 | [SympFNO: Structure-Preserving Fourier Neural Operators for Physical Surrogate Modeling](cards-0011.md#paper-152328) | 物理算子学习将辛结构同时植入频域和实域。 |
+| 深度学习 | 世界模型 | [Symplectic Neural Operators for Learning Infinite Dimensional Hamiltonian Systems](cards-0011.md#paper-148541) | 长程 Hamiltonian 预测同时验短期误差与辛结构。 |
+| 生成模型 | 流匹配 | [Symplectic Normal Coordinates Flow for Generative Modeling of Hamiltonian Systems](cards-0011.md#paper-155724) | 弱非线性物理生成可用正规坐标中的幅值旋转。 |
+| 深度学习 | 世界模型 | [Symplectic Parallel Scan: A Neural Hamiltonian Framework for Accelerated Scientific Simulation](cards-0011.md#paper-148524) | 并行长轨迹模拟先找封闭的生成元结构。 |
+| 深度学习 | 训练策略 | [Synaptic Strength Controls Trainability and Structural Stability in Rank-Deficient RNNs](cards-0011.md#paper-151225) | 低秩初始化循环网独立调初始突触强度。 |
+| 大语言模型 | 评测与诊断 | [SynBench: A Benchmark for Differentially Private Text Generation](cards-0011.md#paper-139111) | 隐私文本合成按预训练重合分层报告质量。 |
+| 计算机视觉 | 图像编辑 | [SyncLight: Single-Edit Multi-View Relighting](cards-0011.md#paper-148172) | 多视角重光照可先用图像对学习一致编辑。 |
+| 机器人学 | 模型架构 | [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](cards-0011.md#paper-149981) | 用短校准视频与动作说明陌生设备的控制映射。 |
+| 多模态学习 | 评测与诊断 | [SynDORBench: Evaluating LVLM Perceptual Robustness Under Physically Constrained Visibility Conditions](cards-0011.md#paper-139213) | 视觉感知测评按物理可见性控制距离、照明和相机。 |
+| 机器人学 | 推理策略 | [SynerVLA: Exploiting Embodied Execution Phases for On-Device Dual-System VLA Acceleration](cards-0011.md#paper-151851) | 双系统控制按接近和精操作阶段改变视觉计算。 |
+| 多模态学习 | 推理策略 | [SynGeo: Synergizing Seeing and Proving through Revisable Geometric States](cards-0011.md#paper-150196) | 符号证明失败后允许重看图像并修正几何谓词。 |
+| 计算机视觉 | 模型架构 | [SynGS: Synergistic Continual Learning and Change Detection with Gaussian Splatting](cards-0011.md#paper-153370) | 三维场景更新将真实变化概率和光照变化的校正分开。 |
+| 多模态学习 | 损失函数 | [SynIB: Informational Bottleneck for Maximizing Synergy in Multimodal Learning](cards-0011.md#paper-150893) | 对确需多模态的样本，同时奖励全模态正确和缺一模态后的适当降置信。 |
+| 大语言模型 | 数据策略 | [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](cards-0011.md#paper-151073) | 企业合成轨迹通过遵守规则的环境接口生成，而非独立生成各条记录。 |
+| 机器学习基础与统计 | 表征学习 | [Synthetic Anchor-Assisted Prototype Alignment for Heterogeneous Federated Learning](cards-0011.md#paper-149579) | 异质联邦客户端可用外部可重复参考原型对齐，降低对共享客户端原型的依赖。 |
+| 大语言模型 | 训练策略 | [Synthetic Pre-Pre-Training Improves Language Model Robustness to Noisy Pre-Training Data](cards-0011.md#paper-154925) | 正式预训练数据噪声高时，可以先用简单合成序列初始化结构学习。 |
+| 大语言模型 | 数据策略 | [Synthetic Tasks for Training AutoResearch](cards-0011.md#paper-152335) | 研究代理合成数据包含从基线构建到迭代改进的完整闭环。 |
+| 大语言模型 | 评测与诊断 | [Synthetic Web: Benchmarking Language Agents under Adversarial Search Ranking](cards-0011.md#paper-155345) | 网页智能体要测试可靠证据在排名变化下能否找到并判断。 |
+| 大语言模型 | 数据策略 | [Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](cards-0011.md#paper-155151) | 时效知识测试用一致虚构世界构建无预训练泄漏的事件更新。 |
+| 计算机视觉 | 评测与诊断 | [SynthForensics: Benchmarking and Evaluating People-Centric Synthetic Video Deepfakes](cards-0011.md#paper-139072) | 视频防伪分别评估生成造假与编辑伪造，并测更新后的旧任务退化。 |
+| 大语言模型 | 推理策略 | [Systematic Hazard Sampling: Minimal-Variance Inference for Discrete Diffusion and Flow Models](cards-0011.md#paper-151432) | 离散扩散采样单独控制重复编辑和编辑不足的方差。 |
+| 视觉与多模态 | 模型与架构 | [T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals](cards-0011.md#paper-152792) | 网格压缩分开保留纹理与几何自由度 |
+| 机器学习基础与统计 | 生成与扩散 | [TabWorld: A World-Modeling Foundation Model for Tabular Generation](cards-0011.md#paper-150304) | 生成式世界模型对干预信号用已知因果过程监督 |
+| 视觉与多模态 | 训练与优化 | [TACO: Towards Task-Consistent Open-Vocabulary Adaptation in Video Recognition](cards-0011.md#paper-154934) | 开放词汇视频适配允许临时专门层而保护部署表示 |
+| 视觉与多模态 | 模型与架构 | [TAC: Timestamped Audio Captioning](cards-0011.md#paper-148688) | 音频推理用带时间戳的文字作为可审阅桥梁 |
+| 视觉与多模态 | 效率与系统 | [TACT-KV: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs](cards-0011.md#paper-153041) | 三维缓存压缩利用三轴相关结构 |
+| 机器学习基础与统计 | 训练与优化 | [TailAdapt: Heavy-Tailed Sparse Variational Adaptation for Long-Tailed Class Incremental Learning](cards-0011.md#paper-155710) | 增量长尾学习分配少量可大幅更新的适配容量 |
+| 大语言模型 | 推理与搜索 | [Tail Competition Explains Scaling in Best-of-N Sampling for Verifiable Problems](cards-0011.md#paper-150715) | Best-of-N 候选数按照验证器错误尾部选择 |

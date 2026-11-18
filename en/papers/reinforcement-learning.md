@@ -700,5 +700,8 @@ Learning from interaction, feedback, and offline experience.
 - [Stabilizing RL+Search for Imperfect-Information Extensive-Form Games](../../conferences/neurips-2026/cards-0011.md#paper-153095)
 - [Stable GFlowNets with Probabilistic Guarantees](../../conferences/neurips-2026/cards-0011.md#paper-150233)
 - [Structural Entropy Optimized Communication for Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-149682)
+- [StylePlan: Style-Conditioned Intent Planning for Zero-Shot Coordination](../../conferences/neurips-2026/cards-0011.md#paper-152367)
+- [Submodular Multi-Agent Reinforcement Learning for Effective Online Distributed Task Allocation](../../conferences/neurips-2026/cards-0011.md#paper-149944)
+- [Subprocess-Constrained Markov Decision Processes](../../conferences/neurips-2026/cards-0011.md#paper-151247)
 
 <!-- conference-classification:end -->

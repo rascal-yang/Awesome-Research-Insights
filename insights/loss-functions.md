@@ -400,5 +400,6 @@
 - [SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization](../conferences/neurips-2026/cards-0011.md#paper-156008)
 - [Soft Token Alignment for Cross-Lingual Reasoning](../conferences/neurips-2026/cards-0011.md#paper-149550)
 - [StaDy: Factorizing the World into Static and Dynamic via Likelihood Matching](../conferences/neurips-2026/cards-0011.md#paper-149420)
+- [SynIB: Informational Bottleneck for Maximizing Synergy in Multimodal Learning](../conferences/neurips-2026/cards-0011.md#paper-150893)
 
 <!-- conference-classification:end -->

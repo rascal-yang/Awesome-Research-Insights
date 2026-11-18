@@ -592,5 +592,11 @@
 - [StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models](../conferences/neurips-2026/cards-0011.md#paper-154290)
 - [Strong Stochastic Flow Maps](../conferences/neurips-2026/cards-0011.md#paper-149475)
 - [Structure-Guided Masked Autoencoders for Ultra-High Resolution Scientific Image Understanding](../conferences/neurips-2026/cards-0011.md#paper-150156)
+- [Support-Safe Variational Hybrid Filtering for Contact-Mode and Sparse-Law Recovery](../conferences/neurips-2026/cards-0011.md#paper-155217)
+- [Swimba: Switch Mamba Model Scales State Space Models](../conferences/neurips-2026/cards-0011.md#paper-150319)
+- [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](../conferences/neurips-2026/cards-0011.md#paper-149981)
+- [SynGS: Synergistic Continual Learning and Change Detection with Gaussian Splatting](../conferences/neurips-2026/cards-0011.md#paper-153370)
+- [T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals](../conferences/neurips-2026/cards-0011.md#paper-152792)
+- [TAC: Timestamped Audio Captioning](../conferences/neurips-2026/cards-0011.md#paper-148688)
 
 <!-- conference-classification:end -->

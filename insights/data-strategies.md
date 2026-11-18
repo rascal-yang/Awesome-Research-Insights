@@ -392,5 +392,11 @@
 - [ST-Bridge: Bridging Sketch and Text with Large Language Models for Coarse-to-Fine Image Retrieval](../conferences/neurips-2026/cards-0011.md#paper-153362)
 - [SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](../conferences/neurips-2026/cards-0011.md#paper-154457)
 - [Streaming Interventions: Can Video LLMs Correct Mistakes as They Occur?](../conferences/neurips-2026/cards-0011.md#paper-138994)
+- [Subdata Selection: A Unified Framework for Optimal Selection and Statistical Efficiency Assessment](../conferences/neurips-2026/cards-0011.md#paper-149020)
+- [Supervision Recovery for Time Series Anomaly Detection via Counterfactual Pairing](../conferences/neurips-2026/cards-0011.md#paper-151678)
+- [Swift Sampling: Selecting Temporal Surprises via Taylor Series](../conferences/neurips-2026/cards-0011.md#paper-151623)
+- [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](../conferences/neurips-2026/cards-0011.md#paper-151073)
+- [Synthetic Tasks for Training AutoResearch](../conferences/neurips-2026/cards-0011.md#paper-152335)
+- [Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](../conferences/neurips-2026/cards-0011.md#paper-155151)
 
 <!-- conference-classification:end -->

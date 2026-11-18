@@ -775,5 +775,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Stable and Scalable Probabilistic Numerical Solvers for Stiff and High-Dimensional ODEs](../../conferences/neurips-2026/cards-0011.md#paper-150122)
 - [Stable Max Coverage Under a Cardinality Constraint](../../conferences/neurips-2026/cards-0011.md#paper-156002)
 - [Strategic Decision Focused Learning](../../conferences/neurips-2026/cards-0011.md#paper-156150)
+- [Sublinear Variational Optimization of Gaussian Mixture Models with Millions to Billions of Parameters](../../conferences/neurips-2026/cards-0011.md#paper-156665)
+- [Subprocess-Constrained Markov Decision Processes](../../conferences/neurips-2026/cards-0011.md#paper-151247)
+- [Super-Level-Set Regression: Conditional Quantiles via Volume Minimization](../../conferences/neurips-2026/cards-0011.md#paper-154847)
+- [SURF: Steering the Scalarization Weight to Uniformly Traverse the Pareto Front](../../conferences/neurips-2026/cards-0011.md#paper-155157)
 
 <!-- conference-classification:end -->

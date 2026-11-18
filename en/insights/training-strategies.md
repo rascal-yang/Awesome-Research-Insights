@@ -950,5 +950,14 @@ Training schedules, curricula, and task or stage composition.
 - [Structural Self-Teaching for Compositional Generation in Unified Multimodal Models](../../conferences/neurips-2026/cards-0011.md#paper-155187)
 - [Structure-agnostic Causal Representation Learning](../../conferences/neurips-2026/cards-0011.md#paper-155070)
 - [Structure Over Scale: Learning Visual Reasoning from Pedagogical Video](../../conferences/neurips-2026/cards-0011.md#paper-153531)
+- [Subcritical Signal Propagation at Initialization in Normalization-Free Transformers](../../conferences/neurips-2026/cards-0011.md#paper-149848)
+- [Subliminal Learning as Trait-Direction Drift: A Mechanism and Targeted Control under SFT Distillation](../../conferences/neurips-2026/cards-0011.md#paper-154775)
+- [Subliminal Learning Is Steering Vector Distillation](../../conferences/neurips-2026/cards-0011.md#paper-153935)
+- [Subspace-Guided Continual Learning: Hessian Based Stable–Plastic Decomposition for Exemplar-Free Class-Incremental Learning](../../conferences/neurips-2026/cards-0011.md#paper-150615)
+- [Surprise, Episodic Context, and Catastrophic Forgetting in LLM Fine-Tuning: An Empirical Study](../../conferences/neurips-2026/cards-0011.md#paper-150609)
+- [Synaptic Strength Controls Trainability and Structural Stability in Rank-Deficient RNNs](../../conferences/neurips-2026/cards-0011.md#paper-151225)
+- [Synthetic Pre-Pre-Training Improves Language Model Robustness to Noisy Pre-Training Data](../../conferences/neurips-2026/cards-0011.md#paper-154925)
+- [TACO: Towards Task-Consistent Open-Vocabulary Adaptation in Video Recognition](../../conferences/neurips-2026/cards-0011.md#paper-154934)
+- [TailAdapt: Heavy-Tailed Sparse Variational Adaptation for Long-Tailed Class Incremental Learning](../../conferences/neurips-2026/cards-0011.md#paper-155710)
 
 <!-- conference-classification:end -->

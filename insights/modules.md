@@ -462,5 +462,7 @@
 - [StreamMind: Dynamic Streaming Cognition for Online Video Understanding](../conferences/neurips-2026/cards-0011.md#paper-151287)
 - [StreamOV: Streaming Omni-Video Understanding via Evidence-Guided Memory and Response Triggering](../conferences/neurips-2026/cards-0011.md#paper-150068)
 - [Structured Sparse Memory for Recurrent Reasoning](../conferences/neurips-2026/cards-0011.md#paper-149635)
+- [Subset-Conditioned Boundary Compensation for Missing-Modality Multimodal Classification](../conferences/neurips-2026/cards-0011.md#paper-151551)
+- [SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](../conferences/neurips-2026/cards-0011.md#paper-155936)
 
 <!-- conference-classification:end -->
