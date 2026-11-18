@@ -52,8 +52,8 @@ number	openreview_id	title	paper_url	reason	status
 51	oKJnHTluoA	MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model	https://openreview.net/forum?id=oKJnHTluoA		pending
 52	U620dzd51N	Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies	https://openreview.net/forum?id=U620dzd51N	用离散本体状态和指令在主干计算前筛选视觉片段	included
 53	rcE4amkjBq	GeoProp: Grounding Robot State in Vision for Generalist Manipulation	https://openreview.net/forum?id=rcE4amkjBq	用运动学投影把本体状态对准同位置的视觉特征	included
-54	1uKIsrjCvt	Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies	https://openreview.net/forum?id=1uKIsrjCvt		pending
-55	Afq9dTKP09	Attention from Action, for Action: Emergent Visual Bottlenecks for Policy Learning	https://openreview.net/forum?id=Afq9dTKP09		pending
+54	1uKIsrjCvt	Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies	https://openreview.net/forum?id=1uKIsrjCvt	用当前本体状态在 CNN 中间特征上选择性汇聚	included
+55	Afq9dTKP09	Attention from Action, for Action: Emergent Visual Bottlenecks for Policy Learning	https://openreview.net/forum?id=Afq9dTKP09	用动作监督学习随任务进度变化的感兴趣区域	included
 56	PEWWDUL10X	OmniGuide: Universal Spatial Guidance Fields for Enhancing Generalist Robot Policies	https://openreview.net/forum?id=PEWWDUL10X		pending
 57	wKRawikMuG	Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models	https://openreview.net/forum?id=wKRawikMuG		pending
 58	0HnCTHL4fw	Towards Human-like Physical Intelligence: Lifelong Vision-Language-Action Learning for Robotic Manipulation	https://openreview.net/forum?id=0HnCTHL4fw		pending

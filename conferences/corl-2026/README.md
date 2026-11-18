@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **49 / 687** 篇，当前收录 **49** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **51 / 687** 篇，当前收录 **51** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -55,3 +55,5 @@
 | 具身智能 / Agent | 策略接口 | [See Less, Specify More](cards.md#paper-rykaehgzzo) | 保留全局目标，另给执行器局部指令和显式视觉预算 |
 | 具身智能 / 多模态 | 感知路由 | [ThinkProprio](cards.md#paper-u620dzd51n) | 用离散本体状态和指令在主干计算前筛选视觉片段 |
 | 具身智能 / 多模态 | 表征学习 | [GeoProp](cards.md#paper-rce4amkjbq) | 用运动学投影把本体状态对准同位置的视觉特征 |
+| 具身智能 / 多模态 | 感知路由 | [FocusPool](cards.md#paper-1ukisrjcvt) | 用当前本体状态在 CNN 中间特征上选择性汇聚 |
+| 具身智能 / 多模态 | 感知路由 | [Seeker](cards.md#paper-afq9dtkp09) | 用动作监督学习随任务进度变化的感兴趣区域 |
