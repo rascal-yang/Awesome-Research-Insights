@@ -131,6 +131,7 @@
 - <a id="ullah26b-modules"></a>[HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces](../conferences/icml-2026/cards/4501-4600.md#paper-ullah26b)
 - <a id="wang26cs-modules"></a>[PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cs)
 - <a id="wang26ec-modules"></a>[Crisp: A Spectral-Based Interaction Strategy for Multivariate Time Series Forecasting](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ec)
+- <a id="weitekamp26a-modules"></a>[STAND: Self-Aware Precondition Induction for Interactive Task Learning](../conferences/icml-2026/cards/4901-5000.md#paper-weitekamp26a)
 
 <a id="by-loss-functions"></a>
 
@@ -431,6 +432,7 @@
 - <a id="wang26gq-optimization"></a>[OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gq)
 - <a id="wang26ii-optimization"></a>[FedEBA+: Towards Fair and Effective Federated Learning via Entropy-Based Model](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ii)
 - <a id="wang26is-optimization"></a>[GradPower: Powering Gradients for Faster Language Model Pre-Training](../conferences/icml-2026/cards/4801-4900.md#paper-wang26is)
+- <a id="wei26aj-optimization"></a>[A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization](../conferences/icml-2026/cards/4901-5000.md#paper-wei26aj)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1134,4 +1136,5 @@
 - <a id="wegel26a-theory-statistics"></a>[Hedging on the Frontier: Learning New Tasks with Few Samples](../conferences/icml-2026/cards/4901-5000.md#paper-wegel26a)
 - <a id="wei26a-theory-statistics"></a>[Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy](../conferences/icml-2026/cards/4901-5000.md#paper-wei26a)
 - <a id="wei26o-theory-statistics"></a>[Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](../conferences/icml-2026/cards/4901-5000.md#paper-wei26o)
+- <a id="wei26ai-theory-statistics"></a>[Exploration-free Algorithms for Multi-group Mean Estimation](../conferences/icml-2026/cards/4901-5000.md#paper-wei26ai)
 <!-- classification:end -->

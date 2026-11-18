@@ -244,6 +244,7 @@ Training schedules, curricula, and task or stage composition.
 - [When Does Predictive Inverse Dynamics Outperform Behavior Cloning?](../../conferences/icml-2026/cards/3901-4000.md#schafer26a-training-strategies) · 中文
 - [What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion](../../conferences/icml-2026/cards/4101-4200.md#shihab26d-training-strategies) · 中文
 - [Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26jc-training-strategies) · 中文
+- [The Role of Target Update Frequencies in Q-Learning](../../conferences/icml-2026/cards/4901-5000.md#weissmann26a-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 

@@ -209,6 +209,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="rubbi26a-optimization"></a>[Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments](../../conferences/icml-2026/cards/3901-4000.md#paper-rubbi26a)
 - <a id="saveliev26a-optimization"></a>[Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback](../../conferences/icml-2026/cards/3901-4000.md#paper-saveliev26a)
 - <a id="wang26ey-optimization"></a>[JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ey)
+- <a id="wen26a-optimization"></a>[Learning, Solving and Optimizing PDEs with TensorGalerkin: an efficient high-performance Galerkin assembly algorithm](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26a)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -323,6 +324,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="saberi26a-inference"></a>[Training-Free Adversarial Robustness in Computational MRI](../../conferences/icml-2026/cards/3901-4000.md#paper-saberi26a)
 - <a id="savary26a-inference"></a>[Training-Free Bayesian Filtering with Generative Emulators](../../conferences/icml-2026/cards/3901-4000.md#paper-savary26a)
 - <a id="serrano26a-inference"></a>[Test-time Generalization for Physics through Neural Operator Splitting](../../conferences/icml-2026/cards/4001-4100.md#paper-serrano26a)
+- <a id="weiland26a-inference"></a>[Scalable Bayesian Inference for Nonlinear Conservation Laws](../../conferences/icml-2026/cards/4901-5000.md#paper-weiland26a)
 
 <a id="by-representation-learning"></a>
 

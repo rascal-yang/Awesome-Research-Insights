@@ -101,6 +101,7 @@ Objectives, auxiliary supervision, and regularization.
 - [EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition](../../conferences/icml-2026/cards/4701-4800.md#wang26eu-loss-functions) · 中文
 - [Revisiting Spectral Representations in Generative Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#wang26hu-loss-functions) · 中文
 - [Deep Trajectory Supervision: Deep Supervision Strikes Back](../../conferences/icml-2026/cards/4801-4900.md#wang26ib-loss-functions) · 中文
+- [Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection](../../conferences/icml-2026/cards/4901-5000.md#wei26af-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

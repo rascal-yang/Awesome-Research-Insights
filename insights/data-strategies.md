@@ -116,6 +116,7 @@
 - [按尺度原型修正VAR logits](../conferences/icml-2026/cards/4601-4700.md#wang26co-data-strategies) · ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling
 - [按本地与全局预测缺口补数据](../conferences/icml-2026/cards/4701-4800.md#wang26ga-data-strategies) · FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning
 - [片间一致性约束的拼图回放](../conferences/icml-2026/cards/4701-4800.md#wang26hc-data-strategies) · Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning
+- [共享球谐基上的跨样本频带混合](../conferences/icml-2026/cards/4901-5000.md#wei26ad-data-strategies) · PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing
 
 <a id="by-nlp"></a>
 

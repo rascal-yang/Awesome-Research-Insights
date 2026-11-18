@@ -183,6 +183,8 @@
 - [按局部熵变化判别量裁剪token](../conferences/icml-2026/cards/4801-4900.md#wang26jg-reinforcement-learning) · On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models
 - [工具调用奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26jn-reinforcement-learning) · DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents
 - [未来信息集合监督提问与停止](../conferences/icml-2026/cards/4901-5000.md#wei26b-reinforcement-learning) · Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs
+- [拒答位于对错之间的结果奖励](../conferences/icml-2026/cards/4901-5000.md#wei26ab-reinforcement-learning) · TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning
+- [先验与后验轨迹的混合训练](../conferences/icml-2026/cards/4901-5000.md#wen26f-reinforcement-learning) · Coupled Variational Reinforcement Learning for Language Model General Reasoning
 
 <a id="by-computer-vision"></a>
 

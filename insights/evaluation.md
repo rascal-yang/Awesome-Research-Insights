@@ -402,6 +402,7 @@
 - [扰动响应而非静态伪影](../conferences/icml-2026/cards/4601-4700.md#wang26ad-evaluation) · RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry
 - [属性梯度冲突与共同难例](../conferences/icml-2026/cards/4601-4700.md#wang26aj-evaluation) · When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment
 - [硬标签法向估计的坐标信噪比](../conferences/icml-2026/cards/4701-4800.md#wang26gh-evaluation) · Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks
+- [随机反演重建的训练成员审计](../conferences/icml-2026/cards/4901-5000.md#wei26ah-evaluation) · RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness
 
 <a id="by-nlp"></a>
 

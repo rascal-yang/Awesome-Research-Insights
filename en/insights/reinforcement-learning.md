@@ -183,6 +183,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26jg-reinforcement-learning) · 中文
 - [DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents](../../conferences/icml-2026/cards/4801-4900.md#wang26jn-reinforcement-learning) · 中文
 - [Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](../../conferences/icml-2026/cards/4901-5000.md#wei26b-reinforcement-learning) · 中文
+- [TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](../../conferences/icml-2026/cards/4901-5000.md#wei26ab-reinforcement-learning) · 中文
+- [Coupled Variational Reinforcement Learning for Language Model General Reasoning](../../conferences/icml-2026/cards/4901-5000.md#wen26f-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

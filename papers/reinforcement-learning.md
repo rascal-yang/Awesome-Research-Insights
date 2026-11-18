@@ -213,6 +213,7 @@
 - <a id="schafer26a-training-strategies"></a>[When Does Predictive Inverse Dynamics Outperform Behavior Cloning?](../conferences/icml-2026/cards/3901-4000.md#paper-schafer26a)
 - <a id="shihab26d-training-strategies"></a>[What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion](../conferences/icml-2026/cards/4101-4200.md#paper-shihab26d)
 - <a id="wang26jc-training-strategies"></a>[Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jc)
+- <a id="weissmann26a-training-strategies"></a>[The Role of Target Update Frequencies in Q-Learning](../conferences/icml-2026/cards/4901-5000.md#paper-weissmann26a)
 
 <a id="by-data-strategies"></a>
 

@@ -741,4 +741,5 @@
 - [用重采样一致性校正受扰观测](../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · Training-Free Adversarial Robustness in Computational MRI
 - [生成式动力学模拟器的免训练贝叶斯滤波](../conferences/icml-2026/cards/3901-4000.md#savary26a-inference) · Training-Free Bayesian Filtering with Generative Emulators
 - [在推断时组合训练好的 PDE 算子外推新物理](../conferences/icml-2026/cards/4001-4100.md#serrano26a-inference) · Test-time Generalization for Physics through Neural Operator Splitting
+- [非线性守恒GP的通量状态扩充](../conferences/icml-2026/cards/4901-5000.md#weiland26a-inference) · Scalable Bayesian Inference for Nonlinear Conservation Laws
 <!-- classification:end -->

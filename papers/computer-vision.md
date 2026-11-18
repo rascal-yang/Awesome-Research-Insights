@@ -170,6 +170,7 @@
 - <a id="wang26eu-loss-functions"></a>[EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition](../conferences/icml-2026/cards/4701-4800.md#paper-wang26eu)
 - <a id="wang26hu-loss-functions"></a>[Revisiting Spectral Representations in Generative Diffusion Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hu)
 - <a id="wang26ib-loss-functions"></a>[Deep Trajectory Supervision: Deep Supervision Strikes Back](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ib)
+- <a id="wei26af-loss-functions"></a>[Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection](../conferences/icml-2026/cards/4901-5000.md#paper-wei26af)
 
 <a id="by-optimization"></a>
 
@@ -328,6 +329,7 @@
 - <a id="wang26co-data-strategies"></a>[ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](../conferences/icml-2026/cards/4601-4700.md#paper-wang26co)
 - <a id="wang26ga-data-strategies"></a>[FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ga)
 - <a id="wang26hc-data-strategies"></a>[Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26hc)
+- <a id="wei26ad-data-strategies"></a>[PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing](../conferences/icml-2026/cards/4901-5000.md#paper-wei26ad)
 
 <a id="by-inference"></a>
 
@@ -574,6 +576,7 @@
 - <a id="wang26ad-evaluation"></a>[RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ad)
 - <a id="wang26aj-evaluation"></a>[When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment](../conferences/icml-2026/cards/4601-4700.md#paper-wang26aj)
 - <a id="wang26gh-evaluation"></a>[Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gh)
+- <a id="wei26ah-evaluation"></a>[RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](../conferences/icml-2026/cards/4901-5000.md#paper-wei26ah)
 
 <a id="by-theory-statistics"></a>
 

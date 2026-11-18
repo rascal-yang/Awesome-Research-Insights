@@ -244,6 +244,7 @@
 - [用未来状态把多解动作拆成条件选择](../conferences/icml-2026/cards/3901-4000.md#schafer26a-training-strategies) · When Does Predictive Inverse Dynamics Outperform Behavior Cloning?
 - [有置信门控的奖励补全](../conferences/icml-2026/cards/4101-4200.md#shihab26d-training-strategies) · What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion
 - [TD误差累计均值的平方根熵调度](../conferences/icml-2026/cards/4801-4900.md#wang26jc-training-strategies) · Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning
+- [几何增长的目标网络冻结周期](../conferences/icml-2026/cards/4901-5000.md#weissmann26a-training-strategies) · The Role of Target Update Frequencies in Q-Learning
 
 <a id="by-robotics"></a>
 

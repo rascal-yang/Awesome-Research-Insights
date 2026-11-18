@@ -101,6 +101,7 @@
 - [光流监督的增量视频特征差](../conferences/icml-2026/cards/4701-4800.md#wang26eu-loss-functions) · EmWorld: Emotion World Model with Latent State Evolution for Scenario-Incremental Dynamic Facial Expression Recognition
 - [扩散噪声核的双视图谱对齐](../conferences/icml-2026/cards/4801-4900.md#wang26hu-loss-functions) · Revisiting Spectral Representations in Generative Diffusion Models
 - [随深度变尖的监督目标](../conferences/icml-2026/cards/4801-4900.md#wang26ib-loss-functions) · Deep Trajectory Supervision: Deep Supervision Strikes Back
+- [表达与属性的双粒度检测对齐](../conferences/icml-2026/cards/4901-5000.md#wei26af-loss-functions) · Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection
 
 <a id="by-nlp"></a>
 

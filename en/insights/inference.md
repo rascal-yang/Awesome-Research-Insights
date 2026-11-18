@@ -741,4 +741,5 @@ Decoding, test-time adaptation, and efficient execution.
 - [Training-Free Adversarial Robustness in Computational MRI](../../conferences/icml-2026/cards/3901-4000.md#saberi26a-inference) · 中文
 - [Training-Free Bayesian Filtering with Generative Emulators](../../conferences/icml-2026/cards/3901-4000.md#savary26a-inference) · 中文
 - [Test-time Generalization for Physics through Neural Operator Splitting](../../conferences/icml-2026/cards/4001-4100.md#serrano26a-inference) · 中文
+- [Scalable Bayesian Inference for Nonlinear Conservation Laws](../../conferences/icml-2026/cards/4901-5000.md#weiland26a-inference) · 中文
 <!-- classification:end -->

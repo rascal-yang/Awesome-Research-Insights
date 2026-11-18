@@ -402,6 +402,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry](../../conferences/icml-2026/cards/4601-4700.md#wang26ad-evaluation) · 中文
 - [When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment](../../conferences/icml-2026/cards/4601-4700.md#wang26aj-evaluation) · 中文
 - [Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks](../../conferences/icml-2026/cards/4701-4800.md#wang26gh-evaluation) · 中文
+- [RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](../../conferences/icml-2026/cards/4901-5000.md#wei26ah-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

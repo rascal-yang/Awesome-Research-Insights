@@ -426,6 +426,7 @@
 - [正交化之后取符号的矩阵更新](../conferences/icml-2026/cards/4701-4800.md#wang26gq-optimization) · OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases
 - [公平共享梯度的逐步混入](../conferences/icml-2026/cards/4801-4900.md#wang26ii-optimization) · FedEBA+: Towards Fair and Effective Federated Learning via Entropy-Based Model
 - [有符号幂梯度的噪声依赖选参](../conferences/icml-2026/cards/4801-4900.md#wang26is-optimization) · GradPower: Powering Gradients for Faster Language Model Pre-Training
+- [指数对偶变量的镜像近端更新](../conferences/icml-2026/cards/4901-5000.md#wei26aj-optimization) · A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -489,4 +490,5 @@
 - [按过阈概率选择后续实验](../conferences/icml-2026/cards/3901-4000.md#rubbi26a-optimization) · Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments
 - [逐项影响反馈驱动的符号回归](../conferences/icml-2026/cards/3901-4000.md#saveliev26a-optimization) · Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback
 - [二阶训练的对称折叠流水线](../conferences/icml-2026/cards/4701-4800.md#wang26ey-optimization) · JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials
+- [张量化局部计算与稀疏装配分离](../conferences/icml-2026/cards/4901-5000.md#wen26a-optimization) · Learning, Solving and Optimizing PDEs with TensorGalerkin: an efficient high-performance Galerkin assembly algorithm
 <!-- classification:end -->

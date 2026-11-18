@@ -590,6 +590,7 @@
 - [按基准Pareto边界收缩少样本模型选择](../conferences/icml-2026/cards/4901-5000.md#wegel26a-theory-statistics) · Hedging on the Frontier: Learning New Tasks with Few Samples
 - [按维数与隐私参数选择径向噪声](../conferences/icml-2026/cards/4901-5000.md#wei26a-theory-statistics) · Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy
 - [回溯训练数据的条件分离](../conferences/icml-2026/cards/4901-5000.md#wei26o-theory-statistics) · Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently
+- [按方差置信界分配多组采样预算](../conferences/icml-2026/cards/4901-5000.md#wei26ai-theory-statistics) · Exploration-free Algorithms for Multi-group Mean Estimation
 
 <a id="by-graph-and-recommendation"></a>
 

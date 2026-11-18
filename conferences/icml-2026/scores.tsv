@@ -4950,26 +4950,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4949	wei26w							最近原作FK-Steering(ICML2025 singhal25b) PDF4 Eq2–3/Alg1已给路径potential乘base/proposal转移比，明确允许likelihood奖励与gradient-guided proposal；PDF5还覆盖连续扩散的Euler–Maruyama实现和中间reward调度。SURGE PDF5 Eq5–6、PDF6将此比用Girsanov展开并逐步加入观测似然，外套物理时间滤波循环，未出现独立新权重/重采样规则。最近同类4824 URGE也属该路径SMC操作；Lorenz/流体/天气收益验证旧算子用于surrogate同化，不能单靠任务迁移保留。approximation-free只涉理想目标关系，不消除有限粒子、离散化和学习先验误差。先例：https://raw.githubusercontent.com/mlresearch/v267/main/assets/singhal25b/singhal25b.pdf#page=4	rule-excluded
 4950	wei26x	3	4	3	4	69		独立技术选择：自生成代码修复任务时，可把测试弱化的逆补丁作为精确任务说明，并逐文件反转验证每处注入修改确有必要；比单纯要求bug难度适中更能约束可验证训练信号。；条件/限制：原仓库测试与预装环境提供强人类知识，非无先验。组合课程对照不隔离每项验证门；额外失败状态/在线任务数量可能影响预算。附录指出难度目标可被出题者操控且不保证多样性，自博弈不证明超人能力。；定位：[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26x/wei26x.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26x/wei26x.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26x/wei26x.pdf#page=5)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26x/wei26x.pdf#page=7)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26x/wei26x.pdf#page=8)；[原文第13页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26x/wei26x.pdf#page=13)；[原文第14页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26x/wei26x.pdf#page=14)	scored
 4951	wei26y	3	4	4	4	73		独立技术选择：视频域适配可用不带时间位置编码的集合注意力均值作静态分支，从含位置编码的时序特征中相减，再做常规域对抗；避免为静/动态分解加入大量辅助目标。；条件/限制：置换不变只保证不读顺序，不保证只含背景或与动态统计独立，I3D输入本身已编码局部运动；相减不自动消除域差。RGRA按损失/参数搜索次数构造，不能当真实训练耗时比。附录16–17页的收敛还需常序列校准、均值稳定及Eq19的条件独立乘积分解，非置换不变本身推出。；定位：[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26y/wei26y.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26y/wei26y.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26y/wei26y.pdf#page=5)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26y/wei26y.pdf#page=7)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26y/wei26y.pdf#page=8)；[原文第16页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26y/wei26y.pdf#page=16)；[原文第17页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26y/wei26y.pdf#page=17)	scored
-4952	wei26z							待原文复核评分	pending
-4953	wei26aa							待原文复核评分	pending
-4954	wei26ab							待原文复核评分	pending
-4955	wei26ac							待原文复核评分	pending
-4956	wei26ad							待原文复核评分	pending
-4957	wei26ae							待原文复核评分	pending
-4958	wei26af							待原文复核评分	pending
-4959	wei26ag							待原文复核评分	pending
-4960	wei26ah							待原文复核评分	pending
-4961	wei26ai							待原文复核评分	pending
-4962	wei26aj							待原文复核评分	pending
-4963	weiland26a							待原文复核评分	pending
-4964	weissmann26a							待原文复核评分	pending
-4965	weitekamp26a							待原文复核评分	pending
-4966	wen26a							待原文复核评分	pending
-4967	wen26b							待原文复核评分	pending
-4968	wen26c							待原文复核评分	pending
-4969	wen26d							待原文复核评分	pending
-4970	wen26e							待原文复核评分	pending
-4971	wen26f							待原文复核评分	pending
+4952	wei26z							初筛，原文与先例核查待补：PDF3–6的软体/刚体弹簧耦合、rule waypoint→RL executor与新benchmark主要构成平台/数据流程；尚未提取超出既有Elastica控制与分层轨迹生成的独立通用操作。随机化性能下降的因果对照未读，不能直接当新失败规律。	rule-excluded
+4953	wei26aa							初筛，原文与先例核查待补：已读PDF3–6，主体并行调用TextGrad提示改写与ROSA参数更新，方法组合本身未给独立新增；switch控制未核匹配计算。Eq7漏πprev/πt比率，减小query KL不自动减小参数shift（Jacobian随query变化），不以理论口号补足新增。	rule-excluded
+4954	wei26ab	3	4	3	3	66		初筛，原文与先例核查待补：可改变事实QA的RL outcome reward，现有binary/ternary控制和负结果足以初筛；最近先例及判别器消融待补。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4955	wei26ac							初筛，原文与先例核查待补：已读PDF4–6及附录A部分：每memory独立推理、LLM路径审查再存反思lesson，接近既有consensus/Reflexion/双记忆组合；尚未隔离独立新增规则。embedding/DBSCAN明确存在安全-utility权衡，100%恶意多数时的收益不可仅归于consensus，需后续核judge/lesson控制。	rule-excluded
+4956	wei26ad	3	4	3	3	66		初筛，原文与先例核查待补：改变3D增强所用频谱基和频带/相对姿态混合；原文同骨干消融支持小幅受控收益，最近频谱原作待补。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4957	wei26ae							初筛，原文与先例核查待补：已读PDF3–7：semantic/entity/distance图、结构熵树、加权均值、HyDE式query及层级检索组合；消融未单独隔离局部entropy权重相对普通池化。token-free社区汇总不代表整个系统零token；目前不足以提取比旧hierarchical/graph RAG多的独立规则。	rule-excluded
+4958	wei26af	3	4	3	3	66		初筛，原文与先例核查待补：可改变检测/grounding属性监督粒度及投影头；原文提供去DenseAlign/去decoupled控制，最近多粒度先例待补。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4959	wei26ag							初筛，原文与先例核查待补：已读PDF3–5：自然语言→DSL→约束坐标优化→render沿成熟程序化图形生成路线，新GeoLingua/GeoNF和几何评价本身未隔离神经生成/训练的独立新操作；最近diagram solver原作与控制待补，初筛按流程/数据为主排除。	rule-excluded
+4960	wei26ah	3	4	3	3	66		初筛，原文与先例核查待补：改变扩散训练数据审计所用扰动强度与无参考评分；有中间η经验及相同similarity控制，最近MIA原作待补。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4961	wei26ai	3	3	3	3	60		初筛，原文与先例核查待补：可改变多组评测/固定特征参数估计的采样预算安排；暂仅保留明确方差代理目标与条件，不将其当真实自适应MSE定理。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4962	wei26aj	4	4	4	4	80		初筛，原文与先例核查待补：改变随机Log-E-Exp归一化器更新几何；闭式可复用且有冻结特征与末层实验，原作及完整附录证明待统一核查。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4963	weiland26a	3	4	3	3	66		初筛，原文与先例核查待补：改变物理约束推断的状态扩充与积分/点残差选择；线性旧法至非线性flux条件化及full/minimal负结果可提取，完整新颖性待核。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4964	weissmann26a	4	4	3	4	76		初筛，原文与先例核查待补：改变target copy周期的时间安排；明确tabular条件与受控周期图，旧periodic Q原作已缓存待统一核查。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4965	weitekamp26a	3	3	3	3	60		初筛，原文与先例核查待补：改变规则agent的候选前置条件结构及主动教学停止信号；明确非归一化certainty操作与低数据验证，最近压缩树/版本空间比对待补。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4966	wen26a	2	4	2	2	52		初筛，原文与先例核查待补：可改变可微PDE装配实现；当前方法材料足以成初筛候选，但最近原作/数值benchmark/消融全部待补。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
+4967	wen26b							初筛，原文与先例核查待补：已读PDF4–5的交替冻结对手/防御者GRPO、自博弈与安全/拒答奖励，主体为成熟adversarial self-play配置；未识别独立新防御目标或受控适用规律，不能凭规模/多轮称新。最近MART/R2D2原作与完整防御消融未统一核查。	rule-excluded
+4968	wen26c							初筛，原文与先例核查待补：已读PDF3–7：IPW加权ridge、better-of-two UCB和层级独立样本主流程已有Wen2025/Han2025明确来源；新增精细payment区间信息主要绑定二价拍卖。尚未识别可独立改变相关深度学习/RL选择、超出成熟因果bandit构件的通用增量；原作/完整控制待补。	rule-excluded
+4969	wen26d							初筛，原文与先例核查待补：已读PDF3–5：FCM hyperedge、prototype初始化与pairwise attention传播为成熟构件，O-information为解释工具，不证明pairwise网络无法表达高阶信息；尚未提取超出旧hypergraph/prototype做法的新通用规则。完整13集负结果与相同预算消融待补。	rule-excluded
+4970	wen26e							初筛，原文与先例核查待补：已读PDF3–6：图传播、class prototypes、平滑/分离loss、community检测与LLM标注融合是成熟流程组合；尚未隔离独立新增。式4 separation负号甚至奖励cos增大，定理不由所列弱条件自动成立；少调用LLM的degree假设和对照尚待核。	rule-excluded
+4971	wen26f	3	4	3	3	66		初筛，原文与先例核查待补：改变verifier-free训练的采样混合与概率更新对象；现有α控制支持经验选择，保留算法性候选，不沿用未成立IS/KL承诺。 暂定分仅评当前可表达操作；新颖性/完整预算与边界后续统一核。	scored
 4972	wen26g							待原文复核评分	pending
 4973	wen26h							待原文复核评分	pending
 4974	wen26i							待原文复核评分	pending

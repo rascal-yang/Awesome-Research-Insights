@@ -431,6 +431,8 @@
 - <a id="wang26jg-reinforcement-learning"></a>[On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jg)
 - <a id="wang26jn-reinforcement-learning"></a>[DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jn)
 - <a id="wei26b-reinforcement-learning"></a>[Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](../conferences/icml-2026/cards/4901-5000.md#paper-wei26b)
+- <a id="wei26ab-reinforcement-learning"></a>[TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](../conferences/icml-2026/cards/4901-5000.md#paper-wei26ab)
+- <a id="wen26f-reinforcement-learning"></a>[Coupled Variational Reinforcement Learning for Language Model General Reasoning](../conferences/icml-2026/cards/4901-5000.md#paper-wen26f)
 
 <a id="by-training-strategies"></a>
 

@@ -590,6 +590,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Hedging on the Frontier: Learning New Tasks with Few Samples](../../conferences/icml-2026/cards/4901-5000.md#wegel26a-theory-statistics) · 中文
 - [Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy](../../conferences/icml-2026/cards/4901-5000.md#wei26a-theory-statistics) · 中文
 - [Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](../../conferences/icml-2026/cards/4901-5000.md#wei26o-theory-statistics) · 中文
+- [Exploration-free Algorithms for Multi-group Mean Estimation](../../conferences/icml-2026/cards/4901-5000.md#wei26ai-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

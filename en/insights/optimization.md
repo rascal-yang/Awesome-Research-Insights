@@ -426,6 +426,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [OLion: Approaching the Hadamard Ideal by Intersecting Spectral and $\ell_∞$ Implicit Biases](../../conferences/icml-2026/cards/4701-4800.md#wang26gq-optimization) · 中文
 - [FedEBA+: Towards Fair and Effective Federated Learning via Entropy-Based Model](../../conferences/icml-2026/cards/4801-4900.md#wang26ii-optimization) · 中文
 - [GradPower: Powering Gradients for Faster Language Model Pre-Training](../../conferences/icml-2026/cards/4801-4900.md#wang26is-optimization) · 中文
+- [A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization](../../conferences/icml-2026/cards/4901-5000.md#wei26aj-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -489,4 +490,5 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Many Needles in a Haystack: Active Hit Discovery for Perturbation Experiments](../../conferences/icml-2026/cards/3901-4000.md#rubbi26a-optimization) · 中文
 - [Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback](../../conferences/icml-2026/cards/3901-4000.md#saveliev26a-optimization) · 中文
 - [JanusPipe: Efficient Pipeline Parallel Training for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/4701-4800.md#wang26ey-optimization) · 中文
+- [Learning, Solving and Optimizing PDEs with TensorGalerkin: an efficient high-performance Galerkin assembly algorithm](../../conferences/icml-2026/cards/4901-5000.md#wen26a-optimization) · 中文
 <!-- classification:end -->

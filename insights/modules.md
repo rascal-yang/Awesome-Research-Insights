@@ -226,6 +226,7 @@
 - [group-shared-sparse-output](../conferences/icml-2026/cards/4501-4600.md#ullah26b-modules) · HASTE: Hardware-Aware Dynamic Sparse Training for Large Output Spaces
 - [先去趋势匹配再压缩变量协同](../conferences/icml-2026/cards/4601-4700.md#wang26cs-modules) · PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting
 - [频谱一致性稀疏交互](../conferences/icml-2026/cards/4701-4800.md#wang26ec-modules) · Crisp: A Spectral-Based Interaction Strategy for Multivariate Time Series Forecasting
+- [规则候选格上的特定扩展确定度](../conferences/icml-2026/cards/4901-5000.md#weitekamp26a-modules) · STAND: Self-Aware Precondition Induction for Interactive Task Learning
 
 <a id="by-graph-and-recommendation"></a>
 

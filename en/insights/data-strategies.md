@@ -116,6 +116,7 @@ Data selection, annotation, augmentation, and sampling.
 - [ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](../../conferences/icml-2026/cards/4601-4700.md#wang26co-data-strategies) · 中文
 - [FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26ga-data-strategies) · 中文
 - [Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26hc-data-strategies) · 中文
+- [PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing](../../conferences/icml-2026/cards/4901-5000.md#wei26ad-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 
