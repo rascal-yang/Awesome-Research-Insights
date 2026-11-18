@@ -1292,5 +1292,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [KG-Guard: Graph-Based Hallucination Detection for Knowledge Base Question Answering](../../conferences/neurips-2026/cards-0007.md#paper-152526)
 - [KNN Implementation Details Can Dramatically Change Performance: An Example from Cover Trees](../../conferences/neurips-2026/cards-0007.md#paper-139272)
 - [KNOT: A Knowledge Entanglement Benchmark for Robust Unlearning Evaluation](../../conferences/neurips-2026/cards-0007.md#paper-138972)
+- [Knowing When Multivariate Forecasts Are Wrong](../../conferences/neurips-2026/cards-0007.md#paper-154761)
+- [Knowing Without Saying: How Contextual Evidence Survives but Fails to Surface in Transformers](../../conferences/neurips-2026/cards-0007.md#paper-148815)
+- [Knowledge Localization in Mixture-of-Experts LLMs Using Cross-Lingual Inconsistency](../../conferences/neurips-2026/cards-0007.md#paper-153455)
+- [KnowVis: A Dual-View Benchmark for Diagnosing World-Knowledge Grounding in Text-to-Image Models](../../conferences/neurips-2026/cards-0007.md#paper-139323)
+- [LangMap: A Human-Verified Benchmark for Hierarchical Open-Vocabulary Goal Navigation](../../conferences/neurips-2026/cards-0007.md#paper-139046)
+- [Language-Conditioned World Modeling for Visual Navigation](../../conferences/neurips-2026/cards-0007.md#paper-154464)
+- [Language Model Goal Selection Differs from Humans' in a Self-Directed Learning Task](../../conferences/neurips-2026/cards-0007.md#paper-152099)
+- [Language Models Can Coarsely Modulate Entropy Under Instruction](../../conferences/neurips-2026/cards-0007.md#paper-149992)
 
 <!-- conference-classification:end -->

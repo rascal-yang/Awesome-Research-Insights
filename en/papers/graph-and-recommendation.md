@@ -301,5 +301,6 @@ Graph models, knowledge graphs, and recommender systems.
 - [Invariant Hyperbolic Unfolding: Radial Canonicalization for Label-Free Cross-Graph Link Prediction](../../conferences/neurips-2026/cards-0007.md#paper-152389)
 - [Joint Certification for Attributed Graphs: Beyond Topology-Only Robustness](../../conferences/neurips-2026/cards-0007.md#paper-152626)
 - [KG-Guard: Graph-Based Hallucination Detection for Knowledge Base Question Answering](../../conferences/neurips-2026/cards-0007.md#paper-152526)
+- [k-th Order Deep Homomorphism Networks](../../conferences/neurips-2026/cards-0007.md#paper-152796)
 
 <!-- conference-classification:end -->

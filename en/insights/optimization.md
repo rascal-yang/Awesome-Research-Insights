@@ -590,5 +590,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [It Cancels: O(r²) Cholesky Updates for Whitened Operators](../../conferences/neurips-2026/cards-0007.md#paper-154420)
 - [Iterative ILP with Update-Size Control for Reducing Surrogate-Task Mismatch in Bit-Width Selection](../../conferences/neurips-2026/cards-0007.md#paper-151893)
 - [Jacobian Descent for Multi-Objective Optimization](../../conferences/neurips-2026/cards-0007.md#paper-154209)
+- [K-prop: Deep Online Learning by Backpropagating Temporal Kernels](../../conferences/neurips-2026/cards-0007.md#paper-153851)
+- [KV Cache Compression via Attention Output Distortion Minimization](../../conferences/neurips-2026/cards-0007.md#paper-153808)
+- [KV-COBRA: KV Cache Compression via Co-Optimized Bit-Rank Allocation](../../conferences/neurips-2026/cards-0007.md#paper-154016)
 
 <!-- conference-classification:end -->

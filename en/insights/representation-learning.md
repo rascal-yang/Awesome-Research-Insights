@@ -489,5 +489,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [JEPAWG: Interpretable Hypernetworks for Weight-Space Physics](../../conferences/neurips-2026/cards-0007.md#paper-150014)
 - [Kairos: Toward Adaptive and Parameter-Efficient Time Series Foundation Models](../../conferences/neurips-2026/cards-0007.md#paper-153129)
 - [KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure](../../conferences/neurips-2026/cards-0007.md#paper-156049)
+- [LACE: Latent Alignment via Counterfactual Embeddings](../../conferences/neurips-2026/cards-0007.md#paper-153001)
 
 <!-- conference-classification:end -->

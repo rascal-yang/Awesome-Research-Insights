@@ -359,5 +359,8 @@ Reusable components and local changes to model inputs or connections.
 - [Interleaved Head Attention](../../conferences/neurips-2026/cards-0007.md#paper-154807)
 - [KernelDNA: Cross-Layer Kernel Sharing via Decoupled Neural Adapters](../../conferences/neurips-2026/cards-0007.md#paper-153535)
 - [Knocking-Heads Attention: Drop-in Shared Projections for Cross-Head Coordination](../../conferences/neurips-2026/cards-0007.md#paper-155835)
+- [Language-Based Agent Control](../../conferences/neurips-2026/cards-0007.md#paper-156018)
+- [Laplacian Heads Improve Transformers by Smoothing Token Representations](../../conferences/neurips-2026/cards-0007.md#paper-149696)
+- [LAPLEX: The FFT of Learnable Laplace Kernels](../../conferences/neurips-2026/cards-0007.md#paper-155528)
 
 <!-- conference-classification:end -->

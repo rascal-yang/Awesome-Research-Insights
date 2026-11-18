@@ -526,5 +526,6 @@
 - [Inverse Modeling of Neural Recordings via Differentiable Biophysical Simulation](../conferences/neurips-2026/cards-0007.md#paper-153595)
 - [JEPAWG: Interpretable Hypernetworks for Weight-Space Physics](../conferences/neurips-2026/cards-0007.md#paper-150014)
 - [KerONet: A Single Softmax Readout Suffices for Physics-Informed Operator Learning](../conferences/neurips-2026/cards-0007.md#paper-150115)
+- [Knowledge Transfer Scaling Laws for 3D Medical Imaging](../conferences/neurips-2026/cards-0007.md#paper-149904)
 
 <!-- conference-classification:end -->

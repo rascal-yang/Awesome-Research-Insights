@@ -374,5 +374,8 @@ Model-wide design and information flow.
 - [Iterative Nonlinear Computation Underlying Abstract Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-151990)
 - [JODA: Composable Joint Dynamics for Articulated Objects](../../conferences/neurips-2026/cards-0007.md#paper-148410)
 - [KerONet: A Single Softmax Readout Suffices for Physics-Informed Operator Learning](../../conferences/neurips-2026/cards-0007.md#paper-150115)
+- [Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](../../conferences/neurips-2026/cards-0007.md#paper-153665)
+- [K-PWM: Control-Oriented Structured World Models under Partial Observation](../../conferences/neurips-2026/cards-0007.md#paper-152141)
+- [Language Models Need Sleep](../../conferences/neurips-2026/cards-0007.md#paper-154950)
 
 <!-- conference-classification:end -->

@@ -709,5 +709,9 @@ Robot perception, policy learning, planning, and control.
 - [Interaction-Aligned Robot Learning from Human Videos with Structured Graph Modeling](../../conferences/neurips-2026/cards-0007.md#paper-155579)
 - [JODA: Composable Joint Dynamics for Articulated Objects](../../conferences/neurips-2026/cards-0007.md#paper-148410)
 - [JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments](../../conferences/neurips-2026/cards-0007.md#paper-139326)
+- [K-PWM: Control-Oriented Structured World Models under Partial Observation](../../conferences/neurips-2026/cards-0007.md#paper-152141)
+- [LangMap: A Human-Verified Benchmark for Hierarchical Open-Vocabulary Goal Navigation](../../conferences/neurips-2026/cards-0007.md#paper-139046)
+- [Language-Conditioned World Modeling for Visual Navigation](../../conferences/neurips-2026/cards-0007.md#paper-154464)
+- [Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring](../../conferences/neurips-2026/cards-0007.md#paper-149939)
 
 <!-- conference-classification:end -->

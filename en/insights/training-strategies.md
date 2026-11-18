@@ -661,5 +661,14 @@ Training schedules, curricula, and task or stage composition.
 - [Joint Sequence--Vocabulary Selection for Efficient LLM Distillation](../../conferences/neurips-2026/cards-0007.md#paper-152047)
 - [KiteNorm: Variance Regularisation for Stable and Scalable Post-LN Transformers](../../conferences/neurips-2026/cards-0007.md#paper-152670)
 - [KL for a KL: On-Policy Distillation with Control Variate Baseline](../../conferences/neurips-2026/cards-0007.md#paper-149290)
+- [Know What You Need: Efficient Activation Checkpointing](../../conferences/neurips-2026/cards-0007.md#paper-148608)
+- [KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs](../../conferences/neurips-2026/cards-0007.md#paper-154538)
+- [Label-Free Consistency Correction for Weak-to-Strong Generalization](../../conferences/neurips-2026/cards-0007.md#paper-154917)
+- [LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](../../conferences/neurips-2026/cards-0007.md#paper-152027)
+- [LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling](../../conferences/neurips-2026/cards-0007.md#paper-150769)
+- [Language Denoising Objectives Extend the Value of Limited Data](../../conferences/neurips-2026/cards-0007.md#paper-150255)
+- [Language-Induced Priors for Domain Adaptation](../../conferences/neurips-2026/cards-0007.md#paper-152836)
+- [Language Model Memory and Memory Models for Language](../../conferences/neurips-2026/cards-0007.md#paper-152563)
+- [LAQuant: A Simple Overhead-free Large Reasoning Model Quantization by Layer-wise Lookahead Loss](../../conferences/neurips-2026/cards-0007.md#paper-148865)
 
 <!-- conference-classification:end -->

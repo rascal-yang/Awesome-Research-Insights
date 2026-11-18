@@ -1099,5 +1099,17 @@
 - [Joint Consistency: A Unified Test-Time Aggregation Framework via Energy Minimization](../conferences/neurips-2026/cards-0007.md#paper-152018)
 - [Keep or Preempt? Termination-Aware Scheduling for LLM Serving with Speculative Decoding](../conferences/neurips-2026/cards-0007.md#paper-152245)
 - [Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech](../conferences/neurips-2026/cards-0007.md#paper-154147)
+- [Knowing What is Missing: Efficient Conversational Memory via Explicit Evidence-Gap Tracking](../conferences/neurips-2026/cards-0007.md#paper-149691)
+- [Knowing You before You Speak: User State Modeling for LLM-Based Personalized Dialogue](../conferences/neurips-2026/cards-0007.md#paper-148610)
+- [Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents](../conferences/neurips-2026/cards-0007.md#paper-150463)
+- [KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers](../conferences/neurips-2026/cards-0007.md#paper-149685)
+- [KVBuffer: IO-aware Serving for Linear Attention](../conferences/neurips-2026/cards-0007.md#paper-154931)
+- [KVFocus: A Perturbation-Theoretic Token-Risk Score for Selective KV Cache Reuse in RAG](../conferences/neurips-2026/cards-0007.md#paper-149014)
+- [KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling](../conferences/neurips-2026/cards-0007.md#paper-150635)
+- [LaCache: Robust Semantic Caching for LLM Serving](../conferences/neurips-2026/cards-0007.md#paper-152812)
+- [LADDERS: Length-Aware Data Distribution and Existing-Response Speculation for Fast RL Rollout Generation](../conferences/neurips-2026/cards-0007.md#paper-148499)
+- [LAMP: Look-Ahead Mixed-Precision Inference of Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-153412)
+- [LAPrune: Logits-Aligned Scoring Proxy for KV Pruning via Vector Quantization](../conferences/neurips-2026/cards-0007.md#paper-151766)
+- [Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring](../conferences/neurips-2026/cards-0007.md#paper-149939)
 
 <!-- conference-classification:end -->

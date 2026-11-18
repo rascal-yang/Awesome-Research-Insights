@@ -340,5 +340,6 @@
 - [Intervention-Guided Image-Free Classifier Expansion for Fine-Grained Recognition](../conferences/neurips-2026/cards-0007.md#paper-148473)
 - [It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs](../conferences/neurips-2026/cards-0007.md#paper-149725)
 - [Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise](../conferences/neurips-2026/cards-0007.md#paper-148725)
+- [Knowledge-Level Consistency Reinforcement Learning: Dual-Fact Alignment for Long-Form Factuality](../conferences/neurips-2026/cards-0007.md#paper-152984)
 
 <!-- conference-classification:end -->

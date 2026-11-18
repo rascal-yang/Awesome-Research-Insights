@@ -250,3 +250,49 @@
 | 机器学习基础与统计 | 评测与诊断 | [KNN Implementation Details Can Dramatically Change Performance: An Example from Cover Trees](cards-0007.md#paper-139272) | 近邻检索基准分开 k 值、持出查询与数据集调优。 |
 | 大语言模型 | 模块 | [Knocking-Heads Attention: Drop-in Shared Projections for Cross-Head Coordination](cards-0007.md#paper-155835) | 用所有注意头共同训练的投影协调参数，而不在注意图上增加在线混合。 |
 | 大语言模型 | 评测与诊断 | [KNOT: A Knowledge Entanglement Benchmark for Robust Unlearning Evaluation](cards-0007.md#paper-138972) | 遗忘评估加入应保留与应移除知识之间的重叠边界。 |
+| 大语言模型 | 推理策略 | [Knowing What is Missing: Efficient Conversational Memory via Explicit Evidence-Gap Tracking](cards-0007.md#paper-149691) | 对话记忆逐步维护已证事实和证据缺口。 |
+| 机器学习基础与统计 | 评测与诊断 | [Knowing When Multivariate Forecasts Are Wrong](cards-0007.md#paper-154761) | 无标签部署用输入的跨通道子空间排未来风险。 |
+| 强化学习 | 强化学习方法 | [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](cards-0007.md#paper-149224) | 按工具操作段而非整条轨迹分配结果信用。 |
+| 大语言模型 | 评测与诊断 | [Knowing Without Saying: How Contextual Evidence Survives but Fails to Surface in Transformers](cards-0007.md#paper-148815) | 知识冲突先定位证据被丢在编码还是读出阶段。 |
+| 大语言模型 | 推理策略 | [Knowing You before You Speak: User State Modeling for LLM-Based Personalized Dialogue](cards-0007.md#paper-148610) | 长时对话行动选择保留用户状态的显式不确定度。 |
+| 强化学习 | 强化学习方法 | [Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents](cards-0007.md#paper-156148) | 用出题时的关系路径提供过程部分分。 |
+| 大语言模型 | 损失函数 | [Knowledge-Level Consistency Reinforcement Learning: Dual-Fact Alignment for Long-Form Factuality](cards-0007.md#paper-152984) | 长生成分别约束幻觉和已知事实覆盖。 |
+| 大语言模型 | 评测与诊断 | [Knowledge Localization in Mixture-of-Experts LLMs Using Cross-Lingual Inconsistency](cards-0007.md#paper-153455) | 同一事实跨语言的成败对照用于发现关键专家。 |
+| 科学机器学习 | 数据策略 | [Knowledge Transfer Scaling Laws for 3D Medical Imaging](cards-0007.md#paper-149904) | 多域预训练按单向知识迁移收益划分预算。 |
+| 计算机视觉 | 评测与诊断 | [KnowVis: A Dual-View Benchmark for Diagnosing World-Knowledge Grounding in Text-to-Image Models](cards-0007.md#paper-139323) | 知识型图像生成分别验收必须事实和合理开放表达。 |
+| 大语言模型 | 训练策略 | [Know What You Need: Efficient Activation Checkpointing](cards-0007.md#paper-148608) | 梯度重计算只重建有代表性的层组件。 |
+| 大语言模型 | 推理策略 | [Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents](cards-0007.md#paper-150463) | 在检索之前判断当前上下文是否充分。 |
+| 强化学习 | 强化学习方法 | [Know Your Task, Learn It Right: Task-Aware Optimistic Value Learning for Multi-Task Multi-Agent Reinforcement Learning](cards-0007.md#paper-152319) | 将类别信息用于 Bellman 目标和信用分配。 |
+| 机器学习基础与统计 | 模型架构 | [Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](cards-0007.md#paper-153665) | 概率预测选可闭式传播的潜动力学以减少采样开销。 |
+| 机器学习基础与统计 | 优化 | [K-prop: Deep Online Learning by Backpropagating Temporal Kernels](cards-0007.md#paper-153851) | 在线训练自递归单元时传播时间核增益。 |
+| 机器人学 | 模型架构 | [K-PWM: Control-Oriented Structured World Models under Partial Observation](cards-0007.md#paper-152141) | 向量观测部分缺失时以结构化潜动力学做概率状态估计。 |
+| 计算机视觉 | 推理策略 | [KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers](cards-0007.md#paper-149685) | 低比特扩散量化用可学习小块结构变换控制逐步成本。 |
+| 图学习与推荐 | 理论与统计 | [k-th Order Deep Homomorphism Networks](cards-0007.md#paper-152796) | 高阶 GNN 将全局骨架阶数与局部模式词表分开选。 |
+| 大语言模型 | 推理策略 | [KVBuffer: IO-aware Serving for Linear Attention](cards-0007.md#paper-154931) | 线性注意力服务以 KV 追加换取减少大状态读写，按照上下文长度选择直接计算或批量刷新。 |
+| 大语言模型 | 优化 | [KV Cache Compression via Attention Output Distortion Minimization](cards-0007.md#paper-153808) | 长上下文缓存紧张时，按每条 KV 对注意力输出的敏感性选择保留精度或淘汰。 |
+| 大语言模型 | 优化 | [KV-COBRA: KV Cache Compression via Co-Optimized Bit-Rank Allocation](cards-0007.md#paper-154016) | 极低码率时，不预设所有注意力头都应采用相同的秩与位宽。 |
+| 大语言模型 | 推理策略 | [KVFocus: A Perturbation-Theoretic Token-Risk Score for Selective KV Cache Reuse in RAG](cards-0007.md#paper-149014) | 跨上下文复用文档 KV 时，对源值偏差和下游依赖都高的位置触发重算。 |
+| 大语言模型 | 训练策略 | [KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs](cards-0007.md#paper-154538) | 文档缓存长期跨请求复用时，比较固定包加轻量桥接适配，与每次部分重算。 |
+| 大语言模型 | 推理策略 | [KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling](cards-0007.md#paper-150635) | 过程奖励为长 rollout 评分时，先尝试读生成已有 KV，而非重新编码完整文本。 |
+| 机器学习基础与统计 | 训练策略 | [Label-Free Consistency Correction for Weak-to-Strong Generalization](cards-0007.md#paper-154917) | 无标签修正弱教师前，先估计独立语义约束的有效性，不只看预测不一致程度。 |
+| 大语言模型 | 推理策略 | [LaCache: Robust Semantic Caching for LLM Serving](cards-0007.md#paper-152812) | 语义缓存需要防护时，把响应语境一致性纳入命中校验。 |
+| 多模态学习 | 表征学习 | [LACE: Latent Alignment via Counterfactual Embeddings](cards-0007.md#paper-153001) | 用困难负例改善图文组合识别时，在视觉和文本嵌入两侧同时构造反事实。 |
+| 大语言模型 | 推理策略 | [LADDERS: Length-Aware Data Distribution and Existing-Response Speculation for Fast RL Rollout Generation](cards-0007.md#paper-148499) | RL rollout 批次被长尾拖慢时，按预计长度组批并均衡多样本请求分布。 |
+| 计算机视觉 | 训练策略 | [LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](cards-0007.md#paper-152027) | 提升视频物理一致性时，从现有无标视频提取潜态变化，在训练和采样分别约束运动。 |
+| 大语言模型 | 推理策略 | [LAMP: Look-Ahead Mixed-Precision Inference of Large Language Models](cards-0007.md#paper-153412) | 混合精度推理选择会放大下游舍入误差的中间分量重算。 |
+| 机器学习基础与统计 | 理论与统计 | [Langevin-Informed Transfer Learning: Replacing the Target Samples by Black-Box Feedback](cards-0007.md#paper-151211) | 目标轨迹不可采时，用有偏样本和反馈估计慢动力学。 |
+| 大语言模型 | 训练策略 | [LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling](cards-0007.md#paper-150769) | 连续文本扩散用信息均匀准则定噪声日程。 |
+| 机器人学 | 评测与诊断 | [LangMap: A Human-Verified Benchmark for Hierarchical Open-Vocabulary Goal Navigation](cards-0007.md#paper-139046) | 导航按场景、房间、区域和实例拆分目标粒度评价。 |
+| 大语言模型 | 模块 | [Language-Based Agent Control](cards-0007.md#paper-156018) | 将应用权限约束放进可静态检查的工具接口，并保留运行时校验。 |
+| 机器人学 | 评测与诊断 | [Language-Conditioned World Modeling for Visual Navigation](cards-0007.md#paper-154464) | 语言导航在想象滚动连贯性和未见环境泛化之间分别选型。 |
+| 大语言模型 | 训练策略 | [Language Denoising Objectives Extend the Value of Limited Data](cards-0007.md#paper-150255) | 语料反复训练时优先比较去噪目标而非默认因果语言建模。 |
+| 机器学习基础与统计 | 训练策略 | [Language-Induced Priors for Domain Adaptation](cards-0007.md#paper-152836) | 冷启动域适配将专家文字说明用作源相关性先验。 |
+| 大语言模型 | 评测与诊断 | [Language Model Goal Selection Differs from Humans' in a Self-Directed Learning Task](cards-0007.md#paper-152099) | 代理人类目标选择时同时验证个体差异和探索历程。 |
+| 大语言模型 | 训练策略 | [Language Model Memory and Memory Models for Language](cards-0007.md#paper-152563) | 压缩输入的语言模型使用显式信息保留目标。 |
+| 大语言模型 | 评测与诊断 | [Language Models Can Coarsely Modulate Entropy Under Instruction](cards-0007.md#paper-149992) | 检验模型能否执行分布约束时使用没有正确答案的选择任务。 |
+| 大语言模型 | 模型架构 | [Language Models Need Sleep](cards-0007.md#paper-154950) | 可将近期上下文压入持久快权重后再丢弃 KV。 |
+| 机器学习基础与统计 | 模块 | [Laplacian Heads Improve Transformers by Smoothing Token Representations](cards-0007.md#paper-149696) | 部分注意头使用图拉普拉斯以显式调节序列内方差。 |
+| 机器学习基础与统计 | 模块 | [LAPLEX: The FFT of Learnable Laplace Kernels](cards-0007.md#paper-155528) | 高维全局算子可用可学习坐标锚点隐式表达稠密核。 |
+| 大语言模型 | 推理策略 | [LAPrune: Logits-Aligned Scoring Proxy for KV Pruning via Vector Quantization](cards-0007.md#paper-151766) | KV 裁剪代理直接近似当前查询的注意力点积。 |
+| 大语言模型 | 训练策略 | [LAQuant: A Simple Overhead-free Large Reasoning Model Quantization by Layer-wise Lookahead Loss](cards-0007.md#paper-148865) | 长推理量化按部署分布校准，并在逐层目标里看一层之后的残差。 |
+| 机器人学 | 推理策略 | [Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring](cards-0007.md#paper-149939) | 控制策略可在可行动作词表上迭代评分，不直接扰动作。 |

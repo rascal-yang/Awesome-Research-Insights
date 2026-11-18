@@ -545,5 +545,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Jointly Reinforcing Diversity and Quality in Language Model Generations](../../conferences/neurips-2026/cards-0007.md#paper-153781)
 - [Joint Optimization of Tool Creation and Use for Large Language Model Agents](../../conferences/neurips-2026/cards-0007.md#paper-155013)
 - [Kernel Value Regression in Offline Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-148489)
+- [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](../../conferences/neurips-2026/cards-0007.md#paper-149224)
+- [Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents](../../conferences/neurips-2026/cards-0007.md#paper-156148)
+- [Know Your Task, Learn It Right: Task-Aware Optimistic Value Learning for Multi-Task Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-152319)
 
 <!-- conference-classification:end -->

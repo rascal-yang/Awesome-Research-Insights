@@ -316,5 +316,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](../../conferences/neurips-2026/cards-0007.md#paper-152947)
 - [Irreducible Supervision Enables Compositional Generalization in Post-Training](../../conferences/neurips-2026/cards-0007.md#paper-149659)
 - [It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs](../../conferences/neurips-2026/cards-0007.md#paper-155341)
+- [Knowledge Transfer Scaling Laws for 3D Medical Imaging](../../conferences/neurips-2026/cards-0007.md#paper-149904)
 
 <!-- conference-classification:end -->

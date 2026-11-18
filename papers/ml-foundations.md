@@ -2098,5 +2098,13 @@
 - [Kernel Selection is Model Selection: A Unified Complexity-Penalised Approach for MMD Two-Sample Tests](../conferences/neurips-2026/cards-0007.md#paper-153658)
 - [KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure](../conferences/neurips-2026/cards-0007.md#paper-156049)
 - [KNN Implementation Details Can Dramatically Change Performance: An Example from Cover Trees](../conferences/neurips-2026/cards-0007.md#paper-139272)
+- [Knowing When Multivariate Forecasts Are Wrong](../conferences/neurips-2026/cards-0007.md#paper-154761)
+- [Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](../conferences/neurips-2026/cards-0007.md#paper-153665)
+- [K-prop: Deep Online Learning by Backpropagating Temporal Kernels](../conferences/neurips-2026/cards-0007.md#paper-153851)
+- [Label-Free Consistency Correction for Weak-to-Strong Generalization](../conferences/neurips-2026/cards-0007.md#paper-154917)
+- [Langevin-Informed Transfer Learning: Replacing the Target Samples by Black-Box Feedback](../conferences/neurips-2026/cards-0007.md#paper-151211)
+- [Language-Induced Priors for Domain Adaptation](../conferences/neurips-2026/cards-0007.md#paper-152836)
+- [Laplacian Heads Improve Transformers by Smoothing Token Representations](../conferences/neurips-2026/cards-0007.md#paper-149696)
+- [LAPLEX: The FFT of Learnable Laplace Kernels](../conferences/neurips-2026/cards-0007.md#paper-155528)
 
 <!-- conference-classification:end -->

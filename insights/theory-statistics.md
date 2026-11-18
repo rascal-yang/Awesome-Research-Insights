@@ -893,5 +893,7 @@
 - [Kernel-Gradient Drifting Models](../conferences/neurips-2026/cards-0007.md#paper-151352)
 - [Kernel Granger Component Analysis for Nonlinear Directed Component Discovery](../conferences/neurips-2026/cards-0007.md#paper-153634)
 - [Kernel Selection is Model Selection: A Unified Complexity-Penalised Approach for MMD Two-Sample Tests](../conferences/neurips-2026/cards-0007.md#paper-153658)
+- [k-th Order Deep Homomorphism Networks](../conferences/neurips-2026/cards-0007.md#paper-152796)
+- [Langevin-Informed Transfer Learning: Replacing the Target Samples by Black-Box Feedback](../conferences/neurips-2026/cards-0007.md#paper-151211)
 
 <!-- conference-classification:end -->

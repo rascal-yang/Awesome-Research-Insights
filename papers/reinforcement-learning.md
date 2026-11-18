@@ -557,5 +557,8 @@
 - [Joint Adaptive Neighborhood Constraint for Offline Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-149793)
 - [Jump Start Your Policy Learning with Lessons from 145,000 Training Runs](../conferences/neurips-2026/cards-0007.md#paper-155981)
 - [Kernel Value Regression in Offline Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-148489)
+- [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](../conferences/neurips-2026/cards-0007.md#paper-149224)
+- [Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents](../conferences/neurips-2026/cards-0007.md#paper-156148)
+- [Know Your Task, Learn It Right: Task-Aware Optimistic Value Learning for Multi-Task Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-152319)
 
 <!-- conference-classification:end -->

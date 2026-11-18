@@ -889,5 +889,8 @@
 - [Is Complex Training Necessary for Long-Tailed OOD Detection? A Re-think from Feature Geometry](../conferences/neurips-2026/cards-0007.md#paper-152780)
 - [Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation](../conferences/neurips-2026/cards-0007.md#paper-152066)
 - [KernelDNA: Cross-Layer Kernel Sharing via Decoupled Neural Adapters](../conferences/neurips-2026/cards-0007.md#paper-153535)
+- [KnowVis: A Dual-View Benchmark for Diagnosing World-Knowledge Grounding in Text-to-Image Models](../conferences/neurips-2026/cards-0007.md#paper-139323)
+- [KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers](../conferences/neurips-2026/cards-0007.md#paper-149685)
+- [LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](../conferences/neurips-2026/cards-0007.md#paper-152027)
 
 <!-- conference-classification:end -->
