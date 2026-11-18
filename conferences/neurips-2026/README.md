@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2609** 篇，暂收录 **2434** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2669** 篇，暂收录 **2489** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2442,3 +2442,58 @@
 | 生成模型 | 采样理论 | [Emergence of Distortions in High-Dimensional Guided Diffusion Models](cards-0005.md#paper-152320) | 通过引导时间表同时监测条件分离和方差损失。 |
 | 强化学习 | 内在奖励 | [Emergence of Physical Intelligence via Controllable Information Production](cards-0005.md#paper-152582) | 按系统可控信息的产生速率选探索目标。 |
 | 优化 | 预条件 | [Emergence, Retention and Mitigation of Ill-conditioning due to Basis Lifting in KANs](cards-0005.md#paper-150542) | 检查基函数提升后 Gram 矩阵，再决定是否学习坐标变换。 |
+| 学习理论 | 低秩训练 | [Emergent Low-Rank Training Dynamics in MLPs with Smooth Activations](cards-0005.md#paper-151342) | 按训练不变子空间初始化低秩网络 |
+| 模型安全 | 防御评测 | [Emergent Misalignment as Data-Mediated Transfer](cards-0005.md#paper-150105) | 区分训练分布和训练渠道做安全回归 |
+| 认知科学 | 因果表征 | [Emergent representations of graphical structure in mechanistic neural models of causal judgment](cards-0005.md#paper-152452) | 查验单关系监督是否形成全图表征 |
+| 自然语言处理 | 语义探针 | [Emergent Semantic Role Understanding in Language Models](cards-0005.md#paper-152210) | 先查冻结骨干是否已编码语义角色，再决定是否微调 |
+| 多模态学习 | 因果表征 | [Emergent Visual Thinking in Text-Only Reasoning through Multimodal Training](cards-0005.md#paper-153218) | 用干预区分可解码的视觉信息与推理实际使用的信息 |
+| 神经符号学习 | 概率推断 | [EM-NeSy: Expectation Maximization for Neurosymbolic Learning](cards-0005.md#paper-149935) | 符号推理不可微时以隐变量后验训练神经前端 |
+| 多模态学习 | 泛化评测 | [EmoPhone: A Multi-Wave Dataset for In-the-Wild Mobile and Wearable Affect Sensing](cards-0005.md#paper-139785) | 分别测个体内时间变化、跨用户和跨波次 |
+| 大语言模型 | 专家路由 | [EMO: Pretraining Mixture of Experts for Emergent Modularity](cards-0005.md#paper-151720) | 预训练用文档边界约束专家池，便于部署裁剪 |
+| 计算机视觉 | 神经表征评测 | [Emotion-Trained Vision Models Do Not Necessarily Learn EEG-Aligned Facial Dynamics](cards-0005.md#paper-150276) | 以同架构随机权重作为脑对齐基线 |
+| 自然语言处理 | 长程建模 | [EmoTrack: Robust Depression Tracking from Counseling Transcripts across Session Regimes](cards-0005.md#paper-152590) | 按症状拆分文本预测，单独测历史记忆增益 |
+| 多模态学习 | 信用分配 | [EmpathyChat: Structured Cognitive Reasoning in Empathetic Spoken Dialogue](cards-0005.md#paper-155140) | 把语音对话的阶段错误拆开监督 |
+| 生成模型 | 逆问题学习 | [Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity](cards-0005.md#paper-151539) | 只有间接噪声观测时联合估计隐变量和生成先验 |
+| 统计学习 | 经验贝叶斯 | [Empirical Bayes Rebiasing](cards-0005.md#paper-152794) | 偏差估计很噪时学习部分校正以缩短区间 |
+| 大语言模型 | 偏好评测 | [Empirical regularities in subjective decision-making by LLMs](cards-0005.md#paper-150340) | 把候选生成偏好与筛选偏好分开测试 |
+| 大语言模型 | 扩散训练 | [Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers](cards-0005.md#paper-150367) | 对未遮盖位置也施加留一预测监督 |
+| 时序学习 | 多模态预训练 | [Empowering Time Series Analysis with Large-Scale Multimodal Pretraining](cards-0005.md#paper-152727) | 分开评估从时序派生的视图与外部知识 |
+| 大语言模型 | 扩散采样 | [Enabling approximate joint sampling in diffusion LMs](cards-0005.md#paper-149410) | 用轻量条件采样头代替多 token 并行独立解遮盖 |
+| 生成模型 | 流形扩散 | [Enabling Denoising Score Matching Type Training for Manifold Diffusion Model via Momentum and Splitting](cards-0005.md#paper-152504) | 以可解局部速度过程和测地运输恢复去噪监督 |
+| 生成模型 | 防御性遗忘 | [Enabling Preference-driven Unlearning in Few-step Distilled Text-to-Image Diffusion Models](cards-0005.md#paper-154856) | 按少步蒸馏模型的实际生成动态重写偏好遗忘目标 |
+| 具身智能 | 候选重排 | [Enabling VLA Action Self-Verification via VLM Token Probability Bucketing](cards-0005.md#paper-155216) | 复用策略骨干验证候选动作 |
+| 计算机视觉 | 结构化生成 | [ENACT: Single-Image Human-Scene Interaction Motion from Language via Foundation-Model Orchestration](cards-0005.md#paper-150626) | 用带接触约束的关键帧连接图像理解与动作生成 |
+| 医学影像 / 多模态 | 分解评测 | [EndoSCOP-V: A Multi-Turn Video Understanding Evaluation Framework for Multimodal Models in Endoscopy Reporting and Clinical Reasoning](cards-0005.md#paper-138889) | 用金答案和关键帧分别隔离对话传播与定位失败 |
+| 具身智能 | 预测监督 | [Endowing Your Vision-Language-Action Model with a Predictive Mind](cards-0005.md#paper-155390) | 直接在策略实际读取的中间特征上加未来监督 |
+| 优化 / 生成模型 | 条件优化 | [End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization](cards-0005.md#paper-153367) | 对冻结生成器的条件变量进行测试时优化 |
+| 统计学习 | 切换动力学 | [End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems](cards-0005.md#paper-148468) | 在需要潜在状态可辨识时比较精确似然和变分估计 |
+| 科学机器学习 | 代理建模 | [End-to-End Neural Modeling of EM Response and Design Performance for Free-Form RFIC Passives](cards-0005.md#paper-155932) | 在可解释模拟输出旁保留互补潜变量 |
+| 生成模型 | 联合训练 | [End-to-End Training for Unified Tokenization and Latent Denoising](cards-0005.md#paper-155881) | 让分词器和去噪器共享编码权重 |
+| 可靠性 | 形式验证 | [End-to-End Verification of Neuro-symbolic Automata via Contrastive Logit-Gaps](cards-0005.md#paper-152552) | 重参数化时序转移以减少界传播松弛 |
+| 组合优化 | 精确推断 | [EnerGNN: Learning Optimization-Compatible Energy Functions for Exact Constrained Combinatorial Inference](cards-0005.md#paper-148678) | 学习适合混合整数求解的能量，部署时直接加硬约束 |
+| 科学机器学习 | 能量算子 | [Energy-Based Operator Learning in Function Space](cards-0005.md#paper-153867) | 用条件能量同时支持多解预测及无监督异常评分 |
+| 科学机器学习 | 物理约束 | [Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching](cards-0005.md#paper-154978) | 用连续能量引导替代去噪过程中的离散强投影 |
+| 联邦学习 | 能耗优化 | [Energy Is All We Need: Beyond FLOPs in Model-Heterogeneous Federated Learning](cards-0005.md#paper-151795) | 按每焦耳的原型对齐改善分配本地训练轮次 |
+| 统计学习 | 去噪理论 | [Energy-Tweedie: Score meets Score, Energy meets Energy](cards-0005.md#paper-150007) | 按噪声族匹配评分规则，从后验样本估计分数 |
+| 大语言模型 | 零阶优化 | [ENGINE: Endogenous Variational MultiScale Optimization for Zeroth-Order LLM Fine-Tuning](cards-0005.md#paper-151095) | 交替用高维探针修正低维零阶微调 |
+| Agent | 状态复用 | [EngramState: Loadable Tool Priors for Efficient Function Calling](cards-0005.md#paper-150845) | 把工具说明预编码为可加载的循环状态 |
+| 学习理论 | 扩散收敛 | [Enhanced convergence guarantees of score-based generative models in $\mathcal{W}_2$-distance beyond log-concavity](cards-0005.md#paper-148518) | 在适用的非对数凹设定下对比两种 SDE 时间离散 |
+| 软件工程 / Agent | 代码定位 | [Enhancing Agentic Code Localization with Traceability Recovered from Repository Evolution](cards-0005.md#paper-152178) | 检索维护历史恢复问题描述与实现的对应 |
+| 视觉 | 局部适配 | [Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following](cards-0005.md#paper-155158) | 在低显著性目标上验证视线线索 |
+| 社会计算 | 结构化推断 | [Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior](cards-0005.md#paper-154613) | 把稳定人格与试次状态分别表征 |
+| 三维视觉 | 多视图扩散 | [Enhancing Novel View Synthesis via Geometry Grounded Set Diffusion](cards-0005.md#paper-152331) | 让可变数量视图联合细化 |
+| 语音多模态 | 行为对齐 | [Enhancing Speech Large Language Models through Reinforced Behavior Alignment](cards-0005.md#paper-154532) | 在等义异声输入下直接优化行为一致性 |
+| 表格学习 | 语义表示 | [Enhancing Tabular Learners with Context-Aware Semantic Embeddings](cards-0005.md#paper-149526) | 用代表行给行嵌入提供共享语境 |
+| 优化 | 稳健贝叶斯优化 | [Ensemble Distributionally Robust Bayesian Optimisation](cards-0005.md#paper-149322) | 在连续上下文分布不确定时比较集成代理 |
+| 时间序列 | 稳健集成 | [Ensemble Modeling for Time Series Forecasting: an Adaptive Robust Optimization Approach](cards-0005.md#paper-149487) | 允许预测器组合权重随时间调整 |
+| 统计学习 | 拒答校准 | [Ensemble Selective Classification](cards-0005.md#paper-152721) | 用部署标注组合多个置信度分数 |
+| 大语言模型 | 集成解码 | [Ensembling Language Models with Sequential Monte Carlo](cards-0005.md#paper-148212) | 在共享字符空间集成不同词表模型 |
+| 控制 | 安全验证 | [Ensuring Deployment-Time Safety of Neural Network Controlled Systems via Localized Certificate Repair](cards-0005.md#paper-150792) | 环境改变后优先修复局部安全证书 |
+| Agent | 产物评测 | [EnterpriseBench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance](cards-0005.md#paper-139577) | 把电子表格值、公式及格式分开验收 |
+| 生成模型 | 稳健遗忘 | [EntiRE: Invariant Learning for Robust Concept Erasure in Text-to-Image Generative Models](cards-0005.md#paper-151144) | 按提示分区检查遗忘残留和能力保留 |
+| 视频生成 | 一致性评测 | [EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation](cards-0005.md#paper-153267) | 按实体重现间隔测一致性 |
+| 大语言模型 | 推理缓存 | [EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models](cards-0005.md#paper-152767) | 依据新解码 token 熵决定刷新缓存 |
+| 大语言模型 | 幻觉检测 | [Entropy Distribution as a Fingerprint for Hallucinations in Generative Models](cards-0005.md#paper-148328) | 用校准的熵尾部补充均值 |
+| Agent | 训练诊断 | [Entropy Dynamics of Agent Reinforcement Learning](cards-0005.md#paper-149956) | 多轮强化学习监控循环熵暴涨和退化积累 |
+| 大语言模型 | 推理解码 | [Entropy-Gated Latent Recursion](cards-0005.md#paper-152175) | 把递归层跨度作为随机温度外的候选维度 |
+| 时间序列 | 分块编码 | [Entropy Guided Dynamic Patch Segmentation for Time Series Transformers](cards-0005.md#paper-152779) | 用条件熵确定时间分块边界 |

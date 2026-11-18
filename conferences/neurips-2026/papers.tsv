@@ -2573,66 +2573,66 @@ poster_id	title	paper_url	status	reason
 152582	Emergence of Physical Intelligence via Controllable Information Production	https://neurips.cc/virtual/2026/poster/152582	included	按系统可控信息的产生速率选探索目标。
 150542	Emergence, Retention and Mitigation of Ill-conditioning due to Basis Lifting in KANs	https://neurips.cc/virtual/2026/poster/150542	included	检查基函数提升后 Gram 矩阵，再决定是否学习坐标变换。
 149424	Emergent Biological Capabilities in a Foundation Model for Molecular Interactions	https://neurips.cc/virtual/2026/poster/149424	excluded	核心验证涉及分子相互作用预测与候选分子筛选，暂不录入可操作机制。
-151342	Emergent Low-Rank Training Dynamics in MLPs with Smooth Activations	https://neurips.cc/virtual/2026/poster/151342	pending	-
-150105	Emergent Misalignment as Data-Mediated Transfer	https://neurips.cc/virtual/2026/poster/150105	pending	-
-152452	Emergent representations of graphical structure in mechanistic neural models of causal judgment	https://neurips.cc/virtual/2026/poster/152452	pending	-
-152210	Emergent Semantic Role Understanding in Language Models	https://neurips.cc/virtual/2026/poster/152210	pending	-
-152010	Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models	https://neurips.cc/virtual/2026/poster/152010	pending	-
-153218	Emergent Visual Thinking in Text-Only Reasoning through Multimodal Training	https://neurips.cc/virtual/2026/poster/153218	pending	-
-149935	EM-NeSy: Expectation Maximization for Neurosymbolic Learning	https://neurips.cc/virtual/2026/poster/149935	pending	-
-139785	EmoPhone: A Multi-Wave Dataset for In-the-Wild Mobile and Wearable Affect Sensing	https://neurips.cc/virtual/2026/poster/139785	pending	-
-151720	EMO: Pretraining Mixture of Experts for Emergent Modularity	https://neurips.cc/virtual/2026/poster/151720	pending	-
-150276	Emotion-Trained Vision Models Do Not Necessarily Learn EEG-Aligned Facial Dynamics	https://neurips.cc/virtual/2026/poster/150276	pending	-
-152590	EmoTrack: Robust Depression Tracking from Counseling Transcripts across Session Regimes	https://neurips.cc/virtual/2026/poster/152590	pending	-
-155140	EmpathyChat: Structured Cognitive Reasoning in Empathetic Spoken Dialogue	https://neurips.cc/virtual/2026/poster/155140	pending	-
-151539	Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity	https://neurips.cc/virtual/2026/poster/151539	pending	-
-152794	Empirical Bayes Rebiasing	https://neurips.cc/virtual/2026/poster/152794	pending	-
-150340	Empirical regularities in subjective decision-making by LLMs	https://neurips.cc/virtual/2026/poster/150340	pending	-
-150367	Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers	https://neurips.cc/virtual/2026/poster/150367	pending	-
-152727	Empowering Time Series Analysis with Large-Scale Multimodal Pretraining	https://neurips.cc/virtual/2026/poster/152727	pending	-
-149410	Enabling approximate joint sampling in diffusion LMs	https://neurips.cc/virtual/2026/poster/149410	pending	-
-152504	Enabling Denoising Score Matching Type Training for Manifold Diffusion Model via Momentum and Splitting	https://neurips.cc/virtual/2026/poster/152504	pending	-
-154856	Enabling Preference-driven Unlearning in Few-step Distilled Text-to-Image Diffusion Models	https://neurips.cc/virtual/2026/poster/154856	pending	-
-155216	Enabling VLA Action Self-Verification via VLM Token Probability Bucketing	https://neurips.cc/virtual/2026/poster/155216	pending	-
-150626	ENACT: Single-Image Human-Scene Interaction Motion from Language via Foundation-Model Orchestration	https://neurips.cc/virtual/2026/poster/150626	pending	-
-153449	Encoding RNA Topology into Synthetic Alignments for 3D Structure Prediction	https://neurips.cc/virtual/2026/poster/153449	pending	-
-138889	EndoSCOP-V: A Multi-Turn Video Understanding Evaluation Framework for Multimodal Models in Endoscopy Reporting and Clinical Reasoning	https://neurips.cc/virtual/2026/poster/138889	pending	-
-155390	Endowing Your Vision-Language-Action Model with a Predictive Mind	https://neurips.cc/virtual/2026/poster/155390	pending	-
-153367	End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization	https://neurips.cc/virtual/2026/poster/153367	pending	-
-148468	End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems	https://neurips.cc/virtual/2026/poster/148468	pending	-
-155932	End-to-End Neural Modeling of EM Response and Design Performance for Free-Form RFIC Passives	https://neurips.cc/virtual/2026/poster/155932	pending	-
-155881	End-to-End Training for Unified Tokenization and Latent Denoising	https://neurips.cc/virtual/2026/poster/155881	pending	-
-152552	End-to-End Verification of Neuro-symbolic Automata via Contrastive Logit-Gaps	https://neurips.cc/virtual/2026/poster/152552	pending	-
-148678	EnerGNN: Learning Optimization-Compatible Energy Functions for Exact Constrained Combinatorial Inference	https://neurips.cc/virtual/2026/poster/148678	pending	-
-150913	Energy-Adaptive Equivariant State Space Models for Noise-Robust Protein Structure Representation	https://neurips.cc/virtual/2026/poster/150913	pending	-
-153867	Energy-Based Operator Learning in Function Space	https://neurips.cc/virtual/2026/poster/153867	pending	-
-154978	Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching	https://neurips.cc/virtual/2026/poster/154978	pending	-
-151795	Energy Is All We Need: Beyond FLOPs in Model-Heterogeneous Federated Learning	https://neurips.cc/virtual/2026/poster/151795	pending	-
-150007	Energy-Tweedie: Score meets Score, Energy meets Energy	https://neurips.cc/virtual/2026/poster/150007	pending	-
-151095	ENGINE: Endogenous Variational MultiScale Optimization for Zeroth-Order LLM Fine-Tuning	https://neurips.cc/virtual/2026/poster/151095	pending	-
-150845	EngramState: Loadable Tool Priors for Efficient Function Calling	https://neurips.cc/virtual/2026/poster/150845	pending	-
-148518	Enhanced convergence guarantees of score-based generative models in $\mathcal{W}_2$-distance beyond log-concavity	https://neurips.cc/virtual/2026/poster/148518	pending	-
-152178	Enhancing Agentic Code Localization with Traceability Recovered from Repository Evolution	https://neurips.cc/virtual/2026/poster/152178	pending	-
-155158	Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following	https://neurips.cc/virtual/2026/poster/155158	pending	-
-154613	Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior	https://neurips.cc/virtual/2026/poster/154613	pending	-
-152331	Enhancing Novel View Synthesis via Geometry Grounded Set Diffusion	https://neurips.cc/virtual/2026/poster/152331	pending	-
-154532	Enhancing Speech Large Language Models through Reinforced Behavior Alignment	https://neurips.cc/virtual/2026/poster/154532	pending	-
-149526	Enhancing Tabular Learners with Context-Aware Semantic Embeddings	https://neurips.cc/virtual/2026/poster/149526	pending	-
-151956	Ensembits: an alphabet of protein conformational ensembles	https://neurips.cc/virtual/2026/poster/151956	pending	-
-149322	Ensemble Distributionally Robust Bayesian Optimisation	https://neurips.cc/virtual/2026/poster/149322	pending	-
-149487	Ensemble Modeling for Time Series Forecasting: an Adaptive Robust Optimization Approach	https://neurips.cc/virtual/2026/poster/149487	pending	-
-152721	Ensemble Selective Classification	https://neurips.cc/virtual/2026/poster/152721	pending	-
-148212	Ensembling Language Models with Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/148212	pending	-
-150792	Ensuring Deployment-Time Safety of Neural Network Controlled Systems via Localized Certificate Repair	https://neurips.cc/virtual/2026/poster/150792	pending	-
-150910	Entangled Schrödinger Bridge Matching	https://neurips.cc/virtual/2026/poster/150910	pending	-
-139577	EnterpriseBench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance	https://neurips.cc/virtual/2026/poster/139577	pending	-
-151144	EntiRE: Invariant Learning for Robust Concept Erasure in Text-to-Image Generative Models	https://neurips.cc/virtual/2026/poster/151144	pending	-
-153267	EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation	https://neurips.cc/virtual/2026/poster/153267	pending	-
-152767	EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/152767	pending	-
-148328	Entropy Distribution as a Fingerprint for Hallucinations in Generative Models	https://neurips.cc/virtual/2026/poster/148328	pending	-
-149956	Entropy Dynamics of Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149956	pending	-
-152175	Entropy-Gated Latent Recursion	https://neurips.cc/virtual/2026/poster/152175	pending	-
-152779	Entropy Guided Dynamic Patch Segmentation for Time Series Transformers	https://neurips.cc/virtual/2026/poster/152779	pending	-
+151342	Emergent Low-Rank Training Dynamics in MLPs with Smooth Activations	https://neurips.cc/virtual/2026/poster/151342	included	按训练不变子空间初始化低秩网络
+150105	Emergent Misalignment as Data-Mediated Transfer	https://neurips.cc/virtual/2026/poster/150105	included	区分训练分布和训练渠道做安全回归
+152452	Emergent representations of graphical structure in mechanistic neural models of causal judgment	https://neurips.cc/virtual/2026/poster/152452	included	查验单关系监督是否形成全图表征
+152210	Emergent Semantic Role Understanding in Language Models	https://neurips.cc/virtual/2026/poster/152210	included	先查冻结骨干是否已编码语义角色，再决定是否微调
+152010	Emergent Steering Beyond Endpoint Alignment in Chemical Reaction Models	https://neurips.cc/virtual/2026/poster/152010	excluded	摘要核心是反应生成及反合成的定向操控，未单独收录该操作机制。
+153218	Emergent Visual Thinking in Text-Only Reasoning through Multimodal Training	https://neurips.cc/virtual/2026/poster/153218	included	用干预区分可解码的视觉信息与推理实际使用的信息
+149935	EM-NeSy: Expectation Maximization for Neurosymbolic Learning	https://neurips.cc/virtual/2026/poster/149935	included	符号推理不可微时以隐变量后验训练神经前端
+139785	EmoPhone: A Multi-Wave Dataset for In-the-Wild Mobile and Wearable Affect Sensing	https://neurips.cc/virtual/2026/poster/139785	included	分别测个体内时间变化、跨用户和跨波次
+151720	EMO: Pretraining Mixture of Experts for Emergent Modularity	https://neurips.cc/virtual/2026/poster/151720	included	预训练用文档边界约束专家池，便于部署裁剪
+150276	Emotion-Trained Vision Models Do Not Necessarily Learn EEG-Aligned Facial Dynamics	https://neurips.cc/virtual/2026/poster/150276	included	以同架构随机权重作为脑对齐基线
+152590	EmoTrack: Robust Depression Tracking from Counseling Transcripts across Session Regimes	https://neurips.cc/virtual/2026/poster/152590	included	按症状拆分文本预测，单独测历史记忆增益
+155140	EmpathyChat: Structured Cognitive Reasoning in Empathetic Spoken Dialogue	https://neurips.cc/virtual/2026/poster/155140	included	把语音对话的阶段错误拆开监督
+151539	Empirical Bayes Flow Matching for Continuous Cryo-EM Heterogeneity	https://neurips.cc/virtual/2026/poster/151539	included	只有间接噪声观测时联合估计隐变量和生成先验
+152794	Empirical Bayes Rebiasing	https://neurips.cc/virtual/2026/poster/152794	included	偏差估计很噪时学习部分校正以缩短区间
+150340	Empirical regularities in subjective decision-making by LLMs	https://neurips.cc/virtual/2026/poster/150340	included	把候选生成偏好与筛选偏好分开测试
+150367	Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers	https://neurips.cc/virtual/2026/poster/150367	included	对未遮盖位置也施加留一预测监督
+152727	Empowering Time Series Analysis with Large-Scale Multimodal Pretraining	https://neurips.cc/virtual/2026/poster/152727	included	分开评估从时序派生的视图与外部知识
+149410	Enabling approximate joint sampling in diffusion LMs	https://neurips.cc/virtual/2026/poster/149410	included	用轻量条件采样头代替多 token 并行独立解遮盖
+152504	Enabling Denoising Score Matching Type Training for Manifold Diffusion Model via Momentum and Splitting	https://neurips.cc/virtual/2026/poster/152504	included	以可解局部速度过程和测地运输恢复去噪监督
+154856	Enabling Preference-driven Unlearning in Few-step Distilled Text-to-Image Diffusion Models	https://neurips.cc/virtual/2026/poster/154856	included	按少步蒸馏模型的实际生成动态重写偏好遗忘目标
+155216	Enabling VLA Action Self-Verification via VLM Token Probability Bucketing	https://neurips.cc/virtual/2026/poster/155216	included	复用策略骨干验证候选动作
+150626	ENACT: Single-Image Human-Scene Interaction Motion from Language via Foundation-Model Orchestration	https://neurips.cc/virtual/2026/poster/150626	included	用带接触约束的关键帧连接图像理解与动作生成
+153449	Encoding RNA Topology into Synthetic Alignments for 3D Structure Prediction	https://neurips.cc/virtual/2026/poster/153449	excluded	主要机制涉及核酸序列工程，暂不提取为可复用技术卡。
+138889	EndoSCOP-V: A Multi-Turn Video Understanding Evaluation Framework for Multimodal Models in Endoscopy Reporting and Clinical Reasoning	https://neurips.cc/virtual/2026/poster/138889	included	用金答案和关键帧分别隔离对话传播与定位失败
+155390	Endowing Your Vision-Language-Action Model with a Predictive Mind	https://neurips.cc/virtual/2026/poster/155390	included	直接在策略实际读取的中间特征上加未来监督
+153367	End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization	https://neurips.cc/virtual/2026/poster/153367	included	对冻结生成器的条件变量进行测试时优化
+148468	End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems	https://neurips.cc/virtual/2026/poster/148468	included	在需要潜在状态可辨识时比较精确似然和变分估计
+155932	End-to-End Neural Modeling of EM Response and Design Performance for Free-Form RFIC Passives	https://neurips.cc/virtual/2026/poster/155932	included	在可解释模拟输出旁保留互补潜变量
+155881	End-to-End Training for Unified Tokenization and Latent Denoising	https://neurips.cc/virtual/2026/poster/155881	included	让分词器和去噪器共享编码权重
+152552	End-to-End Verification of Neuro-symbolic Automata via Contrastive Logit-Gaps	https://neurips.cc/virtual/2026/poster/152552	included	重参数化时序转移以减少界传播松弛
+148678	EnerGNN: Learning Optimization-Compatible Energy Functions for Exact Constrained Combinatorial Inference	https://neurips.cc/virtual/2026/poster/148678	included	学习适合混合整数求解的能量，部署时直接加硬约束
+150913	Energy-Adaptive Equivariant State Space Models for Noise-Robust Protein Structure Representation	https://neurips.cc/virtual/2026/poster/150913	excluded	核心应用包括逆折叠与结合位点等生物工程任务，暂不提取为可复用技术卡。
+153867	Energy-Based Operator Learning in Function Space	https://neurips.cc/virtual/2026/poster/153867	included	用条件能量同时支持多解预测及无监督异常评分
+154978	Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching	https://neurips.cc/virtual/2026/poster/154978	included	用连续能量引导替代去噪过程中的离散强投影
+151795	Energy Is All We Need: Beyond FLOPs in Model-Heterogeneous Federated Learning	https://neurips.cc/virtual/2026/poster/151795	included	按每焦耳的原型对齐改善分配本地训练轮次
+150007	Energy-Tweedie: Score meets Score, Energy meets Energy	https://neurips.cc/virtual/2026/poster/150007	included	按噪声族匹配评分规则，从后验样本估计分数
+151095	ENGINE: Endogenous Variational MultiScale Optimization for Zeroth-Order LLM Fine-Tuning	https://neurips.cc/virtual/2026/poster/151095	included	交替用高维探针修正低维零阶微调
+150845	EngramState: Loadable Tool Priors for Efficient Function Calling	https://neurips.cc/virtual/2026/poster/150845	included	把工具说明预编码为可加载的循环状态
+148518	Enhanced convergence guarantees of score-based generative models in $\mathcal{W}_2$-distance beyond log-concavity	https://neurips.cc/virtual/2026/poster/148518	included	在适用的非对数凹设定下对比两种 SDE 时间离散
+152178	Enhancing Agentic Code Localization with Traceability Recovered from Repository Evolution	https://neurips.cc/virtual/2026/poster/152178	included	检索维护历史恢复问题描述与实现的对应
+155158	Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following	https://neurips.cc/virtual/2026/poster/155158	included	在低显著性目标上验证视线线索
+154613	Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior	https://neurips.cc/virtual/2026/poster/154613	included	把稳定人格与试次状态分别表征
+152331	Enhancing Novel View Synthesis via Geometry Grounded Set Diffusion	https://neurips.cc/virtual/2026/poster/152331	included	让可变数量视图联合细化
+154532	Enhancing Speech Large Language Models through Reinforced Behavior Alignment	https://neurips.cc/virtual/2026/poster/154532	included	在等义异声输入下直接优化行为一致性
+149526	Enhancing Tabular Learners with Context-Aware Semantic Embeddings	https://neurips.cc/virtual/2026/poster/149526	included	用代表行给行嵌入提供共享语境
+151956	Ensembits: an alphabet of protein conformational ensembles	https://neurips.cc/virtual/2026/poster/151956	excluded	主要贡献涉及分子动态表征及蛋白设计，本轮不提取操作性机制。
+149322	Ensemble Distributionally Robust Bayesian Optimisation	https://neurips.cc/virtual/2026/poster/149322	included	在连续上下文分布不确定时比较集成代理
+149487	Ensemble Modeling for Time Series Forecasting: an Adaptive Robust Optimization Approach	https://neurips.cc/virtual/2026/poster/149487	included	允许预测器组合权重随时间调整
+152721	Ensemble Selective Classification	https://neurips.cc/virtual/2026/poster/152721	included	用部署标注组合多个置信度分数
+148212	Ensembling Language Models with Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/148212	included	在共享字符空间集成不同词表模型
+150792	Ensuring Deployment-Time Safety of Neural Network Controlled Systems via Localized Certificate Repair	https://neurips.cc/virtual/2026/poster/150792	included	环境改变后优先修复局部安全证书
+150910	Entangled Schrödinger Bridge Matching	https://neurips.cc/virtual/2026/poster/150910	excluded	主要实验证据涉及生物分子动力学与细胞扰动，本轮不提取该应用的操作性机制。
+139577	EnterpriseBench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance	https://neurips.cc/virtual/2026/poster/139577	included	把电子表格值、公式及格式分开验收
+151144	EntiRE: Invariant Learning for Robust Concept Erasure in Text-to-Image Generative Models	https://neurips.cc/virtual/2026/poster/151144	included	按提示分区检查遗忘残留和能力保留
+153267	EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation	https://neurips.cc/virtual/2026/poster/153267	included	按实体重现间隔测一致性
+152767	EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/152767	included	依据新解码 token 熵决定刷新缓存
+148328	Entropy Distribution as a Fingerprint for Hallucinations in Generative Models	https://neurips.cc/virtual/2026/poster/148328	included	用校准的熵尾部补充均值
+149956	Entropy Dynamics of Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149956	included	多轮强化学习监控循环熵暴涨和退化积累
+152175	Entropy-Gated Latent Recursion	https://neurips.cc/virtual/2026/poster/152175	included	把递归层跨度作为随机温度外的候选维度
+152779	Entropy Guided Dynamic Patch Segmentation for Time Series Transformers	https://neurips.cc/virtual/2026/poster/152779	included	用条件熵确定时间分块边界
 149828	Entropy Minimization without Model Collapse: Mitigating Prediction Bias in Medical Imaging	https://neurips.cc/virtual/2026/poster/149828	pending	-
 152571	Entropy Polarity in Reinforcement Fine-Tuning:  Direction, Asymmetry, and Control	https://neurips.cc/virtual/2026/poster/152571	pending	-
 139835	EnvFaultBench: Benchmarking LLM Agents on Software Environment-Fault Troubleshooting	https://neurips.cc/virtual/2026/poster/139835	pending	-
