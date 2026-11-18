@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **569** 篇，暂收录 **500** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **629** 篇，暂收录 **557** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -508,3 +508,60 @@
 | 科学机器学习 | 物理先验 | [Architecture-Embedded Physics Priors for Mitigating Spectral Bias in Physics-Informed Neural Networks](cards.md#paper-150185) | 将方程残差用于调节网络内部频谱，并和只改损失或采样对照。 |
 | 大语言模型 | 来源标识 | [ArcMark: Distortion-Free Multi-Byte LLM Watermark via Optimal Transport](cards.md#paper-154160) | 评估文本水印时同时测消息恢复率与文本质量。 |
 | Agent / 教育 | 能力分解评测 | [Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows](cards.md#paper-139079) | 将有界教学判断、互动辅导和真实流程执行分开验收。 |
+| 视频生成 | 流式编辑 | [AR-Edit: Training-Free Streaming Video Editing without Inversion](cards.md#paper-152336) | 缓存源视频注意力值以避免反演 |
+| 在线学习 | 延迟反馈 | [A Reduction from Delayed to Immediate Feedback for Online Convex Optimization with Improved Guarantees](cards.md#paper-155853) | 将即时算法封装为可处理异步反馈的版本 |
+| 大语言模型 | 偏好数据 | [Are Easier or Harder Examples Better? Rethinking Data Selection for Reward Models and Preference Optimization](cards.md#paper-151585) | 先校验奖励信号质量再按难度筛样 |
+| 强化学习 | 稳健策略优化 | [A Refined Sample-Complexity Analysis of Robust Policy Optimization under Decaying Actor Stepsizes](cards.md#paper-150078) | 保守 actor 更新时按 critic 条件偏差分配精度 |
+| 博弈学习 | 信念搜索 | [A Regularization-Based Approach to Public Belief State Search for Adversarial Games](cards.md#paper-152665) | 用平滑正则化求解公开信念下的局部策略 |
+| Agent | 安全评测 | [Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test](cards.md#paper-139215) | 用语义等价规则改写检验裁判稳定性 |
+| 表格学习 | 漂移诊断 | [Are LLMs Good at Feature Engineering? Evidence from a Controlled Synthetic Benchmark](cards.md#paper-139570) | 使用可控漂移与已知充分特征检验特征工程 |
+| 多模态学习 | 基准诊断 | [Are Multimodal Benchmarks Really Useful? Item-Level Multimodal Benchmark Diagnosis via Structure-Response Co-Calibration](cards.md#paper-139183) | 联合题目结构与遮蔽模态后的响应估计依赖 |
+| 视觉生成 | 奖励设计 | [Arena-T2I Hard: Benchmarking and Improving Faithfulness with Dependency-Aware Checklist Rewards](cards.md#paper-151320) | 按依赖图评估提示约束 |
+| 量子机器学习 | 评测 | [A Reproducible Evaluation Protocol for Quantum Non-Linearity in Variational Quantum Models](cards.md#paper-139813) | 对齐训练预算后分解非线性能力 |
+| 可解释性 | 复现 | [A Reproduction Study of Weight-Based Mechanistic Interpretability in Bilinear MLPs](cards.md#paper-157024) | 检查权重可解释结构是否由权重衰减驱动 |
+| Agent | 推理调度 | [Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents](cards.md#paper-152084) | 按交互步骤分配最低可行推理档位 |
+| 推荐系统 | 评测可靠性 | [ARES: How Reliable Are LLM User Simulators for Recommender A/B Testing?](cards.md#paper-139784) | 用多用户模拟骨干复核A/B结论 |
+| 大语言模型 | 水印评测 | [A Retained-Signal Interface for LLM Watermark Robustness under Paraphrase](cards.md#paper-155532) | 分报初始信号、编辑后保留与检测器性能 |
+| 多模态学习 | 反事实评测 | [Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning](cards.md#paper-139397) | 把显式描述与隐式反事实推导拆开测 |
+| 统计学习 | 贝叶斯推断 | [A Revisit of Hamiltonian Monte Carlo Efficiency on Bayesian Neural Networks](cards.md#paper-152689) | 选激活函数时测积分器曲率误差 |
+| 多模态学习 | 分布外评测 | [Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study](cards.md#paper-139747) | 在统一协议下比较算法与ERM |
+| 生成模型 | 奖励引导 | [Are we really tilting? The mechanics of reward guidance in flow and diffusion models](cards.md#paper-148402) | 区分模态内过优化与模态选择失效 |
+| 推理模型 | 机制诊断 | [Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models](cards.md#paper-154084) | 用不同初值和中间轨迹诊断错误固定点 |
+| 大语言模型 | 不确定性校准 | [Argument Graph Uncertainty: Quantifying Uncertainty from the Logical Structure of Reasoning Chains](cards.md#paper-149153) | 用单条推理链的逻辑关系估置信度 |
+| Agent | 不确定性评测 | [Argus: A Cross-Regime Benchmark for the Transferability of Uncertainty Quantification in Computer-Use Agents](cards.md#paper-139443) | 换模型或从开放权重切换到 API 时重新校准 |
+| 计算机视觉 | 视频生成 | [ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation](cards.md#paper-152732) | 用多视角身份条件并限制其注入阶段 |
+| 多模态学习 | 检索评测 | [ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge](cards.md#paper-155756) | 分开测试领域知识与推理需求 |
+| 强化学习 | 持续学习 | [ARROW: Augmented Replay for RObust World models](cards.md#paper-156771) | 将近期缓存与长期覆盖缓存分别维护 |
+| 三维视觉 | 运动参数估计 | [ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation](cards.md#paper-151536) | 从跨状态一致的部件几何解析求关节 |
+| 生成模型 | 采样调度 | [ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Scheduling](cards.md#paper-155895) | 学习扩散采样时钟并蒸馏为固定步表 |
+| Agent / 三维视觉 | 可执行生成 | [Articraft: An Agentic System for Scalable Articulated 3D Asset Generation](cards.md#paper-155396) | 让生成代理编写可测试的部件程序 |
+| 三维视觉 | 几何拟合 | [Articulation in Prime: Primitive-Based Articulated Object Understanding from a Single Casual Video](cards.md#paper-154376) | 用可见性感知的几何原语替代长时点轨迹 |
+| 大语言模型 | 因果诊断 | [Artificial Aphasias in Lesioned Language Models](cards.md#paper-151805) | 用类别化症状而非单一准确率分析参数干预 |
+| Agent | 风险评测 | [ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation](cards.md#paper-150972) | 在实际执行前用验证过的模拟器评估候选 |
+| 软件工程 | 程序验证 | [ASAP: Assembly-Source Aligned Pseudocode Refinement For Binary Decompilation](cards.md#paper-148550) | 用执行等价和可重编译性验证反编译改写 |
+| 计算机视觉 | 词元剪枝 | [ASAP: Attention Sink Anchored Pruning](cards.md#paper-151159) | 用跨层传播距离判断冗余而非单层注意力 |
+| 可靠性 | 分布外检测 | [ASAT: Adaptive Scoring and Thresholding with Human Feedback for Robust Out-of-Distribution Detection](cards.md#paper-156772) | 随真实反馈联合更新分数和接受阈值 |
+| 大语言模型 | 训练诊断 | [A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs](cards.md#paper-155425) | 沿实际更新方向近似测曲率 |
+| 时间序列 | 多任务学习 | [A Scalable Multi-Task Model for Virtual Sensors](cards.md#paper-149834) | 让不同预测目标共享参数并学习输入选择 |
+| 统计学习 | 连续时间建模 | [A Scalable Nonparametric Continuous-Time Survival Model through Numerical Quadrature](cards.md#paper-151002) | 用可微高阶数值积分估累计风险 |
+| 科学机器学习 | 稳健性审计 | [A Scientific Claim Stability Framework for Evaluating MRI Morphometry Pipelines](cards.md#paper-139330) | 按科学结论是否保持来比较影像处理流水线 |
+| 大语言模型 | 缓存调度 | [AsdaKV: Attention-Overlap Driven Semantic KV Retrieval for Long-Context LLMs](cards.md#paper-149737) | 根据高注意力区域重叠下降触发缓存刷新 |
+| 在线学习 | 二阶遗憾 | [A second order regret bound for NormalHedge](cards.md#paper-153089) | 按累计专家遗憾方差选择更新规则 |
+| Agent | 上下文压缩 | [A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression](cards.md#paper-153290) | 对工具日志学习可复用的精确保留规则 |
+| 语言模型 | 置信校准 | [A Semantic-Sampling Framework for Evaluating Calibration in Open-Ended Question Answering](cards.md#paper-149036) | 分离回答选取与置信度估计采样 |
+| 强化学习 | 多智能体分解 | [A Separation Principle for Cooperative Multi-Agent Reinforcement Learning](cards.md#paper-149847) | 以单体目标价值作为群体分配成本 |
+| 时间序列 | 集合条件化 | [A Set-Sequence Model for Time Series](cards.md#paper-148413) | 用置换不变统计为各个序列提供群体上下文 |
+| 具身学习 | 视频监督 | [ASH: Agents that Self-Hone via Embodied Learning](cards.md#paper-152698) | 用自身交互估计逆动力学，为无动作视频构建监督 |
+| 模型安全 | 防御训练 | [A Simple Class-Agnostic Approach to Enhance Fair Adversarial Training](cards.md#paper-156125) | 在样本级区分难例与无法学习的离群样本 |
+| 计算神经科学 | 空间表征 | [A simple model of co-emergence of grid and place fields](cards.md#paper-155687) | 调节感觉噪声和遮蔽，检查空间编码是否共同形成 |
+| 语言模型 | 数据诊断 | [A Simple Unigram Cross-Entropy Lens on the Lexical Imprint of Pre-training Data](cards.md#paper-155069) | 用一元词交叉熵衡量训练语料与测试任务词汇对齐 |
+| 强化学习 | 多目标优化 | [A Single Deep Preference-Conditioned Policy for Learning Pareto Coverage Sets](cards.md#paper-150514) | 利用偏好到回报的连续性扫过 Pareto 前沿 |
+| 运筹优化 | 非平稳分配 | [A Single-Sample Polylogarithmic Regret Bound for Nonstationary Online Linear Programming](cards.md#paper-154912) | 只有少量前瞻样本时仍按新状态重解资源分配 |
+| 自然语言处理 | 辅助监督 | [Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts](cards.md#paper-150558) | 用标准化问题的中间回答辅助抽象标签学习 |
+| 语言模型 | 难度校准 | [Ask-E: An Environment for Calibrated Question Generation](cards.md#paper-139309) | 用两参考模型的求解差界定题目难度 |
+| Agent | 澄清策略 | [Ask Early, Ask Late, Ask Right: When Does Clarification Timing Matter for Long-Horizon Agents?](cards.md#paper-154769) | 按缺失信息类型而非统一时点发起澄清 |
+| 语言模型 | 推理训练 | [Asking the Right Questions: Improving Reasoning with Generated Stepping Stones](cards.md#paper-149684) | 先生成可跨求解器复用的中间问题 |
+| 隐私保护 | 私有推理 | [Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling](cards.md#paper-149860) | 用查询混合和缓存复用平衡隐私与延迟 |
+| 软件工程 | 代码检索 | [Ask KG Agent: A Multi-Agent Framework for Code Localization Using Code and Knowledge Graphs](cards.md#paper-155386) | 用开发历史补充依赖图以定位维护任务 |
+| 科学机器学习 | 成本敏感评测 | [ASO Atlas 2.0: Evaluating antisense oligonucleotide prediction across the preclinical pipeline](cards.md#paper-139593) | 按阶段成本加权预测价值 |
+| 学习理论 | 推理深度 | [A Solvable Model of Chain-of-Thought in In-Context Learning](cards.md#paper-154777) | 按上下文与预训练覆盖验证最优推理步数 |

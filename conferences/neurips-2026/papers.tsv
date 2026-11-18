@@ -520,66 +520,66 @@ poster_id	title	paper_url	status	reason
 150185	Architecture-Embedded Physics Priors for Mitigating Spectral Bias in Physics-Informed Neural Networks	https://neurips.cc/virtual/2026/poster/150185	included	将方程残差用于调节网络内部频谱，并和只改损失或采样对照。
 154160	ArcMark: Distortion-Free Multi-Byte LLM Watermark via Optimal Transport	https://neurips.cc/virtual/2026/poster/154160	included	评估文本水印时同时测消息恢复率与文本质量。
 139079	Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows	https://neurips.cc/virtual/2026/poster/139079	included	将有界教学判断、互动辅导和真实流程执行分开验收。
-152336	AR-Edit: Training-Free Streaming Video Editing without Inversion	https://neurips.cc/virtual/2026/poster/152336	pending	-
-155853	A Reduction from Delayed to Immediate Feedback for Online Convex Optimization with Improved Guarantees	https://neurips.cc/virtual/2026/poster/155853	pending	-
-151585	Are Easier or Harder Examples Better? Rethinking Data Selection for Reward Models and Preference Optimization	https://neurips.cc/virtual/2026/poster/151585	pending	-
-150078	A Refined Sample-Complexity Analysis of Robust Policy Optimization under Decaying Actor Stepsizes	https://neurips.cc/virtual/2026/poster/150078	pending	-
-152665	A Regularization-Based Approach to Public Belief State Search for Adversarial Games	https://neurips.cc/virtual/2026/poster/152665	pending	-
-139215	Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test	https://neurips.cc/virtual/2026/poster/139215	pending	-
-139570	Are LLMs Good at Feature Engineering? Evidence from a Controlled Synthetic Benchmark	https://neurips.cc/virtual/2026/poster/139570	pending	-
-139183	Are Multimodal Benchmarks Really Useful? Item-Level Multimodal Benchmark Diagnosis via Structure-Response Co-Calibration	https://neurips.cc/virtual/2026/poster/139183	pending	-
-151320	Arena-T2I Hard: Benchmarking and Improving Faithfulness with Dependency-Aware Checklist Rewards	https://neurips.cc/virtual/2026/poster/151320	pending	-
-139813	A Reproducible Evaluation Protocol for Quantum Non-Linearity in Variational Quantum Models	https://neurips.cc/virtual/2026/poster/139813	pending	-
-157024	A Reproduction Study of Weight-Based Mechanistic Interpretability in Bilinear MLPs	https://neurips.cc/virtual/2026/poster/157024	pending	-
-152084	Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents	https://neurips.cc/virtual/2026/poster/152084	pending	-
-139784	ARES: How Reliable Are LLM User Simulators for Recommender A/B Testing?	https://neurips.cc/virtual/2026/poster/139784	pending	-
-155532	A Retained-Signal Interface for LLM Watermark Robustness under Paraphrase	https://neurips.cc/virtual/2026/poster/155532	pending	-
-139397	Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning	https://neurips.cc/virtual/2026/poster/139397	pending	-
-152689	A Revisit of Hamiltonian Monte Carlo Efficiency on Bayesian Neural Networks	https://neurips.cc/virtual/2026/poster/152689	pending	-
-151081	Are Well-Trained Surrogates Optimal? Rethinking the Surrogate Role with Instability for Unlearnable Examples	https://neurips.cc/virtual/2026/poster/151081	pending	-
-139747	Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study	https://neurips.cc/virtual/2026/poster/139747	pending	-
-148402	Are we really tilting? The mechanics of reward guidance in flow and diffusion models	https://neurips.cc/virtual/2026/poster/148402	pending	-
-154084	Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models	https://neurips.cc/virtual/2026/poster/154084	pending	-
-149153	Argument Graph Uncertainty: Quantifying Uncertainty from the Logical Structure of Reasoning Chains	https://neurips.cc/virtual/2026/poster/149153	pending	-
-139443	Argus: A Cross-Regime Benchmark for the Transferability of Uncertainty Quantification in Computer-Use Agents	https://neurips.cc/virtual/2026/poster/139443	pending	-
-152732	ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation	https://neurips.cc/virtual/2026/poster/152732	pending	-
-155756	ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge	https://neurips.cc/virtual/2026/poster/155756	pending	-
-156771	ARROW: Augmented Replay for RObust World models	https://neurips.cc/virtual/2026/poster/156771	pending	-
-151536	ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation	https://neurips.cc/virtual/2026/poster/151536	pending	-
-155895	ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Scheduling	https://neurips.cc/virtual/2026/poster/155895	pending	-
-155396	Articraft: An Agentic System for Scalable Articulated 3D Asset Generation	https://neurips.cc/virtual/2026/poster/155396	pending	-
-154376	Articulation in Prime: Primitive-Based Articulated Object Understanding from a Single Casual Video	https://neurips.cc/virtual/2026/poster/154376	pending	-
-151805	Artificial Aphasias in Lesioned Language Models	https://neurips.cc/virtual/2026/poster/151805	pending	-
-150972	ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation	https://neurips.cc/virtual/2026/poster/150972	pending	-
-148550	ASAP: Assembly-Source Aligned Pseudocode Refinement For Binary Decompilation	https://neurips.cc/virtual/2026/poster/148550	pending	-
-151159	ASAP: Attention Sink Anchored Pruning	https://neurips.cc/virtual/2026/poster/151159	pending	-
-152944	ASAP: Fast Adaptive Sliding Agnostic Poisoning Attack on Federated Learning	https://neurips.cc/virtual/2026/poster/152944	pending	-
-156772	ASAT: Adaptive Scoring and Thresholding with Human Feedback for Robust Out-of-Distribution Detection	https://neurips.cc/virtual/2026/poster/156772	pending	-
-155425	A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs	https://neurips.cc/virtual/2026/poster/155425	pending	-
-149834	A Scalable Multi-Task Model for Virtual Sensors	https://neurips.cc/virtual/2026/poster/149834	pending	-
-151002	A Scalable Nonparametric Continuous-Time Survival Model through Numerical Quadrature	https://neurips.cc/virtual/2026/poster/151002	pending	-
-139330	A Scientific Claim Stability Framework for Evaluating MRI Morphometry Pipelines	https://neurips.cc/virtual/2026/poster/139330	pending	-
-149737	AsdaKV: Attention-Overlap Driven Semantic KV Retrieval for Long-Context LLMs	https://neurips.cc/virtual/2026/poster/149737	pending	-
-153089	A second order regret bound for NormalHedge	https://neurips.cc/virtual/2026/poster/153089	pending	-
-153290	A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression	https://neurips.cc/virtual/2026/poster/153290	pending	-
-149036	A Semantic-Sampling Framework for Evaluating Calibration in Open-Ended Question Answering	https://neurips.cc/virtual/2026/poster/149036	pending	-
-149847	A Separation Principle for Cooperative Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149847	pending	-
-148413	A Set-Sequence Model for Time Series	https://neurips.cc/virtual/2026/poster/148413	pending	-
-152698	ASH: Agents that Self-Hone via Embodied Learning	https://neurips.cc/virtual/2026/poster/152698	pending	-
-156125	A Simple Class-Agnostic Approach to Enhance Fair Adversarial Training	https://neurips.cc/virtual/2026/poster/156125	pending	-
-155687	A simple model of co-emergence of grid and place fields	https://neurips.cc/virtual/2026/poster/155687	pending	-
-155069	A Simple Unigram Cross-Entropy Lens on the Lexical Imprint of Pre-training Data	https://neurips.cc/virtual/2026/poster/155069	pending	-
-150514	A Single Deep Preference-Conditioned Policy for Learning Pareto Coverage Sets	https://neurips.cc/virtual/2026/poster/150514	pending	-
-148509	A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models	https://neurips.cc/virtual/2026/poster/148509	pending	-
-154912	A Single-Sample Polylogarithmic Regret Bound for Nonstationary Online Linear Programming	https://neurips.cc/virtual/2026/poster/154912	pending	-
-150558	Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/150558	pending	-
-139309	Ask-E: An Environment for Calibrated Question Generation	https://neurips.cc/virtual/2026/poster/139309	pending	-
-154769	Ask Early, Ask Late, Ask Right: When Does Clarification Timing Matter for Long-Horizon Agents?	https://neurips.cc/virtual/2026/poster/154769	pending	-
-149684	Asking the Right Questions: Improving Reasoning with Generated Stepping Stones	https://neurips.cc/virtual/2026/poster/149684	pending	-
-149860	Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling	https://neurips.cc/virtual/2026/poster/149860	pending	-
-155386	Ask KG Agent: A Multi-Agent Framework for Code Localization Using Code and Knowledge Graphs	https://neurips.cc/virtual/2026/poster/155386	pending	-
-139593	ASO Atlas 2.0: Evaluating antisense oligonucleotide prediction across the preclinical pipeline	https://neurips.cc/virtual/2026/poster/139593	pending	-
-154777	A Solvable Model of Chain-of-Thought in In-Context Learning	https://neurips.cc/virtual/2026/poster/154777	pending	-
+152336	AR-Edit: Training-Free Streaming Video Editing without Inversion	https://neurips.cc/virtual/2026/poster/152336	included	缓存源视频注意力值以避免反演
+155853	A Reduction from Delayed to Immediate Feedback for Online Convex Optimization with Improved Guarantees	https://neurips.cc/virtual/2026/poster/155853	included	将即时算法封装为可处理异步反馈的版本
+151585	Are Easier or Harder Examples Better? Rethinking Data Selection for Reward Models and Preference Optimization	https://neurips.cc/virtual/2026/poster/151585	included	先校验奖励信号质量再按难度筛样
+150078	A Refined Sample-Complexity Analysis of Robust Policy Optimization under Decaying Actor Stepsizes	https://neurips.cc/virtual/2026/poster/150078	included	保守 actor 更新时按 critic 条件偏差分配精度
+152665	A Regularization-Based Approach to Public Belief State Search for Adversarial Games	https://neurips.cc/virtual/2026/poster/152665	included	用平滑正则化求解公开信念下的局部策略
+139215	Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test	https://neurips.cc/virtual/2026/poster/139215	included	用语义等价规则改写检验裁判稳定性
+139570	Are LLMs Good at Feature Engineering? Evidence from a Controlled Synthetic Benchmark	https://neurips.cc/virtual/2026/poster/139570	included	使用可控漂移与已知充分特征检验特征工程
+139183	Are Multimodal Benchmarks Really Useful? Item-Level Multimodal Benchmark Diagnosis via Structure-Response Co-Calibration	https://neurips.cc/virtual/2026/poster/139183	included	联合题目结构与遮蔽模态后的响应估计依赖
+151320	Arena-T2I Hard: Benchmarking and Improving Faithfulness with Dependency-Aware Checklist Rewards	https://neurips.cc/virtual/2026/poster/151320	included	按依赖图评估提示约束
+139813	A Reproducible Evaluation Protocol for Quantum Non-Linearity in Variational Quantum Models	https://neurips.cc/virtual/2026/poster/139813	included	对齐训练预算后分解非线性能力
+157024	A Reproduction Study of Weight-Based Mechanistic Interpretability in Bilinear MLPs	https://neurips.cc/virtual/2026/poster/157024	included	检查权重可解释结构是否由权重衰减驱动
+152084	Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents	https://neurips.cc/virtual/2026/poster/152084	included	按交互步骤分配最低可行推理档位
+139784	ARES: How Reliable Are LLM User Simulators for Recommender A/B Testing?	https://neurips.cc/virtual/2026/poster/139784	included	用多用户模拟骨干复核A/B结论
+155532	A Retained-Signal Interface for LLM Watermark Robustness under Paraphrase	https://neurips.cc/virtual/2026/poster/155532	included	分报初始信号、编辑后保留与检测器性能
+139397	Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning	https://neurips.cc/virtual/2026/poster/139397	included	把显式描述与隐式反事实推导拆开测
+152689	A Revisit of Hamiltonian Monte Carlo Efficiency on Bayesian Neural Networks	https://neurips.cc/virtual/2026/poster/152689	included	选激活函数时测积分器曲率误差
+151081	Are Well-Trained Surrogates Optimal? Rethinking the Surrogate Role with Instability for Unlearnable Examples	https://neurips.cc/virtual/2026/poster/151081	excluded	摘要聚焦增强对训练流程的干扰，目前缺少独立防御设计与验证。
+139747	Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study	https://neurips.cc/virtual/2026/poster/139747	included	在统一协议下比较算法与ERM
+148402	Are we really tilting? The mechanics of reward guidance in flow and diffusion models	https://neurips.cc/virtual/2026/poster/148402	included	区分模态内过优化与模态选择失效
+154084	Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models	https://neurips.cc/virtual/2026/poster/154084	included	用不同初值和中间轨迹诊断错误固定点
+149153	Argument Graph Uncertainty: Quantifying Uncertainty from the Logical Structure of Reasoning Chains	https://neurips.cc/virtual/2026/poster/149153	included	用单条推理链的逻辑关系估置信度
+139443	Argus: A Cross-Regime Benchmark for the Transferability of Uncertainty Quantification in Computer-Use Agents	https://neurips.cc/virtual/2026/poster/139443	included	换模型或从开放权重切换到 API 时重新校准
+152732	ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation	https://neurips.cc/virtual/2026/poster/152732	included	用多视角身份条件并限制其注入阶段
+155756	ARK: A Dual-Axis Multimodal Retrieval Benchmark along Reasoning and Knowledge	https://neurips.cc/virtual/2026/poster/155756	included	分开测试领域知识与推理需求
+156771	ARROW: Augmented Replay for RObust World models	https://neurips.cc/virtual/2026/poster/156771	included	将近期缓存与长期覆盖缓存分别维护
+151536	ArtCrafter: Feed-Forward Generation of Articulated 3D Object with Analytic Joint Derivation	https://neurips.cc/virtual/2026/poster/151536	included	从跨状态一致的部件几何解析求关节
+155895	ART for Diffusion Sampling: A Reinforcement Learning Approach to Timestep Scheduling	https://neurips.cc/virtual/2026/poster/155895	included	学习扩散采样时钟并蒸馏为固定步表
+155396	Articraft: An Agentic System for Scalable Articulated 3D Asset Generation	https://neurips.cc/virtual/2026/poster/155396	included	让生成代理编写可测试的部件程序
+154376	Articulation in Prime: Primitive-Based Articulated Object Understanding from a Single Casual Video	https://neurips.cc/virtual/2026/poster/154376	included	用可见性感知的几何原语替代长时点轨迹
+151805	Artificial Aphasias in Lesioned Language Models	https://neurips.cc/virtual/2026/poster/151805	included	用类别化症状而非单一准确率分析参数干预
+150972	ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation	https://neurips.cc/virtual/2026/poster/150972	included	在实际执行前用验证过的模拟器评估候选
+148550	ASAP: Assembly-Source Aligned Pseudocode Refinement For Binary Decompilation	https://neurips.cc/virtual/2026/poster/148550	included	用执行等价和可重编译性验证反编译改写
+151159	ASAP: Attention Sink Anchored Pruning	https://neurips.cc/virtual/2026/poster/151159	included	用跨层传播距离判断冗余而非单层注意力
+152944	ASAP: Fast Adaptive Sliding Agnostic Poisoning Attack on Federated Learning	https://neurips.cc/virtual/2026/poster/152944	excluded	论文主要研究联邦学习投毒，摘要未验证可独立复用的防御机制
+156772	ASAT: Adaptive Scoring and Thresholding with Human Feedback for Robust Out-of-Distribution Detection	https://neurips.cc/virtual/2026/poster/156772	included	随真实反馈联合更新分数和接受阈值
+155425	A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs	https://neurips.cc/virtual/2026/poster/155425	included	沿实际更新方向近似测曲率
+149834	A Scalable Multi-Task Model for Virtual Sensors	https://neurips.cc/virtual/2026/poster/149834	included	让不同预测目标共享参数并学习输入选择
+151002	A Scalable Nonparametric Continuous-Time Survival Model through Numerical Quadrature	https://neurips.cc/virtual/2026/poster/151002	included	用可微高阶数值积分估累计风险
+139330	A Scientific Claim Stability Framework for Evaluating MRI Morphometry Pipelines	https://neurips.cc/virtual/2026/poster/139330	included	按科学结论是否保持来比较影像处理流水线
+149737	AsdaKV: Attention-Overlap Driven Semantic KV Retrieval for Long-Context LLMs	https://neurips.cc/virtual/2026/poster/149737	included	根据高注意力区域重叠下降触发缓存刷新
+153089	A second order regret bound for NormalHedge	https://neurips.cc/virtual/2026/poster/153089	included	按累计专家遗憾方差选择更新规则
+153290	A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression	https://neurips.cc/virtual/2026/poster/153290	included	对工具日志学习可复用的精确保留规则
+149036	A Semantic-Sampling Framework for Evaluating Calibration in Open-Ended Question Answering	https://neurips.cc/virtual/2026/poster/149036	included	分离回答选取与置信度估计采样
+149847	A Separation Principle for Cooperative Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149847	included	以单体目标价值作为群体分配成本
+148413	A Set-Sequence Model for Time Series	https://neurips.cc/virtual/2026/poster/148413	included	用置换不变统计为各个序列提供群体上下文
+152698	ASH: Agents that Self-Hone via Embodied Learning	https://neurips.cc/virtual/2026/poster/152698	included	用自身交互估计逆动力学，为无动作视频构建监督
+156125	A Simple Class-Agnostic Approach to Enhance Fair Adversarial Training	https://neurips.cc/virtual/2026/poster/156125	included	在样本级区分难例与无法学习的离群样本
+155687	A simple model of co-emergence of grid and place fields	https://neurips.cc/virtual/2026/poster/155687	included	调节感觉噪声和遮蔽，检查空间编码是否共同形成
+155069	A Simple Unigram Cross-Entropy Lens on the Lexical Imprint of Pre-training Data	https://neurips.cc/virtual/2026/poster/155069	included	用一元词交叉熵衡量训练语料与测试任务词汇对齐
+150514	A Single Deep Preference-Conditioned Policy for Learning Pareto Coverage Sets	https://neurips.cc/virtual/2026/poster/150514	included	利用偏好到回报的连续性扫过 Pareto 前沿
+148509	A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models	https://neurips.cc/virtual/2026/poster/148509	excluded	摘要的核心是削弱安全对齐的实验证明，未提出可独立采用的防护方案。
+154912	A Single-Sample Polylogarithmic Regret Bound for Nonstationary Online Linear Programming	https://neurips.cc/virtual/2026/poster/154912	included	只有少量前瞻样本时仍按新状态重解资源分配
+150558	Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/150558	included	用标准化问题的中间回答辅助抽象标签学习
+139309	Ask-E: An Environment for Calibrated Question Generation	https://neurips.cc/virtual/2026/poster/139309	included	用两参考模型的求解差界定题目难度
+154769	Ask Early, Ask Late, Ask Right: When Does Clarification Timing Matter for Long-Horizon Agents?	https://neurips.cc/virtual/2026/poster/154769	included	按缺失信息类型而非统一时点发起澄清
+149684	Asking the Right Questions: Improving Reasoning with Generated Stepping Stones	https://neurips.cc/virtual/2026/poster/149684	included	先生成可跨求解器复用的中间问题
+149860	Ask in the Crowd: Differentially Private LLM Inference via Dummy-Augmented Shuffling	https://neurips.cc/virtual/2026/poster/149860	included	用查询混合和缓存复用平衡隐私与延迟
+155386	Ask KG Agent: A Multi-Agent Framework for Code Localization Using Code and Knowledge Graphs	https://neurips.cc/virtual/2026/poster/155386	included	用开发历史补充依赖图以定位维护任务
+139593	ASO Atlas 2.0: Evaluating antisense oligonucleotide prediction across the preclinical pipeline	https://neurips.cc/virtual/2026/poster/139593	included	按阶段成本加权预测价值
+154777	A Solvable Model of Chain-of-Thought in In-Context Learning	https://neurips.cc/virtual/2026/poster/154777	included	按上下文与预训练覆盖验证最优推理步数
 154064	A Solver-Efficient Neural Adversarial Attack on Subgraph Matching Models	https://neurips.cc/virtual/2026/poster/154064	pending	-
 152969	A Sparse Low-Rank Biclique Decomposition for Graphs	https://neurips.cc/virtual/2026/poster/152969	pending	-
 152831	A Spectral Framework for Closed-Form Relative Density Estimation	https://neurips.cc/virtual/2026/poster/152831	pending	-
