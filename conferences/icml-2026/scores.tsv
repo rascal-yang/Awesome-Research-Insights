@@ -6530,24 +6530,24 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6529	xiao26x							初筛，原文与先例核查待补：welfare外部验证渠道/scorecard发布门槛的哲学与治理论证，不提供独立神经模型设计、训练、推理或受控测量新机制。标题立场不作为技术判据。摘要。	rule-excluded
 6530	xie26af							初筛，原文与先例核查待补：摘要可安全分离的generic部分为成熟multimodal alignment、freeform生成、promptzeroshot和multi-turn交互；当前未指具体独立新神经模块/目标或受控泛用规律。只做摘要相关性判定，不提取生物功能建模、设计优化程序，也不因生物名称直接排除。	rule-excluded
 6531	xie26ag							初筛，原文与先例核查待补：label generator/image generator/modeltrain/validation组成多层hyperparameter优化，沿成熟bilevel data generation、learning-to-teach/datasetdistillation与meta-label/adaptation；本文明确案例用于统一MLO范式，当前未给超出已有hypergradient依赖的新操作或匹配条件规律。GenSeg整体对augmentation分数不能独归新嵌套层，closest原作待核。PDF3–4。	rule-excluded
-6532	xu26cu							待原文复核评分	pending
-6533	yang26dy							待原文复核评分	pending
-6534	yang26dz							待原文复核评分	pending
-6535	yang26ea							待原文复核评分	pending
-6536	yang26eb							待原文复核评分	pending
-6537	yang26ec							待原文复核评分	pending
-6538	yang26ed							待原文复核评分	pending
-6539	yona26a							待原文复核评分	pending
-6540	yoon26g							待原文复核评分	pending
-6541	you26g							待原文复核评分	pending
-6542	zahavy26a							待原文复核评分	pending
-6543	zhan26g							待原文复核评分	pending
-6544	zhang26jp							待原文复核评分	pending
-6545	zhang26jq							待原文复核评分	pending
-6546	zhang26jr							待原文复核评分	pending
-6547	zhao26cg							待原文复核评分	pending
-6548	zhong26u							待原文复核评分	pending
-6549	zhou26by							待原文复核评分	pending
-6550	zhou26bz							待原文复核评分	pending
-6551	zhu26bk							待原文复核评分	pending
-6552	zhuo26e							待原文复核评分	pending
+6532	xu26cu							初筛，原文与先例核查待补：缓存PDF4–5 CSA明确为可组合RoFL/ELSA/BREA等的architectural envelope，使用已有functional encryption、ZKP和threshold audit。可改变FL允许哪些可验证更新，但当前未实例化新的联合协议/安全证明、成本控制或独立鲁棒规律，按成熟密码部件治理组合初筛排除。norm/well-formed证明不保证语义安全，break-glass也改变隐私假设；性能与联合威胁模型待核。	rule-excluded
+6533	yang26dy							初筛，原文与先例核查待补：缓存PDF3–5把MAS失效映到stale read/lost update/serializability，并建议locking、MVCC、Git隔离与KV checkpoint。具体能选版本校验/事务粒度，但目前操作与保证来自成熟并发控制，案例与tradeoff表未给新增MAS冲突算法或原始受控预算规律，初筛排除；多agent相关性不等独立技术增量，强隔离也不保证任务语义正确。	rule-excluded
+6534	yang26dz							初筛，原文与先例核查待补：缓存PDF4–5把world model分dynamics/reward/cost/task distribution，倡议以模拟替代昂贵直接交互；通用机器人部分属于已有model-based RL、cost-aware planning和任务生成的组合议程，当前没有独立新更新器或原始误差/预算控制规律，初筛排除。学得world model不自动消除off-policy覆盖与sim-to-real误差，不能将real interaction更少视作无验证的效率保证。	rule-excluded
+6535	yang26ea							初筛，原文与先例核查待补：缓存PDF4–5援引既有OCR/LID/低资源语言失败，倡议community co-design、字符/语素指标和文化忠实。具体可改变token级评分/数据需求，但当前技术证据与操作均来自已有语言研究，未给独立新神经机制或原始受控scale失效边界，初筛排除；不是按低资源/Position议题排除。	rule-excluded
+6536	yang26eb	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：固定backbone与任务后可扫描标注量，比较text/vector prompt学习曲线；gradient调出的soft prompt优势只诊断该优化方案下可达容量，不能当inference-only黑盒部署已可实现。；边界：所测text optimizer失败不证明离散接口容量上限，梯度可达值也非数学upper bound。attention稠密不证明持久控制因果机制；两任务、tokenF1非完整指令遵循，参数/上下文与优化预算不同可混杂。泄漏风险论证依black-box前提，不能当全接口安全证书。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26eb/yang26eb.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26eb/yang26eb.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26eb/yang26eb.pdf#page=6)	scored
+6537	yang26ec							初筛，原文与先例核查待补：缓存PDF4–5综述WER/SIM/MOS/F0指标、ASR/ASV偏差和DNSMOS域错配，提出三级Responsible Evaluation。可改变TTS选择评估器及报告维度，但负结果来自Cooper/Wang/Yang等已有研究，当前无独立新评分器、校准方法或原始控制规律；按标准/综述初筛排除。自动指标不代表人类听感与公平性，具体新比较待核。	rule-excluded
+6538	yang26ed	4	4	4	4	80		初筛，原文与先例核查待补：暂定评分依据：为VLM引入图像工具循环前，应保留文本过程而屏蔽interleaved images，并加入同backbone/同训练数据的简短SFT对照；成绩提升不能直接归因于运行时读了新图像。；边界：保留文本可能承载图像工具选择或训练期知识，屏蔽输出只测所定推理路径的边际必要性；不证明训练图像无用或内部无视觉推理。SFT/RL算量与checkpoint选择未完全配平，Qwen3结果含自复现raw对官方tool数字，attention rollout非因果真值，显著性/多seed待核。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26ed/yang26ed.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26ed/yang26ed.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26ed/yang26ed.pdf#page=6)	scored
+6539	yona26a							初筛，原文与先例核查待补：缓存PDF4–5区分calibration与discrimination，按既有可靠性图构造simulation显示abstention会丢正确答案。可指导同时测coverage/error，但经典selective prediction与calibration差异已知，原始贡献目前是解释性模拟与既有SimpleQA结果重绘，未给超出现有曲线的新算法/可迁移定量边界。初筛排除；AUROC.95或52%utility tax依模拟分布，不能当所有LLM常数阈值。	rule-excluded
+6540	yoon26g							初筛，原文与先例核查待补：缓存PDF4–5要求dataset-defined retrain reference，区分抑制输出与删除训练影响，给derived capability随retrain变化的定义推论。可改变unlearning参考模型与指标，但该操作本就是经典unlearning定义和已有输出控制诊断，当前未给新删除器、独立可检验保证或原始受控新失效规律，按术语/定义澄清初筛排除；不给retrain并非证明必定没删。	rule-excluded
+6541	you26g	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：LLM摘要到文章或文学翻译的模型选择可同时测语义与affect/detail保持，避免只优化embedding similarity/COMET而忽略语气压平；情绪保真应按任务预期定义而非越强越好。；边界：SA在E(reference)=0时未定义且近零敏感，EGM双零/句数与judge实现待核；相似度高不证明事实正确，新proxy也未自动验证真实人类共情。没有matched pre/posttraining控制，不能把差异归因为alignment的结构必然；样本筛选、长度、文化语言与人评校准限制外推。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/you26g/you26g.pdf#page=3)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/you26g/you26g.pdf#page=6)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/you26g/you26g.pdf#page=7)	scored
+6542	zahavy26a							初筛，原文与先例核查待补：缓存PDF4–5以Einstein历史案例区分induction/deduction/abduction并建议物理world-model grounding。具体可提醒形式证明不等新公理发现，但没有新增可执行abduction算子、复杂度条件或受控模型实验，历史反事实不证明LLM结构上不可能跳跃，初筛排除；MDL不需要仅有有监督误差信号，不能把类比当新神经限制定理。	rule-excluded
+6543	zhan26g	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：科学神经模型选择输入前，可将合理预处理×表征算子作为显式候选，分开测单数据显著性与跨采集域效应方向/排序稳定性；不能仅凭固定derivative上的预测分数选择机制证据。；边界：联合准则严格程度、失败attempt处置、依赖配置与effective测试数、效应量/样本量和bootstrap协议待核；极低存活率不证明其余全错，也不确证唯一因果机制。两dataset shift可含样本差异，不能把全部失稳单因归为预处理；向深网收益尚待验证。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhan26g/zhan26g.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhan26g/zhan26g.pdf#page=6)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhan26g/zhan26g.pdf#page=7)	scored
+6544	zhang26jp							初筛，原文与先例核查待补：缓存PDF4–5用jina embedding+CE二分类synthetic review intent并迁移真实review，方法是成熟文本分类的新应用。跨generator AUC高但固定threshold的FPR可达.492是已有ranking/calibration区别的单任务实例，尚未给新校准规则/独立可复用机制；真实intent不可见且review质量混杂，关联不能确定prompt意图或接受决策因果。当前初筛排除，控制与新增规律待核。	rule-excluded
+6545	zhang26jq							初筛，原文与先例核查待补：缓存PDF4–5区分static benchmark能力、局部效用与真实部署收益，例证来自已有clinical AI研究，呼吁prospective evaluation。可改变测试目标与部署证据要求，但当前通用数学/神经部分没有独立新测量器、更新规则或原始控制失效规律，按既有external-validity原则的领域议程初筛排除；不因医疗领域排除。	rule-excluded
+6546	zhang26jr							初筛，原文与先例核查待补：缓存PDF4–5把TracIn/DataInf等既有influence估计接入收入比例和透明ledger，提出session-level核算与smart contract路线。具体可改数据价值核算单位，但未给独立新attribution estimator、误差控制或神经数据选择实证，按成熟归因+分配治理流程初筛排除；近似influence不自动等于经济价值或可识别贡献。	rule-excluded
+6547	zhao26cg							初筛，原文与先例核查待补：缓存PDF4–5有会议论文隐私声明audit，技术泄漏现象明确引Meeus/vanBreugel等原作。可改用威胁模型和membership风险而非表面相似度认证，但这属既有privacy原则与已有反例，当前无新audit估计器/可复用控制机制；文献缺少验证的频率不建立新的神经泄漏规律，初筛排除。	rule-excluded
+6548	zhong26u							初筛，原文与先例核查待补：缓存PDF4–5提出OpenReview积分激励与分级惩戒，数值明为假想，尚无激励兼容机制/受控实施结果。贡献针对review组织制度，不能具体改变相关DL的表征/目标/推理/数据操作，初筛排除；不是按Position形式排除。	rule-excluded
+6549	zhou26by	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：神经解释评测应同时比较多个归因器的rank/topk一致性与各自忠实度，报告跨样本分布；不能用一张漂亮热图或方法间一致性代替模型决策证据。；边界：一致不等真、分歧也可来自不同解释对象/交互约简，必须先对齐attribution定义和基线。通用faithfulness proxy依输入分布变化，OOD与模型置信变化可混杂；已知注释重合不等因果ground truth，不能由本次差异推出所有解释器无效。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26by/zhou26by.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26by/zhou26by.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26by/zhou26by.pdf#page=6)	scored
+6550	zhou26bz							初筛，原文与先例核查待补：缓存PDF4–5强调growing KV、prefill/decode、未知长度与queue稳定性，具体可选memory-aware scheduling/cache。当前算法/保证与例证来自已有serving/OR工作，尚未给独立新调度器、stability条件或原始预算规律；通用数学建模倡议不足作为独立增量，初筛排除。	rule-excluded
+6551	zhu26bk							初筛，原文与先例核查待补：缓存PDF4–5 ATLIS为五解释层×五部署阶段，结合continuous logs、风险升级和incident feedback。可改变agent监控粒度，但目前是成熟observability/解释方法生命周期编排，没有独立新异常分数、责任归因器或控制证据，按流程整合初筛排除；低开销/跨架构可用性在所读范围仍待验证。	rule-excluded
+6552	zhuo26e							初筛，原文与先例核查待补：缓存PDF4–5综述既有安全控制局限与不同安全benchmark分数，提出训练agent与分级治理议程。通用防御评估可改为动态系统测试，但当前无独立新防御验证器或原始受控机制；跨任务benchmark分数不可直接比较能力难度，初筛排除。既有案例与路线图不替代新增可复用技术证据。	rule-excluded

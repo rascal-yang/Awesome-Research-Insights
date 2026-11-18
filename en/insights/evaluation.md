@@ -404,6 +404,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation](../../conferences/icml-2026/cards/6401-6500.md#li26kc-evaluation) · 中文
 - [Position: Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain](../../conferences/icml-2026/cards/6401-6500.md#liu26gx-evaluation) · 中文
 - [Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions](../../conferences/icml-2026/cards/6401-6500.md#riemer26a-evaluation) · 中文
+- [Position: Vector Prompt Interfaces Should Be Exposed to Enable Customization of Large Language Models](../../conferences/icml-2026/cards/6501-6552.md#yang26eb-evaluation) · 中文
+- [Position: LLMs Should Incorporate Explicit Mechanisms for Human Empathy](../../conferences/icml-2026/cards/6501-6552.md#you26g-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -664,6 +666,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Reasoning After Perception Means Reasoning Without Vision](../../conferences/icml-2026/cards/6301-6400.md#gao26ar-evaluation) · 中文
 - [Position: What Cézanne Knew About Visual Intelligence That Vision-Language Models Miss](../../conferences/icml-2026/cards/6401-6500.md#hasan26a-evaluation) · 中文
 - [Position: The Systemic Lack of Agency in Visual Reasoning](../../conferences/icml-2026/cards/6401-6500.md#huang26cp-evaluation) · 中文
+- [Position: Your VLM May Not Be Thinking with Interleaved Images](../../conferences/icml-2026/cards/6501-6552.md#yang26ed-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -749,6 +752,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Current Benchmarking Hinders Real Progress in Deep Learning for Time Series Forecasting](../../conferences/icml-2026/cards/6401-6500.md#moretti26a-evaluation) · 中文
 - [Position: State-of-the-Art Claims Require State-of-the-Art Evidence](../../conferences/icml-2026/cards/6401-6500.md#oh26d-evaluation) · 中文
 - [Position: Topological Machine Learning Cannot Progress without Experimental Standards](../../conferences/icml-2026/cards/6401-6500.md#rieso26a-evaluation) · 中文
+- [Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods](../../conferences/icml-2026/cards/6501-6552.md#zhou26by-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -807,4 +811,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Evaluation of ECG Representations Must Be Fixed](../../conferences/icml-2026/cards/6301-6400.md#berger26a-evaluation) · 中文
 - [Position: Significant impact of numerical precision in scientific machine learning](../../conferences/icml-2026/cards/6301-6400.md#cho26k-evaluation) · 中文
 - [Position: Time-Series Foundation Models Require Explicit Domain-Level Benchmarks](../../conferences/icml-2026/cards/6501-6552.md#syed26a-evaluation) · 中文
+- [Position: AI for Science Should Treat Measurement-to-Dataset Pipelines as Inference Components](../../conferences/icml-2026/cards/6501-6552.md#zhan26g-evaluation) · 中文
 <!-- classification:end -->

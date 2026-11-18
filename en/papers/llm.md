@@ -1593,6 +1593,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="li26kc-evaluation"></a>[Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation](../../conferences/icml-2026/cards/6401-6500.md#paper-li26kc)
 - <a id="liu26gx-evaluation"></a>[Position: Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain](../../conferences/icml-2026/cards/6401-6500.md#paper-liu26gx)
 - <a id="riemer26a-evaluation"></a>[Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions](../../conferences/icml-2026/cards/6401-6500.md#paper-riemer26a)
+- <a id="yang26eb-evaluation"></a>[Position: Vector Prompt Interfaces Should Be Exposed to Enable Customization of Large Language Models](../../conferences/icml-2026/cards/6501-6552.md#paper-yang26eb)
+- <a id="you26g-evaluation"></a>[Position: LLMs Should Incorporate Explicit Mechanisms for Human Empathy](../../conferences/icml-2026/cards/6501-6552.md#paper-you26g)
 
 <a id="by-theory-statistics"></a>
 

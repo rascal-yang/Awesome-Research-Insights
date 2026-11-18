@@ -404,6 +404,8 @@
 - [分别审计隐式防护的持久性与副作用](../conferences/icml-2026/cards/6401-6500.md#li26kc-evaluation) · Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation
 - [自生成数据按observer预算与方向诊断](../conferences/icml-2026/cards/6401-6500.md#liu26gx-evaluation) · Position: Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain
 - [用行为结果校准推理轨迹监控而非单看语义](../conferences/icml-2026/cards/6401-6500.md#riemer26a-evaluation) · Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions
+- [将prompt接口容量诊断与黑盒可优化性分开](../conferences/icml-2026/cards/6501-6552.md#yang26eb-evaluation) · Position: Vector Prompt Interfaces Should Be Exposed to Enable Customization of Large Language Models
+- [语义相似之外单独测情绪与细节保真](../conferences/icml-2026/cards/6501-6552.md#you26g-evaluation) · Position: LLMs Should Incorporate Explicit Mechanisms for Human Empathy
 
 <a id="by-computer-vision"></a>
 
@@ -664,6 +666,7 @@
 - [视觉细节任务先诊断信息访问再加文本推理](../conferences/icml-2026/cards/6301-6400.md#gao26ar-evaluation) · Position: Reasoning After Perception Means Reasoning Without Vision
 - [分离因果文字与链结构评分并扫scaffolding](../conferences/icml-2026/cards/6401-6500.md#hasan26a-evaluation) · Position: What Cézanne Knew About Visual Intelligence That Vision-Language Models Miss
 - [分级提示注入区分视觉发现与计算失败](../conferences/icml-2026/cards/6401-6500.md#huang26cp-evaluation) · Position: The Systemic Lack of Agency in Visual Reasoning
+- [先删中间图像再归因视觉CoT收益](../conferences/icml-2026/cards/6501-6552.md#yang26ed-evaluation) · Position: Your VLM May Not Be Thinking with Interleaved Images
 
 <a id="by-ml-foundations"></a>
 
@@ -749,6 +752,7 @@
 - [先匹配forecasting局部参数与协变量再比层](../conferences/icml-2026/cards/6401-6500.md#moretti26a-evaluation) · Position: Current Benchmarking Hinders Real Progress in Deep Learning for Time Series Forecasting
 - [模型平均领先之外检验任务分布与移除敏感性](../conferences/icml-2026/cards/6401-6500.md#oh26d-evaluation) · Position: State-of-the-Art Claims Require State-of-the-Art Evidence
 - [拓扑表征先控制filtration再比较下游编码](../conferences/icml-2026/cards/6401-6500.md#rieso26a-evaluation) · Position: Topological Machine Learning Cannot Progress without Experimental Standards
+- [解释器一致性与忠实度分开验证](../conferences/icml-2026/cards/6501-6552.md#zhou26by-evaluation) · Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -807,4 +811,5 @@
 - [预训练表征要对照随机encoder并检查稀有标签影响](../conferences/icml-2026/cards/6301-6400.md#berger26a-evaluation) · Position: Evaluation of ECG Representations Must Be Fixed
 - [同MAE下浮点精度的导数与谱序检查](../conferences/icml-2026/cards/6301-6400.md#cho26k-evaluation) · Position: Significant impact of numerical precision in scientific machine learning
 - [域与horizon分层的TSFM选型](../conferences/icml-2026/cards/6501-6552.md#syed26a-evaluation) · Position: Time-Series Foundation Models Require Explicit Domain-Level Benchmarks
+- [把预处理配置作为观测模型做跨数据稳定性审计](../conferences/icml-2026/cards/6501-6552.md#zhan26g-evaluation) · Position: AI for Science Should Treat Measurement-to-Dataset Pipelines as Inference Components
 <!-- classification:end -->
