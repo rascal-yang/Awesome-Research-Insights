@@ -402,6 +402,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Anthropomorphic Misalignment Research Needs Stronger Evidence](../../conferences/icml-2026/cards/6401-6500.md#gupta26e-evaluation) · 中文
 - [Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks](../../conferences/icml-2026/cards/6401-6500.md#kasneci26a-evaluation) · 中文
 - [Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation](../../conferences/icml-2026/cards/6401-6500.md#li26kc-evaluation) · 中文
+- [Position: Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain](../../conferences/icml-2026/cards/6401-6500.md#liu26gx-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -483,6 +484,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model](../../conferences/icml-2026/cards/6301-6400.md#elangovan26b-evaluation) · 中文
 - [Position: Universal Aesthetic Alignment Narrows Artistic Expression](../../conferences/icml-2026/cards/6401-6500.md#guo26ao-evaluation) · 中文
 - [Position: CNNs Don’t See Shape — And That Won’t Change Without New Architectures](../../conferences/icml-2026/cards/6401-6500.md#kayyam26b-evaluation) · 中文
+- [Position: Age Estimation Models Do Not Process Biometric Data](../../conferences/icml-2026/cards/6401-6500.md#marshalkin26a-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -740,6 +742,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems](../../conferences/icml-2026/cards/6301-6400.md#chakraborty26d-evaluation) · 中文
 - [Position: Quantum Deep Learning Still Needs a Quantum Leap](../../conferences/icml-2026/cards/6401-6500.md#gundlach26a-evaluation) · 中文
 - [Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete](../../conferences/icml-2026/cards/6401-6500.md#jimenez26a-evaluation) · 中文
+- [Position: Current Benchmarking Hinders Real Progress in Deep Learning for Time Series Forecasting](../../conferences/icml-2026/cards/6401-6500.md#moretti26a-evaluation) · 中文
+- [Position: State-of-the-Art Claims Require State-of-the-Art Evidence](../../conferences/icml-2026/cards/6401-6500.md#oh26d-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

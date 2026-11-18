@@ -708,6 +708,7 @@
 - <a id="elangovan26b-evaluation"></a>[Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model](../conferences/icml-2026/cards/6301-6400.md#paper-elangovan26b)
 - <a id="guo26ao-evaluation"></a>[Position: Universal Aesthetic Alignment Narrows Artistic Expression](../conferences/icml-2026/cards/6401-6500.md#paper-guo26ao)
 - <a id="kayyam26b-evaluation"></a>[Position: CNNs Don’t See Shape — And That Won’t Change Without New Architectures](../conferences/icml-2026/cards/6401-6500.md#paper-kayyam26b)
+- <a id="marshalkin26a-evaluation"></a>[Position: Age Estimation Models Do Not Process Biometric Data](../conferences/icml-2026/cards/6401-6500.md#paper-marshalkin26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -6450,26 +6450,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6449	li26kd							初筛，原文与先例核查待补：crowdsourcing的quality control/aggregation原则迁移human+LLM workers为成熟集体决策框架，当前是综述/适配agenda而非新相关误差估计、aggregation算法或受控neural技术规律。摘要。	rule-excluded
 6450	liao26f							初筛，原文与先例核查待补：ideal task sharding、local charts与近零routing error下的低维专家分解属成熟mixture/compositional approximation原理；比较两种不同function class的上界不能证明所有monolithic劣势，单模型可实现router/experts。Taylor局部PD不保证global average-trap界，N负幂差也非随N指数提升。去掉宽泛AGI/统治结论后当前无独立新可用规则。PDF3–5，未做证明核验。	rule-excluded
 6451	lillelund26a							初筛，原文与先例核查待补：C-index只排rank、proper scoring与marginal/conditional IPCW/dependent censoring不可识别均成熟survival统计原则；本稿CoxPH/Weibull/Clayton模拟显示oracle-gap，但当前未隔离新estimator或超出已有censoring metric失配的独立选择规律。并非因没有deep/robot实验排除；metric假设可比data满足条件，不必机械与learner假设完全同层。PDF3–7。	rule-excluded
-6452	liu26gu							待原文复核评分	pending
-6453	liu26gv							待原文复核评分	pending
-6454	liu26gw							待原文复核评分	pending
-6455	liu26gx							待原文复核评分	pending
-6456	liu26gy							待原文复核评分	pending
-6457	lotfi26a							待原文复核评分	pending
-6458	lu26av							待原文复核评分	pending
-6459	lucas26a							待原文复核评分	pending
-6460	marro26b							待原文复核评分	pending
-6461	marshalkin26a							待原文复核评分	pending
-6462	mccormick26a							待原文复核评分	pending
-6463	min26h							待原文复核评分	pending
-6464	moezzi26a							待原文复核评分	pending
-6465	moretti26a							待原文复核评分	pending
-6466	moshkovitz26a							待原文复核评分	pending
-6467	mushkani26a							待原文复核评分	pending
-6468	mushkani26b							待原文复核评分	pending
-6469	oh26d							待原文复核评分	pending
-6470	orgad26a							待原文复核评分	pending
-6471	papamarkou26a							待原文复核评分	pending
+6452	liu26gu							初筛，原文与先例核查待补：world-model reference/conflict policy统一hallucination定义与HalluWorld连接主要为taxonomy/另稿benchmark，当前未给独立神经训练/推理操作或新受控failure规律；不以定义宽泛本身收录。摘要。	rule-excluded
+6453	liu26gv							初筛，原文与先例核查待补：variance/query tradeoff、forward-gradient baseline、subspace扰动、seed通信/feature复用都是已有ZO方法；systems方向与六position主要综述/研究机会，当前未增独立操作或匹配控制规律。随机扰动本身也不自动提供DP保证，forward-only不自动nearzero pipeline bubbles。PDF4、6。	rule-excluded
+6454	liu26gw							初筛，原文与先例核查待补：KnowledgeObjects将implicit reasoning外化为structured/human-endorsed artifacts，是知识管理/验证workflow；当前无独立新neural学习目标、校准机制或可计算受控选择规律，验证经济性主要倡议。摘要。	rule-excluded
+6455	liu26gx	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：自play停滞时，固定observer训练/推理预算，对不同proposer和abduction/deduction/induction数据测prequential codelength proxy；不把更多样本、较大模型或reward增长等同新增可学结构。；proxy依初始化、优化路径、数据顺序、token数和terminal fit，下降不独立证明memorization或无结构；跨代Qwen3 4B不等仅proposer size。没有三模块联合受控消融或无限进步证明，扩capacity可提升拟合不保证learnable information单调；原作独立增量待核。 PDF3,4,7,8页。	scored
+6456	liu26gy							初筛，原文与先例核查待补：A2A task管理/MCP tool协议统一评测接口和AgentBeats运行模式为标准化工程/assessment harness，当前未给独立改变neural agent模型/训练/推理的新机制或匹配实验规律。平台开放性不单独构成增量。摘要。	rule-excluded
+6457	lotfi26a							初筛，原文与先例核查待补：exaptation/多元评价、保护venue和long-horizon funding为研究治理议程，未给独立可复用神经技术操作或已控制经验。摘要。	rule-excluded
+6458	lu26av							初筛，原文与先例核查待补：physics专用数据、reward、工具verification是成熟domain-specialization/neurosymbolic方向的研究agenda；当前没有独立generic新目标/校验器或可迁移受控规律。并非因physics领域排除。摘要。	rule-excluded
+6459	lucas26a							初筛，原文与先例核查待补：多语言安全不均衡、reward chance及contextdistillation数值来自207研究综述，当前未提供新distillation目标或独立controlled multilingual规律；participatory specification/双错误率评价为既有原则，不能把旧论文数字当本稿新技术证据。摘要。	rule-excluded
+6460	marro26b							初筛，原文与先例核查待补：LLM adapter/GUI操作促进service互通是成熟tool-use/data translation能力的社会技术推论；当前无独立protocol/adapter学习新算法或受控取舍，universal interoperability也非技术保证。摘要。	rule-excluded
+6461	marshalkin26a	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：评估age estimator表征的身份泄漏时，分开报告原始层cosine verifier与冻结backbone后训练pooler的可读性，并在固定FMR比较FNMR；不能把未达认证阈值当不存在身份信息。；LFW仅3000impostor pairs，.01% FMR的尾估计不足一个case；best-layer postselection及probe训练预算需核。1:1 verification不等所有1:N识别，差于认证标准不等privacy安全/feature orthogonal；新head改变系统但仍揭示旧features信息，不能由此直接判GDPR/BIPA适用性。 PDF4,5,6,7页。	scored
+6462	mccormick26a							初筛，原文与先例核查待补：latent proxies导致observational nonidentifiability、等价机制与需额外识别假设是成熟causal/system identification原则；当前贡献为科学标准和解释风险议程，尚无新识别条件/可执行estimator或独立控制规律。摘要高层。	rule-excluded
+6463	min26h							初筛，原文与先例核查待补：从isolated theorem扩展dependency-linked theory library为已有autoformalization/formal knowledge engineering方向；路径和挑战未构具体新neural检索/生成/证明算法或受控规律。摘要。	rule-excluded
+6464	moezzi26a							初筛，原文与先例核查待补：static-cue dominance/temporal hallucination与时序grounding主张主要综合已有video诊断probes，未见本稿新增独立训练目标、架构或受控negative经验；pixel dynamics议题本身不构技术增量。摘要。	rule-excluded
+6465	moretti26a	4	5	4	4	86		初筛，原文与先例核查待补：暂定新增4/复用5/使用4/独特4：预测模型比较应先固定global/hybrid-local参数与calendar covariates，再消融temporal/spatial层；局部embedding与协变量影响可超过换sequence operator，且收益依数据而变。；不证明所有sequence层无用或独立相互作用可忽略；local参数依seriesID，跨新series无直接embedding。空间表缩window不能与非空间表直接归因；batchtime是训练设备相关，非实机部署保证。新controlled规律相对既有forecasting ablation待核。 PDF3,4,5,6,7页。	scored
+6466	moshkovitz26a							初筛，原文与先例核查待补：explanation human-loop/feedback与actionability checklist、文献/实践者survey属于研究议程，当前未有新可执行neural解释反馈机制或独立controlled选择规律。摘要。	rule-excluded
+6467	mushkani26a							初筛，原文与先例核查待补：Krippendorffα、majority accuracy/Jaccard及标注abstention是成熟测量工具；100street场景30维度的人类reliability与model agreement相关是领域benchmark描述，尚未隔离新通用selection规律。不能把标签disagreement直接当模型UQ或用名义exact-setα推allagreement；新数据/治理协商不足增量。PDF4及摘要。	rule-excluded
+6468	mushkani26b							初筛，原文与先例核查待补：versioned prompt库、curation/veto workflow与6prompt stratum sampling+LLM compromise为成熟prompt ensembling/治理组合；50vignettes、12raters显示输出分布变化，但未新增aggregate学习规则。合成incident log响应时间不是实测治理效益，compromise变多不自动更正确。PDF4。	rule-excluded
+6469	oh26d	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：选benchmark模型时并列报告paired effect size、task winrate和删最有利task后何时排名逆转；对top模型与更宽model pool分别测，不把更多相关tasks自动当稳定证据。；winrate≤.6仍可赢大多数task，不能写成minority；BP是可删除task的compositional敏感性，不是估计噪声置信度。Cohen d依heterogeneous task尺度、阈值启发式，single-parameter sweep非所有阈值同时放宽仍成立；更多相关任务无改善不证明新增独立任务也无用。 PDF3,4,5,6,7页。	scored
+6470	orgad26a							初筛，原文与先例核查待补：concreteness/validation actionability矩阵与五领域应用/评价标准，主要重构已有interpretability评价目标；当前无独立新解释/模型干预算法或受控收益规律。摘要。	rule-excluded
+6471	papamarkou26a							初筛，原文与先例核查待补：latent belief更新+expected utility/value-of-information的control layer是成熟Bayesian decision/POMDP思想；agent routing/tool budget新场景及design patterns未提供独立posterior模型或可执行新决策规则/控制。Bayes-consistent不自动给真实calibration，本文未将LLM本身Bayesian设为前提。PDF4与摘要。	rule-excluded
 6472	park26ab							待原文复核评分	pending
 6473	peng26p							待原文复核评分	pending
 6474	perez-ortiz26a							待原文复核评分	pending

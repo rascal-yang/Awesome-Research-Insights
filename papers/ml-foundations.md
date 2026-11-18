@@ -884,6 +884,8 @@
 - <a id="chakraborty26d-evaluation"></a>[Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems](../conferences/icml-2026/cards/6301-6400.md#paper-chakraborty26d)
 - <a id="gundlach26a-evaluation"></a>[Position: Quantum Deep Learning Still Needs a Quantum Leap](../conferences/icml-2026/cards/6401-6500.md#paper-gundlach26a)
 - <a id="jimenez26a-evaluation"></a>[Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete](../conferences/icml-2026/cards/6401-6500.md#paper-jimenez26a)
+- <a id="moretti26a-evaluation"></a>[Position: Current Benchmarking Hinders Real Progress in Deep Learning for Time Series Forecasting](../conferences/icml-2026/cards/6401-6500.md#paper-moretti26a)
+- <a id="oh26d-evaluation"></a>[Position: State-of-the-Art Claims Require State-of-the-Art Evidence](../conferences/icml-2026/cards/6401-6500.md#paper-oh26d)
 
 <a id="by-theory-statistics"></a>
 

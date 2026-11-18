@@ -402,6 +402,7 @@
 - [保持假话表面线索而移除欺骗意图测试probe](../conferences/icml-2026/cards/6401-6500.md#gupta26e-evaluation) · Position: Anthropomorphic Misalignment Research Needs Stronger Evidence
 - [压力类型与judge差异的同题sycophancy剖面](../conferences/icml-2026/cards/6401-6500.md#kasneci26a-evaluation) · Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
 - [分别审计隐式防护的持久性与副作用](../conferences/icml-2026/cards/6401-6500.md#li26kc-evaluation) · Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation
+- [自生成数据按observer预算与方向诊断](../conferences/icml-2026/cards/6401-6500.md#liu26gx-evaluation) · Position: Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain
 
 <a id="by-computer-vision"></a>
 
@@ -483,6 +484,7 @@
 - [架构稳定性必须条件于归因算子](../conferences/icml-2026/cards/6301-6400.md#elangovan26b-evaluation) · Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model
 - [审美reward评测分开显式风格遵循与通用品质](../conferences/icml-2026/cards/6401-6500.md#guo26ao-evaluation) · Position: Universal Aesthetic Alignment Narrows Artistic Expression
 - [用冲突与去线索联合检验shape改进](../conferences/icml-2026/cards/6401-6500.md#kayyam26b-evaluation) · Position: CNNs Don’t See Shape — And That Won’t Change Without New Architectures
+- [区分年龄表征的直接验证与可学身份读出](../conferences/icml-2026/cards/6401-6500.md#marshalkin26a-evaluation) · Position: Age Estimation Models Do Not Process Biometric Data
 
 <a id="by-nlp"></a>
 
@@ -740,6 +742,8 @@
 - [固定组合decoder后的神经分数归因](../conferences/icml-2026/cards/6301-6400.md#chakraborty26d-evaluation) · Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems
 - [量子DL加速先交叉筛运行成本与可行规模](../conferences/icml-2026/cards/6401-6500.md#gundlach26a-evaluation) · Position: Quantum Deep Learning Still Needs a Quantum Leap
 - [数据重采样与seed双层UQ参照](../conferences/icml-2026/cards/6401-6500.md#jimenez26a-evaluation) · Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete
+- [先匹配forecasting局部参数与协变量再比层](../conferences/icml-2026/cards/6401-6500.md#moretti26a-evaluation) · Position: Current Benchmarking Hinders Real Progress in Deep Learning for Time Series Forecasting
+- [模型平均领先之外检验任务分布与移除敏感性](../conferences/icml-2026/cards/6401-6500.md#oh26d-evaluation) · Position: State-of-the-Art Claims Require State-of-the-Art Evidence
 
 <a id="by-graph-and-recommendation"></a>
 
