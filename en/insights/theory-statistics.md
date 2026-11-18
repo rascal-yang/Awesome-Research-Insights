@@ -1167,5 +1167,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Towards Identifiable Latent Additive Noise Models](../../conferences/neurips-2026/cards-0012.md#paper-149628)
 - [Tracing Actual Causes with Counterfactual Witness Maps](../../conferences/neurips-2026/cards-0012.md#paper-152706)
 - [Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals](../../conferences/neurips-2026/cards-0012.md#paper-153288)
+- [UMAS: System-Level Uncertainty Quantification for Multi-Agent LLM Systems](../../conferences/neurips-2026/cards-0012.md#paper-148275)
+- [Uncertainty as an Underconstrained Axis in Lossy Compression](../../conferences/neurips-2026/cards-0012.md#paper-156038)
+- [Understanding axial attention in TSFMs through single location regression](../../conferences/neurips-2026/cards-0012.md#paper-153180)
 
 <!-- conference-classification:end -->

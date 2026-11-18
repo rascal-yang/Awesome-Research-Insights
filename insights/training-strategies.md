@@ -997,5 +997,18 @@
 - [Trajectory-Matching Meta Pseudo-Labeling for Semi-Supervised Learning](../conferences/neurips-2026/cards-0012.md#paper-148661)
 - [Transferring Visual Explainability from Self-Explaining to Prediction-Only Vision Transformers via Task Arithmetic](../conferences/neurips-2026/cards-0012.md#paper-153562)
 - [Treating Hyperparameters as Interventions: Task-Invariant Representation Learning for Transferable HPO](../conferences/neurips-2026/cards-0012.md#paper-155538)
+- [TriTD: Tri-Partite Trajectory–Distribution Distillation for Real-Time Autoregressive Video Generation](../conferences/neurips-2026/cards-0012.md#paper-154734)
+- [Tropical Boundary Complexity of Deep ReLU Networks](../conferences/neurips-2026/cards-0012.md#paper-156044)
+- [Truncate Bad, Upweight Good: BoN-Style Distillation via Rank-Based Classification](../conferences/neurips-2026/cards-0012.md#paper-152325)
+- [Trust Region Continual Learning as an Implicit Meta-Learner](../conferences/neurips-2026/cards-0012.md#paper-148571)
+- [Trust Region Policy Distillation](../conferences/neurips-2026/cards-0012.md#paper-150346)
+- [TTVidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](../conferences/neurips-2026/cards-0012.md#paper-154339)
+- [Two Drifts, One Principle: Conflict-Aware Spectral Consolidation for Multimodal Continual Learning](../conferences/neurips-2026/cards-0012.md#paper-151270)
+- [UFO: A Unified Flow-Oriented Framework for Robust Continual Graph Learning](../conferences/neurips-2026/cards-0012.md#paper-155759)
+- [UltraDiff:Transferring High-Fidelity Priors to Compressed Latent Spaces for High-resolution Image Generation](../conferences/neurips-2026/cards-0012.md#paper-150314)
+- [Ultra Fast PDE Solving via Physics Guided Few-step Diffusion](../conferences/neurips-2026/cards-0012.md#paper-151853)
+- [U-MOF: Uncertainty-Guided Parameter-Efficient Multi-Objective Fine-Tuning for Long-Tailed Recognition](../conferences/neurips-2026/cards-0012.md#paper-150452)
+- [Understanding the Convergence of Direct Training of SNNs with Surrogate Gradients](../conferences/neurips-2026/cards-0012.md#paper-152782)
+- [Understanding the Curse of Unrolling](../conferences/neurips-2026/cards-0012.md#paper-149289)
 
 <!-- conference-classification:end -->

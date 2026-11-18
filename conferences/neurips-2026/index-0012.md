@@ -244,3 +244,82 @@
 | 智能体 | 记忆与检索 | [TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG](cards-0012.md#paper-155841) | RAG 引用证书按检索选择后的分布校准 |
 | 具身智能与机器人 | 效率与系统 | [Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA](cards-0012.md#paper-148902) | 用快速动作支路的不确定性触发慢推理 |
 | 具身智能与机器人 | 评测与诊断 | [Trimming the Long-Tail of Visual World Modeling Evaluation](cards-0012.md#paper-139435) | 世界模型按常见与长尾物理交互分层验收 |
+| 强化学习 | 搜索与规划 | [TriSearch: Learning to Optimize Triangulations via Bistellar Flips](cards-0012.md#paper-148495) | 离散几何搜索只对当前可行动作评分。 |
+| 模型效率与系统 | 采样与推理 | [TriSpec: Ternary Speculative Decoding via Lightweight Proxy Verification](cards-0012.md#paper-152166) | 推测解码先用代理验容易 token。 |
+| 生成模型 | 知识蒸馏 | [TriTD: Tri-Partite Trajectory–Distribution Distillation for Real-Time Autoregressive Video Generation](cards-0012.md#paper-154734) | 自回归视频蒸馏分别处理起始误差、分布偏差和传播。 |
+| 智能体与工具使用 | 优化算法 | [TritonTune: LLM-Guided Multi-Agent Optimization of GPU Kernel Configurations](cards-0012.md#paper-156111) | 自动内核调优仅接受硬件验证过的提升。 |
+| 生成模型 | 流匹配 | [Trivialized Generative Models on Lie Groups](cards-0012.md#paper-152126) | 群值生成在固定李代数建路径，再映回群。 |
+| 深度学习 | 评测与诊断 | [TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders](cards-0012.md#paper-139385) | 表格编码器以统一轻量读出比较多个粒度。 |
+| 深度学习 | 训练策略 | [Tropical Boundary Complexity of Deep ReLU Networks](cards-0012.md#paper-156044) | 深 ReLU 初始化同时审计边界复杂度随深度。 |
+| 模型效率与系统 | 剪枝与稀疏化 | [TropNNC: Structured Neural Network Compression Using Tropical Geometry](cards-0012.md#paper-156769) | 没有训练数据时按几何冗余剪卷积。 |
+| 大语言模型 | 知识蒸馏 | [Truncate Bad, Upweight Good: BoN-Style Distillation via Rank-Based Classification](cards-0012.md#paper-152325) | 把 Best-of-N 收益蒸馏时截去低排名样本。 |
+| 机器学习理论 | 优化算法 | [Truncated Riemannian (1+1)-ES for Black-Box Optimization with Intrinsic Dimension Guarantees](cards-0012.md#paper-153518) | 黑盒搜索沿内蕴流形限制变异半径。 |
+| 模型效率与系统 | 架构设计 | [TrunkFish: Making Model Width Incrementally Refinable](cards-0012.md#paper-148418) | 可伸缩宽度采用前缀不依赖新增通道。 |
+| 大语言模型 | 评测与诊断 | [Trust, but Don’t Verify: Epistemic Blind Spots in LLM Source Evaluation](cards-0012.md#paper-148510) | 多源综述前先逐来源核方法事实。 |
+| 强化学习 | 奖励设计 | [TrustFlow: Adaptive Trust Calibration for Language Model Guided Reinforcement Learning](cards-0012.md#paper-149919) | 随控制策略进步逐步撤掉 LLM 指导。 |
+| 强化学习 | 时序建模 | [Trust Guided Decision Transformer](cards-0012.md#paper-151852) | Decision Transformer 用下一状态误差选可信上下文后再值引导。 |
+| 大语言模型 | 评测与诊断 | [TrustMod-SM: A Multi-Axis Benchmark for Evaluating Trustworthiness of LLMs in Social Media Content Moderation](cards-0012.md#paper-139646) | 安全审核按多个价值维度切片而非总准确。 |
+| 深度学习 | 持续学习 | [Trust Region Continual Learning as an Implicit Meta-Learner](cards-0012.md#paper-148571) | 重放与 Fisher 惩罚分别对应旧任务梯度与曲率。 |
+| 大语言模型 | 知识蒸馏 | [Trust Region Policy Distillation](cards-0012.md#paper-150346) | 在线蒸馏不稳时训练近端教师而非每步逼很远。 |
+| 强化学习 | 约束优化 | [Trust Region Q Adjoint Matching](cards-0012.md#paper-149711) | 价值引导流策略用路径级 KL 保护底座。 |
+| 大语言模型 | 优化 | [Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning](cards-0012.md#paper-151603) | 固定小批次并沿一阶方向用少量损失评估选步长。 |
+| 多模态学习 | 推理策略 | [Trust What Matters: Language-Conditioned Evidence Routing for Video-IMU Action Question Answering](cards-0012.md#paper-152130) | 按语言问题和证据可靠性选择视频或惯性感知线索。 |
+| 机器人学 | 评测与诊断 | [Trustworthy and Efficient Map-free LiDAR Localization via Scan-Pose Alignment and Flow Matching](cards-0012.md#paper-151724) | 把定位置信度定义为预测位姿与观测扫描的匹配。 |
+| 大语言模型 | 评测与诊断 | [Truth as a Compression Artifact in Language Model Training](cards-0012.md#paper-151250) | 训练数据冲突需区分随机噪声与成体系的错误规则。 |
+| 机器学习基础与统计 | 评测与诊断 | [Truthful Calibration Errors for Multi-Class Prediction](cards-0012.md#paper-149426) | 使用不奖励歪曲预测概率的多类校准误差。 |
+| 机器学习基础与统计 | 表征学习 | [TSFM Meets LLM: Context as Covariate](cards-0012.md#paper-149079) | 将非结构文本压为时间索引协变量供预测模型使用。 |
+| 机器学习基础与统计 | 模型架构 | [TS-ICL: A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning](cards-0012.md#paper-148825) | 用时间戳回归统一缺失值补全、预测和外生变量。 |
+| 大语言模型 | 评测与诊断 | [TSNBench: Benchmarking LLM Proficiency in Time-Sensitive Networking](cards-0012.md#paper-138953) | 安全配置代理同时测知识选择题和开放数值计算。 |
+| 机器学习基础与统计 | 表征学习 | [TStruct: Learning Shared Temporal Structures for Long-Term Time-Series Forecasting](cards-0012.md#paper-149443) | 在多个时间位置和变量间复用占主导的关系结构。 |
+| 计算机视觉 | 推理策略 | [TTB: Test-time MLP Baking for Efficient Rendering of Decoder-only View Synthesis Models](cards-0012.md#paper-154935) | 固定观测场景下将实际跨视角注意力映射拟合成小 MLP。 |
+| 计算机视觉 | 训练策略 | [TTVidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](cards-0012.md#paper-154339) | 视频预训练将空间表征与局部变化学习分开。 |
+| 大语言模型 | 评测与诊断 | [TUBE: Tangent Upper Bound on Evidence for Discrete Diffusion Language Models](cards-0012.md#paper-155978) | 比较离散生成器似然时用可估计的上界判断能否接近精确基线。 |
+| 多模态学习 | 模型架构 | [Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](cards-0012.md#paper-154633) | 统一生成理解模型可测试直接输入像素块替代外部视觉编码器。 |
+| 计算机视觉 | 表征学习 | [Tunable Latent Generative Priors for Compressed Sensing and Inverse Problems](cards-0012.md#paper-149979) | 同一生成先验通过选择潜变量复杂度适配不同观测难度。 |
+| 强化学习与决策 | 评测与诊断 | [Tuning the Tuner](cards-0012.md#paper-153184) | 自动调参要计入调参器自身搜索成本 |
+| 具身智能与机器人 | 生成与扩散 | [TwinFlux: One-Step Discrete-Continuous Flow for End-to-End Autonomous Driving](cards-0012.md#paper-155650) | 一步生成轨迹可用分段位移一致性监督 |
+| 视觉与多模态 | 效率与系统 | [TwinPrune: Density-Aware Two-Phase Token Pruning for Vision-Language Models](cards-0012.md#paper-151130) | VLM 剪枝分别测预填和解码影响 |
+| 视觉与多模态 | 训练与优化 | [Two Drifts, One Principle: Conflict-Aware Spectral Consolidation for Multimodal Continual Learning](cards-0012.md#paper-151270) | 持续适配分别测视觉投影器和语言 LoRA 漂移 |
+| 机器学习基础与统计 | 模型与架构 | [Two Layers of Attention Stability: A Koopman-Operator Analysis of Linear and Softmax Attention](cards-0012.md#paper-153140) | 长期递归预测区分谱稳定与逐点收缩 |
+| 大语言模型 | 推理与搜索 | [Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion](cards-0012.md#paper-149214) | 分组近似 softmax 要校正组大小和组内离散度 |
+| 机器学习基础与统计 | 评测与诊断 | [Two Speeds of Learning: A Representation-Readout Decomposition of Grokking and Double Descent](cards-0012.md#paper-153791) | 训练曲线异常先拆表示质量和读出头 |
+| 深度学习 | 图学习 | [UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization](cards-0012.md#paper-153347) | 组合优化以通用编码加局部边演化。 |
+| 深度学习 | 持续学习 | [UFO: A Unified Flow-Oriented Framework for Robust Continual Graph Learning](cards-0012.md#paper-155759) | 持续图学习同时检查遗忘和记住错标。 |
+| 多模态学习 | 检索增强 | [UGGRH: Unsupervised Generative Completion and Graph-attention Refinement for Incomplete Cross-modal Hashing](cards-0012.md#paper-154876) | 不完整模态哈希先补生成表征再图校正。 |
+| 计算机视觉 | 记忆机制 | [UGO: Unified Architecture for General Multi-Object Tracking by Segmentation](cards-0012.md#paper-152769) | 通用对象追踪分全局与实例级记忆。 |
+| 生成模型 | 知识蒸馏 | [UltraDiff:Transferring High-Fidelity Priors to Compressed Latent Spaces for High-resolution Image Generation](cards-0012.md#paper-150314) | 激进潜压缩先训高低保真联合老师，再部署低维学生。 |
+| 大语言模型 | 偏好优化 | [Ultra-DPO: Reimagining LLM Alignment as a Semi-Supervised Task](cards-0012.md#paper-156029) | 对齐将离线真偏好与在线代理标签分开加权。 |
+| 生成模型 | 知识蒸馏 | [Ultra Fast PDE Solving via Physics Guided Few-step Diffusion](cards-0012.md#paper-151853) | 少步物理生成蒸馏同时约束方程残差。 |
+| 模型效率与系统 | 推理加速 | [UltraFlash: Accelerating Megapixel Visual Synthesis](cards-0012.md#paper-154462) | 百万像素生成先排查高频 VAE 编解码。 |
+| 生成模型 | 视频建模 | [Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions](cards-0012.md#paper-153259) | 实时高清视频由低分辨生成和因果潜上采样协作。 |
+| 计算机视觉 | 三维视觉 | [UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction](cards-0012.md#paper-153643) | 输入切片数量变化时先映固定三维支撑。 |
+| 智能体与工具使用 | 不确定性估计 | [UMAS: System-Level Uncertainty Quantification for Multi-Agent LLM Systems](cards-0012.md#paper-148275) | 多代理估系统置信时衡量消息影响的可靠性。 |
+| 深度学习 | 表征学习 | [Umbilic Multinomial Logistic Regression](cards-0012.md#paper-150927) | 少样本分类头比较球面半径与超平面。 |
+| 深度学习 | 参数高效微调 | [U-MOF: Uncertainty-Guided Parameter-Efficient Multi-Objective Fine-Tuning for Long-Tailed Recognition](cards-0012.md#paper-150452) | 长尾专家适配按不确定性选目标并解梯度冲突。 |
+| 计算机视觉 | 三维视觉 | [U-MVP: Encode Locally, Decode Globally for Feed-Forward 3D Gaussian Splatting](cards-0012.md#paper-155292) | 多视图编码保局部，解码阶段再做跨视图几何。 |
+| 生成模型 | 流匹配 | [Unaligned Image Guided Denoising via Cross-modal Conditional Flow Matching](cards-0012.md#paper-148480) | 未配准条件去噪按关键步训练并用稀疏跨图传播。 |
+| 具身智能与机器人 | 优化算法 | [Unbiased First-Order Randomized Smoothing for Differentiable Simulation](cards-0012.md#paper-150375) | 可微仿真跨接触边界时补不连续项。 |
+| 多模态学习 | 注意力机制 | [Unbounded Streaming Text-To-Speech with Prefixed Sliding Window Attention](cards-0012.md#paper-149144) | 长流式语音保固定前缀并滑窗文本条件。 |
+| 计算机视觉 | 不确定性估计 | [Uncertainty as an Underconstrained Axis in Lossy Compression](cards-0012.md#paper-156038) | 感知压缩验不确定性的空间位置而非只有均值。 |
+| 计算机视觉 | 强化学习方法 | [Uncertainty-Aware Listwise Reinforcement Fine-Tuning for Fine-Grained Visual Classification](cards-0012.md#paper-154574) | 细粒度识别允许对易混候选列表给部分信用。 |
+| 机器学习基础与统计 | 损失函数 | [Uncertainty-Aware Probabilistic Constrained Clustering from Entangled Pairwise Supervision](cards-0012.md#paper-154307) | 成对聚类标注本身不确定时，预测关系概率而非硬约束。 |
+| 机器学习基础与统计 | 优化 | [Uncertainty Aware SURE Transfer Learning for Classification Problems](cards-0012.md#paper-149259) | 迁移多个分类来源时同时考虑来源估计误差和域间不一致。 |
+| 计算机视觉 | 评测与诊断 | [Uncertainty Estimation for Pretrained Medical Image Registration Models via Transformation Equivariance](cards-0012.md#paper-148713) | 冻结配准模型的置信度可由输入变换前后的结果不一致估计。 |
+| 强化学习 | 数据策略 | [Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback](cards-0012.md#paper-149046) | 稀缺奖励标签保存起来训练奖励模型，并按边际学习收益查询。 |
+| 大语言模型 | 评测与诊断 | [Uncertainty Quantification for Large Language Diffusion Models](cards-0012.md#paper-150791) | 从去噪中间态与重掩码轨迹提取置信度。 |
+| 多模态学习 | 评测与诊断 | [Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume](cards-0012.md#paper-152113) | 用内部跨模态表征的体积与不一致性估计不确定度。 |
+| 多模态学习 | 表征学习 | [Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models](cards-0012.md#paper-148612) | 从自然图文语义中线性隔离空间拓扑，再用单独的空间表示干预训练。 |
+| 大语言模型 | 评测与诊断 | [Uncovering Hidden Propensities in Language Models via Limited-Parameter Finetuning](cards-0012.md#paper-149167) | 模型审计可检查受限适配后隐藏倾向是否会显现。 |
+| 科学机器学习 | 表征学习 | [Uncovering the latent structure of interwoven population and temporal codes](cards-0012.md#paper-152608) | 神经群体分析同时保留放电速率和爆发时序。 |
+| 多模态学习 | 评测与诊断 | [Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift](cards-0012.md#paper-149596) | 视觉模型的安全诊断分开检查是否识别风险和是否执行正确防护。 |
+| 机器学习基础与统计 | 评测与诊断 | [Understanding and Mitigating Structural Forgetting in Fine-Tuned Time Series Foundation Models](cards-0012.md#paper-148494) | 微调预测模型后独立测试是否保留趋势和频率结构。 |
+| 图学习 | 评测与诊断 | [Understanding and Mitigating Under-Confidence in GNNs from the Final Layer](cards-0012.md#paper-148756) | 图分类置信度分解为类中心和节点级两种误差。 |
+| 机器学习基础与统计 | 理论与统计 | [Understanding axial attention in TSFMs through single location regression](cards-0012.md#paper-153180) | 推断时序注意力优化困难时检查逆温度日程。 |
+| 强化学习与决策 | 评测与诊断 | [Understanding Goal Generalisation in Sequential Reinforcement Learning](cards-0012.md#paper-150898) | 分析目标泛化用训练流程中的变量而非只看算法名 |
+| 大语言模型 | 模型与架构 | [Understanding Layer Patching in Model Size Interpolation](cards-0012.md#paper-152284) | 层级模型插值选层按输出 KL 而非仅固定顺序 |
+| 具身智能与机器人 | 模型与架构 | [Understanding Multimodal Failure in Action-Chunking Behavioral Cloning](cards-0012.md#paper-149297) | 生成动作块时检查不同模式之间的伪桥 |
+| 视觉与多模态 | 评测与诊断 | [Understanding Multi-View Transformers](cards-0012.md#paper-152537) | 多视重建用解析对应检验注意头作用 |
+| 强化学习与决策 | 评测与诊断 | [Understanding Reasoning from Pretraining to Post-Training: Chess as a Controlled Testbed](cards-0012.md#paper-152950) | RL 策略回归按难度测新发现与已有解增权 |
+| 智能体 | 评测与诊断 | [Understanding the Challenges in Iterative Generative Optimization with LLMs](cards-0012.md#paper-148898) | 迭代生成优化按领域单独调初始解和保留轨迹 |
+| 机器学习基础与统计 | 训练与优化 | [Understanding the Convergence of Direct Training of SNNs with Surrogate Gradients](cards-0012.md#paper-152782) | 脉冲网络诊断替代梯度时检查阈值附近的占比 |
+| 机器学习基础与统计 | 训练与优化 | [Understanding the Curse of Unrolling](cards-0012.md#paper-149289) | 元学习展开梯度可丢掉早期反传步骤 |

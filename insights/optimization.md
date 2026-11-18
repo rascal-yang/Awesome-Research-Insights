@@ -798,5 +798,11 @@
 - [Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models](../conferences/neurips-2026/cards-0012.md#paper-149653)
 - [Transferable SCF-Acceleration through Solver-Aligned Initialization Learning](../conferences/neurips-2026/cards-0012.md#paper-151820)
 - [Tree-Ensemble Repair through Constrained Optimization](../conferences/neurips-2026/cards-0012.md#paper-153244)
+- [TritonTune: LLM-Guided Multi-Agent Optimization of GPU Kernel Configurations](../conferences/neurips-2026/cards-0012.md#paper-156111)
+- [Truncated Riemannian (1+1)-ES for Black-Box Optimization with Intrinsic Dimension Guarantees](../conferences/neurips-2026/cards-0012.md#paper-153518)
+- [Trust Region Q Adjoint Matching](../conferences/neurips-2026/cards-0012.md#paper-149711)
+- [Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning](../conferences/neurips-2026/cards-0012.md#paper-151603)
+- [Unbiased First-Order Randomized Smoothing for Differentiable Simulation](../conferences/neurips-2026/cards-0012.md#paper-150375)
+- [Uncertainty Aware SURE Transfer Learning for Classification Problems](../conferences/neurips-2026/cards-0012.md#paper-149259)
 
 <!-- conference-classification:end -->

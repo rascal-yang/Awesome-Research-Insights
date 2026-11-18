@@ -1193,5 +1193,14 @@
 - [Training-Free Open World Object Detection](../conferences/neurips-2026/cards-0012.md#paper-153266)
 - [Transferring Visual Explainability from Self-Explaining to Prediction-Only Vision Transformers via Task Arithmetic](../conferences/neurips-2026/cards-0012.md#paper-153562)
 - [TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision](../conferences/neurips-2026/cards-0012.md#paper-148753)
+- [TTB: Test-time MLP Baking for Efficient Rendering of Decoder-only View Synthesis Models](../conferences/neurips-2026/cards-0012.md#paper-154935)
+- [TTVidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining](../conferences/neurips-2026/cards-0012.md#paper-154339)
+- [Tunable Latent Generative Priors for Compressed Sensing and Inverse Problems](../conferences/neurips-2026/cards-0012.md#paper-149979)
+- [UGO: Unified Architecture for General Multi-Object Tracking by Segmentation](../conferences/neurips-2026/cards-0012.md#paper-152769)
+- [UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction](../conferences/neurips-2026/cards-0012.md#paper-153643)
+- [U-MVP: Encode Locally, Decode Globally for Feed-Forward 3D Gaussian Splatting](../conferences/neurips-2026/cards-0012.md#paper-155292)
+- [Uncertainty as an Underconstrained Axis in Lossy Compression](../conferences/neurips-2026/cards-0012.md#paper-156038)
+- [Uncertainty-Aware Listwise Reinforcement Fine-Tuning for Fine-Grained Visual Classification](../conferences/neurips-2026/cards-0012.md#paper-154574)
+- [Uncertainty Estimation for Pretrained Medical Image Registration Models via Transformation Equivariance](../conferences/neurips-2026/cards-0012.md#paper-148713)
 
 <!-- conference-classification:end -->

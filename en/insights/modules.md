@@ -476,5 +476,7 @@ Reusable components and local changes to model inputs or connections.
 - [TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents](../../conferences/neurips-2026/cards-0012.md#paper-155885)
 - [Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement](../../conferences/neurips-2026/cards-0012.md#paper-154590)
 - [TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG](../../conferences/neurips-2026/cards-0012.md#paper-155841)
+- [UGO: Unified Architecture for General Multi-Object Tracking by Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-152769)
+- [Unbounded Streaming Text-To-Speech with Prefixed Sliding Window Attention](../../conferences/neurips-2026/cards-0012.md#paper-149144)
 
 <!-- conference-classification:end -->

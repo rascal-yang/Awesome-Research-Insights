@@ -1277,5 +1277,13 @@
 - [Tree Training: Efficient LLM Training on Tree-Structured Trajectories](../conferences/neurips-2026/cards-0012.md#paper-153291)
 - [TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks](../conferences/neurips-2026/cards-0012.md#paper-156097)
 - [Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA](../conferences/neurips-2026/cards-0012.md#paper-148902)
+- [Trivialized Generative Models on Lie Groups](../conferences/neurips-2026/cards-0012.md#paper-152126)
+- [Trust Guided Decision Transformer](../conferences/neurips-2026/cards-0012.md#paper-151852)
+- [TwinPrune: Density-Aware Two-Phase Token Pruning for Vision-Language Models](../conferences/neurips-2026/cards-0012.md#paper-151130)
+- [UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization](../conferences/neurips-2026/cards-0012.md#paper-153347)
+- [Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions](../conferences/neurips-2026/cards-0012.md#paper-153259)
+- [UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction](../conferences/neurips-2026/cards-0012.md#paper-153643)
+- [U-MVP: Encode Locally, Decode Globally for Feed-Forward 3D Gaussian Splatting](../conferences/neurips-2026/cards-0012.md#paper-155292)
+- [Unaligned Image Guided Denoising via Cross-modal Conditional Flow Matching](../conferences/neurips-2026/cards-0012.md#paper-148480)
 
 <!-- conference-classification:end -->

@@ -775,5 +775,8 @@
 - [Transferability for General Reasoning: An Automated Curriculum for Multi-Domain LLM RL](../conferences/neurips-2026/cards-0012.md#paper-153605)
 - [Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning](../conferences/neurips-2026/cards-0012.md#paper-154776)
 - [Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-150271)
+- [TrustFlow: Adaptive Trust Calibration for Language Model Guided Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-149919)
+- [Ultra-DPO: Reimagining LLM Alignment as a Semi-Supervised Task](../conferences/neurips-2026/cards-0012.md#paper-156029)
+- [Uncertainty-Aware Listwise Reinforcement Fine-Tuning for Fine-Grained Visual Classification](../conferences/neurips-2026/cards-0012.md#paper-154574)
 
 <!-- conference-classification:end -->

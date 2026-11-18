@@ -640,5 +640,11 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse](../../conferences/neurips-2026/cards-0012.md#paper-151282)
 - [Traversal-Invariant Positional Encoding for Serialized Graphs](../../conferences/neurips-2026/cards-0012.md#paper-150855)
 - [TraXion: Rethinking Pre-training Frameworks for Mobility and Beyond](../../conferences/neurips-2026/cards-0012.md#paper-152716)
+- [TSFM Meets LLM: Context as Covariate](../../conferences/neurips-2026/cards-0012.md#paper-149079)
+- [TStruct: Learning Shared Temporal Structures for Long-Term Time-Series Forecasting](../../conferences/neurips-2026/cards-0012.md#paper-149443)
+- [Tunable Latent Generative Priors for Compressed Sensing and Inverse Problems](../../conferences/neurips-2026/cards-0012.md#paper-149979)
+- [Umbilic Multinomial Logistic Regression](../../conferences/neurips-2026/cards-0012.md#paper-150927)
+- [Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models](../../conferences/neurips-2026/cards-0012.md#paper-148612)
+- [Uncovering the latent structure of interwoven population and temporal codes](../../conferences/neurips-2026/cards-0012.md#paper-152608)
 
 <!-- conference-classification:end -->

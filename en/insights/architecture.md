@@ -615,5 +615,11 @@ Model-wide design and information flow.
 - [Towards Complementary Keypoint Detection via Mixture of Detectors](../../conferences/neurips-2026/cards-0012.md#paper-154279)
 - [Transolver-GMsFEM: A Hybrid Framework for High-Contrast Multiscale PDEs on Irregular Grids](../../conferences/neurips-2026/cards-0012.md#paper-155288)
 - [Tree Rotary Positional Encoding for Extreme Length Extrapolation from Scratch](../../conferences/neurips-2026/cards-0012.md#paper-155984)
+- [TrunkFish: Making Model Width Incrementally Refinable](../../conferences/neurips-2026/cards-0012.md#paper-148418)
+- [TS-ICL: A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning](../../conferences/neurips-2026/cards-0012.md#paper-148825)
+- [Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](../../conferences/neurips-2026/cards-0012.md#paper-154633)
+- [Two Layers of Attention Stability: A Koopman-Operator Analysis of Linear and Softmax Attention](../../conferences/neurips-2026/cards-0012.md#paper-153140)
+- [Understanding Layer Patching in Model Size Interpolation](../../conferences/neurips-2026/cards-0012.md#paper-152284)
+- [Understanding Multimodal Failure in Action-Chunking Behavioral Cloning](../../conferences/neurips-2026/cards-0012.md#paper-149297)
 
 <!-- conference-classification:end -->

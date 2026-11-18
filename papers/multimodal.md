@@ -1049,5 +1049,15 @@
 - [Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training](../conferences/neurips-2026/cards-0012.md#paper-155049)
 - [Transfer Entropy as a Measure of Information Flow in VLMs and LLMs](../conferences/neurips-2026/cards-0012.md#paper-151650)
 - [TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-139448)
+- [Trust What Matters: Language-Conditioned Evidence Routing for Video-IMU Action Question Answering](../conferences/neurips-2026/cards-0012.md#paper-152130)
+- [Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](../conferences/neurips-2026/cards-0012.md#paper-154633)
+- [TwinPrune: Density-Aware Two-Phase Token Pruning for Vision-Language Models](../conferences/neurips-2026/cards-0012.md#paper-151130)
+- [Two Drifts, One Principle: Conflict-Aware Spectral Consolidation for Multimodal Continual Learning](../conferences/neurips-2026/cards-0012.md#paper-151270)
+- [UGGRH: Unsupervised Generative Completion and Graph-attention Refinement for Incomplete Cross-modal Hashing](../conferences/neurips-2026/cards-0012.md#paper-154876)
+- [Unbounded Streaming Text-To-Speech with Prefixed Sliding Window Attention](../conferences/neurips-2026/cards-0012.md#paper-149144)
+- [Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume](../conferences/neurips-2026/cards-0012.md#paper-152113)
+- [Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models](../conferences/neurips-2026/cards-0012.md#paper-148612)
+- [Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift](../conferences/neurips-2026/cards-0012.md#paper-149596)
+- [Understanding Multi-View Transformers](../conferences/neurips-2026/cards-0012.md#paper-152537)
 
 <!-- conference-classification:end -->

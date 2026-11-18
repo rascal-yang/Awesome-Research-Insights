@@ -896,5 +896,9 @@ Robot perception, policy learning, planning, and control.
 - [Trading Sensing for Structure: Sparse IMU-EMG Fingertip Force Estimation via Neuro-inspired Structured Modeling](../../conferences/neurips-2026/cards-0012.md#paper-155761)
 - [Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA](../../conferences/neurips-2026/cards-0012.md#paper-148902)
 - [Trimming the Long-Tail of Visual World Modeling Evaluation](../../conferences/neurips-2026/cards-0012.md#paper-139435)
+- [Trustworthy and Efficient Map-free LiDAR Localization via Scan-Pose Alignment and Flow Matching](../../conferences/neurips-2026/cards-0012.md#paper-151724)
+- [TwinFlux: One-Step Discrete-Continuous Flow for End-to-End Autonomous Driving](../../conferences/neurips-2026/cards-0012.md#paper-155650)
+- [Unbiased First-Order Randomized Smoothing for Differentiable Simulation](../../conferences/neurips-2026/cards-0012.md#paper-150375)
+- [Understanding Multimodal Failure in Action-Chunking Behavioral Cloning](../../conferences/neurips-2026/cards-0012.md#paper-149297)
 
 <!-- conference-classification:end -->

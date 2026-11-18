@@ -418,5 +418,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Transfer Learning Through Conditional Quantile Matching](../../conferences/neurips-2026/cards-0012.md#paper-152993)
 - [TReDS: Trajectory-Grounded Requirement-Capability Modeling for Training Distribution Shaping in Tool-Interactive Tasks](../../conferences/neurips-2026/cards-0012.md#paper-155240)
 - [TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision](../../conferences/neurips-2026/cards-0012.md#paper-148753)
+- [UGGRH: Unsupervised Generative Completion and Graph-attention Refinement for Incomplete Cross-modal Hashing](../../conferences/neurips-2026/cards-0012.md#paper-154876)
+- [Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback](../../conferences/neurips-2026/cards-0012.md#paper-149046)
 
 <!-- conference-classification:end -->

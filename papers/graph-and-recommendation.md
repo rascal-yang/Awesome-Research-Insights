@@ -349,5 +349,6 @@
 - [Test-Time Graph Anomaly Detection via Shifted Augmentation with Dynamic Objective Scheduling](../conferences/neurips-2026/cards-0011.md#paper-153400)
 - [Trapping Attacker in Dilemma: Examining Internal Correlations and External Influences of Trigger for Defending GNN Backdoors](../conferences/neurips-2026/cards-0012.md#paper-155149)
 - [Traversal-Invariant Positional Encoding for Serialized Graphs](../conferences/neurips-2026/cards-0012.md#paper-150855)
+- [Understanding and Mitigating Under-Confidence in GNNs from the Final Layer](../conferences/neurips-2026/cards-0012.md#paper-148756)
 
 <!-- conference-classification:end -->

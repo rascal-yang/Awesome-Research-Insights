@@ -726,5 +726,13 @@ Learning from interaction, feedback, and offline experience.
 - [Training Generalizable Collaborative Agents via Strategic Risk Aversion](../../conferences/neurips-2026/cards-0012.md#paper-151685)
 - [TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment](../../conferences/neurips-2026/cards-0012.md#paper-151355)
 - [Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement](../../conferences/neurips-2026/cards-0012.md#paper-154590)
+- [TriSearch: Learning to Optimize Triangulations via Bistellar Flips](../../conferences/neurips-2026/cards-0012.md#paper-148495)
+- [TrustFlow: Adaptive Trust Calibration for Language Model Guided Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-149919)
+- [Trust Guided Decision Transformer](../../conferences/neurips-2026/cards-0012.md#paper-151852)
+- [Trust Region Q Adjoint Matching](../../conferences/neurips-2026/cards-0012.md#paper-149711)
+- [Tuning the Tuner](../../conferences/neurips-2026/cards-0012.md#paper-153184)
+- [Uncertainty-Guided Reward Labeling for Reinforcement Learning under Limited Feedback](../../conferences/neurips-2026/cards-0012.md#paper-149046)
+- [Understanding Goal Generalisation in Sequential Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-150898)
+- [Understanding Reasoning from Pretraining to Post-Training: Chess as a Controlled Testbed](../../conferences/neurips-2026/cards-0012.md#paper-152950)
 
 <!-- conference-classification:end -->

@@ -1481,5 +1481,13 @@
 - [Transformers Provably Learn Graph Search: Training Dynamics and the Exponential Power of Depth](../conferences/neurips-2026/cards-0012.md#paper-155595)
 - [TransMem: Transition-Aware Retrieval for Evolving Personal Memory](../conferences/neurips-2026/cards-0012.md#paper-149447)
 - [TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding](../conferences/neurips-2026/cards-0012.md#paper-151038)
+- [TriSearch: Learning to Optimize Triangulations via Bistellar Flips](../conferences/neurips-2026/cards-0012.md#paper-148495)
+- [TriSpec: Ternary Speculative Decoding via Lightweight Proxy Verification](../conferences/neurips-2026/cards-0012.md#paper-152166)
+- [TropNNC: Structured Neural Network Compression Using Tropical Geometry](../conferences/neurips-2026/cards-0012.md#paper-156769)
+- [Trust What Matters: Language-Conditioned Evidence Routing for Video-IMU Action Question Answering](../conferences/neurips-2026/cards-0012.md#paper-152130)
+- [TTB: Test-time MLP Baking for Efficient Rendering of Decoder-only View Synthesis Models](../conferences/neurips-2026/cards-0012.md#paper-154935)
+- [TwinFlux: One-Step Discrete-Continuous Flow for End-to-End Autonomous Driving](../conferences/neurips-2026/cards-0012.md#paper-155650)
+- [Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion](../conferences/neurips-2026/cards-0012.md#paper-149214)
+- [UltraFlash: Accelerating Megapixel Visual Synthesis](../conferences/neurips-2026/cards-0012.md#paper-154462)
 
 <!-- conference-classification:end -->
