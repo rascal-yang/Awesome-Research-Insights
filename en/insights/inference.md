@@ -346,6 +346,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](../../conferences/icml-2026/cards/5201-5300.md#xiong26q-inference) · 中文
 - [Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26r-inference) · 中文
 - [Antidistillation Fingerprinting](../../conferences/icml-2026/cards/5201-5300.md#xu26y-inference) · 中文
+- [Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](../../conferences/icml-2026/cards/5201-5300.md#xu26ah-inference) · 中文
+- [DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching](../../conferences/icml-2026/cards/5201-5300.md#xu26al-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -469,6 +471,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Boost the Identity-Preserving Embedding for Consistent Visual Generation](../../conferences/icml-2026/cards/5101-5200.md#xia26i-inference) · 中文
 - [AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion](../../conferences/icml-2026/cards/5101-5200.md#xie26ab-inference) · 中文
 - [Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](../../conferences/icml-2026/cards/5201-5300.md#xu26m-inference) · 中文
+- [Motion-Aware Caching for Efficient Autoregressive Video Generation](../../conferences/icml-2026/cards/5201-5300.md#xu26an-inference) · 中文
 
 <a id="by-nlp"></a>
 

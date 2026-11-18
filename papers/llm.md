@@ -113,6 +113,7 @@
 - <a id="wang26jt-modules"></a>[Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jt)
 - <a id="wang26lt-modules"></a>[NaRA: Noise-Aware LoRA for Parameter-Efficient Fine-Tuning of Diffusion LLMs](../conferences/icml-2026/cards/4901-5000.md#paper-wang26lt)
 - <a id="wong26b-modules"></a>[A3: an Analytical Low-Rank Approximation Framework for Attention](../conferences/icml-2026/cards/4901-5000.md#paper-wong26b)
+- <a id="xu26ae-modules"></a>[Low Kruskal-Rank Adaptation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ae)
 
 <a id="by-loss-functions"></a>
 
@@ -265,6 +266,7 @@
 - <a id="xiao26t-optimization"></a>[Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26t)
 - <a id="xie26r-optimization"></a>[Controlled LLM Training on Spectral Sphere](../conferences/icml-2026/cards/5101-5200.md#paper-xie26r)
 - <a id="xiong26k-optimization"></a>[Principled SVD-based Delta Compression via Quantization Error Minimization](../conferences/icml-2026/cards/5101-5200.md#paper-xiong26k)
+- <a id="xu26am-optimization"></a>[Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training](../conferences/icml-2026/cards/5201-5300.md#paper-xu26am)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -594,6 +596,7 @@
 - <a id="xiong26p-training-strategies"></a>[Token-Level LLM Collaboration via FusionRoute](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26p)
 - <a id="xu26h-training-strategies"></a>[DLLMQuant: A Post-Training Quantization Framework Tailored for Diffusion-Based Large Language Models](../conferences/icml-2026/cards/5201-5300.md#paper-xu26h)
 - <a id="xu26t-training-strategies"></a>[Grouter: Decoupling Routing from Representation for Accelerated MoE Training](../conferences/icml-2026/cards/5201-5300.md#paper-xu26t)
+- <a id="xu26ai-training-strategies"></a>[Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ai)
 
 <a id="by-data-strategies"></a>
 
@@ -1018,6 +1021,8 @@
 - <a id="xiong26q-inference"></a>[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26q)
 - <a id="xu26r-inference"></a>[Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26r)
 - <a id="xu26y-inference"></a>[Antidistillation Fingerprinting](../conferences/icml-2026/cards/5201-5300.md#paper-xu26y)
+- <a id="xu26ah-inference"></a>[Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ah)
+- <a id="xu26al-inference"></a>[DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching](../conferences/icml-2026/cards/5201-5300.md#paper-xu26al)
 
 <a id="by-representation-learning"></a>
 
@@ -1449,4 +1454,6 @@
 - <a id="wu26au-theory-statistics"></a>[$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](../conferences/icml-2026/cards/5001-5100.md#paper-wu26au)
 - <a id="wu26bl-theory-statistics"></a>[When Data Is Scarce: Scaling Sparse Language Models with Repeated Training](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bl)
 - <a id="wu26bz-theory-statistics"></a>[A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bz)
+- <a id="xu26ao-theory-statistics"></a>[Formalizing Learning from Language Feedback with Provable Guarantees](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ao)
+- <a id="xu26ar-theory-statistics"></a>[A Formal Comparison Between Chain of Thought and Latent Thought](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ar)
 <!-- classification:end -->

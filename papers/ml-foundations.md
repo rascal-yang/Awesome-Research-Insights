@@ -448,6 +448,7 @@
 - <a id="wu26bb-optimization"></a>[Score Correction for Generative Models with Probabilistic Constraints](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bb)
 - <a id="xiao26i-optimization"></a>[Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26i)
 - <a id="xin26b-optimization"></a>[FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xin26b)
+- <a id="xu26as-optimization"></a>[Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](../conferences/icml-2026/cards/5201-5300.md#paper-xu26as)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -575,6 +576,7 @@
 - <a id="wang26ft-data-strategies"></a>[On the Power of Source Screening for Learning Shared Feature Extractors](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ft)
 - <a id="wang26fw-data-strategies"></a>[Patterning: The Dual of Interpretability](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fw)
 - <a id="wu26ca-data-strategies"></a>[CHESS: Chebyshev Spectral Synthesis for Trajectory Condensation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ca)
+- <a id="xu26ab-data-strategies"></a>[Taming the Recent-Data Bias: Towards Robust Time Series Forecasting with Global Context](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ab)
 
 <a id="by-inference"></a>
 
@@ -700,6 +702,7 @@
 - <a id="winter26a-representation-learning"></a>[Learning Compressed Shape-Aware Molecular Representations for Virtual Screening](../conferences/icml-2026/cards/4901-5000.md#paper-winter26a)
 - <a id="wustl26a-representation-learning"></a>[Q-Tab: Quantized Tabular Data Generator](../conferences/icml-2026/cards/5001-5100.md#paper-wustl26a)
 - <a id="xiong26e-representation-learning"></a>[NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data](../conferences/icml-2026/cards/5101-5200.md#paper-xiong26e)
+- <a id="xu26ap-representation-learning"></a>[Identifying dependent components from multi-domain linear mixtures](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ap)
 
 <a id="by-evaluation"></a>
 
@@ -1182,4 +1185,5 @@
 - <a id="xie26ad-theory-statistics"></a>[Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer](../conferences/icml-2026/cards/5101-5200.md#paper-xie26ad)
 - <a id="xu26b-theory-statistics"></a>[Credibility-Aware Weighting Federated Causal Discovery for Time Series](../conferences/icml-2026/cards/5201-5300.md#paper-xu26b)
 - <a id="xu26v-theory-statistics"></a>[Robust Contextual Optimization with Missing Covariates](../conferences/icml-2026/cards/5201-5300.md#paper-xu26v)
+- <a id="xu26aq-theory-statistics"></a>[Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization](../conferences/icml-2026/cards/5201-5300.md#paper-xu26aq)
 <!-- classification:end -->

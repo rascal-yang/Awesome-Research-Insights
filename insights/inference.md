@@ -346,6 +346,8 @@
 - [边界预测驱动的层级稀疏prefill](../conferences/icml-2026/cards/5201-5300.md#xiong26q-inference) · Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference
 - [用熵变点选择早停与投票权](../conferences/icml-2026/cards/5201-5300.md#xu26r-inference) · Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning
 - [按学生学习方向设计蒸馏指纹](../conferences/icml-2026/cards/5201-5300.md#xu26y-inference) · Antidistillation Fingerprinting
+- [冻结去噪器上的解掩码顺序学习](../conferences/icml-2026/cards/5201-5300.md#xu26ah-inference) · Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models
+- [决策token分支与先完成选择](../conferences/icml-2026/cards/5201-5300.md#xu26al-inference) · DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching
 
 <a id="by-computer-vision"></a>
 
@@ -469,6 +471,7 @@
 - [跨提示谱增强与同值多键attention](../conferences/icml-2026/cards/5101-5200.md#xia26i-inference) · Boost the Identity-Preserving Embedding for Consistent Visual Generation
 - [掩码势场控制注意力几何](../conferences/icml-2026/cards/5101-5200.md#xie26ab-inference) · AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion
 - [以输出通道传播可验证水印](../conferences/icml-2026/cards/5201-5300.md#xu26m-inference) · Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks
+- [以帧差分配token缓存更新](../conferences/icml-2026/cards/5201-5300.md#xu26an-inference) · Motion-Aware Caching for Efficient Autoregressive Video Generation
 
 <a id="by-nlp"></a>
 

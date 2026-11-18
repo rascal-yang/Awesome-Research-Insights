@@ -107,6 +107,7 @@
 - [稀疏重生参数的局部Adam暖启动](../conferences/icml-2026/cards/5101-5200.md#xiao26t-optimization) · Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling
 - [在光谱球切空间做矩阵更新](../conferences/icml-2026/cards/5101-5200.md#xie26r-optimization) · Controlled LLM Training on Spectral Sphere
 - [SVD因子量化的校准误差预算分配](../conferences/icml-2026/cards/5101-5200.md#xiong26k-optimization) · Principled SVD-based Delta Compression via Quantization Error Minimization
+- [均值配分近似的隐式混合正则](../conferences/icml-2026/cards/5201-5300.md#xu26am-optimization) · Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training
 
 <a id="by-computer-vision"></a>
 
@@ -439,6 +440,7 @@
 - [随机变换边际的双对偶score修正](../conferences/icml-2026/cards/5001-5100.md#wu26bb-optimization) · Score Correction for Generative Models with Probabilistic Constraints
 - [在模拟训练中跟踪对称点](../conferences/icml-2026/cards/5101-5200.md#xiao26i-optimization) · Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training
 - [最大密度间隔选择联邦邻域](../conferences/icml-2026/cards/5101-5200.md#xin26b-optimization) · FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning
+- [随机方向差分驱动的步长阻尼](../conferences/icml-2026/cards/5201-5300.md#xu26as-optimization) · Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

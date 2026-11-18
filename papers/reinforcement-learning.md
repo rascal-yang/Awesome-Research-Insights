@@ -23,6 +23,7 @@
 - <a id="marzo26a-architecture"></a>[This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic](../conferences/icml-2026/cards/3201-3300.md#paper-marzo26a)
 - <a id="silva26a-architecture"></a>[Path-dependent Discrete Amortized Inference](../conferences/icml-2026/cards/4101-4200.md#paper-silva26a)
 - <a id="wibault26a-architecture"></a>[Recurrent Structural Policy Gradient for Partially Observable Mean Field Games](../conferences/icml-2026/cards/4901-5000.md#paper-wibault26a)
+- <a id="xu26ak-architecture"></a>[Self-supervised Hierarchical Visual Reasoning with World Model](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ak)
 
 <a id="by-modules"></a>
 

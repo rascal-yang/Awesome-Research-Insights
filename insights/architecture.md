@@ -155,6 +155,7 @@
 - [以状态原型解释连续控制策略](../conferences/icml-2026/cards/3201-3300.md#marzo26a-architecture) · This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic
 - [用路径状态缓解离散采样策略的表征混叠](../conferences/icml-2026/cards/4101-4200.md#silva26a-architecture) · Path-dependent Discrete Amortized Inference
 - [公共历史共享的结构策略梯度](../conferences/icml-2026/cards/4901-5000.md#wibault26a-architecture) · Recurrent Structural Policy Gradient for Partially Observable Mean Field Games
+- [重建残差逐层上送的世界模型](../conferences/icml-2026/cards/5201-5300.md#xu26ak-architecture) · Self-supervised Hierarchical Visual Reasoning with World Model
 
 <a id="by-robotics"></a>
 

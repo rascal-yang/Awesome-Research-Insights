@@ -73,6 +73,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](../../conferences/icml-2026/cards/5001-5100.md#wu26au-theory-statistics) · 中文
 - [When Data Is Scarce: Scaling Sparse Language Models with Repeated Training](../../conferences/icml-2026/cards/5001-5100.md#wu26bl-theory-statistics) · 中文
 - [A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills](../../conferences/icml-2026/cards/5001-5100.md#wu26bz-theory-statistics) · 中文
+- [Formalizing Learning from Language Feedback with Provable Guarantees](../../conferences/icml-2026/cards/5201-5300.md#xu26ao-theory-statistics) · 中文
+- [A Formal Comparison Between Chain of Thought and Latent Thought](../../conferences/icml-2026/cards/5201-5300.md#xu26ar-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -607,6 +609,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer](../../conferences/icml-2026/cards/5101-5200.md#xie26ad-theory-statistics) · 中文
 - [Credibility-Aware Weighting Federated Causal Discovery for Time Series](../../conferences/icml-2026/cards/5201-5300.md#xu26b-theory-statistics) · 中文
 - [Robust Contextual Optimization with Missing Covariates](../../conferences/icml-2026/cards/5201-5300.md#xu26v-theory-statistics) · 中文
+- [Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26aq-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

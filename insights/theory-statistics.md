@@ -73,6 +73,8 @@
 - [f正则最优策略的敏感度采样](../conferences/icml-2026/cards/5001-5100.md#wu26au-theory-statistics) · $f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses
 - [重复数据下联合选择稀疏率](../conferences/icml-2026/cards/5001-5100.md#wu26bl-theory-statistics) · When Data Is Scarce: Scaling Sparse Language Models with Repeated Training
 - [有限容量防御的感知反馈博弈](../conferences/icml-2026/cards/5001-5100.md#wu26bz-theory-statistics) · A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills
+- [反馈一致假设集的探索与利用](../conferences/icml-2026/cards/5201-5300.md#xu26ao-theory-statistics) · Formalizing Learning from Language Feedback with Provable Guarantees
+- [潜在循环的并行深度与随机CoT计数](../conferences/icml-2026/cards/5201-5300.md#xu26ar-theory-statistics) · A Formal Comparison Between Chain of Thought and Latent Thought
 
 <a id="by-computer-vision"></a>
 
@@ -607,6 +609,7 @@
 - [折扣FTRL的动态遗憾转化](../conferences/icml-2026/cards/5101-5200.md#xie26ad-theory-statistics) · Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer
 - [跨窗口边可信度的联邦聚合](../conferences/icml-2026/cards/5201-5300.md#xu26b-theory-statistics) · Credibility-Aware Weighting Federated Causal Discovery for Time Series
 - [在缺失机制一致集合上稳健决策](../conferences/icml-2026/cards/5201-5300.md#xu26v-theory-statistics) · Robust Contextual Optimization with Missing Covariates
+- [受限子集效应的后选择置信界](../conferences/icml-2026/cards/5201-5300.md#xu26aq-theory-statistics) · Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -235,6 +235,7 @@ Data selection, annotation, augmentation, and sampling.
 - [On the Power of Source Screening for Learning Shared Feature Extractors](../../conferences/icml-2026/cards/4701-4800.md#wang26ft-data-strategies) · 中文
 - [Patterning: The Dual of Interpretability](../../conferences/icml-2026/cards/4701-4800.md#wang26fw-data-strategies) · 中文
 - [CHESS: Chebyshev Spectral Synthesis for Trajectory Condensation](../../conferences/icml-2026/cards/5001-5100.md#wu26ca-data-strategies) · 中文
+- [Taming the Recent-Data Bias: Towards Robust Time Series Forecasting with Global Context](../../conferences/icml-2026/cards/5201-5300.md#xu26ab-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

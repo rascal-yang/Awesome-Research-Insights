@@ -107,6 +107,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling](../../conferences/icml-2026/cards/5101-5200.md#xiao26t-optimization) · 中文
 - [Controlled LLM Training on Spectral Sphere](../../conferences/icml-2026/cards/5101-5200.md#xie26r-optimization) · 中文
 - [Principled SVD-based Delta Compression via Quantization Error Minimization](../../conferences/icml-2026/cards/5101-5200.md#xiong26k-optimization) · 中文
+- [Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#xu26am-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -439,6 +440,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Score Correction for Generative Models with Probabilistic Constraints](../../conferences/icml-2026/cards/5001-5100.md#wu26bb-optimization) · 中文
 - [Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](../../conferences/icml-2026/cards/5101-5200.md#xiao26i-optimization) · 中文
 - [FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#xin26b-optimization) · 中文
+- [Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26as-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -472,6 +472,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xia26i-inference"></a>[Boost the Identity-Preserving Embedding for Consistent Visual Generation](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26i)
 - <a id="xie26ab-inference"></a>[AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26ab)
 - <a id="xu26m-inference"></a>[Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26m)
+- <a id="xu26an-inference"></a>[Motion-Aware Caching for Efficient Autoregressive Video Generation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26an)
 
 <a id="by-representation-learning"></a>
 

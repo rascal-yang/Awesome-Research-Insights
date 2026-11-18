@@ -5230,26 +5230,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5229	xu26w	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：多模态推理可每步重选视觉KV子集，并用anchor层视觉attention mass预测当步保留量，避免prefill一次剪掉后续才需要的证据。；可用性/独立性边界：低mass可能仍有关键少数token，τ改变预算与分布；预估mass需读视觉keys，前层和完整KV存储成本不可忽略。5%每步保留不是5%总FLOPs/显存，trace缩短不自动等端到端加速。；初筛整理，原文与先例尚未统一核查。[原文第1页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26w/xu26w.pdf#page=1)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26w/xu26w.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26w/xu26w.pdf#page=5)	scored
 5230	xu26x	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：视觉推理训练可同时用原图、遮相关证据须Unknown、遮无关区域仍答原答案三类实例，区分真证据依赖与见mask就拒答的shortcut。；可用性/独立性边界：question-mentioned regions不一定充分/必要，相关区域外仍可能有答案，Unknown标签可错。遮挡artifact与bbox reward可被学shortcut；human一致性不直接证明内部因果依赖，训练/评测原数据重叠待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26x/xu26x.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26x/xu26x.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26x/xu26x.pdf#page=6)	scored
 5231	xu26y	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：要检测teacher输出被用于蒸馏，可按proxy学生对green-list概率的敏感方向调制teacher采样，而非对所有green token给同一偏置。；可用性/独立性边界：proxy只近似真实student学习动态，温度/finetune和后处理可影响传播。统计式exp(−2n(g−γ)²)需独立/有界样本等条件，context/hash依赖与one-sided方向待核；小p不证明唯一来源或法律归属。；初筛整理，原文与先例尚未统一核查。[原文第1页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26y/xu26y.pdf#page=1)；[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26y/xu26y.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xu26y/xu26y.pdf#page=4)	scored
-5232	xu26z							待原文复核评分	pending
-5233	xu26aa							待原文复核评分	pending
-5234	xu26ab							待原文复核评分	pending
-5235	xu26ac							待原文复核评分	pending
-5236	xu26ad							待原文复核评分	pending
-5237	xu26ae							待原文复核评分	pending
-5238	xu26af							待原文复核评分	pending
-5239	xu26ag							待原文复核评分	pending
-5240	xu26ah							待原文复核评分	pending
-5241	xu26ai							待原文复核评分	pending
-5242	xu26aj							待原文复核评分	pending
-5243	xu26ak							待原文复核评分	pending
-5244	xu26al							待原文复核评分	pending
-5245	xu26am							待原文复核评分	pending
-5246	xu26an							待原文复核评分	pending
-5247	xu26ao							待原文复核评分	pending
-5248	xu26ap							待原文复核评分	pending
-5249	xu26aq							待原文复核评分	pending
-5250	xu26ar							待原文复核评分	pending
-5251	xu26as							待原文复核评分	pending
+5232	xu26z							初筛，原文与先例核查待补：第4–5/7页主要是CLIP图文拼接、cross-attention DiT/DDIM与空间/时间位置编码的脑信号生成应用；现有材料未识别独立通用新操作，跨主体退化不自动形成可复用新机制。不按神经领域名称排除。	rule-excluded
+5233	xu26aa							初筛，原文与先例核查待补：第4–5/7页按move/contact两阶段硬路由独立专家，MLLM/速度辅助生成标签，标准flow目标；当前是成熟行为分段/相位专家在VLA的配置，未识别超出换骨干/新数据的独立操作或隔离选择规律。	rule-excluded
+5234	xu26ab	3	4	3	3	66		初筛，原文与先例核查待补：基函数对齐的历史随机采样有明确操作或条件规律，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5235	xu26ac							初筛，原文与先例核查待补：第4–5/7页分解趋势/季节，趋势降采样—预测—插值，季节周期加权复制；当前未识别超出成熟多分辨率趋势和周期外推的新操作。整体速度/误差提升及新TSFM包装不代替独立增量，带宽假设也不能保证任意趋势无信息损失。	rule-excluded
+5236	xu26ad							初筛，原文与先例核查待补：第4–5/7页把标准GoF的p值接入既有LORD在线FDR阈值；当前未识别新的校准统计量、依赖处理或独立选择规律，仅把成熟多重检验用于新水印流不保留。固定时刻FDR也不能无条件等同任意停止时刻。	rule-excluded
+5237	xu26ae	3	4	3	3	66		初筛，原文与先例核查待补：Khatri-Rao结构的参数高效更新有明确操作或条件规律，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5238	xu26af							初筛，原文与先例核查待补：第4页闭式解是FedAvg聚合与前一任务终点模型的加权平均，即经典二次锚定；第5页条件界不自动保证旧任务单调改善。现有材料未识别超出成熟参数锚定在FDIL迁移的独立新操作/控制规律。	rule-excluded
+5239	xu26ag							初筛，原文与先例核查待补：第4–5/7页多任务/多treatment uplift估计、单调限制、决策剪枝和低维拉格朗日分配属成熟构件的通知业务组合；当前未识别独立可复用神经目标或超出业务约束的新一般选择规律，不以A/B线上规模提升保留。	rule-excluded
+5240	xu26ah	3	4	4	4	73		初筛，原文与先例核查待补：冻结去噪器上的解掩码顺序学习有明确操作或条件规律，新增量暂3，复用4，使用性4，独特性4；缓存第3、4、5、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5241	xu26ai	3	4	4	3	70		初筛，原文与先例核查待补：先更新裁判再更新rubric的交替训练有明确操作或条件规律，新增量暂3，复用4，使用性4，独特性3；缓存第3、4、5、6、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5242	xu26aj							初筛，原文与先例核查待补：第4–5/7页由成功样本扰动、分数型伪标签的Beta样式平滑、Gaussian核传播及anchor RL构成；当前未识别超出成熟伪标签/核回归奖励塑形的新规则。把模型概率当一次观测并不自动给出校准的Bayes后验，不以图像编辑提升代替新增量。	rule-excluded
+5243	xu26ak	3	4	3	3	66		初筛，原文与先例核查待补：重建残差逐层上送的世界模型有明确操作或条件规律，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、6、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5244	xu26al	3	4	3	3	66		初筛，原文与先例核查待补：决策token分支与先完成选择有明确操作或条件规律，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5245	xu26am	3	4	4	4	73		初筛，原文与先例核查待补：均值配分近似的隐式混合正则有明确操作或条件规律，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、7、8页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5246	xu26an	3	4	4	3	70		初筛，原文与先例核查待补：以帧差分配token缓存更新有明确操作或条件规律，新增量暂3，复用4，使用性4，独特性3；缓存第4、5、6、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5247	xu26ao	3	4	3	4	69		初筛，原文与先例核查待补：反馈一致假设集的探索与利用有明确操作或条件规律，新增量暂3，复用4，使用性3，独特性4；缓存第4、5、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5248	xu26ap	3	4	3	3	66		初筛，原文与先例核查待补：依赖潜变量的多域协方差匹配有明确操作或条件规律，新增量暂3，复用4，使用性3，独特性3；缓存第3、4、5、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5249	xu26aq	3	4	3	4	69		初筛，原文与先例核查待补：受限子集效应的后选择置信界有明确操作或条件规律，新增量暂3，复用4，使用性3，独特性4；缓存第4、5、6、7、8页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5250	xu26ar	3	4	3	3	66		初筛，原文与先例核查待补：潜在循环的并行深度与随机CoT计数有明确操作或条件规律，新增量暂3，复用4，使用性3，独特性3；缓存第3、4、5、6、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
+5251	xu26as	3	4	2	3	62		初筛，原文与先例核查待补：随机方向差分驱动的步长阻尼有明确操作或条件规律，新增量暂3，复用4，使用性2，独特性3；缓存第4、5、6、7页。最近先例、匹配预算和库内机制重叠待核实。	scored
 5252	xu26at							待原文复核评分	pending
 5253	xu26au							待原文复核评分	pending
 5254	xu26av							待原文复核评分	pending
