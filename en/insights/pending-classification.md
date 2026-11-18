@@ -1117,5 +1117,11 @@
 - [Q-ARVD: Quantizing Autoregressive Video Diffusion Models](../../conferences/neurips-2026/cards-0010.md#paper-152660)
 - [Quantile-Coupled Flow Matching for Distributional Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149618)
 - [Quasi-Linear ICA for Motor Unit Decomposition during Dynamic Contractions](../../conferences/neurips-2026/cards-0010.md#paper-150445)
+- [RaPD: Resolution-Agnostic Pixel Diffusion via Semantics-Enriched Implicit Representations](../../conferences/neurips-2026/cards-0010.md#paper-154733)
+- [Rare-Class Signal Suppression in Long-Tailed Multi-Expert Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-150905)
+- [Rate-Constrained Edge Metadata for Sender–Receiver Generative Video Super-Resolution](../../conferences/neurips-2026/cards-0010.md#paper-150084)
+- [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](../../conferences/neurips-2026/cards-0010.md#paper-152931)
+- [ReasoningShield: Safety Moderation over Reasoning Traces of Large Reasoning Models](../../conferences/neurips-2026/cards-0010.md#paper-139565)
+- [RECIPE: Learning to Rank Complete Precursor Sets for Inorganic Retrosynthesis](../../conferences/neurips-2026/cards-0010.md#paper-149027)
 
 <!-- conference-classification:end -->

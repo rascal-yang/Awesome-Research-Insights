@@ -730,5 +730,6 @@
 - [ProCARE: Real-World Study Automation via Profile-Grounded Evidence Contracts](../conferences/neurips-2026/cards-0010.md#paper-149562)
 - [Provably Efficient Representation Learning for Low-Rank CMDPs](../conferences/neurips-2026/cards-0010.md#paper-155519)
 - [Provably Safe, Yet Performant Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-152935)
+- [RANSAC Scoring Done Right](../conferences/neurips-2026/cards-0010.md#paper-154742)
 
 <!-- conference-classification:end -->

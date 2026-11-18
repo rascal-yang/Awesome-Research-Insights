@@ -384,5 +384,7 @@
 - [PRIME: Poincaré return induced measure for learning partially observed dynamical systems](../conferences/neurips-2026/cards-0009.md#paper-154522)
 - [Progressive Signal Calibration for Medical Image Segmentation: Diagnosing and Correcting Structural Misalignment in Training Signals](../conferences/neurips-2026/cards-0010.md#paper-150045)
 - [Quantile Geometry Regularization for Distributional Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149758)
+- [[Re] Boosting the Visual Interpretability of CLIP via Adversarial Fine-Tuning](../conferences/neurips-2026/cards-0010.md#paper-157021)
+- [Reconsidering Positional Supervision in Masked Diffusion Language Model Training](../conferences/neurips-2026/cards-0010.md#paper-152472)
 
 <!-- conference-classification:end -->

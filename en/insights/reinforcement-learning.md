@@ -638,5 +638,17 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction–Reality Gaps](../../conferences/neurips-2026/cards-0010.md#paper-152351)
 - [Provably Efficient Regularized Online RLHF with Generalized Bilinear Preferences](../../conferences/neurips-2026/cards-0010.md#paper-151212)
 - [RAHF: Reward-Amplified Human Feedback for Closed-Loop Policy Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-148691)
+- [RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution](../../conferences/neurips-2026/cards-0010.md#paper-153714)
+- [Rationale-Guided Policy Optimization: Learning to Reason with Adaptive Rationale Scaffolding](../../conferences/neurips-2026/cards-0010.md#paper-148697)
+- [Read It Back: Pretrained MLLMs Are Zero-shot Reward Models for Text-to-Image Generation](../../conferences/neurips-2026/cards-0010.md#paper-155394)
+- [Reasoning Under 1 Billion: Memory-Augmented Reinforcement Learning for Large Language Models](../../conferences/neurips-2026/cards-0010.md#paper-156787)
+- [Reasoning Warm-up: Scaling Label-free RL via Verifiable Surrogate Rewards](../../conferences/neurips-2026/cards-0010.md#paper-151965)
+- [Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR](../../conferences/neurips-2026/cards-0010.md#paper-150786)
+- [RECAP: Looking Once Is Not Enough for Vision-Language Reasoning](../../conferences/neurips-2026/cards-0010.md#paper-152270)
+- [RECIPE: Procedural Planning via Grounding in Instructional Video](../../conferences/neurips-2026/cards-0010.md#paper-149970)
+- [Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning](../../conferences/neurips-2026/cards-0010.md#paper-149075)
+- [Recursive Semantic Divergence for LLM Agent Consistency](../../conferences/neurips-2026/cards-0010.md#paper-152399)
+- [Reducing Credit Assignment Variance via Counterfactual Reasoning Paths](../../conferences/neurips-2026/cards-0010.md#paper-150771)
+- [ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving](../../conferences/neurips-2026/cards-0010.md#paper-152356)
 
 <!-- conference-classification:end -->

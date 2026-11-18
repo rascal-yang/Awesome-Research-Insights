@@ -367,5 +367,8 @@
 - [Provable Selective Auto-labeling with Reliability Guarantees](../conferences/neurips-2026/cards-0010.md#paper-154352)
 - [Quantile Benchmarking Heterogeneous Web Corpora in Open LLM Pretraining](../conferences/neurips-2026/cards-0010.md#paper-149953)
 - [Query-Limited Community Recovery in Stochastic Block Models](../conferences/neurips-2026/cards-0010.md#paper-149578)
+- [RAVEL: Rare Concept Generation and Editing via Graph-driven Relational Guidance](../conferences/neurips-2026/cards-0010.md#paper-150127)
+- [Readiness-Aware Sample Selection for Noisy Labels with Class Imbalance](../conferences/neurips-2026/cards-0010.md#paper-153563)
+- [ReCoG: Relational Concept Graph for Training-Free Personalization](../conferences/neurips-2026/cards-0010.md#paper-149776)
 
 <!-- conference-classification:end -->

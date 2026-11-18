@@ -1108,5 +1108,6 @@
 - [Pure Exploration Beyond Reward Feedback: The Role of Post-Action Context](../conferences/neurips-2026/cards-0010.md#paper-154673)
 - [Quotient-Categorical Representations for Bellman-Compatible Average-Reward Distributional Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149377)
 - [QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems](../conferences/neurips-2026/cards-0010.md#paper-150551)
+- [Recursively Trained Diffusion Models: Limiting Collapse Distribution and Spectral Characterization](../conferences/neurips-2026/cards-0010.md#paper-152379)
 
 <!-- conference-classification:end -->

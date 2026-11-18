@@ -841,5 +841,12 @@ Training schedules, curricula, and task or stage composition.
 - [Random-Effects Centroids for Domain Generalization](../../conferences/neurips-2026/cards-0010.md#paper-154099)
 - [Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment](../../conferences/neurips-2026/cards-0010.md#paper-154517)
 - [Rank-Constrained Adaptation for Reliable Real-World Performance](../../conferences/neurips-2026/cards-0010.md#paper-150710)
+- [RayTun3R: Online Camera Adaptation in 3D Foundation Models](../../conferences/neurips-2026/cards-0010.md#paper-151667)
+- [Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck](../../conferences/neurips-2026/cards-0010.md#paper-148496)
+- [Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-139406)
+- [Reason in the Words You Speak: Idiolectal Paraphrasing Off-Policy Traces for Reasoning Distillation in VideoLLMs](../../conferences/neurips-2026/cards-0010.md#paper-149165)
+- [ReCoVer: Resilient LLM Pre-Training System via Fault-Tolerant Collective and Versatile Workload](../../conferences/neurips-2026/cards-0010.md#paper-149244)
+- [Re-examining Low Rank adaptation for private LLM fine-tuning](../../conferences/neurips-2026/cards-0010.md#paper-152877)
+- [Reference-Guided Training: Adaptive Gradient Scaling via Per-Sample Loss Comparisons](../../conferences/neurips-2026/cards-0010.md#paper-148399)
 
 <!-- conference-classification:end -->

@@ -802,5 +802,14 @@ Robot perception, policy learning, planning, and control.
 - [RAHF: Reward-Amplified Human Feedback for Closed-Loop Policy Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-148691)
 - [RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies](../../conferences/neurips-2026/cards-0010.md#paper-154487)
 - [Random-Set Graph Neural Networks](../../conferences/neurips-2026/cards-0010.md#paper-148272)
+- [RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation](../../conferences/neurips-2026/cards-0010.md#paper-151487)
+- [RAPDrive: Shared-Latent Hybrid Decoding for Reasoning and Planning in Autonomous Driving](../../conferences/neurips-2026/cards-0010.md#paper-148675)
+- [Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos](../../conferences/neurips-2026/cards-0010.md#paper-153854)
+- [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](../../conferences/neurips-2026/cards-0010.md#paper-152931)
+- [Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models](../../conferences/neurips-2026/cards-0010.md#paper-139014)
+- [RecoverBench: A Systematic Benchmark for Error Recovery in Robotic Manipulation](../../conferences/neurips-2026/cards-0010.md#paper-139223)
+- [RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](../../conferences/neurips-2026/cards-0010.md#paper-154077)
+- [Refining Compositional Diffusion for Reliable Long-Horizon Planning](../../conferences/neurips-2026/cards-0010.md#paper-148736)
+- [ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving](../../conferences/neurips-2026/cards-0010.md#paper-152356)
 
 <!-- conference-classification:end -->

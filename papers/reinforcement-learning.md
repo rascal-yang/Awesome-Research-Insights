@@ -659,5 +659,6 @@
 - [Quantile-Coupled Flow Matching for Distributional Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149618)
 - [Quantile Geometry Regularization for Distributional Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149758)
 - [Quotient-Categorical Representations for Bellman-Compatible Average-Reward Distributional Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149377)
+- [Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning](../conferences/neurips-2026/cards-0010.md#paper-149075)
 
 <!-- conference-classification:end -->

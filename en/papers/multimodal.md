@@ -862,5 +862,15 @@ Learning across modalities such as images, text, audio, and video.
 - [Quantitative Assessment of Crystal Structure Prediction](../../conferences/neurips-2026/cards-0010.md#paper-138999)
 - [Query as a Resource: Activity-Cost Guided Remote Sensing Domain-Incremental Object Detection](../../conferences/neurips-2026/cards-0010.md#paper-148788)
 - [Q-ViK: Question-Guided Visual KV Cache Eviction for Large Vision-Language Models](../../conferences/neurips-2026/cards-0010.md#paper-148422)
+- [Reading, Not Thinking: Bridging the Modality Gap When Text Becomes Pixels](../../conferences/neurips-2026/cards-0010.md#paper-155483)
+- [Read It Back: Pretrained MLLMs Are Zero-shot Reward Models for Text-to-Image Generation](../../conferences/neurips-2026/cards-0010.md#paper-155394)
+- [Reasoning-based Spatial Prior (RSP): Learning Spatial Priors from Multimodal LLMs for Object Detection](../../conferences/neurips-2026/cards-0010.md#paper-154145)
+- [Reason in the Words You Speak: Idiolectal Paraphrasing Off-Policy Traces for Reasoning Distillation in VideoLLMs](../../conferences/neurips-2026/cards-0010.md#paper-149165)
+- [Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners](../../conferences/neurips-2026/cards-0010.md#paper-151783)
+- [RECAP: Looking Once Is Not Enough for Vision-Language Reasoning](../../conferences/neurips-2026/cards-0010.md#paper-152270)
+- [RECIPE: Procedural Planning via Grounding in Instructional Video](../../conferences/neurips-2026/cards-0010.md#paper-149970)
+- [ReCoG: Relational Concept Graph for Training-Free Personalization](../../conferences/neurips-2026/cards-0010.md#paper-149776)
+- [REDACTED-Tunes: An Open 1.4M-Track Dataset and Perceptual Benchmark for AI-Generated Music](../../conferences/neurips-2026/cards-0010.md#paper-138942)
+- [RefDecoder: Enhancing Visual Generation with Conditional Video Decoding](../../conferences/neurips-2026/cards-0010.md#paper-148568)
 
 <!-- conference-classification:end -->

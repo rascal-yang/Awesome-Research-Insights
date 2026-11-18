@@ -125,3 +125,72 @@
 | 具身智能与机器人 | 评测与诊断 | [Random-Set Graph Neural Networks](cards-0010.md#paper-148272) | 图场景识别在证据冲突时输出信念宽度 |
 | 大语言模型 | 训练与优化 | [Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment](cards-0010.md#paper-154517) | 偏好标注隐私释放按名次区分信息保真 |
 | 机器学习基础与统计 | 训练与优化 | [Rank-Constrained Adaptation for Reliable Real-World Performance](cards-0010.md#paper-150710) | 群组鲁棒校准在错误集中子空间做低秩修正 |
+| 生成模型 | 强化学习 | [RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution](cards-0010.md#paper-153714) | 离散图像后训练监控解码失配并交替适配。 |
+| 深度学习 | 表征学习 | [Rank Is Not Capacity: Spectral Occupancy for Latent Graph Models](cards-0010.md#paper-153250) | 图嵌入设定宽度前测谱占用。 |
+| 机器学习理论 | 表征学习 | [Rank-Transformed Dissimilarity Profiles for High-Dimensional Classification](cards-0010.md#paper-151307) | 小样本分类可用到类的距离排名表示。 |
+| 模型效率与系统 | 量化 | [RankVQ: Low-Rank Parameterized Commutative Vector Quantization for KV Cache Compression](cards-0010.md#paper-148642) | 训练码本用低秩参数，部署保持原推理形式。 |
+| 计算机视觉 | 优化算法 | [RANSAC Scoring Done Right](cards-0010.md#paper-154742) | 匹配几何共识先边缘化内点尺度。 |
+| 具身智能与机器人 | 多模态融合 | [RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation](cards-0010.md#paper-151487) | 零样本音视导航先测试有无潜导航推理。 |
+| 模型效率与系统 | 调度 | [RAOP: Step-Level Resource Orchestration for LLM Agents across Edge and Cloud](cards-0010.md#paper-152497) | 逐步分别放置生成及工具执行。 |
+| 生成模型 | 扩散模型 | [RaPD: Resolution-Agnostic Pixel Diffusion via Semantics-Enriched Implicit Representations](cards-0010.md#paper-154733) | 需要可变分辨率时在连续表示上去噪。 |
+| 具身智能与机器人 | 架构设计 | [RAPDrive: Shared-Latent Hybrid Decoding for Reasoning and Planning in Autonomous Driving](cards-0010.md#paper-148675) | 语言和运动共享上下文但使用不同解码。 |
+| 大语言模型 | 可解释性 | [RAPTOR: Ridge-Adaptive Logistic Probes](cards-0010.md#paper-152988) | 概念方向用验证选正则强度。 |
+| 深度学习 | 长尾学习 | [Rare-Class Signal Suppression in Long-Tailed Multi-Expert Fine-Tuning](cards-0010.md#paper-150905) | 稀有类训练逐接口跟踪梯度能量。 |
+| 深度学习 | 可解释性 | [Rare Events, Real Signals: Functional Ensembles as Units of Computation in Deep Spiking Networks](cards-0010.md#paper-153510) | 事件式网络探针检查罕见协同激活。 |
+| 计算机视觉 | 评测与诊断 | [RASS: Risk-Audited Budget Selection for Compact NeRF Benchmark Subsets](cards-0010.md#paper-138883) | 用全量历史日志对小评测集做风险审计。 |
+| 计算机视觉 | 视频建模 | [Rate-Constrained Edge Metadata for Sender–Receiver Generative Video Super-Resolution](cards-0010.md#paper-150084) | 视频生成式恢复可从发送侧加预算受控结构线索。 |
+| 大语言模型 | 强化学习 | [Rationale-Guided Policy Optimization: Learning to Reason with Adaptive Rationale Scaffolding](cards-0010.md#paper-148697) | 模型尚不能解题时短暂加参考推理。 |
+| 大语言模型 | 模型路由 | [Rational Tuning of LLM Cascades via Probabilistic Modeling](cards-0010.md#paper-156749) | 多模型级联用联合误差调阈值。 |
+| 计算机视觉 | 注意力机制 | [RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers](cards-0010.md#paper-151691) | 密集视觉模型添加可学零件寄存器瓶颈。 |
+| 生成模型 | 检索增强 | [RAVEL: Rare Concept Generation and Editing via Graph-driven Relational Guidance](cards-0010.md#paper-150127) | 罕见概念生成检索关系图并按失配修提示。 |
+| 机器学习基础与统计 | 模型架构 | [Raven: High-Recall Sequence Modeling via Sparse Memory Routing](cards-0010.md#paper-152432) | 线性长上下文中，用输入相关稀疏写入降低固定状态中的更新干扰。 |
+| 机器学习基础与统计 | 评测与诊断 | [Raw-Routed Mixture of Adapters: A Causal Intervention for Routing Collapse in Time Series Foundation Models](cards-0010.md#paper-151748) | 时序适配器路由坍缩时，先检查归一化前丢失的路由条件。 |
+| 计算机视觉 | 训练策略 | [RayTun3R: Online Camera Adaptation in 3D Foundation Models](cards-0010.md#paper-151667) | 针孔预训三维模型换鱼眼时，优先适配位置编码与预测网格。 |
+| 机器学习基础与统计 | 表征学习 | [RB-LDC: Redundancy-Balanced Latent Coding for Robust Diffusion](cards-0010.md#paper-152929) | 扩散潜编码冗余按语义方向的受噪敏感度分配。 |
+| 机器学习基础与统计 | 数据策略 | [Readiness-Aware Sample Selection for Noisy Labels with Class Imbalance](cards-0010.md#paper-153563) | 类别不平衡且标签有噪声时，让各类别按特征成熟度独立启动筛选。 |
+| 多模态学习 | 评测与诊断 | [Reading, Not Thinking: Bridging the Modality Gap When Text Becomes Pixels](cards-0010.md#paper-155483) | 比较图片文字和纯文字推理时，控制字体分辨率，并区分识字失败和推理步数下降。 |
+| 视觉与多模态 | 强化学习与奖励 | [Read It Back: Pretrained MLLMs Are Zero-shot Reward Models for Text-to-Image Generation](cards-0010.md#paper-155394) | 用生成图反推提示的似然替代问答式奖励 |
+| 具身智能与机器人 | 模型与架构 | [Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos](cards-0010.md#paper-153854) | 单目人-物演示先恢复关系，再检查物理投影 |
+| 智能体 | 评测与诊断 | [RealDev-QA: Trajectory-Level Diagnosis for Developer RAG Under Real-World Noises](cards-0010.md#paper-139440) | 检索链诊断优先核对首轮证据精度 |
+| 机器学习基础与统计 | 评测与诊断 | [Realism VS Accuracy: Event Sequence Forecasting from a Generative Modeling Perspective](cards-0010.md#paper-139504) | 事件预测分开看点准确与分布真实 |
+| 具身智能与机器人 | 效率与系统 | [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](cards-0010.md#paper-152931) | 扩散动作重规划用快速草稿及分阶段回退 |
+| 大语言模型 | 训练与优化 | [Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck](cards-0010.md#paper-148496) | 推理压缩用语义惊讶度代替等额 token 成本 |
+| 大语言模型 | 评测与诊断 | [Reasoning-Aware IRT: Explainable Evaluation of Test-Time Scaling in Reasoning Models](cards-0010.md#paper-139400) | 模型排名时显式估计推理预算收益曲率 |
+| 视觉与多模态 | 模型与架构 | [Reasoning-based Spatial Prior (RSP): Learning Spatial Priors from Multimodal LLMs for Object Detection](cards-0010.md#paper-154145) | 将多模态注意力校准为检测空间偏置 |
+| 大语言模型 | 评测与诊断 | [Reasoning Pathologies in Large Language Models: A Diagnostic Perspective](cards-0010.md#paper-154933) | 对推理症状测其首次出现并检查反事实 |
+| 大语言模型 | 模型鲁棒性 | [ReasoningShield: Safety Moderation over Reasoning Traces of Large Reasoning Models](cards-0010.md#paper-139565) | 安全审核给推理轨迹单独校准。 |
+| 大语言模型 | 训练策略 | [Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning](cards-0010.md#paper-139406) | 微调后同时验推理格式和正确率。 |
+| 大语言模型 | 奖励设计 | [Reasoning Under 1 Billion: Memory-Augmented Reinforcement Learning for Large Language Models](cards-0010.md#paper-156787) | 小模型探索可利用过去成功轨迹但保留新分支。 |
+| 大语言模型 | 采样与推理 | [Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space](cards-0010.md#paper-154790) | 测试时给实例分配潜变量更新预算。 |
+| 大语言模型 | 奖励设计 | [Reasoning Warm-up: Scaling Label-free RL via Verifiable Surrogate Rewards](cards-0010.md#paper-151965) | 主任务无验收时先测可验证辅助任务是否有预测力。 |
+| 大语言模型 | 采样与推理 | [Reasoning with Sampling: Cutting at Decision Points](cards-0010.md#paper-153230) | 重采样后缀优先定位高熵分岔。 |
+| 大语言模型 | 架构设计 | [Reasoning with Undecoded Tokens in Diffusion Language Models](cards-0010.md#paper-152594) | 提高解码位置质量时保留可控的未输出位置。 |
+| 多模态学习 | 知识蒸馏 | [Reason in the Words You Speak: Idiolectal Paraphrasing Off-Policy Traces for Reasoning Distillation in VideoLLMs](cards-0010.md#paper-149165) | 先将教师轨迹改写到学生分布再训练。 |
+| 多模态学习 | 评测与诊断 | [Reason to Play: Behavioral and Brain Alignment Between Frontier LRMs and Human Game Learners](cards-0010.md#paper-151783) | 研究代理认知对齐时分别干预表示与规划。 |
+| 生成模型 | 注意力机制 | [Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models](cards-0010.md#paper-154264) | 图像转视频先调早期参考帧注意力。 |
+| 大语言模型 | 强化学习 | [Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR](cards-0010.md#paper-150786) | 学生走通教师低概率推理时别压制。 |
+| 计算机视觉 | 损失函数 | [[Re] Boosting the Visual Interpretability of CLIP via Adversarial Fine-Tuning](cards-0010.md#paper-157021) | 需要可定位解释时直接训练显著图对象对齐。 |
+| 多模态学习 | 强化学习 | [RECAP: Looking Once Is Not Enough for Vision-Language Reasoning](cards-0010.md#paper-152270) | 将回看图像的局部步骤接入终局信用分配。 |
+| 深度学习 | 排序学习 | [RECIPE: Learning to Rank Complete Precursor Sets for Inorganic Retrosynthesis](cards-0010.md#paper-149027) | 当验收对象是集合时独立给完整组合排序。 |
+| 多模态学习 | 奖励设计 | [RECIPE: Procedural Planning via Grounding in Instructional Video](cards-0010.md#paper-149970) | 将带噪视频转录作验收信号。 |
+| 深度学习 | 记忆机制 | [RecMem: Recurrent Memory Compression for Long-Sequence Recommendation](cards-0010.md#paper-149955) | 相同解码预算下压缩长历史再与截断对比。 |
+| 计算机视觉 | 记忆机制 | [Re:Cognize - A Framework For Open-Set Comic Character Re-Identification](cards-0010.md#paper-138878) | 开放身份库先验证更新是否有独立证据。 |
+| 多模态学习 | 检索增强 | [ReCoG: Relational Concept Graph for Training-Free Personalization](cards-0010.md#paper-149776) | 细粒度个性识别检索候选之间的差异。 |
+| 强化学习 | 强化学习方法 | [Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning](cards-0010.md#paper-149075) | 只有安全示范与高收益示范分开可用时，以前者确定行为支持，再从后者取效率信号。 |
+| 大语言模型 | 损失函数 | [Reconsidering Positional Supervision in Masked Diffusion Language Model Training](cards-0010.md#paper-152472) | 掩码扩散在少数词元错位时明显退化，可比较位置弹性损失和逐位置交叉熵。 |
+| 机器人学 | 评测与诊断 | [Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models](cards-0010.md#paper-139014) | 选动作条件世界模型的潜表示时，保持训练协议并同时测规划和视频保真。 |
+| 机器人学 | 评测与诊断 | [RecoverBench: A Systematic Benchmark for Error Recovery in Robotic Manipulation](cards-0010.md#paper-139223) | 机器人应从可复现的偏离态分别考核恢复，而不只看干净轨迹。 |
+| 大语言模型 | 训练策略 | [ReCoVer: Resilient LLM Pre-Training System via Fault-Tolerant Collective and Versatile Workload](cards-0010.md#paper-149244) | 分布式预训遇设备故障时，在幸存设备间重新分配固定微批总量。 |
+| 大语言模型 | 推理策略 | [Recursive Language Models](cards-0010.md#paper-154541) | 输入比模型上下文长得多时，用外部数据接口按需切片和递归处理。 |
+| 机器学习基础与统计 | 理论与统计 | [Recursively Trained Diffusion Models: Limiting Collapse Distribution and Spectral Characterization](cards-0010.md#paper-152379) | 递归使用合成扩散数据前，将反向早停带来的漂移与评分误差分开。 |
+| 智能体 | 强化学习与奖励 | [Recursive Semantic Divergence for LLM Agent Consistency](cards-0010.md#paper-152399) | 从相同状态估计工具 Agent 后续语义分散程度 |
+| 视觉与多模态 | 评测与诊断 | [REDACTED-Tunes: An Open 1.4M-Track Dataset and Perceptual Benchmark for AI-Generated Music](cards-0010.md#paper-138942) | 音频来源判别和审美评分分开标注 |
+| 大语言模型 | 强化学习与奖励 | [Reducing Credit Assignment Variance via Counterfactual Reasoning Paths](cards-0010.md#paper-150771) | 终局奖励稀疏时比较同题多轨迹的决策差异 |
+| 大语言模型 | 评测与诊断 | [Re-evaluating Confidence Remasking in Masked Diffusion Language Models](cards-0010.md#paper-155851) | 部署前按块长与采样策略核对重新掩码收益 |
+| 机器学习基础与统计 | 评测与诊断 | [Re-evaluating Continual Learning with Few-Shot Adaptation](cards-0010.md#paper-138902) | 持续学习分开验收留存和少样本再适配 |
+| 大语言模型 | 训练与优化 | [Re-examining Low Rank adaptation for private LLM fine-tuning](cards-0010.md#paper-152877) | 隐私微调除限制秩外检查奇异值衰减 |
+| 视觉与多模态 | 生成与扩散 | [RefDecoder: Enhancing Visual Generation with Conditional Video Decoding](cards-0010.md#paper-148568) | 参考图约束要延伸到视频 VAE 解码 |
+| 机器学习基础与统计 | 训练与优化 | [Reference-Guided Training: Adaptive Gradient Scaling via Per-Sample Loss Comparisons](cards-0010.md#paper-148399) | 样本重加权参考器优先考虑错误排序互补 |
+| 具身智能与机器人 | 推理与搜索 | [RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](cards-0010.md#paper-154077) | 单目 3D 深度先通过投影关系判断修正方向 |
+| 具身智能与机器人 | 生成与扩散 | [Refining Compositional Diffusion for Reliable Long-Horizon Planning](cards-0010.md#paper-148736) | 拼接扩散规划要判断全局是否落在可行模式 |
+| 具身智能与机器人 | 强化学习与奖励 | [ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving](cards-0010.md#paper-152356) | 草拟和自编辑用联合 rollout 奖励训练 |

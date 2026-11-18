@@ -1305,5 +1305,13 @@
 - [QueryStop: Dynamic Stop Signals for Efficient Streaming Inference](../conferences/neurips-2026/cards-0010.md#paper-151351)
 - [Q-ViK: Question-Guided Visual KV Cache Eviction for Large Vision-Language Models](../conferences/neurips-2026/cards-0010.md#paper-148422)
 - [RA-CFGCache: From Branch-Level Criteria to Guided-Risk Control under Classifier-Free Guidance](../conferences/neurips-2026/cards-0010.md#paper-150708)
+- [RankVQ: Low-Rank Parameterized Commutative Vector Quantization for KV Cache Compression](../conferences/neurips-2026/cards-0010.md#paper-148642)
+- [RAOP: Step-Level Resource Orchestration for LLM Agents across Edge and Cloud](../conferences/neurips-2026/cards-0010.md#paper-152497)
+- [Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space](../conferences/neurips-2026/cards-0010.md#paper-154790)
+- [Reasoning with Sampling: Cutting at Decision Points](../conferences/neurips-2026/cards-0010.md#paper-153230)
+- [Recursive Language Models](../conferences/neurips-2026/cards-0010.md#paper-154541)
+- [RefDecoder: Enhancing Visual Generation with Conditional Video Decoding](../conferences/neurips-2026/cards-0010.md#paper-148568)
+- [RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](../conferences/neurips-2026/cards-0010.md#paper-154077)
+- [Refining Compositional Diffusion for Reliable Long-Horizon Planning](../conferences/neurips-2026/cards-0010.md#paper-148736)
 
 <!-- conference-classification:end -->

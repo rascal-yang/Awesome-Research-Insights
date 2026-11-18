@@ -1078,5 +1078,12 @@
 - [ProxySearch: Decoupled Inference-Time Scaling for Diffusion Models via Asymmetric Noise-Rank Transfer](../conferences/neurips-2026/cards-0010.md#paper-151922)
 - [QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems](../conferences/neurips-2026/cards-0010.md#paper-150551)
 - [RA-CFGCache: From Branch-Level Criteria to Guided-Risk Control under Classifier-Free Guidance](../conferences/neurips-2026/cards-0010.md#paper-150708)
+- [RANSAC Scoring Done Right](../conferences/neurips-2026/cards-0010.md#paper-154742)
+- [RASS: Risk-Audited Budget Selection for Compact NeRF Benchmark Subsets](../conferences/neurips-2026/cards-0010.md#paper-138883)
+- [Rate-Constrained Edge Metadata for Sender–Receiver Generative Video Super-Resolution](../conferences/neurips-2026/cards-0010.md#paper-150084)
+- [RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers](../conferences/neurips-2026/cards-0010.md#paper-151691)
+- [RayTun3R: Online Camera Adaptation in 3D Foundation Models](../conferences/neurips-2026/cards-0010.md#paper-151667)
+- [[Re] Boosting the Visual Interpretability of CLIP via Adversarial Fine-Tuning](../conferences/neurips-2026/cards-0010.md#paper-157021)
+- [Re:Cognize - A Framework For Open-Set Comic Character Re-Identification](../conferences/neurips-2026/cards-0010.md#paper-138878)
 
 <!-- conference-classification:end -->

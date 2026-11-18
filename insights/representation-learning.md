@@ -577,5 +577,8 @@
 - [Positional Encoding and Prompt-Order Sensitivity in In-Context Learning](../conferences/neurips-2026/cards-0009.md#paper-151605)
 - [Prior-Anchored Local Statistical Representation Rectification for Low-Light Image Enhancement](../conferences/neurips-2026/cards-0010.md#paper-150834)
 - [PRISM: Programming Interactive Scenes from Monocular Images for Embodied Simulation](../conferences/neurips-2026/cards-0010.md#paper-153153)
+- [Rank Is Not Capacity: Spectral Occupancy for Latent Graph Models](../conferences/neurips-2026/cards-0010.md#paper-153250)
+- [Rank-Transformed Dissimilarity Profiles for High-Dimensional Classification](../conferences/neurips-2026/cards-0010.md#paper-151307)
+- [RB-LDC: Redundancy-Balanced Latent Coding for Robust Diffusion](../conferences/neurips-2026/cards-0010.md#paper-152929)
 
 <!-- conference-classification:end -->

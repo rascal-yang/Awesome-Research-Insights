@@ -527,5 +527,10 @@
 - [Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks](../conferences/neurips-2026/cards-0010.md#paper-153925)
 - [PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation](../conferences/neurips-2026/cards-0010.md#paper-148567)
 - [Q-Residual Physics: Hamiltonian-Structured Quantum Residual Learning for Embodied Dynamics](../conferences/neurips-2026/cards-0010.md#paper-150528)
+- [RAPDrive: Shared-Latent Hybrid Decoding for Reasoning and Planning in Autonomous Driving](../conferences/neurips-2026/cards-0010.md#paper-148675)
+- [Raven: High-Recall Sequence Modeling via Sparse Memory Routing](../conferences/neurips-2026/cards-0010.md#paper-152432)
+- [Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos](../conferences/neurips-2026/cards-0010.md#paper-153854)
+- [Reasoning-based Spatial Prior (RSP): Learning Spatial Priors from Multimodal LLMs for Object Detection](../conferences/neurips-2026/cards-0010.md#paper-154145)
+- [Reasoning with Undecoded Tokens in Diffusion Language Models](../conferences/neurips-2026/cards-0010.md#paper-152594)
 
 <!-- conference-classification:end -->

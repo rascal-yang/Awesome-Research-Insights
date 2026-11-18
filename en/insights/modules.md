@@ -416,5 +416,11 @@ Reusable components and local changes to model inputs or connections.
 - [Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime](../../conferences/neurips-2026/cards-0010.md#paper-149032)
 - [RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn’t](../../conferences/neurips-2026/cards-0010.md#paper-151457)
 - [RAM-Net: Linear-Time Sequence Modeling with Sparsely Addressable State](../../conferences/neurips-2026/cards-0010.md#paper-152777)
+- [RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation](../../conferences/neurips-2026/cards-0010.md#paper-151487)
+- [Rational Tuning of LLM Cascades via Probabilistic Modeling](../../conferences/neurips-2026/cards-0010.md#paper-156749)
+- [RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers](../../conferences/neurips-2026/cards-0010.md#paper-151691)
+- [Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models](../../conferences/neurips-2026/cards-0010.md#paper-154264)
+- [RecMem: Recurrent Memory Compression for Long-Sequence Recommendation](../../conferences/neurips-2026/cards-0010.md#paper-149955)
+- [Re:Cognize - A Framework For Open-Set Comic Character Re-Identification](../../conferences/neurips-2026/cards-0010.md#paper-138878)
 
 <!-- conference-classification:end -->
