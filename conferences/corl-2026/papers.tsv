@@ -77,9 +77,9 @@ number	openreview_id	title	paper_url	reason	status
 76	DzAZfcPUiP	How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference	https://openreview.net/forum?id=DzAZfcPUiP		pending
 77	thG2jwuii6	RoboPocket: Improve Robot Policies Instantly with Your Phone	https://openreview.net/forum?id=thG2jwuii6	采集时先显示当前策略的预测轨迹，再补失败附近的示范	included
 78	qxboQ98QN4	Rethinking the Implications of Human Feedback for Preference Learning in Human-Robot Collaboration	https://openreview.net/forum?id=qxboQ98QN4	把固定规则推导的偏好标签当作可更新的先验	included
-79	79jC3quhGp	Learning to Assist: Collaborative VLAs for Implicit Human-Robot Collaboration	https://openreview.net/forum?id=79jC3quhGp		pending
-80	mwJwAQ0CXT	CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy	https://openreview.net/forum?id=mwJwAQ0CXT		pending
-81	hvArz6F8eA	Probing Collision Grounding in Vision-Language Models for Safe Human–Robot Collaboration	https://openreview.net/forum?id=hvArz6F8eA		pending
+79	79jC3quhGp	Learning to Assist: Collaborative VLAs for Implicit Human-Robot Collaboration	https://openreview.net/forum?id=79jC3quhGp	检查动作块是否跨过人类尚未准备好的协作边界	included
+80	mwJwAQ0CXT	CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy	https://openreview.net/forum?id=mwJwAQ0CXT	复用同一预训练控制器并用机器人身份提示区分执行角色	included
+81	hvArz6F8eA	Probing Collision Grounding in Vision-Language Models for Safe Human–Robot Collaboration	https://openreview.net/forum?id=hvArz6F8eA	分开测当前接触与提前预警，并按碰撞对象分层	included
 82	rAyG2MJka5	STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction	https://openreview.net/forum?id=rAyG2MJka5		pending
 83	VnF3D7ia9Y	Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection	https://openreview.net/forum?id=VnF3D7ia9Y		pending
 84	nXfwmrzXzz	An Agentic Framework for Proactive Robots with Procedural Assistance Memory	https://openreview.net/forum?id=nXfwmrzXzz		pending
