@@ -121,6 +121,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26hr-optimization) · 中文
 - [Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms](../../conferences/icml-2026/cards/5901-6000.md#zhang26hx-optimization) · 中文
 - [Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR](../../conferences/icml-2026/cards/6001-6100.md#zhang26jm-optimization) · 中文
+- [ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts](../../conferences/icml-2026/cards/6001-6100.md#zhao26ap-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 

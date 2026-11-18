@@ -254,6 +254,8 @@
 - [在局部SO2表示中融合高阶特征再映回](../conferences/icml-2026/cards/5501-5600.md#yu26y-modules) · Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames
 - [用脉冲算术原语替换Transformer非线性](../conferences/icml-2026/cards/5601-5700.md#yuan26e-modules) · Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers
 - [对持久latent的预测固定点误差做Jacobian校正](../conferences/icml-2026/cards/5701-5800.md#zeng26r-modules) · CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer
+- [Laplace inducing GP的稀疏基索引](../conferences/icml-2026/cards/6001-6100.md#zhao26at-modules) · SIKA-GP: Accelerating Gaussian Process Inference with Sparse Inducing Kernel Approximations for Bayesian Deep Learning
+- [隐式resolvent聚类的显式低秩因子](../conferences/icml-2026/cards/6001-6100.md#zhao26az-modules) · Contractive Anchor Resolvent Diffusion for Incomplete Multi-View Clustering
 
 <a id="by-graph-and-recommendation"></a>
 

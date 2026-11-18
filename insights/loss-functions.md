@@ -74,6 +74,7 @@
 - [预测下一位置的浅层隐token](../conferences/icml-2026/cards/5901-6000.md#zhang26ix-loss-functions) · NITP: Next Implicit Token Prediction for LLM Pre-training
 - [让同一latent-reasoning模型兼学文字解码](../conferences/icml-2026/cards/6001-6100.md#zhao26a-loss-functions) · Think in Latent, Explain in Language: Self-Explainable Latent Reasoning
 - [对已知依赖边直接加attentionmargin监督](../conferences/icml-2026/cards/6001-6100.md#zhao26h-loss-functions) · Syntax vs. Semantics: How Transformers Learn Deep Dependencies
+- [特权自蒸馏中裁剪词表贡献](../conferences/icml-2026/cards/6001-6100.md#zhao26be-loss-functions) · Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models
 
 <a id="by-computer-vision"></a>
 

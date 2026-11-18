@@ -135,6 +135,8 @@
 - [分开控制合成场景密度与边界细节](../conferences/icml-2026/cards/5701-5800.md#zhang26be-data-strategies) · What Makes Synthetic Data Effective in Image Segmentation
 - [混合点云预训练中的编码与缺失模态控制](../conferences/icml-2026/cards/5901-6000.md#zhang26gs-data-strategies) · Utonia: Toward One Encoder for All Point Clouds
 - [低置信伪标签的预测位移筛选](../conferences/icml-2026/cards/6001-6100.md#zhao26w-data-strategies) · Rethinking Low-Confidence Pseudo Labels: Influence-Aware Semi-Supervised Fine-Tuning for Hyperspectral Change Detection
+- [按评测先验审计3D pruning信号](../conferences/icml-2026/cards/6001-6100.md#zhao26ao-data-strategies) · Exploring 3D Dataset Pruning
+- [累计不确定性筛防御训练子集](../conferences/icml-2026/cards/6001-6100.md#zhao26ba-data-strategies) · Anti-Backdoor Coreset Selection via Cumulative Entropy
 
 <a id="by-nlp"></a>
 

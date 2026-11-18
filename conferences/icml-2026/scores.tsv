@@ -6050,26 +6050,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6049	zhao26al	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按跨seed双峰导致的表观能力跃迁，最近方法差异见baseline且待核；复用5：做能力scaling应在每scale报告多seed分布、成功比例和conditional score，而非只看单seed或众数；mode跃迁与首次出现成功seed的规模可不同，连续loss也可能双峰。 可用4受连续分布均值的平滑不保证所有scale函数光滑，有限seed不能确定最小可学容量；少数成功可能低概率optimization而非新算法。重置head与MMLU答案格式特殊，25%不等知识恢复，原base能力未恢复；任务/threshold20%选择、KDE带宽与固定训练预算限制待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
 6050	zhao26am	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按准确率上升时的推理一致性漂移，最近方法差异见baseline且待核；复用5：VLM RL评估应同时追踪clean accuracy、对误导context的鲁棒性、CoT与最终答案一致且正确比例，并跨seed；只加扰动数据或faithfulness reward未必同时改善三者。 可用4受trace正确/一致是外部可见代理，不认证模型内部因果faithfulness，改context也改变任务分布；closed/open差异不单独归因RL算法。faithfulness reward与augmentation可诱shortcut，须同时报clean/shift/consistency、judge可靠性和多seed，不能声称简单新reward彻底解决。 独特4暂定，全库替代性待统一核查；PDF第3/4/6/7/8/9页。	scored
 6051	zhao26an							初筛，原文与先例核查待补：现有PDF第3–4/6页为跨模态peer-review鲁棒性benchmark和known-pattern chunk embedding nearest retrieval识别注入。检索式prompt-injection defense与常用robustness测法成熟，实际visual成功定义部分为找对已知family/template而非review恢复；当前未分离新防御决策或有控制的新失效law，暂排，不整理攻击实现或payload。	rule-excluded
-6052	zhao26ao							待原文复核评分	pending
-6053	zhao26ap							待原文复核评分	pending
-6054	zhao26aq							待原文复核评分	pending
-6055	zhao26ar							待原文复核评分	pending
-6056	zhao26as							待原文复核评分	pending
-6057	zhao26at							待原文复核评分	pending
-6058	zhao26au							待原文复核评分	pending
-6059	zhao26av							待原文复核评分	pending
-6060	zhao26aw							待原文复核评分	pending
-6061	zhao26ax							待原文复核评分	pending
-6062	zhao26ay							待原文复核评分	pending
-6063	zhao26az							待原文复核评分	pending
-6064	zhao26ba							待原文复核评分	pending
-6065	zhao26bb							待原文复核评分	pending
-6066	zhao26bc							待原文复核评分	pending
-6067	zhao26bd							待原文复核评分	pending
-6068	zhao26be							待原文复核评分	pending
-6069	zhao26bf							待原文复核评分	pending
-6070	zhao26bg							待原文复核评分	pending
-6071	zhao26bh							待原文复核评分	pending
+6052	zhao26ao	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：点云剪枝同时报告OA与mAcc，先审计分数与类别频次的相关性；用几何embedding选择、每类少量seed后全局补齐，避免标量难度分数压垮尾类。；数值为特定类聚合统计，不证明所有点云/encoder泛用；KD权重不影响插值teacher的理想最优，不代表有限容量/实际训练对prior免疫，更不消除teacher偏差；预算要计teacher预训练。 PDF4,5,6,7页。	scored
+6053	zhao26ap	3	5	3	4	75		初筛，原文与先例核查待补：暂定新增3/复用5/使用3/独特4：将exact-k或range-k路由建模为受基数约束Bernoulli子集分布，forward采子集、backward通过其边缘概率作straight-through代理。；exact marginal不等于无偏task-loss梯度；文中log p微分表示是否实际用odds需核。Eq8涉及全部expert输出，dense router信号与宣称sparse expert execution如何兼容待核；仅选中专家forward时不能自动获得未选输出。 PDF4,5,6,7页。	scored
+6054	zhao26aq	3	4	3	4	69		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特4：judge ensemble有共同风格因子时，先分解sparse+low-rank依赖，再选近条件独立judge组做高阶矩估计；质量方向仍需显式破除对称而非无标签自动识别。；需稀疏/低秩可识别、非退化eigengap、三视图条件独立/满秩等；factor up-to-rotation/label与真质量不同，heuristic不提供语义保证；Gaussian likelihood用于binary标签为工作近似，非精确生成模型。 PDF3,4,5,6,7页。	scored
+6055	zhao26ar							初筛，原文与先例核查待补：同参数非因果teacher到causal student的sg forward-KL，是成熟LUPI/未来上下文蒸馏操作；Local teacher直接看target，Global teacher跨层target泄露需另核；仅新attention mask与4B-token得分不足独立机制。与6068基础自蒸馏重叠，后者仅另留词表项clipping候选。PDF4–5。	rule-excluded
+6056	zhao26as	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：抑制扩散模型训练样本复现时，先区分verbatim/template；按prompt的cross-attention spike选择干预token，避免把EOT一刀切策略用于两种记忆。；attention logit乘小于1只对正logit有直接降低效果，负logit会提高，公式非spike分支写法待核；正向预测不是可证安全图像；额外U-Net evaluations计入，SSCD阈值与选样不代表全分布隐私保证。 PDF3,4,5,6,7页。	scored
+6057	zhao26at	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：当可采用一维Laplace/加性核时，把固定dyadic inducing-span改写成每输入每层只激活一个局部基的坐标，再只采样/乘这些基的Bayesian权重。；依赖固定dyadic grid与Laplace/Markov或加性结构，不是任意核/高维full GP通用log M；所有M权重和KL训练存储不自动变log M；mean-field posterior仍近似，span精确改坐标不等于原无限维GP精确。 PDF3,4,5,6页。	scored
+6058	zhao26au							初筛，原文与先例核查待补：learnable多阶传播是已有polynomial graph filter，node consistency+hyperedge cross-correlation是普通跨视图/Barlow式目标；迁移hypergraph与heterophily任务不足独立通用新操作。PDF4–5。	rule-excluded
+6059	zhao26av	3	4	3	4	69		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特4：在可插值对角线性网络的infinitesimal-init gradient flow中，用初始化决定的正/负增长时间预测特征激活次序及最终加权非对称l1偏好。；需线性系统可解、每步唯一argmin/边界非零相关、深层每坐标唯一最小幅度层等；先t→∞再scale→0的极限次序重要；gradient flow与无穷小初始化不直接覆盖有限LR/Adam/一般Transformer。 PDF3,4,5,6页。	scored
+6060	zhao26aw	4	5	4	4	86		初筛，原文与先例核查待补：暂定新增4/复用5/使用4/独特4：agent记忆压缩后，分别做移除、空白、语义损坏、无关和filler控制；有记忆得分提高不等于模型忠实使用记忆内容。；移除/空白也改变长度、位置、格式；低干预敏感不证明完全忽略语义，任务prior可足够且不同干预可相互抵消；示例为已测框架，不泛称所有记忆压缩无效。 PDF3,4,5页。	scored
+6061	zhao26ax							初筛，原文与先例核查待补：SUSVIBES提供功能/安全双测试的新真实任务基准，功能正确≠安全为已知区分；当前缓存以成功率与普通提示策略为主，未给独立训练/推理操作或超出该基准的受控选择规律。PDF4–5及摘要。	rule-excluded
+6062	zhao26ay	4	5	4	4	86		初筛，原文与先例核查待补：暂定新增4/复用5/使用4/独特4：MoE压缩按元素区分共享幅度与各专家重要项，保存各自mask/sign；在允许的指数范围内将元数据嵌进位表示并在GEMM中解码，避免额外稀疏索引抵消存储收益。；限定可表示exponent区间的数值溢出/重编码损失需核；2×内存受限GEMM上限不等总模型2×；50% expert数与实际全模型字节压缩不同，mask/sign和routing、kernel资源成本需同口径计。 PDF4,5,6页。	scored
+6063	zhao26az	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：anchor低秩固定时，将两侧图扩散的resolvent similarity写为依当前cluster assignment构造的显式feature，再用Euclidean k-means避免N² kernel。；Z维度rc+c且r受anchor预算控制，anchor随N增加时不保证线性；Lloyd局部最优，无全局clustering恢复保证；resolvent偏好高特征值只在consensus对应更大eigenvalue时有意义，local contraction须gap/稳定假设。 PDF4,5,6页。	scored
+6064	zhao26ba	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：训练数据可能带后门时，比较跨epoch累计entropy与单epoch/累计margin/least-confidence；结合训练后对高不确定样本的防御性遗忘，提取高信息且较干净coreset。；依赖poison更快/更低不确定且较少的经验，adaptive或高entropy污染不保证可分；困难正常样本可能被误删/训练预算增加；coreset纯净与低ASR须分开测，不能由平均ASR推形式化安全。 PDF3,4,5,6页。	scored
+6065	zhao26bb							初筛，原文与先例核查待补：概念–rationale–问题三元数据与EM式交替训练、verifiable self-play和teacher SFT延续PromptCoT等成熟流程；当前缓存未体现独立生成目标或匹配预算的新难度/多样性规律，规模与分数本身不足。PDF4–5。	rule-excluded
+6066	zhao26bc							初筛，原文与先例核查待补：hyperbolic entailment cone层级prompt、跨模态attention和Fokker–Planck式时序演化为既有几何/时序组件在saliency统一建模的组合；16基准扩规模及总体加速未提供独立可复用新条件规律。PDF4及摘要。	rule-excluded
+6067	zhao26bd							初筛，原文与先例核查待补：VCLayer边约束、federated LoRA、MoE router与router preference DPO构成现成协作/联邦机制组合；data locality不等形式化privacy，现有workflow分数不足独立泛用操作，专用数据不作排除原因。PDF4–5。	rule-excluded
+6068	zhao26be	3	5	4	3	76		初筛，原文与先例核查待补：暂定新增3/复用5/使用4/独特3：用学生自身rollout上的特权上下文self-teacher分布做蒸馏时，对逐位置、逐词表项的divergence贡献设cap，检查少量风格token主导信号导致的collapse。；stop teacher/rollout梯度为semi-gradient，不是全部期望目标精确梯度；clip后的逐项和未必仍为合法divergence，f表示选择会改变cap行为；需有足够强的teacher自解释能力，最近self-distill clipping先例待核。 PDF4,5,6,8页。	scored
+6069	zhao26bf							初筛，原文与先例核查待补：可分离通用部分是权重扰动下平坦性与后续微调保留的既有联系；当前材料的主要额外操作服务于专用后门持久化，未见独立通用神经训练选择或新增防御控制规律。仅依摘要与高层结果范围判定，不声称所有专用细节既有。摘要/PDF6设置。	rule-excluded
+6070	zhao26bg							初筛，原文与先例核查待补：同标签语义近邻与图拓扑anchor给homogeneity、逐轮重估后加权CE，是成熟邻域一致性/噪声标签重加权在图上的配置；当前缓存未给不同于既有reliability weighting的新关系量或受控选型规律。PDF4–5。	rule-excluded
+6071	zhao26bh							初筛，原文与先例核查待补：局部WLS近似梯度、距离/时间权重、归一梯度加噪与NSGA-II/elite archive及agent调度，属于成熟代理优化/进化搜索组合；跨物理材料任务新应用与83.8%成功率不足独立可复用机制。PDF4–5。	rule-excluded
 6072	zhao26bi							待原文复核评分	pending
 6073	zhao26bj							待原文复核评分	pending
 6074	zhao26bk							待原文复核评分	pending

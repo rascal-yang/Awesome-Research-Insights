@@ -383,6 +383,7 @@
 - [用分布式请求检验并扩展输出多样性](../conferences/icml-2026/cards/5901-6000.md#zhang26hy-inference) · Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity
 - [批量页表提交支撑弹性连续张量](../conferences/icml-2026/cards/5901-6000.md#zhang26iu-inference) · CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization
 - [按验证需求路由judge推理](../conferences/icml-2026/cards/5901-6000.md#zhang26iv-inference) · Reasoning Is Not Free: Robust Adaptive Cost-Efficient Routing for LLM-as-a-Judge
+- [将专家稀疏合并的元数据打包入权重](../conferences/icml-2026/cards/6001-6100.md#zhao26ay-inference) · PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Fine-Grained Expert Merging and Bit-packed Inference
 
 <a id="by-computer-vision"></a>
 
@@ -525,6 +526,7 @@
 - [置信后缀驱动的块级推测验证](../conferences/icml-2026/cards/5801-5900.md#zhang26fd-inference) · SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation
 - [用频带过滤的glyph latent改善文字渲染](../conferences/icml-2026/cards/5901-6000.md#zhang26ge-inference) · FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection
 - [在相同预算下组合global与block低rank并调量化bits](../conferences/icml-2026/cards/5901-6000.md#zhang26hm-inference) · Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution
+- [按prompt注意力spike抑制记忆](../conferences/icml-2026/cards/6001-6100.md#zhao26as-inference) · You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models
 
 <a id="by-nlp"></a>
 

@@ -121,6 +121,7 @@
 - [沿prefix树DFS复用训练前反向计算](../conferences/icml-2026/cards/5901-6000.md#zhang26hr-optimization) · AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models
 - [在共享rank坐标的LoRA因子sketch上合并](../conferences/icml-2026/cards/5901-6000.md#zhang26hx-optimization) · Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms
 - [RLVR下拆开奇异方向与幅度](../conferences/icml-2026/cards/6001-6100.md#zhang26jm-optimization) · Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR
+- [约束子集概率的MoE路由代理](../conferences/icml-2026/cards/6001-6100.md#zhao26ap-optimization) · ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts
 
 <a id="by-computer-vision"></a>
 

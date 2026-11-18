@@ -390,6 +390,8 @@
 - <a id="zhang26be-data-strategies"></a>[What Makes Synthetic Data Effective in Image Segmentation](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26be)
 - <a id="zhang26gs-data-strategies"></a>[Utonia: Toward One Encoder for All Point Clouds](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gs)
 - <a id="zhao26w-data-strategies"></a>[Rethinking Low-Confidence Pseudo Labels: Influence-Aware Semi-Supervised Fine-Tuning for Hyperspectral Change Detection](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26w)
+- <a id="zhao26ao-data-strategies"></a>[Exploring 3D Dataset Pruning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ao)
+- <a id="zhao26ba-data-strategies"></a>[Anti-Backdoor Coreset Selection via Cumulative Entropy](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ba)
 
 <a id="by-inference"></a>
 
@@ -532,6 +534,7 @@
 - <a id="zhang26fd-inference"></a>[SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fd)
 - <a id="zhang26ge-inference"></a>[FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ge)
 - <a id="zhang26hm-inference"></a>[Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hm)
+- <a id="zhao26as-inference"></a>[You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26as)
 
 <a id="by-representation-learning"></a>
 

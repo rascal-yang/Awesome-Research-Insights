@@ -383,6 +383,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](../../conferences/icml-2026/cards/5901-6000.md#zhang26hy-inference) · 中文
 - [CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization](../../conferences/icml-2026/cards/5901-6000.md#zhang26iu-inference) · 中文
 - [Reasoning Is Not Free: Robust Adaptive Cost-Efficient Routing for LLM-as-a-Judge](../../conferences/icml-2026/cards/5901-6000.md#zhang26iv-inference) · 中文
+- [PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Fine-Grained Expert Merging and Bit-packed Inference](../../conferences/icml-2026/cards/6001-6100.md#zhao26ay-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -525,6 +526,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation](../../conferences/icml-2026/cards/5801-5900.md#zhang26fd-inference) · 中文
 - [FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection](../../conferences/icml-2026/cards/5901-6000.md#zhang26ge-inference) · 中文
 - [Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution](../../conferences/icml-2026/cards/5901-6000.md#zhang26hm-inference) · 中文
+- [You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26as-inference) · 中文
 
 <a id="by-nlp"></a>
 

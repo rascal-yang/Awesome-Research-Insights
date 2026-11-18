@@ -663,6 +663,7 @@
 - [检查多模型数据循环的curation交叉影响](../conferences/icml-2026/cards/5901-6000.md#zhang26gm-theory-statistics) · When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop
 - [离散RCT下结构响应曲线的策略学习](../conferences/icml-2026/cards/5901-6000.md#zhang26ie-theory-statistics) · Personalized Policy Learning through Discrete Experimentation
 - [依赖检验下边界发现的错误指标](../conferences/icml-2026/cards/5901-6000.md#zhang26iz-theory-statistics) · Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle
+- [初始化方向决定对角网络的有符号稀疏偏好](../conferences/icml-2026/cards/6001-6100.md#zhao26av-theory-statistics) · Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -382,6 +382,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](../../conferences/icml-2026/cards/5901-6000.md#zhang26jb-evaluation) · 中文
 - [LitReview Arena: Evaluating Literature Review Agents with Battle-style Peer Review Platform](../../conferences/icml-2026/cards/6001-6100.md#zhao26e-evaluation) · 中文
 - [Random Scaling of Emergent Capabilities](../../conferences/icml-2026/cards/6001-6100.md#zhao26al-evaluation) · 中文
+- [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](../../conferences/icml-2026/cards/6001-6100.md#zhao26aq-evaluation) · 中文
+- [Large Language Model Agents Are Not Always Faithful Self-Evolvers](../../conferences/icml-2026/cards/6001-6100.md#zhao26aw-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

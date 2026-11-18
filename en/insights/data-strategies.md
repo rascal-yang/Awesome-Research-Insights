@@ -135,6 +135,8 @@ Data selection, annotation, augmentation, and sampling.
 - [What Makes Synthetic Data Effective in Image Segmentation](../../conferences/icml-2026/cards/5701-5800.md#zhang26be-data-strategies) · 中文
 - [Utonia: Toward One Encoder for All Point Clouds](../../conferences/icml-2026/cards/5901-6000.md#zhang26gs-data-strategies) · 中文
 - [Rethinking Low-Confidence Pseudo Labels: Influence-Aware Semi-Supervised Fine-Tuning for Hyperspectral Change Detection](../../conferences/icml-2026/cards/6001-6100.md#zhao26w-data-strategies) · 中文
+- [Exploring 3D Dataset Pruning](../../conferences/icml-2026/cards/6001-6100.md#zhao26ao-data-strategies) · 中文
+- [Anti-Backdoor Coreset Selection via Cumulative Entropy](../../conferences/icml-2026/cards/6001-6100.md#zhao26ba-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

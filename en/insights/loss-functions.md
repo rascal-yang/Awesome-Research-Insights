@@ -74,6 +74,7 @@ Objectives, auxiliary supervision, and regularization.
 - [NITP: Next Implicit Token Prediction for LLM Pre-training](../../conferences/icml-2026/cards/5901-6000.md#zhang26ix-loss-functions) · 中文
 - [Think in Latent, Explain in Language: Self-Explainable Latent Reasoning](../../conferences/icml-2026/cards/6001-6100.md#zhao26a-loss-functions) · 中文
 - [Syntax vs. Semantics: How Transformers Learn Deep Dependencies](../../conferences/icml-2026/cards/6001-6100.md#zhao26h-loss-functions) · 中文
+- [Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26be-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

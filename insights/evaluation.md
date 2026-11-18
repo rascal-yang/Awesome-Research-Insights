@@ -382,6 +382,8 @@
 - [通信轮次下防御信号衰减](../conferences/icml-2026/cards/5901-6000.md#zhang26jb-evaluation) · When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems
 - [把judge一致性与专家综述质量判断分开校准](../conferences/icml-2026/cards/6001-6100.md#zhao26e-evaluation) · LitReview Arena: Evaluating Literature Review Agents with Battle-style Peer Review Platform
 - [跨seed双峰导致的表观能力跃迁](../conferences/icml-2026/cards/6001-6100.md#zhao26al-evaluation) · Random Scaling of Emergent Capabilities
+- [在相关judge中选条件独立视图](../conferences/icml-2026/cards/6001-6100.md#zhao26aq-evaluation) · CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
+- [分开审计原始轨迹和压缩经验](../conferences/icml-2026/cards/6001-6100.md#zhao26aw-evaluation) · Large Language Model Agents Are Not Always Faithful Self-Evolvers
 
 <a id="by-computer-vision"></a>
 

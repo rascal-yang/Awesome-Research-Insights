@@ -663,6 +663,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop](../../conferences/icml-2026/cards/5901-6000.md#zhang26gm-theory-statistics) · 中文
 - [Personalized Policy Learning through Discrete Experimentation](../../conferences/icml-2026/cards/5901-6000.md#zhang26ie-theory-statistics) · 中文
 - [Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle](../../conferences/icml-2026/cards/5901-6000.md#zhang26iz-theory-statistics) · 中文
+- [Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization](../../conferences/icml-2026/cards/6001-6100.md#zhao26av-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

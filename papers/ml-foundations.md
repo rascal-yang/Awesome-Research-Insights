@@ -152,6 +152,8 @@
 - <a id="yu26y-modules"></a>[Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames](../conferences/icml-2026/cards/5501-5600.md#paper-yu26y)
 - <a id="yuan26e-modules"></a>[Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26e)
 - <a id="zeng26r-modules"></a>[CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26r)
+- <a id="zhao26at-modules"></a>[SIKA-GP: Accelerating Gaussian Process Inference with Sparse Inducing Kernel Approximations for Bayesian Deep Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26at)
+- <a id="zhao26az-modules"></a>[Contractive Anchor Resolvent Diffusion for Incomplete Multi-View Clustering](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26az)
 
 <a id="by-loss-functions"></a>
 
@@ -1311,4 +1313,5 @@
 - <a id="zhang26gm-theory-statistics"></a>[When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gm)
 - <a id="zhang26ie-theory-statistics"></a>[Personalized Policy Learning through Discrete Experimentation](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ie)
 - <a id="zhang26iz-theory-statistics"></a>[Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iz)
+- <a id="zhao26av-theory-statistics"></a>[Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26av)
 <!-- classification:end -->
