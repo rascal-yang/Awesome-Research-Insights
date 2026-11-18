@@ -359,3 +359,48 @@ poster_id	novelty	reuse	usability	distinctness	evidence_scope	source	precedent	r
 152558	4	5	4	5	full_text_sections	https://arxiv.org/html/2505.16141v1	https://epubs.siam.org/doi/10.1137/1.9781611978971.170	利用决策条件校准将共同先验设定转为数据驱动模型；正文把接收方的最优响应及无交换遗憾作为适用假设。
 155303	4	5	4	4	abstract	https://openreview.net/forum?id=6afj7vl5xr	https://proceedings.mlr.press/v130/wang21b.html	Shapley Flow 已沿图分配贡献；此处以因果路径特定效应要求额外性质，匹配依赖可加可分。
 151379	4	5	5	4	full_text_sections	https://arxiv.org/html/2610.15428v1	https://proceedings.neurips.cc/paper_files/paper/2023/hash/fd489a44f3bcb9f122e4931ef21d0c43-Abstract.html	沿 CSRO 的编码框架，在任务潜变量外推时按解码器分歧做保守更新；正文含方向与权重消融。
+150371	4	5	4	4	author_fulltext_intro_results	https://arxiv.org/html/2610.21493	https://proceedings.mlr.press/v235/wu24i.html	U-Hop 已改善记忆检索。此作改能量核以保持固定点收敛及扩大实际容量，正文明确单步检索和均方误差门槛，适合比较不同成功定义。
+149119	4	4	3	4	author_abstract	https://arxiv.org/abs/2609.32319	https://arxiv.org/abs/2209.11895	归纳头先例强调层间位置传递。此作通过相空间升维让单层评分感知相邻位置关系，适合在干扰匹配下测试机制；广泛任务有效性待复核。
+148770	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2606.12058	https://arxiv.org/abs/2209.11895	先例已观察归纳头涌现。正文针对第一层复制子电路给贝叶斯序参量及数据量相变，并用常规 Adam 对照，可分离软最大归一化作用。
+155933	3	4	3	3	author_abstract	https://openreview.net/forum?id=1hm3CeFT8G	https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.034312	端口哈密顿先例已建模显式时变与损耗动态。此作移入惯性里程计，可按长轨迹漂移与局部速度误差分别验收；实证集中于飞行条件。
+154719	4	4	3	4	author_abstract	https://openreview.net/forum?id=BWHQemN2Xs	https://arxiv.org/abs/2505.21842	相关物理约束已求无限时域控制。本文仅给控制标签并加 HJB 残差，同时界定价值梯度和政策误差，可比较监督成本；保证条件待全文查证。
+148860	4	4	4	4	author_fulltext_method	https://arxiv.org/html/2605.20496	https://proceedings.mlr.press/v235/huh24a	Platonic 假说已讨论模型间共享几何。此作 独立学习各人脑空间后无配对估计正交旋转并同步，可用保距对照强对齐造成的假一致。
+156031	4	4	3	4	author_abstract	https://openreview.net/forum?id=10lTNbAX7p	https://www.nature.com/articles/s41592-020-01049-4	cryoDRGN 已用神经网络处理异质成像。本文以各图相对旋转等变的注意汇聚无序图像组，可按旋转变化核查几何表示；此处只评通用图像集合机制。
+151120	4	5	4	4	author_fulltext_intro_contributions	https://arxiv.org/html/2605.14297	https://arxiv.org/abs/1506.05254	随机计算图已有路径梯度和分数梯度的一般框架。HPO 按混合动作及不连续结构分派无偏估计，可单查连续支路信用和离散支路方差。
+149371	4	4	3	4	author_abstract	https://openreview.net/forum?id=qYhHysIvHY	https://arxiv.org/abs/2008.02217	现代 Hopfield 模型使用软最大式检索。此作让逆温度随编码精度而变，可在同记忆容量下对照固定温度的回忆误差；可辨识假设待复核。
+155272	4	4	4	4	author_fulltext_experiment_outline	https://arxiv.org/html/2611.09980	https://arxiv.org/abs/2308.09460	贝叶斯成像已有近端隐式加速。此作联合矩阵预条件与隐式中点，可用高斯精确性和非光滑后验偏差分别核查收益。
+150570	4	5	4	4	author_abstract	https://openreview.net/forum?id=hB5eZI6Iyp	https://arxiv.org/abs/2006.10742	Deep Bisimulation 已用度量保留控制信息。本文发现单样本平方目标把方差变成隐式雅可比正则，适合对照随机目标偏差造成的编码塌缩。
+154522	4	4	3	4	author_abstract	https://openreview.net/forum?id=CzBDTAXvts	https://www.math.ucdavis.edu/~saito/data/synchrosqueezing/takens_detect-strange-attractors-turbulence.pdf	动力系统重构已有用观测恢复潜几何的方法。此作按返回映射与返回时间比较递归结构，适合长滚动点对点匹配因发散失效时，用作统计验收。
+150891	4	5	4	4	author_fulltext_intro_related_work	https://arxiv.org/html/2605.08786	https://proceedings.mlr.press/v130/budhathoki21a.html	先例将分布变化归因给各生成机制。PRIM 在模拟先验上元学习并边缘化未知因果图，可用无现场拟合的快速归因对照逐案学习，需检查先验覆盖。
+152868	4	5	4	4	author_abstract	https://openreview.net/forum?id=PnhgpXd7Ru	https://arxiv.org/abs/2402.03300	GRPO 已用组相对优势训练语言模型。此作以自归一重要采样处理稳定性与目标偏离的交换，应在同 rollout 比较估计方差、偏差和回报；精确保证待查。
+151114	4	5	4	4	author_fulltext_problem_formulation	https://arxiv.org/html/2605.18537	https://arxiv.org/abs/2209.10652	叠加模型先例解释多概念共享维度。本文以可解码子空间检测连续概念流形，可用行为干预核验时间或空间方向，而非只报告线性可读性。
+148180	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=zhLmhEjDZ0		摘要将移动比较器及有限梯度预测器类放在单梯度反馈中，可按预测质量与目标变化分别评价遗憾。直接先例待核。
+153925	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2609.04134		§2–3。多层连续时间递推通过局部前瞻补偿层间积分延迟，可在相同累计历史下对照当前输入的相位延迟。直接先例待核。
+150538	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2611.11224	https://arxiv.org/abs/2004.13912	§2.1、§3–4。在可解释加性模型中明确引入交互阶数，再验证最小充分解释的复杂性，可按部署解释要求选择结构。
+150293	3	4	4	4	author_abstract_only	https://openreview.net/forum?id=jEjnEqI3Wg		摘要以距离剖面定义一般度量空间中的中心性，可直接对照只用坐标均值时无法处理的随机对象。直接先例待核。
+149032	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2605.10931		§2–3。低温和多词元极限下追踪深层注意力流的集中，可按温度和深度分开解释表示收缩。直接先例链接待核。
+149578	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2606.02055		§2–3.1。部分邻域可见时按查询预算刻画块结构恢复，可对照只测完整图时未见的可恢复性边界。直接先例链接待核。
+149377	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2605.11289	https://arxiv.org/abs/1707.06887	§3–4。在分布式价值表示上把平均回报下的共同平移划为一个等价类，可检查常规分布目标对任意偏置的敏感性。
+148272	4	4	4	4	author_full_text_sections	https://arxiv.org/abs/2605.11987		§3.1–3.3。以随机集合信念头保留节点证据冲突，可对照点概率输出在新结构上的过度自信。直接先例待核。
+154517	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2610.37682		§2.1–3.1。面向隐私保护时，按名次查看完整列表发布对顶部偏好及尾部信息的保留。直接先例链接待核。
+154790	4	4	4	4	author_full_text_sections	https://arxiv.org/abs/2505.13308	https://arxiv.org/abs/2412.06769	§2–2.1。Coconut 已探索连续潜推理。本文把实例级策略梯度放在测试时潜空间，可在相同预算对照训练期潜推理与测试期调整。
+155805	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=2kzyCdrkUn	https://arxiv.org/abs/1505.05116	经典 Wasserstein DRO 围绕最坏分布风险。本文从遗憾角度观察鲁棒回归，可对照两种目标对应的偏差与鲁棒半径选择。
+154871	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2605.10706	https://arxiv.org/abs/2104.09864	§3.1–3.2。RoFormer 是相对位置的相关结构先例。本条通过非均匀 FFT 支持可积三维位置调制，适合比较特定位置结构的扩展代价。
+153948	3	4	4	4	author_abstract_only	https://openreview.net/forum?id=HMFQMoCE5C		摘要着眼异质联邦视图的局部预测冲突。可先验收各视图置信校准再比较融合，直接先例链接待核。
+150681	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=gIGw6hwmJz	https://arxiv.org/abs/2309.10668	用模型编码数据已有先例。本文据摘要将数据编码长度作为模型可压缩性的量度，可对照参数码长无法反映数据依赖的问题。
+155194	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=7ZyMQkmbDz		摘要针对未标注与已标注分布不一致的半监督估计，可用覆盖性诊断比较不同未标注来源的加入收益。直接先例待核。
+150899	4	5	4	4	abstract	https://openreview.net/forum?id=ebPb7taENV	https://papers.nips.cc/paper_files/paper/2021/hash/d0921d442ee91b896ad95059d13df618-Abstract.html	算子学习已有注意力结构先例；本文检查深层谱塌缩并保留不同尺度的交互，八项 PDE 对照的具体配方待核。
+149206	4	5	5	4	full_text_sections	https://arxiv.org/html/2608.21308v1	https://proceedings.mlr.press/v267/sun25h.html	继承测试时更新隐状态，正文以块端核聚合保留词元级衰减与动量；相较块内均值有困惑度消融。
+151695	4	5	5	4	full_text_sections	https://arxiv.org/html/2603.28743v1	https://arxiv.org/abs/2410.01131	从 nGPT 球面归一化发展 MoE 粒度迁移；正文以门控及共享专家分项比较输出 RMS 与均衡。
+154686	4	5	4	5	full_text_sections	https://arxiv.org/html/2610.21262v1	https://proceedings.mlr.press/v247/li24b.html	比例弱标已有直接风险估计；正文用包标签计数恢复跨样本类别矩，适合对比仅匹配比例。
+150000	4	5	4	5	full_text_sections	https://arxiv.org/html/2610.03858v1	https://proceedings.iclr.cc/paper_files/paper/2026/hash/2c3d5a4eff20d24390a445762d61bfbb-Abstract-Conference.html	将 MesaNet 式检索更新推至可生长网络和固定网络优化器，正文仍需区分任务内增长与通用规模泛化。
+150362	4	4	4	4	abstract	https://openreview.net/forum?id=idM55TPMck	https://proceedings.mlr.press/v80/lehtinen18a.html	无干净靶图的恢复已有；本文反向以天文噪声为预测对象，将可获观测几何与污染建模结合，限有相关物理元数据。
+150638	4	5	4	4	abstract	https://openreview.net/forum?id=gbYg6VGblU	https://arxiv.org/abs/2505.05470	Flow-GRPO 表明流模型可沿原生过程后训练；本篇再按生成分支分别定义更新与控制预算，跨分支指标对齐待核。
+151660	4	5	4	4	full_text_sections	https://arxiv.org/html/2509.25713v1	https://proceedings.iclr.cc/paper_files/paper/2026/hash/2030d35841f8617ab22cca913f55697e-Abstract-Conference.html	已有无平衡运输用于动态流匹配；本文重加权对冲无标签尾部稀缺，需同时检查平衡数据表现。
+149585	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.01868v1	https://arxiv.org/abs/1905.03222	在分位共形基础上用分支流修正校验与测试分布；正文给条件覆盖下界而非一般精确条件保证。
+149349	4	5	4	4	full_text_sections	https://arxiv.org/html/2610.07485v1	https://research.utwente.nl/en/publications/a-tutorial-on-the-cross-entropy-method/	与交叉熵重要性采样比较约束混合提议；正文包括高维及图像模型损失事件，需分验估计偏差和成本。
+150781	4	4	4	4	abstract	https://openreview.net/forum?id=fRlRq8PSjh	https://proceedings.neurips.cc/paper_files/paper/2022/hash/ded98d28f82342a39f371c013dfb3058-Abstract-Conference.html	潜空间 BO 先例围绕局部可信区域搜索；本文边缘化潜不确定性并用协方差引导采集，需校验潜空间错配。
+154554	4	5	4	4	full_text_sections	https://arxiv.org/html/2610.00715v1	https://proceedings.mlr.press/v235/munos24a.html	Nash 对齐已有两两偏好博弈；正文进一步纳入偏好不确定并说明对偶间隙验收。
+155571	4	4	4	4	full_text_sections	https://arxiv.org/html/2508.01925v1	https://arxiv.org/abs/2307.07832	先例通过图数据增强缓解解释偏移，本文对软掩码构建代理，正文表格显示可结合多种解释器。
+151948	4	5	5	4	full_text_sections	https://arxiv.org/html/2606.17584v1	https://proceedings.mlr.press/v267/wang25ce.html	已有整流流反演，正文按轨迹直线度选择不动点根，并验证代理下降伴随实际轨迹偏差降低。
+155479	4	5	4	4	abstract	https://openreview.net/forum?id=5HOe7v27vl	https://proceedings.mlr.press/v37/sui15.html	在高斯过程安全探索之外加入对后续可行状态的保证；可将当步安全与长时死路分验。
