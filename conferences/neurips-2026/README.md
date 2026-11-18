@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **689** 篇，暂收录 **614** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **749** 篇，暂收录 **668** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -622,3 +622,57 @@
 | 学习理论 | 推理复杂度 | [A Tight Hierarchy For Chain of Thought](cards.md#paper-152637) | 把思维链步数当独立资源量 |
 | 具身智能 | 预测对齐 | [ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection](cards.md#paper-152880) | 先对齐未来观测和动作，再用动作目标控制注入 |
 | 科学机器学习 | 时序对齐 | [ATLAS: Adaptive Temporal Learning for Single-Cell Multi-Omics Alignment and Dynamics](cards.md#paper-152422) | 对稀疏配对的异步观测学习时滞，并按可靠性蒸馏 |
+| 多模态 | 功能 token | [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](cards-0002.md#paper-155024) | 把视觉操作编码成共享的离散词元 |
+| 图学习 | 跨域表示 | [AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas](cards-0002.md#paper-150816) | 用关系图谱补充局部采样 |
+| 视频生成 | 多尺度生成 | [AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling](cards-0002.md#paper-150426) | 先规划低分辨率全局视频再细化 |
+| 科学机器学习 | 可验证奖励 | [AtmoZero: Self-Play Post-Training for Caption-Free Weather Time-Series Captioning](cards-0002.md#paper-152217) | 用观测证据反驳不实描述 |
+| 科学机器学习 | 材料模拟 | [AtomMOF: All-Atom Flow Matching for MOF-Adsorbate Structure Prediction](cards-0002.md#paper-149909) | 对比联合柔性建模与刚性宿主假设 |
+| 算法 | 近似聚类 | [Atoms and Pivot Based Correlation Clustering](cards-0002.md#paper-153440) | 识别不应拆分的顶点组再执行 pivot |
+| 科学机器学习 | 时序记忆 | [AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution](cards-0002.md#paper-155270) | 用历史恢复瞬时晶体快照遗漏的状态 |
+| 图学习 | 拓扑预测 | [A Topological Encoder Decoder Framework for Temporal Graph Learning](cards-0002.md#paper-151161) | 先预测未来拓扑再生成节点及边 |
+| 因果推断 | 基准诊断 | [A Topological Sorting Criterion for Random Causal Directed Acyclic Graphs](cards-0002.md#paper-154767) | 检查随机因果图能否由亲缘计数轻易排序 |
+| 多模态 | 提示选择 | [A Training-Free Video Moment Retrieval Framework via Selection from Multiple Visual Prompts](cards-0002.md#paper-149512) | 分别运行提示并保留原始预测作为候选 |
+| 数值优化 | 预条件 | [A Transformer-Derived Iterative Preconditioner](cards-0002.md#paper-153148) | 从模型发现迭代式预条件，再写成独立算法 |
+| 概率建模 | 信赖域 | [A Trust Region Approach for Learning Schrödinger Bridges](cards-0002.md#paper-149517) | 目标仅有非归一密度时约束桥接迭代步幅 |
+| 图优化 | 投影加速 | [AT-SKM-Net: An Accelerated Trainable Sampling Kaczmarz-Motzkin Framework for Linear Hard-Constraint Feasibility on Dynamic Graphs](cards-0002.md#paper-149152) | 在动态硬约束中复用低秩分解更新 |
+| 视觉学习 | 特征提取 | [Attending on Attention ($A^2$): Smaller Self-Supervised ViTs Localize Better Than Larger Ones](cards-0002.md#paper-154201) | 小模型负责定位、大模型负责局部嵌入 |
+| 视频生成 | 流式记忆 | [Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion](cards-0002.md#paper-154730) | 在帧内保留 softmax，跨帧使用固定状态 |
+| 多模态 | 人类注视对照 | [Attention Alignment Between Humans and Vision-Language Models](cards-0002.md#paper-155371) | 分开检查编码器与解码器对注意力匹配的影响 |
+| 学习理论 | 经验贝叶斯 | [Attention as In-Context Empirical Bayes: A Two-Stage View via Particle Dynamics](cards-0002.md#paper-149497) | 分开调节上下文精炼深度和原始查询保留。 |
+| 学习理论 | 谱估计 | [Attention-based PCA](cards-0002.md#paper-154448) | 将上下文主方向恢复用于诊断注意力表示。 |
+| 因果学习 | 摊销推断 | [Attention-Based Pretraining for Unsupervised Amortized Causal Discovery](cards-0002.md#paper-153811) | 多个域共享图结构求解器。 |
+| 科学机器学习 | 多模态路由 | [Attention-based Routing for Interpretable Multimodal Brain Encoding](cards-0002.md#paper-152519) | 用脑区查询替代全局静态融合。 |
+| 大语言模型 | 扩散采样 | [Attention-Based Sampler for Diffusion Language Models](cards-0002.md#paper-149963) | 按注意力列和排序解掩码位置。 |
+| 神经符号学习 | 软约束 | [Attention-Based Soft Answer Sets](cards-0002.md#paper-151077) | 将离散求解替换为可微不动点残差。 |
+| 大语言模型 | 并行解码 | [Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](cards-0002.md#paper-150267) | 对依赖已选低置信位置的候选打软折扣。 |
+| 大语言模型 | 推测解码 | [Attention Drift: What Auto-Regressive Speculative Decoding Models Learn](cards-0002.md#paper-152952) | 按草稿深度监控状态范数并加归一化。 |
+| 多模态学习 | 视觉定位 | [Attention Heads are Complementary Visual Units: Mitigating Hallucinations in LVLMs via Adaptive Visual Cues Focusing](cards-0002.md#paper-149428) | 保留各注意头独有的视觉证据。 |
+| 大语言模型 | 路由压缩 | [Attention Is More Than You Need: Spectral Redundancy in Multi-Head Routing](cards-0002.md#paper-155116) | 分别测共享 KV 与实际路由谱冗余。 |
+| 计算机视觉 | 流式重建 | [Attention Itself Could Retrieve. RetrieveVGGT: Training-Free Long Context Streaming 3D Reconstruction via Query-Key Similarity Retrieval](cards-0002.md#paper-150300) | 用早层查询键相似度选取固定数量历史帧。 |
+| 大语言模型 | 量化稳定性 | [Attention Sinks and Outliers in Attention Residuals](cards-0002.md#paper-148314) | 允许跨层路由显式表达空选择。 |
+| 可解释性 | 谱诊断 | [Attention Sinks as Spectral Spikes: A Mechanism Analysis of Gated Attention](cards-0002.md#paper-153587) | 按谱和梯度两条路径检验注意力门控。 |
+| 可解释性 | 梯度诊断 | [Attention Sinks Induce Gradient Sinks: Massive Activations as Gradient Regulators in Transformers](cards-0002.md#paper-151217) | 用值路径梯度干预区分汇聚和大激活。 |
+| 强化学习 | 训练诊断 | [Attention Trajectories as a Diagnostic Axis for Deep Reinforcement Learning](cards-0002.md#paper-156756) | 按对象和模态追踪显著性轨迹。 |
+| 计算机视觉 | 注意力蒸馏 | [Attention Transfer Is Not Universally Effective for Vision Transformers](cards-0002.md#paper-156052) | 跨教师家族前先验证学生架构兼容。 |
+| 模型审计 | 来源验证 | [AttnDiff: Attention-based Differential Fingerprinting for Large Language Models](cards-0002.md#paper-151981) | 用差分行为表征交叉验证模型谱系。 |
+| 学习理论 | 鲁棒学习 | [Attribute-Efficient Learning of Sparse Halfspaces with Constant Malicious Noise Rate](cards-0002.md#paper-153863) | 稀疏分类遇固定比例污染时按有效维数估算数据。 |
+| 高效推理 | 早退出 | [Attribution-Guided Exit Policy for Reliable Early-Exit Inference](cards-0002.md#paper-152941) | 把跨层归因稳定性作为置信度的补充。 |
+| 多模态学习 | 表征对齐 | [Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning](cards-0002.md#paper-150554) | 用跨模态相关片段监督共享特征。 |
+| 可解释性 | 二阶归因 | [Attributions All the Way Down? The Metagame of Interpretability](cards-0002.md#paper-148384) | 分开测特征对输出和对彼此归因的影响。 |
+| 联邦学习 | 张量语言 | [A typed tensor language for federated learning](cards-0002.md#paper-150243) | 先检查分布式计算能否表示成固定共享状态。 |
+| 强化学习 | 多目标调度 | [Auction-Based Online Policy Adaptation for Evolving Objectives](cards-0002.md#paper-153035) | 为运行期出现或消失的目标动态插拔局部策略。 |
+| 多模态学习 | 空间音频 | [Audible World Models: Spatially Aware Sound Generation for 3D Worlds](cards-0002.md#paper-154507) | 把声源附着到三维几何，再按听者位置渲染。 |
+| 语音 Agent | 故障归因 | [AudioAgentBench: Evaluating Multi-Turn Voice Agents on Real-World Tasks](cards-0002.md#paper-139120) | 按回合定位第一次失误并避免重复扣分。 |
+| 音频生成 | 条件路由 | [AudioCALM: Continuous Autoregressive Language Modeling for Universal Audio Generation](cards-0002.md#paper-149240) | 共享音效和音乐模型，并为语音保留独立残差。 |
+| 音频学习 | 压缩表征 | [AudioGS: High-Fidelity Neural Audio Compression via Continuous Gaussian Splatting](cards-0002.md#paper-149852) | 用可渲染基元分解代替训练期码本量化。 |
+| 音频学习 | 自监督表征 | [AudioSphere: Towards Self-Supervised Spatial Audio Representation Models](cards-0002.md#paper-151452) | 掩码重建时同时恢复频谱与方向线索。 |
+| 多模态学习 | 时序推理 | [Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos](cards-0002.md#paper-153983) | 用时间戳连接长视频的中间音视频证据。 |
+| 科学评测 | 错误诊断 | [Auditing AI peer reviewers: a dose-response and false-positive benchmark on real scientific papers](cards-0002.md#paper-152885) | 用严重度梯度和误报率联合评估自动审稿。 |
+| 可靠性 | 分布外诊断 | [Auditing Attention Head Masking for Out-of-Distribution Detection: Cross-Architecture Wins, Failures, and Polarity Inversions](cards-0002.md#paper-139256) | 先检查异常分数方向再跨骨干部署。 |
+| 医学影像 | 数据审计 | [Auditing Capsule Vision 2024: Within-Split Train-to-Validation Re-Exposure and a Kvasir-Channel Sensitivity Diagnostic](cards-0002.md#paper-139763) | 对视频帧基准按来源视频溯源去重。 |
+| 学习理论 | 复现诊断 | [Auditing Closed-Loop Learning in Recurrent Neural Networks: Reproduction, Robustness, and Generalization](cards-0002.md#paper-157025) | 分别衡量闭环训练中的短暂损失峰、最终损失和耦合稳定性。 |
+| 统计学习 | 共形校准 | [Auditing Conformal Prediction for Language Models Under Inference-Time Model Shift](cards-0002.md#paper-138875) | 按真实量化与温度配置做覆盖验收。 |
+| 医学影像 | 集成诊断 | [Auditing Correlated Failures in Frozen-Feature Pretrained-Encoder Pools for Medical Segmentation](cards-0002.md#paper-138982) | 用病例级误差相关检查骨干是否真的互补。 |
+| 多语言学习 | 水印评测 | [Auditing Cross-Lingual Fairness in Language Model Watermarking](cards-0002.md#paper-138923) | 对不同语言分别校准阈值并测阈值无关区分度。 |
+| 科研计量 | 证据审计 | [Auditing Evidence Framing at NeurIPS: A Decade-Scale Study of Accepted Papers](cards-0002.md#paper-139236) | 对会议证据风格的时间趋势按主题调整。 |
+| 隐私评测 | 表征审计 | [Auditing Privacy Leakage in Tabular Foundation Model Embeddings](cards-0002.md#paper-149397) | 共享嵌入前评估辅助信息存在时的联合泄漏。 |

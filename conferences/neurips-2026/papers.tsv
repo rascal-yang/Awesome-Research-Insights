@@ -640,66 +640,66 @@ poster_id	title	paper_url	status	reason
 152637	A Tight Hierarchy For Chain of Thought	https://neurips.cc/virtual/2026/poster/152637	included	把思维链步数当独立资源量
 152880	ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection	https://neurips.cc/virtual/2026/poster/152880	included	先对齐未来观测和动作，再用动作目标控制注入
 152422	ATLAS: Adaptive Temporal Learning for Single-Cell Multi-Omics Alignment and Dynamics	https://neurips.cc/virtual/2026/poster/152422	included	对稀疏配对的异步观测学习时滞，并按可靠性蒸馏
-155024	ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both	https://neurips.cc/virtual/2026/poster/155024	pending	-
-150816	AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas	https://neurips.cc/virtual/2026/poster/150816	pending	-
-150426	AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling	https://neurips.cc/virtual/2026/poster/150426	pending	-
-152217	AtmoZero: Self-Play Post-Training for Caption-Free Weather Time-Series Captioning	https://neurips.cc/virtual/2026/poster/152217	pending	-
-153486	Atomic Trajectory Modeling with State Space Models for Biomolecular Dynamics	https://neurips.cc/virtual/2026/poster/153486	pending	-
-150323	Atom-level Protein Representation Learning Improves Protein Structure Prediction	https://neurips.cc/virtual/2026/poster/150323	pending	-
-149909	AtomMOF: All-Atom Flow Matching for MOF-Adsorbate Structure Prediction	https://neurips.cc/virtual/2026/poster/149909	pending	-
-153440	Atoms and Pivot Based Correlation Clustering	https://neurips.cc/virtual/2026/poster/153440	pending	-
-155270	AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution	https://neurips.cc/virtual/2026/poster/155270	pending	-
-151161	A Topological Encoder Decoder Framework for Temporal Graph Learning	https://neurips.cc/virtual/2026/poster/151161	pending	-
-154767	A Topological Sorting Criterion for Random Causal Directed Acyclic Graphs	https://neurips.cc/virtual/2026/poster/154767	pending	-
-149512	A Training-Free Video Moment Retrieval Framework via Selection from Multiple Visual Prompts	https://neurips.cc/virtual/2026/poster/149512	pending	-
-153148	A Transformer-Derived Iterative Preconditioner	https://neurips.cc/virtual/2026/poster/153148	pending	-
-149517	A Trust Region Approach for Learning Schrödinger Bridges	https://neurips.cc/virtual/2026/poster/149517	pending	-
-149152	AT-SKM-Net: An Accelerated Trainable Sampling Kaczmarz-Motzkin Framework for Linear Hard-Constraint Feasibility on Dynamic Graphs	https://neurips.cc/virtual/2026/poster/149152	pending	-
-153756	Attack-Inference Aligned Universal Adversarial Attacks on Video Object Segmentation	https://neurips.cc/virtual/2026/poster/153756	pending	-
-139201	Attack Selection In Agentic AI Control Evaluations Meaningfully Decreases Safety	https://neurips.cc/virtual/2026/poster/139201	pending	-
-154201	Attending on Attention ($A^2$): Smaller Self-Supervised ViTs Localize Better Than Larger Ones	https://neurips.cc/virtual/2026/poster/154201	pending	-
-154730	Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/154730	pending	-
-155371	Attention Alignment Between Humans and Vision-Language Models	https://neurips.cc/virtual/2026/poster/155371	pending	-
-149497	Attention as In-Context Empirical Bayes: A Two-Stage View via Particle Dynamics	https://neurips.cc/virtual/2026/poster/149497	pending	-
-154448	Attention-based PCA	https://neurips.cc/virtual/2026/poster/154448	pending	-
-153811	Attention-Based Pretraining for Unsupervised Amortized Causal Discovery	https://neurips.cc/virtual/2026/poster/153811	pending	-
-152519	Attention-based Routing for Interpretable Multimodal Brain Encoding	https://neurips.cc/virtual/2026/poster/152519	pending	-
-149963	Attention-Based Sampler for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/149963	pending	-
-151077	Attention-Based Soft Answer Sets	https://neurips.cc/virtual/2026/poster/151077	pending	-
-150267	Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models	https://neurips.cc/virtual/2026/poster/150267	pending	-
-152952	Attention Drift: What Auto-Regressive Speculative Decoding Models Learn	https://neurips.cc/virtual/2026/poster/152952	pending	-
-149428	Attention Heads are Complementary Visual Units: Mitigating Hallucinations in LVLMs via Adaptive Visual Cues Focusing	https://neurips.cc/virtual/2026/poster/149428	pending	-
-155116	Attention Is More Than You Need: Spectral Redundancy in Multi-Head Routing	https://neurips.cc/virtual/2026/poster/155116	pending	-
-150300	Attention Itself Could Retrieve. RetrieveVGGT: Training-Free Long Context Streaming 3D Reconstruction via Query-Key Similarity Retrieval	https://neurips.cc/virtual/2026/poster/150300	pending	-
-148314	Attention Sinks and Outliers in Attention Residuals	https://neurips.cc/virtual/2026/poster/148314	pending	-
-153587	Attention Sinks as Spectral Spikes: A Mechanism Analysis of Gated Attention	https://neurips.cc/virtual/2026/poster/153587	pending	-
-151217	Attention Sinks Induce Gradient Sinks: Massive Activations as Gradient Regulators in Transformers	https://neurips.cc/virtual/2026/poster/151217	pending	-
-156756	Attention Trajectories as a Diagnostic Axis for Deep Reinforcement Learning	https://neurips.cc/virtual/2026/poster/156756	pending	-
-156052	Attention Transfer Is Not Universally Effective for Vision Transformers	https://neurips.cc/virtual/2026/poster/156052	pending	-
-151981	AttnDiff: Attention-based Differential Fingerprinting for Large Language Models	https://neurips.cc/virtual/2026/poster/151981	pending	-
-153863	Attribute-Efficient Learning of Sparse Halfspaces with Constant Malicious Noise Rate	https://neurips.cc/virtual/2026/poster/153863	pending	-
-152941	Attribution-Guided Exit Policy for Reliable Early-Exit Inference	https://neurips.cc/virtual/2026/poster/152941	pending	-
-150554	Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning	https://neurips.cc/virtual/2026/poster/150554	pending	-
-148384	Attributions All the Way Down? The Metagame of Interpretability	https://neurips.cc/virtual/2026/poster/148384	pending	-
-150243	A typed tensor language for federated learning	https://neurips.cc/virtual/2026/poster/150243	pending	-
-153035	Auction-Based Online Policy Adaptation for Evolving Objectives	https://neurips.cc/virtual/2026/poster/153035	pending	-
-154507	Audible World Models: Spatially Aware Sound Generation for 3D Worlds	https://neurips.cc/virtual/2026/poster/154507	pending	-
-139120	AudioAgentBench: Evaluating Multi-Turn Voice Agents on Real-World Tasks	https://neurips.cc/virtual/2026/poster/139120	pending	-
-149240	AudioCALM: Continuous Autoregressive Language Modeling for Universal Audio Generation	https://neurips.cc/virtual/2026/poster/149240	pending	-
-149852	AudioGS: High-Fidelity Neural Audio Compression via Continuous Gaussian Splatting	https://neurips.cc/virtual/2026/poster/149852	pending	-
-151452	AudioSphere: Towards Self-Supervised Spatial Audio Representation Models	https://neurips.cc/virtual/2026/poster/151452	pending	-
-153983	Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos	https://neurips.cc/virtual/2026/poster/153983	pending	-
-152885	Auditing AI peer reviewers: a dose-response and false-positive benchmark on real scientific papers	https://neurips.cc/virtual/2026/poster/152885	pending	-
-139256	Auditing Attention Head Masking for Out-of-Distribution Detection: Cross-Architecture Wins, Failures, and Polarity Inversions	https://neurips.cc/virtual/2026/poster/139256	pending	-
-139763	Auditing Capsule Vision 2024: Within-Split Train-to-Validation Re-Exposure and a Kvasir-Channel Sensitivity Diagnostic	https://neurips.cc/virtual/2026/poster/139763	pending	-
-157025	Auditing Closed-Loop Learning in Recurrent Neural Networks: Reproduction, Robustness, and Generalization	https://neurips.cc/virtual/2026/poster/157025	pending	-
-138875	Auditing Conformal Prediction for Language Models Under Inference-Time Model Shift	https://neurips.cc/virtual/2026/poster/138875	pending	-
-138982	Auditing Correlated Failures in Frozen-Feature Pretrained-Encoder Pools for Medical Segmentation	https://neurips.cc/virtual/2026/poster/138982	pending	-
-138923	Auditing Cross-Lingual Fairness in Language Model Watermarking	https://neurips.cc/virtual/2026/poster/138923	pending	-
-139236	Auditing Evidence Framing at NeurIPS: A Decade-Scale Study of Accepted Papers	https://neurips.cc/virtual/2026/poster/139236	pending	-
-155145	Auditing Instruction Robustness in Vision-Language-Action Models via Diversity-Aware Red Teaming	https://neurips.cc/virtual/2026/poster/155145	pending	-
-140075	Auditing is not Evaluating: LLM Audit Requires Dynamic, Contextual, Budget-aware and Reliable Evidence	https://neurips.cc/virtual/2026/poster/140075	pending	-
-149397	Auditing Privacy Leakage in Tabular Foundation Model Embeddings	https://neurips.cc/virtual/2026/poster/149397	pending	-
+155024	ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both	https://neurips.cc/virtual/2026/poster/155024	included	把视觉操作编码成共享的离散词元
+150816	AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas	https://neurips.cc/virtual/2026/poster/150816	included	用关系图谱补充局部采样
+150426	AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling	https://neurips.cc/virtual/2026/poster/150426	included	先规划低分辨率全局视频再细化
+152217	AtmoZero: Self-Play Post-Training for Caption-Free Weather Time-Series Captioning	https://neurips.cc/virtual/2026/poster/152217	included	用观测证据反驳不实描述
+153486	Atomic Trajectory Modeling with State Space Models for Biomolecular Dynamics	https://neurips.cc/virtual/2026/poster/153486	excluded	贡献集中于生物分子动力学生成，当前未提取可独立适用的非生物机制。
+150323	Atom-level Protein Representation Learning Improves Protein Structure Prediction	https://neurips.cc/virtual/2026/poster/150323	excluded	贡献集中于蛋白构象和相互作用预测，当前未提取可独立适用的非生物机制。
+149909	AtomMOF: All-Atom Flow Matching for MOF-Adsorbate Structure Prediction	https://neurips.cc/virtual/2026/poster/149909	included	对比联合柔性建模与刚性宿主假设
+153440	Atoms and Pivot Based Correlation Clustering	https://neurips.cc/virtual/2026/poster/153440	included	识别不应拆分的顶点组再执行 pivot
+155270	AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution	https://neurips.cc/virtual/2026/poster/155270	included	用历史恢复瞬时晶体快照遗漏的状态
+151161	A Topological Encoder Decoder Framework for Temporal Graph Learning	https://neurips.cc/virtual/2026/poster/151161	included	先预测未来拓扑再生成节点及边
+154767	A Topological Sorting Criterion for Random Causal Directed Acyclic Graphs	https://neurips.cc/virtual/2026/poster/154767	included	检查随机因果图能否由亲缘计数轻易排序
+149512	A Training-Free Video Moment Retrieval Framework via Selection from Multiple Visual Prompts	https://neurips.cc/virtual/2026/poster/149512	included	分别运行提示并保留原始预测作为候选
+153148	A Transformer-Derived Iterative Preconditioner	https://neurips.cc/virtual/2026/poster/153148	included	从模型发现迭代式预条件，再写成独立算法
+149517	A Trust Region Approach for Learning Schrödinger Bridges	https://neurips.cc/virtual/2026/poster/149517	included	目标仅有非归一密度时约束桥接迭代步幅
+149152	AT-SKM-Net: An Accelerated Trainable Sampling Kaczmarz-Motzkin Framework for Linear Hard-Constraint Feasibility on Dynamic Graphs	https://neurips.cc/virtual/2026/poster/149152	included	在动态硬约束中复用低秩分解更新
+153756	Attack-Inference Aligned Universal Adversarial Attacks on Video Object Segmentation	https://neurips.cc/virtual/2026/poster/153756	excluded	主要贡献为破坏视频分割的攻击方法，未提供独立的防护机制。
+139201	Attack Selection In Agentic AI Control Evaluations Meaningfully Decreases Safety	https://neurips.cc/virtual/2026/poster/139201	excluded	主要贡献为攻防评测中的攻击能力扩展，当前未提取可独立复用的防护方案。
+154201	Attending on Attention ($A^2$): Smaller Self-Supervised ViTs Localize Better Than Larger Ones	https://neurips.cc/virtual/2026/poster/154201	included	小模型负责定位、大模型负责局部嵌入
+154730	Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/154730	included	在帧内保留 softmax，跨帧使用固定状态
+155371	Attention Alignment Between Humans and Vision-Language Models	https://neurips.cc/virtual/2026/poster/155371	included	分开检查编码器与解码器对注意力匹配的影响
+149497	Attention as In-Context Empirical Bayes: A Two-Stage View via Particle Dynamics	https://neurips.cc/virtual/2026/poster/149497	included	分开调节上下文精炼深度和原始查询保留。
+154448	Attention-based PCA	https://neurips.cc/virtual/2026/poster/154448	included	将上下文主方向恢复用于诊断注意力表示。
+153811	Attention-Based Pretraining for Unsupervised Amortized Causal Discovery	https://neurips.cc/virtual/2026/poster/153811	included	多个域共享图结构求解器。
+152519	Attention-based Routing for Interpretable Multimodal Brain Encoding	https://neurips.cc/virtual/2026/poster/152519	included	用脑区查询替代全局静态融合。
+149963	Attention-Based Sampler for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/149963	included	按注意力列和排序解掩码位置。
+151077	Attention-Based Soft Answer Sets	https://neurips.cc/virtual/2026/poster/151077	included	将离散求解替换为可微不动点残差。
+150267	Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models	https://neurips.cc/virtual/2026/poster/150267	included	对依赖已选低置信位置的候选打软折扣。
+152952	Attention Drift: What Auto-Regressive Speculative Decoding Models Learn	https://neurips.cc/virtual/2026/poster/152952	included	按草稿深度监控状态范数并加归一化。
+149428	Attention Heads are Complementary Visual Units: Mitigating Hallucinations in LVLMs via Adaptive Visual Cues Focusing	https://neurips.cc/virtual/2026/poster/149428	included	保留各注意头独有的视觉证据。
+155116	Attention Is More Than You Need: Spectral Redundancy in Multi-Head Routing	https://neurips.cc/virtual/2026/poster/155116	included	分别测共享 KV 与实际路由谱冗余。
+150300	Attention Itself Could Retrieve. RetrieveVGGT: Training-Free Long Context Streaming 3D Reconstruction via Query-Key Similarity Retrieval	https://neurips.cc/virtual/2026/poster/150300	included	用早层查询键相似度选取固定数量历史帧。
+148314	Attention Sinks and Outliers in Attention Residuals	https://neurips.cc/virtual/2026/poster/148314	included	允许跨层路由显式表达空选择。
+153587	Attention Sinks as Spectral Spikes: A Mechanism Analysis of Gated Attention	https://neurips.cc/virtual/2026/poster/153587	included	按谱和梯度两条路径检验注意力门控。
+151217	Attention Sinks Induce Gradient Sinks: Massive Activations as Gradient Regulators in Transformers	https://neurips.cc/virtual/2026/poster/151217	included	用值路径梯度干预区分汇聚和大激活。
+156756	Attention Trajectories as a Diagnostic Axis for Deep Reinforcement Learning	https://neurips.cc/virtual/2026/poster/156756	included	按对象和模态追踪显著性轨迹。
+156052	Attention Transfer Is Not Universally Effective for Vision Transformers	https://neurips.cc/virtual/2026/poster/156052	included	跨教师家族前先验证学生架构兼容。
+151981	AttnDiff: Attention-based Differential Fingerprinting for Large Language Models	https://neurips.cc/virtual/2026/poster/151981	included	用差分行为表征交叉验证模型谱系。
+153863	Attribute-Efficient Learning of Sparse Halfspaces with Constant Malicious Noise Rate	https://neurips.cc/virtual/2026/poster/153863	included	稀疏分类遇固定比例污染时按有效维数估算数据。
+152941	Attribution-Guided Exit Policy for Reliable Early-Exit Inference	https://neurips.cc/virtual/2026/poster/152941	included	把跨层归因稳定性作为置信度的补充。
+150554	Attribution-Guided Shared-Private Decoupling for Noise-Reduced Audio-Visual Representation Learning	https://neurips.cc/virtual/2026/poster/150554	included	用跨模态相关片段监督共享特征。
+148384	Attributions All the Way Down? The Metagame of Interpretability	https://neurips.cc/virtual/2026/poster/148384	included	分开测特征对输出和对彼此归因的影响。
+150243	A typed tensor language for federated learning	https://neurips.cc/virtual/2026/poster/150243	included	先检查分布式计算能否表示成固定共享状态。
+153035	Auction-Based Online Policy Adaptation for Evolving Objectives	https://neurips.cc/virtual/2026/poster/153035	included	为运行期出现或消失的目标动态插拔局部策略。
+154507	Audible World Models: Spatially Aware Sound Generation for 3D Worlds	https://neurips.cc/virtual/2026/poster/154507	included	把声源附着到三维几何，再按听者位置渲染。
+139120	AudioAgentBench: Evaluating Multi-Turn Voice Agents on Real-World Tasks	https://neurips.cc/virtual/2026/poster/139120	included	按回合定位第一次失误并避免重复扣分。
+149240	AudioCALM: Continuous Autoregressive Language Modeling for Universal Audio Generation	https://neurips.cc/virtual/2026/poster/149240	included	共享音效和音乐模型，并为语音保留独立残差。
+149852	AudioGS: High-Fidelity Neural Audio Compression via Continuous Gaussian Splatting	https://neurips.cc/virtual/2026/poster/149852	included	用可渲染基元分解代替训练期码本量化。
+151452	AudioSphere: Towards Self-Supervised Spatial Audio Representation Models	https://neurips.cc/virtual/2026/poster/151452	included	掩码重建时同时恢复频谱与方向线索。
+153983	Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos	https://neurips.cc/virtual/2026/poster/153983	included	用时间戳连接长视频的中间音视频证据。
+152885	Auditing AI peer reviewers: a dose-response and false-positive benchmark on real scientific papers	https://neurips.cc/virtual/2026/poster/152885	included	用严重度梯度和误报率联合评估自动审稿。
+139256	Auditing Attention Head Masking for Out-of-Distribution Detection: Cross-Architecture Wins, Failures, and Polarity Inversions	https://neurips.cc/virtual/2026/poster/139256	included	先检查异常分数方向再跨骨干部署。
+139763	Auditing Capsule Vision 2024: Within-Split Train-to-Validation Re-Exposure and a Kvasir-Channel Sensitivity Diagnostic	https://neurips.cc/virtual/2026/poster/139763	included	对视频帧基准按来源视频溯源去重。
+157025	Auditing Closed-Loop Learning in Recurrent Neural Networks: Reproduction, Robustness, and Generalization	https://neurips.cc/virtual/2026/poster/157025	included	分别衡量闭环训练中的短暂损失峰、最终损失和耦合稳定性。
+138875	Auditing Conformal Prediction for Language Models Under Inference-Time Model Shift	https://neurips.cc/virtual/2026/poster/138875	included	按真实量化与温度配置做覆盖验收。
+138982	Auditing Correlated Failures in Frozen-Feature Pretrained-Encoder Pools for Medical Segmentation	https://neurips.cc/virtual/2026/poster/138982	included	用病例级误差相关检查骨干是否真的互补。
+138923	Auditing Cross-Lingual Fairness in Language Model Watermarking	https://neurips.cc/virtual/2026/poster/138923	included	对不同语言分别校准阈值并测阈值无关区分度。
+139236	Auditing Evidence Framing at NeurIPS: A Decade-Scale Study of Accepted Papers	https://neurips.cc/virtual/2026/poster/139236	included	对会议证据风格的时间趋势按主题调整。
+155145	Auditing Instruction Robustness in Vision-Language-Action Models via Diversity-Aware Red Teaming	https://neurips.cc/virtual/2026/poster/155145	excluded	摘要主要贡献是自动构造诱发机器人执行失败的攻击流程，未提供独立可采用的防御机制。
+140075	Auditing is not Evaluating: LLM Audit Requires Dynamic, Contextual, Budget-aware and Reliable Evidence	https://neurips.cc/virtual/2026/poster/140075	excluded	文章提出审计原则与组件框架；摘要没有给出可与现有流程比较的验证机制或实证结果。
+149397	Auditing Privacy Leakage in Tabular Foundation Model Embeddings	https://neurips.cc/virtual/2026/poster/149397	included	共享嵌入前评估辅助信息存在时的联合泄漏。
 139641	Auditing Sabotage Bench: A Benchmark for Detecting and Fixing Research Sabotage in ML Codebases	https://neurips.cc/virtual/2026/poster/139641	pending	-
 152886	Auditing Single-Query Recoverability in Self-Supervised Representations	https://neurips.cc/virtual/2026/poster/152886	pending	-
 153728	Auditing the Judge: Human-Grounded Bias Discovery, Quantification, and Mitigation in LLM Judges	https://neurips.cc/virtual/2026/poster/153728	pending	-
