@@ -299,5 +299,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Generative Active Learning via Bayesian Acquisition for Improving the Efficiency of Synthetic Data](../../conferences/neurips-2026/cards-0006.md#paper-149816)
 - [Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG](../../conferences/neurips-2026/cards-0006.md#paper-151572)
 - [Gradient Boosted Trees for Retrieval-Augmented Generation](../../conferences/neurips-2026/cards-0006.md#paper-153272)
+- [GradTrack: Detecting Noisy Labels via Temporal Trajectories of Class-wise Gradient Misalignment](../../conferences/neurips-2026/cards-0006.md#paper-148547)
 
 <!-- conference-classification:end -->

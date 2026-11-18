@@ -324,5 +324,6 @@
 - [GARDO: Reinforcing Diffusion Models without Reward Hacking](../conferences/neurips-2026/cards-0006.md#paper-150985)
 - [GEM: Interpretable Language Models via Geometric Embedding Alignment](../conferences/neurips-2026/cards-0006.md#paper-148804)
 - [Generative Cross-Entropy: A Strictly Proper Loss for Data-Efficient Classification](../conferences/neurips-2026/cards-0006.md#paper-154926)
+- [Graph-Regularized Sparse Autoencoders for LLM Safety Steering](../conferences/neurips-2026/cards-0006.md#paper-152847)
 
 <!-- conference-classification:end -->

@@ -516,5 +516,10 @@ Learning from interaction, feedback, and offline experience.
 - [Generative OOD-regularized Model-based Policy Optimization](../../conferences/neurips-2026/cards-0006.md#paper-155741)
 - [Global Optimality for Constrained Exploration via Penalty Regularization](../../conferences/neurips-2026/cards-0006.md#paper-152447)
 - [Goal-Conditioned Supervised Learning for Multi-Objective Recommendation](../../conferences/neurips-2026/cards-0006.md#paper-153765)
+- [Gradient Routing Localizes and Removes Unintended Behaviors in RL](../../conferences/neurips-2026/cards-0006.md#paper-153255)
+- [Graph-Based Stochastic-Power-UCT: Monte-Carlo Graph Search with Power Mean Estimation](../../conferences/neurips-2026/cards-0006.md#paper-154641)
+- [Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning](../../conferences/neurips-2026/cards-0006.md#paper-148152)
+- [Graph Topology Augmentation for Prioritized Sweeping in Non-stationary Reinforcement Learning](../../conferences/neurips-2026/cards-0006.md#paper-149861)
+- [Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning](../../conferences/neurips-2026/cards-0006.md#paper-155771)
 
 <!-- conference-classification:end -->

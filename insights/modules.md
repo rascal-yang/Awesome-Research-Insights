@@ -348,5 +348,7 @@
 - [Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory](../conferences/neurips-2026/cards-0006.md#paper-148735)
 - [Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers](../conferences/neurips-2026/cards-0006.md#paper-149416)
 - [GPA: General Principled Framework for Linearizing Softmax Attention via KV Cache Approximation](../conferences/neurips-2026/cards-0006.md#paper-152654)
+- [Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning](../conferences/neurips-2026/cards-0006.md#paper-155097)
+- [GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement](../conferences/neurips-2026/cards-0006.md#paper-154294)
 
 <!-- conference-classification:end -->

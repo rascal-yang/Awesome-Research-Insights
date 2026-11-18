@@ -822,5 +822,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [GeoPano: Towards Geometrically Accurate Panoramic 3D Reconstruction from a Single Panorama](../../conferences/neurips-2026/cards-0006.md#paper-151984)
 - [Glob3R: Global Structure-from-Motion with 3D Foundation Models](../../conferences/neurips-2026/cards-0006.md#paper-151745)
 - [Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers](../../conferences/neurips-2026/cards-0006.md#paper-149416)
+- [Gram-Calibrated Anchoring for Class-Incremental Learning](../../conferences/neurips-2026/cards-0006.md#paper-148635)
+- [GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis](../../conferences/neurips-2026/cards-0006.md#paper-155778)
+- [GRASP: Guided Residual Adapters with Sample-wise Partitioning](../../conferences/neurips-2026/cards-0006.md#paper-152072)
+- [Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation](../../conferences/neurips-2026/cards-0006.md#paper-152856)
 
 <!-- conference-classification:end -->

@@ -242,3 +242,53 @@
 | 机器学习系统 | 状态空间模型内核 | [GPU Hierarchy Meets Structured Matrices: Fast Algorithms for State-Space Models](cards-0006.md#paper-149931) | 将并行序列切分长度和算术 tile 解耦，并用结构化分解替代不稳定前缀减法。 |
 | 图学习 | 网络结构挖掘 | [GraDE: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures](cards-0006.md#paper-148527) | 将子图典型性评分用于筛选高频架构模式。 |
 | 智能体与推理 | 检索增强生成 | [Gradient Boosted Trees for Retrieval-Augmented Generation](cards-0006.md#paper-153272) | 后续查询树只展开覆盖缺口，并按覆盖改进验收。 |
+| 机器学习基础与统计 | 理论与统计 | [Gradient descent inference in empirical risk minimization](cards-0006.md#paper-156635) | 用去偏的中间迭代做在线统计推断。 |
+| 机器学习基础与统计 | 理论与统计 | [Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics](cards-0006.md#paper-148429) | 按方向跟踪表征分化，避免把短期塌缩误判为永久退化。 |
+| 机器学习基础与统计 | 优化 | [Gradient Descent’s Last Iterate is Often (slightly) Suboptimal](cards-0006.md#paper-154735) | 按是否已知训练预算选择步长与输出规则。 |
+| 图学习与推荐 | 优化 | [Gradient-Free Editing for Attribute Invariance in Graph Neural Networks](cards-0006.md#paper-153685) | 只能改权重时，对敏感子空间做闭式编辑。 |
+| 大语言模型 | 推理策略 | [Gradient-Guided Smoothing for LLM Safety Defense](cards-0006.md#paper-155990) | 将随机平滑的采样移向更可能的输入邻域。 |
+| 机器学习基础与统计 | 优化 | [Gradient Regularized Newton Boosting Trees with Global Convergence](cards-0006.md#paper-154992) | 在树空间曲率更新不稳时加入随梯度幅度变化的正则。 |
+| 强化学习 | 强化学习方法 | [Gradient Routing Localizes and Removes Unintended Behaviors in RL](cards-0006.md#paper-153255) | 让不可靠监控器决定梯度去向。 |
+| 机器学习基础与统计 | 理论与统计 | [Gradient Span Algorithms Make Predictable Progress in High Dimension](cards-0006.md#paper-156662) | 先检验训练曲线跨种子的集中性，再定复跑预算。 |
+| 机器学习基础与统计 | 数据策略 | [GradTrack: Detecting Noisy Labels via Temporal Trajectories of Class-wise Gradient Misalignment](cards-0006.md#paper-148547) | 清洗标签时比较类内梯度方向的跨轮排名。 |
+| 计算机视觉 | 持续学习 | [Gram-Calibrated Anchoring for Class-Incremental Learning](cards-0006.md#paper-148635) | 低秩持续适配时固定骨干原型，再校正类间相关。 |
+| 机器学习基础与统计 | 模型合并 | [GRAM: Group-wise Rank-Aware Modal Merging via Subspace Alignment](cards-0006.md#paper-153287) | 按任务更新子空间主角度分组后再做低秩合并。 |
+| 计算机视觉 | 表征学习 | [GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis](cards-0006.md#paper-155778) | 用带名称的滤波器族表达纹理相关性。 |
+| 科学机器学习 | 评测与诊断 | [GRAPE: Graph-Augmented Prototype Explanations for Interactive Medical Image Diagnosis](cards-0006.md#paper-150019) | 交互标注先检查区域证据与用户标签是否冲突。 |
+| 图学习与推荐 | 表征学习 | [Graph and Simplicial Complex Prediction Gaussian Process via Hodgelet Representations](cards-0006.md#paper-150871) | 用 Hodge 分解构造支持高阶属性的图级描述符。 |
+| 图学习与推荐 | 理论与统计 | [Graph Anomaly Detection as Dynamical Transport: Training-Free Scoring via Empirical Bayes](cards-0006.md#paper-154833) | 按图同质性和残差稳定性选择异常分数。 |
+| 强化学习 | 推理策略 | [Graph-Based Stochastic-Power-UCT: Monte-Carlo Graph Search with Power Mean Estimation](cards-0006.md#paper-154641) | 随机规划按物理状态与深度去重。 |
+| 图学习与推荐 | 模块 | [Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning](cards-0006.md#paper-155097) | 图重连前根据度与结构瓶颈判断是否值得引入多跳边。 |
+| 机器学习基础与统计 | 评测与诊断 | [Graph Distance Based on Cause-Effect Estimands with Latents](cards-0006.md#paper-155722) | 因果结构评测按下游处理效应的变化计错。 |
+| 图学习 | 优化 | [Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](cards-0006.md#paper-152480) | 离散图生成兼顾快速迁移与约束采样时，用同一能量切换全局运输和局部混合。 |
+| 大语言模型 | 评测与诊断 | [GraphInstruct: A Progressive Benchmark for Diagnosing Capability Gaps in LLM Graph Generation](cards-0006.md#paper-139037) | 设计结构化生成评测时，按约束组合复杂度分层并拆开验证结构与语义。 |
+| 图学习 | 评测与诊断 | [GraphIP–Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?](cards-0006.md#paper-139174) | 评估模型所有权防护时，分别测受保护模型和防护压力测试后的所有权信号。 |
+| 图学习 | 评测与诊断 | [Graph Label Alignment: A Diagnostic Atlas for Graph Classification](cards-0006.md#paper-150743) | 选图分类基准时，先检验仅凭结构边际或特征边际能否预测标签。 |
+| 图学习 | 理论与统计 | [GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs](cards-0006.md#paper-149829) | 当图节点嵌入不足以定位校准样本时，比较基于结构接近性和特征的联合核。 |
+| 图学习 | 训练策略 | [Graph Learning from Label Proportions using Topology-Aware Pseudo Labeling and Aggregation](cards-0006.md#paper-156071) | 只有节点包的类别比例时，用同质性代价的最优传输生成节点软伪标。 |
+| 大语言模型 | 强化学习方法 | [GraphMemRL: Action-Native Reinforcement Learning for Persistent Graph Memory Construction](cards-0006.md#paper-153064) | 长期记忆写入中，把检索按编辑需求拆分，并给每个图编辑单独评估。 |
+| 大语言模型 | 损失函数 | [Graph-Regularized Sparse Autoencoders for LLM Safety Steering](cards-0006.md#paper-152847) | 学习拒答干预方向时，在相同运行门控下比较是否加入共激活图正则。 |
+| 强化学习 | 推理策略 | [Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning](cards-0006.md#paper-148152) | 动态规划候选共享未来状态时，比较共享图采样与逐动作展开的搜索树。 |
+| 强化学习 | 强化学习方法 | [Graph Topology Augmentation for Prioritized Sweeping in Non-stationary Reinforcement Learning](cards-0006.md#paper-149861) | 局部奖励变化后，给优先扫掠队列注入图扩散信号，提前更新拓扑瓶颈以外的状态。 |
+| 图学习 | 评测与诊断 | [GraphUAT: Uncertainty Attribution in Graph Neural Networks](cards-0006.md#paper-149147) | 诊断图模型不确定性时，分别追踪数据噪声和知识不足，再对候选归因做删除验证。 |
+| 计算机视觉 | 训练策略 | [GRASP: Guided Residual Adapters with Sample-wise Partitioning](cards-0006.md#paper-152072) | 长尾生成微调中，比较静态按条件分组的残差适配器与学习式路由。 |
+| 大语言模型 | 推理策略 | [Grassmannian Geodesic Steering: Rank-Preserving Subspace Control for Inference-Time Alignment of Language Models](cards-0006.md#paper-153241) | 多维行为的激活干预中，用保谱的子空间旋转并监控有效秩。 |
+| 机器学习基础与统计 | 优化 | [Greedy Alignment Principle for Optimizer Selection](cards-0006.md#paper-154812) | 减少动量扫参时，在线估计梯度自相关并据此选择更新滤波器参数。 |
+| 科学机器学习 | 模块 | [GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement](cards-0006.md#paper-154294) | 网格细化前按关键几何特征的可见性选取正交视角。 |
+| 科学机器学习 | 推理策略 | [GridDiffuser: Constraint-Guided Graph Diffusion for AC Optimal Power Flow](cards-0006.md#paper-152781) | 非凸约束问题用多候选生成加去噪中途校正。 |
+| 大语言模型 | 推理策略 | [Grid Games: The Power Of Multiple Grids for Quantizing Large Language Models](cards-0006.md#paper-153337) | 微缩放量化在小组内选码本，而非全层固定网格。 |
+| 多模态学习 | 推理策略 | [GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs](cards-0006.md#paper-149994) | 长视频按答案后验决定每题帧预算。 |
+| 科学机器学习 | 模型架构 | [GRNAgent: A Multimodal Graph Reasoning Agent for Gene Regulatory Network Inference](cards-0006.md#paper-149734) | 异构缺失证据图按证据生成机制分阶段融合。 |
+| 机器学习基础与统计 | 评测与诊断 | [Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes](cards-0006.md#paper-150726) | 低精度分类训练出现范数异常时检查类别梯度和。 |
+| 计算机视觉 | 模型架构 | [Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation](cards-0006.md#paper-152856) | 大视角变化生成分别提供布局锚点和物体语义。 |
+| 大语言模型 | 评测与诊断 | [Grounded or Fabricated? Unsupervised Detection of LLM Hallucinations via Contextualized Influence on Response Embeddings](cards-0006.md#paper-148826) | 低预算幻觉检测比较答案的两种上下文嵌入。 |
+| 大语言模型 | 评测与诊断 | [Ground False: Uncovering Errors in Formal Mathematics Benchmarks](cards-0006.md#paper-139101) | 分别审计形式题目标的可证性与语义忠实度。 |
+| 大语言模型 | 强化学习方法 | [Grounding Agent Reasoning with Structured Process Supervision for Multi-turn Reinforcement Learning](cards-0006.md#paper-155516) | 长程智能体每步同时承诺全局进度和下一步可观测结果。 |
+| 机器人学 | 模型架构 | [Grounding Driving VLA via Inverse Kinematics](cards-0006.md#paper-152499) | 动作解码只接收前后视觉状态，切断自车状态捷径。 |
+| 多模态学习 | 强化学习方法 | [Grounding Multimodal Reasoning with Evidence-Ablated Negatives](cards-0006.md#paper-154493) | 去掉判别视觉证据，诱导当前策略产生可用困难负例。 |
+| 机器学习基础与统计 | 优化 | [Group-Aware Matrix Estimation and Latent Subspace Recovery](cards-0006.md#paper-153493) | 重叠元类别用分别施加的低秩约束保留局部结构。 |
+| 机器学习基础与统计 | 优化 | [Group Distributionally Robust Optimization with Flexible Sample Queries](cards-0006.md#paper-154085) | 分组稳健优化按当轮预算选择采样数。 |
+| 强化学习 | 强化学习方法 | [Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning](cards-0006.md#paper-155771) | 任务失配与不确定性共同决定联邦任务头共享强度。 |
+| 大语言模型 | 强化学习方法 | [Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning](cards-0006.md#paper-149985) | 多轨迹合成状态图，以全图标准化 TD 误差给转移记功。 |
+| 大语言模型 | 评测与诊断 | [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](cards-0006.md#paper-139134) | 群聊记忆优先验证发言者归属和词汇保真，并保留 BM25 对照。 |
+| 大语言模型 | 推理策略 | [Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries](cards-0006.md#paper-153234) | 技能检索输出结构化执行上下文，把入口与辅助信息分开。 |

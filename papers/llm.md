@@ -1767,5 +1767,17 @@
 - [GOLD PANNING: Strategic Context Shuffling for Needle-in-Haystack Reasoning](../conferences/neurips-2026/cards-0006.md#paper-155209)
 - [GoT: A Game-Theoretic Approach to the Game of Twenty Questions](../conferences/neurips-2026/cards-0006.md#paper-150838)
 - [Gradient Boosted Trees for Retrieval-Augmented Generation](../conferences/neurips-2026/cards-0006.md#paper-153272)
+- [Gradient-Guided Smoothing for LLM Safety Defense](../conferences/neurips-2026/cards-0006.md#paper-155990)
+- [GraphInstruct: A Progressive Benchmark for Diagnosing Capability Gaps in LLM Graph Generation](../conferences/neurips-2026/cards-0006.md#paper-139037)
+- [GraphMemRL: Action-Native Reinforcement Learning for Persistent Graph Memory Construction](../conferences/neurips-2026/cards-0006.md#paper-153064)
+- [Graph-Regularized Sparse Autoencoders for LLM Safety Steering](../conferences/neurips-2026/cards-0006.md#paper-152847)
+- [Grassmannian Geodesic Steering: Rank-Preserving Subspace Control for Inference-Time Alignment of Language Models](../conferences/neurips-2026/cards-0006.md#paper-153241)
+- [Grid Games: The Power Of Multiple Grids for Quantizing Large Language Models](../conferences/neurips-2026/cards-0006.md#paper-153337)
+- [Grounded or Fabricated? Unsupervised Detection of LLM Hallucinations via Contextualized Influence on Response Embeddings](../conferences/neurips-2026/cards-0006.md#paper-148826)
+- [Ground False: Uncovering Errors in Formal Mathematics Benchmarks](../conferences/neurips-2026/cards-0006.md#paper-139101)
+- [Grounding Agent Reasoning with Structured Process Supervision for Multi-turn Reinforcement Learning](../conferences/neurips-2026/cards-0006.md#paper-155516)
+- [Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning](../conferences/neurips-2026/cards-0006.md#paper-149985)
+- [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](../conferences/neurips-2026/cards-0006.md#paper-139134)
+- [Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries](../conferences/neurips-2026/cards-0006.md#paper-153234)
 
 <!-- conference-classification:end -->

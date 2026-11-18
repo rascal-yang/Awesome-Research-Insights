@@ -666,5 +666,7 @@ Learning across modalities such as images, text, audio, and video.
 - [GMO-E²DIT: Grounded Multi-Operation Editing for E-Commerce Images](../../conferences/neurips-2026/cards-0006.md#paper-152097)
 - [Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory](../../conferences/neurips-2026/cards-0006.md#paper-148735)
 - [GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing](../../conferences/neurips-2026/cards-0006.md#paper-139632)
+- [GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs](../../conferences/neurips-2026/cards-0006.md#paper-149994)
+- [Grounding Multimodal Reasoning with Evidence-Ablated Negatives](../../conferences/neurips-2026/cards-0006.md#paper-154493)
 
 <!-- conference-classification:end -->

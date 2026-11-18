@@ -545,5 +545,12 @@
 - [Generalized Smooth Stochastic Variational Inequalities: Almost Sure Convergence and Convergence Rates](../conferences/neurips-2026/cards-0006.md#paper-156744)
 - [Generalized Wasserstein Flow Matching: Transport Plans, Everywhere, All at Once](../conferences/neurips-2026/cards-0006.md#paper-152114)
 - [Gibbs Gradient Descent: A Langevin Approach to Optimization](../conferences/neurips-2026/cards-0006.md#paper-153445)
+- [Gradient Descent’s Last Iterate is Often (slightly) Suboptimal](../conferences/neurips-2026/cards-0006.md#paper-154735)
+- [Gradient-Free Editing for Attribute Invariance in Graph Neural Networks](../conferences/neurips-2026/cards-0006.md#paper-153685)
+- [Gradient Regularized Newton Boosting Trees with Global Convergence](../conferences/neurips-2026/cards-0006.md#paper-154992)
+- [Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](../conferences/neurips-2026/cards-0006.md#paper-152480)
+- [Greedy Alignment Principle for Optimizer Selection](../conferences/neurips-2026/cards-0006.md#paper-154812)
+- [Group-Aware Matrix Estimation and Latent Subspace Recovery](../conferences/neurips-2026/cards-0006.md#paper-153493)
+- [Group Distributionally Robust Optimization with Flexible Sample Queries](../conferences/neurips-2026/cards-0006.md#paper-154085)
 
 <!-- conference-classification:end -->

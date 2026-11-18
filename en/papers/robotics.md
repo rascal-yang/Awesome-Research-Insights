@@ -680,5 +680,6 @@ Robot perception, policy learning, planning, and control.
 - [GeoWorld: A Geometry-First World Model for Reconstruction and Imagination](../../conferences/neurips-2026/cards-0006.md#paper-148633)
 - [GIVLA: Deep Geometry Internalization for A Lightweight VLA via Geometry Instruction and Gradient-Informed Training](../../conferences/neurips-2026/cards-0006.md#paper-152891)
 - [GNES: Neural-Guided Evolutionary Program Search for Interpretable Multi-Agent Control](../../conferences/neurips-2026/cards-0006.md#paper-152436)
+- [Grounding Driving VLA via Inverse Kinematics](../../conferences/neurips-2026/cards-0006.md#paper-152499)
 
 <!-- conference-classification:end -->

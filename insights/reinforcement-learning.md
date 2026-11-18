@@ -503,5 +503,12 @@
 - [Generation Navigator: A State-Aware Agentic Framework for Image Generation](../conferences/neurips-2026/cards-0006.md#paper-153938)
 - [GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching](../conferences/neurips-2026/cards-0006.md#paper-151044)
 - [Global Optimality for Constrained Exploration via Penalty Regularization](../conferences/neurips-2026/cards-0006.md#paper-152447)
+- [Gradient Routing Localizes and Removes Unintended Behaviors in RL](../conferences/neurips-2026/cards-0006.md#paper-153255)
+- [GraphMemRL: Action-Native Reinforcement Learning for Persistent Graph Memory Construction](../conferences/neurips-2026/cards-0006.md#paper-153064)
+- [Graph Topology Augmentation for Prioritized Sweeping in Non-stationary Reinforcement Learning](../conferences/neurips-2026/cards-0006.md#paper-149861)
+- [Grounding Agent Reasoning with Structured Process Supervision for Multi-turn Reinforcement Learning](../conferences/neurips-2026/cards-0006.md#paper-155516)
+- [Grounding Multimodal Reasoning with Evidence-Ablated Negatives](../conferences/neurips-2026/cards-0006.md#paper-154493)
+- [Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning](../conferences/neurips-2026/cards-0006.md#paper-155771)
+- [Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning](../conferences/neurips-2026/cards-0006.md#paper-149985)
 
 <!-- conference-classification:end -->

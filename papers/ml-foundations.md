@@ -1957,5 +1957,17 @@
 - [GOAT-AL: Pseudo Neural Collapse Guides Adaptive Coverage for All-Budget Active Learning](../conferences/neurips-2026/cards-0006.md#paper-154845)
 - [GPA: General Principled Framework for Linearizing Softmax Attention via KV Cache Approximation](../conferences/neurips-2026/cards-0006.md#paper-152654)
 - [GPU Hierarchy Meets Structured Matrices: Fast Algorithms for State-Space Models](../conferences/neurips-2026/cards-0006.md#paper-149931)
+- [Gradient descent inference in empirical risk minimization](../conferences/neurips-2026/cards-0006.md#paper-156635)
+- [Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics](../conferences/neurips-2026/cards-0006.md#paper-148429)
+- [Gradient Descent’s Last Iterate is Often (slightly) Suboptimal](../conferences/neurips-2026/cards-0006.md#paper-154735)
+- [Gradient Regularized Newton Boosting Trees with Global Convergence](../conferences/neurips-2026/cards-0006.md#paper-154992)
+- [Gradient Span Algorithms Make Predictable Progress in High Dimension](../conferences/neurips-2026/cards-0006.md#paper-156662)
+- [GradTrack: Detecting Noisy Labels via Temporal Trajectories of Class-wise Gradient Misalignment](../conferences/neurips-2026/cards-0006.md#paper-148547)
+- [GRAM: Group-wise Rank-Aware Modal Merging via Subspace Alignment](../conferences/neurips-2026/cards-0006.md#paper-153287)
+- [Graph Distance Based on Cause-Effect Estimands with Latents](../conferences/neurips-2026/cards-0006.md#paper-155722)
+- [Greedy Alignment Principle for Optimizer Selection](../conferences/neurips-2026/cards-0006.md#paper-154812)
+- [Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes](../conferences/neurips-2026/cards-0006.md#paper-150726)
+- [Group-Aware Matrix Estimation and Latent Subspace Recovery](../conferences/neurips-2026/cards-0006.md#paper-153493)
+- [Group Distributionally Robust Optimization with Flexible Sample Queries](../conferences/neurips-2026/cards-0006.md#paper-154085)
 
 <!-- conference-classification:end -->

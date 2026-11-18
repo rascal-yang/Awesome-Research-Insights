@@ -825,5 +825,10 @@
 - [Geometry-Centered 3D Latent World Models for Growing Surfaces](../conferences/neurips-2026/cards-0006.md#paper-149549)
 - [GEOPHYS: The Geometry of Physical Plausibility](../conferences/neurips-2026/cards-0006.md#paper-153630)
 - [GeoWorld: A Geometry-First World Model for Reconstruction and Imagination](../conferences/neurips-2026/cards-0006.md#paper-148633)
+- [Gradient descent inference in empirical risk minimization](../conferences/neurips-2026/cards-0006.md#paper-156635)
+- [Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics](../conferences/neurips-2026/cards-0006.md#paper-148429)
+- [Gradient Span Algorithms Make Predictable Progress in High Dimension](../conferences/neurips-2026/cards-0006.md#paper-156662)
+- [Graph Anomaly Detection as Dynamical Transport: Training-Free Scoring via Empirical Bayes](../conferences/neurips-2026/cards-0006.md#paper-154833)
+- [GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs](../conferences/neurips-2026/cards-0006.md#paper-149829)
 
 <!-- conference-classification:end -->

@@ -1026,5 +1026,13 @@
 - [GlyphAnchor: Enhancing Visual Text Rendering via Position-Anchored Glyph Priors](../conferences/neurips-2026/cards-0006.md#paper-151218)
 - [GMO-E²DIT: Grounded Multi-Operation Editing for E-Commerce Images](../conferences/neurips-2026/cards-0006.md#paper-152097)
 - [GNES: Neural-Guided Evolutionary Program Search for Interpretable Multi-Agent Control](../conferences/neurips-2026/cards-0006.md#paper-152436)
+- [Gradient-Guided Smoothing for LLM Safety Defense](../conferences/neurips-2026/cards-0006.md#paper-155990)
+- [Graph-Based Stochastic-Power-UCT: Monte-Carlo Graph Search with Power Mean Estimation](../conferences/neurips-2026/cards-0006.md#paper-154641)
+- [Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning](../conferences/neurips-2026/cards-0006.md#paper-148152)
+- [Grassmannian Geodesic Steering: Rank-Preserving Subspace Control for Inference-Time Alignment of Language Models](../conferences/neurips-2026/cards-0006.md#paper-153241)
+- [GridDiffuser: Constraint-Guided Graph Diffusion for AC Optimal Power Flow](../conferences/neurips-2026/cards-0006.md#paper-152781)
+- [Grid Games: The Power Of Multiple Grids for Quantizing Large Language Models](../conferences/neurips-2026/cards-0006.md#paper-153337)
+- [GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs](../conferences/neurips-2026/cards-0006.md#paper-149994)
+- [Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries](../conferences/neurips-2026/cards-0006.md#paper-153234)
 
 <!-- conference-classification:end -->

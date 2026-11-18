@@ -455,5 +455,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [GLINT: Sparsely Gated Vision-Language Alignment for Fine-Grained Radiology Representations](../../conferences/neurips-2026/cards-0006.md#paper-154081)
 - [Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations](../../conferences/neurips-2026/cards-0006.md#paper-152961)
 - [GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction](../../conferences/neurips-2026/cards-0006.md#paper-151409)
+- [GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis](../../conferences/neurips-2026/cards-0006.md#paper-155778)
+- [Graph and Simplicial Complex Prediction Gaussian Process via Hodgelet Representations](../../conferences/neurips-2026/cards-0006.md#paper-150871)
 
 <!-- conference-classification:end -->

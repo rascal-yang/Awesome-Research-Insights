@@ -3483,66 +3483,66 @@ poster_id	title	paper_url	status	reason
 148527	GraDE: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures	https://neurips.cc/virtual/2026/poster/148527	included	将子图典型性评分用于筛选高频架构模式。
 148456	Gradient-based Graph Structure Optimisation for Research Networks	https://neurips.cc/virtual/2026/poster/148456	excluded	结论依赖简化的科研社交网络模拟，未有证据表明能指导实际智能体协作分配。
 153272	Gradient Boosted Trees for Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/153272	included	后续查询树只展开覆盖缺口，并按覆盖改进验收。
-156635	Gradient descent inference in empirical risk minimization	https://neurips.cc/virtual/2026/poster/156635	pending	-
-148429	Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics	https://neurips.cc/virtual/2026/poster/148429	pending	-
-154735	Gradient Descent’s Last Iterate is Often (slightly) Suboptimal	https://neurips.cc/virtual/2026/poster/154735	pending	-
-153685	Gradient-Free Editing for Attribute Invariance in Graph Neural Networks	https://neurips.cc/virtual/2026/poster/153685	pending	-
-155990	Gradient-Guided Smoothing for LLM Safety Defense	https://neurips.cc/virtual/2026/poster/155990	pending	-
-152005	Gradient-Mine Units: Scorched-Earth Strategy for Model Protection against Unauthorized Fine-Tuning	https://neurips.cc/virtual/2026/poster/152005	pending	-
-154992	Gradient Regularized Newton Boosting Trees with Global Convergence	https://neurips.cc/virtual/2026/poster/154992	pending	-
-153255	Gradient Routing Localizes and Removes Unintended Behaviors in RL	https://neurips.cc/virtual/2026/poster/153255	pending	-
-156662	Gradient Span Algorithms Make Predictable Progress in High Dimension	https://neurips.cc/virtual/2026/poster/156662	pending	-
-151041	GradShield: Alignment Preserving Finetuning	https://neurips.cc/virtual/2026/poster/151041	pending	-
-148547	GradTrack: Detecting Noisy Labels via Temporal Trajectories of Class-wise Gradient Misalignment	https://neurips.cc/virtual/2026/poster/148547	pending	-
-148635	Gram-Calibrated Anchoring for Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/148635	pending	-
-153287	GRAM: Group-wise Rank-Aware Modal Merging via Subspace Alignment	https://neurips.cc/virtual/2026/poster/153287	pending	-
-155778	GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis	https://neurips.cc/virtual/2026/poster/155778	pending	-
-150019	GRAPE: Graph-Augmented Prototype Explanations for Interactive Medical Image Diagnosis	https://neurips.cc/virtual/2026/poster/150019	pending	-
-150871	Graph and Simplicial Complex Prediction Gaussian Process via Hodgelet Representations	https://neurips.cc/virtual/2026/poster/150871	pending	-
-154833	Graph Anomaly Detection as Dynamical Transport: Training-Free Scoring via Empirical Bayes	https://neurips.cc/virtual/2026/poster/154833	pending	-
-154641	Graph-Based Stochastic-Power-UCT: Monte-Carlo Graph Search with Power Mean Estimation	https://neurips.cc/virtual/2026/poster/154641	pending	-
-155097	Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning	https://neurips.cc/virtual/2026/poster/155097	pending	-
-155722	Graph Distance Based on Cause-Effect Estimands with Latents	https://neurips.cc/virtual/2026/poster/155722	pending	-
-152480	Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation	https://neurips.cc/virtual/2026/poster/152480	pending	-
-153351	Graph-Enhanced Attribute-Aware Modeling for Cloth-Changing Person Re-Identification	https://neurips.cc/virtual/2026/poster/153351	pending	-
-139037	GraphInstruct: A Progressive Benchmark for Diagnosing Capability Gaps in LLM Graph Generation	https://neurips.cc/virtual/2026/poster/139037	pending	-
-139174	GraphIP–Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?	https://neurips.cc/virtual/2026/poster/139174	pending	-
-150743	Graph Label Alignment: A Diagnostic Atlas for Graph Classification	https://neurips.cc/virtual/2026/poster/150743	pending	-
-149829	GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs	https://neurips.cc/virtual/2026/poster/149829	pending	-
-156071	Graph Learning from Label Proportions using Topology-Aware Pseudo Labeling and Aggregation	https://neurips.cc/virtual/2026/poster/156071	pending	-
-140107	Graph Learning Should Move Beyond Restrictive Views of Spectral and Message-Passing GNNs	https://neurips.cc/virtual/2026/poster/140107	pending	-
-153220	Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems	https://neurips.cc/virtual/2026/poster/153220	pending	-
-153064	GraphMemRL: Action-Native Reinforcement Learning for Persistent Graph Memory Construction	https://neurips.cc/virtual/2026/poster/153064	pending	-
-152847	Graph-Regularized Sparse Autoencoders for LLM Safety Steering	https://neurips.cc/virtual/2026/poster/152847	pending	-
-148152	Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning	https://neurips.cc/virtual/2026/poster/148152	pending	-
-149861	Graph Topology Augmentation for Prioritized Sweeping in Non-stationary Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149861	pending	-
-149147	GraphUAT: Uncertainty Attribution in Graph Neural Networks	https://neurips.cc/virtual/2026/poster/149147	pending	-
-155005	GraphWrit3R: End-to-End Writing of Scene Graphs for Multi-Modal 3D Scenes	https://neurips.cc/virtual/2026/poster/155005	pending	-
-152072	GRASP: Guided Residual Adapters with Sample-wise Partitioning	https://neurips.cc/virtual/2026/poster/152072	pending	-
-153071	GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions	https://neurips.cc/virtual/2026/poster/153071	pending	-
-155467	Grasp-Then-Plan with Failure Attribution: A Closed Two-Stage Framework for Precise and Generalizable Robotic Manipulation	https://neurips.cc/virtual/2026/poster/155467	pending	-
-153241	Grassmannian Geodesic Steering: Rank-Preserving Subspace Control for Inference-Time Alignment of Language Models	https://neurips.cc/virtual/2026/poster/153241	pending	-
-154812	Greedy Alignment Principle for Optimizer Selection	https://neurips.cc/virtual/2026/poster/154812	pending	-
-154294	GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement	https://neurips.cc/virtual/2026/poster/154294	pending	-
-152781	GridDiffuser: Constraint-Guided Graph Diffusion for AC Optimal Power Flow	https://neurips.cc/virtual/2026/poster/152781	pending	-
-153337	Grid Games: The Power Of Multiple Grids for Quantizing Large Language Models	https://neurips.cc/virtual/2026/poster/153337	pending	-
-149994	GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs	https://neurips.cc/virtual/2026/poster/149994	pending	-
-154466	GRINQH: Graded Input-based Quantization Hierarchy for Efficient LLM Generation	https://neurips.cc/virtual/2026/poster/154466	pending	-
-149734	GRNAgent: A Multimodal Graph Reasoning Agent for Gene Regulatory Network Inference	https://neurips.cc/virtual/2026/poster/149734	pending	-
-150726	Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes	https://neurips.cc/virtual/2026/poster/150726	pending	-
-152856	Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation	https://neurips.cc/virtual/2026/poster/152856	pending	-
-148826	Grounded or Fabricated? Unsupervised Detection of LLM Hallucinations via Contextualized Influence on Response Embeddings	https://neurips.cc/virtual/2026/poster/148826	pending	-
-139101	Ground False: Uncovering Errors in Formal Mathematics Benchmarks	https://neurips.cc/virtual/2026/poster/139101	pending	-
-150009	Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model	https://neurips.cc/virtual/2026/poster/150009	pending	-
-155516	Grounding Agent Reasoning with Structured Process Supervision for Multi-turn Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155516	pending	-
-152499	Grounding Driving VLA via Inverse Kinematics	https://neurips.cc/virtual/2026/poster/152499	pending	-
-154493	Grounding Multimodal Reasoning with Evidence-Ablated Negatives	https://neurips.cc/virtual/2026/poster/154493	pending	-
-153493	Group-Aware Matrix Estimation and Latent Subspace Recovery	https://neurips.cc/virtual/2026/poster/153493	pending	-
-154085	Group Distributionally Robust Optimization with Flexible Sample Queries	https://neurips.cc/virtual/2026/poster/154085	pending	-
-155771	Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155771	pending	-
-149985	Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149985	pending	-
-139134	GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations	https://neurips.cc/virtual/2026/poster/139134	pending	-
-153234	Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries	https://neurips.cc/virtual/2026/poster/153234	pending	-
+156635	Gradient descent inference in empirical risk minimization	https://neurips.cc/virtual/2026/poster/156635	included	用去偏的中间迭代做在线统计推断。
+148429	Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics	https://neurips.cc/virtual/2026/poster/148429	included	按方向跟踪表征分化，避免把短期塌缩误判为永久退化。
+154735	Gradient Descent’s Last Iterate is Often (slightly) Suboptimal	https://neurips.cc/virtual/2026/poster/154735	included	按是否已知训练预算选择步长与输出规则。
+153685	Gradient-Free Editing for Attribute Invariance in Graph Neural Networks	https://neurips.cc/virtual/2026/poster/153685	included	只能改权重时，对敏感子空间做闭式编辑。
+155990	Gradient-Guided Smoothing for LLM Safety Defense	https://neurips.cc/virtual/2026/poster/155990	included	将随机平滑的采样移向更可能的输入邻域。
+152005	Gradient-Mine Units: Scorched-Earth Strategy for Model Protection against Unauthorized Fine-Tuning	https://neurips.cc/virtual/2026/poster/152005	excluded	摘要核心贡献为主动破坏下游模型微调，未提取适合本知识库的通用训练机制。
+154992	Gradient Regularized Newton Boosting Trees with Global Convergence	https://neurips.cc/virtual/2026/poster/154992	included	在树空间曲率更新不稳时加入随梯度幅度变化的正则。
+153255	Gradient Routing Localizes and Removes Unintended Behaviors in RL	https://neurips.cc/virtual/2026/poster/153255	included	让不可靠监控器决定梯度去向。
+156662	Gradient Span Algorithms Make Predictable Progress in High Dimension	https://neurips.cc/virtual/2026/poster/156662	included	先检验训练曲线跨种子的集中性，再定复跑预算。
+151041	GradShield: Alignment Preserving Finetuning	https://neurips.cc/virtual/2026/poster/151041	excluded	摘要只披露逐样本隐式危害评分与自适应阈值，缺少评分的计算依据，当前证据不足以独立复用。
+148547	GradTrack: Detecting Noisy Labels via Temporal Trajectories of Class-wise Gradient Misalignment	https://neurips.cc/virtual/2026/poster/148547	included	清洗标签时比较类内梯度方向的跨轮排名。
+148635	Gram-Calibrated Anchoring for Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/148635	included	低秩持续适配时固定骨干原型，再校正类间相关。
+153287	GRAM: Group-wise Rank-Aware Modal Merging via Subspace Alignment	https://neurips.cc/virtual/2026/poster/153287	included	按任务更新子空间主角度分组后再做低秩合并。
+155778	GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis	https://neurips.cc/virtual/2026/poster/155778	included	用带名称的滤波器族表达纹理相关性。
+150019	GRAPE: Graph-Augmented Prototype Explanations for Interactive Medical Image Diagnosis	https://neurips.cc/virtual/2026/poster/150019	included	交互标注先检查区域证据与用户标签是否冲突。
+150871	Graph and Simplicial Complex Prediction Gaussian Process via Hodgelet Representations	https://neurips.cc/virtual/2026/poster/150871	included	用 Hodge 分解构造支持高阶属性的图级描述符。
+154833	Graph Anomaly Detection as Dynamical Transport: Training-Free Scoring via Empirical Bayes	https://neurips.cc/virtual/2026/poster/154833	included	按图同质性和残差稳定性选择异常分数。
+154641	Graph-Based Stochastic-Power-UCT: Monte-Carlo Graph Search with Power Mean Estimation	https://neurips.cc/virtual/2026/poster/154641	included	随机规划按物理状态与深度去重。
+155097	Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning	https://neurips.cc/virtual/2026/poster/155097	included	图重连前根据度与结构瓶颈判断是否值得引入多跳边。
+155722	Graph Distance Based on Cause-Effect Estimands with Latents	https://neurips.cc/virtual/2026/poster/155722	included	因果结构评测按下游处理效应的变化计错。
+152480	Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation	https://neurips.cc/virtual/2026/poster/152480	included	离散图生成兼顾快速迁移与约束采样时，用同一能量切换全局运输和局部混合。
+153351	Graph-Enhanced Attribute-Aware Modeling for Cloth-Changing Person Re-Identification	https://neurips.cc/virtual/2026/poster/153351	excluded	服装变化下剔除衣物属性并融合身份线索，摘要证据集中于换衣重识别。
+139037	GraphInstruct: A Progressive Benchmark for Diagnosing Capability Gaps in LLM Graph Generation	https://neurips.cc/virtual/2026/poster/139037	included	设计结构化生成评测时，按约束组合复杂度分层并拆开验证结构与语义。
+139174	GraphIP–Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?	https://neurips.cc/virtual/2026/poster/139174	included	评估模型所有权防护时，分别测受保护模型和防护压力测试后的所有权信号。
+150743	Graph Label Alignment: A Diagnostic Atlas for Graph Classification	https://neurips.cc/virtual/2026/poster/150743	included	选图分类基准时，先检验仅凭结构边际或特征边际能否预测标签。
+149829	GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs	https://neurips.cc/virtual/2026/poster/149829	included	当图节点嵌入不足以定位校准样本时，比较基于结构接近性和特征的联合核。
+156071	Graph Learning from Label Proportions using Topology-Aware Pseudo Labeling and Aggregation	https://neurips.cc/virtual/2026/poster/156071	included	只有节点包的类别比例时，用同质性代价的最优传输生成节点软伪标。
+140107	Graph Learning Should Move Beyond Restrictive Views of Spectral and Message-Passing GNNs	https://neurips.cc/virtual/2026/poster/140107	excluded	观点文给出谱与空间视角对比，但摘要未具体说明何种受限架构下结论可支撑可执行选择。
+153220	Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems	https://neurips.cc/virtual/2026/poster/153220	excluded	图交互接入状态空间递推，摘要缺少拆分对照来支撑何时应采用单递推。
+153064	GraphMemRL: Action-Native Reinforcement Learning for Persistent Graph Memory Construction	https://neurips.cc/virtual/2026/poster/153064	included	长期记忆写入中，把检索按编辑需求拆分，并给每个图编辑单独评估。
+152847	Graph-Regularized Sparse Autoencoders for LLM Safety Steering	https://neurips.cc/virtual/2026/poster/152847	included	学习拒答干预方向时，在相同运行门控下比较是否加入共激活图正则。
+148152	Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning	https://neurips.cc/virtual/2026/poster/148152	included	动态规划候选共享未来状态时，比较共享图采样与逐动作展开的搜索树。
+149861	Graph Topology Augmentation for Prioritized Sweeping in Non-stationary Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149861	included	局部奖励变化后，给优先扫掠队列注入图扩散信号，提前更新拓扑瓶颈以外的状态。
+149147	GraphUAT: Uncertainty Attribution in Graph Neural Networks	https://neurips.cc/virtual/2026/poster/149147	included	诊断图模型不确定性时，分别追踪数据噪声和知识不足，再对候选归因做删除验证。
+155005	GraphWrit3R: End-to-End Writing of Scene Graphs for Multi-Modal 3D Scenes	https://neurips.cc/virtual/2026/poster/155005	excluded	三维场景图管线重点是整合两类编码器与 JSON 解码，摘要缺少对体素对齐的独立效果。
+152072	GRASP: Guided Residual Adapters with Sample-wise Partitioning	https://neurips.cc/virtual/2026/poster/152072	included	长尾生成微调中，比较静态按条件分组的残差适配器与学习式路由。
+153071	GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions	https://neurips.cc/virtual/2026/poster/153071	excluded	主要为社交视频数据与评测，摘要未给出奖励形式或独立消融以支撑复用。
+155467	Grasp-Then-Plan with Failure Attribution: A Closed Two-Stage Framework for Precise and Generalizable Robotic Manipulation	https://neurips.cc/virtual/2026/poster/155467	excluded	失败归因结合抓取和规划的两阶段系统，摘要未描述归因监督或识别两阶段因果来源的技术条件。
+153241	Grassmannian Geodesic Steering: Rank-Preserving Subspace Control for Inference-Time Alignment of Language Models	https://neurips.cc/virtual/2026/poster/153241	included	多维行为的激活干预中，用保谱的子空间旋转并监控有效秩。
+154812	Greedy Alignment Principle for Optimizer Selection	https://neurips.cc/virtual/2026/poster/154812	included	减少动量扫参时，在线估计梯度自相关并据此选择更新滤波器参数。
+154294	GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement	https://neurips.cc/virtual/2026/poster/154294	included	网格细化前按关键几何特征的可见性选取正交视角。
+152781	GridDiffuser: Constraint-Guided Graph Diffusion for AC Optimal Power Flow	https://neurips.cc/virtual/2026/poster/152781	included	非凸约束问题用多候选生成加去噪中途校正。
+153337	Grid Games: The Power Of Multiple Grids for Quantizing Large Language Models	https://neurips.cc/virtual/2026/poster/153337	included	微缩放量化在小组内选码本，而非全层固定网格。
+149994	GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs	https://neurips.cc/virtual/2026/poster/149994	included	长视频按答案后验决定每题帧预算。
+154466	GRINQH: Graded Input-based Quantization Hierarchy for Efficient LLM Generation	https://neurips.cc/virtual/2026/poster/154466	excluded	固定或混合位宽量化的对照仍需核对启用稀疏与各层动态分配的边际效益；摘要给出的证据主要支持特定显存布局和 GPU 解码组合，未充分区分于已有通道显著性混合精度方法。
+149734	GRNAgent: A Multimodal Graph Reasoning Agent for Gene Regulatory Network Inference	https://neurips.cc/virtual/2026/poster/149734	included	异构缺失证据图按证据生成机制分阶段融合。
+150726	Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes	https://neurips.cc/virtual/2026/poster/150726	included	低精度分类训练出现范数异常时检查类别梯度和。
+152856	Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation	https://neurips.cc/virtual/2026/poster/152856	included	大视角变化生成分别提供布局锚点和物体语义。
+148826	Grounded or Fabricated? Unsupervised Detection of LLM Hallucinations via Contextualized Influence on Response Embeddings	https://neurips.cc/virtual/2026/poster/148826	included	低预算幻觉检测比较答案的两种上下文嵌入。
+139101	Ground False: Uncovering Errors in Formal Mathematics Benchmarks	https://neurips.cc/virtual/2026/poster/139101	included	分别审计形式题目标的可证性与语义忠实度。
+150009	Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model	https://neurips.cc/virtual/2026/poster/150009	excluded	摘要主要以新 VIDA 数据验证视频动作编码和空间损失的组合，缺少足够的先例或消融证据显示它为动态交互表征提供了可独立复用的新操作。
+155516	Grounding Agent Reasoning with Structured Process Supervision for Multi-turn Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155516	included	长程智能体每步同时承诺全局进度和下一步可观测结果。
+152499	Grounding Driving VLA via Inverse Kinematics	https://neurips.cc/virtual/2026/poster/152499	included	动作解码只接收前后视觉状态，切断自车状态捷径。
+154493	Grounding Multimodal Reasoning with Evidence-Ablated Negatives	https://neurips.cc/virtual/2026/poster/154493	included	去掉判别视觉证据，诱导当前策略产生可用困难负例。
+153493	Group-Aware Matrix Estimation and Latent Subspace Recovery	https://neurips.cc/virtual/2026/poster/153493	included	重叠元类别用分别施加的低秩约束保留局部结构。
+154085	Group Distributionally Robust Optimization with Flexible Sample Queries	https://neurips.cc/virtual/2026/poster/154085	included	分组稳健优化按当轮预算选择采样数。
+155771	Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155771	included	任务失配与不确定性共同决定联邦任务头共享强度。
+149985	Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149985	included	多轨迹合成状态图，以全图标准化 TD 误差给转移记功。
+139134	GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations	https://neurips.cc/virtual/2026/poster/139134	included	群聊记忆优先验证发言者归属和词汇保真，并保留 BM25 对照。
+153234	Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries	https://neurips.cc/virtual/2026/poster/153234	included	技能检索输出结构化执行上下文，把入口与辅助信息分开。
 154678	Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate	https://neurips.cc/virtual/2026/poster/154678	pending	-
 148445	Growing a Neural Network in Breadth, Depth, and Time	https://neurips.cc/virtual/2026/poster/148445	pending	-
 148490	GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling	https://neurips.cc/virtual/2026/poster/148490	pending	-

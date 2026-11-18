@@ -608,5 +608,9 @@
 - [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](../conferences/neurips-2026/cards-0006.md#paper-155126)
 - [Geometry Meets Physics: Data-Efficient Pre-Training for Unstructured Neural PDE Solvers](../conferences/neurips-2026/cards-0006.md#paper-150238)
 - [GIFT: Representation Geometry Matters for Single-Domain Generalized Object Detection](../conferences/neurips-2026/cards-0006.md#paper-154879)
+- [Gram-Calibrated Anchoring for Class-Incremental Learning](../conferences/neurips-2026/cards-0006.md#paper-148635)
+- [GRAM: Group-wise Rank-Aware Modal Merging via Subspace Alignment](../conferences/neurips-2026/cards-0006.md#paper-153287)
+- [Graph Learning from Label Proportions using Topology-Aware Pseudo Labeling and Aggregation](../conferences/neurips-2026/cards-0006.md#paper-156071)
+- [GRASP: Guided Residual Adapters with Sample-wise Partitioning](../conferences/neurips-2026/cards-0006.md#paper-152072)
 
 <!-- conference-classification:end -->

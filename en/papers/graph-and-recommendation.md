@@ -272,5 +272,15 @@ Graph models, knowledge graphs, and recommender systems.
 - [GADMVP: Adaptive Few-Shot Graph-Level Anomaly Detection with Multi-View Structured Prompting](../../conferences/neurips-2026/cards-0006.md#paper-152843)
 - [GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction](../../conferences/neurips-2026/cards-0006.md#paper-151409)
 - [GraDE: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures](../../conferences/neurips-2026/cards-0006.md#paper-148527)
+- [Gradient-Free Editing for Attribute Invariance in Graph Neural Networks](../../conferences/neurips-2026/cards-0006.md#paper-153685)
+- [Graph and Simplicial Complex Prediction Gaussian Process via Hodgelet Representations](../../conferences/neurips-2026/cards-0006.md#paper-150871)
+- [Graph Anomaly Detection as Dynamical Transport: Training-Free Scoring via Empirical Bayes](../../conferences/neurips-2026/cards-0006.md#paper-154833)
+- [Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning](../../conferences/neurips-2026/cards-0006.md#paper-155097)
+- [Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](../../conferences/neurips-2026/cards-0006.md#paper-152480)
+- [GraphIP–Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?](../../conferences/neurips-2026/cards-0006.md#paper-139174)
+- [Graph Label Alignment: A Diagnostic Atlas for Graph Classification](../../conferences/neurips-2026/cards-0006.md#paper-150743)
+- [GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs](../../conferences/neurips-2026/cards-0006.md#paper-149829)
+- [Graph Learning from Label Proportions using Topology-Aware Pseudo Labeling and Aggregation](../../conferences/neurips-2026/cards-0006.md#paper-156071)
+- [GraphUAT: Uncertainty Attribution in Graph Neural Networks](../../conferences/neurips-2026/cards-0006.md#paper-149147)
 
 <!-- conference-classification:end -->

@@ -493,5 +493,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - [GeoRad-3D: Factorized Geometry Transport and Residual Radiometry for 3D Radar Nowcasting](../../conferences/neurips-2026/cards-0006.md#paper-152938)
 - [GeoTransolver: Learning Physics on Irregular Domains using Multi-scale Geometry Aware Physics Attention Transformer](../../conferences/neurips-2026/cards-0006.md#paper-152562)
 - [GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem](../../conferences/neurips-2026/cards-0006.md#paper-152133)
+- [GRAPE: Graph-Augmented Prototype Explanations for Interactive Medical Image Diagnosis](../../conferences/neurips-2026/cards-0006.md#paper-150019)
+- [GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement](../../conferences/neurips-2026/cards-0006.md#paper-154294)
+- [GridDiffuser: Constraint-Guided Graph Diffusion for AC Optimal Power Flow](../../conferences/neurips-2026/cards-0006.md#paper-152781)
+- [GRNAgent: A Multimodal Graph Reasoning Agent for Gene Regulatory Network Inference](../../conferences/neurips-2026/cards-0006.md#paper-149734)
 
 <!-- conference-classification:end -->

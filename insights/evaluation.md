@@ -1177,5 +1177,15 @@
 - [GISA: A Benchmark for General Information-Seeking Assistant](../conferences/neurips-2026/cards-0006.md#paper-139591)
 - [Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures](../conferences/neurips-2026/cards-0006.md#paper-139393)
 - [GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing](../conferences/neurips-2026/cards-0006.md#paper-139632)
+- [GRAPE: Graph-Augmented Prototype Explanations for Interactive Medical Image Diagnosis](../conferences/neurips-2026/cards-0006.md#paper-150019)
+- [Graph Distance Based on Cause-Effect Estimands with Latents](../conferences/neurips-2026/cards-0006.md#paper-155722)
+- [GraphInstruct: A Progressive Benchmark for Diagnosing Capability Gaps in LLM Graph Generation](../conferences/neurips-2026/cards-0006.md#paper-139037)
+- [GraphIP–Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?](../conferences/neurips-2026/cards-0006.md#paper-139174)
+- [Graph Label Alignment: A Diagnostic Atlas for Graph Classification](../conferences/neurips-2026/cards-0006.md#paper-150743)
+- [GraphUAT: Uncertainty Attribution in Graph Neural Networks](../conferences/neurips-2026/cards-0006.md#paper-149147)
+- [Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes](../conferences/neurips-2026/cards-0006.md#paper-150726)
+- [Grounded or Fabricated? Unsupervised Detection of LLM Hallucinations via Contextualized Influence on Response Embeddings](../conferences/neurips-2026/cards-0006.md#paper-148826)
+- [Ground False: Uncovering Errors in Formal Mathematics Benchmarks](../conferences/neurips-2026/cards-0006.md#paper-139101)
+- [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](../conferences/neurips-2026/cards-0006.md#paper-139134)
 
 <!-- conference-classification:end -->

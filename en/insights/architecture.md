@@ -330,5 +330,8 @@ Model-wide design and information flow.
 - [GeoTransolver: Learning Physics on Irregular Domains using Multi-scale Geometry Aware Physics Attention Transformer](../../conferences/neurips-2026/cards-0006.md#paper-152562)
 - [GPU Hierarchy Meets Structured Matrices: Fast Algorithms for State-Space Models](../../conferences/neurips-2026/cards-0006.md#paper-149931)
 - [GraDE: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures](../../conferences/neurips-2026/cards-0006.md#paper-148527)
+- [GRNAgent: A Multimodal Graph Reasoning Agent for Gene Regulatory Network Inference](../../conferences/neurips-2026/cards-0006.md#paper-149734)
+- [Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation](../../conferences/neurips-2026/cards-0006.md#paper-152856)
+- [Grounding Driving VLA via Inverse Kinematics](../../conferences/neurips-2026/cards-0006.md#paper-152499)
 
 <!-- conference-classification:end -->
