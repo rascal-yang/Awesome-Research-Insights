@@ -2011,3 +2011,63 @@
 - **适用条件 / 局限** · 验证集中在导航；视觉预测窗口需随障碍变化速度重新校准。
 
 **可复用机制** · 联合扩散时分别设置预测和执行时域，在匹配计算预算下比较避障、推理延迟与轨迹平滑度。
+
+<a id="paper-nykpeymvbg"></a>
+
+## SPAN-Nav: Generalized Spatial Awareness for Embodied Navigation
+
+[会议记录](https://openreview.net/forum?id=nYkpEYmvbg) · [原文](https://openreview.net/pdf?id=nYkpEYmvbg)
+
+- **问题 / 瓶颈** · RGB 导航模型缺少对障碍空间的显式中间表示。
+- **核心创新 / 方法** · 从 RGB 视频预测自视角三维占据，将连续潜空间压成空间 token；先接真值占据训练决策，再用自预测空间先验适配。
+- **Baseline** · 摘要未列具体对比方法。
+- **Benchmark** · R2R-CE、RxR-CE、MetaUrban、InternVLA-N1 System-1 点目标与真机；比较成功率和碰撞代价。
+- **关键结果 / 消融** · 摘要报告两个室内语言导航基准成功率分别提高 4.6% 和 5.3%；零样本点目标成功率为 90.9% 和 91.0%。
+- **适用条件 / 局限** · 需要占据监督，论文使用 420 万占据标注；摘要未拆分数据规模与两阶段训练的贡献。
+
+**可复用机制** · 当策略依赖可预测的中间变量时，先用可靠变量学习决策，再换成部署时的预测变量适配，并对照仅用真值训练。
+
+<a id="paper-1zwj66605w"></a>
+
+## G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation
+
+[会议记录](https://openreview.net/forum?id=1zWj66605w) · [原文](https://openreview.net/pdf?id=1zWj66605w)
+
+- **问题 / 瓶颈** · 端到端 VLM 规划难以解释，语义推理延迟与人群变化容易造成决策过时。
+- **核心创新 / 方法** · 将开放集识别中的可通行区域和社会主体转成代价图，用 VLM 核查跟踪语义，并在轨迹生成前做高频安全检查。
+- **Baseline** · 摘要未报告实验基线。
+- **Benchmark** · 非结构化环境真机社会导航，评估安全、效率和社会规范符合度；摘要未给指标定义。
+- **关键结果 / 消融** · 作者报告可进行自主社会导航，摘要未给量化结果及模块消融。
+- **适用条件 / 局限** · 依赖开放集感知和跟踪；摘要未给拥挤度上限与极端延迟边界。
+
+**可复用机制** · 把慢速语义判断与快速几何检查分层；用同一规划器比较标量代价图和直接文本规划对路径的影响。
+
+<a id="paper-8xayrudune"></a>
+
+## Self-supervised Dispersive Sampling for Quadrotor Motion Planning
+
+[会议记录](https://openreview.net/forum?id=8xaYRUduNe) · [原文](https://openreview.net/pdf?id=8xaYRUduNe)
+
+- **问题 / 瓶颈** · 控制空间均匀采样经非线性动力学后可能在可达状态空间高度集中，降低树搜索的覆盖。
+- **核心创新 / 方法** · 利用低离散度参考映射作自监督支架，学习轻量采样分布，使映射后的局部状态覆盖更均匀。
+- **Baseline** · 比较朴素控制采样、常用运动原语库和成熟轨迹优化方法。
+- **Benchmark** · 四旋翼动力学规划和密集障碍场景，比较搜索可用性、轨迹机动性与几何覆盖体积。
+- **关键结果 / 消融** · 朴素采样失败的实例中学习采样能支持搜索；覆盖体积约为原语库三倍。
+- **适用条件 / 局限** · 依赖可进行前向计算的动力学和参考覆盖构造；摘要未报告真实飞行或跨机型验证。
+
+**可复用机制** · 做非线性系统轨迹搜索时，检查采样在后继状态空间的分布，再用覆盖损失优化采样，而非只对动作空间设均匀先验。
+
+<a id="paper-5m9zsorosa"></a>
+
+## Scaled Preference Conditioning for Terrain Costmap Generation
+
+[会议记录](https://openreview.net/forum?id=5m9zSorosa) · [原文](https://openreview.net/pdf?id=5m9zSorosa)
+
+- **问题 / 瓶颈** · 固定代价难以适应不同任务，类别查表又难覆盖未知地形。
+- **核心创新 / 方法** · 用合成数据训练地形代价生成器，并以用户设定的缩放偏好为条件改变不同地形的相对代价。
+- **Baseline** · 比较语义分割和表示学习路线；摘要未列各方法名称。
+- **Benchmark** · 大型航拍地图全局路径规划测偏好后悔值；RELLIS 测相对真值代价图的 MAE。
+- **关键结果 / 消融** · 七个环境中五个有最低后悔值，RELLIS 的 MAE 比次优方法最多低 13%。
+- **适用条件 / 局限** · 依赖训练地形及偏好的覆盖，摘要未报告超出偏好范围时的行为。
+
+**可复用机制** · 需要复用同一地图支持多种任务时，先对偏好分量做条件化并验证每种偏好下的路径后悔值。

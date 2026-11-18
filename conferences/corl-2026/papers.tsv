@@ -145,10 +145,10 @@ number	openreview_id	title	paper_url	reason	status
 144	JiMWz6U93i	AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge	https://openreview.net/forum?id=JiMWz6U93i	远端模型提供语义引导，边缘适配器持续按新观测修正动作。	included
 145	Av4ykyMvpX	LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation	https://openreview.net/forum?id=Av4ykyMvpX	迁移导航控制时让新感知适配冻结专家的内部状态。	included
 146	PjzSYChBzg	WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation	https://openreview.net/forum?id=PjzSYChBzg	联合生成长动作与短视觉预测，减少为远期控制生成远期视觉的成本。	included
-147	nYkpEYmvbg	SPAN-Nav: Generalized Spatial Awareness for Embodied Navigation	https://openreview.net/forum?id=nYkpEYmvbg		pending
-148	1zWj66605w	G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation	https://openreview.net/forum?id=1zWj66605w		pending
-149	8xaYRUduNe	Self-supervised Dispersive Sampling for Quadrotor Motion Planning	https://openreview.net/forum?id=8xaYRUduNe		pending
-150	5m9zSorosa	Scaled Preference Conditioning for Terrain Costmap Generation	https://openreview.net/forum?id=5m9zSorosa		pending
+147	nYkpEYmvbg	SPAN-Nav: Generalized Spatial Awareness for Embodied Navigation	https://openreview.net/forum?id=nYkpEYmvbg	利用真值占据学习空间决策，再用自预测占据训练以缩小部署差距。	included
+148	1zWj66605w	G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation	https://openreview.net/forum?id=1zWj66605w	将 VLM 的社会约束转成空间代价，交给独立规划器与高频安全检查。	included
+149	8xaYRUduNe	Self-supervised Dispersive Sampling for Quadrotor Motion Planning	https://openreview.net/forum?id=8xaYRUduNe	根据控制经动力学映射后的状态覆盖训练采样器。	included
+150	5m9zSorosa	Scaled Preference Conditioning for Terrain Costmap Generation	https://openreview.net/forum?id=5m9zSorosa	把任务偏好作为代价图生成的显式输入，任务切换时更新偏好向量。	included
 151	dkaxE3v6uu	From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation	https://openreview.net/forum?id=dkaxE3v6uu		pending
 152	1JcOSLXzHB	TopoUrbanBench: Group-Structural Compliance Evaluation for Urban Robot Navigation	https://openreview.net/forum?id=1JcOSLXzHB		pending
 153	7tCsPSbYZb	GRACE: Group-Aware Socially Compliant Visual Navigation in Human Environments	https://openreview.net/forum?id=7tCsPSbYZb		pending

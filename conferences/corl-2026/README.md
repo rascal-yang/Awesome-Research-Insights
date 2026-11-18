@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **138 / 687** 篇，当前收录 **134** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **142 / 687** 篇，当前收录 **138** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -140,3 +140,7 @@
 | 具身智能 / 多模态 | 异步控制 | [AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge](cards.md#paper-jimwz6u93i) | 远端模型提供语义引导，边缘适配器持续按新观测修正动作。 |
 | 具身智能 / 多模态 | 表示对齐 | [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](cards.md#paper-av4ykymvpx) | 迁移导航控制时让新感知适配冻结专家的内部状态。 |
 | 具身智能 / 世界模型 | 扩散策略 | [WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation](cards.md#paper-pjzsychbzg) | 联合生成长动作与短视觉预测，减少为远期控制生成远期视觉的成本。 |
+| 具身智能 / 多模态 | 空间表示 | [SPAN-Nav: Generalized Spatial Awareness for Embodied Navigation](cards.md#paper-nykpeymvbg) | 利用真值占据学习空间决策，再用自预测占据训练以缩小部署差距。 |
+| 具身智能 / 多模态 | 代价建模 | [G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation](cards.md#paper-1zwj66605w) | 将 VLM 的社会约束转成空间代价，交给独立规划器与高频安全检查。 |
+| 具身智能 / 规划 | 采样策略 | [Self-supervised Dispersive Sampling for Quadrotor Motion Planning](cards.md#paper-8xayrudune) | 根据控制经动力学映射后的状态覆盖训练采样器。 |
+| 具身智能 / 导航 | 代价建模 | [Scaled Preference Conditioning for Terrain Costmap Generation](cards.md#paper-5m9zsorosa) | 把任务偏好作为代价图生成的显式输入，任务切换时更新偏好向量。 |
