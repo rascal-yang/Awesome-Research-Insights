@@ -1385,5 +1385,18 @@
 - [SkipSR: Faster Super-Resolution with Token Skipping](../conferences/neurips-2026/cards-0011.md#paper-150768)
 - [SLIDERS: Systematic Reviews via Automated Evidence Synthesis and Reconciliation](../conferences/neurips-2026/cards-0011.md#paper-153403)
 - [SMART: Scalable Multi-Agent Role-conditioned  Teaming via LLM-free Tree Search](../conferences/neurips-2026/cards-0011.md#paper-149874)
+- [SP$^2$ec: Adaptive Self-Speculative Decoding for Vision-Language Models](../conferences/neurips-2026/cards-0011.md#paper-150441)
+- [SP$^3$: Spherical Priors for Plug-and-Play Restoration](../conferences/neurips-2026/cards-0011.md#paper-154253)
+- [Sparsely Supervised Diffusion](../conferences/neurips-2026/cards-0011.md#paper-155610)
+- [Sparse Planning in Visual World Models via Cost Gradients](../conferences/neurips-2026/cards-0011.md#paper-153731)
+- [Sparse Repair in Reasoning Traces: A Structural View of Test-Time Inference](../conferences/neurips-2026/cards-0011.md#paper-155383)
+- [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](../conferences/neurips-2026/cards-0011.md#paper-149047)
+- [Speak Early: Speculative Speech Generation for Low-Latency SpeechLLMs](../conferences/neurips-2026/cards-0011.md#paper-152241)
+- [SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting](../conferences/neurips-2026/cards-0011.md#paper-150056)
+- [SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents](../conferences/neurips-2026/cards-0011.md#paper-150381)
+- [Specificity-Aware Diffusion Steering via Variance-Reduced Sequential Monte Carlo](../conferences/neurips-2026/cards-0011.md#paper-149673)
+- [SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation](../conferences/neurips-2026/cards-0011.md#paper-152867)
+- [SPECS: Faster Test-Time Scaling through Speculative Drafts and Dynamic Switching](../conferences/neurips-2026/cards-0011.md#paper-155889)
+- [Spectral Progressive Diffusion for Efficient Image and Video Generation](../conferences/neurips-2026/cards-0011.md#paper-151007)
 
 <!-- conference-classification:end -->

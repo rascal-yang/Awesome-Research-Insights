@@ -398,5 +398,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Self-Supervised Doppler-Guided RF Odometry](../../conferences/neurips-2026/cards-0011.md#paper-153105)
 - [Simmer: A Scalable Pretraining Recipe for Video-Text Encoders](../../conferences/neurips-2026/cards-0011.md#paper-154316)
 - [SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization](../../conferences/neurips-2026/cards-0011.md#paper-156008)
+- [Soft Token Alignment for Cross-Lingual Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-149550)
 
 <!-- conference-classification:end -->

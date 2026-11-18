@@ -151,3 +151,88 @@
 | 机器学习基础与统计 | 模型与架构 | [Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions](cards-0011.md#paper-152423) | 神经算子把不连续边界和区内光滑解分开 |
 | 视觉与多模态 | 模型与架构 | [SO(3)-Equivariant Learning on CAD Boundary Representations](cards-0011.md#paper-148985) | CAD 编码对中间方向做等变传播，末端读出不变 |
 | 机器学习基础与统计 | 训练与优化 | [SOAP-Bubbles: Effective and Scalable Variational Learning with Structured Covariances](cards-0011.md#paper-151769) | 变分近似用二阶坐标结构表达协方差 |
+| 具身智能与机器人 | 三维视觉 | [SOAR: Regression-based LiDAR Relocalization for UAVs](cards-0011.md#paper-151153) | 航拍 LiDAR 定位用局部不变位置编码。 |
+| 多模态学习 | 预训练 | [SOAR: Semantic Organ-Aware Pretraining for 3D CT Image Understanding](cards-0011.md#paper-148421) | 报告稀疏时加入局部解剖等区域语义监督。 |
+| 生成模型 | 最优传输 | [Sobolev Regularized MMD Gradient Flow](cards-0011.md#paper-152622) | MMD 训练不收敛时正则 witness 梯度。 |
+| 多模态学习 | 偏好优化 | [SoccerNarrate: Event-Grounded Streaming Soccer Commentary with Macro-Window Preference Alignment](cards-0011.md#paper-152951) | 流式解说在事件窗口核实输出。 |
+| 智能体与工具使用 | 采样与数据选择 | [Social Choice Foundations for Simulation-Augmented Generation](cards-0011.md#paper-148453) | 多角色模拟同时限制构建和查询规模。 |
+| 生成模型 | 视频建模 | [SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation](cards-0011.md#paper-155006) | 多人物视频分别检查主体、动作与目标。 |
+| 智能体与工具使用 | 评测与诊断 | [Social Interaction Breaks Replicate Independence in Controlled-Clone LLM Agents](cards-0011.md#paper-148789) | 多代理相互交流时采用不交流的配对随机对照。 |
+| 深度学习 | 约束优化 | [SOC-ICNN: From Polyhedral to Conic Geometry for Learning Convex Surrogate Functions](cards-0011.md#paper-150828) | 凸代理有光滑曲率时选锥基元。 |
+| 深度学习 | 数据合成 | [SODA: Selective Optimization with Deferred BN Alignment for Efficient Dataset Distillation](cards-0011.md#paper-150571) | 数据蒸馏只对关键 BN 层延迟对齐。 |
+| 大语言模型 | 评测与诊断 | [Soft Contamination Means Benchmarks Test Shallow Generalization](cards-0011.md#paper-152288) | 污染检查应检索语义近副本，并做跨基准迁移。 |
+| 强化学习 | 表征学习 | [Soft Forward-Backward Representations for Zero-shot Reinforcement Learning with General Utilities](cards-0011.md#paper-151016) | 非线性总效用用软前向后向策略族。 |
+| 具身智能与机器人 | 世界模型 | [Soft geometric inductive bias for object centric dynamics](cards-0011.md#paper-155147) | 只有近似对称时用软几何代数先验。 |
+| 深度学习 | 约束优化 | [Soft-Radial Projection for Constrained End-to-End Learning](cards-0011.md#paper-150736) | 端到端可行输出从内点做平滑径向变换。 |
+| 大语言模型 | 损失函数 | [Soft Token Alignment for Cross-Lingual Reasoning](cards-0011.md#paper-149550) | 多语推理蒸馏按软 token 共享语义而非逐字。 |
+| 计算机视觉 | 注意力机制 | [SOLA: A Structured Operator Library for Attention in Pretrained Vision Transformers](cards-0011.md#paper-149135) | 替换 ViT 注意头前以逐头误差诊断控风险。 |
+| 模型效率与系统 | 评测与诊断 | [SOLAR: AI-Powered Speed-of-Light Performance Analysis](cards-0011.md#paper-155686) | 先估硬件理论性能上限再给优化代理任务。 |
+| 生成模型 | 世界模型 | [Solaris: Building a Multiplayer Video World Model in Minecraft](cards-0011.md#paper-148491) | 多人视频世界模型训练检查同一世界的跨视角约束。 |
+| 具身智能与机器人 | 奖励设计 | [SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](cards-0011.md#paper-153893) | 无手写奖励的实机学习须压力测试视觉评判。 |
+| 模型效率与系统 | 评测与诊断 | [SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits](cards-0011.md#paper-139395) | GPU 优化代理用硬件上限评分并隔离执行。 |
+| 科学机器学习 | 训练策略 | [Solver-as-Teacher: Solver-Guided On-Policy Post-Training Framework for PDE Foundation Models](cards-0011.md#paper-151443) | 用求解器对当前模型访问的状态给出局部训练目标。 |
+| 大语言模型 | 训练策略 | [Solver-Aware Decompositions for Programming-by-Example: When Dividing Requires Knowing how to Conquer](cards-0011.md#paper-152502) | 按特定求解器的可解性训练分解器，而不是拟合人工子目标。 |
+| 大语言模型 | 评测与诊断 | [Solving Every Step Is Not Enough: Milestone Oracles Reveal a Composition Gap in LLM Math Reasoning](cards-0011.md#paper-139575) | 将独立子题求解和多个子结果的组合能力分开测试。 |
+| 图学习 | 优化 | [Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks](cards-0011.md#paper-154770) | 学习模型给精确搜索的候选解应先满足能保留证书的可行性。 |
+| 机器人学 | 优化 | [Solving Stochastic Control under Multiplicative and Internal Noise via Constrained Optimization](cards-0011.md#paper-148806) | 控制与估计耦合时，用约束优化交替求两者。 |
+| 多模态学习 | 评测与诊断 | [Sophon: A Procedural Diagnostic for Spatial Reasoning in Vision-Language Models](cards-0011.md#paper-153057) | 视觉空间推理分开测坐标体系、题型和表示读出。 |
+| 大语言模型 | 模块 | [Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents](cards-0011.md#paper-154927) | 有副作用的代理操作用执行前形式验证和执行期约束共同保护。 |
+| 机器学习基础与统计 | 评测与诊断 | [Sound Verification of Deployed Neural Networks](cards-0011.md#paper-149794) | 神经网络验证用部署环境的数值语义核对证书。 |
+| 多模态学习 | 评测与诊断 | [Source-Causal Control of Historical Context in Longitudinal Radiology Report Generation](cards-0011.md#paper-154092) | 加入历史信息时，用同类但错误的历史做负对照。 |
+| 多模态学习 | 推理策略 | [SP$^2$ec: Adaptive Self-Speculative Decoding for Vision-Language Models](cards-0011.md#paper-150441) | 根据当前请求在线选择自推测草稿跳过多少模型层。 |
+| 计算机视觉 | 推理策略 | [SP$^3$: Spherical Priors for Plug-and-Play Restoration](cards-0011.md#paper-154253) | 图像恢复可交替做球面先验投影和闭式数据一致性。 |
+| 机器人学 | 模型架构 | [Space-Aware World Models: Spatial Persistence Through Factored Scene Representations](cards-0011.md#paper-153437) | 静态导航场景只编码一次，动态模型只滚动低维代理状态。 |
+| 科学机器学习 | 模型架构 | [Space Group Conditional Flow Matching](cards-0011.md#paper-152663) | 已知物理对称性用群条件生成与平均保证。 |
+| 图学习 | 表征学习 | [SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver](cards-0011.md#paper-155167) | 把节点嵌入定义为对枢轴的相对距离，而非假定欧式坐标。 |
+| 视觉与多模态 | 效率与系统 | [SpanFormer: Multi-Level Adaptive Sparsity for Object Detection in High-Resolution Wide Shots](cards-0011.md#paper-155840) | 高分辨检测裁窗后用稀疏跨窗记忆保场景上下文 |
+| 大语言模型 | 评测与诊断 | [SPANUQ: Span-Level Uncertainty Quantification for Large Language Model Generation](cards-0011.md#paper-150088) | 生成可靠性同时验收错误片段定位 |
+| 视觉与多模态 | 模型与架构 | [Sparse All-Layer Connector for Domain Generalised Semantic Segmentation](cards-0011.md#paper-153049) | 冻结骨干融合时动态选层而非逐层对齐 |
+| 大语言模型 | 效率与系统 | [Sparse Attention as a Range Searching Problem: Towards an Inference-Efficient Index for KV Cache](cards-0011.md#paper-150458) | 稀疏 KV 查找把检索召回纳入验收 |
+| 机器学习基础与统计 | 记忆与检索 | [Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity](cards-0011.md#paper-155048) | 固定每步算力时用稀疏读写扩大显式循环状态 |
+| 大语言模型 | 评测与诊断 | [Sparse Expansion Utility: Identifying and Routing to Pivotal Steps in LLM Reasoning Chains](cards-0011.md#paper-154235) | 选推理分支时以实际收益排序监督 |
+| 具身智能与机器人 | 模型与架构 | [Sparse Koopman Autoencoders Identify Local Dynamical Regimes in Multibasin Systems](cards-0011.md#paper-149627) | 多动力学区间用稀疏 Koopman 支持识别局部模式 |
+| 大语言模型 | 效率与系统 | [Sparse Layers are Critical to Scaling Looped Language Models](cards-0011.md#paper-148156) | 循环语言模型优先在完整循环边界退出 |
+| 视觉与多模态 | 生成与扩散 | [Sparsely Supervised Diffusion](cards-0011.md#paper-155610) | 小样本扩散训练用稀疏监督约束上下文利用 |
+| 深度学习 | 时序建模 | [Sparse Multimodal Switching State-Space Models for Regime-Dependent Neural Connectivity under Partial Observations](cards-0011.md#paper-151057) | 多传感部分观测用共享潜状态与切换稀疏关系。 |
+| 具身智能与机器人 | 搜索与规划 | [Sparse Planning in Visual World Models via Cost Gradients](cards-0011.md#paper-153731) | 世界模型以规划代价梯度筛视觉 token。 |
+| 大语言模型 | 采样与推理 | [Sparse Repair in Reasoning Traces: A Structural View of Test-Time Inference](cards-0011.md#paper-155383) | 测试时优先局部修复关键推理位置。 |
+| 大语言模型 | 可解释性 | [Sparse Reward Subsystem in Large Language Models](cards-0011.md#paper-155694) | 使用内部奖励信号前测试其集中与因果性。 |
+| 深度学习 | 约束优化 | [Sparse Sum-of-Squares Layers for Certified Learning](cards-0011.md#paper-150790) | 可微证书层的反传沿用求解稀疏结构。 |
+| 深度学习 | 优化算法 | [Sparse Updates Generalize Better Than Optimization: Stability Analysis for Randomized Subspace Descent](cards-0011.md#paper-148588) | 随机子空间下降按测试风险调更新稀疏率。 |
+| 具身智能与机器人 | 世界模型 | [Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation](cards-0011.md#paper-155269) | 越视野导航先生成稀疏未来再解轨迹。 |
+| 深度学习 | 优化算法 | [Sparsity for Free: A Budget-Induced Equilibrium in Joint Topology–Parameter Search](cards-0011.md#paper-148319) | 比较网络拓扑搜索时控制各结构获得的评估次数。 |
+| 计算机视觉 | 评测与诊断 | [SpatialBench: Is Your Spatial Foundation Model an All-Round Player](cards-0011.md#paper-139780) | 空间模型选型把视角、密度、域和设备合成压力矩阵。 |
+| 智能体与工具使用 | 搜索与规划 | [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](cards-0011.md#paper-149047) | 空间推理先执行单元，再以中间结果改下一步。 |
+| 深度学习 | 评测与诊断 | [SPATIALEPIBENCH: Benchmarking Spatial Information and Epidemic Priors in Forecasting](cards-0011.md#paper-139727) | 公共时序预报使用滚动评估并保最后值基线。 |
+| 生成模型 | 奖励设计 | [SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing](cards-0011.md#paper-148740) | 多区域编辑将奖励分配到局部更新。 |
+| 多模态学习 | 评测与诊断 | [Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests](cards-0011.md#paper-139304) | 空间计数先测构成能力再归因总错误。 |
+| 计算机视觉 | 三维视觉 | [Spatially Feasible 3D Indoor Scene Generation via Interaction-Oriented Human Proxy](cards-0011.md#paper-151858) | 室内布局生成引入人机交互可行性代理。 |
+| 生成模型 | 世界模型 | [Spatially-Grounded Long Video Generation with Self Geometry Forcing](cards-0011.md#paper-154561) | 长视频以自身预测几何作持久全局记忆。 |
+| 具身智能与机器人 | 知识蒸馏 | [Spatial Representation Distillation and Knowledge Routing for Vision-Language-Action Models](cards-0011.md#paper-154721) | 小 VLA 分开蒸馏空间表示及路由所需知识。 |
+| 多模态学习 | 参数高效微调 | [Spatial-temporal Attributes Enhanced Prompt Weighting and Fusion for Video Recognition](cards-0011.md#paper-153697) | 视频提示按当前样本筛可用时空属性。 |
+| 具身智能与机器人 | 世界模型 | [SpatialVAM: Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy](cards-0011.md#paper-151702) | 动作视频同时预测多视角热图及 RGB。 |
+| 深度学习 | 联邦学习 | [SP-CACW: Convergence-Aware Client Weighting for Selfish Personalized Learning](cards-0011.md#paper-152385) | 个性化客户端加权用真实收敛项而非静态聚类。 |
+| 科学机器学习 | 评测与诊断 | [SPDEBench: An Extensive Benchmark for Learning Stochastic PDEs](cards-0011.md#paper-139762) | 随机 PDE 比较要固定噪声离散化、谱基以及数据构造。 |
+| 多模态学习 | 推理策略 | [Speak Early: Speculative Speech Generation for Low-Latency SpeechLLMs](cards-0011.md#paper-152241) | 延迟预算较紧时让文本解码和语音合成重叠。 |
+| 大语言模型 | 推理策略 | [SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting](cards-0011.md#paper-150056) | 推测草稿可以一次生成一块互相依赖的预测位置。 |
+| 大语言模型 | 训练策略 | [SpecBridge: Learning Natural-Language Formalization Plans for the Formal Specification Synthesis Task](cards-0011.md#paper-148847) | 从自然语言合成形式规格前先产出显式自然语言形式化计划。 |
+| 机器学习基础与统计 | 模型架构 | [SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization](cards-0011.md#paper-148346) | 标签分类粒度与分支能力匹配时，先用固定路由对照学习路由。 |
+| 大语言模型 | 推理策略 | [SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents](cards-0011.md#paper-150381) | 多跳检索可并行准备多条候选观测，只提交经原工具验证的路径。 |
+| 大语言模型 | 评测与诊断 | [Specialist Mediators: Causal Localization of Dense Fine-Tuning](cards-0011.md#paper-148508) | 稀疏适配前测能力变化由注意力还是 MLP 承担。 |
+| 计算机视觉 | 推理策略 | [Specificity-Aware Diffusion Steering via Variance-Reduced Sequential Monte Carlo](cards-0011.md#paper-149673) | 负条件扩散抑制仅限制正、负目标重叠的区域。 |
+| 计算机视觉 | 推理策略 | [SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation](cards-0011.md#paper-152867) | 视频扩散的运动纠偏可对前瞻预测作稀疏频域干预。 |
+| 大语言模型 | 推理策略 | [SPECS: Faster Test-Time Scaling through Speculative Drafts and Dynamic Switching](cards-0011.md#paper-155889) | 推理时让便宜模型并行提出候选，并由较强模型和评分器验证。 |
+| 机器学习基础与统计 | 表征学习 | [Spectral-Aligned Pruning for Universal Error-Correcting Code Transformers](cards-0011.md#paper-151780) | 在多个结构相异但谱特性近的任务间复用同一结构化剪枝掩码。 |
+| 强化学习 | 表征学习 | [Spectral Alignment in Forward–Backward Representations via Temporal Abstraction](cards-0011.md#paper-149102) | 长程价值表征在轨迹时间抽象后再训练，以削弱难拟合的快速模式。 |
+| 图学习 | 优化 | [Spectral Annealing: Normalization-Path Exploration for Large-Scale Ising Optimization](cards-0011.md#paper-151524) | 谱优化沿一条归一化路径探索多个解，而非只求一个谱近似。 |
+| 机器学习基础与统计 | 理论与统计 | [Spectral Degeneration of Softmax Attention under Isotropic Score Geometry](cards-0011.md#paper-154061) | 诊断注意力压缩时可比较 softmax 前后的主谱和谱体变化。 |
+| 机器学习基础与统计 | 训练策略 | [Spectral Energy Allocation Enables Source-Free Domain Adaptation in Time Series Forecasting](cards-0011.md#paper-154914) | 用目标域自动构建短期序列监督，再以频谱能量对齐指导长域。 |
+| 大语言模型 | 评测与诊断 | [Spectral Geometry of Attention: From Information Routing to Uncertainty](cards-0011.md#paper-152378) | 注意力谱测路由与置信时校正 sink 质量集中 |
+| 具身智能与机器人 | 理论与统计 | [Spectral Identifiability for World Models: Polynomial Projectors, Resolvent Stability, and a Krylov Bottleneck](cards-0011.md#paper-149561) | 线性世界模型潜维选择看多步 Krylov 谱和控制回报 |
+| 具身智能与机器人 | 训练与优化 | [Spectral Insights from the Unconstrained Feature Model for Neural Multi-Output Regression](cards-0011.md#paper-154057) | 多维动作回归先比较联合头、分离头和目标缩放 |
+| 大语言模型 | 效率与系统 | [SpectralKV: Redundancy-Aware KV Cache Compression via Spectral Coreset Selection](cards-0011.md#paper-148958) | KV 总预算按层集中度和方向冗余分配 |
+| 机器学习基础与统计 | 记忆与检索 | [Spectral Measures of Mamba Conductances Predict and Shape Effective Receptive Fields](cards-0011.md#paper-153177) | 状态空间模式按导通谱调节长程响应 |
+| 视觉与多模态 | 生成与扩散 | [Spectral Progressive Diffusion for Efficient Image and Video Generation](cards-0011.md#paper-151007) | 扩散早期低分运算，后期增加分辨率 |
+| 强化学习与决策 | 强化学习与奖励 | [Spectral Representations for Provably Robust Offline Meta-Reinforcement Learning from Bagged Rewards](cards-0011.md#paper-148147) | 只有片段总奖励时按包识别任务 |
+| 视觉与多模态 | 评测与诊断 | [Spectral Stratification of Semantic Abstraction in Vision-Language Models](cards-0011.md#paper-154946) | 多模态检索按需求选抽象层级的谱秩 |
+| 机器学习基础与统计 | 模型与架构 | [Spectral Transformer Neural Processes](cards-0011.md#paper-154075) | 周期场序列把周期特征与时间域特征联合建模 |

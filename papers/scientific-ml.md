@@ -678,5 +678,8 @@
 - [Reversing the Roles of Signal and Noise: Modeling Noise in Astronomical Images without Paired Data](../conferences/neurips-2026/cards-0010.md#paper-150362)
 - [RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](../conferences/neurips-2026/cards-0010.md#paper-149820)
 - [Scaling Neural Motor Decoding via Decoupled Behavioral Pretraining](../conferences/neurips-2026/cards-0010.md#paper-153888)
+- [Solver-as-Teacher: Solver-Guided On-Policy Post-Training Framework for PDE Foundation Models](../conferences/neurips-2026/cards-0011.md#paper-151443)
+- [Space Group Conditional Flow Matching](../conferences/neurips-2026/cards-0011.md#paper-152663)
+- [SPDEBench: An Extensive Benchmark for Learning Stochastic PDEs](../conferences/neurips-2026/cards-0011.md#paper-139762)
 
 <!-- conference-classification:end -->

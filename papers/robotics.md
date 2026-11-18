@@ -864,5 +864,17 @@
 - [SimVLA: Attributing Gains in VLA Models Through Controlled Ablation](../conferences/neurips-2026/cards-0011.md#paper-152120)
 - [Skill-Adaptive Noise Scheduling for Diffusion Policies](../conferences/neurips-2026/cards-0011.md#paper-150596)
 - [SkiP: When to Skip and When to Refine for Efficient Robot Manipulation](../conferences/neurips-2026/cards-0011.md#paper-151503)
+- [SOAR: Regression-based LiDAR Relocalization for UAVs](../conferences/neurips-2026/cards-0011.md#paper-151153)
+- [Soft geometric inductive bias for object centric dynamics](../conferences/neurips-2026/cards-0011.md#paper-155147)
+- [SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-153893)
+- [Solving Stochastic Control under Multiplicative and Internal Noise via Constrained Optimization](../conferences/neurips-2026/cards-0011.md#paper-148806)
+- [Space-Aware World Models: Spatial Persistence Through Factored Scene Representations](../conferences/neurips-2026/cards-0011.md#paper-153437)
+- [Sparse Koopman Autoencoders Identify Local Dynamical Regimes in Multibasin Systems](../conferences/neurips-2026/cards-0011.md#paper-149627)
+- [Sparse Planning in Visual World Models via Cost Gradients](../conferences/neurips-2026/cards-0011.md#paper-153731)
+- [Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation](../conferences/neurips-2026/cards-0011.md#paper-155269)
+- [Spatial Representation Distillation and Knowledge Routing for Vision-Language-Action Models](../conferences/neurips-2026/cards-0011.md#paper-154721)
+- [SpatialVAM: Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy](../conferences/neurips-2026/cards-0011.md#paper-151702)
+- [Spectral Identifiability for World Models: Polynomial Projectors, Resolvent Stability, and a Krylov Bottleneck](../conferences/neurips-2026/cards-0011.md#paper-149561)
+- [Spectral Insights from the Unconstrained Feature Model for Neural Multi-Output Regression](../conferences/neurips-2026/cards-0011.md#paper-154057)
 
 <!-- conference-classification:end -->

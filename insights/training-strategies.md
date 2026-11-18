@@ -915,5 +915,13 @@
 - [SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing](../conferences/neurips-2026/cards-0011.md#paper-150237)
 - [SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning](../conferences/neurips-2026/cards-0011.md#paper-153896)
 - [SOAP-Bubbles: Effective and Scalable Variational Learning with Structured Covariances](../conferences/neurips-2026/cards-0011.md#paper-151769)
+- [SOAR: Semantic Organ-Aware Pretraining for 3D CT Image Understanding](../conferences/neurips-2026/cards-0011.md#paper-148421)
+- [Solver-as-Teacher: Solver-Guided On-Policy Post-Training Framework for PDE Foundation Models](../conferences/neurips-2026/cards-0011.md#paper-151443)
+- [Solver-Aware Decompositions for Programming-by-Example: When Dividing Requires Knowing how to Conquer](../conferences/neurips-2026/cards-0011.md#paper-152502)
+- [Spatial Representation Distillation and Knowledge Routing for Vision-Language-Action Models](../conferences/neurips-2026/cards-0011.md#paper-154721)
+- [Spatial-temporal Attributes Enhanced Prompt Weighting and Fusion for Video Recognition](../conferences/neurips-2026/cards-0011.md#paper-153697)
+- [SpecBridge: Learning Natural-Language Formalization Plans for the Formal Specification Synthesis Task](../conferences/neurips-2026/cards-0011.md#paper-148847)
+- [Spectral Energy Allocation Enables Source-Free Domain Adaptation in Time Series Forecasting](../conferences/neurips-2026/cards-0011.md#paper-154914)
+- [Spectral Insights from the Unconstrained Feature Model for Neural Multi-Output Regression](../conferences/neurips-2026/cards-0011.md#paper-154057)
 
 <!-- conference-classification:end -->

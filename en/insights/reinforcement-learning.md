@@ -715,5 +715,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models](../../conferences/neurips-2026/cards-0011.md#paper-155890)
 - [SLOPE: Optimistic Potential Landscape Shaping for Model-based Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-154636)
 - [Smart Picks in the Dark: Towards Efficient RLVR for Reasoning via Tracing Metacognitive Pivots](../../conferences/neurips-2026/cards-0011.md#paper-150817)
+- [SoccerNarrate: Event-Grounded Streaming Soccer Commentary with Macro-Window Preference Alignment](../../conferences/neurips-2026/cards-0011.md#paper-152951)
+- [SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-153893)
+- [SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing](../../conferences/neurips-2026/cards-0011.md#paper-148740)
+- [Spectral Representations for Provably Robust Offline Meta-Reinforcement Learning from Bagged Rewards](../../conferences/neurips-2026/cards-0011.md#paper-148147)
 
 <!-- conference-classification:end -->

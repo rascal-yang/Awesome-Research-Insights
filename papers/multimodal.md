@@ -954,5 +954,18 @@
 - [SLVMBench: Skill Learning from Video Memory](../conferences/neurips-2026/cards-0011.md#paper-139283)
 - [SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows](../conferences/neurips-2026/cards-0011.md#paper-154074)
 - [SO(3)-Equivariant Learning on CAD Boundary Representations](../conferences/neurips-2026/cards-0011.md#paper-148985)
+- [SOAR: Semantic Organ-Aware Pretraining for 3D CT Image Understanding](../conferences/neurips-2026/cards-0011.md#paper-148421)
+- [SoccerNarrate: Event-Grounded Streaming Soccer Commentary with Macro-Window Preference Alignment](../conferences/neurips-2026/cards-0011.md#paper-152951)
+- [Sophon: A Procedural Diagnostic for Spatial Reasoning in Vision-Language Models](../conferences/neurips-2026/cards-0011.md#paper-153057)
+- [Source-Causal Control of Historical Context in Longitudinal Radiology Report Generation](../conferences/neurips-2026/cards-0011.md#paper-154092)
+- [SP$^2$ec: Adaptive Self-Speculative Decoding for Vision-Language Models](../conferences/neurips-2026/cards-0011.md#paper-150441)
+- [SpanFormer: Multi-Level Adaptive Sparsity for Object Detection in High-Resolution Wide Shots](../conferences/neurips-2026/cards-0011.md#paper-155840)
+- [Sparse All-Layer Connector for Domain Generalised Semantic Segmentation](../conferences/neurips-2026/cards-0011.md#paper-153049)
+- [Sparsely Supervised Diffusion](../conferences/neurips-2026/cards-0011.md#paper-155610)
+- [Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests](../conferences/neurips-2026/cards-0011.md#paper-139304)
+- [Spatial-temporal Attributes Enhanced Prompt Weighting and Fusion for Video Recognition](../conferences/neurips-2026/cards-0011.md#paper-153697)
+- [Speak Early: Speculative Speech Generation for Low-Latency SpeechLLMs](../conferences/neurips-2026/cards-0011.md#paper-152241)
+- [Spectral Progressive Diffusion for Efficient Image and Video Generation](../conferences/neurips-2026/cards-0011.md#paper-151007)
+- [Spectral Stratification of Semantic Abstraction in Vision-Language Models](../conferences/neurips-2026/cards-0011.md#paper-154946)
 
 <!-- conference-classification:end -->

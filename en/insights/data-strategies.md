@@ -386,5 +386,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Shaping Useful Noise: Energy Distributions Predict Visual Pretraining Quality](../../conferences/neurips-2026/cards-0011.md#paper-153569)
 - [SIGMA: Semantic-Difference Instruction-Grounding Mask Annotator for Text-Driven Image Manipulation Localization](../../conferences/neurips-2026/cards-0011.md#paper-151764)
 - [SkillCIR: Intent-Guided Skill Composition for Training-Free Composed Image Retrieval](../../conferences/neurips-2026/cards-0011.md#paper-149869)
+- [Social Choice Foundations for Simulation-Augmented Generation](../../conferences/neurips-2026/cards-0011.md#paper-148453)
+- [SODA: Selective Optimization with Deferred BN Alignment for Efficient Dataset Distillation](../../conferences/neurips-2026/cards-0011.md#paper-150571)
 
 <!-- conference-classification:end -->

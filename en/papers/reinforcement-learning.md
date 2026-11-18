@@ -692,5 +692,8 @@ Learning from interaction, feedback, and offline experience.
 - [Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation](../../conferences/neurips-2026/cards-0011.md#paper-149473)
 - [Skill-Level Effects in Behavioral Cloning: When Low-Skill Data Improves Performance](../../conferences/neurips-2026/cards-0011.md#paper-151198)
 - [SLOPE: Optimistic Potential Landscape Shaping for Model-based Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-154636)
+- [Soft Forward-Backward Representations for Zero-shot Reinforcement Learning with General Utilities](../../conferences/neurips-2026/cards-0011.md#paper-151016)
+- [Spectral Alignment in Forward–Backward Representations via Temporal Abstraction](../../conferences/neurips-2026/cards-0011.md#paper-149102)
+- [Spectral Representations for Provably Robust Offline Meta-Reinforcement Learning from Bagged Rewards](../../conferences/neurips-2026/cards-0011.md#paper-148147)
 
 <!-- conference-classification:end -->

@@ -761,5 +761,14 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Skip the Hessian, Keep the Rates: Globalized Semismooth Newton with Lazy Hessian Updates](../../conferences/neurips-2026/cards-0011.md#paper-149332)
 - [SliMOO: Interpretable Multi-Objective Evolutionary Search for LLM Depth Pruning](../../conferences/neurips-2026/cards-0011.md#paper-153520)
 - [Small Model Portfolios for Many Deployment Profiles: Submodular Coverage under Bundled Constraints](../../conferences/neurips-2026/cards-0011.md#paper-155994)
+- [Sobolev Regularized MMD Gradient Flow](../../conferences/neurips-2026/cards-0011.md#paper-152622)
+- [SOC-ICNN: From Polyhedral to Conic Geometry for Learning Convex Surrogate Functions](../../conferences/neurips-2026/cards-0011.md#paper-150828)
+- [Soft-Radial Projection for Constrained End-to-End Learning](../../conferences/neurips-2026/cards-0011.md#paper-150736)
+- [Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks](../../conferences/neurips-2026/cards-0011.md#paper-154770)
+- [Solving Stochastic Control under Multiplicative and Internal Noise via Constrained Optimization](../../conferences/neurips-2026/cards-0011.md#paper-148806)
+- [Sparse Sum-of-Squares Layers for Certified Learning](../../conferences/neurips-2026/cards-0011.md#paper-150790)
+- [Sparse Updates Generalize Better Than Optimization: Stability Analysis for Randomized Subspace Descent](../../conferences/neurips-2026/cards-0011.md#paper-148588)
+- [Sparsity for Free: A Budget-Induced Equilibrium in Joint Topology–Parameter Search](../../conferences/neurips-2026/cards-0011.md#paper-148319)
+- [Spectral Annealing: Normalization-Path Exploration for Large-Scale Ising Optimization](../../conferences/neurips-2026/cards-0011.md#paper-151524)
 
 <!-- conference-classification:end -->

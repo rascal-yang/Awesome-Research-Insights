@@ -605,5 +605,9 @@
 - [Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards](../conferences/neurips-2026/cards-0011.md#paper-154702)
 - [SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](../conferences/neurips-2026/cards-0011.md#paper-149726)
 - [SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows](../conferences/neurips-2026/cards-0011.md#paper-154074)
+- [Soft Forward-Backward Representations for Zero-shot Reinforcement Learning with General Utilities](../conferences/neurips-2026/cards-0011.md#paper-151016)
+- [SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver](../conferences/neurips-2026/cards-0011.md#paper-155167)
+- [Spectral-Aligned Pruning for Universal Error-Correcting Code Transformers](../conferences/neurips-2026/cards-0011.md#paper-151780)
+- [Spectral Alignment in Forward–Backward Representations via Temporal Abstraction](../conferences/neurips-2026/cards-0011.md#paper-149102)
 
 <!-- conference-classification:end -->

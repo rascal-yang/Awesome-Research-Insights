@@ -1185,5 +1185,14 @@
 - [SimSD: Simple Speculative Decoding in Diffusion Language Models](../conferences/neurips-2026/cards-0011.md#paper-153145)
 - [Skill-Adaptive Noise Scheduling for Diffusion Policies](../conferences/neurips-2026/cards-0011.md#paper-150596)
 - [SkiP: When to Skip and When to Refine for Efficient Robot Manipulation](../conferences/neurips-2026/cards-0011.md#paper-151503)
+- [SOAR: Regression-based LiDAR Relocalization for UAVs](../conferences/neurips-2026/cards-0011.md#paper-151153)
+- [SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation](../conferences/neurips-2026/cards-0011.md#paper-155006)
+- [SpanFormer: Multi-Level Adaptive Sparsity for Object Detection in High-Resolution Wide Shots](../conferences/neurips-2026/cards-0011.md#paper-155840)
+- [Sparse Attention as a Range Searching Problem: Towards an Inference-Efficient Index for KV Cache](../conferences/neurips-2026/cards-0011.md#paper-150458)
+- [Sparse Layers are Critical to Scaling Looped Language Models](../conferences/neurips-2026/cards-0011.md#paper-148156)
+- [Sparse Multimodal Switching State-Space Models for Regime-Dependent Neural Connectivity under Partial Observations](../conferences/neurips-2026/cards-0011.md#paper-151057)
+- [Spatially Feasible 3D Indoor Scene Generation via Interaction-Oriented Human Proxy](../conferences/neurips-2026/cards-0011.md#paper-151858)
+- [SP-CACW: Convergence-Aware Client Weighting for Selfish Personalized Learning](../conferences/neurips-2026/cards-0011.md#paper-152385)
+- [SpectralKV: Redundancy-Aware KV Cache Compression via Spectral Coreset Selection](../conferences/neurips-2026/cards-0011.md#paper-148958)
 
 <!-- conference-classification:end -->

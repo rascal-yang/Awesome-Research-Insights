@@ -1132,5 +1132,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](../../conferences/neurips-2026/cards-0011.md#paper-149726)
 - [Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization](../../conferences/neurips-2026/cards-0011.md#paper-151357)
 - [SkipSR: Faster Super-Resolution with Token Skipping](../../conferences/neurips-2026/cards-0011.md#paper-150768)
+- [SOLA: A Structured Operator Library for Attention in Pretrained Vision Transformers](../../conferences/neurips-2026/cards-0011.md#paper-149135)
+- [SP$^3$: Spherical Priors for Plug-and-Play Restoration](../../conferences/neurips-2026/cards-0011.md#paper-154253)
+- [SpatialBench: Is Your Spatial Foundation Model an All-Round Player](../../conferences/neurips-2026/cards-0011.md#paper-139780)
+- [Spatially Feasible 3D Indoor Scene Generation via Interaction-Oriented Human Proxy](../../conferences/neurips-2026/cards-0011.md#paper-151858)
+- [Specificity-Aware Diffusion Steering via Variance-Reduced Sequential Monte Carlo](../../conferences/neurips-2026/cards-0011.md#paper-149673)
+- [SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation](../../conferences/neurips-2026/cards-0011.md#paper-152867)
 
 <!-- conference-classification:end -->

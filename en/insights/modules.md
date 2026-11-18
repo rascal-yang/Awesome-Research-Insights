@@ -452,5 +452,9 @@ Reusable components and local changes to model inputs or connections.
 - [SkillMaster: Toward Autonomous Skill Mastery in LLM Agents](../../conferences/neurips-2026/cards-0011.md#paper-150167)
 - [SkillOrchestra: Learning to Route Agents via Skill Transfer](../../conferences/neurips-2026/cards-0011.md#paper-155493)
 - [SkillOS: Learning Skill Curation for Self-Evolving Agents](../../conferences/neurips-2026/cards-0011.md#paper-151446)
+- [SOLA: A Structured Operator Library for Attention in Pretrained Vision Transformers](../../conferences/neurips-2026/cards-0011.md#paper-149135)
+- [Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents](../../conferences/neurips-2026/cards-0011.md#paper-154927)
+- [Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity](../../conferences/neurips-2026/cards-0011.md#paper-155048)
+- [Spectral Measures of Mamba Conductances Predict and Shape Effective Receptive Fields](../../conferences/neurips-2026/cards-0011.md#paper-153177)
 
 <!-- conference-classification:end -->

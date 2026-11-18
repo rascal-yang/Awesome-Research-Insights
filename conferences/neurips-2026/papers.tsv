@@ -7328,126 +7328,126 @@ poster_id	title	paper_url	status	reason
 148693	SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining	https://neurips.cc/virtual/2026/poster/148693	excluded	主要是 FP8 和硬件内核的联合部署，未给关键因素可独立复用的证据。
 148985	SO(3)-Equivariant Learning on CAD Boundary Representations	https://neurips.cc/virtual/2026/poster/148985	included	CAD 编码对中间方向做等变传播，末端读出不变
 151769	SOAP-Bubbles: Effective and Scalable Variational Learning with Structured Covariances	https://neurips.cc/virtual/2026/poster/151769	included	变分近似用二阶坐标结构表达协方差
-151153	SOAR: Regression-based LiDAR Relocalization for UAVs	https://neurips.cc/virtual/2026/poster/151153	pending	-
-148421	SOAR: Semantic Organ-Aware Pretraining for 3D CT Image Understanding	https://neurips.cc/virtual/2026/poster/148421	pending	-
-152622	Sobolev Regularized MMD Gradient Flow	https://neurips.cc/virtual/2026/poster/152622	pending	-
-152951	SoccerNarrate: Event-Grounded Streaming Soccer Commentary with Macro-Window Preference Alignment	https://neurips.cc/virtual/2026/poster/152951	pending	-
-148453	Social Choice Foundations for Simulation-Augmented Generation	https://neurips.cc/virtual/2026/poster/148453	pending	-
-155006	SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation	https://neurips.cc/virtual/2026/poster/155006	pending	-
-148789	Social Interaction Breaks Replicate Independence in Controlled-Clone LLM Agents	https://neurips.cc/virtual/2026/poster/148789	pending	-
-150828	SOC-ICNN: From Polyhedral to Conic Geometry for Learning Convex Surrogate Functions	https://neurips.cc/virtual/2026/poster/150828	pending	-
-150571	SODA: Selective Optimization with Deferred BN Alignment for Efficient Dataset Distillation	https://neurips.cc/virtual/2026/poster/150571	pending	-
-138926	SoDeArena: A Socially-Situated Reasoning Benchmark for Large Language Models	https://neurips.cc/virtual/2026/poster/138926	pending	-
-152288	Soft Contamination Means Benchmarks Test Shallow Generalization	https://neurips.cc/virtual/2026/poster/152288	pending	-
-151016	Soft Forward-Backward Representations for Zero-shot Reinforcement Learning with General Utilities	https://neurips.cc/virtual/2026/poster/151016	pending	-
-155147	Soft geometric inductive bias for object centric dynamics	https://neurips.cc/virtual/2026/poster/155147	pending	-
-150736	Soft-Radial Projection for Constrained End-to-End Learning	https://neurips.cc/virtual/2026/poster/150736	pending	-
-149550	Soft Token Alignment for Cross-Lingual Reasoning	https://neurips.cc/virtual/2026/poster/149550	pending	-
-149135	SOLA: A Structured Operator Library for Attention in Pretrained Vision Transformers	https://neurips.cc/virtual/2026/poster/149135	pending	-
-155686	SOLAR: AI-Powered Speed-of-Light Performance Analysis	https://neurips.cc/virtual/2026/poster/155686	pending	-
-148491	Solaris: Building a Multiplayer Video World Model in Minecraft	https://neurips.cc/virtual/2026/poster/148491	pending	-
-153893	SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153893	pending	-
-139395	SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits	https://neurips.cc/virtual/2026/poster/139395	pending	-
-151443	Solver-as-Teacher: Solver-Guided On-Policy Post-Training Framework for PDE Foundation Models	https://neurips.cc/virtual/2026/poster/151443	pending	-
-152502	Solver-Aware Decompositions for Programming-by-Example: When Dividing Requires Knowing how to Conquer	https://neurips.cc/virtual/2026/poster/152502	pending	-
-139575	Solving Every Step Is Not Enough: Milestone Oracles Reveal a Composition Gap in LLM Math Reasoning	https://neurips.cc/virtual/2026/poster/139575	pending	-
-154770	Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks	https://neurips.cc/virtual/2026/poster/154770	pending	-
-148806	Solving Stochastic Control under Multiplicative and Internal Noise via Constrained Optimization	https://neurips.cc/virtual/2026/poster/148806	pending	-
-151559	SolvMix: Learning Formulation-State Landscapes for Liquid Electrolyte Conductivity Prediction	https://neurips.cc/virtual/2026/poster/151559	pending	-
-153057	Sophon: A Procedural Diagnostic for Spatial Reasoning in Vision-Language Models	https://neurips.cc/virtual/2026/poster/153057	pending	-
-149400	SOPO: Socratic Guided Policy Optimization for Span-Level Hallucination Detection	https://neurips.cc/virtual/2026/poster/149400	pending	-
-152035	Sort, Partition, Randomize: Optimal Binary Hypothesis Testing under Local Differential Privacy	https://neurips.cc/virtual/2026/poster/152035	pending	-
-154927	Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents	https://neurips.cc/virtual/2026/poster/154927	pending	-
-149794	Sound Verification of Deployed Neural Networks	https://neurips.cc/virtual/2026/poster/149794	pending	-
-139217	SourceBench: Can AI Answers Reference Quality Web Sources?	https://neurips.cc/virtual/2026/poster/139217	pending	-
-154092	Source-Causal Control of Historical Context in Longitudinal Radiology Report Generation	https://neurips.cc/virtual/2026/poster/154092	pending	-
-150441	SP$^2$ec: Adaptive Self-Speculative Decoding for Vision-Language Models	https://neurips.cc/virtual/2026/poster/150441	pending	-
-154253	SP$^3$: Spherical Priors for Plug-and-Play Restoration	https://neurips.cc/virtual/2026/poster/154253	pending	-
-153437	Space-Aware World Models: Spatial Persistence Through Factored Scene Representations	https://neurips.cc/virtual/2026/poster/153437	pending	-
-152663	Space Group Conditional Flow Matching	https://neurips.cc/virtual/2026/poster/152663	pending	-
-155183	Space-Optimal Streaming Algorithms via Efficient Encodings	https://neurips.cc/virtual/2026/poster/155183	pending	-
-155167	SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver	https://neurips.cc/virtual/2026/poster/155167	pending	-
-153058	SpaG-DiT: Enhancing Spatial Grounding for Diffusion Transformers	https://neurips.cc/virtual/2026/poster/153058	pending	-
-155840	SpanFormer: Multi-Level Adaptive Sparsity for Object Detection in High-Resolution Wide Shots	https://neurips.cc/virtual/2026/poster/155840	pending	-
-150088	SPANUQ: Span-Level Uncertainty Quantification for Large Language Model Generation	https://neurips.cc/virtual/2026/poster/150088	pending	-
-155959	SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation	https://neurips.cc/virtual/2026/poster/155959	pending	-
-150897	SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference	https://neurips.cc/virtual/2026/poster/150897	pending	-
-139087	Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance	https://neurips.cc/virtual/2026/poster/139087	pending	-
-151035	Spark: Path-Aware Experiential Self-Evolution for VLMs Spatiotemporal Reasoning	https://neurips.cc/virtual/2026/poster/151035	pending	-
-153049	Sparse All-Layer Connector for Domain Generalised Semantic Segmentation	https://neurips.cc/virtual/2026/poster/153049	pending	-
-150458	Sparse Attention as a Range Searching Problem: Towards an Inference-Efficient Index for KV Cache	https://neurips.cc/virtual/2026/poster/150458	pending	-
-148800	Sparse Attention as Compact Kernel Regression	https://neurips.cc/virtual/2026/poster/148800	pending	-
-150717	Sparse Biological Features Reveal Early Functional Commitment in Diffusion Protein Language Models	https://neurips.cc/virtual/2026/poster/150717	pending	-
-152549	Sparse blind deconvolution via thresholded Wirtinger flow	https://neurips.cc/virtual/2026/poster/152549	pending	-
-155048	Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity	https://neurips.cc/virtual/2026/poster/155048	pending	-
-154235	Sparse Expansion Utility: Identifying and Routing to Pivotal Steps in LLM Reasoning Chains	https://neurips.cc/virtual/2026/poster/154235	pending	-
-152466	Sparse Fine-Tuning for Parameter-Efficient Adversarial Training	https://neurips.cc/virtual/2026/poster/152466	pending	-
-155214	Sparse Internal Control of Language Models	https://neurips.cc/virtual/2026/poster/155214	pending	-
-149627	Sparse Koopman Autoencoders Identify Local Dynamical Regimes in Multibasin Systems	https://neurips.cc/virtual/2026/poster/149627	pending	-
-148156	Sparse Layers are Critical to Scaling Looped Language Models	https://neurips.cc/virtual/2026/poster/148156	pending	-
-155316	Sparsely-Supervised Data Assimilation via Physics-Informed Schrödinger Bridge	https://neurips.cc/virtual/2026/poster/155316	pending	-
-155610	Sparsely Supervised Diffusion	https://neurips.cc/virtual/2026/poster/155610	pending	-
-150876	Sparsely Wired Mortal LLM Inference	https://neurips.cc/virtual/2026/poster/150876	pending	-
-151057	Sparse Multimodal Switching State-Space Models for Regime-Dependent Neural Connectivity under Partial Observations	https://neurips.cc/virtual/2026/poster/151057	pending	-
-153731	Sparse Planning in Visual World Models via Cost Gradients	https://neurips.cc/virtual/2026/poster/153731	pending	-
-155383	Sparse Repair in Reasoning Traces: A Structural View of Test-Time Inference	https://neurips.cc/virtual/2026/poster/155383	pending	-
-155694	Sparse Reward Subsystem in Large Language Models	https://neurips.cc/virtual/2026/poster/155694	pending	-
-150790	Sparse Sum-of-Squares Layers for Certified Learning	https://neurips.cc/virtual/2026/poster/150790	pending	-
-148588	Sparse Updates Generalize Better Than Optimization: Stability Analysis for Randomized Subspace Descent	https://neurips.cc/virtual/2026/poster/148588	pending	-
-155269	Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation	https://neurips.cc/virtual/2026/poster/155269	pending	-
-153137	Sparsifying Correlation Clustering: Edge Coresets, Triangle Witnesses, and Observation Lower Bounds	https://neurips.cc/virtual/2026/poster/153137	pending	-
-148319	Sparsity for Free: A Budget-Induced Equilibrium in Joint Topology–Parameter Search	https://neurips.cc/virtual/2026/poster/148319	pending	-
-139780	SpatialBench: Is Your Spatial Foundation Model an All-Round Player	https://neurips.cc/virtual/2026/poster/139780	pending	-
-149047	SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning	https://neurips.cc/virtual/2026/poster/149047	pending	-
-139727	SPATIALEPIBENCH: Benchmarking Spatial Information and Epidemic Priors in Forecasting	https://neurips.cc/virtual/2026/poster/139727	pending	-
-148740	SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing	https://neurips.cc/virtual/2026/poster/148740	pending	-
-139304	Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests	https://neurips.cc/virtual/2026/poster/139304	pending	-
-151858	Spatially Feasible 3D Indoor Scene Generation via Interaction-Oriented Human Proxy	https://neurips.cc/virtual/2026/poster/151858	pending	-
-154561	Spatially-Grounded Long Video Generation with Self Geometry Forcing	https://neurips.cc/virtual/2026/poster/154561	pending	-
-154721	Spatial Representation Distillation and Knowledge Routing for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/154721	pending	-
-153697	Spatial-temporal Attributes Enhanced Prompt Weighting and Fusion for Video Recognition	https://neurips.cc/virtual/2026/poster/153697	pending	-
-151702	SpatialVAM: Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy	https://neurips.cc/virtual/2026/poster/151702	pending	-
-152385	SP-CACW: Convergence-Aware Client Weighting for Selfish Personalized Learning	https://neurips.cc/virtual/2026/poster/152385	pending	-
-139762	SPDEBench: An Extensive Benchmark for Learning Stochastic PDEs	https://neurips.cc/virtual/2026/poster/139762	pending	-
-152241	Speak Early: Speculative Speech Generation for Low-Latency SpeechLLMs	https://neurips.cc/virtual/2026/poster/152241	pending	-
-155068	Speakeasy: Auditing Cheap Signals in Peer Prediction	https://neurips.cc/virtual/2026/poster/155068	pending	-
-150056	SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting	https://neurips.cc/virtual/2026/poster/150056	pending	-
-148847	SpecBridge: Learning Natural-Language Formalization Plans for the Formal Specification Synthesis Task	https://neurips.cc/virtual/2026/poster/148847	pending	-
-148346	SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization	https://neurips.cc/virtual/2026/poster/148346	pending	-
-148372	SpecForge:  Agent-Oriented Code Documentation Optimization via Multi-Frontier Tree Search	https://neurips.cc/virtual/2026/poster/148372	pending	-
-150381	SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents	https://neurips.cc/virtual/2026/poster/150381	pending	-
-148508	Specialist Mediators: Causal Localization of Dense Fine-Tuning	https://neurips.cc/virtual/2026/poster/148508	pending	-
-154382	Specialists Hold, Generalists Discount: Asymmetric Equilibrium in LLM Routing Auctions	https://neurips.cc/virtual/2026/poster/154382	pending	-
-149673	Specificity-Aware Diffusion Steering via Variance-Reduced Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/149673	pending	-
-152867	SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation	https://neurips.cc/virtual/2026/poster/152867	pending	-
-155889	SPECS: Faster Test-Time Scaling through Speculative Drafts and Dynamic Switching	https://neurips.cc/virtual/2026/poster/155889	pending	-
-152050	Spectral Adaptive Repositioning for Flow-Based Single-Cell Perturbation Modeling	https://neurips.cc/virtual/2026/poster/152050	pending	-
-151780	Spectral-Aligned Pruning for Universal Error-Correcting Code Transformers	https://neurips.cc/virtual/2026/poster/151780	pending	-
-149102	Spectral Alignment in Forward–Backward Representations via Temporal Abstraction	https://neurips.cc/virtual/2026/poster/149102	pending	-
-151524	Spectral Annealing: Normalization-Path Exploration for Large-Scale Ising Optimization	https://neurips.cc/virtual/2026/poster/151524	pending	-
-156640	Spectral Asymptotics of Neural Network Jacobians: Convergency, Universality, and Phase Transition	https://neurips.cc/virtual/2026/poster/156640	pending	-
-154061	Spectral Degeneration of Softmax Attention under Isotropic Score Geometry	https://neurips.cc/virtual/2026/poster/154061	pending	-
-154914	Spectral Energy Allocation Enables Source-Free Domain Adaptation in Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154914	pending	-
-155359	Spectral Estimation with Deformed Decompression	https://neurips.cc/virtual/2026/poster/155359	pending	-
-152878	Spectral Feedback for Test-Time Alignment of Protein Diffusion Models	https://neurips.cc/virtual/2026/poster/152878	pending	-
-152378	Spectral Geometry of Attention: From Information Routing to Uncertainty	https://neurips.cc/virtual/2026/poster/152378	pending	-
-149066	Spectral Graph Sparsification Preserves Representation Geometry in Graph Neural Networks	https://neurips.cc/virtual/2026/poster/149066	pending	-
-149561	Spectral Identifiability for World Models: Polynomial Projectors, Resolvent Stability, and a Krylov Bottleneck	https://neurips.cc/virtual/2026/poster/149561	pending	-
-154057	Spectral Insights from the Unconstrained Feature Model for Neural Multi-Output Regression	https://neurips.cc/virtual/2026/poster/154057	pending	-
-148958	SpectralKV: Redundancy-Aware KV Cache Compression via Spectral Coreset Selection	https://neurips.cc/virtual/2026/poster/148958	pending	-
-149161	Spectrally Decomposed Equivariant Graph Neural Networks for Interatomic Potentials	https://neurips.cc/virtual/2026/poster/149161	pending	-
-150852	Spectrally Parameterized Neural Inverse Reconstruction	https://neurips.cc/virtual/2026/poster/150852	pending	-
-153177	Spectral Measures of Mamba Conductances Predict and Shape Effective Receptive Fields	https://neurips.cc/virtual/2026/poster/153177	pending	-
-151007	Spectral Progressive Diffusion for Efficient Image and Video Generation	https://neurips.cc/virtual/2026/poster/151007	pending	-
-152323	Spectral Quantum Memory for Implicit Neural Representations	https://neurips.cc/virtual/2026/poster/152323	pending	-
-149873	Spectral Rank Calibration for Continual LoRA Merging in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/149873	pending	-
-155250	Spectral Re-Basin for Linear Mode Connectivity	https://neurips.cc/virtual/2026/poster/155250	pending	-
-148147	Spectral Representations for Provably Robust Offline Meta-Reinforcement Learning from Bagged Rewards	https://neurips.cc/virtual/2026/poster/148147	pending	-
-152228	Spectral Reversal: Counteracting Singular Value Bias for Graph Prompting	https://neurips.cc/virtual/2026/poster/152228	pending	-
-151939	Spectral-Spatial Interpretation	https://neurips.cc/virtual/2026/poster/151939	pending	-
-150757	Spectral-Sphere-Constrained Hyper-Connections	https://neurips.cc/virtual/2026/poster/150757	pending	-
-154946	Spectral Stratification of Semantic Abstraction in Vision-Language Models	https://neurips.cc/virtual/2026/poster/154946	pending	-
-154075	Spectral Transformer Neural Processes	https://neurips.cc/virtual/2026/poster/154075	pending	-
+151153	SOAR: Regression-based LiDAR Relocalization for UAVs	https://neurips.cc/virtual/2026/poster/151153	included	航拍 LiDAR 定位用局部不变位置编码。
+148421	SOAR: Semantic Organ-Aware Pretraining for 3D CT Image Understanding	https://neurips.cc/virtual/2026/poster/148421	included	报告稀疏时加入局部解剖等区域语义监督。
+152622	Sobolev Regularized MMD Gradient Flow	https://neurips.cc/virtual/2026/poster/152622	included	MMD 训练不收敛时正则 witness 梯度。
+152951	SoccerNarrate: Event-Grounded Streaming Soccer Commentary with Macro-Window Preference Alignment	https://neurips.cc/virtual/2026/poster/152951	included	流式解说在事件窗口核实输出。
+148453	Social Choice Foundations for Simulation-Augmented Generation	https://neurips.cc/virtual/2026/poster/148453	included	多角色模拟同时限制构建和查询规模。
+155006	SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation	https://neurips.cc/virtual/2026/poster/155006	included	多人物视频分别检查主体、动作与目标。
+148789	Social Interaction Breaks Replicate Independence in Controlled-Clone LLM Agents	https://neurips.cc/virtual/2026/poster/148789	included	多代理相互交流时采用不交流的配对随机对照。
+150828	SOC-ICNN: From Polyhedral to Conic Geometry for Learning Convex Surrogate Functions	https://neurips.cc/virtual/2026/poster/150828	included	凸代理有光滑曲率时选锥基元。
+150571	SODA: Selective Optimization with Deferred BN Alignment for Efficient Dataset Distillation	https://neurips.cc/virtual/2026/poster/150571	included	数据蒸馏只对关键 BN 层延迟对齐。
+138926	SoDeArena: A Socially-Situated Reasoning Benchmark for Large Language Models	https://neurips.cc/virtual/2026/poster/138926	excluded	摘要主要创设社交推理竞技场，报告的模型规模和策略现象未形成可独立验证的改进机制。
+152288	Soft Contamination Means Benchmarks Test Shallow Generalization	https://neurips.cc/virtual/2026/poster/152288	included	污染检查应检索语义近副本，并做跨基准迁移。
+151016	Soft Forward-Backward Representations for Zero-shot Reinforcement Learning with General Utilities	https://neurips.cc/virtual/2026/poster/151016	included	非线性总效用用软前向后向策略族。
+155147	Soft geometric inductive bias for object centric dynamics	https://neurips.cc/virtual/2026/poster/155147	included	只有近似对称时用软几何代数先验。
+150736	Soft-Radial Projection for Constrained End-to-End Learning	https://neurips.cc/virtual/2026/poster/150736	included	端到端可行输出从内点做平滑径向变换。
+149550	Soft Token Alignment for Cross-Lingual Reasoning	https://neurips.cc/virtual/2026/poster/149550	included	多语推理蒸馏按软 token 共享语义而非逐字。
+149135	SOLA: A Structured Operator Library for Attention in Pretrained Vision Transformers	https://neurips.cc/virtual/2026/poster/149135	included	替换 ViT 注意头前以逐头误差诊断控风险。
+155686	SOLAR: AI-Powered Speed-of-Light Performance Analysis	https://neurips.cc/virtual/2026/poster/155686	included	先估硬件理论性能上限再给优化代理任务。
+148491	Solaris: Building a Multiplayer Video World Model in Minecraft	https://neurips.cc/virtual/2026/poster/148491	included	多人视频世界模型训练检查同一世界的跨视角约束。
+153893	SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153893	included	无手写奖励的实机学习须压力测试视觉评判。
+139395	SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits	https://neurips.cc/virtual/2026/poster/139395	included	GPU 优化代理用硬件上限评分并隔离执行。
+151443	Solver-as-Teacher: Solver-Guided On-Policy Post-Training Framework for PDE Foundation Models	https://neurips.cc/virtual/2026/poster/151443	included	用求解器对当前模型访问的状态给出局部训练目标。
+152502	Solver-Aware Decompositions for Programming-by-Example: When Dividing Requires Knowing how to Conquer	https://neurips.cc/virtual/2026/poster/152502	included	按特定求解器的可解性训练分解器，而不是拟合人工子目标。
+139575	Solving Every Step Is Not Enough: Milestone Oracles Reveal a Composition Gap in LLM Math Reasoning	https://neurips.cc/virtual/2026/poster/139575	included	将独立子题求解和多个子结果的组合能力分开测试。
+154770	Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks	https://neurips.cc/virtual/2026/poster/154770	included	学习模型给精确搜索的候选解应先满足能保留证书的可行性。
+148806	Solving Stochastic Control under Multiplicative and Internal Noise via Constrained Optimization	https://neurips.cc/virtual/2026/poster/148806	included	控制与估计耦合时，用约束优化交替求两者。
+151559	SolvMix: Learning Formulation-State Landscapes for Liquid Electrolyte Conductivity Prediction	https://neurips.cc/virtual/2026/poster/151559	excluded	电解液混合状态建模高度依赖当前材料任务，摘要未验证独立通用机制。
+153057	Sophon: A Procedural Diagnostic for Spatial Reasoning in Vision-Language Models	https://neurips.cc/virtual/2026/poster/153057	included	视觉空间推理分开测坐标体系、题型和表示读出。
+149400	SOPO: Socratic Guided Policy Optimization for Span-Level Hallucination Detection	https://neurips.cc/virtual/2026/poster/149400	excluded	老师反馈与奖励设计组合，摘要未给可区分的通用迁移证据。
+152035	Sort, Partition, Randomize: Optimal Binary Hypothesis Testing under Local Differential Privacy	https://neurips.cc/virtual/2026/poster/152035	excluded	主要解决二元假设检验的本地差分隐私机制优化，与核心方向缺少具体应用对照。
+154927	Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents	https://neurips.cc/virtual/2026/poster/154927	included	有副作用的代理操作用执行前形式验证和执行期约束共同保护。
+149794	Sound Verification of Deployed Neural Networks	https://neurips.cc/virtual/2026/poster/149794	included	神经网络验证用部署环境的数值语义核对证书。
+139217	SourceBench: Can AI Answers Reference Quality Web Sources?	https://neurips.cc/virtual/2026/poster/139217	excluded	摘要列出来源质量框架与测评规模，缺少足够具体的技术选择结论。
+154092	Source-Causal Control of Historical Context in Longitudinal Radiology Report Generation	https://neurips.cc/virtual/2026/poster/154092	included	加入历史信息时，用同类但错误的历史做负对照。
+150441	SP$^2$ec: Adaptive Self-Speculative Decoding for Vision-Language Models	https://neurips.cc/virtual/2026/poster/150441	included	根据当前请求在线选择自推测草稿跳过多少模型层。
+154253	SP$^3$: Spherical Priors for Plug-and-Play Restoration	https://neurips.cc/virtual/2026/poster/154253	included	图像恢复可交替做球面先验投影和闭式数据一致性。
+153437	Space-Aware World Models: Spatial Persistence Through Factored Scene Representations	https://neurips.cc/virtual/2026/poster/153437	included	静态导航场景只编码一次，动态模型只滚动低维代理状态。
+152663	Space Group Conditional Flow Matching	https://neurips.cc/virtual/2026/poster/152663	included	已知物理对称性用群条件生成与平均保证。
+155183	Space-Optimal Streaming Algorithms via Efficient Encodings	https://neurips.cc/virtual/2026/poster/155183	excluded	流式草图空间界依赖特定聚类和子空间目标，摘要未给直接可复用的模型设计选择。
+155167	SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver	https://neurips.cc/virtual/2026/poster/155167	included	把节点嵌入定义为对枢轴的相对距离，而非假定欧式坐标。
+153058	SpaG-DiT: Enhancing Spatial Grounding for Diffusion Transformers	https://neurips.cc/virtual/2026/poster/153058	excluded	空间先验、位置编码和微调结合，摘要未给单独组件的效果与迁移条件。
+155840	SpanFormer: Multi-Level Adaptive Sparsity for Object Detection in High-Resolution Wide Shots	https://neurips.cc/virtual/2026/poster/155840	included	高分辨检测裁窗后用稀疏跨窗记忆保场景上下文
+150088	SPANUQ: Span-Level Uncertainty Quantification for Large Language Model Generation	https://neurips.cc/virtual/2026/poster/150088	included	生成可靠性同时验收错误片段定位
+155959	SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation	https://neurips.cc/virtual/2026/poster/155959	excluded	主要针对单目深度特有注意力分布，摘要未对独立迁移作用给验证。
+150897	SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference	https://neurips.cc/virtual/2026/poster/150897	excluded	量化解耦和硬件 offload 联合展示，摘要未分离适用边界。
+139087	Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance	https://neurips.cc/virtual/2026/poster/139087	excluded	主要是背景替换数据与任务特定控制组合。
+151035	Spark: Path-Aware Experiential Self-Evolution for VLMs Spatiotemporal Reasoning	https://neurips.cc/virtual/2026/poster/151035	excluded	摘要未说明路径经验具体的独立消融及训练预算。
+153049	Sparse All-Layer Connector for Domain Generalised Semantic Segmentation	https://neurips.cc/virtual/2026/poster/153049	included	冻结骨干融合时动态选层而非逐层对齐
+150458	Sparse Attention as a Range Searching Problem: Towards an Inference-Efficient Index for KV Cache	https://neurips.cc/virtual/2026/poster/150458	included	稀疏 KV 查找把检索召回纳入验收
+148800	Sparse Attention as Compact Kernel Regression	https://neurips.cc/virtual/2026/poster/148800	excluded	摘要只给紧支撑核方法总体竞争力，未给与稀疏规则的具体相对条件。
+150717	Sparse Biological Features Reveal Early Functional Commitment in Diffusion Protein Language Models	https://neurips.cc/virtual/2026/poster/150717	excluded	核心结论涉及蛋白生成的功能位点，未单列安全通用实证。
+152549	Sparse blind deconvolution via thresholded Wirtinger flow	https://neurips.cc/virtual/2026/poster/152549	excluded	核心证据依赖特定反卷积稀疏信号条件，未验证当前重点方向。
+155048	Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity	https://neurips.cc/virtual/2026/poster/155048	included	固定每步算力时用稀疏读写扩大显式循环状态
+154235	Sparse Expansion Utility: Identifying and Routing to Pivotal Steps in LLM Reasoning Chains	https://neurips.cc/virtual/2026/poster/154235	included	选推理分支时以实际收益排序监督
+152466	Sparse Fine-Tuning for Parameter-Efficient Adversarial Training	https://neurips.cc/virtual/2026/poster/152466	excluded	摘要主要在对抗训练验证，未交代参数选择对非专项鲁棒的独立收益。
+155214	Sparse Internal Control of Language Models	https://neurips.cc/virtual/2026/poster/155214	excluded	核心包含改变拒答等内控操作，未单列可安全复用的方法或诊断。
+149627	Sparse Koopman Autoencoders Identify Local Dynamical Regimes in Multibasin Systems	https://neurips.cc/virtual/2026/poster/149627	included	多动力学区间用稀疏 Koopman 支持识别局部模式
+148156	Sparse Layers are Critical to Scaling Looped Language Models	https://neurips.cc/virtual/2026/poster/148156	included	循环语言模型优先在完整循环边界退出
+155316	Sparsely-Supervised Data Assimilation via Physics-Informed Schrödinger Bridge	https://neurips.cc/virtual/2026/poster/155316	excluded	主要是流体 PDE 数据同化，摘要未独立验证其他低监督场景。
+155610	Sparsely Supervised Diffusion	https://neurips.cc/virtual/2026/poster/155610	included	小样本扩散训练用稀疏监督约束上下文利用
+150876	Sparsely Wired Mortal LLM Inference	https://neurips.cc/virtual/2026/poster/150876	excluded	主要依赖专用数字计算结构，摘要未给现有设备关于选型的直接证据。
+151057	Sparse Multimodal Switching State-Space Models for Regime-Dependent Neural Connectivity under Partial Observations	https://neurips.cc/virtual/2026/poster/151057	included	多传感部分观测用共享潜状态与切换稀疏关系。
+153731	Sparse Planning in Visual World Models via Cost Gradients	https://neurips.cc/virtual/2026/poster/153731	included	世界模型以规划代价梯度筛视觉 token。
+155383	Sparse Repair in Reasoning Traces: A Structural View of Test-Time Inference	https://neurips.cc/virtual/2026/poster/155383	included	测试时优先局部修复关键推理位置。
+155694	Sparse Reward Subsystem in Large Language Models	https://neurips.cc/virtual/2026/poster/155694	included	使用内部奖励信号前测试其集中与因果性。
+150790	Sparse Sum-of-Squares Layers for Certified Learning	https://neurips.cc/virtual/2026/poster/150790	included	可微证书层的反传沿用求解稀疏结构。
+148588	Sparse Updates Generalize Better Than Optimization: Stability Analysis for Randomized Subspace Descent	https://neurips.cc/virtual/2026/poster/148588	included	随机子空间下降按测试风险调更新稀疏率。
+155269	Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation	https://neurips.cc/virtual/2026/poster/155269	included	越视野导航先生成稀疏未来再解轨迹。
+153137	Sparsifying Correlation Clustering: Edge Coresets, Triangle Witnesses, and Observation Lower Bounds	https://neurips.cc/virtual/2026/poster/153137	excluded	相关聚类的核心是特定 LP 稀疏绕舍与图查询界，摘要未明确目标研究的可独立复用技术选择。
+148319	Sparsity for Free: A Budget-Induced Equilibrium in Joint Topology–Parameter Search	https://neurips.cc/virtual/2026/poster/148319	included	比较网络拓扑搜索时控制各结构获得的评估次数。
+139780	SpatialBench: Is Your Spatial Foundation Model an All-Round Player	https://neurips.cc/virtual/2026/poster/139780	included	空间模型选型把视角、密度、域和设备合成压力矩阵。
+149047	SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning	https://neurips.cc/virtual/2026/poster/149047	included	空间推理先执行单元，再以中间结果改下一步。
+139727	SPATIALEPIBENCH: Benchmarking Spatial Information and Epidemic Priors in Forecasting	https://neurips.cc/virtual/2026/poster/139727	included	公共时序预报使用滚动评估并保最后值基线。
+148740	SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing	https://neurips.cc/virtual/2026/poster/148740	included	多区域编辑将奖励分配到局部更新。
+139304	Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests	https://neurips.cc/virtual/2026/poster/139304	included	空间计数先测构成能力再归因总错误。
+151858	Spatially Feasible 3D Indoor Scene Generation via Interaction-Oriented Human Proxy	https://neurips.cc/virtual/2026/poster/151858	included	室内布局生成引入人机交互可行性代理。
+154561	Spatially-Grounded Long Video Generation with Self Geometry Forcing	https://neurips.cc/virtual/2026/poster/154561	included	长视频以自身预测几何作持久全局记忆。
+154721	Spatial Representation Distillation and Knowledge Routing for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/154721	included	小 VLA 分开蒸馏空间表示及路由所需知识。
+153697	Spatial-temporal Attributes Enhanced Prompt Weighting and Fusion for Video Recognition	https://neurips.cc/virtual/2026/poster/153697	included	视频提示按当前样本筛可用时空属性。
+151702	SpatialVAM: Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy	https://neurips.cc/virtual/2026/poster/151702	included	动作视频同时预测多视角热图及 RGB。
+152385	SP-CACW: Convergence-Aware Client Weighting for Selfish Personalized Learning	https://neurips.cc/virtual/2026/poster/152385	included	个性化客户端加权用真实收敛项而非静态聚类。
+139762	SPDEBench: An Extensive Benchmark for Learning Stochastic PDEs	https://neurips.cc/virtual/2026/poster/139762	included	随机 PDE 比较要固定噪声离散化、谱基以及数据构造。
+152241	Speak Early: Speculative Speech Generation for Low-Latency SpeechLLMs	https://neurips.cc/virtual/2026/poster/152241	included	延迟预算较紧时让文本解码和语音合成重叠。
+155068	Speakeasy: Auditing Cheap Signals in Peer Prediction	https://neurips.cc/virtual/2026/poster/155068	excluded	重点是同行预测机制的均衡与激励，摘要未给一般代理技术实现证据。
+150056	SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting	https://neurips.cc/virtual/2026/poster/150056	included	推测草稿可以一次生成一块互相依赖的预测位置。
+148847	SpecBridge: Learning Natural-Language Formalization Plans for the Formal Specification Synthesis Task	https://neurips.cc/virtual/2026/poster/148847	included	从自然语言合成形式规格前先产出显式自然语言形式化计划。
+148346	SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization	https://neurips.cc/virtual/2026/poster/148346	included	标签分类粒度与分支能力匹配时，先用固定路由对照学习路由。
+148372	SpecForge:  Agent-Oriented Code Documentation Optimization via Multi-Frontier Tree Search	https://neurips.cc/virtual/2026/poster/148372	excluded	代码文档搜索主要围绕特定输出耦合，摘要未隔离多前沿搜索对迁移的作用。
+150381	SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents	https://neurips.cc/virtual/2026/poster/150381	included	多跳检索可并行准备多条候选观测，只提交经原工具验证的路径。
+148508	Specialist Mediators: Causal Localization of Dense Fine-Tuning	https://neurips.cc/virtual/2026/poster/148508	included	稀疏适配前测能力变化由注意力还是 MLP 承担。
+154382	Specialists Hold, Generalists Discount: Asymmetric Equilibrium in LLM Routing Auctions	https://neurips.cc/virtual/2026/poster/154382	excluded	路由市场的供应商竞争模型属于定价机制，缺少模型训练或智能体系统方面的可复用证据。
+149673	Specificity-Aware Diffusion Steering via Variance-Reduced Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/149673	included	负条件扩散抑制仅限制正、负目标重叠的区域。
+152867	SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation	https://neurips.cc/virtual/2026/poster/152867	included	视频扩散的运动纠偏可对前瞻预测作稀疏频域干预。
+155889	SPECS: Faster Test-Time Scaling through Speculative Drafts and Dynamic Switching	https://neurips.cc/virtual/2026/poster/155889	included	推理时让便宜模型并行提出候选，并由较强模型和评分器验证。
+152050	Spectral Adaptive Repositioning for Flow-Based Single-Cell Perturbation Modeling	https://neurips.cc/virtual/2026/poster/152050	excluded	以细胞扰动和转录调控为主要目标，未抽取生物设计相关机制。
+151780	Spectral-Aligned Pruning for Universal Error-Correcting Code Transformers	https://neurips.cc/virtual/2026/poster/151780	included	在多个结构相异但谱特性近的任务间复用同一结构化剪枝掩码。
+149102	Spectral Alignment in Forward–Backward Representations via Temporal Abstraction	https://neurips.cc/virtual/2026/poster/149102	included	长程价值表征在轨迹时间抽象后再训练，以削弱难拟合的快速模式。
+151524	Spectral Annealing: Normalization-Path Exploration for Large-Scale Ising Optimization	https://neurips.cc/virtual/2026/poster/151524	included	谱优化沿一条归一化路径探索多个解，而非只求一个谱近似。
+156640	Spectral Asymptotics of Neural Network Jacobians: Convergency, Universality, and Phase Transition	https://neurips.cc/virtual/2026/poster/156640	excluded	给出随机初始化 Jacobian 谱的结果，但摘要没有明确指向经验证的初始化技术取舍。
+154061	Spectral Degeneration of Softmax Attention under Isotropic Score Geometry	https://neurips.cc/virtual/2026/poster/154061	included	诊断注意力压缩时可比较 softmax 前后的主谱和谱体变化。
+154914	Spectral Energy Allocation Enables Source-Free Domain Adaptation in Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154914	included	用目标域自动构建短期序列监督，再以频谱能量对齐指导长域。
+155359	Spectral Estimation with Deformed Decompression	https://neurips.cc/virtual/2026/poster/155359	excluded	主要以随机矩阵进行谱逆推验证，摘要未列深度模型选型对照。
+152878	Spectral Feedback for Test-Time Alignment of Protein Diffusion Models	https://neurips.cc/virtual/2026/poster/152878	excluded	核心为蛋白质生成和性质优化，摘要未单列安全通用验证。
+152378	Spectral Geometry of Attention: From Information Routing to Uncertainty	https://neurips.cc/virtual/2026/poster/152378	included	注意力谱测路由与置信时校正 sink 质量集中
+149066	Spectral Graph Sparsification Preserves Representation Geometry in Graph Neural Networks	https://neurips.cc/virtual/2026/poster/149066	excluded	结果主要为图稀疏化几何保持，摘要未显示当前工作具体迁移。
+149561	Spectral Identifiability for World Models: Polynomial Projectors, Resolvent Stability, and a Krylov Bottleneck	https://neurips.cc/virtual/2026/poster/149561	included	线性世界模型潜维选择看多步 Krylov 谱和控制回报
+154057	Spectral Insights from the Unconstrained Feature Model for Neural Multi-Output Regression	https://neurips.cc/virtual/2026/poster/154057	included	多维动作回归先比较联合头、分离头和目标缩放
+148958	SpectralKV: Redundancy-Aware KV Cache Compression via Spectral Coreset Selection	https://neurips.cc/virtual/2026/poster/148958	included	KV 总预算按层集中度和方向冗余分配
+149161	Spectrally Decomposed Equivariant Graph Neural Networks for Interatomic Potentials	https://neurips.cc/virtual/2026/poster/149161	excluded	主要涉及分子模拟预测，摘要没有独立安全通用验证。
+150852	Spectrally Parameterized Neural Inverse Reconstruction	https://neurips.cc/virtual/2026/poster/150852	excluded	主要在雷达专用反演系统验证，摘要未具体展开可通用谱重参数。
+153177	Spectral Measures of Mamba Conductances Predict and Shape Effective Receptive Fields	https://neurips.cc/virtual/2026/poster/153177	included	状态空间模式按导通谱调节长程响应
+151007	Spectral Progressive Diffusion for Efficient Image and Video Generation	https://neurips.cc/virtual/2026/poster/151007	included	扩散早期低分运算，后期增加分辨率
+152323	Spectral Quantum Memory for Implicit Neural Representations	https://neurips.cc/virtual/2026/poster/152323	excluded	摘要的多部件量子隐式表示没有隔离关键谱损失收益。
+149873	Spectral Rank Calibration for Continual LoRA Merging in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/149873	excluded	摘要未给秩校准相对简单合并的独立对照或限制。
+155250	Spectral Re-Basin for Linear Mode Connectivity	https://neurips.cc/virtual/2026/poster/155250	excluded	主要讨论模态连通性的理论兼容性，摘要无实践范围。
+148147	Spectral Representations for Provably Robust Offline Meta-Reinforcement Learning from Bagged Rewards	https://neurips.cc/virtual/2026/poster/148147	included	只有片段总奖励时按包识别任务
+152228	Spectral Reversal: Counteracting Singular Value Bias for Graph Prompting	https://neurips.cc/virtual/2026/poster/152228	excluded	主要在图提示专项验证，未给跨骨干或任务迁移的直接证据。
+151939	Spectral-Spatial Interpretation	https://neurips.cc/virtual/2026/poster/151939	excluded	主要聚焦光谱像素归因，摘要未给其他归因设置独立证据。
+150757	Spectral-Sphere-Constrained Hyper-Connections	https://neurips.cc/virtual/2026/poster/150757	excluded	摘要阐述谱约束的理论优势，未报告具体实验规模或稳定性对照。
+154946	Spectral Stratification of Semantic Abstraction in Vision-Language Models	https://neurips.cc/virtual/2026/poster/154946	included	多模态检索按需求选抽象层级的谱秩
+154075	Spectral Transformer Neural Processes	https://neurips.cc/virtual/2026/poster/154075	included	周期场序列把周期特征与时间域特征联合建模
 152699	Spectral Unlearning: Transformer Structure-Preserving Updates for Language Model	https://neurips.cc/virtual/2026/poster/152699	pending	-
 150988	Spectrum-Adaptive Generalization Bounds for Trained Deep Transformers	https://neurips.cc/virtual/2026/poster/150988	pending	-
 150210	Speculative Decoding Is Per-Token, Not Path	https://neurips.cc/virtual/2026/poster/150210	pending	-

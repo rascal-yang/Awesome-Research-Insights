@@ -1134,5 +1134,12 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring](../../conferences/neurips-2026/cards-0011.md#paper-150306)
 - [Sliced Inner Product Gromov–Wasserstein Distances](../../conferences/neurips-2026/cards-0011.md#paper-150301)
 - [Slower Generalization, Faster Memorization: A Sweet Spot in Algorithmic Learning](../../conferences/neurips-2026/cards-0011.md#paper-154236)
+- [Soft geometric inductive bias for object centric dynamics](../../conferences/neurips-2026/cards-0011.md#paper-155147)
+- [Solaris: Building a Multiplayer Video World Model in Minecraft](../../conferences/neurips-2026/cards-0011.md#paper-148491)
+- [Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation](../../conferences/neurips-2026/cards-0011.md#paper-155269)
+- [Spatially-Grounded Long Video Generation with Self Geometry Forcing](../../conferences/neurips-2026/cards-0011.md#paper-154561)
+- [SpatialVAM: Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy](../../conferences/neurips-2026/cards-0011.md#paper-151702)
+- [Spectral Degeneration of Softmax Attention under Isotropic Score Geometry](../../conferences/neurips-2026/cards-0011.md#paper-154061)
+- [Spectral Identifiability for World Models: Polynomial Projectors, Resolvent Stability, and a Krylov Bottleneck](../../conferences/neurips-2026/cards-0011.md#paper-149561)
 
 <!-- conference-classification:end -->

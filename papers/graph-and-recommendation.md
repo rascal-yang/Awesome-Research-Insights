@@ -341,5 +341,8 @@
 - [S3Former: Sequential, Structural, and Statistical Fusion for Continuous-Time Dynamic Graphs](../conferences/neurips-2026/cards-0010.md#paper-155501)
 - [SCDM: Scalable Causal Discovery in Nonlinear Temporal Systems with Meta-Learning](../conferences/neurips-2026/cards-0010.md#paper-153991)
 - [Self-Tuning Graph Filters via State-Dependent Operator Composition](../conferences/neurips-2026/cards-0011.md#paper-153395)
+- [Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks](../conferences/neurips-2026/cards-0011.md#paper-154770)
+- [SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver](../conferences/neurips-2026/cards-0011.md#paper-155167)
+- [Spectral Annealing: Normalization-Path Exploration for Large-Scale Ising Optimization](../conferences/neurips-2026/cards-0011.md#paper-151524)
 
 <!-- conference-classification:end -->

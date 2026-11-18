@@ -571,5 +571,11 @@
 - [SLiDE: Structured Linear Dynamics for Forecasting with Exogenous Inputs](../conferences/neurips-2026/cards-0011.md#paper-155791)
 - [Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions](../conferences/neurips-2026/cards-0011.md#paper-152423)
 - [SO(3)-Equivariant Learning on CAD Boundary Representations](../conferences/neurips-2026/cards-0011.md#paper-148985)
+- [Space-Aware World Models: Spatial Persistence Through Factored Scene Representations](../conferences/neurips-2026/cards-0011.md#paper-153437)
+- [Space Group Conditional Flow Matching](../conferences/neurips-2026/cards-0011.md#paper-152663)
+- [Sparse All-Layer Connector for Domain Generalised Semantic Segmentation](../conferences/neurips-2026/cards-0011.md#paper-153049)
+- [Sparse Koopman Autoencoders Identify Local Dynamical Regimes in Multibasin Systems](../conferences/neurips-2026/cards-0011.md#paper-149627)
+- [SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization](../conferences/neurips-2026/cards-0011.md#paper-148346)
+- [Spectral Transformer Neural Processes](../conferences/neurips-2026/cards-0011.md#paper-154075)
 
 <!-- conference-classification:end -->
