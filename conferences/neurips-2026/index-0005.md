@@ -361,3 +361,59 @@
 | Agent | 语义记忆 | [FEP-Agent: Grounding LLM Agent Self-Evolution in Active Inference with Semantic Memory](cards-0005.md#paper-151723) | 把行动时消解不确定性和行动后验证知识分开。 |
 | 优化 | 高阶重参数化 | [FerQ: Fermat Quotient Reformulation of High-Order Binary Optimization](cards-0005.md#paper-152029) | 为高阶二进制项使用精确闭式重写，减少中间变量。 |
 | 科学机器学习 | 多保真筛选 | [Ferrogen: Generative Pipeline for Guided Search of Novel Ferroelectric Material for Logic and Memory](cards-0005.md#paper-154544) | 用快速代理缩小电子材料候选池，再独立高保真验证。 |
+| 医学机器学习 | 端侧解码 | [FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices](cards-0005.md#paper-150728) | 用自动语音识别骨干替代重型神经解码语言栈 |
+| 时间序列 | 基准诊断 | [fev-bench: A Realistic Benchmark for Time Series Forecasting](cards-0005.md#paper-139547) | 分层比较协变量带来的预报收益 |
+| 计算机视觉 | 机制诊断 | [Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers](cards-0005.md#paper-156119) | 检验图像语义是否集中在少量高激活通道 |
+| 多模态学习 | 空间定位 | [Few Contrastive Attention Heads Enable Visual Grounding in Large Vision-Language Models](cards-0005.md#paper-156779) | 利用目标与对照描述的差异筛选定位头 |
+| 具身智能 | 组合泛化 | [Few-shot Task Learning via Compositional Concept Inference](cards-0005.md#paper-150752) | 从少量示范推断可组合概念再执行 |
+| 计算机视觉 | 生成控制 | [Few-Shot Visual Concept Extraction for Steering Diffusion Transformers](cards-0005.md#paper-150793) | 对局部属性用区域内激活均值差，避免全图平均稀释信号 |
+| 生成模型 | 密度蒸馏 | [Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps](cards-0005.md#paper-154720) | 在图像生成中比较可向量化密度蒸馏与随机迹估计 |
+| 大语言模型 | 轨迹蒸馏 | [Few-Step Diffusion Language Models via Trajectory Self-Distillation](cards-0005.md#paper-151333) | 少步并行解码时让学生匹配完整教师轨迹 |
+| 大语言模型 | 稀疏推理 | [FFTSparse: Relative-Position Correlation Guided Sparse Attention for Long-Context Language Models](cards-0005.md#paper-149510) | 用频域相关筛选高响应的相对位置带 |
+| 大语言模型 | 模型剪枝 | [FiedlerPrune: Connectivity-Preserving Cross-Layer Pruning for Large Language Models](cards-0005.md#paper-155948) | 将跨层连通性与层内权重重要性一起打分 |
+| 因果学习 | 结构正则 | [Fiedler-Regularized Causal Discovery for Sparse Connected DAGs](cards-0005.md#paper-152438) | 已知变量来自同一相连过程时显式约束骨架连通 |
+| 多模态学习 | 潜变量对齐 | [Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models](cards-0005.md#paper-149180) | 把解码隐藏态变换到模型输入的特征空间再反馈 |
+| 计算机视觉 | 水印授权 | [FiLM-CAM: Keyed Feature Modulation for Conditional-Access Watermarking](cards-0005.md#paper-155950) | 以正确与错误密钥的恢复差距衡量授权隔离 |
+| 多模态学习 | 特征调节 | [FiLoRA: Focus-and-Ignore LoRA for Controllable Feature Reliance](cards-0005.md#paper-155819) | 固定任务目标，用指令门控改变模型对特征组的依赖 |
+| 安全机器学习 | 可信隔离 | [FILOsofer: A TEE-Shielded Model Partitioning Framework based on Fisher Information-Guided LoRA Obfuscation](cards-0005.md#paper-148574) | 将轻量修复参数放入可信端，联合测白盒暴露风险和计算成本 |
+| 时间序列 | 低秩建模 | [Filter Banks: from Low-Rank Representations to Deep Models for Efficient Time Series Forecasting](cards-0005.md#paper-152048) | 以可解释秩预算选择滤波器组复杂度 |
+| 统计学习 | 联合校准 | [Filtered Conformal Ellipsoids for Graph-Native Time Series](cards-0005.md#paper-155800) | 用状态滤波器定预测椭球形状，用保形校准定半径 |
+| 机器学习系统 | 在线训练 | [Filtered-Trace Online Variational Training for Probabilistic Spiking Neural Networks](cards-0005.md#paper-153422) | 用有限维历史迹和截断估计控制时序训练内存 |
+| 医学影像 | 软监督 | [FinAl: Fine-grained Alignment for Detail-Preserving Medical Vision-Language Pretraining](cards-0005.md#paper-152146) | 让影像文本对齐保留病情程度关系 |
+| 计算机视觉 | 测试时适配 | [FIND: Frequency Invariance Disentanglement for Test-Time Adaptation in LiDAR 3D Detection](cards-0005.md#paper-155504) | 用频域分支分离内容和传感器变化 |
+| 可解释性 | 注意力归因 | [Finding Interpretable Prompt-Specific Circuits in Language Models](cards-0005.md#paper-154226) | 按提示结构比较注意力通信线路 |
+| 科学机器学习 | 动力学表示 | [Finding Koopman Invariant Subspaces via Personalized PageRank](cards-0005.md#paper-150950) | 按算子泄漏选择小型观测字典 |
+| 优化 | 证明简化 | [Finding Simple Proofs for First-Order Optimization](cards-0005.md#paper-153132) | 对优化收敛证书做稀疏化再人工验证 |
+| 大语言模型 | 执行评测 | [FindStatBench: Evaluating Large Language Models on Combinatorial Code Synthesis](cards-0005.md#paper-139702) | 分别扫描公开样例数和可见输出预算 |
+| 计算机视觉 | 三维精修 | [Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement](cards-0005.md#paper-154731) | 在三维邻域而非图像邻域恢复细节 |
+| 评测与诊断 | 基准构建 | [Fine-Grained Benchmark Generation for Comprehensive Evaluation of Foundation Models](cards-0005.md#paper-138954) | 用参考材料覆盖矩阵与解题图验收新题 |
+| 大语言模型 | 稀疏架构 | [FineRMoE: Dimension Expansion for Finer-Grained Expert with an Upcycling Approach](cards-0005.md#paper-156104) | 将专家细分扩展到输出维度 |
+| 大语言模型 | 防御评测 | [Fine-tuning Does Not Reach All: Uneven Safety and Knowledge Dynamics in Language Models](cards-0005.md#paper-155221) | 安全微调后按知识概念做回归验收 |
+| 大语言模型 | 生成诊断 | [Fine-Tuning Improves Information Conveyance in Language Models](cards-0005.md#paper-152334) | 把回答长度和内容不确定性一起分析 |
+| 神经科学 | 跨模态迁移 | [Fine-tuning language encoding models on slow fMRI improves prediction for fast ECoG](cards-0005.md#paper-153546) | 用低时间分辨率观测训练表示再评估高频数据 |
+| 大语言模型 | 置信度评测 | [Fine-Tuning Language Models to Know What They Know](cards-0005.md#paper-149889) | 优先用区分正确与错误的元认知指标验收 |
+| 大语言模型 | 训练数据 | [Finetuning with Sampling: Make SFT Generalize, Not Forget](cards-0005.md#paper-150118) | 用参考模型重采样专家轨迹再监督微调 |
+| 具身智能 | 动作监督 | [FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies](cards-0005.md#paper-154540) | 为同一任务目标标注执行方式差异 |
+| 强化学习 | 有限记忆 | [Finite-Memory Control of POMDPs: Fundamental Limits and Efficient Design](cards-0005.md#paper-153239) | 按混淆后产生的决策损失分配记忆状态 |
+| 优化 | 观测设计 | [Finite-Resolution Decision Sufficiency for Linear Optimization](cards-0005.md#paper-154190) | 按是否存在共同低遗憾决策选择观测 |
+| 统计学习 | 多重检验 | [Finite Resources False Discovery Rate Control on Structured Hypothesis Spaces](cards-0005.md#paper-153662) | 参考样本受限时显式纳入 p 值估计不确定性 |
+| 学习理论 | 通信压缩 | [Finite-Sample and Communication-Efficient Networked Information Aggregation](cards-0005.md#paper-148707) | 独立调节统计样本和通信维数 |
+| 强化学习 | 收敛分析 | [Finite-Sample Convergence in Networked Average Reward MARL: Decentralization Pitfalls and Entropy Remedies](cards-0005.md#paper-149372) | 比较熵正则前后能证明的收敛目标 |
+| 统计学习 | 估计误差 | [Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design](cards-0005.md#paper-155399) | 达到统计误差平台后用样本量而非更多迭代改善精度 |
+| 强化学习 | 风险敏感控制 | [Finite Time Analysis of Risk-Sensitive RL via Noisy Power Iteration](cards-0005.md#paper-154039) | 为乘性动态规划使用射影误差而非加性残差 |
+| 多模态学习 | 多轮评测 | [FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation](cards-0005.md#paper-139640) | 同时报告回合和会话分数，定位流程中的失败 |
+| Agent | 分层评测 | [FinReasoning: A Hierarchical Benchmark for Reliable Financial Research Reporting](cards-0005.md#paper-139378) | 用独立核验分决定 Agent 的流程分工 |
+| 多模态学习 | 信用分配 | [FiRe: Fine-grained Multimodal Reasoning for Enhanced Image Generation](cards-0005.md#paper-152686) | 对多步生成按中间可检查属性分配奖励 |
+| Agent | 数据策略 | [Firefly: Illuminating Verified Real-world Tool Call Data Generation](cards-0005.md#paper-155698) | 从可验证终态反推训练任务，检查可达性与语义一致性 |
+| 科学机器学习 | 困难负样本 | [FireMPC: A Multi-Source Pan-Canadian Wildfire Benchmark Revealing Spatiotemporal Generalization Gaps](cards-0005.md#paper-139341) | 从领域风险因子选择难负例，并单测空间和时域迁移 |
+| 优化 | 遗憾界 | [First-Order Regret for Online Convex Optimization with Memory and Online Nonstochastic Control](cards-0005.md#paper-148317) | 对低累计损失对照优先使用损失依赖界 |
+| 科学机器学习 | 代理建模 | [First-Order Trajectory Matching: Fast Ensemble Predictions of Chaotic, Turbulent, Stochastic Systems](cards-0005.md#paper-150161) | 从轨迹直接估计概率流，并分开验证边缘分布与通量 |
+| 学习理论 | 序列诊断 | [First-Token Attraction in Mamba Dynamics](cards-0005.md#paper-149171) | 比较层间方向与首位置贡献，检测状态空间模型的汇聚 |
+| 时间序列 | 统计校准 | [FISC: Time-Series Forecasting via First-Layer Statistical Calibration Constraints](cards-0005.md#paper-149568) | 固定网络比较不同校准位置，先约束入口再保留深层适应 |
+| 强化学习 | 策略精修 | [Fisher Decorator: Refining Flow Policy via  A Local Transport Map](cards-0005.md#paper-151066) | 离线策略精修按行为密度方向约束残差 |
+| 统计学习 | 尾部诊断 | [Fisher-Glass: Tail Sample Complexity from Nuisance-Projected Fisher Information](cards-0005.md#paper-148665) | 群体审计同时检查预测损失和投影后的辨识尾部 |
+| 可解释性 | 记忆诊断 | [Fisher information and the geometry of memorization in neural networks](cards-0005.md#paper-153128) | 逐层做 Fisher 投影，同时测正常与受污染样本 |
+| Agent | 统计证据评测 | [Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](cards-0005.md#paper-152494) | 把统计有效性作为独立验收项，避免只检查执行 |
+| 时序建模 | 神经元结构 | [FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping](cards-0005.md#paper-148427) | 分别学习和分析目标频率、信号到达时间 |
+| 具身智能 | 低延迟控制 | [FIVE-VLA: Fast and EffectIVE Closed-Loop Autonomous Driving with Recurrent Action Memory](cards-0005.md#paper-153787) | 联合测决策频率与闭环成功，单独比较历史动作输入 |
+| 生成模型 | 自适应计算 | [Fixed-Point Masked Generative Modeling](cards-0005.md#paper-155218) | 按变化状态复用上一步隐变量，与冷启动对照 |

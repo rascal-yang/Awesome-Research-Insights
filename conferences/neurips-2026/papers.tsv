@@ -2941,67 +2941,67 @@ poster_id	title	paper_url	status	reason
 151723	FEP-Agent: Grounding LLM Agent Self-Evolution in Active Inference with Semantic Memory	https://neurips.cc/virtual/2026/poster/151723	included	把行动时消解不确定性和行动后验证知识分开。
 152029	FerQ: Fermat Quotient Reformulation of High-Order Binary Optimization	https://neurips.cc/virtual/2026/poster/152029	included	为高阶二进制项使用精确闭式重写，减少中间变量。
 154544	Ferrogen: Generative Pipeline for Guided Search of Novel Ferroelectric Material for Logic and Memory	https://neurips.cc/virtual/2026/poster/154544	included	用快速代理缩小电子材料候选池，再独立高保真验证。
-150728	FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices	https://neurips.cc/virtual/2026/poster/150728	pending	-
-139547	fev-bench: A Realistic Benchmark for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/139547	pending	-
-156119	Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers	https://neurips.cc/virtual/2026/poster/156119	pending	-
-156779	Few Contrastive Attention Heads Enable Visual Grounding in Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/156779	pending	-
+150728	FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices	https://neurips.cc/virtual/2026/poster/150728	included	用自动语音识别骨干替代重型神经解码语言栈
+139547	fev-bench: A Realistic Benchmark for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/139547	included	分层比较协变量带来的预报收益
+156119	Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers	https://neurips.cc/virtual/2026/poster/156119	included	检验图像语义是否集中在少量高激活通道
+156779	Few Contrastive Attention Heads Enable Visual Grounding in Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/156779	included	利用目标与对照描述的差异筛选定位头
 152441	Fewer Tokens, Fewer Layers: Efficient Vision Token Pruning and On-Policy Distillation to Accelerate VLMs	https://neurips.cc/virtual/2026/poster/152441	included	同时减少视觉预填充与长文本解码开销。
-150752	Few-shot Task Learning via Compositional Concept Inference	https://neurips.cc/virtual/2026/poster/150752	pending	-
-150959	Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs	https://neurips.cc/virtual/2026/poster/150959	pending	-
-150793	Few-Shot Visual Concept Extraction for Steering Diffusion Transformers	https://neurips.cc/virtual/2026/poster/150793	pending	-
-154720	Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps	https://neurips.cc/virtual/2026/poster/154720	pending	-
-151026	Few-Step Cofolding with All-Atom Flow Maps	https://neurips.cc/virtual/2026/poster/151026	pending	-
-151333	Few-Step Diffusion Language Models via Trajectory Self-Distillation	https://neurips.cc/virtual/2026/poster/151333	pending	-
-149510	FFTSparse: Relative-Position Correlation Guided Sparse Attention for Long-Context Language Models	https://neurips.cc/virtual/2026/poster/149510	pending	-
-155948	FiedlerPrune: Connectivity-Preserving Cross-Layer Pruning for Large Language Models	https://neurips.cc/virtual/2026/poster/155948	pending	-
-152438	Fiedler-Regularized Causal Discovery for Sparse Connected DAGs	https://neurips.cc/virtual/2026/poster/152438	pending	-
-149180	Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/149180	pending	-
-155950	FiLM-CAM: Keyed Feature Modulation for Conditional-Access Watermarking	https://neurips.cc/virtual/2026/poster/155950	pending	-
-155819	FiLoRA: Focus-and-Ignore LoRA for Controllable Feature Reliance	https://neurips.cc/virtual/2026/poster/155819	pending	-
-148574	FILOsofer: A TEE-Shielded Model Partitioning Framework based on Fisher Information-Guided LoRA Obfuscation	https://neurips.cc/virtual/2026/poster/148574	pending	-
-152048	Filter Banks: from Low-Rank Representations to Deep Models for Efficient Time Series Forecasting	https://neurips.cc/virtual/2026/poster/152048	pending	-
-155800	Filtered Conformal Ellipsoids for Graph-Native Time Series	https://neurips.cc/virtual/2026/poster/155800	pending	-
-153422	Filtered-Trace Online Variational Training for Probabilistic Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/153422	pending	-
-152146	FinAl: Fine-grained Alignment for Detail-Preserving Medical Vision-Language Pretraining	https://neurips.cc/virtual/2026/poster/152146	pending	-
-155504	FIND: Frequency Invariance Disentanglement for Test-Time Adaptation in LiDAR 3D Detection	https://neurips.cc/virtual/2026/poster/155504	pending	-
-154226	Finding Interpretable Prompt-Specific Circuits in Language Models	https://neurips.cc/virtual/2026/poster/154226	pending	-
-150950	Finding Koopman Invariant Subspaces via Personalized PageRank	https://neurips.cc/virtual/2026/poster/150950	pending	-
-153132	Finding Simple Proofs for First-Order Optimization	https://neurips.cc/virtual/2026/poster/153132	pending	-
-139702	FindStatBench: Evaluating Large Language Models on Combinatorial Code Synthesis	https://neurips.cc/virtual/2026/poster/139702	pending	-
-154731	Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement	https://neurips.cc/virtual/2026/poster/154731	pending	-
-138954	Fine-Grained Benchmark Generation for Comprehensive Evaluation of Foundation Models	https://neurips.cc/virtual/2026/poster/138954	pending	-
-156104	FineRMoE: Dimension Expansion for Finer-Grained Expert with an Upcycling Approach	https://neurips.cc/virtual/2026/poster/156104	pending	-
-155221	Fine-tuning Does Not Reach All: Uneven Safety and Knowledge Dynamics in Language Models	https://neurips.cc/virtual/2026/poster/155221	pending	-
-152334	Fine-Tuning Improves Information Conveyance in Language Models	https://neurips.cc/virtual/2026/poster/152334	pending	-
-153546	Fine-tuning language encoding models on slow fMRI improves prediction for fast ECoG	https://neurips.cc/virtual/2026/poster/153546	pending	-
-149889	Fine-Tuning Language Models to Know What They Know	https://neurips.cc/virtual/2026/poster/149889	pending	-
-150118	Finetuning with Sampling: Make SFT Generalize, Not Forget	https://neurips.cc/virtual/2026/poster/150118	pending	-
-139537	FineVision: Open Data Is All You Need	https://neurips.cc/virtual/2026/poster/139537	pending	-
-154540	FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies	https://neurips.cc/virtual/2026/poster/154540	pending	-
-153664	Fingerprinting Inference Systems of Large Language Models	https://neurips.cc/virtual/2026/poster/153664	pending	-
-153239	Finite-Memory Control of POMDPs: Fundamental Limits and Efficient Design	https://neurips.cc/virtual/2026/poster/153239	pending	-
-154190	Finite-Resolution Decision Sufficiency for Linear Optimization	https://neurips.cc/virtual/2026/poster/154190	pending	-
-153662	Finite Resources False Discovery Rate Control on Structured Hypothesis Spaces	https://neurips.cc/virtual/2026/poster/153662	pending	-
-148707	Finite-Sample and Communication-Efficient Networked Information Aggregation	https://neurips.cc/virtual/2026/poster/148707	pending	-
-149372	Finite-Sample Convergence in Networked Average Reward MARL: Decentralization Pitfalls and Entropy Remedies	https://neurips.cc/virtual/2026/poster/149372	pending	-
-155399	Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design	https://neurips.cc/virtual/2026/poster/155399	pending	-
-154039	Finite Time Analysis of Risk-Sensitive RL via Noisy Power Iteration	https://neurips.cc/virtual/2026/poster/154039	pending	-
-139640	FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation	https://neurips.cc/virtual/2026/poster/139640	pending	-
-139378	FinReasoning: A Hierarchical Benchmark for Reliable Financial Research Reporting	https://neurips.cc/virtual/2026/poster/139378	pending	-
-152686	FiRe: Fine-grained Multimodal Reasoning for Enhanced Image Generation	https://neurips.cc/virtual/2026/poster/152686	pending	-
-155698	Firefly: Illuminating Verified Real-world Tool Call Data Generation	https://neurips.cc/virtual/2026/poster/155698	pending	-
-139341	FireMPC: A Multi-Source Pan-Canadian Wildfire Benchmark Revealing Spatiotemporal Generalization Gaps	https://neurips.cc/virtual/2026/poster/139341	pending	-
-148317	First-Order Regret for Online Convex Optimization with Memory and Online Nonstochastic Control	https://neurips.cc/virtual/2026/poster/148317	pending	-
-150161	First-Order Trajectory Matching: Fast Ensemble Predictions of Chaotic, Turbulent, Stochastic Systems	https://neurips.cc/virtual/2026/poster/150161	pending	-
-149171	First-Token Attraction in Mamba Dynamics	https://neurips.cc/virtual/2026/poster/149171	pending	-
-149568	FISC: Time-Series Forecasting via First-Layer Statistical Calibration Constraints	https://neurips.cc/virtual/2026/poster/149568	pending	-
-151066	Fisher Decorator: Refining Flow Policy via  A Local Transport Map	https://neurips.cc/virtual/2026/poster/151066	pending	-
-148665	Fisher-Glass: Tail Sample Complexity from Nuisance-Projected Fisher Information	https://neurips.cc/virtual/2026/poster/148665	pending	-
-153128	Fisher information and the geometry of memorization in neural networks	https://neurips.cc/virtual/2026/poster/153128	pending	-
-152494	Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing	https://neurips.cc/virtual/2026/poster/152494	pending	-
-148427	FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping	https://neurips.cc/virtual/2026/poster/148427	pending	-
-153787	FIVE-VLA: Fast and EffectIVE Closed-Loop Autonomous Driving with Recurrent Action Memory	https://neurips.cc/virtual/2026/poster/153787	pending	-
-155218	Fixed-Point Masked Generative Modeling	https://neurips.cc/virtual/2026/poster/155218	pending	-
+150752	Few-shot Task Learning via Compositional Concept Inference	https://neurips.cc/virtual/2026/poster/150752	included	从少量示范推断可组合概念再执行
+150959	Few-Shot Truly Benign DPO Attack for Jailbreaking LLMs	https://neurips.cc/virtual/2026/poster/150959	excluded	主要贡献是绕过模型安全对齐的攻击，未提取可独立验证的防御机制。
+150793	Few-Shot Visual Concept Extraction for Steering Diffusion Transformers	https://neurips.cc/virtual/2026/poster/150793	included	对局部属性用区域内激活均值差，避免全图平均稀释信号
+154720	Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps	https://neurips.cc/virtual/2026/poster/154720	included	在图像生成中比较可向量化密度蒸馏与随机迹估计
+151026	Few-Step Cofolding with All-Atom Flow Maps	https://neurips.cc/virtual/2026/poster/151026	excluded	核心贡献针对生物分子复合体的全原子生成与搜索，未单独提取通用卡片。
+151333	Few-Step Diffusion Language Models via Trajectory Self-Distillation	https://neurips.cc/virtual/2026/poster/151333	included	少步并行解码时让学生匹配完整教师轨迹
+149510	FFTSparse: Relative-Position Correlation Guided Sparse Attention for Long-Context Language Models	https://neurips.cc/virtual/2026/poster/149510	included	用频域相关筛选高响应的相对位置带
+155948	FiedlerPrune: Connectivity-Preserving Cross-Layer Pruning for Large Language Models	https://neurips.cc/virtual/2026/poster/155948	included	将跨层连通性与层内权重重要性一起打分
+152438	Fiedler-Regularized Causal Discovery for Sparse Connected DAGs	https://neurips.cc/virtual/2026/poster/152438	included	已知变量来自同一相连过程时显式约束骨架连通
+149180	Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/149180	included	把解码隐藏态变换到模型输入的特征空间再反馈
+155950	FiLM-CAM: Keyed Feature Modulation for Conditional-Access Watermarking	https://neurips.cc/virtual/2026/poster/155950	included	以正确与错误密钥的恢复差距衡量授权隔离
+155819	FiLoRA: Focus-and-Ignore LoRA for Controllable Feature Reliance	https://neurips.cc/virtual/2026/poster/155819	included	固定任务目标，用指令门控改变模型对特征组的依赖
+148574	FILOsofer: A TEE-Shielded Model Partitioning Framework based on Fisher Information-Guided LoRA Obfuscation	https://neurips.cc/virtual/2026/poster/148574	included	将轻量修复参数放入可信端，联合测白盒暴露风险和计算成本
+152048	Filter Banks: from Low-Rank Representations to Deep Models for Efficient Time Series Forecasting	https://neurips.cc/virtual/2026/poster/152048	included	以可解释秩预算选择滤波器组复杂度
+155800	Filtered Conformal Ellipsoids for Graph-Native Time Series	https://neurips.cc/virtual/2026/poster/155800	included	用状态滤波器定预测椭球形状，用保形校准定半径
+153422	Filtered-Trace Online Variational Training for Probabilistic Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/153422	included	用有限维历史迹和截断估计控制时序训练内存
+152146	FinAl: Fine-grained Alignment for Detail-Preserving Medical Vision-Language Pretraining	https://neurips.cc/virtual/2026/poster/152146	included	让影像文本对齐保留病情程度关系
+155504	FIND: Frequency Invariance Disentanglement for Test-Time Adaptation in LiDAR 3D Detection	https://neurips.cc/virtual/2026/poster/155504	included	用频域分支分离内容和传感器变化
+154226	Finding Interpretable Prompt-Specific Circuits in Language Models	https://neurips.cc/virtual/2026/poster/154226	included	按提示结构比较注意力通信线路
+150950	Finding Koopman Invariant Subspaces via Personalized PageRank	https://neurips.cc/virtual/2026/poster/150950	included	按算子泄漏选择小型观测字典
+153132	Finding Simple Proofs for First-Order Optimization	https://neurips.cc/virtual/2026/poster/153132	included	对优化收敛证书做稀疏化再人工验证
+139702	FindStatBench: Evaluating Large Language Models on Combinatorial Code Synthesis	https://neurips.cc/virtual/2026/poster/139702	included	分别扫描公开样例数和可见输出预算
+154731	Fine-Detail Monocular Geometry Estimation with Self-Guided Sparse Volumetric Refinement	https://neurips.cc/virtual/2026/poster/154731	included	在三维邻域而非图像邻域恢复细节
+138954	Fine-Grained Benchmark Generation for Comprehensive Evaluation of Foundation Models	https://neurips.cc/virtual/2026/poster/138954	included	用参考材料覆盖矩阵与解题图验收新题
+156104	FineRMoE: Dimension Expansion for Finer-Grained Expert with an Upcycling Approach	https://neurips.cc/virtual/2026/poster/156104	included	将专家细分扩展到输出维度
+155221	Fine-tuning Does Not Reach All: Uneven Safety and Knowledge Dynamics in Language Models	https://neurips.cc/virtual/2026/poster/155221	included	安全微调后按知识概念做回归验收
+152334	Fine-Tuning Improves Information Conveyance in Language Models	https://neurips.cc/virtual/2026/poster/152334	included	把回答长度和内容不确定性一起分析
+153546	Fine-tuning language encoding models on slow fMRI improves prediction for fast ECoG	https://neurips.cc/virtual/2026/poster/153546	included	用低时间分辨率观测训练表示再评估高频数据
+149889	Fine-Tuning Language Models to Know What They Know	https://neurips.cc/virtual/2026/poster/149889	included	优先用区分正确与错误的元认知指标验收
+150118	Finetuning with Sampling: Make SFT Generalize, Not Forget	https://neurips.cc/virtual/2026/poster/150118	included	用参考模型重采样专家轨迹再监督微调
+139537	FineVision: Open Data Is All You Need	https://neurips.cc/virtual/2026/poster/139537	excluded	摘要主要贡献为大规模开放数据整合和清洗，未单独验证某一新机制的作用。
+154540	FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies	https://neurips.cc/virtual/2026/poster/154540	included	为同一任务目标标注执行方式差异
+153664	Fingerprinting Inference Systems of Large Language Models	https://neurips.cc/virtual/2026/poster/153664	excluded	主要贡献是从外部推断部署基础设施，摘要未提供独立验证的可复用防御机制。
+153239	Finite-Memory Control of POMDPs: Fundamental Limits and Efficient Design	https://neurips.cc/virtual/2026/poster/153239	included	按混淆后产生的决策损失分配记忆状态
+154190	Finite-Resolution Decision Sufficiency for Linear Optimization	https://neurips.cc/virtual/2026/poster/154190	included	按是否存在共同低遗憾决策选择观测
+153662	Finite Resources False Discovery Rate Control on Structured Hypothesis Spaces	https://neurips.cc/virtual/2026/poster/153662	included	参考样本受限时显式纳入 p 值估计不确定性
+148707	Finite-Sample and Communication-Efficient Networked Information Aggregation	https://neurips.cc/virtual/2026/poster/148707	included	独立调节统计样本和通信维数
+149372	Finite-Sample Convergence in Networked Average Reward MARL: Decentralization Pitfalls and Entropy Remedies	https://neurips.cc/virtual/2026/poster/149372	included	比较熵正则前后能证明的收敛目标
+155399	Finite-Sample Performance of Gradient Descent in Logistic Regression with Gaussian Design	https://neurips.cc/virtual/2026/poster/155399	included	达到统计误差平台后用样本量而非更多迭代改善精度
+154039	Finite Time Analysis of Risk-Sensitive RL via Noisy Power Iteration	https://neurips.cc/virtual/2026/poster/154039	included	为乘性动态规划使用射影误差而非加性残差
+139640	FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation	https://neurips.cc/virtual/2026/poster/139640	included	同时报告回合和会话分数，定位流程中的失败
+139378	FinReasoning: A Hierarchical Benchmark for Reliable Financial Research Reporting	https://neurips.cc/virtual/2026/poster/139378	included	用独立核验分决定 Agent 的流程分工
+152686	FiRe: Fine-grained Multimodal Reasoning for Enhanced Image Generation	https://neurips.cc/virtual/2026/poster/152686	included	对多步生成按中间可检查属性分配奖励
+155698	Firefly: Illuminating Verified Real-world Tool Call Data Generation	https://neurips.cc/virtual/2026/poster/155698	included	从可验证终态反推训练任务，检查可达性与语义一致性
+139341	FireMPC: A Multi-Source Pan-Canadian Wildfire Benchmark Revealing Spatiotemporal Generalization Gaps	https://neurips.cc/virtual/2026/poster/139341	included	从领域风险因子选择难负例，并单测空间和时域迁移
+148317	First-Order Regret for Online Convex Optimization with Memory and Online Nonstochastic Control	https://neurips.cc/virtual/2026/poster/148317	included	对低累计损失对照优先使用损失依赖界
+150161	First-Order Trajectory Matching: Fast Ensemble Predictions of Chaotic, Turbulent, Stochastic Systems	https://neurips.cc/virtual/2026/poster/150161	included	从轨迹直接估计概率流，并分开验证边缘分布与通量
+149171	First-Token Attraction in Mamba Dynamics	https://neurips.cc/virtual/2026/poster/149171	included	比较层间方向与首位置贡献，检测状态空间模型的汇聚
+149568	FISC: Time-Series Forecasting via First-Layer Statistical Calibration Constraints	https://neurips.cc/virtual/2026/poster/149568	included	固定网络比较不同校准位置，先约束入口再保留深层适应
+151066	Fisher Decorator: Refining Flow Policy via  A Local Transport Map	https://neurips.cc/virtual/2026/poster/151066	included	离线策略精修按行为密度方向约束残差
+148665	Fisher-Glass: Tail Sample Complexity from Nuisance-Projected Fisher Information	https://neurips.cc/virtual/2026/poster/148665	included	群体审计同时检查预测损失和投影后的辨识尾部
+153128	Fisher information and the geometry of memorization in neural networks	https://neurips.cc/virtual/2026/poster/153128	included	逐层做 Fisher 投影，同时测正常与受污染样本
+152494	Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing	https://neurips.cc/virtual/2026/poster/152494	included	把统计有效性作为独立验收项，避免只检查执行
+148427	FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping	https://neurips.cc/virtual/2026/poster/148427	included	分别学习和分析目标频率、信号到达时间
+153787	FIVE-VLA: Fast and EffectIVE Closed-Loop Autonomous Driving with Recurrent Action Memory	https://neurips.cc/virtual/2026/poster/153787	included	联合测决策频率与闭环成功，单独比较历史动作输入
+155218	Fixed-Point Masked Generative Modeling	https://neurips.cc/virtual/2026/poster/155218	included	按变化状态复用上一步隐变量，与冷启动对照
 148540	Fixed-Point Reasoning: Stable and Adaptive Deep Looped Models	https://neurips.cc/virtual/2026/poster/148540	pending	-
 153159	Fixed-Size Active Statistical Inference	https://neurips.cc/virtual/2026/poster/153159	pending	-
 149666	Fixed Universal Transformers	https://neurips.cc/virtual/2026/poster/149666	pending	-
