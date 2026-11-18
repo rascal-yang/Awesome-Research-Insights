@@ -1160,5 +1160,13 @@
 - [Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails](../conferences/neurips-2026/cards-0010.md#paper-149672)
 - [SARA: Step-Adaptive Rank Adjustment for Diffusion Inference Acceleration](../conferences/neurips-2026/cards-0010.md#paper-151173)
 - [SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](../conferences/neurips-2026/cards-0010.md#paper-151940)
+- [Scalable Maximum Entropy Reinforcement Learning for Diffusion Policies via Adjoint Matching](../conferences/neurips-2026/cards-0010.md#paper-150581)
+- [Scalable Multi-Agent Contrastive Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-151201)
+- [Scalable Neural Safety Certification via Monotonicity](../conferences/neurips-2026/cards-0010.md#paper-156059)
+- [Scaling Laws and Tradeoffs in Recurrent Networks of Expressive Neurons](../conferences/neurips-2026/cards-0010.md#paper-148161)
+- [SCTI: Self-Calibrated Trident Identification of Black-Box LLM Watermarks](../conferences/neurips-2026/cards-0010.md#paper-149151)
+- [SCULPT: Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis.](../conferences/neurips-2026/cards-0010.md#paper-154985)
+- [SDFlow: Similarity-Driven Flow Matching for Time Series Generation](../conferences/neurips-2026/cards-0010.md#paper-150124)
+- [SDHilb: Schrödinger Dynamics-Guided Neural Network with Adaptive Multi-Scale Hilbert Transform for Time Series Forecasting](../conferences/neurips-2026/cards-0010.md#paper-152741)
 
 <!-- conference-classification:end -->

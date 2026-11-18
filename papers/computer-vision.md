@@ -1116,5 +1116,11 @@
 - [RSPReg: Reliability-aware Structural Prototype Learning for Point Cloud Registration](../conferences/neurips-2026/cards-0010.md#paper-152998)
 - [S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields](../conferences/neurips-2026/cards-0010.md#paper-148986)
 - [SAGE: Semantic-Agnostic Image Embedding for Generalized AI-Generated Image Detection](../conferences/neurips-2026/cards-0010.md#paper-149194)
+- [Scaling Full Conformal Image Classifiers](../conferences/neurips-2026/cards-0010.md#paper-149457)
+- [Scaling Multi-Teacher Distillation for Digital Pathology](../conferences/neurips-2026/cards-0010.md#paper-148948)
+- [Scenes as Objects, Not Primitives : Instance-Structured 3D Tokenization from Unposed Views](../conferences/neurips-2026/cards-0010.md#paper-149694)
+- [Seed-Your-Motion: Householder Orthogonal Noise for Motion-Controllable Video Diffusion Models](../conferences/neurips-2026/cards-0010.md#paper-150697)
+- [Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images](../conferences/neurips-2026/cards-0010.md#paper-153642)
+- [Seeing Both the Forest and the Trees: Reusing Holistic 3D Priors for Part-Decomposed Generation](../conferences/neurips-2026/cards-0010.md#paper-153133)
 
 <!-- conference-classification:end -->

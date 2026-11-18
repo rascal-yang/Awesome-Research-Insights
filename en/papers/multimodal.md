@@ -923,5 +923,15 @@ Learning across modalities such as images, text, audio, and video.
 - [SARA: Step-Adaptive Rank Adjustment for Diffusion Inference Acceleration](../../conferences/neurips-2026/cards-0010.md#paper-151173)
 - [Scaffold3D: SfM-Conditioned Pointmap Prediction for Multi-View 3D Reconstruction](../../conferences/neurips-2026/cards-0010.md#paper-148928)
 - [Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video](../../conferences/neurips-2026/cards-0010.md#paper-149509)
+- [Scaling Laws for Multimodal Data Mixtures](../../conferences/neurips-2026/cards-0010.md#paper-148475)
+- [SceneBind: Binding What and Where Across Vision, Audio, and Language](../../conferences/neurips-2026/cards-0010.md#paper-153396)
+- [SCION: Scene Composition via Instanced Neural Primitives](../../conferences/neurips-2026/cards-0010.md#paper-155121)
+- [SD-LoRA: Training-Time Structural Distillation into LoRA for Few-Shot Vision-Language Adaptation](../../conferences/neurips-2026/cards-0010.md#paper-153156)
+- [Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA](../../conferences/neurips-2026/cards-0010.md#paper-149784)
+- [SearchV: Evolutionary Fine-Grained Visual-Token Skipping for Efficient Vision-Language Models](../../conferences/neurips-2026/cards-0010.md#paper-150488)
+- [Seeing or Rationalizing? Scene-Evidence-Guided  Chain-of-Thought for Faithful 3D Multimodal  Reasoning](../../conferences/neurips-2026/cards-0010.md#paper-150559)
+- [SeeSE3: The Emergence of 3D Space in Vision Features](../../conferences/neurips-2026/cards-0010.md#paper-150379)
+- [See to Believe: Segmentation by Reasoning with Visual Evidence](../../conferences/neurips-2026/cards-0010.md#paper-155884)
+- [SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers](../../conferences/neurips-2026/cards-0010.md#paper-153817)
 
 <!-- conference-classification:end -->

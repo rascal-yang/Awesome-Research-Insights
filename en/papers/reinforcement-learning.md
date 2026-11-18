@@ -679,5 +679,9 @@ Learning from interaction, feedback, and offline experience.
 - [Safe Offline Reinforcement Learning using Behavior Regularisation and Latent Feasibility-Guidance](../../conferences/neurips-2026/cards-0010.md#paper-155682)
 - [SamaDICE: Safe Multi-Agent Reinforcement Learning with Stationary Distribution Correction Estimation](../../conferences/neurips-2026/cards-0010.md#paper-150278)
 - [Sampling-Based Safe Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149799)
+- [Scalable Maximum Entropy Reinforcement Learning for Diffusion Policies via Adjoint Matching](../../conferences/neurips-2026/cards-0010.md#paper-150581)
+- [Scalable Multi-Agent Contrastive Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-151201)
+- [Search-Tree Scaling in Parallel Monte Carlo Tree Search](../../conferences/neurips-2026/cards-0010.md#paper-150219)
+- [SEAR: Sample Efficient Action Chunking Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-151301)
 
 <!-- conference-classification:end -->

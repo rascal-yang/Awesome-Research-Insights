@@ -747,5 +747,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [RubiConv - Efficient Boundary-Respecting Convolutions](../../conferences/neurips-2026/cards-0010.md#paper-150280)
 - [SAG-Sep: Sparse Augmented Graphs and Onion-Guided Search for Rounded Capacity Cut Separation](../../conferences/neurips-2026/cards-0010.md#paper-148394)
 - [SamaDICE: Safe Multi-Agent Reinforcement Learning with Stationary Distribution Correction Estimation](../../conferences/neurips-2026/cards-0010.md#paper-150278)
+- [Scalable Supervised Optimal Transport of Gaussian Mixture Models](../../conferences/neurips-2026/cards-0010.md#paper-154980)
+- [Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers](../../conferences/neurips-2026/cards-0010.md#paper-154846)
+- [Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization](../../conferences/neurips-2026/cards-0010.md#paper-150226)
 
 <!-- conference-classification:end -->

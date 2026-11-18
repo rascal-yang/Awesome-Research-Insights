@@ -1675,5 +1675,15 @@
 - [Sample Transform Cost-Based Training-Free Hallucination Detector for Large Language Models](../conferences/neurips-2026/cards-0010.md#paper-154259)
 - [Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](../conferences/neurips-2026/cards-0010.md#paper-139059)
 - [Say the Same, Act Differently: Text-Orthogonal Action Subspaces in Reasoning Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-154708)
+- [Scalable Token-Level Hallucination Detection in Large Language Models](../conferences/neurips-2026/cards-0010.md#paper-148846)
+- [Scattered by Design: Why Per-Output Pruning Resists Structured Compression](../conferences/neurips-2026/cards-0010.md#paper-152970)
+- [SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers](../conferences/neurips-2026/cards-0010.md#paper-139501)
+- [SceneFactory: GPU-Accelerated Multi-Agent Driving Simulation with Physics-Based Vehicle Dynamics](../conferences/neurips-2026/cards-0010.md#paper-139016)
+- [SciR: A Controllable Benchmark for Scientific Reasoning in LLMs](../conferences/neurips-2026/cards-0010.md#paper-139704)
+- [ScopeSAE: Model-Scope Feature Discovery with Interpretable Layer Selection](../conferences/neurips-2026/cards-0010.md#paper-153114)
+- [ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping](../conferences/neurips-2026/cards-0010.md#paper-139442)
+- [Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners](../conferences/neurips-2026/cards-0010.md#paper-152386)
+- [Seeing or Rationalizing? Scene-Evidence-Guided  Chain-of-Thought for Faithful 3D Multimodal  Reasoning](../conferences/neurips-2026/cards-0010.md#paper-150559)
+- [SeeSE3: The Emergence of 3D Space in Vision Features](../conferences/neurips-2026/cards-0010.md#paper-150379)
 
 <!-- conference-classification:end -->

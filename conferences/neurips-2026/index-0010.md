@@ -508,3 +508,78 @@
 | 视觉与多模态 | 模型与架构 | [Scaffold3D: SfM-Conditioned Pointmap Prediction for Multi-View 3D Reconstruction](cards-0010.md#paper-148928) | 低重叠重建把 SfM 骨架作为点图预测条件 |
 | 视觉与多模态 | 训练与优化 | [Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video](cards-0010.md#paper-149509) | 互联网视频弱监督适配几何骨干时保留锚数据 |
 | 机器学习基础与统计 | 训练与优化 | [Scalable Fair Learning via Cramér-von Mises Regularization](cards-0010.md#paper-155653) | 统计公平正则对整分布依赖建模 |
+| 强化学习 | 扩散模型 | [Scalable Maximum Entropy Reinforcement Learning for Diffusion Policies via Adjoint Matching](cards-0010.md#paper-150581) | 在线控制先比较伴随匹配的扩散策略更新。 |
+| 生成模型 | 奖励设计 | [Scalable Minimal-Change Learning for Controllable Image Editing](cards-0010.md#paper-153198) | 图像编辑同时奖励指令命中和非编辑区保留。 |
+| 强化学习 | 对比学习 | [Scalable Multi-Agent Contrastive Reinforcement Learning](cards-0010.md#paper-151201) | 协作目标控制用集中对比 critic。 |
+| 具身智能与机器人 | 模型鲁棒性 | [Scalable Neural Safety Certification via Monotonicity](cards-0010.md#paper-156059) | 系统满足单调条件时以单调屏障证书验证安全。 |
+| 机器学习理论 | 最优传输 | [Scalable Supervised Optimal Transport of Gaussian Mixture Models](cards-0010.md#paper-154980) | 大样本 OT 用混合成分代替逐点耦合。 |
+| 大语言模型 | 评测与诊断 | [Scalable Token-Level Hallucination Detection in Large Language Models](cards-0010.md#paper-148846) | 长推理审核单测 token 级错误。 |
+| 大语言模型 | 不确定性估计 | [Scalable Variational Bayesian Fine-Tuning of LLMs via Orthogonalized Low-Rank Adapters](cards-0010.md#paper-149427) | 参数高效微调用正交适配和贝叶斯末层校准。 |
+| 模型效率与系统 | 量化 | [ScaleBITS: Scalable Bitwidth Search for Hardware-Aligned Mixed-Precision LLMs](cards-0010.md#paper-152337) | 混合位宽迭代更新权重敏感性。 |
+| 智能体与工具使用 | 训练策略 | [SCALECUA : Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL](cards-0010.md#paper-150846) | GUI 在线 RL 将 rollout 给当前能力前沿。 |
+| 深度学习 | 不确定性估计 | [Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks](cards-0010.md#paper-149755) | ReLU 后验近似前规范缩放等价类。 |
+| 生成模型 | 采样与推理 | [Scale Where It Matters: Training-Free Localized Scaling for Diffusion Models](cards-0010.md#paper-154359) | 图像推理扩展只重采待改善局部。 |
+| 深度学习 | 训练策略 | [Scaling Arbitrary Architectures and Optimizers with Automatic Parameterization](cards-0010.md#paper-153199) | 改宽度或上下文时从训练程序自动解缩放律。 |
+| 大语言模型 | 因果推断 | [Scaling Causal Reasoning with Increasingly Complex Causal Simulators](cards-0010.md#paper-148175) | 因果推理训练系统增加模拟结构难度。 |
+| 计算机视觉 | 不确定性估计 | [Scaling Full Conformal Image Classifiers](cards-0010.md#paper-149457) | 全共形图像预测先筛候选再做重计算。 |
+| 深度学习 | 时序建模 | [Scaling Laws and Tradeoffs in Recurrent Networks of Expressive Neurons](cards-0010.md#paper-148161) | 循环模型在记忆尺度、结构整合、内部计算间配预算。 |
+| 多模态学习 | 数据选择 | [Scaling Laws for Multimodal Data Mixtures](cards-0010.md#paper-148475) | 多模态混合比通过任务分项的规模实验选。 |
+| 机器学习基础与统计 | 数据策略 | [Scaling Laws for SAE Training Data](cards-0010.md#paper-148634) | 稀疏自编码器先确定激活缓存多样性的饱和点，再用重放花剩余预算。 |
+| 机器学习基础与统计 | 理论与统计 | [Scaling Limits of Long-Context Transformers](cards-0010.md#paper-152309) | 按查询近邻的局部距离分布检查长上下文注意力尖锐度。 |
+| 机器学习基础与统计 | 优化 | [Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers](cards-0010.md#paper-154846) | 合并预训练模型前，让两个模型在保持功能的变换下共同降低插值损失。 |
+| 计算机视觉 | 训练策略 | [Scaling Multi-Teacher Distillation for Digital Pathology](cards-0010.md#paper-148948) | 多教师蒸馏可保持每位教师的专用表征并在下游聚合。 |
+| 科学机器学习 | 训练策略 | [Scaling Neural Motor Decoding via Decoupled Behavioral Pretraining](cards-0010.md#paper-153888) | 神经运动解码将动作轨迹预训练与配对神经数据对齐分开。 |
+| 机器学习基础与统计 | 模型架构 | [Scaling Optimization-Oriented Hypernetworks for Implicit Neural Representations](cards-0010.md#paper-151523) | 优化式超网用按输出神经元的 token 和注意力扩展目标网络宽度。 |
+| 大语言模型 | 训练策略 | [Scaling Reward Modeling without Human Supervision](cards-0010.md#paper-148389) | 先用无需人工标签的网络语料前后缀训练奖励模型，再做有监督对齐。 |
+| 机器人学 | 数据策略 | [Scaling Whole-Body Loco-Manipulation through Compositional Data Synthesis](cards-0010.md#paper-149896) | 用物体抓取锚点和接触转移组合全身操作的合成轨迹。 |
+| 机器学习基础与统计 | 评测与诊断 | [Scattered by Design: Why Per-Output Pruning Resists Structured Compression](cards-0010.md#paper-152970) | 硬件需要结构稀疏时在剪枝时加结构约束。 |
+| 大语言模型 | 评测与诊断 | [SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers](cards-0010.md#paper-139501) | 反编译验证应逐层检查语法、接口和行为一致性。 |
+| 图学习 | 模型架构 | [SCDM: Scalable Causal Discovery in Nonlinear Temporal Systems with Meta-Learning](cards-0010.md#paper-153991) | 大时序因果发现可随机处理部分目标变量并共享预测器和图强度。 |
+| 机器人学 | 推理策略 | [Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing](cards-0010.md#paper-152870) | VLA 计算预算可由场景触发的层路由调整。 |
+| 多模态学习 | 表征学习 | [SceneBind: Binding What and Where Across Vision, Audio, and Language](cards-0010.md#paper-153396) | 将全局场景嵌入与带空间和不确定性的对象槽同时用于跨模态检索。 |
+| 机器人学 | 评测与诊断 | [SceneFactory: GPU-Accelerated Multi-Agent Driving Simulation with Physics-Based Vehicle Dynamics](cards-0010.md#paper-139016) | 验证驾驶策略时用真实摩擦和接触动力学重测简化仿真训练结果。 |
+| 计算机视觉 | 表征学习 | [Scenes as Objects, Not Primitives : Instance-Structured 3D Tokenization from Unposed Views](cards-0010.md#paper-149694) | 无位姿多视图重建将实例身份和局部几何作为不同 token 层级。 |
+| 具身智能与机器人 | 模型与架构 | [SceneScaffold: Active Scene-State Construction for Unified 3D Scene Understanding](cards-0010.md#paper-154773) | 语言推理前构建按角色组织的三维场景状态 |
+| 视觉与多模态 | 模型与架构 | [SCION: Scene Composition via Instanced Neural Primitives](cards-0010.md#paper-155121) | 神经场景对重复元素共享可实例化基元 |
+| 大语言模型 | 评测与诊断 | [SciR: A Controllable Benchmark for Scientific Reasoning in LLMs](cards-0010.md#paper-139704) | 在有求解器的科学助手中拆测提取和推断 |
+| 大语言模型 | 强化学习与奖励 | [SCOPE-RL: Stable and Quantitative Control of Policy Entropy in RL Post-Training](cards-0010.md#paper-152049) | 推理 RL 为探索设目标区间而非尽可能增熵 |
+| 大语言模型 | 评测与诊断 | [ScopeSAE: Model-Scope Feature Discovery with Interpretable Layer Selection](cards-0010.md#paper-153114) | 选择 SAE 输入子空间时优先衡量预测相关性 |
+| 智能体 | 强化学习与奖励 | [SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks](cards-0010.md#paper-148234) | 开放任务自博弈让出题者随当前求解能力更新 |
+| 具身智能与机器人 | 推理与搜索 | [SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts](cards-0010.md#paper-154022) | 遮挡场景让物体视角的世界模型给候选动作打分 |
+| 智能体与工具使用 | 评测与诊断 | [ScrapeBench: Evaluating Legal Compliance of AI Agents in Website Scraping](cards-0010.md#paper-139442) | 网页代理在行动入口判定站点许可，并分别测合规和过度拒绝。 |
+| 大语言模型 | 架构设计 | [Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models](cards-0010.md#paper-153485) | 字节分块可在块内暂存并刷新粗粒度上下文。 |
+| 智能体与工具使用 | 搜索与规划 | [ScreenSearch: Uncertainty-Aware OS Exploration](cards-0010.md#paper-152925) | 桌面状态相似时用操作结果分散度判断是否再观察。 |
+| 大语言模型 | 水印与溯源 | [SCTI: Self-Calibrated Trident Identification of Black-Box LLM Watermarks](cards-0010.md#paper-149151) | 黑盒水印审计从实际查询响应校准零分布。 |
+| 深度学习 | 表征学习 | [scTrilemma: Balancing Identity, Invariance, and Reconstruction in Single-Cell Representation Learning](cards-0010.md#paper-152153) | 生成表示用轻量瓶颈路由权衡身份、批次和重构。 |
+| 生成模型 | 扩散模型 | [SCULPT: Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis.](cards-0010.md#paper-154985) | 大离散码表用嵌入近邻共享学习信号。 |
+| 大语言模型 | 强化学习 | [SDAE: Semantic-Diversity-Aware Exploration for Efficient Reinforcement Learning in Large Language Models](cards-0010.md#paper-148235) | 区分新颖正确、远离正确簇的错误与局部错误。 |
+| 生成模型 | 流匹配 | [SDFlow: Similarity-Driven Flow Matching for Time Series Generation](cards-0010.md#paper-150124) | 离散时序码可用全局流并行生成。 |
+| 深度学习 | 时序建模 | [SDHilb: Schrödinger Dynamics-Guided Neural Network with Adaptive Multi-Scale Hilbert Transform for Time Series Forecasting](cards-0010.md#paper-152741) | 周期预测显式建幅相演化。 |
+| 多模态学习 | 知识蒸馏 | [SD-LoRA: Training-Time Structural Distillation into LoRA for Few-Shot Vision-Language Adaptation](cards-0010.md#paper-153156) | 少样本视觉适配把昂贵图推理仅放训练。 |
+| 智能体与工具使用 | 知识蒸馏 | [SD-Search: Hindsight Self-Distillation for Search-Augmented Reasoning](cards-0010.md#paper-155518) | 给搜索教师事后聚合摘要，学生仅看在线信息。 |
+| 模型效率与系统 | 参数高效微调 | [SDS-LoRA: Overcoming Anisotropic Gradient Scaling in Low-Rank Adaptation](cards-0010.md#paper-150783) | LoRA 收敛慢时诊断奇异值是否压缩梯度秩。 |
+| 大语言模型 | 知识蒸馏 | [SEAD: Competence-Aware On-Policy Distillation via Entropy-Guided Supervision](cards-0010.md#paper-155569) | 按师生共同熵和学生阶段选择蒸馏动作。 |
+| 智能体与工具使用 | 模型路由 | [SeaPilot: Mobile Agent with Self-refining Environment Alignment](cards-0010.md#paper-151731) | 移动代理提交前先补齐端上环境信息。 |
+| 生成模型 | 优化算法 | [Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization](cards-0010.md#paper-150226) | 图像潜变量快筛以球面线性 BO 减少开销。 |
+| 多模态学习 | 推理策略 | [Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA](cards-0010.md#paper-149784) | 视频代理应沿自适应时间树下钻并允许显式回溯。 |
+| 大语言模型 | 推理策略 | [Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization](cards-0010.md#paper-153611) | 长程研究代理优先并行取证，再合并必要的推理。 |
+| 强化学习 | 理论与统计 | [Search-Tree Scaling in Parallel Monte Carlo Tree Search](cards-0010.md#paper-150219) | 并行 MCTS 增加线程后重新标定探索系数。 |
+| 多模态学习 | 推理策略 | [SearchV: Evolutionary Fine-Grained Visual-Token Skipping for Efficient Vision-Language Models](cards-0010.md#paper-150488) | 视觉 token 的跳过策略以整个配置的端到端保真为目标。 |
+| 强化学习 | 强化学习方法 | [SEAR: Sample Efficient Action Chunking Reinforcement Learning](cards-0010.md#paper-151301) | 训练动作块 critic 时给所有前缀价值监督，部署也可使用较短动作块。 |
+| 大语言模型 | 模块 | [SecureClaw: Clawing Back Control of LLM Agents](cards-0010.md#paper-156048) | 代理的敏感读取和有外部后果的写入由可信执行边界控制。 |
+| 大语言模型 | 模块 | [Securing AI Agents with Information-Flow Control](cards-0010.md#paper-152696) | 代理规划时跟踪数据机密性与完整性，并以确定规则执行访问和披露。 |
+| 大语言模型 | 损失函数 | [S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs](cards-0010.md#paper-148866) | 开放式语言模型校准将等义回答聚为随问题变化的类别。 |
+| 大语言模型 | 推理策略 | [SEED: Self-Speculative Decoding via Implicit Encoder–Decoder](cards-0010.md#paper-153117) | 自推测解码复用上一次验证算出的上下文表示以降低草稿成本。 |
+| 计算机视觉 | 推理策略 | [Seed-Your-Motion: Householder Orthogonal Noise for Motion-Controllable Video Diffusion Models](cards-0010.md#paper-150697) | 使用保持高斯分布的正交变换注入扩散运动条件。 |
+| 计算机视觉 | 表征学习 | [Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images](cards-0010.md#paper-153642) | 极端视角差距可加入一张中间角度观测来消解姿态歧义。 |
+| 机器人学 | 训练策略 | [Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes](cards-0010.md#paper-149456) | 把预测未来的世界模型留在训练阶段，用它给低延迟策略提供偏好监督。 |
+| 计算机视觉 | 模型架构 | [Seeing Both the Forest and the Trees: Reusing Holistic 3D Priors for Part-Decomposed Generation](cards-0010.md#paper-153133) | 将同一部件形状潜变量交替放在局部和整体坐标下处理。 |
+| 智能体 | 评测与诊断 | [Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners](cards-0010.md#paper-152386) | 技能发布审核纳入多模态内容及行为一致性 |
+| 视觉与多模态 | 评测与诊断 | [Seeing or Rationalizing? Scene-Evidence-Guided  Chain-of-Thought for Faithful 3D Multimodal  Reasoning](cards-0010.md#paper-150559) | 三维问答解释要能被场景改动牵动 |
+| 具身智能与机器人 | 模型与架构 | [Seeing Together, Acting Apart: Shared Environmental Understanding for Multi-Robot Navigation](cards-0010.md#paper-148448) | 多机器人先共享认知地图，再考虑共享策略 |
+| 具身智能与机器人 | 训练与优化 | [Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](cards-0010.md#paper-154994) | 多机器人视觉推理可把位姿只作训练特权信息 |
+| 智能体 | 推理与搜索 | [See, Read, Compare: Candidate-Aware Verification for Agent Test-Time Scaling](cards-0010.md#paper-152566) | 多 rollout 验证用候选感知的相对比较 |
+| 视觉与多模态 | 评测与诊断 | [SeeSE3: The Emergence of 3D Space in Vision Features](cards-0010.md#paper-150379) | 检验视觉骨干可否支持位姿推断时直接测 SE(3) 结构 |
+| 视觉与多模态 | 训练与优化 | [See to Believe: Segmentation by Reasoning with Visual Evidence](cards-0010.md#paper-155884) | 推理分割的中间定位显式锚到图像区域 |
+| 视觉与多模态 | 生成与扩散 | [SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers](cards-0010.md#paper-153817) | 生成超训练分辨率时按瞬时频谱调位置注意 |
+| 智能体 | 记忆与检索 | [SEISMOS: A Statistical Signal Detection Framework for Semantic Chunking](cards-0010.md#paper-153238) | RAG 分块用文档内的转折检验 |

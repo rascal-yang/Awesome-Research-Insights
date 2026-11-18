@@ -880,5 +880,17 @@
 - [SAVE: Sparsity-Aware Influence Estimation for Vocabulary-Expanded LLMs](../conferences/neurips-2026/cards-0010.md#paper-152408)
 - [Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video](../conferences/neurips-2026/cards-0010.md#paper-149509)
 - [Scalable Fair Learning via Cramér-von Mises Regularization](../conferences/neurips-2026/cards-0010.md#paper-155653)
+- [SCALECUA : Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL](../conferences/neurips-2026/cards-0010.md#paper-150846)
+- [Scaling Arbitrary Architectures and Optimizers with Automatic Parameterization](../conferences/neurips-2026/cards-0010.md#paper-153199)
+- [Scaling Multi-Teacher Distillation for Digital Pathology](../conferences/neurips-2026/cards-0010.md#paper-148948)
+- [Scaling Neural Motor Decoding via Decoupled Behavioral Pretraining](../conferences/neurips-2026/cards-0010.md#paper-153888)
+- [Scaling Reward Modeling without Human Supervision](../conferences/neurips-2026/cards-0010.md#paper-148389)
+- [SD-LoRA: Training-Time Structural Distillation into LoRA for Few-Shot Vision-Language Adaptation](../conferences/neurips-2026/cards-0010.md#paper-153156)
+- [SD-Search: Hindsight Self-Distillation for Search-Augmented Reasoning](../conferences/neurips-2026/cards-0010.md#paper-155518)
+- [SDS-LoRA: Overcoming Anisotropic Gradient Scaling in Low-Rank Adaptation](../conferences/neurips-2026/cards-0010.md#paper-150783)
+- [SEAD: Competence-Aware On-Policy Distillation via Entropy-Guided Supervision](../conferences/neurips-2026/cards-0010.md#paper-155569)
+- [Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes](../conferences/neurips-2026/cards-0010.md#paper-149456)
+- [Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](../conferences/neurips-2026/cards-0010.md#paper-154994)
+- [See to Believe: Segmentation by Reasoning with Visual Evidence](../conferences/neurips-2026/cards-0010.md#paper-155884)
 
 <!-- conference-classification:end -->

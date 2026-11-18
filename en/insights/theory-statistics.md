@@ -1121,5 +1121,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation](../../conferences/neurips-2026/cards-0010.md#paper-153543)
 - [RoPE Is Not a Proper Relative Position Embedding](../../conferences/neurips-2026/cards-0010.md#paper-140089)
 - [Saddle-to-Saddle Dynamics in Self-Supervised Shortcut Learning](../../conferences/neurips-2026/cards-0010.md#paper-150687)
+- [Scalable Variational Bayesian Fine-Tuning of LLMs via Orthogonalized Low-Rank Adapters](../../conferences/neurips-2026/cards-0010.md#paper-149427)
+- [Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks](../../conferences/neurips-2026/cards-0010.md#paper-149755)
+- [Scaling Causal Reasoning with Increasingly Complex Causal Simulators](../../conferences/neurips-2026/cards-0010.md#paper-148175)
+- [Scaling Full Conformal Image Classifiers](../../conferences/neurips-2026/cards-0010.md#paper-149457)
+- [Scaling Limits of Long-Context Transformers](../../conferences/neurips-2026/cards-0010.md#paper-152309)
+- [Search-Tree Scaling in Parallel Monte Carlo Tree Search](../../conferences/neurips-2026/cards-0010.md#paper-150219)
 
 <!-- conference-classification:end -->

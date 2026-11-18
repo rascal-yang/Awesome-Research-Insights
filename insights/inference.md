@@ -1356,5 +1356,17 @@
 - [Salvation Lies Within: Proactive Prefix Re-forming for LLM-based Tagging](../conferences/neurips-2026/cards-0010.md#paper-152865)
 - [Same Signal, Opposite Meaning: Direction-Informed Adaptive Learning for LLM Agents](../conferences/neurips-2026/cards-0010.md#paper-152744)
 - [Sandboxed Coding Agents are Competitive Omni-modal Task Solvers](../conferences/neurips-2026/cards-0010.md#paper-148209)
+- [ScaleBITS: Scalable Bitwidth Search for Hardware-Aligned Mixed-Precision LLMs](../conferences/neurips-2026/cards-0010.md#paper-152337)
+- [Scale Where It Matters: Training-Free Localized Scaling for Diffusion Models](../conferences/neurips-2026/cards-0010.md#paper-154359)
+- [Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing](../conferences/neurips-2026/cards-0010.md#paper-152870)
+- [SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts](../conferences/neurips-2026/cards-0010.md#paper-154022)
+- [ScreenSearch: Uncertainty-Aware OS Exploration](../conferences/neurips-2026/cards-0010.md#paper-152925)
+- [Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA](../conferences/neurips-2026/cards-0010.md#paper-149784)
+- [Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization](../conferences/neurips-2026/cards-0010.md#paper-153611)
+- [SearchV: Evolutionary Fine-Grained Visual-Token Skipping for Efficient Vision-Language Models](../conferences/neurips-2026/cards-0010.md#paper-150488)
+- [SEED: Self-Speculative Decoding via Implicit Encoder–Decoder](../conferences/neurips-2026/cards-0010.md#paper-153117)
+- [Seed-Your-Motion: Householder Orthogonal Noise for Motion-Controllable Video Diffusion Models](../conferences/neurips-2026/cards-0010.md#paper-150697)
+- [See, Read, Compare: Candidate-Aware Verification for Agent Test-Time Scaling](../conferences/neurips-2026/cards-0010.md#paper-152566)
+- [SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers](../conferences/neurips-2026/cards-0010.md#paper-153817)
 
 <!-- conference-classification:end -->

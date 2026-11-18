@@ -677,5 +677,6 @@
 - [PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation](../conferences/neurips-2026/cards-0010.md#paper-148567)
 - [Reversing the Roles of Signal and Noise: Modeling Noise in Astronomical Images without Paired Data](../conferences/neurips-2026/cards-0010.md#paper-150362)
 - [RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](../conferences/neurips-2026/cards-0010.md#paper-149820)
+- [Scaling Neural Motor Decoding via Decoupled Behavioral Pretraining](../conferences/neurips-2026/cards-0010.md#paper-153888)
 
 <!-- conference-classification:end -->

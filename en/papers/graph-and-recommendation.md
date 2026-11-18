@@ -339,5 +339,6 @@ Graph models, knowledge graphs, and recommender systems.
 - [Reusable Conditional Resampling via Flow Matching for Constraint-Based Causal Discovery](../../conferences/neurips-2026/cards-0010.md#paper-153712)
 - [Robust Surrogate Modeling for Explainable Graph Neural Networks](../../conferences/neurips-2026/cards-0010.md#paper-155571)
 - [S3Former: Sequential, Structural, and Statistical Fusion for Continuous-Time Dynamic Graphs](../../conferences/neurips-2026/cards-0010.md#paper-155501)
+- [SCDM: Scalable Causal Discovery in Nonlinear Temporal Systems with Meta-Learning](../../conferences/neurips-2026/cards-0010.md#paper-153991)
 
 <!-- conference-classification:end -->

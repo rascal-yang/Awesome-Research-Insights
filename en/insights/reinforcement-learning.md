@@ -696,5 +696,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Sampling-Based Safe Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149799)
 - [SAMPPO: Structure-Aware Mirror Proximal Policy Optimization](../../conferences/neurips-2026/cards-0010.md#paper-151806)
 - [SAPO: Step-Level Skill-Augmented Policy Optimization for Multi-Turn LLM Agents](../../conferences/neurips-2026/cards-0010.md#paper-149959)
+- [Scalable Minimal-Change Learning for Controllable Image Editing](../../conferences/neurips-2026/cards-0010.md#paper-153198)
+- [SCOPE-RL: Stable and Quantitative Control of Policy Entropy in RL Post-Training](../../conferences/neurips-2026/cards-0010.md#paper-152049)
+- [SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks](../../conferences/neurips-2026/cards-0010.md#paper-148234)
+- [SDAE: Semantic-Diversity-Aware Exploration for Efficient Reinforcement Learning in Large Language Models](../../conferences/neurips-2026/cards-0010.md#paper-148235)
+- [SEAR: Sample Efficient Action Chunking Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-151301)
 
 <!-- conference-classification:end -->

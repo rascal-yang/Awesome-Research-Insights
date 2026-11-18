@@ -844,5 +844,14 @@
 - [SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning](../conferences/neurips-2026/cards-0010.md#paper-152343)
 - [SAMoR: Motion Modelling for Articulated Objects of Any Skeleton and Topology](../conferences/neurips-2026/cards-0010.md#paper-149576)
 - [Say the Same, Act Differently: Text-Orthogonal Action Subspaces in Reasoning Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-154708)
+- [Scalable Neural Safety Certification via Monotonicity](../conferences/neurips-2026/cards-0010.md#paper-156059)
+- [Scaling Whole-Body Loco-Manipulation through Compositional Data Synthesis](../conferences/neurips-2026/cards-0010.md#paper-149896)
+- [Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing](../conferences/neurips-2026/cards-0010.md#paper-152870)
+- [SceneFactory: GPU-Accelerated Multi-Agent Driving Simulation with Physics-Based Vehicle Dynamics](../conferences/neurips-2026/cards-0010.md#paper-139016)
+- [SceneScaffold: Active Scene-State Construction for Unified 3D Scene Understanding](../conferences/neurips-2026/cards-0010.md#paper-154773)
+- [SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts](../conferences/neurips-2026/cards-0010.md#paper-154022)
+- [Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes](../conferences/neurips-2026/cards-0010.md#paper-149456)
+- [Seeing Together, Acting Apart: Shared Environmental Understanding for Multi-Robot Navigation](../conferences/neurips-2026/cards-0010.md#paper-148448)
+- [Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](../conferences/neurips-2026/cards-0010.md#paper-154994)
 
 <!-- conference-classification:end -->

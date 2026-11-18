@@ -380,5 +380,8 @@
 - [Ripple in Still Water: Zero-Shot Clustering in Heterogeneous Federated Learning with Wavelet Scattering Transform](../conferences/neurips-2026/cards-0010.md#paper-150906)
 - [Robust Approximate Nearest Neighbor Search for Any Dataset](../conferences/neurips-2026/cards-0010.md#paper-150072)
 - [SAGE: Semantic Ambiguity Guided Capacity Expansion for Retrieval-Augmented Generation](../conferences/neurips-2026/cards-0010.md#paper-150303)
+- [Scaling Laws for Multimodal Data Mixtures](../conferences/neurips-2026/cards-0010.md#paper-148475)
+- [Scaling Laws for SAE Training Data](../conferences/neurips-2026/cards-0010.md#paper-148634)
+- [Scaling Whole-Body Loco-Manipulation through Compositional Data Synthesis](../conferences/neurips-2026/cards-0010.md#paper-149896)
 
 <!-- conference-classification:end -->

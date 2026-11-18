@@ -555,5 +555,12 @@ Model-wide design and information flow.
 - [S3Former: Sequential, Structural, and Statistical Fusion for Continuous-Time Dynamic Graphs](../../conferences/neurips-2026/cards-0010.md#paper-155501)
 - [SASA: Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](../../conferences/neurips-2026/cards-0010.md#paper-151251)
 - [Scaffold3D: SfM-Conditioned Pointmap Prediction for Multi-View 3D Reconstruction](../../conferences/neurips-2026/cards-0010.md#paper-148928)
+- [Scaling Optimization-Oriented Hypernetworks for Implicit Neural Representations](../../conferences/neurips-2026/cards-0010.md#paper-151523)
+- [SCDM: Scalable Causal Discovery in Nonlinear Temporal Systems with Meta-Learning](../../conferences/neurips-2026/cards-0010.md#paper-153991)
+- [SceneScaffold: Active Scene-State Construction for Unified 3D Scene Understanding](../../conferences/neurips-2026/cards-0010.md#paper-154773)
+- [SCION: Scene Composition via Instanced Neural Primitives](../../conferences/neurips-2026/cards-0010.md#paper-155121)
+- [Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models](../../conferences/neurips-2026/cards-0010.md#paper-153485)
+- [Seeing Both the Forest and the Trees: Reusing Holistic 3D Priors for Part-Decomposed Generation](../../conferences/neurips-2026/cards-0010.md#paper-153133)
+- [Seeing Together, Acting Apart: Shared Environmental Understanding for Multi-Robot Navigation](../../conferences/neurips-2026/cards-0010.md#paper-148448)
 
 <!-- conference-classification:end -->

@@ -438,5 +438,9 @@ Reusable components and local changes to model inputs or connections.
 - [Robust Hopfield Decision Transformer](../../conferences/neurips-2026/cards-0010.md#paper-155374)
 - [RSSA: Robust Semantic and Spatial Aligner for Collaborative Perception](../../conferences/neurips-2026/cards-0010.md#paper-149417)
 - [S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields](../../conferences/neurips-2026/cards-0010.md#paper-148986)
+- [SeaPilot: Mobile Agent with Self-refining Environment Alignment](../../conferences/neurips-2026/cards-0010.md#paper-151731)
+- [SecureClaw: Clawing Back Control of LLM Agents](../../conferences/neurips-2026/cards-0010.md#paper-156048)
+- [Securing AI Agents with Information-Flow Control](../../conferences/neurips-2026/cards-0010.md#paper-152696)
+- [SEISMOS: A Statistical Signal Detection Framework for Semantic Chunking](../../conferences/neurips-2026/cards-0010.md#paper-153238)
 
 <!-- conference-classification:end -->

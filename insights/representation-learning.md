@@ -596,5 +596,9 @@
 - [Same Concept, Different Directions: Cross-Modal Feature Heterogeneity in Sparse Autoencoders](../conferences/neurips-2026/cards-0010.md#paper-153223)
 - [SAME: Stability-Aware Embedding Extraction in Mixture-of-Experts Language Models](../conferences/neurips-2026/cards-0010.md#paper-152895)
 - [SAMoR: Motion Modelling for Articulated Objects of Any Skeleton and Topology](../conferences/neurips-2026/cards-0010.md#paper-149576)
+- [SceneBind: Binding What and Where Across Vision, Audio, and Language](../conferences/neurips-2026/cards-0010.md#paper-153396)
+- [Scenes as Objects, Not Primitives : Instance-Structured 3D Tokenization from Unposed Views](../conferences/neurips-2026/cards-0010.md#paper-149694)
+- [scTrilemma: Balancing Identity, Invariance, and Reconstruction in Single-Cell Representation Learning](../conferences/neurips-2026/cards-0010.md#paper-152153)
+- [Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images](../conferences/neurips-2026/cards-0010.md#paper-153642)
 
 <!-- conference-classification:end -->
