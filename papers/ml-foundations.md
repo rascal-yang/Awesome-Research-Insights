@@ -201,6 +201,7 @@
 - <a id="xu26by-loss-functions"></a>[Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition](../conferences/icml-2026/cards/5201-5300.md#paper-xu26by)
 - <a id="yan26l-loss-functions"></a>[Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](../conferences/icml-2026/cards/5301-5400.md#paper-yan26l)
 - <a id="yang26ad-loss-functions"></a>[Multi-Distribution Robust Conformal Prediction](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ad)
+- <a id="yang26dd-loss-functions"></a>[Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization](../conferences/icml-2026/cards/5401-5500.md#paper-yang26dd)
 
 <a id="by-optimization"></a>
 
@@ -464,6 +465,7 @@
 - <a id="yang26br-optimization"></a>[DecFus: Decentralized Layer-wise Fusion with Dynamic Exploration and Exploitation](../conferences/icml-2026/cards/5401-5500.md#paper-yang26br)
 - <a id="yang26ca-optimization"></a>[PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ca)
 - <a id="yang26cu-optimization"></a>[Decentralized Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower Bounds](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cu)
+- <a id="yang26de-optimization"></a>[Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates](../conferences/icml-2026/cards/5401-5500.md#paper-yang26de)
 
 <a id="by-reinforcement-learning"></a>
 

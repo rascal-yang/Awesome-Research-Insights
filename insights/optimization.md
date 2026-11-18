@@ -456,6 +456,7 @@
 - [邻域稳定度驱动的层交换到平均](../conferences/icml-2026/cards/5401-5500.md#yang26br-optimization) · DecFus: Decentralized Layer-wise Fusion with Dynamic Exploration and Exploitation
 - [sketch残差拟合的自适应矩阵迭代](../conferences/icml-2026/cards/5401-5500.md#yang26ca-optimization) · PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training
 - [压缩通信在线学习的双块gossip](../conferences/icml-2026/cards/5401-5500.md#yang26cu-optimization) · Decentralized Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower Bounds
+- [把本地多步视为不精确对偶梯度](../conferences/icml-2026/cards/5401-5500.md#yang26de-optimization) · Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates
 
 <a id="by-graph-and-recommendation"></a>
 

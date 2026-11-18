@@ -61,6 +61,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="xu26ct-loss-functions"></a>[Path-Coupled Bellman Flows for Distributional Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-xu26ct)
 - <a id="yan26k-loss-functions"></a>[GLARE: Scalable Neuro-Symbolic Reward Shaping for LLM Agents via Group-Level Automata](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26k)
 - <a id="yang26x-loss-functions"></a>[From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26x)
+- <a id="yang26dn-loss-functions"></a>[Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dn)
 
 <a id="by-optimization"></a>
 
@@ -212,6 +213,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="wang26ek-reinforcement-learning"></a>[Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ek)
 - <a id="wang26gv-reinforcement-learning"></a>[Learning Reward–Cost Balance in Safe RL via Score-Based World Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gv)
 - <a id="wang26jm-reinforcement-learning"></a>[Milestone-Guided Policy Learning for Long-Horizon Language Agents](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jm)
+- <a id="yang26cz-reinforcement-learning"></a>[Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cz)
 
 <a id="by-training-strategies"></a>
 

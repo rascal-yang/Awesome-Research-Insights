@@ -188,6 +188,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yang26as-loss-functions"></a>[Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26as)
 - <a id="yang26bc-loss-functions"></a>[Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bc)
 - <a id="yang26cd-loss-functions"></a>[DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cd)
+- <a id="yang26dq-loss-functions"></a>[Stable Velocity: A Variance Perspective on Flow Matching](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dq)
 
 <a id="by-optimization"></a>
 
@@ -329,6 +330,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xu26bm-training-strategies"></a>[PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bm)
 - <a id="yang26bk-training-strategies"></a>[Diffusion Controller: Framework, Algorithms and Parameterization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bk)
 - <a id="yang26bn-training-strategies"></a>[Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bn)
+- <a id="yang26dm-training-strategies"></a>[RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dm)
 
 <a id="by-data-strategies"></a>
 
@@ -487,6 +489,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xu26an-inference"></a>[Motion-Aware Caching for Efficient Autoregressive Video Generation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26an)
 - <a id="xu26be-inference"></a>[EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26be)
 - <a id="yang26aa-inference"></a>[Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26aa)
+- <a id="yang26cy-inference"></a>[DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cy)
 
 <a id="by-representation-learning"></a>
 

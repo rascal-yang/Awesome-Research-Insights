@@ -456,6 +456,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [DecFus: Decentralized Layer-wise Fusion with Dynamic Exploration and Exploitation](../../conferences/icml-2026/cards/5401-5500.md#yang26br-optimization) · 中文
 - [PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training](../../conferences/icml-2026/cards/5401-5500.md#yang26ca-optimization) · 中文
 - [Decentralized Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower Bounds](../../conferences/icml-2026/cards/5401-5500.md#yang26cu-optimization) · 中文
+- [Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates](../../conferences/icml-2026/cards/5401-5500.md#yang26de-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

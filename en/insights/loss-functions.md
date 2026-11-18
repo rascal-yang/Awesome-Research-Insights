@@ -62,6 +62,8 @@ Objectives, auxiliary supervision, and regularization.
 - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26cl-loss-functions) · 中文
 - [When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models](../../conferences/icml-2026/cards/5101-5200.md#xie26a-loss-functions) · 中文
 - [Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models](../../conferences/icml-2026/cards/5301-5400.md#yang26t-loss-functions) · 中文
+- [Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning](../../conferences/icml-2026/cards/5401-5500.md#yang26dc-loss-functions) · 中文
+- [Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](../../conferences/icml-2026/cards/5401-5500.md#yang26dp-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -117,6 +119,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation](../../conferences/icml-2026/cards/5301-5400.md#yang26as-loss-functions) · 中文
 - [Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization](../../conferences/icml-2026/cards/5401-5500.md#yang26bc-loss-functions) · 中文
 - [DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26cd-loss-functions) · 中文
+- [Stable Velocity: A Variance Perspective on Flow Matching](../../conferences/icml-2026/cards/5401-5500.md#yang26dq-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -152,6 +155,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Path-Coupled Bellman Flows for Distributional Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#xu26ct-loss-functions) · 中文
 - [GLARE: Scalable Neuro-Symbolic Reward Shaping for LLM Agents via Group-Level Automata](../../conferences/icml-2026/cards/5301-5400.md#yan26k-loss-functions) · 中文
 - [From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#yang26x-loss-functions) · 中文
+- [Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](../../conferences/icml-2026/cards/5401-5500.md#yang26dn-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -276,6 +280,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition](../../conferences/icml-2026/cards/5201-5300.md#xu26by-loss-functions) · 中文
 - [Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](../../conferences/icml-2026/cards/5301-5400.md#yan26l-loss-functions) · 中文
 - [Multi-Distribution Robust Conformal Prediction](../../conferences/icml-2026/cards/5301-5400.md#yang26ad-loss-functions) · 中文
+- [Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26dd-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

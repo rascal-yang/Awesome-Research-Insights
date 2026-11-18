@@ -588,6 +588,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#xing26f-evaluation) · 中文
 - [Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks](../../conferences/icml-2026/cards/5201-5300.md#xu26bl-evaluation) · 中文
 - [Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models](../../conferences/icml-2026/cards/5401-5500.md#yang26cq-evaluation) · 中文
+- [Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models](../../conferences/icml-2026/cards/5401-5500.md#yang26cx-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

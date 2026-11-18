@@ -365,6 +365,7 @@
 - [步熵重加权与未来清晰度](../conferences/icml-2026/cards/4701-4800.md#wang26ek-reinforcement-learning) · Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents
 - [同根想象轨迹的偏序评分](../conferences/icml-2026/cards/4701-4800.md#wang26gv-reinforcement-learning) · Learning Reward–Cost Balance in Safe RL via Score-Based World Models
 - [里程碑分段优势](../conferences/icml-2026/cards/4801-4900.md#wang26jm-reinforcement-learning) · Milestone-Guided Policy Learning for Long-Horizon Language Agents
+- [以固定动作的条件置信度分配思考层级优势](../conferences/icml-2026/cards/5401-5500.md#yang26cz-reinforcement-learning) · Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents
 
 <a id="by-robotics"></a>
 

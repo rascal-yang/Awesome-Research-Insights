@@ -240,6 +240,7 @@ Training schedules, curricula, and task or stage composition.
 - [PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation](../../conferences/icml-2026/cards/5201-5300.md#xu26bm-training-strategies) · 中文
 - [Diffusion Controller: Framework, Algorithms and Parameterization](../../conferences/icml-2026/cards/5401-5500.md#yang26bk-training-strategies) · 中文
 - [Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](../../conferences/icml-2026/cards/5401-5500.md#yang26bn-training-strategies) · 中文
+- [RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](../../conferences/icml-2026/cards/5401-5500.md#yang26dm-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

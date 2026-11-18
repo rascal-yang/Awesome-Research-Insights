@@ -240,6 +240,7 @@
 - [点图x预测与纯噪声端点训练](../conferences/icml-2026/cards/5201-5300.md#xu26bm-training-strategies) · PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
 - [冻结扩散骨干的控制侧网络](../conferences/icml-2026/cards/5401-5500.md#yang26bk-training-strategies) · Diffusion Controller: Framework, Algorithms and Parameterization
 - [干净扰动配对的路径选择与权重变换](../conferences/icml-2026/cards/5401-5500.md#yang26bn-training-strategies) · Suppress and Diversify: Refining Robust Pathways for Corruption Robustness
+- [按QAT后敏感度分配激活位宽](../conferences/icml-2026/cards/5401-5500.md#yang26dm-training-strategies) · RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization
 
 <a id="by-nlp"></a>
 

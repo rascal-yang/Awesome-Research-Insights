@@ -172,6 +172,8 @@
 - <a id="wu26cl-loss-functions"></a>[rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cl)
 - <a id="xie26a-loss-functions"></a>[When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models](../conferences/icml-2026/cards/5101-5200.md#paper-xie26a)
 - <a id="yang26t-loss-functions"></a>[Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models](../conferences/icml-2026/cards/5301-5400.md#paper-yang26t)
+- <a id="yang26dc-loss-functions"></a>[Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning](../conferences/icml-2026/cards/5401-5500.md#paper-yang26dc)
+- <a id="yang26dp-loss-functions"></a>[Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](../conferences/icml-2026/cards/5401-5500.md#paper-yang26dp)
 
 <a id="by-optimization"></a>
 
@@ -1052,6 +1054,7 @@
 - <a id="yang26bv-inference"></a>[Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bv)
 - <a id="yang26bx-inference"></a>[Improving Sampling for Masked Diffusion Models via Information Gain](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bx)
 - <a id="yang26ch-inference"></a>[Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ch)
+- <a id="yang26dj-inference"></a>[Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](../conferences/icml-2026/cards/5401-5500.md#paper-yang26dj)
 
 <a id="by-representation-learning"></a>
 

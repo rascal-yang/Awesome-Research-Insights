@@ -299,6 +299,7 @@
 - <a id="wei26j-data-strategies"></a>[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](../conferences/icml-2026/cards/4901-5000.md#paper-wei26j)
 - <a id="xu26x-data-strategies"></a>[DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26x)
 - <a id="yamamoto26a-data-strategies"></a>[Left–Right Symmetry Breaking in CLIP-Style Vision-Language Models Trained on Synthetic Spatial-Relation Data](../conferences/icml-2026/cards/5301-5400.md#paper-yamamoto26a)
+- <a id="yang26db-data-strategies"></a>[SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](../conferences/icml-2026/cards/5401-5500.md#paper-yang26db)
 
 <a id="by-inference"></a>
 
@@ -553,6 +554,7 @@
 - <a id="xing26f-evaluation"></a>[GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models](../conferences/icml-2026/cards/5101-5200.md#paper-xing26f)
 - <a id="xu26bl-evaluation"></a>[Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bl)
 - <a id="yang26cq-evaluation"></a>[Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cq)
+- <a id="yang26cx-evaluation"></a>[Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cx)
 
 <a id="by-theory-statistics"></a>
 

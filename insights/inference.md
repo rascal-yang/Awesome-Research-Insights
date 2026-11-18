@@ -359,6 +359,7 @@
 - [历史query重权的value leverage淘汰](../conferences/icml-2026/cards/5401-5500.md#yang26bv-inference) · Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective
 - [候选后继entropy驱动的mask解码](../conferences/icml-2026/cards/5401-5500.md#yang26bx-inference) · Improving Sampling for Masked Diffusion Models via Information Gain
 - [自回归过程内的局部修订动作](../conferences/icml-2026/cards/5401-5500.md#yang26ch-inference) · Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation
+- [跨头统一选token并跨层复用](../conferences/icml-2026/cards/5401-5500.md#yang26dj-inference) · Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention
 
 <a id="by-computer-vision"></a>
 
@@ -485,6 +486,7 @@
 - [以帧差分配token缓存更新](../conferences/icml-2026/cards/5201-5300.md#xu26an-inference) · Motion-Aware Caching for Efficient Autoregressive Video Generation
 - [协方差缓存外推与信息锚点](../conferences/icml-2026/cards/5201-5300.md#xu26be-inference) · EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation
 - [量化误差校准的噪声时刻变形](../conferences/icml-2026/cards/5301-5400.md#yang26aa-inference) · Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models
+- [用反演残差平移重建支路的求值点](../conferences/icml-2026/cards/5401-5500.md#yang26cy-inference) · DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing
 
 <a id="by-nlp"></a>
 

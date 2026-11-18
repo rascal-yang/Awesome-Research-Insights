@@ -197,6 +197,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](../../conferences/icml-2026/cards/4901-5000.md#wei26j-data-strategies) · 中文
 - [DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26x-data-strategies) · 中文
 - [Left–Right Symmetry Breaking in CLIP-Style Vision-Language Models Trained on Synthetic Spatial-Relation Data](../../conferences/icml-2026/cards/5301-5400.md#yamamoto26a-data-strategies) · 中文
+- [SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](../../conferences/icml-2026/cards/5401-5500.md#yang26db-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

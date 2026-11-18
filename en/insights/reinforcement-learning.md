@@ -365,6 +365,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](../../conferences/icml-2026/cards/4701-4800.md#wang26ek-reinforcement-learning) · 中文
 - [Learning Reward–Cost Balance in Safe RL via Score-Based World Models](../../conferences/icml-2026/cards/4701-4800.md#wang26gv-reinforcement-learning) · 中文
 - [Milestone-Guided Policy Learning for Long-Horizon Language Agents](../../conferences/icml-2026/cards/4801-4900.md#wang26jm-reinforcement-learning) · 中文
+- [Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents](../../conferences/icml-2026/cards/5401-5500.md#yang26cz-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 
