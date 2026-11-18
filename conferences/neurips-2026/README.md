@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2429** 篇，暂收录 **2263** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2489** 篇，暂收录 **2320** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2271,3 +2271,60 @@
 | 大语言模型 | 潜变量路由 | [Dynamic Latent Routing](cards-0004.md#paper-153785) | 在后训练联合学习离散代码和路由 |
 | 模型融合 | 参数分配 | [Dynamic Model Merging Made Slim](cards-0004.md#paper-149280) | 联合分配共享分支与任务专家的秩 |
 | 在线优化 | 动态约束 | [Dynamic Optimistic Constrained OCO with Memory via Delay Equivalence](cards-0004.md#paper-154422) | 把状态历史影响转写成延迟反馈 |
+| 科学机器学习 | 自适应离散 | [Dynamic Quadtree Tokenization for Autoregressive PDE Forecasting](cards-0004.md#paper-152814) | 按局部结构变化调整标记密度 |
+| 计算机视觉 | 推理预算 | [Dynamic Query as Budgeting for Tiny Object Detection](cards-0004.md#paper-154187) | 按密度调整查询数并固定选择规则 |
+| 视频生成 | 稀疏注意力 | [DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion](cards-0004.md#paper-150232) | 用离线标定替代在线搜索稀疏模式 |
+| 优化 | 在线学习 | [Dynamic Regret in Online Convex Optimization with Indicator Switching Costs](cards-0004.md#paper-150727) | 有固定切换成本时联合设计决策与采样耦合 |
+| 科学机器学习 | 图表示 | [Dynamic Regulatory Graph Learning for Histology-to-Spatial Transcriptomics](cards-0004.md#paper-150677) | 用局部观测调节固定先验关系 |
+| 联邦学习 | 表征对齐 | [Dynamic Representation Modeling for Federated Medical Image Domain Generalization](cards-0004.md#paper-154596) | 聚合前对齐表征变化轨迹 |
+| 多模态学习 | 分辨率路由 | [Dynamic Resolution Routing for Efficient Egocentric Grounding](cards-0004.md#paper-150374) | 以低分辨率全局视图引导局部高分辨率处理 |
+| 视频生成 | 推理缓存 | [Dynamics-Aware Sparse Attention for Efficient Autoregressive Video Diffusion](cards-0004.md#paper-154629) | 按运动区域分配历史缓存和计算 |
+| 科学机器学习 | 离线控制 | [Dynamics-Informed Adaptive Offline RL for Real-Time Tokamak Plasma Control](cards-0004.md#paper-151856) | 用部署可用的观测训练离线控制策略 |
+| 人机交互 | 评测诊断 | [Dynamics of Collective Diversity in Human–AI Co-Creation for Creative Tasks](cards-0004.md#paper-154701) | 将群体多样性纳入创意助手评价 |
+| 大语言模型 | 可解释性 | [Dynamics of the Transformer Residual Stream: Coupling Spectral Geometry to Network Topology](cards-0004.md#paper-153532) | 用雅可比谱诊断深度方向的扰动传播 |
+| 图学习 | 联邦聚类 | [Dynamic Spectral Federated Graph-Level Clustering](cards-0004.md#paper-151860) | 按频带与本地差异更新全局谱共识 |
+| 时间序列 | 自适应分块 | [Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer](cards-0004.md#paper-148692) | 用离散动作直接优化边界并固定压缩率 |
+| 因果学习 | 离线决策 | [Dynamic Treatment on Networks](cards-0004.md#paper-151886) | 按网络潜在状态更新干预时机 |
+| 视频生成 | 渐进采样 | [Dynamic Video Generation: Shaping Video Generation Across Time and Space](cards-0004.md#paper-151874) | 联合调节时间和空间分辨率的计算预算 |
+| 具身智能 | 低延迟控制 | [DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](cards-0004.md#paper-156061) | 只执行预测动作块中仍然及时的后缀 |
+| 时间序列 | 零样本预测 | [DynaPFN: Zero-Shot Dynamical System Forecasting with Tabular Prior-Fitted Networks](cards-0004.md#paper-149937) | 把预测上下文转换成滞后输入和输出对 |
+| 计算机视觉 | 对象表征 | [DynaProto: Dynamic Prototypical Contrast for Temporally Consistent Object-Centric Learning](cards-0004.md#paper-148247) | 允许槽位随可见性变化并监督跨帧一致性 |
+| 强化学习 | 安全控制 | [Dyna-Style Safety Augmented Reinforcement Learning: Staying Safe in the Face of Uncertainty](cards-0004.md#paper-149611) | 让安全过滤器同时约束预测失败和模型不确定性 |
+| 表征学习 | 自适应聚类 | [DynaSub: Adaptive Subgrouping for Scalable Representation Learning](cards-0004.md#paper-149429) | 用随训练调整簇数的潜空间建模区分新子群与全局异常 |
+| 视频生成 | 测试时适配 | [DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time](cards-0004.md#paper-149930) | 局部运动适合由可定位的条件 token 建模 |
+| 大语言模型 | 知识编辑 | [DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models](cards-0004.md#paper-152189) | 将长文本编辑预算集中于高熵片段 |
+| 具身智能 | 掩码扩散 | [Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model](cards-0004.md#paper-148952) | 用共享掩码序列比较单独或联合解码动作与未来 |
+| 生成模型 | 动态评测 | [DynT2I-Eval: A Dynamic Evaluation Framework for Text-to-Image Models](cards-0004.md#paper-139288) | 动态基准同时控制难度和新旧模型的比较预算 |
+| 科学机器学习 | 传感布局 | [DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation](cards-0004.md#paper-156053) | 将待重建状态与观测位置共同建模，并以时间相关噪声约束轨迹 |
+| 机器学习系统 | 推理加速 | [DyRA: Dynamic Residual Approximation for Efficient Matrix Multiplication in DNNs](cards-0004.md#paper-156062) | 按激活空间误差而非权重误差分配近似预算 |
+| 计算机视觉 | 动态重建 | [DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions](cards-0004.md#paper-150572) | 以显式变形结果锚定隐式几何，避免正向与逆向变形失配 |
+| 具身智能 | 离散扩散 | [E0: Expressive Fine-Grained Discrete Action Prediction for Vision-Language-Action Models via Tweedie Discrete Diffusion](cards-0004.md#paper-154265) | 按控制有效分辨率设动作词表，再与掩码生成和连续输出比较 |
+| 图学习 | 公平聚合 | [E²Gen: Evidential Energy-Based Generation for Fair Federated Graph Learning](cards-0004.md#paper-154095) | 分别验证客户端数据补充和服务端公平加权的贡献 |
+| 时间序列 | 条件扩散 | [E4GEN: Event-level Explainable Extreme-Enhanced Time-series Generation](cards-0004.md#paper-153750) | 把尾事件条件的介入时机单独学习并评估 |
+| 表征学习 | 训练诊断 | [Early Detection of Backbone Divergence via Neighborhood Structure in Learned Embeddings](cards-0004.md#paper-155846) | 同时监控 NLL 差距与骨干几何双样本检验 |
+| 视频生成 | 早停诊断 | [Early Failure Detection and Intervention in Video Diffusion Models](cards-0004.md#paper-151719) | 先验证中间状态能否预测失败，再只对疑似失败启动修正 |
+| 机器学习 | 多任务表示 | [Early Prediction of Future Behavioral Strategy from Process Traces](cards-0004.md#paper-149638) | 利用多任务短轨迹验证过程信号能否迁移到未见任务 |
+| 多模态学习 | 零样本定位 | [Early Semantic Grounding in Image Editing Models for Zero-Shot Referring Image Segmentation](cards-0004.md#paper-152496) | 先读取生成模型最早层的可分特征，再决定是否需要完整生成 |
+| 大语言模型 | 推理预算 | [Early Signals, Strong Decisions: Prefix-Guided Sampling for Parallel Test-Time Scaling](cards-0004.md#paper-154126) | 按早期分数分配续写预算，对近决策边界单独评估 |
+| 医学影像 | 表征增强 | [EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models](cards-0004.md#paper-151511) | 使用正常组织对照原型避免无差别放大全局特征 |
+| 大语言模型 | 量化推理 | [EAT: Eviction-Aware Training for Long-Context LLM Inference on Edge Devices](cards-0004.md#paper-155582) | 对依赖分数做离散选择的压缩流程联合训练和评测 |
+| 具身智能 | 世界模型 | [EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields](cards-0004.md#paper-154040) | 生成未来画面时比较空间对齐动作场与抽象动作 token |
+| 医学影像 | 证据评测 | [ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilities in ECG Interpretation](cards-0004.md#paper-139595) | 分开验收诊断知识和信号证据定位。 |
+| 机器学习系统 | 分布式训练 | [ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning](cards-0004.md#paper-152365) | 根据训练、传播与采样耗时配置推理节点。 |
+| 具身智能 | 分层记忆 | [ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models](cards-0004.md#paper-149577) | 将平面历史检索替换为连续空间中的层次检索。 |
+| 推荐系统 | 偏差校正 | [Echoes in Filter Bubble: Diagnosing and Curing Popularity Bias in Generative Recommender Systems](cards-0004.md#paper-148459) | 同时检查生成目标与物品编码引入的流行度偏置。 |
+| 时间序列 | 滚动稳定性 | [Echoes of Error: Residual-Directional Local Rollout Consistency for Timeseries Forecasting](cards-0004.md#paper-152212) | 约束预测器对实际自回馈误差方向的局部敏感性。 |
+| 大语言模型 | 缓存压缩 | [EchoKV: Efficient KV Cache Compression via Similarity-Based Reconstruction](cards-0004.md#paper-152942) | 保留原始投影，使推理可在完整缓存与重建缓存之间切换。 |
+| 神经网络 | 时序信用分配 | [Echo learning enables biologically plausible temporal credit assignment](cards-0004.md#paper-155692) | 用回声动力学与局部约束研究低内存时序更新。 |
+| 多模态学习 | 视频推理 | [EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs](cards-0004.md#paper-153388) | 把跨帧重建误差和查询相关性共同用于视觉 token 预算。 |
+| 医学影像 | 图约束分割 | [Echo-SAM: Zero-Shot Learning of Unseen Structures via Medical Knowledge Graph Grounding](cards-0004.md#paper-152656) | 用可见相邻结构为未见结构提供图关系和空间候选。 |
+| Agent | 辅助监督 | [ECHO: Terminal Agents Learn World Models for Free](cards-0004.md#paper-154932) | 在授权终端任务中复用执行输出作为密集辅助标签。 |
+| 医学影像 | 数据表示 | [EchoXFlow: A Beamspace Echocardiography Dataset for Cardiac Motion, Flow, and Function](cards-0004.md#paper-139612) | 在采集空间保留独立模态，而非把多普勒融合为显示叠层。 |
+| 计算机视觉 | 域偏移诊断 | [ECLIPSE: A Spacecraft Rendezvous Trajectories Dataset with Controlled In-Orbit Lighting Conditions](cards-0004.md#paper-139639) | 在相同轨迹重放下独立改变光照，隔离外观变化。 |
+| Agent | 长程评测 | [EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies](cards-0004.md#paper-139233) | 以预算与持续结果区分策略制定和执行效率。 |
+| Agent | 分散式协同 | [Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions](cards-0004.md#paper-150266) | 用局部支付信号分配行动及更新信用。 |
+| 强化学习 | 无梯度控制 | [EDEN: Emergent Dynamics in Evolutionary Neural-networks for Robust Continuous Control](cards-0004.md#paper-149481) | 将神经元内部动力学参数和连接一起做无梯度优化。 |
+| 学习理论 | 训练诊断 | [Edge of Stability Selectively Shapes Learning Across the Data Distribution](cards-0004.md#paper-153610) | 按数据子群监控梯度方向与持续性，诊断稳定边缘的收益。 |
+| 优化 | 曲率诊断 | [Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD](cards-0004.md#paper-150004) | 用梯度方向上的批曲率诊断 SGD 的稳定边缘。 |
+| 优化 | 等变组合求解 | [EDISCO: Equivariant Discrete Diffusion for Euclidean Combinatorial Optimization](cards-0004.md#paper-148560) | 将几何不变性编码到离散求解分布。 |
+| 计算机视觉 | 高分辨率生成 | [EditBridge: Towards Faithful and Efficient Ultra-High-Resolution Image Editing](cards-0004.md#paper-154973) | 把低分辨率编辑映射回原高分辨率源，并局部稀疏交互。 |

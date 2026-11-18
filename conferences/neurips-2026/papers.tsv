@@ -2393,66 +2393,66 @@ poster_id	title	paper_url	status	reason
 153785	Dynamic Latent Routing	https://neurips.cc/virtual/2026/poster/153785	included	在后训练联合学习离散代码和路由
 149280	Dynamic Model Merging Made Slim	https://neurips.cc/virtual/2026/poster/149280	included	联合分配共享分支与任务专家的秩
 154422	Dynamic Optimistic Constrained OCO with Memory via Delay Equivalence	https://neurips.cc/virtual/2026/poster/154422	included	把状态历史影响转写成延迟反馈
-155360	Dynamic Physical Adversarial LED Patterns via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155360	pending	-
-152814	Dynamic Quadtree Tokenization for Autoregressive PDE Forecasting	https://neurips.cc/virtual/2026/poster/152814	pending	-
-154187	Dynamic Query as Budgeting for Tiny Object Detection	https://neurips.cc/virtual/2026/poster/154187	pending	-
-150232	DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion	https://neurips.cc/virtual/2026/poster/150232	pending	-
-150727	Dynamic Regret in Online Convex Optimization with Indicator Switching Costs	https://neurips.cc/virtual/2026/poster/150727	pending	-
-150677	Dynamic Regulatory Graph Learning for Histology-to-Spatial Transcriptomics	https://neurips.cc/virtual/2026/poster/150677	pending	-
-154596	Dynamic Representation Modeling for Federated Medical Image Domain Generalization	https://neurips.cc/virtual/2026/poster/154596	pending	-
-150374	Dynamic Resolution Routing for Efficient Egocentric Grounding	https://neurips.cc/virtual/2026/poster/150374	pending	-
-154629	Dynamics-Aware Sparse Attention for Efficient Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/154629	pending	-
-151856	Dynamics-Informed Adaptive Offline RL for Real-Time Tokamak Plasma Control	https://neurips.cc/virtual/2026/poster/151856	pending	-
-154701	Dynamics of Collective Diversity in Human–AI Co-Creation for Creative Tasks	https://neurips.cc/virtual/2026/poster/154701	pending	-
-153532	Dynamics of the Transformer Residual Stream: Coupling Spectral Geometry to Network Topology	https://neurips.cc/virtual/2026/poster/153532	pending	-
-151860	Dynamic Spectral Federated Graph-Level Clustering	https://neurips.cc/virtual/2026/poster/151860	pending	-
-148692	Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer	https://neurips.cc/virtual/2026/poster/148692	pending	-
-151886	Dynamic Treatment on Networks	https://neurips.cc/virtual/2026/poster/151886	pending	-
-151874	Dynamic Video Generation: Shaping Video Generation Across Time and Space	https://neurips.cc/virtual/2026/poster/151874	pending	-
-156061	DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation	https://neurips.cc/virtual/2026/poster/156061	pending	-
-149937	DynaPFN: Zero-Shot Dynamical System Forecasting with Tabular Prior-Fitted Networks	https://neurips.cc/virtual/2026/poster/149937	pending	-
-148247	DynaProto: Dynamic Prototypical Contrast for Temporally Consistent Object-Centric Learning	https://neurips.cc/virtual/2026/poster/148247	pending	-
-149611	Dyna-Style Safety Augmented Reinforcement Learning: Staying Safe in the Face of Uncertainty	https://neurips.cc/virtual/2026/poster/149611	pending	-
-149429	DynaSub: Adaptive Subgrouping for Scalable Representation Learning	https://neurips.cc/virtual/2026/poster/149429	pending	-
-149930	DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time	https://neurips.cc/virtual/2026/poster/149930	pending	-
-152189	DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models	https://neurips.cc/virtual/2026/poster/152189	pending	-
-148952	Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model	https://neurips.cc/virtual/2026/poster/148952	pending	-
-139288	DynT2I-Eval: A Dynamic Evaluation Framework for Text-to-Image Models	https://neurips.cc/virtual/2026/poster/139288	pending	-
-156053	DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation	https://neurips.cc/virtual/2026/poster/156053	pending	-
-156062	DyRA: Dynamic Residual Approximation for Efficient Matrix Multiplication in DNNs	https://neurips.cc/virtual/2026/poster/156062	pending	-
-150572	DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions	https://neurips.cc/virtual/2026/poster/150572	pending	-
-154265	E0: Expressive Fine-Grained Discrete Action Prediction for Vision-Language-Action Models via Tweedie Discrete Diffusion	https://neurips.cc/virtual/2026/poster/154265	pending	-
-154095	E²Gen: Evidential Energy-Based Generation for Fair Federated Graph Learning	https://neurips.cc/virtual/2026/poster/154095	pending	-
-153750	E4GEN: Event-level Explainable Extreme-Enhanced Time-series Generation	https://neurips.cc/virtual/2026/poster/153750	pending	-
-155846	Early Detection of Backbone Divergence via Neighborhood Structure in Learned Embeddings	https://neurips.cc/virtual/2026/poster/155846	pending	-
-151719	Early Failure Detection and Intervention in Video Diffusion Models	https://neurips.cc/virtual/2026/poster/151719	pending	-
-149638	Early Prediction of Future Behavioral Strategy from Process Traces	https://neurips.cc/virtual/2026/poster/149638	pending	-
-152496	Early Semantic Grounding in Image Editing Models for Zero-Shot Referring Image Segmentation	https://neurips.cc/virtual/2026/poster/152496	pending	-
-154126	Early Signals, Strong Decisions: Prefix-Guided Sampling for Parallel Test-Time Scaling	https://neurips.cc/virtual/2026/poster/154126	pending	-
-151511	EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models	https://neurips.cc/virtual/2026/poster/151511	pending	-
-155582	EAT: Eviction-Aware Training for Long-Context LLM Inference on Edge Devices	https://neurips.cc/virtual/2026/poster/155582	pending	-
-154040	EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields	https://neurips.cc/virtual/2026/poster/154040	pending	-
-138906	ECG Dataset with Multi-Expert Annotations and Delineations	https://neurips.cc/virtual/2026/poster/138906	pending	-
-139595	ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilities in ECG Interpretation	https://neurips.cc/virtual/2026/poster/139595	pending	-
-152365	ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152365	pending	-
-149577	ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/149577	pending	-
-148459	Echoes in Filter Bubble: Diagnosing and Curing Popularity Bias in Generative Recommender Systems	https://neurips.cc/virtual/2026/poster/148459	pending	-
-152212	Echoes of Error: Residual-Directional Local Rollout Consistency for Timeseries Forecasting	https://neurips.cc/virtual/2026/poster/152212	pending	-
-152942	EchoKV: Efficient KV Cache Compression via Similarity-Based Reconstruction	https://neurips.cc/virtual/2026/poster/152942	pending	-
-155692	Echo learning enables biologically plausible temporal credit assignment	https://neurips.cc/virtual/2026/poster/155692	pending	-
-153388	EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs	https://neurips.cc/virtual/2026/poster/153388	pending	-
-152656	Echo-SAM: Zero-Shot Learning of Unseen Structures via Medical Knowledge Graph Grounding	https://neurips.cc/virtual/2026/poster/152656	pending	-
-154932	ECHO: Terminal Agents Learn World Models for Free	https://neurips.cc/virtual/2026/poster/154932	pending	-
-139612	EchoXFlow: A Beamspace Echocardiography Dataset for Cardiac Motion, Flow, and Function	https://neurips.cc/virtual/2026/poster/139612	pending	-
-139639	ECLIPSE: A Spacecraft Rendezvous Trajectories Dataset with Controlled In-Orbit Lighting Conditions	https://neurips.cc/virtual/2026/poster/139639	pending	-
-153813	EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents	https://neurips.cc/virtual/2026/poster/153813	pending	-
-139233	EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies	https://neurips.cc/virtual/2026/poster/139233	pending	-
-150266	Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions	https://neurips.cc/virtual/2026/poster/150266	pending	-
-149481	EDEN: Emergent Dynamics in Evolutionary Neural-networks for Robust Continuous Control	https://neurips.cc/virtual/2026/poster/149481	pending	-
-153610	Edge of Stability Selectively Shapes Learning Across the Data Distribution	https://neurips.cc/virtual/2026/poster/153610	pending	-
-150004	Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD	https://neurips.cc/virtual/2026/poster/150004	pending	-
-148560	EDISCO: Equivariant Discrete Diffusion for Euclidean Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/148560	pending	-
-154973	EditBridge: Towards Faithful and Efficient Ultra-High-Resolution Image Editing	https://neurips.cc/virtual/2026/poster/154973	pending	-
+155360	Dynamic Physical Adversarial LED Patterns via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155360	excluded	贡献主要是现实环境下的攻击方法，摘要未给出可独立验证的防护机制。
+152814	Dynamic Quadtree Tokenization for Autoregressive PDE Forecasting	https://neurips.cc/virtual/2026/poster/152814	included	按局部结构变化调整标记密度
+154187	Dynamic Query as Budgeting for Tiny Object Detection	https://neurips.cc/virtual/2026/poster/154187	included	按密度调整查询数并固定选择规则
+150232	DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion	https://neurips.cc/virtual/2026/poster/150232	included	用离线标定替代在线搜索稀疏模式
+150727	Dynamic Regret in Online Convex Optimization with Indicator Switching Costs	https://neurips.cc/virtual/2026/poster/150727	included	有固定切换成本时联合设计决策与采样耦合
+150677	Dynamic Regulatory Graph Learning for Histology-to-Spatial Transcriptomics	https://neurips.cc/virtual/2026/poster/150677	included	用局部观测调节固定先验关系
+154596	Dynamic Representation Modeling for Federated Medical Image Domain Generalization	https://neurips.cc/virtual/2026/poster/154596	included	聚合前对齐表征变化轨迹
+150374	Dynamic Resolution Routing for Efficient Egocentric Grounding	https://neurips.cc/virtual/2026/poster/150374	included	以低分辨率全局视图引导局部高分辨率处理
+154629	Dynamics-Aware Sparse Attention for Efficient Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/154629	included	按运动区域分配历史缓存和计算
+151856	Dynamics-Informed Adaptive Offline RL for Real-Time Tokamak Plasma Control	https://neurips.cc/virtual/2026/poster/151856	included	用部署可用的观测训练离线控制策略
+154701	Dynamics of Collective Diversity in Human–AI Co-Creation for Creative Tasks	https://neurips.cc/virtual/2026/poster/154701	included	将群体多样性纳入创意助手评价
+153532	Dynamics of the Transformer Residual Stream: Coupling Spectral Geometry to Network Topology	https://neurips.cc/virtual/2026/poster/153532	included	用雅可比谱诊断深度方向的扰动传播
+151860	Dynamic Spectral Federated Graph-Level Clustering	https://neurips.cc/virtual/2026/poster/151860	included	按频带与本地差异更新全局谱共识
+148692	Dynamic Tokenization via Reinforcement Patching: End-to-end Training and Zero-shot Transfer	https://neurips.cc/virtual/2026/poster/148692	included	用离散动作直接优化边界并固定压缩率
+151886	Dynamic Treatment on Networks	https://neurips.cc/virtual/2026/poster/151886	included	按网络潜在状态更新干预时机
+151874	Dynamic Video Generation: Shaping Video Generation Across Time and Space	https://neurips.cc/virtual/2026/poster/151874	included	联合调节时间和空间分辨率的计算预算
+156061	DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation	https://neurips.cc/virtual/2026/poster/156061	included	只执行预测动作块中仍然及时的后缀
+149937	DynaPFN: Zero-Shot Dynamical System Forecasting with Tabular Prior-Fitted Networks	https://neurips.cc/virtual/2026/poster/149937	included	把预测上下文转换成滞后输入和输出对
+148247	DynaProto: Dynamic Prototypical Contrast for Temporally Consistent Object-Centric Learning	https://neurips.cc/virtual/2026/poster/148247	included	允许槽位随可见性变化并监督跨帧一致性
+149611	Dyna-Style Safety Augmented Reinforcement Learning: Staying Safe in the Face of Uncertainty	https://neurips.cc/virtual/2026/poster/149611	included	让安全过滤器同时约束预测失败和模型不确定性
+149429	DynaSub: Adaptive Subgrouping for Scalable Representation Learning	https://neurips.cc/virtual/2026/poster/149429	included	用随训练调整簇数的潜空间建模区分新子群与全局异常
+149930	DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time	https://neurips.cc/virtual/2026/poster/149930	included	局部运动适合由可定位的条件 token 建模
+152189	DynEdit: Dynamic Entropy-Guided Sequential Editing for Large Language Models	https://neurips.cc/virtual/2026/poster/152189	included	将长文本编辑预算集中于高熵片段
+148952	Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model	https://neurips.cc/virtual/2026/poster/148952	included	用共享掩码序列比较单独或联合解码动作与未来
+139288	DynT2I-Eval: A Dynamic Evaluation Framework for Text-to-Image Models	https://neurips.cc/virtual/2026/poster/139288	included	动态基准同时控制难度和新旧模型的比较预算
+156053	DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation	https://neurips.cc/virtual/2026/poster/156053	included	将待重建状态与观测位置共同建模，并以时间相关噪声约束轨迹
+156062	DyRA: Dynamic Residual Approximation for Efficient Matrix Multiplication in DNNs	https://neurips.cc/virtual/2026/poster/156062	included	按激活空间误差而非权重误差分配近似预算
+150572	DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions	https://neurips.cc/virtual/2026/poster/150572	included	以显式变形结果锚定隐式几何，避免正向与逆向变形失配
+154265	E0: Expressive Fine-Grained Discrete Action Prediction for Vision-Language-Action Models via Tweedie Discrete Diffusion	https://neurips.cc/virtual/2026/poster/154265	included	按控制有效分辨率设动作词表，再与掩码生成和连续输出比较
+154095	E²Gen: Evidential Energy-Based Generation for Fair Federated Graph Learning	https://neurips.cc/virtual/2026/poster/154095	included	分别验证客户端数据补充和服务端公平加权的贡献
+153750	E4GEN: Event-level Explainable Extreme-Enhanced Time-series Generation	https://neurips.cc/virtual/2026/poster/153750	included	把尾事件条件的介入时机单独学习并评估
+155846	Early Detection of Backbone Divergence via Neighborhood Structure in Learned Embeddings	https://neurips.cc/virtual/2026/poster/155846	included	同时监控 NLL 差距与骨干几何双样本检验
+151719	Early Failure Detection and Intervention in Video Diffusion Models	https://neurips.cc/virtual/2026/poster/151719	included	先验证中间状态能否预测失败，再只对疑似失败启动修正
+149638	Early Prediction of Future Behavioral Strategy from Process Traces	https://neurips.cc/virtual/2026/poster/149638	included	利用多任务短轨迹验证过程信号能否迁移到未见任务
+152496	Early Semantic Grounding in Image Editing Models for Zero-Shot Referring Image Segmentation	https://neurips.cc/virtual/2026/poster/152496	included	先读取生成模型最早层的可分特征，再决定是否需要完整生成
+154126	Early Signals, Strong Decisions: Prefix-Guided Sampling for Parallel Test-Time Scaling	https://neurips.cc/virtual/2026/poster/154126	included	按早期分数分配续写预算，对近决策边界单独评估
+151511	EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models	https://neurips.cc/virtual/2026/poster/151511	included	使用正常组织对照原型避免无差别放大全局特征
+155582	EAT: Eviction-Aware Training for Long-Context LLM Inference on Edge Devices	https://neurips.cc/virtual/2026/poster/155582	included	对依赖分数做离散选择的压缩流程联合训练和评测
+154040	EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields	https://neurips.cc/virtual/2026/poster/154040	included	生成未来画面时比较空间对齐动作场与抽象动作 token
+138906	ECG Dataset with Multi-Expert Annotations and Delineations	https://neurips.cc/virtual/2026/poster/138906	excluded	摘要主要贡献为七名专家参与的心电数据及描记资源，未给出可迁移的新算法或通过对照验证的标注规律。
+139595	ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilities in ECG Interpretation	https://neurips.cc/virtual/2026/poster/139595	included	分开验收诊断知识和信号证据定位。
+152365	ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152365	included	根据训练、传播与采样耗时配置推理节点。
+149577	ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/149577	included	将平面历史检索替换为连续空间中的层次检索。
+148459	Echoes in Filter Bubble: Diagnosing and Curing Popularity Bias in Generative Recommender Systems	https://neurips.cc/virtual/2026/poster/148459	included	同时检查生成目标与物品编码引入的流行度偏置。
+152212	Echoes of Error: Residual-Directional Local Rollout Consistency for Timeseries Forecasting	https://neurips.cc/virtual/2026/poster/152212	included	约束预测器对实际自回馈误差方向的局部敏感性。
+152942	EchoKV: Efficient KV Cache Compression via Similarity-Based Reconstruction	https://neurips.cc/virtual/2026/poster/152942	included	保留原始投影，使推理可在完整缓存与重建缓存之间切换。
+155692	Echo learning enables biologically plausible temporal credit assignment	https://neurips.cc/virtual/2026/poster/155692	included	用回声动力学与局部约束研究低内存时序更新。
+153388	EchoPrune: Interpreting Redundancy as Temporal Echoes for Efficient VideoLLMs	https://neurips.cc/virtual/2026/poster/153388	included	把跨帧重建误差和查询相关性共同用于视觉 token 预算。
+152656	Echo-SAM: Zero-Shot Learning of Unseen Structures via Medical Knowledge Graph Grounding	https://neurips.cc/virtual/2026/poster/152656	included	用可见相邻结构为未见结构提供图关系和空间候选。
+154932	ECHO: Terminal Agents Learn World Models for Free	https://neurips.cc/virtual/2026/poster/154932	included	在授权终端任务中复用执行输出作为密集辅助标签。
+139612	EchoXFlow: A Beamspace Echocardiography Dataset for Cardiac Motion, Flow, and Function	https://neurips.cc/virtual/2026/poster/139612	included	在采集空间保留独立模态，而非把多普勒融合为显示叠层。
+139639	ECLIPSE: A Spacecraft Rendezvous Trajectories Dataset with Controlled In-Orbit Lighting Conditions	https://neurips.cc/virtual/2026/poster/139639	included	在相同轨迹重放下独立改变光照，隔离外观变化。
+153813	EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents	https://neurips.cc/virtual/2026/poster/153813	excluded	论文摘要主要验证对搜索代理推荐结果的定向操纵，缺少独立验证的防御机制。
+139233	EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies	https://neurips.cc/virtual/2026/poster/139233	included	以预算与持续结果区分策略制定和执行效率。
+150266	Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions	https://neurips.cc/virtual/2026/poster/150266	included	用局部支付信号分配行动及更新信用。
+149481	EDEN: Emergent Dynamics in Evolutionary Neural-networks for Robust Continuous Control	https://neurips.cc/virtual/2026/poster/149481	included	将神经元内部动力学参数和连接一起做无梯度优化。
+153610	Edge of Stability Selectively Shapes Learning Across the Data Distribution	https://neurips.cc/virtual/2026/poster/153610	included	按数据子群监控梯度方向与持续性，诊断稳定边缘的收益。
+150004	Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD	https://neurips.cc/virtual/2026/poster/150004	included	用梯度方向上的批曲率诊断 SGD 的稳定边缘。
+148560	EDISCO: Equivariant Discrete Diffusion for Euclidean Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/148560	included	将几何不变性编码到离散求解分布。
+154973	EditBridge: Towards Faithful and Efficient Ultra-High-Resolution Image Editing	https://neurips.cc/virtual/2026/poster/154973	included	把低分辨率编辑映射回原高分辨率源，并局部稀疏交互。
 154635	EditDistill: Is It Possible to Guide Video Editing with Image Editing	https://neurips.cc/virtual/2026/poster/154635	pending	-
 152491	EditFlowSR: Revisable Expression Generation for Symbolic Regression	https://neurips.cc/virtual/2026/poster/152491	pending	-
 149507	Editing Large Language Models with Geometry-Aware Regularization	https://neurips.cc/virtual/2026/poster/149507	pending	-
