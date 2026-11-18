@@ -72,6 +72,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](../../conferences/icml-2026/cards/5801-5900.md#zhang26dp-loss-functions) · 中文
 - [Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hd-loss-functions) · 中文
 - [NITP: Next Implicit Token Prediction for LLM Pre-training](../../conferences/icml-2026/cards/5901-6000.md#zhang26ix-loss-functions) · 中文
+- [Think in Latent, Explain in Language: Self-Explainable Latent Reasoning](../../conferences/icml-2026/cards/6001-6100.md#zhao26a-loss-functions) · 中文
+- [Syntax vs. Semantics: How Transformers Learn Deep Dependencies](../../conferences/icml-2026/cards/6001-6100.md#zhao26h-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -320,6 +322,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Geometry-Aware Tabular Diffusion](../../conferences/icml-2026/cards/5601-5700.md#zagardo26a-loss-functions) · 中文
 - [Quantifying and Optimizing Simplicity via Polynomial Representations](../../conferences/icml-2026/cards/5801-5900.md#zhang26ct-loss-functions) · 中文
 - [Functional building blocks of neural networks: from network motifs to collective dynamics](../../conferences/icml-2026/cards/5901-6000.md#zhang26fk-loss-functions) · 中文
+- [Shift-Dependent Asymmetry: Orthogonal Inverse Low-Rank Adaptation for Federated Medical Segmentation](../../conferences/icml-2026/cards/6001-6100.md#zhao26r-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

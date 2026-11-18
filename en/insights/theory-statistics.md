@@ -187,6 +187,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Doubly Robust Distributionally Robust Offline Contextual Pricing](../../conferences/icml-2026/cards/5201-5300.md#xu26bz-theory-statistics) · 中文
 - [Compositional Behavioral Semantics for State Abstraction in Reinforcement Learning](../../conferences/icml-2026/cards/5801-5900.md#zhang26dy-theory-statistics) · 中文
 - [Provably Convergent Actor-Critic for MARL through Risk-aversion](../../conferences/icml-2026/cards/5801-5900.md#zhang26ei-theory-statistics) · 中文
+- [Why Linear Recurrent Memory Works in Partially Observable Reinforcement Learning](../../conferences/icml-2026/cards/6001-6100.md#zhao26j-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 

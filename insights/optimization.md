@@ -182,6 +182,7 @@
 - [return方差与ensemble分歧的自适应悲观项](../conferences/icml-2026/cards/5601-5700.md#yu26bo-optimization) · Taming Aleatoric Impulse in Off-Policy Reinforcement Learning
 - [分离reward和future entropy价值](../conferences/icml-2026/cards/5701-5800.md#zhan26d-optimization) · Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL
 - [把独立与团队梯度差作为Lyapunov投影对象](../conferences/icml-2026/cards/5801-5900.md#zhang26ep-optimization) · Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization
+- [交替牺牲单目标与全目标修复来追Pareto前沿](../conferences/icml-2026/cards/6001-6100.md#zhao26b-optimization) · Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL
 
 <a id="by-robotics"></a>
 
@@ -206,6 +207,7 @@
 - [用完整增量对齐联邦低秩适配器聚合](../conferences/icml-2026/cards/2701-2800.md#liang26ab-optimization) · UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation
 - [视觉语言模型的跨模态攻击迁移](../conferences/icml-2026/cards/3701-3800.md#qin26a-optimization) · MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models
 - [缺模态重叠空间协作](../conferences/icml-2026/cards/4601-4700.md#wang26ca-optimization) · GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning
+- [用layer模态均值差初始化rank1LoRA](../conferences/icml-2026/cards/6001-6100.md#zhao26o-optimization) · When Is Rank-1 Enough? Geometry-Guided Initialization for Parameter-Efficient Fine-Tuning
 
 <a id="by-ml-foundations"></a>
 
@@ -502,6 +504,7 @@
 - [动态图曝光下的反事实公平控制](../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs
 - [用期望采样成本训练设施开设概率](../conferences/icml-2026/cards/3701-3800.md#qian26d-optimization) · Learning to Approximate Uniform Facility Location via Graph Neural Networks
 - [架构编辑收益的动态迁移](../conferences/icml-2026/cards/4701-4800.md#wang26eh-optimization) · Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design
+- [用gap证书筛I-MLE目标topk候选](../conferences/icml-2026/cards/6001-6100.md#zhao26q-optimization) · DiP-G: Discrete Prompting for Graph Neural Networks
 
 <a id="by-scientific-ml"></a>
 

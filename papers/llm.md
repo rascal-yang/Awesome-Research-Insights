@@ -187,6 +187,8 @@
 - <a id="zhang26dp-loss-functions"></a>[Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dp)
 - <a id="zhang26hd-loss-functions"></a>[Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hd)
 - <a id="zhang26ix-loss-functions"></a>[NITP: Next Implicit Token Prediction for LLM Pre-training](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ix)
+- <a id="zhao26a-loss-functions"></a>[Think in Latent, Explain in Language: Self-Explainable Latent Reasoning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26a)
+- <a id="zhao26h-loss-functions"></a>[Syntax vs. Semantics: How Transformers Learn Deep Dependencies](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26h)
 
 <a id="by-optimization"></a>
 
@@ -752,6 +754,7 @@
 - <a id="ye26i-data-strategies"></a>[Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity](../conferences/icml-2026/cards/5501-5600.md#paper-ye26i)
 - <a id="zhang26en-data-strategies"></a>[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26en)
 - <a id="zhang26gc-data-strategies"></a>[Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gc)
+- <a id="zhao26k-data-strategies"></a>[What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26k)
 
 <a id="by-inference"></a>
 
@@ -1524,6 +1527,7 @@
 - <a id="zhang26di-evaluation"></a>[Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26di)
 - <a id="zhang26dt-evaluation"></a>[From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dt)
 - <a id="zhang26jb-evaluation"></a>[When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26jb)
+- <a id="zhao26e-evaluation"></a>[LitReview Arena: Evaluating Literature Review Agents with Battle-style Peer Review Platform](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26e)
 
 <a id="by-theory-statistics"></a>
 

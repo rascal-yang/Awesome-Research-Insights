@@ -220,6 +220,7 @@
 - <a id="zagardo26a-loss-functions"></a>[Geometry-Aware Tabular Diffusion](../conferences/icml-2026/cards/5601-5700.md#paper-zagardo26a)
 - <a id="zhang26ct-loss-functions"></a>[Quantifying and Optimizing Simplicity via Polynomial Representations](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ct)
 - <a id="zhang26fk-loss-functions"></a>[Functional building blocks of neural networks: from network motifs to collective dynamics](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fk)
+- <a id="zhao26r-loss-functions"></a>[Shift-Dependent Asymmetry: Orthogonal Inverse Low-Rank Adaptation for Federated Medical Segmentation](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26r)
 
 <a id="by-optimization"></a>
 

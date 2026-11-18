@@ -99,6 +99,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#wei26e-representation-learning) · 中文
 - [Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics](../../conferences/icml-2026/cards/5101-5200.md#xing26i-representation-learning) · 中文
 - [A Hypertoroidal Covering for Perfect Color Equivariance](../../conferences/icml-2026/cards/5401-5500.md#yang26co-representation-learning) · 中文
+- [Learning Sparse Visual Representations via Spatial-Semantic Factorization](../../conferences/icml-2026/cards/6001-6100.md#zhao26t-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -213,6 +214,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Universal Skeleton Understanding via Differentiable Rendering and MLLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26dv-representation-learning) · 中文
 - [MiVE: Multiscale Vision-language features for reference-guided video Editing](../../conferences/icml-2026/cards/4901-5000.md#wang26lv-representation-learning) · 中文
 - [Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering](../../conferences/icml-2026/cards/5201-5300.md#xu26az-representation-learning) · 中文
+- [CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping](../../conferences/icml-2026/cards/6001-6100.md#zhao26l-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

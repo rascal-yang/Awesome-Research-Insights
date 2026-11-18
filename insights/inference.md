@@ -731,6 +731,7 @@
 - [高风险头的有限精度压平与双路径融合](../conferences/icml-2026/cards/5501-5600.md#yu26c-inference) · Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding
 - [视觉敏感token的选择性隐状态控制](../conferences/icml-2026/cards/5801-5900.md#zhang26cg-inference) · Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation
 - [以hidden-norm梯度定位并抑制异常视觉tokens](../conferences/icml-2026/cards/5801-5900.md#zhang26ee-inference) · Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack
+- [先保图像问题分支再融合RAG文本](../conferences/icml-2026/cards/6001-6100.md#zhao26g-inference) · When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs
 
 <a id="by-ml-foundations"></a>
 

@@ -81,6 +81,7 @@
 - <a id="yu26bo-optimization"></a>[Taming Aleatoric Impulse in Off-Policy Reinforcement Learning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bo)
 - <a id="zhan26d-optimization"></a>[Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL](../conferences/icml-2026/cards/5701-5800.md#paper-zhan26d)
 - <a id="zhang26ep-optimization"></a>[Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ep)
+- <a id="zhao26b-optimization"></a>[Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26b)
 
 <a id="by-reinforcement-learning"></a><a id="group-relative-policy-optimization"></a>
 
@@ -399,4 +400,5 @@
 - <a id="xu26bz-theory-statistics"></a>[Doubly Robust Distributionally Robust Offline Contextual Pricing](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bz)
 - <a id="zhang26dy-theory-statistics"></a>[Compositional Behavioral Semantics for State Abstraction in Reinforcement Learning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dy)
 - <a id="zhang26ei-theory-statistics"></a>[Provably Convergent Actor-Critic for MARL through Risk-aversion](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ei)
+- <a id="zhao26j-theory-statistics"></a>[Why Linear Recurrent Memory Works in Partially Observable Reinforcement Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26j)
 <!-- classification:end -->

@@ -596,6 +596,7 @@
 - <a id="wei26e-representation-learning"></a>[SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](../conferences/icml-2026/cards/4901-5000.md#paper-wei26e)
 - <a id="xing26i-representation-learning"></a>[Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics](../conferences/icml-2026/cards/5101-5200.md#paper-xing26i)
 - <a id="yang26co-representation-learning"></a>[A Hypertoroidal Covering for Perfect Color Equivariance](../conferences/icml-2026/cards/5401-5500.md#paper-yang26co)
+- <a id="zhao26t-representation-learning"></a>[Learning Sparse Visual Representations via Spatial-Semantic Factorization](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26t)
 
 <a id="by-evaluation"></a>
 
@@ -672,6 +673,7 @@
 - <a id="zhang26br-evaluation"></a>[T-measure: A Topology-Consistent Metric for Binary Segmentation](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26br)
 - <a id="zhang26ev-evaluation"></a>[Geometric Collapse: When Vision Models Fail to Verify Physical Causality](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ev)
 - <a id="zhang26jl-evaluation"></a>[Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization](../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jl)
+- <a id="zhao26i-evaluation"></a>[Nonparametric Data Attribution for Diffusion Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26i)
 
 <a id="by-theory-statistics"></a>
 

@@ -380,6 +380,7 @@
 - [在解码参数和双向上下文下联合评估DLM遗忘](../conferences/icml-2026/cards/5801-5900.md#zhang26di-evaluation) · Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning
 - [把语义cache命中与回答完整性分开审计](../conferences/icml-2026/cards/5801-5900.md#zhang26dt-evaluation) · From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching
 - [通信轮次下防御信号衰减](../conferences/icml-2026/cards/5901-6000.md#zhang26jb-evaluation) · When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems
+- [把judge一致性与专家综述质量判断分开校准](../conferences/icml-2026/cards/6001-6100.md#zhao26e-evaluation) · LitReview Arena: Evaluating Literature Review Agents with Battle-style Peer Review Platform
 
 <a id="by-computer-vision"></a>
 
@@ -456,6 +457,7 @@
 - [把连通碎裂显式接入分割评分](../conferences/icml-2026/cards/5801-5900.md#zhang26br-evaluation) · T-measure: A Topology-Consistent Metric for Binary Segmentation
 - [用能量和结构匹配控制测边缘扰动的全局传播](../conferences/icml-2026/cards/5801-5900.md#zhang26ev-evaluation) · Geometric Collapse: When Vision Models Fail to Verify Physical Causality
 - [码本利用率不等于表征维数](../conferences/icml-2026/cards/6001-6100.md#zhang26jl-evaluation) · Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization
+- [无modelaccess时以patchscoreproxy定位训练对应](../conferences/icml-2026/cards/6001-6100.md#zhao26i-evaluation) · Nonparametric Data Attribution for Diffusion Models
 
 <a id="by-nlp"></a>
 

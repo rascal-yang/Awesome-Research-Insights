@@ -99,6 +99,7 @@
 - [在拼接LoRA子空间求回归合并](../conferences/icml-2026/cards/4901-5000.md#wei26e-representation-learning) · SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models
 - [语义表征与光度细节的选择权衡](../conferences/icml-2026/cards/5101-5200.md#xing26i-representation-learning) · Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics
 - [有界颜色通道的周期提升与反射作用](../conferences/icml-2026/cards/5401-5500.md#yang26co-representation-learning) · A Hypertoroidal Covering for Perfect Color Equivariance
+- [把稀疏semantictokens与dense位置系数一同保留](../conferences/icml-2026/cards/6001-6100.md#zhao26t-representation-learning) · Learning Sparse Visual Representations via Spatial-Semantic Factorization
 
 <a id="by-nlp"></a>
 
@@ -213,6 +214,7 @@
 - [task-learned-skeleton-rendering](../conferences/icml-2026/cards/4701-4800.md#wang26dv-representation-learning) · Universal Skeleton Understanding via Differentiable Rendering and MLLMs
 - [浅深VLM特征共同条件视频编辑](../conferences/icml-2026/cards/4901-5000.md#wang26lv-representation-learning) · MiVE: Multiscale Vision-language features for reference-guided video Editing
 - [学习相关误差的高斯视图融合](../conferences/icml-2026/cards/5201-5300.md#xu26az-representation-learning) · Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering
+- [用camera几何流构造时序相关noise条件](../conferences/icml-2026/cards/6001-6100.md#zhao26l-representation-learning) · CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping
 
 <a id="by-ml-foundations"></a>
 

@@ -182,6 +182,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Taming Aleatoric Impulse in Off-Policy Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26bo-optimization) · 中文
 - [Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL](../../conferences/icml-2026/cards/5701-5800.md#zhan26d-optimization) · 中文
 - [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26ep-optimization) · 中文
+- [Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL](../../conferences/icml-2026/cards/6001-6100.md#zhao26b-optimization) · 中文
 
 <a id="by-robotics"></a>
 
@@ -206,6 +207,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation](../../conferences/icml-2026/cards/2701-2800.md#liang26ab-optimization) · 中文
 - [MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](../../conferences/icml-2026/cards/3701-3800.md#qin26a-optimization) · 中文
 - [GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26ca-optimization) · 中文
+- [When Is Rank-1 Enough? Geometry-Guided Initialization for Parameter-Efficient Fine-Tuning](../../conferences/icml-2026/cards/6001-6100.md#zhao26o-optimization) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -502,6 +504,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [COPF: An Online Framework for Deployment-Stable Counterfactual Fairness in Evolving Graphs](../../conferences/icml-2026/cards/2601-2700.md#li26kb-optimization) · 中文
 - [Learning to Approximate Uniform Facility Location via Graph Neural Networks](../../conferences/icml-2026/cards/3701-3800.md#qian26d-optimization) · 中文
 - [Beyond Model Base Retrieval: Weaving Knowledge to Master Fine-grained Neural Network Design](../../conferences/icml-2026/cards/4701-4800.md#wang26eh-optimization) · 中文
+- [DiP-G: Discrete Prompting for Graph Neural Networks](../../conferences/icml-2026/cards/6001-6100.md#zhao26q-optimization) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -150,6 +150,7 @@
 - <a id="liang26ab-optimization"></a>[UniFLoW: Universal Multi-Modal Federated LoRA Fine-Tuning Framework with Analytical Aggregation](../conferences/icml-2026/cards/2701-2800.md#paper-liang26ab)
 - <a id="qin26a-optimization"></a>[MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](../conferences/icml-2026/cards/3701-3800.md#paper-qin26a)
 - <a id="wang26ca-optimization"></a>[GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ca)
+- <a id="zhao26o-optimization"></a>[When Is Rank-1 Enough? Geometry-Guided Initialization for Parameter-Efficient Fine-Tuning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26o)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -224,6 +225,7 @@
 - <a id="zhang26gu-reinforcement-learning"></a>[See First, Reason Later: Mutual Information-Guided Reinforcement Learning for Vision-Language Models](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gu)
 - <a id="zhang26hq-reinforcement-learning"></a>[GenAlign: Towards Unified Alignment Framework of MLLMs via Generative Reward Model](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hq)
 - <a id="zhang26je-reinforcement-learning"></a>[iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhang26je)
+- <a id="zhao26c-reinforcement-learning"></a>[Learning GUI Grounding with Spatial Reasoning from Visual Feedback](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26c)
 
 <a id="by-training-strategies"></a>
 
@@ -440,6 +442,7 @@
 - <a id="yu26c-inference"></a>[Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../conferences/icml-2026/cards/5501-5600.md#paper-yu26c)
 - <a id="zhang26cg-inference"></a>[Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cg)
 - <a id="zhang26ee-inference"></a>[Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ee)
+- <a id="zhao26g-inference"></a>[When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26g)
 
 <a id="by-representation-learning"></a>
 
@@ -496,6 +499,7 @@
 - <a id="wang26dv-representation-learning"></a>[Universal Skeleton Understanding via Differentiable Rendering and MLLMs](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dv)
 - <a id="wang26lv-representation-learning"></a>[MiVE: Multiscale Vision-language features for reference-guided video Editing](../conferences/icml-2026/cards/4901-5000.md#paper-wang26lv)
 - <a id="xu26az-representation-learning"></a>[Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering](../conferences/icml-2026/cards/5201-5300.md#paper-xu26az)
+- <a id="zhao26l-representation-learning"></a>[CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26l)
 
 <a id="by-evaluation"></a>
 

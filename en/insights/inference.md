@@ -731,6 +731,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../conferences/icml-2026/cards/5501-5600.md#yu26c-inference) · 中文
 - [Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation](../../conferences/icml-2026/cards/5801-5900.md#zhang26cg-inference) · 中文
 - [Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack](../../conferences/icml-2026/cards/5801-5900.md#zhang26ee-inference) · 中文
+- [When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs](../../conferences/icml-2026/cards/6001-6100.md#zhao26g-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

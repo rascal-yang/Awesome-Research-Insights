@@ -72,6 +72,8 @@
 - [用中心化surprisal调SFT并控制hint依赖](../conferences/icml-2026/cards/5801-5900.md#zhang26dp-loss-functions) · Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training
 - [为后续RL选择SFT权重](../conferences/icml-2026/cards/5901-6000.md#zhang26hd-loss-functions) · Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning
 - [预测下一位置的浅层隐token](../conferences/icml-2026/cards/5901-6000.md#zhang26ix-loss-functions) · NITP: Next Implicit Token Prediction for LLM Pre-training
+- [让同一latent-reasoning模型兼学文字解码](../conferences/icml-2026/cards/6001-6100.md#zhao26a-loss-functions) · Think in Latent, Explain in Language: Self-Explainable Latent Reasoning
+- [对已知依赖边直接加attentionmargin监督](../conferences/icml-2026/cards/6001-6100.md#zhao26h-loss-functions) · Syntax vs. Semantics: How Transformers Learn Deep Dependencies
 
 <a id="by-computer-vision"></a>
 
@@ -320,6 +322,7 @@
 - [给tabular diffusion加逐行列关系辅助监督](../conferences/icml-2026/cards/5601-5700.md#zagardo26a-loss-functions) · Geometry-Aware Tabular Diffusion
 - [惩罚数据插值路径上的高阶多项式系数](../conferences/icml-2026/cards/5801-5900.md#zhang26ct-loss-functions) · Quantifying and Optimizing Simplicity via Polynomial Representations
 - [三节点motif比例的任务相关正则](../conferences/icml-2026/cards/5901-6000.md#zhang26fk-loss-functions) · Functional building blocks of neural networks: from network motifs to collective dynamics
+- [按输入输出shift拆FL-LoRA并惩共享局部drift对齐](../conferences/icml-2026/cards/6001-6100.md#zhao26r-loss-functions) · Shift-Dependent Asymmetry: Orthogonal Inverse Low-Rank Adaptation for Federated Medical Segmentation
 
 <a id="by-graph-and-recommendation"></a>
 
