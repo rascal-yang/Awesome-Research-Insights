@@ -7,7 +7,7 @@ number	openreview_id	title	paper_url	reason	status
 6	QwpnI3BlwT	PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations	https://openreview.net/forum?id=QwpnI3BlwT		pending
 7	YTw6LOO9C5	Semantic Anchoring for Robotic Action Representations	https://openreview.net/forum?id=YTw6LOO9C5		pending
 8	HmdwOezjlQ	When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs	https://openreview.net/forum?id=HmdwOezjlQ	固定场景替换可执行指令，分测语言落地与任务成功；对照有无无条件动作预测的引导。	included
-9	4RLjGPEfpH	ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation	https://openreview.net/forum?id=4RLjGPEfpH		pending
+9	4RLjGPEfpH	ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation	https://openreview.net/forum?id=4RLjGPEfpH	跨本体零样本评测应分开报告目标机器人完全未见和仅预训练已见两种协议。	included
 10	cfzFrOJmKA	Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization	https://openreview.net/forum?id=cfzFrOJmKA		pending
 11	NHE9q2cz1n	RoboTTT: Context Scaling for Robot Policies	https://openreview.net/forum?id=NHE9q2cz1n		pending
 12	5XKFwWrW0v	π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities	https://openreview.net/forum?id=5XKFwWrW0v		pending
