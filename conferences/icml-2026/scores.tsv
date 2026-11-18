@@ -5970,26 +5970,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5969	zhang26hy	3	4	4	4	73		初筛，原文与先例核查待补：暂定评分依据：开放生成可让模型一次列多个response及verbalizedprobability，并与同候选数的普通listprompt比较；可用低probability请求探索tail，但这些数字不是校准samplingdensity。；边界：referencehigherlogprob与humanpreference相关不单独证明典型性是collapse主因，correctnessmatched仍有style/length混淆。flatutility理论条件与distributionrewardgap假设不能证所有models；尾部真实性/质量/安全需另测，小models收益更弱不作能力普遍定律。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26hy/zhang26hy.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26hy/zhang26hy.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26hy/zhang26hy.pdf#page=6)	scored
 5970	zhang26hz							初筛，原文与先例核查待补：缓存PDF4–5将完整repository/currenttestbench/simulatorlog定义memoryless状态，按低coverage取worststates、teacher产生修复并executionfilter，再offlineSFT。当前为成熟hardexamplemining、executionvalidateddata和policyawareteacherworkflow，新hardware任务本身不足独立机制，初筛排除。same simulatorcalls是有用控制但未隔离新通用规则；memoryless丢历史是否伤任务/速度、teacher/studenttrajectorymix与同trainingtokens控制待核。	rule-excluded
 5971	zhang26ia							初筛，原文与先例核查待补：缓存PDF4–5主要为500新interactiveHTML任务、structuredintention/static/dynamic EvalRef和browserexploratoryagent，沿已有web/artifactjudge方法扩任务维度。当前未隔离独立新评估算法或具体受控可复用失败律，初筛按benchmark/工作流排除；humanalignment摘要分数不单独过门槛。humanjudgment采样、judge-agent预算/coverage、与WebDevJudge/ArtifactsBench同协议控制及principlefidelity漏判待核。	rule-excluded
-5972	zhang26ib							待原文复核评分	pending
-5973	zhang26ic							待原文复核评分	pending
-5974	zhang26id							待原文复核评分	pending
-5975	zhang26ie							待原文复核评分	pending
-5976	zhang26if							待原文复核评分	pending
-5977	zhang26ig							待原文复核评分	pending
-5978	zhang26ih							待原文复核评分	pending
-5979	zhang26ii							待原文复核评分	pending
-5980	zhang26ij							待原文复核评分	pending
-5981	zhang26ik							待原文复核评分	pending
-5982	zhang26il							待原文复核评分	pending
-5983	zhang26im							待原文复核评分	pending
-5984	zhang26in							待原文复核评分	pending
-5985	zhang26io							待原文复核评分	pending
-5986	zhang26ip							待原文复核评分	pending
-5987	zhang26iq							待原文复核评分	pending
-5988	zhang26ir							待原文复核评分	pending
-5989	zhang26is							待原文复核评分	pending
-5990	zhang26it							待原文复核评分	pending
-5991	zhang26iu							待原文复核评分	pending
+5972	zhang26ib							初筛，原文与先例核查待补：现有PDF第3–4/6页以learnable action queries并行预测、groundtruth统计初始化spatial representation、hiddenstate refinement与SFT/RL组成驾驶VLA。query decoder、几何锚点初始化和trajectory refinement均成熟；当前未隔离新空间目标/解码规则，8数据集合并与推理速度不单独建立独立机制，暂排。	rule-excluded
+5973	zhang26ic							初筛，原文与先例核查待补：现有PDF第3–7页是query-conditioned小policy对memory模块选Low/Mid/High tier，用accuracy减cost标准RL训练；implementation/reasoning/capacity是现有计算预算轴。当前未分离超出成熟budgeted routing的新状态/目标或受控普适规律，runtime vs offline cost还依摊销方式；新memory流程与frontier提升不足单独保留，暂排。	rule-excluded
+5974	zhang26id	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按后验软标签与频率联动的长尾鲁棒训练，最近方法差异见baseline且待核；复用5：长尾adversarial training可冻结单独学到的posterior surrogate，混合其clean/perturbed预测作soft targets，并用同一soft target均值更新class frequency；应与单独distillation、BSL和AWP匹配预算对照。 可用3受surrogate softmax不自动是真实p(y|x)，BSL后验是否还原训练prior需核。第5页LSE印为τlogΣexp(Lclass)而非exp(Lclass/τ)，τ按字面不控max逼近；部分bound用连续weight邻域的|U|及有界loss，不能当已核统一泛化保证。额外模型、calibration/OOD及同总算力待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5975	zhang26ie	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按离散RCT下结构响应曲线的策略学习，最近方法差异见baseline且待核；复用5：从离散实验选连续个性化策略时，可先限定treatment响应为可识别的低阶结构曲线，再用sample-split正交score优化policy；连续未测区间的结论来自结构假设而非随机化本身。 可用3受G曲线预指定且系数需足够treatment levels识别；离散支持外非参数响应不可由RCT恢复。正交性只缓解nuisance估计误差不修正link misspecification；实际policy实验限制五已有arm、empirical最佳arm有噪声，VC/covering、overlap与Λconditioning条件待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5976	zhang26if	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按相对剩余时长的成对进度监督，最近方法差异见baseline且待核；复用5：跨人/机器人视频训练critic可直接输入两帧预测相对剩余任务时长的进度，并混入倒序与静止帧；用于dense reward时须检查该进度尺度随起点变化、非可加性和非单调任务。 可用3受时间推进只在示范近单调有效，低pixel差不等零进度；Δt/(T−i)非反对称也非potential差，可小分母放大，直接reward不自动保持最优policy。completion时间阈值不是语义真值，one-shot需要同任务reference，reward hacking与统一critic/actor自评偏差待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/7/8页。	scored
+5977	zhang26ig							初筛，原文与先例核查待补：现有PDF第3–6页生成粗/细caption做crossattention融合，CLIP侧bottleneck adapters、neighborhood contrastive distillation及cluster balance。caption提升外部语义、adapter/nearest-neighbor对比/共识teacher均成熟，当前未隔离独立新对齐目标或适用边界，五图像聚类benchmark分数不单独成立，暂排。	rule-excluded
+5978	zhang26ih	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按图合成序列上的推荐CPT条件scaling，最近方法差异见baseline且待核；复用5：评估推荐CPT扩量时，可将item-text、CF关系和图随机游走序列分开测validation loss斜率，并用真实交互ranking检查；合成任务的幂律下降不等线上用户偏好更可预测。 可用3受CF来自观测图，random walk不自动去除exposure/position bias，也不认证privacy。真实评测vocabulary过滤改变分布，temporal split/graph漏test边待核；token类别难度/熵不同，α不能直接称教学效率。仅cache范围曲线fit，未来compute/线上ranking外推及同训练预算控制待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5979	zhang26ii							初筛，原文与先例核查待补：现有PDF第3–4/6页主要是982多图chart任务、人工错误的multi-turn输入、multi-level rubric，以及multiagent合成30K再SFT。复杂图表benchmark/数据和常规code-refine pipeline可用，但未抽出独立新训练/控制规则或控制预算后新失败规律，暂排。	rule-excluded
+5980	zhang26ij	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按递归向量伴随的去中心化多层优化，最近方法差异见baseline且待核；复用5：多层inner optimum的hypergradient可从最深层向外递归解Hessian-vector系统，只通信vector及trackers而非完整Hessian-inverse-Jacobian矩阵；适用每层强凸且依赖链满足给定结构的分布式问题。 可用3受递归vector乘积是成熟adjoint计算，新增暂限分布式算法/analysis；每层强凸不覆盖任意全网络训练，可用于冻结特征凸输出层的嵌套调参。K仍进入常数/conditioning，δ与谱隙可抵消节省；vector数量/索引、HVP实际成本与总oracle复杂度待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5981	zhang26ik							初筛，原文与先例核查待补：现有摘要的贡献直接用于生物序列/分子编辑优化；可安全分离的generic描述为Levenshtein shortest-edit demonstrations、SFT与group-based policy optimization，当前未显示超出成熟edit-trajectory学习的新独立通用机制，暂排并留待统一复核。不提取设计操作，不因生物主题本身删除，未新增原文核查。	rule-excluded
+5982	zhang26il	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按自诱导镜像点的一致去噪，最近方法差异见baseline且待核；复用5：无clean对应的point denoising可沿本模型位移延伸2倍构造mirror，再排除原点重查邻域，约束两路denoised目标一致；该配对是算法构造的，不是已知位于真实表面两侧。 可用4受d错时mirror未必跨真实surface；zero displacement/自一致错误固定点也可有低MSE，必须靠邻域排原点及跨variant约束防退化。薄片/边界/非均匀噪声不自动满足几何对称，迭代次数、额外KNN/decoder成本与2倍factor泛化待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5983	zhang26im							初筛，原文与先例核查待补：现有PDF第3–4/6页用step delimiter隐藏态训练SAE，对decoder列聚类/均值做activation steering；SAE字典学习、latent clustering与steering为成熟。所谓任意local optimum恢复latent行为字典的定理需更强identifiability/coverage条件，当前未核；删除未支撑保证后未隔离超出step粒度应用的新操作，reflection次数变化不等推理正确性提高，暂排。	rule-excluded
+5984	zhang26in							初筛，原文与先例核查待补：现有PDF第3–7页以DDPM生成user embedding、多样本平均score、global/local denoising predictor与gate fusion接FedAvg。文中actual baseline GCDR已用conditional diffusion捕捉multiple preference distributions，box用户表示亦是先例；当前未隔离超出成熟personalized diffusion联邦化的新分布目标/校准规则，暂排。	rule-excluded
+5985	zhang26io	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按修订增益回传到原回答的奖励，最近方法差异见baseline且待核；复用5：rubric RL可对当前最高分失败回答做反馈修订，并将修订奖励差以小系数回传原回答；这使“易被修好”的起点获得训练credit，需区分conditional revision目标与无反馈policy收益。 可用4受bonus差可为负，不只是正向奖励；best-of selection和conditioning改变采样目标，f(ratio)=ratio/(ratio+1)也不再是原始unbiased policygradient。理论理想reward与label可见性假设待核，不声称梯度必更准确；反馈外部知识、同token预算和无feedback部署泛化待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5986	zhang26ip							初筛，原文与先例核查待补：现有PDF第3–6页在共享3Dfeaturemap采导航/抓取/放置waypoints，连chain后用VLM可行性均分与transition cost排序，执行首步重规划，底层FMM/AnyGrasp/CuRobo。联合TAMP/receding-horizon与VLMfeature评分属成熟规划流程，当前未分离新求解/可行性目标或保证；OVMM/Stretch3效果本身不单独建立增量，暂排。	rule-excluded
+5987	zhang26iq							初筛，原文与先例核查待补：现有PDF第4–5/7页以critique修订失败，再初始/修订回答混合group-baseline RL，probability shaping明确来自Yan2025。该流程与本批5985共享，当前未见超出既有critique-guided RL/shaping的独立新目标；先保5985的原回答修订增益credit机制为代表。更多prompt及teacher critique带来成绩不足单独保留，理论复杂度压缩强依赖oracle反馈且非一般推理保证，暂排。	rule-excluded
+5988	zhang26ir	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按从代价模式恢复对称轨道的OT压缩，最近方法差异见baseline且待核；复用5：当source/target有共同自由有限群作用且orbit内权重一致时，可比较cost行列的多重集合恢复轨道，再在orbit空间解OT并lift；先计轨道识别成本，近似对称时须测目标偏差。 可用4受exact symmetry与pattern-separation不可从任意数据假定；浮点近等分组/tolerance会错并轨道。orbit识别仍读完整O(mn|G|²)cost并排序，非端到端O(mn)；非唯一linear plan只能保证某对称最优解存在，不必等任何direct解。自由群、约束质量和近似误差界待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5989	zhang26is	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按双PL条件的无二阶分布式bilevel，最近方法差异见baseline且待核；复用5：当lower loss g和惩罚后的hρ=g+ρf都满足PL时，可用y/z双lower估计的value-gap penalty、STORM与consensus tracking替代Hessian inverse；“仅PL”不能省略hρ这一额外条件。 可用3受g PL不推出g+ρf PL，需共同满足；全DNN模型剪枝实验不认证全局PL。无Hessian计算不等无二阶正则性假设，ρ→0放大噪声/步长约束，κ^9与ε^−5可能高成本；optimistic solution selection及∇L存在的附加条件待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5990	zhang26it							初筛，原文与先例核查待补：现有PDF第3–4/6页将VQA转knowledge graph，再按triplet扩展hop、LLM改写/过滤和视觉重新选题。属成熟graph reasoning/question generation与dynamic benchmark流程，hop更长也同时换知识/答案分布；accuracy下降不能单独证明去污染或精确难度控制，当前未隔离新的评测估计器或可复用law，暂排。	rule-excluded
+5991	zhang26iu	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按批量页表提交支撑弹性连续张量，最近方法差异见baseline且待核；复用5：动态KV/多LoRA/共享prefix可用大虚拟地址预留、按需物理页绑定和alias保连续tensor接口；要使这种方案可部署，页表提交成本须低到微秒级，且将driver扩展成本与kernel后端差异计入。 可用3受虚拟contiguity不消除物理容量/带宽需求，页表copy仍与更新页数传输量有关，O(1)transaction不等O(1)bytes。需要兼容driver/GPU、同步TLB与inflight kernel、alias写入/生命周期正确性；安全验证和race/coherency、map/unmap全成本与多租户表现待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
 5992	zhang26iv							待原文复核评分	pending
 5993	zhang26iw							待原文复核评分	pending
 5994	zhang26ix							待原文复核评分	pending

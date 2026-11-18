@@ -381,6 +381,7 @@
 - [预测未来熵越阈值以提前发起RAG检索](../conferences/icml-2026/cards/5801-5900.md#zhang26eu-inference) · Predictive Prefetching for Retrieval-Augmented Generation
 - [按当前隐状态信号触发安全引导](../conferences/icml-2026/cards/5901-6000.md#zhang26hc-inference) · SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals
 - [用分布式请求检验并扩展输出多样性](../conferences/icml-2026/cards/5901-6000.md#zhang26hy-inference) · Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity
+- [批量页表提交支撑弹性连续张量](../conferences/icml-2026/cards/5901-6000.md#zhang26iu-inference) · CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization
 
 <a id="by-computer-vision"></a>
 

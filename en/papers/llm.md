@@ -495,6 +495,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26r-reinforcement-learning"></a>[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26r)
 - <a id="zhang26bw-reinforcement-learning"></a>[Reinforcement-aware Knowledge Distillation for LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bw)
 - <a id="zhang26cm-reinforcement-learning"></a>[D$^2$Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cm)
+- <a id="zhang26io-reinforcement-learning"></a>[Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26io)
 
 <a id="by-training-strategies"></a>
 
@@ -1122,6 +1123,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26eu-inference"></a>[Predictive Prefetching for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eu)
 - <a id="zhang26hc-inference"></a>[SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hc)
 - <a id="zhang26hy-inference"></a>[Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hy)
+- <a id="zhang26iu-inference"></a>[CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iu)
 
 <a id="by-representation-learning"></a>
 

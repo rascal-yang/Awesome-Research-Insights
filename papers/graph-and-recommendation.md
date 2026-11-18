@@ -221,6 +221,7 @@
 - <a id="liu26gd-evaluation"></a>[Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](../conferences/icml-2026/cards/2901-3000.md#paper-liu26gd)
 - <a id="mukherjee26a-evaluation"></a>[BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection](../conferences/icml-2026/cards/3301-3400.md#paper-mukherjee26a)
 - <a id="selvam26a-evaluation"></a>[Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking](../conferences/icml-2026/cards/3901-4000.md#paper-selvam26a)
+- <a id="zhang26ih-evaluation"></a>[Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ih)
 
 <a id="by-theory-statistics"></a>
 

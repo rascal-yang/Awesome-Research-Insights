@@ -134,6 +134,8 @@ Objectives, auxiliary supervision, and regularization.
 - [FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection](../../conferences/icml-2026/cards/5701-5800.md#zhang26bi-loss-functions) · 中文
 - [Structure-Aware Riemannian Flow Matching for Registration and Fusion of Hyperspectral and Multispectral Images](../../conferences/icml-2026/cards/5801-5900.md#zhang26df-loss-functions) · 中文
 - [Contrastive Flow Map Matching](../../conferences/icml-2026/cards/5801-5900.md#zhang26do-loss-functions) · 中文
+- [Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness](../../conferences/icml-2026/cards/5901-6000.md#zhang26id-loss-functions) · 中文
+- [SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](../../conferences/icml-2026/cards/5901-6000.md#zhang26il-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -188,6 +190,7 @@ Objectives, auxiliary supervision, and regularization.
 - [ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots](../../conferences/icml-2026/cards/4601-4700.md#wang26dk-loss-functions) · 中文
 - [Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding](../../conferences/icml-2026/cards/4701-4800.md#wang26dy-loss-functions) · 中文
 - [Counterfactual Occlusion-Aware Learning via Visibility Intervention for LiDAR Anomaly Detection](../../conferences/icml-2026/cards/5301-5400.md#yang26ax-loss-functions) · 中文
+- [A Generalist Pair-wise Progress Critic Model for Vision-Language-Action Robots](../../conferences/icml-2026/cards/5901-6000.md#zhang26if-loss-functions) · 中文
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[ReconVLA](../../papers/reconvla.md#reconvla-loss-functions) · 中文
 
 <a id="by-multimodal"></a>

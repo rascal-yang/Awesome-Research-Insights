@@ -714,6 +714,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution](../../conferences/icml-2026/cards/2901-3000.md#liu26gd-evaluation) · 中文
 - [BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection](../../conferences/icml-2026/cards/3301-3400.md#mukherjee26a-evaluation) · 中文
 - [Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking](../../conferences/icml-2026/cards/3901-4000.md#selvam26a-evaluation) · 中文
+- [Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation](../../conferences/icml-2026/cards/5901-6000.md#zhang26ih-evaluation) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -476,6 +476,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [On the Convergence of Decentralized Stochastic Minimax Optimization Algorithm with Compressed Communication](../../conferences/icml-2026/cards/5801-5900.md#zhang26fe-optimization) · 中文
 - [LS$^2$MC-GDA: A Smoothed Algorithm for Federated Stochastic Multi-Level Compositional Minimax Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26ff-optimization) · 中文
 - [Hyperparameter Transfer Laws for Non-Recurrent Multi-Path Neural Networks](../../conferences/icml-2026/cards/5901-6000.md#zhang26gp-optimization) · 中文
+- [Distributed Stochastic $K$-Level Optimization Over Networks](../../conferences/icml-2026/cards/5901-6000.md#zhang26ij-optimization) · 中文
+- [Optimal Transport with Symmetry Groups](../../conferences/icml-2026/cards/5901-6000.md#zhang26ir-optimization) · 中文
+- [Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization](../../conferences/icml-2026/cards/5901-6000.md#zhang26is-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

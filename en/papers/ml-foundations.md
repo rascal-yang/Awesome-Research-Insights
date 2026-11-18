@@ -491,6 +491,9 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26fe-optimization"></a>[On the Convergence of Decentralized Stochastic Minimax Optimization Algorithm with Compressed Communication](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fe)
 - <a id="zhang26ff-optimization"></a>[LS$^2$MC-GDA: A Smoothed Algorithm for Federated Stochastic Multi-Level Compositional Minimax Optimization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ff)
 - <a id="zhang26gp-optimization"></a>[Hyperparameter Transfer Laws for Non-Recurrent Multi-Path Neural Networks](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gp)
+- <a id="zhang26ij-optimization"></a>[Distributed Stochastic $K$-Level Optimization Over Networks](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ij)
+- <a id="zhang26ir-optimization"></a>[Optimal Transport with Symmetry Groups](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ir)
+- <a id="zhang26is-optimization"></a>[Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26is)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1303,4 +1306,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26er-theory-statistics"></a>[A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26er)
 - <a id="zhang26fq-theory-statistics"></a>[Scaling Laws for Precision in High-Dimensional Linear Regression](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fq)
 - <a id="zhang26gm-theory-statistics"></a>[When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gm)
+- <a id="zhang26ie-theory-statistics"></a>[Personalized Policy Learning through Discrete Experimentation](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ie)
 <!-- classification:end -->

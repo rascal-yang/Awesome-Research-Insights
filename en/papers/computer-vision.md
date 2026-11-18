@@ -200,6 +200,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26bi-loss-functions"></a>[FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bi)
 - <a id="zhang26df-loss-functions"></a>[Structure-Aware Riemannian Flow Matching for Registration and Fusion of Hyperspectral and Multispectral Images](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26df)
 - <a id="zhang26do-loss-functions"></a>[Contrastive Flow Map Matching](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26do)
+- <a id="zhang26id-loss-functions"></a>[Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26id)
+- <a id="zhang26il-loss-functions"></a>[SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26il)
 
 <a id="by-optimization"></a>
 

@@ -134,6 +134,8 @@
 - [保留生成源细粒度标签并重测检测头](../conferences/icml-2026/cards/5701-5800.md#zhang26bi-loss-functions) · FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection
 - [以结构度量加权flow误差并约束局部方向](../conferences/icml-2026/cards/5801-5900.md#zhang26df-loss-functions) · Structure-Aware Riemannian Flow Matching for Registration and Fusion of Hyperspectral and Multispectral Images
 - [在模型生成中间态上约束flow-map端点语义](../conferences/icml-2026/cards/5801-5900.md#zhang26do-loss-functions) · Contrastive Flow Map Matching
+- [后验软标签与频率联动的长尾鲁棒训练](../conferences/icml-2026/cards/5901-6000.md#zhang26id-loss-functions) · Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness
+- [自诱导镜像点的一致去噪](../conferences/icml-2026/cards/5901-6000.md#zhang26il-loss-functions) · SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising
 
 <a id="by-nlp"></a>
 
@@ -188,6 +190,7 @@
 - [morphology-routing-diversity](../conferences/icml-2026/cards/4601-4700.md#wang26dk-loss-functions) · ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots
 - [counterfactual-affordance-cones](../conferences/icml-2026/cards/4701-4800.md#wang26dy-loss-functions) · Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding
 - [分开约束可见交集和遮挡缺失区](../conferences/icml-2026/cards/5301-5400.md#yang26ax-loss-functions) · Counterfactual Occlusion-Aware Learning via Visibility Intervention for LiDAR Anomaly Detection
+- [相对剩余时长的成对进度监督](../conferences/icml-2026/cards/5901-6000.md#zhang26if-loss-functions) · A Generalist Pair-wise Progress Critic Model for Vision-Language-Action Robots
 - <a id="target-region-reconstruction-as-auxiliary-supervision"></a><a id="auxiliary-visual-supervision"></a>[用目标区域重建做辅助监督](../papers/reconvla.md#reconvla-loss-functions) · ReconVLA
 
 <a id="by-multimodal"></a>

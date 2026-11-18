@@ -72,6 +72,7 @@
 - <a id="wang26dk-loss-functions"></a>[ECo-MoE: Embodiment-Conditioned Mixture of Experts Increases the Evolvability of Robots](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dk)
 - <a id="wang26dy-loss-functions"></a>[Learning Attribute–Affordance Hierarchies in Hyperbolic Space for Open-Vocabulary 3D Object Affordance Grounding](../conferences/icml-2026/cards/4701-4800.md#paper-wang26dy)
 - <a id="yang26ax-loss-functions"></a>[Counterfactual Occlusion-Aware Learning via Visibility Intervention for LiDAR Anomaly Detection](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ax)
+- <a id="zhang26if-loss-functions"></a>[A Generalist Pair-wise Progress Critic Model for Vision-Language-Action Robots](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26if)
 - <a id="reconvla-loss-functions"></a><a id="reconvla-modules"></a>[ReconVLA](reconvla.md#paper-reconvla)
 
 <a id="by-optimization"></a>

@@ -714,6 +714,7 @@
 - [回溯时序图节点记忆中的早期事件贡献](../conferences/icml-2026/cards/2901-3000.md#liu26gd-evaluation) · Towards the Explainability of Temporal Graph Networks via Memory Backtracking and Topological Attribution
 - [用最优传输审计图机器人检测器的边编辑鲁棒性](../conferences/icml-2026/cards/3301-3400.md#mukherjee26a-evaluation) · BOCLOAK: Optimal Transport-Guided Adversarial Attacks on Graph Neural Network-Based Bot Detection
 - [众包事实核查桥接排序的抗操控审计](../conferences/icml-2026/cards/3901-4000.md#selvam26a-evaluation) · Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking
+- [图合成序列上的推荐CPT条件scaling](../conferences/icml-2026/cards/5901-6000.md#zhang26ih-evaluation) · Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation
 
 <a id="by-scientific-ml"></a>
 
