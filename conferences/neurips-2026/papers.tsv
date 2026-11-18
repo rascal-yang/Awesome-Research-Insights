@@ -2815,66 +2815,66 @@ poster_id	title	paper_url	status	reason
 139675	Eyes on VLM: Benchmarking Gaze Following and Social Gaze Prediction in Vision Language Models	https://neurips.cc/virtual/2026/poster/139675	included	将几何注视定位和社会注视理解分开测试
 150550	F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation	https://neurips.cc/virtual/2026/poster/150550	included	用尺寸和形状补全给单步位姿回归加几何监督
 139472	FACBench: A Benchmark for Formal-Anchor Collisions in Multilingual Mathematical Grounding	https://neurips.cc/virtual/2026/poster/139472	included	先审计形式化锚点排序，再评价证明生成
-152471	Face Deepfake-aware Recovery via Semantic-driven Facial Representation-based Watermarking	https://neurips.cc/virtual/2026/poster/152471	pending	-
-152285	FacEDiT: Talking Head Video Editing via Facial Motion Infilling	https://neurips.cc/virtual/2026/poster/152285	pending	-
-150724	FacePhys: State of the Heart Learning	https://neurips.cc/virtual/2026/poster/150724	pending	-
-155525	FaceProbe: Recovering HDR Environment Map via Masked Diffusion and Physical Preference	https://neurips.cc/virtual/2026/poster/155525	pending	-
-154063	FACETS: Cross-Granularity Vision--Language Modeling for 3D Anomaly Detection	https://neurips.cc/virtual/2026/poster/154063	pending	-
-148617	Factor Augmented High-Dimensional SGD	https://neurips.cc/virtual/2026/poster/148617	pending	-
-156135	Factored Generative Models through Mechanism Diversity	https://neurips.cc/virtual/2026/poster/156135	pending	-
-149013	Factorized Gradients for Scalable Highly-expressive Parametric Diffeomorphisms	https://neurips.cc/virtual/2026/poster/149013	pending	-
-155234	FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery	https://neurips.cc/virtual/2026/poster/155234	pending	-
-149827	Factorized Self-Supervised Speech Tokenization	https://neurips.cc/virtual/2026/poster/149827	pending	-
-149364	Factorized Spectral Representations for Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149364	pending	-
-153530	Facts Don't Speak Louder than Words: The Behavioral Essence of Long-CoT Distillation	https://neurips.cc/virtual/2026/poster/153530	pending	-
-152324	Factual recall in linear associative memories: sharp asymptotics and mechanistic insights	https://neurips.cc/virtual/2026/poster/152324	pending	-
-149903	FADE: Fractional Anomalous Dynamics Extrapolation for Training-Free Diffusion Transformers Acceleration	https://neurips.cc/virtual/2026/poster/149903	pending	-
-149405	Fail-Closed Alignment for Large Language Models	https://neurips.cc/virtual/2026/poster/149405	pending	-
-155737	Failing Forward: Adaptive Failure-Informed Learning for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155737	pending	-
-152161	Failing to Falsify: Evaluating and Mitigating Confirmation Bias in Language Models	https://neurips.cc/virtual/2026/poster/152161	pending	-
-153631	Failure-Band Authorization for Filtered Retrieval	https://neurips.cc/virtual/2026/poster/153631	pending	-
-149263	Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation	https://neurips.cc/virtual/2026/poster/149263	pending	-
-155445	Fair Bubble Sort: Provably Optimal Fair Ranking with Continuous Sensitive Attributes	https://neurips.cc/virtual/2026/poster/155445	pending	-
-154171	Fair Division of Work in Collaborative Mean Estimation via Bargaining	https://neurips.cc/virtual/2026/poster/154171	pending	-
-148409	FairMT: Fairness for Heterogeneous Multi-Task Learning	https://neurips.cc/virtual/2026/poster/148409	pending	-
-149831	Fairness Failure Modes of Multimodal LLMs	https://neurips.cc/virtual/2026/poster/149831	pending	-
-150117	Fairness in limited resource prediction-driven decisions	https://neurips.cc/virtual/2026/poster/150117	pending	-
-153829	Fair Range k-Supplier Clustering in Offline and Streaming Models	https://neurips.cc/virtual/2026/poster/153829	pending	-
-148629	FairSplit: Decomposing the Embedding Space for Fair Classification	https://neurips.cc/virtual/2026/poster/148629	pending	-
-151993	FairTune Market: A Fair and Trustworthy Marketplace for Fine-Tuned LLMs via Posted-Price & Proper-Scoring Mechanisms	https://neurips.cc/virtual/2026/poster/151993	pending	-
-150604	Faithful Embeddings of Irregular and Asynchronous Data for Online Log-NCDEs	https://neurips.cc/virtual/2026/poster/150604	pending	-
-154238	FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation	https://neurips.cc/virtual/2026/poster/154238	pending	-
-139844	Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth	https://neurips.cc/virtual/2026/poster/139844	pending	-
-149124	FaithSieve: Fine-Grained Evaluation of Math Proofs with Faithful Formal Evidence	https://neurips.cc/virtual/2026/poster/149124	pending	-
-138979	FakeParts: a New Family of AI-Generated Video Forgeries	https://neurips.cc/virtual/2026/poster/138979	pending	-
-149554	FA-LAM: Focus-Aware Large Avatar Model for One-Shot 4D Animatable Gaussian Head	https://neurips.cc/virtual/2026/poster/149554	pending	-
-150365	FalconPerception-HD: High Density Perception via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150365	pending	-
-150872	Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling	https://neurips.cc/virtual/2026/poster/150872	pending	-
-151030	FAME: Forecasting Academic Impact via Continuous-Time Manifold Evolution	https://neurips.cc/virtual/2026/poster/151030	pending	-
-151260	FARE: Forensic Acceptance Region Estimation for Catching Bait-and-Switch Image Generators	https://neurips.cc/virtual/2026/poster/151260	pending	-
-148285	FASD: Hardware Acceleration for Multi-AI-Agent Discussion	https://neurips.cc/virtual/2026/poster/148285	pending	-
-149237	FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization	https://neurips.cc/virtual/2026/poster/149237	pending	-
-151229	Fast 4D Mesh Generation by Spatio-Temporal Attention Chains	https://neurips.cc/virtual/2026/poster/151229	pending	-
-155794	Fast Accurate Quantum Monte Carlo without Metropolis Adjustment	https://neurips.cc/virtual/2026/poster/155794	pending	-
-149617	Fast Algorithms for the Label Propagation Operator on Signed Graphs	https://neurips.cc/virtual/2026/poster/149617	pending	-
-149973	Fast Alignment of Embeddings: Computational Guarantees for Anisotropic Procrustes-Wasserstein	https://neurips.cc/virtual/2026/poster/149973	pending	-
-151812	Fast and Accurate Probing of In-Training LLMs' Downstream Performances	https://neurips.cc/virtual/2026/poster/151812	pending	-
-154587	Fast and Consistent Structure Learning in Graphical Models via Approximate Cross-Validation	https://neurips.cc/virtual/2026/poster/154587	pending	-
-152237	Fast and slow gradient descent dynamics of logistic regression through weak alignment	https://neurips.cc/virtual/2026/poster/152237	pending	-
-156051	Fast and Stable Gradient Approximation for Bilinear Forms of Hermitian Matrix Functions	https://neurips.cc/virtual/2026/poster/156051	pending	-
-150772	Fast and Stable Triangular Inversion for Delta-Rule Linear Transformers	https://neurips.cc/virtual/2026/poster/150772	pending	-
-152691	Fast Approximate $\ell_p$ Chamfer Distance via Lopsided Embeddings and Structured JL	https://neurips.cc/virtual/2026/poster/152691	pending	-
-149330	FAST-Brain: A Flow-Aligned Spatio-Temporal Surrogate Brain Model	https://neurips.cc/virtual/2026/poster/149330	pending	-
-156099	Fast Diverse Nearest Neighbor Search	https://neurips.cc/virtual/2026/poster/156099	pending	-
-154725	Fast-dLLM++: Fr\'{e}chet Profile Decoding for Faster Diffusion LLM Inference	https://neurips.cc/virtual/2026/poster/154725	pending	-
-151622	FastDSAC: Unlocking the Potential of Maximum Entropy RL in High-Dimensional Humanoid Control	https://neurips.cc/virtual/2026/poster/151622	pending	-
-153729	Faster Dynamic Graph Clustering with Hierarchical Graph Contraction	https://neurips.cc/virtual/2026/poster/153729	pending	-
-152615	Faster Rates For  Federated Variational Inequalities	https://neurips.cc/virtual/2026/poster/152615	pending	-
-156001	FASTER: Rethinking Real-Time Flow VLAs	https://neurips.cc/virtual/2026/poster/156001	pending	-
-149442	FASTER: Value-Guided Sampling for Fast RL	https://neurips.cc/virtual/2026/poster/149442	pending	-
-153523	Fast Gauss-Newton for Multiclass Cross-Entropy	https://neurips.cc/virtual/2026/poster/153523	pending	-
-150502	Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction	https://neurips.cc/virtual/2026/poster/150502	pending	-
-152762	Fast Learning Rates for Physics-Informed Kernel Methods	https://neurips.cc/virtual/2026/poster/152762	pending	-
+152471	Face Deepfake-aware Recovery via Semantic-driven Facial Representation-based Watermarking	https://neurips.cc/virtual/2026/poster/152471	included	用语义分量承载身份恢复信息
+152285	FacEDiT: Talking Head Video Editing via Facial Motion Infilling	https://neurips.cc/virtual/2026/poster/152285	included	用普通视频的遮挡运动片段替代成对编辑监督
+150724	FacePhys: State of the Heart Learning	https://neurips.cc/virtual/2026/poster/150724	included	用可传递状态积累微弱的跨帧周期信号
+155525	FaceProbe: Recovering HDR Environment Map via Masked Diffusion and Physical Preference	https://neurips.cc/virtual/2026/poster/155525	included	保留实测画面外围，把不可见照明建模为条件补全
+154063	FACETS: Cross-Granularity Vision--Language Modeling for 3D Anomaly Detection	https://neurips.cc/virtual/2026/poster/154063	included	保留原始点级特征并用语言对齐粗粒度异常
+148617	Factor Augmented High-Dimensional SGD	https://neurips.cc/virtual/2026/poster/148617	included	在高维流式 SGD 中显式建模潜因子估计误差
+156135	Factored Generative Models through Mechanism Diversity	https://neurips.cc/virtual/2026/poster/156135	included	让条件变量改变生成机制，并用雅可比对比促进解耦
+149013	Factorized Gradients for Scalable Highly-expressive Parametric Diffeomorphisms	https://neurips.cc/virtual/2026/poster/149013	included	将连续变换的轨迹积分与参数投影分开
+155234	FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery	https://neurips.cc/virtual/2026/poster/155234	included	稳定主体用回归，模糊关节用概率生成
+149827	Factorized Self-Supervised Speech Tokenization	https://neurips.cc/virtual/2026/poster/149827	included	聚类前从语音特征剥离说话人与录音条件
+149364	Factorized Spectral Representations for Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149364	included	把转移按状态、动作和下一状态拆成三模张量
+153530	Facts Don't Speak Louder than Words: The Behavioral Essence of Long-CoT Distillation	https://neurips.cc/virtual/2026/poster/153530	included	分开评估推理过程行为与新增事实的蒸馏收益
+152324	Factual recall in linear associative memories: sharp asymptotics and mechanistic insights	https://neurips.cc/virtual/2026/poster/152324	included	估计严格检索容量时计入每条关联的全部竞争输出
+149903	FADE: Fractional Anomalous Dynamics Extrapolation for Training-Free Diffusion Transformers Acceleration	https://neurips.cc/virtual/2026/poster/149903	included	缓存间隔内用分数阶动力学外推扩散特征
+149405	Fail-Closed Alignment for Large Language Models	https://neurips.cc/virtual/2026/poster/149405	included	用多个相互独立的安全路径降低单点失效
+155737	Failing Forward: Adaptive Failure-Informed Learning for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155737	included	从策略自身失败轨迹学习负向动作引导
+152161	Failing to Falsify: Evaluating and Mitigating Confirmation Bias in Language Models	https://neurips.cc/virtual/2026/poster/152161	included	主动提出反例来测试模型假设
+153631	Failure-Band Authorization for Filtered Retrieval	https://neurips.cc/virtual/2026/poster/153631	included	排名不确定时对候选检索计划做校准和回退
+149263	Failure Profiling and Reachable Trajectory Selection for Reasoning Distillation	https://neurips.cc/virtual/2026/poster/149263	included	按学生失败模式选择其可达的正确教师轨迹
+155445	Fair Bubble Sort: Provably Optimal Fair Ranking with Continuous Sensitive Attributes	https://neurips.cc/virtual/2026/poster/155445	included	直接约束连续敏感属性和排名间的秩相关
+154171	Fair Division of Work in Collaborative Mean Estimation via Bargaining	https://neurips.cc/virtual/2026/poster/154171	included	按采集成本和方差分配样本量
+148409	FairMT: Fairness for Heterogeneous Multi-Task Learning	https://neurips.cc/virtual/2026/poster/148409	included	将异构任务的群体差距归一再分配约束压力
+149831	Fairness Failure Modes of Multimodal LLMs	https://neurips.cc/virtual/2026/poster/149831	included	区分信息充足时过度拒答与歧义时不当断言
+150117	Fairness in limited resource prediction-driven decisions	https://neurips.cc/virtual/2026/poster/150117	included	在容量约束下扫描公平正则强度
+153829	Fair Range k-Supplier Clustering in Offline and Streaming Models	https://neurips.cc/virtual/2026/poster/153829	included	中心群体配额重叠时单独估计计算代价
+148629	FairSplit: Decomposing the Embedding Space for Fair Classification	https://neurips.cc/virtual/2026/poster/148629	included	将敏感信息单独编码并约束预测子空间的统计依赖
+151993	FairTune Market: A Fair and Trustworthy Marketplace for Fine-Tuned LLMs via Posted-Price & Proper-Scoring Mechanisms	https://neurips.cc/virtual/2026/poster/151993	included	用采购后可验证表现校正模型供方的风格自报
+150604	Faithful Embeddings of Irregular and Asynchronous Data for Online Log-NCDEs	https://neurips.cc/virtual/2026/poster/150604	included	以事件增量编码替代对观测变量的插值
+154238	FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation	https://neurips.cc/virtual/2026/poster/154238	included	在授权人物视频生成中单独建模姿态与身份一致性
+139844	Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth	https://neurips.cc/virtual/2026/poster/139844	included	用已知中间计算真值验证思维链忠实度指标
+149124	FaithSieve: Fine-Grained Evaluation of Math Proofs with Faithful Formal Evidence	https://neurips.cc/virtual/2026/poster/149124	included	形式证明结果须经语义对齐才纳入首错判定
+138979	FakeParts: a New Family of AI-Generated Video Forgeries	https://neurips.cc/virtual/2026/poster/138979	included	将媒体检测器在整段合成与局部篡改场景下分别验收
+149554	FA-LAM: Focus-Aware Large Avatar Model for One-Shot 4D Animatable Gaussian Head	https://neurips.cc/virtual/2026/poster/149554	included	将大视角补全和动画目标分阶段训练
+150365	FalconPerception-HD: High Density Perception via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150365	included	直接对集合级漏检和误检给奖励
+150872	Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling	https://neurips.cc/virtual/2026/poster/150872	included	先将异构变量对齐到共享潜原型再建模交互
+151030	FAME: Forecasting Academic Impact via Continuous-Time Manifold Evolution	https://neurips.cc/virtual/2026/poster/151030	included	用时间外预测检查模型能否识别高影响论文
+151260	FARE: Forensic Acceptance Region Estimation for Catching Bait-and-Switch Image Generators	https://neurips.cc/virtual/2026/poster/151260	included	对已登记生成服务校准验收区间并持续验证
+148285	FASD: Hardware Acceleration for Multi-AI-Agent Discussion	https://neurips.cc/virtual/2026/poster/148285	included	按交互图负载选择代理激活剪枝与硬件映射
+149237	FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization	https://neurips.cc/virtual/2026/poster/149237	included	将可替换服装条件与应保留的运动历史分开缓存
+151229	Fast 4D Mesh Generation by Spatio-Temporal Attention Chains	https://neurips.cc/virtual/2026/poster/151229	included	复用生成骨干内部早期对应以省去显式网格匹配
+155794	Fast Accurate Quantum Monte Carlo without Metropolis Adjustment	https://neurips.cc/virtual/2026/poster/155794	included	按有限预算比较有无 MH 修正
+149617	Fast Algorithms for the Label Propagation Operator on Signed Graphs	https://neurips.cc/virtual/2026/poster/149617	included	用随机森林近似带符号标签传播算子
+149973	Fast Alignment of Embeddings: Computational Guarantees for Anisotropic Procrustes-Wasserstein	https://neurips.cc/virtual/2026/poster/149973	included	各向异性明显时先估计主方向
+151812	Fast and Accurate Probing of In-Training LLMs' Downstream Performances	https://neurips.cc/virtual/2026/poster/151812	included	用检查点探针筛选需要生成式复评的时点
+154587	Fast and Consistent Structure Learning in Graphical Models via Approximate Cross-Validation	https://neurips.cc/virtual/2026/poster/154587	included	为稀疏图恢复采用近似交叉验证
+152237	Fast and slow gradient descent dynamics of logistic regression through weak alignment	https://neurips.cc/virtual/2026/poster/152237	included	按快慢阶段分析逻辑回归停止时间
+156051	Fast and Stable Gradient Approximation for Bilinear Forms of Hermitian Matrix Functions	https://neurips.cc/virtual/2026/poster/156051	included	用 Lanczos 残差监控梯度近似
+150772	Fast and Stable Triangular Inversion for Delta-Rule Linear Transformers	https://neurips.cc/virtual/2026/poster/150772	included	同时按数值准确性和硬件效率选三角求逆
+152691	Fast Approximate $\ell_p$ Chamfer Distance via Lopsided Embeddings and Structured JL	https://neurips.cc/virtual/2026/poster/152691	included	按范数选择点云距离近似
+149330	FAST-Brain: A Flow-Aligned Spatio-Temporal Surrogate Brain Model	https://neurips.cc/virtual/2026/poster/149330	included	按信号本征维度选用时空代理模型
+156099	Fast Diverse Nearest Neighbor Search	https://neurips.cc/virtual/2026/poster/156099	included	按类别分桶以减少多样最近邻检索开销
+154725	Fast-dLLM++: Fr\'{e}chet Profile Decoding for Faster Diffusion LLM Inference	https://neurips.cc/virtual/2026/poster/154725	included	按全体置信度轮廓确定并行提交集合
+151622	FastDSAC: Unlocking the Potential of Maximum Entropy RL in High-Dimensional Humanoid Control	https://neurips.cc/virtual/2026/poster/151622	included	高速全身控制中按动作维度分配熵
+153729	Faster Dynamic Graph Clustering with Hierarchical Graph Contraction	https://neurips.cc/virtual/2026/poster/153729	included	按查询频率选择层次图收缩深度
+152615	Faster Rates For  Federated Variational Inequalities	https://neurips.cc/virtual/2026/poster/152615	included	局部外梯度漂移较大时考虑近端修正
+156001	FASTER: Rethinking Real-Time Flow VLAs	https://neurips.cc/virtual/2026/poster/156001	included	按动作时域优先生成先执行的动作
+149442	FASTER: Value-Guided Sampling for Fast RL	https://neurips.cc/virtual/2026/poster/149442	included	在去噪尚未完成时筛除低价值动作
+153523	Fast Gauss-Newton for Multiclass Cross-Entropy	https://neurips.cc/virtual/2026/poster/153523	included	类别较多时只保留真类对其余类的曲率
+150502	Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction	https://neurips.cc/virtual/2026/poster/150502	included	用轻量门控挑选需保留的 KV 项
+152762	Fast Learning Rates for Physics-Informed Kernel Methods	https://neurips.cc/virtual/2026/poster/152762	included	微分数据达到饱和阈值后增加函数值观测
 153596	Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching	https://neurips.cc/virtual/2026/poster/153596	pending	-
 149055	Fast Rates for Offline Contextual Bandits with Forward-KL Regularization under Single-Policy Concentrability	https://neurips.cc/virtual/2026/poster/149055	included	首批暂收录，详见会议索引与论文卡。
 148197	Fast Reconstruction of Exact Maxwell Dynamics from Sparse Data	https://neurips.cc/virtual/2026/poster/148197	pending	-
