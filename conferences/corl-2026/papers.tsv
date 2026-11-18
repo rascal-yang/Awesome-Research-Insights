@@ -92,9 +92,9 @@ number	openreview_id	title	paper_url	reason	status
 91	Gpc0nCixhZ	Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations	https://openreview.net/forum?id=Gpc0nCixhZ		pending
 92	2vx7I6aRPS	PIVOT: Policy Improvement via Trust-Region Optimization from Deployment Experience	https://openreview.net/forum?id=2vx7I6aRPS	在流匹配后训练中按带符号优势吸引或排斥部署数据	included
 93	656PH9MVla	Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies	https://openreview.net/forum?id=656PH9MVla	用共享部署经验估计分布价值，再提取流策略	included
-94	VVdYxLGhxH	DIQL:Distributional Implicit Q Learning for Offline to Online Reinforcement Learning	https://openreview.net/forum?id=VVdYxLGhxH		pending
-95	qx5mPYiXVi	Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning	https://openreview.net/forum?id=qx5mPYiXVi		pending
-96	aZ2Ojk8zxd	Task-Space Imitation Guidance for Efficient Reinforcement Learning	https://openreview.net/forum?id=aZ2Ojk8zxd		pending
+94	VVdYxLGhxH	DIQL:Distributional Implicit Q Learning for Offline to Online Reinforcement Learning	https://openreview.net/forum?id=VVdYxLGhxH	根据数据支持程度按状态选择乐观分位	included
+95	qx5mPYiXVi	Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning	https://openreview.net/forum?id=qx5mPYiXVi	用全局任务进度和局部动作排序分别诊断价值函数	included
+96	aZ2Ojk8zxd	Task-Space Imitation Guidance for Efficient Reinforcement Learning	https://openreview.net/forum?id=aZ2Ojk8zxd	用模仿策略提供末端任务进度奖励而非直接执行其动作	included
 97	ar3eWq6mh4	UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning	https://openreview.net/forum?id=ar3eWq6mh4		pending
 98	TPeVwyCt8w	Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation	https://openreview.net/forum?id=TPeVwyCt8w		pending
 99	kCeFEyLOuW	PAWN: Preference-Aware Semantic NFT for Online Reinforcement Learning of Flow-based VLAs	https://openreview.net/forum?id=kCeFEyLOuW		pending
