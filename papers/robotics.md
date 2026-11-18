@@ -232,6 +232,7 @@
 - <a id="tarale26a-representation-learning"></a>[Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data](../conferences/icml-2026/cards/4401-4500.md#paper-tarale26a)
 - <a id="wang26er-representation-learning"></a>[DADP: Domain Adaptive Diffusion Policy](../conferences/icml-2026/cards/4701-4800.md#paper-wang26er)
 - <a id="yang26cf-representation-learning"></a>[PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cf)
+- <a id="zhang26ec-representation-learning"></a>[DiLA: Disentangled Latent Action World Models](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ec)
 
 <a id="by-evaluation"></a>
 

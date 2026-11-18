@@ -393,4 +393,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="wei26v-theory-statistics"></a>[Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26v)
 - <a id="xu26o-theory-statistics"></a>[Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26o)
 - <a id="xu26bz-theory-statistics"></a>[Doubly Robust Distributionally Robust Offline Contextual Pricing](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bz)
+- <a id="zhang26dy-theory-statistics"></a>[Compositional Behavioral Semantics for State Abstraction in Reinforcement Learning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dy)
 <!-- classification:end -->

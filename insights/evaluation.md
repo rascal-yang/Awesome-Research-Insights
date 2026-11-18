@@ -378,6 +378,7 @@
 - [在阻塞式流式记忆中分开存储与LLM维护成本](../conferences/icml-2026/cards/5801-5900.md#zhang26cw-evaluation) · Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs
 - [按adapter驻留槽约束入口以控制LoRA尾延迟](../conferences/icml-2026/cards/5801-5900.md#zhang26dg-evaluation) · CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving
 - [在解码参数和双向上下文下联合评估DLM遗忘](../conferences/icml-2026/cards/5801-5900.md#zhang26di-evaluation) · Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning
+- [把语义cache命中与回答完整性分开审计](../conferences/icml-2026/cards/5801-5900.md#zhang26dt-evaluation) · From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching
 
 <a id="by-computer-vision"></a>
 
@@ -616,6 +617,8 @@
 - [分离视觉检索预处理的oracle与agent差距](../conferences/icml-2026/cards/5701-5800.md#zeng26w-evaluation) · Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation
 - [让空间QA随实际frame预算重标](../conferences/icml-2026/cards/5701-5800.md#zhang26o-evaluation) · ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning
 - [CLIP测试时防御的指示量失配](../conferences/icml-2026/cards/5801-5900.md#zhang26cq-evaluation) · You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses
+- [按真实压缩路径评测视觉鲁棒性](../conferences/icml-2026/cards/5801-5900.md#zhang26dl-evaluation) · On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression
+- [用单模态均可答的冲突题测模态依赖](../conferences/icml-2026/cards/5801-5900.md#zhang26ed-evaluation) · Evaluating and Steering Modality Preferences in Multi-modal LLMs
 
 <a id="by-ml-foundations"></a>
 

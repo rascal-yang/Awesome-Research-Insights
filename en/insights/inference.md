@@ -512,6 +512,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening](../../conferences/icml-2026/cards/5701-5800.md#zhang26z-inference) · 中文
 - [Comp-Attn: Present-and-Align Attention for Compositional Video Generation](../../conferences/icml-2026/cards/5701-5800.md#zhang26ac-inference) · 中文
 - [Trajectory-Stabilized Inference for Diffusion-Based Video Inpainting](../../conferences/icml-2026/cards/5801-5900.md#zhang26cx-inference) · 中文
+- [Adaptive Visual Autoregressive Acceleration via Dual-Linkage Entropy Analysis](../../conferences/icml-2026/cards/5801-5900.md#zhang26dq-inference) · 中文
+- [Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26du-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -716,6 +718,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation](../../conferences/icml-2026/cards/5501-5600.md#yoo26a-inference) · 中文
 - [Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../conferences/icml-2026/cards/5501-5600.md#yu26c-inference) · 中文
 - [Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation](../../conferences/icml-2026/cards/5801-5900.md#zhang26cg-inference) · 中文
+- [Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack](../../conferences/icml-2026/cards/5801-5900.md#zhang26ee-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

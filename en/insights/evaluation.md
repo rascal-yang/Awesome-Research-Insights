@@ -378,6 +378,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26cw-evaluation) · 中文
 - [CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving](../../conferences/icml-2026/cards/5801-5900.md#zhang26dg-evaluation) · 中文
 - [Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning](../../conferences/icml-2026/cards/5801-5900.md#zhang26di-evaluation) · 中文
+- [From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](../../conferences/icml-2026/cards/5801-5900.md#zhang26dt-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -616,6 +617,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation](../../conferences/icml-2026/cards/5701-5800.md#zeng26w-evaluation) · 中文
 - [ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zhang26o-evaluation) · 中文
 - [You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses](../../conferences/icml-2026/cards/5801-5900.md#zhang26cq-evaluation) · 中文
+- [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](../../conferences/icml-2026/cards/5801-5900.md#zhang26dl-evaluation) · 中文
+- [Evaluating and Steering Modality Preferences in Multi-modal LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26ed-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

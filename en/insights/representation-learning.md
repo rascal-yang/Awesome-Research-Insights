@@ -153,6 +153,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data](../../conferences/icml-2026/cards/4401-4500.md#tarale26a-representation-learning) · 中文
 - [DADP: Domain Adaptive Diffusion Policy](../../conferences/icml-2026/cards/4701-4800.md#wang26er-representation-learning) · 中文
 - [PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](../../conferences/icml-2026/cards/5401-5500.md#yang26cf-representation-learning) · 中文
+- [DiLA: Disentangled Latent Action World Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26ec-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 

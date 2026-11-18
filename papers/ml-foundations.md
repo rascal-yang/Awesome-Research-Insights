@@ -625,6 +625,7 @@
 - <a id="yang26bq-data-strategies"></a>[Data Agent: Learning to Select Data via End-to-End Dynamic Optimization](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bq)
 - <a id="yu26aq-data-strategies"></a>[AvAtar: Learning to Align via Active Optimal Transport](../conferences/icml-2026/cards/5601-5700.md#paper-yu26aq)
 - <a id="zhang26bv-data-strategies"></a>[MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bv)
+- <a id="zhang26dz-data-strategies"></a>[MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dz)
 
 <a id="by-inference"></a>
 

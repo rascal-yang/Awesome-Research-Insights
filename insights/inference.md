@@ -512,6 +512,8 @@
 - [双向motion残差的投影融合](../conferences/icml-2026/cards/5701-5800.md#zhang26z-inference) · Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening
 - [主体条件插值与IoU反馈注意力](../conferences/icml-2026/cards/5701-5800.md#zhang26ac-inference) · Comp-Attn: Present-and-Align Attention for Compositional Video Generation
 - [累积运动对齐漂移后才校正视频latent](../conferences/icml-2026/cards/5801-5900.md#zhang26cx-inference) · Trajectory-Stabilized Inference for Diffusion-Based Video Inpainting
+- [按scale熵增减速启动VAR剪枝](../conferences/icml-2026/cards/5801-5900.md#zhang26dq-inference) · Adaptive Visual Autoregressive Acceleration via Dual-Linkage Entropy Analysis
+- [先点估计再重加噪调逆问题感知权衡](../conferences/icml-2026/cards/5801-5900.md#zhang26du-inference) · Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -716,6 +718,7 @@
 - [仅扰动padding条件槽控制生成多样性](../conferences/icml-2026/cards/5501-5600.md#yoo26a-inference) · PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation
 - [高风险头的有限精度压平与双路径融合](../conferences/icml-2026/cards/5501-5600.md#yu26c-inference) · Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding
 - [视觉敏感token的选择性隐状态控制](../conferences/icml-2026/cards/5801-5900.md#zhang26cg-inference) · Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation
+- [以hidden-norm梯度定位并抑制异常视觉tokens](../conferences/icml-2026/cards/5801-5900.md#zhang26ee-inference) · Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack
 
 <a id="by-ml-foundations"></a>
 

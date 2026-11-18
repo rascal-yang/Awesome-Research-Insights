@@ -199,6 +199,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zeng26c-loss-functions"></a>[Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26c)
 - <a id="zhang26bi-loss-functions"></a>[FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bi)
 - <a id="zhang26df-loss-functions"></a>[Structure-Aware Riemannian Flow Matching for Registration and Fusion of Hyperspectral and Multispectral Images](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26df)
+- <a id="zhang26do-loss-functions"></a>[Contrastive Flow Map Matching](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26do)
 
 <a id="by-optimization"></a>
 
@@ -514,6 +515,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26z-inference"></a>[Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26z)
 - <a id="zhang26ac-inference"></a>[Comp-Attn: Present-and-Align Attention for Compositional Video Generation](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ac)
 - <a id="zhang26cx-inference"></a>[Trajectory-Stabilized Inference for Diffusion-Based Video Inpainting](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cx)
+- <a id="zhang26dq-inference"></a>[Adaptive Visual Autoregressive Acceleration via Dual-Linkage Entropy Analysis](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dq)
+- <a id="zhang26du-inference"></a>[Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26du)
 
 <a id="by-representation-learning"></a>
 

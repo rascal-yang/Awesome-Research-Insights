@@ -69,6 +69,7 @@
 - [敏感度加权的任务必要性打分](../conferences/icml-2026/cards/5601-5700.md#yu26bq-loss-functions) · MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization
 - [数值judge的策略相关回归奖励](../conferences/icml-2026/cards/5701-5800.md#zhang26t-loss-functions) · REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge
 - [把on-policy输出重标为自身长度计数任务](../conferences/icml-2026/cards/5701-5800.md#zhang26al-loss-functions) · LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models
+- [用中心化surprisal调SFT并控制hint依赖](../conferences/icml-2026/cards/5801-5900.md#zhang26dp-loss-functions) · Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training
 
 <a id="by-computer-vision"></a>
 
@@ -131,6 +132,7 @@
 - [重叠query修正与旧类秩蒸馏](../conferences/icml-2026/cards/5701-5800.md#zeng26c-loss-functions) · Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection
 - [保留生成源细粒度标签并重测检测头](../conferences/icml-2026/cards/5701-5800.md#zhang26bi-loss-functions) · FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection
 - [以结构度量加权flow误差并约束局部方向](../conferences/icml-2026/cards/5801-5900.md#zhang26df-loss-functions) · Structure-Aware Riemannian Flow Matching for Registration and Fusion of Hyperspectral and Multispectral Images
+- [在模型生成中间态上约束flow-map端点语义](../conferences/icml-2026/cards/5801-5900.md#zhang26do-loss-functions) · Contrastive Flow Map Matching
 
 <a id="by-nlp"></a>
 
@@ -241,6 +243,7 @@
 - [把teacher视觉增量与学生语言先验分开蒸馏](../conferences/icml-2026/cards/5501-5600.md#yoon26f-loss-functions) · Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding
 - [用attention-value均值替换构造视觉对照](../conferences/icml-2026/cards/5601-5700.md#yu26at-loss-functions) · CFPO: Counterfactual Policy Optimization for Multimodal Reasoning
 - [用去对角Gram surrogate替代高维协方差正则](../conferences/icml-2026/cards/5801-5900.md#zhang26bp-loss-functions) · UniFast-HGR: Scalable and Efficient Maximal Correlation for Multimodal Models
+- [对编辑区差异和非编辑区一致性分别正则](../conferences/icml-2026/cards/5801-5900.md#zhang26dw-loss-functions) · In-Context Generation with Regional Constraints for Instructional Video Editing
 
 <a id="by-ml-foundations"></a>
 
@@ -327,6 +330,7 @@
 - [跨稀疏率监督解释边](../conferences/icml-2026/cards/5001-5100.md#wu26j-loss-functions) · Multi-scale Explainer for Graph Neural Networks
 - [改变同配性但约束拓扑扰动的图增强](../conferences/icml-2026/cards/5201-5300.md#xu26a-loss-functions) · SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation
 - [在离线SubTB中惩罚无支持流量](../conferences/icml-2026/cards/5601-5700.md#yu26am-loss-functions) · Improving LLM-Based Recommenders with Conservative Generative Flow Networks
+- [对齐结构与embedding的transport plans](../conferences/icml-2026/cards/5801-5900.md#zhang26ds-loss-functions) · SAOT: Self-Supervised Continual Graph Learning with Structure-Aware Optimal Transport
 
 <a id="by-scientific-ml"></a>
 

@@ -137,6 +137,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yoon26f-loss-functions"></a>[Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](../../conferences/icml-2026/cards/5501-5600.md#paper-yoon26f)
 - <a id="yu26at-loss-functions"></a>[CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26at)
 - <a id="zhang26bp-loss-functions"></a>[UniFast-HGR: Scalable and Efficient Maximal Correlation for Multimodal Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bp)
+- <a id="zhang26dw-loss-functions"></a>[In-Context Generation with Regional Constraints for Instructional Video Editing](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dw)
 
 <a id="by-optimization"></a>
 
@@ -218,6 +219,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zeng26b-reinforcement-learning"></a>[POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26b)
 - <a id="zhang26aw-reinforcement-learning"></a>[AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26aw)
 - <a id="zhang26bt-reinforcement-learning"></a>[How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bt)
+- <a id="zhang26dr-reinforcement-learning"></a>[Multimodal Meta-Verifier with Explicit Structured Recalibration](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dr)
 
 <a id="by-training-strategies"></a>
 
@@ -431,6 +433,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yoo26a-inference"></a>[PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation](../../conferences/icml-2026/cards/5501-5600.md#paper-yoo26a)
 - <a id="yu26c-inference"></a>[Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26c)
 - <a id="zhang26cg-inference"></a>[Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cg)
+- <a id="zhang26ee-inference"></a>[Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ee)
 
 <a id="by-representation-learning"></a>
 
@@ -583,6 +586,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zeng26w-evaluation"></a>[Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26w)
 - <a id="zhang26o-evaluation"></a>[ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26o)
 - <a id="zhang26cq-evaluation"></a>[You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cq)
+- <a id="zhang26dl-evaluation"></a>[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dl)
+- <a id="zhang26ed-evaluation"></a>[Evaluating and Steering Modality Preferences in Multi-modal LLMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ed)
 
 <a id="by-theory-statistics"></a>
 

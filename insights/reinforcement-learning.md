@@ -478,6 +478,7 @@
 - [按相同对象集合归组的坐标优势](../conferences/icml-2026/cards/5701-5800.md#zeng26b-reinforcement-learning) · POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning
 - [在优势空间残差化推理奖励再合成更新](../conferences/icml-2026/cards/5701-5800.md#zhang26aw-reinforcement-learning) · AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection
 - [对中间图同时奖励可执行与可读及语义对齐](../conferences/icml-2026/cards/5801-5900.md#zhang26bt-reinforcement-learning) · How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning
+- [将判断与错误定位分别奖励训练](../conferences/icml-2026/cards/5801-5900.md#zhang26dr-reinforcement-learning) · Multimodal Meta-Verifier with Explicit Structured Recalibration
 
 <a id="by-ml-foundations"></a>
 

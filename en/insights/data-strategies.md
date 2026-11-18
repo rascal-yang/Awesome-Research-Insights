@@ -249,6 +249,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Data Agent: Learning to Select Data via End-to-End Dynamic Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26bq-data-strategies) · 中文
 - [AvAtar: Learning to Align via Active Optimal Transport](../../conferences/icml-2026/cards/5601-5700.md#yu26aq-data-strategies) · 中文
 - [MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](../../conferences/icml-2026/cards/5801-5900.md#zhang26bv-data-strategies) · 中文
+- [MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection](../../conferences/icml-2026/cards/5801-5900.md#zhang26dz-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

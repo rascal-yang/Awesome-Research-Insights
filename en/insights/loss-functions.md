@@ -69,6 +69,7 @@ Objectives, auxiliary supervision, and regularization.
 - [MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](../../conferences/icml-2026/cards/5601-5700.md#yu26bq-loss-functions) · 中文
 - [REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](../../conferences/icml-2026/cards/5701-5800.md#zhang26t-loss-functions) · 中文
 - [LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26al-loss-functions) · 中文
+- [Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](../../conferences/icml-2026/cards/5801-5900.md#zhang26dp-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -131,6 +132,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection](../../conferences/icml-2026/cards/5701-5800.md#zeng26c-loss-functions) · 中文
 - [FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection](../../conferences/icml-2026/cards/5701-5800.md#zhang26bi-loss-functions) · 中文
 - [Structure-Aware Riemannian Flow Matching for Registration and Fusion of Hyperspectral and Multispectral Images](../../conferences/icml-2026/cards/5801-5900.md#zhang26df-loss-functions) · 中文
+- [Contrastive Flow Map Matching](../../conferences/icml-2026/cards/5801-5900.md#zhang26do-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -241,6 +243,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](../../conferences/icml-2026/cards/5501-5600.md#yoon26f-loss-functions) · 中文
 - [CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26at-loss-functions) · 中文
 - [UniFast-HGR: Scalable and Efficient Maximal Correlation for Multimodal Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26bp-loss-functions) · 中文
+- [In-Context Generation with Regional Constraints for Instructional Video Editing](../../conferences/icml-2026/cards/5801-5900.md#zhang26dw-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -327,6 +330,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Multi-scale Explainer for Graph Neural Networks](../../conferences/icml-2026/cards/5001-5100.md#wu26j-loss-functions) · 中文
 - [SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation](../../conferences/icml-2026/cards/5201-5300.md#xu26a-loss-functions) · 中文
 - [Improving LLM-Based Recommenders with Conservative Generative Flow Networks](../../conferences/icml-2026/cards/5601-5700.md#yu26am-loss-functions) · 中文
+- [SAOT: Self-Supervised Continual Graph Learning with Structure-Aware Optimal Transport](../../conferences/icml-2026/cards/5801-5900.md#zhang26ds-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

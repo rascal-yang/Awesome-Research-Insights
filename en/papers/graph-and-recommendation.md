@@ -76,6 +76,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="wu26j-loss-functions"></a>[Multi-scale Explainer for Graph Neural Networks](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26j)
 - <a id="xu26a-loss-functions"></a>[SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26a)
 - <a id="yu26am-loss-functions"></a>[Improving LLM-Based Recommenders with Conservative Generative Flow Networks](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26am)
+- <a id="zhang26ds-loss-functions"></a>[SAOT: Self-Supervised Continual Graph Learning with Structure-Aware Optimal Transport](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ds)
 
 <a id="by-optimization"></a>
 

@@ -249,6 +249,7 @@
 - [loss与entropy方差配权的在线选样](../conferences/icml-2026/cards/5401-5500.md#yang26bq-data-strategies) · Data Agent: Learning to Select Data via End-to-End Dynamic Optimization
 - [按全局transport效用梯度主动询问对应](../conferences/icml-2026/cards/5601-5700.md#yu26aq-data-strategies) · AvAtar: Learning to Align via Active Optimal Transport
 - [用票数margin后验分配重复标注预算](../conferences/icml-2026/cards/5801-5900.md#zhang26bv-data-strategies) · MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing
+- [沿prototype漂移方向采hard candidates](../conferences/icml-2026/cards/5801-5900.md#zhang26dz-data-strategies) · MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection
 
 <a id="by-graph-and-recommendation"></a>
 

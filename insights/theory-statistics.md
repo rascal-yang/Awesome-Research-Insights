@@ -185,6 +185,7 @@
 - [奖励MNAR的桥式评估](../conferences/icml-2026/cards/4901-5000.md#wei26v-theory-statistics) · Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random
 - [阈值lookahead的有限目标控制](../conferences/icml-2026/cards/5201-5300.md#xu26o-theory-statistics) · Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding
 - [连续动作DRO用局部双稳健矩](../conferences/icml-2026/cards/5201-5300.md#xu26bz-theory-statistics) · Doubly Robust Distributionally Robust Offline Contextual Pricing
+- [按要保的行为结构选择状态抽象条件](../conferences/icml-2026/cards/5801-5900.md#zhang26dy-theory-statistics) · Compositional Behavioral Semantics for State Abstraction in Reinforcement Learning
 
 <a id="by-robotics"></a>
 

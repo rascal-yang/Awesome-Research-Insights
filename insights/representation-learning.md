@@ -153,6 +153,7 @@
 - [movement-aligned-sensor-tokens](../conferences/icml-2026/cards/4401-4500.md#tarale26a-representation-learning) · Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data
 - [跨episode上下文解耦域因素](../conferences/icml-2026/cards/4701-4800.md#wang26er-representation-learning) · DADP: Domain Adaptive Diffusion Policy
 - [把关节参数写入稀疏体素生成表示](../conferences/icml-2026/cards/5401-5500.md#yang26cf-representation-learning) · PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World
+- [让动作瓶颈与content路径共同分工](../conferences/icml-2026/cards/5801-5900.md#zhang26ec-representation-learning) · DiLA: Disentangled Latent Action World Models
 
 <a id="by-multimodal"></a>
 

@@ -184,6 +184,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yu26bq-loss-functions"></a>[MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bq)
 - <a id="zhang26t-loss-functions"></a>[REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26t)
 - <a id="zhang26al-loss-functions"></a>[LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26al)
+- <a id="zhang26dp-loss-functions"></a>[Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dp)
 
 <a id="by-optimization"></a>
 
@@ -1500,6 +1501,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26cw-evaluation"></a>[Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cw)
 - <a id="zhang26dg-evaluation"></a>[CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dg)
 - <a id="zhang26di-evaluation"></a>[Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26di)
+- <a id="zhang26dt-evaluation"></a>[From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dt)
 
 <a id="by-theory-statistics"></a>
 
