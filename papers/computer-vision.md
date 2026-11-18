@@ -317,6 +317,7 @@
 - <a id="wu26g-training-strategies"></a>[LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution](../conferences/icml-2026/cards/5001-5100.md#paper-wu26g)
 - <a id="wu26cg-training-strategies"></a>[VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cg)
 - <a id="xie26g-training-strategies"></a>[SHERPA: Fine-tuning Segment Anything Models with Task-relevant Guidance](../conferences/icml-2026/cards/5101-5200.md#paper-xie26g)
+- <a id="xu26bm-training-strategies"></a>[PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bm)
 
 <a id="by-data-strategies"></a>
 
@@ -473,6 +474,7 @@
 - <a id="xie26ab-inference"></a>[AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion](../conferences/icml-2026/cards/5101-5200.md#paper-xie26ab)
 - <a id="xu26m-inference"></a>[Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](../conferences/icml-2026/cards/5201-5300.md#paper-xu26m)
 - <a id="xu26an-inference"></a>[Motion-Aware Caching for Efficient Autoregressive Video Generation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26an)
+- <a id="xu26be-inference"></a>[EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26be)
 
 <a id="by-representation-learning"></a>
 
@@ -606,6 +608,7 @@
 - <a id="wei26ah-evaluation"></a>[RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](../conferences/icml-2026/cards/4901-5000.md#paper-wei26ah)
 - <a id="wu26ax-evaluation"></a>[Attention Sinks in Diffusion Transformers: A Causal Analysis](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ax)
 - <a id="xiao26k-evaluation"></a>[Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26k)
+- <a id="xu26bf-evaluation"></a>[Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bf)
 
 <a id="by-theory-statistics"></a>
 

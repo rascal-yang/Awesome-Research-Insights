@@ -1023,6 +1023,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xu26y-inference"></a>[Antidistillation Fingerprinting](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26y)
 - <a id="xu26ah-inference"></a>[Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ah)
 - <a id="xu26al-inference"></a>[DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26al)
+- <a id="xu26au-inference"></a>[A Bi-metric Framework for Efficient Nearest Neighbor Search](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26au)
+- <a id="xu26bc-inference"></a>[BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bc)
 
 <a id="by-representation-learning"></a>
 
@@ -1389,6 +1391,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xie26j-evaluation"></a>[Rethinking Code Complexity Through the Lens of Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26j)
 - <a id="xiong26b-evaluation"></a>[Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26b)
 - <a id="xu26c-evaluation"></a>[Information Flow Reveals When to Trust Language Models](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26c)
+- <a id="xu26ax-evaluation"></a>[When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ax)
+- <a id="xu26bb-evaluation"></a>[A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bb)
 
 <a id="by-theory-statistics"></a>
 

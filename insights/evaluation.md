@@ -352,6 +352,8 @@
 - [控制长度后评估代码语义复杂度](../conferences/icml-2026/cards/5101-5200.md#xie26j-evaluation) · Rethinking Code Complexity Through the Lens of Large Language Models
 - [RLVR可监测性的数据与熵边界](../conferences/icml-2026/cards/5101-5200.md#xiong26b-evaluation) · Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning
 - [贡献路径与检索相关性的联合置信](../conferences/icml-2026/cards/5201-5300.md#xu26c-evaluation) · Information Flow Reveals When to Trust Language Models
+- [局部激活防御与异步评测](../conferences/icml-2026/cards/5201-5300.md#xu26ax-evaluation) · When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems
+- [双层并行与候选选择的成本边界](../conferences/icml-2026/cards/5201-5300.md#xu26bb-evaluation) · A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems
 
 <a id="by-computer-vision"></a>
 
@@ -420,6 +422,7 @@
 - [随机反演重建的训练成员审计](../conferences/icml-2026/cards/4901-5000.md#wei26ah-evaluation) · RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness
 - [扩散attention汇聚量与必要性分离](../conferences/icml-2026/cards/5001-5100.md#wu26ax-evaluation) · Attention Sinks in Diffusion Transformers: A Causal Analysis
 - [拆分图像与软标签的数据压缩比较](../conferences/icml-2026/cards/5101-5200.md#xiao26k-evaluation) · Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression
+- [标签重映射下的组指纹一致性](../conferences/icml-2026/cards/5201-5300.md#xu26bf-evaluation) · Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting
 
 <a id="by-nlp"></a>
 
@@ -572,6 +575,7 @@
 - [视觉attention评分的受限替换诊断](../conferences/icml-2026/cards/5001-5100.md#xi26e-evaluation) · Large Vision-Language Models Get Lost in Attention
 - [拒答表征与迁移表征的干预对照](../conferences/icml-2026/cards/5101-5200.md#xie26f-evaluation) · Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs
 - [几何感知的编码器与分辨率反例](../conferences/icml-2026/cards/5101-5200.md#xing26f-evaluation) · GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models
+- [语音入口的人耳与识别器双重评测](../conferences/icml-2026/cards/5201-5300.md#xu26bl-evaluation) · Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks
 
 <a id="by-ml-foundations"></a>
 

@@ -348,6 +348,8 @@
 - [按学生学习方向设计蒸馏指纹](../conferences/icml-2026/cards/5201-5300.md#xu26y-inference) · Antidistillation Fingerprinting
 - [冻结去噪器上的解掩码顺序学习](../conferences/icml-2026/cards/5201-5300.md#xu26ah-inference) · Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models
 - [决策token分支与先完成选择](../conferences/icml-2026/cards/5201-5300.md#xu26al-inference) · DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching
+- [廉价索引上的昂贵度量搜索](../conferences/icml-2026/cards/5201-5300.md#xu26au-inference) · A Bi-metric Framework for Efficient Nearest Neighbor Search
+- [同步RL空闲窗口的陈旧草稿验证](../conferences/icml-2026/cards/5201-5300.md#xu26bc-inference) · BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 
@@ -472,6 +474,7 @@
 - [掩码势场控制注意力几何](../conferences/icml-2026/cards/5101-5200.md#xie26ab-inference) · AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion
 - [以输出通道传播可验证水印](../conferences/icml-2026/cards/5201-5300.md#xu26m-inference) · Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks
 - [以帧差分配token缓存更新](../conferences/icml-2026/cards/5201-5300.md#xu26an-inference) · Motion-Aware Caching for Efficient Autoregressive Video Generation
+- [协方差缓存外推与信息锚点](../conferences/icml-2026/cards/5201-5300.md#xu26be-inference) · EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation
 
 <a id="by-nlp"></a>
 
@@ -722,6 +725,7 @@
 - [按上下文分组选择保形集合大小](../conferences/icml-2026/cards/5001-5100.md#wu26aa-inference) · Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets
 - [用可微软表达树引导符号扩散](../conferences/icml-2026/cards/5101-5200.md#xiang26d-inference) · MOD-SR: Unifying Multimodal Learning and Direct Optimization with Gradient-Guided Diffusion Model for Symbolic Regression
 - [以改进价值覆盖成本的BO停止](../conferences/icml-2026/cards/5101-5200.md#xie26c-inference) · Cost-aware Stopping for Bayesian Optimization
+- [总量预测与内部份额的分离](../conferences/icml-2026/cards/5201-5300.md#xu26av-inference) · Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation
 
 <a id="by-graph-and-recommendation"></a>
 

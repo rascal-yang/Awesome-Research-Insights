@@ -55,6 +55,7 @@
 - <a id="wang26ko-loss-functions"></a>[Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ko)
 - <a id="wu26ch-loss-functions"></a>[Distributional Inverse Reinforcement Learning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ch)
 - <a id="xiao26v-loss-functions"></a>[Offline Multi-agent Continual Cooperation via Skill Partition and Reuse](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26v)
+- <a id="xu26bk-loss-functions"></a>[Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bk)
 
 <a id="by-optimization"></a>
 

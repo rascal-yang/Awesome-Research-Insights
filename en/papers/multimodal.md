@@ -40,6 +40,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="peng26k-architecture"></a>[Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification](../../conferences/icml-2026/cards/3601-3700.md#paper-peng26k)
 - <a id="qiu26g-architecture"></a>[SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26g)
 - <a id="shen26w-architecture"></a>[LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26w)
+- <a id="xu26bh-architecture"></a>[Visual Para-Thinker: Divide-and-Conquer Reasoning for Visual Comprehension](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bh)
 
 <a id="by-modules"></a>
 
@@ -74,6 +75,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26ce-modules"></a>[Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ce)
 - <a id="wang26cj-modules"></a>[TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cj)
 - <a id="xiong26m-modules"></a>[Multimodal Fusion via Self-Consistent Task-Gradient Fields](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26m)
+- <a id="xu26bi-modules"></a>[TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bi)
 
 <a id="by-loss-functions"></a>
 
@@ -121,6 +123,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="xie26e-loss-functions"></a>[Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26e)
 - <a id="xie26y-loss-functions"></a>[FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26y)
 - <a id="xing26g-loss-functions"></a>[Native Active Perception as Reasoning for Omni-Modal Understanding](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26g)
+- <a id="xu26aw-loss-functions"></a>[Semantic-Enriched Latent Visual Reasoning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26aw)
 
 <a id="by-optimization"></a>
 
@@ -451,6 +454,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="vo26a-representation-learning"></a>[Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs](../../conferences/icml-2026/cards/4501-4600.md#paper-vo26a)
 - <a id="wang26dv-representation-learning"></a>[Universal Skeleton Understanding via Differentiable Rendering and MLLMs](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dv)
 - <a id="wang26lv-representation-learning"></a>[MiVE: Multiscale Vision-language features for reference-guided video Editing](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lv)
+- <a id="xu26az-representation-learning"></a>[Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26az)
 
 <a id="by-evaluation"></a>
 
@@ -538,6 +542,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="xi26e-evaluation"></a>[Large Vision-Language Models Get Lost in Attention](../../conferences/icml-2026/cards/5001-5100.md#paper-xi26e)
 - <a id="xie26f-evaluation"></a>[Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26f)
 - <a id="xing26f-evaluation"></a>[GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26f)
+- <a id="xu26bl-evaluation"></a>[Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bl)
 
 <a id="by-theory-statistics"></a>
 

@@ -634,6 +634,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wu26aa-inference"></a>[Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26aa)
 - <a id="xiang26d-inference"></a>[MOD-SR: Unifying Multimodal Learning and Direct Optimization with Gradient-Guided Diffusion Model for Symbolic Regression](../../conferences/icml-2026/cards/5101-5200.md#paper-xiang26d)
 - <a id="xie26c-inference"></a>[Cost-aware Stopping for Bayesian Optimization](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26c)
+- <a id="xu26av-inference"></a>[Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26av)
 
 <a id="by-representation-learning"></a>
 
@@ -1186,4 +1187,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xu26b-theory-statistics"></a>[Credibility-Aware Weighting Federated Causal Discovery for Time Series](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26b)
 - <a id="xu26v-theory-statistics"></a>[Robust Contextual Optimization with Missing Covariates](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26v)
 - <a id="xu26aq-theory-statistics"></a>[Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26aq)
+- <a id="xu26ba-theory-statistics"></a>[Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ba)
+- <a id="xu26bd-theory-statistics"></a>[To Grok Grokking: Provable Grokking in Ridge Regression](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bd)
 <!-- classification:end -->

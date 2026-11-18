@@ -352,6 +352,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Rethinking Code Complexity Through the Lens of Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#xie26j-evaluation) · 中文
 - [Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xiong26b-evaluation) · 中文
 - [Information Flow Reveals When to Trust Language Models](../../conferences/icml-2026/cards/5201-5300.md#xu26c-evaluation) · 中文
+- [When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems](../../conferences/icml-2026/cards/5201-5300.md#xu26ax-evaluation) · 中文
+- [A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](../../conferences/icml-2026/cards/5201-5300.md#xu26bb-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -420,6 +422,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](../../conferences/icml-2026/cards/4901-5000.md#wei26ah-evaluation) · 中文
 - [Attention Sinks in Diffusion Transformers: A Causal Analysis](../../conferences/icml-2026/cards/5001-5100.md#wu26ax-evaluation) · 中文
 - [Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression](../../conferences/icml-2026/cards/5101-5200.md#xiao26k-evaluation) · 中文
+- [Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting](../../conferences/icml-2026/cards/5201-5300.md#xu26bf-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -572,6 +575,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Large Vision-Language Models Get Lost in Attention](../../conferences/icml-2026/cards/5001-5100.md#xi26e-evaluation) · 中文
 - [Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs](../../conferences/icml-2026/cards/5101-5200.md#xie26f-evaluation) · 中文
 - [GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#xing26f-evaluation) · 中文
+- [Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks](../../conferences/icml-2026/cards/5201-5300.md#xu26bl-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

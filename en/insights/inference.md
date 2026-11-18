@@ -348,6 +348,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Antidistillation Fingerprinting](../../conferences/icml-2026/cards/5201-5300.md#xu26y-inference) · 中文
 - [Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models](../../conferences/icml-2026/cards/5201-5300.md#xu26ah-inference) · 中文
 - [DTS: Enhancing Large Reasoning Models via Decoding Tree Sketching](../../conferences/icml-2026/cards/5201-5300.md#xu26al-inference) · 中文
+- [A Bi-metric Framework for Efficient Nearest Neighbor Search](../../conferences/icml-2026/cards/5201-5300.md#xu26au-inference) · 中文
+- [BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26bc-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -472,6 +474,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion](../../conferences/icml-2026/cards/5101-5200.md#xie26ab-inference) · 中文
 - [Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](../../conferences/icml-2026/cards/5201-5300.md#xu26m-inference) · 中文
 - [Motion-Aware Caching for Efficient Autoregressive Video Generation](../../conferences/icml-2026/cards/5201-5300.md#xu26an-inference) · 中文
+- [EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation](../../conferences/icml-2026/cards/5201-5300.md#xu26be-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -722,6 +725,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets](../../conferences/icml-2026/cards/5001-5100.md#wu26aa-inference) · 中文
 - [MOD-SR: Unifying Multimodal Learning and Direct Optimization with Gradient-Guided Diffusion Model for Symbolic Regression](../../conferences/icml-2026/cards/5101-5200.md#xiang26d-inference) · 中文
 - [Cost-aware Stopping for Bayesian Optimization](../../conferences/icml-2026/cards/5101-5200.md#xie26c-inference) · 中文
+- [Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation](../../conferences/icml-2026/cards/5201-5300.md#xu26av-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

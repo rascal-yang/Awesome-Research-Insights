@@ -610,6 +610,8 @@
 - [跨窗口边可信度的联邦聚合](../conferences/icml-2026/cards/5201-5300.md#xu26b-theory-statistics) · Credibility-Aware Weighting Federated Causal Discovery for Time Series
 - [在缺失机制一致集合上稳健决策](../conferences/icml-2026/cards/5201-5300.md#xu26v-theory-statistics) · Robust Contextual Optimization with Missing Covariates
 - [受限子集效应的后选择置信界](../conferences/icml-2026/cards/5201-5300.md#xu26aq-theory-statistics) · Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization
+- [私有minimax值函数的无Hessian鞍点逃逸](../conferences/icml-2026/cards/5201-5300.md#xu26ba-theory-statistics) · Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization
+- [冻结特征下的初始化遗忘时标](../conferences/icml-2026/cards/5201-5300.md#xu26bd-theory-statistics) · To Grok Grokking: Provable Grokking in Ridge Regression
 
 <a id="by-graph-and-recommendation"></a>
 

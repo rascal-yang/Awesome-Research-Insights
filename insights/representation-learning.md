@@ -202,6 +202,7 @@
 - [精确Hölder聚合和层级私有后验](../conferences/icml-2026/cards/4501-4600.md#vo26a-representation-learning) · Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs
 - [task-learned-skeleton-rendering](../conferences/icml-2026/cards/4701-4800.md#wang26dv-representation-learning) · Universal Skeleton Understanding via Differentiable Rendering and MLLMs
 - [浅深VLM特征共同条件视频编辑](../conferences/icml-2026/cards/4901-5000.md#wang26lv-representation-learning) · MiVE: Multiscale Vision-language features for reference-guided video Editing
+- [学习相关误差的高斯视图融合](../conferences/icml-2026/cards/5201-5300.md#xu26az-representation-learning) · Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering
 
 <a id="by-ml-foundations"></a>
 

@@ -231,6 +231,7 @@
 - [按激活方差分配量化校准预算](../conferences/icml-2026/cards/5001-5100.md#wu26g-training-strategies) · LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution
 - [可丢弃外观适配器的运动迁移](../conferences/icml-2026/cards/5001-5100.md#wu26cg-training-strategies) · VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos
 - [在任务判别子空间施加小模型指导](../conferences/icml-2026/cards/5101-5200.md#xie26g-training-strategies) · SHERPA: Fine-tuning Segment Anything Models with Task-relevant Guidance
+- [点图x预测与纯噪声端点训练](../conferences/icml-2026/cards/5201-5300.md#xu26bm-training-strategies) · PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
 
 <a id="by-nlp"></a>
 

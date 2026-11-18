@@ -202,6 +202,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs](../../conferences/icml-2026/cards/4501-4600.md#vo26a-representation-learning) · 中文
 - [Universal Skeleton Understanding via Differentiable Rendering and MLLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26dv-representation-learning) · 中文
 - [MiVE: Multiscale Vision-language features for reference-guided video Editing](../../conferences/icml-2026/cards/4901-5000.md#wang26lv-representation-learning) · 中文
+- [Beyond Independence: Learning Correlated Views for Variational Incomplete Multi-View Clustering](../../conferences/icml-2026/cards/5201-5300.md#xu26az-representation-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

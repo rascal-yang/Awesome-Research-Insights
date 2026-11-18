@@ -179,6 +179,7 @@ Reusable components and local changes to model inputs or connections.
 - [Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis](../../conferences/icml-2026/cards/4601-4700.md#wang26ce-modules) · 中文
 - [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](../../conferences/icml-2026/cards/4601-4700.md#wang26cj-modules) · 中文
 - [Multimodal Fusion via Self-Consistent Task-Gradient Fields](../../conferences/icml-2026/cards/5201-5300.md#xiong26m-modules) · 中文
+- [TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing](../../conferences/icml-2026/cards/5201-5300.md#xu26bi-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

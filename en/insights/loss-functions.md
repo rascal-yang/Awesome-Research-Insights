@@ -142,6 +142,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control](../../conferences/icml-2026/cards/4801-4900.md#wang26ko-loss-functions) · 中文
 - [Distributional Inverse Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26ch-loss-functions) · 中文
 - [Offline Multi-agent Continual Cooperation via Skill Partition and Reuse](../../conferences/icml-2026/cards/5101-5200.md#xiao26v-loss-functions) · 中文
+- [Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism](../../conferences/icml-2026/cards/5201-5300.md#xu26bk-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -204,6 +205,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](../../conferences/icml-2026/cards/5101-5200.md#xie26e-loss-functions) · 中文
 - [FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](../../conferences/icml-2026/cards/5101-5200.md#xie26y-loss-functions) · 中文
 - [Native Active Perception as Reasoning for Omni-Modal Understanding](../../conferences/icml-2026/cards/5101-5200.md#xing26g-loss-functions) · 中文
+- [Semantic-Enriched Latent Visual Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26aw-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

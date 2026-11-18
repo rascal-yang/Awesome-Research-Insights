@@ -610,6 +610,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Credibility-Aware Weighting Federated Causal Discovery for Time Series](../../conferences/icml-2026/cards/5201-5300.md#xu26b-theory-statistics) · 中文
 - [Robust Contextual Optimization with Missing Covariates](../../conferences/icml-2026/cards/5201-5300.md#xu26v-theory-statistics) · 中文
 - [Simultaneous Confidence Bounds for Aggregated Effects via Exact Subset Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26aq-theory-statistics) · 中文
+- [Finding Differentially Private Second Order Stationary Points in Stochastic Minimax Optimization](../../conferences/icml-2026/cards/5201-5300.md#xu26ba-theory-statistics) · 中文
+- [To Grok Grokking: Provable Grokking in Ridge Regression](../../conferences/icml-2026/cards/5201-5300.md#xu26bd-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -142,6 +142,7 @@
 - [裁剪密度比的即时奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26ko-loss-functions) · Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control
 - [随机占优约束的分布式逆强化学习](../conferences/icml-2026/cards/5001-5100.md#wu26ch-loss-functions) · Distributional Inverse Reinforcement Learning
 - [状态密度控制的技能复用优势](../conferences/icml-2026/cards/5101-5200.md#xiao26v-loss-functions) · Offline Multi-agent Continual Cooperation via Skill Partition and Reuse
+- [把Bellman可行性施加到在线状态](../conferences/icml-2026/cards/5201-5300.md#xu26bk-loss-functions) · Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism
 
 <a id="by-robotics"></a>
 
@@ -204,6 +205,7 @@
 - [最终正确性门控的检索奖励](../conferences/icml-2026/cards/5101-5200.md#xie26e-loss-functions) · Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding
 - [在文本侧排斥近邻描述](../conferences/icml-2026/cards/5101-5200.md#xie26y-loss-functions) · FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model
 - [按轮熵连续重加权GRPO优势](../conferences/icml-2026/cards/5101-5200.md#xing26g-loss-functions) · Native Active Perception as Reasoning for Omni-Modal Understanding
+- [同区域多问题的潜表示一致奖励](../conferences/icml-2026/cards/5201-5300.md#xu26aw-loss-functions) · Semantic-Enriched Latent Visual Reasoning
 
 <a id="by-ml-foundations"></a>
 
