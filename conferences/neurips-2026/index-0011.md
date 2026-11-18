@@ -540,3 +540,78 @@
 | 具身智能与机器人 | 强化学习与奖励 | [TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks](cards-0011.md#paper-148848) | 时序逻辑任务把各阶段时限作为可搜索变量 |
 | 大语言模型 | 强化学习与奖励 | [TGRL: Temperature-Grouped Reinforcement Learning for Efficient Exploration in LLMs](cards-0011.md#paper-151583) | 可验证 RL 比较按温度分组的探索 |
 | 大语言模型 | 效率与系统 | [The $1/\mathcal{W}$ Law: Context Length is the Dominant Energy Lever in LLM Inference Fleets](cards-0011.md#paper-150915) | 推理能耗按上下文长度桶调度 |
+| 大语言模型 | 评测与诊断 | [The AI Observatory: A Public Measure of Real-World AI Use](cards-0011.md#paper-139050) | 真实使用评测按来源和用途分层。 |
+| 深度学习 | 可解释性 | [The Algorithm Is Not the Behavior: Learned Priors Override Look-Ahead in a Chess-Playing Neural Network](cards-0011.md#paper-152268) | 区分正确计划已被编码与最终采纳。 |
+| 智能体与工具使用 | 采样与数据选择 | [The Alien Space of Science: Sampling Coherent but Cognitively Unavailable Research Directions](cards-0011.md#paper-152222) | 构思时同时约束文献连贯和覆盖广度。 |
+| 多模态学习 | 模型鲁棒性 | [The Alignment Curse: Modality Alignment Supercharges Audio Attacks via Text Transfer](cards-0011.md#paper-139819) | 跨模态对齐升级后复测各模态防御。 |
+| 多模态学习 | 评测与诊断 | [The Alignment Illusion in Multimodal Large Language Models](cards-0011.md#paper-156077) | 排查对齐分数是否由单个轴主导。 |
+| 大语言模型 | 模型鲁棒性 | [The Alignment Tax Concentrates in Output Projections](cards-0011.md#paper-152620) | 定位对齐能力影响的同时逐组件查安全回归。 |
+| 深度学习 | 架构设计 | [The Alternation Depth Principle for Neural Operator Design](cards-0011.md#paper-150135) | 物理算子深度按逐点与非逐点的交替需要。 |
+| 生成模型 | 表征学习 | [The balance between feature learning and collapse in generative dynamical systems](cards-0011.md#paper-153188) | 生成训练同时量更新秩和模式覆盖。 |
+| 深度学习 | 评测与诊断 | [The BatchNorm Illusion: Diagnosing Normalization Artifacts in Machine Unlearning Evaluation](cards-0011.md#paper-155403) | 遗忘测试固定 BN 状态并与复校对照。 |
+| 深度学习 | 优化算法 | [The Bayesian Learning Rule Beyond KL Geometry](cards-0011.md#paper-150013) | 需要不同尾部行为时比较 Bregman 几何的加性更新。 |
+| 深度学习 | 训练策略 | [The Benefits of Temporal Correlations: SGD Efficiently Learns k-Juntas from Random Walks](cards-0011.md#paper-153508) | 误差分析中别默认相邻样本有害。 |
+| 深度学习 | 不确定性估计 | [The Block Catastrophe of Marginal Calibration in Certified Requirements Traceability](cards-0011.md#paper-148450) | 验收校准时用审计关心的整组错误。 |
+| 智能体与工具使用 | 记忆机制 | [The Butterfly Effect in Reasoning: Branch-Structured Distributional Memory for Stochastic Agents](cards-0011.md#paper-154844) | 从短前缀分岔后蒸馏对比策略。 |
+| 大语言模型 | 强化学习 | [The Capability Frontier of GRPO](cards-0011.md#paper-152642) | 按难度前沿动态调整 GRPO 组。 |
+| 大语言模型 | 评测与诊断 | [The Commit-Abstain Circuit: Why Language Models Hallucinate Instead of Abstaining](cards-0011.md#paper-155556) | 沿层分析模型回答与拒答的相反因果作用。 |
+| 大语言模型 | 评测与诊断 | [The Communication Bottleneck: A Round-Trip Study of Compositional Serialization in Language Models](cards-0011.md#paper-151154) | 用符号对象经自然语言往返传递测试代理沟通。 |
+| 大语言模型 | 评测与诊断 | [The Complexity Kink: LLM Rubric Instruments for Causal Inference on Code Generation Reliability](cards-0011.md#paper-138945) | 代码生成难度曲线要控制问题混合与判分。 |
+| 大语言模型 | 评测与诊断 | [The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory](cards-0011.md#paper-151832) | 冲突记忆要追踪进入动作、继续传播和恢复三阶段。 |
+| 机器学习基础与统计 | 评测与诊断 | [The Confusion is Real: GRAPHIC – A Network Science Approach to Confusion Matrices in Deep Learning](cards-0011.md#paper-156795) | 把各层分类错误做成有向图观察相互误认。 |
+| 机器学习基础与统计 | 理论与统计 | [The Cost of Absolute Position: A Spread-Expressivity Tradeoff for Additive Positional Encodings](cards-0011.md#paper-151175) | 需要位置区分和位移泛化时同时测位置编码的展开程度。 |
+| 强化学习 | 优化 | [The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning](cards-0011.md#paper-148377) | 零阶梯度的两次有限差分用匹配数据。 |
+| 大语言模型 | 评测与诊断 | [The Curse of Multiple Mediators: Hidden Interaction Effects in Activation Patching](cards-0011.md#paper-154497) | 激活替换识别组件时校验组件间的交互项。 |
+| 机器学习基础与统计 | 评测与诊断 | [The Dead Salmons of AI Interpretability: The Need for a Statistical Inference Perspective](cards-0011.md#paper-140002) | 解释性实验用随机初始化网络作为空对照。 |
+| 机器学习基础与统计 | 优化 | [The Denoising Wrapper: A Modular Post-Processing Framework for Noisy First-Order Optimizers](cards-0011.md#paper-155970) | 将梯度去噪包装成优化器前的独立估计。 |
+| 多模态学习 | 训练策略 | [The Design Space of Tri-Modal Masked Diffusion Models](cards-0011.md#paper-153185) | 扩展三模态掩码扩散时重测临界批次并控制有效优化时域。 |
+| 机器学习基础与统计 | 模型架构 | [The Dormant Spiking Neuron: A State-Driven Mechanism for Efficient Spiking Neural Networks](cards-0011.md#paper-150735) | 脉冲网络可根据深抑制状态跳过明确不活跃的计算。 |
+| 科学机器学习 | 评测与诊断 | [The Dynamic-Probabilistic Consistency Gap in Chaotic Surrogate Modeling](cards-0011.md#paper-152081) | 混沌代理应同时检查物理切线扩张和预测协方差。 |
+| 强化学习 | 理论与统计 | [The Dynamics of Policy Gradient in Social Dilemmas with Partner Selection](cards-0011.md#paper-151912) | 开放伙伴调度时监测群体策略方差。 |
+| 大语言模型 | 推理策略 | [The Era of Agentic Organization: Learning to Organize with Language Models](cards-0011.md#paper-154763) | 多代理推理可学习异步分工与合并时机。 |
+| 机器学习基础与统计 | 评测与诊断 | [The Fault in Our Metrics: Revisiting Generative Model Evaluation with Chamfer Distance](cards-0011.md#paper-139594) | 生成对照可用双向最近邻距离分开画覆盖和忠实度 |
+| 大语言模型 | 评测与诊断 | [The Future of Facts: Tracing the Factual Generation-Verification Gap](cards-0011.md#paper-155998) | 事实更新分别测自由生成及新旧候选验证 |
+| 机器学习基础与统计 | 模型与架构 | [The Geometric Inductive Bias of Grokking: Bypassing Phase Transitions via Architectural Topology](cards-0011.md#paper-150166) | 架构加速泛化要与任务对称性匹配 |
+| 大语言模型 | 评测与诊断 | [The Geometric Wall: Manifold Structure Predicts Layerwise Sparse Autoencoder Scaling Laws](cards-0011.md#paper-155185) | 稀疏自编码器分层画重建误差下限 |
+| 智能体 | 评测与诊断 | [The Geometry of Agent Skills: Non-Commutative Composition in Representation Space](cards-0011.md#paper-148408) | 技能组合必须成对测试顺序 |
+| 大语言模型 | 评测与诊断 | [The Geometry of Forgetting: Temporal Knowledge Drift as an Independent Axis in LLM Representations](cards-0011.md#paper-149138) | 知识过时与置信度分开监控 |
+| 视觉与多模态 | 生成与扩散 | [The Geometry of Generative Latents: Navigability and Invertibility](cards-0011.md#paper-149230) | 视觉 latent 融合要同时保持重建和可生成性 |
+| 大语言模型 | 训练与优化 | [The Hidden Power of Scaling Factor in LoRA Optimization](cards-0011.md#paper-153734) | LoRA 扫描将缩放因子和秩分离 |
+| 强化学习 | 采样与数据选择 | [The Horizon Threshold in Cooperative Multi-Agent Reward-Free Exploration](cards-0011.md#paper-149477) | 可并行探索先保证交互阶段数与长度匹配。 |
+| 大语言模型 | 强化学习 | [The Illusion of Diversity: Aligning LLM Exploration via Effective Entropy](cards-0011.md#paper-149941) | 探索只统计有效解中的熵。 |
+| 大语言模型 | 模型鲁棒性 | [The Illusion of Forgetting: Rank Leakage in Knowledge Editing and Its Mitigation](cards-0011.md#paper-153910) | 知识修订验收要把目标词残余排名纳入防御。 |
+| 智能体与工具使用 | 评测与诊断 | [The Illusion of Multi-Agent Advantage](cards-0011.md#paper-139826) | 多代理流程与同预算单模型自一致对比。 |
+| 深度学习 | 表征学习 | [The Implicit Bias of Hyperbolic Representation Learning for Multiclass Data: A Busemann Risk Perspective](cards-0011.md#paper-148340) | 双曲嵌入训练跟踪径向漂移及边界簇。 |
+| 生成模型 | 训练策略 | [The Interplay of Data Structure and Imbalance in the Learning Dynamics of Diffusion Models](cards-0011.md#paper-155660) | 扩散长尾训练分别量各类方差、中心及样本量。 |
+| 生成模型 | 可解释性 | [The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show](cards-0011.md#paper-149891) | 世界模型同时验生成行为和潜物理解码。 |
+| 模型效率与系统 | 注意力机制 | [The Kernel Reality Check: Benchmarking and Distilling Efficient Attention at Scale](cards-0011.md#paper-149008) | 线性注意规模评估对齐内核和软最大值误差。 |
+| 模型效率与系统 | 注意力机制 | [The Key to Going Linear: Analysis-Driven Transformer Linearization](cards-0011.md#paper-151267) | 替换 softmax 时保留 key 依赖状态擦写。 |
+| 大语言模型 | 评测与诊断 | [The Labeling Problem in Hallucination Detection Benchmarks: An Empirical Evaluation](cards-0011.md#paper-138957) | 幻觉标注分参考支持和现实事实。 |
+| 强化学习 | 表征学习 | [The Laplacian Keyboard: Beyond the Linear Span](cards-0011.md#paper-155777) | 零样本控制学层级基而非只在线性跨度组合。 |
+| 具身智能与机器人 | 时序建模 | [The limbic navigation system as a hierarchical RNN](cards-0011.md#paper-154055) | 路径积分分开角速度和线速度再协作。 |
+| 机器学习理论 | 决策理论 | [The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty](cards-0011.md#paper-153541) | 把人工筛查给自动分配边界附近对象。 |
+| 计算机视觉 | 自监督学习 | [The Locality Cost of Semantic Patch Self-Distillation](cards-0011.md#paper-150207) | 掩码语义蒸馏先验局部对应是否被抹除。 |
+| 大语言模型 | 知识蒸馏 | [The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes](cards-0011.md#paper-153073) | 在线蒸馏检查特权信息是否推理时可用。 |
+| 多模态学习 | 评测与诊断 | [The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](cards-0011.md#paper-152788) | 图像相似检索应声明比较的语义维度。 |
+| 深度学习 | 模型合并 | [The Marauder’s Map: Bézier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling](cards-0011.md#paper-153780) | 多专家模型合并搜索共享低复杂度曲面。 |
+| 计算机视觉 | 损失函数 | [The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation](cards-0011.md#paper-153386) | 三维实例分割要监督低可见度但属于同体积的图元。 |
+| 大语言模型 | 表征学习 | [The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment](cards-0011.md#paper-152307) | 跨模型能力迁移前在两者表征空间中对齐能力方向。 |
+| 机器学习基础与统计 | 理论与统计 | [The Mechanism of Weak-to-Strong Generalization: Feature Elicitation from Latent Knowledge](cards-0011.md#paper-155865) | 弱教师训练强模型时，检查目标表示是否与其他能力方向重合。 |
+| 机器学习基础与统计 | 评测与诊断 | [The Minimax Rate of Second-Order Calibration](cards-0011.md#paper-154263) | 二阶置信校准用平滑的条件误差再拟合，而非依赖分箱。 |
+| 大语言模型 | 强化学习方法 | [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](cards-0011.md#paper-151835) | 推理训练框架不一致时用实际推理端策略效果驱动候选更新。 |
+| 大语言模型 | 数据策略 | [The Missing Corpus: Infinite Ground Truth for File-Grounded LLM Evaluation](cards-0011.md#paper-139327) | 文档测评由同一结构化源同步生成页面、问题和证据。 |
+| 大语言模型 | 评测与诊断 | [The Missing Positional Story in LLMs: A Case Study of Shift-Invariant Attention](cards-0011.md#paper-153926) | 模型位置机制诊断要同时测架构位置编码和学到的移位不变头。 |
+| 科学机器学习 | 模型架构 | [The Neural Race Model](cards-0011.md#paper-152312) | 多选决策的模型可联合预测选择与用时。 |
+| 机器学习基础与统计 | 理论与统计 | [The Optimal Control Foundation of Early Exits – Turnpikes and ResNets](cards-0011.md#paper-151427) | 共享训练早退损失时，检查满足要求的深度是否随总深度变化。 |
+| 机器学习基础与统计 | 训练策略 | [The Optimization Prior: Instilling depth for shallow networks, detail for coarse networks](cards-0011.md#paper-154968) | 训练前让目标模型对齐另一架构的初始表示。 |
+| 机器学习基础与统计 | 推理策略 | [Theoretical guidelines for annealed Langevin dynamics in compositional simulation-based inference](cards-0011.md#paper-148461) | 多条件后验中把复合分数用作插值密度的分数，避免直接套逆扩散。 |
+| 机器学习基础与统计 | 理论与统计 | [Theoretical Limits of Language Model Alignment](cards-0011.md#paper-153597) | 用理论最大收益标定不同 KL 预算的奖励改进。 |
+| 机器学习基础与统计 | 优化 | [Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model](cards-0011.md#paper-154381) | 学习率日程应随总训练时长共同调参，而非只拉长已有曲线。 |
+| 机器学习基础与统计 | 理论与统计 | [Theory on Attention Dynamics for Out-of-Distribution In-Context Learning](cards-0011.md#paper-155001) | 诊断上下文域外误差要看新旧特征交互，而非只报告最近训练距离。 |
+| 大语言模型 | 训练与优化 | [The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation](cards-0011.md#paper-149824) | 文档到适配器的冲突修订先校准更新相对旧知识幅度 |
+| 大语言模型 | 评测与诊断 | [The parameters in weight-sparse transformers are interpretable](cards-0011.md#paper-150805) | 比较稀疏和密集模型的随机单权重可解释率 |
+| 大语言模型 | 训练与优化 | [The Path Not Taken: RLVR Learns Off the Principals](cards-0011.md#paper-155162) | RLVR 参数诊断保留高精度更新并区分主谱方向 |
+| 大语言模型 | 评测与诊断 | [The PFAD Not Taken: Measuring Polysemanticity via Feature Affine Decomposition](cards-0011.md#paper-150856) | 解释多义性用全数据拟合的功能异质性 |
+| 大语言模型 | 理论与统计 | [The Price of Choosing Examples: Context Overfitting in Adaptive In-Context Learning](cards-0011.md#paper-153995) | 上下文检索的泛化保证考虑挑选适应性 |
+| 机器学习基础与统计 | 训练与优化 | [The Price of Locality: Why Forward-Forward Underperforms Backpropagation?](cards-0011.md#paper-154189) | 深网本地训练检查各层错误信号是否趋同 |
+| 大语言模型 | 效率与系统 | [The Quantization Benefits of Residual-Free Transformers](cards-0011.md#paper-156016) | 将可量化性作为 Transformer 架构选择维度 |

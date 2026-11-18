@@ -399,5 +399,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Synthetic Tasks for Training AutoResearch](../../conferences/neurips-2026/cards-0011.md#paper-152335)
 - [Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](../../conferences/neurips-2026/cards-0011.md#paper-155151)
 - [Temporal Prototype Alignment for Frozen-Feature Dataset Distillation](../../conferences/neurips-2026/cards-0011.md#paper-149275)
+- [The Alien Space of Science: Sampling Coherent but Cognitively Unavailable Research Directions](../../conferences/neurips-2026/cards-0011.md#paper-152222)
+- [The Horizon Threshold in Cooperative Multi-Agent Reward-Free Exploration](../../conferences/neurips-2026/cards-0011.md#paper-149477)
+- [The Missing Corpus: Infinite Ground Truth for File-Grounded LLM Evaluation](../../conferences/neurips-2026/cards-0011.md#paper-139327)
 
 <!-- conference-classification:end -->

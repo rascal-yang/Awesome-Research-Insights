@@ -466,5 +466,8 @@
 - [SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](../conferences/neurips-2026/cards-0011.md#paper-155936)
 - [TailCon: Mitigating Tail Signal Erosion through Memory Consolidation for Long-Tailed Recognition](../conferences/neurips-2026/cards-0011.md#paper-155753)
 - [TAMEing the Open-World Personalization: Towards Open-Set Personalized MLLM Assistant](../conferences/neurips-2026/cards-0011.md#paper-150003)
+- [The Butterfly Effect in Reasoning: Branch-Structured Distributional Memory for Stochastic Agents](../conferences/neurips-2026/cards-0011.md#paper-154844)
+- [The Kernel Reality Check: Benchmarking and Distilling Efficient Attention at Scale](../conferences/neurips-2026/cards-0011.md#paper-149008)
+- [The Key to Going Linear: Analysis-Driven Transformer Linearization](../conferences/neurips-2026/cards-0011.md#paper-151267)
 
 <!-- conference-classification:end -->

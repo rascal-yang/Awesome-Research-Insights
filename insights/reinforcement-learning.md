@@ -745,5 +745,8 @@
 - [Test Time Search Requires Training for Diversity](../conferences/neurips-2026/cards-0011.md#paper-155492)
 - [TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks](../conferences/neurips-2026/cards-0011.md#paper-148848)
 - [TGRL: Temperature-Grouped Reinforcement Learning for Efficient Exploration in LLMs](../conferences/neurips-2026/cards-0011.md#paper-151583)
+- [The Capability Frontier of GRPO](../conferences/neurips-2026/cards-0011.md#paper-152642)
+- [The Illusion of Diversity: Aligning LLM Exploration via Effective Entropy](../conferences/neurips-2026/cards-0011.md#paper-149941)
+- [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-151835)
 
 <!-- conference-classification:end -->

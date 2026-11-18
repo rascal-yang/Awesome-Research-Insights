@@ -964,5 +964,16 @@
 - [Teaching Large Language Models When Not to Know: Learning Temporal Critique for Ex-Ante Reasoning](../conferences/neurips-2026/cards-0011.md#paper-153002)
 - [Test-Time Graph Anomaly Detection via Shifted Augmentation with Dynamic Objective Scheduling](../conferences/neurips-2026/cards-0011.md#paper-153400)
 - [Test-Time Prompt-Agnostic Decomposition](../conferences/neurips-2026/cards-0011.md#paper-151200)
+- [The Benefits of Temporal Correlations: SGD Efficiently Learns k-Juntas from Random Walks](../conferences/neurips-2026/cards-0011.md#paper-153508)
+- [The Design Space of Tri-Modal Masked Diffusion Models](../conferences/neurips-2026/cards-0011.md#paper-153185)
+- [The Hidden Power of Scaling Factor in LoRA Optimization](../conferences/neurips-2026/cards-0011.md#paper-153734)
+- [The Interplay of Data Structure and Imbalance in the Learning Dynamics of Diffusion Models](../conferences/neurips-2026/cards-0011.md#paper-155660)
+- [The Locality Cost of Semantic Patch Self-Distillation](../conferences/neurips-2026/cards-0011.md#paper-150207)
+- [The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes](../conferences/neurips-2026/cards-0011.md#paper-153073)
+- [The Marauder’s Map: Bézier Manifolds Reveal Hidden Surfaces for Model Merging and Ensembling](../conferences/neurips-2026/cards-0011.md#paper-153780)
+- [The Optimization Prior: Instilling depth for shallow networks, detail for coarse networks](../conferences/neurips-2026/cards-0011.md#paper-154968)
+- [The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation](../conferences/neurips-2026/cards-0011.md#paper-149824)
+- [The Path Not Taken: RLVR Learns Off the Principals](../conferences/neurips-2026/cards-0011.md#paper-155162)
+- [The Price of Locality: Why Forward-Forward Underperforms Backpropagation?](../conferences/neurips-2026/cards-0011.md#paper-154189)
 
 <!-- conference-classification:end -->

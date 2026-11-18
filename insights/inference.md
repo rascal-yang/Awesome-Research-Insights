@@ -1450,5 +1450,8 @@
 - [Test-time Scaling for Diffusion Language Models with Frequency-Aware Remasking](../conferences/neurips-2026/cards-0011.md#paper-155012)
 - [Test-time Scaling of Diffusions with Flow Maps](../conferences/neurips-2026/cards-0011.md#paper-154289)
 - [Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](../conferences/neurips-2026/cards-0011.md#paper-155507)
+- [The Era of Agentic Organization: Learning to Organize with Language Models](../conferences/neurips-2026/cards-0011.md#paper-154763)
+- [The Geometry of Generative Latents: Navigability and Invertibility](../conferences/neurips-2026/cards-0011.md#paper-149230)
+- [Theoretical guidelines for annealed Langevin dynamics in compositional simulation-based inference](../conferences/neurips-2026/cards-0011.md#paper-148461)
 
 <!-- conference-classification:end -->

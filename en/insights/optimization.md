@@ -787,5 +787,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Task-Driven Bayesian Experimental Design Yields Singly Intractable Objectives for Joint Policy Training](../../conferences/neurips-2026/cards-0011.md#paper-154411)
 - [TENG-BC: Time-Evolving Natural Gradient for High-Accuracy Neural PDE Solvers with General Boundary Conditions](../../conferences/neurips-2026/cards-0011.md#paper-151664)
 - [Tensorion: A Tensor-Aware Generalization of the Muon Optimizer](../../conferences/neurips-2026/cards-0011.md#paper-155464)
+- [The Bayesian Learning Rule Beyond KL Geometry](../../conferences/neurips-2026/cards-0011.md#paper-150013)
+- [The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-148377)
+- [The Denoising Wrapper: A Modular Post-Processing Framework for Noisy First-Order Optimizers](../../conferences/neurips-2026/cards-0011.md#paper-155970)
+- [Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model](../../conferences/neurips-2026/cards-0011.md#paper-154381)
 
 <!-- conference-classification:end -->

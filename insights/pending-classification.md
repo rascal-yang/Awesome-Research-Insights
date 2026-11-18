@@ -1239,5 +1239,10 @@
 - [TESLA: Native 4D Gaussian Splatting Generation with Temporally Structured Latents](../conferences/neurips-2026/cards-0011.md#paper-152766)
 - [Test-Time Speculation](../conferences/neurips-2026/cards-0011.md#paper-150865)
 - [The $1/\mathcal{W}$ Law: Context Length is the Dominant Energy Lever in LLM Inference Fleets](../conferences/neurips-2026/cards-0011.md#paper-150915)
+- [The Alignment Curse: Modality Alignment Supercharges Audio Attacks via Text Transfer](../conferences/neurips-2026/cards-0011.md#paper-139819)
+- [The Alignment Tax Concentrates in Output Projections](../conferences/neurips-2026/cards-0011.md#paper-152620)
+- [The Illusion of Forgetting: Rank Leakage in Knowledge Editing and Its Mitigation](../conferences/neurips-2026/cards-0011.md#paper-153910)
+- [The limbic navigation system as a hierarchical RNN](../conferences/neurips-2026/cards-0011.md#paper-154055)
+- [The Quantization Benefits of Residual-Free Transformers](../conferences/neurips-2026/cards-0011.md#paper-156016)
 
 <!-- conference-classification:end -->

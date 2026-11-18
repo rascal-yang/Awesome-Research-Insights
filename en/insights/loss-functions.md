@@ -402,5 +402,6 @@ Objectives, auxiliary supervision, and regularization.
 - [StaDy: Factorizing the World into Static and Dynamic via Likelihood Matching](../../conferences/neurips-2026/cards-0011.md#paper-149420)
 - [SynIB: Informational Bottleneck for Maximizing Synergy in Multimodal Learning](../../conferences/neurips-2026/cards-0011.md#paper-150893)
 - [Taming the Tails: Why Distributionally Robust Optimization Needs New Theory for Imbalanced Regression](../../conferences/neurips-2026/cards-0011.md#paper-152555)
+- [The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation](../../conferences/neurips-2026/cards-0011.md#paper-153386)
 
 <!-- conference-classification:end -->

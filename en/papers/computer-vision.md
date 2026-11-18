@@ -1167,5 +1167,7 @@ Visual representation, recognition, reconstruction, and generation.
 - [Test-Time Conditioning with Representation-Aligned Visual Features](../../conferences/neurips-2026/cards-0011.md#paper-148903)
 - [Test-Time Defense Against Adversarial Attacks via Stochastic Resonance of Latent Ensembles](../../conferences/neurips-2026/cards-0011.md#paper-152658)
 - [Test-time Scaling of Diffusions with Flow Maps](../../conferences/neurips-2026/cards-0011.md#paper-154289)
+- [The Locality Cost of Semantic Patch Self-Distillation](../../conferences/neurips-2026/cards-0011.md#paper-150207)
+- [The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation](../../conferences/neurips-2026/cards-0011.md#paper-153386)
 
 <!-- conference-classification:end -->

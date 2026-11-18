@@ -712,5 +712,9 @@
 - [Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-153144)
 - [Test-time Multi-agent Coordination by Decomposed Value Gradient Flow](../conferences/neurips-2026/cards-0011.md#paper-153940)
 - [Test-time Risk Adaptation with Mixture of Agents](../conferences/neurips-2026/cards-0011.md#paper-148449)
+- [The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-148377)
+- [The Dynamics of Policy Gradient in Social Dilemmas with Partner Selection](../conferences/neurips-2026/cards-0011.md#paper-151912)
+- [The Horizon Threshold in Cooperative Multi-Agent Reward-Free Exploration](../conferences/neurips-2026/cards-0011.md#paper-149477)
+- [The Laplacian Keyboard: Beyond the Linear Span](../conferences/neurips-2026/cards-0011.md#paper-155777)
 
 <!-- conference-classification:end -->

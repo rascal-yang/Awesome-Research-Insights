@@ -887,5 +887,6 @@ Robot perception, policy learning, planning, and control.
 - [SynerVLA: Exploiting Embodied Execution Phases for On-Device Dual-System VLA Acceleration](../../conferences/neurips-2026/cards-0011.md#paper-151851)
 - [Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving](../../conferences/neurips-2026/cards-0011.md#paper-148659)
 - [TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks](../../conferences/neurips-2026/cards-0011.md#paper-148848)
+- [The limbic navigation system as a hierarchical RNN](../../conferences/neurips-2026/cards-0011.md#paper-154055)
 
 <!-- conference-classification:end -->

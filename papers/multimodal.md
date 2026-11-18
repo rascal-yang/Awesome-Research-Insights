@@ -1012,5 +1012,10 @@
 - [Text as Partial Constraint: Core–Residual Alignment for Robust Vision–Language Learning](../conferences/neurips-2026/cards-0011.md#paper-148465)
 - [Text-side fragility in contrastive vision-language retrieval](../conferences/neurips-2026/cards-0011.md#paper-139343)
 - [Text-to-CAD Evaluation with CADTests](../conferences/neurips-2026/cards-0011.md#paper-139514)
+- [The Alignment Curse: Modality Alignment Supercharges Audio Attacks via Text Transfer](../conferences/neurips-2026/cards-0011.md#paper-139819)
+- [The Alignment Illusion in Multimodal Large Language Models](../conferences/neurips-2026/cards-0011.md#paper-156077)
+- [The Design Space of Tri-Modal Masked Diffusion Models](../conferences/neurips-2026/cards-0011.md#paper-153185)
+- [The Geometry of Generative Latents: Navigability and Invertibility](../conferences/neurips-2026/cards-0011.md#paper-149230)
+- [The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](../conferences/neurips-2026/cards-0011.md#paper-152788)
 
 <!-- conference-classification:end -->

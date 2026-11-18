@@ -620,5 +620,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Tango3D: Towards Alignment for Global and Local 2D-3D Correspondence](../../conferences/neurips-2026/cards-0011.md#paper-152996)
 - [Task-Induced Riemannian Metrics for Vision Transformer Feature Spaces](../../conferences/neurips-2026/cards-0011.md#paper-148615)
 - [Temporal Consistency Improves Generalization in Contextual Offline Meta Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-153572)
+- [The balance between feature learning and collapse in generative dynamical systems](../../conferences/neurips-2026/cards-0011.md#paper-153188)
+- [The Implicit Bias of Hyperbolic Representation Learning for Multiclass Data: A Busemann Risk Perspective](../../conferences/neurips-2026/cards-0011.md#paper-148340)
+- [The Laplacian Keyboard: Beyond the Linear Span](../../conferences/neurips-2026/cards-0011.md#paper-155777)
+- [The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment](../../conferences/neurips-2026/cards-0011.md#paper-152307)
 
 <!-- conference-classification:end -->

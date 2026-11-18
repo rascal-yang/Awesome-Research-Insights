@@ -1152,5 +1152,14 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Symplectic Parallel Scan: A Neural Hamiltonian Framework for Accelerated Scientific Simulation](../../conferences/neurips-2026/cards-0011.md#paper-148524)
 - [Targeted Synthetic Control Method](../../conferences/neurips-2026/cards-0011.md#paper-152635)
 - [Task Vector Geometry Underlies Dual Modes of Task Inference in Transformers](../../conferences/neurips-2026/cards-0011.md#paper-152712)
+- [The Block Catastrophe of Marginal Calibration in Certified Requirements Traceability](../../conferences/neurips-2026/cards-0011.md#paper-148450)
+- [The Cost of Absolute Position: A Spread-Expressivity Tradeoff for Additive Positional Encodings](../../conferences/neurips-2026/cards-0011.md#paper-151175)
+- [The Dynamics of Policy Gradient in Social Dilemmas with Partner Selection](../../conferences/neurips-2026/cards-0011.md#paper-151912)
+- [The Limits of AI-Driven Allocation: Optimal Screening under Aleatoric Uncertainty](../../conferences/neurips-2026/cards-0011.md#paper-153541)
+- [The Mechanism of Weak-to-Strong Generalization: Feature Elicitation from Latent Knowledge](../../conferences/neurips-2026/cards-0011.md#paper-155865)
+- [The Optimal Control Foundation of Early Exits – Turnpikes and ResNets](../../conferences/neurips-2026/cards-0011.md#paper-151427)
+- [Theoretical Limits of Language Model Alignment](../../conferences/neurips-2026/cards-0011.md#paper-153597)
+- [Theory on Attention Dynamics for Out-of-Distribution In-Context Learning](../../conferences/neurips-2026/cards-0011.md#paper-155001)
+- [The Price of Choosing Examples: Context Overfitting in Adaptive In-Context Learning](../../conferences/neurips-2026/cards-0011.md#paper-153995)
 
 <!-- conference-classification:end -->

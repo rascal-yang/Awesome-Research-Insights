@@ -599,5 +599,9 @@ Model-wide design and information flow.
 - [T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals](../../conferences/neurips-2026/cards-0011.md#paper-152792)
 - [TAC: Timestamped Audio Captioning](../../conferences/neurips-2026/cards-0011.md#paper-148688)
 - [Text as Partial Constraint: Core–Residual Alignment for Robust Vision–Language Learning](../../conferences/neurips-2026/cards-0011.md#paper-148465)
+- [The Alternation Depth Principle for Neural Operator Design](../../conferences/neurips-2026/cards-0011.md#paper-150135)
+- [The Dormant Spiking Neuron: A State-Driven Mechanism for Efficient Spiking Neural Networks](../../conferences/neurips-2026/cards-0011.md#paper-150735)
+- [The Geometric Inductive Bias of Grokking: Bypassing Phase Transitions via Architectural Topology](../../conferences/neurips-2026/cards-0011.md#paper-150166)
+- [The Neural Race Model](../../conferences/neurips-2026/cards-0011.md#paper-152312)
 
 <!-- conference-classification:end -->
