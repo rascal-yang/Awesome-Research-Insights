@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1649** 篇，暂收录 **1514** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1709** 篇，暂收录 **1574** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1522,3 +1522,63 @@
 | 统计学习 | 稳健控制 | [Conservative Continuous-Time Treatment Optimization](cards-0003.md#paper-150543) | 对离线连续控制惩罚预测轨迹超出观测支持 |
 | 统计学习 | 后验校准 | [Conservative neural posterior estimation via distributionally robust training](cards-0003.md#paper-155960) | 低仿真预算下用分布鲁棒损失训练后验 |
 | 优化 | 多目标决策 | [Conservative Pareto Set Amortization for Offline Multi-Objective Optimization](cards-0003.md#paper-152985) | 按偏好直接查询单个设计 |
+| 大语言模型 | 推理筛选 | [Consilience for Verifier-Free Test-Time Scaling](cards-0003.md#paper-153648) | 按置信度轨迹选解 |
+| Agent | 可靠性评测 | [Consistency as a Testable Property: Statistical Methods to Evaluate AI Agent Reliability](cards-0003.md#paper-155880) | 测语义等价扰动下的过程稳定性 |
+| 计算机视觉 | 概念移除 | [Consistency-Preserving Concept Erasure via Unsafe–Safe Pairing and Directional Fisher-weighted Adaptation](cards-0003.md#paper-151483) | 用配对替代监督保留周边语义 |
+| 科学机器学习 | 逆问题 | [Consistency Regularised Gradient Flows for Inverse Problems](cards-0003.md#paper-154153) | 在潜空间联合采样与调提示 |
+| 图学习 | 防御聚合 | [Consistency-Verified Backdoor Defense for Federated Graph Learning via Cross-Layer Drift](cards-0003.md#paper-152211) | 服务器核对风险与提交更新后再加权 |
+| 计算机视觉 | 三维重建 | [Consistent 3D Surface Flow Model with Global State](cards-0003.md#paper-148758) | 分离全局表示容量和点云输出分辨率 |
+| 统计学习 | 空间聚类 | [Consistent Bayesian Spatial Domain Partitioning Using Predictive Spanning Tree Methods](cards-0003.md#paper-156639) | 用生成树切分构造可预测的连续区域 |
+| 图学习 | 几何表示 | [Consistent Geometric Deep Learning via Hilbert Bundles and Cellular Sheaves](cards-0003.md#paper-153249) | 对流形上的函数型信号保留纤维间连接 |
+| 统计学习 | 弱监督损失 | [Consistent One-vs-All Losses Robust to Misspecification of the Weak Label Transition Model](cards-0003.md#paper-150290) | 转移模型不稳时优先保证分类排序 |
+| 大语言模型 | 测试时学习 | [Consolidating Reasoning with Test-Time Learning](cards-0003.md#paper-150965) | 用可更新参数合成多条轨迹 |
+| 大语言模型 | 无梯度后训练 | [Consolidating Rewarded Perturbations for LLM Post-Training](cards-0003.md#paper-153456) | 把奖励加权专家折叠为单次推理模型 |
+| 联邦学习 | 聚合优化 | [Constant Term Shrinkage for Federated Learning](cards-0003.md#paper-152366) | 只收缩受异质性影响的更新分量 |
+| 优化 | 受约束采样 | [Constrained Bombieri Point Processes](cards-0003.md#paper-154134) | 样本规模固定时考虑精确组合采样 |
+| 大语言模型 | 约束推理 | [Constrained Code Generation with Discrete Diffusion](cards-0003.md#paper-148166) | 在去噪中加入程序正确性检查 |
+| 大语言模型 | 约束解码 | [Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata](cards-0003.md#paper-149103) | 把格式约束编成有限自动机再并行采样 |
+| 模型压缩 | 低秩剪枝 | [Constrained Factorization with Diagonal Scaling: Rank-Revealing Training and Pruning](cards-0003.md#paper-152576) | 显式对角尺度用于训练中识别冗余 |
+| 图学习 | 受约束生成 | [Constrained Goal-directed Planar Graph Generation with Grammar-based Reinforcement Learning](cards-0003.md#paper-154981) | 将语法动作投影到随状态变化的可行集 |
+| 图学习 | 谱聚类 | [Constrained Graph Clustering: A Spectral Algorithm with Generalized Eigenvectors](cards-0003.md#paper-151463) | 用必须同组和禁同组两图构造广义谱嵌入 |
+| 计算机视觉 | 生成引导 | [Constrained Look-ahead Guidance for Interference-Aware Flow Editing](cards-0003.md#paper-151736) | 更新前先预测编辑与保真是否冲突 |
+| 强化学习 | 安全约束 | [Constrained MDPs with Trajectory Constraints](cards-0003.md#paper-154144) | 高风险约束按历史条件化而非从起点平均 |
+| 神经网络 | 架构 | [Constrained Modulatory Reservoirs for Context-Dependent Computation](cards-0003.md#paper-152484) | 隔离循环调制的贡献 |
+| 优化 | 随机近端方法 | [Constrained Stochastic Spectral Preconditioning Converges for Nonconvex Objectives](cards-0003.md#paper-149304) | 用近端扩展处理谱优化约束 |
+| 图学习 | 约束条件化 | [CONSTRAINER: Promptable Graph-Structured Optimization via Constraint Conditioning](cards-0003.md#paper-154276) | 显式编码约束以复用求解骨干 |
+| 数据归因 | 约束敏感性 | [Constraint-Aware Influence Estimation in Deep Constrained Learning](cards-0003.md#paper-155081) | 样本移除时同时考虑可行域变化 |
+| 语言模型 | 合规评测 | [Constraint Retrieval Is Not Constraint Enforcement in Large Language Models](cards-0003.md#paper-155108) | 分开评估规则召回和执行 |
+| 组合优化 | 多专家蒸馏 | [Constructive Neural Policies for the Quadratic Assignment Problem via Multi-Expert Imitation](cards-0003.md#paper-152789) | 单趟构造分配时保留专家序列多样性 |
+| 经济学 | 市场反馈 | [Consumer Search and Social Learning in Agentic Markets](cards-0003.md#paper-154159) | 设计搜索系统时验证搜索信号是否进入公共反馈 |
+| 生成模型 | 非平衡最优传输 | [Contact Geometry for Generative Models: An Unbalanced Optimal Transport Formulation](cards-0003.md#paper-154366) | 对未配对图像分布分开建模迁移与质量变化 |
+| 语言模型 | 流式记忆 | [Context as Low-Rank Weights: Bounded Parametric Dynamic Memory for Unbounded Context](cards-0003.md#paper-149750) | 以固定秩权重更新替代部分历史缓存 |
+| 计算机视觉 | 生成顺序 | [Context-Aware Autoregressive Image Generation for Emerging Reasoning Properties](cards-0003.md#paper-151846) | 动态选择下一个空间生成位置 |
+| 多模态 | 缺失模态 | [Context-Aware Generative Imputation for Robust Multimodal Learning in Missing Modality Scenarios](cards-0003.md#paper-151257) | 从已见模态补全任务潜变量 |
+| 密码学 | 上下文隔离 | [Context Binding and Reusable Leakage in Threshold Decryption](cards-0003.md#paper-153871) | 评估泄漏后果时检查历史授权是否影响未来 |
+| 计算机视觉 | 评测诊断 | [ContextShift: A Controlled Benchmark for Context Dependence in Object Detection](cards-0003.md#paper-139652) | 固定物体外观后单独改变背景 |
+| 生成模型 | 推理预算 | [Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation](cards-0003.md#paper-148315) | 根据输入分配流模型积分步数 |
+| 生成模型 | 训练损失 | [Contextual Flow Matching for High-quality Visual Content Generation](cards-0003.md#paper-156013) | 训练速度场时约束局部空间关系 |
+| 多模态 | 互动评测 | [Contextualized Evaluation of Vision Language Models through Dynamic Interviews](cards-0003.md#paper-138894) | 用任务状态图驱动多轮追问 |
+| 强化学习 | 上下文价值 | [Context Value Informed In-Context Reinforcement Learning](cards-0003.md#paper-149025) | 在有限测试轨迹中用价值预测辅助上下文适应 |
+| Agent | 持续学习评测 | [Continual Learning Bench: Evaluating Frontier AI Systems in Real-World Stateful Environments](cards-0003.md#paper-139270) | 把经验带来的增益与底座能力分开 |
+| 生成模型 | 回放选择 | [Continual Learning in Modern Hopfield Networks with an Application to Diffusion Models](cards-0003.md#paper-152180) | 优先回放能量较高且易遗忘的样本 |
+| 具身智能 | 持续学习 | [Continually Evolving Skill Knowledge in Vision Language Action Model](cards-0003.md#paper-155372) | 共享固定容量网络并按技能知识路由 |
+| 机器人学 | 持续技能学习 | [Continual Robot Learning via Language-Guided Skill Acquisition](cards-0003.md#paper-156741) | 按语义相关性挑已有技能热启动新技能。 |
+| 机器学习基础 | 时序诊断 | [Continuity Laws for Sequential Models](cards-0003.md#paper-149660) | 用时间细化试验验证序列模型是否连续，再选择降采样频率。 |
+| 计算机视觉 | 连续位姿估计 | [ContinuLoc: Continuous Pose Inference over Neural Fields for UAV Geo-Localization](cards-0003.md#paper-149317) | 用可查询连续语义地图取代固定候选位姿库。 |
+| 多模态学习 | 声学蒸馏 | [Continuous Audio Thinking for Large Audio Language Models](cards-0003.md#paper-148651) | 把声学证据保存在预填充的连续潜空间中。 |
+| 统计学习 | 连续深度 | [Continuous-depth Deep Gaussian Processes](cards-0003.md#paper-150043) | 深层高斯过程优化恶化时，对照残差化与连续深度先验。 |
+| 大语言模型 | 扩散训练 | [Continuous Diffusion Scales Competitively with Discrete Diffusion for Language](cards-0003.md#paper-152067) | 比较连续与离散扩散时，匹配架构与计算，并单测似然训练的嵌入收益。 |
+| 计算机视觉 | 动态参数化 | [Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration](cards-0003.md#paper-149532) | 对空间位置分别生成低秩残差以处理局部退化。 |
+| 大语言模型 | 潜扩散 | [Continuous Latent Diffusion Language Model](cards-0003.md#paper-154716) | 把全局语义生成和局部 token 实现分开建模。 |
+| 统计学习 | 缺失值补全 | [Continuously-Augmented Hybrid Masked Diffusion Model for Data Imputation](cards-0003.md#paper-148351) | 将观测硬约束嵌入采样过程。 |
+| 强化学习 | 技能发现 | [Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs](cards-0003.md#paper-149488) | 以可执行成功判定及依赖链组织仿真技能课程。 |
+| 优化 | 非欧几何优化 | [Continuous p-adic Optimization](cards-0003.md#paper-149111) | 离散赋值使梯度消失时，将优化提升到保几何的连通空间。 |
+| 生成模型 | 条件扩散 | [Continuous Personalized Diffusion Model via Spinor-Component Forward Geometry](cards-0003.md#paper-153749) | 把连续控制信号注入前向扩散几何。 |
+| 生成模型 | 扩散蒸馏 | [Continuous-Time Distribution Matching for Few-Step Diffusion Distillation](cards-0003.md#paper-150079) | 将固定时间锚点改成连续随机日程，并对学生轨迹外预测做匹配。 |
+| 统计学习 | 后验采样 | [Contour Monte Carlo: Sampling via Energy Level Sets](cards-0003.md#paper-155748) | 把困难后验采样拆分为能量边缘和层集内条件采样。 |
+| Agent | 工具合规评测 | [ContractBench: Can LLM Agents Preserve Observation Contracts?](cards-0003.md#paper-139770) | 分别验收中间工件的时效与字节完整性。 |
+| 图学习 | 稳定传播 | [Contractive Monoids: The Algebra Behind Stable Residual Propagation in Deep Graph Neural Networks](cards-0003.md#paper-150369) | 深层消息传递用含恒等元且对组合闭合的收缩约束。 |
+| 大语言模型 | 推理蒸馏 | [Contractive Restoring Flows: Robust Reasoning Distillation via Orbital Stability](cards-0003.md#paper-152740) | 蒸馏时收缩离开教师轨迹的误差，保留沿轨迹的变化。 |
+| 表示学习 | 对比采样 | [Contrast encodes inductive bias: separating slow noise from dynamics in predictive representation learning](cards-0003.md#paper-149353) | 使用同轨迹负样本以移除轨迹特有慢噪声捷径。 |
+| 图学习 | 防御检测 | [Contrastive Adversarial Training for Robust Graph Neural Networks under Label Poisoning](cards-0003.md#paper-150131) | 使用标签与局部图结构的一致性识别异常监督。 |
+| 科学机器学习 | 证据比较 | [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](cards-0003.md#paper-154298) | 对同一个问题比较互斥解释，用证据更新排序。 |

@@ -1604,66 +1604,66 @@ poster_id	title	paper_url	status	reason
 150543	Conservative Continuous-Time Treatment Optimization	https://neurips.cc/virtual/2026/poster/150543	included	对离线连续控制惩罚预测轨迹超出观测支持
 155960	Conservative neural posterior estimation via distributionally robust training	https://neurips.cc/virtual/2026/poster/155960	included	低仿真预算下用分布鲁棒损失训练后验
 152985	Conservative Pareto Set Amortization for Offline Multi-Objective Optimization	https://neurips.cc/virtual/2026/poster/152985	included	按偏好直接查询单个设计
-153648	Consilience for Verifier-Free Test-Time Scaling	https://neurips.cc/virtual/2026/poster/153648	pending	-
-155880	Consistency as a Testable Property: Statistical Methods to Evaluate AI Agent Reliability	https://neurips.cc/virtual/2026/poster/155880	pending	-
-151483	Consistency-Preserving Concept Erasure via Unsafe–Safe Pairing and Directional Fisher-weighted Adaptation	https://neurips.cc/virtual/2026/poster/151483	pending	-
-154153	Consistency Regularised Gradient Flows for Inverse Problems	https://neurips.cc/virtual/2026/poster/154153	pending	-
-152211	Consistency-Verified Backdoor Defense for Federated Graph Learning via Cross-Layer Drift	https://neurips.cc/virtual/2026/poster/152211	pending	-
-148758	Consistent 3D Surface Flow Model with Global State	https://neurips.cc/virtual/2026/poster/148758	pending	-
-156639	Consistent Bayesian Spatial Domain Partitioning Using Predictive Spanning Tree Methods	https://neurips.cc/virtual/2026/poster/156639	pending	-
-153249	Consistent Geometric Deep Learning via Hilbert Bundles and Cellular Sheaves	https://neurips.cc/virtual/2026/poster/153249	pending	-
-150290	Consistent One-vs-All Losses Robust to Misspecification of the Weak Label Transition Model	https://neurips.cc/virtual/2026/poster/150290	pending	-
-150965	Consolidating Reasoning with Test-Time Learning	https://neurips.cc/virtual/2026/poster/150965	pending	-
-153456	Consolidating Rewarded Perturbations for LLM Post-Training	https://neurips.cc/virtual/2026/poster/153456	pending	-
-152366	Constant Term Shrinkage for Federated Learning	https://neurips.cc/virtual/2026/poster/152366	pending	-
-154134	Constrained Bombieri Point Processes	https://neurips.cc/virtual/2026/poster/154134	pending	-
-148166	Constrained Code Generation with Discrete Diffusion	https://neurips.cc/virtual/2026/poster/148166	pending	-
-149103	Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata	https://neurips.cc/virtual/2026/poster/149103	pending	-
-152576	Constrained Factorization with Diagonal Scaling: Rank-Revealing Training and Pruning	https://neurips.cc/virtual/2026/poster/152576	pending	-
-154981	Constrained Goal-directed Planar Graph Generation with Grammar-based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154981	pending	-
-151463	Constrained Graph Clustering: A Spectral Algorithm with Generalized Eigenvectors	https://neurips.cc/virtual/2026/poster/151463	pending	-
-151736	Constrained Look-ahead Guidance for Interference-Aware Flow Editing	https://neurips.cc/virtual/2026/poster/151736	pending	-
-154144	Constrained MDPs with Trajectory Constraints	https://neurips.cc/virtual/2026/poster/154144	pending	-
-152484	Constrained Modulatory Reservoirs for Context-Dependent Computation	https://neurips.cc/virtual/2026/poster/152484	pending	-
-149304	Constrained Stochastic Spectral Preconditioning Converges for Nonconvex Objectives	https://neurips.cc/virtual/2026/poster/149304	pending	-
-154276	CONSTRAINER: Promptable Graph-Structured Optimization via Constraint Conditioning	https://neurips.cc/virtual/2026/poster/154276	pending	-
-155081	Constraint-Aware Influence Estimation in Deep Constrained Learning	https://neurips.cc/virtual/2026/poster/155081	pending	-
-155108	Constraint Retrieval Is Not Constraint Enforcement in Large Language Models	https://neurips.cc/virtual/2026/poster/155108	pending	-
-152789	Constructive Neural Policies for the Quadratic Assignment Problem via Multi-Expert Imitation	https://neurips.cc/virtual/2026/poster/152789	pending	-
-154159	Consumer Search and Social Learning in Agentic Markets	https://neurips.cc/virtual/2026/poster/154159	pending	-
-154366	Contact Geometry for Generative Models: An Unbalanced Optimal Transport Formulation	https://neurips.cc/virtual/2026/poster/154366	pending	-
-149750	Context as Low-Rank Weights: Bounded Parametric Dynamic Memory for Unbounded Context	https://neurips.cc/virtual/2026/poster/149750	pending	-
-151846	Context-Aware Autoregressive Image Generation for Emerging Reasoning Properties	https://neurips.cc/virtual/2026/poster/151846	pending	-
-151257	Context-Aware Generative Imputation for Robust Multimodal Learning in Missing Modality Scenarios	https://neurips.cc/virtual/2026/poster/151257	pending	-
-153871	Context Binding and Reusable Leakage in Threshold Decryption	https://neurips.cc/virtual/2026/poster/153871	pending	-
-139652	ContextShift: A Controlled Benchmark for Context Dependence in Object Detection	https://neurips.cc/virtual/2026/poster/139652	pending	-
-148315	Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation	https://neurips.cc/virtual/2026/poster/148315	pending	-
-156013	Contextual Flow Matching for High-quality Visual Content Generation	https://neurips.cc/virtual/2026/poster/156013	pending	-
-138894	Contextualized Evaluation of Vision Language Models through Dynamic Interviews	https://neurips.cc/virtual/2026/poster/138894	pending	-
-149025	Context Value Informed In-Context Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149025	pending	-
-139270	Continual Learning Bench: Evaluating Frontier AI Systems in Real-World Stateful Environments	https://neurips.cc/virtual/2026/poster/139270	pending	-
-152180	Continual Learning in Modern Hopfield Networks with an Application to Diffusion Models	https://neurips.cc/virtual/2026/poster/152180	pending	-
-155372	Continually Evolving Skill Knowledge in Vision Language Action Model	https://neurips.cc/virtual/2026/poster/155372	pending	-
-156741	Continual Robot Learning via Language-Guided Skill Acquisition	https://neurips.cc/virtual/2026/poster/156741	pending	-
-149660	Continuity Laws for Sequential Models	https://neurips.cc/virtual/2026/poster/149660	pending	-
-149317	ContinuLoc: Continuous Pose Inference over Neural Fields for UAV Geo-Localization	https://neurips.cc/virtual/2026/poster/149317	pending	-
-148651	Continuous Audio Thinking for Large Audio Language Models	https://neurips.cc/virtual/2026/poster/148651	pending	-
-150043	Continuous-depth Deep Gaussian Processes	https://neurips.cc/virtual/2026/poster/150043	pending	-
-152067	Continuous Diffusion Scales Competitively with Discrete Diffusion for Language	https://neurips.cc/virtual/2026/poster/152067	pending	-
-149532	Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration	https://neurips.cc/virtual/2026/poster/149532	pending	-
-154716	Continuous Latent Diffusion Language Model	https://neurips.cc/virtual/2026/poster/154716	pending	-
-148351	Continuously-Augmented Hybrid Masked Diffusion Model for Data Imputation	https://neurips.cc/virtual/2026/poster/148351	pending	-
-149488	Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs	https://neurips.cc/virtual/2026/poster/149488	pending	-
-149111	Continuous p-adic Optimization	https://neurips.cc/virtual/2026/poster/149111	pending	-
-153749	Continuous Personalized Diffusion Model via Spinor-Component Forward Geometry	https://neurips.cc/virtual/2026/poster/153749	pending	-
-150079	Continuous-Time Distribution Matching for Few-Step Diffusion Distillation	https://neurips.cc/virtual/2026/poster/150079	pending	-
-155748	Contour Monte Carlo: Sampling via Energy Level Sets	https://neurips.cc/virtual/2026/poster/155748	pending	-
-139770	ContractBench: Can LLM Agents Preserve Observation Contracts?	https://neurips.cc/virtual/2026/poster/139770	pending	-
-150369	Contractive Monoids: The Algebra Behind Stable Residual Propagation in Deep Graph Neural Networks	https://neurips.cc/virtual/2026/poster/150369	pending	-
-152740	Contractive Restoring Flows: Robust Reasoning Distillation via Orbital Stability	https://neurips.cc/virtual/2026/poster/152740	pending	-
-149353	Contrast encodes inductive bias: separating slow noise from dynamics in predictive representation learning	https://neurips.cc/virtual/2026/poster/149353	pending	-
-150131	Contrastive Adversarial Training for Robust Graph Neural Networks under Label Poisoning	https://neurips.cc/virtual/2026/poster/150131	pending	-
-154298	Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations	https://neurips.cc/virtual/2026/poster/154298	pending	-
+153648	Consilience for Verifier-Free Test-Time Scaling	https://neurips.cc/virtual/2026/poster/153648	included	按置信度轨迹选解
+155880	Consistency as a Testable Property: Statistical Methods to Evaluate AI Agent Reliability	https://neurips.cc/virtual/2026/poster/155880	included	测语义等价扰动下的过程稳定性
+151483	Consistency-Preserving Concept Erasure via Unsafe–Safe Pairing and Directional Fisher-weighted Adaptation	https://neurips.cc/virtual/2026/poster/151483	included	用配对替代监督保留周边语义
+154153	Consistency Regularised Gradient Flows for Inverse Problems	https://neurips.cc/virtual/2026/poster/154153	included	在潜空间联合采样与调提示
+152211	Consistency-Verified Backdoor Defense for Federated Graph Learning via Cross-Layer Drift	https://neurips.cc/virtual/2026/poster/152211	included	服务器核对风险与提交更新后再加权
+148758	Consistent 3D Surface Flow Model with Global State	https://neurips.cc/virtual/2026/poster/148758	included	分离全局表示容量和点云输出分辨率
+156639	Consistent Bayesian Spatial Domain Partitioning Using Predictive Spanning Tree Methods	https://neurips.cc/virtual/2026/poster/156639	included	用生成树切分构造可预测的连续区域
+153249	Consistent Geometric Deep Learning via Hilbert Bundles and Cellular Sheaves	https://neurips.cc/virtual/2026/poster/153249	included	对流形上的函数型信号保留纤维间连接
+150290	Consistent One-vs-All Losses Robust to Misspecification of the Weak Label Transition Model	https://neurips.cc/virtual/2026/poster/150290	included	转移模型不稳时优先保证分类排序
+150965	Consolidating Reasoning with Test-Time Learning	https://neurips.cc/virtual/2026/poster/150965	included	用可更新参数合成多条轨迹
+153456	Consolidating Rewarded Perturbations for LLM Post-Training	https://neurips.cc/virtual/2026/poster/153456	included	把奖励加权专家折叠为单次推理模型
+152366	Constant Term Shrinkage for Federated Learning	https://neurips.cc/virtual/2026/poster/152366	included	只收缩受异质性影响的更新分量
+154134	Constrained Bombieri Point Processes	https://neurips.cc/virtual/2026/poster/154134	included	样本规模固定时考虑精确组合采样
+148166	Constrained Code Generation with Discrete Diffusion	https://neurips.cc/virtual/2026/poster/148166	included	在去噪中加入程序正确性检查
+149103	Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata	https://neurips.cc/virtual/2026/poster/149103	included	把格式约束编成有限自动机再并行采样
+152576	Constrained Factorization with Diagonal Scaling: Rank-Revealing Training and Pruning	https://neurips.cc/virtual/2026/poster/152576	included	显式对角尺度用于训练中识别冗余
+154981	Constrained Goal-directed Planar Graph Generation with Grammar-based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154981	included	将语法动作投影到随状态变化的可行集
+151463	Constrained Graph Clustering: A Spectral Algorithm with Generalized Eigenvectors	https://neurips.cc/virtual/2026/poster/151463	included	用必须同组和禁同组两图构造广义谱嵌入
+151736	Constrained Look-ahead Guidance for Interference-Aware Flow Editing	https://neurips.cc/virtual/2026/poster/151736	included	更新前先预测编辑与保真是否冲突
+154144	Constrained MDPs with Trajectory Constraints	https://neurips.cc/virtual/2026/poster/154144	included	高风险约束按历史条件化而非从起点平均
+152484	Constrained Modulatory Reservoirs for Context-Dependent Computation	https://neurips.cc/virtual/2026/poster/152484	included	隔离循环调制的贡献
+149304	Constrained Stochastic Spectral Preconditioning Converges for Nonconvex Objectives	https://neurips.cc/virtual/2026/poster/149304	included	用近端扩展处理谱优化约束
+154276	CONSTRAINER: Promptable Graph-Structured Optimization via Constraint Conditioning	https://neurips.cc/virtual/2026/poster/154276	included	显式编码约束以复用求解骨干
+155081	Constraint-Aware Influence Estimation in Deep Constrained Learning	https://neurips.cc/virtual/2026/poster/155081	included	样本移除时同时考虑可行域变化
+155108	Constraint Retrieval Is Not Constraint Enforcement in Large Language Models	https://neurips.cc/virtual/2026/poster/155108	included	分开评估规则召回和执行
+152789	Constructive Neural Policies for the Quadratic Assignment Problem via Multi-Expert Imitation	https://neurips.cc/virtual/2026/poster/152789	included	单趟构造分配时保留专家序列多样性
+154159	Consumer Search and Social Learning in Agentic Markets	https://neurips.cc/virtual/2026/poster/154159	included	设计搜索系统时验证搜索信号是否进入公共反馈
+154366	Contact Geometry for Generative Models: An Unbalanced Optimal Transport Formulation	https://neurips.cc/virtual/2026/poster/154366	included	对未配对图像分布分开建模迁移与质量变化
+149750	Context as Low-Rank Weights: Bounded Parametric Dynamic Memory for Unbounded Context	https://neurips.cc/virtual/2026/poster/149750	included	以固定秩权重更新替代部分历史缓存
+151846	Context-Aware Autoregressive Image Generation for Emerging Reasoning Properties	https://neurips.cc/virtual/2026/poster/151846	included	动态选择下一个空间生成位置
+151257	Context-Aware Generative Imputation for Robust Multimodal Learning in Missing Modality Scenarios	https://neurips.cc/virtual/2026/poster/151257	included	从已见模态补全任务潜变量
+153871	Context Binding and Reusable Leakage in Threshold Decryption	https://neurips.cc/virtual/2026/poster/153871	included	评估泄漏后果时检查历史授权是否影响未来
+139652	ContextShift: A Controlled Benchmark for Context Dependence in Object Detection	https://neurips.cc/virtual/2026/poster/139652	included	固定物体外观后单独改变背景
+148315	Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation	https://neurips.cc/virtual/2026/poster/148315	included	根据输入分配流模型积分步数
+156013	Contextual Flow Matching for High-quality Visual Content Generation	https://neurips.cc/virtual/2026/poster/156013	included	训练速度场时约束局部空间关系
+138894	Contextualized Evaluation of Vision Language Models through Dynamic Interviews	https://neurips.cc/virtual/2026/poster/138894	included	用任务状态图驱动多轮追问
+149025	Context Value Informed In-Context Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149025	included	在有限测试轨迹中用价值预测辅助上下文适应
+139270	Continual Learning Bench: Evaluating Frontier AI Systems in Real-World Stateful Environments	https://neurips.cc/virtual/2026/poster/139270	included	把经验带来的增益与底座能力分开
+152180	Continual Learning in Modern Hopfield Networks with an Application to Diffusion Models	https://neurips.cc/virtual/2026/poster/152180	included	优先回放能量较高且易遗忘的样本
+155372	Continually Evolving Skill Knowledge in Vision Language Action Model	https://neurips.cc/virtual/2026/poster/155372	included	共享固定容量网络并按技能知识路由
+156741	Continual Robot Learning via Language-Guided Skill Acquisition	https://neurips.cc/virtual/2026/poster/156741	included	按语义相关性挑已有技能热启动新技能。
+149660	Continuity Laws for Sequential Models	https://neurips.cc/virtual/2026/poster/149660	included	用时间细化试验验证序列模型是否连续，再选择降采样频率。
+149317	ContinuLoc: Continuous Pose Inference over Neural Fields for UAV Geo-Localization	https://neurips.cc/virtual/2026/poster/149317	included	用可查询连续语义地图取代固定候选位姿库。
+148651	Continuous Audio Thinking for Large Audio Language Models	https://neurips.cc/virtual/2026/poster/148651	included	把声学证据保存在预填充的连续潜空间中。
+150043	Continuous-depth Deep Gaussian Processes	https://neurips.cc/virtual/2026/poster/150043	included	深层高斯过程优化恶化时，对照残差化与连续深度先验。
+152067	Continuous Diffusion Scales Competitively with Discrete Diffusion for Language	https://neurips.cc/virtual/2026/poster/152067	included	比较连续与离散扩散时，匹配架构与计算，并单测似然训练的嵌入收益。
+149532	Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration	https://neurips.cc/virtual/2026/poster/149532	included	对空间位置分别生成低秩残差以处理局部退化。
+154716	Continuous Latent Diffusion Language Model	https://neurips.cc/virtual/2026/poster/154716	included	把全局语义生成和局部 token 实现分开建模。
+148351	Continuously-Augmented Hybrid Masked Diffusion Model for Data Imputation	https://neurips.cc/virtual/2026/poster/148351	included	将观测硬约束嵌入采样过程。
+149488	Continuous Open-ended Discovery and Evolution of Skills as Hierarchical Reward Programs	https://neurips.cc/virtual/2026/poster/149488	included	以可执行成功判定及依赖链组织仿真技能课程。
+149111	Continuous p-adic Optimization	https://neurips.cc/virtual/2026/poster/149111	included	离散赋值使梯度消失时，将优化提升到保几何的连通空间。
+153749	Continuous Personalized Diffusion Model via Spinor-Component Forward Geometry	https://neurips.cc/virtual/2026/poster/153749	included	把连续控制信号注入前向扩散几何。
+150079	Continuous-Time Distribution Matching for Few-Step Diffusion Distillation	https://neurips.cc/virtual/2026/poster/150079	included	将固定时间锚点改成连续随机日程，并对学生轨迹外预测做匹配。
+155748	Contour Monte Carlo: Sampling via Energy Level Sets	https://neurips.cc/virtual/2026/poster/155748	included	把困难后验采样拆分为能量边缘和层集内条件采样。
+139770	ContractBench: Can LLM Agents Preserve Observation Contracts?	https://neurips.cc/virtual/2026/poster/139770	included	分别验收中间工件的时效与字节完整性。
+150369	Contractive Monoids: The Algebra Behind Stable Residual Propagation in Deep Graph Neural Networks	https://neurips.cc/virtual/2026/poster/150369	included	深层消息传递用含恒等元且对组合闭合的收缩约束。
+152740	Contractive Restoring Flows: Robust Reasoning Distillation via Orbital Stability	https://neurips.cc/virtual/2026/poster/152740	included	蒸馏时收缩离开教师轨迹的误差，保留沿轨迹的变化。
+149353	Contrast encodes inductive bias: separating slow noise from dynamics in predictive representation learning	https://neurips.cc/virtual/2026/poster/149353	included	使用同轨迹负样本以移除轨迹特有慢噪声捷径。
+150131	Contrastive Adversarial Training for Robust Graph Neural Networks under Label Poisoning	https://neurips.cc/virtual/2026/poster/150131	included	使用标签与局部图结构的一致性识别异常监督。
+154298	Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations	https://neurips.cc/virtual/2026/poster/154298	included	对同一个问题比较互斥解释，用证据更新排序。
 150808	Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion	https://neurips.cc/virtual/2026/poster/150808	pending	-
 152434	Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weathers	https://neurips.cc/virtual/2026/poster/152434	pending	-
 150695	Contrastive Identification and Generation in the Limit	https://neurips.cc/virtual/2026/poster/150695	pending	-
