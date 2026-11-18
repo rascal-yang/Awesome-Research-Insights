@@ -2341,3 +2341,63 @@
 - **适用条件 / 局限** · 需要足以学习和校准风险的经验覆盖；部署条件偏移时需重新验证。
 
 **可复用机制** · 固定安全模型，比较把风险嵌入路点距离和在执行前过滤动作，检验多段路径的整体安全与到达率。
+
+<a id="paper-dyo8vc0zyk"></a>
+
+## Prioritized Multi-Constraint Coordination for Safe Multi-Robot Formation Navigation
+
+[会议记录](https://openreview.net/forum?id=DyO8vc0zYK) · [原文](https://openreview.net/pdf?id=DyO8vc0zYK)
+
+- **问题 / 瓶颈** · 狭窄空间里保持编队与避碰可能冲突。
+- **核心创新 / 方法** · 集中 critic 分头估计回报、安全违规和编队退化，通过在线预算调节分散 actor，用层级优势更新策略。
+- **Baseline** · 基于集中训练、分散执行的 actor–critic；摘要未列实验基线。
+- **Benchmark** · VMAS 静动态障碍编队导航及全向 AGV 车队演示；摘要未给指标。
+- **关键结果 / 消融** · 作者报告策略能在局部冲突时变形避障并恢复编队；摘要未列数值。
+- **适用条件 / 局限** · 需要区分紧急约束和可恢复约束；通信和规模边界未报告。
+
+**可复用机制** · 控制多目标系统时将安全和可恢复误差分头估值，并与固定加权标量奖励比较局部冲突下的恢复表现。
+
+<a id="paper-xyrbf93mwh"></a>
+
+## Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation
+
+[会议记录](https://openreview.net/forum?id=xyRbF93MWh) · [原文](https://openreview.net/pdf?id=xyRbF93MWh)
+
+- **问题 / 瓶颈** · 单步安全过滤只能纠正当前动作，可能不断修正同一条风险上升的名义轨迹。
+- **核心创新 / 方法** · 在线按预测时域校准障碍残差，在 MPC 滚动轨迹上估计屏障损失的尾部 CVaR，超预算则重选速度或走廊等模式。
+- **Baseline** · 对照仅使用单步安全过滤。
+- **Benchmark** · 非平稳导航基准测碰撞与过滤器干预，并做硬件在环验证。
+- **关键结果 / 消融** · 相对对照，碰撞减少 83.3%，平均过滤器干预减少 32.4%。
+- **适用条件 / 局限** · 依赖在线残差校准及可选规划模式；摘要未说明极端漂移下的保证条件。
+
+**可复用机制** · 如果过滤器频繁介入，同步监控整个规划时域的风险，在尾部损失超限时换计划。
+
+<a id="paper-60tpxlifym"></a>
+
+## Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems
+
+[会议记录](https://openreview.net/forum?id=60tPXLIFyM) · [原文](https://openreview.net/pdf?id=60tPXLIFyM)
+
+- **问题 / 瓶颈** · 任务顺序与运动可达性共同决定失败，导致两层间信用分配困难。
+- **核心创新 / 方法** · 用路点参数化轨迹，通过课程训练和改造的 RLVR 将低层可行性反馈传回高层。
+- **Baseline** · 比较不考虑运动可行性的规划与 VLA 基线；摘要未列方法名。
+- **Benchmark** · BoxNet3D-Obs，密集障碍和最多九个机器人，以任务成功为主要结果。
+- **关键结果 / 消融** · 作者报告成功率持续改善；摘要未分解路点和课程的贡献。
+- **适用条件 / 局限** · 依赖可判定的低层反馈；路点稀疏时可能弱化对中间运动的约束。
+
+**可复用机制** · 训练分层 agent 时将子计划实例化为可由执行层验证的表示，并测试可行性奖励是否减少高层无效任务序列。
+
+<a id="paper-c0ygolwl7i"></a>
+
+## X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching
+
+[会议记录](https://openreview.net/forum?id=c0ygOLwL7i) · [原文](https://openreview.net/pdf?id=c0ygOLwL7i)
+
+- **问题 / 瓶颈** · 扩散似然难处理，直接策略梯度不稳；预训练策略的在线探索范围也有限。
+- **核心创新 / 方法** · 在保持预训练先验的条件下扰动行为探索，对同状态轨迹 Q 分组归一化，以重加权 score matching 更新。
+- **Baseline** · 以预训练导航扩散策略为起点；摘要未列其他对照名称。
+- **Benchmark** · 异构机器人分布式在线 RL、导航仿真和真机困难场景，测成功率。
+- **关键结果 / 消融** · 仿真总体成功率从 61.20% 到 84.28%，真机困难场景从 10% 到 65%；摘要未列两个组件各自增益。
+- **适用条件 / 局限** · 需要可训练的轨迹价值估计和在线采样，所需预算与部署机器人覆盖须查正文。
+
+**可复用机制** · 保留扩散预训练目标形式，用同状态组内相对价值给轨迹加权，并与不归一化权重对照。

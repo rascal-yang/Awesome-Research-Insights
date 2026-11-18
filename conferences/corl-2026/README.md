@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **162 / 687** 篇，当前收录 **156** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **167 / 687** 篇，当前收录 **160** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -162,3 +162,7 @@
 | 具身智能 / 多模态 | 空间表示 | [One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation](cards.md#paper-bxqv3kn5ql) | 让多模态规划器按需查询度量世界状态，并由状态层约束动作可执行性。 |
 | 具身智能 / 多模态 | 不确定性校准 | [CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation](cards.md#paper-ptqogquuch) | 先校准开放词汇危险类别预测集合，再按语义风险扩张避障区域。 |
 | 具身智能 / 规划 | 代价建模 | [CoGeL: Constraint-to-Geometry Learning from Demonstrations and Failures for Safe Long-Horizon Robot Navigation](cards.md#paper-xm8lpylbxa) | 将从干预和失败学来的局部风险直接写入用于长程规划的目标距离。 |
+| 具身智能 / 多智能体 | 约束强化学习 | [Prioritized Multi-Constraint Coordination for Safe Multi-Robot Formation Navigation](cards.md#paper-dyo8vc0zyk) | 将避碰与编队变形赋予不同优先级，并让分布式 actor 感知当前预算。 |
+| 具身智能 / 规划 | 风险控制 | [Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation](cards.md#paper-xyrbf93mwh) | 用未来轨迹的尾部风险触发换规划模式，同时保留下一步安全过滤。 |
+| 具身智能 / 多智能体 | 分层规划 | [Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems](cards.md#paper-60tpxlifym) | 以路点定义可验证的低层规划输出，并把运动可行性反馈给任务规划器。 |
+| 具身智能 / 强化学习 | 扩散策略 | [X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching](cards.md#paper-c0ygolwl7i) | 用同状态的轨迹 Q 分组归一化来加权 score matching，后训练扩散策略。 |

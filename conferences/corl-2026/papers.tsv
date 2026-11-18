@@ -169,11 +169,11 @@ number	openreview_id	title	paper_url	reason	status
 168	bXQv3Kn5qL	One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation	https://openreview.net/forum?id=bXQv3Kn5qL	让多模态规划器按需查询度量世界状态，并由状态层约束动作可执行性。	included
 169	pTqOGquuCh	CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation	https://openreview.net/forum?id=pTqOGquuCh	先校准开放词汇危险类别预测集合，再按语义风险扩张避障区域。	included
 170	xm8LPYlbxA	CoGeL: Constraint-to-Geometry Learning from Demonstrations and Failures for Safe Long-Horizon Robot Navigation	https://openreview.net/forum?id=xm8LPYlbxA	将从干预和失败学来的局部风险直接写入用于长程规划的目标距离。	included
-171	DyO8vc0zYK	Prioritized Multi-Constraint Coordination for Safe Multi-Robot Formation Navigation	https://openreview.net/forum?id=DyO8vc0zYK		pending
-172	xyRbF93MWh	Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation	https://openreview.net/forum?id=xyRbF93MWh		pending
-173	60tPXLIFyM	Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems	https://openreview.net/forum?id=60tPXLIFyM		pending
-174	XA0dFQQlqP	PanoVine: Whole-Body Visuomotor Control for Soft Growing Vine Robot	https://openreview.net/forum?id=XA0dFQQlqP		pending
-175	c0ygOLwL7i	X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching	https://openreview.net/forum?id=c0ygOLwL7i		pending
+171	DyO8vc0zYK	Prioritized Multi-Constraint Coordination for Safe Multi-Robot Formation Navigation	https://openreview.net/forum?id=DyO8vc0zYK	将避碰与编队变形赋予不同优先级，并让分布式 actor 感知当前预算。	included
+172	xyRbF93MWh	Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation	https://openreview.net/forum?id=xyRbF93MWh	用未来轨迹的尾部风险触发换规划模式，同时保留下一步安全过滤。	included
+173	60tPXLIFyM	Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems	https://openreview.net/forum?id=60tPXLIFyM	以路点定义可验证的低层规划输出，并把运动可行性反馈给任务规划器。	included
+174	XA0dFQQlqP	PanoVine: Whole-Body Visuomotor Control for Soft Growing Vine Robot	https://openreview.net/forum?id=XA0dFQQlqP	摘要的主要贡献是将分布式相机与示范学习集成到软体藤蔓机器人；未说明可独立复用的融合算法或能指导一般分布式感知设计的对照结果。	excluded
+175	c0ygOLwL7i	X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching	https://openreview.net/forum?id=c0ygOLwL7i	用同状态的轨迹 Q 分组归一化来加权 score matching，后训练扩散策略。	included
 176	rwx9GCSVjH	PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors	https://openreview.net/forum?id=rwx9GCSVjH		pending
 177	eRpTR7EEC1	LIME: Learning Intent-aware Camera Motion from Egocentric Video	https://openreview.net/forum?id=eRpTR7EEC1		pending
 178	5oNzcK6SBR	PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models	https://openreview.net/forum?id=5oNzcK6SBR		pending
