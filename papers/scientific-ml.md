@@ -123,6 +123,7 @@
 - <a id="zanotta26a-architecture"></a>[CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control](../conferences/icml-2026/cards/5601-5700.md#paper-zanotta26a)
 - <a id="zhang26fo-architecture"></a>[FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fo)
 - <a id="zhao26ak-architecture"></a>[MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ak)
+- <a id="zhdanov26a-architecture"></a>[(Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhdanov26a)
 
 <a id="by-modules"></a>
 
@@ -439,6 +440,7 @@
 - <a id="xia26a-evaluation"></a>[Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xia26a)
 - <a id="yao26k-evaluation"></a>[The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench](../conferences/icml-2026/cards/5401-5500.md#paper-yao26k)
 - <a id="zhang26am-evaluation"></a>[WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26am)
+- <a id="zheng26n-evaluation"></a>[Overcoming the Modality Gap in Context-Aided Forecasting](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26n)
 
 <a id="by-theory-statistics"></a>
 

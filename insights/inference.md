@@ -384,6 +384,9 @@
 - [批量页表提交支撑弹性连续张量](../conferences/icml-2026/cards/5901-6000.md#zhang26iu-inference) · CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization
 - [按验证需求路由judge推理](../conferences/icml-2026/cards/5901-6000.md#zhang26iv-inference) · Reasoning Is Not Free: Robust Adaptive Cost-Efficient Routing for LLM-as-a-Judge
 - [将专家稀疏合并的元数据打包入权重](../conferences/icml-2026/cards/6001-6100.md#zhao26ay-inference) · PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Fine-Grained Expert Merging and Bit-packed Inference
+- [跨分支临时答案共识的宽深控制](../conferences/icml-2026/cards/6001-6100.md#zheng26c-inference) · Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing
+- [prefill冗余分区的自推测层搜索](../conferences/icml-2026/cards/6101-6200.md#zheng26k-inference) · LEAP: Zone-Aware MCTS for LLM Self-Speculative Decoding
+- [扩散LM的mask logits与动态峰值工作区](../conferences/icml-2026/cards/6101-6200.md#zheng26o-inference) · Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming
 
 <a id="by-computer-vision"></a>
 
@@ -527,6 +530,8 @@
 - [用频带过滤的glyph latent改善文字渲染](../conferences/icml-2026/cards/5901-6000.md#zhang26ge-inference) · FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection
 - [在相同预算下组合global与block低rank并调量化bits](../conferences/icml-2026/cards/5901-6000.md#zhang26hm-inference) · Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution
 - [按prompt注意力spike抑制记忆](../conferences/icml-2026/cards/6001-6100.md#zhao26as-inference) · You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models
+- [按轴尺度移动的RoPE调制时间窗](../conferences/icml-2026/cards/6001-6100.md#zhao26cc-inference) · $σ$: Sigmoid Modulation for Ultra High Resolution Diffusion
+- [动态子空间恢复的测量校正与晚期去噪](../conferences/icml-2026/cards/6101-6200.md#zheng26f-inference) · Image Restoration via Diffusion Models with Dynamic Resolution
 
 <a id="by-nlp"></a>
 
@@ -735,6 +740,7 @@
 - [视觉敏感token的选择性隐状态控制](../conferences/icml-2026/cards/5801-5900.md#zhang26cg-inference) · Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation
 - [以hidden-norm梯度定位并抑制异常视觉tokens](../conferences/icml-2026/cards/5801-5900.md#zhang26ee-inference) · Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack
 - [先保图像问题分支再融合RAG文本](../conferences/icml-2026/cards/6001-6100.md#zhao26g-inference) · When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs
+- [Hilbert序的连续块稀疏与层间滑动](../conferences/icml-2026/cards/6101-6200.md#zheng26m-inference) · HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data
 
 <a id="by-ml-foundations"></a>
 

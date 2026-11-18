@@ -83,6 +83,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="zhan26d-optimization"></a>[Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL](../../conferences/icml-2026/cards/5701-5800.md#paper-zhan26d)
 - <a id="zhang26ep-optimization"></a>[Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ep)
 - <a id="zhao26b-optimization"></a>[Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26b)
+- <a id="zheng26d-optimization"></a>[Bilevel Optimization over Saddle Points of Zero-Sum Markov Games](../../conferences/icml-2026/cards/6001-6100.md#paper-zheng26d)
 
 <a id="by-reinforcement-learning"></a><a id="group-relative-policy-optimization"></a>
 

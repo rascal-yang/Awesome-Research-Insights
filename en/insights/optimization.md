@@ -185,6 +185,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL](../../conferences/icml-2026/cards/5701-5800.md#zhan26d-optimization) · 中文
 - [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26ep-optimization) · 中文
 - [Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL](../../conferences/icml-2026/cards/6001-6100.md#zhao26b-optimization) · 中文
+- [Bilevel Optimization over Saddle Points of Zero-Sum Markov Games](../../conferences/icml-2026/cards/6001-6100.md#zheng26d-optimization) · 中文
 
 <a id="by-robotics"></a>
 
@@ -197,6 +198,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Debate2Create: Robot Co-design via Multi-Agent LLM Debate](../../conferences/icml-2026/cards/3701-3800.md#qiu26c-optimization) · 中文
 - [Neural Control: Adjoint Learning Through Equilibrium Constraints](../../conferences/icml-2026/cards/4401-4500.md#tong26j-optimization) · 中文
 - [Wasserstein Geometry-Aware Adaptive Control via Meta-Learning](../../conferences/icml-2026/cards/5401-5500.md#yang26bh-optimization) · 中文
+- [Dual Quaternion SE(3) Synchronization with Recovery Guarantees](../../conferences/icml-2026/cards/6001-6100.md#zhao26cd-optimization) · 中文
 
 <a id="by-multimodal"></a>
 

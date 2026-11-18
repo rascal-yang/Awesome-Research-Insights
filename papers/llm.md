@@ -71,6 +71,7 @@
 - <a id="yoo26b-architecture"></a>[Infinite Mask Diffusion for Few-Step Distillation](../conferences/icml-2026/cards/5501-5600.md#paper-yoo26b)
 - <a id="yordanov26a-architecture"></a>[Prototype Transformer: Towards Language Model Architectures Interpretable by Design](../conferences/icml-2026/cards/5501-5600.md#paper-yordanov26a)
 - <a id="zeng26h-architecture"></a>[Attention with Routed-Memory for Learnable Sparse Control](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26h)
+- <a id="zhao26ce-architecture"></a>[ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ce)
 
 <a id="by-modules"></a>
 
@@ -668,6 +669,7 @@
 - <a id="zhang26cc-training-strategies"></a>[FedRot-LoRA: Mitigating Rotational Misalignment in Federated LoRA](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cc)
 - <a id="zhang26gt-training-strategies"></a>[dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gt)
 - <a id="zhang26gx-training-strategies"></a>[Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gx)
+- <a id="zheng26e-training-strategies"></a>[Proxy Compression for Language Modeling](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26e)
 
 <a id="by-data-strategies"></a>
 
@@ -1136,6 +1138,9 @@
 - <a id="zhang26iu-inference"></a>[CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iu)
 - <a id="zhang26iv-inference"></a>[Reasoning Is Not Free: Robust Adaptive Cost-Efficient Routing for LLM-as-a-Judge](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iv)
 - <a id="zhao26ay-inference"></a>[PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Fine-Grained Expert Merging and Bit-packed Inference](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ay)
+- <a id="zheng26c-inference"></a>[Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing](../conferences/icml-2026/cards/6001-6100.md#paper-zheng26c)
+- <a id="zheng26k-inference"></a>[LEAP: Zone-Aware MCTS for LLM Self-Speculative Decoding](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26k)
+- <a id="zheng26o-inference"></a>[Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26o)
 
 <a id="by-representation-learning"></a>
 
@@ -1538,6 +1543,7 @@
 - <a id="zhao26aq-evaluation"></a>[CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26aq)
 - <a id="zhao26aw-evaluation"></a>[Large Language Model Agents Are Not Always Faithful Self-Evolvers](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26aw)
 - <a id="zhao26bm-evaluation"></a>[AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bm)
+- <a id="zheng26i-evaluation"></a>[UniCode: Augmenting Evaluation for Code Reasoning](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26i)
 
 <a id="by-theory-statistics"></a>
 

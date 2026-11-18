@@ -1315,4 +1315,5 @@
 - <a id="zhang26ie-theory-statistics"></a>[Personalized Policy Learning through Discrete Experimentation](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ie)
 - <a id="zhang26iz-theory-statistics"></a>[Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iz)
 - <a id="zhao26av-theory-statistics"></a>[Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26av)
+- <a id="zheng26a-theory-statistics"></a>[From Generalist to Specialist Representation](../conferences/icml-2026/cards/6001-6100.md#paper-zheng26a)
 <!-- classification:end -->

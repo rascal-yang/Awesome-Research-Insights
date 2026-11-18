@@ -86,6 +86,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="qiu26c-optimization"></a>[Debate2Create: Robot Co-design via Multi-Agent LLM Debate](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26c)
 - <a id="tong26j-optimization"></a>[Neural Control: Adjoint Learning Through Equilibrium Constraints](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26j)
 - <a id="yang26bh-optimization"></a>[Wasserstein Geometry-Aware Adaptive Control via Meta-Learning](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bh)
+- <a id="zhao26cd-optimization"></a>[Dual Quaternion SE(3) Synchronization with Recovery Guarantees](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26cd)
 
 <a id="by-reinforcement-learning"></a>
 

@@ -171,6 +171,7 @@ Training schedules, curricula, and task or stage composition.
 - [FedRot-LoRA: Mitigating Rotational Misalignment in Federated LoRA](../../conferences/icml-2026/cards/5801-5900.md#zhang26cc-training-strategies) · 中文
 - [dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26gt-training-strategies) · 中文
 - [Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons](../../conferences/icml-2026/cards/5901-6000.md#zhang26gx-training-strategies) · 中文
+- [Proxy Compression for Language Modeling](../../conferences/icml-2026/cards/6101-6200.md#zheng26e-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

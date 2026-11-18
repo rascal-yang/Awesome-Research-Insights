@@ -185,6 +185,7 @@
 - [分离reward和future entropy价值](../conferences/icml-2026/cards/5701-5800.md#zhan26d-optimization) · Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL
 - [把独立与团队梯度差作为Lyapunov投影对象](../conferences/icml-2026/cards/5801-5900.md#zhang26ep-optimization) · Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization
 - [交替牺牲单目标与全目标修复来追Pareto前沿](../conferences/icml-2026/cards/6001-6100.md#zhao26b-optimization) · Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL
+- [零和下层均衡的NI惩罚梯度](../conferences/icml-2026/cards/6001-6100.md#zheng26d-optimization) · Bilevel Optimization over Saddle Points of Zero-Sum Markov Games
 
 <a id="by-robotics"></a>
 
@@ -197,6 +198,7 @@
 - [用模拟器裁决形态与奖励的多智能体辩论](../conferences/icml-2026/cards/3701-3800.md#qiu26c-optimization) · Debate2Create: Robot Co-design via Multi-Agent LLM Debate
 - [分支依赖平衡序列代理伴随](../conferences/icml-2026/cards/4401-4500.md#tong26j-optimization) · Neural Control: Adjoint Learning Through Equilibrium Constraints
 - [以任务分布几何学习自适应更新](../conferences/icml-2026/cards/5401-5500.md#yang26bh-optimization) · Wasserstein Geometry-Aware Adaptive Control via Meta-Learning
+- [双四元数同步的逐步可行幂迭代](../conferences/icml-2026/cards/6001-6100.md#zhao26cd-optimization) · Dual Quaternion SE(3) Synchronization with Recovery Guarantees
 
 <a id="by-multimodal"></a>
 

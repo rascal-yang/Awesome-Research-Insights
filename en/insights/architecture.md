@@ -71,6 +71,7 @@ Model-wide design and information flow.
 - [Infinite Mask Diffusion for Few-Step Distillation](../../conferences/icml-2026/cards/5501-5600.md#yoo26b-architecture) · 中文
 - [Prototype Transformer: Towards Language Model Architectures Interpretable by Design](../../conferences/icml-2026/cards/5501-5600.md#yordanov26a-architecture) · 中文
 - [Attention with Routed-Memory for Learnable Sparse Control](../../conferences/icml-2026/cards/5701-5800.md#zeng26h-architecture) · 中文
+- [ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns](../../conferences/icml-2026/cards/6001-6100.md#zhao26ce-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -468,4 +469,5 @@ Model-wide design and information flow.
 - [CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control](../../conferences/icml-2026/cards/5601-5700.md#zanotta26a-architecture) · 中文
 - [FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction](../../conferences/icml-2026/cards/5901-6000.md#zhang26fo-architecture) · 中文
 - [MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers](../../conferences/icml-2026/cards/6001-6100.md#zhao26ak-architecture) · 中文
+- [(Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models](../../conferences/icml-2026/cards/6001-6100.md#zhdanov26a-architecture) · 中文
 <!-- classification:end -->

@@ -385,6 +385,7 @@
 - [在相关judge中选条件独立视图](../conferences/icml-2026/cards/6001-6100.md#zhao26aq-evaluation) · CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
 - [分开审计原始轨迹和压缩经验](../conferences/icml-2026/cards/6001-6100.md#zhao26aw-evaluation) · Large Language Model Agents Are Not Always Faithful Self-Evolvers
 - [区分形式验证通过和算法语义遵循](../conferences/icml-2026/cards/6001-6100.md#zhao26bm-evaluation) · AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms
+- [区分叙述变化与算法结构变化的代码测试](../conferences/icml-2026/cards/6101-6200.md#zheng26i-evaluation) · UniCode: Augmenting Evaluation for Code Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -762,4 +763,5 @@
 - [几何探针指导算子重注入](../conferences/icml-2026/cards/5101-5200.md#xia26a-evaluation) · Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning
 - [极端物理regime的共享线性解码诊断](../conferences/icml-2026/cards/5401-5500.md#yao26k-evaluation) · The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench
 - [以目标波函数拟合扫行列式数与网络深度](../conferences/icml-2026/cards/5701-5800.md#zhang26am-evaluation) · WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws
+- [用无上下文与错配对照验证预测context](../conferences/icml-2026/cards/6101-6200.md#zheng26n-evaluation) · Overcoming the Modality Gap in Context-Aided Forecasting
 <!-- classification:end -->

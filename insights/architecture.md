@@ -71,6 +71,7 @@
 - [用随机mask latent提供并行解码共享随机性](../conferences/icml-2026/cards/5501-5600.md#yoo26b-architecture) · Infinite Mask Diffusion for Few-Step Distillation
 - [用原型通道缓存多时间尺度上下文](../conferences/icml-2026/cards/5501-5600.md#yordanov26a-architecture) · Prototype Transformer: Towards Language Model Architectures Interpretable by Design
 - [同步点门控的有界路由记忆](../conferences/icml-2026/cards/5701-5800.md#zeng26h-architecture) · Attention with Routed-Memory for Learnable Sparse Control
+- [GLU共激活分簇的免训练专家构造](../conferences/icml-2026/cards/6001-6100.md#zhao26ce-architecture) · ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns
 
 <a id="by-computer-vision"></a>
 
@@ -468,4 +469,5 @@
 - [共享算子策略的跨数量PDE控制](../conferences/icml-2026/cards/5601-5700.md#zanotta26a-architecture) · CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control
 - [分离相空间流的逆问题重建](../conferences/icml-2026/cards/5901-6000.md#zhang26fo-architecture) · FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction
 - [固定网格上的部分多尺度PDE token](../conferences/icml-2026/cards/6001-6100.md#zhao26ak-architecture) · MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers
+- [物理mesh分块选择的原分辨率注意力](../conferences/icml-2026/cards/6001-6100.md#zhdanov26a-architecture) · (Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models
 <!-- classification:end -->

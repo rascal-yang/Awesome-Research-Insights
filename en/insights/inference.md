@@ -384,6 +384,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization](../../conferences/icml-2026/cards/5901-6000.md#zhang26iu-inference) · 中文
 - [Reasoning Is Not Free: Robust Adaptive Cost-Efficient Routing for LLM-as-a-Judge](../../conferences/icml-2026/cards/5901-6000.md#zhang26iv-inference) · 中文
 - [PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Fine-Grained Expert Merging and Bit-packed Inference](../../conferences/icml-2026/cards/6001-6100.md#zhao26ay-inference) · 中文
+- [Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing](../../conferences/icml-2026/cards/6001-6100.md#zheng26c-inference) · 中文
+- [LEAP: Zone-Aware MCTS for LLM Self-Speculative Decoding](../../conferences/icml-2026/cards/6101-6200.md#zheng26k-inference) · 中文
+- [Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming](../../conferences/icml-2026/cards/6101-6200.md#zheng26o-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -527,6 +530,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection](../../conferences/icml-2026/cards/5901-6000.md#zhang26ge-inference) · 中文
 - [Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution](../../conferences/icml-2026/cards/5901-6000.md#zhang26hm-inference) · 中文
 - [You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26as-inference) · 中文
+- [$σ$: Sigmoid Modulation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/6001-6100.md#zhao26cc-inference) · 中文
+- [Image Restoration via Diffusion Models with Dynamic Resolution](../../conferences/icml-2026/cards/6101-6200.md#zheng26f-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -735,6 +740,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation](../../conferences/icml-2026/cards/5801-5900.md#zhang26cg-inference) · 中文
 - [Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack](../../conferences/icml-2026/cards/5801-5900.md#zhang26ee-inference) · 中文
 - [When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs](../../conferences/icml-2026/cards/6001-6100.md#zhao26g-inference) · 中文
+- [HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data](../../conferences/icml-2026/cards/6101-6200.md#zheng26m-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

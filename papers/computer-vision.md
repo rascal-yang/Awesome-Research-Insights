@@ -538,6 +538,8 @@
 - <a id="zhang26ge-inference"></a>[FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ge)
 - <a id="zhang26hm-inference"></a>[Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hm)
 - <a id="zhao26as-inference"></a>[You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26as)
+- <a id="zhao26cc-inference"></a>[$σ$: Sigmoid Modulation for Ultra High Resolution Diffusion](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26cc)
+- <a id="zheng26f-inference"></a>[Image Restoration via Diffusion Models with Dynamic Resolution](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26f)
 
 <a id="by-representation-learning"></a>
 

@@ -171,6 +171,7 @@
 - [联邦LoRA的正交规范对齐](../conferences/icml-2026/cards/5801-5900.md#zhang26cc-training-strategies) · FedRot-LoRA: Mitigating Rotational Misalignment in Federated LoRA
 - [新解掩码token的偏好概率比](../conferences/icml-2026/cards/5901-6000.md#zhang26gt-training-strategies) · dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models
 - [高资源安全子网络的定向跨语言训练](../conferences/icml-2026/cards/5901-6000.md#zhang26gx-training-strategies) · Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons
+- [压缩视图训练与原始字节推理](../conferences/icml-2026/cards/6101-6200.md#zheng26e-training-strategies) · Proxy Compression for Language Modeling
 
 <a id="by-computer-vision"></a>
 

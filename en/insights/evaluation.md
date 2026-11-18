@@ -385,6 +385,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation](../../conferences/icml-2026/cards/6001-6100.md#zhao26aq-evaluation) · 中文
 - [Large Language Model Agents Are Not Always Faithful Self-Evolvers](../../conferences/icml-2026/cards/6001-6100.md#zhao26aw-evaluation) · 中文
 - [AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms](../../conferences/icml-2026/cards/6001-6100.md#zhao26bm-evaluation) · 中文
+- [UniCode: Augmenting Evaluation for Code Reasoning](../../conferences/icml-2026/cards/6101-6200.md#zheng26i-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -762,4 +763,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning](../../conferences/icml-2026/cards/5101-5200.md#xia26a-evaluation) · 中文
 - [The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench](../../conferences/icml-2026/cards/5401-5500.md#yao26k-evaluation) · 中文
 - [WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws](../../conferences/icml-2026/cards/5701-5800.md#zhang26am-evaluation) · 中文
+- [Overcoming the Modality Gap in Context-Aided Forecasting](../../conferences/icml-2026/cards/6101-6200.md#zheng26n-evaluation) · 中文
 <!-- classification:end -->
