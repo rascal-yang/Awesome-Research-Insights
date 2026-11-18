@@ -73,7 +73,7 @@ number	openreview_id	title	paper_url	reason	status
 72	kB0KO1Wife	Light-WAM: Efficient World Action Models with State-Fusion Action Decoding	https://openreview.net/forum?id=kB0KO1Wife	将未来视频监督留在低分辨率潜空间，用跨层融合头一次输出动作块	included
 73	OIhLrULoIq	World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis	https://openreview.net/forum?id=OIhLrULoIq	用共享查询吸收未来预测监督并按需启用显式预测	included
 74	PniGejQAdF	Large Video Planner Enables Generalizable Robot Control	https://openreview.net/forum?id=PniGejQAdF		pending
-75	aITDcHSCTW	MemoryVAM: Integrating Memory into Video Action Model for Robot Manipulation	https://openreview.net/forum?id=aITDcHSCTW		pending
+75	aITDcHSCTW	MemoryVAM: Integrating Memory into Video Action Model for Robot Manipulation	https://openreview.net/forum?id=aITDcHSCTW	给视频预测和动作解码提供同一份压缩事件记忆	included
 76	DzAZfcPUiP	How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference	https://openreview.net/forum?id=DzAZfcPUiP		pending
 77	thG2jwuii6	RoboPocket: Improve Robot Policies Instantly with Your Phone	https://openreview.net/forum?id=thG2jwuii6	采集时先显示当前策略的预测轨迹，再补失败附近的示范	included
 78	qxboQ98QN4	Rethinking the Implications of Human Feedback for Preference Learning in Human-Robot Collaboration	https://openreview.net/forum?id=qxboQ98QN4	把固定规则推导的偏好标签当作可更新的先验	included
@@ -89,7 +89,7 @@ number	openreview_id	title	paper_url	reason	status
 88	aILPNAxgHb	Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE	https://openreview.net/forum?id=aILPNAxgHb		pending
 89	Tk20sRMzhv	Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation	https://openreview.net/forum?id=Tk20sRMzhv		pending
 90	HfHTPpDBYr	Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards	https://openreview.net/forum?id=HfHTPpDBYr	针对示范中监督不足的奖励特征生成并解释偏好问题	included
-91	Gpc0nCixhZ	Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations	https://openreview.net/forum?id=Gpc0nCixhZ		pending
+91	Gpc0nCixhZ	Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations	https://openreview.net/forum?id=Gpc0nCixhZ	分开测试单机示范能传授什么以及协作数据仍缺什么	included
 92	2vx7I6aRPS	PIVOT: Policy Improvement via Trust-Region Optimization from Deployment Experience	https://openreview.net/forum?id=2vx7I6aRPS	在流匹配后训练中按带符号优势吸引或排斥部署数据	included
 93	656PH9MVla	Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies	https://openreview.net/forum?id=656PH9MVla	用共享部署经验估计分布价值，再提取流策略	included
 94	VVdYxLGhxH	DIQL:Distributional Implicit Q Learning for Offline to Online Reinforcement Learning	https://openreview.net/forum?id=VVdYxLGhxH	根据数据支持程度按状态选择乐观分位	included
