@@ -69,6 +69,7 @@
 - [有限注意力下CoT预算下界](../conferences/icml-2026/cards/4401-4500.md#tomlinson26a-theory-statistics) · Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs
 - [区分预训练逼近和任务识别误差](../conferences/icml-2026/cards/4501-4600.md#wakayama26b-theory-statistics) · In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning
 - [水印检测功效约束选参](../conferences/icml-2026/cards/4601-4700.md#wang26bu-theory-statistics) · Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking
+- [私有偏好标签的正确似然与污染次序](../conferences/icml-2026/cards/4901-5000.md#weng26a-theory-statistics) · Improved Bounds for Private and Robust Alignment
 
 <a id="by-computer-vision"></a>
 
@@ -591,6 +592,7 @@
 - [按维数与隐私参数选择径向噪声](../conferences/icml-2026/cards/4901-5000.md#wei26a-theory-statistics) · Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy
 - [回溯训练数据的条件分离](../conferences/icml-2026/cards/4901-5000.md#wei26o-theory-statistics) · Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently
 - [按方差置信界分配多组采样预算](../conferences/icml-2026/cards/4901-5000.md#wei26ai-theory-statistics) · Exploration-free Algorithms for Multi-group Mean Estimation
+- [随机反馈局部学习的稳定支与秩限制](../conferences/icml-2026/cards/4901-5000.md#williams26a-theory-statistics) · Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks
 
 <a id="by-graph-and-recommendation"></a>
 

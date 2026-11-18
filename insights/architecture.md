@@ -153,6 +153,7 @@
 - [路口共享策略动态路由](../conferences/icml-2026/cards/3101-3200.md#ma26az-architecture) · Scalable Traffic Signal Control with Shared Policy Framework
 - [以状态原型解释连续控制策略](../conferences/icml-2026/cards/3201-3300.md#marzo26a-architecture) · This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic
 - [用路径状态缓解离散采样策略的表征混叠](../conferences/icml-2026/cards/4101-4200.md#silva26a-architecture) · Path-dependent Discrete Amortized Inference
+- [公共历史共享的结构策略梯度](../conferences/icml-2026/cards/4901-5000.md#wibault26a-architecture) · Recurrent Structural Policy Gradient for Partially Observable Mean Field Games
 
 <a id="by-robotics"></a>
 
@@ -184,6 +185,7 @@
 - [calculus-matched-rough-dynamics](../conferences/icml-2026/cards/4401-4500.md#thompson26a-architecture) · Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations
 - [形态编码与系统条件动力专家](../conferences/icml-2026/cards/4601-4700.md#wang26dc-architecture) · WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems
 - [按独立变化学习分解潜动作](../conferences/icml-2026/cards/4701-4800.md#wang26gs-architecture) · Factored Latent Action World Models
+- [按到达延迟分支的动作包](../conferences/icml-2026/cards/4901-5000.md#wikman26a-architecture) · Adaptive Reinforcement Learning for Unobservable Random Delays
 
 <a id="by-multimodal"></a>
 
@@ -286,6 +288,7 @@
 - [differentiable-parity-projection](../conferences/icml-2026/cards/4401-4500.md#troxell26a-architecture) · Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning
 - [显式谱因子的预测头](../conferences/icml-2026/cards/4601-4700.md#wang26ax-architecture) · Ellipsoidal Time Series Forecasting
 - [变量排序后再池化压缩](../conferences/icml-2026/cards/4701-4800.md#wang26fy-architecture) · ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence
+- [混合分布token的后验变换](../conferences/icml-2026/cards/4901-5000.md#whittle26a-architecture) · Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation
 
 <a id="by-graph-and-recommendation"></a>
 

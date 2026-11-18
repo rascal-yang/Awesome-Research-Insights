@@ -102,6 +102,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](../../conferences/icml-2026/cards/4701-4800.md#wang26ew-optimization) · 中文
 - [The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26ki-optimization) · 中文
 - [PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA](../../conferences/icml-2026/cards/4801-4900.md#wang26kp-optimization) · 中文
+- [FOAM: Blocked State Folding for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/4901-5000.md#wen26h-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 

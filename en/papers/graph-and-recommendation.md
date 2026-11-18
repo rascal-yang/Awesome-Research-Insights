@@ -135,6 +135,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="tang26l-data-strategies"></a>[Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26l)
 - <a id="wang26db-data-strategies"></a>[Negative Sampling From the Ground Up: A Redesign for Recommendations](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26db)
 - <a id="wang26jz-data-strategies"></a>[Relational In-Context Learning via Synthetic Pre-training with Structural Prior](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jz)
+- <a id="wen26j-data-strategies"></a>[Progressive Graph Structure Adjustment for Homophily Shift Adaptation](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26j)
 
 <a id="by-inference"></a>
 

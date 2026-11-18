@@ -58,6 +58,7 @@
 - [蒸馏的高阶交互稀疏惩罚](../conferences/icml-2026/cards/4701-4800.md#wang26gj-loss-functions) · A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions
 - [替换与吸收独立调度的离散纠错](../conferences/icml-2026/cards/4801-4900.md#wang26ho-loss-functions) · Generalized Discrete Diffusion with Self-Correction
 - [可靠锚点非对称正则](../conferences/icml-2026/cards/4801-4900.md#wang26ju-loss-functions) · Towards Context-Invariant Safety Alignment for Large Language Models
+- [循环中间分布的优势加权监督](../conferences/icml-2026/cards/4901-5000.md#williams26b-loss-functions) · Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models
 
 <a id="by-computer-vision"></a>
 

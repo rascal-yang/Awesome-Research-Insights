@@ -69,6 +69,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](../../conferences/icml-2026/cards/4401-4500.md#tomlinson26a-theory-statistics) · 中文
 - [In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning](../../conferences/icml-2026/cards/4501-4600.md#wakayama26b-theory-statistics) · 中文
 - [Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking](../../conferences/icml-2026/cards/4601-4700.md#wang26bu-theory-statistics) · 中文
+- [Improved Bounds for Private and Robust Alignment](../../conferences/icml-2026/cards/4901-5000.md#weng26a-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -591,6 +592,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy](../../conferences/icml-2026/cards/4901-5000.md#wei26a-theory-statistics) · 中文
 - [Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](../../conferences/icml-2026/cards/4901-5000.md#wei26o-theory-statistics) · 中文
 - [Exploration-free Algorithms for Multi-group Mean Estimation](../../conferences/icml-2026/cards/4901-5000.md#wei26ai-theory-statistics) · 中文
+- [Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks](../../conferences/icml-2026/cards/4901-5000.md#williams26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

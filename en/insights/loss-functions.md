@@ -58,6 +58,7 @@ Objectives, auxiliary supervision, and regularization.
 - [A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions](../../conferences/icml-2026/cards/4701-4800.md#wang26gj-loss-functions) · 中文
 - [Generalized Discrete Diffusion with Self-Correction](../../conferences/icml-2026/cards/4801-4900.md#wang26ho-loss-functions) · 中文
 - [Towards Context-Invariant Safety Alignment for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26ju-loss-functions) · 中文
+- [Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](../../conferences/icml-2026/cards/4901-5000.md#williams26b-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

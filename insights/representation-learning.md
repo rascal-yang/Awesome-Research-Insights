@@ -265,6 +265,7 @@
 - [能量统计引导的多分辨率聚类混合](../conferences/icml-2026/cards/4801-4900.md#wang26iz-representation-learning) · Mixing Configurations for Downstream Prediction
 - [压缩轴与时间轴共同流匹配](../conferences/icml-2026/cards/4901-5000.md#wei26d-representation-learning) · Dynamic Compression Flows for Neuroscience Data
 - [群运算电路的聚类诊断](../conferences/icml-2026/cards/4901-5000.md#wei26s-representation-learning) · Deep neural networks divide and conquer dihedral multiplication
+- [排序保真的量化感知向量压缩](../conferences/icml-2026/cards/4901-5000.md#winter26a-representation-learning) · Learning Compressed Shape-Aware Molecular Representations for Virtual Screening
 
 <a id="by-graph-and-recommendation"></a>
 

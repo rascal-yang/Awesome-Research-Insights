@@ -337,6 +337,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](../../conferences/icml-2026/cards/4701-4800.md#wang26hf-evaluation) · 中文
 - [How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26hp-evaluation) · 中文
 - [MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots](../../conferences/icml-2026/cards/4801-4900.md#wang26kg-evaluation) · 中文
+- [Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#westphal26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -615,6 +616,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](../../conferences/icml-2026/cards/4601-4700.md#wang26ay-evaluation) · 中文
 - [Exposing Vulnerabilities in Explanation for Time Series Classifiers via Dual-Target Attacks](../../conferences/icml-2026/cards/4701-4800.md#wang26es-evaluation) · 中文
 - [Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference](../../conferences/icml-2026/cards/4701-4800.md#wang26fx-evaluation) · 中文
+- [On the Variability of Concept Activation Vectors](../../conferences/icml-2026/cards/4901-5000.md#wenkmann26a-evaluation) · 中文
+- [Is the Last Layer Sufficient for Uncertainty Quantification?](../../conferences/icml-2026/cards/4901-5000.md#wilson26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

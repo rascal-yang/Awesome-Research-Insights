@@ -162,6 +162,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26gj-loss-functions"></a>[A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gj)
 - <a id="wang26ho-loss-functions"></a>[Generalized Discrete Diffusion with Self-Correction](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ho)
 - <a id="wang26ju-loss-functions"></a>[Towards Context-Invariant Safety Alignment for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ju)
+- <a id="williams26b-loss-functions"></a>[Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](../../conferences/icml-2026/cards/4901-5000.md#paper-williams26b)
 
 <a id="by-optimization"></a>
 
@@ -256,6 +257,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26ew-optimization"></a>[MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ew)
 - <a id="wang26ki-optimization"></a>[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ki)
 - <a id="wang26kp-optimization"></a>[PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kp)
+- <a id="wen26h-optimization"></a>[FOAM: Blocked State Folding for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26h)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -433,6 +435,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wei26b-reinforcement-learning"></a>[Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26b)
 - <a id="wei26ab-reinforcement-learning"></a>[TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26ab)
 - <a id="wen26f-reinforcement-learning"></a>[Coupled Variational Reinforcement Learning for Language Model General Reasoning](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26f)
+- <a id="wen26k-reinforcement-learning"></a>[Contextualized Privacy Defense for LLM Agents](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26k)
 
 <a id="by-training-strategies"></a>
 
@@ -978,6 +981,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26lg-inference"></a>[UniSVQ: 2-bit Unified Scalar-Vector Quantization](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lg)
 - <a id="wang26lx-inference"></a>[TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lx)
 - <a id="wei26r-inference"></a>[TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26r)
+- <a id="wen26l-inference"></a>[The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26l)
+- <a id="wiedemann26a-inference"></a>[KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization](../../conferences/icml-2026/cards/4901-5000.md#paper-wiedemann26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1329,6 +1334,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26hf-evaluation"></a>[Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hf)
 - <a id="wang26hp-evaluation"></a>[How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hp)
 - <a id="wang26kg-evaluation"></a>[MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kg)
+- <a id="westphal26a-evaluation"></a>[Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#paper-westphal26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1390,4 +1396,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tomlinson26a-theory-statistics"></a>[Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](../../conferences/icml-2026/cards/4401-4500.md#paper-tomlinson26a)
 - <a id="wakayama26b-theory-statistics"></a>[In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning](../../conferences/icml-2026/cards/4501-4600.md#paper-wakayama26b)
 - <a id="wang26bu-theory-statistics"></a>[Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bu)
+- <a id="weng26a-theory-statistics"></a>[Improved Bounds for Private and Robust Alignment](../../conferences/icml-2026/cards/4901-5000.md#paper-weng26a)
 <!-- classification:end -->

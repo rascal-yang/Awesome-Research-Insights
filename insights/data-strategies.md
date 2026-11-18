@@ -126,6 +126,7 @@
 - [对比学习的困难负例组批](../conferences/icml-2026/cards/0901-1000.md#dutta26a-data-strategies) · HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training
 - [用结构化属性生成可审计的隐私文书](../conferences/icml-2026/cards/2101-2200.md#kim26az-data-strategies) · Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch
 - [固定生成机制再干预任务频次](../conferences/icml-2026/cards/4101-4200.md#snaebjarnarson26a-data-strategies) · Causally Evaluating the Learnability of Formal Language Tasks
+- [保持句法的预训练语义消融](../conferences/icml-2026/cards/4901-5000.md#winston26a-data-strategies) · Learning syntax without semantics: Disentangled tiny language models
 
 <a id="by-reinforcement-learning"></a>
 
@@ -239,6 +240,7 @@
 - [按重建支持分层遮蔽](../conferences/icml-2026/cards/4301-4400.md#tang26l-data-strategies) · Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder
 - [由目标梯度反推负采样](../conferences/icml-2026/cards/4601-4700.md#wang26db-data-strategies) · Negative Sampling From the Ground Up: A Redesign for Recommendations
 - [关系型合成预训练先验](../conferences/icml-2026/cards/4801-4900.md#wang26jz-data-strategies) · Relational In-Context Learning via Synthetic Pre-training with Structural Prior
+- [同配水平调整与双模型共识](../conferences/icml-2026/cards/4901-5000.md#wen26j-data-strategies) · Progressive Graph Structure Adjustment for Homophily Shift Adaptation
 
 <a id="by-scientific-ml"></a>
 

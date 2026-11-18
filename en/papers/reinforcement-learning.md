@@ -22,6 +22,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="ma26az-architecture"></a>[Scalable Traffic Signal Control with Shared Policy Framework](../../conferences/icml-2026/cards/3101-3200.md#paper-ma26az)
 - <a id="marzo26a-architecture"></a>[This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic](../../conferences/icml-2026/cards/3201-3300.md#paper-marzo26a)
 - <a id="silva26a-architecture"></a>[Path-dependent Discrete Amortized Inference](../../conferences/icml-2026/cards/4101-4200.md#paper-silva26a)
+- <a id="wibault26a-architecture"></a>[Recurrent Structural Policy Gradient for Partially Observable Mean Field Games](../../conferences/icml-2026/cards/4901-5000.md#paper-wibault26a)
 
 <a id="by-modules"></a>
 

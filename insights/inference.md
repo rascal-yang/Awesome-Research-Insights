@@ -333,6 +333,8 @@
 - [仿射整数格的结构化向量量化](../conferences/icml-2026/cards/4901-5000.md#wang26lg-inference) · UniSVQ: 2-bit Unified Scalar-Vector Quantization
 - [计算受限解码按头与KV页分配预算](../conferences/icml-2026/cards/4901-5000.md#wang26lx-inference) · TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding
 - [扩散MoE冷热路由](../conferences/icml-2026/cards/4901-5000.md#wei26r-inference) · TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration
+- [算术分解探针与宽容一致性检查](../conferences/icml-2026/cards/4901-5000.md#wen26l-inference) · The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models
+- [进化转移历史指导内核搜索](../conferences/icml-2026/cards/4901-5000.md#wiedemann26a-inference) · KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization
 
 <a id="by-computer-vision"></a>
 

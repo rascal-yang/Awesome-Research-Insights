@@ -78,6 +78,7 @@
 - <a id="troxell26a-architecture"></a>[Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning](../conferences/icml-2026/cards/4401-4500.md#paper-troxell26a)
 - <a id="wang26ax-architecture"></a>[Ellipsoidal Time Series Forecasting](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ax)
 - <a id="wang26fy-architecture"></a>[ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fy)
+- <a id="whittle26a-architecture"></a>[Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](../conferences/icml-2026/cards/4901-5000.md#paper-whittle26a)
 
 <a id="by-modules"></a>
 
@@ -515,6 +516,7 @@
 - <a id="tang26g-training-strategies"></a>[Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training](../conferences/icml-2026/cards/4301-4400.md#paper-tang26g)
 - <a id="tian26l-training-strategies"></a>[Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels](../conferences/icml-2026/cards/4401-4500.md#paper-tian26l)
 - <a id="wang26bc-training-strategies"></a>[Learning Credal Ensembles via Distributionally Robust Optimization](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bc)
+- <a id="wen26i-training-strategies"></a>[Robust Sequential Experimental Design for A/B Testing](../conferences/icml-2026/cards/4901-5000.md#paper-wen26i)
 
 <a id="by-data-strategies"></a>
 
@@ -671,6 +673,7 @@
 - <a id="wang26iz-representation-learning"></a>[Mixing Configurations for Downstream Prediction](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iz)
 - <a id="wei26d-representation-learning"></a>[Dynamic Compression Flows for Neuroscience Data](../conferences/icml-2026/cards/4901-5000.md#paper-wei26d)
 - <a id="wei26s-representation-learning"></a>[Deep neural networks divide and conquer dihedral multiplication](../conferences/icml-2026/cards/4901-5000.md#paper-wei26s)
+- <a id="winter26a-representation-learning"></a>[Learning Compressed Shape-Aware Molecular Representations for Virtual Screening](../conferences/icml-2026/cards/4901-5000.md#paper-winter26a)
 
 <a id="by-evaluation"></a>
 
@@ -735,6 +738,8 @@
 - <a id="wang26ay-evaluation"></a>[CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ay)
 - <a id="wang26es-evaluation"></a>[Exposing Vulnerabilities in Explanation for Time Series Classifiers via Dual-Target Attacks](../conferences/icml-2026/cards/4701-4800.md#paper-wang26es)
 - <a id="wang26fx-evaluation"></a>[Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fx)
+- <a id="wenkmann26a-evaluation"></a>[On the Variability of Concept Activation Vectors](../conferences/icml-2026/cards/4901-5000.md#paper-wenkmann26a)
+- <a id="wilson26a-evaluation"></a>[Is the Last Layer Sufficient for Uncertainty Quantification?](../conferences/icml-2026/cards/4901-5000.md#paper-wilson26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1137,4 +1142,5 @@
 - <a id="wei26a-theory-statistics"></a>[Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy](../conferences/icml-2026/cards/4901-5000.md#paper-wei26a)
 - <a id="wei26o-theory-statistics"></a>[Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](../conferences/icml-2026/cards/4901-5000.md#paper-wei26o)
 - <a id="wei26ai-theory-statistics"></a>[Exploration-free Algorithms for Multi-group Mean Estimation](../conferences/icml-2026/cards/4901-5000.md#paper-wei26ai)
+- <a id="williams26a-theory-statistics"></a>[Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks](../conferences/icml-2026/cards/4901-5000.md#paper-williams26a)
 <!-- classification:end -->

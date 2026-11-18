@@ -405,6 +405,7 @@
 - [静默梯度错误与副本重同步](../conferences/icml-2026/cards/4301-4400.md#tang26g-training-strategies) · Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training
 - [联邦全局教师修正噪声标签](../conferences/icml-2026/cards/4401-4500.md#tian26l-training-strategies) · Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels
 - [按DRO强度分散集成](../conferences/icml-2026/cards/4601-4700.md#wang26bc-training-strategies) · Learning Credal Ensembles via Distributionally Robust Optimization
+- [失配稳健的序贯实验分配](../conferences/icml-2026/cards/4901-5000.md#wen26i-training-strategies) · Robust Sequential Experimental Design for A/B Testing
 
 <a id="by-graph-and-recommendation"></a>
 

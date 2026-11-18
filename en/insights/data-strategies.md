@@ -126,6 +126,7 @@ Data selection, annotation, augmentation, and sampling.
 - [HOBIT: Hardness Optimized Batch Sampling for InfoNCE Training](../../conferences/icml-2026/cards/0901-1000.md#dutta26a-data-strategies) · 中文
 - [Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch](../../conferences/icml-2026/cards/2101-2200.md#kim26az-data-strategies) · 中文
 - [Causally Evaluating the Learnability of Formal Language Tasks](../../conferences/icml-2026/cards/4101-4200.md#snaebjarnarson26a-data-strategies) · 中文
+- [Learning syntax without semantics: Disentangled tiny language models](../../conferences/icml-2026/cards/4901-5000.md#winston26a-data-strategies) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -239,6 +240,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder](../../conferences/icml-2026/cards/4301-4400.md#tang26l-data-strategies) · 中文
 - [Negative Sampling From the Ground Up: A Redesign for Recommendations](../../conferences/icml-2026/cards/4601-4700.md#wang26db-data-strategies) · 中文
 - [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](../../conferences/icml-2026/cards/4801-4900.md#wang26jz-data-strategies) · 中文
+- [Progressive Graph Structure Adjustment for Homophily Shift Adaptation](../../conferences/icml-2026/cards/4901-5000.md#wen26j-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

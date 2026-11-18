@@ -333,6 +333,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [UniSVQ: 2-bit Unified Scalar-Vector Quantization](../../conferences/icml-2026/cards/4901-5000.md#wang26lg-inference) · 中文
 - [TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding](../../conferences/icml-2026/cards/4901-5000.md#wang26lx-inference) · 中文
 - [TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](../../conferences/icml-2026/cards/4901-5000.md#wei26r-inference) · 中文
+- [The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#wen26l-inference) · 中文
+- [KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization](../../conferences/icml-2026/cards/4901-5000.md#wiedemann26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

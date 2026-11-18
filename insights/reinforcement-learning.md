@@ -185,6 +185,7 @@
 - [未来信息集合监督提问与停止](../conferences/icml-2026/cards/4901-5000.md#wei26b-reinforcement-learning) · Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs
 - [拒答位于对错之间的结果奖励](../conferences/icml-2026/cards/4901-5000.md#wei26ab-reinforcement-learning) · TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning
 - [先验与后验轨迹的混合训练](../conferences/icml-2026/cards/4901-5000.md#wen26f-reinforcement-learning) · Coupled Variational Reinforcement Learning for Language Model General Reasoning
+- [关键失误上下文中的指导训练](../conferences/icml-2026/cards/4901-5000.md#wen26k-reinforcement-learning) · Contextualized Privacy Defense for LLM Agents
 
 <a id="by-computer-vision"></a>
 

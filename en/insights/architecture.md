@@ -153,6 +153,7 @@ Model-wide design and information flow.
 - [Scalable Traffic Signal Control with Shared Policy Framework](../../conferences/icml-2026/cards/3101-3200.md#ma26az-architecture) · 中文
 - [This State Looks Like That: Self-Interpretable Reinforcement Learning Agents using Prototype Soft Actor-Critic](../../conferences/icml-2026/cards/3201-3300.md#marzo26a-architecture) · 中文
 - [Path-dependent Discrete Amortized Inference](../../conferences/icml-2026/cards/4101-4200.md#silva26a-architecture) · 中文
+- [Recurrent Structural Policy Gradient for Partially Observable Mean Field Games](../../conferences/icml-2026/cards/4901-5000.md#wibault26a-architecture) · 中文
 
 <a id="by-robotics"></a>
 
@@ -184,6 +185,7 @@ Model-wide design and information flow.
 - [Learning Manifold and Itô Dynamics with Branched Neural Rough Differential Equations](../../conferences/icml-2026/cards/4401-4500.md#thompson26a-architecture) · 中文
 - [WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems](../../conferences/icml-2026/cards/4601-4700.md#wang26dc-architecture) · 中文
 - [Factored Latent Action World Models](../../conferences/icml-2026/cards/4701-4800.md#wang26gs-architecture) · 中文
+- [Adaptive Reinforcement Learning for Unobservable Random Delays](../../conferences/icml-2026/cards/4901-5000.md#wikman26a-architecture) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -286,6 +288,7 @@ Model-wide design and information flow.
 - [Differentiable Optimization Layers for Guaranteed Fairness in Deep Learning](../../conferences/icml-2026/cards/4401-4500.md#troxell26a-architecture) · 中文
 - [Ellipsoidal Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#wang26ax-architecture) · 中文
 - [ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence](../../conferences/icml-2026/cards/4701-4800.md#wang26fy-architecture) · 中文
+- [Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](../../conferences/icml-2026/cards/4901-5000.md#whittle26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -185,6 +185,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](../../conferences/icml-2026/cards/4901-5000.md#wei26b-reinforcement-learning) · 中文
 - [TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](../../conferences/icml-2026/cards/4901-5000.md#wei26ab-reinforcement-learning) · 中文
 - [Coupled Variational Reinforcement Learning for Language Model General Reasoning](../../conferences/icml-2026/cards/4901-5000.md#wen26f-reinforcement-learning) · 中文
+- [Contextualized Privacy Defense for LLM Agents](../../conferences/icml-2026/cards/4901-5000.md#wen26k-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

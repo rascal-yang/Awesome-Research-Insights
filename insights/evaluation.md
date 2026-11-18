@@ -337,6 +337,7 @@
 - [图搜索复杂度与隐式推理容量](../conferences/icml-2026/cards/4701-4800.md#wang26hf-evaluation) · Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models
 - [功能向量的路由与内容分解](../conferences/icml-2026/cards/4801-4900.md#wang26hp-evaluation) · How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning
 - [检索诱饵的序贯防御检测](../conferences/icml-2026/cards/4801-4900.md#wang26kg-evaluation) · MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots
+- [隐蔽信息的内部表征检测边界](../conferences/icml-2026/cards/4901-5000.md#westphal26a-evaluation) · Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -615,6 +616,8 @@
 - [配对条件下的模块归因](../conferences/icml-2026/cards/4601-4700.md#wang26ay-evaluation) · CombinationTS: A Modular Framework for Understanding Time-Series Forecasting Models
 - [解释稳定不能替代决策稳健性](../conferences/icml-2026/cards/4701-4800.md#wang26es-evaluation) · Exposing Vulnerabilities in Explanation for Time Series Classifiers via Dual-Target Attacks
 - [速度场差估计函数分布相对熵](../conferences/icml-2026/cards/4701-4800.md#wang26fx-evaluation) · Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference
+- [概念方向与TCAV分数的不同采样预算](../conferences/icml-2026/cards/4901-5000.md#wenkmann26a-evaluation) · On the Variability of Concept Activation Vectors
+- [末层与全网线性化UQ的成本边界](../conferences/icml-2026/cards/4901-5000.md#wilson26a-evaluation) · Is the Last Layer Sufficient for Uncertainty Quantification?
 
 <a id="by-graph-and-recommendation"></a>
 
