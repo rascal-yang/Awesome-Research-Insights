@@ -617,6 +617,8 @@
 - [部分标签补全的可学习性边界](../conferences/icml-2026/cards/5301-5400.md#xu26cs-theory-statistics) · On Learnability and Disambiguation of Multiclass Partial Concept Classes
 - [非高斯设计下ERM分数分布边界](../conferences/icml-2026/cards/5301-5400.md#yaakoubi26a-theory-statistics) · Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization
 - [区间概率诚实性与潜时间校准分离](../conferences/icml-2026/cards/5301-5400.md#yanagisawa26a-theory-statistics) · A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis
+- [按优化器改造局部切线相似度](../conferences/icml-2026/cards/5301-5400.md#yang26b-theory-statistics) · Preconditioning Neural Tangent Kernel for Adaptive Optimization
+- [按精度与语法限制长度证书](../conferences/icml-2026/cards/5301-5400.md#yang26c-theory-statistics) · Length Generalization Bounds for Transformers
 
 <a id="by-graph-and-recommendation"></a>
 

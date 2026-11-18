@@ -157,6 +157,8 @@ Training schedules, curricula, and task or stage composition.
 - [Grouter: Decoupling Routing from Representation for Accelerated MoE Training](../../conferences/icml-2026/cards/5201-5300.md#xu26t-training-strategies) · 中文
 - [Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#xu26ai-training-strategies) · 中文
 - [LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](../../conferences/icml-2026/cards/5201-5300.md#xu26bp-training-strategies) · 中文
+- [Concept Concentration for Faithful Representation Intervention](../../conferences/icml-2026/cards/5301-5400.md#yang26h-training-strategies) · 中文
+- [Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning](../../conferences/icml-2026/cards/5301-5400.md#yang26r-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -286,6 +288,7 @@ Training schedules, curricula, and task or stage composition.
 - [VLANeXt: Recipes for Building Strong VLA Models](../../conferences/icml-2026/cards/5001-5100.md#wu26m-training-strategies) · 中文
 - [PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#wu26ck-training-strategies) · 中文
 - [Instruction Decomposition and Action Alignment for Vision-and-Language Navigation](../../conferences/icml-2026/cards/5101-5200.md#xin26a-training-strategies) · 中文
+- [Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation](../../conferences/icml-2026/cards/5301-5400.md#yang26k-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

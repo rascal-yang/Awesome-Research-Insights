@@ -273,6 +273,7 @@
 - [聚类条件的连续时序配准](../conferences/icml-2026/cards/5101-5200.md#xiong26e-representation-learning) · NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data
 - [依赖潜变量的多域协方差匹配](../conferences/icml-2026/cards/5201-5300.md#xu26ap-representation-learning) · Identifying dependent components from multi-domain linear mixtures
 - [任意分支树的正交logratio坐标](../conferences/icml-2026/cards/5301-5400.md#yamada26a-representation-learning) · Tree-Structured Orthonormal Decomposition of the Aitchison Simplex
+- [按覆盖与残差方向控制embedding翻译](../conferences/icml-2026/cards/5301-5400.md#yang26e-representation-learning) · Generalizable and Composable Multi-Model Embedding Translation
 
 <a id="by-graph-and-recommendation"></a>
 

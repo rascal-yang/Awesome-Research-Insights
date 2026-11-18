@@ -166,6 +166,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Intentional Updates for Streaming Reinforcement Learning](../../conferences/icml-2026/cards/4001-4100.md#sharifnassab26a-optimization) · 中文
 - [Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation](../../conferences/icml-2026/cards/4301-4400.md#sun26ak-optimization) · 中文
 - [Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26e-optimization) · 中文
+- [A Direct Second-Order Method for Solving Two-Player Zero-Sum Games](../../conferences/icml-2026/cards/5301-5400.md#yang26o-optimization) · 中文
 
 <a id="by-robotics"></a>
 
@@ -447,6 +448,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate](../../conferences/icml-2026/cards/5201-5300.md#xu26bx-optimization) · 中文
 - [Gradient Flow Sampler-based Distributionally Robust Optimization](../../conferences/icml-2026/cards/5301-5400.md#xu26cr-optimization) · 中文
 - [Robust Federated Learning Against Adaptive Compression](../../conferences/icml-2026/cards/5301-5400.md#yan26x-optimization) · 中文
+- [Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability](../../conferences/icml-2026/cards/5301-5400.md#yang26f-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

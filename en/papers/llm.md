@@ -168,6 +168,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="williams26b-loss-functions"></a>[Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](../../conferences/icml-2026/cards/4901-5000.md#paper-williams26b)
 - <a id="wu26cl-loss-functions"></a>[rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26cl)
 - <a id="xie26a-loss-functions"></a>[When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26a)
+- <a id="yang26t-loss-functions"></a>[Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26t)
 
 <a id="by-optimization"></a>
 
@@ -452,6 +453,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wu26az-reinforcement-learning"></a>[Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26az)
 - <a id="xie26o-reinforcement-learning"></a>[TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26o)
 - <a id="xu26bn-reinforcement-learning"></a>[D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bn)
+- <a id="yang26s-reinforcement-learning"></a>[Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26s)
 
 <a id="by-training-strategies"></a>
 
@@ -601,6 +603,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xu26t-training-strategies"></a>[Grouter: Decoupling Routing from Representation for Accelerated MoE Training](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26t)
 - <a id="xu26ai-training-strategies"></a>[Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ai)
 - <a id="xu26bp-training-strategies"></a>[LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bp)
+- <a id="yang26h-training-strategies"></a>[Concept Concentration for Faithful Representation Intervention](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26h)
+- <a id="yang26r-training-strategies"></a>[Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26r)
 
 <a id="by-data-strategies"></a>
 
@@ -1033,6 +1037,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xu26cg-inference"></a>[SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cg)
 - <a id="xue26h-inference"></a>[R2-Router: A New Paradigm for LLM Routing with Reasoning](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26h)
 - <a id="yang26a-inference"></a>[SpecExit: Accelerating Large Reasoning Model via Speculative Exit](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26a)
+- <a id="yang26p-inference"></a>[IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26p)
 
 <a id="by-representation-learning"></a>
 

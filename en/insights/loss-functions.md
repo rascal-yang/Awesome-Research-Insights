@@ -61,6 +61,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](../../conferences/icml-2026/cards/4901-5000.md#williams26b-loss-functions) · 中文
 - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26cl-loss-functions) · 中文
 - [When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models](../../conferences/icml-2026/cards/5101-5200.md#xie26a-loss-functions) · 中文
+- [Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models](../../conferences/icml-2026/cards/5301-5400.md#yang26t-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

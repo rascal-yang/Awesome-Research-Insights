@@ -61,6 +61,7 @@
 - [循环中间分布的优势加权监督](../conferences/icml-2026/cards/4901-5000.md#williams26b-loss-functions) · Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models
 - [PRM学习的轨迹重要性与长度控制](../conferences/icml-2026/cards/5001-5100.md#wu26cl-loss-functions) · rePIRL: Learn PRM with Inverse RL for LLM Reasoning
 - [按表征差距归一的偏好损失](../conferences/icml-2026/cards/5101-5200.md#xie26a-loss-functions) · When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models
+- [以Jacobian正则区分稳定与有效吸引子](../conferences/icml-2026/cards/5301-5400.md#yang26t-loss-functions) · Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models
 
 <a id="by-computer-vision"></a>
 

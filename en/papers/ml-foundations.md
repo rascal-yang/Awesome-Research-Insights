@@ -456,6 +456,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xu26bx-optimization"></a>[Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bx)
 - <a id="xu26cr-optimization"></a>[Gradient Flow Sampler-based Distributionally Robust Optimization](../../conferences/icml-2026/cards/5301-5400.md#paper-xu26cr)
 - <a id="yan26x-optimization"></a>[Robust Federated Learning Against Adaptive Compression](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26x)
+- <a id="yang26f-optimization"></a>[Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26f)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -715,6 +716,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xiong26e-representation-learning"></a>[NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26e)
 - <a id="xu26ap-representation-learning"></a>[Identifying dependent components from multi-domain linear mixtures](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ap)
 - <a id="yamada26a-representation-learning"></a>[Tree-Structured Orthonormal Decomposition of the Aitchison Simplex](../../conferences/icml-2026/cards/5301-5400.md#paper-yamada26a)
+- <a id="yang26e-representation-learning"></a>[Generalizable and Composable Multi-Model Embedding Translation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26e)
 
 <a id="by-evaluation"></a>
 
@@ -1206,4 +1208,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xu26cs-theory-statistics"></a>[On Learnability and Disambiguation of Multiclass Partial Concept Classes](../../conferences/icml-2026/cards/5301-5400.md#paper-xu26cs)
 - <a id="yaakoubi26a-theory-statistics"></a>[Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization](../../conferences/icml-2026/cards/5301-5400.md#paper-yaakoubi26a)
 - <a id="yanagisawa26a-theory-statistics"></a>[A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis](../../conferences/icml-2026/cards/5301-5400.md#paper-yanagisawa26a)
+- <a id="yang26b-theory-statistics"></a>[Preconditioning Neural Tangent Kernel for Adaptive Optimization](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26b)
+- <a id="yang26c-theory-statistics"></a>[Length Generalization Bounds for Transformers](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26c)
 <!-- classification:end -->

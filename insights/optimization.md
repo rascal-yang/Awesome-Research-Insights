@@ -166,6 +166,7 @@
 - [按预期输出变化反算单步步长](../conferences/icml-2026/cards/4001-4100.md#sharifnassab26a-optimization) · Intentional Updates for Streaming Reinforcement Learning
 - [有限步优势预条件求解](../conferences/icml-2026/cards/4301-4400.md#sun26ak-optimization) · Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation
 - [离线联邦的值尺度与行为偏差重权](../conferences/icml-2026/cards/5201-5300.md#xu26e-optimization) · Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning
+- [高精度矩阵博弈切换半光滑Newton](../conferences/icml-2026/cards/5301-5400.md#yang26o-optimization) · A Direct Second-Order Method for Solving Two-Player Zero-Sum Games
 
 <a id="by-robotics"></a>
 
@@ -447,6 +448,7 @@
 - [分离稀疏隐式偏置与过零动力学](../conferences/icml-2026/cards/5201-5300.md#xu26bx-optimization) · Theoretical Analysis of Sparse Optimization with Reparameterization, Weight Decay, and Adaptive Learning Rate
 - [条件最坏分布的输运与反应采样](../conferences/icml-2026/cards/5301-5400.md#xu26cr-optimization) · Gradient Flow Sampler-based Distributionally Robust Optimization
 - [单差分压缩的动量控制变量FL](../conferences/icml-2026/cards/5301-5400.md#yan26x-optimization) · Robust Federated Learning Against Adaptive Compression
+- [用近端平滑替代直接联邦对抗更新](../conferences/icml-2026/cards/5301-5400.md#yang26f-optimization) · Towards Understanding Generalization of Federated Adversarial Learning: Perspective of Algorithmic Stability
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -354,6 +354,7 @@
 - [把安全判别接入分段推测验证](../conferences/icml-2026/cards/5201-5300.md#xu26cg-inference) · SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling
 - [模型与输出长度预算联合路由](../conferences/icml-2026/cards/5301-5400.md#xue26h-inference) · R2-Router: A New Paradigm for LLM Routing with Reasoning
 - [草稿模型多信号推理早停](../conferences/icml-2026/cards/5301-5400.md#yang26a-inference) · SpecExit: Accelerating Large Reasoning Model via Speculative Exit
+- [被逐出KV另存残差记忆](../conferences/icml-2026/cards/5301-5400.md#yang26p-inference) · IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference
 
 <a id="by-computer-vision"></a>
 

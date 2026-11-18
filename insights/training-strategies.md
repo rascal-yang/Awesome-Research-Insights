@@ -157,6 +157,8 @@
 - [预先蒸馏并缓存固定MoE路由](../conferences/icml-2026/cards/5201-5300.md#xu26t-training-strategies) · Grouter: Decoupling Routing from Representation for Accelerated MoE Training
 - [先更新裁判再更新rubric的交替训练](../conferences/icml-2026/cards/5201-5300.md#xu26ai-training-strategies) · Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training
 - [截断在线影响传播并校准残差噪声](../conferences/icml-2026/cards/5201-5300.md#xu26bp-training-strategies) · LMCleaner: Efficient and Certified Online Unlearning via Influence Propagation Truncation
+- [先训练概念识别再做表示干预](../conferences/icml-2026/cards/5301-5400.md#yang26h-training-strategies) · Concept Concentration for Faithful Representation Intervention
+- [在折叠上下文环境中训练自摘要](../conferences/icml-2026/cards/5301-5400.md#yang26r-training-strategies) · Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -286,6 +288,7 @@
 - [VLA的本体感知路由与频域动作监督](../conferences/icml-2026/cards/5001-5100.md#wu26m-training-strategies) · VLANeXt: Recipes for Building Strong VLA Models
 - [渐进约束教师的扩散策略后训练](../conferences/icml-2026/cards/5001-5100.md#wu26ck-training-strategies) · PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation
 - [按路径偏差调节专家干预](../conferences/icml-2026/cards/5101-5200.md#xin26a-training-strategies) · Instruction Decomposition and Action Alignment for Vision-and-Language Navigation
+- [按跨表示信心排名调伪标签阈值](../conferences/icml-2026/cards/5301-5400.md#yang26k-training-strategies) · Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation
 
 <a id="by-multimodal"></a>
 

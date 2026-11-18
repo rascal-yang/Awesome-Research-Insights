@@ -191,6 +191,7 @@
 - [按不同答案去频率偏置选伪标签](../conferences/icml-2026/cards/5001-5100.md#wu26az-reinforcement-learning) · Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning
 - [用中间团队分布评估顺序更新](../conferences/icml-2026/cards/5101-5200.md#xie26o-reinforcement-learning) · TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination
 - [熵项替代退化组优势](../conferences/icml-2026/cards/5201-5300.md#xu26bn-reinforcement-learning) · D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use
+- [用难度补采样而非统一扩rollout](../conferences/icml-2026/cards/5301-5400.md#yang26s-reinforcement-learning) · Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration
 
 <a id="by-computer-vision"></a>
 

@@ -617,6 +617,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On Learnability and Disambiguation of Multiclass Partial Concept Classes](../../conferences/icml-2026/cards/5301-5400.md#xu26cs-theory-statistics) · 中文
 - [Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization](../../conferences/icml-2026/cards/5301-5400.md#yaakoubi26a-theory-statistics) · 中文
 - [A Strictly Proper Scoring Rule and a Calibration Metric for Interval-Censored Data Analysis](../../conferences/icml-2026/cards/5301-5400.md#yanagisawa26a-theory-statistics) · 中文
+- [Preconditioning Neural Tangent Kernel for Adaptive Optimization](../../conferences/icml-2026/cards/5301-5400.md#yang26b-theory-statistics) · 中文
+- [Length Generalization Bounds for Transformers](../../conferences/icml-2026/cards/5301-5400.md#yang26c-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

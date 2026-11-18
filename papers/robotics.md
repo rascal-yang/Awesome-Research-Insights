@@ -139,6 +139,7 @@
 - <a id="wu26m-training-strategies"></a>[VLANeXt: Recipes for Building Strong VLA Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26m)
 - <a id="wu26ck-training-strategies"></a>[PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ck)
 - <a id="xin26a-training-strategies"></a>[Instruction Decomposition and Action Alignment for Vision-and-Language Navigation](../conferences/icml-2026/cards/5101-5200.md#paper-xin26a)
+- <a id="yang26k-training-strategies"></a>[Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation](../conferences/icml-2026/cards/5301-5400.md#paper-yang26k)
 
 <a id="by-data-strategies"></a>
 

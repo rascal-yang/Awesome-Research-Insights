@@ -354,6 +354,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](../../conferences/icml-2026/cards/5201-5300.md#xu26cg-inference) · 中文
 - [R2-Router: A New Paradigm for LLM Routing with Reasoning](../../conferences/icml-2026/cards/5301-5400.md#xue26h-inference) · 中文
 - [SpecExit: Accelerating Large Reasoning Model via Speculative Exit](../../conferences/icml-2026/cards/5301-5400.md#yang26a-inference) · 中文
+- [IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference](../../conferences/icml-2026/cards/5301-5400.md#yang26p-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
