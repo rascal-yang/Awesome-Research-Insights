@@ -2327,72 +2327,72 @@ poster_id	title	paper_url	status	reason
 153047	Driver Attention as Competitive Allocation: A Scene--Task-Aware Dual-Branch Framework	https://neurips.cc/virtual/2026/poster/153047	included	按场景任务需求和控制紧迫度调节注意力集中程度
 139711	DriveSpatial: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving	https://neurips.cc/virtual/2026/poster/139711	included	用动态场景图保证问题确实需要跨视角与时间信息
 139662	DriveStreamBench: Evaluating User-Conditioned Watch-and-Notify in Streaming Driving Video	https://neurips.cc/virtual/2026/poster/139662	included	验收提醒系统时只给此前视频帧并检查提醒时机
-152058	Drive vs. Decay: On the Training Dynamics of Joint-Embedding Predictive Architectures	https://neurips.cc/virtual/2026/poster/152058	pending	-
-150338	DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving	https://neurips.cc/virtual/2026/poster/150338	pending	-
-139692	Driving on Memory	https://neurips.cc/virtual/2026/poster/139692	pending	-
-152910	Driving Video Retrieval for Complex Queries with Structured Grounding	https://neurips.cc/virtual/2026/poster/152910	pending	-
-151327	Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems	https://neurips.cc/virtual/2026/poster/151327	pending	-
-154924	DROGO: Default Representation Objective via Graph Optimization in Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154924	pending	-
-152246	DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction	https://neurips.cc/virtual/2026/poster/152246	pending	-
-151942	DrPO: Drifting Preference Optimization for One-Step Generative Models	https://neurips.cc/virtual/2026/poster/151942	pending	-
-150625	DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models	https://neurips.cc/virtual/2026/poster/150625	pending	-
-148751	DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation	https://neurips.cc/virtual/2026/poster/148751	pending	-
-149474	DrugSAGE: Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery	https://neurips.cc/virtual/2026/poster/149474	pending	-
-152936	DSAD: Dynamic Soft Anisotropic Diagrams for Reduced-Order Video Representation	https://neurips.cc/virtual/2026/poster/152936	pending	-
-150894	DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation	https://neurips.cc/virtual/2026/poster/150894	pending	-
-154766	DSBTR: A Diffusion Schrödinger Bridge Trajectory Refiner for Multi-Agent Trajectory Prediction	https://neurips.cc/virtual/2026/poster/154766	pending	-
-152845	DSR-TSF: Spectrum-Driven Dynamic Routing for Efficient Long-Horizon Time Series Forecasting	https://neurips.cc/virtual/2026/poster/152845	pending	-
-153253	DSSA: Dynamic Sparse Semantic Anchoring for Purifying Protective Perturbations against Diffusion Models	https://neurips.cc/virtual/2026/poster/153253	pending	-
-154082	DSSNet: Deep Spectral Structure Profiling Network for Traffic Flow Prediction	https://neurips.cc/virtual/2026/poster/154082	pending	-
-151450	DSSP: Diffusion State Space Policy  with Hierarchical Full-History Conditioning	https://neurips.cc/virtual/2026/poster/151450	pending	-
-150983	dStructAD: Domain-Level Structured Normality Representation with Variation Calibration for Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/150983	pending	-
-153021	DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning	https://neurips.cc/virtual/2026/poster/153021	pending	-
+152058	Drive vs. Decay: On the Training Dynamics of Joint-Embedding Predictive Architectures	https://neurips.cc/virtual/2026/poster/152058	included	先测谱模态的驱动衰减比，再调整防塌缩超参。
+150338	DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving	https://neurips.cc/virtual/2026/poster/150338	included	对时序控制比较视频预训练与静态图文预训练。
+139692	Driving on Memory	https://neurips.cc/virtual/2026/poster/139692	included	以历史同地点观测替换实时视觉，检验基准能否识别动态响应。
+152910	Driving Video Retrieval for Complex Queries with Structured Grounding	https://neurips.cc/virtual/2026/poster/152910	included	按领域数据校准规则可靠性再与文本和视觉检索融合。
+151327	Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems	https://neurips.cc/virtual/2026/poster/151327	included	多角色奖励异质时按角色归一化优势。
+154924	DROGO: Default Representation Objective via Graph Optimization in Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154924	included	直接用转移样本优化表示的主特征向量。
+152246	DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction	https://neurips.cc/virtual/2026/poster/152246	included	按可分解的输出扰动分数淘汰 KV token。
+151942	DrPO: Drifting Preference Optimization for One-Step Generative Models	https://neurips.cc/virtual/2026/poster/151942	included	奖励不可微时用在线样本构造潜空间更新方向。
+150625	DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models	https://neurips.cc/virtual/2026/poster/150625	included	用按因果顺序组织的视觉证据与推理阶段训练小模型。
+148751	DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation	https://neurips.cc/virtual/2026/poster/148751	included	按算子组合和难度生成样本，为正确性与性能分别赋奖。
+149474	DrugSAGE: Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery	https://neurips.cc/virtual/2026/poster/149474	excluded	摘要未提供能够独立迁移且有充分证据的通用研究决策。
+152936	DSAD: Dynamic Soft Anisotropic Diagrams for Reduced-Order Video Representation	https://neurips.cc/virtual/2026/poster/152936	included	用共享软空间坐标分解局部外观和运动。
+150894	DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation	https://neurips.cc/virtual/2026/poster/150894	included	按去噪阶段切换蒸馏与细节恢复监督。
+154766	DSBTR: A Diffusion Schrödinger Bridge Trajectory Refiner for Multi-Agent Trajectory Prediction	https://neurips.cc/virtual/2026/poster/154766	included	让训练桥的终点匹配部署时无噪粗预测。
+152845	DSR-TSF: Spectrum-Driven Dynamic Routing for Efficient Long-Horizon Time Series Forecasting	https://neurips.cc/virtual/2026/poster/152845	included	根据输入频谱按样本选择周期分支。
+153253	DSSA: Dynamic Sparse Semantic Anchoring for Purifying Protective Perturbations against Diffusion Models	https://neurips.cc/virtual/2026/poster/153253	excluded	主要贡献在解除用户图像保护，摘要未给出可独立复用的防御机制。
+154082	DSSNet: Deep Spectral Structure Profiling Network for Traffic Flow Prediction	https://neurips.cc/virtual/2026/poster/154082	included	用相似频带特征构图补充空间邻接。
+151450	DSSP: Diffusion State Space Policy  with Hierarchical Full-History Conditioning	https://neurips.cc/virtual/2026/poster/151450	included	压缩全历史并以未来动态辅助监督保留信息。
+150983	dStructAD: Domain-Level Structured Normality Representation with Variation Calibration for Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/150983	included	先学习同域正常结构，再做保结构目标域校准。
+153021	DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning	https://neurips.cc/virtual/2026/poster/153021	included	在图编码全流程保留计算依赖方向。
 137833	DTCH Digital Turcologist Bootcamp: Evidence-First, Evaluation-First AI/ML for Under-Resourced Historical Turkic Languages and Cultural Heritage Data	https://neurips.cc/virtual/2026/poster/137833	excluded	摘要介绍历史语言的教学训练营和拟建设的材料，未给出已验证的新模型、标注机制或评测规律。
 137827	DTCH Digital Turcologist Bootcamp: Evidence-First, Evaluation-First AI/ML for Under-Resourced Historical Turkic Languages and Cultural Heritage Data	https://neurips.cc/virtual/2026/poster/137827	excluded	与 137833 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137875	DTCH Digital Turcologist Bootcamp: Evidence-First, Evaluation-First AI/ML for Under-Resourced Historical Turkic Languages and Cultural Heritage Data	https://neurips.cc/virtual/2026/poster/137875	excluded	与 137833 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137857	DTCH Digital Turcologist Bootcamp: Evidence-First, Evaluation-First AI/ML for Under-Resourced Historical Turkic Languages and Cultural Heritage Data	https://neurips.cc/virtual/2026/poster/137857	excluded	与 137833 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137881	DTCH Digital Turcologist Bootcamp: Evidence-First, Evaluation-First AI/ML for Under-Resourced Historical Turkic Languages and Cultural Heritage Data	https://neurips.cc/virtual/2026/poster/137881	excluded	与 137833 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137851	DTCH Digital Turcologist Bootcamp: Evidence-First, Evaluation-First AI/ML for Under-Resourced Historical Turkic Languages and Cultural Heritage Data	https://neurips.cc/virtual/2026/poster/137851	excluded	与 137833 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
-155685	DTGS: Physics-Embedded Dynamic Thermal 3D Reconstruction with Gaussian Splatting	https://neurips.cc/virtual/2026/poster/155685	pending	-
-149513	DT-PBO: an Interpretable Tree-based Surrogate Model for Preferential Bayesian Optimization	https://neurips.cc/virtual/2026/poster/149513	pending	-
-153459	Dual-Contrastive Sparse Autoencoders Reveal Features of Musical Interpretation	https://neurips.cc/virtual/2026/poster/153459	pending	-
-151540	Dual Dimensionality for Local and Global Attention	https://neurips.cc/virtual/2026/poster/151540	pending	-
-154664	DualDrift: Combining Forward and Reverse Drifts for One-Step Generative Modeling	https://neurips.cc/virtual/2026/poster/154664	pending	-
-149920	Dual Feature-Relational Alignment for Transferable Targeted Attacks on MLLMs	https://neurips.cc/virtual/2026/poster/149920	pending	-
-153289	Dual-Granularity Learning for Regression with Continuous Noisy Labels	https://neurips.cc/virtual/2026/poster/153289	pending	-
-148859	Duality Models: An Embarrassingly Simple One-step Generation Paradigm	https://neurips.cc/virtual/2026/poster/148859	pending	-
-148696	DualKV: Shared-Prompt Flash Attention for Efficient RL Training with Large Rollouts and Long Contexts	https://neurips.cc/virtual/2026/poster/148696	pending	-
-154151	Dual-Pathway Circuits of Object Hallucination in Vision-Language Models	https://neurips.cc/virtual/2026/poster/154151	pending	-
-155469	Dual-Pronged LoRA: Achieving Near-Zero Forgetting and High-Performance Adaptation for MLLMs	https://neurips.cc/virtual/2026/poster/155469	pending	-
-149934	Dual-Rate Diffusion: Accelerating diffusion models with an interleaved heavy-light network	https://neurips.cc/virtual/2026/poster/149934	pending	-
-150240	DualSAT: A Dual-Branch GNN-Transformer Framework for SAT Solving	https://neurips.cc/virtual/2026/poster/150240	pending	-
-150002	Dual-Space Preconditioning for Variational Inequalities and Root-Finding Problems	https://neurips.cc/virtual/2026/poster/150002	pending	-
-153216	DualSteer: Dual-Space Steering for Robust Jailbreak Mitigation of Large Vision Language Models	https://neurips.cc/virtual/2026/poster/153216	pending	-
-139759	DualWorldBench: Can Agents Plan Deliveries across Symbolic and Grounded Worlds?	https://neurips.cc/virtual/2026/poster/139759	pending	-
-151136	DUDS: Dual-stage Data Selection for Efficient Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/151136	pending	-
-153196	DUET: Optimize Token-Budget Allocation for Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/153196	pending	-
-153975	DUET: Unified Dual-Space Emotion Control for Diffusion and Flow-Matching Driven Text-to-Speech	https://neurips.cc/virtual/2026/poster/153975	pending	-
-152492	DUIL: Deep Unsupervised Inverse Learning for in situ Macromolecular Morphology Identification	https://neurips.cc/virtual/2026/poster/152492	pending	-
-151376	DUST: Directional Uncertainty-aware and Scale-invariant Transfer Learning	https://neurips.cc/virtual/2026/poster/151376	pending	-
-155352	D-VLA: A High-Concurrency Distributed Asynchronous RL Framework for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155352	pending	-
-148139	DyCoRM: Dynamic Criterion-Aware Reward Modeling for Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/148139	pending	-
-156115	DyJR: Preserving Local Policy Plasticity in Reinforcement Learning with Verifiable Rewards via Dynamic Jensen-Shannon Replay	https://neurips.cc/virtual/2026/poster/156115	pending	-
-139363	DynaCell: an Evaluation Framework for Dynamic 3D Virtual Staining of Live Cells	https://neurips.cc/virtual/2026/poster/139363	pending	-
-151075	DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation	https://neurips.cc/virtual/2026/poster/151075	pending	-
-139757	DynamAuction: a reinforcement learning environment for repeated auction with dynamic value	https://neurips.cc/virtual/2026/poster/139757	pending	-
-151116	Dynamical Adapter Fusion: Constructing A Global Adapter for Pre-Trained Model-based Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/151116	pending	-
-151637	Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference	https://neurips.cc/virtual/2026/poster/151637	pending	-
-154443	Dynamic Causal Structure Discovery for Autoregressive Visual Generation	https://neurips.cc/virtual/2026/poster/154443	pending	-
-151758	Dynamic Context Modeling for Longitudinal Mental Health Monitoring under Distribution Shift	https://neurips.cc/virtual/2026/poster/151758	pending	-
-153747	Dynamic Convolutions Improve Transformers	https://neurips.cc/virtual/2026/poster/153747	pending	-
-151468	Dynamic Cross-Modal Prompt Generation for Multimodal Continual Instruction Tuning	https://neurips.cc/virtual/2026/poster/151468	pending	-
-155922	Dynamic Delayed Tree Expansion For Improved Multi-Path Speculative Decoding	https://neurips.cc/virtual/2026/poster/155922	pending	-
-155680	Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/155680	pending	-
-155427	Dynamic Expert Sharing: Decoupling Memory from Parallelism in Mixture-of-Experts Diffusion LLMs	https://neurips.cc/virtual/2026/poster/155427	pending	-
-153912	Dynamic k-center clustering with lifetimes	https://neurips.cc/virtual/2026/poster/153912	pending	-
-153785	Dynamic Latent Routing	https://neurips.cc/virtual/2026/poster/153785	pending	-
-149280	Dynamic Model Merging Made Slim	https://neurips.cc/virtual/2026/poster/149280	pending	-
-154422	Dynamic Optimistic Constrained OCO with Memory via Delay Equivalence	https://neurips.cc/virtual/2026/poster/154422	pending	-
+155685	DTGS: Physics-Embedded Dynamic Thermal 3D Reconstruction with Gaussian Splatting	https://neurips.cc/virtual/2026/poster/155685	included	将热辐射与几何变形分别建模
+149513	DT-PBO: an Interpretable Tree-based Surrogate Model for Preferential Bayesian Optimization	https://neurips.cc/virtual/2026/poster/149513	included	需解释成对偏好时用浅层树作代理
+153459	Dual-Contrastive Sparse Autoencoders Reveal Features of Musical Interpretation	https://neurips.cc/virtual/2026/poster/153459	included	用作品标签区分作品与演奏信息
+151540	Dual Dimensionality for Local and Global Attention	https://neurips.cc/virtual/2026/poster/151540	included	将低维 KV 优先分配给远距离 token
+154664	DualDrift: Combining Forward and Reverse Drifts for One-Step Generative Modeling	https://neurips.cc/virtual/2026/poster/154664	included	早期加入从数据端分配的修正信号
+149920	Dual Feature-Relational Alignment for Transferable Targeted Attacks on MLLMs	https://neurips.cc/virtual/2026/poster/149920	excluded	论文主要提出跨模型定向攻击，摘要未给可独立验证的防御机制。
+153289	Dual-Granularity Learning for Regression with Continuous Noisy Labels	https://neurips.cc/virtual/2026/poster/153289	included	按标签误差尺度分别利用数值与排序
+148859	Duality Models: An Embarrassingly Simple One-step Generation Paradigm	https://neurips.cc/virtual/2026/poster/148859	included	用同一训练样本监督速度和积分映射
+148696	DualKV: Shared-Prompt Flash Attention for Efficient RL Training with Large Rollouts and Long Contexts	https://neurips.cc/virtual/2026/poster/148696	included	训练中仅计算一次并共享公共因果前缀
+154151	Dual-Pathway Circuits of Object Hallucination in Vision-Language Models	https://neurips.cc/virtual/2026/poster/154151	included	以因果干预区分视觉证据路径和幻觉路径
+155469	Dual-Pronged LoRA: Achieving Near-Zero Forgetting and High-Performance Adaptation for MLLMs	https://neurips.cc/virtual/2026/poster/155469	included	仅在目标任务相关输入启用适配器
+149934	Dual-Rate Diffusion: Accelerating diffusion models with an interleaved heavy-light network	https://neurips.cc/virtual/2026/poster/149934	included	以不同频率运行重上下文模块与轻去噪模块
+150240	DualSAT: A Dual-Branch GNN-Transformer Framework for SAT Solving	https://neurips.cc/virtual/2026/poster/150240	included	在 SAT 求解器内用单次预测辅助相位选择
+150002	Dual-Space Preconditioning for Variational Inequalities and Root-Finding Problems	https://neurips.cc/virtual/2026/poster/150002	included	在非经典光滑条件下检查对偶空间预条件
+153216	DualSteer: Dual-Space Steering for Robust Jailbreak Mitigation of Large Vision Language Models	https://neurips.cc/virtual/2026/poster/153216	included	将注意力修正和隐藏状态修正分别评测
+139759	DualWorldBench: Can Agents Plan Deliveries across Symbolic and Grounded Worlds?	https://neurips.cc/virtual/2026/poster/139759	included	分开验证符号计划和场景落地
+151136	DUDS: Dual-stage Data Selection for Efficient Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/151136	included	先做离线多样性筛选，再用已有采样更新难度
+153196	DUET: Optimize Token-Budget Allocation for Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/153196	included	联合控制每题采样数和轨迹长度
+153975	DUET: Unified Dual-Space Emotion Control for Diffusion and Flow-Matching Driven Text-to-Speech	https://neurips.cc/virtual/2026/poster/153975	included	分开测情绪引导和说话人保持
+152492	DUIL: Deep Unsupervised Inverse Learning for in situ Macromolecular Morphology Identification	https://neurips.cc/virtual/2026/poster/152492	included	先聚类与方向无关的形态，再做对齐平均
+151376	DUST: Directional Uncertainty-aware and Scale-invariant Transfer Learning	https://neurips.cc/virtual/2026/poster/151376	included	迁移源方向分布而由目标数据估计尺度
+155352	D-VLA: A High-Concurrency Distributed Asynchronous RL Framework for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155352	included	隔离训练数据流与权重控制流
+148139	DyCoRM: Dynamic Criterion-Aware Reward Modeling for Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/148139	included	按请求选评价维度再比较候选
+156115	DyJR: Preserving Local Policy Plasticity in Reinforcement Learning with Verifiable Rewards via Dynamic Jensen-Shannon Replay	https://neurips.cc/virtual/2026/poster/156115	included	用近期轨迹约束分布而非直接反传回放奖励
+139363	DynaCell: an Evaluation Framework for Dynamic 3D Virtual Staining of Live Cells	https://neurips.cc/virtual/2026/poster/139363	included	分开验证图像局部结构和群体表型
+151075	DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation	https://neurips.cc/virtual/2026/poster/151075	included	将运动监督用在视觉预训练阶段
+139757	DynamAuction: a reinforcement learning environment for repeated auction with dynamic value	https://neurips.cc/virtual/2026/poster/139757	included	让历史动作显式影响后续价值
+151116	Dynamical Adapter Fusion: Constructing A Global Adapter for Pre-Trained Model-based Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/151116	included	融合当前适配器、旧全局参数和初始化
+151637	Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference	https://neurips.cc/virtual/2026/poster/151637	included	把输出长度、分块和解码顺序共同推断
+154443	Dynamic Causal Structure Discovery for Autoregressive Visual Generation	https://neurips.cc/virtual/2026/poster/154443	included	按内容选择图像 token 的条件集合
+151758	Dynamic Context Modeling for Longitudinal Mental Health Monitoring under Distribution Shift	https://neurips.cc/virtual/2026/poster/151758	included	用可更新的个人上下文适配漂移，冻结模型参数
+153747	Dynamic Convolutions Improve Transformers	https://neurips.cc/virtual/2026/poster/153747	included	用输入依赖短卷积增强注意力投影
+151468	Dynamic Cross-Modal Prompt Generation for Multimodal Continual Instruction Tuning	https://neurips.cc/virtual/2026/poster/151468	included	为每个图文对生成软提示
+155922	Dynamic Delayed Tree Expansion For Improved Multi-Path Speculative Decoding	https://neurips.cc/virtual/2026/poster/155922	included	将草稿树分支推迟到更深位置
+155680	Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/155680	included	用经验目标阈值平滑错覆盖反馈
+155427	Dynamic Expert Sharing: Decoupling Memory from Parallelism in Mixture-of-Experts Diffusion LLMs	https://neurips.cc/virtual/2026/poster/155427	included	在并行区块级共享激活专家
+153912	Dynamic k-center clustering with lifetimes	https://neurips.cc/virtual/2026/poster/153912	included	利用到达时已知的过期时刻设计维护算法
+153785	Dynamic Latent Routing	https://neurips.cc/virtual/2026/poster/153785	included	在后训练联合学习离散代码和路由
+149280	Dynamic Model Merging Made Slim	https://neurips.cc/virtual/2026/poster/149280	included	联合分配共享分支与任务专家的秩
+154422	Dynamic Optimistic Constrained OCO with Memory via Delay Equivalence	https://neurips.cc/virtual/2026/poster/154422	included	把状态历史影响转写成延迟反馈
 155360	Dynamic Physical Adversarial LED Patterns via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155360	pending	-
 152814	Dynamic Quadtree Tokenization for Autoregressive PDE Forecasting	https://neurips.cc/virtual/2026/poster/152814	pending	-
 154187	Dynamic Query as Budgeting for Tiny Object Detection	https://neurips.cc/virtual/2026/poster/154187	pending	-

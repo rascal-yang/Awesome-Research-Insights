@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2369** 篇，暂收录 **2206** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2429** 篇，暂收录 **2263** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2214,3 +2214,60 @@
 | 计算机视觉 | 注意力建模 | [Driver Attention as Competitive Allocation: A Scene--Task-Aware Dual-Branch Framework](cards-0004.md#paper-153047) | 按场景任务需求和控制紧迫度调节注意力集中程度 |
 | 多模态学习 | 空间评测 | [DriveSpatial: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving](cards-0004.md#paper-139711) | 用动态场景图保证问题确实需要跨视角与时间信息 |
 | 多模态学习 | 流式评测 | [DriveStreamBench: Evaluating User-Conditioned Watch-and-Notify in Streaming Driving Video](cards-0004.md#paper-139662) | 验收提醒系统时只给此前视频帧并检查提醒时机 |
+| 学习理论 | 稳定性分析 | [Drive vs. Decay: On the Training Dynamics of Joint-Embedding Predictive Architectures](cards-0004.md#paper-152058) | 先测谱模态的驱动衰减比，再调整防塌缩超参。 |
+| 具身智能 | 世界动作模型 | [DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving](cards-0004.md#paper-150338) | 对时序控制比较视频预训练与静态图文预训练。 |
+| 自动驾驶 | 捷径诊断 | [Driving on Memory](cards-0004.md#paper-139692) | 以历史同地点观测替换实时视觉，检验基准能否识别动态响应。 |
+| 多模态学习 | 检索校准 | [Driving Video Retrieval for Complex Queries with Structured Grounding](cards-0004.md#paper-152910) | 按领域数据校准规则可靠性再与文本和视觉检索融合。 |
+| Agent | 强化学习后训练 | [Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems](cards-0004.md#paper-151327) | 多角色奖励异质时按角色归一化优势。 |
+| 强化学习 | 谱表征 | [DROGO: Default Representation Objective via Graph Optimization in Reinforcement Learning](cards-0004.md#paper-154924) | 直接用转移样本优化表示的主特征向量。 |
+| 大语言模型 | 缓存淘汰 | [DropKV: Decoupling Residual-Output Perturbation for Near-Optimal KV-Cache Eviction](cards-0004.md#paper-152246) | 按可分解的输出扰动分数淘汰 KV token。 |
+| 生成模型 | 偏好微调 | [DrPO: Drifting Preference Optimization for One-Step Generative Models](cards-0004.md#paper-151942) | 奖励不可微时用在线样本构造潜空间更新方向。 |
+| 多模态学习 | 结构化监督 | [DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models](cards-0004.md#paper-150625) | 用按因果顺序组织的视觉证据与推理阶段训练小模型。 |
+| 机器学习系统 | 合成训练 | [DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation](cards-0004.md#paper-148751) | 按算子组合和难度生成样本，为正确性与性能分别赋奖。 |
+| 计算机视觉 | 视频表征 | [DSAD: Dynamic Soft Anisotropic Diagrams for Reduced-Order Video Representation](cards-0004.md#paper-152936) | 用共享软空间坐标分解局部外观和运动。 |
+| 生成模型 | 量化训练 | [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation](cards-0004.md#paper-150894) | 按去噪阶段切换蒸馏与细节恢复监督。 |
+| 轨迹预测 | 生成式精修 | [DSBTR: A Diffusion Schrödinger Bridge Trajectory Refiner for Multi-Agent Trajectory Prediction](cards-0004.md#paper-154766) | 让训练桥的终点匹配部署时无噪粗预测。 |
+| 时间序列 | 动态路由 | [DSR-TSF: Spectrum-Driven Dynamic Routing for Efficient Long-Horizon Time Series Forecasting](cards-0004.md#paper-152845) | 根据输入频谱按样本选择周期分支。 |
+| 时间序列 | 时空图建模 | [DSSNet: Deep Spectral Structure Profiling Network for Traffic Flow Prediction](cards-0004.md#paper-154082) | 用相似频带特征构图补充空间邻接。 |
+| 具身智能 | 历史条件化 | [DSSP: Diffusion State Space Policy  with Hierarchical Full-History Conditioning](cards-0004.md#paper-151450) | 压缩全历史并以未来动态辅助监督保留信息。 |
+| 时间序列 | 异常校准 | [dStructAD: Domain-Level Structured Normality Representation with Variation Calibration for Time Series Anomaly Detection](cards-0004.md#paper-150983) | 先学习同域正常结构，再做保结构目标域校准。 |
+| 图学习 | 架构性能预测 | [DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning](cards-0004.md#paper-153021) | 在图编码全流程保留计算依赖方向。 |
+| 视觉 | 三维重建 | [DTGS: Physics-Embedded Dynamic Thermal 3D Reconstruction with Gaussian Splatting](cards-0004.md#paper-155685) | 将热辐射与几何变形分别建模 |
+| 优化 | 贝叶斯优化 | [DT-PBO: an Interpretable Tree-based Surrogate Model for Preferential Bayesian Optimization](cards-0004.md#paper-149513) | 需解释成对偏好时用浅层树作代理 |
+| 音频 | 表征解耦 | [Dual-Contrastive Sparse Autoencoders Reveal Features of Musical Interpretation](cards-0004.md#paper-153459) | 用作品标签区分作品与演奏信息 |
+| 大语言模型 | 注意力 | [Dual Dimensionality for Local and Global Attention](cards-0004.md#paper-151540) | 将低维 KV 优先分配给远距离 token |
+| 生成模型 | 训练策略 | [DualDrift: Combining Forward and Reverse Drifts for One-Step Generative Modeling](cards-0004.md#paper-154664) | 早期加入从数据端分配的修正信号 |
+| 统计学习 | 噪声回归 | [Dual-Granularity Learning for Regression with Continuous Noisy Labels](cards-0004.md#paper-153289) | 按标签误差尺度分别利用数值与排序 |
+| 生成模型 | 流建模 | [Duality Models: An Embarrassingly Simple One-step Generation Paradigm](cards-0004.md#paper-148859) | 用同一训练样本监督速度和积分映射 |
+| 大语言模型 | 系统优化 | [DualKV: Shared-Prompt Flash Attention for Efficient RL Training with Large Rollouts and Long Contexts](cards-0004.md#paper-148696) | 训练中仅计算一次并共享公共因果前缀 |
+| 多模态学习 | 机制诊断 | [Dual-Pathway Circuits of Object Hallucination in Vision-Language Models](cards-0004.md#paper-154151) | 以因果干预区分视觉证据路径和幻觉路径 |
+| 多模态学习 | 参数高效微调 | [Dual-Pronged LoRA: Achieving Near-Zero Forgetting and High-Performance Adaptation for MLLMs](cards-0004.md#paper-155469) | 仅在目标任务相关输入启用适配器 |
+| 生成模型 | 推理加速 | [Dual-Rate Diffusion: Accelerating diffusion models with an interleaved heavy-light network](cards-0004.md#paper-149934) | 以不同频率运行重上下文模块与轻去噪模块 |
+| 图学习 | 组合求解 | [DualSAT: A Dual-Branch GNN-Transformer Framework for SAT Solving](cards-0004.md#paper-150240) | 在 SAT 求解器内用单次预测辅助相位选择 |
+| 优化 | 算子方法 | [Dual-Space Preconditioning for Variational Inequalities and Root-Finding Problems](cards-0004.md#paper-150002) | 在非经典光滑条件下检查对偶空间预条件 |
+| 多模态学习 | 防御 | [DualSteer: Dual-Space Steering for Robust Jailbreak Mitigation of Large Vision Language Models](cards-0004.md#paper-153216) | 将注意力修正和隐藏状态修正分别评测 |
+| Agent | 规划评测 | [DualWorldBench: Can Agents Plan Deliveries across Symbolic and Grounded Worlds?](cards-0004.md#paper-139759) | 分开验证符号计划和场景落地 |
+| 强化学习 | 样本选择 | [DUDS: Dual-stage Data Selection for Efficient Reinforcement Learning with Verifiable Rewards](cards-0004.md#paper-151136) | 先做离线多样性筛选，再用已有采样更新难度 |
+| 强化学习 | 预算分配 | [DUET: Optimize Token-Budget Allocation for Reinforcement Learning with Verifiable Rewards](cards-0004.md#paper-153196) | 联合控制每题采样数和轨迹长度 |
+| 音频 | 生成控制 | [DUET: Unified Dual-Space Emotion Control for Diffusion and Flow-Matching Driven Text-to-Speech](cards-0004.md#paper-153975) | 分开测情绪引导和说话人保持 |
+| 科学机器学习 | 显微成像分析 | [DUIL: Deep Unsupervised Inverse Learning for in situ Macromolecular Morphology Identification](cards-0004.md#paper-152492) | 先聚类与方向无关的形态，再做对齐平均 |
+| 统计学习 | 迁移学习 | [DUST: Directional Uncertainty-aware and Scale-invariant Transfer Learning](cards-0004.md#paper-151376) | 迁移源方向分布而由目标数据估计尺度 |
+| 具身智能 | 分布式训练 | [D-VLA: A High-Concurrency Distributed Asynchronous RL Framework for Vision-Language-Action Models](cards-0004.md#paper-155352) | 隔离训练数据流与权重控制流 |
+| 生成模型 | 奖励建模 | [DyCoRM: Dynamic Criterion-Aware Reward Modeling for Text-to-Image Generation](cards-0004.md#paper-148139) | 按请求选评价维度再比较候选 |
+| 强化学习 | 经验回放 | [DyJR: Preserving Local Policy Plasticity in Reinforcement Learning with Verifiable Rewards via Dynamic Jensen-Shannon Replay](cards-0004.md#paper-156115) | 用近期轨迹约束分布而非直接反传回放奖励 |
+| 科学机器学习 | 多指标诊断 | [DynaCell: an Evaluation Framework for Dynamic 3D Virtual Staining of Live Cells](cards-0004.md#paper-139363) | 分开验证图像局部结构和群体表型 |
+| 具身智能 | 表征学习 | [DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation](cards-0004.md#paper-151075) | 将运动监督用在视觉预训练阶段 |
+| 强化学习 | 规划评测 | [DynamAuction: a reinforcement learning environment for repeated auction with dynamic value](cards-0004.md#paper-139757) | 让历史动作显式影响后续价值 |
+| 持续学习 | 适配器融合 | [Dynamical Adapter Fusion: Constructing A Global Adapter for Pre-Trained Model-based Class-Incremental Learning](cards-0004.md#paper-151116) | 融合当前适配器、旧全局参数和初始化 |
+| 大语言模型 | 结构解码 | [Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference](cards-0004.md#paper-151637) | 把输出长度、分块和解码顺序共同推断 |
+| 计算机视觉 | 生成推理 | [Dynamic Causal Structure Discovery for Autoregressive Visual Generation](cards-0004.md#paper-154443) | 按内容选择图像 token 的条件集合 |
+| 科学机器学习 | 纵向建模 | [Dynamic Context Modeling for Longitudinal Mental Health Monitoring under Distribution Shift](cards-0004.md#paper-151758) | 用可更新的个人上下文适配漂移，冻结模型参数 |
+| 大语言模型 | 架构设计 | [Dynamic Convolutions Improve Transformers](cards-0004.md#paper-153747) | 用输入依赖短卷积增强注意力投影 |
+| 多模态学习 | 持续指令调优 | [Dynamic Cross-Modal Prompt Generation for Multimodal Continual Instruction Tuning](cards-0004.md#paper-151468) | 为每个图文对生成软提示 |
+| 大语言模型 | 推测解码 | [Dynamic Delayed Tree Expansion For Improved Multi-Path Speculative Decoding](cards-0004.md#paper-155922) | 将草稿树分支推迟到更深位置 |
+| 统计学习 | 保形推断 | [Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting](cards-0004.md#paper-155680) | 用经验目标阈值平滑错覆盖反馈 |
+| 大语言模型 | 稀疏推理 | [Dynamic Expert Sharing: Decoupling Memory from Parallelism in Mixture-of-Experts Diffusion LLMs](cards-0004.md#paper-155427) | 在并行区块级共享激活专家 |
+| 算法理论 | 动态聚类 | [Dynamic k-center clustering with lifetimes](cards-0004.md#paper-153912) | 利用到达时已知的过期时刻设计维护算法 |
+| 大语言模型 | 潜变量路由 | [Dynamic Latent Routing](cards-0004.md#paper-153785) | 在后训练联合学习离散代码和路由 |
+| 模型融合 | 参数分配 | [Dynamic Model Merging Made Slim](cards-0004.md#paper-149280) | 联合分配共享分支与任务专家的秩 |
+| 在线优化 | 动态约束 | [Dynamic Optimistic Constrained OCO with Memory via Delay Equivalence](cards-0004.md#paper-154422) | 把状态历史影响转写成延迟反馈 |
