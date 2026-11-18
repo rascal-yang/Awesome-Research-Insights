@@ -1255,5 +1255,14 @@ Decoding, test-time adaptation, and efficient execution.
 - [PEARL: Solver-in-the-Loop Interactive Optimization Modeling from Natural Language](../../conferences/neurips-2026/cards-0009.md#paper-152032)
 - [PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents](../../conferences/neurips-2026/cards-0009.md#paper-154336)
 - [PEEK: One-Step Look-Ahead Exposure Bias Correction for Diffusion Sampling](../../conferences/neurips-2026/cards-0009.md#paper-150622)
+- [PhotoFlow: Agentic 3D Virtual Photography Missions](../../conferences/neurips-2026/cards-0009.md#paper-149703)
+- [Physics-Constrained Generative World Model for Off-Road Terrain via Post-hoc Projection](../../conferences/neurips-2026/cards-0009.md#paper-150035)
+- [PickMoment: Continuous-Time Single-Image-to-Video via Learning Deblurring and Blur-to-Video](../../conferences/neurips-2026/cards-0009.md#paper-153056)
+- [PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion](../../conferences/neurips-2026/cards-0009.md#paper-148976)
+- [PISG: Constraint-Aligned Signal Amplification for Diffusion-Based Combinatorial Optimization](../../conferences/neurips-2026/cards-0009.md#paper-155482)
+- [PixelPonder: Dynamic Patch Adaptation for Enhanced Multi-Conditional Text-to-Image Generation](../../conferences/neurips-2026/cards-0009.md#paper-153024)
+- [Plan2Sense: Open-World Task Planning in Epistemic States via Interleaved Ontic and Sensing Actions](../../conferences/neurips-2026/cards-0009.md#paper-150699)
+- [Planning Persuasion, Not Utterances: Profile-Conditioned Open-Loop Search for Dialogue Strategy](../../conferences/neurips-2026/cards-0009.md#paper-153963)
+- [PolyMind: Exploring Width Scaling for Reflective Reasoning in Language Agents](../../conferences/neurips-2026/cards-0009.md#paper-153141)
 
 <!-- conference-classification:end -->

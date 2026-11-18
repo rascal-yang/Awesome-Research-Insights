@@ -458,3 +458,73 @@
 | 机器人学 | 模块 | [Phase-Adaptive Fusion: Spatio-Temporal Modulation for VLA Models](cards-0009.md#paper-155415) | 具身视觉融合应在任务的对位阶段增强视觉证据。 |
 | 计算机视觉 | 表征学习 | [PhaseDance: Capturing Rhythm and Expressivity in Dance Modeling](cards-0009.md#paper-153947) | 音乐到动作对齐应同时测局部拍和全局周期。 |
 | 计算机视觉 | 表征学习 | [Phase-DGS: Phase-Guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](cards-0009.md#paper-154774) | 多视角周期动作不同步时比较相同动作相位而非帧号。 |
+| 机器学习基础与统计 | 模型架构 | [Phase Kernel Lifts Capacity of Dense Associative Memory](cards-0009.md#paper-150371) | 联想记忆过载时改能量核而不只扩维。 |
+| 机器人学 | 训练策略 | [PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies](cards-0009.md#paper-151017) | VLA 按控制阶段改变 LoRA 的方向。 |
+| 机器学习基础与统计 | 理论与统计 | [Phases of Muon: When Muon  Eclipses SignSGD](cards-0009.md#paper-150376) | 选择谱优化器联合检查批量和协方差各向异性。 |
+| 大语言模型 | 模型架构 | [Phase Space Attention: A Hairer Lift Resolves the Single-Layer Induction Obstruction](cards-0009.md#paper-149119) | 单层低容量归纳用相空间升维补足前一位置关系。 |
+| 大语言模型 | 理论与统计 | [Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence](cards-0009.md#paper-148770) | 复制头诊断按样本规模和注意归一化分别看相变。 |
+| 机器学习基础与统计 | 理论与统计 | [Phase Transitions in Heavy-Tailed Mean Estimation under $\ell_p$ Norms](cards-0009.md#paper-152536) | 重尾均值的分组数按目标范数选。 |
+| 多模态学习 | 训练策略 | [Phase-wise MLLM Tuning for Multi-framework WebUI Code Generation](cards-0009.md#paper-148777) | 多前端代码让课程按框架兼容性定阶段。 |
+| 计算机视觉 | 训练策略 | [Phase-wise Velocity Distillation: Towards Effective Image Generation with A Single NFE](cards-0009.md#paper-150700) | 少步蒸馏以两个半规模专家分担粗结构和细节。 |
+| 强化学习 | 强化学习方法 | [PhGPO: Pheromone-Guided Policy Optimization for Long-Horizon Tool Planning](cards-0009.md#paper-149200) | 保留历史成功轨迹中的工具转移供后续探索。 |
+| 机器人学 | 损失函数 | [PHIONet: Port Hamiltonian Inertial Odometry Network](cards-0009.md#paper-155933) | 惯导以离散功率平衡约束速度更新。 |
+| 大语言模型 | 评测与诊断 | [PHMForge: Evaluating LLM Agents on Industrial Prognostics through MCP-Native, Algorithm-Grounded Tools](cards-0009.md#paper-139250) | 工业工具代理区分协议调用与时序编排。 |
+| 科学机器学习 | 评测与诊断 | [PHOEBI: An Open-World Benchmark for Multi-Label Bacterial Identification in Phase-Contrast Microscopy](cards-0009.md#paper-139754) | 混合对象识别按组合留出，并比较不同证据池化。 |
+| 计算机视觉 | 推理策略 | [PhotoFlow: Agentic 3D Virtual Photography Missions](cards-0009.md#paper-149703) | 视角搜索闭环记录已证无效区域。 |
+| 计算机视觉 | 评测与诊断 | [PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA](cards-0009.md#paper-139124) | 视频物理质量拆成场景特定可观测问题。 |
+| 计算机视觉 | 模型架构 | [PhyMo: Learning Physical Dynamics with Accurate and Continuous Motion from Multi-View Videos](cards-0009.md#paper-154704) | 多视视频重建在空间变形外约束速度和加速度连续。 |
+| 计算机视觉 | 强化学习方法 | [PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation](cards-0009.md#paper-149085) | 人体动作生成把物理奖励拆成三维运动、接触平衡和可行动态。 |
+| 计算机视觉 | 评测与诊断 | [PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos](cards-0009.md#paper-149508) | 生成物理评分同时训练排序、绝对尺度和共同锚点。 |
+| 科学机器学习 | 评测与诊断 | [PhysAgentGym: Free Physical-Law Verifiers for Training Small Code-Reasoning Agents](cards-0009.md#paper-153149) | 有闭式规律的仿真代码可按整条轨迹验收。 |
+| 多模态学习 | 损失函数 | [PhysDNet: Physics-Driven Gradient Amplification for Real-Time Image Dehazing](cards-0009.md#paper-152574) | 去雾训练让物理逆模型放大强退化区域梯度。 |
+| 计算机视觉 | 评测与诊断 | [PhysEval: Quantifying the Gap Between Video Generation and World Physical Laws](cards-0009.md#paper-139832) | 将视频物理能力测试从观感评分改成可测量物理量。 |
+| 科学机器学习 | 模型架构 | [PhysFormer: Learning to Simulate Mechanics in World Space](cards-0009.md#paper-155354) | 仿真漂移严重时，测试世界坐标下的一次性全轨迹预测。 |
+| 机器人学 | 表征学习 | [PhysGraphNet: Physical-State Scene Graphs via Latent Graph Reasoning and Counterfactual Supervision](cards-0009.md#paper-148671) | 操作规划读不准物体状态时，监督显式物体关系图并做反事实配对。 |
+| 科学机器学习 | 优化 | [PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates](cards-0009.md#paper-148249) | 仿真模型用少量实测调优时，先识别物理敏感方向，再限制更新。 |
+| 机器人学 | 推理策略 | [Physics-Constrained Generative World Model for Off-Road Terrain via Post-hoc Projection](cards-0009.md#paper-150035) | 训练约束损失损伤生成分布时，比较对输出做事后可行投影。 |
+| 科学机器学习 | 损失函数 | [Physics-Informed Optimal Control by Control-Only Supervision with Error Guarantees on Value and Policy](cards-0009.md#paper-154719) | 数据仅有控制标签时，用 HJB 残差与控制误差来训练可求梯度的值函数。 |
+| 机器人学 | 模型架构 | [PhySPRING: Structure-Preserving Reduction of Physics-Informed  Digital Twins via Graph Neural Networks](cards-0009.md#paper-150133) | 数字孪生过细时，按动态响应而不是视觉分辨率做节点合并。 |
+| 智能体 | 强化学习与奖励 | [PiCA: Pivot-Based Credit Assignment For Search Agentic Reinforcement Learning](cards-0009.md#paper-155622) | 用历史条件成功率做搜索过程奖励 |
+| 视觉与多模态 | 生成与扩散 | [PickMoment: Continuous-Time Single-Image-to-Video via Learning Deblurring and Blur-to-Video](cards-0009.md#paper-153056) | 把去模糊与曝光内插帧共享成连续查询 |
+| 视觉与多模态 | 生成与扩散 | [PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion](cards-0009.md#paper-148976) | 把解码和超分合并为条件像素去噪 |
+| 智能体 | 评测与诊断 | [PieArena: Ranking and Profiling Language Agents in Realistic Negotiation Scenarios](cards-0009.md#paper-138985) | 谈判类智能体排名同时校正角色与配对效应 |
+| 机器学习基础与统计 | 评测与诊断 | [PINNBench: A Benchmark and Evaluation Study of Training Policy Selection in Hybrid PINN-Operator Solvers](cards-0009.md#paper-138968) | 路由器选择同时看命中率与预期后悔 |
+| 机器学习基础与统计 | 训练与优化 | [Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation](cards-0009.md#paper-148525) | 研究旋转权重而保留奇异值的优化对照 |
+| 视觉与多模态 | 效率与系统 | [PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers](cards-0009.md#paper-150938) | 稀疏注意力弱块做近似保留 |
+| 机器学习基础与统计 | 推理与搜索 | [PISG: Constraint-Aligned Signal Amplification for Diffusion-Based Combinatorial Optimization](cards-0009.md#paper-155482) | 约束解码前先增强结构信号 |
+| 视觉与多模态 | 评测与诊断 | [PitchBench: Measuring Pitch Hearing in Audio-Language Models](cards-0009.md#paper-139226) | 单独测试声学辨别并跨回答格式复核 |
+| 智能体 | 记忆与检索 | [PIVOT: A Unified Agentic Framework for Streaming Long-Video Understanding](cards-0009.md#paper-152042) | 流式视频问答给决策器显式延答动作 |
+| 计算机视觉 | 训练策略 | [PixelART: Image-to-Layer Decomposition without Latents or Text-to-Image Pretraining](cards-0009.md#paper-151098) | 图层分解多采决定分层的高噪阶段。 |
+| 计算机视觉 | 损失函数 | [PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion](cards-0009.md#paper-153886) | 像素扩散把语义和几何教师投到不同子空间。 |
+| 计算机视觉 | 训练策略 | [PixelDiT2: Representation-Grounded Pixel Diffusion Transformers](cards-0009.md#paper-155465) | 像素扩散以冻结教师逐块保留去噪所需表示。 |
+| 多模态学习 | 推理策略 | [PixelPonder: Dynamic Patch Adaptation for Enhanced Multi-Conditional Text-to-Image Generation](cards-0009.md#paper-153024) | 多条件生成按局部相关与去噪阶段调控制强度。 |
+| 科学机器学习 | 评测与诊断 | [Pixels over Symbols: Sensory Realism Improves Behavioral Alignment in Models of Cognition](cards-0009.md#paper-153571) | 认知模型跨感官写实度比较人类行为模式。 |
+| 计算机视觉 | 模型架构 | [Pixel-space Autoregressive Image Synthesis via Spectrum Serialization and Flow-based Refinement](cards-0009.md#paper-149181) | 自回归先生成原像素粗稿，再以条件流补细节。 |
+| 计算机视觉 | 数据策略 | [Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation](cards-0009.md#paper-148535) | 极低预算分割先用原生词元多样性筛候选，再下钻像素。 |
+| 多模态学习 | 评测与诊断 | [PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?](cards-0009.md#paper-139117) | 视频定位总与单帧同算力对照比较。 |
+| 计算机视觉 | 评测与诊断 | [PLACE: Patch-Level Agnostic Concept Extraction](cards-0009.md#paper-155100) | 概念提取读原生 patch，不用裁剪缩放改变注意。 |
+| 机器人学 | 推理策略 | [Plan2Sense: Open-World Task Planning in Epistemic States via Interleaved Ontic and Sensing Actions](cards-0009.md#paper-150699) | 开放世界根据计划缺少的事实选择探测动作。 |
+| 计算机视觉 | 模型架构 | [PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction](cards-0009.md#paper-150984) | 流式三维以显式几何和高斯外观分别更新。 |
+| 机器人学 | 理论与统计 | [Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation](cards-0009.md#paper-150211) | 局部地图变化可只改规划场的少量转移连接。 |
+| 大语言模型 | 推理策略 | [Planning Persuasion, Not Utterances: Profile-Conditioned Open-Loop Search for Dialogue Strategy](cards-0009.md#paper-153963) | 对话规划搜索交互类型而非整句候选。 |
+| 科学机器学习 | 表征学习 | [Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry](cards-0009.md#paper-148860) | 跨个体对齐比较独立学习空间是否近似刚性同构。 |
+| 机器学习基础与统计 | 表征学习 | [Platonic Task Arithmetic](cards-0009.md#paper-155058) | 跨模型组合任务编辑先对齐功能描述而非参数。 |
+| 强化学习 | 模型架构 | [PLATO: Pointer Learner for Agent and Task Openness](cards-0009.md#paper-150534) | 动态协作策略对当前任务集合直接输出指针分布。 |
+| 科学机器学习 | 评测与诊断 | [Plausibility Is Not Prediction: Contrastive Evidence for LLM-Based Cellular Perturbation Reasoning](cards-0009.md#paper-152410) | 细胞推断评估用每基因分层对照判断是否仅记响应频次。 |
+| 多模态学习 | 评测与诊断 | [Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction](cards-0009.md#paper-154712) | 主动归纳评测中，将已见样本预测、真实规则恢复与实验信息增益分别评分。 |
+| 大语言模型 | 理论与统计 | [PLLS-CP: Unsupervised Hallucination Detection with Layer Selection and Cross-Domain Conformal Guarantees](cards-0009.md#paper-151476) | 幻觉检测跨领域迁移时，先冻结读出探针，只用目标校准样本调整共形阈值。 |
+| 大语言模型 | 理论与统计 | [PoEM: Predicting New RL Outcomes from Existing Policies](cards-0009.md#paper-154423) | 更换强化奖励前，检验多个现成策略在对数空间是否可组合。 |
+| 计算机视觉 | 表征学习 | [Point4D: Long-range 4D Motion Reconstruction](cards-0009.md#paper-155736) | 长视频三维跟踪中，保留世界空间端点跨块传递，并从任一可见时点更新表征。 |
+| 科学机器学习 | 表征学习 | [Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators](cards-0009.md#paper-153208) | 为未知材料运行模拟时，可从点云轨迹推断条件，而不先重建完整网格。 |
+| 机器人学 | 模型架构 | [Point Tracking Improves World Action Models](cards-0009.md#paper-149146) | 动作世界模型加入可见性标记的点轨迹目标，并在遮挡条件下对照仅像素目标。 |
+| 机器人学 | 训练策略 | [PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics](cards-0009.md#paper-149391) | 无机器人动作标签时，用部分三维运动轨迹补全训练动态先验。 |
+| 大语言模型 | 训练与优化 | [POISE: Instance-Specific Prompt Tuning under Latent Mixture Target Distributions](cards-0009.md#paper-154048) | 输入明显混合时对比共享提示和分流提示 |
+| 大语言模型 | 评测与诊断 | [Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples](cards-0009.md#paper-154663) | 数据完整性回归纳入跨规模对照 |
+| 视觉与多模态 | 模型与架构 | [Polar Transformers: $SO(2)^K$-Equivariant Angular Attention for Cryo-EM Image-Set Processing](cards-0009.md#paper-156031) | 图像组在融合前显式建模相对旋转 |
+| 大语言模型 | 效率与系统 | [Polestar: Drift-Aware Cache Calibration and Token Commitment for Efficient Inference of Diffusion LLMs](cards-0009.md#paper-154799) | 扩散解码按表征漂移刷新缓存和判断提交 |
+| 具身智能与机器人 | 强化学习与奖励 | [Policy-DRIFT: Dynamic Reward-Informed Flow Trajectory Steering](cards-0009.md#paper-154425) | 分离物理目标生成与低层跟踪 |
+| 强化学习与决策 | 强化学习与奖励 | [Policy-Level Exploration for Coordinated Multi-Agent Reinforcement Learning](cards-0009.md#paper-154020) | 让多智能体探索采样一段子策略 |
+| 强化学习与决策 | 强化学习与奖励 | [Policy Optimization in Hybrid Discrete-Continuous Action Spaces via Mixed Gradients](cards-0009.md#paper-151120) | 混合动作使用路径梯度与得分函数梯度 |
+| 智能体 | 推理与搜索 | [PolyMind: Exploring Width Scaling for Reflective Reasoning in Language Agents](cards-0009.md#paper-153141) | 固定反思预算下比较并行分工与串行重试 |
+| 视觉与多模态 | 模型与架构 | [PolyVision: Conditional Visual Scaling Via Dynamic Expert Routing For Vision-Centric MLLMs](cards-0009.md#paper-151361) | 局部视觉输入按需求选择异构编码器 |
+| 大语言模型 | 训练与优化 | [POME: Post Optimization Model Edit via Muon-Style Projection](cards-0009.md#paper-148262) | 用微调前后权重差做无额外数据的模型编辑 |

@@ -776,5 +776,15 @@
 - [Perception for Action in Latent World Models](../conferences/neurips-2026/cards-0009.md#paper-153770)
 - [Persistent Planar Memory for Video World Models](../conferences/neurips-2026/cards-0009.md#paper-150672)
 - [Phase-Adaptive Fusion: Spatio-Temporal Modulation for VLA Models](../conferences/neurips-2026/cards-0009.md#paper-155415)
+- [PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies](../conferences/neurips-2026/cards-0009.md#paper-151017)
+- [PHIONet: Port Hamiltonian Inertial Odometry Network](../conferences/neurips-2026/cards-0009.md#paper-155933)
+- [PhysGraphNet: Physical-State Scene Graphs via Latent Graph Reasoning and Counterfactual Supervision](../conferences/neurips-2026/cards-0009.md#paper-148671)
+- [Physics-Constrained Generative World Model for Off-Road Terrain via Post-hoc Projection](../conferences/neurips-2026/cards-0009.md#paper-150035)
+- [PhySPRING: Structure-Preserving Reduction of Physics-Informed  Digital Twins via Graph Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-150133)
+- [Plan2Sense: Open-World Task Planning in Epistemic States via Interleaved Ontic and Sensing Actions](../conferences/neurips-2026/cards-0009.md#paper-150699)
+- [Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation](../conferences/neurips-2026/cards-0009.md#paper-150211)
+- [Point Tracking Improves World Action Models](../conferences/neurips-2026/cards-0009.md#paper-149146)
+- [PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics](../conferences/neurips-2026/cards-0009.md#paper-149391)
+- [Policy-DRIFT: Dynamic Reward-Informed Flow Trajectory Steering](../conferences/neurips-2026/cards-0009.md#paper-154425)
 
 <!-- conference-classification:end -->

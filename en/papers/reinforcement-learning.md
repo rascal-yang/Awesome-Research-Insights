@@ -645,5 +645,9 @@ Learning from interaction, feedback, and offline experience.
 - [Parameter Exploration for RLVR via Variational Learning](../../conferences/neurips-2026/cards-0009.md#paper-149580)
 - [Persistent-Transient Policy Evaluation for Markov Chains via Minimal Peripheral Quotients](../../conferences/neurips-2026/cards-0009.md#paper-148512)
 - [Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-151379)
+- [PhGPO: Pheromone-Guided Policy Optimization for Long-Horizon Tool Planning](../../conferences/neurips-2026/cards-0009.md#paper-149200)
+- [PLATO: Pointer Learner for Agent and Task Openness](../../conferences/neurips-2026/cards-0009.md#paper-150534)
+- [Policy-Level Exploration for Coordinated Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-154020)
+- [Policy Optimization in Hybrid Discrete-Continuous Action Spaces via Mixed Gradients](../../conferences/neurips-2026/cards-0009.md#paper-151120)
 
 <!-- conference-classification:end -->

@@ -1098,5 +1098,7 @@
 - [Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](../../conferences/neurips-2026/cards-0006.md#paper-152922)
 - [GOLD PANNING: Strategic Context Shuffling for Needle-in-Haystack Reasoning](../../conferences/neurips-2026/cards-0006.md#paper-155209)
 - [GoT: A Game-Theoretic Approach to the Game of Twenty Questions](../../conferences/neurips-2026/cards-0006.md#paper-150838)
+- [PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers](../../conferences/neurips-2026/cards-0009.md#paper-150938)
+- [Polestar: Drift-Aware Cache Calibration and Token Commitment for Efficient Inference of Diffusion LLMs](../../conferences/neurips-2026/cards-0009.md#paper-154799)
 
 <!-- conference-classification:end -->

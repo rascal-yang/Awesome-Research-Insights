@@ -360,5 +360,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Opt-Arena: Evaluating, Selecting, and Generating Optimization Modeling Data via Tripartite Graphs](../../conferences/neurips-2026/cards-0009.md#paper-153953)
 - [Optimal Real-Data Allocation for Synthetic-Data-Augmented Inference](../../conferences/neurips-2026/cards-0009.md#paper-148327)
 - [Optimal Transport Reweighting for Robust Learning under Spurious Correlations and Label Noise](../../conferences/neurips-2026/cards-0009.md#paper-149217)
+- [Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation](../../conferences/neurips-2026/cards-0009.md#paper-148535)
 
 <!-- conference-classification:end -->

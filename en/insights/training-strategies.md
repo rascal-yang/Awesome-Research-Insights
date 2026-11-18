@@ -808,5 +808,14 @@ Training schedules, curricula, and task or stage composition.
 - [PercepCap: Video Captioner with Structured Spatio-Temporal Perception](../../conferences/neurips-2026/cards-0009.md#paper-150126)
 - [Perturb, Repair, Verify: Self-Play Vision-Language Verifiers for Compositional Understanding](../../conferences/neurips-2026/cards-0009.md#paper-150547)
 - [Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-151379)
+- [PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies](../../conferences/neurips-2026/cards-0009.md#paper-151017)
+- [Phase-wise MLLM Tuning for Multi-framework WebUI Code Generation](../../conferences/neurips-2026/cards-0009.md#paper-148777)
+- [Phase-wise Velocity Distillation: Towards Effective Image Generation with A Single NFE](../../conferences/neurips-2026/cards-0009.md#paper-150700)
+- [Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation](../../conferences/neurips-2026/cards-0009.md#paper-148525)
+- [PixelART: Image-to-Layer Decomposition without Latents or Text-to-Image Pretraining](../../conferences/neurips-2026/cards-0009.md#paper-151098)
+- [PixelDiT2: Representation-Grounded Pixel Diffusion Transformers](../../conferences/neurips-2026/cards-0009.md#paper-155465)
+- [PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics](../../conferences/neurips-2026/cards-0009.md#paper-149391)
+- [POISE: Instance-Specific Prompt Tuning under Latent Mixture Target Distributions](../../conferences/neurips-2026/cards-0009.md#paper-154048)
+- [POME: Post Optimization Model Edit via Muon-Style Projection](../../conferences/neurips-2026/cards-0009.md#paper-148262)
 
 <!-- conference-classification:end -->

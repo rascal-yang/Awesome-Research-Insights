@@ -568,5 +568,10 @@
 - [Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences](../conferences/neurips-2026/cards-0009.md#paper-151387)
 - [PhaseDance: Capturing Rhythm and Expressivity in Dance Modeling](../conferences/neurips-2026/cards-0009.md#paper-153947)
 - [Phase-DGS: Phase-Guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](../conferences/neurips-2026/cards-0009.md#paper-154774)
+- [PhysGraphNet: Physical-State Scene Graphs via Latent Graph Reasoning and Counterfactual Supervision](../conferences/neurips-2026/cards-0009.md#paper-148671)
+- [Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry](../conferences/neurips-2026/cards-0009.md#paper-148860)
+- [Platonic Task Arithmetic](../conferences/neurips-2026/cards-0009.md#paper-155058)
+- [Point4D: Long-range 4D Motion Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-155736)
+- [Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators](../conferences/neurips-2026/cards-0009.md#paper-153208)
 
 <!-- conference-classification:end -->

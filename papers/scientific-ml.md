@@ -664,5 +664,14 @@
 - [Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-150682)
 - [PG-LRF: Physiology-Guided Latent Rectified Flow for Electro-Hemodynamic PPG-to-ECG Generation](../conferences/neurips-2026/cards-0009.md#paper-150392)
 - [Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences](../conferences/neurips-2026/cards-0009.md#paper-151387)
+- [PHOEBI: An Open-World Benchmark for Multi-Label Bacterial Identification in Phase-Contrast Microscopy](../conferences/neurips-2026/cards-0009.md#paper-139754)
+- [PhysAgentGym: Free Physical-Law Verifiers for Training Small Code-Reasoning Agents](../conferences/neurips-2026/cards-0009.md#paper-153149)
+- [PhysFormer: Learning to Simulate Mechanics in World Space](../conferences/neurips-2026/cards-0009.md#paper-155354)
+- [PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates](../conferences/neurips-2026/cards-0009.md#paper-148249)
+- [Physics-Informed Optimal Control by Control-Only Supervision with Error Guarantees on Value and Policy](../conferences/neurips-2026/cards-0009.md#paper-154719)
+- [Pixels over Symbols: Sensory Realism Improves Behavioral Alignment in Models of Cognition](../conferences/neurips-2026/cards-0009.md#paper-153571)
+- [Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry](../conferences/neurips-2026/cards-0009.md#paper-148860)
+- [Plausibility Is Not Prediction: Contrastive Evidence for LLM-Based Cellular Perturbation Reasoning](../conferences/neurips-2026/cards-0009.md#paper-152410)
+- [Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators](../conferences/neurips-2026/cards-0009.md#paper-153208)
 
 <!-- conference-classification:end -->

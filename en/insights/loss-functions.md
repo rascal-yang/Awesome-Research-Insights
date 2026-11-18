@@ -376,5 +376,9 @@ Objectives, auxiliary supervision, and regularization.
 - [PENEX: AdaBoost-Inspired Neural Network Regularization](../../conferences/neurips-2026/cards-0009.md#paper-149347)
 - [Perception for Action in Latent World Models](../../conferences/neurips-2026/cards-0009.md#paper-153770)
 - [Permute-then-Adapt: Weak-to-Strong Contrastive Image--Text Adaptation](../../conferences/neurips-2026/cards-0009.md#paper-150368)
+- [PHIONet: Port Hamiltonian Inertial Odometry Network](../../conferences/neurips-2026/cards-0009.md#paper-155933)
+- [PhysDNet: Physics-Driven Gradient Amplification for Real-Time Image Dehazing](../../conferences/neurips-2026/cards-0009.md#paper-152574)
+- [Physics-Informed Optimal Control by Control-Only Supervision with Error Guarantees on Value and Policy](../../conferences/neurips-2026/cards-0009.md#paper-154719)
+- [PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion](../../conferences/neurips-2026/cards-0009.md#paper-153886)
 
 <!-- conference-classification:end -->

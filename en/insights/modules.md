@@ -403,5 +403,6 @@ Reusable components and local changes to model inputs or connections.
 - [Patch4Patch: Restoring Structural Connectivity in Patch-based Vision Encoders](../../conferences/neurips-2026/cards-0009.md#paper-154566)
 - [PDE-SSM: A Spectral State Space Approach to Spatial Mixing in Diffusion Transformers](../../conferences/neurips-2026/cards-0009.md#paper-149720)
 - [Phase-Adaptive Fusion: Spatio-Temporal Modulation for VLA Models](../../conferences/neurips-2026/cards-0009.md#paper-155415)
+- [PIVOT: A Unified Agentic Framework for Streaming Long-Video Understanding](../../conferences/neurips-2026/cards-0009.md#paper-152042)
 
 <!-- conference-classification:end -->

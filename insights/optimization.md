@@ -719,5 +719,6 @@
 - [Perfect Parallelization in Mini-Batch SGD with Classical Momentum Acceleration](../conferences/neurips-2026/cards-0009.md#paper-155684)
 - [Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-150682)
 - [PermuQuant: Lowering Per-Group Quantization Error by Reordering Channels for Diffusion Models](../conferences/neurips-2026/cards-0009.md#paper-151313)
+- [PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates](../conferences/neurips-2026/cards-0009.md#paper-148249)
 
 <!-- conference-classification:end -->

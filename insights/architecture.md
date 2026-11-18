@@ -509,5 +509,16 @@
 - [PerQ: Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation](../conferences/neurips-2026/cards-0009.md#paper-149271)
 - [PF-SGS: Pose-Free Streaming 3D Gaussian Splatting for Large-Scale Scene Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-152045)
 - [PG-LRF: Physiology-Guided Latent Rectified Flow for Electro-Hemodynamic PPG-to-ECG Generation](../conferences/neurips-2026/cards-0009.md#paper-150392)
+- [Phase Kernel Lifts Capacity of Dense Associative Memory](../conferences/neurips-2026/cards-0009.md#paper-150371)
+- [Phase Space Attention: A Hairer Lift Resolves the Single-Layer Induction Obstruction](../conferences/neurips-2026/cards-0009.md#paper-149119)
+- [PhyMo: Learning Physical Dynamics with Accurate and Continuous Motion from Multi-View Videos](../conferences/neurips-2026/cards-0009.md#paper-154704)
+- [PhysFormer: Learning to Simulate Mechanics in World Space](../conferences/neurips-2026/cards-0009.md#paper-155354)
+- [PhySPRING: Structure-Preserving Reduction of Physics-Informed  Digital Twins via Graph Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-150133)
+- [Pixel-space Autoregressive Image Synthesis via Spectrum Serialization and Flow-based Refinement](../conferences/neurips-2026/cards-0009.md#paper-149181)
+- [PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-150984)
+- [PLATO: Pointer Learner for Agent and Task Openness](../conferences/neurips-2026/cards-0009.md#paper-150534)
+- [Point Tracking Improves World Action Models](../conferences/neurips-2026/cards-0009.md#paper-149146)
+- [Polar Transformers: $SO(2)^K$-Equivariant Angular Attention for Cryo-EM Image-Set Processing](../conferences/neurips-2026/cards-0009.md#paper-156031)
+- [PolyVision: Conditional Visual Scaling Via Dynamic Expert Routing For Vision-Centric MLLMs](../conferences/neurips-2026/cards-0009.md#paper-151361)
 
 <!-- conference-classification:end -->

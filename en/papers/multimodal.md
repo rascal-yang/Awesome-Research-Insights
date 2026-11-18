@@ -822,5 +822,16 @@ Learning across modalities such as images, text, audio, and video.
 - [Permutation Sensitivity in t-SVD-based Multi-view Clustering](../../conferences/neurips-2026/cards-0009.md#paper-154178)
 - [Permute-then-Adapt: Weak-to-Strong Contrastive Image--Text Adaptation](../../conferences/neurips-2026/cards-0009.md#paper-150368)
 - [Perturb, Repair, Verify: Self-Play Vision-Language Verifiers for Compositional Understanding](../../conferences/neurips-2026/cards-0009.md#paper-150547)
+- [Phase-wise MLLM Tuning for Multi-framework WebUI Code Generation](../../conferences/neurips-2026/cards-0009.md#paper-148777)
+- [PhysDNet: Physics-Driven Gradient Amplification for Real-Time Image Dehazing](../../conferences/neurips-2026/cards-0009.md#paper-152574)
+- [PickMoment: Continuous-Time Single-Image-to-Video via Learning Deblurring and Blur-to-Video](../../conferences/neurips-2026/cards-0009.md#paper-153056)
+- [PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion](../../conferences/neurips-2026/cards-0009.md#paper-148976)
+- [PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers](../../conferences/neurips-2026/cards-0009.md#paper-150938)
+- [PitchBench: Measuring Pitch Hearing in Audio-Language Models](../../conferences/neurips-2026/cards-0009.md#paper-139226)
+- [PixelPonder: Dynamic Patch Adaptation for Enhanced Multi-Conditional Text-to-Image Generation](../../conferences/neurips-2026/cards-0009.md#paper-153024)
+- [PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding?](../../conferences/neurips-2026/cards-0009.md#paper-139117)
+- [Playing ZendoWorld: Challenging AI Agents on Active Visual Concept Induction](../../conferences/neurips-2026/cards-0009.md#paper-154712)
+- [Polar Transformers: $SO(2)^K$-Equivariant Angular Attention for Cryo-EM Image-Set Processing](../../conferences/neurips-2026/cards-0009.md#paper-156031)
+- [PolyVision: Conditional Visual Scaling Via Dynamic Expert Routing For Vision-Centric MLLMs](../../conferences/neurips-2026/cards-0009.md#paper-151361)
 
 <!-- conference-classification:end -->

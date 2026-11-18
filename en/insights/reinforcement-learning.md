@@ -619,5 +619,11 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Spatial Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-154683)
 - [Perception Without Engagement: Dissecting the Causal Discovery Deficit in LMMs](../../conferences/neurips-2026/cards-0009.md#paper-154291)
 - [Performance-Driven Policy Optimization for Speculative Decoding with Adaptive Windowing](../../conferences/neurips-2026/cards-0009.md#paper-150209)
+- [PhGPO: Pheromone-Guided Policy Optimization for Long-Horizon Tool Planning](../../conferences/neurips-2026/cards-0009.md#paper-149200)
+- [PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation](../../conferences/neurips-2026/cards-0009.md#paper-149085)
+- [PiCA: Pivot-Based Credit Assignment For Search Agentic Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-155622)
+- [Policy-DRIFT: Dynamic Reward-Informed Flow Trajectory Steering](../../conferences/neurips-2026/cards-0009.md#paper-154425)
+- [Policy-Level Exploration for Coordinated Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-154020)
+- [Policy Optimization in Hybrid Discrete-Continuous Action Spaces via Mixed Gradients](../../conferences/neurips-2026/cards-0009.md#paper-151120)
 
 <!-- conference-classification:end -->

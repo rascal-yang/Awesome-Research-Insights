@@ -2464,5 +2464,12 @@ General learning methods, optimization, learning theory, and inference.
 - [Perturb and Correct: Post-Hoc Ensembles using Affine Redundancy](../../conferences/neurips-2026/cards-0009.md#paper-148703)
 - [PE-SHAP: Causally Interpretable Path-Wise Shapley Explanations](../../conferences/neurips-2026/cards-0009.md#paper-155303)
 - [PGSB: Pretrained-Guided Shared Basis for LoRA Model Merging](../../conferences/neurips-2026/cards-0009.md#paper-152671)
+- [Phase Kernel Lifts Capacity of Dense Associative Memory](../../conferences/neurips-2026/cards-0009.md#paper-150371)
+- [Phases of Muon: When Muon  Eclipses SignSGD](../../conferences/neurips-2026/cards-0009.md#paper-150376)
+- [Phase Transitions in Heavy-Tailed Mean Estimation under $\ell_p$ Norms](../../conferences/neurips-2026/cards-0009.md#paper-152536)
+- [PINNBench: A Benchmark and Evaluation Study of Training Policy Selection in Hybrid PINN-Operator Solvers](../../conferences/neurips-2026/cards-0009.md#paper-138968)
+- [Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation](../../conferences/neurips-2026/cards-0009.md#paper-148525)
+- [PISG: Constraint-Aligned Signal Amplification for Diffusion-Based Combinatorial Optimization](../../conferences/neurips-2026/cards-0009.md#paper-155482)
+- [Platonic Task Arithmetic](../../conferences/neurips-2026/cards-0009.md#paper-155058)
 
 <!-- conference-classification:end -->

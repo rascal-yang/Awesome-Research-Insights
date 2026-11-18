@@ -1088,5 +1088,11 @@
 - [Per-Starting-Point Plausibility and Diversity Bounds for Score-Based Diffusion Models](../conferences/neurips-2026/cards-0009.md#paper-154674)
 - [Persuasive Prediction via Decision Calibration](../conferences/neurips-2026/cards-0009.md#paper-152558)
 - [PE-SHAP: Causally Interpretable Path-Wise Shapley Explanations](../conferences/neurips-2026/cards-0009.md#paper-155303)
+- [Phases of Muon: When Muon  Eclipses SignSGD](../conferences/neurips-2026/cards-0009.md#paper-150376)
+- [Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence](../conferences/neurips-2026/cards-0009.md#paper-148770)
+- [Phase Transitions in Heavy-Tailed Mean Estimation under $\ell_p$ Norms](../conferences/neurips-2026/cards-0009.md#paper-152536)
+- [Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation](../conferences/neurips-2026/cards-0009.md#paper-150211)
+- [PLLS-CP: Unsupervised Hallucination Detection with Layer Selection and Cross-Domain Conformal Guarantees](../conferences/neurips-2026/cards-0009.md#paper-151476)
+- [PoEM: Predicting New RL Outcomes from Existing Policies](../conferences/neurips-2026/cards-0009.md#paper-154423)
 
 <!-- conference-classification:end -->
