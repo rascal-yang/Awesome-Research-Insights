@@ -139,6 +139,7 @@
 - [用结构化属性生成可审计的隐私文书](../conferences/icml-2026/cards/2101-2200.md#kim26az-data-strategies) · Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch
 - [固定生成机制再干预任务频次](../conferences/icml-2026/cards/4101-4200.md#snaebjarnarson26a-data-strategies) · Causally Evaluating the Learnability of Formal Language Tasks
 - [保持句法的预训练语义消融](../conferences/icml-2026/cards/4901-5000.md#winston26a-data-strategies) · Learning syntax without semantics: Disentangled tiny language models
+- [语义模式匹配每扩展一步先查语料存在性](../conferences/icml-2026/cards/5501-5600.md#yoneda26a-data-strategies) · SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora
 
 <a id="by-reinforcement-learning"></a>
 

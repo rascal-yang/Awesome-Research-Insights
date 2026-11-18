@@ -264,6 +264,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="surendran26a-inference"></a>[Latent Guided Sampling for Combinatorial Optimization](../../conferences/icml-2026/cards/4301-4400.md#paper-surendran26a)
 - <a id="tang26ae-inference"></a>[NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26ae)
 - <a id="tuero26a-inference"></a>[Structure-Induced Information for Rerooting Levin Tree Search](../../conferences/icml-2026/cards/4501-4600.md#paper-tuero26a)
+- <a id="yoon26a-inference"></a>[Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../../conferences/icml-2026/cards/5501-5600.md#paper-yoon26a)
 
 <a id="by-representation-learning"></a>
 
@@ -283,6 +284,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="wantlin26a-representation-learning"></a>[Consistent Zero-Shot Imitation with Contrastive Goal Inference](../../conferences/icml-2026/cards/4901-5000.md#paper-wantlin26a)
 - <a id="wurzberger26a-representation-learning"></a>[Hierarchical Goal Abstractions via Learned Subset Relations](../../conferences/icml-2026/cards/5001-5100.md#paper-wurzberger26a)
 - <a id="yao26i-representation-learning"></a>[Role-Level Inductive Bias for Cross-Task Generalization in Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26i)
+- <a id="yoo26c-representation-learning"></a>[Knothe-Rosenblatt Quantile Regression for Risk-sensitive Multi-objective Reinforcement Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yoo26c)
 
 <a id="by-evaluation"></a>
 

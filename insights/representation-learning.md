@@ -131,6 +131,7 @@
 - [从自采目标轨迹摊销推断意图](../conferences/icml-2026/cards/4901-5000.md#wantlin26a-representation-learning) · Consistent Zero-Shot Imitation with Contrastive Goal Inference
 - [非对称子集目标兼容性](../conferences/icml-2026/cards/5001-5100.md#wurzberger26a-representation-learning) · Hierarchical Goal Abstractions via Learned Subset Relations
 - [动作抽象与影响预测约束的角色迁移](../conferences/icml-2026/cards/5401-5500.md#yao26i-representation-learning) · Role-Level Inductive Bias for Cross-Task Generalization in Multi-Agent Reinforcement Learning
+- [用KR条件分位数建模多目标联合回报](../conferences/icml-2026/cards/5501-5600.md#yoo26c-representation-learning) · Knothe-Rosenblatt Quantile Regression for Risk-sensitive Multi-objective Reinforcement Learning
 
 <a id="by-robotics"></a>
 

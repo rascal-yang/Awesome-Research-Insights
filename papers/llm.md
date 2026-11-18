@@ -68,6 +68,8 @@
 - <a id="xue26k-architecture"></a>[Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../conferences/icml-2026/cards/5301-5400.md#paper-xue26k)
 - <a id="yang26bp-architecture"></a>[Recursive Models for Long-Horizon Reasoning](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bp)
 - <a id="yao26g-architecture"></a>[Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers](../conferences/icml-2026/cards/5401-5500.md#paper-yao26g)
+- <a id="yoo26b-architecture"></a>[Infinite Mask Diffusion for Few-Step Distillation](../conferences/icml-2026/cards/5501-5600.md#paper-yoo26b)
+- <a id="yordanov26a-architecture"></a>[Prototype Transformer: Towards Language Model Architectures Interpretable by Design](../conferences/icml-2026/cards/5501-5600.md#paper-yordanov26a)
 
 <a id="by-modules"></a>
 
@@ -621,6 +623,8 @@
 - <a id="yang26bb-training-strategies"></a>[Batched Contextual Reinforcement](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bb)
 - <a id="yang26bg-training-strategies"></a>[Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bg)
 - <a id="yang26bo-training-strategies"></a>[AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bo)
+- <a id="yoon26d-training-strategies"></a>[SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification](../conferences/icml-2026/cards/5501-5600.md#paper-yoon26d)
+- <a id="you26b-training-strategies"></a>[RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs](../conferences/icml-2026/cards/5501-5600.md#paper-you26b)
 
 <a id="by-data-strategies"></a>
 
@@ -1444,6 +1448,7 @@
 - <a id="ye26b-evaluation"></a>[Prompt Injection as Role Confusion](../conferences/icml-2026/cards/5501-5600.md#paper-ye26b)
 - <a id="yin26b-evaluation"></a>[Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](../conferences/icml-2026/cards/5501-5600.md#paper-yin26b)
 - <a id="yin26h-evaluation"></a>[Evaluating Parameter Efficient Methods for RLVR](../conferences/icml-2026/cards/5501-5600.md#paper-yin26h)
+- <a id="you26c-evaluation"></a>[LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models](../conferences/icml-2026/cards/5501-5600.md#paper-you26c)
 
 <a id="by-theory-statistics"></a>
 

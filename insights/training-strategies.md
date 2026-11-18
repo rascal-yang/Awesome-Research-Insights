@@ -162,6 +162,8 @@
 - [共享上下文预算训练多题推理](../conferences/icml-2026/cards/5401-5500.md#yang26bb-training-strategies) · Batched Contextual Reinforcement
 - [量化误差补偿时加入安全子空间约束](../conferences/icml-2026/cards/5401-5500.md#yang26bg-training-strategies) · Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation
 - [语义边效用代理驱动的廉价剪图](../conferences/icml-2026/cards/5401-5500.md#yang26bo-training-strategies) · AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure
+- [由target自监督标记可放宽的draft token](../conferences/icml-2026/cards/5501-5600.md#yoon26d-training-strategies) · SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification
+- [用单共享浮点锚逐级派生二值残差路径](../conferences/icml-2026/cards/5501-5600.md#you26b-training-strategies) · RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -445,6 +447,7 @@
 - [冻结表示的混合域困难重权](../conferences/icml-2026/cards/5101-5200.md#xiong26d-training-strategies) · Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning
 - [带任意类索引的噪声域对齐](../conferences/icml-2026/cards/5401-5500.md#yao26m-training-strategies) · Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain
 - [在等训练风险停止点扫描特征学习强度](../conferences/icml-2026/cards/5501-5600.md#yeom26a-training-strategies) · Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization
+- [同时限制观测影响与新状态创建](../conferences/icml-2026/cards/5501-5600.md#yiu26a-training-strategies) · Doubly Outlier-Robust Online Infinite Hidden Markov Model
 
 <a id="by-graph-and-recommendation"></a>
 

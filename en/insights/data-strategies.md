@@ -139,6 +139,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch](../../conferences/icml-2026/cards/2101-2200.md#kim26az-data-strategies) · 中文
 - [Causally Evaluating the Learnability of Formal Language Tasks](../../conferences/icml-2026/cards/4101-4200.md#snaebjarnarson26a-data-strategies) · 中文
 - [Learning syntax without semantics: Disentangled tiny language models](../../conferences/icml-2026/cards/4901-5000.md#winston26a-data-strategies) · 中文
+- [SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora](../../conferences/icml-2026/cards/5501-5600.md#yoneda26a-data-strategies) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

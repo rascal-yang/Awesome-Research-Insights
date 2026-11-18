@@ -134,6 +134,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xiao26r-modules"></a>[Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26r)
 - <a id="xu26cn-modules"></a>[Training-Free Vector Quantization via Gaussian VAEs](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cn)
 - <a id="yin26a-modules"></a>[PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26a)
+- <a id="yoshimura26a-modules"></a>[SF-Mamba: Rethinking State Space Model for Vision](../../conferences/icml-2026/cards/5501-5600.md#paper-yoshimura26a)
 
 <a id="by-loss-functions"></a>
 

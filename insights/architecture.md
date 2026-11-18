@@ -68,6 +68,8 @@
 - [同decoder骨干的任意顺序建模](../conferences/icml-2026/cards/5301-5400.md#xue26k-architecture) · Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture
 - [活跃上下文与递归栈的分离](../conferences/icml-2026/cards/5401-5500.md#yang26bp-architecture) · Recursive Models for Long-Horizon Reasoning
 - [递归记忆生成FFN低秩调制](../conferences/icml-2026/cards/5401-5500.md#yao26g-architecture) · Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers
+- [用随机mask latent提供并行解码共享随机性](../conferences/icml-2026/cards/5501-5600.md#yoo26b-architecture) · Infinite Mask Diffusion for Few-Step Distillation
+- [用原型通道缓存多时间尺度上下文](../conferences/icml-2026/cards/5501-5600.md#yordanov26a-architecture) · Prototype Transformer: Towards Language Model Architectures Interpretable by Design
 
 <a id="by-computer-vision"></a>
 

@@ -162,6 +162,8 @@ Training schedules, curricula, and task or stage composition.
 - [Batched Contextual Reinforcement](../../conferences/icml-2026/cards/5401-5500.md#yang26bb-training-strategies) · 中文
 - [Toward Safe Quantization-Aware Fine-tuning: Understanding and Mitigating Safety Alignment Degradation](../../conferences/icml-2026/cards/5401-5500.md#yang26bg-training-strategies) · 中文
 - [AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure](../../conferences/icml-2026/cards/5401-5500.md#yang26bo-training-strategies) · 中文
+- [SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification](../../conferences/icml-2026/cards/5501-5600.md#yoon26d-training-strategies) · 中文
+- [RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs](../../conferences/icml-2026/cards/5501-5600.md#you26b-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -445,6 +447,7 @@ Training schedules, curricula, and task or stage composition.
 - [Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning](../../conferences/icml-2026/cards/5101-5200.md#xiong26d-training-strategies) · 中文
 - [Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](../../conferences/icml-2026/cards/5401-5500.md#yao26m-training-strategies) · 中文
 - [Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization](../../conferences/icml-2026/cards/5501-5600.md#yeom26a-training-strategies) · 中文
+- [Doubly Outlier-Robust Online Infinite Hidden Markov Model](../../conferences/icml-2026/cards/5501-5600.md#yiu26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

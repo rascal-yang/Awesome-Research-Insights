@@ -207,6 +207,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yao26n-loss-functions"></a>[Identifiable Nonlinear Differentiable Causal Discovery via Independence and Adaptive Group Sparsity](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26n)
 - <a id="ye26q-loss-functions"></a>[Depth-Progressive Monotonic Learning without Global Backpropagation](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26q)
 - <a id="yi26a-loss-functions"></a>[Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26a)
+- <a id="ying26b-loss-functions"></a>[Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../../conferences/icml-2026/cards/5501-5600.md#paper-ying26b)
 
 <a id="by-optimization"></a>
 
@@ -563,6 +564,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xiong26d-training-strategies"></a>[Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26d)
 - <a id="yao26m-training-strategies"></a>[Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26m)
 - <a id="yeom26a-training-strategies"></a>[Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization](../../conferences/icml-2026/cards/5501-5600.md#paper-yeom26a)
+- <a id="yiu26a-training-strategies"></a>[Doubly Outlier-Robust Online Infinite Hidden Markov Model](../../conferences/icml-2026/cards/5501-5600.md#paper-yiu26a)
 
 <a id="by-data-strategies"></a>
 

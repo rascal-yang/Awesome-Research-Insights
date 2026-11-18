@@ -365,6 +365,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Prompt Injection as Role Confusion](../../conferences/icml-2026/cards/5501-5600.md#ye26b-evaluation) · 中文
 - [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](../../conferences/icml-2026/cards/5501-5600.md#yin26b-evaluation) · 中文
 - [Evaluating Parameter Efficient Methods for RLVR](../../conferences/icml-2026/cards/5501-5600.md#yin26h-evaluation) · 中文
+- [LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models](../../conferences/icml-2026/cards/5501-5600.md#you26c-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -229,6 +229,7 @@
 - [融合训练保留每模态独立可迁移特征](../conferences/icml-2026/cards/5401-5500.md#yarici26a-loss-functions) · MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization
 - [对共享子空间追加对比对齐而非强压模态间距](../conferences/icml-2026/cards/5501-5600.md#yi26b-loss-functions) · The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment
 - [模态内均匀与anchor对齐解耦](../conferences/icml-2026/cards/5501-5600.md#yin26n-loss-functions) · Towards Uniformity and Alignment for Multimodal Representation Learning
+- [把teacher视觉增量与学生语言先验分开蒸馏](../conferences/icml-2026/cards/5501-5600.md#yoon26f-loss-functions) · Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding
 
 <a id="by-ml-foundations"></a>
 
@@ -292,6 +293,7 @@
 - [用残差独立性与组稀疏选非线性DAG](../conferences/icml-2026/cards/5401-5500.md#yao26n-loss-functions) · Identifiable Nonlinear Differentiable Causal Discovery via Independence and Adaptive Group Sparsity
 - [反向KL局部信念的逐层细化](../conferences/icml-2026/cards/5501-5600.md#ye26q-loss-functions) · Depth-Progressive Monotonic Learning without Global Backpropagation
 - [残差Gamma似然与固定噪声BNN交替训练](../conferences/icml-2026/cards/5501-5600.md#yi26a-loss-functions) · Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties
+- [用条件质量路径匹配非守恒分布](../conferences/icml-2026/cards/5501-5600.md#ying26b-loss-functions) · Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots
 
 <a id="by-graph-and-recommendation"></a>
 

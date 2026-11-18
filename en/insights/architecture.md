@@ -68,6 +68,8 @@ Model-wide design and information flow.
 - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../../conferences/icml-2026/cards/5301-5400.md#xue26k-architecture) · 中文
 - [Recursive Models for Long-Horizon Reasoning](../../conferences/icml-2026/cards/5401-5500.md#yang26bp-architecture) · 中文
 - [Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers](../../conferences/icml-2026/cards/5401-5500.md#yao26g-architecture) · 中文
+- [Infinite Mask Diffusion for Few-Step Distillation](../../conferences/icml-2026/cards/5501-5600.md#yoo26b-architecture) · 中文
+- [Prototype Transformer: Towards Language Model Architectures Interpretable by Design](../../conferences/icml-2026/cards/5501-5600.md#yordanov26a-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 

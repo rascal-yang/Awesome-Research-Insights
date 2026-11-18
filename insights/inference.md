@@ -531,6 +531,7 @@
 - [latent-particle-decoder-adaptation](../conferences/icml-2026/cards/4301-4400.md#surendran26a-inference) · Latent Guided Sampling for Combinatorial Optimization
 - [discrete-curvature-joint-search](../conferences/icml-2026/cards/4301-4400.md#tang26ae-inference) · NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search
 - [implicit-rerooted-subtasks](../conferences/icml-2026/cards/4501-4600.md#tuero26a-inference) · Structure-Induced Information for Rerooting Levin Tree Search
+- [按状态到达概率组合预训练GFlowNet](../conferences/icml-2026/cards/5501-5600.md#yoon26a-inference) · Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation
 
 <a id="by-robotics"></a>
 
@@ -691,6 +692,7 @@
 - [按生成阶段定位的局部安全调制](../conferences/icml-2026/cards/5301-5400.md#yang26an-inference) · Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows
 - [对冲突路径logit方向做枢轴门控投影移除](../conferences/icml-2026/cards/5501-5600.md#ye26n-inference) · REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment
 - [任务与时长驱动的视觉预算路由](../conferences/icml-2026/cards/5501-5600.md#yin26e-inference) · Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding
+- [仅扰动padding条件槽控制生成多样性](../conferences/icml-2026/cards/5501-5600.md#yoo26a-inference) · PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation
 
 <a id="by-ml-foundations"></a>
 

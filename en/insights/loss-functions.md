@@ -229,6 +229,7 @@ Objectives, auxiliary supervision, and regularization.
 - [MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization](../../conferences/icml-2026/cards/5401-5500.md#yarici26a-loss-functions) · 中文
 - [The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment](../../conferences/icml-2026/cards/5501-5600.md#yi26b-loss-functions) · 中文
 - [Towards Uniformity and Alignment for Multimodal Representation Learning](../../conferences/icml-2026/cards/5501-5600.md#yin26n-loss-functions) · 中文
+- [Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](../../conferences/icml-2026/cards/5501-5600.md#yoon26f-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -292,6 +293,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Identifiable Nonlinear Differentiable Causal Discovery via Independence and Adaptive Group Sparsity](../../conferences/icml-2026/cards/5401-5500.md#yao26n-loss-functions) · 中文
 - [Depth-Progressive Monotonic Learning without Global Backpropagation](../../conferences/icml-2026/cards/5501-5600.md#ye26q-loss-functions) · 中文
 - [Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties](../../conferences/icml-2026/cards/5501-5600.md#yi26a-loss-functions) · 中文
+- [Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../../conferences/icml-2026/cards/5501-5600.md#ying26b-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

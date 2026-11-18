@@ -131,6 +131,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yarici26a-loss-functions"></a>[MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization](../../conferences/icml-2026/cards/5401-5500.md#paper-yarici26a)
 - <a id="yi26b-loss-functions"></a>[The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26b)
 - <a id="yin26n-loss-functions"></a>[Towards Uniformity and Alignment for Multimodal Representation Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26n)
+- <a id="yoon26f-loss-functions"></a>[Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](../../conferences/icml-2026/cards/5501-5600.md#paper-yoon26f)
 
 <a id="by-optimization"></a>
 
@@ -416,6 +417,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yang26an-inference"></a>[Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26an)
 - <a id="ye26n-inference"></a>[REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26n)
 - <a id="yin26e-inference"></a>[Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26e)
+- <a id="yoo26a-inference"></a>[PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation](../../conferences/icml-2026/cards/5501-5600.md#paper-yoo26a)
 
 <a id="by-representation-learning"></a>
 

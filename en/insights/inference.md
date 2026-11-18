@@ -531,6 +531,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Latent Guided Sampling for Combinatorial Optimization](../../conferences/icml-2026/cards/4301-4400.md#surendran26a-inference) · 中文
 - [NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search](../../conferences/icml-2026/cards/4301-4400.md#tang26ae-inference) · 中文
 - [Structure-Induced Information for Rerooting Levin Tree Search](../../conferences/icml-2026/cards/4501-4600.md#tuero26a-inference) · 中文
+- [Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../../conferences/icml-2026/cards/5501-5600.md#yoon26a-inference) · 中文
 
 <a id="by-robotics"></a>
 
@@ -691,6 +692,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows](../../conferences/icml-2026/cards/5301-5400.md#yang26an-inference) · 中文
 - [REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment](../../conferences/icml-2026/cards/5501-5600.md#ye26n-inference) · 中文
 - [Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding](../../conferences/icml-2026/cards/5501-5600.md#yin26e-inference) · 中文
+- [PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation](../../conferences/icml-2026/cards/5501-5600.md#yoo26a-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
