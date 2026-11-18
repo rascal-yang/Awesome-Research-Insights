@@ -630,6 +630,7 @@
 - [跨维普适性需要匹配极限拓扑](../conferences/icml-2026/cards/5401-5500.md#yao26f-theory-statistics) · Any-dimensional invariant universality
 - [按约束算子分别预算分布式优化成本](../conferences/icml-2026/cards/5501-5600.md#yarmoshik26a-theory-statistics) · Complexity of Decentralized Optimization with Mixed Affine Constraints
 - [联合宽度与初始化判断CP学习regime](../conferences/icml-2026/cards/5501-5600.md#yarotsky26a-theory-statistics) · Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions
+- [人工复核激励与主动采样联合预算](../conferences/icml-2026/cards/5501-5600.md#yin26g-theory-statistics) · Overcoming the Incentive Collapse Paradox
 
 <a id="by-graph-and-recommendation"></a>
 

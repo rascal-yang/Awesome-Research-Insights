@@ -133,6 +133,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xia26h-modules"></a>[Towards Scalable and Consistent 3D Editing](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26h)
 - <a id="xiao26r-modules"></a>[Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26r)
 - <a id="xu26cn-modules"></a>[Training-Free Vector Quantization via Gaussian VAEs](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cn)
+- <a id="yin26a-modules"></a>[PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26a)
 
 <a id="by-loss-functions"></a>
 
@@ -189,6 +190,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yang26bc-loss-functions"></a>[Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bc)
 - <a id="yang26cd-loss-functions"></a>[DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cd)
 - <a id="yang26dq-loss-functions"></a>[Stable Velocity: A Variance Perspective on Flow Matching](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dq)
+- <a id="yin26c-loss-functions"></a>[FeRA: Frequency-Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26c)
+- <a id="ying26a-loss-functions"></a>[Temporal Difference Learning for Diffusion Models](../../conferences/icml-2026/cards/5501-5600.md#paper-ying26a)
 
 <a id="by-optimization"></a>
 
@@ -333,6 +336,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yang26bn-training-strategies"></a>[Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bn)
 - <a id="yang26dm-training-strategies"></a>[RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dm)
 - <a id="ye26o-training-strategies"></a>[Distribution Matching Variational AutoEncoder](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26o)
+- <a id="yi26f-training-strategies"></a>[Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26f)
 
 <a id="by-data-strategies"></a>
 
@@ -494,6 +498,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yang26cy-inference"></a>[DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cy)
 - <a id="yao26b-inference"></a>[Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26b)
 - <a id="ye26c-inference"></a>[Spectral Evolution Search: Efficient Inference-Time Scaling for Reward-Aligned Image Generation](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26c)
+- <a id="yi26c-inference"></a>[Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26c)
+- <a id="yi26e-inference"></a>[Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26e)
 
 <a id="by-representation-learning"></a>
 

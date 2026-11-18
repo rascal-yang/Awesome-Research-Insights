@@ -19,6 +19,7 @@
 - <a id="isik26a-architecture"></a>[Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning](../conferences/icml-2026/cards/1801-1900.md#paper-isik26a)
 - <a id="kang26p-architecture"></a>[AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech](../conferences/icml-2026/cards/2001-2100.md#paper-kang26p)
 - <a id="shabalin26a-architecture"></a>[Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation](../conferences/icml-2026/cards/4001-4100.md#paper-shabalin26a)
+- <a id="yildirim26a-architecture"></a>[Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks](../conferences/icml-2026/cards/5501-5600.md#paper-yildirim26a)
 
 <a id="by-modules"></a>
 

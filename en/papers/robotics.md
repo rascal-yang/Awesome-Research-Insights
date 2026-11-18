@@ -43,6 +43,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="wu26ak-architecture"></a>[Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ak)
 - <a id="wu26cb-architecture"></a>[Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26cb)
 - <a id="xiong26h-architecture"></a>[Learning to Reconfigure: Configuration-Control Co-optimization of Reconfigurable Robots for Heterogeneous Locomotion](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26h)
+- <a id="yin26l-architecture"></a>[DDP-WM: Disentangled Dynamics Prediction for Efficient World Models](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26l)
 
 <a id="by-modules"></a>
 

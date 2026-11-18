@@ -130,6 +130,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yang26cw-loss-functions"></a>[SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cw)
 - <a id="yarici26a-loss-functions"></a>[MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization](../../conferences/icml-2026/cards/5401-5500.md#paper-yarici26a)
 - <a id="yi26b-loss-functions"></a>[The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26b)
+- <a id="yin26n-loss-functions"></a>[Towards Uniformity and Alignment for Multimodal Representation Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26n)
 
 <a id="by-optimization"></a>
 
@@ -207,6 +208,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26ip-reinforcement-learning"></a>[Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ip)
 - <a id="wang26ji-reinforcement-learning"></a>[Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ji)
 - <a id="xi26a-reinforcement-learning"></a>[Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding](../../conferences/icml-2026/cards/5001-5100.md#paper-xi26a)
+- <a id="yin26f-reinforcement-learning"></a>[MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26f)
 
 <a id="by-training-strategies"></a>
 
@@ -413,6 +415,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yan26w-inference"></a>[GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26w)
 - <a id="yang26an-inference"></a>[Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26an)
 - <a id="ye26n-inference"></a>[REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26n)
+- <a id="yin26e-inference"></a>[Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26e)
 
 <a id="by-representation-learning"></a>
 

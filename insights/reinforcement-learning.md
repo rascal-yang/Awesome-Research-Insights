@@ -465,6 +465,7 @@
 - [图路径与证据标签控制梯度屏蔽](../conferences/icml-2026/cards/4801-4900.md#wang26ip-reinforcement-learning) · Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph
 - [盲文本解题代理的模态奖励路由](../conferences/icml-2026/cards/4801-4900.md#wang26ji-reinforcement-learning) · Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning
 - [自先验分布驱动的视频推理奖励](../conferences/icml-2026/cards/5001-5100.md#xi26a-reinforcement-learning) · Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding
+- [时空坐标中间目标的过程奖励](../conferences/icml-2026/cards/5501-5600.md#yin26f-reinforcement-learning) · MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence
 
 <a id="by-ml-foundations"></a>
 

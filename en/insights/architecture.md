@@ -144,6 +144,7 @@ Model-wide design and information flow.
 - [Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning](../../conferences/icml-2026/cards/1801-1900.md#isik26a-architecture) · 中文
 - [AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech](../../conferences/icml-2026/cards/2001-2100.md#kang26p-architecture) · 中文
 - [Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation](../../conferences/icml-2026/cards/4001-4100.md#shabalin26a-architecture) · 中文
+- [Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks](../../conferences/icml-2026/cards/5501-5600.md#yildirim26a-architecture) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -198,6 +199,7 @@ Model-wide design and information flow.
 - [Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction](../../conferences/icml-2026/cards/5001-5100.md#wu26ak-architecture) · 中文
 - [Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language](../../conferences/icml-2026/cards/5001-5100.md#wu26cb-architecture) · 中文
 - [Learning to Reconfigure: Configuration-Control Co-optimization of Reconfigurable Robots for Heterogeneous Locomotion](../../conferences/icml-2026/cards/5101-5200.md#xiong26h-architecture) · 中文
+- [DDP-WM: Disentangled Dynamics Prediction for Efficient World Models](../../conferences/icml-2026/cards/5501-5600.md#yin26l-architecture) · 中文
 
 <a id="by-multimodal"></a>
 

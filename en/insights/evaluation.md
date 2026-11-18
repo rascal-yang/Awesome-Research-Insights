@@ -363,6 +363,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Shared Lexical Task Representations Explain Behavioral Variability In LLMs](../../conferences/icml-2026/cards/5301-5400.md#yang26al-evaluation) · 中文
 - [Profiling the Irrational Agent: Cognitive Modeling of LLM Behaviors in Sequential Jailbreaks](../../conferences/icml-2026/cards/5401-5500.md#yang26dv-evaluation) · 中文
 - [Prompt Injection as Role Confusion](../../conferences/icml-2026/cards/5501-5600.md#ye26b-evaluation) · 中文
+- [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](../../conferences/icml-2026/cards/5501-5600.md#yin26b-evaluation) · 中文
+- [Evaluating Parameter Efficient Methods for RLVR](../../conferences/icml-2026/cards/5501-5600.md#yin26h-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

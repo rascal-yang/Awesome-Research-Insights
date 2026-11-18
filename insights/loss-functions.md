@@ -121,6 +121,8 @@
 - [抑制类固有特征以校准异常检测统计](../conferences/icml-2026/cards/5401-5500.md#yang26bc-loss-functions) · Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization
 - [按几何覆盖去重的三维风格注意力目标](../conferences/icml-2026/cards/5401-5500.md#yang26cd-loss-functions) · DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization
 - [连输入路径一起混合以降低flow目标方差](../conferences/icml-2026/cards/5401-5500.md#yang26dq-loss-functions) · Stable Velocity: A Variance Perspective on Flow Matching
+- [频带能量路由与更新谱正则](../conferences/icml-2026/cards/5501-5600.md#yin26c-loss-functions) · FeRA: Frequency-Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning
+- [成对posterior进度匹配的TD辅助目标](../conferences/icml-2026/cards/5501-5600.md#ying26a-loss-functions) · Temporal Difference Learning for Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -226,6 +228,7 @@
 - [扩散偏好训练的时间步裁剪与屏蔽](../conferences/icml-2026/cards/5401-5500.md#yang26cw-loss-functions) · SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models
 - [融合训练保留每模态独立可迁移特征](../conferences/icml-2026/cards/5401-5500.md#yarici26a-loss-functions) · MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization
 - [对共享子空间追加对比对齐而非强压模态间距](../conferences/icml-2026/cards/5501-5600.md#yi26b-loss-functions) · The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment
+- [模态内均匀与anchor对齐解耦](../conferences/icml-2026/cards/5501-5600.md#yin26n-loss-functions) · Towards Uniformity and Alignment for Multimodal Representation Learning
 
 <a id="by-ml-foundations"></a>
 

@@ -144,6 +144,7 @@
 - [按符号建共享流使改名可交换](../conferences/icml-2026/cards/1801-1900.md#isik26a-architecture) · Names Don’t Matter: Symbol-Invariant Transformer for Open-Vocabulary Learning
 - [用声学原型和快慢反馈落实复合语音指令](../conferences/icml-2026/cards/2001-2100.md#kang26p-architecture) · AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech
 - [用 token 相似度逐步平滑嵌入扩散](../conferences/icml-2026/cards/4001-4100.md#shabalin26a-architecture) · Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation
+- [复数频谱分支的相位消融](../conferences/icml-2026/cards/5501-5600.md#yildirim26a-architecture) · Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks
 
 <a id="by-reinforcement-learning"></a>
 
@@ -198,6 +199,7 @@
 - [历史几何与流状态的等变耦合](../conferences/icml-2026/cards/5001-5100.md#wu26ak-architecture) · Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction
 - [分离夹持力与施加力的策略接口](../conferences/icml-2026/cards/5001-5100.md#wu26cb-architecture) · Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language
 - [离散锁定与连续角度的分尾协同设计](../conferences/icml-2026/cards/5101-5200.md#xiong26h-architecture) · Learning to Reconfigure: Configuration-Control Co-optimization of Reconfigurable Robots for Heterogeneous Locomotion
+- [稀疏主动力学与背景上下文修正](../conferences/icml-2026/cards/5501-5600.md#yin26l-architecture) · DDP-WM: Disentangled Dynamics Prediction for Efficient World Models
 
 <a id="by-multimodal"></a>
 

@@ -630,6 +630,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Any-dimensional invariant universality](../../conferences/icml-2026/cards/5401-5500.md#yao26f-theory-statistics) · 中文
 - [Complexity of Decentralized Optimization with Mixed Affine Constraints](../../conferences/icml-2026/cards/5501-5600.md#yarmoshik26a-theory-statistics) · 中文
 - [Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions](../../conferences/icml-2026/cards/5501-5600.md#yarotsky26a-theory-statistics) · 中文
+- [Overcoming the Incentive Collapse Paradox](../../conferences/icml-2026/cards/5501-5600.md#yin26g-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

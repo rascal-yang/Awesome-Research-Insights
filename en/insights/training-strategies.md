@@ -242,6 +242,7 @@ Training schedules, curricula, and task or stage composition.
 - [Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](../../conferences/icml-2026/cards/5401-5500.md#yang26bn-training-strategies) · 中文
 - [RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](../../conferences/icml-2026/cards/5401-5500.md#yang26dm-training-strategies) · 中文
 - [Distribution Matching Variational AutoEncoder](../../conferences/icml-2026/cards/5501-5600.md#ye26o-training-strategies) · 中文
+- [Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning](../../conferences/icml-2026/cards/5501-5600.md#yi26f-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

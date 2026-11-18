@@ -5530,26 +5530,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5529	yeon26a	3	4	3	3	66		初筛，原文与先例核查待补：用三路首token分布构造融合异常特征：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
 5530	yi26a	3	4	3	3	66		初筛，原文与先例核查待补：残差Gamma似然与固定噪声BNN交替训练：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
 5531	yi26b	3	4	3	3	66		初筛，原文与先例核查待补：对共享子空间追加对比对齐而非强压模态间距：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7、8页。	scored
-5532	yi26c							待原文复核评分	pending
-5533	yi26d							待原文复核评分	pending
-5534	yi26e							待原文复核评分	pending
-5535	yi26f							待原文复核评分	pending
-5536	yildirim26a							待原文复核评分	pending
-5537	yin26a							待原文复核评分	pending
-5538	yin26b							待原文复核评分	pending
-5539	yin26c							待原文复核评分	pending
-5540	yin26d							待原文复核评分	pending
-5541	yin26e							待原文复核评分	pending
-5542	yin26f							待原文复核评分	pending
-5543	yin26g							待原文复核评分	pending
-5544	yin26h							待原文复核评分	pending
-5545	yin26i							待原文复核评分	pending
-5546	yin26j							待原文复核评分	pending
-5547	yin26k							待原文复核评分	pending
-5548	yin26l							待原文复核评分	pending
-5549	yin26m							待原文复核评分	pending
-5550	yin26n							待原文复核评分	pending
-5551	ying26a							待原文复核评分	pending
+5532	yi26c	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按深sink与时间RoPE重排的长视频缓存，最近方法差异见baseline且待核；复用5：长视频AR扩散可扩大持久sink到约半个窗口，并只调整时间RoPE后按近期query参与度压缩其余KV；应同时监控动态程度与平滑性，避免静帧一致假象。 可用4受式7按字面是raw dotproduct求和而非softmax attention权重，实际实现待核；移动RoPE相位不等重新编码完整历史内容。深sink占用可变历史容量，topC信息丢失、重复回放与长时motion真实性待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5533	yi26d							初筛，原文与先例核查待补：现有PDF第3–4/6页把线性投影后的batch均值做sigmoid门控，LSTM式input/forget/output更新单向量memory，server加权均值后decoder为各sample加共同featurebias。当前未见超出成熟gatedstate、feature/prototype共享与联邦聚合的新独立目标；将向量称memory不改变其representation-sharing性质。所谓privacy theorem只有不直接传raw/model的接口声明，无DP或重建风险保证，按成熟流程暂排。	rule-excluded
+5534	yi26e	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按多局部原型与逐点残差漂移跟踪，最近方法差异见baseline且待核；复用5：类增量分类可将单mean改成globalmean加局部图节点最大cos，并用少量代表样本的feature漂移逐节点运输原型；需把代表样本存储算入replay预算。 可用3受STAR须访问旧代表样本，不能同时称完全exemplar-free；EMAreference更新/重复累计语义待核。max局部cos偏向节点多的类，图连边是否真正用于推断、同原型数预算与0.1Procrustes经验阈值普适性待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5535	yi26f	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按CLIP弱patch抑制与强patch增强，最近方法差异见baseline且待核；复用5：跨域少样本CLIP适配可按patch对类别文本的最大相似排序，增强head而抑制tail，避免把全部弱patch都拉向文本；这不是背景真值分割。 可用4受tail按最大相似选却减最不相似文本，几何上不保证所有类别或原最大相似下降；文本投影非逆映射。α/β符号约束、fewshot调参泄漏、episode方差与测试时开销待核，不能视作跨域生物机制。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5536	yildirim26a	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按复数频谱分支的相位消融，最近方法差异见baseline且待核；复用5：序列encoder可比较持久复数FFT滤波分支与拓扑匹配实数分支，并用同checkpoint保相位/去相位干预测机制；不必预设unitnorm或phase-preserving激活是收益来源。 可用3受有unitnorm输入不等整网所有状态unitnorm，Cartesiangate与LN可变幅/π翻转；无phasepreserving约束反而更好。FFT短序列失败是本架构经验而非通用信息论下界；seq-length迁移、训练公平与因果解释待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/6/7/8页。	scored
+5537	yin26a	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按全景球面距离与轨迹条件注意力，最近方法差异见baseline且待核；复用5：全景video模型应按球面greatcircle邻域而非ERP平面邻域构attention，并将相机ray的Plucker编码作为控制；球面邻接正确不代表恢复真实3D几何。 可用3受跨时只旋转球面并不能处理平移parallax/深度遮挡，不能称真实物理世界模型；spherical与Euler乘法坐标实现、mask复杂度、相机估计器偏差与训练数据量匹配待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5538	yin26b	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按拒绝行为与持续安全表征的分离，最近方法差异见baseline且待核；复用5：防御检测可读取多层持续可分的内部安全相关激活，而不把输出拒绝作为唯一信号；应以普通与对抗输入的F1和过拒绝同时验证。 可用3受OV线性回溯忽略attention权重、residual/LN/MLP非线性，非精确网络因果分解；单refusal方向覆盖有限。检测需whitebox和标记校准样本，训练free不等无需监督；配对成功样本选择偏差与过拒绝待核，不提供绕过操作。 独特3暂定，全库替代性待统一核查；PDF第3/4/6/8页。	scored
+5539	yin26c	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按频带能量路由与更新谱正则，最近方法差异见baseline且待核；复用5：扩散LoRA可用当前latent的DoG频带能量路由多个专家，再让adapter修正与残差的频带能量比例接近；应与仅按timestep路由作等参数比较。 可用4受能量比例无相位/符号，不能认证修正方向与残差对齐；DoG非完备正交分解且零norm需ε。naturalimage谱和VAE局部线性近似有限；同参数非同FLOPs/latency，router额外推断成本待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5540	yin26d	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按结构签名约束的少数类合成，最近方法差异见baseline且待核；复用5：关系库图的oversampling可在embedding距离外加多跳类型/入出度签名选邻居，并联合插值签名和预测其重建；只保embedding近邻可能混合不同关系角色。 可用3受签名插值可非整数且未必对应合法数据库邻域，不能称保证结构faithful。类不平衡本身不证明所有层的少数判别signal单调收缩，还需weights/局部假设；memorybank新鲜度、签名量纲ω和同合成数量预算待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5541	yin26e	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按任务与时长驱动的视觉预算路由，最近方法差异见baseline且待核；复用5：videoQA可先用小textclassifier判断空间/时间证据需求，固定token预算下联动framecount、resolution及projector路由；MoE扩容应与动态预算分开控制。 可用3受8task标签与预算规则有人工先验，query不一定暴露所需证据；更多expert不是固定parameter。SOTA表采用外部报告且训练混合不严格相同，需优先同基础组件消融；scheduler误路由恢复与实际延迟待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5542	yin26f	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按时空坐标中间目标的过程奖励，最近方法差异见baseline且待核；复用5：4D视频推理可对CoT显式预测的起止camera/object坐标施加指数距离奖励，与最终答案奖励分开；这是可监督的过程代理，不能认证完整物理动力学。 可用3受指数距离依坐标单位/尺度，中心回归不约束velocity、occlusion或轨迹连续；groundtruth几何过程监督不是无过程标签。STCoT prompt不直接保证内部物理模型，监督来源误差/额外训练成本和回答格式耦合待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/6/7/8页。	scored
+5543	yin26g	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按人工复核激励与主动采样联合预算，最近方法差异见baseline且待核；复用5：AI辅助标注在高准确率时可用隐藏sentinel audit保持纠错的边际报酬，再把审计率和主动采样一起预算；须先满足不可预知审计与已知响应模型条件。 可用3受正努力需正bonus与适当成本/效用条件，b=0不自动保证emin>0；sentinel可被识别或真值难获时失效。CLT需选择一致、正sampling/纠错率和Hessian条件，逆概率权重方差及额外真值成本待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/8/9页。	scored
+5544	yin26h	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按RLVR下PEFT结构与初始化失效边界，最近方法差异见baseline且待核；复用5：RLVR应重测SFT中成功的PEFT初始化，并按rank、LR、batch与算法控制；不能因LoRA参数少就默认rank1或SVD主子空间同样稳定。 可用4受SVDcollapse在所测实现和LR下成立，不证明普遍几何不兼容；需要初始化scale/merge一致性与独立LRtuning。固定rank不等参数/显存/墙钟，谱集中和reward曲线关联不是因果归因；不同size的不确定性待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5545	yin26i							初筛，原文与先例核查待补：现有PDF第3–4/6/8–9页构造96个黑盒环境、给定queryturn后测试隐函数推断，另以coding/test/refinement agents扩充。任务和standardagentpipeline有评测价值，但当前主要为新benchmark及难易分组跑分；缺高层planning的概括未在已整理范围隔离受控可复用新失败条件或探索算法，按数据/评测实例暂排，未读附录控制写待核。	rule-excluded
+5546	yin26j	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按固定亲和模板与可逆Markov协作投影，最近方法差异见baseline且待核；复用5：个性化FL可将similarity模板从训练反馈中冻结，再投影为给定数据权重stationary的可逆Markov核；同时调强度以避免过强consensus或图自分块。 可用3受disagreement上界要求contractivelocaloperator及2(ρWρG)²<1，不等一般深网训练结论；小上界非实际必塌缩。stationarity/reversibility不自动给有效spectralgap或排除块对角；交替projection是否精确解weightedQP、模板漂移与O(N²)server成本待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/6/7/8页。	scored
+5547	yin26k							初筛，原文与先例核查待补：现有PDF第3–4/6页明确沿用MathShepherd的MCsuccess>0二元step标签、标准全stepPRM训练及BestofN，用视觉工具轨迹替换文本轨迹；value/advantage选择和weightedscore属成熟PRM。当前独立增量集中VTReward100K/VABench新视觉过程数据及任务扩展，未见新的visualcredit目标或机制，按标准过程监督应用暂排。	rule-excluded
+5548	yin26l	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按稀疏主动力学与背景上下文修正，最近方法差异见baseline且待核；复用5：DINO特征worldmodel应给静态像素区保留廉价contextupdate，不能仅复制背景token；用闭环MPC而非openloop误差选择稀疏化方案。 可用4受背景crossattention不识别物理因果，低维action扫描不证明全局cost单峰或smoothness保证。mask误差/任务像素差受视角和遮挡影响，deformable多区域导致稀疏比变化；实际capacity、locator监督与等训练成本待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5549	yin26m							初筛，原文与先例核查待补：现有PDF第3–4/6页沿用3DGSEnhancer/GenFusion/Difix3D+生成修复再distill流程，以现成DINO/VGGT featureprojection作referencecondition，轨迹在reference和ellipse间插值，loss为标准L1/SSIM加annealing。当前未隔离新几何约束、推断目标或非平凡viewacquisition机制，按成熟referenceconditioning/生成先验工作流暂排；DL3DVRes新benchmark和PSNR提升不单独成立。	rule-excluded
+5550	yin26n	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按模态内均匀与anchor对齐解耦，最近方法差异见baseline且待核；复用5：多模态embedding训练可将负样本排斥限制在各模态内，再对一个anchor模态做正pair距离对齐；需检查anchor自身仍接收多个梯度，不能称全参数无冲突。 可用4受若anchor可训练仍聚合多个positivepull，解耦不自动使整个优化无冲突；modality内uniformity也可排斥语义正邻居。Holder/KDE代理的等式与条件待核，不从loss下降认证真实分布距离单调下降，数据/算力匹配待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5551	ying26a	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按成对posterior进度匹配的TD辅助目标，最近方法差异见baseline且待核；复用5：扩散训练可匹配两个时间点的预测posterior均值差与真值均值差，并以成对系数归一化；收益应在同采样步数和额外训练成本下衡量。 可用4受MRP状态实际还条件x0，不能直接套仅xt可用的标准policy-evaluation收敛；TD是监督辅助而非RL在线策略学习。pairweight来自误差上界不保证优化更稳；posterior/ODE coupling、目标网络与原作区别待核，fewstep并非每预算受益。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
 5552	ying26b							待原文复核评分	pending
 5553	yiu26a							待原文复核评分	pending
 5554	yoa26a							待原文复核评分	pending

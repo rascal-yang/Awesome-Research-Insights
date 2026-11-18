@@ -472,6 +472,7 @@
 - <a id="yang26cu-optimization"></a>[Decentralized Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower Bounds](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cu)
 - <a id="yang26de-optimization"></a>[Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates](../conferences/icml-2026/cards/5401-5500.md#paper-yang26de)
 - <a id="ye26l-optimization"></a>[FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU](../conferences/icml-2026/cards/5501-5600.md#paper-ye26l)
+- <a id="yin26j-optimization"></a>[Controlled Collaboration Geometry for Personalized Federated Learning](../conferences/icml-2026/cards/5501-5600.md#paper-yin26j)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1240,4 +1241,5 @@
 - <a id="yao26f-theory-statistics"></a>[Any-dimensional invariant universality](../conferences/icml-2026/cards/5401-5500.md#paper-yao26f)
 - <a id="yarmoshik26a-theory-statistics"></a>[Complexity of Decentralized Optimization with Mixed Affine Constraints](../conferences/icml-2026/cards/5501-5600.md#paper-yarmoshik26a)
 - <a id="yarotsky26a-theory-statistics"></a>[Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions](../conferences/icml-2026/cards/5501-5600.md#paper-yarotsky26a)
+- <a id="yin26g-theory-statistics"></a>[Overcoming the Incentive Collapse Paradox](../conferences/icml-2026/cards/5501-5600.md#paper-yin26g)
 <!-- classification:end -->

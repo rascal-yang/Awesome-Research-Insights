@@ -363,6 +363,8 @@
 - [跨prompt的词汇化任务信号与竞争](../conferences/icml-2026/cards/5301-5400.md#yang26al-evaluation) · Shared Lexical Task Representations Explain Behavioral Variability In LLMs
 - [多轮安全漂移的低维行为拟合](../conferences/icml-2026/cards/5401-5500.md#yang26dv-evaluation) · Profiling the Irrational Agent: Cognitive Modeling of LLM Behaviors in Sequential Jailbreaks
 - [安全边界评估加入角色表征探测](../conferences/icml-2026/cards/5501-5600.md#ye26b-evaluation) · Prompt Injection as Role Confusion
+- [拒绝行为与持续安全表征的分离](../conferences/icml-2026/cards/5501-5600.md#yin26b-evaluation) · Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models
+- [RLVR下PEFT结构与初始化失效边界](../conferences/icml-2026/cards/5501-5600.md#yin26h-evaluation) · Evaluating Parameter Efficient Methods for RLVR
 
 <a id="by-computer-vision"></a>
 

@@ -119,6 +119,7 @@ Reusable components and local changes to model inputs or connections.
 - [Towards Scalable and Consistent 3D Editing](../../conferences/icml-2026/cards/5101-5200.md#xia26h-modules) · 中文
 - [Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency](../../conferences/icml-2026/cards/5101-5200.md#xiao26r-modules) · 中文
 - [Training-Free Vector Quantization via Gaussian VAEs](../../conferences/icml-2026/cards/5201-5300.md#xu26cn-modules) · 中文
+- [PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](../../conferences/icml-2026/cards/5501-5600.md#yin26a-modules) · 中文
 
 <a id="by-nlp"></a>
 

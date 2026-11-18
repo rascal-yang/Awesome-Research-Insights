@@ -242,6 +242,7 @@
 - [干净扰动配对的路径选择与权重变换](../conferences/icml-2026/cards/5401-5500.md#yang26bn-training-strategies) · Suppress and Diversify: Refining Robust Pathways for Corruption Robustness
 - [按QAT后敏感度分配激活位宽](../conferences/icml-2026/cards/5401-5500.md#yang26dm-training-strategies) · RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization
 - [用分布匹配选择视觉压缩潜空间](../conferences/icml-2026/cards/5501-5600.md#ye26o-training-strategies) · Distribution Matching Variational AutoEncoder
+- [CLIP弱patch抑制与强patch增强](../conferences/icml-2026/cards/5501-5600.md#yi26f-training-strategies) · Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning
 
 <a id="by-nlp"></a>
 

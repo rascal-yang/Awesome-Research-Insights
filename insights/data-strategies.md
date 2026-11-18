@@ -263,6 +263,7 @@
 - [同配水平调整与双模型共识](../conferences/icml-2026/cards/4901-5000.md#wen26j-data-strategies) · Progressive Graph Structure Adjustment for Homophily Shift Adaptation
 - [先精确邻域锥化再近似的图粗化](../conferences/icml-2026/cards/5001-5100.md#wu26ac-data-strategies) · Scalable Topology-Preserving Graph Coarsening: Concepts and Algorithms
 - [节点超边异质度共同控制mask与传播](../conferences/icml-2026/cards/5401-5500.md#yao26e-data-strategies) · H$^2$CL: Heterogeneity-Aware Hypergraph Contrastive Learning for Robust Representation Learning
+- [结构签名约束的少数类合成](../conferences/icml-2026/cards/5501-5600.md#yin26d-data-strategies) · Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases
 
 <a id="by-scientific-ml"></a>
 

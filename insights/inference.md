@@ -491,6 +491,8 @@
 - [用反演残差平移重建支路的求值点](../conferences/icml-2026/cards/5401-5500.md#yang26cy-inference) · DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing
 - [统计锚定与旋转对齐的prompt重注入](../conferences/icml-2026/cards/5401-5500.md#yao26b-inference) · Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers
 - [固定高频只进化初始噪声低频](../conferences/icml-2026/cards/5501-5600.md#ye26c-inference) · Spectral Evolution Search: Efficient Inference-Time Scaling for Reward-Aligned Image Generation
+- [深sink与时间RoPE重排的长视频缓存](../conferences/icml-2026/cards/5501-5600.md#yi26c-inference) · Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression
+- [多局部原型与逐点残差漂移跟踪](../conferences/icml-2026/cards/5501-5600.md#yi26e-inference) · Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning
 
 <a id="by-nlp"></a>
 
@@ -688,6 +690,7 @@
 - [位置反事实的表示与logit差分](../conferences/icml-2026/cards/5301-5400.md#yan26w-inference) · GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification
 - [按生成阶段定位的局部安全调制](../conferences/icml-2026/cards/5301-5400.md#yang26an-inference) · Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows
 - [对冲突路径logit方向做枢轴门控投影移除](../conferences/icml-2026/cards/5501-5600.md#ye26n-inference) · REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment
+- [任务与时长驱动的视觉预算路由](../conferences/icml-2026/cards/5501-5600.md#yin26e-inference) · Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding
 
 <a id="by-ml-foundations"></a>
 
