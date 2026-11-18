@@ -165,6 +165,7 @@
 - <a id="wang26ju-loss-functions"></a>[Towards Context-Invariant Safety Alignment for Large Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ju)
 - <a id="williams26b-loss-functions"></a>[Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](../conferences/icml-2026/cards/4901-5000.md#paper-williams26b)
 - <a id="wu26cl-loss-functions"></a>[rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cl)
+- <a id="xie26a-loss-functions"></a>[When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models](../conferences/icml-2026/cards/5101-5200.md#paper-xie26a)
 
 <a id="by-optimization"></a>
 
@@ -261,6 +262,7 @@
 - <a id="wang26kp-optimization"></a>[PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kp)
 - <a id="wen26h-optimization"></a>[FOAM: Blocked State Folding for Memory-Efficient LLM Training](../conferences/icml-2026/cards/4901-5000.md#paper-wen26h)
 - <a id="xi26g-optimization"></a>[Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows](../conferences/icml-2026/cards/5101-5200.md#paper-xi26g)
+- <a id="xiao26t-optimization"></a>[Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26t)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -584,6 +586,7 @@
 - <a id="wei26x-training-strategies"></a>[Toward Training Superintelligent Software Agents through Self-Play SWE-RL](../conferences/icml-2026/cards/4901-5000.md#paper-wei26x)
 - <a id="wu26as-training-strategies"></a>[Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](../conferences/icml-2026/cards/5001-5100.md#paper-wu26as)
 - <a id="xia26j-training-strategies"></a>[Adversarial Latent Embedding Repair for LLM Continual Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xia26j)
+- <a id="xiao26p-training-strategies"></a>[FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26p)
 
 <a id="by-data-strategies"></a>
 
@@ -999,6 +1002,7 @@
 - <a id="xia26f-inference"></a>[LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding](../conferences/icml-2026/cards/5101-5200.md#paper-xia26f)
 - <a id="xian26a-inference"></a>[VIA-SD: Verification via Intra-Model Routing for Speculative Decoding](../conferences/icml-2026/cards/5101-5200.md#paper-xian26a)
 - <a id="xiang26e-inference"></a>[Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26e)
+- <a id="xiao26q-inference"></a>[Editable Proof Sketch for Automated Theorem Proving](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26q)
 
 <a id="by-representation-learning"></a>
 
@@ -1360,6 +1364,8 @@
 - <a id="xi26b-evaluation"></a>[Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study](../conferences/icml-2026/cards/5001-5100.md#paper-xi26b)
 - <a id="xiang26b-evaluation"></a>[Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26b)
 - <a id="xiao26g-evaluation"></a>[How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26g)
+- <a id="xiao26l-evaluation"></a>[Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26l)
+- <a id="xie26d-evaluation"></a>[A Narrowing Geometry in Contaminated Reasoning](../conferences/icml-2026/cards/5101-5200.md#paper-xie26d)
 
 <a id="by-theory-statistics"></a>
 

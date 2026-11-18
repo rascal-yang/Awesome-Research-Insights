@@ -104,6 +104,7 @@
 - [低秩矩阵切空间的私有更新](../conferences/icml-2026/cards/4801-4900.md#wang26kp-optimization) · PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA
 - [分块矩共享与即时残差](../conferences/icml-2026/cards/4901-5000.md#wen26h-optimization) · FOAM: Blocked State Folding for Memory-Efficient LLM Training
 - [逆列能量的自适应LoRA收缩](../conferences/icml-2026/cards/5101-5200.md#xi26g-optimization) · Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows
+- [稀疏重生参数的局部Adam暖启动](../conferences/icml-2026/cards/5101-5200.md#xiao26t-optimization) · Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling
 
 <a id="by-computer-vision"></a>
 

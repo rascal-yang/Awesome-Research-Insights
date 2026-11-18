@@ -347,6 +347,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study](../../conferences/icml-2026/cards/5001-5100.md#xi26b-evaluation) · 中文
 - [Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility](../../conferences/icml-2026/cards/5101-5200.md#xiang26b-evaluation) · 中文
 - [How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching](../../conferences/icml-2026/cards/5101-5200.md#xiao26g-evaluation) · 中文
+- [Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns](../../conferences/icml-2026/cards/5101-5200.md#xiao26l-evaluation) · 中文
+- [A Narrowing Geometry in Contaminated Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xie26d-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -414,6 +416,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks](../../conferences/icml-2026/cards/4701-4800.md#wang26gh-evaluation) · 中文
 - [RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](../../conferences/icml-2026/cards/4901-5000.md#wei26ah-evaluation) · 中文
 - [Attention Sinks in Diffusion Transformers: A Causal Analysis](../../conferences/icml-2026/cards/5001-5100.md#wu26ax-evaluation) · 中文
+- [Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression](../../conferences/icml-2026/cards/5101-5200.md#xiao26k-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -564,6 +567,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26fm-evaluation) · 中文
 - [The Mechanistic Emergence of Symbol Grounding in Language Models](../../conferences/icml-2026/cards/5001-5100.md#wu26am-evaluation) · 中文
 - [Large Vision-Language Models Get Lost in Attention](../../conferences/icml-2026/cards/5001-5100.md#xi26e-evaluation) · 中文
+- [Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs](../../conferences/icml-2026/cards/5101-5200.md#xie26f-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

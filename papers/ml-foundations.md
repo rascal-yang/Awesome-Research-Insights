@@ -189,6 +189,7 @@
 - <a id="wang26li-loss-functions"></a>[ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction](../conferences/icml-2026/cards/4901-5000.md#paper-wang26li)
 - <a id="wong26a-loss-functions"></a>[Toward Calibrated Mixture-of-Experts Under Distribution Shift](../conferences/icml-2026/cards/4901-5000.md#paper-wong26a)
 - <a id="woo26a-loss-functions"></a>[Riemannian MeanFlow](../conferences/icml-2026/cards/4901-5000.md#paper-woo26a)
+- <a id="xie26b-loss-functions"></a>[Sobolev Regularized Score Difference Estimation in Diffusion Models](../conferences/icml-2026/cards/5101-5200.md#paper-xie26b)
 
 <a id="by-optimization"></a>
 
@@ -528,6 +529,7 @@
 - <a id="wen26i-training-strategies"></a>[Robust Sequential Experimental Design for A/B Testing](../conferences/icml-2026/cards/4901-5000.md#paper-wen26i)
 - <a id="wu26z-training-strategies"></a>[Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity](../conferences/icml-2026/cards/5001-5100.md#paper-wu26z)
 - <a id="xiao26b-training-strategies"></a>[Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26b)
+- <a id="xiao26m-training-strategies"></a>[Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26m)
 
 <a id="by-data-strategies"></a>
 
@@ -623,6 +625,7 @@
 - <a id="wu26o-inference"></a>[EasyBalance: Cross-Layer Load Balancing in Distributed MoE Inference](../conferences/icml-2026/cards/5001-5100.md#paper-wu26o)
 - <a id="wu26aa-inference"></a>[Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets](../conferences/icml-2026/cards/5001-5100.md#paper-wu26aa)
 - <a id="xiang26d-inference"></a>[MOD-SR: Unifying Multimodal Learning and Direct Optimization with Gradient-Guided Diffusion Model for Symbolic Regression](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26d)
+- <a id="xie26c-inference"></a>[Cost-aware Stopping for Bayesian Optimization](../conferences/icml-2026/cards/5101-5200.md#paper-xie26c)
 
 <a id="by-representation-learning"></a>
 

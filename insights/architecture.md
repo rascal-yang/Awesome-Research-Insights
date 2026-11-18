@@ -325,6 +325,7 @@
 - [归一化步信息的递归图更新](../conferences/icml-2026/cards/4201-4300.md#sun26e-architecture) · Adaptive Recurrent Message Passing for Test Time Computing on Graphs
 - [Full-Spectrum Graph Neural Networks: Expressive and Scalable](../conferences/icml-2026/cards/4501-4600.md#wang26m-architecture) · Full-Spectrum Graph Neural Networks: Expressive and Scalable
 - [随机节点标识的噪声等变约束](../conferences/icml-2026/cards/4801-4900.md#wang26kj-architecture) · Expressive Graph Neural Networks via Equivariant Use of Noise
+- [按任务编译的低秩图子网络](../conferences/icml-2026/cards/5101-5200.md#xiao26j-architecture) · Capacity-Agnostic Parameter Isolation for Continual Graph Learning
 
 <a id="by-scientific-ml"></a>
 

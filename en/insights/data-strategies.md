@@ -121,6 +121,7 @@ Data selection, annotation, augmentation, and sampling.
 - [PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing](../../conferences/icml-2026/cards/4901-5000.md#wei26ad-data-strategies) · 中文
 - [Motion Attribution for Video Generation](../../conferences/icml-2026/cards/5001-5100.md#wu26aq-data-strategies) · 中文
 - [DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery](../../conferences/icml-2026/cards/5101-5200.md#xia26g-data-strategies) · 中文
+- [CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos](../../conferences/icml-2026/cards/5101-5200.md#xiao26u-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

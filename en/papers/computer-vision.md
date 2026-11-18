@@ -130,6 +130,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wei26y-modules"></a>[Return of Frustratingly Easy Unsupervised Video Domain Adaptation](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26y)
 - <a id="xia26c-modules"></a>[EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Video Generation](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26c)
 - <a id="xia26h-modules"></a>[Towards Scalable and Consistent 3D Editing](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26h)
+- <a id="xiao26r-modules"></a>[Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26r)
 
 <a id="by-loss-functions"></a>
 
@@ -343,6 +344,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wei26ad-data-strategies"></a>[PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26ad)
 - <a id="wu26aq-data-strategies"></a>[Motion Attribution for Video Generation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26aq)
 - <a id="xia26g-data-strategies"></a>[DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26g)
+- <a id="xiao26u-data-strategies"></a>[CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26u)
 
 <a id="by-inference"></a>
 
@@ -595,6 +597,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26gh-evaluation"></a>[Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gh)
 - <a id="wei26ah-evaluation"></a>[RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26ah)
 - <a id="wu26ax-evaluation"></a>[Attention Sinks in Diffusion Transformers: A Causal Analysis](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ax)
+- <a id="xiao26k-evaluation"></a>[Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26k)
 
 <a id="by-theory-statistics"></a>
 

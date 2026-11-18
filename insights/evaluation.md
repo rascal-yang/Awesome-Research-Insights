@@ -347,6 +347,8 @@
 - [代理难度泛化与接口迁移分离](../conferences/icml-2026/cards/5001-5100.md#xi26b-evaluation) · Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study
 - [遗忘需跨语言和可逆性联测](../conferences/icml-2026/cards/5101-5200.md#xiang26b-evaluation) · Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility
 - [定位语言维持与语义检索的竞争](../conferences/icml-2026/cards/5101-5200.md#xiao26g-evaluation) · How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching
+- [跨模型正确性历史与跨数据校准](../conferences/icml-2026/cards/5101-5200.md#xiao26l-evaluation) · Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns
+- [污染推理的谱收缩与子空间干预](../conferences/icml-2026/cards/5101-5200.md#xie26d-evaluation) · A Narrowing Geometry in Contaminated Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -414,6 +416,7 @@
 - [硬标签法向估计的坐标信噪比](../conferences/icml-2026/cards/4701-4800.md#wang26gh-evaluation) · Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks
 - [随机反演重建的训练成员审计](../conferences/icml-2026/cards/4901-5000.md#wei26ah-evaluation) · RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness
 - [扩散attention汇聚量与必要性分离](../conferences/icml-2026/cards/5001-5100.md#wu26ax-evaluation) · Attention Sinks in Diffusion Transformers: A Causal Analysis
+- [拆分图像与软标签的数据压缩比较](../conferences/icml-2026/cards/5101-5200.md#xiao26k-evaluation) · Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression
 
 <a id="by-nlp"></a>
 
@@ -564,6 +567,7 @@
 - [视觉压缩的安全与效用权衡](../conferences/icml-2026/cards/4701-4800.md#wang26fm-evaluation) · Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs
 - [环境到词汇的信息聚合定位](../conferences/icml-2026/cards/5001-5100.md#wu26am-evaluation) · The Mechanistic Emergence of Symbol Grounding in Language Models
 - [视觉attention评分的受限替换诊断](../conferences/icml-2026/cards/5001-5100.md#xi26e-evaluation) · Large Vision-Language Models Get Lost in Attention
+- [拒答表征与迁移表征的干预对照](../conferences/icml-2026/cards/5101-5200.md#xie26f-evaluation) · Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs
 
 <a id="by-ml-foundations"></a>
 

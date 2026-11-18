@@ -40,6 +40,7 @@
 - <a id="sun26e-architecture"></a>[Adaptive Recurrent Message Passing for Test Time Computing on Graphs](../conferences/icml-2026/cards/4201-4300.md#paper-sun26e)
 - <a id="wang26m-architecture"></a>[Full-Spectrum Graph Neural Networks: Expressive and Scalable](../conferences/icml-2026/cards/4501-4600.md#paper-wang26m)
 - <a id="wang26kj-architecture"></a>[Expressive Graph Neural Networks via Equivariant Use of Noise](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kj)
+- <a id="xiao26j-architecture"></a>[Capacity-Agnostic Parameter Isolation for Continual Graph Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26j)
 
 <a id="by-modules"></a>
 

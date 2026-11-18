@@ -325,6 +325,7 @@ Model-wide design and information flow.
 - [Adaptive Recurrent Message Passing for Test Time Computing on Graphs](../../conferences/icml-2026/cards/4201-4300.md#sun26e-architecture) · 中文
 - [Full-Spectrum Graph Neural Networks: Expressive and Scalable](../../conferences/icml-2026/cards/4501-4600.md#wang26m-architecture) · 中文
 - [Expressive Graph Neural Networks via Equivariant Use of Noise](../../conferences/icml-2026/cards/4801-4900.md#wang26kj-architecture) · 中文
+- [Capacity-Agnostic Parameter Isolation for Continual Graph Learning](../../conferences/icml-2026/cards/5101-5200.md#xiao26j-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -341,6 +341,7 @@
 - [内核延迟旋转的单副本文档KV](../conferences/icml-2026/cards/5101-5200.md#xia26f-inference) · LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding
 - [有损三级验证的共享子模型](../conferences/icml-2026/cards/5101-5200.md#xian26a-inference) · VIA-SD: Verification via Intra-Model Routing for Speculative Decoding
 - [保留上下文的局部重验](../conferences/icml-2026/cards/5101-5200.md#xiang26e-inference) · Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding
+- [保留已证子目标的可编辑证明结构](../conferences/icml-2026/cards/5101-5200.md#xiao26q-inference) · Editable Proof Sketch for Automated Theorem Proving
 
 <a id="by-computer-vision"></a>
 
@@ -648,6 +649,7 @@
 - [按层谱与模态密度分配token预算](../conferences/icml-2026/cards/4801-4900.md#wang26kd-inference) · OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models
 - [正交方向与单层风险门控](../conferences/icml-2026/cards/5001-5100.md#wu26at-inference) · REVIS: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models
 - [以attention后验混合位置偏置](../conferences/icml-2026/cards/5101-5200.md#xian26c-inference) · Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration
+- [模型反馈优化的反事实视频视图](../conferences/icml-2026/cards/5101-5200.md#xiao26w-inference) · MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs
 
 <a id="by-ml-foundations"></a>
 
@@ -704,6 +706,7 @@
 - [跨层微批次MoE调度](../conferences/icml-2026/cards/5001-5100.md#wu26o-inference) · EasyBalance: Cross-Layer Load Balancing in Distributed MoE Inference
 - [按上下文分组选择保形集合大小](../conferences/icml-2026/cards/5001-5100.md#wu26aa-inference) · Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets
 - [用可微软表达树引导符号扩散](../conferences/icml-2026/cards/5101-5200.md#xiang26d-inference) · MOD-SR: Unifying Multimodal Learning and Direct Optimization with Gradient-Guided Diffusion Model for Symbolic Regression
+- [以改进价值覆盖成本的BO停止](../conferences/icml-2026/cards/5101-5200.md#xie26c-inference) · Cost-aware Stopping for Bayesian Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

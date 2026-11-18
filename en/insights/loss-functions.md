@@ -60,6 +60,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Towards Context-Invariant Safety Alignment for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26ju-loss-functions) · 中文
 - [Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](../../conferences/icml-2026/cards/4901-5000.md#williams26b-loss-functions) · 中文
 - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26cl-loss-functions) · 中文
+- [When Distance Distracts: Representation Distance Bias in BT-Loss for Reward Models](../../conferences/icml-2026/cards/5101-5200.md#xie26a-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -139,6 +140,7 @@ Objectives, auxiliary supervision, and regularization.
 - [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](../../conferences/icml-2026/cards/4801-4900.md#wang26jf-loss-functions) · 中文
 - [Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control](../../conferences/icml-2026/cards/4801-4900.md#wang26ko-loss-functions) · 中文
 - [Distributional Inverse Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26ch-loss-functions) · 中文
+- [Offline Multi-agent Continual Cooperation via Skill Partition and Reuse](../../conferences/icml-2026/cards/5101-5200.md#xiao26v-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -198,6 +200,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](../../conferences/icml-2026/cards/4801-4900.md#wang26ja-loss-functions) · 中文
 - [Towards Seed-Robust Safety Alignment in Text-to-Image Models](../../conferences/icml-2026/cards/5001-5100.md#wu26w-loss-functions) · 中文
 - [Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression](../../conferences/icml-2026/cards/5001-5100.md#xi26c-loss-functions) · 中文
+- [Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](../../conferences/icml-2026/cards/5101-5200.md#xie26e-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -250,6 +253,7 @@ Objectives, auxiliary supervision, and regularization.
 - [ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction](../../conferences/icml-2026/cards/4901-5000.md#wang26li-loss-functions) · 中文
 - [Toward Calibrated Mixture-of-Experts Under Distribution Shift](../../conferences/icml-2026/cards/4901-5000.md#wong26a-loss-functions) · 中文
 - [Riemannian MeanFlow](../../conferences/icml-2026/cards/4901-5000.md#woo26a-loss-functions) · 中文
+- [Sobolev Regularized Score Difference Estimation in Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#xie26b-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -5130,26 +5130,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5129	xiao26g	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：处理非预期语码切换时，可先分离语言身份维持与语义检索相关神经元，再用同规模随机控制评估定点干预；不能把所有多语神经元统称干扰。；可用性/独特性边界：线性attribution是近似，mean/zero ablation会引入分布偏移；logit difference及选定事实对不能证明所有自由生成机制。自动描述的组标签非真实功能保证，需核held-out语言/语义任务和等训练量对照。；初筛整理，原文与先例尚未统一核查。[原文第1页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26g/xiao26g.pdf#page=1)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26g/xiao26g.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26g/xiao26g.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26g/xiao26g.pdf#page=6)	scored
 5130	xiao26h							初筛，原文与先例核查待补：缓存PDF4为按任务选择Netlist/SFG可执行IR、检索组件规则、验证反馈修正，再由LLM规划调用成熟符号工具推导；当前主要是标准program-aided visual reasoning与IR/tool pipeline用于电路图。尚未提取独立训练/推理算子或受控新失败边界，初筛排除任务流水线集成；最近VLM→IR→solver原作、router/检索/反馈分离及调用预算待核。	rule-excluded
 5131	xiao26i	4	4	3	4	76		初筛，原文与先例核查待补：暂定评分依据：有非零且未知对称点的analog residual learning可将参考点作为训练中跟踪变量，而非训练前耗大量pulse校准到固定零；比较时应把校准pulse计入总训练成本。；可用性/独特性边界：主tracking理论用L-smooth、强凸、unbiased bounded-variance gradient、特定离散误差和正有界器件响应；不能推广到端到端非凸神经训练保证。E-RIDER chopper p经调优、不同baseline也需同等调参；模拟结果非真实硬件测量。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26i/xiao26i.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26i/xiao26i.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26i/xiao26i.pdf#page=5)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26i/xiao26i.pdf#page=7)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiao26i/xiao26i.pdf#page=8)	scored
-5132	xiao26j							待原文复核评分	pending
-5133	xiao26k							待原文复核评分	pending
-5134	xiao26l							待原文复核评分	pending
-5135	xiao26m							待原文复核评分	pending
-5136	xiao26n							待原文复核评分	pending
-5137	xiao26o							待原文复核评分	pending
-5138	xiao26p							待原文复核评分	pending
-5139	xiao26q							待原文复核评分	pending
-5140	xiao26r							待原文复核评分	pending
-5141	xiao26s							待原文复核评分	pending
-5142	xiao26t							待原文复核评分	pending
-5143	xiao26u							待原文复核评分	pending
-5144	xiao26v							待原文复核评分	pending
-5145	xiao26w							待原文复核评分	pending
-5146	xie26a							待原文复核评分	pending
-5147	xie26b							待原文复核评分	pending
-5148	xie26c							待原文复核评分	pending
-5149	xie26d							待原文复核评分	pending
-5150	xie26e							待原文复核评分	pending
-5151	xie26f							待原文复核评分	pending
+5132	xiao26j	3	3	3	3	60		初筛，原文与先例核查待补：按任务编译的低秩图子网络有明确操作或条件化经验，新增量暂3，复用3，使用性3，独特性3；缓存第4、5、6、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5133	xiao26k	3	4	4	4	73		初筛，原文与先例核查待补：拆分图像与软标签的数据压缩比较有明确操作或条件化经验，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、6页。先例、匹配控制和库内机制重叠待核实。	scored
+5134	xiao26l	3	4	4	4	73		初筛，原文与先例核查待补：跨模型正确性历史与跨数据校准有明确操作或条件化经验，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、6页。先例、匹配控制和库内机制重叠待核实。	scored
+5135	xiao26m	3	4	3	3	66		初筛，原文与先例核查待补：稀疏vine初始化与全vine拟合解耦有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、6、7、8页。先例、匹配控制和库内机制重叠待核实。	scored
+5136	xiao26n							初筛，原文与先例核查待补：第4–6页把经典事件检测—遏制—恢复—规则积累流程接入工具调用前后hook，用自然语言DSL组织；当前材料未识别独立神经训练/推理新机制或超出成熟事件响应配置的受控选择规律。超过90%的检测等指标还以已发生事件的任务为分母，不以新代理应用本身保留。	rule-excluded
+5137	xiao26o							初筛，原文与先例核查待补：第4–5/7页主要为开放网页交互扩量、多格式转换、过滤和世界模型训练后合成轨迹；当前未识别超出已有模拟器—数据生成—代理微调流程的独立新操作。WebArena成功率提升同时步数增加，扩量和新基准不能代替新增量。	rule-excluded
+5138	xiao26p	3	4	3	3	66		初筛，原文与先例核查待补：接收秩与训练秩解耦的联邦适配有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5139	xiao26q	3	4	3	3	66		初筛，原文与先例核查待补：保留已证子目标的可编辑证明结构有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5140	xiao26r	3	4	4	4	73		初筛，原文与先例核查待补：逐层同步的相位注意力有明确操作或条件化经验，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5141	xiao26s							初筛，原文与先例核查待补：第4–5/7页先抽图式大纲再写引言，用图/写作/引用等质量奖励联合RL；当前材料未识别超出已有结构化规划、LLM评价奖励与文本生成的独立可复用规则。新写作任务、边类型和裁判分数不单独建立训练机制增量。	rule-excluded
+5142	xiao26t	3	4	4	4	73		初筛，原文与先例核查待补：稀疏重生参数的局部Adam暖启动有明确操作或条件化经验，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5143	xiao26u	3	4	3	3	66		初筛，原文与先例核查待补：按像素足迹归因的高斯剪枝救回有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5144	xiao26v	3	4	3	3	66		初筛，原文与先例核查待补：状态密度控制的技能复用优势有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、6、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5145	xiao26w	3	4	3	3	66		初筛，原文与先例核查待补：模型反馈优化的反事实视频视图有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5146	xie26a	3	4	4	4	73		初筛，原文与先例核查待补：按表征差距归一的偏好损失有明确操作或条件化经验，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5147	xie26b	3	4	3	4	69		初筛，原文与先例核查待补：对密度比梯度的Sobolev正则有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性4；缓存第4、5、7、9页。先例、匹配控制和库内机制重叠待核实。	scored
+5148	xie26c	3	4	3	3	66		初筛，原文与先例核查待补：以改进价值覆盖成本的BO停止有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、6、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5149	xie26d	3	4	3	4	69		初筛，原文与先例核查待补：污染推理的谱收缩与子空间干预有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性4；缓存第2、4、5、7、8页。先例、匹配控制和库内机制重叠待核实。	scored
+5150	xie26e	3	4	4	4	73		初筛，原文与先例核查待补：最终正确性门控的检索奖励有明确操作或条件化经验，新增量暂3，复用4，使用性4，独特性4；缓存第3、4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
+5151	xie26f	3	4	3	3	66		初筛，原文与先例核查待补：拒答表征与迁移表征的干预对照有明确操作或条件化经验，新增量暂3，复用4，使用性3，独特性3；缓存第1、4、5、7页。先例、匹配控制和库内机制重叠待核实。	scored
 5152	xie26g							待原文复核评分	pending
 5153	xie26h							待原文复核评分	pending
 5154	xie26i							待原文复核评分	pending

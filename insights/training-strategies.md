@@ -150,6 +150,7 @@
 - [可执行任务的自博弈验证](../conferences/icml-2026/cards/4901-5000.md#wei26x-training-strategies) · Toward Training Superintelligent Software Agents through Self-Play SWE-RL
 - [摘要条件短程RL与回放](../conferences/icml-2026/cards/5001-5100.md#wu26as-training-strategies) · Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL
 - [高分歧软提示的定向遗忘修复](../conferences/icml-2026/cards/5101-5200.md#xia26j-training-strategies) · Adversarial Latent Embedding Repair for LLM Continual Learning
+- [接收秩与训练秩解耦的联邦适配](../conferences/icml-2026/cards/5101-5200.md#xiao26p-training-strategies) · FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources
 
 <a id="by-computer-vision"></a>
 
@@ -415,6 +416,7 @@
 - [失配稳健的序贯实验分配](../conferences/icml-2026/cards/4901-5000.md#wen26i-training-strategies) · Robust Sequential Experimental Design for A/B Testing
 - [质量条件的联邦全局锚定](../conferences/icml-2026/cards/5001-5100.md#wu26z-training-strategies) · Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity
 - [记录可减去的客户端残差](../conferences/icml-2026/cards/5101-5200.md#xiao26b-training-strategies) · Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn
+- [稀疏vine初始化与全vine拟合解耦](../conferences/icml-2026/cards/5101-5200.md#xiao26m-training-strategies) · Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing
 
 <a id="by-graph-and-recommendation"></a>
 

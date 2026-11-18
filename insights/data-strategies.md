@@ -121,6 +121,7 @@
 - [共享球谐基上的跨样本频带混合](../conferences/icml-2026/cards/4901-5000.md#wei26ad-data-strategies) · PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing
 - [运动加权梯度的数据归因](../conferences/icml-2026/cards/5001-5100.md#wu26aq-data-strategies) · Motion Attribution for Video Generation
 - [蒸馏图像的扩散后恢复](../conferences/icml-2026/cards/5101-5200.md#xia26g-data-strategies) · DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery
+- [按像素足迹归因的高斯剪枝救回](../conferences/icml-2026/cards/5101-5200.md#xiao26u-data-strategies) · CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos
 
 <a id="by-nlp"></a>
 

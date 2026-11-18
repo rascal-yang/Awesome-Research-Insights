@@ -117,6 +117,7 @@
 - <a id="wang26ja-loss-functions"></a>[Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ja)
 - <a id="wu26w-loss-functions"></a>[Towards Seed-Robust Safety Alignment in Text-to-Image Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26w)
 - <a id="xi26c-loss-functions"></a>[Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression](../conferences/icml-2026/cards/5001-5100.md#paper-xi26c)
+- <a id="xie26e-loss-functions"></a>[Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](../conferences/icml-2026/cards/5101-5200.md#paper-xie26e)
 
 <a id="by-optimization"></a>
 
@@ -386,6 +387,7 @@
 - <a id="wang26kd-inference"></a>[OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kd)
 - <a id="wu26at-inference"></a>[REVIS: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26at)
 - <a id="xian26c-inference"></a>[Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration](../conferences/icml-2026/cards/5101-5200.md#paper-xian26c)
+- <a id="xiao26w-inference"></a>[MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26w)
 
 <a id="by-representation-learning"></a>
 
@@ -526,6 +528,7 @@
 - <a id="wang26fm-evaluation"></a>[Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fm)
 - <a id="wu26am-evaluation"></a>[The Mechanistic Emergence of Symbol Grounding in Language Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26am)
 - <a id="xi26e-evaluation"></a>[Large Vision-Language Models Get Lost in Attention](../conferences/icml-2026/cards/5001-5100.md#paper-xi26e)
+- <a id="xie26f-evaluation"></a>[Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs](../conferences/icml-2026/cards/5101-5200.md#paper-xie26f)
 
 <a id="by-theory-statistics"></a>
 
