@@ -1422,66 +1422,66 @@ poster_id	title	paper_url	status	reason
 150349	Closing the Approximation Gap in Simulation-free Latent SDEs	https://neurips.cc/virtual/2026/poster/150349	included	在给定边缘分布下优化路径律，减少免模拟推断偏差
 148361	Closing the Gap on the Sample Complexity of 1-Identification	https://neurips.cc/virtual/2026/poster/148361	included	以实例级样本复杂度比较阈值臂搜索算法
 150601	Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization	https://neurips.cc/virtual/2026/poster/150601	included	直接优化目标标识符前缀的束搜索存活率
-155475	Closing the Loop: Co-Evolving EM for Irregular Time Series Generation in Lifted Representations	https://neurips.cc/virtual/2026/poster/155475	pending	-
-153850	Closing the Loop with Fixed-Point Self-Attention	https://neurips.cc/virtual/2026/poster/153850	pending	-
-149208	Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL	https://neurips.cc/virtual/2026/poster/149208	pending	-
-151474	ClothTransformer: Unified Latent-Space Transformers for Scalable Cloth Simulation	https://neurips.cc/virtual/2026/poster/151474	pending	-
-150688	CLR-voyance : Reinforcing Open-Ended Reasoning for Inpatient Clinical Decision Support with Outcome-Aware Rubrics	https://neurips.cc/virtual/2026/poster/150688	pending	-
-152428	CLUE: Closing the Loop on Conflict and Collapse in LLM Unlearning	https://neurips.cc/virtual/2026/poster/152428	pending	-
-151334	CLUE: Correlated Latent Uncertainty for Single-Pass Deep Uncertainty Estimation	https://neurips.cc/virtual/2026/poster/151334	pending	-
-150265	ClusQuant: Mitigating Outliers with Clustering-Based Representations for Low-Precision LRMs	https://neurips.cc/virtual/2026/poster/150265	pending	-
-153010	Clustered Randomized Smoothing for Stochastic Prediction Functions	https://neurips.cc/virtual/2026/poster/153010	pending	-
-150333	Clustering-Free End-to-End Spoof Diarization with Encoder-Decoder Attractors	https://neurips.cc/virtual/2026/poster/150333	pending	-
-155449	Clustering with Weak Distance Oracles	https://neurips.cc/virtual/2026/poster/155449	pending	-
-152567	ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting	https://neurips.cc/virtual/2026/poster/152567	pending	-
-153334	Cluster with Auctions for Vector Search	https://neurips.cc/virtual/2026/poster/153334	pending	-
-152001	CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use	https://neurips.cc/virtual/2026/poster/152001	pending	-
-139485	CME–SpectrumBench: Can LLMs Analyze Condensed Matter Spectral Data?	https://neurips.cc/virtual/2026/poster/139485	pending	-
-139081	CM-EVS: Sparse Panoramic RGB-D-Pose Data for Complete Scene Coverage	https://neurips.cc/virtual/2026/poster/139081	pending	-
-155422	CMI-Trans: Cross Modal Inconsistency-aware Transport for HSI-LiDAR Classification	https://neurips.cc/virtual/2026/poster/155422	pending	-
-153383	CMPQ: Compensatory Quantization via Input-Aware Hessian Damping	https://neurips.cc/virtual/2026/poster/153383	pending	-
-152151	CoANeRV: Coordinate-Aware Token-Space Neural Video Representation	https://neurips.cc/virtual/2026/poster/152151	pending	-
-152930	Coarsening Linear Non-Gaussian Causal Models with Cycles	https://neurips.cc/virtual/2026/poster/152930	pending	-
-151950	Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators	https://neurips.cc/virtual/2026/poster/151950	pending	-
-153473	Coarse-to-Fine Autoregression over Hierarchical Discrete Codes for Molecular Graph Generation	https://neurips.cc/virtual/2026/poster/153473	pending	-
-148485	Coarse-to-Fine Compositional Diffusion for Long-Horizon Planning	https://neurips.cc/virtual/2026/poster/148485	pending	-
-150766	Coarse-to-Real: Generative Rendering for Populated Dynamic Scenes	https://neurips.cc/virtual/2026/poster/150766	pending	-
-154559	Coarse-to-Refine: Trajectory Self-Refinement in Single Autoregressive Pass for Driving VLA	https://neurips.cc/virtual/2026/poster/154559	pending	-
-139427	COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition	https://neurips.cc/virtual/2026/poster/139427	pending	-
-149608	CODA: Cohort- and Drift-aware Foundation Model for Multimodal Clinical Reasoning	https://neurips.cc/virtual/2026/poster/149608	pending	-
-153802	CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs	https://neurips.cc/virtual/2026/poster/153802	pending	-
-151489	Code2World: A GUI World Model via Renderable Code Generation	https://neurips.cc/virtual/2026/poster/151489	pending	-
-155243	Codebook-Guided Cross-Modal Knowledge Distillation for Structurally Heterogeneous Features	https://neurips.cc/virtual/2026/poster/155243	pending	-
-151528	CodecSplat: Ultra-Compact Latent Coding for Feed-Forward 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/151528	pending	-
-148231	CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion	https://neurips.cc/virtual/2026/poster/148231	pending	-
-139002	Code Review Bench: An Automated Benchmark for Evaluating the Software Factory	https://neurips.cc/virtual/2026/poster/139002	pending	-
-149333	CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning	https://neurips.cc/virtual/2026/poster/149333	pending	-
-149471	CodeScaler: Scaling Code LLM Training and Test-Time Inference via Reward Models	https://neurips.cc/virtual/2026/poster/149471	pending	-
-155551	"Coding with ""Enemy"": Can Human Developers Detect AI Agent Sabotage?"	https://neurips.cc/virtual/2026/poster/155551	pending	-
-154796	CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation	https://neurips.cc/virtual/2026/poster/154796	pending	-
-155085	CoE-Agent: Co-Evolving Patient-Doctor Agents via Interactive Policy Graph Optimization for Clinical Decision Making	https://neurips.cc/virtual/2026/poster/155085	pending	-
-149378	"Co-evolution: A ""One-to-many"" LLM Fine-Tuning Paradigm"	https://neurips.cc/virtual/2026/poster/149378	pending	-
-153495	Co-Evolving Interpolants and Flows via Path-Flow Alignment	https://neurips.cc/virtual/2026/poster/153495	pending	-
-152206	Co-Evolving Policy Distillation	https://neurips.cc/virtual/2026/poster/152206	pending	-
-153110	CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention	https://neurips.cc/virtual/2026/poster/153110	pending	-
-138891	CoffeeBench: A Benchmark for Long-Horizon Strategic Decision-Making in Multi-Agent Economies	https://neurips.cc/virtual/2026/poster/138891	pending	-
-139836	CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments	https://neurips.cc/virtual/2026/poster/139836	pending	-
-139467	CogBench: Evaluating Cognitive-Level Control in LLM Question Generation	https://neurips.cc/virtual/2026/poster/139467	pending	-
-140124	Cognitive bias benchmarks should incorporate insights from ecological rationality	https://neurips.cc/virtual/2026/poster/140124	pending	-
-155926	Cognitive constraints and thalamocortical architecture explain systematic biases and neural signatures in human hierarchical decision-making	https://neurips.cc/virtual/2026/poster/155926	pending	-
-153873	Cognitive Firewalls: A Synthetic Account of Cross-Lingual Reasoning Collapse	https://neurips.cc/virtual/2026/poster/153873	pending	-
-148331	Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Image Generation	https://neurips.cc/virtual/2026/poster/148331	pending	-
-139659	COHE: Auditing Non-Transitivity in Sample Difficulty Proxies for Vision Models	https://neurips.cc/virtual/2026/poster/139659	pending	-
-152340	Coherence-Aware Transition-Intent Fusion for LTL Planning under Uncertain Semantic Maps	https://neurips.cc/virtual/2026/poster/152340	pending	-
-150732	Coherence Mechanisms for Provable Self-Improvement	https://neurips.cc/virtual/2026/poster/150732	pending	-
-149553	Coherent Hierarchical Multi-Label  Learning to Defer for Medical Imaging	https://neurips.cc/virtual/2026/poster/149553	pending	-
-155857	Coherent Routing in Decision Trees: Phase-Interference Learning for Interpretable Tabular Prediction	https://neurips.cc/virtual/2026/poster/155857	pending	-
-139216	CoilStellaration: A Dataset and Benchmark for Engineering-Aware Stellarator Coilset Generation	https://neurips.cc/virtual/2026/poster/139216	pending	-
-156142	CoLa3D: Composable Latent 3D Decomposition	https://neurips.cc/virtual/2026/poster/156142	pending	-
-155599	CoLaX: Context-Aware Local Explanations for Time Series Classification	https://neurips.cc/virtual/2026/poster/155599	pending	-
-138874	ColdDDI: Evaluating Knowledge Utilization in Cold-Start Drug-Drug Interaction Prediction	https://neurips.cc/virtual/2026/poster/138874	pending	-
-152076	Collaborative Reasoning Distillation via Cross-Feedback and Coherent Curation	https://neurips.cc/virtual/2026/poster/152076	pending	-
-149957	CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models	https://neurips.cc/virtual/2026/poster/149957	pending	-
+155475	Closing the Loop: Co-Evolving EM for Irregular Time Series Generation in Lifted Representations	https://neurips.cc/virtual/2026/poster/155475	included	用当前生成器反复补全缺失值
+153850	Closing the Loop with Fixed-Point Self-Attention	https://neurips.cc/virtual/2026/poster/153850	included	只循环注意力直到表示稳定
+149208	Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL	https://neurips.cc/virtual/2026/poster/149208	included	用真实执行结果校准反思奖励
+151474	ClothTransformer: Unified Latent-Space Transformers for Scalable Cloth Simulation	https://neurips.cc/virtual/2026/poster/151474	included	把不同分辨率的布料网格压到同样大小的潜状态
+150688	CLR-voyance : Reinforcing Open-Ended Reasoning for Inpatient Clinical Decision Support with Outcome-Aware Rubrics	https://neurips.cc/virtual/2026/poster/150688	included	把决策时可见上下文与评分用的未来证据隔离
+152428	CLUE: Closing the Loop on Conflict and Collapse in LLM Unlearning	https://neurips.cc/virtual/2026/poster/152428	included	根据遗忘与保留梯度冲突决定何时切换或停止
+151334	CLUE: Correlated Latent Uncertainty for Single-Pass Deep Uncertainty Estimation	https://neurips.cc/virtual/2026/poster/151334	included	用相关潜变量支持单次推理时的不确定性收缩
+150265	ClusQuant: Mitigating Outliers with Clustering-Based Representations for Low-Precision LRMs	https://neurips.cc/virtual/2026/poster/150265	included	以思考早期解码样本校准量化并按层分配码本
+153010	Clustered Randomized Smoothing for Stochastic Prediction Functions	https://neurips.cc/virtual/2026/poster/153010	included	对多峰预测逐簇平滑后保留混合分布
+150333	Clustering-Free End-to-End Spoof Diarization with Encoder-Decoder Attractors	https://neurips.cc/virtual/2026/poster/150333	included	通过可变基数集合预测联合定位伪造片段与来源类别
+155449	Clustering with Weak Distance Oracles	https://neurips.cc/virtual/2026/poster/155449	included	当成对距离多数可信时选弱预言机算法
+152567	ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting	https://neurips.cc/virtual/2026/poster/152567	included	先形成场景自适应候选簇，再按语言排序
+153334	Cluster with Auctions for Vector Search	https://neurips.cc/virtual/2026/poster/153334	included	查询和库分布不同时分开学习分桶与探测
+152001	CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use	https://neurips.cc/virtual/2026/poster/152001	included	把开放式工具行为拆成有证据的二元奖励准则
+139485	CME–SpectrumBench: Can LLMs Analyze Condensed Matter Spectral Data?	https://neurips.cc/virtual/2026/poster/139485	included	将科学数组理解分成直接读数、程序计算与人工程序三档
+139081	CM-EVS: Sparse Panoramic RGB-D-Pose Data for Complete Scene Coverage	https://neurips.cc/virtual/2026/poster/139081	included	按增量覆盖和深度冲突选择稀疏全景视点
+155422	CMI-Trans: Cross Modal Inconsistency-aware Transport for HSI-LiDAR Classification	https://neurips.cc/virtual/2026/poster/155422	included	用局部模态可靠性决定融合对齐权重
+153383	CMPQ: Compensatory Quantization via Input-Aware Hessian Damping	https://neurips.cc/virtual/2026/poster/153383	included	避开已被上游量化噪声污染的输入方向
+152151	CoANeRV: Coordinate-Aware Token-Space Neural Video Representation	https://neurips.cc/virtual/2026/poster/152151	included	共享坐标解码器，把实例差异留给视频 token
+152930	Coarsening Linear Non-Gaussian Causal Models with Cycles	https://neurips.cc/virtual/2026/poster/152930	included	聚合线性非高斯系统时允许底层存在反馈环
+151950	Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators	https://neurips.cc/virtual/2026/poster/151950	included	低分辨率训练后直接迁移到更细体素网格
+153473	Coarse-to-Fine Autoregression over Hierarchical Discrete Codes for Molecular Graph Generation	https://neurips.cc/virtual/2026/poster/153473	excluded	摘要的验证集中于分子生成，暂不提炼应用机制。
+148485	Coarse-to-Fine Compositional Diffusion for Long-Horizon Planning	https://neurips.cc/virtual/2026/poster/148485	included	先生成全局骨架，再用原局部模型补细节
+150766	Coarse-to-Real: Generative Rendering for Populated Dynamic Scenes	https://neurips.cc/virtual/2026/poster/150766	included	先学真实视频外观，再用少量合成配对数据引入控制
+154559	Coarse-to-Refine: Trajectory Self-Refinement in Single Autoregressive Pass for Driving VLA	https://neurips.cc/virtual/2026/poster/154559	included	在同一次自回归序列内生成草案和修订轨迹
+139427	COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition	https://neurips.cc/virtual/2026/poster/139427	included	用同一指标评估掩码、标签与树结构
+149608	CODA: Cohort- and Drift-aware Foundation Model for Multimodal Clinical Reasoning	https://neurips.cc/virtual/2026/poster/149608	included	将群体原型与个体偏离分开表示
+153802	CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs	https://neurips.cc/virtual/2026/poster/153802	included	尽量在矩阵乘法输出块仍驻片上时执行后处理
+151489	Code2World: A GUI World Model via Renderable Code Generation	https://neurips.cc/virtual/2026/poster/151489	included	将可渲染界面作为动作后状态的中间表示
+155243	Codebook-Guided Cross-Modal Knowledge Distillation for Structurally Heterogeneous Features	https://neurips.cc/virtual/2026/poster/155243	included	缺少逐位置对齐时改用概念级码本
+151528	CodecSplat: Ultra-Compact Latent Coding for Feed-Forward 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/151528	included	编码规整的二维生成中间特征而非最终高斯集合
+148231	CodeMimicry: Exploiting Safety Generalization Lag in Large Language Models via Structured Code Completion	https://neurips.cc/virtual/2026/poster/148231	excluded	摘要主要贡献是自动化绕过模型保护，没有提炼独立验证的防御机制。
+139002	Code Review Bench: An Automated Benchmark for Evaluating the Software Factory	https://neurips.cc/virtual/2026/poster/139002	included	用开发者实际处理建议的行为补充静态审查基准
+149333	CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning	https://neurips.cc/virtual/2026/poster/149333	included	同时看接收任务的需求和发出任务的置信度
+149471	CodeScaler: Scaling Code LLM Training and Test-Time Inference via Reward Models	https://neurips.cc/virtual/2026/poster/149471	included	测试稀缺时用验证数据训练奖励模型并用于候选排序
+155551	"Coding with ""Enemy"": Can Human Developers Detect AI Agent Sabotage?"	https://neurips.cc/virtual/2026/poster/155551	included	用提交前人工确认率检验代理安全告警是否有效
+154796	CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation	https://neurips.cc/virtual/2026/poster/154796	included	少步蒸馏中保持样本间及帧间关系
+155085	CoE-Agent: Co-Evolving Patient-Doctor Agents via Interactive Policy Graph Optimization for Clinical Decision Making	https://neurips.cc/virtual/2026/poster/155085	included	用显式策略图连接信息收集、工具与决策
+149378	"Co-evolution: A ""One-to-many"" LLM Fine-Tuning Paradigm"	https://neurips.cc/virtual/2026/poster/149378	included	以边际覆盖奖励降低多个微调后代的冗余
+153495	Co-Evolving Interpolants and Flows via Path-Flow Alignment	https://neurips.cc/virtual/2026/poster/153495	included	联合学习插值路径时监测中间分布熵
+152206	Co-Evolving Policy Distillation	https://neurips.cc/virtual/2026/poster/152206	included	把专家互蒸馏插入各自强化学习过程
+153110	CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention	https://neurips.cc/virtual/2026/poster/153110	included	用语言遮蔽分支诊断视觉捷径
+138891	CoffeeBench: A Benchmark for Long-Horizon Strategic Decision-Making in Multi-Agent Economies	https://neurips.cc/virtual/2026/poster/138891	included	将持续谈判与利润纳入多智能体评测
+139836	CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments	https://neurips.cc/virtual/2026/poster/139836	included	用原始交互界面和响应时限测行为特征
+139467	CogBench: Evaluating Cognitive-Level Control in LLM Question Generation	https://neurips.cc/virtual/2026/poster/139467	included	用异级动词限制检验问题的真实认知层级
+140124	Cognitive bias benchmarks should incorporate insights from ecological rationality	https://neurips.cc/virtual/2026/poster/140124	excluded	摘要提出生态理性视角及评测建议，未提供验证这些设计的对照结果。
+155926	Cognitive constraints and thalamocortical architecture explain systematic biases and neural signatures in human hierarchical decision-making	https://neurips.cc/virtual/2026/poster/155926	included	为层级选择和情境切换分别引入约束
+153873	Cognitive Firewalls: A Synthetic Account of Cross-Lingual Reasoning Collapse	https://neurips.cc/virtual/2026/poster/153873	included	区分总体能力和条件策略切换
+148331	Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Image Generation	https://neurips.cc/virtual/2026/poster/148331	included	将解码调度和模型纳入同一个轨迹奖励
+139659	COHE: Auditing Non-Transitivity in Sample Difficulty Proxies for Vision Models	https://neurips.cc/virtual/2026/poster/139659	included	在用难度代理筛数据前验证决策收益
+152340	Coherence-Aware Transition-Intent Fusion for LTL Planning under Uncertain Semantic Maps	https://neurips.cc/virtual/2026/poster/152340	included	把多个可行自动机转移保留到动作选择
+150732	Coherence Mechanisms for Provable Self-Improvement	https://neurips.cc/virtual/2026/poster/150732	included	用任务保持变换构造模型自修正约束
+149553	Coherent Hierarchical Multi-Label  Learning to Defer for Medical Imaging	https://neurips.cc/virtual/2026/poster/149553	included	在整棵标签树上解码交接决定
+155857	Coherent Routing in Decision Trees: Phase-Interference Learning for Interpretable Tabular Prediction	https://neurips.cc/virtual/2026/poster/155857	included	用可解释的分支相位检查软树的路径交互
+139216	CoilStellaration: A Dataset and Benchmark for Engineering-Aware Stellarator Coilset Generation	https://neurips.cc/virtual/2026/poster/139216	included	工程几何可行性与目标场保真分别验收
+156142	CoLa3D: Composable Latent 3D Decomposition	https://neurips.cc/virtual/2026/poster/156142	included	直接从场景共享潜变量分解物体
+155599	CoLaX: Context-Aware Local Explanations for Time Series Classification	https://neurips.cc/virtual/2026/poster/155599	included	让局部解释受全序列上下文调节
+138874	ColdDDI: Evaluating Knowledge Utilization in Cold-Start Drug-Drug Interaction Prediction	https://neurips.cc/virtual/2026/poster/138874	included	用输入遮蔽区分知识可用性和实际使用
+152076	Collaborative Reasoning Distillation via Cross-Feedback and Coherent Curation	https://neurips.cc/virtual/2026/poster/152076	included	在教师答案拼接之前验证过程正确性
+149957	CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models	https://neurips.cc/virtual/2026/poster/149957	included	按局部失败类型分配视频重试预算
 154459	Collapse Hunter: Tackling the Dimensional Degeneration in Generative Ranking	https://neurips.cc/virtual/2026/poster/154459	pending	-
 149747	COLLAR: Cascaded Object-Level Latent Refinement for High-Fidelity Conditional Generation	https://neurips.cc/virtual/2026/poster/149747	pending	-
 154861	Collective Supervision for Unified Biomolecular Conformation and Dynamics Modeling with CoDyna	https://neurips.cc/virtual/2026/poster/154861	pending	-

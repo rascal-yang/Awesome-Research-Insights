@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1469** 篇，暂收录 **1344** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1529** 篇，暂收录 **1401** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1352,3 +1352,60 @@
 | 科学机器学习 | 随机动力学 | [Closing the Approximation Gap in Simulation-free Latent SDEs](cards-0003.md#paper-150349) | 在给定边缘分布下优化路径律，减少免模拟推断偏差 |
 | 强化学习 | 纯探索理论 | [Closing the Gap on the Sample Complexity of 1-Identification](cards-0003.md#paper-148361) | 以实例级样本复杂度比较阈值臂搜索算法 |
 | 多模态学习 | 生成式检索 | [Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](cards-0003.md#paper-150601) | 直接优化目标标识符前缀的束搜索存活率 |
+| 时间序列 | 生成训练 | [Closing the Loop: Co-Evolving EM for Irregular Time Series Generation in Lifted Representations](cards-0003.md#paper-155475) | 用当前生成器反复补全缺失值 |
+| 深度学习 | 注意力架构 | [Closing the Loop with Fixed-Point Self-Attention](cards-0003.md#paper-153850) | 只循环注意力直到表示稳定 |
+| Agent | 奖励设计 | [Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL](cards-0003.md#paper-149208) | 用真实执行结果校准反思奖励 |
+| 科学机器学习 | 物理模拟 | [ClothTransformer: Unified Latent-Space Transformers for Scalable Cloth Simulation](cards-0003.md#paper-151474) | 把不同分辨率的布料网格压到同样大小的潜状态 |
+| 科学机器学习 | 评测 | [CLR-voyance : Reinforcing Open-Ended Reasoning for Inpatient Clinical Decision Support with Outcome-Aware Rubrics](cards-0003.md#paper-150688) | 把决策时可见上下文与评分用的未来证据隔离 |
+| 大语言模型 | 持续训练 | [CLUE: Closing the Loop on Conflict and Collapse in LLM Unlearning](cards-0003.md#paper-152428) | 根据遗忘与保留梯度冲突决定何时切换或停止 |
+| 统计学习 | 不确定性估计 | [CLUE: Correlated Latent Uncertainty for Single-Pass Deep Uncertainty Estimation](cards-0003.md#paper-151334) | 用相关潜变量支持单次推理时的不确定性收缩 |
+| 大语言模型 | 量化 | [ClusQuant: Mitigating Outliers with Clustering-Based Representations for Low-Precision LRMs](cards-0003.md#paper-150265) | 以思考早期解码样本校准量化并按层分配码本 |
+| 统计学习 | 稳健预测 | [Clustered Randomized Smoothing for Stochastic Prediction Functions](cards-0003.md#paper-153010) | 对多峰预测逐簇平滑后保留混合分布 |
+| 语音处理 | 防御检测 | [Clustering-Free End-to-End Spoof Diarization with Encoder-Decoder Attractors](cards-0003.md#paper-150333) | 通过可变基数集合预测联合定位伪造片段与来源类别 |
+| 学习理论 | 聚类 | [Clustering with Weak Distance Oracles](cards-0003.md#paper-155449) | 当成对距离多数可信时选弱预言机算法 |
+| 计算机视觉 | 三维定位 | [ClusterSplat: Semantic Cluster Selection for 3D Visual Grounding in Gaussian Splatting](cards-0003.md#paper-152567) | 先形成场景自适应候选簇，再按语言排序 |
+| 信息检索 | 向量索引 | [Cluster with Auctions for Vector Search](cards-0003.md#paper-153334) | 查询和库分布不同时分开学习分桶与探测 |
+| Agent | 强化学习 | [CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use](cards-0003.md#paper-152001) | 把开放式工具行为拆成有证据的二元奖励准则 |
+| 科学机器学习 | 工具评测 | [CME–SpectrumBench: Can LLMs Analyze Condensed Matter Spectral Data?](cards-0003.md#paper-139485) | 将科学数组理解分成直接读数、程序计算与人工程序三档 |
+| 计算机视觉 | 数据策略 | [CM-EVS: Sparse Panoramic RGB-D-Pose Data for Complete Scene Coverage](cards-0003.md#paper-139081) | 按增量覆盖和深度冲突选择稀疏全景视点 |
+| 多模态学习 | 特征对齐 | [CMI-Trans: Cross Modal Inconsistency-aware Transport for HSI-LiDAR Classification](cards-0003.md#paper-155422) | 用局部模态可靠性决定融合对齐权重 |
+| 大语言模型 | 量化 | [CMPQ: Compensatory Quantization via Input-Aware Hessian Damping](cards-0003.md#paper-153383) | 避开已被上游量化噪声污染的输入方向 |
+| 计算机视觉 | 视频表征 | [CoANeRV: Coordinate-Aware Token-Space Neural Video Representation](cards-0003.md#paper-152151) | 共享坐标解码器，把实例差异留给视频 token |
+| 因果学习 | 因果抽象 | [Coarsening Linear Non-Gaussian Causal Models with Cycles](cards-0003.md#paper-152930) | 聚合线性非高斯系统时允许底层存在反馈环 |
+| 科学机器学习 | 神经算子 | [Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators](cards-0003.md#paper-151950) | 低分辨率训练后直接迁移到更细体素网格 |
+| 生成模型 | 推理采样 | [Coarse-to-Fine Compositional Diffusion for Long-Horizon Planning](cards-0003.md#paper-148485) | 先生成全局骨架，再用原局部模型补细节 |
+| 计算机视觉 | 视频生成 | [Coarse-to-Real: Generative Rendering for Populated Dynamic Scenes](cards-0003.md#paper-150766) | 先学真实视频外观，再用少量合成配对数据引入控制 |
+| 具身智能 | 轨迹精修 | [Coarse-to-Refine: Trajectory Self-Refinement in Single Autoregressive Pass for Driving VLA](cards-0003.md#paper-154559) | 在同一次自回归序列内生成草案和修订轨迹 |
+| 计算机视觉 | 分层评测 | [COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition](cards-0003.md#paper-139427) | 用同一指标评估掩码、标签与树结构 |
+| 科学机器学习 | 群体建模 | [CODA: Cohort- and Drift-aware Foundation Model for Multimodal Clinical Reasoning](cards-0003.md#paper-149608) | 将群体原型与个体偏离分开表示 |
+| 机器学习系统 | 算子融合 | [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](cards-0003.md#paper-153802) | 尽量在矩阵乘法输出块仍驻片上时执行后处理 |
+| Agent | 界面预测 | [Code2World: A GUI World Model via Renderable Code Generation](cards-0003.md#paper-151489) | 将可渲染界面作为动作后状态的中间表示 |
+| 多模态学习 | 蒸馏 | [Codebook-Guided Cross-Modal Knowledge Distillation for Structurally Heterogeneous Features](cards-0003.md#paper-155243) | 缺少逐位置对齐时改用概念级码本 |
+| 计算机视觉 | 表示压缩 | [CodecSplat: Ultra-Compact Latent Coding for Feed-Forward 3D Gaussian Splatting](cards-0003.md#paper-151528) | 编码规整的二维生成中间特征而非最终高斯集合 |
+| 软件工程 | 评测设计 | [Code Review Bench: An Automated Benchmark for Evaluating the Software Factory](cards-0003.md#paper-139002) | 用开发者实际处理建议的行为补充静态审查基准 |
+| 多模态学习 | 特征路由 | [CoDeRNet: Selective Cross-Task Routing under Heterogeneous Supervision for Change Detection and Captioning](cards-0003.md#paper-149333) | 同时看接收任务的需求和发出任务的置信度 |
+| 大语言模型 | 奖励建模 | [CodeScaler: Scaling Code LLM Training and Test-Time Inference via Reward Models](cards-0003.md#paper-149471) | 测试稀缺时用验证数据训练奖励模型并用于候选排序 |
+| 软件工程 | 人机监督 | [Coding with "Enemy": Can Human Developers Detect AI Agent Sabotage?](cards-0003.md#paper-155551) | 用提交前人工确认率检验代理安全告警是否有效 |
+| 生成模型 | 蒸馏损失 | [CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation](cards-0003.md#paper-154796) | 少步蒸馏中保持样本间及帧间关系 |
+| Agent | 策略图 | [CoE-Agent: Co-Evolving Patient-Doctor Agents via Interactive Policy Graph Optimization for Clinical Decision Making](cards-0003.md#paper-155085) | 用显式策略图连接信息收集、工具与决策 |
+| 大语言模型 | 群体微调 | [Co-evolution: A "One-to-many" LLM Fine-Tuning Paradigm](cards-0003.md#paper-149378) | 以边际覆盖奖励降低多个微调后代的冗余 |
+| 生成模型 | 流匹配 | [Co-Evolving Interpolants and Flows via Path-Flow Alignment](cards-0003.md#paper-153495) | 联合学习插值路径时监测中间分布熵 |
+| 大语言模型 | 蒸馏 | [Co-Evolving Policy Distillation](cards-0003.md#paper-152206) | 把专家互蒸馏插入各自强化学习过程 |
+| 具身智能 | 反事实监督 | [CofactVLA: Deconfounding Vision-Language-Action Models via Counterfactual Intervention](cards-0003.md#paper-153110) | 用语言遮蔽分支诊断视觉捷径 |
+| Agent | 长程评测 | [CoffeeBench: A Benchmark for Long-Horizon Strategic Decision-Making in Multi-Agent Economies](cards-0003.md#paper-138891) | 将持续谈判与利润纳入多智能体评测 |
+| 多模态学习 | 行为评测 | [CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments](cards-0003.md#paper-139836) | 用原始交互界面和响应时限测行为特征 |
+| 大语言模型 | 评测诊断 | [CogBench: Evaluating Cognitive-Level Control in LLM Question Generation](cards-0003.md#paper-139467) | 用异级动词限制检验问题的真实认知层级 |
+| 认知科学 | 机制建模 | [Cognitive constraints and thalamocortical architecture explain systematic biases and neural signatures in human hierarchical decision-making](cards-0003.md#paper-155926) | 为层级选择和情境切换分别引入约束 |
+| 大语言模型 | 泛化诊断 | [Cognitive Firewalls: A Synthetic Account of Cross-Lingual Reasoning Collapse](cards-0003.md#paper-153873) | 区分总体能力和条件策略切换 |
+| 计算机视觉 | 生成训练 | [Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Image Generation](cards-0003.md#paper-148331) | 将解码调度和模型纳入同一个轨迹奖励 |
+| 计算机视觉 | 代理指标审计 | [COHE: Auditing Non-Transitivity in Sample Difficulty Proxies for Vision Models](cards-0003.md#paper-139659) | 在用难度代理筛数据前验证决策收益 |
+| 机器人学 | 语义规划 | [Coherence-Aware Transition-Intent Fusion for LTL Planning under Uncertain Semantic Maps](cards-0003.md#paper-152340) | 把多个可行自动机转移保留到动作选择 |
+| 学习理论 | 一致性投影 | [Coherence Mechanisms for Provable Self-Improvement](cards-0003.md#paper-150732) | 用任务保持变换构造模型自修正约束 |
+| 医学影像 | 分层委托 | [Coherent Hierarchical Multi-Label  Learning to Defer for Medical Imaging](cards-0003.md#paper-149553) | 在整棵标签树上解码交接决定 |
+| 统计学习 | 树结构 | [Coherent Routing in Decision Trees: Phase-Interference Learning for Interpretable Tabular Prediction](cards-0003.md#paper-155857) | 用可解释的分支相位检查软树的路径交互 |
+| 科学机器学习 | 约束评测 | [CoilStellaration: A Dataset and Benchmark for Engineering-Aware Stellarator Coilset Generation](cards-0003.md#paper-139216) | 工程几何可行性与目标场保真分别验收 |
+| 计算机视觉 | 三维表征 | [CoLa3D: Composable Latent 3D Decomposition](cards-0003.md#paper-156142) | 直接从场景共享潜变量分解物体 |
+| 时间序列 | 可解释性 | [CoLaX: Context-Aware Local Explanations for Time Series Classification](cards-0003.md#paper-155599) | 让局部解释受全序列上下文调节 |
+| 医学机器学习 | 证据审计 | [ColdDDI: Evaluating Knowledge Utilization in Cold-Start Drug-Drug Interaction Prediction](cards-0003.md#paper-138874) | 用输入遮蔽区分知识可用性和实际使用 |
+| 大语言模型 | 推理蒸馏 | [Collaborative Reasoning Distillation via Cross-Feedback and Coherent Curation](cards-0003.md#paper-152076) | 在教师答案拼接之前验证过程正确性 |
+| 多模态学习 | 闭环推理 | [CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models](cards-0003.md#paper-149957) | 按局部失败类型分配视频重试预算 |
