@@ -182,10 +182,10 @@ number	openreview_id	title	paper_url	reason	status
 181	ojMvvFKk6t	CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching	https://openreview.net/forum?id=ojMvvFKk6t	在连续坐标中迭代修正对应点，以低分辨率特征保留几何精度。	included
 182	A9tBpzFsWI	LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization	https://openreview.net/forum?id=A9tBpzFsWI	延迟跨输入交互，让重复使用的单图特征可预计算并缓存。	included
 183	33H7BChFgI	G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation	https://openreview.net/forum?id=33H7BChFgI	冻结组内几何编码，只训练轻量的跨组交互和位姿头。	included
-184	2AOAVWqGC6	LSPR: Init-Anchored Score-Based Multi-Camera Calibration for Indoor Robot Manipulation	https://openreview.net/forum?id=2AOAVWqGC6		pending
-185	ffIOVlfRQN	CoLA: Robust Collaborative Perception with Linear Global Spatial Alignment	https://openreview.net/forum?id=ffIOVlfRQN		pending
-186	7BCkvvmpuj	OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes	https://openreview.net/forum?id=7BCkvvmpuj		pending
-187	WNZ4Dr57JS	3PTv2: Zero-Shot 3D-Object Perception Transformer for Robotics	https://openreview.net/forum?id=WNZ4Dr57JS		pending
+184	2AOAVWqGC6	LSPR: Init-Anchored Score-Based Multi-Camera Calibration for Indoor Robot Manipulation	https://openreview.net/forum?id=2AOAVWqGC6	学习强初始化器的局部标定误差，并在置信度低时回退至原估计。	included
+185	ffIOVlfRQN	CoLA: Robust Collaborative Perception with Linear Global Spatial Alignment	https://openreview.net/forum?id=ffIOVlfRQN	位姿和延迟误差可能超出局部融合窗口时，比较线性复杂度的全局对齐。	included
+186	7BCkvvmpuj	OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes	https://openreview.net/forum?id=7BCkvvmpuj	对已知会失效的传感器区域，引入干净几何监督而非直接拟合传感器读数。	included
+187	WNZ4Dr57JS	3PTv2: Zero-Shot 3D-Object Perception Transformer for Robotics	https://openreview.net/forum?id=WNZ4Dr57JS	用贯穿网络的物体 token 联合检测、分割与位姿估计，减少框级级联误差。	included
 188	Mnggg9cnbh	Cyclops: LiDAR as a Camera That Dreams in Color	https://openreview.net/forum?id=Mnggg9cnbh		pending
 189	L8ATlveWKT	MaD-PF: Modular and Differentiable Particle Filter for Cross-Environment SE(3) LiDAR Localization	https://openreview.net/forum?id=L8ATlveWKT		pending
 190	0o1c1Xxn1m	AmodalBox: Automated 3D Bounding Box Annotation under Partial Visibility	https://openreview.net/forum?id=0o1c1Xxn1m		pending

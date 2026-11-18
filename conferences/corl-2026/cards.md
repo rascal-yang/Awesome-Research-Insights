@@ -2521,3 +2521,63 @@
 - **适用条件 / 局限** · 依赖可靠的组内几何；标定漂移和里程计噪声的影响未报告。
 
 **可复用机制** · 多组传感器数据已有局部几何时，保留预训练的局部表示，把参数预算投向跨组信息交换。
+
+<a id="paper-2aoavwqgc6"></a>
+
+## LSPR: Init-Anchored Score-Based Multi-Camera Calibration for Indoor Robot Manipulation
+
+[会议记录](https://openreview.net/forum?id=2AOAVWqGC6) · [原文](https://openreview.net/pdf?id=2AOAVWqGC6)
+
+- **问题 / 瓶颈** · 室内操作相机位姿常有厘米级误差，通用几何精修在该设置下可能恶化初始化。
+- **核心创新 / 方法** · 以初始化误差范围内的 SE(3) 切空间扰动训练残差分数场，从初始位姿出发精修，辅以集成、难例挖掘和回退门控。
+- **Baseline** · 以 WorldMirror-v2 为初始化；比较 COLMAP 和 RGB-D ICP 等精修。
+- **Benchmark** · RH20T 留出场景，测 Sim(3) 对齐后的标定误差和多视角深度融合。
+- **关键结果 / 消融** · 作者报告从厘米级改善至亚厘米、亚度，并改善深度融合；摘要未分解辅助模块的贡献。
+- **适用条件 / 局限** · 误差训练范围依赖初始化器，换相机或场景需重新验证置信度。
+
+**可复用机制** · 当已有可靠粗位姿时，用匹配初始化误差分布的局部修正替代全局生成，并单独测转差率。
+
+<a id="paper-ffiovlfrqn"></a>
+
+## CoLA: Robust Collaborative Perception with Linear Global Spatial Alignment
+
+[会议记录](https://openreview.net/forum?id=ffIOVlfRQN) · [原文](https://openreview.net/pdf?id=ffIOVlfRQN)
+
+- **问题 / 瓶颈** · 局部跨智能体融合无法覆盖较大错位，扩大窗口又增加计算开销。
+- **核心创新 / 方法** · 全局结构校正去噪，以本机特征为锚门控融合，并用块级结构一致性损失抑制位置抖动。
+- **Baseline** · 与协同感知方法比较；摘要未列名称。
+- **Benchmark** · 真实和仿真协同感知数据，施加多种噪声；摘要未列数据集和指标。
+- **关键结果 / 消融** · 作者报告多种噪声条件下优于对照；摘要未给幅度及独立消融。
+- **适用条件 / 局限** · 依赖跨智能体共享特征及可利用的全局结构；实测开销未在摘要给出。
+
+**可复用机制** · 按误差幅度扫描局部窗口与全局对齐，把块结构一致性损失单独做消融。
+
+<a id="paper-7bckvvmpuj"></a>
+
+## OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes
+
+[会议记录](https://openreview.net/forum?id=7BCkvvmpuj) · [原文](https://openreview.net/pdf?id=7BCkvvmpuj)
+
+- **问题 / 瓶颈** · 透明与反光区域的实测深度有结构性偏差，模型会继承这种误差。
+- **核心创新 / 方法** · 用干净几何教师和残差修剪对齐修正真实监督，并用少量定向渲染覆盖透明物体。
+- **Baseline** · 比较约 300M 参数的单目模型与十亿级多视图模型。
+- **Benchmark** · 透明场景深度、通用零样本深度、边界锐度及真机导航案例；摘要未列数据集或指标细节。
+- **关键结果 / 消融** · 30M 模型在透明场景优于所比大模型，通用深度与边缘表现仍有竞争力；摘要未给幅度。
+- **适用条件 / 局限** · 需要能覆盖故障区域的干净几何来源，残差筛选可能误去除有效难例。
+
+**可复用机制** · 先验证训练传感器偏差是否与模型失误共现，再用少量高可信目标监督替换坏标签，测特定与通用域。
+
+<a id="paper-wnz4dr57js"></a>
+
+## 3PTv2: Zero-Shot 3D-Object Perception Transformer for Robotics
+
+[会议记录](https://openreview.net/forum?id=WNZ4Dr57JS) · [原文](https://openreview.net/pdf?id=WNZ4Dr57JS)
+
+- **问题 / 瓶颈** · 分阶段以检测框传递信息，在拥挤和特殊材质场景容易丢失物体证据。
+- **核心创新 / 方法** · 单一 Transformer 接受三维物体提示与单或多视角 RGB 或 RGB-D，以持续 token 表示支持三个输出。
+- **Baseline** · 对照框中转级联及零样本、对象专用方法；摘要未列模型名。
+- **Benchmark** · IPD、XYZ-IBD、ITODD-MV、T-ROBI、ROBI，评估检测、分割及六维姿态；另有真机操作案例。
+- **关键结果 / 消融** · 作者报告检测和位姿优于所比零样本与对象专用方法；摘要未报告数值或 token 的独立消融。
+- **适用条件 / 局限** · 依赖三维物体提示；提示质量和少视角遮挡的影响未在摘要量化。
+
+**可复用机制** · 对同一物体的多个预测任务，比较贯穿共享查询与显式框中转，联合测遮挡场景性能和推理延时。

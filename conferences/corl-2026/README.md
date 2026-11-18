@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **175 / 687** 篇，当前收录 **168** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **179 / 687** 篇，当前收录 **172** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -174,3 +174,7 @@
 | 具身智能 / 视觉 | 特征匹配 | [CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching](cards.md#paper-ojmvvfkk6t) | 在连续坐标中迭代修正对应点，以低分辨率特征保留几何精度。 |
 | 具身智能 / 视觉 | 推理缓存 | [LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization](cards.md#paper-a9tbpzfswi) | 延迟跨输入交互，让重复使用的单图特征可预计算并缓存。 |
 | 具身智能 / 视觉 | 多视角表示 | [G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation](cards.md#paper-33h7bchfgi) | 冻结组内几何编码，只训练轻量的跨组交互和位姿头。 |
+| 具身智能 / 视觉 | 几何校准 | [LSPR: Init-Anchored Score-Based Multi-Camera Calibration for Indoor Robot Manipulation](cards.md#paper-2aoavwqgc6) | 学习强初始化器的局部标定误差，并在置信度低时回退至原估计。 |
+| 具身智能 / 多智能体 | 特征融合 | [CoLA: Robust Collaborative Perception with Linear Global Spatial Alignment](cards.md#paper-ffiovlfrqn) | 位姿和延迟误差可能超出局部融合窗口时，比较线性复杂度的全局对齐。 |
+| 具身智能 / 视觉 | 监督去偏 | [OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes](cards.md#paper-7bckvvmpuj) | 对已知会失效的传感器区域，引入干净几何监督而非直接拟合传感器读数。 |
+| 具身智能 / 视觉 | 物体表示 | [3PTv2: Zero-Shot 3D-Object Perception Transformer for Robotics](cards.md#paper-wnz4dr57js) | 用贯穿网络的物体 token 联合检测、分割与位姿估计，减少框级级联误差。 |
