@@ -684,6 +684,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression](../../conferences/icml-2026/cards/5601-5700.md#yu26az-evaluation) · 中文
 - [Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation](../../conferences/icml-2026/cards/5601-5700.md#zarvandi26a-evaluation) · 中文
 - [Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#zeng26f-evaluation) · 中文
+- [Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](../../conferences/icml-2026/cards/5701-5800.md#zhang26aj-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -736,4 +737,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization](../../conferences/icml-2026/cards/4601-4700.md#wang26cc-evaluation) · 中文
 - [Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning](../../conferences/icml-2026/cards/5101-5200.md#xia26a-evaluation) · 中文
 - [The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench](../../conferences/icml-2026/cards/5401-5500.md#yao26k-evaluation) · 中文
+- [WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws](../../conferences/icml-2026/cards/5701-5800.md#zhang26am-evaluation) · 中文
 <!-- classification:end -->

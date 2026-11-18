@@ -837,6 +837,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yu26az-evaluation"></a>[Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26az)
 - <a id="zarvandi26a-evaluation"></a>[Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation](../../conferences/icml-2026/cards/5601-5700.md#paper-zarvandi26a)
 - <a id="zeng26f-evaluation"></a>[Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26f)
+- <a id="zhang26aj-evaluation"></a>[Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26aj)
 
 <a id="by-theory-statistics"></a>
 
@@ -1284,4 +1285,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26i-theory-statistics"></a>[Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26i)
 - <a id="zhang26ad-theory-statistics"></a>[Dimension-Independent Convergence of Underdamped Langevin Monte Carlo in KL Divergence](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ad)
 - <a id="zhang26af-theory-statistics"></a>[Benign Overfitting in Adversarial Training for Vision Transformers](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26af)
+- <a id="zhang26ay-theory-statistics"></a>[Higher-Order Certified Robustness for Regression](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ay)
 <!-- classification:end -->

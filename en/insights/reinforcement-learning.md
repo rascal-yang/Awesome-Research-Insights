@@ -474,6 +474,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding](../../conferences/icml-2026/cards/5001-5100.md#xi26a-reinforcement-learning) · 中文
 - [MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence](../../conferences/icml-2026/cards/5501-5600.md#yin26f-reinforcement-learning) · 中文
 - [POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26b-reinforcement-learning) · 中文
+- [AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](../../conferences/icml-2026/cards/5701-5800.md#zhang26aw-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

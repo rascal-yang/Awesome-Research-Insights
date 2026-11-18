@@ -183,6 +183,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yu26bc-loss-functions"></a>[Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bc)
 - <a id="yu26bq-loss-functions"></a>[MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bq)
 - <a id="zhang26t-loss-functions"></a>[REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26t)
+- <a id="zhang26al-loss-functions"></a>[LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26al)
 
 <a id="by-optimization"></a>
 
@@ -643,6 +644,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yu26bi-training-strategies"></a>[Efficient Bilevel Optimization for CKA-Guided MoE Upcycling](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bi)
 - <a id="zeng26l-training-strategies"></a>[PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26l)
 - <a id="zhang26n-training-strategies"></a>[Internalizing Safety Understanding in Large Reasoning Models via Verification](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26n)
+- <a id="zhang26bc-training-strategies"></a>[Gradient-Aware Scheduling: Coupling Curriculum and Staleness for Async Reinforcement Learning](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bc)
 
 <a id="by-data-strategies"></a>
 
@@ -1555,4 +1557,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ye26h-theory-statistics"></a>[A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26h)
 - <a id="yu26h-theory-statistics"></a>[On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26h)
 - <a id="yu26bm-theory-statistics"></a>[Anytime Safe PAC Efficient Reasoning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bm)
+- <a id="zhang26ba-theory-statistics"></a>[Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ba)
 <!-- classification:end -->

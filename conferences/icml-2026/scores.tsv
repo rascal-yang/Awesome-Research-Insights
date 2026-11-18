@@ -5770,26 +5770,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5769	zhang26ag	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按跨TP一致的分块归约树，最近方法差异见baseline且待核；复用5：rollout与learner需数值一致时，可固定rowparallelmatmul的tile与全局二叉归约树，使单GPU累加和跨GPUreduce遵循同序；同时统一其他batch-sensitive算子。 可用4受zero测得top5divergence不独立证明所有logit/跨所有GPUbitwise，需kernelcoverage及相同dtype/weights/attention/normalization。消除数值mismatch不解决stale/asynchronouspolicy、samplertruncation等offpolicy来源，不能称首次真正onpolicy的普遍保证。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
 5770	zhang26ah							初筛，原文与先例核查待补：现有PDF第3–6页用inverse-depth缩放deformable2Doffset、3Dlearnedoffset融合RGB/LiDAR，再常规robustregistration/posegraph、空间近邻MLPmaxpool聚合mapdescriptor到taskhead。保持物理receptivefield的1/depth与persistentfeaturemapping均成熟；当前未隔离新几何不变量/融合目标或独立map决策规则，按SLAMperception组件工作流暂排，机器人主题和mAP/mIoU提高不足单独成立。	rule-excluded
 5771	zhang26ai	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按异步迟到摘要与KV重编码预算，最近方法差异见baseline且待核；复用5：longagentmemory可由小model每k步异步摘要，agent保旧摘要加最近rawbuffer继续走；选择k须把新摘要导致的KVcache失效和重新prefill成本计入。 可用4受reward高不证明摘要是统计充分量，stale摘要须rawbuffer无gap且周期重叠可能等待；memoryserver额外GPU成本/多agent摊销待核。bandwidth公式忽略tool/prefill等阶段，小batchTPOT可近不随context，不能泛称总延迟总由KVdominate。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
-5772	zhang26aj							待原文复核评分	pending
-5773	zhang26ak							待原文复核评分	pending
-5774	zhang26al							待原文复核评分	pending
-5775	zhang26am							待原文复核评分	pending
-5776	zhang26an							待原文复核评分	pending
-5777	zhang26ao							待原文复核评分	pending
-5778	zhang26ap							待原文复核评分	pending
-5779	zhang26aq							待原文复核评分	pending
-5780	zhang26ar							待原文复核评分	pending
-5781	zhang26as							待原文复核评分	pending
-5782	zhang26at							待原文复核评分	pending
-5783	zhang26au							待原文复核评分	pending
-5784	zhang26av							待原文复核评分	pending
-5785	zhang26aw							待原文复核评分	pending
-5786	zhang26ax							待原文复核评分	pending
-5787	zhang26ay							待原文复核评分	pending
-5788	zhang26az							待原文复核评分	pending
-5789	zhang26ba							待原文复核评分	pending
-5790	zhang26bb							待原文复核评分	pending
-5791	zhang26bc							待原文复核评分	pending
+5772	zhang26aj	3	4	3	3	66		初筛，原文与先例核查待补：传播优化器状态扰动估计训练阶段影响：新增量暂3，相关模型复用4，操作性3，独特性3；第4、5、7页，最近先例、完整条件与匹配控制待核。	scored
+5773	zhang26ak							初筛，原文与先例核查待补：第4–5页为持续feature ID embedding拼接数值/时间/mask及hybrid attention；成熟variable identity/soft-prompt embedding用于imputation，双线性分块恒等式不构成新机制，当前未见超出标准变量嵌入的新操作。	rule-excluded
+5774	zhang26al	3	4	4	3	70		初筛，原文与先例核查待补：把on-policy输出重标为自身长度计数任务：新增量暂3，相关模型复用4，操作性4，独特性3；第4、5、6页，最近先例、完整条件与匹配控制待核。	scored
+5775	zhang26am	3	4	3	3	66		初筛，原文与先例核查待补：以目标波函数拟合扫行列式数与网络深度：新增量暂3，相关模型复用4，操作性3，独特性3；第5、6、7、8页，最近先例、完整条件与匹配控制待核。	scored
+5776	zhang26an							初筛，原文与先例核查待补：第4–5页采用language-server jump-to-definition单工具和常规GRPO issue定位；成熟静态符号解析+agent RL应用，工具精简与模型大小比较当前不足独立可复用新目标/规则。	rule-excluded
+5777	zhang26ao							初筛，原文与先例核查待补：第4–5页为观测信号时空滤波构conditioned source prior后flow matching，加普通空间/时间attention；成熟interpolation warm-start/conditional transport用于imputation，当前未识别独立于滤波+FM组合的新算子或受控规律。	rule-excluded
+5778	zhang26ap							初筛，原文与先例核查待补：第4–5页为窗口plateau触发、potential shaping、uncertainty throttling和CQL/model rollout组合；当前无超成熟触发/整形的新控制规律。式11外乘随时间/状态变化的gate/λ不自动telescope，不能沿用策略不变；式10也非必然统计显著检验。	rule-excluded
+5779	zhang26aq							初筛，原文与先例核查待补：第4–5页为代码执行反馈agent、分阶段能力课程、合成轨迹及标准RL奖励；成熟data-science agent训练流程，任务范围与benchmark总分不替代独立神经操作或控制规律。	rule-excluded
+5780	zhang26ar							初筛，原文与先例核查待补：第4–5页主要是Kaggle社区数据sandbox、任务生成/筛选及1009题benchmark；文件发现困难/61.1%成功率当前仅新测试覆盖，未识别足以独立改变训练推理的新机制或隔离后的经验律。	rule-excluded
+5781	zhang26as							初筛，原文与先例核查待补：第4页等为合成/真实同新类估计域子空间、中心修正/投影及real prototype约束；成熟domain-invariant projection/prototype alignment用于generative replay，当前未见独立新关系量或优化规则；去除域方向不保证旧类语义无损。	rule-excluded
+5782	zhang26at							初筛，原文与先例核查待补：第4页等为patch编码、时间混合及sample-dependent QK TopK sparse cross-variable routing；成熟sparse attention/bottleneck在时序任务应用，当前无独立稀疏选择规则或新的受控容量规律，不把少连接等同真实因果相关。	rule-excluded
+5783	zhang26au							初筛，原文与先例核查待补：第4–5页为专家+自采数据、weighted IQL critic、GAE process reward及BPPO迭代；成熟in-distribution offline actor-critic工具用于LLM agent，当前无独立新Bellman/更新机制，分布内标签不自动保证分布不偏移。	rule-excluded
+5784	zhang26av	3	4	3	3	66		初筛，原文与先例核查待补：由TD偏好构DAG再做等序值正则：新增量暂3，相关模型复用4，操作性3，独特性3；第4、5、6、7页，最近先例、完整条件与匹配控制待核。	scored
+5785	zhang26aw	3	4	3	3	66		初筛，原文与先例核查待补：在优势空间残差化推理奖励再合成更新：新增量暂3，相关模型复用4，操作性3，独特性3；第4、5、6、7页，最近先例、完整条件与匹配控制待核。	scored
+5786	zhang26ax							初筛，原文与先例核查待补：第4–5页为生成bokeh stack、DSF attention/FiLM多图特征融合接depth decoder，当前属成熟conditional生成和defocus多视图聚合组合；合成模糊不能自动增加原图可识别真实metric信息，尚无独立泛用机制或受控新规律。	rule-excluded
+5787	zhang26ay	4	4	3	4	76		初筛，原文与先例核查待补：用方差与平滑梯度共同界定回归证书：新增量暂4，相关模型复用4，操作性3，独特性4；第4、5、6、7页，最近先例、完整条件与匹配控制待核。	scored
+5788	zhang26az							初筛，原文与先例核查待补：第4–5页为VAE trajectory latent、soft-DTW距离匹配、stopgrad code条件FiLM diffusion及test-time latent fitting；成熟metric latent skill/conditional diffusion组合，当前未见超旧距离蒸馏和latent优化的独立操作，不因机器人验证自动保留。	rule-excluded
+5789	zhang26ba	4	4	3	4	76		初筛，原文与先例核查待补：按数据支持与前向核选离散扩散：新增量暂4，相关模型复用4，操作性3，独特性4；第4、5、6、7页，最近先例、完整条件与匹配控制待核。	scored
+5790	zhang26bb							初筛，原文与先例核查待补：第4–5页为mask-query与语言condition双向cross-attention/门控更新及boundary refinement；成熟双向co-attention用于LLM segmentation，候选mask语义错选的诊断当前尚无独立受控选型规律或新关系量。	rule-excluded
+5791	zhang26bc	3	4	3	3	66		初筛，原文与先例核查待补：按难度与耗时收紧异步rollout陈旧预算：新增量暂3，相关模型复用4，操作性3，独特性3；第3、4、5、6页，最近先例、完整条件与匹配控制待核。	scored
 5792	zhang26bd							待原文复核评分	pending
 5793	zhang26be							待原文复核评分	pending
 5794	zhang26bf							待原文复核评分	pending

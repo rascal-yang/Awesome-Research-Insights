@@ -79,6 +79,7 @@
 - [用函数复合任务约束混合注意力选型](../conferences/icml-2026/cards/5501-5600.md#ye26h-theory-statistics) · A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention
 - [只把高奖励生成加入后续上下文](../conferences/icml-2026/cards/5501-5600.md#yu26h-theory-statistics) · On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference
 - [部分反馈下注检验的推理路由](../conferences/icml-2026/cards/5601-5700.md#yu26bm-theory-statistics) · Anytime Safe PAC Efficient Reasoning
+- [按数据支持与前向核选离散扩散](../conferences/icml-2026/cards/5701-5800.md#zhang26ba-theory-statistics) · Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking
 
 <a id="by-computer-vision"></a>
 
@@ -651,6 +652,7 @@
 - [用softmax归一化解释looped logistic ICL](../conferences/icml-2026/cards/5701-5800.md#zhang26i-theory-statistics) · Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent
 - [Hessian迹控制的欠阻尼采样误差](../conferences/icml-2026/cards/5701-5800.md#zhang26ad-theory-statistics) · Dimension-Independent Convergence of Underdamped Langevin Monte Carlo in KL Divergence
 - [扰动尺度改变注意力学习的良性过拟合条件](../conferences/icml-2026/cards/5701-5800.md#zhang26af-theory-statistics) · Benign Overfitting in Adversarial Training for Vision Transformers
+- [用方差与平滑梯度共同界定回归证书](../conferences/icml-2026/cards/5701-5800.md#zhang26ay-theory-statistics) · Higher-Order Certified Robustness for Regression
 
 <a id="by-graph-and-recommendation"></a>
 

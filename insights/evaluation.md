@@ -684,6 +684,7 @@
 - [用计算树误差放大筛选符号公式](../conferences/icml-2026/cards/5601-5700.md#yu26az-evaluation) · Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression
 - [SSL局部GGN响应的landmark归因](../conferences/icml-2026/cards/5601-5700.md#zarvandi26a-evaluation) · Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation
 - [Wasserstein参考切向场的双统计监测](../conferences/icml-2026/cards/5701-5800.md#zeng26f-evaluation) · Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data
+- [传播优化器状态扰动估计训练阶段影响](../conferences/icml-2026/cards/5701-5800.md#zhang26aj-evaluation) · Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -736,4 +737,5 @@
 - [按训练区间选择SciML优化器](../conferences/icml-2026/cards/4601-4700.md#wang26cc-evaluation) · Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization
 - [几何探针指导算子重注入](../conferences/icml-2026/cards/5101-5200.md#xia26a-evaluation) · Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning
 - [极端物理regime的共享线性解码诊断](../conferences/icml-2026/cards/5401-5500.md#yao26k-evaluation) · The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench
+- [以目标波函数拟合扫行列式数与网络深度](../conferences/icml-2026/cards/5701-5800.md#zhang26am-evaluation) · WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws
 <!-- classification:end -->

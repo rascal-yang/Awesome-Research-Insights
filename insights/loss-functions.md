@@ -68,6 +68,7 @@
 - [按目标rank相对预测分布rank重权SFT](../conferences/icml-2026/cards/5601-5700.md#yu26bc-loss-functions) · Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning
 - [敏感度加权的任务必要性打分](../conferences/icml-2026/cards/5601-5700.md#yu26bq-loss-functions) · MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization
 - [数值judge的策略相关回归奖励](../conferences/icml-2026/cards/5701-5800.md#zhang26t-loss-functions) · REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge
+- [把on-policy输出重标为自身长度计数任务](../conferences/icml-2026/cards/5701-5800.md#zhang26al-loss-functions) · LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -165,6 +166,7 @@
 - [组共享自动机的过程奖励](../conferences/icml-2026/cards/5301-5400.md#yan26k-loss-functions) · GLARE: Scalable Neuro-Symbolic Reward Shaping for LLM Agents via Group-Level Automata
 - [冻结后继表示上的偏好任务搜索](../conferences/icml-2026/cards/5301-5400.md#yang26x-loss-functions) · From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning
 - [给RTG条件策略增加critic顺序约束](../conferences/icml-2026/cards/5401-5500.md#yang26dn-loss-functions) · Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning
+- [由TD偏好构DAG再做等序值正则](../conferences/icml-2026/cards/5701-5800.md#zhang26av-loss-functions) · Geometric Coherence Learning for Structuring Value Functions in Plain MDPs
 
 <a id="by-robotics"></a>
 

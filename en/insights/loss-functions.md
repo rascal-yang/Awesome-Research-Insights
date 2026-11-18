@@ -68,6 +68,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning](../../conferences/icml-2026/cards/5601-5700.md#yu26bc-loss-functions) · 中文
 - [MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](../../conferences/icml-2026/cards/5601-5700.md#yu26bq-loss-functions) · 中文
 - [REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](../../conferences/icml-2026/cards/5701-5800.md#zhang26t-loss-functions) · 中文
+- [LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26al-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -165,6 +166,7 @@ Objectives, auxiliary supervision, and regularization.
 - [GLARE: Scalable Neuro-Symbolic Reward Shaping for LLM Agents via Group-Level Automata](../../conferences/icml-2026/cards/5301-5400.md#yan26k-loss-functions) · 中文
 - [From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#yang26x-loss-functions) · 中文
 - [Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](../../conferences/icml-2026/cards/5401-5500.md#yang26dn-loss-functions) · 中文
+- [Geometric Coherence Learning for Structuring Value Functions in Plain MDPs](../../conferences/icml-2026/cards/5701-5800.md#zhang26av-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

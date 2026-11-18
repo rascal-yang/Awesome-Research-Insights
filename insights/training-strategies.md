@@ -167,6 +167,7 @@
 - [冻结或适配专家的双层mask选择](../conferences/icml-2026/cards/5601-5700.md#yu26bi-training-strategies) · Efficient Bilevel Optimization for CKA-Guided MoE Upcycling
 - [逐token隐状态回馈的Jacobi预训练](../conferences/icml-2026/cards/5701-5800.md#zeng26l-training-strategies) · PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space
 - [以输出核验监督测试安全生成迁移](../conferences/icml-2026/cards/5701-5800.md#zhang26n-training-strategies) · Internalizing Safety Understanding in Large Reasoning Models via Verification
+- [按难度与耗时收紧异步rollout陈旧预算](../conferences/icml-2026/cards/5701-5800.md#zhang26bc-training-strategies) · Gradient-Aware Scheduling: Coupling Curriculum and Staleness for Async Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 

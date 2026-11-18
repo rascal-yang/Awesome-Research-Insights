@@ -215,6 +215,7 @@
 - <a id="xi26a-reinforcement-learning"></a>[Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding](../conferences/icml-2026/cards/5001-5100.md#paper-xi26a)
 - <a id="yin26f-reinforcement-learning"></a>[MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence](../conferences/icml-2026/cards/5501-5600.md#paper-yin26f)
 - <a id="zeng26b-reinforcement-learning"></a>[POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26b)
+- <a id="zhang26aw-reinforcement-learning"></a>[AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26aw)
 
 <a id="by-training-strategies"></a>
 

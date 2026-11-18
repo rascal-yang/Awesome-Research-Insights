@@ -474,6 +474,7 @@
 - [自先验分布驱动的视频推理奖励](../conferences/icml-2026/cards/5001-5100.md#xi26a-reinforcement-learning) · Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding
 - [时空坐标中间目标的过程奖励](../conferences/icml-2026/cards/5501-5600.md#yin26f-reinforcement-learning) · MLLM-4D: Towards Visual-based Spatial-Temporal Intelligence
 - [按相同对象集合归组的坐标优势](../conferences/icml-2026/cards/5701-5800.md#zeng26b-reinforcement-learning) · POLIA: Policy Optimization with Visual-Object-Level Intrinsic Advantage for Multimodal Reasoning
+- [在优势空间残差化推理奖励再合成更新](../conferences/icml-2026/cards/5701-5800.md#zhang26aw-reinforcement-learning) · AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection
 
 <a id="by-ml-foundations"></a>
 
