@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1709** 篇，暂收录 **1574** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1769** 篇，暂收录 **1631** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1582,3 +1582,60 @@
 | 表示学习 | 对比采样 | [Contrast encodes inductive bias: separating slow noise from dynamics in predictive representation learning](cards-0003.md#paper-149353) | 使用同轨迹负样本以移除轨迹特有慢噪声捷径。 |
 | 图学习 | 防御检测 | [Contrastive Adversarial Training for Robust Graph Neural Networks under Label Poisoning](cards-0003.md#paper-150131) | 使用标签与局部图结构的一致性识别异常监督。 |
 | 科学机器学习 | 证据比较 | [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](cards-0003.md#paper-154298) | 对同一个问题比较互斥解释，用证据更新排序。 |
+| 计算机视觉 | 域适应 | [Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weathers](cards-0003.md#paper-152434) | 恶劣天气下用超边传播候选间语义。 |
+| 学习理论 | 对比监督 | [Contrastive Identification and Generation in the Limit](cards-0003.md#paper-150695) | 先判定无方向的成对监督是否足以识别或生成。 |
+| 机器学习 | 主动采集 | [Contrastive Nonmyopic Objective Cost-Tradeoff Acquisition for Longitudinal Data](cards-0003.md#paper-148964) | 按长期预测收益缓存测量计划。 |
+| 强化学习 | 表征学习 | [Contrastive Pretraining Scales Agentic Exploration](cards-0003.md#paper-149777) | 预训练时保留候选动作间的可区分性。 |
+| 大语言模型 | 遗忘正则 | [Contrastive Representation Shaping for LLM Unlearning](cards-0003.md#paper-151743) | 把遗忘与保留表示干扰作为辅助目标。 |
+| 信息检索 | 重排序 | [Contrastive Retrieval Heads for Improved Attention-Based Reranking](cards-0003.md#paper-150870) | 按相关与干扰文档区分能力选注意力头。 |
+| 大语言模型 | 解码 | [Contrastive Thinking Decoding: Steering Answer Generation in Reasoning Models](cards-0003.md#paper-153432) | 用退化推理轨迹作为答案解码的对照。 |
+| 机器学习 | 模型合并 | [Contribution-Aware Structured Sparsity for Model Merging](cards-0003.md#paper-154890) | 按任务贡献筛结构组件再合并权重。 |
+| 科学机器学习 | 数据同化 | [Control-Augmented Autoregressive Diffusion for Data Assimilation](cards-0003.md#paper-152028) | 离线学习观测校正以降低滚动同化成本。 |
+| 多智能体 | 稳健监测 | [Control Charts for Multi-Agent Systems](cards-0003.md#paper-156073) | 监测自适应群体时保留固定参考对照。 |
+| 强化学习 | 表征训练 | [Control First, Robustness Next: Decoupled Representation Learning for Visual RL Generalization](cards-0003.md#paper-155463) | 先学控制表征，再离线对齐强增强输入。 |
+| 三维视觉 | 特权蒸馏 | [ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling](cards-0003.md#paper-151092) | 训练用多视图，部署仅输入点云。 |
+| 大语言模型 | 轨迹正则 | [ControlJEPA: Principled Trajectory Regularization via Lyapunov Tube Loss](cards-0003.md#paper-149461) | 用可解释容差控制隐藏状态横向偏离。 |
+| 推荐系统 | 可控表示 | [Controllable and Content Based Recommendations](cards-0003.md#paper-152374) | 用可编辑文本用户画像作为推荐接口。 |
+| 三维视觉 | 条件生成 | [Controllable Dynamic 3D Shape Generation via 3D Trajectories and Text](cards-0003.md#paper-154139) | 将空间轨迹作为文字之外的运动控制输入。 |
+| 因果学习 | 仿真评测 | [Controllable Generative Sandbox for Causal Inference](cards-0003.md#paper-155513) | 校准混合类型模拟数据，同时独立扫描因果难点。 |
+| 多模态学习 | 奖励设计 | [Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization](cards-0003.md#paper-155376) | 按部署需求选择多标签审核的查准和查全权衡。 |
+| 计算机视觉 | 结构生成 | [Controllable Road Marking Generation](cards-0003.md#paper-155875) | 对细线布局使用由软到硬的结构约束。 |
+| Agent | 模拟评测 | [Controllable User Simulation](cards-0003.md#paper-148816) | 在轨迹生成前设定控制条件 |
+| 统计学习 | 混杂校正 | [Controlling for Omitted Variable Bias in Deep Neural Networks](cards-0003.md#paper-153604) | 固定预训练骨干后估计协变量效应 |
+| 计算机视觉 | 测试时适配 | [Controlling Temporal Pseudo-Label Marginals for Stable Online Test-Time Adaptation](cards-0003.md#paper-151349) | 监测跨时间的伪标签类别收缩 |
+| 科学机器学习 | 稳定性正则 | [Controlling Transient Amplification Improves Long-horizon Rollouts](cards-0003.md#paper-149068) | 训练时监控沿轨迹的雅可比非正规性与不对易性 |
+| 可解释性 | 干预诊断 | [Control Reinforcement Learning: Token-Level Mechanistic Analysis via Learned SAE Feature Steering](cards-0003.md#paper-151630) | 分别检查任务内贡献与跨任务迁移 |
+| 计算机视觉 | 条件生成 | [ControlSVG: Exploring Controllable SVG Generation with Autoregressive Models](cards-0003.md#paper-151441) | 将中间矢量输出回馈后续生成 |
+| 控制理论 | 状态估计 | [Control Under the Wrong Model Is Better Than Under the Correct One](cards-0003.md#paper-149917) | 存在内部噪声时联合选择估计和控制模型 |
+| 学习理论 | 二阶优化 | [Convergence Analysis of Newton's Method for Neural Networks in the Overparameterized Limit](cards-0003.md#paper-149087) | 按宽度调整 Newton 正则并检查频谱 |
+| 强化学习 | 联邦训练 | [Convergence Guarantees for Federated SARSA with Local Training and Heterogeneous Agents](cards-0003.md#paper-155534) | 按客户端差异权衡本地 SARSA 更新和同步 |
+| 学习理论 | 初始化 | [Convergence of Near-Linear Width ReLU Networks with Unbalanced Initialization](cards-0003.md#paper-149591) | 在主动训练隐藏层时检验输出主导初始化 |
+| 学习理论 | 组合推理 | [Convex Compositional Reasoning Models](cards-0003.md#paper-152956) | 保留因子可加性并约束每个因子的输入凸性 |
+| 机器学习 | 损失函数 | [Conveyance: A Versatile Framework for Learning in Structured Class Spaces](cards-0003.md#paper-155590) | 用类别关系决定需保护的分类间隔 |
+| 科学机器学习 | 主动搜索 | [Cool Graphs: Active Property Search Towards Quantum Nano-Refrigerators](cards-0003.md#paper-152915) | 把昂贵仿真预算集中在性质符号未确定的候选 |
+| Agent | 协作诊断 | [COOP$^2$: Defining, Observing, and Repairing Cooperation in LLM Multi-Agent Systems](cards-0003.md#paper-139333) | 只在群体计划预测会违反约束时触发修复 |
+| 强化学习 | 探索策略 | [Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration](cards-0003.md#paper-153701) | 在保证已有回报的前提下优化探索奖励 |
+| 统计学习 | 共形预测 | [Co-optimization for Adaptive Conformal Prediction](cards-0003.md#paper-150402) | 分别拟合预测区间中心和半径 |
+| 强化学习 | 推理搜索 | [Coordinating Hundreds of RL Agents through Scalable Inference-Time Search](cards-0003.md#paper-149906) | 在共享团队目标下为每个智能体搜索独立潜变量 |
+| 强化学习 | 协作诊断 | [Coordination Connectivity: Shared Initialization Shapes the Joint-Policy Landscape in MARL](cards-0003.md#paper-154512) | 用联合策略权重插值检测团队版本兼容 |
+| 多模态学习 | 高效视频推理 | [CoPE-VideoLM: Leveraging Codec Primitives For Efficient Video Language Modelling](cards-0003.md#paper-152600) | 用编码器运动向量和残差补足稀疏关键帧 |
+| 科学机器学习 | 逆向设计 | [Co-PiLOT: Constrained Physics-Informed Latent Optimization for Target-Driven Inverse Design](cards-0003.md#paper-150787) | 在材料模拟预算有限时比较潜空间约束搜索 |
+| 多模态学习 | 测试时适配 | [COPRA: Conditional Parameter Adaptation with Reinforcement Learning for Video Anomaly Detection](cards-0003.md#paper-151176) | 按视频片段生成权重增量。 |
+| 大语言模型 | 量化 | [CoQuant: Covariance-Aware Rotation for 2-bit KV Cache Quantization](cards-0003.md#paper-154658) | 按注意力实际使用的协方差选择 KV 旋转。 |
+| 科学机器学习 | 拓扑评测 | [CORAL: A Benchmark for Structure-aware and Brain-wide Neuron Reconstruction in Light Microscopy](cards-0003.md#paper-139515) | 把拓扑正确性与局部几何接近度分别测量。 |
+| 大语言模型 | 低秩适配 | [CORA: Per-Slice Coherent Orthogonal Rotation for SVD-based Low-Rank Adaptation](cards-0003.md#paper-152402) | 用同一旋转联合改写左右奇异基。 |
+| 多模态学习 | 缓存压缩 | [CoRDS: Coreset-Based Representative and Diverse Selection for Streaming Video Understanding](cards-0003.md#paper-153844) | 联合考虑键值覆盖和子集互补性。 |
+| 大语言模型 | 量化 | [CoreQ: Learning-Free Mismatch Correction and Successive Rounding for Quantization](cards-0003.md#paper-155856) | 分层调节量化失配校正幅度。 |
+| 大语言模型 | 检索 | [CoRE-RL: Co-evolving Reasoning Trajectories and Evidence Subgraphs with Learned Evidence Projection](cards-0003.md#paper-151276) | 用中间推理中缺证据的主张继续定向检索。 |
+| 生成模型 | 流匹配 | [Coreset-Induced Conditional Velocity Flow Matching](cards-0003.md#paper-154272) | 给内部速度流提供数据构成的近似源。 |
+| 学习理论 | 聚类 | [Coresets for Clustering Using Noisy Comparisons and Few Distance Queries](cards-0003.md#paper-149987) | 直接距离昂贵时用比较查询构造核心集。 |
+| 大语言模型 | 蒸馏诊断 | [Cornerstones or Stumbling Blocks? Deciphering the Rock Tokens in On-Policy Distillation](cards-0003.md#paper-152055) | 重新评估长期高损失 token 的训练权重。 |
+| 计算机视觉 | 模型剪枝 | [CORP: Closed-Form One-shot Representation-Preserving Structured Pruning for Transformers](cards-0003.md#paper-150895) | 用保留结构线性补偿剪除部分的表示。 |
+| Agent | 信用分配 | [Correctable Fork Tokens: Verifier-Anchored Selective Credit Assignment for Tool-Integrated RLVR](cards-0003.md#paper-153790) | 用答案条件下的不确定性下降定位工具调用关键 token。 |
+| 大语言模型 | 推理诊断 | [Correct but Unselectable: The Hidden Interface Tax in Multi-Candidate Reasoning](cards-0003.md#paper-152214) | 区分生成到正确答案和选择器能读取正确答案。 |
+| 统计学习 | 贝叶斯推断 | [Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models](cards-0003.md#paper-154255) | 用重要性采样修正拉普拉斯边缘化误差。 |
+| 多模态学习 | 推理校正 | [Correction Space Steering for Hallucination Mitigation in Large Vision-Language Models](cards-0003.md#paper-150994) | 将输入相关的激活修正限制在低秩空间。 |
+| 大语言模型 | 扩散后训练 | [Corrective Diffusion Language Models](cards-0003.md#paper-154007) | 显式监督可见错误 token，学习原位修订。 |
+| 大语言模型 | 偏好优化 | [Correct, Route, Calibrate: Efficient Preference Optimization from Noisy, Heterogeneous Human Feedback](cards-0003.md#paper-152258) | 把标注噪声、任务分配和标注员评分联合考虑。 |
+| 机器学习基础与统计 | 隐私训练 | [Correlating Cross-Iteration Noise for DP-SGD using Model Curvature](cards-0003.md#paper-151628) | 按损失曲率设计跨迭代隐私噪声相关性。 |
+| 强化学习 | 模型路由 | [Correlation-Aware Contextual Bandits with Surrogate Rewards for LLM Routing](cards-0003.md#paper-149327) | 代理反馈可能偏差时分开训练真实奖励与代理估计器。 |

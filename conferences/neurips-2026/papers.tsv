@@ -1664,66 +1664,66 @@ poster_id	title	paper_url	status	reason
 149353	Contrast encodes inductive bias: separating slow noise from dynamics in predictive representation learning	https://neurips.cc/virtual/2026/poster/149353	included	使用同轨迹负样本以移除轨迹特有慢噪声捷径。
 150131	Contrastive Adversarial Training for Robust Graph Neural Networks under Label Poisoning	https://neurips.cc/virtual/2026/poster/150131	included	使用标签与局部图结构的一致性识别异常监督。
 154298	Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations	https://neurips.cc/virtual/2026/poster/154298	included	对同一个问题比较互斥解释，用证据更新排序。
-150808	Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion	https://neurips.cc/virtual/2026/poster/150808	pending	-
-152434	Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weathers	https://neurips.cc/virtual/2026/poster/152434	pending	-
-150695	Contrastive Identification and Generation in the Limit	https://neurips.cc/virtual/2026/poster/150695	pending	-
-148964	Contrastive Nonmyopic Objective Cost-Tradeoff Acquisition for Longitudinal Data	https://neurips.cc/virtual/2026/poster/148964	pending	-
-149777	Contrastive Pretraining Scales Agentic Exploration	https://neurips.cc/virtual/2026/poster/149777	pending	-
-151743	Contrastive Representation Shaping for LLM Unlearning	https://neurips.cc/virtual/2026/poster/151743	pending	-
-150870	Contrastive Retrieval Heads for Improved Attention-Based Reranking	https://neurips.cc/virtual/2026/poster/150870	pending	-
-153432	Contrastive Thinking Decoding: Steering Answer Generation in Reasoning Models	https://neurips.cc/virtual/2026/poster/153432	pending	-
-154890	Contribution-Aware Structured Sparsity for Model Merging	https://neurips.cc/virtual/2026/poster/154890	pending	-
-152028	Control-Augmented Autoregressive Diffusion for Data Assimilation	https://neurips.cc/virtual/2026/poster/152028	pending	-
-156073	Control Charts for Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/156073	pending	-
-155463	Control First, Robustness Next: Decoupled Representation Learning for Visual RL Generalization	https://neurips.cc/virtual/2026/poster/155463	pending	-
-151092	ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling	https://neurips.cc/virtual/2026/poster/151092	pending	-
-149461	ControlJEPA: Principled Trajectory Regularization via Lyapunov Tube Loss	https://neurips.cc/virtual/2026/poster/149461	pending	-
-152374	Controllable and Content Based Recommendations	https://neurips.cc/virtual/2026/poster/152374	pending	-
-154139	Controllable Dynamic 3D Shape Generation via 3D Trajectories and Text	https://neurips.cc/virtual/2026/poster/154139	pending	-
-155513	Controllable Generative Sandbox for Causal Inference	https://neurips.cc/virtual/2026/poster/155513	pending	-
-149529	Controllable Molecular Generative Foundation Models	https://neurips.cc/virtual/2026/poster/149529	pending	-
-155376	Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization	https://neurips.cc/virtual/2026/poster/155376	pending	-
-155875	Controllable Road Marking Generation	https://neurips.cc/virtual/2026/poster/155875	pending	-
-148816	Controllable User Simulation	https://neurips.cc/virtual/2026/poster/148816	pending	-
-153604	Controlling for Omitted Variable Bias in Deep Neural Networks	https://neurips.cc/virtual/2026/poster/153604	pending	-
-151349	Controlling Temporal Pseudo-Label Marginals for Stable Online Test-Time Adaptation	https://neurips.cc/virtual/2026/poster/151349	pending	-
-149068	Controlling Transient Amplification Improves Long-horizon Rollouts	https://neurips.cc/virtual/2026/poster/149068	pending	-
-151630	Control Reinforcement Learning: Token-Level Mechanistic Analysis via Learned SAE Feature Steering	https://neurips.cc/virtual/2026/poster/151630	pending	-
-151441	ControlSVG: Exploring Controllable SVG Generation with Autoregressive Models	https://neurips.cc/virtual/2026/poster/151441	pending	-
-149917	Control Under the Wrong Model Is Better Than Under the Correct One	https://neurips.cc/virtual/2026/poster/149917	pending	-
-149087	Convergence Analysis of Newton's Method for Neural Networks in the Overparameterized Limit	https://neurips.cc/virtual/2026/poster/149087	pending	-
-155534	Convergence Guarantees for Federated SARSA with Local Training and Heterogeneous Agents	https://neurips.cc/virtual/2026/poster/155534	pending	-
-149591	Convergence of Near-Linear Width ReLU Networks with Unbalanced Initialization	https://neurips.cc/virtual/2026/poster/149591	pending	-
-152956	Convex Compositional Reasoning Models	https://neurips.cc/virtual/2026/poster/152956	pending	-
-155590	Conveyance: A Versatile Framework for Learning in Structured Class Spaces	https://neurips.cc/virtual/2026/poster/155590	pending	-
-152915	Cool Graphs: Active Property Search Towards Quantum Nano-Refrigerators	https://neurips.cc/virtual/2026/poster/152915	pending	-
-139333	COOP$^2$: Defining, Observing, and Repairing Cooperation in LLM Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/139333	pending	-
-153701	Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration	https://neurips.cc/virtual/2026/poster/153701	pending	-
-150402	Co-optimization for Adaptive Conformal Prediction	https://neurips.cc/virtual/2026/poster/150402	pending	-
-149906	Coordinating Hundreds of RL Agents through Scalable Inference-Time Search	https://neurips.cc/virtual/2026/poster/149906	pending	-
-154512	Coordination Connectivity: Shared Initialization Shapes the Joint-Policy Landscape in MARL	https://neurips.cc/virtual/2026/poster/154512	pending	-
-152600	CoPE-VideoLM: Leveraging Codec Primitives For Efficient Video Language Modelling	https://neurips.cc/virtual/2026/poster/152600	pending	-
-150787	Co-PiLOT: Constrained Physics-Informed Latent Optimization for Target-Driven Inverse Design	https://neurips.cc/virtual/2026/poster/150787	pending	-
-151176	COPRA: Conditional Parameter Adaptation with Reinforcement Learning for Video Anomaly Detection	https://neurips.cc/virtual/2026/poster/151176	pending	-
-154658	CoQuant: Covariance-Aware Rotation for 2-bit KV Cache Quantization	https://neurips.cc/virtual/2026/poster/154658	pending	-
-139515	CORAL: A Benchmark for Structure-aware and Brain-wide Neuron Reconstruction in Light Microscopy	https://neurips.cc/virtual/2026/poster/139515	pending	-
-154426	CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards	https://neurips.cc/virtual/2026/poster/154426	pending	-
-152402	CORA: Per-Slice Coherent Orthogonal Rotation for SVD-based Low-Rank Adaptation	https://neurips.cc/virtual/2026/poster/152402	pending	-
-153844	CoRDS: Coreset-Based Representative and Diverse Selection for Streaming Video Understanding	https://neurips.cc/virtual/2026/poster/153844	pending	-
-155856	CoreQ: Learning-Free Mismatch Correction and Successive Rounding for Quantization	https://neurips.cc/virtual/2026/poster/155856	pending	-
-151276	CoRE-RL: Co-evolving Reasoning Trajectories and Evidence Subgraphs with Learned Evidence Projection	https://neurips.cc/virtual/2026/poster/151276	pending	-
-154272	Coreset-Induced Conditional Velocity Flow Matching	https://neurips.cc/virtual/2026/poster/154272	pending	-
-149987	Coresets for Clustering Using Noisy Comparisons and Few Distance Queries	https://neurips.cc/virtual/2026/poster/149987	pending	-
-152055	Cornerstones or Stumbling Blocks? Deciphering the Rock Tokens in On-Policy Distillation	https://neurips.cc/virtual/2026/poster/152055	pending	-
-150895	CORP: Closed-Form One-shot Representation-Preserving Structured Pruning for Transformers	https://neurips.cc/virtual/2026/poster/150895	pending	-
-153790	Correctable Fork Tokens: Verifier-Anchored Selective Credit Assignment for Tool-Integrated RLVR	https://neurips.cc/virtual/2026/poster/153790	pending	-
-152214	Correct but Unselectable: The Hidden Interface Tax in Multi-Candidate Reasoning	https://neurips.cc/virtual/2026/poster/152214	pending	-
-154255	Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models	https://neurips.cc/virtual/2026/poster/154255	pending	-
-150994	Correction Space Steering for Hallucination Mitigation in Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/150994	pending	-
-154007	Corrective Diffusion Language Models	https://neurips.cc/virtual/2026/poster/154007	pending	-
-152258	Correct, Route, Calibrate: Efficient Preference Optimization from Noisy, Heterogeneous Human Feedback	https://neurips.cc/virtual/2026/poster/152258	pending	-
-151628	Correlating Cross-Iteration Noise for DP-SGD using Model Curvature	https://neurips.cc/virtual/2026/poster/151628	pending	-
-149327	Correlation-Aware Contextual Bandits with Surrogate Rewards for LLM Routing	https://neurips.cc/virtual/2026/poster/149327	pending	-
+150808	Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion	https://neurips.cc/virtual/2026/poster/150808	excluded	摘要的奖励引导生成涉及敏感应用，本批未提取独立的安全应用证据。
+152434	Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weathers	https://neurips.cc/virtual/2026/poster/152434	included	恶劣天气下用超边传播候选间语义。
+150695	Contrastive Identification and Generation in the Limit	https://neurips.cc/virtual/2026/poster/150695	included	先判定无方向的成对监督是否足以识别或生成。
+148964	Contrastive Nonmyopic Objective Cost-Tradeoff Acquisition for Longitudinal Data	https://neurips.cc/virtual/2026/poster/148964	included	按长期预测收益缓存测量计划。
+149777	Contrastive Pretraining Scales Agentic Exploration	https://neurips.cc/virtual/2026/poster/149777	included	预训练时保留候选动作间的可区分性。
+151743	Contrastive Representation Shaping for LLM Unlearning	https://neurips.cc/virtual/2026/poster/151743	included	把遗忘与保留表示干扰作为辅助目标。
+150870	Contrastive Retrieval Heads for Improved Attention-Based Reranking	https://neurips.cc/virtual/2026/poster/150870	included	按相关与干扰文档区分能力选注意力头。
+153432	Contrastive Thinking Decoding: Steering Answer Generation in Reasoning Models	https://neurips.cc/virtual/2026/poster/153432	included	用退化推理轨迹作为答案解码的对照。
+154890	Contribution-Aware Structured Sparsity for Model Merging	https://neurips.cc/virtual/2026/poster/154890	included	按任务贡献筛结构组件再合并权重。
+152028	Control-Augmented Autoregressive Diffusion for Data Assimilation	https://neurips.cc/virtual/2026/poster/152028	included	离线学习观测校正以降低滚动同化成本。
+156073	Control Charts for Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/156073	included	监测自适应群体时保留固定参考对照。
+155463	Control First, Robustness Next: Decoupled Representation Learning for Visual RL Generalization	https://neurips.cc/virtual/2026/poster/155463	included	先学控制表征，再离线对齐强增强输入。
+151092	ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling	https://neurips.cc/virtual/2026/poster/151092	included	训练用多视图，部署仅输入点云。
+149461	ControlJEPA: Principled Trajectory Regularization via Lyapunov Tube Loss	https://neurips.cc/virtual/2026/poster/149461	included	用可解释容差控制隐藏状态横向偏离。
+152374	Controllable and Content Based Recommendations	https://neurips.cc/virtual/2026/poster/152374	included	用可编辑文本用户画像作为推荐接口。
+154139	Controllable Dynamic 3D Shape Generation via 3D Trajectories and Text	https://neurips.cc/virtual/2026/poster/154139	included	将空间轨迹作为文字之外的运动控制输入。
+155513	Controllable Generative Sandbox for Causal Inference	https://neurips.cc/virtual/2026/poster/155513	included	校准混合类型模拟数据，同时独立扫描因果难点。
+149529	Controllable Molecular Generative Foundation Models	https://neurips.cc/virtual/2026/poster/149529	excluded	论文重点为按目标性质优化分子生成，本批未提取独立应用证据。
+155376	Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization	https://neurips.cc/virtual/2026/poster/155376	included	按部署需求选择多标签审核的查准和查全权衡。
+155875	Controllable Road Marking Generation	https://neurips.cc/virtual/2026/poster/155875	included	对细线布局使用由软到硬的结构约束。
+148816	Controllable User Simulation	https://neurips.cc/virtual/2026/poster/148816	included	在轨迹生成前设定控制条件
+153604	Controlling for Omitted Variable Bias in Deep Neural Networks	https://neurips.cc/virtual/2026/poster/153604	included	固定预训练骨干后估计协变量效应
+151349	Controlling Temporal Pseudo-Label Marginals for Stable Online Test-Time Adaptation	https://neurips.cc/virtual/2026/poster/151349	included	监测跨时间的伪标签类别收缩
+149068	Controlling Transient Amplification Improves Long-horizon Rollouts	https://neurips.cc/virtual/2026/poster/149068	included	训练时监控沿轨迹的雅可比非正规性与不对易性
+151630	Control Reinforcement Learning: Token-Level Mechanistic Analysis via Learned SAE Feature Steering	https://neurips.cc/virtual/2026/poster/151630	included	分别检查任务内贡献与跨任务迁移
+151441	ControlSVG: Exploring Controllable SVG Generation with Autoregressive Models	https://neurips.cc/virtual/2026/poster/151441	included	将中间矢量输出回馈后续生成
+149917	Control Under the Wrong Model Is Better Than Under the Correct One	https://neurips.cc/virtual/2026/poster/149917	included	存在内部噪声时联合选择估计和控制模型
+149087	Convergence Analysis of Newton's Method for Neural Networks in the Overparameterized Limit	https://neurips.cc/virtual/2026/poster/149087	included	按宽度调整 Newton 正则并检查频谱
+155534	Convergence Guarantees for Federated SARSA with Local Training and Heterogeneous Agents	https://neurips.cc/virtual/2026/poster/155534	included	按客户端差异权衡本地 SARSA 更新和同步
+149591	Convergence of Near-Linear Width ReLU Networks with Unbalanced Initialization	https://neurips.cc/virtual/2026/poster/149591	included	在主动训练隐藏层时检验输出主导初始化
+152956	Convex Compositional Reasoning Models	https://neurips.cc/virtual/2026/poster/152956	included	保留因子可加性并约束每个因子的输入凸性
+155590	Conveyance: A Versatile Framework for Learning in Structured Class Spaces	https://neurips.cc/virtual/2026/poster/155590	included	用类别关系决定需保护的分类间隔
+152915	Cool Graphs: Active Property Search Towards Quantum Nano-Refrigerators	https://neurips.cc/virtual/2026/poster/152915	included	把昂贵仿真预算集中在性质符号未确定的候选
+139333	COOP$^2$: Defining, Observing, and Repairing Cooperation in LLM Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/139333	included	只在群体计划预测会违反约束时触发修复
+153701	Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration	https://neurips.cc/virtual/2026/poster/153701	included	在保证已有回报的前提下优化探索奖励
+150402	Co-optimization for Adaptive Conformal Prediction	https://neurips.cc/virtual/2026/poster/150402	included	分别拟合预测区间中心和半径
+149906	Coordinating Hundreds of RL Agents through Scalable Inference-Time Search	https://neurips.cc/virtual/2026/poster/149906	included	在共享团队目标下为每个智能体搜索独立潜变量
+154512	Coordination Connectivity: Shared Initialization Shapes the Joint-Policy Landscape in MARL	https://neurips.cc/virtual/2026/poster/154512	included	用联合策略权重插值检测团队版本兼容
+152600	CoPE-VideoLM: Leveraging Codec Primitives For Efficient Video Language Modelling	https://neurips.cc/virtual/2026/poster/152600	included	用编码器运动向量和残差补足稀疏关键帧
+150787	Co-PiLOT: Constrained Physics-Informed Latent Optimization for Target-Driven Inverse Design	https://neurips.cc/virtual/2026/poster/150787	included	在材料模拟预算有限时比较潜空间约束搜索
+151176	COPRA: Conditional Parameter Adaptation with Reinforcement Learning for Video Anomaly Detection	https://neurips.cc/virtual/2026/poster/151176	included	按视频片段生成权重增量。
+154658	CoQuant: Covariance-Aware Rotation for 2-bit KV Cache Quantization	https://neurips.cc/virtual/2026/poster/154658	included	按注意力实际使用的协方差选择 KV 旋转。
+139515	CORAL: A Benchmark for Structure-aware and Brain-wide Neuron Reconstruction in Light Microscopy	https://neurips.cc/virtual/2026/poster/139515	included	把拓扑正确性与局部几何接近度分别测量。
+154426	CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards	https://neurips.cc/virtual/2026/poster/154426	excluded	本轮暂不收录以生物分子结合优化为核心的技术细节。
+152402	CORA: Per-Slice Coherent Orthogonal Rotation for SVD-based Low-Rank Adaptation	https://neurips.cc/virtual/2026/poster/152402	included	用同一旋转联合改写左右奇异基。
+153844	CoRDS: Coreset-Based Representative and Diverse Selection for Streaming Video Understanding	https://neurips.cc/virtual/2026/poster/153844	included	联合考虑键值覆盖和子集互补性。
+155856	CoreQ: Learning-Free Mismatch Correction and Successive Rounding for Quantization	https://neurips.cc/virtual/2026/poster/155856	included	分层调节量化失配校正幅度。
+151276	CoRE-RL: Co-evolving Reasoning Trajectories and Evidence Subgraphs with Learned Evidence Projection	https://neurips.cc/virtual/2026/poster/151276	included	用中间推理中缺证据的主张继续定向检索。
+154272	Coreset-Induced Conditional Velocity Flow Matching	https://neurips.cc/virtual/2026/poster/154272	included	给内部速度流提供数据构成的近似源。
+149987	Coresets for Clustering Using Noisy Comparisons and Few Distance Queries	https://neurips.cc/virtual/2026/poster/149987	included	直接距离昂贵时用比较查询构造核心集。
+152055	Cornerstones or Stumbling Blocks? Deciphering the Rock Tokens in On-Policy Distillation	https://neurips.cc/virtual/2026/poster/152055	included	重新评估长期高损失 token 的训练权重。
+150895	CORP: Closed-Form One-shot Representation-Preserving Structured Pruning for Transformers	https://neurips.cc/virtual/2026/poster/150895	included	用保留结构线性补偿剪除部分的表示。
+153790	Correctable Fork Tokens: Verifier-Anchored Selective Credit Assignment for Tool-Integrated RLVR	https://neurips.cc/virtual/2026/poster/153790	included	用答案条件下的不确定性下降定位工具调用关键 token。
+152214	Correct but Unselectable: The Hidden Interface Tax in Multi-Candidate Reasoning	https://neurips.cc/virtual/2026/poster/152214	included	区分生成到正确答案和选择器能读取正确答案。
+154255	Corrected Integrated Laplace Approximation for Bayesian Inference in Latent Gaussian Models	https://neurips.cc/virtual/2026/poster/154255	included	用重要性采样修正拉普拉斯边缘化误差。
+150994	Correction Space Steering for Hallucination Mitigation in Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/150994	included	将输入相关的激活修正限制在低秩空间。
+154007	Corrective Diffusion Language Models	https://neurips.cc/virtual/2026/poster/154007	included	显式监督可见错误 token，学习原位修订。
+152258	Correct, Route, Calibrate: Efficient Preference Optimization from Noisy, Heterogeneous Human Feedback	https://neurips.cc/virtual/2026/poster/152258	included	把标注噪声、任务分配和标注员评分联合考虑。
+151628	Correlating Cross-Iteration Noise for DP-SGD using Model Curvature	https://neurips.cc/virtual/2026/poster/151628	included	按损失曲率设计跨迭代隐私噪声相关性。
+149327	Correlation-Aware Contextual Bandits with Surrogate Rewards for LLM Routing	https://neurips.cc/virtual/2026/poster/149327	included	代理反馈可能偏差时分开训练真实奖励与代理估计器。
 151032	Correpondence Alignment For Improved Virtual Try-On	https://neurips.cc/virtual/2026/poster/151032	pending	-
 155477	Correspondence Pruning by Iterative Structural Rectification	https://neurips.cc/virtual/2026/poster/155477	pending	-
 155914	CorridorLight: Cooperation as Task Negotiation with Causal Gating for Traffic Signal Control	https://neurips.cc/virtual/2026/poster/155914	pending	-
