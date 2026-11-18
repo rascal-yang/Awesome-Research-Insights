@@ -748,5 +748,15 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [The Capability Frontier of GRPO](../../conferences/neurips-2026/cards-0011.md#paper-152642)
 - [The Illusion of Diversity: Aligning LLM Exploration via Effective Entropy](../../conferences/neurips-2026/cards-0011.md#paper-149941)
 - [The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-151835)
+- [The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models](../../conferences/neurips-2026/cards-0012.md#paper-150680)
+- [The Reciprocity Gradient](../../conferences/neurips-2026/cards-0012.md#paper-153284)
+- [The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL.](../../conferences/neurips-2026/cards-0012.md#paper-151614)
+- [Thinking with Images as Continuous Policy: Numerical Visual Chain-of-Thought](../../conferences/neurips-2026/cards-0012.md#paper-150085)
+- [Thinking with Imitation: Adaptive Reinforcement-Imitation Learning for Tool-Augmented Scientific Reasoning](../../conferences/neurips-2026/cards-0012.md#paper-148479)
+- [Think, Plan, Paint: Layout-Aware Reasoning for Controllable Image Generation in Unified Models](../../conferences/neurips-2026/cards-0012.md#paper-149971)
+- [Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling](../../conferences/neurips-2026/cards-0012.md#paper-149446)
+- [Think-with-Rubrics: From External Evaluator to Internal Reasoning Guidance](../../conferences/neurips-2026/cards-0012.md#paper-151335)
+- [TIC-GRPO: Provable and Efficient Optimization for Reinforcement Learning from Human Feedback](../../conferences/neurips-2026/cards-0012.md#paper-150989)
+- [TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition](../../conferences/neurips-2026/cards-0012.md#paper-154119)
 
 <!-- conference-classification:end -->

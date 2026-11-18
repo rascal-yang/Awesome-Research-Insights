@@ -615,3 +615,4 @@
 | 大语言模型 | 理论与统计 | [The Price of Choosing Examples: Context Overfitting in Adaptive In-Context Learning](cards-0011.md#paper-153995) | 上下文检索的泛化保证考虑挑选适应性 |
 | 机器学习基础与统计 | 训练与优化 | [The Price of Locality: Why Forward-Forward Underperforms Backpropagation?](cards-0011.md#paper-154189) | 深网本地训练检查各层错误信号是否趋同 |
 | 大语言模型 | 效率与系统 | [The Quantization Benefits of Residual-Free Transformers](cards-0011.md#paper-156016) | 将可量化性作为 Transformer 架构选择维度 |
+| 生成模型 | 图像编辑 | [The Quiet Prompt: Erasing Ineffable Styles from Diffusion Models via Concept Leakage-aware Negative Guidance](cards-0011.md#paper-151233) | 难用文本描述的擦除用参照图并分时调负引导。 |

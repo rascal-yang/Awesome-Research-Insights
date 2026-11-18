@@ -402,5 +402,9 @@ Data selection, annotation, augmentation, and sampling.
 - [The Alien Space of Science: Sampling Coherent but Cognitively Unavailable Research Directions](../../conferences/neurips-2026/cards-0011.md#paper-152222)
 - [The Horizon Threshold in Cooperative Multi-Agent Reward-Free Exploration](../../conferences/neurips-2026/cards-0011.md#paper-149477)
 - [The Missing Corpus: Infinite Ground Truth for File-Grounded LLM Evaluation](../../conferences/neurips-2026/cards-0011.md#paper-139327)
+- [The Sample Complexity of Multiple Change Point Identification under Bandit Feedback](../../conferences/neurips-2026/cards-0012.md#paper-152674)
+- [The Sampling Complexity of Condorcet Winner Identification in Dueling Bandits](../../conferences/neurips-2026/cards-0012.md#paper-151146)
+- [TIGER: Bridging the Multimodal Reasoning-Access Gap via Modality Counterfactuals](../../conferences/neurips-2026/cards-0012.md#paper-152182)
+- [TimeWarp: Evaluating Web Agents by Revisiting the Past](../../conferences/neurips-2026/cards-0012.md#paper-139159)
 
 <!-- conference-classification:end -->

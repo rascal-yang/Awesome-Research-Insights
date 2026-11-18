@@ -975,5 +975,11 @@
 - [The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation](../conferences/neurips-2026/cards-0011.md#paper-149824)
 - [The Path Not Taken: RLVR Learns Off the Principals](../conferences/neurips-2026/cards-0011.md#paper-155162)
 - [The Price of Locality: Why Forward-Forward Underperforms Backpropagation?](../conferences/neurips-2026/cards-0011.md#paper-154189)
+- [The Shape of Events: Edge-Based Inductive Biases via Cross-Domain Distillation](../conferences/neurips-2026/cards-0012.md#paper-148705)
+- [The Surprising Effectiveness of Deleting Weights in LLM Reasoning and Adaptation](../conferences/neurips-2026/cards-0012.md#paper-154971)
+- [TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](../conferences/neurips-2026/cards-0012.md#paper-154023)
+- [TIMA: Test-Time Internalization for Agentic Memory](../conferences/neurips-2026/cards-0012.md#paper-150957)
+- [Token-Conditional Expert Dropout: Implicit Regularization for Stable MoE Pretraining](../conferences/neurips-2026/cards-0012.md#paper-151823)
+- [TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs](../conferences/neurips-2026/cards-0012.md#paper-152684)
 
 <!-- conference-classification:end -->

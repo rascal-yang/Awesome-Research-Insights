@@ -1161,5 +1161,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Theoretical Limits of Language Model Alignment](../../conferences/neurips-2026/cards-0011.md#paper-153597)
 - [Theory on Attention Dynamics for Out-of-Distribution In-Context Learning](../../conferences/neurips-2026/cards-0011.md#paper-155001)
 - [The Price of Choosing Examples: Context Overfitting in Adaptive In-Context Learning](../../conferences/neurips-2026/cards-0011.md#paper-153995)
+- [The two clocks and the innovation window: When and how generative models learn rules](../../conferences/neurips-2026/cards-0012.md#paper-155088)
+- [ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](../../conferences/neurips-2026/cards-0012.md#paper-150698)
 
 <!-- conference-classification:end -->

@@ -1244,5 +1244,14 @@
 - [The Illusion of Forgetting: Rank Leakage in Knowledge Editing and Its Mitigation](../conferences/neurips-2026/cards-0011.md#paper-153910)
 - [The limbic navigation system as a hierarchical RNN](../conferences/neurips-2026/cards-0011.md#paper-154055)
 - [The Quantization Benefits of Residual-Free Transformers](../conferences/neurips-2026/cards-0011.md#paper-156016)
+- [The Quiet Prompt: Erasing Ineffable Styles from Diffusion Models via Concept Leakage-aware Negative Guidance](../conferences/neurips-2026/cards-0011.md#paper-151233)
+- [The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction](../conferences/neurips-2026/cards-0012.md#paper-153628)
+- [The road reaches every place, the short cut only one: Self-Adversarial Shortcut Mitigation for AI-Generated Image Detection](../conferences/neurips-2026/cards-0012.md#paper-151317)
+- [The Score Kalman Filter](../conferences/neurips-2026/cards-0012.md#paper-149695)
+- [ThinkSafe: Self-Generated Safety Alignment for Reasoning Models](../conferences/neurips-2026/cards-0012.md#paper-150302)
+- [TIDE: Asymmetric Neural Circuits for Stabilized Temporal Inhibitory-Excitatory Dynamics](../conferences/neurips-2026/cards-0012.md#paper-150963)
+- [TIDES: Implicit Time-Awareness in Selective State Space Models](../conferences/neurips-2026/cards-0012.md#paper-150579)
+- [TIDE: Trajectory-Aware Watermark Propagation for Text-to-Image Diffusion Models](../conferences/neurips-2026/cards-0012.md#paper-155911)
+- [To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals](../conferences/neurips-2026/cards-0012.md#paper-152547)
 
 <!-- conference-classification:end -->

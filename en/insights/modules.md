@@ -469,5 +469,8 @@ Reusable components and local changes to model inputs or connections.
 - [The Butterfly Effect in Reasoning: Branch-Structured Distributional Memory for Stochastic Agents](../../conferences/neurips-2026/cards-0011.md#paper-154844)
 - [The Kernel Reality Check: Benchmarking and Distilling Efficient Attention at Scale](../../conferences/neurips-2026/cards-0011.md#paper-149008)
 - [The Key to Going Linear: Analysis-Driven Transformer Linearization](../../conferences/neurips-2026/cards-0011.md#paper-151267)
+- [The risk of KV cache compression](../../conferences/neurips-2026/cards-0012.md#paper-153754)
+- [The Scaling Laws of Skills in LLM Agent Systems](../../conferences/neurips-2026/cards-0012.md#paper-150189)
+- [The Value of Being Wrong: Self-Mined Visual In-Context Learning from Errors](../../conferences/neurips-2026/cards-0012.md#paper-151028)
 
 <!-- conference-classification:end -->

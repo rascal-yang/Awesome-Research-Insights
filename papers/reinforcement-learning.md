@@ -716,5 +716,7 @@
 - [The Dynamics of Policy Gradient in Social Dilemmas with Partner Selection](../conferences/neurips-2026/cards-0011.md#paper-151912)
 - [The Horizon Threshold in Cooperative Multi-Agent Reward-Free Exploration](../conferences/neurips-2026/cards-0011.md#paper-149477)
 - [The Laplacian Keyboard: Beyond the Linear Span](../conferences/neurips-2026/cards-0011.md#paper-155777)
+- [The Reciprocity Gradient](../conferences/neurips-2026/cards-0012.md#paper-153284)
+- [Tight Gap-Dependent Regret Bounds and Problem-Independent Bounds for Cost-aware Cascading Bandits](../conferences/neurips-2026/cards-0012.md#paper-149412)
 
 <!-- conference-classification:end -->

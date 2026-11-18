@@ -1453,5 +1453,13 @@
 - [The Era of Agentic Organization: Learning to Organize with Language Models](../conferences/neurips-2026/cards-0011.md#paper-154763)
 - [The Geometry of Generative Latents: Navigability and Invertibility](../conferences/neurips-2026/cards-0011.md#paper-149230)
 - [Theoretical guidelines for annealed Langevin dynamics in compositional simulation-based inference](../conferences/neurips-2026/cards-0011.md#paper-148461)
+- [The Value of Covariance Matching in Gaussian DDPMs and the Lanczos Sampler](../conferences/neurips-2026/cards-0012.md#paper-148184)
+- [The VLM as Sensor: Bayesian Active Search for Long Video Understanding](../conferences/neurips-2026/cards-0012.md#paper-153414)
+- [Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](../conferences/neurips-2026/cards-0012.md#paper-148599)
+- [Thinking with Visual Primitives](../conferences/neurips-2026/cards-0012.md#paper-154630)
+- [Thompson Sampling using Prior-fitted Diffusion Transformers](../conferences/neurips-2026/cards-0012.md#paper-150531)
+- [Tight Gap-Dependent Regret Bounds and Problem-Independent Bounds for Cost-aware Cascading Bandits](../conferences/neurips-2026/cards-0012.md#paper-149412)
+- [Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration](../conferences/neurips-2026/cards-0012.md#paper-155298)
+- [TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding](../conferences/neurips-2026/cards-0012.md#paper-155785)
 
 <!-- conference-classification:end -->

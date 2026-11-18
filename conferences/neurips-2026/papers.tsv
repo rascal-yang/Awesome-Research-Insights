@@ -8055,132 +8055,132 @@ poster_id	title	paper_url	status	reason
 155481	The Price of Locality in Label Privacy: Optimal Rates for Classification and Regression	https://neurips.cc/virtual/2026/poster/155481	excluded	主要为局部标签隐私理论复杂度，未验证当前重点场景。
 154189	The Price of Locality: Why Forward-Forward Underperforms Backpropagation?	https://neurips.cc/virtual/2026/poster/154189	included	深网本地训练检查各层错误信号是否趋同
 156016	The Quantization Benefits of Residual-Free Transformers	https://neurips.cc/virtual/2026/poster/156016	included	将可量化性作为 Transformer 架构选择维度
-155985	The Query Complexity of Local Search in Rounds on General Graphs	https://neurips.cc/virtual/2026/poster/155985	pending	-
-151233	The Quiet Prompt: Erasing Ineffable Styles from Diffusion Models via Concept Leakage-aware Negative Guidance	https://neurips.cc/virtual/2026/poster/151233	pending	-
-139071	TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots	https://neurips.cc/virtual/2026/poster/139071	pending	-
-152613	The Rate-Distortion-Polysemanticity Tradeoff in SAEs	https://neurips.cc/virtual/2026/poster/152613	pending	-
-153243	There are Levels to It: Red Teaming LLMs with Hierarchical Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153243	pending	-
-150680	The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models	https://neurips.cc/virtual/2026/poster/150680	pending	-
-153284	The Reciprocity Gradient	https://neurips.cc/virtual/2026/poster/153284	pending	-
-153628	The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction	https://neurips.cc/virtual/2026/poster/153628	pending	-
-151614	The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL.	https://neurips.cc/virtual/2026/poster/151614	pending	-
-154852	The Ringelmann Effect in Multi-Agent LLM Systems: A Scaling Law for Effective Team Size	https://neurips.cc/virtual/2026/poster/154852	pending	-
-153754	The risk of KV cache compression	https://neurips.cc/virtual/2026/poster/153754	pending	-
-139289	The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset	https://neurips.cc/virtual/2026/poster/139289	pending	-
-151317	The road reaches every place, the short cut only one: Self-Adversarial Shortcut Mitigation for AI-Generated Image Detection	https://neurips.cc/virtual/2026/poster/151317	pending	-
-139474	The Ruler and the Judge: Benchmark-Conditional Evaluation of LLM-as-a-Judge	https://neurips.cc/virtual/2026/poster/139474	pending	-
-152674	The Sample Complexity of Multiple Change Point Identification under Bandit Feedback	https://neurips.cc/virtual/2026/poster/152674	pending	-
-151146	The Sampling Complexity of Condorcet Winner Identification in Dueling Bandits	https://neurips.cc/virtual/2026/poster/151146	pending	-
-150189	The Scaling Laws of Skills in LLM Agent Systems	https://neurips.cc/virtual/2026/poster/150189	pending	-
-151564	The Scaling Paradox of Tool-Calling LLM Agents Under Realistic MCP Faults	https://neurips.cc/virtual/2026/poster/151564	pending	-
-149695	The Score Kalman Filter	https://neurips.cc/virtual/2026/poster/149695	pending	-
-151510	The SEC Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data	https://neurips.cc/virtual/2026/poster/151510	pending	-
-149565	The Shape of a Program: Path Signatures for Trace-to-Program Induction	https://neurips.cc/virtual/2026/poster/149565	pending	-
-148705	The Shape of Events: Edge-Based Inductive Biases via Cross-Domain Distillation	https://neurips.cc/virtual/2026/poster/148705	pending	-
-151909	The Sharp Directions Are Against You: Curvature Analysis of Activation Steering	https://neurips.cc/virtual/2026/poster/151909	pending	-
-155585	The Sign Code: The Hidden Binary Nature of Deep Networks	https://neurips.cc/virtual/2026/poster/155585	pending	-
-155935	The Silent Hyperparameter: Quantifying the Impact of Inference Backends on LLM Reproducibility	https://neurips.cc/virtual/2026/poster/155935	pending	-
-139484	The Smart Buildings Control Suite: A Diverse Open Source Benchmark to Evaluate and Scale HVAC Control Policies for Sustainability	https://neurips.cc/virtual/2026/poster/139484	pending	-
-152487	The Sparsity Whisperer	https://neurips.cc/virtual/2026/poster/152487	pending	-
-154528	The Spectral Amplitude Principle for Dynamics of Quantum Neural Networks	https://neurips.cc/virtual/2026/poster/154528	pending	-
-149387	The Stability of Data Exchange in Competitive Markets	https://neurips.cc/virtual/2026/poster/149387	pending	-
-151725	The Stability of Online Algorithms in Performative Prediction	https://neurips.cc/virtual/2026/poster/151725	pending	-
-149714	The State-Prediction Separation Hypothesis	https://neurips.cc/virtual/2026/poster/149714	pending	-
-148482	The Structural Bias of $\ell_2$-Regularized Cross-Entropy Heads in Class-Incremental Learning: Characterization, Limits, and a Gauge-Anchoring Fix	https://neurips.cc/virtual/2026/poster/148482	pending	-
-153977	The Subjectivity of Monoculture	https://neurips.cc/virtual/2026/poster/153977	pending	-
-154747	The sublevel Flood bifiltration: towards scalable 2-parameter persistent homology	https://neurips.cc/virtual/2026/poster/154747	pending	-
-152150	The SuperActivator Mechanism: Transformers Concentrate Reliable Concept Signals in the Tail	https://neurips.cc/virtual/2026/poster/152150	pending	-
-154971	The Surprising Effectiveness of Deleting Weights in LLM Reasoning and Adaptation	https://neurips.cc/virtual/2026/poster/154971	pending	-
-149266	The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction	https://neurips.cc/virtual/2026/poster/149266	pending	-
-150294	The Symmetries of Three-Layer ReLU Networks	https://neurips.cc/virtual/2026/poster/150294	pending	-
-139825	The Text Uncanny Valley: Non-Monotonic Performance Degradation in LLM Information Retrieval	https://neurips.cc/virtual/2026/poster/139825	pending	-
-155088	The two clocks and the innovation window: When and how generative models learn rules	https://neurips.cc/virtual/2026/poster/155088	pending	-
-151895	The Type Theory of Stationary MDPs: Rare Events and Uncertainty Quantification	https://neurips.cc/virtual/2026/poster/151895	pending	-
-149581	The Unembedding Bottleneck: A Mechanistic Analysis of Single Digit Counting in LLMs	https://neurips.cc/virtual/2026/poster/149581	pending	-
-155378	The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering	https://neurips.cc/virtual/2026/poster/155378	pending	-
-151028	The Value of Being Wrong: Self-Mined Visual In-Context Learning from Errors	https://neurips.cc/virtual/2026/poster/151028	pending	-
-148184	The Value of Covariance Matching in Gaussian DDPMs and the Lanczos Sampler	https://neurips.cc/virtual/2026/poster/148184	pending	-
-153414	The VLM as Sensor: Bayesian Active Search for Long Video Understanding	https://neurips.cc/virtual/2026/poster/153414	pending	-
+155985	The Query Complexity of Local Search in Rounds on General Graphs	https://neurips.cc/virtual/2026/poster/155985	excluded	图局部搜索查询界依赖离散图 oracle，摘要未明确可复用的目标研究选择。
+151233	The Quiet Prompt: Erasing Ineffable Styles from Diffusion Models via Concept Leakage-aware Negative Guidance	https://neurips.cc/virtual/2026/poster/151233	included	难用文本描述的擦除用参照图并分时调负引导。
+139071	TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots	https://neurips.cc/virtual/2026/poster/139071	included	专业对话验收把流程忠实性和临床安全分开。
+152613	The Rate-Distortion-Polysemanticity Tradeoff in SAEs	https://neurips.cc/virtual/2026/poster/152613	included	稀疏自编码器按单双义、码率和重构共同选。
+153243	There are Levels to It: Red Teaming LLMs with Hierarchical Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153243	excluded	主要贡献为自动化交互攻击优化，排除该流程。
+150680	The Reasoning Boundary Paradox: How Reinforcement Learning Constrains Language Models	https://neurips.cc/virtual/2026/poster/150680	included	RLVR 增强平均正确率时同时保护通过分布尾部。
+153284	The Reciprocity Gradient	https://neurips.cc/virtual/2026/poster/153284	included	交互中对对手响应做可微建模。
+153628	The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction	https://neurips.cc/virtual/2026/poster/153628	included	部署模型互相适应时先估响应耦合。
+151614	The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL.	https://neurips.cc/virtual/2026/poster/151614	included	流匹配后训练对生成样本用判别反馈。
+154852	The Ringelmann Effect in Multi-Agent LLM Systems: A Scaling Law for Effective Team Size	https://neurips.cc/virtual/2026/poster/154852	included	多代理辩论加同成本无信息重看对照。
+153754	The risk of KV cache compression	https://neurips.cc/virtual/2026/poster/153754	included	KV 压缩先估缓存内禀可压缩性。
+139289	The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset	https://neurips.cc/virtual/2026/poster/139289	excluded	主要贡献是 KITScenes 自驾多传感数据及四常见任务，未独立建立机制。
+151317	The road reaches every place, the short cut only one: Self-Adversarial Shortcut Mitigation for AI-Generated Image Detection	https://neurips.cc/virtual/2026/poster/151317	included	生成检测去捷径时保多种伪影维度。
+139474	The Ruler and the Judge: Benchmark-Conditional Evaluation of LLM-as-a-Judge	https://neurips.cc/virtual/2026/poster/139474	included	裁判验证改为按基准、维度和模型切片。
+152674	The Sample Complexity of Multiple Change Point Identification under Bandit Feedback	https://neurips.cc/virtual/2026/poster/152674	included	主动找变化点先粗定位再局部加密。
+151146	The Sampling Complexity of Condorcet Winner Identification in Dueling Bandits	https://neurips.cc/virtual/2026/poster/151146	included	两两偏好选最优时也比较非胜者对。
+150189	The Scaling Laws of Skills in LLM Agent Systems	https://neurips.cc/virtual/2026/poster/150189	included	技能库扩容分别验路由衰退和执行后补救。
+151564	The Scaling Paradox of Tool-Calling LLM Agents Under Realistic MCP Faults	https://neurips.cc/virtual/2026/poster/151564	included	工具代理规模比较加入重试和连通性故障。
+149695	The Score Kalman Filter	https://neurips.cc/virtual/2026/poster/149695	included	非高斯滤波的矩更新可复用 score 参数。
+151510	The SEC Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data	https://neurips.cc/virtual/2026/poster/151510	excluded	摘要主要整理财务语料和两任务，未给可独立复用并经对照的机制。
+149565	The Shape of a Program: Path Signatures for Trace-to-Program Induction	https://neurips.cc/virtual/2026/poster/149565	included	从运行轨迹反推程序时用路径签名编码有序交互。
+148705	The Shape of Events: Edge-Based Inductive Biases via Cross-Domain Distillation	https://neurips.cc/virtual/2026/poster/148705	included	用事件域教师蒸馏发掘视觉编码器的形状偏置。
+151909	The Sharp Directions Are Against You: Curvature Analysis of Activation Steering	https://neurips.cc/virtual/2026/poster/151909	included	激活干预前测行为损失关于方向的局部曲率。
+155585	The Sign Code: The Hidden Binary Nature of Deep Networks	https://neurips.cc/virtual/2026/poster/155585	included	用保持激活符号的幅值扰动测试分类信息来源。
+155935	The Silent Hyperparameter: Quantifying the Impact of Inference Backends on LLM Reproducibility	https://neurips.cc/virtual/2026/poster/155935	included	模型复现实验固定推理后端、算子和精度。
+139484	The Smart Buildings Control Suite: A Diverse Open Source Benchmark to Evaluate and Scale HVAC Control Policies for Sustainability	https://neurips.cc/virtual/2026/poster/139484	excluded	主要是楼宇数据、仿真和控制基准的集成，摘要没有给通用策略机制。
+152487	The Sparsity Whisperer	https://neurips.cc/virtual/2026/poster/152487	included	剪枝保留对样本成对差异有贡献的权重。
+154528	The Spectral Amplitude Principle for Dynamics of Quantum Neural Networks	https://neurips.cc/virtual/2026/poster/154528	excluded	结果主要在量子网络和频谱模型中成立，摘要未验证向目标深度模型迁移的条件。
+149387	The Stability of Data Exchange in Competitive Markets	https://neurips.cc/virtual/2026/poster/149387	excluded	数据交换稳定经济均衡缺少可直接更改模型设计的证据。
+151725	The Stability of Online Algorithms in Performative Prediction	https://neurips.cc/virtual/2026/poster/151725	excluded	优化影响数据生成的稳定性虽有启发，摘要所述限制不足以转成具体部署决策。
+149714	The State-Prediction Separation Hypothesis	https://neurips.cc/virtual/2026/poster/149714	included	把构建上下文状态和输出预测的职责分开训练。
+148482	The Structural Bias of $\ell_2$-Regularized Cross-Entropy Heads in Class-Incremental Learning: Characterization, Limits, and a Gauge-Anchoring Fix	https://neurips.cc/virtual/2026/poster/148482	included	类增量分类器检查各任务 logits 的中心偏移并做后置校正。
+153977	The Subjectivity of Monoculture	https://neurips.cc/virtual/2026/poster/153977	excluded	模型一致性的测量原则有启发，但摘要主要是定义与评测选择，缺少实证支持具体取舍。
+154747	The sublevel Flood bifiltration: towards scalable 2-parameter persistent homology	https://neurips.cc/virtual/2026/poster/154747	excluded	双参数持久同调特征现仅在低维和时序任务上给出证据，摘要不足以确定主要场景的迁移价值。
+152150	The SuperActivator Mechanism: Transformers Concentrate Reliable Concept Signals in the Tail	https://neurips.cc/virtual/2026/poster/152150	included	概念探针优先判断少数极端激活是否比全体向量更忠实。
+154971	The Surprising Effectiveness of Deleting Weights in LLM Reasoning and Adaptation	https://neurips.cc/virtual/2026/poster/154971	included	冻结权重时学习门控投影的保留或清零掩码。
+149266	The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction	https://neurips.cc/virtual/2026/poster/149266	included	把视频扩散的时序形变先验用于遮挡下的手部运动。
+150294	The Symmetries of Three-Layer ReLU Networks	https://neurips.cc/virtual/2026/poster/150294	excluded	三层 ReLU 的对称分类依赖几何假设，摘要未给架构决策或实证。
+139825	The Text Uncanny Valley: Non-Monotonic Performance Degradation in LLM Information Retrieval	https://neurips.cc/virtual/2026/poster/139825	included	文本检索对噪声做连续强度扫描，不假定越乱越难。
+155088	The two clocks and the innovation window: When and how generative models learn rules	https://neurips.cc/virtual/2026/poster/155088	included	生成规则任务中分开监测学会规则和复现训练样本的时间。
+151895	The Type Theory of Stationary MDPs: Rare Events and Uncertainty Quantification	https://neurips.cc/virtual/2026/poster/151895	excluded	主要是有限受控 Markov 系统的稀有事件统计理论。
+149581	The Unembedding Bottleneck: A Mechanistic Analysis of Single Digit Counting in LLMs	https://neurips.cc/virtual/2026/poster/149581	included	事实或计数失败先测隐藏表征是否已能读出
+155378	The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering	https://neurips.cc/virtual/2026/poster/155378	excluded	可复用文本插值与下一批 token 对齐方案接近，摘要未说明关键有效机制。
+151028	The Value of Being Wrong: Self-Mined Visual In-Context Learning from Errors	https://neurips.cc/virtual/2026/poster/151028	included	视觉 ICL 选能纠正预测错误的案例
+148184	The Value of Covariance Matching in Gaussian DDPMs and the Lanczos Sampler	https://neurips.cc/virtual/2026/poster/148184	included	少步 DDPM 比较完整协方差与对角假设
+153414	The VLM as Sensor: Bayesian Active Search for Long Video Understanding	https://neurips.cc/virtual/2026/poster/153414	included	长视频主动搜索按不确定消解给逐步信用
 137826	The Voice-Native Classroom: Multilingual AI Co-Teachers for Global ML Education	https://neurips.cc/virtual/2026/poster/137826	excluded	摘要介绍语音教学工具的试点与扩展，未给出可独立复用的技术设计或能指导工具选择的对照。
 137856	The Voice-Native Classroom: Multilingual AI Co-Teachers for Global ML Education	https://neurips.cc/virtual/2026/poster/137856	excluded	与 137826 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137850	The Voice-Native Classroom: Multilingual AI Co-Teachers for Global ML Education	https://neurips.cc/virtual/2026/poster/137850	excluded	与 137826 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137874	The Voice-Native Classroom: Multilingual AI Co-Teachers for Global ML Education	https://neurips.cc/virtual/2026/poster/137874	excluded	与 137826 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137880	The Voice-Native Classroom: Multilingual AI Co-Teachers for Global ML Education	https://neurips.cc/virtual/2026/poster/137880	excluded	与 137826 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137832	The Voice-Native Classroom: Multilingual AI Co-Teachers for Global ML Education	https://neurips.cc/virtual/2026/poster/137832	excluded	与 137826 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
-149493	The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents	https://neurips.cc/virtual/2026/poster/149493	pending	-
-152900	The Weight Gram Matrix Captures Sequential Feature Linearization in Deep Networks	https://neurips.cc/virtual/2026/poster/152900	pending	-
-140041	The Window for Preventive Action Before AI Saturates Most Cognitive Benchmarks is Closing	https://neurips.cc/virtual/2026/poster/140041	pending	-
-155515	The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models	https://neurips.cc/virtual/2026/poster/155515	pending	-
-151372	They Can See It but not Say It: Iterative Self Knowledge Re-expression in Visual Reasoning Relative Pose Identification	https://neurips.cc/virtual/2026/poster/151372	pending	-
-156658	The Z-Gromov-Wasserstein Distance	https://neurips.cc/virtual/2026/poster/156658	pending	-
-156768	Think2SQL: Blueprinting Reward Density and Advantage Scaling for Effective Text-to-SQL Reasoning	https://neurips.cc/virtual/2026/poster/156768	pending	-
-139993	Think about how AIs think about themselves	https://neurips.cc/virtual/2026/poster/139993	pending	-
-155232	Think Before You Generate: Active Panoramic Exploration for Text-to-3D Scenes	https://neurips.cc/virtual/2026/poster/155232	pending	-
-149058	Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving	https://neurips.cc/virtual/2026/poster/149058	pending	-
-155101	Thinking in Boxes: 3D Editing in Real Images Made Easy	https://neurips.cc/virtual/2026/poster/155101	pending	-
-139488	Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation	https://neurips.cc/virtual/2026/poster/139488	pending	-
-150085	Thinking with Images as Continuous Policy: Numerical Visual Chain-of-Thought	https://neurips.cc/virtual/2026/poster/150085	pending	-
-148599	Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators	https://neurips.cc/virtual/2026/poster/148599	pending	-
-148479	Thinking with Imitation: Adaptive Reinforcement-Imitation Learning for Tool-Augmented Scientific Reasoning	https://neurips.cc/virtual/2026/poster/148479	pending	-
-154630	Thinking with Visual Primitives	https://neurips.cc/virtual/2026/poster/154630	pending	-
-150698	ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model	https://neurips.cc/virtual/2026/poster/150698	pending	-
-149971	Think, Plan, Paint: Layout-Aware Reasoning for Controllable Image Generation in Unified Models	https://neurips.cc/virtual/2026/poster/149971	pending	-
-150302	ThinkSafe: Self-Generated Safety Alignment for Reasoning Models	https://neurips.cc/virtual/2026/poster/150302	pending	-
-149446	Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling	https://neurips.cc/virtual/2026/poster/149446	pending	-
-151335	Think-with-Rubrics: From External Evaluator to Internal Reasoning Guidance	https://neurips.cc/virtual/2026/poster/151335	pending	-
-150531	Thompson Sampling using Prior-fitted Diffusion Transformers	https://neurips.cc/virtual/2026/poster/150531	pending	-
-139538	ThousandWorlds: A benchmark for emulating the climates of potentially habitable exoplanets	https://neurips.cc/virtual/2026/poster/139538	pending	-
-148911	TIB: Sample-wise Tempered Information Bottleneck for Multimodal Attribution beyond Alignment Assumption	https://neurips.cc/virtual/2026/poster/148911	pending	-
-150989	TIC-GRPO: Provable and Efficient Optimization for Reinforcement Learning from Human Feedback	https://neurips.cc/virtual/2026/poster/150989	pending	-
-150963	TIDE: Asymmetric Neural Circuits for Stabilized Temporal Inhibitory-Excitatory Dynamics	https://neurips.cc/virtual/2026/poster/150963	pending	-
-152874	TIDE: Every Layer Knows the Token Beneath the Context	https://neurips.cc/virtual/2026/poster/152874	pending	-
-150579	TIDES: Implicit Time-Awareness in Selective State Space Models	https://neurips.cc/virtual/2026/poster/150579	pending	-
-155911	TIDE: Trajectory-Aware Watermark Propagation for Text-to-Image Diffusion Models	https://neurips.cc/virtual/2026/poster/155911	pending	-
-154119	TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition	https://neurips.cc/virtual/2026/poster/154119	pending	-
-152182	TIGER: Bridging the Multimodal Reasoning-Access Gap via Modality Counterfactuals	https://neurips.cc/virtual/2026/poster/152182	pending	-
-154023	TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval	https://neurips.cc/virtual/2026/poster/154023	pending	-
-150147	Tight $L_\infty$ Sample Complexity for Low-Degree and Sparse Boolean Polynomials	https://neurips.cc/virtual/2026/poster/150147	pending	-
-149412	Tight Gap-Dependent Regret Bounds and Problem-Independent Bounds for Cost-aware Cascading Bandits	https://neurips.cc/virtual/2026/poster/149412	pending	-
-150967	Tight Generalization Bounds for Noiseless Inverse Optimization	https://neurips.cc/virtual/2026/poster/150967	pending	-
-150040	Tight PAC-Bayes Generalisation Guarantees for Large Language Model Safety Monitoring	https://neurips.cc/virtual/2026/poster/150040	pending	-
-155298	Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration	https://neurips.cc/virtual/2026/poster/155298	pending	-
-155899	TILT: Target-induced loss tilting under covariate shift	https://neurips.cc/virtual/2026/poster/155899	pending	-
-150957	TIMA: Test-Time Internalization for Agentic Memory	https://neurips.cc/virtual/2026/poster/150957	pending	-
-153295	TimeClaw: A Time-Series AI Agent with Exploratory Execution Learning	https://neurips.cc/virtual/2026/poster/153295	pending	-
-154967	TimeES: Probabilistic and Deterministic Time Series Forecasting via Evolutionary Spectra	https://neurips.cc/virtual/2026/poster/154967	pending	-
-155904	Time-Frequency Decoupled Cross-Scale Partial Optimal Transport for Time Series Domain Adaptation	https://neurips.cc/virtual/2026/poster/155904	pending	-
-152338	Time–Frequency Non-Stationary Modeling for Multivariate Time Series Forecasting	https://neurips.cc/virtual/2026/poster/152338	pending	-
-155398	TimeOperator: A Function-to-Function Approach to Time Series Modeling	https://neurips.cc/virtual/2026/poster/155398	pending	-
-148853	Time-Sensitive Anytime-Valid Testing	https://neurips.cc/virtual/2026/poster/148853	pending	-
-155395	Time series analysis with Gumbel dynamics	https://neurips.cc/virtual/2026/poster/155395	pending	-
-152955	TimeTok: Granularity-Controllable Time-Series Generation via Hierarchical Tokenization	https://neurips.cc/virtual/2026/poster/152955	pending	-
-150483	Time to Pay Attention! Understanding High Complexity Corpus Reasoning Tasks	https://neurips.cc/virtual/2026/poster/150483	pending	-
-155785	TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding	https://neurips.cc/virtual/2026/poster/155785	pending	-
-139159	TimeWarp: Evaluating Web Agents by Revisiting the Past	https://neurips.cc/virtual/2026/poster/139159	pending	-
-151527	Timing Is All You Need: SpikeCore, Learnable Delays, and Gain Control for Neuromorphic Classification	https://neurips.cc/virtual/2026/poster/151527	pending	-
-151460	Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/151460	pending	-
-155663	Tio: Language Models with Parallel Streams of Thoughts, Inputs and Outputs	https://neurips.cc/virtual/2026/poster/155663	pending	-
-151700	TiRex-2: Generalizing TiRex to Multivariate Data and Streaming	https://neurips.cc/virtual/2026/poster/151700	pending	-
-153921	TKCAM: Text and Keyframe to Camera Trajectory Generation	https://neurips.cc/virtual/2026/poster/153921	pending	-
-152405	TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment	https://neurips.cc/virtual/2026/poster/152405	pending	-
-149496	To Align or Not To Align: Check Your COMPASS Before You Train	https://neurips.cc/virtual/2026/poster/149496	pending	-
-151332	To Call or Not to Call: Diagnosing Intrinsic Over-Calling Bias in LLM Agents	https://neurips.cc/virtual/2026/poster/151332	pending	-
-152547	To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals	https://neurips.cc/virtual/2026/poster/152547	pending	-
-152233	To discretize continually: Mean shift interacting particle systems for Bayesian inference	https://neurips.cc/virtual/2026/poster/152233	pending	-
-152016	Token by Token, Compromised: Backdoor Vulnerabilities in Unified Autoregressive Models	https://neurips.cc/virtual/2026/poster/152016	pending	-
-151659	TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection	https://neurips.cc/virtual/2026/poster/151659	pending	-
-151823	Token-Conditional Expert Dropout: Implicit Regularization for Stable MoE Pretraining	https://neurips.cc/virtual/2026/poster/151823	pending	-
-152587	Token Filtering: Online Attention Pruning via KV Similarity for Efficient LLM Inference	https://neurips.cc/virtual/2026/poster/152587	pending	-
-153346	Token Inflation: How Dishonest Providers Can Overcharge for Large Language Model Usage	https://neurips.cc/virtual/2026/poster/153346	pending	-
-154486	Tokenization and Architecture Jointly Allocate Component Roles in Time Series Transformers	https://neurips.cc/virtual/2026/poster/154486	pending	-
-150812	Tokenizer Choice Shapes Generalization in State-Centric Learning for Planning	https://neurips.cc/virtual/2026/poster/150812	pending	-
-148519	Tokenizer-Generator Coupling in Medical Image Generation	https://neurips.cc/virtual/2026/poster/148519	pending	-
-148516	TokenRepel: Generating Diverse Image Sets Without Sacrificing Quality	https://neurips.cc/virtual/2026/poster/148516	pending	-
-152140	TokenRouter: Efficient Serving System for Token-Level LLM Routing	https://neurips.cc/virtual/2026/poster/152140	pending	-
-149648	Tokens-per-Parameter Coverage Is Critical for Robust LLM Scaling Law Extrapolation	https://neurips.cc/virtual/2026/poster/149648	pending	-
-152684	TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs	https://neurips.cc/virtual/2026/poster/152684	pending	-
-153937	Token Time Continuous Diffusion for Language Modeling	https://neurips.cc/virtual/2026/poster/153937	pending	-
-151884	Token-to-Token Alignment of Text Embeddings for Semantic Blending	https://neurips.cc/virtual/2026/poster/151884	pending	-
+149493	The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents	https://neurips.cc/virtual/2026/poster/149493	excluded	主要训练攻击搜索 Agent 的自动流程，无独立安全非操作性防护结论。
+152900	The Weight Gram Matrix Captures Sequential Feature Linearization in Deep Networks	https://neurips.cc/virtual/2026/poster/152900	excluded	主要为权重 Gram 分析，摘要未给可直接改变当前选型的训练对照。
+140041	The Window for Preventive Action Before AI Saturates Most Cognitive Benchmarks is Closing	https://neurips.cc/virtual/2026/poster/140041	excluded	主要为治理与时间窗口推断，未提供可复用模型技术。
+155515	The World is Not Mono: Enabling Spatial Understanding in Large Audio-Language Models	https://neurips.cc/virtual/2026/poster/155515	included	空间音频理解需明确传感信号和任务层次
+151372	They Can See It but not Say It: Iterative Self Knowledge Re-expression in Visual Reasoning Relative Pose Identification	https://neurips.cc/virtual/2026/poster/151372	excluded	结果在单特定相对位姿输出设置，摘要未隔离主要改进来源。
+156658	The Z-Gromov-Wasserstein Distance	https://neurips.cc/virtual/2026/poster/156658	excluded	主要为最优输运距离理论，缺少重点任务验证。
+156768	Think2SQL: Blueprinting Reward Density and Advantage Scaling for Effective Text-to-SQL Reasoning	https://neurips.cc/virtual/2026/poster/156768	excluded	主要为 SQL 后训练系统和结果蓝图，摘要未独立列奖励密度的实证细节。
+139993	Think about how AIs think about themselves	https://neurips.cc/virtual/2026/poster/139993	excluded	主要是 AI 自我概念与系统设计的倡议。
+155232	Think Before You Generate: Active Panoramic Exploration for Text-to-3D Scenes	https://neurips.cc/virtual/2026/poster/155232	excluded	全景重建多组件共证，摘要没有可独立选择的证据。
+149058	Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving	https://neurips.cc/virtual/2026/poster/149058	excluded	摘要未拆出专家认知路径相较基础模型的独立贡献。
+155101	Thinking in Boxes: 3D Editing in Real Images Made Easy	https://neurips.cc/virtual/2026/poster/155101	excluded	主要为现实影像大尺度编辑的三维结构管线，摘要未列独立机制对照。
+139488	Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation	https://neurips.cc/virtual/2026/poster/139488	excluded	主要为推理生成基准，摘要未给可迁移的设计选择。
+150085	Thinking with Images as Continuous Policy: Numerical Visual Chain-of-Thought	https://neurips.cc/virtual/2026/poster/150085	included	定位输出作为连续动作参与策略学习
+148599	Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators	https://neurips.cc/virtual/2026/poster/148599	included	空间搜索除了训练世界模拟器还需训练何时调用
+148479	Thinking with Imitation: Adaptive Reinforcement-Imitation Learning for Tool-Augmented Scientific Reasoning	https://neurips.cc/virtual/2026/poster/148479	included	同一问题全部 rollout 失败时改用专家示范。
+154630	Thinking with Visual Primitives	https://neurips.cc/virtual/2026/poster/154630	included	视觉推理中间过程用点框标记。
+150698	ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model	https://neurips.cc/virtual/2026/poster/150698	included	世界模型以双速度流分别建密运动和稀语义。
+149971	Think, Plan, Paint: Layout-Aware Reasoning for Controllable Image Generation in Unified Models	https://neurips.cc/virtual/2026/poster/149971	included	复杂指令先学布局计划，再对计划和成图对齐发奖。
+150302	ThinkSafe: Self-Generated Safety Alignment for Reasoning Models	https://neurips.cc/virtual/2026/poster/150302	included	安全补训练使用学生自身筛后的分布。
+149446	Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling	https://neurips.cc/virtual/2026/poster/149446	included	视频奖励训练解耦解释和最终打分。
+151335	Think-with-Rubrics: From External Evaluator to Internal Reasoning Guidance	https://neurips.cc/virtual/2026/poster/151335	included	开放指令训练允许策略先生成量表，再答。
+150531	Thompson Sampling using Prior-fitted Diffusion Transformers	https://neurips.cc/virtual/2026/poster/150531	included	全局优化需要复杂先验时给 Thompson 策略学分布。
+139538	ThousandWorlds: A benchmark for emulating the climates of potentially habitable exoplanets	https://neurips.cc/virtual/2026/poster/139538	included	多模拟器物理替代模型以模拟器间分歧作基线。
+148911	TIB: Sample-wise Tempered Information Bottleneck for Multimodal Attribution beyond Alignment Assumption	https://neurips.cc/virtual/2026/poster/148911	included	对齐不可靠时按样本放松解释信息瓶颈。
+150989	TIC-GRPO: Provable and Efficient Optimization for Reinforcement Learning from Human Feedback	https://neurips.cc/virtual/2026/poster/150989	included	GRPO 离策略校正比较轨迹比与单 token 比。
+150963	TIDE: Asymmetric Neural Circuits for Stabilized Temporal Inhibitory-Excitatory Dynamics	https://neurips.cc/virtual/2026/poster/150963	included	训练内部动态可引入抑制与激发的稳定约束。
+152874	TIDE: Every Layer Knows the Token Beneath the Context	https://neurips.cc/virtual/2026/poster/152874	included	深层语言模型按层重注原始 token 语义。
+150579	TIDES: Implicit Time-Awareness in Selective State Space Models	https://neurips.cc/virtual/2026/poster/150579	included	不规则时序 SSM 将 Δ 留给物理步长。
+155911	TIDE: Trajectory-Aware Watermark Propagation for Text-to-Image Diffusion Models	https://neurips.cc/virtual/2026/poster/155911	included	生成溯源的信号跨整个去噪轨迹验证。
+154119	TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition	https://neurips.cc/virtual/2026/poster/154119	included	多工具奖励判执行有效且结果达成，允许不同路径。
+152182	TIGER: Bridging the Multimodal Reasoning-Access Gap via Modality Counterfactuals	https://neurips.cc/virtual/2026/poster/152182	included	视觉推理访问差距用同语义文字图像反事实配对。
+154023	TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval	https://neurips.cc/virtual/2026/poster/154023	included	拥挤图像商品检索同时保局部定位与全局排序。
+150147	Tight $L_\infty$ Sample Complexity for Low-Degree and Sparse Boolean Polynomials	https://neurips.cc/virtual/2026/poster/150147	excluded	摘要是低度布尔多项式的查询下界与上界，尚未明确目标领域技术选择。
+149412	Tight Gap-Dependent Regret Bounds and Problem-Independent Bounds for Cost-aware Cascading Bandits	https://neurips.cc/virtual/2026/poster/149412	included	级联选项把零成本和有成本分开估。
+150967	Tight Generalization Bounds for Noiseless Inverse Optimization	https://neurips.cc/virtual/2026/poster/150967	excluded	逆优化无噪保证依赖唯一选择和特定一致估计器，摘要无可直接复用的主要方向证据。
+150040	Tight PAC-Bayes Generalisation Guarantees for Large Language Model Safety Monitoring	https://neurips.cc/virtual/2026/poster/150040	included	训练安全监控适配器时把压缩后描述长度用作可认证性指标。
+155298	Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration	https://neurips.cc/virtual/2026/poster/155298	included	扩散缓存区间较长时用正则预测总输出。
+155899	TILT: Target-induced loss tilting under covariate shift	https://neurips.cc/virtual/2026/poster/155899	included	域适应损失对目标误差选择性加罚，避免无界密度比权重。
+150957	TIMA: Test-Time Internalization for Agentic Memory	https://neurips.cc/virtual/2026/poster/150957	included	代理可在执行后把经验更新到潜记忆，并监控持续漂移。
+153295	TimeClaw: A Time-Series AI Agent with Exploratory Execution Learning	https://neurips.cc/virtual/2026/poster/153295	excluded	量化工具结果的成对比较有潜力，但摘要未给具体经验压缩规则或受控迁移证据。
+154967	TimeES: Probabilistic and Deterministic Time Series Forecasting via Evolutionary Spectra	https://neurips.cc/virtual/2026/poster/154967	excluded	演化谱预测主要覆盖时序领域，摘要未给独立验证其何时优于其他谱模型的条件。
+155904	Time-Frequency Decoupled Cross-Scale Partial Optimal Transport for Time Series Domain Adaptation	https://neurips.cc/virtual/2026/poster/155904	excluded	摘要主要呈现时频融合与传输组合结果，未给单独影响和适用边界。
+152338	Time–Frequency Non-Stationary Modeling for Multivariate Time Series Forecasting	https://neurips.cc/virtual/2026/poster/152338	included	时序频谱受非平稳影响时先估计局部可信度。
+155398	TimeOperator: A Function-to-Function Approach to Time Series Modeling	https://neurips.cc/virtual/2026/poster/155398	included	时间序列预测输出可查询的函数，而不是固定间隔向量。
+148853	Time-Sensitive Anytime-Valid Testing	https://neurips.cc/virtual/2026/poster/148853	excluded	最优检验依赖简单假设与时间偏好，摘要未显示给主要模型场景的直接应用。
+155395	Time series analysis with Gumbel dynamics	https://neurips.cc/virtual/2026/poster/155395	included	分段随机过程用连续松弛状态避免不现实的瞬时跳转。
+152955	TimeTok: Granularity-Controllable Time-Series Generation via Hierarchical Tokenization	https://neurips.cc/virtual/2026/poster/152955	included	用层级时间 token 同时支持粗输入和不同粒度输出。
+150483	Time to Pay Attention! Understanding High Complexity Corpus Reasoning Tasks	https://neurips.cc/virtual/2026/poster/150483	included	长文成本分析先分解所需证据操作及其组合复杂度。
+155785	TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding	https://neurips.cc/virtual/2026/poster/155785	included	流式问答给带时间索引的记忆选择查询所需的搜索范围。
+139159	TimeWarp: Evaluating Web Agents by Revisiting the Past	https://neurips.cc/virtual/2026/poster/139159	included	网页导航跨界面训练优先蒸馏行动计划。
+151527	Timing Is All You Need: SpikeCore, Learnable Delays, and Gain Control for Neuromorphic Classification	https://neurips.cc/virtual/2026/poster/151527	included	脉冲模型学习膜时间常数与历史依赖阈值。
+151460	Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/151460	excluded	视觉时序异常检测包含专属解释数据和多组件奖励，摘要缺少独立迁移证据。
+155663	Tio: Language Models with Parallel Streams of Thoughts, Inputs and Outputs	https://neurips.cc/virtual/2026/poster/155663	included	实时交互将输入、内部计算和输出分流。
+151700	TiRex-2: Generalizing TiRex to Multivariate Data and Streaming	https://neurips.cc/virtual/2026/poster/151700	included	流式多变量预测用固定每补丁成本的循环记忆。
+153921	TKCAM: Text and Keyframe to Camera Trajectory Generation	https://neurips.cc/virtual/2026/poster/153921	excluded	主要为相机轨迹生成的提示流程与基准，摘要未隔离机制。
+152405	TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment	https://neurips.cc/virtual/2026/poster/152405	excluded	摘要未清楚展开轨迹匹配如何独立改变多样性。
+149496	To Align or Not To Align: Check Your COMPASS Before You Train	https://neurips.cc/virtual/2026/poster/149496	included	跨模态对齐或合并之前先测表征兼容性
+151332	To Call or Not to Call: Diagnosing Intrinsic Over-Calling Bias in LLM Agents	https://neurips.cc/virtual/2026/poster/151332	excluded	核心含定向内部控制，摘要未单列安全的非操作性评测与应用边界。
+152547	To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals	https://neurips.cc/virtual/2026/poster/152547	included	推测解码先识别何时模型本就打算复制
+152233	To discretize continually: Mean shift interacting particle systems for Bayesian inference	https://neurips.cc/virtual/2026/poster/152233	excluded	主要为贝叶斯粒子采样的综合实验，摘要未直接联系重点研发取舍。
+152016	Token by Token, Compromised: Backdoor Vulnerabilities in Unified Autoregressive Models	https://neurips.cc/virtual/2026/poster/152016	excluded	核心是跨模态后门攻击，无独立安全防御结论。
+151659	TokenCLIP: Token-wise Prompt Learning for Zero-shot Anomaly Detection	https://neurips.cc/virtual/2026/poster/151659	excluded	主要在异常检测中验证视觉词元专项提示，摘要未给更宽机制对照。
+151823	Token-Conditional Expert Dropout: Implicit Regularization for Stable MoE Pretraining	https://neurips.cc/virtual/2026/poster/151823	included	MoE 均衡可试按 token 条件的专家 dropout
+152587	Token Filtering: Online Attention Pruning via KV Similarity for Efficient LLM Inference	https://neurips.cc/virtual/2026/poster/152587	excluded	与附近按几何冗余压缩缓存的条目重叠，摘要未给关键独立选择边界。
+153346	Token Inflation: How Dishonest Providers Can Overcharge for Large Language Model Usage	https://neurips.cc/virtual/2026/poster/153346	excluded	重点为恶意计量与规避验证，摘要未独立验证所列防护方案。
+154486	Tokenization and Architecture Jointly Allocate Component Roles in Time Series Transformers	https://neurips.cc/virtual/2026/poster/154486	included	时序模型选 FFN 或注意机制前先定分词粒度
+150812	Tokenizer Choice Shapes Generalization in State-Centric Learning for Planning	https://neurips.cc/virtual/2026/poster/150812	included	学习规划先消融状态分词器
+148519	Tokenizer-Generator Coupling in Medical Image Generation	https://neurips.cc/virtual/2026/poster/148519	included	图像生成分词器与生成器按配对择优
+148516	TokenRepel: Generating Diverse Image Sets Without Sacrificing Quality	https://neurips.cc/virtual/2026/poster/148516	excluded	摘要未给排斥信号的作用机制和个体质量边界。
+152140	TokenRouter: Efficient Serving System for Token-Level LLM Routing	https://neurips.cc/virtual/2026/poster/152140	excluded	主要为在线服务的系统调度，摘要未隔离技术取舍。
+149648	Tokens-per-Parameter Coverage Is Critical for Robust LLM Scaling Law Extrapolation	https://neurips.cc/virtual/2026/poster/149648	included	外推标度律要覆盖不同 tokens-per-parameter
+152684	TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs	https://neurips.cc/virtual/2026/poster/152684	included	同一道题置换信息的视觉和文本形式测模态差距
+153937	Token Time Continuous Diffusion for Language Modeling	https://neurips.cc/virtual/2026/poster/153937	excluded	摘要未具体说明时序连续化的独立作用和选择范围。
+151884	Token-to-Token Alignment of Text Embeddings for Semantic Blending	https://neurips.cc/virtual/2026/poster/151884	excluded	主要为语义编辑插值方法，摘要未给不同嵌入对齐的独立效果。
 156116	ToLD: Efficient Time Series Forecasting via Tokenized Truncated Latent Diffusion	https://neurips.cc/virtual/2026/poster/156116	pending	-
 150420	ToMAToMP: Robust and Multi-Parameter Topological Clustering	https://neurips.cc/virtual/2026/poster/150420	pending	-
 153219	TOM-Pruning: Target-aware Output Manifold for LLM Pruning	https://neurips.cc/virtual/2026/poster/153219	pending	-

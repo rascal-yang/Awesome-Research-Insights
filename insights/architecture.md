@@ -603,5 +603,13 @@
 - [The Dormant Spiking Neuron: A State-Driven Mechanism for Efficient Spiking Neural Networks](../conferences/neurips-2026/cards-0011.md#paper-150735)
 - [The Geometric Inductive Bias of Grokking: Bypassing Phase Transitions via Architectural Topology](../conferences/neurips-2026/cards-0011.md#paper-150166)
 - [The Neural Race Model](../conferences/neurips-2026/cards-0011.md#paper-152312)
+- [The State-Prediction Separation Hypothesis](../conferences/neurips-2026/cards-0012.md#paper-149714)
+- [TIDE: Every Layer Knows the Token Beneath the Context](../conferences/neurips-2026/cards-0012.md#paper-152874)
+- [TimeOperator: A Function-to-Function Approach to Time Series Modeling](../conferences/neurips-2026/cards-0012.md#paper-155398)
+- [Time series analysis with Gumbel dynamics](../conferences/neurips-2026/cards-0012.md#paper-155395)
+- [Timing Is All You Need: SpikeCore, Learnable Delays, and Gain Control for Neuromorphic Classification](../conferences/neurips-2026/cards-0012.md#paper-151527)
+- [Tio: Language Models with Parallel Streams of Thoughts, Inputs and Outputs](../conferences/neurips-2026/cards-0012.md#paper-155663)
+- [TiRex-2: Generalizing TiRex to Multivariate Data and Streaming](../conferences/neurips-2026/cards-0012.md#paper-151700)
+- [Tokenization and Architecture Jointly Allocate Component Roles in Time Series Transformers](../conferences/neurips-2026/cards-0012.md#paper-154486)
 
 <!-- conference-classification:end -->

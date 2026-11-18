@@ -624,5 +624,9 @@
 - [The Implicit Bias of Hyperbolic Representation Learning for Multiclass Data: A Busemann Risk Perspective](../conferences/neurips-2026/cards-0011.md#paper-148340)
 - [The Laplacian Keyboard: Beyond the Linear Span](../conferences/neurips-2026/cards-0011.md#paper-155777)
 - [The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment](../conferences/neurips-2026/cards-0011.md#paper-152307)
+- [The Shape of a Program: Path Signatures for Trace-to-Program Induction](../conferences/neurips-2026/cards-0012.md#paper-149565)
+- [The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction](../conferences/neurips-2026/cards-0012.md#paper-149266)
+- [Time–Frequency Non-Stationary Modeling for Multivariate Time Series Forecasting](../conferences/neurips-2026/cards-0012.md#paper-152338)
+- [TimeTok: Granularity-Controllable Time-Series Generation via Hierarchical Tokenization](../conferences/neurips-2026/cards-0012.md#paper-152955)
 
 <!-- conference-classification:end -->

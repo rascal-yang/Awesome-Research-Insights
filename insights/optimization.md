@@ -791,5 +791,6 @@
 - [The Cost of Mismatch: Noise Amplification in Zeroth-Order Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-148377)
 - [The Denoising Wrapper: A Modular Post-Processing Framework for Noisy First-Order Optimizers](../conferences/neurips-2026/cards-0011.md#paper-155970)
 - [Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model](../conferences/neurips-2026/cards-0011.md#paper-154381)
+- [The Sparsity Whisperer](../conferences/neurips-2026/cards-0012.md#paper-152487)
 
 <!-- conference-classification:end -->

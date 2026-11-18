@@ -9166,3 +9166,18 @@
 - **适用条件 / 局限** · 训练配方及部署位宽会影响收益
 
 **可复用机制** · 以部署位宽评估架构，而非全精度做唯一选型
+
+<a id="paper-151233"></a>
+
+## The Quiet Prompt: Erasing Ineffable Styles from Diffusion Models via Concept Leakage-aware Negative Guidance
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151233) · [作者来源](https://openreview.net/forum?id=bv3AN8TM5z)
+
+- **问题 / 瓶颈** · 固定负引导会抹掉且损害结构。
+- **核心创新 / 方法** · 少于十参考图提概念，按时间估泄漏风险再引导。
+- **Baseline** · 固定尺度和文本擦除。
+- **Benchmark** · 艺术风格及对象擦除。
+- **关键结果 / 消融** · 保真与擦除精度均改善。
+- **适用条件 / 局限** · 参考图是否反映目标属性须验证。
+
+**可复用机制** · 不要让所有去噪阶段使用同一概念抑制强度。

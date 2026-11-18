@@ -1169,5 +1169,10 @@
 - [Test-time Scaling of Diffusions with Flow Maps](../conferences/neurips-2026/cards-0011.md#paper-154289)
 - [The Locality Cost of Semantic Patch Self-Distillation](../conferences/neurips-2026/cards-0011.md#paper-150207)
 - [The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation](../conferences/neurips-2026/cards-0011.md#paper-153386)
+- [The road reaches every place, the short cut only one: Self-Adversarial Shortcut Mitigation for AI-Generated Image Detection](../conferences/neurips-2026/cards-0012.md#paper-151317)
+- [The Shape of Events: Edge-Based Inductive Biases via Cross-Domain Distillation](../conferences/neurips-2026/cards-0012.md#paper-148705)
+- [The Structural Bias of $\ell_2$-Regularized Cross-Entropy Heads in Class-Incremental Learning: Characterization, Limits, and a Gauge-Anchoring Fix](../conferences/neurips-2026/cards-0012.md#paper-148482)
+- [The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction](../conferences/neurips-2026/cards-0012.md#paper-149266)
+- [Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration](../conferences/neurips-2026/cards-0012.md#paper-155298)
 
 <!-- conference-classification:end -->

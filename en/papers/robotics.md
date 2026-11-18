@@ -888,5 +888,7 @@ Robot perception, policy learning, planning, and control.
 - [Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving](../../conferences/neurips-2026/cards-0011.md#paper-148659)
 - [TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks](../../conferences/neurips-2026/cards-0011.md#paper-148848)
 - [The limbic navigation system as a hierarchical RNN](../../conferences/neurips-2026/cards-0011.md#paper-154055)
+- [Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](../../conferences/neurips-2026/cards-0012.md#paper-148599)
+- [Tokenizer Choice Shapes Generalization in State-Centric Learning for Planning](../../conferences/neurips-2026/cards-0012.md#paper-150812)
 
 <!-- conference-classification:end -->
