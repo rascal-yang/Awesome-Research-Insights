@@ -1590,6 +1590,7 @@
 - <a id="genevaux26a-evaluation"></a>[Position: Mathematical DSL Benchmarks Need Executable Interface Contracts](../conferences/icml-2026/cards/6301-6400.md#paper-genevaux26a)
 - <a id="gupta26e-evaluation"></a>[Position: Anthropomorphic Misalignment Research Needs Stronger Evidence](../conferences/icml-2026/cards/6401-6500.md#paper-gupta26e)
 - <a id="kasneci26a-evaluation"></a>[Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks](../conferences/icml-2026/cards/6401-6500.md#paper-kasneci26a)
+- <a id="li26kc-evaluation"></a>[Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation](../conferences/icml-2026/cards/6401-6500.md#paper-li26kc)
 
 <a id="by-theory-statistics"></a>
 

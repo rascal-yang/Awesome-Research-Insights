@@ -6430,26 +6430,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6429	katz26a							初筛，原文与先例核查待补：现有PDF第3–5页倡导PDDL/独立plan validation、结构split/预算分解/难度控制，均来自成熟planning community protocol。当前未给新planner、validator或原始受控诊断规律，正确借鉴既有工具的倡议不等独立增量，暂排。	rule-excluded
 6430	kaul26a							初筛，原文与先例核查待补：现有PDF第3–5页以少量案例和现有outcome数据库/RCT文献，主张medicalAI训练与评价重真实outcomes而非指南/意见。当前没有新的outcome estimator、causal adjustment或通用学习目标；case提示附加改变答案不独立识别治疗效应，也不足可复用技术机制，暂排，不因医疗主题。	rule-excluded
 6431	kaur26a							初筛，原文与先例核查待补：现有PDF第3–5页用epistemic incompleteness和行为角色边界解释proactivity，比较既有IR/recommendation/agents的已知未知覆盖。当前为哲学/行为设计议程，没有新触发规则、信息增益目标或可检验控制机制；unknown-unknowns命名不单独建立技术增量，暂排。	rule-excluded
-6432	kayyam26b							待原文复核评分	pending
-6433	keswani26a							待原文复核评分	pending
-6434	keuper26a							待原文复核评分	pending
-6435	khan26b							待原文复核评分	pending
-6436	kim26cb							待原文复核评分	pending
-6437	kim26cc							待原文复核评分	pending
-6438	kim26cd							待原文复核评分	pending
-6439	kim26ce							待原文复核评分	pending
-6440	kong26i							待原文复核评分	pending
-6441	kong26j							待原文复核评分	pending
-6442	kothari26a							待原文复核评分	pending
-6443	kulveit26a							待原文复核评分	pending
-6444	lao26a							待原文复核评分	pending
-6445	lawati26a							待原文复核评分	pending
-6446	lawrence26a							待原文复核评分	pending
-6447	lee26bo							待原文复核评分	pending
-6448	li26kc							待原文复核评分	pending
-6449	li26kd							待原文复核评分	pending
-6450	liao26f							待原文复核评分	pending
-6451	lillelund26a							待原文复核评分	pending
+6432	kayyam26b	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：评估shape-biased架构时，将cue-conflict与shape-only/texture-only在同训练协议下联测，再检查sparsity增益能否跨到textured MNIST/FashionMNIST；不能把抑纹理当全局关系能力。；双cue都在训练完美预测标签，冲突标签选shape是评估约定；不能从OOD cue removal低分推出架构永不学shape。capacity/训练难度不保证匹配，SparseCNN仍可能只抑texture；无新架构与机制消融，不采“只有换架构才可能”必要性结论。 PDF3,5,6,7页。	scored
+6433	keswani26a							初筛，原文与先例核查待补：cognitive alignment定义、用户survey与研究agenda主要支持人类偏好/解释需求，当前没有独立新增神经目标、faithfulness机制或受控可复用技术选择规律。摘要范围。	rule-excluded
+6434	keuper26a							初筛，原文与先例核查待补：real/fake图像定义与smartphone computational photography的dataset偏差论点主要要求更新数据/benchmark语义，未给独立新检测目标、控制或估计操作；引用旧dataset比例不能单独作技术增量。摘要范围。	rule-excluded
+6435	khan26b							初筛，原文与先例核查待补：2017–2025法案推进统计与委员会/适应性立法建议属于政策实证和治理设计，当前无独立可复用的神经模型/训练/推理技术选择。仅摘要高层。	rule-excluded
+6436	kim26cb							初筛，原文与先例核查待补：monitor/intervention两层及action/decision/human-centered分类，沿成熟runtime assurance、safety filters/CBF和semantic validation；cross-layer representation/保守度allocation只是研究机会，未呈新可执行co-design规则或控制。具身安全重要性不自动构成独立技术增量。PDF4与摘要。	rule-excluded
+6437	kim26cc							初筛，原文与先例核查待补：Research/Agent contracts整理stakeholder、scope、auditability等说明规范，2381论文survey不等新neural evaluation操作；当前无独立估计/解释算法或受控机制规律。摘要。	rule-excluded
+6438	kim26cd							初筛，原文与先例核查待补：private medical evaluation、及时更新/辖区隔离为成熟heldout治理与dynamic benchmark原则；exam审计相关性未给独立可用contamination estimator或控制新规律。公开不必然污染、私有也不自动训练独立，当前主要部署规范。摘要。	rule-excluded
+6439	kim26ce							初筛，原文与先例核查待补：AI依赖/deskilling/服务中断风险taxonomy和多层mitigation议程，当前无具体新增神经训练、推理、诊断算法或受控技术选择规律。摘要。	rule-excluded
+6440	kong26i							初筛，原文与先例核查待补：lookahead/survivorship/narrative/objective/cost是成熟backtesting和financial evaluation偏差；164论文review与checklist未增独立神经评估操作或受控预算规律。摘要。	rule-excluded
+6441	kong26j							初筛，原文与先例核查待补：神经启发式/感知转symbol、symbolic verification与多agent generate-check流程均成熟；Sudoku旧结果跨问题比较未隔离新融合机制。高confidence非certificate已知，不能推所有neural模型绝不精确，fixed9×9也不能不加参数化地称NP-complete任务族。PDF5。	rule-excluded
+6442	kothari26a							初筛，原文与先例核查待补：pre/postannotation/postreview taxonomy和shift-left建议承软件QA已有原则；4–100倍成本是软件原作类比，论文呼吁后续annotation controlled experiments，不是本稿已证的标注成本新规律。摘要。	rule-excluded
+6443	kulveit26a							初筛，原文与先例核查待补：人机team评价替代独立模型榜单是评价目标倡议，当前没有新增明确可计算team metric/controlled neural selection规则或训练机制。摘要。	rule-excluded
+6444	lao26a							初筛，原文与先例核查待补：无labels仍含curation/objective人类prior的术语澄清和披露建议，主要研究规范；当前无独立改变视觉学习目标/数据选择的新操作或实证选择规律。摘要。	rule-excluded
+6445	lawati26a							初筛，原文与先例核查待补：释放KV cache+末token中间state是既有cached inference，crossmodel stitching/representation alignment也成熟；不能由缺input tokens推出不可训练/不可污染，仍可在cache条件上训练answer续写，reconstruction安全也未建立。删除未成立unlearnability后未见独立新可用机制，interoperability主要为既有方向蓝图。PDF3–5。	rule-excluded
+6446	lawrence26a							初筛，原文与先例核查待补：rule-based valid/sound reasoning的操作定义及communication checklist沿逻辑/automated reasoning，当前无独立新神经推理算法、verification机制或受控选择规律。摘要。	rule-excluded
+6447	lee26bo							初筛，原文与先例核查待补：劳动impact预测的distribution shift/endogenous feedback/agent simulation研究agenda，当前未给新可复用generic neural预测操作或已验证条件规律；不因社会科学名称排除。摘要。	rule-excluded
+6448	li26kc	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：用隐藏条件行为保护模型时，须把授权、指纹归属与安全行为分别验证；同时检查正常能力、良性更新后的持久性和无授权正常输入的误激活，不能用原始成功率代表部署安全。；旧底座/有限任务、replication与原论文口径及seeds待核；行为density/decision complexity仅跨三方法解释，未被独立因果控制。误激活统计依正常输入分布，不支持普适安全率；保护claims需外部认证边界，secret behavior不等真正访问控制或密码学凭证。 PDF3,5,6,7,8页。	scored
+6449	li26kd							初筛，原文与先例核查待补：crowdsourcing的quality control/aggregation原则迁移human+LLM workers为成熟集体决策框架，当前是综述/适配agenda而非新相关误差估计、aggregation算法或受控neural技术规律。摘要。	rule-excluded
+6450	liao26f							初筛，原文与先例核查待补：ideal task sharding、local charts与近零routing error下的低维专家分解属成熟mixture/compositional approximation原理；比较两种不同function class的上界不能证明所有monolithic劣势，单模型可实现router/experts。Taylor局部PD不保证global average-trap界，N负幂差也非随N指数提升。去掉宽泛AGI/统治结论后当前无独立新可用规则。PDF3–5，未做证明核验。	rule-excluded
+6451	lillelund26a							初筛，原文与先例核查待补：C-index只排rank、proper scoring与marginal/conditional IPCW/dependent censoring不可识别均成熟survival统计原则；本稿CoxPH/Weibull/Clayton模拟显示oracle-gap，但当前未隔离新estimator或超出已有censoring metric失配的独立选择规律。并非因没有deep/robot实验排除；metric假设可比data满足条件，不必机械与learner假设完全同层。PDF3–7。	rule-excluded
 6452	liu26gu							待原文复核评分	pending
 6453	liu26gv							待原文复核评分	pending
 6454	liu26gw							待原文复核评分	pending

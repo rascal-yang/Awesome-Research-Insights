@@ -401,6 +401,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Mathematical DSL Benchmarks Need Executable Interface Contracts](../../conferences/icml-2026/cards/6301-6400.md#genevaux26a-evaluation) · 中文
 - [Position: Anthropomorphic Misalignment Research Needs Stronger Evidence](../../conferences/icml-2026/cards/6401-6500.md#gupta26e-evaluation) · 中文
 - [Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks](../../conferences/icml-2026/cards/6401-6500.md#kasneci26a-evaluation) · 中文
+- [Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation](../../conferences/icml-2026/cards/6401-6500.md#li26kc-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -481,6 +482,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis](../../conferences/icml-2026/cards/6201-6300.md#zhu26ak-evaluation) · 中文
 - [Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model](../../conferences/icml-2026/cards/6301-6400.md#elangovan26b-evaluation) · 中文
 - [Position: Universal Aesthetic Alignment Narrows Artistic Expression](../../conferences/icml-2026/cards/6401-6500.md#guo26ao-evaluation) · 中文
+- [Position: CNNs Don’t See Shape — And That Won’t Change Without New Architectures](../../conferences/icml-2026/cards/6401-6500.md#kayyam26b-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

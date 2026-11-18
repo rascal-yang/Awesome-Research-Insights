@@ -401,6 +401,7 @@
 - [形式DSL评测分开接口可执行与证明成功](../conferences/icml-2026/cards/6301-6400.md#genevaux26a-evaluation) · Position: Mathematical DSL Benchmarks Need Executable Interface Contracts
 - [保持假话表面线索而移除欺骗意图测试probe](../conferences/icml-2026/cards/6401-6500.md#gupta26e-evaluation) · Position: Anthropomorphic Misalignment Research Needs Stronger Evidence
 - [压力类型与judge差异的同题sycophancy剖面](../conferences/icml-2026/cards/6401-6500.md#kasneci26a-evaluation) · Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
+- [分别审计隐式防护的持久性与副作用](../conferences/icml-2026/cards/6401-6500.md#li26kc-evaluation) · Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation
 
 <a id="by-computer-vision"></a>
 
@@ -481,6 +482,7 @@
 - [在配对图像变换中按数据量与误差指标比较桥和FM](../conferences/icml-2026/cards/6201-6300.md#zhu26ak-evaluation) · Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis
 - [架构稳定性必须条件于归因算子](../conferences/icml-2026/cards/6301-6400.md#elangovan26b-evaluation) · Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model
 - [审美reward评测分开显式风格遵循与通用品质](../conferences/icml-2026/cards/6401-6500.md#guo26ao-evaluation) · Position: Universal Aesthetic Alignment Narrows Artistic Expression
+- [用冲突与去线索联合检验shape改进](../conferences/icml-2026/cards/6401-6500.md#kayyam26b-evaluation) · Position: CNNs Don’t See Shape — And That Won’t Change Without New Architectures
 
 <a id="by-nlp"></a>
 
