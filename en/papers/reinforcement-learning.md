@@ -595,5 +595,8 @@ Learning from interaction, feedback, and offline experience.
 - [Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-151208)
 - [MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals](../../conferences/neurips-2026/cards-0008.md#paper-155062)
 - [Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions](../../conferences/neurips-2026/cards-0008.md#paper-149972)
+- [MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments](../../conferences/neurips-2026/cards-0008.md#paper-150108)
+- [MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels](../../conferences/neurips-2026/cards-0008.md#paper-154901)
+- [MHWA: Multi-timescale Hierarchical World-Action Model](../../conferences/neurips-2026/cards-0008.md#paper-154328)
 
 <!-- conference-classification:end -->

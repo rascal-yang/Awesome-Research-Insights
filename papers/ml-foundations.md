@@ -2223,5 +2223,17 @@
 - [Measure-to-measure Regression with Transformers](../conferences/neurips-2026/cards-0008.md#paper-153179)
 - [Measuring and Decomposing Mode Separation via the Canonical Diffusion](../conferences/neurips-2026/cards-0008.md#paper-153978)
 - [Measuring Coherence in Predictive Models](../conferences/neurips-2026/cards-0008.md#paper-150718)
+- [Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration](../conferences/neurips-2026/cards-0008.md#paper-154999)
+- [Mechanistic Interpretability with Sparse Autoencoder Neural Operators](../conferences/neurips-2026/cards-0008.md#paper-156118)
+- [Median-of-Means under Structured Heavy-Tailed Noise: High-Probability Bounds for Clipped Stochastic Optimization](../conferences/neurips-2026/cards-0008.md#paper-148757)
+- [Membrane Sensitivity and Deployment Fragility of Learnable Time Constants in Spiking Neural Networks](../conferences/neurips-2026/cards-0008.md#paper-148593)
+- [Memorization Is Folding: Topological Signatures of Noisy-Label Learning](../conferences/neurips-2026/cards-0008.md#paper-151437)
+- [Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models](../conferences/neurips-2026/cards-0008.md#paper-154952)
+- [Memory flows: geometry and dynamics of sequential retrieval in input-driven Hopfield networks](../conferences/neurips-2026/cards-0008.md#paper-150585)
+- [Mesh Invaiant Infinite Dimensional Adaptive  MCMC for Latent Gaussian Processes](../conferences/neurips-2026/cards-0008.md#paper-153392)
+- [MetaCluster: Enabling Deep Compression of Kolmogorov-Arnold Network](../conferences/neurips-2026/cards-0008.md#paper-148967)
+- [Metropolis-Adjusted Diffusion Models](../conferences/neurips-2026/cards-0008.md#paper-148667)
+- [Midpoint Generative Models](../conferences/neurips-2026/cards-0008.md#paper-154433)
+- [Mildly Overparameterized ReLU Networks on Orthogonal Data: Incremental Learning and Implicit Bias](../conferences/neurips-2026/cards-0008.md#paper-149598)
 
 <!-- conference-classification:end -->

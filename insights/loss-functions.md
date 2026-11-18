@@ -350,5 +350,8 @@
 - [Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities](../conferences/neurips-2026/cards-0008.md#paper-151973)
 - [Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking](../conferences/neurips-2026/cards-0008.md#paper-154960)
 - [MAST: Label-Efficient, Robust, and Generalizable Sound Detection for Biodiversity Monitoring via Masked Audio Pretraining and Self-Training](../conferences/neurips-2026/cards-0008.md#paper-148863)
+- [MedVTok: A General-Purpose Medical Visual Tokenizer](../conferences/neurips-2026/cards-0008.md#paper-152136)
+- [Membrane Sensitivity and Deployment Fragility of Learnable Time Constants in Spiking Neural Networks](../conferences/neurips-2026/cards-0008.md#paper-148593)
+- [Midpoint Generative Models](../conferences/neurips-2026/cards-0008.md#paper-154433)
 
 <!-- conference-classification:end -->

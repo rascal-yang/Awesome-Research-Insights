@@ -955,5 +955,15 @@ Visual representation, recognition, reconstruction, and generation.
 - [Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design](../../conferences/neurips-2026/cards-0008.md#paper-150223)
 - [MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes](../../conferences/neurips-2026/cards-0008.md#paper-150934)
 - [Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model on a Collision-Detection Task](../../conferences/neurips-2026/cards-0008.md#paper-149010)
+- [MedCache: Training-Free Spatially Aware Caching for Accelerated Medical Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-149788)
+- [Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-149588)
+- [MemTailor: Hierarchical Memory-Augmented Multi-Expert Learning for Long-Tailed Recognition](../../conferences/neurips-2026/cards-0008.md#paper-153342)
+- [Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation](../../conferences/neurips-2026/cards-0008.md#paper-154136)
+- [MeshFIM: Local Low-Poly Mesh Editing via Fill-in-the-Middle Autoregressive Generation](../../conferences/neurips-2026/cards-0008.md#paper-155900)
+- [MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting](../../conferences/neurips-2026/cards-0008.md#paper-151929)
+- [MESS: Multi-Exposure Sequence Synthesis for Generalizable Image Enhancement](../../conferences/neurips-2026/cards-0008.md#paper-152809)
+- [Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts](../../conferences/neurips-2026/cards-0008.md#paper-153483)
+- [MilliVid: Adaptive Latents for Long-Range Consistency in Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-155135)
+- [MIND: Monge Inception Distance for Generative Models Evaluation](../../conferences/neurips-2026/cards-0008.md#paper-150991)
 
 <!-- conference-classification:end -->

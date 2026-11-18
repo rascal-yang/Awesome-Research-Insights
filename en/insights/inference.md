@@ -1176,5 +1176,16 @@ Decoding, test-time adaptation, and efficient execution.
 - [MARS: Enabling Autoregressive Models Multi-Token Generation](../../conferences/neurips-2026/cards-0008.md#paper-150620)
 - [MATO: Multi-objective Personalized Alignment with Test-time Optimization for Large Language Models](../../conferences/neurips-2026/cards-0008.md#paper-150723)
 - [Mean-Field Parallel Decoding for Discrete Diffusion Language Models](../../conferences/neurips-2026/cards-0008.md#paper-151707)
+- [MedCache: Training-Free Spatially Aware Caching for Accelerated Medical Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-149788)
+- [MEMEVO: A Memory-Evolved Video Agent for Long Video Understanding](../../conferences/neurips-2026/cards-0008.md#paper-156021)
+- [MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging](../../conferences/neurips-2026/cards-0008.md#paper-148407)
+- [Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs](../../conferences/neurips-2026/cards-0008.md#paper-151646)
+- [Memory Retrieval for Changing Preferences](../../conferences/neurips-2026/cards-0008.md#paper-155002)
+- [Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies](../../conferences/neurips-2026/cards-0008.md#paper-153182)
+- [MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments](../../conferences/neurips-2026/cards-0008.md#paper-150108)
+- [MeshFIM: Local Low-Poly Mesh Editing via Fill-in-the-Middle Autoregressive Generation](../../conferences/neurips-2026/cards-0008.md#paper-155900)
+- [Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts](../../conferences/neurips-2026/cards-0008.md#paper-153483)
+- [Metropolis-Adjusted Diffusion Models](../../conferences/neurips-2026/cards-0008.md#paper-148667)
+- [MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-155027)
 
 <!-- conference-classification:end -->

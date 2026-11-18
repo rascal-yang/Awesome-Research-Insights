@@ -227,3 +227,84 @@
 | 大语言模型 | 评测与诊断 | [Measuring Weak-to-Strong Legibility of Reasoning Models](cards-0008.md#paper-153826) | 可读推理应让弱模型从不完整记录重建后续步骤。 |
 | 科学机器学习 | 模型架构 | [Mechanism-Aware Ensemble Conditioning for Data-Limited Emulation of Extreme Events](cards-0008.md#paper-151389) | 极端事件替代模型以粗模拟集合的局部不稳定统计作条件。 |
 | 科学机器学习 | 评测与诊断 | [Mechanisms of Misgeneralization in Physical Sequence Modeling](cards-0008.md#paper-149624) | 物理轨迹评估检查整体测度分布，而非只看单条合理性。 |
+| 大语言模型 | 数据策略 | [Mechanistic Circuit Identification for Controllable Data Generation](cards-0008.md#paper-154637) | 按训练阶段选择数据效用。 |
+| 机器学习基础与统计 | 优化 | [Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration](cards-0008.md#paper-154999) | 硬件搜索用算子级资源瓶颈解释仿真。 |
+| 大语言模型 | 训练策略 | [Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching](cards-0008.md#paper-154446) | LoRA 按任务用路径修补选层。 |
+| 科学机器学习 | 评测与诊断 | [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](cards-0008.md#paper-150909) | 概念干预同时验收目标改变与旁路损失。 |
+| 机器学习基础与统计 | 表征学习 | [Mechanistic Interpretability with Sparse Autoencoder Neural Operators](cards-0008.md#paper-156118) | 稀疏字典同时学习是什么和在哪里。 |
+| 大语言模型 | 评测与诊断 | [Mecha-nudges for Machines](cards-0008.md#paper-156000) | 代理排序安全审计区分机器和人类对展示的敏感性。 |
+| 多模态学习 | 训练策略 | [Med-Agentic: Distilling Agentic Medical Reasoning with Internalized Meta-Capabilities](cards-0008.md#paper-153012) | 多技能蒸馏让教师选择随词元技能变化。 |
+| 计算机视觉 | 推理策略 | [MedCache: Training-Free Spatially Aware Caching for Accelerated Medical Video Generation](cards-0008.md#paper-149788) | 视频缓存用局部漂移作风险而不是平均全帧差异。 |
+| 科学机器学习 | 评测与诊断 | [MedEvoEval: Evaluating Continual Evolution of Doctor Agents through Simulated Clinical Episodes](cards-0008.md#paper-139548) | 长时医疗代理同时测交互成本与历史经验迁移。 |
+| 科学机器学习 | 强化学习方法 | [MedExAgent: Training LLM Agents to Ask, Examine, and Diagnose in Noisy Clinical Environments](cards-0008.md#paper-149616) | 检查工具的奖励同时计入证据价值和成本。 |
+| 科学机器学习 | 评测与诊断 | [MedFlowBench: Auditing Medical Agents in Full-Study Workflows](cards-0008.md#paper-139506) | 完整影像阅片必须提交可核验证据。 |
+| 科学机器学习 | 评测与诊断 | [MedHEB: Benchmarking Medical Embeddings Across Heterogeneous Clinical Evidence](cards-0008.md#paper-139097) | 嵌入检索按模态变化与证据粒度分层。 |
+| 科学机器学习 | 评测与诊断 | [MedHorizon: Towards Long-context Medical Video Understanding in the Wild](cards-0008.md#paper-139391) | 稀疏证据长视频将查找和理解分别评测。 |
+| 机器学习基础与统计 | 优化 | [Median-of-Means under Structured Heavy-Tailed Noise: High-Probability Bounds for Clipped Stochastic Optimization](cards-0008.md#paper-148757) | 重尾梯度先聚合稳健估计再裁剪。 |
+| 科学机器学习 | 模型架构 | [Medical LLMs as Medical World Models:  Unified Policy-Dynamics Learning with Test-Time Search](cards-0008.md#paper-148462) | 共享状态建模用结构化结果验收模拟器。 |
+| 科学机器学习 | 评测与诊断 | [MedKIT: Evaluating Knowledge Integration and Generalization in Large Language Models](cards-0008.md#paper-138975) | 更新知识后按改述、关系、组合和操作层次分别验收。 |
+| 多模态学习 | 评测与诊断 | [MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence](cards-0008.md#paper-139346) | 评估依赖图像的医学问答时，对照完整输入与证据受损输入，并测模型是否适当弃答。 |
+| 多模态学习 | 损失函数 | [MedVTok: A General-Purpose Medical Visual Tokenizer](cards-0008.md#paper-152136) | 统一二维与三维影像 token 时，显式监督切片间差异而非仅逐体素重建。 |
+| 大语言模型 | 评测与诊断 | [MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale](cards-0008.md#paper-139685) | 部署私有记忆助手前，同表比较检索后端、读模型大小与权限判断。 |
+| 大语言模型 | 评测与诊断 | [MEMAUDIT: An Exact Package-Oracle Evaluation Protocol for Budgeted Long-Term LLM Memory Writing](cards-0008.md#paper-139235) | 比较长期记忆写入策略时，用固定容量下可证明的最优选包作为独立参照。 |
+| 机器学习基础与统计 | 损失函数 | [Membrane Sensitivity and Deployment Fragility of Learnable Time Constants in Spiking Neural Networks](cards-0008.md#paper-148593) | 脉冲网络部署前，对易漂移的膜时间常数进行敏感性正则与型号分层测试。 |
+| 大语言模型 | 表征学习 | [MemCode: Discrete Semantic Representations for Long-Term Agent Memory](cards-0008.md#paper-152904) | 连续向量检索漏掉语义关联证据时，用独立记忆单元和离散共现链补充。 |
+| 大语言模型 | 训练策略 | [MemDLM: Memory-Enhanced DLM Training](cards-0008.md#paper-153503) | 扩散语言模型训练不覆盖迭代去噪时，可用内循环快权重模拟轨迹经验。 |
+| 大语言模型 | 评测与诊断 | [MEME: Multi-Entity & Evolving Memory Evaluation](cards-0008.md#paper-138915) | 长期记忆验收中，给实体关联、级联变化与删除分别设计测试，而非只测静态检索。 |
+| 多模态学习 | 推理策略 | [MEMEVO: A Memory-Evolved Video Agent for Long Video Understanding](cards-0008.md#paper-156021) | 多问同一视频时保留可跨指令复用的事件节点。 |
+| 大语言模型 | 推理策略 | [MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging](cards-0008.md#paper-148407) | 代理记忆可在语义相关且时间邻近的事件内做渐进合并。 |
+| 多模态学习 | 评测与诊断 | [MemLeak: Diagnosing Information Leaks in Multimodal Agent Memory](cards-0008.md#paper-139088) | 数据删除审计覆盖仍保留的相关模态。 |
+| 大语言模型 | 训练策略 | [Memoir: Let the Model Direct Its Own Story for Robust Cross-Domain Knowledge Editing](cards-0008.md#paper-152387) | 持续知识编辑用模型实际输出分布估计保留子空间。 |
+| 机器学习基础与统计 | 评测与诊断 | [Memorization Is Folding: Topological Signatures of Noisy-Label Learning](cards-0008.md#paper-151437) | 噪声标签监测增加倒数层特征的环结构持久性。 |
+| 大语言模型 | 训练策略 | [Memorize Theorems, Not Instances: Probing SFT Generalization through Mathematical Reasoning](cards-0008.md#paper-149409) | 数学监督由固定解答转为显式定理应用。 |
+| 计算机视觉 | 模型架构 | [Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](cards-0008.md#paper-149588) | 视频生成仅在相机重访时接入空间历史。 |
+| 机器学习基础与统计 | 理论与统计 | [Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models](cards-0008.md#paper-154952) | 状态空间训练前检查初始递推能否保留教师信号。 |
+| 大语言模型 | 训练策略 | [Memory-Efficient Federated Fine-Tuning of LLMs via Block-wise Progressive Training](cards-0008.md#paper-149884) | 低内存联邦微调可按重叠块训练，但应监控跨块特征漂移。 |
+| 机器学习基础与统计 | 理论与统计 | [Memory flows: geometry and dynamics of sequential retrieval in input-driven Hopfield networks](cards-0008.md#paper-150585) | 顺序联想记忆通过快检索和慢反馈控制转换。 |
+| 大语言模型 | 推理策略 | [Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs](cards-0008.md#paper-151646) | 长期结构化提示可在受控任务测局部缓存与完整提示的成本权衡。 |
+| 大语言模型 | 强化学习方法 | [Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents](cards-0008.md#paper-152449) | 代理记忆操作做反事实比较时固定分支起点的记忆状态。 |
+| 大语言模型 | 推理策略 | [Memory Retrieval for Changing Preferences](cards-0008.md#paper-155002) | 变动偏好检索应以历史内容对参考回应的增益作为训练信号。 |
+| 大语言模型 | 推理策略 | [Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies](cards-0008.md#paper-153182) | 多类型记忆应根据记录和查询类型共同选检索策略。 |
+| 大语言模型 | 模型架构 | [MemPilot: Learning Transferable Latent Memory Mechanisms for LLM Reasoning](cards-0008.md#paper-154729) | 把可换的潜记忆内容与学习到的读取机制分离。 |
+| 强化学习 | 推理策略 | [MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments](cards-0008.md#paper-150108) | 部分观测下保留环境反馈反驳的假设，让符号规划绕开重复失败。 |
+| 大语言模型 | 评测与诊断 | [MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents](cards-0008.md#paper-139557) | 记忆安全同时检查写入和检索后的上下文。 |
+| 机器人学 | 模型架构 | [MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers](cards-0008.md#paper-154506) | 流式点云配准分别记忆特征与历史位姿。 |
+| 强化学习 | 强化学习方法 | [MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels](cards-0008.md#paper-154901) | 奖励稀缺时用异构经验图在标注和未标注展开间传递。 |
+| 大语言模型 | 训练策略 | [MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](cards-0008.md#paper-155719) | 将记忆读写操作本身做成可复用技能并更新。 |
+| 计算机视觉 | 模块 | [MemTailor: Hierarchical Memory-Augmented Multi-Expert Learning for Long-Tailed Recognition](cards-0008.md#paper-153342) | 长尾类别给外置视觉记忆分配不等容量。 |
+| 科学机器学习 | 表征学习 | [MENDR: Manifold-Embedded Neural Data Representations for Channel-Agnostic EEG Foundation Modeling](cards-0008.md#paper-149502) | 不同 EEG 电极配置先做协方差几何标准化。 |
+| 科学机器学习 | 评测与诊断 | [MentalHospital: A Virtual Environment for Evaluating Psychiatric Clinical Encounters](cards-0008.md#paper-149637) | 精神科代理分别评估过程表现和结果。 |
+| 多模态学习 | 训练策略 | [Mental Imagery That Matters: Curing Latent Collapse in Multimodal Reasoning](cards-0008.md#paper-154565) | 训练潜在视觉推理先检查生成的视觉状态是否影响答案。 |
+| 大语言模型 | 模型架构 | [Mental-Models for Multi-Agent Systems](cards-0008.md#paper-153908) | 交互策略显式维护合作方状态。 |
+| 大语言模型 | 训练策略 | [Merging RLVR-Trained Experts via Policy-Shift-Guided Spectral Alignment](cards-0008.md#paper-149089) | 合并强化后训练适配器优先保留显著改变策略的方向。 |
+| 计算机视觉 | 表征学习 | [Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation](cards-0008.md#paper-154136) | 将网格连通性编码成连续表面场供扩散。 |
+| 计算机视觉 | 推理策略 | [MeshFIM: Local Low-Poly Mesh Editing via Fill-in-the-Middle Autoregressive Generation](cards-0008.md#paper-155900) | 网格局部修复把裸露边界作为生成硬条件。 |
+| 科学机器学习 | 模型架构 | [Mesh-Free Convolution: Learned Spectral Attenuation and Transport](cards-0008.md#paper-152800) | 学习连续卷积时将离散化推迟到推理。 |
+| 机器学习基础与统计 | 优化 | [Mesh Invaiant Infinite Dimensional Adaptive  MCMC for Latent Gaussian Processes](cards-0008.md#paper-153392) | 函数空间自适应 MCMC 只修改数据识别的有限子空间。 |
+| 计算机视觉 | 模型架构 | [MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting](cards-0008.md#paper-151929) | 长时场景流主动过滤不可信历史预测。 |
+| 计算机视觉 | 数据策略 | [MESS: Multi-Exposure Sequence Synthesis for Generalizable Image Enhancement](cards-0008.md#paper-152809) | 曝光增强以 RAW 渲染监督扩展真实 RGB 合成。 |
+| 机器学习基础与统计 | 训练策略 | [MetaCluster: Enabling Deep Compression of Kolmogorov-Arnold Network](cards-0008.md#paper-148967) | 需要压缩每条边存多个系数的网络时，先训练系数落到低维流形，再量化成共享原型。 |
+| 大语言模型 | 评测与诊断 | [MetaLoop: Benchmarking the Full Metacognitive Loop in LLMs](cards-0008.md#paper-139348) | 评估模型自知能力时，串联检测不确定、采取动作及利用反馈三个阶段。 |
+| 大语言模型 | 评测与诊断 | [Meta-memorization and memorization scaling laws in transformers](cards-0008.md#paper-150978) | 审计模型随预训练吸收随机样本的速度时，分开量化容量、重复次数和训练阶段。 |
+| 大语言模型 | 数据策略 | [META-PAP: Meta-learning for Prompt-aware Preference Pairing in LLM Alignment](cards-0008.md#paper-148316) | 构造偏好响应对时，按同一提示的响应多样性选择奖励差距。 |
+| 计算机视觉 | 推理策略 | [Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts](cards-0008.md#paper-153483) | 低分辨率深度提示失真程度不一时，以不确定性设置扩散反演的起点。 |
+| 科学机器学习 | 模块 | [METRO: Metric-Enhanced Token Routing Operator](cards-0008.md#paper-154570) | 复杂网格切片路由时，尝试每个潜切片不同的局部各向异性度量。 |
+| 机器学习基础与统计 | 推理策略 | [Metropolis-Adjusted Diffusion Models](cards-0008.md#paper-148667) | 扩散采样的 Langevin 校正误差明显时，在不要求可求密度比的条件下比较接受拒绝校正。 |
+| 多模态学习 | 模型架构 | [MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching](cards-0008.md#paper-152369) | 长音频流式生成时，按时间和频率分开扫描，并跨分块保留固定状态。 |
+| 大语言模型 | 数据策略 | [MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory](cards-0008.md#paper-151505) | 长对话记忆以可重复的实体索引返回原始证据。 |
+| 强化学习 | 模型架构 | [MHWA: Multi-timescale Hierarchical World-Action Model](cards-0008.md#paper-154328) | 多时标世界模型降低全局状态刷新频率，再用观测动态选局部专家。 |
+| 科学机器学习 | 优化 | [MICA: Activation Checkpointing for Double-Backward Training of Machine Learning Interatomic Potentials](cards-0008.md#paper-150066) | 二阶反传显存规划应单独管理首次反向激活。 |
+| 科学机器学习 | 模型架构 | [MICE: Multi-animal Interaction Context Encoder — A Hierarchical Foundation Model for Mouse Behavior](cards-0008.md#paper-150591) | 不同群体大小的行为分析可用固定交互潜码本连接个体编码。 |
+| 科学机器学习 | 模型架构 | [MiCo: Microstructure-Consistent Flow Matching for Diffusion MRI Angular Super-Resolution](cards-0008.md#paper-148957) | 稀疏物理测量重建先从闭式估计出发，再学习高阶残差。 |
+| 科学机器学习 | 评测与诊断 | [MID: Mask-Image Distributional Divergence for Evaluating Medical Image Segmentation](cards-0008.md#paper-152974) | 无配对分割验收比较输入和掩码的联合分布。 |
+| 机器学习基础与统计 | 损失函数 | [Midpoint Generative Models](cards-0008.md#paper-154433) | 一步生成用两端分布在线性流中点的漂移差训练。 |
+| 机器学习基础与统计 | 理论与统计 | [Mildly Overparameterized ReLU Networks on Orthogonal Data: Incremental Learning and Implicit Bias](cards-0008.md#paper-149598) | 小初始化 ReLU 学习可按新单元何时激活分阶段分析。 |
+| 大语言模型 | 推理策略 | [MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning](cards-0008.md#paper-155027) | 推理记忆以子目标对应子指令，并只为不确定样例重排。 |
+| 计算机视觉 | 模型架构 | [MilliVid: Adaptive Latents for Long-Range Consistency in Video Generation](cards-0008.md#paper-155135) | 长视频用稀疏粗尺度维持场景状态，再补短期高频。 |
+| 科学机器学习 | 强化学习方法 | [Mimicking the Physicist's Eye: A VLM-centric Approach for Physics Formula Discovery](cards-0008.md#paper-155268) | 物理公式发现分开评结构正确和系数拟合。 |
+| 科学机器学习 | 表征学习 | [MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding](cards-0008.md#paper-149255) | 脑信号与视觉对齐时可把文字作为语义正则，并比较教师嵌入几何。 |
+| 大语言模型 | 评测与诊断 | [MindGames:A Multi-Agent Benchmark and Trajectory Dataset for Evaluating Social and Strategic Reasoning in LLMs](cards-0008.md#paper-139792) | 多智能体竞赛榜单同时归因策略和对手的规则错误。 |
+| 大语言模型 | 评测与诊断 | [MindGuard: Guardrail Classifiers for Multi-Turn Mental Health Support](cards-0008.md#paper-138950) | 心理支持防护同时审计高风险漏报与普通披露误报。 |
+| 大语言模型 | 数据策略 | [MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis](cards-0008.md#paper-155952) | 合成良性推理训练题先拆解可验证规则步骤，再控制组合难度。 |
+| 计算机视觉 | 评测与诊断 | [MIND: Monge Inception Distance for Generative Models Evaluation](cards-0008.md#paper-150991) | 模型生成快速迭代用投影传输度量提高小样本评估效率。 |
+| 科学机器学习 | 表征学习 | [MindShape: Superquadric-Constrained High-Fidelity 3D Reconstruction from fMRI](cards-0008.md#paper-149071) | 高噪声几何解码先恢复低维形状基元再条件生成。 |

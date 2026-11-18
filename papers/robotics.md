@@ -741,5 +741,6 @@
 - [MapPolicy: Structure-Aware Imitation Learning for Robot Manipulation via Physically Constrained Scene Map](../conferences/neurips-2026/cards-0008.md#paper-154988)
 - [MapShift: Controlled Post-Intervention Evaluation for Embodied World Models](../conferences/neurips-2026/cards-0008.md#paper-139852)
 - [Masked Visual Actions for Unified World Modeling](../conferences/neurips-2026/cards-0008.md#paper-152131)
+- [MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers](../conferences/neurips-2026/cards-0008.md#paper-154506)
 
 <!-- conference-classification:end -->

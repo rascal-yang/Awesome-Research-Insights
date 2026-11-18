@@ -422,5 +422,17 @@
 - [MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes](../conferences/neurips-2026/cards-0008.md#paper-150934)
 - [Measure-to-measure Regression with Transformers](../conferences/neurips-2026/cards-0008.md#paper-153179)
 - [Mechanism-Aware Ensemble Conditioning for Data-Limited Emulation of Extreme Events](../conferences/neurips-2026/cards-0008.md#paper-151389)
+- [Medical LLMs as Medical World Models:  Unified Policy-Dynamics Learning with Test-Time Search](../conferences/neurips-2026/cards-0008.md#paper-148462)
+- [Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](../conferences/neurips-2026/cards-0008.md#paper-149588)
+- [MemPilot: Learning Transferable Latent Memory Mechanisms for LLM Reasoning](../conferences/neurips-2026/cards-0008.md#paper-154729)
+- [MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers](../conferences/neurips-2026/cards-0008.md#paper-154506)
+- [Mental-Models for Multi-Agent Systems](../conferences/neurips-2026/cards-0008.md#paper-153908)
+- [Mesh-Free Convolution: Learned Spectral Attenuation and Transport](../conferences/neurips-2026/cards-0008.md#paper-152800)
+- [MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting](../conferences/neurips-2026/cards-0008.md#paper-151929)
+- [MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching](../conferences/neurips-2026/cards-0008.md#paper-152369)
+- [MHWA: Multi-timescale Hierarchical World-Action Model](../conferences/neurips-2026/cards-0008.md#paper-154328)
+- [MICE: Multi-animal Interaction Context Encoder — A Hierarchical Foundation Model for Mouse Behavior](../conferences/neurips-2026/cards-0008.md#paper-150591)
+- [MiCo: Microstructure-Consistent Flow Matching for Diffusion MRI Angular Super-Resolution](../conferences/neurips-2026/cards-0008.md#paper-148957)
+- [MilliVid: Adaptive Latents for Long-Range Consistency in Video Generation](../conferences/neurips-2026/cards-0008.md#paper-155135)
 
 <!-- conference-classification:end -->

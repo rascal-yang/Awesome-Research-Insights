@@ -733,5 +733,15 @@ Training schedules, curricula, and task or stage composition.
 - [Matrix-Free Stochastic Training of Low-Rank Spectral Graph Learning via Randomized Adaptive Spectral Estimation](../../conferences/neurips-2026/cards-0008.md#paper-156123)
 - [MC^2: Monte Carlo Correction for Fast Elliptic PDE Solving](../../conferences/neurips-2026/cards-0008.md#paper-151488)
 - [Measure Less, Know More: Self-Supervised Test-Time Feature Acquisition](../../conferences/neurips-2026/cards-0008.md#paper-151285)
+- [Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching](../../conferences/neurips-2026/cards-0008.md#paper-154446)
+- [Med-Agentic: Distilling Agentic Medical Reasoning with Internalized Meta-Capabilities](../../conferences/neurips-2026/cards-0008.md#paper-153012)
+- [MemDLM: Memory-Enhanced DLM Training](../../conferences/neurips-2026/cards-0008.md#paper-153503)
+- [Memoir: Let the Model Direct Its Own Story for Robust Cross-Domain Knowledge Editing](../../conferences/neurips-2026/cards-0008.md#paper-152387)
+- [Memorize Theorems, Not Instances: Probing SFT Generalization through Mathematical Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-149409)
+- [Memory-Efficient Federated Fine-Tuning of LLMs via Block-wise Progressive Training](../../conferences/neurips-2026/cards-0008.md#paper-149884)
+- [MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](../../conferences/neurips-2026/cards-0008.md#paper-155719)
+- [Mental Imagery That Matters: Curing Latent Collapse in Multimodal Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-154565)
+- [Merging RLVR-Trained Experts via Policy-Shift-Guided Spectral Alignment](../../conferences/neurips-2026/cards-0008.md#paper-149089)
+- [MetaCluster: Enabling Deep Compression of Kolmogorov-Arnold Network](../../conferences/neurips-2026/cards-0008.md#paper-148967)
 
 <!-- conference-classification:end -->

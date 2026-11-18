@@ -370,5 +370,7 @@ Reusable components and local changes to model inputs or connections.
 - [LoCo: Selective Local Competition for Discriminative Open-Vocabulary Multi-Label Recognition](../../conferences/neurips-2026/cards-0008.md#paper-155077)
 - [Lost in Translation, Found in Embeddings: Sign Language Translation and Alignment](../../conferences/neurips-2026/cards-0008.md#paper-151496)
 - [MaRK: Markov-adapted Recurrent Kernels for Dynamic Operator Conditioning in State Space Models](../../conferences/neurips-2026/cards-0008.md#paper-148382)
+- [MemTailor: Hierarchical Memory-Augmented Multi-Expert Learning for Long-Tailed Recognition](../../conferences/neurips-2026/cards-0008.md#paper-153342)
+- [METRO: Metric-Enhanced Token Routing Operator](../../conferences/neurips-2026/cards-0008.md#paper-154570)
 
 <!-- conference-classification:end -->

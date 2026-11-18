@@ -636,5 +636,9 @@
 - [Match the Geometry, Skip the Surrogate: Extreme Low-Budget Optimization in High Dimensions](../conferences/neurips-2026/cards-0008.md#paper-155876)
 - [MaterialsSaddles: 34 Million Transition States and a Flow-Matching Saddle-Point Predictor for Materials](../conferences/neurips-2026/cards-0008.md#paper-139769)
 - [Matrix-Free Natural Gradient via Stochastic Truncated Metrics](../conferences/neurips-2026/cards-0008.md#paper-152694)
+- [Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration](../conferences/neurips-2026/cards-0008.md#paper-154999)
+- [Median-of-Means under Structured Heavy-Tailed Noise: High-Probability Bounds for Clipped Stochastic Optimization](../conferences/neurips-2026/cards-0008.md#paper-148757)
+- [Mesh Invaiant Infinite Dimensional Adaptive  MCMC for Latent Gaussian Processes](../conferences/neurips-2026/cards-0008.md#paper-153392)
+- [MICA: Activation Checkpointing for Double-Backward Training of Machine Learning Interatomic Potentials](../conferences/neurips-2026/cards-0008.md#paper-150066)
 
 <!-- conference-classification:end -->

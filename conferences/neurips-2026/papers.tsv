@@ -4805,127 +4805,127 @@ poster_id	title	paper_url	status	reason
 150806	Mechanism Design for AI Overviews: Creator Incentives and Long-Term Profit	https://neurips.cc/virtual/2026/poster/150806	excluded	主要是搜索平台创作者收益的专门经济设计；摘要未给可迁移的模型选择或学习规律。
 151985	Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer	https://neurips.cc/virtual/2026/poster/151985	excluded	主要验证反应机制模拟与合成设计用途，未给可独立收录的非化学证据。
 149624	Mechanisms of Misgeneralization in Physical Sequence Modeling	https://neurips.cc/virtual/2026/poster/149624	included	物理轨迹评估检查整体测度分布，而非只看单条合理性。
-154637	Mechanistic Circuit Identification for Controllable Data Generation	https://neurips.cc/virtual/2026/poster/154637	pending	-
-154999	Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration	https://neurips.cc/virtual/2026/poster/154999	pending	-
-154446	Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching	https://neurips.cc/virtual/2026/poster/154446	pending	-
-140011	Mechanistic Interpretability Needs Philosophy	https://neurips.cc/virtual/2026/poster/140011	pending	-
-150909	Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders	https://neurips.cc/virtual/2026/poster/150909	pending	-
-156118	Mechanistic Interpretability with Sparse Autoencoder Neural Operators	https://neurips.cc/virtual/2026/poster/156118	pending	-
-156000	Mecha-nudges for Machines	https://neurips.cc/virtual/2026/poster/156000	pending	-
-151799	MechParser: A Vision-Language Framework for Parsing Chemical Reaction Mechanism Diagrams	https://neurips.cc/virtual/2026/poster/151799	pending	-
-153012	Med-Agentic: Distilling Agentic Medical Reasoning with Internalized Meta-Capabilities	https://neurips.cc/virtual/2026/poster/153012	pending	-
-149788	MedCache: Training-Free Spatially Aware Caching for Accelerated Medical Video Generation	https://neurips.cc/virtual/2026/poster/149788	pending	-
-139548	MedEvoEval: Evaluating Continual Evolution of Doctor Agents through Simulated Clinical Episodes	https://neurips.cc/virtual/2026/poster/139548	pending	-
-149616	MedExAgent: Training LLM Agents to Ask, Examine, and Diagnose in Noisy Clinical Environments	https://neurips.cc/virtual/2026/poster/149616	pending	-
-139506	MedFlowBench: Auditing Medical Agents in Full-Study Workflows	https://neurips.cc/virtual/2026/poster/139506	pending	-
-151266	MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention	https://neurips.cc/virtual/2026/poster/151266	pending	-
-139097	MedHEB: Benchmarking Medical Embeddings Across Heterogeneous Clinical Evidence	https://neurips.cc/virtual/2026/poster/139097	pending	-
-139391	MedHorizon: Towards Long-context Medical Video Understanding in the Wild	https://neurips.cc/virtual/2026/poster/139391	pending	-
-148757	Median-of-Means under Structured Heavy-Tailed Noise: High-Probability Bounds for Clipped Stochastic Optimization	https://neurips.cc/virtual/2026/poster/148757	pending	-
-148462	Medical LLMs as Medical World Models:  Unified Policy-Dynamics Learning with Test-Time Search	https://neurips.cc/virtual/2026/poster/148462	pending	-
-152588	MedIGen: Reliable Medical Illustration Generation via Interleaved Introspective Reasoning	https://neurips.cc/virtual/2026/poster/152588	pending	-
-138975	MedKIT: Evaluating Knowledge Integration and Generalization in Large Language Models	https://neurips.cc/virtual/2026/poster/138975	pending	-
-139434	Medmarks: A Comprehensive Open-Source LLM Benchmark Suite for Medical Tasks	https://neurips.cc/virtual/2026/poster/139434	pending	-
-139145	MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare	https://neurips.cc/virtual/2026/poster/139145	pending	-
-139561	MedMisBench: Measuring Epistemic Resilience of LLMs Under Misleading Medical Context	https://neurips.cc/virtual/2026/poster/139561	pending	-
-150557	MedPsy: State‑of‑the‑Art Small Medical Language Models for Efficient Edge Deployment	https://neurips.cc/virtual/2026/poster/150557	pending	-
-139346	MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence	https://neurips.cc/virtual/2026/poster/139346	pending	-
-150235	MedVIGOR: Visual Evidence Internalization for Observation-Driven Reasoning in Medical VLMs	https://neurips.cc/virtual/2026/poster/150235	pending	-
-152136	MedVTok: A General-Purpose Medical Visual Tokenizer	https://neurips.cc/virtual/2026/poster/152136	pending	-
-155563	MedZERO: Self-Evolving Agents for Open-Ended Medical Reasoning Through Controlled Knowledge Accumulation	https://neurips.cc/virtual/2026/poster/155563	pending	-
-139382	MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping	https://neurips.cc/virtual/2026/poster/139382	pending	-
-139685	MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale	https://neurips.cc/virtual/2026/poster/139685	pending	-
-139235	MEMAUDIT: An Exact Package-Oracle Evaluation Protocol for Budgeted Long-Term LLM Memory Writing	https://neurips.cc/virtual/2026/poster/139235	pending	-
-152585	Membership Inference on Synthetic Single-Cell Genomic Data	https://neurips.cc/virtual/2026/poster/152585	pending	-
-148593	Membrane Sensitivity and Deployment Fragility of Learnable Time Constants in Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/148593	pending	-
-152904	MemCode: Discrete Semantic Representations for Long-Term Agent Memory	https://neurips.cc/virtual/2026/poster/152904	pending	-
+154637	Mechanistic Circuit Identification for Controllable Data Generation	https://neurips.cc/virtual/2026/poster/154637	included	按训练阶段选择数据效用。
+154999	Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration	https://neurips.cc/virtual/2026/poster/154999	included	硬件搜索用算子级资源瓶颈解释仿真。
+154446	Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching	https://neurips.cc/virtual/2026/poster/154446	included	LoRA 按任务用路径修补选层。
+140011	Mechanistic Interpretability Needs Philosophy	https://neurips.cc/virtual/2026/poster/140011	excluded	立场论文，摘要未交代可核验的独立技术机制。
+150909	Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders	https://neurips.cc/virtual/2026/poster/150909	included	概念干预同时验收目标改变与旁路损失。
+156118	Mechanistic Interpretability with Sparse Autoencoder Neural Operators	https://neurips.cc/virtual/2026/poster/156118	included	稀疏字典同时学习是什么和在哪里。
+156000	Mecha-nudges for Machines	https://neurips.cc/virtual/2026/poster/156000	included	代理排序安全审计区分机器和人类对展示的敏感性。
+151799	MechParser: A Vision-Language Framework for Parsing Chemical Reaction Mechanism Diagrams	https://neurips.cc/virtual/2026/poster/151799	excluded	图示解析的主要用途是规模化构建反应机理数据，未提取化学操作机制。
+153012	Med-Agentic: Distilling Agentic Medical Reasoning with Internalized Meta-Capabilities	https://neurips.cc/virtual/2026/poster/153012	included	多技能蒸馏让教师选择随词元技能变化。
+149788	MedCache: Training-Free Spatially Aware Caching for Accelerated Medical Video Generation	https://neurips.cc/virtual/2026/poster/149788	included	视频缓存用局部漂移作风险而不是平均全帧差异。
+139548	MedEvoEval: Evaluating Continual Evolution of Doctor Agents through Simulated Clinical Episodes	https://neurips.cc/virtual/2026/poster/139548	included	长时医疗代理同时测交互成本与历史经验迁移。
+149616	MedExAgent: Training LLM Agents to Ask, Examine, and Diagnose in Noisy Clinical Environments	https://neurips.cc/virtual/2026/poster/149616	included	检查工具的奖励同时计入证据价值和成本。
+139506	MedFlowBench: Auditing Medical Agents in Full-Study Workflows	https://neurips.cc/virtual/2026/poster/139506	included	完整影像阅片必须提交可核验证据。
+151266	MedFlowSeg: Flow Matching for Medical Image Segmentation with Frequency-Aware Attention	https://neurips.cc/virtual/2026/poster/151266	excluded	摘要未给频谱差异融合公式或可区分贡献的实验，应用组合不收录。
+139097	MedHEB: Benchmarking Medical Embeddings Across Heterogeneous Clinical Evidence	https://neurips.cc/virtual/2026/poster/139097	included	嵌入检索按模态变化与证据粒度分层。
+139391	MedHorizon: Towards Long-context Medical Video Understanding in the Wild	https://neurips.cc/virtual/2026/poster/139391	included	稀疏证据长视频将查找和理解分别评测。
+148757	Median-of-Means under Structured Heavy-Tailed Noise: High-Probability Bounds for Clipped Stochastic Optimization	https://neurips.cc/virtual/2026/poster/148757	included	重尾梯度先聚合稳健估计再裁剪。
+148462	Medical LLMs as Medical World Models:  Unified Policy-Dynamics Learning with Test-Time Search	https://neurips.cc/virtual/2026/poster/148462	included	共享状态建模用结构化结果验收模拟器。
+152588	MedIGen: Reliable Medical Illustration Generation via Interleaved Introspective Reasoning	https://neurips.cc/virtual/2026/poster/152588	excluded	摘要主要组合生成反思与再生成，未给特定修复器与可独立迁移反馈规则。
+138975	MedKIT: Evaluating Knowledge Integration and Generalization in Large Language Models	https://neurips.cc/virtual/2026/poster/138975	included	更新知识后按改述、关系、组合和操作层次分别验收。
+139434	Medmarks: A Comprehensive Open-Source LLM Benchmark Suite for Medical Tasks	https://neurips.cc/virtual/2026/poster/139434	excluded	聚合医疗题库有价值，但答案顺序偏差已知，摘要未提供独立校准或可复用的新效应。
+139145	MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare	https://neurips.cc/virtual/2026/poster/139145	excluded	流式记忆退化与已有纵向审计条目重叠，摘要未给出能区别医疗负载的独立对照。
+139561	MedMisBench: Measuring Epistemic Resilience of LLMs Under Misleading Medical Context	https://neurips.cc/virtual/2026/poster/139561	excluded	错误上下文使知识失效的现象已有配对防御评测条目，摘要未提供独立防护机制。
+150557	MedPsy: State‑of‑the‑Art Small Medical Language Models for Efficient Edge Deployment	https://neurips.cc/virtual/2026/poster/150557	excluded	模型训练配方由数据合成、蒸馏及量化联合构成，摘要缺少区分各技术作用的证据。
+139346	MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence	https://neurips.cc/virtual/2026/poster/139346	included	评估依赖图像的医学问答时，对照完整输入与证据受损输入，并测模型是否适当弃答。
+150235	MedVIGOR: Visual Evidence Internalization for Observation-Driven Reasoning in Medical VLMs	https://neurips.cc/virtual/2026/poster/150235	excluded	多类特征锚和奖励整体提升，摘要未隔离何种证据监督修复哪种错误。
+152136	MedVTok: A General-Purpose Medical Visual Tokenizer	https://neurips.cc/virtual/2026/poster/152136	included	统一二维与三维影像 token 时，显式监督切片间差异而非仅逐体素重建。
+155563	MedZERO: Self-Evolving Agents for Open-Ended Medical Reasoning Through Controlled Knowledge Accumulation	https://neurips.cc/virtual/2026/poster/155563	excluded	探索和持久记忆的分工值得复核，摘要未给出可独立审计的准入规则。
+139382	MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping	https://neurips.cc/virtual/2026/poster/139382	excluded	数据扩量及组合生成偏标准流程，摘要缺少区分稠密风格和生成器偏置的诊断。
+139685	MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale	https://neurips.cc/virtual/2026/poster/139685	included	部署私有记忆助手前，同表比较检索后端、读模型大小与权限判断。
+139235	MEMAUDIT: An Exact Package-Oracle Evaluation Protocol for Budgeted Long-Term LLM Memory Writing	https://neurips.cc/virtual/2026/poster/139235	included	比较长期记忆写入策略时，用固定容量下可证明的最优选包作为独立参照。
+152585	Membership Inference on Synthetic Single-Cell Genomic Data	https://neurips.cc/virtual/2026/poster/152585	excluded	关注个体隐私保护，但摘要的核心是攻击效果，暂不提取相关操作。
+148593	Membrane Sensitivity and Deployment Fragility of Learnable Time Constants in Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/148593	included	脉冲网络部署前，对易漂移的膜时间常数进行敏感性正则与型号分层测试。
+152904	MemCode: Discrete Semantic Representations for Long-Term Agent Memory	https://neurips.cc/virtual/2026/poster/152904	included	连续向量检索漏掉语义关联证据时，用独立记忆单元和离散共现链补充。
 154728	MemContract: Contract-Sensitive Evaluation for Mutable Agent Memory	https://neurips.cc/virtual/2026/poster/154728	included	比较记忆后端时单测修订、弃用、擦除和来源追踪。
-155641	MemCoRe: Recovering Evidence from Progressively Compressed Factual Knowledge for Agent Memory	https://neurips.cc/virtual/2026/poster/155641	pending	-
-153503	MemDLM: Memory-Enhanced DLM Training	https://neurips.cc/virtual/2026/poster/153503	pending	-
-151576	MemeEconomy : Do LLM Agents Trade Ethics for Survival?	https://neurips.cc/virtual/2026/poster/151576	pending	-
-154749	MEME: Lightweight Hierarchical Mixture-of-Experts for Unified Affective Computing	https://neurips.cc/virtual/2026/poster/154749	pending	-
-138915	MEME: Multi-Entity & Evolving Memory Evaluation	https://neurips.cc/virtual/2026/poster/138915	pending	-
-156781	Memento No More: Coaching AI Agents to Master Multiple Tasks via Hints Internalization	https://neurips.cc/virtual/2026/poster/156781	pending	-
-156021	MEMEVO: A Memory-Evolved Video Agent for Long Video Understanding	https://neurips.cc/virtual/2026/poster/156021	pending	-
-148407	MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging	https://neurips.cc/virtual/2026/poster/148407	pending	-
-139088	MemLeak: Diagnosing Information Leaks in Multimodal Agent Memory	https://neurips.cc/virtual/2026/poster/139088	pending	-
-152387	Memoir: Let the Model Direct Its Own Story for Robust Cross-Domain Knowledge Editing	https://neurips.cc/virtual/2026/poster/152387	pending	-
-151437	Memorization Is Folding: Topological Signatures of Noisy-Label Learning	https://neurips.cc/virtual/2026/poster/151437	pending	-
-149409	Memorize Theorems, Not Instances: Probing SFT Generalization through Mathematical Reasoning	https://neurips.cc/virtual/2026/poster/149409	pending	-
-149588	Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation	https://neurips.cc/virtual/2026/poster/149588	pending	-
-154952	Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models	https://neurips.cc/virtual/2026/poster/154952	pending	-
-153470	Memory-Driven Contrastive Embedding Enhancement for Fine-Grained Open-Set Semi-Supervised Learning	https://neurips.cc/virtual/2026/poster/153470	pending	-
-149884	Memory-Efficient Federated Fine-Tuning of LLMs via Block-wise Progressive Training	https://neurips.cc/virtual/2026/poster/149884	pending	-
-150585	Memory flows: geometry and dynamics of sequential retrieval in input-driven Hopfield networks	https://neurips.cc/virtual/2026/poster/150585	pending	-
-150888	MemoryFusion: Cross-Temporal Memory Learning for Multimodal Video Fusion	https://neurips.cc/virtual/2026/poster/150888	pending	-
-149792	Memory Grafting: Scaling Language Model Pre-training via Offline Conditional Memory	https://neurips.cc/virtual/2026/poster/149792	pending	-
-151646	Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs	https://neurips.cc/virtual/2026/poster/151646	pending	-
-140078	Memory is Not Search: Towards Proactive, Lifelong Memory in AI	https://neurips.cc/virtual/2026/poster/140078	pending	-
-152449	Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents	https://neurips.cc/virtual/2026/poster/152449	pending	-
-155002	Memory Retrieval for Changing Preferences	https://neurips.cc/virtual/2026/poster/155002	pending	-
-153182	Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies	https://neurips.cc/virtual/2026/poster/153182	pending	-
-154729	MemPilot: Learning Transferable Latent Memory Mechanisms for LLM Reasoning	https://neurips.cc/virtual/2026/poster/154729	pending	-
-150108	MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments	https://neurips.cc/virtual/2026/poster/150108	pending	-
-139557	MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents	https://neurips.cc/virtual/2026/poster/139557	pending	-
-154506	MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers	https://neurips.cc/virtual/2026/poster/154506	pending	-
-154901	MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels	https://neurips.cc/virtual/2026/poster/154901	pending	-
-154245	MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory	https://neurips.cc/virtual/2026/poster/154245	pending	-
-155719	MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents	https://neurips.cc/virtual/2026/poster/155719	pending	-
-153342	MemTailor: Hierarchical Memory-Augmented Multi-Expert Learning for Long-Tailed Recognition	https://neurips.cc/virtual/2026/poster/153342	pending	-
-149502	MENDR: Manifold-Embedded Neural Data Representations for Channel-Agnostic EEG Foundation Modeling	https://neurips.cc/virtual/2026/poster/149502	pending	-
-140081	Mental Health AI Must Move Beyond Diagnostic Prediction and Chat-Based Support: Toward Perspective-Aware, Multisensory Co-Experience	https://neurips.cc/virtual/2026/poster/140081	pending	-
-149637	MentalHospital: A Virtual Environment for Evaluating Psychiatric Clinical Encounters	https://neurips.cc/virtual/2026/poster/149637	pending	-
-154565	Mental Imagery That Matters: Curing Latent Collapse in Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/154565	pending	-
-153908	Mental-Models for Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/153908	pending	-
-151616	Meow-Omni 1: A Multimodal Large Language Model for Feline Ethology	https://neurips.cc/virtual/2026/poster/151616	pending	-
-149089	Merging RLVR-Trained Experts via Policy-Shift-Guided Spectral Alignment	https://neurips.cc/virtual/2026/poster/149089	pending	-
-154136	Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation	https://neurips.cc/virtual/2026/poster/154136	pending	-
-155900	MeshFIM: Local Low-Poly Mesh Editing via Fill-in-the-Middle Autoregressive Generation	https://neurips.cc/virtual/2026/poster/155900	pending	-
-152800	Mesh-Free Convolution: Learned Spectral Attenuation and Transport	https://neurips.cc/virtual/2026/poster/152800	pending	-
-153392	Mesh Invaiant Infinite Dimensional Adaptive  MCMC for Latent Gaussian Processes	https://neurips.cc/virtual/2026/poster/153392	pending	-
-151929	MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting	https://neurips.cc/virtual/2026/poster/151929	pending	-
-152809	MESS: Multi-Exposure Sequence Synthesis for Generalizable Image Enhancement	https://neurips.cc/virtual/2026/poster/152809	pending	-
-151012	Meta$^n$: Recursive Self-Improvement through Emergent Depth	https://neurips.cc/virtual/2026/poster/151012	pending	-
-148967	MetaCluster: Enabling Deep Compression of Kolmogorov-Arnold Network	https://neurips.cc/virtual/2026/poster/148967	pending	-
-155887	Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents	https://neurips.cc/virtual/2026/poster/155887	pending	-
-150960	METAFORGET:  Audit-Driven Update-Policy Learning for Reliable Language Model Unlearning	https://neurips.cc/virtual/2026/poster/150960	pending	-
-150385	Meta Inverse Prompting for Video Generative Models	https://neurips.cc/virtual/2026/poster/150385	pending	-
-149932	MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off	https://neurips.cc/virtual/2026/poster/149932	pending	-
-155916	Meta-Learning Preferences for Multilingual LLM Alignment	https://neurips.cc/virtual/2026/poster/155916	pending	-
-139348	MetaLoop: Benchmarking the Full Metacognitive Loop in LLMs	https://neurips.cc/virtual/2026/poster/139348	pending	-
-150978	Meta-memorization and memorization scaling laws in transformers	https://neurips.cc/virtual/2026/poster/150978	pending	-
-148316	META-PAP: Meta-learning for Prompt-aware Preference Pairing in LLM Alignment	https://neurips.cc/virtual/2026/poster/148316	pending	-
-153558	Metaphor Is Not All Attention Needs	https://neurips.cc/virtual/2026/poster/153558	pending	-
-139257	MetaPI: Constructing Prompt Injection Benchmarks from Any Agent Benchmarks	https://neurips.cc/virtual/2026/poster/139257	pending	-
-154250	Meta-Reinforcement Learning with Zero-Shot Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154250	pending	-
-154244	Meta-TTRL: A Metacognitive Framework for Self-Improving Test-Time Reinforcement Learning for T2I Generation in Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/154244	pending	-
-154696	METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model	https://neurips.cc/virtual/2026/poster/154696	pending	-
-153483	Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts	https://neurips.cc/virtual/2026/poster/153483	pending	-
-154570	METRO: Metric-Enhanced Token Routing Operator	https://neurips.cc/virtual/2026/poster/154570	pending	-
-148667	Metropolis-Adjusted Diffusion Models	https://neurips.cc/virtual/2026/poster/148667	pending	-
-139581	Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling	https://neurips.cc/virtual/2026/poster/139581	pending	-
-139259	MEV: A Multi-Event Video Dataset for Long-Take Generation	https://neurips.cc/virtual/2026/poster/139259	pending	-
-152369	MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching	https://neurips.cc/virtual/2026/poster/152369	pending	-
-151505	MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory	https://neurips.cc/virtual/2026/poster/151505	pending	-
-154328	MHWA: Multi-timescale Hierarchical World-Action Model	https://neurips.cc/virtual/2026/poster/154328	pending	-
-150066	MICA: Activation Checkpointing for Double-Backward Training of Machine Learning Interatomic Potentials	https://neurips.cc/virtual/2026/poster/150066	pending	-
-150591	MICE: Multi-animal Interaction Context Encoder — A Hierarchical Foundation Model for Mouse Behavior	https://neurips.cc/virtual/2026/poster/150591	pending	-
-148957	MiCo: Microstructure-Consistent Flow Matching for Diffusion MRI Angular Super-Resolution	https://neurips.cc/virtual/2026/poster/148957	pending	-
-149911	Microstructure Descriptor Fields as Supervision for Scientific Images	https://neurips.cc/virtual/2026/poster/149911	pending	-
-151480	MicroWorld: Empowering Multimodal Large Language Models to Bridge the Microscopic Domain Gap with Multimodal Attribute Graph	https://neurips.cc/virtual/2026/poster/151480	pending	-
-152974	MID: Mask-Image Distributional Divergence for Evaluating Medical Image Segmentation	https://neurips.cc/virtual/2026/poster/152974	pending	-
-154433	Midpoint Generative Models	https://neurips.cc/virtual/2026/poster/154433	pending	-
-149598	Mildly Overparameterized ReLU Networks on Orthogonal Data: Incremental Learning and Implicit Bias	https://neurips.cc/virtual/2026/poster/149598	pending	-
-155027	MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning	https://neurips.cc/virtual/2026/poster/155027	pending	-
-155135	MilliVid: Adaptive Latents for Long-Range Consistency in Video Generation	https://neurips.cc/virtual/2026/poster/155135	pending	-
-155268	Mimicking the Physicist's Eye: A VLM-centric Approach for Physics Formula Discovery	https://neurips.cc/virtual/2026/poster/155268	pending	-
-149255	MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding	https://neurips.cc/virtual/2026/poster/149255	pending	-
-155628	MIND-DDI: Multi-Omics Interpretable Drug-Drug Interaction Prediction with Joint Optimization of Graph Structure, Neural Architecture, and Symbolic Rules	https://neurips.cc/virtual/2026/poster/155628	pending	-
-139792	MindGames:A Multi-Agent Benchmark and Trajectory Dataset for Evaluating Social and Strategic Reasoning in LLMs	https://neurips.cc/virtual/2026/poster/139792	pending	-
-138950	MindGuard: Guardrail Classifiers for Multi-Turn Mental Health Support	https://neurips.cc/virtual/2026/poster/138950	pending	-
-155952	MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis	https://neurips.cc/virtual/2026/poster/155952	pending	-
-150991	MIND: Monge Inception Distance for Generative Models Evaluation	https://neurips.cc/virtual/2026/poster/150991	pending	-
-149071	MindShape: Superquadric-Constrained High-Fidelity 3D Reconstruction from fMRI	https://neurips.cc/virtual/2026/poster/149071	pending	-
+155641	MemCoRe: Recovering Evidence from Progressively Compressed Factual Knowledge for Agent Memory	https://neurips.cc/virtual/2026/poster/155641	excluded	逐级压缩与层次检索主要组合已有表示，摘要不足以确定何时应保留细节。
+153503	MemDLM: Memory-Enhanced DLM Training	https://neurips.cc/virtual/2026/poster/153503	included	扩散语言模型训练不覆盖迭代去噪时，可用内循环快权重模拟轨迹经验。
+151576	MemeEconomy : Do LLM Agents Trade Ethics for Survival?	https://neurips.cc/virtual/2026/poster/151576	excluded	安全场景诊断有价值，但摘要中行为规律偏该模拟市场，缺少结构化日志之外的独立防护验证。
+154749	MEME: Lightweight Hierarchical Mixture-of-Experts for Unified Affective Computing	https://neurips.cc/virtual/2026/poster/154749	excluded	模态专家和任务专家整合有候选价值，摘要未隔离两级路由作用。
+138915	MEME: Multi-Entity & Evolving Memory Evaluation	https://neurips.cc/virtual/2026/poster/138915	included	长期记忆验收中，给实体关联、级联变化与删除分别设计测试，而非只测静态检索。
+156781	Memento No More: Coaching AI Agents to Master Multiple Tasks via Hints Internalization	https://neurips.cc/virtual/2026/poster/156781	excluded	专家反馈与上下文蒸馏联合提升，摘要缺少与普通反馈微调的独立对比。
+156021	MEMEVO: A Memory-Evolved Video Agent for Long Video Understanding	https://neurips.cc/virtual/2026/poster/156021	included	多问同一视频时保留可跨指令复用的事件节点。
+148407	MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging	https://neurips.cc/virtual/2026/poster/148407	included	代理记忆可在语义相关且时间邻近的事件内做渐进合并。
+139088	MemLeak: Diagnosing Information Leaks in Multimodal Agent Memory	https://neurips.cc/virtual/2026/poster/139088	included	数据删除审计覆盖仍保留的相关模态。
+152387	Memoir: Let the Model Direct Its Own Story for Robust Cross-Domain Knowledge Editing	https://neurips.cc/virtual/2026/poster/152387	included	持续知识编辑用模型实际输出分布估计保留子空间。
+151437	Memorization Is Folding: Topological Signatures of Noisy-Label Learning	https://neurips.cc/virtual/2026/poster/151437	included	噪声标签监测增加倒数层特征的环结构持久性。
+149409	Memorize Theorems, Not Instances: Probing SFT Generalization through Mathematical Reasoning	https://neurips.cc/virtual/2026/poster/149409	included	数学监督由固定解答转为显式定理应用。
+149588	Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation	https://neurips.cc/virtual/2026/poster/149588	included	视频生成仅在相机重访时接入空间历史。
+154952	Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models	https://neurips.cc/virtual/2026/poster/154952	included	状态空间训练前检查初始递推能否保留教师信号。
+153470	Memory-Driven Contrastive Embedding Enhancement for Fine-Grained Open-Set Semi-Supervised Learning	https://neurips.cc/virtual/2026/poster/153470	excluded	摘要以记忆库存原型和跨模态对比改善开放集半监督，缺少证明其独立机制超出现有原型增强的分解。
+149884	Memory-Efficient Federated Fine-Tuning of LLMs via Block-wise Progressive Training	https://neurips.cc/virtual/2026/poster/149884	included	低内存联邦微调可按重叠块训练，但应监控跨块特征漂移。
+150585	Memory flows: geometry and dynamics of sequential retrieval in input-driven Hopfield networks	https://neurips.cc/virtual/2026/poster/150585	included	顺序联想记忆通过快检索和慢反馈控制转换。
+150888	MemoryFusion: Cross-Temporal Memory Learning for Multimodal Video Fusion	https://neurips.cc/virtual/2026/poster/150888	excluded	摘要主要组合短长记忆和时序细化，未给超出已有多尺度视频融合的独立证据。
+149792	Memory Grafting: Scaling Language Model Pre-training via Offline Conditional Memory	https://neurips.cc/virtual/2026/poster/149792	excluded	摘要提出捐赠模型抽取内部记忆辅助预训练，但没有给数据或可判断收益的结果与基线。
+151646	Memory Inception: Latent-Space KV Cache Manipulation for Steering LLMs	https://neurips.cc/virtual/2026/poster/151646	included	长期结构化提示可在受控任务测局部缓存与完整提示的成本权衡。
+140078	Memory is Not Search: Towards Proactive, Lifelong Memory in AI	https://neurips.cc/virtual/2026/poster/140078	excluded	立场性讨论未给明确实现并经验证的主动记忆技术。
+152449	Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents	https://neurips.cc/virtual/2026/poster/152449	included	代理记忆操作做反事实比较时固定分支起点的记忆状态。
+155002	Memory Retrieval for Changing Preferences	https://neurips.cc/virtual/2026/poster/155002	included	变动偏好检索应以历史内容对参考回应的增益作为训练信号。
+153182	Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies	https://neurips.cc/virtual/2026/poster/153182	included	多类型记忆应根据记录和查询类型共同选检索策略。
+154729	MemPilot: Learning Transferable Latent Memory Mechanisms for LLM Reasoning	https://neurips.cc/virtual/2026/poster/154729	included	把可换的潜记忆内容与学习到的读取机制分离。
+150108	MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments	https://neurips.cc/virtual/2026/poster/150108	included	部分观测下保留环境反馈反驳的假设，让符号规划绕开重复失败。
+139557	MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents	https://neurips.cc/virtual/2026/poster/139557	included	记忆安全同时检查写入和检索后的上下文。
+154506	MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers	https://neurips.cc/virtual/2026/poster/154506	included	流式点云配准分别记忆特征与历史位姿。
+154901	MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels	https://neurips.cc/virtual/2026/poster/154901	included	奖励稀缺时用异构经验图在标注和未标注展开间传递。
+154245	MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory	https://neurips.cc/virtual/2026/poster/154245	excluded	摘要未披露两阶段检索的评分与更新规则，无法确认独立可迁移机制。
+155719	MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents	https://neurips.cc/virtual/2026/poster/155719	included	将记忆读写操作本身做成可复用技能并更新。
+153342	MemTailor: Hierarchical Memory-Augmented Multi-Expert Learning for Long-Tailed Recognition	https://neurips.cc/virtual/2026/poster/153342	included	长尾类别给外置视觉记忆分配不等容量。
+149502	MENDR: Manifold-Embedded Neural Data Representations for Channel-Agnostic EEG Foundation Modeling	https://neurips.cc/virtual/2026/poster/149502	included	不同 EEG 电极配置先做协方差几何标准化。
+140081	Mental Health AI Must Move Beyond Diagnostic Prediction and Chat-Based Support: Toward Perspective-Aware, Multisensory Co-Experience	https://neurips.cc/virtual/2026/poster/140081	excluded	立场文提出共体验框架，摘要未给可复用的实现或验证。
+149637	MentalHospital: A Virtual Environment for Evaluating Psychiatric Clinical Encounters	https://neurips.cc/virtual/2026/poster/149637	included	精神科代理分别评估过程表现和结果。
+154565	Mental Imagery That Matters: Curing Latent Collapse in Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/154565	included	训练潜在视觉推理先检查生成的视觉状态是否影响答案。
+153908	Mental-Models for Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/153908	included	交互策略显式维护合作方状态。
+151616	Meow-Omni 1: A Multimodal Large Language Model for Feline Ethology	https://neurips.cc/virtual/2026/poster/151616	excluded	主要是面向猫行为的新数据与多模态集成，摘要未给可迁移融合机制或模态因果对照。
+149089	Merging RLVR-Trained Experts via Policy-Shift-Guided Spectral Alignment	https://neurips.cc/virtual/2026/poster/149089	included	合并强化后训练适配器优先保留显著改变策略的方向。
+154136	Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation	https://neurips.cc/virtual/2026/poster/154136	included	将网格连通性编码成连续表面场供扩散。
+155900	MeshFIM: Local Low-Poly Mesh Editing via Fill-in-the-Middle Autoregressive Generation	https://neurips.cc/virtual/2026/poster/155900	included	网格局部修复把裸露边界作为生成硬条件。
+152800	Mesh-Free Convolution: Learned Spectral Attenuation and Transport	https://neurips.cc/virtual/2026/poster/152800	included	学习连续卷积时将离散化推迟到推理。
+153392	Mesh Invaiant Infinite Dimensional Adaptive  MCMC for Latent Gaussian Processes	https://neurips.cc/virtual/2026/poster/153392	included	函数空间自适应 MCMC 只修改数据识别的有限子空间。
+151929	MESSENGER: Memory-Enhanced Sequential Scene Flow Estimation via Autoregressive Next-Frame Forecasting	https://neurips.cc/virtual/2026/poster/151929	included	长时场景流主动过滤不可信历史预测。
+152809	MESS: Multi-Exposure Sequence Synthesis for Generalizable Image Enhancement	https://neurips.cc/virtual/2026/poster/152809	included	曝光增强以 RAW 渲染监督扩展真实 RGB 合成。
+151012	Meta$^n$: Recursive Self-Improvement through Emergent Depth	https://neurips.cc/virtual/2026/poster/151012	excluded	摘要主线为执行代码的递归自改进，缺少能独立提取且非操作性的受控改动证据。
+148967	MetaCluster: Enabling Deep Compression of Kolmogorov-Arnold Network	https://neurips.cc/virtual/2026/poster/148967	included	需要压缩每条边存多个系数的网络时，先训练系数落到低维流形，再量化成共享原型。
+155887	Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents	https://neurips.cc/virtual/2026/poster/155887	excluded	信念不确定性有潜力，但摘要未说明如何测量或校准到真实任务状态。
+150960	METAFORGET:  Audit-Driven Update-Policy Learning for Reliable Language Model Unlearning	https://neurips.cc/virtual/2026/poster/150960	excluded	遗忘代理结合多个审核和适配信号，摘要未隔离所选更新与单独局部优化的收益。
+150385	Meta Inverse Prompting for Video Generative Models	https://neurips.cc/virtual/2026/poster/150385	excluded	元提示摊销逆生成有价值，但摘要没有具体时序优化形式及可复用规则。
+149932	MetaKE: Meta-Learning for Knowledge Editing Toward a Better Accuracy-Editability Trade-off	https://neurips.cc/virtual/2026/poster/149932	excluded	双层编辑框架有动机，摘要缺少如何构造结构梯度代理的证据。
+155916	Meta-Learning Preferences for Multilingual LLM Alignment	https://neurips.cc/virtual/2026/poster/155916	excluded	主要用现有元学习机制解决低资源语言偏好，未明确独立的可转移模块。
+139348	MetaLoop: Benchmarking the Full Metacognitive Loop in LLMs	https://neurips.cc/virtual/2026/poster/139348	included	评估模型自知能力时，串联检测不确定、采取动作及利用反馈三个阶段。
+150978	Meta-memorization and memorization scaling laws in transformers	https://neurips.cc/virtual/2026/poster/150978	included	审计模型随预训练吸收随机样本的速度时，分开量化容量、重复次数和训练阶段。
+148316	META-PAP: Meta-learning for Prompt-aware Preference Pairing in LLM Alignment	https://neurips.cc/virtual/2026/poster/148316	included	构造偏好响应对时，按同一提示的响应多样性选择奖励差距。
+153558	Metaphor Is Not All Attention Needs	https://neurips.cc/virtual/2026/poster/153558	excluded	保持防护评估视角即可，摘要的主要结论与已有语义保持偏移诊断重叠。
+139257	MetaPI: Constructing Prompt Injection Benchmarks from Any Agent Benchmarks	https://neurips.cc/virtual/2026/poster/139257	excluded	核心为自动化攻击目标及载荷构造，暂不提取操作流程。
+154250	Meta-Reinforcement Learning with Zero-Shot Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154250	excluded	四类能力共同整合，摘要缺少单个探索或奖励推断规则的可复用证据。
+154244	Meta-TTRL: A Metacognitive Framework for Self-Improving Test-Time Reinforcement Learning for T2I Generation in Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/154244	excluded	生成器与自我审核联合有改善，摘要的监控与现有自评训练难独立区分。
+154696	METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model	https://neurips.cc/virtual/2026/poster/154696	excluded	主要贡献多源灵巧训练语料和整体模型，摘要未说明动作统一方式的独立作用。
+153483	Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts	https://neurips.cc/virtual/2026/poster/153483	included	低分辨率深度提示失真程度不一时，以不确定性设置扩散反演的起点。
+154570	METRO: Metric-Enhanced Token Routing Operator	https://neurips.cc/virtual/2026/poster/154570	included	复杂网格切片路由时，尝试每个潜切片不同的局部各向异性度量。
+148667	Metropolis-Adjusted Diffusion Models	https://neurips.cc/virtual/2026/poster/148667	included	扩散采样的 Langevin 校正误差明显时，在不要求可求密度比的条件下比较接受拒绝校正。
+139581	Metropolis-Scale Road Network Datasets for Fine-Grained Urban Traffic Modeling	https://neurips.cc/virtual/2026/poster/139581	excluded	道路尺度和真实连通是主要资源贡献，摘要没明确基线扩展策略。
+139259	MEV: A Multi-Event Video Dataset for Long-Take Generation	https://neurips.cc/virtual/2026/poster/139259	excluded	长视频数据及事件标注有资源价值，摘要缺少事件切分、条件和训练数据的隔离对照。
+152369	MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching	https://neurips.cc/virtual/2026/poster/152369	included	长音频流式生成时，按时间和频率分开扫描，并跨分块保留固定状态。
+151505	MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory	https://neurips.cc/virtual/2026/poster/151505	included	长对话记忆以可重复的实体索引返回原始证据。
+154328	MHWA: Multi-timescale Hierarchical World-Action Model	https://neurips.cc/virtual/2026/poster/154328	included	多时标世界模型降低全局状态刷新频率，再用观测动态选局部专家。
+150066	MICA: Activation Checkpointing for Double-Backward Training of Machine Learning Interatomic Potentials	https://neurips.cc/virtual/2026/poster/150066	included	二阶反传显存规划应单独管理首次反向激活。
+150591	MICE: Multi-animal Interaction Context Encoder — A Hierarchical Foundation Model for Mouse Behavior	https://neurips.cc/virtual/2026/poster/150591	included	不同群体大小的行为分析可用固定交互潜码本连接个体编码。
+148957	MiCo: Microstructure-Consistent Flow Matching for Diffusion MRI Angular Super-Resolution	https://neurips.cc/virtual/2026/poster/148957	included	稀疏物理测量重建先从闭式估计出发，再学习高阶残差。
+149911	Microstructure Descriptor Fields as Supervision for Scientific Images	https://neurips.cc/virtual/2026/poster/149911	excluded	提出可复用的微结构描述场监督，但摘要未报告验证结果和可辨别的对比；暂留待核。
+151480	MicroWorld: Empowering Multimodal Large Language Models to Bridge the Microscopic Domain Gap with Multimodal Attribute Graph	https://neurips.cc/virtual/2026/poster/151480	excluded	摘要主要把现有图谱检索、实体提取与多模态嵌入适配显微领域，未给独立检索机制的对照。
+152974	MID: Mask-Image Distributional Divergence for Evaluating Medical Image Segmentation	https://neurips.cc/virtual/2026/poster/152974	included	无配对分割验收比较输入和掩码的联合分布。
+154433	Midpoint Generative Models	https://neurips.cc/virtual/2026/poster/154433	included	一步生成用两端分布在线性流中点的漂移差训练。
+149598	Mildly Overparameterized ReLU Networks on Orthogonal Data: Incremental Learning and Implicit Bias	https://neurips.cc/virtual/2026/poster/149598	included	小初始化 ReLU 学习可按新单元何时激活分阶段分析。
+155027	MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning	https://neurips.cc/virtual/2026/poster/155027	included	推理记忆以子目标对应子指令，并只为不确定样例重排。
+155135	MilliVid: Adaptive Latents for Long-Range Consistency in Video Generation	https://neurips.cc/virtual/2026/poster/155135	included	长视频用稀疏粗尺度维持场景状态，再补短期高频。
+155268	Mimicking the Physicist's Eye: A VLM-centric Approach for Physics Formula Discovery	https://neurips.cc/virtual/2026/poster/155268	included	物理公式发现分开评结构正确和系数拟合。
+149255	MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding	https://neurips.cc/virtual/2026/poster/149255	included	脑信号与视觉对齐时可把文字作为语义正则，并比较教师嵌入几何。
+155628	MIND-DDI: Multi-Omics Interpretable Drug-Drug Interaction Prediction with Joint Optimization of Graph Structure, Neural Architecture, and Symbolic Rules	https://neurips.cc/virtual/2026/poster/155628	excluded	摘要以生物图采样、架构搜索和规则学习组合预测药物交互，缺少分解证据支持独立保留。
+139792	MindGames:A Multi-Agent Benchmark and Trajectory Dataset for Evaluating Social and Strategic Reasoning in LLMs	https://neurips.cc/virtual/2026/poster/139792	included	多智能体竞赛榜单同时归因策略和对手的规则错误。
+138950	MindGuard: Guardrail Classifiers for Multi-Turn Mental Health Support	https://neurips.cc/virtual/2026/poster/138950	included	心理支持防护同时审计高风险漏报与普通披露误报。
+155952	MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis	https://neurips.cc/virtual/2026/poster/155952	included	合成良性推理训练题先拆解可验证规则步骤，再控制组合难度。
+150991	MIND: Monge Inception Distance for Generative Models Evaluation	https://neurips.cc/virtual/2026/poster/150991	included	模型生成快速迭代用投影传输度量提高小样本评估效率。
+149071	MindShape: Superquadric-Constrained High-Fidelity 3D Reconstruction from fMRI	https://neurips.cc/virtual/2026/poster/149071	included	高噪声几何解码先恢复低维形状基元再条件生成。
 139386	Mind the Gap: Dataset and Fine-grained Evaluation for Inline Audio Descriptions	https://neurips.cc/virtual/2026/poster/139386	pending	-
 154578	Mind the Gap: Information Disadvantage as a Learning Signal in Cooperative MARL	https://neurips.cc/virtual/2026/poster/154578	pending	-
 152724	Mind the Gap: The Divergent Rebound Dynamics of Diffusion and Autoregressive Model	https://neurips.cc/virtual/2026/poster/152724	pending	-

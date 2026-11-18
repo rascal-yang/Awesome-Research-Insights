@@ -523,5 +523,11 @@
 - [Manifold Random Features](../conferences/neurips-2026/cards-0008.md#paper-152522)
 - [MapPolicy: Structure-Aware Imitation Learning for Robot Manipulation via Physically Constrained Scene Map](../conferences/neurips-2026/cards-0008.md#paper-154988)
 - [MARS: Multi-resolution Adaptive Routing for Sequential Recommendation](../conferences/neurips-2026/cards-0008.md#paper-156035)
+- [Mechanistic Interpretability with Sparse Autoencoder Neural Operators](../conferences/neurips-2026/cards-0008.md#paper-156118)
+- [MemCode: Discrete Semantic Representations for Long-Term Agent Memory](../conferences/neurips-2026/cards-0008.md#paper-152904)
+- [MENDR: Manifold-Embedded Neural Data Representations for Channel-Agnostic EEG Foundation Modeling](../conferences/neurips-2026/cards-0008.md#paper-149502)
+- [Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation](../conferences/neurips-2026/cards-0008.md#paper-154136)
+- [MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding](../conferences/neurips-2026/cards-0008.md#paper-149255)
+- [MindShape: Superquadric-Constrained High-Fidelity 3D Reconstruction from fMRI](../conferences/neurips-2026/cards-0008.md#paper-149071)
 
 <!-- conference-classification:end -->

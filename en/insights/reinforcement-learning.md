@@ -579,5 +579,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [MaPP: A Unified Marginalized Posterior-Predictive Framework for Data-Efficient RLVR](../../conferences/neurips-2026/cards-0008.md#paper-153702)
 - [MaskSense: Confronting the Visual Exploration Trap in Masked Image Generation](../../conferences/neurips-2026/cards-0008.md#paper-155231)
 - [MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-152443)
+- [MedExAgent: Training LLM Agents to Ask, Examine, and Diagnose in Noisy Clinical Environments](../../conferences/neurips-2026/cards-0008.md#paper-149616)
+- [Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents](../../conferences/neurips-2026/cards-0008.md#paper-152449)
+- [MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels](../../conferences/neurips-2026/cards-0008.md#paper-154901)
+- [Mimicking the Physicist's Eye: A VLM-centric Approach for Physics Formula Discovery](../../conferences/neurips-2026/cards-0008.md#paper-155268)
 
 <!-- conference-classification:end -->

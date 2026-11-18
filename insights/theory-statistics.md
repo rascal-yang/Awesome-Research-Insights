@@ -948,5 +948,8 @@
 - [Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions](../conferences/neurips-2026/cards-0008.md#paper-149972)
 - [Mean Testing under Truncation beyond Gaussian](../conferences/neurips-2026/cards-0008.md#paper-152034)
 - [Measuring and Decomposing Mode Separation via the Canonical Diffusion](../conferences/neurips-2026/cards-0008.md#paper-153978)
+- [Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models](../conferences/neurips-2026/cards-0008.md#paper-154952)
+- [Memory flows: geometry and dynamics of sequential retrieval in input-driven Hopfield networks](../conferences/neurips-2026/cards-0008.md#paper-150585)
+- [Mildly Overparameterized ReLU Networks on Orthogonal Data: Incremental Learning and Implicit Bias](../conferences/neurips-2026/cards-0008.md#paper-149598)
 
 <!-- conference-classification:end -->

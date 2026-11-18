@@ -334,5 +334,10 @@ Data selection, annotation, augmentation, and sampling.
 - [Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees](../../conferences/neurips-2026/cards-0008.md#paper-148332)
 - [M$^3$: Reframing Training Measures for Discretized Physical Simulations](../../conferences/neurips-2026/cards-0008.md#paper-149542)
 - [MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals](../../conferences/neurips-2026/cards-0008.md#paper-155062)
+- [Mechanistic Circuit Identification for Controllable Data Generation](../../conferences/neurips-2026/cards-0008.md#paper-154637)
+- [MESS: Multi-Exposure Sequence Synthesis for Generalizable Image Enhancement](../../conferences/neurips-2026/cards-0008.md#paper-152809)
+- [META-PAP: Meta-learning for Prompt-aware Preference Pairing in LLM Alignment](../../conferences/neurips-2026/cards-0008.md#paper-148316)
+- [MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory](../../conferences/neurips-2026/cards-0008.md#paper-151505)
+- [MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis](../../conferences/neurips-2026/cards-0008.md#paper-155952)
 
 <!-- conference-classification:end -->

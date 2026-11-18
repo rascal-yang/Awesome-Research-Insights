@@ -740,5 +740,12 @@
 - [Masked Diffusion Vision-Language Models for Temporal Action Localization](../conferences/neurips-2026/cards-0008.md#paper-149422)
 - [Measure Less, Know More: Self-Supervised Test-Time Feature Acquisition](../conferences/neurips-2026/cards-0008.md#paper-151285)
 - [Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability](../conferences/neurips-2026/cards-0008.md#paper-139418)
+- [Med-Agentic: Distilling Agentic Medical Reasoning with Internalized Meta-Capabilities](../conferences/neurips-2026/cards-0008.md#paper-153012)
+- [MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence](../conferences/neurips-2026/cards-0008.md#paper-139346)
+- [MedVTok: A General-Purpose Medical Visual Tokenizer](../conferences/neurips-2026/cards-0008.md#paper-152136)
+- [MEMEVO: A Memory-Evolved Video Agent for Long Video Understanding](../conferences/neurips-2026/cards-0008.md#paper-156021)
+- [MemLeak: Diagnosing Information Leaks in Multimodal Agent Memory](../conferences/neurips-2026/cards-0008.md#paper-139088)
+- [Mental Imagery That Matters: Curing Latent Collapse in Multimodal Reasoning](../conferences/neurips-2026/cards-0008.md#paper-154565)
+- [MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching](../conferences/neurips-2026/cards-0008.md#paper-152369)
 
 <!-- conference-classification:end -->
