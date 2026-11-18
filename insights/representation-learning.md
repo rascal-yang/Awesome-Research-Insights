@@ -556,5 +556,8 @@
 - [Online Directional Regression for Streaming Sufficient Dimension Reduction](../conferences/neurips-2026/cards-0009.md#paper-148149)
 - [On the Geometry and Latent-Space Composition of Hypernetwork-Generated LoRAs](../conferences/neurips-2026/cards-0009.md#paper-148858)
 - [On the Provable Emergence of Hierarchical Concept Structure in CLIP Embeddings](../conferences/neurips-2026/cards-0009.md#paper-153853)
+- [Optimal Representation Size: High-Dimensional Analysis of Pretraining and Linear Probing](../conferences/neurips-2026/cards-0009.md#paper-152669)
+- [Orthogonal Origin Parking: Decoupling Lorentz Manifolds for Robust OOD Generalization](../conferences/neurips-2026/cards-0009.md#paper-150309)
+- [Orthogonal Sparse Subgraph Alignment for Structure-Function Coupling in Brain Networks](../conferences/neurips-2026/cards-0009.md#paper-155965)
 
 <!-- conference-classification:end -->

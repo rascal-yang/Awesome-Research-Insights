@@ -330,5 +330,9 @@
 - [OHATP: Graph Anomaly Detection with Orthogonal-Hyperspherical Augmentation and Topology Perception](../conferences/neurips-2026/cards-0009.md#paper-155542)
 - [Online Learning with Certified Unlearning over Graphs](../conferences/neurips-2026/cards-0009.md#paper-151773)
 - [On the Rademacher Complexity of Graph Neural Networks: Unifying Expressivity and Geometry](../conferences/neurips-2026/cards-0009.md#paper-154768)
+- [Orlicz–Sobolev with Musielak: An Efficient Regularization Approach for Graph-based IPM](../conferences/neurips-2026/cards-0009.md#paper-153614)
+- [Orthogonal Sparse Subgraph Alignment for Structure-Function Coupling in Brain Networks](../conferences/neurips-2026/cards-0009.md#paper-155965)
+- [Oversmoothing as Representation Degeneracy in Neural Sheaf Diffusion](../conferences/neurips-2026/cards-0009.md#paper-152216)
+- [PANDA: Prior-guided Attentional Dual-path Architecture](../conferences/neurips-2026/cards-0009.md#paper-153505)
 
 <!-- conference-classification:end -->

@@ -796,5 +796,11 @@ Training schedules, curricula, and task or stage composition.
 - [On the Information Loss of Multi-Token Prediction: Origin and Solution](../../conferences/neurips-2026/cards-0009.md#paper-148174)
 - [On the Token Value Inequality in Efficient Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-150461)
 - [OPERA: An Agent for Image Restoration with End-to-End Joint Planning–Execution Optimization](../../conferences/neurips-2026/cards-0009.md#paper-149311)
+- [Optimized Forward-Backward Rematerialization for Memory-Efficient Pipeline Parallel Training](../../conferences/neurips-2026/cards-0009.md#paper-150439)
+- [OTIS: Learning High-Quality Time Series Features With Tiny Encoders](../../conferences/neurips-2026/cards-0009.md#paper-156785)
+- [Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data](../../conferences/neurips-2026/cards-0009.md#paper-151111)
+- [Overcoming Rank Collapse in Feedback Alignment](../../conferences/neurips-2026/cards-0009.md#paper-152172)
+- [PaLoRA: Paced Low-Rank Adaptation for Continual Learning](../../conferences/neurips-2026/cards-0009.md#paper-150774)
+- [Pan-FM: A Pan-Organ Foundation Model with Saliency-Guided Masking for Missing Robustness](../../conferences/neurips-2026/cards-0009.md#paper-154817)
 
 <!-- conference-classification:end -->

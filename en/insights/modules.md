@@ -390,5 +390,15 @@ Reusable components and local changes to model inputs or connections.
 - [One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection](../../conferences/neurips-2026/cards-0009.md#paper-149035)
 - [On Making $SE(2)$-Invariant Networks Optimal](../../conferences/neurips-2026/cards-0009.md#paper-155688)
 - [On the Runway Cascade of Transformers for Language Modeling](../../conferences/neurips-2026/cards-0009.md#paper-154750)
+- [OrbitLoRA: Learning Rotation-Aware Low-Data Adaptation of Vision Foundation Models](../../conferences/neurips-2026/cards-0009.md#paper-149392)
+- [OTformer: Non-Stationarity-Aware Adaptive Optimal Transport Attention for Time Series Forecasting](../../conferences/neurips-2026/cards-0009.md#paper-148743)
+- [Overcoming Attention Distraction: Training-Free Latent Communication for Multi-Agent Systems](../../conferences/neurips-2026/cards-0009.md#paper-150982)
+- [Overcoming Kernel Redundancy for Scaling Logic Gate Networks](../../conferences/neurips-2026/cards-0009.md#paper-149563)
+- [Paloma: Phase-Conditioned Residual Modulation for Time Series Forecasting](../../conferences/neurips-2026/cards-0009.md#paper-154087)
+- [PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting](../../conferences/neurips-2026/cards-0009.md#paper-155815)
+- [PANDA: Prior-guided Attentional Dual-path Architecture](../../conferences/neurips-2026/cards-0009.md#paper-153505)
+- [Panoptic Saliency Ranking](../../conferences/neurips-2026/cards-0009.md#paper-152142)
+- [PanoWorld: Towards Spatial Supersensing in 360◦ Panorama World](../../conferences/neurips-2026/cards-0009.md#paper-150495)
+- [Parabolic Position Encoding: Vision-Centric, Principled, Extrapolatable, General](../../conferences/neurips-2026/cards-0009.md#paper-151484)
 
 <!-- conference-classification:end -->

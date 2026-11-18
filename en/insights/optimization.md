@@ -701,5 +701,15 @@ Gradient updates, parameterization, and optimization dynamics.
 - [On the Nonlinearity of Learning Rate Scaling for LLM Training](../../conferences/neurips-2026/cards-0009.md#paper-155689)
 - [Optimal Byzantine-resilient Federated Learning with User-level Differential Privacy](../../conferences/neurips-2026/cards-0009.md#paper-152344)
 - [Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets](../../conferences/neurips-2026/cards-0009.md#paper-148709)
+- [Optimal Rates for Adaptive Private $k$-PCA](../../conferences/neurips-2026/cards-0009.md#paper-152628)
+- [Optimal Rates for Pure $\varepsilon$-Differentially Private Stochastic Convex Optimization with Heavy Tails](../../conferences/neurips-2026/cards-0009.md#paper-148362)
+- [Optimal Risk Bounds of Stochastic Gradient Descent for Shallow ReLU Networks](../../conferences/neurips-2026/cards-0009.md#paper-151070)
+- [Optimal Subgroup Discovery at Every Support Threshold](../../conferences/neurips-2026/cards-0009.md#paper-149258)
+- [Optimistic Dual Averaging Unifies Modern Optimizers](../../conferences/neurips-2026/cards-0009.md#paper-150725)
+- [Optimizing Computational-Statistical Runtime for Wasserstein Distance Estimation](../../conferences/neurips-2026/cards-0009.md#paper-155480)
+- [Orthogonal Updates for the Win: Towards Accelerated Adaptive Minimax Optimization](../../conferences/neurips-2026/cards-0009.md#paper-155673)
+- [PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization](../../conferences/neurips-2026/cards-0009.md#paper-149179)
+- [PACO: Partial-order-Augmented Continuous Optimization for Differentiable Causal Discovery](../../conferences/neurips-2026/cards-0009.md#paper-155276)
+- [Parallel Broyden methods for efficiently evaluating nonlinear state space models](../../conferences/neurips-2026/cards-0009.md#paper-150574)
 
 <!-- conference-classification:end -->

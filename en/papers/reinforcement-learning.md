@@ -639,5 +639,8 @@ Learning from interaction, feedback, and offline experience.
 - [On the Primacy Bias in RLVR Training](../../conferences/neurips-2026/cards-0009.md#paper-150372)
 - [OPSRL-SSP: Optimistic Posterior Sampling for Stochastic Shortest Path with Minimax-Optimal Regret](../../conferences/neurips-2026/cards-0009.md#paper-149166)
 - [Optimal and Efficient Contextual Combinatorial Semi-bandits with General Function Approximation](../../conferences/neurips-2026/cards-0009.md#paper-155961)
+- [Optimistic Q-value Adaptation for Offline-to-Online Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-155898)
+- [Ordinal Geometry Complements Reconstruction: Diagnosing Planning with Compressed Value Functions](../../conferences/neurips-2026/cards-0009.md#paper-152754)
+- [Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data](../../conferences/neurips-2026/cards-0009.md#paper-151111)
 
 <!-- conference-classification:end -->

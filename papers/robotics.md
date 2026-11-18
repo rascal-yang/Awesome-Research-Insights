@@ -768,5 +768,9 @@
 - [One Adapter For All: Towards Generalizable Many-To-One Domain Adaptation In Heterogeneous Collaborative Perception](../conferences/neurips-2026/cards-0009.md#paper-149544)
 - [One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation](../conferences/neurips-2026/cards-0009.md#paper-155831)
 - [OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning](../conferences/neurips-2026/cards-0009.md#paper-155199)
+- [OT-Robust3DVLA: A Wasserstein Barycenter is the Right Inductive Bias for Robust Multi-View 3D Vision-Language-Action Policies](../conferences/neurips-2026/cards-0009.md#paper-150253)
+- [OxyGen: Unified KV Cache Management for VLA Inference under Multi-Task Parallelism](../conferences/neurips-2026/cards-0009.md#paper-149556)
+- [PACE: Phase-Aware Chunk Execution for Robot Policies with Action Chunking](../conferences/neurips-2026/cards-0009.md#paper-149859)
+- [PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models](../conferences/neurips-2026/cards-0009.md#paper-149215)
 
 <!-- conference-classification:end -->

@@ -286,3 +286,88 @@
 | 机器学习基础与统计 | 理论与统计 | [Optimal In-Context Learning of Autoregressive Processes under Heterogeneous Second-Order Moments of the Prompts](cards-0009.md#paper-153067) | 时序上下文学习可利用二阶统计量匹配异质提示。 |
 | 机器学习基础与统计 | 理论与统计 | [Optimal Learning-Augmented Algorithm for Online Bidding](cards-0009.md#paper-150063) | 随机在线阈值算法可按输出分布描述预测可靠性与保底。 |
 | 机器学习基础与统计 | 理论与统计 | [Optimal Linear Regression Without a Variance](cards-0009.md#paper-149470) | 回归残差修剪可把有限方差方法转换到弱矩设定。 |
+| 机器学习基础与统计 | 优化 | [Optimal Rates for Adaptive Private $k$-PCA](cards-0009.md#paper-152628) | 差分隐私 PCA 联合更新完整目标子空间。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Rates for Differentially Private Hypothesis Testing with E-values](cards-0009.md#paper-152811) | 私有序贯检验按停止时间与证据增长验收。 |
+| 机器学习基础与统计 | 优化 | [Optimal Rates for Pure $\varepsilon$-Differentially Private Stochastic Convex Optimization with Heavy Tails](cards-0009.md#paper-148362) | 纯隐私重尾梯度优化可先拟合经验损失的 Lipschitz 扩展。 |
+| 机器学习基础与统计 | 数据策略 | [Optimal Real-Data Allocation for Synthetic-Data-Augmented Inference](cards-0009.md#paper-148327) | 少量真实数据在直接估计与校准生成器间按边际效用分配。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Recalibration of an Online Predictor](cards-0009.md#paper-153807) | 在线重校准将预测偏移与相对原提示的损失分开。 |
+| 机器学习基础与统计 | 表征学习 | [Optimal Representation Size: High-Dimensional Analysis of Pretraining and Linear Probing](cards-0009.md#paper-152669) | 表示压缩程度按预训练量与下游标签量联合选择。 |
+| 机器学习基础与统计 | 优化 | [Optimal Risk Bounds of Stochastic Gradient Descent for Shallow ReLU Networks](cards-0009.md#paper-151070) | 浅 ReLU 近初始化训练可优先对照随机梯度成本。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal scaling laws in learning hierarchical multi-index models](cards-0009.md#paper-149630) | 层级目标的数据规模诊断应跟踪各特征子空间的跃迁。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal sequential tests yield log-optimal e-processes](cards-0009.md#paper-148381) | 将多个最优序贯测试组合成证据过程。 |
+| 机器学习基础与统计 | 优化 | [Optimal Subgroup Discovery at Every Support Threshold](cards-0009.md#paper-149258) | 发现偏离群组时扫描支持阈值，不固定一个综合权重。 |
+| 机器学习基础与统计 | 数据策略 | [Optimal Transport Reweighting for Robust Learning under Spurious Correlations and Label Noise](cards-0009.md#paper-149217) | 伪相关加错标时用参考组传输匹配替代大损失重加权。 |
+| 机器学习基础与统计 | 优化 | [Optimistic Dual Averaging Unifies Modern Optimizers](cards-0009.md#paper-150725) | 比较优化器时统一考虑乐观更新与衰减日程。 |
+| 强化学习 | 强化学习方法 | [Optimistic Q-value Adaptation for Offline-to-Online Reinforcement Learning](cards-0009.md#paper-155898) | 离线到在线调优在 Bellman 备份中纠正遗留悲观。 |
+| 多模态学习 | 评测与诊断 | [Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms](cards-0009.md#paper-150875) | 余弦检索外保留嵌入范数作独立校准信号。 |
+| 机器学习基础与统计 | 训练策略 | [Optimized Forward-Backward Rematerialization for Memory-Efficient Pipeline Parallel Training](cards-0009.md#paper-150439) | 流水线为各微批分别选前向与反向重算。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimizer-Induced Mode Connectivity: From AdamW to Muon](cards-0009.md#paper-156024) | 做模型连接和融合前检查训练优化器是否相同。 |
+| 大语言模型 | 推理策略 | [Optimizing Agent Tool-Use via Trajectory-based Insight Evolution](cards-0009.md#paper-151696) | 工具失败先从对照执行修订说明，而非立即调权重。 |
+| 机器学习基础与统计 | 评测与诊断 | [Optimizing Analytic Constants via AI-Guided Lean Proof Refinement](cards-0009.md#paper-155093) | 形式数学搜索把全局猜想拆成可验证的局部改进。 |
+| 机器学习基础与统计 | 优化 | [Optimizing Computational-Statistical Runtime for Wasserstein Distance Estimation](cards-0009.md#paper-155480) | Wasserstein 估计先匹配统计精度，再决定网格草图和求解精度。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimizing Retraining Schedules via Learning Curves](cards-0009.md#paper-154395) | 用验证学习曲线的衰减速度安排重新训练频率。 |
+| 大语言模型 | 强化学习方法 | [Oracle-Robust Online Alignment for Large Language Models](cards-0009.md#paper-150636) | 偏好评委可能错设时，围绕可信范围优化最坏反馈，并测策略敏感性。 |
+| 计算机视觉 | 模块 | [OrbitLoRA: Learning Rotation-Aware Low-Data Adaptation of Vision Foundation Models](cards-0009.md#paper-149392) | 冻结视觉骨干处理任意朝向图像时，保留可旋转的局部特征分支。 |
+| 多模态学习 | 损失函数 | [ORCA: Hunting Compositional Failures in Text-to-Image Diffusion](cards-0009.md#paper-154803) | 文生图属性绑定失败时，检查文字已有组合信息是否与视觉空间对齐。 |
+| 大语言模型 | 推理策略 | [OrchestraRL: Learning to Orchestrate LLM Agent Swarms with Entropy-Aware Communication Control](cards-0009.md#paper-155849) | 增加代理数量前，在相同模型调用预算下比较广播与学习通信。 |
+| 大语言模型 | 推理策略 | [Order-Marginalized Scoring for Masked Diffusion Models](cards-0009.md#paper-154353) | 给掩码扩散候选排序时，跨解码顺序平均对数评分。 |
+| 强化学习 | 评测与诊断 | [Ordinal Geometry Complements Reconstruction: Diagnosing Planning with Compressed Value Functions](cards-0009.md#paper-152754) | 压缩价值用于规划时，除重建误差外计相邻后继的排序。 |
+| 机器学习基础与统计 | 理论与统计 | [Ordinary Least Squares as an Attention Mechanism](cards-0009.md#paper-153277) | 表格注意中可对照显式最小二乘读出。 |
+| 图学习与推荐 | 理论与统计 | [Orlicz–Sobolev with Musielak: An Efficient Regularization Approach for Graph-based IPM](cards-0009.md#paper-153614) | 图上分布距离可用非 Lp 的先验，并保持求解简洁。 |
+| 科学机器学习 | 评测与诊断 | [OroPrecipBench: a km-scale benchmark for spatial precipitation downscaling over complex terrain](cards-0009.md#paper-139041) | 地形降尺度应分离理想合成输入和真实源偏移。 |
+| 计算机视觉 | 表征学习 | [Orthogonal Origin Parking: Decoupling Lorentz Manifolds for Robust OOD Generalization](cards-0009.md#paper-150309) | 深分类树用独立几何空间表示宏观分支。 |
+| 图学习与推荐 | 表征学习 | [Orthogonal Sparse Subgraph Alignment for Structure-Function Coupling in Brain Networks](cards-0009.md#paper-155965) | 不同来源的图结构对齐可同时选子图与坐标旋转。 |
+| 机器学习基础与统计 | 优化 | [Orthogonal Updates for the Win: Towards Accelerated Adaptive Minimax Optimization](cards-0009.md#paper-155673) | 正交化极小极大更新要重新协调原对偶步长。 |
+| 机器学习基础与统计 | 理论与统计 | [Orthogonal Uplift Learning with Permutation-Invariant Representations for Combinatorial Treatments](cards-0009.md#paper-154343) | 组合干预政策按其实际动作分布建表示。 |
+| 科学机器学习 | 损失函数 | [OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems](cards-0009.md#paper-154438) | 机理与神经残差联合训练时直接惩罚功能重叠。 |
+| 大语言模型 | 推理策略 | [Orthros: Phase-Aware Heterogeneous Attention for Efficient Transformers](cards-0009.md#paper-154037) | 长输入短输出的部署将预填充与解码放在不同注意模式。 |
+| 大语言模型 | 推理策略 | [Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion](cards-0009.md#paper-150719) | 并行候选生成共享准确的自回归缓存以减少附加内存。 |
+| 大语言模型 | 评测与诊断 | [OS-Omni: A Cross-Platform Benchmark for Generalist Computer-Using Agents](cards-0009.md#paper-139359) | 跨平台助手评测持久最终状态，而非只验动作。 |
+| 大语言模型 | 推理策略 | [OS-Pruner: Pruning Chains-of-Thought of Reasoning Models via Optimal Stopping](cards-0009.md#paper-151204) | 推理停止基于继续生成的预期准确收益和长度代价。 |
+| 计算机视觉 | 推理策略 | [OTEdit: Entropic Transport Corrected Trajectory for Inversion-Free Flow-Based Image Editing](cards-0009.md#paper-152476) | 图像编辑以一组合理轨迹形成纠偏参考。 |
+| 机器学习基础与统计 | 模块 | [OTformer: Non-Stationarity-Aware Adaptive Optimal Transport Attention for Time Series Forecasting](cards-0009.md#paper-148743) | 时序跨变量匹配根据非平稳程度调节熵。 |
+| 机器学习基础与统计 | 训练策略 | [OTIS: Learning High-Quality Time Series Features With Tiny Encoders](cards-0009.md#paper-156785) | 小型通用时序编码优先改分词、遮盖与去噪目标。 |
+| 机器人学 | 模型架构 | [OT-Robust3DVLA: A Wasserstein Barycenter is the Right Inductive Bias for Robust Multi-View 3D Vision-Language-Action Policies](cards-0009.md#paper-150253) | 多视角融合以连续质量运输缓解离散索引不稳。 |
+| 大语言模型 | 评测与诊断 | [OTROPE: Optimal Transport-based Robust Off-policy Evaluation for Large Language Models](cards-0009.md#paper-149690) | 黑盒版本评估可在语义空间对齐标注样本与目标输出。 |
+| 强化学习 | 训练策略 | [Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data](cards-0009.md#paper-151111) | 终局强化的训练分布保留少步可解示例。 |
+| 机器学习基础与统计 | 评测与诊断 | [Out-of-Distribution Detection in Continual Learning](cards-0009.md#paper-149012) | 不回放旧数据的持续学习另验新奇样本拒识。 |
+| 大语言模型 | 模块 | [Overcoming Attention Distraction: Training-Free Latent Communication for Multi-Agent Systems](cards-0009.md#paper-150982) | 代理潜通信采用低维投影和信噪自适应增益。 |
+| 多模态学习 | 强化学习方法 | [Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning](cards-0009.md#paper-151854) | 持续视觉强化在同回报轨迹中保留对旧策略的接近。 |
+| 机器学习基础与统计 | 模块 | [Overcoming Kernel Redundancy for Scaling Logic Gate Networks](cards-0009.md#paper-149563) | 逻辑门网络宽度扩张先测早层核重复。 |
+| 机器学习基础与统计 | 训练策略 | [Overcoming Rank Collapse in Feedback Alignment](cards-0009.md#paper-152172) | 反馈对齐性能下降时检查误差信号有效秩。 |
+| 自然语言处理 | 推理策略 | [Overcoming State Inertia in Full-Duplex Spoken Language Models via Activation Steering](cards-0009.md#paper-152208) | 全双工语音中断先测是否及时切回听觉状态。 |
+| 机器学习基础与统计 | 损失函数 | [Overcoming the Resolution Limit: Significance-Aware Regularization for Intersectional Fairness](cards-0009.md#paper-151945) | 极小子群的公平罚应按不确定性门控。 |
+| 图学习与推荐 | 理论与统计 | [Oversmoothing as Representation Degeneracy in Neural Sheaf Diffusion](cards-0009.md#paper-152216) | 剪薄图扩散表示时检查层型维数是否妨碍结构稳定。 |
+| 大语言模型 | 评测与诊断 | [Overthinking as a Symptom of Knowledge Conflict: Understanding and Detecting LLM's Hallucinations in Retrieval-Augmented Question Answering](cards-0009.md#paper-150716) | RAG 长推理可作冲突排查信号，但不作独立判错。 |
+| 大语言模型 | 评测与诊断 | [OWCE: Revealing Language Model Complementarity via Online Weakness-Conditioned Evaluation](cards-0009.md#paper-139810) | 选择互补模型用条件化弱点画像。 |
+| 机器人学 | 推理策略 | [OxyGen: Unified KV Cache Management for VLA Inference under Multi-Task Parallelism](cards-0009.md#paper-149556) | 并行 VLA 让多个任务共享观测缓存但解耦输出节拍。 |
+| 大语言模型 | 推理策略 | [P$^{3}$: Joint Program-and-Proof Planning\\ for Verified Code Generation](cards-0009.md#paper-150553) | 可验证代码同时规划实现和证明。 |
+| 多模态学习 | 评测与诊断 | [P$^3$-VLM: A Point-based Alternative for Grounded 3D Vision-Language Models](cards-0009.md#paper-151816) | 三维定位评估用点提示和盲模型检验包围盒捷径。 |
+| 大语言模型 | 模型架构 | [PAAC: Privacy-Aware Agentic Device-Cloud Collaboration](cards-0009.md#paper-149491) | 设备云协作把敏感值替换与推理任务解耦。 |
+| 机器学习基础与统计 | 理论与统计 | [PAC-Bayesian Bounds for Learning Partially Observed Stochastic Linear Time-Invariant State-Space Systems with Inputs and Sub-Gaussian Noise](cards-0009.md#paper-154157) | 辨识部分观测线性系统时分别给预测和参数置信界。 |
+| 大语言模型 | 评测与诊断 | [PACE: A Proxy for Agentic Capability Evaluation](cards-0009.md#paper-148975) | 昂贵的代理评测可用经留一校验的原子题筛选候选。 |
+| 大语言模型 | 推理策略 | [PACE-dLLM: Elastic Block Decoding via Confidence Cliff Estimation for Diffusion Language Models](cards-0009.md#paper-149141) | 扩散文本解码时独立调整向前窗口和每步提交数量。 |
+| 机器学习基础与统计 | 优化 | [PACE: Partial-state Amortized Constraint Editing for Neural Combinatorial Optimization](cards-0009.md#paper-149179) | 需要随时可用解的组合搜索中，将可行部分状态设为编辑和学习的共享接口。 |
+| 机器人学 | 推理策略 | [PACE: Phase-Aware Chunk Execution for Robot Policies with Action Chunking](cards-0009.md#paper-149859) | 动作分块控制按预测速度谷动态决定何时重规划。 |
+| 大语言模型 | 推理策略 | [Pacing Branch Parallelism in LLM Serving](cards-0009.md#paper-149213) | 并行解码分支只有在不消耗其他请求的时延预算时才打开。 |
+| 机器学习基础与统计 | 优化 | [PACO: Partial-order-Augmented Continuous Optimization for Differentiable Causal Discovery](cards-0009.md#paper-155276) | 在因果结构学习中有多条偏序链时，以单个全局可达约束编码先验。 |
+| 大语言模型 | 理论与统计 | [PAC Reasoning: Controlling the Performance Loss for Efficient Reasoning](cards-0009.md#paper-155512) | 启用快速推理模式前，依据容许性能损失选择带置信度的切换阈值。 |
+| 机器学习基础与统计 | 理论与统计 | [PAIR-CI: Calibrated Conditional Independence Testing for Causal Discovery with Incomplete Data](cards-0009.md#paper-155370) | 补全数据后要做条件独立检验时，让有无候选特征的两个模型共用同一补全。 |
+| 机器学习基础与统计 | 模块 | [Paloma: Phase-Conditioned Residual Modulation for Time Series Forecasting](cards-0009.md#paper-154087) | 时序先滤除均值周期，再检验残差是否保留周期相位。 |
+| 机器学习基础与统计 | 训练策略 | [PaLoRA: Paced Low-Rank Adaptation for Continual Learning](cards-0009.md#paper-150774) | 持续 LoRA 的更新步长应根据历史有效秩调整。 |
+| 机器学习基础与统计 | 模块 | [PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting](cards-0009.md#paper-155815) | 未来方差有周期变化时按未来相位动态反归一化。 |
+| 图学习与推荐 | 模块 | [PANDA: Prior-guided Attentional Dual-path Architecture](cards-0009.md#paper-153505) | 超图消息传递同时保留竞争注意和独立发送。 |
+| 大语言模型 | 推理策略 | [Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation](cards-0009.md#paper-148290) | 模型路由显式估计额外评审成本与信息价值。 |
+| 科学机器学习 | 训练策略 | [Pan-FM: A Pan-Organ Foundation Model with Saliency-Guided Masking for Missing Robustness](cards-0009.md#paper-154817) | 缺模态的训练主动遮盖支配模态以测试替代证据。 |
+| 计算机视觉 | 模块 | [Panoptic Saliency Ranking](cards-0009.md#paper-152142) | 全景显著性可从已有注意读出关系图，避免独立重建。 |
+| 计算机视觉 | 模型架构 | [Panoptic Scene Program Diffusion Transformer](cards-0009.md#paper-150762) | 组合生成把场景程序作为共同去噪对象。 |
+| 计算机视觉 | 损失函数 | [PanoWorld: Geometry-Consistent Panoramic Video World Modeling](cards-0009.md#paper-148684) | 全景视频以世界坐标的运动和深度相互验收。 |
+| 多模态学习 | 模块 | [PanoWorld: Towards Spatial Supersensing in 360◦ Panorama World](cards-0009.md#paper-150495) | 全景语言推理保留观测者中心的连续球面。 |
+| 大语言模型 | 评测与诊断 | [PaperLens: How Predictable Is Paper Acceptance?](cards-0009.md#paper-154867) | 论文接受预测要先清理身份泄漏再比较正文与视觉信息。 |
+| 机器人学 | 强化学习方法 | [PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models](cards-0009.md#paper-149215) | 闭环 VLA 区分改变执行方向的规划动作与普通动作。 |
+| 计算机视觉 | 模块 | [Parabolic Position Encoding: Vision-Centric, Principled, Extrapolatable, General](cards-0009.md#paper-151484) | 视觉位置编码可在同规则里兼顾距离衰减和等变需求。 |
+| 机器学习基础与统计 | 理论与统计 | [Paradoxes of Game Theoretic Equilibria and Price of Anarchy](cards-0009.md#paper-150825) | 多代理学习报告实际轨迹稳定性，不能只给静态均衡。 |
+| 机器学习基础与统计 | 评测与诊断 | [Paradoxical noise preference in RNNs](cards-0009.md#paper-156748) | 推理去噪前检查噪声加在激活内部还是外部。 |
+| 机器学习基础与统计 | 推理策略 | [ParaLin: Accelerating Parallel Diffusion Integrator via Intrinsic Partially Linear Structure](cards-0009.md#paper-155812) | 并行扩散将线性依赖部分直接求解，再修正非线性。 |
+| 机器学习基础与统计 | 优化 | [Parallel Broyden methods for efficiently evaluating nonlinear state space models](cards-0009.md#paper-150574) | 非线性递推并行求根用低秩校正捕捉跨状态作用。 |
+| 机器学习基础与统计 | 理论与统计 | [Parallel Computation Algorithms and Convergence Guarantees for Mean-Field Langevin Dynamics](cards-0009.md#paper-153482) | 平均场 Langevin 的并行性需分开计顺序轮和并行工作量。 |

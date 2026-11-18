@@ -805,5 +805,10 @@
 - [On the Provable Emergence of Hierarchical Concept Structure in CLIP Embeddings](../conferences/neurips-2026/cards-0009.md#paper-153853)
 - [Open Vocabulary Domain Unlearning](../conferences/neurips-2026/cards-0009.md#paper-150532)
 - [OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation](../conferences/neurips-2026/cards-0009.md#paper-152209)
+- [Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms](../conferences/neurips-2026/cards-0009.md#paper-150875)
+- [ORCA: Hunting Compositional Failures in Text-to-Image Diffusion](../conferences/neurips-2026/cards-0009.md#paper-154803)
+- [Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning](../conferences/neurips-2026/cards-0009.md#paper-151854)
+- [P$^3$-VLM: A Point-based Alternative for Grounded 3D Vision-Language Models](../conferences/neurips-2026/cards-0009.md#paper-151816)
+- [PanoWorld: Towards Spatial Supersensing in 360◦ Panorama World](../conferences/neurips-2026/cards-0009.md#paper-150495)
 
 <!-- conference-classification:end -->

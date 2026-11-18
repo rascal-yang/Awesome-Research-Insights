@@ -1516,5 +1516,18 @@
 - [OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](../conferences/neurips-2026/cards-0009.md#paper-139156)
 - [Operads for compositional reasoning in LLMs](../conferences/neurips-2026/cards-0009.md#paper-150153)
 - [OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators](../conferences/neurips-2026/cards-0009.md#paper-154322)
+- [Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms](../conferences/neurips-2026/cards-0009.md#paper-150875)
+- [Optimizing Analytic Constants via AI-Guided Lean Proof Refinement](../conferences/neurips-2026/cards-0009.md#paper-155093)
+- [Ordinal Geometry Complements Reconstruction: Diagnosing Planning with Compressed Value Functions](../conferences/neurips-2026/cards-0009.md#paper-152754)
+- [OroPrecipBench: a km-scale benchmark for spatial precipitation downscaling over complex terrain](../conferences/neurips-2026/cards-0009.md#paper-139041)
+- [OS-Omni: A Cross-Platform Benchmark for Generalist Computer-Using Agents](../conferences/neurips-2026/cards-0009.md#paper-139359)
+- [OTROPE: Optimal Transport-based Robust Off-policy Evaluation for Large Language Models](../conferences/neurips-2026/cards-0009.md#paper-149690)
+- [Out-of-Distribution Detection in Continual Learning](../conferences/neurips-2026/cards-0009.md#paper-149012)
+- [Overthinking as a Symptom of Knowledge Conflict: Understanding and Detecting LLM's Hallucinations in Retrieval-Augmented Question Answering](../conferences/neurips-2026/cards-0009.md#paper-150716)
+- [OWCE: Revealing Language Model Complementarity via Online Weakness-Conditioned Evaluation](../conferences/neurips-2026/cards-0009.md#paper-139810)
+- [P$^3$-VLM: A Point-based Alternative for Grounded 3D Vision-Language Models](../conferences/neurips-2026/cards-0009.md#paper-151816)
+- [PACE: A Proxy for Agentic Capability Evaluation](../conferences/neurips-2026/cards-0009.md#paper-148975)
+- [PaperLens: How Predictable Is Paper Acceptance?](../conferences/neurips-2026/cards-0009.md#paper-154867)
+- [Paradoxical noise preference in RNNs](../conferences/neurips-2026/cards-0009.md#paper-156748)
 
 <!-- conference-classification:end -->

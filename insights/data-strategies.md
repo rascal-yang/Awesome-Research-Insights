@@ -358,5 +358,7 @@
 - [OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation](../conferences/neurips-2026/cards-0009.md#paper-139232)
 - [OpenSearcher: Democratizing Deep Search through a Fully Offline Pipeline with Programmatic Verification](../conferences/neurips-2026/cards-0009.md#paper-152128)
 - [Opt-Arena: Evaluating, Selecting, and Generating Optimization Modeling Data via Tripartite Graphs](../conferences/neurips-2026/cards-0009.md#paper-153953)
+- [Optimal Real-Data Allocation for Synthetic-Data-Augmented Inference](../conferences/neurips-2026/cards-0009.md#paper-148327)
+- [Optimal Transport Reweighting for Robust Learning under Spurious Correlations and Label Noise](../conferences/neurips-2026/cards-0009.md#paper-149217)
 
 <!-- conference-classification:end -->

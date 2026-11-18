@@ -496,5 +496,8 @@ Model-wide design and information flow.
 - [One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction](../../conferences/neurips-2026/cards-0009.md#paper-153304)
 - [OopsWorld! Operation-Grounded Seamless World Generation](../../conferences/neurips-2026/cards-0009.md#paper-152375)
 - [Open-Vocabulary 3D Part Segmentation with  Semantic Propagation Hawkes Process](../../conferences/neurips-2026/cards-0009.md#paper-155432)
+- [OT-Robust3DVLA: A Wasserstein Barycenter is the Right Inductive Bias for Robust Multi-View 3D Vision-Language-Action Policies](../../conferences/neurips-2026/cards-0009.md#paper-150253)
+- [PAAC: Privacy-Aware Agentic Device-Cloud Collaboration](../../conferences/neurips-2026/cards-0009.md#paper-149491)
+- [Panoptic Scene Program Diffusion Transformer](../../conferences/neurips-2026/cards-0009.md#paper-150762)
 
 <!-- conference-classification:end -->

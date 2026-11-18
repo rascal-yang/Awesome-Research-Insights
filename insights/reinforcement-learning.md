@@ -609,5 +609,9 @@
 - [Online Finetuning Decision Transformers with Pure RL Gradients](../conferences/neurips-2026/cards-0009.md#paper-150024)
 - [On Reparameterizing the Score Function](../conferences/neurips-2026/cards-0009.md#paper-151999)
 - [OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in Policy Optimization](../conferences/neurips-2026/cards-0009.md#paper-151932)
+- [Optimistic Q-value Adaptation for Offline-to-Online Reinforcement Learning](../conferences/neurips-2026/cards-0009.md#paper-155898)
+- [Oracle-Robust Online Alignment for Large Language Models](../conferences/neurips-2026/cards-0009.md#paper-150636)
+- [Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning](../conferences/neurips-2026/cards-0009.md#paper-151854)
+- [PAPO-VLA: Planning-Aware Policy Optimization for Vision-Language-Action Models](../conferences/neurips-2026/cards-0009.md#paper-149215)
 
 <!-- conference-classification:end -->

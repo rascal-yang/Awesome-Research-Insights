@@ -1024,5 +1024,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [Open-Vocabulary 3D Part Segmentation with  Semantic Propagation Hawkes Process](../../conferences/neurips-2026/cards-0009.md#paper-155432)
 - [OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](../../conferences/neurips-2026/cards-0009.md#paper-139156)
 - [OPERA: An Agent for Image Restoration with End-to-End Joint Planning–Execution Optimization](../../conferences/neurips-2026/cards-0009.md#paper-149311)
+- [OrbitLoRA: Learning Rotation-Aware Low-Data Adaptation of Vision Foundation Models](../../conferences/neurips-2026/cards-0009.md#paper-149392)
+- [Orthogonal Origin Parking: Decoupling Lorentz Manifolds for Robust OOD Generalization](../../conferences/neurips-2026/cards-0009.md#paper-150309)
+- [OTEdit: Entropic Transport Corrected Trajectory for Inversion-Free Flow-Based Image Editing](../../conferences/neurips-2026/cards-0009.md#paper-152476)
+- [Panoptic Saliency Ranking](../../conferences/neurips-2026/cards-0009.md#paper-152142)
+- [Panoptic Scene Program Diffusion Transformer](../../conferences/neurips-2026/cards-0009.md#paper-150762)
+- [PanoWorld: Geometry-Consistent Panoramic Video World Modeling](../../conferences/neurips-2026/cards-0009.md#paper-148684)
+- [Parabolic Position Encoding: Vision-Centric, Principled, Extrapolatable, General](../../conferences/neurips-2026/cards-0009.md#paper-151484)
 
 <!-- conference-classification:end -->

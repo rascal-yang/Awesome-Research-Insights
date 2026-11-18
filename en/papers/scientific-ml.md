@@ -653,5 +653,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - [OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation](../../conferences/neurips-2026/cards-0009.md#paper-139232)
 - [OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators](../../conferences/neurips-2026/cards-0009.md#paper-154322)
 - [Optimal Ansatz-free Hamiltonian Learning In Situ](../../conferences/neurips-2026/cards-0009.md#paper-151579)
+- [OroPrecipBench: a km-scale benchmark for spatial precipitation downscaling over complex terrain](../../conferences/neurips-2026/cards-0009.md#paper-139041)
+- [OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems](../../conferences/neurips-2026/cards-0009.md#paper-154438)
+- [Pan-FM: A Pan-Organ Foundation Model with Saliency-Guided Masking for Missing Robustness](../../conferences/neurips-2026/cards-0009.md#paper-154817)
 
 <!-- conference-classification:end -->

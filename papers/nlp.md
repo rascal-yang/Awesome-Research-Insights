@@ -136,5 +136,6 @@
 - [MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling](../conferences/neurips-2026/cards-0008.md#paper-151404)
 - [NPUsper: Eliminating Redundant Computation for Real-Time Whisper on Mobile NPUs](../conferences/neurips-2026/cards-0009.md#paper-152954)
 - [OBLIQ-Bench: Exposing Overlooked Bottlenecks in Modern Retrievers with Latent and Implicit Queries](../conferences/neurips-2026/cards-0009.md#paper-139628)
+- [Overcoming State Inertia in Full-Duplex Spoken Language Models via Activation Steering](../conferences/neurips-2026/cards-0009.md#paper-152208)
 
 <!-- conference-classification:end -->

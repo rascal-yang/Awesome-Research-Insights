@@ -367,5 +367,9 @@
 - [Noisy2Latent: Nonparametric Deconvolution and Denoising via Maximum Mean Discrepancy](../conferences/neurips-2026/cards-0009.md#paper-148353)
 - [Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for   RL-based LLM Recommenders](../conferences/neurips-2026/cards-0009.md#paper-155962)
 - [One Loss to Rule Them All: Marked Time-to-Event for Structured EHR Foundation Models](../conferences/neurips-2026/cards-0009.md#paper-150016)
+- [ORCA: Hunting Compositional Failures in Text-to-Image Diffusion](../conferences/neurips-2026/cards-0009.md#paper-154803)
+- [OrthoReg: Orthogonal Regularization for Hybrid Symbolic-Neural Dynamical Systems](../conferences/neurips-2026/cards-0009.md#paper-154438)
+- [Overcoming the Resolution Limit: Significance-Aware Regularization for Intersectional Fairness](../conferences/neurips-2026/cards-0009.md#paper-151945)
+- [PanoWorld: Geometry-Consistent Panoramic Video World Modeling](../conferences/neurips-2026/cards-0009.md#paper-148684)
 
 <!-- conference-classification:end -->
