@@ -46,9 +46,9 @@ number	openreview_id	title	paper_url	reason	status
 45	Y55iJjxMsh	Compositional Diffusion Policy for Vision–Language–Action Agents	https://openreview.net/forum?id=Y55iJjxMsh		pending
 46	03qRtmw4qx	Learning Additively Compositional Latent Actions for Embodied AI	https://openreview.net/forum?id=03qRtmw4qx	通过跨时间可加约束减少潜动作对场景外观的依赖	included
 47	JKoP9L6myQ	PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning	https://openreview.net/forum?id=JKoP9L6myQ	显式分开潜动作的变化幅度与变化类别	included
-48	XnIdgAtBX7	Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead	https://openreview.net/forum?id=XnIdgAtBX7		pending
-49	IjnCc1OZnJ	Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models	https://openreview.net/forum?id=IjnCc1OZnJ		pending
-50	rYkaehgzzO	See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs	https://openreview.net/forum?id=rYkaehgzzO		pending
+48	XnIdgAtBX7	Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead	https://openreview.net/forum?id=XnIdgAtBX7	用跨域一致的未来表征监督策略	included
+49	IjnCc1OZnJ	Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models	https://openreview.net/forum?id=IjnCc1OZnJ	用任务条件掩码暴露并压低无关视觉证据	included
+50	rYkaehgzzO	See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs	https://openreview.net/forum?id=rYkaehgzzO	保留全局目标，另给执行器局部指令和显式视觉预算	included
 51	oKJnHTluoA	MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model	https://openreview.net/forum?id=oKJnHTluoA		pending
 52	U620dzd51N	Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies	https://openreview.net/forum?id=U620dzd51N		pending
 53	rcE4amkjBq	GeoProp: Grounding Robot State in Vision for Generalist Manipulation	https://openreview.net/forum?id=rcE4amkjBq		pending
