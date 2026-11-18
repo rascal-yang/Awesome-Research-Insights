@@ -140,6 +140,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness](../../conferences/icml-2026/cards/5901-6000.md#zhang26id-loss-functions) · 中文
 - [SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](../../conferences/icml-2026/cards/5901-6000.md#zhang26il-loss-functions) · 中文
 - [Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation](../../conferences/icml-2026/cards/6001-6100.md#zhang26jo-loss-functions) · 中文
+- [Just Noticeable Difference Modeling for Deep Visual Features](../../conferences/icml-2026/cards/6001-6100.md#zhao26y-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -179,6 +180,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](../../conferences/icml-2026/cards/5401-5500.md#yang26dn-loss-functions) · 中文
 - [Geometric Coherence Learning for Structuring Value Functions in Plain MDPs](../../conferences/icml-2026/cards/5701-5800.md#zhang26av-loss-functions) · 中文
 - [HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments](../../conferences/icml-2026/cards/5901-6000.md#zhang26fp-loss-functions) · 中文
+- [SPAR: Support-Preserving Action Rectification](../../conferences/icml-2026/cards/6001-6100.md#zhao26ai-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -342,6 +344,7 @@ Objectives, auxiliary supervision, and regularization.
 - [SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation](../../conferences/icml-2026/cards/5201-5300.md#xu26a-loss-functions) · 中文
 - [Improving LLM-Based Recommenders with Conservative Generative Flow Networks](../../conferences/icml-2026/cards/5601-5700.md#yu26am-loss-functions) · 中文
 - [SAOT: Self-Supervised Continual Graph Learning with Structure-Aware Optimal Transport](../../conferences/icml-2026/cards/5801-5900.md#zhang26ds-loss-functions) · 中文
+- [Towards Hierarchy–Uniformity Equilibrium: Recovering Semantic Depth in Hypergraph Contrastive Learning](../../conferences/icml-2026/cards/6001-6100.md#zhao26x-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

@@ -1528,6 +1528,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26dt-evaluation"></a>[From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dt)
 - <a id="zhang26jb-evaluation"></a>[When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26jb)
 - <a id="zhao26e-evaluation"></a>[LitReview Arena: Evaluating Literature Review Agents with Battle-style Peer Review Platform](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26e)
+- <a id="zhao26al-evaluation"></a>[Random Scaling of Emergent Capabilities](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26al)
 
 <a id="by-theory-statistics"></a>
 

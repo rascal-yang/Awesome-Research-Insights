@@ -381,6 +381,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](../../conferences/icml-2026/cards/5801-5900.md#zhang26dt-evaluation) · 中文
 - [When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](../../conferences/icml-2026/cards/5901-6000.md#zhang26jb-evaluation) · 中文
 - [LitReview Arena: Evaluating Literature Review Agents with Battle-style Peer Review Platform](../../conferences/icml-2026/cards/6001-6100.md#zhao26e-evaluation) · 中文
+- [Random Scaling of Emergent Capabilities](../../conferences/icml-2026/cards/6001-6100.md#zhao26al-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -626,6 +627,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Evaluating and Steering Modality Preferences in Multi-modal LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26ed-evaluation) · 中文
 - [Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](../../conferences/icml-2026/cards/5901-6000.md#zhang26fi-evaluation) · 中文
 - [TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26fr-evaluation) · 中文
+- [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](../../conferences/icml-2026/cards/6001-6100.md#zhao26am-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

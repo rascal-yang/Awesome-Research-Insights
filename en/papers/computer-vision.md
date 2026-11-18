@@ -204,6 +204,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26id-loss-functions"></a>[Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26id)
 - <a id="zhang26il-loss-functions"></a>[SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26il)
 - <a id="zhang26jo-loss-functions"></a>[Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation](../../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jo)
+- <a id="zhao26y-loss-functions"></a>[Just Noticeable Difference Modeling for Deep Visual Features](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26y)
 
 <a id="by-optimization"></a>
 
@@ -388,6 +389,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xiao26u-data-strategies"></a>[CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26u)
 - <a id="zhang26be-data-strategies"></a>[What Makes Synthetic Data Effective in Image Segmentation](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26be)
 - <a id="zhang26gs-data-strategies"></a>[Utonia: Toward One Encoder for All Point Clouds](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gs)
+- <a id="zhao26w-data-strategies"></a>[Rethinking Low-Confidence Pseudo Labels: Influence-Aware Semi-Supervised Fine-Tuning for Hyperspectral Change Detection](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26w)
 
 <a id="by-inference"></a>
 

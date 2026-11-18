@@ -226,6 +226,7 @@
 - <a id="zhang26hq-reinforcement-learning"></a>[GenAlign: Towards Unified Alignment Framework of MLLMs via Generative Reward Model](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hq)
 - <a id="zhang26je-reinforcement-learning"></a>[iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhang26je)
 - <a id="zhao26c-reinforcement-learning"></a>[Learning GUI Grounding with Spatial Reasoning from Visual Feedback](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26c)
+- <a id="zhao26ab-reinforcement-learning"></a>[PyVision-RL: Forging Open Agentic Vision Models via RL](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ab)
 
 <a id="by-training-strategies"></a>
 
@@ -600,6 +601,7 @@
 - <a id="zhang26ed-evaluation"></a>[Evaluating and Steering Modality Preferences in Multi-modal LLMs](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ed)
 - <a id="zhang26fi-evaluation"></a>[Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fi)
 - <a id="zhang26fr-evaluation"></a>[TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fr)
+- <a id="zhao26am-evaluation"></a>[On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26am)
 
 <a id="by-theory-statistics"></a>
 

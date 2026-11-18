@@ -87,6 +87,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26d-architecture"></a>[Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26d)
 - <a id="zhang26ab-architecture"></a>[Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ab)
 - <a id="zhang26cy-architecture"></a>[CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cy)
+- <a id="zhao26v-architecture"></a>[CAffNet: Hard Constraint-Affine Neural Networks](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26v)
 
 <a id="by-modules"></a>
 
@@ -495,6 +496,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26ij-optimization"></a>[Distributed Stochastic $K$-Level Optimization Over Networks](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ij)
 - <a id="zhang26ir-optimization"></a>[Optimal Transport with Symmetry Groups](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ir)
 - <a id="zhang26is-optimization"></a>[Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26is)
+- <a id="zhao26ah-optimization"></a>[A Fully First-Order Layer for Differentiable Optimization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ah)
 
 <a id="by-reinforcement-learning"></a>
 

@@ -140,6 +140,7 @@
 - [后验软标签与频率联动的长尾鲁棒训练](../conferences/icml-2026/cards/5901-6000.md#zhang26id-loss-functions) · Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness
 - [自诱导镜像点的一致去噪](../conferences/icml-2026/cards/5901-6000.md#zhang26il-loss-functions) · SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising
 - [按margin分位数渐进重加权](../conferences/icml-2026/cards/6001-6100.md#zhang26jo-loss-functions) · Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation
+- [任务一致约束下的特征扰动幅度](../conferences/icml-2026/cards/6001-6100.md#zhao26y-loss-functions) · Just Noticeable Difference Modeling for Deep Visual Features
 
 <a id="by-nlp"></a>
 
@@ -179,6 +180,7 @@
 - [给RTG条件策略增加critic顺序约束](../conferences/icml-2026/cards/5401-5500.md#yang26dn-loss-functions) · Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning
 - [由TD偏好构DAG再做等序值正则](../conferences/icml-2026/cards/5701-5800.md#zhang26av-loss-functions) · Geometric Coherence Learning for Structuring Value Functions in Plain MDPs
 - [辅助potential投影的TD更新](../conferences/icml-2026/cards/5901-6000.md#zhang26fp-loss-functions) · HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments
+- [冻结BC锚点上的潜变量自模仿](../conferences/icml-2026/cards/6001-6100.md#zhao26ai-loss-functions) · SPAR: Support-Preserving Action Rectification
 
 <a id="by-robotics"></a>
 
@@ -342,6 +344,7 @@
 - [改变同配性但约束拓扑扰动的图增强](../conferences/icml-2026/cards/5201-5300.md#xu26a-loss-functions) · SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation
 - [在离线SubTB中惩罚无支持流量](../conferences/icml-2026/cards/5601-5700.md#yu26am-loss-functions) · Improving LLM-Based Recommenders with Conservative Generative Flow Networks
 - [对齐结构与embedding的transport plans](../conferences/icml-2026/cards/5801-5900.md#zhang26ds-loss-functions) · SAOT: Self-Supervised Continual Graph Learning with Structure-Aware Optimal Transport
+- [谱分支与层级路径对比的目标分工](../conferences/icml-2026/cards/6001-6100.md#zhao26x-loss-functions) · Towards Hierarchy–Uniformity Equilibrium: Recovering Semantic Depth in Hypergraph Contrastive Learning
 
 <a id="by-scientific-ml"></a>
 

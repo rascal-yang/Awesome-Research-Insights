@@ -719,4 +719,5 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · 中文
 - [Adaptive Symmetry Discovery for Dynamical System Identification](../../conferences/icml-2026/cards/4301-4400.md#tahmasebi26a-theory-statistics) · 中文
 - [Taming the Loss Landscape of PINNs with Noisy Feynman–Kac Supervision: Operator Preconditioning and Non-Asymptotic Error Bounds](../../conferences/icml-2026/cards/4401-4500.md#tepakbong26a-theory-statistics) · 中文
+- [Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs](../../conferences/icml-2026/cards/6001-6100.md#zhao26ag-theory-statistics) · 中文
 <!-- classification:end -->

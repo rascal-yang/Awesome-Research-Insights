@@ -485,6 +485,7 @@
 - [用online位置校正与anchor比较训练GRM](../conferences/icml-2026/cards/5901-6000.md#zhang26hq-reinforcement-learning) · GenAlign: Towards Unified Alignment Framework of MLLMs via Generative Reward Model
 - [训练中定位而推理时不强制box](../conferences/icml-2026/cards/6001-6100.md#zhang26je-reinforcement-learning) · iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning
 - [把坐标grounding变为带cursor反馈的迭代定位](../conferences/icml-2026/cards/6001-6100.md#zhao26c-reinforcement-learning) · Learning GUI Grounding with Spatial Reasoning from Visual Feedback
+- [正确门控的工具计数奖励与方差选组](../conferences/icml-2026/cards/6001-6100.md#zhao26ab-reinforcement-learning) · PyVision-RL: Forging Open Agentic Vision Models via RL
 
 <a id="by-ml-foundations"></a>
 

@@ -482,6 +482,7 @@
 - [递归向量伴随的去中心化多层优化](../conferences/icml-2026/cards/5901-6000.md#zhang26ij-optimization) · Distributed Stochastic $K$-Level Optimization Over Networks
 - [从代价模式恢复对称轨道的OT压缩](../conferences/icml-2026/cards/5901-6000.md#zhang26ir-optimization) · Optimal Transport with Symmetry Groups
 - [双PL条件的无二阶分布式bilevel](../conferences/icml-2026/cards/5901-6000.md#zhang26is-optimization) · Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization
+- [识别活跃约束后的扰动式超梯度](../conferences/icml-2026/cards/6001-6100.md#zhao26ah-optimization) · A Fully First-Order Layer for Differentiable Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

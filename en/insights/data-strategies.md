@@ -134,6 +134,7 @@ Data selection, annotation, augmentation, and sampling.
 - [CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos](../../conferences/icml-2026/cards/5101-5200.md#xiao26u-data-strategies) · 中文
 - [What Makes Synthetic Data Effective in Image Segmentation](../../conferences/icml-2026/cards/5701-5800.md#zhang26be-data-strategies) · 中文
 - [Utonia: Toward One Encoder for All Point Clouds](../../conferences/icml-2026/cards/5901-6000.md#zhang26gs-data-strategies) · 中文
+- [Rethinking Low-Confidence Pseudo Labels: Influence-Aware Semi-Supervised Fine-Tuning for Hyperspectral Change Detection](../../conferences/icml-2026/cards/6001-6100.md#zhao26w-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

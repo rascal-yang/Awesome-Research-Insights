@@ -122,6 +122,7 @@
 - <a id="yu26ao-architecture"></a>[Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ao)
 - <a id="zanotta26a-architecture"></a>[CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control](../conferences/icml-2026/cards/5601-5700.md#paper-zanotta26a)
 - <a id="zhang26fo-architecture"></a>[FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fo)
+- <a id="zhao26ak-architecture"></a>[MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ak)
 
 <a id="by-modules"></a>
 
@@ -466,4 +467,5 @@
 - <a id="salehkaleybar26a-theory-statistics"></a>[One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State](../conferences/icml-2026/cards/3901-4000.md#paper-salehkaleybar26a)
 - <a id="tahmasebi26a-theory-statistics"></a>[Adaptive Symmetry Discovery for Dynamical System Identification](../conferences/icml-2026/cards/4301-4400.md#paper-tahmasebi26a)
 - <a id="tepakbong26a-theory-statistics"></a>[Taming the Loss Landscape of PINNs with Noisy Feynman–Kac Supervision: Operator Preconditioning and Non-Asymptotic Error Bounds](../conferences/icml-2026/cards/4401-4500.md#paper-tepakbong26a)
+- <a id="zhao26ag-theory-statistics"></a>[Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ag)
 <!-- classification:end -->

@@ -719,4 +719,5 @@
 - [用每个强连通分量一次的干预恢复线性随机动力学](../conferences/icml-2026/cards/3901-4000.md#salehkaleybar26a-theory-statistics) · One Intervention per Component is Enough: Towards Identifiability in Linear Stochastic Dynamics from Steady State
 - [symmetry-identifiability](../conferences/icml-2026/cards/4301-4400.md#tahmasebi26a-theory-statistics) · Adaptive Symmetry Discovery for Dynamical System Identification
 - [supervision-curvature-compatibility](../conferences/icml-2026/cards/4401-4500.md#tepakbong26a-theory-statistics) · Taming the Loss Landscape of PINNs with Noisy Feynman–Kac Supervision: Operator Preconditioning and Non-Asymptotic Error Bounds
+- [椭圆PINN后验收缩的损失与边界范数](../conferences/icml-2026/cards/6001-6100.md#zhao26ag-theory-statistics) · Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs
 <!-- classification:end -->

@@ -319,6 +319,7 @@
 - [限制attention与MLP以便抽取算法](../conferences/icml-2026/cards/5701-5800.md#zhang26d-architecture) · Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer
 - [联合生成样本与NCDE混合动力学参数](../conferences/icml-2026/cards/5701-5800.md#zhang26ab-architecture) · Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations
 - [用复数倒数乘积单元拟合尖锐有理结构](../conferences/icml-2026/cards/5801-5900.md#zhang26cy-architecture) · CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions
+- [可训练零空间的约束候选选择](../conferences/icml-2026/cards/6001-6100.md#zhao26v-architecture) · CAffNet: Hard Constraint-Affine Neural Networks
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -466,4 +467,5 @@
 - [按解正则性缩放谱系数并嵌入基底](../conferences/icml-2026/cards/5601-5700.md#yu26ao-architecture) · Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs
 - [共享算子策略的跨数量PDE控制](../conferences/icml-2026/cards/5601-5700.md#zanotta26a-architecture) · CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control
 - [分离相空间流的逆问题重建](../conferences/icml-2026/cards/5901-6000.md#zhang26fo-architecture) · FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction
+- [固定网格上的部分多尺度PDE token](../conferences/icml-2026/cards/6001-6100.md#zhao26ak-architecture) · MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers
 <!-- classification:end -->

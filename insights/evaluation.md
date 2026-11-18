@@ -381,6 +381,7 @@
 - [把语义cache命中与回答完整性分开审计](../conferences/icml-2026/cards/5801-5900.md#zhang26dt-evaluation) · From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching
 - [通信轮次下防御信号衰减](../conferences/icml-2026/cards/5901-6000.md#zhang26jb-evaluation) · When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems
 - [把judge一致性与专家综述质量判断分开校准](../conferences/icml-2026/cards/6001-6100.md#zhao26e-evaluation) · LitReview Arena: Evaluating Literature Review Agents with Battle-style Peer Review Platform
+- [跨seed双峰导致的表观能力跃迁](../conferences/icml-2026/cards/6001-6100.md#zhao26al-evaluation) · Random Scaling of Emergent Capabilities
 
 <a id="by-computer-vision"></a>
 
@@ -626,6 +627,7 @@
 - [用单模态均可答的冲突题测模态依赖](../conferences/icml-2026/cards/5801-5900.md#zhang26ed-evaluation) · Evaluating and Steering Modality Preferences in Multi-modal LLMs
 - [情绪头的中层选择性与深层共享性](../conferences/icml-2026/cards/5901-6000.md#zhang26fi-evaluation) · Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow
 - [词汇相近时的关系完整性防御评测](../conferences/icml-2026/cards/5901-6000.md#zhang26fr-evaluation) · TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models
+- [准确率上升时的推理一致性漂移](../conferences/icml-2026/cards/6001-6100.md#zhao26am-evaluation) · On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs
 
 <a id="by-ml-foundations"></a>
 

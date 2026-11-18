@@ -482,6 +482,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Distributed Stochastic $K$-Level Optimization Over Networks](../../conferences/icml-2026/cards/5901-6000.md#zhang26ij-optimization) · 中文
 - [Optimal Transport with Symmetry Groups](../../conferences/icml-2026/cards/5901-6000.md#zhang26ir-optimization) · 中文
 - [Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization](../../conferences/icml-2026/cards/5901-6000.md#zhang26is-optimization) · 中文
+- [A Fully First-Order Layer for Differentiable Optimization](../../conferences/icml-2026/cards/6001-6100.md#zhao26ah-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
