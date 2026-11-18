@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **506** 篇，暂收录 **441** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **569** 篇，暂收录 **500** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -449,3 +449,62 @@
 | 多模态学习 | 异常检测 | [An Efficient Cross-modal Feature Reconstruction Model for Multimodal Multi-class Anomaly Detection](cards.md#paper-153426) | 用跨模态重建代替同模态重建，检验是否更能区分异常。 |
 | 学习理论 / 公平性 | 约束诊断 | [An Efficient Geometric Characterization of Robust Fair Learning](cards.md#paper-151262) | 用线性规划检查严格公平约束是否造成准确率对分布扰动敏感。 |
 | 推荐系统 | 基准诊断 | [An Embarrassingly Simple Graph Heuristic Reveals Shortcut-Solvable Benchmarks for Sequential Recommendation](cards.md#paper-139297) | 在宣称生成式推荐学到长历史之前，先测试仅用最近一两项的图检索。 |
+| 预训练 | 训练稳定性 | [An Empirical Study on Noisy Data and LLM Pretraining Loss Divergence](cards.md#paper-151029) | 区分噪声类型与规模风险 |
+| 推理模型 | 过程评测 | [An Enigma of Artificial Reason: Investigating the Production-Evaluation Gap in Large Reasoning Models](cards.md#paper-149795) | 独立评测推理步骤的正确性 |
+| 优化 | 等变优化器 | [An Equivariance Principle for Optimizer Design: Symmetry-Compatible Updates for Embeddings, LM Heads, and MoE Routers](cards.md#paper-154592) | 按矩阵层的对称性选择更新规则 |
+| 量子学习 | 强化学习接口 | [A New Framework for Quantum Reinforcement Learning](cards.md#paper-149569) | 在量子环境保留相干回报 |
+| 图学习 | 动态图建模 | [A New Perspective on Target-Conditioned Structural Dynamics for Link Prediction in Dynamic Graphs](cards.md#paper-151703) | 先更新时间结构状态，再指导邻居聚合 |
+| 生成模型 | 泛化理论 | [An exact information theory of generalization phase transitions in Bayesian diffusion models](cards.md#paper-152478) | 按可见信息量诊断扩散过程记忆与泛化 |
+| 模型压缩 | 低精度训练 | [Angular Networks: Low-Bit Learning from Randomized Similarity Estimators](cards.md#paper-154802) | 采用角相似估计作为低比特线性层的替代 |
+| 多模态 | 视频评测 | [Animation2Code: Evaluating Temporal Visual Reasoning in Video-to-Code Generation](cards.md#paper-138932) | 分别量化动画的外观和时间对齐 |
+| 教育机器学习 | 评测诊断 | [An Information-Theoretic Evaluation Framework for Benchmark and Model Diagnosis in Knowledge Tracing](cards.md#paper-149407) | 按局部可预测性分层比较知识追踪模型 |
+| 公平学习 | 数据审计 | [An Information-theoretic Framework for Auditing Unfairness in Training Data](cards.md#paper-153353) | 在训练前定位对公平偏差贡献较大的特征 |
+| 概率建模 | 退火 | [Annealing in variational inference mitigates mode collapse: a theoretical study on Gaussian mixtures](cards.md#paper-151971) | 共同调节退火初温与速度以减少模式塌缩 |
+| 统计学习 | 在线校准 | [Announced Breaks Separate Conformal Reliability from Frequency Calibration](cards.md#paper-151358) | 已知变点时重置校准，并分开报告单步与平均覆盖 |
+| 隐私学习 | PAC 样本复杂度 | [An Õptimal Differentially Private PAC Learner for Concept Classes with VC Dimension 1](cards.md#paper-149826) | 利用低 VC 类树结构减少私有学习的样本需求 |
+| 科学机器学习 | 稳定状态空间 | [A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures](cards.md#paper-151951) | 用 Schur 域投影约束状态矩阵稳定性 |
+| 模型可靠性 | 拒答校准 | [Answering At Any Cost: Frontier LLMs Are Consequence-Insensitive](cards.md#paper-150213) | 按回答错误代价单独评测拒答 |
+| 推理训练 | 自蒸馏 | [Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information](cards.md#paper-149938) | 检查含答案的教师上下文是否压低探索 token |
+| 视觉生成 | 散景编辑 | [AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer](cards.md#paper-153372) | 先拟合输入图像既有光学状态再编辑离焦 |
+| 语音生成 | 分阶段编辑 | [AnyEdit: A Unified Framework for Speech and Singing Voice Editing with Real-World Environmental Consistency](cards.md#paper-152934) | 先编辑干净内容再恢复源环境声 |
+| 计算机视觉 | 数据诊断 | [AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation](cards.md#paper-139245) | 固定网络和训练流程对照合成数据的构成 |
+| 多模态学习 | 传感表示 | [AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild](cards.md#paper-154127) | 用同一动作的多佩戴视图学习配置不变表征 |
+| 多模态学习 | 条件生成 | [AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling](cards.md#paper-153279) | 以掩码建模统一可缺失的动作控制模态 |
+| 多模态学习 | 结构先验 | [Anymotion: A Dataset, Benchmark, and Baseline for Controllable Human Motion Editing](cards.md#paper-151900) | 将骨架关键点与语义查询作为可检验编辑中间态 |
+| 统计学习 | 风险校准 | [Anytime-Valid Conformal Risk Control](cards.md#paper-154243) | 随着标注积累反复校准时采用任意时刻有效界 |
+| 大语言模型 | 推理校准 | [Anytime-Valid PAC-Bayes Certificates for Adaptive Test-Time Scaling](cards.md#paper-153451) | 为反复试预算和验证器的过程报告统一风险成本界 |
+| 科学机器学习 | 神经算子 | [AOT-POT: Adaptive Operator Transformation for Large-Scale PDE Pre-training](cards.md#paper-153792) | 用输入相关多流变换处理异构 PDE，而非仅加大模型 |
+| 视频生成 | 分辨率迁移 | [ApertureAttn: Native 4K Video Generation with Image-Only Supervision](cards.md#paper-154936) | 用高分辨率单帧监督训练空间高频适配 |
+| 具身智能 | 规划验证 | [APIVOT: Adaptive Planning with Interleaved Vision-Language Thoughts](cards.md#paper-152333) | 空间约束强时让视觉想象验证语言计划 |
+| 大语言模型 | 个性化评测 | [APM: Evaluating Style Personalization in LLMs with Arbitrary Preference Mappings](cards.md#paper-139154) | 用随机映射迫使模型从对话历史推断偏好 |
+| 大语言模型 | 指令评测 | [AppCIF-Bench: An Application-Level Complex Instruction Following Benchmark for Large Language Models](cards.md#paper-139375) | 把执行跨度和规则嵌套深度拆开评测 |
+| 视频生成 | 物理评测 | [Apple-$\pi$: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence](cards.md#paper-139053) | 分阶段测试感知、定律表达和演绎 |
+| 模型适配 | 模型合并 | [Approaching Effective Merging in Model Embedding Space](cards.md#paper-149693) | 先在共享内禀子空间表达任务更新再平均 |
+| 机器学习系统 | 注意力计算 | [Approaching I/O-optimality for Approximate Attention](cards.md#paper-154340) | 按快速内存大小和允许的近似选择低 I/O 注意力 |
+| 概率建模 | 神经符号推断 | [Approximate Bayesian inference with exchangeable distributions for neurosymbolic AI](cards.md#paper-150027) | 利用可交换结构设计离散变分近似 |
+| 算法理论 | 公平分配 | [Approximate Envy-Free Allocations  up to any k Goods](cards.md#paper-148884) | 根据可忽略物品数选可计算的公平保证 |
+| 数值计算 | 核矩阵近似 | [Approximate Matrix–Vectors Under a Bounded $\ell_1$ Assumption and Applications to Kernel Matrices](cards.md#paper-150755) | 用总绝对质量决定是否以采样近似矩阵向量乘 |
+| 学习理论 | 状态空间模型 | [Approximate Memory Suffices for Universal Approximation with State Space Models](cards.md#paper-148575) | 区分衰减历史任务的近似记忆和精确延迟恢复 |
+| 机制设计 | 资源定价 | [Approximation Algorithms for GPU Pricing under Finite Capacity](cards.md#paper-152873) | 稀缺 GPU 容量下比较非线性菜单与按卡按小时线性定价 |
+| 联邦学习 | 稳健聚合 | [Approximation Guarantees for Robust Aggregation in Federated Learning](cards.md#paper-155522) | 在稳定性和逼近干净均值之间选择聚合约束。 |
+| 学习理论 | 对比学习 | [Approximation in Contrastive Representation Learning](cards.md#paper-154229) | 根据互信息核的谱尾选择对比嵌入维度。 |
+| 学习理论 | 算子逼近 | [Approximation of Maximally Monotone Operators : A Graph Convergence Perspective](cards.md#paper-155734) | 对不连续或多值算子用图收敛选择逼近指标。 |
+| 科学机器学习 | 网格建模 | [APPSolver: Adaptive Patch Partitioning for Point-Wise Ship Flow Prediction on Unstructured Meshes](cards.md#paper-149116) | 按流场敏感区域分配异质网格的 token 分辨率。 |
+| 强化学习 | 约束优化 | [A Primal-dual Approach for Semi-Infinitely Constrained Reinforcement Learning](cards.md#paper-154351) | 用原始–对偶更新替代对连续约束族的内层求解。 |
+| 多模态学习 | 视频压缩 | [A Principled Optimal Transport Framework for Frame Selection in Long Video Understanding](cards.md#paper-155583) | 按查询相关性分配帧权重，再单独约束抽帧后的时间覆盖。 |
+| 计算机视觉 | 逆问题 | [A Principled Self-Referenced Early Stopping Approach for Deep Image Prior](cards.md#paper-151448) | 用伪独立观测构造早停指标，减轻无干净标签时的过拟合。 |
+| 计算神经科学 | 概率建模 | [A probabilistic model of visual segmentation explains early visual cortical dynamics](cards.md#paper-154567) | 用分割推断解释视觉皮层群体活动，而非只拟合单神经元平均曲线。 |
+| 大语言模型 / Agent | 过程评测 | [A Process-Level Evaluation of LLM Discovery Agents](cards.md#paper-139068) | 记录搜索行为和中间里程碑来选择发现任务的 Agent 框架。 |
+| 优化 | 最优传输 | [A Provably Convergent and Practical Algorithm for Gromov–Wasserstein Optimal Transport](cards.md#paper-148839) | 用可计算可行性残差控制 Gromov–Wasserstein 投影精度。 |
+| 多智能体 | 仿真降本 | [APS: Bias-Controlled Adaptive Prototype Simulation for Population-Scale LLM Agents](cards.md#paper-149524) | 用自适应原型复用语言模型调用，并用独立抽查校正群体估计。 |
+| 科学机器学习 | 泛化评测 | [AptaBench: A Benchmark for Aptamer-Small Molecule Binding](cards.md#paper-139036) | 对成对数据按两侧实体分别做互斥划分，暴露随机切分泄漏。 |
+| 科学机器学习 | 长程预测 | [AQBENCH: Benchmarking Neural Surrogates for Air Quality Forecasting](cards.md#paper-139706) | 同时测长时滚动、超阈事件和极端偏差，避免按平均误差选模型。 |
+| 数字人文 / 计算机视觉 | 表征评测 | [A Quantitative Visual Taxonomy of Worldwide Writing Systems](cards.md#paper-152125) | 在字形相似度研究中分开检验视觉亲近性与谱系一致性。 |
+| 大语言模型 / 优化 | 零阶微调 | [AR1-ZO: Topology-Aware Rank-1 Zeroth-Order Queries for High-Rank LoRA Fine-Tuning](cards.md#paper-155186) | 高秩 LoRA 的零阶估计改用交替秩一方向并校准缩放。 |
+| 时空建模 | 条件生成 | [Arbitrarily Conditioned Hierarchical Flows for Spatiotemporal Events](cards.md#paper-154895) | 用混合掩码把预报、后验补全与部分轨迹恢复作为同一条件任务。 |
+| 大语言模型 | 类比评测 | [ARCANA: A Benchmark for Abstraction and Analogical Reasoning](cards.md#paper-153989) | 单独测远类比并分析关系抽象失败，避免用近类比代表整体能力。 |
+| 大语言模型 | 上下文压缩 | [ARC-Encoder: learning compressed text representations for large language models](cards.md#paper-156755) | 用共享压缩编码器为不同解码器生成较短表示。 |
+| 统计学习 | 自动微分 | [Archimedean Copula Inference via Taylor-Mode AD](cards.md#paper-153718) | 用 Taylor 模式自动微分统一 Archimedean copula 的高阶密度计算。 |
+| 科学机器学习 | 物理先验 | [Architecture-Embedded Physics Priors for Mitigating Spectral Bias in Physics-Informed Neural Networks](cards.md#paper-150185) | 将方程残差用于调节网络内部频谱，并和只改损失或采样对照。 |
+| 大语言模型 | 来源标识 | [ArcMark: Distortion-Free Multi-Byte LLM Watermark via Optimal Transport](cards.md#paper-154160) | 评估文本水印时同时测消息恢复率与文本质量。 |
+| Agent / 教育 | 能力分解评测 | [Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows](cards.md#paper-139079) | 将有界教学判断、互动辅导和真实流程执行分开验收。 |
