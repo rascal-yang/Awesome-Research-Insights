@@ -3242,66 +3242,66 @@ poster_id	title	paper_url	status	reason
 154681	From Talking Words to Sharing Thoughts: Scalable Multi-LLM Aggregation via Structured Message Passing	https://neurips.cc/virtual/2026/poster/154681	included	用非对称阻尼保护可靠专家
 151647	From Tokens to Tactics: Adversarial Text Optimization in an Axis-Aligned Rhetorical Strategy Space for Harmful Content Detection	https://neurips.cc/virtual/2026/poster/151647	excluded	主要贡献是面向检测规避的攻击优化，未提取可独立复用的防御卡。
 155821	From Topology to Retrieval: Decoding Embedding Spaces with Unified Signatures	https://neurips.cc/virtual/2026/poster/155821	included	用联合几何指标预测嵌入检索表现
-152776	From Uncertain Judgments to Calibrated Rankings: Conformal Elo Estimation for LLM Evaluation	https://neurips.cc/virtual/2026/poster/152776	pending	-
-149559	From Views to Worlds: Active Exploration over 3D Worlds for Vision-Language Models	https://neurips.cc/virtual/2026/poster/149559	pending	-
-153103	From Walls to Synergy: A Joint LLM-Evolution Framework for MILP Solvers	https://neurips.cc/virtual/2026/poster/153103	pending	-
-152260	From Weak Data to Strong Policy: Q-Targets Enable Provable In-Context Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152260	pending	-
-153154	From “Weak” Signals to Strong Models: Preference Delta Aggregation with LoRA Merging	https://neurips.cc/virtual/2026/poster/153154	pending	-
-155549	From Weeks to Hours: Fast and Principled SFT Curation for LLM	https://neurips.cc/virtual/2026/poster/155549	pending	-
-148971	From Zero to Hero: Training-Free Custom Concept Spawning in World Models	https://neurips.cc/virtual/2026/poster/148971	pending	-
-152963	Frontier Coding Agents Use Metaprogramming to Adapt to Unfamiliar Programming Languages	https://neurips.cc/virtual/2026/poster/152963	pending	-
-139163	Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering with Generative Optimization	https://neurips.cc/virtual/2026/poster/139163	pending	-
-150144	Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D	https://neurips.cc/virtual/2026/poster/150144	pending	-
-139096	FrontierOR: Benchmarking LLMs' Capacity for Efficient Algorithm Design in Large-Scale Optimization	https://neurips.cc/virtual/2026/poster/139096	pending	-
-151843	FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale	https://neurips.cc/virtual/2026/poster/151843	pending	-
-151737	Frontier Task Synthesis Via Solution-Centric Evolution	https://neurips.cc/virtual/2026/poster/151737	pending	-
-150946	Frozen Memory Is Not Enough: Rethinking External Memory as Extraction	https://neurips.cc/virtual/2026/poster/150946	pending	-
-150220	FRUC: Feedforward Dynamic Scene Reconstruction from Uncalibrated Collaborative Driving Views	https://neurips.cc/virtual/2026/poster/150220	pending	-
-154979	FTerViT: Fully Ternary Vision Transformer	https://neurips.cc/virtual/2026/poster/154979	pending	-
-152521	Full-Atom Cyclic Peptide Design via Test-Time Scaled Autoregressive Flow Matching	https://neurips.cc/virtual/2026/poster/152521	pending	-
-151309	Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps	https://neurips.cc/virtual/2026/poster/151309	pending	-
-152739	Full-Duplex Speech-Motion Model for Dyadic Interaction	https://neurips.cc/virtual/2026/poster/152739	pending	-
-148745	Full Fine-Tuning Is Not the Problem: Why Adam Fails and SGD Succeeds in Few-Shot CLIP Adaptation	https://neurips.cc/virtual/2026/poster/148745	pending	-
-155975	Full-Sequence Masked Diffusion for Generative Recommendation	https://neurips.cc/virtual/2026/poster/155975	pending	-
-154377	Fully Distributed Tâtonnement for Chores Markets	https://neurips.cc/virtual/2026/poster/154377	pending	-
-149567	Fully First-Order Algorithms for Online Non-Convex Bilevel Optimization	https://neurips.cc/virtual/2026/poster/149567	pending	-
-155637	FuncFormer: Circuit Representation Learning via the Flow of Functional Propagation	https://neurips.cc/virtual/2026/poster/155637	pending	-
-148533	Functional Gradient Descent with Adaptive Representations	https://neurips.cc/virtual/2026/poster/148533	pending	-
-148539	FunctionEvolve: Structure-Guided Symbolic Regression with LLMs	https://neurips.cc/virtual/2026/poster/148539	pending	-
-149521	Function graph transformers universally approximate operators between  function spaces	https://neurips.cc/virtual/2026/poster/149521	pending	-
-148186	FuRA: Full-Rank Parameter-Efficient Fine-Tuning with Spectral Preconditioning	https://neurips.cc/virtual/2026/poster/148186	pending	-
-152520	FuseAdapt: Adaptation-Space Fusion for Multi-Modal Semantic Segmentation with Missing Modalities	https://neurips.cc/virtual/2026/poster/152520	pending	-
-155007	FusionAudit: Pathway-Conditioned Robustness Auditing for Native Multimodal Models	https://neurips.cc/virtual/2026/poster/155007	pending	-
-150560	FusionNeXt: Sequence-First 3D Multi-Modal Fusion in the Era of LLMs	https://neurips.cc/virtual/2026/poster/150560	pending	-
-152604	Fusion or Confusion? Multimodal Complexity Is Not All You Need	https://neurips.cc/virtual/2026/poster/152604	pending	-
-156761	FusionProt: Fusing Sequence and Structural Information for Unified Protein Representation Learning	https://neurips.cc/virtual/2026/poster/156761	pending	-
-154014	FUTON: Fourier Tensor Network for Implicit Neural Representations	https://neurips.cc/virtual/2026/poster/154014	pending	-
-139347	FutureSim: Replaying World Events to Evaluate Adaptive Agents	https://neurips.cc/virtual/2026/poster/139347	pending	-
-139181	fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets	https://neurips.cc/virtual/2026/poster/139181	pending	-
-155624	G$^2$TR: Generation-Guided Visual Token Reduction for Separate-Encoder Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/155624	pending	-
-149246	G2Fusion: Geometric-to-Generative Image Fusion via Registration-Restoration Evolution	https://neurips.cc/virtual/2026/poster/149246	pending	-
-152843	GADMVP: Adaptive Few-Shot Graph-Level Anomaly Detection with Multi-View Structured Prompting	https://neurips.cc/virtual/2026/poster/152843	pending	-
-154242	GAE Falls Short in Imperfect-Information Self-Play Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154242	pending	-
-155867	Gaeta-Lie Neural SDEs: Symmetry-Regularized Learning of Stochastic Dynamics	https://neurips.cc/virtual/2026/poster/155867	pending	-
-149536	GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems	https://neurips.cc/virtual/2026/poster/149536	pending	-
-150408	GaitLingo: Self-Supervised Gait Representation Learning with Language Priors	https://neurips.cc/virtual/2026/poster/150408	pending	-
-139301	GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling	https://neurips.cc/virtual/2026/poster/139301	pending	-
-155397	GAMMA: Scalable 4D Gaussian Reconstruction Model for Novel View Synthesis of Monocular Videos	https://neurips.cc/virtual/2026/poster/155397	pending	-
-150837	GAPS: Gradient-Aware Adaptation-Gap Scoring for Time-Series Anomaly Detection with Foundation Models	https://neurips.cc/virtual/2026/poster/150837	pending	-
-150985	GARDO: Reinforcing Diffusion Models without Reward Hacking	https://neurips.cc/virtual/2026/poster/150985	pending	-
-151322	GATE-AD: Graph Attention Network Encoding for Few-Shot Industrial Visual Anomaly Detection	https://neurips.cc/virtual/2026/poster/151322	pending	-
-148191	Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention	https://neurips.cc/virtual/2026/poster/148191	pending	-
-155117	GauGal: Gaussian-Galerkin Electromagnetic Inverse Scattering Imaging	https://neurips.cc/virtual/2026/poster/155117	pending	-
-155744	GAUGECAST++: A Physics-Informed Latent Forecasting System for Localized Flood Prediction	https://neurips.cc/virtual/2026/poster/155744	pending	-
-152638	Gauge-Symmetric Dual Lagrangian Frameworks for Born-Oppenheimer Molecular Dynamics	https://neurips.cc/virtual/2026/poster/152638	pending	-
-152745	GauS: Differentiable Scheduling Optimization via Gaussian Reparameterization	https://neurips.cc/virtual/2026/poster/152745	pending	-
-150496	Gaussian Density Splatting Network	https://neurips.cc/virtual/2026/poster/150496	pending	-
-149805	Gaussian Mixture Models in Hilbert Spaces via Kernel Methods	https://neurips.cc/virtual/2026/poster/149805	pending	-
-154521	Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors	https://neurips.cc/virtual/2026/poster/154521	pending	-
-151440	GazeFlow: From Human Gaze Behavior to Generative Egocentric Gaze Prediction	https://neurips.cc/virtual/2026/poster/151440	pending	-
-154093	GCD: Correcting Hidden-State Bias in Off-Policy Agentic RL	https://neurips.cc/virtual/2026/poster/154093	pending	-
-152070	GCD: GCM-consistent Diffusion for Zero-shot Downscaling across Heterogeneous GCMs	https://neurips.cc/virtual/2026/poster/152070	pending	-
-152678	GDMD: Guiding Distribution Matching Distillation with Gradient-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152678	pending	-
+152776	From Uncertain Judgments to Calibrated Rankings: Conformal Elo Estimation for LLM Evaluation	https://neurips.cc/virtual/2026/poster/152776	included	用软胜率和区间评估替代硬判决排名。
+149559	From Views to Worlds: Active Exploration over 3D Worlds for Vision-Language Models	https://neurips.cc/virtual/2026/poster/149559	included	让视觉语言模型查询显式三维场景。
+153103	From Walls to Synergy: A Joint LLM-Evolution Framework for MILP Solvers	https://neurips.cc/virtual/2026/poster/153103	included	联合优化能相互作用的求解器组件。
+152260	From Weak Data to Strong Policy: Q-Targets Enable Provable In-Context Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152260	included	弱离线数据下尝试用价值监督代替动作模仿。
+153154	From “Weak” Signals to Strong Models: Preference Delta Aggregation with LoRA Merging	https://neurips.cc/virtual/2026/poster/153154	included	先对齐适配器子空间再合并偏好差分。
+155549	From Weeks to Hours: Fast and Principled SFT Curation for LLM	https://neurips.cc/virtual/2026/poster/155549	included	用少量推理 token 的损失签名估计难度和多样性。
+148971	From Zero to Hero: Training-Free Custom Concept Spawning in World Models	https://neurips.cc/virtual/2026/poster/148971	included	短暂替换上下文锚点以插入新概念。
+152963	Frontier Coding Agents Use Metaprogramming to Adapt to Unfamiliar Programming Languages	https://neurips.cc/virtual/2026/poster/152963	included	对陌生语言任务分别评估工具预算与策略支持。
+139163	Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering with Generative Optimization	https://neurips.cc/virtual/2026/poster/139163	included	记录预算内的最佳可行解和完整改进曲线。
+150144	Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D	https://neurips.cc/virtual/2026/poster/150144	included	把对应位置映射到同列以测试长文本复制。
+139096	FrontierOR: Benchmarking LLMs' Capacity for Efficient Algorithm Design in Large-Scale Optimization	https://neurips.cc/virtual/2026/poster/139096	included	同时检查生成算法的解质量与运行时间。
+151843	FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale	https://neurips.cc/virtual/2026/poster/151843	included	按解题思路分歧度筛选开放式编程任务。
+151737	Frontier Task Synthesis Via Solution-Centric Evolution	https://neurips.cc/virtual/2026/poster/151737	included	先演化可执行参考解，再派生题面与测试。
+150946	Frozen Memory Is Not Enough: Rethinking External Memory as Extraction	https://neurips.cc/virtual/2026/poster/150946	included	跨模型转移冻结记忆时先比较读取器。
+150220	FRUC: Feedforward Dynamic Scene Reconstruction from Uncalibrated Collaborative Driving Views	https://neurips.cc/virtual/2026/poster/150220	included	让辅助视图只补充主视图遮挡区域。
+154979	FTerViT: Fully Ternary Vision Transformer	https://neurips.cc/virtual/2026/poster/154979	included	按整机内存统计嵌入、归一化和分类头。
+152521	Full-Atom Cyclic Peptide Design via Test-Time Scaled Autoregressive Flow Matching	https://neurips.cc/virtual/2026/poster/152521	excluded	主要贡献为可操作的生物分子设计，未提取独立的通用评测结论。
+151309	Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps	https://neurips.cc/virtual/2026/poster/151309	included	按头和查询动态选长上下文注意力预算。
+152739	Full-Duplex Speech-Motion Model for Dyadic Interaction	https://neurips.cc/virtual/2026/poster/152739	included	共享时间坐标对齐双人话语和动作。
+148745	Full Fine-Tuning Is Not the Problem: Why Adam Fails and SGD Succeeds in Few-Shot CLIP Adaptation	https://neurips.cc/virtual/2026/poster/148745	included	先匹配首步更新量再比较全量和参数高效微调。
+155975	Full-Sequence Masked Diffusion for Generative Recommendation	https://neurips.cc/virtual/2026/poster/155975	included	用双向去噪联合生成推荐列表
+154377	Fully Distributed Tâtonnement for Chores Markets	https://neurips.cc/virtual/2026/poster/154377	included	只用局部超额需求更新价格
+149567	Fully First-Order Algorithms for Online Non-Convex Bilevel Optimization	https://neurips.cc/virtual/2026/poster/149567	included	用约束重写消除 Hessian 向量积
+155637	FuncFormer: Circuit Representation Learning via the Flow of Functional Propagation	https://neurips.cc/virtual/2026/poster/155637	included	用仿真轨迹引导图表示
+148533	Functional Gradient Descent with Adaptive Representations	https://neurips.cc/virtual/2026/poster/148533	included	随优化进程改变函数梯度的表示
+148539	FunctionEvolve: Structure-Guided Symbolic Regression with LLMs	https://neurips.cc/virtual/2026/poster/148539	included	让候选搜索围绕表达式树运作
+149521	Function graph transformers universally approximate operators between  function spaces	https://neurips.cc/virtual/2026/poster/149521	included	用图测度统一不同离散分辨率
+148186	FuRA: Full-Rank Parameter-Efficient Fine-Tuning with Spectral Preconditioning	https://neurips.cc/virtual/2026/poster/148186	included	冻结预训练奇异基底，让少量参数产生全秩更新
+152520	FuseAdapt: Adaptation-Space Fusion for Multi-Modal Semantic Segmentation with Missing Modalities	https://neurips.cc/virtual/2026/poster/152520	included	用训练期预测监督增强缺失模态表现
+155007	FusionAudit: Pathway-Conditioned Robustness Auditing for Native Multimodal Models	https://neurips.cc/virtual/2026/poster/155007	excluded	摘要包含针对多模态模型的攻击设计。本轮只记录审计应区分风险来源的原则，暂不生成机制卡。
+150560	FusionNeXt: Sequence-First 3D Multi-Modal Fusion in the Era of LLMs	https://neurips.cc/virtual/2026/poster/150560	included	将相机和 LiDAR 统一为保持邻近的一维序列
+152604	Fusion or Confusion? Multimodal Complexity Is Not All You Need	https://neurips.cc/virtual/2026/poster/152604	included	采用统一调参和验证预算比较融合复杂度
+156761	FusionProt: Fusing Sequence and Structural Information for Unified Protein Representation Learning	https://neurips.cc/virtual/2026/poster/156761	excluded	摘要涉及蛋白功能与突变稳定性建模，本轮未提取可独立验证的非生物应用卡。
+154014	FUTON: Fourier Tensor Network for Implicit Neural Representations	https://neurips.cc/virtual/2026/poster/154014	included	用低秩张量参数化傅里叶系数
+139347	FutureSim: Replaying World Events to Evaluate Adaptive Agents	https://neurips.cc/virtual/2026/poster/139347	included	按现实发生顺序重放信息
+139181	fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets	https://neurips.cc/virtual/2026/poster/139181	included	用意图单元格标注区分上下文和公式错误
+155624	G$^2$TR: Generation-Guided Visual Token Reduction for Separate-Encoder Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/155624	included	用生成分支提供的信号剪减理解侧视觉令牌
+149246	G2Fusion: Geometric-to-Generative Image Fusion via Registration-Restoration Evolution	https://neurips.cc/virtual/2026/poster/149246	included	对未对齐退化图像联合做配准与恢复
+152843	GADMVP: Adaptive Few-Shot Graph-Level Anomaly Detection with Multi-View Structured Prompting	https://neurips.cc/virtual/2026/poster/152843	included	以跨图信息补偿少标签的结构不均衡
+154242	GAE Falls Short in Imperfect-Information Self-Play Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154242	included	用策略期望减少自博弈动作采样方差
+155867	Gaeta-Lie Neural SDEs: Symmetry-Regularized Learning of Stochastic Dynamics	https://neurips.cc/virtual/2026/poster/155867	included	从拟合模型发现对称性后再正则化
+149536	GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems	https://neurips.cc/virtual/2026/poster/149536	included	在输入输出域不同时用几何 token 调节积分核
+150408	GaitLingo: Self-Supervised Gait Representation Learning with Language Priors	https://neurips.cc/virtual/2026/poster/150408	included	同时利用描述给样本加权并迁移样本关系
+139301	GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling	https://neurips.cc/virtual/2026/poster/139301	excluded	主要贡献为分钟级游戏数据集与处理流程，摘要未提供能隔离数据设计或迁移贡献的对照。
+155397	GAMMA: Scalable 4D Gaussian Reconstruction Model for Novel View Synthesis of Monocular Videos	https://neurips.cc/virtual/2026/poster/155397	included	将动态场景的外观、几何和运动纳入统一前馈表示
+150837	GAPS: Gradient-Aware Adaptation-Gap Scoring for Time-Series Anomaly Detection with Foundation Models	https://neurips.cc/virtual/2026/poster/150837	included	比较适配前后重建误差差值以隔离噪声
+150985	GARDO: Reinforcing Diffusion Models without Reward Hacking	https://neurips.cc/virtual/2026/poster/150985	included	仅对高不确定样本加参考约束，兼顾探索
+151322	GATE-AD: Graph Attention Network Encoding for Few-Shot Industrial Visual Anomaly Detection	https://neurips.cc/virtual/2026/poster/151322	included	对冻结图块做掩码邻域重建并对齐原表征
+148191	Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention	https://neurips.cc/virtual/2026/poster/148191	included	将压缩记忆的擦除和写入门控分离
+155117	GauGal: Gaussian-Galerkin Electromagnetic Inverse Scattering Imaging	https://neurips.cc/virtual/2026/poster/155117	included	将高斯基元直接用作物理求解单元
+155744	GAUGECAST++: A Physics-Informed Latent Forecasting System for Localized Flood Prediction	https://neurips.cc/virtual/2026/poster/155744	included	同时校验长期峰值时间与短步组合一致性
+152638	Gauge-Symmetric Dual Lagrangian Frameworks for Born-Oppenheimer Molecular Dynamics	https://neurips.cc/virtual/2026/poster/152638	included	演化具有物理意义的子空间而非依赖具体基底
+152745	GauS: Differentiable Scheduling Optimization via Gaussian Reparameterization	https://neurips.cc/virtual/2026/poster/152745	included	用连续有序变量松弛离散时间槽
+150496	Gaussian Density Splatting Network	https://neurips.cc/virtual/2026/poster/150496	included	把局部密度写成可求和的连续基元质量
+149805	Gaussian Mixture Models in Hilbert Spaces via Kernel Methods	https://neurips.cc/virtual/2026/poster/149805	included	在难定义密度的空间用核均值估计混合分布
+154521	Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors	https://neurips.cc/virtual/2026/poster/154521	included	用层级时空锚点共享基元参数并编码远距相关
+151440	GazeFlow: From Human Gaze Behavior to Generative Egocentric Gaze Prediction	https://neurips.cc/virtual/2026/poster/151440	included	用分布生成视线轨迹并评估跨帧一致性
+154093	GCD: Correcting Hidden-State Bias in Off-Policy Agentic RL	https://neurips.cc/virtual/2026/poster/154093	included	在异步训练中将缓存隐状态漂移与 token 权重偏差分别审计
+152070	GCD: GCM-consistent Diffusion for Zero-shot Downscaling across Heterogeneous GCMs	https://neurips.cc/virtual/2026/poster/152070	included	用过滤测量算子匹配外部模型与高分辨率先验频谱
+152678	GDMD: Guiding Distribution Matching Distillation with Gradient-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152678	included	按蒸馏更新方向而非早期像素样本构造奖励权重
 151913	GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/151913	pending	-
 155708	GEAR: A GPU-Accelerated Global Solver for Nonlinear Programs via Linear Bound Propagation	https://neurips.cc/virtual/2026/poster/155708	pending	-
 153068	GEAR-Align: Grounding-Evidence-Aware Gradient Routing for Multimodal Alignment	https://neurips.cc/virtual/2026/poster/153068	included	按答案 token 对视觉的依赖程度分配梯度。

@@ -51,3 +51,59 @@
 | 大语言模型 | 结构化推理 | [From Table to Cell: Attention for Better Reasoning with TABALIGN](cards-0006.md#paper-153945) | 用单元格掩码连接计划和执行 |
 | 大语言模型 | 模型集成 | [From Talking Words to Sharing Thoughts: Scalable Multi-LLM Aggregation via Structured Message Passing](cards-0006.md#paper-154681) | 用非对称阻尼保护可靠专家 |
 | 自然语言处理 | 表征诊断 | [From Topology to Retrieval: Decoding Embedding Spaces with Unified Signatures](cards-0006.md#paper-155821) | 用联合几何指标预测嵌入检索表现 |
+| 大语言模型 | 评测校准 | [From Uncertain Judgments to Calibrated Rankings: Conformal Elo Estimation for LLM Evaluation](cards-0006.md#paper-152776) | 用软胜率和区间评估替代硬判决排名。 |
+| 多模态 | 空间推理 | [From Views to Worlds: Active Exploration over 3D Worlds for Vision-Language Models](cards-0006.md#paper-149559) | 让视觉语言模型查询显式三维场景。 |
+| 优化 | 求解器协同 | [From Walls to Synergy: A Joint LLM-Evolution Framework for MILP Solvers](cards-0006.md#paper-153103) | 联合优化能相互作用的求解器组件。 |
+| 强化学习 | 上下文策略 | [From Weak Data to Strong Policy: Q-Targets Enable Provable In-Context Reinforcement Learning](cards-0006.md#paper-152260) | 弱离线数据下尝试用价值监督代替动作模仿。 |
+| 大语言模型 | 适配器合并 | [From “Weak” Signals to Strong Models: Preference Delta Aggregation with LoRA Merging](cards-0006.md#paper-153154) | 先对齐适配器子空间再合并偏好差分。 |
+| 大语言模型 | 数据筛选 | [From Weeks to Hours: Fast and Principled SFT Curation for LLM](cards-0006.md#paper-155549) | 用少量推理 token 的损失签名估计难度和多样性。 |
+| 计算机视觉 | 视频生成 | [From Zero to Hero: Training-Free Custom Concept Spawning in World Models](cards-0006.md#paper-148971) | 短暂替换上下文锚点以插入新概念。 |
+| Agent | 编程评测 | [Frontier Coding Agents Use Metaprogramming to Adapt to Unfamiliar Programming Languages](cards-0006.md#paper-152963) | 对陌生语言任务分别评估工具预算与策略支持。 |
+| Agent | 工程评测 | [Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering with Generative Optimization](cards-0006.md#paper-139163) | 记录预算内的最佳可行解和完整改进曲线。 |
+| 大语言模型 | 位置编码 | [Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D](cards-0006.md#paper-150144) | 把对应位置映射到同列以测试长文本复制。 |
+| Agent | 优化评测 | [FrontierOR: Benchmarking LLMs' Capacity for Efficient Algorithm Design in Large-Scale Optimization](cards-0006.md#paper-139096) | 同时检查生成算法的解质量与运行时间。 |
+| Agent | 训练数据 | [FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale](cards-0006.md#paper-151843) | 按解题思路分歧度筛选开放式编程任务。 |
+| Agent | 任务合成 | [Frontier Task Synthesis Via Solution-Centric Evolution](cards-0006.md#paper-151737) | 先演化可执行参考解，再派生题面与测试。 |
+| 大语言模型 | 外部记忆 | [Frozen Memory Is Not Enough: Rethinking External Memory as Extraction](cards-0006.md#paper-150946) | 跨模型转移冻结记忆时先比较读取器。 |
+| 计算机视觉 | 协作重建 | [FRUC: Feedforward Dynamic Scene Reconstruction from Uncalibrated Collaborative Driving Views](cards-0006.md#paper-150220) | 让辅助视图只补充主视图遮挡区域。 |
+| 计算机视觉 | 模型量化 | [FTerViT: Fully Ternary Vision Transformer](cards-0006.md#paper-154979) | 按整机内存统计嵌入、归一化和分类头。 |
+| 大语言模型 | 稀疏推理 | [Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps](cards-0006.md#paper-151309) | 按头和查询动态选长上下文注意力预算。 |
+| 多模态 | 流式交互 | [Full-Duplex Speech-Motion Model for Dyadic Interaction](cards-0006.md#paper-152739) | 共享时间坐标对齐双人话语和动作。 |
+| 优化 | 少样本微调 | [Full Fine-Tuning Is Not the Problem: Why Adam Fails and SGD Succeeds in Few-Shot CLIP Adaptation](cards-0006.md#paper-148745) | 先匹配首步更新量再比较全量和参数高效微调。 |
+| 推荐系统 | 列表生成 | [Full-Sequence Masked Diffusion for Generative Recommendation](cards-0006.md#paper-155975) | 用双向去噪联合生成推荐列表 |
+| 经济计算 | 分布式优化 | [Fully Distributed Tâtonnement for Chores Markets](cards-0006.md#paper-154377) | 只用局部超额需求更新价格 |
+| 优化 | 双层优化 | [Fully First-Order Algorithms for Online Non-Convex Bilevel Optimization](cards-0006.md#paper-149567) | 用约束重写消除 Hessian 向量积 |
+| 图学习 | 电路表征 | [FuncFormer: Circuit Representation Learning via the Flow of Functional Propagation](cards-0006.md#paper-155637) | 用仿真轨迹引导图表示 |
+| 优化 | 函数空间优化 | [Functional Gradient Descent with Adaptive Representations](cards-0006.md#paper-148533) | 随优化进程改变函数梯度的表示 |
+| 科学机器学习 | 符号回归 | [FunctionEvolve: Structure-Guided Symbolic Regression with LLMs](cards-0006.md#paper-148539) | 让候选搜索围绕表达式树运作 |
+| 学习理论 | 算子逼近 | [Function graph transformers universally approximate operators between  function spaces](cards-0006.md#paper-149521) | 用图测度统一不同离散分辨率 |
+| 大语言模型 | 参数高效适配 | [FuRA: Full-Rank Parameter-Efficient Fine-Tuning with Spectral Preconditioning](cards-0006.md#paper-148186) | 冻结预训练奇异基底，让少量参数产生全秩更新 |
+| 多模态学习 | 缺失模态适配 | [FuseAdapt: Adaptation-Space Fusion for Multi-Modal Semantic Segmentation with Missing Modalities](cards-0006.md#paper-152520) | 用训练期预测监督增强缺失模态表现 |
+| 多模态学习 | 三维融合 | [FusionNeXt: Sequence-First 3D Multi-Modal Fusion in the Era of LLMs](cards-0006.md#paper-150560) | 将相机和 LiDAR 统一为保持邻近的一维序列 |
+| 多模态学习 | 评测复核 | [Fusion or Confusion? Multimodal Complexity Is Not All You Need](cards-0006.md#paper-152604) | 采用统一调参和验证预算比较融合复杂度 |
+| 信号表示 | 隐式表示 | [FUTON: Fourier Tensor Network for Implicit Neural Representations](cards-0006.md#paper-154014) | 用低秩张量参数化傅里叶系数 |
+| Agent | 时间顺序评测 | [FutureSim: Replaying World Events to Evaluate Adaptive Agents](cards-0006.md#paper-139347) | 按现实发生顺序重放信息 |
+| Agent | 电子表格评测 | [fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets](cards-0006.md#paper-139181) | 用意图单元格标注区分上下文和公式错误 |
+| 多模态学习 | 令牌压缩 | [G$^2$TR: Generation-Guided Visual Token Reduction for Separate-Encoder Unified Multimodal Models](cards-0006.md#paper-155624) | 用生成分支提供的信号剪减理解侧视觉令牌 |
+| 计算机视觉 | 图像融合 | [G2Fusion: Geometric-to-Generative Image Fusion via Registration-Restoration Evolution](cards-0006.md#paper-149246) | 对未对齐退化图像联合做配准与恢复 |
+| 图学习 | 异常检测 | [GADMVP: Adaptive Few-Shot Graph-Level Anomaly Detection with Multi-View Structured Prompting](cards-0006.md#paper-152843) | 以跨图信息补偿少标签的结构不均衡 |
+| 强化学习 | 优势估计 | [GAE Falls Short in Imperfect-Information Self-Play Reinforcement Learning](cards-0006.md#paper-154242) | 用策略期望减少自博弈动作采样方差 |
+| 科学机器学习 | 随机动力学 | [Gaeta-Lie Neural SDEs: Symmetry-Regularized Learning of Stochastic Dynamics](cards-0006.md#paper-155867) | 从拟合模型发现对称性后再正则化 |
+| 科学机器学习 | 神经算子 | [GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems](cards-0006.md#paper-149536) | 在输入输出域不同时用几何 token 调节积分核 |
+| 多模态学习 | 关系蒸馏 | [GaitLingo: Self-Supervised Gait Representation Learning with Language Priors](cards-0006.md#paper-150408) | 同时利用描述给样本加权并迁移样本关系 |
+| 计算机视觉 | 动态重建 | [GAMMA: Scalable 4D Gaussian Reconstruction Model for Novel View Synthesis of Monocular Videos](cards-0006.md#paper-155397) | 将动态场景的外观、几何和运动纳入统一前馈表示 |
+| 时间序列 | 异常检测 | [GAPS: Gradient-Aware Adaptation-Gap Scoring for Time-Series Anomaly Detection with Foundation Models](cards-0006.md#paper-150837) | 比较适配前后重建误差差值以隔离噪声 |
+| 生成模型 | 奖励正则化 | [GARDO: Reinforcing Diffusion Models without Reward Hacking](cards-0006.md#paper-150985) | 仅对高不确定样本加参考约束，兼顾探索 |
+| 计算机视觉 | 少样本异常检测 | [GATE-AD: Graph Attention Network Encoding for Few-Shot Industrial Visual Anomaly Detection](cards-0006.md#paper-151322) | 对冻结图块做掩码邻域重建并对齐原表征 |
+| 大语言模型 | 线性注意力 | [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](cards-0006.md#paper-148191) | 将压缩记忆的擦除和写入门控分离 |
+| 科学机器学习 | 逆问题 | [GauGal: Gaussian-Galerkin Electromagnetic Inverse Scattering Imaging](cards-0006.md#paper-155117) | 将高斯基元直接用作物理求解单元 |
+| 科学机器学习 | 水文预测 | [GAUGECAST++: A Physics-Informed Latent Forecasting System for Localized Flood Prediction](cards-0006.md#paper-155744) | 同时校验长期峰值时间与短步组合一致性 |
+| 科学机器学习 | 物理仿真 | [Gauge-Symmetric Dual Lagrangian Frameworks for Born-Oppenheimer Molecular Dynamics](cards-0006.md#paper-152638) | 演化具有物理意义的子空间而非依赖具体基底 |
+| 机器学习系统 | 调度优化 | [GauS: Differentiable Scheduling Optimization via Gaussian Reparameterization](cards-0006.md#paper-152745) | 用连续有序变量松弛离散时间槽 |
+| 计算机视觉 | 密度估计 | [Gaussian Density Splatting Network](cards-0006.md#paper-150496) | 把局部密度写成可求和的连续基元质量 |
+| 统计学习 | 核方法 | [Gaussian Mixture Models in Hilbert Spaces via Kernel Methods](cards-0006.md#paper-149805) | 在难定义密度的空间用核均值估计混合分布 |
+| 计算机视觉 | 视频压缩 | [Gaussian Splatting-based Volumetric Video Compression with Sparse 4D Anchors](cards-0006.md#paper-154521) | 用层级时空锚点共享基元参数并编码远距相关 |
+| 计算机视觉 | 轨迹生成 | [GazeFlow: From Human Gaze Behavior to Generative Egocentric Gaze Prediction](cards-0006.md#paper-151440) | 用分布生成视线轨迹并评估跨帧一致性 |
+| Agent | 强化学习 | [GCD: Correcting Hidden-State Bias in Off-Policy Agentic RL](cards-0006.md#paper-154093) | 在异步训练中将缓存隐状态漂移与 token 权重偏差分别审计 |
+| 科学机器学习 | 气候降尺度 | [GCD: GCM-consistent Diffusion for Zero-shot Downscaling across Heterogeneous GCMs](cards-0006.md#paper-152070) | 用过滤测量算子匹配外部模型与高分辨率先验频谱 |
+| 生成模型 | 蒸馏 | [GDMD: Guiding Distribution Matching Distillation with Gradient-Based Reinforcement Learning](cards-0006.md#paper-152678) | 按蒸馏更新方向而非早期像素样本构造奖励权重 |
