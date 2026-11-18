@@ -556,5 +556,7 @@
 - [Learning Agentic Policy from Action Guidance](../conferences/neurips-2026/cards-0007.md#paper-148912)
 - [Learning Contextual Causal Dynamics for Robust Exploration in Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-154910)
 - [Learning From Failures: Efficient Reinforcement Learning Control with Episodic Memory](../conferences/neurips-2026/cards-0007.md#paper-154904)
+- [Learning in Context, Guided by Choice: A Reward-Free Paradigm for Reinforcement Learning with Transformers](../conferences/neurips-2026/cards-0007.md#paper-152897)
+- [Learning Process Rewards via Visitation Matching for Efficient RL](../conferences/neurips-2026/cards-0007.md#paper-150545)
 
 <!-- conference-classification:end -->

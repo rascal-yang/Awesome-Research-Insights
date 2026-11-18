@@ -495,5 +495,13 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning a Maximum Entropy Model for Visual Textures using Diffusion](../../conferences/neurips-2026/cards-0007.md#paper-154116)
 - [Learning a Task-Adaptive Low-Dimensional Semantic Space for Improved Visual Classification](../../conferences/neurips-2026/cards-0007.md#paper-151661)
 - [Learning a Unified Cross-Model Semantic Dictionary via Gated Bottleneck Sparse Autoencoders](../../conferences/neurips-2026/cards-0007.md#paper-149262)
+- [Learning Informative Invariant Representations via Hierarchical Latent Decomposition](../../conferences/neurips-2026/cards-0007.md#paper-155712)
+- [Learning Orthonormal Bases for Function Spaces](../../conferences/neurips-2026/cards-0007.md#paper-155306)
+- [Learning Reusable Motor Motifs for Continuous Animal Behavior Modeling](../../conferences/neurips-2026/cards-0007.md#paper-152170)
+- [Learning Reusable Options by Decomposing Neural Policies](../../conferences/neurips-2026/cards-0007.md#paper-151089)
+- [Learning Semantic Consistency for Open-Vocabulary Dense Perception](../../conferences/neurips-2026/cards-0007.md#paper-149492)
+- [Learning Sparse Semantic-Cortical Atoms for Multisubject Naturalistic fMRI Encoding](../../conferences/neurips-2026/cards-0007.md#paper-151712)
+- [Learning Task-Centric World Models from Visual Foundations](../../conferences/neurips-2026/cards-0007.md#paper-149351)
+- [Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval](../../conferences/neurips-2026/cards-0007.md#paper-150225)
 
 <!-- conference-classification:end -->

@@ -342,5 +342,6 @@
 - [Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise](../conferences/neurips-2026/cards-0007.md#paper-148725)
 - [Knowledge-Level Consistency Reinforcement Learning: Dual-Fact Alignment for Long-Form Factuality](../conferences/neurips-2026/cards-0007.md#paper-152984)
 - [Learning Energy-Based Models from Stochastic Interpolants using Spatiotemporal Differences](../conferences/neurips-2026/cards-0007.md#paper-152730)
+- [Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems](../conferences/neurips-2026/cards-0007.md#paper-149636)
 
 <!-- conference-classification:end -->

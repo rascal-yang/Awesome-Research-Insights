@@ -721,5 +721,9 @@ Robot perception, policy learning, planning, and control.
 - [Learning a Trajectory-Geometric Condition from Reasoning for VLA Planning](../../conferences/neurips-2026/cards-0007.md#paper-153125)
 - [Learning From Failures: Efficient Reinforcement Learning Control with Episodic Memory](../../conferences/neurips-2026/cards-0007.md#paper-154904)
 - [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](../../conferences/neurips-2026/cards-0007.md#paper-151101)
+- [Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](../../conferences/neurips-2026/cards-0007.md#paper-149775)
+- [Learning Joint Semantic-Geometric Uncertainty for Structured Prediction with Closed-Loop Calibration](../../conferences/neurips-2026/cards-0007.md#paper-149933)
+- [Learning Options for Compositional Motor Control with Adapter Banks](../../conferences/neurips-2026/cards-0007.md#paper-149390)
+- [Learning Task-Centric World Models from Visual Foundations](../../conferences/neurips-2026/cards-0007.md#paper-149351)
 
 <!-- conference-classification:end -->

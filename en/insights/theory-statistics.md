@@ -909,5 +909,15 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Learning from Ranking Feedback: Improved Regret Bounds via Independence Preserving Rank Breaking](../../conferences/neurips-2026/cards-0007.md#paper-153500)
 - [Learning Gaussian Conditional Distributions using Neural Ratio Estimation is Hard](../../conferences/neurips-2026/cards-0007.md#paper-149465)
 - [Learning Global Temporal Dynamics in Sparse Networks via Cycle Counts](../../conferences/neurips-2026/cards-0007.md#paper-149950)
+- [Learning in Causal Markov Games](../../conferences/neurips-2026/cards-0007.md#paper-152310)
+- [Learning in Policy Transparency Games: Wedge Structure and Adaptive Certification](../../conferences/neurips-2026/cards-0007.md#paper-152748)
+- [Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions](../../conferences/neurips-2026/cards-0007.md#paper-150877)
+- [Learning Polyhedral Conformal Sets for Robust Optimization](../../conferences/neurips-2026/cards-0007.md#paper-150887)
+- [Learning Rate Decay Can Exponentially Accelerate SGD for Global Optimization of Nonconvex Functions](../../conferences/neurips-2026/cards-0007.md#paper-149945)
+- [Learning Reach-Set Geometry for Tighter Probabilistic Neural Network Verification](../../conferences/neurips-2026/cards-0007.md#paper-154618)
+- [Learning Reveals Invisible Structure in Low-Rank RNNs](../../conferences/neurips-2026/cards-0007.md#paper-152289)
+- [Learning Sparse Compositional Functions with Norm-Constrained Neural Networks](../../conferences/neurips-2026/cards-0007.md#paper-155615)
+- [Learning Survival Models with Right-Censored Reporting Delays](../../conferences/neurips-2026/cards-0007.md#paper-152038)
+- [Learning Theory of Transformers: Local-to-Global Approximation via Softmax Partition of Unity](../../conferences/neurips-2026/cards-0007.md#paper-152703)
 
 <!-- conference-classification:end -->

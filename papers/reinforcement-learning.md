@@ -568,5 +568,13 @@
 - [Learning Chance-Constrained MDPs with Bellman Distributional Certificates](../conferences/neurips-2026/cards-0007.md#paper-154689)
 - [Learning Contextual Causal Dynamics for Robust Exploration in Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-154910)
 - [Learning from Ranking Feedback: Improved Regret Bounds via Independence Preserving Rank Breaking](../conferences/neurips-2026/cards-0007.md#paper-153500)
+- [Learning in Causal Markov Games](../conferences/neurips-2026/cards-0007.md#paper-152310)
+- [Learning in Context, Guided by Choice: A Reward-Free Paradigm for Reinforcement Learning with Transformers](../conferences/neurips-2026/cards-0007.md#paper-152897)
+- [Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions](../conferences/neurips-2026/cards-0007.md#paper-150877)
+- [Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport](../conferences/neurips-2026/cards-0007.md#paper-154723)
+- [Learning Planning Budgets in Real-Time RL](../conferences/neurips-2026/cards-0007.md#paper-151126)
+- [Learning POMDP World Models from Observations with Language-Model Priors](../conferences/neurips-2026/cards-0007.md#paper-155829)
+- [Learning Process Rewards via Visitation Matching for Efficient RL](../conferences/neurips-2026/cards-0007.md#paper-150545)
+- [Learning Reusable Options by Decomposing Neural Policies](../conferences/neurips-2026/cards-0007.md#paper-151089)
 
 <!-- conference-classification:end -->

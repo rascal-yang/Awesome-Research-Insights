@@ -900,5 +900,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [Learning Better Certified Models from Empirically-Robust Teachers](../../conferences/neurips-2026/cards-0007.md#paper-155696)
 - [Learning Cultural Vectors for Cross-Cultural Generation](../../conferences/neurips-2026/cards-0007.md#paper-155934)
 - [Learning Dynamic Evidence Routes for Vision Transformer Probing](../../conferences/neurips-2026/cards-0007.md#paper-156006)
+- [Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers](../../conferences/neurips-2026/cards-0007.md#paper-155277)
+- [Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems](../../conferences/neurips-2026/cards-0007.md#paper-149636)
+- [Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction](../../conferences/neurips-2026/cards-0007.md#paper-152697)
+- [Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval](../../conferences/neurips-2026/cards-0007.md#paper-150225)
 
 <!-- conference-classification:end -->

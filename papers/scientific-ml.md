@@ -535,5 +535,9 @@
 - [Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivariance](../conferences/neurips-2026/cards-0007.md#paper-150499)
 - [Learning Event-to-Field Operators Without Interpolation](../conferences/neurips-2026/cards-0007.md#paper-155189)
 - [Learning Fractional-Order Dynamics from a Single Trajectory](../conferences/neurips-2026/cards-0007.md#paper-148968)
+- [Learning Interpretable Switching Dynamics in Shared Neural-Behavioral Latent Space](../conferences/neurips-2026/cards-0007.md#paper-151607)
+- [Learning Reusable Motor Motifs for Continuous Animal Behavior Modeling](../conferences/neurips-2026/cards-0007.md#paper-152170)
+- [Learning Sparse Semantic-Cortical Atoms for Multisubject Naturalistic fMRI Encoding](../conferences/neurips-2026/cards-0007.md#paper-151712)
+- [Learning the Committor Function using Weighted Ensemble Simulations](../conferences/neurips-2026/cards-0007.md#paper-152881)
 
 <!-- conference-classification:end -->

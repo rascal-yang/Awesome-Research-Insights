@@ -684,5 +684,12 @@
 - [Learning from Disagreement: Multi-Teacher Distillation for Chinese Spelling Correction](../conferences/neurips-2026/cards-0007.md#paper-151148)
 - [Learning from Language Feedback via Variational Policy Distillation](../conferences/neurips-2026/cards-0007.md#paper-152357)
 - [Learning from the Self-future: On-policy Self-distillation for dLLMs](../conferences/neurips-2026/cards-0007.md#paper-153722)
+- [Learning Modular Addition with Auxiliary Modulus](../conferences/neurips-2026/cards-0007.md#paper-154793)
+- [Learning Rate Transfer for Hybrid Transformer-SSM Architectures](../conferences/neurips-2026/cards-0007.md#paper-149821)
+- [Learning Robust Reasoning through Guided Adversarial Self-Play](../conferences/neurips-2026/cards-0007.md#paper-154688)
+- [Learning Robust Representations for Defending White-Box Adversarial Attacks in Continual Learning](../conferences/neurips-2026/cards-0007.md#paper-155739)
+- [Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction](../conferences/neurips-2026/cards-0007.md#paper-152697)
+- [Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models](../conferences/neurips-2026/cards-0007.md#paper-150616)
+- [Learning through Internalization](../conferences/neurips-2026/cards-0007.md#paper-150503)
 
 <!-- conference-classification:end -->

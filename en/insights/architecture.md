@@ -388,5 +388,13 @@ Model-wide design and information flow.
 - [Learning Compositional Latent Structure with Vector Networks](../../conferences/neurips-2026/cards-0007.md#paper-154634)
 - [Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivariance](../../conferences/neurips-2026/cards-0007.md#paper-150499)
 - [Learning Event-to-Field Operators Without Interpolation](../../conferences/neurips-2026/cards-0007.md#paper-155189)
+- [Learning Hierarchical Forward Processes For Discrete Diffusion Language Models](../../conferences/neurips-2026/cards-0007.md#paper-150116)
+- [Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers](../../conferences/neurips-2026/cards-0007.md#paper-155277)
+- [Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](../../conferences/neurips-2026/cards-0007.md#paper-149775)
+- [Learning Interpretable Switching Dynamics in Shared Neural-Behavioral Latent Space](../../conferences/neurips-2026/cards-0007.md#paper-151607)
+- [Learning Joint Semantic-Geometric Uncertainty for Structured Prediction with Closed-Loop Calibration](../../conferences/neurips-2026/cards-0007.md#paper-149933)
+- [Learning Menu-Based Mechanisms for Truthful Budget-Feasible Procurement](../../conferences/neurips-2026/cards-0007.md#paper-155310)
+- [Learning Options for Compositional Motor Control with Adapter Banks](../../conferences/neurips-2026/cards-0007.md#paper-149390)
+- [Learning POMDP World Models from Observations with Language-Model Priors](../../conferences/neurips-2026/cards-0007.md#paper-155829)
 
 <!-- conference-classification:end -->

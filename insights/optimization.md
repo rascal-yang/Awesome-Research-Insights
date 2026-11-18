@@ -601,5 +601,10 @@
 - [Learning Acceptable Lotteries via Queries: Minimizing Aggregated Violation Distances](../conferences/neurips-2026/cards-0007.md#paper-155546)
 - [Learning-Augmented Approximation for Unrelated-Machines Makespan Scheduling](../conferences/neurips-2026/cards-0007.md#paper-153033)
 - [Learning Digital Twins under Drift: Optimal Tracking Rates for Non-Stationary Dynamical Systems](../conferences/neurips-2026/cards-0007.md#paper-152808)
+- [Learning How to Cube](../conferences/neurips-2026/cards-0007.md#paper-148433)
+- [Learning inexact alternating minimization](../conferences/neurips-2026/cards-0007.md#paper-150173)
+- [Learning Lotteries with Minimal Violations from Membership Queries](../conferences/neurips-2026/cards-0007.md#paper-151848)
+- [Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport](../conferences/neurips-2026/cards-0007.md#paper-154723)
+- [Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty](../conferences/neurips-2026/cards-0007.md#paper-148281)
 
 <!-- conference-classification:end -->

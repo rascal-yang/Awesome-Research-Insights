@@ -1951,5 +1951,14 @@
 - [Learning from Disagreement: Maximum Divergence Knowledge Distillation](../conferences/neurips-2026/cards-0007.md#paper-155838)
 - [Learning from Language Feedback via Variational Policy Distillation](../conferences/neurips-2026/cards-0007.md#paper-152357)
 - [Learning from the Self-future: On-policy Self-distillation for dLLMs](../conferences/neurips-2026/cards-0007.md#paper-153722)
+- [Learning Hierarchical Forward Processes For Discrete Diffusion Language Models](../conferences/neurips-2026/cards-0007.md#paper-150116)
+- [Learning Latency-Aware Orchestration for Multi-Agent Systems](../conferences/neurips-2026/cards-0007.md#paper-150759)
+- [Learning Minimal Sufficient Evidence Graphs for GraphRAG via Nash-Guided Optimization](../conferences/neurips-2026/cards-0007.md#paper-154710)
+- [Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning](../conferences/neurips-2026/cards-0007.md#paper-148585)
+- [Learning Rate Transfer for Hybrid Transformer-SSM Architectures](../conferences/neurips-2026/cards-0007.md#paper-149821)
+- [Learning Robust Reasoning through Guided Adversarial Self-Play](../conferences/neurips-2026/cards-0007.md#paper-154688)
+- [Learning the Signature of Memorization in Autoregressive Language Models](../conferences/neurips-2026/cards-0007.md#paper-148889)
+- [Learning through Internalization](../conferences/neurips-2026/cards-0007.md#paper-150503)
+- [Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration](../conferences/neurips-2026/cards-0007.md#paper-148711)
 
 <!-- conference-classification:end -->

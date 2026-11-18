@@ -1311,5 +1311,8 @@
 - [Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](../conferences/neurips-2026/cards-0007.md#paper-153964)
 - [Learning Dynamic Evidence Routes for Vision Transformer Probing](../conferences/neurips-2026/cards-0007.md#paper-156006)
 - [Learning Global Probabilistic Explanations](../conferences/neurips-2026/cards-0007.md#paper-151220)
+- [Learning interpretable Schur forms of recurrent weight matrices](../conferences/neurips-2026/cards-0007.md#paper-155071)
+- [Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning](../conferences/neurips-2026/cards-0007.md#paper-148585)
+- [Learning the Signature of Memorization in Autoregressive Language Models](../conferences/neurips-2026/cards-0007.md#paper-148889)
 
 <!-- conference-classification:end -->

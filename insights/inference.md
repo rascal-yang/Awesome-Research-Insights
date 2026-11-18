@@ -1123,5 +1123,9 @@
 - [Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](../conferences/neurips-2026/cards-0007.md#paper-154509)
 - [Learning Evidence Highlighting for Frozen LLMs](../conferences/neurips-2026/cards-0007.md#paper-148164)
 - [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](../conferences/neurips-2026/cards-0007.md#paper-151101)
+- [Learning Latency-Aware Orchestration for Multi-Agent Systems](../conferences/neurips-2026/cards-0007.md#paper-150759)
+- [Learning Minimal Sufficient Evidence Graphs for GraphRAG via Nash-Guided Optimization](../conferences/neurips-2026/cards-0007.md#paper-154710)
+- [Learning Planning Budgets in Real-Time RL](../conferences/neurips-2026/cards-0007.md#paper-151126)
+- [Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration](../conferences/neurips-2026/cards-0007.md#paper-148711)
 
 <!-- conference-classification:end -->

@@ -4323,67 +4323,67 @@ poster_id	title	paper_url	status	reason
 151880	Learning Generative Dynamics for 3D Molecule Generation via Sequential Neuro-Symbolic Constraints	https://neurips.cc/virtual/2026/poster/151880	excluded	论文主要贡献为带约束的分子生成，摘要未验证独立的非生物机制。
 151220	Learning Global Probabilistic Explanations	https://neurips.cc/virtual/2026/poster/151220	included	对全局特征解释用条件下输出一致性定义相关度。
 149950	Learning Global Temporal Dynamics in Sparse Networks via Cycle Counts	https://neurips.cc/virtual/2026/poster/149950	included	稀疏时序图可用周期计数做参数辨识。
-150116	Learning Hierarchical Forward Processes For Discrete Diffusion Language Models	https://neurips.cc/virtual/2026/poster/150116	pending	-
-155277	Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers	https://neurips.cc/virtual/2026/poster/155277	pending	-
-148433	Learning How to Cube	https://neurips.cc/virtual/2026/poster/148433	pending	-
-149775	Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation	https://neurips.cc/virtual/2026/poster/149775	pending	-
-150675	Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation	https://neurips.cc/virtual/2026/poster/150675	pending	-
-152310	Learning in Causal Markov Games	https://neurips.cc/virtual/2026/poster/152310	pending	-
-152897	Learning in Context, Guided by Choice: A Reward-Free Paradigm for Reinforcement Learning with Transformers	https://neurips.cc/virtual/2026/poster/152897	pending	-
-150173	Learning inexact alternating minimization	https://neurips.cc/virtual/2026/poster/150173	pending	-
-155712	Learning Informative Invariant Representations via Hierarchical Latent Decomposition	https://neurips.cc/virtual/2026/poster/155712	pending	-
-152748	Learning in Policy Transparency Games: Wedge Structure and Adaptive Certification	https://neurips.cc/virtual/2026/poster/152748	pending	-
-155071	Learning interpretable Schur forms of recurrent weight matrices	https://neurips.cc/virtual/2026/poster/155071	pending	-
-151607	Learning Interpretable Switching Dynamics in Shared Neural-Behavioral Latent Space	https://neurips.cc/virtual/2026/poster/151607	pending	-
-149933	Learning Joint Semantic-Geometric Uncertainty for Structured Prediction with Closed-Loop Calibration	https://neurips.cc/virtual/2026/poster/149933	pending	-
-150877	Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions	https://neurips.cc/virtual/2026/poster/150877	pending	-
-150759	Learning Latency-Aware Orchestration for Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/150759	pending	-
-151848	Learning Lotteries with Minimal Violations from Membership Queries	https://neurips.cc/virtual/2026/poster/151848	pending	-
-155310	Learning Menu-Based Mechanisms for Truthful Budget-Feasible Procurement	https://neurips.cc/virtual/2026/poster/155310	pending	-
-154710	Learning Minimal Sufficient Evidence Graphs for GraphRAG via Nash-Guided Optimization	https://neurips.cc/virtual/2026/poster/154710	pending	-
-154793	Learning Modular Addition with Auxiliary Modulus	https://neurips.cc/virtual/2026/poster/154793	pending	-
-149636	Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems	https://neurips.cc/virtual/2026/poster/149636	pending	-
-154723	Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport	https://neurips.cc/virtual/2026/poster/154723	pending	-
-153800	Learning Neuronal Wiring Rules from Morphological Token Sequences	https://neurips.cc/virtual/2026/poster/153800	pending	-
-155066	Learning Optimal Transport Plans Via Autoregressive Token Regression	https://neurips.cc/virtual/2026/poster/155066	pending	-
-149390	Learning Options for Compositional Motor Control with Adapter Banks	https://neurips.cc/virtual/2026/poster/149390	pending	-
-153694	Learning Orthogonal Multi-Index Models Beyond Small Initialization: Incremental Learning, Competitive Dynamics and Symmetry	https://neurips.cc/virtual/2026/poster/153694	pending	-
-155306	Learning Orthonormal Bases for Function Spaces	https://neurips.cc/virtual/2026/poster/155306	pending	-
-150498	Learning Pareto Stationary Fronts via Single-Pass Backpropagation	https://neurips.cc/virtual/2026/poster/150498	pending	-
-151126	Learning Planning Budgets in Real-Time RL	https://neurips.cc/virtual/2026/poster/151126	pending	-
-150887	Learning Polyhedral Conformal Sets for Robust Optimization	https://neurips.cc/virtual/2026/poster/150887	pending	-
-155829	Learning POMDP World Models from Observations with Language-Model Priors	https://neurips.cc/virtual/2026/poster/155829	pending	-
-154511	Learning Preference Representations for Preference-Conditioned Image Generation	https://neurips.cc/virtual/2026/poster/154511	pending	-
-150545	Learning Process Rewards via Visitation Matching for Efficient RL	https://neurips.cc/virtual/2026/poster/150545	pending	-
-148288	Learning Provable Neural Network Observer for Uncertain Dynamical Systems	https://neurips.cc/virtual/2026/poster/148288	pending	-
-149305	Learning Pseudo-Riemannian Manifolds for Heterophilic Graphs via Graph Signature	https://neurips.cc/virtual/2026/poster/149305	pending	-
-149945	Learning Rate Decay Can Exponentially Accelerate SGD for Global Optimization of Nonconvex Functions	https://neurips.cc/virtual/2026/poster/149945	pending	-
-148585	Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning	https://neurips.cc/virtual/2026/poster/148585	pending	-
-149821	Learning Rate Transfer for Hybrid Transformer-SSM Architectures	https://neurips.cc/virtual/2026/poster/149821	pending	-
-155201	Learning Rate Transfer in Normalized Transformers	https://neurips.cc/virtual/2026/poster/155201	pending	-
-154618	Learning Reach-Set Geometry for Tighter Probabilistic Neural Network Verification	https://neurips.cc/virtual/2026/poster/154618	pending	-
-155717	Learning Recoverable Neural Networks against Weight Corruption via Simple Zero-Sum Projection	https://neurips.cc/virtual/2026/poster/155717	pending	-
-152170	Learning Reusable Motor Motifs for Continuous Animal Behavior Modeling	https://neurips.cc/virtual/2026/poster/152170	pending	-
-151089	Learning Reusable Options by Decomposing Neural Policies	https://neurips.cc/virtual/2026/poster/151089	pending	-
-152289	Learning Reveals Invisible Structure in Low-Rank RNNs	https://neurips.cc/virtual/2026/poster/152289	pending	-
-154688	Learning Robust Reasoning through Guided Adversarial Self-Play	https://neurips.cc/virtual/2026/poster/154688	pending	-
-155739	Learning Robust Representations for Defending White-Box Adversarial Attacks in Continual Learning	https://neurips.cc/virtual/2026/poster/155739	pending	-
-148281	Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty	https://neurips.cc/virtual/2026/poster/148281	pending	-
-152697	Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction	https://neurips.cc/virtual/2026/poster/152697	pending	-
-149492	Learning Semantic Consistency for Open-Vocabulary Dense Perception	https://neurips.cc/virtual/2026/poster/149492	pending	-
-155615	Learning Sparse Compositional Functions with Norm-Constrained Neural Networks	https://neurips.cc/virtual/2026/poster/155615	pending	-
-151712	Learning Sparse Semantic-Cortical Atoms for Multisubject Naturalistic fMRI Encoding	https://neurips.cc/virtual/2026/poster/151712	pending	-
+150116	Learning Hierarchical Forward Processes For Discrete Diffusion Language Models	https://neurips.cc/virtual/2026/poster/150116	included	离散扩散用可学习软词簇决定前向污染。
+155277	Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers	https://neurips.cc/virtual/2026/poster/155277	included	视觉分块根据模型语义决定继续细分。
+148433	Learning How to Cube	https://neurips.cc/virtual/2026/poster/148433	included	离散分裂策略用真实求解器统计构造训练偏好。
+149775	Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation	https://neurips.cc/virtual/2026/poster/149775	included	人类演示迁移把轨迹、手部意图和机器人动作分开。
+150675	Learning Implicit Bias in Generative Spaces for Accelerating Protein Dynamics Emulation	https://neurips.cc/virtual/2026/poster/150675	excluded	主题是扩大蛋白动力学模型对罕见构象的搜索覆盖，未提取领域操作方案。
+152310	Learning in Causal Markov Games	https://neurips.cc/virtual/2026/poster/152310	included	部分共同原因可能影响行为与奖励时测反事实策略。
+152897	Learning in Context, Guided by Choice: A Reward-Free Paradigm for Reinforcement Learning with Transformers	https://neurips.cc/virtual/2026/poster/152897	included	无标量奖励时比较逐步和整轨偏好上下文。
+150173	Learning inexact alternating minimization	https://neurips.cc/virtual/2026/poster/150173	included	交替优化用网络近似昂贵子步并限制迭代误差。
+155712	Learning Informative Invariant Representations via Hierarchical Latent Decomposition	https://neurips.cc/virtual/2026/poster/155712	included	域泛化将任务不变信息和域特异残差分层。
+152748	Learning in Policy Transparency Games: Wedge Structure and Adaptive Certification	https://neurips.cc/virtual/2026/poster/152748	included	部署策略透明度先估承诺者与响应者的相对收益。
+155071	Learning interpretable Schur forms of recurrent weight matrices	https://neurips.cc/virtual/2026/poster/155071	included	解释 RNN 时不要直接接受任一 Schur 排序。
+151607	Learning Interpretable Switching Dynamics in Shared Neural-Behavioral Latent Space	https://neurips.cc/virtual/2026/poster/151607	included	对齐神经和行为表示后仅在共享潜变量上拟合切换动力学。
+149933	Learning Joint Semantic-Geometric Uncertainty for Structured Prediction with Closed-Loop Calibration	https://neurips.cc/virtual/2026/poster/149933	included	结构化地图将语义和几何的联合不确定性反馈到特征。
+150877	Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions	https://neurips.cc/virtual/2026/poster/150877	included	大规模抽象团队博弈用群体分布代替两两交互。
+150759	Learning Latency-Aware Orchestration for Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/150759	included	优化多代理延迟时按关键路径而非总调用花费分配信用。
+151848	Learning Lotteries with Minimal Violations from Membership Queries	https://neurips.cc/virtual/2026/poster/151848	included	只见接受拒绝时检验受访者覆盖率，再优化拒绝人数。
+155310	Learning Menu-Based Mechanisms for Truthful Budget-Feasible Procurement	https://neurips.cc/virtual/2026/poster/155310	included	受硬预算约束的机制把激励可行性嵌入学习接口。
+154710	Learning Minimal Sufficient Evidence Graphs for GraphRAG via Nash-Guided Optimization	https://neurips.cc/virtual/2026/poster/154710	included	GraphRAG 扩图后按当前答案和长期图质量删边。
+154793	Learning Modular Addition with Auxiliary Modulus	https://neurips.cc/virtual/2026/poster/154793	included	课程学习改中间任务难度时保持输入分布。
+149636	Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems	https://neurips.cc/virtual/2026/poster/149636	included	视频逆问题将运动不能解释的外观残差建模为先验。
+154723	Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport	https://neurips.cc/virtual/2026/poster/154723	included	离线一步策略需要保留多峰动作时，用价值加权传输分配蒸馏配对。
+153800	Learning Neuronal Wiring Rules from Morphological Token Sequences	https://neurips.cc/virtual/2026/poster/153800	excluded	神经形态与连通性比较主要限于果蝇连接组，摘要未给出跨任务表示选择的验证。
+155066	Learning Optimal Transport Plans Via Autoregressive Token Regression	https://neurips.cc/virtual/2026/poster/155066	excluded	稀疏序列摊销运输有价值，但摘要局限低维近似并缺少可行性或约束保证。
+149390	Learning Options for Compositional Motor Control with Adapter Banks	https://neurips.cc/virtual/2026/poster/149390	included	需要组合新动作序列时，共享循环控制器并用可调度的残差适配器表示技能。
+153694	Learning Orthogonal Multi-Index Models Beyond Small Initialization: Incremental Learning, Competitive Dynamics and Symmetry	https://neurips.cc/virtual/2026/poster/153694	excluded	训练竞争动力学限于正交多指标和浅层网络，摘要未交代可用于一般训练判断的独立条件。
+155306	Learning Orthonormal Bases for Function Spaces	https://neurips.cc/virtual/2026/poster/155306	included	任务需要自适应正交基时，学习参考基上的保正交流。
+150498	Learning Pareto Stationary Fronts via Single-Pass Backpropagation	https://neurips.cc/virtual/2026/poster/150498	excluded	双层单次反传有潜在价值，但摘要未交代层模块如何承接不同偏好。
+151126	Learning Planning Budgets in Real-Time RL	https://neurips.cc/virtual/2026/poster/151126	included	环境会在推理期间继续运行时，用轻量门控按状态选规划预算。
+150887	Learning Polyhedral Conformal Sets for Robust Optimization	https://neurips.cc/virtual/2026/poster/150887	included	下游鲁棒优化需要不确定集时，先学与决策相关的形状，再用独立校准修正选择偏差。
+155829	Learning POMDP World Models from Observations with Language-Model Priors	https://neurips.cc/virtual/2026/poster/155829	included	只能观察动作与观测轨迹时，允许语言先验提出隐状态结构，但排序仍以观测似然为准。
+154511	Learning Preference Representations for Preference-Conditioned Image Generation	https://neurips.cc/virtual/2026/poster/154511	excluded	用户偏好合成、偏好编码和扩散条件是完整集成，摘要未量化隔离两类偏好特征的收益。
+150545	Learning Process Rewards via Visitation Matching for Efficient RL	https://neurips.cc/virtual/2026/poster/150545	included	稀疏成功奖励微调时，用成功与失败轨迹的状态动作访问差异构造稠密信号。
+148288	Learning Provable Neural Network Observer for Uncertain Dynamical Systems	https://neurips.cc/virtual/2026/poster/148288	excluded	两阶段证书训练值得复核，摘要缺少点引导与验证开销的独立适用边界。
+149305	Learning Pseudo-Riemannian Manifolds for Heterophilic Graphs via Graph Signature	https://neurips.cc/virtual/2026/poster/149305	excluded	不定度量解决异配有候选价值，但摘要未给出谱指数如何决定何时应取哪种度量。
+149945	Learning Rate Decay Can Exponentially Accelerate SGD for Global Optimization of Nonconvex Functions	https://neurips.cc/virtual/2026/poster/149945	included	比较非凸 SGD 全局优化时，把逐步衰减作为对照并区分逃离局部区域和最终精度。
+148585	Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning	https://neurips.cc/virtual/2026/poster/148585	included	比较 LoRA 变体时，为每个变体独立扫学习率，再比较各自峰值。
+149821	Learning Rate Transfer for Hybrid Transformer-SSM Architectures	https://neurips.cc/virtual/2026/poster/149821	included	实际 Transformer–SSM 混合模型扩宽前，验证原始 μP 和 AdamW 能否直接迁移学习率。
+155201	Learning Rate Transfer in Normalized Transformers	https://neurips.cc/virtual/2026/poster/155201	excluded	摘要没有给出可独立复用的参数化修改公式。
+154618	Learning Reach-Set Geometry for Tighter Probabilistic Neural Network Verification	https://neurips.cc/virtual/2026/poster/154618	included	概率神经验证中，固定形状过松时，用校准后的学习型可达集检查规格。
+155717	Learning Recoverable Neural Networks against Weight Corruption via Simple Zero-Sum Projection	https://neurips.cc/virtual/2026/poster/155717	excluded	摘要不足以说明零和权重恢复可靠性所需条件，暂不提取相关操作。
+152170	Learning Reusable Motor Motifs for Continuous Animal Behavior Modeling	https://neurips.cc/virtual/2026/poster/152170	included	对连续行为用随时间变化的技能混合替代硬分段。
+151089	Learning Reusable Options by Decomposing Neural Policies	https://neurips.cc/virtual/2026/poster/151089	included	从训练策略提取技能时同时学习内部子程序与调用输入。
+152289	Learning Reveals Invisible Structure in Low-Rank RNNs	https://neurips.cc/virtual/2026/poster/152289	included	功能等价的低秩循环网络要比较学习扰动后的动态。
+154688	Learning Robust Reasoning through Guided Adversarial Self-Play	https://neurips.cc/virtual/2026/poster/154688	included	数学推理在不完备上下文中应单列恢复能力。
+155739	Learning Robust Representations for Defending White-Box Adversarial Attacks in Continual Learning	https://neurips.cc/virtual/2026/poster/155739	included	持续鲁棒训练同时监控任务内、跨任务及类别级表征对齐。
+148281	Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty	https://neurips.cc/virtual/2026/poster/148281	included	稳健优化场景缩减依据场景对可行与补救的边际收益。
+152697	Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction	https://neurips.cc/virtual/2026/poster/152697	included	训练期把意图提示转成场景区域分布，部署时只靠动作与几何。
+149492	Learning Semantic Consistency for Open-Vocabulary Dense Perception	https://neurips.cc/virtual/2026/poster/149492	included	开放词表密集特征要测相同区域在换背景与视角时是否一致。
+155615	Learning Sparse Compositional Functions with Norm-Constrained Neural Networks	https://neurips.cc/virtual/2026/poster/155615	included	过参数化层次函数学习以参数范数和组合图衡量复杂度。
+151712	Learning Sparse Semantic-Cortical Atoms for Multisubject Naturalistic fMRI Encoding	https://neurips.cc/virtual/2026/poster/151712	included	跨观察对象的解释字典应联合学习重建与响应预测。
 153842	Learning Spectral Compositional Koopman Operators for Global-to-Regional Weather Forecasting	https://neurips.cc/virtual/2026/poster/153842	included	长程预报先诊断消息传递引起的频谱平滑。
-150143	Learning Subspace-Preserving Sparse Attention Graphs from Heterogeneous Multiview Data	https://neurips.cc/virtual/2026/poster/150143	pending	-
-152038	Learning Survival Models with Right-Censored Reporting Delays	https://neurips.cc/virtual/2026/poster/152038	pending	-
-149351	Learning Task-Centric World Models from Visual Foundations	https://neurips.cc/virtual/2026/poster/149351	pending	-
-152881	Learning the Committor Function using Weighted Ensemble Simulations	https://neurips.cc/virtual/2026/poster/152881	pending	-
-150616	Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models	https://neurips.cc/virtual/2026/poster/150616	pending	-
-152703	Learning Theory of Transformers: Local-to-Global Approximation via Softmax Partition of Unity	https://neurips.cc/virtual/2026/poster/152703	pending	-
-148889	Learning the Signature of Memorization in Autoregressive Language Models	https://neurips.cc/virtual/2026/poster/148889	pending	-
-150503	Learning through Internalization	https://neurips.cc/virtual/2026/poster/150503	pending	-
-150225	Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval	https://neurips.cc/virtual/2026/poster/150225	pending	-
-148711	Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration	https://neurips.cc/virtual/2026/poster/148711	pending	-
+150143	Learning Subspace-Preserving Sparse Attention Graphs from Heterogeneous Multiview Data	https://neurips.cc/virtual/2026/poster/150143	excluded	摘要组合双线性注意、动态稀疏门和 entmax，尚未提供辨别各项作用的证据或可迁移的恢复边界。
+152038	Learning Survival Models with Right-Censored Reporting Delays	https://neurips.cc/virtual/2026/poster/152038	included	实时生存估计分开建模事件发生和报告延迟。
+149351	Learning Task-Centric World Models from Visual Foundations	https://neurips.cc/virtual/2026/poster/149351	included	冻结视觉表示先投影，再只对齐其中一部分到任务物理状态。
+152881	Learning the Committor Function using Weighted Ensemble Simulations	https://neurips.cc/virtual/2026/poster/152881	included	罕见状态转移估计用加权采样弥补有偏贪心探索。
+150616	Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models	https://neurips.cc/virtual/2026/poster/150616	included	黑盒时序预测在线校正同时看输入与原预测。
+152703	Learning Theory of Transformers: Local-to-Global Approximation via Softmax Partition of Unity	https://neurips.cc/virtual/2026/poster/152703	included	浅层 Transformer 回归可把局部近似交给 softmax 分区合成。
+148889	Learning the Signature of Memorization in Autoregressive Language Models	https://neurips.cc/virtual/2026/poster/148889	included	隐私审计不要仅凭更换模型架构判断记忆泄漏减弱。
+150503	Learning through Internalization	https://neurips.cc/virtual/2026/poster/150503	included	外显步骤蒸馏进权重时同时监控域外泛化。
+150225	Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval	https://neurips.cc/virtual/2026/poster/150225	included	细粒度检索用可逆外观先验保留类内变化。
+148711	Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration	https://neurips.cc/virtual/2026/poster/148711	included	端云协同时把询问时机和最少披露内容作为可学决定。
 155783	Learning to Audit ML Models with Theory of Mind	https://neurips.cc/virtual/2026/poster/155783	pending	-
 149706	Learning to Bid in Repeated Second-Price Auctions with  Dynamic Values and  Aggregated Feedback	https://neurips.cc/virtual/2026/poster/149706	pending	-
 150227	Learning to Commit: Next-Commit Prediction via Online Supervised Contrastive Reflection	https://neurips.cc/virtual/2026/poster/150227	pending	-

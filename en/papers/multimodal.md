@@ -709,5 +709,6 @@ Learning across modalities such as images, text, audio, and video.
 - [Latent-Lens: Visual Perception in Small Language Models Through Latent Communication](../../conferences/neurips-2026/cards-0007.md#paper-155307)
 - [LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?](../../conferences/neurips-2026/cards-0007.md#paper-148232)
 - [Learning a Task-Adaptive Low-Dimensional Semantic Space for Improved Visual Classification](../../conferences/neurips-2026/cards-0007.md#paper-151661)
+- [Learning Semantic Consistency for Open-Vocabulary Dense Perception](../../conferences/neurips-2026/cards-0007.md#paper-149492)
 
 <!-- conference-classification:end -->

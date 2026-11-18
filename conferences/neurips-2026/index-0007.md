@@ -386,3 +386,52 @@
 | 机器学习基础与统计 | 理论与统计 | [Learning Gaussian Conditional Distributions using Neural Ratio Estimation is Hard](cards-0007.md#paper-149465) | 高维模拟后验估计要对照简单条件密度估计的样本效率。 |
 | 机器学习基础与统计 | 评测与诊断 | [Learning Global Probabilistic Explanations](cards-0007.md#paper-151220) | 对全局特征解释用条件下输出一致性定义相关度。 |
 | 图学习与推荐 | 理论与统计 | [Learning Global Temporal Dynamics in Sparse Networks via Cycle Counts](cards-0007.md#paper-149950) | 稀疏时序图可用周期计数做参数辨识。 |
+| 大语言模型 | 模型架构 | [Learning Hierarchical Forward Processes For Discrete Diffusion Language Models](cards-0007.md#paper-150116) | 离散扩散用可学习软词簇决定前向污染。 |
+| 计算机视觉 | 模型架构 | [Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers](cards-0007.md#paper-155277) | 视觉分块根据模型语义决定继续细分。 |
+| 机器学习基础与统计 | 优化 | [Learning How to Cube](cards-0007.md#paper-148433) | 离散分裂策略用真实求解器统计构造训练偏好。 |
+| 机器人学 | 模型架构 | [Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](cards-0007.md#paper-149775) | 人类演示迁移把轨迹、手部意图和机器人动作分开。 |
+| 强化学习 | 理论与统计 | [Learning in Causal Markov Games](cards-0007.md#paper-152310) | 部分共同原因可能影响行为与奖励时测反事实策略。 |
+| 强化学习 | 强化学习方法 | [Learning in Context, Guided by Choice: A Reward-Free Paradigm for Reinforcement Learning with Transformers](cards-0007.md#paper-152897) | 无标量奖励时比较逐步和整轨偏好上下文。 |
+| 机器学习基础与统计 | 优化 | [Learning inexact alternating minimization](cards-0007.md#paper-150173) | 交替优化用网络近似昂贵子步并限制迭代误差。 |
+| 机器学习基础与统计 | 表征学习 | [Learning Informative Invariant Representations via Hierarchical Latent Decomposition](cards-0007.md#paper-155712) | 域泛化将任务不变信息和域特异残差分层。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning in Policy Transparency Games: Wedge Structure and Adaptive Certification](cards-0007.md#paper-152748) | 部署策略透明度先估承诺者与响应者的相对收益。 |
+| 机器学习基础与统计 | 评测与诊断 | [Learning interpretable Schur forms of recurrent weight matrices](cards-0007.md#paper-155071) | 解释 RNN 时不要直接接受任一 Schur 排序。 |
+| 科学机器学习 | 模型架构 | [Learning Interpretable Switching Dynamics in Shared Neural-Behavioral Latent Space](cards-0007.md#paper-151607) | 对齐神经和行为表示后仅在共享潜变量上拟合切换动力学。 |
+| 机器人学 | 模型架构 | [Learning Joint Semantic-Geometric Uncertainty for Structured Prediction with Closed-Loop Calibration](cards-0007.md#paper-149933) | 结构化地图将语义和几何的联合不确定性反馈到特征。 |
+| 强化学习 | 理论与统计 | [Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions](cards-0007.md#paper-150877) | 大规模抽象团队博弈用群体分布代替两两交互。 |
+| 大语言模型 | 推理策略 | [Learning Latency-Aware Orchestration for Multi-Agent Systems](cards-0007.md#paper-150759) | 优化多代理延迟时按关键路径而非总调用花费分配信用。 |
+| 机器学习基础与统计 | 优化 | [Learning Lotteries with Minimal Violations from Membership Queries](cards-0007.md#paper-151848) | 只见接受拒绝时检验受访者覆盖率，再优化拒绝人数。 |
+| 机器学习基础与统计 | 模型架构 | [Learning Menu-Based Mechanisms for Truthful Budget-Feasible Procurement](cards-0007.md#paper-155310) | 受硬预算约束的机制把激励可行性嵌入学习接口。 |
+| 大语言模型 | 推理策略 | [Learning Minimal Sufficient Evidence Graphs for GraphRAG via Nash-Guided Optimization](cards-0007.md#paper-154710) | GraphRAG 扩图后按当前答案和长期图质量删边。 |
+| 机器学习基础与统计 | 训练策略 | [Learning Modular Addition with Auxiliary Modulus](cards-0007.md#paper-154793) | 课程学习改中间任务难度时保持输入分布。 |
+| 计算机视觉 | 损失函数 | [Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems](cards-0007.md#paper-149636) | 视频逆问题将运动不能解释的外观残差建模为先验。 |
+| 强化学习 | 优化 | [Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport](cards-0007.md#paper-154723) | 离线一步策略需要保留多峰动作时，用价值加权传输分配蒸馏配对。 |
+| 机器人学 | 模型架构 | [Learning Options for Compositional Motor Control with Adapter Banks](cards-0007.md#paper-149390) | 需要组合新动作序列时，共享循环控制器并用可调度的残差适配器表示技能。 |
+| 机器学习基础与统计 | 表征学习 | [Learning Orthonormal Bases for Function Spaces](cards-0007.md#paper-155306) | 任务需要自适应正交基时，学习参考基上的保正交流。 |
+| 强化学习 | 推理策略 | [Learning Planning Budgets in Real-Time RL](cards-0007.md#paper-151126) | 环境会在推理期间继续运行时，用轻量门控按状态选规划预算。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning Polyhedral Conformal Sets for Robust Optimization](cards-0007.md#paper-150887) | 下游鲁棒优化需要不确定集时，先学与决策相关的形状，再用独立校准修正选择偏差。 |
+| 强化学习 | 模型架构 | [Learning POMDP World Models from Observations with Language-Model Priors](cards-0007.md#paper-155829) | 只能观察动作与观测轨迹时，允许语言先验提出隐状态结构，但排序仍以观测似然为准。 |
+| 强化学习 | 强化学习方法 | [Learning Process Rewards via Visitation Matching for Efficient RL](cards-0007.md#paper-150545) | 稀疏成功奖励微调时，用成功与失败轨迹的状态动作访问差异构造稠密信号。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning Rate Decay Can Exponentially Accelerate SGD for Global Optimization of Nonconvex Functions](cards-0007.md#paper-149945) | 比较非凸 SGD 全局优化时，把逐步衰减作为对照并区分逃离局部区域和最终精度。 |
+| 大语言模型 | 评测与诊断 | [Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning](cards-0007.md#paper-148585) | 比较 LoRA 变体时，为每个变体独立扫学习率，再比较各自峰值。 |
+| 大语言模型 | 训练策略 | [Learning Rate Transfer for Hybrid Transformer-SSM Architectures](cards-0007.md#paper-149821) | 实际 Transformer–SSM 混合模型扩宽前，验证原始 μP 和 AdamW 能否直接迁移学习率。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning Reach-Set Geometry for Tighter Probabilistic Neural Network Verification](cards-0007.md#paper-154618) | 概率神经验证中，固定形状过松时，用校准后的学习型可达集检查规格。 |
+| 科学机器学习 | 表征学习 | [Learning Reusable Motor Motifs for Continuous Animal Behavior Modeling](cards-0007.md#paper-152170) | 对连续行为用随时间变化的技能混合替代硬分段。 |
+| 强化学习 | 表征学习 | [Learning Reusable Options by Decomposing Neural Policies](cards-0007.md#paper-151089) | 从训练策略提取技能时同时学习内部子程序与调用输入。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning Reveals Invisible Structure in Low-Rank RNNs](cards-0007.md#paper-152289) | 功能等价的低秩循环网络要比较学习扰动后的动态。 |
+| 大语言模型 | 训练策略 | [Learning Robust Reasoning through Guided Adversarial Self-Play](cards-0007.md#paper-154688) | 数学推理在不完备上下文中应单列恢复能力。 |
+| 机器学习基础与统计 | 训练策略 | [Learning Robust Representations for Defending White-Box Adversarial Attacks in Continual Learning](cards-0007.md#paper-155739) | 持续鲁棒训练同时监控任务内、跨任务及类别级表征对齐。 |
+| 机器学习基础与统计 | 优化 | [Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty](cards-0007.md#paper-148281) | 稳健优化场景缩减依据场景对可行与补救的边际收益。 |
+| 计算机视觉 | 训练策略 | [Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction](cards-0007.md#paper-152697) | 训练期把意图提示转成场景区域分布，部署时只靠动作与几何。 |
+| 多模态学习 | 表征学习 | [Learning Semantic Consistency for Open-Vocabulary Dense Perception](cards-0007.md#paper-149492) | 开放词表密集特征要测相同区域在换背景与视角时是否一致。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning Sparse Compositional Functions with Norm-Constrained Neural Networks](cards-0007.md#paper-155615) | 过参数化层次函数学习以参数范数和组合图衡量复杂度。 |
+| 科学机器学习 | 表征学习 | [Learning Sparse Semantic-Cortical Atoms for Multisubject Naturalistic fMRI Encoding](cards-0007.md#paper-151712) | 跨观察对象的解释字典应联合学习重建与响应预测。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning Survival Models with Right-Censored Reporting Delays](cards-0007.md#paper-152038) | 实时生存估计分开建模事件发生和报告延迟。 |
+| 机器人学 | 表征学习 | [Learning Task-Centric World Models from Visual Foundations](cards-0007.md#paper-149351) | 冻结视觉表示先投影，再只对齐其中一部分到任务物理状态。 |
+| 科学机器学习 | 数据策略 | [Learning the Committor Function using Weighted Ensemble Simulations](cards-0007.md#paper-152881) | 罕见状态转移估计用加权采样弥补有偏贪心探索。 |
+| 机器学习基础与统计 | 训练策略 | [Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models](cards-0007.md#paper-150616) | 黑盒时序预测在线校正同时看输入与原预测。 |
+| 机器学习基础与统计 | 理论与统计 | [Learning Theory of Transformers: Local-to-Global Approximation via Softmax Partition of Unity](cards-0007.md#paper-152703) | 浅层 Transformer 回归可把局部近似交给 softmax 分区合成。 |
+| 大语言模型 | 评测与诊断 | [Learning the Signature of Memorization in Autoregressive Language Models](cards-0007.md#paper-148889) | 隐私审计不要仅凭更换模型架构判断记忆泄漏减弱。 |
+| 大语言模型 | 训练策略 | [Learning through Internalization](cards-0007.md#paper-150503) | 外显步骤蒸馏进权重时同时监控域外泛化。 |
+| 计算机视觉 | 表征学习 | [Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval](cards-0007.md#paper-150225) | 细粒度检索用可逆外观先验保留类内变化。 |
+| 大语言模型 | 推理策略 | [Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration](cards-0007.md#paper-148711) | 端云协同时把询问时机和最少披露内容作为可学决定。 |
