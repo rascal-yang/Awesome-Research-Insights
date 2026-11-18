@@ -53,6 +53,8 @@ Screen CoRL, CVPR, NeurIPS, and AAAI by title and abstract first. Before a full 
 
 Scientific deep learning papers enter full review when the abstract identifies a shared bottleneck and a concrete transfer path. Check for duplicate papers and mechanisms across venues. Keep a separate card only if it adds an application condition, conflicting evidence, or a more informative control. Apply the inclusion criteria before scoring and treat the top 50% as a cap.
 
+Starting with NeurIPS 2026, ask which concrete technical decision the paper changes in a research field and what evidence supports that decision. Evaluate each field on its own merits, including scientific deep learning. Check candidate coverage across fields before ranking and keep the 50% cap.
+
 ## Add or revise a card
 
 1. Search by paper title and identifier. When a preprint and proceedings paper describe the same work, update the sources in its existing card.
