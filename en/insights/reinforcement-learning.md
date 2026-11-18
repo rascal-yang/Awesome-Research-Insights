@@ -481,6 +481,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Multimodal Meta-Verifier with Explicit Structured Recalibration](../../conferences/icml-2026/cards/5801-5900.md#zhang26dr-reinforcement-learning) · 中文
 - [CofactGVR: Counterfactual Intervention for Grounded Visual Reasoning](../../conferences/icml-2026/cards/5801-5900.md#zhang26ex-reinforcement-learning) · 中文
 - [See First, Reason Later: Mutual Information-Guided Reinforcement Learning for Vision-Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26gu-reinforcement-learning) · 中文
+- [GenAlign: Towards Unified Alignment Framework of MLLMs via Generative Reward Model](../../conferences/icml-2026/cards/5901-6000.md#zhang26hq-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

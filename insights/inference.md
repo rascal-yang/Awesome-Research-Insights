@@ -380,6 +380,7 @@
 - [按prefill/decode边际成本在线切换batch模式](../conferences/icml-2026/cards/5801-5900.md#zhang26eo-inference) · Threshold-Based Exclusive Batching for LLM Inference
 - [预测未来熵越阈值以提前发起RAG检索](../conferences/icml-2026/cards/5801-5900.md#zhang26eu-inference) · Predictive Prefetching for Retrieval-Augmented Generation
 - [按当前隐状态信号触发安全引导](../conferences/icml-2026/cards/5901-6000.md#zhang26hc-inference) · SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals
+- [用分布式请求检验并扩展输出多样性](../conferences/icml-2026/cards/5901-6000.md#zhang26hy-inference) · Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity
 
 <a id="by-computer-vision"></a>
 
@@ -521,6 +522,7 @@
 - [共享反向噪声的语义编辑](../conferences/icml-2026/cards/5801-5900.md#zhang26fb-inference) · Semantic Editing with Coupled Stochastic Differential Equations
 - [置信后缀驱动的块级推测验证](../conferences/icml-2026/cards/5801-5900.md#zhang26fd-inference) · SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation
 - [用频带过滤的glyph latent改善文字渲染](../conferences/icml-2026/cards/5901-6000.md#zhang26ge-inference) · FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection
+- [在相同预算下组合global与block低rank并调量化bits](../conferences/icml-2026/cards/5901-6000.md#zhang26hm-inference) · Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution
 
 <a id="by-nlp"></a>
 

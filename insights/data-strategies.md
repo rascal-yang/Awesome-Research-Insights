@@ -158,6 +158,7 @@
 - [以同一状态拼接来路和去路](../conferences/icml-2026/cards/3701-3800.md#qing26a-data-strategies) · BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning
 - [用可核验轨迹捷径增加离线转移](../conferences/icml-2026/cards/3901-4000.md#schmahling26a-data-strategies) · Trajectory-Level Data Augmentation for Offline Reinforcement Learning
 - [Reward-Preserving Counterfactual State Editing for Offline Reinforcement Learning](../conferences/icml-2026/cards/4601-4700.md#wang26s-data-strategies) · Reward-Preserving Counterfactual State Editing for Offline Reinforcement Learning
+- [按扩展后的populationexploitability选择新policy](../conferences/icml-2026/cards/5901-6000.md#zhang26ho-data-strategies) · Global Policy-Space Response Oracles for Two-Player Zero-Sum Games
 
 <a id="by-robotics"></a>
 
@@ -254,6 +255,7 @@
 - [按全局transport效用梯度主动询问对应](../conferences/icml-2026/cards/5601-5700.md#yu26aq-data-strategies) · AvAtar: Learning to Align via Active Optimal Transport
 - [用票数margin后验分配重复标注预算](../conferences/icml-2026/cards/5801-5900.md#zhang26bv-data-strategies) · MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing
 - [沿prototype漂移方向采hard candidates](../conferences/icml-2026/cards/5801-5900.md#zhang26dz-data-strategies) · MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection
+- [用在线utility而非合成保真度决定注入](../conferences/icml-2026/cards/5901-6000.md#zhang26hn-data-strategies) · Active Tabular Augmentation via Policy-Guided Diffusion Inpainting
 
 <a id="by-graph-and-recommendation"></a>
 

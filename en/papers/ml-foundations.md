@@ -631,6 +631,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yu26aq-data-strategies"></a>[AvAtar: Learning to Align via Active Optimal Transport](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26aq)
 - <a id="zhang26bv-data-strategies"></a>[MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bv)
 - <a id="zhang26dz-data-strategies"></a>[MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dz)
+- <a id="zhang26hn-data-strategies"></a>[Active Tabular Augmentation via Policy-Guided Diffusion Inpainting](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hn)
 
 <a id="by-inference"></a>
 
@@ -848,6 +849,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zarvandi26a-evaluation"></a>[Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation](../../conferences/icml-2026/cards/5601-5700.md#paper-zarvandi26a)
 - <a id="zeng26f-evaluation"></a>[Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26f)
 - <a id="zhang26aj-evaluation"></a>[Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26aj)
+- <a id="zhang26hp-evaluation"></a>[A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hp)
 
 <a id="by-theory-statistics"></a>
 

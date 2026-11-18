@@ -698,6 +698,7 @@
 - [SSL局部GGN响应的landmark归因](../conferences/icml-2026/cards/5601-5700.md#zarvandi26a-evaluation) · Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation
 - [Wasserstein参考切向场的双统计监测](../conferences/icml-2026/cards/5701-5800.md#zeng26f-evaluation) · Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data
 - [传播优化器状态扰动估计训练阶段影响](../conferences/icml-2026/cards/5701-5800.md#zhang26aj-evaluation) · Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems
+- [以interaction向量诊断公平与utility冲突位置](../conferences/icml-2026/cards/5901-6000.md#zhang26hp-evaluation) · A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -346,6 +346,9 @@
 - <a id="ye26o-training-strategies"></a>[Distribution Matching Variational AutoEncoder](../conferences/icml-2026/cards/5501-5600.md#paper-ye26o)
 - <a id="yi26f-training-strategies"></a>[Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning](../conferences/icml-2026/cards/5501-5600.md#paper-yi26f)
 - <a id="zaher26a-training-strategies"></a>[Self-Supervised Learning as Discrete Communication](../conferences/icml-2026/cards/5601-5700.md#paper-zaher26a)
+- <a id="zhang26hj-training-strategies"></a>[SemBind: Binding Diffusion Watermarks to Semantics Against Black-Box Forgery Attacks](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hj)
+- <a id="zhang26hk-training-strategies"></a>[BTSP-CAM: A Brain-Inspired Geometric Memory for Class-Incremental Learning](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hk)
+- <a id="zhang26hl-training-strategies"></a>[Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hl)
 
 <a id="by-data-strategies"></a>
 
@@ -521,6 +524,7 @@
 - <a id="zhang26fb-inference"></a>[Semantic Editing with Coupled Stochastic Differential Equations](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fb)
 - <a id="zhang26fd-inference"></a>[SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fd)
 - <a id="zhang26ge-inference"></a>[FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ge)
+- <a id="zhang26hm-inference"></a>[Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hm)
 
 <a id="by-representation-learning"></a>
 

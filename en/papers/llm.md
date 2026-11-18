@@ -295,6 +295,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26da-optimization"></a>[Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26da)
 - <a id="zhang26eq-optimization"></a>[Attn-QAT: 4-Bit Attention With Quantization-Aware Training](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eq)
 - <a id="zhang26fg-optimization"></a>[STLA: Spatiotemporal Lookahead Alignment for Post-Training Quantization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fg)
+- <a id="zhang26hi-optimization"></a>[ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hi)
+- <a id="zhang26hr-optimization"></a>[AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hr)
+- <a id="zhang26hx-optimization"></a>[Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hx)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1118,6 +1121,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26eo-inference"></a>[Threshold-Based Exclusive Batching for LLM Inference](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eo)
 - <a id="zhang26eu-inference"></a>[Predictive Prefetching for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eu)
 - <a id="zhang26hc-inference"></a>[SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hc)
+- <a id="zhang26hy-inference"></a>[Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hy)
 
 <a id="by-representation-learning"></a>
 
@@ -1142,6 +1146,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26cm-representation-learning"></a>[The Truth Lies Somewhere in the Middle (of the Generated Tokens)](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cm)
 - <a id="yang26aw-representation-learning"></a>[Step-Level Sparse Autoencoder for Reasoning Process Interpretation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26aw)
 - <a id="zhang26bd-representation-learning"></a>[Harnessing Reasoning Trajectories for Hallucination Detection via Answer-agreement Representation Shaping](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bd)
+- <a id="zhang26hu-representation-learning"></a>[$V_0$: A Generalist Value Model for Any Policy at State Zero](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hu)
 
 <a id="by-evaluation"></a>
 

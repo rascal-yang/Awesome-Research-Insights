@@ -32,6 +32,7 @@
 - [生成轨迹池化的适用边界](../conferences/icml-2026/cards/4601-4700.md#wang26cm-representation-learning) · The Truth Lies Somewhere in the Middle (of the Generated Tokens)
 - [用上下文重建提取步骤增量特征](../conferences/icml-2026/cards/5301-5400.md#yang26aw-representation-learning) · Step-Level Sparse Autoencoder for Reasoning Process Interpretation
 - [用潜状态扰动的一致答案塑造检测表征](../conferences/icml-2026/cards/5701-5800.md#zhang26bd-representation-learning) · Harnessing Reasoning Trajectories for Hallucination Detection via Answer-agreement Representation Shaping
+- [用policy表现历史预测未rollout题目的成功率](../conferences/icml-2026/cards/5901-6000.md#zhang26hu-representation-learning) · $V_0$: A Generalist Value Model for Any Policy at State Zero
 
 <a id="by-computer-vision"></a>
 

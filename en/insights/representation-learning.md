@@ -32,6 +32,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [The Truth Lies Somewhere in the Middle (of the Generated Tokens)](../../conferences/icml-2026/cards/4601-4700.md#wang26cm-representation-learning) · 中文
 - [Step-Level Sparse Autoencoder for Reasoning Process Interpretation](../../conferences/icml-2026/cards/5301-5400.md#yang26aw-representation-learning) · 中文
 - [Harnessing Reasoning Trajectories for Hallucination Detection via Answer-agreement Representation Shaping](../../conferences/icml-2026/cards/5701-5800.md#zhang26bd-representation-learning) · 中文
+- [$V_0$: A Generalist Value Model for Any Policy at State Zero](../../conferences/icml-2026/cards/5901-6000.md#zhang26hu-representation-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

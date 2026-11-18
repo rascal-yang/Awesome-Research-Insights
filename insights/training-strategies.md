@@ -253,6 +253,9 @@
 - [用分布匹配选择视觉压缩潜空间](../conferences/icml-2026/cards/5501-5600.md#ye26o-training-strategies) · Distribution Matching Variational AutoEncoder
 - [CLIP弱patch抑制与强patch增强](../conferences/icml-2026/cards/5501-5600.md#yi26f-training-strategies) · Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning
 - [以二值跨视图协议和周期head重置训练SSL](../conferences/icml-2026/cards/5601-5700.md#zaher26a-training-strategies) · Self-Supervised Learning as Discrete Communication
+- [把latent watermark与图像语义码绑定](../conferences/icml-2026/cards/5901-6000.md#zhang26hj-training-strategies) · SemBind: Binding Diffusion Watermarks to Semantics Against Black-Box Forgery Attacks
+- [用类trace门控二值记忆写入](../conferences/icml-2026/cards/5901-6000.md#zhang26hk-training-strategies) · BTSP-CAM: A Brain-Inspired Geometric Memory for Class-Incremental Learning
+- [用固定教师锚点对齐增量DETR蒸馏](../conferences/icml-2026/cards/5901-6000.md#zhang26hl-training-strategies) · Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection
 
 <a id="by-nlp"></a>
 

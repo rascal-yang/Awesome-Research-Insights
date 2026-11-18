@@ -698,6 +698,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Interpretable Self-Supervised Learning via Representer Landmarks and Nyström Approximation](../../conferences/icml-2026/cards/5601-5700.md#zarvandi26a-evaluation) · 中文
 - [Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#zeng26f-evaluation) · 中文
 - [Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](../../conferences/icml-2026/cards/5701-5800.md#zhang26aj-evaluation) · 中文
+- [A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hp-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

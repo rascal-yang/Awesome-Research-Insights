@@ -117,6 +117,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26da-optimization) · 中文
 - [Attn-QAT: 4-Bit Attention With Quantization-Aware Training](../../conferences/icml-2026/cards/5801-5900.md#zhang26eq-optimization) · 中文
 - [STLA: Spatiotemporal Lookahead Alignment for Post-Training Quantization](../../conferences/icml-2026/cards/5801-5900.md#zhang26fg-optimization) · 中文
+- [ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hi-optimization) · 中文
+- [AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26hr-optimization) · 中文
+- [Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms](../../conferences/icml-2026/cards/5901-6000.md#zhang26hx-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 

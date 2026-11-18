@@ -158,6 +158,7 @@ Data selection, annotation, augmentation, and sampling.
 - [BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](../../conferences/icml-2026/cards/3701-3800.md#qing26a-data-strategies) · 中文
 - [Trajectory-Level Data Augmentation for Offline Reinforcement Learning](../../conferences/icml-2026/cards/3901-4000.md#schmahling26a-data-strategies) · 中文
 - [Reward-Preserving Counterfactual State Editing for Offline Reinforcement Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26s-data-strategies) · 中文
+- [Global Policy-Space Response Oracles for Two-Player Zero-Sum Games](../../conferences/icml-2026/cards/5901-6000.md#zhang26ho-data-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -254,6 +255,7 @@ Data selection, annotation, augmentation, and sampling.
 - [AvAtar: Learning to Align via Active Optimal Transport](../../conferences/icml-2026/cards/5601-5700.md#yu26aq-data-strategies) · 中文
 - [MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](../../conferences/icml-2026/cards/5801-5900.md#zhang26bv-data-strategies) · 中文
 - [MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection](../../conferences/icml-2026/cards/5801-5900.md#zhang26dz-data-strategies) · 中文
+- [Active Tabular Augmentation via Policy-Guided Diffusion Inpainting](../../conferences/icml-2026/cards/5901-6000.md#zhang26hn-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

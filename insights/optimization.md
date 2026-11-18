@@ -117,6 +117,9 @@
 - [固定总扰动能量学习各参数块的ZO尺度](../conferences/icml-2026/cards/5801-5900.md#zhang26da-optimization) · Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs
 - [让FP4 attention的STE反向匹配前向量化](../conferences/icml-2026/cards/5801-5900.md#zhang26eq-optimization) · Attn-QAT: 4-Bit Attention With Quantization-Aware Training
 - [Schur补前瞻的分簇自适应舍入](../conferences/icml-2026/cards/5801-5900.md#zhang26fg-optimization) · STLA: Spatiotemporal Lookahead Alignment for Post-Training Quantization
+- [按局部上界缩放并重分配LoRA因子](../conferences/icml-2026/cards/5901-6000.md#zhang26hi-optimization) · ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning
+- [沿prefix树DFS复用训练前反向计算](../conferences/icml-2026/cards/5901-6000.md#zhang26hr-optimization) · AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models
+- [在共享rank坐标的LoRA因子sketch上合并](../conferences/icml-2026/cards/5901-6000.md#zhang26hx-optimization) · Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms
 
 <a id="by-computer-vision"></a>
 

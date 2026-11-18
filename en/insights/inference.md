@@ -380,6 +380,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Threshold-Based Exclusive Batching for LLM Inference](../../conferences/icml-2026/cards/5801-5900.md#zhang26eo-inference) · 中文
 - [Predictive Prefetching for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/5801-5900.md#zhang26eu-inference) · 中文
 - [SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals](../../conferences/icml-2026/cards/5901-6000.md#zhang26hc-inference) · 中文
+- [Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](../../conferences/icml-2026/cards/5901-6000.md#zhang26hy-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -521,6 +522,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Semantic Editing with Coupled Stochastic Differential Equations](../../conferences/icml-2026/cards/5801-5900.md#zhang26fb-inference) · 中文
 - [SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation](../../conferences/icml-2026/cards/5801-5900.md#zhang26fd-inference) · 中文
 - [FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection](../../conferences/icml-2026/cards/5901-6000.md#zhang26ge-inference) · 中文
+- [Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer Quantization for Real-World Image Super-Resolution](../../conferences/icml-2026/cards/5901-6000.md#zhang26hm-inference) · 中文
 
 <a id="by-nlp"></a>
 
