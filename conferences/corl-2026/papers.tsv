@@ -90,8 +90,8 @@ number	openreview_id	title	paper_url	reason	status
 89	Tk20sRMzhv	Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation	https://openreview.net/forum?id=Tk20sRMzhv		pending
 90	HfHTPpDBYr	Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards	https://openreview.net/forum?id=HfHTPpDBYr	针对示范中监督不足的奖励特征生成并解释偏好问题	included
 91	Gpc0nCixhZ	Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations	https://openreview.net/forum?id=Gpc0nCixhZ		pending
-92	2vx7I6aRPS	PIVOT: Policy Improvement via Trust-Region Optimization from Deployment Experience	https://openreview.net/forum?id=2vx7I6aRPS		pending
-93	656PH9MVla	Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies	https://openreview.net/forum?id=656PH9MVla		pending
+92	2vx7I6aRPS	PIVOT: Policy Improvement via Trust-Region Optimization from Deployment Experience	https://openreview.net/forum?id=2vx7I6aRPS	在流匹配后训练中按带符号优势吸引或排斥部署数据	included
+93	656PH9MVla	Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies	https://openreview.net/forum?id=656PH9MVla	用共享部署经验估计分布价值，再提取流策略	included
 94	VVdYxLGhxH	DIQL:Distributional Implicit Q Learning for Offline to Online Reinforcement Learning	https://openreview.net/forum?id=VVdYxLGhxH		pending
 95	qx5mPYiXVi	Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning	https://openreview.net/forum?id=qx5mPYiXVi		pending
 96	aZ2Ojk8zxd	Task-Space Imitation Guidance for Efficient Reinforcement Learning	https://openreview.net/forum?id=aZ2Ojk8zxd		pending
