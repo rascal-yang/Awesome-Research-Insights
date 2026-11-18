@@ -17,7 +17,7 @@ number	openreview_id	title	paper_url	reason	status
 16	TscNG5Wcwn	Diversity You Can Actually Measure: A Fast, Model-Free Diversity Metric for Robotics Datasets	https://openreview.net/forum?id=TscNG5Wcwn	固定示范预算下按轨迹核熵选样	included
 17	c4Z0Y8gvnI	MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation	https://openreview.net/forum?id=c4Z0Y8gvnI	用固定视角对照区分相机覆盖与仿真数据收益	included
 18	RdvH11pAfJ	What Are We Actually Benchmarking in Robot Manipulation?	https://openreview.net/forum?id=RdvH11pAfJ	用缺失目标能力的探针和受控扰动检验基准能否支持能力声明	included
-19	mHCqiRUiHi	BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation	https://openreview.net/forum?id=mHCqiRUiHi		pending
+19	mHCqiRUiHi	BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation	https://openreview.net/forum?id=mHCqiRUiHi	将视觉编码器也纳入极低位训练和整机内存对照	included
 20	dngZLI0SlV	Chunk-wise Model-based Policy Optimization	https://openreview.net/forum?id=dngZLI0SlV	训练时用一次前向评估整段动作的价值	included
 21	HbuX1Fe8bl	Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction	https://openreview.net/forum?id=HbuX1Fe8bl	采样时给已去噪片段保留利用后续上下文修订的机会	included
 22	OckqYiY2QM	EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference	https://openreview.net/forum?id=OckqYiY2QM	用未来状态预测对齐异步动作起点并动态分配调用预算	included
