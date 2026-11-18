@@ -476,6 +476,7 @@
 - [码本利用率不等于表征维数](../conferences/icml-2026/cards/6001-6100.md#zhang26jl-evaluation) · Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization
 - [无modelaccess时以patchscoreproxy定位训练对应](../conferences/icml-2026/cards/6001-6100.md#zhao26i-evaluation) · Nonparametric Data Attribution for Diffusion Models
 - [在配对图像变换中按数据量与误差指标比较桥和FM](../conferences/icml-2026/cards/6201-6300.md#zhu26ak-evaluation) · Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis
+- [架构稳定性必须条件于归因算子](../conferences/icml-2026/cards/6301-6400.md#elangovan26b-evaluation) · Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model
 
 <a id="by-nlp"></a>
 

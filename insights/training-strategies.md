@@ -481,6 +481,7 @@
 - [以permutation VI训练变长插入顺序](../conferences/icml-2026/cards/5901-6000.md#zhang26fx-training-strategies) · Variational Learning for Insertion-based Generation
 - [以谱重建残差调每样本dropout](../conferences/icml-2026/cards/6101-6200.md#zhong26l-training-strategies) · DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting
 - [用共同切空间定义流形平均速度](../conferences/icml-2026/cards/6101-6200.md#zhong26p-training-strategies) · Riemannian MeanFlow for One-Step Generation on Manifolds
+- [不完整概念下用干预loss约束泄漏使用](../conferences/icml-2026/cards/6301-6400.md#espinosa-zarlenga26a-training-strategies) · Position: In Defense of Information Leakage in Concept-based Models
 
 <a id="by-graph-and-recommendation"></a>
 

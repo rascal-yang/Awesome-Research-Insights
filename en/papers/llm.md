@@ -1660,4 +1660,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26ba-theory-statistics"></a>[Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ba)
 - <a id="zhou26bi-theory-statistics"></a>[DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss’ Convexity is Dispensable)](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bi)
 - <a id="zhu26ae-theory-statistics"></a>[On the Power of (Approximate) Reward Models for Inference-Time Scaling: Sequential Monte Carlo and Beyond](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ae)
+- <a id="cui26m-theory-statistics"></a>[Position: The Turing-Completeness of Autoregressive Transformers Relies Heavily on Context Management](../../conferences/icml-2026/cards/6301-6400.md#paper-cui26m)
 <!-- classification:end -->

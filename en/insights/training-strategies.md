@@ -481,6 +481,7 @@ Training schedules, curricula, and task or stage composition.
 - [Variational Learning for Insertion-based Generation](../../conferences/icml-2026/cards/5901-6000.md#zhang26fx-training-strategies) · 中文
 - [DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](../../conferences/icml-2026/cards/6101-6200.md#zhong26l-training-strategies) · 中文
 - [Riemannian MeanFlow for One-Step Generation on Manifolds](../../conferences/icml-2026/cards/6101-6200.md#zhong26p-training-strategies) · 中文
+- [Position: In Defense of Information Leakage in Concept-based Models](../../conferences/icml-2026/cards/6301-6400.md#espinosa-zarlenga26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

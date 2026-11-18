@@ -476,6 +476,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization](../../conferences/icml-2026/cards/6001-6100.md#zhang26jl-evaluation) · 中文
 - [Nonparametric Data Attribution for Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26i-evaluation) · 中文
 - [Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis](../../conferences/icml-2026/cards/6201-6300.md#zhu26ak-evaluation) · 中文
+- [Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model](../../conferences/icml-2026/cards/6301-6400.md#elangovan26b-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

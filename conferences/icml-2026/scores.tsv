@@ -6370,26 +6370,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6369	chiu26b							初筛，原文与先例核查待补：现有PDF第3–5页复用kWh、grid carbon intensity、PUE和region报告，并建议reference-grid归一。FLOPs非能耗已引既有实测，本文未新增功耗估计器或硬件/模型算子规则；标准化碳披露与工具推广不足独立神经技术机制，暂排。	rule-excluded
 6370	cho26j							初筛，原文与先例核查待补：现有PDF第3–5页在GriesNaude生产函数上加组织/个人能力/激励/学习调节系数，讨论AI实际生产率。当前是组织经济模型与用例分析，没有相关DL训练/推理/协作控制新操作或经控制技术规律；泛称AI adoption不保证收益不能替代新技术选择，暂排。	rule-excluded
 6371	cho26k	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按同MAE下浮点精度的导数与谱序检查，最近方法差异见baseline且待核；复用5：科学神经代理不能只用平均预测误差选FP32：还应在同权重/同训练条件区分dtype影响，比较导数与谱序稳定性，并把FP64成本一同报告。 可用3受独立重训的随机初始/seed/optimizer控制和同权重切dtype是否配对待核，不能把全部模型差异因果归dtype。近频率跨index是代理，物理mode还需eigenvector对应；FP64非自动ground truth。证据限数值统计，PES/工程流程未整理，耗能/硬件FP64吞吐及任务容差须另核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/8页。	scored
-6372	chopra26a							待原文复核评分	pending
-6373	chun26b							待原文复核评分	pending
-6374	chuprov26a							待原文复核评分	pending
-6375	cui26m							待原文复核评分	pending
-6376	dai26m							待原文复核评分	pending
-6377	de-coninck26a							待原文复核评分	pending
-6378	de-felice26a							待原文复核评分	pending
-6379	diaz-rodriguez26a							待原文复核评分	pending
-6380	dibaeinia26a							待原文复核评分	pending
-6381	dorovatas26a							待原文复核评分	pending
-6382	doula26b							待原文复核评分	pending
-6383	du26v							待原文复核评分	pending
-6384	duan26g							待原文复核评分	pending
-6385	durstewitz26a							待原文复核评分	pending
-6386	elangovan26a							待原文复核评分	pending
-6387	elangovan26b							待原文复核评分	pending
-6388	enri-quez26a							待原文复核评分	pending
-6389	espinosa-zarlenga26a							待原文复核评分	pending
-6390	fan26k							待原文复核评分	pending
-6391	fernandez26c							待原文复核评分	pending
+6372	chopra26a							初筛，原文与先例核查待补：pragmatism/productive-confusion的概念澄清与研究议程框架，当前材料未给独立可实施的神经模型/训练/推理新操作或受控经验；举研究方向不等技术机制。仅摘要与高层贡献初筛。	rule-excluded
+6373	chun26b							初筛，原文与先例核查待补：many-to-many/false-negative匹配问题及probabilistic/set embedding方向主要汇总既有Chun2022/2024等原作；当前未新增具体multiplicity-aware loss或可复用控制规律，旧COCO重标注排名变化不能再次作本稿新证据。PDF3–5。	rule-excluded
+6374	chuprov26a							初筛，原文与先例核查待补：resource-rational controller的loss+cost+controller开销、FL异常检测/聚合选择和InteFL配置框架沿既有metareasoning/robust FL；案例结果指向Korobeinikov2026，当前未隔离新controller更新规则或同预算新条件规律，软件框架不单独构成增量。PDF4–5、7。	rule-excluded
+6375	cui26m	4	4	3	4	76		初筛，原文与先例核查待补：暂定新增4/复用4/使用3/独特4：固定window/precision模型的能力评估须把context manager纳入对象：不可回读摘要压缩与保持输入长度的队列轮转不同，不能用随输入增长的model family证明固定系统通用性。；class结论只在规定C/输入编码/halting条件；外部Python等本身通用时能力可来自工具。任意读写history、recurrent hidden state或variable-length输出会改变对象；大有限state可在有限任务强，regular上界不说明实际学不到有用近似。constructive existence不保证learnability、时延或鲁棒性，原作和证明待统一核。 PDF4,5,7,8,9页。	scored
+6376	dai26m							初筛，原文与先例核查待补：AIR将公众报告收集、聚合、行动反馈组织成post-deployment workflow，属于评价治理/机制设计议程；当前材料无独立神经训练/推理操作或已控制验证的技术选择规律。仅摘要贡献范围。	rule-excluded
+6377	de-coninck26a							初筛，原文与先例核查待补：InformationBottleneck任务充分性/信息压缩与edge+TEE架构是成熟机制；verifiable minimization主张未给新可验证估计或privacy保证构造。压缩task features不自动阻断身份/其他相关推断，当前无独立新增操作。摘要与高层方案。	rule-excluded
+6378	de-felice26a							初筛，原文与先例核查待补：temporal concept encoding/propagation/decoding与用户约束是concept/state-space/neural dynamics的已有模板；新semantic alignment定义及蓝图尚无独立训练目标、可执行约束算法或受控时间稳定规律。等概率1的语义条件不等自动得到实际模型性质。PDF4–5。	rule-excluded
+6379	diaz-rodriguez26a							初筛，原文与先例核查待补：IdeasFirst强调hypothesis/behavioral signatures与定制实验，是研究方法论议程；现有材料没有新增可复用的神经技术选择、独立实验机制或具体受控规律，不能以与本库理念一致作为收录理由。摘要。	rule-excluded
+6380	dibaeinia26a							初筛，原文与先例核查待补：当前摘要高层证据将跨context generalization失败联系causal transportability，主张coverage优先于重复同分布规模；这是成熟泛化/transport问题，尚无可安全分离且独立新增的generic神经操作或控制规律。只核摘要相关性，不提取细胞建模/扰动优化程序，也不因biology名称直接排除。	rule-excluded
+6381	dorovatas26a							初筛，原文与先例核查待补：modular memory结合IWL/ICL、快context与慢weight consolidation是成熟agent memory/continual learning方向；概念架构及roadmap未明确新增memory update/检索/合并操作或匹配控制规律。摘要范围。	rule-excluded
+6382	doula26b							初筛，原文与先例核查待补：180人pilot与repeated-game uncertainty signal主要改变人机依赖/验证界面与行为机制；当前材料未给独立改变神经模型设计、训练或推理的操作，或通用DL evaluation新受控规则。并非因HCI领域名排除。摘要高层。	rule-excluded
+6383	du26v							初筛，原文与先例核查待补：明确anatomical absence不同visibility是有用schema提醒，但existence head、可变joint inventory/edge prediction及topology-aware scoring主要为设计议程；当前未新增具体估计器/loss/可执行graph规则或受控证据区分superset mask与adaptive topology，不能从概念反例推出固定superset必不可能。PDF4、6。	rule-excluded
+6384	duan26g							初筛，原文与先例核查待补：monitorability、evaluation integrity及control evasion的风险分类与建议未给独立具体防御算法或受控诊断规律；现有材料不足改变通用神经技术选择。只高层防御描述，不提取规避方式。摘要。	rule-excluded
+6385	durstewitz26a							初筛，原文与先例核查待补：dynamical-system reconstruction、长期统计/吸引子指标与性能边界主要综述既有DS理论和模型；当前没有独立新增可复用的动力学学习操作或匹配选型规律。倡导长时指标本身不单独新。摘要范围。	rule-excluded
+6386	elangovan26a							初筛，原文与先例核查待补：原子claim拆分、evidence ID/entailment gate与缺证据abstain为成熟attributed QA/RAG verification/claim checking范式；separation-of-powers命名与PLR未呈独立新verification机制或控制规律。来源可追溯不等entailment checker必正确，当前材料不支持新保证。摘要贡献范围。	rule-excluded
+6387	elangovan26b	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：fine-tuning前后解释稳定性不能只用一个CAM给架构排序；在同一批始终预测正确样本上至少比较不同归因算子，并把ranking scope写到model–method pair。；仅两种相关CAM/三架构/单数据；共同正确筛选条件化可能偏向容易样本，不能消除全部优化/选择混杂。map minmax与threshold .2/所选层敏感，类权重口径待核；更稳定不等更忠实或临床更好，dense connectivity因果解释尚无结构消融。 PDF3,4,5页。	scored
+6388	enri-quez26a							初筛，原文与先例核查待补：民主deliberation平台的agency/respect/inclusiveness原则与能力/治理议程，当前没有独立神经训练/推理模块或受控技术选择规律；有社会用途不等新增通用机制。摘要。	rule-excluded
+6389	espinosa-zarlenga26a	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：概念标注不完整时，可保留residual容量并加入真实概念干预后的task loss，分别测task/concept fidelity与intervention曲线；不把清除全部leakage当唯一训练目标。；Lint与2025 prior loss高度重合，独立增量是否足以保留需统一核；sufficiency/localization的MI等式不由task CE自动保证，simplicity-bias解释是hypothesis。weights top5 overlap和ROC-AUC非完整解释faithfulness，强residual可含spurious信息；in-distribution interventions不保证OOD/错误concept鲁棒，约10%额外CEM训练时长依实现。 PDF5,6,7,8页。	scored
+6390	fan26k							初筛，原文与先例核查待补：SPINE L1–L4分类和跨stage隐私策略为成熟sensing minimization/访问控制/DP/TEE等流程组合；像素化navigation SR/SPL下降未隔离semantic compensation或random-walk机制，也未实际量化privacy leakage。当前无独立新模型操作或受控privacy–utility规律，具身领域不自动保留。PDF3–4、6–7。	rule-excluded
+6391	fernandez26c							初筛，原文与先例核查待补：life-cycle energy/environment accounting主要拓展既有LCA到模型/硬件全流程，当前没有新的可计算neural cost estimator或控制预算技术规律；计入训练/推理之外成本是已有评估原则，不以议题重要性作为新增机制。摘要。	rule-excluded
 6392	fujimoto26a							待原文复核评分	pending
 6393	gao26ar							待原文复核评分	pending
 6394	garbacea26a							待原文复核评分	pending

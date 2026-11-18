@@ -82,6 +82,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking](../../conferences/icml-2026/cards/5701-5800.md#zhang26ba-theory-statistics) · 中文
 - [DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss’ Convexity is Dispensable)](../../conferences/icml-2026/cards/6201-6300.md#zhou26bi-theory-statistics) · 中文
 - [On the Power of (Approximate) Reward Models for Inference-Time Scaling: Sequential Monte Carlo and Beyond](../../conferences/icml-2026/cards/6201-6300.md#zhu26ae-theory-statistics) · 中文
+- [Position: The Turing-Completeness of Autoregressive Transformers Relies Heavily on Context Management](../../conferences/icml-2026/cards/6301-6400.md#cui26m-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 

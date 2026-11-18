@@ -607,6 +607,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26fx-training-strategies"></a>[Variational Learning for Insertion-based Generation](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fx)
 - <a id="zhong26l-training-strategies"></a>[DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26l)
 - <a id="zhong26p-training-strategies"></a>[Riemannian MeanFlow for One-Step Generation on Manifolds](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26p)
+- <a id="espinosa-zarlenga26a-training-strategies"></a>[Position: In Defense of Information Leakage in Concept-based Models](../../conferences/icml-2026/cards/6301-6400.md#paper-espinosa-zarlenga26a)
 
 <a id="by-data-strategies"></a>
 
