@@ -3002,66 +3002,66 @@ poster_id	title	paper_url	status	reason
 148427	FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping	https://neurips.cc/virtual/2026/poster/148427	included	分别学习和分析目标频率、信号到达时间
 153787	FIVE-VLA: Fast and EffectIVE Closed-Loop Autonomous Driving with Recurrent Action Memory	https://neurips.cc/virtual/2026/poster/153787	included	联合测决策频率与闭环成功，单独比较历史动作输入
 155218	Fixed-Point Masked Generative Modeling	https://neurips.cc/virtual/2026/poster/155218	included	按变化状态复用上一步隐变量，与冷启动对照
-148540	Fixed-Point Reasoning: Stable and Adaptive Deep Looped Models	https://neurips.cc/virtual/2026/poster/148540	pending	-
-153159	Fixed-Size Active Statistical Inference	https://neurips.cc/virtual/2026/poster/153159	pending	-
-149666	Fixed Universal Transformers	https://neurips.cc/virtual/2026/poster/149666	pending	-
-152205	Fix the Structural Bottleneck: Context Compression via Explicit Information Transmission	https://neurips.cc/virtual/2026/poster/152205	pending	-
-151542	FLAG: Flow Policy MaxEnt-RL by Latent Augmented Guidance	https://neurips.cc/virtual/2026/poster/151542	pending	-
-155468	FLAME: Adaptive Mixture-of-Experts for Continual Multimodal Multi-Task Learning	https://neurips.cc/virtual/2026/poster/155468	pending	-
-151862	FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting	https://neurips.cc/virtual/2026/poster/151862	pending	-
-150224	FLARE: Diffusion for Hybrid Language Model	https://neurips.cc/virtual/2026/poster/150224	pending	-
-139338	FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries	https://neurips.cc/virtual/2026/poster/139338	pending	-
-139225	FlareReal: A Real-Captured Paired Dataset for Nighttime Lens Flare Removal	https://neurips.cc/virtual/2026/poster/139225	pending	-
-149137	FLARE: Verifying MILP Reformulations with LLM-Based Formal Proof Synthesis	https://neurips.cc/virtual/2026/poster/149137	pending	-
-150295	FlashBoB: I/O-Efficient Exact Backward-over-Backward for Softmax Attention	https://neurips.cc/virtual/2026/poster/150295	pending	-
-154256	FlashControl: One-Step Controllable Generator via Distillation-Friendly Single-Stream Teachers.	https://neurips.cc/virtual/2026/poster/154256	pending	-
-152191	Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs	https://neurips.cc/virtual/2026/poster/152191	pending	-
-153691	FLASH: Efficient Visuomotor Policy via Sparse Sampling	https://neurips.cc/virtual/2026/poster/153691	pending	-
-150533	FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration	https://neurips.cc/virtual/2026/poster/150533	pending	-
-151360	FlashFFN: Multi-Head Decomposition Enables I/O-Aware Feed-Forward Network	https://neurips.cc/virtual/2026/poster/151360	pending	-
-151963	Flash-KMeans: Fast and Memory-Efficient Exact K-Means	https://neurips.cc/virtual/2026/poster/151963	pending	-
-148370	FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention	https://neurips.cc/virtual/2026/poster/148370	pending	-
-153479	FlashMol: High-Quality Molecule Generation in as Few as Four Steps	https://neurips.cc/virtual/2026/poster/153479	pending	-
-153142	Flash PD-SSM: Memory-Optimized Structured Sparse State-Space Models	https://neurips.cc/virtual/2026/poster/153142	pending	-
-151391	FlashPlanner: Real-Time Goal-Conditioned Flow-Matching Planning for Autonomous Driving with Online RL Fine-Tuning	https://neurips.cc/virtual/2026/poster/151391	pending	-
-153615	FlashRelight: Portrait Video Relighting with Dynamic Lighting	https://neurips.cc/virtual/2026/poster/153615	pending	-
-151863	Flash-SD-KDE: Accelerating SD-KDE with Tensor Cores	https://neurips.cc/virtual/2026/poster/151863	pending	-
-149335	FlashSSM-3D: A Distilled State Space Model for Lightning-Fast Dense 3D Reconstruction	https://neurips.cc/virtual/2026/poster/149335	pending	-
-152015	FlatClip: Reusing Image Foundation Models for fMRI Representation Learning via Cortical Flatmaps	https://neurips.cc/virtual/2026/poster/152015	pending	-
-151562	FlexCover: Flexible Cover Song Generation via Symbolic Lead Sheet Control	https://neurips.cc/virtual/2026/poster/151562	pending	-
-154501	Flexformer: Flexible Linear Transformer with Learnable Attention Kernel	https://neurips.cc/virtual/2026/poster/154501	pending	-
-149232	Flexible Flows for Biological Sequence Design	https://neurips.cc/virtual/2026/poster/149232	pending	-
-139473	Flexible Intensities Matter: A comprehensive re-evaluation of Classical and Neural Temporal Point Processes	https://neurips.cc/virtual/2026/poster/139473	pending	-
-149927	Flexible Routing via Uncertainty Decomposition	https://neurips.cc/virtual/2026/poster/149927	pending	-
-151034	FlexMoE: One-for-All Nested Intra-Expert Pruning for MoE Language Models	https://neurips.cc/virtual/2026/poster/151034	pending	-
-153378	FlexTab: A Flexible Encoder-Decoder Architecture for In-Context Learning Across Diverse Tabular Tasks	https://neurips.cc/virtual/2026/poster/153378	pending	-
-149594	FLINT: Coupling Proximal Initialization and Bounded Stochasticity for Flow-Matching Inverse Problems	https://neurips.cc/virtual/2026/poster/149594	pending	-
-152411	FLIP: Fast and Accurate Global Lipschitz Estimation for Large Feedforward Networks	https://neurips.cc/virtual/2026/poster/152411	pending	-
-150844	Flipping Bits, Not Gradients: Sharpness-Aware Minimization Directly on the Boolean Hypercube	https://neurips.cc/virtual/2026/poster/150844	pending	-
-153687	FloatDoor: Platform triggered Backdoors in LLMs	https://neurips.cc/virtual/2026/poster/153687	pending	-
-149413	FLoRA-Chef: Making A Good LoRA Recipe in Federated Generalization	https://neurips.cc/virtual/2026/poster/149413	pending	-
-148653	Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems	https://neurips.cc/virtual/2026/poster/148653	pending	-
-153098	FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse	https://neurips.cc/virtual/2026/poster/153098	pending	-
-153168	Flow-Based Conformal Predictive Distributions	https://neurips.cc/virtual/2026/poster/153168	pending	-
-151466	Flow-based Spectral Kernel Learning for Nonstationary Attention	https://neurips.cc/virtual/2026/poster/151466	pending	-
-151881	FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction	https://neurips.cc/virtual/2026/poster/151881	pending	-
-148446	Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models	https://neurips.cc/virtual/2026/poster/148446	pending	-
-152468	Flow+Diff: Unifying Flow and Diffusion Representations for Multivariate Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/152468	pending	-
-151143	Flow-Direct: Feedback-Efficient and Reusable Guidance for Flow Models via Non-Parametric Guidance Field	https://neurips.cc/virtual/2026/poster/151143	pending	-
-150977	Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models	https://neurips.cc/virtual/2026/poster/150977	pending	-
-149264	Flow Equivariant State Space Model	https://neurips.cc/virtual/2026/poster/149264	pending	-
-151088	Flowette: Flow Matching with Graphette Priors for Graph Generation	https://neurips.cc/virtual/2026/poster/151088	pending	-
-153377	Flow-Guided Target-Space Alignment via Path Consistency	https://neurips.cc/virtual/2026/poster/153377	pending	-
-155765	FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation	https://neurips.cc/virtual/2026/poster/155765	pending	-
-151230	FlowLeak: Coverage-Guided Extraction of Dynamic Workflows in LLM-Based Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/151230	pending	-
-154398	Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems	https://neurips.cc/virtual/2026/poster/154398	pending	-
-152052	Flow Map Language Models: One-step Language Modeling via Continuous Denoising	https://neurips.cc/virtual/2026/poster/152052	pending	-
-152834	FlowMAS: Learning Multi-Agent Workflow Topology via Information-guided Generative Flow Network	https://neurips.cc/virtual/2026/poster/152834	pending	-
-155470	Flow Matching for Count Data	https://neurips.cc/virtual/2026/poster/155470	pending	-
-153771	Flow Matching for Offline Reinforcement Learning with Discrete Actions	https://neurips.cc/virtual/2026/poster/153771	pending	-
-149878	Flow Matching from Viewpoint of Proximal Operators	https://neurips.cc/virtual/2026/poster/149878	pending	-
-148142	Flow Matching Policy Optimization with Mirror Descent and Entropy Constraints	https://neurips.cc/virtual/2026/poster/148142	pending	-
-153016	Flow Matching Reinforcement Learning via SDE Inference	https://neurips.cc/virtual/2026/poster/153016	pending	-
+148540	Fixed-Point Reasoning: Stable and Adaptive Deep Looped Models	https://neurips.cc/virtual/2026/poster/148540	included	以状态收敛决定循环深度
+153159	Fixed-Size Active Statistical Inference	https://neurips.cc/virtual/2026/poster/153159	included	固定标注预算时比较条件泊松抽样
+149666	Fixed Universal Transformers	https://neurips.cc/virtual/2026/poster/149666	included	比较权重适配与输入编码的表达能力
+152205	Fix the Structural Bottleneck: Context Compression via Explicit Information Transmission	https://neurips.cc/virtual/2026/poster/152205	included	用全局槽位分配替代逐槽独立聚合
+151542	FLAG: Flow Policy MaxEnt-RL by Latent Augmented Guidance	https://neurips.cc/virtual/2026/poster/151542	included	高维动作策略使用局部采样减缓重要性权重退化
+155468	FLAME: Adaptive Mixture-of-Experts for Continual Multimodal Multi-Task Learning	https://neurips.cc/virtual/2026/poster/155468	included	按模态共享路由，并压缩旧专家知识
+151862	FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting	https://neurips.cc/virtual/2026/poster/151862	included	为长期预测分离历史压缩与预测分布表达
+150224	FLARE: Diffusion for Hybrid Language Model	https://neurips.cc/virtual/2026/poster/150224	included	转换自回归模型时先对照迁移数据质量
+139338	FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries	https://neurips.cc/virtual/2026/poster/139338	included	以单模态失败、双模态成功筛选联合检索样例
+139225	FlareReal: A Real-Captured Paired Dataset for Nighttime Lens Flare Removal	https://neurips.cc/virtual/2026/poster/139225	included	用清洁前后配对实拍检验合成退化数据
+149137	FLARE: Verifying MILP Reformulations with LLM-Based Formal Proof Synthesis	https://neurips.cc/virtual/2026/poster/149137	included	给整数规划重写加入可核验的等价证明
+150295	FlashBoB: I/O-Efficient Exact Backward-over-Backward for Softmax Attention	https://neurips.cc/virtual/2026/poster/150295	included	以逐行充分量设计注意力二阶反传内核
+154256	FlashControl: One-Step Controllable Generator via Distillation-Friendly Single-Stream Teachers.	https://neurips.cc/virtual/2026/poster/154256	included	先把空间控制压进单流教师，再蒸馏步数
+152191	Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs	https://neurips.cc/virtual/2026/poster/152191	included	联合设计扩散解码缓存和候选验证
+153691	FLASH: Efficient Visuomotor Policy via Sparse Sampling	https://neurips.cc/virtual/2026/poster/153691	included	用连续多项式表示动作并从历史系数启动生成
+150533	FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration	https://neurips.cc/virtual/2026/poster/150533	included	按版本处理过期的提示或工作流产物
+151360	FlashFFN: Multi-Head Decomposition Enables I/O-Aware Feed-Forward Network	https://neurips.cc/virtual/2026/poster/151360	included	以片上累加空间约束设计 FFN 的分头宽度
+151963	Flash-KMeans: Fast and Memory-Efficient Exact K-Means	https://neurips.cc/virtual/2026/poster/151963	included	融合距离与在线最小值，并用逆映射消除更新争用
+148370	FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention	https://neurips.cc/virtual/2026/poster/148370	included	用键索引的边界向量在本地裁剪结构掩码
+153479	FlashMol: High-Quality Molecule Generation in as Few as Four Steps	https://neurips.cc/virtual/2026/poster/153479	excluded	摘要的验证集中于分子构象生成，暂无独立于该用途的实证对照可供整理。
+153142	Flash PD-SSM: Memory-Optimized Structured Sparse State-Space Models	https://neurips.cc/virtual/2026/poster/153142	included	用稀疏转移矩阵库替代单一固定转移。
+151391	FlashPlanner: Real-Time Goal-Conditioned Flow-Matching Planning for Autonomous Driving with Online RL Fine-Tuning	https://neurips.cc/virtual/2026/poster/151391	included	用紧凑连续目标连接导航意图与生成式规划。
+153615	FlashRelight: Portrait Video Relighting with Dynamic Lighting	https://neurips.cc/virtual/2026/poster/153615	included	在中性光照表示上做动态重打光。
+151863	Flash-SD-KDE: Accelerating SD-KDE with Tensor Cores	https://neurips.cc/virtual/2026/poster/151863	included	先将核估计重写成矩阵乘，再决定是否保留统计修正。
+149335	FlashSSM-3D: A Distilled State Space Model for Lightning-Fast Dense 3D Reconstruction	https://neurips.cc/virtual/2026/poster/149335	included	跨架构蒸馏时直接约束全局几何和视角一致。
+152015	FlatClip: Reusing Image Foundation Models for fMRI Representation Learning via Cortical Flatmaps	https://neurips.cc/virtual/2026/poster/152015	included	使用保留拓扑的皮层平面图做冻结图像编码基线。
+151562	FlexCover: Flexible Cover Song Generation via Symbolic Lead Sheet Control	https://neurips.cc/virtual/2026/poster/151562	included	用符号旋律和和弦控制时序可以变化的音乐生成。
+154501	Flexformer: Flexible Linear Transformer with Learnable Attention Kernel	https://neurips.cc/virtual/2026/poster/154501	included	训练 Fourier 特征的频率以调节线性注意力核。
+149232	Flexible Flows for Biological Sequence Design	https://neurips.cc/virtual/2026/poster/149232	excluded	摘要主要贡献是面向生物序列工程的生成与优化，本条不整理其操作性机制。
+139473	Flexible Intensities Matter: A comprehensive re-evaluation of Classical and Neural Temporal Point Processes	https://neurips.cc/virtual/2026/poster/139473	included	比较神经和经典点过程前先匹配强度函数的灵活性。
+149927	Flexible Routing via Uncertainty Decomposition	https://neurips.cc/virtual/2026/poster/149927	included	区分可由专家降低的不确定性和应触发弃答的歧义。
+151034	FlexMoE: One-for-All Nested Intra-Expert Pruning for MoE Language Models	https://neurips.cc/virtual/2026/poster/151034	included	训练一系列可嵌套的专家子网以跨设备切换预算。
+153378	FlexTab: A Flexible Encoder-Decoder Architecture for In-Context Learning Across Diverse Tabular Tasks	https://neurips.cc/virtual/2026/poster/153378	included	将行编码从预测目标解耦，复用于不同表格任务。
+149594	FLINT: Coupling Proximal Initialization and Bounded Stochasticity for Flow-Matching Inverse Problems	https://neurips.cc/virtual/2026/poster/149594	included	联合选择初始化与累积采样噪声预算。
+152411	FLIP: Fast and Accurate Global Lipschitz Estimation for Large Feedforward Networks	https://neurips.cc/virtual/2026/poster/152411	included	用递归传播把全局 SDP 估计拆为一维凸子问题。
+150844	Flipping Bits, Not Gradients: Sharpness-Aware Minimization Directly on the Boolean Hypercube	https://neurips.cc/virtual/2026/poster/150844	included	用 Hamming 扰动定义二值网络的锐度。
+153687	FloatDoor: Platform triggered Backdoors in LLMs	https://neurips.cc/virtual/2026/poster/153687	excluded	摘要主要贡献为利用部署平台差异触发后门，缺少独立且经验证的防御机制。
+149413	FLoRA-Chef: Making A Good LoRA Recipe in Federated Generalization	https://neurips.cc/virtual/2026/poster/149413	included	分别决定两个 LoRA 因子的聚合时机和权重。
+148653	Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems	https://neurips.cc/virtual/2026/poster/148653	included	用函数空间先验推断不同查询网格上的后验。
+153098	FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse	https://neurips.cc/virtual/2026/poster/153098	included	离线构建互补流程库，在线按查询选择。
+153168	Flow-Based Conformal Predictive Distributions	https://neurips.cc/virtual/2026/poster/153168	included	从共形集合构造可采样分布。
+151466	Flow-based Spectral Kernel Learning for Nonstationary Attention	https://neurips.cc/virtual/2026/poster/151466	included	以非平稳核替换固定相似度。
+151881	FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction	https://neurips.cc/virtual/2026/poster/151881	included	从早期循环预测完整健康轨迹及不确定性。
+148446	Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models	https://neurips.cc/virtual/2026/poster/148446	included	分开做目标优化和有效形状校正。
+152468	Flow+Diff: Unifying Flow and Diffusion Representations for Multivariate Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/152468	included	用两种潜表征的分歧替代总重建误差。
+151143	Flow-Direct: Feedback-Efficient and Reusable Guidance for Flow Models via Non-Parametric Guidance Field	https://neurips.cc/virtual/2026/poster/151143	included	缓存历史奖励样本以复用引导。
+150977	Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models	https://neurips.cc/virtual/2026/poster/150977	included	以逐步高斯 KL 代替单样本比率剪切。
+149264	Flow Equivariant State Space Model	https://neurips.cc/virtual/2026/poster/149264	included	先沿运动输送记忆再更新。
+151088	Flowette: Flow Matching with Graphette Priors for Graph Generation	https://neurips.cc/virtual/2026/poster/151088	included	将常见图基元写入结构先验。
+153377	Flow-Guided Target-Space Alignment via Path Consistency	https://neurips.cc/virtual/2026/poster/153377	included	用流场作为训练期路径监督。
+155765	FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation	https://neurips.cc/virtual/2026/poster/155765	included	显式生成手、物体和接触状态。
+151230	FlowLeak: Coverage-Guided Extraction of Dynamic Workflows in LLM-Based Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/151230	excluded	摘要主要贡献为未授权提取隐藏流程及提升下游攻击能力，缺少可独立收录的防御方案。
+154398	Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems	https://neurips.cc/virtual/2026/poster/154398	included	以展望时间控制保真与感知质量。
+152052	Flow Map Language Models: One-step Language Modeling via Continuous Denoising	https://neurips.cc/virtual/2026/poster/152052	included	用连续 token 流蒸馏单步映射。
+152834	FlowMAS: Learning Multi-Agent Workflow Topology via Information-guided Generative Flow Network	https://neurips.cc/virtual/2026/poster/152834	included	以信息贡献和通信成本筛选协作拓扑。
+155470	Flow Matching for Count Data	https://neurips.cc/virtual/2026/poster/155470	included	让传输发生在计数空间。
+153771	Flow Matching for Offline Reinforcement Learning with Discrete Actions	https://neurips.cc/virtual/2026/poster/153771	included	把流匹配推广到离散动作。
+149878	Flow Matching from Viewpoint of Proximal Operators	https://neurips.cc/virtual/2026/poster/149878	included	用近端算子解释传输向量场。
+148142	Flow Matching Policy Optimization with Mirror Descent and Entropy Constraints	https://neurips.cc/virtual/2026/poster/148142	included	用优势加权流匹配实现镜像下降。
+153016	Flow Matching Reinforcement Learning via SDE Inference	https://neurips.cc/virtual/2026/poster/153016	included	训练采用随机推理，部署采用确定性推理。
 153623	Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics	https://neurips.cc/virtual/2026/poster/153623	pending	-
 148833	Flow Mismatching: Unsupervised Anomaly Detection via Velocity Discrepancies in Flow Matching Models	https://neurips.cc/virtual/2026/poster/148833	pending	-
 150215	FlowMoP: Stochastic Multi-Person Motion Prediction	https://neurips.cc/virtual/2026/poster/150215	pending	-

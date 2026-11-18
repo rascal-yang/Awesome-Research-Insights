@@ -417,3 +417,59 @@
 | 时序建模 | 神经元结构 | [FiTS: Interpretable Spiking Neurons via Frequency Selectivity and Temporal Shaping](cards-0005.md#paper-148427) | 分别学习和分析目标频率、信号到达时间 |
 | 具身智能 | 低延迟控制 | [FIVE-VLA: Fast and EffectIVE Closed-Loop Autonomous Driving with Recurrent Action Memory](cards-0005.md#paper-153787) | 联合测决策频率与闭环成功，单独比较历史动作输入 |
 | 生成模型 | 自适应计算 | [Fixed-Point Masked Generative Modeling](cards-0005.md#paper-155218) | 按变化状态复用上一步隐变量，与冷启动对照 |
+| 学习架构 | 迭代停止 | [Fixed-Point Reasoning: Stable and Adaptive Deep Looped Models](cards-0005.md#paper-148540) | 以状态收敛决定循环深度 |
+| 统计学习 | 主动抽样 | [Fixed-Size Active Statistical Inference](cards-0005.md#paper-153159) | 固定标注预算时比较条件泊松抽样 |
+| 学习理论 | 模型表达 | [Fixed Universal Transformers](cards-0005.md#paper-149666) | 比较权重适配与输入编码的表达能力 |
+| 大语言模型 | 上下文压缩 | [Fix the Structural Bottleneck: Context Compression via Explicit Information Transmission](cards-0005.md#paper-152205) | 用全局槽位分配替代逐槽独立聚合 |
+| 强化学习 | 策略优化 | [FLAG: Flow Policy MaxEnt-RL by Latent Augmented Guidance](cards-0005.md#paper-151542) | 高维动作策略使用局部采样减缓重要性权重退化 |
+| 多模态学习 | 持续学习 | [FLAME: Adaptive Mixture-of-Experts for Continual Multimodal Multi-Task Learning](cards-0005.md#paper-155468) | 按模态共享路由，并压缩旧专家知识 |
+| 时间序列 | 概率预测 | [FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](cards-0005.md#paper-151862) | 为长期预测分离历史压缩与预测分布表达 |
+| 大语言模型 | 训练诊断 | [FLARE: Diffusion for Hybrid Language Model](cards-0005.md#paper-150224) | 转换自回归模型时先对照迁移数据质量 |
+| 多模态学习 | 检索评测 | [FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries](cards-0005.md#paper-139338) | 以单模态失败、双模态成功筛选联合检索样例 |
+| 计算机视觉 | 数据采集 | [FlareReal: A Real-Captured Paired Dataset for Nighttime Lens Flare Removal](cards-0005.md#paper-139225) | 用清洁前后配对实拍检验合成退化数据 |
+| 优化 / Agent | 形式验证 | [FLARE: Verifying MILP Reformulations with LLM-Based Formal Proof Synthesis](cards-0005.md#paper-149137) | 给整数规划重写加入可核验的等价证明 |
+| 机器学习系统 | 高阶微分 | [FlashBoB: I/O-Efficient Exact Backward-over-Backward for Softmax Attention](cards-0005.md#paper-150295) | 以逐行充分量设计注意力二阶反传内核 |
+| 计算机视觉 | 生成蒸馏 | [FlashControl: One-Step Controllable Generator via Distillation-Friendly Single-Stream Teachers.](cards-0005.md#paper-154256) | 先把空间控制压进单流教师，再蒸馏步数 |
+| 大语言模型 | 推理加速 | [Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs](cards-0005.md#paper-152191) | 联合设计扩散解码缓存和候选验证 |
+| 机器人学 | 动作表示 | [FLASH: Efficient Visuomotor Policy via Sparse Sampling](cards-0005.md#paper-153691) | 用连续多项式表示动作并从历史系数启动生成 |
+| Agent | 异步执行 | [FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration](cards-0005.md#paper-150533) | 按版本处理过期的提示或工作流产物 |
+| 机器学习系统 | 模型架构 | [FlashFFN: Multi-Head Decomposition Enables I/O-Aware Feed-Forward Network](cards-0005.md#paper-151360) | 以片上累加空间约束设计 FFN 的分头宽度 |
+| 机器学习系统 | 聚类加速 | [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](cards-0005.md#paper-151963) | 融合距离与在线最小值，并用逆映射消除更新争用 |
+| 机器学习系统 | 分布式注意力 | [FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention](cards-0005.md#paper-148370) | 用键索引的边界向量在本地裁剪结构掩码 |
+| 序列模型 | 状态转移 | [Flash PD-SSM: Memory-Optimized Structured Sparse State-Space Models](cards-0005.md#paper-153142) | 用稀疏转移矩阵库替代单一固定转移。 |
+| 自动驾驶 | 闭环规划 | [FlashPlanner: Real-Time Goal-Conditioned Flow-Matching Planning for Autonomous Driving with Online RL Fine-Tuning](cards-0005.md#paper-151391) | 用紧凑连续目标连接导航意图与生成式规划。 |
+| 计算机视觉 | 视频编辑 | [FlashRelight: Portrait Video Relighting with Dynamic Lighting](cards-0005.md#paper-153615) | 在中性光照表示上做动态重打光。 |
+| 统计学习 / 系统 | 计算重排 | [Flash-SD-KDE: Accelerating SD-KDE with Tensor Cores](cards-0005.md#paper-151863) | 先将核估计重写成矩阵乘，再决定是否保留统计修正。 |
+| 三维视觉 | 几何蒸馏 | [FlashSSM-3D: A Distilled State Space Model for Lightning-Fast Dense 3D Reconstruction](cards-0005.md#paper-149335) | 跨架构蒸馏时直接约束全局几何和视角一致。 |
+| 科学机器学习 | 观测表征 | [FlatClip: Reusing Image Foundation Models for fMRI Representation Learning via Cortical Flatmaps](cards-0005.md#paper-152015) | 使用保留拓扑的皮层平面图做冻结图像编码基线。 |
+| 音频生成 | 条件表示 | [FlexCover: Flexible Cover Song Generation via Symbolic Lead Sheet Control](cards-0005.md#paper-151562) | 用符号旋律和和弦控制时序可以变化的音乐生成。 |
+| 序列模型 | 线性注意力 | [Flexformer: Flexible Linear Transformer with Learnable Attention Kernel](cards-0005.md#paper-154501) | 训练 Fourier 特征的频率以调节线性注意力核。 |
+| 统计学习 | 基准诊断 | [Flexible Intensities Matter: A comprehensive re-evaluation of Classical and Neural Temporal Point Processes](cards-0005.md#paper-139473) | 比较神经和经典点过程前先匹配强度函数的灵活性。 |
+| 机器学习系统 | 推理路由 | [Flexible Routing via Uncertainty Decomposition](cards-0005.md#paper-149927) | 区分可由专家降低的不确定性和应触发弃答的歧义。 |
+| 大语言模型 | 模型压缩 | [FlexMoE: One-for-All Nested Intra-Expert Pruning for MoE Language Models](cards-0005.md#paper-151034) | 训练一系列可嵌套的专家子网以跨设备切换预算。 |
+| 表格学习 | 上下文学习 | [FlexTab: A Flexible Encoder-Decoder Architecture for In-Context Learning Across Diverse Tabular Tasks](cards-0005.md#paper-153378) | 将行编码从预测目标解耦，复用于不同表格任务。 |
+| 计算机视觉 | 逆问题 | [FLINT: Coupling Proximal Initialization and Bounded Stochasticity for Flow-Matching Inverse Problems](cards-0005.md#paper-149594) | 联合选择初始化与累积采样噪声预算。 |
+| 学习理论 | 稳健性估计 | [FLIP: Fast and Accurate Global Lipschitz Estimation for Large Feedforward Networks](cards-0005.md#paper-152411) | 用递归传播把全局 SDP 估计拆为一维凸子问题。 |
+| 优化 | 离散训练 | [Flipping Bits, Not Gradients: Sharpness-Aware Minimization Directly on the Boolean Hypercube](cards-0005.md#paper-150844) | 用 Hamming 扰动定义二值网络的锐度。 |
+| 联邦学习 | 参数高效训练 | [FLoRA-Chef: Making A Good LoRA Recipe in Federated Generalization](cards-0005.md#paper-149413) | 分别决定两个 LoRA 因子的聚合时机和权重。 |
+| 科学机器学习 | 后验采样 | [Flow Annealing Posterior Sampling for Function-Space Regression and Inverse Problems](cards-0005.md#paper-148653) | 用函数空间先验推断不同查询网格上的后验。 |
+| Agent | 工作流路由 | [FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse](cards-0005.md#paper-153098) | 离线构建互补流程库，在线按查询选择。 |
+| 统计学习 | 共形预测 | [Flow-Based Conformal Predictive Distributions](cards-0005.md#paper-153168) | 从共形集合构造可采样分布。 |
+| 深度学习 | 注意力 | [Flow-based Spectral Kernel Learning for Nonstationary Attention](cards-0005.md#paper-151466) | 以非平稳核替换固定相似度。 |
+| 科学机器学习 | 轨迹预测 | [FlowBatt: Flow Matching for Probabilistic Battery Degradation Prediction](cards-0005.md#paper-151881) | 从早期循环预测完整健康轨迹及不确定性。 |
+| 计算机视觉 | 形状优化 | [Flow-Corrected Shape Optimization: Taming Manifold Drift in High-Dimensional 3D Models](cards-0005.md#paper-148446) | 分开做目标优化和有效形状校正。 |
+| 时间序列 | 异常检测 | [Flow+Diff: Unifying Flow and Diffusion Representations for Multivariate Time Series Anomaly Detection](cards-0005.md#paper-152468) | 用两种潜表征的分歧替代总重建误差。 |
+| 生成模型 | 黑盒引导 | [Flow-Direct: Feedback-Efficient and Reusable Guidance for Flow Models via Non-Parametric Guidance Field](cards-0005.md#paper-151143) | 缓存历史奖励样本以复用引导。 |
+| 强化学习 | 生成策略优化 | [Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models](cards-0005.md#paper-150977) | 以逐步高斯 KL 代替单样本比率剪切。 |
+| 深度学习 | 时空建模 | [Flow Equivariant State Space Model](cards-0005.md#paper-149264) | 先沿运动输送记忆再更新。 |
+| 图学习 | 图生成 | [Flowette: Flow Matching with Graphette Priors for Graph Generation](cards-0005.md#paper-151088) | 将常见图基元写入结构先验。 |
+| 多模态学习 | 表征对齐 | [Flow-Guided Target-Space Alignment via Path Consistency](cards-0005.md#paper-153377) | 用流场作为训练期路径监督。 |
+| 具身智能 | 动作生成 | [FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation](cards-0005.md#paper-155765) | 显式生成手、物体和接触状态。 |
+| 计算机视觉 | 图像复原 | [Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems](cards-0005.md#paper-154398) | 以展望时间控制保真与感知质量。 |
+| 大语言模型 | 少步生成 | [Flow Map Language Models: One-step Language Modeling via Continuous Denoising](cards-0005.md#paper-152052) | 用连续 token 流蒸馏单步映射。 |
+| Agent | 流程拓扑 | [FlowMAS: Learning Multi-Agent Workflow Topology via Information-guided Generative Flow Network](cards-0005.md#paper-152834) | 以信息贡献和通信成本筛选协作拓扑。 |
+| 统计学习 | 计数数据 | [Flow Matching for Count Data](cards-0005.md#paper-155470) | 让传输发生在计数空间。 |
+| 强化学习 | 离散策略 | [Flow Matching for Offline Reinforcement Learning with Discrete Actions](cards-0005.md#paper-153771) | 把流匹配推广到离散动作。 |
+| 学习理论 | 流匹配 | [Flow Matching from Viewpoint of Proximal Operators](cards-0005.md#paper-149878) | 用近端算子解释传输向量场。 |
+| 强化学习 | 策略优化 | [Flow Matching Policy Optimization with Mirror Descent and Entropy Constraints](cards-0005.md#paper-148142) | 用优势加权流匹配实现镜像下降。 |
+| 强化学习 | 训练部署迁移 | [Flow Matching Reinforcement Learning via SDE Inference](cards-0005.md#paper-153016) | 训练采用随机推理，部署采用确定性推理。 |
