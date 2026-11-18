@@ -394,69 +394,69 @@ poster_id	title	paper_url	status	reason
 139543	A Matched-Budget Audit Framework for Recaptioned Image-Text Supervision Distributions	https://neurips.cc/virtual/2026/poster/139543	included	固定描述预算，比较重写图文数据的内容覆盖与图像支持度。
 153152	A mathematical theory of balancing relational generalization and memorization	https://neurips.cc/virtual/2026/poster/153152	included	同时用新关系组合和显式反例测试规则外推。
 153251	A Matter of Interest: Understanding Interestingness Judgments of Math Problems in Humans and Language Models	https://neurips.cc/virtual/2026/poster/153251	included	用分群评分分布和理由对齐评估模型能否代替人评数学题。
-150438	A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks	https://neurips.cc/virtual/2026/poster/150438	pending	-
-139661	AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment	https://neurips.cc/virtual/2026/poster/139661	pending	-
-152593	AmbientFM: A Foundation Model for Ambient Sensing	https://neurips.cc/virtual/2026/poster/152593	pending	-
-155466	AmbiguousWorld: Benchmarking and Resolving Ambiguous Instructions in Video World Models	https://neurips.cc/virtual/2026/poster/155466	pending	-
-150099	A Mean-Field Framework for Inference-Time Distributional Control of Diffusion Models	https://neurips.cc/virtual/2026/poster/150099	pending	-
-155536	A Measure-Theoretic Analysis of Reasoning: Structural Generalization and Approximation Limits	https://neurips.cc/virtual/2026/poster/155536	pending	-
-153805	A Mechanistic Analysis of Looped Reasoning Language Models	https://neurips.cc/virtual/2026/poster/153805	pending	-
-153037	A Mechanistic Interpretability Study of an Astronomical Foundation Model	https://neurips.cc/virtual/2026/poster/153037	pending	-
-148276	A Mechanistic Investigation of Theory of Mind in a Large Language Model	https://neurips.cc/virtual/2026/poster/148276	pending	-
-155619	A Memory Efficient Unified Algorithm for Online Learning of Linear Dynamical Systems	https://neurips.cc/virtual/2026/poster/155619	pending	-
-154490	A meshfree exterior calculus for generalizable and data-efficient learning of physics from point clouds	https://neurips.cc/virtual/2026/poster/154490	pending	-
-148347	A Method-Class Divide in Sub-4-Bit Quantization:\\Iterative vs.\ Single-Pass Sensitivity to Data Composition	https://neurips.cc/virtual/2026/poster/148347	pending	-
-150193	A method to automatically discover symbolic local learning rules	https://neurips.cc/virtual/2026/poster/150193	pending	-
-153106	AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/153106	pending	-
-154520	AMGenC: Generating Charge Balanced Amorphous Materials	https://neurips.cc/virtual/2026/poster/154520	pending	-
-153946	A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems	https://neurips.cc/virtual/2026/poster/153946	pending	-
-151475	A Model of Diverse Sampling from Language Models	https://neurips.cc/virtual/2026/poster/151475	pending	-
-152127	Amortized Bayesian Experimental Design with In-Context Knowledge Conditioning	https://neurips.cc/virtual/2026/poster/152127	pending	-
-152907	Amortized Guidance for Image Inpainting with Pretrained Diffusion Models	https://neurips.cc/virtual/2026/poster/152907	pending	-
-149276	Amortized Linear-time Exact Shapley Value for Product-Kernel Methods	https://neurips.cc/virtual/2026/poster/149276	pending	-
-154667	Amortized Molecular Optimization via Group Relative Policy Optimization	https://neurips.cc/virtual/2026/poster/154667	pending	-
-156137	Amortized Optimal Transport from Sliced Potentials	https://neurips.cc/virtual/2026/poster/156137	pending	-
-154315	Amortized-Precision Quantization for Early-Exit Vision Transformers	https://neurips.cc/virtual/2026/poster/154315	pending	-
-152433	Amortized Structured Stochastic Variational Inference for Gaussian Process Latent Variable Models	https://neurips.cc/virtual/2026/poster/152433	pending	-
-150646	Amortized Vine Copulas for High-Dimensional Density and Information Estimation	https://neurips.cc/virtual/2026/poster/150646	pending	-
-152395	Amortizing Generative Guidance for Model-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152395	pending	-
-148358	Amplitude Decoupling in Gaussian Process Training: Exact Decomposition, Pole Cancellation, and Evaluation-Efficient Optimization	https://neurips.cc/virtual/2026/poster/148358	pending	-
-149128	AMPS: Adaptive Modality Preference Steering via Functional Entropy	https://neurips.cc/virtual/2026/poster/149128	pending	-
-156737	A Multi-Fidelity Control Variate Approach for Policy Gradient Estimation	https://neurips.cc/virtual/2026/poster/156737	pending	-
-139715	A Multimodal Benchmark for Evaluating Cause-of-Death Inference Using Child Health and Mortality Data	https://neurips.cc/virtual/2026/poster/139715	pending	-
-154781	A multi-scale information geometry reveals the structure of mutual information in neural populations	https://neurips.cc/virtual/2026/poster/154781	pending	-
-152756	AMUSE: Anytime Muon with Stable Gradient Evaluation	https://neurips.cc/virtual/2026/poster/152756	pending	-
-150996	AnaDiffusion: Anatomically Compositional Latent Diffusion for Controllable 3D Brain MRI Generation	https://neurips.cc/virtual/2026/poster/150996	pending	-
-150608	AnalogToBi: Device-Level Analog Circuit Topology Generation via Bipartite Graph and Grammar Guided Decoding	https://neurips.cc/virtual/2026/poster/150608	pending	-
-155602	Analytical Correction for Subsampling Bias in Drifting Models	https://neurips.cc/virtual/2026/poster/155602	pending	-
-148817	Analyzing and Guiding Zero-Shot Posterior Sampling in Diffusion Models	https://neurips.cc/virtual/2026/poster/148817	pending	-
-155205	Analyzing Learning-Dynamics Across Loss and Prediction Choices for Diffusion Models	https://neurips.cc/virtual/2026/poster/155205	pending	-
-150925	An Analytical Model of Compute-limited Multistage Training Pipelines	https://neurips.cc/virtual/2026/poster/150925	pending	-
-156663	An Anytime Algorithm for Good Arm Identification	https://neurips.cc/virtual/2026/poster/156663	pending	-
-139664	An Assessment of Human vs. Model Uncertainty in Soft-Label Learning and Calibration	https://neurips.cc/virtual/2026/poster/139664	pending	-
-151182	Anatomy-Activated Mixture-of-Experts for 3D Medical Vision-Language Pre-training	https://neurips.cc/virtual/2026/poster/151182	pending	-
-155842	Anatomy-aware Spatio-Temporal Modeling for Echocardiography Segmentation	https://neurips.cc/virtual/2026/poster/155842	pending	-
-155331	Anatomy of Off-Policy Policy Gradient: Importance Sampling, KL Regularization, and Baselines	https://neurips.cc/virtual/2026/poster/155331	pending	-
-154881	Anatomy-Preserving Unpaired Medical Image Translation via Shared Latent Anchoring	https://neurips.cc/virtual/2026/poster/154881	pending	-
-152308	An Axiomatic Analysis of DPO and NLHF as Reference-Dependent Probabilistic Voting Rules	https://neurips.cc/virtual/2026/poster/152308	pending	-
-152132	Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation	https://neurips.cc/virtual/2026/poster/152132	pending	-
-139276	ANCHOR: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark	https://neurips.cc/virtual/2026/poster/139276	pending	-
-153901	Anchored Protein Engineering	https://neurips.cc/virtual/2026/poster/153901	pending	-
-153364	Anchoring Adversarial Trajectories to Data Manifolds: A Bilevel Transfer Optimization Framework	https://neurips.cc/virtual/2026/poster/153364	pending	-
-148935	Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning	https://neurips.cc/virtual/2026/poster/148935	pending	-
-149063	Anchoring Physiological Invariance, Expanding Domain Plasticity: Prior-Stabilized Dynamic Adaptation for Continual rPPG Measurement	https://neurips.cc/virtual/2026/poster/149063	pending	-
-154471	Anchoring Reasoning Distillation via Syntactic Constraints	https://neurips.cc/virtual/2026/poster/154471	pending	-
-153959	Anchor PCA	https://neurips.cc/virtual/2026/poster/153959	pending	-
-149182	AnchorRep: Defending LLMs Against Cross-Model Adversarial Transfer via Representation Repulsion	https://neurips.cc/virtual/2026/poster/149182	pending	-
-150033	AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization	https://neurips.cc/virtual/2026/poster/150033	pending	-
-152945	ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling	https://neurips.cc/virtual/2026/poster/152945	pending	-
-139580	AndroidReality: How Far Are Mobile Agents from the Real World?	https://neurips.cc/virtual/2026/poster/139580	pending	-
-150497	A Near-optimal SQ Lower Bound for Smoothed Agnostic Learning of Boolean Halfspaces	https://neurips.cc/virtual/2026/poster/150497	pending	-
-150140	An Educated Guess: Deriving Statistically Aligned Gradient Estimates for Zeroth-Order Optimization	https://neurips.cc/virtual/2026/poster/150140	pending	-
-153387	An Efficient Algorithm for Thresholding Monte Carlo Tree Search	https://neurips.cc/virtual/2026/poster/153387	pending	-
-153426	An Efficient Cross-modal Feature Reconstruction Model for Multimodal Multi-class Anomaly Detection	https://neurips.cc/virtual/2026/poster/153426	pending	-
-151262	An Efficient Geometric Characterization of Robust Fair Learning	https://neurips.cc/virtual/2026/poster/151262	pending	-
-139297	An Embarrassingly Simple Graph Heuristic Reveals Shortcut-Solvable Benchmarks for Sequential Recommendation	https://neurips.cc/virtual/2026/poster/139297	pending	-
+150438	A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks	https://neurips.cc/virtual/2026/poster/150438	included	先生成工具调用序列再写题目
+139661	AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment	https://neurips.cc/virtual/2026/poster/139661	included	在沙箱内分别评估行为与理由
+152593	AmbientFM: A Foundation Model for Ambient Sensing	https://neurips.cc/virtual/2026/poster/152593	included	检验单个信道表示能否替代逐任务模型
+155466	AmbiguousWorld: Benchmarking and Resolving Ambiguous Instructions in Video World Models	https://neurips.cc/virtual/2026/poster/155466	included	用多路径规划和反馈处理含糊指令
+150099	A Mean-Field Framework for Inference-Time Distributional Control of Diffusion Models	https://neurips.cc/virtual/2026/poster/150099	included	群体目标用交互粒子而非逐样本独立打分
+155536	A Measure-Theoretic Analysis of Reasoning: Structural Generalization and Approximation Limits	https://neurips.cc/virtual/2026/poster/155536	included	分开扫描位置编码、深度和宽度
+153805	A Mechanistic Analysis of Looped Reasoning Language Models	https://neurips.cc/virtual/2026/poster/153805	included	测每层循环轨迹是否稳定以诊断额外迭代价值
+153037	A Mechanistic Interpretability Study of an Astronomical Foundation Model	https://neurips.cc/virtual/2026/poster/153037	included	用消融验证探针发现的天文特征是否实际参与预测
+148276	A Mechanistic Investigation of Theory of Mind in a Large Language Model	https://neurips.cc/virtual/2026/poster/148276	included	以非心智匹配对照检验所谓心智推理模块
+155619	A Memory Efficient Unified Algorithm for Online Learning of Linear Dynamical Systems	https://neurips.cc/virtual/2026/poster/155619	included	按不稳定复杂度而非隐藏维度选择预测器容量
+154490	A meshfree exterior calculus for generalizable and data-efficient learning of physics from point clouds	https://neurips.cc/virtual/2026/poster/154490	included	点云上构造守恒算子后再学习通量
+148347	A Method-Class Divide in Sub-4-Bit Quantization:\\Iterative vs.\ Single-Pass Sensitivity to Data Composition	https://neurips.cc/virtual/2026/poster/148347	included	极低位宽下为迭代量化单独优化校准数据
+150193	A method to automatically discover symbolic local learning rules	https://neurips.cc/virtual/2026/poster/150193	included	用稀疏符号损失搜索替代局部黑箱学习器
+153106	AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/153106	included	用可解释序列结构先验约束token路由
+154520	AMGenC: Generating Charge Balanced Amorphous Materials	https://neurips.cc/virtual/2026/poster/154520	included	软投影维持约束趋势，再在终点离散投影
+153946	A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems	https://neurips.cc/virtual/2026/poster/153946	included	给零样本动力学模型加入近邻后继的极简基线
+151475	A Model of Diverse Sampling from Language Models	https://neurips.cc/virtual/2026/poster/151475	included	用DPP优化整组候选的质量和互补性
+152127	Amortized Bayesian Experimental Design with In-Context Knowledge Conditioning	https://neurips.cc/virtual/2026/poster/152127	included	额外知识进入上下文前按当前证据过滤
+152907	Amortized Guidance for Image Inpainting with Pretrained Diffusion Models	https://neurips.cc/virtual/2026/poster/152907	included	离线学习可复用修补引导，部署冻结底座
+149276	Amortized Linear-time Exact Shapley Value for Product-Kernel Methods	https://neurips.cc/virtual/2026/poster/149276	included	积核下利用代数结构求精确归因
+154667	Amortized Molecular Optimization via Group Relative Policy Optimization	https://neurips.cc/virtual/2026/poster/154667	excluded	该工作的主要机制面向分子结构优化，本批不提取其设计操作。
+156137	Amortized Optimal Transport from Sliced Potentials	https://neurips.cc/virtual/2026/poster/156137	included	用切片势预测完整传输势
+154315	Amortized-Precision Quantization for Early-Exit Vision Transformers	https://neurips.cc/virtual/2026/poster/154315	included	按层实际执行概率联合选位宽与退出门槛
+152433	Amortized Structured Stochastic Variational Inference for Gaussian Process Latent Variable Models	https://neurips.cc/virtual/2026/poster/152433	included	让潜变量后验依赖诱导点
+150646	Amortized Vine Copulas for High-Dimensional Density and Information Estimation	https://neurips.cc/virtual/2026/poster/150646	included	复用一个二元估计器并校正边际
+152395	Amortizing Generative Guidance for Model-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152395	included	保留规划器高价值动作的多个模式
+148358	Amplitude Decoupling in Gaussian Process Training: Exact Decomposition, Pole Cancellation, and Evaluation-Efficient Optimization	https://neurips.cc/virtual/2026/poster/148358	included	先剖面化幅值再优化核形状
+149128	AMPS: Adaptive Modality Preference Steering via Functional Entropy	https://neurips.cc/virtual/2026/poster/149128	included	按样本的模态贡献调整干预强度
+156737	A Multi-Fidelity Control Variate Approach for Policy Gradient Estimation	https://neurips.cc/virtual/2026/poster/156737	included	把低保真仿真作为控制变量
+139715	A Multimodal Benchmark for Evaluating Cause-of-Death Inference Using Child Health and Mortality Data	https://neurips.cc/virtual/2026/poster/139715	excluded	摘要的主要贡献是建立特定医疗任务基准，缺少可独立验证、能指导一般建模选择的机制或规律。
+154781	A multi-scale information geometry reveals the structure of mutual information in neural populations	https://neurips.cc/virtual/2026/poster/154781	included	按刺激分辨率比较神经编码
+152756	AMUSE: Anytime Muon with Stable Gradient Evaluation	https://neurips.cc/virtual/2026/poster/152756	included	同时检查 Muon 低曲率进展和高曲率振荡
+150996	AnaDiffusion: Anatomically Compositional Latent Diffusion for Controllable 3D Brain MRI Generation	https://neurips.cc/virtual/2026/poster/150996	included	用局部解剖生成约束全局扩散
+150608	AnalogToBi: Device-Level Analog Circuit Topology Generation via Bipartite Graph and Grammar Guided Decoding	https://neurips.cc/virtual/2026/poster/150608	included	用双部图语法约束拓扑输出
+155602	Analytical Correction for Subsampling Bias in Drifting Models	https://neurips.cc/virtual/2026/poster/155602	included	用批内统计校正软最大质心估计
+148817	Analyzing and Guiding Zero-Shot Posterior Sampling in Diffusion Models	https://neurips.cc/virtual/2026/poster/148817	included	在谱域确定后验采样参数
+155205	Analyzing Learning-Dynamics Across Loss and Prediction Choices for Diffusion Models	https://neurips.cc/virtual/2026/poster/155205	included	独立选择网络输出空间和损失空间
+150925	An Analytical Model of Compute-limited Multistage Training Pipelines	https://neurips.cc/virtual/2026/poster/150925	included	根据预训练程度和数据质量调整各阶段预算
+156663	An Anytime Algorithm for Good Arm Identification	https://neurips.cc/virtual/2026/poster/156663	included	用可随时停止的策略识别过阈值行动
+139664	An Assessment of Human vs. Model Uncertainty in Soft-Label Learning and Calibration	https://neurips.cc/virtual/2026/poster/139664	included	分开软标签的不确定性和标签众数变化
+151182	Anatomy-Activated Mixture-of-Experts for 3D Medical Vision-Language Pre-training	https://neurips.cc/virtual/2026/poster/151182	included	按全局器官分布而非孤立 token 分配专家。
+155842	Anatomy-aware Spatio-Temporal Modeling for Echocardiography Segmentation	https://neurips.cc/virtual/2026/poster/155842	included	将解剖关系写进注意力，并独立拟合局部周期运动。
+155331	Anatomy of Off-Policy Policy Gradient: Importance Sampling, KL Regularization, and Baselines	https://neurips.cc/virtual/2026/poster/155331	included	复用轨迹时成对使用 KL 正则和组均值基线。
+154881	Anatomy-Preserving Unpaired Medical Image Translation via Shared Latent Anchoring	https://neurips.cc/virtual/2026/poster/154881	included	先学并冻结跨模态结构空间，再拟合目标域外观。
+152308	An Axiomatic Analysis of DPO and NLHF as Reference-Dependent Probabilistic Voting Rules	https://neurips.cc/virtual/2026/poster/152308	included	用单调性与阶段交换性检验后训练目标。
+152132	Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation	https://neurips.cc/virtual/2026/poster/152132	included	以复杂度驱动的三维锚点控制高斯数量。
+139276	ANCHOR: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark	https://neurips.cc/virtual/2026/poster/139276	included	把答案正确与推理是否引用视听证据分开测。
+153901	Anchored Protein Engineering	https://neurips.cc/virtual/2026/poster/153901	excluded	主贡献集中于蛋白质序列工程，摘要未提供可单独收录的非工程化评测洞见。
+153364	Anchoring Adversarial Trajectories to Data Manifolds: A Bilevel Transfer Optimization Framework	https://neurips.cc/virtual/2026/poster/153364	excluded	主要贡献在提升攻击迁移能力，摘要未给出有独立验证的防御方法。
+148935	Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning	https://neurips.cc/virtual/2026/poster/148935	included	先规划结构化检查发现，再逐字生成报告。
+149063	Anchoring Physiological Invariance, Expanding Domain Plasticity: Prior-Stabilized Dynamic Adaptation for Continual rPPG Measurement	https://neurips.cc/virtual/2026/poster/149063	included	保护任务关键参数，只在偏移明显层扩容。
+154471	Anchoring Reasoning Distillation via Syntactic Constraints	https://neurips.cc/virtual/2026/poster/154471	included	保留弱教师正确的计划，掩掉错误结果 token。
+153959	Anchor PCA	https://neurips.cc/virtual/2026/poster/153959	included	学习跨域稳定的方差方向，而非直接池化 PCA。
+149182	AnchorRep: Defending LLMs Against Cross-Model Adversarial Transfer via Representation Repulsion	https://neurips.cc/virtual/2026/poster/149182	included	同时测防御的恶意请求失败与正常输出乱码。
+150033	AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization	https://neurips.cc/virtual/2026/poster/150033	included	用训练时第三人称空间监督补第一视角身体遮挡。
+152945	ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling	https://neurips.cc/virtual/2026/poster/152945	included	学习跨层残差连接布局，检验深层利用率。
+139580	AndroidReality: How Far Are Mobile Agents from the Real World?	https://neurips.cc/virtual/2026/poster/139580	included	按状态、转移、动作分别施加界面扰动。
+150497	A Near-optimal SQ Lower Bound for Smoothed Agnostic Learning of Boolean Halfspaces	https://neurips.cc/virtual/2026/poster/150497	included	按坐标翻转噪声强度判断布尔半空间学习的可解难度。
+150140	An Educated Guess: Deriving Statistically Aligned Gradient Estimates for Zeroth-Order Optimization	https://neurips.cc/virtual/2026/poster/150140	included	用前向激活谱构造探测方向。
+153387	An Efficient Algorithm for Thresholding Monte Carlo Tree Search	https://neurips.cc/virtual/2026/poster/153387	included	根节点只需判断过阈值时，直接分配序贯采样给阈值判定。
+153426	An Efficient Cross-modal Feature Reconstruction Model for Multimodal Multi-class Anomaly Detection	https://neurips.cc/virtual/2026/poster/153426	included	用跨模态重建代替同模态重建，检验是否更能区分异常。
+151262	An Efficient Geometric Characterization of Robust Fair Learning	https://neurips.cc/virtual/2026/poster/151262	included	用线性规划检查严格公平约束是否造成准确率对分布扰动敏感。
+139297	An Embarrassingly Simple Graph Heuristic Reveals Shortcut-Solvable Benchmarks for Sequential Recommendation	https://neurips.cc/virtual/2026/poster/139297	included	在宣称生成式推荐学到长历史之前，先测试仅用最近一两项的图检索。
 151029	An Empirical Study on Noisy Data and LLM Pretraining Loss Divergence	https://neurips.cc/virtual/2026/poster/151029	pending	-
 149795	An Enigma of Artificial Reason: Investigating the Production-Evaluation Gap in Large Reasoning Models	https://neurips.cc/virtual/2026/poster/149795	pending	-
 154592	An Equivariance Principle for Optimizer Design: Symmetry-Compatible Updates for Embeddings, LM Heads, and MoE Routers	https://neurips.cc/virtual/2026/poster/154592	pending	-

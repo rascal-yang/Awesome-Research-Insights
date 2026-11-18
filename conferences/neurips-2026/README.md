@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **443** 篇，暂收录 **382** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **506** 篇，暂收录 **441** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -390,3 +390,62 @@
 | 多模态学习 | 数据审计 | [A Matched-Budget Audit Framework for Recaptioned Image-Text Supervision Distributions](cards.md#paper-139543) | 固定描述预算，比较重写图文数据的内容覆盖与图像支持度。 |
 | 学习理论 | 泛化诊断 | [A mathematical theory of balancing relational generalization and memorization](cards.md#paper-153152) | 同时用新关系组合和显式反例测试规则外推。 |
 | 大语言模型 / 教育 | 人机评测 | [A Matter of Interest: Understanding Interestingness Judgments of Math Problems in Humans and Language Models](cards.md#paper-153251) | 用分群评分分布和理由对齐评估模型能否代替人评数学题。 |
+| Agent | 评测生成 | [A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks](cards.md#paper-150438) | 先生成工具调用序列再写题目 |
+| Agent / 安全 | 风险评测 | [AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment](cards.md#paper-139661) | 在沙箱内分别评估行为与理由 |
+| 无线感知 | 自监督预训练 | [AmbientFM: A Foundation Model for Ambient Sensing](cards.md#paper-152593) | 检验单个信道表示能否替代逐任务模型 |
+| 视频生成 | 推理时规划 | [AmbiguousWorld: Benchmarking and Resolving Ambiguous Instructions in Video World Models](cards.md#paper-155466) | 用多路径规划和反馈处理含糊指令 |
+| 生成建模 | 分布控制 | [A Mean-Field Framework for Inference-Time Distributional Control of Diffusion Models](cards.md#paper-150099) | 群体目标用交互粒子而非逐样本独立打分 |
+| 学习理论 | 结构泛化 | [A Measure-Theoretic Analysis of Reasoning: Structural Generalization and Approximation Limits](cards.md#paper-155536) | 分开扫描位置编码、深度和宽度 |
+| 可解释性 | 循环模型 | [A Mechanistic Analysis of Looped Reasoning Language Models](cards.md#paper-153805) | 测每层循环轨迹是否稳定以诊断额外迭代价值 |
+| 科学机器学习 | 因果诊断 | [A Mechanistic Interpretability Study of an Astronomical Foundation Model](cards.md#paper-153037) | 用消融验证探针发现的天文特征是否实际参与预测 |
+| 可解释性 | 匹配反事实 | [A Mechanistic Investigation of Theory of Mind in a Large Language Model](cards.md#paper-148276) | 以非心智匹配对照检验所谓心智推理模块 |
+| 控制理论 | 在线预测 | [A Memory Efficient Unified Algorithm for Online Learning of Linear Dynamical Systems](cards.md#paper-155619) | 按不稳定复杂度而非隐藏维度选择预测器容量 |
+| 科学机器学习 | 守恒离散化 | [A meshfree exterior calculus for generalizable and data-efficient learning of physics from point clouds](cards.md#paper-154490) | 点云上构造守恒算子后再学习通量 |
+| 大语言模型 | 量化诊断 | [A Method-Class Divide in Sub-4-Bit Quantization:\\Iterative vs.\ Single-Pass Sensitivity to Data Composition](cards.md#paper-148347) | 极低位宽下为迭代量化单独优化校准数据 |
+| 优化 | 局部学习规则 | [A method to automatically discover symbolic local learning rules](cards.md#paper-150193) | 用稀疏符号损失搜索替代局部黑箱学习器 |
+| 时间序列 | 专家路由 | [AME-TS: Anchored Mixture-of-Experts for Time Series Forecasting](cards.md#paper-153106) | 用可解释序列结构先验约束token路由 |
+| 科学机器学习 | 约束生成 | [AMGenC: Generating Charge Balanced Amorphous Materials](cards.md#paper-154520) | 软投影维持约束趋势，再在终点离散投影 |
+| 时间序列 | 结构消融 | [A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems](cards.md#paper-153946) | 给零样本动力学模型加入近邻后继的极简基线 |
+| 大语言模型 | 集合采样 | [A Model of Diverse Sampling from Language Models](cards.md#paper-151475) | 用DPP优化整组候选的质量和互补性 |
+| 贝叶斯优化 | 实验设计 | [Amortized Bayesian Experimental Design with In-Context Knowledge Conditioning](cards.md#paper-152127) | 额外知识进入上下文前按当前证据过滤 |
+| 计算机视觉 | 扩散引导 | [Amortized Guidance for Image Inpainting with Pretrained Diffusion Models](cards.md#paper-152907) | 离线学习可复用修补引导，部署冻结底座 |
+| 可解释性 | 核归因 | [Amortized Linear-time Exact Shapley Value for Product-Kernel Methods](cards.md#paper-149276) | 积核下利用代数结构求精确归因 |
+| 优化 | 最优传输 | [Amortized Optimal Transport from Sliced Potentials](cards.md#paper-156137) | 用切片势预测完整传输势 |
+| 计算机视觉 | 推理量化 | [Amortized-Precision Quantization for Early-Exit Vision Transformers](cards.md#paper-154315) | 按层实际执行概率联合选位宽与退出门槛 |
+| 概率建模 | 变分推断 | [Amortized Structured Stochastic Variational Inference for Gaussian Process Latent Variable Models](cards.md#paper-152433) | 让潜变量后验依赖诱导点 |
+| 统计学习 | 密度估计 | [Amortized Vine Copulas for High-Dimensional Density and Information Estimation](cards.md#paper-150646) | 复用一个二元估计器并校正边际 |
+| 强化学习 | 规划蒸馏 | [Amortizing Generative Guidance for Model-Based Reinforcement Learning](cards.md#paper-152395) | 保留规划器高价值动作的多个模式 |
+| 概率建模 | 超参数优化 | [Amplitude Decoupling in Gaussian Process Training: Exact Decomposition, Pole Cancellation, and Evaluation-Efficient Optimization](cards.md#paper-148358) | 先剖面化幅值再优化核形状 |
+| 多模态学习 | 自适应推理 | [AMPS: Adaptive Modality Preference Steering via Functional Entropy](cards.md#paper-149128) | 按样本的模态贡献调整干预强度 |
+| 强化学习 | 降方差 | [A Multi-Fidelity Control Variate Approach for Policy Gradient Estimation](cards.md#paper-156737) | 把低保真仿真作为控制变量 |
+| 计算神经科学 | 信息几何 | [A multi-scale information geometry reveals the structure of mutual information in neural populations](cards.md#paper-154781) | 按刺激分辨率比较神经编码 |
+| 深度学习 | 优化器 | [AMUSE: Anytime Muon with Stable Gradient Evaluation](cards.md#paper-152756) | 同时检查 Muon 低曲率进展和高曲率振荡 |
+| 医学影像 | 可控生成 | [AnaDiffusion: Anatomically Compositional Latent Diffusion for Controllable 3D Brain MRI Generation](cards.md#paper-150996) | 用局部解剖生成约束全局扩散 |
+| 电子设计 | 结构生成 | [AnalogToBi: Device-Level Analog Circuit Topology Generation via Bipartite Graph and Grammar Guided Decoding](cards.md#paper-150608) | 用双部图语法约束拓扑输出 |
+| 生成模型 | 偏差校正 | [Analytical Correction for Subsampling Bias in Drifting Models](cards.md#paper-155602) | 用批内统计校正软最大质心估计 |
+| 生成模型 | 逆问题 | [Analyzing and Guiding Zero-Shot Posterior Sampling in Diffusion Models](cards.md#paper-148817) | 在谱域确定后验采样参数 |
+| 生成模型 | 训练诊断 | [Analyzing Learning-Dynamics Across Loss and Prediction Choices for Diffusion Models](cards.md#paper-155205) | 独立选择网络输出空间和损失空间 |
+| 学习理论 | 算力分配 | [An Analytical Model of Compute-limited Multistage Training Pipelines](cards.md#paper-150925) | 根据预训练程度和数据质量调整各阶段预算 |
+| 强化学习 | 序贯试验 | [An Anytime Algorithm for Good Arm Identification](cards.md#paper-156663) | 用可随时停止的策略识别过阈值行动 |
+| 统计学习 | 软标签诊断 | [An Assessment of Human vs. Model Uncertainty in Soft-Label Learning and Calibration](cards.md#paper-139664) | 分开软标签的不确定性和标签众数变化 |
+| 医学视觉 | 专家路由 | [Anatomy-Activated Mixture-of-Experts for 3D Medical Vision-Language Pre-training](cards.md#paper-151182) | 按全局器官分布而非孤立 token 分配专家。 |
+| 医学视觉 | 时空建模 | [Anatomy-aware Spatio-Temporal Modeling for Echocardiography Segmentation](cards.md#paper-155842) | 将解剖关系写进注意力，并独立拟合局部周期运动。 |
+| 强化学习 | 离策略梯度 | [Anatomy of Off-Policy Policy Gradient: Importance Sampling, KL Regularization, and Baselines](cards.md#paper-155331) | 复用轨迹时成对使用 KL 正则和组均值基线。 |
+| 医学视觉 | 条件生成 | [Anatomy-Preserving Unpaired Medical Image Translation via Shared Latent Anchoring](cards.md#paper-154881) | 先学并冻结跨模态结构空间，再拟合目标域外观。 |
+| 大语言模型 | 偏好聚合 | [An Axiomatic Analysis of DPO and NLHF as Reference-Dependent Probabilistic Voting Rules](cards.md#paper-152308) | 用单调性与阶段交换性检验后训练目标。 |
+| 计算机视觉 | 三维重建 | [Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation](cards.md#paper-152132) | 以复杂度驱动的三维锚点控制高斯数量。 |
+| 多模态学习 | 证据评测 | [ANCHOR: Audio-Visually Grounded Chain-of-Thought Reasoning Benchmark](cards.md#paper-139276) | 把答案正确与推理是否引用视听证据分开测。 |
+| 医学视觉语言 | 结构生成 | [Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning](cards.md#paper-148935) | 先规划结构化检查发现，再逐字生成报告。 |
+| 计算机视觉 | 持续适配 | [Anchoring Physiological Invariance, Expanding Domain Plasticity: Prior-Stabilized Dynamic Adaptation for Continual rPPG Measurement](cards.md#paper-149063) | 保护任务关键参数，只在偏移明显层扩容。 |
+| 大语言模型 | 推理蒸馏 | [Anchoring Reasoning Distillation via Syntactic Constraints](cards.md#paper-154471) | 保留弱教师正确的计划，掩掉错误结果 token。 |
+| 统计学习 | 降维 | [Anchor PCA](cards.md#paper-153959) | 学习跨域稳定的方差方向，而非直接池化 PCA。 |
+| 大语言模型 | 安全评测 | [AnchorRep: Defending LLMs Against Cross-Model Adversarial Transfer via Representation Repulsion](cards.md#paper-149182) | 同时测防御的恶意请求失败与正常输出乱码。 |
+| 具身智能 | 世界模型 | [AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization](cards.md#paper-150033) | 用训练时第三人称空间监督补第一视角身体遮挡。 |
+| 深度学习 | 网络拓扑 | [ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling](cards.md#paper-152945) | 学习跨层残差连接布局，检验深层利用率。 |
+| Agent | 鲁棒评测 | [AndroidReality: How Far Are Mobile Agents from the Real World?](cards.md#paper-139580) | 按状态、转移、动作分别施加界面扰动。 |
+| 学习理论 | 样本复杂度 | [A Near-optimal SQ Lower Bound for Smoothed Agnostic Learning of Boolean Halfspaces](cards.md#paper-150497) | 按坐标翻转噪声强度判断布尔半空间学习的可解难度。 |
+| 优化 | 零阶估计 | [An Educated Guess: Deriving Statistically Aligned Gradient Estimates for Zeroth-Order Optimization](cards.md#paper-150140) | 用前向激活谱构造探测方向。 |
+| 强化学习 | 树搜索 | [An Efficient Algorithm for Thresholding Monte Carlo Tree Search](cards.md#paper-153387) | 根节点只需判断过阈值时，直接分配序贯采样给阈值判定。 |
+| 多模态学习 | 异常检测 | [An Efficient Cross-modal Feature Reconstruction Model for Multimodal Multi-class Anomaly Detection](cards.md#paper-153426) | 用跨模态重建代替同模态重建，检验是否更能区分异常。 |
+| 学习理论 / 公平性 | 约束诊断 | [An Efficient Geometric Characterization of Robust Fair Learning](cards.md#paper-151262) | 用线性规划检查严格公平约束是否造成准确率对分布扰动敏感。 |
+| 推荐系统 | 基准诊断 | [An Embarrassingly Simple Graph Heuristic Reveals Shortcut-Solvable Benchmarks for Sequential Recommendation](cards.md#paper-139297) | 在宣称生成式推荐学到长历史之前，先测试仅用最近一两项的图检索。 |
