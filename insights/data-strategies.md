@@ -98,6 +98,7 @@
 - [把训练图直径限制在算法容量内](../conferences/icml-2026/cards/5501-5600.md#ye26f-data-strategies) · Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data
 - [紧致度簇顺序与边界混合回放](../conferences/icml-2026/cards/5501-5600.md#ye26i-data-strategies) · Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity
 - [按基础能力边缘而非饱和任务分配RL数据](../conferences/icml-2026/cards/5801-5900.md#zhang26en-data-strategies) · On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models
+- [用reward波动和entropy门控UCB集中group rollouts](../conferences/icml-2026/cards/5901-6000.md#zhang26gc-data-strategies) · Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement
 
 <a id="by-computer-vision"></a>
 
@@ -205,6 +206,7 @@
 - [用相关与无关遮挡区分证据依赖](../conferences/icml-2026/cards/5201-5300.md#xu26x-data-strategies) · DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning
 - [标签多样性驱动空间关系泛化](../conferences/icml-2026/cards/5301-5400.md#yamamoto26a-data-strategies) · Left–Right Symmetry Breaking in CLIP-Style Vision-Language Models Trained on Synthetic Spatial-Relation Data
 - [用共享与独有区域构造对称检索对](../conferences/icml-2026/cards/5401-5500.md#yang26db-data-strategies) · SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval
+- [按相对不确定性的平衡点选模态对齐样本](../conferences/icml-2026/cards/5901-6000.md#zhang26fw-data-strategies) · Beyond Fixed Biases: Decoding the Role of Reasoning Uncertainty in MLLM Modality Conflicts
 
 <a id="by-ml-foundations"></a>
 
@@ -271,6 +273,7 @@
 - [先精确邻域锥化再近似的图粗化](../conferences/icml-2026/cards/5001-5100.md#wu26ac-data-strategies) · Scalable Topology-Preserving Graph Coarsening: Concepts and Algorithms
 - [节点超边异质度共同控制mask与传播](../conferences/icml-2026/cards/5401-5500.md#yao26e-data-strategies) · H$^2$CL: Heterogeneity-Aware Hypergraph Contrastive Learning for Robust Representation Learning
 - [结构签名约束的少数类合成](../conferences/icml-2026/cards/5501-5600.md#yin26d-data-strategies) · Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases
+- [以原logged后缀rank作自生成序列的保真门槛](../conferences/icml-2026/cards/5901-6000.md#zhang26gf-data-strategies) · Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control
 
 <a id="by-scientific-ml"></a>
 

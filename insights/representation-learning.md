@@ -113,6 +113,7 @@
 - [用提示条件词表分布监督短文主题重建](../conferences/icml-2026/cards/2301-2400.md#li26a-representation-learning) · Improving Topic Modeling by Distilling Soft Labels from Language Models
 - [双曲检索层级保真池化](../conferences/icml-2026/cards/3101-3200.md#madhu26a-representation-learning) · HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation
 - [共享词表生成式语言识别](../conferences/icml-2026/cards/3201-3300.md#meister26a-representation-learning) · What Language is This? Ask Your Tokenizer.
+- [比较多层attention values而非末层hidden的句向量](../conferences/icml-2026/cards/5901-6000.md#zhang26ga-representation-learning) · LLM-based Embeddings: Attention Values Encode Sentence Semantics Better Than Hidden States
 
 <a id="by-reinforcement-learning"></a>
 

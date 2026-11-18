@@ -659,6 +659,7 @@
 - [多类公平分类的属性盲对偶校准](../conferences/icml-2026/cards/5801-5900.md#zhang26cj-theory-statistics) · Demystifying the Optimal Fair Classifier in Multi-Class Classification
 - [用等式约束与Chebyshev penalty解凸下层多任务bilevel](../conferences/icml-2026/cards/5801-5900.md#zhang26er-theory-statistics) · A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization
 - [量化噪声几何改变模型与样本有效规模](../conferences/icml-2026/cards/5901-6000.md#zhang26fq-theory-statistics) · Scaling Laws for Precision in High-Dimensional Linear Regression
+- [检查多模型数据循环的curation交叉影响](../conferences/icml-2026/cards/5901-6000.md#zhang26gm-theory-statistics) · When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop
 
 <a id="by-graph-and-recommendation"></a>
 

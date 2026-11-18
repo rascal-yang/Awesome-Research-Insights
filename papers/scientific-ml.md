@@ -171,6 +171,7 @@
 - <a id="schopmans26a-loss-functions"></a>[Efficient Training of Boltzmann Generators Using Off-Policy Log-Dispersion Regularization](../conferences/icml-2026/cards/3901-4000.md#paper-schopmans26a)
 - <a id="seo26c-loss-functions"></a>[Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../conferences/icml-2026/cards/4001-4100.md#paper-seo26c)
 - <a id="wang26av-loss-functions"></a>[Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information](../conferences/icml-2026/cards/4601-4700.md#paper-wang26av)
+- <a id="zhang26gl-loss-functions"></a>[Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gl)
 
 <a id="by-optimization"></a>
 

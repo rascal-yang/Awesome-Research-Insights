@@ -583,6 +583,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yiu26a-training-strategies"></a>[Doubly Outlier-Robust Online Infinite Hidden Markov Model](../../conferences/icml-2026/cards/5501-5600.md#paper-yiu26a)
 - <a id="yu26r-training-strategies"></a>[Scaling Laws of Global Weather Models](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26r)
 - <a id="zakerinia26a-training-strategies"></a>[Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions](../../conferences/icml-2026/cards/5601-5700.md#paper-zakerinia26a)
+- <a id="zhang26fx-training-strategies"></a>[Variational Learning for Insertion-based Generation](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fx)
 
 <a id="by-data-strategies"></a>
 
@@ -695,6 +696,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yu26ae-inference"></a>[MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ae)
 - <a id="yu26au-inference"></a>[FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26au)
 - <a id="yuan26j-inference"></a>[Markov Chain Monte Carlo without Evaluating the Target: an Auxiliary Variable Approach](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26j)
+- <a id="zhang26gd-inference"></a>[Proximal-Based Generative Modeling for Bayesian Inverse Problems](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gd)
 
 <a id="by-representation-learning"></a>
 
@@ -1297,4 +1299,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26cj-theory-statistics"></a>[Demystifying the Optimal Fair Classifier in Multi-Class Classification](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cj)
 - <a id="zhang26er-theory-statistics"></a>[A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26er)
 - <a id="zhang26fq-theory-statistics"></a>[Scaling Laws for Precision in High-Dimensional Linear Regression](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fq)
+- <a id="zhang26gm-theory-statistics"></a>[When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gm)
 <!-- classification:end -->

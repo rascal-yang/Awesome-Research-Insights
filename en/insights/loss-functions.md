@@ -365,4 +365,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Efficient Training of Boltzmann Generators Using Off-Policy Log-Dispersion Regularization](../../conferences/icml-2026/cards/3901-4000.md#schopmans26a-loss-functions) · 中文
 - [Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../../conferences/icml-2026/cards/4001-4100.md#seo26c-loss-functions) · 中文
 - [Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information](../../conferences/icml-2026/cards/4601-4700.md#wang26av-loss-functions) · 中文
+- [Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation](../../conferences/icml-2026/cards/5901-6000.md#zhang26gl-loss-functions) · 中文
 <!-- classification:end -->

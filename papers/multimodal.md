@@ -320,6 +320,7 @@
 - <a id="xu26x-data-strategies"></a>[DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26x)
 - <a id="yamamoto26a-data-strategies"></a>[Left–Right Symmetry Breaking in CLIP-Style Vision-Language Models Trained on Synthetic Spatial-Relation Data](../conferences/icml-2026/cards/5301-5400.md#paper-yamamoto26a)
 - <a id="yang26db-data-strategies"></a>[SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](../conferences/icml-2026/cards/5401-5500.md#paper-yang26db)
+- <a id="zhang26fw-data-strategies"></a>[Beyond Fixed Biases: Decoding the Role of Reasoning Uncertainty in MLLM Modality Conflicts](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fw)
 
 <a id="by-inference"></a>
 

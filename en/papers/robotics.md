@@ -212,6 +212,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="xiang26f-inference"></a>[Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration](../../conferences/icml-2026/cards/5101-5200.md#paper-xiang26f)
 - <a id="xiong26o-inference"></a>[VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26o)
 - <a id="xu26u-inference"></a>[Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26u)
+- <a id="zhang26gi-inference"></a>[Langevin Rollout Optimization for Modelic Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gi)
 
 <a id="by-representation-learning"></a>
 

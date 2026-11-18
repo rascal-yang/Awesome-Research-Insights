@@ -365,4 +365,5 @@
 - [用离策略能量标签校正密度形状](../conferences/icml-2026/cards/3901-4000.md#schopmans26a-loss-functions) · Efficient Training of Boltzmann Generators Using Off-Policy Log-Dispersion Regularization
 - [用独立残差乘积消除 BSDE 损失偏差](../conferences/icml-2026/cards/4001-4100.md#seo26c-loss-functions) · Unbiased and Second-Order-Free Training for High-Dimensional PDEs
 - [按保真度拆分可用监督](../conferences/icml-2026/cards/4601-4700.md#wang26av-loss-functions) · Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information
+- [在最终生成样本蒸馏时加PDE残差](../conferences/icml-2026/cards/5901-6000.md#zhang26gl-loss-functions) · Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation
 <!-- classification:end -->

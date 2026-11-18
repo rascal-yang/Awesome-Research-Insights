@@ -147,6 +147,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="wu26ac-data-strategies"></a>[Scalable Topology-Preserving Graph Coarsening: Concepts and Algorithms](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ac)
 - <a id="yao26e-data-strategies"></a>[H$^2$CL: Heterogeneity-Aware Hypergraph Contrastive Learning for Robust Representation Learning](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26e)
 - <a id="yin26d-data-strategies"></a>[Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26d)
+- <a id="zhang26gf-data-strategies"></a>[Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gf)
 
 <a id="by-inference"></a>
 

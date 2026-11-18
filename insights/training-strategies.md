@@ -279,6 +279,7 @@
 - [几何增长的目标网络冻结周期](../conferences/icml-2026/cards/4901-5000.md#weissmann26a-training-strategies) · The Role of Target Update Frequencies in Q-Learning
 - [用BC对数概率预热AIL奖励](../conferences/icml-2026/cards/5201-5300.md#xu26j-training-strategies) · Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning
 - [合成潜在起点与relay价值训练](../conferences/icml-2026/cards/5201-5300.md#xu26cp-training-strategies) · Mind Dreamer: Untethering Imagination via Active Causal Intervention on Latent Manifolds
+- [交替优化latent policy并把改进蒸馏到固定prior decoder](../conferences/icml-2026/cards/5901-6000.md#zhang26fu-training-strategies) · Generative Online Reinforcement Learning
 
 <a id="by-robotics"></a>
 
@@ -461,6 +462,7 @@
 - [同时限制观测影响与新状态创建](../conferences/icml-2026/cards/5501-5600.md#yiu26a-training-strategies) · Doubly Outlier-Robust Online Infinite Hidden Markov Model
 - [在近参数量匹配下先扫天气模型宽深比](../conferences/icml-2026/cards/5501-5600.md#yu26r-training-strategies) · Scaling Laws of Global Weather Models
 - [用无标签client分布生成低维个性化参数](../conferences/icml-2026/cards/5601-5700.md#zakerinia26a-training-strategies) · Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions
+- [以permutation VI训练变长插入顺序](../conferences/icml-2026/cards/5901-6000.md#zhang26fx-training-strategies) · Variational Learning for Insertion-based Generation
 
 <a id="by-graph-and-recommendation"></a>
 

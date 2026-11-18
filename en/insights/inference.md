@@ -519,6 +519,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26du-inference) · 中文
 - [Semantic Editing with Coupled Stochastic Differential Equations](../../conferences/icml-2026/cards/5801-5900.md#zhang26fb-inference) · 中文
 - [SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation](../../conferences/icml-2026/cards/5801-5900.md#zhang26fd-inference) · 中文
+- [FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection](../../conferences/icml-2026/cards/5901-6000.md#zhang26ge-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -609,6 +610,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration](../../conferences/icml-2026/cards/5101-5200.md#xiang26f-inference) · 中文
 - [VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency](../../conferences/icml-2026/cards/5201-5300.md#xiong26o-inference) · 中文
 - [Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](../../conferences/icml-2026/cards/5201-5300.md#xu26u-inference) · 中文
+- [Langevin Rollout Optimization for Modelic Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26gi-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -790,6 +792,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../../conferences/icml-2026/cards/5601-5700.md#yu26ae-inference) · 中文
 - [FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models](../../conferences/icml-2026/cards/5601-5700.md#yu26au-inference) · 中文
 - [Markov Chain Monte Carlo without Evaluating the Target: an Auxiliary Variable Approach](../../conferences/icml-2026/cards/5601-5700.md#yuan26j-inference) · 中文
+- [Proximal-Based Generative Modeling for Bayesian Inverse Problems](../../conferences/icml-2026/cards/5901-6000.md#zhang26gd-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

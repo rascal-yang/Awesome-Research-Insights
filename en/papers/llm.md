@@ -742,6 +742,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ye26f-data-strategies"></a>[Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26f)
 - <a id="ye26i-data-strategies"></a>[Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26i)
 - <a id="zhang26en-data-strategies"></a>[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26en)
+- <a id="zhang26gc-data-strategies"></a>[Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gc)
 
 <a id="by-inference"></a>
 

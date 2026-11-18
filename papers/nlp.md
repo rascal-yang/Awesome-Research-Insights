@@ -108,6 +108,7 @@
 - <a id="li26a-representation-learning"></a>[Improving Topic Modeling by Distilling Soft Labels from Language Models](../conferences/icml-2026/cards/2301-2400.md#paper-li26a)
 - <a id="madhu26a-representation-learning"></a>[HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation](../conferences/icml-2026/cards/3101-3200.md#paper-madhu26a)
 - <a id="meister26a-representation-learning"></a>[What Language is This? Ask Your Tokenizer.](../conferences/icml-2026/cards/3201-3300.md#paper-meister26a)
+- <a id="zhang26ga-representation-learning"></a>[LLM-based Embeddings: Attention Values Encode Sentence Semantics Better Than Hidden States](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ga)
 
 <a id="by-evaluation"></a>
 

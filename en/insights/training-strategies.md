@@ -279,6 +279,7 @@ Training schedules, curricula, and task or stage composition.
 - [The Role of Target Update Frequencies in Q-Learning](../../conferences/icml-2026/cards/4901-5000.md#weissmann26a-training-strategies) · 中文
 - [Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26j-training-strategies) · 中文
 - [Mind Dreamer: Untethering Imagination via Active Causal Intervention on Latent Manifolds](../../conferences/icml-2026/cards/5201-5300.md#xu26cp-training-strategies) · 中文
+- [Generative Online Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26fu-training-strategies) · 中文
 
 <a id="by-robotics"></a>
 
@@ -461,6 +462,7 @@ Training schedules, curricula, and task or stage composition.
 - [Doubly Outlier-Robust Online Infinite Hidden Markov Model](../../conferences/icml-2026/cards/5501-5600.md#yiu26a-training-strategies) · 中文
 - [Scaling Laws of Global Weather Models](../../conferences/icml-2026/cards/5501-5600.md#yu26r-training-strategies) · 中文
 - [Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions](../../conferences/icml-2026/cards/5601-5700.md#zakerinia26a-training-strategies) · 中文
+- [Variational Learning for Insertion-based Generation](../../conferences/icml-2026/cards/5901-6000.md#zhang26fx-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

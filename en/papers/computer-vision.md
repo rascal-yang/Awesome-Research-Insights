@@ -519,6 +519,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26du-inference"></a>[Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26du)
 - <a id="zhang26fb-inference"></a>[Semantic Editing with Coupled Stochastic Differential Equations](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fb)
 - <a id="zhang26fd-inference"></a>[SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fd)
+- <a id="zhang26ge-inference"></a>[FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ge)
 
 <a id="by-representation-learning"></a>
 

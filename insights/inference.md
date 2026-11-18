@@ -519,6 +519,7 @@
 - [先点估计再重加噪调逆问题感知权衡](../conferences/icml-2026/cards/5801-5900.md#zhang26du-inference) · Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models
 - [共享反向噪声的语义编辑](../conferences/icml-2026/cards/5801-5900.md#zhang26fb-inference) · Semantic Editing with Coupled Stochastic Differential Equations
 - [置信后缀驱动的块级推测验证](../conferences/icml-2026/cards/5801-5900.md#zhang26fd-inference) · SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation
+- [用频带过滤的glyph latent改善文字渲染](../conferences/icml-2026/cards/5901-6000.md#zhang26ge-inference) · FreeText: Training-Free Text Rendering via Attention Localization and Spectral Glyph Injection
 
 <a id="by-nlp"></a>
 
@@ -609,6 +610,7 @@
 - [按曲线形状选频谱对焦范围](../conferences/icml-2026/cards/5101-5200.md#xiang26f-inference) · Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration
 - [保留转弯与共享锚帧的分图SLAM](../conferences/icml-2026/cards/5201-5300.md#xiong26o-inference) · VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency
 - [跨控制步保留脉冲残余电位](../conferences/icml-2026/cards/5201-5300.md#xu26u-inference) · Error Amplification Limits ANN-to-SNN Conversion in Continuous Control
+- [蒸馏rollout return梯度供Langevin规划](../conferences/icml-2026/cards/5901-6000.md#zhang26gi-inference) · Langevin Rollout Optimization for Modelic Reinforcement Learning
 
 <a id="by-multimodal"></a>
 
@@ -790,6 +792,7 @@
 - [缓存低精度高覆盖规则再映射细化](../conferences/icml-2026/cards/5601-5700.md#yu26ae-inference) · MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation
 - [把低保真预测分布作为残差ICL输入](../conferences/icml-2026/cards/5601-5700.md#yu26au-inference) · FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models
 - [联合校正辅助变量提议与接受率](../conferences/icml-2026/cards/5601-5700.md#yuan26j-inference) · Markov Chain Monte Carlo without Evaluating the Target: an Auxiliary Variable Approach
+- [学习条件mode的prox算子用于逆问题采样](../conferences/icml-2026/cards/5901-6000.md#zhang26gd-inference) · Proximal-Based Generative Modeling for Bayesian Inverse Problems
 
 <a id="by-graph-and-recommendation"></a>
 

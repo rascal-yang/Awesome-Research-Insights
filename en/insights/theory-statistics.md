@@ -659,6 +659,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Demystifying the Optimal Fair Classifier in Multi-Class Classification](../../conferences/icml-2026/cards/5801-5900.md#zhang26cj-theory-statistics) · 中文
 - [A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26er-theory-statistics) · 中文
 - [Scaling Laws for Precision in High-Dimensional Linear Regression](../../conferences/icml-2026/cards/5901-6000.md#zhang26fq-theory-statistics) · 中文
+- [When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop](../../conferences/icml-2026/cards/5901-6000.md#zhang26gm-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

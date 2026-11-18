@@ -98,6 +98,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data](../../conferences/icml-2026/cards/5501-5600.md#ye26f-data-strategies) · 中文
 - [Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity](../../conferences/icml-2026/cards/5501-5600.md#ye26i-data-strategies) · 中文
 - [On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26en-data-strategies) · 中文
+- [Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement](../../conferences/icml-2026/cards/5901-6000.md#zhang26gc-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -205,6 +206,7 @@ Data selection, annotation, augmentation, and sampling.
 - [DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26x-data-strategies) · 中文
 - [Left–Right Symmetry Breaking in CLIP-Style Vision-Language Models Trained on Synthetic Spatial-Relation Data](../../conferences/icml-2026/cards/5301-5400.md#yamamoto26a-data-strategies) · 中文
 - [SOLAR: Self-supervised Joint Learning for Symmetric Multimodal Retrieval](../../conferences/icml-2026/cards/5401-5500.md#yang26db-data-strategies) · 中文
+- [Beyond Fixed Biases: Decoding the Role of Reasoning Uncertainty in MLLM Modality Conflicts](../../conferences/icml-2026/cards/5901-6000.md#zhang26fw-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -271,6 +273,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Scalable Topology-Preserving Graph Coarsening: Concepts and Algorithms](../../conferences/icml-2026/cards/5001-5100.md#wu26ac-data-strategies) · 中文
 - [H$^2$CL: Heterogeneity-Aware Hypergraph Contrastive Learning for Robust Representation Learning](../../conferences/icml-2026/cards/5401-5500.md#yao26e-data-strategies) · 中文
 - [Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases](../../conferences/icml-2026/cards/5501-5600.md#yin26d-data-strategies) · 中文
+- [Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control](../../conferences/icml-2026/cards/5901-6000.md#zhang26gf-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

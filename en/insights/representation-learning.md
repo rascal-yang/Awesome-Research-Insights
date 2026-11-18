@@ -113,6 +113,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Improving Topic Modeling by Distilling Soft Labels from Language Models](../../conferences/icml-2026/cards/2301-2400.md#li26a-representation-learning) · 中文
 - [HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation](../../conferences/icml-2026/cards/3101-3200.md#madhu26a-representation-learning) · 中文
 - [What Language is This? Ask Your Tokenizer.](../../conferences/icml-2026/cards/3201-3300.md#meister26a-representation-learning) · 中文
+- [LLM-based Embeddings: Attention Values Encode Sentence Semantics Better Than Hidden States](../../conferences/icml-2026/cards/5901-6000.md#zhang26ga-representation-learning) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
