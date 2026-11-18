@@ -21,14 +21,14 @@ number	openreview_id	title	paper_url	reason	status
 20	dngZLI0SlV	Chunk-wise Model-based Policy Optimization	https://openreview.net/forum?id=dngZLI0SlV	训练时用一次前向评估整段动作的价值	included
 21	HbuX1Fe8bl	Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction	https://openreview.net/forum?id=HbuX1Fe8bl	采样时给已去噪片段保留利用后续上下文修订的机会	included
 22	OckqYiY2QM	EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference	https://openreview.net/forum?id=OckqYiY2QM	用未来状态预测对齐异步动作起点并动态分配调用预算	included
-23	QBAA8svAIK	FedGuide: Diffusion Prior Alignment and Value Baseline Guidance for Heterogeneous Federated Reinforcement Learning	https://openreview.net/forum?id=QBAA8svAIK		pending
+23	QBAA8svAIK	FedGuide: Diffusion Prior Alignment and Value Baseline Guidance for Heterogeneous Federated Reinforcement Learning	https://openreview.net/forum?id=QBAA8svAIK	按行为分布聚合异构客户端而非直接混合策略参数	included
 24	v24DO7JOuN	MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models	https://openreview.net/forum?id=v24DO7JOuN	用交互历史显式路由到不同物理运动专家	included
 25	FFB8qNJwV2	REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models	https://openreview.net/forum?id=FFB8qNJwV2	跨观测修订未执行动作块兼顾连续性与反应	included
 26	WvR13cRtRf	TARC: Time-Adaptive Robotic Control	https://openreview.net/forum?id=WvR13cRtRf	将动作保持时间纳入策略输出并约束控制切换次数	included
 27	6T2ebANGy5	Targeting World Models to Compromise Robot Learning Pipelines	https://openreview.net/forum?id=6T2ebANGy5		pending
 28	jeNVGuJQrb	SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control	https://openreview.net/forum?id=jeNVGuJQrb	让单帧紧凑特征预测未来局部，同时保留冻结教师语义	included
 29	ZAdTLinUnd	FlowVLA: Enabling World Dynamics Understanding through Pluggable 3D Flow Learning	https://openreview.net/forum?id=ZAdTLinUnd	用训练期三维点位移和工具中心位移共同监督二维策略	included
-30	qKU6lifnPU	CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts	https://openreview.net/forum?id=qKU6lifnPU		pending
+30	qKU6lifnPU	CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts	https://openreview.net/forum?id=qKU6lifnPU	分开用传感器可用性与任务意图路由专家	included
 31	3M39Fmw8Mx	FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models	https://openreview.net/forum?id=3M39Fmw8Mx		pending
 32	X2mRYIgshj	DualSpace-VLA: Coupling Cartesian-Space Motion Intent with Joint-Space Execution in Vision-Language-Action Policies	https://openreview.net/forum?id=X2mRYIgshj		pending
 33	HvKifHMHcM	GeomVLA: Unifying Scene, Motion, and Action in 3D	https://openreview.net/forum?id=HvKifHMHcM		pending
