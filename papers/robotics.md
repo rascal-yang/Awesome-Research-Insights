@@ -853,5 +853,11 @@
 - [Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes](../conferences/neurips-2026/cards-0010.md#paper-149456)
 - [Seeing Together, Acting Apart: Shared Environmental Understanding for Multi-Robot Navigation](../conferences/neurips-2026/cards-0010.md#paper-148448)
 - [Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](../conferences/neurips-2026/cards-0010.md#paper-154994)
+- [SelfCritic-VLA: Language as Intrinsic Critic for Vision Language Action Models in Autonomous Driving](../conferences/neurips-2026/cards-0011.md#paper-152280)
+- [Self-Supervised Doppler-Guided RF Odometry](../conferences/neurips-2026/cards-0011.md#paper-153105)
+- [Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning](../conferences/neurips-2026/cards-0011.md#paper-154148)
+- [Semantics-to-Contact: A Stagewise Framework for Robust Contact-Rich Manipulation](../conferences/neurips-2026/cards-0011.md#paper-150648)
+- [SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of Foundation Model-based Embodied Agents](../conferences/neurips-2026/cards-0011.md#paper-139690)
+- [Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control](../conferences/neurips-2026/cards-0011.md#paper-154044)
 
 <!-- conference-classification:end -->

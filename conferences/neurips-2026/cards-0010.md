@@ -8686,3 +8686,108 @@
 - **适用条件 / 局限** · 邻近句相似可能漏掉跨章节照应
 
 **可复用机制** · 固定检索器和预算，在不同文体上比较分块方法
+
+<a id="paper-155878"></a>
+
+## Selected-Tail Reliability in Verifier-Guided Best-of-$N$ Inference
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155878) · [作者来源](https://openreview.net/forum?id=2A1ozLhi9p)
+
+- **问题 / 瓶颈** · 平均裁判准确率会遗漏赢家偏差。
+- **核心创新 / 方法** · 推导有限证据下的选中排序和分数乐观度，并设尾部认证预算。
+- **Baseline** · 只看裁判平均质量。
+- **Benchmark** · N 候选和 m 证据的理论分析。
+- **关键结果 / 消融** · 公开分数偏差约按 √(log N/m) 变化。
+- **适用条件 / 局限** · 真正效用伤害依赖公开与隐含分数失配。
+
+**可复用机制** · 让采样上限随评委证据量增长，而非只随 GPU 扩展。
+
+<a id="paper-150404"></a>
+
+## Selection, Not Fusion: Radar-Modulated State Space Models for Radar-Camera Depth Estimation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150404) · [作者来源](https://openreview.net/forum?id=iI7mIVsbZn)
+
+- **问题 / 瓶颈** · 外部分支混合可能引入噪声。
+- **核心创新 / 方法** · 零初始化雷达对扫描步长和读出扰动，保留图像写入与动力学。
+- **Baseline** · 预训练图像 Mamba 和额外特征混合。
+- **Benchmark** · 雷达相机深度。
+- **关键结果 / 消融** · 追加扫描外混合无额外增益。
+- **适用条件 / 局限** · 依赖几何对齐和可靠雷达。
+
+**可复用机制** · 从单模态等价起步，把辅助传感器用于状态选择。
+
+<a id="paper-150272"></a>
+
+## Selective Answering for Medical VQA via Parallel Independent Claim Verification
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150272) · [作者来源](https://openreview.net/forum?id=jPgQvPpJTX)
+
+- **问题 / 瓶颈** · 统一自评会传播上一步错误。
+- **核心创新 / 方法** · 分类型主张独立提示核实，确定汇总后答或拒。
+- **Baseline** · 整体 VLM 判断。
+- **Benchmark** · 两放射数据集，三种可复现受损设置。
+- **关键结果 / 消融** · 提供可追溯拒答理由，效果幅度未核。
+- **适用条件 / 局限** · 依赖拆分完整性和图像证据独立性。
+
+**可复用机制** · 以确定规则组合证据，避免最后再用同模型覆盖分项。
+
+<a id="paper-155118"></a>
+
+## Selective Critique for Cost-Aware LLM Agents in Long-Horizon Decision Making
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155118) · [作者来源](https://openreview.net/forum?id=8HBYtgJQ5y)
+
+- **问题 / 瓶颈** · 逐步评审增加延迟和 token。
+- **核心创新 / 方法** · 在可行动作上计算熵与前两名间隔并门控，在线吸收有帮助评审。
+- **Baseline** · 固定或每步评审。
+- **Benchmark** · 长程智能体，可靠性和成本。
+- **关键结果 / 消融** · 摘要提出可降低依赖，效果数字待核。
+- **适用条件 / 局限** · 需可定义可行动作集，概率可能失校准。
+
+**可复用机制** · 评审预算优先给决策边界，并追踪内化后边界变化。
+
+<a id="paper-151621"></a>
+
+## Selective Disk Bispectrum: A Complete and Rotation Invariant Image Descriptor
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151621) · [作者来源](https://openreview.net/forum?id=ZBFrV7kiwX)
+
+- **问题 / 瓶颈** · 普通不变特征可能丢掉非角度内容。
+- **核心创新 / 方法** · 构造选择性圆盘双谱及数值近似。
+- **Baseline** · 经典旋转不变表示。
+- **Benchmark** · 理论数值精度及旋转不变性。
+- **关键结果 / 消融** · 摘要证明保留除朝向外的信息。
+- **适用条件 / 局限** · 离散采样噪声与非圆支持需验证。
+
+**可复用机制** · 按保留的等价类选不变表示，避免达成不变却失去判别。
+
+<a id="paper-149575"></a>
+
+## Selective Off-Policy Reference Tuning with Plan Guidance
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149575) · [作者来源](https://openreview.net/forum?id=p7jgfBt3yz)
+
+- **问题 / 瓶颈** · GRPO 同组全错时无有效相对奖励。
+- **核心创新 / 方法** · 保持原 rollout，仅对需修复组加计划引导离策略参考更新。
+- **Baseline** · GRPO。
+- **Benchmark** · 三个底座八个域内外推理基准。
+- **关键结果 / 消融** · 持续改善，结构权重逼近 oracle 有条件。
+- **适用条件 / 局限** · 计划不准或过强将引入模仿偏差。
+
+**可复用机制** · 只在无有效探索信号时补外部脚手架。
+
+<a id="paper-151195"></a>
+
+## Selective Rollout: Mid-Trajectory Termination for Multi-Sample Agent RL
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151195) · [作者来源](https://openreview.net/forum?id=cFDtppAAdg)
+
+- **问题 / 瓶颈** · 相同动作分支消耗重复预算。
+- **核心创新 / 方法** · 以平均两两前缀编辑距离单阈值截断。
+- **Baseline** · 继续完整 rollout。
+- **Benchmark** · 多样采样代理 RL。
+- **关键结果 / 消融** · 摘要提出单参数门；量化待核。
+- **适用条件 / 局限** · 距离未必反映后续分岔，迟分岔任务需保护。
+
+**可复用机制** · 动态停止前同时评估节省和错杀后来分支。

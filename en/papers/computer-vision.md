@@ -1122,5 +1122,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [Seed-Your-Motion: Householder Orthogonal Noise for Motion-Controllable Video Diffusion Models](../../conferences/neurips-2026/cards-0010.md#paper-150697)
 - [Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images](../../conferences/neurips-2026/cards-0010.md#paper-153642)
 - [Seeing Both the Forest and the Trees: Reusing Holistic 3D Priors for Part-Decomposed Generation](../../conferences/neurips-2026/cards-0010.md#paper-153133)
+- [Selective Disk Bispectrum: A Complete and Rotation Invariant Image Descriptor](../../conferences/neurips-2026/cards-0010.md#paper-151621)
+- [SemISP: Semantic-Consistent Diffusion for Cross-Camera RAW-to-sRGB Generation](../../conferences/neurips-2026/cards-0011.md#paper-150067)
+- [Sequence-to-Sequence Modeling with Camera-Induced Priors for Multi-View Stereo](../../conferences/neurips-2026/cards-0011.md#paper-152093)
+- [ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection](../../conferences/neurips-2026/cards-0011.md#paper-139054)
+- [Shaping Useful Noise: Energy Distributions Predict Visual Pretraining Quality](../../conferences/neurips-2026/cards-0011.md#paper-153569)
 
 <!-- conference-classification:end -->

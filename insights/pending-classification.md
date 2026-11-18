@@ -1168,5 +1168,15 @@
 - [SCULPT: Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis.](../conferences/neurips-2026/cards-0010.md#paper-154985)
 - [SDFlow: Similarity-Driven Flow Matching for Time Series Generation](../conferences/neurips-2026/cards-0010.md#paper-150124)
 - [SDHilb: Schrödinger Dynamics-Guided Neural Network with Adaptive Multi-Scale Hilbert Transform for Time Series Forecasting](../conferences/neurips-2026/cards-0010.md#paper-152741)
+- [Selective Safety Steering via Value-Filtered Decoding](../conferences/neurips-2026/cards-0011.md#paper-148157)
+- [Selectivity Makes State-Space Models Universal Sequence Approximators](../conferences/neurips-2026/cards-0011.md#paper-150042)
+- [Self-Adjoint Flow Policy Optimization](../conferences/neurips-2026/cards-0011.md#paper-152160)
+- [Self-Cleaning Diffusion Models](../conferences/neurips-2026/cards-0011.md#paper-155247)
+- [SemISP: Semantic-Consistent Diffusion for Cross-Camera RAW-to-sRGB Generation](../conferences/neurips-2026/cards-0011.md#paper-150067)
+- [SeoulMMOD: A Large-Scale Multimodal Origin-Destination Flow Benchmark](../conferences/neurips-2026/cards-0011.md#paper-139708)
+- [SeqDiCO: Sequence-oriented Diffusion for Scale-Generalizable Neural Combinatorial Optimization](../conferences/neurips-2026/cards-0011.md#paper-149604)
+- [Sequence-to-Sequence Modeling with Camera-Induced Priors for Multi-View Stereo](../conferences/neurips-2026/cards-0011.md#paper-152093)
+- [Sequential Behavioral Watermarking for LLM Agents](../conferences/neurips-2026/cards-0011.md#paper-150882)
+- [Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](../conferences/neurips-2026/cards-0011.md#paper-153027)
 
 <!-- conference-classification:end -->

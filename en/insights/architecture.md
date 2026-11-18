@@ -562,5 +562,10 @@ Model-wide design and information flow.
 - [Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models](../../conferences/neurips-2026/cards-0010.md#paper-153485)
 - [Seeing Both the Forest and the Trees: Reusing Holistic 3D Priors for Part-Decomposed Generation](../../conferences/neurips-2026/cards-0010.md#paper-153133)
 - [Seeing Together, Acting Apart: Shared Environmental Understanding for Multi-Robot Navigation](../../conferences/neurips-2026/cards-0010.md#paper-148448)
+- [Self-Tuning Graph Filters via State-Dependent Operator Composition](../../conferences/neurips-2026/cards-0011.md#paper-153395)
+- [Semantic Consistency of Vision Tokens: A Vision-Centric Perspective on Multimodal Large Language Models](../../conferences/neurips-2026/cards-0011.md#paper-154149)
+- [Semantics-to-Contact: A Stagewise Framework for Robust Contact-Rich Manipulation](../../conferences/neurips-2026/cards-0011.md#paper-150648)
+- [SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction](../../conferences/neurips-2026/cards-0011.md#paper-150414)
+- [Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control](../../conferences/neurips-2026/cards-0011.md#paper-154044)
 
 <!-- conference-classification:end -->

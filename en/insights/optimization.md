@@ -750,5 +750,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Scalable Supervised Optimal Transport of Gaussian Mixture Models](../../conferences/neurips-2026/cards-0010.md#paper-154980)
 - [Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers](../../conferences/neurips-2026/cards-0010.md#paper-154846)
 - [Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization](../../conferences/neurips-2026/cards-0010.md#paper-150226)
+- [Select-then-differentiate: Solving Bilevel Optimization with Manifold Lower-level Solution Sets](../../conferences/neurips-2026/cards-0011.md#paper-153170)
+- [SePO: Self-Evolving Prompt Agent for System Prompt Optimization](../../conferences/neurips-2026/cards-0011.md#paper-151189)
 
 <!-- conference-classification:end -->

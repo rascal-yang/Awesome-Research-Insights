@@ -892,5 +892,17 @@
 - [Seeing Beyond the Next Step: World-Model-Guided Human-Like Navigation in Multi-Agent Scenes](../conferences/neurips-2026/cards-0010.md#paper-149456)
 - [Seeing Together: Multi-Robot Cooperative Egocentric Spatial Reasoning with Multimodal Large Language Models](../conferences/neurips-2026/cards-0010.md#paper-154994)
 - [See to Believe: Segmentation by Reasoning with Visual Evidence](../conferences/neurips-2026/cards-0010.md#paper-155884)
+- [Selective Rollout: Mid-Trajectory Termination for Multi-Sample Agent RL](../conferences/neurips-2026/cards-0010.md#paper-151195)
+- [Self-Consuming Generative Models with Co-Evolving Human Preferences](../conferences/neurips-2026/cards-0011.md#paper-148960)
+- [Self-Distillation of Hidden Layers for Masked Self-Supervised Representation Learning](../conferences/neurips-2026/cards-0011.md#paper-150397)
+- [Self-Evolution Reasoner: Continuous Optimization via Policy-Intrinsic Exploration and Exploitation](../conferences/neurips-2026/cards-0011.md#paper-148772)
+- [Self-Improving World Modelling with Latent Actions](../conferences/neurips-2026/cards-0011.md#paper-155539)
+- [Self-Recognition Finetuning can Reverse and Prevent Emergent Misalignment](../conferences/neurips-2026/cards-0011.md#paper-155496)
+- [Self-Trained Verification for Training- and Test-Time Self-Improvement](../conferences/neurips-2026/cards-0011.md#paper-153533)
+- [SemGeo-Gen: Unsupervised Generation of Approximate Cross-Instance Semantic-Geometric Correspondences](../conferences/neurips-2026/cards-0011.md#paper-148299)
+- [Separating Common and Unique Directions for Model Merging](../conferences/neurips-2026/cards-0011.md#paper-149235)
+- [Seq-LoRA: Sequential Bayesian Low-Rank Adaptation for Large Language Models](../conferences/neurips-2026/cards-0011.md#paper-153872)
+- [SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning](../conferences/neurips-2026/cards-0011.md#paper-139026)
+- [Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory](../conferences/neurips-2026/cards-0011.md#paper-149663)
 
 <!-- conference-classification:end -->

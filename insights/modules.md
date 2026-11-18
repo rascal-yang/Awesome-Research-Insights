@@ -442,5 +442,10 @@
 - [SecureClaw: Clawing Back Control of LLM Agents](../conferences/neurips-2026/cards-0010.md#paper-156048)
 - [Securing AI Agents with Information-Flow Control](../conferences/neurips-2026/cards-0010.md#paper-152696)
 - [SEISMOS: A Statistical Signal Detection Framework for Semantic Chunking](../conferences/neurips-2026/cards-0010.md#paper-153238)
+- [Selection, Not Fusion: Radar-Modulated State Space Models for Radar-Camera Depth Estimation](../conferences/neurips-2026/cards-0010.md#paper-150404)
+- [Self-Compacting Language Model Agents](../conferences/neurips-2026/cards-0011.md#paper-155897)
+- [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](../conferences/neurips-2026/cards-0011.md#paper-149928)
+- [Serialization Tax in Shared-Latent Exchangeable Decisions](../conferences/neurips-2026/cards-0011.md#paper-148577)
+- [ShiftRAG: Bypassing the Textual Bottleneck via Decoupled Learning and Continuous Soft Tokens](../conferences/neurips-2026/cards-0011.md#paper-150524)
 
 <!-- conference-classification:end -->

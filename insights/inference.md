@@ -1368,5 +1368,12 @@
 - [Seed-Your-Motion: Householder Orthogonal Noise for Motion-Controllable Video Diffusion Models](../conferences/neurips-2026/cards-0010.md#paper-150697)
 - [See, Read, Compare: Candidate-Aware Verification for Agent Test-Time Scaling](../conferences/neurips-2026/cards-0010.md#paper-152566)
 - [SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers](../conferences/neurips-2026/cards-0010.md#paper-153817)
+- [Selected-Tail Reliability in Verifier-Guided Best-of-$N$ Inference](../conferences/neurips-2026/cards-0010.md#paper-155878)
+- [Selective Critique for Cost-Aware LLM Agents in Long-Horizon Decision Making](../conferences/neurips-2026/cards-0010.md#paper-155118)
+- [Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models](../conferences/neurips-2026/cards-0011.md#paper-150689)
+- [SemanticDLM+: Improving Diffusion LLMs through Bias-variance Trade-off in Transition Kernel Design](../conferences/neurips-2026/cards-0011.md#paper-149281)
+- [Semantic Routing: Exploring Multi-Layer LLM Feature Weighting for Diffusion Transformers](../conferences/neurips-2026/cards-0011.md#paper-151306)
+- [SGEvolve: Semantic Gradient Guidance for LLM-Driven Evolutionary Search](../conferences/neurips-2026/cards-0011.md#paper-153601)
+- [Short-Context Dominance: How Much Local Context Natural Language Actually Needs?](../conferences/neurips-2026/cards-0011.md#paper-155271)
 
 <!-- conference-classification:end -->

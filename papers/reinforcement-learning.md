@@ -683,5 +683,9 @@
 - [Scalable Multi-Agent Contrastive Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-151201)
 - [Search-Tree Scaling in Parallel Monte Carlo Tree Search](../conferences/neurips-2026/cards-0010.md#paper-150219)
 - [SEAR: Sample Efficient Action Chunking Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-151301)
+- [Self-Adjoint Flow Policy Optimization](../conferences/neurips-2026/cards-0011.md#paper-152160)
+- [Self-Supervised Goal-Reaching Results in Multi-Agent Cooperation and Exploration](../conferences/neurips-2026/cards-0011.md#paper-148922)
+- [Self-Supervised On-Policy Reinforcement Learning via Contrastive Proximal Policy Optimisation](../conferences/neurips-2026/cards-0011.md#paper-154892)
+- [Semantic-level Exploration for Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-152298)
 
 <!-- conference-classification:end -->

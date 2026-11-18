@@ -933,5 +933,17 @@
 - [SeeSE3: The Emergence of 3D Space in Vision Features](../conferences/neurips-2026/cards-0010.md#paper-150379)
 - [See to Believe: Segmentation by Reasoning with Visual Evidence](../conferences/neurips-2026/cards-0010.md#paper-155884)
 - [SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers](../conferences/neurips-2026/cards-0010.md#paper-153817)
+- [Selection, Not Fusion: Radar-Modulated State Space Models for Radar-Camera Depth Estimation](../conferences/neurips-2026/cards-0010.md#paper-150404)
+- [Selective Answering for Medical VQA via Parallel Independent Claim Verification](../conferences/neurips-2026/cards-0010.md#paper-150272)
+- [SelfGuard: Self-Supervised Deviation Modeling for Multi-Modal Jailbreak Detection](../conferences/neurips-2026/cards-0011.md#paper-150784)
+- [Self-Improving World Modelling with Latent Actions](../conferences/neurips-2026/cards-0011.md#paper-155539)
+- [Self-Rewarded Multimodal Coherent Reasoning Across Diverse Visual Domains](../conferences/neurips-2026/cards-0011.md#paper-149029)
+- [Semantic Consistency of Vision Tokens: A Vision-Centric Perspective on Multimodal Large Language Models](../conferences/neurips-2026/cards-0011.md#paper-154149)
+- [Semantic Routing: Exploring Multi-Layer LLM Feature Weighting for Diffusion Transformers](../conferences/neurips-2026/cards-0011.md#paper-151306)
+- [SemGeo-Gen: Unsupervised Generation of Approximate Cross-Instance Semantic-Geometric Correspondences](../conferences/neurips-2026/cards-0011.md#paper-148299)
+- [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](../conferences/neurips-2026/cards-0011.md#paper-149928)
+- [SenseBench: A Benchmark for Remote Sensing Low-Level Visual Perception and Description in Large Vision-Language Models](../conferences/neurips-2026/cards-0011.md#paper-139610)
+- [Senses Wide Shut: A Representation-Action Gap in Omnimodal LLMs](../conferences/neurips-2026/cards-0011.md#paper-150351)
+- [SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction](../conferences/neurips-2026/cards-0011.md#paper-150414)
 
 <!-- conference-classification:end -->

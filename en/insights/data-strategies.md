@@ -383,5 +383,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Scaling Laws for Multimodal Data Mixtures](../../conferences/neurips-2026/cards-0010.md#paper-148475)
 - [Scaling Laws for SAE Training Data](../../conferences/neurips-2026/cards-0010.md#paper-148634)
 - [Scaling Whole-Body Loco-Manipulation through Compositional Data Synthesis](../../conferences/neurips-2026/cards-0010.md#paper-149896)
+- [Shaping Useful Noise: Energy Distributions Predict Visual Pretraining Quality](../../conferences/neurips-2026/cards-0011.md#paper-153569)
 
 <!-- conference-classification:end -->

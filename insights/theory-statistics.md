@@ -1127,5 +1127,9 @@
 - [Scaling Full Conformal Image Classifiers](../conferences/neurips-2026/cards-0010.md#paper-149457)
 - [Scaling Limits of Long-Context Transformers](../conferences/neurips-2026/cards-0010.md#paper-152309)
 - [Search-Tree Scaling in Parallel Monte Carlo Tree Search](../conferences/neurips-2026/cards-0010.md#paper-150219)
+- [Semiparametric Efficient Tests for Interpretable Distributional Treatment Effects](../conferences/neurips-2026/cards-0011.md#paper-150512)
+- [Sequential Probabilistic Uncertainty Estimation for Parallel Multi-Agent Reasoning Systems](../conferences/neurips-2026/cards-0011.md#paper-153160)
+- [SGD at the Edge of Stability: The Stochastic Sharpness Gap](../conferences/neurips-2026/cards-0011.md#paper-150405)
+- [SGD Provably Prioritizes a Shortcut Spurious Feature in the XOR Model](../conferences/neurips-2026/cards-0011.md#paper-153017)
 
 <!-- conference-classification:end -->

@@ -583,3 +583,10 @@
 | 视觉与多模态 | 训练与优化 | [See to Believe: Segmentation by Reasoning with Visual Evidence](cards-0010.md#paper-155884) | 推理分割的中间定位显式锚到图像区域 |
 | 视觉与多模态 | 生成与扩散 | [SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers](cards-0010.md#paper-153817) | 生成超训练分辨率时按瞬时频谱调位置注意 |
 | 智能体 | 记忆与检索 | [SEISMOS: A Statistical Signal Detection Framework for Semantic Chunking](cards-0010.md#paper-153238) | RAG 分块用文档内的转折检验 |
+| 大语言模型 | 采样与推理 | [Selected-Tail Reliability in Verifier-Guided Best-of-$N$ Inference](cards-0010.md#paper-155878) | Best-of-N 扩采样前审计选中尾部。 |
+| 多模态学习 | 多模态融合 | [Selection, Not Fusion: Radar-Modulated State Space Models for Radar-Camera Depth Estimation](cards-0010.md#paper-150404) | 雷达直接调视觉 SSM 的选择动态。 |
+| 多模态学习 | 评测与诊断 | [Selective Answering for Medical VQA via Parallel Independent Claim Verification](cards-0010.md#paper-150272) | 高风险 VQA 将复杂问题拆成独立可答声明。 |
+| 智能体与工具使用 | 采样与推理 | [Selective Critique for Cost-Aware LLM Agents in Long-Horizon Decision Making](cards-0010.md#paper-155118) | 仅在动作有实质歧义时调用评审。 |
+| 计算机视觉 | 表征学习 | [Selective Disk Bispectrum: A Complete and Rotation Invariant Image Descriptor](cards-0010.md#paper-151621) | 有旋转不变量需求时检验可恢复等价类。 |
+| 大语言模型 | 强化学习 | [Selective Off-Policy Reference Tuning with Plan Guidance](cards-0010.md#paper-149575) | 全错组用计划相关参考 token 补正向梯度。 |
+| 智能体与工具使用 | 训练策略 | [Selective Rollout: Mid-Trajectory Termination for Multi-Sample Agent RL](cards-0010.md#paper-151195) | 多轨迹前缀过度相似时预先判断是否停止。 |

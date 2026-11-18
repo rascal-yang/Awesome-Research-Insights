@@ -340,5 +340,6 @@
 - [Robust Surrogate Modeling for Explainable Graph Neural Networks](../conferences/neurips-2026/cards-0010.md#paper-155571)
 - [S3Former: Sequential, Structural, and Statistical Fusion for Continuous-Time Dynamic Graphs](../conferences/neurips-2026/cards-0010.md#paper-155501)
 - [SCDM: Scalable Causal Discovery in Nonlinear Temporal Systems with Meta-Learning](../conferences/neurips-2026/cards-0010.md#paper-153991)
+- [Self-Tuning Graph Filters via State-Dependent Operator Composition](../conferences/neurips-2026/cards-0011.md#paper-153395)
 
 <!-- conference-classification:end -->

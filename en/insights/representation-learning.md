@@ -600,5 +600,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Scenes as Objects, Not Primitives : Instance-Structured 3D Tokenization from Unposed Views](../../conferences/neurips-2026/cards-0010.md#paper-149694)
 - [scTrilemma: Balancing Identity, Invariance, and Reconstruction in Single-Cell Representation Learning](../../conferences/neurips-2026/cards-0010.md#paper-152153)
 - [Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images](../../conferences/neurips-2026/cards-0010.md#paper-153642)
+- [Selective Disk Bispectrum: A Complete and Rotation Invariant Image Descriptor](../../conferences/neurips-2026/cards-0010.md#paper-151621)
+- [Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning](../../conferences/neurips-2026/cards-0011.md#paper-154148)
 
 <!-- conference-classification:end -->

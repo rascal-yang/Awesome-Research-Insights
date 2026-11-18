@@ -701,5 +701,14 @@
 - [SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks](../conferences/neurips-2026/cards-0010.md#paper-148234)
 - [SDAE: Semantic-Diversity-Aware Exploration for Efficient Reinforcement Learning in Large Language Models](../conferences/neurips-2026/cards-0010.md#paper-148235)
 - [SEAR: Sample Efficient Action Chunking Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-151301)
+- [Selective Off-Policy Reference Tuning with Plan Guidance](../conferences/neurips-2026/cards-0010.md#paper-149575)
+- [Self-Calibrated GUI Reward Model via Inverse Dynamic Modeling](../conferences/neurips-2026/cards-0011.md#paper-153048)
+- [Self-Correction as Transition Geometry: Internalizing Reasoning via Lifted State Policy Optimization](../conferences/neurips-2026/cards-0011.md#paper-151765)
+- [SelfCritic-VLA: Language as Intrinsic Critic for Vision Language Action Models in Autonomous Driving](../conferences/neurips-2026/cards-0011.md#paper-152280)
+- [Self-Distilled RLVR](../conferences/neurips-2026/cards-0011.md#paper-152431)
+- [Self-Rewarded Multimodal Coherent Reasoning Across Diverse Visual Domains](../conferences/neurips-2026/cards-0011.md#paper-149029)
+- [Self-Supervised Goal-Reaching Results in Multi-Agent Cooperation and Exploration](../conferences/neurips-2026/cards-0011.md#paper-148922)
+- [Self-Supervised On-Policy Reinforcement Learning via Contrastive Proximal Policy Optimisation](../conferences/neurips-2026/cards-0011.md#paper-154892)
+- [Semantic-level Exploration for Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-152298)
 
 <!-- conference-classification:end -->
