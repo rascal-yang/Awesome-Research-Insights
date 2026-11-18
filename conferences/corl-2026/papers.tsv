@@ -80,7 +80,7 @@ number	openreview_id	title	paper_url	reason	status
 79	79jC3quhGp	Learning to Assist: Collaborative VLAs for Implicit Human-Robot Collaboration	https://openreview.net/forum?id=79jC3quhGp	检查动作块是否跨过人类尚未准备好的协作边界	included
 80	mwJwAQ0CXT	CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy	https://openreview.net/forum?id=mwJwAQ0CXT	复用同一预训练控制器并用机器人身份提示区分执行角色	included
 81	hvArz6F8eA	Probing Collision Grounding in Vision-Language Models for Safe Human–Robot Collaboration	https://openreview.net/forum?id=hvArz6F8eA	分开测当前接触与提前预警，并按碰撞对象分层	included
-82	rAyG2MJka5	STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction	https://openreview.net/forum?id=rAyG2MJka5		pending
+82	rAyG2MJka5	STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction	https://openreview.net/forum?id=rAyG2MJka5	先在时空交互图上自监督，再用少量社会行为标签训练读出头	included
 83	VnF3D7ia9Y	Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection	https://openreview.net/forum?id=VnF3D7ia9Y		pending
 84	nXfwmrzXzz	An Agentic Framework for Proactive Robots with Procedural Assistance Memory	https://openreview.net/forum?id=nXfwmrzXzz		pending
 85	v4QUDwGroQ	COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance	https://openreview.net/forum?id=v4QUDwGroQ		pending
@@ -88,7 +88,7 @@ number	openreview_id	title	paper_url	reason	status
 87	xWoyO2BPcl	RoboAffect: Egocentric Emotion Reasoning for Robot Companions in Shared Viewing	https://openreview.net/forum?id=xWoyO2BPcl		pending
 88	aILPNAxgHb	Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE	https://openreview.net/forum?id=aILPNAxgHb		pending
 89	Tk20sRMzhv	Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation	https://openreview.net/forum?id=Tk20sRMzhv		pending
-90	HfHTPpDBYr	Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards	https://openreview.net/forum?id=HfHTPpDBYr		pending
+90	HfHTPpDBYr	Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards	https://openreview.net/forum?id=HfHTPpDBYr	针对示范中监督不足的奖励特征生成并解释偏好问题	included
 91	Gpc0nCixhZ	Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations	https://openreview.net/forum?id=Gpc0nCixhZ		pending
 92	2vx7I6aRPS	PIVOT: Policy Improvement via Trust-Region Optimization from Deployment Experience	https://openreview.net/forum?id=2vx7I6aRPS		pending
 93	656PH9MVla	Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies	https://openreview.net/forum?id=656PH9MVla		pending
