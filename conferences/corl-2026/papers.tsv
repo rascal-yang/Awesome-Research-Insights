@@ -25,7 +25,7 @@ number	openreview_id	title	paper_url	reason	status
 24	v24DO7JOuN	MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models	https://openreview.net/forum?id=v24DO7JOuN	用交互历史显式路由到不同物理运动专家	included
 25	FFB8qNJwV2	REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models	https://openreview.net/forum?id=FFB8qNJwV2	跨观测修订未执行动作块兼顾连续性与反应	included
 26	WvR13cRtRf	TARC: Time-Adaptive Robotic Control	https://openreview.net/forum?id=WvR13cRtRf	将动作保持时间纳入策略输出并约束控制切换次数	included
-27	6T2ebANGy5	Targeting World Models to Compromise Robot Learning Pipelines	https://openreview.net/forum?id=6T2ebANGy5		pending
+27	6T2ebANGy5	Targeting World Models to Compromise Robot Learning Pipelines	https://openreview.net/forum?id=6T2ebANGy5	世界模型合成数据进入训练前独立验收，并在下游策略做安全回归。	included
 28	jeNVGuJQrb	SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control	https://openreview.net/forum?id=jeNVGuJQrb	让单帧紧凑特征预测未来局部，同时保留冻结教师语义	included
 29	ZAdTLinUnd	FlowVLA: Enabling World Dynamics Understanding through Pluggable 3D Flow Learning	https://openreview.net/forum?id=ZAdTLinUnd	用训练期三维点位移和工具中心位移共同监督二维策略	included
 30	qKU6lifnPU	CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts	https://openreview.net/forum?id=qKU6lifnPU	分开用传感器可用性与任务意图路由专家	included
@@ -65,7 +65,7 @@ number	openreview_id	title	paper_url	reason	status
 64	8FGH4qAdNB	EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies	https://openreview.net/forum?id=8FGH4qAdNB	在视觉证据消失前预测其未来价值并决定是否写入	included
 65	hJv9yhbgxR	Native Memory Compression for Long-Horizon Robotic Manipulation	https://openreview.net/forum?id=hJv9yhbgxR	复用视觉编码器将每帧每视角压成一个记忆 token	included
 66	rnp2Bj4RUX	Safe Task Planning with Long-Term Graph Memory for Embodied Agents	https://openreview.net/forum?id=rnp2Bj4RUX	将视野外的历史危险纳入候选动作审核	included
-67	Q4ehHMIPmb	RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems	https://openreview.net/forum?id=Q4ehHMIPmb		pending
+67	Q4ehHMIPmb	RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems	https://openreview.net/forum?id=Q4ehHMIPmb	以可动态更新的空间图组织跨回合积累的异质记忆。	included
 68	GqqwqejrTq	MessyMem: Learning-from-Doing Memory for Mobile Manipulation	https://openreview.net/forum?id=GqqwqejrTq	将交互得知的属性与关键帧绑定到可更新场景图	included
 69	aPosmVaV9y	Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision	https://openreview.net/forum?id=aPosmVaV9y	把任务显著性标注搬到训练并蒸馏成潜工作记忆	included
 70	ndhpQ86iXs	Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams	https://openreview.net/forum?id=ndhpQ86iXs	用不中断的并发任务检验按手臂记录的自行动历史	included
@@ -83,10 +83,10 @@ number	openreview_id	title	paper_url	reason	status
 82	rAyG2MJka5	STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction	https://openreview.net/forum?id=rAyG2MJka5	先在时空交互图上自监督，再用少量社会行为标签训练读出头	included
 83	VnF3D7ia9Y	Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection	https://openreview.net/forum?id=VnF3D7ia9Y	先离线或低频生成多个任务相关交互候选，再按实时人体状态选择。	included
 84	nXfwmrzXzz	An Agentic Framework for Proactive Robots with Procedural Assistance Memory	https://openreview.net/forum?id=nXfwmrzXzz	把个性化帮助规则写成可修订的事件状态机	included
-85	v4QUDwGroQ	COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance	https://openreview.net/forum?id=v4QUDwGroQ		pending
+85	v4QUDwGroQ	COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance	https://openreview.net/forum?id=v4QUDwGroQ	主动回访可能的信息收益高或记录陈旧的位置，以更新物体关系记忆。	included
 86	m0Zqqi9Lfr	AI Coaching for Accelerating Human Skill Development with Reinforcement Learning	https://openreview.net/forum?id=m0Zqqi9Lfr	辅助训练系统以撤掉辅助后的独立能力为目标，并允许用户经历有助于学习的失败。	included
 87	xWoyO2BPcl	RoboAffect: Egocentric Emotion Reasoning for Robot Companions in Shared Viewing	https://openreview.net/forum?id=xWoyO2BPcl	测量机器人视角采集对多模态任务的性能损失，据此决定是否采集视角匹配的训练数据。	included
-88	aILPNAxgHb	Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE	https://openreview.net/forum?id=aILPNAxgHb		pending
+88	aILPNAxgHb	Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE	https://openreview.net/forum?id=aILPNAxgHb	摘要给出的技术路线是将已有 VLM 和 Transformer-VAE 应用于表情机器人视线控制；尚未说明相对现有分层动作生成的可复用增量或可迁移对照规律。	excluded
 89	Tk20sRMzhv	Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation	https://openreview.net/forum?id=Tk20sRMzhv	摘要中的可识别方法增量是将带 RoPE 的编码器–解码器和流匹配应用于个人化肌电轨迹处方，未给出可迁移的独立机制或对照规律。	excluded
 90	HfHTPpDBYr	Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards	https://openreview.net/forum?id=HfHTPpDBYr	针对示范中监督不足的奖励特征生成并解释偏好问题	included
 91	Gpc0nCixhZ	Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations	https://openreview.net/forum?id=Gpc0nCixhZ	分开测试单机示范能传授什么以及协作数据仍缺什么	included

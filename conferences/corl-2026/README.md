@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **240 / 687** 篇，当前收录 **229** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **244 / 687** 篇，当前收录 **232** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -235,3 +235,6 @@
 | 具身智能 | 约束建模 | [Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility](cards.md#paper-fhzdeyenpf) | 以情境置信度决定何时弱化显式合规约束 |
 | 具身智能 | 策略梯度 | [Flow Policy Gradients for Robot Control](cards.md#paper-acslhrig33) | 在需要多峰动作时测试免似然流策略梯度 |
 | 具身智能 | 在线强化学习 | [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](cards.md#paper-ryxo2ktk1m) | 用任务相关 token 和锚定小控制头在线修正 VLA |
+| 具身智能 / 世界模型 | 安全评测 | [Targeting World Models to Compromise Robot Learning Pipelines](cards.md#paper-6t2ebangy5) | 世界模型合成数据进入训练前独立验收，并在下游策略做安全回归。 |
+| 具身智能 / Agent | 记忆机制 | [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](cards.md#paper-q4ehhmipmb) | 以可动态更新的空间图组织跨回合积累的异质记忆。 |
+| 具身智能 / Agent | 主动信息采集 | [COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance](cards.md#paper-v4qudwgroq) | 主动回访可能的信息收益高或记录陈旧的位置，以更新物体关系记忆。 |

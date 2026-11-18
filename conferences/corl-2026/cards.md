@@ -3436,3 +3436,48 @@
 - **适用条件 / 局限** · 需要真机交互与原策略有可利用技能
 
 **可复用机制** · 仅在线更新小动作头，对照原策略和无锚定头检验速度与稳定性。
+
+<a id="paper-6t2ebangy5"></a>
+
+## Targeting World Models to Compromise Robot Learning Pipelines
+
+[会议记录](https://openreview.net/forum?id=6T2ebANGy5) · [原文](https://openreview.net/pdf?id=6T2ebANGy5)
+
+- **问题 / 瓶颈** · 通过原始示范验收的数据仍可能在模型合成之后出现不安全行为。
+- **核心创新 / 方法** · 论文将合成前、合成后和下游策略拆成三层分析，揭示了只检查输入的局限。
+- **Baseline** · 讨论直接依据原始轨迹检查的场景；摘要未列防御基线。
+- **Benchmark** · 动作条件和文本条件世界模型，以及下游 VLA 和 RL 训练流程；摘要未列基准名。
+- **关键结果 / 消融** · 作者观察到合成阶段的问题可传播到下游策略；摘要未量化防御效果。
+- **适用条件 / 局限** · 结论来自所测供应链；各类数据验收方案的效果待验证。
+
+**可复用机制** · 将真实与合成轨迹分别记账，对合成轨迹做独立安全检查，在接受合成数据前用隔离回归评测比较所训练策略。
+
+<a id="paper-q4ehhmipmb"></a>
+
+## RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems
+
+[会议记录](https://openreview.net/forum?id=Q4ehHMIPmb) · [原文](https://openreview.net/pdf?id=Q4ehHMIPmb)
+
+- **问题 / 瓶颈** · 部分可观测与分散的语义、空间和事件线索使长程决策难以复用过去经验。
+- **核心创新 / 方法** · 联合时间、空间、语义和情节记忆，以动态空间知识图支持一致更新。
+- **Baseline** · 基于 Qwen2.5-VL-72B-Ins 评估记忆增强，并与闭源 VLM agent 比较。
+- **Benchmark** · EmbodiedBench 平均成功率与真机重复尝试。
+- **关键结果 / 消融** · 平均成功率提高 26.5 个百分点；真机示范重用累积经验，摘要未报告分模块增益。
+- **适用条件 / 局限** · 长期变化、错误记忆及容量开销对增益的影响待核实。
+
+**可复用机制** · 以同一骨干比较有无可更新的空间图，分开测首次任务和跨回合复访。
+
+<a id="paper-v4qudwgroq"></a>
+
+## COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance
+
+[会议记录](https://openreview.net/forum?id=v4QUDwGroQ) · [原文](https://openreview.net/pdf?id=v4QUDwGroQ)
+
+- **问题 / 瓶颈** · 物体归属没有显式标签，零散行为数据会过时。
+- **核心创新 / 方法** · 从人和物体交互推断所有权，用好奇心驱动采集刷新长期空间记忆。
+- **Baseline** · 摘要未列基线名称。
+- **Benchmark** · 离线、消融及真机归属条件导航和任务执行；摘要未列指标。
+- **关键结果 / 消融** · 作者报告能从真实互动推断归属并用于执行；摘要未给数值。
+- **适用条件 / 局限** · 需要可访问的长期观测与关系证据；难区分借用、共用和转移。
+
+**可复用机制** · 固定巡查预算，比较信息收益驱动的回访与定期巡查对陈旧关系预测和任务的影响。
