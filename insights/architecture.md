@@ -567,5 +567,9 @@
 - [Semantics-to-Contact: A Stagewise Framework for Robust Contact-Rich Manipulation](../conferences/neurips-2026/cards-0011.md#paper-150648)
 - [SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction](../conferences/neurips-2026/cards-0011.md#paper-150414)
 - [Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control](../conferences/neurips-2026/cards-0011.md#paper-154044)
+- [Simplified Reversible Residual Networks](../conferences/neurips-2026/cards-0011.md#paper-148514)
+- [SLiDE: Structured Linear Dynamics for Forecasting with Exogenous Inputs](../conferences/neurips-2026/cards-0011.md#paper-155791)
+- [Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions](../conferences/neurips-2026/cards-0011.md#paper-152423)
+- [SO(3)-Equivariant Learning on CAD Boundary Representations](../conferences/neurips-2026/cards-0011.md#paper-148985)
 
 <!-- conference-classification:end -->

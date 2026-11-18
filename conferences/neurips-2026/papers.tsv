@@ -7208,126 +7208,126 @@ poster_id	title	paper_url	status	reason
 150524	ShiftRAG: Bypassing the Textual Bottleneck via Decoupled Learning and Continuous Soft Tokens	https://neurips.cc/virtual/2026/poster/150524	included	检索和生成可用共享连续表征，但分别训练目标
 139398	ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents	https://neurips.cc/virtual/2026/poster/139398	included	电商 Agent 合成环境需验收结构和行为代理有效性
 155271	Short-Context Dominance: How Much Local Context Natural Language Actually Needs?	https://neurips.cc/virtual/2026/poster/155271	included	长上下文生成可按词元诊断局部上下文支配
-153528	Should We Pay This Much for Robustness? Efficient Proxy Certificates with Marginal Guarantees	https://neurips.cc/virtual/2026/poster/153528	pending	-
-149469	Show Me What You Don’t Know: Efficient Sampling from Invariant Sets for Model Validation	https://neurips.cc/virtual/2026/poster/149469	pending	-
-151972	SHRED: Retain-Set-Free Unlearning via Self-Distillation with Logit Demotion	https://neurips.cc/virtual/2026/poster/151972	pending	-
-151992	Shuffle and Joint Differential Privacy for Generalized Linear Contextual Bandits	https://neurips.cc/virtual/2026/poster/151992	pending	-
-152542	SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network	https://neurips.cc/virtual/2026/poster/152542	pending	-
-148899	SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues	https://neurips.cc/virtual/2026/poster/148899	pending	-
-150328	SIEVE: Overcoming Topological Obstruction in Equivariant Self-Supervised Learning	https://neurips.cc/virtual/2026/poster/150328	pending	-
-150306	SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring	https://neurips.cc/virtual/2026/poster/150306	pending	-
-152143	SIGA: Scientific Simulation Coding Agent Adapter- A Geophysics Case Study	https://neurips.cc/virtual/2026/poster/152143	pending	-
-152746	SIGMA: A Sigmoid-Gated Sampler for Test-Time Scaling in Diffusion Language Models	https://neurips.cc/virtual/2026/poster/152746	pending	-
-151764	SIGMA: Semantic-Difference Instruction-Grounding Mask Annotator for Text-Driven Image Manipulation Localization	https://neurips.cc/virtual/2026/poster/151764	pending	-
-150835	Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/150835	pending	-
-139286	SignalBench: Comparing Dense Feedback Methods for Long-Horizon Agents	https://neurips.cc/virtual/2026/poster/139286	pending	-
-154702	Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards	https://neurips.cc/virtual/2026/poster/154702	pending	-
-139252	Signature-Kernel Evaluation Metrics for Robust Probabilistic and Tail-Event Forecasting	https://neurips.cc/virtual/2026/poster/139252	pending	-
-149007	Sign-Based Optimizers Are Effective Under Heavy-Tailed Noise	https://neurips.cc/virtual/2026/poster/149007	pending	-
-154588	Signed-Permutation Coordinate Transport for RMSNorm Transformers	https://neurips.cc/virtual/2026/poster/154588	pending	-
-150261	Signed Rectified Flow: Negativity Controlled Generation	https://neurips.cc/virtual/2026/poster/150261	pending	-
-152299	SignRot: LLM Quantization with Massive Outlier-Aware Sign-Adjusted Rotation	https://neurips.cc/virtual/2026/poster/152299	pending	-
-139173	SiliciclasticReservoirs: A Million-Reservoir Dataset and Flow-Matching Foundation Model for 3D Siliciclastic Reservoir Generation	https://neurips.cc/virtual/2026/poster/139173	pending	-
-139658	SiliconBench: Speed, Memory, and Fidelity for LLM Inference on Apple Silicon	https://neurips.cc/virtual/2026/poster/139658	pending	-
-149726	SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation	https://neurips.cc/virtual/2026/poster/149726	pending	-
-150645	SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity	https://neurips.cc/virtual/2026/poster/150645	pending	-
-153233	SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation	https://neurips.cc/virtual/2026/poster/153233	pending	-
-148972	Similarity-Constrained Reweighting for Complex Query Answering on Knowledge Graphs	https://neurips.cc/virtual/2026/poster/148972	pending	-
-154316	Simmer: A Scalable Pretraining Recipe for Video-Text Encoders	https://neurips.cc/virtual/2026/poster/154316	pending	-
-149355	Simple Baselines are Competitive with Code Evolution	https://neurips.cc/virtual/2026/poster/149355	pending	-
-150637	SimpleEvol: Efficient Intelligence Conversion via Less Human Prior in Automated Heuristic Design	https://neurips.cc/virtual/2026/poster/150637	pending	-
-151368	Simple Extensions of Single-Objective Acquisition Functions and Hedge Strategies for Multi-Objective Bayesian Optimization	https://neurips.cc/virtual/2026/poster/151368	pending	-
-149298	Simple KNN-Based Outlier Detection Achieves Robust Clustering	https://neurips.cc/virtual/2026/poster/149298	pending	-
-148909	Simple Projection-Free Algorithm for Contextual Recommendation with Logarithmic Regret and Robustness	https://neurips.cc/virtual/2026/poster/148909	pending	-
-149228	Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics	https://neurips.cc/virtual/2026/poster/149228	pending	-
-139458	SimplexUQ: An Evaluation Framework and Benchmark for Conformal Uncertainty on Simplex-Valued Predictions	https://neurips.cc/virtual/2026/poster/139458	pending	-
-153083	Simple yet Effective Budget-Feasible Procurement Auctions for Submodular Welfare Maximization	https://neurips.cc/virtual/2026/poster/153083	pending	-
-151357	Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization	https://neurips.cc/virtual/2026/poster/151357	pending	-
-150401	Simplicity is Enough: ReAct Agents for Prompt Optimization	https://neurips.cc/virtual/2026/poster/150401	pending	-
-148514	Simplified Reversible Residual Networks	https://neurips.cc/virtual/2026/poster/148514	pending	-
-154869	Simplifying Transformer-Based U-Net Neural Physics Simulators	https://neurips.cc/virtual/2026/poster/154869	pending	-
-148808	SimpliHuMoN: Simplifying Human Motion Prediction	https://neurips.cc/virtual/2026/poster/148808	pending	-
-156008	SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization	https://neurips.cc/virtual/2026/poster/156008	pending	-
-153145	SimSD: Simple Speculative Decoding in Diffusion Language Models	https://neurips.cc/virtual/2026/poster/153145	pending	-
-148668	Simulating Human Memory with Language Models	https://neurips.cc/virtual/2026/poster/148668	pending	-
-149080	Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators	https://neurips.cc/virtual/2026/poster/149080	pending	-
-152094	Simulation-aided Reinforcement Learning with Control Variates	https://neurips.cc/virtual/2026/poster/152094	pending	-
-153960	Simulation-free Unbalanced Dynamic Optimal Transport with General Growth Penalty	https://neurips.cc/virtual/2026/poster/153960	pending	-
-150165	Simulation-Informed Diffusion for Decentralized Multi-robot Motion Planning	https://neurips.cc/virtual/2026/poster/150165	pending	-
-152329	Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image	https://neurips.cc/virtual/2026/poster/152329	pending	-
-155850	Simultaneous Gradient Learning in First-Price Auctions	https://neurips.cc/virtual/2026/poster/155850	pending	-
-151490	Simultaneous Individual, Group  and Multigroup Fairness in Set Covering Problems	https://neurips.cc/virtual/2026/poster/151490	pending	-
-152120	SimVLA: Attributing Gains in VLA Models Through Controlled Ablation	https://neurips.cc/virtual/2026/poster/152120	pending	-
-154877	SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning	https://neurips.cc/virtual/2026/poster/154877	pending	-
-152413	SING-CH: Task-Scale-Agnostic Lifelong Cross-Modal Hashing on Statistical Manifolds	https://neurips.cc/virtual/2026/poster/152413	pending	-
-148148	Single-Pass Evidence Measurement for Interpretable and Uncertainty-Aware Multimodal Face Anti-Spoofing	https://neurips.cc/virtual/2026/poster/148148	pending	-
-153806	Single Shot HDR Recovery via a Video Diffusion Prior	https://neurips.cc/virtual/2026/poster/153806	pending	-
-150748	Sinkhorn Based Associative Memory Retrieval Using Spherical Hellinger Kantorovich Dynamics	https://neurips.cc/virtual/2026/poster/150748	pending	-
-153161	Sink vs. diagonal patterns as mechanisms for attention switch and oversmoothing prevention	https://neurips.cc/virtual/2026/poster/153161	pending	-
-151147	SIRAS: Sibling-Relative Advantage Shaping for Reinforcement Learning from Verifiable Rewards	https://neurips.cc/virtual/2026/poster/151147	pending	-
-155992	SitCom: Scaling Egocentric Multi-Party Spoken Dialogue for Situated Communication Assistance	https://neurips.cc/virtual/2026/poster/155992	pending	-
-139713	SituRecBench: Evaluating Frontier Models as Situated Recommendation Assistants in 3D Environments	https://neurips.cc/virtual/2026/poster/139713	pending	-
-154483	Sketching the Readout of Large Language Models for Scalable Data Attribution and Valuation	https://neurips.cc/virtual/2026/poster/154483	pending	-
-155890	Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models	https://neurips.cc/virtual/2026/poster/155890	pending	-
-150596	Skill-Adaptive Noise Scheduling for Diffusion Policies	https://neurips.cc/virtual/2026/poster/150596	pending	-
-149869	SkillCIR: Intent-Guided Skill Composition for Training-Free Composed Image Retrieval	https://neurips.cc/virtual/2026/poster/149869	pending	-
-149473	Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation	https://neurips.cc/virtual/2026/poster/149473	pending	-
-151649	SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles	https://neurips.cc/virtual/2026/poster/151649	pending	-
-148850	SkillGen: Verified Inference-Time Agent Skill Synthesis	https://neurips.cc/virtual/2026/poster/148850	pending	-
-139261	Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks	https://neurips.cc/virtual/2026/poster/139261	pending	-
-151198	Skill-Level Effects in Behavioral Cloning: When Low-Skill Data Improves Performance	https://neurips.cc/virtual/2026/poster/151198	pending	-
-150167	SkillMaster: Toward Autonomous Skill Mastery in LLM Agents	https://neurips.cc/virtual/2026/poster/150167	pending	-
-151264	SkillOpt: Executive Strategy for Self-Evolving Agent Skills	https://neurips.cc/virtual/2026/poster/151264	pending	-
-155493	SkillOrchestra: Learning to Route Agents via Skill Transfer	https://neurips.cc/virtual/2026/poster/155493	pending	-
-151446	SkillOS: Learning Skill Curation for Self-Evolving Agents	https://neurips.cc/virtual/2026/poster/151446	pending	-
-156011	SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning	https://neurips.cc/virtual/2026/poster/156011	pending	-
-139353	SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks	https://neurips.cc/virtual/2026/poster/139353	pending	-
-151567	Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents	https://neurips.cc/virtual/2026/poster/151567	pending	-
-152785	SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking	https://neurips.cc/virtual/2026/poster/152785	pending	-
-148267	Skipping Domain Shifts: Domain Memory Retention Enhanced Hyperspectral Single-Source Domain Generalization	https://neurips.cc/virtual/2026/poster/148267	pending	-
-150768	SkipSR: Faster Super-Resolution with Token Skipping	https://neurips.cc/virtual/2026/poster/150768	pending	-
-149332	Skip the Hessian, Keep the Rates: Globalized Semismooth Newton with Lazy Hessian Updates	https://neurips.cc/virtual/2026/poster/149332	pending	-
-151503	SkiP: When to Skip and When to Refine for Efficient Robot Manipulation	https://neurips.cc/virtual/2026/poster/151503	pending	-
-139475	SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories	https://neurips.cc/virtual/2026/poster/139475	pending	-
-138946	SLAyiNG: A Diverse and Community-validated Dataset of Queer Slang	https://neurips.cc/virtual/2026/poster/138946	pending	-
-150237	SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing	https://neurips.cc/virtual/2026/poster/150237	pending	-
-150301	Sliced Inner Product Gromov–Wasserstein Distances	https://neurips.cc/virtual/2026/poster/150301	pending	-
-152892	Sliced Wasserstein Meets Quantum Optics:  Provable Wavefunctions Tomography with Scarce Noisy Measurements	https://neurips.cc/virtual/2026/poster/152892	pending	-
-150217	SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation	https://neurips.cc/virtual/2026/poster/150217	pending	-
-153101	SLIC: Reinforcement Fine-Tuning Small LMs for Multi-Turn Analog Circuit Optimization	https://neurips.cc/virtual/2026/poster/153101	pending	-
-139394	Slide P2V-Bench: A Cross-Domain Benchmark for Slide-Centric Scientific Paper-to-Presentation Video Generation	https://neurips.cc/virtual/2026/poster/139394	pending	-
-153403	SLIDERS: Systematic Reviews via Automated Evidence Synthesis and Reconciliation	https://neurips.cc/virtual/2026/poster/153403	pending	-
-155791	SLiDE: Structured Linear Dynamics for Forecasting with Exogenous Inputs	https://neurips.cc/virtual/2026/poster/155791	pending	-
-153520	SliMOO: Interpretable Multi-Objective Evolutionary Search for LLM Depth Pruning	https://neurips.cc/virtual/2026/poster/153520	pending	-
-138903	SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks	https://neurips.cc/virtual/2026/poster/138903	pending	-
-154636	SLOPE: Optimistic Potential Landscape Shaping for Model-based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154636	pending	-
-153515	SLOT-IR: Learning Disentangled Slot Representations for Infrared Spectral Unmixing	https://neurips.cc/virtual/2026/poster/153515	pending	-
-154236	Slower Generalization, Faster Memorization: A Sweet Spot in Algorithmic Learning	https://neurips.cc/virtual/2026/poster/154236	pending	-
-155034	Slowly Annealed Langevin Dynamics: Theory and Applications to Training-Free Guided Generation	https://neurips.cc/virtual/2026/poster/155034	pending	-
-139743	SLS-Bench: A Benchmark for Incident Log Summarization with Synthetic Observability Data	https://neurips.cc/virtual/2026/poster/139743	pending	-
-139283	SLVMBench: Skill Learning from Video Memory	https://neurips.cc/virtual/2026/poster/139283	pending	-
-154074	SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows	https://neurips.cc/virtual/2026/poster/154074	pending	-
-155994	Small Model Portfolios for Many Deployment Profiles: Submodular Coverage under Bundled Constraints	https://neurips.cc/virtual/2026/poster/155994	pending	-
-150817	Smart Picks in the Dark: Towards Efficient RLVR for Reasoning via Tracing Metacognitive Pivots	https://neurips.cc/virtual/2026/poster/150817	pending	-
-149874	SMART: Scalable Multi-Agent Role-conditioned  Teaming via LLM-free Tree Search	https://neurips.cc/virtual/2026/poster/149874	pending	-
-150005	SMASH: Probing Speech Recognition Robustness via Semantically Targeted Bit Flips	https://neurips.cc/virtual/2026/poster/150005	pending	-
-152682	SMILE: Bridging Continuous Optimization and Discrete Symbolic Recovery	https://neurips.cc/virtual/2026/poster/152682	pending	-
-154857	SMI: Semantic Medical ID for Hierarchy-Aware Concept Representation	https://neurips.cc/virtual/2026/poster/154857	pending	-
-153407	SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing	https://neurips.cc/virtual/2026/poster/153407	pending	-
-139761	SMMBench: A Benchmark for Source-Distributed Multimodal Agent Memory	https://neurips.cc/virtual/2026/poster/139761	pending	-
-153914	sMMC-22M: A Context-Aware Dataset and Benchmark for Single-Cell Spatial Transcriptomics	https://neurips.cc/virtual/2026/poster/153914	pending	-
-153896	SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning	https://neurips.cc/virtual/2026/poster/153896	pending	-
-151366	SMOG: Scalable Meta-Learning for Multi-Objective Bayesian Optimization	https://neurips.cc/virtual/2026/poster/151366	pending	-
-151864	Smoothed Elicitation Complexity for Approximate $\Gamma$-calibration of Discrete Classification Tasks	https://neurips.cc/virtual/2026/poster/151864	pending	-
-155645	Smoothed Score Queries and the Complexity of Sampling	https://neurips.cc/virtual/2026/poster/155645	pending	-
-156636	Smooth Flow Matching for Synthesizing Functional Data	https://neurips.cc/virtual/2026/poster/156636	pending	-
-148194	Smooth Partial Lotteries for Stable Randomized Selection	https://neurips.cc/virtual/2026/poster/148194	pending	-
-152423	Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions	https://neurips.cc/virtual/2026/poster/152423	pending	-
-153507	SNACK: A Sequential Notation Framework for Probabilistic Graph Generation	https://neurips.cc/virtual/2026/poster/153507	pending	-
-150952	SnapAudit: Active Auditing of Differentially Private In-Context Learning via Snapshot-Based Simulation	https://neurips.cc/virtual/2026/poster/150952	pending	-
-148693	SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining	https://neurips.cc/virtual/2026/poster/148693	pending	-
-148985	SO(3)-Equivariant Learning on CAD Boundary Representations	https://neurips.cc/virtual/2026/poster/148985	pending	-
-151769	SOAP-Bubbles: Effective and Scalable Variational Learning with Structured Covariances	https://neurips.cc/virtual/2026/poster/151769	pending	-
+153528	Should We Pay This Much for Robustness? Efficient Proxy Certificates with Marginal Guarantees	https://neurips.cc/virtual/2026/poster/153528	included	用便宜代理先认证，拒绝时回退精确证书。
+149469	Show Me What You Don’t Know: Efficient Sampling from Invariant Sets for Model Validation	https://neurips.cc/virtual/2026/poster/149469	included	用同特征异输入直接审计模型不变性。
+151972	SHRED: Retain-Set-Free Unlearning via Self-Distillation with Logit Demotion	https://neurips.cc/virtual/2026/poster/151972	included	无保留集遗忘集中处理高信息 token。
+151992	Shuffle and Joint Differential Privacy for Generalized Linear Contextual Bandits	https://neurips.cc/virtual/2026/poster/151992	excluded	理论隐私 contextual bandit 的结果未明确目标深度学习中的可执行选择。
+152542	SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network	https://neurips.cc/virtual/2026/poster/152542	included	事件光流保留随时间变化的关注区域。
+148899	SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues	https://neurips.cc/virtual/2026/poster/148899	included	新视角运动控制为几何加稳定的可追踪纹理。
+150328	SIEVE: Overcoming Topological Obstruction in Equivariant Self-Supervised Learning	https://neurips.cc/virtual/2026/poster/150328	included	等变掩码任务缺帧时预测不变标量。
+150306	SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring	https://neurips.cc/virtual/2026/poster/150306	included	视觉拒答采用证据可靠性分数。
+152143	SIGA: Scientific Simulation Coding Agent Adapter- A Geophysics Case Study	https://neurips.cc/virtual/2026/poster/152143	included	科学仿真代理先独立验输入可解析及结构。
+152746	SIGMA: A Sigmoid-Gated Sampler for Test-Time Scaling in Diffusion Language Models	https://neurips.cc/virtual/2026/poster/152746	included	扩散插词分别调位置选择和 token 温度。
+151764	SIGMA: Semantic-Difference Instruction-Grounding Mask Annotator for Text-Driven Image Manipulation Localization	https://neurips.cc/virtual/2026/poster/151764	included	从有编辑前后图和指令推区域标签。
+150835	Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/150835	included	无梯度优化按估计信号归一 KL 信赖域。
+139286	SignalBench: Comparing Dense Feedback Methods for Long-Horizon Agents	https://neurips.cc/virtual/2026/poster/139286	included	训练前用参考策略价值筛密集反馈。
+154702	Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards	https://neurips.cc/virtual/2026/poster/154702	included	非线性 bandit 从轨迹上下文计算路径签名。
+139252	Signature-Kernel Evaluation Metrics for Robust Probabilistic and Tail-Event Forecasting	https://neurips.cc/virtual/2026/poster/139252	included	尾部时序预测用聚焦区域的 proper score。
+149007	Sign-Based Optimizers Are Effective Under Heavy-Tailed Noise	https://neurips.cc/virtual/2026/poster/149007	included	梯度噪声重尾时对照符号和幅值更新。
+154588	Signed-Permutation Coordinate Transport for RMSNorm Transformers	https://neurips.cc/virtual/2026/poster/154588	included	RMSNorm 模型合并时允许通道翻号。
+150261	Signed Rectified Flow: Negativity Controlled Generation	https://neurips.cc/virtual/2026/poster/150261	included	同时规定生成应促成与应抑制的分布。
+152299	SignRot: LLM Quantization with Massive Outlier-Aware Sign-Adjusted Rotation	https://neurips.cc/virtual/2026/poster/152299	included	旋转后出现双峰时先对离群通道做符号修正。
+139173	SiliciclasticReservoirs: A Million-Reservoir Dataset and Flow-Matching Foundation Model for 3D Siliciclastic Reservoir Generation	https://neurips.cc/virtual/2026/poster/139173	excluded	核心为储层数据规模和地质生成应用，未独立建立目标领域技术机制。
+139658	SiliconBench: Speed, Memory, and Fidelity for LLM Inference on Apple Silicon	https://neurips.cc/virtual/2026/poster/139658	included	对本地推理栈同时测并发吞吐、系统争用峰值内存和同权重精度。
+149726	SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation	https://neurips.cc/virtual/2026/poster/149726	included	将高分辨率三维形状编码为重叠的多轴切片潜变量。
+150645	SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity	https://neurips.cc/virtual/2026/poster/150645	excluded	交通预测由信号调节和动态空间耦合共同改善，摘要未给独立迁移证据。
+153233	SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation	https://neurips.cc/virtual/2026/poster/153233	included	跨分词器蒸馏对齐双方均可产生的短续写。
+148972	Similarity-Constrained Reweighting for Complex Query Answering on Knowledge Graphs	https://neurips.cc/virtual/2026/poster/148972	excluded	摘要重点是知识图问答的特定偏好约束，未给通用代理检索选择的新证据。
+154316	Simmer: A Scalable Pretraining Recipe for Video-Text Encoders	https://neurips.cc/virtual/2026/poster/154316	included	为同一视频扩充多角度字幕时同时使用多向量对比对齐。
+149355	Simple Baselines are Competitive with Code Evolution	https://neurips.cc/virtual/2026/poster/149355	included	代码演化基线要匹配搜索空间与评估预算后再比较搜索算法。
+150637	SimpleEvol: Efficient Intelligence Conversion via Less Human Prior in Automated Heuristic Design	https://neurips.cc/virtual/2026/poster/150637	excluded	与本批代码演化简单基线洞见重叠，摘要未给独立说明减少哪种先验更有利的对照。
+151368	Simple Extensions of Single-Objective Acquisition Functions and Hedge Strategies for Multi-Objective Bayesian Optimization	https://neurips.cc/virtual/2026/poster/151368	included	用超体积变换把现有单目标采集策略迁到多目标。
+149298	Simple KNN-Based Outlier Detection Achieves Robust Clustering	https://neurips.cc/virtual/2026/poster/149298	included	鲁棒聚类可先筛除近邻距离最大的点，再调用普通 k-means。
+148909	Simple Projection-Free Algorithm for Contextual Recommendation with Logarithmic Regret and Robustness	https://neurips.cc/virtual/2026/poster/148909	excluded	无投影更新依赖特定上下文推荐问题的非恰当性，摘要未给深度方法迁移证据。
+149228	Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics	https://neurips.cc/virtual/2026/poster/149228	included	从图片生成可执行绘图代码后，让轻量诊断器定位需要修订的视觉错误。
+139458	SimplexUQ: An Evaluation Framework and Benchmark for Conformal Uncertainty on Simplex-Valued Predictions	https://neurips.cc/virtual/2026/poster/139458	included	评估概率单纯形上的共形区间应并列检查整体与最差分层覆盖。
+153083	Simple yet Effective Budget-Feasible Procurement Auctions for Submodular Welfare Maximization	https://neurips.cc/virtual/2026/poster/153083	excluded	预算拍卖证明集中于卖方报价机制，缺乏对代理或具身模型的迁移证据。
+151357	Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization	https://neurips.cc/virtual/2026/poster/151357	included	有标签监督与教师蒸馏冲突时使用两个预测头。
+150401	Simplicity is Enough: ReAct Agents for Prompt Optimization	https://neurips.cc/virtual/2026/poster/150401	included	提示优化以标准 ReAct 加反馈作为基线，并在足够样本上比较。
+148514	Simplified Reversible Residual Networks	https://neurips.cc/virtual/2026/poster/148514	included	用恒等支路构造只需一种原残差变换的可逆训练层。
+154869	Simplifying Transformer-Based U-Net Neural Physics Simulators	https://neurips.cc/virtual/2026/poster/154869	excluded	物理模拟器简化结果有潜力，但摘要未明确支持迁移的最小块修改。
+148808	SimpliHuMoN: Simplifying Human Motion Prediction	https://neurips.cc/virtual/2026/poster/148808	excluded	主要以标准注意力处理已有的人体预测任务，摘要未给独立新机制。
+156008	SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization	https://neurips.cc/virtual/2026/poster/156008	included	语言预训练在普通预测之外对序列内共享目标标签的 token 加表征约束。
+153145	SimSD: Simple Speculative Decoding in Diffusion Language Models	https://neurips.cc/virtual/2026/poster/153145	included	扩散语言推理比较训练自由的推测式并行解码
+148668	Simulating Human Memory with Language Models	https://neurips.cc/virtual/2026/poster/148668	included	模拟用户记忆需复现选择性遗忘
+149080	Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators	https://neurips.cc/virtual/2026/poster/149080	excluded	用教育误解保真专项训练，摘要未给跨交互任务的独立机制验证。
+152094	Simulation-aided Reinforcement Learning with Control Variates	https://neurips.cc/virtual/2026/poster/152094	included	模拟数据作为控制变量而非混入真实训练目标
+153960	Simulation-free Unbalanced Dynamic Optimal Transport with General Growth Penalty	https://neurips.cc/virtual/2026/poster/153960	excluded	主要为空间输运及细胞设置，摘要未给安全通用的重点方向对照。
+150165	Simulation-Informed Diffusion for Decentralized Multi-robot Motion Planning	https://neurips.cc/virtual/2026/poster/150165	included	用本地邻居预测决定何时才协调通信
+152329	Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image	https://neurips.cc/virtual/2026/poster/152329	excluded	物理纠偏多个组件共同展示，摘要未给独立干预的作用边界。
+155850	Simultaneous Gradient Learning in First-Price Auctions	https://neurips.cc/virtual/2026/poster/155850	excluded	主要为一价拍卖中的理论均衡，不直接改变当前研究选型。
+151490	Simultaneous Individual, Group  and Multigroup Fairness in Set Covering Problems	https://neurips.cc/virtual/2026/poster/151490	excluded	主要为集合覆盖的算法理论，未验证深度方向。
+152120	SimVLA: Attributing Gains in VLA Models Through Controlled Ablation	https://neurips.cc/virtual/2026/poster/152120	included	VLA 架构结论要与调优后的简单基线比较
+154877	SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning	https://neurips.cc/virtual/2026/poster/154877	excluded	主要描述自动生成环境系统，摘要未分离环境生成质量与课程机制的独立作用。
+152413	SING-CH: Task-Scale-Agnostic Lifelong Cross-Modal Hashing on Statistical Manifolds	https://neurips.cc/virtual/2026/poster/152413	excluded	主要为特定增量检索哈希及优化组合，摘要未给独立通用收益。
+148148	Single-Pass Evidence Measurement for Interpretable and Uncertainty-Aware Multimodal Face Anti-Spoofing	https://neurips.cc/virtual/2026/poster/148148	excluded	主要在脸部防欺任务给出量化证据，未核对通用融合设置。
+153806	Single Shot HDR Recovery via a Video Diffusion Prior	https://neurips.cc/virtual/2026/poster/153806	included	静态重建可将视频对应借给序列条件重建
+150748	Sinkhorn Based Associative Memory Retrieval Using Spherical Hellinger Kantorovich Dynamics	https://neurips.cc/virtual/2026/poster/150748	excluded	证据主要为随机点云理论和合成，未验证常见 Agent 检索。
+153161	Sink vs. diagonal patterns as mechanisms for attention switch and oversmoothing prevention	https://neurips.cc/virtual/2026/poster/153161	included	区别注意力 sink 与对角自通信的抗过平滑作用
+151147	SIRAS: Sibling-Relative Advantage Shaping for Reinforcement Learning from Verifiable Rewards	https://neurips.cc/virtual/2026/poster/151147	included	可验证奖励中检查全对和全错组是否仍有训练信号
+155992	SitCom: Scaling Egocentric Multi-Party Spoken Dialogue for Situated Communication Assistance	https://neurips.cc/virtual/2026/poster/155992	included	环境语音助手将现场查询与离线理解拆开验收
+139713	SituRecBench: Evaluating Frontier Models as Situated Recommendation Assistants in 3D Environments	https://neurips.cc/virtual/2026/poster/139713	excluded	主要提出现场推荐评测，未给能直接确定技术选择的分项对照。
+154483	Sketching the Readout of Large Language Models for Scalable Data Attribution and Valuation	https://neurips.cc/virtual/2026/poster/154483	excluded	摘要未给安全子任务的独立机制细节和对照，暂不据此入库。
+155890	Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models	https://neurips.cc/virtual/2026/poster/155890	included	扩散多模态生成先给结构 token 信用。
+150596	Skill-Adaptive Noise Scheduling for Diffusion Policies	https://neurips.cc/virtual/2026/poster/150596	included	扩散技能动作按技能和运动维度选噪声。
+149869	SkillCIR: Intent-Guided Skill Composition for Training-Free Composed Image Retrieval	https://neurips.cc/virtual/2026/poster/149869	included	组合检索将意图条件分流给专用技能。
+149473	Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation	https://neurips.cc/virtual/2026/poster/149473	included	小组策略梯度借相关技能校准优势基线。
+151649	SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles	https://neurips.cc/virtual/2026/poster/151649	included	技能库训练全程给予可回退的生命周期。
+148850	SkillGen: Verified Inference-Time Agent Skill Synthesis	https://neurips.cc/virtual/2026/poster/148850	included	推理期从轨迹提炼单个可审计技能再独立验收。
+139261	Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks	https://neurips.cc/virtual/2026/poster/139261	excluded	摘要的贡献以代理技能文件注入攻击评测为主，尚未验证可复用防御机制。
+151198	Skill-Level Effects in Behavioral Cloning: When Low-Skill Data Improves Performance	https://neurips.cc/virtual/2026/poster/151198	included	行为克隆选演示时测策略对小错误的脆弱性。
+150167	SkillMaster: Toward Autonomous Skill Mastery in LLM Agents	https://neurips.cc/virtual/2026/poster/150167	included	技能编辑用相关探针任务的反事实效用监督。
+151264	SkillOpt: Executive Strategy for Self-Evolving Agent Skills	https://neurips.cc/virtual/2026/poster/151264	included	冻结代理时以留出增益批准文本技能编辑。
+155493	SkillOrchestra: Learning to Route Agents via Skill Transfer	https://neurips.cc/virtual/2026/poster/155493	included	编排器显式建成员技能并跨任务迁移。
+151446	SkillOS: Learning Skill Curation for Self-Evolving Agents	https://neurips.cc/virtual/2026/poster/151446	included	训练技能管理员时后续相关任务评价先前更新。
+156011	SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning	https://neurips.cc/virtual/2026/poster/156011	included	从经验蒸馏通用技能与任务特定技能两层。
+139353	SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks	https://neurips.cc/virtual/2026/poster/139353	included	技能评估用同任务加技能前后的成对比较。
+151567	Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents	https://neurips.cc/virtual/2026/poster/151567	included	多轮技能仅在训练中作为自蒸馏条件。
+152785	SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking	https://neurips.cc/virtual/2026/poster/152785	included	工具代理剪枝按 token 角色组织知识保留。
+148267	Skipping Domain Shifts: Domain Memory Retention Enhanced Hyperspectral Single-Source Domain Generalization	https://neurips.cc/virtual/2026/poster/148267	excluded	主要为高光谱单源域泛化，摘要未单独验证域记忆能跨目标场景复用。
+150768	SkipSR: Faster Super-Resolution with Token Skipping	https://neurips.cc/virtual/2026/poster/150768	included	从低分辨率直接筛低细节区域，跳过超分重算。
+149332	Skip the Hessian, Keep the Rates: Globalized Semismooth Newton with Lazy Hessian Updates	https://neurips.cc/virtual/2026/poster/149332	included	半光滑 Newton 按周期刷新 Hessian。
+151503	SkiP: When to Skip and When to Refine for Efficient Robot Manipulation	https://neurips.cc/virtual/2026/poster/151503	included	将低动作复杂度示范段重标到下个关键入口。
+139475	SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories	https://neurips.cc/virtual/2026/poster/139475	included	协作代理测评让证据来自变化的仓库状态和多人会话。
+138946	SLAyiNG: A Diverse and Community-validated Dataset of Queer Slang	https://neurips.cc/virtual/2026/poster/138946	excluded	主要贡献是特定社区的语言资源，摘要未给可直接改变目标研究方向的模型机制。
+150237	SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing	https://neurips.cc/virtual/2026/poster/150237	included	微调后恢复安全行为时，先诊断哪些层的干预对拒绝行为影响最大。
+150301	Sliced Inner Product Gromov–Wasserstein Distances	https://neurips.cc/virtual/2026/poster/150301	included	比较不同模型的表示几何时使用旋转不变的切片结构距离。
+152892	Sliced Wasserstein Meets Quantum Optics:  Provable Wavefunctions Tomography with Scarce Noisy Measurements	https://neurips.cc/virtual/2026/poster/152892	excluded	波函数层析紧密依赖特定物理测量算子，摘要未给其他逆问题的迁移结果。
+150217	SliceWorld: A Predictive and Controllable World-State Model for CT Report Generation	https://neurips.cc/virtual/2026/poster/150217	excluded	CT 切片自然顺序及病灶因子主要服务临床报告，摘要不足以区分通用预测机制的独立贡献。
+153101	SLIC: Reinforcement Fine-Tuning Small LMs for Multi-Turn Analog Circuit Optimization	https://neurips.cc/virtual/2026/poster/153101	excluded	电路任务中的动作、目标和仿真反馈高度定制，摘要未给独立证明反馈机制可迁移的对照。
+139394	Slide P2V-Bench: A Cross-Domain Benchmark for Slide-Centric Scientific Paper-to-Presentation Video Generation	https://neurips.cc/virtual/2026/poster/139394	excluded	主要是科学论文转演示的综合流程与基准，摘要未隔离共享时序机制的重要性。
+153403	SLIDERS: Systematic Reviews via Automated Evidence Synthesis and Reconciliation	https://neurips.cc/virtual/2026/poster/153403	included	科学综述代理应保留结构化结果和原文证据两条引用链，并自动核对两者。
+155791	SLiDE: Structured Linear Dynamics for Forecasting with Exogenous Inputs	https://neurips.cc/virtual/2026/poster/155791	included	有外生变量的预测器让编码历史和推演未来共享线性潜状态动力学。
+153520	SliMOO: Interpretable Multi-Objective Evolutionary Search for LLM Depth Pruning	https://neurips.cc/virtual/2026/poster/153520	included	深度剪枝使用任务分开的目标与逐层移除重要图，而非单排名。
+138903	SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks	https://neurips.cc/virtual/2026/poster/138903	included	代理反复修改自己的代码时，同时跟踪通过率、集中复杂度和冗余。
+154636	SLOPE: Optimistic Potential Landscape Shaping for Model-based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154636	included	模型式规划可学习成功概率的乐观潜势，改善稀疏目标的搜索信号。
+153515	SLOT-IR: Learning Disentangled Slot Representations for Infrared Spectral Unmixing	https://neurips.cc/virtual/2026/poster/153515	excluded	光谱解混高度依赖分子和相位转换，摘要未给槽位方法在其他问题的独立比较。
+154236	Slower Generalization, Faster Memorization: A Sweet Spot in Algorithmic Learning	https://neurips.cc/virtual/2026/poster/154236	included	数据量调参分开看规则泛化拐点与达到目标精度的梯度步数。
+155034	Slowly Annealed Langevin Dynamics: Theory and Applications to Training-Free Guided Generation	https://neurips.cc/virtual/2026/poster/155034	excluded	摘要只有理论保证，未给足够实践对照来选择引导生成中的退火速度。
+139743	SLS-Bench: A Benchmark for Incident Log Summarization with Synthetic Observability Data	https://neurips.cc/virtual/2026/poster/139743	excluded	主要贡献是合成日志基准及生成工作流，摘要未独立验证可迁移方法。
+139283	SLVMBench: Skill Learning from Video Memory	https://neurips.cc/virtual/2026/poster/139283	included	视频记忆应测从长干扰流中提取教程并将技能用于新观测。
+154074	SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows	https://neurips.cc/virtual/2026/poster/154074	included	用带分工的潜状态承载视觉规划、定位和取证。
+155994	Small Model Portfolios for Many Deployment Profiles: Submodular Coverage under Bundled Constraints	https://neurips.cc/virtual/2026/poster/155994	included	选择少量部署模型时，按完整约束包覆盖需求，而不是按单指标保留模型。
+150817	Smart Picks in the Dark: Towards Efficient RLVR for Reasoning via Tracing Metacognitive Pivots	https://neurips.cc/virtual/2026/poster/150817	included	可校验推理训练按内部转折信号分配人工标注
+149874	SMART: Scalable Multi-Agent Role-conditioned  Teaming via LLM-free Tree Search	https://neurips.cc/virtual/2026/poster/149874	included	团队在线选角色可先用元数据进行无模型调用树搜索
+150005	SMASH: Probing Speech Recognition Robustness via Semantically Targeted Bit Flips	https://neurips.cc/virtual/2026/poster/150005	excluded	核心为定向使语音识别产生特定语义错误，未给独立安全防御机制。
+152682	SMILE: Bridging Continuous Optimization and Discrete Symbolic Recovery	https://neurips.cc/virtual/2026/poster/152682	excluded	主要为符号回归任务，摘要未验证向当前深度重点研究的选择迁移。
+154857	SMI: Semantic Medical ID for Hierarchy-Aware Concept Representation	https://neurips.cc/virtual/2026/poster/154857	excluded	主要为医疗概念序列层级表示，未给安全通用任务实证。
+153407	SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing	https://neurips.cc/virtual/2026/poster/153407	excluded	摘要未明确当前部署审计条件与迁移范围。
+139761	SMMBench: A Benchmark for Source-Distributed Multimodal Agent Memory	https://neurips.cc/virtual/2026/poster/139761	included	跨源多模态记忆独立测来源整合与基于记忆的动作
+153914	sMMC-22M: A Context-Aware Dataset and Benchmark for Single-Cell Spatial Transcriptomics	https://neurips.cc/virtual/2026/poster/153914	excluded	主要为细胞转录组数据集及预测，未给安全通用机制实证。
+153896	SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning	https://neurips.cc/virtual/2026/poster/153896	included	低预算适配为多个谱区保留更新通道
+151366	SMOG: Scalable Meta-Learning for Multi-Objective Bayesian Optimization	https://neurips.cc/virtual/2026/poster/151366	excluded	主要为多目标贝叶斯优化代理，摘要未报告对重点任务的可核查选择收益。
+151864	Smoothed Elicitation Complexity for Approximate $\Gamma$-calibration of Discrete Classification Tasks	https://neurips.cc/virtual/2026/poster/151864	excluded	主要讨论离散分类性质的校准复杂度，未连接重点深度场景。
+155645	Smoothed Score Queries and the Complexity of Sampling	https://neurips.cc/virtual/2026/poster/155645	excluded	主要为平滑采样预言机理论，摘要未给可直接对照的生成训练设置。
+156636	Smooth Flow Matching for Synthesizing Functional Data	https://neurips.cc/virtual/2026/poster/156636	excluded	真实应用主要针对临床轨迹生成，摘要未单列重点任务机制证据。
+148194	Smooth Partial Lotteries for Stable Randomized Selection	https://neurips.cc/virtual/2026/poster/148194	included	阈值式录取或分流测单分变化的稳定性
+152423	Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions	https://neurips.cc/virtual/2026/poster/152423	included	神经算子把不连续边界和区内光滑解分开
+153507	SNACK: A Sequential Notation Framework for Probabilistic Graph Generation	https://neurips.cc/virtual/2026/poster/153507	excluded	含分子生成，摘要未独立给出安全通用验证细节。
+150952	SnapAudit: Active Auditing of Differentially Private In-Context Learning via Snapshot-Based Simulation	https://neurips.cc/virtual/2026/poster/150952	excluded	主要通过主动模拟验证既有隐私缺陷，摘要未单列可采用的独立非操作性防护方法。
+148693	SnapMLA: Efficient Long-Context MLA Decoding via Hardware-Aware FP8 Quantized Pipelining	https://neurips.cc/virtual/2026/poster/148693	excluded	主要是 FP8 和硬件内核的联合部署，未给关键因素可独立复用的证据。
+148985	SO(3)-Equivariant Learning on CAD Boundary Representations	https://neurips.cc/virtual/2026/poster/148985	included	CAD 编码对中间方向做等变传播，末端读出不变
+151769	SOAP-Bubbles: Effective and Scalable Variational Learning with Structured Covariances	https://neurips.cc/virtual/2026/poster/151769	included	变分近似用二阶坐标结构表达协方差
 151153	SOAR: Regression-based LiDAR Relocalization for UAVs	https://neurips.cc/virtual/2026/poster/151153	pending	-
 148421	SOAR: Semantic Organ-Aware Pretraining for 3D CT Image Understanding	https://neurips.cc/virtual/2026/poster/148421	pending	-
 152622	Sobolev Regularized MMD Gradient Flow	https://neurips.cc/virtual/2026/poster/152622	pending	-

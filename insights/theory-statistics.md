@@ -1131,5 +1131,8 @@
 - [Sequential Probabilistic Uncertainty Estimation for Parallel Multi-Agent Reasoning Systems](../conferences/neurips-2026/cards-0011.md#paper-153160)
 - [SGD at the Edge of Stability: The Stochastic Sharpness Gap](../conferences/neurips-2026/cards-0011.md#paper-150405)
 - [SGD Provably Prioritizes a Shortcut Spurious Feature in the XOR Model](../conferences/neurips-2026/cards-0011.md#paper-153017)
+- [SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring](../conferences/neurips-2026/cards-0011.md#paper-150306)
+- [Sliced Inner Product Gromov–Wasserstein Distances](../conferences/neurips-2026/cards-0011.md#paper-150301)
+- [Slower Generalization, Faster Memorization: A Sweet Spot in Algorithmic Learning](../conferences/neurips-2026/cards-0011.md#paper-154236)
 
 <!-- conference-classification:end -->

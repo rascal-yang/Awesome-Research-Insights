@@ -602,5 +602,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images](../../conferences/neurips-2026/cards-0010.md#paper-153642)
 - [Selective Disk Bispectrum: A Complete and Rotation Invariant Image Descriptor](../../conferences/neurips-2026/cards-0010.md#paper-151621)
 - [Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning](../../conferences/neurips-2026/cards-0011.md#paper-154148)
+- [Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards](../../conferences/neurips-2026/cards-0011.md#paper-154702)
+- [SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](../../conferences/neurips-2026/cards-0011.md#paper-149726)
+- [SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows](../../conferences/neurips-2026/cards-0011.md#paper-154074)
 
 <!-- conference-classification:end -->

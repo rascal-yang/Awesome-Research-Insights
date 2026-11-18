@@ -447,5 +447,10 @@
 - [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](../conferences/neurips-2026/cards-0011.md#paper-149928)
 - [Serialization Tax in Shared-Latent Exchangeable Decisions](../conferences/neurips-2026/cards-0011.md#paper-148577)
 - [ShiftRAG: Bypassing the Textual Bottleneck via Decoupled Learning and Continuous Soft Tokens](../conferences/neurips-2026/cards-0011.md#paper-150524)
+- [Simulating Human Memory with Language Models](../conferences/neurips-2026/cards-0011.md#paper-148668)
+- [SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles](../conferences/neurips-2026/cards-0011.md#paper-151649)
+- [SkillMaster: Toward Autonomous Skill Mastery in LLM Agents](../conferences/neurips-2026/cards-0011.md#paper-150167)
+- [SkillOrchestra: Learning to Route Agents via Skill Transfer](../conferences/neurips-2026/cards-0011.md#paper-155493)
+- [SkillOS: Learning Skill Curation for Self-Evolving Agents](../conferences/neurips-2026/cards-0011.md#paper-151446)
 
 <!-- conference-classification:end -->

@@ -859,5 +859,10 @@ Robot perception, policy learning, planning, and control.
 - [Semantics-to-Contact: A Stagewise Framework for Robust Contact-Rich Manipulation](../../conferences/neurips-2026/cards-0011.md#paper-150648)
 - [SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of Foundation Model-based Embodied Agents](../../conferences/neurips-2026/cards-0011.md#paper-139690)
 - [Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control](../../conferences/neurips-2026/cards-0011.md#paper-154044)
+- [Simulation-aided Reinforcement Learning with Control Variates](../../conferences/neurips-2026/cards-0011.md#paper-152094)
+- [Simulation-Informed Diffusion for Decentralized Multi-robot Motion Planning](../../conferences/neurips-2026/cards-0011.md#paper-150165)
+- [SimVLA: Attributing Gains in VLA Models Through Controlled Ablation](../../conferences/neurips-2026/cards-0011.md#paper-152120)
+- [Skill-Adaptive Noise Scheduling for Diffusion Policies](../../conferences/neurips-2026/cards-0011.md#paper-150596)
+- [SkiP: When to Skip and When to Refine for Efficient Robot Manipulation](../../conferences/neurips-2026/cards-0011.md#paper-151503)
 
 <!-- conference-classification:end -->

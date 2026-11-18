@@ -396,5 +396,7 @@ Objectives, auxiliary supervision, and regularization.
 - [S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs](../../conferences/neurips-2026/cards-0010.md#paper-148866)
 - [Selectivity and Shape in the Design of Forward-Forward Goodness Functions](../../conferences/neurips-2026/cards-0011.md#paper-148701)
 - [Self-Supervised Doppler-Guided RF Odometry](../../conferences/neurips-2026/cards-0011.md#paper-153105)
+- [Simmer: A Scalable Pretraining Recipe for Video-Text Encoders](../../conferences/neurips-2026/cards-0011.md#paper-154316)
+- [SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization](../../conferences/neurips-2026/cards-0011.md#paper-156008)
 
 <!-- conference-classification:end -->

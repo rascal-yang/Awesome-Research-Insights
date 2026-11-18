@@ -752,5 +752,14 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Search at the Cost of Sampling: Nearly-Instant Latent Space Bayesian Optimization](../../conferences/neurips-2026/cards-0010.md#paper-150226)
 - [Select-then-differentiate: Solving Bilevel Optimization with Manifold Lower-level Solution Sets](../../conferences/neurips-2026/cards-0011.md#paper-153170)
 - [SePO: Self-Evolving Prompt Agent for System Prompt Optimization](../../conferences/neurips-2026/cards-0011.md#paper-151189)
+- [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](../../conferences/neurips-2026/cards-0011.md#paper-150835)
+- [Sign-Based Optimizers Are Effective Under Heavy-Tailed Noise](../../conferences/neurips-2026/cards-0011.md#paper-149007)
+- [Simple Extensions of Single-Objective Acquisition Functions and Hedge Strategies for Multi-Objective Bayesian Optimization](../../conferences/neurips-2026/cards-0011.md#paper-151368)
+- [Simple KNN-Based Outlier Detection Achieves Robust Clustering](../../conferences/neurips-2026/cards-0011.md#paper-149298)
+- [Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation](../../conferences/neurips-2026/cards-0011.md#paper-149473)
+- [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](../../conferences/neurips-2026/cards-0011.md#paper-151264)
+- [Skip the Hessian, Keep the Rates: Globalized Semismooth Newton with Lazy Hessian Updates](../../conferences/neurips-2026/cards-0011.md#paper-149332)
+- [SliMOO: Interpretable Multi-Objective Evolutionary Search for LLM Depth Pruning](../../conferences/neurips-2026/cards-0011.md#paper-153520)
+- [Small Model Portfolios for Many Deployment Profiles: Submodular Coverage under Bundled Constraints](../../conferences/neurips-2026/cards-0011.md#paper-155994)
 
 <!-- conference-classification:end -->

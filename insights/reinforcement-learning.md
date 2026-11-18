@@ -710,5 +710,10 @@
 - [Self-Supervised Goal-Reaching Results in Multi-Agent Cooperation and Exploration](../conferences/neurips-2026/cards-0011.md#paper-148922)
 - [Self-Supervised On-Policy Reinforcement Learning via Contrastive Proximal Policy Optimisation](../conferences/neurips-2026/cards-0011.md#paper-154892)
 - [Semantic-level Exploration for Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-152298)
+- [Simulation-aided Reinforcement Learning with Control Variates](../conferences/neurips-2026/cards-0011.md#paper-152094)
+- [SIRAS: Sibling-Relative Advantage Shaping for Reinforcement Learning from Verifiable Rewards](../conferences/neurips-2026/cards-0011.md#paper-151147)
+- [Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models](../conferences/neurips-2026/cards-0011.md#paper-155890)
+- [SLOPE: Optimistic Potential Landscape Shaping for Model-based Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-154636)
+- [Smart Picks in the Dark: Towards Efficient RLVR for Reasoning via Tracing Metacognitive Pivots](../conferences/neurips-2026/cards-0011.md#paper-150817)
 
 <!-- conference-classification:end -->

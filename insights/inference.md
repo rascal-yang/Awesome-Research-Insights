@@ -1375,5 +1375,15 @@
 - [Semantic Routing: Exploring Multi-Layer LLM Feature Weighting for Diffusion Transformers](../conferences/neurips-2026/cards-0011.md#paper-151306)
 - [SGEvolve: Semantic Gradient Guidance for LLM-Driven Evolutionary Search](../conferences/neurips-2026/cards-0011.md#paper-153601)
 - [Short-Context Dominance: How Much Local Context Natural Language Actually Needs?](../conferences/neurips-2026/cards-0011.md#paper-155271)
+- [SIGMA: A Sigmoid-Gated Sampler for Test-Time Scaling in Diffusion Language Models](../conferences/neurips-2026/cards-0011.md#paper-152746)
+- [SignRot: LLM Quantization with Massive Outlier-Aware Sign-Adjusted Rotation](../conferences/neurips-2026/cards-0011.md#paper-152299)
+- [Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics](../conferences/neurips-2026/cards-0011.md#paper-149228)
+- [Simulation-Informed Diffusion for Decentralized Multi-robot Motion Planning](../conferences/neurips-2026/cards-0011.md#paper-150165)
+- [Single Shot HDR Recovery via a Video Diffusion Prior](../conferences/neurips-2026/cards-0011.md#paper-153806)
+- [SkillGen: Verified Inference-Time Agent Skill Synthesis](../conferences/neurips-2026/cards-0011.md#paper-148850)
+- [SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking](../conferences/neurips-2026/cards-0011.md#paper-152785)
+- [SkipSR: Faster Super-Resolution with Token Skipping](../conferences/neurips-2026/cards-0011.md#paper-150768)
+- [SLIDERS: Systematic Reviews via Automated Evidence Synthesis and Reconciliation](../conferences/neurips-2026/cards-0011.md#paper-153403)
+- [SMART: Scalable Multi-Agent Role-conditioned  Teaming via LLM-free Tree Search](../conferences/neurips-2026/cards-0011.md#paper-149874)
 
 <!-- conference-classification:end -->

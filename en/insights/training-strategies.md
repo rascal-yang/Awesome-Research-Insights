@@ -904,5 +904,16 @@ Training schedules, curricula, and task or stage composition.
 - [Seq-LoRA: Sequential Bayesian Low-Rank Adaptation for Large Language Models](../../conferences/neurips-2026/cards-0011.md#paper-153872)
 - [SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-139026)
 - [Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory](../../conferences/neurips-2026/cards-0011.md#paper-149663)
+- [SHRED: Retain-Set-Free Unlearning via Self-Distillation with Logit Demotion](../../conferences/neurips-2026/cards-0011.md#paper-151972)
+- [SIEVE: Overcoming Topological Obstruction in Equivariant Self-Supervised Learning](../../conferences/neurips-2026/cards-0011.md#paper-150328)
+- [Signed-Permutation Coordinate Transport for RMSNorm Transformers](../../conferences/neurips-2026/cards-0011.md#paper-154588)
+- [SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation](../../conferences/neurips-2026/cards-0011.md#paper-153233)
+- [Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization](../../conferences/neurips-2026/cards-0011.md#paper-151357)
+- [Skill-Level Effects in Behavioral Cloning: When Low-Skill Data Improves Performance](../../conferences/neurips-2026/cards-0011.md#paper-151198)
+- [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-156011)
+- [Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents](../../conferences/neurips-2026/cards-0011.md#paper-151567)
+- [SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing](../../conferences/neurips-2026/cards-0011.md#paper-150237)
+- [SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning](../../conferences/neurips-2026/cards-0011.md#paper-153896)
+- [SOAP-Bubbles: Effective and Scalable Variational Learning with Structured Covariances](../../conferences/neurips-2026/cards-0011.md#paper-151769)
 
 <!-- conference-classification:end -->

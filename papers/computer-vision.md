@@ -1127,5 +1127,10 @@
 - [Sequence-to-Sequence Modeling with Camera-Induced Priors for Multi-View Stereo](../conferences/neurips-2026/cards-0011.md#paper-152093)
 - [ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection](../conferences/neurips-2026/cards-0011.md#paper-139054)
 - [Shaping Useful Noise: Energy Distributions Predict Visual Pretraining Quality](../conferences/neurips-2026/cards-0011.md#paper-153569)
+- [SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network](../conferences/neurips-2026/cards-0011.md#paper-152542)
+- [SIGMA: Semantic-Difference Instruction-Grounding Mask Annotator for Text-Driven Image Manipulation Localization](../conferences/neurips-2026/cards-0011.md#paper-151764)
+- [SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](../conferences/neurips-2026/cards-0011.md#paper-149726)
+- [Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization](../conferences/neurips-2026/cards-0011.md#paper-151357)
+- [SkipSR: Faster Super-Resolution with Token Skipping](../conferences/neurips-2026/cards-0011.md#paper-150768)
 
 <!-- conference-classification:end -->

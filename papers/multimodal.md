@@ -945,5 +945,14 @@
 - [SenseBench: A Benchmark for Remote Sensing Low-Level Visual Perception and Description in Large Vision-Language Models](../conferences/neurips-2026/cards-0011.md#paper-139610)
 - [Senses Wide Shut: A Representation-Action Gap in Omnimodal LLMs](../conferences/neurips-2026/cards-0011.md#paper-150351)
 - [SetCon: Towards Open-Ended Referring Segmentation via Set-Level Concept Prediction](../conferences/neurips-2026/cards-0011.md#paper-150414)
+- [SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring](../conferences/neurips-2026/cards-0011.md#paper-150306)
+- [Simmer: A Scalable Pretraining Recipe for Video-Text Encoders](../conferences/neurips-2026/cards-0011.md#paper-154316)
+- [Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics](../conferences/neurips-2026/cards-0011.md#paper-149228)
+- [Single Shot HDR Recovery via a Video Diffusion Prior](../conferences/neurips-2026/cards-0011.md#paper-153806)
+- [SitCom: Scaling Egocentric Multi-Party Spoken Dialogue for Situated Communication Assistance](../conferences/neurips-2026/cards-0011.md#paper-155992)
+- [SkillCIR: Intent-Guided Skill Composition for Training-Free Composed Image Retrieval](../conferences/neurips-2026/cards-0011.md#paper-149869)
+- [SLVMBench: Skill Learning from Video Memory](../conferences/neurips-2026/cards-0011.md#paper-139283)
+- [SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows](../conferences/neurips-2026/cards-0011.md#paper-154074)
+- [SO(3)-Equivariant Learning on CAD Boundary Representations](../conferences/neurips-2026/cards-0011.md#paper-148985)
 
 <!-- conference-classification:end -->

@@ -1178,5 +1178,12 @@
 - [Sequence-to-Sequence Modeling with Camera-Induced Priors for Multi-View Stereo](../conferences/neurips-2026/cards-0011.md#paper-152093)
 - [Sequential Behavioral Watermarking for LLM Agents](../conferences/neurips-2026/cards-0011.md#paper-150882)
 - [Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](../conferences/neurips-2026/cards-0011.md#paper-153027)
+- [Should We Pay This Much for Robustness? Efficient Proxy Certificates with Marginal Guarantees](../conferences/neurips-2026/cards-0011.md#paper-153528)
+- [SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network](../conferences/neurips-2026/cards-0011.md#paper-152542)
+- [SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues](../conferences/neurips-2026/cards-0011.md#paper-148899)
+- [Signed Rectified Flow: Negativity Controlled Generation](../conferences/neurips-2026/cards-0011.md#paper-150261)
+- [SimSD: Simple Speculative Decoding in Diffusion Language Models](../conferences/neurips-2026/cards-0011.md#paper-153145)
+- [Skill-Adaptive Noise Scheduling for Diffusion Policies](../conferences/neurips-2026/cards-0011.md#paper-150596)
+- [SkiP: When to Skip and When to Refine for Efficient Robot Manipulation](../conferences/neurips-2026/cards-0011.md#paper-151503)
 
 <!-- conference-classification:end -->

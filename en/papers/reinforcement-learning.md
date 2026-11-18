@@ -687,5 +687,10 @@ Learning from interaction, feedback, and offline experience.
 - [Self-Supervised Goal-Reaching Results in Multi-Agent Cooperation and Exploration](../../conferences/neurips-2026/cards-0011.md#paper-148922)
 - [Self-Supervised On-Policy Reinforcement Learning via Contrastive Proximal Policy Optimisation](../../conferences/neurips-2026/cards-0011.md#paper-154892)
 - [Semantic-level Exploration for Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-152298)
+- [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](../../conferences/neurips-2026/cards-0011.md#paper-150835)
+- [Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards](../../conferences/neurips-2026/cards-0011.md#paper-154702)
+- [Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation](../../conferences/neurips-2026/cards-0011.md#paper-149473)
+- [Skill-Level Effects in Behavioral Cloning: When Low-Skill Data Improves Performance](../../conferences/neurips-2026/cards-0011.md#paper-151198)
+- [SLOPE: Optimistic Potential Landscape Shaping for Model-based Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-154636)
 
 <!-- conference-classification:end -->

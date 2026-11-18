@@ -73,3 +73,81 @@
 | 智能体 | 记忆与检索 | [ShiftRAG: Bypassing the Textual Bottleneck via Decoupled Learning and Continuous Soft Tokens](cards-0011.md#paper-150524) | 检索和生成可用共享连续表征，但分别训练目标 |
 | 智能体 | 评测与诊断 | [ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents](cards-0011.md#paper-139398) | 电商 Agent 合成环境需验收结构和行为代理有效性 |
 | 大语言模型 | 推理与搜索 | [Short-Context Dominance: How Much Local Context Natural Language Actually Needs?](cards-0011.md#paper-155271) | 长上下文生成可按词元诊断局部上下文支配 |
+| 深度学习 | 模型鲁棒性 | [Should We Pay This Much for Robustness? Efficient Proxy Certificates with Marginal Guarantees](cards-0011.md#paper-153528) | 用便宜代理先认证，拒绝时回退精确证书。 |
+| 深度学习 | 可解释性 | [Show Me What You Don’t Know: Efficient Sampling from Invariant Sets for Model Validation](cards-0011.md#paper-149469) | 用同特征异输入直接审计模型不变性。 |
+| 大语言模型 | 知识蒸馏 | [SHRED: Retain-Set-Free Unlearning via Self-Distillation with Logit Demotion](cards-0011.md#paper-151972) | 无保留集遗忘集中处理高信息 token。 |
+| 计算机视觉 | 时序建模 | [SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network](cards-0011.md#paper-152542) | 事件光流保留随时间变化的关注区域。 |
+| 生成模型 | 视频建模 | [SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues](cards-0011.md#paper-148899) | 新视角运动控制为几何加稳定的可追踪纹理。 |
+| 深度学习 | 自监督学习 | [SIEVE: Overcoming Topological Obstruction in Equivariant Self-Supervised Learning](cards-0011.md#paper-150328) | 等变掩码任务缺帧时预测不变标量。 |
+| 多模态学习 | 不确定性估计 | [SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring](cards-0011.md#paper-150306) | 视觉拒答采用证据可靠性分数。 |
+| 智能体与工具使用 | 评测与诊断 | [SIGA: Scientific Simulation Coding Agent Adapter- A Geophysics Case Study](cards-0011.md#paper-152143) | 科学仿真代理先独立验输入可解析及结构。 |
+| 大语言模型 | 采样与推理 | [SIGMA: A Sigmoid-Gated Sampler for Test-Time Scaling in Diffusion Language Models](cards-0011.md#paper-152746) | 扩散插词分别调位置选择和 token 温度。 |
+| 计算机视觉 | 数据增强 | [SIGMA: Semantic-Difference Instruction-Grounding Mask Annotator for Text-Driven Image Manipulation Localization](cards-0011.md#paper-151764) | 从有编辑前后图和指令推区域标签。 |
+| 强化学习 | 优化算法 | [Signal-Adaptive Trust Regions for Gradient-Free Optimization of Recurrent Spiking Neural Networks](cards-0011.md#paper-150835) | 无梯度优化按估计信号归一 KL 信赖域。 |
+| 智能体与工具使用 | 评测与诊断 | [SignalBench: Comparing Dense Feedback Methods for Long-Horizon Agents](cards-0011.md#paper-139286) | 训练前用参考策略价值筛密集反馈。 |
+| 强化学习 | 表征学习 | [Signature Approach for Contextual Bandits with Nonlinear and Path-dependent Rewards](cards-0011.md#paper-154702) | 非线性 bandit 从轨迹上下文计算路径签名。 |
+| 深度学习 | 评测与诊断 | [Signature-Kernel Evaluation Metrics for Robust Probabilistic and Tail-Event Forecasting](cards-0011.md#paper-139252) | 尾部时序预测用聚焦区域的 proper score。 |
+| 深度学习 | 优化算法 | [Sign-Based Optimizers Are Effective Under Heavy-Tailed Noise](cards-0011.md#paper-149007) | 梯度噪声重尾时对照符号和幅值更新。 |
+| 大语言模型 | 模型合并 | [Signed-Permutation Coordinate Transport for RMSNorm Transformers](cards-0011.md#paper-154588) | RMSNorm 模型合并时允许通道翻号。 |
+| 生成模型 | 流匹配 | [Signed Rectified Flow: Negativity Controlled Generation](cards-0011.md#paper-150261) | 同时规定生成应促成与应抑制的分布。 |
+| 模型效率与系统 | 量化 | [SignRot: LLM Quantization with Massive Outlier-Aware Sign-Adjusted Rotation](cards-0011.md#paper-152299) | 旋转后出现双峰时先对离群通道做符号修正。 |
+| 大语言模型 | 评测与诊断 | [SiliconBench: Speed, Memory, and Fidelity for LLM Inference on Apple Silicon](cards-0011.md#paper-139658) | 对本地推理栈同时测并发吞吐、系统争用峰值内存和同权重精度。 |
+| 计算机视觉 | 表征学习 | [SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](cards-0011.md#paper-149726) | 将高分辨率三维形状编码为重叠的多轴切片潜变量。 |
+| 大语言模型 | 训练策略 | [SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation](cards-0011.md#paper-153233) | 跨分词器蒸馏对齐双方均可产生的短续写。 |
+| 多模态学习 | 损失函数 | [Simmer: A Scalable Pretraining Recipe for Video-Text Encoders](cards-0011.md#paper-154316) | 为同一视频扩充多角度字幕时同时使用多向量对比对齐。 |
+| 大语言模型 | 评测与诊断 | [Simple Baselines are Competitive with Code Evolution](cards-0011.md#paper-149355) | 代码演化基线要匹配搜索空间与评估预算后再比较搜索算法。 |
+| 机器学习基础与统计 | 优化 | [Simple Extensions of Single-Objective Acquisition Functions and Hedge Strategies for Multi-Objective Bayesian Optimization](cards-0011.md#paper-151368) | 用超体积变换把现有单目标采集策略迁到多目标。 |
+| 机器学习基础与统计 | 优化 | [Simple KNN-Based Outlier Detection Achieves Robust Clustering](cards-0011.md#paper-149298) | 鲁棒聚类可先筛除近邻距离最大的点，再调用普通 k-means。 |
+| 多模态学习 | 推理策略 | [Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics](cards-0011.md#paper-149228) | 从图片生成可执行绘图代码后，让轻量诊断器定位需要修订的视觉错误。 |
+| 机器学习基础与统计 | 评测与诊断 | [SimplexUQ: An Evaluation Framework and Benchmark for Conformal Uncertainty on Simplex-Valued Predictions](cards-0011.md#paper-139458) | 评估概率单纯形上的共形区间应并列检查整体与最差分层覆盖。 |
+| 计算机视觉 | 训练策略 | [Simple yet Effective Semi-supervised Knowledge Distillation from Vision-Language Models via Dual-Head Optimization](cards-0011.md#paper-151357) | 有标签监督与教师蒸馏冲突时使用两个预测头。 |
+| 大语言模型 | 评测与诊断 | [Simplicity is Enough: ReAct Agents for Prompt Optimization](cards-0011.md#paper-150401) | 提示优化以标准 ReAct 加反馈作为基线，并在足够样本上比较。 |
+| 机器学习基础与统计 | 模型架构 | [Simplified Reversible Residual Networks](cards-0011.md#paper-148514) | 用恒等支路构造只需一种原残差变换的可逆训练层。 |
+| 大语言模型 | 损失函数 | [SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization](cards-0011.md#paper-156008) | 语言预训练在普通预测之外对序列内共享目标标签的 token 加表征约束。 |
+| 大语言模型 | 效率与系统 | [SimSD: Simple Speculative Decoding in Diffusion Language Models](cards-0011.md#paper-153145) | 扩散语言推理比较训练自由的推测式并行解码 |
+| 智能体 | 记忆与检索 | [Simulating Human Memory with Language Models](cards-0011.md#paper-148668) | 模拟用户记忆需复现选择性遗忘 |
+| 具身智能与机器人 | 强化学习与奖励 | [Simulation-aided Reinforcement Learning with Control Variates](cards-0011.md#paper-152094) | 模拟数据作为控制变量而非混入真实训练目标 |
+| 具身智能与机器人 | 推理与搜索 | [Simulation-Informed Diffusion for Decentralized Multi-robot Motion Planning](cards-0011.md#paper-150165) | 用本地邻居预测决定何时才协调通信 |
+| 具身智能与机器人 | 评测与诊断 | [SimVLA: Attributing Gains in VLA Models Through Controlled Ablation](cards-0011.md#paper-152120) | VLA 架构结论要与调优后的简单基线比较 |
+| 视觉与多模态 | 生成与扩散 | [Single Shot HDR Recovery via a Video Diffusion Prior](cards-0011.md#paper-153806) | 静态重建可将视频对应借给序列条件重建 |
+| 大语言模型 | 评测与诊断 | [Sink vs. diagonal patterns as mechanisms for attention switch and oversmoothing prevention](cards-0011.md#paper-153161) | 区别注意力 sink 与对角自通信的抗过平滑作用 |
+| 大语言模型 | 强化学习与奖励 | [SIRAS: Sibling-Relative Advantage Shaping for Reinforcement Learning from Verifiable Rewards](cards-0011.md#paper-151147) | 可验证奖励中检查全对和全错组是否仍有训练信号 |
+| 视觉与多模态 | 评测与诊断 | [SitCom: Scaling Egocentric Multi-Party Spoken Dialogue for Situated Communication Assistance](cards-0011.md#paper-155992) | 环境语音助手将现场查询与离线理解拆开验收 |
+| 生成模型 | 强化学习 | [Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models](cards-0011.md#paper-155890) | 扩散多模态生成先给结构 token 信用。 |
+| 具身智能与机器人 | 扩散模型 | [Skill-Adaptive Noise Scheduling for Diffusion Policies](cards-0011.md#paper-150596) | 扩散技能动作按技能和运动维度选噪声。 |
+| 多模态学习 | 检索增强 | [SkillCIR: Intent-Guided Skill Composition for Training-Free Composed Image Retrieval](cards-0011.md#paper-149869) | 组合检索将意图条件分流给专用技能。 |
+| 强化学习 | 优化算法 | [Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation](cards-0011.md#paper-149473) | 小组策略梯度借相关技能校准优势基线。 |
+| 智能体与工具使用 | 记忆机制 | [SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles](cards-0011.md#paper-151649) | 技能库训练全程给予可回退的生命周期。 |
+| 智能体与工具使用 | 搜索与规划 | [SkillGen: Verified Inference-Time Agent Skill Synthesis](cards-0011.md#paper-148850) | 推理期从轨迹提炼单个可审计技能再独立验收。 |
+| 强化学习 | 训练策略 | [Skill-Level Effects in Behavioral Cloning: When Low-Skill Data Improves Performance](cards-0011.md#paper-151198) | 行为克隆选演示时测策略对小错误的脆弱性。 |
+| 智能体与工具使用 | 记忆机制 | [SkillMaster: Toward Autonomous Skill Mastery in LLM Agents](cards-0011.md#paper-150167) | 技能编辑用相关探针任务的反事实效用监督。 |
+| 智能体与工具使用 | 优化算法 | [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](cards-0011.md#paper-151264) | 冻结代理时以留出增益批准文本技能编辑。 |
+| 智能体与工具使用 | 模型路由 | [SkillOrchestra: Learning to Route Agents via Skill Transfer](cards-0011.md#paper-155493) | 编排器显式建成员技能并跨任务迁移。 |
+| 智能体与工具使用 | 记忆机制 | [SkillOS: Learning Skill Curation for Self-Evolving Agents](cards-0011.md#paper-151446) | 训练技能管理员时后续相关任务评价先前更新。 |
+| 智能体与工具使用 | 知识蒸馏 | [SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](cards-0011.md#paper-156011) | 从经验蒸馏通用技能与任务特定技能两层。 |
+| 智能体与工具使用 | 评测与诊断 | [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](cards-0011.md#paper-139353) | 技能评估用同任务加技能前后的成对比较。 |
+| 智能体与工具使用 | 知识蒸馏 | [Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents](cards-0011.md#paper-151567) | 多轮技能仅在训练中作为自蒸馏条件。 |
+| 模型效率与系统 | 剪枝与稀疏化 | [SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking](cards-0011.md#paper-152785) | 工具代理剪枝按 token 角色组织知识保留。 |
+| 计算机视觉 | 推理加速 | [SkipSR: Faster Super-Resolution with Token Skipping](cards-0011.md#paper-150768) | 从低分辨率直接筛低细节区域，跳过超分重算。 |
+| 深度学习 | 优化算法 | [Skip the Hessian, Keep the Rates: Globalized Semismooth Newton with Lazy Hessian Updates](cards-0011.md#paper-149332) | 半光滑 Newton 按周期刷新 Hessian。 |
+| 具身智能与机器人 | 模仿学习 | [SkiP: When to Skip and When to Refine for Efficient Robot Manipulation](cards-0011.md#paper-151503) | 将低动作复杂度示范段重标到下个关键入口。 |
+| 大语言模型 | 评测与诊断 | [SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories](cards-0011.md#paper-139475) | 协作代理测评让证据来自变化的仓库状态和多人会话。 |
+| 大语言模型 | 训练策略 | [SLDR: Defending Against Malicious Fine-tuning via Selective Layers Recovery and Dynamic Routing](cards-0011.md#paper-150237) | 微调后恢复安全行为时，先诊断哪些层的干预对拒绝行为影响最大。 |
+| 机器学习基础与统计 | 理论与统计 | [Sliced Inner Product Gromov–Wasserstein Distances](cards-0011.md#paper-150301) | 比较不同模型的表示几何时使用旋转不变的切片结构距离。 |
+| 大语言模型 | 推理策略 | [SLIDERS: Systematic Reviews via Automated Evidence Synthesis and Reconciliation](cards-0011.md#paper-153403) | 科学综述代理应保留结构化结果和原文证据两条引用链，并自动核对两者。 |
+| 机器学习基础与统计 | 模型架构 | [SLiDE: Structured Linear Dynamics for Forecasting with Exogenous Inputs](cards-0011.md#paper-155791) | 有外生变量的预测器让编码历史和推演未来共享线性潜状态动力学。 |
+| 大语言模型 | 优化 | [SliMOO: Interpretable Multi-Objective Evolutionary Search for LLM Depth Pruning](cards-0011.md#paper-153520) | 深度剪枝使用任务分开的目标与逐层移除重要图，而非单排名。 |
+| 大语言模型 | 评测与诊断 | [SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks](cards-0011.md#paper-138903) | 代理反复修改自己的代码时，同时跟踪通过率、集中复杂度和冗余。 |
+| 强化学习 | 强化学习方法 | [SLOPE: Optimistic Potential Landscape Shaping for Model-based Reinforcement Learning](cards-0011.md#paper-154636) | 模型式规划可学习成功概率的乐观潜势，改善稀疏目标的搜索信号。 |
+| 机器学习基础与统计 | 理论与统计 | [Slower Generalization, Faster Memorization: A Sweet Spot in Algorithmic Learning](cards-0011.md#paper-154236) | 数据量调参分开看规则泛化拐点与达到目标精度的梯度步数。 |
+| 多模态学习 | 评测与诊断 | [SLVMBench: Skill Learning from Video Memory](cards-0011.md#paper-139283) | 视频记忆应测从长干扰流中提取教程并将技能用于新观测。 |
+| 多模态学习 | 表征学习 | [SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows](cards-0011.md#paper-154074) | 用带分工的潜状态承载视觉规划、定位和取证。 |
+| 机器学习基础与统计 | 优化 | [Small Model Portfolios for Many Deployment Profiles: Submodular Coverage under Bundled Constraints](cards-0011.md#paper-155994) | 选择少量部署模型时，按完整约束包覆盖需求，而不是按单指标保留模型。 |
+| 大语言模型 | 强化学习与奖励 | [Smart Picks in the Dark: Towards Efficient RLVR for Reasoning via Tracing Metacognitive Pivots](cards-0011.md#paper-150817) | 可校验推理训练按内部转折信号分配人工标注 |
+| 智能体 | 推理与搜索 | [SMART: Scalable Multi-Agent Role-conditioned  Teaming via LLM-free Tree Search](cards-0011.md#paper-149874) | 团队在线选角色可先用元数据进行无模型调用树搜索 |
+| 智能体 | 评测与诊断 | [SMMBench: A Benchmark for Source-Distributed Multimodal Agent Memory](cards-0011.md#paper-139761) | 跨源多模态记忆独立测来源整合与基于记忆的动作 |
+| 大语言模型 | 训练与优化 | [SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning](cards-0011.md#paper-153896) | 低预算适配为多个谱区保留更新通道 |
+| 机器学习基础与统计 | 评测与诊断 | [Smooth Partial Lotteries for Stable Randomized Selection](cards-0011.md#paper-148194) | 阈值式录取或分流测单分变化的稳定性 |
+| 机器学习基础与统计 | 模型与架构 | [Smooth Piecewise Cutting for Neural Operator to Handle Discontinuities and Sharp Transitions](cards-0011.md#paper-152423) | 神经算子把不连续边界和区内光滑解分开 |
+| 视觉与多模态 | 模型与架构 | [SO(3)-Equivariant Learning on CAD Boundary Representations](cards-0011.md#paper-148985) | CAD 编码对中间方向做等变传播，末端读出不变 |
+| 机器学习基础与统计 | 训练与优化 | [SOAP-Bubbles: Effective and Scalable Variational Learning with Structured Covariances](cards-0011.md#paper-151769) | 变分近似用二阶坐标结构表达协方差 |
