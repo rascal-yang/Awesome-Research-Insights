@@ -169,6 +169,8 @@
 - [以输出核验监督测试安全生成迁移](../conferences/icml-2026/cards/5701-5800.md#zhang26n-training-strategies) · Internalizing Safety Understanding in Large Reasoning Models via Verification
 - [按难度与耗时收紧异步rollout陈旧预算](../conferences/icml-2026/cards/5701-5800.md#zhang26bc-training-strategies) · Gradient-Aware Scheduling: Coupling Curriculum and Staleness for Async Reinforcement Learning
 - [联邦LoRA的正交规范对齐](../conferences/icml-2026/cards/5801-5900.md#zhang26cc-training-strategies) · FedRot-LoRA: Mitigating Rotational Misalignment in Federated LoRA
+- [新解掩码token的偏好概率比](../conferences/icml-2026/cards/5901-6000.md#zhang26gt-training-strategies) · dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models
+- [高资源安全子网络的定向跨语言训练](../conferences/icml-2026/cards/5901-6000.md#zhang26gx-training-strategies) · Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons
 
 <a id="by-computer-vision"></a>
 
@@ -377,6 +379,7 @@
 - [融合浅层特征时隔离skip梯度](../conferences/icml-2026/cards/5601-5700.md#yuan26n-training-strategies) · Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR
 - [按工具规划和作答阶段屏蔽不同视频上下文](../conferences/icml-2026/cards/5701-5800.md#zeng26y-training-strategies) · Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning
 - [仅在可诊断的单调漂移范围更新对齐](../conferences/icml-2026/cards/5801-5900.md#zhang26bo-training-strategies) · Stable Spectral Copula Alignment for Robust Multimodal Learning
+- [按速度场消融选择REPA层](../conferences/icml-2026/cards/5901-6000.md#zhang26gw-training-strategies) · AG-REPA: Causal Layer Selection for Representation Alignment in Audio Flow Matching
 
 <a id="by-ml-foundations"></a>
 

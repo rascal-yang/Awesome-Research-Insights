@@ -472,6 +472,7 @@
 - [低曲率约束的跨层共享基选择](../conferences/icml-2026/cards/5701-5800.md#zhang26w-optimization) · Rethinking Parameter Sharing as Graph Coloring for Structured Compression
 - [变量与梯度跟踪分尺度的压缩补偿](../conferences/icml-2026/cards/5801-5900.md#zhang26fe-optimization) · On the Convergence of Decentralized Stochastic Minimax Optimization Algorithm with Compressed Communication
 - [局部平滑与多层梯度估计同步的联邦minimax](../conferences/icml-2026/cards/5801-5900.md#zhang26ff-optimization) · LS$^2$MC-GDA: A Smoothed Algorithm for Federated Stochastic Multi-Level Compositional Minimax Optimization
+- [按有效深度迁移学习率](../conferences/icml-2026/cards/5901-6000.md#zhang26gp-optimization) · Hyperparameter Transfer Laws for Non-Recurrent Multi-Path Neural Networks
 
 <a id="by-graph-and-recommendation"></a>
 

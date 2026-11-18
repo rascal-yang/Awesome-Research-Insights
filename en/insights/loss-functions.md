@@ -70,6 +70,7 @@ Objectives, auxiliary supervision, and regularization.
 - [REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](../../conferences/icml-2026/cards/5701-5800.md#zhang26t-loss-functions) · 中文
 - [LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26al-loss-functions) · 中文
 - [Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](../../conferences/icml-2026/cards/5801-5900.md#zhang26dp-loss-functions) · 中文
+- [Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hd-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

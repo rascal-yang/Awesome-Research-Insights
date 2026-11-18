@@ -70,6 +70,7 @@
 - [数值judge的策略相关回归奖励](../conferences/icml-2026/cards/5701-5800.md#zhang26t-loss-functions) · REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge
 - [把on-policy输出重标为自身长度计数任务](../conferences/icml-2026/cards/5701-5800.md#zhang26al-loss-functions) · LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models
 - [用中心化surprisal调SFT并控制hint依赖](../conferences/icml-2026/cards/5801-5900.md#zhang26dp-loss-functions) · Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training
+- [为后续RL选择SFT权重](../conferences/icml-2026/cards/5901-6000.md#zhang26hd-loss-functions) · Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 

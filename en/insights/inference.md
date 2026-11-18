@@ -379,6 +379,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Correcting in Hindsight: Editing Past Key-Value States for Robust LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#zhang26ek-inference) · 中文
 - [Threshold-Based Exclusive Batching for LLM Inference](../../conferences/icml-2026/cards/5801-5900.md#zhang26eo-inference) · 中文
 - [Predictive Prefetching for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/5801-5900.md#zhang26eu-inference) · 中文
+- [SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals](../../conferences/icml-2026/cards/5901-6000.md#zhang26hc-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -132,6 +132,7 @@
 - [蒸馏图像的扩散后恢复](../conferences/icml-2026/cards/5101-5200.md#xia26g-data-strategies) · DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery
 - [按像素足迹归因的高斯剪枝救回](../conferences/icml-2026/cards/5101-5200.md#xiao26u-data-strategies) · CoverPruneGS: Coverage-Preserving Structured Pruning for Compact 3D Gaussian Splatting from Sparse-View Monocular Videos
 - [分开控制合成场景密度与边界细节](../conferences/icml-2026/cards/5701-5800.md#zhang26be-data-strategies) · What Makes Synthetic Data Effective in Image Segmentation
+- [混合点云预训练中的编码与缺失模态控制](../conferences/icml-2026/cards/5901-6000.md#zhang26gs-data-strategies) · Utonia: Toward One Encoder for All Point Clouds
 
 <a id="by-nlp"></a>
 

@@ -379,6 +379,7 @@
 - [由后续trigger更新先前anchor的KV表示](../conferences/icml-2026/cards/5801-5900.md#zhang26ek-inference) · Correcting in Hindsight: Editing Past Key-Value States for Robust LLM Reasoning
 - [按prefill/decode边际成本在线切换batch模式](../conferences/icml-2026/cards/5801-5900.md#zhang26eo-inference) · Threshold-Based Exclusive Batching for LLM Inference
 - [预测未来熵越阈值以提前发起RAG检索](../conferences/icml-2026/cards/5801-5900.md#zhang26eu-inference) · Predictive Prefetching for Retrieval-Augmented Generation
+- [按当前隐状态信号触发安全引导](../conferences/icml-2026/cards/5901-6000.md#zhang26hc-inference) · SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals
 
 <a id="by-computer-vision"></a>
 

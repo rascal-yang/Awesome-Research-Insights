@@ -185,6 +185,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26t-loss-functions"></a>[REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26t)
 - <a id="zhang26al-loss-functions"></a>[LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26al)
 - <a id="zhang26dp-loss-functions"></a>[Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dp)
+- <a id="zhang26hd-loss-functions"></a>[Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hd)
 
 <a id="by-optimization"></a>
 
@@ -652,6 +653,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26n-training-strategies"></a>[Internalizing Safety Understanding in Large Reasoning Models via Verification](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26n)
 - <a id="zhang26bc-training-strategies"></a>[Gradient-Aware Scheduling: Coupling Curriculum and Staleness for Async Reinforcement Learning](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bc)
 - <a id="zhang26cc-training-strategies"></a>[FedRot-LoRA: Mitigating Rotational Misalignment in Federated LoRA](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cc)
+- <a id="zhang26gt-training-strategies"></a>[dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gt)
+- <a id="zhang26gx-training-strategies"></a>[Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gx)
 
 <a id="by-data-strategies"></a>
 
@@ -1114,6 +1117,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26ek-inference"></a>[Correcting in Hindsight: Editing Past Key-Value States for Robust LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ek)
 - <a id="zhang26eo-inference"></a>[Threshold-Based Exclusive Batching for LLM Inference](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eo)
 - <a id="zhang26eu-inference"></a>[Predictive Prefetching for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eu)
+- <a id="zhang26hc-inference"></a>[SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hc)
 
 <a id="by-representation-learning"></a>
 

@@ -472,6 +472,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Rethinking Parameter Sharing as Graph Coloring for Structured Compression](../../conferences/icml-2026/cards/5701-5800.md#zhang26w-optimization) · 中文
 - [On the Convergence of Decentralized Stochastic Minimax Optimization Algorithm with Compressed Communication](../../conferences/icml-2026/cards/5801-5900.md#zhang26fe-optimization) · 中文
 - [LS$^2$MC-GDA: A Smoothed Algorithm for Federated Stochastic Multi-Level Compositional Minimax Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26ff-optimization) · 中文
+- [Hyperparameter Transfer Laws for Non-Recurrent Multi-Path Neural Networks](../../conferences/icml-2026/cards/5901-6000.md#zhang26gp-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

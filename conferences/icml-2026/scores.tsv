@@ -5930,26 +5930,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5929	zhang26gk							初筛，原文与先例核查待补：缓存PDF4–5以RAG参数library生成对象、hierarchicalenvironmentplanner、simulationpostprocess和VLMmotioncritic迭代修code。当前是成熟codegeneration/RAG/agentcritique接物理simulator的工作流组合，未隔离独立神经机制或通用受控失败律，初筛排除；4D新任务和SGS/Richness分数不单独建增量。simulationengine提供物理不等LLM学会物理，samecalls/rendering/budget与critic校准、closedloop控制待核。	rule-excluded
 5930	zhang26gl	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：PDE生成可先训练无physicsloss的diffusionteacher，再把noise→finalsample蒸馏给onestepstudent，并在student最终输出加PDEresidual，避免只约束noisy posterior mean。；边界：输出residual低不等正确solutiondistribution或严格boundary/守恒，reconstructionloss与physicsloss可取舍。teacher每noise多步离线成本和refinementbackward待计，PDEdiscretization/无解或多解与inverseidentifiability条件待核，distributionfidelity仅经验。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26gl/zhang26gl.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26gl/zhang26gl.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26gl/zhang26gl.pdf#page=6)	scored
 5931	zhang26gm	4	4	2	4	72		初筛，原文与先例核查待补：暂定评分依据：多个模型相互消费合成数据时，应按coupledfixedpoint sensitivity检验新增curation对自身及其他模型的长期rewardderivative，不能以单模型即时梯度对齐推生态长期收益。；边界：核心结果localcurationratio derivative且固定其余data sources的特定变化路径，不能扩展所有finitecuration量。strongconvex/Hessianinvertibility等不覆盖全神经训练，estimated sensitivity高维昂贵；不同evaluationdistribution/PDM与实际LLM数值控制待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26gm/zhang26gm.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26gm/zhang26gm.pdf#page=6)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26gm/zhang26gm.pdf#page=8)	scored
-5932	zhang26gn							待原文复核评分	pending
-5933	zhang26go							待原文复核评分	pending
-5934	zhang26gp							待原文复核评分	pending
-5935	zhang26gq							待原文复核评分	pending
-5936	zhang26gr							待原文复核评分	pending
-5937	zhang26gs							待原文复核评分	pending
-5938	zhang26gt							待原文复核评分	pending
-5939	zhang26gu							待原文复核评分	pending
-5940	zhang26gv							待原文复核评分	pending
-5941	zhang26gw							待原文复核评分	pending
-5942	zhang26gx							待原文复核评分	pending
-5943	zhang26gy							待原文复核评分	pending
-5944	zhang26gz							待原文复核评分	pending
-5945	zhang26ha							待原文复核评分	pending
-5946	zhang26hb							待原文复核评分	pending
-5947	zhang26hc							待原文复核评分	pending
-5948	zhang26hd							待原文复核评分	pending
-5949	zhang26he							待原文复核评分	pending
-5950	zhang26hf							待原文复核评分	pending
-5951	zhang26hg							待原文复核评分	pending
+5932	zhang26gn	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：为离散motion latent同时预测未来pointmap和RGB，以几何预测消融决定预训练目标，不只重建像素。；双分支预训练额外预算待核；并非只用几何，仍联合RGB；预测几何不证明因果识别、碰撞安全或物理一致性；方法表对Act3D表述及公平预算待核。 PDF3,4,6,7页。	scored
+5933	zhang26go							初筛，原文与先例核查待补：原子skill/action文本配对、视觉与计划相似度检索、IDF加权集合覆盖后提示LLM均属成熟操作；现有缓存未体现超出这些流程的独立新选择规律，零样本操控提升本身不足。方法PDF3–5。	rule-excluded
+5934	zhang26gp	3	5	4	3	76		初筛，原文与先例核查待补：暂定新增3/复用5/使用4/独特3：在指定稳定初始化与同一优化器/日程族下，以网络平均初始表征更新能量校准参考学习率，再按有效深度比的−3/2次方迁移。；分析为初始化处线性化(S)GD更新预算，非训练全程稳定/最优保证；残差需深度缩放、卷积需齐次统计/边界控制；同优化器与日程内校准，完整证明和迁移表待核。 PDF3,5,6,8,9页。	scored
+5935	zhang26gq							初筛，原文与先例核查待补：并行预测未来BEV teacher特征、按需CoT和轨迹监督为现成世界模型/动态推理组合；Bench2Drive提升与自适应CoT消融尚未给出独立超出成熟latent预测的操作或可转用匹配规律。PDF4–5。	rule-excluded
+5936	zhang26gr							初筛，原文与先例核查待补：INR数据一致性加TV、在不同欠采样任务用Reptile学初始化及性能调权，属于既有自监督逆问题和元学习配置；现有材料不足以提取独立新更新目标，免参考MRI应用本身不够。PDF3–4。	rule-excluded
+5937	zhang26gs	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：混合场景/物体点云时，分别检查统一粒度坐标缩放、重力先验和颜色丢弃发生位置；RoPE在单域与多域训练的效果不能互相替代。；受控结果只针对该混合域配置；随机失色不代表真实传感器所有缺失机制；尺度/朝向规则自身多为成熟增强，独立条件规律与库内重复待核，主模型尺度收益不作归因。 PDF3,5,7页。	scored
+5938	zhang26gt	4	4	4	4	80		初筛，原文与先例核查待补：暂定新增4/复用4/使用4/独特4：对共享扩散schedule、逐位置因子化reverse kernel，用新解掩码token的当前/参考概率比；每block抽一个状态估计log轨迹比，避免把全部masked token概率直接当轨迹概率。；单步抽样无偏的是指定轨迹上的log求和，不自动使sigmoid-DPO目标无偏；top-k解掩码违反严格逐位置独立；参考schedule相同、block attention和训练部署差异需保留。不能称单forward精确获得任意完整轨迹概率。 PDF4,5,6,7页。	scored
+5939	zhang26gu	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：先采样描述，用有/无图像的模型熵差筛选再分叉推理，并分别给描述与答案奖励，减少把完整rollout花在低图像依赖前缀。；固定图像的熵差只是视觉依赖代理，未对图像分布取期望不自动是真MI，也不保证描述正确；推理仍可直接访问图像，描述不必构成严格信息瓶颈；额外无图forward、前缀和分叉相关性需计成本。 PDF3,4,5页。	scored
+5940	zhang26gv							初筛，原文与先例核查待补：球形control volume上散度定理得到通量残差、多尺度/骨架放置和先连续性训练均为弱形式/有限体积PINN成熟策略；几何特定组合与最高93%相对降误差未体现独立泛用新增规律。PDF4–5。	rule-excluded
+5941	zhang26gw	4	4	4	4	80		初筛，原文与先例核查待补：暂定新增4/复用4/使用4/独特4：选择表征对齐层时，用关闭残差层引起的速度场偏移排序并稀疏加权，而非选与teacher最相似或固定深度的层。；关闭层是模型内干预，不识别外界因果机制，也不保证高敏感层最值得蒸馏；排名一次固定，训练中漂移及额外teacher/projection预算待核；Jacobian乘积不证明早层永远更敏感。 PDF4,6,7,8页。	scored
+5942	zhang26gx	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：用平行多语言安全数据更新高资源语言的安全特异子网络，而非只训练当前跨语言交集；用同规模随机参数对照评估选择价值。；只更新<0.6%参数不保证知识不受影响；English集合包含交集是集合定义，不能推出所有语言安全自动传播；平行数据、参数容量和定位成本要计入，跨架构阈值泛化待核。 PDF4,6,7页。	scored
+5943	zhang26gy							初筛，原文与先例核查待补：全轨迹logprob的均值/方差/极值/熵/差分形成48维特征，再ridge/lasso logistic校准，是标准过程特征预测成功率；首个agentic命名及跨域ECE提升未给独立新校准操作。PDF3–4。	rule-excluded
+5944	zhang26gz							初筛，原文与先例核查待补：当前ISS实现是随机mask/blur后动作变化的条件平均，NMR是背景区域归因质量占比，均接近成熟扰动归因/背景依赖统计；现有r=-0.77为选择k后的任务相关，尚不足独立新选择规律或因果保证。PDF4–6。	rule-excluded
+5945	zhang26ha							初筛，原文与先例核查待补：将contrastive loss转成辅助高斯熵主要为单调重表达，再训练有益噪声生成增强与已有learned augmentation接近；现有缓存不足指出独立的新约束/目标，命名Pi-noise不构成新增。PDF3–4。	rule-excluded
+5946	zhang26hb							初筛，原文与先例核查待补：压缩图像benchmark和普通通用adaptor主要为新评测/适配应用；information/generalization gap通过加减最优模型性能定义，不能凭恒等式识别两部分；现有控制尚未提供独立新训练规则。PDF4–6。	rule-excluded
+5947	zhang26hc	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：推理中以同上下文的安全提示/等长控制分支提取相对安全方向，仅在当前状态分数低时插入安全引导，以检查静态固定间隔干预的过拒绝代价。；隐状态余弦只是安全代理而非形式化保证；等长空白控制不等于所有语义/位置效应被消除；额外分支、阈值调参、probe触发频率与自适应分布漂移成本待核。 PDF3,4,5,6页。	scored
+5948	zhang26hd	4	5	4	4	86		初筛，原文与先例核查待补：暂定新增4/复用5/使用4/独特4：SFT检查点按相同后续RL预算评价；用行为/当前策略比率构造停止梯度的序列或未来suffix权重，避免仅凭离线SFT最高分选初始化。；需要可用或估计的行为概率；长序列权重高方差，裁剪/折扣/suffix近似引入偏差；sg加权是训练semi-gradient，不应称完整目标分布loss的精确全梯度；统一RL超参仍非所有计算成本匹配。 PDF3,4,5,6页。	scored
+5949	zhang26he							初筛，原文与先例核查待补：低通增强加对ID校准梯度冲突做半空间投影，是成熟频域鲁棒训练与梯度手术的直接组合；一阶不增并非有限步保证，当前材料未呈独立新投影规则或匹配条件规律。PDF3及摘要。	rule-excluded
+5950	zhang26hf							初筛，原文与先例核查待补：AOEB提供agent代码/工具/推理/记忆等多模态retrieval benchmark与模型分数，当前材料未给独立可复用的新embedding训练、检索决策或受控失败机制。摘要/PDF1。	rule-excluded
+5951	zhang26hg							初筛，原文与先例核查待补：Point-BERT、bidirectional Mamba和LLM对齐，再按语义误差挖掘失败并由teacher合成QA，是既有时序编码/难例自举流程；新4D QA数据规模不构成独立机制。PDF4–5。	rule-excluded
 5952	zhang26hh							待原文复核评分	pending
 5953	zhang26hi							待原文复核评分	pending
 5954	zhang26hj							待原文复核评分	pending

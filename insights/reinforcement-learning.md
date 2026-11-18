@@ -480,6 +480,7 @@
 - [对中间图同时奖励可执行与可读及语义对齐](../conferences/icml-2026/cards/5801-5900.md#zhang26bt-reinforcement-learning) · How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning
 - [将判断与错误定位分别奖励训练](../conferences/icml-2026/cards/5801-5900.md#zhang26dr-reinforcement-learning) · Multimodal Meta-Verifier with Explicit Structured Recalibration
 - [用固定原图下的证据反事实差奖励grounding](../conferences/icml-2026/cards/5801-5900.md#zhang26ex-reinforcement-learning) · CofactGVR: Counterfactual Intervention for Grounded Visual Reasoning
+- [视觉描述评分后分叉推理预算](../conferences/icml-2026/cards/5901-6000.md#zhang26gu-reinforcement-learning) · See First, Reason Later: Mutual Information-Guided Reinforcement Learning for Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

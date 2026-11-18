@@ -169,6 +169,8 @@ Training schedules, curricula, and task or stage composition.
 - [Internalizing Safety Understanding in Large Reasoning Models via Verification](../../conferences/icml-2026/cards/5701-5800.md#zhang26n-training-strategies) · 中文
 - [Gradient-Aware Scheduling: Coupling Curriculum and Staleness for Async Reinforcement Learning](../../conferences/icml-2026/cards/5701-5800.md#zhang26bc-training-strategies) · 中文
 - [FedRot-LoRA: Mitigating Rotational Misalignment in Federated LoRA](../../conferences/icml-2026/cards/5801-5900.md#zhang26cc-training-strategies) · 中文
+- [dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26gt-training-strategies) · 中文
+- [Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons](../../conferences/icml-2026/cards/5901-6000.md#zhang26gx-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -377,6 +379,7 @@ Training schedules, curricula, and task or stage composition.
 - [Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](../../conferences/icml-2026/cards/5601-5700.md#yuan26n-training-strategies) · 中文
 - [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26y-training-strategies) · 中文
 - [Stable Spectral Copula Alignment for Robust Multimodal Learning](../../conferences/icml-2026/cards/5801-5900.md#zhang26bo-training-strategies) · 中文
+- [AG-REPA: Causal Layer Selection for Representation Alignment in Audio Flow Matching](../../conferences/icml-2026/cards/5901-6000.md#zhang26gw-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

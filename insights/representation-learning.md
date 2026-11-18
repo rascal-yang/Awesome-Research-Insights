@@ -155,6 +155,7 @@
 - [跨episode上下文解耦域因素](../conferences/icml-2026/cards/4701-4800.md#wang26er-representation-learning) · DADP: Domain Adaptive Diffusion Policy
 - [把关节参数写入稀疏体素生成表示](../conferences/icml-2026/cards/5401-5500.md#yang26cf-representation-learning) · PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World
 - [让动作瓶颈与content路径共同分工](../conferences/icml-2026/cards/5801-5900.md#zhang26ec-representation-learning) · DiLA: Disentangled Latent Action World Models
+- [几何预测监督离散运动码](../conferences/icml-2026/cards/5901-6000.md#zhang26gn-representation-learning) · GeoMoLa: Geometry-Aware Motion Latents for Learning Robust Manipulation Policies
 
 <a id="by-multimodal"></a>
 

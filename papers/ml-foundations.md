@@ -490,6 +490,7 @@
 - <a id="zhang26w-optimization"></a>[Rethinking Parameter Sharing as Graph Coloring for Structured Compression](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26w)
 - <a id="zhang26fe-optimization"></a>[On the Convergence of Decentralized Stochastic Minimax Optimization Algorithm with Compressed Communication](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fe)
 - <a id="zhang26ff-optimization"></a>[LS$^2$MC-GDA: A Smoothed Algorithm for Federated Stochastic Multi-Level Compositional Minimax Optimization](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ff)
+- <a id="zhang26gp-optimization"></a>[Hyperparameter Transfer Laws for Non-Recurrent Multi-Path Neural Networks](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gp)
 
 <a id="by-reinforcement-learning"></a>
 

@@ -221,6 +221,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zhang26bt-reinforcement-learning"></a>[How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bt)
 - <a id="zhang26dr-reinforcement-learning"></a>[Multimodal Meta-Verifier with Explicit Structured Recalibration](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dr)
 - <a id="zhang26ex-reinforcement-learning"></a>[CofactGVR: Counterfactual Intervention for Grounded Visual Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ex)
+- <a id="zhang26gu-reinforcement-learning"></a>[See First, Reason Later: Mutual Information-Guided Reinforcement Learning for Vision-Language Models](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gu)
 
 <a id="by-training-strategies"></a>
 
@@ -289,6 +290,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yuan26n-training-strategies"></a>[Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26n)
 - <a id="zeng26y-training-strategies"></a>[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26y)
 - <a id="zhang26bo-training-strategies"></a>[Stable Spectral Copula Alignment for Robust Multimodal Learning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bo)
+- <a id="zhang26gw-training-strategies"></a>[AG-REPA: Causal Layer Selection for Representation Alignment in Audio Flow Matching](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gw)
 
 <a id="by-data-strategies"></a>
 
