@@ -368,5 +368,9 @@
 - [Inter-domain Inference for Gaussian Process Variational Autoencoders](../conferences/neurips-2026/cards-0007.md#paper-151321)
 - [Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects](../conferences/neurips-2026/cards-0007.md#paper-150129)
 - [Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling](../conferences/neurips-2026/cards-0007.md#paper-154449)
+- [Intrinsic-Preserving Schrödinger Bridge for Direct Part-Aware 3D Generation](../conferences/neurips-2026/cards-0007.md#paper-152274)
+- [Isotropic Activation Functions Enable Deindividuated Neurons and Adaptive Topologies](../conferences/neurips-2026/cards-0007.md#paper-154076)
+- [Iterative Latent Refinement for Value Learning in Offline Goal-Conditioned RL](../conferences/neurips-2026/cards-0007.md#paper-154947)
+- [Iterative Nonlinear Computation Underlying Abstract Reasoning](../conferences/neurips-2026/cards-0007.md#paper-151990)
 
 <!-- conference-classification:end -->

@@ -536,5 +536,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-150789)
 - [Interaction Value Inference for Multi-Agent Reinforcement Learning via a Hierarchical Agent-Centric World Model](../../conferences/neurips-2026/cards-0007.md#paper-148672)
 - [Interactive Combinatorial Reinforcement Learning for Knowledge Graph Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-155091)
+- [Intra-Option Fitted Q-Evaluation: Evaluating Hierarchical Policies from Non-Hierarchical Data](../../conferences/neurips-2026/cards-0007.md#paper-149125)
+- [Inverse Reinforcement Learning with Just Classification and a Few Regressions](../../conferences/neurips-2026/cards-0007.md#paper-149272)
+- [Is the Importance Ratio Necessary for Stable Reinforcement Learning in LLMs?](../../conferences/neurips-2026/cards-0007.md#paper-152454)
+- [Iterative Gumbel Planning for Continuous Control](../../conferences/neurips-2026/cards-0007.md#paper-150597)
+- [Iterative Scarcity-Guided Exploration: Bootstrapping Generative Auto-bidding from Narrow Support](../../conferences/neurips-2026/cards-0007.md#paper-154982)
 
 <!-- conference-classification:end -->

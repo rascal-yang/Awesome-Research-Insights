@@ -337,5 +337,6 @@
 - [Improving Guidance-Free Visual Generation via Self-Contrastive Alignment for Likelihood Estimation](../conferences/neurips-2026/cards-0007.md#paper-152467)
 - [Independent Latents, Robust Neural Operators](../conferences/neurips-2026/cards-0007.md#paper-148392)
 - [InfoSFT: Learn More and Forget Less with Information-Aware Token Weighting](../conferences/neurips-2026/cards-0007.md#paper-155588)
+- [Intervention-Guided Image-Free Classifier Expansion for Fine-Grained Recognition](../conferences/neurips-2026/cards-0007.md#paper-148473)
 
 <!-- conference-classification:end -->

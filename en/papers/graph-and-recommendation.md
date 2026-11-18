@@ -298,5 +298,6 @@ Graph models, knowledge graphs, and recommender systems.
 - [Information Loss and Disparate Effects in Network Embeddings](../../conferences/neurips-2026/cards-0007.md#paper-151063)
 - [Interactive Combinatorial Reinforcement Learning for Knowledge Graph Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-155091)
 - [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](../../conferences/neurips-2026/cards-0007.md#paper-152947)
+- [Invariant Hyperbolic Unfolding: Radial Canonicalization for Label-Free Cross-Graph Link Prediction](../../conferences/neurips-2026/cards-0007.md#paper-152389)
 
 <!-- conference-classification:end -->

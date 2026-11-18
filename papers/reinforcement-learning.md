@@ -547,5 +547,12 @@
 - [Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs](../conferences/neurips-2026/cards-0007.md#paper-155089)
 - [Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-150789)
 - [Interaction Value Inference for Multi-Agent Reinforcement Learning via a Hierarchical Agent-Centric World Model](../conferences/neurips-2026/cards-0007.md#paper-148672)
+- [Intra-Option Fitted Q-Evaluation: Evaluating Hierarchical Policies from Non-Hierarchical Data](../conferences/neurips-2026/cards-0007.md#paper-149125)
+- [Inverse Linear Bandits via Linear Programs](../conferences/neurips-2026/cards-0007.md#paper-149017)
+- [Inverse Reinforcement Learning with Just Classification and a Few Regressions](../conferences/neurips-2026/cards-0007.md#paper-149272)
+- [Inverting the Bellman Equation: From $Q$-Values to World Models](../conferences/neurips-2026/cards-0007.md#paper-153840)
+- [Iterative Gumbel Planning for Continuous Control](../conferences/neurips-2026/cards-0007.md#paper-150597)
+- [Iterative Latent Refinement for Value Learning in Offline Goal-Conditioned RL](../conferences/neurips-2026/cards-0007.md#paper-154947)
+- [Iterative Scarcity-Guided Exploration: Bootstrapping Generative Auto-bidding from Narrow Support](../conferences/neurips-2026/cards-0007.md#paper-154982)
 
 <!-- conference-classification:end -->

@@ -483,5 +483,8 @@
 - [Improving LLM Final Representations with Inter-Layer Geometry](../conferences/neurips-2026/cards-0007.md#paper-150649)
 - [Improving the Diffusability of Motion Tokenizer](../conferences/neurips-2026/cards-0007.md#paper-150734)
 - [Interaction-Aligned Robot Learning from Human Videos with Structured Graph Modeling](../conferences/neurips-2026/cards-0007.md#paper-155579)
+- [Invariant Features in Language Models: Geometric Characterization and Model Attribution](../conferences/neurips-2026/cards-0007.md#paper-152361)
+- [Invariant Hyperbolic Unfolding: Radial Canonicalization for Label-Free Cross-Graph Link Prediction](../conferences/neurips-2026/cards-0007.md#paper-152389)
+- [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](../conferences/neurips-2026/cards-0007.md#paper-148810)
 
 <!-- conference-classification:end -->

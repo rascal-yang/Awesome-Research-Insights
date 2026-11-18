@@ -881,5 +881,11 @@
 - [Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](../conferences/neurips-2026/cards-0007.md#paper-153831)
 - [Internalize External Competence for Visual Instruction Editing](../conferences/neurips-2026/cards-0007.md#paper-149907)
 - [Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations](../conferences/neurips-2026/cards-0007.md#paper-154045)
+- [Intervention-Guided Image-Free Classifier Expansion for Fine-Grained Recognition](../conferences/neurips-2026/cards-0007.md#paper-148473)
+- [Intrinsic-Preserving Schrödinger Bridge for Direct Part-Aware 3D Generation](../conferences/neurips-2026/cards-0007.md#paper-152274)
+- [Invaria: Learning Scale and Density Invariance in Point Clouds via Next-Resolution Prediction](../conferences/neurips-2026/cards-0007.md#paper-152764)
+- [Invertible Logits Transformation for Accuracy-Preserving Post-Hoc Uncertainty Calibration](../conferences/neurips-2026/cards-0007.md#paper-153997)
+- [Is a Linear Probe Evidence of a Linear Representation?](../conferences/neurips-2026/cards-0007.md#paper-151738)
+- [Is Complex Training Necessary for Long-Tailed OOD Detection? A Re-think from Feature Geometry](../conferences/neurips-2026/cards-0007.md#paper-152780)
 
 <!-- conference-classification:end -->

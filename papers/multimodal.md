@@ -699,5 +699,8 @@
 - [InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories](../conferences/neurips-2026/cards-0007.md#paper-153680)
 - [InfCLIP: Unified Data Valuation for CLIP Pretraining via Influence-Inspired Scoring](../conferences/neurips-2026/cards-0007.md#paper-150869)
 - [Instruction Anchor: Dissecting the Mechanistic Dynamics of Modality Arbitration](../conferences/neurips-2026/cards-0007.md#paper-150433)
+- [Intervene3D: Intervention-Based Controlled Inference for Multimodal Perception under Partial Observability](../conferences/neurips-2026/cards-0007.md#paper-154481)
+- [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](../conferences/neurips-2026/cards-0007.md#paper-148810)
+- [ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining](../conferences/neurips-2026/cards-0007.md#paper-152157)
 
 <!-- conference-classification:end -->

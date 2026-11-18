@@ -1270,5 +1270,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Internal Safety Collapse in Frontier Large Language Models](../../conferences/neurips-2026/cards-0007.md#paper-148657)
 - [Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations](../../conferences/neurips-2026/cards-0007.md#paper-154045)
 - [Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks](../../conferences/neurips-2026/cards-0007.md#paper-155074)
+- [Intrinsic Information Theoretic Analysis of ReLU Nets](../../conferences/neurips-2026/cards-0007.md#paper-155566)
+- [Invisible Ink, Visible Lies: How Production Watermarking Causes LLMs to Hallucinate](../../conferences/neurips-2026/cards-0007.md#paper-152321)
+- [Is Agentic AI Ready for Real-World Hardware Engineering? A Deep Dive with Phoenix-bench](../../conferences/neurips-2026/cards-0007.md#paper-139277)
+- [Is a Linear Probe Evidence of a Linear Representation?](../../conferences/neurips-2026/cards-0007.md#paper-151738)
+- [Is Complex Training Necessary for Long-Tailed OOD Detection? A Re-think from Feature Geometry](../../conferences/neurips-2026/cards-0007.md#paper-152780)
+- [Is Decentralized LLM Agent RL Robust to Heterogeneity? An Asymmetric Tale](../../conferences/neurips-2026/cards-0007.md#paper-152469)
+- [Is Memorization Actually Necessary for Generalization](../../conferences/neurips-2026/cards-0007.md#paper-156025)
+- [Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)](../../conferences/neurips-2026/cards-0007.md#paper-139736)
 
 <!-- conference-classification:end -->

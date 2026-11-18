@@ -652,5 +652,11 @@
 - [Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](../conferences/neurips-2026/cards-0007.md#paper-153831)
 - [Integrated Imputation-Classification for Supervised Learning with Missing Data](../conferences/neurips-2026/cards-0007.md#paper-149201)
 - [Internalize External Competence for Visual Instruction Editing](../conferences/neurips-2026/cards-0007.md#paper-149907)
+- [Intrinsically Interpretable Attention via Sparse Post-Training](../conferences/neurips-2026/cards-0007.md#paper-152659)
+- [Introspective Coupling: LMs Learn to Explain Themselves Better Than Their Training Targets](../conferences/neurips-2026/cards-0007.md#paper-154036)
+- [Invaria: Learning Scale and Density Invariance in Point Clouds via Next-Resolution Prediction](../conferences/neurips-2026/cards-0007.md#paper-152764)
+- [IRIS: Interpolative Rényi Iterative Self-play for Large Language Model Fine-Tuning](../conferences/neurips-2026/cards-0007.md#paper-148291)
+- [It Just Takes Two: Scaling Amortized Inference to Large Sets](../conferences/neurips-2026/cards-0007.md#paper-150804)
+- [ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining](../conferences/neurips-2026/cards-0007.md#paper-152157)
 
 <!-- conference-classification:end -->

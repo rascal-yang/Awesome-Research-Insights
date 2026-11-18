@@ -583,5 +583,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Instance-Dependent Bandit Convex Optimization in One Dimension](../../conferences/neurips-2026/cards-0007.md#paper-153738)
 - [Interpretable Multiway-Split Trees](../../conferences/neurips-2026/cards-0007.md#paper-155490)
 - [Intersectional Fairness via Mixed-Integer Optimization](../../conferences/neurips-2026/cards-0007.md#paper-154529)
+- [Intrinsic Muon: Spectral Optimization on Riemannian Matrix Manifolds](../../conferences/neurips-2026/cards-0007.md#paper-148345)
+- [Inverse Linear Bandits via Linear Programs](../../conferences/neurips-2026/cards-0007.md#paper-149017)
+- [Inverse Modeling of Neural Recordings via Differentiable Biophysical Simulation](../../conferences/neurips-2026/cards-0007.md#paper-153595)
+- [Is Backpropagation Optimal? When Synthetic Gradients Improve Sample Efficiency](../../conferences/neurips-2026/cards-0007.md#paper-152783)
+- [It Cancels: O(r²) Cholesky Updates for Whitened Operators](../../conferences/neurips-2026/cards-0007.md#paper-154420)
+- [Iterative ILP with Update-Size Control for Reducing Surrogate-Task Mismatch in Bit-Width Selection](../../conferences/neurips-2026/cards-0007.md#paper-151893)
 
 <!-- conference-classification:end -->

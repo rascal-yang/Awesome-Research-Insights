@@ -879,5 +879,12 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Instance-Adaptive Online Multicalibration](../../conferences/neurips-2026/cards-0007.md#paper-148452)
 - [Integral Probability Boundaries](../../conferences/neurips-2026/cards-0007.md#paper-152300)
 - [Integrating digital twins with randomized experiments](../../conferences/neurips-2026/cards-0007.md#paper-149096)
+- [Intrinsic-dimension empirical Bernstein inequalities for bounded self-adjoint operators](../../conferences/neurips-2026/cards-0007.md#paper-148546)
+- [Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects](../../conferences/neurips-2026/cards-0007.md#paper-148988)
+- [Invariance and Body-Order Compose Additively: Minimax Rates on $\mathrm{SO}(3)^n$](../../conferences/neurips-2026/cards-0007.md#paper-154396)
+- [Invertible Logits Transformation for Accuracy-Preserving Post-Hoc Uncertainty Calibration](../../conferences/neurips-2026/cards-0007.md#paper-153997)
+- [Inverting the Bellman Equation: From $Q$-Values to World Models](../../conferences/neurips-2026/cards-0007.md#paper-153840)
+- [Is Dimensionality a Barrier for Retrieval Models?](../../conferences/neurips-2026/cards-0007.md#paper-148654)
+- [Iterative Chow Filtering for Learning with Distribution Shift](../../conferences/neurips-2026/cards-0007.md#paper-152685)
 
 <!-- conference-classification:end -->

@@ -1086,5 +1086,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [Intent-Aware Caching for Efficient LLM Serving](../../conferences/neurips-2026/cards-0007.md#paper-150630)
 - [Intent Factored Generation: Unleashing the Diversity in Your Language Model](../../conferences/neurips-2026/cards-0007.md#paper-150506)
 - [Interleaved Latent Thinking and Adaptive Termination for Efficient Reasoning LLMs](../../conferences/neurips-2026/cards-0007.md#paper-154542)
+- [Intervene3D: Intervention-Based Controlled Inference for Multimodal Perception under Partial Observability](../../conferences/neurips-2026/cards-0007.md#paper-154481)
+- [interwhen: A Generalizable Framework for Steering Reasoning Models with Test-time Verification](../../conferences/neurips-2026/cards-0007.md#paper-154546)
+- [Intrinsic Selection and Particle Resampling for Inference-Time Scaling Beyond Domain Verifiability](../../conferences/neurips-2026/cards-0007.md#paper-149807)
+- [Inverted Detection and Control in Steering Vectors](../../conferences/neurips-2026/cards-0007.md#paper-154602)
+- [I-PTC: Interactive Programmatic Tool Calling for Stateful Tool-Augmented Agents](../../conferences/neurips-2026/cards-0007.md#paper-153721)
+- [Iterative Critique-and-Routing Controller for Multi-Agent Systems with Heterogeneous LLMs](../../conferences/neurips-2026/cards-0007.md#paper-148385)
+- [Itô maps for any-step SDEs](../../conferences/neurips-2026/cards-0007.md#paper-152722)
 
 <!-- conference-classification:end -->

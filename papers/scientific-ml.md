@@ -523,5 +523,6 @@
 - [Inpainting physics: self-supervised learning for context-driven fluid simulation](../conferences/neurips-2026/cards-0007.md#paper-155045)
 - [Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction](../conferences/neurips-2026/cards-0007.md#paper-155706)
 - [Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling](../conferences/neurips-2026/cards-0007.md#paper-154449)
+- [Inverse Modeling of Neural Recordings via Differentiable Biophysical Simulation](../conferences/neurips-2026/cards-0007.md#paper-153595)
 
 <!-- conference-classification:end -->
