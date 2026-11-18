@@ -521,5 +521,7 @@ Learning from interaction, feedback, and offline experience.
 - [Graph Sparse Sampling: Breaking the Curse of the Horizon in Continuous MDP Planning](../../conferences/neurips-2026/cards-0006.md#paper-148152)
 - [Graph Topology Augmentation for Prioritized Sweeping in Non-stationary Reinforcement Learning](../../conferences/neurips-2026/cards-0006.md#paper-149861)
 - [Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning](../../conferences/neurips-2026/cards-0006.md#paper-155771)
+- [Hadamard Representation: Scaffolding Performance Across Model-free RL](../../conferences/neurips-2026/cards-0006.md#paper-152185)
+- [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](../../conferences/neurips-2026/cards-0006.md#paper-151714)
 
 <!-- conference-classification:end -->

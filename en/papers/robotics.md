@@ -681,5 +681,9 @@ Robot perception, policy learning, planning, and control.
 - [GIVLA: Deep Geometry Internalization for A Lightweight VLA via Geometry Instruction and Gradient-Informed Training](../../conferences/neurips-2026/cards-0006.md#paper-152891)
 - [GNES: Neural-Guided Evolutionary Program Search for Interpretable Multi-Agent Control](../../conferences/neurips-2026/cards-0006.md#paper-152436)
 - [Grounding Driving VLA via Inverse Kinematics](../../conferences/neurips-2026/cards-0006.md#paper-152499)
+- [HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation](../../conferences/neurips-2026/cards-0006.md#paper-139828)
+- [HAI: Hierarchical Anchored Interaction for Multi-View Bimanual World Models](../../conferences/neurips-2026/cards-0006.md#paper-152516)
+- [Hallucination in World Models is Predictable and Preventable](../../conferences/neurips-2026/cards-0006.md#paper-155605)
+- [HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields](../../conferences/neurips-2026/cards-0006.md#paper-149700)
 
 <!-- conference-classification:end -->

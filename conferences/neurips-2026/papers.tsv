@@ -3543,66 +3543,66 @@ poster_id	title	paper_url	status	reason
 149985	Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149985	included	多轨迹合成状态图，以全图标准化 TD 误差给转移记功。
 139134	GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations	https://neurips.cc/virtual/2026/poster/139134	included	群聊记忆优先验证发言者归属和词汇保真，并保留 BM25 对照。
 153234	Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries	https://neurips.cc/virtual/2026/poster/153234	included	技能检索输出结构化执行上下文，把入口与辅助信息分开。
-154678	Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate	https://neurips.cc/virtual/2026/poster/154678	pending	-
-148445	Growing a Neural Network in Breadth, Depth, and Time	https://neurips.cc/virtual/2026/poster/148445	pending	-
-148490	GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling	https://neurips.cc/virtual/2026/poster/148490	pending	-
-139231	GT-Free OCR Metrics: A Reference-Free Evaluation Framework for Document OCR Systems	https://neurips.cc/virtual/2026/poster/139231	pending	-
-149359	GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory	https://neurips.cc/virtual/2026/poster/149359	pending	-
-150944	Guaranteed Jailbreaking Defense via Disrupt-and-Rectify Smoothing	https://neurips.cc/virtual/2026/poster/150944	pending	-
-150883	Guaranteed Noisy CP Tensor Recovery via Riemannian Optimization on the Segre Manifold	https://neurips.cc/virtual/2026/poster/150883	pending	-
-156668	Guaranteed Nonconvex Low-Rank Tensor Estimation via Scaled Gradient Descent	https://neurips.cc/virtual/2026/poster/156668	pending	-
-155025	Guarding the Life Code: Preserving Membership Privacy in Genomic Foundation Models	https://neurips.cc/virtual/2026/poster/155025	pending	-
-152204	GUARD: Scalable Gradient-based Unlearning with Adversarial Robustness Defense	https://neurips.cc/virtual/2026/poster/152204	pending	-
-152964	Guidance For Prior Change via Density Ratio Estimation	https://neurips.cc/virtual/2026/poster/152964	pending	-
-152339	Guided Data Generation for Understanding Model Behavior	https://neurips.cc/virtual/2026/poster/152339	pending	-
-153167	Guiding Data Allocation for Robust Subpopulation Generalization	https://neurips.cc/virtual/2026/poster/153167	pending	-
-152866	Guiding Visual Autoregressive Models through Spectrum Weakening	https://neurips.cc/virtual/2026/poster/152866	pending	-
-139607	GUIGuard-Bench:  Toward a General Evaluation for Privacy-Preserving GUI Agents	https://neurips.cc/virtual/2026/poster/139607	pending	-
-153725	GUI-Libra: Data-Efficient Post-Training for Reliable Reasoning-and-Acting in Native GUI Agents	https://neurips.cc/virtual/2026/poster/153725	pending	-
-139804	GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions	https://neurips.cc/virtual/2026/poster/139804	pending	-
-150279	Gumbo: Gumbel Optimized High-Temperature Speculative Sampling	https://neurips.cc/virtual/2026/poster/150279	pending	-
-148930	GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow	https://neurips.cc/virtual/2026/poster/148930	pending	-
-149833	GWScore: A structural diversity metric for consistent text-to-image generation	https://neurips.cc/virtual/2026/poster/149833	pending	-
-150621	Gym-Anything: Turn Any Software into an Agent Environment	https://neurips.cc/virtual/2026/poster/150621	pending	-
-152249	G-Zero: Self-Play for Open-Ended Generation from Zero Data	https://neurips.cc/virtual/2026/poster/152249	pending	-
-155050	H2G: Hierarchy-Aware Hyperbolic Grouping for 3D Scenes	https://neurips.cc/virtual/2026/poster/155050	pending	-
-139828	HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation	https://neurips.cc/virtual/2026/poster/139828	pending	-
-139815	Hack-Verifiable Environments: Towards Evaluating Reward Hacking at Scale	https://neurips.cc/virtual/2026/poster/139815	pending	-
-148236	HACO: Hedged Agent Computing for Reliable LLM Systems	https://neurips.cc/virtual/2026/poster/148236	pending	-
-152185	Hadamard Representation: Scaffolding Performance Across Model-free RL	https://neurips.cc/virtual/2026/poster/152185	pending	-
-152516	HAI: Hierarchical Anchored Interaction for Multi-View Bimanual World Models	https://neurips.cc/virtual/2026/poster/152516	pending	-
-154568	Half-Truths Break Similarity-Based Retrieval	https://neurips.cc/virtual/2026/poster/154568	pending	-
-154310	Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer	https://neurips.cc/virtual/2026/poster/154310	pending	-
-152918	Hallucination-Guided Unlearning: Using Hallucination Traces to Reveal Overfitted Memories	https://neurips.cc/virtual/2026/poster/152918	pending	-
-155605	Hallucination in World Models is Predictable and Preventable	https://neurips.cc/virtual/2026/poster/155605	pending	-
-155031	HalluciText: Mitigating Text Hallucinations in Diffusion-Based Image Restoration	https://neurips.cc/virtual/2026/poster/155031	pending	-
-139204	HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models	https://neurips.cc/virtual/2026/poster/139204	pending	-
-153080	HALMES: Knowing When to Intervene in LVLM Hallucination Mitigation	https://neurips.cc/virtual/2026/poster/153080	pending	-
-154108	HALO: Heterogeneous-Aware LoRA Optimization via Rank Allocation and Client-Aware Projection	https://neurips.cc/virtual/2026/poster/154108	pending	-
-152138	HALO: Homotopy-Augmented Layer Optimization for Stable LLM Supervised Post-training	https://neurips.cc/virtual/2026/poster/152138	pending	-
-148613	HALO-VGGT: Heterogeneity-Aware Lightweight Online Compression Allocator for Efficient VGGT	https://neurips.cc/virtual/2026/poster/148613	pending	-
-155955	Halt Fast! Early Stopping for Certified Robustness	https://neurips.cc/virtual/2026/poster/155955	pending	-
-150931	HAMSTAR: Hamiltonian Structured Inter-Period Refinement for Long-Term Time Series Forecasting	https://neurips.cc/virtual/2026/poster/150931	pending	-
-151714	HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning	https://neurips.cc/virtual/2026/poster/151714	pending	-
-139003	HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing	https://neurips.cc/virtual/2026/poster/139003	pending	-
-149700	HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields	https://neurips.cc/virtual/2026/poster/149700	pending	-
-139358	Handwriting decoding as a challenging motor task for EEG Foundation Models	https://neurips.cc/virtual/2026/poster/139358	pending	-
-153384	Handwritten Text Recognition Lives in the High-Pixel Variance Subspace	https://neurips.cc/virtual/2026/poster/153384	pending	-
-150797	HandXFM: Semantic-Structural Distillation for Hand Radiograph Foundation Models	https://neurips.cc/virtual/2026/poster/150797	pending	-
-139113	HAPACT: A Benchmark For Human-Centric Physical Impact Localization in Movies	https://neurips.cc/virtual/2026/poster/139113	pending	-
-139135	haphazard: A unified library and benchmark for online learning under varying feature availability	https://neurips.cc/virtual/2026/poster/139135	pending	-
-154482	HAPS: Hierarchical LLM Routing with Joint Architecture and Parameter Search	https://neurips.cc/virtual/2026/poster/154482	pending	-
-138914	Harbor Adapters and Harbor-Mix: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation	https://neurips.cc/virtual/2026/poster/138914	pending	-
-150177	HARC: Coupling Harmfulness and Refusal Capabilities for Robust Safety Alignment	https://neurips.cc/virtual/2026/poster/150177	pending	-
-148913	Hard Attention Transformers and BSS-Machines	https://neurips.cc/virtual/2026/poster/148913	pending	-
-151167	Harder the Task, Sparser the Representation: Sparsity as a Learning Signature of Capability in LLMs	https://neurips.cc/virtual/2026/poster/151167	pending	-
-155635	Hardware-Friendly Token-Group Activation Quantization for Low-Bit Mamba Super-Resolution	https://neurips.cc/virtual/2026/poster/155635	pending	-
-153984	Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks	https://neurips.cc/virtual/2026/poster/153984	pending	-
-153661	Harmonic Torsional Diffusion for Flexible Protein-Ligand Docking	https://neurips.cc/virtual/2026/poster/153661	pending	-
-155727	HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Acoustic Anomaly Detection	https://neurips.cc/virtual/2026/poster/155727	pending	-
-149186	Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference	https://neurips.cc/virtual/2026/poster/149186	pending	-
-156126	Harnessing Agentic Evolution	https://neurips.cc/virtual/2026/poster/156126	pending	-
-151645	Harnessing Data Asymmetry in Manifold Learning	https://neurips.cc/virtual/2026/poster/151645	pending	-
+154678	Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate	https://neurips.cc/virtual/2026/poster/154678	included	用群体分歧改变多智能体辩论的引用关系。
+148445	Growing a Neural Network in Breadth, Depth, and Time	https://neurips.cc/virtual/2026/poster/148445	included	把宽度、深度和递归时长放进同一个资源目标。
+148490	GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling	https://neurips.cc/virtual/2026/poster/148490	included	部署要求标量内核时，优先改进低比特码点搜索。
+139231	GT-Free OCR Metrics: A Reference-Free Evaluation Framework for Document OCR Systems	https://neurips.cc/virtual/2026/poster/139231	included	在没有转写标签时用回渲染排序 OCR 质检优先级。
+149359	GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory	https://neurips.cc/virtual/2026/poster/149359	included	多智能体安全评测按博弈结构分层并检查措辞敏感性。
+150944	Guaranteed Jailbreaking Defense via Disrupt-and-Rectify Smoothing	https://neurips.cc/virtual/2026/poster/150944	included	在防御平滑中先扰动再校正到常见表达。
+150883	Guaranteed Noisy CP Tensor Recovery via Riemannian Optimization on the Segre Manifold	https://neurips.cc/virtual/2026/poster/150883	included	在噪声张量恢复中比较流形梯度与流形 Gauss-Newton。
+156668	Guaranteed Nonconvex Low-Rank Tensor Estimation via Scaled Gradient Descent	https://neurips.cc/virtual/2026/poster/156668	included	病态低秩张量的因子估计采用缩放梯度。
+155025	Guarding the Life Code: Preserving Membership Privacy in Genomic Foundation Models	https://neurips.cc/virtual/2026/poster/155025	included	私有序列训练按样本风险和区域分别施加保护。
+152204	GUARD: Scalable Gradient-based Unlearning with Adversarial Robustness Defense	https://neurips.cc/virtual/2026/poster/152204	included	遗忘训练同时保护保留集的鲁棒性。
+152964	Guidance For Prior Change via Density Ratio Estimation	https://neurips.cc/virtual/2026/poster/152964	included	科学推断的参数先验变化时，优先校正采样过程。
+152339	Guided Data Generation for Understanding Model Behavior	https://neurips.cc/virtual/2026/poster/152339	excluded	摘要仅列可生成样本的查询类型，未交代引导目标的计算或对照证据，暂缺可独立复用的机制。
+153167	Guiding Data Allocation for Robust Subpopulation Generalization	https://neurips.cc/virtual/2026/poster/153167	included	按鲁棒性收益的梯度分配各子群采样预算。
+152866	Guiding Visual Autoregressive Models through Spectrum Weakening	https://neurips.cc/virtual/2026/poster/152866	included	用通道谱截取构造视觉自回归的免训练弱分支。
+139607	GUIGuard-Bench:  Toward a General Evaluation for Privacy-Preserving GUI Agents	https://neurips.cc/virtual/2026/poster/139607	included	逐轨迹标注敏感区域是否完成任务所必需。
+153725	GUI-Libra: Data-Efficient Post-Training for Reliable Reasoning-and-Acting in Native GUI Agents	https://neurips.cc/virtual/2026/poster/153725	included	GUI 后训练同时保留直接动作监督，并避免过强单轨迹奖励。
+139804	GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions	https://neurips.cc/virtual/2026/poster/139804	included	把视觉不同但功能相同的屏幕合并后诊断失败。
+150279	Gumbo: Gumbel Optimized High-Temperature Speculative Sampling	https://neurips.cc/virtual/2026/poster/150279	included	高温推测解码用 Gumbel 候选树替代贪心草案。
+148930	GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow	https://neurips.cc/virtual/2026/poster/148930	included	用预训练视频生成模型的采样增量作为极低码率传输信道。
+149833	GWScore: A structural diversity metric for consistent text-to-image generation	https://neurips.cc/virtual/2026/poster/149833	included	把叙事图像的结构变化与主体身份一致性分别测。
+150621	Gym-Anything: Turn Any Software into an Agent Environment	https://neurips.cc/virtual/2026/poster/150621	excluded	主要贡献是软件环境生产与数据集规模，独立审核的具体有效性边界仍缺对照。
+152249	G-Zero: Self-Play for Open-Ended Generation from Zero Data	https://neurips.cc/virtual/2026/poster/152249	included	开放式自博弈没有外部评分器时，以提示是否改变预测分布决定训练样本。
+155050	H2G: Hierarchy-Aware Hyperbolic Grouping for 3D Scenes	https://neurips.cc/virtual/2026/poster/155050	included	需要跨部件和物体层级检索时，以同一个双曲特征场表示层级关系。
+139828	HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation	https://neurips.cc/virtual/2026/poster/139828	included	在共享空间训练机器人时，按协作、共处和监督三种人机关系采样示范。
+139815	Hack-Verifiable Environments: Towards Evaluating Reward Hacking at Scale	https://neurips.cc/virtual/2026/poster/139815	excluded	人工嵌入可检测漏洞的测试环境适合后续防御评测复核，摘要尚未给出可复用的诊断规律。
+148236	HACO: Hedged Agent Computing for Reliable LLM Systems	https://neurips.cc/virtual/2026/poster/148236	included	不同运行实例故障条件变化时，按目标成功率为高风险调用分配有限冗余。
+152185	Hadamard Representation: Scaffolding Performance Across Model-free RL	https://neurips.cc/virtual/2026/poster/152185	included	遇到表示秩下降和神经元休眠时，比较乘法隐藏层与等参数增宽。
+152516	HAI: Hierarchical Anchored Interaction for Multi-View Bimanual World Models	https://neurips.cc/virtual/2026/poster/152516	included	双臂多视角预测中，分开分配相机动作条件并保留每个视角的持久场景锚。
+154568	Half-Truths Break Similarity-Based Retrieval	https://neurips.cc/virtual/2026/poster/154568	included	想提高图文检索对虚假细节的敏感度时，用实体和关系级最小编辑作为训练负例。
+154310	Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer	https://neurips.cc/virtual/2026/poster/154310	included	诊断生成幻觉时，先聚合同义答案的概率再测表面形式的集中度。
+152918	Hallucination-Guided Unlearning: Using Hallucination Traces to Reveal Overfitted Memories	https://neurips.cc/virtual/2026/poster/152918	excluded	摘要报告遗忘表现，但仅凭局部激活与幻觉相关性不足以建立可复用的过拟合记忆识别标准。
+155605	Hallucination in World Models is Predictable and Preventable	https://neurips.cc/virtual/2026/poster/155605	included	世界模型长滚动漂移时，用覆盖缺口同时调训练采样和真实环境补采。
+155031	HalluciText: Mitigating Text Hallucinations in Diffusion-Based Image Restoration	https://neurips.cc/virtual/2026/poster/155031	excluded	OCR 和视觉模型纠错组合紧贴文字复原，摘要缺少迁移到其他细粒度恢复的独立证据。
+139204	HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models	https://neurips.cc/virtual/2026/poster/139204	included	评估幻觉缓解时，固定参考世界后分别改变可观测性和动态复杂度。
+153080	HALMES: Knowing When to Intervene in LVLM Hallucination Mitigation	https://neurips.cc/virtual/2026/poster/153080	included	采用视觉对比解码时，让前兆检测控制启动时机。
+154108	HALO: Heterogeneous-Aware LoRA Optimization via Rank Allocation and Client-Aware Projection	https://neurips.cc/virtual/2026/poster/154108	included	异构联邦 LoRA 中，按客户端数据几何分秩，并用本地子空间而非统一截断下发。
+152138	HALO: Homotopy-Augmented Layer Optimization for Stable LLM Supervised Post-training	https://neurips.cc/virtual/2026/poster/152138	excluded	核心做法为从输出端逐层解冻，摘要缺少与普通渐进解冻区分的独立结论。
+148613	HALO-VGGT: Heterogeneity-Aware Lightweight Online Compression Allocator for Efficient VGGT	https://neurips.cc/virtual/2026/poster/148613	included	多视角重建加速时，用在线敏感性分配各层各头的压缩额度。
+155955	Halt Fast! Early Stopping for Certified Robustness	https://neurips.cc/virtual/2026/poster/155955	included	随机平滑认证时按样本逐步决定证据何时充足。
+150931	HAMSTAR: Hamiltonian Structured Inter-Period Refinement for Long-Term Time Series Forecasting	https://neurips.cc/virtual/2026/poster/150931	excluded	周期对齐与动力学形式集成后的整体结果不足以判断何时应选辛式更新。
+151714	HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning	https://neurips.cc/virtual/2026/poster/151714	included	长程规划的潜状态分离构型、动量与历史语义。
+139003	HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing	https://neurips.cc/virtual/2026/poster/139003	excluded	摘要主要贡献是 2 亿级编辑样本与评测覆盖；尚未指出现有编辑器的具体失效规律或可独立复用的技术操作。
+149700	HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields	https://neurips.cc/virtual/2026/poster/149700	included	用物体条件下的可行姿态零等值集做关节姿态修正。
+139358	Handwriting decoding as a challenging motor task for EEG Foundation Models	https://neurips.cc/virtual/2026/poster/139358	included	在 EEG 解码里单列未知起始时间与测试信号质量。
+153384	Handwritten Text Recognition Lives in the High-Pixel Variance Subspace	https://neurips.cc/virtual/2026/poster/153384	included	先测判别信号落在哪个像素方差子空间，再选自监督目标。
+150797	HandXFM: Semantic-Structural Distillation for Hand Radiograph Foundation Models	https://neurips.cc/virtual/2026/poster/150797	excluded	使用通用多教师蒸馏适配手部影像；摘要未说明可独立复用的对齐机制或超出该应用的新增规律。
+139113	HAPACT: A Benchmark For Human-Centric Physical Impact Localization in Movies	https://neurips.cc/virtual/2026/poster/139113	excluded	新增电影冲击定位标注和任务，但摘要只称现有方法有难度，未提供能指导建模或评测选择的具体失效规律。
+139135	haphazard: A unified library and benchmark for online learning under varying feature availability	https://neurips.cc/virtual/2026/poster/139135	excluded	主要贡献是统一在线数据流基准和软件接口；摘要未揭示流条件或归一化怎样改变实证结论。
+154482	HAPS: Hierarchical LLM Routing with Joint Architecture and Parameter Search	https://neurips.cc/virtual/2026/poster/154482	included	模型路由同时生成所选架构的输入条件适配参数。
+138914	Harbor Adapters and Harbor-Mix: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation	https://neurips.cc/virtual/2026/poster/138914	excluded	主要是 80 余基准的适配和抽样精选；15.6% 的最高解题率本身未揭示独立机制或可复用失败规律。
+150177	HARC: Coupling Harmfulness and Refusal Capabilities for Robust Safety Alignment	https://neurips.cc/virtual/2026/poster/150177	included	将输入与生成阶段的安全表征联合校准。
+148913	Hard Attention Transformers and BSS-Machines	https://neurips.cc/virtual/2026/poster/148913	included	验证连续递归注意力的表达性时显式区分激活计算能力。
+151167	Harder the Task, Sparser the Representation: Sparsity as a Learning Signature of Capability in LLMs	https://neurips.cc/virtual/2026/poster/151167	included	用末层激活稀疏度给上下文示例匹配难度。
+155635	Hardware-Friendly Token-Group Activation Quantization for Low-Bit Mamba Super-Resolution	https://neurips.cc/virtual/2026/poster/155635	included	把量化后才能观察的分组规则蒸到前置轻量预测器。
+153984	Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks	https://neurips.cc/virtual/2026/poster/153984	included	部署多智能体时以跨节点运行监测补充局部检测。
+153661	Harmonic Torsional Diffusion for Flexible Protein-Ligand Docking	https://neurips.cc/virtual/2026/poster/153661	included	周期变量的生成模型可采用定义在圆上的周期表示。
+155727	HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Acoustic Anomaly Detection	https://neurips.cc/virtual/2026/poster/155727	included	未知来源的异常检测先解混正常模态，再复用同一分区做检索。
+149186	Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference	https://neurips.cc/virtual/2026/poster/149186	included	高速流处理让廉价学习过滤器同时提供阈值调整信号。
+156126	Harnessing Agentic Evolution	https://neurips.cc/virtual/2026/poster/156126	included	长程候选搜索增设可评估的搜索策略调整层。
+151645	Harnessing Data Asymmetry in Manifold Learning	https://neurips.cc/virtual/2026/poster/151645	included	密度层级重要时检验对称距离是否抹去方向差异。
 151124	Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration	https://neurips.cc/virtual/2026/poster/151124	pending	-
 152564	Harnessing Streaming Video in the Wild	https://neurips.cc/virtual/2026/poster/152564	pending	-
 155291	Harnessing Textual Refusal Directions for Multimodal Safety	https://neurips.cc/virtual/2026/poster/155291	pending	-

@@ -497,5 +497,9 @@
 - [GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement](../conferences/neurips-2026/cards-0006.md#paper-154294)
 - [GridDiffuser: Constraint-Guided Graph Diffusion for AC Optimal Power Flow](../conferences/neurips-2026/cards-0006.md#paper-152781)
 - [GRNAgent: A Multimodal Graph Reasoning Agent for Gene Regulatory Network Inference](../conferences/neurips-2026/cards-0006.md#paper-149734)
+- [Guarding the Life Code: Preserving Membership Privacy in Genomic Foundation Models](../conferences/neurips-2026/cards-0006.md#paper-155025)
+- [Guidance For Prior Change via Density Ratio Estimation](../conferences/neurips-2026/cards-0006.md#paper-152964)
+- [Handwriting decoding as a challenging motor task for EEG Foundation Models](../conferences/neurips-2026/cards-0006.md#paper-139358)
+- [Harmonic Torsional Diffusion for Flexible Protein-Ligand Docking](../conferences/neurips-2026/cards-0006.md#paper-153661)
 
 <!-- conference-classification:end -->

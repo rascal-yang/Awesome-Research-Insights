@@ -325,5 +325,6 @@ Objectives, auxiliary supervision, and regularization.
 - [GEM: Interpretable Language Models via Geometric Embedding Alignment](../../conferences/neurips-2026/cards-0006.md#paper-148804)
 - [Generative Cross-Entropy: A Strictly Proper Loss for Data-Efficient Classification](../../conferences/neurips-2026/cards-0006.md#paper-154926)
 - [Graph-Regularized Sparse Autoencoders for LLM Safety Steering](../../conferences/neurips-2026/cards-0006.md#paper-152847)
+- [Half-Truths Break Similarity-Based Retrieval](../../conferences/neurips-2026/cards-0006.md#paper-154568)
 
 <!-- conference-classification:end -->

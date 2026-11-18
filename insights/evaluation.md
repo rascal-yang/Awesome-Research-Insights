@@ -1187,5 +1187,14 @@
 - [Grounded or Fabricated? Unsupervised Detection of LLM Hallucinations via Contextualized Influence on Response Embeddings](../conferences/neurips-2026/cards-0006.md#paper-148826)
 - [Ground False: Uncovering Errors in Formal Mathematics Benchmarks](../conferences/neurips-2026/cards-0006.md#paper-139101)
 - [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](../conferences/neurips-2026/cards-0006.md#paper-139134)
+- [GT-Free OCR Metrics: A Reference-Free Evaluation Framework for Document OCR Systems](../conferences/neurips-2026/cards-0006.md#paper-139231)
+- [GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory](../conferences/neurips-2026/cards-0006.md#paper-149359)
+- [GUIGuard-Bench:  Toward a General Evaluation for Privacy-Preserving GUI Agents](../conferences/neurips-2026/cards-0006.md#paper-139607)
+- [GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](../conferences/neurips-2026/cards-0006.md#paper-139804)
+- [GWScore: A structural diversity metric for consistent text-to-image generation](../conferences/neurips-2026/cards-0006.md#paper-149833)
+- [Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer](../conferences/neurips-2026/cards-0006.md#paper-154310)
+- [HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models](../conferences/neurips-2026/cards-0006.md#paper-139204)
+- [Handwriting decoding as a challenging motor task for EEG Foundation Models](../conferences/neurips-2026/cards-0006.md#paper-139358)
+- [Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks](../conferences/neurips-2026/cards-0006.md#paper-153984)
 
 <!-- conference-classification:end -->

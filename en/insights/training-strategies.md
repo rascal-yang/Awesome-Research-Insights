@@ -612,5 +612,9 @@ Training schedules, curricula, and task or stage composition.
 - [GRAM: Group-wise Rank-Aware Modal Merging via Subspace Alignment](../../conferences/neurips-2026/cards-0006.md#paper-153287)
 - [Graph Learning from Label Proportions using Topology-Aware Pseudo Labeling and Aggregation](../../conferences/neurips-2026/cards-0006.md#paper-156071)
 - [GRASP: Guided Residual Adapters with Sample-wise Partitioning](../../conferences/neurips-2026/cards-0006.md#paper-152072)
+- [Guarding the Life Code: Preserving Membership Privacy in Genomic Foundation Models](../../conferences/neurips-2026/cards-0006.md#paper-155025)
+- [GUARD: Scalable Gradient-based Unlearning with Adversarial Robustness Defense](../../conferences/neurips-2026/cards-0006.md#paper-152204)
+- [GUI-Libra: Data-Efficient Post-Training for Reliable Reasoning-and-Acting in Native GUI Agents](../../conferences/neurips-2026/cards-0006.md#paper-153725)
+- [HARC: Coupling Harmfulness and Refusal Capabilities for Robust Safety Alignment](../../conferences/neurips-2026/cards-0006.md#paper-150177)
 
 <!-- conference-classification:end -->

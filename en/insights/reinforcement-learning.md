@@ -510,5 +510,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Grounding Multimodal Reasoning with Evidence-Ablated Negatives](../../conferences/neurips-2026/cards-0006.md#paper-154493)
 - [Grouped Adaptive Head Mixing for Personalized Multi-Task Federated Reinforcement Learning](../../conferences/neurips-2026/cards-0006.md#paper-155771)
 - [Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning](../../conferences/neurips-2026/cards-0006.md#paper-149985)
+- [G-Zero: Self-Play for Open-Ended Generation from Zero Data](../../conferences/neurips-2026/cards-0006.md#paper-152249)
 
 <!-- conference-classification:end -->

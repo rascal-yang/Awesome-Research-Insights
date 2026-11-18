@@ -457,5 +457,11 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction](../../conferences/neurips-2026/cards-0006.md#paper-151409)
 - [GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis](../../conferences/neurips-2026/cards-0006.md#paper-155778)
 - [Graph and Simplicial Complex Prediction Gaussian Process via Hodgelet Representations](../../conferences/neurips-2026/cards-0006.md#paper-150871)
+- [H2G: Hierarchy-Aware Hyperbolic Grouping for 3D Scenes](../../conferences/neurips-2026/cards-0006.md#paper-155050)
+- [HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields](../../conferences/neurips-2026/cards-0006.md#paper-149700)
+- [Handwritten Text Recognition Lives in the High-Pixel Variance Subspace](../../conferences/neurips-2026/cards-0006.md#paper-153384)
+- [Harder the Task, Sparser the Representation: Sparsity as a Learning Signature of Capability in LLMs](../../conferences/neurips-2026/cards-0006.md#paper-151167)
+- [HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Acoustic Anomaly Detection](../../conferences/neurips-2026/cards-0006.md#paper-155727)
+- [Harnessing Data Asymmetry in Manifold Learning](../../conferences/neurips-2026/cards-0006.md#paper-151645)
 
 <!-- conference-classification:end -->

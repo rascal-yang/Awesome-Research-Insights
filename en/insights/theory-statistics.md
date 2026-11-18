@@ -830,5 +830,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Gradient Span Algorithms Make Predictable Progress in High Dimension](../../conferences/neurips-2026/cards-0006.md#paper-156662)
 - [Graph Anomaly Detection as Dynamical Transport: Training-Free Scoring via Empirical Bayes](../../conferences/neurips-2026/cards-0006.md#paper-154833)
 - [GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs](../../conferences/neurips-2026/cards-0006.md#paper-149829)
+- [Halt Fast! Early Stopping for Certified Robustness](../../conferences/neurips-2026/cards-0006.md#paper-155955)
+- [Hard Attention Transformers and BSS-Machines](../../conferences/neurips-2026/cards-0006.md#paper-148913)
 
 <!-- conference-classification:end -->

@@ -552,5 +552,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Greedy Alignment Principle for Optimizer Selection](../../conferences/neurips-2026/cards-0006.md#paper-154812)
 - [Group-Aware Matrix Estimation and Latent Subspace Recovery](../../conferences/neurips-2026/cards-0006.md#paper-153493)
 - [Group Distributionally Robust Optimization with Flexible Sample Queries](../../conferences/neurips-2026/cards-0006.md#paper-154085)
+- [Guaranteed Noisy CP Tensor Recovery via Riemannian Optimization on the Segre Manifold](../../conferences/neurips-2026/cards-0006.md#paper-150883)
+- [Guaranteed Nonconvex Low-Rank Tensor Estimation via Scaled Gradient Descent](../../conferences/neurips-2026/cards-0006.md#paper-156668)
+- [HALO: Heterogeneous-Aware LoRA Optimization via Rank Allocation and Client-Aware Projection](../../conferences/neurips-2026/cards-0006.md#paper-154108)
+- [Harnessing Agentic Evolution](../../conferences/neurips-2026/cards-0006.md#paper-156126)
 
 <!-- conference-classification:end -->

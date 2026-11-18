@@ -350,5 +350,6 @@ Reusable components and local changes to model inputs or connections.
 - [GPA: General Principled Framework for Linearizing Softmax Attention via KV Cache Approximation](../../conferences/neurips-2026/cards-0006.md#paper-152654)
 - [Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning](../../conferences/neurips-2026/cards-0006.md#paper-155097)
 - [GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement](../../conferences/neurips-2026/cards-0006.md#paper-154294)
+- [Hadamard Representation: Scaffolding Performance Across Model-free RL](../../conferences/neurips-2026/cards-0006.md#paper-152185)
 
 <!-- conference-classification:end -->

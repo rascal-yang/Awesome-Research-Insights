@@ -292,3 +292,51 @@
 | 大语言模型 | 强化学习方法 | [Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning](cards-0006.md#paper-149985) | 多轨迹合成状态图，以全图标准化 TD 误差给转移记功。 |
 | 大语言模型 | 评测与诊断 | [GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations](cards-0006.md#paper-139134) | 群聊记忆优先验证发言者归属和词汇保真，并保留 BM25 对照。 |
 | 大语言模型 | 推理策略 | [Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries](cards-0006.md#paper-153234) | 技能检索输出结构化执行上下文，把入口与辅助信息分开。 |
+| 大语言模型 | 推理策略 | [Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate](cards-0006.md#paper-154678) | 用群体分歧改变多智能体辩论的引用关系。 |
+| 机器学习基础与统计 | 模型架构 | [Growing a Neural Network in Breadth, Depth, and Time](cards-0006.md#paper-148445) | 把宽度、深度和递归时长放进同一个资源目标。 |
+| 大语言模型 | 推理策略 | [GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](cards-0006.md#paper-148490) | 部署要求标量内核时，优先改进低比特码点搜索。 |
+| 计算机视觉 | 评测与诊断 | [GT-Free OCR Metrics: A Reference-Free Evaluation Framework for Document OCR Systems](cards-0006.md#paper-139231) | 在没有转写标签时用回渲染排序 OCR 质检优先级。 |
+| 大语言模型 | 评测与诊断 | [GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory](cards-0006.md#paper-149359) | 多智能体安全评测按博弈结构分层并检查措辞敏感性。 |
+| 大语言模型 | 推理策略 | [Guaranteed Jailbreaking Defense via Disrupt-and-Rectify Smoothing](cards-0006.md#paper-150944) | 在防御平滑中先扰动再校正到常见表达。 |
+| 机器学习基础与统计 | 优化 | [Guaranteed Noisy CP Tensor Recovery via Riemannian Optimization on the Segre Manifold](cards-0006.md#paper-150883) | 在噪声张量恢复中比较流形梯度与流形 Gauss-Newton。 |
+| 机器学习基础与统计 | 优化 | [Guaranteed Nonconvex Low-Rank Tensor Estimation via Scaled Gradient Descent](cards-0006.md#paper-156668) | 病态低秩张量的因子估计采用缩放梯度。 |
+| 科学机器学习 | 训练策略 | [Guarding the Life Code: Preserving Membership Privacy in Genomic Foundation Models](cards-0006.md#paper-155025) | 私有序列训练按样本风险和区域分别施加保护。 |
+| 机器学习基础与统计 | 训练策略 | [GUARD: Scalable Gradient-based Unlearning with Adversarial Robustness Defense](cards-0006.md#paper-152204) | 遗忘训练同时保护保留集的鲁棒性。 |
+| 科学机器学习 | 推理策略 | [Guidance For Prior Change via Density Ratio Estimation](cards-0006.md#paper-152964) | 科学推断的参数先验变化时，优先校正采样过程。 |
+| 机器学习基础与统计 | 数据策略 | [Guiding Data Allocation for Robust Subpopulation Generalization](cards-0006.md#paper-153167) | 按鲁棒性收益的梯度分配各子群采样预算。 |
+| 计算机视觉 | 推理策略 | [Guiding Visual Autoregressive Models through Spectrum Weakening](cards-0006.md#paper-152866) | 用通道谱截取构造视觉自回归的免训练弱分支。 |
+| 大语言模型 | 评测与诊断 | [GUIGuard-Bench:  Toward a General Evaluation for Privacy-Preserving GUI Agents](cards-0006.md#paper-139607) | 逐轨迹标注敏感区域是否完成任务所必需。 |
+| 大语言模型 | 训练策略 | [GUI-Libra: Data-Efficient Post-Training for Reliable Reasoning-and-Acting in Native GUI Agents](cards-0006.md#paper-153725) | GUI 后训练同时保留直接动作监督，并避免过强单轨迹奖励。 |
+| 大语言模型 | 评测与诊断 | [GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](cards-0006.md#paper-139804) | 把视觉不同但功能相同的屏幕合并后诊断失败。 |
+| 大语言模型 | 推理策略 | [Gumbo: Gumbel Optimized High-Temperature Speculative Sampling](cards-0006.md#paper-150279) | 高温推测解码用 Gumbel 候选树替代贪心草案。 |
+| 计算机视觉 | 推理策略 | [GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow](cards-0006.md#paper-148930) | 用预训练视频生成模型的采样增量作为极低码率传输信道。 |
+| 计算机视觉 | 评测与诊断 | [GWScore: A structural diversity metric for consistent text-to-image generation](cards-0006.md#paper-149833) | 把叙事图像的结构变化与主体身份一致性分别测。 |
+| 大语言模型 | 强化学习方法 | [G-Zero: Self-Play for Open-Ended Generation from Zero Data](cards-0006.md#paper-152249) | 开放式自博弈没有外部评分器时，以提示是否改变预测分布决定训练样本。 |
+| 计算机视觉 | 表征学习 | [H2G: Hierarchy-Aware Hyperbolic Grouping for 3D Scenes](cards-0006.md#paper-155050) | 需要跨部件和物体层级检索时，以同一个双曲特征场表示层级关系。 |
+| 机器人学 | 数据策略 | [HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation](cards-0006.md#paper-139828) | 在共享空间训练机器人时，按协作、共处和监督三种人机关系采样示范。 |
+| 大语言模型 | 推理策略 | [HACO: Hedged Agent Computing for Reliable LLM Systems](cards-0006.md#paper-148236) | 不同运行实例故障条件变化时，按目标成功率为高风险调用分配有限冗余。 |
+| 强化学习 | 模块 | [Hadamard Representation: Scaffolding Performance Across Model-free RL](cards-0006.md#paper-152185) | 遇到表示秩下降和神经元休眠时，比较乘法隐藏层与等参数增宽。 |
+| 机器人学 | 模型架构 | [HAI: Hierarchical Anchored Interaction for Multi-View Bimanual World Models](cards-0006.md#paper-152516) | 双臂多视角预测中，分开分配相机动作条件并保留每个视角的持久场景锚。 |
+| 多模态学习 | 损失函数 | [Half-Truths Break Similarity-Based Retrieval](cards-0006.md#paper-154568) | 想提高图文检索对虚假细节的敏感度时，用实体和关系级最小编辑作为训练负例。 |
+| 大语言模型 | 评测与诊断 | [Hallucination as Commitment Failure: Larger LLMs Misfire Despite Knowing the Answer](cards-0006.md#paper-154310) | 诊断生成幻觉时，先聚合同义答案的概率再测表面形式的集中度。 |
+| 机器人学 | 数据策略 | [Hallucination in World Models is Predictable and Preventable](cards-0006.md#paper-155605) | 世界模型长滚动漂移时，用覆盖缺口同时调训练采样和真实环境补采。 |
+| 大语言模型 | 评测与诊断 | [HalluWorld: A Controlled Benchmark for Hallucination via Reference World Models](cards-0006.md#paper-139204) | 评估幻觉缓解时，固定参考世界后分别改变可观测性和动态复杂度。 |
+| 多模态学习 | 推理策略 | [HALMES: Knowing When to Intervene in LVLM Hallucination Mitigation](cards-0006.md#paper-153080) | 采用视觉对比解码时，让前兆检测控制启动时机。 |
+| 机器学习基础与统计 | 优化 | [HALO: Heterogeneous-Aware LoRA Optimization via Rank Allocation and Client-Aware Projection](cards-0006.md#paper-154108) | 异构联邦 LoRA 中，按客户端数据几何分秩，并用本地子空间而非统一截断下发。 |
+| 计算机视觉 | 推理策略 | [HALO-VGGT: Heterogeneity-Aware Lightweight Online Compression Allocator for Efficient VGGT](cards-0006.md#paper-148613) | 多视角重建加速时，用在线敏感性分配各层各头的压缩额度。 |
+| 机器学习基础与统计 | 理论与统计 | [Halt Fast! Early Stopping for Certified Robustness](cards-0006.md#paper-155955) | 随机平滑认证时按样本逐步决定证据何时充足。 |
+| 强化学习 | 模型架构 | [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](cards-0006.md#paper-151714) | 长程规划的潜状态分离构型、动量与历史语义。 |
+| 机器人学 | 表征学习 | [HaNDF: Object-Conditioned Geometric Neural Hand Distance Fields](cards-0006.md#paper-149700) | 用物体条件下的可行姿态零等值集做关节姿态修正。 |
+| 科学机器学习 | 评测与诊断 | [Handwriting decoding as a challenging motor task for EEG Foundation Models](cards-0006.md#paper-139358) | 在 EEG 解码里单列未知起始时间与测试信号质量。 |
+| 计算机视觉 | 表征学习 | [Handwritten Text Recognition Lives in the High-Pixel Variance Subspace](cards-0006.md#paper-153384) | 先测判别信号落在哪个像素方差子空间，再选自监督目标。 |
+| 大语言模型 | 推理策略 | [HAPS: Hierarchical LLM Routing with Joint Architecture and Parameter Search](cards-0006.md#paper-154482) | 模型路由同时生成所选架构的输入条件适配参数。 |
+| 大语言模型 | 训练策略 | [HARC: Coupling Harmfulness and Refusal Capabilities for Robust Safety Alignment](cards-0006.md#paper-150177) | 将输入与生成阶段的安全表征联合校准。 |
+| 机器学习基础与统计 | 理论与统计 | [Hard Attention Transformers and BSS-Machines](cards-0006.md#paper-148913) | 验证连续递归注意力的表达性时显式区分激活计算能力。 |
+| 大语言模型 | 表征学习 | [Harder the Task, Sparser the Representation: Sparsity as a Learning Signature of Capability in LLMs](cards-0006.md#paper-151167) | 用末层激活稀疏度给上下文示例匹配难度。 |
+| 计算机视觉 | 推理策略 | [Hardware-Friendly Token-Group Activation Quantization for Low-Bit Mamba Super-Resolution](cards-0006.md#paper-155635) | 把量化后才能观察的分组规则蒸到前置轻量预测器。 |
+| 大语言模型 | 评测与诊断 | [Harmless in Pieces, Harmful in Motion: Detecting Multi-Agent Jailbreaks](cards-0006.md#paper-153984) | 部署多智能体时以跨节点运行监测补充局部检测。 |
+| 科学机器学习 | 模型架构 | [Harmonic Torsional Diffusion for Flexible Protein-Ligand Docking](cards-0006.md#paper-153661) | 周期变量的生成模型可采用定义在圆上的周期表示。 |
+| 机器学习基础与统计 | 表征学习 | [HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Acoustic Anomaly Detection](cards-0006.md#paper-155727) | 未知来源的异常检测先解混正常模态，再复用同一分区做检索。 |
+| 机器学习基础与统计 | 推理策略 | [Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference](cards-0006.md#paper-149186) | 高速流处理让廉价学习过滤器同时提供阈值调整信号。 |
+| 大语言模型 | 优化 | [Harnessing Agentic Evolution](cards-0006.md#paper-156126) | 长程候选搜索增设可评估的搜索策略调整层。 |
+| 机器学习基础与统计 | 表征学习 | [Harnessing Data Asymmetry in Manifold Learning](cards-0006.md#paper-151645) | 密度层级重要时检验对称距离是否抹去方向差异。 |

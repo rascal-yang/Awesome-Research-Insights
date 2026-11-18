@@ -333,5 +333,9 @@
 - [GRNAgent: A Multimodal Graph Reasoning Agent for Gene Regulatory Network Inference](../conferences/neurips-2026/cards-0006.md#paper-149734)
 - [Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation](../conferences/neurips-2026/cards-0006.md#paper-152856)
 - [Grounding Driving VLA via Inverse Kinematics](../conferences/neurips-2026/cards-0006.md#paper-152499)
+- [Growing a Neural Network in Breadth, Depth, and Time](../conferences/neurips-2026/cards-0006.md#paper-148445)
+- [HAI: Hierarchical Anchored Interaction for Multi-View Bimanual World Models](../conferences/neurips-2026/cards-0006.md#paper-152516)
+- [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](../conferences/neurips-2026/cards-0006.md#paper-151714)
+- [Harmonic Torsional Diffusion for Flexible Protein-Ligand Docking](../conferences/neurips-2026/cards-0006.md#paper-153661)
 
 <!-- conference-classification:end -->

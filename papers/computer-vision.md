@@ -826,5 +826,13 @@
 - [GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis](../conferences/neurips-2026/cards-0006.md#paper-155778)
 - [GRASP: Guided Residual Adapters with Sample-wise Partitioning](../conferences/neurips-2026/cards-0006.md#paper-152072)
 - [Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation](../conferences/neurips-2026/cards-0006.md#paper-152856)
+- [GT-Free OCR Metrics: A Reference-Free Evaluation Framework for Document OCR Systems](../conferences/neurips-2026/cards-0006.md#paper-139231)
+- [Guiding Visual Autoregressive Models through Spectrum Weakening](../conferences/neurips-2026/cards-0006.md#paper-152866)
+- [GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow](../conferences/neurips-2026/cards-0006.md#paper-148930)
+- [GWScore: A structural diversity metric for consistent text-to-image generation](../conferences/neurips-2026/cards-0006.md#paper-149833)
+- [H2G: Hierarchy-Aware Hyperbolic Grouping for 3D Scenes](../conferences/neurips-2026/cards-0006.md#paper-155050)
+- [HALO-VGGT: Heterogeneity-Aware Lightweight Online Compression Allocator for Efficient VGGT](../conferences/neurips-2026/cards-0006.md#paper-148613)
+- [Handwritten Text Recognition Lives in the High-Pixel Variance Subspace](../conferences/neurips-2026/cards-0006.md#paper-153384)
+- [Hardware-Friendly Token-Group Activation Quantization for Low-Bit Mamba Super-Resolution](../conferences/neurips-2026/cards-0006.md#paper-155635)
 
 <!-- conference-classification:end -->

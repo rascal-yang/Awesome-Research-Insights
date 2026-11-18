@@ -668,5 +668,7 @@ Learning across modalities such as images, text, audio, and video.
 - [GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing](../../conferences/neurips-2026/cards-0006.md#paper-139632)
 - [GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs](../../conferences/neurips-2026/cards-0006.md#paper-149994)
 - [Grounding Multimodal Reasoning with Evidence-Ablated Negatives](../../conferences/neurips-2026/cards-0006.md#paper-154493)
+- [Half-Truths Break Similarity-Based Retrieval](../../conferences/neurips-2026/cards-0006.md#paper-154568)
+- [HALMES: Knowing When to Intervene in LVLM Hallucination Mitigation](../../conferences/neurips-2026/cards-0006.md#paper-153080)
 
 <!-- conference-classification:end -->

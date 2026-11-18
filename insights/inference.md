@@ -1034,5 +1034,18 @@
 - [Grid Games: The Power Of Multiple Grids for Quantizing Large Language Models](../conferences/neurips-2026/cards-0006.md#paper-153337)
 - [GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs](../conferences/neurips-2026/cards-0006.md#paper-149994)
 - [Group of Skills: Group-Structured Skill Retrieval for Agent Skill Libraries](../conferences/neurips-2026/cards-0006.md#paper-153234)
+- [Group Perspective Matters: Regulating Debate Relationships Can Mitigate Blind Conformity in Multi-Agent Debate](../conferences/neurips-2026/cards-0006.md#paper-154678)
+- [GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling](../conferences/neurips-2026/cards-0006.md#paper-148490)
+- [Guaranteed Jailbreaking Defense via Disrupt-and-Rectify Smoothing](../conferences/neurips-2026/cards-0006.md#paper-150944)
+- [Guidance For Prior Change via Density Ratio Estimation](../conferences/neurips-2026/cards-0006.md#paper-152964)
+- [Guiding Visual Autoregressive Models through Spectrum Weakening](../conferences/neurips-2026/cards-0006.md#paper-152866)
+- [Gumbo: Gumbel Optimized High-Temperature Speculative Sampling](../conferences/neurips-2026/cards-0006.md#paper-150279)
+- [GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow](../conferences/neurips-2026/cards-0006.md#paper-148930)
+- [HACO: Hedged Agent Computing for Reliable LLM Systems](../conferences/neurips-2026/cards-0006.md#paper-148236)
+- [HALMES: Knowing When to Intervene in LVLM Hallucination Mitigation](../conferences/neurips-2026/cards-0006.md#paper-153080)
+- [HALO-VGGT: Heterogeneity-Aware Lightweight Online Compression Allocator for Efficient VGGT](../conferences/neurips-2026/cards-0006.md#paper-148613)
+- [HAPS: Hierarchical LLM Routing with Joint Architecture and Parameter Search](../conferences/neurips-2026/cards-0006.md#paper-154482)
+- [Hardware-Friendly Token-Group Activation Quantization for Low-Bit Mamba Super-Resolution](../conferences/neurips-2026/cards-0006.md#paper-155635)
+- [Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference](../conferences/neurips-2026/cards-0006.md#paper-149186)
 
 <!-- conference-classification:end -->

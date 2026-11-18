@@ -1969,5 +1969,16 @@
 - [Grokking or Glitching? How Low-Precision Drives Slingshot Loss Spikes](../conferences/neurips-2026/cards-0006.md#paper-150726)
 - [Group-Aware Matrix Estimation and Latent Subspace Recovery](../conferences/neurips-2026/cards-0006.md#paper-153493)
 - [Group Distributionally Robust Optimization with Flexible Sample Queries](../conferences/neurips-2026/cards-0006.md#paper-154085)
+- [Growing a Neural Network in Breadth, Depth, and Time](../conferences/neurips-2026/cards-0006.md#paper-148445)
+- [Guaranteed Noisy CP Tensor Recovery via Riemannian Optimization on the Segre Manifold](../conferences/neurips-2026/cards-0006.md#paper-150883)
+- [Guaranteed Nonconvex Low-Rank Tensor Estimation via Scaled Gradient Descent](../conferences/neurips-2026/cards-0006.md#paper-156668)
+- [GUARD: Scalable Gradient-based Unlearning with Adversarial Robustness Defense](../conferences/neurips-2026/cards-0006.md#paper-152204)
+- [Guiding Data Allocation for Robust Subpopulation Generalization](../conferences/neurips-2026/cards-0006.md#paper-153167)
+- [HALO: Heterogeneous-Aware LoRA Optimization via Rank Allocation and Client-Aware Projection](../conferences/neurips-2026/cards-0006.md#paper-154108)
+- [Halt Fast! Early Stopping for Certified Robustness](../conferences/neurips-2026/cards-0006.md#paper-155955)
+- [Hard Attention Transformers and BSS-Machines](../conferences/neurips-2026/cards-0006.md#paper-148913)
+- [HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Acoustic Anomaly Detection](../conferences/neurips-2026/cards-0006.md#paper-155727)
+- [Harnessing Accurate and Automatic Trend Detection in Data Streams via Tbps-Level Inference](../conferences/neurips-2026/cards-0006.md#paper-149186)
+- [Harnessing Data Asymmetry in Manifold Learning](../conferences/neurips-2026/cards-0006.md#paper-151645)
 
 <!-- conference-classification:end -->
