@@ -117,9 +117,9 @@ number	openreview_id	title	paper_url	reason	status
 116	dKRgZYcdRV	Object-Centric Conditioning for Visuomotor Flow Matching	https://openreview.net/forum?id=dKRgZYcdRV	为基于历史动作的低步数流模型分开编码物体语义和几何位置	included
 117	4dqRAd2sNp	When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies	https://openreview.net/forum?id=4dqRAd2sNp	部署前先试同一流策略的一步积分再决定是否蒸馏	included
 118	qd6clCx6QY	Scalable Behavior Cloning with Open Data, Training, and Evaluation	https://openreview.net/forum?id=qd6clCx6QY		pending
-119	jnEHLRyWTZ	Learning Beyond What Humans Can Demonstrate	https://openreview.net/forum?id=jnEHLRyWTZ		pending
+119	jnEHLRyWTZ	Learning Beyond What Humans Can Demonstrate	https://openreview.net/forum?id=jnEHLRyWTZ	从采集失败归纳状态约束并在部署阶段复用	included
 120	P8H2WZH2Tw	Predictive Representation Learning for Manipulation via Streaming Egocentric 3D Hand Forecasting	https://openreview.net/forum?id=P8H2WZH2Tw		pending
-121	bLQynefrlp	Bimanual Robot Manipulation via Multi-Agent In-Context Learning	https://openreview.net/forum?id=bLQynefrlp		pending
+121	bLQynefrlp	Bimanual Robot Manipulation via Multi-Agent In-Context Learning	https://openreview.net/forum?id=bLQynefrlp	把双臂预测拆为有条件的先后决策	included
 122	f5329HhijI	Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation	https://openreview.net/forum?id=f5329HhijI		pending
 123	qHndjmxgs1	GeoHAT: Geometry-Adaptive Hybrid Action Transformer for Mobile Manipulation	https://openreview.net/forum?id=qHndjmxgs1		pending
 124	Nfz7oM0Vwz	InCoM: Intent-Driven Perception and Structured Coordination for Mobile Manipulation	https://openreview.net/forum?id=Nfz7oM0Vwz		pending

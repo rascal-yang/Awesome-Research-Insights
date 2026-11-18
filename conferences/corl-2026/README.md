@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **95 / 687** 篇，当前收录 **94** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **97 / 687** 篇，当前收录 **96** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -100,3 +100,5 @@
 | 具身智能 / 强化学习 | 部署适配 | [TERRA](cards.md#paper-w443fvglzc) | 按预测的任务相关模型误差选择部署时采样路线 |
 | 具身智能 / 多模态 | 动作生成 | [SlotFlow](cards.md#paper-dkrgzycdrv) | 为基于历史动作的低步数流模型分开编码物体语义和几何位置 |
 | 具身智能 | 推理与部署 | [One-step action generation](cards.md#paper-4dqrad2snp) | 部署前先试同一流策略的一步积分再决定是否蒸馏 |
+| 具身智能 | 示范采集 | [GLIDE](cards.md#paper-jnehlrywtz) | 从采集失败归纳状态约束并在部署阶段复用 |
+| 具身智能 / Agent | 动作规划 | [BiCICLe](cards.md#paper-blqynefrlp) | 把双臂预测拆为有条件的先后决策 |
