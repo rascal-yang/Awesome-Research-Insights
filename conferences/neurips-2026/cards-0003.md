@@ -8821,3 +8821,198 @@
 - **适用条件 / 局限** · 带宽估计与反馈延迟会影响调度。
 
 **可复用机制** · 在波动带宽下分别评估消息价值和发送策略，以同字节预算比较。
+
+<a id="paper-138907"></a>
+
+## DDBench: A Benchmark for Agentic Debugging on Distributed Systems
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/138907) · [作者来源](https://openreview.net/forum?id=xeI7yaisrf)
+
+- **问题 / 瓶颈** · 单进程榜单不覆盖跨节点定位
+- **核心创新 / 方法** · 固定仓库与故障，切换症状和附加日志等证据
+- **Baseline** · 仅症状
+- **Benchmark** · 13个系统60例、10个模型
+- **关键结果 / 消融** · 附加证据平均提升18.1个百分点，弱模型更多提升成功率
+- **适用条件 / 局限** · 历史案例且证据也可能误导
+
+**可复用机制** · 分别报告辅助上下文对成功率和效率的影响。
+
+<a id="paper-151520"></a>
+
+## DD-CAM: Minimal Sufficient Explanations for Vision Models Using Delta Debugging
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151520) · [作者来源](https://openreview.net/forum?id=a30XWAYlaJ)
+
+- **问题 / 瓶颈** · 全单元加权易引入偶然响应
+- **核心创新 / 方法** · 按头部交互结构选择逐个删除或递归分割，保留预测且无法再单删
+- **Baseline** · 13种显著性方法
+- **Benchmark** · ImageNet 2000张、8种模型；ChestX-ray14框
+- **关键结果 / 消融** · 18个指标组单元中13个领先，胸片IoU较最强基线提高45%
+- **适用条件 / 局限** · 只保证单删除最小性，依赖头结构
+
+**可复用机制** · 检验保留预测和单元删除敏感性，避免只看热图集中度。
+
+<a id="paper-151036"></a>
+
+## DDGE: Disentangled Dirichlet Geodesic Evaluation for Robust Few-Shot Learning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151036) · [作者来源](https://openreview.net/forum?id=dSbq1BWqRS)
+
+- **问题 / 瓶颈** · 异类样本可能在环境空间虚假接近
+- **核心创新 / 方法** · 分解正交子空间，构建连续密度地形后按共形积分测距
+- **Baseline** · 欧氏和余弦路线
+- **Benchmark** · 多个少样本基准，具体任务待查
+- **关键结果 / 消融** · 作者报告性能领先，幅度待查
+- **适用条件 / 局限** · 密度估计在极少样本下可能不稳
+
+**可复用机制** · 按噪声水平验证测地距离是否降低近邻误配。
+
+<a id="paper-148341"></a>
+
+## DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148341) · [作者来源](https://openreview.net/forum?id=yZ8biwPKlA)
+
+- **问题 / 瓶颈** · 原始语义特征未显式约束三维对应
+- **核心创新 / 方法** · 融合二维教师和多视角几何，并以排序目标细化后蒸馏
+- **Baseline** · 原始基础表征，具名对照待查
+- **Benchmark** · 特征分析、密集迁移、三维提升与渲染
+- **关键结果 / 消融** · 作者报告一致性与局部区分改善并保留语义迁移
+- **适用条件 / 局限** · 训练依赖多视角教师
+
+**可复用机制** · 分别测对应稳定性和语义迁移，避免以平滑换一致性。
+
+<a id="paper-139355"></a>
+
+## DD-Ranking: Rethinking the Evaluation of Dataset Distillation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139355) · [作者来源](https://openreview.net/forum?id=UreH0QGZXp)
+
+- **问题 / 瓶颈** · 最终准确率会混淆图像质量与附加技巧
+- **核心创新 / 方法** · 统一评估条件并引入额外指标
+- **Baseline** · 加入随机采样图像及不同评估配方
+- **Benchmark** · 合成数据蒸馏，具体基准待查
+- **关键结果 / 消融** · 某些配方下随机图像也胜过蒸馏图像
+- **适用条件 / 局限** · 结论取决于评估配方
+
+**可复用机制** · 用同配方随机样本对照检验信息增量。
+
+<a id="paper-139550"></a>
+
+## DDx-TRACE: A Benchmark for Medical Diagnostic Trajectories in VLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139550) · [作者来源](https://openreview.net/forum?id=JBTAcOAyaB)
+
+- **问题 / 瓶颈** · 终点准确率容易漏掉无证据猜对
+- **核心创新 / 方法** · 用受控证据变体定位规划、感知和更新瓶颈
+- **Baseline** · 一次性呈现证据的评估范式
+- **Benchmark** · 211个医师审核的神经放射病例
+- **关键结果 / 消融** · 作者报告终点分数会掩盖低效取证与误读
+- **适用条件 / 局限** · 专科基准，不能外推临床部署
+
+**可复用机制** · 对高风险工作流分别测证据获取、解释与最终决定。
+
+<a id="paper-151183"></a>
+
+## Deadline-Constrained Dynamic Workflow Scheduling Can be Cast as a Representation Learning Problem
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151183) · [作者来源](https://openreview.net/forum?id=cMnAOzk1N3)
+
+- **问题 / 瓶颈** · 奖励合并会掩盖约束与成本差别
+- **核心创新 / 方法** · 学习截止期表征，在其上训练成本价值头，并随策略调整训练分布
+- **Baseline** · 启发式与深度强化学习方法
+- **Benchmark** · 动态云工作流调度
+- **关键结果 / 消融** · 作者报告成本降低并维持较强按期完成率
+- **适用条件 / 局限** · 风险预测依赖工作负载分布
+
+**可复用机制** · 同时检验成本与违规率，监控策略改变后的风险校准。
+
+<a id="paper-139011"></a>
+
+## DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139011) · [作者来源](https://openreview.net/forum?id=qfFstz92T6)
+
+- **问题 / 瓶颈** · 自然发言不保证群体动态真实
+- **核心创新 / 方法** · 按多轮公开消息和私下信念测试数字分身
+- **Baseline** · 七种模型、零样本与监督微调
+- **Benchmark** · 107主题，2788人、697组
+- **关键结果 / 消融** · 零样本过度收敛，微调缓解但仍有更新误差
+- **适用条件 / 局限** · 仅美国样本
+
+**可复用机制** · 评价群体模拟时独立比较人群收敛速度和个体更新。
+
+<a id="paper-149078"></a>
+
+## Debiased Counterfactual Generation via Flow Matching from Observations
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149078) · [作者来源](https://openreview.net/forum?id=t2qgnOp8Wx)
+
+- **问题 / 瓶颈** · 独立学习反事实分布丢弃与观测分布共享结构
+- **核心创新 / 方法** · 用流匹配加有效影响函数修正，并研究最小能量流
+- **Baseline** · 去偏反事实估计器
+- **Benchmark** · 反事实估计实验，具体数据待查
+- **关键结果 / 消融** · 作者报告优于既有估计器并缓解流模型失效
+- **适用条件 / 局限** · 依赖识别假设与混杂强度
+
+**可复用机制** · 比较观测分布初始化与独立生成在共享结构下的效率。
+
+<a id="paper-149883"></a>
+
+## Debiased DPO for Diffusion Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149883) · [作者来源](https://openreview.net/forum?id=mVm3paaO7B)
+
+- **问题 / 瓶颈** · 直接混合会继承合成偏见
+- **核心创新 / 方法** · 在扩散DPO中加入双重稳健估计
+- **Baseline** · 同人工预算标准DPO和全人工监督
+- **Benchmark** · 扩散偏好对齐，不同合成标注质量
+- **关键结果 / 消融** · 用四分之一人工标签接近全监督水平
+- **适用条件 / 局限** · 依赖少量真实偏好及校正模型
+
+**可复用机制** · 固定人工预算扫合成标签质量，测偏差校正收益。
+
+<a id="paper-149261"></a>
+
+## Debiasing Random Oblique Projections for Subsampled OLS and Fast CUR in High Dimensions
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149261) · [作者来源](https://openreview.net/forum?id=rdmZzxYKam)
+
+- **问题 / 瓶颈** · 输入无偏不意味着非线性伪逆后无偏
+- **核心创新 / 方法** · 构建随机斜投影非渐近分析并去偏
+- **Baseline** · 标准采样与子空间嵌入分析
+- **Benchmark** · 子采样OLS和快速CUR，含数值验证
+- **关键结果 / 消融** · 给出偏差方差条件并改善CUR近似
+- **适用条件 / 局限** · 收益取决于采样与矩阵条件
+
+**可复用机制** · 在选矩阵草图方案时分别测偏差和方差。
+
+<a id="paper-149463"></a>
+
+## Debiasing Sketched Ridge Regression: A Functional Estimation Perspective
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149463) · [作者来源](https://openreview.net/forum?id=pvBnriJ4RH)
+
+- **问题 / 瓶颈** · 协方差草图进入非线性岭估计后有偏
+- **核心创新 / 方法** · 迭代Bootstrap或跨草图尺寸线性组合
+- **Baseline** · 未校正插件估计
+- **Benchmark** · 满列秩设计，Gaussian及部分离散草图理论
+- **关键结果 / 消融** · 高斯中k步迭代偏差阶为(sqrt(r/s))^(k+2)
+- **适用条件 / 局限** · 假设和阶数依赖草图类型
+
+**可复用机制** · 用相同复杂度量级比较不同草图尺寸聚合。
+
+<a id="paper-149890"></a>
+
+## Decentralized $\mu^2$-SGD: Narrowing the Parallelism Gap to Centralized Learning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149890) · [作者来源](https://openreview.net/forum?id=mTng8fAGcD)
+
+- **问题 / 瓶颈** · 稀疏通信中增工人可能损害统计效率
+- **核心创新 / 方法** · 分析分散式动量SGD容许的最大并行规模
+- **Baseline** · 既有分散算法与集中式标度
+- **Benchmark** · 随机凸优化界和优化实验
+- **关键结果 / 消融** · 作者证明广泛图拓扑下匹配集中式并行标度
+- **适用条件 / 局限** · 理论结论依赖凸性和图结构
+
+**可复用机制** · 选并行规模时把通信拓扑和统计效率共同纳入。

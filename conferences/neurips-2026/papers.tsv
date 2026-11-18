@@ -1904,66 +1904,66 @@ poster_id	title	paper_url	status	reason
 152806	DCVD: Dual-Channel Cross-Modal Fusion for Joint Vulnerability Detection and Localization	https://neurips.cc/virtual/2026/poster/152806	included	为授权代码审计分别测全局检出与定位质量，保留人工确认。
 150507	DC-ViT: Modulating Spatial and Channel Interactions for Multi-Channel Images	https://neurips.cc/virtual/2026/poster/150507	included	对照共享注意力和解耦交互，按通道组合报告稳健性。
 154024	DDACOM: Dual-Decoupled Adaptive Communication for Multi-Agent Reinforcement Learning under Dynamic Networks	https://neurips.cc/virtual/2026/poster/154024	included	在波动带宽下分别评估消息价值和发送策略，以同字节预算比较。
-138907	DDBench: A Benchmark for Agentic Debugging on Distributed Systems	https://neurips.cc/virtual/2026/poster/138907	pending	-
-151520	DD-CAM: Minimal Sufficient Explanations for Vision Models Using Delta Debugging	https://neurips.cc/virtual/2026/poster/151520	pending	-
-151036	DDGE: Disentangled Dirichlet Geodesic Evaluation for Robust Few-Shot Learning	https://neurips.cc/virtual/2026/poster/151036	pending	-
-148341	DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models	https://neurips.cc/virtual/2026/poster/148341	pending	-
-151429	D-DOIT: Training-free Adaptation of Discrete Diffusion via Doob's h-Transform	https://neurips.cc/virtual/2026/poster/151429	pending	-
-139355	DD-Ranking: Rethinking the Evaluation of Dataset Distillation	https://neurips.cc/virtual/2026/poster/139355	pending	-
-139550	DDx-TRACE: A Benchmark for Medical Diagnostic Trajectories in VLMs	https://neurips.cc/virtual/2026/poster/139550	pending	-
-151183	Deadline-Constrained Dynamic Workflow Scheduling Can be Cast as a Representation Learning Problem	https://neurips.cc/virtual/2026/poster/151183	pending	-
-139011	DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents	https://neurips.cc/virtual/2026/poster/139011	pending	-
-149078	Debiased Counterfactual Generation via Flow Matching from Observations	https://neurips.cc/virtual/2026/poster/149078	pending	-
-149883	Debiased DPO for Diffusion Models	https://neurips.cc/virtual/2026/poster/149883	pending	-
-149261	Debiasing Random Oblique Projections for Subsampled OLS and Fast CUR in High Dimensions	https://neurips.cc/virtual/2026/poster/149261	pending	-
-149463	Debiasing Sketched Ridge Regression: A Functional Estimation Perspective	https://neurips.cc/virtual/2026/poster/149463	pending	-
-150419	DECEIVE-AFC: Adversarial Claim Attacks against Search-Enabled LLM-based Fact-Checking Systems	https://neurips.cc/virtual/2026/poster/150419	pending	-
-149890	Decentralized $\mu^2$-SGD: Narrowing the Parallelism Gap to Centralized Learning	https://neurips.cc/virtual/2026/poster/149890	pending	-
-150523	Decentralized Aggregation of LLM Predictions via Wagering Mechanisms	https://neurips.cc/virtual/2026/poster/150523	pending	-
-140032	Decentralized AI Governance Must Decouple Policy Processing from Capability Enforcement	https://neurips.cc/virtual/2026/poster/140032	pending	-
-151009	Decentralized Coupled Representation Learning	https://neurips.cc/virtual/2026/poster/151009	pending	-
-151866	Decentralized Multi-Goal Multi-Agent Pathfinding with Spatial Prior and Neighbor Intent Prediction	https://neurips.cc/virtual/2026/poster/151866	pending	-
-155245	Decentralized Q-Learning in Markov Potential Games	https://neurips.cc/virtual/2026/poster/155245	pending	-
-151288	Decentralized Ranking Aggregation via Gossip: Convergence and Robustness	https://neurips.cc/virtual/2026/poster/151288	pending	-
-152927	Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/152927	pending	-
-149170	Decide Before You Record: Heterogeneity-Guided Pre-Acquisition Stimulus Selection for Cross-Day Neuroprostheses	https://neurips.cc/virtual/2026/poster/149170	pending	-
-155924	Decision-Aware Proximal Bridge Learning for Optimal Treatment Selection	https://neurips.cc/virtual/2026/poster/155924	pending	-
-149225	Decision-Focused Learning in MDPs: An Occupancy Measure Approach	https://neurips.cc/virtual/2026/poster/149225	pending	-
-151045	Decision Focused Scenario Learning for Contextual Stochastic Programming	https://neurips.cc/virtual/2026/poster/151045	pending	-
-153801	Decision Path Tracing for Causal Analysis in Transformers	https://neurips.cc/virtual/2026/poster/153801	pending	-
-154405	Decoding the Critique Mechanism in Large Reasoning Models	https://neurips.cc/virtual/2026/poster/154405	pending	-
-156777	DecompDreamer: A Composition-Aware Curriculum for Structured 3D Asset Generation	https://neurips.cc/virtual/2026/poster/156777	pending	-
-152463	Decomposed Graded Verifier for Generative World Modeling	https://neurips.cc/virtual/2026/poster/152463	pending	-
-149003	Decomposed Representations Mitigate the Alignment–Specificity Trade-off in Multi-Omics	https://neurips.cc/virtual/2026/poster/149003	pending	-
-152875	Decompose the Distillation: Interpretable Single-Pass Guidance for Diffusion Models	https://neurips.cc/virtual/2026/poster/152875	pending	-
-152417	Decomposing and Reshaping Scaling Laws through Token Learning Times	https://neurips.cc/virtual/2026/poster/152417	pending	-
-149998	Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution	https://neurips.cc/virtual/2026/poster/149998	pending	-
-150168	Decomposing Earth Embeddings with Sparse Autoencoders	https://neurips.cc/virtual/2026/poster/150168	pending	-
-151693	Decomposing Effects in Neural Causal Models	https://neurips.cc/virtual/2026/poster/151693	pending	-
-153074	Decomposing how prompting steers behavior	https://neurips.cc/virtual/2026/poster/153074	pending	-
-155967	Decomposing One Professional-Framing Pipeline: Which Components Shift LLM Safety Boundaries?	https://neurips.cc/virtual/2026/poster/155967	pending	-
-149560	Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation	https://neurips.cc/virtual/2026/poster/149560	pending	-
-152921	Decomposing Temporal and Job-Induced Dynamics for Probabilistic Computing Workload Forecasting via Graph-Conditioned Dual-Branch Diffusion	https://neurips.cc/virtual/2026/poster/152921	pending	-
-152282	Decomposing the modulation of interactions between neuronal populations	https://neurips.cc/virtual/2026/poster/152282	pending	-
-153116	Deconstructing Multi-Task Active Learning: The Paradox of Gradient Conflict and Orthogonal Decomposition	https://neurips.cc/virtual/2026/poster/153116	pending	-
-148478	DeCoRL: Decomposed Consistency Reinforcement Learning for Multi-Image Composition	https://neurips.cc/virtual/2026/poster/148478	pending	-
-149572	Decoupled Complementary Fields on 3D Gaussian Maps for Embodied Navigation and Reasoning	https://neurips.cc/virtual/2026/poster/149572	pending	-
-152459	Decoupled Descent: Exact Test Error Tracking Via Approximate Message Passing	https://neurips.cc/virtual/2026/poster/152459	pending	-
-150180	Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models	https://neurips.cc/virtual/2026/poster/150180	pending	-
-149914	Decoupled Optimization for Teacher-Student Semi-Supervised Learning via a Pioneer Student	https://neurips.cc/virtual/2026/poster/149914	pending	-
-151599	Decoupled Prototype Contrastive Alignment Hashing for Cross-Modal Retrieval	https://neurips.cc/virtual/2026/poster/151599	pending	-
-151316	Decoupled Safety Control: A Safety-Control Algorithm for Training-Free Safety Guidance	https://neurips.cc/virtual/2026/poster/151316	pending	-
-152818	Decoupling Action from Egocentric Observation for World Simulation	https://neurips.cc/virtual/2026/poster/152818	pending	-
-151800	Decoupling Conversational Dynamics in Full-Duplex Spoken Models through Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151800	pending	-
-149168	Decoupling Direction and Magnitude: Language-Steered Flow Matching for Super-Resolution in the Dark	https://neurips.cc/virtual/2026/poster/149168	pending	-
-154428	Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration	https://neurips.cc/virtual/2026/poster/154428	pending	-
-149216	Decoupling is the Key: Scaling Deep Value Networks in Reinforcement Leanring	https://neurips.cc/virtual/2026/poster/149216	pending	-
-154393	Decoupling Label Shift and Surrogate Gradient Errors for Robust Federated Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/154393	pending	-
-150052	Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting	https://neurips.cc/virtual/2026/poster/150052	pending	-
-152326	DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders	https://neurips.cc/virtual/2026/poster/152326	pending	-
-151979	DEDCA: Test-Time Adaptation for Generalized AI-Generated Image Detection	https://neurips.cc/virtual/2026/poster/151979	pending	-
-150425	DeepArrhythmia: Segment-Contextualized ECG Arrhythmia Classification via Selective Evidence Acquisition	https://neurips.cc/virtual/2026/poster/150425	pending	-
-151777	Deep Barycentric Regression for Optimal Transport Map Estimation and its Statistical Optimality	https://neurips.cc/virtual/2026/poster/151777	pending	-
+138907	DDBench: A Benchmark for Agentic Debugging on Distributed Systems	https://neurips.cc/virtual/2026/poster/138907	included	对同一分布式故障配对提供运行证据
+151520	DD-CAM: Minimal Sufficient Explanations for Vision Models Using Delta Debugging	https://neurips.cc/virtual/2026/poster/151520	included	用最小充分激活集合生成热图
+151036	DDGE: Disentangled Dirichlet Geodesic Evaluation for Robust Few-Shot Learning	https://neurips.cc/virtual/2026/poster/151036	included	噪声少样本中比较密度感知测地线与平直距离
+148341	DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models	https://neurips.cc/virtual/2026/poster/148341	included	让单视角学生学习多视角几何，同时保留局部判别性
+151429	D-DOIT: Training-free Adaptation of Discrete Diffusion via Doob's h-Transform	https://neurips.cc/virtual/2026/poster/151429	excluded	主要实证贡献涉及调控 DNA 序列优化，摘要未验证独立于该应用的可收录结论。
+139355	DD-Ranking: Rethinking the Evaluation of Dataset Distillation	https://neurips.cc/virtual/2026/poster/139355	included	锁定评估阶段软标签与增强来比较蒸馏图像
+139550	DDx-TRACE: A Benchmark for Medical Diagnostic Trajectories in VLMs	https://neurips.cc/virtual/2026/poster/139550	included	隐藏证据并逐步检验系统何时索取、更新和停止
+151183	Deadline-Constrained Dynamic Workflow Scheduling Can be Cast as a Representation Learning Problem	https://neurips.cc/virtual/2026/poster/151183	included	先筛选截止风险再优化资源成本
+139011	DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents	https://neurips.cc/virtual/2026/poster/139011	included	将群体信念变化和下一消息质量分别衡量
+149078	Debiased Counterfactual Generation via Flow Matching from Observations	https://neurips.cc/virtual/2026/poster/149078	included	从观察分布学习去混杂变换
+149883	Debiased DPO for Diffusion Models	https://neurips.cc/virtual/2026/poster/149883	included	合成人类偏好代理标签应先校正再融入DPO
+149261	Debiasing Random Oblique Projections for Subsampled OLS and Fast CUR in High Dimensions	https://neurips.cc/virtual/2026/poster/149261	included	对子采样伪逆导致的偏差做独立校正
+149463	Debiasing Sketched Ridge Regression: A Functional Estimation Perspective	https://neurips.cc/virtual/2026/poster/149463	included	使用多草图线性聚合消除岭估计低阶偏差
+150419	DECEIVE-AFC: Adversarial Claim Attacks against Search-Enabled LLM-based Fact-Checking Systems	https://neurips.cc/virtual/2026/poster/150419	excluded	主要贡献是自动化干扰在线事实核查，摘要未提供独立验证的防护方案。
+149890	Decentralized $\mu^2$-SGD: Narrowing the Parallelism Gap to Centralized Learning	https://neurips.cc/virtual/2026/poster/149890	included	根据通信图选择并行度和分布式优化器
+150523	Decentralized Aggregation of LLM Predictions via Wagering Mechanisms	https://neurips.cc/virtual/2026/poster/150523	included	用相对于留一集成的预期得分优势加权
+140032	Decentralized AI Governance Must Decouple Policy Processing from Capability Enforcement	https://neurips.cc/virtual/2026/poster/140032	excluded	立场文提出治理架构，摘要未提供足以裁定工程收益的独立对照。
+151009	Decentralized Coupled Representation Learning	https://neurips.cc/virtual/2026/poster/151009	included	设计局部表征学习时检查快慢尺度与谱隙
+151866	Decentralized Multi-Goal Multi-Agent Pathfinding with Spatial Prior and Neighbor Intent Prediction	https://neurips.cc/virtual/2026/poster/151866	included	联合安排目标次序以降低局部避碰压力
+155245	Decentralized Q-Learning in Markov Potential Games	https://neurips.cc/virtual/2026/poster/155245	included	根据折扣访问频率调节平滑最优响应
+151288	Decentralized Ranking Aggregation via Gossip: Convergence and Robustness	https://neurips.cc/virtual/2026/poster/151288	included	在节点间传递排序信息求共识
+152927	Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/152927	included	独立检查证据与被查询实体是否一致
+149170	Decide Before You Record: Heterogeneity-Guided Pre-Acquisition Stimulus Selection for Cross-Day Neuroprostheses	https://neurips.cc/virtual/2026/poster/149170	included	采集校准信号前按跨日异质性选择刺激
+155924	Decision-Aware Proximal Bridge Learning for Optimal Treatment Selection	https://neurips.cc/virtual/2026/poster/155924	included	按决策相关动作区域分配因果拟合权重
+149225	Decision-Focused Learning in MDPs: An Occupancy Measure Approach	https://neurips.cc/virtual/2026/poster/149225	included	在预测动力学时通过占用测度规划反传
+151045	Decision Focused Scenario Learning for Contextual Stochastic Programming	https://neurips.cc/virtual/2026/poster/151045	included	按决策质量而非仅按分布拟合选择情景
+153801	Decision Path Tracing for Causal Analysis in Transformers	https://neurips.cc/virtual/2026/poster/153801	included	用干预后自修复差异检查路径是否承载决策
+154405	Decoding the Critique Mechanism in Large Reasoning Models	https://neurips.cc/virtual/2026/poster/154405	included	同时测错误中间步骤与最终恢复
+156777	DecompDreamer: A Composition-Aware Curriculum for Structured 3D Asset Generation	https://neurips.cc/virtual/2026/poster/156777	included	先定对象关系再细化部件
+152463	Decomposed Graded Verifier for Generative World Modeling	https://neurips.cc/virtual/2026/poster/152463	included	把复杂目标拆成可评分子项
+149003	Decomposed Representations Mitigate the Alignment–Specificity Trade-off in Multi-Omics	https://neurips.cc/virtual/2026/poster/149003	included	独立保留共享、私有及融合信息
+152875	Decompose the Distillation: Interpretable Single-Pass Guidance for Diffusion Models	https://neurips.cc/virtual/2026/poster/152875	included	单次前向保留可独立调节的引导方向
+152417	Decomposing and Reshaping Scaling Laws through Token Learning Times	https://neurips.cc/virtual/2026/poster/152417	included	追踪单 token 学习时间解释总体损失变化
+149998	Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution	https://neurips.cc/virtual/2026/poster/149998	included	分别归因校准样本与测试实例的区间宽度
+150168	Decomposing Earth Embeddings with Sparse Autoencoders	https://neurips.cc/virtual/2026/poster/150168	included	用地理一致性和标签恢复评估地球表示分解
+151693	Decomposing Effects in Neural Causal Models	https://neurips.cc/virtual/2026/poster/151693	included	把因果图固定后比较子机制的参数共享
+153074	Decomposing how prompting steers behavior	https://neurips.cc/virtual/2026/poster/153074	included	比较哪种低复杂度映射解释提示变化
+155967	Decomposing One Professional-Framing Pipeline: Which Components Shift LLM Safety Boundaries?	https://neurips.cc/virtual/2026/poster/155967	excluded	摘要以规避模型防护的组件效果为主要贡献，未提取可独立复用的防御机制。
+149560	Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation	https://neurips.cc/virtual/2026/poster/149560	included	检查无关子空间方差再决定是否冻结
+152921	Decomposing Temporal and Job-Induced Dynamics for Probabilistic Computing Workload Forecasting via Graph-Conditioned Dual-Branch Diffusion	https://neurips.cc/virtual/2026/poster/152921	included	引入随调度变化的机器依赖预测负载
+152282	Decomposing the modulation of interactions between neuronal populations	https://neurips.cc/virtual/2026/poster/152282	included	用三方低秩交互分析条件变化
+153116	Deconstructing Multi-Task Active Learning: The Paradox of Gradient Conflict and Orthogonal Decomposition	https://neurips.cc/virtual/2026/poster/153116	included	采集冲突样本，更新时再消解冲突
+148478	DeCoRL: Decomposed Consistency Reinforcement Learning for Multi-Image Composition	https://neurips.cc/virtual/2026/poster/148478	included	把多图一致性奖励拆成对象级信号
+149572	Decoupled Complementary Fields on 3D Gaussian Maps for Embodied Navigation and Reasoning	https://neurips.cc/virtual/2026/poster/149572	included	区分待验证证据与可执行导航条件
+152459	Decoupled Descent: Exact Test Error Tracking Via Approximate Message Passing	https://neurips.cc/virtual/2026/poster/152459	included	比较数据复用偏差修正与普通梯度下降
+150180	Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models	https://neurips.cc/virtual/2026/poster/150180	included	分开学习基础类专门化与未见类保持提示
+149914	Decoupled Optimization for Teacher-Student Semi-Supervised Learning via a Pioneer Student	https://neurips.cc/virtual/2026/poster/149914	included	用独立学生支路减少参数和梯度耦合
+151599	Decoupled Prototype Contrastive Alignment Hashing for Cross-Modal Retrieval	https://neurips.cc/virtual/2026/poster/151599	included	分别约束语义和哈希空间，再单独对齐原型
+151316	Decoupled Safety Control: A Safety-Control Algorithm for Training-Free Safety Guidance	https://neurips.cc/virtual/2026/poster/151316	included	把当前生成状态与安全目标分开用于防护
+152818	Decoupling Action from Egocentric Observation for World Simulation	https://neurips.cc/virtual/2026/poster/152818	included	按去噪阶段分别维持结构和修正局部对应
+151800	Decoupling Conversational Dynamics in Full-Duplex Spoken Models through Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151800	included	将何时讲话单独作为强化学习目标
+149168	Decoupling Direction and Magnitude: Language-Steered Flow Matching for Super-Resolution in the Dark	https://neurips.cc/virtual/2026/poster/149168	included	为不同图像位置选不同恢复步长
+154428	Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration	https://neurips.cc/virtual/2026/poster/154428	included	先独立探索，再蒸馏可部署策略
+149216	Decoupling is the Key: Scaling Deep Value Networks in Reinforcement Leanring	https://neurips.cc/virtual/2026/poster/149216	included	加深价值网络前检查目标耦合
+154393	Decoupling Label Shift and Surrogate Gradient Errors for Robust Federated Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/154393	included	先修正客户端发放阈值再对齐统计量
+150052	Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting	https://neurips.cc/virtual/2026/poster/150052	included	独立定义时间偏好与回报风险偏好
+152326	DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders	https://neurips.cc/virtual/2026/poster/152326	included	冻结视觉骨干，用少量查询侧路传递细节
+151979	DEDCA: Test-Time Adaptation for Generalized AI-Generated Image Detection	https://neurips.cc/virtual/2026/poster/151979	included	用检测证据间的分歧引导无标签适配
+150425	DeepArrhythmia: Segment-Contextualized ECG Arrhythmia Classification via Selective Evidence Acquisition	https://neurips.cc/virtual/2026/poster/150425	included	按段级置信度决定是否增加诊断证据
+151777	Deep Barycentric Regression for Optimal Transport Map Estimation and its Statistical Optimality	https://neurips.cc/virtual/2026/poster/151777	included	用离线传输规划生成回归目标
 153820	Deep Double Q-learning	https://neurips.cc/virtual/2026/poster/153820	pending	-
 155011	Deep Ensembles for Epistemic Uncertainty: A Frequentist Perspective	https://neurips.cc/virtual/2026/poster/155011	pending	-
 139410	DeepfakeGenome: Toward Next-Generation Deepfake Attribution	https://neurips.cc/virtual/2026/poster/139410	pending	-

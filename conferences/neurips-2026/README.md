@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1949** 篇，暂收录 **1801** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2009** 篇，暂收录 **1857** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1809,3 +1809,59 @@
 | 软件安全 | 防御审计 | [DCVD: Dual-Channel Cross-Modal Fusion for Joint Vulnerability Detection and Localization](cards-0003.md#paper-152806) | 为授权代码审计分别测全局检出与定位质量，保留人工确认。 |
 | 计算机视觉 | 通道建模 | [DC-ViT: Modulating Spatial and Channel Interactions for Multi-Channel Images](cards-0003.md#paper-150507) | 对照共享注意力和解耦交互，按通道组合报告稳健性。 |
 | 多智能体学习 | 通信调度 | [DDACOM: Dual-Decoupled Adaptive Communication for Multi-Agent Reinforcement Learning under Dynamic Networks](cards-0003.md#paper-154024) | 在波动带宽下分别评估消息价值和发送策略，以同字节预算比较。 |
+| Agent/评测 | 配对诊断 | [DDBench: A Benchmark for Agentic Debugging on Distributed Systems](cards-0003.md#paper-138907) | 对同一分布式故障配对提供运行证据 |
+| 视觉/可解释性 | 最小充分集 | [DD-CAM: Minimal Sufficient Explanations for Vision Models Using Delta Debugging](cards-0003.md#paper-151520) | 用最小充分激活集合生成热图 |
+| 视觉 | 流形度量 | [DDGE: Disentangled Dirichlet Geodesic Evaluation for Robust Few-Shot Learning](cards-0003.md#paper-151036) | 噪声少样本中比较密度感知测地线与平直距离 |
+| 视觉 | 跨视角蒸馏 | [DDMS: Discriminative Distillation of Multi-view Foundational Features into Single-view Models](cards-0003.md#paper-148341) | 让单视角学生学习多视角几何，同时保留局部判别性 |
+| 视觉/数据 | 蒸馏审计 | [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](cards-0003.md#paper-139355) | 锁定评估阶段软标签与增强来比较蒸馏图像 |
+| 多模态/医疗 | 轨迹评测 | [DDx-TRACE: A Benchmark for Medical Diagnostic Trajectories in VLMs](cards-0003.md#paper-139550) | 隐藏证据并逐步检验系统何时索取、更新和停止 |
+| 强化学习/系统 | 约束调度 | [Deadline-Constrained Dynamic Workflow Scheduling Can be Cast as a Representation Learning Problem](cards-0003.md#paper-151183) | 先筛选截止风险再优化资源成本 |
+| Agent | 行为评测 | [DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents](cards-0003.md#paper-139011) | 将群体信念变化和下一消息质量分别衡量 |
+| 因果学习 | 反事实生成 | [Debiased Counterfactual Generation via Flow Matching from Observations](cards-0003.md#paper-149078) | 从观察分布学习去混杂变换 |
+| 生成模型 | 偏好去偏 | [Debiased DPO for Diffusion Models](cards-0003.md#paper-149883) | 合成人类偏好代理标签应先校正再融入DPO |
+| 统计学习 | 随机投影 | [Debiasing Random Oblique Projections for Subsampled OLS and Fast CUR in High Dimensions](cards-0003.md#paper-149261) | 对子采样伪逆导致的偏差做独立校正 |
+| 统计学习 | 草图去偏 | [Debiasing Sketched Ridge Regression: A Functional Estimation Perspective](cards-0003.md#paper-149463) | 使用多草图线性聚合消除岭估计低阶偏差 |
+| 优化 | 分布式训练 | [Decentralized $\mu^2$-SGD: Narrowing the Parallelism Gap to Centralized Learning](cards-0003.md#paper-149890) | 根据通信图选择并行度和分布式优化器 |
+| 大语言模型 | 概率集成 | [Decentralized Aggregation of LLM Predictions via Wagering Mechanisms](cards-0004.md#paper-150523) | 用相对于留一集成的预期得分优势加权 |
+| 学习理论 | 耦合动力学 | [Decentralized Coupled Representation Learning](cards-0004.md#paper-151009) | 设计局部表征学习时检查快慢尺度与谱隙 |
+| 强化学习/规划 | 多智能体路径 | [Decentralized Multi-Goal Multi-Agent Pathfinding with Spatial Prior and Neighbor Intent Prediction](cards-0004.md#paper-151866) | 联合安排目标次序以降低局部避碰压力 |
+| 强化学习 | 分散式探索 | [Decentralized Q-Learning in Markov Potential Games](cards-0004.md#paper-155245) | 根据折扣访问频率调节平滑最优响应 |
+| 分布式学习 | 排序聚合 | [Decentralized Ranking Aggregation via Gossip: Convergence and Robustness](cards-0004.md#paper-151288) | 在节点间传递排序信息求共识 |
+| 检索增强 | 归因诊断 | [Deceptive Grounding: Entity Attribution Failure in Clinical Retrieval-Augmented Generation](cards-0004.md#paper-152927) | 独立检查证据与被查询实体是否一致 |
+| 神经信号分析 | 主动采集 | [Decide Before You Record: Heterogeneity-Guided Pre-Acquisition Stimulus Selection for Cross-Day Neuroprostheses](cards-0004.md#paper-149170) | 采集校准信号前按跨日异质性选择刺激 |
+| 因果学习 | 目标加权 | [Decision-Aware Proximal Bridge Learning for Optimal Treatment Selection](cards-0004.md#paper-155924) | 按决策相关动作区域分配因果拟合权重 |
+| 强化学习 | 可微规划 | [Decision-Focused Learning in MDPs: An Occupancy Measure Approach](cards-0004.md#paper-149225) | 在预测动力学时通过占用测度规划反传 |
+| 优化 | 情景生成 | [Decision Focused Scenario Learning for Contextual Stochastic Programming](cards-0004.md#paper-151045) | 按决策质量而非仅按分布拟合选择情景 |
+| 可解释性 | 因果路径 | [Decision Path Tracing for Causal Analysis in Transformers](cards-0004.md#paper-153801) | 用干预后自修复差异检查路径是否承载决策 |
+| 大语言模型 | 推理诊断 | [Decoding the Critique Mechanism in Large Reasoning Models](cards-0004.md#paper-154405) | 同时测错误中间步骤与最终恢复 |
+| 生成模型 | 分阶段优化 | [DecompDreamer: A Composition-Aware Curriculum for Structured 3D Asset Generation](cards-0004.md#paper-156777) | 先定对象关系再细化部件 |
+| 多模态学习 | 验证器 | [Decomposed Graded Verifier for Generative World Modeling](cards-0004.md#paper-152463) | 把复杂目标拆成可评分子项 |
+| 多模态学习 | 分解表征 | [Decomposed Representations Mitigate the Alignment–Specificity Trade-off in Multi-Omics](cards-0004.md#paper-149003) | 独立保留共享、私有及融合信息 |
+| 生成模型 | 推理蒸馏 | [Decompose the Distillation: Interpretable Single-Pass Guidance for Diffusion Models](cards-0004.md#paper-152875) | 单次前向保留可独立调节的引导方向 |
+| 大语言模型 | 扩展律诊断 | [Decomposing and Reshaping Scaling Laws through Token Learning Times](cards-0004.md#paper-152417) | 追踪单 token 学习时间解释总体损失变化 |
+| 统计学习 | 归因校准 | [Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution](cards-0004.md#paper-149998) | 分别归因校准样本与测试实例的区间宽度 |
+| 科学机器学习 | 空间解释 | [Decomposing Earth Embeddings with Sparse Autoencoders](cards-0004.md#paper-150168) | 用地理一致性和标签恢复评估地球表示分解 |
+| 因果学习 | 架构选择 | [Decomposing Effects in Neural Causal Models](cards-0004.md#paper-151693) | 把因果图固定后比较子机制的参数共享 |
+| 可解释性 | 表示几何 | [Decomposing how prompting steers behavior](cards-0004.md#paper-153074) | 比较哪种低复杂度映射解释提示变化 |
+| 学习理论 | 训练动力学 | [Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation](cards-0004.md#paper-149560) | 检查无关子空间方差再决定是否冻结 |
+| 机器学习系统 | 概率预测 | [Decomposing Temporal and Job-Induced Dynamics for Probabilistic Computing Workload Forecasting via Graph-Conditioned Dual-Branch Diffusion](cards-0004.md#paper-152921) | 引入随调度变化的机器依赖预测负载 |
+| 神经科学 | 低秩建模 | [Decomposing the modulation of interactions between neuronal populations](cards-0004.md#paper-152282) | 用三方低秩交互分析条件变化 |
+| 机器学习 | 主动学习 | [Deconstructing Multi-Task Active Learning: The Paradox of Gradient Conflict and Orthogonal Decomposition](cards-0004.md#paper-153116) | 采集冲突样本，更新时再消解冲突 |
+| 计算机视觉 | 奖励设计 | [DeCoRL: Decomposed Consistency Reinforcement Learning for Multi-Image Composition](cards-0004.md#paper-148478) | 把多图一致性奖励拆成对象级信号 |
+| 具身智能 | 主动感知 | [Decoupled Complementary Fields on 3D Gaussian Maps for Embodied Navigation and Reasoning](cards-0004.md#paper-149572) | 区分待验证证据与可执行导航条件 |
+| 优化 | 训练诊断 | [Decoupled Descent: Exact Test Error Tracking Via Approximate Message Passing](cards-0004.md#paper-152459) | 比较数据复用偏差修正与普通梯度下降 |
+| 多模态学习 | 提示学习 | [Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models](cards-0004.md#paper-150180) | 分开学习基础类专门化与未见类保持提示 |
+| 半监督学习 | 训练策略 | [Decoupled Optimization for Teacher-Student Semi-Supervised Learning via a Pioneer Student](cards-0004.md#paper-149914) | 用独立学生支路减少参数和梯度耦合 |
+| 多模态学习 | 检索表征 | [Decoupled Prototype Contrastive Alignment Hashing for Cross-Modal Retrieval](cards-0004.md#paper-151599) | 分别约束语义和哈希空间，再单独对齐原型 |
+| 生成模型 | 安全防护 | [Decoupled Safety Control: A Safety-Control Algorithm for Training-Free Safety Guidance](cards-0004.md#paper-151316) | 把当前生成状态与安全目标分开用于防护 |
+| 计算机视觉 | 视频生成 | [Decoupling Action from Egocentric Observation for World Simulation](cards-0004.md#paper-152818) | 按去噪阶段分别维持结构和修正局部对应 |
+| 语音 / Agent | 强化学习 | [Decoupling Conversational Dynamics in Full-Duplex Spoken Models through Reinforcement Learning](cards-0004.md#paper-151800) | 将何时讲话单独作为强化学习目标 |
+| 计算机视觉 | 图像恢复 | [Decoupling Direction and Magnitude: Language-Steered Flow Matching for Super-Resolution in the Dark](cards-0004.md#paper-149168) | 为不同图像位置选不同恢复步长 |
+| 强化学习 | 探索 | [Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration](cards-0004.md#paper-154428) | 先独立探索，再蒸馏可部署策略 |
+| 强化学习 | 价值估计 | [Decoupling is the Key: Scaling Deep Value Networks in Reinforcement Leanring](cards-0004.md#paper-149216) | 加深价值网络前检查目标耦合 |
+| 机器学习 | 联邦学习 | [Decoupling Label Shift and Surrogate Gradient Errors for Robust Federated Spiking Neural Networks](cards-0004.md#paper-154393) | 先修正客户端发放阈值再对齐统计量 |
+| 强化学习 | 风险建模 | [Decoupling Time and Risk: Risk-Sensitive Reinforcement Learning with General Discounting](cards-0004.md#paper-150052) | 独立定义时间偏好与回报风险偏好 |
+| 计算机视觉 | 表征学习 | [DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders](cards-0004.md#paper-152326) | 冻结视觉骨干，用少量查询侧路传递细节 |
+| 计算机视觉 | 防御评测 | [DEDCA: Test-Time Adaptation for Generalized AI-Generated Image Detection](cards-0004.md#paper-151979) | 用检测证据间的分歧引导无标签适配 |
+| 多模态学习 / 医学 | 证据路由 | [DeepArrhythmia: Segment-Contextualized ECG Arrhythmia Classification via Selective Evidence Acquisition](cards-0004.md#paper-150425) | 按段级置信度决定是否增加诊断证据 |
+| 统计学习 | 最优传输 | [Deep Barycentric Regression for Optimal Transport Map Estimation and its Statistical Optimality](cards-0004.md#paper-151777) | 用离线传输规划生成回归目标 |
