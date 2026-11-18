@@ -149,10 +149,10 @@ number	openreview_id	title	paper_url	reason	status
 148	1zWj66605w	G2-Nav: Grounded and Guarded Vision-Language Costmaps for Robot Social Navigation	https://openreview.net/forum?id=1zWj66605w	将 VLM 的社会约束转成空间代价，交给独立规划器与高频安全检查。	included
 149	8xaYRUduNe	Self-supervised Dispersive Sampling for Quadrotor Motion Planning	https://openreview.net/forum?id=8xaYRUduNe	根据控制经动力学映射后的状态覆盖训练采样器。	included
 150	5m9zSorosa	Scaled Preference Conditioning for Terrain Costmap Generation	https://openreview.net/forum?id=5m9zSorosa	把任务偏好作为代价图生成的显式输入，任务切换时更新偏好向量。	included
-151	dkaxE3v6uu	From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation	https://openreview.net/forum?id=dkaxE3v6uu		pending
-152	1JcOSLXzHB	TopoUrbanBench: Group-Structural Compliance Evaluation for Urban Robot Navigation	https://openreview.net/forum?id=1JcOSLXzHB		pending
-153	7tCsPSbYZb	GRACE: Group-Aware Socially Compliant Visual Navigation in Human Environments	https://openreview.net/forum?id=7tCsPSbYZb		pending
-154	da5VPQA7G7	CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting	https://openreview.net/forum?id=da5VPQA7G7		pending
+151	dkaxE3v6uu	From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation	https://openreview.net/forum?id=dkaxE3v6uu	优先采集人工接管片段，测试它们能否修正模仿策略在困难状态下的行为。	included
+152	1JcOSLXzHB	TopoUrbanBench: Group-Structural Compliance Evaluation for Urban Robot Navigation	https://openreview.net/forum?id=1JcOSLXzHB	评测社会导航时同时统计轨迹是否穿越队列或人群交互区域。	included
+153	7tCsPSbYZb	GRACE: Group-Aware Socially Compliant Visual Navigation in Human Environments	https://openreview.net/forum?id=7tCsPSbYZb	用群体空间监督感知并重加权生成轨迹，以减少穿越交互区域。	included
+154	da5VPQA7G7	CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting	https://openreview.net/forum?id=da5VPQA7G7	把多机器人协作预测的不确定性纳入策略代价，在遮挡下主动避开未知高风险区域。	included
 155	foRrdaQ3mz	Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation	https://openreview.net/forum?id=foRrdaQ3mz		pending
 156	ODfnFGIIe3	Task-Aware Environment Augmentation for Reliable Navigation via Shielded Conditional Diffusion	https://openreview.net/forum?id=ODfnFGIIe3		pending
 157	nBwRDRUdMc	MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments	https://openreview.net/forum?id=nBwRDRUdMc		pending

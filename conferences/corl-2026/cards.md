@@ -2071,3 +2071,63 @@
 - **适用条件 / 局限** · 依赖训练地形及偏好的覆盖，摘要未报告超出偏好范围时的行为。
 
 **可复用机制** · 需要复用同一地图支持多种任务时，先对偏好分量做条件化并验证每种偏好下的路径后悔值。
+
+<a id="paper-dkaxe3v6uu"></a>
+
+## From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation
+
+[会议记录](https://openreview.net/forum?id=dkaxE3v6uu) · [原文](https://openreview.net/pdf?id=dkaxE3v6uu)
+
+- **问题 / 瓶颈** · 普通示范覆盖不到偏离参考轨迹后的恢复动作，也难充分表达社会规范。
+- **核心创新 / 方法** · 以带锚点的流匹配在车队数据上预训练单目导航策略，再用少量人工干预数据做偏好微调。
+- **Baseline** · FlowPilot-HP 基于 FlowPilot；真机与基础策略比较。
+- **Benchmark** · 仿真测任务成功率与路线完成度；真机人行道报告 IR 和 NIR，摘要未定义两指标。
+- **关键结果 / 消融** · 基础策略仿真成功率 42%、路线完成度 66%；偏好微调后真机 IR 降 40.0%、NIR 降 52.1%。
+- **适用条件 / 局限** · 需要真实人工干预数据；摘要未给达到该效果的数据预算或等量随机样本对照。
+
+**可复用机制** · 把有限标注预算分给实际触发接管的状态，并用等量普通示范微调对照检验收益。
+
+<a id="paper-1jcoslxzhb"></a>
+
+## TopoUrbanBench: Group-Structural Compliance Evaluation for Urban Robot Navigation
+
+[会议记录](https://openreview.net/forum?id=1JcOSLXzHB) · [原文](https://openreview.net/pdf?id=1JcOSLXzHB)
+
+- **问题 / 瓶颈** · 与每个人保持安全距离仍可能破坏群体结构。
+- **核心创新 / 方法** · 生成场景时用意图图标记群体关系，对静止聚集、目标排队和结伴行走分别计算轨迹交叉指标。
+- **Baseline** · 比较几何与群体结构指标下的表现；测试视觉基础模型与在线强化学习策略，摘要未列模型名。
+- **Benchmark** · CARLA 程序生成三类队形，并在真实社会导航数据集上评估；指标为各队形的结构合规度。
+- **关键结果 / 消融** · 作者报告几何能力与结构合规度可分离，真实数据也出现结构违规；摘要未报告幅度。
+- **适用条件 / 局限** · 指标依赖队形及关系标注，三类原型无法覆盖所有交互规范。
+
+**可复用机制** · 在成功率和避碰之外加入关系级违规指标，单独定位能避开个人却穿越群体结构的失败模式。
+
+<a id="paper-7tcspsbyzb"></a>
+
+## GRACE: Group-Aware Socially Compliant Visual Navigation in Human Environments
+
+[会议记录](https://openreview.net/forum?id=7tCsPSbYZb) · [原文](https://openreview.net/pdf?id=7tCsPSbYZb)
+
+- **问题 / 瓶颈** · 可通行区域可能位于同行者之间或交谈群体内部。
+- **核心创新 / 方法** · 用 RGB 构建行人与机器人关系图，以软 F-formation 目标监督注意力，再对轨迹生成器做按群体相对奖励加权的流匹配。
+- **Baseline** · 作者报告与代表性方法比较；摘要未列名称或底座。
+- **Benchmark** · Unitree Go2 真机社会导航，比较群体空间侵入、碰撞和导航效率。
+- **关键结果 / 消融** · 作者报告侵入和碰撞减少，效率保持可比；摘要未分解关系监督与奖励重加权的收益。
+- **适用条件 / 局限** · 依赖可见行人与适用的群体结构先验；遮挡和非典型队形的影响未在摘要说明。
+
+**可复用机制** · 将群体关系作为感知监督和轨迹目标的共享信号，再分别消融两处监督。
+
+<a id="paper-da5vpqa7g7"></a>
+
+## CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting
+
+[会议记录](https://openreview.net/forum?id=da5VPQA7G7) · [原文](https://openreview.net/pdf?id=da5VPQA7G7)
+
+- **问题 / 瓶颈** · 单机视野受遮挡，分布偏移时点预测可能低估风险。
+- **核心创新 / 方法** · 跨机器人融合时空特征预测未来占据，将高预测占据和高不确定区域共同写入约束多智能体强化学习的代价。
+- **Baseline** · 比较代表性预测及导航方法；摘要未列具体名称。
+- **Benchmark** · Unity3D 同分布和分布外场景，改变布局、行人密度及突然奔跑行为；另做真机验证。
+- **关键结果 / 消融** · 作者报告预测和安全性改善；摘要未给指标细节、数值或不确定性单独消融。
+- **适用条件 / 局限** · 需要机器人间特征交换与对齐，通信失效和不确定性失准的影响需另测。
+
+**可复用机制** · 固定占据预测器，对照只罚占据与同时惩罚不确定性的决策，在遮挡和分布偏移测试中记录碰撞与通行效率。
