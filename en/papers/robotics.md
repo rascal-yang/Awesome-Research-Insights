@@ -191,6 +191,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="sun26ad-inference"></a>[Energy-based Compositional Diffusion Planning](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ad)
 - <a id="wan26e-inference"></a>[Beyond Policy Training: Recursive Solution Search from Unannotated Videos](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26e)
 - <a id="wang26dn-inference"></a>[DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dn)
+- <a id="wang26jj-inference"></a>[SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jj)
 
 <a id="by-representation-learning"></a>
 

@@ -580,6 +580,8 @@
 - [干扰网络下的策略值区间](../conferences/icml-2026/cards/4701-4800.md#wang26ez-theory-statistics) · Partial Identification of Policy Values under Network Interference
 - [固定步长的稳态近似误差](../conferences/icml-2026/cards/4801-4900.md#wang26il-theory-statistics) · Steady-State Behavior of Constant-Stepsize Stochastic Approximation: Gaussian Approximation and Tail Bounds
 - [视频动力学的同水平三斜率条件](../conferences/icml-2026/cards/4801-4900.md#wang26iq-theory-statistics) · Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions
+- [鲁棒特征分组](../conferences/icml-2026/cards/4801-4900.md#wang26jk-theory-statistics) · Variable Clustering via Distributionally Robust Nodewise Regression
+- [单向量检索维数与间隔](../conferences/icml-2026/cards/4801-4900.md#wang26jx-theory-statistics) · $\mathbbR^2k$ is Theoretically Large Enough for Embedding-based Top-$k$ Retrieval
 
 <a id="by-graph-and-recommendation"></a>
 

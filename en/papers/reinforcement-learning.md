@@ -198,6 +198,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="wang26dj-reinforcement-learning"></a>[Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dj)
 - <a id="wang26ek-reinforcement-learning"></a>[Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ek)
 - <a id="wang26gv-reinforcement-learning"></a>[Learning Reward–Cost Balance in Safe RL via Score-Based World Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gv)
+- <a id="wang26jm-reinforcement-learning"></a>[Milestone-Guided Policy Learning for Long-Horizon Language Agents](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jm)
 
 <a id="by-training-strategies"></a>
 

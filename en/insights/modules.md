@@ -53,6 +53,7 @@ Reusable components and local changes to model inputs or connections.
 - [The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency](../../conferences/icml-2026/cards/4101-4200.md#shujun26a-modules) · 中文
 - [iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis](../../conferences/icml-2026/cards/4201-4300.md#song26ad-modules) · 中文
 - [The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path](../../conferences/icml-2026/cards/4401-4500.md#tao26b-modules) · 中文
+- [Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning](../../conferences/icml-2026/cards/4801-4900.md#wang26jt-modules) · 中文
 
 <a id="by-computer-vision"></a>
 

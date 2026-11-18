@@ -181,6 +181,7 @@
 - [行为逆频率奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26hy-reinforcement-learning) · Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning
 - [结果门控的核心批评奖励](../conferences/icml-2026/cards/4801-4900.md#wang26in-reinforcement-learning) · Reward Modeling from Natural Language Human Feedback
 - [按局部熵变化判别量裁剪token](../conferences/icml-2026/cards/4801-4900.md#wang26jg-reinforcement-learning) · On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models
+- [工具调用奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26jn-reinforcement-learning) · DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents
 
 <a id="by-computer-vision"></a>
 
@@ -351,6 +352,7 @@
 - [negative-only-anchor-ratio](../conferences/icml-2026/cards/4601-4700.md#wang26dj-reinforcement-learning) · Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification
 - [步熵重加权与未来清晰度](../conferences/icml-2026/cards/4701-4800.md#wang26ek-reinforcement-learning) · Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents
 - [同根想象轨迹的偏序评分](../conferences/icml-2026/cards/4701-4800.md#wang26gv-reinforcement-learning) · Learning Reward–Cost Balance in Safe RL via Score-Based World Models
+- [里程碑分段优势](../conferences/icml-2026/cards/4801-4900.md#wang26jm-reinforcement-learning) · Milestone-Guided Policy Learning for Long-Horizon Language Agents
 
 <a id="by-robotics"></a>
 

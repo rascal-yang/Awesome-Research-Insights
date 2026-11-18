@@ -235,6 +235,7 @@
 - [潜空间单步合成图异常](../conferences/icml-2026/cards/2601-2700.md#li26hb-data-strategies) · GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model
 - [按重建支持分层遮蔽](../conferences/icml-2026/cards/4301-4400.md#tang26l-data-strategies) · Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder
 - [由目标梯度反推负采样](../conferences/icml-2026/cards/4601-4700.md#wang26db-data-strategies) · Negative Sampling From the Ground Up: A Redesign for Recommendations
+- [关系型合成预训练先验](../conferences/icml-2026/cards/4801-4900.md#wang26jz-data-strategies) · Relational In-Context Learning via Synthetic Pre-training with Structural Prior
 
 <a id="by-scientific-ml"></a>
 

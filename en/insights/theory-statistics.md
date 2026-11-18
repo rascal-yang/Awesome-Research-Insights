@@ -580,6 +580,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Partial Identification of Policy Values under Network Interference](../../conferences/icml-2026/cards/4701-4800.md#wang26ez-theory-statistics) · 中文
 - [Steady-State Behavior of Constant-Stepsize Stochastic Approximation: Gaussian Approximation and Tail Bounds](../../conferences/icml-2026/cards/4801-4900.md#wang26il-theory-statistics) · 中文
 - [Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions](../../conferences/icml-2026/cards/4801-4900.md#wang26iq-theory-statistics) · 中文
+- [Variable Clustering via Distributionally Robust Nodewise Regression](../../conferences/icml-2026/cards/4801-4900.md#wang26jk-theory-statistics) · 中文
+- [$\mathbbR^2k$ is Theoretically Large Enough for Embedding-based Top-$k$ Retrieval](../../conferences/icml-2026/cards/4801-4900.md#wang26jx-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

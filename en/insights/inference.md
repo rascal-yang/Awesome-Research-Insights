@@ -329,6 +329,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Prism: Spectral-Aware Block-Sparse Attention](../../conferences/icml-2026/cards/4801-4900.md#wang26ic-inference) · 中文
 - [Sparser Block-Sparse Attention via Token Permutation](../../conferences/icml-2026/cards/4801-4900.md#wang26ir-inference) · 中文
 - [SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving](../../conferences/icml-2026/cards/4801-4900.md#wang26iw-inference) · 中文
+- [Optimizing Diversity and Quality through Base-Aligned Model Collaboration](../../conferences/icml-2026/cards/4801-4900.md#wang26jo-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -525,6 +526,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Energy-based Compositional Diffusion Planning](../../conferences/icml-2026/cards/4301-4400.md#sun26ad-inference) · 中文
 - [Beyond Policy Training: Recursive Solution Search from Unannotated Videos](../../conferences/icml-2026/cards/4501-4600.md#wan26e-inference) · 中文
 - [DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents](../../conferences/icml-2026/cards/4601-4700.md#wang26dn-inference) · 中文
+- [SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](../../conferences/icml-2026/cards/4801-4900.md#wang26jj-inference) · 中文
 
 <a id="by-multimodal"></a>
 

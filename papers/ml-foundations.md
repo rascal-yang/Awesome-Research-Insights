@@ -1122,4 +1122,6 @@
 - <a id="wang26ez-theory-statistics"></a>[Partial Identification of Policy Values under Network Interference](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ez)
 - <a id="wang26il-theory-statistics"></a>[Steady-State Behavior of Constant-Stepsize Stochastic Approximation: Gaussian Approximation and Tail Bounds](../conferences/icml-2026/cards/4801-4900.md#paper-wang26il)
 - <a id="wang26iq-theory-statistics"></a>[Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iq)
+- <a id="wang26jk-theory-statistics"></a>[Variable Clustering via Distributionally Robust Nodewise Regression](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jk)
+- <a id="wang26jx-theory-statistics"></a>[$\mathbbR^2k$ is Theoretically Large Enough for Embedding-based Top-$k$ Retrieval](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jx)
 <!-- classification:end -->

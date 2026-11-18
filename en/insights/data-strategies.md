@@ -235,6 +235,7 @@ Data selection, annotation, augmentation, and sampling.
 - [GOCM: Single-Step Graph Outlier Synthesis via Origin Consistency Model](../../conferences/icml-2026/cards/2601-2700.md#li26hb-data-strategies) · 中文
 - [Reconstruction Outcomes Look Similar but Processes Differ: Improving Context Consistency and Coverage in Graph Masked Auto-Encoder](../../conferences/icml-2026/cards/4301-4400.md#tang26l-data-strategies) · 中文
 - [Negative Sampling From the Ground Up: A Redesign for Recommendations](../../conferences/icml-2026/cards/4601-4700.md#wang26db-data-strategies) · 中文
+- [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](../../conferences/icml-2026/cards/4801-4900.md#wang26jz-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

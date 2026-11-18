@@ -181,6 +181,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26hy-reinforcement-learning) · 中文
 - [Reward Modeling from Natural Language Human Feedback](../../conferences/icml-2026/cards/4801-4900.md#wang26in-reinforcement-learning) · 中文
 - [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26jg-reinforcement-learning) · 中文
+- [DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents](../../conferences/icml-2026/cards/4801-4900.md#wang26jn-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -351,6 +352,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Anchored Policy Optimization: Mitigating Exploration Collapse via Support-Constrained Rectification](../../conferences/icml-2026/cards/4601-4700.md#wang26dj-reinforcement-learning) · 中文
 - [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](../../conferences/icml-2026/cards/4701-4800.md#wang26ek-reinforcement-learning) · 中文
 - [Learning Reward–Cost Balance in Safe RL via Score-Based World Models](../../conferences/icml-2026/cards/4701-4800.md#wang26gv-reinforcement-learning) · 中文
+- [Milestone-Guided Policy Learning for Long-Horizon Language Agents](../../conferences/icml-2026/cards/4801-4900.md#wang26jm-reinforcement-learning) · 中文
 
 <a id="by-robotics"></a>
 

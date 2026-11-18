@@ -57,6 +57,7 @@
 - [根锚定前缀信用分配](../conferences/icml-2026/cards/4701-4800.md#wang26fi-loss-functions) · Rooted Absorbed Prefix Trajectory Balance with Submodular Replay for GFlowNet Training
 - [蒸馏的高阶交互稀疏惩罚](../conferences/icml-2026/cards/4701-4800.md#wang26gj-loss-functions) · A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions
 - [替换与吸收独立调度的离散纠错](../conferences/icml-2026/cards/4801-4900.md#wang26ho-loss-functions) · Generalized Discrete Diffusion with Self-Correction
+- [可靠锚点非对称正则](../conferences/icml-2026/cards/4801-4900.md#wang26ju-loss-functions) · Towards Context-Invariant Safety Alignment for Large Language Models
 
 <a id="by-computer-vision"></a>
 

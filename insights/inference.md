@@ -329,6 +329,7 @@
 - [频带分离的注意力块选择](../conferences/icml-2026/cards/4801-4900.md#wang26ic-inference) · Prism: Spectral-Aware Block-Sparse Attention
 - [段内重排重键以提高块稀疏度](../conferences/icml-2026/cards/4801-4900.md#wang26ir-inference) · Sparser Block-Sparse Attention via Token Permutation
 - [可预测证明状态与纯空间拆分](../conferences/icml-2026/cards/4801-4900.md#wang26iw-inference) · SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving
+- [基础与对齐模型路由](../conferences/icml-2026/cards/4801-4900.md#wang26jo-inference) · Optimizing Diversity and Quality through Base-Aligned Model Collaboration
 
 <a id="by-computer-vision"></a>
 
@@ -525,6 +526,7 @@
 - [conservative-bridge-planning-correction](../conferences/icml-2026/cards/4301-4400.md#sun26ad-inference) · Energy-based Compositional Diffusion Planning
 - [视频任务流引导递归分段搜索](../conferences/icml-2026/cards/4501-4600.md#wan26e-inference) · Beyond Policy Training: Recursive Solution Search from Unannotated Videos
 - [hierarchical-context-pruning](../conferences/icml-2026/cards/4601-4700.md#wang26dn-inference) · DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents
+- [视觉动作模型剪枝](../conferences/icml-2026/cards/4801-4900.md#wang26jj-inference) · SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning
 
 <a id="by-multimodal"></a>
 

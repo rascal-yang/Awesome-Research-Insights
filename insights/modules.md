@@ -53,6 +53,7 @@
 - [用频率幅度调制形成多尺度位置核](../conferences/icml-2026/cards/4101-4200.md#shujun26a-modules) · The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency
 - [潜图后验条件化适配](../conferences/icml-2026/cards/4201-4300.md#song26ad-modules) · iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis
 - [triangular-mixing-sidepath](../conferences/icml-2026/cards/4401-4500.md#tao26b-modules) · The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path
+- [潜空间最优控制层](../conferences/icml-2026/cards/4801-4900.md#wang26jt-modules) · Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning
 
 <a id="by-computer-vision"></a>
 

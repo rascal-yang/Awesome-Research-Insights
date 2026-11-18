@@ -109,6 +109,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="shujun26a-modules"></a>[The Hippocampal Place Field Gradient: A Bio-inspired Framework Building Multiscale Representation for Better Sample Efficiency](../../conferences/icml-2026/cards/4101-4200.md#paper-shujun26a)
 - <a id="song26ad-modules"></a>[iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ad)
 - <a id="tao26b-modules"></a>[The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26b)
+- <a id="wang26jt-modules"></a>[Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jt)
 
 <a id="by-loss-functions"></a>
 
@@ -158,6 +159,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26fi-loss-functions"></a>[Rooted Absorbed Prefix Trajectory Balance with Submodular Replay for GFlowNet Training](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fi)
 - <a id="wang26gj-loss-functions"></a>[A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gj)
 - <a id="wang26ho-loss-functions"></a>[Generalized Discrete Diffusion with Self-Correction](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ho)
+- <a id="wang26ju-loss-functions"></a>[Towards Context-Invariant Safety Alignment for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ju)
 
 <a id="by-optimization"></a>
 
@@ -423,6 +425,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26hy-reinforcement-learning"></a>[Mitigating the Safety–Utility Trade-off in LLM Alignment via Adaptive Safe Context Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hy)
 - <a id="wang26in-reinforcement-learning"></a>[Reward Modeling from Natural Language Human Feedback](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26in)
 - <a id="wang26jg-reinforcement-learning"></a>[On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jg)
+- <a id="wang26jn-reinforcement-learning"></a>[DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jn)
 
 <a id="by-training-strategies"></a>
 
@@ -960,6 +963,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26ic-inference"></a>[Prism: Spectral-Aware Block-Sparse Attention](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ic)
 - <a id="wang26ir-inference"></a>[Sparser Block-Sparse Attention via Token Permutation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ir)
 - <a id="wang26iw-inference"></a>[SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26iw)
+- <a id="wang26jo-inference"></a>[Optimizing Diversity and Quality through Base-Aligned Model Collaboration](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jo)
 
 <a id="by-representation-learning"></a>
 
