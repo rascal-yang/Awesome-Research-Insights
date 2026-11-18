@@ -3084,7 +3084,7 @@ poster_id	title	paper_url	status	reason
 148155	FMMI: Flow Matching Mutual Information Estimation	https://neurips.cc/virtual/2026/poster/148155	included	在已知信息量的合成数据中对照分类和运输估计，验证误差是否随维数放大。
 154897	fmxcoders: Factorized Masked Crosscoders for Cross-Layer Feature Discovery	https://neurips.cc/virtual/2026/poster/154897	included	用功能一致性验证跨层特征
 139300	fNIRSAtlas: A Large-Scale Benchmark for Functional Near-Infrared Spectroscopy Classification	https://neurips.cc/virtual/2026/poster/139300	included	分别测跨被试与被试内分类
-149122	FOAM: Factored One-sided Adam-Moment for Practical and Scalable SOAP	https://neurips.cc/virtual/2026/poster/149122	pending	-
+149122	FOAM: Factored One-sided Adam-Moment for Practical and Scalable SOAP	https://neurips.cc/virtual/2026/poster/149122	included	输出曲率近各向同性时，仅预条件输入侧。
 150481	Focal Reward: Balanced Reinforcement Learning under Rubric-Based Rewards	https://neurips.cc/virtual/2026/poster/150481	included	按当前准则饱和程度动态分配奖励权重
 153419	Focusable Monocular Depth Estimation	https://neurips.cc/virtual/2026/poster/153419	included	用提示为特定区域分配深度估计能力
 149269	Focus, Align, and Diffuse: Time-Series-Aware Keyframe Diffusion for Cardiac Dynamic Synthesis from Sparse Observations	https://neurips.cc/virtual/2026/poster/149269	included	先重建兼顾可恢复与可对齐的关键帧
@@ -3123,65 +3123,65 @@ poster_id	title	paper_url	status	reason
 139299	Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics	https://neurips.cc/virtual/2026/poster/139299	included	用冻结的 Lean 开放猜想与已解任务分别测证明和形式化
 149516	Forward Shapley Scoring for Non-Myopic Active Feature Acquisition	https://neurips.cc/virtual/2026/poster/149516	included	用组合边际价值选择当前查询
 150383	Foundation Model Informed Acquisition Functions for Molecular Discovery	https://neurips.cc/virtual/2026/poster/150383	excluded	主要证据和应用集中于分子发现，暂不提炼应用方法。
-150902	Foundation Models for Particle Accelerators	https://neurips.cc/virtual/2026/poster/150902	pending	-
-150940	Foundation Pareto Flow Policy for Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150940	pending	-
-150485	Foundations of Categorical Equivariant Deep Learning	https://neurips.cc/virtual/2026/poster/150485	pending	-
-148841	Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap	https://neurips.cc/virtual/2026/poster/148841	pending	-
-149835	FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images	https://neurips.cc/virtual/2026/poster/149835	pending	-
-153442	Fourier Contour Learning for Efficient and Traceable Cardiac MRI Quantification	https://neurips.cc/virtual/2026/poster/153442	pending	-
-151989	FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models	https://neurips.cc/virtual/2026/poster/151989	pending	-
-148775	Foveal-Mamba: Inside-Out Ring Scanning with Recurrent Offset Prediction for Visual State Space Models	https://neurips.cc/virtual/2026/poster/148775	pending	-
-149976	Foveated BagNet: Inherent Interpretability Does Not Exclude Global Context	https://neurips.cc/virtual/2026/poster/149976	pending	-
-148356	FracEncoder: Towards Adaptive Cognitive Trajectories via Fractional-Order Context Encoding	https://neurips.cc/virtual/2026/poster/148356	pending	-
-151924	Fractal-G: Topology-Aware Heterogeneous Graphs for Medical Image Segmentation	https://neurips.cc/virtual/2026/poster/151924	pending	-
-152899	Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference	https://neurips.cc/virtual/2026/poster/152899	pending	-
-150427	Fractional State Space Transition for Long Sequence Modeling	https://neurips.cc/virtual/2026/poster/150427	pending	-
-149467	FracTS: Hierarchical and Autoregressive Time Series Generation	https://neurips.cc/virtual/2026/poster/149467	pending	-
-155391	FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond	https://neurips.cc/virtual/2026/poster/155391	pending	-
-148460	FrameScout: Scouting Query-Relevant Frames for Long Video Understanding	https://neurips.cc/virtual/2026/poster/148460	pending	-
-139258	FrameSelect: A Unified Library for Video Frame Selection and Evaluation	https://neurips.cc/virtual/2026/poster/139258	pending	-
-149307	Frame the adversary: a structure-aware attack methodology	https://neurips.cc/virtual/2026/poster/149307	pending	-
-154230	FrameVGGT: Coherence-Preserving Memory for Bounded Streaming Geometry	https://neurips.cc/virtual/2026/poster/154230	pending	-
-148894	Frank-LoRA: Federated Rank-Aware LoRA for Fine-Tuning Large Models	https://neurips.cc/virtual/2026/poster/148894	pending	-
-156093	Frank-Wolfe Beyond 1/t Convergence	https://neurips.cc/virtual/2026/poster/156093	pending	-
-139080	FraudBench: A Legal Evaluation of AI Deception on Realistic Tasks	https://neurips.cc/virtual/2026/poster/139080	pending	-
-155894	Fréchet Regression on the Bures-Wasserstein Manifold	https://neurips.cc/virtual/2026/poster/155894	pending	-
-153357	FrED: External Data Influence Estimation via Domain Knowledge Graph Grounding	https://neurips.cc/virtual/2026/poster/153357	pending	-
-154805	FreDRec: Frequency-Decoupled Knowledge Distillation for Multimodal Recommendation in Missing Modalities Scenarios	https://neurips.cc/virtual/2026/poster/154805	pending	-
-148622	FreeAct: Demonstration-Free Robot Adaptation via Action-Grounded Generated Videos	https://neurips.cc/virtual/2026/poster/148622	pending	-
-155558	Free Decompression with Algebraic Spectral Curves	https://neurips.cc/virtual/2026/poster/155558	pending	-
-153859	Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/153859	pending	-
-150686	Free energy Estimation on Any State Space	https://neurips.cc/virtual/2026/poster/150686	pending	-
-155600	Free Heavy-Tailed Lunch for Muon: A Theoretical Justification of Empirical Success	https://neurips.cc/virtual/2026/poster/155600	pending	-
-139157	Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States	https://neurips.cc/virtual/2026/poster/139157	pending	-
-148432	Free Lunch for Pass@$k$? Low Cost Diverse Sampling for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/148432	pending	-
-149840	FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching	https://neurips.cc/virtual/2026/poster/149840	pending	-
-149836	FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction	https://neurips.cc/virtual/2026/poster/149836	pending	-
-148488	FreqCa: Accelerating Image generation and editing via Frequency-Aware Caching	https://neurips.cc/virtual/2026/poster/148488	pending	-
-154121	Frequency‑Aware Flow Matching for Continuous and Consistent Robotic Action Generation	https://neurips.cc/virtual/2026/poster/154121	pending	-
-150802	FrequencyBooster: Advancing Pixel Diffusion for High-Fidelity Image Generation	https://neurips.cc/virtual/2026/poster/150802	pending	-
-151162	Frequency Domain Reservoir Computing	https://neurips.cc/virtual/2026/poster/151162	pending	-
-149155	Frequency-Structured Hamiltonian Neural Network for Multi-Timescale Dynamics	https://neurips.cc/virtual/2026/poster/149155	pending	-
-148279	Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation	https://neurips.cc/virtual/2026/poster/148279	pending	-
-154282	FRESCO: A Novel Consistency Control for Asynchronous Pipeline Parallel Training	https://neurips.cc/virtual/2026/poster/154282	pending	-
-153565	FreshMem: Brain-Inspired Frequency-Space Hybrid Memory for Streaming Video Understanding	https://neurips.cc/virtual/2026/poster/153565	pending	-
-150248	Freshness-Gated Imagination: Step-Level Trust for Latent World Models	https://neurips.cc/virtual/2026/poster/150248	pending	-
-149612	FRInGe: Distribution-Space Integrated Gradients with Fisher–Rao Geometry	https://neurips.cc/virtual/2026/poster/149612	pending	-
-150468	From Anti-Forgetting to Fast Adaptation: Continual Reinforcement Learning with World Models	https://neurips.cc/virtual/2026/poster/150468	pending	-
-148965	From Approximation to Computation: Universal Power of Deep Narrow Networks at Constant Width	https://neurips.cc/virtual/2026/poster/148965	pending	-
-150152	From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation	https://neurips.cc/virtual/2026/poster/150152	pending	-
-154659	From Average Sensitivity to Small-Loss Regret Bounds under Random-Order Model	https://neurips.cc/virtual/2026/poster/154659	pending	-
-155282	From Baselines to Transport Geodesics: Axiomatic Attribution via Optimal Generative Flows	https://neurips.cc/virtual/2026/poster/155282	pending	-
-140013	From Benchmark to Adoption: Coding Agent Evaluation Needs User-Level Harness	https://neurips.cc/virtual/2026/poster/140013	pending	-
-154687	From Chats to Markets: AgenticPay for LLM-Powered Negotiation in Multi-Agent Commerce	https://neurips.cc/virtual/2026/poster/154687	pending	-
-140015	From Claims to Context: Holistic Information Verification Requires Contextual Signals	https://neurips.cc/virtual/2026/poster/140015	pending	-
-152618	From Click Imitation to Transition Equivalence: Rethinking Supervision for GUI Agents	https://neurips.cc/virtual/2026/poster/152618	pending	-
-155080	From Clips to Streams: A Unified Framework for Streaming Sign Language Translation	https://neurips.cc/virtual/2026/poster/155080	pending	-
-148326	From Collapse to Improvement:  Statistical Perspectives on the Evolutionary Dynamics of Iterative Training on Contaminated Sources	https://neurips.cc/virtual/2026/poster/148326	pending	-
-149804	From Contexts to Conditionals: Statistical Self-Consistency of Persona Prompting	https://neurips.cc/virtual/2026/poster/149804	pending	-
-151501	From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination	https://neurips.cc/virtual/2026/poster/151501	pending	-
-150158	From Cursed to Competitive: Closing the ZO–FO Gap via Input-to-State Stability	https://neurips.cc/virtual/2026/poster/150158	pending	-
-150917	From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model	https://neurips.cc/virtual/2026/poster/150917	pending	-
+150902	Foundation Models for Particle Accelerators	https://neurips.cc/virtual/2026/poster/150902	included	在变长异步传感器集合上共享去噪预训练。
+150940	Foundation Pareto Flow Policy for Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150940	included	以轨迹流匹配学习可按偏好适配的 Pareto 策略。
+150485	Foundations of Categorical Equivariant Deep Learning	https://neurips.cc/virtual/2026/poster/150485	included	用带类型且可组合的变换类别表达遮挡、下采样等非可逆偏移。
+148841	Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap	https://neurips.cc/virtual/2026/poster/148841	included	让教师读聚合信息、学生读同信息的多轮对话。
+149835	FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images	https://neurips.cc/virtual/2026/poster/149835	included	用点图筛参考视角，再在射线上求连续表面。
+153442	Fourier Contour Learning for Efficient and Traceable Cardiac MRI Quantification	https://neurips.cc/virtual/2026/poster/153442	included	用显式轮廓中间表示将分割与整体量测接通。
+151989	FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models	https://neurips.cc/virtual/2026/poster/151989	included	为不同任务与层选频率特化的适配专家。
+148775	Foveal-Mamba: Inside-Out Ring Scanning with Recurrent Offset Prediction for Visual State Space Models	https://neurips.cc/virtual/2026/poster/148775	included	让形变采样偏移依赖沿扫描累积的隐状态。
+149976	Foveated BagNet: Inherent Interpretability Does Not Exclude Global Context	https://neurips.cc/virtual/2026/poster/149976	included	在局部分类器中用清晰中心加低分辨率外围。
+148356	FracEncoder: Towards Adaptive Cognitive Trajectories via Fractional-Order Context Encoding	https://neurips.cc/virtual/2026/poster/148356	included	学习幂律历史衰减的阶数以适应任务记忆跨度。
+151924	Fractal-G: Topology-Aware Heterogeneous Graphs for Medical Image Segmentation	https://neurips.cc/virtual/2026/poster/151924	included	按边界复杂度分配图节点，并校正节点面积。
+152899	Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference	https://neurips.cc/virtual/2026/poster/152899	included	半倍频量化网格让低位宽移位加法保留更密权重刻度。
+150427	Fractional State Space Transition for Long Sequence Modeling	https://neurips.cc/virtual/2026/poster/150427	included	用对数间隔指数模态模拟幂律衰减，并保留有界状态。
+149467	FracTS: Hierarchical and Autoregressive Time Series Generation	https://neurips.cc/virtual/2026/poster/149467	included	先生成粗全局轨迹，再细化局部跨变量动态。
+155391	FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond	https://neurips.cc/virtual/2026/poster/155391	included	保持平均帧数不变，按问题证据需求分配预算。
+148460	FrameScout: Scouting Query-Relevant Frames for Long Video Understanding	https://neurips.cc/virtual/2026/poster/148460	included	用流式上下文编码和帧问对比训练取回相关画面。
+139258	FrameSelect: A Unified Library for Video Frame Selection and Evaluation	https://neurips.cc/virtual/2026/poster/139258	included	固定候选池、编码器和帧数后检查选帧算法排名是否稳定。
+149307	Frame the adversary: a structure-aware attack methodology	https://neurips.cc/virtual/2026/poster/149307	excluded	论文摘要以生成对抗攻击为主要贡献，缺少可独立收录的防御方法。
+154230	FrameVGGT: Coherence-Preserving Memory for Bounded Streaming Geometry	https://neurips.cc/virtual/2026/poster/154230	included	以完整帧为缓存单元，保留互补视角和稀疏长期锚点。
+148894	Frank-LoRA: Federated Rank-Aware LoRA for Fine-Tuning Large Models	https://neurips.cc/virtual/2026/poster/148894	included	按客户端适配秩调整学习率
+156093	Frank-Wolfe Beyond 1/t Convergence	https://neurips.cc/virtual/2026/poster/156093	included	先检查可行域局部几何再选 Frank–Wolfe
+139080	FraudBench: A Legal Evaluation of AI Deception on Realistic Tasks	https://neurips.cc/virtual/2026/poster/139080	included	按自主权限分层评估合规风险
+155894	Fréchet Regression on the Bures-Wasserstein Manifold	https://neurips.cc/virtual/2026/poster/155894	included	先验证带符号权重下的外推可行范围
+153357	FrED: External Data Influence Estimation via Domain Knowledge Graph Grounding	https://neurips.cc/virtual/2026/poster/153357	included	用领域关系约束相似性归因的排序
+154805	FreDRec: Frequency-Decoupled Knowledge Distillation for Multimodal Recommendation in Missing Modalities Scenarios	https://neurips.cc/virtual/2026/poster/154805	included	分频后再补全缺失模态
+148622	FreeAct: Demonstration-Free Robot Adaptation via Action-Grounded Generated Videos	https://neurips.cc/virtual/2026/poster/148622	included	先对齐末端运动再从生成视频提取监督
+155558	Free Decompression with Algebraic Spectral Curves	https://neurips.cc/virtual/2026/poster/155558	included	用代数谱曲线外推小矩阵到大矩阵谱
+153859	Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/153859	included	复用扩散模型预测并逐轮校验静态解码一致性
+150686	Free energy Estimation on Any State Space	https://neurips.cc/virtual/2026/poster/150686	included	在离散状态空间也测试学习式输运
+155600	Free Heavy-Tailed Lunch for Muon: A Theoretical Justification of Empirical Success	https://neurips.cc/virtual/2026/poster/155600	included	按矩阵几何与驻点指标比较优化器
+139157	Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States	https://neurips.cc/virtual/2026/poster/139157	excluded	主要增量为法规文本汇集、OCR 和辖区覆盖元数据，摘要未验证可独立迁移的学习机制或对照规律。
+148432	Free Lunch for Pass@$k$? Low Cost Diverse Sampling for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/148432	included	在生成中对既有候选的特征做排斥
+149840	FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching	https://neurips.cc/virtual/2026/poster/149840	included	显式消去已知自运动，并让求解预算集中于模糊区域
+149836	FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction	https://neurips.cc/virtual/2026/poster/149836	included	按奇异谱融合长程一致性和局部动态
+148488	FreqCa: Accelerating Image generation and editing via Frequency-Aware Caching	https://neurips.cc/virtual/2026/poster/148488	included	低频直接复用，高频按时间走势预测
+154121	Frequency‑Aware Flow Matching for Continuous and Consistent Robotic Action Generation	https://neurips.cc/virtual/2026/poster/154121	included	在频域学习动作并用连续基重建
+150802	FrequencyBooster: Advancing Pixel Diffusion for High-Fidelity Image Generation	https://neurips.cc/virtual/2026/poster/150802	included	让解码器兼顾全局语义与高频像素
+151162	Frequency Domain Reservoir Computing	https://neurips.cc/virtual/2026/poster/151162	included	把循环更新与非线性留在频域
+149155	Frequency-Structured Hamiltonian Neural Network for Multi-Timescale Dynamics	https://neurips.cc/virtual/2026/poster/149155	included	分频训练动力学，再合成为一个守恒生成量
+148279	Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation	https://neurips.cc/virtual/2026/poster/148279	included	按频段共享跨提示片段的信息。
+154282	FRESCO: A Novel Consistency Control for Asynchronous Pipeline Parallel Training	https://neurips.cc/virtual/2026/poster/154282	included	限制异步更新改变前向激活子空间的程度。
+153565	FreshMem: Brain-Inspired Frequency-Space Hybrid Memory for Streaming Video Understanding	https://neurips.cc/virtual/2026/poster/153565	included	同时保存历史频谱概况与事件缩略表示。
+150248	Freshness-Gated Imagination: Step-Level Trust for Latent World Models	https://neurips.cc/virtual/2026/poster/150248	included	一起验证轨迹级采样与步级梯度门控。
+149612	FRInGe: Distribution-Space Integrated Gradients with Fisher–Rao Geometry	https://neurips.cc/virtual/2026/poster/149612	included	用预测分布几何替换任意输入插值。
+150468	From Anti-Forgetting to Fast Adaptation: Continual Reinforcement Learning with World Models	https://neurips.cc/virtual/2026/poster/150468	included	任务切换时按奖励分歧探索、按动力学误差调整规划长度。
+148965	From Approximation to Computation: Universal Power of Deep Narrow Networks at Constant Width	https://neurips.cc/virtual/2026/poster/148965	included	验证窄网络时仍显式限制迭代时域及其编码。
+150152	From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation	https://neurips.cc/virtual/2026/poster/150152	included	把低维骨架控制映射为图像对齐信号，再择路供生成器使用。
+154659	From Average Sensitivity to Small-Loss Regret Bounds under Random-Order Model	https://neurips.cc/virtual/2026/poster/154659	included	在随机到达问题中优先评估离线求解器的平均敏感度。
+155282	From Baselines to Transport Geodesics: Axiomatic Attribution via Optimal Generative Flows	https://neurips.cc/virtual/2026/poster/155282	included	把特征归因的积分规则和参考到数据的路径分别设计。
+140013	From Benchmark to Adoption: Coding Agent Evaluation Needs User-Level Harness	https://neurips.cc/virtual/2026/poster/140013	included	把用户约束与人工验收作为编码助手部署评测变量。
+154687	From Chats to Markets: AgenticPay for LLM-Powered Negotiation in Multi-Agent Commerce	https://neurips.cc/virtual/2026/poster/154687	included	把市场拓扑作为评价多方谈判的独立变量。
+140015	From Claims to Context: Holistic Information Verification Requires Contextual Signals	https://neurips.cc/virtual/2026/poster/140015	excluded	以核验系统的研究议程与情境信号主张为主，摘要缺少足以隔离情境因素收益的控制比较。
+152618	From Click Imitation to Transition Equivalence: Rethinking Supervision for GUI Agents	https://neurips.cc/virtual/2026/poster/152618	included	用可验证状态转移定义等价操作。
+155080	From Clips to Streams: A Unified Framework for Streaming Sign Language Translation	https://neurips.cc/virtual/2026/poster/155080	included	联合优化事件定位和翻译，并比较学习边界与人工边界。
+148326	From Collapse to Improvement:  Statistical Perspectives on the Evolutionary Dynamics of Iterative Training on Contaminated Sources	https://neurips.cc/virtual/2026/poster/148326	included	迭代自训练时联合选择新鲜真实样本比例与采样量。
+149804	From Contexts to Conditionals: Statistical Self-Consistency of Persona Prompting	https://neurips.cc/virtual/2026/poster/149804	included	比较直接边际估计与不同划分下的条件加权汇总。
+151501	From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination	https://neurips.cc/virtual/2026/poster/151501	included	用短时累积的脉冲活动驱动延迟全局调制。
+150158	From Cursed to Competitive: Closing the ZO–FO Gap via Input-to-State Stability	https://neurips.cc/virtual/2026/poster/150158	included	用动态扰动稳定性判断零阶估计是否足够。
+150917	From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model	https://neurips.cc/virtual/2026/poster/150917	included	让并行生成器学会重访和更正已有输出。
 150936	From Density Matrices to Phase Transitions in Deep Learning: Spectral Early Warnings and Interpretability	https://neurips.cc/virtual/2026/poster/150936	pending	-
 139099	From Detection to Understanding — A Multi-Task Dataset for Traffic Anomaly Reasoning	https://neurips.cc/virtual/2026/poster/139099	pending	-
 150801	From Document Layout to Causal Topology: An End-to-End Architecture for Temporal Causal Reasoning	https://neurips.cc/virtual/2026/poster/150801	pending	-

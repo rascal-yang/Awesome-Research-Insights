@@ -528,3 +528,60 @@
 | 统计学习 | 数据筛选 | [Forgetting to Improve: Principled Data Removal in Active Learning](cards-0005.md#paper-148637) | 模型失配时检验删除有害样本能否改进目标任务 |
 | 大语言模型 | 证明评测 | [Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics](cards-0005.md#paper-139299) | 用冻结的 Lean 开放猜想与已解任务分别测证明和形式化 |
 | 机器学习基础 | 主动特征获取 | [Forward Shapley Scoring for Non-Myopic Active Feature Acquisition](cards-0005.md#paper-149516) | 用组合边际价值选择当前查询 |
+| 优化 | 二阶预条件 | [FOAM: Factored One-sided Adam-Moment for Practical and Scalable SOAP](cards-0005.md#paper-149122) | 输出曲率近各向同性时，仅预条件输入侧。 |
+| 科学机器学习 | 遥测表征 | [Foundation Models for Particle Accelerators](cards-0005.md#paper-150902) | 在变长异步传感器集合上共享去噪预训练。 |
+| 强化学习 | 多目标流策略 | [Foundation Pareto Flow Policy for Multi-Objective Reinforcement Learning](cards-0005.md#paper-150940) | 以轨迹流匹配学习可按偏好适配的 Pareto 策略。 |
+| 学习理论 | 等变性 | [Foundations of Categorical Equivariant Deep Learning](cards-0005.md#paper-150485) | 用带类型且可组合的变换类别表达遮挡、下采样等非可逆偏移。 |
+| 大语言模型 | 蒸馏 | [Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap](cards-0005.md#paper-148841) | 让教师读聚合信息、学生读同信息的多轮对话。 |
+| 计算机视觉 | 三维重建 | [FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images](cards-0005.md#paper-149835) | 用点图筛参考视角，再在射线上求连续表面。 |
+| 医学影像 | 可追踪量化 | [Fourier Contour Learning for Efficient and Traceable Cardiac MRI Quantification](cards-0005.md#paper-153442) | 用显式轮廓中间表示将分割与整体量测接通。 |
+| 大语言模型 | 参数高效微调 | [FourierMoE: Fourier Mixture-of-Experts Adaptation of Large Language Models](cards-0005.md#paper-151989) | 为不同任务与层选频率特化的适配专家。 |
+| 计算机视觉 | 视觉状态空间 | [Foveal-Mamba: Inside-Out Ring Scanning with Recurrent Offset Prediction for Visual State Space Models](cards-0005.md#paper-148775) | 让形变采样偏移依赖沿扫描累积的隐状态。 |
+| 计算机视觉 | 可解释架构 | [Foveated BagNet: Inherent Interpretability Does Not Exclude Global Context](cards-0005.md#paper-149976) | 在局部分类器中用清晰中心加低分辨率外围。 |
+| 强化学习 | 分数阶记忆 | [FracEncoder: Towards Adaptive Cognitive Trajectories via Fractional-Order Context Encoding](cards-0005.md#paper-148356) | 学习幂律历史衰减的阶数以适应任务记忆跨度。 |
+| 医学影像 | 自适应图融合 | [Fractal-G: Topology-Aware Heterogeneous Graphs for Medical Image Segmentation](cards-0005.md#paper-151924) | 按边界复杂度分配图节点，并校正节点面积。 |
+| 大语言模型 | 推理量化 | [Fractional Power-of-Two Quantization for Efficient and Effective Multiplier-Free LLM Inference](cards-0005.md#paper-152899) | 半倍频量化网格让低位宽移位加法保留更密权重刻度。 |
+| 序列建模 | 长记忆状态空间 | [Fractional State Space Transition for Long Sequence Modeling](cards-0005.md#paper-150427) | 用对数间隔指数模态模拟幂律衰减，并保留有界状态。 |
+| 时序生成 | 多尺度自回归 | [FracTS: Hierarchical and Autoregressive Time Series Generation](cards-0005.md#paper-149467) | 先生成粗全局轨迹，再细化局部跨变量动态。 |
+| 多模态学习 | 推理预算 | [FrameRouter: Frame Budget Routing for Long-Video Understanding on Video-MME-v2 and Beyond](cards-0005.md#paper-155391) | 保持平均帧数不变，按问题证据需求分配预算。 |
+| 多模态学习 | 视频选帧 | [FrameScout: Scouting Query-Relevant Frames for Long Video Understanding](cards-0005.md#paper-148460) | 用流式上下文编码和帧问对比训练取回相关画面。 |
+| 多模态学习 | 评测协议 | [FrameSelect: A Unified Library for Video Frame Selection and Evaluation](cards-0005.md#paper-139258) | 固定候选池、编码器和帧数后检查选帧算法排名是否稳定。 |
+| 计算机视觉 | 流式几何记忆 | [FrameVGGT: Coherence-Preserving Memory for Bounded Streaming Geometry](cards-0005.md#paper-154230) | 以完整帧为缓存单元，保留互补视角和稀疏长期锚点。 |
+| 联邦微调 | 秩调度 | [Frank-LoRA: Federated Rank-Aware LoRA for Fine-Tuning Large Models](cards-0005.md#paper-148894) | 按客户端适配秩调整学习率 |
+| 优化理论 | 收敛分析 | [Frank-Wolfe Beyond 1/t Convergence](cards-0005.md#paper-156093) | 先检查可行域局部几何再选 Frank–Wolfe |
+| 模型安全 | 防御评测 | [FraudBench: A Legal Evaluation of AI Deception on Realistic Tasks](cards-0005.md#paper-139080) | 按自主权限分层评估合规风险 |
+| 统计学习 | 几何回归 | [Fréchet Regression on the Bures-Wasserstein Manifold](cards-0005.md#paper-155894) | 先验证带符号权重下的外推可行范围 |
+| 可解释性 | 数据归因 | [FrED: External Data Influence Estimation via Domain Knowledge Graph Grounding](cards-0005.md#paper-153357) | 用领域关系约束相似性归因的排序 |
+| 推荐系统 | 蒸馏 | [FreDRec: Frequency-Decoupled Knowledge Distillation for Multimodal Recommendation in Missing Modalities Scenarios](cards-0005.md#paper-154805) | 分频后再补全缺失模态 |
+| 具身智能 | 伪标注 | [FreeAct: Demonstration-Free Robot Adaptation via Action-Grounded Generated Videos](cards-0005.md#paper-148622) | 先对齐末端运动再从生成视频提取监督 |
+| 学习理论 | 谱外推 | [Free Decompression with Algebraic Spectral Curves](cards-0005.md#paper-155558) | 用代数谱曲线外推小矩阵到大矩阵谱 |
+| 大语言模型 | 并行解码 | [Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models](cards-0005.md#paper-153859) | 复用扩散模型预测并逐轮校验静态解码一致性 |
+| 科学机器学习 | 自由能估计 | [Free energy Estimation on Any State Space](cards-0005.md#paper-150686) | 在离散状态空间也测试学习式输运 |
+| 优化理论 | 重尾梯度 | [Free Heavy-Tailed Lunch for Muon: A Theoretical Justification of Empirical Success](cards-0005.md#paper-155600) | 按矩阵几何与驻点指标比较优化器 |
+| 大语言模型 | 多样采样 | [Free Lunch for Pass@$k$? Low Cost Diverse Sampling for Diffusion Language Models](cards-0005.md#paper-148432) | 在生成中对既有候选的特征做排斥 |
+| 具身智能 | 占据预测 | [FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching](cards-0005.md#paper-149840) | 显式消去已知自运动，并让求解预算集中于模糊区域 |
+| 计算机视觉 | 视频生成 | [FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction](cards-0005.md#paper-149836) | 按奇异谱融合长程一致性和局部动态 |
+| 计算机视觉 | 缓存加速 | [FreqCa: Accelerating Image generation and editing via Frequency-Aware Caching](cards-0005.md#paper-148488) | 低频直接复用，高频按时间走势预测 |
+| 具身智能 | 动作表示 | [Frequency‑Aware Flow Matching for Continuous and Consistent Robotic Action Generation](cards-0005.md#paper-154121) | 在频域学习动作并用连续基重建 |
+| 计算机视觉 | 像素扩散 | [FrequencyBooster: Advancing Pixel Diffusion for High-Fidelity Image Generation](cards-0005.md#paper-150802) | 让解码器兼顾全局语义与高频像素 |
+| 序列建模 | 循环架构 | [Frequency Domain Reservoir Computing](cards-0005.md#paper-151162) | 把循环更新与非线性留在频域 |
+| 科学机器学习 | 结构保持 | [Frequency-Structured Hamiltonian Neural Network for Multi-Timescale Dynamics](cards-0005.md#paper-149155) | 分频训练动力学，再合成为一个守恒生成量 |
+| 视频生成 | 频域耦合 | [Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation](cards-0005.md#paper-148279) | 按频段共享跨提示片段的信息。 |
+| 机器学习系统 | 并行训练 | [FRESCO: A Novel Consistency Control for Asynchronous Pipeline Parallel Training](cards-0005.md#paper-154282) | 限制异步更新改变前向激活子空间的程度。 |
+| 多模态学习 | 流式记忆 | [FreshMem: Brain-Inspired Frequency-Space Hybrid Memory for Streaming Video Understanding](cards-0005.md#paper-153565) | 同时保存历史频谱概况与事件缩略表示。 |
+| 强化学习 | 世界模型 | [Freshness-Gated Imagination: Step-Level Trust for Latent World Models](cards-0005.md#paper-150248) | 一起验证轨迹级采样与步级梯度门控。 |
+| 可解释性 | 梯度归因 | [FRInGe: Distribution-Space Integrated Gradients with Fisher–Rao Geometry](cards-0005.md#paper-149612) | 用预测分布几何替换任意输入插值。 |
+| 强化学习 | 持续适配 | [From Anti-Forgetting to Fast Adaptation: Continual Reinforcement Learning with World Models](cards-0005.md#paper-150468) | 任务切换时按奖励分歧探索、按动力学误差调整规划长度。 |
+| 学习理论 | 验证复杂性 | [From Approximation to Computation: Universal Power of Deep Narrow Networks at Constant Width](cards-0005.md#paper-148965) | 验证窄网络时仍显式限制迭代时域及其编码。 |
+| 多模态学习 | 条件生成 | [From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation](cards-0005.md#paper-150152) | 把低维骨架控制映射为图像对齐信号，再择路供生成器使用。 |
+| 学习理论 | 在线学习 | [From Average Sensitivity to Small-Loss Regret Bounds under Random-Order Model](cards-0005.md#paper-154659) | 在随机到达问题中优先评估离线求解器的平均敏感度。 |
+| 可解释性 | 归因路径 | [From Baselines to Transport Geodesics: Axiomatic Attribution via Optimal Generative Flows](cards-0005.md#paper-155282) | 把特征归因的积分规则和参考到数据的路径分别设计。 |
+| 软件工程 | 部署评测 | [From Benchmark to Adoption: Coding Agent Evaluation Needs User-Level Harness](cards-0005.md#paper-140013) | 把用户约束与人工验收作为编码助手部署评测变量。 |
+| 多模态学习 / Agent | 谈判评测 | [From Chats to Markets: AgenticPay for LLM-Powered Negotiation in Multi-Agent Commerce](cards-0005.md#paper-154687) | 把市场拓扑作为评价多方谈判的独立变量。 |
+| Agent | 状态监督 | [From Click Imitation to Transition Equivalence: Rethinking Supervision for GUI Agents](cards-0005.md#paper-152618) | 用可验证状态转移定义等价操作。 |
+| 多模态学习 | 流式翻译 | [From Clips to Streams: A Unified Framework for Streaming Sign Language Translation](cards-0005.md#paper-155080) | 联合优化事件定位和翻译，并比较学习边界与人工边界。 |
+| 学习理论 | 合成数据 | [From Collapse to Improvement:  Statistical Perspectives on the Evolutionary Dynamics of Iterative Training on Contaminated Sources](cards-0005.md#paper-148326) | 迭代自训练时联合选择新鲜真实样本比例与采样量。 |
+| 统计学习 / 大语言模型 | 一致性评测 | [From Contexts to Conditionals: Statistical Self-Consistency of Persona Prompting](cards-0005.md#paper-149804) | 比较直接边际估计与不同划分下的条件加权汇总。 |
+| 机器学习 | 脉冲架构 | [From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination](cards-0005.md#paper-151501) | 用短时累积的脉冲活动驱动延迟全局调制。 |
+| 优化 | 零阶方法 | [From Cursed to Competitive: Closing the ZO–FO Gap via Input-to-State Stability](cards-0005.md#paper-150158) | 用动态扰动稳定性判断零阶估计是否足够。 |
+| 多模态学习 | 离散扩散 | [From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model](cards-0005.md#paper-150917) | 让并行生成器学会重访和更正已有输出。 |
