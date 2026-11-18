@@ -61,3 +61,18 @@
 - **适用条件 / 局限** · 摘要依赖正确识别哪些动作已经完成。若任务需要找回精确的旧空间状态，语义摘要可能丢失关键信息。
 
 **可复用机制** · 把近期遮挡与运动状态交给视频缓存，把已完成的任务状态交给压缩文本。比较固定历史窗口、单一文本和双记忆方案，并单列失败重试后的恢复表现。[原文图 5 与消融](https://arxiv.org/html/2603.03596)
+
+<a id="paper-hmdwoezjlq"></a>
+
+## When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs
+
+[会议记录](https://openreview.net/forum?id=HmdwOezjlQ) · [原文](https://arxiv.org/html/2602.17659)
+
+- **问题 / 瓶颈** · 同一场景下换成另一条可执行指令，策略仍可能重复场景中最常见的动作。普通任务成功率会掩盖这种语言跟随失败。
+- **核心创新 / 方法** · 固定视觉场景替换指令以暴露视觉捷径，再用有指令与无指令两路的动作预测差异放大语言条件的影响。
+- **Baseline** · 条件与无条件预测的差分源自 classifier-free guidance。实验比较未加引导的 VLA、无需训练的 TF-CAG 和使用独立视觉动作模块的 VA-CAG。
+- **Benchmark** · LIBERO-CF 在仍可执行的场景中替换空间、对象、目标等指令，并补充真机实验。分别测语言落地与任务成功率。
+- **关键结果 / 消融** · LIBERO-CF 上，论文摘要报告 π0.5 的 TF-CAG 在语言落地与任务成功指标上分别提升 9.7% 和 3.6%，VA-CAG 对应提升 15.5% 和 8.5%。
+- **适用条件 / 局限** · 替换指令必须在场景里可执行。引导只能放大已有的条件信号，部署还需测双分支推理成本及正常指令上的退化。
+
+**可复用机制** · 固定画面并换指令作为 VLA 的语言依赖对照，分别评估是否选对语言指定目标和能否完成操作。可以在同一底层策略上比较有无动作差分引导。[原文 §5–6](https://arxiv.org/html/2602.17659#S5) · [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598)

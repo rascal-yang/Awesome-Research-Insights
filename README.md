@@ -16,7 +16,7 @@
 
 <a id="conference-sources"></a>
 
-**最新筛选 · 2026-11-18** · [ICML 2026 · 6,552 / 6,552 篇已筛选 · 收录 3,276 篇](conferences/icml-2026/README.md) · [CoRL 2026 · 4 / 687 篇已筛选 · 收录 4 篇](conferences/corl-2026/README.md)
+**最新筛选 · 2026-11-18** · [ICML 2026 · 6,552 / 6,552 篇已筛选 · 收录 3,276 篇](conferences/icml-2026/README.md) · [CoRL 2026 · 5 / 687 篇已筛选 · 收录 5 篇](conferences/corl-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
