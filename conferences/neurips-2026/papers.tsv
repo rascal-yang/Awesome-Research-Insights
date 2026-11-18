@@ -580,66 +580,66 @@ poster_id	title	paper_url	status	reason
 155386	Ask KG Agent: A Multi-Agent Framework for Code Localization Using Code and Knowledge Graphs	https://neurips.cc/virtual/2026/poster/155386	included	用开发历史补充依赖图以定位维护任务
 139593	ASO Atlas 2.0: Evaluating antisense oligonucleotide prediction across the preclinical pipeline	https://neurips.cc/virtual/2026/poster/139593	included	按阶段成本加权预测价值
 154777	A Solvable Model of Chain-of-Thought in In-Context Learning	https://neurips.cc/virtual/2026/poster/154777	included	按上下文与预训练覆盖验证最优推理步数
-154064	A Solver-Efficient Neural Adversarial Attack on Subgraph Matching Models	https://neurips.cc/virtual/2026/poster/154064	pending	-
-152969	A Sparse Low-Rank Biclique Decomposition for Graphs	https://neurips.cc/virtual/2026/poster/152969	pending	-
-152831	A Spectral Framework for Closed-Form Relative Density Estimation	https://neurips.cc/virtual/2026/poster/152831	pending	-
-139498	ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents	https://neurips.cc/virtual/2026/poster/139498	pending	-
-153843	ASQ: Agent-guided Semantic-aware Quantization for Large Language Models	https://neurips.cc/virtual/2026/poster/153843	pending	-
-139516	AssayBench: An Assay-Level Virtual Cell Benchmark for LLMs and Agents	https://neurips.cc/virtual/2026/poster/139516	pending	-
-155925	Assessing Per-Sample Membership Inference Vulnerability without Retraining	https://neurips.cc/virtual/2026/poster/155925	pending	-
-148544	Assessing Sample Quality in Conditional Generation under Compositional Shift	https://neurips.cc/virtual/2026/poster/148544	pending	-
-149514	Assessing the robustness of heterogeneous treatment effects in survival analysis under informative censoring	https://neurips.cc/virtual/2026/poster/149514	pending	-
-153026	ASSET: Acquisition-Sensitive Subspace Estimation for Test-Time Adaptation of Medical VLMs	https://neurips.cc/virtual/2026/poster/153026	pending	-
-153282	Assign and Add: A Mechanistic Study of Compositional Arithmetic	https://neurips.cc/virtual/2026/poster/153282	pending	-
-148914	Assistive Dueling Bandits: No-Regret Algorithms for Assisting No-Regret Users	https://neurips.cc/virtual/2026/poster/148914	pending	-
-151341	A Stability Analysis of AdamW: Unstable Equilibria and Non-Convergence	https://neurips.cc/virtual/2026/poster/151341	pending	-
-148932	A Statistical Framework for Algorithmic Collective Action with Multiple Collectives	https://neurips.cc/virtual/2026/poster/148932	pending	-
-153011	A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts	https://neurips.cc/virtual/2026/poster/153011	pending	-
-156020	A Steerable Deep Network for Model-Free Diffusion MRI Registration	https://neurips.cc/virtual/2026/poster/156020	pending	-
-152579	As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does	https://neurips.cc/virtual/2026/poster/152579	pending	-
-154519	ASTOR: Multi-Task Code Reinforcement Learning via Utility-Driven Coordination	https://neurips.cc/virtual/2026/poster/154519	pending	-
-156042	ASTRA: ADMM-Accelerated Topology Reconfiguration for Dynamic Satellite Constellations	https://neurips.cc/virtual/2026/poster/156042	pending	-
-152612	AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs	https://neurips.cc/virtual/2026/poster/152612	pending	-
-139188	A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform	https://neurips.cc/virtual/2026/poster/139188	pending	-
-150813	A Structure-Aware Higher-Order Message Passing Framework on Walk States for Graph Classification	https://neurips.cc/virtual/2026/poster/150813	pending	-
-148871	A Structured LLM Framework for Inorganic Material Synthesis Planning	https://neurips.cc/virtual/2026/poster/148871	pending	-
-151697	A Subgoal-driven RL Framework for Improving Long-Horizon Web Agents	https://neurips.cc/virtual/2026/poster/151697	pending	-
-155836	A Surrogate Perspective on Convergence of Fixed-Target DQN	https://neurips.cc/virtual/2026/poster/155836	pending	-
-149752	ASVQ: What Reparameterization Is Just Enough for Efficient Codebook Learning?	https://neurips.cc/virtual/2026/poster/149752	pending	-
-151792	AsymHP: Load-Balanced Sparse Attention for Video Diffusion Transformers	https://neurips.cc/virtual/2026/poster/151792	pending	-
-151704	Asymmetric Factorization for Low-Rank PSD Learning: When Is the Relaxation Exact ?	https://neurips.cc/virtual/2026/poster/151704	pending	-
-156075	Asymmetric Flow Models	https://neurips.cc/virtual/2026/poster/156075	pending	-
-149702	Asymmetric Generalization in Deep CTR Models: A Block-wise Diagnosis	https://neurips.cc/virtual/2026/poster/149702	pending	-
-148414	Asymmetric Hierarchical Anchoring for Robust Audio–Visual Cross-Modal Generalization	https://neurips.cc/virtual/2026/poster/148414	pending	-
-152968	Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition	https://neurips.cc/virtual/2026/poster/152968	pending	-
-149813	Asymmetric Phase Coding Audio Watermarking	https://neurips.cc/virtual/2026/poster/149813	pending	-
-149774	Asymmetric Scaling Laws from Sparse Features	https://neurips.cc/virtual/2026/poster/149774	pending	-
-148143	AsymPipe: Accelerating Large-scale DiTs Image Editing via Asymmetry-Aware Pipeline Parallelism	https://neurips.cc/virtual/2026/poster/148143	pending	-
-148530	Asymptotically Exact Negative Guidance of Diffusion Models via Positive-Unlabeled Learning	https://neurips.cc/virtual/2026/poster/148530	pending	-
-153874	Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means	https://neurips.cc/virtual/2026/poster/153874	pending	-
-150020	Asymptotically Optimal Best Arm Identification with Fixed-Budget under Differential Privacy	https://neurips.cc/virtual/2026/poster/150020	pending	-
-154311	Asymptotic Anytime-Valid Inference for U-statistics	https://neurips.cc/virtual/2026/poster/154311	pending	-
-153307	Asynchronous Agentic Poisoning	https://neurips.cc/virtual/2026/poster/153307	pending	-
-155437	AsyncMesh: Fully Asynchronous Optimization for Data and Pipeline Parallelism	https://neurips.cc/virtual/2026/poster/155437	pending	-
-156136	AsyncOPD: How Stale Can On-Policy Distillation Be?	https://neurips.cc/virtual/2026/poster/156136	pending	-
-138908	A Systematic Analysis of Out-of-Distribution Detection Under Representation and Training Paradigm Shifts	https://neurips.cc/virtual/2026/poster/138908	pending	-
-154961	A Systematic Evaluation of Co-folding Model Representations for Small-Molecule Learning	https://neurips.cc/virtual/2026/poster/154961	pending	-
-139292	A systematic evaluation of vision-language models for observational astronomical reasoning tasks	https://neurips.cc/virtual/2026/poster/139292	pending	-
-154302	At FullTilt: Real-Time Open-Set 3D Macromolecule Detection Directly from Tilted 2D Projections	https://neurips.cc/virtual/2026/poster/154302	pending	-
-151187	A Theoretical Analysis of Backdoor Learning as Simplicity-Biased Optimization Dynamics	https://neurips.cc/virtual/2026/poster/151187	pending	-
-149483	A Theoretical Analysis of Test-Driven Code Generation	https://neurips.cc/virtual/2026/poster/149483	pending	-
-149727	A Theoretical Analysis of Why Masked Diffusion Models Mitigate the Reversal Curse	https://neurips.cc/virtual/2026/poster/149727	pending	-
-148638	A Theoretical Bridge Between Long-Tailed Recognition and Continual Learning	https://neurips.cc/virtual/2026/poster/148638	pending	-
-152957	A Theoretical Framework for Self-Play Theorem Proving Algorithms	https://neurips.cc/virtual/2026/poster/152957	pending	-
-154177	A Theory of Adversary-Directed Online Learning	https://neurips.cc/virtual/2026/poster/154177	pending	-
-154564	A Theory of Online Learning with Autoregressive Chain-of-Thought Reasoning	https://neurips.cc/virtual/2026/poster/154564	pending	-
-155828	A Theory of Spatial Continuous Attractors in Hopfield Energy Landscapes	https://neurips.cc/virtual/2026/poster/155828	pending	-
-154885	A Theory of Time-Sensitive Language Generation: Sparse Hallucination Beats Mode Collapse	https://neurips.cc/virtual/2026/poster/154885	pending	-
-152898	A Theory of Training Profit-Optimal LLMs	https://neurips.cc/virtual/2026/poster/152898	pending	-
-152773	A Theory on Flow Matching with Neural Networks	https://neurips.cc/virtual/2026/poster/152773	pending	-
-152637	A Tight Hierarchy For Chain of Thought	https://neurips.cc/virtual/2026/poster/152637	pending	-
-152880	ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection	https://neurips.cc/virtual/2026/poster/152880	pending	-
-152422	ATLAS: Adaptive Temporal Learning for Single-Cell Multi-Omics Alignment and Dynamics	https://neurips.cc/virtual/2026/poster/152422	pending	-
+154064	A Solver-Efficient Neural Adversarial Attack on Subgraph Matching Models	https://neurips.cc/virtual/2026/poster/154064	excluded	摘要主要贡献是攻击方法，暂未提取独立防御机制。
+152969	A Sparse Low-Rank Biclique Decomposition for Graphs	https://neurips.cc/virtual/2026/poster/152969	included	用有符号双团保留邻接稀疏性
+152831	A Spectral Framework for Closed-Form Relative Density Estimation	https://neurips.cc/virtual/2026/poster/152831	included	用特征矩闭式拟合相对对数密度
+139498	ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents	https://neurips.cc/virtual/2026/poster/139498	included	分别验收执行与澄清状态的信任策略
+153843	ASQ: Agent-guided Semantic-aware Quantization for Large Language Models	https://neurips.cc/virtual/2026/poster/153843	included	按语义相关位置评估通道重要性
+139516	AssayBench: An Assay-Level Virtual Cell Benchmark for LLMs and Agents	https://neurips.cc/virtual/2026/poster/139516	included	对异质测试组使用统一的排序评价
+155925	Assessing Per-Sample Membership Inference Vulnerability without Retraining	https://neurips.cc/virtual/2026/poster/155925	included	用单模型诊断样本隐私风险
+148544	Assessing Sample Quality in Conditional Generation under Compositional Shift	https://neurips.cc/virtual/2026/poster/148544	included	缺少目标组合实样时分别核查真实性和属性忠实度
+149514	Assessing the robustness of heterogeneous treatment effects in survival analysis under informative censoring	https://neurips.cc/virtual/2026/poster/149514	included	对信息性删失报告异质治疗效应界
+153026	ASSET: Acquisition-Sensitive Subspace Estimation for Test-Time Adaptation of Medical VLMs	https://neurips.cc/virtual/2026/poster/153026	included	只在采集质量敏感子空间内更新
+153282	Assign and Add: A Mechanistic Study of Compositional Arithmetic	https://neurips.cc/virtual/2026/poster/153282	included	检查同一内部模块能否跨输入表示复用
+148914	Assistive Dueling Bandits: No-Regret Algorithms for Assisting No-Regret Users	https://neurips.cc/virtual/2026/poster/148914	included	用用户选择学习候选对而无需看到收益
+151341	A Stability Analysis of AdamW: Unstable Equilibria and Non-Convergence	https://neurips.cc/virtual/2026/poster/151341	included	区分优化器固定点与动力学收敛
+148932	A Statistical Framework for Algorithmic Collective Action with Multiple Collectives	https://neurips.cc/virtual/2026/poster/148932	included	将群体目标一致性纳入效果估计
+153011	A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts	https://neurips.cc/virtual/2026/poster/153011	included	比较在注意力输出与值映射处放置门控
+156020	A Steerable Deep Network for Model-Free Diffusion MRI Registration	https://neurips.cc/virtual/2026/poster/156020	included	在原始空间角度域做等变配准
+152579	As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does	https://neurips.cc/virtual/2026/poster/152579	included	以对话和画面逐步建立角色身份库
+154519	ASTOR: Multi-Task Code Reinforcement Learning via Utility-Driven Coordination	https://neurips.cc/virtual/2026/poster/154519	included	按任务学习价值分别配训练预算和 KL 约束
+156042	ASTRA: ADMM-Accelerated Topology Reconfiguration for Dynamic Satellite Constellations	https://neurips.cc/virtual/2026/poster/156042	included	重复约束求解用可控近似内循环
+152612	AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs	https://neurips.cc/virtual/2026/poster/152612	included	将 rollout 服务与训练解耦为独立组件
+139188	A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform	https://neurips.cc/virtual/2026/poster/139188	included	用逐话语专家参考和交叉盲评定位模拟患者偏差
+150813	A Structure-Aware Higher-Order Message Passing Framework on Walk States for Graph Classification	https://neurips.cc/virtual/2026/poster/150813	included	用游走状态代替全量高阶元组
+148871	A Structured LLM Framework for Inorganic Material Synthesis Planning	https://neurips.cc/virtual/2026/poster/148871	included	用离散类别连接条件选择和步骤生成
+151697	A Subgoal-driven RL Framework for Improving Long-Horizon Web Agents	https://neurips.cc/virtual/2026/poster/151697	included	在正常界面任务中用子目标进度补充终局评分
+155836	A Surrogate Perspective on Convergence of Fixed-Target DQN	https://neurips.cc/virtual/2026/poster/155836	included	用平滑最大误差减少最坏Bellman残差
+149752	ASVQ: What Reparameterization Is Just Enough for Efficient Codebook Learning?	https://neurips.cc/virtual/2026/poster/149752	included	先试自适应尺度再增加码本重参数化复杂度
+151792	AsymHP: Load-Balanced Sparse Attention for Video Diffusion Transformers	https://neurips.cc/virtual/2026/poster/151792	included	按上一扩散步的密度分配每卡注意力头
+151704	Asymmetric Factorization for Low-Rank PSD Learning: When Is the Relaxation Exact ?	https://neurips.cc/virtual/2026/poster/151704	included	用显式惩罚下界决定能否替换对称分解
+156075	Asymmetric Flow Models	https://neurips.cc/virtual/2026/poster/156075	included	仅压缩噪声预测，保留全维数据预测
+149702	Asymmetric Generalization in Deep CTR Models: A Block-wise Diagnosis	https://neurips.cc/virtual/2026/poster/149702	included	分块重调后再决定哪些参数做集成
+148414	Asymmetric Hierarchical Anchoring for Robust Audio–Visual Cross-Modal Generalization	https://neurips.cc/virtual/2026/poster/148414	included	以结构更明确的模态为共享语义锚点
+152968	Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition	https://neurips.cc/virtual/2026/poster/152968	included	分别评估隐私遮蔽和授权恢复
+149813	Asymmetric Phase Coding Audio Watermarking	https://neurips.cc/virtual/2026/poster/149813	included	将密码学签名和信道抗失真分开验证
+149774	Asymmetric Scaling Laws from Sparse Features	https://neurips.cc/virtual/2026/poster/149774	included	稀有特征覆盖不足时先增加数据
+148143	AsymPipe: Accelerating Large-scale DiTs Image Editing via Asymmetry-Aware Pipeline Parallelism	https://neurips.cc/virtual/2026/poster/148143	included	把不编辑区域的缓存收益与设备负载一起优化
+148530	Asymptotically Exact Negative Guidance of Diffusion Models via Positive-Unlabeled Learning	https://neurips.cc/virtual/2026/poster/148530	included	用显式目标分布检查负向引导偏差
+153874	Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means	https://neurips.cc/virtual/2026/poster/153874	included	用预测模型提高选取有效鞅因子的效率
+150020	Asymptotically Optimal Best Arm Identification with Fixed-Budget under Differential Privacy	https://neurips.cc/virtual/2026/poster/150020	included	按固定预算的隐私输运指数设计采样
+154311	Asymptotic Anytime-Valid Inference for U-statistics	https://neurips.cc/virtual/2026/poster/154311	included	先区分U统计量退化性再选置信边界
+153307	Asynchronous Agentic Poisoning	https://neurips.cc/virtual/2026/poster/153307	excluded	摘要集中描述攻击机制，未给出可独立验证的防御方法。
+155437	AsyncMesh: Fully Asynchronous Optimization for Data and Pipeline Parallelism	https://neurips.cc/virtual/2026/poster/155437	included	按并行轴分别补偿参数陈旧
+156136	AsyncOPD: How Stale Can On-Policy Distillation Be?	https://neurips.cc/virtual/2026/poster/156136	included	按 KL 方向选异步估计器
+138908	A Systematic Analysis of Out-of-Distribution Detection Under Representation and Training Paradigm Shifts	https://neurips.cc/virtual/2026/poster/138908	included	按表征和偏移强度筛置信分数
+154961	A Systematic Evaluation of Co-folding Model Representations for Small-Molecule Learning	https://neurips.cc/virtual/2026/poster/154961	excluded	主要机制涉及分子发现与优化，暂无适合公开整理的独立通用技术卡。
+139292	A systematic evaluation of vision-language models for observational astronomical reasoning tasks	https://neurips.cc/virtual/2026/poster/139292	included	一维观测先试数表，并额外验算物理理由
+154302	At FullTilt: Real-Time Open-Set 3D Macromolecule Detection Directly from Tilted 2D Projections	https://neurips.cc/virtual/2026/poster/154302	included	比较直接用原始投影和先重建体素再检测
+151187	A Theoretical Analysis of Backdoor Learning as Simplicity-Biased Optimization Dynamics	https://neurips.cc/virtual/2026/poster/151187	included	用表征复测检查清洁微调是否真正消除风险
+149483	A Theoretical Analysis of Test-Driven Code Generation	https://neurips.cc/virtual/2026/poster/149483	included	代码候选排序先试软功能相似度
+149727	A Theoretical Analysis of Why Masked Diffusion Models Mitigate the Reversal Curse	https://neurips.cc/virtual/2026/poster/149727	included	分别检查正反查询是否共享值侧证据
+148638	A Theoretical Bridge Between Long-Tailed Recognition and Continual Learning	https://neurips.cc/virtual/2026/poster/148638	included	用持续学习方法分阶段学习头尾类别
+152957	A Theoretical Framework for Self-Play Theorem Proving Algorithms	https://neurips.cc/virtual/2026/poster/152957	included	用语义图上的多样性选择自博弈猜想
+154177	A Theory of Adversary-Directed Online Learning	https://neurips.cc/virtual/2026/poster/154177	included	已知实例集但顺序可变时使用适配的复杂度量
+154564	A Theory of Online Learning with Autoregressive Chain-of-Thought Reasoning	https://neurips.cc/virtual/2026/poster/154564	included	按模型类判断轨迹监督能否降低时域依赖
+155828	A Theory of Spatial Continuous Attractors in Hopfield Energy Landscapes	https://neurips.cc/virtual/2026/poster/155828	included	分别学习吸引流形的法向恢复和切向输运
+154885	A Theory of Time-Sensitive Language Generation: Sparse Hallucination Beats Mode Collapse	https://neurips.cc/virtual/2026/poster/154885	included	及时覆盖评测允许单独约束错误率
+152898	A Theory of Training Profit-Optimal LLMs	https://neurips.cc/virtual/2026/poster/152898	included	先判断算力或数据瓶颈再决定新增投入
+152773	A Theory on Flow Matching with Neural Networks	https://neurips.cc/virtual/2026/poster/152773	included	同时监控速度回归误差和生成分布距离
+152637	A Tight Hierarchy For Chain of Thought	https://neurips.cc/virtual/2026/poster/152637	included	把思维链步数当独立资源量
+152880	ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection	https://neurips.cc/virtual/2026/poster/152880	included	先对齐未来观测和动作，再用动作目标控制注入
+152422	ATLAS: Adaptive Temporal Learning for Single-Cell Multi-Omics Alignment and Dynamics	https://neurips.cc/virtual/2026/poster/152422	included	对稀疏配对的异步观测学习时滞，并按可靠性蒸馏
 155024	ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both	https://neurips.cc/virtual/2026/poster/155024	pending	-
 150816	AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas	https://neurips.cc/virtual/2026/poster/150816	pending	-
 150426	AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling	https://neurips.cc/virtual/2026/poster/150426	pending	-

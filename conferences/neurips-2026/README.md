@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **629** 篇，暂收录 **557** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **689** 篇，暂收录 **614** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -565,3 +565,60 @@
 | 软件工程 | 代码检索 | [Ask KG Agent: A Multi-Agent Framework for Code Localization Using Code and Knowledge Graphs](cards.md#paper-155386) | 用开发历史补充依赖图以定位维护任务 |
 | 科学机器学习 | 成本敏感评测 | [ASO Atlas 2.0: Evaluating antisense oligonucleotide prediction across the preclinical pipeline](cards.md#paper-139593) | 按阶段成本加权预测价值 |
 | 学习理论 | 推理深度 | [A Solvable Model of Chain-of-Thought in In-Context Learning](cards.md#paper-154777) | 按上下文与预训练覆盖验证最优推理步数 |
+| 图学习 | 稀疏分解 | [A Sparse Low-Rank Biclique Decomposition for Graphs](cards.md#paper-152969) | 用有符号双团保留邻接稀疏性 |
+| 统计学习 | 密度估计 | [A Spectral Framework for Closed-Form Relative Density Estimation](cards.md#paper-152831) | 用特征矩闭式拟合相对对数密度 |
+| Agent安全 | 防御评测 | [ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents](cards.md#paper-139498) | 分别验收执行与澄清状态的信任策略 |
+| 大语言模型 | 量化 | [ASQ: Agent-guided Semantic-aware Quantization for Large Language Models](cards.md#paper-153843) | 按语义相关位置评估通道重要性 |
+| 科学机器学习 | 评测诊断 | [AssayBench: An Assay-Level Virtual Cell Benchmark for LLMs and Agents](cards.md#paper-139516) | 对异质测试组使用统一的排序评价 |
+| 隐私 | 防御审计 | [Assessing Per-Sample Membership Inference Vulnerability without Retraining](cards.md#paper-155925) | 用单模型诊断样本隐私风险 |
+| 生成模型 | 质量评估 | [Assessing Sample Quality in Conditional Generation under Compositional Shift](cards.md#paper-148544) | 缺少目标组合实样时分别核查真实性和属性忠实度 |
+| 统计学习 | 敏感性分析 | [Assessing the robustness of heterogeneous treatment effects in survival analysis under informative censoring](cards.md#paper-149514) | 对信息性删失报告异质治疗效应界 |
+| 多模态学习 | 测试时适配 | [ASSET: Acquisition-Sensitive Subspace Estimation for Test-Time Adaptation of Medical VLMs](cards.md#paper-153026) | 只在采集质量敏感子空间内更新 |
+| 可解释性 | 机制分析 | [Assign and Add: A Mechanistic Study of Compositional Arithmetic](cards.md#paper-153282) | 检查同一内部模块能否跨输入表示复用 |
+| 强化学习 | 人机决策 | [Assistive Dueling Bandits: No-Regret Algorithms for Assisting No-Regret Users](cards.md#paper-148914) | 用用户选择学习候选对而无需看到收益 |
+| 优化 | 稳定性 | [A Stability Analysis of AdamW: Unstable Equilibria and Non-Convergence](cards.md#paper-151341) | 区分优化器固定点与动力学收敛 |
+| 统计学习 | 群体协作 | [A Statistical Framework for Algorithmic Collective Action with Multiple Collectives](cards.md#paper-148932) | 将群体目标一致性纳入效果估计 |
+| 模型理论 | 注意力设计 | [A Statistical Theory of Gated Attention through the Lens of Hierarchical Mixture of Experts](cards.md#paper-153011) | 比较在注意力输出与值映射处放置门控 |
+| 医学影像 | 几何配准 | [A Steerable Deep Network for Model-Free Diffusion MRI Registration](cards.md#paper-156020) | 在原始空间角度域做等变配准 |
+| 多模态学习 | 视频理解 | [As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does](cards.md#paper-152579) | 以对话和画面逐步建立角色身份库 |
+| 大语言模型 | 多任务强化学习 | [ASTOR: Multi-Task Code Reinforcement Learning via Utility-Driven Coordination](cards.md#paper-154519) | 按任务学习价值分别配训练预算和 KL 约束 |
+| 优化 | 在线优化 | [ASTRA: ADMM-Accelerated Topology Reconfiguration for Dynamic Satellite Constellations](cards.md#paper-156042) | 重复约束求解用可控近似内循环 |
+| 训练系统 | 数据流 | [AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs](cards.md#paper-152612) | 将 rollout 服务与训练解耦为独立组件 |
+| 医学教育 | 评测设计 | [A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform](cards.md#paper-139188) | 用逐话语专家参考和交叉盲评定位模拟患者偏差 |
+| 图学习 | 高阶消息传递 | [A Structure-Aware Higher-Order Message Passing Framework on Walk States for Graph Classification](cards.md#paper-150813) | 用游走状态代替全量高阶元组 |
+| 科学机器学习 | 分层计划 | [A Structured LLM Framework for Inorganic Material Synthesis Planning](cards.md#paper-148871) | 用离散类别连接条件选择和步骤生成 |
+| Agent | 奖励塑形 | [A Subgoal-driven RL Framework for Improving Long-Horizon Web Agents](cards.md#paper-151697) | 在正常界面任务中用子目标进度补充终局评分 |
+| 强化学习 | 代理目标 | [A Surrogate Perspective on Convergence of Fixed-Target DQN](cards.md#paper-155836) | 用平滑最大误差减少最坏Bellman残差 |
+| 表征学习 | 向量量化 | [ASVQ: What Reparameterization Is Just Enough for Efficient Codebook Learning?](cards.md#paper-149752) | 先试自适应尺度再增加码本重参数化复杂度 |
+| 推理系统 | 负载均衡 | [AsymHP: Load-Balanced Sparse Attention for Video Diffusion Transformers](cards.md#paper-151792) | 按上一扩散步的密度分配每卡注意力头 |
+| 优化 | 低秩分解 | [Asymmetric Factorization for Low-Rank PSD Learning: When Is the Relaxation Exact ?](cards.md#paper-151704) | 用显式惩罚下界决定能否替换对称分解 |
+| 生成模型 | 流匹配 | [Asymmetric Flow Models](cards.md#paper-156075) | 仅压缩噪声预测，保留全维数据预测 |
+| 推荐系统 | 迁移诊断 | [Asymmetric Generalization in Deep CTR Models: A Block-wise Diagnosis](cards.md#paper-149702) | 分块重调后再决定哪些参数做集成 |
+| 多模态学习 | 模态对齐 | [Asymmetric Hierarchical Anchoring for Robust Audio–Visual Cross-Modal Generalization](cards.md#paper-148414) | 以结构更明确的模态为共享语义锚点 |
+| 隐私保护 | 可逆验证 | [Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition](cards.md#paper-152968) | 分别评估隐私遮蔽和授权恢复 |
+| 音频处理 | 来源认证 | [Asymmetric Phase Coding Audio Watermarking](cards.md#paper-149813) | 将密码学签名和信道抗失真分开验证 |
+| 学习理论 | 缩放规律 | [Asymmetric Scaling Laws from Sparse Features](cards.md#paper-149774) | 稀有特征覆盖不足时先增加数据 |
+| 推理系统 | 流水线加速 | [AsymPipe: Accelerating Large-scale DiTs Image Editing via Asymmetry-Aware Pipeline Parallelism](cards.md#paper-148143) | 把不编辑区域的缓存收益与设备负载一起优化 |
+| 生成模型 | 负向引导 | [Asymptotically Exact Negative Guidance of Diffusion Models via Positive-Unlabeled Learning](cards.md#paper-148530) | 用显式目标分布检查负向引导偏差 |
+| 统计学习 | 序贯推断 | [Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means](cards.md#paper-153874) | 用预测模型提高选取有效鞅因子的效率 |
+| 统计学习 | 差分隐私 | [Asymptotically Optimal Best Arm Identification with Fixed-Budget under Differential Privacy](cards.md#paper-150020) | 按固定预算的隐私输运指数设计采样 |
+| 统计学习 | 序贯推断 | [Asymptotic Anytime-Valid Inference for U-statistics](cards.md#paper-154311) | 先区分U统计量退化性再选置信边界 |
+| 分布式训练 | 异步优化 | [AsyncMesh: Fully Asynchronous Optimization for Data and Pipeline Parallelism](cards.md#paper-155437) | 按并行轴分别补偿参数陈旧 |
+| 大语言模型 | 蒸馏 | [AsyncOPD: How Stale Can On-Policy Distillation Be?](cards.md#paper-156136) | 按 KL 方向选异步估计器 |
+| 视觉 | 分布外检测 | [A Systematic Analysis of Out-of-Distribution Detection Under Representation and Training Paradigm Shifts](cards.md#paper-138908) | 按表征和偏移强度筛置信分数 |
+| 科学机器学习 | 观测推理 | [A systematic evaluation of vision-language models for observational astronomical reasoning tasks](cards.md#paper-139292) | 一维观测先试数表，并额外验算物理理由 |
+| 计算成像 | 多视角检测 | [At FullTilt: Real-Time Open-Set 3D Macromolecule Detection Directly from Tilted 2D Projections](cards.md#paper-154302) | 比较直接用原始投影和先重建体素再检测 |
+| 模型安全 | 防御评测 | [A Theoretical Analysis of Backdoor Learning as Simplicity-Biased Optimization Dynamics](cards.md#paper-151187) | 用表征复测检查清洁微调是否真正消除风险 |
+| 软件工程 | 代码评测 | [A Theoretical Analysis of Test-Driven Code Generation](cards.md#paper-149483) | 代码候选排序先试软功能相似度 |
+| 大语言模型 | 表征机制 | [A Theoretical Analysis of Why Masked Diffusion Models Mitigate the Reversal Curse](cards.md#paper-149727) | 分别检查正反查询是否共享值侧证据 |
+| 视觉 | 长尾学习 | [A Theoretical Bridge Between Long-Tailed Recognition and Continual Learning](cards.md#paper-148638) | 用持续学习方法分阶段学习头尾类别 |
+| Agent | 课程学习 | [A Theoretical Framework for Self-Play Theorem Proving Algorithms](cards.md#paper-152957) | 用语义图上的多样性选择自博弈猜想 |
+| 学习理论 | 在线学习 | [A Theory of Adversary-Directed Online Learning](cards.md#paper-154177) | 已知实例集但顺序可变时使用适配的复杂度量 |
+| 学习理论 | 中间监督 | [A Theory of Online Learning with Autoregressive Chain-of-Thought Reasoning](cards.md#paper-154564) | 按模型类判断轨迹监督能否降低时域依赖 |
+| 计算神经科学 | 动力系统 | [A Theory of Spatial Continuous Attractors in Hopfield Energy Landscapes](cards.md#paper-155828) | 分别学习吸引流形的法向恢复和切向输运 |
+| 学习理论 | 生成覆盖 | [A Theory of Time-Sensitive Language Generation: Sparse Hallucination Beats Mode Collapse](cards.md#paper-154885) | 及时覆盖评测允许单独约束错误率 |
+| 机器学习系统 | 训练预算 | [A Theory of Training Profit-Optimal LLMs](cards.md#paper-152898) | 先判断算力或数据瓶颈再决定新增投入 |
+| 生成模型 | 理论保证 | [A Theory on Flow Matching with Neural Networks](cards.md#paper-152773) | 同时监控速度回归误差和生成分布距离 |
+| 学习理论 | 推理复杂度 | [A Tight Hierarchy For Chain of Thought](cards.md#paper-152637) | 把思维链步数当独立资源量 |
+| 具身智能 | 预测对齐 | [ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection](cards.md#paper-152880) | 先对齐未来观测和动作，再用动作目标控制注入 |
+| 科学机器学习 | 时序对齐 | [ATLAS: Adaptive Temporal Learning for Single-Cell Multi-Omics Alignment and Dynamics](cards.md#paper-152422) | 对稀疏配对的异步观测学习时滞，并按可靠性蒸馏 |
