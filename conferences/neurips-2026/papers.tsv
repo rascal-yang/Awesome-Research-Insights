@@ -3423,66 +3423,66 @@ poster_id	title	paper_url	status	reason
 155697	GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization	https://neurips.cc/virtual/2026/poster/155697	included	用候选方法的连续误差差距学习路由
 149350	GeoSPRINT: Geometric Redundancy-Aware Step Pruning for Inference in Diffusion Trajectories	https://neurips.cc/virtual/2026/poster/149350	included	以离线路径冗余决定采样步数分配
 139481	GeoSym127K: Scalable Symbolically-verifiable Synthesis for Multimodal Geometric Reasoning	https://neurips.cc/virtual/2026/poster/139481	included	用共同符号结构生成图像和可验证推理监督
-152562	GeoTransolver: Learning Physics on Irregular Domains using Multi-scale Geometry Aware Physics Attention Transformer	https://neurips.cc/virtual/2026/poster/152562	pending	-
-149346	GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning	https://neurips.cc/virtual/2026/poster/149346	pending	-
-148633	GeoWorld: A Geometry-First World Model for Reconstruction and Imagination	https://neurips.cc/virtual/2026/poster/148633	pending	-
-154006	GeoX: Mastering Geospatial Reasoning Through Self-Play and Verifiable Rewards	https://neurips.cc/virtual/2026/poster/154006	pending	-
-139012	Get a GRIP, this will be a long TRIP: A Quantifiable Long-Range Framework for Verifying Over-squashing	https://neurips.cc/virtual/2026/poster/139012	pending	-
-139507	gfnx: Fast and Scalable Library for Generative Flow Networks in JAX	https://neurips.cc/virtual/2026/poster/139507	pending	-
-151444	GGQR: Gaussian-Grounded Query Refinement for Feed-Forward 4D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/151444	pending	-
-148812	gHAWK: Structural Encoding for Scalable Training of Graph Neural Networks on Knowledge Graphs	https://neurips.cc/virtual/2026/poster/148812	pending	-
-152747	Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs	https://neurips.cc/virtual/2026/poster/152747	pending	-
-149354	GHOST: Geometry-Hierarchical Online Streaming Token Eviction for Efficient 3D Reconstruction	https://neurips.cc/virtual/2026/poster/149354	pending	-
-153445	Gibbs Gradient Descent: A Langevin Approach to Optimization	https://neurips.cc/virtual/2026/poster/153445	pending	-
-154879	GIFT: Representation Geometry Matters for Single-Domain Generalized Object Detection	https://neurips.cc/virtual/2026/poster/154879	pending	-
-139591	GISA: A Benchmark for General Information-Seeking Assistant	https://neurips.cc/virtual/2026/poster/139591	pending	-
-152787	GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators	https://neurips.cc/virtual/2026/poster/152787	pending	-
-152398	Git Context Controller: Manage the Context of Agents by Agentic Git	https://neurips.cc/virtual/2026/poster/152398	pending	-
-138882	GitInject: Real-World Prompt Injection Attacks in AI-Powered CI/CD Pipelines	https://neurips.cc/virtual/2026/poster/138882	pending	-
-152891	GIVLA: Deep Geometry Internalization for A Lightweight VLA via Geometry Instruction and Gradient-Informed Training	https://neurips.cc/virtual/2026/poster/152891	pending	-
-152133	GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem	https://neurips.cc/virtual/2026/poster/152133	pending	-
-149584	Glance Before You Tell: Anomaly-Guided 3D Radiology Report Generation with Heat-Conduction Slice Encoders	https://neurips.cc/virtual/2026/poster/149584	pending	-
-150150	GLARE: Generating Listening Heads with Appropriate REactions	https://neurips.cc/virtual/2026/poster/150150	pending	-
-154081	GLINT: Sparsely Gated Vision-Language Alignment for Fine-Grained Radiology Representations	https://neurips.cc/virtual/2026/poster/154081	pending	-
-151745	Glob3R: Global Structure-from-Motion with 3D Foundation Models	https://neurips.cc/virtual/2026/poster/151745	pending	-
-153438	Global Context Guidance for Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/153438	pending	-
-154684	Global Convergence in Deep Networks via the Second Law of Thermodynamics	https://neurips.cc/virtual/2026/poster/154684	pending	-
-156667	Global convergence of adjoint-optimized neural PDEs	https://neurips.cc/virtual/2026/poster/156667	pending	-
-151546	Global Convergence of Four-Layer Matrix Factorization under Random Initialization	https://neurips.cc/virtual/2026/poster/151546	pending	-
-153209	Global Importance Estimation for KV Cache Eviction	https://neurips.cc/virtual/2026/poster/153209	pending	-
-151109	Global linear convergence of entropy-regularized softmax policy gradient beyond tabular MDPs	https://neurips.cc/virtual/2026/poster/151109	pending	-
-152447	Global Optimality for Constrained Exploration via Penalty Regularization	https://neurips.cc/virtual/2026/poster/152447	pending	-
-139393	Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures	https://neurips.cc/virtual/2026/poster/139393	pending	-
-151666	GLOBE: Accurate Surrogates for Boundary-Driven PDEs via Domain-Inspired Architectures and Equivariance	https://neurips.cc/virtual/2026/poster/151666	pending	-
-154884	GLOVE: Global Verifier for LLM Memory-Environment Realignment	https://neurips.cc/virtual/2026/poster/154884	pending	-
-152461	GlucoFM: A Dual-Stream Foundation Model for Continuous Glucose Monitoring	https://neurips.cc/virtual/2026/poster/152461	pending	-
-139533	GlucoFM-Bench: Benchmarking Time-Series Foundation Models for Blood Glucose Forecasting	https://neurips.cc/virtual/2026/poster/139533	pending	-
-152961	Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations	https://neurips.cc/virtual/2026/poster/152961	pending	-
-153974	GLUT: 3D Gaussian Lookup Table for Continuous Color Transformation	https://neurips.cc/virtual/2026/poster/153974	pending	-
-150492	GlycoGen: Crystallizing Flows for De Novo Glycan Structure Prediction	https://neurips.cc/virtual/2026/poster/150492	pending	-
-151218	GlyphAnchor: Enhancing Visual Text Rendering via Position-Anchored Glyph Priors	https://neurips.cc/virtual/2026/poster/151218	pending	-
-152097	GMO-E²DIT: Grounded Multi-Operation Editing for E-Commerce Images	https://neurips.cc/virtual/2026/poster/152097	pending	-
-155817	GMOS: Grounding Moving Object Segmentation in 3D Space and Time	https://neurips.cc/virtual/2026/poster/155817	pending	-
-152436	GNES: Neural-Guided Evolutionary Program Search for Interpretable Multi-Agent Control	https://neurips.cc/virtual/2026/poster/152436	pending	-
-151409	GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction	https://neurips.cc/virtual/2026/poster/151409	pending	-
-153765	Goal-Conditioned Supervised Learning for Multi-Objective Recommendation	https://neurips.cc/virtual/2026/poster/153765	pending	-
-154845	GOAT-AL: Pseudo Neural Collapse Guides Adaptive Coverage for All-Budget Active Learning	https://neurips.cc/virtual/2026/poster/154845	pending	-
-148735	Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory	https://neurips.cc/virtual/2026/poster/148735	pending	-
-152922	Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis	https://neurips.cc/virtual/2026/poster/152922	pending	-
-153434	GOLD: Geometric Optimized Latent Diffusion for Structure-Aware RNA Inverse Folding	https://neurips.cc/virtual/2026/poster/153434	pending	-
-155209	GOLD PANNING: Strategic Context Shuffling for Needle-in-Haystack Reasoning	https://neurips.cc/virtual/2026/poster/155209	pending	-
-154056	GOLIATH: Gradient Inversion of Tabular Diffusion Models	https://neurips.cc/virtual/2026/poster/154056	pending	-
-149416	Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers	https://neurips.cc/virtual/2026/poster/149416	pending	-
-150838	GoT: A Game-Theoretic Approach to the Game of Twenty Questions	https://neurips.cc/virtual/2026/poster/150838	pending	-
-151240	G-PAC: Constructing Cohesive Pseudo-Features for Generalizable Physical Adversarial Camouflage	https://neurips.cc/virtual/2026/poster/151240	pending	-
-152654	GPA: General Principled Framework for Linearizing Softmax Attention via KV Cache Approximation	https://neurips.cc/virtual/2026/poster/152654	pending	-
-151988	GPA: Generative Population Annealing for Test-Time Sequence Design with Pretrained Generative Models	https://neurips.cc/virtual/2026/poster/151988	pending	-
-139632	GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing	https://neurips.cc/virtual/2026/poster/139632	pending	-
-156132	GPU-Accelerated Synthesis of Mixed-Boolean Arithmetic: Beyond Caching	https://neurips.cc/virtual/2026/poster/156132	pending	-
-149931	GPU Hierarchy Meets Structured Matrices: Fast Algorithms for State-Space Models	https://neurips.cc/virtual/2026/poster/149931	pending	-
-148527	GraDE: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures	https://neurips.cc/virtual/2026/poster/148527	pending	-
-148456	Gradient-based Graph Structure Optimisation for Research Networks	https://neurips.cc/virtual/2026/poster/148456	pending	-
-153272	Gradient Boosted Trees for Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/153272	pending	-
+152562	GeoTransolver: Learning Physics on Irregular Domains using Multi-scale Geometry Aware Physics Attention Transformer	https://neurips.cc/virtual/2026/poster/152562	included	在每层复用网格几何上下文。
+149346	GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning	https://neurips.cc/virtual/2026/poster/149346	included	对环境感知用规划结果做闭环评估。
+148633	GeoWorld: A Geometry-First World Model for Reconstruction and Imagination	https://neurips.cc/virtual/2026/poster/148633	included	在几何潜空间生成，并通过条件桥接借用视频先验。
+154006	GeoX: Mastering Geospatial Reasoning Through Self-Play and Verifiable Rewards	https://neurips.cc/virtual/2026/poster/154006	included	用程序执行监督空间推理的出题与解题。
+139012	Get a GRIP, this will be a long TRIP: A Quantifiable Long-Range Framework for Verifying Over-squashing	https://neurips.cc/virtual/2026/poster/139012	included	在测长程能力前先排除短程捷径。
+139507	gfnx: Fast and Scalable Library for Generative Flow Networks in JAX	https://neurips.cc/virtual/2026/poster/139507	excluded	主要贡献是用 JAX 整合 GFlowNet 目标和评测环境并提升执行速度。摘要未提供可独立复用的新训练机制或规律。
+151444	GGQR: Gaussian-Grounded Query Refinement for Feed-Forward 4D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/151444	included	按运动一致性复用动态原语并逐轮修正。
+148812	gHAWK: Structural Encoding for Scalable Training of Graph Neural Networks on Knowledge Graphs	https://neurips.cc/virtual/2026/poster/148812	included	对大图预计算互补的局部和全局信号。
+152747	Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs	https://neurips.cc/virtual/2026/poster/152747	included	裁剪层后用少量数据拟合边界激活桥。
+149354	GHOST: Geometry-Hierarchical Online Streaming Token Eviction for Efficient 3D Reconstruction	https://neurips.cc/virtual/2026/poster/149354	included	用几何信息驱动流式缓存淘汰。
+153445	Gibbs Gradient Descent: A Langevin Approach to Optimization	https://neurips.cc/virtual/2026/poster/153445	included	有限粒子估计目标量时比较控制变量降方差。
+154879	GIFT: Representation Geometry Matters for Single-Domain Generalized Object Detection	https://neurips.cc/virtual/2026/poster/154879	included	域泛化时用正交变换保护预训练几何。
+139591	GISA: A Benchmark for General Information-Seeking Assistant	https://neurips.cc/virtual/2026/poster/139591	included	用真实需求设计可持续更新的搜索评测。
+152787	GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators	https://neurips.cc/virtual/2026/poster/152787	included	跨网格迁移时只读稳定的谱关系。
+152398	Git Context Controller: Manage the Context of Agents by Agentic Git	https://neurips.cc/virtual/2026/poster/152398	included	把长程 agent 记忆组织成可分支和回溯的状态。
+138882	GitInject: Real-World Prompt Injection Attacks in AI-Powered CI/CD Pipelines	https://neurips.cc/virtual/2026/poster/138882	included	在 Agent 接入外部数据前验证输入的权限来源。
+152891	GIVLA: Deep Geometry Internalization for A Lightweight VLA via Geometry Instruction and Gradient-Informed Training	https://neurips.cc/virtual/2026/poster/152891	included	根据梯度干扰分阶段联合训练感知与动作。
+152133	GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem	https://neurips.cc/virtual/2026/poster/152133	included	把组合候选枚举改成结构集合检测。
+149584	Glance Before You Tell: Anomaly-Guided 3D Radiology Report Generation with Heat-Conduction Slice Encoders	https://neurips.cc/virtual/2026/poster/149584	included	在语言解码前按异常残差信号压缩多切片证据。
+150150	GLARE: Generating Listening Heads with Appropriate REactions	https://neurips.cc/virtual/2026/poster/150150	included	为交互生成引入事件级训练与时序评价。
+154081	GLINT: Sparsely Gated Vision-Language Alignment for Fine-Grained Radiology Representations	https://neurips.cc/virtual/2026/poster/154081	included	对全局配对监督，采用查询专属稀疏门控并约束局部特征漂移。
+151745	Glob3R: Global Structure-from-Motion with 3D Foundation Models	https://neurips.cc/virtual/2026/poster/151745	included	把分块预测的稠密对应变成跨窗口轨迹，再执行全局位姿优化。
+153438	Global Context Guidance for Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/153438	included	在扩散语言模型的特征空间补充全局上下文引导。
+154684	Global Convergence in Deep Networks via the Second Law of Thermodynamics	https://neurips.cc/virtual/2026/poster/154684	excluded	理论集中于正则化连续时间 Langevin 动力学的收敛条件，摘要未明确可用于实际离散训练的选温依据。
+156667	Global convergence of adjoint-optimized neural PDEs	https://neurips.cc/virtual/2026/poster/156667	excluded	无限宽及无限时极限中的伴随收敛结论未给出当前可采用的有限模型训练选择。
+151546	Global Convergence of Four-Layer Matrix Factorization under Random Initialization	https://neurips.cc/virtual/2026/poster/151546	excluded	四层矩阵分解的条件性保证未抽象出适用于一般深度学习的可操作机制或规律。
+153209	Global Importance Estimation for KV Cache Eviction	https://neurips.cc/virtual/2026/poster/153209	included	用注意力图上的多跳影响替代单步注意力或新近度来决定缓存淘汰。
+151109	Global linear convergence of entropy-regularized softmax policy gradient beyond tabular MDPs	https://neurips.cc/virtual/2026/poster/151109	excluded	线性逼近且价值可实现的梯度流条件较窄，摘要未展示可用于神经网络控制的特征选择验证。
+152447	Global Optimality for Constrained Exploration via Penalty Regularization	https://neurips.cc/virtual/2026/poster/152447	included	用二次惩罚的占用梯度构造伪奖励，沿用标准策略梯度优化器。
+139393	Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures	https://neurips.cc/virtual/2026/poster/139393	included	多语言评测同时设置平行对照和本土原创分组。
+151666	GLOBE: Accurate Surrogates for Boundary-Driven PDEs via Domain-Inspired Architectures and Equivariance	https://neurips.cc/virtual/2026/poster/151666	excluded	边界源核结构主要依赖均匀弱非线性边界驱动假设，摘要未给出与当前多模态或智能体选型的直接可验证联系。
+154884	GLOVE: Global Verifier for LLM Memory-Environment Realignment	https://neurips.cc/virtual/2026/poster/154884	included	让智能体根据新探测的观测更新与当前环境冲突的记忆。
+152461	GlucoFM: A Dual-Stream Foundation Model for Continuous Glucose Monitoring	https://neurips.cc/virtual/2026/poster/152461	excluded	慢状态与快事件分流绑定葡萄糖生理与昼夜网格，摘要未建立可独立迁移的新分解机制。
+139533	GlucoFM-Bench: Benchmarking Time-Series Foundation Models for Blood Glucose Forecasting	https://neurips.cc/virtual/2026/poster/139533	excluded	主要提供血糖预测比较，LSTM 领先和尾部失效结果尚缺跨任务迁移依据。
+152961	Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations	https://neurips.cc/virtual/2026/poster/152961	included	用跨层的改写一致性谱定位可干预的表征方向。
+153974	GLUT: 3D Gaussian Lookup Table for Continuous Color Transformation	https://neurips.cc/virtual/2026/poster/153974	excluded	方法主要服务 RGB 查找表和局部调色，摘要未体现其对当前研究方向的具体取舍。
+150492	GlycoGen: Crystallizing Flows for De Novo Glycan Structure Prediction	https://neurips.cc/virtual/2026/poster/150492	excluded	主要证据集中在特定分子结构注释任务，当前入库优先选跨目标领域证据明确的工作。
+151218	GlyphAnchor: Enhancing Visual Text Rendering via Position-Anchored Glyph Priors	https://neurips.cc/virtual/2026/poster/151218	included	把字形块用生成骨干原生位置编码绑定到画布目标位置。
+152097	GMO-E²DIT: Grounded Multi-Operation Editing for E-Commerce Images	https://neurips.cc/virtual/2026/poster/152097	included	用可核验的区域编辑清单和反思循环实现局部重试。
+155817	GMOS: Grounding Moving Object Segmentation in 3D Space and Time	https://neurips.cc/virtual/2026/poster/155817	excluded	逐时刻运动标注有价值，但摘要未说明独立可复用的三维时序建模机制，且未给出跨任务验证。
+152436	GNES: Neural-Guided Evolutionary Program Search for Interpretable Multi-Agent Control	https://neurips.cc/virtual/2026/poster/152436	included	为可审计多智能体控制器选择图结构引导的程序编辑。
+151409	GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction	https://neurips.cc/virtual/2026/poster/151409	included	将两实体关系评分从独立节点嵌入切换为路径序列编码。
+153765	Goal-Conditioned Supervised Learning for Multi-Objective Recommendation	https://neurips.cc/virtual/2026/poster/153765	included	将离线多目标策略的权衡表示为推理期条件。
+154845	GOAT-AL: Pseudo Neural Collapse Guides Adaptive Coverage for All-Budget Active Learning	https://neurips.cc/virtual/2026/poster/154845	included	以无标签表示成熟度信号决定采样空间何时切换。
+148735	Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory	https://neurips.cc/virtual/2026/poster/148735	included	扩大视频缓存前先校验帧内 token 冗余是否破坏检索。
+152922	Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis	https://neurips.cc/virtual/2026/poster/152922	included	先用代理样本上的梯度归因选少数候选编辑层。
+153434	GOLD: Geometric Optimized Latent Diffusion for Structure-Aware RNA Inverse Folding	https://neurips.cc/virtual/2026/poster/153434	excluded	该工作聚焦 RNA 生成设计，摘要证据不足以支持目标方向中的独立技术选择。
+155209	GOLD PANNING: Strategic Context Shuffling for Needle-in-Haystack Reasoning	https://neurips.cc/virtual/2026/poster/155209	included	给输出接口模型重排文档时利用独立测得的位置敏感性。
+154056	GOLIATH: Gradient Inversion of Tabular Diffusion Models	https://neurips.cc/virtual/2026/poster/154056	excluded	该工作核心为从共享梯度恢复私有训练数据，缺少摘要支持的独立防护机制。
+149416	Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers	https://neurips.cc/virtual/2026/poster/149416	included	对全局注意力分开分配跨帧覆盖和帧内裁剪。
+150838	GoT: A Game-Theoretic Approach to the Game of Twenty Questions	https://neurips.cc/virtual/2026/poster/150838	included	交互诊断中用最坏情况表现筛选问句规划策略。
+151240	G-PAC: Constructing Cohesive Pseudo-Features for Generalizable Physical Adversarial Camouflage	https://neurips.cc/virtual/2026/poster/151240	excluded	该工作核心为对实体环境感知系统的物理规避，缺少摘要支持的独立防护机制。
+152654	GPA: General Principled Framework for Linearizing Softmax Attention via KV Cache Approximation	https://neurips.cc/virtual/2026/poster/152654	included	将注意力替代设计写成有误差分析的 KV 缓存近似。
+151988	GPA: Generative Population Annealing for Test-Time Sequence Design with Pretrained Generative Models	https://neurips.cc/virtual/2026/poster/151988	excluded	该工作聚焦生物序列设计，摘要证据不足以支持目标方向中的独立技术选择。
+139632	GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing	https://neurips.cc/virtual/2026/poster/139632	included	用等规模数据替换区分合成器质量、筛选和指令重标注的贡献。
+156132	GPU-Accelerated Synthesis of Mixed-Boolean Arithmetic: Beyond Caching	https://neurips.cc/virtual/2026/poster/156132	excluded	适用对象为混合布尔算术表达式合成，摘要未呈现深度学习或智能体工作流的迁移验证。
+149931	GPU Hierarchy Meets Structured Matrices: Fast Algorithms for State-Space Models	https://neurips.cc/virtual/2026/poster/149931	included	将并行序列切分长度和算术 tile 解耦，并用结构化分解替代不稳定前缀减法。
+148527	GraDE: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures	https://neurips.cc/virtual/2026/poster/148527	included	将子图典型性评分用于筛选高频架构模式。
+148456	Gradient-based Graph Structure Optimisation for Research Networks	https://neurips.cc/virtual/2026/poster/148456	excluded	结论依赖简化的科研社交网络模拟，未有证据表明能指导实际智能体协作分配。
+153272	Gradient Boosted Trees for Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/153272	included	后续查询树只展开覆盖缺口，并按覆盖改进验收。
 156635	Gradient descent inference in empirical risk minimization	https://neurips.cc/virtual/2026/poster/156635	pending	-
 148429	Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics	https://neurips.cc/virtual/2026/poster/148429	pending	-
 154735	Gradient Descent’s Last Iterate is Often (slightly) Suboptimal	https://neurips.cc/virtual/2026/poster/154735	pending	-

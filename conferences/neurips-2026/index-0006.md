@@ -199,3 +199,46 @@
 | 多模态学习 | 动态路由 | [GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization](cards-0006.md#paper-155697) | 用候选方法的连续误差差距学习路由 |
 | 深度学习 | 扩散推理 | [GeoSPRINT: Geometric Redundancy-Aware Step Pruning for Inference in Diffusion Trajectories](cards-0006.md#paper-149350) | 以离线路径冗余决定采样步数分配 |
 | 多模态学习 | 可验证推理 | [GeoSym127K: Scalable Symbolically-verifiable Synthesis for Multimodal Geometric Reasoning](cards-0006.md#paper-139481) | 用共同符号结构生成图像和可验证推理监督 |
+| 科学机器学习 | 神经算子 | [GeoTransolver: Learning Physics on Irregular Domains using Multi-scale Geometry Aware Physics Attention Transformer](cards-0006.md#paper-152562) | 在每层复用网格几何上下文。 |
+| 具身智能 | 规划与控制 | [GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning](cards-0006.md#paper-149346) | 对环境感知用规划结果做闭环评估。 |
+| 具身智能 | 世界模型 | [GeoWorld: A Geometry-First World Model for Reconstruction and Imagination](cards-0006.md#paper-148633) | 在几何潜空间生成，并通过条件桥接借用视频先验。 |
+| 多模态 | 可验证奖励 | [GeoX: Mastering Geospatial Reasoning Through Self-Play and Verifiable Rewards](cards-0006.md#paper-154006) | 用程序执行监督空间推理的出题与解题。 |
+| 深度学习基础 | 评测设计 | [Get a GRIP, this will be a long TRIP: A Quantifiable Long-Range Framework for Verifying Over-squashing](cards-0006.md#paper-139012) | 在测长程能力前先排除短程捷径。 |
+| 多模态 | 三维重建 | [GGQR: Gaussian-Grounded Query Refinement for Feed-Forward 4D Gaussian Splatting](cards-0006.md#paper-151444) | 按运动一致性复用动态原语并逐轮修正。 |
+| 深度学习基础 | 图学习 | [gHAWK: Structural Encoding for Scalable Training of Graph Neural Networks on Knowledge Graphs](cards-0006.md#paper-148812) | 对大图预计算互补的局部和全局信号。 |
+| 深度学习基础 | 模型压缩 | [Ghosted Layers: Unconstrained Activation Alignment for Recovering Layer-Pruned LLMs](cards-0006.md#paper-152747) | 裁剪层后用少量数据拟合边界激活桥。 |
+| 多模态 | 高效推理 | [GHOST: Geometry-Hierarchical Online Streaming Token Eviction for Efficient 3D Reconstruction](cards-0006.md#paper-149354) | 用几何信息驱动流式缓存淘汰。 |
+| 深度学习基础 | 优化 | [Gibbs Gradient Descent: A Langevin Approach to Optimization](cards-0006.md#paper-153445) | 有限粒子估计目标量时比较控制变量降方差。 |
+| 多模态 | 参数高效微调 | [GIFT: Representation Geometry Matters for Single-Domain Generalized Object Detection](cards-0006.md#paper-154879) | 域泛化时用正交变换保护预训练几何。 |
+| Agent | 评测设计 | [GISA: A Benchmark for General Information-Seeking Assistant](cards-0006.md#paper-139591) | 用真实需求设计可持续更新的搜索评测。 |
+| 深度学习基础 | 图学习 | [GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators](cards-0006.md#paper-152787) | 跨网格迁移时只读稳定的谱关系。 |
+| Agent | 记忆与上下文 | [Git Context Controller: Manage the Context of Agents by Agentic Git](cards-0006.md#paper-152398) | 把长程 agent 记忆组织成可分支和回溯的状态。 |
+| Agent | 安全与可靠性 | [GitInject: Real-World Prompt Injection Attacks in AI-Powered CI/CD Pipelines](cards-0006.md#paper-138882) | 在 Agent 接入外部数据前验证输入的权限来源。 |
+| 具身智能 | 视觉语言动作模型 | [GIVLA: Deep Geometry Internalization for A Lightweight VLA via Geometry Instruction and Gradient-Informed Training](cards-0006.md#paper-152891) | 根据梯度干扰分阶段联合训练感知与动作。 |
+| 科学机器学习 | 结构化预测 | [GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem](cards-0006.md#paper-152133) | 把组合候选枚举改成结构集合检测。 |
+| 多模态 | 视觉证据选择 | [Glance Before You Tell: Anomaly-Guided 3D Radiology Report Generation with Heat-Conduction Slice Encoders](cards-0006.md#paper-149584) | 在语言解码前按异常残差信号压缩多切片证据。 |
+| 多模态 | 生成与交互 | [GLARE: Generating Listening Heads with Appropriate REactions](cards-0006.md#paper-150150) | 为交互生成引入事件级训练与时序评价。 |
+| 多模态学习 | 稀疏区域对齐 | [GLINT: Sparsely Gated Vision-Language Alignment for Fine-Grained Radiology Representations](cards-0006.md#paper-154081) | 对全局配对监督，采用查询专属稀疏门控并约束局部特征漂移。 |
+| 计算机视觉 | 三维重建 | [Glob3R: Global Structure-from-Motion with 3D Foundation Models](cards-0006.md#paper-151745) | 把分块预测的稠密对应变成跨窗口轨迹，再执行全局位姿优化。 |
+| 语言模型 | 扩散推断 | [Global Context Guidance for Diffusion Large Language Models](cards-0006.md#paper-153438) | 在扩散语言模型的特征空间补充全局上下文引导。 |
+| 语言模型 | 推理效率 | [Global Importance Estimation for KV Cache Eviction](cards-0006.md#paper-153209) | 用注意力图上的多跳影响替代单步注意力或新近度来决定缓存淘汰。 |
+| 强化学习 | 约束探索 | [Global Optimality for Constrained Exploration via Penalty Regularization](cards-0006.md#paper-152447) | 用二次惩罚的占用梯度构造伪奖励，沿用标准策略梯度优化器。 |
+| 语言模型 | 评测设计 | [Global PIQA: Evaluating Commonsense Reasoning Across 100+ Languages and Cultures](cards-0006.md#paper-139393) | 多语言评测同时设置平行对照和本土原创分组。 |
+| 智能体 | 记忆更新 | [GLOVE: Global Verifier for LLM Memory-Environment Realignment](cards-0006.md#paper-154884) | 让智能体根据新探测的观测更新与当前环境冲突的记忆。 |
+| 语言模型 | 表征分析 | [Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations](cards-0006.md#paper-152961) | 用跨层的改写一致性谱定位可干预的表征方向。 |
+| 多模态学习 | 视觉文本生成 | [GlyphAnchor: Enhancing Visual Text Rendering via Position-Anchored Glyph Priors](cards-0006.md#paper-151218) | 把字形块用生成骨干原生位置编码绑定到画布目标位置。 |
+| 多模态学习 | 智能体规划 | [GMO-E²DIT: Grounded Multi-Operation Editing for E-Commerce Images](cards-0006.md#paper-152097) | 用可核验的区域编辑清单和反思循环实现局部重试。 |
+| 机器人与具身智能 | 程序搜索 | [GNES: Neural-Guided Evolutionary Program Search for Interpretable Multi-Agent Control](cards-0006.md#paper-152436) | 为可审计多智能体控制器选择图结构引导的程序编辑。 |
+| 图学习 | 路径表征 | [GNNs Meet Sequence Models Along the Shortest-Path: an Expressive Method for Link Prediction](cards-0006.md#paper-151409) | 将两实体关系评分从独立节点嵌入切换为路径序列编码。 |
+| 强化学习与决策 | 目标条件模仿 | [Goal-Conditioned Supervised Learning for Multi-Objective Recommendation](cards-0006.md#paper-153765) | 将离线多目标策略的权衡表示为推理期条件。 |
+| 机器学习 | 主动学习 | [GOAT-AL: Pseudo Neural Collapse Guides Adaptive Coverage for All-Budget Active Learning](cards-0006.md#paper-154845) | 以无标签表示成熟度信号决定采样空间何时切换。 |
+| 多模态学习 | 流式视频记忆 | [Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory](cards-0006.md#paper-148735) | 扩大视频缓存前先校验帧内 token 冗余是否破坏检索。 |
+| 大语言模型 | 知识编辑 | [Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](cards-0006.md#paper-152922) | 先用代理样本上的梯度归因选少数候选编辑层。 |
+| 大语言模型 | 黑盒长上下文检索 | [GOLD PANNING: Strategic Context Shuffling for Needle-in-Haystack Reasoning](cards-0006.md#paper-155209) | 给输出接口模型重排文档时利用独立测得的位置敏感性。 |
+| 计算机视觉 | 注意力稀疏化 | [Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers](cards-0006.md#paper-149416) | 对全局注意力分开分配跨帧覆盖和帧内裁剪。 |
+| 智能体与推理 | 主动提问 | [GoT: A Game-Theoretic Approach to the Game of Twenty Questions](cards-0006.md#paper-150838) | 交互诊断中用最坏情况表现筛选问句规划策略。 |
+| 机器学习系统 | 线性注意力 | [GPA: General Principled Framework for Linearizing Softmax Attention via KV Cache Approximation](cards-0006.md#paper-152654) | 将注意力替代设计写成有误差分析的 KV 缓存近似。 |
+| 多模态学习 | 数据质量消融 | [GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing](cards-0006.md#paper-139632) | 用等规模数据替换区分合成器质量、筛选和指令重标注的贡献。 |
+| 机器学习系统 | 状态空间模型内核 | [GPU Hierarchy Meets Structured Matrices: Fast Algorithms for State-Space Models](cards-0006.md#paper-149931) | 将并行序列切分长度和算术 tile 解耦，并用结构化分解替代不稳定前缀减法。 |
+| 图学习 | 网络结构挖掘 | [GraDE: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures](cards-0006.md#paper-148527) | 将子图典型性评分用于筛选高频架构模式。 |
+| 智能体与推理 | 检索增强生成 | [Gradient Boosted Trees for Retrieval-Augmented Generation](cards-0006.md#paper-153272) | 后续查询树只展开覆盖缺口，并按覆盖改进验收。 |
