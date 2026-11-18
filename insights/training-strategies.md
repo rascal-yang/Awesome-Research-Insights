@@ -172,6 +172,7 @@
 - [新解掩码token的偏好概率比](../conferences/icml-2026/cards/5901-6000.md#zhang26gt-training-strategies) · dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models
 - [高资源安全子网络的定向跨语言训练](../conferences/icml-2026/cards/5901-6000.md#zhang26gx-training-strategies) · Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons
 - [压缩视图训练与原始字节推理](../conferences/icml-2026/cards/6101-6200.md#zheng26e-training-strategies) · Proxy Compression for Language Modeling
+- [先测扰动均值偏移再校正分类logit](../conferences/icml-2026/cards/6101-6200.md#zhou26a-training-strategies) · Harnessing Non-Adversarial Robustness in Large Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -259,6 +260,7 @@
 - [用固定教师锚点对齐增量DETR蒸馏](../conferences/icml-2026/cards/5901-6000.md#zhang26hl-training-strategies) · Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection
 - [先语义压缩再放开像素梯度](../conferences/icml-2026/cards/5901-6000.md#zhang26iw-training-strategies) · Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing
 - [用区间平均速度指导flow蒸馏](../conferences/icml-2026/cards/6001-6100.md#zhao26bx-training-strategies) · Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models
+- [配对spike与surrogate原函数通路做SSL](../conferences/icml-2026/cards/6101-6200.md#zhou26g-training-strategies) · SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks
 
 <a id="by-nlp"></a>
 
@@ -474,6 +476,7 @@
 - [用无标签client分布生成低维个性化参数](../conferences/icml-2026/cards/5601-5700.md#zakerinia26a-training-strategies) · Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions
 - [以permutation VI训练变长插入顺序](../conferences/icml-2026/cards/5901-6000.md#zhang26fx-training-strategies) · Variational Learning for Insertion-based Generation
 - [以谱重建残差调每样本dropout](../conferences/icml-2026/cards/6101-6200.md#zhong26l-training-strategies) · DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting
+- [用共同切空间定义流形平均速度](../conferences/icml-2026/cards/6101-6200.md#zhong26p-training-strategies) · Riemannian MeanFlow for One-Step Generation on Manifolds
 
 <a id="by-graph-and-recommendation"></a>
 

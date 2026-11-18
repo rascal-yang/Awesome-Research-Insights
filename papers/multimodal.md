@@ -153,6 +153,7 @@
 - <a id="qin26a-optimization"></a>[MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](../conferences/icml-2026/cards/3701-3800.md#paper-qin26a)
 - <a id="wang26ca-optimization"></a>[GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ca)
 - <a id="zhao26o-optimization"></a>[When Is Rank-1 Enough? Geometry-Guided Initialization for Parameter-Efficient Fine-Tuning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26o)
+- <a id="zhou26c-optimization"></a>[ImpQuant: Fine-Grained Importance-Aware Quantization for Large Vision-Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26c)
 
 <a id="by-reinforcement-learning"></a>
 

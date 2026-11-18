@@ -668,6 +668,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization](../../conferences/icml-2026/cards/6001-6100.md#zhao26av-theory-statistics) · 中文
 - [From Generalist to Specialist Representation](../../conferences/icml-2026/cards/6001-6100.md#zheng26a-theory-statistics) · 中文
 - [Theoretical Investigation on Inductive Bias of Isolation Forest](../../conferences/icml-2026/cards/6101-6200.md#zheng26ag-theory-statistics) · 中文
+- [Black-Box Assisted Regression: Phase Transitions and Minimax Optimality](../../conferences/icml-2026/cards/6101-6200.md#zhou26b-theory-statistics) · 中文
+- [Deep Neural Network Regression with Functional Covariates](../../conferences/icml-2026/cards/6101-6200.md#zhou26o-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

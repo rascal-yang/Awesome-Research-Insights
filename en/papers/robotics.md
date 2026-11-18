@@ -260,6 +260,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="tang26a-evaluation"></a>[See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26a)
 - <a id="yan26r-evaluation"></a>[Can VLMs Diagnose and Recover from VLA Manipulation Faults?](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26r)
 - <a id="yan26y-evaluation"></a>[CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26y)
+- <a id="zhou26e-evaluation"></a>[Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26e)
 
 <a id="by-theory-statistics"></a>
 

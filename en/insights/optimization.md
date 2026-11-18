@@ -186,6 +186,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26ep-optimization) · 中文
 - [Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL](../../conferences/icml-2026/cards/6001-6100.md#zhao26b-optimization) · 中文
 - [Bilevel Optimization over Saddle Points of Zero-Sum Markov Games](../../conferences/icml-2026/cards/6001-6100.md#zheng26d-optimization) · 中文
+- [Reparameterization Proximal Policy Optimization](../../conferences/icml-2026/cards/6101-6200.md#zhong26r-optimization) · 中文
 
 <a id="by-robotics"></a>
 
@@ -212,6 +213,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](../../conferences/icml-2026/cards/3701-3800.md#qin26a-optimization) · 中文
 - [GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning](../../conferences/icml-2026/cards/4601-4700.md#wang26ca-optimization) · 中文
 - [When Is Rank-1 Enough? Geometry-Guided Initialization for Parameter-Efficient Fine-Tuning](../../conferences/icml-2026/cards/6001-6100.md#zhao26o-optimization) · 中文
+- [ImpQuant: Fine-Grained Importance-Aware Quantization for Large Vision-Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhou26c-optimization) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -490,6 +492,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis](../../conferences/icml-2026/cards/6001-6100.md#zhao26bj-optimization) · 中文
 - [Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](../../conferences/icml-2026/cards/6101-6200.md#zheng26ac-optimization) · 中文
 - [DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhong26j-optimization) · 中文
+- [AdaS: Adaptive Gradient Descent for Spiking Transformers](../../conferences/icml-2026/cards/6101-6200.md#zhou26d-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -502,6 +502,7 @@
 - <a id="zhao26bj-optimization"></a>[Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bj)
 - <a id="zheng26ac-optimization"></a>[Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ac)
 - <a id="zhong26j-optimization"></a>[DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26j)
+- <a id="zhou26d-optimization"></a>[AdaS: Adaptive Gradient Descent for Spiking Transformers](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26d)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -597,6 +598,7 @@
 - <a id="zakerinia26a-training-strategies"></a>[Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions](../conferences/icml-2026/cards/5601-5700.md#paper-zakerinia26a)
 - <a id="zhang26fx-training-strategies"></a>[Variational Learning for Insertion-based Generation](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fx)
 - <a id="zhong26l-training-strategies"></a>[DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26l)
+- <a id="zhong26p-training-strategies"></a>[Riemannian MeanFlow for One-Step Generation on Manifolds](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26p)
 
 <a id="by-data-strategies"></a>
 
@@ -1321,4 +1323,6 @@
 - <a id="zhao26av-theory-statistics"></a>[Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26av)
 - <a id="zheng26a-theory-statistics"></a>[From Generalist to Specialist Representation](../conferences/icml-2026/cards/6001-6100.md#paper-zheng26a)
 - <a id="zheng26ag-theory-statistics"></a>[Theoretical Investigation on Inductive Bias of Isolation Forest](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ag)
+- <a id="zhou26b-theory-statistics"></a>[Black-Box Assisted Regression: Phase Transitions and Minimax Optimality](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26b)
+- <a id="zhou26o-theory-statistics"></a>[Deep Neural Network Regression with Functional Covariates](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26o)
 <!-- classification:end -->

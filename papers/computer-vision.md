@@ -139,6 +139,7 @@
 - <a id="yoshimura26a-modules"></a>[SF-Mamba: Rethinking State Space Model for Vision](../conferences/icml-2026/cards/5501-5600.md#paper-yoshimura26a)
 - <a id="yu26bp-modules"></a>[PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bp)
 - <a id="zhao26bl-modules"></a>[Smoothing Slot Attention Iterations and Recurrences](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bl)
+- <a id="zhou26n-modules"></a>[SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26n)
 
 <a id="by-loss-functions"></a>
 
@@ -357,6 +358,7 @@
 - <a id="zhang26hl-training-strategies"></a>[Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hl)
 - <a id="zhang26iw-training-strategies"></a>[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iw)
 - <a id="zhao26bx-training-strategies"></a>[Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bx)
+- <a id="zhou26g-training-strategies"></a>[SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26g)
 
 <a id="by-data-strategies"></a>
 

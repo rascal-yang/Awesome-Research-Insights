@@ -186,6 +186,7 @@
 - [把独立与团队梯度差作为Lyapunov投影对象](../conferences/icml-2026/cards/5801-5900.md#zhang26ep-optimization) · Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization
 - [交替牺牲单目标与全目标修复来追Pareto前沿](../conferences/icml-2026/cards/6001-6100.md#zhao26b-optimization) · Population-Free Pareto Tracking for Sample-Efficient Multi-Policy MORL
 - [零和下层均衡的NI惩罚梯度](../conferences/icml-2026/cards/6001-6100.md#zheng26d-optimization) · Bilevel Optimization over Saddle Points of Zero-Sum Markov Games
+- [缓存动作梯度以复用可微模拟器反传](../conferences/icml-2026/cards/6101-6200.md#zhong26r-optimization) · Reparameterization Proximal Policy Optimization
 
 <a id="by-robotics"></a>
 
@@ -212,6 +213,7 @@
 - [视觉语言模型的跨模态攻击迁移](../conferences/icml-2026/cards/3701-3800.md#qin26a-optimization) · MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models
 - [缺模态重叠空间协作](../conferences/icml-2026/cards/4601-4700.md#wang26ca-optimization) · GeoEvo: Identity-Aware Potential Game with Geometric Evolution for Personalized Multimodal Federated Learning
 - [用layer模态均值差初始化rank1LoRA](../conferences/icml-2026/cards/6001-6100.md#zhao26o-optimization) · When Is Rank-1 Enough? Geometry-Guided Initialization for Parameter-Efficient Fine-Tuning
+- [按视觉token必要性加权量化重建](../conferences/icml-2026/cards/6101-6200.md#zhou26c-optimization) · ImpQuant: Fine-Grained Importance-Aware Quantization for Large Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -490,6 +492,7 @@
 - [自界定有效网格搜索范围](../conferences/icml-2026/cards/6001-6100.md#zhao26bj-optimization) · Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis
 - [在持续学习梯度中加入polar分量](../conferences/icml-2026/cards/6101-6200.md#zheng26ac-optimization) · Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity
 - [交替目标的共享base与delta优化状态](../conferences/icml-2026/cards/6101-6200.md#zhong26j-optimization) · DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models
+- [按更新偏离代理混合动量与自适应方向](../conferences/icml-2026/cards/6101-6200.md#zhou26d-optimization) · AdaS: Adaptive Gradient Descent for Spiking Transformers
 
 <a id="by-graph-and-recommendation"></a>
 

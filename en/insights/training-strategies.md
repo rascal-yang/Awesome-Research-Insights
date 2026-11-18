@@ -172,6 +172,7 @@ Training schedules, curricula, and task or stage composition.
 - [dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26gt-training-strategies) · 中文
 - [Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons](../../conferences/icml-2026/cards/5901-6000.md#zhang26gx-training-strategies) · 中文
 - [Proxy Compression for Language Modeling](../../conferences/icml-2026/cards/6101-6200.md#zheng26e-training-strategies) · 中文
+- [Harnessing Non-Adversarial Robustness in Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhou26a-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -259,6 +260,7 @@ Training schedules, curricula, and task or stage composition.
 - [Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection](../../conferences/icml-2026/cards/5901-6000.md#zhang26hl-training-strategies) · 中文
 - [Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](../../conferences/icml-2026/cards/5901-6000.md#zhang26iw-training-strategies) · 中文
 - [Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26bx-training-strategies) · 中文
+- [SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks](../../conferences/icml-2026/cards/6101-6200.md#zhou26g-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -474,6 +476,7 @@ Training schedules, curricula, and task or stage composition.
 - [Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions](../../conferences/icml-2026/cards/5601-5700.md#zakerinia26a-training-strategies) · 中文
 - [Variational Learning for Insertion-based Generation](../../conferences/icml-2026/cards/5901-6000.md#zhang26fx-training-strategies) · 中文
 - [DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](../../conferences/icml-2026/cards/6101-6200.md#zhong26l-training-strategies) · 中文
+- [Riemannian MeanFlow for One-Step Generation on Manifolds](../../conferences/icml-2026/cards/6101-6200.md#zhong26p-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

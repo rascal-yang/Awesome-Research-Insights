@@ -388,6 +388,7 @@
 - [区分叙述变化与算法结构变化的代码测试](../conferences/icml-2026/cards/6101-6200.md#zheng26i-evaluation) · UniCode: Augmenting Evaluation for Code Reasoning
 - [用输入扰动后的实体梯度转向筛自信错误](../conferences/icml-2026/cards/6101-6200.md#zhing26a-evaluation) · From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity
 - [在捷径控制下比较ToM后训练](../conferences/icml-2026/cards/6101-6200.md#zhong26i-evaluation) · From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning
+- [多约束代码修改需同时测回归与遵循](../conferences/icml-2026/cards/6101-6200.md#zhong26t-evaluation) · SWE-IF: Aligning Code Evaluation with Human Preference
 
 <a id="by-computer-vision"></a>
 
@@ -533,6 +534,7 @@
 - [主动视角中的置信奖励失效](../conferences/icml-2026/cards/4301-4400.md#tang26a-evaluation) · See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent
 - [静态诊断与闭环修复的分离](../conferences/icml-2026/cards/5301-5400.md#yan26r-evaluation) · Can VLMs Diagnose and Recover from VLA Manipulation Faults?
 - [跨视角保留与子空间adapter路由](../conferences/icml-2026/cards/5301-5400.md#yan26y-evaluation) · CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning
+- [按VLM与动作专家的不同瓶颈选部署优化](../conferences/icml-2026/cards/6101-6200.md#zhou26e-evaluation) · Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment
 
 <a id="by-multimodal"></a>
 

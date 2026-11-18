@@ -124,6 +124,7 @@
 - <a id="yang26ah-modules"></a>[Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ah)
 - <a id="yang26cj-modules"></a>[Inner-layer Token Self-modulation as Another Scaling Axis for LLMs](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cj)
 - <a id="zasada26a-modules"></a>[SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs](../conferences/icml-2026/cards/5601-5700.md#paper-zasada26a)
+- <a id="zhou26k-modules"></a>[KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26k)
 
 <a id="by-loss-functions"></a>
 
@@ -506,6 +507,7 @@
 - <a id="zhang26cm-reinforcement-learning"></a>[D$^2$Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cm)
 - <a id="zhang26io-reinforcement-learning"></a>[Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26io)
 - <a id="zhao26bn-reinforcement-learning"></a>[ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bn)
+- <a id="zhong26q-reinforcement-learning"></a>[Stabilizing Reinforcement Learning for Diffusion Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26q)
 
 <a id="by-training-strategies"></a>
 
@@ -670,6 +672,7 @@
 - <a id="zhang26gt-training-strategies"></a>[dTRPO : Trajectory Reduction in Policy Optimization of Diffusion Large Language Models](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gt)
 - <a id="zhang26gx-training-strategies"></a>[Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gx)
 - <a id="zheng26e-training-strategies"></a>[Proxy Compression for Language Modeling](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26e)
+- <a id="zhou26a-training-strategies"></a>[Harnessing Non-Adversarial Robustness in Large Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26a)
 
 <a id="by-data-strategies"></a>
 
@@ -1549,6 +1552,7 @@
 - <a id="zheng26i-evaluation"></a>[UniCode: Augmenting Evaluation for Code Reasoning](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26i)
 - <a id="zhing26a-evaluation"></a>[From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity](../conferences/icml-2026/cards/6101-6200.md#paper-zhing26a)
 - <a id="zhong26i-evaluation"></a>[From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26i)
+- <a id="zhong26t-evaluation"></a>[SWE-IF: Aligning Code Evaluation with Human Preference](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26t)
 
 <a id="by-theory-statistics"></a>
 

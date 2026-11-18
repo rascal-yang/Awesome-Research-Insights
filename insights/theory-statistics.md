@@ -668,6 +668,8 @@
 - [初始化方向决定对角网络的有符号稀疏偏好](../conferences/icml-2026/cards/6001-6100.md#zhao26av-theory-statistics) · Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization
 - [已观测任务下的稀疏相关表征条件](../conferences/icml-2026/cards/6001-6100.md#zheng26a-theory-statistics) · From Generalist to Specialist Representation
 - [iForest的中心异常盲区与适用维度](../conferences/icml-2026/cards/6101-6200.md#zheng26ag-theory-statistics) · Theoretical Investigation on Inductive Bias of Isolation Forest
+- [按残差难度决定黑盒模型校正或回退](../conferences/icml-2026/cards/6101-6200.md#zhou26b-theory-statistics) · Black-Box Assisted Regression: Phase Transitions and Minimax Optimality
+- [函数型神经回归按谱截断与结构选复杂度](../conferences/icml-2026/cards/6101-6200.md#zhou26o-theory-statistics) · Deep Neural Network Regression with Functional Covariates
 
 <a id="by-graph-and-recommendation"></a>
 

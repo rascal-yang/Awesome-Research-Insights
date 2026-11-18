@@ -60,6 +60,7 @@
 - [无查表trellis计算码](../conferences/icml-2026/cards/5301-5400.md#yang26ah-modules) · Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs
 - [token索引的逐层残差调制向量](../conferences/icml-2026/cards/5401-5500.md#yang26cj-modules) · Inner-layer Token Self-modulation as Another Scaling Axis for LLMs
 - [软topk预算与跨层激活分配](../conferences/icml-2026/cards/5601-5700.md#zasada26a-modules) · SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs
+- [用小双随机矩阵Kronecker积混合残差流](../conferences/icml-2026/cards/6101-6200.md#zhou26k-modules) · KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices
 
 <a id="by-computer-vision"></a>
 
@@ -124,6 +125,7 @@
 - [单扫描交换摘要并折叠短序列batch](../conferences/icml-2026/cards/5501-5600.md#yoshimura26a-modules) · SF-Mamba: Rethinking State Space Model for Vision
 - [随机子空间补投影的压缩扩张层](../conferences/icml-2026/cards/5601-5700.md#yu26bp-modules) · PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$
 - [槽注意力冷启动预热与帧别迭代](../conferences/icml-2026/cards/6001-6100.md#zhao26bl-modules) · Smoothing Slot Attention Iterations and Recurrences
+- [以value脉冲汇聚生成point或channel门控](../conferences/icml-2026/cards/6101-6200.md#zhou26n-modules) · SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing
 
 <a id="by-nlp"></a>
 

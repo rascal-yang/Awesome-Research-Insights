@@ -60,6 +60,7 @@ Reusable components and local changes to model inputs or connections.
 - [Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs](../../conferences/icml-2026/cards/5301-5400.md#yang26ah-modules) · 中文
 - [Inner-layer Token Self-modulation as Another Scaling Axis for LLMs](../../conferences/icml-2026/cards/5401-5500.md#yang26cj-modules) · 中文
 - [SoftMoE: Soft Differentiable Routing for Mixture-of-Experts in LLMs](../../conferences/icml-2026/cards/5601-5700.md#zasada26a-modules) · 中文
+- [KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices](../../conferences/icml-2026/cards/6101-6200.md#zhou26k-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -124,6 +125,7 @@ Reusable components and local changes to model inputs or connections.
 - [SF-Mamba: Rethinking State Space Model for Vision](../../conferences/icml-2026/cards/5501-5600.md#yoshimura26a-modules) · 中文
 - [PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$](../../conferences/icml-2026/cards/5601-5700.md#yu26bp-modules) · 中文
 - [Smoothing Slot Attention Iterations and Recurrences](../../conferences/icml-2026/cards/6001-6100.md#zhao26bl-modules) · 中文
+- [SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing](../../conferences/icml-2026/cards/6101-6200.md#zhou26n-modules) · 中文
 
 <a id="by-nlp"></a>
 

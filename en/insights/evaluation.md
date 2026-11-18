@@ -388,6 +388,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [UniCode: Augmenting Evaluation for Code Reasoning](../../conferences/icml-2026/cards/6101-6200.md#zheng26i-evaluation) · 中文
 - [From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity](../../conferences/icml-2026/cards/6101-6200.md#zhing26a-evaluation) · 中文
 - [From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning](../../conferences/icml-2026/cards/6101-6200.md#zhong26i-evaluation) · 中文
+- [SWE-IF: Aligning Code Evaluation with Human Preference](../../conferences/icml-2026/cards/6101-6200.md#zhong26t-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -533,6 +534,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [See, Act, Adapt: Active Perception for Unsupervised Cross-Domain Visual Adaptation via Personalized VLM-Guided Agent](../../conferences/icml-2026/cards/4301-4400.md#tang26a-evaluation) · 中文
 - [Can VLMs Diagnose and Recover from VLA Manipulation Faults?](../../conferences/icml-2026/cards/5301-5400.md#yan26r-evaluation) · 中文
 - [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning](../../conferences/icml-2026/cards/5301-5400.md#yan26y-evaluation) · 中文
+- [Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment](../../conferences/icml-2026/cards/6101-6200.md#zhou26e-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 
