@@ -935,5 +935,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Long-Term Risks of Risk-Based Allocation](../../conferences/neurips-2026/cards-0008.md#paper-155991)
 - [Looking Through the Mirror: Minimax-Optimal Regularized Regrets in Online Learning and Bandits](../../conferences/neurips-2026/cards-0008.md#paper-150598)
 - [Looped Transformers with Layer Normalization Provably Learn the Power Method](../../conferences/neurips-2026/cards-0008.md#paper-149678)
+- [Low-Dimensional Adaptation of Rectified Flow: A  Diffusion and Stochastic Localization Perspective](../../conferences/neurips-2026/cards-0008.md#paper-155223)
+- [Majority-of-Three is an Optimal PAC Learner](../../conferences/neurips-2026/cards-0008.md#paper-150819)
 
 <!-- conference-classification:end -->

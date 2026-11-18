@@ -934,5 +934,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds](../../conferences/neurips-2026/cards-0008.md#paper-154223)
 - [LookThere! Sparse Vision by Reinforced Selection](../../conferences/neurips-2026/cards-0008.md#paper-151188)
 - [LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute](../../conferences/neurips-2026/cards-0008.md#paper-149223)
+- [LoRaQ: Optimized Low Rank Approximation for 4-bit Quantization](../../conferences/neurips-2026/cards-0008.md#paper-155848)
+- [LoRAtorio: An intrinsic approach to LoRA Skill Composition](../../conferences/neurips-2026/cards-0008.md#paper-153224)
+- [Lost or Hidden? A Concept-Level Forgetting in Supervised Continual Learning](../../conferences/neurips-2026/cards-0008.md#paper-151099)
+- [LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Flow-Based Real-World Super-Resolution](../../conferences/neurips-2026/cards-0008.md#paper-152037)
+- [MACRO: Training-free Multi-plane Attention for Closeup Render Optimization](../../conferences/neurips-2026/cards-0008.md#paper-152798)
+- [Magnitude-preserving Layers Enable Efficient GANs](../../conferences/neurips-2026/cards-0008.md#paper-150733)
+- [MahaVar: OOD Detection via Class-wise Mahalanobis Distance Variance under Neural Collapse](../../conferences/neurips-2026/cards-0008.md#paper-156003)
 
 <!-- conference-classification:end -->

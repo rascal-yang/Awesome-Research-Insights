@@ -728,5 +728,10 @@
 - [LogSTOP: Temporal Scores over Prediction Sequences for Matching and Retrieval](../conferences/neurips-2026/cards-0008.md#paper-156145)
 - [LoMo: Local Modality Substitution for Deeper Vision-Language Fusion](../conferences/neurips-2026/cards-0008.md#paper-154345)
 - [Look Before You Reason: Implicit Visual Thinking for Efficient Multimodal Reasoning](../conferences/neurips-2026/cards-0008.md#paper-149054)
+- [Lost in the Slots: Revisiting Object-Centric Representations in the era of Foundation Models](../conferences/neurips-2026/cards-0008.md#paper-151025)
+- [Lost in Translation, Found in Embeddings: Sign Language Translation and Alignment](../conferences/neurips-2026/cards-0008.md#paper-151496)
+- [LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models](../conferences/neurips-2026/cards-0008.md#paper-153335)
+- [MAEB: Massive Audio Embedding Benchmark](../conferences/neurips-2026/cards-0008.md#paper-139057)
+- [Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension](../conferences/neurips-2026/cards-0008.md#paper-154549)
 
 <!-- conference-classification:end -->

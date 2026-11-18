@@ -331,5 +331,7 @@
 - [Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-151978)
 - [LOCO: Local Light-Aware Object Compositing with Spatially Varying Illumination-Augmented Data](../conferences/neurips-2026/cards-0008.md#paper-153475)
 - [LoMo: Local Modality Substitution for Deeper Vision-Language Fusion](../conferences/neurips-2026/cards-0008.md#paper-154345)
+- [Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees](../conferences/neurips-2026/cards-0008.md#paper-148332)
+- [M$^3$: Reframing Training Measures for Discretized Physical Simulations](../conferences/neurips-2026/cards-0008.md#paper-149542)
 
 <!-- conference-classification:end -->

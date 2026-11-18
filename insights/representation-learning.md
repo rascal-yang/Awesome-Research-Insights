@@ -516,5 +516,8 @@
 - [Local Manifold Identification with Latent Linear Models and OT Flows](../conferences/neurips-2026/cards-0008.md#paper-152505)
 - [LogSig-SSM: Time-Series Modelling with Multi-Scale Log-Signature Compression for State-Space Models](../conferences/neurips-2026/cards-0008.md#paper-149042)
 - [Lookalike3D: Seeing Double in 3D](../conferences/neurips-2026/cards-0008.md#paper-153870)
+- [Machine Unlearning in Low-Dimensional Feature Subspace](../conferences/neurips-2026/cards-0008.md#paper-150810)
+- [Magnetic Resonance Unpaired Image Translation with Pseudometric Schrödinger Bridges](../conferences/neurips-2026/cards-0008.md#paper-152653)
+- [MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation](../conferences/neurips-2026/cards-0008.md#paper-152384)
 
 <!-- conference-classification:end -->

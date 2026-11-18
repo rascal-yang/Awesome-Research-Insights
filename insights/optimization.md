@@ -624,5 +624,11 @@
 - [LOCU: Löwdin-Orthogonalized Constraint Updates for Multi-Constraint Policy Optimization](../conferences/neurips-2026/cards-0008.md#paper-155725)
 - [Log-Averaged Mirror Prox for Fast, Large-Scale Optimal Transport in Linear Space](../conferences/neurips-2026/cards-0008.md#paper-148791)
 - [LoopPrune: Evolutionary Module Selection with Iterative Execution for Efficient Large Language Model Compression](../conferences/neurips-2026/cards-0008.md#paper-153561)
+- [LOSCAR-SGD: Local SGD with Communication-Computation Overlap and Delay-Corrected Sparse Model Averaging](../conferences/neurips-2026/cards-0008.md#paper-149908)
+- [LOTION: Smoothing the Optimization Landscape for Quantized Training](../conferences/neurips-2026/cards-0008.md#paper-150892)
+- [Lower-Level Agnostic Bilevel Optimization](../conferences/neurips-2026/cards-0008.md#paper-149854)
+- [LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models](../conferences/neurips-2026/cards-0008.md#paper-153335)
+- [Machine Learning-Driven RAG System Design](../conferences/neurips-2026/cards-0008.md#paper-155514)
+- [MAdam: Metric-Aware Multi-Objective Adam](../conferences/neurips-2026/cards-0008.md#paper-153932)
 
 <!-- conference-classification:end -->

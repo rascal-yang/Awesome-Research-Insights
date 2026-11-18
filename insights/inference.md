@@ -1156,5 +1156,15 @@
 - [Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds](../conferences/neurips-2026/cards-0008.md#paper-154223)
 - [Look Before You Reason: Implicit Visual Thinking for Efficient Multimodal Reasoning](../conferences/neurips-2026/cards-0008.md#paper-149054)
 - [LookThere! Sparse Vision by Reinforced Selection](../conferences/neurips-2026/cards-0008.md#paper-151188)
+- [LoRaQ: Optimized Low Rank Approximation for 4-bit Quantization](../conferences/neurips-2026/cards-0008.md#paper-155848)
+- [LoRASpace: A Pool-Wide Shared Substrate for Static and Dynamic Multi-LoRA Composition](../conferences/neurips-2026/cards-0008.md#paper-150890)
+- [LoRAtorio: An intrinsic approach to LoRA Skill Composition](../conferences/neurips-2026/cards-0008.md#paper-153224)
+- [LPG: Balancing Efficiency and Policy Reasoning in Latent Policy Guardrails](../conferences/neurips-2026/cards-0008.md#paper-154458)
+- [LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning](../conferences/neurips-2026/cards-0008.md#paper-149284)
+- [MACRO: Training-free Multi-plane Attention for Closeup Render Optimization](../conferences/neurips-2026/cards-0008.md#paper-152798)
+- [MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM](../conferences/neurips-2026/cards-0008.md#paper-149356)
+- [Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension](../conferences/neurips-2026/cards-0008.md#paper-154549)
+- [Majority Bit-Aware Watermarking for Large Language Models](../conferences/neurips-2026/cards-0008.md#paper-150654)
+- [Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction](../conferences/neurips-2026/cards-0008.md#paper-152145)
 
 <!-- conference-classification:end -->

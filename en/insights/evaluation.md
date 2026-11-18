@@ -1348,5 +1348,17 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads](../../conferences/neurips-2026/cards-0008.md#paper-149157)
 - [Long-Lived AI Agents Age Too: They Quietly Decay After Deployment](../../conferences/neurips-2026/cards-0008.md#paper-148330)
 - [Long-Rollout Stability in AI Weather Models: A Quantitative Benchmark and Analysis](../../conferences/neurips-2026/cards-0008.md#paper-139600)
+- [LoRAcles: Self-Supervised Weight-Space Interpretability at Scale](../../conferences/neurips-2026/cards-0008.md#paper-154333)
+- [LoRIF: Low-Rank Influence Functions for Scalable Training Data Attribution](../../conferences/neurips-2026/cards-0008.md#paper-149043)
+- [Loss is Not Behavior: A Unified Output-Space Analysis of Gradient-Based Machine Unlearning](../../conferences/neurips-2026/cards-0008.md#paper-149454)
+- [Lost in the Slots: Revisiting Object-Centric Representations in the era of Foundation Models](../../conferences/neurips-2026/cards-0008.md#paper-151025)
+- [Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild](../../conferences/neurips-2026/cards-0008.md#paper-139093)
+- [Lost or Hidden? A Concept-Level Forgetting in Supervised Continual Learning](../../conferences/neurips-2026/cards-0008.md#paper-151099)
+- [LowRankArena: A Standardized Evaluation Platform for SVD-Based LLM Compression](../../conferences/neurips-2026/cards-0008.md#paper-139091)
+- [Loyalty Capture: Reporting Relationships and Structural Sycophancy in Frontier AI Models](../../conferences/neurips-2026/cards-0008.md#paper-148352)
+- [LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs](../../conferences/neurips-2026/cards-0008.md#paper-139740)
+- [M4Bench: Evaluating Procedural Specification for Clinical EHR Derivation Agents](../../conferences/neurips-2026/cards-0008.md#paper-139625)
+- [MAEB: Massive Audio Embedding Benchmark](../../conferences/neurips-2026/cards-0008.md#paper-139057)
+- [MahaVar: OOD Detection via Class-wise Mahalanobis Distance Variance under Neural Collapse](../../conferences/neurips-2026/cards-0008.md#paper-156003)
 
 <!-- conference-classification:end -->

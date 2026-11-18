@@ -411,5 +411,6 @@
 - [LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning](../conferences/neurips-2026/cards-0008.md#paper-150236)
 - [Long-Term Composition of Human-Object Interactions](../conferences/neurips-2026/cards-0008.md#paper-151462)
 - [Looped Diffusion Language Models](../conferences/neurips-2026/cards-0008.md#paper-152196)
+- [M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling](../conferences/neurips-2026/cards-0008.md#paper-156010)
 
 <!-- conference-classification:end -->

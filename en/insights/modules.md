@@ -368,5 +368,6 @@ Reusable components and local changes to model inputs or connections.
 - [Learnable Spectral Activations](../../conferences/neurips-2026/cards-0007.md#paper-151899)
 - [Localizing and Repairing Sparse-Prompt Failure in SAM Decoders via Box-to-Point Counterfactual](../../conferences/neurips-2026/cards-0008.md#paper-148596)
 - [LoCo: Selective Local Competition for Discriminative Open-Vocabulary Multi-Label Recognition](../../conferences/neurips-2026/cards-0008.md#paper-155077)
+- [Lost in Translation, Found in Embeddings: Sign Language Translation and Alignment](../../conferences/neurips-2026/cards-0008.md#paper-151496)
 
 <!-- conference-classification:end -->

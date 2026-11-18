@@ -736,5 +736,6 @@
 - [LINK: Learning to Localize from Known to Unknown Scenes](../conferences/neurips-2026/cards-0008.md#paper-152490)
 - [LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation](../conferences/neurips-2026/cards-0008.md#paper-151231)
 - [Locating and Repairing Domain Shift in VLM Trajectory Planning](../conferences/neurips-2026/cards-0008.md#paper-156081)
+- [Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild](../conferences/neurips-2026/cards-0008.md#paper-139093)
 
 <!-- conference-classification:end -->

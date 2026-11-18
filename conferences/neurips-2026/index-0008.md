@@ -93,3 +93,51 @@
 | 机器学习基础与统计 | 理论与统计 | [Looped Transformers with Layer Normalization Provably Learn the Power Method](cards-0008.md#paper-149678) | 涉及特征向量迭代的循环模型要单独消融层归一化。 |
 | 强化学习 | 强化学习方法 | [Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery](cards-0008.md#paper-152801) | 从离线专家数据取奖励时先恢复软价值再做 Bellman 校准。 |
 | 大语言模型 | 优化 | [LoopPrune: Evolutionary Module Selection with Iterative Execution for Efficient Large Language Model Compression](cards-0008.md#paper-153561) | 结构剪枝时允许重复保留层，以解耦存储参数与执行深度。 |
+| 大语言模型 | 强化学习方法 | [LoopRPT: Reinforcement Pre-Training for Looped Language Models](cards-0008.md#paper-150580) | 循环语言模型按潜迭代分配强化信号。 |
+| 大语言模型 | 评测与诊断 | [LoRAcles: Self-Supervised Weight-Space Interpretability at Scale](cards-0008.md#paper-154333) | 从微调权重读出的行为线索用于筛查，再做独立行为验证。 |
+| 计算机视觉 | 推理策略 | [LoRaQ: Optimized Low Rank Approximation for 4-bit Quantization](cards-0008.md#paper-155848) | 扩散量化将低秩补偿本身也纳入低比特目标。 |
+| 机器学习基础与统计 | 推理策略 | [LoRASpace: A Pool-Wide Shared Substrate for Static and Dynamic Multi-LoRA Composition](cards-0008.md#paper-150890) | 多 LoRA 合成先测池级子空间重叠。 |
+| 计算机视觉 | 推理策略 | [LoRAtorio: An intrinsic approach to LoRA Skill Composition](cards-0008.md#paper-153224) | 多个生成适配器用局部去噪差异估适配权重。 |
+| 机器学习基础与统计 | 评测与诊断 | [LoRIF: Low-Rank Influence Functions for Scalable Training Data Attribution](cards-0008.md#paper-149043) | 归因系统同时压缩逐例梯度存储和曲率求逆状态。 |
+| 机器学习基础与统计 | 优化 | [LOSCAR-SGD: Local SGD with Communication-Computation Overlap and Delay-Corrected Sparse Model Averaging](cards-0008.md#paper-149908) | 异步本地 SGD 合并旧同步信息时保留并行更新。 |
+| 机器学习基础与统计 | 评测与诊断 | [Loss is Not Behavior: A Unified Output-Space Analysis of Gradient-Based Machine Unlearning](cards-0008.md#paper-149454) | 机器遗忘按重训行为校验，并诊断忘留样本耦合。 |
+| 多模态学习 | 评测与诊断 | [Lost in the Slots: Revisiting Object-Centric Representations in the era of Foundation Models](cards-0008.md#paper-151025) | 给视觉语言模型换对象槽前检查细属性和密集表示损失。 |
+| 多模态学习 | 模块 | [Lost in Translation, Found in Embeddings: Sign Language Translation and Alignment](cards-0008.md#paper-151496) | 手语任务的视觉语言桥用滑动汇聚形成词级表示。 |
+| 机器人学 | 评测与诊断 | [Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild](cards-0008.md#paper-139093) | 户外具身评估同时验收问答与闭环执行。 |
+| 计算机视觉 | 评测与诊断 | [Lost or Hidden? A Concept-Level Forgetting in Supervised Continual Learning](cards-0008.md#paper-151099) | 持续学习遗忘时先测可恢复性再判断是否删除。 |
+| 机器学习基础与统计 | 优化 | [LOTION: Smoothing the Optimization Landscape for Quantized Training](cards-0008.md#paper-150892) | 量化训练优化随机舍入下的预期损失。 |
+| 机器学习基础与统计 | 理论与统计 | [Low-Dimensional Adaptation of Rectified Flow: A  Diffusion and Stochastic Localization Perspective](cards-0008.md#paper-155223) | 流采样按目标内在维数验证时刻离散化。 |
+| 机器学习基础与统计 | 优化 | [Lower-Level Agnostic Bilevel Optimization](cards-0008.md#paper-149854) | 下层只能问出解时对伪超梯度按坐标做响应差分。 |
+| 强化学习 | 强化学习方法 | [Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning](cards-0008.md#paper-151208) | 在线下策略 critic 中用冻结随机基座和低秩更新防过拟合。 |
+| 大语言模型 | 评测与诊断 | [LowRankArena: A Standardized Evaluation Platform for SVD-Based LLM Compression](cards-0008.md#paper-139091) | SVD 压缩比较同时控制骨干、保留率和真实负载。 |
+| 大语言模型 | 训练策略 | [Low-Rank Hierarchical Merging for Efficient  Long-to-Short Reasoning](cards-0008.md#paper-153079) | 推理模型合并按层曲率与任务向量长度分配系数。 |
+| 大语言模型 | 评测与诊断 | [Loyalty Capture: Reporting Relationships and Structural Sycophancy in Frontier AI Models](cards-0008.md#paper-148352) | 组织型助手上线时，用利益冲突的安慰剂对照检验汇报关系是否改变建议。 |
+| 大语言模型 | 推理策略 | [LPG: Balancing Efficiency and Policy Reasoning in Latent Policy Guardrails](cards-0008.md#paper-154458) | 动态防护政策有时延约束时，压缩判定过程并保留被触发的规则引用。 |
+| 大语言模型 | 训练策略 | [LP-RAG: Learning to Retrieve with Link Predictors](cards-0008.md#paper-149466) | 没有真实问答标注的文档 RAG 中，用按块合成查询的链路预测训练检索器。 |
+| 多模态学习 | 优化 | [LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models](cards-0008.md#paper-153335) | 低精度模型同时做低秩分解时，依据任务损失曲率而非局部矩阵误差分配秩。 |
+| 计算机视觉 | 强化学习方法 | [LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Flow-Based Real-World Super-Resolution](cards-0008.md#paper-152037) | 复原策略的同一输入生成多个候选时，先各自标准化保真和观感奖励再合并。 |
+| 机器学习基础与统计 | 数据策略 | [Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees](cards-0008.md#paper-148332) | 差分隐私随机森林中，先生成较深随机树，再以私有层级频次筛剪节点。 |
+| 大语言模型 | 评测与诊断 | [LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs](cards-0008.md#paper-139740) | 诊断事实知识时，交叉核验训练语料暴露、内部可分性与输出表达。 |
+| 大语言模型 | 推理策略 | [LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning](cards-0008.md#paper-149284) | 思考链容易过长时，在候选停止点用模型状态读出准备度，并用共形校准限制错误早退。 |
+| 大语言模型 | 模型架构 | [M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling](cards-0008.md#paper-156010) | 线性循环不足以跟踪离散状态时，尝试在混合模型仅替换少量矩阵态非线性层。 |
+| 科学机器学习 | 数据策略 | [M$^3$: Reframing Training Measures for Discretized Physical Simulations](cards-0008.md#paper-149542) | 非均匀网格上的连续物理学习应检查训练采样测度是否失衡，再考虑增加高分辨率数据。 |
+| 大语言模型 | 训练策略 | [M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models](cards-0008.md#paper-153004) | 合并推理与 Agent 权重时，将增量投影到已知任务特征子空间的零空间。 |
+| 大语言模型 | 评测与诊断 | [M4Bench: Evaluating Procedural Specification for Clinical EHR Derivation Agents](cards-0008.md#paper-139625) | 评估临床派生 Agent 时，应先给出完整可执行规格，再区分包装样式及数据库熟悉度。 |
+| 大语言模型 | 优化 | [Machine Learning-Driven RAG System Design](cards-0008.md#paper-155514) | 先用少量完整运行拟合代理，再筛 RAG 组合。 |
+| 大语言模型 | 训练策略 | [Machine Unlearning in Diffusion LLMs](cards-0008.md#paper-154410) | 扩散语言模型的遗忘训练需在高遮盖条件下验收恢复性。 |
+| 机器学习基础与统计 | 表征学习 | [Machine Unlearning in Low-Dimensional Feature Subspace](cards-0008.md#paper-150810) | 遗忘可只优化保留与遗忘表示的低维投影。 |
+| 科学机器学习 | 训练策略 | [Macrocanonical Generator Networks: data-efficient neural surrogates for amortized physics simulation](cards-0008.md#paper-154192) | 物理替代模拟器在期望中匹配多尺度统计，保留样本浮动。 |
+| 计算机视觉 | 推理策略 | [MACRO: Training-free Multi-plane Attention for Closeup Render Optimization](cards-0008.md#paper-152798) | 近景增强要在编码前按深度做参考尺度匹配。 |
+| 机器学习基础与统计 | 优化 | [MAdam: Metric-Aware Multi-Objective Adam](cards-0008.md#paper-153932) | 多目标方法接 Adam 前校正偏好和预条件几何。 |
+| 多模态学习 | 评测与诊断 | [MAEB: Massive Audio Embedding Benchmark](cards-0008.md#paper-139057) | 音频编码器按声学和语言任务分别选型。 |
+| 大语言模型 | 推理策略 | [MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM](cards-0008.md#paper-149356) | 块扩散的缓存稀疏索引可按首个全遮盖块计算后复用。 |
+| 科学机器学习 | 表征学习 | [Magnetic Resonance Unpaired Image Translation with Pseudometric Schrödinger Bridges](cards-0008.md#paper-152653) | 无配对图像翻译可在显式保持结构的潜空间中运输。 |
+| 科学机器学习 | 表征学习 | [MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation](cards-0008.md#paper-152384) | 生成相关矩阵时分开检验矩阵有效性和亚类统计结构。 |
+| 多模态学习 | 推理策略 | [Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension](cards-0008.md#paper-154549) | 视觉阅读定位正确但读不出时，将证据原文重渲染放大。 |
+| 计算机视觉 | 训练策略 | [Magnitude-preserving Layers Enable Efficient GANs](cards-0008.md#paper-150733) | GAN 训练诊断判别器幅值漂移并控制各层幅度。 |
+| 计算机视觉 | 评测与诊断 | [MahaVar: OOD Detection via Class-wise Mahalanobis Distance Variance under Neural Collapse](cards-0008.md#paper-156003) | OOD 距离评价同时看最小类距离和跨类离散度。 |
+| 大语言模型 | 推理策略 | [Majority Bit-Aware Watermarking for Large Language Models](cards-0008.md#paper-150654) | 水印载荷检测与允许的词元集宽度应分离设计。 |
+| 机器学习基础与统计 | 理论与统计 | [Majority-of-Three is an Optimal PAC Learner](cards-0008.md#paper-150819) | 可实现设定中用三次经验风险最小化的多数投票达到高概率 PAC 最优。 |
+| 大语言模型 | 推理策略 | [Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction](cards-0008.md#paper-152145) | 多层多头缓存的淘汰分数需统一标定后动态竞争。 |
+| 大语言模型 | 训练策略 | [Making LoRA Identifiable: Orthogonal Alignment for Continual Learning](cards-0008.md#paper-155348) | 持续 LoRA 合并前对齐低秩因子的坐标框架。 |
+| 大语言模型 | 训练策略 | [Making Open-Source Text LLM Watermarks Durable Against Merging](cards-0008.md#paper-155690) | 来源水印验收应覆盖正当模型合并后的检测与原任务能力。 |

@@ -4624,67 +4624,67 @@ poster_id	title	paper_url	status	reason
 152801	Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery	https://neurips.cc/virtual/2026/poster/152801	included	从离线专家数据取奖励时先恢复软价值再做 Bellman 校准。
 139665	LoopNav: Benchmarking Spatial Consistency in World Models	https://neurips.cc/virtual/2026/poster/139665	excluded	摘要给出 Minecraft 闭环轨迹与场景图评分，但未比较像素指标和结构评分产生的不同结论，也未给具体世界模型失效证据。
 153561	LoopPrune: Evolutionary Module Selection with Iterative Execution for Efficient Large Language Model Compression	https://neurips.cc/virtual/2026/poster/153561	included	结构剪枝时允许重复保留层，以解耦存储参数与执行深度。
-150580	LoopRPT: Reinforcement Pre-Training for Looped Language Models	https://neurips.cc/virtual/2026/poster/150580	pending	-
-148555	LoopWeaver: Weaving Feedback Loops into Hierarchical Generation under Constraints	https://neurips.cc/virtual/2026/poster/148555	pending	-
-154333	LoRAcles: Self-Supervised Weight-Space Interpretability at Scale	https://neurips.cc/virtual/2026/poster/154333	pending	-
-155848	LoRaQ: Optimized Low Rank Approximation for 4-bit Quantization	https://neurips.cc/virtual/2026/poster/155848	pending	-
-150890	LoRASpace: A Pool-Wide Shared Substrate for Static and Dynamic Multi-LoRA Composition	https://neurips.cc/virtual/2026/poster/150890	pending	-
-153224	LoRAtorio: An intrinsic approach to LoRA Skill Composition	https://neurips.cc/virtual/2026/poster/153224	pending	-
-148974	LoReC: Rethinking Large Language Models for Graph Data Analysis	https://neurips.cc/virtual/2026/poster/148974	pending	-
-149043	LoRIF: Low-Rank Influence Functions for Scalable Training Data Attribution	https://neurips.cc/virtual/2026/poster/149043	pending	-
-149908	LOSCAR-SGD: Local SGD with Communication-Computation Overlap and Delay-Corrected Sparse Model Averaging	https://neurips.cc/virtual/2026/poster/149908	pending	-
-149454	Loss is Not Behavior: A Unified Output-Space Analysis of Gradient-Based Machine Unlearning	https://neurips.cc/virtual/2026/poster/149454	pending	-
-151025	Lost in the Slots: Revisiting Object-Centric Representations in the era of Foundation Models	https://neurips.cc/virtual/2026/poster/151025	pending	-
-151496	Lost in Translation, Found in Embeddings: Sign Language Translation and Alignment	https://neurips.cc/virtual/2026/poster/151496	pending	-
-139093	Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild	https://neurips.cc/virtual/2026/poster/139093	pending	-
-151099	Lost or Hidden? A Concept-Level Forgetting in Supervised Continual Learning	https://neurips.cc/virtual/2026/poster/151099	pending	-
-150892	LOTION: Smoothing the Optimization Landscape for Quantized Training	https://neurips.cc/virtual/2026/poster/150892	pending	-
-155223	Low-Dimensional Adaptation of Rectified Flow: A  Diffusion and Stochastic Localization Perspective	https://neurips.cc/virtual/2026/poster/155223	pending	-
-149854	Lower-Level Agnostic Bilevel Optimization	https://neurips.cc/virtual/2026/poster/149854	pending	-
-151208	Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151208	pending	-
-139091	LowRankArena: A Standardized Evaluation Platform for SVD-Based LLM Compression	https://neurips.cc/virtual/2026/poster/139091	pending	-
-153079	Low-Rank Hierarchical Merging for Efficient  Long-to-Short Reasoning	https://neurips.cc/virtual/2026/poster/153079	pending	-
-148352	Loyalty Capture: Reporting Relationships and Structural Sycophancy in Frontier AI Models	https://neurips.cc/virtual/2026/poster/148352	pending	-
-154458	LPG: Balancing Efficiency and Policy Reasoning in Latent Policy Guardrails	https://neurips.cc/virtual/2026/poster/154458	pending	-
-149466	LP-RAG: Learning to Retrieve with Link Predictors	https://neurips.cc/virtual/2026/poster/149466	pending	-
-138933	LPS-Bench: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios	https://neurips.cc/virtual/2026/poster/138933	pending	-
-148873	LR-V2X: Loss Resilient Collaborative Perception under Low-Bandwidth Communication	https://neurips.cc/virtual/2026/poster/148873	pending	-
-139029	LSC-Parlament: An Automatically Aligned Catalan Sign Language Dataset from Parliament Videos.	https://neurips.cc/virtual/2026/poster/139029	pending	-
-153335	LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models	https://neurips.cc/virtual/2026/poster/153335	pending	-
-152037	LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Flow-Based Real-World Super-Resolution	https://neurips.cc/virtual/2026/poster/152037	pending	-
-148332	Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees	https://neurips.cc/virtual/2026/poster/148332	pending	-
-139740	LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs	https://neurips.cc/virtual/2026/poster/139740	pending	-
-151855	Lyapunov-Driven Optimistic Learning for Online Scheduling with Multi-Stage Tasks	https://neurips.cc/virtual/2026/poster/151855	pending	-
-149284	LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning	https://neurips.cc/virtual/2026/poster/149284	pending	-
-153776	M$^2$E-UAV: A Benchmark and Analysis for Onboard Motion-on-Motion Event-Based Tiny UAV Detection	https://neurips.cc/virtual/2026/poster/153776	pending	-
-156010	M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling	https://neurips.cc/virtual/2026/poster/156010	pending	-
-149542	M$^3$: Reframing Training Measures for Discretized Physical Simulations	https://neurips.cc/virtual/2026/poster/149542	pending	-
-155414	M$^\star$: Every Task Deserves Its Own Memory Harness	https://neurips.cc/virtual/2026/poster/155414	pending	-
-153004	M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models	https://neurips.cc/virtual/2026/poster/153004	pending	-
-149620	M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection	https://neurips.cc/virtual/2026/poster/149620	pending	-
-154607	M3-HNTM: Hyperspherical Multimodal Topic Modeling with Symbolic and Contextual Evidence	https://neurips.cc/virtual/2026/poster/154607	pending	-
-139625	M4Bench: Evaluating Procedural Specification for Clinical EHR Derivation Agents	https://neurips.cc/virtual/2026/poster/139625	pending	-
-155514	Machine Learning-Driven RAG System Design	https://neurips.cc/virtual/2026/poster/155514	pending	-
-154410	Machine Unlearning in Diffusion LLMs	https://neurips.cc/virtual/2026/poster/154410	pending	-
-150810	Machine Unlearning in Low-Dimensional Feature Subspace	https://neurips.cc/virtual/2026/poster/150810	pending	-
-154192	Macrocanonical Generator Networks: data-efficient neural surrogates for amortized physics simulation	https://neurips.cc/virtual/2026/poster/154192	pending	-
-152798	MACRO: Training-free Multi-plane Attention for Closeup Render Optimization	https://neurips.cc/virtual/2026/poster/152798	pending	-
-153932	MAdam: Metric-Aware Multi-Objective Adam	https://neurips.cc/virtual/2026/poster/153932	pending	-
-139057	MAEB: Massive Audio Embedding Benchmark	https://neurips.cc/virtual/2026/poster/139057	pending	-
-149356	MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM	https://neurips.cc/virtual/2026/poster/149356	pending	-
+150580	LoopRPT: Reinforcement Pre-Training for Looped Language Models	https://neurips.cc/virtual/2026/poster/150580	included	循环语言模型按潜迭代分配强化信号。
+148555	LoopWeaver: Weaving Feedback Loops into Hierarchical Generation under Constraints	https://neurips.cc/virtual/2026/poster/148555	excluded	摘要只交代分层规划、可行性过滤和偏好优化的组合，未给反馈如何更新各层的可复用规则。
+154333	LoRAcles: Self-Supervised Weight-Space Interpretability at Scale	https://neurips.cc/virtual/2026/poster/154333	included	从微调权重读出的行为线索用于筛查，再做独立行为验证。
+155848	LoRaQ: Optimized Low Rank Approximation for 4-bit Quantization	https://neurips.cc/virtual/2026/poster/155848	included	扩散量化将低秩补偿本身也纳入低比特目标。
+150890	LoRASpace: A Pool-Wide Shared Substrate for Static and Dynamic Multi-LoRA Composition	https://neurips.cc/virtual/2026/poster/150890	included	多 LoRA 合成先测池级子空间重叠。
+153224	LoRAtorio: An intrinsic approach to LoRA Skill Composition	https://neurips.cc/virtual/2026/poster/153224	included	多个生成适配器用局部去噪差异估适配权重。
+148974	LoReC: Rethinking Large Language Models for Graph Data Analysis	https://neurips.cc/virtual/2026/poster/148974	excluded	摘要只给出重分配注意、注入 FFN 和修正 logits 的方向，没有对应可迁移算子或组件对照。
+149043	LoRIF: Low-Rank Influence Functions for Scalable Training Data Attribution	https://neurips.cc/virtual/2026/poster/149043	included	归因系统同时压缩逐例梯度存储和曲率求逆状态。
+149908	LOSCAR-SGD: Local SGD with Communication-Computation Overlap and Delay-Corrected Sparse Model Averaging	https://neurips.cc/virtual/2026/poster/149908	included	异步本地 SGD 合并旧同步信息时保留并行更新。
+149454	Loss is Not Behavior: A Unified Output-Space Analysis of Gradient-Based Machine Unlearning	https://neurips.cc/virtual/2026/poster/149454	included	机器遗忘按重训行为校验，并诊断忘留样本耦合。
+151025	Lost in the Slots: Revisiting Object-Centric Representations in the era of Foundation Models	https://neurips.cc/virtual/2026/poster/151025	included	给视觉语言模型换对象槽前检查细属性和密集表示损失。
+151496	Lost in Translation, Found in Embeddings: Sign Language Translation and Alignment	https://neurips.cc/virtual/2026/poster/151496	included	手语任务的视觉语言桥用滑动汇聚形成词级表示。
+139093	Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild	https://neurips.cc/virtual/2026/poster/139093	included	户外具身评估同时验收问答与闭环执行。
+151099	Lost or Hidden? A Concept-Level Forgetting in Supervised Continual Learning	https://neurips.cc/virtual/2026/poster/151099	included	持续学习遗忘时先测可恢复性再判断是否删除。
+150892	LOTION: Smoothing the Optimization Landscape for Quantized Training	https://neurips.cc/virtual/2026/poster/150892	included	量化训练优化随机舍入下的预期损失。
+155223	Low-Dimensional Adaptation of Rectified Flow: A  Diffusion and Stochastic Localization Perspective	https://neurips.cc/virtual/2026/poster/155223	included	流采样按目标内在维数验证时刻离散化。
+149854	Lower-Level Agnostic Bilevel Optimization	https://neurips.cc/virtual/2026/poster/149854	included	下层只能问出解时对伪超梯度按坐标做响应差分。
+151208	Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151208	included	在线下策略 critic 中用冻结随机基座和低秩更新防过拟合。
+139091	LowRankArena: A Standardized Evaluation Platform for SVD-Based LLM Compression	https://neurips.cc/virtual/2026/poster/139091	included	SVD 压缩比较同时控制骨干、保留率和真实负载。
+153079	Low-Rank Hierarchical Merging for Efficient  Long-to-Short Reasoning	https://neurips.cc/virtual/2026/poster/153079	included	推理模型合并按层曲率与任务向量长度分配系数。
+148352	Loyalty Capture: Reporting Relationships and Structural Sycophancy in Frontier AI Models	https://neurips.cc/virtual/2026/poster/148352	included	组织型助手上线时，用利益冲突的安慰剂对照检验汇报关系是否改变建议。
+154458	LPG: Balancing Efficiency and Policy Reasoning in Latent Policy Guardrails	https://neurips.cc/virtual/2026/poster/154458	included	动态防护政策有时延约束时，压缩判定过程并保留被触发的规则引用。
+149466	LP-RAG: Learning to Retrieve with Link Predictors	https://neurips.cc/virtual/2026/poster/149466	included	没有真实问答标注的文档 RAG 中，用按块合成查询的链路预测训练检索器。
+138933	LPS-Bench: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios	https://neurips.cc/virtual/2026/poster/138933	excluded	与第 74 批执行状态评估同类，摘要未给出可区分的阶段干预机制。
+148873	LR-V2X: Loss Resilient Collaborative Perception under Low-Bandwidth Communication	https://neurips.cc/virtual/2026/poster/148873	excluded	潜变量重建抗丢包有候选价值，但摘要缺少可复用的空间先验构造和完整通信训练对照细节。
+139029	LSC-Parlament: An Automatically Aligned Catalan Sign Language Dataset from Parliament Videos.	https://neurips.cc/virtual/2026/poster/139029	excluded	自动对齐数据和语言迁移具领域价值，摘要未给出独立对齐操作或错误控制。
+153335	LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models	https://neurips.cc/virtual/2026/poster/153335	included	低精度模型同时做低秩分解时，依据任务损失曲率而非局部矩阵误差分配秩。
+152037	LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Flow-Based Real-World Super-Resolution	https://neurips.cc/virtual/2026/poster/152037	included	复原策略的同一输入生成多个候选时，先各自标准化保真和观感奖励再合并。
+148332	Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees	https://neurips.cc/virtual/2026/poster/148332	included	差分隐私随机森林中，先生成较深随机树，再以私有层级频次筛剪节点。
+139740	LUMOS: Tracing Parametric Knowledge from Training Data to Behavioral Outputs in LLMs	https://neurips.cc/virtual/2026/poster/139740	included	诊断事实知识时，交叉核验训练语料暴露、内部可分性与输出表达。
+151855	Lyapunov-Driven Optimistic Learning for Online Scheduling with Multi-Stage Tasks	https://neurips.cc/virtual/2026/poster/151855	excluded	多阶段调度由队列替代目标与线性乐观估计组合，摘要不足以确定所涉研究可独立复用的分解条件。
+149284	LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning	https://neurips.cc/virtual/2026/poster/149284	included	思考链容易过长时，在候选停止点用模型状态读出准备度，并用共形校准限制错误早退。
+153776	M$^2$E-UAV: A Benchmark and Analysis for Onboard Motion-on-Motion Event-Based Tiny UAV Detection	https://neurips.cc/virtual/2026/poster/153776	excluded	小型目标运动事件基准偏具体感知场景，IMU 简单融合仅提供局部经验。
+156010	M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling	https://neurips.cc/virtual/2026/poster/156010	included	线性循环不足以跟踪离散状态时，尝试在混合模型仅替换少量矩阵态非线性层。
+149542	M$^3$: Reframing Training Measures for Discretized Physical Simulations	https://neurips.cc/virtual/2026/poster/149542	included	非均匀网格上的连续物理学习应检查训练采样测度是否失衡，再考虑增加高分辨率数据。
+155414	M$^\star$: Every Task Deserves Its Own Memory Harness	https://neurips.cc/virtual/2026/poster/155414	excluded	自动改写记忆程序有结果潜力，但摘要未隔离搜索行为与固定强基线的收益。
+153004	M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models	https://neurips.cc/virtual/2026/poster/153004	included	合并推理与 Agent 权重时，将增量投影到已知任务特征子空间的零空间。
+149620	M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional Benchmark and Framework for Industrial Anomaly Detection	https://neurips.cc/virtual/2026/poster/149620	excluded	反思数据和训练整合偏应用，摘要缺少触发及校准机制的独立检验。
+154607	M3-HNTM: Hyperspherical Multimodal Topic Modeling with Symbolic and Contextual Evidence	https://neurips.cc/virtual/2026/poster/154607	excluded	符号和稠密证据分工值得复核，摘要未明确两类证据作用的独立对照。
+139625	M4Bench: Evaluating Procedural Specification for Clinical EHR Derivation Agents	https://neurips.cc/virtual/2026/poster/139625	included	评估临床派生 Agent 时，应先给出完整可执行规格，再区分包装样式及数据库熟悉度。
+155514	Machine Learning-Driven RAG System Design	https://neurips.cc/virtual/2026/poster/155514	included	先用少量完整运行拟合代理，再筛 RAG 组合。
+154410	Machine Unlearning in Diffusion LLMs	https://neurips.cc/virtual/2026/poster/154410	included	扩散语言模型的遗忘训练需在高遮盖条件下验收恢复性。
+150810	Machine Unlearning in Low-Dimensional Feature Subspace	https://neurips.cc/virtual/2026/poster/150810	included	遗忘可只优化保留与遗忘表示的低维投影。
+154192	Macrocanonical Generator Networks: data-efficient neural surrogates for amortized physics simulation	https://neurips.cc/virtual/2026/poster/154192	included	物理替代模拟器在期望中匹配多尺度统计，保留样本浮动。
+152798	MACRO: Training-free Multi-plane Attention for Closeup Render Optimization	https://neurips.cc/virtual/2026/poster/152798	included	近景增强要在编码前按深度做参考尺度匹配。
+153932	MAdam: Metric-Aware Multi-Objective Adam	https://neurips.cc/virtual/2026/poster/153932	included	多目标方法接 Adam 前校正偏好和预条件几何。
+139057	MAEB: Massive Audio Embedding Benchmark	https://neurips.cc/virtual/2026/poster/139057	included	音频编码器按声学和语言任务分别选型。
+149356	MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM	https://neurips.cc/virtual/2026/poster/149356	included	块扩散的缓存稀疏索引可按首个全遮盖块计算后复用。
 150998	MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs	https://neurips.cc/virtual/2026/poster/150998	included	分别检索成功推理和失败纠正，使冻结执行模型随经验增长改进。
-151203	MAGE: Towards Generalizable Multi-timescale EEG Representations	https://neurips.cc/virtual/2026/poster/151203	pending	-
-152653	Magnetic Resonance Unpaired Image Translation with Pseudometric Schrödinger Bridges	https://neurips.cc/virtual/2026/poster/152653	pending	-
-152384	MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation	https://neurips.cc/virtual/2026/poster/152384	pending	-
-154549	Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension	https://neurips.cc/virtual/2026/poster/154549	pending	-
-150733	Magnitude-preserving Layers Enable Efficient GANs	https://neurips.cc/virtual/2026/poster/150733	pending	-
-156003	MahaVar: OOD Detection via Class-wise Mahalanobis Distance Variance under Neural Collapse	https://neurips.cc/virtual/2026/poster/156003	pending	-
-155290	MainFL: Intertemporal Data Valuation for Robust Auction-based Federated Learning	https://neurips.cc/virtual/2026/poster/155290	pending	-
-150654	Majority Bit-Aware Watermarking for Large Language Models	https://neurips.cc/virtual/2026/poster/150654	pending	-
-150819	Majority-of-Three is an Optimal PAC Learner	https://neurips.cc/virtual/2026/poster/150819	pending	-
-152145	Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction	https://neurips.cc/virtual/2026/poster/152145	pending	-
-155348	Making LoRA Identifiable: Orthogonal Alignment for Continual Learning	https://neurips.cc/virtual/2026/poster/155348	pending	-
-155690	Making Open-Source Text LLM Watermarks Durable Against Merging	https://neurips.cc/virtual/2026/poster/155690	pending	-
+151203	MAGE: Towards Generalizable Multi-timescale EEG Representations	https://neurips.cc/virtual/2026/poster/151203	excluded	摘要将多尺度注意和自适应聚合用于 EEG，缺少能明确判定何时选哪个尺度的结果与独立对照。
+152653	Magnetic Resonance Unpaired Image Translation with Pseudometric Schrödinger Bridges	https://neurips.cc/virtual/2026/poster/152653	included	无配对图像翻译可在显式保持结构的潜空间中运输。
+152384	MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation	https://neurips.cc/virtual/2026/poster/152384	included	生成相关矩阵时分开检验矩阵有效性和亚类统计结构。
+154549	Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension	https://neurips.cc/virtual/2026/poster/154549	included	视觉阅读定位正确但读不出时，将证据原文重渲染放大。
+150733	Magnitude-preserving Layers Enable Efficient GANs	https://neurips.cc/virtual/2026/poster/150733	included	GAN 训练诊断判别器幅值漂移并控制各层幅度。
+156003	MahaVar: OOD Detection via Class-wise Mahalanobis Distance Variance under Neural Collapse	https://neurips.cc/virtual/2026/poster/156003	included	OOD 距离评价同时看最小类距离和跨类离散度。
+155290	MainFL: Intertemporal Data Valuation for Robust Auction-based Federated Learning	https://neurips.cc/virtual/2026/poster/155290	excluded	组合已有同行激励、可靠度跟踪及分层拍卖，摘要未将组件收益拆开验证，主要适用于带期限的专门市场设定。
+150654	Majority Bit-Aware Watermarking for Large Language Models	https://neurips.cc/virtual/2026/poster/150654	included	水印载荷检测与允许的词元集宽度应分离设计。
+150819	Majority-of-Three is an Optimal PAC Learner	https://neurips.cc/virtual/2026/poster/150819	included	可实现设定中用三次经验风险最小化的多数投票达到高概率 PAC 最优。
+152145	Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction	https://neurips.cc/virtual/2026/poster/152145	included	多层多头缓存的淘汰分数需统一标定后动态竞争。
+155348	Making LoRA Identifiable: Orthogonal Alignment for Continual Learning	https://neurips.cc/virtual/2026/poster/155348	included	持续 LoRA 合并前对齐低秩因子的坐标框架。
+155690	Making Open-Source Text LLM Watermarks Durable Against Merging	https://neurips.cc/virtual/2026/poster/155690	included	来源水印验收应覆盖正当模型合并后的检测与原任务能力。
 149991	Malicious Node Injection: A Transferable Adversarial Attack on GNN Fairness	https://neurips.cc/virtual/2026/poster/149991	pending	-
 150684	Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning	https://neurips.cc/virtual/2026/poster/150684	pending	-
 150767	Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields	https://neurips.cc/virtual/2026/poster/150767	pending	-

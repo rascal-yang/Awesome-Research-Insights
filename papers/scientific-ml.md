@@ -552,5 +552,9 @@
 - [LLM-ACES: Closed-Loop Discovery of Dynamic Systems with LLM-Guided Adaptive Search](../conferences/neurips-2026/cards-0008.md#paper-155346)
 - [LLMs can construct powerful representations and streamline sample-efficient supervised learning](../conferences/neurips-2026/cards-0008.md#paper-153045)
 - [Long-Rollout Stability in AI Weather Models: A Quantitative Benchmark and Analysis](../conferences/neurips-2026/cards-0008.md#paper-139600)
+- [M$^3$: Reframing Training Measures for Discretized Physical Simulations](../conferences/neurips-2026/cards-0008.md#paper-149542)
+- [Macrocanonical Generator Networks: data-efficient neural surrogates for amortized physics simulation](../conferences/neurips-2026/cards-0008.md#paper-154192)
+- [Magnetic Resonance Unpaired Image Translation with Pseudometric Schrödinger Bridges](../conferences/neurips-2026/cards-0008.md#paper-152653)
+- [MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation](../conferences/neurips-2026/cards-0008.md#paper-152384)
 
 <!-- conference-classification:end -->

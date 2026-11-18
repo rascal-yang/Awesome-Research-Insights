@@ -573,5 +573,8 @@
 - [Local Policy Manifolds for Efficient Multi-Objective Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-149916)
 - [Look-ahead Variational Flow for Generative Online Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-154685)
 - [Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery](../conferences/neurips-2026/cards-0008.md#paper-152801)
+- [LoopRPT: Reinforcement Pre-Training for Looped Language Models](../conferences/neurips-2026/cards-0008.md#paper-150580)
+- [Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-151208)
+- [LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Flow-Based Real-World Super-Resolution](../conferences/neurips-2026/cards-0008.md#paper-152037)
 
 <!-- conference-classification:end -->

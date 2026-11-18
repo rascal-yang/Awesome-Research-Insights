@@ -592,5 +592,6 @@
 - [Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities](../conferences/neurips-2026/cards-0008.md#paper-151973)
 - [Look-ahead Variational Flow for Generative Online Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-154685)
 - [Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery](../conferences/neurips-2026/cards-0008.md#paper-152801)
+- [Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-151208)
 
 <!-- conference-classification:end -->

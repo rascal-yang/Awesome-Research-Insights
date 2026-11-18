@@ -2193,5 +2193,16 @@
 - [Looking Through the Mirror: Minimax-Optimal Regularized Regrets in Online Learning and Bandits](../conferences/neurips-2026/cards-0008.md#paper-150598)
 - [Loop alignment: Self-organized Weight Transpose in Predictive Coding through Independent Hebbian Plasticity.](../conferences/neurips-2026/cards-0008.md#paper-148287)
 - [Looped Transformers with Layer Normalization Provably Learn the Power Method](../conferences/neurips-2026/cards-0008.md#paper-149678)
+- [LoRASpace: A Pool-Wide Shared Substrate for Static and Dynamic Multi-LoRA Composition](../conferences/neurips-2026/cards-0008.md#paper-150890)
+- [LoRIF: Low-Rank Influence Functions for Scalable Training Data Attribution](../conferences/neurips-2026/cards-0008.md#paper-149043)
+- [LOSCAR-SGD: Local SGD with Communication-Computation Overlap and Delay-Corrected Sparse Model Averaging](../conferences/neurips-2026/cards-0008.md#paper-149908)
+- [Loss is Not Behavior: A Unified Output-Space Analysis of Gradient-Based Machine Unlearning](../conferences/neurips-2026/cards-0008.md#paper-149454)
+- [LOTION: Smoothing the Optimization Landscape for Quantized Training](../conferences/neurips-2026/cards-0008.md#paper-150892)
+- [Low-Dimensional Adaptation of Rectified Flow: A  Diffusion and Stochastic Localization Perspective](../conferences/neurips-2026/cards-0008.md#paper-155223)
+- [Lower-Level Agnostic Bilevel Optimization](../conferences/neurips-2026/cards-0008.md#paper-149854)
+- [Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees](../conferences/neurips-2026/cards-0008.md#paper-148332)
+- [Machine Unlearning in Low-Dimensional Feature Subspace](../conferences/neurips-2026/cards-0008.md#paper-150810)
+- [MAdam: Metric-Aware Multi-Objective Adam](../conferences/neurips-2026/cards-0008.md#paper-153932)
+- [Majority-of-Three is an Optimal PAC Learner](../conferences/neurips-2026/cards-0008.md#paper-150819)
 
 <!-- conference-classification:end -->

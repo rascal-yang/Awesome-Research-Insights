@@ -715,5 +715,13 @@ Training schedules, curricula, and task or stage composition.
 - [LOFT: Low-Rank Orthogonal Fine-Tuning via Task-Aware Support Selection](../../conferences/neurips-2026/cards-0008.md#paper-154983)
 - [LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute](../../conferences/neurips-2026/cards-0008.md#paper-149223)
 - [Loop alignment: Self-organized Weight Transpose in Predictive Coding through Independent Hebbian Plasticity.](../../conferences/neurips-2026/cards-0008.md#paper-148287)
+- [Low-Rank Hierarchical Merging for Efficient  Long-to-Short Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-153079)
+- [LP-RAG: Learning to Retrieve with Link Predictors](../../conferences/neurips-2026/cards-0008.md#paper-149466)
+- [M2A: Synergizing Mathematical and Agentic Reasoning in Large Language Models](../../conferences/neurips-2026/cards-0008.md#paper-153004)
+- [Machine Unlearning in Diffusion LLMs](../../conferences/neurips-2026/cards-0008.md#paper-154410)
+- [Macrocanonical Generator Networks: data-efficient neural surrogates for amortized physics simulation](../../conferences/neurips-2026/cards-0008.md#paper-154192)
+- [Magnitude-preserving Layers Enable Efficient GANs](../../conferences/neurips-2026/cards-0008.md#paper-150733)
+- [Making LoRA Identifiable: Orthogonal Alignment for Continual Learning](../../conferences/neurips-2026/cards-0008.md#paper-155348)
+- [Making Open-Source Text LLM Watermarks Durable Against Merging](../../conferences/neurips-2026/cards-0008.md#paper-155690)
 
 <!-- conference-classification:end -->
