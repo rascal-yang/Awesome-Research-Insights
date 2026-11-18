@@ -103,6 +103,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26ki-optimization) · 中文
 - [PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA](../../conferences/icml-2026/cards/4801-4900.md#wang26kp-optimization) · 中文
 - [FOAM: Blocked State Folding for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/4901-5000.md#wen26h-optimization) · 中文
+- [Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows](../../conferences/icml-2026/cards/5101-5200.md#xi26g-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 

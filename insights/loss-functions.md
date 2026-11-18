@@ -197,6 +197,7 @@
 - [因果学生的逐帧流速度蒸馏](../conferences/icml-2026/cards/4801-4900.md#wang26iv-loss-functions) · REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation
 - [生成跨模态锚点约束遗忘边界](../conferences/icml-2026/cards/4801-4900.md#wang26ja-loss-functions) · Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning
 - [安全偏好样本的对比梯度修正](../conferences/icml-2026/cards/5001-5100.md#wu26w-loss-functions) · Towards Seed-Robust Safety Alignment in Text-to-Image Models
+- [共享模型文本引导视觉推理](../conferences/icml-2026/cards/5001-5100.md#xi26c-loss-functions) · Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression
 
 <a id="by-ml-foundations"></a>
 

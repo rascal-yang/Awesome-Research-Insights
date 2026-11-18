@@ -455,6 +455,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reason with Thumbnails, Answer with Focus: An Efficient and Effective Paradigm for Multimodal Grounded Visual Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26hh-reinforcement-learning) · 中文
 - [Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](../../conferences/icml-2026/cards/4801-4900.md#wang26ip-reinforcement-learning) · 中文
 - [Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning](../../conferences/icml-2026/cards/4801-4900.md#wang26ji-reinforcement-learning) · 中文
+- [Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding](../../conferences/icml-2026/cards/5001-5100.md#xi26a-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

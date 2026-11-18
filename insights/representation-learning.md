@@ -126,6 +126,7 @@
 - [给行为相似度加逐对正定几何](../conferences/icml-2026/cards/3801-3900.md#roh26a-representation-learning) · PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning
 - [轨迹上界约束的非对称距离](../conferences/icml-2026/cards/4201-4300.md#steccanella26a-representation-learning) · Learning the Minimum Action Distance
 - [从自采目标轨迹摊销推断意图](../conferences/icml-2026/cards/4901-5000.md#wantlin26a-representation-learning) · Consistent Zero-Shot Imitation with Contrastive Goal Inference
+- [非对称子集目标兼容性](../conferences/icml-2026/cards/5001-5100.md#wurzberger26a-representation-learning) · Hierarchical Goal Abstractions via Learned Subset Relations
 
 <a id="by-robotics"></a>
 
@@ -266,6 +267,7 @@
 - [压缩轴与时间轴共同流匹配](../conferences/icml-2026/cards/4901-5000.md#wei26d-representation-learning) · Dynamic Compression Flows for Neuroscience Data
 - [群运算电路的聚类诊断](../conferences/icml-2026/cards/4901-5000.md#wei26s-representation-learning) · Deep neural networks divide and conquer dihedral multiplication
 - [排序保真的量化感知向量压缩](../conferences/icml-2026/cards/4901-5000.md#winter26a-representation-learning) · Learning Compressed Shape-Aware Molecular Representations for Virtual Screening
+- [受限残差码扰动与粗细生成](../conferences/icml-2026/cards/5001-5100.md#wustl26a-representation-learning) · Q-Tab: Quantized Tabular Data Generator
 
 <a id="by-graph-and-recommendation"></a>
 

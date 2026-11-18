@@ -116,6 +116,7 @@
 - <a id="wang26iv-loss-functions"></a>[REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iv)
 - <a id="wang26ja-loss-functions"></a>[Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ja)
 - <a id="wu26w-loss-functions"></a>[Towards Seed-Robust Safety Alignment in Text-to-Image Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26w)
+- <a id="xi26c-loss-functions"></a>[Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression](../conferences/icml-2026/cards/5001-5100.md#paper-xi26c)
 
 <a id="by-optimization"></a>
 
@@ -192,6 +193,7 @@
 - <a id="wang26hh-reinforcement-learning"></a>[Reason with Thumbnails, Answer with Focus: An Efficient and Effective Paradigm for Multimodal Grounded Visual Reasoning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26hh)
 - <a id="wang26ip-reinforcement-learning"></a>[Navigating Massive Visual Context in Retrieval-Augmented Generation via Multimodal Memory Graph](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ip)
 - <a id="wang26ji-reinforcement-learning"></a>[Bad Seeing or Bad Thinking? Rewarding Perception for Multimodal Reasoning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ji)
+- <a id="xi26a-reinforcement-learning"></a>[Video-BCI: Bayesian Cognitive Integration of Self-Prior Hypotheses for Video Understanding](../conferences/icml-2026/cards/5001-5100.md#paper-xi26a)
 
 <a id="by-training-strategies"></a>
 
@@ -522,6 +524,7 @@
 - <a id="wang26cf-evaluation"></a>[Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cf)
 - <a id="wang26fm-evaluation"></a>[Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fm)
 - <a id="wu26am-evaluation"></a>[The Mechanistic Emergence of Symbol Grounding in Language Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26am)
+- <a id="xi26e-evaluation"></a>[Large Vision-Language Models Get Lost in Attention](../conferences/icml-2026/cards/5001-5100.md#paper-xi26e)
 
 <a id="by-theory-statistics"></a>
 

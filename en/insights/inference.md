@@ -336,6 +336,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#wen26l-inference) · 中文
 - [KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization](../../conferences/icml-2026/cards/4901-5000.md#wiedemann26a-inference) · 中文
 - [Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation](../../conferences/icml-2026/cards/5001-5100.md#wu26cc-inference) · 中文
+- [Controlling the Risk of Corrupted Contexts for Language Models via Early-Exiting](../../conferences/icml-2026/cards/5001-5100.md#wynn26a-inference) · 中文
+- [LoSA: Locality Aware Sparse Attention in Diffusion Language Models](../../conferences/icml-2026/cards/5001-5100.md#xi26d-inference) · 中文
+- [LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding](../../conferences/icml-2026/cards/5101-5200.md#xia26f-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -454,6 +457,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Exploring Data-Free LoRA Transferability for Video Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#wang26ll-inference) · 中文
 - [Solving Inverse Problems with Flow-based Models via Model Predictive Control](../../conferences/icml-2026/cards/4901-5000.md#webber26a-inference) · 中文
 - [Letting Trajectories Spread: Quality-Preserving Control for Diverse Flow Matching](../../conferences/icml-2026/cards/5001-5100.md#wu26be-inference) · 中文
+- [Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization](../../conferences/icml-2026/cards/5001-5100.md#xi26f-inference) · 中文
+- [Factored Classifier-Free Guidance](../../conferences/icml-2026/cards/5101-5200.md#xia26b-inference) · 中文
+- [Boost the Identity-Preserving Embedding for Consistent Visual Generation](../../conferences/icml-2026/cards/5101-5200.md#xia26i-inference) · 中文
 
 <a id="by-nlp"></a>
 

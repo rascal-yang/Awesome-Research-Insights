@@ -126,6 +126,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning](../../conferences/icml-2026/cards/3801-3900.md#roh26a-representation-learning) · 中文
 - [Learning the Minimum Action Distance](../../conferences/icml-2026/cards/4201-4300.md#steccanella26a-representation-learning) · 中文
 - [Consistent Zero-Shot Imitation with Contrastive Goal Inference](../../conferences/icml-2026/cards/4901-5000.md#wantlin26a-representation-learning) · 中文
+- [Hierarchical Goal Abstractions via Learned Subset Relations](../../conferences/icml-2026/cards/5001-5100.md#wurzberger26a-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 
@@ -266,6 +267,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Dynamic Compression Flows for Neuroscience Data](../../conferences/icml-2026/cards/4901-5000.md#wei26d-representation-learning) · 中文
 - [Deep neural networks divide and conquer dihedral multiplication](../../conferences/icml-2026/cards/4901-5000.md#wei26s-representation-learning) · 中文
 - [Learning Compressed Shape-Aware Molecular Representations for Virtual Screening](../../conferences/icml-2026/cards/4901-5000.md#winter26a-representation-learning) · 中文
+- [Q-Tab: Quantized Tabular Data Generator](../../conferences/icml-2026/cards/5001-5100.md#wustl26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

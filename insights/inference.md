@@ -336,6 +336,9 @@
 - [算术分解探针与宽容一致性检查](../conferences/icml-2026/cards/4901-5000.md#wen26l-inference) · The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models
 - [进化转移历史指导内核搜索](../conferences/icml-2026/cards/4901-5000.md#wiedemann26a-inference) · KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization
 - [通信DAG的有符号贡献回传](../conferences/icml-2026/cards/5001-5100.md#wu26cc-inference) · Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation
+- [相对零样本风险的早退](../conferences/icml-2026/cards/5001-5100.md#wynn26a-inference) · Controlling the Risk of Corrupted Contexts for Language Models via Early-Exiting
+- [扩散语言模型的稳定query复用](../conferences/icml-2026/cards/5001-5100.md#xi26d-inference) · LoSA: Locality Aware Sparse Attention in Diffusion Language Models
+- [内核延迟旋转的单副本文档KV](../conferences/icml-2026/cards/5101-5200.md#xia26f-inference) · LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding
 
 <a id="by-computer-vision"></a>
 
@@ -454,6 +457,9 @@
 - [视频LoRA迁移的谱块仲裁](../conferences/icml-2026/cards/4901-5000.md#wang26ll-inference) · Exploring Data-Free LoRA Transferability for Video Diffusion Models
 - [滚动重规划流控制的预算选择](../conferences/icml-2026/cards/4901-5000.md#webber26a-inference) · Solving Inverse Problems with Flow-based Models via Model Predictive Control
 - [投影后的集合多样性引导](../conferences/icml-2026/cards/5001-5100.md#wu26be-inference) · Letting Trajectories Spread: Quality-Preserving Control for Diverse Flow Matching
+- [分块多级中心残差KV量化](../conferences/icml-2026/cards/5001-5100.md#xi26f-inference) · Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization
+- [分属性组的classifier-free guidance](../conferences/icml-2026/cards/5101-5200.md#xia26b-inference) · Factored Classifier-Free Guidance
+- [跨提示谱增强与同值多键attention](../conferences/icml-2026/cards/5101-5200.md#xia26i-inference) · Boost the Identity-Preserving Embedding for Consistent Visual Generation
 
 <a id="by-nlp"></a>
 

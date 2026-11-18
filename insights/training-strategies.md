@@ -149,6 +149,7 @@
 - [预训练末期平坦化改善学习遗忘前沿](../conferences/icml-2026/cards/4901-5000.md#watts26a-training-strategies) · Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting
 - [可执行任务的自博弈验证](../conferences/icml-2026/cards/4901-5000.md#wei26x-training-strategies) · Toward Training Superintelligent Software Agents through Self-Play SWE-RL
 - [摘要条件短程RL与回放](../conferences/icml-2026/cards/5001-5100.md#wu26as-training-strategies) · Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL
+- [高分歧软提示的定向遗忘修复](../conferences/icml-2026/cards/5101-5200.md#xia26j-training-strategies) · Adversarial Latent Embedding Repair for LLM Continual Learning
 
 <a id="by-computer-vision"></a>
 

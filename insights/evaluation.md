@@ -344,6 +344,7 @@
 - [推理打断与中途更正规则](../conferences/icml-2026/cards/5001-5100.md#wu26ao-evaluation) · Are Large Reasoning Models Interruptible?
 - [表述翻译改善不等于表征融合](../conferences/icml-2026/cards/5001-5100.md#wu26bc-evaluation) · Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing
 - [拒答随机不稳定区的联合诊断](../conferences/icml-2026/cards/5001-5100.md#wu26bw-evaluation) · Furina: Fragmented Uncertainty-Driven Refusal Instability Attack
+- [代理难度泛化与接口迁移分离](../conferences/icml-2026/cards/5001-5100.md#xi26b-evaluation) · Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study
 
 <a id="by-computer-vision"></a>
 
@@ -560,6 +561,7 @@
 - [无害音频的跨模态安全干扰](../conferences/icml-2026/cards/4601-4700.md#wang26cf-evaluation) · Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models
 - [视觉压缩的安全与效用权衡](../conferences/icml-2026/cards/4701-4800.md#wang26fm-evaluation) · Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs
 - [环境到词汇的信息聚合定位](../conferences/icml-2026/cards/5001-5100.md#wu26am-evaluation) · The Mechanistic Emergence of Symbol Grounding in Language Models
+- [视觉attention评分的受限替换诊断](../conferences/icml-2026/cards/5001-5100.md#xi26e-evaluation) · Large Vision-Language Models Get Lost in Attention
 
 <a id="by-ml-foundations"></a>
 
@@ -678,4 +680,5 @@
 - [从工具依赖图合成带修复轨迹](../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents
 - [rate-whitened-observable-alignment](../conferences/icml-2026/cards/4501-4600.md#ugalde26a-evaluation) · A Geometric Lens on Physics-Aligned Data Compression
 - [按训练区间选择SciML优化器](../conferences/icml-2026/cards/4601-4700.md#wang26cc-evaluation) · Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization
+- [几何探针指导算子重注入](../conferences/icml-2026/cards/5101-5200.md#xia26a-evaluation) · Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning
 <!-- classification:end -->

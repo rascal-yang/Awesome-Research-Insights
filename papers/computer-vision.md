@@ -128,6 +128,8 @@
 - <a id="wang26hx-modules"></a>[Butterworth as Attention: Anisotropic Spectral Gating for Pansharpening](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hx)
 - <a id="wang26iy-modules"></a>[Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iy)
 - <a id="wei26y-modules"></a>[Return of Frustratingly Easy Unsupervised Video Domain Adaptation](../conferences/icml-2026/cards/4901-5000.md#paper-wei26y)
+- <a id="xia26c-modules"></a>[EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Video Generation](../conferences/icml-2026/cards/5101-5200.md#paper-xia26c)
+- <a id="xia26h-modules"></a>[Towards Scalable and Consistent 3D Editing](../conferences/icml-2026/cards/5101-5200.md#paper-xia26h)
 
 <a id="by-loss-functions"></a>
 
@@ -340,6 +342,7 @@
 - <a id="wang26hc-data-strategies"></a>[Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning](../conferences/icml-2026/cards/4701-4800.md#paper-wang26hc)
 - <a id="wei26ad-data-strategies"></a>[PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing](../conferences/icml-2026/cards/4901-5000.md#paper-wei26ad)
 - <a id="wu26aq-data-strategies"></a>[Motion Attribution for Video Generation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26aq)
+- <a id="xia26g-data-strategies"></a>[DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery](../conferences/icml-2026/cards/5101-5200.md#paper-xia26g)
 
 <a id="by-inference"></a>
 
@@ -458,6 +461,9 @@
 - <a id="wang26ll-inference"></a>[Exploring Data-Free LoRA Transferability for Video Diffusion Models](../conferences/icml-2026/cards/4901-5000.md#paper-wang26ll)
 - <a id="webber26a-inference"></a>[Solving Inverse Problems with Flow-based Models via Model Predictive Control](../conferences/icml-2026/cards/4901-5000.md#paper-webber26a)
 - <a id="wu26be-inference"></a>[Letting Trajectories Spread: Quality-Preserving Control for Diverse Flow Matching](../conferences/icml-2026/cards/5001-5100.md#paper-wu26be)
+- <a id="xi26f-inference"></a>[Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization](../conferences/icml-2026/cards/5001-5100.md#paper-xi26f)
+- <a id="xia26b-inference"></a>[Factored Classifier-Free Guidance](../conferences/icml-2026/cards/5101-5200.md#paper-xia26b)
+- <a id="xia26i-inference"></a>[Boost the Identity-Preserving Embedding for Consistent Visual Generation](../conferences/icml-2026/cards/5101-5200.md#paper-xia26i)
 
 <a id="by-representation-learning"></a>
 

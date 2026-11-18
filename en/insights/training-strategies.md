@@ -149,6 +149,7 @@ Training schedules, curricula, and task or stage composition.
 - [Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting](../../conferences/icml-2026/cards/4901-5000.md#watts26a-training-strategies) · 中文
 - [Toward Training Superintelligent Software Agents through Self-Play SWE-RL](../../conferences/icml-2026/cards/4901-5000.md#wei26x-training-strategies) · 中文
 - [Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](../../conferences/icml-2026/cards/5001-5100.md#wu26as-training-strategies) · 中文
+- [Adversarial Latent Embedding Repair for LLM Continual Learning](../../conferences/icml-2026/cards/5101-5200.md#xia26j-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

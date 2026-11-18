@@ -197,6 +197,7 @@ Objectives, auxiliary supervision, and regularization.
 - [REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation](../../conferences/icml-2026/cards/4801-4900.md#wang26iv-loss-functions) · 中文
 - [Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](../../conferences/icml-2026/cards/4801-4900.md#wang26ja-loss-functions) · 中文
 - [Towards Seed-Robust Safety Alignment in Text-to-Image Models](../../conferences/icml-2026/cards/5001-5100.md#wu26w-loss-functions) · 中文
+- [Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression](../../conferences/icml-2026/cards/5001-5100.md#xi26c-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

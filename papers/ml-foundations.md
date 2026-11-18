@@ -685,6 +685,7 @@
 - <a id="wei26d-representation-learning"></a>[Dynamic Compression Flows for Neuroscience Data](../conferences/icml-2026/cards/4901-5000.md#paper-wei26d)
 - <a id="wei26s-representation-learning"></a>[Deep neural networks divide and conquer dihedral multiplication](../conferences/icml-2026/cards/4901-5000.md#paper-wei26s)
 - <a id="winter26a-representation-learning"></a>[Learning Compressed Shape-Aware Molecular Representations for Virtual Screening](../conferences/icml-2026/cards/4901-5000.md#paper-winter26a)
+- <a id="wustl26a-representation-learning"></a>[Q-Tab: Quantized Tabular Data Generator](../conferences/icml-2026/cards/5001-5100.md#paper-wustl26a)
 
 <a id="by-evaluation"></a>
 

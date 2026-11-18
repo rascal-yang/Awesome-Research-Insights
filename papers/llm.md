@@ -260,6 +260,7 @@
 - <a id="wang26ki-optimization"></a>[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ki)
 - <a id="wang26kp-optimization"></a>[PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kp)
 - <a id="wen26h-optimization"></a>[FOAM: Blocked State Folding for Memory-Efficient LLM Training](../conferences/icml-2026/cards/4901-5000.md#paper-wen26h)
+- <a id="xi26g-optimization"></a>[Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows](../conferences/icml-2026/cards/5101-5200.md#paper-xi26g)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -582,6 +583,7 @@
 - <a id="watts26a-training-strategies"></a>[Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting](../conferences/icml-2026/cards/4901-5000.md#paper-watts26a)
 - <a id="wei26x-training-strategies"></a>[Toward Training Superintelligent Software Agents through Self-Play SWE-RL](../conferences/icml-2026/cards/4901-5000.md#paper-wei26x)
 - <a id="wu26as-training-strategies"></a>[Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](../conferences/icml-2026/cards/5001-5100.md#paper-wu26as)
+- <a id="xia26j-training-strategies"></a>[Adversarial Latent Embedding Repair for LLM Continual Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xia26j)
 
 <a id="by-data-strategies"></a>
 
@@ -992,6 +994,9 @@
 - <a id="wen26l-inference"></a>[The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models](../conferences/icml-2026/cards/4901-5000.md#paper-wen26l)
 - <a id="wiedemann26a-inference"></a>[KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization](../conferences/icml-2026/cards/4901-5000.md#paper-wiedemann26a)
 - <a id="wu26cc-inference"></a>[Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cc)
+- <a id="wynn26a-inference"></a>[Controlling the Risk of Corrupted Contexts for Language Models via Early-Exiting](../conferences/icml-2026/cards/5001-5100.md#paper-wynn26a)
+- <a id="xi26d-inference"></a>[LoSA: Locality Aware Sparse Attention in Diffusion Language Models](../conferences/icml-2026/cards/5001-5100.md#paper-xi26d)
+- <a id="xia26f-inference"></a>[LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding](../conferences/icml-2026/cards/5101-5200.md#paper-xia26f)
 
 <a id="by-representation-learning"></a>
 
@@ -1350,6 +1355,7 @@
 - <a id="wu26ao-evaluation"></a>[Are Large Reasoning Models Interruptible?](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ao)
 - <a id="wu26bc-evaluation"></a>[Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bc)
 - <a id="wu26bw-evaluation"></a>[Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bw)
+- <a id="xi26b-evaluation"></a>[Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study](../conferences/icml-2026/cards/5001-5100.md#paper-xi26b)
 
 <a id="by-theory-statistics"></a>
 

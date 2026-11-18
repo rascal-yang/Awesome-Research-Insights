@@ -112,6 +112,8 @@
 - [输入条件化各向异性频域门](../conferences/icml-2026/cards/4801-4900.md#wang26hx-modules) · Butterworth as Attention: Anisotropic Spectral Gating for Pansharpening
 - [饱和局部像素差作为编辑痕迹](../conferences/icml-2026/cards/4801-4900.md#wang26iy-modules) · Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization
 - [静态不变分支相减](../conferences/icml-2026/cards/4901-5000.md#wei26y-modules) · Return of Frustratingly Easy Unsupervised Video Domain Adaptation
+- [非稀疏视频head的帧块原型复用](../conferences/icml-2026/cards/5101-5200.md#xia26c-modules) · EchoAttention: Exploiting Token-Pair Redundancy and Frame-Block Similarity for Efficient Video Generation
+- [两时间源特征的三维编辑引导](../conferences/icml-2026/cards/5101-5200.md#xia26h-modules) · Towards Scalable and Consistent 3D Editing
 
 <a id="by-nlp"></a>
 

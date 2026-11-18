@@ -344,6 +344,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Are Large Reasoning Models Interruptible?](../../conferences/icml-2026/cards/5001-5100.md#wu26ao-evaluation) · 中文
 - [Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing](../../conferences/icml-2026/cards/5001-5100.md#wu26bc-evaluation) · 中文
 - [Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](../../conferences/icml-2026/cards/5001-5100.md#wu26bw-evaluation) · 中文
+- [Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study](../../conferences/icml-2026/cards/5001-5100.md#xi26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -560,6 +561,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26cf-evaluation) · 中文
 - [Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26fm-evaluation) · 中文
 - [The Mechanistic Emergence of Symbol Grounding in Language Models](../../conferences/icml-2026/cards/5001-5100.md#wu26am-evaluation) · 中文
+- [Large Vision-Language Models Get Lost in Attention](../../conferences/icml-2026/cards/5001-5100.md#xi26e-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -678,4 +680,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents](../../conferences/icml-2026/cards/4001-4100.md#shen26aa-evaluation) · 中文
 - [A Geometric Lens on Physics-Aligned Data Compression](../../conferences/icml-2026/cards/4501-4600.md#ugalde26a-evaluation) · 中文
 - [Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization](../../conferences/icml-2026/cards/4601-4700.md#wang26cc-evaluation) · 中文
+- [Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning](../../conferences/icml-2026/cards/5101-5200.md#xia26a-evaluation) · 中文
 <!-- classification:end -->
