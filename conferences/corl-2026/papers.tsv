@@ -5,11 +5,11 @@ number	openreview_id	title	paper_url	reason	status
 4	5TiiTY1fK3	MEM: Multi-Scale Embodied Memory for Vision Language Action Models	https://openreview.net/forum?id=5TiiTY1fK3	将短时运动和遮挡信息保留在视频记忆，把已完成的长时语义事件写入摘要。	included
 5	Q6xWLHyg6x	MolmoAct2: Action Reasoning Models for Real-World Deployment	https://openreview.net/forum?id=Q6xWLHyg6x		pending
 6	QwpnI3BlwT	PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations	https://openreview.net/forum?id=QwpnI3BlwT		pending
-7	YTw6LOO9C5	Semantic Anchoring for Robotic Action Representations	https://openreview.net/forum?id=YTw6LOO9C5		pending
+7	YTw6LOO9C5	Semantic Anchoring for Robotic Action Representations	https://openreview.net/forum?id=YTw6LOO9C5	微调时分开保护可迁移语义与动作专有信息	included
 8	HmdwOezjlQ	When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs	https://openreview.net/forum?id=HmdwOezjlQ	固定场景替换可执行指令，分测语言落地与任务成功；对照有无无条件动作预测的引导。	included
 9	4RLjGPEfpH	ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation	https://openreview.net/forum?id=4RLjGPEfpH	跨本体零样本评测应分开报告目标机器人完全未见和仅预训练已见两种协议。	included
 10	cfzFrOJmKA	Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization	https://openreview.net/forum?id=cfzFrOJmKA		pending
-11	NHE9q2cz1n	RoboTTT: Context Scaling for Robot Policies	https://openreview.net/forum?id=NHE9q2cz1n		pending
+11	NHE9q2cz1n	RoboTTT: Context Scaling for Robot Policies	https://openreview.net/forum?id=NHE9q2cz1n	用快速权重压缩长历史并做上下文长度对照	included
 12	5XKFwWrW0v	π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities	https://openreview.net/forum?id=5XKFwWrW0v		pending
 13	f9grq4Ncx9	Memory-augmented Action-conditioned World Model for Robot Manipulation	https://openreview.net/forum?id=f9grq4Ncx9		pending
 14	FVZKpmPHV8	TEMPO: Learning Temporal Context for Dynamic Robot Manipulation	https://openreview.net/forum?id=FVZKpmPHV8	分别用场景运动和本体历史解决两类单帧歧义	included
