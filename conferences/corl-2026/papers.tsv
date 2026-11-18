@@ -57,7 +57,7 @@ number	openreview_id	title	paper_url	reason	status
 56	PEWWDUL10X	OmniGuide: Universal Spatial Guidance Fields for Enhancing Generalist Robot Policies	https://openreview.net/forum?id=PEWWDUL10X	用统一三维能量接口接入不同来源的空间引导	included
 57	wKRawikMuG	Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models	https://openreview.net/forum?id=wKRawikMuG	为力觉、触觉与力矩建立独立传感流并预测未来反馈	included
 58	0HnCTHL4fw	Towards Human-like Physical Intelligence: Lifelong Vision-Language-Action Learning for Robotic Manipulation	https://openreview.net/forum?id=0HnCTHL4fw	分开短期适配和长期巩固并限制回放存储	included
-59	0PThTAIwPD	Trust-Calibrated VLA Policy Post-Training with Evolving Imagination	https://openreview.net/forum?id=0PThTAIwPD		pending
+59	0PThTAIwPD	Trust-Calibrated VLA Policy Post-Training with Evolving Imagination	https://openreview.net/forum?id=0PThTAIwPD	按世界模型可靠性调整想象比例、长度和样本权重	included
 60	n31eEof0k3	Long-Horizon Manipulation via Trace-Conditioned VLA Planning	https://openreview.net/forum?id=n31eEof0k3	让高层每轮重算剩余步骤并用二维轨迹指引短程执行	included
 61	aPppmSJzb5	TRACE: Trajectory-Routed Causal Memory for Delayed-Evidence Visuomotor Imitation	https://openreview.net/forum?id=aPppmSJzb5	用已执行轨迹给早期视觉证据建立检索键	included
 62	TTJ3uxLcxL	Chameleon: Control-Indexed Prospective Memory for Visuomotor Manipulation	https://openreview.net/forum?id=TTJ3uxLcxL	在最终画面相同的条件下分测记忆决策和实际执行	included
@@ -82,7 +82,7 @@ number	openreview_id	title	paper_url	reason	status
 81	hvArz6F8eA	Probing Collision Grounding in Vision-Language Models for Safe Human–Robot Collaboration	https://openreview.net/forum?id=hvArz6F8eA	分开测当前接触与提前预警，并按碰撞对象分层	included
 82	rAyG2MJka5	STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction	https://openreview.net/forum?id=rAyG2MJka5	先在时空交互图上自监督，再用少量社会行为标签训练读出头	included
 83	VnF3D7ia9Y	Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection	https://openreview.net/forum?id=VnF3D7ia9Y		pending
-84	nXfwmrzXzz	An Agentic Framework for Proactive Robots with Procedural Assistance Memory	https://openreview.net/forum?id=nXfwmrzXzz		pending
+84	nXfwmrzXzz	An Agentic Framework for Proactive Robots with Procedural Assistance Memory	https://openreview.net/forum?id=nXfwmrzXzz	把个性化帮助规则写成可修订的事件状态机	included
 85	v4QUDwGroQ	COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance	https://openreview.net/forum?id=v4QUDwGroQ		pending
 86	m0Zqqi9Lfr	AI Coaching for Accelerating Human Skill Development with Reinforcement Learning	https://openreview.net/forum?id=m0Zqqi9Lfr		pending
 87	xWoyO2BPcl	RoboAffect: Egocentric Emotion Reasoning for Robot Companions in Shared Viewing	https://openreview.net/forum?id=xWoyO2BPcl		pending
