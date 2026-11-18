@@ -385,6 +385,7 @@
 - <a id="wang26gz-inference"></a>[Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gz)
 - <a id="wang26kd-inference"></a>[OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kd)
 - <a id="wu26at-inference"></a>[REVIS: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26at)
+- <a id="xian26c-inference"></a>[Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration](../conferences/icml-2026/cards/5101-5200.md#paper-xian26c)
 
 <a id="by-representation-learning"></a>
 

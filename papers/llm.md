@@ -997,6 +997,8 @@
 - <a id="wynn26a-inference"></a>[Controlling the Risk of Corrupted Contexts for Language Models via Early-Exiting](../conferences/icml-2026/cards/5001-5100.md#paper-wynn26a)
 - <a id="xi26d-inference"></a>[LoSA: Locality Aware Sparse Attention in Diffusion Language Models](../conferences/icml-2026/cards/5001-5100.md#paper-xi26d)
 - <a id="xia26f-inference"></a>[LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding](../conferences/icml-2026/cards/5101-5200.md#paper-xia26f)
+- <a id="xian26a-inference"></a>[VIA-SD: Verification via Intra-Model Routing for Speculative Decoding](../conferences/icml-2026/cards/5101-5200.md#paper-xian26a)
+- <a id="xiang26e-inference"></a>[Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26e)
 
 <a id="by-representation-learning"></a>
 
@@ -1356,6 +1358,8 @@
 - <a id="wu26bc-evaluation"></a>[Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bc)
 - <a id="wu26bw-evaluation"></a>[Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bw)
 - <a id="xi26b-evaluation"></a>[Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study](../conferences/icml-2026/cards/5001-5100.md#paper-xi26b)
+- <a id="xiang26b-evaluation"></a>[Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26b)
+- <a id="xiao26g-evaluation"></a>[How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26g)
 
 <a id="by-theory-statistics"></a>
 

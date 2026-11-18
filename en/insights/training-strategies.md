@@ -414,6 +414,7 @@ Training schedules, curricula, and task or stage composition.
 - [Learning Credal Ensembles via Distributionally Robust Optimization](../../conferences/icml-2026/cards/4601-4700.md#wang26bc-training-strategies) · 中文
 - [Robust Sequential Experimental Design for A/B Testing](../../conferences/icml-2026/cards/4901-5000.md#wen26i-training-strategies) · 中文
 - [Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity](../../conferences/icml-2026/cards/5001-5100.md#wu26z-training-strategies) · 中文
+- [Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn](../../conferences/icml-2026/cards/5101-5200.md#xiao26b-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

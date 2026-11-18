@@ -339,6 +339,8 @@
 - [相对零样本风险的早退](../conferences/icml-2026/cards/5001-5100.md#wynn26a-inference) · Controlling the Risk of Corrupted Contexts for Language Models via Early-Exiting
 - [扩散语言模型的稳定query复用](../conferences/icml-2026/cards/5001-5100.md#xi26d-inference) · LoSA: Locality Aware Sparse Attention in Diffusion Language Models
 - [内核延迟旋转的单副本文档KV](../conferences/icml-2026/cards/5101-5200.md#xia26f-inference) · LazyAttention: Efficient Retrieval-Augmented Generation with Deferred Positional Encoding
+- [有损三级验证的共享子模型](../conferences/icml-2026/cards/5101-5200.md#xian26a-inference) · VIA-SD: Verification via Intra-Model Routing for Speculative Decoding
+- [保留上下文的局部重验](../conferences/icml-2026/cards/5101-5200.md#xiang26e-inference) · Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding
 
 <a id="by-computer-vision"></a>
 
@@ -544,6 +546,7 @@
 - [视觉动作模型剪枝](../conferences/icml-2026/cards/4801-4900.md#wang26jj-inference) · SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning
 - [动作空间拼块后重编码细化](../conferences/icml-2026/cards/4901-5000.md#wang26lj-inference) · Learning High-Frequency Continuous Action Chunks in Latent Space
 - [世界模型代理约束的动作跳步](../conferences/icml-2026/cards/5001-5100.md#wu26bt-inference) · Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation
+- [按曲线形状选频谱对焦范围](../conferences/icml-2026/cards/5101-5200.md#xiang26f-inference) · Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration
 
 <a id="by-multimodal"></a>
 
@@ -644,6 +647,7 @@
 - [最优传输虚拟原型引导真实视觉token选取](../conferences/icml-2026/cards/4701-4800.md#wang26gz-inference) · Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation
 - [按层谱与模态密度分配token预算](../conferences/icml-2026/cards/4801-4900.md#wang26kd-inference) · OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models
 - [正交方向与单层风险门控](../conferences/icml-2026/cards/5001-5100.md#wu26at-inference) · REVIS: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models
+- [以attention后验混合位置偏置](../conferences/icml-2026/cards/5101-5200.md#xian26c-inference) · Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration
 
 <a id="by-ml-foundations"></a>
 
@@ -699,6 +703,7 @@
 - [重要性有效样本数设剪枝预算](../conferences/icml-2026/cards/4601-4700.md#wang26bp-inference) · Effective Model Pruning : Measuring the Redundancy of Model Components
 - [跨层微批次MoE调度](../conferences/icml-2026/cards/5001-5100.md#wu26o-inference) · EasyBalance: Cross-Layer Load Balancing in Distributed MoE Inference
 - [按上下文分组选择保形集合大小](../conferences/icml-2026/cards/5001-5100.md#wu26aa-inference) · Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets
+- [用可微软表达树引导符号扩散](../conferences/icml-2026/cards/5101-5200.md#xiang26d-inference) · MOD-SR: Unifying Multimodal Learning and Direct Optimization with Gradient-Guided Diffusion Model for Symbolic Regression
 
 <a id="by-graph-and-recommendation"></a>
 

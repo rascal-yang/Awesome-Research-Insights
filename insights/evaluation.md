@@ -345,6 +345,8 @@
 - [表述翻译改善不等于表征融合](../conferences/icml-2026/cards/5001-5100.md#wu26bc-evaluation) · Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing
 - [拒答随机不稳定区的联合诊断](../conferences/icml-2026/cards/5001-5100.md#wu26bw-evaluation) · Furina: Fragmented Uncertainty-Driven Refusal Instability Attack
 - [代理难度泛化与接口迁移分离](../conferences/icml-2026/cards/5001-5100.md#xi26b-evaluation) · Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study
+- [遗忘需跨语言和可逆性联测](../conferences/icml-2026/cards/5101-5200.md#xiang26b-evaluation) · Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility
+- [定位语言维持与语义检索的竞争](../conferences/icml-2026/cards/5101-5200.md#xiao26g-evaluation) · How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching
 
 <a id="by-computer-vision"></a>
 

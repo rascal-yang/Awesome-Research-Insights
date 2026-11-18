@@ -414,6 +414,7 @@
 - [按DRO强度分散集成](../conferences/icml-2026/cards/4601-4700.md#wang26bc-training-strategies) · Learning Credal Ensembles via Distributionally Robust Optimization
 - [失配稳健的序贯实验分配](../conferences/icml-2026/cards/4901-5000.md#wen26i-training-strategies) · Robust Sequential Experimental Design for A/B Testing
 - [质量条件的联邦全局锚定](../conferences/icml-2026/cards/5001-5100.md#wu26z-training-strategies) · Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity
+- [记录可减去的客户端残差](../conferences/icml-2026/cards/5101-5200.md#xiao26b-training-strategies) · Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn
 
 <a id="by-graph-and-recommendation"></a>
 

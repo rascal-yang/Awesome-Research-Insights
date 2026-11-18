@@ -345,6 +345,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing](../../conferences/icml-2026/cards/5001-5100.md#wu26bc-evaluation) · 中文
 - [Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](../../conferences/icml-2026/cards/5001-5100.md#wu26bw-evaluation) · 中文
 - [Does Reinforcement Fine-Tuning Improve Generalization of LLM Agents? An Empirical Study](../../conferences/icml-2026/cards/5001-5100.md#xi26b-evaluation) · 中文
+- [Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility](../../conferences/icml-2026/cards/5101-5200.md#xiang26b-evaluation) · 中文
+- [How Do Language Models Speak Languages? A Case Study on Unintended Code-Switching](../../conferences/icml-2026/cards/5101-5200.md#xiao26g-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

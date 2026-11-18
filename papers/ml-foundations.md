@@ -136,6 +136,7 @@
 - <a id="weitekamp26a-modules"></a>[STAND: Self-Aware Precondition Induction for Interactive Task Learning](../conferences/icml-2026/cards/4901-5000.md#paper-weitekamp26a)
 - <a id="wu26x-modules"></a>[Hyperbolic neural population geometry benefits computation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26x)
 - <a id="wu26ci-modules"></a>[LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ci)
+- <a id="xiao26f-modules"></a>[Functional Attention: From Pairwise Affinities to Functional Correspondences](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26f)
 
 <a id="by-loss-functions"></a>
 
@@ -440,6 +441,7 @@
 - <a id="wang26is-optimization"></a>[GradPower: Powering Gradients for Faster Language Model Pre-Training](../conferences/icml-2026/cards/4801-4900.md#paper-wang26is)
 - <a id="wei26aj-optimization"></a>[A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization](../conferences/icml-2026/cards/4901-5000.md#paper-wei26aj)
 - <a id="wu26bb-optimization"></a>[Score Correction for Generative Models with Probabilistic Constraints](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bb)
+- <a id="xiao26i-optimization"></a>[Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26i)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -525,6 +527,7 @@
 - <a id="wang26bc-training-strategies"></a>[Learning Credal Ensembles via Distributionally Robust Optimization](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bc)
 - <a id="wen26i-training-strategies"></a>[Robust Sequential Experimental Design for A/B Testing](../conferences/icml-2026/cards/4901-5000.md#paper-wen26i)
 - <a id="wu26z-training-strategies"></a>[Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity](../conferences/icml-2026/cards/5001-5100.md#paper-wu26z)
+- <a id="xiao26b-training-strategies"></a>[Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26b)
 
 <a id="by-data-strategies"></a>
 
@@ -619,6 +622,7 @@
 - <a id="wang26bp-inference"></a>[Effective Model Pruning : Measuring the Redundancy of Model Components](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bp)
 - <a id="wu26o-inference"></a>[EasyBalance: Cross-Layer Load Balancing in Distributed MoE Inference](../conferences/icml-2026/cards/5001-5100.md#paper-wu26o)
 - <a id="wu26aa-inference"></a>[Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets](../conferences/icml-2026/cards/5001-5100.md#paper-wu26aa)
+- <a id="xiang26d-inference"></a>[MOD-SR: Unifying Multimodal Learning and Direct Optimization with Gradient-Guided Diffusion Model for Symbolic Regression](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26d)
 
 <a id="by-representation-learning"></a>
 

@@ -431,6 +431,7 @@
 - [有符号幂梯度的噪声依赖选参](../conferences/icml-2026/cards/4801-4900.md#wang26is-optimization) · GradPower: Powering Gradients for Faster Language Model Pre-Training
 - [指数对偶变量的镜像近端更新](../conferences/icml-2026/cards/4901-5000.md#wei26aj-optimization) · A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization
 - [随机变换边际的双对偶score修正](../conferences/icml-2026/cards/5001-5100.md#wu26bb-optimization) · Score Correction for Generative Models with Probabilistic Constraints
+- [在模拟训练中跟踪对称点](../conferences/icml-2026/cards/5101-5200.md#xiao26i-optimization) · Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training
 
 <a id="by-graph-and-recommendation"></a>
 

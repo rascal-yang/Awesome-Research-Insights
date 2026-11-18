@@ -232,6 +232,7 @@
 - [规则候选格上的特定扩展确定度](../conferences/icml-2026/cards/4901-5000.md#weitekamp26a-modules) · STAND: Self-Aware Precondition Induction for Interactive Task Learning
 - [双曲Karcher流关联记忆](../conferences/icml-2026/cards/5001-5100.md#wu26x-modules) · Hyperbolic neural population geometry benefits computation
 - [依赖图引导的因果token排序](../conferences/icml-2026/cards/5001-5100.md#wu26ci-modules) · LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting
+- [在适应基系数中求解attention](../conferences/icml-2026/cards/5101-5200.md#xiao26f-modules) · Functional Attention: From Pairwise Affinities to Functional Correspondences
 
 <a id="by-graph-and-recommendation"></a>
 

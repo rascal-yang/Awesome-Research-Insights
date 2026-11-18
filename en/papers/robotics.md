@@ -200,6 +200,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="wang26jj-inference"></a>[SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jj)
 - <a id="wang26lj-inference"></a>[Learning High-Frequency Continuous Action Chunks in Latent Space](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lj)
 - <a id="wu26bt-inference"></a>[Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26bt)
+- <a id="xiang26f-inference"></a>[Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration](../../conferences/icml-2026/cards/5101-5200.md#paper-xiang26f)
 
 <a id="by-representation-learning"></a>
 

@@ -232,6 +232,7 @@ Reusable components and local changes to model inputs or connections.
 - [STAND: Self-Aware Precondition Induction for Interactive Task Learning](../../conferences/icml-2026/cards/4901-5000.md#weitekamp26a-modules) · 中文
 - [Hyperbolic neural population geometry benefits computation](../../conferences/icml-2026/cards/5001-5100.md#wu26x-modules) · 中文
 - [LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting](../../conferences/icml-2026/cards/5001-5100.md#wu26ci-modules) · 中文
+- [Functional Attention: From Pairwise Affinities to Functional Correspondences](../../conferences/icml-2026/cards/5101-5200.md#xiao26f-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -431,6 +431,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [GradPower: Powering Gradients for Faster Language Model Pre-Training](../../conferences/icml-2026/cards/4801-4900.md#wang26is-optimization) · 中文
 - [A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization](../../conferences/icml-2026/cards/4901-5000.md#wei26aj-optimization) · 中文
 - [Score Correction for Generative Models with Probabilistic Constraints](../../conferences/icml-2026/cards/5001-5100.md#wu26bb-optimization) · 中文
+- [Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](../../conferences/icml-2026/cards/5101-5200.md#xiao26i-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
