@@ -294,5 +294,7 @@ Graph models, knowledge graphs, and recommender systems.
 - [Hypergraph Generation via Structured Stochastic Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-148881)
 - [Hypergraph Generation with Latent Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-154651)
 - [Hypergraph Representation Learning with Hyperlink Random Effects](../../conferences/neurips-2026/cards-0006.md#paper-148313)
+- [IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation](../../conferences/neurips-2026/cards-0007.md#paper-150515)
+- [Information Loss and Disparate Effects in Network Embeddings](../../conferences/neurips-2026/cards-0007.md#paper-151063)
 
 <!-- conference-classification:end -->

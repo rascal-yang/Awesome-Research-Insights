@@ -1250,5 +1250,12 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Impacts of Aggregation on Model Diversity and Consumer Utility](../../conferences/neurips-2026/cards-0007.md#paper-149015)
 - [Imperfect Influence, Reliable Rankings: A Theory of TRAK for Data Attribution](../../conferences/neurips-2026/cards-0007.md#paper-153488)
 - [Improving Audit Realism with Inference-Time Compute and Deployment Scaffolds](../../conferences/neurips-2026/cards-0007.md#paper-148140)
+- [In-Context Learning Can Help Vision Language Models Overcome Training Prior](../../conferences/neurips-2026/cards-0007.md#paper-148820)
+- [Inference-Time Vulnerability Beyond Shallow Safety: Alignment Along Generation Trajectories](../../conferences/neurips-2026/cards-0007.md#paper-156068)
+- [Inferotemporal Cortex Collaborates Before It Codes: Non-Serial Inter-Area Synergy in the Macaque Ventral Stream](../../conferences/neurips-2026/cards-0007.md#paper-152708)
+- [Inferring how internal brain state shapes neural responses with state-dependent diffusion models](../../conferences/neurips-2026/cards-0007.md#paper-149640)
+- [Information bottleneck dynamics during learning across artificial and biological neural systems](../../conferences/neurips-2026/cards-0007.md#paper-153429)
+- [Information Discernment in Large Language Models](../../conferences/neurips-2026/cards-0007.md#paper-154203)
+- [Information Parity for Code: The Scope of Transfer in Multilingual Code Models](../../conferences/neurips-2026/cards-0007.md#paper-139705)
 
 <!-- conference-classification:end -->

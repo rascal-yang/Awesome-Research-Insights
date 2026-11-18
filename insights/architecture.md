@@ -361,5 +361,7 @@
 - [Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator](../conferences/neurips-2026/cards-0007.md#paper-151849)
 - [Imagine Before You Draw: Visual Prompt Engineering for Image Generation](../conferences/neurips-2026/cards-0007.md#paper-156043)
 - [Improved State Mixing in Higher-order and Block Diagonal Linear Recurrent Networks](../conferences/neurips-2026/cards-0007.md#paper-152218)
+- [In-Context Multi-Operator Learning with DeepOSets](../conferences/neurips-2026/cards-0007.md#paper-154682)
+- [Inferring Computational Structure from Neural Recordings with Gain-Modulated Linear Dynamical Systems](../conferences/neurips-2026/cards-0007.md#paper-153994)
 
 <!-- conference-classification:end -->

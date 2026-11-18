@@ -354,5 +354,6 @@
 - [iDETR: Implicit DETR for Tiny Object Detection](../conferences/neurips-2026/cards-0007.md#paper-151442)
 - [IIDiff: Learning Cross-Domain Frequency Transitions with Diffusion Mixture-of-Experts](../conferences/neurips-2026/cards-0007.md#paper-155681)
 - [ImmuVis: Hyperconvolutional Foundation Models for Imaging Mass Cytometry](../conferences/neurips-2026/cards-0007.md#paper-152450)
+- [IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting](../conferences/neurips-2026/cards-0007.md#paper-154661)
 
 <!-- conference-classification:end -->

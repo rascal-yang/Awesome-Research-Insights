@@ -540,5 +540,10 @@ Learning from interaction, feedback, and offline experience.
 - [Imitation from Observations with Trajectory-Level Generative Embeddings](../../conferences/neurips-2026/cards-0007.md#paper-151602)
 - [Imperfect World Models are Exploitable](../../conferences/neurips-2026/cards-0007.md#paper-154874)
 - [Implicit-Euler Value Iteration: Long-Horizon Planning via Stable Integration of the Bellman Residual Flow](../../conferences/neurips-2026/cards-0007.md#paper-151746)
+- [Incremental Multiple Oracle](../../conferences/neurips-2026/cards-0007.md#paper-155693)
+- [Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics](../../conferences/neurips-2026/cards-0007.md#paper-150509)
+- [Information-Directed Offline-to-Online Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-154972)
+- [Information-Geometric Forward Policy Training in GFlowNets](../../conferences/neurips-2026/cards-0007.md#paper-149101)
+- [Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs](../../conferences/neurips-2026/cards-0007.md#paper-155089)
 
 <!-- conference-classification:end -->

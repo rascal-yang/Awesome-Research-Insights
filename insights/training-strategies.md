@@ -642,5 +642,11 @@
 - [Improving Generative Adversarial Networks with Self-Distillation](../conferences/neurips-2026/cards-0007.md#paper-151051)
 - [Improving Neural Processes in the Low-Data Regime via Context-Subset Training and Self-Distillation](../conferences/neurips-2026/cards-0007.md#paper-148845)
 - [Improving Self-Supervised Vision Transformers with Cross Distillation](../conferences/neurips-2026/cards-0007.md#paper-151171)
+- [IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation](../conferences/neurips-2026/cards-0007.md#paper-150515)
+- [Incentivizing Medical Vision Capabilities from Large-Scale Multimodal Pre-training](../conferences/neurips-2026/cards-0007.md#paper-156128)
+- [In-context Learning in Presence of Spurious Correlations](../conferences/neurips-2026/cards-0007.md#paper-156780)
+- [InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories](../conferences/neurips-2026/cards-0007.md#paper-153680)
+- [Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems](../conferences/neurips-2026/cards-0007.md#paper-150230)
+- [Information Propagation via Sign-Flip Dynamics](../conferences/neurips-2026/cards-0007.md#paper-151344)
 
 <!-- conference-classification:end -->

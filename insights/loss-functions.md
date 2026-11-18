@@ -335,5 +335,6 @@
 - [Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives](../conferences/neurips-2026/cards-0007.md#paper-149052)
 - [Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy](../conferences/neurips-2026/cards-0007.md#paper-150848)
 - [Improving Guidance-Free Visual Generation via Self-Contrastive Alignment for Likelihood Estimation](../conferences/neurips-2026/cards-0007.md#paper-152467)
+- [Independent Latents, Robust Neural Operators](../conferences/neurips-2026/cards-0007.md#paper-148392)
 
 <!-- conference-classification:end -->

@@ -866,5 +866,15 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Impossibility of Distribution-Free Predictive Inference for Individual Treatment Effects](../../conferences/neurips-2026/cards-0007.md#paper-149451)
 - [Improving Causal Explanations](../../conferences/neurips-2026/cards-0007.md#paper-153775)
 - [Improving constraint-based discovery with robust propagation and LLM priors](../../conferences/neurips-2026/cards-0007.md#paper-151902)
+- [In-Context Benign Overfitting: A Feature-Selection Model in Linear Regression ICL](../../conferences/neurips-2026/cards-0007.md#paper-154755)
+- [Incremental Learning in Transformers for In-Context Associative Recall](../../conferences/neurips-2026/cards-0007.md#paper-150555)
+- [Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics](../../conferences/neurips-2026/cards-0007.md#paper-150509)
+- [In-Expectation Convergence of Stochastic Gradient Methods under Heavy-Tailed Noise](../../conferences/neurips-2026/cards-0007.md#paper-151715)
+- [Inference for Many Quantiles under Local Differential Privacy](../../conferences/neurips-2026/cards-0007.md#paper-148280)
+- [Inferring learning rules in deep neural network architectures from animal learning data](../../conferences/neurips-2026/cards-0007.md#paper-148570)
+- [InfoFlow: A Framework for Multi-Layer Transformer Analysis](../../conferences/neurips-2026/cards-0007.md#paper-148677)
+- [Information Loss and Disparate Effects in Network Embeddings](../../conferences/neurips-2026/cards-0007.md#paper-151063)
+- [Information-Theoretic Generalization Bounds for Sequential Decision Making](../../conferences/neurips-2026/cards-0007.md#paper-149551)
+- [Information-Theoretic Generalization for Set-Input Optimization-Valued Objectives](../../conferences/neurips-2026/cards-0007.md#paper-153827)
 
 <!-- conference-classification:end -->

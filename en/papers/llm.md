@@ -1846,5 +1846,11 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Improving LLM Final Representations with Inter-Layer Geometry](../../conferences/neurips-2026/cards-0007.md#paper-150649)
 - [Improving Quantized Zeroth-Order Optimization through Reconstructed Low-Rank Structures](../../conferences/neurips-2026/cards-0007.md#paper-155969)
 - [Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs](../../conferences/neurips-2026/cards-0007.md#paper-149121)
+- [In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective](../../conferences/neurips-2026/cards-0007.md#paper-150330)
+- [Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems](../../conferences/neurips-2026/cards-0007.md#paper-150230)
+- [Inference Time Nash Alignment](../../conferences/neurips-2026/cards-0007.md#paper-153713)
+- [Inference-Time Vulnerability Beyond Shallow Safety: Alignment Along Generation Trajectories](../../conferences/neurips-2026/cards-0007.md#paper-156068)
+- [Information Discernment in Large Language Models](../../conferences/neurips-2026/cards-0007.md#paper-154203)
+- [Information Parity for Code: The Scope of Transfer in Multilingual Code Models](../../conferences/neurips-2026/cards-0007.md#paper-139705)
 
 <!-- conference-classification:end -->

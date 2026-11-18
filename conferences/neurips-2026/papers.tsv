@@ -3903,66 +3903,66 @@ poster_id	title	paper_url	status	reason
 150734	Improving the Diffusability of Motion Tokenizer	https://neurips.cc/virtual/2026/poster/150734	included	动作词元器同时优化潜频谱可扩散性和时间解码。
 149121	Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs	https://neurips.cc/virtual/2026/poster/149121	included	良性协作任务用共享可更新依赖图协调分工。
 151753	Improving the Optimization Landscape of Matrix Completion with $\epsilon$-close Surrogates	https://neurips.cc/virtual/2026/poster/151753	included	矩阵补全可用保留原观测的微扰代理改善可分析性。
-154661	IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154661	pending	-
-148601	Inadvertent Context Leakage in Language Models	https://neurips.cc/virtual/2026/poster/148601	pending	-
-150515	IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation	https://neurips.cc/virtual/2026/poster/150515	pending	-
-149120	Incentivizing Agentic Retrieval for Disease-Centric Clinical Case Search via Trajectory Memory	https://neurips.cc/virtual/2026/poster/149120	pending	-
-156128	Incentivizing Medical Vision Capabilities from Large-Scale Multimodal Pre-training	https://neurips.cc/virtual/2026/poster/156128	pending	-
-139535	InCLAD: A Continual Learning Benchmark for Industrial Visual Anomaly Detection	https://neurips.cc/virtual/2026/poster/139535	pending	-
-154755	In-Context Benign Overfitting: A Feature-Selection Model in Linear Regression ICL	https://neurips.cc/virtual/2026/poster/154755	pending	-
-154930	In-Context Black-Box Optimization with Unreliable Feedback	https://neurips.cc/virtual/2026/poster/154930	pending	-
-148820	In-Context Learning Can Help Vision Language Models Overcome Training Prior	https://neurips.cc/virtual/2026/poster/148820	pending	-
-153213	In-Context Learning for Remote Sensing Vision: A Semantic-Aware Rotation-Robust Diffusion Framework	https://neurips.cc/virtual/2026/poster/153213	pending	-
-156780	In-context Learning in Presence of Spurious Correlations	https://neurips.cc/virtual/2026/poster/156780	pending	-
-155891	In-context learning to predict critical transitions in dynamical systems	https://neurips.cc/virtual/2026/poster/155891	pending	-
-154682	In-Context Multi-Operator Learning with DeepOSets	https://neurips.cc/virtual/2026/poster/154682	pending	-
-150330	In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective	https://neurips.cc/virtual/2026/poster/150330	pending	-
-151226	Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures	https://neurips.cc/virtual/2026/poster/151226	pending	-
-153834	Incorporating Neural Network Structure in the Bayesian Learning Rule	https://neurips.cc/virtual/2026/poster/153834	pending	-
-150555	Incremental Learning in Transformers for In-Context Associative Recall	https://neurips.cc/virtual/2026/poster/150555	pending	-
-155693	Incremental Multiple Oracle	https://neurips.cc/virtual/2026/poster/155693	pending	-
-148392	Independent Latents, Robust Neural Operators	https://neurips.cc/virtual/2026/poster/148392	pending	-
-150509	Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics	https://neurips.cc/virtual/2026/poster/150509	pending	-
-151272	Indications of Belief-Guided Agency and Meta-Cognitive Monitoring in Large Language Models	https://neurips.cc/virtual/2026/poster/151272	pending	-
-148868	Individuals Matter: Improving Deep Multi-View Clustering via Explicit Single-View Enhancement	https://neurips.cc/virtual/2026/poster/148868	pending	-
-153680	InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories	https://neurips.cc/virtual/2026/poster/153680	pending	-
-150230	Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems	https://neurips.cc/virtual/2026/poster/150230	pending	-
-139055	IndustryCode: A Benchmark for Industry Code Generation	https://neurips.cc/virtual/2026/poster/139055	pending	-
-153477	Inertia-1: An Open Exploration of Wearable Motion Foundation Models	https://neurips.cc/virtual/2026/poster/153477	pending	-
-154584	INEUS: Iterative Neural Solver for High-Dimensional PIDEs	https://neurips.cc/virtual/2026/poster/154584	pending	-
-155946	Inexact Bregman Sparse Newton Method for Efficient Optimal Transport	https://neurips.cc/virtual/2026/poster/155946	pending	-
-151715	In-Expectation Convergence of Stochastic Gradient Methods under Heavy-Tailed Noise	https://neurips.cc/virtual/2026/poster/151715	pending	-
-150869	InfCLIP: Unified Data Valuation for CLIP Pretraining via Influence-Inspired Scoring	https://neurips.cc/virtual/2026/poster/150869	pending	-
-152598	InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction	https://neurips.cc/virtual/2026/poster/152598	pending	-
-154647	Inference and estimation with unidentifiable latent treatment effects	https://neurips.cc/virtual/2026/poster/154647	pending	-
-155197	Inference and Uncertainty Quantification for Streaming $r$-PCA	https://neurips.cc/virtual/2026/poster/155197	pending	-
-148280	Inference for Many Quantiles under Local Differential Privacy	https://neurips.cc/virtual/2026/poster/148280	pending	-
-155775	Inference-time Alignment via Sparse Junction Steering	https://neurips.cc/virtual/2026/poster/155775	pending	-
-153713	Inference Time Nash Alignment	https://neurips.cc/virtual/2026/poster/153713	pending	-
-151371	Inference-Time Refinement Closes the Synthetic-Real Gap in Tabular Diffusion	https://neurips.cc/virtual/2026/poster/151371	pending	-
-148360	Inference-Time Search Using Side Information for Diffusion-Based Image Reconstruction	https://neurips.cc/virtual/2026/poster/148360	pending	-
-155309	Inference-Time Self-Aligned Drifting for Few-Step Flow Matching	https://neurips.cc/virtual/2026/poster/155309	pending	-
-156068	Inference-Time Vulnerability Beyond Shallow Safety: Alignment Along Generation Trajectories	https://neurips.cc/virtual/2026/poster/156068	pending	-
-139992	Inferential Theory of Learning as a Framework for Test-Time Computation in Foundation Models	https://neurips.cc/virtual/2026/poster/139992	pending	-
-152708	Inferotemporal Cortex Collaborates Before It Codes: Non-Serial Inter-Area Synergy in the Macaque Ventral Stream	https://neurips.cc/virtual/2026/poster/152708	pending	-
-153994	Inferring Computational Structure from Neural Recordings with Gain-Modulated Linear Dynamical Systems	https://neurips.cc/virtual/2026/poster/153994	pending	-
-149640	Inferring how internal brain state shapes neural responses with state-dependent diffusion models	https://neurips.cc/virtual/2026/poster/149640	pending	-
-148570	Inferring learning rules in deep neural network architectures from animal learning data	https://neurips.cc/virtual/2026/poster/148570	pending	-
-149028	InfiniteVL: A Systematic Approach to Highly-Efficient, Ultra-Long Multimodal Understanding	https://neurips.cc/virtual/2026/poster/149028	pending	-
-148677	InfoFlow: A Framework for Multi-Layer Transformer Analysis	https://neurips.cc/virtual/2026/poster/148677	pending	-
-149947	InfoNav: A Unified Value Framework Integrating Semantic Relevance and Information Gain for Zero-Shot Object Goal Navigation	https://neurips.cc/virtual/2026/poster/149947	pending	-
-153429	Information bottleneck dynamics during learning across artificial and biological neural systems	https://neurips.cc/virtual/2026/poster/153429	pending	-
-151673	Information Bottleneck-Guided Adaptive Hypergraph Transformer for Brain Disease Diagnosis	https://neurips.cc/virtual/2026/poster/151673	pending	-
-154972	Information-Directed Offline-to-Online Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154972	pending	-
-154203	Information Discernment in Large Language Models	https://neurips.cc/virtual/2026/poster/154203	pending	-
-149101	Information-Geometric Forward Policy Training in GFlowNets	https://neurips.cc/virtual/2026/poster/149101	pending	-
-151063	Information Loss and Disparate Effects in Network Embeddings	https://neurips.cc/virtual/2026/poster/151063	pending	-
-139705	Information Parity for Code: The Scope of Transfer in Multilingual Code Models	https://neurips.cc/virtual/2026/poster/139705	pending	-
-151344	Information Propagation via Sign-Flip Dynamics	https://neurips.cc/virtual/2026/poster/151344	pending	-
-152156	Information Templates: A New Paradigm for Intelligent Active Feature Acquisition	https://neurips.cc/virtual/2026/poster/152156	pending	-
-149551	Information-Theoretic Generalization Bounds for Sequential Decision Making	https://neurips.cc/virtual/2026/poster/149551	pending	-
-153827	Information-Theoretic Generalization for Set-Input Optimization-Valued Objectives	https://neurips.cc/virtual/2026/poster/153827	pending	-
-155089	Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs	https://neurips.cc/virtual/2026/poster/155089	pending	-
+154661	IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154661	included	不规则时序在分词前保留采样间距。
+148601	Inadvertent Context Leakage in Language Models	https://neurips.cc/virtual/2026/poster/148601	excluded	摘要聚焦黑盒敏感信息恢复，未证明直接可用的防护措施；不提取攻击实现。
+150515	IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation	https://neurips.cc/virtual/2026/poster/150515	included	用预聚合邻居基线加批内残差代替逐步全邻域重算。
+149120	Incentivizing Agentic Retrieval for Disease-Centric Clinical Case Search via Trajectory Memory	https://neurips.cc/virtual/2026/poster/149120	included	检索规划先判断各证据维度是否足够直接匹配。
+156128	Incentivizing Medical Vision Capabilities from Large-Scale Multimodal Pre-training	https://neurips.cc/virtual/2026/poster/156128	included	从预训练语料反向构造能调用已学知识的后训练任务。
+139535	InCLAD: A Continual Learning Benchmark for Industrial Visual Anomaly Detection	https://neurips.cc/virtual/2026/poster/139535	excluded	摘要仅给出基准组织与任务顺序，未提供次序效应或能指导方法选型的失败规律。
+154755	In-Context Benign Overfitting: A Feature-Selection Model in Linear Regression ICL	https://neurips.cc/virtual/2026/poster/154755	included	ICL 的规模实验分开测训练任务检索和新任务学习。
+154930	In-Context Black-Box Optimization with Unreliable Feedback	https://neurips.cc/virtual/2026/poster/154930	included	黑盒搜索将辅助信号的可信度当作需在线推断的量。
+148820	In-Context Learning Can Help Vision Language Models Overcome Training Prior	https://neurips.cc/virtual/2026/poster/148820	included	用先验冲突样本加演示区分感知缺失和读出偏差。
+153213	In-Context Learning for Remote Sensing Vision: A Semantic-Aware Rotation-Robust Diffusion Framework	https://neurips.cc/virtual/2026/poster/153213	excluded	摘要只说明语义注意力和抗旋转训练的目标，未交代能独立复用的旋转或语义匹配操作。
+156780	In-context Learning in Presence of Spurious Correlations	https://neurips.cc/virtual/2026/poster/156780	included	元训练改变任务本身，避免模型把标签规则写回权重。
+155891	In-context learning to predict critical transitions in dynamical systems	https://neurips.cc/virtual/2026/poster/155891	included	稀缺的突变预警训练按分岔机制合成随机动态。
+154682	In-Context Multi-Operator Learning with DeepOSets	https://neurips.cc/virtual/2026/poster/154682	included	为一套算子模型提供无序输入输出示例指明所求算子。
+150330	In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective	https://neurips.cc/virtual/2026/poster/150330	included	固定检索器时针对每次查询调整生成器的证据接口。
+151226	Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures	https://neurips.cc/virtual/2026/poster/151226	excluded	摘要未说明稀疏自编码器如何表示或学习层级，难以复用具体设计。
+153834	Incorporating Neural Network Structure in the Bayesian Learning Rule	https://neurips.cc/virtual/2026/poster/153834	included	贝叶斯神经网络更新时显式利用层结构传播自然参数。
+150555	Incremental Learning in Transformers for In-Context Associative Recall	https://neurips.cc/virtual/2026/poster/150555	included	关联回忆训练用初始化扫查不同电路的出现时点。
+155693	Incremental Multiple Oracle	https://neurips.cc/virtual/2026/poster/155693	included	连续博弈的混合策略搜索约束每个玩家的候选策略池。
+148392	Independent Latents, Robust Neural Operators	https://neurips.cc/virtual/2026/poster/148392	included	噪声传感下用在线潜统计独立正则保护算子重建。
+150509	Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics	https://neurips.cc/virtual/2026/poster/150509	included	独立学习时先验证短历史是否能近似部分观测状态。
+151272	Indications of Belief-Guided Agency and Meta-Cognitive Monitoring in Large Language Models	https://neurips.cc/virtual/2026/poster/151272	excluded	信念占优度量方向有价值，但摘要未给出具体构造和因果干预对照。
+148868	Individuals Matter: Improving Deep Multi-View Clustering via Explicit Single-View Enhancement	https://neurips.cc/virtual/2026/poster/148868	excluded	共识对齐和邻域传播的组合缺少与同类多视图融合的独立机制比较。
+153680	InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories	https://neurips.cc/virtual/2026/poster/153680	included	冻结主干做持续适配时，在固定部署预算下选择可直接参与注意力的 KV 记忆。
+150230	Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems	https://neurips.cc/virtual/2026/poster/150230	included	生成关键软件时，按可证明的增量联合推进代码和证明，从失败目标反推修改。
+139055	IndustryCode: A Benchmark for Industry Code Generation	https://neurips.cc/virtual/2026/poster/139055	excluded	主要是引入工业题库和测试覆盖，摘要缺少跨域失败的具体可复用规律。
+153477	Inertia-1: An Open Exploration of Wearable Motion Foundation Models	https://neurips.cc/virtual/2026/poster/153477	excluded	大规模开源基准有价值，但摘要未列出可直接改变传感架构或训练选择的具体结果。
+154584	INEUS: Iterative Neural Solver for High-Dimensional PIDEs	https://neurips.cc/virtual/2026/poster/154584	included	非局部方程求解避免显式计算跳积分时，把非局部项变为单次跳跃采样。
+155946	Inexact Bregman Sparse Newton Method for Efficient Optimal Transport	https://neurips.cc/virtual/2026/poster/155946	included	需要精确运输计划时，用外层 Bregman 迭代保持原问题目标，内层只近似求解。
+151715	In-Expectation Convergence of Stochastic Gradient Methods under Heavy-Tailed Noise	https://neurips.cc/virtual/2026/poster/151715	included	噪声只有有限 p 阶矩时，把未改动 SGD 或随机镜像下降作为重尾实验的有效基线。
+150869	InfCLIP: Unified Data Valuation for CLIP Pretraining via Influence-Inspired Scoring	https://neurips.cc/virtual/2026/poster/150869	included	目标任务明确时，以基于冻结特征的影响启发式替代手调多项数据筛选分数。
+152598	InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction	https://neurips.cc/virtual/2026/poster/152598	included	接触规划偏离执行时，以闭环回放的奖励分别更新流规划器和物理控制器。
+154647	Inference and estimation with unidentifiable latent treatment effects	https://neurips.cc/virtual/2026/poster/154647	excluded	摘要未说明不可辨识时稳定检验所依赖的可识别量及条件。
+155197	Inference and Uncertainty Quantification for Streaming $r$-PCA	https://neurips.cc/virtual/2026/poster/155197	excluded	流式 bootstrap 候选有价值，但摘要未给出重采样更新方式或可独立复用的线性化细节。
+148280	Inference for Many Quantiles under Local Differential Privacy	https://neurips.cc/virtual/2026/poster/148280	included	本地隐私限制下同时估计多个分位数时，用非交叉投影和联合自归一化。
+155775	Inference-time Alignment via Sparse Junction Steering	https://neurips.cc/virtual/2026/poster/155775	excluded	高熵触发与同类按需干预重叠，摘要未隔离熵与基本不确定性基线的贡献。
+153713	Inference Time Nash Alignment	https://neurips.cc/virtual/2026/poster/153713	included	成对偏好难压成单一标量时，推理端比较 Nash 求解与奖励排序。
+151371	Inference-Time Refinement Closes the Synthetic-Real Gap in Tabular Diffusion	https://neurips.cc/virtual/2026/poster/151371	included	冻结表格扩散模型后，尝试以同一双向覆盖目标同时指导采样与筛选。
+148360	Inference-Time Search Using Side Information for Diffusion-Based Image Reconstruction	https://neurips.cc/virtual/2026/poster/148360	excluded	侧信息推理搜索摘要未交代用何标准排序或检验一致性，暂不单列。
+155309	Inference-Time Self-Aligned Drifting for Few-Step Flow Matching	https://neurips.cc/virtual/2026/poster/155309	included	流匹配步数受限时，用轨迹动量残差定向增加变化，而不是全程添加各向同性噪声。
+156068	Inference-Time Vulnerability Beyond Shallow Safety: Alignment Along Generation Trajectories	https://neurips.cc/virtual/2026/poster/156068	included	审核模型的生成安全时，将生成中段的防护表现作为单独验收维度。
+139992	Inferential Theory of Learning as a Framework for Test-Time Computation in Foundation Models	https://neurips.cc/virtual/2026/poster/139992	excluded	把已有学习理论重述为推理时计算框架，摘要未给可实施并经验证的算子选取方法或比较。
+152708	Inferotemporal Cortex Collaborates Before It Codes: Non-Serial Inter-Area Synergy in the Macaque Ventral Stream	https://neurips.cc/virtual/2026/poster/152708	included	层级编码的时间分析同时测独有信息和跨区协同。
+153994	Inferring Computational Structure from Neural Recordings with Gain-Modulated Linear Dynamical Systems	https://neurips.cc/virtual/2026/poster/153994	included	拟合潜轨迹后还要验证沿轨迹的局部动力学。
+149640	Inferring how internal brain state shapes neural responses with state-dependent diffusion models	https://neurips.cc/virtual/2026/poster/149640	included	条件生成把未见条件组合的补覆盖与已见条件的重复采样分开。
+148570	Inferring learning rules in deep neural network architectures from animal learning data	https://neurips.cc/virtual/2026/poster/148570	included	从行为轨迹识别学习规则时先检验不同深度模型是否可区分。
+149028	InfiniteVL: A Systematic Approach to Highly-Efficient, Ultra-Long Multimodal Understanding	https://neurips.cc/virtual/2026/poster/149028	excluded	摘要组合线性压缩、稀疏注意与迁移训练；整套表现未隔离新增结构和迁移阶段的作用，类似长短程混合设计在库内已有代表。
+148677	InfoFlow: A Framework for Multi-Layer Transformer Analysis	https://neurips.cc/virtual/2026/poster/148677	included	检索需要非最大元素或多个耦合条目时检查深度，而非只扩宽单层。
+149947	InfoNav: A Unified Value Framework Integrating Semantic Relevance and Information Gain for Zero-Shot Object Goal Navigation	https://neurips.cc/virtual/2026/poster/149947	included	导航前沿评分联合考虑找到目标的机会和信息增益。
+153429	Information bottleneck dynamics during learning across artificial and biological neural systems	https://neurips.cc/virtual/2026/poster/153429	included	诊断表征学习时分别追踪目标相关性和输入信息压缩。
+151673	Information Bottleneck-Guided Adaptive Hypergraph Transformer for Brain Disease Diagnosis	https://neurips.cc/virtual/2026/poster/151673	excluded	摘要组合信息瓶颈、超图消息和 Transformer 用于诊断，未给信息约束的可复用实现细节或独立证据。
+154972	Information-Directed Offline-to-Online Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154972	included	离线转在线应按已有数据条件下的剩余不确定性选探测动作。
+154203	Information Discernment in Large Language Models	https://neurips.cc/virtual/2026/poster/154203	included	检索后验收把来源可靠性与内容是否增进真实度分开。
+149101	Information-Geometric Forward Policy Training in GFlowNets	https://neurips.cc/virtual/2026/poster/149101	included	GFlowNet 策略更新可按轨迹 Fisher 利用目标结构。
+151063	Information Loss and Disparate Effects in Network Embeddings	https://neurips.cc/virtual/2026/poster/151063	included	比较图嵌入时分社区检查结构信息丢失。
+139705	Information Parity for Code: The Scope of Transfer in Multilingual Code Models	https://neurips.cc/virtual/2026/poster/139705	included	跨编程语言评测分开短局部生成、执行预测和整程序生成。
+151344	Information Propagation via Sign-Flip Dynamics	https://neurips.cc/virtual/2026/poster/151344	included	恒等加噪初始化时校准信号符号保留率。
+152156	Information Templates: A New Paradigm for Intelligent Active Feature Acquisition	https://neurips.cc/virtual/2026/poster/152156	included	主动特征采集用少量联合信息模板缩小搜索。
+149551	Information-Theoretic Generalization Bounds for Sequential Decision Making	https://neurips.cc/virtual/2026/poster/149551	included	序列泛化按每轮选择信息累加，避免把自适应样本当独立批样本。
+153827	Information-Theoretic Generalization for Set-Input Optimization-Valued Objectives	https://neurips.cc/virtual/2026/poster/153827	included	验证批量风险指标时把重优化后的选择差异纳入泛化分析。
+155089	Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs	https://neurips.cc/virtual/2026/poster/155089	included	少量示范暖启动需要建模专家能力不确定性。
 138981	InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification	https://neurips.cc/virtual/2026/poster/138981	pending	-
 155588	InfoSFT: Learn More and Forget Less with Information-Aware Token Weighting	https://neurips.cc/virtual/2026/poster/155588	pending	-
 153094	INFUSER: Influence-Guided Self-Evolution Improves Reasoning	https://neurips.cc/virtual/2026/poster/153094	pending	-

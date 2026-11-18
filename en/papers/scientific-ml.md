@@ -509,5 +509,15 @@ Machine learning for physics, medicine, biology, and engineering.
 - [IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow](../../conferences/neurips-2026/cards-0006.md#paper-149902)
 - [Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems](../../conferences/neurips-2026/cards-0007.md#paper-151974)
 - [ImmuVis: Hyperconvolutional Foundation Models for Imaging Mass Cytometry](../../conferences/neurips-2026/cards-0007.md#paper-152450)
+- [Incentivizing Agentic Retrieval for Disease-Centric Clinical Case Search via Trajectory Memory](../../conferences/neurips-2026/cards-0007.md#paper-149120)
+- [Incentivizing Medical Vision Capabilities from Large-Scale Multimodal Pre-training](../../conferences/neurips-2026/cards-0007.md#paper-156128)
+- [In-context learning to predict critical transitions in dynamical systems](../../conferences/neurips-2026/cards-0007.md#paper-155891)
+- [In-Context Multi-Operator Learning with DeepOSets](../../conferences/neurips-2026/cards-0007.md#paper-154682)
+- [Independent Latents, Robust Neural Operators](../../conferences/neurips-2026/cards-0007.md#paper-148392)
+- [INEUS: Iterative Neural Solver for High-Dimensional PIDEs](../../conferences/neurips-2026/cards-0007.md#paper-154584)
+- [Inferotemporal Cortex Collaborates Before It Codes: Non-Serial Inter-Area Synergy in the Macaque Ventral Stream](../../conferences/neurips-2026/cards-0007.md#paper-152708)
+- [Inferring Computational Structure from Neural Recordings with Gain-Modulated Linear Dynamical Systems](../../conferences/neurips-2026/cards-0007.md#paper-153994)
+- [Inferring how internal brain state shapes neural responses with state-dependent diffusion models](../../conferences/neurips-2026/cards-0007.md#paper-149640)
+- [Inferring learning rules in deep neural network architectures from animal learning data](../../conferences/neurips-2026/cards-0007.md#paper-148570)
 
 <!-- conference-classification:end -->

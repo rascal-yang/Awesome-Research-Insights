@@ -695,5 +695,8 @@
 - [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](../conferences/neurips-2026/cards-0007.md#paper-149868)
 - [Imagine Before You Draw: Visual Prompt Engineering for Image Generation](../conferences/neurips-2026/cards-0007.md#paper-156043)
 - [Improved techniques for fine-tuning flow models via adjoint matching: a deterministic control pipeline](../conferences/neurips-2026/cards-0007.md#paper-154921)
+- [In-Context Learning Can Help Vision Language Models Overcome Training Prior](../conferences/neurips-2026/cards-0007.md#paper-148820)
+- [InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories](../conferences/neurips-2026/cards-0007.md#paper-153680)
+- [InfCLIP: Unified Data Valuation for CLIP Pretraining via Influence-Inspired Scoring](../conferences/neurips-2026/cards-0007.md#paper-150869)
 
 <!-- conference-classification:end -->

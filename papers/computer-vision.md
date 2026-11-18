@@ -875,5 +875,6 @@
 - [Improving Guidance-Free Visual Generation via Self-Contrastive Alignment for Likelihood Estimation](../conferences/neurips-2026/cards-0007.md#paper-152467)
 - [Improving Self-Supervised Vision Transformers with Cross Distillation](../conferences/neurips-2026/cards-0007.md#paper-151171)
 - [Improving the Diffusability of Motion Tokenizer](../conferences/neurips-2026/cards-0007.md#paper-150734)
+- [Inference-Time Self-Aligned Drifting for Few-Step Flow Matching](../conferences/neurips-2026/cards-0007.md#paper-155309)
 
 <!-- conference-classification:end -->

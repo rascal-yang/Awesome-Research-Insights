@@ -1073,5 +1073,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models](../../conferences/neurips-2026/cards-0007.md#paper-149053)
 - [Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration](../../conferences/neurips-2026/cards-0007.md#paper-151348)
 - [Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs](../../conferences/neurips-2026/cards-0007.md#paper-149121)
+- [Incentivizing Agentic Retrieval for Disease-Centric Clinical Case Search via Trajectory Memory](../../conferences/neurips-2026/cards-0007.md#paper-149120)
+- [In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective](../../conferences/neurips-2026/cards-0007.md#paper-150330)
+- [Inference Time Nash Alignment](../../conferences/neurips-2026/cards-0007.md#paper-153713)
+- [Inference-Time Refinement Closes the Synthetic-Real Gap in Tabular Diffusion](../../conferences/neurips-2026/cards-0007.md#paper-151371)
+- [Inference-Time Self-Aligned Drifting for Few-Step Flow Matching](../../conferences/neurips-2026/cards-0007.md#paper-155309)
+- [InfoNav: A Unified Value Framework Integrating Semantic Relevance and Information Gain for Zero-Shot Object Goal Navigation](../../conferences/neurips-2026/cards-0007.md#paper-149947)
+- [Information Templates: A New Paradigm for Intelligent Active Feature Acquisition](../../conferences/neurips-2026/cards-0007.md#paper-152156)
 
 <!-- conference-classification:end -->

@@ -704,5 +704,7 @@
 - [Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator](../conferences/neurips-2026/cards-0007.md#paper-151849)
 - [Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry](../conferences/neurips-2026/cards-0007.md#paper-153972)
 - [Implicit Goal Conditioning via Value Disaggregation](../conferences/neurips-2026/cards-0007.md#paper-154628)
+- [InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction](../conferences/neurips-2026/cards-0007.md#paper-152598)
+- [InfoNav: A Unified Value Framework Integrating Semantic Relevance and Information Gain for Zero-Shot Object Goal Navigation](../conferences/neurips-2026/cards-0007.md#paper-149947)
 
 <!-- conference-classification:end -->

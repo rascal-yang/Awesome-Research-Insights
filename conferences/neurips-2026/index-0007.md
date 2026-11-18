@@ -66,3 +66,48 @@
 | 计算机视觉 | 表征学习 | [Improving the Diffusability of Motion Tokenizer](cards-0007.md#paper-150734) | 动作词元器同时优化潜频谱可扩散性和时间解码。 |
 | 大语言模型 | 推理策略 | [Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs](cards-0007.md#paper-149121) | 良性协作任务用共享可更新依赖图协调分工。 |
 | 机器学习基础与统计 | 优化 | [Improving the Optimization Landscape of Matrix Completion with $\epsilon$-close Surrogates](cards-0007.md#paper-151753) | 矩阵补全可用保留原观测的微扰代理改善可分析性。 |
+| 机器学习基础与统计 | 模块 | [IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting](cards-0007.md#paper-154661) | 不规则时序在分词前保留采样间距。 |
+| 图学习与推荐 | 训练策略 | [IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation](cards-0007.md#paper-150515) | 用预聚合邻居基线加批内残差代替逐步全邻域重算。 |
+| 科学机器学习 | 推理策略 | [Incentivizing Agentic Retrieval for Disease-Centric Clinical Case Search via Trajectory Memory](cards-0007.md#paper-149120) | 检索规划先判断各证据维度是否足够直接匹配。 |
+| 科学机器学习 | 训练策略 | [Incentivizing Medical Vision Capabilities from Large-Scale Multimodal Pre-training](cards-0007.md#paper-156128) | 从预训练语料反向构造能调用已学知识的后训练任务。 |
+| 机器学习基础与统计 | 理论与统计 | [In-Context Benign Overfitting: A Feature-Selection Model in Linear Regression ICL](cards-0007.md#paper-154755) | ICL 的规模实验分开测训练任务检索和新任务学习。 |
+| 机器学习基础与统计 | 优化 | [In-Context Black-Box Optimization with Unreliable Feedback](cards-0007.md#paper-154930) | 黑盒搜索将辅助信号的可信度当作需在线推断的量。 |
+| 多模态学习 | 评测与诊断 | [In-Context Learning Can Help Vision Language Models Overcome Training Prior](cards-0007.md#paper-148820) | 用先验冲突样本加演示区分感知缺失和读出偏差。 |
+| 机器学习基础与统计 | 训练策略 | [In-context Learning in Presence of Spurious Correlations](cards-0007.md#paper-156780) | 元训练改变任务本身，避免模型把标签规则写回权重。 |
+| 科学机器学习 | 数据策略 | [In-context learning to predict critical transitions in dynamical systems](cards-0007.md#paper-155891) | 稀缺的突变预警训练按分岔机制合成随机动态。 |
+| 科学机器学习 | 模型架构 | [In-Context Multi-Operator Learning with DeepOSets](cards-0007.md#paper-154682) | 为一套算子模型提供无序输入输出示例指明所求算子。 |
+| 大语言模型 | 推理策略 | [In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective](cards-0007.md#paper-150330) | 固定检索器时针对每次查询调整生成器的证据接口。 |
+| 机器学习基础与统计 | 优化 | [Incorporating Neural Network Structure in the Bayesian Learning Rule](cards-0007.md#paper-153834) | 贝叶斯神经网络更新时显式利用层结构传播自然参数。 |
+| 机器学习基础与统计 | 理论与统计 | [Incremental Learning in Transformers for In-Context Associative Recall](cards-0007.md#paper-150555) | 关联回忆训练用初始化扫查不同电路的出现时点。 |
+| 强化学习 | 优化 | [Incremental Multiple Oracle](cards-0007.md#paper-155693) | 连续博弈的混合策略搜索约束每个玩家的候选策略池。 |
+| 科学机器学习 | 损失函数 | [Independent Latents, Robust Neural Operators](cards-0007.md#paper-148392) | 噪声传感下用在线潜统计独立正则保护算子重建。 |
+| 强化学习 | 理论与统计 | [Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics](cards-0007.md#paper-150509) | 独立学习时先验证短历史是否能近似部分观测状态。 |
+| 多模态学习 | 训练策略 | [InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories](cards-0007.md#paper-153680) | 冻结主干做持续适配时，在固定部署预算下选择可直接参与注意力的 KV 记忆。 |
+| 大语言模型 | 训练策略 | [Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems](cards-0007.md#paper-150230) | 生成关键软件时，按可证明的增量联合推进代码和证明，从失败目标反推修改。 |
+| 科学机器学习 | 优化 | [INEUS: Iterative Neural Solver for High-Dimensional PIDEs](cards-0007.md#paper-154584) | 非局部方程求解避免显式计算跳积分时，把非局部项变为单次跳跃采样。 |
+| 机器学习基础与统计 | 优化 | [Inexact Bregman Sparse Newton Method for Efficient Optimal Transport](cards-0007.md#paper-155946) | 需要精确运输计划时，用外层 Bregman 迭代保持原问题目标，内层只近似求解。 |
+| 机器学习基础与统计 | 理论与统计 | [In-Expectation Convergence of Stochastic Gradient Methods under Heavy-Tailed Noise](cards-0007.md#paper-151715) | 噪声只有有限 p 阶矩时，把未改动 SGD 或随机镜像下降作为重尾实验的有效基线。 |
+| 多模态学习 | 数据策略 | [InfCLIP: Unified Data Valuation for CLIP Pretraining via Influence-Inspired Scoring](cards-0007.md#paper-150869) | 目标任务明确时，以基于冻结特征的影响启发式替代手调多项数据筛选分数。 |
+| 机器人学 | 强化学习方法 | [InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction](cards-0007.md#paper-152598) | 接触规划偏离执行时，以闭环回放的奖励分别更新流规划器和物理控制器。 |
+| 机器学习基础与统计 | 理论与统计 | [Inference for Many Quantiles under Local Differential Privacy](cards-0007.md#paper-148280) | 本地隐私限制下同时估计多个分位数时，用非交叉投影和联合自归一化。 |
+| 大语言模型 | 推理策略 | [Inference Time Nash Alignment](cards-0007.md#paper-153713) | 成对偏好难压成单一标量时，推理端比较 Nash 求解与奖励排序。 |
+| 机器学习基础与统计 | 推理策略 | [Inference-Time Refinement Closes the Synthetic-Real Gap in Tabular Diffusion](cards-0007.md#paper-151371) | 冻结表格扩散模型后，尝试以同一双向覆盖目标同时指导采样与筛选。 |
+| 计算机视觉 | 推理策略 | [Inference-Time Self-Aligned Drifting for Few-Step Flow Matching](cards-0007.md#paper-155309) | 流匹配步数受限时，用轨迹动量残差定向增加变化，而不是全程添加各向同性噪声。 |
+| 大语言模型 | 评测与诊断 | [Inference-Time Vulnerability Beyond Shallow Safety: Alignment Along Generation Trajectories](cards-0007.md#paper-156068) | 审核模型的生成安全时，将生成中段的防护表现作为单独验收维度。 |
+| 科学机器学习 | 评测与诊断 | [Inferotemporal Cortex Collaborates Before It Codes: Non-Serial Inter-Area Synergy in the Macaque Ventral Stream](cards-0007.md#paper-152708) | 层级编码的时间分析同时测独有信息和跨区协同。 |
+| 科学机器学习 | 模型架构 | [Inferring Computational Structure from Neural Recordings with Gain-Modulated Linear Dynamical Systems](cards-0007.md#paper-153994) | 拟合潜轨迹后还要验证沿轨迹的局部动力学。 |
+| 科学机器学习 | 评测与诊断 | [Inferring how internal brain state shapes neural responses with state-dependent diffusion models](cards-0007.md#paper-149640) | 条件生成把未见条件组合的补覆盖与已见条件的重复采样分开。 |
+| 科学机器学习 | 理论与统计 | [Inferring learning rules in deep neural network architectures from animal learning data](cards-0007.md#paper-148570) | 从行为轨迹识别学习规则时先检验不同深度模型是否可区分。 |
+| 机器学习基础与统计 | 理论与统计 | [InfoFlow: A Framework for Multi-Layer Transformer Analysis](cards-0007.md#paper-148677) | 检索需要非最大元素或多个耦合条目时检查深度，而非只扩宽单层。 |
+| 机器人学 | 推理策略 | [InfoNav: A Unified Value Framework Integrating Semantic Relevance and Information Gain for Zero-Shot Object Goal Navigation](cards-0007.md#paper-149947) | 导航前沿评分联合考虑找到目标的机会和信息增益。 |
+| 机器学习基础与统计 | 评测与诊断 | [Information bottleneck dynamics during learning across artificial and biological neural systems](cards-0007.md#paper-153429) | 诊断表征学习时分别追踪目标相关性和输入信息压缩。 |
+| 强化学习 | 强化学习方法 | [Information-Directed Offline-to-Online Reinforcement Learning](cards-0007.md#paper-154972) | 离线转在线应按已有数据条件下的剩余不确定性选探测动作。 |
+| 大语言模型 | 评测与诊断 | [Information Discernment in Large Language Models](cards-0007.md#paper-154203) | 检索后验收把来源可靠性与内容是否增进真实度分开。 |
+| 强化学习 | 优化 | [Information-Geometric Forward Policy Training in GFlowNets](cards-0007.md#paper-149101) | GFlowNet 策略更新可按轨迹 Fisher 利用目标结构。 |
+| 图学习与推荐 | 理论与统计 | [Information Loss and Disparate Effects in Network Embeddings](cards-0007.md#paper-151063) | 比较图嵌入时分社区检查结构信息丢失。 |
+| 大语言模型 | 评测与诊断 | [Information Parity for Code: The Scope of Transfer in Multilingual Code Models](cards-0007.md#paper-139705) | 跨编程语言评测分开短局部生成、执行预测和整程序生成。 |
+| 机器学习基础与统计 | 训练策略 | [Information Propagation via Sign-Flip Dynamics](cards-0007.md#paper-151344) | 恒等加噪初始化时校准信号符号保留率。 |
+| 机器学习基础与统计 | 推理策略 | [Information Templates: A New Paradigm for Intelligent Active Feature Acquisition](cards-0007.md#paper-152156) | 主动特征采集用少量联合信息模板缩小搜索。 |
+| 机器学习基础与统计 | 理论与统计 | [Information-Theoretic Generalization Bounds for Sequential Decision Making](cards-0007.md#paper-149551) | 序列泛化按每轮选择信息累加，避免把自适应样本当独立批样本。 |
+| 机器学习基础与统计 | 理论与统计 | [Information-Theoretic Generalization for Set-Input Optimization-Valued Objectives](cards-0007.md#paper-153827) | 验证批量风险指标时把重优化后的选择差异纳入泛化分析。 |
+| 强化学习 | 强化学习方法 | [Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs](cards-0007.md#paper-155089) | 少量示范暖启动需要建模专家能力不确定性。 |

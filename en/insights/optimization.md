@@ -572,5 +572,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Improving Function Space Flow Matching with Kernel Optimal Transport](../../conferences/neurips-2026/cards-0007.md#paper-152774)
 - [Improving Quantized Zeroth-Order Optimization through Reconstructed Low-Rank Structures](../../conferences/neurips-2026/cards-0007.md#paper-155969)
 - [Improving the Optimization Landscape of Matrix Completion with $\epsilon$-close Surrogates](../../conferences/neurips-2026/cards-0007.md#paper-151753)
+- [In-Context Black-Box Optimization with Unreliable Feedback](../../conferences/neurips-2026/cards-0007.md#paper-154930)
+- [Incorporating Neural Network Structure in the Bayesian Learning Rule](../../conferences/neurips-2026/cards-0007.md#paper-153834)
+- [Incremental Multiple Oracle](../../conferences/neurips-2026/cards-0007.md#paper-155693)
+- [INEUS: Iterative Neural Solver for High-Dimensional PIDEs](../../conferences/neurips-2026/cards-0007.md#paper-154584)
+- [Inexact Bregman Sparse Newton Method for Efficient Optimal Transport](../../conferences/neurips-2026/cards-0007.md#paper-155946)
+- [Information-Geometric Forward Policy Training in GFlowNets](../../conferences/neurips-2026/cards-0007.md#paper-149101)
 
 <!-- conference-classification:end -->
