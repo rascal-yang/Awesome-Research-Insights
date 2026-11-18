@@ -2176,3 +2176,48 @@
 - **适用条件 / 局限** · 结论来自仿真及已测基线；真实部署的域切换行为待验证。
 
 **可复用机制** · 在部署选型时对同一策略分别测单域与跨边界回合，量化切换引起的退化并检查成功率和安全的排序是否一致。
+
+<a id="paper-sal8urvt1f"></a>
+
+## PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation
+
+[会议记录](https://openreview.net/forum?id=Sal8Urvt1F) · [原文](https://openreview.net/pdf?id=Sal8Urvt1F)
+
+- **问题 / 瓶颈** · 鸟瞰图有全局信息，但局部里程计漂移会破坏先验和当前位姿的对应。
+- **核心创新 / 方法** · 用图像生成模型根据语言在鸟瞰图中识别终点并生成可通行掩码；执行时用跨视角定位修正对齐。
+- **Baseline** · 执行端为常规局部运动规划器；摘要未列完整比较方法。
+- **Benchmark** · 基准实验及四足、无人机验证；户外长距任务用实际完成距离示例说明。
+- **关键结果 / 消融** · 报告完成 285 米户外导航；摘要未量化掩码与定位模块各自的增益。
+- **适用条件 / 局限** · 依赖鸟瞰图覆盖与跨视角匹配质量；俯视图不可见区域仍需局部感知。
+
+**可复用机制** · 若已有稳定局部控制，将生成模型输出约束为地理对齐的掩码，分别测试地图先验和重定位对长程成功率的贡献。
+
+<a id="paper-xyfvvmlqro"></a>
+
+## GLST: Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation
+
+[会议记录](https://openreview.net/forum?id=xyFvvMLQRo) · [原文](https://openreview.net/pdf?id=xyFvvMLQRo)
+
+- **问题 / 瓶颈** · 目标无显式切换信号时，继续探索和回访需要不同的记忆信息。
+- **核心创新 / 方法** · 将信念拆分为全局与局部空间表示、长期与短期时间表示，配合目标条件奖励调节探索和回访。
+- **Baseline** · 与导航基线比较；摘要未列名称。
+- **Benchmark** · 多地形仿真连锁目标导航，包含原目标改向和新目标出现；另在 Spot 四足上验证。
+- **关键结果 / 消融** · 作者报告总体表现优于基线；摘要未报告提升幅度和各记忆分支的独立影响。
+- **适用条件 / 局限** · 依赖任务中存在可利用的探索及回访历史；频繁切换与错误目标识别的影响未说明。
+
+**可复用机制** · 对线上目标更新任务按空间尺度和时间尺度拆记忆，在相同容量下与统一记忆对照，并分开测探索与回访。
+
+<a id="paper-7vjpgj7x2b"></a>
+
+## SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving
+
+[会议记录](https://openreview.net/forum?id=7vjPgJ7x2b) · [原文](https://openreview.net/pdf?id=7vjPgJ7x2b)
+
+- **问题 / 瓶颈** · 直接执行自由文本指令容易忽略当前场景与目标之间的冲突。
+- **核心创新 / 方法** · 在动作生成之前设置可解释冲突预测，用导航意图条件化的世界模型预估后续场景。
+- **Baseline** · 比较既有驾驶 VLA 与先前最优方法；摘要未列名称。
+- **Benchmark** · Bench2Drive 报 DS 和 SR；另测安全跟随、场景冲突感知、异常指令鲁棒性。
+- **关键结果 / 消融** · Bench2Drive 的 DS 为 83.64，SR 为 59.82%；闭环语言跟随提升 48.7%，不安全指令测试中的碰撞从 66 降至 45。
+- **适用条件 / 局限** · 世界模型误判仍可能带来错误放行或拒绝；摘要未给模块单独消融或道路部署依据。
+
+**可复用机制** · 给语言控制加动作前可行性判定，分别测正确指令的通过率和冲突指令导致的失败率。
