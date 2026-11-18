@@ -335,5 +335,7 @@ Graph models, knowledge graphs, and recommender systems.
 - [Oversmoothing as Representation Degeneracy in Neural Sheaf Diffusion](../../conferences/neurips-2026/cards-0009.md#paper-152216)
 - [PANDA: Prior-guided Attentional Dual-path Architecture](../../conferences/neurips-2026/cards-0009.md#paper-153505)
 - [Regularization Paths for Continuous DAG Learning](../../conferences/neurips-2026/cards-0010.md#paper-150245)
+- [Return to Basics: Very Simple Graph Contrastive Learning via Noise Cancellation Principle](../../conferences/neurips-2026/cards-0010.md#paper-151575)
+- [Reusable Conditional Resampling via Flow Matching for Constraint-Based Causal Discovery](../../conferences/neurips-2026/cards-0010.md#paper-153712)
 
 <!-- conference-classification:end -->

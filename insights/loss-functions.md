@@ -387,5 +387,7 @@
 - [[Re] Boosting the Visual Interpretability of CLIP via Adversarial Fine-Tuning](../conferences/neurips-2026/cards-0010.md#paper-157021)
 - [Reconsidering Positional Supervision in Masked Diffusion Language Model Training](../conferences/neurips-2026/cards-0010.md#paper-152472)
 - [Representation Fréchet Loss for Visual Generation](../conferences/neurips-2026/cards-0010.md#paper-154990)
+- [Rethinking Contrastive Targets in Radiology Language-Image Pretraining](../conferences/neurips-2026/cards-0010.md#paper-148888)
+- [Rethinking Learning from Label Proportions via Moment Matching](../conferences/neurips-2026/cards-0010.md#paper-154686)
 
 <!-- conference-classification:end -->

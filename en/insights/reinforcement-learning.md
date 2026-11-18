@@ -662,5 +662,12 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reinforcing Multimodal Reasoning Against Visual Degradation](../../conferences/neurips-2026/cards-0010.md#paper-152003)
 - [Reinforcing VLAs in Task-Agnostic World Models](../../conferences/neurips-2026/cards-0010.md#paper-153917)
 - [RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models](../../conferences/neurips-2026/cards-0010.md#paper-153104)
+- [Response Time Enhances Alignment with Heterogeneous Preferences](../../conferences/neurips-2026/cards-0010.md#paper-150008)
+- [Rethinking Ratio-Based Trust Regions for Policy Optimization in Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-148870)
+- [Rethinking Visual Reasoning in Text-to-Image Reward Modeling](../../conferences/neurips-2026/cards-0010.md#paper-153173)
+- [Reward Budgeting Reduces Premature Convergence in Reinforcement Learning for LLM Reasoning](../../conferences/neurips-2026/cards-0010.md#paper-152882)
+- [Reward-Conditioned Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-151928)
+- [RewardFlow: Topology-Aware Reward Propagation on State Graphs  for Agentic RL with LLMs](../../conferences/neurips-2026/cards-0010.md#paper-148702)
+- [Reward-free Pretraining for Reinforcement Learning via Occupancy Coverage Maximization](../../conferences/neurips-2026/cards-0010.md#paper-148947)
 
 <!-- conference-classification:end -->

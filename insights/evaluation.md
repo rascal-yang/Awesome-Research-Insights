@@ -1636,5 +1636,17 @@
 - [Residual Calibration via Local Feature-Space Refinement](../conferences/neurips-2026/cards-0010.md#paper-153548)
 - [Residual Expertise Is Not Decision Value](../conferences/neurips-2026/cards-0010.md#paper-152370)
 - [Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization](../conferences/neurips-2026/cards-0010.md#paper-148940)
+- [Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior](../conferences/neurips-2026/cards-0010.md#paper-150039)
+- [Rethinking Reward Models for Multi-Domain Test-Time Scaling](../conferences/neurips-2026/cards-0010.md#paper-156790)
+- [Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy](../conferences/neurips-2026/cards-0010.md#paper-139009)
+- [Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models](../conferences/neurips-2026/cards-0010.md#paper-151683)
+- [Rethinking XAI Evaluation: A Human-Centered Audit of Shapley Benchmarks in High-Stakes Settings](../conferences/neurips-2026/cards-0010.md#paper-138901)
+- [Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information](../conferences/neurips-2026/cards-0010.md#paper-155146)
+- [Reusable Conditional Resampling via Flow Matching for Constraint-Based Causal Discovery](../conferences/neurips-2026/cards-0010.md#paper-153712)
+- [Revealing Epistemic Uncertainty in MLLMs via Causal-Invariant Masking](../conferences/neurips-2026/cards-0010.md#paper-155863)
+- [Revealing the Gap in Human and VLM Scene Perception through Counterfactual Semantic Saliency](../conferences/neurips-2026/cards-0010.md#paper-154819)
+- [Revisiting "Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing"](../conferences/neurips-2026/cards-0010.md#paper-157015)
+- [Revisiting Incremental Learning: A Three-Interface Diagnosis of Stability and Plasticity](../conferences/neurips-2026/cards-0010.md#paper-150119)
+- [Reward Bias Substitution: Single-Axis Bias Mitigations Redirect Optimization Pressure](../conferences/neurips-2026/cards-0010.md#paper-154792)
 
 <!-- conference-classification:end -->

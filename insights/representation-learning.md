@@ -585,5 +585,8 @@
 - [RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](../conferences/neurips-2026/cards-0010.md#paper-154626)
 - [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-151906)
 - [Representation Rigidity in Face Embeddings: Orthogonal Identifiability and Backfill-Free Compatibility](../conferences/neurips-2026/cards-0010.md#paper-151431)
+- [Resolving Representation Ambiguity in Feedforward Novel View Synthesis Transformer via Semantic-Spatial Decoupling](../conferences/neurips-2026/cards-0010.md#paper-155192)
+- [Return to Basics: Very Simple Graph Contrastive Learning via Noise Cancellation Principle](../conferences/neurips-2026/cards-0010.md#paper-151575)
+- [Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison](../conferences/neurips-2026/cards-0010.md#paper-149886)
 
 <!-- conference-classification:end -->

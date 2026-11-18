@@ -1097,5 +1097,15 @@ Visual representation, recognition, reconstruction, and generation.
 - [Representation Fréchet Loss for Visual Generation](../../conferences/neurips-2026/cards-0010.md#paper-154990)
 - [Representation Preconditioning for Efficient Diffusion Model Training](../../conferences/neurips-2026/cards-0010.md#paper-151596)
 - [Representation Rigidity in Face Embeddings: Orthogonal Identifiability and Backfill-Free Compatibility](../../conferences/neurips-2026/cards-0010.md#paper-151431)
+- [Resolving Representation Ambiguity in Feedforward Novel View Synthesis Transformer via Semantic-Spatial Decoupling](../../conferences/neurips-2026/cards-0010.md#paper-155192)
+- [Rethinking Cross-Layer Information Routing in Diffusion Transformer](../../conferences/neurips-2026/cards-0010.md#paper-154194)
+- [Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](../../conferences/neurips-2026/cards-0010.md#paper-139495)
+- [Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation](../../conferences/neurips-2026/cards-0010.md#paper-152569)
+- [Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection](../../conferences/neurips-2026/cards-0010.md#paper-149274)
+- [Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction](../../conferences/neurips-2026/cards-0010.md#paper-148467)
+- [Retrieve What’s Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation](../../conferences/neurips-2026/cards-0010.md#paper-148557)
+- [Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison](../../conferences/neurips-2026/cards-0010.md#paper-149886)
+- [Revisiting Diffusion Model Predictions Through Dimensionality](../../conferences/neurips-2026/cards-0010.md#paper-153192)
+- [Revisiting "Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing"](../../conferences/neurips-2026/cards-0010.md#paper-157015)
 
 <!-- conference-classification:end -->

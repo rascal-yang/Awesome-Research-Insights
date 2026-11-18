@@ -428,5 +428,11 @@
 - [Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory](../conferences/neurips-2026/cards-0010.md#paper-150643)
 - [Remember Your Trace: Memory-Guided Long-Horizon Agentic Framework for Consistent and Hierarchical Repository-Level Code Documentation](../conferences/neurips-2026/cards-0010.md#paper-154827)
 - [Resilient Latent Readouts for Long-Context Question Answering](../conferences/neurips-2026/cards-0010.md#paper-148752)
+- [ReSMap: Recasting Satellite Priors for Robust and Accurate Online HD Map Construction](../conferences/neurips-2026/cards-0010.md#paper-149564)
+- [Rethinking Attention in Depth for Operator Learning](../conferences/neurips-2026/cards-0010.md#paper-150899)
+- [Rethinking Softmax Attention: Polynomial Activations for Transformers](../conferences/neurips-2026/cards-0010.md#paper-154100)
+- [Rethinking the Mixture of Vision Encoders Paradigm for Enhanced Visual Understanding in Multimodal LLMs](../conferences/neurips-2026/cards-0010.md#paper-156791)
+- [RETR: A Structure-Preserving RGB-Event Transformer for Robust 3D Lane Detection](../conferences/neurips-2026/cards-0010.md#paper-151873)
+- [Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection](../conferences/neurips-2026/cards-0010.md#paper-151927)
 
 <!-- conference-classification:end -->

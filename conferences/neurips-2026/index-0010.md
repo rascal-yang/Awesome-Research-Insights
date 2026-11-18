@@ -277,3 +277,83 @@
 | 机器学习基础与统计 | 评测与诊断 | [Residual Expertise Is Not Decision Value](cards-0010.md#paper-152370) | 人工介入排序看预期行动收益而非预测改进 |
 | 具身智能与机器人 | 评测与诊断 | [Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization](cards-0010.md#paper-148940) | 具身系统除成功率外测恢复代价与压力下完成 |
 | 智能体 | 记忆与检索 | [Resilient Latent Readouts for Long-Context Question Answering](cards-0010.md#paper-148752) | 重新定位证据入库时比较原前缀潜态和文本重编码 |
+| 机器学习理论 | 半监督学习 | [Resilient Semi-Supervised Inference with Heterogeneous Unlabeled Data](cards-0010.md#paper-155194) | 无标注集漂移时交叉验证稳健校准器。 |
+| 深度学习 | 模型鲁棒性 | [RESIST: Resilient Decentralized Learning Using Consensus Gradient Descent](cards-0010.md#paper-156789) | 无中心训练需分别计防御通信和本地更新。 |
+| 模型效率与系统 | 剪枝与稀疏化 | [ResKV: Residual-based Channel-wise Unstructured Pruning for KV Cache Compression](cards-0010.md#paper-152894) | 相似 KV 向量只压其偏离中心的残差。 |
+| 多模态学习 | 多模态融合 | [ReSMap: Recasting Satellite Priors for Robust and Accurate Online HD Map Construction](cards-0010.md#paper-149564) | 用独立传感先验当故障后备。 |
+| 计算机视觉 | 表征学习 | [Resolving Representation Ambiguity in Feedforward Novel View Synthesis Transformer via Semantic-Spatial Decoupling](cards-0010.md#paper-155192) | 前馈新视角合成将语义与空间放进不同 token。 |
+| 深度学习 | 时序建模 | [Resolving Time-Frequency Ridge Crossings via Frequency-Rate Lifting](cards-0010.md#paper-149622) | 瞬时频率交叉时添加频率变化率。 |
+| 模型效率与系统 | 参数高效微调 | [Resource-Aware Parameter-Efficient Model Adaptation for Onboard High-Dimensional Data](cards-0010.md#paper-154217) | 低秩主支和非线性残差分开设置训练。 |
+| 大语言模型 | 偏好优化 | [Response Time Enhances Alignment with Heterogeneous Preferences](cards-0010.md#paper-150008) | 匿名异质偏好额外记录反应时间。 |
+| 大语言模型 | 搜索与规划 | [ReST-RL: Reinforcing LLM Reasoning through Unified Self-Training and Value-Guided Search](cards-0010.md#paper-152832) | 将搜索价值拟合并回用训练与解码。 |
+| 深度学习 | 参数高效微调 | [Rest-Tuning: Data-Efficient Adaptation of EEG Foundation Models to Individuals via Resting-State Signals](cards-0010.md#paper-153812) | 在任务数据前用被试无标签基线校准。 |
+| 深度学习 | 优化算法 | [Retain-Neutral Surrogates for Min-Max Unlearning](cards-0010.md#paper-155814) | 遗忘代理的内层移动约束保留梯度。 |
+| 深度学习 | 注意力机制 | [Rethinking Attention in Depth for Operator Learning](cards-0010.md#paper-150899) | 算子注意力让层间差异参与造核。 |
+| 大语言模型 | 优化算法 | [Rethinking Bayesian Optimization for Co-Optimizing LLM Training Configurations](cards-0010.md#paper-148264) | 联合搜数据与模型前用少步训练先拟合终局。 |
+| 具身智能与机器人 | 流匹配 | [Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching](cards-0010.md#paper-154643) | 自回归动作码按因果顺序编码粗到细残差。 |
+| 多模态学习 | 对比学习 | [Rethinking Contrastive Loss in CLIP Post-training: A Complementary Framework with Frozen Text Encoder](cards-0010.md#paper-148979) | CLIP 继续训练先校准温度再引入其他损失。 |
+| 多模态学习 | 损失函数 | [Rethinking Contrastive Targets in Radiology Language-Image Pretraining](cards-0010.md#paper-148888) | 事实重叠的图文训练中，用内容相容代替一对一身份标签。 |
+| 计算机视觉 | 模型架构 | [Rethinking Cross-Layer Information Routing in Diffusion Transformer](cards-0010.md#paper-154194) | 用随去噪步变化的历史层聚合替换逐层残差累加。 |
+| 计算机视觉 | 数据策略 | [Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](cards-0010.md#paper-139495) | 在相同训练预算和监督协议下先用真实样本子集对照蒸馏数据。 |
+| 大语言模型 | 推理策略 | [Rethinking Diffusion Decoding via Structural Commitment](cards-0010.md#paper-151740) | 把互相依赖且对剩余掩码依赖弱的 token 作为同一解码单元。 |
+| 大语言模型 | 模型架构 | [Rethinking Expressivity and Efficiency in Test-Time Training](cards-0010.md#paper-149206) | 对逐 token 动量与衰减推出闭式块更新，再将测试时训练并行化。 |
+| 计算机视觉 | 理论与统计 | [Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation](cards-0010.md#paper-152569) | 单目 3D 中用尺寸和朝向修正框高得到的中心深度。 |
+| 大语言模型 | 模型架构 | [Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory](cards-0010.md#paper-150576) | 长期代理记忆同时索引来源片段、原子事实和聚合画像。 |
+| 多模态学习 | 模型架构 | [Rethinking Incompleteness: Formalizing Protocol Divergence and Train-Once Learning for Robust IMVC](cards-0010.md#paper-150214) | 缺失模态实验同时报告完整样本占比和整体缺失率。 |
+| 多模态学习 | 推理策略 | [Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding](cards-0010.md#paper-153158) | 局部熵异常时延迟离散提交，直到预测分布稳定。 |
+| 大语言模型 | 训练策略 | [Rethinking Knowledge Distillation for Diffusion Language Models](cards-0010.md#paper-152596) | 蒸馏扩散语言模型时先用教师样本学习，再让教师监督学生轨迹。 |
+| 大语言模型 | 优化 | [Rethinking Language Model Scaling under Transferable Hypersphere Optimization](cards-0010.md#paper-151695) | 在球面约束 Muon 训练中迁移小规模学习率，并保留深度参数化。 |
+| 机器学习基础与统计 | 优化 | [Rethinking Layer-wise Model Merging through Chain of Merges](cards-0010.md#paper-153444) | 逐层合并模型后重算激活，再用实际新输入校准下游层。 |
+| 机器学习基础与统计 | 损失函数 | [Rethinking Learning from Label Proportions via Moment Matching](cards-0010.md#paper-154686) | 有包级类别占比时，在非随机组包情形下监督更高阶计数矩。 |
+| 视觉与多模态 | 效率与系统 | [Rethinking Long-Video Efficiency: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency](cards-0010.md#paper-151504) | 长视频保低清全局并选择少量高分原图帧 |
+| 大语言模型 | 训练与优化 | [Rethinking LoRA Initialization for Robust Asymmetric Learning Rates](cards-0010.md#paper-154754) | 非对称 LoRA 学习率要匹配初始化 |
+| 大语言模型 | 训练与优化 | [Rethinking On-Policy Self-Distillation for Thinking Models](cards-0010.md#paper-152392) | 在线自蒸馏时检查教师是否惩罚自我复核动作 |
+| 智能体 | 效率与系统 | [Rethinking Parallel Multi-Agent Systems: A Cost-Aware Framework for Efficient Coordination](cards-0010.md#paper-155478) | 按任务规模和协调成本决定是否并行 |
+| 视觉与多模态 | 模型与架构 | [Rethinking Projector Training in Multimodal LLMs](cards-0010.md#paper-153944) | 投影器预训练前试无配对分布对齐 |
+| 大语言模型 | 评测与诊断 | [Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior](cards-0010.md#paper-150039) | 人设回归以实际行为和上下文扰动验收 |
+| 强化学习与决策 | 强化学习与奖励 | [Rethinking Ratio-Based Trust Regions for Policy Optimization in Multi-Agent Reinforcement Learning](cards-0010.md#paper-148870) | 多智能体信赖域比较对称几何屏障 |
+| 大语言模型 | 评测与诊断 | [Rethinking Reward Models for Multi-Domain Test-Time Scaling](cards-0010.md#paper-156790) | 长链跨域候选选择并测生成式终局验证 |
+| 大语言模型 | 训练与优化 | [Rethinking "RL Generalizes, SFT Memorizes": The Role of SFT Data](cards-0010.md#paper-149183) | 比较 SFT 和 RL 要匹配数据及 rollout 预算 |
+| 大语言模型 | 评测与诊断 | [Rethinking SAE Evaluation: An Atomic Interpretable Unit Framework Reveals Hidden Polysemanticity and Redundancy](cards-0010.md#paper-139009) | 稀疏自编码器单列主导贡献特征可解释性 |
+| 大语言模型 | 注意力机制 | [Rethinking Softmax Attention: Polynomial Activations for Transformers](cards-0010.md#paper-154100) | 换 softmax 时先保持注意力矩阵范数。 |
+| 深度学习 | 时序建模 | [Rethinking State Tracking in Recurrent Models Through Error Control Dynamics](cards-0010.md#paper-151964) | 递归状态监测类间间隔相对类内扩散。 |
+| 大语言模型 | 结构化生成 | [Rethinking Structured Generation: Can Graph-Based Reasoning Resolve Ambiguity?](cards-0010.md#paper-152202) | 有歧义输入训练保留多合法候选。 |
+| 多模态学习 | 多模态融合 | [Rethinking the Mixture of Vision Encoders Paradigm for Enhanced Visual Understanding in Multimodal LLMs](cards-0010.md#paper-156791) | 不同视觉编码器先各自投影再按图块交错。 |
+| 计算机视觉 | 视频建模 | [Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection](cards-0010.md#paper-149274) | 先换时序读出再判断视频主干有无价值。 |
+| 计算机视觉 | 三维视觉 | [Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction](cards-0010.md#paper-148467) | 常内存重建加帧级信息门。 |
+| 深度学习 | 时序建模 | [Rethinking Time Series Tokenization from a Frequency Perspective](cards-0010.md#paper-149503) | 时序切 token 前测频谱畸变。 |
+| 多模态学习 | 训练策略 | [Rethinking Training Targets, Architectures and Data Quality for Universal Speech Enhancement](cards-0010.md#paper-152599) | 去混响目标优先对齐无回声波形。 |
+| 生成模型 | 流匹配 | [Rethinking Vector Field Learning for Generative Segmentation](cards-0010.md#paper-152704) | 生成分割的流目标加入距离修正。 |
+| 多模态学习 | 可解释性 | [Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models](cards-0010.md#paper-151683) | 视觉归因只在因果证据可确认样本上测忠实度。 |
+| 生成模型 | 奖励设计 | [Rethinking Visual Reasoning in Text-to-Image Reward Modeling](cards-0010.md#paper-153173) | T2I 奖励学习混合同提示异图和同图异提示。 |
+| 深度学习 | 可解释性 | [Rethinking XAI Evaluation: A Human-Centered Audit of Shapley Benchmarks in High-Stakes Settings](cards-0010.md#paper-138901) | 面向人的解释评估加决策效果与信心校准。 |
+| 多模态学习 | 检索增强 | [ReToken: One Token to Improve Vision–Language Models for Visual Retrieval](cards-0010.md#paper-155661) | 长视觉上下文用一个学习 token 从 KV 检索。 |
+| 多模态学习 | 多模态融合 | [RETR: A Structure-Preserving RGB-Event Transformer for Robust 3D Lane Detection](cards-0010.md#paper-151873) | 强曝光变化训练考虑异步事件辅助空间结构。 |
+| 深度学习 | 检索增强 | [Retrieval-Centric Deep Learning in Growing Nonparametric Neural Networks](cards-0010.md#paper-150000) | 样本极少时比较逐样本记忆层与固定权重。 |
+| 大语言模型 | 检索增强 | [Retrieval from Within: An Intrinsic Capability of Attention-Based Models](cards-0010.md#paper-154257) | 用模型自身查询评分并直接复用证据上下文。 |
+| 多模态学习 | 可解释性 | [Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information](cards-0010.md#paper-155146) | 视觉 grounding 头用输出位置对目标区域的注意力打分。 |
+| 深度学习 | 模型路由 | [Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection](cards-0010.md#paper-151927) | 域外时序先检索相似任务再选异常检测器。 |
+| 大语言模型 | 检索增强 | [Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS](cards-0010.md#paper-148700) | 多跳问答可直接搜索语料证据路径。 |
+| 机器人学 | 推理策略 | [Retrieve-then-Rerank Inference for Vocabulary-Based End-to-End Driving](cards-0010.md#paper-154122) | 固定候选轨迹离线建索引，在线只精排满足场景约束的子集。 |
+| 机器人学 | 推理策略 | [Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs](cards-0010.md#paper-154552) | 重复部署的冻结 VLA 可以用成功动作块引导中间采样状态。 |
+| 计算机视觉 | 推理策略 | [Retrieve What’s Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation](cards-0010.md#paper-148557) | 从视频记忆里按未覆盖区域增益选帧。 |
+| 图学习 | 表征学习 | [Return to Basics: Very Simple Graph Contrastive Learning via Noise Cancellation Principle](cards-0010.md#paper-151575) | 把节点特征和拓扑聚合表示直接作为对比视图。 |
+| 图学习 | 评测与诊断 | [Reusable Conditional Resampling via Flow Matching for Constraint-Based Causal Discovery](cards-0010.md#paper-153712) | 训练一个联合生成器，跨多个条件查询复用条件重采样。 |
+| 多模态学习 | 评测与诊断 | [Revealing Epistemic Uncertainty in MLLMs via Causal-Invariant Masking](cards-0010.md#paper-155863) | 比较完整图像和保留任务相关证据的视图下的语义预测偏移。 |
+| 多模态学习 | 评测与诊断 | [Revealing the Gap in Human and VLM Scene Perception through Counterfactual Semantic Saliency](cards-0010.md#paper-154819) | 用物体存在与移除时的输出差异测场景理解偏差。 |
+| 机器人学 | 数据策略 | [Reverse to Advance: Teleoperation-Cost Effective Hard Policy Learning from Reversed Easy Tasks](cards-0010.md#paper-152349) | 正向动作示范太贵时，采集简单反向任务并过滤时间翻转后的轨迹。 |
+| 科学机器学习 | 推理策略 | [Reversing the Roles of Signal and Noise: Modeling Noise in Astronomical Images without Paired Data](cards-0010.md#paper-150362) | 加性噪声没有单独观测时，用干净信号的生成分布判断候选去噪结果。 |
+| 大语言模型 | 推理策略 | [Revisiting Activation Steering Through an Optimization Lens](cards-0010.md#paper-153961) | 进行层间激活干预时，后层重新估计方向并累计前层动量。 |
+| 计算机视觉 | 表征学习 | [Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison](cards-0010.md#paper-149886) | 用加入第二视图带来的重建误差下降作为共视性监督。 |
+| 计算机视觉 | 训练策略 | [Revisiting Diffusion Model Predictions Through Dimensionality](cards-0010.md#paper-153192) | 当表征维数与数据内在维数差距未知时，可以学习扩散的预测目标混合系数。 |
+| 计算机视觉 | 评测与诊断 | [Revisiting "Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing"](cards-0010.md#paper-157015) | 评测图像隐私防御时分开衡量身份保护与原图保真。 |
+| 具身智能与机器人 | 训练与优化 | [Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation](cards-0010.md#paper-156114) | 控制推理把具体动作语言用作训练信号，推理时直出动作 |
+| 机器学习基础与统计 | 评测与诊断 | [Revisiting Incremental Learning: A Three-Interface Diagnosis of Stability and Plasticity](cards-0010.md#paper-150119) | 持续学习失败先检查预测头错配 |
+| 机器学习基础与统计 | 训练与优化 | [Revisiting the Adam–SGD Gap Beyond Single Factors](cards-0010.md#paper-150610) | Adam 与 SGD 要按批量和任务重新比较 |
+| 视觉与多模态 | 模型与架构 | [Reviving the Discarded High-Resolution Feature for Transformer-Based Tiny Object Detection](cards-0010.md#paper-151129) | 微小目标检测给查询接入被忽略的高分辨率特征 |
+| 具身智能与机器人 | 模型与架构 | [ReVMap: Vectorized Global Mapping via Connectivity-Aware Local Map Fusion](cards-0010.md#paper-152372) | 矢量地图局部到全局融合保留结构不确定性 |
+| 大语言模型 | 评测与诊断 | [Reward Bias Substitution: Single-Axis Bias Mitigations Redirect Optimization Pressure](cards-0010.md#paper-154792) | 奖励去偏按 prompt 及策略分布重新评估 |
+| 大语言模型 | 强化学习与奖励 | [Reward Budgeting Reduces Premature Convergence in Reinforcement Learning for LLM Reasoning](cards-0010.md#paper-152882) | 每提示固定总正确奖励以缓和提前收敛 |
+| 强化学习与决策 | 强化学习与奖励 | [Reward-Conditioned Reinforcement Learning](cards-0010.md#paper-151928) | 奖励偏好部署变化时用同一 replay 多目标重标 |
+| 智能体 | 强化学习与奖励 | [RewardFlow: Topology-Aware Reward Propagation on State Graphs  for Agentic RL with LLMs](cards-0010.md#paper-148702) | 重复到达状态的多条路径可建立共享信用图 |
+| 具身智能与机器人 | 强化学习与奖励 | [Reward-free Pretraining for Reinforcement Learning via Occupancy Coverage Maximization](cards-0010.md#paper-148947) | 无外部奖励预训练用占用覆盖及未知状态代理 |

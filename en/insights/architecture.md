@@ -536,5 +536,12 @@ Model-wide design and information flow.
 - [RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space](../../conferences/neurips-2026/cards-0010.md#paper-153090)
 - [Representation Forcing for Bottleneck-Free Unified Multimodal Models](../../conferences/neurips-2026/cards-0010.md#paper-152733)
 - [RESBev: Making BEV Perception More Robust](../../conferences/neurips-2026/cards-0010.md#paper-150281)
+- [Rethinking Cross-Layer Information Routing in Diffusion Transformer](../../conferences/neurips-2026/cards-0010.md#paper-154194)
+- [Rethinking Expressivity and Efficiency in Test-Time Training](../../conferences/neurips-2026/cards-0010.md#paper-149206)
+- [Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory](../../conferences/neurips-2026/cards-0010.md#paper-150576)
+- [Rethinking Incompleteness: Formalizing Protocol Divergence and Train-Once Learning for Robust IMVC](../../conferences/neurips-2026/cards-0010.md#paper-150214)
+- [Rethinking Projector Training in Multimodal LLMs](../../conferences/neurips-2026/cards-0010.md#paper-153944)
+- [Reviving the Discarded High-Resolution Feature for Transformer-Based Tiny Object Detection](../../conferences/neurips-2026/cards-0010.md#paper-151129)
+- [ReVMap: Vectorized Global Mapping via Connectivity-Aware Local Map Fusion](../../conferences/neurips-2026/cards-0010.md#paper-152372)
 
 <!-- conference-classification:end -->

@@ -666,5 +666,7 @@ Learning from interaction, feedback, and offline experience.
 - [Reinforcement Learning from Rich Feedback with Distributional DAgger](../../conferences/neurips-2026/cards-0010.md#paper-155273)
 - [Replay-buffer engineering for noise-robust quantum circuit optimization](../../conferences/neurips-2026/cards-0010.md#paper-148828)
 - [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-151906)
+- [Rethinking Ratio-Based Trust Regions for Policy Optimization in Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-148870)
+- [Reward-Conditioned Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-151928)
 
 <!-- conference-classification:end -->

@@ -821,5 +821,12 @@
 - [RescueBench: Can Embodied Agents Save Lives in the Wild?](../conferences/neurips-2026/cards-0010.md#paper-139237)
 - [Reset Dependence Is Embodied: Training Protocol Changes Which Morphologies Appear Optimal](../conferences/neurips-2026/cards-0010.md#paper-138928)
 - [Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization](../conferences/neurips-2026/cards-0010.md#paper-148940)
+- [Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching](../conferences/neurips-2026/cards-0010.md#paper-154643)
+- [Retrieve-then-Rerank Inference for Vocabulary-Based End-to-End Driving](../conferences/neurips-2026/cards-0010.md#paper-154122)
+- [Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs](../conferences/neurips-2026/cards-0010.md#paper-154552)
+- [Reverse to Advance: Teleoperation-Cost Effective Hard Policy Learning from Reversed Easy Tasks](../conferences/neurips-2026/cards-0010.md#paper-152349)
+- [Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation](../conferences/neurips-2026/cards-0010.md#paper-156114)
+- [ReVMap: Vectorized Global Mapping via Connectivity-Aware Local Map Fusion](../conferences/neurips-2026/cards-0010.md#paper-152372)
+- [Reward-free Pretraining for Reinforcement Learning via Occupancy Coverage Maximization](../conferences/neurips-2026/cards-0010.md#paper-148947)
 
 <!-- conference-classification:end -->

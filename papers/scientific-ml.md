@@ -675,5 +675,6 @@
 - [Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators](../conferences/neurips-2026/cards-0009.md#paper-153208)
 - [Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](../conferences/neurips-2026/cards-0009.md#paper-156090)
 - [PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation](../conferences/neurips-2026/cards-0010.md#paper-148567)
+- [Reversing the Roles of Signal and Noise: Modeling Noise in Astronomical Images without Paired Data](../conferences/neurips-2026/cards-0010.md#paper-150362)
 
 <!-- conference-classification:end -->

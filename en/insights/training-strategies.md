@@ -858,5 +858,16 @@ Training schedules, curricula, and task or stage composition.
 - [Replay-buffer engineering for noise-robust quantum circuit optimization](../../conferences/neurips-2026/cards-0010.md#paper-148828)
 - [Representation Preconditioning for Efficient Diffusion Model Training](../../conferences/neurips-2026/cards-0010.md#paper-151596)
 - [Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](../../conferences/neurips-2026/cards-0010.md#paper-153283)
+- [Resilient Semi-Supervised Inference with Heterogeneous Unlabeled Data](../../conferences/neurips-2026/cards-0010.md#paper-155194)
+- [Resource-Aware Parameter-Efficient Model Adaptation for Onboard High-Dimensional Data](../../conferences/neurips-2026/cards-0010.md#paper-154217)
+- [Rest-Tuning: Data-Efficient Adaptation of EEG Foundation Models to Individuals via Resting-State Signals](../../conferences/neurips-2026/cards-0010.md#paper-153812)
+- [Rethinking Knowledge Distillation for Diffusion Language Models](../../conferences/neurips-2026/cards-0010.md#paper-152596)
+- [Rethinking LoRA Initialization for Robust Asymmetric Learning Rates](../../conferences/neurips-2026/cards-0010.md#paper-154754)
+- [Rethinking On-Policy Self-Distillation for Thinking Models](../../conferences/neurips-2026/cards-0010.md#paper-152392)
+- [Rethinking "RL Generalizes, SFT Memorizes": The Role of SFT Data](../../conferences/neurips-2026/cards-0010.md#paper-149183)
+- [Rethinking Training Targets, Architectures and Data Quality for Universal Speech Enhancement](../../conferences/neurips-2026/cards-0010.md#paper-152599)
+- [Revisiting Diffusion Model Predictions Through Dimensionality](../../conferences/neurips-2026/cards-0010.md#paper-153192)
+- [Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation](../../conferences/neurips-2026/cards-0010.md#paper-156114)
+- [Revisiting the Adam–SGD Gap Beyond Single Factors](../../conferences/neurips-2026/cards-0010.md#paper-150610)
 
 <!-- conference-classification:end -->

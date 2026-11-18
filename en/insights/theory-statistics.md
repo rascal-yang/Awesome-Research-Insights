@@ -1115,5 +1115,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Reliable Federated Multi-View Learning via Conflict-Aware Evidence Calibration](../../conferences/neurips-2026/cards-0010.md#paper-153948)
 - [Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees](../../conferences/neurips-2026/cards-0010.md#paper-152348)
 - [Requential Coding: Measuring Model Compressibility by Coding Data Instead of Parameters](../../conferences/neurips-2026/cards-0010.md#paper-150681)
+- [Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation](../../conferences/neurips-2026/cards-0010.md#paper-152569)
 
 <!-- conference-classification:end -->

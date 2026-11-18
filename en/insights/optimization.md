@@ -734,5 +734,9 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Regret-Based $(\epsilon,\delta)$-optimal Stopping Criteria for Bayesian Optimization](../../conferences/neurips-2026/cards-0010.md#paper-152096)
 - [Regularization Paths for Continuous DAG Learning](../../conferences/neurips-2026/cards-0010.md#paper-150245)
 - [Rennala-NSGD: Asynchronous Stochastic Optimization Beyond Euclidean Geometry](../../conferences/neurips-2026/cards-0010.md#paper-148500)
+- [Retain-Neutral Surrogates for Min-Max Unlearning](../../conferences/neurips-2026/cards-0010.md#paper-155814)
+- [Rethinking Bayesian Optimization for Co-Optimizing LLM Training Configurations](../../conferences/neurips-2026/cards-0010.md#paper-148264)
+- [Rethinking Language Model Scaling under Transferable Hypersphere Optimization](../../conferences/neurips-2026/cards-0010.md#paper-151695)
+- [Rethinking Layer-wise Model Merging through Chain of Merges](../../conferences/neurips-2026/cards-0010.md#paper-153444)
 
 <!-- conference-classification:end -->

@@ -1132,5 +1132,16 @@
 - [Reliable Abstention under Adversarial Injections: Lower Bounds and New Upper Bounds](../../conferences/neurips-2026/cards-0010.md#paper-151312)
 - [Renoise Consistency: Unlocking Efficient Self-Correction for Diffusion Large Language Models](../../conferences/neurips-2026/cards-0010.md#paper-151651)
 - [ReorgGS: Equivalent Distribution Reorganization for 3D Gaussian Splatting](../../conferences/neurips-2026/cards-0010.md#paper-151643)
+- [RESIST: Resilient Decentralized Learning Using Consensus Gradient Descent](../../conferences/neurips-2026/cards-0010.md#paper-156789)
+- [Resolving Time-Frequency Ridge Crossings via Frequency-Rate Lifting](../../conferences/neurips-2026/cards-0010.md#paper-149622)
+- [Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching](../../conferences/neurips-2026/cards-0010.md#paper-154643)
+- [Rethinking Contrastive Loss in CLIP Post-training: A Complementary Framework with Frozen Text Encoder](../../conferences/neurips-2026/cards-0010.md#paper-148979)
+- [Rethinking Long-Video Efficiency: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency](../../conferences/neurips-2026/cards-0010.md#paper-151504)
+- [Rethinking Parallel Multi-Agent Systems: A Cost-Aware Framework for Efficient Coordination](../../conferences/neurips-2026/cards-0010.md#paper-155478)
+- [Rethinking State Tracking in Recurrent Models Through Error Control Dynamics](../../conferences/neurips-2026/cards-0010.md#paper-151964)
+- [Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection](../../conferences/neurips-2026/cards-0010.md#paper-149274)
+- [Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction](../../conferences/neurips-2026/cards-0010.md#paper-148467)
+- [Rethinking Time Series Tokenization from a Frequency Perspective](../../conferences/neurips-2026/cards-0010.md#paper-149503)
+- [Rethinking Vector Field Learning for Generative Segmentation](../../conferences/neurips-2026/cards-0010.md#paper-152704)
 
 <!-- conference-classification:end -->

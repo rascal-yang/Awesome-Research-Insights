@@ -371,5 +371,11 @@ Data selection, annotation, augmentation, and sampling.
 - [Readiness-Aware Sample Selection for Noisy Labels with Class Imbalance](../../conferences/neurips-2026/cards-0010.md#paper-153563)
 - [ReCoG: Relational Concept Graph for Training-Free Personalization](../../conferences/neurips-2026/cards-0010.md#paper-149776)
 - [REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs](../../conferences/neurips-2026/cards-0010.md#paper-150490)
+- [Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](../../conferences/neurips-2026/cards-0010.md#paper-139495)
+- [ReToken: One Token to Improve Vision–Language Models for Visual Retrieval](../../conferences/neurips-2026/cards-0010.md#paper-155661)
+- [Retrieval-Centric Deep Learning in Growing Nonparametric Neural Networks](../../conferences/neurips-2026/cards-0010.md#paper-150000)
+- [Retrieval from Within: An Intrinsic Capability of Attention-Based Models](../../conferences/neurips-2026/cards-0010.md#paper-154257)
+- [Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS](../../conferences/neurips-2026/cards-0010.md#paper-148700)
+- [Reverse to Advance: Teleoperation-Cost Effective Hard Policy Learning from Reversed Easy Tasks](../../conferences/neurips-2026/cards-0010.md#paper-152349)
 
 <!-- conference-classification:end -->

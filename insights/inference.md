@@ -1322,5 +1322,15 @@
 - [Reliable Chain-of-Thought via Prefix Consistency](../conferences/neurips-2026/cards-0010.md#paper-154913)
 - [Reliable Clustering and Quantization via Distortion-Constrained Optimal Transport](../conferences/neurips-2026/cards-0010.md#paper-153600)
 - [Replicas-as-Variables: A Planner for Throughput-Optimal Routing in LLM Deployment](../conferences/neurips-2026/cards-0010.md#paper-154325)
+- [ResKV: Residual-based Channel-wise Unstructured Pruning for KV Cache Compression](../conferences/neurips-2026/cards-0010.md#paper-152894)
+- [ReST-RL: Reinforcing LLM Reasoning through Unified Self-Training and Value-Guided Search](../conferences/neurips-2026/cards-0010.md#paper-152832)
+- [Rethinking Diffusion Decoding via Structural Commitment](../conferences/neurips-2026/cards-0010.md#paper-151740)
+- [Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding](../conferences/neurips-2026/cards-0010.md#paper-153158)
+- [Rethinking Structured Generation: Can Graph-Based Reasoning Resolve Ambiguity?](../conferences/neurips-2026/cards-0010.md#paper-152202)
+- [Retrieve-then-Rerank Inference for Vocabulary-Based End-to-End Driving](../conferences/neurips-2026/cards-0010.md#paper-154122)
+- [Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs](../conferences/neurips-2026/cards-0010.md#paper-154552)
+- [Retrieve What’s Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation](../conferences/neurips-2026/cards-0010.md#paper-148557)
+- [Reversing the Roles of Signal and Noise: Modeling Noise in Astronomical Images without Paired Data](../conferences/neurips-2026/cards-0010.md#paper-150362)
+- [Revisiting Activation Steering Through an Optimization Lens](../conferences/neurips-2026/cards-0010.md#paper-153961)
 
 <!-- conference-classification:end -->
