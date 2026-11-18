@@ -2131,3 +2131,48 @@
 - **适用条件 / 局限** · 需要机器人间特征交换与对齐，通信失效和不确定性失准的影响需另测。
 
 **可复用机制** · 固定占据预测器，对照只罚占据与同时惩罚不确定性的决策，在遮挡和分布偏移测试中记录碰撞与通行效率。
+
+<a id="paper-forrdaq3mz"></a>
+
+## Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation
+
+[会议记录](https://openreview.net/forum?id=foRrdaQ3mz) · [原文](https://openreview.net/pdf?id=foRrdaQ3mz)
+
+- **问题 / 瓶颈** · 对不可见区域只预测一张地图会掩盖隐藏目标和风险。
+- **核心创新 / 方法** · 轨迹条件化三维世界模型生成多个未来场景，遮挡感知采样器优先探索不确定区域，未来感知价值图聚合候选。
+- **Baseline** · 与强零样本物体导航方法比较；作者摘要未列名称。
+- **Benchmark** · 仿真与 Go2 真机零样本物体导航，关注隐藏目标发现与风险感知航点选择。
+- **关键结果 / 消融** · 作者报告两方面改善；摘要未报告数值和独立消融。
+- **适用条件 / 局限** · 依赖生成模型覆盖真实的遮挡后场景；摘要未量化候选数与推理开销的权衡。
+
+**可复用机制** · 对同一候选轨迹比较单场景与多未来聚合的决策，测遮挡强度变化下的发现率和规划成本。
+
+<a id="paper-odfnfgiie3"></a>
+
+## Task-Aware Environment Augmentation for Reliable Navigation via Shielded Conditional Diffusion
+
+[会议记录](https://openreview.net/forum?id=ODfnFGIIe3) · [原文](https://openreview.net/pdf?id=ODfnFGIIe3)
+
+- **问题 / 瓶颈** · 路径几何可行，但途中长期缺乏可用观测会导致定位误差积累。
+- **核心创新 / 方法** · 条件扩散从地图、任务轨迹、扰动与执行要求生成有限预算的标记布局；受约束采样聚焦应发生位姿校正的时机。
+- **Baseline** · 作者报告与强基线比较；摘要未列具体方法。
+- **Benchmark** · 仿真和硬件验证，测轨迹执行可靠性与完成时间。
+- **关键结果 / 消融** · 作者报告可靠性和完成时间改善；摘要未报告量化结果及采样消融。
+- **适用条件 / 局限** · 前提是环境可改造、轨迹大致已知且可安装视觉标记。
+
+**可复用机制** · 设计定位设施时以路线中的观测时序为目标，在固定标记数下对照均匀布点。
+
+<a id="paper-0rvhggryjx"></a>
+
+## NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation
+
+[会议记录](https://openreview.net/forum?id=0rvhGgRYjx) · [原文](https://openreview.net/pdf?id=0rvhGgRYjx)
+
+- **问题 / 瓶颈** · 拆开测室内和室外会漏掉出口搜索及跨边界适应失败。
+- **核心创新 / 方法** · 在同一物理仿真回合贯通室内外，并统一可执行机器人接口，对照单域和跨域任务。
+- **Baseline** · 零样本比较 RL、端到端 VLA 与模块化方法；摘要未列模型名。
+- **Benchmark** · 100 个室内、50 个室外、50 个跨域场景；物体、视觉语言和地点导航；指标含成功、效率与安全。
+- **关键结果 / 消融** · 作者报告 VLA 零样本成功率最高、模块化方法安全表现最好，地点导航在跨域场景退化；摘要未给数值。
+- **适用条件 / 局限** · 结论来自仿真及已测基线；真实部署的域切换行为待验证。
+
+**可复用机制** · 在部署选型时对同一策略分别测单域与跨边界回合，量化切换引起的退化并检查成功率和安全的排序是否一致。

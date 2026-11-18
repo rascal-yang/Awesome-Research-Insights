@@ -153,10 +153,10 @@ number	openreview_id	title	paper_url	reason	status
 152	1JcOSLXzHB	TopoUrbanBench: Group-Structural Compliance Evaluation for Urban Robot Navigation	https://openreview.net/forum?id=1JcOSLXzHB	评测社会导航时同时统计轨迹是否穿越队列或人群交互区域。	included
 153	7tCsPSbYZb	GRACE: Group-Aware Socially Compliant Visual Navigation in Human Environments	https://openreview.net/forum?id=7tCsPSbYZb	用群体空间监督感知并重加权生成轨迹，以减少穿越交互区域。	included
 154	da5VPQA7G7	CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting	https://openreview.net/forum?id=da5VPQA7G7	把多机器人协作预测的不确定性纳入策略代价，在遮挡下主动避开未知高风险区域。	included
-155	foRrdaQ3mz	Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation	https://openreview.net/forum?id=foRrdaQ3mz		pending
-156	ODfnFGIIe3	Task-Aware Environment Augmentation for Reliable Navigation via Shielded Conditional Diffusion	https://openreview.net/forum?id=ODfnFGIIe3		pending
-157	nBwRDRUdMc	MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments	https://openreview.net/forum?id=nBwRDRUdMc		pending
-158	0rvhGgRYjx	NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation	https://openreview.net/forum?id=0rvhGgRYjx		pending
+155	foRrdaQ3mz	Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation	https://openreview.net/forum?id=foRrdaQ3mz	遮挡严重时按候选轨迹生成多种可能观测，再聚合价值选路。	included
+156	ODfnFGIIe3	Task-Aware Environment Augmentation for Reliable Navigation via Shielded Conditional Diffusion	https://openreview.net/forum?id=ODfnFGIIe3	把有限的定位标记布在即将出现高风险定位误差的路段。	included
+157	nBwRDRUdMc	MessyNav: Zero-Shot Navigation via Manipulation in Messy Environments	https://openreview.net/forum?id=nBwRDRUdMc	作者摘要描述现成 VLM 先判断推、拾取或避障，再交给规划器的流程，未指出可独立复用的新机制，也未报告能区分各环节贡献的新规律。	excluded
+158	0rvhGgRYjx	NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation	https://openreview.net/forum?id=0rvhGgRYjx	把室内外边界穿越加入连续执行评测，并分别记录成功、效率与安全。	included
 159	oJTM5ysEeJ	OdorSpaces: Visual-Olfactory Embodied Navigation in 3D Environments	https://openreview.net/forum?id=oJTM5ysEeJ		pending
 160	Sal8Urvt1F	PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation	https://openreview.net/forum?id=Sal8Urvt1F		pending
 161	xyFvvMLQRo	GLST: Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation	https://openreview.net/forum?id=xyFvvMLQRo		pending

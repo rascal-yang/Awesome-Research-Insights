@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **146 / 687** 篇，当前收录 **142** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **150 / 687** 篇，当前收录 **145** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -148,3 +148,6 @@
 | 具身智能 / 导航 | 评测与诊断 | [TopoUrbanBench: Group-Structural Compliance Evaluation for Urban Robot Navigation](cards.md#paper-1jcoslxzhb) | 评测社会导航时同时统计轨迹是否穿越队列或人群交互区域。 |
 | 具身智能 / 导航 | 关系建模 | [GRACE: Group-Aware Socially Compliant Visual Navigation in Human Environments](cards.md#paper-7tcspsbyzb) | 用群体空间监督感知并重加权生成轨迹，以减少穿越交互区域。 |
 | 具身智能 / 多智能体 | 不确定性建模 | [CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting](cards.md#paper-da5vpqa7g7) | 把多机器人协作预测的不确定性纳入策略代价，在遮挡下主动避开未知高风险区域。 |
+| 具身智能 / 世界模型 | 不确定性建模 | [Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation](cards.md#paper-forrdaq3mz) | 遮挡严重时按候选轨迹生成多种可能观测，再聚合价值选路。 |
+| 具身智能 / 规划 | 观测设计 | [Task-Aware Environment Augmentation for Reliable Navigation via Shielded Conditional Diffusion](cards.md#paper-odfnfgiie3) | 把有限的定位标记布在即将出现高风险定位误差的路段。 |
+| 具身智能 / 导航 | 评测与诊断 | [NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation](cards.md#paper-0rvhggryjx) | 把室内外边界穿越加入连续执行评测，并分别记录成功、效率与安全。 |
