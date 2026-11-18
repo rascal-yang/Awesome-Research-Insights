@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2009** 篇，暂收录 **1857** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2069** 篇，暂收录 **1915** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1865,3 +1865,61 @@
 | 计算机视觉 | 防御评测 | [DEDCA: Test-Time Adaptation for Generalized AI-Generated Image Detection](cards-0004.md#paper-151979) | 用检测证据间的分歧引导无标签适配 |
 | 多模态学习 / 医学 | 证据路由 | [DeepArrhythmia: Segment-Contextualized ECG Arrhythmia Classification via Selective Evidence Acquisition](cards-0004.md#paper-150425) | 按段级置信度决定是否增加诊断证据 |
 | 统计学习 | 最优传输 | [Deep Barycentric Regression for Optimal Transport Map Estimation and its Statistical Optimality](cards-0004.md#paper-151777) | 用离线传输规划生成回归目标 |
+| 强化学习 | 价值估计 | [Deep Double Q-learning](cards-0004.md#paper-153820) | 对照双估计器训练 |
+| 统计学习 | 不确定性分解 | [Deep Ensembles for Epistemic Uncertainty: A Frequentist Perspective](cards-0004.md#paper-155011) | 拆开数据变化与训练随机性 |
+| 计算机视觉 | 防御评测 | [DeepfakeGenome: Toward Next-Generation Deepfake Attribution](cards-0004.md#paper-139410) | 用检索评估未知来源归因 |
+| 概率建模 | 图结构推断 | [Deep Gaussian Processes on Directed Acyclic Graphs](cards-0004.md#paper-155757) | 保留各层观测及拓扑依赖 |
+| 统计学习 | 结构化后验 | [Deep Generative Models for Phylogenetic Inference with Complex Evolutionary Processes](cards-0004.md#paper-151547) | 对比不同构造顺序的离散树生成 |
+| 统计学习 | 方差估计 | [Deep Heteroskedastic Regression: Post-Hoc Variance Estimation from Latent Representations](cards-0004.md#paper-151494) | 冻结均值预测器后单独拟合方差 |
+| 科学机器学习 | 动力学辨识 | [Deep-Koopman-KANDy: Dictionary Discovery for Deep-Koopman Operators with Kolmogorov-Arnold Networks for Dynamics](cards-0004.md#paper-152578) | 训练完再选择符号读出字典 |
+| 学习理论 | 特征学习 | [Deep Learning as Neural Low-Degree Filtering: A Spectral Theory of Hierarchical Feature Learning](cards-0004.md#paper-151589) | 用逐层低阶相关解释早期特征形成 |
+| 科学机器学习 | 湍流闭合 | [Deep Learning-based Algebraic Reynolds Stress Closures for RANS simulations of Turbulent Flows](cards-0004.md#paper-151498) | 在求解器内训练物理结构化闭合 |
+| 可解释性 | 表征探针 | [Deep Minds and Shallow Probes](cards-0004.md#paper-152977) | 按坐标变换不变性选择探针 |
+| 计算机视觉 | 软监督 | [Deep Probabilistic Supervision for Image Classification](cards-0004.md#paper-148229) | 从模型预测估计样本级目标分布 |
+| Agent | 推理组织 | [Deep Reasoning in General Purpose Agents via Structured Meta-Cognition](cards-0004.md#paper-153616) | 按任务动态构造可执行推理结构 |
+| 大语言模型 | 奖励设计 | [Deep Research as Rubric](cards-0004.md#paper-153645) | 由外部证据构造可验证评分项 |
+| 机器学习基础 | 约束学习 | [DeepVoting: Learning and Improving Voting Rules with Fine-Tuning](cards-0004.md#paper-155301) | 用公理损失微调既有投票规则 |
+| 强化学习 | 表征适配 | [Default Feature Representations of the Cognitive Map](cards-0004.md#paper-154918) | 固定状态特征，仅更新环境算子 |
+| Agent | 运行时防护 | [Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents](cards-0004.md#paper-152017) | 对敏感动作做任务边界检查 |
+| 可靠性 | 运行范围建模 | [Defining Operational Conditions for Safety-Critical AI-Based Systems from Data](cards-0004.md#paper-151160) | 从数据估计运行域，再对照采样覆盖 |
+| 生成模型 | 密集奖励 | [DeFlowCritic: Dense Latent Reward Alignment for Text-to-Image Flow Matching Models](cards-0004.md#paper-154436) | 在中间潜变量提供评价而非只评价最终图像 |
+| 强化学习 | 离线策略提取 | [DeFlow: Decoupling Behavior-Prior Modeling and Value Maximization for Offline Policy Extraction](cards-0004.md#paper-155920) | 保留生成先验并用残差改进动作 |
+| 计算机视觉 | 几何重建 | [Deformable 2D Gaussian Splatting](cards-0004.md#paper-153737) | 让表面基元适应尖边 |
+| 具身智能 | 示范增强 | [DeformGen: Dynamics-Based Topology Augmentation for Deformable Manipulation Policy Learning](cards-0004.md#paper-149334) | 按真实形变扩充状态及配套动作 |
+| 科学机器学习 | 世界模型 | [DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos](cards-0004.md#paper-152675) | 将物理滚动与神经残差结合 |
+| 科学机器学习 | 表征解耦 | [DEFT: Disentanglement-Enhanced Fine-Tuning for EEG Foundation Models](cards-0004.md#paper-149268) | 分类只使用任务相关分支 |
+| 计算机视觉 | 深度重建 | [DegBins: Degradation-Driven Binning for Depth Super-Resolution](cards-0004.md#paper-150704) | 用随退化变化的离散区间预测深度残差 |
+| 计算机视觉 | 自监督 | [DeGlare: Self-Supervised Specular Removal for Industrial Metallic Surfaces via Multi-Illumination Priors](cards-0004.md#paper-153930) | 利用同位置多光照代替像素真值 |
+| 计算机视觉 | 迭代架构 | [Déjà View: Looping Transformers for Multi-View 3D Reconstruction](cards-0004.md#paper-154303) | 用共享迭代块替代独立解码层 |
+| 强化学习 | 状态抽象 | [Delayed homomorphic reinforcement learning for environments with delayed feedback](cards-0004.md#paper-155078) | 折叠延迟反馈造成的控制冗余状态 |
+| 科学机器学习 | 时序检测 | [Delay-Embedded Representations for Robust Saccade Classification in Noisy Oculographic Signals](cards-0004.md#paper-150466) | 先用延迟窗口聚类召回候选，再做约束拟合 |
+| 强化学习 | 策略梯度 | [Delightful Distributed Policy Gradient](cards-0004.md#paper-155678) | 过滤离策略样本时联合考虑优势和惊讶度 |
+| 计算机视觉 | 图像编辑 | [Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision](cards-0004.md#paper-153315) | 以语义变分代替双配对编辑监督 |
+| 优化 | 动量 | [DeltaMomentum: A Key-Value based Anisotropic Momentum Update via Delta Rule](cards-0004.md#paper-151284) | 用输入相关遗忘代替统一衰减 |
+| 多模态学习 | 蒸馏数据 | [DeltaPrompts: Escaping the Zero-Delta Trap in Multimodal Distillation](cards-0004.md#paper-153494) | 按教师学生答案分布差筛蒸馏题 |
+| 生成模型 | 弱监督 | [DELTA: Robustly Training Label-Conditional Diffusion Models with Weak Annotations](cards-0004.md#paper-155940) | 将真实类别作为潜变量联合恢复 |
+| 自然语言处理 | 语音推理 | [DELTA-TTS: Adapting Autoregressive Model into a Diffusion Language Model for Text-to-Speech](cards-0004.md#paper-151215) | 冻结语音自回归骨干并转并行扩散 |
+| 多模态学习 | 时空监督 | [DELTAVID: Enhancing Fine-Grained Spatiotemporal Perception with Cross-Video Differences](cards-0004.md#paper-152418) | 用双视频局部差异构造可验监督 |
+| 优化 | 多任务学习 | [Delve into the Applicability of Advanced Optimizers for Multi-Task Learning](cards-0004.md#paper-149197) | 在实际含动量的更新上测梯度去冲突 |
+| Agent | 课程学习 | [Democratizing Tool Learning with Environments Fully Simulated by a Free 8B Language Model](cards-0004.md#paper-153684) | 评估本地小模型模拟环境能否支持工具学习 |
+| 统计学习 | 公平性 | [Demographic parity in regression and classification within the unawareness framework](cards-0004.md#paper-156660) | 检查分类决策集嵌套性再复用公平回归 |
+| 视觉生成 | 推理引导 | [Demystifying Classifier-Free Guidance for Auto-Regressive Image Generation](cards-0004.md#paper-152530) | 以条件差分削弱重复并复用注意力。 |
+| 语言模型 | 数值稳定 | [Demystifying Numerical Errors in LLM Inference: Achieving Reproducible Inference for Mission-Critical Tasks with HEAL](cards-0004.md#paper-155629) | 针对内核边界误差提高精度。 |
+| 优化 | 频谱诊断 | [Denoise First, Orthogonalize Later: Understanding Momentum in Muon via Spectral Filtering](cards-0004.md#paper-155576) | 在 Muon 正交化前做动量滤波。 |
+| 学习理论 | 距离去噪 | [Denoising Distances in Metric Measure Spaces](cards-0004.md#paper-151878) | 按精度需求选择高效或高成本距离估计。 |
+| 统计学习 | 变分推断 | [Denoising Implicit Variational Inference](cards-0004.md#paper-154041) | 直接学边缘分数来替代内层采样。 |
+| 具身智能 | 动作去噪 | [Denoising-Time Heterogeneity in VLA Action Generation: A Controlled Study via Step-Wise Expert](cards-0004.md#paper-151512) | 用正反日程检验专家何时有用。 |
+| 语言模型 | 扩散采样 | [Denoising Time Matters: Diverse Generation in Diffusion Language Models](cards-0004.md#paper-154837) | 早期增加语义分支，后期退火扰动。 |
+| 语言模型 | 蒸馏 | [Dense Cross-Tokenizer Distillation via Semantic Optimal Local Alignment](cards-0004.md#paper-153427) | 用局部语义传输对齐不同词表的密集分布。 |
+| 计算机视觉 | 光流匹配 | [Dense Flow from Adaptive Correspondence](cards-0004.md#paper-153814) | 让匹配单元随图像内容改变。 |
+| 模型压缩 | 结构剪枝 | [Dense Structural Compression of Transformers via Gauge-Correct Channel Removal](cards-0004.md#paper-149337) | 剪除相乘因子通道前校正重参数化偏差。 |
+| 统计学习 | 决策委派 | [Density-Ratio Losses for Post-Hoc Learning to Defer](cards-0004.md#paper-154375) | 用模型与专家的理想分布密度比设委派阈值。 |
+| 语言模型 | 并行解码 | [Dependency-Guided Parallel Decoding in Discrete Diffusion Language Models](cards-0004.md#paper-151486) | 按位置依赖选并行解掩码集合。 |
+| 语言模型 | 记忆评测 | [Deployment-Memory LLM Test-Time Training Should Require Behavioral Evidence Beyond Perplexity](cards-0004.md#paper-140012) | 用移除支持上下文后的行为验证记忆。 |
+| 机器人学 | 在线模仿 | [Deployment-Time Online Imitation Learning from Corrective Demonstrations](cards-0004.md#paper-154654) | 用无历史存储的增量回归吸收专家纠正。 |
+| 计算机视觉 | 深度评测 | [Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth](cards-0004.md#paper-139479) | 用相机相对位姿检测深度对几何任务的效用。 |
+| 语言模型 | 无损解码 | [Depth Exploration for LLM Decoding](cards-0004.md#paper-152407) | 并行探索多个深度并由全深度模型验证。 |
+| 语言模型 | 缓存共享 | [DepthGraft: Structural Regularization through Hierarchical Cross-Layer KV Reconstruction](cards-0004.md#paper-152636) | 用浅中层配对重建深层 KV，改变梯度路径。 |
+| 计算机视觉 | 几何监督 | [DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images](cards-0004.md#paper-149698) | 以重叠透视块和对应一致性统一全景深度。 |
+| 语言模型 | 深度循环 | [Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves](cards-0004.md#paper-150663) | 用序列、深度和专家注意力共用单层循环。 |
+| 语音识别 | 参数共享 | [Depth through Recurrence: Towards Ultra-Efficient On-Device ASR](cards-0004.md#paper-149074) | 依据层表示相似度选择可复用的循环块。 |
