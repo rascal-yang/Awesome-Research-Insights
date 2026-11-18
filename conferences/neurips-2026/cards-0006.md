@@ -2296,3 +2296,633 @@
 - **适用条件 / 局限** · 需要可比较的同目标轨迹及可靠质量排序。
 
 **可复用机制** · 为多工具智能体做归因时，比较同任务轨迹，为教师提供可定位到动作级的差异。
+
+<a id="paper-149818"></a>
+
+## GenRec: Knowing Where to Reconstruct and Where to Generate
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149818) · [作者来源](https://openreview.net/forum?id=n68heFQnNa)
+
+- **问题 / 瓶颈** · 稀疏视图下可见像素有观测约束，遮挡像素有多个合理解。
+- **核心创新 / 方法** · 以相机和单目深度生成观测掩码，联合去噪 RGB 与场景坐标；由掩码门控监督，只细化可见区的高频像素。
+- **Baseline** · 比较纯生成新视角方法；具名模型未报告。
+- **Benchmark** · RealEstate10K、DL3DV-10K、Mip-NeRF 360；单视图外推和双视图插值，分别度量观测区保真与未观测区感知质量。
+- **关键结果 / 消融** · 作者摘要报告观测区保真最好，未观测区感知质量也优于纯生成基线；幅度未报告。
+- **适用条件 / 局限** · 依赖单目深度和相机信息，摘要未报告错误掩码下的退化。
+
+**可复用机制** · 对有观测和无观测区域分别配置损失，并分别测复原误差与生成质量。
+
+<a id="paper-151044"></a>
+
+## GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151044) · [作者来源](https://openreview.net/forum?id=dPSEe9I3nw)
+
+- **问题 / 瓶颈** · 外部视频打分器只看最终像素或冻结特征，生成器过程信息未被用来打分。
+- **核心创新 / 方法** · 从 KL 约束的最优策略析出奖励，以流匹配似然代理将其表达为连续时间相对速度预测误差，再将奖励用于 Flow-GRPO。
+- **Baseline** · 外部视觉语言打分器；讨论 DPO、IPO 与 RWR 作为偏好微调路径。
+- **Benchmark** · 视频生成偏好对齐与下游生成质量；数据集与指标未报告。
+- **关键结果 / 消融** · 作者摘要报告生成器内生奖励可替换外部评分并改善下游生成；幅度未报告。
+- **适用条件 / 局限** · 证据针对流匹配视频生成，其他生成目标上的等价性未报告。
+
+**可复用机制** · 有似然代理的生成器可先验证误差差分是否足以提供过程奖励，再决定训练外部打分器。
+
+<a id="paper-153355"></a>
+
+## Gen-Searcher: Reinforcing Agentic Search for Image Generation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153355) · [作者来源](https://openreview.net/forum?id=M0ZcmOLHIp)
+
+- **问题 / 瓶颈** · 冻结生成器难以处理需要新知识或跨源证据的提示。
+- **核心创新 / 方法** · 先监督微调多跳搜索代理，再用文本和图像两类反馈进行 GRPO，使代理收集陈述与参考图像。
+- **Baseline** · 基于 Qwen-Image；比较其改进前表现。
+- **Benchmark** · KnowGen 与 WISE，知识密集型图像生成；摘要以分数差报告结果。
+- **关键结果 / 消融** · 作者摘要报告 KnowGen 约加 16 分，WISE 约加 15 分。
+- **适用条件 / 局限** · 双奖励的独立贡献、搜索成本和噪声敏感性未报告。
+
+**可复用机制** · 训练接入外部工具的生成代理时，将事实检索和视觉参考质量分别反馈，并用单奖励消融检查贡献。
+
+<a id="paper-151515"></a>
+
+## GenZ: Hybrid statistical–foundational models for knowledge discovery from real-valued multidimensional targets
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151515) · [作者来源](https://openreview.net/forum?id=a4poCCC5UA)
+
+- **问题 / 瓶颈** · 直接对样本总结容易只发现输入的常见属性，难以解释指定的连续目标。
+- **核心创新 / 方法** · 按当前潜变量后验划分样本，请基础模型归纳组间语义差别，再以问答作为噪声特征解释多维目标。
+- **Baseline** · 房价回归比较零样本基础模型与使用相同样本 LLM 嵌入的 TabPFN。
+- **Benchmark** · 房价、Netflix 冷启动、亚利桑那物种生态、视觉皮层 fMRI；评估预测与发现的特征。
+- **关键结果 / 消融** · 作者报告房价预测胜过两类基线；固定输入改变目标会得到不同语义特征；幅度未报告。
+- **适用条件 / 局限** · 依赖基础模型能描述样本，共现特征的因果解释未验证。
+
+**可复用机制** · 先用目标相关的后验组织样本，再让模型命名区别，并用固定输入、更换监督目标的实验确认特征随目标变化。
+
+<a id="paper-138937"></a>
+
+## GeoBiaset: A Counterfactual Benchmark for Demographic Bias in World-Level Geolocalization
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/138937) · [作者来源](https://openreview.net/forum?id=vKDpJIzx4W)
+
+- **问题 / 瓶颈** · 总体地理定位准确率难以识别模型是否利用人物外观作地区捷径。
+- **核心创新 / 方法** · 以带坐标背景构造外观变化的反事实前景，使用 POPI 统计预测是否偏向人物组关联地区，按地标可用性拆分。
+- **Baseline** · 与未受该扰动的图像对照；具名模型未报告。
+- **Benchmark** · GeoBiaset 的 9541 张图像与七组外观编辑；洲级表现、POPI 及地标分组。
+- **关键结果 / 消融** · 作者摘要报告错配插入使洲级表现下降 16%–47%，无地标时注意更多落在面部。
+- **适用条件 / 局限** · 编辑真实性及不同编辑来源的鲁棒性未报告。
+
+**可复用机制** · 评估视觉定位捷径时改变可疑线索、保持标签不变，并测预测偏移的具体方向。
+
+<a id="paper-154164"></a>
+
+## GeoCurv-TTT: Geometry-Aware Deformation Restoration for 3D Test-Time Training
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154164) · [作者来源](https://openreview.net/forum?id=FnOlkLApNW)
+
+- **问题 / 瓶颈** · 点云分类遇到分布偏移时，随机掩码可能破坏关键几何。
+- **核心创新 / 方法** · 低曲率平面定向形变，高曲率结构保持；单样本以恢复目标做自监督更新，流式以更新批归一化统计适应。
+- **Baseline** · 比较几何无关遮挡和骨架式预任务；具名基线未报告。
+- **Benchmark** · ModelNet40-C、ShapeNet-C、ScanObjectNN-C；准确率、效率及适应耗时。
+- **关键结果 / 消融** · 作者摘要报告三套评测上的准确率和适应效率改善；具体数值未报告。
+- **适用条件 / 局限** · 证据来自分类扰动基准，真实机器人流中的收益未报告。
+
+**可复用机制** · 在设计三维自监督扰动时先保留任务所需的稳定结构，再测试较弱区域的扰动能否帮助适应。
+
+<a id="paper-139820"></a>
+
+## GeoG2U-Bench: When Does Generation Help Understanding in Ultra-High-Resolution Remote Sensing?
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139820) · [作者来源](https://openreview.net/forum?id=2k7W2ijRCW)
+
+- **问题 / 瓶颈** · 超高分辨率图像下，生成中间图像可能帮助观察，也可能引入伪证。
+- **核心创新 / 方法** · 比较直接问答与生成后问答，要求输出可审计的局部裁剪、标注、区域图或时间回溯图。
+- **Baseline** · 同任务的 Direct 与 Generate-then-Answer，覆盖若干模型族。
+- **Benchmark** · GeoG2U-Bench 覆盖 300 城市、20 个子任务、约 3000 个样本，场景达 20000×20000 像素；比较问答表现。
+- **关键结果 / 消融** · 作者摘要报告任务相关且可靠的中间图帮助跨尺度定位等任务，错误中间图可拖累答题。
+- **适用条件 / 局限** · 来自遥感场景；摘要未给可靠性阈值或迁移评测。
+
+**可复用机制** · 给多模态代理增加生成步骤前，先检查生成证据是否忠于输入，再按任务比较它对答案的净收益。
+
+<a id="paper-148154"></a>
+
+## GeoMamba: Geometry-Aware State Space Modeling for Image Restoration
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148154) · [作者来源](https://openreview.net/forum?id=ztrNOMAstc)
+
+- **问题 / 瓶颈** · 相似性重排可让二维远邻在序列相邻，使固定离散步长错误沿用历史状态。
+- **核心创新 / 方法** · 按相邻标记的欧氏距离设置离散时间步，衰减跨空间跳跃的影响；另以特征和梯度预测连续调制参数。
+- **Baseline** · 与 Transformer、Mamba 的图像复原模型比较；具名版本未报告。
+- **Benchmark** · 轻量及经典超分辨率、去噪与 JPEG 伪影去除；具名数据与指标未报告。
+- **关键结果 / 消融** · 摘要报告超分辨率一致改善，其他两类任务表现更好或相当。
+- **适用条件 / 局限** · 长跳跃也可能含相关上下文；极端扫描策略下的影响未报告。
+
+**可复用机制** · 将空间数据重排成状态空间序列时，保留原坐标距离，比较固定步长和距离条件步长。
+
+<a id="paper-155498"></a>
+
+## GeoMemory: Geometry-Indexed Memory for Long-Horizon Interactive Video Generation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155498) · [作者来源](https://openreview.net/forum?id=57vx3F2jgX)
+
+- **问题 / 瓶颈** · 有限窗口下仅依赖时间上下文会忘记旧位置，过度依赖空间记忆也会损伤新场景。
+- **核心创新 / 方法** · 混合探索和重访样本，用连续前向训练扩大位姿差，以 VGGT 产出的增量三维缓存进行点到帧检索。
+- **Baseline** · 仅时间上下文与空间记忆方法是摘要讨论的对照；具名模型未报告。
+- **Benchmark** · Minecraft 交互生成；长程空间一致性、新场景视觉质量和实时性。
+- **关键结果 / 消融** · 摘要报告长程一致性和新场景质量改善并支持实时交互；数值未报告。
+- **适用条件 / 局限** · 依赖几何缓存质量，摘要未验证真实环境和大规模缓存。
+
+**可复用机制** · 对可重访世界同时训练写入、查询与忽略空间记忆，并按探索或重访分别评估。
+
+<a id="paper-153576"></a>
+
+## Geometric Alignment without Functional Equivalence: A Layer-wise Analysis of the Speech-Text Modality Gap
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153576) · [作者来源](https://openreview.net/forum?id=KNuSWirJEG)
+
+- **问题 / 瓶颈** · 语音与文本表征可以在中层相似，但语音问答仍较差。
+- **核心创新 / 方法** · 对齐语音和文本 token，逐层测 CKA、匹配样本的答案间隔与决策位置注意，干预语音时序。
+- **Baseline** · ASR 接语言模型、原速语音和仅按数量合并 KV。
+- **Benchmark** · 四个开放权重语音语言模型，SpeechMMLU、VoiceBench BBH；CKA、答案间隔及准确率。
+- **关键结果 / 消融** · BBH 从 59.9% 提升到 1.2 倍语速的 62.1% 或去静音的 61.9%；两种干预分别修复 34.3%、38.2% 的文本答对语音答错样本。
+- **适用条件 / 局限** · 只验证特定语音模型和任务；视觉长序列迁移未验证。
+
+**可复用机制** · 遇到跨模态准确率差距时，用同内容配对测末层答案间隔，再决定是否优化时序聚合。
+
+<a id="paper-150566"></a>
+
+## Geometrically Disentangling Concept Learning from the Language Modeling Loss
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150566) · [作者来源](https://openreview.net/forum?id=hCPiDLv4VS)
+
+- **问题 / 瓶颈** · 下一词预测是单一损失，探针表现难以揭示损失何时对特定概念施加优化压力。
+- **核心创新 / 方法** · 逐层逐检查点比较概念探针子空间与下一词损失平均梯度外积的对齐，即优化参与度。
+- **Baseline** · 与概念探针表现及行为变化的时间轨迹对照。
+- **Benchmark** · Pythia-1B 与 410M 的 19 个检查点；12 项词汇、句法和语义任务。
+- **关键结果 / 消融** · 作者摘要报告优化参与峰值常早于最大行为变化，也观察到持续高值与多峰。
+- **适用条件 / 局限** · 受探针定义影响，时间先后不确立因果，已有反例。
+
+**可复用机制** · 定位能力突然出现前的变化时，把行为曲线与损失更新在目标概念方向上的投影并排分析。
+
+<a id="paper-148252"></a>
+
+## Geometric Analysis of Neural Regression Collapse via Intrinsic Dimension
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148252) · [作者来源](https://openreview.net/forum?id=zGe5UWouYJ)
+
+- **问题 / 瓶颈** · 分类中的表征塌缩经验未必适用于多变量回归。
+- **核心创新 / 方法** · 对照末层特征和目标的内在维数，考察表征压缩在不同数据量与噪声条件下的影响。
+- **Baseline** · 比较塌缩和未塌缩模型、变动特征维数的对照；具名模式未报告。
+- **Benchmark** · 控制任务及合成回归；对照泛化表现与估计内在维数。
+- **关键结果 / 消融** · 作者摘要报告回归塌缩降低表现，未塌缩条件下维数的效果依赖数据量与噪声。
+- **适用条件 / 局限** · 摘要中维数关系不等式显示不完整，不能据此设通用阈值。
+
+**可复用机制** · 调整连续控制表征瓶颈时，联合扫描维数、数据量和噪声，检查是否因过压缩丢失目标变化。
+
+<a id="paper-155768"></a>
+
+## Geometric Factual Recall in Transformers
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155768) · [作者来源](https://openreview.net/forum?id=34a614De3N)
+
+- **问题 / 瓶颈** · 关联矩阵记忆观点难解释嵌入中可承载的关系结构。
+- **核心创新 / 方法** · 理论构造以属性向量的线性叠加编码主体，再由 ReLU 门控 MLP 按关系选出属性；测试单跳与多跳。
+- **Baseline** · 与权重矩阵式关联存储的容量观点比较；多跳对照使用与省略思维链的构造。
+- **Benchmark** · 随机双射的关系查询，单层单跳及关系链，比较嵌入容量和迁移。
+- **关键结果 / 消融** · 作者证明受控单跳设定下对数嵌入维度已足够；重置主体嵌入后训练所得 MLP 可零样本适配新双射。
+- **适用条件 / 局限** · 证据基于受控随机关系，开放文本、噪声和真实知识结构未验证。
+
+**可复用机制** · 设计可更新的结构化记忆时，分别测试能否只替换记录向量而复用查询选择器。
+
+<a id="paper-151572"></a>
+
+## Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151572) · [作者来源](https://openreview.net/forum?id=ZbE8MH6DMy)
+
+- **问题 / 瓶颈** · 纯相似检索易集中于重复证据，生成式抽取构图则增加成本且可能偏题。
+- **核心创新 / 方法** · 在文档嵌入中用 cosθ×sinθ 构边衡量相关和差异，并以拓扑惩罚压低常见枢纽，引导扩散接触外围证据。
+- **Baseline** · 比较依赖语言模型构图的 Graph RAG；具名系统未报告。
+- **Benchmark** · 复杂多跳问答，比较答案表现和构图时语言模型 token 使用；具名数据未报告。
+- **关键结果 / 消融** · 作者报告多跳表现优于 Graph RAG 基线且构图不调用语言模型；向量计算仍需要资源。
+- **适用条件 / 局限** · 结果依赖嵌入能表达互补证据；域迁移、建立邻接的计算规模未报告。
+
+**可复用机制** · 多跳 RAG 可先对比纯相似、相关性乘差异与枢纽惩罚，分别监测召回重复与遗漏长尾证据。
+
+<a id="paper-154169"></a>
+
+## Geometric Instability of Hidden-State Trajectories Predicts Reasoning Failures in Large Language Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154169) · [作者来源](https://openreview.net/forum?id=FlBf0YQuYc)
+
+- **问题 / 瓶颈** · 流畅的错误推理可能同时具有高输出置信度。
+- **核心创新 / 方法** · VANE 从单次前向的逐层隐藏状态提取速度、加速度或急动、曲率、测地偏离和 token 连贯性。
+- **Baseline** · 比较 token 对数概率，并用基础模型作指令微调对照。
+- **Benchmark** · 六个 1.5B–72B 模型及五个数学、代码和语言推理基准，指标为 AUROC、覆盖率和选择性准确率。
+- **关键结果 / 消融** · AUROC 为 70.7–96.6，30 组平均高于对数概率 25 个百分点；70B 量级量化模型在 50% 覆盖率下达到 96.1% 准确率。
+- **适用条件 / 局限** · 依赖逐层隐藏状态；具体基准名称待核实。
+
+**可复用机制** · 比较按轨迹不稳定性与输出对数概率筛选推理答案时的覆盖率–准确率曲线。
+
+<a id="paper-155324"></a>
+
+## Geometric Latent Reasoning Induces Shorter Generations in LLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155324) · [作者来源](https://openreview.net/forum?id=6TX25lR2SG)
+
+- **问题 / 瓶颈** · 显式推理受离散词表和生成长度约束。
+- **核心创新 / 方法** · GLR 在预训练词嵌入空间训练轻量转移头，以文本思维链为锚点预测方向更新，容许连续轨迹偏离实际 token。
+- **Baseline** · 显式思维链；具名对照待核实。
+- **Benchmark** · Qwen3 数学推理，比较生成步数与解题表现；数据集待核实。
+- **关键结果 / 消融** · 作者摘要报告没有长度损失也会缩短生成，幅度待核实。
+- **适用条件 / 局限** · 证据限于 Qwen3 数学任务，连续步成本和准确率的关系仍需分开测量。
+
+**可复用机制** · 固定总计算预算，对比部分连续思考和全离散生成，并同时报告正确率及两类步数。
+
+<a id="paper-150955"></a>
+
+## Geometric Prompt-Trajectory Planning for Test-Time Scaling
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150955) · [作者来源](https://openreview.net/forum?id=e22Krci8Dn)
+
+- **问题 / 瓶颈** · 并行抽样成本随调用数上升，而且错误可能高度相关。
+- **核心创新 / 方法** · Maze 缓存冻结编码器的示例向量，以轻量路径评分器排序少样本示例序列，只用排名靠前的序列调用目标模型。
+- **Baseline** · 单次调用提示优化、宽度优先抽样和 best-of-N。
+- **Benchmark** · 多项推理评测，比较推理表现、调用数及延迟；具名基准待核实。
+- **关键结果 / 消融** · 作者报告 Maze 单次调用优于单次调用对照，MultiMaze 用更低调用数和延迟获得较大部分并行采样收益。
+- **适用条件 / 局限** · 依赖候选池覆盖优质示例序列且评分能辨别好序列。
+
+**可复用机制** · 比较增加候选提示排序深度与增加模型采样次数在同一延迟下的收益。
+
+<a id="paper-150508"></a>
+
+## Geometry-Adaptive Explainer for Faithful Dictionary-Based Interpretability under Distribution Shift
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150508) · [作者来源](https://openreview.net/forum?id=hZQ6hH0lDD)
+
+- **问题 / 瓶颈** · 域偏移可能旋转活跃表征子空间，降低在原域训练的解释字典的因果忠实度。
+- **核心创新 / 方法** · GAE 用新域活跃子空间对齐稀疏字典，同时保留原有特征结构，无需梯度更新。
+- **Baseline** · 稀疏自编码器和 transcoder 是适用字典；比较未适配字典及基于训练的适配对照。
+- **Benchmark** · 多模型和多个分布偏移设置，比较因果忠实度；具名任务待核实。
+- **关键结果 / 消融** · 作者证明相对未适配字典改善，超额损失受二阶矩偏移的二次界控制；实验中达到或超过训练式对照。
+- **适用条件 / 局限** · 需要访问无标签目标域激活；具名模型和指标待核实。
+
+**可复用机制** · 先测新域的活跃子空间偏移，再用干预测试几何对齐是否恢复原字典的因果解释。
+
+<a id="paper-148380"></a>
+
+## Geometry-Aware Flow Matching for Sparse-View 3D Gaussian Splatting
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148380) · [作者来源](https://openreview.net/forum?id=yKjmobiqnX)
+
+- **问题 / 瓶颈** · 稀疏视图高斯重建直接预测终点，布局和细节的生成路径缺乏监督。
+- **核心创新 / 方法** · GRiF 用视图条件流匹配推进层级化高斯状态，以旋转感知路径更新方向变量。
+- **Baseline** · 比较直接预测最终场景的前馈高斯重建方法；具名对照待核实。
+- **Benchmark** · RealEstate10K、ACID 域内重建，ScanNet、DL3DV、DTU 零样本迁移；具名指标待核实。
+- **关键结果 / 消融** · 作者报告域内重建及跨域迁移均改善。
+- **适用条件 / 局限** · 依赖受控的源场景和层级状态设计；生成耗时待核实。
+
+**可复用机制** · 对含旋转、位置和外观的状态，比较共享端点回归与按属性几何构造的条件生成路径。
+
+<a id="paper-150070"></a>
+
+## Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150070) · [作者来源](https://openreview.net/forum?id=kyUowLfsTH)
+
+- **问题 / 瓶颈** · 只按运行时间排序会忽略解码时 KV 缓存随序列增长而变化。
+- **核心创新 / 方法** · SVF 最小体积优先，其 1-bit 变体用一位提示减少长度信息依赖，并集成到 vLLM。
+- **Baseline** · 比较时间优先调度如最短作业优先，并与既有 SVF 理论界比较。
+- **Benchmark** · vLLM 上的 Llama-3.1，比较平均延迟、尾延迟、吞吐及理论竞争比。
+- **关键结果 / 消融** · 已知输出长度时竞争比上界从 48 收紧到 5；摘要报告平均和尾延迟改善。
+- **适用条件 / 局限** · 理论界 5 依赖已知输出长度，1-bit 设置需单独评估。
+
+**可复用机制** · 多模态交互推理若受 KV 显存限制，分别用执行时间和显存×时间为同一请求序列排序。
+
+<a id="paper-153365"></a>
+
+## Geometry-Aware Representation Denoising for Multi-view Image Restoration and 3D Reconstruction
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153365) · [作者来源](https://openreview.net/forum?id=LvYWFrtR8k)
+
+- **问题 / 瓶颈** · 前馈多视角重建器在退化图像上容易失准。
+- **核心创新 / 方法** · GARD 在重建器几何感知特征空间执行扩散复原，并用额外解码器从净化表征恢复 RGB。
+- **Baseline** · 基于前馈重建器改进；具名比较方法待核实。
+- **Benchmark** · DA3 多视角图像复原与三维重建；退化类型和具名指标待核实。
+- **关键结果 / 消融** · 作者报告几何和图像均改善，幅度待核实。
+- **适用条件 / 局限** · 依赖重建底座的表征含有足够的几何信息。
+
+**可复用机制** · 对比像素预处理与特征去噪，同时测量几何质量和成像质量，防止图像观感掩盖几何错误。
+
+<a id="paper-155279"></a>
+
+## Geometry-Aware Zeroth-Order Optimization for Fine-Tuning Quantized LLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155279) · [作者来源](https://openreview.net/forum?id=6r0PI7Q3I7)
+
+- **问题 / 瓶颈** · 对严格正的量化尺度采用欧氏扰动会越过可行边界。
+- **核心创新 / 方法** · HoZO 建立测地完备的黎曼度量和闭式指数映射，使零阶扰动保持尺度为正。
+- **Baseline** · 比较既有零阶优化及一阶微调；具名零阶方法待核实。
+- **Benchmark** · 六项下游任务与三种模型规模，比较任务表现及显存；含 4-bit Llama-2-70B。
+- **关键结果 / 消融** · 作者报告比一阶微调少用 34 倍显存，单张 48 GB GPU 完成上述量化模型微调。
+- **适用条件 / 局限** · 具名任务及相同显存预算下的性能差异待核实。
+
+**可复用机制** · 对正值参数先选择可行域内的双侧扰动，再比较欧氏扰动加裁剪是否引入估计偏差。
+
+<a id="paper-148649"></a>
+
+## Geometry-Calibrated Conformal Abstention for Language Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148649) · [作者来源](https://openreview.net/forum?id=wAjaheyp6R)
+
+- **问题 / 瓶颈** · 开放式答案难以直接给出共形预测所需的不一致分数，重训拒答行为可能过度保守。
+- **核心创新 / 方法** · CA 以后处理方式结合表征几何校准与共形阈值，为参与率和回答正确率给出有限样本保证。
+- **Baseline** · 从共形预测改造；具名经验对照待核实。
+- **Benchmark** · 开放式语言模型选择性回答，以参与率和条件正确率评价；具名数据集待核实。
+- **关键结果 / 消融** · 作者摘要报告选择性回答改善，条件正确率为 75%。
+- **适用条件 / 局限** · 依赖可访问内表征；校准集与部署分布变化时的保证待核实。
+
+**可复用机制** · 设计 agent 的拒答或请求外部工具阈值时，同时约束参与率和条件正确率。
+
+<a id="paper-149549"></a>
+
+## Geometry-Centered 3D Latent World Models for Growing Surfaces
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149549) · [作者来源](https://openreview.net/forum?id=pJ1GLwHzZ6)
+
+- **问题 / 瓶颈** · 固定支撑域或像素预测的世界模型难以表示物质增加时几何范围的变化。
+- **核心创新 / 方法** · FOLIAGE 将成熟区域压缩为骨架，为活跃生长前沿保留高分辨率，并将可部署多模态观测、动作条件和仅训练时使用的物理能量分开。
+- **Baseline** · 摘要报告比较强基线，具名方法待核实。
+- **Benchmark** · SURF-GARDEN、SURF-BENCH，比较材料逆推、五步网格预测 Chamfer 误差以及跨模态 mAP@100，并评估传感器丢失和对应扰动。
+- **关键结果 / 消融** · 相对对照三项结果约为误差降低 40%、误差降低 20%、检索提升 25%；另有真实植物与动态三维迁移。
+- **适用条件 / 局限** · 主证据来自生长表面基准；训练依赖特权物理信号。
+
+**可复用机制** · 将高分辨率潜状态放在控制或结构改变的边界，固定预算下与均匀空间表征比较。
+
+<a id="paper-155126"></a>
+
+## Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155126) · [作者来源](https://openreview.net/forum?id=8EOfA3Wh07)
+
+- **问题 / 瓶颈** · 连续后训练中任务更新可能相互干扰
+- **核心创新 / 方法** · 以参数更新的协方差表示任务几何，用高斯 Wasserstein 重心构造共享度量，以冲突门控合并校正
+- **Baseline** · 无数据合并方法，具名对照未报告
+- **Benchmark** · Qwen3 0.6B 至 14B，持续学习领域和能力两类设置，评估保留能力与最终表现
+- **关键结果 / 消融** · 摘要报告两类表现均优于无数据对照，幅度未报告
+- **适用条件 / 局限** · 摘要未给出其他模型家族结果
+
+**可复用机制** · 比较固定任务相似度与随当前权重变化的冲突度对遗忘的预测能力
+
+<a id="paper-153809"></a>
+
+## Geometry-Constrained Kolmogorov–Arnold Networks: Learning Edge Geometry via Banach Duality
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153809) · [作者来源](https://openreview.net/forum?id=IYu64aV0LR)
+
+- **问题 / 瓶颈** · 固定基函数预设边函数响应
+- **核心创新 / 方法** · 从 Banach 对偶映射构建边激活，每条边学习一个指数，调整阈值响应和原点附近敏感性
+- **Baseline** · 固定基 KAN，包括交叉验证样条
+- **Benchmark** · 50 道 Feynman 符号回归方程，含少样本和噪声条件
+- **关键结果 / 消融** · 相对样条赢下 85/90 个少样本设置，报告噪声退化 3.7 倍对 21.6 倍
+- **适用条件 / 局限** · 证据聚焦符号回归
+
+**可复用机制** · 对重视抗扰的边函数同时比较拟合误差和扰动放大
+
+<a id="paper-150174"></a>
+
+## Geometry-Guided Semantic Reconstruction for 3D Instance Segmentation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150174) · [作者来源](https://openreview.net/forum?id=k8lnRfJDKH)
+
+- **问题 / 瓶颈** · 直接拼接无法确保语义和三维结构对齐
+- **核心创新 / 方法** · 遮挡部分背景上的提升二维先验，让三维编码器重建，并在稀疏编码前用几何调制先验
+- **Baseline** · 两个实例分割基架，具名版本未报告
+- **Benchmark** · ScanNetV2 和 ScanNet200，全数据及少样本三维实例分割，指标未报告
+- **关键结果 / 消融** · 结果更好或相当，幅度未报告
+- **适用条件 / 局限** · 依赖可提升到三维坐标的二维先验
+
+**可复用机制** · 将跨表征融合改成受目标几何约束的遮挡恢复任务
+
+<a id="paper-149198"></a>
+
+## Geometry is an Operator: Lie-Algebraic Space Routing for View-Robust 3D MLLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149198) · [作者来源](https://openreview.net/forum?id=sBOq6IiZpM)
+
+- **问题 / 瓶颈** · 几何加性注入难以校正跨视角语义漂移
+- **核心创新 / 方法** · 从三维 token 预测旋转状态和路由系数，按三元组施加 Lie 群作用，融合原始、三维上下文与变换路径
+- **Baseline** · 加性几何融合方法
+- **Benchmark** · 三维场景理解和空间推理，含大姿态变化分组，具名数据与指标未报告
+- **关键结果 / 消融** · 报告跨视角稳健性提高，严重姿态变化下收益尤明显
+- **适用条件 / 局限** · 依赖可用三维几何 token
+
+**可复用机制** · 跨视角表征可比较显式群作用与添加几何特征
+
+<a id="paper-149667"></a>
+
+## Geometry Matters in Packed 3D Attention
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149667) · [作者来源](https://openreview.net/forum?id=oLN3S4iIZn)
+
+- **问题 / 瓶颈** · 压紧三维 token 后序列距离随布局改变
+- **核心创新 / 方法** · 局部注意力保持精确，远场用三维连续块摘要，压缩前以真实网格坐标施加轴向 RoPE
+- **Baseline** · 匹配的可学习位置局部全局注意力、TokenGrid 3D U-Net、稠密 SDPA
+- **Benchmark** · 合成重打包，Allen WTC–11 hiPSC 显微图像，测 macro Dice 和延迟
+- **关键结果 / 消融** · 262k token 下最终 macro Dice 高 0.1248，65k token 实现在摘要设置下比稠密 SDPA 快 6.49 倍
+- **适用条件 / 局限** · 主要实证来自显微三维网格
+
+**可复用机制** · 改变打包顺序做不变性检查，可发现模型学到了布局
+
+<a id="paper-150238"></a>
+
+## Geometry Meets Physics: Data-Efficient Pre-Training for Unstructured Neural PDE Solvers
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150238) · [作者来源](https://openreview.net/forum?id=jidnQA2TIz)
+
+- **问题 / 瓶颈** · 非结构化三维 PDE 求解标注数据昂贵
+- **核心创新 / 方法** · 稳态用内蕴形状描述符学习域表征，瞬态以在线合成 PDE 数据预训练
+- **Baseline** · 摘要未点名对照
+- **Benchmark** · 稳态与瞬态 PDE 下游少数据微调，摘要未给具名数据集和误差定义
+- **关键结果 / 消融** · 报告最高 3 倍收敛速度、2 倍数据效率及最高 25% 精度提升
+- **适用条件 / 局限** · 依赖形状描述符或合成物理与下游任务共享结构
+
+**可复用机制** · 数据昂贵的物理代理模型可先检验廉价物理预训练能否改善微调
+
+<a id="paper-150707"></a>
+
+## Geometry over Density: Few-Shot Cross-Domain OOD Detection
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150707) · [作者来源](https://openreview.net/forum?id=g7cJBv2nOf)
+
+- **问题 / 瓶颈** · 新域往往只有少量域内样本
+- **核心创新 / 方法** · 由扩散模型分数构造幅值积分和动态平滑度两个量，刻画轨迹交互
+- **Baseline** · 需用 5 万至 16.3 万样本训练的对照，名称未报告
+- **Benchmark** · 12 组跨域 OOD 测试，每组约 100 个无标注域内样本，指标 AUROC
+- **关键结果 / 消融** · 平均 AUROC 93.7%，与高样本量对照有竞争力
+- **适用条件 / 局限** · 仍需每组的少量域内参考样本
+
+**可复用机制** · 感知系统切换环境时可比较轨迹统计和静态密度特征
+
+<a id="paper-151891"></a>
+
+## Geometry-Regularized Collapse Resistance via Consensus Enhancement for Federated Learning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151891) · [作者来源](https://openreview.net/forum?id=XADFq5Hg3V)
+
+- **问题 / 瓶颈** · 客户端数据异质使蒸馏共识携带局部偏差
+- **核心创新 / 方法** · 约束主子空间的能量分布，避免少数分量集中，并按全局类别原型图对齐客户端关系
+- **Baseline** · 八种对照，摘要未点名
+- **Benchmark** · 两个任务的八个数据集，关注客户端共识与全局泛化，指标未报告
+- **关键结果 / 消融** · 报告两方面改善并超过八种对照，幅度未报告
+- **适用条件 / 局限** · 依赖预训练特征及可建立全局类别原型
+
+**可复用机制** · 跨设备适应可分别诊断谱塌缩和关系漂移
+
+<a id="paper-153923"></a>
+
+## GeoMIND: A Benchmark for Spatial Understanding in Robotic Manipulation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153923) · [作者来源](https://openreview.net/forum?id=HdIY4lSNir)
+
+- **问题 / 瓶颈** · 显著视觉提示和静态测试可绕开空间推理
+- **核心创新 / 方法** · 用校验目标及可执行交互构造桌面任务，分别评测空间推理和空间记忆
+- **Baseline** · 多类具身智能体，名称未报告
+- **Benchmark** · GeoMIND 的 27 个设计和 54 个任务变体，具体指标未报告
+- **关键结果 / 消融** · 摘要指出身份跟踪和把关系约束转为动作是共同失败点
+- **适用条件 / 局限** · 已报告证据来自桌面操作
+
+**可复用机制** · 设计干预前后成对场景，测量成功是否依赖持续跟踪目标身份
+
+<a id="paper-151461"></a>
+
+## GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151461) · [作者来源](https://openreview.net/forum?id=aT3fx6NjSJ)
+
+- **问题 / 瓶颈** · 逐层独立优化遗漏冗余，相邻层未必兼容
+- **核心创新 / 方法** · 顺序优化跨层权重配对和共享字典分解，并结合结构稀疏保留各层校准几何
+- **Baseline** · 独立结构化分解及启发式分组的配对分解
+- **Benchmark** · 多个 Transformer 架构、规模和模态，具名数据和指标未报告
+- **关键结果 / 消融** · 摘要报告优于独立或启发式分组方案
+- **适用条件 / 局限** · 依赖校准激活，具体校准规模未报告
+
+**可复用机制** · 为边缘模型选择共享基时，按校准数据估计跨层兼容度
+
+<a id="paper-151984"></a>
+
+## GeoPano: Towards Geometrically Accurate Panoramic 3D Reconstruction from a Single Panorama
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151984) · [作者来源](https://openreview.net/forum?id=WMfFfSSyY6)
+
+- **问题 / 瓶颈** · 全景切分为透视图之后跨视图结构不一致
+- **核心创新 / 方法** · 用全局全景几何引导跨视图注意力，同时优化透视局部点云和全景均匀全局点云损失
+- **Baseline** · 既有单图全景重建方法，名称未报告
+- **Benchmark** · 单全景图三维重建，评估重建、几何一致性和视觉保真度
+- **关键结果 / 消融** · 摘要报告各方面优于对照，幅度未报告
+- **适用条件 / 局限** · 依赖完整全景和可统一坐标的投影
+
+**可复用机制** · 把宽视野输入切块处理时，可用同一坐标系的整体损失检验拼接质量
+
+<a id="paper-153630"></a>
+
+## GEOPHYS: The Geometry of Physical Plausibility
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153630) · [作者来源](https://openreview.net/forum?id=JxqjhovyBZ)
+
+- **问题 / 瓶颈** · 视频物理评审可能依赖昂贵世界模型或专项训练
+- **核心创新 / 方法** · 从逐帧特征提取曲率、速度变化、加速度与预测残差，用于异常识别或 best-of-N 候选排序
+- **Baseline** · V-JEPA 2、GPT-4o、Gemini 等，生成奖励对照 V-JEPA 2
+- **Benchmark** · LikePhys、IntPhys2 准确率及 MAGI-1 4.5B 的 PhysicsIQ
+- **关键结果 / 消融** · 两个识别准确率分别 97.7% 和 93.3%，生成分数从 53.8% 到 64.7%
+- **适用条件 / 局限** · 证据限定已评估物理违例及生成器
+
+**可复用机制** · 世界模型候选排序可先测冻结表征动态是否能担任轻量奖励代理
+
+<a id="paper-152380"></a>
+
+## GeoPMR: Preserving Relational and Hierarchical Geometry in Multimodal Molecular Representation Learning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152380) · [作者来源](https://openreview.net/forum?id=TWQ5xdccxN)
+
+- **问题 / 瓶颈** · 逐点对比对齐可能扭曲各模态关系，欧氏空间也难表达分支层级
+- **核心创新 / 方法** · 学习模态独有度量，用 Gromov–Wasserstein 对齐距离矩阵，并在双曲表征中约束父子与同层关系
+- **Baseline** · InfoNCE、VICReg 属于文中比较的范式，具体实验对照未报告
+- **Benchmark** · 七个性质预测基准，分类 AUC 和回归 MAE
+- **关键结果 / 消融** · 摘要报告分类 AUC 改善 1.4%、回归 MAE 改善 1.7%
+- **适用条件 / 局限** · 需要知道层级关系，跨领域验证未报告
+
+**可复用机制** · 分层标注的异质感知信号可比较关系级与实例级对齐
+
+<a id="paper-152938"></a>
+
+## GeoRad-3D: Factorized Geometry Transport and Residual Radiometry for 3D Radar Nowcasting
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152938) · [作者来源](https://openreview.net/forum?id=PGN6GYPOlq)
+
+- **问题 / 瓶颈** · 统一确定性回归混合运动规律和局部强度波动
+- **核心创新 / 方法** · 用共享运动场和局部补正推进几何，确定性预测基础强度，再用条件流匹配建模其残差，在渲染空间汇总分位数
+- **Baseline** · 基于时空一致高斯地块方法，与最强已公开基线比较
+- **Benchmark** · NEXRAD 协议，20/30/40 dBZ 的 Pool4 CSI 及 LPIPS-Radar
+- **关键结果 / 消融** · 各门槛 CSI 约增 45%、82%、124%，LPIPS-Radar 降 31.0%
+- **适用条件 / 局限** · 已报告证据限于该雷达协议
+
+**可复用机制** · 对动态场景预测先对齐几何，再采样难以预测的局部观测残差
+
+<a id="paper-152062"></a>
+
+## GeoReason: Bridging Logical Reasoning and Spatial Fidelity in Remote Sensing Segmentation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152062) · [作者来源](https://openreview.net/forum?id=Vmz7n0aAW8)
+
+- **问题 / 瓶颈** · 在长推理末端生成分割 token 会失去细粒度视觉证据
+- **核心创新 / 方法** · 开头注入分割 token，先框后掩码定位，并加图块到 token 的显式对齐损失
+- **Baseline** · 已有推理分割方案，摘要未点名
+- **Benchmark** · Earthreason 和 RRSIS-D 遥感分割评测，指标未报告
+- **关键结果 / 消融** · 摘要报告优于既有方案，幅度未报告
+- **适用条件 / 局限** · 验证来自遥感小目标，跨域结果未报告
+
+**可复用机制** · 长指令的分割或抓取定位可测试提前植入空间锚点能否减少漂移
+
+<a id="paper-155697"></a>
+
+## GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155697) · [作者来源](https://openreview.net/forum?id=3cSHwt2dIW)
+
+- **问题 / 瓶颈** · 检索和生成擅长处理不同类型的查询
+- **核心创新 / 方法** · 让视觉语言模型路由查询，用两条路线的地理误差差距构造成对偏好监督
+- **Baseline** · 独立检索和生成路线及其他方法，具名对照未报告
+- **Benchmark** · IM2GPS3K 和 YFCC4K 世界图像定位，具体指标未报告
+- **关键结果 / 消融** · 摘要报告优于现有对照，幅度未报告
+- **适用条件 / 局限** · 训练需要两路预测及真实标签，其他任务未报告
+
+**可复用机制** · Agent 在检索和生成间选择工具时，可比较连续收益差值和二元胜负标签
+
+<a id="paper-149350"></a>
+
+## GeoSPRINT: Geometric Redundancy-Aware Step Pruning for Inference in Diffusion Trajectories
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149350) · [作者来源](https://openreview.net/forum?id=qj6phkQ9Bx)
+
+- **问题 / 瓶颈** · 均匀去噪时刻在轨迹平直区域浪费计算
+- **核心创新 / 方法** · 使用 QR 分解检测潜空间近共面轨迹，把更多更新分配给高曲率区间，从而构造非均匀日程
+- **Baseline** · 均匀 DDIM、DPM-Solver++
+- **Benchmark** · CIFAR-10、LSUN Church、Stable Diffusion v1.5，在匹配网络调用数下评估 FID
+- **关键结果 / 消融** · CIFAR-10 改善 0.7 至 1.1 FID，LSUN Church 在 52 步从 1.48 降至 1.26
+- **适用条件 / 局限** · 跨日程或域复用的效果未报告
+
+**可复用机制** · 扩散动作策略可先测轨迹复杂度是否能解释逐段步数需求
+
+<a id="paper-139481"></a>
+
+## GeoSym127K: Scalable Symbolically-verifiable Synthesis for Multimodal Geometric Reasoning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139481) · [作者来源](https://openreview.net/forum?id=NO4INpEpCi)
+
+- **问题 / 瓶颈** · 图形推理训练数据缺乏精确的可验证标签
+- **核心创新 / 方法** · 按类型语法造题，解析求解器生成符号真值，同源渲染图形并构造监督，再比较从结构化 SFT 初始化的可验证奖励学习
+- **Baseline** · 零样本强化学习和闭源模型，包括 Doubao-1.8
+- **Benchmark** · GeoSym-Bench 511 个样本及 MathVerse Vision-Only、WeMath
+- **关键结果 / 消融** · Qwen3-VL-8B 在前者提升 22.21 个百分点，WeMath 达 61.52%，报告提升 6.19 个百分点
+- **适用条件 / 局限** · 依赖可形式化题型及精确可判定答案
+
+**可复用机制** · 对可形式化视觉任务，可用同一场景程序生成输入、监督和强化学习校验

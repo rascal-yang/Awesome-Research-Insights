@@ -157,3 +157,45 @@
 | 具身智能 | 潜变量滚动预测 | [Generative Scenario Rollouts for End-to-End Autonomous Driving](cards-0006.md#paper-155620) | 同时滚动预测动作与语言条件下的场景，并用一致性抑制长程漂移。 |
 | 计算机视觉 | 联合三维重建 | [Generative Structure from Motion with Native 3D Diffusion](cards-0006.md#paper-152786) | 在同一去噪过程中联合估计几何与相机位姿。 |
 | 智能体 | 轨迹蒸馏 | [GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation](cards-0006.md#paper-155907) | 以同目标强弱轨迹差异产生细粒度工具决策监督。 |
+| 计算机视觉 | 三维重建 | [GenRec: Knowing Where to Reconstruct and Where to Generate](cards-0006.md#paper-149818) | 依据可见性为不同像素选择重建或生成。 |
+| 生成模型 | 偏好优化 | [GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching](cards-0006.md#paper-151044) | 比较外部视频奖励与生成器速度误差导出的奖励。 |
+| 多模态学习 | 工具调用 | [Gen-Searcher: Reinforcing Agentic Search for Image Generation](cards-0006.md#paper-153355) | 把检索图像和检索文本同时纳入图像生成代理的训练反馈。 |
+| 深度学习 | 可解释性 | [GenZ: Hybrid statistical–foundational models for knowledge discovery from real-valued multidimensional targets](cards-0006.md#paper-151515) | 在监督目标驱动的样本分组上让基础模型提出可解释特征。 |
+| 多模态学习 | 反事实评测 | [GeoBiaset: A Counterfactual Benchmark for Demographic Bias in World-Level Geolocalization](cards-0006.md#paper-138937) | 固定背景与标签，插入假线索测量模型是否转向该线索关联的预测。 |
+| 具身智能 | 测试时适应 | [GeoCurv-TTT: Geometry-Aware Deformation Restoration for 3D Test-Time Training](cards-0006.md#paper-154164) | 用曲率区分可扰动区域与应保留的结构锚点。 |
+| 多模态学习 | 推理评测 | [GeoG2U-Bench: When Does Generation Help Understanding in Ultra-High-Resolution Remote Sensing?](cards-0006.md#paper-139820) | 先用直接回答作对照，再决定是否启用生成中间视觉证据。 |
+| 计算机视觉 | 状态空间模型 | [GeoMamba: Geometry-Aware State Space Modeling for Image Restoration](cards-0006.md#paper-148154) | 根据扫描相邻标记的原空间间距控制状态传递。 |
+| 具身智能 | 世界模型 | [GeoMemory: Geometry-Indexed Memory for Long-Horizon Interactive Video Generation](cards-0006.md#paper-155498) | 按可见几何索引检索历史帧，并分别训练探索与重访。 |
+| 多模态学习 | 表征诊断 | [Geometric Alignment without Functional Equivalence: A Layer-wise Analysis of the Speech-Text Modality Gap](cards-0006.md#paper-153576) | 将中间层表征相似度和末层答案分离度同时测量。 |
+| 深度学习 | 训练动力学 | [Geometrically Disentangling Concept Learning from the Language Modeling Loss](cards-0006.md#paper-150566) | 对照概念子空间与损失梯度方向，测模型何时开始优化某能力。 |
+| 具身智能 | 表征诊断 | [Geometric Analysis of Neural Regression Collapse via Intrinsic Dimension](cards-0006.md#paper-148252) | 按数据量与噪声决定扩大还是缩小控制回归头之前的表征。 |
+| 深度学习 | 记忆机制 | [Geometric Factual Recall in Transformers](cards-0006.md#paper-155768) | 把事实绑定存到主体表示，将关系选择作为可复用模块。 |
+| 智能体 | 检索增强生成 | [Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG](cards-0006.md#paper-151572) | 为多跳检索控制相似性与互补性，并限制枢纽节点过度扩散。 |
+| 大语言模型 | 推理可靠性 | [Geometric Instability of Hidden-State Trajectories Predicts Reasoning Failures in Large Language Models](cards-0006.md#paper-154169) | 用内部轨迹几何量判定是否采用模型答案。 |
+| 大语言模型 | 潜空间推理 | [Geometric Latent Reasoning Induces Shorter Generations in LLMs](cards-0006.md#paper-155324) | 将早期显式推理换成由文本推理路径监督的连续状态更新。 |
+| 大语言模型 | 测试时计算 | [Geometric Prompt-Trajectory Planning for Test-Time Scaling](cards-0006.md#paper-150955) | 将额外推理预算优先分给示例顺序规划。 |
+| 可解释性 | 分布偏移 | [Geometry-Adaptive Explainer for Faithful Dictionary-Based Interpretability under Distribution Shift](cards-0006.md#paper-150508) | 部署新域时用无标签激活重新对齐解释字典。 |
+| 计算机视觉 | 三维重建 | [Geometry-Aware Flow Matching for Sparse-View 3D Gaussian Splatting](cards-0006.md#paper-148380) | 按粗到细的属性层级学习从起始场景到最终高斯场景的传输。 |
+| 机器学习系统 | 推理调度 | [Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice](cards-0006.md#paper-150070) | 按 KV 缓存的时空占用体积给请求排序。 |
+| 计算机视觉 | 表征去噪 | [Geometry-Aware Representation Denoising for Multi-view Image Restoration and 3D Reconstruction](cards-0006.md#paper-153365) | 在重建网络的跨视角特征中去噪后，同时解码几何与 RGB。 |
+| 深度学习 | 量化微调 | [Geometry-Aware Zeroth-Order Optimization for Fine-Tuning Quantized LLMs](cards-0006.md#paper-155279) | 在正正交域上定义零阶扰动，避免量化尺度越界。 |
+| 大语言模型 | 置信度校准 | [Geometry-Calibrated Conformal Abstention for Language Models](cards-0006.md#paper-148649) | 用内部知识参与度校准回答置信度，再设定拒答规则。 |
+| 具身智能 | 世界模型 | [Geometry-Centered 3D Latent World Models for Growing Surfaces](cards-0006.md#paper-149549) | 按未来变化的空间分布为世界状态分配分辨率。 |
+| 大语言模型 | 持续学习 | [Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training](cards-0006.md#paper-155126) | 按当前权重状态决定是否合并新任务更新 |
+| 深度学习 | 网络结构 | [Geometry-Constrained Kolmogorov–Arnold Networks: Learning Edge Geometry via Banach Duality](cards-0006.md#paper-153809) | 用可学习边函数几何调节噪声敏感性 |
+| 计算机视觉 | 三维感知 | [Geometry-Guided Semantic Reconstruction for 3D Instance Segmentation](cards-0006.md#paper-150174) | 用遮挡恢复蒸馏二维特征，并由三维几何控制融合 |
+| 多模态学习 | 空间表征 | [Geometry is an Operator: Lie-Algebraic Space Routing for View-Robust 3D MLLMs](cards-0006.md#paper-149198) | 用几何推断的变换操作视觉隐状态 |
+| 深度学习 | 注意力机制 | [Geometry Matters in Packed 3D Attention](cards-0006.md#paper-149667) | 分开实现层存储布局和模型空间坐标 |
+| 科学机器学习 | 预训练 | [Geometry Meets Physics: Data-Efficient Pre-Training for Unstructured Neural PDE Solvers](cards-0006.md#paper-150238) | 按空间和时间依赖选择廉价的预训练信号 |
+| 深度学习 | 分布外检测 | [Geometry over Density: Few-Shot Cross-Domain OOD Detection](cards-0006.md#paper-150707) | 复用冻结生成模型的轨迹能量做跨域异常检测 |
+| 深度学习 | 联邦学习 | [Geometry-Regularized Collapse Resistance via Consensus Enhancement for Federated Learning](cards-0006.md#paper-151891) | 以预训练关系结构约束客户端微调 |
+| 具身智能 | 空间评测 | [GeoMIND: A Benchmark for Spatial Understanding in Robotic Manipulation](cards-0006.md#paper-153923) | 在场景发生变化后验证目标身份记忆 |
+| 深度学习 | 模型压缩 | [GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression](cards-0006.md#paper-151461) | 先按激活几何配对，再做共享字典压缩 |
+| 计算机视觉 | 三维重建 | [GeoPano: Towards Geometrically Accurate Panoramic 3D Reconstruction from a Single Panorama](cards-0006.md#paper-151984) | 给局部重建增加统一坐标系监督 |
+| 多模态学习 | 物理世界建模 | [GEOPHYS: The Geometry of Physical Plausibility](cards-0006.md#paper-153630) | 用冻结图像特征的时间轨迹为视频物理一致性打分 |
+| 多模态学习 | 表征对齐 | [GeoPMR: Preserving Relational and Hierarchical Geometry in Multimodal Molecular Representation Learning](cards-0006.md#paper-152380) | 以模态内距离结构对齐异质模态 |
+| 科学机器学习 | 时空预测 | [GeoRad-3D: Factorized Geometry Transport and Residual Radiometry for 3D Radar Nowcasting](cards-0006.md#paper-152938) | 将可预测的空间搬运与局部观测不确定性分开建模 |
+| 多模态学习 | 视觉定位 | [GeoReason: Bridging Logical Reasoning and Spatial Fidelity in Remote Sensing Segmentation](cards-0006.md#paper-152062) | 让分割查询从长推理开始时就保持视觉条件 |
+| 多模态学习 | 动态路由 | [GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization](cards-0006.md#paper-155697) | 用候选方法的连续误差差距学习路由 |
+| 深度学习 | 扩散推理 | [GeoSPRINT: Geometric Redundancy-Aware Step Pruning for Inference in Diffusion Trajectories](cards-0006.md#paper-149350) | 以离线路径冗余决定采样步数分配 |
+| 多模态学习 | 可验证推理 | [GeoSym127K: Scalable Symbolically-verifiable Synthesis for Multimodal Geometric Reasoning](cards-0006.md#paper-139481) | 用共同符号结构生成图像和可验证推理监督 |

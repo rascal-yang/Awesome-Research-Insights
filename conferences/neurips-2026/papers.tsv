@@ -3363,66 +3363,66 @@ poster_id	title	paper_url	status	reason
 155620	Generative Scenario Rollouts for End-to-End Autonomous Driving	https://neurips.cc/virtual/2026/poster/155620	included	同时滚动预测动作与语言条件下的场景，并用一致性抑制长程漂移。
 152786	Generative Structure from Motion with Native 3D Diffusion	https://neurips.cc/virtual/2026/poster/152786	included	在同一去噪过程中联合估计几何与相机位姿。
 155907	GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation	https://neurips.cc/virtual/2026/poster/155907	included	以同目标强弱轨迹差异产生细粒度工具决策监督。
-154372	GeneZip: Region-Aware Compression for Long Context DNA Modeling	https://neurips.cc/virtual/2026/poster/154372	pending	-
-149818	GenRec: Knowing Where to Reconstruct and Where to Generate	https://neurips.cc/virtual/2026/poster/149818	pending	-
-150911	GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction	https://neurips.cc/virtual/2026/poster/150911	pending	-
-151044	GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching	https://neurips.cc/virtual/2026/poster/151044	pending	-
-139494	GenScale: A Benchmark for Relative Object Scale in Image Generation and Editing	https://neurips.cc/virtual/2026/poster/139494	pending	-
-153355	Gen-Searcher: Reinforcing Agentic Search for Image Generation	https://neurips.cc/virtual/2026/poster/153355	pending	-
-151515	GenZ: Hybrid statistical–foundational models for knowledge discovery from real-valued multidimensional targets	https://neurips.cc/virtual/2026/poster/151515	pending	-
-138937	GeoBiaset: A Counterfactual Benchmark for Demographic Bias in World-Level Geolocalization	https://neurips.cc/virtual/2026/poster/138937	pending	-
-150652	GeoCore-9B: Towards Geo-Aware Generative Foundation Models in Earth Observation	https://neurips.cc/virtual/2026/poster/150652	pending	-
-154164	GeoCurv-TTT: Geometry-Aware Deformation Restoration for 3D Test-Time Training	https://neurips.cc/virtual/2026/poster/154164	pending	-
-139470	GeoDial: A Multimodal Dialog Tutoring Dataset for Geometry Problem-Solving with Visual Tutor Turns	https://neurips.cc/virtual/2026/poster/139470	pending	-
-139512	GeoFidelity-Bench: Evaluating Block-Conditioned Geographic Fidelity in Text-to-Image Street-View Generation	https://neurips.cc/virtual/2026/poster/139512	pending	-
-139820	GeoG2U-Bench: When Does Generation Help Understanding in Ultra-High-Resolution Remote Sensing?	https://neurips.cc/virtual/2026/poster/139820	pending	-
-148154	GeoMamba: Geometry-Aware State Space Modeling for Image Restoration	https://neurips.cc/virtual/2026/poster/148154	pending	-
-155498	GeoMemory: Geometry-Indexed Memory for Long-Horizon Interactive Video Generation	https://neurips.cc/virtual/2026/poster/155498	pending	-
-153576	Geometric Alignment without Functional Equivalence: A Layer-wise Analysis of the Speech-Text Modality Gap	https://neurips.cc/virtual/2026/poster/153576	pending	-
-150566	Geometrically Disentangling Concept Learning from the Language Modeling Loss	https://neurips.cc/virtual/2026/poster/150566	pending	-
-148252	Geometric Analysis of Neural Regression Collapse via Intrinsic Dimension	https://neurips.cc/virtual/2026/poster/148252	pending	-
-155768	Geometric Factual Recall in Transformers	https://neurips.cc/virtual/2026/poster/155768	pending	-
-151572	Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG	https://neurips.cc/virtual/2026/poster/151572	pending	-
-155196	Geometric Inductive Biases for Semi-Supervised Equalization: The Constellation-Aware Transformer	https://neurips.cc/virtual/2026/poster/155196	pending	-
-154169	Geometric Instability of Hidden-State Trajectories Predicts Reasoning Failures in Large Language Models	https://neurips.cc/virtual/2026/poster/154169	pending	-
-155324	Geometric Latent Reasoning Induces Shorter Generations in LLMs	https://neurips.cc/virtual/2026/poster/155324	pending	-
-150955	Geometric Prompt-Trajectory Planning for Test-Time Scaling	https://neurips.cc/virtual/2026/poster/150955	pending	-
-151728	Geometric Signatures of Reasoning: A Spectral Perspective on Task Hardness	https://neurips.cc/virtual/2026/poster/151728	pending	-
-151705	Geometric Velocity Regularity for Flow Matching on Manifold-Concentrated Data	https://neurips.cc/virtual/2026/poster/151705	pending	-
-150508	Geometry-Adaptive Explainer for Faithful Dictionary-Based Interpretability under Distribution Shift	https://neurips.cc/virtual/2026/poster/150508	pending	-
-155408	Geometry-Aware Directional Alignment for Coherent Model Merging	https://neurips.cc/virtual/2026/poster/155408	pending	-
-148380	Geometry-Aware Flow Matching for Sparse-View 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/148380	pending	-
-150070	Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice	https://neurips.cc/virtual/2026/poster/150070	pending	-
-151644	Geometry-Aware Optimal Transport: Fast Intrinsic Dimension and Wasserstein Distance Estimation	https://neurips.cc/virtual/2026/poster/151644	pending	-
-153317	Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning	https://neurips.cc/virtual/2026/poster/153317	pending	-
-153365	Geometry-Aware Representation Denoising for Multi-view Image Restoration and 3D Reconstruction	https://neurips.cc/virtual/2026/poster/153365	pending	-
-155076	Geometry-Aware Score-Repellent Monte Carlo	https://neurips.cc/virtual/2026/poster/155076	pending	-
-150561	Geometry-Aware Self-Supervised Electrophysiology Representation Learning	https://neurips.cc/virtual/2026/poster/150561	pending	-
-150840	Geometry-Aware Similarity Metrics for Neural Representations on Riemannian and Statistical Manifolds	https://neurips.cc/virtual/2026/poster/150840	pending	-
-150455	Geometry-Aware Subspace Perturbation for Heterogeneous Federated Learning	https://neurips.cc/virtual/2026/poster/150455	pending	-
-155279	Geometry-Aware Zeroth-Order Optimization for Fine-Tuning Quantized LLMs	https://neurips.cc/virtual/2026/poster/155279	pending	-
-148649	Geometry-Calibrated Conformal Abstention for Language Models	https://neurips.cc/virtual/2026/poster/148649	pending	-
-149549	Geometry-Centered 3D Latent World Models for Growing Surfaces	https://neurips.cc/virtual/2026/poster/149549	pending	-
-155126	Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training	https://neurips.cc/virtual/2026/poster/155126	pending	-
-153809	Geometry-Constrained Kolmogorov–Arnold Networks: Learning Edge Geometry via Banach Duality	https://neurips.cc/virtual/2026/poster/153809	pending	-
-150174	Geometry-Guided Semantic Reconstruction for 3D Instance Segmentation	https://neurips.cc/virtual/2026/poster/150174	pending	-
-149198	Geometry is an Operator: Lie-Algebraic Space Routing for View-Robust 3D MLLMs	https://neurips.cc/virtual/2026/poster/149198	pending	-
-149667	Geometry Matters in Packed 3D Attention	https://neurips.cc/virtual/2026/poster/149667	pending	-
-150238	Geometry Meets Physics: Data-Efficient Pre-Training for Unstructured Neural PDE Solvers	https://neurips.cc/virtual/2026/poster/150238	pending	-
-153522	Geometry of Relaxed Fair Regression: A Unified Framework for Aware and Unaware Settings	https://neurips.cc/virtual/2026/poster/153522	pending	-
-150707	Geometry over Density: Few-Shot Cross-Domain OOD Detection	https://neurips.cc/virtual/2026/poster/150707	pending	-
-151891	Geometry-Regularized Collapse Resistance via Consensus Enhancement for Federated Learning	https://neurips.cc/virtual/2026/poster/151891	pending	-
-153923	GeoMIND: A Benchmark for Spatial Understanding in Robotic Manipulation	https://neurips.cc/virtual/2026/poster/153923	pending	-
-151461	GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression	https://neurips.cc/virtual/2026/poster/151461	pending	-
-151984	GeoPano: Towards Geometrically Accurate Panoramic 3D Reconstruction from a Single Panorama	https://neurips.cc/virtual/2026/poster/151984	pending	-
-153630	GEOPHYS: The Geometry of Physical Plausibility	https://neurips.cc/virtual/2026/poster/153630	pending	-
-152380	GeoPMR: Preserving Relational and Hierarchical Geometry in Multimodal Molecular Representation Learning	https://neurips.cc/virtual/2026/poster/152380	pending	-
-152938	GeoRad-3D: Factorized Geometry Transport and Residual Radiometry for 3D Radar Nowcasting	https://neurips.cc/virtual/2026/poster/152938	pending	-
-152062	GeoReason: Bridging Logical Reasoning and Spatial Fidelity in Remote Sensing Segmentation	https://neurips.cc/virtual/2026/poster/152062	pending	-
-150592	Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images	https://neurips.cc/virtual/2026/poster/150592	pending	-
-155697	GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization	https://neurips.cc/virtual/2026/poster/155697	pending	-
-149350	GeoSPRINT: Geometric Redundancy-Aware Step Pruning for Inference in Diffusion Trajectories	https://neurips.cc/virtual/2026/poster/149350	pending	-
-139481	GeoSym127K: Scalable Symbolically-verifiable Synthesis for Multimodal Geometric Reasoning	https://neurips.cc/virtual/2026/poster/139481	pending	-
+154372	GeneZip: Region-Aware Compression for Long Context DNA Modeling	https://neurips.cc/virtual/2026/poster/154372	excluded	基因组建模专用压缩；该批未提取适用于目标方向的独立 Insight。
+149818	GenRec: Knowing Where to Reconstruct and Where to Generate	https://neurips.cc/virtual/2026/poster/149818	included	依据可见性为不同像素选择重建或生成。
+150911	GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction	https://neurips.cc/virtual/2026/poster/150911	excluded	仅基于当前摘要，与相邻同批方法相比，工程系统的独立机制及适用边界证据较弱。
+151044	GenRM-Flow: Generators are Process-aware Reward Models in Flow Matching	https://neurips.cc/virtual/2026/poster/151044	included	比较外部视频奖励与生成器速度误差导出的奖励。
+139494	GenScale: A Benchmark for Relative Object Scale in Image Generation and Editing	https://neurips.cc/virtual/2026/poster/139494	excluded	主要提供相对尺度测试与场景专用纠错；摘要未交代可单独迁移的纠错机制。
+153355	Gen-Searcher: Reinforcing Agentic Search for Image Generation	https://neurips.cc/virtual/2026/poster/153355	included	把检索图像和检索文本同时纳入图像生成代理的训练反馈。
+151515	GenZ: Hybrid statistical–foundational models for knowledge discovery from real-valued multidimensional targets	https://neurips.cc/virtual/2026/poster/151515	included	在监督目标驱动的样本分组上让基础模型提出可解释特征。
+138937	GeoBiaset: A Counterfactual Benchmark for Demographic Bias in World-Level Geolocalization	https://neurips.cc/virtual/2026/poster/138937	included	固定背景与标签，插入假线索测量模型是否转向该线索关联的预测。
+150652	GeoCore-9B: Towards Geo-Aware Generative Foundation Models in Earth Observation	https://neurips.cc/virtual/2026/poster/150652	excluded	主要贡献落在遥感大模型与地学教师先验，摘要没有足够证据区分蒸馏机制和规模收益。
+154164	GeoCurv-TTT: Geometry-Aware Deformation Restoration for 3D Test-Time Training	https://neurips.cc/virtual/2026/poster/154164	included	用曲率区分可扰动区域与应保留的结构锚点。
+139470	GeoDial: A Multimodal Dialog Tutoring Dataset for Geometry Problem-Solving with Visual Tutor Turns	https://neurips.cc/virtual/2026/poster/139470	excluded	主要新增教学数据和标注协议；当前摘要中语言拟合优于图形定位尚缺可推广的对照。
+139512	GeoFidelity-Bench: Evaluating Block-Conditioned Geographic Fidelity in Text-to-Image Street-View Generation	https://neurips.cc/virtual/2026/poster/139512	excluded	主要提供街区级基准；摘要发现依赖地名、裸坐标和街景这一特定条件，当前不优先录入。
+139820	GeoG2U-Bench: When Does Generation Help Understanding in Ultra-High-Resolution Remote Sensing?	https://neurips.cc/virtual/2026/poster/139820	included	先用直接回答作对照，再决定是否启用生成中间视觉证据。
+148154	GeoMamba: Geometry-Aware State Space Modeling for Image Restoration	https://neurips.cc/virtual/2026/poster/148154	included	根据扫描相邻标记的原空间间距控制状态传递。
+155498	GeoMemory: Geometry-Indexed Memory for Long-Horizon Interactive Video Generation	https://neurips.cc/virtual/2026/poster/155498	included	按可见几何索引检索历史帧，并分别训练探索与重访。
+153576	Geometric Alignment without Functional Equivalence: A Layer-wise Analysis of the Speech-Text Modality Gap	https://neurips.cc/virtual/2026/poster/153576	included	将中间层表征相似度和末层答案分离度同时测量。
+150566	Geometrically Disentangling Concept Learning from the Language Modeling Loss	https://neurips.cc/virtual/2026/poster/150566	included	对照概念子空间与损失梯度方向，测模型何时开始优化某能力。
+148252	Geometric Analysis of Neural Regression Collapse via Intrinsic Dimension	https://neurips.cc/virtual/2026/poster/148252	included	按数据量与噪声决定扩大还是缩小控制回归头之前的表征。
+155768	Geometric Factual Recall in Transformers	https://neurips.cc/virtual/2026/poster/155768	included	把事实绑定存到主体表示，将关系选择作为可复用模块。
+151572	Geometric Gain Graph: Zero-Token Graph Construction for Multi-Hop RAG	https://neurips.cc/virtual/2026/poster/151572	included	为多跳检索控制相似性与互补性，并限制枢纽节点过度扩散。
+155196	Geometric Inductive Biases for Semi-Supervised Equalization: The Constellation-Aware Transformer	https://neurips.cc/virtual/2026/poster/155196	excluded	已知星座布局和维纳接收器等价性限定主要机制，尚缺少能明确迁移到目标研究的独立选择。
+154169	Geometric Instability of Hidden-State Trajectories Predicts Reasoning Failures in Large Language Models	https://neurips.cc/virtual/2026/poster/154169	included	用内部轨迹几何量判定是否采用模型答案。
+155324	Geometric Latent Reasoning Induces Shorter Generations in LLMs	https://neurips.cc/virtual/2026/poster/155324	included	将早期显式推理换成由文本推理路径监督的连续状态更新。
+150955	Geometric Prompt-Trajectory Planning for Test-Time Scaling	https://neurips.cc/virtual/2026/poster/150955	included	将额外推理预算优先分给示例顺序规划。
+151728	Geometric Signatures of Reasoning: A Spectral Perspective on Task Hardness	https://neurips.cc/virtual/2026/poster/151728	excluded	保留证据覆盖更广的逐层轨迹校准工作；此项主要是 MATH500 难度分类，正确性早停仍是待验证设想。
+151705	Geometric Velocity Regularity for Flow Matching on Manifold-Concentrated Data	https://neurips.cc/virtual/2026/poster/151705	excluded	适用范围为紧流形的高斯平滑分布，摘要没有把切向和法向正则性落实到可验证的训练或采样改动。
+150508	Geometry-Adaptive Explainer for Faithful Dictionary-Based Interpretability under Distribution Shift	https://neurips.cc/virtual/2026/poster/150508	included	部署新域时用无标签激活重新对齐解释字典。
+155408	Geometry-Aware Directional Alignment for Coherent Model Merging	https://neurips.cc/virtual/2026/poster/155408	excluded	摘要未说明如何实现两个空间的方向对齐，无法据此独立选定合并变换或验证适用条件。
+148380	Geometry-Aware Flow Matching for Sparse-View 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/148380	included	按粗到细的属性层级学习从起始场景到最终高斯场景的传输。
+150070	Geometry-Aware Online Scheduling for LLM Serving: From Theoretical Bound to System Practice	https://neurips.cc/virtual/2026/poster/150070	included	按 KV 缓存的时空占用体积给请求排序。
+151644	Geometry-Aware Optimal Transport: Fast Intrinsic Dimension and Wasserstein Distance Estimation	https://neurips.cc/virtual/2026/poster/151644	excluded	机制主要用于最优传输离散误差估计，摘要未建立与目标研究中具体训练或评估选择的联系。
+153317	Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning	https://neurips.cc/virtual/2026/poster/153317	excluded	主要证据来自几何变化下的 PDE 算子残差校准；目标方向拒答和分布偏移的工作有更直接的评测。
+153365	Geometry-Aware Representation Denoising for Multi-view Image Restoration and 3D Reconstruction	https://neurips.cc/virtual/2026/poster/153365	included	在重建网络的跨视角特征中去噪后，同时解码几何与 RGB。
+155076	Geometry-Aware Score-Repellent Monte Carlo	https://neurips.cc/virtual/2026/poster/155076	excluded	目标场景是有明确分数函数的各向异性 MCMC，摘要未给出可直接影响目标方向训练或推理选择的验证。
+150561	Geometry-Aware Self-Supervised Electrophysiology Representation Learning	https://neurips.cc/virtual/2026/poster/150561	excluded	贡献围绕探针固定通道几何和动物脑图谱定位，摘要未验证其他模态或空间传感设置中的迁移。
+150840	Geometry-Aware Similarity Metrics for Neural Representations on Riemannian and Statistical Manifolds	https://neurips.cc/virtual/2026/poster/150840	excluded	度量对比技术独立有价值，但摘要没有把它落实到目标方向的模型选择或可验证的诊断决策。
+150455	Geometry-Aware Subspace Perturbation for Heterogeneous Federated Learning	https://neurips.cc/virtual/2026/poster/150455	excluded	低秩协方差扰动只在异质联邦设置验证，与目标方向中的跨设备训练或表征稳定选择缺少具体证据。
+155279	Geometry-Aware Zeroth-Order Optimization for Fine-Tuning Quantized LLMs	https://neurips.cc/virtual/2026/poster/155279	included	在正正交域上定义零阶扰动，避免量化尺度越界。
+148649	Geometry-Calibrated Conformal Abstention for Language Models	https://neurips.cc/virtual/2026/poster/148649	included	用内部知识参与度校准回答置信度，再设定拒答规则。
+149549	Geometry-Centered 3D Latent World Models for Growing Surfaces	https://neurips.cc/virtual/2026/poster/149549	included	按未来变化的空间分布为世界状态分配分辨率。
+155126	Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training	https://neurips.cc/virtual/2026/poster/155126	included	按当前权重状态决定是否合并新任务更新
+153809	Geometry-Constrained Kolmogorov–Arnold Networks: Learning Edge Geometry via Banach Duality	https://neurips.cc/virtual/2026/poster/153809	included	用可学习边函数几何调节噪声敏感性
+150174	Geometry-Guided Semantic Reconstruction for 3D Instance Segmentation	https://neurips.cc/virtual/2026/poster/150174	included	用遮挡恢复蒸馏二维特征，并由三维几何控制融合
+149198	Geometry is an Operator: Lie-Algebraic Space Routing for View-Robust 3D MLLMs	https://neurips.cc/virtual/2026/poster/149198	included	用几何推断的变换操作视觉隐状态
+149667	Geometry Matters in Packed 3D Attention	https://neurips.cc/virtual/2026/poster/149667	included	分开实现层存储布局和模型空间坐标
+150238	Geometry Meets Physics: Data-Efficient Pre-Training for Unstructured Neural PDE Solvers	https://neurips.cc/virtual/2026/poster/150238	included	按空间和时间依赖选择廉价的预训练信号
+153522	Geometry of Relaxed Fair Regression: A Unified Framework for Aware and Unaware Settings	https://neurips.cc/virtual/2026/poster/153522	excluded	公平回归惩罚的差异有理论价值，但摘要未提供能具体改变多模态、Agent、具身智能或相关深度学习实验选型的证据。
+150707	Geometry over Density: Few-Shot Cross-Domain OOD Detection	https://neurips.cc/virtual/2026/poster/150707	included	复用冻结生成模型的轨迹能量做跨域异常检测
+151891	Geometry-Regularized Collapse Resistance via Consensus Enhancement for Federated Learning	https://neurips.cc/virtual/2026/poster/151891	included	以预训练关系结构约束客户端微调
+153923	GeoMIND: A Benchmark for Spatial Understanding in Robotic Manipulation	https://neurips.cc/virtual/2026/poster/153923	included	在场景发生变化后验证目标身份记忆
+151461	GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression	https://neurips.cc/virtual/2026/poster/151461	included	先按激活几何配对，再做共享字典压缩
+151984	GeoPano: Towards Geometrically Accurate Panoramic 3D Reconstruction from a Single Panorama	https://neurips.cc/virtual/2026/poster/151984	included	给局部重建增加统一坐标系监督
+153630	GEOPHYS: The Geometry of Physical Plausibility	https://neurips.cc/virtual/2026/poster/153630	included	用冻结图像特征的时间轨迹为视频物理一致性打分
+152380	GeoPMR: Preserving Relational and Hierarchical Geometry in Multimodal Molecular Representation Learning	https://neurips.cc/virtual/2026/poster/152380	included	以模态内距离结构对齐异质模态
+152938	GeoRad-3D: Factorized Geometry Transport and Residual Radiometry for 3D Radar Nowcasting	https://neurips.cc/virtual/2026/poster/152938	included	将可预测的空间搬运与局部观测不确定性分开建模
+152062	GeoReason: Bridging Logical Reasoning and Spatial Fidelity in Remote Sensing Segmentation	https://neurips.cc/virtual/2026/poster/152062	included	让分割查询从长推理开始时就保持视觉条件
+150592	Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images	https://neurips.cc/virtual/2026/poster/150592	excluded	论文摘要中的技术和评估集中于有地理参考卫星影像下的联合地理配准，缺少足以优先保留的开放场景迁移证据。
+155697	GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization	https://neurips.cc/virtual/2026/poster/155697	included	用候选方法的连续误差差距学习路由
+149350	GeoSPRINT: Geometric Redundancy-Aware Step Pruning for Inference in Diffusion Trajectories	https://neurips.cc/virtual/2026/poster/149350	included	以离线路径冗余决定采样步数分配
+139481	GeoSym127K: Scalable Symbolically-verifiable Synthesis for Multimodal Geometric Reasoning	https://neurips.cc/virtual/2026/poster/139481	included	用共同符号结构生成图像和可验证推理监督
 152562	GeoTransolver: Learning Physics on Irregular Domains using Multi-scale Geometry Aware Physics Attention Transformer	https://neurips.cc/virtual/2026/poster/152562	pending	-
 149346	GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning	https://neurips.cc/virtual/2026/poster/149346	pending	-
 148633	GeoWorld: A Geometry-First World Model for Reconstruction and Imagination	https://neurips.cc/virtual/2026/poster/148633	pending	-
