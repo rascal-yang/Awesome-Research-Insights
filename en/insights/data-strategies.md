@@ -379,5 +379,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Reverse to Advance: Teleoperation-Cost Effective Hard Policy Learning from Reversed Easy Tasks](../../conferences/neurips-2026/cards-0010.md#paper-152349)
 - [Ripple in Still Water: Zero-Shot Clustering in Heterogeneous Federated Learning with Wavelet Scattering Transform](../../conferences/neurips-2026/cards-0010.md#paper-150906)
 - [Robust Approximate Nearest Neighbor Search for Any Dataset](../../conferences/neurips-2026/cards-0010.md#paper-150072)
+- [SAGE: Semantic Ambiguity Guided Capacity Expansion for Retrieval-Augmented Generation](../../conferences/neurips-2026/cards-0010.md#paper-150303)
 
 <!-- conference-classification:end -->

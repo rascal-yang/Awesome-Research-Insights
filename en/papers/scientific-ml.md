@@ -676,5 +676,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](../../conferences/neurips-2026/cards-0009.md#paper-156090)
 - [PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation](../../conferences/neurips-2026/cards-0010.md#paper-148567)
 - [Reversing the Roles of Signal and Noise: Modeling Noise in Astronomical Images without Paired Data](../../conferences/neurips-2026/cards-0010.md#paper-150362)
+- [RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](../../conferences/neurips-2026/cards-0010.md#paper-149820)
 
 <!-- conference-classification:end -->

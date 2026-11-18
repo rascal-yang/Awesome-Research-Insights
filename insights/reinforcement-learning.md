@@ -683,5 +683,18 @@
 - [Robust Nash Alignment under Preference Uncertainty](../conferences/neurips-2026/cards-0010.md#paper-154554)
 - [Robust Offline Reinforcement Learning against Out-of-Distribution Dynamics in Autonomous Driving](../conferences/neurips-2026/cards-0010.md#paper-148793)
 - [Robust Policy Optimization to Prevent Catastrophic Forgetting](../conferences/neurips-2026/cards-0010.md#paper-150750)
+- [RRL-HOI: Reflective Reinforcement Learning for Open-Vocabulary HOI Detection](../conferences/neurips-2026/cards-0010.md#paper-156124)
+- [RSPO: Reasoning-Supervised Policy Optimization for Long-Tail Autonomous Driving](../conferences/neurips-2026/cards-0010.md#paper-153743)
+- [Rubric-Align: Safety Alignment through Dynamically Co-Evolving Rubrics](../conferences/neurips-2026/cards-0010.md#paper-154753)
+- [S2T-RLHF: Hierarchical Credit Assignment for Stable Preference-Based RLHF](../conferences/neurips-2026/cards-0010.md#paper-149219)
+- [Safe Active Learning with Future Viability Guarantees in Time-Series Models](../conferences/neurips-2026/cards-0010.md#paper-155479)
+- [Safe-Fair MACPO: Burden-Fair Constrained Policy Optimization for Safe Multi-Agent Reinforcement  Learning](../conferences/neurips-2026/cards-0010.md#paper-151944)
+- [Safe Offline Reinforcement Learning using Behavior Regularisation and Latent Feasibility-Guidance](../conferences/neurips-2026/cards-0010.md#paper-155682)
+- [Safe Score Matching: Diffusion Policies with Hamilton-Jacobi Reachability for Online Safe Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-148840)
+- [SAFTAC: Simulation-Augmented Fine-Tuning of Open-Source LLMs for Analog Circuit Design](../conferences/neurips-2026/cards-0010.md#paper-155090)
+- [SALT: When More Rollouts Don’t Help in Group-Based Policy Optimization and How to Make Them Matter](../conferences/neurips-2026/cards-0010.md#paper-153988)
+- [Sampling-Based Safe Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149799)
+- [SAMPPO: Structure-Aware Mirror Proximal Policy Optimization](../conferences/neurips-2026/cards-0010.md#paper-151806)
+- [SAPO: Step-Level Skill-Augmented Policy Optimization for Multi-Turn LLM Agents](../conferences/neurips-2026/cards-0010.md#paper-149959)
 
 <!-- conference-classification:end -->

@@ -744,5 +744,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Robust Latent Space Bayesian Optimization with Marginalized Kernel](../../conferences/neurips-2026/cards-0010.md#paper-150781)
 - [Robust Satisficing Ensemble: Scalable Model Aggregation Under Distribution Shifts](../../conferences/neurips-2026/cards-0010.md#paper-149478)
 - [ROCKET: Rapid Optimization via Calibration-guided Knapsack-Enhanced Truncation for Efficient Model Compression](../../conferences/neurips-2026/cards-0010.md#paper-154690)
+- [RubiConv - Efficient Boundary-Respecting Convolutions](../../conferences/neurips-2026/cards-0010.md#paper-150280)
+- [SAG-Sep: Sparse Augmented Graphs and Onion-Guided Search for Rounded Capacity Cut Separation](../../conferences/neurips-2026/cards-0010.md#paper-148394)
+- [SamaDICE: Safe Multi-Agent Reinforcement Learning with Stationary Distribution Correction Estimation](../../conferences/neurips-2026/cards-0010.md#paper-150278)
 
 <!-- conference-classification:end -->

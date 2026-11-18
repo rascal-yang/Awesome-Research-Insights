@@ -1120,5 +1120,6 @@
 - [Robust Conditional Conformal Prediction via Branched Normalizing Flow](../conferences/neurips-2026/cards-0010.md#paper-149585)
 - [Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation](../conferences/neurips-2026/cards-0010.md#paper-153543)
 - [RoPE Is Not a Proper Relative Position Embedding](../conferences/neurips-2026/cards-0010.md#paper-140089)
+- [Saddle-to-Saddle Dynamics in Self-Supervised Shortcut Learning](../conferences/neurips-2026/cards-0010.md#paper-150687)
 
 <!-- conference-classification:end -->

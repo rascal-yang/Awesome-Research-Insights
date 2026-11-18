@@ -874,5 +874,11 @@ Training schedules, curricula, and task or stage composition.
 - [Robust Domain Generalization under Divergent Marginal and Conditional Distributions](../../conferences/neurips-2026/cards-0010.md#paper-154718)
 - [Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime](../../conferences/neurips-2026/cards-0010.md#paper-155471)
 - [ROLLVERIFY: BRIDGING EFFICIENCY AND ACCURACY IN LONG-TAIL ROLLOUT REINFORCEMENT LEARNING](../../conferences/neurips-2026/cards-0010.md#paper-154033)
+- [SAFE-DRIFT: Data Selection for Supervised Fine-tuning with Controllable Off-Target Drifts](../../conferences/neurips-2026/cards-0010.md#paper-151214)
+- [Safeguarding Mutual Correction in Source-Free Domain Adaptation via Cut Statistics](../../conferences/neurips-2026/cards-0010.md#paper-153109)
+- [SaMA:  Morpho Adaptation via Asymmetric Expansion of Kronecker Product](../../conferences/neurips-2026/cards-0010.md#paper-153753)
+- [SAVE: Sparsity-Aware Influence Estimation for Vocabulary-Expanded LLMs](../../conferences/neurips-2026/cards-0010.md#paper-152408)
+- [Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video](../../conferences/neurips-2026/cards-0010.md#paper-149509)
+- [Scalable Fair Learning via Cramér-von Mises Regularization](../../conferences/neurips-2026/cards-0010.md#paper-155653)
 
 <!-- conference-classification:end -->

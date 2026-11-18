@@ -1152,5 +1152,13 @@
 - [Robust Graph Diffusion Model](../../conferences/neurips-2026/cards-0010.md#paper-148741)
 - [RoSA: Rotational Sparse Adaptation for Memory-Efficient Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-152759)
 - [Route-Consistent Adaptation for Stable Quantization of Mixture-of-Experts Models with Theoretical Guarantees](../../conferences/neurips-2026/cards-0010.md#paper-149368)
+- [RPC-GS: Gaussian Splatting with native RPC Rendering for Satellite Imagery](../../conferences/neurips-2026/cards-0010.md#paper-155918)
+- [RPP: A Certified Poisoned-Sample Detection Framework for Backdoor Attacks under Dataset Imbalance](../../conferences/neurips-2026/cards-0010.md#paper-156750)
+- [RSPReg: Reliability-aware Structural Prototype Learning for Point Cloud Registration](../../conferences/neurips-2026/cards-0010.md#paper-152998)
+- [Rubato: Signature Attention for Irregular Multivariate Time Series Forecasting](../../conferences/neurips-2026/cards-0010.md#paper-153092)
+- [Runtime Monitoring of Perception-Based Autonomous Systems via Embedding Temporal Logic](../../conferences/neurips-2026/cards-0010.md#paper-153720)
+- [Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails](../../conferences/neurips-2026/cards-0010.md#paper-149672)
+- [SARA: Step-Adaptive Rank Adjustment for Diffusion Inference Acceleration](../../conferences/neurips-2026/cards-0010.md#paper-151173)
+- [SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](../../conferences/neurips-2026/cards-0010.md#paper-151940)
 
 <!-- conference-classification:end -->

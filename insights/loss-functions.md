@@ -392,5 +392,6 @@
 - [R-GRec: Relation-Guided Generative Recommendation via Collaborative Graph Supervision](../conferences/neurips-2026/cards-0010.md#paper-155169)
 - [Robust-by-Design Distributional Learning from Contaminated Samples](../conferences/neurips-2026/cards-0010.md#paper-154903)
 - [Robust Diffusion Models via Divergence-Induced Weighted Denoising](../conferences/neurips-2026/cards-0010.md#paper-152633)
+- [RVLoss: Runoff Vote Loss for Self-Supervised LiDAR Scene Flow Estimation](../conferences/neurips-2026/cards-0010.md#paper-152605)
 
 <!-- conference-classification:end -->

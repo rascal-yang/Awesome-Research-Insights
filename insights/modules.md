@@ -436,5 +436,7 @@
 - [Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection](../conferences/neurips-2026/cards-0010.md#paper-151927)
 - [RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory](../conferences/neurips-2026/cards-0010.md#paper-152090)
 - [Robust Hopfield Decision Transformer](../conferences/neurips-2026/cards-0010.md#paper-155374)
+- [RSSA: Robust Semantic and Spatial Aligner for Collaborative Perception](../conferences/neurips-2026/cards-0010.md#paper-149417)
+- [S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields](../conferences/neurips-2026/cards-0010.md#paper-148986)
 
 <!-- conference-classification:end -->

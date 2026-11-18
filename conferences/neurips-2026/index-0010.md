@@ -433,3 +433,78 @@
 | 大语言模型 | 评测与诊断 | [Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection](cards-0010.md#paper-139509) | 模型路由前测可路由空间和平局 |
 | 大语言模型 | 效率与系统 | [Route-Consistent Adaptation for Stable Quantization of Mixture-of-Experts Models with Theoretical Guarantees](cards-0010.md#paper-149368) | 量化 MoE 同时验收路由一致性 |
 | 大语言模型 | 模型与架构 | [Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts](cards-0010.md#paper-148374) | MoE 可用专家输入质心作路由对照 |
+| 计算机视觉 | 三维视觉 | [RPC-GS: Gaussian Splatting with native RPC Rendering for Satellite Imagery](cards-0010.md#paper-155918) | 卫星 3DGS 尽量保留原传感器投影。 |
+| 模型效率与系统 | 量化 | [RPFQ-ViT: Rotated Phase-Frame Quantization for Extremely Low-Bit Weights in Vision Transformers](cards-0010.md#paper-151887) | 极低位 ViT 按通道对保方向后恢复幅值。 |
+| 深度学习 | 模型鲁棒性 | [RPP: A Certified Poisoned-Sample Detection Framework for Backdoor Attacks under Dataset Imbalance](cards-0010.md#paper-156750) | 训练防御按类分布做认证检测验证。 |
+| 多模态学习 | 强化学习 | [RRL-HOI: Reflective Reinforcement Learning for Open-Vocabulary HOI Detection](cards-0010.md#paper-156124) | 交互检测把反思输出做成可执行结构编辑。 |
+| 具身智能与机器人 | 偏好优化 | [RSPO: Reasoning-Supervised Policy Optimization for Long-Tail Autonomous Driving](cards-0010.md#paper-153743) | 长尾规划监督核对解释和决策一致性。 |
+| 计算机视觉 | 三维视觉 | [RSPReg: Reliability-aware Structural Prototype Learning for Point Cloud Registration](cards-0010.md#paper-152998) | 点云注册按原型置信减轻不重叠部分。 |
+| 模型效率与系统 | 量化 | [RSQ: Learning from Important Tokens Leads to Better Quantized LLMs](cards-0010.md#paper-156792) | GPTQ 校准按 token 重要性加权。 |
+| 多模态学习 | 多模态融合 | [RSSA: Robust Semantic and Spatial Aligner for Collaborative Perception](cards-0010.md#paper-149417) | 协作感知将相对位姿噪声明确写进对齐。 |
+| 智能体与工具使用 | 评测与诊断 | [RTCBench: Evaluating Tool Use of Large Language Models Beyond Oracle Access](cards-0010.md#paper-139584) | 工具测试分开测发现和近义工具调用。 |
+| 大语言模型 | 评测与诊断 | [RTEB: An Overfitting-Resistant Benchmark for Embedding Model Evaluation](cards-0010.md#paper-139103) | 选工具型 RAG 嵌入时单测代理代码检索。 |
+| 深度学习 | 时序建模 | [Rubato: Signature Attention for Irregular Multivariate Time Series Forecasting](cards-0010.md#paper-153092) | 异步多变量预测保留原始采样路径。 |
+| 多模态学习 | 结构化生成 | [Rubato: Transcribing Piano Music with Timestamps](cards-0010.md#paper-149838) | 级联低质时以黄金中间态测表示瓶颈。 |
+| 模型效率与系统 | 优化算法 | [RubiConv - Efficient Boundary-Respecting Convolutions](cards-0010.md#paper-150280) | 长卷积吞吐要在文档打包输入上实测。 |
+| 大语言模型 | 奖励设计 | [Rubric-Align: Safety Alignment through Dynamically Co-Evolving Rubrics](cards-0010.md#paper-154753) | 安全对齐用可修订自然语言审查项。 |
+| 多模态学习 | 评测与诊断 | [RUBRIC-MME: Real-User Behavior-grounded Rubric for Multimodal Interaction Capability Evaluation](cards-0010.md#paper-139334) | 多轮多模态评估按真实交互分布采样。 |
+| 智能体与工具使用 | 搜索与规划 | [RuleSmith: Multi-Agent LLMs for Automated Game Balancing](cards-0010.md#paper-154107) | 仿真规则优化按改进潜力分配对局。 |
+| 具身智能与机器人 | 模型鲁棒性 | [Runtime Monitoring of Perception-Based Autonomous Systems via Embedding Temporal Logic](cards-0010.md#paper-153720) | 在嵌入空间对自主系统做有界时序监测。 |
+| 大语言模型 | 评测与诊断 | [Runtime Verification of Multiple Natural Language Criteria for Agent Governance](cards-0010.md#paper-154715) | 将多个自然语言规范作为独立分类任务一次并行验证。 |
+| 大语言模型 | 评测与诊断 | [RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities](cards-0010.md#paper-139253) | 代码安全审阅将检测和定位分开验证，并测试语义等价版本的一致性。 |
+| 机器人学 | 损失函数 | [RVLoss: Runoff Vote Loss for Self-Supervised LiDAR Scene Flow Estimation](cards-0010.md#paper-152605) | 自监督点云场流用实例内多个主导运动候选提供刚性约束。 |
+| 大语言模型 | 推理策略 | [RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering](cards-0010.md#paper-154429) | 多答案检索中把已验证文档反馈给下轮检索以填补遗漏。 |
+| 科学机器学习 | 模型架构 | [RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](cards-0010.md#paper-149820) | 复用静态物理几何，只将不同观测者信息作为渲染条件。 |
+| 计算机视觉 | 模块 | [S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields](cards-0010.md#paper-148986) | 需要严格无相交时，在隐式对象表示上直接强制可行性。 |
+| 机器学习基础与统计 | 模型架构 | [S²MoE: Shared-Subspace Mixture of Sparse Experts](cards-0010.md#paper-152479) | 合并模型时保留共享子空间，并让专家补回截断方向。 |
+| 大语言模型 | 强化学习方法 | [S2T-RLHF: Hierarchical Credit Assignment for Stable Preference-Based RLHF](cards-0010.md#paper-149219) | 偏好标签不确定时按句分配，再以有界 token 级修正细化。 |
+| 图学习 | 模型架构 | [S3Former: Sequential, Structural, and Statistical Fusion for Continuous-Time Dynamic Graphs](cards-0010.md#paper-155501) | 连续时间链接预测显式维护候选节点对的拓扑与交互统计。 |
+| 大语言模型 | 评测与诊断 | [SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?](cards-0010.md#paper-138995) | 长程跨应用代理测评同时验证最终状态与中间里程碑。 |
+| 大语言模型 | 评测与诊断 | [SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering](cards-0010.md#paper-139112) | 复杂工程代理先验证基础环境搭建，再衡量业务逻辑。 |
+| 机器学习基础与统计 | 理论与统计 | [Saddle-to-Saddle Dynamics in Self-Supervised Shortcut Learning](cards-0010.md#paper-150687) | 检查无监督模型先学到的特征是否由有效信号幅值和范围决定。 |
+| 大语言模型 | 评测与诊断 | [Safe Actions Can Form Unsafe Traces: Benchmarking and Shielding Compositional Emergent Risk in AI Agents](cards-0010.md#paper-153882) | 长程代理的安全门应维护跨步骤风险状态，不宜只评估孤立动作。 |
+| 具身智能与机器人 | 强化学习与奖励 | [Safe Active Learning with Future Viability Guarantees in Time-Series Models](cards-0010.md#paper-155479) | 安全实验选点要保留未来可行性 |
+| 大语言模型 | 训练与优化 | [SAFE-DRIFT: Data Selection for Supervised Fine-tuning with Controllable Off-Target Drifts](cards-0010.md#paper-151214) | 候选 SFT 样本同时按目标收益和旁路漂移取舍 |
+| 强化学习与决策 | 强化学习与奖励 | [Safe-Fair MACPO: Burden-Fair Constrained Policy Optimization for Safe Multi-Agent Reinforcement  Learning](cards-0010.md#paper-151944) | 多智能体优化在硬安全约束下单测负担分配 |
+| 视觉与多模态 | 训练与优化 | [Safeguarding Mutual Correction in Source-Free Domain Adaptation via Cut Statistics](cards-0010.md#paper-153109) | 无源适配用局部可靠性门控伪标签互纠 |
+| 强化学习与决策 | 强化学习与奖励 | [Safe Offline Reinforcement Learning using Behavior Regularisation and Latent Feasibility-Guidance](cards-0010.md#paper-155682) | 离线约束控制把行为接近与潜空间可行性分开 |
+| 智能体 | 评测与诊断 | [Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents](cards-0010.md#paper-139084) | 手机助手安全回归把无害的不可执行单独计数 |
+| 具身智能与机器人 | 强化学习与奖励 | [Safe Score Matching: Diffusion Policies with Hamilton-Jacobi Reachability for Online Safe Reinforcement Learning](cards-0010.md#paper-148840) | 约束扩散控制在可行域内外切换目标 |
+| 大语言模型 | 模型鲁棒性 | [Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails](cards-0010.md#paper-149672) | 审核标签可对比整段证据的重建似然。 |
+| 智能体与工具使用 | 强化学习 | [SAFTAC: Simulation-Augmented Fine-Tuning of Open-Source LLMs for Analog Circuit Design](cards-0010.md#paper-155090) | 工具反馈用来训练设计和修订，而非只做推理期修复。 |
+| 具身智能与机器人 | 搜索与规划 | [SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning](cards-0010.md#paper-152343) | 离线时序逻辑任务在轨迹片段图上拼接。 |
+| 大语言模型 | 搜索与规划 | [SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance](cards-0010.md#paper-151519) | 长推理树先加可容许性提示再探索。 |
+| 大语言模型 | 评测与诊断 | [SAGE: Scalable Automated Robustness Augmentation for LLM Knowledge Evaluation](cards-0010.md#paper-150164) | 知识稳健评测训练小验收器指导同义变体生成。 |
+| 模型效率与系统 | 调度 | [SageSched: Efficient LLM Scheduling Confronting Demand Uncertainty and Hybridity](cards-0010.md#paper-153513) | 混合请求调度根据输出长度分布而非点预测。 |
+| 计算机视觉 | 表征学习 | [SAGE: Semantic-Agnostic Image Embedding for Generalized AI-Generated Image Detection](cards-0010.md#paper-149194) | 图像归因检测以同语义真伪对减少捷径。 |
+| 多模态学习 | 表征学习 | [SAGE: Semantically Disentangled Representation Learning through Latent Geometry Constraint and Large Language Model](cards-0010.md#paper-151158) | 可控潜空间为人可感知因素绑定坐标。 |
+| 大语言模型 | 检索增强 | [SAGE: Semantic Ambiguity Guided Capacity Expansion for Retrieval-Augmented Generation](cards-0010.md#paper-150303) | 仅给不可区分的局部语料扩排序容量。 |
+| 深度学习 | 优化算法 | [SAG-Sep: Sparse Augmented Graphs and Onion-Guided Search for Rounded Capacity Cut Separation](cards-0010.md#paper-148394) | 神经割平面一次评分多个约束等级。 |
+| 模型效率与系统 | 调度 | [SAIR: Cost-Efficient Multi-Stage ML Pipeline Autoscaling via In-Context Reinforcement Learning](cards-0010.md#paper-155120) | 多阶段推理无离线数据时用上下文经验控制。 |
+| 多模态学习 | 评测与诊断 | [SALART-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images](cards-0010.md#paper-139139) | 生成视觉瑕疵检测要验定位和证据，含无瑕参考。 |
+| 多模态学习 | 采样与推理 | [Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents](cards-0010.md#paper-150336) | 视觉代理按实际图像证据筛多路高层指令。 |
+| 大语言模型 | 强化学习 | [SALT: When More Rollouts Don’t Help in Group-Based Policy Optimization and How to Make Them Matter](cards-0010.md#paper-153988) | 增 rollout 前先测组梯度是否互相抵消。 |
+| 模型效率与系统 | 推理加速 | [Salvation Lies Within: Proactive Prefix Re-forming for LLM-based Tagging](cards-0010.md#paper-152865) | 标签输入如顺序不敏感，可重排增共享前缀。 |
+| 强化学习 | 约束优化 | [SamaDICE: Safe Multi-Agent Reinforcement Learning with Stationary Distribution Correction Estimation](cards-0010.md#paper-150278) | 安全离线多代理学习将全局约束势分解。 |
+| 模型效率与系统 | 参数高效微调 | [SaMA:  Morpho Adaptation via Asymmetric Expansion of Kronecker Product](cards-0010.md#paper-153753) | 需要高有效秩时比较放松共享块的 Kronecker 适配。 |
+| 多模态学习 | 可解释性 | [SAMAT: A Stereotype-Aware Multimodal Transformer for Interpretable Misogynistic Meme Detection](cards-0010.md#paper-156793) | 图文冲突分类按原型证据分别验预测和说明。 |
+| 多模态学习 | 表征学习 | [Same Concept, Different Directions: Cross-Modal Feature Heterogeneity in Sparse Autoencoders](cards-0010.md#paper-153223) | 跨模态稀疏分解先保留各模态几何，再对齐对应概念。 |
+| 大语言模型 | 推理策略 | [Same Signal, Opposite Meaning: Direction-Informed Adaptive Learning for LLM Agents](cards-0010.md#paper-152744) | 用实际追加计算的反事实收益训练每个环境和基座的推理门。 |
+| 大语言模型 | 表征学习 | [SAME: Stability-Aware Embedding Extraction in Mixture-of-Experts Language Models](cards-0010.md#paper-152895) | 从 MoE 提取嵌入时按层路由稳定性分配激活专家。 |
+| 多模态学习 | 评测与诊断 | [Same Words, Different Judgments: How Preferences Vary Across Modalities](cards-0010.md#paper-139412) | 听觉和文本偏好应分别标定标注协议与样本量。 |
+| 机器人学 | 表征学习 | [SAMoR: Motion Modelling for Articulated Objects of Any Skeleton and Topology](cards-0010.md#paper-149576) | 跨骨架动作统一到固定数量的功能部件 token。 |
+| 机器学习基础与统计 | 评测与诊断 | [Sample-Grained Approximate Unlearning with Provable Per-Sample Bounds](cards-0010.md#paper-155275) | 遗忘评测按单样本对齐有成员和无成员重训练的预测分布。 |
+| 大语言模型 | 评测与诊断 | [Sample Transform Cost-Based Training-Free Hallucination Detector for Large Language Models](cards-0010.md#paper-154259) | 多次回答的幻觉检测可比较生成 token 表示的分布距离。 |
+| 强化学习 | 强化学习方法 | [Sampling-Based Safe Reinforcement Learning](cards-0010.md#paper-149799) | 安全探索对多个可能的动力学模型联合检查约束。 |
+| 大语言模型 | 强化学习方法 | [SAMPPO: Structure-Aware Mirror Proximal Policy Optimization](cards-0010.md#paper-151806) | 在语义近义候选密集处调整策略更新信任区域。 |
+| 多模态学习 | 推理策略 | [Sandboxed Coding Agents are Competitive Omni-modal Task Solvers](cards-0010.md#paper-148209) | 对长音视频任务先用沙箱代码和工具检索证据，再让语言模型综合。 |
+| 机器学习基础与统计 | 评测与诊断 | [Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?](cards-0010.md#paper-139059) | 稀疏自编码器应加入随机方向和随机激活的解释性基线。 |
+| 智能体 | 强化学习与奖励 | [SAPO: Step-Level Skill-Augmented Policy Optimization for Multi-Turn LLM Agents](cards-0010.md#paper-149959) | 工具技能库与策略梯度分别更新 |
+| 视觉与多模态 | 效率与系统 | [SARA: Step-Adaptive Rank Adjustment for Diffusion Inference Acceleration](cards-0010.md#paper-151173) | 扩散低秩近似按采样步选秩 |
+| 大语言模型 | 模型与架构 | [SASA: Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](cards-0010.md#paper-151251) | 稀疏自编码器用特征子空间减轻特征拆分 |
+| 大语言模型 | 效率与系统 | [SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking](cards-0010.md#paper-151940) | 注意稀疏化训练相对上下文优先级 |
+| 大语言模型 | 训练与优化 | [SAVE: Sparsity-Aware Influence Estimation for Vocabulary-Expanded LLMs](cards-0010.md#paper-152408) | 词表添加后的修复数据按新词行更新选择 |
+| 具身智能与机器人 | 评测与诊断 | [Say the Same, Act Differently: Text-Orthogonal Action Subspaces in Reasoning Vision-Language-Action Models](cards-0010.md#paper-154708) | 推理 VLA 监测必须独立核对动作输出 |
+| 视觉与多模态 | 模型与架构 | [Scaffold3D: SfM-Conditioned Pointmap Prediction for Multi-View 3D Reconstruction](cards-0010.md#paper-148928) | 低重叠重建把 SfM 骨架作为点图预测条件 |
+| 视觉与多模态 | 训练与优化 | [Scalable Adaptation of 3D Geometric Foundation Models via Weak Supervision from Internet Video](cards-0010.md#paper-149509) | 互联网视频弱监督适配几何骨干时保留锚数据 |
+| 机器学习基础与统计 | 训练与优化 | [Scalable Fair Learning via Cramér-von Mises Regularization](cards-0010.md#paper-155653) | 统计公平正则对整分布依赖建模 |

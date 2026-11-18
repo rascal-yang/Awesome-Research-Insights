@@ -550,5 +550,10 @@
 - [RoSeViT: Role-Separated Vision Transformers for ARC Visual Reasoning](../conferences/neurips-2026/cards-0010.md#paper-153254)
 - [RotVLA: Rotational Latent Action for Vision-Language-Action Model](../conferences/neurips-2026/cards-0010.md#paper-152079)
 - [Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts](../conferences/neurips-2026/cards-0010.md#paper-148374)
+- [RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](../conferences/neurips-2026/cards-0010.md#paper-149820)
+- [S²MoE: Shared-Subspace Mixture of Sparse Experts](../conferences/neurips-2026/cards-0010.md#paper-152479)
+- [S3Former: Sequential, Structural, and Statistical Fusion for Continuous-Time Dynamic Graphs](../conferences/neurips-2026/cards-0010.md#paper-155501)
+- [SASA: Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability](../conferences/neurips-2026/cards-0010.md#paper-151251)
+- [Scaffold3D: SfM-Conditioned Pointmap Prediction for Multi-View 3D Reconstruction](../conferences/neurips-2026/cards-0010.md#paper-148928)
 
 <!-- conference-classification:end -->

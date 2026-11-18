@@ -836,5 +836,13 @@
 - [Robust Task-Aware State Estimation from Pre-trained Perception](../conferences/neurips-2026/cards-0010.md#paper-151606)
 - [ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-151797)
 - [RotVLA: Rotational Latent Action for Vision-Language-Action Model](../conferences/neurips-2026/cards-0010.md#paper-152079)
+- [RSPO: Reasoning-Supervised Policy Optimization for Long-Tail Autonomous Driving](../conferences/neurips-2026/cards-0010.md#paper-153743)
+- [Runtime Monitoring of Perception-Based Autonomous Systems via Embedding Temporal Logic](../conferences/neurips-2026/cards-0010.md#paper-153720)
+- [RVLoss: Runoff Vote Loss for Self-Supervised LiDAR Scene Flow Estimation](../conferences/neurips-2026/cards-0010.md#paper-152605)
+- [Safe Active Learning with Future Viability Guarantees in Time-Series Models](../conferences/neurips-2026/cards-0010.md#paper-155479)
+- [Safe Score Matching: Diffusion Policies with Hamilton-Jacobi Reachability for Online Safe Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-148840)
+- [SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning](../conferences/neurips-2026/cards-0010.md#paper-152343)
+- [SAMoR: Motion Modelling for Articulated Objects of Any Skeleton and Topology](../conferences/neurips-2026/cards-0010.md#paper-149576)
+- [Say the Same, Act Differently: Text-Orthogonal Action Subspaces in Reasoning Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-154708)
 
 <!-- conference-classification:end -->

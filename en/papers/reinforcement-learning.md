@@ -675,5 +675,9 @@ Learning from interaction, feedback, and offline experience.
 - [Robust Hopfield Decision Transformer](../../conferences/neurips-2026/cards-0010.md#paper-155374)
 - [Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-148746)
 - [Robust Offline Reinforcement Learning against Out-of-Distribution Dynamics in Autonomous Driving](../../conferences/neurips-2026/cards-0010.md#paper-148793)
+- [Safe-Fair MACPO: Burden-Fair Constrained Policy Optimization for Safe Multi-Agent Reinforcement  Learning](../../conferences/neurips-2026/cards-0010.md#paper-151944)
+- [Safe Offline Reinforcement Learning using Behavior Regularisation and Latent Feasibility-Guidance](../../conferences/neurips-2026/cards-0010.md#paper-155682)
+- [SamaDICE: Safe Multi-Agent Reinforcement Learning with Stationary Distribution Correction Estimation](../../conferences/neurips-2026/cards-0010.md#paper-150278)
+- [Sampling-Based Safe Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149799)
 
 <!-- conference-classification:end -->

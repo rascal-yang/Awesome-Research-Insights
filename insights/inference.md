@@ -1343,5 +1343,18 @@
 - [Robust Residual Correction via Selective Deployment for Time Series Forecasting](../conferences/neurips-2026/cards-0010.md#paper-154644)
 - [Robust Task-Aware State Estimation from Pre-trained Perception](../conferences/neurips-2026/cards-0010.md#paper-151606)
 - [Root-Selecting Fixed-Point Inversion for Rectified Flows via Trajectory Straightness](../conferences/neurips-2026/cards-0010.md#paper-151948)
+- [RPFQ-ViT: Rotated Phase-Frame Quantization for Extremely Low-Bit Weights in Vision Transformers](../conferences/neurips-2026/cards-0010.md#paper-151887)
+- [RSQ: Learning from Important Tokens Leads to Better Quantized LLMs](../conferences/neurips-2026/cards-0010.md#paper-156792)
+- [Rubato: Transcribing Piano Music with Timestamps](../conferences/neurips-2026/cards-0010.md#paper-149838)
+- [RuleSmith: Multi-Agent LLMs for Automated Game Balancing](../conferences/neurips-2026/cards-0010.md#paper-154107)
+- [RVR: Retrieve-Verify-Retrieve for Comprehensive Question Answering](../conferences/neurips-2026/cards-0010.md#paper-154429)
+- [SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning](../conferences/neurips-2026/cards-0010.md#paper-152343)
+- [SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance](../conferences/neurips-2026/cards-0010.md#paper-151519)
+- [SageSched: Efficient LLM Scheduling Confronting Demand Uncertainty and Hybridity](../conferences/neurips-2026/cards-0010.md#paper-153513)
+- [SAIR: Cost-Efficient Multi-Stage ML Pipeline Autoscaling via In-Context Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-155120)
+- [Saliency-Aware Multi-Route Thinking: Grounding and Reasoning on Vision-Language Agents](../conferences/neurips-2026/cards-0010.md#paper-150336)
+- [Salvation Lies Within: Proactive Prefix Re-forming for LLM-based Tagging](../conferences/neurips-2026/cards-0010.md#paper-152865)
+- [Same Signal, Opposite Meaning: Direction-Informed Adaptive Learning for LLM Agents](../conferences/neurips-2026/cards-0010.md#paper-152744)
+- [Sandboxed Coding Agents are Competitive Omni-modal Task Solvers](../conferences/neurips-2026/cards-0010.md#paper-148209)
 
 <!-- conference-classification:end -->

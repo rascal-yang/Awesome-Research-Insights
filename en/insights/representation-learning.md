@@ -591,5 +591,10 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [RiSE: Residual Subspace Expert for Generalizable Text-Centric Image Forgery Localization](../../conferences/neurips-2026/cards-0010.md#paper-153544)
 - [Robust Multi-view Clustering against Imperfect Information](../../conferences/neurips-2026/cards-0010.md#paper-156004)
 - [ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models](../../conferences/neurips-2026/cards-0010.md#paper-151797)
+- [SAGE: Semantic-Agnostic Image Embedding for Generalized AI-Generated Image Detection](../../conferences/neurips-2026/cards-0010.md#paper-149194)
+- [SAGE: Semantically Disentangled Representation Learning through Latent Geometry Constraint and Large Language Model](../../conferences/neurips-2026/cards-0010.md#paper-151158)
+- [Same Concept, Different Directions: Cross-Modal Feature Heterogeneity in Sparse Autoencoders](../../conferences/neurips-2026/cards-0010.md#paper-153223)
+- [SAME: Stability-Aware Embedding Extraction in Mixture-of-Experts Language Models](../../conferences/neurips-2026/cards-0010.md#paper-152895)
+- [SAMoR: Motion Modelling for Articulated Objects of Any Skeleton and Topology](../../conferences/neurips-2026/cards-0010.md#paper-149576)
 
 <!-- conference-classification:end -->

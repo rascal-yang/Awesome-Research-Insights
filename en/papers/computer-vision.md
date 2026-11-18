@@ -1112,5 +1112,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [RigRecon: Efficient Rig-Aware Street Reconstruction via Dual-Path Spatio-Temporal Interaction](../../conferences/neurips-2026/cards-0010.md#paper-152889)
 - [RiSE: Residual Subspace Expert for Generalizable Text-Centric Image Forgery Localization](../../conferences/neurips-2026/cards-0010.md#paper-153544)
 - [RISE-Video: Can Video Generators Decode Implicit World Rules?](../../conferences/neurips-2026/cards-0010.md#paper-139505)
+- [RPC-GS: Gaussian Splatting with native RPC Rendering for Satellite Imagery](../../conferences/neurips-2026/cards-0010.md#paper-155918)
+- [RSPReg: Reliability-aware Structural Prototype Learning for Point Cloud Registration](../../conferences/neurips-2026/cards-0010.md#paper-152998)
+- [S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields](../../conferences/neurips-2026/cards-0010.md#paper-148986)
+- [SAGE: Semantic-Agnostic Image Embedding for Generalized AI-Generated Image Detection](../../conferences/neurips-2026/cards-0010.md#paper-149194)
 
 <!-- conference-classification:end -->
