@@ -49,14 +49,14 @@ number	openreview_id	title	paper_url	reason	status
 48	XnIdgAtBX7	Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead	https://openreview.net/forum?id=XnIdgAtBX7	用跨域一致的未来表征监督策略	included
 49	IjnCc1OZnJ	Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models	https://openreview.net/forum?id=IjnCc1OZnJ	用任务条件掩码暴露并压低无关视觉证据	included
 50	rYkaehgzzO	See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs	https://openreview.net/forum?id=rYkaehgzzO	保留全局目标，另给执行器局部指令和显式视觉预算	included
-51	oKJnHTluoA	MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model	https://openreview.net/forum?id=oKJnHTluoA		pending
+51	oKJnHTluoA	MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model	https://openreview.net/forum?id=oKJnHTluoA	以连续轨迹场表示历史而非独立堆叠帧	included
 52	U620dzd51N	Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies	https://openreview.net/forum?id=U620dzd51N	用离散本体状态和指令在主干计算前筛选视觉片段	included
 53	rcE4amkjBq	GeoProp: Grounding Robot State in Vision for Generalist Manipulation	https://openreview.net/forum?id=rcE4amkjBq	用运动学投影把本体状态对准同位置的视觉特征	included
 54	1uKIsrjCvt	Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies	https://openreview.net/forum?id=1uKIsrjCvt	用当前本体状态在 CNN 中间特征上选择性汇聚	included
 55	Afq9dTKP09	Attention from Action, for Action: Emergent Visual Bottlenecks for Policy Learning	https://openreview.net/forum?id=Afq9dTKP09	用动作监督学习随任务进度变化的感兴趣区域	included
 56	PEWWDUL10X	OmniGuide: Universal Spatial Guidance Fields for Enhancing Generalist Robot Policies	https://openreview.net/forum?id=PEWWDUL10X		pending
-57	wKRawikMuG	Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models	https://openreview.net/forum?id=wKRawikMuG		pending
-58	0HnCTHL4fw	Towards Human-like Physical Intelligence: Lifelong Vision-Language-Action Learning for Robotic Manipulation	https://openreview.net/forum?id=0HnCTHL4fw		pending
+57	wKRawikMuG	Modular Sensory Stream for Integrating Physical Feedback in Vision-Language-Action Models	https://openreview.net/forum?id=wKRawikMuG	为力觉、触觉与力矩建立独立传感流并预测未来反馈	included
+58	0HnCTHL4fw	Towards Human-like Physical Intelligence: Lifelong Vision-Language-Action Learning for Robotic Manipulation	https://openreview.net/forum?id=0HnCTHL4fw	分开短期适配和长期巩固并限制回放存储	included
 59	0PThTAIwPD	Trust-Calibrated VLA Policy Post-Training with Evolving Imagination	https://openreview.net/forum?id=0PThTAIwPD		pending
 60	n31eEof0k3	Long-Horizon Manipulation via Trace-Conditioned VLA Planning	https://openreview.net/forum?id=n31eEof0k3		pending
 61	aPppmSJzb5	TRACE: Trajectory-Routed Causal Memory for Delayed-Evidence Visuomotor Imitation	https://openreview.net/forum?id=aPppmSJzb5		pending
