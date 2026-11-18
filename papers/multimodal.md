@@ -126,6 +126,7 @@
 - <a id="xing26g-loss-functions"></a>[Native Active Perception as Reasoning for Omni-Modal Understanding](../conferences/icml-2026/cards/5101-5200.md#paper-xing26g)
 - <a id="xu26aw-loss-functions"></a>[Semantic-Enriched Latent Visual Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26aw)
 - <a id="xu26cc-loss-functions"></a>[Towards One-to-Many Temporal Grounding](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cc)
+- <a id="yang26cw-loss-functions"></a>[SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cw)
 
 <a id="by-optimization"></a>
 
@@ -267,6 +268,7 @@
 - <a id="wang26le-training-strategies"></a>[CoPE: Continual Probe-guided Expansion for Large Vision-Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26le)
 - <a id="wu26bx-training-strategies"></a>[The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bx)
 - <a id="yang26ae-training-strategies"></a>[MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ae)
+- <a id="yang26cv-training-strategies"></a>[SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cv)
 
 <a id="by-data-strategies"></a>
 
@@ -550,6 +552,7 @@
 - <a id="xie26f-evaluation"></a>[Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs](../conferences/icml-2026/cards/5101-5200.md#paper-xie26f)
 - <a id="xing26f-evaluation"></a>[GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models](../conferences/icml-2026/cards/5101-5200.md#paper-xing26f)
 - <a id="xu26bl-evaluation"></a>[Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bl)
+- <a id="yang26cq-evaluation"></a>[Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cq)
 
 <a id="by-theory-statistics"></a>
 

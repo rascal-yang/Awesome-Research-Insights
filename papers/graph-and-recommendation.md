@@ -57,6 +57,7 @@
 - <a id="sim26b-modules"></a>[Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis](../conferences/icml-2026/cards/4101-4200.md#paper-sim26b)
 - <a id="sun26f-modules"></a>[Enhancing LLMs for Graph Tasks via Graph-aware LoRA Generation](../conferences/icml-2026/cards/4201-4300.md#paper-sun26f)
 - <a id="yan26i-modules"></a>[MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning](../conferences/icml-2026/cards/5301-5400.md#paper-yan26i)
+- <a id="yang26cg-modules"></a>[Fast Mixture of Curvature-Aware Experts for Diverse and Dynamic Graph Topologies](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cg)
 
 <a id="by-loss-functions"></a>
 

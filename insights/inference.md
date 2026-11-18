@@ -358,6 +358,7 @@
 - [Top-p校准与head缓存物理重排](../conferences/icml-2026/cards/5401-5500.md#yang26bj-inference) · HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression
 - [历史query重权的value leverage淘汰](../conferences/icml-2026/cards/5401-5500.md#yang26bv-inference) · Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective
 - [候选后继entropy驱动的mask解码](../conferences/icml-2026/cards/5401-5500.md#yang26bx-inference) · Improving Sampling for Masked Diffusion Models via Information Gain
+- [自回归过程内的局部修订动作](../conferences/icml-2026/cards/5401-5500.md#yang26ch-inference) · Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation
 
 <a id="by-computer-vision"></a>
 

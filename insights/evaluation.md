@@ -587,6 +587,7 @@
 - [拒答表征与迁移表征的干预对照](../conferences/icml-2026/cards/5101-5200.md#xie26f-evaluation) · Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs
 - [几何感知的编码器与分辨率反例](../conferences/icml-2026/cards/5101-5200.md#xing26f-evaluation) · GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models
 - [语音入口的人耳与识别器双重评测](../conferences/icml-2026/cards/5201-5300.md#xu26bl-evaluation) · Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks
+- [固定状态下干预中间图文证据](../conferences/icml-2026/cards/5401-5500.md#yang26cq-evaluation) · Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models
 
 <a id="by-ml-foundations"></a>
 

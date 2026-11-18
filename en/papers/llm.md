@@ -117,6 +117,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wong26b-modules"></a>[A3: an Analytical Low-Rank Approximation Framework for Attention](../../conferences/icml-2026/cards/4901-5000.md#paper-wong26b)
 - <a id="xu26ae-modules"></a>[Low Kruskal-Rank Adaptation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ae)
 - <a id="yang26ah-modules"></a>[Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ah)
+- <a id="yang26cj-modules"></a>[Inner-layer Token Self-modulation as Another Scaling Axis for LLMs](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cj)
 
 <a id="by-loss-functions"></a>
 
@@ -1050,6 +1051,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26bj-inference"></a>[HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bj)
 - <a id="yang26bv-inference"></a>[Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bv)
 - <a id="yang26bx-inference"></a>[Improving Sampling for Masked Diffusion Models via Information Gain](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bx)
+- <a id="yang26ch-inference"></a>[Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ch)
 
 <a id="by-representation-learning"></a>
 
@@ -1493,4 +1495,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wu26bz-theory-statistics"></a>[A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26bz)
 - <a id="xu26ao-theory-statistics"></a>[Formalizing Learning from Language Feedback with Provable Guarantees](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ao)
 - <a id="xu26ar-theory-statistics"></a>[A Formal Comparison Between Chain of Thought and Latent Thought](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ar)
+- <a id="yang26cn-theory-statistics"></a>[Efficient Preference Poisoning Attack on Offline RLHF](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cn)
 <!-- classification:end -->

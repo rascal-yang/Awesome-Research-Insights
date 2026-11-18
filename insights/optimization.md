@@ -455,6 +455,7 @@
 - [在强凸内层复用二阶超目标信息](../conferences/icml-2026/cards/5301-5400.md#yang26au-optimization) · Second-Order Bilevel Optimization with Accelerated Convergence Rates
 - [邻域稳定度驱动的层交换到平均](../conferences/icml-2026/cards/5401-5500.md#yang26br-optimization) · DecFus: Decentralized Layer-wise Fusion with Dynamic Exploration and Exploitation
 - [sketch残差拟合的自适应矩阵迭代](../conferences/icml-2026/cards/5401-5500.md#yang26ca-optimization) · PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training
+- [压缩通信在线学习的双块gossip](../conferences/icml-2026/cards/5401-5500.md#yang26cu-optimization) · Decentralized Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower Bounds
 
 <a id="by-graph-and-recommendation"></a>
 

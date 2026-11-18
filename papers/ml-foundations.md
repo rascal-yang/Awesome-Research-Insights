@@ -463,6 +463,7 @@
 - <a id="yang26au-optimization"></a>[Second-Order Bilevel Optimization with Accelerated Convergence Rates](../conferences/icml-2026/cards/5301-5400.md#paper-yang26au)
 - <a id="yang26br-optimization"></a>[DecFus: Decentralized Layer-wise Fusion with Dynamic Exploration and Exploitation](../conferences/icml-2026/cards/5401-5500.md#paper-yang26br)
 - <a id="yang26ca-optimization"></a>[PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ca)
+- <a id="yang26cu-optimization"></a>[Decentralized Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower Bounds](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cu)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1222,4 +1223,5 @@
 - <a id="yang26c-theory-statistics"></a>[Length Generalization Bounds for Transformers](../conferences/icml-2026/cards/5301-5400.md#paper-yang26c)
 - <a id="yang26bf-theory-statistics"></a>[One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bf)
 - <a id="yang26bz-theory-statistics"></a>[Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bz)
+- <a id="yang26ce-theory-statistics"></a>[Logarithmic Switching Regret for Online Convex Optimization](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ce)
 <!-- classification:end -->

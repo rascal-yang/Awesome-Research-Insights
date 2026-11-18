@@ -116,6 +116,7 @@
 - [SIM2频谱运动残差正则](../conferences/icml-2026/cards/5301-5400.md#xue26d-loss-functions) · Physics-Guided Motion Loss for Video Generation Model
 - [用稀疏概念索引监督图像tokenizer](../conferences/icml-2026/cards/5301-5400.md#yang26as-loss-functions) · Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation
 - [抑制类固有特征以校准异常检测统计](../conferences/icml-2026/cards/5401-5500.md#yang26bc-loss-functions) · Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization
+- [按几何覆盖去重的三维风格注意力目标](../conferences/icml-2026/cards/5401-5500.md#yang26cd-loss-functions) · DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization
 
 <a id="by-nlp"></a>
 
@@ -216,6 +217,7 @@
 - [按轮熵连续重加权GRPO优势](../conferences/icml-2026/cards/5101-5200.md#xing26g-loss-functions) · Native Active Perception as Reasoning for Omni-Modal Understanding
 - [同区域多问题的潜表示一致奖励](../conferences/icml-2026/cards/5201-5300.md#xu26aw-loss-functions) · Semantic-Enriched Latent Visual Reasoning
 - [多事件定位同时奖励覆盖和计数](../conferences/icml-2026/cards/5201-5300.md#xu26cc-loss-functions) · Towards One-to-Many Temporal Grounding
+- [扩散偏好训练的时间步裁剪与屏蔽](../conferences/icml-2026/cards/5401-5500.md#yang26cw-loss-functions) · SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models
 
 <a id="by-ml-foundations"></a>
 

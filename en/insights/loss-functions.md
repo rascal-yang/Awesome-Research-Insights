@@ -116,6 +116,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Physics-Guided Motion Loss for Video Generation Model](../../conferences/icml-2026/cards/5301-5400.md#xue26d-loss-functions) · 中文
 - [Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation](../../conferences/icml-2026/cards/5301-5400.md#yang26as-loss-functions) · 中文
 - [Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization](../../conferences/icml-2026/cards/5401-5500.md#yang26bc-loss-functions) · 中文
+- [DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26cd-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -216,6 +217,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Native Active Perception as Reasoning for Omni-Modal Understanding](../../conferences/icml-2026/cards/5101-5200.md#xing26g-loss-functions) · 中文
 - [Semantic-Enriched Latent Visual Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26aw-loss-functions) · 中文
 - [Towards One-to-Many Temporal Grounding](../../conferences/icml-2026/cards/5201-5300.md#xu26cc-loss-functions) · 中文
+- [SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models](../../conferences/icml-2026/cards/5401-5500.md#yang26cw-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

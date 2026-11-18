@@ -587,6 +587,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs](../../conferences/icml-2026/cards/5101-5200.md#xie26f-evaluation) · 中文
 - [GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#xing26f-evaluation) · 中文
 - [Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks](../../conferences/icml-2026/cards/5201-5300.md#xu26bl-evaluation) · 中文
+- [Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models](../../conferences/icml-2026/cards/5401-5500.md#yang26cq-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -358,6 +358,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [HARD-KV: Head-Adaptive Regularization for Decoding-time KV Compression](../../conferences/icml-2026/cards/5401-5500.md#yang26bj-inference) · 中文
 - [Rethinking KV Cache Eviction via a Unified Information-Theoretic Objective](../../conferences/icml-2026/cards/5401-5500.md#yang26bv-inference) · 中文
 - [Improving Sampling for Masked Diffusion Models via Information Gain](../../conferences/icml-2026/cards/5401-5500.md#yang26bx-inference) · 中文
+- [Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation](../../conferences/icml-2026/cards/5401-5500.md#yang26ch-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -96,6 +96,7 @@
 - [实图离散锚点的法向残差](../conferences/icml-2026/cards/4801-4900.md#wang26it-representation-learning) · Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection
 - [在拼接LoRA子空间求回归合并](../conferences/icml-2026/cards/4901-5000.md#wei26e-representation-learning) · SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models
 - [语义表征与光度细节的选择权衡](../conferences/icml-2026/cards/5101-5200.md#xing26i-representation-learning) · Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics
+- [有界颜色通道的周期提升与反射作用](../conferences/icml-2026/cards/5401-5500.md#yang26co-representation-learning) · A Hypertoroidal Covering for Perfect Color Equivariance
 
 <a id="by-nlp"></a>
 
@@ -148,6 +149,7 @@
 - [动作条件空间世界建模](../conferences/icml-2026/cards/4201-4300.md#su26c-representation-learning) · World Guidance: World Modeling in Condition Space for Action Generation
 - [movement-aligned-sensor-tokens](../conferences/icml-2026/cards/4401-4500.md#tarale26a-representation-learning) · Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data
 - [跨episode上下文解耦域因素](../conferences/icml-2026/cards/4701-4800.md#wang26er-representation-learning) · DADP: Domain Adaptive Diffusion Policy
+- [把关节参数写入稀疏体素生成表示](../conferences/icml-2026/cards/5401-5500.md#yang26cf-representation-learning) · PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World
 
 <a id="by-multimodal"></a>
 

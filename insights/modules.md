@@ -58,6 +58,7 @@
 - [以功能对而非单矩阵压缩](../conferences/icml-2026/cards/4901-5000.md#wong26b-modules) · A3: an Analytical Low-Rank Approximation Framework for Attention
 - [Khatri-Rao结构的参数高效更新](../conferences/icml-2026/cards/5201-5300.md#xu26ae-modules) · Low Kruskal-Rank Adaptation
 - [无查表trellis计算码](../conferences/icml-2026/cards/5301-5400.md#yang26ah-modules) · Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs
+- [token索引的逐层残差调制向量](../conferences/icml-2026/cards/5401-5500.md#yang26cj-modules) · Inner-layer Token Self-modulation as Another Scaling Axis for LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -258,6 +259,7 @@
 - [在可学习图谱尺度上生成软超边](../conferences/icml-2026/cards/4101-4200.md#sim26b-modules) · Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis
 - [生成LoRA的范数参照](../conferences/icml-2026/cards/4201-4300.md#sun26f-modules) · Enhancing LLMs for Graph Tasks via Graph-aware LoRA Generation
 - [跨层关系EMA与属性结构分支](../conferences/icml-2026/cards/5301-5400.md#yan26i-modules) · MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning
+- [极坐标分解的曲率注意力计算](../conferences/icml-2026/cards/5401-5500.md#yang26cg-modules) · Fast Mixture of Curvature-Aware Experts for Diverse and Dynamic Graph Topologies
 
 <a id="by-scientific-ml"></a>
 

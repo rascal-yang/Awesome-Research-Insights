@@ -96,6 +96,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection](../../conferences/icml-2026/cards/4801-4900.md#wang26it-representation-learning) · 中文
 - [SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#wei26e-representation-learning) · 中文
 - [Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics](../../conferences/icml-2026/cards/5101-5200.md#xing26i-representation-learning) · 中文
+- [A Hypertoroidal Covering for Perfect Color Equivariance](../../conferences/icml-2026/cards/5401-5500.md#yang26co-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 
@@ -148,6 +149,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [World Guidance: World Modeling in Condition Space for Action Generation](../../conferences/icml-2026/cards/4201-4300.md#su26c-representation-learning) · 中文
 - [Bio-Inspired Self-Supervised Learning for Wrist-worn Accelerometer Data](../../conferences/icml-2026/cards/4401-4500.md#tarale26a-representation-learning) · 中文
 - [DADP: Domain Adaptive Diffusion Policy](../../conferences/icml-2026/cards/4701-4800.md#wang26er-representation-learning) · 中文
+- [PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](../../conferences/icml-2026/cards/5401-5500.md#yang26cf-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 

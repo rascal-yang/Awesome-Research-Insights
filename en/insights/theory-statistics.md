@@ -75,6 +75,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills](../../conferences/icml-2026/cards/5001-5100.md#wu26bz-theory-statistics) · 中文
 - [Formalizing Learning from Language Feedback with Provable Guarantees](../../conferences/icml-2026/cards/5201-5300.md#xu26ao-theory-statistics) · 中文
 - [A Formal Comparison Between Chain of Thought and Latent Thought](../../conferences/icml-2026/cards/5201-5300.md#xu26ar-theory-statistics) · 中文
+- [Efficient Preference Poisoning Attack on Offline RLHF](../../conferences/icml-2026/cards/5401-5500.md#yang26cn-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -622,6 +623,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Length Generalization Bounds for Transformers](../../conferences/icml-2026/cards/5301-5400.md#yang26c-theory-statistics) · 中文
 - [One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data](../../conferences/icml-2026/cards/5401-5500.md#yang26bf-theory-statistics) · 中文
 - [Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity](../../conferences/icml-2026/cards/5401-5500.md#yang26bz-theory-statistics) · 中文
+- [Logarithmic Switching Regret for Online Convex Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26ce-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

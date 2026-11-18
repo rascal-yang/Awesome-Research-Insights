@@ -58,6 +58,7 @@ Reusable components and local changes to model inputs or connections.
 - [A3: an Analytical Low-Rank Approximation Framework for Attention](../../conferences/icml-2026/cards/4901-5000.md#wong26b-modules) · 中文
 - [Low Kruskal-Rank Adaptation](../../conferences/icml-2026/cards/5201-5300.md#xu26ae-modules) · 中文
 - [Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs](../../conferences/icml-2026/cards/5301-5400.md#yang26ah-modules) · 中文
+- [Inner-layer Token Self-modulation as Another Scaling Axis for LLMs](../../conferences/icml-2026/cards/5401-5500.md#yang26cj-modules) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -258,6 +259,7 @@ Reusable components and local changes to model inputs or connections.
 - [Learning Multi-Scale Hypergraph for High-Order Brain Connectivity Analysis](../../conferences/icml-2026/cards/4101-4200.md#sim26b-modules) · 中文
 - [Enhancing LLMs for Graph Tasks via Graph-aware LoRA Generation](../../conferences/icml-2026/cards/4201-4300.md#sun26f-modules) · 中文
 - [MV-FGAD: Towards Efficient and Effective Federated Graph Anomaly Detection via Multi-view Learning](../../conferences/icml-2026/cards/5301-5400.md#yan26i-modules) · 中文
+- [Fast Mixture of Curvature-Aware Experts for Diverse and Dynamic Graph Topologies](../../conferences/icml-2026/cards/5401-5500.md#yang26cg-modules) · 中文
 
 <a id="by-scientific-ml"></a>
 

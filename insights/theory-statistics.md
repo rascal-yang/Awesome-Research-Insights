@@ -75,6 +75,7 @@
 - [有限容量防御的感知反馈博弈](../conferences/icml-2026/cards/5001-5100.md#wu26bz-theory-statistics) · A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills
 - [反馈一致假设集的探索与利用](../conferences/icml-2026/cards/5201-5300.md#xu26ao-theory-statistics) · Formalizing Learning from Language Feedback with Provable Guarantees
 - [潜在循环的并行深度与随机CoT计数](../conferences/icml-2026/cards/5201-5300.md#xu26ar-theory-statistics) · A Formal Comparison Between Chain of Thought and Latent Thought
+- [固定特征DPO的偏好污染鲁棒性证书](../conferences/icml-2026/cards/5401-5500.md#yang26cn-theory-statistics) · Efficient Preference Poisoning Attack on Offline RLHF
 
 <a id="by-computer-vision"></a>
 
@@ -622,6 +623,7 @@
 - [按精度与语法限制长度证书](../conferences/icml-2026/cards/5301-5400.md#yang26c-theory-statistics) · Length Generalization Bounds for Transformers
 - [按局部缺失特征映射作一轮分位回归聚合](../conferences/icml-2026/cards/5401-5500.md#yang26bf-theory-statistics) · One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data
 - [两次梯度的高阶Langevin离散化](../conferences/icml-2026/cards/5401-5500.md#yang26bz-theory-statistics) · Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity
+- [区间专家的二阶聚合控制切换遗憾](../conferences/icml-2026/cards/5401-5500.md#yang26ce-theory-statistics) · Logarithmic Switching Regret for Online Convex Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

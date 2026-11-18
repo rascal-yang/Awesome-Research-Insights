@@ -187,6 +187,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xue26d-loss-functions"></a>[Physics-Guided Motion Loss for Video Generation Model](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26d)
 - <a id="yang26as-loss-functions"></a>[Concept-Guided Tokenization: Closing the Gap Between Reconstruction and Generation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26as)
 - <a id="yang26bc-loss-functions"></a>[Improving the Sensitivity of Backdoor Detectors via Class Subspace Orthogonalization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bc)
+- <a id="yang26cd-loss-functions"></a>[DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cd)
 
 <a id="by-optimization"></a>
 
@@ -551,6 +552,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26it-representation-learning"></a>[Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26it)
 - <a id="wei26e-representation-learning"></a>[SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26e)
 - <a id="xing26i-representation-learning"></a>[Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26i)
+- <a id="yang26co-representation-learning"></a>[A Hypertoroidal Covering for Perfect Color Equivariance](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26co)
 
 <a id="by-evaluation"></a>
 
