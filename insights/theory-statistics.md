@@ -72,6 +72,7 @@
 - [私有偏好标签的正确似然与污染次序](../conferences/icml-2026/cards/4901-5000.md#weng26a-theory-statistics) · Improved Bounds for Private and Robust Alignment
 - [f正则最优策略的敏感度采样](../conferences/icml-2026/cards/5001-5100.md#wu26au-theory-statistics) · $f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses
 - [重复数据下联合选择稀疏率](../conferences/icml-2026/cards/5001-5100.md#wu26bl-theory-statistics) · When Data Is Scarce: Scaling Sparse Language Models with Repeated Training
+- [有限容量防御的感知反馈博弈](../conferences/icml-2026/cards/5001-5100.md#wu26bz-theory-statistics) · A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills
 
 <a id="by-computer-vision"></a>
 
@@ -601,6 +602,7 @@
 - [多环境评估的共享测试预算](../conferences/icml-2026/cards/5001-5100.md#wu26av-theory-statistics) · Certifying Capabilities from Finite Tests: When Is It Possible?
 - [用训练轨迹选择遗忘检查点](../conferences/icml-2026/cards/5001-5100.md#wu26br-theory-statistics) · Trajectory-Aware Certified Decentralized Unlearning via SGD Stability
 - [按去噪遗忘权衡停止自蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26bs-theory-statistics) · Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting
+- [谱几何约束下的教师选择](../conferences/icml-2026/cards/5001-5100.md#wu26ce-theory-statistics) · What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression
 
 <a id="by-graph-and-recommendation"></a>
 

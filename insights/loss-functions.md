@@ -59,6 +59,7 @@
 - [替换与吸收独立调度的离散纠错](../conferences/icml-2026/cards/4801-4900.md#wang26ho-loss-functions) · Generalized Discrete Diffusion with Self-Correction
 - [可靠锚点非对称正则](../conferences/icml-2026/cards/4801-4900.md#wang26ju-loss-functions) · Towards Context-Invariant Safety Alignment for Large Language Models
 - [循环中间分布的优势加权监督](../conferences/icml-2026/cards/4901-5000.md#williams26b-loss-functions) · Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models
+- [PRM学习的轨迹重要性与长度控制](../conferences/icml-2026/cards/5001-5100.md#wu26cl-loss-functions) · rePIRL: Learn PRM with Inverse RL for LLM Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -137,6 +138,7 @@
 - [持续时间排序的多尺度潜空间](../conferences/icml-2026/cards/4801-4900.md#wang26if-loss-functions) · Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning
 - [结果与过程一致性的评价器奖励](../conferences/icml-2026/cards/4801-4900.md#wang26jf-loss-functions) · RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System
 - [裁剪密度比的即时奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26ko-loss-functions) · Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control
+- [随机占优约束的分布式逆强化学习](../conferences/icml-2026/cards/5001-5100.md#wu26ch-loss-functions) · Distributional Inverse Reinforcement Learning
 
 <a id="by-robotics"></a>
 

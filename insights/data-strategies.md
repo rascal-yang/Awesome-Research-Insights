@@ -227,6 +227,7 @@
 - [目标匹配与优化器区分度联合生成](../conferences/icml-2026/cards/4701-4800.md#wang26fq-data-strategies) · Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model
 - [按来源方向几何筛选共享表示数据](../conferences/icml-2026/cards/4701-4800.md#wang26ft-data-strategies) · On the Power of Source Screening for Learning Shared Feature Extractors
 - [反演结构响应以调整训练权重](../conferences/icml-2026/cards/4701-4800.md#wang26fw-data-strategies) · Patterning: The Dual of Interpretability
+- [连续函数参数化的轨迹蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26ca-data-strategies) · CHESS: Chebyshev Spectral Synthesis for Trajectory Condensation
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -335,6 +335,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](../../conferences/icml-2026/cards/4901-5000.md#wei26r-inference) · 中文
 - [The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#wen26l-inference) · 中文
 - [KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization](../../conferences/icml-2026/cards/4901-5000.md#wiedemann26a-inference) · 中文
+- [Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation](../../conferences/icml-2026/cards/5001-5100.md#wu26cc-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -536,6 +537,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents](../../conferences/icml-2026/cards/4601-4700.md#wang26dn-inference) · 中文
 - [SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](../../conferences/icml-2026/cards/4801-4900.md#wang26jj-inference) · 中文
 - [Learning High-Frequency Continuous Action Chunks in Latent Space](../../conferences/icml-2026/cards/4901-5000.md#wang26lj-inference) · 中文
+- [Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#wu26bt-inference) · 中文
 
 <a id="by-multimodal"></a>
 

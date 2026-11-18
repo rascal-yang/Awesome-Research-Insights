@@ -188,6 +188,7 @@ Model-wide design and information flow.
 - [Factored Latent Action World Models](../../conferences/icml-2026/cards/4701-4800.md#wang26gs-architecture) · 中文
 - [Adaptive Reinforcement Learning for Unobservable Random Delays](../../conferences/icml-2026/cards/4901-5000.md#wikman26a-architecture) · 中文
 - [Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction](../../conferences/icml-2026/cards/5001-5100.md#wu26ak-architecture) · 中文
+- [Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language](../../conferences/icml-2026/cards/5001-5100.md#wu26cb-architecture) · 中文
 
 <a id="by-multimodal"></a>
 

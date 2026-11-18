@@ -135,6 +135,7 @@
 - <a id="wang26ec-modules"></a>[Crisp: A Spectral-Based Interaction Strategy for Multivariate Time Series Forecasting](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ec)
 - <a id="weitekamp26a-modules"></a>[STAND: Self-Aware Precondition Induction for Interactive Task Learning](../conferences/icml-2026/cards/4901-5000.md#paper-weitekamp26a)
 - <a id="wu26x-modules"></a>[Hyperbolic neural population geometry benefits computation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26x)
+- <a id="wu26ci-modules"></a>[LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ci)
 
 <a id="by-loss-functions"></a>
 
@@ -562,6 +563,7 @@
 - <a id="wang26fq-data-strategies"></a>[Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fq)
 - <a id="wang26ft-data-strategies"></a>[On the Power of Source Screening for Learning Shared Feature Extractors](../conferences/icml-2026/cards/4701-4800.md#paper-wang26ft)
 - <a id="wang26fw-data-strategies"></a>[Patterning: The Dual of Interpretability](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fw)
+- <a id="wu26ca-data-strategies"></a>[CHESS: Chebyshev Spectral Synthesis for Trajectory Condensation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ca)
 
 <a id="by-inference"></a>
 
@@ -1159,4 +1161,5 @@
 - <a id="wu26av-theory-statistics"></a>[Certifying Capabilities from Finite Tests: When Is It Possible?](../conferences/icml-2026/cards/5001-5100.md#paper-wu26av)
 - <a id="wu26br-theory-statistics"></a>[Trajectory-Aware Certified Decentralized Unlearning via SGD Stability](../conferences/icml-2026/cards/5001-5100.md#paper-wu26br)
 - <a id="wu26bs-theory-statistics"></a>[Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bs)
+- <a id="wu26ce-theory-statistics"></a>[What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ce)
 <!-- classification:end -->

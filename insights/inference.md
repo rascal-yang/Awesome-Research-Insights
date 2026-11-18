@@ -335,6 +335,7 @@
 - [扩散MoE冷热路由](../conferences/icml-2026/cards/4901-5000.md#wei26r-inference) · TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration
 - [算术分解探针与宽容一致性检查](../conferences/icml-2026/cards/4901-5000.md#wen26l-inference) · The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models
 - [进化转移历史指导内核搜索](../conferences/icml-2026/cards/4901-5000.md#wiedemann26a-inference) · KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization
+- [通信DAG的有符号贡献回传](../conferences/icml-2026/cards/5001-5100.md#wu26cc-inference) · Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation
 
 <a id="by-computer-vision"></a>
 
@@ -536,6 +537,7 @@
 - [hierarchical-context-pruning](../conferences/icml-2026/cards/4601-4700.md#wang26dn-inference) · DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents
 - [视觉动作模型剪枝](../conferences/icml-2026/cards/4801-4900.md#wang26jj-inference) · SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning
 - [动作空间拼块后重编码细化](../conferences/icml-2026/cards/4901-5000.md#wang26lj-inference) · Learning High-Frequency Continuous Action Chunks in Latent Space
+- [世界模型代理约束的动作跳步](../conferences/icml-2026/cards/5001-5100.md#wu26bt-inference) · Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation
 
 <a id="by-multimodal"></a>
 

@@ -343,6 +343,7 @@
 - [序贯探索产生新分配偏差](../conferences/icml-2026/cards/5001-5100.md#wu26ah-evaluation) · Large Language Models Develop Novel Social Biases Through Adaptive Exploration
 - [推理打断与中途更正规则](../conferences/icml-2026/cards/5001-5100.md#wu26ao-evaluation) · Are Large Reasoning Models Interruptible?
 - [表述翻译改善不等于表征融合](../conferences/icml-2026/cards/5001-5100.md#wu26bc-evaluation) · Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing
+- [拒答随机不稳定区的联合诊断](../conferences/icml-2026/cards/5001-5100.md#wu26bw-evaluation) · Furina: Fragmented Uncertainty-Driven Refusal Instability Attack
 
 <a id="by-computer-vision"></a>
 

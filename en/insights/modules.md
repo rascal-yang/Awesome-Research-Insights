@@ -229,6 +229,7 @@ Reusable components and local changes to model inputs or connections.
 - [Crisp: A Spectral-Based Interaction Strategy for Multivariate Time Series Forecasting](../../conferences/icml-2026/cards/4701-4800.md#wang26ec-modules) · 中文
 - [STAND: Self-Aware Precondition Induction for Interactive Task Learning](../../conferences/icml-2026/cards/4901-5000.md#weitekamp26a-modules) · 中文
 - [Hyperbolic neural population geometry benefits computation](../../conferences/icml-2026/cards/5001-5100.md#wu26x-modules) · 中文
+- [LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting](../../conferences/icml-2026/cards/5001-5100.md#wu26ci-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

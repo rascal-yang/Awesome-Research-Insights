@@ -164,6 +164,7 @@
 - <a id="wang26ho-loss-functions"></a>[Generalized Discrete Diffusion with Self-Correction](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ho)
 - <a id="wang26ju-loss-functions"></a>[Towards Context-Invariant Safety Alignment for Large Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ju)
 - <a id="williams26b-loss-functions"></a>[Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](../conferences/icml-2026/cards/4901-5000.md#paper-williams26b)
+- <a id="wu26cl-loss-functions"></a>[rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cl)
 
 <a id="by-optimization"></a>
 
@@ -990,6 +991,7 @@
 - <a id="wei26r-inference"></a>[TEAM: Temporal–Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration](../conferences/icml-2026/cards/4901-5000.md#paper-wei26r)
 - <a id="wen26l-inference"></a>[The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models](../conferences/icml-2026/cards/4901-5000.md#paper-wen26l)
 - <a id="wiedemann26a-inference"></a>[KernelFoundry: Hardware-Aware Evolutionary GPU Kernel Optimization](../conferences/icml-2026/cards/4901-5000.md#paper-wiedemann26a)
+- <a id="wu26cc-inference"></a>[Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cc)
 
 <a id="by-representation-learning"></a>
 
@@ -1347,6 +1349,7 @@
 - <a id="wu26ah-evaluation"></a>[Large Language Models Develop Novel Social Biases Through Adaptive Exploration](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ah)
 - <a id="wu26ao-evaluation"></a>[Are Large Reasoning Models Interruptible?](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ao)
 - <a id="wu26bc-evaluation"></a>[Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bc)
+- <a id="wu26bw-evaluation"></a>[Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bw)
 
 <a id="by-theory-statistics"></a>
 
@@ -1411,4 +1414,5 @@
 - <a id="weng26a-theory-statistics"></a>[Improved Bounds for Private and Robust Alignment](../conferences/icml-2026/cards/4901-5000.md#paper-weng26a)
 - <a id="wu26au-theory-statistics"></a>[$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](../conferences/icml-2026/cards/5001-5100.md#paper-wu26au)
 - <a id="wu26bl-theory-statistics"></a>[When Data Is Scarce: Scaling Sparse Language Models with Repeated Training](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bl)
+- <a id="wu26bz-theory-statistics"></a>[A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bz)
 <!-- classification:end -->

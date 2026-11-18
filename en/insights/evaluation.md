@@ -343,6 +343,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](../../conferences/icml-2026/cards/5001-5100.md#wu26ah-evaluation) · 中文
 - [Are Large Reasoning Models Interruptible?](../../conferences/icml-2026/cards/5001-5100.md#wu26ao-evaluation) · 中文
 - [Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing](../../conferences/icml-2026/cards/5001-5100.md#wu26bc-evaluation) · 中文
+- [Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](../../conferences/icml-2026/cards/5001-5100.md#wu26bw-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -188,6 +188,7 @@
 - [按独立变化学习分解潜动作](../conferences/icml-2026/cards/4701-4800.md#wang26gs-architecture) · Factored Latent Action World Models
 - [按到达延迟分支的动作包](../conferences/icml-2026/cards/4901-5000.md#wikman26a-architecture) · Adaptive Reinforcement Learning for Unobservable Random Delays
 - [历史几何与流状态的等变耦合](../conferences/icml-2026/cards/5001-5100.md#wu26ak-architecture) · Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction
+- [分离夹持力与施加力的策略接口](../conferences/icml-2026/cards/5001-5100.md#wu26cb-architecture) · Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language
 
 <a id="by-multimodal"></a>
 

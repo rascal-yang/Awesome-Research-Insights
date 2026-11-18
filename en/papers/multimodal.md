@@ -254,6 +254,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26iu-training-strategies"></a>[WorldCompass: Reinforcement Learning for Long-Horizon World Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26iu)
 - <a id="wang26kl-training-strategies"></a>[PromptRL: Prompt Matters in RL for Flow-Based Image Generation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kl)
 - <a id="wang26le-training-strategies"></a>[CoPE: Continual Probe-guided Expansion for Large Vision-Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26le)
+- <a id="wu26bx-training-strategies"></a>[The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26bx)
 
 <a id="by-data-strategies"></a>
 

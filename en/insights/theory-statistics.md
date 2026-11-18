@@ -72,6 +72,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Improved Bounds for Private and Robust Alignment](../../conferences/icml-2026/cards/4901-5000.md#weng26a-theory-statistics) · 中文
 - [$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](../../conferences/icml-2026/cards/5001-5100.md#wu26au-theory-statistics) · 中文
 - [When Data Is Scarce: Scaling Sparse Language Models with Repeated Training](../../conferences/icml-2026/cards/5001-5100.md#wu26bl-theory-statistics) · 中文
+- [A Game-Theoretic Analysis of Attacks on Large Language Models via Compositional Skills](../../conferences/icml-2026/cards/5001-5100.md#wu26bz-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -601,6 +602,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Certifying Capabilities from Finite Tests: When Is It Possible?](../../conferences/icml-2026/cards/5001-5100.md#wu26av-theory-statistics) · 中文
 - [Trajectory-Aware Certified Decentralized Unlearning via SGD Stability](../../conferences/icml-2026/cards/5001-5100.md#wu26br-theory-statistics) · 中文
 - [Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting](../../conferences/icml-2026/cards/5001-5100.md#wu26bs-theory-statistics) · 中文
+- [What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression](../../conferences/icml-2026/cards/5001-5100.md#wu26ce-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

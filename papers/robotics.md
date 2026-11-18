@@ -41,6 +41,7 @@
 - <a id="wang26gs-architecture"></a>[Factored Latent Action World Models](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gs)
 - <a id="wikman26a-architecture"></a>[Adaptive Reinforcement Learning for Unobservable Random Delays](../conferences/icml-2026/cards/4901-5000.md#paper-wikman26a)
 - <a id="wu26ak-architecture"></a>[Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ak)
+- <a id="wu26cb-architecture"></a>[Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cb)
 
 <a id="by-modules"></a>
 
@@ -135,6 +136,7 @@
 - <a id="wang26hw-training-strategies"></a>[Scaling by Diversified Experience for Vision-Language-Action Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hw)
 - <a id="wang26kz-training-strategies"></a>[Co-Evolving Latent Action World Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kz)
 - <a id="wu26m-training-strategies"></a>[VLANeXt: Recipes for Building Strong VLA Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26m)
+- <a id="wu26ck-training-strategies"></a>[PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ck)
 
 <a id="by-data-strategies"></a>
 
@@ -197,6 +199,7 @@
 - <a id="wang26dn-inference"></a>[DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dn)
 - <a id="wang26jj-inference"></a>[SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jj)
 - <a id="wang26lj-inference"></a>[Learning High-Frequency Continuous Action Chunks in Latent Space](../conferences/icml-2026/cards/4901-5000.md#paper-wang26lj)
+- <a id="wu26bt-inference"></a>[Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bt)
 
 <a id="by-representation-learning"></a>
 

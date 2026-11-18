@@ -52,6 +52,7 @@
 - <a id="wang26if-loss-functions"></a>[Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26if)
 - <a id="wang26jf-loss-functions"></a>[RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jf)
 - <a id="wang26ko-loss-functions"></a>[Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ko)
+- <a id="wu26ch-loss-functions"></a>[Distributional Inverse Reinforcement Learning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ch)
 
 <a id="by-optimization"></a>
 

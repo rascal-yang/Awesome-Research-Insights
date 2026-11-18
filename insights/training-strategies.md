@@ -222,6 +222,7 @@
 - [视频模型的三帧视觉修正](../conferences/icml-2026/cards/4401-4500.md#tong26a-training-strategies) · CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
 - [uncertainty-modulated-bridge](../conferences/icml-2026/cards/4501-4600.md#tu26d-training-strategies) · Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration
 - [按激活方差分配量化校准预算](../conferences/icml-2026/cards/5001-5100.md#wu26g-training-strategies) · LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution
+- [可丢弃外观适配器的运动迁移](../conferences/icml-2026/cards/5001-5100.md#wu26cg-training-strategies) · VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos
 
 <a id="by-nlp"></a>
 
@@ -271,6 +272,7 @@
 - [动作梯度筛选意图状态](../conferences/icml-2026/cards/4801-4900.md#wang26hw-training-strategies) · Scaling by Diversified Experience for Vision-Language-Action Models
 - [潜动作接口预热与联合训练坍塌](../conferences/icml-2026/cards/4801-4900.md#wang26kz-training-strategies) · Co-Evolving Latent Action World Models
 - [VLA的本体感知路由与频域动作监督](../conferences/icml-2026/cards/5001-5100.md#wu26m-training-strategies) · VLANeXt: Recipes for Building Strong VLA Models
+- [渐进约束教师的扩散策略后训练](../conferences/icml-2026/cards/5001-5100.md#wu26ck-training-strategies) · PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation
 
 <a id="by-multimodal"></a>
 
@@ -333,6 +335,7 @@
 - [共享前缀的局部视频候选排名](../conferences/icml-2026/cards/4801-4900.md#wang26iu-training-strategies) · WorldCompass: Reinforcement Learning for Long-Horizon World Models
 - [联合提示训练保留原提示对照](../conferences/icml-2026/cards/4801-4900.md#wang26kl-training-strategies) · PromptRL: Prompt Matters in RL for Flow-Based Image Generation
 - [临时专家竞争决定扩容层](../conferences/icml-2026/cards/4801-4900.md#wang26le-training-strategies) · CoPE: Continual Probe-guided Expansion for Large Vision-Language Models
+- [全双工听觉期间的潜在推理蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26bx-training-strategies) · The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning
 
 <a id="by-ml-foundations"></a>
 

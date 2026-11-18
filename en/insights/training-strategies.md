@@ -222,6 +222,7 @@ Training schedules, curricula, and task or stage composition.
 - [CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](../../conferences/icml-2026/cards/4401-4500.md#tong26a-training-strategies) · 中文
 - [Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration](../../conferences/icml-2026/cards/4501-4600.md#tu26d-training-strategies) · 中文
 - [LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution](../../conferences/icml-2026/cards/5001-5100.md#wu26g-training-strategies) · 中文
+- [VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos](../../conferences/icml-2026/cards/5001-5100.md#wu26cg-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -271,6 +272,7 @@ Training schedules, curricula, and task or stage composition.
 - [Scaling by Diversified Experience for Vision-Language-Action Models](../../conferences/icml-2026/cards/4801-4900.md#wang26hw-training-strategies) · 中文
 - [Co-Evolving Latent Action World Models](../../conferences/icml-2026/cards/4801-4900.md#wang26kz-training-strategies) · 中文
 - [VLANeXt: Recipes for Building Strong VLA Models](../../conferences/icml-2026/cards/5001-5100.md#wu26m-training-strategies) · 中文
+- [PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#wu26ck-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -333,6 +335,7 @@ Training schedules, curricula, and task or stage composition.
 - [WorldCompass: Reinforcement Learning for Long-Horizon World Models](../../conferences/icml-2026/cards/4801-4900.md#wang26iu-training-strategies) · 中文
 - [PromptRL: Prompt Matters in RL for Flow-Based Image Generation](../../conferences/icml-2026/cards/4801-4900.md#wang26kl-training-strategies) · 中文
 - [CoPE: Continual Probe-guided Expansion for Large Vision-Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26le-training-strategies) · 中文
+- [The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26bx-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

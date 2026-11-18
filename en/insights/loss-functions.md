@@ -59,6 +59,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Generalized Discrete Diffusion with Self-Correction](../../conferences/icml-2026/cards/4801-4900.md#wang26ho-loss-functions) · 中文
 - [Towards Context-Invariant Safety Alignment for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26ju-loss-functions) · 中文
 - [Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models](../../conferences/icml-2026/cards/4901-5000.md#williams26b-loss-functions) · 中文
+- [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26cl-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -137,6 +138,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning](../../conferences/icml-2026/cards/4801-4900.md#wang26if-loss-functions) · 中文
 - [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](../../conferences/icml-2026/cards/4801-4900.md#wang26jf-loss-functions) · 中文
 - [Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control](../../conferences/icml-2026/cards/4801-4900.md#wang26ko-loss-functions) · 中文
+- [Distributional Inverse Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26ch-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

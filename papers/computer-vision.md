@@ -309,6 +309,7 @@
 - <a id="tong26a-training-strategies"></a>[CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](../conferences/icml-2026/cards/4401-4500.md#paper-tong26a)
 - <a id="tu26d-training-strategies"></a>[Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration](../conferences/icml-2026/cards/4501-4600.md#paper-tu26d)
 - <a id="wu26g-training-strategies"></a>[LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution](../conferences/icml-2026/cards/5001-5100.md#paper-wu26g)
+- <a id="wu26cg-training-strategies"></a>[VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos](../conferences/icml-2026/cards/5001-5100.md#paper-wu26cg)
 
 <a id="by-data-strategies"></a>
 
