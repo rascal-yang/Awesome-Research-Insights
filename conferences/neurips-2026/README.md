@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1829** 篇，暂收录 **1689** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1889** 篇，暂收录 **1745** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1697,3 +1697,59 @@
 | 计算机视觉 | 解码器 | [CRISP: Fixing Flying Pixels in Latent LiDAR Generation via Diffusion Decoding](cards-0003.md#paper-153441) | 冻结潜变量模型，只更换解码器验证深度边缘错误 |
 | 数据策略 | 元数据验证 | [Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets](cards-0003.md#paper-139027) | 通过本地格式处理器产生可验证元数据 |
 | Agent | 结构化评测 | [CroissantMiner: Automated Extraction and Validation of Croissant Metadata for ML Datasets](cards-0003.md#paper-139073) | 对跨章节字段比较单次全局抽取与多 Agent 分解 |
+| 机器学习 | 迁移诊断 | [Cross-Architecture Transferability is Width-Confounded:Diagnosis and Subspace Correction](cards-0003.md#paper-151354) | 跨架构选模型时先校正宽度 |
+| 多模态学习 | 不确定性 | [Cross-Attentive Bayesian Low-Rank Adaptation for Multimodal Uncertainty Estimation](cards-0003.md#paper-149084) | 用局部语音线索调节适配器置信度 |
+| 科学机器学习 | 基准诊断 | [Cross-Cell-Line Perturbation Prediction Needs Controls](cards-0003.md#paper-139089) | 用无效应与平均差值对照检验泛化指标 |
+| 多模态学习 | 推理校验 | [Cross-Channel Agreement Beats Consensus: Compositional Verification for Geometry Reasoning](cards-0003.md#paper-151708) | 让不同错误来源的路径相互印证 |
+| 可解释性 | 时序特征 | [Crosscoding Through Time: Sparse Feature Discovery Across Sequence Positions](cards-0003.md#paper-151653) | 跨序列位置学习稀疏特征 |
+| 机器学习系统 | 约束解码 | [Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR](cards-0003.md#paper-138884) | 从编译器规范生成解码约束 |
+| 科学机器学习 | 分布外泛化 | [Cross-Distribution Generalization in Longitudinal Behavioral Data Through Frozen Coherence Constraints](cards-0003.md#paper-150347) | 冻结语义参照约束行为表征 |
+| 持续学习 | 提示适配 | [Cross-Domain Knowledge Separation and Positive Transmission for Noisy Domain Incremental Learning](cards-0003.md#paper-152725) | 隔离领域知识后只迁移可靠部分 |
+| 可解释性 | 跨模型探针 | [Cross-Family Universality of Behavioral Axes via Anchor-Projected Representations](cards-0003.md#paper-153625) | 用共享样本比对行为方向 |
+| 统计学习 | 后验估计 | [Cross-Fitting for Neural Posterior Estimation](cards-0003.md#paper-153646) | 用折外残差学习条件不确定性 |
+| 生成模型 | 流匹配 | [Cross Flow: One-Step Generation Across Latent and Pixel Spaces](cards-0003.md#paper-151273) | 让低维噪声直接映射到像素 |
+| 计算机视觉 | 测试时适配 | [Cross-Foundation Complementary Learning Systems for Continual Test-Time Adaptation in Open-Vocabulary Semantic Segmentation](cards-0003.md#paper-148739) | 分离视觉快更新和语义稳定约束 |
+| 计算机视觉 | 监督设计 | [CrossID: Cross-Supervised Spatio-Temporal Gated Fusion for Personalized Portrait Generation](cards-0003.md#paper-150764) | 用交叉监督检验参考身份与描述的解耦 |
+| 统计学习 | 评测方差 | [Crossing the Validation crisis: Cross-validation reduces benchmarking variance surprisingly well](cards-0003.md#paper-139193) | 以样本增益判断是否继续增加交叉验证折数 |
+| 多模态学习 | 幻觉定位 | [Cross-Layer Evolution Graph Learning for Fine-grained VLM Hallucination Detection](cards-0003.md#paper-150184) | 用跨层轨迹与句级标签定位token异常 |
+| 机器人学 | 跨模态蒸馏 | [Cross-Modal Prior-Guided Training with Visual Foundation Models for Unsupervised LiDAR Point Cloud Registration](cards-0003.md#paper-155262) | 训练时借视觉先验指导纯LiDAR配准 |
+| 可解释性 | 电路比较 | [Cross-Model Circuit Discovery](cards-0003.md#paper-148536) | 在模型与层的联合字典中找共享电路 |
+| 大语言模型 | 缓存复用 | [Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse](cards-0003.md#paper-153772) | 在同族模型切换前验证KV映射误差 |
+| 图学习 | 图匹配 | [Cross-order Consensus Graph Matching](cards-0003.md#paper-153663) | 同时建模节点与边对应，并约束两者一致 |
+| 大语言模型 | 选择性预测 | [Cross-Question Reliable Reinforcement Learning](cards-0003.md#paper-155202) | 按跨题相对置信度训练拒答 |
+| 多模态学习 | 防御校准 | [CrossSteer:Cross-Modal Safety Steering for Audio-Language Models](cards-0003.md#paper-148830) | 比较文本与语音来源的安全表征 |
+| Agent | 权限隔离 | [Cross-User Poisoning: User-Task Boundary Failures in Multi-User Collaborative Language Agents](cards-0003.md#paper-148398) | 显式记录用户和任务授权范围 |
+| 多模态学习 | 跨模态检索 | [CrossWeave: Emergent Cross-Modal Scene and Instance Retrieval from Sparse 2D-3D Alignment](cards-0003.md#paper-152755) | 用稀疏局部对应监督代替全局标签 |
+| 大语言模型 | 适配器合并 | [Crowded in B-Space: Calibrating Shared Directions for LoRA Merging](cards-0003.md#paper-152853) | 合并 LoRA 前校准输出侧共享方向 |
+| 表格学习 | 推理检索 | [CRUMB: Efficient Prior Fitted Network Inference via Distributionally Matched Context Batching](cards-0003.md#paper-148277) | 为每组测试样本选择分布匹配的训练上下文 |
+| Agent | 提问评测 | [CruxBench: A Benchmark of Information Discovery](cards-0003.md#paper-139175) | 按子问题改变目标判断的程度评分 |
+| 科学机器学习 | 结构评测 | [CryoAtlas: A Large Curated Dataset and Unified Benchmark for Cryo-EM Atomic Model Building](cards-0003.md#paper-139015) | 联合检查结构误差、观测一致性与物理有效性 |
+| 科学机器学习 | 几何等变 | [CryoGeo: Latent Pose Equivariance for Amortized Ab Initio Cryo-EM Reconstruction](cards-0003.md#paper-149543) | 直接约束模型输出对已知坐标变换的响应 |
+| 科学机器学习 | 教师选择 | [CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models](cards-0003.md#paper-154603) | 用原子表征可分性选择晶体生成教师 |
+| Agent | 软件工程评测 | [CSBench: A Comprehensive Benchmark for Evaluating Project-Level System Construction in Computer Science](cards-0003.md#paper-139195) | 将项目构建和算法题通过率分别验收 |
+| 图学习 | 图卷积 | [CSCN: The Crossed Subtree Convolutional Network](cards-0003.md#paper-149718) | 用对齐后的子树序列降低对深层消息传递的依赖 |
+| 强化学习 | 占用正则 | [CS-DICE: Offline Reinforcement Learning with Coherent Occupancy Regularization](cards-0003.md#paper-153299) | 将正则参考限制为部署策略可表达的经验切片 |
+| 生成模型 | 去噪调度 | [CSFlow: Aligning Flow Matching with Human Contrast Sensitivity](cards-0003.md#paper-154473) | 按每一步形成的频带和人类敏感性分配去噪权重 |
+| 多模态学习 | 传感对齐 | [CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception](cards-0003.md#paper-139630) | 以分层描述训练非视觉传感输入的开放查询 |
+| 生成模型 | 注意力加速 | [CSLA: Sparse-Linear Attention with Learnable Routing and Quantization-aware Training](cards-0003.md#paper-149892) | 以可训练路由代替按权重大小分配注意力分支 |
+| 模型安全 | 防御检测 | [CSO-LLM: Class Subspace Orthogonalization for Post-Training Backdoor Detection and Trigger Inversion in LLMs](cards-0003.md#paper-153774) | 区分正常类别特征与可疑模型行为 |
+| 机器人学 | 技能强化学习 | [CSO: Refining Robotic Policies via Skill Distribution Alignment and Skill-Grained Optimization](cards-0003.md#paper-153130) | 先校正技能先验，再按技能裁剪策略更新 |
+| 大语言模型 | 反事实评测 | [CTE-Bench: Audited Counterfactual Trace Evaluation for Stateful Software Simulators](cards-0003.md#paper-139020) | 分开报告有真实历史辅助和独立滚动的预测。 |
+| 科学机器学习 | 标注策略 | [CT-Lesion: A Multi-Region CT Dataset for Co-existing Lesion Segmentation and Detection](cards-0003.md#paper-139728) | 跨解剖区补充稀有病灶监督。 |
+| 多模态学习 | 专家协作 | [CTM-AI: A Blueprint for General AI Inspired by a Model of Consciousness](cards-0003.md#paper-148258) | 跨模态任务中检验动态信息选择是否优于固定专家组合。 |
+| 大语言模型 | 持续适配 | [CTRL: Continual Test-Time Reinforcement Learning for Large Language Models](cards-0003.md#paper-153321) | 在持续测试时更新中同时控制伪监督错误和历史梯度干扰。 |
+| 生成模型 | 推理缓存 | [CuBic: Curvature-Driven Dynamic Inference Caching for Fast, High-Fidelity Flow Matching](cards-0003.md#paper-149614) | 按流轨迹弯曲程度选择更新频率和空间粒度。 |
+| 机器学习系统 | 调试评测 | [CUDABeaver: Benchmarking LLM-Based Automated CUDA Debugging](cards-0003.md#paper-139244) | 验收 GPU 修复时同时检查正确性和性能保留。 |
+| 机器学习系统 | 生成评测 | [CUDABench: Benchmarking LLMs for Text-to-CUDA Generation](cards-0003.md#paper-148268) | 把编译、运行语义和硬件效率分层验收。 |
+| 大语言模型 | 安全评测 | [CultureRed: Benchmarking Culture-Specific AI Safety Based on Global Statutes](cards-0003.md#paper-139752) | 同时测地区规则下的漏拒与误拒。 |
+| 强化学习 | 遗忘策略 | [CURe: Conservative Unlearning with Soft-Gating Regularization for Offline Reinforcement Learning](cards-0003.md#paper-155375) | 保留和删除数据共享支持时按干扰程度调节遗忘。 |
+| 大语言模型 | 推理安全 | [CURE: Counterfactual Unsafe-token Re-masking for Diffusion Large Language Model Test-time Alignment](cards-0003.md#paper-151876) | 对扩散解码优先修正局部风险状态。 |
+| 推荐系统 | 跨域训练 | [CURE: Coupled User-Grouped Reinforcement Learning for Cross-Domain Recommendation with Non-Overlapping Users](cards-0003.md#paper-151750) | 以同用户的可靠域内信号校准跨域伪标签更新。 |
+| 多模态学习 | 半监督适配 | [CURE: Visual Reprogramming of Vision-Language Models under Limited Supervision](cards-0003.md#paper-155870) | 按校准后置信边际使用无标签样本。 |
+| 大语言模型 | 安全训练 | [Curriculum Learning for Safety Alignment](cards-0003.md#paper-154369) | 偏好优化时按难度逐步采样并更新参考模型。 |
+| 科学机器学习 | 训练策略 | [Curriculum Multiple Shooting for Robust Training of Neural and Universal Differential Equations](cards-0003.md#paper-153849) | 神经微分方程训练合用课程与分段射击。 |
+| 大语言模型 | 形式验证 | [Curriculum proof repair with learned counterexamples](cards-0003.md#paper-156100) | 按不变量依赖顺序训练证明失败诊断。 |
+| 优化 | 近似理论 | [Curvature Beyond Positivity: Greedy Guarantees for Arbitrary Submodular Functions](cards-0003.md#paper-150081) | 判断含负值的次模目标能否使用贪心。 |
+| 优化 | 复杂度下界 | [Curvature-Dependent Lower Bounds for Frank-Wolfe](cards-0003.md#paper-154986) | 区分可行域曲率带来的加速与所用步长规则的极限。 |
+| 优化 | 在线学习下界 | [Curvature-Dependent Lower Bounds for Riemannian Online Convex Optimization](cards-0003.md#paper-153902) | 在负曲率空间区分梯度反馈和完整损失反馈。 |
+| 优化 | 初始化 | [Curvature-Guided Parameter Initialization for Multi-Task Learning](cards-0003.md#paper-152159) | 对多任务训练先检查初始化敏感性，再比较梯度改造方法。 |

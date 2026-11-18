@@ -1784,66 +1784,66 @@ poster_id	title	paper_url	status	reason
 153441	CRISP: Fixing Flying Pixels in Latent LiDAR Generation via Diffusion Decoding	https://neurips.cc/virtual/2026/poster/153441	included	冻结潜变量模型，只更换解码器验证深度边缘错误
 139027	Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets	https://neurips.cc/virtual/2026/poster/139027	included	通过本地格式处理器产生可验证元数据
 139073	CroissantMiner: Automated Extraction and Validation of Croissant Metadata for ML Datasets	https://neurips.cc/virtual/2026/poster/139073	included	对跨章节字段比较单次全局抽取与多 Agent 分解
-151354	Cross-Architecture Transferability is Width-Confounded:Diagnosis and Subspace Correction	https://neurips.cc/virtual/2026/poster/151354	pending	-
-149084	Cross-Attentive Bayesian Low-Rank Adaptation for Multimodal Uncertainty Estimation	https://neurips.cc/virtual/2026/poster/149084	pending	-
-139089	Cross-Cell-Line Perturbation Prediction Needs Controls	https://neurips.cc/virtual/2026/poster/139089	pending	-
-151708	Cross-Channel Agreement Beats Consensus: Compositional Verification for Geometry Reasoning	https://neurips.cc/virtual/2026/poster/151708	pending	-
-151653	Crosscoding Through Time: Sparse Feature Discovery Across Sequence Positions	https://neurips.cc/virtual/2026/poster/151653	pending	-
-138884	Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR	https://neurips.cc/virtual/2026/poster/138884	pending	-
-150347	Cross-Distribution Generalization in Longitudinal Behavioral Data Through Frozen Coherence Constraints	https://neurips.cc/virtual/2026/poster/150347	pending	-
-152725	Cross-Domain Knowledge Separation and Positive Transmission for Noisy Domain Incremental Learning	https://neurips.cc/virtual/2026/poster/152725	pending	-
-153625	Cross-Family Universality of Behavioral Axes via Anchor-Projected Representations	https://neurips.cc/virtual/2026/poster/153625	pending	-
-153646	Cross-Fitting for Neural Posterior Estimation	https://neurips.cc/virtual/2026/poster/153646	pending	-
-151273	Cross Flow: One-Step Generation Across Latent and Pixel Spaces	https://neurips.cc/virtual/2026/poster/151273	pending	-
-148739	Cross-Foundation Complementary Learning Systems for Continual Test-Time Adaptation in Open-Vocabulary Semantic Segmentation	https://neurips.cc/virtual/2026/poster/148739	pending	-
-150764	CrossID: Cross-Supervised Spatio-Temporal Gated Fusion for Personalized Portrait Generation	https://neurips.cc/virtual/2026/poster/150764	pending	-
-139193	Crossing the Validation crisis: Cross-validation reduces benchmarking variance surprisingly well	https://neurips.cc/virtual/2026/poster/139193	pending	-
-150184	Cross-Layer Evolution Graph Learning for Fine-grained VLM Hallucination Detection	https://neurips.cc/virtual/2026/poster/150184	pending	-
-155262	Cross-Modal Prior-Guided Training with Visual Foundation Models for Unsupervised LiDAR Point Cloud Registration	https://neurips.cc/virtual/2026/poster/155262	pending	-
-148536	Cross-Model Circuit Discovery	https://neurips.cc/virtual/2026/poster/148536	pending	-
-153772	Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse	https://neurips.cc/virtual/2026/poster/153772	pending	-
-155497	Cross-Model Transfer Attacks against Large Vision-Language Models via Model Diversity Enrichment and Stochastic Parameter Sampling	https://neurips.cc/virtual/2026/poster/155497	pending	-
-153663	Cross-order Consensus Graph Matching	https://neurips.cc/virtual/2026/poster/153663	pending	-
-155202	Cross-Question Reliable Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155202	pending	-
-148830	CrossSteer:Cross-Modal Safety Steering for Audio-Language Models	https://neurips.cc/virtual/2026/poster/148830	pending	-
-148398	Cross-User Poisoning: User-Task Boundary Failures in Multi-User Collaborative Language Agents	https://neurips.cc/virtual/2026/poster/148398	pending	-
-152755	CrossWeave: Emergent Cross-Modal Scene and Instance Retrieval from Sparse 2D-3D Alignment	https://neurips.cc/virtual/2026/poster/152755	pending	-
-152853	Crowded in B-Space: Calibrating Shared Directions for LoRA Merging	https://neurips.cc/virtual/2026/poster/152853	pending	-
-148277	CRUMB: Efficient Prior Fitted Network Inference via Distributionally Matched Context Batching	https://neurips.cc/virtual/2026/poster/148277	pending	-
-139175	CruxBench: A Benchmark of Information Discovery	https://neurips.cc/virtual/2026/poster/139175	pending	-
-139015	CryoAtlas: A Large Curated Dataset and Unified Benchmark for Cryo-EM Atomic Model Building	https://neurips.cc/virtual/2026/poster/139015	pending	-
-149543	CryoGeo: Latent Pose Equivariance for Amortized Ab Initio Cryo-EM Reconstruction	https://neurips.cc/virtual/2026/poster/149543	pending	-
-139647	CryptanalysisBench: Can LLMs do cryptanalysis?	https://neurips.cc/virtual/2026/poster/139647	pending	-
-154603	CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models	https://neurips.cc/virtual/2026/poster/154603	pending	-
-139195	CSBench: A Comprehensive Benchmark for Evaluating Project-Level System Construction in Computer Science	https://neurips.cc/virtual/2026/poster/139195	pending	-
-149718	CSCN: The Crossed Subtree Convolutional Network	https://neurips.cc/virtual/2026/poster/149718	pending	-
-139416	CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition	https://neurips.cc/virtual/2026/poster/139416	pending	-
-153299	CS-DICE: Offline Reinforcement Learning with Coherent Occupancy Regularization	https://neurips.cc/virtual/2026/poster/153299	pending	-
-154473	CSFlow: Aligning Flow Matching with Human Contrast Sensitivity	https://neurips.cc/virtual/2026/poster/154473	pending	-
-139630	CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception	https://neurips.cc/virtual/2026/poster/139630	pending	-
-149892	CSLA: Sparse-Linear Attention with Learnable Routing and Quantization-aware Training	https://neurips.cc/virtual/2026/poster/149892	pending	-
-153774	CSO-LLM: Class Subspace Orthogonalization for Post-Training Backdoor Detection and Trigger Inversion in LLMs	https://neurips.cc/virtual/2026/poster/153774	pending	-
-153130	CSO: Refining Robotic Policies via Skill Distribution Alignment and Skill-Grained Optimization	https://neurips.cc/virtual/2026/poster/153130	pending	-
-139020	CTE-Bench: Audited Counterfactual Trace Evaluation for Stateful Software Simulators	https://neurips.cc/virtual/2026/poster/139020	pending	-
-139728	CT-Lesion: A Multi-Region CT Dataset for Co-existing Lesion Segmentation and Detection	https://neurips.cc/virtual/2026/poster/139728	pending	-
-148258	CTM-AI: A Blueprint for General AI Inspired by a Model of Consciousness	https://neurips.cc/virtual/2026/poster/148258	pending	-
-153321	CTRL: Continual Test-Time Reinforcement Learning for Large Language Models	https://neurips.cc/virtual/2026/poster/153321	pending	-
-149614	CuBic: Curvature-Driven Dynamic Inference Caching for Fast, High-Fidelity Flow Matching	https://neurips.cc/virtual/2026/poster/149614	pending	-
-139244	CUDABeaver: Benchmarking LLM-Based Automated CUDA Debugging	https://neurips.cc/virtual/2026/poster/139244	pending	-
-148268	CUDABench: Benchmarking LLMs for Text-to-CUDA Generation	https://neurips.cc/virtual/2026/poster/148268	pending	-
-139752	CultureRed: Benchmarking Culture-Specific AI Safety Based on Global Statutes	https://neurips.cc/virtual/2026/poster/139752	pending	-
-155389	CupOFMoCA: Coupled Objective-Guided Discrete Flows for Molecular Conjugate Assembly	https://neurips.cc/virtual/2026/poster/155389	pending	-
-155375	CURe: Conservative Unlearning with Soft-Gating Regularization for Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155375	pending	-
-151876	CURE: Counterfactual Unsafe-token Re-masking for Diffusion Large Language Model Test-time Alignment	https://neurips.cc/virtual/2026/poster/151876	pending	-
-151750	CURE: Coupled User-Grouped Reinforcement Learning for Cross-Domain Recommendation with Non-Overlapping Users	https://neurips.cc/virtual/2026/poster/151750	pending	-
-155870	CURE: Visual Reprogramming of Vision-Language Models under Limited Supervision	https://neurips.cc/virtual/2026/poster/155870	pending	-
-154369	Curriculum Learning for Safety Alignment	https://neurips.cc/virtual/2026/poster/154369	pending	-
-153849	Curriculum Multiple Shooting for Robust Training of Neural and Universal Differential Equations	https://neurips.cc/virtual/2026/poster/153849	pending	-
-156100	Curriculum proof repair with learned counterexamples	https://neurips.cc/virtual/2026/poster/156100	pending	-
-150081	Curvature Beyond Positivity: Greedy Guarantees for Arbitrary Submodular Functions	https://neurips.cc/virtual/2026/poster/150081	pending	-
-154986	Curvature-Dependent Lower Bounds for Frank-Wolfe	https://neurips.cc/virtual/2026/poster/154986	pending	-
-153902	Curvature-Dependent Lower Bounds for Riemannian Online Convex Optimization	https://neurips.cc/virtual/2026/poster/153902	pending	-
-152159	Curvature-Guided Parameter Initialization for Multi-Task Learning	https://neurips.cc/virtual/2026/poster/152159	pending	-
+151354	Cross-Architecture Transferability is Width-Confounded:Diagnosis and Subspace Correction	https://neurips.cc/virtual/2026/poster/151354	included	跨架构选模型时先校正宽度
+149084	Cross-Attentive Bayesian Low-Rank Adaptation for Multimodal Uncertainty Estimation	https://neurips.cc/virtual/2026/poster/149084	included	用局部语音线索调节适配器置信度
+139089	Cross-Cell-Line Perturbation Prediction Needs Controls	https://neurips.cc/virtual/2026/poster/139089	included	用无效应与平均差值对照检验泛化指标
+151708	Cross-Channel Agreement Beats Consensus: Compositional Verification for Geometry Reasoning	https://neurips.cc/virtual/2026/poster/151708	included	让不同错误来源的路径相互印证
+151653	Crosscoding Through Time: Sparse Feature Discovery Across Sequence Positions	https://neurips.cc/virtual/2026/poster/151653	included	跨序列位置学习稀疏特征
+138884	Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR	https://neurips.cc/virtual/2026/poster/138884	included	从编译器规范生成解码约束
+150347	Cross-Distribution Generalization in Longitudinal Behavioral Data Through Frozen Coherence Constraints	https://neurips.cc/virtual/2026/poster/150347	included	冻结语义参照约束行为表征
+152725	Cross-Domain Knowledge Separation and Positive Transmission for Noisy Domain Incremental Learning	https://neurips.cc/virtual/2026/poster/152725	included	隔离领域知识后只迁移可靠部分
+153625	Cross-Family Universality of Behavioral Axes via Anchor-Projected Representations	https://neurips.cc/virtual/2026/poster/153625	included	用共享样本比对行为方向
+153646	Cross-Fitting for Neural Posterior Estimation	https://neurips.cc/virtual/2026/poster/153646	included	用折外残差学习条件不确定性
+151273	Cross Flow: One-Step Generation Across Latent and Pixel Spaces	https://neurips.cc/virtual/2026/poster/151273	included	让低维噪声直接映射到像素
+148739	Cross-Foundation Complementary Learning Systems for Continual Test-Time Adaptation in Open-Vocabulary Semantic Segmentation	https://neurips.cc/virtual/2026/poster/148739	included	分离视觉快更新和语义稳定约束
+150764	CrossID: Cross-Supervised Spatio-Temporal Gated Fusion for Personalized Portrait Generation	https://neurips.cc/virtual/2026/poster/150764	included	用交叉监督检验参考身份与描述的解耦
+139193	Crossing the Validation crisis: Cross-validation reduces benchmarking variance surprisingly well	https://neurips.cc/virtual/2026/poster/139193	included	以样本增益判断是否继续增加交叉验证折数
+150184	Cross-Layer Evolution Graph Learning for Fine-grained VLM Hallucination Detection	https://neurips.cc/virtual/2026/poster/150184	included	用跨层轨迹与句级标签定位token异常
+155262	Cross-Modal Prior-Guided Training with Visual Foundation Models for Unsupervised LiDAR Point Cloud Registration	https://neurips.cc/virtual/2026/poster/155262	included	训练时借视觉先验指导纯LiDAR配准
+148536	Cross-Model Circuit Discovery	https://neurips.cc/virtual/2026/poster/148536	included	在模型与层的联合字典中找共享电路
+153772	Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse	https://neurips.cc/virtual/2026/poster/153772	included	在同族模型切换前验证KV映射误差
+155497	Cross-Model Transfer Attacks against Large Vision-Language Models via Model Diversity Enrichment and Stochastic Parameter Sampling	https://neurips.cc/virtual/2026/poster/155497	excluded	主要贡献为提升对未见模型的攻击迁移，未提取独立防御机制。
+153663	Cross-order Consensus Graph Matching	https://neurips.cc/virtual/2026/poster/153663	included	同时建模节点与边对应，并约束两者一致
+155202	Cross-Question Reliable Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155202	included	按跨题相对置信度训练拒答
+148830	CrossSteer:Cross-Modal Safety Steering for Audio-Language Models	https://neurips.cc/virtual/2026/poster/148830	included	比较文本与语音来源的安全表征
+148398	Cross-User Poisoning: User-Task Boundary Failures in Multi-User Collaborative Language Agents	https://neurips.cc/virtual/2026/poster/148398	included	显式记录用户和任务授权范围
+152755	CrossWeave: Emergent Cross-Modal Scene and Instance Retrieval from Sparse 2D-3D Alignment	https://neurips.cc/virtual/2026/poster/152755	included	用稀疏局部对应监督代替全局标签
+152853	Crowded in B-Space: Calibrating Shared Directions for LoRA Merging	https://neurips.cc/virtual/2026/poster/152853	included	合并 LoRA 前校准输出侧共享方向
+148277	CRUMB: Efficient Prior Fitted Network Inference via Distributionally Matched Context Batching	https://neurips.cc/virtual/2026/poster/148277	included	为每组测试样本选择分布匹配的训练上下文
+139175	CruxBench: A Benchmark of Information Discovery	https://neurips.cc/virtual/2026/poster/139175	included	按子问题改变目标判断的程度评分
+139015	CryoAtlas: A Large Curated Dataset and Unified Benchmark for Cryo-EM Atomic Model Building	https://neurips.cc/virtual/2026/poster/139015	included	联合检查结构误差、观测一致性与物理有效性
+149543	CryoGeo: Latent Pose Equivariance for Amortized Ab Initio Cryo-EM Reconstruction	https://neurips.cc/virtual/2026/poster/149543	included	直接约束模型输出对已知坐标变换的响应
+139647	CryptanalysisBench: Can LLMs do cryptanalysis?	https://neurips.cc/virtual/2026/poster/139647	excluded	核心任务训练或衡量自动破解密码实现，缺少独立验证的防御机制。
+154603	CrystalREPA: Transferring Physical Priors from Universal MLIPs to Crystal Generative Models	https://neurips.cc/virtual/2026/poster/154603	included	用原子表征可分性选择晶体生成教师
+139195	CSBench: A Comprehensive Benchmark for Evaluating Project-Level System Construction in Computer Science	https://neurips.cc/virtual/2026/poster/139195	included	将项目构建和算法题通过率分别验收
+149718	CSCN: The Crossed Subtree Convolutional Network	https://neurips.cc/virtual/2026/poster/149718	included	用对齐后的子树序列降低对深层消息传递的依赖
+139416	CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition	https://neurips.cc/virtual/2026/poster/139416	excluded	主要贡献为扩大连续语码切换数据和报告现有识别对照，摘要未指出可改变模型选择的独立规律。
+153299	CS-DICE: Offline Reinforcement Learning with Coherent Occupancy Regularization	https://neurips.cc/virtual/2026/poster/153299	included	将正则参考限制为部署策略可表达的经验切片
+154473	CSFlow: Aligning Flow Matching with Human Contrast Sensitivity	https://neurips.cc/virtual/2026/poster/154473	included	按每一步形成的频带和人类敏感性分配去噪权重
+139630	CSI-TextBench: A Dataset and Benchmark for Language-Grounded Ambient Sensing Perception	https://neurips.cc/virtual/2026/poster/139630	included	以分层描述训练非视觉传感输入的开放查询
+149892	CSLA: Sparse-Linear Attention with Learnable Routing and Quantization-aware Training	https://neurips.cc/virtual/2026/poster/149892	included	以可训练路由代替按权重大小分配注意力分支
+153774	CSO-LLM: Class Subspace Orthogonalization for Post-Training Backdoor Detection and Trigger Inversion in LLMs	https://neurips.cc/virtual/2026/poster/153774	included	区分正常类别特征与可疑模型行为
+153130	CSO: Refining Robotic Policies via Skill Distribution Alignment and Skill-Grained Optimization	https://neurips.cc/virtual/2026/poster/153130	included	先校正技能先验，再按技能裁剪策略更新
+139020	CTE-Bench: Audited Counterfactual Trace Evaluation for Stateful Software Simulators	https://neurips.cc/virtual/2026/poster/139020	included	分开报告有真实历史辅助和独立滚动的预测。
+139728	CT-Lesion: A Multi-Region CT Dataset for Co-existing Lesion Segmentation and Detection	https://neurips.cc/virtual/2026/poster/139728	included	跨解剖区补充稀有病灶监督。
+148258	CTM-AI: A Blueprint for General AI Inspired by a Model of Consciousness	https://neurips.cc/virtual/2026/poster/148258	included	跨模态任务中检验动态信息选择是否优于固定专家组合。
+153321	CTRL: Continual Test-Time Reinforcement Learning for Large Language Models	https://neurips.cc/virtual/2026/poster/153321	included	在持续测试时更新中同时控制伪监督错误和历史梯度干扰。
+149614	CuBic: Curvature-Driven Dynamic Inference Caching for Fast, High-Fidelity Flow Matching	https://neurips.cc/virtual/2026/poster/149614	included	按流轨迹弯曲程度选择更新频率和空间粒度。
+139244	CUDABeaver: Benchmarking LLM-Based Automated CUDA Debugging	https://neurips.cc/virtual/2026/poster/139244	included	验收 GPU 修复时同时检查正确性和性能保留。
+148268	CUDABench: Benchmarking LLMs for Text-to-CUDA Generation	https://neurips.cc/virtual/2026/poster/148268	included	把编译、运行语义和硬件效率分层验收。
+139752	CultureRed: Benchmarking Culture-Specific AI Safety Based on Global Statutes	https://neurips.cc/virtual/2026/poster/139752	included	同时测地区规则下的漏拒与误拒。
+155389	CupOFMoCA: Coupled Objective-Guided Discrete Flows for Molecular Conjugate Assembly	https://neurips.cc/virtual/2026/poster/155389	excluded	主要贡献与生物活性分子设计绑定，未提取适合独立收录的通用研究结论。
+155375	CURe: Conservative Unlearning with Soft-Gating Regularization for Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155375	included	保留和删除数据共享支持时按干扰程度调节遗忘。
+151876	CURE: Counterfactual Unsafe-token Re-masking for Diffusion Large Language Model Test-time Alignment	https://neurips.cc/virtual/2026/poster/151876	included	对扩散解码优先修正局部风险状态。
+151750	CURE: Coupled User-Grouped Reinforcement Learning for Cross-Domain Recommendation with Non-Overlapping Users	https://neurips.cc/virtual/2026/poster/151750	included	以同用户的可靠域内信号校准跨域伪标签更新。
+155870	CURE: Visual Reprogramming of Vision-Language Models under Limited Supervision	https://neurips.cc/virtual/2026/poster/155870	included	按校准后置信边际使用无标签样本。
+154369	Curriculum Learning for Safety Alignment	https://neurips.cc/virtual/2026/poster/154369	included	偏好优化时按难度逐步采样并更新参考模型。
+153849	Curriculum Multiple Shooting for Robust Training of Neural and Universal Differential Equations	https://neurips.cc/virtual/2026/poster/153849	included	神经微分方程训练合用课程与分段射击。
+156100	Curriculum proof repair with learned counterexamples	https://neurips.cc/virtual/2026/poster/156100	included	按不变量依赖顺序训练证明失败诊断。
+150081	Curvature Beyond Positivity: Greedy Guarantees for Arbitrary Submodular Functions	https://neurips.cc/virtual/2026/poster/150081	included	判断含负值的次模目标能否使用贪心。
+154986	Curvature-Dependent Lower Bounds for Frank-Wolfe	https://neurips.cc/virtual/2026/poster/154986	included	区分可行域曲率带来的加速与所用步长规则的极限。
+153902	Curvature-Dependent Lower Bounds for Riemannian Online Convex Optimization	https://neurips.cc/virtual/2026/poster/153902	included	在负曲率空间区分梯度反馈和完整损失反馈。
+152159	Curvature-Guided Parameter Initialization for Multi-Task Learning	https://neurips.cc/virtual/2026/poster/152159	included	对多任务训练先检查初始化敏感性，再比较梯度改造方法。
 138987	CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves	https://neurips.cc/virtual/2026/poster/138987	pending	-
 149893	CurveRL: Principled Distribution-Aware Context Reweighting for LLM Reasoning	https://neurips.cc/virtual/2026/poster/149893	pending	-
 148257	CutAttn: Discovering Cognitive Transition Layers for Efficient Long-Context Prefilling	https://neurips.cc/virtual/2026/poster/148257	pending	-
