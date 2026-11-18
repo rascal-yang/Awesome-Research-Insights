@@ -78,6 +78,7 @@
 - [固定特征DPO的偏好污染鲁棒性证书](../conferences/icml-2026/cards/5401-5500.md#yang26cn-theory-statistics) · Efficient Preference Poisoning Attack on Offline RLHF
 - [用函数复合任务约束混合注意力选型](../conferences/icml-2026/cards/5501-5600.md#ye26h-theory-statistics) · A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention
 - [只把高奖励生成加入后续上下文](../conferences/icml-2026/cards/5501-5600.md#yu26h-theory-statistics) · On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference
+- [部分反馈下注检验的推理路由](../conferences/icml-2026/cards/5601-5700.md#yu26bm-theory-statistics) · Anytime Safe PAC Efficient Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -635,6 +636,8 @@
 - [残差分支按深度缩放并联动早停](../conferences/icml-2026/cards/5501-5600.md#yu26d-theory-statistics) · Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets
 - [用对偶梯度控制选择镜像下降步长](../conferences/icml-2026/cards/5501-5600.md#yu26s-theory-statistics) · Mirror Descent Under Generalized Smoothness
 - [用维数诊断时同时计tail敏感性与信息丢失](../conferences/icml-2026/cards/5601-5700.md#yu26ap-theory-statistics) · Understanding Generalization from Embedding Dimension and Distributional Convergence
+- [按坐标历史差分的bandit变化界](../conferences/icml-2026/cards/5601-5700.md#yu26bh-theory-statistics) · Improved Dimension Dependence for Bandit Convex Optimization with Gradient Variation
+- [单调分位曲线投影与固定不对称比](../conferences/icml-2026/cards/5601-5700.md#yu26by-theory-statistics) · Conditional Quantile Adjusted Conformal Prediction for Time Series
 
 <a id="by-graph-and-recommendation"></a>
 

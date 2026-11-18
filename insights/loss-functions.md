@@ -66,6 +66,7 @@
 - [区分相对偏好拟合与绝对概率排序](../conferences/icml-2026/cards/5401-5500.md#yang26dp-loss-functions) · Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment
 - [只惩罚正确推理的高概率窗口](../conferences/icml-2026/cards/5401-5500.md#yao26j-loss-functions) · SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning
 - [按目标rank相对预测分布rank重权SFT](../conferences/icml-2026/cards/5601-5700.md#yu26bc-loss-functions) · Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning
+- [敏感度加权的任务必要性打分](../conferences/icml-2026/cards/5601-5700.md#yu26bq-loss-functions) · MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization
 
 <a id="by-computer-vision"></a>
 

@@ -368,6 +368,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models](../../conferences/icml-2026/cards/5501-5600.md#you26c-evaluation) · 中文
 - [SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark](../../conferences/icml-2026/cards/5501-5600.md#yu26b-evaluation) · 中文
 - [Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26av-evaluation) · 中文
+- [Uncovering Hidden Triggers: Backdoor Attribution in Language Models](../../conferences/icml-2026/cards/5601-5700.md#yu26bw-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -440,6 +441,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?](../../conferences/icml-2026/cards/5301-5400.md#yan26j-evaluation) · 中文
 - [Reconstructing Template-Memorized Images from Natural Prompts](../../conferences/icml-2026/cards/5501-5600.md#yarkoni26a-evaluation) · 中文
 - [Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain](../../conferences/icml-2026/cards/5601-5700.md#yu26ag-evaluation) · 中文
+- [MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](../../conferences/icml-2026/cards/5601-5700.md#yu26bn-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

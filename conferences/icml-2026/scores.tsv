@@ -5630,26 +5630,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5629	yu26bc	3	4	2	4	65		初筛，原文与先例核查待补：暂定评分依据：token SFT可比较groundtruth rank与模型分布的expected rank，而非仅看pGT或entropy，再用inverse relative indicator重权；须记录实际近似和是否detach。；边界：rank bounds不自动tight approximation/置信校准；低p可产生大weights，缺失clip/mean normalize信息待核。weight全微分与stopgrad训练方向不同，entropy不等预训prior support，实际token noise识别须独立控制。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yu26bc/yu26bc.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yu26bc/yu26bc.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yu26bc/yu26bc.pdf#page=6)	scored
 5630	yu26bd							初筛，原文与先例核查待补：缓存PDF4–5为reference-image guidance加入SDS、DiffVG control-point优化、现有Procrustes path alignment和positional约束。当前是成熟image-conditioned distillation与geometry regularization用于semantic typography，未隔离独立新神经机制，初筛排除。Procrustes点集相近不保证拓扑/无self-intersection，有限控制点关系也不足continuous曲线保证；最近vector/SDS原作和同reference资源控制待核。	rule-excluded
 5631	yu26be							初筛，原文与先例核查待补：缓存PDF4–5 RePro以DataMan quality差值、BERTScore阈值、structure-judge及length cap线性组合reward训练常规GRPO rephraser；当前是成熟quality/faithfulness过滤和RL后训迁到web recycling。已有同token预训结果可说明该组合实用，但尚未隔离独立新规则或分布性失败规律，初筛排除。相较70B prompting的1B参数不是总算量比较；reward model/structure judge成本、近例faithful rephrasing与数据复用影响待核。	rule-excluded
-5632	yu26bf							待原文复核评分	pending
-5633	yu26bg							待原文复核评分	pending
-5634	yu26bh							待原文复核评分	pending
-5635	yu26bi							待原文复核评分	pending
-5636	yu26bj							待原文复核评分	pending
-5637	yu26bk							待原文复核评分	pending
-5638	yu26bl							待原文复核评分	pending
-5639	yu26bm							待原文复核评分	pending
-5640	yu26bn							待原文复核评分	pending
-5641	yu26bo							待原文复核评分	pending
-5642	yu26bp							待原文复核评分	pending
-5643	yu26bq							待原文复核评分	pending
-5644	yu26br							待原文复核评分	pending
-5645	yu26bs							待原文复核评分	pending
-5646	yu26bt							待原文复核评分	pending
-5647	yu26bu							待原文复核评分	pending
-5648	yu26bv							待原文复核评分	pending
-5649	yu26bw							待原文复核评分	pending
-5650	yu26bx							待原文复核评分	pending
-5651	yu26by							待原文复核评分	pending
+5632	yu26bf	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按双隐状态记忆与按需注入，最近方法差异见baseline且待核；复用5：视觉多agent协作可把perception/thinking隐状态分库压缩，并在持续高entropy片段按需查询；应把latent读写与额外训练成本算入总成本。 可用3受modelagnostic不等跨异构backbone latent可直接交换，隐状态坐标/维数对齐待核。entropy非真实epistemic信号，式8长窗均值比近期短窗阈值可偏向已下降阶段；token节省非等FLOPs/延迟，scalingwall非普遍指数定律。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5633	yu26bg							初筛，原文与先例核查待补：现有PDF第3–4/6页以sentenceembeddingcos匹配logicalnexus，用Fscore、相似分布差和novelty作logicality代理，再按分数筛选蒸馏或用teacher按给定nexus改写SFT。当前未分离超出成熟语义匹配评分、质量过滤/CoT蒸馏的独立逻辑机制；embedding相似不认证科学推理有效或因果连接，80k/40k不同训练量也限制logicality归因，暂按评测rubric与数据流程排除。	rule-excluded
+5634	yu26bh	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按按坐标历史差分的bandit变化界，最近方法差异见baseline且待核；复用5：仅能两点查询的光滑凸在线优化可保留上次同坐标导数作optimism；强凸时改用确定1/(λt)步长，降低随机步长与估计器耦合。 可用3受需平滑、有界域及探索点可行，未知VT调参、常数/对数退化与dimensiondependentnorm待核；variation是全函数梯度变化而非观测loss小。界改进不自动意味着墙钟更快或每轮更少查询。 独特4暂定，全库替代性待统一核查；PDF第3/4/6页。	scored
+5635	yu26bi	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按冻结或适配专家的双层mask选择，最近方法差异见baseline且待核；复用5：持续MoE训练可在冻结旧专家与可训练clone之间学mask，以replay及CKA约束选择适配位置；容量扩张声明需和最终保留专家数量核对。 可用3受p6finalization逐位置只保old或new，按字面是替换而非同时新增，和参数扩容量统计关系待核。CKA高只保二阶几何非函数等价，flatness依重参数化；bilevelgradient近似/heldoutouter数据与额外supernet训练成本待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5636	yu26bj							初筛，原文与先例核查待补：现有PDF第4–5/6–7页主要新增为curvaturegate控制Mobius正scalar径向膨胀后，立即Log0映回并LayerNorm。按理想映射Log0(s⊗z)=s Log0(z)，正scalar又被LayerNorm近乎抵消；因此所称curvature-aware径向增量按当前公式未独立生效。epsilon/clamp或实现顺序可能例外需统一核，不把hyperbolic老层或S3DIS高分自动算新机制；暂排而非据主题排除。	rule-excluded
+5637	yu26bk							初筛，原文与先例核查待补：现有PDF第3–4/6页PTR是templatepool→MLP→sigmoid spatialgate，CEC为现成文字encoder feature校准，AIE按运动窗口稳定预测。当前未显示超出成熟templatecondition动态gate、双branchfeaturefusion和motionprior的新独立算子；新scene-textSOT任务数据与AUC提升不单独成立，按专用tracking集成暂排，未读AIE完整形式待统一核。	rule-excluded
+5638	yu26bl	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按二值残差分解的非对称KV检索，最近方法差异见baseline且待核；复用5：稀疏attention可将key做二值rank1残差分解，而query保持带幅值量化的非对称投影，以bitwise近似点积排序；需保留高重建误差key作保险。 可用4受sign单次randomprojection不是精确最大主成分，无谱gap不保证高概率主方向；P非正交，重建误差小不保证topattention recall。OPC额外数据、prefill分解/onlinekey更新/bitpacking总成本和MagicPIG非等预算待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5639	yu26bm	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按部分反馈下注检验的推理路由，最近方法差异见baseline且待核；复用5：在线fast/slow路由可保正概率抽检，用IPS损失构eprocess再放宽uncertainty阈值；非平稳流须改用多阈值校正且保证仅针对加权累计风险。 可用4受风险是对slow输出的不一致非groundtruth准确率，slow也会错；非平稳Theorem5.1只给bet-weighted累计conditionalrisk，非逐时风险。实验建议沿iid式7不自动承继式12非平稳保证；效率O(logT)是quadraticsurrogate regret非最优阈值收敛证明。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5640	yu26bn	3	4	3	3	66		初筛，原文与先例核查待补：新增3暂按时间注意力低秩与运动衰退的诊断，最近方法差异见baseline且待核；复用4：视频扩散鲁棒性评测可将时间attention谱退化与opticalflow/dynamicdegree联合监测，区别运动抑制和单帧画质破坏；局部rank1只认证该attention输出时间相同。 可用3受rank1 rowstochastic A使AV同row是充分条件，不是整生成器输出静态的充要条件；residual、位置/空间路径可保留motion。nucnorm低不自动rank1，uniformattention和values/多层作用待核；保持白盒诊断范围。 独特3暂定，全库替代性待统一核查；PDF第3/4/6/7页。	scored
+5641	yu26bo	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按return方差与ensemble分歧的自适应悲观项，最近方法差异见baseline且待核；复用5：distributionalactorcritic可把ensemblemean分歧与return方差分开，再用onpolicy偏差反馈调节后者的critic悲观权重；actor另取optimism防止探索受抑。 可用3受lawtotalvariance中returnvariance/n到Qvariance需有效独立样本/估计假设，β不等已估n；LCB/UCB无校准置信覆盖保证。onpolicyMC额外环境代价、β只降反馈的行为与ensemblecompute待核；非真实物理安全保证。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5642	yu26bp	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按随机子空间补投影的压缩扩张层，最近方法差异见baseline且待核；复用5：MCR2启发网络可用随机低秩range补投影显式分开feature扩张和subspace压缩；必须将sketchedrange与精确columnspace区分，否则对自身列的补投影为零。 可用3受r<rankZ时Q仅sketch子空间非完整range；若取完整range则(I−QQᵀ)Z=0，不能称精确零空间梯度实现。α可能负、随机Cholesky可能illconditioned，codingrate不保证逐层单调；membership图不是语义分割准确率认证。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5643	yu26bq	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按敏感度加权的任务必要性打分，最近方法差异见baseline且待核；复用5：远端UIagent前可本地预测敏感度与任务必要性，对高敏感低必要节点加权惩罚necessity误差，再保留/抽象/删除；效用代理需补真实任务成功验证。 可用3受recall与tokenweightedTISL不等端到端成功率或真实隐私泄漏，placeholder残余比例是评测设定。tree级train/test隔离待核，合成字段可易学；honestbutcuriousremote假设，不覆盖promptinjection/本地被攻陷，非DP。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6页。	scored
+5644	yu26br	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按同种子分支与分阶段优势的设计RL，最近方法差异见baseline且待核；复用5：迭代设计RL可分别归一化draft绝对质量与同一draft分支的refinement相对改进，只更新对应阶段动作，减少初始质量混淆。 可用4受同seed只隔离起稿差异，refinement各turn仍共享终态reward非精确逐步credit；judge可能rewardhack且两个stage尺度经std改变权重。零rewardvariance处理、分支采样训练成本与endtoend同budget待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5645	yu26bs	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按为adapter塑形的投影量化，最近方法差异见baseline且待核；复用5：量化后要接LoRA时可优先减低秩不可修正的activation残差，交替SVD投影与补空间PTQ，再做covarianceawareadapter初始化；不得把代理上界优势写成真实taskloss严格支配。 可用4受Theorem5.2比较constructedseparableupperbound，需ra≥rd+taskrank及谱集中假设，低上界不证明真实jointLoRAloss更小或必保plasticity。calibration子空间到downstream迁移、singularcov逆平方根稳定与PTQ交替globaloptimum待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5646	yu26bt							初筛，原文与先例核查待补：现有PDF第3–4/6页为HTMLsource editing工具agent、templateRAG、renderreviewrefine与edit-triggeredcontextcompression；数据是Word导出HTML模板及fuzz错误评测。当前未分离超出成熟codingagent迭代编辑/局部压缩/视觉review的新决策规则或学习目标，按文档工具工作流和新benchmark暂排。	rule-excluded
+5647	yu26bu							初筛，原文与先例核查待补：现有PDF第3–4/6页把news作为latent单driver，用冻结LLMposterior softlabel蒸馏priorattributor并weightedMSE训练transition，forecast为persistence加eventweight期望move。作者承认这是posterior-guideddistillation非收紧ELBO。当前未见超出成熟latentmixture/teacherattribution/回归的独立算法增量；marketprice也不等社会belief或可识别intervention，按应用及数据工作流暂排。	rule-excluded
+5648	yu26bv							初筛，原文与先例核查待补：现有PDF第3–5/6页构造多positive/negative解释，先positiveSFT后错误辨别修正训练，MCA为bottomkpositive/topknegative的标准hardtripletmarginloss。当前未隔离超出成熟rationaleaugmentation、纠错课程和hardminingtriplet的新目标，称UnderstandRethinkCorrect并不建立新机制；按已有训练规则在VQA的应用暂排。	rule-excluded
+5649	yu26bw	3	4	3	3	66		初筛，原文与先例核查待补：新增3暂按后门组件稀疏但需要联合移除，最近方法差异见baseline且待核；复用4：后门审计应比较小组件集联合移除与单组件影响，不能以probe可分或一个head的输出概率变化断言完成修复；同时测干净能力与未见触发条件。 可用3受跨样本meanactivation不消除全部语义混杂，干预有outofdistribution效应；probability归因和生成ASR不等。已知poisonpaired样本与whitebox访问限制部署，干净能力损失及未见trigger覆盖必须核，不视作通用消毒保证。 独特3暂定，全库替代性待统一核查；PDF第3/4/6/7页。	scored
+5650	yu26bx	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按冻结与微调双视图的稳健分解，最近方法差异见baseline且待核；复用5：有源域混杂的微调可保留冻结模型作第二视图，学稳定共同表示并将低层局部线索边际化；两视图相同则失去分解信号，应与简单权重平均同台比较。 可用3受SCM是识别scaffold非真实textDGP，C只是proxy非恢复groundtruthcause；算法是否满足两视图独立变化/mediation假设待核。平均Φ是所设干预目标，不保证任何testdistribution最优，frozen训练额外内存/梯度成本待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5651	yu26by	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按单调分位曲线投影与固定不对称比，最近方法差异见baseline且待核；复用5：时序区间可将多level条件分位估计投影到低阶CF曲线并加单调约束，再固定跨置信度的左右tail分配比，避免各α独立最短区间互相交叉。 可用4受conditionalcoverage仅渐近，需中心概率区间、smoothness、design良态与投影一致；不认证任意dependence有限样本。gridmonotonic到全curve的约束实现、CV对noisybase而非truth的偏好、极端tail外推与MSE gain条件待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
 5652	yuan26a							待原文复核评分	pending
 5653	yuan26b							待原文复核评分	pending
 5654	yuan26c							待原文复核评分	pending

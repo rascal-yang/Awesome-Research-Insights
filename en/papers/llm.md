@@ -179,6 +179,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26dp-loss-functions"></a>[Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dp)
 - <a id="yao26j-loss-functions"></a>[SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26j)
 - <a id="yu26bc-loss-functions"></a>[Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bc)
+- <a id="yu26bq-loss-functions"></a>[MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bq)
 
 <a id="by-optimization"></a>
 
@@ -283,6 +284,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26bm-optimization"></a>[Orthogonal Model Merging](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bm)
 - <a id="yang26bw-optimization"></a>[Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bw)
 - <a id="yu26ah-optimization"></a>[SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ah)
+- <a id="yu26bs-optimization"></a>[ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bs)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -471,6 +473,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26az-reinforcement-learning"></a>[Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26az)
 - <a id="yao26a-reinforcement-learning"></a>[Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26a)
 - <a id="ye26j-reinforcement-learning"></a>[UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26j)
+- <a id="yu26br-reinforcement-learning"></a>[PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26br)
 
 <a id="by-training-strategies"></a>
 
@@ -627,6 +630,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26bo-training-strategies"></a>[AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bo)
 - <a id="yoon26d-training-strategies"></a>[SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification](../../conferences/icml-2026/cards/5501-5600.md#paper-yoon26d)
 - <a id="you26b-training-strategies"></a>[RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs](../../conferences/icml-2026/cards/5501-5600.md#paper-you26b)
+- <a id="yu26bi-training-strategies"></a>[Efficient Bilevel Optimization for CKA-Guided MoE Upcycling](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bi)
 
 <a id="by-data-strategies"></a>
 
@@ -1071,6 +1075,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26ds-inference"></a>[ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ds)
 - <a id="ye26r-inference"></a>[Select to Think: Unlocking SLM Potential with Local Sufficiency](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26r)
 - <a id="yu26v-inference"></a>[Multi-Adapter Representation Interventions via Energy Calibration](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26v)
+- <a id="yu26bl-inference"></a>[Training-Free Hashing-Based Attention via Binary Principal Components](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bl)
 
 <a id="by-representation-learning"></a>
 
@@ -1454,6 +1459,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="you26c-evaluation"></a>[LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models](../../conferences/icml-2026/cards/5501-5600.md#paper-you26c)
 - <a id="yu26b-evaluation"></a>[SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26b)
 - <a id="yu26av-evaluation"></a>[Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26av)
+- <a id="yu26bw-evaluation"></a>[Uncovering Hidden Triggers: Backdoor Attribution in Language Models](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bw)
 
 <a id="by-theory-statistics"></a>
 
@@ -1524,4 +1530,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26cn-theory-statistics"></a>[Efficient Preference Poisoning Attack on Offline RLHF](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cn)
 - <a id="ye26h-theory-statistics"></a>[A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26h)
 - <a id="yu26h-theory-statistics"></a>[On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26h)
+- <a id="yu26bm-theory-statistics"></a>[Anytime Safe PAC Efficient Reasoning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bm)
 <!-- classification:end -->

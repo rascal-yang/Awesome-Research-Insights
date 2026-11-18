@@ -121,6 +121,7 @@ Reusable components and local changes to model inputs or connections.
 - [Training-Free Vector Quantization via Gaussian VAEs](../../conferences/icml-2026/cards/5201-5300.md#xu26cn-modules) · 中文
 - [PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](../../conferences/icml-2026/cards/5501-5600.md#yin26a-modules) · 中文
 - [SF-Mamba: Rethinking State Space Model for Vision](../../conferences/icml-2026/cards/5501-5600.md#yoshimura26a-modules) · 中文
+- [PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$](../../conferences/icml-2026/cards/5601-5700.md#yu26bp-modules) · 中文
 
 <a id="by-nlp"></a>
 
@@ -187,6 +188,7 @@ Reusable components and local changes to model inputs or connections.
 - [TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing](../../conferences/icml-2026/cards/5201-5300.md#xu26bi-modules) · 中文
 - [Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation](../../conferences/icml-2026/cards/5201-5300.md#xu26bt-modules) · 中文
 - [Locate then Correct: Debiasing Attention Heads in CLIP](../../conferences/icml-2026/cards/5501-5600.md#yeo26a-modules) · 中文
+- [Dual Latent Memory for Visual Multi-agent System](../../conferences/icml-2026/cards/5601-5700.md#yu26bf-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 

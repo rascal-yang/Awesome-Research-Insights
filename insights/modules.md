@@ -121,6 +121,7 @@
 - [按维度KL预算约束的随机码本量化](../conferences/icml-2026/cards/5201-5300.md#xu26cn-modules) · Training-Free Vector Quantization via Gaussian VAEs
 - [全景球面距离与轨迹条件注意力](../conferences/icml-2026/cards/5501-5600.md#yin26a-modules) · PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion
 - [单扫描交换摘要并折叠短序列batch](../conferences/icml-2026/cards/5501-5600.md#yoshimura26a-modules) · SF-Mamba: Rethinking State Space Model for Vision
+- [随机子空间补投影的压缩扩张层](../conferences/icml-2026/cards/5601-5700.md#yu26bp-modules) · PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$
 
 <a id="by-nlp"></a>
 
@@ -187,6 +188,7 @@
 - [CP编辑因子兼作专家路由](../conferences/icml-2026/cards/5201-5300.md#xu26bi-modules) · TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing
 - [分离对齐与反对齐的跨模态补偿](../conferences/icml-2026/cards/5201-5300.md#xu26bt-modules) · Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation
 - [按反相关群对比定位并修正CLIP头](../conferences/icml-2026/cards/5501-5600.md#yeo26a-modules) · Locate then Correct: Debiasing Attention Heads in CLIP
+- [双隐状态记忆与按需注入](../conferences/icml-2026/cards/5601-5700.md#yu26bf-modules) · Dual Latent Memory for Visual Multi-agent System
 
 <a id="by-ml-foundations"></a>
 

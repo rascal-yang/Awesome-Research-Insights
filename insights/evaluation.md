@@ -368,6 +368,7 @@
 - [用控制共现频率检验输入证据服从](../conferences/icml-2026/cards/5501-5600.md#you26c-evaluation) · LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models
 - [用覆盖和语义变异检验通过补丁的可靠性](../conferences/icml-2026/cards/5501-5600.md#yu26b-evaluation) · SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark
 - [答案奖励外另测推理截断敏感性与独立可读性](../conferences/icml-2026/cards/5601-5700.md#yu26av-evaluation) · Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning
+- [后门组件稀疏但需要联合移除](../conferences/icml-2026/cards/5601-5700.md#yu26bw-evaluation) · Uncovering Hidden Triggers: Backdoor Attribution in Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -440,6 +441,7 @@
 - [按下游任务分配像素预训练算力](../conferences/icml-2026/cards/5301-5400.md#yan26j-evaluation) · Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?
 - [隐私审计应检测模板结构而非只查逐像素拷贝](../conferences/icml-2026/cards/5501-5600.md#yarkoni26a-evaluation) · Reconstructing Template-Memorized Images from Natural Prompts
 - [用局部而非全局维度诊断表示对齐](../conferences/icml-2026/cards/5601-5700.md#yu26ag-evaluation) · Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain
+- [时间注意力低秩与运动衰退的诊断](../conferences/icml-2026/cards/5601-5700.md#yu26bn-evaluation) · MEDUSA: Motion Elimination in Diffusion Using Spectral Attack
 
 <a id="by-nlp"></a>
 

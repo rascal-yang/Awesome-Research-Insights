@@ -164,6 +164,7 @@ Training schedules, curricula, and task or stage composition.
 - [AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure](../../conferences/icml-2026/cards/5401-5500.md#yang26bo-training-strategies) · 中文
 - [SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification](../../conferences/icml-2026/cards/5501-5600.md#yoon26d-training-strategies) · 中文
 - [RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs](../../conferences/icml-2026/cards/5501-5600.md#you26b-training-strategies) · 中文
+- [Efficient Bilevel Optimization for CKA-Guided MoE Upcycling](../../conferences/icml-2026/cards/5601-5700.md#yu26bi-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -256,6 +257,7 @@ Training schedules, curricula, and task or stage composition.
 - [Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · 中文
 - [Post-Training Language Models for Crosslingual Consistency](../../conferences/icml-2026/cards/2801-2900.md#liu26dd-training-strategies) · 中文
 - [mmBERT: A Modern Multilingual Encoder with Annealed Language Learning](../../conferences/icml-2026/cards/3201-3300.md#marone26a-training-strategies) · 中文
+- [Causal Fine-Tuning under Latent Confounded Shift](../../conferences/icml-2026/cards/5601-5700.md#yu26bx-training-strategies) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

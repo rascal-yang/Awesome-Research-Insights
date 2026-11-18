@@ -78,6 +78,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Efficient Preference Poisoning Attack on Offline RLHF](../../conferences/icml-2026/cards/5401-5500.md#yang26cn-theory-statistics) · 中文
 - [A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention](../../conferences/icml-2026/cards/5501-5600.md#ye26h-theory-statistics) · 中文
 - [On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference](../../conferences/icml-2026/cards/5501-5600.md#yu26h-theory-statistics) · 中文
+- [Anytime Safe PAC Efficient Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26bm-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -635,6 +636,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets](../../conferences/icml-2026/cards/5501-5600.md#yu26d-theory-statistics) · 中文
 - [Mirror Descent Under Generalized Smoothness](../../conferences/icml-2026/cards/5501-5600.md#yu26s-theory-statistics) · 中文
 - [Understanding Generalization from Embedding Dimension and Distributional Convergence](../../conferences/icml-2026/cards/5601-5700.md#yu26ap-theory-statistics) · 中文
+- [Improved Dimension Dependence for Bandit Convex Optimization with Gradient Variation](../../conferences/icml-2026/cards/5601-5700.md#yu26bh-theory-statistics) · 中文
+- [Conditional Quantile Adjusted Conformal Prediction for Time Series](../../conferences/icml-2026/cards/5601-5700.md#yu26by-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

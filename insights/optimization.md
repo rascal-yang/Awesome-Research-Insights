@@ -112,6 +112,7 @@
 - [Cayley空间的范数补偿模型合并](../conferences/icml-2026/cards/5401-5500.md#yang26bm-optimization) · Orthogonal Model Merging
 - [线性probe选子空间的偏好SAM](../conferences/icml-2026/cards/5401-5500.md#yang26bw-optimization) · Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control
 - [扩宽时只重置新通道状态并独立重热身](../conferences/icml-2026/cards/5601-5700.md#yu26ah-optimization) · SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning
+- [为adapter塑形的投影量化](../conferences/icml-2026/cards/5601-5700.md#yu26bs-optimization) · ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression
 
 <a id="by-computer-vision"></a>
 
@@ -170,6 +171,7 @@
 - [有限步优势预条件求解](../conferences/icml-2026/cards/4301-4400.md#sun26ak-optimization) · Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation
 - [离线联邦的值尺度与行为偏差重权](../conferences/icml-2026/cards/5201-5300.md#xu26e-optimization) · Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning
 - [高精度矩阵博弈切换半光滑Newton](../conferences/icml-2026/cards/5301-5400.md#yang26o-optimization) · A Direct Second-Order Method for Solving Two-Player Zero-Sum Games
+- [return方差与ensemble分歧的自适应悲观项](../conferences/icml-2026/cards/5601-5700.md#yu26bo-optimization) · Taming Aleatoric Impulse in Off-Policy Reinforcement Learning
 
 <a id="by-robotics"></a>
 

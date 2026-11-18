@@ -136,6 +136,7 @@
 - <a id="xu26cn-modules"></a>[Training-Free Vector Quantization via Gaussian VAEs](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cn)
 - <a id="yin26a-modules"></a>[PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion](../conferences/icml-2026/cards/5501-5600.md#paper-yin26a)
 - <a id="yoshimura26a-modules"></a>[SF-Mamba: Rethinking State Space Model for Vision](../conferences/icml-2026/cards/5501-5600.md#paper-yoshimura26a)
+- <a id="yu26bp-modules"></a>[PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bp)
 
 <a id="by-loss-functions"></a>
 
@@ -642,6 +643,7 @@
 - <a id="yan26j-evaluation"></a>[Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?](../conferences/icml-2026/cards/5301-5400.md#paper-yan26j)
 - <a id="yarkoni26a-evaluation"></a>[Reconstructing Template-Memorized Images from Natural Prompts](../conferences/icml-2026/cards/5501-5600.md#paper-yarkoni26a)
 - <a id="yu26ag-evaluation"></a>[Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ag)
+- <a id="yu26bn-evaluation"></a>[MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bn)
 
 <a id="by-theory-statistics"></a>
 

@@ -1255,4 +1255,6 @@
 - <a id="yu26d-theory-statistics"></a>[Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets](../conferences/icml-2026/cards/5501-5600.md#paper-yu26d)
 - <a id="yu26s-theory-statistics"></a>[Mirror Descent Under Generalized Smoothness](../conferences/icml-2026/cards/5501-5600.md#paper-yu26s)
 - <a id="yu26ap-theory-statistics"></a>[Understanding Generalization from Embedding Dimension and Distributional Convergence](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ap)
+- <a id="yu26bh-theory-statistics"></a>[Improved Dimension Dependence for Bandit Convex Optimization with Gradient Variation](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bh)
+- <a id="yu26by-theory-statistics"></a>[Conditional Quantile Adjusted Conformal Prediction for Time Series](../conferences/icml-2026/cards/5601-5700.md#paper-yu26by)
 <!-- classification:end -->

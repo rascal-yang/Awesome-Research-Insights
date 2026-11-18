@@ -164,6 +164,7 @@
 - [语义边效用代理驱动的廉价剪图](../conferences/icml-2026/cards/5401-5500.md#yang26bo-training-strategies) · AgentTailor: A Semantic-Aware LLM-Based Multi-Agent System with Actor-Critic Structure
 - [由target自监督标记可放宽的draft token](../conferences/icml-2026/cards/5501-5600.md#yoon26d-training-strategies) · SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification
 - [用单共享浮点锚逐级派生二值残差路径](../conferences/icml-2026/cards/5501-5600.md#you26b-training-strategies) · RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs
+- [冻结或适配专家的双层mask选择](../conferences/icml-2026/cards/5601-5700.md#yu26bi-training-strategies) · Efficient Bilevel Optimization for CKA-Guided MoE Upcycling
 
 <a id="by-computer-vision"></a>
 
@@ -256,6 +257,7 @@
 - [用同语义跨时间的文档构造检索偏好](../conferences/icml-2026/cards/2101-2200.md#kim26bm-training-strategies) · Temporal Preference Optimization for Unsupervised Retrieval
 - [跨语种回答分布的一致性对齐](../conferences/icml-2026/cards/2801-2900.md#liu26dd-training-strategies) · Post-Training Language Models for Crosslingual Consistency
 - [在学习率衰减期引入稀有语种以减轻重复](../conferences/icml-2026/cards/3201-3300.md#marone26a-training-strategies) · mmBERT: A Modern Multilingual Encoder with Annealed Language Learning
+- [冻结与微调双视图的稳健分解](../conferences/icml-2026/cards/5601-5700.md#yu26bx-training-strategies) · Causal Fine-Tuning under Latent Confounded Shift
 
 <a id="by-reinforcement-learning"></a>
 

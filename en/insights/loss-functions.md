@@ -66,6 +66,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](../../conferences/icml-2026/cards/5401-5500.md#yang26dp-loss-functions) · 中文
 - [SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning](../../conferences/icml-2026/cards/5401-5500.md#yao26j-loss-functions) · 中文
 - [Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning](../../conferences/icml-2026/cards/5601-5700.md#yu26bc-loss-functions) · 中文
+- [MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](../../conferences/icml-2026/cards/5601-5700.md#yu26bq-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

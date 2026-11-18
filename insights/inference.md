@@ -363,6 +363,7 @@
 - [指数位分拆压缩与状态感知调度](../conferences/icml-2026/cards/5401-5500.md#yang26ds-inference) · ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling
 - [蒸馏学生候选集上的逐token选择](../conferences/icml-2026/cards/5501-5600.md#ye26r-inference) · Select to Think: Unlocking SLM Potential with Local Sufficiency
 - [用小探针传播响应决定是否施加表示干预](../conferences/icml-2026/cards/5501-5600.md#yu26v-inference) · Multi-Adapter Representation Interventions via Energy Calibration
+- [二值残差分解的非对称KV检索](../conferences/icml-2026/cards/5601-5700.md#yu26bl-inference) · Training-Free Hashing-Based Attention via Binary Principal Components
 
 <a id="by-computer-vision"></a>
 

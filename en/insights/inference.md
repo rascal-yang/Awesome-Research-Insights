@@ -363,6 +363,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling](../../conferences/icml-2026/cards/5401-5500.md#yang26ds-inference) · 中文
 - [Select to Think: Unlocking SLM Potential with Local Sufficiency](../../conferences/icml-2026/cards/5501-5600.md#ye26r-inference) · 中文
 - [Multi-Adapter Representation Interventions via Energy Calibration](../../conferences/icml-2026/cards/5501-5600.md#yu26v-inference) · 中文
+- [Training-Free Hashing-Based Attention via Binary Principal Components](../../conferences/icml-2026/cards/5601-5700.md#yu26bl-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

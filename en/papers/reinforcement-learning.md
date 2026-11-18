@@ -76,6 +76,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="sun26ak-optimization"></a>[Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ak)
 - <a id="xu26e-optimization"></a>[Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26e)
 - <a id="yang26o-optimization"></a>[A Direct Second-Order Method for Solving Two-Player Zero-Sum Games](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26o)
+- <a id="yu26bo-optimization"></a>[Taming Aleatoric Impulse in Off-Policy Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bo)
 
 <a id="by-reinforcement-learning"></a><a id="group-relative-policy-optimization"></a>
 

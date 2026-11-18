@@ -112,6 +112,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Orthogonal Model Merging](../../conferences/icml-2026/cards/5401-5500.md#yang26bm-optimization) · 中文
 - [Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control](../../conferences/icml-2026/cards/5401-5500.md#yang26bw-optimization) · 中文
 - [SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26ah-optimization) · 中文
+- [ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression](../../conferences/icml-2026/cards/5601-5700.md#yu26bs-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -170,6 +171,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation](../../conferences/icml-2026/cards/4301-4400.md#sun26ak-optimization) · 中文
 - [Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26e-optimization) · 中文
 - [A Direct Second-Order Method for Solving Two-Player Zero-Sum Games](../../conferences/icml-2026/cards/5301-5400.md#yang26o-optimization) · 中文
+- [Taming Aleatoric Impulse in Off-Policy Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26bo-optimization) · 中文
 
 <a id="by-robotics"></a>
 

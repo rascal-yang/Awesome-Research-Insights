@@ -79,6 +79,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="xu26bi-modules"></a>[TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bi)
 - <a id="xu26bt-modules"></a>[Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bt)
 - <a id="yeo26a-modules"></a>[Locate then Correct: Debiasing Attention Heads in CLIP](../../conferences/icml-2026/cards/5501-5600.md#paper-yeo26a)
+- <a id="yu26bf-modules"></a>[Dual Latent Memory for Visual Multi-agent System](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bf)
 
 <a id="by-loss-functions"></a>
 

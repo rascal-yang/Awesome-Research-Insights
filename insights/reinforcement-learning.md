@@ -196,6 +196,7 @@
 - [随机救回clip边界外的小部分更新](../conferences/icml-2026/cards/5401-5500.md#yang26az-reinforcement-learning) · Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals
 - [连续用户请求与提前耗尽的分离奖励](../conferences/icml-2026/cards/5401-5500.md#yao26a-reinforcement-learning) · Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization
 - [用邻域边际效用训练可迁移记忆](../conferences/icml-2026/cards/5501-5600.md#ye26j-reinforcement-learning) · UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory
+- [同种子分支与分阶段优势的设计RL](../conferences/icml-2026/cards/5601-5700.md#yu26br-reinforcement-learning) · PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 

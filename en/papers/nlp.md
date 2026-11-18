@@ -62,6 +62,7 @@ Language processing methods, including structured prediction and retrieval.
 - <a id="kim26bm-training-strategies"></a>[Temporal Preference Optimization for Unsupervised Retrieval](../../conferences/icml-2026/cards/2101-2200.md#paper-kim26bm)
 - <a id="liu26dd-training-strategies"></a>[Post-Training Language Models for Crosslingual Consistency](../../conferences/icml-2026/cards/2801-2900.md#paper-liu26dd)
 - <a id="marone26a-training-strategies"></a>[mmBERT: A Modern Multilingual Encoder with Annealed Language Learning](../../conferences/icml-2026/cards/3201-3300.md#paper-marone26a)
+- <a id="yu26bx-training-strategies"></a>[Causal Fine-Tuning under Latent Confounded Shift](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bx)
 
 <a id="by-data-strategies"></a>
 
