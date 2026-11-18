@@ -11,7 +11,7 @@ number	openreview_id	title	paper_url	reason	status
 10	cfzFrOJmKA	Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization	https://openreview.net/forum?id=cfzFrOJmKA		pending
 11	NHE9q2cz1n	RoboTTT: Context Scaling for Robot Policies	https://openreview.net/forum?id=NHE9q2cz1n	用快速权重压缩长历史并做上下文长度对照	included
 12	5XKFwWrW0v	π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities	https://openreview.net/forum?id=5XKFwWrW0v	混用低质轨迹时显式标注执行策略和质量	included
-13	f9grq4Ncx9	Memory-augmented Action-conditioned World Model for Robot Manipulation	https://openreview.net/forum?id=f9grq4Ncx9		pending
+13	f9grq4Ncx9	Memory-augmented Action-conditioned World Model for Robot Manipulation	https://openreview.net/forum?id=f9grq4Ncx9	按动态表面元素检索腕部视角历史	included
 14	FVZKpmPHV8	TEMPO: Learning Temporal Context for Dynamic Robot Manipulation	https://openreview.net/forum?id=FVZKpmPHV8	分别用场景运动和本体历史解决两类单帧歧义	included
 15	Bshs9HDDiu	World Action Models are Zero-shot Policies	https://openreview.net/forum?id=Bshs9HDDiu	联合预测视频和动作，并用实测帧更新下一步上下文	included
 16	TscNG5Wcwn	Diversity You Can Actually Measure: A Fast, Model-Free Diversity Metric for Robotics Datasets	https://openreview.net/forum?id=TscNG5Wcwn	固定示范预算下按轨迹核熵选样	included
@@ -22,7 +22,7 @@ number	openreview_id	title	paper_url	reason	status
 21	HbuX1Fe8bl	Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction	https://openreview.net/forum?id=HbuX1Fe8bl	采样时给已去噪片段保留利用后续上下文修订的机会	included
 22	OckqYiY2QM	EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference	https://openreview.net/forum?id=OckqYiY2QM	用未来状态预测对齐异步动作起点并动态分配调用预算	included
 23	QBAA8svAIK	FedGuide: Diffusion Prior Alignment and Value Baseline Guidance for Heterogeneous Federated Reinforcement Learning	https://openreview.net/forum?id=QBAA8svAIK		pending
-24	v24DO7JOuN	MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models	https://openreview.net/forum?id=v24DO7JOuN		pending
+24	v24DO7JOuN	MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models	https://openreview.net/forum?id=v24DO7JOuN	用交互历史显式路由到不同物理运动专家	included
 25	FFB8qNJwV2	REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models	https://openreview.net/forum?id=FFB8qNJwV2	跨观测修订未执行动作块兼顾连续性与反应	included
 26	WvR13cRtRf	TARC: Time-Adaptive Robotic Control	https://openreview.net/forum?id=WvR13cRtRf	将动作保持时间纳入策略输出并约束控制切换次数	included
 27	6T2ebANGy5	Targeting World Models to Compromise Robot Learning Pipelines	https://openreview.net/forum?id=6T2ebANGy5		pending
