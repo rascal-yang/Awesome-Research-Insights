@@ -1212,5 +1212,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [MVPISplat: Multi-View Photometric Inconsistency for Defending 3D Gaussian Splatting Attacks](../../conferences/neurips-2026/cards-0008.md#paper-153526)
 - [NDPP-Grasp: Non-Differentiable Physical Plausibility Constraint-Guided Task-Oriented Dexterous Grasp Generation](../../conferences/neurips-2026/cards-0008.md#paper-154479)
 - [Neural Bayesian Filtering](../../conferences/neurips-2026/cards-0008.md#paper-154508)
+- [Neuro-Inspired Inverse Learning for Planning and Control](../../conferences/neurips-2026/cards-0009.md#paper-154231)
+- [NeuroSynTheos: Learning to accelerate counterexample-guided reactive synthesis modulo theories](../../conferences/neurips-2026/cards-0009.md#paper-150943)
+- [NorSA: Accelerating LLM Decoding via Normalized Sparse Activation](../../conferences/neurips-2026/cards-0009.md#paper-154390)
+- [Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer](../../conferences/neurips-2026/cards-0009.md#paper-151378)
+- [NP-LoRA: Null Space Projection for Subject-Style LoRA Fusion](../../conferences/neurips-2026/cards-0009.md#paper-155156)
+- [NPUsper: Eliminating Redundant Computation for Real-Time Whisper on Mobile NPUs](../../conferences/neurips-2026/cards-0009.md#paper-152954)
 
 <!-- conference-classification:end -->

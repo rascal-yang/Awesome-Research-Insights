@@ -320,5 +320,11 @@ Graph models, knowledge graphs, and recommender systems.
 - [Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems](../../conferences/neurips-2026/cards-0008.md#paper-149537)
 - [Multilateral Resistance-Guided Graph Message Passing for Trade Flow Prediction](../../conferences/neurips-2026/cards-0008.md#paper-154787)
 - [Network Learning with Semi-relaxed Gromov-Wasserstein](../../conferences/neurips-2026/cards-0008.md#paper-155105)
+- [Neural Structural Reasoner: A Brain-inspired Architecture for Reasoning over Structured Knowledge](../../conferences/neurips-2026/cards-0009.md#paper-149065)
+- [NGDB-Zoo: Towards Efficient and Scalable Neural Graph Databases Training](../../conferences/neurips-2026/cards-0009.md#paper-154653)
+- [Noisy isomorphism: Robust expressivity of GNNs under structural perturbation](../../conferences/neurips-2026/cards-0009.md#paper-148301)
+- [Normalized Friedkin–Johnsen Opinion Dynamics](../../conferences/neurips-2026/cards-0009.md#paper-155654)
+- [Not Just Oversmoothing: Detecting Echo Chamber Effect in Graph Neural Networks](../../conferences/neurips-2026/cards-0009.md#paper-153822)
+- [No Triangulation Without Representation: Generalization in Topological Deep Learning](../../conferences/neurips-2026/cards-0009.md#paper-139061)
 
 <!-- conference-classification:end -->

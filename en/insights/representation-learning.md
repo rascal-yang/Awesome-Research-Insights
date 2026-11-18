@@ -541,5 +541,11 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Mutual Predictability Decomposition: Learning Interpretable Cross-Set Structure via Bi-Directional Prediction](../../conferences/neurips-2026/cards-0008.md#paper-148650)
 - [MvFFN: Multi-view Floor-Plan Feed-Forward Network for Unposed Wide-Baseline Panorama Layout Reconstruction](../../conferences/neurips-2026/cards-0008.md#paper-153655)
 - [Neural-DISCO: Source-Conditioned Counterfactual Editing of Neural Population Activity](../../conferences/neurips-2026/cards-0008.md#paper-151844)
+- [NeuroRVQ: Multi-Scale Biosignal Tokenization for Generative Foundation Models](../../conferences/neurips-2026/cards-0009.md#paper-149661)
+- [NIKA: Efficient Neural Video Representation via Structured Latent Diversity](../../conferences/neurips-2026/cards-0009.md#paper-153730)
+- [NIV: Neural Axis Variations for Variable Font Generation](../../conferences/neurips-2026/cards-0009.md#paper-154266)
+- [NOCE-Net: Representation Learning for Battery Operational Context via Nested Sequence Modelling](../../conferences/neurips-2026/cards-0009.md#paper-154156)
+- [NOFE – Neural Operator Function Embedding](../../conferences/neurips-2026/cards-0009.md#paper-149024)
+- [NoTVLA: Semantics-Preserving Robot Adaptation via Narrative Action Interfaces](../../conferences/neurips-2026/cards-0009.md#paper-151525)
 
 <!-- conference-classification:end -->

@@ -781,5 +781,11 @@ Learning across modalities such as images, text, audio, and video.
 - [Multi-view Relational Distillation for Spatial Reasoning with Vision-Language Models](../../conferences/neurips-2026/cards-0008.md#paper-152091)
 - [MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation](../../conferences/neurips-2026/cards-0008.md#paper-154839)
 - [Native Audio-Visual Alignment for Generation](../../conferences/neurips-2026/cards-0008.md#paper-148987)
+- [Neurosymbolic Object-Centric Learning with Distant Supervision](../../conferences/neurips-2026/cards-0009.md#paper-151324)
+- [No Free Alignment: Observability-Aware Alignment for Multimodal Heterogeneous Learning](../../conferences/neurips-2026/cards-0009.md#paper-153751)
+- [NORA: Evaluating Grounded Reasonableness in Visual First-person Normative Action Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-139532)
+- [Not All Tokens Should Be Treated Equally: Context Credits Reassignment](../../conferences/neurips-2026/cards-0009.md#paper-152065)
+- [Not Another Text Benchmark: Putting the “Visual" Back in Visual Question Answering for Large Video Models](../../conferences/neurips-2026/cards-0009.md#paper-139439)
+- [Not Every Image Teaches Vision: Visual-Necessity-Gated Continual Learning for Multimodal Large Language Models](../../conferences/neurips-2026/cards-0009.md#paper-149631)
 
 <!-- conference-classification:end -->

@@ -988,5 +988,18 @@
 - [NeuralFieldManifold: Reconstruction of LFP manifold with Lag Embedding](../conferences/neurips-2026/cards-0008.md#paper-155903)
 - [Neural Networks With Dense Weights Are Not Universal Approximators](../conferences/neurips-2026/cards-0009.md#paper-148632)
 - [Neural Optimal Transport in Hilbert Spaces](../conferences/neurips-2026/cards-0009.md#paper-150584)
+- [Neural population tuning statistics as priors for multitask generalization](../conferences/neurips-2026/cards-0009.md#paper-153194)
+- [Never Go Full Batch: Stochastic TMLE for Large-Scale Debiased Inference](../conferences/neurips-2026/cards-0009.md#paper-149810)
+- [No Free Best-of-Both-Worlds Learning  in Repeated Bilateral Trade](../conferences/neurips-2026/cards-0009.md#paper-155659)
+- [Noise-Level KL Rates for Multi-Marginal Schrödinger Bridge Surrogates](../conferences/neurips-2026/cards-0009.md#paper-150634)
+- [Noisy isomorphism: Robust expressivity of GNNs under structural perturbation](../conferences/neurips-2026/cards-0009.md#paper-148301)
+- [Non-Asymptotic Best Policy Identification Guarantees in Online Reinforcement Learning](../conferences/neurips-2026/cards-0009.md#paper-155132)
+- [Nonparametric Estimation of a Factorizable Density using Diffusion Models](../conferences/neurips-2026/cards-0009.md#paper-156671)
+- [Nonparametric In-Context Learning under Growing Geometric Complexity: Minimax Optimality and Local Geometry-Adaptivity of Transformers](../conferences/neurips-2026/cards-0009.md#paper-156041)
+- [Normalized Friedkin–Johnsen Opinion Dynamics](../conferences/neurips-2026/cards-0009.md#paper-155654)
+- [Normalized SGD in the Convex Regime: First High-Probability Guarantees and Momentum Extension](../conferences/neurips-2026/cards-0009.md#paper-150821)
+- [NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting](../conferences/neurips-2026/cards-0009.md#paper-151918)
+- [Not all uncertainty is alike: volatility, stochasticity, and exploration](../conferences/neurips-2026/cards-0009.md#paper-152109)
+- [NTK Regression under dual power-law model: Deterministic Equivalents via SDE and PDE Methods](../conferences/neurips-2026/cards-0009.md#paper-151078)
 
 <!-- conference-classification:end -->

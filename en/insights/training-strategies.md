@@ -768,5 +768,16 @@ Training schedules, curricula, and task or stage composition.
 - [NestRL: A Nested Training Regime for Mutual Adaptation in Human–AI Teaming](../../conferences/neurips-2026/cards-0008.md#paper-151397)
 - [Network of Theseus (Like the ship)](../../conferences/neurips-2026/cards-0008.md#paper-151706)
 - [Neural Operator-based Curriculum Learning for Physics-Informed Neural Networks](../../conferences/neurips-2026/cards-0009.md#paper-151141)
+- [Neural‑Visual Decoding via Cognitive‑guided Adaptive Blurring and Information‑Constrained Alignment](../../conferences/neurips-2026/cards-0009.md#paper-154463)
+- [Neurosymbolic Object-Centric Learning with Distant Supervision](../../conferences/neurips-2026/cards-0009.md#paper-151324)
+- [Next Forcing: Causal World Modeling with Multi-Chunk Prediction](../../conferences/neurips-2026/cards-0009.md#paper-150055)
+- [NNCoxKL: Risk-Set Distillation from Probability-Free Prognostic Teachers for Deep Cox Models](../../conferences/neurips-2026/cards-0009.md#paper-154182)
+- [No Free Alignment: Observability-Aware Alignment for Multimodal Heterogeneous Learning](../../conferences/neurips-2026/cards-0009.md#paper-153751)
+- [Noise-Regularized Training for Learned Image Compression](../../conferences/neurips-2026/cards-0009.md#paper-152186)
+- [Nonlinear Direct Feedback Alignment for Scalable Backpropagation-Free Training](../../conferences/neurips-2026/cards-0009.md#paper-150395)
+- [Normalized Architectures are Natively 4-Bit](../../conferences/neurips-2026/cards-0009.md#paper-151008)
+- [Not All Layers Are Equal in Image-to-Video Transfer](../../conferences/neurips-2026/cards-0009.md#paper-153476)
+- [NoTA: Normalized Tensor Adaptation for Parameter-Efficient Continual Learning](../../conferences/neurips-2026/cards-0009.md#paper-152586)
+- [Not Every Image Teaches Vision: Visual-Necessity-Gated Continual Learning for Multimodal Large Language Models](../../conferences/neurips-2026/cards-0009.md#paper-149631)
 
 <!-- conference-classification:end -->

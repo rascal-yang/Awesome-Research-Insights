@@ -621,5 +621,8 @@ Learning from interaction, feedback, and offline experience.
 - [Negative-Only Policy Optimization for One-Sided Verifiable Rewards](../../conferences/neurips-2026/cards-0008.md#paper-152610)
 - [Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](../../conferences/neurips-2026/cards-0008.md#paper-153134)
 - [NestRL: A Nested Training Regime for Mutual Adaptation in Human–AI Teaming](../../conferences/neurips-2026/cards-0008.md#paper-151397)
+- [Noisy Data is Destructive to Reinforcement Learning with Verifiable Rewards](../../conferences/neurips-2026/cards-0009.md#paper-152238)
+- [Non-Asymptotic Best Policy Identification Guarantees in Online Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-155132)
+- [Not all uncertainty is alike: volatility, stochasticity, and exploration](../../conferences/neurips-2026/cards-0009.md#paper-152109)
 
 <!-- conference-classification:end -->

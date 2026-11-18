@@ -673,5 +673,15 @@
 - [Neural Compression of Long ADMM Trajectory for Multiparametric Quadratic Program](../conferences/neurips-2026/cards-0008.md#paper-149158)
 - [Neural Dual Bounds: Valid-by-Construction JGLP Warm-Starts for MAP and Constrained MAP](../conferences/neurips-2026/cards-0008.md#paper-150753)
 - [Neural Galerkin Normalizing Flows for Bayesian Inference of Diffusions with Inaccessible Boundaries](../conferences/neurips-2026/cards-0009.md#paper-155213)
+- [Neural Preconditioned Born Series: A Metric-Matched Framework for Learning-based Preconditioners](../conferences/neurips-2026/cards-0009.md#paper-154120)
+- [Nexus: Same Pretraining Loss, Better Downstream Generalization via Common Minima](../conferences/neurips-2026/cards-0009.md#paper-150691)
+- [NGDB-Zoo: Towards Efficient and Scalable Neural Graph Databases Training](../conferences/neurips-2026/cards-0009.md#paper-154653)
+- [NitroBox: Lightning-Fast Sandbox for Large-Scale RL Training](../conferences/neurips-2026/cards-0009.md#paper-148578)
+- [NLD4CO: Neural Langevin Dynamics  for Combinatorial Optimization](../conferences/neurips-2026/cards-0009.md#paper-149843)
+- [Nonconvex Decentralized Stochastic Bilevel Optimization under Heavy-Tailed Noise](../conferences/neurips-2026/cards-0009.md#paper-156022)
+- [Non-Linear Pricing Restores Tractability for a Data Seller](../conferences/neurips-2026/cards-0009.md#paper-155203)
+- [No-Regret Caching with Delayed Hits](../conferences/neurips-2026/cards-0009.md#paper-154595)
+- [Norm Anchors Make Model Edits Last](../conferences/neurips-2026/cards-0009.md#paper-152750)
+- [Not All Routing Drift Is Harmful: Trust-Region Projection for Class-Incremental Learning](../conferences/neurips-2026/cards-0009.md#paper-151931)
 
 <!-- conference-classification:end -->

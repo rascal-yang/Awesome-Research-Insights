@@ -385,5 +385,6 @@ Reusable components and local changes to model inputs or connections.
 - [MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling](../../conferences/neurips-2026/cards-0008.md#paper-151404)
 - [Multiple Instance Verification](../../conferences/neurips-2026/cards-0008.md#paper-156670)
 - [Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions](../../conferences/neurips-2026/cards-0008.md#paper-151760)
+- [Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models](../../conferences/neurips-2026/cards-0009.md#paper-151115)
 
 <!-- conference-classification:end -->

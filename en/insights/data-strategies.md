@@ -346,5 +346,9 @@ Data selection, annotation, augmentation, and sampling.
 - [NADS: Navigator-Guided Data Selection for Mitigating Catastrophic Forgetting in Fine-Tuning](../../conferences/neurips-2026/cards-0008.md#paper-148869)
 - [NavOCR: A Dataset Generator for Navigation-Relevant Text Detection in Mobile Robots](../../conferences/neurips-2026/cards-0008.md#paper-139357)
 - [Negation Neglect: When models fail to learn negations in training](../../conferences/neurips-2026/cards-0008.md#paper-149048)
+- [Neuro-KE: Knowledge-Guided Interfaces for Semantically Grounded EEG Foundation Models](../../conferences/neurips-2026/cards-0009.md#paper-153319)
+- [New Coresets for Fair Clustering](../../conferences/neurips-2026/cards-0009.md#paper-152649)
+- [No Model Required: Text Entropy Rate Filtering Prevents Iterative Fine-Tuning Collapse](../../conferences/neurips-2026/cards-0009.md#paper-155913)
+- [Nonparametric Distribution Matching for Self-Supervised Whole-Slide Image Condensation](../../conferences/neurips-2026/cards-0009.md#paper-153235)
 
 <!-- conference-classification:end -->

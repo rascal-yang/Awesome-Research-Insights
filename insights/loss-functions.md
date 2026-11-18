@@ -362,5 +362,8 @@
 - [Multivariate Time Series Forecasting needs Cross Variable Loss](../conferences/neurips-2026/cards-0008.md#paper-150730)
 - [Multi-view Relational Distillation for Spatial Reasoning with Vision-Language Models](../conferences/neurips-2026/cards-0008.md#paper-152091)
 - [NASDAQ: Normalized Observation Space Dynamics-Augmented Q-Learning](../conferences/neurips-2026/cards-0008.md#paper-151396)
+- [Neural Slack Variables for Shape Constraints](../conferences/neurips-2026/cards-0009.md#paper-150516)
+- [Next-Latent Prediction Transformers Learn Compact World Models](../conferences/neurips-2026/cards-0009.md#paper-155772)
+- [Noisy2Latent: Nonparametric Deconvolution and Denoising via Maximum Mean Discrepancy](../conferences/neurips-2026/cards-0009.md#paper-148353)
 
 <!-- conference-classification:end -->

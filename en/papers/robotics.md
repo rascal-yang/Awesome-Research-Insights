@@ -754,5 +754,10 @@ Robot perception, policy learning, planning, and control.
 - [NavOCR: A Dataset Generator for Navigation-Relevant Text Detection in Mobile Robots](../../conferences/neurips-2026/cards-0008.md#paper-139357)
 - [NDPP-Grasp: Non-Differentiable Physical Plausibility Constraint-Guided Task-Oriented Dexterous Grasp Generation](../../conferences/neurips-2026/cards-0008.md#paper-154479)
 - [NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Model](../../conferences/neurips-2026/cards-0008.md#paper-152507)
+- [Neural Reconstruction of LiDAR Point Clouds under Jamming Attacks via Full-Waveform Representation and Simultaneous Laser Sensing](../../conferences/neurips-2026/cards-0009.md#paper-154337)
+- [Neuro-Inspired Inverse Learning for Planning and Control](../../conferences/neurips-2026/cards-0009.md#paper-154231)
+- [Next Forcing: Causal World Modeling with Multi-Chunk Prediction](../../conferences/neurips-2026/cards-0009.md#paper-150055)
+- [Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models](../../conferences/neurips-2026/cards-0009.md#paper-148883)
+- [NoTVLA: Semantics-Preserving Robot Adaptation via Narrative Action Interfaces](../../conferences/neurips-2026/cards-0009.md#paper-151525)
 
 <!-- conference-classification:end -->

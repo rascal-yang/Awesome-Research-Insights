@@ -472,5 +472,17 @@ Model-wide design and information flow.
 - [Neural Fractional Stochastic Differential Equations](../../conferences/neurips-2026/cards-0009.md#paper-150228)
 - [Neural Harmonic Measure Operator](../../conferences/neurips-2026/cards-0009.md#paper-151113)
 - [Neural Modal Decomposition: Architectural Priors from Observables](../../conferences/neurips-2026/cards-0009.md#paper-149285)
+- [Neural Spectral Capacity: An Architectural Quantity from Network Specification Alone](../../conferences/neurips-2026/cards-0009.md#paper-155319)
+- [Neural Statistical Functions](../../conferences/neurips-2026/cards-0009.md#paper-154480)
+- [Neural Structural Reasoner: A Brain-inspired Architecture for Reasoning over Structured Knowledge](../../conferences/neurips-2026/cards-0009.md#paper-149065)
+- [NeuroHorizon: Long-Horizon Forward Prediction of Neural Population Activity via Autoregressive Decoding with Hierarchical Memory](../../conferences/neurips-2026/cards-0009.md#paper-154599)
+- [NeuroInk: Retinomorphic Spiking Sequence Modeling for Handwritten Text Recognition](../../conferences/neurips-2026/cards-0009.md#paper-148901)
+- [Neuromodulated Constrained Autoencoders for Context-Dependent Manifold Learning](../../conferences/neurips-2026/cards-0009.md#paper-150082)
+- [NEXUS: Neural Energy Fields for Physically Consistent Contact-Rich 3D Object Dynamics](../../conferences/neurips-2026/cards-0009.md#paper-151625)
+- [Njord: A Probabilistic Graph Neural Network for Ensemble Ocean Forecasting](../../conferences/neurips-2026/cards-0009.md#paper-151699)
+- [Noise-Started One-Step Image Super-Resolution via LR-Conditioned SplitMeanFlow and GAN Refinement](../../conferences/neurips-2026/cards-0009.md#paper-150670)
+- [No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos](../../conferences/neurips-2026/cards-0009.md#paper-155864)
+- [Normalizing Trajectory Models](../../conferences/neurips-2026/cards-0009.md#paper-148856)
+- [NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting](../../conferences/neurips-2026/cards-0009.md#paper-153399)
 
 <!-- conference-classification:end -->

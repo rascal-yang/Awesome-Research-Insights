@@ -599,5 +599,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Negative-Only Policy Optimization for One-Sided Verifiable Rewards](../../conferences/neurips-2026/cards-0008.md#paper-152610)
 - [Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models](../../conferences/neurips-2026/cards-0008.md#paper-155022)
 - [Neural Garbage Collection: Learning to Forget while Learning to Reason](../../conferences/neurips-2026/cards-0009.md#paper-151937)
+- [NeuroMem: A Neuroplastic Memory Framework for Lifelong Agents through Delayed Consolidation](../../conferences/neurips-2026/cards-0009.md#paper-153760)
+- [Not All Tokens Should Be Treated Equally: Context Credits Reassignment](../../conferences/neurips-2026/cards-0009.md#paper-152065)
+- [Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR](../../conferences/neurips-2026/cards-0009.md#paper-155810)
+- [Not Only Where, But When: Temporal Scheduling for RLVR](../../conferences/neurips-2026/cards-0009.md#paper-150146)
 
 <!-- conference-classification:end -->
