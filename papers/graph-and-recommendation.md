@@ -296,5 +296,7 @@
 - [Hypergraph Representation Learning with Hyperlink Random Effects](../conferences/neurips-2026/cards-0006.md#paper-148313)
 - [IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation](../conferences/neurips-2026/cards-0007.md#paper-150515)
 - [Information Loss and Disparate Effects in Network Embeddings](../conferences/neurips-2026/cards-0007.md#paper-151063)
+- [Interactive Combinatorial Reinforcement Learning for Knowledge Graph Reasoning](../conferences/neurips-2026/cards-0007.md#paper-155091)
+- [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](../conferences/neurips-2026/cards-0007.md#paper-152947)
 
 <!-- conference-classification:end -->

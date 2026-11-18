@@ -648,5 +648,9 @@
 - [InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories](../conferences/neurips-2026/cards-0007.md#paper-153680)
 - [Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems](../conferences/neurips-2026/cards-0007.md#paper-150230)
 - [Information Propagation via Sign-Flip Dynamics](../conferences/neurips-2026/cards-0007.md#paper-151344)
+- [INSPO : Unlocking Intrinsic Self-Reflection for LLM Preference Optimization](../conferences/neurips-2026/cards-0007.md#paper-153491)
+- [Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](../conferences/neurips-2026/cards-0007.md#paper-153831)
+- [Integrated Imputation-Classification for Supervised Learning with Missing Data](../conferences/neurips-2026/cards-0007.md#paper-149201)
+- [Internalize External Competence for Visual Instruction Editing](../conferences/neurips-2026/cards-0007.md#paper-149907)
 
 <!-- conference-classification:end -->

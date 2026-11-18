@@ -363,5 +363,10 @@
 - [Improved State Mixing in Higher-order and Block Diagonal Linear Recurrent Networks](../conferences/neurips-2026/cards-0007.md#paper-152218)
 - [In-Context Multi-Operator Learning with DeepOSets](../conferences/neurips-2026/cards-0007.md#paper-154682)
 - [Inferring Computational Structure from Neural Recordings with Gain-Modulated Linear Dynamical Systems](../conferences/neurips-2026/cards-0007.md#paper-153994)
+- [Inside the Loop: A Mechanistic Study of Weight-Tied Transformers on Depth-Bound Algorithmic Tasks](../conferences/neurips-2026/cards-0007.md#paper-150577)
+- [Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction](../conferences/neurips-2026/cards-0007.md#paper-155706)
+- [Inter-domain Inference for Gaussian Process Variational Autoencoders](../conferences/neurips-2026/cards-0007.md#paper-151321)
+- [Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects](../conferences/neurips-2026/cards-0007.md#paper-150129)
+- [Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling](../conferences/neurips-2026/cards-0007.md#paper-154449)
 
 <!-- conference-classification:end -->

@@ -519,5 +519,9 @@
 - [Inferring Computational Structure from Neural Recordings with Gain-Modulated Linear Dynamical Systems](../conferences/neurips-2026/cards-0007.md#paper-153994)
 - [Inferring how internal brain state shapes neural responses with state-dependent diffusion models](../conferences/neurips-2026/cards-0007.md#paper-149640)
 - [Inferring learning rules in deep neural network architectures from animal learning data](../conferences/neurips-2026/cards-0007.md#paper-148570)
+- [InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification](../conferences/neurips-2026/cards-0007.md#paper-138981)
+- [Inpainting physics: self-supervised learning for context-driven fluid simulation](../conferences/neurips-2026/cards-0007.md#paper-155045)
+- [Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction](../conferences/neurips-2026/cards-0007.md#paper-155706)
+- [Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling](../conferences/neurips-2026/cards-0007.md#paper-154449)
 
 <!-- conference-classification:end -->

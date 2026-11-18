@@ -545,5 +545,7 @@
 - [Information-Directed Offline-to-Online Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-154972)
 - [Information-Geometric Forward Policy Training in GFlowNets](../conferences/neurips-2026/cards-0007.md#paper-149101)
 - [Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs](../conferences/neurips-2026/cards-0007.md#paper-155089)
+- [Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-150789)
+- [Interaction Value Inference for Multi-Agent Reinforcement Learning via a Hierarchical Agent-Centric World Model](../conferences/neurips-2026/cards-0007.md#paper-148672)
 
 <!-- conference-classification:end -->

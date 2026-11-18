@@ -532,5 +532,9 @@
 - [InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction](../conferences/neurips-2026/cards-0007.md#paper-152598)
 - [Information-Directed Offline-to-Online Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-154972)
 - [Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs](../conferences/neurips-2026/cards-0007.md#paper-155089)
+- [INFUSER: Influence-Guided Self-Evolution Improves Reasoning](../conferences/neurips-2026/cards-0007.md#paper-153094)
+- [Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning](../conferences/neurips-2026/cards-0007.md#paper-150789)
+- [Interaction Value Inference for Multi-Agent Reinforcement Learning via a Hierarchical Agent-Centric World Model](../conferences/neurips-2026/cards-0007.md#paper-148672)
+- [Interactive Combinatorial Reinforcement Learning for Knowledge Graph Reasoning](../conferences/neurips-2026/cards-0007.md#paper-155091)
 
 <!-- conference-classification:end -->

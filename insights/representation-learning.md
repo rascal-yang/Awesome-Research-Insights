@@ -482,5 +482,6 @@
 - [Improving Flexible Image Tokenizers for Autoregressive Image Generation](../conferences/neurips-2026/cards-0007.md#paper-149748)
 - [Improving LLM Final Representations with Inter-Layer Geometry](../conferences/neurips-2026/cards-0007.md#paper-150649)
 - [Improving the Diffusability of Motion Tokenizer](../conferences/neurips-2026/cards-0007.md#paper-150734)
+- [Interaction-Aligned Robot Learning from Human Videos with Structured Graph Modeling](../conferences/neurips-2026/cards-0007.md#paper-155579)
 
 <!-- conference-classification:end -->

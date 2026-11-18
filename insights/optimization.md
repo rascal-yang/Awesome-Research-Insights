@@ -578,5 +578,10 @@
 - [INEUS: Iterative Neural Solver for High-Dimensional PIDEs](../conferences/neurips-2026/cards-0007.md#paper-154584)
 - [Inexact Bregman Sparse Newton Method for Efficient Optimal Transport](../conferences/neurips-2026/cards-0007.md#paper-155946)
 - [Information-Geometric Forward Policy Training in GFlowNets](../conferences/neurips-2026/cards-0007.md#paper-149101)
+- [Inner Product Aware Quantization: Provably Fast, Accurate, and Adaptive Algorithms](../conferences/neurips-2026/cards-0007.md#paper-155393)
+- [Insight-Driven Search: A Framework for Multi-objective Automated Heuristic Design with Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-155553)
+- [Instance-Dependent Bandit Convex Optimization in One Dimension](../conferences/neurips-2026/cards-0007.md#paper-153738)
+- [Interpretable Multiway-Split Trees](../conferences/neurips-2026/cards-0007.md#paper-155490)
+- [Intersectional Fairness via Mixed-Integer Optimization](../conferences/neurips-2026/cards-0007.md#paper-154529)
 
 <!-- conference-classification:end -->

@@ -1257,5 +1257,18 @@
 - [Information bottleneck dynamics during learning across artificial and biological neural systems](../conferences/neurips-2026/cards-0007.md#paper-153429)
 - [Information Discernment in Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-154203)
 - [Information Parity for Code: The Scope of Transfer in Multilingual Code Models](../conferences/neurips-2026/cards-0007.md#paper-139705)
+- [InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification](../conferences/neurips-2026/cards-0007.md#paper-138981)
+- [Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs](../conferences/neurips-2026/cards-0007.md#paper-148598)
+- [Inside Emergence: Structure-Behaviour Gaps in Language Model Training](../conferences/neurips-2026/cards-0007.md#paper-151787)
+- [Instance-Optimal Estimation with Multiple LLM Judges on a Budget](../conferences/neurips-2026/cards-0007.md#paper-149650)
+- [Instantiation of Human Values in Image Generation](../conferences/neurips-2026/cards-0007.md#paper-139657)
+- [Instruction Anchor: Dissecting the Mechanistic Dynamics of Modality Arbitration](../conferences/neurips-2026/cards-0007.md#paper-150433)
+- [Integrating Local and Global Entropy for Uncertainty Quantification in LLMs](../conferences/neurips-2026/cards-0007.md#paper-150760)
+- [IntegrityBench: Can LLMs Be Trusted as Co-Scientists? A Research Integrity Benchmark](../conferences/neurips-2026/cards-0007.md#paper-139337)
+- [Inter-Agent Influence: Evaluating Persuasion, Deception and Coercion in Multi-Agent Systems](../conferences/neurips-2026/cards-0007.md#paper-148176)
+- [Internal Evaluation of Unsupervised Anomaly Detection Algorithms with Explanation](../conferences/neurips-2026/cards-0007.md#paper-139056)
+- [Internal Safety Collapse in Frontier Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-148657)
+- [Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations](../conferences/neurips-2026/cards-0007.md#paper-154045)
+- [Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks](../conferences/neurips-2026/cards-0007.md#paper-155074)
 
 <!-- conference-classification:end -->

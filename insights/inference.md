@@ -1080,5 +1080,11 @@
 - [Inference-Time Self-Aligned Drifting for Few-Step Flow Matching](../conferences/neurips-2026/cards-0007.md#paper-155309)
 - [InfoNav: A Unified Value Framework Integrating Semantic Relevance and Information Gain for Zero-Shot Object Goal Navigation](../conferences/neurips-2026/cards-0007.md#paper-149947)
 - [Information Templates: A New Paradigm for Intelligent Active Feature Acquisition](../conferences/neurips-2026/cards-0007.md#paper-152156)
+- [Inpainting physics: self-supervised learning for context-driven fluid simulation](../conferences/neurips-2026/cards-0007.md#paper-155045)
+- [InQuant: In-Place Mixed-Precision KV Cache Quantization via Saliency-Aware Neighbor-Slot Reuse](../conferences/neurips-2026/cards-0007.md#paper-155795)
+- [In STeP: Speculative Tensor Parallelism for Concurrent Heterogeneous Inference of LLMs](../conferences/neurips-2026/cards-0007.md#paper-155402)
+- [Intent-Aware Caching for Efficient LLM Serving](../conferences/neurips-2026/cards-0007.md#paper-150630)
+- [Intent Factored Generation: Unleashing the Diversity in Your Language Model](../conferences/neurips-2026/cards-0007.md#paper-150506)
+- [Interleaved Latent Thinking and Adaptive Termination for Efficient Reasoning LLMs](../conferences/neurips-2026/cards-0007.md#paper-154542)
 
 <!-- conference-classification:end -->

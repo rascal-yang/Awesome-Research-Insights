@@ -876,5 +876,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [Improving Self-Supervised Vision Transformers with Cross Distillation](../../conferences/neurips-2026/cards-0007.md#paper-151171)
 - [Improving the Diffusability of Motion Tokenizer](../../conferences/neurips-2026/cards-0007.md#paper-150734)
 - [Inference-Time Self-Aligned Drifting for Few-Step Flow Matching](../../conferences/neurips-2026/cards-0007.md#paper-155309)
+- [Inline Critic Steers Image Editing](../../conferences/neurips-2026/cards-0007.md#paper-152644)
+- [Instantiation of Human Values in Image Generation](../../conferences/neurips-2026/cards-0007.md#paper-139657)
+- [Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](../../conferences/neurips-2026/cards-0007.md#paper-153831)
+- [Internalize External Competence for Visual Instruction Editing](../../conferences/neurips-2026/cards-0007.md#paper-149907)
+- [Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations](../../conferences/neurips-2026/cards-0007.md#paper-154045)
 
 <!-- conference-classification:end -->

@@ -312,5 +312,7 @@
 - [Improved Leverage Score Sampling for Constrained Active Linear Regression](../conferences/neurips-2026/cards-0007.md#paper-155618)
 - [In-context learning to predict critical transitions in dynamical systems](../conferences/neurips-2026/cards-0007.md#paper-155891)
 - [InfCLIP: Unified Data Valuation for CLIP Pretraining via Influence-Inspired Scoring](../conferences/neurips-2026/cards-0007.md#paper-150869)
+- [Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation](../conferences/neurips-2026/cards-0007.md#paper-155244)
+- [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](../conferences/neurips-2026/cards-0007.md#paper-152947)
 
 <!-- conference-classification:end -->

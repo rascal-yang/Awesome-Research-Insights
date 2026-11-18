@@ -355,5 +355,7 @@ Reusable components and local changes to model inputs or connections.
 - [IIDiff: Learning Cross-Domain Frequency Transitions with Diffusion Mixture-of-Experts](../../conferences/neurips-2026/cards-0007.md#paper-155681)
 - [ImmuVis: Hyperconvolutional Foundation Models for Imaging Mass Cytometry](../../conferences/neurips-2026/cards-0007.md#paper-152450)
 - [IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting](../../conferences/neurips-2026/cards-0007.md#paper-154661)
+- [Inline Critic Steers Image Editing](../../conferences/neurips-2026/cards-0007.md#paper-152644)
+- [Interleaved Head Attention](../../conferences/neurips-2026/cards-0007.md#paper-154807)
 
 <!-- conference-classification:end -->

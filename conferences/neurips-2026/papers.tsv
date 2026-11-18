@@ -3963,66 +3963,66 @@ poster_id	title	paper_url	status	reason
 149551	Information-Theoretic Generalization Bounds for Sequential Decision Making	https://neurips.cc/virtual/2026/poster/149551	included	序列泛化按每轮选择信息累加，避免把自适应样本当独立批样本。
 153827	Information-Theoretic Generalization for Set-Input Optimization-Valued Objectives	https://neurips.cc/virtual/2026/poster/153827	included	验证批量风险指标时把重优化后的选择差异纳入泛化分析。
 155089	Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs	https://neurips.cc/virtual/2026/poster/155089	included	少量示范暖启动需要建模专家能力不确定性。
-138981	InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification	https://neurips.cc/virtual/2026/poster/138981	pending	-
-155588	InfoSFT: Learn More and Forget Less with Information-Aware Token Weighting	https://neurips.cc/virtual/2026/poster/155588	pending	-
-153094	INFUSER: Influence-Guided Self-Evolution Improves Reasoning	https://neurips.cc/virtual/2026/poster/153094	pending	-
-152644	Inline Critic Steers Image Editing	https://neurips.cc/virtual/2026/poster/152644	pending	-
-155393	Inner Product Aware Quantization: Provably Fast, Accurate, and Adaptive Algorithms	https://neurips.cc/virtual/2026/poster/155393	pending	-
-148598	Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs	https://neurips.cc/virtual/2026/poster/148598	pending	-
-155045	Inpainting physics: self-supervised learning for context-driven fluid simulation	https://neurips.cc/virtual/2026/poster/155045	pending	-
-155795	InQuant: In-Place Mixed-Precision KV Cache Quantization via Saliency-Aware Neighbor-Slot Reuse	https://neurips.cc/virtual/2026/poster/155795	pending	-
-151550	In search of a definition of importance: Do attributions capture it?	https://neurips.cc/virtual/2026/poster/151550	pending	-
-151787	Inside Emergence: Structure-Behaviour Gaps in Language Model Training	https://neurips.cc/virtual/2026/poster/151787	pending	-
-150577	Inside the Loop: A Mechanistic Study of Weight-Tied Transformers on Depth-Bound Algorithmic Tasks	https://neurips.cc/virtual/2026/poster/150577	pending	-
-155553	Insight-Driven Search: A Framework for Multi-objective Automated Heuristic Design with Large Language Models	https://neurips.cc/virtual/2026/poster/155553	pending	-
-139783	InSpect: A Curated Natural History Collection Dataset for Insect Specimen Understanding	https://neurips.cc/virtual/2026/poster/139783	pending	-
-153491	INSPO : Unlocking Intrinsic Self-Reflection for LLM Preference Optimization	https://neurips.cc/virtual/2026/poster/153491	pending	-
-150789	Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150789	pending	-
-148452	Instance-Adaptive Online Multicalibration	https://neurips.cc/virtual/2026/poster/148452	pending	-
-153738	Instance-Dependent Bandit Convex Optimization in One Dimension	https://neurips.cc/virtual/2026/poster/153738	pending	-
-149650	Instance-Optimal Estimation with Multiple LLM Judges on a Budget	https://neurips.cc/virtual/2026/poster/149650	pending	-
-139657	Instantiation of Human Values in Image Generation	https://neurips.cc/virtual/2026/poster/139657	pending	-
-155402	In STeP: Speculative Tensor Parallelism for Concurrent Heterogeneous Inference of LLMs	https://neurips.cc/virtual/2026/poster/155402	pending	-
-154379	Instructing LLMs to Negotiate using Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/154379	pending	-
-150433	Instruction Anchor: Dissecting the Mechanistic Dynamics of Modality Arbitration	https://neurips.cc/virtual/2026/poster/150433	pending	-
-153831	Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control	https://neurips.cc/virtual/2026/poster/153831	pending	-
-149716	InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors	https://neurips.cc/virtual/2026/poster/149716	pending	-
-139624	Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors	https://neurips.cc/virtual/2026/poster/139624	pending	-
-155958	InTAct: Interval-based Task Activation Consolidation for Continual Learning	https://neurips.cc/virtual/2026/poster/155958	pending	-
-152300	Integral Probability Boundaries	https://neurips.cc/virtual/2026/poster/152300	pending	-
-149201	Integrated Imputation-Classification for Supervised Learning with Missing Data	https://neurips.cc/virtual/2026/poster/149201	pending	-
-154111	Integrating Background Knowledge for Scalable Causal Discovery	https://neurips.cc/virtual/2026/poster/154111	pending	-
-149096	Integrating digital twins with randomized experiments	https://neurips.cc/virtual/2026/poster/149096	pending	-
-150760	Integrating Local and Global Entropy for Uncertainty Quantification in LLMs	https://neurips.cc/virtual/2026/poster/150760	pending	-
-153499	Integrating Strengths of Different Multi-Agent Workflows via Step-Aware Hybrid Topology Planning	https://neurips.cc/virtual/2026/poster/153499	pending	-
-139337	IntegrityBench: Can LLMs Be Trusted as Co-Scientists? A Research Integrity Benchmark	https://neurips.cc/virtual/2026/poster/139337	pending	-
-149060	Intelligence per Watt: Measuring Intelligence Efficiency of Local AI	https://neurips.cc/virtual/2026/poster/149060	pending	-
-151227	Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving	https://neurips.cc/virtual/2026/poster/151227	pending	-
-155244	Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation	https://neurips.cc/virtual/2026/poster/155244	pending	-
-150630	Intent-Aware Caching for Efficient LLM Serving	https://neurips.cc/virtual/2026/poster/150630	pending	-
-150506	Intent Factored Generation: Unleashing the Diversity in Your Language Model	https://neurips.cc/virtual/2026/poster/150506	pending	-
-155365	IntentLens: Grounding Underspecified Multimodal Queries for Recommendation via Tool-Augmented Reasoning	https://neurips.cc/virtual/2026/poster/155365	pending	-
-155579	Interaction-Aligned Robot Learning from Human Videos with Structured Graph Modeling	https://neurips.cc/virtual/2026/poster/155579	pending	-
-148672	Interaction Value Inference for Multi-Agent Reinforcement Learning via a Hierarchical Agent-Centric World Model	https://neurips.cc/virtual/2026/poster/148672	pending	-
-155706	Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction	https://neurips.cc/virtual/2026/poster/155706	pending	-
-155091	Interactive Combinatorial Reinforcement Learning for Knowledge Graph Reasoning	https://neurips.cc/virtual/2026/poster/155091	pending	-
-148176	Inter-Agent Influence: Evaluating Persuasion, Deception and Coercion in Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/148176	pending	-
-151321	Inter-domain Inference for Gaussian Process Variational Autoencoders	https://neurips.cc/virtual/2026/poster/151321	pending	-
-154807	Interleaved Head Attention	https://neurips.cc/virtual/2026/poster/154807	pending	-
-154542	Interleaved Latent Thinking and Adaptive Termination for Efficient Reasoning LLMs	https://neurips.cc/virtual/2026/poster/154542	pending	-
-139197	InterLV-Search: Benchmarking Interleaved Multimodal Agentic Search	https://neurips.cc/virtual/2026/poster/139197	pending	-
-139056	Internal Evaluation of Unsupervised Anomaly Detection Algorithms with Explanation	https://neurips.cc/virtual/2026/poster/139056	pending	-
-149907	Internalize External Competence for Visual Instruction Editing	https://neurips.cc/virtual/2026/poster/149907	pending	-
-148657	Internal Safety Collapse in Frontier Large Language Models	https://neurips.cc/virtual/2026/poster/148657	pending	-
-152947	Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists	https://neurips.cc/virtual/2026/poster/152947	pending	-
-150129	Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects	https://neurips.cc/virtual/2026/poster/150129	pending	-
-154045	Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations	https://neurips.cc/virtual/2026/poster/154045	pending	-
-150075	Interpretable Machine Learning Evaluates Differential Therapy Effects in Parkinsonian Gait	https://neurips.cc/virtual/2026/poster/150075	pending	-
-155490	Interpretable Multiway-Split Trees	https://neurips.cc/virtual/2026/poster/155490	pending	-
-154449	Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling	https://neurips.cc/virtual/2026/poster/154449	pending	-
-154955	Interpreting Latent Protein Language Model Features with Geometric Annotations	https://neurips.cc/virtual/2026/poster/154955	pending	-
-155074	Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks	https://neurips.cc/virtual/2026/poster/155074	pending	-
-154529	Intersectional Fairness via Mixed-Integer Optimization	https://neurips.cc/virtual/2026/poster/154529	pending	-
+138981	InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification	https://neurips.cc/virtual/2026/poster/138981	included	先按物理可辨性合并标签，再分层比较模型。
+155588	InfoSFT: Learn More and Forget Less with Information-Aware Token Weighting	https://neurips.cc/virtual/2026/poster/155588	included	监督微调优先给中置信词元更高权重。
+153094	INFUSER: Influence-Guided Self-Evolution Improves Reasoning	https://neurips.cc/virtual/2026/poster/153094	included	课程生成按给求解器带来的改进奖励，而非只奖励难题。
+152644	Inline Critic Steers Image Editing	https://neurips.cc/virtual/2026/poster/152644	included	在图像编辑单次前向内根据中间层预测局部误差。
+155393	Inner Product Aware Quantization: Provably Fast, Accurate, and Adaptive Algorithms	https://neurips.cc/virtual/2026/poster/155393	included	向量压缩按下游内积误差而非纯重建损失定目标。
+148598	Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs	https://neurips.cc/virtual/2026/poster/148598	included	微调验收加入跨域倾向漂移与少样本对照。
+155045	Inpainting physics: self-supervised learning for context-driven fluid simulation	https://neurips.cc/virtual/2026/poster/155045	included	将新的边界条件作为补全时可固定的局部观测。
+155795	InQuant: In-Place Mixed-Precision KV Cache Quantization via Saliency-Aware Neighbor-Slot Reuse	https://neurips.cc/virtual/2026/poster/155795	included	混合精度缓存优先复用低显著邻通道的物理槽位。
+151550	In search of a definition of importance: Do attributions capture it?	https://neurips.cc/virtual/2026/poster/151550	excluded	摘要未说明两种重要性贡献的具体定义或验证构造，仅有方法间差异结论不足以复用。
+151787	Inside Emergence: Structure-Behaviour Gaps in Language Model Training	https://neurips.cc/virtual/2026/poster/151787	included	能力突然出现前保存检查点并查内部结构成熟度。
+150577	Inside the Loop: A Mechanistic Study of Weight-Tied Transformers on Depth-Bound Algorithmic Tasks	https://neurips.cc/virtual/2026/poster/150577	included	对固定步式任务比较共享权重迭代与等深非共享堆叠。
+155553	Insight-Driven Search: A Framework for Multi-objective Automated Heuristic Design with Large Language Models	https://neurips.cc/virtual/2026/poster/155553	included	多目标启发式搜索保存可复用的策略片段。
+139783	InSpect: A Curated Natural History Collection Dataset for Insect Specimen Understanding	https://neurips.cc/virtual/2026/poster/139783	excluded	主要新增视觉标本数据和领域基准；摘要中的细结构与元数据表现未给出可改变通用决策的具体条件或对照。
+153491	INSPO : Unlocking Intrinsic Self-Reflection for LLM Preference Optimization	https://neurips.cc/virtual/2026/poster/153491	included	偏好对齐把备选回答作为训练期特权输入，再蒸馏掉。
+150789	Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150789	included	高维内在奖励崩溃时分离政策与价值的共享更新。
+148452	Instance-Adaptive Online Multicalibration	https://neurips.cc/virtual/2026/poster/148452	included	在线多重校准按信号变化自适应细分概率区间。
+153738	Instance-Dependent Bandit Convex Optimization in One Dimension	https://neurips.cc/virtual/2026/poster/153738	included	先区分目标是定位最小点还是找到近优值。
+149650	Instance-Optimal Estimation with Multiple LLM Judges on a Budget	https://neurips.cc/virtual/2026/poster/149650	included	按题目与评审组合的方差和成本分配预算。
+139657	Instantiation of Human Values in Image Generation	https://neurips.cc/virtual/2026/poster/139657	included	抽象概念生成的审计按主体、动作及场景的组合覆盖打分。
+155402	In STeP: Speculative Tensor Parallelism for Concurrent Heterogeneous Inference of LLMs	https://neurips.cc/virtual/2026/poster/155402	included	CPU 与 GPU 同步核验时把显著通道子网作为草案。
+154379	Instructing LLMs to Negotiate using Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/154379	excluded	研究议价行为阶段，新增机制主要依赖特定预算和经济收益，摘要缺乏跨任务选择的证据。
+150433	Instruction Anchor: Dissecting the Mechanistic Dynamics of Modality Arbitration	https://neurips.cc/virtual/2026/poster/150433	included	诊断指令指定某一模态却被忽略时，区分浅层输入汇聚与深层模态仲裁。
+153831	Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control	https://neurips.cc/virtual/2026/poster/153831	included	三维关节标注粒度不统一时，显式提供目标运动学规格再监督零件分割与关节。
+149716	InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors	https://neurips.cc/virtual/2026/poster/149716	excluded	换装参考融合和特定奖励搭配有效，但缺少可独立支持其他视频编辑选型的证据。
+139624	Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors	https://neurips.cc/virtual/2026/poster/139624	excluded	安全审计方向已有轨迹和部署真实性条目，本文摘要的新增发现局限于指定压力环境。
+155958	InTAct: Interval-based Task Activation Consolidation for Continual Learning	https://neurips.cc/virtual/2026/poster/155958	excluded	摘要仅说明功能激活区域受限更新，未给出区间定义或保护旧域的可复用操作。
+152300	Integral Probability Boundaries	https://neurips.cc/virtual/2026/poster/152300	included	估计稀有群体或极端失败下的分布差距时，对照线性 IPM 与在极端区域紧的非线性边界。
+149201	Integrated Imputation-Classification for Supervised Learning with Missing Data	https://neurips.cc/virtual/2026/poster/149201	included	缺失输入的目标是分类时，联合优化补全和类别边缘化。
+154111	Integrating Background Knowledge for Scalable Causal Discovery	https://neurips.cc/virtual/2026/poster/154111	excluded	搜索时使用专家知识的方向合理，摘要未说明知识如何参与剪枝或控制检验。
+149096	Integrating digital twins with randomized experiments	https://neurips.cc/virtual/2026/poster/149096	included	外部目标人群只有汇总量时，用这些量校准真实试验数据与合成协变量的混合。
+150760	Integrating Local and Global Entropy for Uncertainty Quantification in LLMs	https://neurips.cc/virtual/2026/poster/150760	included	置信 token 仍可能产生错答案时，联合测全局隐藏态复杂性与局部熵。
+153499	Integrating Strengths of Different Multi-Agent Workflows via Step-Aware Hybrid Topology Planning	https://neurips.cc/virtual/2026/poster/153499	excluded	顺序和并行工作流结合已有先例，摘要未说明可独立迁移的拓扑选择判据。
+139337	IntegrityBench: Can LLMs Be Trusted as Co-Scientists? A Research Integrity Benchmark	https://neurips.cc/virtual/2026/poster/139337	included	研究助手验收时，把违规识别、伦理行动与产物决策分开测，并记录误拒。
+149060	Intelligence per Watt: Measuring Intelligence Efficiency of Local AI	https://neurips.cc/virtual/2026/poster/149060	excluded	以准确率和功率构建本地推理基准，硬件与模型趋势强依赖流量和设备，未明确可复用的估计机制。
+151227	Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving	https://neurips.cc/virtual/2026/poster/151227	excluded	文本与未来 BEV 联用有价值，但摘要未给出何时反思及奖惩构造的具体可复用依据。
+155244	Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation	https://neurips.cc/virtual/2026/poster/155244	included	代码要支持后续编辑时，训练目标中显式保留语义操作及参数关系。
+150630	Intent-Aware Caching for Efficient LLM Serving	https://neurips.cc/virtual/2026/poster/150630	included	多轮请求前缀缓存空间紧张时，用近期按意图统计的复用时间和概率决定淘汰。
+150506	Intent Factored Generation: Unleashing the Diversity in Your Language Model	https://neurips.cc/virtual/2026/poster/150506	included	需要多个真正不同的答案时，在语义计划上高温采样，在文字兑现时降低温度。
+155365	IntentLens: Grounding Underspecified Multimodal Queries for Recommendation via Tool-Augmented Reasoning	https://neurips.cc/virtual/2026/poster/155365	excluded	视觉、记忆与属性工具的排序管线偏工程集成，摘要缺少能分离检索工具收益的证据。
+155579	Interaction-Aligned Robot Learning from Human Videos with Structured Graph Modeling	https://neurips.cc/virtual/2026/poster/155579	included	利用人类操作视频时，将手与夹爪映射至共享三维场景并对齐交互结构。
+148672	Interaction Value Inference for Multi-Agent Reinforcement Learning via a Hierarchical Agent-Centric World Model	https://neurips.cc/virtual/2026/poster/148672	included	协作价值估计显式纳入队友未来行为。
+155706	Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction	https://neurips.cc/virtual/2026/poster/155706	included	刚液交互预测分别建模界面扰动和全局传播。
+155091	Interactive Combinatorial Reinforcement Learning for Knowledge Graph Reasoning	https://neurips.cc/virtual/2026/poster/155091	included	图推理先约束采样路径可执行，再优化答案回报。
+148176	Inter-Agent Influence: Evaluating Persuasion, Deception and Coercion in Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/148176	included	多智能体审核要测代理交互后的决策稳定性。
+151321	Inter-domain Inference for Gaussian Process Variational Autoencoders	https://neurips.cc/virtual/2026/poster/151321	included	按计算结构为 GPVAE 选择诱导特征。
+154807	Interleaved Head Attention	https://neurips.cc/virtual/2026/poster/154807	included	在单层注意力内混合注意头以增加关系组合。
+154542	Interleaved Latent Thinking and Adaptive Termination for Efficient Reasoning LLMs	https://neurips.cc/virtual/2026/poster/154542	included	分别学习推理表示切换与停止。
+139197	InterLV-Search: Benchmarking Interleaved Multimodal Agentic Search	https://neurips.cc/virtual/2026/poster/139197	excluded	摘要提供交替多模态搜索基准，但最高分低于 50% 尚未归因到特定可改变的技术决策。
+139056	Internal Evaluation of Unsupervised Anomaly Detection Algorithms with Explanation	https://neurips.cc/virtual/2026/poster/139056	included	用分数空间与输入空间邻域不一致筛查异常检测器。
+149907	Internalize External Competence for Visual Instruction Editing	https://neurips.cc/virtual/2026/poster/149907	included	把外部视觉规划器的空间指令能力离线蒸入编辑器。
+148657	Internal Safety Collapse in Frontier Large Language Models	https://neurips.cc/virtual/2026/poster/148657	included	安全验收覆盖工具链内部数据和最终输出。
+152947	Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists	https://neurips.cc/virtual/2026/poster/152947	included	方法检索显式区分引用边和由瓶颈驱动的方法沿革。
+150129	Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects	https://neurips.cc/virtual/2026/poster/150129	included	需要交互又要局部可审计时为同一特征分区域拟合单变量函数。
+154045	Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations	https://neurips.cc/virtual/2026/poster/154045	included	概念瓶颈鲁棒性同时检验连续几何变化和离散概念变化。
+150075	Interpretable Machine Learning Evaluates Differential Therapy Effects in Parkinsonian Gait	https://neurips.cc/virtual/2026/poster/150075	excluded	摘要以已有非线性指标和分层回归分析小样本治疗数据，观察结果主要限于特定临床设置。
+155490	Interpretable Multiway-Split Trees	https://neurips.cc/virtual/2026/poster/155490	included	当决策天然多值时，在树学习里显式搜索多路稀疏划分。
+154449	Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling	https://neurips.cc/virtual/2026/poster/154449	included	耦合动力学识别中同时估计连边和交互方程。
+154955	Interpreting Latent Protein Language Model Features with Geometric Annotations	https://neurips.cc/virtual/2026/poster/154955	excluded	论文主要贡献针对蛋白语言模型结构特征注释，本轮无可独立验收的通用洞见。
+155074	Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks	https://neurips.cc/virtual/2026/poster/155074	included	用可读启发式的动作分布解释神经求解器的阶段性决策。
+154529	Intersectional Fairness via Mixed-Integer Optimization	https://neurips.cc/virtual/2026/poster/154529	included	审计交叉群体偏差时显式优化最不公平子群。
 154481	Intervene3D: Intervention-Based Controlled Inference for Multimodal Perception under Partial Observability	https://neurips.cc/virtual/2026/poster/154481	pending	-
 148473	Intervention-Guided Image-Free Classifier Expansion for Fine-Grained Recognition	https://neurips.cc/virtual/2026/poster/148473	pending	-
 154546	interwhen: A Generalizable Framework for Steering Reasoning Models with Test-time Verification	https://neurips.cc/virtual/2026/poster/154546	pending	-

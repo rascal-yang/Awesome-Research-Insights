@@ -876,5 +876,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Information Loss and Disparate Effects in Network Embeddings](../../conferences/neurips-2026/cards-0007.md#paper-151063)
 - [Information-Theoretic Generalization Bounds for Sequential Decision Making](../../conferences/neurips-2026/cards-0007.md#paper-149551)
 - [Information-Theoretic Generalization for Set-Input Optimization-Valued Objectives](../../conferences/neurips-2026/cards-0007.md#paper-153827)
+- [Instance-Adaptive Online Multicalibration](../../conferences/neurips-2026/cards-0007.md#paper-148452)
+- [Integral Probability Boundaries](../../conferences/neurips-2026/cards-0007.md#paper-152300)
+- [Integrating digital twins with randomized experiments](../../conferences/neurips-2026/cards-0007.md#paper-149096)
 
 <!-- conference-classification:end -->

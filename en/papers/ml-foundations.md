@@ -2058,5 +2058,18 @@ General learning methods, optimization, learning theory, and inference.
 - [Information Templates: A New Paradigm for Intelligent Active Feature Acquisition](../../conferences/neurips-2026/cards-0007.md#paper-152156)
 - [Information-Theoretic Generalization Bounds for Sequential Decision Making](../../conferences/neurips-2026/cards-0007.md#paper-149551)
 - [Information-Theoretic Generalization for Set-Input Optimization-Valued Objectives](../../conferences/neurips-2026/cards-0007.md#paper-153827)
+- [Inner Product Aware Quantization: Provably Fast, Accurate, and Adaptive Algorithms](../../conferences/neurips-2026/cards-0007.md#paper-155393)
+- [Insight-Driven Search: A Framework for Multi-objective Automated Heuristic Design with Large Language Models](../../conferences/neurips-2026/cards-0007.md#paper-155553)
+- [Instance-Adaptive Online Multicalibration](../../conferences/neurips-2026/cards-0007.md#paper-148452)
+- [Instance-Dependent Bandit Convex Optimization in One Dimension](../../conferences/neurips-2026/cards-0007.md#paper-153738)
+- [Integral Probability Boundaries](../../conferences/neurips-2026/cards-0007.md#paper-152300)
+- [Integrated Imputation-Classification for Supervised Learning with Missing Data](../../conferences/neurips-2026/cards-0007.md#paper-149201)
+- [Integrating digital twins with randomized experiments](../../conferences/neurips-2026/cards-0007.md#paper-149096)
+- [Inter-domain Inference for Gaussian Process Variational Autoencoders](../../conferences/neurips-2026/cards-0007.md#paper-151321)
+- [Internal Evaluation of Unsupervised Anomaly Detection Algorithms with Explanation](../../conferences/neurips-2026/cards-0007.md#paper-139056)
+- [Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects](../../conferences/neurips-2026/cards-0007.md#paper-150129)
+- [Interpretable Multiway-Split Trees](../../conferences/neurips-2026/cards-0007.md#paper-155490)
+- [Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks](../../conferences/neurips-2026/cards-0007.md#paper-155074)
+- [Intersectional Fairness via Mixed-Integer Optimization](../../conferences/neurips-2026/cards-0007.md#paper-154529)
 
 <!-- conference-classification:end -->
