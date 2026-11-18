@@ -66,6 +66,8 @@ def rank_scores(rows, quota, tie_order):
 
 def merge_scores(shards, rank, tie_path):
     manifest_rows = read_tsv(CONFERENCE / 'papers.tsv')
+    if any(row['insight_status'] == 'ranked-out' for row in manifest_rows):
+        raise ValueError('Restore the candidate set before changing scores in this ranked collection.')
     manifest = {int(row['number']): row for row in manifest_rows}
     if len(manifest) != 6552 or set(manifest) != set(range(1, 6553)):
         raise ValueError('Expected the complete, uniquely numbered ICML 2026 manifest.')

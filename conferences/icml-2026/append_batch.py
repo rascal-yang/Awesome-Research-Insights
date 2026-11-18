@@ -121,6 +121,8 @@ def add_batch(batch_path, date, paper_cards, screening, review_existing=False):
     manifest = conference / 'papers.tsv'
     classifications = conference / 'classification.tsv'
     records = read_tsv(manifest)
+    if any(row["insight_status"] == "ranked-out" for row in records):
+        raise ValueError("Restore the candidate set before applying a screening batch to this ranked collection.")
     old_mapping = read_tsv(classifications)
     for record in records:
         record.setdefault('screening_reason', '')
