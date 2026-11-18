@@ -607,5 +607,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models](../../conferences/neurips-2026/cards-0009.md#paper-152279)
 - [OmniSE: Support-Faithful Optimization for Evidence-Centric Audio-Video Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-149329)
 - [Online Finetuning Decision Transformers with Pure RL Gradients](../../conferences/neurips-2026/cards-0009.md#paper-150024)
+- [On Reparameterizing the Score Function](../../conferences/neurips-2026/cards-0009.md#paper-151999)
+- [OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in Policy Optimization](../../conferences/neurips-2026/cards-0009.md#paper-151932)
 
 <!-- conference-classification:end -->

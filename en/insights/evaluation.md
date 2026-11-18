@@ -1503,5 +1503,18 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Online Change-point Detection using Foundation Probabilistic Forecasting Models](../../conferences/neurips-2026/cards-0009.md#paper-148517)
 - [Online Conformal Abstention for Factuality Control Under Adversarial Bandit Feedback](../../conferences/neurips-2026/cards-0009.md#paper-153343)
 - [Online Evaluation of LLMs via Dyadic Designs](../../conferences/neurips-2026/cards-0009.md#paper-139644)
+- [On objective mismatch in molecular retrieval from tandem mass spectrometry](../../conferences/neurips-2026/cards-0009.md#paper-151639)
+- [On-Policy Counterfactual Influence](../../conferences/neurips-2026/cards-0009.md#paper-148864)
+- [On the Faithfulness of Visual Thinking: Measurement and Enhancement](../../conferences/neurips-2026/cards-0009.md#paper-152360)
+- [On the Fragility of Latent Knowledge: Layer-wise Influence under Unlearning in Large Language Model](../../conferences/neurips-2026/cards-0009.md#paper-155587)
+- [On the Memorization of Consistency Distillation for Diffusion Models](../../conferences/neurips-2026/cards-0009.md#paper-152743)
+- [On the Origin of Algorithmic Progress in AI: Evidence from Language Model Pre-Training](../../conferences/neurips-2026/cards-0009.md#paper-153579)
+- [On the Pitfalls of Instance-Based Dynamic Curricula](../../conferences/neurips-2026/cards-0009.md#paper-153313)
+- [On the Primacy Bias in RLVR Training](../../conferences/neurips-2026/cards-0009.md#paper-150372)
+- [On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing](../../conferences/neurips-2026/cards-0009.md#paper-155580)
+- [Open Vocabulary Domain Unlearning](../../conferences/neurips-2026/cards-0009.md#paper-150532)
+- [OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](../../conferences/neurips-2026/cards-0009.md#paper-139156)
+- [Operads for compositional reasoning in LLMs](../../conferences/neurips-2026/cards-0009.md#paper-150153)
+- [OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators](../../conferences/neurips-2026/cards-0009.md#paper-154322)
 
 <!-- conference-classification:end -->

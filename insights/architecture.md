@@ -494,5 +494,7 @@
 - [One Avatar, Any Budget: Robust LoD for Dynamic Gaussian Avatars](../conferences/neurips-2026/cards-0009.md#paper-150139)
 - [One Model, Two Roles: Emergent Specialization in a Shared Recurrent Transformer](../conferences/neurips-2026/cards-0009.md#paper-155435)
 - [One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-153304)
+- [OopsWorld! Operation-Grounded Seamless World Generation](../conferences/neurips-2026/cards-0009.md#paper-152375)
+- [Open-Vocabulary 3D Part Segmentation with  Semantic Propagation Hawkes Process](../conferences/neurips-2026/cards-0009.md#paper-155432)
 
 <!-- conference-classification:end -->

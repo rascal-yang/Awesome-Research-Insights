@@ -1014,5 +1014,15 @@
 - [One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection](../conferences/neurips-2026/cards-0009.md#paper-149035)
 - [One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation](../conferences/neurips-2026/cards-0009.md#paper-151767)
 - [One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-153304)
+- [On Making $SE(2)$-Invariant Networks Optimal](../conferences/neurips-2026/cards-0009.md#paper-155688)
+- [On the Memorization of Consistency Distillation for Diffusion Models](../conferences/neurips-2026/cards-0009.md#paper-152743)
+- [On the Necessity of Guidance Decay:  From Three-Phase Analysis in Gaussian Mixture Models to Dynamic Optimization](../conferences/neurips-2026/cards-0009.md#paper-151326)
+- [On the Pitfalls of Instance-Based Dynamic Curricula](../conferences/neurips-2026/cards-0009.md#paper-153313)
+- [On the Relaxation of Conditional Independence Assumption for Image Segmentation](../conferences/neurips-2026/cards-0009.md#paper-154387)
+- [OopsWorld! Operation-Grounded Seamless World Generation](../conferences/neurips-2026/cards-0009.md#paper-152375)
+- [Opening the Black Box of Classifier-Free Guidance via Information Bottleneck](../conferences/neurips-2026/cards-0009.md#paper-148587)
+- [Open-Vocabulary 3D Part Segmentation with  Semantic Propagation Hawkes Process](../conferences/neurips-2026/cards-0009.md#paper-155432)
+- [OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](../conferences/neurips-2026/cards-0009.md#paper-139156)
+- [OPERA: An Agent for Image Restoration with End-to-End Joint Planning–Execution Optimization](../conferences/neurips-2026/cards-0009.md#paper-149311)
 
 <!-- conference-classification:end -->

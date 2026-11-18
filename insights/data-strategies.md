@@ -354,5 +354,9 @@
 - [OmniEgoCap: Camera-Agnostic Sequence-Level Egocentric Motion Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-151885)
 - [One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation](../conferences/neurips-2026/cards-0009.md#paper-151767)
 - [Online Data Selection for Instruction Tuning via Gaussian Processes](../conferences/neurips-2026/cards-0009.md#paper-155444)
+- [On the Effect of Token Correlations on Semantic Transfer in Transformers](../conferences/neurips-2026/cards-0009.md#paper-155543)
+- [OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation](../conferences/neurips-2026/cards-0009.md#paper-139232)
+- [OpenSearcher: Democratizing Deep Search through a Fully Offline Pipeline with Programmatic Verification](../conferences/neurips-2026/cards-0009.md#paper-152128)
+- [Opt-Arena: Evaluating, Selecting, and Generating Optimization Modeling Data via Tripartite Graphs](../conferences/neurips-2026/cards-0009.md#paper-153953)
 
 <!-- conference-classification:end -->

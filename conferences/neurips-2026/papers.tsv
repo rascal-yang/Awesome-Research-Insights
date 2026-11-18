@@ -5527,126 +5527,126 @@ poster_id	title	paper_url	status	reason
 150975	Online Learning in Stabilized Linear Dynamical Games with Adversarial Disturbances	https://neurips.cc/virtual/2026/poster/150975	included	共享动态控制先保证基线稳定，再学习扰动修正。
 153773	Online Learning of Group-Stable Coalition Structures	https://neurips.cc/virtual/2026/poster/153773	included	在线组队分开探索可稳定划分与确认其存在性。
 149131	Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback	https://neurips.cc/virtual/2026/poster/149131	included	隐凸重参数化可保在线梯度下降速率，但需验证 Hessian 相容。
-155730	Online Learning via Learned Latent Bayesian Tracking	https://neurips.cc/virtual/2026/poster/155730	pending	-
-151773	Online Learning with Certified Unlearning over Graphs	https://neurips.cc/virtual/2026/poster/151773	pending	-
-148737	Online Localized Conformal Prediction	https://neurips.cc/virtual/2026/poster/148737	pending	-
-153821	Online Maximization of Non-Decomposable Test and Population Utilities	https://neurips.cc/virtual/2026/poster/153821	pending	-
-155249	Online Minimum Description Length Passive-Aggressive Algorithms	https://neurips.cc/virtual/2026/poster/155249	pending	-
-151634	Online Min-Max Optimization: From Individual Regrets to Cumulative Saddle Points	https://neurips.cc/virtual/2026/poster/151634	pending	-
-150162	Online Quantile Omniprediction for Proper Losses	https://neurips.cc/virtual/2026/poster/150162	pending	-
-154670	Online Resource Allocation With General Constraints	https://neurips.cc/virtual/2026/poster/154670	pending	-
-155110	Online Set Learning from Precision and Recall Feedback	https://neurips.cc/virtual/2026/poster/155110	pending	-
-151236	On Lipschitz Explosion in Deep Neural Networks with Normalization: Consequences for Optimization and Robustness	https://neurips.cc/virtual/2026/poster/151236	pending	-
-155688	On Making $SE(2)$-Invariant Networks Optimal	https://neurips.cc/virtual/2026/poster/155688	pending	-
-155630	On Minimizing Regret in Fixed-Confidence $\varepsilon$-Best Arm Identification	https://neurips.cc/virtual/2026/poster/155630	pending	-
-150836	On Nash Equilibria in Participatory Budgeting with Donations and Beyond	https://neurips.cc/virtual/2026/poster/150836	pending	-
-148933	On Neural Scaling Laws for Weather Emulation through Continual Training	https://neurips.cc/virtual/2026/poster/148933	pending	-
-151639	On objective mismatch in molecular retrieval from tandem mass spectrometry	https://neurips.cc/virtual/2026/poster/151639	pending	-
-148999	On Observation Time for Recovering Latent Hawkes Networks	https://neurips.cc/virtual/2026/poster/148999	pending	-
-148938	On-Policy Consistency Training Improves LLM Safety with Minimal Capability Degradation	https://neurips.cc/virtual/2026/poster/148938	pending	-
-148864	On-Policy Counterfactual Influence	https://neurips.cc/virtual/2026/poster/148864	pending	-
-149770	On-Policy Distillation with Open Property-Equivalence Reward for LLM-Based NL-to-SVA Generation	https://neurips.cc/virtual/2026/poster/149770	pending	-
-153484	On-Policy Hindsight Distillation for Early Risk Prediction	https://neurips.cc/virtual/2026/poster/153484	pending	-
-156765	On Rate-Optimal Partitioning Classification from Observable and from Privatised Data	https://neurips.cc/virtual/2026/poster/156765	pending	-
-151999	On Reparameterizing the Score Function	https://neurips.cc/virtual/2026/poster/151999	pending	-
-151904	On the Bias of Group-Based Advantage Estimation	https://neurips.cc/virtual/2026/poster/151904	pending	-
-150399	On the Burden of Achieving Fairness in Conformal Prediction	https://neurips.cc/virtual/2026/poster/150399	pending	-
-149658	On the Complexity of Discounted Robust MDPs with $L_p$ Uncertainty Sets	https://neurips.cc/virtual/2026/poster/149658	pending	-
-149090	On the Complexity of Offline Reinforcement Learning with Q*-Approximation and Partial Coverage	https://neurips.cc/virtual/2026/poster/149090	pending	-
-152545	On the Complexity of Preference-Based Bandits	https://neurips.cc/virtual/2026/poster/152545	pending	-
-151532	On the Construction and Implications of Low-Loss Valleys in LoRA-based Bayesian Inference	https://neurips.cc/virtual/2026/poster/151532	pending	-
-156746	On the Convergence Analysis of Muon	https://neurips.cc/virtual/2026/poster/156746	pending	-
-150896	On the Convergence of First-Order Methods in Signaling Games	https://neurips.cc/virtual/2026/poster/150896	pending	-
-152609	On the Convergence of Multicalibration Gradient Boosting	https://neurips.cc/virtual/2026/poster/152609	pending	-
-154843	On the Convergence of Success Conditioning for Policy Optimization	https://neurips.cc/virtual/2026/poster/154843	pending	-
-152162	On the Depth of Monotone ReLU Neural Networks and ICNNs	https://neurips.cc/virtual/2026/poster/152162	pending	-
-155527	On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization	https://neurips.cc/virtual/2026/poster/155527	pending	-
-152272	On the Divergence of Differential Temporal Difference Learning without Local Clocks	https://neurips.cc/virtual/2026/poster/152272	pending	-
-155543	On the Effect of Token Correlations on Semantic Transfer in Transformers	https://neurips.cc/virtual/2026/poster/155543	pending	-
-154468	On the Efficiency of Structured Pruning in Small Language Model Pretraining	https://neurips.cc/virtual/2026/poster/154468	pending	-
-154726	On the Error Correcting Effects of Stochasticity in Discrete Diffusion	https://neurips.cc/virtual/2026/poster/154726	pending	-
-154922	On the Existence of Uniformly Optimal Policies in MDPs under Epistemic Uncertainty	https://neurips.cc/virtual/2026/poster/154922	pending	-
-156766	On the Expressive Power and Limitations of Multi-Layer SSMs	https://neurips.cc/virtual/2026/poster/156766	pending	-
-152360	On the Faithfulness of Visual Thinking: Measurement and Enhancement	https://neurips.cc/virtual/2026/poster/152360	pending	-
-150138	On the Feasibility of Identity Manipulation for Diffusion-Based Face Privacy Preservation	https://neurips.cc/virtual/2026/poster/150138	pending	-
-155587	On the Fragility of Latent Knowledge: Layer-wise Influence under Unlearning in Large Language Model	https://neurips.cc/virtual/2026/poster/155587	pending	-
-154606	On the fundamentals of gradient-based SAT solvers	https://neurips.cc/virtual/2026/poster/154606	pending	-
-148858	On the Geometry and Latent-Space Composition of Hypernetwork-Generated LoRAs	https://neurips.cc/virtual/2026/poster/148858	pending	-
-152581	On the Impact of Side-Information in Bandit Learning: More is Not Always Merrier	https://neurips.cc/virtual/2026/poster/152581	pending	-
-151807	On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models	https://neurips.cc/virtual/2026/poster/151807	pending	-
-148174	On the Information Loss of Multi-Token Prediction: Origin and Solution	https://neurips.cc/virtual/2026/poster/148174	pending	-
-154965	On the Instability and Stabilization of Blockwise Muon	https://neurips.cc/virtual/2026/poster/154965	pending	-
-152053	On the Invariance and Generality of Neural Scaling Laws	https://neurips.cc/virtual/2026/poster/152053	pending	-
-148182	On the Last-Iterate Convergence of Clipped Gradient Methods	https://neurips.cc/virtual/2026/poster/148182	pending	-
-154956	On the Limits of Latent Reuse in Diffusion Models	https://neurips.cc/virtual/2026/poster/154956	pending	-
-152743	On the Memorization of Consistency Distillation for Diffusion Models	https://neurips.cc/virtual/2026/poster/152743	pending	-
-154878	On the Meta-Design of Allocation Problems	https://neurips.cc/virtual/2026/poster/154878	pending	-
-148724	On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs	https://neurips.cc/virtual/2026/poster/148724	pending	-
-151326	On the Necessity of Guidance Decay:  From Three-Phase Analysis in Gaussian Mixture Models to Dynamic Optimization	https://neurips.cc/virtual/2026/poster/151326	pending	-
-155689	On the Nonlinearity of Learning Rate Scaling for LLM Training	https://neurips.cc/virtual/2026/poster/155689	pending	-
-155456	On the Optimal Sample Complexity of Offline Multi-Armed Bandits with KL Regularization	https://neurips.cc/virtual/2026/poster/155456	pending	-
-153579	On the Origin of Algorithmic Progress in AI: Evidence from Language Model Pre-Training	https://neurips.cc/virtual/2026/poster/153579	pending	-
-148376	On the Overscaling Curse of Parallel Thinking: System Efficacy Contradicts Sample Efficiency	https://neurips.cc/virtual/2026/poster/148376	pending	-
-152281	On the Parallel Optimality of Exponentiated Gradient Descent	https://neurips.cc/virtual/2026/poster/152281	pending	-
-153313	On the Pitfalls of Instance-Based Dynamic Curricula	https://neurips.cc/virtual/2026/poster/153313	pending	-
-148955	On the Price of Privacy for Language Identification and Generation	https://neurips.cc/virtual/2026/poster/148955	pending	-
-150372	On the Primacy Bias in RLVR Training	https://neurips.cc/virtual/2026/poster/150372	pending	-
-153853	On the Provable Emergence of Hierarchical Concept Structure in CLIP Embeddings	https://neurips.cc/virtual/2026/poster/153853	pending	-
-154768	On the Rademacher Complexity of Graph Neural Networks: Unifying Expressivity and Geometry	https://neurips.cc/virtual/2026/poster/154768	pending	-
-155580	On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing	https://neurips.cc/virtual/2026/poster/155580	pending	-
-149548	On the Recoverability of Causal Relations from Bulk Gene Expression Data	https://neurips.cc/virtual/2026/poster/149548	pending	-
-154387	On the Relaxation of Conditional Independence Assumption for Image Segmentation	https://neurips.cc/virtual/2026/poster/154387	pending	-
-149358	On the Robustness of Watermarking for Autoregressive Image Generation	https://neurips.cc/virtual/2026/poster/149358	pending	-
-154750	On the Runway Cascade of Transformers for Language Modeling	https://neurips.cc/virtual/2026/poster/154750	pending	-
-138964	On the Selectivity of Generative Models in Structure-Based Drug Design	https://neurips.cc/virtual/2026/poster/138964	pending	-
-151061	On the Sparsity of Direct Preference Optimization: Weight Disentanglement in the NTK Regime	https://neurips.cc/virtual/2026/poster/151061	pending	-
-154548	On the Sparsity-Storage-Accuracy Tradeoff in Parsimoniously Activated Dictionary Learning	https://neurips.cc/virtual/2026/poster/154548	pending	-
-154185	On the Tightness and Computational Tractability of Higher-Dimensional Confidence Sequences	https://neurips.cc/virtual/2026/poster/154185	pending	-
-150461	On the Token Value Inequality in Efficient Reasoning	https://neurips.cc/virtual/2026/poster/150461	pending	-
-154939	On Time, Within Budget: Constraint-Driven Online Resource Allocation for Agentic Workflows	https://neurips.cc/virtual/2026/poster/154939	pending	-
-155199	OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning	https://neurips.cc/virtual/2026/poster/155199	pending	-
-152352	On Worst-Case Guarantees for Graph-Based Nearest-Neighbor Search	https://neurips.cc/virtual/2026/poster/152352	pending	-
-152375	OopsWorld! Operation-Grounded Seamless World Generation	https://neurips.cc/virtual/2026/poster/152375	pending	-
-139232	OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation	https://neurips.cc/virtual/2026/poster/139232	pending	-
-139648	OpenClawBench: Benchmarking Process-side Anomalies in Real-world Agent Execution Trajectories	https://neurips.cc/virtual/2026/poster/139648	pending	-
-148949	OpenCoF: Learning to Reason Through Video Generation	https://neurips.cc/virtual/2026/poster/148949	pending	-
-150676	Open-Ended Scientific Discovery and the Social Dynamics of Evolving Agent Networks	https://neurips.cc/virtual/2026/poster/150676	pending	-
-148587	Opening the Black Box of Classifier-Free Guidance via Information Bottleneck	https://neurips.cc/virtual/2026/poster/148587	pending	-
-157018	"Opening Up a New Layer: A Deeper Look into ""Interpreting CLIP with Hierarchical Sparse Autoencoders"""	https://neurips.cc/virtual/2026/poster/157018	pending	-
-139693	OpenMedReason: Scientific Reasoning Supervision for Medical Vision–Language Models	https://neurips.cc/virtual/2026/poster/139693	pending	-
-139369	OpenMHC: Accelerating the Science of Wearable Foundation Models	https://neurips.cc/virtual/2026/poster/139369	pending	-
-139718	OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching	https://neurips.cc/virtual/2026/poster/139718	pending	-
-152128	OpenSearcher: Democratizing Deep Search through a Fully Offline Pipeline with Programmatic Verification	https://neurips.cc/virtual/2026/poster/152128	pending	-
-152165	OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents	https://neurips.cc/virtual/2026/poster/152165	pending	-
-139567	OpenView: Empowering MLLMs with Out-of-view VQA	https://neurips.cc/virtual/2026/poster/139567	pending	-
-155432	Open-Vocabulary 3D Part Segmentation with  Semantic Propagation Hawkes Process	https://neurips.cc/virtual/2026/poster/155432	pending	-
-150532	Open Vocabulary Domain Unlearning	https://neurips.cc/virtual/2026/poster/150532	pending	-
-139156	OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation	https://neurips.cc/virtual/2026/poster/139156	pending	-
-151597	OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents	https://neurips.cc/virtual/2026/poster/151597	pending	-
-139275	OpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations	https://neurips.cc/virtual/2026/poster/139275	pending	-
-149311	OPERA: An Agent for Image Restoration with End-to-End Joint Planning–Execution Optimization	https://neurips.cc/virtual/2026/poster/149311	pending	-
-150153	Operads for compositional reasoning in LLMs	https://neurips.cc/virtual/2026/poster/150153	pending	-
-154322	OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators	https://neurips.cc/virtual/2026/poster/154322	pending	-
-156747	OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference	https://neurips.cc/virtual/2026/poster/156747	pending	-
-151932	OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in Policy Optimization	https://neurips.cc/virtual/2026/poster/151932	pending	-
-153312	Opponent Modeling in Incomplete-Information Continuous Colonel Blotto	https://neurips.cc/virtual/2026/poster/153312	pending	-
-149166	OPSRL-SSP: Optimistic Posterior Sampling for Stochastic Shortest Path with Minimax-Optimal Regret	https://neurips.cc/virtual/2026/poster/149166	pending	-
-153953	Opt-Arena: Evaluating, Selecting, and Generating Optimization Modeling Data via Tripartite Graphs	https://neurips.cc/virtual/2026/poster/153953	pending	-
-152209	OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/152209	pending	-
-151049	Optimal algorithmic complexity of inference in quantum kernel methods	https://neurips.cc/virtual/2026/poster/151049	pending	-
-150041	Optimal Algorithms for Fixed-Graph  Multi-Attribution Privacy	https://neurips.cc/virtual/2026/poster/150041	pending	-
-155961	Optimal and Efficient Contextual Combinatorial Semi-bandits with General Function Approximation	https://neurips.cc/virtual/2026/poster/155961	pending	-
-151579	Optimal Ansatz-free Hamiltonian Learning In Situ	https://neurips.cc/virtual/2026/poster/151579	pending	-
-152344	Optimal Byzantine-resilient Federated Learning with User-level Differential Privacy	https://neurips.cc/virtual/2026/poster/152344	pending	-
-150624	Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand	https://neurips.cc/virtual/2026/poster/150624	pending	-
-155799	Optimal Convergence Analysis of DDPM for General Distributions	https://neurips.cc/virtual/2026/poster/155799	pending	-
-154002	Optimal Dimension-Free Sampling for Regularized Classification	https://neurips.cc/virtual/2026/poster/154002	pending	-
-154125	Optimal Experiments for Partial Causal Effect Identification	https://neurips.cc/virtual/2026/poster/154125	pending	-
-148709	Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets	https://neurips.cc/virtual/2026/poster/148709	pending	-
-155446	Optimal In-context Adaptivity and Distributional Robustness of Transformers	https://neurips.cc/virtual/2026/poster/155446	pending	-
-153067	Optimal In-Context Learning of Autoregressive Processes under Heterogeneous Second-Order Moments of the Prompts	https://neurips.cc/virtual/2026/poster/153067	pending	-
-150063	Optimal Learning-Augmented Algorithm for Online Bidding	https://neurips.cc/virtual/2026/poster/150063	pending	-
-149470	Optimal Linear Regression Without a Variance	https://neurips.cc/virtual/2026/poster/149470	pending	-
+155730	Online Learning via Learned Latent Bayesian Tracking	https://neurips.cc/virtual/2026/poster/155730	included	在线适配在习得的低维状态中做贝叶斯更新。
+151773	Online Learning with Certified Unlearning over Graphs	https://neurips.cc/virtual/2026/poster/151773	included	持续图学习删除请求时做局部可认证修正。
+148737	Online Localized Conformal Prediction	https://neurips.cc/virtual/2026/poster/148737	included	在线校准按协变量分层，带宽由专家聚合更新。
+153821	Online Maximization of Non-Decomposable Test and Population Utilities	https://neurips.cc/virtual/2026/poster/153821	included	优化 F 分数等全局指标时在线跟踪分式根。
+155249	Online Minimum Description Length Passive-Aggressive Algorithms	https://neurips.cc/virtual/2026/poster/155249	included	在线分类用描述长度差构造更新间隔。
+151634	Online Min-Max Optimization: From Individual Regrets to Cumulative Saddle Points	https://neurips.cc/virtual/2026/poster/151634	included	在线极小极大选与参与者个体遗憾兼容的全局指标。
+150162	Online Quantile Omniprediction for Proper Losses	https://neurips.cc/virtual/2026/poster/150162	excluded	摘要未交代如何让分位数预测同时优化多种合法损失，难以单独复用。
+154670	Online Resource Allocation With General Constraints	https://neurips.cc/virtual/2026/poster/154670	included	预算约束与一般软累计约束分开管理。
+155110	Online Set Learning from Precision and Recall Feedback	https://neurips.cc/virtual/2026/poster/155110	included	预测集合的部分反馈不要直接套经验风险最小化。
+151236	On Lipschitz Explosion in Deep Neural Networks with Normalization: Consequences for Optimization and Robustness	https://neurips.cc/virtual/2026/poster/151236	included	归一化深网稳定性同时测输入与参数敏感度。
+155688	On Making $SE(2)$-Invariant Networks Optimal	https://neurips.cc/virtual/2026/poster/155688	included	对平移与旋转完全不变的任务先提信息保持的不变量。
+155630	On Minimizing Regret in Fixed-Confidence $\varepsilon$-Best Arm Identification	https://neurips.cc/virtual/2026/poster/155630	included	最优臂辨识区分快速停止和低累计损失。
+150836	On Nash Equilibria in Participatory Budgeting with Donations and Beyond	https://neurips.cc/virtual/2026/poster/150836	excluded	摘要未给参与式预算均衡的具体新结论或构造。
+148933	On Neural Scaling Laws for Weather Emulation through Continual Training	https://neurips.cc/virtual/2026/poster/148933	included	天气尺度实验用恒定训练配周期降温，并让降温复用作下游调节。
+151639	On objective mismatch in molecular retrieval from tandem mass spectrometry	https://neurips.cc/virtual/2026/poster/151639	included	检索任务直接核验候选级排序，不以中间指纹准确代替。
+148999	On Observation Time for Recovering Latent Hawkes Networks	https://neurips.cc/virtual/2026/poster/148999	included	事件图恢复预算按过程观测时长而非仅事件数设计。
+148938	On-Policy Consistency Training Improves LLM Safety with Minimal Capability Degradation	https://neurips.cc/virtual/2026/poster/148938	included	安全一致性在模型自己当前响应上训练。
+148864	On-Policy Counterfactual Influence	https://neurips.cc/virtual/2026/poster/148864	included	在线训练归因显式计入初始事件改变未来训练分布。
+149770	On-Policy Distillation with Open Property-Equivalence Reward for LLM-Based NL-to-SVA Generation	https://neurips.cc/virtual/2026/poster/149770	included	硬件断言蒸馏以性质等价而非字面模仿验收。
+153484	On-Policy Hindsight Distillation for Early Risk Prediction	https://neurips.cc/virtual/2026/poster/153484	included	早期风险模型用随后但结局前的记录作特权教师。
+156765	On Rate-Optimal Partitioning Classification from Observable and from Privatised Data	https://neurips.cc/virtual/2026/poster/156765	excluded	分类界依赖混合分布和特征条件，摘要没有足够的可复用选择。
+151999	On Reparameterizing the Score Function	https://neurips.cc/virtual/2026/poster/151999	included	序列策略奖励稀疏时，用可微历史路径作中心化控制变量。
+151904	On the Bias of Group-Based Advantage Estimation	https://neurips.cc/virtual/2026/poster/151904	excluded	与第 77 批组优势修正接近，难度权重的独立规则待查。
+150399	On the Burden of Achieving Fairness in Conformal Prediction	https://neurips.cc/virtual/2026/poster/150399	included	做多群体共形校准时，同时报告分群覆盖率和集合大小。
+149658	On the Complexity of Discounted Robust MDPs with $L_p$ Uncertainty Sets	https://neurips.cc/virtual/2026/poster/149658	excluded	鲁棒集合复杂度理论偏特定矩形不确定集。
+149090	On the Complexity of Offline Reinforcement Learning with Q*-Approximation and Partial Coverage	https://neurips.cc/virtual/2026/poster/149090	included	离线强化数据覆盖不全时，分别审计可做决策的复杂度和估值误差。
+152545	On the Complexity of Preference-Based Bandits	https://neurips.cc/virtual/2026/poster/152545	excluded	复杂度度量有潜力，摘要未给对一般反馈可迁移的选臂规则。
+151532	On the Construction and Implications of Low-Loss Valleys in LoRA-based Bayesian Inference	https://neurips.cc/virtual/2026/poster/151532	excluded	曲线具价值，但摘要未交代贝叶斯模型平均的净实证收益。
+156746	On the Convergence Analysis of Muon	https://neurips.cc/virtual/2026/poster/156746	included	选矩阵优化器前，检查局部曲率是否有利于矩阵正交化更新。
+150896	On the Convergence of First-Order Methods in Signaling Games	https://neurips.cc/virtual/2026/poster/150896	excluded	信号博弈严格均衡理论暂无具体迁移设置。
+152609	On the Convergence of Multicalibration Gradient Boosting	https://neurips.cc/virtual/2026/poster/152609	excluded	多校准已有方法收敛分析，摘要未给验证弱学习器光滑的实操。
+154843	On the Convergence of Success Conditioning for Policy Optimization	https://neurips.cc/virtual/2026/poster/154843	excluded	收敛对指定成功事件和 MDP 条件依赖，摘要未展开。
+152162	On the Depth of Monotone ReLU Neural Networks and ICNNs	https://neurips.cc/virtual/2026/poster/152162	excluded	精确表达下界偏专门，任务近似的选型证据待查。
+155527	On the Design Space of Discrete Diffusion Online Adaptation for Molecular Optimization	https://neurips.cc/virtual/2026/poster/155527	excluded	暂不提取专项分子在线优化操作。
+152272	On the Divergence of Differential Temporal Difference Learning without Local Clocks	https://neurips.cc/virtual/2026/poster/152272	included	平均回报差分 TD 应测试状态访问次数步长，不默认可换成全局步数。
+155543	On the Effect of Token Correlations on Semantic Transfer in Transformers	https://neurips.cc/virtual/2026/poster/155543	included	词面任务标记诱导捷径时，延后引入跨任务目标标签。
+154468	On the Efficiency of Structured Pruning in Small Language Model Pretraining	https://neurips.cc/virtual/2026/poster/154468	included	训练小模型时，按完整预训练预算比较直接训练与放大再剪枝。
+154726	On the Error Correcting Effects of Stochasticity in Discrete Diffusion	https://neurips.cc/virtual/2026/poster/154726	included	离散扩散采样的确定轨迹容易累计误差时，比较少量可控随机重启。
+154922	On the Existence of Uniformly Optimal Policies in MDPs under Epistemic Uncertainty	https://neurips.cc/virtual/2026/poster/154922	excluded	专门风险度量与最优平稳策略的存在性理论暂不单列。
+156766	On the Expressive Power and Limitations of Multi-Layer SSMs	https://neurips.cc/virtual/2026/poster/156766	included	循环状态不足以处理多步组合时，区分深度、精度和推理发生时点。
+152360	On the Faithfulness of Visual Thinking: Measurement and Enhancement	https://neurips.cc/virtual/2026/poster/152360	included	视频推理证据必须同时相关且充分。
+150138	On the Feasibility of Identity Manipulation for Diffusion-Based Face Privacy Preservation	https://neurips.cc/virtual/2026/poster/150138	excluded	核心操作直接修改人脸身份特征，无独立通用实验。
+155587	On the Fragility of Latent Knowledge: Layer-wise Influence under Unlearning in Large Language Model	https://neurips.cc/virtual/2026/poster/155587	included	分层检查遗忘对保留任务的损伤。
+154606	On the fundamentals of gradient-based SAT solvers	https://neurips.cc/virtual/2026/poster/154606	included	连续 SAT 停滞时检查对称性。
+148858	On the Geometry and Latent-Space Composition of Hypernetwork-Generated LoRAs	https://neurips.cc/virtual/2026/poster/148858	included	超网络 LoRA 可在解码前合并潜变量。
+152581	On the Impact of Side-Information in Bandit Learning: More is Not Always Merrier	https://neurips.cc/virtual/2026/poster/152581	included	免费无偏侧信息也要做有无共享对照。
+151807	On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models	https://neurips.cc/virtual/2026/poster/151807	included	SSM 门控分开验长序列和上下文迁移。
+148174	On the Information Loss of Multi-Token Prediction: Origin and Solution	https://neurips.cc/virtual/2026/poster/148174	included	多词块联合预测未来及重建上下文。
+154965	On the Instability and Stabilization of Blockwise Muon	https://neurips.cc/virtual/2026/poster/154965	included	分块 Muon 先校验跨块有效步长。
+152053	On the Invariance and Generality of Neural Scaling Laws	https://neurips.cc/virtual/2026/poster/152053	included	缩放律迁移按变换是否保留信息判断。
+148182	On the Last-Iterate Convergence of Clipped Gradient Methods	https://neurips.cc/virtual/2026/poster/148182	included	重尾环境下以裁剪 SGD 的最终迭代验证。
+154956	On the Limits of Latent Reuse in Diffusion Models	https://neurips.cc/virtual/2026/poster/154956	included	扩散潜变量迁移检查目标子空间错配与噪声。
+152743	On the Memorization of Consistency Distillation for Diffusion Models	https://neurips.cc/virtual/2026/poster/152743	included	保护隐私时单独测一致性蒸馏后的记忆。
+154878	On the Meta-Design of Allocation Problems	https://neurips.cc/virtual/2026/poster/154878	excluded	资源分配元设计具有应用价值，但摘要主要提供框架与案例，缺少独立可复用技术证据。
+148724	On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs	https://neurips.cc/virtual/2026/poster/148724	included	跨模态注意汇聚应检查其可能提供的共享全局信息。
+151326	On the Necessity of Guidance Decay:  From Three-Phase Analysis in Gaussian Mixture Models to Dynamic Optimization	https://neurips.cc/virtual/2026/poster/151326	included	条件引导在去噪后段采用受稳定范围约束的衰减。
+155689	On the Nonlinearity of Learning Rate Scaling for LLM Training	https://neurips.cc/virtual/2026/poster/155689	included	学习率外推看归一权重空间中的有效步长。
+155456	On the Optimal Sample Complexity of Offline Multi-Armed Bandits with KL Regularization	https://neurips.cc/virtual/2026/poster/155456	included	离线老虎机的预算同时取决于覆盖和 KL 正则。
+153579	On the Origin of Algorithmic Progress in AI: Evidence from Language Model Pre-Training	https://neurips.cc/virtual/2026/poster/153579	included	历史算法效率随参考训练规模报告。
+148376	On the Overscaling Curse of Parallel Thinking: System Efficacy Contradicts Sample Efficiency	https://neurips.cc/virtual/2026/poster/148376	included	解码前为每题分配并行候选预算。
+152281	On the Parallel Optimality of Exponentiated Gradient Descent	https://neurips.cc/virtual/2026/poster/152281	included	单纯形优化不要默认并发梯度可减少轮数。
+153313	On the Pitfalls of Instance-Based Dynamic Curricula	https://neurips.cc/virtual/2026/poster/153313	included	动态课程比较保持有效学习率与更新量一致。
+148955	On the Price of Privacy for Language Identification and Generation	https://neurips.cc/virtual/2026/poster/148955	included	私有语言学习比较纯隐私与近似隐私对误差指数影响。
+150372	On the Primacy Bias in RLVR Training	https://neurips.cc/virtual/2026/poster/150372	included	强化数据按初始难度分层测新增能力与遗忘。
+153853	On the Provable Emergence of Hierarchical Concept Structure in CLIP Embeddings	https://neurips.cc/virtual/2026/poster/153853	included	层级视觉线索可借图文对比转入文本几何。
+154768	On the Rademacher Complexity of Graph Neural Networks: Unifying Expressivity and Geometry	https://neurips.cc/virtual/2026/poster/154768	included	选图骨干时兼看可表达类和样本在图空间的分布。
+155580	On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing	https://neurips.cc/virtual/2026/poster/155580	included	循环状态记忆用关联回忆测词表、上下文与状态尺寸折中。
+149548	On the Recoverability of Causal Relations from Bulk Gene Expression Data	https://neurips.cc/virtual/2026/poster/149548	included	从聚合表达数据推断因果前检验聚合一致性。
+154387	On the Relaxation of Conditional Independence Assumption for Image Segmentation	https://neurips.cc/virtual/2026/poster/154387	included	分割推理在低对比时考虑可计算的局部标签依赖。
+149358	On the Robustness of Watermarking for Autoregressive Image Generation	https://neurips.cc/virtual/2026/poster/149358	excluded	重点是开发图像水印移除和伪造攻击，未提取可复现操作。
+154750	On the Runway Cascade of Transformers for Language Modeling	https://neurips.cc/virtual/2026/poster/154750	included	因果注意连接同时考虑经中间词元的传播。
+138964	On the Selectivity of Generative Models in Structure-Based Drug Design	https://neurips.cc/virtual/2026/poster/138964	excluded	摘要主要面向提高结构药物生成的靶点选择性，未抽取相关设计或筛选操作。
+151061	On the Sparsity of Direct Preference Optimization: Weight Disentanglement in the NTK Regime	https://neurips.cc/virtual/2026/poster/151061	included	合并偏好适配器时同时测样本支持和参数更新稀疏性。
+154548	On the Sparsity-Storage-Accuracy Tradeoff in Parsimoniously Activated Dictionary Learning	https://neurips.cc/virtual/2026/poster/154548	included	字典学习按存储、激活稀疏和误差共同调参。
+154185	On the Tightness and Computational Tractability of Higher-Dimensional Confidence Sequences	https://neurips.cc/virtual/2026/poster/154185	included	顺序监控多指标用组合置信区域的外近似。
+150461	On the Token Value Inequality in Efficient Reasoning	https://neurips.cc/virtual/2026/poster/150461	included	缩短推理分别压缩冗余词元与保留结构词元。
+154939	On Time, Within Budget: Constraint-Driven Online Resource Allocation for Agentic Workflows	https://neurips.cc/virtual/2026/poster/154939	included	预算与截止同时存在时直接优化工作流完成概率。
+155199	OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning	https://neurips.cc/virtual/2026/poster/155199	included	机器人规划用可检索的共享本体表示场景和前置条件。
+152352	On Worst-Case Guarantees for Graph-Based Nearest-Neighbor Search	https://neurips.cc/virtual/2026/poster/152352	included	近邻系统需要最坏保证时不能只用数据点搜索图。
+152375	OopsWorld! Operation-Grounded Seamless World Generation	https://neurips.cc/virtual/2026/poster/152375	included	持续世界编辑把变动与应保留状态都写入操作。
+139232	OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation	https://neurips.cc/virtual/2026/poster/139232	included	选自动生成分割训练标签时，记录无需真值的逐例质量统计，并在固定预算下验证筛选。
+139648	OpenClawBench: Benchmarking Process-side Anomalies in Real-world Agent Execution Trajectories	https://neurips.cc/virtual/2026/poster/139648	excluded	过程与结果双审计与库内代理轨迹多项监控重叠，摘要未给区分度更高的独立核验。
+148949	OpenCoF: Learning to Reason Through Video Generation	https://neurips.cc/virtual/2026/poster/148949	excluded	视觉和文字推理 token 与视频数据共同改变，摘要未独立验证构造。
+150676	Open-Ended Scientific Discovery and the Social Dynamics of Evolving Agent Networks	https://neurips.cc/virtual/2026/poster/150676	excluded	侧重开放生命科学发现系统，暂不提取针对该领域的生成或实验操作。
+148587	Opening the Black Box of Classifier-Free Guidance via Information Bottleneck	https://neurips.cc/virtual/2026/poster/148587	included	选扩散无分类器引导时机时，用条件信息阶段性变化取代固定启用。
+157018	"Opening Up a New Layer: A Deeper Look into ""Interpreting CLIP with Hierarchical Sparse Autoencoders"""	https://neurips.cc/virtual/2026/poster/157018	excluded	主要再现嵌套稀疏自编码器，摘要未给节省成本的独立机制证据。
+139693	OpenMedReason: Scientific Reasoning Supervision for Medical Vision–Language Models	https://neurips.cc/virtual/2026/poster/139693	excluded	医学多模态数据和训练整合，摘要没有隔离科学文章迹线与普通监督的贡献。
+139369	OpenMHC: Accelerating the Science of Wearable Foundation Models	https://neurips.cc/virtual/2026/poster/139369	excluded	可穿戴开放资源为主要贡献。
+139718	OpenSanctions Pairs: A Large-Scale Dataset for Pairwise Entity Matching	https://neurips.cc/virtual/2026/poster/139718	excluded	实体配对数据有价值，但摘要的跨文字匹配规律缺少独立修复证据。
+152128	OpenSearcher: Democratizing Deep Search through a Fully Offline Pipeline with Programmatic Verification	https://neurips.cc/virtual/2026/poster/152128	included	为深搜索训练合成可验证样本时，从唯一标识实体的证据组合生成题目。
+152165	OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents	https://neurips.cc/virtual/2026/poster/152165	excluded	多模态搜索数据及工具训练流程较综合，独立机制待核实。
+139567	OpenView: Empowering MLLMs with Out-of-view VQA	https://neurips.cc/virtual/2026/poster/139567	excluded	视野外数据合成主要改变训练供给，摘要未说明如何区分合理外推与猜测。
+155432	Open-Vocabulary 3D Part Segmentation with  Semantic Propagation Hawkes Process	https://neurips.cc/virtual/2026/poster/155432	included	三维部件分割中先抑制语义漂移，再沿空间结构传播高置信部件证据。
+150532	Open Vocabulary Domain Unlearning	https://neurips.cc/virtual/2026/poster/150532	included	视觉域遗忘要单独验证未见类别上的域识别是否降低。
+139156	OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation	https://neurips.cc/virtual/2026/poster/139156	included	检测图像编辑质量时，把边缘对齐和内区纹理错误拆分。
+151597	OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents	https://neurips.cc/virtual/2026/poster/151597	excluded	实时网站强化训练配方有系统价值，摘要未隔离适用于一般任务的可复用组件。
+139275	OpenWhistle: A Large-Scale Longitudinal Dataset and Benchmark of Bottlenose Dolphin Vocalizations	https://neurips.cc/virtual/2026/poster/139275	excluded	主要贡献为长期海豚语音数据和评测。
+149311	OPERA: An Agent for Image Restoration with End-to-End Joint Planning–Execution Optimization	https://neurips.cc/virtual/2026/poster/149311	included	图像处理多工具串联失败时，联合训练执行器以适配彼此输出分布。
+150153	Operads for compositional reasoning in LLMs	https://neurips.cc/virtual/2026/poster/150153	included	组合问答没有参考答案时，比较直接回答与先分解再组合的结果。
+154322	OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators	https://neurips.cc/virtual/2026/poster/154322	included	神经算子输入网格改变时，用函数空间归因避免重新训练每种网格解释器。
+156747	OpInf-LLM: Parametric PDE Solving with LLMs via Operator Inference	https://neurips.cc/virtual/2026/poster/156747	excluded	摘要主要拼接语言规格解析与算子推断，未给足以隔离其新增机制的结果。
+151932	OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in Policy Optimization	https://neurips.cc/virtual/2026/poster/151932	included	逐词信用应结合成功概率当前不确定性。
+153312	Opponent Modeling in Incomplete-Information Continuous Colonel Blotto	https://neurips.cc/virtual/2026/poster/153312	included	博弈对手摘要先验证保留的统计量能否决定收益。
+149166	OPSRL-SSP: Optimistic Posterior Sampling for Stochastic Shortest Path with Minimax-Optimal Regret	https://neurips.cc/virtual/2026/poster/149166	included	随机最短路的后验采样应检查随机长度下的一致乐观性。
+153953	Opt-Arena: Evaluating, Selecting, and Generating Optimization Modeling Data via Tripartite Graphs	https://neurips.cc/virtual/2026/poster/153953	included	优化建模数据按约束逻辑的组合覆盖选样。
+152209	OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/152209	included	文档增强可保留页面图像，再按问题压缩图像词元。
+151049	Optimal algorithmic complexity of inference in quantum kernel methods	https://neurips.cc/virtual/2026/poster/151049	included	量子核推断同时衡量查询和门复杂度。
+150041	Optimal Algorithms for Fixed-Graph  Multi-Attribution Privacy	https://neurips.cc/virtual/2026/poster/150041	included	多用户共同归属数据应按属性图限制贡献。
+155961	Optimal and Efficient Contextual Combinatorial Semi-bandits with General Function Approximation	https://neurips.cc/virtual/2026/poster/155961	included	组合半老虎机用凸抽样平衡组合探索。
+151579	Optimal Ansatz-free Hamiltonian Learning In Situ	https://neurips.cc/virtual/2026/poster/151579	included	量子校准按可用控制条件比较最优时间资源。
+152344	Optimal Byzantine-resilient Federated Learning with User-level Differential Privacy	https://neurips.cc/virtual/2026/poster/152344	included	联邦鲁棒聚合与用户隐私噪声需共同设计。
+150624	Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand	https://neurips.cc/virtual/2026/poster/150624	included	需求有跳跃时不应直接插值跨情境收益。
+155799	Optimal Convergence Analysis of DDPM for General Distributions	https://neurips.cc/virtual/2026/poster/155799	included	DDPM 步数预算同时看维数和分布平滑条件。
+154002	Optimal Dimension-Free Sampling for Regularized Classification	https://neurips.cc/virtual/2026/poster/154002	included	分类核集的样本量看正则与损失导数性质。
+154125	Optimal Experiments for Partial Causal Effect Identification	https://neurips.cc/virtual/2026/poster/154125	included	部分可辨识因果量按最坏区间缩小选实验。
+148709	Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets	https://neurips.cc/virtual/2026/poster/148709	included	库存约束下分离理想目标和当前可执行投影。
+155446	Optimal In-context Adaptivity and Distributional Robustness of Transformers	https://neurips.cc/virtual/2026/poster/155446	included	上下文预训练混合难度有助于无参数更新地适配任务。
+153067	Optimal In-Context Learning of Autoregressive Processes under Heterogeneous Second-Order Moments of the Prompts	https://neurips.cc/virtual/2026/poster/153067	included	时序上下文学习可利用二阶统计量匹配异质提示。
+150063	Optimal Learning-Augmented Algorithm for Online Bidding	https://neurips.cc/virtual/2026/poster/150063	included	随机在线阈值算法可按输出分布描述预测可靠性与保底。
+149470	Optimal Linear Regression Without a Variance	https://neurips.cc/virtual/2026/poster/149470	included	回归残差修剪可把有限方差方法转换到弱矩设定。
 152628	Optimal Rates for Adaptive Private $k$-PCA	https://neurips.cc/virtual/2026/poster/152628	pending	-
 152811	Optimal Rates for Differentially Private Hypothesis Testing with E-values	https://neurips.cc/virtual/2026/poster/152811	pending	-
 148362	Optimal Rates for Pure $\varepsilon$-Differentially Private Stochastic Convex Optimization with Heavy Tails	https://neurips.cc/virtual/2026/poster/148362	pending	-

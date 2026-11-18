@@ -630,5 +630,14 @@ Learning from interaction, feedback, and offline experience.
 - [One for All: A Non-Linear Transformer can enable Cross-Domain Generalization for In-Context Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-151574)
 - [Online Budget Allocation with Censored Semi-Bandit Feedback](../../conferences/neurips-2026/cards-0009.md#paper-151323)
 - [Online Finetuning Decision Transformers with Pure RL Gradients](../../conferences/neurips-2026/cards-0009.md#paper-150024)
+- [On-Policy Counterfactual Influence](../../conferences/neurips-2026/cards-0009.md#paper-148864)
+- [On Reparameterizing the Score Function](../../conferences/neurips-2026/cards-0009.md#paper-151999)
+- [On the Complexity of Offline Reinforcement Learning with Q*-Approximation and Partial Coverage](../../conferences/neurips-2026/cards-0009.md#paper-149090)
+- [On the Divergence of Differential Temporal Difference Learning without Local Clocks](../../conferences/neurips-2026/cards-0009.md#paper-152272)
+- [On the Impact of Side-Information in Bandit Learning: More is Not Always Merrier](../../conferences/neurips-2026/cards-0009.md#paper-152581)
+- [On the Optimal Sample Complexity of Offline Multi-Armed Bandits with KL Regularization](../../conferences/neurips-2026/cards-0009.md#paper-155456)
+- [On the Primacy Bias in RLVR Training](../../conferences/neurips-2026/cards-0009.md#paper-150372)
+- [OPSRL-SSP: Optimistic Posterior Sampling for Stochastic Shortest Path with Minimax-Optimal Regret](../../conferences/neurips-2026/cards-0009.md#paper-149166)
+- [Optimal and Efficient Contextual Combinatorial Semi-bandits with General Function Approximation](../../conferences/neurips-2026/cards-0009.md#paper-155961)
 
 <!-- conference-classification:end -->

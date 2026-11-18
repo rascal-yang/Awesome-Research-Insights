@@ -767,5 +767,6 @@ Robot perception, policy learning, planning, and control.
 - [OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](../../conferences/neurips-2026/cards-0009.md#paper-151867)
 - [One Adapter For All: Towards Generalizable Many-To-One Domain Adaptation In Heterogeneous Collaborative Perception](../../conferences/neurips-2026/cards-0009.md#paper-149544)
 - [One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation](../../conferences/neurips-2026/cards-0009.md#paper-155831)
+- [OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning](../../conferences/neurips-2026/cards-0009.md#paper-155199)
 
 <!-- conference-classification:end -->

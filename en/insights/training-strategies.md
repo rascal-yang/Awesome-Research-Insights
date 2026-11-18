@@ -787,5 +787,14 @@ Training schedules, curricula, and task or stage composition.
 - [One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation](../../conferences/neurips-2026/cards-0009.md#paper-155831)
 - [One-Time Soft Alignment Enables Resilient Learning without Weight Transport](../../conferences/neurips-2026/cards-0009.md#paper-154791)
 - [Online Bayesian Recalibration of Brain–Computer Interfaces with Language Model Potentials](../../conferences/neurips-2026/cards-0009.md#paper-151000)
+- [Online Learning with Certified Unlearning over Graphs](../../conferences/neurips-2026/cards-0009.md#paper-151773)
+- [On Neural Scaling Laws for Weather Emulation through Continual Training](../../conferences/neurips-2026/cards-0009.md#paper-148933)
+- [On-Policy Consistency Training Improves LLM Safety with Minimal Capability Degradation](../../conferences/neurips-2026/cards-0009.md#paper-148938)
+- [On-Policy Distillation with Open Property-Equivalence Reward for LLM-Based NL-to-SVA Generation](../../conferences/neurips-2026/cards-0009.md#paper-149770)
+- [On-Policy Hindsight Distillation for Early Risk Prediction](../../conferences/neurips-2026/cards-0009.md#paper-153484)
+- [On the Efficiency of Structured Pruning in Small Language Model Pretraining](../../conferences/neurips-2026/cards-0009.md#paper-154468)
+- [On the Information Loss of Multi-Token Prediction: Origin and Solution](../../conferences/neurips-2026/cards-0009.md#paper-148174)
+- [On the Token Value Inequality in Efficient Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-150461)
+- [OPERA: An Agent for Image Restoration with End-to-End Joint Planning–Execution Optimization](../../conferences/neurips-2026/cards-0009.md#paper-149311)
 
 <!-- conference-classification:end -->

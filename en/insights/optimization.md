@@ -690,5 +690,16 @@ Gradient updates, parameterization, and optimization dynamics.
 - [On Computing Diverse Solutions in the Earth Movers Distance](../../conferences/neurips-2026/cards-0009.md#paper-154421)
 - [One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective](../../conferences/neurips-2026/cards-0009.md#paper-154314)
 - [Online Allocation with Unknown Shared Supply](../../conferences/neurips-2026/cards-0009.md#paper-151416)
+- [Online Learning via Learned Latent Bayesian Tracking](../../conferences/neurips-2026/cards-0009.md#paper-155730)
+- [Online Maximization of Non-Decomposable Test and Population Utilities](../../conferences/neurips-2026/cards-0009.md#paper-153821)
+- [Online Minimum Description Length Passive-Aggressive Algorithms](../../conferences/neurips-2026/cards-0009.md#paper-155249)
+- [Online Resource Allocation With General Constraints](../../conferences/neurips-2026/cards-0009.md#paper-154670)
+- [On Minimizing Regret in Fixed-Confidence $\varepsilon$-Best Arm Identification](../../conferences/neurips-2026/cards-0009.md#paper-155630)
+- [On the Convergence Analysis of Muon](../../conferences/neurips-2026/cards-0009.md#paper-156746)
+- [On the fundamentals of gradient-based SAT solvers](../../conferences/neurips-2026/cards-0009.md#paper-154606)
+- [On the Instability and Stabilization of Blockwise Muon](../../conferences/neurips-2026/cards-0009.md#paper-154965)
+- [On the Nonlinearity of Learning Rate Scaling for LLM Training](../../conferences/neurips-2026/cards-0009.md#paper-155689)
+- [Optimal Byzantine-resilient Federated Learning with User-level Differential Privacy](../../conferences/neurips-2026/cards-0009.md#paper-152344)
+- [Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets](../../conferences/neurips-2026/cards-0009.md#paper-148709)
 
 <!-- conference-classification:end -->

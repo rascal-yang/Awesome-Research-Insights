@@ -1222,5 +1222,14 @@ Decoding, test-time adaptation, and efficient execution.
 - [Object Hallucination Mitigation in Large Vision-Language Models via Self-Vision Dual Masking and Uncertainty-Triggered Assembly](../../conferences/neurips-2026/cards-0009.md#paper-150191)
 - [OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation](../../conferences/neurips-2026/cards-0009.md#paper-150029)
 - [OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models](../../conferences/neurips-2026/cards-0009.md#paper-153551)
+- [On the Error Correcting Effects of Stochasticity in Discrete Diffusion](../../conferences/neurips-2026/cards-0009.md#paper-154726)
+- [On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs](../../conferences/neurips-2026/cards-0009.md#paper-148724)
+- [On the Necessity of Guidance Decay:  From Three-Phase Analysis in Gaussian Mixture Models to Dynamic Optimization](../../conferences/neurips-2026/cards-0009.md#paper-151326)
+- [On the Overscaling Curse of Parallel Thinking: System Efficacy Contradicts Sample Efficiency](../../conferences/neurips-2026/cards-0009.md#paper-148376)
+- [On the Relaxation of Conditional Independence Assumption for Image Segmentation](../../conferences/neurips-2026/cards-0009.md#paper-154387)
+- [On Time, Within Budget: Constraint-Driven Online Resource Allocation for Agentic Workflows](../../conferences/neurips-2026/cards-0009.md#paper-154939)
+- [OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning](../../conferences/neurips-2026/cards-0009.md#paper-155199)
+- [Opening the Black Box of Classifier-Free Guidance via Information Bottleneck](../../conferences/neurips-2026/cards-0009.md#paper-148587)
+- [OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation](../../conferences/neurips-2026/cards-0009.md#paper-152209)
 
 <!-- conference-classification:end -->

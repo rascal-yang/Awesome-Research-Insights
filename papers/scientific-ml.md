@@ -646,5 +646,12 @@
 - [Online Bayesian Calibration under Gradual and Abrupt System Changes](../conferences/neurips-2026/cards-0009.md#paper-151573)
 - [Online Bayesian Recalibration of Brain–Computer Interfaces with Language Model Potentials](../conferences/neurips-2026/cards-0009.md#paper-151000)
 - [Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas](../conferences/neurips-2026/cards-0009.md#paper-155670)
+- [On Neural Scaling Laws for Weather Emulation through Continual Training](../conferences/neurips-2026/cards-0009.md#paper-148933)
+- [On objective mismatch in molecular retrieval from tandem mass spectrometry](../conferences/neurips-2026/cards-0009.md#paper-151639)
+- [On-Policy Hindsight Distillation for Early Risk Prediction](../conferences/neurips-2026/cards-0009.md#paper-153484)
+- [On the Recoverability of Causal Relations from Bulk Gene Expression Data](../conferences/neurips-2026/cards-0009.md#paper-149548)
+- [OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation](../conferences/neurips-2026/cards-0009.md#paper-139232)
+- [OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators](../conferences/neurips-2026/cards-0009.md#paper-154322)
+- [Optimal Ansatz-free Hamiltonian Learning In Situ](../conferences/neurips-2026/cards-0009.md#paper-151579)
 
 <!-- conference-classification:end -->

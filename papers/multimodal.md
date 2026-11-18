@@ -800,5 +800,10 @@
 - [OmniSE: Support-Faithful Optimization for Evidence-Centric Audio-Video Reasoning](../conferences/neurips-2026/cards-0009.md#paper-149329)
 - [OmniTraffic: A Controllable Generation Pipeline and Benchmark for Spatio-Temporal Traffic Reasoning](../conferences/neurips-2026/cards-0009.md#paper-139772)
 - [OneCanvas: 3D Scene Understanding via Panoramic Reprojection](../conferences/neurips-2026/cards-0009.md#paper-148266)
+- [On the Faithfulness of Visual Thinking: Measurement and Enhancement](../conferences/neurips-2026/cards-0009.md#paper-152360)
+- [On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs](../conferences/neurips-2026/cards-0009.md#paper-148724)
+- [On the Provable Emergence of Hierarchical Concept Structure in CLIP Embeddings](../conferences/neurips-2026/cards-0009.md#paper-153853)
+- [Open Vocabulary Domain Unlearning](../conferences/neurips-2026/cards-0009.md#paper-150532)
+- [OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation](../conferences/neurips-2026/cards-0009.md#paper-152209)
 
 <!-- conference-classification:end -->

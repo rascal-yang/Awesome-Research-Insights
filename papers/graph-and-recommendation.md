@@ -328,5 +328,7 @@
 - [No Triangulation Without Representation: Generalization in Topological Deep Learning](../conferences/neurips-2026/cards-0009.md#paper-139061)
 - [Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for   RL-based LLM Recommenders](../conferences/neurips-2026/cards-0009.md#paper-155962)
 - [OHATP: Graph Anomaly Detection with Orthogonal-Hyperspherical Augmentation and Topology Perception](../conferences/neurips-2026/cards-0009.md#paper-155542)
+- [Online Learning with Certified Unlearning over Graphs](../conferences/neurips-2026/cards-0009.md#paper-151773)
+- [On the Rademacher Complexity of Graph Neural Networks: Unifying Expressivity and Geometry](../conferences/neurips-2026/cards-0009.md#paper-154768)
 
 <!-- conference-classification:end -->

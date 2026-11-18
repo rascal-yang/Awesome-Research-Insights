@@ -554,5 +554,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](../../conferences/neurips-2026/cards-0009.md#paper-151867)
 - [OneCanvas: 3D Scene Understanding via Panoramic Reprojection](../../conferences/neurips-2026/cards-0009.md#paper-148266)
 - [Online Directional Regression for Streaming Sufficient Dimension Reduction](../../conferences/neurips-2026/cards-0009.md#paper-148149)
+- [On the Geometry and Latent-Space Composition of Hypernetwork-Generated LoRAs](../../conferences/neurips-2026/cards-0009.md#paper-148858)
+- [On the Provable Emergence of Hierarchical Concept Structure in CLIP Embeddings](../../conferences/neurips-2026/cards-0009.md#paper-153853)
 
 <!-- conference-classification:end -->

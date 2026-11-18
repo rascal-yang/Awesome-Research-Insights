@@ -388,5 +388,7 @@
 - [Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models](../conferences/neurips-2026/cards-0009.md#paper-151115)
 - [Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment](../conferences/neurips-2026/cards-0009.md#paper-152619)
 - [One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection](../conferences/neurips-2026/cards-0009.md#paper-149035)
+- [On Making $SE(2)$-Invariant Networks Optimal](../conferences/neurips-2026/cards-0009.md#paper-155688)
+- [On the Runway Cascade of Transformers for Language Modeling](../conferences/neurips-2026/cards-0009.md#paper-154750)
 
 <!-- conference-classification:end -->

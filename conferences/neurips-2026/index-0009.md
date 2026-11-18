@@ -195,3 +195,94 @@
 | 机器学习基础与统计 | 理论与统计 | [Online Learning in Stabilized Linear Dynamical Games with Adversarial Disturbances](cards-0009.md#paper-150975) | 共享动态控制先保证基线稳定，再学习扰动修正。 |
 | 机器学习基础与统计 | 理论与统计 | [Online Learning of Group-Stable Coalition Structures](cards-0009.md#paper-153773) | 在线组队分开探索可稳定划分与确认其存在性。 |
 | 机器学习基础与统计 | 理论与统计 | [Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback](cards-0009.md#paper-149131) | 隐凸重参数化可保在线梯度下降速率，但需验证 Hessian 相容。 |
+| 机器学习基础与统计 | 优化 | [Online Learning via Learned Latent Bayesian Tracking](cards-0009.md#paper-155730) | 在线适配在习得的低维状态中做贝叶斯更新。 |
+| 图学习与推荐 | 训练策略 | [Online Learning with Certified Unlearning over Graphs](cards-0009.md#paper-151773) | 持续图学习删除请求时做局部可认证修正。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Localized Conformal Prediction](cards-0009.md#paper-148737) | 在线校准按协变量分层，带宽由专家聚合更新。 |
+| 机器学习基础与统计 | 优化 | [Online Maximization of Non-Decomposable Test and Population Utilities](cards-0009.md#paper-153821) | 优化 F 分数等全局指标时在线跟踪分式根。 |
+| 机器学习基础与统计 | 优化 | [Online Minimum Description Length Passive-Aggressive Algorithms](cards-0009.md#paper-155249) | 在线分类用描述长度差构造更新间隔。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Min-Max Optimization: From Individual Regrets to Cumulative Saddle Points](cards-0009.md#paper-151634) | 在线极小极大选与参与者个体遗憾兼容的全局指标。 |
+| 机器学习基础与统计 | 优化 | [Online Resource Allocation With General Constraints](cards-0009.md#paper-154670) | 预算约束与一般软累计约束分开管理。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Set Learning from Precision and Recall Feedback](cards-0009.md#paper-155110) | 预测集合的部分反馈不要直接套经验风险最小化。 |
+| 机器学习基础与统计 | 理论与统计 | [On Lipschitz Explosion in Deep Neural Networks with Normalization: Consequences for Optimization and Robustness](cards-0009.md#paper-151236) | 归一化深网稳定性同时测输入与参数敏感度。 |
+| 计算机视觉 | 模块 | [On Making $SE(2)$-Invariant Networks Optimal](cards-0009.md#paper-155688) | 对平移与旋转完全不变的任务先提信息保持的不变量。 |
+| 机器学习基础与统计 | 优化 | [On Minimizing Regret in Fixed-Confidence $\varepsilon$-Best Arm Identification](cards-0009.md#paper-155630) | 最优臂辨识区分快速停止和低累计损失。 |
+| 科学机器学习 | 训练策略 | [On Neural Scaling Laws for Weather Emulation through Continual Training](cards-0009.md#paper-148933) | 天气尺度实验用恒定训练配周期降温，并让降温复用作下游调节。 |
+| 科学机器学习 | 评测与诊断 | [On objective mismatch in molecular retrieval from tandem mass spectrometry](cards-0009.md#paper-151639) | 检索任务直接核验候选级排序，不以中间指纹准确代替。 |
+| 机器学习基础与统计 | 理论与统计 | [On Observation Time for Recovering Latent Hawkes Networks](cards-0009.md#paper-148999) | 事件图恢复预算按过程观测时长而非仅事件数设计。 |
+| 大语言模型 | 训练策略 | [On-Policy Consistency Training Improves LLM Safety with Minimal Capability Degradation](cards-0009.md#paper-148938) | 安全一致性在模型自己当前响应上训练。 |
+| 强化学习 | 评测与诊断 | [On-Policy Counterfactual Influence](cards-0009.md#paper-148864) | 在线训练归因显式计入初始事件改变未来训练分布。 |
+| 大语言模型 | 训练策略 | [On-Policy Distillation with Open Property-Equivalence Reward for LLM-Based NL-to-SVA Generation](cards-0009.md#paper-149770) | 硬件断言蒸馏以性质等价而非字面模仿验收。 |
+| 科学机器学习 | 训练策略 | [On-Policy Hindsight Distillation for Early Risk Prediction](cards-0009.md#paper-153484) | 早期风险模型用随后但结局前的记录作特权教师。 |
+| 强化学习 | 强化学习方法 | [On Reparameterizing the Score Function](cards-0009.md#paper-151999) | 序列策略奖励稀疏时，用可微历史路径作中心化控制变量。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Burden of Achieving Fairness in Conformal Prediction](cards-0009.md#paper-150399) | 做多群体共形校准时，同时报告分群覆盖率和集合大小。 |
+| 强化学习 | 理论与统计 | [On the Complexity of Offline Reinforcement Learning with Q*-Approximation and Partial Coverage](cards-0009.md#paper-149090) | 离线强化数据覆盖不全时，分别审计可做决策的复杂度和估值误差。 |
+| 机器学习基础与统计 | 优化 | [On the Convergence Analysis of Muon](cards-0009.md#paper-156746) | 选矩阵优化器前，检查局部曲率是否有利于矩阵正交化更新。 |
+| 强化学习 | 理论与统计 | [On the Divergence of Differential Temporal Difference Learning without Local Clocks](cards-0009.md#paper-152272) | 平均回报差分 TD 应测试状态访问次数步长，不默认可换成全局步数。 |
+| 大语言模型 | 数据策略 | [On the Effect of Token Correlations on Semantic Transfer in Transformers](cards-0009.md#paper-155543) | 词面任务标记诱导捷径时，延后引入跨任务目标标签。 |
+| 大语言模型 | 训练策略 | [On the Efficiency of Structured Pruning in Small Language Model Pretraining](cards-0009.md#paper-154468) | 训练小模型时，按完整预训练预算比较直接训练与放大再剪枝。 |
+| 机器学习基础与统计 | 推理策略 | [On the Error Correcting Effects of Stochasticity in Discrete Diffusion](cards-0009.md#paper-154726) | 离散扩散采样的确定轨迹容易累计误差时，比较少量可控随机重启。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Expressive Power and Limitations of Multi-Layer SSMs](cards-0009.md#paper-156766) | 循环状态不足以处理多步组合时，区分深度、精度和推理发生时点。 |
+| 多模态学习 | 评测与诊断 | [On the Faithfulness of Visual Thinking: Measurement and Enhancement](cards-0009.md#paper-152360) | 视频推理证据必须同时相关且充分。 |
+| 大语言模型 | 评测与诊断 | [On the Fragility of Latent Knowledge: Layer-wise Influence under Unlearning in Large Language Model](cards-0009.md#paper-155587) | 分层检查遗忘对保留任务的损伤。 |
+| 机器学习基础与统计 | 优化 | [On the fundamentals of gradient-based SAT solvers](cards-0009.md#paper-154606) | 连续 SAT 停滞时检查对称性。 |
+| 大语言模型 | 表征学习 | [On the Geometry and Latent-Space Composition of Hypernetwork-Generated LoRAs](cards-0009.md#paper-148858) | 超网络 LoRA 可在解码前合并潜变量。 |
+| 强化学习 | 理论与统计 | [On the Impact of Side-Information in Bandit Learning: More is Not Always Merrier](cards-0009.md#paper-152581) | 免费无偏侧信息也要做有无共享对照。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models](cards-0009.md#paper-151807) | SSM 门控分开验长序列和上下文迁移。 |
+| 大语言模型 | 训练策略 | [On the Information Loss of Multi-Token Prediction: Origin and Solution](cards-0009.md#paper-148174) | 多词块联合预测未来及重建上下文。 |
+| 机器学习基础与统计 | 优化 | [On the Instability and Stabilization of Blockwise Muon](cards-0009.md#paper-154965) | 分块 Muon 先校验跨块有效步长。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Invariance and Generality of Neural Scaling Laws](cards-0009.md#paper-152053) | 缩放律迁移按变换是否保留信息判断。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Last-Iterate Convergence of Clipped Gradient Methods](cards-0009.md#paper-148182) | 重尾环境下以裁剪 SGD 的最终迭代验证。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Limits of Latent Reuse in Diffusion Models](cards-0009.md#paper-154956) | 扩散潜变量迁移检查目标子空间错配与噪声。 |
+| 计算机视觉 | 评测与诊断 | [On the Memorization of Consistency Distillation for Diffusion Models](cards-0009.md#paper-152743) | 保护隐私时单独测一致性蒸馏后的记忆。 |
+| 多模态学习 | 推理策略 | [On the Nature of Attention Sink that Shapes Decoding Strategy in Omni-LLMs](cards-0009.md#paper-148724) | 跨模态注意汇聚应检查其可能提供的共享全局信息。 |
+| 计算机视觉 | 推理策略 | [On the Necessity of Guidance Decay:  From Three-Phase Analysis in Gaussian Mixture Models to Dynamic Optimization](cards-0009.md#paper-151326) | 条件引导在去噪后段采用受稳定范围约束的衰减。 |
+| 大语言模型 | 优化 | [On the Nonlinearity of Learning Rate Scaling for LLM Training](cards-0009.md#paper-155689) | 学习率外推看归一权重空间中的有效步长。 |
+| 强化学习 | 理论与统计 | [On the Optimal Sample Complexity of Offline Multi-Armed Bandits with KL Regularization](cards-0009.md#paper-155456) | 离线老虎机的预算同时取决于覆盖和 KL 正则。 |
+| 大语言模型 | 评测与诊断 | [On the Origin of Algorithmic Progress in AI: Evidence from Language Model Pre-Training](cards-0009.md#paper-153579) | 历史算法效率随参考训练规模报告。 |
+| 大语言模型 | 推理策略 | [On the Overscaling Curse of Parallel Thinking: System Efficacy Contradicts Sample Efficiency](cards-0009.md#paper-148376) | 解码前为每题分配并行候选预算。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Parallel Optimality of Exponentiated Gradient Descent](cards-0009.md#paper-152281) | 单纯形优化不要默认并发梯度可减少轮数。 |
+| 计算机视觉 | 评测与诊断 | [On the Pitfalls of Instance-Based Dynamic Curricula](cards-0009.md#paper-153313) | 动态课程比较保持有效学习率与更新量一致。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Price of Privacy for Language Identification and Generation](cards-0009.md#paper-148955) | 私有语言学习比较纯隐私与近似隐私对误差指数影响。 |
+| 强化学习 | 评测与诊断 | [On the Primacy Bias in RLVR Training](cards-0009.md#paper-150372) | 强化数据按初始难度分层测新增能力与遗忘。 |
+| 多模态学习 | 表征学习 | [On the Provable Emergence of Hierarchical Concept Structure in CLIP Embeddings](cards-0009.md#paper-153853) | 层级视觉线索可借图文对比转入文本几何。 |
+| 图学习与推荐 | 理论与统计 | [On the Rademacher Complexity of Graph Neural Networks: Unifying Expressivity and Geometry](cards-0009.md#paper-154768) | 选图骨干时兼看可表达类和样本在图空间的分布。 |
+| 大语言模型 | 评测与诊断 | [On the Recall Scaling Laws in Mamba: A Theoretical and Mechanistic Study via Hashing](cards-0009.md#paper-155580) | 循环状态记忆用关联回忆测词表、上下文与状态尺寸折中。 |
+| 科学机器学习 | 理论与统计 | [On the Recoverability of Causal Relations from Bulk Gene Expression Data](cards-0009.md#paper-149548) | 从聚合表达数据推断因果前检验聚合一致性。 |
+| 计算机视觉 | 推理策略 | [On the Relaxation of Conditional Independence Assumption for Image Segmentation](cards-0009.md#paper-154387) | 分割推理在低对比时考虑可计算的局部标签依赖。 |
+| 大语言模型 | 模块 | [On the Runway Cascade of Transformers for Language Modeling](cards-0009.md#paper-154750) | 因果注意连接同时考虑经中间词元的传播。 |
+| 大语言模型 | 理论与统计 | [On the Sparsity of Direct Preference Optimization: Weight Disentanglement in the NTK Regime](cards-0009.md#paper-151061) | 合并偏好适配器时同时测样本支持和参数更新稀疏性。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Sparsity-Storage-Accuracy Tradeoff in Parsimoniously Activated Dictionary Learning](cards-0009.md#paper-154548) | 字典学习按存储、激活稀疏和误差共同调参。 |
+| 机器学习基础与统计 | 理论与统计 | [On the Tightness and Computational Tractability of Higher-Dimensional Confidence Sequences](cards-0009.md#paper-154185) | 顺序监控多指标用组合置信区域的外近似。 |
+| 大语言模型 | 训练策略 | [On the Token Value Inequality in Efficient Reasoning](cards-0009.md#paper-150461) | 缩短推理分别压缩冗余词元与保留结构词元。 |
+| 大语言模型 | 推理策略 | [On Time, Within Budget: Constraint-Driven Online Resource Allocation for Agentic Workflows](cards-0009.md#paper-154939) | 预算与截止同时存在时直接优化工作流完成概率。 |
+| 机器人学 | 推理策略 | [OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning](cards-0009.md#paper-155199) | 机器人规划用可检索的共享本体表示场景和前置条件。 |
+| 机器学习基础与统计 | 理论与统计 | [On Worst-Case Guarantees for Graph-Based Nearest-Neighbor Search](cards-0009.md#paper-152352) | 近邻系统需要最坏保证时不能只用数据点搜索图。 |
+| 计算机视觉 | 模型架构 | [OopsWorld! Operation-Grounded Seamless World Generation](cards-0009.md#paper-152375) | 持续世界编辑把变动与应保留状态都写入操作。 |
+| 科学机器学习 | 数据策略 | [OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation](cards-0009.md#paper-139232) | 选自动生成分割训练标签时，记录无需真值的逐例质量统计，并在固定预算下验证筛选。 |
+| 计算机视觉 | 推理策略 | [Opening the Black Box of Classifier-Free Guidance via Information Bottleneck](cards-0009.md#paper-148587) | 选扩散无分类器引导时机时，用条件信息阶段性变化取代固定启用。 |
+| 大语言模型 | 数据策略 | [OpenSearcher: Democratizing Deep Search through a Fully Offline Pipeline with Programmatic Verification](cards-0009.md#paper-152128) | 为深搜索训练合成可验证样本时，从唯一标识实体的证据组合生成题目。 |
+| 计算机视觉 | 模型架构 | [Open-Vocabulary 3D Part Segmentation with  Semantic Propagation Hawkes Process](cards-0009.md#paper-155432) | 三维部件分割中先抑制语义漂移，再沿空间结构传播高置信部件证据。 |
+| 多模态学习 | 评测与诊断 | [Open Vocabulary Domain Unlearning](cards-0009.md#paper-150532) | 视觉域遗忘要单独验证未见类别上的域识别是否降低。 |
+| 计算机视觉 | 评测与诊断 | [OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](cards-0009.md#paper-139156) | 检测图像编辑质量时，把边缘对齐和内区纹理错误拆分。 |
+| 计算机视觉 | 训练策略 | [OPERA: An Agent for Image Restoration with End-to-End Joint Planning–Execution Optimization](cards-0009.md#paper-149311) | 图像处理多工具串联失败时，联合训练执行器以适配彼此输出分布。 |
+| 大语言模型 | 评测与诊断 | [Operads for compositional reasoning in LLMs](cards-0009.md#paper-150153) | 组合问答没有参考答案时，比较直接回答与先分解再组合的结果。 |
+| 科学机器学习 | 评测与诊断 | [OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators](cards-0009.md#paper-154322) | 神经算子输入网格改变时，用函数空间归因避免重新训练每种网格解释器。 |
+| 大语言模型 | 强化学习方法 | [OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in Policy Optimization](cards-0009.md#paper-151932) | 逐词信用应结合成功概率当前不确定性。 |
+| 机器学习基础与统计 | 理论与统计 | [Opponent Modeling in Incomplete-Information Continuous Colonel Blotto](cards-0009.md#paper-153312) | 博弈对手摘要先验证保留的统计量能否决定收益。 |
+| 强化学习 | 理论与统计 | [OPSRL-SSP: Optimistic Posterior Sampling for Stochastic Shortest Path with Minimax-Optimal Regret](cards-0009.md#paper-149166) | 随机最短路的后验采样应检查随机长度下的一致乐观性。 |
+| 大语言模型 | 数据策略 | [Opt-Arena: Evaluating, Selecting, and Generating Optimization Modeling Data via Tripartite Graphs](cards-0009.md#paper-153953) | 优化建模数据按约束逻辑的组合覆盖选样。 |
+| 多模态学习 | 推理策略 | [OpticalRAG: Pixel-Space Compression for Token-Efficient Retrieval-Augmented Generation](cards-0009.md#paper-152209) | 文档增强可保留页面图像，再按问题压缩图像词元。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal algorithmic complexity of inference in quantum kernel methods](cards-0009.md#paper-151049) | 量子核推断同时衡量查询和门复杂度。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Algorithms for Fixed-Graph  Multi-Attribution Privacy](cards-0009.md#paper-150041) | 多用户共同归属数据应按属性图限制贡献。 |
+| 强化学习 | 理论与统计 | [Optimal and Efficient Contextual Combinatorial Semi-bandits with General Function Approximation](cards-0009.md#paper-155961) | 组合半老虎机用凸抽样平衡组合探索。 |
+| 科学机器学习 | 理论与统计 | [Optimal Ansatz-free Hamiltonian Learning In Situ](cards-0009.md#paper-151579) | 量子校准按可用控制条件比较最优时间资源。 |
+| 机器学习基础与统计 | 优化 | [Optimal Byzantine-resilient Federated Learning with User-level Differential Privacy](cards-0009.md#paper-152344) | 联邦鲁棒聚合与用户隐私噪声需共同设计。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand](cards-0009.md#paper-150624) | 需求有跳跃时不应直接插值跨情境收益。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Convergence Analysis of DDPM for General Distributions](cards-0009.md#paper-155799) | DDPM 步数预算同时看维数和分布平滑条件。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Dimension-Free Sampling for Regularized Classification](cards-0009.md#paper-154002) | 分类核集的样本量看正则与损失导数性质。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Experiments for Partial Causal Effect Identification](cards-0009.md#paper-154125) | 部分可辨识因果量按最坏区间缩小选实验。 |
+| 机器学习基础与统计 | 优化 | [Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets](cards-0009.md#paper-148709) | 库存约束下分离理想目标和当前可执行投影。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal In-context Adaptivity and Distributional Robustness of Transformers](cards-0009.md#paper-155446) | 上下文预训练混合难度有助于无参数更新地适配任务。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal In-Context Learning of Autoregressive Processes under Heterogeneous Second-Order Moments of the Prompts](cards-0009.md#paper-153067) | 时序上下文学习可利用二阶统计量匹配异质提示。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Learning-Augmented Algorithm for Online Bidding](cards-0009.md#paper-150063) | 随机在线阈值算法可按输出分布描述预测可靠性与保底。 |
+| 机器学习基础与统计 | 理论与统计 | [Optimal Linear Regression Without a Variance](cards-0009.md#paper-149470) | 回归残差修剪可把有限方差方法转换到弱矩设定。 |
