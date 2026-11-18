@@ -92,6 +92,8 @@
 - [错误反馈与不可解状态的轨迹增强](../conferences/icml-2026/cards/5001-5100.md#wu26al-data-strategies) · Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use
 - [用可判分的仓库交互辅助任务训练](../conferences/icml-2026/cards/5101-5200.md#xie26p-data-strategies) · Hybrid-Gym: Training Coding Agents to Generalize Across Tasks
 - [表格规模与长上下文后训练](../conferences/icml-2026/cards/5101-5200.md#xie26ae-data-strategies) · Probing How Scalable Table Data Enhances General Long-Context Reasoning
+- [按非对称loss影响排batch顺序](../conferences/icml-2026/cards/5201-5300.md#xu26p-data-strategies) · D$^3$: Dynamic Directional Graph-Constrained Data Scheduling for LLM Training
+- [按曲率方向约束退火样本](../conferences/icml-2026/cards/5201-5300.md#xu26q-data-strategies) · Towards Efficient LLMs Annealing with Principled Sample Selection
 
 <a id="by-computer-vision"></a>
 
@@ -193,6 +195,7 @@
 - [用自生成图注增加可利用的跨模态冗余](../conferences/icml-2026/cards/3901-4000.md#ryan26a-data-strategies) · Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models
 - [任务分布一致性与相关性联合剪枝](../conferences/icml-2026/cards/4601-4700.md#wang26cz-data-strategies) · ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis
 - [局部教师全图学生](../conferences/icml-2026/cards/4901-5000.md#wei26j-data-strategies) · Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception
+- [用相关与无关遮挡区分证据依赖](../conferences/icml-2026/cards/5201-5300.md#xu26x-data-strategies) · DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning
 
 <a id="by-ml-foundations"></a>
 

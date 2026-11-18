@@ -110,6 +110,7 @@
 - [首步监督与后续分布蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26ag-loss-functions) · Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis
 - [负样本反射目标的偏好训练](../conferences/icml-2026/cards/5001-5100.md#wu26ay-loss-functions) · PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward
 - [按回报分支施加区域约束](../conferences/icml-2026/cards/5001-5100.md#wu26bm-loss-functions) · CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning
+- [对语义配对真假样本限制过分分离](../conferences/icml-2026/cards/5201-5300.md#xu26s-loss-functions) · BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning
 
 <a id="by-nlp"></a>
 
@@ -257,6 +258,7 @@
 - [流形流映射的停止目标回归](../conferences/icml-2026/cards/4901-5000.md#woo26a-loss-functions) · Riemannian MeanFlow
 - [对密度比梯度的Sobolev正则](../conferences/icml-2026/cards/5101-5200.md#xie26b-loss-functions) · Sobolev Regularized Score Difference Estimation in Diffusion Models
 - [按主方向与方差匹配合成数据](../conferences/icml-2026/cards/5101-5200.md#xie26l-loss-functions) · FedUSD: Unbiased Synthetic Data for Federated Learning
+- [用分箱密度头精炼回归伪标签](../conferences/icml-2026/cards/5201-5300.md#xu26i-loss-functions) · Discretized Density-Guided Source-Free Domain Adaptation for Regression
 
 <a id="by-graph-and-recommendation"></a>
 

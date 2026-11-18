@@ -110,6 +110,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis](../../conferences/icml-2026/cards/5001-5100.md#wu26ag-loss-functions) · 中文
 - [PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward](../../conferences/icml-2026/cards/5001-5100.md#wu26ay-loss-functions) · 中文
 - [CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26bm-loss-functions) · 中文
+- [BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26s-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -257,6 +258,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Riemannian MeanFlow](../../conferences/icml-2026/cards/4901-5000.md#woo26a-loss-functions) · 中文
 - [Sobolev Regularized Score Difference Estimation in Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#xie26b-loss-functions) · 中文
 - [FedUSD: Unbiased Synthetic Data for Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#xie26l-loss-functions) · 中文
+- [Discretized Density-Guided Source-Free Domain Adaptation for Regression](../../conferences/icml-2026/cards/5201-5300.md#xu26i-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

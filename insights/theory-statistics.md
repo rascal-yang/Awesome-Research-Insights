@@ -176,6 +176,7 @@
 - [多智能体模仿的特征覆盖与交互选择](../conferences/icml-2026/cards/4501-4600.md#viano26a-theory-statistics) · Multi-agent imitation learning with function approximation: linear Markov games and beyond
 - [GRPO采样维度方差不对称](../conferences/icml-2026/cards/4601-4700.md#wang26ci-theory-statistics) · Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO
 - [奖励MNAR的桥式评估](../conferences/icml-2026/cards/4901-5000.md#wei26v-theory-statistics) · Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random
+- [阈值lookahead的有限目标控制](../conferences/icml-2026/cards/5201-5300.md#xu26o-theory-statistics) · Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding
 
 <a id="by-robotics"></a>
 
@@ -605,6 +606,7 @@
 - [谱几何约束下的教师选择](../conferences/icml-2026/cards/5001-5100.md#wu26ce-theory-statistics) · What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression
 - [折扣FTRL的动态遗憾转化](../conferences/icml-2026/cards/5101-5200.md#xie26ad-theory-statistics) · Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer
 - [跨窗口边可信度的联邦聚合](../conferences/icml-2026/cards/5201-5300.md#xu26b-theory-statistics) · Credibility-Aware Weighting Federated Causal Discovery for Time Series
+- [在缺失机制一致集合上稳健决策](../conferences/icml-2026/cards/5201-5300.md#xu26v-theory-statistics) · Robust Contextual Optimization with Missing Covariates
 
 <a id="by-graph-and-recommendation"></a>
 

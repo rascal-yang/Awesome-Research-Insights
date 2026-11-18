@@ -592,6 +592,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xiao26p-training-strategies"></a>[FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26p)
 - <a id="xing26c-training-strategies"></a>[PretrainZero: Reinforcement Active Learning on Pretraining Data](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26c)
 - <a id="xiong26p-training-strategies"></a>[Token-Level LLM Collaboration via FusionRoute](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26p)
+- <a id="xu26h-training-strategies"></a>[DLLMQuant: A Post-Training Quantization Framework Tailored for Diffusion-Based Large Language Models](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26h)
+- <a id="xu26t-training-strategies"></a>[Grouter: Decoupling Routing from Representation for Accelerated MoE Training](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26t)
 
 <a id="by-data-strategies"></a>
 
@@ -676,6 +678,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wu26al-data-strategies"></a>[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26al)
 - <a id="xie26p-data-strategies"></a>[Hybrid-Gym: Training Coding Agents to Generalize Across Tasks](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26p)
 - <a id="xie26ae-data-strategies"></a>[Probing How Scalable Table Data Enhances General Long-Context Reasoning](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26ae)
+- <a id="xu26p-data-strategies"></a>[D$^3$: Dynamic Directional Graph-Constrained Data Scheduling for LLM Training](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26p)
+- <a id="xu26q-data-strategies"></a>[Towards Efficient LLMs Annealing with Principled Sample Selection](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26q)
 
 <a id="by-inference"></a>
 
@@ -1012,6 +1016,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xiao26q-inference"></a>[Editable Proof Sketch for Automated Theorem Proving](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26q)
 - <a id="xie26z-inference"></a>[Statistical Early Stopping for Reasoning Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26z)
 - <a id="xiong26q-inference"></a>[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26q)
+- <a id="xu26r-inference"></a>[Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26r)
+- <a id="xu26y-inference"></a>[Antidistillation Fingerprinting](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26y)
 
 <a id="by-representation-learning"></a>
 

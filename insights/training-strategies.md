@@ -153,6 +153,8 @@
 - [接收秩与训练秩解耦的联邦适配](../conferences/icml-2026/cards/5101-5200.md#xiao26p-training-strategies) · FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources
 - [掩码生成与预测的对抗自监督RL](../conferences/icml-2026/cards/5101-5200.md#xing26c-training-strategies) · PretrainZero: Reinforcement Active Learning on Pretraining Data
 - [路由器对所选专家的互补logit](../conferences/icml-2026/cards/5201-5300.md#xiong26p-training-strategies) · Token-Level LLM Collaboration via FusionRoute
+- [按时间与mask状态校准量化](../conferences/icml-2026/cards/5201-5300.md#xu26h-training-strategies) · DLLMQuant: A Post-Training Quantization Framework Tailored for Diffusion-Based Large Language Models
+- [预先蒸馏并缓存固定MoE路由](../conferences/icml-2026/cards/5201-5300.md#xu26t-training-strategies) · Grouter: Decoupling Routing from Representation for Accelerated MoE Training
 
 <a id="by-computer-vision"></a>
 
@@ -253,6 +255,7 @@
 - [有置信门控的奖励补全](../conferences/icml-2026/cards/4101-4200.md#shihab26d-training-strategies) · What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion
 - [TD误差累计均值的平方根熵调度](../conferences/icml-2026/cards/4801-4900.md#wang26jc-training-strategies) · Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning
 - [几何增长的目标网络冻结周期](../conferences/icml-2026/cards/4901-5000.md#weissmann26a-training-strategies) · The Role of Target Update Frequencies in Q-Learning
+- [用BC对数概率预热AIL奖励](../conferences/icml-2026/cards/5201-5300.md#xu26j-training-strategies) · Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning
 
 <a id="by-robotics"></a>
 

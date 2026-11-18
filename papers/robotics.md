@@ -204,6 +204,7 @@
 - <a id="wu26bt-inference"></a>[Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bt)
 - <a id="xiang26f-inference"></a>[Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration](../conferences/icml-2026/cards/5101-5200.md#paper-xiang26f)
 - <a id="xiong26o-inference"></a>[VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26o)
+- <a id="xu26u-inference"></a>[Error Amplification Limits ANN-to-SNN Conversion in Continuous Control](../conferences/icml-2026/cards/5201-5300.md#paper-xu26u)
 
 <a id="by-representation-learning"></a>
 

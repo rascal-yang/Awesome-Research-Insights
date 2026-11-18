@@ -193,6 +193,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="woo26a-loss-functions"></a>[Riemannian MeanFlow](../../conferences/icml-2026/cards/4901-5000.md#paper-woo26a)
 - <a id="xie26b-loss-functions"></a>[Sobolev Regularized Score Difference Estimation in Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26b)
 - <a id="xie26l-loss-functions"></a>[FedUSD: Unbiased Synthetic Data for Federated Learning](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26l)
+- <a id="xu26i-loss-functions"></a>[Discretized Density-Guided Source-Free Domain Adaptation for Regression](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26i)
 
 <a id="by-optimization"></a>
 
@@ -1180,4 +1181,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wu26ce-theory-statistics"></a>[What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ce)
 - <a id="xie26ad-theory-statistics"></a>[Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26ad)
 - <a id="xu26b-theory-statistics"></a>[Credibility-Aware Weighting Federated Causal Discovery for Time Series](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26b)
+- <a id="xu26v-theory-statistics"></a>[Robust Contextual Optimization with Missing Covariates](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26v)
 <!-- classification:end -->

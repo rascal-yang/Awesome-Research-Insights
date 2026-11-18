@@ -92,6 +92,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](../../conferences/icml-2026/cards/5001-5100.md#wu26al-data-strategies) · 中文
 - [Hybrid-Gym: Training Coding Agents to Generalize Across Tasks](../../conferences/icml-2026/cards/5101-5200.md#xie26p-data-strategies) · 中文
 - [Probing How Scalable Table Data Enhances General Long-Context Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xie26ae-data-strategies) · 中文
+- [D$^3$: Dynamic Directional Graph-Constrained Data Scheduling for LLM Training](../../conferences/icml-2026/cards/5201-5300.md#xu26p-data-strategies) · 中文
+- [Towards Efficient LLMs Annealing with Principled Sample Selection](../../conferences/icml-2026/cards/5201-5300.md#xu26q-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -193,6 +195,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Self-Captioning Multimodal Interaction Tuning: Amplifying Exploitable Redundancies for Robust Vision Language Models](../../conferences/icml-2026/cards/3901-4000.md#ryan26a-data-strategies) · 中文
 - [ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis](../../conferences/icml-2026/cards/4601-4700.md#wang26cz-data-strategies) · 中文
 - [Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](../../conferences/icml-2026/cards/4901-5000.md#wei26j-data-strategies) · 中文
+- [DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26x-data-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

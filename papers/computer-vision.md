@@ -180,6 +180,7 @@
 - <a id="wu26ag-loss-functions"></a>[Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ag)
 - <a id="wu26ay-loss-functions"></a>[PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ay)
 - <a id="wu26bm-loss-functions"></a>[CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bm)
+- <a id="xu26s-loss-functions"></a>[BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26s)
 
 <a id="by-optimization"></a>
 
@@ -470,6 +471,7 @@
 - <a id="xia26b-inference"></a>[Factored Classifier-Free Guidance](../conferences/icml-2026/cards/5101-5200.md#paper-xia26b)
 - <a id="xia26i-inference"></a>[Boost the Identity-Preserving Embedding for Consistent Visual Generation](../conferences/icml-2026/cards/5101-5200.md#paper-xia26i)
 - <a id="xie26ab-inference"></a>[AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion](../conferences/icml-2026/cards/5101-5200.md#paper-xie26ab)
+- <a id="xu26m-inference"></a>[Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](../conferences/icml-2026/cards/5201-5300.md#paper-xu26m)
 
 <a id="by-representation-learning"></a>
 

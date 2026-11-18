@@ -176,6 +176,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Multi-agent imitation learning with function approximation: linear Markov games and beyond](../../conferences/icml-2026/cards/4501-4600.md#viano26a-theory-statistics) · 中文
 - [Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](../../conferences/icml-2026/cards/4601-4700.md#wang26ci-theory-statistics) · 中文
 - [Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random](../../conferences/icml-2026/cards/4901-5000.md#wei26v-theory-statistics) · 中文
+- [Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding](../../conferences/icml-2026/cards/5201-5300.md#xu26o-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -605,6 +606,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression](../../conferences/icml-2026/cards/5001-5100.md#wu26ce-theory-statistics) · 中文
 - [Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer](../../conferences/icml-2026/cards/5101-5200.md#xie26ad-theory-statistics) · 中文
 - [Credibility-Aware Weighting Federated Causal Discovery for Time Series](../../conferences/icml-2026/cards/5201-5300.md#xu26b-theory-statistics) · 中文
+- [Robust Contextual Optimization with Missing Covariates](../../conferences/icml-2026/cards/5201-5300.md#xu26v-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

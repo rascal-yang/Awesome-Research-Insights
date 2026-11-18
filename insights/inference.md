@@ -344,6 +344,8 @@
 - [保留已证子目标的可编辑证明结构](../conferences/icml-2026/cards/5101-5200.md#xiao26q-inference) · Editable Proof Sketch for Automated Theorem Proving
 - [用全轨迹最大不确定性校准早停](../conferences/icml-2026/cards/5101-5200.md#xie26z-inference) · Statistical Early Stopping for Reasoning Models
 - [边界预测驱动的层级稀疏prefill](../conferences/icml-2026/cards/5201-5300.md#xiong26q-inference) · Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference
+- [用熵变点选择早停与投票权](../conferences/icml-2026/cards/5201-5300.md#xu26r-inference) · Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning
+- [按学生学习方向设计蒸馏指纹](../conferences/icml-2026/cards/5201-5300.md#xu26y-inference) · Antidistillation Fingerprinting
 
 <a id="by-computer-vision"></a>
 
@@ -466,6 +468,7 @@
 - [分属性组的classifier-free guidance](../conferences/icml-2026/cards/5101-5200.md#xia26b-inference) · Factored Classifier-Free Guidance
 - [跨提示谱增强与同值多键attention](../conferences/icml-2026/cards/5101-5200.md#xia26i-inference) · Boost the Identity-Preserving Embedding for Consistent Visual Generation
 - [掩码势场控制注意力几何](../conferences/icml-2026/cards/5101-5200.md#xie26ab-inference) · AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion
+- [以输出通道传播可验证水印](../conferences/icml-2026/cards/5201-5300.md#xu26m-inference) · Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks
 
 <a id="by-nlp"></a>
 
@@ -552,6 +555,7 @@
 - [世界模型代理约束的动作跳步](../conferences/icml-2026/cards/5001-5100.md#wu26bt-inference) · Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation
 - [按曲线形状选频谱对焦范围](../conferences/icml-2026/cards/5101-5200.md#xiang26f-inference) · Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration
 - [保留转弯与共享锚帧的分图SLAM](../conferences/icml-2026/cards/5201-5300.md#xiong26o-inference) · VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency
+- [跨控制步保留脉冲残余电位](../conferences/icml-2026/cards/5201-5300.md#xu26u-inference) · Error Amplification Limits ANN-to-SNN Conversion in Continuous Control
 
 <a id="by-multimodal"></a>
 
@@ -657,6 +661,7 @@
 - [用层间attention差提取视觉证据](../conferences/icml-2026/cards/5101-5200.md#xie26m-inference) · Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy
 - [纠错对比向量的区域指代注入](../conferences/icml-2026/cards/5101-5200.md#xing26e-inference) · Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering
 - [模态内纠正量与跨模态残差门控](../conferences/icml-2026/cards/5201-5300.md#xiong26n-inference) · Geometry-based Schrödinger Bridges for Trustworthy Multimodal Fusion
+- [按解码步的视觉attention分配token预算](../conferences/icml-2026/cards/5201-5300.md#xu26w-inference) · VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning
 
 <a id="by-ml-foundations"></a>
 

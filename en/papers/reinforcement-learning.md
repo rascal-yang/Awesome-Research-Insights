@@ -218,6 +218,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="shihab26d-training-strategies"></a>[What Reward Structure Enables Efficient Sparse-Reward RL? A Proof-of-Concept with Policy-Aware Matrix Completion](../../conferences/icml-2026/cards/4101-4200.md#paper-shihab26d)
 - <a id="wang26jc-training-strategies"></a>[Tracking Drift: Variation-Aware Entropy Scheduling for Non-Stationary Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jc)
 - <a id="weissmann26a-training-strategies"></a>[The Role of Target Update Frequencies in Q-Learning](../../conferences/icml-2026/cards/4901-5000.md#paper-weissmann26a)
+- <a id="xu26j-training-strategies"></a>[Provably Efficient Policy-Reward Co-Pretraining for Adversarial Imitation Learning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26j)
 
 <a id="by-data-strategies"></a>
 
@@ -369,4 +370,5 @@ Learning from interaction, feedback, and offline experience.
 - <a id="viano26a-theory-statistics"></a>[Multi-agent imitation learning with function approximation: linear Markov games and beyond](../../conferences/icml-2026/cards/4501-4600.md#paper-viano26a)
 - <a id="wang26ci-theory-statistics"></a>[Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26ci)
 - <a id="wei26v-theory-statistics"></a>[Off-Policy Evaluation for Missingness-Aware Policies in MDPs with Rewards Missing Not at Random](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26v)
+- <a id="xu26o-theory-statistics"></a>[Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26o)
 <!-- classification:end -->
