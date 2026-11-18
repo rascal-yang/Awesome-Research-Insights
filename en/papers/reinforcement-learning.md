@@ -26,6 +26,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="xu26ak-architecture"></a>[Self-supervised Hierarchical Visual Reasoning with World Model](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ak)
 - <a id="xue26e-architecture"></a>[Learning Disentangled Multi-Agent World Model for Decentralized Control](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26e)
 - <a id="yang26bi-architecture"></a>[Forward-Chaining Temporal Point Process](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bi)
+- <a id="yassin26a-architecture"></a>[RiskZero: Plan More to Risk Less with a Learned Model](../../conferences/icml-2026/cards/5501-5600.md#paper-yassin26a)
 
 <a id="by-modules"></a>
 

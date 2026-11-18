@@ -1436,6 +1436,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yan26t-evaluation"></a>[CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26t)
 - <a id="yang26al-evaluation"></a>[Shared Lexical Task Representations Explain Behavioral Variability In LLMs](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26al)
 - <a id="yang26dv-evaluation"></a>[Profiling the Irrational Agent: Cognitive Modeling of LLM Behaviors in Sequential Jailbreaks](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dv)
+- <a id="ye26b-evaluation"></a>[Prompt Injection as Role Confusion](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26b)
 
 <a id="by-theory-statistics"></a>
 

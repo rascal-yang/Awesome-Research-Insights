@@ -162,6 +162,7 @@
 - [重建残差逐层上送的世界模型](../conferences/icml-2026/cards/5201-5300.md#xu26ak-architecture) · Self-supervised Hierarchical Visual Reasoning with World Model
 - [局部后验监督联合想象先验](../conferences/icml-2026/cards/5301-5400.md#xue26e-architecture) · Learning Disentangled Multi-Agent World Model for Decentralized Control
 - [用多跳谓词状态驱动连续时间事件生成](../conferences/icml-2026/cards/5401-5500.md#yang26bi-architecture) · Forward-Chaining Temporal Point Process
+- [risk-sensitive搜索同时估历史与未来回报](../conferences/icml-2026/cards/5501-5600.md#yassin26a-architecture) · RiskZero: Plan More to Risk Less with a Learned Model
 
 <a id="by-robotics"></a>
 

@@ -190,6 +190,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences](../../conferences/icml-2026/cards/4201-4300.md#stein26a-theory-statistics) · 中文
 - [Embedding Hybrid Systems into Continuous Latent Vector Fields](../../conferences/icml-2026/cards/4401-4500.md#teng26a-theory-statistics) · 中文
 - [On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise](../../conferences/icml-2026/cards/4401-4500.md#teutsch26a-theory-statistics) · 中文
+- [Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](../../conferences/icml-2026/cards/5501-5600.md#yates26a-theory-statistics) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -626,6 +627,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Logarithmic Switching Regret for Online Convex Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26ce-theory-statistics) · 中文
 - [Adaptive Multiscale Binary Expansion Tests for Independence](../../conferences/icml-2026/cards/5401-5500.md#yang26dt-theory-statistics) · 中文
 - [Any-dimensional invariant universality](../../conferences/icml-2026/cards/5401-5500.md#yao26f-theory-statistics) · 中文
+- [Complexity of Decentralized Optimization with Mixed Affine Constraints](../../conferences/icml-2026/cards/5501-5600.md#yarmoshik26a-theory-statistics) · 中文
+- [Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions](../../conferences/icml-2026/cards/5501-5600.md#yarotsky26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

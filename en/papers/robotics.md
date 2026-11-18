@@ -142,6 +142,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="wu26ck-training-strategies"></a>[PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ck)
 - <a id="xin26a-training-strategies"></a>[Instruction Decomposition and Action Alignment for Vision-and-Language Navigation](../../conferences/icml-2026/cards/5101-5200.md#paper-xin26a)
 - <a id="yang26k-training-strategies"></a>[Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26k)
+- <a id="yao26u-training-strategies"></a>[SC$^2$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26u)
 
 <a id="by-data-strategies"></a>
 
@@ -257,4 +258,5 @@ Robot perception, policy learning, planning, and control.
 - <a id="stein26a-theory-statistics"></a>[Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences](../../conferences/icml-2026/cards/4201-4300.md#paper-stein26a)
 - <a id="teng26a-theory-statistics"></a>[Embedding Hybrid Systems into Continuous Latent Vector Fields](../../conferences/icml-2026/cards/4401-4500.md#paper-teng26a)
 - <a id="teutsch26a-theory-statistics"></a>[On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise](../../conferences/icml-2026/cards/4401-4500.md#paper-teutsch26a)
+- <a id="yates26a-theory-statistics"></a>[Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](../../conferences/icml-2026/cards/5501-5600.md#paper-yates26a)
 <!-- classification:end -->

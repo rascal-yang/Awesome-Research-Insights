@@ -489,6 +489,7 @@
 - [量化误差校准的噪声时刻变形](../conferences/icml-2026/cards/5301-5400.md#yang26aa-inference) · Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models
 - [用反演残差平移重建支路的求值点](../conferences/icml-2026/cards/5401-5500.md#yang26cy-inference) · DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing
 - [统计锚定与旋转对齐的prompt重注入](../conferences/icml-2026/cards/5401-5500.md#yao26b-inference) · Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers
+- [固定高频只进化初始噪声低频](../conferences/icml-2026/cards/5501-5600.md#ye26c-inference) · Spectral Evolution Search: Efficient Inference-Time Scaling for Reward-Aligned Image Generation
 
 <a id="by-nlp"></a>
 
@@ -747,6 +748,7 @@
 - [在模块拆分与跨模块融合间搜索kernel](../conferences/icml-2026/cards/5201-5300.md#xu26cf-inference) · LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis
 - [分布区域内精确等价的树剪枝](../conferences/icml-2026/cards/5301-5400.md#yajima26a-inference) · PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence
 - [采样Pareto前沿的最大间隙定向](../conferences/icml-2026/cards/5301-5400.md#yang26af-inference) · Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition
+- [神经预测dual后投影可行再交精确匹配器](../conferences/icml-2026/cards/5501-5600.md#yavlovich26a-inference) · Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts
 
 <a id="by-graph-and-recommendation"></a>
 

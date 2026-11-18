@@ -190,6 +190,7 @@
 - [低噪声控制正则退化](../conferences/icml-2026/cards/4201-4300.md#stein26a-theory-statistics) · Well-Posed KL-Regularized Control via Wasserstein and Kalman–Wasserstein KL Divergences
 - [hybrid-quotient-latent-flow](../conferences/icml-2026/cards/4401-4500.md#teng26a-theory-statistics) · Embedding Hybrid Systems into Continuous Latent Vector Fields
 - [noise-class-specific-kernel-bounds](../conferences/icml-2026/cards/4401-4500.md#teutsch26a-theory-statistics) · On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise
+- [按先验强度和图结构选择Gaussian BP](../conferences/icml-2026/cards/5501-5600.md#yates26a-theory-statistics) · Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs
 
 <a id="by-multimodal"></a>
 
@@ -626,6 +627,8 @@
 - [区间专家的二阶聚合控制切换遗憾](../conferences/icml-2026/cards/5401-5500.md#yang26ce-theory-statistics) · Logarithmic Switching Regret for Online Convex Optimization
 - [二进制交互核化的独立性检验](../conferences/icml-2026/cards/5401-5500.md#yang26dt-theory-statistics) · Adaptive Multiscale Binary Expansion Tests for Independence
 - [跨维普适性需要匹配极限拓扑](../conferences/icml-2026/cards/5401-5500.md#yao26f-theory-statistics) · Any-dimensional invariant universality
+- [按约束算子分别预算分布式优化成本](../conferences/icml-2026/cards/5501-5600.md#yarmoshik26a-theory-statistics) · Complexity of Decentralized Optimization with Mixed Affine Constraints
+- [联合宽度与初始化判断CP学习regime](../conferences/icml-2026/cards/5501-5600.md#yarotsky26a-theory-statistics) · Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -295,6 +295,7 @@ Training schedules, curricula, and task or stage composition.
 - [PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#wu26ck-training-strategies) · 中文
 - [Instruction Decomposition and Action Alignment for Vision-and-Language Navigation](../../conferences/icml-2026/cards/5101-5200.md#xin26a-training-strategies) · 中文
 - [Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation](../../conferences/icml-2026/cards/5301-5400.md#yang26k-training-strategies) · 中文
+- [SC$^2$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments](../../conferences/icml-2026/cards/5401-5500.md#yao26u-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

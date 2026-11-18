@@ -362,6 +362,7 @@
 - [内部干预目标导出的查询指纹](../conferences/icml-2026/cards/5301-5400.md#yan26t-evaluation) · CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models
 - [跨prompt的词汇化任务信号与竞争](../conferences/icml-2026/cards/5301-5400.md#yang26al-evaluation) · Shared Lexical Task Representations Explain Behavioral Variability In LLMs
 - [多轮安全漂移的低维行为拟合](../conferences/icml-2026/cards/5401-5500.md#yang26dv-evaluation) · Profiling the Irrational Agent: Cognitive Modeling of LLM Behaviors in Sequential Jailbreaks
+- [安全边界评估加入角色表征探测](../conferences/icml-2026/cards/5501-5600.md#ye26b-evaluation) · Prompt Injection as Role Confusion
 
 <a id="by-computer-vision"></a>
 
@@ -432,6 +433,7 @@
 - [拆分图像与软标签的数据压缩比较](../conferences/icml-2026/cards/5101-5200.md#xiao26k-evaluation) · Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression
 - [标签重映射下的组指纹一致性](../conferences/icml-2026/cards/5201-5300.md#xu26bf-evaluation) · Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting
 - [按下游任务分配像素预训练算力](../conferences/icml-2026/cards/5301-5400.md#yan26j-evaluation) · Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?
+- [隐私审计应检测模板结构而非只查逐像素拷贝](../conferences/icml-2026/cards/5501-5600.md#yarkoni26a-evaluation) · Reconstructing Template-Memorized Images from Natural Prompts
 
 <a id="by-nlp"></a>
 
@@ -590,6 +592,7 @@
 - [语音入口的人耳与识别器双重评测](../conferences/icml-2026/cards/5201-5300.md#xu26bl-evaluation) · Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks
 - [固定状态下干预中间图文证据](../conferences/icml-2026/cards/5401-5500.md#yang26cq-evaluation) · Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models
 - [固定任务下成对测试判据切换](../conferences/icml-2026/cards/5401-5500.md#yang26cx-evaluation) · Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models
+- [时间序列对齐应区分全局几何和局部邻域](../conferences/icml-2026/cards/5501-5600.md#yashwante26a-evaluation) · Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces
 
 <a id="by-ml-foundations"></a>
 

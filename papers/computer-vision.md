@@ -492,6 +492,7 @@
 - <a id="yang26aa-inference"></a>[Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models](../conferences/icml-2026/cards/5301-5400.md#paper-yang26aa)
 - <a id="yang26cy-inference"></a>[DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cy)
 - <a id="yao26b-inference"></a>[Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](../conferences/icml-2026/cards/5401-5500.md#paper-yao26b)
+- <a id="ye26c-inference"></a>[Spectral Evolution Search: Efficient Inference-Time Scaling for Reward-Aligned Image Generation](../conferences/icml-2026/cards/5501-5600.md#paper-ye26c)
 
 <a id="by-representation-learning"></a>
 
@@ -628,6 +629,7 @@
 - <a id="xiao26k-evaluation"></a>[Unifying Dataset Pruning and Distillation for Efficient Large-scale Compression](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26k)
 - <a id="xu26bf-evaluation"></a>[Fingerprinting Pre-trained Encoders under Arbitrary Downstream Fine-Tuning via Adversarial Shifting](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bf)
 - <a id="yan26j-evaluation"></a>[Rethinking Generative Image Pretraining: How Far Are We From Scaling Up Next-Pixel Prediction?](../conferences/icml-2026/cards/5301-5400.md#paper-yan26j)
+- <a id="yarkoni26a-evaluation"></a>[Reconstructing Template-Memorized Images from Natural Prompts](../conferences/icml-2026/cards/5501-5600.md#paper-yarkoni26a)
 
 <a id="by-theory-statistics"></a>
 

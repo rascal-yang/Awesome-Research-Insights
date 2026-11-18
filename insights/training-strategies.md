@@ -295,6 +295,7 @@
 - [渐进约束教师的扩散策略后训练](../conferences/icml-2026/cards/5001-5100.md#wu26ck-training-strategies) · PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation
 - [按路径偏差调节专家干预](../conferences/icml-2026/cards/5101-5200.md#xin26a-training-strategies) · Instruction Decomposition and Action Alignment for Vision-and-Language Navigation
 - [按跨表示信心排名调伪标签阈值](../conferences/icml-2026/cards/5301-5400.md#yang26k-training-strategies) · Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation
+- [按反馈动作变化触发world-model适应](../conferences/icml-2026/cards/5401-5500.md#yao26u-training-strategies) · SC$^2$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments
 
 <a id="by-multimodal"></a>
 

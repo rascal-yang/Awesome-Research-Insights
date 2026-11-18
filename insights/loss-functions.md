@@ -224,6 +224,7 @@
 - [同区域多问题的潜表示一致奖励](../conferences/icml-2026/cards/5201-5300.md#xu26aw-loss-functions) · Semantic-Enriched Latent Visual Reasoning
 - [多事件定位同时奖励覆盖和计数](../conferences/icml-2026/cards/5201-5300.md#xu26cc-loss-functions) · Towards One-to-Many Temporal Grounding
 - [扩散偏好训练的时间步裁剪与屏蔽](../conferences/icml-2026/cards/5401-5500.md#yang26cw-loss-functions) · SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models
+- [融合训练保留每模态独立可迁移特征](../conferences/icml-2026/cards/5401-5500.md#yarici26a-loss-functions) · MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization
 
 <a id="by-ml-foundations"></a>
 
@@ -284,6 +285,7 @@
 - [多源保形并集的联合score学习](../conferences/icml-2026/cards/5301-5400.md#yang26ad-loss-functions) · Multi-Distribution Robust Conformal Prediction
 - [用支持距离约束生成式数值代理](../conferences/icml-2026/cards/5401-5500.md#yang26dd-loss-functions) · Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization
 - [Shapley交互启发的Jacobian正则](../conferences/icml-2026/cards/5401-5500.md#yang26dx-loss-functions) · Shapley Regularized Neural Granger Causality
+- [用残差独立性与组稀疏选非线性DAG](../conferences/icml-2026/cards/5401-5500.md#yao26n-loss-functions) · Identifiable Nonlinear Differentiable Causal Discovery via Independence and Adaptive Group Sparsity
 
 <a id="by-graph-and-recommendation"></a>
 

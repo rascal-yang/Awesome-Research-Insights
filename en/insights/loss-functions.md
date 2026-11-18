@@ -224,6 +224,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Semantic-Enriched Latent Visual Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26aw-loss-functions) · 中文
 - [Towards One-to-Many Temporal Grounding](../../conferences/icml-2026/cards/5201-5300.md#xu26cc-loss-functions) · 中文
 - [SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models](../../conferences/icml-2026/cards/5401-5500.md#yang26cw-loss-functions) · 中文
+- [MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization](../../conferences/icml-2026/cards/5401-5500.md#yarici26a-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -284,6 +285,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Multi-Distribution Robust Conformal Prediction](../../conferences/icml-2026/cards/5301-5400.md#yang26ad-loss-functions) · 中文
 - [Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26dd-loss-functions) · 中文
 - [Shapley Regularized Neural Granger Causality](../../conferences/icml-2026/cards/5401-5500.md#yang26dx-loss-functions) · 中文
+- [Identifiable Nonlinear Differentiable Causal Discovery via Independence and Adaptive Group Sparsity](../../conferences/icml-2026/cards/5401-5500.md#yao26n-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -489,6 +489,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#yang26aa-inference) · 中文
 - [DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing](../../conferences/icml-2026/cards/5401-5500.md#yang26cy-inference) · 中文
 - [Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](../../conferences/icml-2026/cards/5401-5500.md#yao26b-inference) · 中文
+- [Spectral Evolution Search: Efficient Inference-Time Scaling for Reward-Aligned Image Generation](../../conferences/icml-2026/cards/5501-5600.md#ye26c-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -747,6 +748,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis](../../conferences/icml-2026/cards/5201-5300.md#xu26cf-inference) · 中文
 - [PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence](../../conferences/icml-2026/cards/5301-5400.md#yajima26a-inference) · 中文
 - [Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition](../../conferences/icml-2026/cards/5301-5400.md#yang26af-inference) · 中文
+- [Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts](../../conferences/icml-2026/cards/5501-5600.md#yavlovich26a-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

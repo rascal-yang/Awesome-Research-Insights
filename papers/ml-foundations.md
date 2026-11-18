@@ -203,6 +203,7 @@
 - <a id="yang26ad-loss-functions"></a>[Multi-Distribution Robust Conformal Prediction](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ad)
 - <a id="yang26dd-loss-functions"></a>[Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization](../conferences/icml-2026/cards/5401-5500.md#paper-yang26dd)
 - <a id="yang26dx-loss-functions"></a>[Shapley Regularized Neural Granger Causality](../conferences/icml-2026/cards/5401-5500.md#paper-yang26dx)
+- <a id="yao26n-loss-functions"></a>[Identifiable Nonlinear Differentiable Causal Discovery via Independence and Adaptive Group Sparsity](../conferences/icml-2026/cards/5401-5500.md#paper-yao26n)
 
 <a id="by-optimization"></a>
 
@@ -661,6 +662,7 @@
 - <a id="xu26cf-inference"></a>[LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cf)
 - <a id="yajima26a-inference"></a>[PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence](../conferences/icml-2026/cards/5301-5400.md#paper-yajima26a)
 - <a id="yang26af-inference"></a>[Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition](../conferences/icml-2026/cards/5301-5400.md#paper-yang26af)
+- <a id="yavlovich26a-inference"></a>[Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts](../conferences/icml-2026/cards/5501-5600.md#paper-yavlovich26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1230,4 +1232,6 @@
 - <a id="yang26ce-theory-statistics"></a>[Logarithmic Switching Regret for Online Convex Optimization](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ce)
 - <a id="yang26dt-theory-statistics"></a>[Adaptive Multiscale Binary Expansion Tests for Independence](../conferences/icml-2026/cards/5401-5500.md#paper-yang26dt)
 - <a id="yao26f-theory-statistics"></a>[Any-dimensional invariant universality](../conferences/icml-2026/cards/5401-5500.md#paper-yao26f)
+- <a id="yarmoshik26a-theory-statistics"></a>[Complexity of Decentralized Optimization with Mixed Affine Constraints](../conferences/icml-2026/cards/5501-5600.md#paper-yarmoshik26a)
+- <a id="yarotsky26a-theory-statistics"></a>[Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions](../conferences/icml-2026/cards/5501-5600.md#paper-yarotsky26a)
 <!-- classification:end -->

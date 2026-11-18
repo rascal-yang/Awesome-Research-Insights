@@ -127,6 +127,7 @@
 - <a id="xu26aw-loss-functions"></a>[Semantic-Enriched Latent Visual Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26aw)
 - <a id="xu26cc-loss-functions"></a>[Towards One-to-Many Temporal Grounding](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cc)
 - <a id="yang26cw-loss-functions"></a>[SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cw)
+- <a id="yarici26a-loss-functions"></a>[MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization](../conferences/icml-2026/cards/5401-5500.md#paper-yarici26a)
 
 <a id="by-optimization"></a>
 
@@ -555,6 +556,7 @@
 - <a id="xu26bl-evaluation"></a>[Hearing Without Noticing? Attention-Aware Stealthy Black-Box Adversarial Audio Attacks](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bl)
 - <a id="yang26cq-evaluation"></a>[Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cq)
 - <a id="yang26cx-evaluation"></a>[Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cx)
+- <a id="yashwante26a-evaluation"></a>[Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](../conferences/icml-2026/cards/5501-5600.md#paper-yashwante26a)
 
 <a id="by-theory-statistics"></a>
 
