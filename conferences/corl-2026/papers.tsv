@@ -33,9 +33,9 @@ number	openreview_id	title	paper_url	reason	status
 32	X2mRYIgshj	DualSpace-VLA: Coupling Cartesian-Space Motion Intent with Joint-Space Execution in Vision-Language-Action Policies	https://openreview.net/forum?id=X2mRYIgshj	用末端位移监督动作意图并直接生成关节轨迹	included
 33	HvKifHMHcM	GeomVLA: Unifying Scene, Motion, and Action in 3D	https://openreview.net/forum?id=HvKifHMHcM		pending
 34	Z04KxYWC6V	SAGE-3D: Semantic-Aware 3D Representations for Generalizable Vision-Language-Action Models	https://openreview.net/forum?id=Z04KxYWC6V		pending
-35	mG3eBTsBiG	X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Model Pretraining	https://openreview.net/forum?id=mG3eBTsBiG		pending
-36	uhnmcdamCa	NAC: Neural Action Codec for Vision-Language-Action Models	https://openreview.net/forum?id=uhnmcdamCa		pending
-37	wRLEgpRnVR	ActionCodec: What Makes for Good Action Tokenizers	https://openreview.net/forum?id=wRLEgpRnVR		pending
+35	mG3eBTsBiG	X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Model Pretraining	https://openreview.net/forum?id=mG3eBTsBiG	按量化层区分动作意图与运动细节	included
+36	uhnmcdamCa	NAC: Neural Action Codec for Vision-Language-Action Models	https://openreview.net/forum?id=uhnmcdamCa	借用神经音频编解码结构时按运动信号重选重建损失	included
+37	wRLEgpRnVR	ActionCodec: What Makes for Good Action Tokenizers	https://openreview.net/forum?id=wRLEgpRnVR	用下游训练难度和闭环指标一起选动作 tokenizer	included
 38	VY6U0drX88	TBD-VLA: Temporal Block Diffusion Vision Language Action Model	https://openreview.net/forum?id=VY6U0drX88		pending
 39	tegLlXBRCU	Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models	https://openreview.net/forum?id=tegLlXBRCU		pending
 40	fGWkovHMQE	ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation	https://openreview.net/forum?id=fGWkovHMQE		pending
