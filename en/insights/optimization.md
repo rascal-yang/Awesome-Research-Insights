@@ -137,6 +137,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Orthogonal Concept Erasure for Diffusion Models](../../conferences/icml-2026/cards/4301-4400.md#sun26ax-optimization) · 中文
 - [Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#wang26al-optimization) · 中文
 - [AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction](../../conferences/icml-2026/cards/4801-4900.md#wang26kh-optimization) · 中文
+- [Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints](../../conferences/icml-2026/cards/5001-5100.md#wu26i-optimization) · 中文
 
 <a id="by-nlp"></a>
 

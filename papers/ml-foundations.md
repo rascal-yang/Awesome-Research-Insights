@@ -79,6 +79,7 @@
 - <a id="wang26ax-architecture"></a>[Ellipsoidal Time Series Forecasting](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ax)
 - <a id="wang26fy-architecture"></a>[ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fy)
 - <a id="whittle26a-architecture"></a>[Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](../conferences/icml-2026/cards/4901-5000.md#paper-whittle26a)
+- <a id="woerner26a-architecture"></a>[Universal Algorithm-Implicit Learning](../conferences/icml-2026/cards/4901-5000.md#paper-woerner26a)
 
 <a id="by-modules"></a>
 
@@ -183,6 +184,8 @@
 - <a id="wang26gd-loss-functions"></a>[BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gd)
 - <a id="wang26gk-loss-functions"></a>[Refining Dual Spectral Sparsity in Transformed Tensor Singular Values](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gk)
 - <a id="wang26li-loss-functions"></a>[ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction](../conferences/icml-2026/cards/4901-5000.md#paper-wang26li)
+- <a id="wong26a-loss-functions"></a>[Toward Calibrated Mixture-of-Experts Under Distribution Shift](../conferences/icml-2026/cards/4901-5000.md#paper-wong26a)
+- <a id="woo26a-loss-functions"></a>[Riemannian MeanFlow](../conferences/icml-2026/cards/4901-5000.md#paper-woo26a)
 
 <a id="by-optimization"></a>
 
@@ -740,6 +743,7 @@
 - <a id="wang26fx-evaluation"></a>[Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fx)
 - <a id="wenkmann26a-evaluation"></a>[On the Variability of Concept Activation Vectors](../conferences/icml-2026/cards/4901-5000.md#paper-wenkmann26a)
 - <a id="wilson26a-evaluation"></a>[Is the Last Layer Sufficient for Uncertainty Quantification?](../conferences/icml-2026/cards/4901-5000.md#paper-wilson26a)
+- <a id="witter26a-evaluation"></a>[Exactly Computing do-Shapley Values](../conferences/icml-2026/cards/4901-5000.md#paper-witter26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1143,4 +1147,6 @@
 - <a id="wei26o-theory-statistics"></a>[Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](../conferences/icml-2026/cards/4901-5000.md#paper-wei26o)
 - <a id="wei26ai-theory-statistics"></a>[Exploration-free Algorithms for Multi-group Mean Estimation](../conferences/icml-2026/cards/4901-5000.md#paper-wei26ai)
 - <a id="williams26a-theory-statistics"></a>[Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks](../conferences/icml-2026/cards/4901-5000.md#paper-williams26a)
+- <a id="wu26c-theory-statistics"></a>[Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions](../conferences/icml-2026/cards/5001-5100.md#paper-wu26c)
+- <a id="wu26e-theory-statistics"></a>[Improved Scaling Laws via Weak-to-Strong Generalization in Random Feature Ridge Regression](../conferences/icml-2026/cards/5001-5100.md#paper-wu26e)
 <!-- classification:end -->

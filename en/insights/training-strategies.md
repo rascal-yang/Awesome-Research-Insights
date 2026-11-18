@@ -220,6 +220,7 @@ Training schedules, curricula, and task or stage composition.
 - [SORA: Free Second-Order Attacks in Fast Adversarial Training](../../conferences/icml-2026/cards/4401-4500.md#teymourian26a-training-strategies) · 中文
 - [CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](../../conferences/icml-2026/cards/4401-4500.md#tong26a-training-strategies) · 中文
 - [Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration](../../conferences/icml-2026/cards/4501-4600.md#tu26d-training-strategies) · 中文
+- [LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution](../../conferences/icml-2026/cards/5001-5100.md#wu26g-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 

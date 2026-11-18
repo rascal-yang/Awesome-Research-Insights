@@ -289,6 +289,7 @@ Model-wide design and information flow.
 - [Ellipsoidal Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#wang26ax-architecture) · 中文
 - [ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence](../../conferences/icml-2026/cards/4701-4800.md#wang26fy-architecture) · 中文
 - [Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](../../conferences/icml-2026/cards/4901-5000.md#whittle26a-architecture) · 中文
+- [Universal Algorithm-Implicit Learning](../../conferences/icml-2026/cards/4901-5000.md#woerner26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

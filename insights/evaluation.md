@@ -338,6 +338,7 @@
 - [功能向量的路由与内容分解](../conferences/icml-2026/cards/4801-4900.md#wang26hp-evaluation) · How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning
 - [检索诱饵的序贯防御检测](../conferences/icml-2026/cards/4801-4900.md#wang26kg-evaluation) · MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots
 - [隐蔽信息的内部表征检测边界](../conferences/icml-2026/cards/4901-5000.md#westphal26a-evaluation) · Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models
+- [用改写候选搜索单题电路](../conferences/icml-2026/cards/5001-5100.md#wu26a-evaluation) · Query Circuits: Explaining How Language Models Answer User Prompts
 
 <a id="by-computer-vision"></a>
 
@@ -618,6 +619,7 @@
 - [速度场差估计函数分布相对熵](../conferences/icml-2026/cards/4701-4800.md#wang26fx-evaluation) · Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference
 - [概念方向与TCAV分数的不同采样预算](../conferences/icml-2026/cards/4901-5000.md#wenkmann26a-evaluation) · On the Variability of Concept Activation Vectors
 - [末层与全网线性化UQ的成本边界](../conferences/icml-2026/cards/4901-5000.md#wilson26a-evaluation) · Is the Last Layer Sufficient for Uncertainty Quantification?
+- [按因果等价类分配归因查询](../conferences/icml-2026/cards/4901-5000.md#witter26a-evaluation) · Exactly Computing do-Shapley Values
 
 <a id="by-graph-and-recommendation"></a>
 

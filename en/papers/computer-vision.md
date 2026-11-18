@@ -205,6 +205,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="sun26ax-optimization"></a>[Orthogonal Concept Erasure for Diffusion Models](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ax)
 - <a id="wang26al-optimization"></a>[Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26al)
 - <a id="wang26kh-optimization"></a>[AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kh)
+- <a id="wu26i-optimization"></a>[Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26i)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -301,6 +302,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="teymourian26a-training-strategies"></a>[SORA: Free Second-Order Attacks in Fast Adversarial Training](../../conferences/icml-2026/cards/4401-4500.md#paper-teymourian26a)
 - <a id="tong26a-training-strategies"></a>[CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](../../conferences/icml-2026/cards/4401-4500.md#paper-tong26a)
 - <a id="tu26d-training-strategies"></a>[Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration](../../conferences/icml-2026/cards/4501-4600.md#paper-tu26d)
+- <a id="wu26g-training-strategies"></a>[LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26g)
 
 <a id="by-data-strategies"></a>
 
@@ -589,4 +591,5 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="premkumar26a-theory-statistics"></a>[On the Separability of Information in Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#paper-premkumar26a)
 - <a id="torralba26a-theory-statistics"></a>[A Theory of Contrastive Learning with Natural Images](../../conferences/icml-2026/cards/4401-4500.md#paper-torralba26a)
 - <a id="uselis26a-theory-statistics"></a>[Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models](../../conferences/icml-2026/cards/4501-4600.md#paper-uselis26a)
+- <a id="wu26b-theory-statistics"></a>[Optimal Stopping in Latent Diffusion Models](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26b)
 <!-- classification:end -->

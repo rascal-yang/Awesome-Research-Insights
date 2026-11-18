@@ -82,6 +82,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On the Separability of Information in Diffusion Models](../../conferences/icml-2026/cards/3601-3700.md#premkumar26a-theory-statistics) · 中文
 - [A Theory of Contrastive Learning with Natural Images](../../conferences/icml-2026/cards/4401-4500.md#torralba26a-theory-statistics) · 中文
 - [Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models](../../conferences/icml-2026/cards/4501-4600.md#uselis26a-theory-statistics) · 中文
+- [Optimal Stopping in Latent Diffusion Models](../../conferences/icml-2026/cards/5001-5100.md#wu26b-theory-statistics) · 中文
 
 <a id="by-nlp"></a>
 
@@ -593,6 +594,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently](../../conferences/icml-2026/cards/4901-5000.md#wei26o-theory-statistics) · 中文
 - [Exploration-free Algorithms for Multi-group Mean Estimation](../../conferences/icml-2026/cards/4901-5000.md#wei26ai-theory-statistics) · 中文
 - [Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks](../../conferences/icml-2026/cards/4901-5000.md#williams26a-theory-statistics) · 中文
+- [Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions](../../conferences/icml-2026/cards/5001-5100.md#wu26c-theory-statistics) · 中文
+- [Improved Scaling Laws via Weak-to-Strong Generalization in Random Feature Ridge Regression](../../conferences/icml-2026/cards/5001-5100.md#wu26e-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -620,6 +623,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective](../../conferences/icml-2026/cards/4101-4200.md#shu26a-theory-statistics) · 中文
 - [On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models](../../conferences/icml-2026/cards/4301-4400.md#taing26a-theory-statistics) · 中文
 - [Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors](../../conferences/icml-2026/cards/4501-4600.md#turan26a-theory-statistics) · 中文
+- [Which Algorithms Can Graph Neural Networks Learn?](../../conferences/icml-2026/cards/4901-5000.md#wittig26a-theory-statistics) · 中文
 
 <a id="by-scientific-ml"></a>
 

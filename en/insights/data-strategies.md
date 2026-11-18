@@ -88,6 +88,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Target-Oriented Pretraining Data Selection via Neuron-Activated Graph](../../conferences/icml-2026/cards/4801-4900.md#wang26hk-data-strategies) · 中文
 - [Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](../../conferences/icml-2026/cards/4801-4900.md#wang26ik-data-strategies) · 中文
 - [When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning](../../conferences/icml-2026/cards/4901-5000.md#wei26i-data-strategies) · 中文
+- [Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection](../../conferences/icml-2026/cards/5001-5100.md#wu26d-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

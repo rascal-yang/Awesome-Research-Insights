@@ -55,6 +55,7 @@ Reusable components and local changes to model inputs or connections.
 - [The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path](../../conferences/icml-2026/cards/4401-4500.md#tao26b-modules) · 中文
 - [Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning](../../conferences/icml-2026/cards/4801-4900.md#wang26jt-modules) · 中文
 - [NaRA: Noise-Aware LoRA for Parameter-Efficient Fine-Tuning of Diffusion LLMs](../../conferences/icml-2026/cards/4901-5000.md#wang26lt-modules) · 中文
+- [A3: an Analytical Low-Rank Approximation Framework for Attention](../../conferences/icml-2026/cards/4901-5000.md#wong26b-modules) · 中文
 
 <a id="by-computer-vision"></a>
 

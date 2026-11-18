@@ -289,6 +289,7 @@
 - [显式谱因子的预测头](../conferences/icml-2026/cards/4601-4700.md#wang26ax-architecture) · Ellipsoidal Time Series Forecasting
 - [变量排序后再池化压缩](../conferences/icml-2026/cards/4701-4800.md#wang26fy-architecture) · ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence
 - [混合分布token的后验变换](../conferences/icml-2026/cards/4901-5000.md#whittle26a-architecture) · Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation
+- [大标签字典的随机注入](../conferences/icml-2026/cards/4901-5000.md#woerner26a-architecture) · Universal Algorithm-Implicit Learning
 
 <a id="by-graph-and-recommendation"></a>
 

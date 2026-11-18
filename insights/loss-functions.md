@@ -239,6 +239,8 @@
 - [数据分布距离与约束可信度](../conferences/icml-2026/cards/4701-4800.md#wang26gd-loss-functions) · BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting
 - [频率组稀疏与组内谱稀疏](../conferences/icml-2026/cards/4701-4800.md#wang26gk-loss-functions) · Refining Dual Spectral Sparsity in Transformed Tensor Singular Values
 - [实例条件的任务标签关系监督](../conferences/icml-2026/cards/4901-5000.md#wang26li-loss-functions) · ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction
+- [校准应检查路由后的聚合](../conferences/icml-2026/cards/4901-5000.md#wong26a-loss-functions) · Toward Calibrated Mixture-of-Experts Under Distribution Shift
+- [流形流映射的停止目标回归](../conferences/icml-2026/cards/4901-5000.md#woo26a-loss-functions) · Riemannian MeanFlow
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -254,6 +256,7 @@
 - [以多空间尺度的分布教师辅助长尾实体表征](../conferences/icml-2026/cards/4101-4200.md#siampou26a-loss-functions) · Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement
 - [event-residual-shell-restriction](../conferences/icml-2026/cards/4401-4500.md#tian26h-loss-functions) · Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision
 - [图相对核密度异常目标](../conferences/icml-2026/cards/4701-4800.md#wang26hb-loss-functions) · Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection
+- [跨稀疏率监督解释边](../conferences/icml-2026/cards/5001-5100.md#wu26j-loss-functions) · Multi-scale Explainer for Graph Neural Networks
 
 <a id="by-scientific-ml"></a>
 

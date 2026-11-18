@@ -137,6 +137,7 @@
 - [正交旋转的概念编辑](../conferences/icml-2026/cards/4301-4400.md#sun26ax-optimization) · Orthogonal Concept Erasure for Diffusion Models
 - [先解阈值再尾风险微调](../conferences/icml-2026/cards/4601-4700.md#wang26al-optimization) · Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning
 - [梯度熵与冲突软融合](../conferences/icml-2026/cards/4801-4900.md#wang26kh-optimization) · AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction
+- [联合优化采样时间掩码与去噪器](../conferences/icml-2026/cards/5001-5100.md#wu26i-optimization) · Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints
 
 <a id="by-nlp"></a>
 

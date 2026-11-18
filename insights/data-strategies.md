@@ -88,6 +88,7 @@
 - [目标神经元激活集合筛选数据](../conferences/icml-2026/cards/4801-4900.md#wang26hk-data-strategies) · Target-Oriented Pretraining Data Selection via Neuron-Activated Graph
 - [跨模型迭代构造偏好对](../conferences/icml-2026/cards/4801-4900.md#wang26ik-data-strategies) · Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future
 - [前缀支持的交错披露](../conferences/icml-2026/cards/4901-5000.md#wei26i-data-strategies) · When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning
+- [单轨迹首尾状态差筛样](../conferences/icml-2026/cards/5001-5100.md#wu26d-data-strategies) · Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection
 
 <a id="by-computer-vision"></a>
 

@@ -55,6 +55,7 @@
 - [triangular-mixing-sidepath](../conferences/icml-2026/cards/4401-4500.md#tao26b-modules) · The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path
 - [潜空间最优控制层](../conferences/icml-2026/cards/4801-4900.md#wang26jt-modules) · Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning
 - [跨层共享噪声条件低秩核心](../conferences/icml-2026/cards/4901-5000.md#wang26lt-modules) · NaRA: Noise-Aware LoRA for Parameter-Efficient Fine-Tuning of Diffusion LLMs
+- [以功能对而非单矩阵压缩](../conferences/icml-2026/cards/4901-5000.md#wong26b-modules) · A3: an Analytical Low-Rank Approximation Framework for Attention
 
 <a id="by-computer-vision"></a>
 

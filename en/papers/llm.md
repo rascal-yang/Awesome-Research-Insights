@@ -112,6 +112,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="tao26b-modules"></a>[The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26b)
 - <a id="wang26jt-modules"></a>[Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jt)
 - <a id="wang26lt-modules"></a>[NaRA: Noise-Aware LoRA for Parameter-Efficient Fine-Tuning of Diffusion LLMs](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lt)
+- <a id="wong26b-modules"></a>[A3: an Analytical Low-Rank Approximation Framework for Attention](../../conferences/icml-2026/cards/4901-5000.md#paper-wong26b)
 
 <a id="by-loss-functions"></a>
 
@@ -436,6 +437,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wei26ab-reinforcement-learning"></a>[TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26ab)
 - <a id="wen26f-reinforcement-learning"></a>[Coupled Variational Reinforcement Learning for Language Model General Reasoning](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26f)
 - <a id="wen26k-reinforcement-learning"></a>[Contextualized Privacy Defense for LLM Agents](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26k)
+- <a id="wu26k-reinforcement-learning"></a>[HumanLM: Simulating Users with State Alignment Beats Response Imitation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26k)
 
 <a id="by-training-strategies"></a>
 
@@ -656,6 +658,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26hk-data-strategies"></a>[Target-Oriented Pretraining Data Selection via Neuron-Activated Graph](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hk)
 - <a id="wang26ik-data-strategies"></a>[Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ik)
 - <a id="wei26i-data-strategies"></a>[When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26i)
+- <a id="wu26d-data-strategies"></a>[Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26d)
 
 <a id="by-inference"></a>
 
@@ -1335,6 +1338,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26hp-evaluation"></a>[How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hp)
 - <a id="wang26kg-evaluation"></a>[MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kg)
 - <a id="westphal26a-evaluation"></a>[Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#paper-westphal26a)
+- <a id="wu26a-evaluation"></a>[Query Circuits: Explaining How Language Models Answer User Prompts](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26a)
 
 <a id="by-theory-statistics"></a>
 

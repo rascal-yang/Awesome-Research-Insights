@@ -220,6 +220,7 @@
 - [reuse-gradients-to-diagnose-fast-at-collapse](../conferences/icml-2026/cards/4401-4500.md#teymourian26a-training-strategies) · SORA: Free Second-Order Attacks in Fast Adversarial Training
 - [视频模型的三帧视觉修正](../conferences/icml-2026/cards/4401-4500.md#tong26a-training-strategies) · CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
 - [uncertainty-modulated-bridge](../conferences/icml-2026/cards/4501-4600.md#tu26d-training-strategies) · Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration
+- [按激活方差分配量化校准预算](../conferences/icml-2026/cards/5001-5100.md#wu26g-training-strategies) · LSGQuant: Layer-Sensitivity Guided Quantization for One-Step Diffusion Real-World Video Super-Resolution
 
 <a id="by-nlp"></a>
 

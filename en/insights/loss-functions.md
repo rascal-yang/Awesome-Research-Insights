@@ -239,6 +239,8 @@ Objectives, auxiliary supervision, and regularization.
 - [BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting](../../conferences/icml-2026/cards/4701-4800.md#wang26gd-loss-functions) · 中文
 - [Refining Dual Spectral Sparsity in Transformed Tensor Singular Values](../../conferences/icml-2026/cards/4701-4800.md#wang26gk-loss-functions) · 中文
 - [ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction](../../conferences/icml-2026/cards/4901-5000.md#wang26li-loss-functions) · 中文
+- [Toward Calibrated Mixture-of-Experts Under Distribution Shift](../../conferences/icml-2026/cards/4901-5000.md#wong26a-loss-functions) · 中文
+- [Riemannian MeanFlow](../../conferences/icml-2026/cards/4901-5000.md#woo26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -254,6 +256,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](../../conferences/icml-2026/cards/4101-4200.md#siampou26a-loss-functions) · 中文
 - [Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision](../../conferences/icml-2026/cards/4401-4500.md#tian26h-loss-functions) · 中文
 - [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](../../conferences/icml-2026/cards/4701-4800.md#wang26hb-loss-functions) · 中文
+- [Multi-scale Explainer for Graph Neural Networks](../../conferences/icml-2026/cards/5001-5100.md#wu26j-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

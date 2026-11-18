@@ -70,6 +70,7 @@
 - <a id="siampou26a-loss-functions"></a>[Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](../conferences/icml-2026/cards/4101-4200.md#paper-siampou26a)
 - <a id="tian26h-loss-functions"></a>[Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision](../conferences/icml-2026/cards/4401-4500.md#paper-tian26h)
 - <a id="wang26hb-loss-functions"></a>[Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](../conferences/icml-2026/cards/4701-4800.md#paper-wang26hb)
+- <a id="wu26j-loss-functions"></a>[Multi-scale Explainer for Graph Neural Networks](../conferences/icml-2026/cards/5001-5100.md#paper-wu26j)
 
 <a id="by-optimization"></a>
 
@@ -233,4 +234,5 @@
 - <a id="shu26a-theory-statistics"></a>[Size Transferability of Graph Convolutional Networks across Sparsity: A Generalized Graphon Perspective](../conferences/icml-2026/cards/4101-4200.md#paper-shu26a)
 - <a id="taing26a-theory-statistics"></a>[On the Effect of Misspecifying the Embedding Dimension in Low-rank Network Models](../conferences/icml-2026/cards/4301-4400.md#paper-taing26a)
 - <a id="turan26a-theory-statistics"></a>[Beyond ReLU: Bifurcation, Oversmoothing, and Topological Priors](../conferences/icml-2026/cards/4501-4600.md#paper-turan26a)
+- <a id="wittig26a-theory-statistics"></a>[Which Algorithms Can Graph Neural Networks Learn?](../conferences/icml-2026/cards/4901-5000.md#paper-wittig26a)
 <!-- classification:end -->
