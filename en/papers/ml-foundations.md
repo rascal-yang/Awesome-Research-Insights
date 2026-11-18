@@ -612,6 +612,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26ac-data-strategies"></a>[Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ac)
 - <a id="yang26ao-data-strategies"></a>[ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ao)
 - <a id="yang26bq-data-strategies"></a>[Data Agent: Learning to Select Data via End-to-End Dynamic Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bq)
+- <a id="yu26aq-data-strategies"></a>[AvAtar: Learning to Align via Active Optimal Transport](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26aq)
 
 <a id="by-inference"></a>
 
@@ -676,6 +677,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26af-inference"></a>[Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26af)
 - <a id="yavlovich26a-inference"></a>[Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts](../../conferences/icml-2026/cards/5501-5600.md#paper-yavlovich26a)
 - <a id="yu26ae-inference"></a>[MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ae)
+- <a id="yu26au-inference"></a>[FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26au)
 
 <a id="by-representation-learning"></a>
 
@@ -820,6 +822,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xiong26f-evaluation"></a>[EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26f)
 - <a id="yaghini26a-evaluation"></a>[OptiFluence: Principled Design of Privacy Canaries](../../conferences/icml-2026/cards/5301-5400.md#paper-yaghini26a)
 - <a id="yan26g-evaluation"></a>[Rethink the Role of Neural Decoders in Quantum Error Correction](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26g)
+- <a id="yu26az-evaluation"></a>[Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26az)
 
 <a id="by-theory-statistics"></a>
 
@@ -1251,4 +1254,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yin26g-theory-statistics"></a>[Overcoming the Incentive Collapse Paradox](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26g)
 - <a id="yu26d-theory-statistics"></a>[Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26d)
 - <a id="yu26s-theory-statistics"></a>[Mirror Descent Under Generalized Smoothness](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26s)
+- <a id="yu26ap-theory-statistics"></a>[Understanding Generalization from Embedding Dimension and Distributional Convergence](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ap)
 <!-- classification:end -->

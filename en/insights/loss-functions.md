@@ -65,6 +65,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning](../../conferences/icml-2026/cards/5401-5500.md#yang26dc-loss-functions) · 中文
 - [Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](../../conferences/icml-2026/cards/5401-5500.md#yang26dp-loss-functions) · 中文
 - [SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning](../../conferences/icml-2026/cards/5401-5500.md#yao26j-loss-functions) · 中文
+- [Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning](../../conferences/icml-2026/cards/5601-5700.md#yu26bc-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -231,6 +232,7 @@ Objectives, auxiliary supervision, and regularization.
 - [The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment](../../conferences/icml-2026/cards/5501-5600.md#yi26b-loss-functions) · 中文
 - [Towards Uniformity and Alignment for Multimodal Representation Learning](../../conferences/icml-2026/cards/5501-5600.md#yin26n-loss-functions) · 中文
 - [Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](../../conferences/icml-2026/cards/5501-5600.md#yoon26f-loss-functions) · 中文
+- [CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26at-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -313,6 +315,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](../../conferences/icml-2026/cards/4701-4800.md#wang26hb-loss-functions) · 中文
 - [Multi-scale Explainer for Graph Neural Networks](../../conferences/icml-2026/cards/5001-5100.md#wu26j-loss-functions) · 中文
 - [SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation](../../conferences/icml-2026/cards/5201-5300.md#xu26a-loss-functions) · 中文
+- [Improving LLM-Based Recommenders with Conservative Generative Flow Networks](../../conferences/icml-2026/cards/5601-5700.md#yu26am-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

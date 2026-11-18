@@ -634,6 +634,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Overcoming the Incentive Collapse Paradox](../../conferences/icml-2026/cards/5501-5600.md#yin26g-theory-statistics) · 中文
 - [Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets](../../conferences/icml-2026/cards/5501-5600.md#yu26d-theory-statistics) · 中文
 - [Mirror Descent Under Generalized Smoothness](../../conferences/icml-2026/cards/5501-5600.md#yu26s-theory-statistics) · 中文
+- [Understanding Generalization from Embedding Dimension and Distributional Convergence](../../conferences/icml-2026/cards/5601-5700.md#yu26ap-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

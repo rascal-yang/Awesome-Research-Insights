@@ -457,4 +457,5 @@
 - [分层半可分神经算子](../conferences/icml-2026/cards/4101-4200.md#sittoni26a-architecture) · Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver
 - [latent-conditioned-operator-splitting](../conferences/icml-2026/cards/4301-4400.md#sun26aa-architecture) · Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting
 - [sign-equivariant-orbital-attention](../conferences/icml-2026/cards/4401-4500.md#thiede26a-architecture) · Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions
+- [按解正则性缩放谱系数并嵌入基底](../conferences/icml-2026/cards/5601-5700.md#yu26ao-architecture) · Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs
 <!-- classification:end -->

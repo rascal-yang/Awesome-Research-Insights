@@ -144,6 +144,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="xin26a-training-strategies"></a>[Instruction Decomposition and Action Alignment for Vision-and-Language Navigation](../../conferences/icml-2026/cards/5101-5200.md#paper-xin26a)
 - <a id="yang26k-training-strategies"></a>[Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26k)
 - <a id="yao26u-training-strategies"></a>[SC$^2$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26u)
+- <a id="yu26ar-training-strategies"></a>[MAC-NeRF: Motion-Aware Curriculum Learning for Dynamic LiDAR NeRFs](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ar)
 
 <a id="by-data-strategies"></a>
 

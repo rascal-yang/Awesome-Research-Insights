@@ -178,6 +178,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26dc-loss-functions"></a>[Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dc)
 - <a id="yang26dp-loss-functions"></a>[Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dp)
 - <a id="yao26j-loss-functions"></a>[SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26j)
+- <a id="yu26bc-loss-functions"></a>[Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bc)
 
 <a id="by-optimization"></a>
 
@@ -1452,6 +1453,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yin26h-evaluation"></a>[Evaluating Parameter Efficient Methods for RLVR](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26h)
 - <a id="you26c-evaluation"></a>[LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models](../../conferences/icml-2026/cards/5501-5600.md#paper-you26c)
 - <a id="yu26b-evaluation"></a>[SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26b)
+- <a id="yu26av-evaluation"></a>[Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26av)
 
 <a id="by-theory-statistics"></a>
 

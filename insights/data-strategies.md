@@ -245,6 +245,7 @@
 - [重复上下文训练以保留预测尖峰](../conferences/icml-2026/cards/5301-5400.md#yang26ac-data-strategies) · Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates
 - [时间与潜态原型反馈的选择性增强](../conferences/icml-2026/cards/5301-5400.md#yang26ao-data-strategies) · ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning
 - [loss与entropy方差配权的在线选样](../conferences/icml-2026/cards/5401-5500.md#yang26bq-data-strategies) · Data Agent: Learning to Select Data via End-to-End Dynamic Optimization
+- [按全局transport效用梯度主动询问对应](../conferences/icml-2026/cards/5601-5700.md#yu26aq-data-strategies) · AvAtar: Learning to Align via Active Optimal Transport
 
 <a id="by-graph-and-recommendation"></a>
 

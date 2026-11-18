@@ -367,6 +367,7 @@
 - [RLVR下PEFT结构与初始化失效边界](../conferences/icml-2026/cards/5501-5600.md#yin26h-evaluation) · Evaluating Parameter Efficient Methods for RLVR
 - [用控制共现频率检验输入证据服从](../conferences/icml-2026/cards/5501-5600.md#you26c-evaluation) · LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models
 - [用覆盖和语义变异检验通过补丁的可靠性](../conferences/icml-2026/cards/5501-5600.md#yu26b-evaluation) · SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark
+- [答案奖励外另测推理截断敏感性与独立可读性](../conferences/icml-2026/cards/5601-5700.md#yu26av-evaluation) · Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -671,6 +672,7 @@
 - [预训练目标与适配方式的配对诊断](../conferences/icml-2026/cards/5101-5200.md#xiong26f-evaluation) · EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models
 - [面向授权隐私审计的可检性canary](../conferences/icml-2026/cards/5301-5400.md#yaghini26a-evaluation) · OptiFluence: Principled Design of Privacy Canaries
 - [硬件预算下解码器的QAT与时序结构选择](../conferences/icml-2026/cards/5301-5400.md#yan26g-evaluation) · Rethink the Role of Neural Decoders in Quantum Error Correction
+- [用计算树误差放大筛选符号公式](../conferences/icml-2026/cards/5601-5700.md#yu26az-evaluation) · Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression
 
 <a id="by-graph-and-recommendation"></a>
 

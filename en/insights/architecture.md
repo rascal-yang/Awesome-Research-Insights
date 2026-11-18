@@ -457,4 +457,5 @@ Model-wide design and information flow.
 - [Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](../../conferences/icml-2026/cards/4101-4200.md#sittoni26a-architecture) · 中文
 - [Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting](../../conferences/icml-2026/cards/4301-4400.md#sun26aa-architecture) · 中文
 - [Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions](../../conferences/icml-2026/cards/4401-4500.md#thiede26a-architecture) · 中文
+- [Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs](../../conferences/icml-2026/cards/5601-5700.md#yu26ao-architecture) · 中文
 <!-- classification:end -->

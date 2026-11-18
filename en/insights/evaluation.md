@@ -367,6 +367,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Evaluating Parameter Efficient Methods for RLVR](../../conferences/icml-2026/cards/5501-5600.md#yin26h-evaluation) · 中文
 - [LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models](../../conferences/icml-2026/cards/5501-5600.md#you26c-evaluation) · 中文
 - [SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark](../../conferences/icml-2026/cards/5501-5600.md#yu26b-evaluation) · 中文
+- [Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26av-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -671,6 +672,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models](../../conferences/icml-2026/cards/5101-5200.md#xiong26f-evaluation) · 中文
 - [OptiFluence: Principled Design of Privacy Canaries](../../conferences/icml-2026/cards/5301-5400.md#yaghini26a-evaluation) · 中文
 - [Rethink the Role of Neural Decoders in Quantum Error Correction](../../conferences/icml-2026/cards/5301-5400.md#yan26g-evaluation) · 中文
+- [Beyond Accuracy and Complexity: The Effective Information Criterion for Structurally Stable Symbolic Regression](../../conferences/icml-2026/cards/5601-5700.md#yu26az-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

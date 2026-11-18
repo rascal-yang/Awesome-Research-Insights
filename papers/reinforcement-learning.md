@@ -266,6 +266,7 @@
 - <a id="tuero26a-inference"></a>[Structure-Induced Information for Rerooting Levin Tree Search](../conferences/icml-2026/cards/4501-4600.md#paper-tuero26a)
 - <a id="yoon26a-inference"></a>[Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../conferences/icml-2026/cards/5501-5600.md#paper-yoon26a)
 - <a id="yu26a-inference"></a>[Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards](../conferences/icml-2026/cards/5501-5600.md#paper-yu26a)
+- <a id="yu26an-inference"></a>[Practical and Optimal Algorithm for Linear Contextual Bandits with Rare Parameter Updates](../conferences/icml-2026/cards/5601-5700.md#paper-yu26an)
 
 <a id="by-representation-learning"></a>
 

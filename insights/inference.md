@@ -535,6 +535,7 @@
 - [implicit-rerooted-subtasks](../conferences/icml-2026/cards/4501-4600.md#tuero26a-inference) · Structure-Induced Information for Rerooting Levin Tree Search
 - [按状态到达概率组合预训练GFlowNet](../conferences/icml-2026/cards/5501-5600.md#yoon26a-inference) · Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation
 - [按奖励梯度冲突混合近似与学习引导](../conferences/icml-2026/cards/5501-5600.md#yu26a-inference) · Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards
+- [奖励参数少更新而Gram探索逐步更新](../conferences/icml-2026/cards/5601-5700.md#yu26an-inference) · Practical and Optimal Algorithm for Linear Contextual Bandits with Rare Parameter Updates
 
 <a id="by-robotics"></a>
 
@@ -761,6 +762,7 @@
 - [采样Pareto前沿的最大间隙定向](../conferences/icml-2026/cards/5301-5400.md#yang26af-inference) · Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition
 - [神经预测dual后投影可行再交精确匹配器](../conferences/icml-2026/cards/5501-5600.md#yavlovich26a-inference) · Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts
 - [缓存低精度高覆盖规则再映射细化](../conferences/icml-2026/cards/5601-5700.md#yu26ae-inference) · MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation
+- [把低保真预测分布作为残差ICL输入](../conferences/icml-2026/cards/5601-5700.md#yu26au-inference) · FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models
 
 <a id="by-graph-and-recommendation"></a>
 

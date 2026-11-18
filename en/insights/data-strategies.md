@@ -245,6 +245,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](../../conferences/icml-2026/cards/5301-5400.md#yang26ac-data-strategies) · 中文
 - [ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning](../../conferences/icml-2026/cards/5301-5400.md#yang26ao-data-strategies) · 中文
 - [Data Agent: Learning to Select Data via End-to-End Dynamic Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26bq-data-strategies) · 中文
+- [AvAtar: Learning to Align via Active Optimal Transport](../../conferences/icml-2026/cards/5601-5700.md#yu26aq-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

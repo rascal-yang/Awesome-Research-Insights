@@ -133,6 +133,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yi26b-loss-functions"></a>[The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26b)
 - <a id="yin26n-loss-functions"></a>[Towards Uniformity and Alignment for Multimodal Representation Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26n)
 - <a id="yoon26f-loss-functions"></a>[Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding](../../conferences/icml-2026/cards/5501-5600.md#paper-yoon26f)
+- <a id="yu26at-loss-functions"></a>[CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26at)
 
 <a id="by-optimization"></a>
 

@@ -65,6 +65,7 @@
 - [用保留和遗忘的自参考能量边界](../conferences/icml-2026/cards/5401-5500.md#yang26dc-loss-functions) · Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning
 - [区分相对偏好拟合与绝对概率排序](../conferences/icml-2026/cards/5401-5500.md#yang26dp-loss-functions) · Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment
 - [只惩罚正确推理的高概率窗口](../conferences/icml-2026/cards/5401-5500.md#yao26j-loss-functions) · SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning
+- [按目标rank相对预测分布rank重权SFT](../conferences/icml-2026/cards/5601-5700.md#yu26bc-loss-functions) · Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning
 
 <a id="by-computer-vision"></a>
 
@@ -231,6 +232,7 @@
 - [对共享子空间追加对比对齐而非强压模态间距](../conferences/icml-2026/cards/5501-5600.md#yi26b-loss-functions) · The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment
 - [模态内均匀与anchor对齐解耦](../conferences/icml-2026/cards/5501-5600.md#yin26n-loss-functions) · Towards Uniformity and Alignment for Multimodal Representation Learning
 - [把teacher视觉增量与学生语言先验分开蒸馏](../conferences/icml-2026/cards/5501-5600.md#yoon26f-loss-functions) · Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding
+- [用attention-value均值替换构造视觉对照](../conferences/icml-2026/cards/5601-5700.md#yu26at-loss-functions) · CFPO: Counterfactual Policy Optimization for Multimodal Reasoning
 
 <a id="by-ml-foundations"></a>
 
@@ -313,6 +315,7 @@
 - [图相对核密度异常目标](../conferences/icml-2026/cards/4701-4800.md#wang26hb-loss-functions) · Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection
 - [跨稀疏率监督解释边](../conferences/icml-2026/cards/5001-5100.md#wu26j-loss-functions) · Multi-scale Explainer for Graph Neural Networks
 - [改变同配性但约束拓扑扰动的图增强](../conferences/icml-2026/cards/5201-5300.md#xu26a-loss-functions) · SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation
+- [在离线SubTB中惩罚无支持流量](../conferences/icml-2026/cards/5601-5700.md#yu26am-loss-functions) · Improving LLM-Based Recommenders with Conservative Generative Flow Networks
 
 <a id="by-scientific-ml"></a>
 

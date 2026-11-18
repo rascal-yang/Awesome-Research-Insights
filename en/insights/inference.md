@@ -535,6 +535,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Structure-Induced Information for Rerooting Levin Tree Search](../../conferences/icml-2026/cards/4501-4600.md#tuero26a-inference) · 中文
 - [Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../../conferences/icml-2026/cards/5501-5600.md#yoon26a-inference) · 中文
 - [Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards](../../conferences/icml-2026/cards/5501-5600.md#yu26a-inference) · 中文
+- [Practical and Optimal Algorithm for Linear Contextual Bandits with Rare Parameter Updates](../../conferences/icml-2026/cards/5601-5700.md#yu26an-inference) · 中文
 
 <a id="by-robotics"></a>
 
@@ -761,6 +762,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition](../../conferences/icml-2026/cards/5301-5400.md#yang26af-inference) · 中文
 - [Learning-Augmented Scalable Linear Assignment Problem Optimization via Neural Dual Warm-Starts](../../conferences/icml-2026/cards/5501-5600.md#yavlovich26a-inference) · 中文
 - [MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../../conferences/icml-2026/cards/5601-5700.md#yu26ae-inference) · 中文
+- [FIRE: Multi-Fidelity Regression with Distribution-Conditioned In-Context Learning Using Tabular Foundation Models](../../conferences/icml-2026/cards/5601-5700.md#yu26au-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

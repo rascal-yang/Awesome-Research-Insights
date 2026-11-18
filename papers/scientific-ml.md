@@ -119,6 +119,7 @@
 - <a id="sittoni26a-architecture"></a>[Neural-HSS: Hierarchical Semi-Separable Neural PDE Solver](../conferences/icml-2026/cards/4101-4200.md#paper-sittoni26a)
 - <a id="sun26aa-architecture"></a>[Origo: Interpretable Multi-physics PDE Foundation Model through Neural Operator Splitting](../conferences/icml-2026/cards/4301-4400.md#paper-sun26aa)
 - <a id="thiede26a-architecture"></a>[Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions](../conferences/icml-2026/cards/4401-4500.md#paper-thiede26a)
+- <a id="yu26ao-architecture"></a>[Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ao)
 
 <a id="by-modules"></a>
 

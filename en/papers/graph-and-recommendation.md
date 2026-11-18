@@ -75,6 +75,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="wang26hb-loss-functions"></a>[Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hb)
 - <a id="wu26j-loss-functions"></a>[Multi-scale Explainer for Graph Neural Networks](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26j)
 - <a id="xu26a-loss-functions"></a>[SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26a)
+- <a id="yu26am-loss-functions"></a>[Improving LLM-Based Recommenders with Conservative Generative Flow Networks](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26am)
 
 <a id="by-optimization"></a>
 
