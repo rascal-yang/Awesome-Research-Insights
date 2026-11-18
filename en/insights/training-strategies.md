@@ -709,5 +709,7 @@ Training schedules, curricula, and task or stage composition.
 - [Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](../../conferences/neurips-2026/cards-0007.md#paper-153981)
 - [Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models](../../conferences/neurips-2026/cards-0007.md#paper-154150)
 - [LightMoE: Reducing Mixture-of-Experts Redundancy through Expert Replacing](../../conferences/neurips-2026/cards-0007.md#paper-155806)
+- [LinearARD: Linear-Memory Attention Distillation for RoPE Restoration](../../conferences/neurips-2026/cards-0007.md#paper-148387)
+- [Localize Any Object in X-Ray Security Scans without Human Annotation](../../conferences/neurips-2026/cards-0008.md#paper-152225)
 
 <!-- conference-classification:end -->

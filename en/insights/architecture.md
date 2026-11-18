@@ -407,5 +407,6 @@ Model-wide design and information flow.
 - [Lie Generator Networks for Nonlinear Partial Differential Equations](../../conferences/neurips-2026/cards-0007.md#paper-155016)
 - [LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators](../../conferences/neurips-2026/cards-0007.md#paper-149185)
 - [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](../../conferences/neurips-2026/cards-0007.md#paper-153393)
+- [LLM-Based Multi-Agent Blackboard System for Information Discovery in Data Science](../../conferences/neurips-2026/cards-0008.md#paper-151426)
 
 <!-- conference-classification:end -->

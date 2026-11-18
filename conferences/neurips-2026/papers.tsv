@@ -4504,66 +4504,66 @@ poster_id	title	paper_url	status	reason
 149315	Limits and Potential of Score-Based Data Valuation: Redundancy, Complementarity, and Non-Monotonicity	https://neurips.cc/virtual/2026/poster/149315	included	先查冗余、互补与非单调，再用标量分数选数据。
 148664	LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing	https://neurips.cc/virtual/2026/poster/148664	included	构造路线时把确定的局部代价显式打分。
 155014	Linear approximations to HMM filtering	https://neurips.cc/virtual/2026/poster/155014	included	根据潜过程的耗散决定是否需非线性滤波模型。
-148387	LinearARD: Linear-Memory Attention Distillation for RoPE Restoration	https://neurips.cc/virtual/2026/poster/148387	pending	-
-154848	Linear Contextual Bandits with Quasi-Optimism	https://neurips.cc/virtual/2026/poster/154848	pending	-
-151202	Linear Ensemble Sampling with Fewer Ensembles	https://neurips.cc/virtual/2026/poster/151202	pending	-
-155332	Linear Regression Under Misalignment: Algorithms and Theoretical Results	https://neurips.cc/virtual/2026/poster/155332	pending	-
-148416	Linear-time rule mining under formal guarantees	https://neurips.cc/virtual/2026/poster/148416	pending	-
-154523	LINE: LLM-based Iterative Neuron Explanations for Vision Models	https://neurips.cc/virtual/2026/poster/154523	pending	-
-152183	Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents	https://neurips.cc/virtual/2026/poster/152183	pending	-
-152490	LINK: Learning to Localize from Known to Unknown Scenes	https://neurips.cc/virtual/2026/poster/152490	pending	-
-138940	LinuxArena: A Control Setting for AI Agents in Live Production Software Environments	https://neurips.cc/virtual/2026/poster/138940	pending	-
-149286	LIPAR: Latent Inter-Frame Pruning with Attention Recovery	https://neurips.cc/virtual/2026/poster/149286	pending	-
-153450	Lipschitz Dueling Bandits over Continuous Action Spaces	https://neurips.cc/virtual/2026/poster/153450	pending	-
-152273	LiSA: Lifelong Safety Adaptation via Conservative Policy Induction	https://neurips.cc/virtual/2026/poster/152273	pending	-
-148774	Listening to the Retriever: Perturbation-Sensitive Question Selection for Interactive Person Retrieval	https://neurips.cc/virtual/2026/poster/148774	pending	-
-151680	Listening to the Wise Few: Query–Key Alignment Unlocks Latent Correct Answers in Large Language Models	https://neurips.cc/virtual/2026/poster/151680	pending	-
-139142	ListQA: A Benchmark for Evaluating List-Formatted Factual Knowledge Retrieval in Large Language Models	https://neurips.cc/virtual/2026/poster/139142	pending	-
-153692	Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex	https://neurips.cc/virtual/2026/poster/153692	pending	-
-154582	LITE: A Lightweight Lazy Sampler for Efficient SGD	https://neurips.cc/virtual/2026/poster/154582	pending	-
-149229	LiteNav: Lightweight Map-free Outdoor Visual Navigation	https://neurips.cc/virtual/2026/poster/149229	pending	-
-148879	Literati: Towards Anytime Optimal Shape Generalized Trees via AO*	https://neurips.cc/virtual/2026/poster/148879	pending	-
-151492	LITHE: Lattice-Indexed Twin Hadamard Encoding for Diffusion Personalization	https://neurips.cc/virtual/2026/poster/151492	pending	-
-139771	LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation	https://neurips.cc/virtual/2026/poster/139771	pending	-
-150415	LITMUS: Benchmarking Behavioral Jailbreaks of LLM Agents in Real OS Environments	https://neurips.cc/virtual/2026/poster/150415	pending	-
-148220	LittleLearner: Language Models Under Pedagogically-Controlled Knowledge Exposure	https://neurips.cc/virtual/2026/poster/148220	pending	-
-152252	Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators	https://neurips.cc/virtual/2026/poster/152252	pending	-
-139572	LiveOption: Evaluating LLM Agents in Structured Option Trading with Nonlinear Payoffs	https://neurips.cc/virtual/2026/poster/139572	pending	-
-139208	LL-Bench: Rethinking Low-Level Vision Evaluation in the Era of Large-Scale Generative Models	https://neurips.cc/virtual/2026/poster/139208	pending	-
-155346	LLM-ACES: Closed-Loop Discovery of Dynamic Systems with LLM-Guided Adaptive Search	https://neurips.cc/virtual/2026/poster/155346	pending	-
-149530	LLM Active Alignment: A Nash Equilibrium Perspective	https://neurips.cc/virtual/2026/poster/149530	pending	-
-148531	LLM Agents Already Know When to Call Tools - Even Without Reasoning	https://neurips.cc/virtual/2026/poster/148531	pending	-
-149683	LLM Alignment--Utility Asymmetry under Semantic-Preserving Transformations	https://neurips.cc/virtual/2026/poster/149683	pending	-
-150546	LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL	https://neurips.cc/virtual/2026/poster/150546	pending	-
-151398	LLM-Auction: Generative Auction towards LLM-Native Advertising	https://neurips.cc/virtual/2026/poster/151398	pending	-
-149204	LLM-AutoSciLab: Closed-Loop Scientific Law Discovery via Active Experimentation with LLMs	https://neurips.cc/virtual/2026/poster/149204	pending	-
-151426	LLM-Based Multi-Agent Blackboard System for Information Discovery in Data Science	https://neurips.cc/virtual/2026/poster/151426	pending	-
-140064	LLM-enabled Applications Require Systematic Threat Monitoring	https://neurips.cc/virtual/2026/poster/140064	pending	-
-154957	LLM-Enhanced Random Forests in Orthogonal Hyperbolic Subspaces for Tabular Learning	https://neurips.cc/virtual/2026/poster/154957	pending	-
-152529	LLM Flow Processes for Text-Conditioned Regression	https://neurips.cc/virtual/2026/poster/152529	pending	-
-148951	LLM Is a Good Conditioner: End-to-End Sign Language Video Generation with VQ-Diffusion	https://neurips.cc/virtual/2026/poster/148951	pending	-
-154278	LLM Judge Validation Under Sparse Overlap: From Inference to Design	https://neurips.cc/virtual/2026/poster/154278	pending	-
-149756	LLM Rheology: Auditing Refusal Geometry in Aligned Language Models	https://neurips.cc/virtual/2026/poster/149756	pending	-
-140122	LLM Routing Through the Lens of Recommendation: A Roadmap for Efficient AI Orchestration	https://neurips.cc/virtual/2026/poster/140122	pending	-
-151231	LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation	https://neurips.cc/virtual/2026/poster/151231	pending	-
-153045	LLMs can construct powerful representations and streamline sample-efficient supervised learning	https://neurips.cc/virtual/2026/poster/153045	pending	-
-149675	LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling	https://neurips.cc/virtual/2026/poster/149675	pending	-
-154758	LLMs Keep Thinking When Told Not To	https://neurips.cc/virtual/2026/poster/154758	pending	-
-153146	LLMs Optimizing LLMs: Automated MegaKernel Generation for Inference Acceleration	https://neurips.cc/virtual/2026/poster/153146	pending	-
-148364	LLMs Show No Signs Of Individuated Metacognition	https://neurips.cc/virtual/2026/poster/148364	pending	-
-139824	LLM-WikiRace: A Benchmark for Planning and Reasoning over Real-World Knowledge Graphs	https://neurips.cc/virtual/2026/poster/139824	pending	-
-150857	Load Balancing Mixture of Experts with Similarity Preserving Routers	https://neurips.cc/virtual/2026/poster/150857	pending	-
-149786	LocalAgent: Collaborative Agentic Verification for Fine-Grained Instance-Level Consistency	https://neurips.cc/virtual/2026/poster/149786	pending	-
-148228	Local FDR Membership Inference Attacks: Multiple Testing and the Role of Ridge Regularization	https://neurips.cc/virtual/2026/poster/148228	pending	-
-149732	Local Gaussian Processes on Compact Lie Groups	https://neurips.cc/virtual/2026/poster/149732	pending	-
-151172	Local–Global Sparse Autoencoders for Multiscale Interpretability in Vision Models	https://neurips.cc/virtual/2026/poster/151172	pending	-
-155658	Local Guidance, Global Impact: Gaussian-Reshaped Trust Region Unlocks Behavior Transitions	https://neurips.cc/virtual/2026/poster/155658	pending	-
-153830	Local-Interaction Learning Dynamics: A Markov Random Field Framework for Convergence of Deep Neural Network Learning	https://neurips.cc/virtual/2026/poster/153830	pending	-
-149038	Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models	https://neurips.cc/virtual/2026/poster/149038	pending	-
-150510	Locality-Controlled OOD Guidance for Robust Regulatory DNA Sequence Design	https://neurips.cc/virtual/2026/poster/150510	pending	-
-152589	Locality Sensitive Hashing for p-Exponential Kernels with Applications to Density Estimation	https://neurips.cc/virtual/2026/poster/152589	pending	-
-152225	Localize Any Object in X-Ray Security Scans without Human Annotation	https://neurips.cc/virtual/2026/poster/152225	pending	-
-151978	Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151978	pending	-
+148387	LinearARD: Linear-Memory Attention Distillation for RoPE Restoration	https://neurips.cc/virtual/2026/poster/148387	included	扩展 RoPE 后用短数据蒸馏原注意关系。
+154848	Linear Contextual Bandits with Quasi-Optimism	https://neurips.cc/virtual/2026/poster/154848	included	线性 bandit 探索不强制逐动作乐观。
+151202	Linear Ensemble Sampling with Fewer Ensembles	https://neurips.cc/virtual/2026/poster/151202	included	集成探索只在 Gram 矩阵显著变化时刷新。
+155332	Linear Regression Under Misalignment: Algorithms and Theoretical Results	https://neurips.cc/virtual/2026/poster/155332	included	错位线性回归先区分整行打乱和特征内部打乱。
+148416	Linear-time rule mining under formal guarantees	https://neurips.cc/virtual/2026/poster/148416	included	规则发现用可线性计算的精度召回效用排名。
+154523	LINE: LLM-based Iterative Neuron Explanations for Vision Models	https://neurips.cc/virtual/2026/poster/154523	included	开放集神经元解释用生成反例迭代检验标签。
+152183	Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents	https://neurips.cc/virtual/2026/poster/152183	included	动态对象记忆用语言轨迹与稀疏时空锚点。
+152490	LINK: Learning to Localize from Known to Unknown Scenes	https://neurips.cc/virtual/2026/poster/152490	included	越过未知场景时按可靠度切换绝对与相对定位。
+138940	LinuxArena: A Control Setting for AI Agents in Live Production Software Environments	https://neurips.cc/virtual/2026/poster/138940	excluded	摘要的新增实证主要围绕可复现的代理破坏和攻击轨迹，未提取攻击操作或测试实现。
+149286	LIPAR: Latent Inter-Frame Pruning with Attention Recovery	https://neurips.cc/virtual/2026/poster/149286	included	视频扩散跳过重复图块但重建其注意贡献。
+153450	Lipschitz Dueling Bandits over Continuous Action Spaces	https://neurips.cc/virtual/2026/poster/153450	included	连续动作仅有偏好时比较候选区域与动态参考。
+152273	LiSA: Lifelong Safety Adaptation via Conservative Policy Induction	https://neurips.cc/virtual/2026/poster/152273	included	上线安全反馈先积累置信再将经验变为持久规则。
+148774	Listening to the Retriever: Perturbation-Sensitive Question Selection for Interactive Person Retrieval	https://neurips.cc/virtual/2026/poster/148774	included	主动追问以当前检索器对候选属性的排名敏感度选择。
+151680	Listening to the Wise Few: Query–Key Alignment Unlocks Latent Correct Answers in Large Language Models	https://neurips.cc/virtual/2026/poster/151680	included	多选读取中层的内容选择信号，与最终标签偏置分开。
+139142	ListQA: A Benchmark for Evaluating List-Formatted Factual Knowledge Retrieval in Large Language Models	https://neurips.cc/virtual/2026/poster/139142	included	列表问答用元素匹配同时测缺漏与编造。
+153692	Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex	https://neurips.cc/virtual/2026/poster/153692	included	组相对更新先构建列表目标分布再做显式投影。
+154582	LITE: A Lightweight Lazy Sampler for Efficient SGD	https://neurips.cc/virtual/2026/poster/154582	included	重要性采样用平滑稀疏刷新分数，低可信时回归均匀。
+149229	LiteNav: Lightweight Map-free Outdoor Visual Navigation	https://neurips.cc/virtual/2026/poster/149229	excluded	摘要主要呈现现成感知、扩散和规划的系统集成；未交代联合编码的可独立复用机制。
+148879	Literati: Towards Anytime Optimal Shape Generalized Trees via AO*	https://neurips.cc/virtual/2026/poster/148879	included	可解释树用与形函数复杂度联合的最优搜索。
+151492	LITHE: Lattice-Indexed Twin Hadamard Encoding for Diffusion Personalization	https://neurips.cc/virtual/2026/poster/151492	included	多租户 LoRA 以可计算索引统一磁盘与两种服务模式。
+139771	LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation	https://neurips.cc/virtual/2026/poster/139771	excluded	岩性解读基准弥补地质数据缺口，摘要未给出可独立验证的跨场景评估机制。
+150415	LITMUS: Benchmarking Behavioral Jailbreaks of LLM Agents in Real OS Environments	https://neurips.cc/virtual/2026/poster/150415	included	验收操作型助手时，同时查回复和独立的执行状态。
+148220	LittleLearner: Language Models Under Pedagogically-Controlled Knowledge Exposure	https://neurips.cc/virtual/2026/poster/148220	included	研究知识获取时，以可说明的课程边界控制初始训练暴露。
+152252	Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators	https://neurips.cc/virtual/2026/poster/152252	excluded	块缓存和强制训练具有候选价值，摘要缺少 ARC 技术操作及独立对照。
+139572	LiveOption: Evaluating LLM Agents in Structured Option Trading with Nonlinear Payoffs	https://neurips.cc/virtual/2026/poster/139572	excluded	期权组合数据和验收服务特定金融任务，摘要尚无与所涉方向可独立复用的技术机制。
+139208	LL-Bench: Rethinking Low-Level Vision Evaluation in the Era of Large-Scale Generative Models	https://neurips.cc/virtual/2026/poster/139208	included	为生成式图像复原选择指标时，把幻觉与视觉质量分别对齐专家偏好。
+155346	LLM-ACES: Closed-Loop Discovery of Dynamic Systems with LLM-Guided Adaptive Search	https://neurips.cc/virtual/2026/poster/155346	included	多个动力学假设都能解释现有数据时，到预测分歧最大的状态区采样。
+149530	LLM Active Alignment: A Nash Equilibrium Perspective	https://neurips.cc/virtual/2026/poster/149530	excluded	对齐对象简化为人群混合与凹效用，摘要缺少跨环境验证。
+148531	LLM Agents Already Know When to Call Tools - Even Without Reasoning	https://neurips.cc/virtual/2026/poster/148531	included	需要减少多余工具调用时，在生成前读出工具必要性分数，再决定是否提示直接作答。
+149683	LLM Alignment--Utility Asymmetry under Semantic-Preserving Transformations	https://neurips.cc/virtual/2026/poster/149683	included	测试模型在输入分布偏移下是否仍安全时，配对记录任务可用性和防护表现。
+150546	LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL	https://neurips.cc/virtual/2026/poster/150546	included	非可验证奖励训练中，候选回答质量过于相近时，逐次追加小约束调整题目难度。
+151398	LLM-Auction: Generative Auction towards LLM-Native Advertising	https://neurips.cc/virtual/2026/poster/151398	excluded	生成式广告拍卖机制主要受特定支付与广告目标约束，没有明确研究技术迁移证据。
+149204	LLM-AutoSciLab: Closed-Loop Scientific Law Discovery via Active Experimentation with LLMs	https://neurips.cc/virtual/2026/poster/149204	excluded	主动假设区分与同批已选的闭环方程发现重叠，摘要未给出独立可复用的选实验规则。
+151426	LLM-Based Multi-Agent Blackboard System for Information Discovery in Data Science	https://neurips.cc/virtual/2026/poster/151426	included	总调度器不知道数据分区专家能力时，用共享黑板发布需求，由负责分区的代理主动响应。
+140064	LLM-enabled Applications Require Systematic Threat Monitoring	https://neurips.cc/virtual/2026/poster/140064	excluded	防御性监测立场明确，摘要未提供可检验的监测算法、指标或新规律。
+154957	LLM-Enhanced Random Forests in Orthogonal Hyperbolic Subspaces for Tabular Learning	https://neurips.cc/virtual/2026/poster/154957	excluded	几何语义树、正交投影与残差增长的组合收益，摘要未隔离各项选择。
+152529	LLM Flow Processes for Text-Conditioned Regression	https://neurips.cc/virtual/2026/poster/152529	included	逐步生成数值轨迹容易误差串联时，先平行估计边缘分布，再用轻量条件过程补全时间相关。
+148951	LLM Is a Good Conditioner: End-to-End Sign Language Video Generation with VQ-Diffusion	https://neurips.cc/virtual/2026/poster/148951	excluded	手语生成集成了已有量化与扩散，摘要缺少可独立迁移的条件平滑证据。
+154278	LLM Judge Validation Under Sparse Overlap: From Inference to Design	https://neurips.cc/virtual/2026/poster/154278	included	预算固定的模型评委验收优先保证人机与评委之间可比较的重叠，并按信息分层分配。
+149756	LLM Rheology: Auditing Refusal Geometry in Aligned Language Models	https://neurips.cc/virtual/2026/poster/149756	included	安全验收中将内部拒绝信号与实际拒绝行为分开测，并用匹配强度对照检查特异性。
+140122	LLM Routing Through the Lens of Recommendation: A Roadmap for Efficient AI Orchestration	https://neurips.cc/virtual/2026/poster/140122	excluded	摘要主要论证将推荐系统概念映射到模型路由，初步案例未给可独立验证的技术选择。
+151231	LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation	https://neurips.cc/virtual/2026/poster/151231	included	机器人训练流水线验收要分开检查可执行和可学习。
+153045	LLMs can construct powerful representations and streamline sample-efficient supervised learning	https://neurips.cc/virtual/2026/poster/153045	included	异质输入先从代表样本抽取可审计的共享表示规则。
+149675	LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling	https://neurips.cc/virtual/2026/poster/149675	included	测试时控制器搜索可先用缓存的良性推理轨迹做离线验收。
+154758	LLMs Keep Thinking When Told Not To	https://neurips.cc/virtual/2026/poster/154758	included	禁用思考应同时测答案格式、可见前文和准确率。
+153146	LLMs Optimizing LLMs: Automated MegaKernel Generation for Inference Acceleration	https://neurips.cc/virtual/2026/poster/153146	included	GPU 计算融合用可单独验证的融合指令表达调度。
+148364	LLMs Show No Signs Of Individuated Metacognition	https://neurips.cc/virtual/2026/poster/148364	included	置信度路由测试剔除所有模型都同意的简单样本。
+139824	LLM-WikiRace: A Benchmark for Planning and Reasoning over Real-World Knowledge Graphs	https://neurips.cc/virtual/2026/poster/139824	included	导航规划评测单独测陷入循环后的恢复。
+150857	Load Balancing Mixture of Experts with Similarity Preserving Routers	https://neurips.cc/virtual/2026/poster/150857	included	MoE 负载损失应同时保持相似输入的专家分配。
+149786	LocalAgent: Collaborative Agentic Verification for Fine-Grained Instance-Level Consistency	https://neurips.cc/virtual/2026/poster/149786	included	实体核验让全局模型提出存疑区域，几何与外观模块回传结构化分数。
+148228	Local FDR Membership Inference Attacks: Multiple Testing and the Role of Ridge Regularization	https://neurips.cc/virtual/2026/poster/148228	included	隐私审计批量候选时报告集合级错误发现率。
+149732	Local Gaussian Processes on Compact Lie Groups	https://neurips.cc/virtual/2026/poster/149732	included	旋转数据的高斯过程选匹配群结构的核。
+151172	Local–Global Sparse Autoencoders for Multiscale Interpretability in Vision Models	https://neurips.cc/virtual/2026/poster/151172	included	解释视觉模型时联合分解补丁和图级表示，学习部件到全局概念的稀疏关联。
+155658	Local Guidance, Global Impact: Gaussian-Reshaped Trust Region Unlocks Behavior Transitions	https://neurips.cc/virtual/2026/poster/155658	included	非平稳任务的信任域需区分抑制短期跳变和允许持续迁移。
+153830	Local-Interaction Learning Dynamics: A Markov Random Field Framework for Convergence of Deep Neural Network Learning	https://neurips.cc/virtual/2026/poster/153830	included	训练几何从模块邻接的稀疏精度矩阵观察。
+149038	Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models	https://neurips.cc/virtual/2026/poster/149038	included	结构性图像异常可用生成流形的局部内在维数诊断。
+150510	Locality-Controlled OOD Guidance for Robust Regulatory DNA Sequence Design	https://neurips.cc/virtual/2026/poster/150510	excluded	论文主要贡献直接面向调控 DNA 设计，摘要未提供可独立评估的通用研究选择。
+152589	Locality Sensitive Hashing for p-Exponential Kernels with Applications to Density Estimation	https://neurips.cc/virtual/2026/poster/152589	included	在有界区域的密度估计可考虑 p 指数核的碰撞估计。
+152225	Localize Any Object in X-Ray Security Scans without Human Annotation	https://neurips.cc/virtual/2026/poster/152225	included	透射成像检测训练可按遮叠难度逐级评估。
+151978	Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151978	included	跨动力学离线迁移按局部转移簇而非全域比相容性。
 148596	Localizing and Repairing Sparse-Prompt Failure in SAM Decoders via Box-to-Point Counterfactual	https://neurips.cc/virtual/2026/poster/148596	pending	-
 151958	Localizing Concepts in Visual Autoregressive Models	https://neurips.cc/virtual/2026/poster/151958	pending	-
 152631	Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values	https://neurips.cc/virtual/2026/poster/152631	pending	-

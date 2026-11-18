@@ -549,5 +549,7 @@
 - [LEVDA: Latent Ensemble Variational Data Assimilation via Differentiable Dynamics](../conferences/neurips-2026/cards-0007.md#paper-153297)
 - [Lie Generator Networks for Nonlinear Partial Differential Equations](../conferences/neurips-2026/cards-0007.md#paper-155016)
 - [LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators](../conferences/neurips-2026/cards-0007.md#paper-149185)
+- [LLM-ACES: Closed-Loop Discovery of Dynamic Systems with LLM-Guided Adaptive Search](../conferences/neurips-2026/cards-0008.md#paper-155346)
+- [LLMs can construct powerful representations and streamline sample-efficient supervised learning](../conferences/neurips-2026/cards-0008.md#paper-153045)
 
 <!-- conference-classification:end -->

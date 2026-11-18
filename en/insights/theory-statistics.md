@@ -926,5 +926,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Length Generalization for Transformers via Compression](../../conferences/neurips-2026/cards-0007.md#paper-150600)
 - [Limits and Potential of Score-Based Data Valuation: Redundancy, Complementarity, and Non-Monotonicity](../../conferences/neurips-2026/cards-0007.md#paper-149315)
 - [Linear approximations to HMM filtering](../../conferences/neurips-2026/cards-0007.md#paper-155014)
+- [Local Gaussian Processes on Compact Lie Groups](../../conferences/neurips-2026/cards-0008.md#paper-149732)
+- [Local-Interaction Learning Dynamics: A Markov Random Field Framework for Convergence of Deep Neural Network Learning](../../conferences/neurips-2026/cards-0008.md#paper-153830)
+- [Locality Sensitive Hashing for p-Exponential Kernels with Applications to Density Estimation](../../conferences/neurips-2026/cards-0008.md#paper-152589)
 
 <!-- conference-classification:end -->

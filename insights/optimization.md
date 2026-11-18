@@ -613,5 +613,11 @@
 - [Learning Unbiased Permutations via Flow Matching](../conferences/neurips-2026/cards-0007.md#paper-155726)
 - [LEVDA: Latent Ensemble Variational Data Assimilation via Differentiable Dynamics](../conferences/neurips-2026/cards-0007.md#paper-153297)
 - [LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing](../conferences/neurips-2026/cards-0007.md#paper-148664)
+- [Linear Contextual Bandits with Quasi-Optimism](../conferences/neurips-2026/cards-0007.md#paper-154848)
+- [Linear Ensemble Sampling with Fewer Ensembles](../conferences/neurips-2026/cards-0007.md#paper-151202)
+- [Linear Regression Under Misalignment: Algorithms and Theoretical Results](../conferences/neurips-2026/cards-0008.md#paper-155332)
+- [Linear-time rule mining under formal guarantees](../conferences/neurips-2026/cards-0008.md#paper-148416)
+- [Lipschitz Dueling Bandits over Continuous Action Spaces](../conferences/neurips-2026/cards-0008.md#paper-153450)
+- [Literati: Towards Anytime Optimal Shape Generalized Trees via AO*](../conferences/neurips-2026/cards-0008.md#paper-148879)
 
 <!-- conference-classification:end -->

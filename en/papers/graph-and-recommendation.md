@@ -310,5 +310,6 @@ Graph models, knowledge graphs, and recommender systems.
 - [Learning Transferable Representations from Operating System Entities via Provenance Graph Distillation](../../conferences/neurips-2026/cards-0007.md#paper-151915)
 - [Lethe: Link Inference Attacks For Evaluation of Edge Unlearning Methods](../../conferences/neurips-2026/cards-0007.md#paper-139781)
 - [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](../../conferences/neurips-2026/cards-0007.md#paper-153393)
+- [Linear-time rule mining under formal guarantees](../../conferences/neurips-2026/cards-0008.md#paper-148416)
 
 <!-- conference-classification:end -->

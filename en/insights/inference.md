@@ -1138,5 +1138,14 @@ Decoding, test-time adaptation, and efficient execution.
 - [LensVLM: Selective Context Expansion for Compressed Visual Representation of Text](../../conferences/neurips-2026/cards-0007.md#paper-151754)
 - [Less Evidence, Better Answering: Gain-Aware Minimal Evidence Subset Selection for Medical QA](../../conferences/neurips-2026/cards-0007.md#paper-152857)
 - [LifeStream: Token Life-Cycle Modeling for Training-Free Online Video Understanding](../../conferences/neurips-2026/cards-0007.md#paper-150799)
+- [LINK: Learning to Localize from Known to Unknown Scenes](../../conferences/neurips-2026/cards-0008.md#paper-152490)
+- [LIPAR: Latent Inter-Frame Pruning with Attention Recovery](../../conferences/neurips-2026/cards-0008.md#paper-149286)
+- [LiSA: Lifelong Safety Adaptation via Conservative Policy Induction](../../conferences/neurips-2026/cards-0008.md#paper-152273)
+- [Listening to the Retriever: Perturbation-Sensitive Question Selection for Interactive Person Retrieval](../../conferences/neurips-2026/cards-0008.md#paper-148774)
+- [LITHE: Lattice-Indexed Twin Hadamard Encoding for Diffusion Personalization](../../conferences/neurips-2026/cards-0008.md#paper-151492)
+- [LLM Agents Already Know When to Call Tools - Even Without Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-148531)
+- [LLM Flow Processes for Text-Conditioned Regression](../../conferences/neurips-2026/cards-0008.md#paper-152529)
+- [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](../../conferences/neurips-2026/cards-0008.md#paper-149675)
+- [LLMs Optimizing LLMs: Automated MegaKernel Generation for Inference Acceleration](../../conferences/neurips-2026/cards-0008.md#paper-153146)
 
 <!-- conference-classification:end -->

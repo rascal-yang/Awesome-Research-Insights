@@ -2172,5 +2172,15 @@
 - [Limits and Potential of Score-Based Data Valuation: Redundancy, Complementarity, and Non-Monotonicity](../conferences/neurips-2026/cards-0007.md#paper-149315)
 - [LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing](../conferences/neurips-2026/cards-0007.md#paper-148664)
 - [Linear approximations to HMM filtering](../conferences/neurips-2026/cards-0007.md#paper-155014)
+- [Linear Contextual Bandits with Quasi-Optimism](../conferences/neurips-2026/cards-0007.md#paper-154848)
+- [Linear Ensemble Sampling with Fewer Ensembles](../conferences/neurips-2026/cards-0007.md#paper-151202)
+- [Linear Regression Under Misalignment: Algorithms and Theoretical Results](../conferences/neurips-2026/cards-0008.md#paper-155332)
+- [LITE: A Lightweight Lazy Sampler for Efficient SGD](../conferences/neurips-2026/cards-0008.md#paper-154582)
+- [Literati: Towards Anytime Optimal Shape Generalized Trees via AO*](../conferences/neurips-2026/cards-0008.md#paper-148879)
+- [LLM Flow Processes for Text-Conditioned Regression](../conferences/neurips-2026/cards-0008.md#paper-152529)
+- [Local FDR Membership Inference Attacks: Multiple Testing and the Role of Ridge Regularization](../conferences/neurips-2026/cards-0008.md#paper-148228)
+- [Local Gaussian Processes on Compact Lie Groups](../conferences/neurips-2026/cards-0008.md#paper-149732)
+- [Local-Interaction Learning Dynamics: A Markov Random Field Framework for Convergence of Deep Neural Network Learning](../conferences/neurips-2026/cards-0008.md#paper-153830)
+- [Locality Sensitive Hashing for p-Exponential Kernels with Applications to Density Estimation](../conferences/neurips-2026/cards-0008.md#paper-152589)
 
 <!-- conference-classification:end -->

@@ -525,3 +525,6 @@
 | 机器学习基础与统计 | 理论与统计 | [Limits and Potential of Score-Based Data Valuation: Redundancy, Complementarity, and Non-Monotonicity](cards-0007.md#paper-149315) | 先查冗余、互补与非单调，再用标量分数选数据。 |
 | 机器学习基础与统计 | 优化 | [LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing](cards-0007.md#paper-148664) | 构造路线时把确定的局部代价显式打分。 |
 | 机器学习基础与统计 | 理论与统计 | [Linear approximations to HMM filtering](cards-0007.md#paper-155014) | 根据潜过程的耗散决定是否需非线性滤波模型。 |
+| 大语言模型 | 训练策略 | [LinearARD: Linear-Memory Attention Distillation for RoPE Restoration](cards-0007.md#paper-148387) | 扩展 RoPE 后用短数据蒸馏原注意关系。 |
+| 机器学习基础与统计 | 优化 | [Linear Contextual Bandits with Quasi-Optimism](cards-0007.md#paper-154848) | 线性 bandit 探索不强制逐动作乐观。 |
+| 机器学习基础与统计 | 优化 | [Linear Ensemble Sampling with Fewer Ensembles](cards-0007.md#paper-151202) | 集成探索只在 Gram 矩阵显著变化时刷新。 |

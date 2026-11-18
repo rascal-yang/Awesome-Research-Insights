@@ -732,5 +732,8 @@
 - [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](../conferences/neurips-2026/cards-0007.md#paper-139040)
 - [LiFT: Likelihood-Free Tree-Structured Policy Optimization for Flow-Based VLAs](../conferences/neurips-2026/cards-0007.md#paper-151131)
 - [Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models](../conferences/neurips-2026/cards-0007.md#paper-154150)
+- [Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents](../conferences/neurips-2026/cards-0008.md#paper-152183)
+- [LINK: Learning to Localize from Known to Unknown Scenes](../conferences/neurips-2026/cards-0008.md#paper-152490)
+- [LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation](../conferences/neurips-2026/cards-0008.md#paper-151231)
 
 <!-- conference-classification:end -->

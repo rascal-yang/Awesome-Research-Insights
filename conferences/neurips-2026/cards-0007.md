@@ -7816,3 +7816,48 @@
 - **适用条件 / 局限** · 实际序列不一定符合已知 HMM 假设。
 
 **可复用机制** · 用不同耗散水平的合成 HMM 对照线性和非线性模型，报告信念误差。
+
+<a id="paper-148387"></a>
+
+## LinearARD: Linear-Memory Attention Distillation for RoPE Restoration
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148387) · [作者来源](https://openreview.net/forum?id=yE1HoBJPO6)
+
+- **问题 / 瓶颈** · 常规继续预训练需要大量长文本，关系图又耗平方内存。
+- **核心创新 / 方法** · 匹配教师末层 Q、K、V 各自关系的行分布，以每词元统计和反向重算求精确 KL。
+- **Baseline** · 继续预训练、LongReD 和原模型。
+- **Benchmark** · LLaMA2、LLaMA3、Mistral 至 32K；短程能力与 RULER。
+- **关键结果 / 消融** · 4.25M 词元恢复约 93% 至 94% 短程表现，约为基线词元预算 1.6%。
+- **适用条件 / 局限** · 所测模型和上下文长度有限。
+
+**可复用机制** · 把结构校准和能力训练解耦，用可重算统计保留完整关系监督。
+
+<a id="paper-154848"></a>
+
+## Linear Contextual Bandits with Quasi-Optimism
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154848) · [作者来源](https://openreview.net/forum?id=ASBq7wkFtd)
+
+- **问题 / 瓶颈** · 总是给有效上置信界可能导致过多探索。
+- **核心创新 / 方法** · 取二次与线性置信范数奖励的较小值，分别控制探索和非乐观残差。
+- **Baseline** · OFUL 等标准乐观策略。
+- **Benchmark** · 合成和真实上下文 bandit；遗憾界。
+- **关键结果 / 消融** · 一套无需已知间隔的调参恢复最坏高概率量级，正间隔有更强界。
+- **适用条件 / 局限** · 依赖线性模型与相应上下文边际条件。
+
+**可复用机制** · 允许短期置信不足，但用单独残差预算验证累计风险受控。
+
+<a id="paper-151202"></a>
+
+## Linear Ensemble Sampling with Fewer Ensembles
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151202) · [作者来源](https://openreview.net/forum?id=cC5lywZ79h)
+
+- **问题 / 瓶颈** · 每期频繁刷新要求大规模集成，增加在线开销。
+- **核心创新 / 方法** · 按正则 Gram 漂移划分时段，时段内复用随机集成。
+- **Baseline** · 既有线性集成采样。
+- **Benchmark** · 任意有界与有限动作集的理论及实证。
+- **关键结果 / 消融** · 充分集成规模降至 d log d 加 d log log T 量级，并保留相应遗憾率。
+- **适用条件 / 局限** · 依赖线性和有界动作，漂移阈值影响实际成本。
+
+**可复用机制** · 以信息状态变化而非固定日期刷新探索近似。

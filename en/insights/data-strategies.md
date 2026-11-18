@@ -325,5 +325,9 @@ Data selection, annotation, augmentation, and sampling.
 - [Learning Where to Simulate: Generative Active Sampling for Online PDE Surrogate Training](../../conferences/neurips-2026/cards-0007.md#paper-151676)
 - [Less Language, More Latents: Annotation-Efficient VLAs for Driving](../../conferences/neurips-2026/cards-0007.md#paper-149160)
 - [Leveraging Data Symmetries to Select an Optimal Subset of Training Data under Label Noise](../../conferences/neurips-2026/cards-0007.md#paper-151105)
+- [LITE: A Lightweight Lazy Sampler for Efficient SGD](../../conferences/neurips-2026/cards-0008.md#paper-154582)
+- [LittleLearner: Language Models Under Pedagogically-Controlled Knowledge Exposure](../../conferences/neurips-2026/cards-0008.md#paper-148220)
+- [LLM-ACES: Closed-Loop Discovery of Dynamic Systems with LLM-Guided Adaptive Search](../../conferences/neurips-2026/cards-0008.md#paper-155346)
+- [Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-151978)
 
 <!-- conference-classification:end -->

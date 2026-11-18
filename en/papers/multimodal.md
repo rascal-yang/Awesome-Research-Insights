@@ -721,5 +721,7 @@ Learning across modalities such as images, text, audio, and video.
 - [LensVLM: Selective Context Expansion for Compressed Visual Representation of Text](../../conferences/neurips-2026/cards-0007.md#paper-151754)
 - [Leveraging Latent Visual Reasoning in Silence](../../conferences/neurips-2026/cards-0007.md#paper-152244)
 - [LifeStream: Token Life-Cycle Modeling for Training-Free Online Video Understanding](../../conferences/neurips-2026/cards-0007.md#paper-150799)
+- [Listening to the Retriever: Perturbation-Sensitive Question Selection for Interactive Person Retrieval](../../conferences/neurips-2026/cards-0008.md#paper-148774)
+- [LocalAgent: Collaborative Agentic Verification for Fine-Grained Instance-Level Consistency](../../conferences/neurips-2026/cards-0008.md#paper-149786)
 
 <!-- conference-classification:end -->

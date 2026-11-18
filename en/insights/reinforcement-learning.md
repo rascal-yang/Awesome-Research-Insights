@@ -567,5 +567,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Leveraging Error Diversity in Group Rollouts for Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-154049)
 - [LiFT: Likelihood-Free Tree-Structured Policy Optimization for Flow-Based VLAs](../../conferences/neurips-2026/cards-0007.md#paper-151131)
 - [Likelihood-Free Generative Policy Optimization](../../conferences/neurips-2026/cards-0007.md#paper-151534)
+- [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](../../conferences/neurips-2026/cards-0008.md#paper-153692)
+- [LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL](../../conferences/neurips-2026/cards-0008.md#paper-150546)
+- [Local Guidance, Global Impact: Gaussian-Reshaped Trust Region Unlocks Behavior Transitions](../../conferences/neurips-2026/cards-0008.md#paper-155658)
 
 <!-- conference-classification:end -->

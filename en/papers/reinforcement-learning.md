@@ -582,5 +582,9 @@ Learning from interaction, feedback, and offline experience.
 - [Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shift](../../conferences/neurips-2026/cards-0007.md#paper-155084)
 - [Learning When to Think: Adaptive Internal Computation for Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-153029)
 - [Likelihood-Free Generative Policy Optimization](../../conferences/neurips-2026/cards-0007.md#paper-151534)
+- [Lipschitz Dueling Bandits over Continuous Action Spaces](../../conferences/neurips-2026/cards-0008.md#paper-153450)
+- [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](../../conferences/neurips-2026/cards-0008.md#paper-153692)
+- [Local Guidance, Global Impact: Gaussian-Reshaped Trust Region Unlocks Behavior Transitions](../../conferences/neurips-2026/cards-0008.md#paper-155658)
+- [Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-151978)
 
 <!-- conference-classification:end -->

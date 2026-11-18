@@ -917,5 +917,12 @@
 - [Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](../conferences/neurips-2026/cards-0007.md#paper-153981)
 - [LESSViT: Robust Hyperspectral Representation Learning under Spectral Configuration Shift](../conferences/neurips-2026/cards-0007.md#paper-154948)
 - [LiBrA-Net: Lie-Algebraic Bilateral Affine Fields for Real-Time 4K Video Dehazing](../conferences/neurips-2026/cards-0007.md#paper-154860)
+- [LINE: LLM-based Iterative Neuron Explanations for Vision Models](../conferences/neurips-2026/cards-0008.md#paper-154523)
+- [LIPAR: Latent Inter-Frame Pruning with Attention Recovery](../conferences/neurips-2026/cards-0008.md#paper-149286)
+- [LITHE: Lattice-Indexed Twin Hadamard Encoding for Diffusion Personalization](../conferences/neurips-2026/cards-0008.md#paper-151492)
+- [LL-Bench: Rethinking Low-Level Vision Evaluation in the Era of Large-Scale Generative Models](../conferences/neurips-2026/cards-0008.md#paper-139208)
+- [Local–Global Sparse Autoencoders for Multiscale Interpretability in Vision Models](../conferences/neurips-2026/cards-0008.md#paper-151172)
+- [Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models](../conferences/neurips-2026/cards-0008.md#paper-149038)
+- [Localize Any Object in X-Ray Security Scans without Human Annotation](../conferences/neurips-2026/cards-0008.md#paper-152225)
 
 <!-- conference-classification:end -->
