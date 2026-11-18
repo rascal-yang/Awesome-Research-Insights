@@ -1936,3 +1936,78 @@
 - **适用条件 / 局限** · 依赖穿戴臂与机器人关节同构；不同构型或接触反馈差异较大时需重新验证。
 
 **可复用机制** · 在设计多来源示范管线时统一关节增量表示，先等量换源估计分布差，再决定新增采集预算。
+
+<a id="paper-pax622bsf6"></a>
+
+## REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback
+
+[会议记录](https://openreview.net/forum?id=PAX622BSf6) · [原文](https://openreview.net/pdf?id=PAX622BSf6)
+
+- **问题 / 瓶颈** · 符号重排状态省去了动作可行性所依赖的几何信息。
+- **核心创新 / 方法** · 在训练时调用运动策略提供几何可行性反馈，让关系图网络拟合搜索启发式，部署时引导贪心最佳优先搜索。
+- **Baseline** · 比较经典启发式搜索与任务和运动规划方法；摘要未列具体名称。
+- **Benchmark** · 用同一批重排实例比较运动策略查询数，并改变物体数、布局和计划长度测试分布外泛化。
+- **关键结果 / 消融** · 查询量约少一个数量级；消融数值摘要未报告。
+- **适用条件 / 局限** · 训练需要能判定动作可行性的运动策略；跨域仍需构造符号抽象。
+
+**可复用机制** · 当高层搜索展开节点的主要开销是低层验证时，用验证结果训练轻量排序器，把昂贵查询优先留给更可行的候选。
+
+<a id="paper-1hqdyvwaxi"></a>
+
+## ReSiReg: Towards Spatially Consistent Semantics in Language-Conditioned Robotic Tasks
+
+[会议记录](https://openreview.net/forum?id=1HqdYVWaXi) · [原文](https://openreview.net/pdf?id=1HqdYVWaXi)
+
+- **问题 / 瓶颈** · 密集视觉语言嵌入局部噪声较大，影响三维定位。
+- **核心创新 / 方法** · 聚类中间特征得到视觉原型，赋予原型语言描述，再将每个图像块重建为原型级语言嵌入的软混合。
+- **Baseline** · 比较多种 VLM 骨干，紧凑模型与 ViT-B 基线比较。
+- **Benchmark** · 开放词汇语义分割、三维建图及真机操作场景；摘要未列具体指标定义。
+- **关键结果 / 消融** · 密集检索改善，真机场景目标激活更连贯；25M 模型与 ViT-B 表现相近。
+- **适用条件 / 局限** · 真机证据为定性观察；依赖中间层包含空间连贯的信号。
+
+**可复用机制** · 对定位热图的碎片化问题，用空间结构较好的中间层确定原型归属，再从原型回填语义。
+
+<a id="paper-jimwz6u93i"></a>
+
+## AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge
+
+[会议记录](https://openreview.net/forum?id=JiMWz6U93i) · [原文](https://openreview.net/pdf?id=JiMWz6U93i)
+
+- **问题 / 瓶颈** · 远端模型推理和通信延迟使动作依据的观测过时。
+- **核心创新 / 方法** · 异步运行远端基础模型和机载高频适配器，端到端微调时增大动态交互轨迹权重。
+- **Baseline** · 摘要报告与先进方法比较，未给出方法名。
+- **Benchmark** · 真机视觉导航，施加最长 6 秒通信延迟，测任务成功率。
+- **关键结果 / 消融** · 作者报告成功率较基线高 40%；摘要未拆分异步结构和重加权的效果。
+- **适用条件 / 局限** · 证据来自导航与所测延迟范围；机载端仍需高频感知和推理。
+
+**可复用机制** · 做云端语义规划时，把对时延敏感的修正交给本地模型，并在可控延迟和动态干扰下测成功率。
+
+<a id="paper-av4ykymvpx"></a>
+
+## LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation
+
+[会议记录](https://openreview.net/forum?id=Av4ykyMvpX) · [原文](https://openreview.net/pdf?id=Av4ykyMvpX)
+
+- **问题 / 瓶颈** · 直接行为克隆需要由视觉语言输入重新学到专家控制所需的状态表示。
+- **核心创新 / 方法** · 冻结视觉语言骨干与特权专家，通过监督学习将感知嵌入映射至专家潜空间，复用其控制行为。
+- **Baseline** · 基于冻结特权专家；比较直接 BC 与导航预训练基线。
+- **Benchmark** · 同分布仿真、零样本分布外环境、扰动测试及 TurtleBot 真机，测成功率与碰撞率。
+- **关键结果 / 消融** · 分布外成功率较直接 BC 从 49.3% 到 80.5%，碰撞率从 45.0% 到 15.5%；真机成功率 70.7%，对照为 60.9% 和 40.2%。
+- **适用条件 / 局限** · 需要特权专家及可用于监督对齐的潜表示；视觉不可观测信息仍可能无法恢复。
+
+**可复用机制** · 换感知骨干时先训练小型潜空间适配器，固定专家控制头，对照端到端行为克隆。
+
+<a id="paper-pjzsychbzg"></a>
+
+## WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation
+
+[会议记录](https://openreview.net/forum?id=PjzSYChBzg) · [原文](https://openreview.net/pdf?id=PjzSYChBzg)
+
+- **问题 / 瓶颈** · 仅反应式控制缺乏预见性，独立视觉滚动预测累积误差并增加延迟。
+- **核心创新 / 方法** · 共享 Diffusion Transformer 同步去噪长动作序列和短视觉潜序列，并以自运动历史和连续画面双流条件化。
+- **Baseline** · 对照反应式和模块化预测思路；摘要未列具体实验基线。
+- **Benchmark** · ClutterScenes、InternScenes，图像目标、点目标和无目标探索；另有室内外零样本真机部署。
+- **关键结果 / 消融** · 作者报告图像目标与点目标成功率分别提高 15.7% 和 3.3%，真机平均成功率 85%；摘要未给非对称时域消融数值。
+- **适用条件 / 局限** · 验证集中在导航；视觉预测窗口需随障碍变化速度重新校准。
+
+**可复用机制** · 联合扩散时分别设置预测和执行时域，在匹配计算预算下比较避障、推理延迟与轨迹平滑度。

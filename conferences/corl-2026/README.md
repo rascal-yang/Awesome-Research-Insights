@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **133 / 687** 篇，当前收录 **129** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **138 / 687** 篇，当前收录 **134** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -135,3 +135,8 @@
 | 具身智能 / 多模态 | 评测与诊断 | [RoboAffect: Egocentric Emotion Reasoning for Robot Companions in Shared Viewing](cards.md#paper-xwoyo2bpcl) | 测量机器人视角采集对多模态任务的性能损失，据此决定是否采集视角匹配的训练数据。 |
 | 具身智能 / 强化学习 | 策略优化 | [Self-play is not enough: human imitation improves self-play autonomy in the wild](cards.md#paper-s8ziyian3z) | 在自博弈策略部署前，测试用真人日志修正行为分布，同时用冻结策略 KL 约束保留原有能力。 |
 | 具身智能 / 机器人学习 | 数据采集 | [SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation](cards.md#paper-penaq22jh1) | 设计共享的关节增量动作接口，使穿戴示范和遥操作数据能在同一策略中混用。 |
+| 具身智能 / 规划 | 启发式搜索 | [REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback](cards.md#paper-pax622bsf6) | 用运动规划器反馈训练符号搜索启发式，减少昂贵的几何查询。 |
+| 具身智能 / 多模态 | 视觉表示 | [ReSiReg: Towards Spatially Consistent Semantics in Language-Conditioned Robotic Tasks](cards.md#paper-1hqdyvwaxi) | 用空间稳定的中间特征重建开放词汇定位图。 |
+| 具身智能 / 多模态 | 异步控制 | [AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge](cards.md#paper-jimwz6u93i) | 远端模型提供语义引导，边缘适配器持续按新观测修正动作。 |
+| 具身智能 / 多模态 | 表示对齐 | [LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation](cards.md#paper-av4ykymvpx) | 迁移导航控制时让新感知适配冻结专家的内部状态。 |
+| 具身智能 / 世界模型 | 扩散策略 | [WAM-Nav: Asymmetric Latent World-Action Modeling for Unified Visual Navigation](cards.md#paper-pjzsychbzg) | 联合生成长动作与短视觉预测，减少为远期控制生成远期视觉的成本。 |
