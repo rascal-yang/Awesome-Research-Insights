@@ -22,7 +22,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 ## Browse by Domain
 
-Counts include retained CoRL entries and provisional NeurIPS entries. Conference labels are mapped automatically, and entries pending classification are included in the totals.
+**10,728 papers.** Counts cover the ICML, CoRL, and NeurIPS paper cards currently indexed, including provisional NeurIPS entries and papers pending classification.
 
 | Domain | Papers | Scope |
 | :--- | ---: | :--- |
@@ -37,11 +37,11 @@ Counts include retained CoRL entries and provisional NeurIPS entries. Conference
 | <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 631 | Machine learning for physics, medicine, biology, and engineering. |
 | [Pending classification](en/papers/pending-classification.md) | 175 | Conference labels awaiting taxonomy mapping |
 
-**10,728 papers · 10,729 mechanisms.**
-
 <a id="insights-by-technical-category"></a>
 
 ## Browse by Technique
+
+**10,729 mechanisms.** A paper can contribute several mechanisms. Provisional mechanisms and those pending classification count toward the total.
 
 | Technique | Mechanisms | Scope |
 | :--- | ---: | :--- |

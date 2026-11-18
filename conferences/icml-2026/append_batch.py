@@ -7,6 +7,8 @@ import csv
 from datetime import date
 from pathlib import Path
 import re
+import subprocess
+import sys
 
 from paper_cards import (
     CARD_ANCHOR, CONFERENCE, MECHANISM, RECONVLA, card_href, card_locations, card_page,
@@ -252,10 +254,8 @@ def render_indexes(catalog, mapping, screened, total, date, update):
         domain, technique = mapping[n]
         papers[key] = domain, record['title'], record, [technique]
     papers['reconvla'] = 'B', 'ReconVLA', RECONVLA, ['l', 'm']
-    domain_count = Counter(domain for domain, *_ in papers.values())
     primary_techniques = {(domain, techniques[0]) for domain, _, _, techniques in papers.values()}
     domain_tech = Counter((domain, technique) for domain, _, _, techniques in papers.values() for technique in techniques)
-    tech_count = Counter(technique for _, _, _, techniques in papers.values() for technique in techniques)
     domain_aliases = {
         ('V', 'm'): ('vision-model-distillation',),
         ('R', 'r'): ('group-relative-policy-optimization',),
@@ -320,24 +320,6 @@ def render_indexes(catalog, mapping, screened, total, date, update):
         text, replaced = re.subn(r'(\[ICML 2026 · )[^\]]+(\]\(conferences/icml-2026/README\.md\))',
                                  lambda match: match[1] + progress + match[2], text)
         assert replaced == 1
-        now = (
-            f'{sum(domain_count.values()):,} papers · {sum(tech_count.values()):,} mechanisms'
-            if english else f'{sum(domain_count.values()):,} 篇论文、{sum(tech_count.values()):,} 个技术机制'
-        )
-        totals = r'[\d,]+ papers · [\d,]+ mechanisms' if english else r'[\d,]+ 篇论文、[\d,]+ 个技术机制'
-        text, replaced = re.subn(totals, now, text)
-        assert replaced == 1
-        for domain, info in DOMAINS.items():
-            slug = info[0]
-            target = (prefix / 'papers' / f'{slug}.md').as_posix()
-            pattern = rf'^(\| .*?\]\({re.escape(target)}\) \| )\d+( \|)'
-            text, inserted = re.subn(pattern, rf'\g<1>{domain_count[domain]}\g<2>', text, flags=re.M)
-            assert inserted == 1, (home, slug)
-        for technique, info in TYPES.items():
-            target = (prefix / 'insights' / f'{info[0]}.md').as_posix()
-            expression = rf'^(\| .*?\]\({re.escape(target)}\) \| )\d+( \|)'
-            text, inserted = re.subn(expression, rf'\g<1>{tech_count[technique]}\g<2>', text, flags=re.M)
-            assert inserted == 1, (home, target)
         marker = '## Recent Updates\n\n' if english else '## 最近更新\n\n'
         new_update = f'- **{date}** · {update[english]}'
         assert text.count(marker) == 1
@@ -355,6 +337,8 @@ def render_indexes(catalog, mapping, screened, total, date, update):
         text, replaced = latest.subn(f'**{label} · {date.isoformat()}**', text)
         assert replaced == 1 and '| Insight |' not in text
         home.write_text(text, encoding='utf-8')
+
+    subprocess.run([sys.executable, str(Path(__file__).resolve().parents[1] / 'sync_indexes.py')], check=True)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)

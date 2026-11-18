@@ -144,14 +144,16 @@ def sync():
         if previous_totals is not None:
             assert totals == previous_totals, (home_name, totals, previous_totals)
         previous_totals = totals
-        pattern = (r"[\d,]+ papers · [\d,]+ mechanisms" if english
-                   else r"[\d,]+ 篇论文、[\d,]+ 个技术机制")
-        total = (f"{papers:,} papers · {mechanisms:,} mechanisms" if english
-                 else f"{papers:,} 篇论文、{mechanisms:,} 个技术机制")
-        content, changes = re.subn(pattern, total, content)
-        assert changes == 1
+        units = ("papers", "mechanisms") if english else ("篇论文", "个技术机制")
+        prefix = "" if english else "共 "
+        suffix = "." if english else "。"
+        for count, unit in zip(totals, units):
+            pattern = rf"^\*\*{prefix}[\d,]+ {unit}{re.escape(suffix)}\*\*"
+            summary = f"**{prefix}{count:,} {unit}{suffix}**"
+            content, changes = re.subn(pattern, summary, content, flags=re.M)
+            assert changes == 1, (home_name, unit)
         write(home, content)
-        print(home_name, total)
+        print(home_name, f'{papers:,} papers, {mechanisms:,} mechanisms')
 
 
 if __name__ == "__main__":
