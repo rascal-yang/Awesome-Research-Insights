@@ -2754,67 +2754,67 @@ poster_id	title	paper_url	status	reason
 148463	Exact Topological Compliance: Generating Persistence-Equivalent Graphs	https://neurips.cc/virtual/2026/poster/148463	included	硬性拓扑描述用约束求解验证。
 152457	Exact Unlearning via Quantized Sufficient Statistics	https://neurips.cc/virtual/2026/poster/152457	included	把常规删除转化为充分统计更新。
 150163	Example-Based Spatial Guidance for Training-Free Concept Erasure in Diffusion Models	https://neurips.cc/virtual/2026/poster/150163	included	按细分概念检测抑制副作用。
-154319	ExComm: Exploration-Stage Communication for Error-Resilient Agentic Test-Time Scaling	https://neurips.cc/virtual/2026/poster/154319	pending	-
-150839	Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding	https://neurips.cc/virtual/2026/poster/150839	pending	-
-148905	Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting	https://neurips.cc/virtual/2026/poster/148905	pending	-
-153717	ExoC2T: An exogenous-driven spatio-temporal learning framework for cross-city transfer	https://neurips.cc/virtual/2026/poster/153717	pending	-
-155702	Expanding Flow Maps	https://neurips.cc/virtual/2026/poster/155702	pending	-
-152089	Expanding LLM Agent Boundaries with Strategy-Guided Exploration	https://neurips.cc/virtual/2026/poster/152089	pending	-
-149656	Expanding the Role of Diffusion Models for Robust Classifier Training	https://neurips.cc/virtual/2026/poster/149656	pending	-
-154399	Expected Batch Optimal Transport Plans and Consequences for Flow Matching	https://neurips.cc/virtual/2026/poster/154399	pending	-
-139760	Expected Harm: Rethinking Safety Evaluation of (Mis)Aligned LLMs	https://neurips.cc/virtual/2026/poster/139760	pending	-
-150444	Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory	https://neurips.cc/virtual/2026/poster/150444	pending	-
-149912	ExperiGen: Agentic Hypothesis Discovery from Observational Data	https://neurips.cc/virtual/2026/poster/149912	pending	-
-152852	Expert-guided Bayesian optimization for sustainable protein formulation	https://neurips.cc/virtual/2026/poster/152852	pending	-
-149707	ExpertNavigator: Functionally Coherent Expert Grouping and Pairwise-Ranked Routing for High-Fidelity Dense-to-MoE Conversion	https://neurips.cc/virtual/2026/poster/149707	pending	-
-139994	Explainability matters: The effect of liability rules on the healthcare sector	https://neurips.cc/virtual/2026/poster/139994	pending	-
-151817	Explaining and Breaking the Safety-Helpfulness Ceiling via Preference Dimensional Expansion	https://neurips.cc/virtual/2026/poster/151817	pending	-
-155701	Explaining and Preventing Alignment Collapse in Iterative RLHF	https://neurips.cc/virtual/2026/poster/155701	pending	-
-150190	Explaining Cross-Modal Model Behavior with Gradient-Estimation-Based Feature Interaction	https://neurips.cc/virtual/2026/poster/150190	pending	-
-156138	Explanation Mechanism Influences Human Reliance on Reinforcement Learning Agents	https://neurips.cc/virtual/2026/poster/156138	pending	-
-139691	Explanation Multiplicity in SHAP: Characterization and Assessment	https://neurips.cc/virtual/2026/poster/139691	pending	-
+154319	ExComm: Exploration-Stage Communication for Error-Resilient Agentic Test-Time Scaling	https://neurips.cc/virtual/2026/poster/154319	included	在探索中间核验分支冲突
+150839	Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding	https://neurips.cc/virtual/2026/poster/150839	included	用可运行几何程序生成问答真值
+148905	Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting	https://neurips.cc/virtual/2026/poster/148905	included	联合预测观测是否发生和数值
+153717	ExoC2T: An exogenous-driven spatio-temporal learning framework for cross-city transfer	https://neurips.cc/virtual/2026/poster/153717	included	把稳定预测结构和地区偏差分开
+155702	Expanding Flow Maps	https://neurips.cc/virtual/2026/poster/155702	included	让生成流学习输出长度
+152089	Expanding LLM Agent Boundaries with Strategy-Guided Exploration	https://neurips.cc/virtual/2026/poster/152089	included	先采样策略再采样任务动作
+149656	Expanding the Role of Diffusion Models for Robust Classifier Training	https://neurips.cc/virtual/2026/poster/149656	included	将扩散中间表示作为鲁棒训练辅助信号
+154399	Expected Batch Optimal Transport Plans and Consequences for Flow Matching	https://neurips.cc/virtual/2026/poster/154399	included	按耦合偏差和积分成本选择小批量大小
+139760	Expected Harm: Rethinking Safety Evaluation of (Mis)Aligned LLMs	https://neurips.cc/virtual/2026/poster/139760	included	分别评估危害严重性与现实发生可能性
+150444	Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory	https://neurips.cc/virtual/2026/poster/150444	included	将历史轨迹提炼为技能并按反馈管理
+149912	ExperiGen: Agentic Hypothesis Discovery from Observational Data	https://neurips.cc/virtual/2026/poster/149912	included	要求生成假设经独立证据检验
+152852	Expert-guided Bayesian optimization for sustainable protein formulation	https://neurips.cc/virtual/2026/poster/152852	included	按候选覆盖和搜索维数选择专家子空间
+149707	ExpertNavigator: Functionally Coherent Expert Grouping and Pairwise-Ranked Routing for High-Fidelity Dense-to-MoE Conversion	https://neurips.cc/virtual/2026/poster/149707	included	按功能分组专家并依排序信号训练路由
+139994	Explainability matters: The effect of liability rules on the healthcare sector	https://neurips.cc/virtual/2026/poster/139994	excluded	文章为责任规则观点分析，摘要未报告可复用技术机制或实证对照
+151817	Explaining and Breaking the Safety-Helpfulness Ceiling via Preference Dimensional Expansion	https://neurips.cc/virtual/2026/poster/151817	included	改善提示覆盖的目标维度再做多目标对齐
+155701	Explaining and Preventing Alignment Collapse in Iterative RLHF	https://neurips.cc/virtual/2026/poster/155701	included	迭代 RLHF 中约束策略对后续奖励模型的影响
+150190	Explaining Cross-Modal Model Behavior with Gradient-Estimation-Based Feature Interaction	https://neurips.cc/virtual/2026/poster/150190	included	估计像素与文本的交互贡献
+156138	Explanation Mechanism Influences Human Reliance on Reinforcement Learning Agents	https://neurips.cc/virtual/2026/poster/156138	included	分别检验采纳正确动作和拒绝错误动作
+139691	Explanation Multiplicity in SHAP: Characterization and Assessment	https://neurips.cc/virtual/2026/poster/139691	included	评估归因排名时同时换模型和解释种子
 151943	Explanation of Dynamic Physical Field Predictions using WassersteinGrad: Application to Autoregressive Weather Forecasting	https://neurips.cc/virtual/2026/poster/151943	included	归因误差主要是空间错位时使用几何重心。
-151711	Explanations over Graphs: An Agent Architecture for IT Enterprise Diagnostic Tasks	https://neurips.cc/virtual/2026/poster/151711	pending	-
-153929	ExpLang: Improved Exploration and Exploitation in LLM Reasoning with On-Policy Thinking Language Selection	https://neurips.cc/virtual/2026/poster/153929	pending	-
-155833	Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving	https://neurips.cc/virtual/2026/poster/155833	pending	-
-139262	ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?	https://neurips.cc/virtual/2026/poster/139262	pending	-
-155142	Exploiting Fine-Tuning Structures to Improve Adversarial Transferability on Downstream SAM	https://neurips.cc/virtual/2026/poster/155142	pending	-
-153676	Exploiting Negative Multi-Cluster Structure in Class-Wise Embeddings for Weakly Supervised Multi-Label Learning	https://neurips.cc/virtual/2026/poster/153676	pending	-
-149501	Exploiting Textual Semantics for Robust Cross-View Object Correspondence	https://neurips.cc/virtual/2026/poster/149501	pending	-
-153038	Exploration as Constrained Policy-Space Optimization	https://neurips.cc/virtual/2026/poster/153038	pending	-
-152906	Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL	https://neurips.cc/virtual/2026/poster/152906	pending	-
-149323	Exploring Advertising Manipulation in Diffusion Image Generation	https://neurips.cc/virtual/2026/poster/149323	pending	-
-154772	Exploring Lifelong Adaptation: In-Context Reinforcement Learning in Non-Stationary Environments	https://neurips.cc/virtual/2026/poster/154772	pending	-
-151074	Exploring MLLM-Diffusion Information Transfer with MetaCanvas	https://neurips.cc/virtual/2026/poster/151074	pending	-
-153018	Exploring Multi-Order Self-Similarity for Motion Understanding	https://neurips.cc/virtual/2026/poster/153018	pending	-
-148417	Exploring Starts Are Not Enough: Counterexamples and a Fix for Monte Carlo Exploring Starts	https://neurips.cc/virtual/2026/poster/148417	pending	-
-155882	Exploring the Epipolar Consistency for Light Field Deraining	https://neurips.cc/virtual/2026/poster/155882	pending	-
-156760	Exploring the Limitations of Layer Synchronization in Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/156760	pending	-
-139255	Exploring the Limits of Compositional Generalization in Vision-Language-Action Manipulation	https://neurips.cc/virtual/2026/poster/139255	pending	-
-155704	Exponential Map Models as an Interpretable Framework for Generating Neural Spatial Representations	https://neurips.cc/virtual/2026/poster/155704	pending	-
-152775	Exposing and Mitigating Temporal Attack in Deepfake Video Detection	https://neurips.cc/virtual/2026/poster/152775	pending	-
-154898	Exposing Private Corpus Leakage in  Multimodal RAG	https://neurips.cc/virtual/2026/poster/154898	pending	-
-149220	Exposing the Illusion of Erasure in Knowledge Editing for LLMs	https://neurips.cc/virtual/2026/poster/149220	pending	-
-152909	Expressive Power of Deep Homomorphism Networks over Relational Databases	https://neurips.cc/virtual/2026/poster/152909	pending	-
-149745	Express Language Modeling	https://neurips.cc/virtual/2026/poster/149745	pending	-
-154489	ExpRFT: Exponential Reward-Weighted Fine-Tuning for Offline RL in Multi-Turn Dialogue	https://neurips.cc/virtual/2026/poster/154489	pending	-
-149316	Extended Wasserstein-GAN Approach to Causal Distribution Learning: Density-Free Estimation and Minimax Optimality	https://neurips.cc/virtual/2026/poster/149316	pending	-
-156110	Extending 3D Reconstruction Models to Any Camera	https://neurips.cc/virtual/2026/poster/156110	pending	-
-151268	Extending Myerson's Optimal Auctions to Correlated Bidders via Neural Network Interpolation	https://neurips.cc/virtual/2026/poster/151268	pending	-
-150095	Extending Pretrained 10-Second ECG Foundation Models to Longer Horizons	https://neurips.cc/virtual/2026/poster/150095	pending	-
-150218	Extending ROC Analysis to Uncertainty-Aware Risk Prediction with an Interval-Based AUC (iAUC)	https://neurips.cc/virtual/2026/poster/150218	pending	-
-150273	Externalized CPDAG Summaries Improve LLM Causal Deduction	https://neurips.cc/virtual/2026/poster/150273	pending	-
-155982	Extracting Governing Equations from Latent Dynamics via Multi-View Contrastive Learning	https://neurips.cc/virtual/2026/poster/155982	pending	-
-154324	Extracting Search Trees from LLM Reasoning Traces Reveals Myopic Planning	https://neurips.cc/virtual/2026/poster/154324	pending	-
-149365	Extracting Training Data from Diffusion Language Models via Infilling	https://neurips.cc/virtual/2026/poster/149365	pending	-
-150343	Extraneous Cognitive Load in Large Language Models	https://neurips.cc/virtual/2026/poster/150343	pending	-
-154246	ExtrapAir: Air Quality Inference at Unmonitored Locations via Weather-Bridged Spatial Attention	https://neurips.cc/virtual/2026/poster/154246	pending	-
-151744	Extrapolative Weight Averaging Reveals Correctness–Efficiency Frontiers in Code RL	https://neurips.cc/virtual/2026/poster/151744	pending	-
-149109	ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models	https://neurips.cc/virtual/2026/poster/149109	pending	-
-153894	Extremely Sparse-View Computed Tomography from 2D Projections via Pose-Aware Diffusion Priors	https://neurips.cc/virtual/2026/poster/153894	pending	-
-139675	Eyes on VLM: Benchmarking Gaze Following and Social Gaze Prediction in Vision Language Models	https://neurips.cc/virtual/2026/poster/139675	pending	-
-150550	F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation	https://neurips.cc/virtual/2026/poster/150550	pending	-
-139472	FACBench: A Benchmark for Formal-Anchor Collisions in Multilingual Mathematical Grounding	https://neurips.cc/virtual/2026/poster/139472	pending	-
+151711	Explanations over Graphs: An Agent Architecture for IT Enterprise Diagnostic Tasks	https://neurips.cc/virtual/2026/poster/151711	included	将证据标注与依赖图上的状态更新拆开
+153929	ExpLang: Improved Exploration and Exploitation in LLM Reasoning with On-Policy Thinking Language Selection	https://neurips.cc/virtual/2026/poster/153929	included	让策略主动选择推理语言并与固定语言等预算比较。
+155833	Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving	https://neurips.cc/virtual/2026/poster/155833	included	只为规划相关区域引入三维特征。
+139262	ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?	https://neurips.cc/virtual/2026/poster/139262	excluded	核心评测要求将实际漏洞转化为可用攻击，未提取可独立复用的防御机制。
+155142	Exploiting Fine-Tuning Structures to Improve Adversarial Transferability on Downstream SAM	https://neurips.cc/virtual/2026/poster/155142	excluded	论文贡献集中在增强攻击迁移，未提取独立的防御机制。
+153676	Exploiting Negative Multi-Cluster Structure in Class-Wise Embeddings for Weakly Supervised Multi-Label Learning	https://neurips.cc/virtual/2026/poster/153676	included	按类空间保留负例子群。
+149501	Exploiting Textual Semantics for Robust Cross-View Object Correspondence	https://neurips.cc/virtual/2026/poster/149501	included	用可按目标视角修正的文本属性辅助对象匹配。
+153038	Exploration as Constrained Policy-Space Optimization	https://neurips.cc/virtual/2026/poster/153038	included	按任务冲突动态重加权内在奖励。
+152906	Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL	https://neurips.cc/virtual/2026/poster/152906	included	在奖励多样性充分时对照显式探索与贪心协作。
+149323	Exploring Advertising Manipulation in Diffusion Image Generation	https://neurips.cc/virtual/2026/poster/149323	excluded	核心贡献为未经授权的生成内容植入与持续性增强，未提取独立防御机制。
+154772	Exploring Lifelong Adaptation: In-Context Reinforcement Learning in Non-Stationary Environments	https://neurips.cc/virtual/2026/poster/154772	included	在单段交互里区分突变和渐变的动力学测试。
+151074	Exploring MLLM-Diffusion Information Transfer with MetaCanvas	https://neurips.cc/virtual/2026/poster/151074	included	让局部空间 token 条件化扩散而非只给全局编码。
+153018	Exploring Multi-Order Self-Similarity for Motion Understanding	https://neurips.cc/virtual/2026/poster/153018	included	将不同阶时空自相似性同时用于运动任务。
+148417	Exploring Starts Are Not Enough: Counterexamples and a Fix for Monte Carlo Exploring Starts	https://neurips.cc/virtual/2026/poster/148417	included	按动作更新频率调节蒙特卡罗控制的学习率。
+155882	Exploring the Epipolar Consistency for Light Field Deraining	https://neurips.cc/virtual/2026/poster/155882	included	用极线跨视角一致性定位退化并选择补足特征。
+156760	Exploring the Limitations of Layer Synchronization in Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/156760	included	训练时显式纳入部署的异步神经元调度。
+139255	Exploring the Limits of Compositional Generalization in Vision-Language-Action Manipulation	https://neurips.cc/virtual/2026/poster/139255	included	训练与测评覆盖前序技能产生的交接状态。
+155704	Exponential Map Models as an Interpretable Framework for Generating Neural Spatial Representations	https://neurips.cc/virtual/2026/poster/155704	included	用生成矩阵的代数条件约束路径积分。
+152775	Exposing and Mitigating Temporal Attack in Deepfake Video Detection	https://neurips.cc/virtual/2026/poster/152775	included	在深伪检测验收中分开检查语义运动和易变统计线索。
+154898	Exposing Private Corpus Leakage in  Multimodal RAG	https://neurips.cc/virtual/2026/poster/154898	excluded	主体为推断私有检索记录是否存在，未提取独立可复用的防御机制。
+149220	Exposing the Illusion of Erasure in Knowledge Editing for LLMs	https://neurips.cc/virtual/2026/poster/149220	included	区分事实在常规输出中受抑制和表征中被移除。
+152909	Expressive Power of Deep Homomorphism Networks over Relational Databases	https://neurips.cc/virtual/2026/poster/152909	included	按查询逻辑选择聚合器
+149745	Express Language Modeling	https://neurips.cc/virtual/2026/poster/149745	included	将双向近似转为因果近似
+154489	ExpRFT: Exponential Reward-Weighted Fine-Tuning for Offline RL in Multi-Turn Dialogue	https://neurips.cc/virtual/2026/poster/154489	included	用温度控制噪声奖励的权重
+149316	Extended Wasserstein-GAN Approach to Causal Distribution Learning: Density-Free Estimation and Minimax Optimality	https://neurips.cc/virtual/2026/poster/149316	included	直接优化干预分布的 Wasserstein 风险
+156110	Extending 3D Reconstruction Models to Any Camera	https://neurips.cc/virtual/2026/poster/156110	included	先尝试适配而非重训跨相机重建模型
+151268	Extending Myerson's Optimal Auctions to Correlated Bidders via Neural Network Interpolation	https://neurips.cc/virtual/2026/poster/151268	included	将神经提案、验证和修复串联
+150095	Extending Pretrained 10-Second ECG Foundation Models to Longer Horizons	https://neurips.cc/virtual/2026/poster/150095	included	冻结短窗骨干并学习跨窗语义聚合
+150218	Extending ROC Analysis to Uncertainty-Aware Risk Prediction with an Interval-Based AUC (iAUC)	https://neurips.cc/virtual/2026/poster/150218	included	对区间预测分别测确定排序和不确定排序
+150273	Externalized CPDAG Summaries Improve LLM Causal Deduction	https://neurips.cc/virtual/2026/poster/150273	included	外显因果等价类再回答因果问题
+155982	Extracting Governing Equations from Latent Dynamics via Multi-View Contrastive Learning	https://neurips.cc/virtual/2026/poster/155982	included	用独立噪声的多视图分离潜动态与观测噪声
+154324	Extracting Search Trees from LLM Reasoning Traces Reveals Myopic Planning	https://neurips.cc/virtual/2026/poster/154324	included	检查深层搜索是否实际改变决策
+149365	Extracting Training Data from Diffusion Language Models via Infilling	https://neurips.cc/virtual/2026/poster/149365	excluded	论文核心为训练数据提取，未提取可独立复用的防御机制。
+150343	Extraneous Cognitive Load in Large Language Models	https://neurips.cc/virtual/2026/poster/150343	included	固定任务难度，仅变动呈现干扰
+154246	ExtrapAir: Air Quality Inference at Unmonitored Locations via Weather-Bridged Spatial Attention	https://neurips.cc/virtual/2026/poster/154246	included	无目标历史时利用天气变量建立站点关联
+151744	Extrapolative Weight Averaging Reveals Correctness–Efficiency Frontiers in Code RL	https://neurips.cc/virtual/2026/poster/151744	included	比较权重插值和外推能否扩展正确率与效率前沿
+149109	ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models	https://neurips.cc/virtual/2026/poster/149109	included	按生成阶段重映射 RoPE 频带
+153894	Extremely Sparse-View Computed Tomography from 2D Projections via Pose-Aware Diffusion Priors	https://neurips.cc/virtual/2026/poster/153894	included	仅有二维训练投影时用共享体重投影约束三维反演
+139675	Eyes on VLM: Benchmarking Gaze Following and Social Gaze Prediction in Vision Language Models	https://neurips.cc/virtual/2026/poster/139675	included	将几何注视定位和社会注视理解分开测试
+150550	F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation	https://neurips.cc/virtual/2026/poster/150550	included	用尺寸和形状补全给单步位姿回归加几何监督
+139472	FACBench: A Benchmark for Formal-Anchor Collisions in Multilingual Mathematical Grounding	https://neurips.cc/virtual/2026/poster/139472	included	先审计形式化锚点排序，再评价证明生成
 152471	Face Deepfake-aware Recovery via Semantic-driven Facial Representation-based Watermarking	https://neurips.cc/virtual/2026/poster/152471	pending	-
 152285	FacEDiT: Talking Head Video Editing via Facial Motion Infilling	https://neurips.cc/virtual/2026/poster/152285	pending	-
 150724	FacePhys: State of the Heart Learning	https://neurips.cc/virtual/2026/poster/150724	pending	-

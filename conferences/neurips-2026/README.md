@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2789** 篇，暂收录 **2601** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2849** 篇，暂收录 **2655** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2609,3 +2609,57 @@
 | 图学习 | 约束生成 | [Exact Topological Compliance: Generating Persistence-Equivalent Graphs](cards-0005.md#paper-148463) | 硬性拓扑描述用约束求解验证。 |
 | 统计学习 | 机器遗忘 | [Exact Unlearning via Quantized Sufficient Statistics](cards-0005.md#paper-152457) | 把常规删除转化为充分统计更新。 |
 | 生成模型 | 防御评测 | [Example-Based Spatial Guidance for Training-Free Concept Erasure in Diffusion Models](cards-0005.md#paper-150163) | 按细分概念检测抑制副作用。 |
+| Agent | 协作纠错 | [ExComm: Exploration-Stage Communication for Error-Resilient Agentic Test-Time Scaling](cards-0005.md#paper-154319) | 在探索中间核验分支冲突 |
+| 多模态学习 | 合成监督 | [Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding](cards-0005.md#paper-150839) | 用可运行几何程序生成问答真值 |
+| 时间序列 | 缺失建模 | [Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting](cards-0005.md#paper-148905) | 联合预测观测是否发生和数值 |
+| 科学机器学习 | 跨域迁移 | [ExoC2T: An exogenous-driven spatio-temporal learning framework for cross-city transfer](cards-0005.md#paper-153717) | 把稳定预测结构和地区偏差分开 |
+| 生成模型 | 流映射 | [Expanding Flow Maps](cards-0005.md#paper-155702) | 让生成流学习输出长度 |
+| Agent | 策略探索 | [Expanding LLM Agent Boundaries with Strategy-Guided Exploration](cards-0005.md#paper-152089) | 先采样策略再采样任务动作 |
+| 计算机视觉 | 鲁棒训练 | [Expanding the Role of Diffusion Models for Robust Classifier Training](cards-0005.md#paper-149656) | 将扩散中间表示作为鲁棒训练辅助信号 |
+| 优化 | 最优传输 | [Expected Batch Optimal Transport Plans and Consequences for Flow Matching](cards-0005.md#paper-154399) | 按耦合偏差和积分成本选择小批量大小 |
+| 大语言模型 | 安全评测 | [Expected Harm: Rethinking Safety Evaluation of (Mis)Aligned LLMs](cards-0005.md#paper-139760) | 分别评估危害严重性与现实发生可能性 |
+| Agent | 技能记忆 | [Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory](cards-0005.md#paper-150444) | 将历史轨迹提炼为技能并按反馈管理 |
+| 统计学习 | 假设检验 | [ExperiGen: Agentic Hypothesis Discovery from Observational Data](cards-0005.md#paper-149912) | 要求生成假设经独立证据检验 |
+| 优化 | 贝叶斯优化 | [Expert-guided Bayesian optimization for sustainable protein formulation](cards-0005.md#paper-152852) | 按候选覆盖和搜索维数选择专家子空间 |
+| 大语言模型 | 稀疏化 | [ExpertNavigator: Functionally Coherent Expert Grouping and Pairwise-Ranked Routing for High-Fidelity Dense-to-MoE Conversion](cards-0005.md#paper-149707) | 按功能分组专家并依排序信号训练路由 |
+| 大语言模型 | 偏好对齐 | [Explaining and Breaking the Safety-Helpfulness Ceiling via Preference Dimensional Expansion](cards-0005.md#paper-151817) | 改善提示覆盖的目标维度再做多目标对齐 |
+| 强化学习 | 奖励建模 | [Explaining and Preventing Alignment Collapse in Iterative RLHF](cards-0005.md#paper-155701) | 迭代 RLHF 中约束策略对后续奖励模型的影响 |
+| 多模态学习 | 可解释性 | [Explaining Cross-Modal Model Behavior with Gradient-Estimation-Based Feature Interaction](cards-0005.md#paper-150190) | 估计像素与文本的交互贡献 |
+| 强化学习 | 人机协作评测 | [Explanation Mechanism Influences Human Reliance on Reinforcement Learning Agents](cards-0005.md#paper-156138) | 分别检验采纳正确动作和拒绝错误动作 |
+| 可解释性 | 稳定性诊断 | [Explanation Multiplicity in SHAP: Characterization and Assessment](cards-0005.md#paper-139691) | 评估归因排名时同时换模型和解释种子 |
+| Agent | 运维诊断 | [Explanations over Graphs: An Agent Architecture for IT Enterprise Diagnostic Tasks](cards-0005.md#paper-151711) | 将证据标注与依赖图上的状态更新拆开 |
+| 大语言模型 | 强化学习后训练 | [ExpLang: Improved Exploration and Exploitation in LLM Reasoning with On-Policy Thinking Language Selection](cards-0005.md#paper-153929) | 让策略主动选择推理语言并与固定语言等预算比较。 |
+| 具身智能 | 几何表征 | [Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving](cards-0005.md#paper-155833) | 只为规划相关区域引入三维特征。 |
+| 表征学习 | 伪标签 | [Exploiting Negative Multi-Cluster Structure in Class-Wise Embeddings for Weakly Supervised Multi-Label Learning](cards-0005.md#paper-153676) | 按类空间保留负例子群。 |
+| 多模态学习 | 对应匹配 | [Exploiting Textual Semantics for Robust Cross-View Object Correspondence](cards-0005.md#paper-149501) | 用可按目标视角修正的文本属性辅助对象匹配。 |
+| 强化学习 | 探索设计 | [Exploration as Constrained Policy-Space Optimization](cards-0005.md#paper-153038) | 按任务冲突动态重加权内在奖励。 |
+| 强化学习 | 联邦探索 | [Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL](cards-0005.md#paper-152906) | 在奖励多样性充分时对照显式探索与贪心协作。 |
+| 强化学习 | 非平稳评测 | [Exploring Lifelong Adaptation: In-Context Reinforcement Learning in Non-Stationary Environments](cards-0005.md#paper-154772) | 在单段交互里区分突变和渐变的动力学测试。 |
+| 多模态学习 | 生成接口 | [Exploring MLLM-Diffusion Information Transfer with MetaCanvas](cards-0005.md#paper-151074) | 让局部空间 token 条件化扩散而非只给全局编码。 |
+| 计算机视觉 | 运动表征 | [Exploring Multi-Order Self-Similarity for Motion Understanding](cards-0005.md#paper-153018) | 将不同阶时空自相似性同时用于运动任务。 |
+| 强化学习 | 收敛诊断 | [Exploring Starts Are Not Enough: Counterexamples and a Fix for Monte Carlo Exploring Starts](cards-0005.md#paper-148417) | 按动作更新频率调节蒙特卡罗控制的学习率。 |
+| 计算机视觉 | 多视角恢复 | [Exploring the Epipolar Consistency for Light Field Deraining](cards-0005.md#paper-155882) | 用极线跨视角一致性定位退化并选择补足特征。 |
+| 机器学习系统 | 异步训练 | [Exploring the Limitations of Layer Synchronization in Spiking Neural Networks](cards-0005.md#paper-156760) | 训练时显式纳入部署的异步神经元调度。 |
+| 具身智能 | 技能组合诊断 | [Exploring the Limits of Compositional Generalization in Vision-Language-Action Manipulation](cards-0005.md#paper-139255) | 训练与测评覆盖前序技能产生的交接状态。 |
+| 学习理论 | 空间表征 | [Exponential Map Models as an Interpretable Framework for Generating Neural Spatial Representations](cards-0005.md#paper-155704) | 用生成矩阵的代数条件约束路径积分。 |
+| 计算机视觉 | 鲁棒诊断 | [Exposing and Mitigating Temporal Attack in Deepfake Video Detection](cards-0005.md#paper-152775) | 在深伪检测验收中分开检查语义运动和易变统计线索。 |
+| 大语言模型 | 编辑审计 | [Exposing the Illusion of Erasure in Knowledge Editing for LLMs](cards-0005.md#paper-149220) | 区分事实在常规输出中受抑制和表征中被移除。 |
+| 图学习 | 表达能力 | [Expressive Power of Deep Homomorphism Networks over Relational Databases](cards-0005.md#paper-152909) | 按查询逻辑选择聚合器 |
+| 大语言模型 | 高效注意力 | [Express Language Modeling](cards-0005.md#paper-149745) | 将双向近似转为因果近似 |
+| 大语言模型 | 离线强化学习 | [ExpRFT: Exponential Reward-Weighted Fine-Tuning for Offline RL in Multi-Turn Dialogue](cards-0005.md#paper-154489) | 用温度控制噪声奖励的权重 |
+| 因果学习 | 分布估计 | [Extended Wasserstein-GAN Approach to Causal Distribution Learning: Density-Free Estimation and Minimax Optimality](cards-0005.md#paper-149316) | 直接优化干预分布的 Wasserstein 风险 |
+| 计算机视觉 | 低秩适配 | [Extending 3D Reconstruction Models to Any Camera](cards-0005.md#paper-156110) | 先尝试适配而非重训跨相机重建模型 |
+| 优化 | 形式验证 | [Extending Myerson's Optimal Auctions to Correlated Bidders via Neural Network Interpolation](cards-0005.md#paper-151268) | 将神经提案、验证和修复串联 |
+| 科学机器学习 | 时序适配 | [Extending Pretrained 10-Second ECG Foundation Models to Longer Horizons](cards-0005.md#paper-150095) | 冻结短窗骨干并学习跨窗语义聚合 |
+| 统计学习 | 评测指标 | [Extending ROC Analysis to Uncertainty-Aware Risk Prediction with an Interval-Based AUC (iAUC)](cards-0005.md#paper-150218) | 对区间预测分别测确定排序和不确定排序 |
+| 大语言模型 | 结构化推理 | [Externalized CPDAG Summaries Improve LLM Causal Deduction](cards-0005.md#paper-150273) | 外显因果等价类再回答因果问题 |
+| 科学机器学习 | 动力学辨识 | [Extracting Governing Equations from Latent Dynamics via Multi-View Contrastive Learning](cards-0005.md#paper-155982) | 用独立噪声的多视图分离潜动态与观测噪声 |
+| 大语言模型 | 推理诊断 | [Extracting Search Trees from LLM Reasoning Traces Reveals Myopic Planning](cards-0005.md#paper-154324) | 检查深层搜索是否实际改变决策 |
+| 大语言模型 | 提示评测 | [Extraneous Cognitive Load in Large Language Models](cards-0005.md#paper-150343) | 固定任务难度，仅变动呈现干扰 |
+| 科学机器学习 | 空间外推 | [ExtrapAir: Air Quality Inference at Unmonitored Locations via Weather-Bridged Spatial Attention](cards-0005.md#paper-154246) | 无目标历史时利用天气变量建立站点关联 |
+| 大语言模型 | 权重合并 | [Extrapolative Weight Averaging Reveals Correctness–Efficiency Frontiers in Code RL](cards-0005.md#paper-151744) | 比较权重插值和外推能否扩展正确率与效率前沿 |
+| 计算机视觉 | 分辨率外推 | [ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models](cards-0005.md#paper-149109) | 按生成阶段重映射 RoPE 频带 |
+| 科学机器学习 | 逆问题 | [Extremely Sparse-View Computed Tomography from 2D Projections via Pose-Aware Diffusion Priors](cards-0005.md#paper-153894) | 仅有二维训练投影时用共享体重投影约束三维反演 |
+| 多模态学习 | 评测分解 | [Eyes on VLM: Benchmarking Gaze Following and Social Gaze Prediction in Vision Language Models](cards-0005.md#paper-139675) | 将几何注视定位和社会注视理解分开测试 |
+| 计算机视觉 | 位姿估计 | [F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation](cards-0005.md#paper-150550) | 用尺寸和形状补全给单步位姿回归加几何监督 |
+| 大语言模型 | 检索诊断 | [FACBench: A Benchmark for Formal-Anchor Collisions in Multilingual Mathematical Grounding](cards-0005.md#paper-139472) | 先审计形式化锚点排序，再评价证明生成 |
