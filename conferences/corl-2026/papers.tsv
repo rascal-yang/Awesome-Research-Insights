@@ -70,8 +70,8 @@ number	openreview_id	title	paper_url	reason	status
 69	aPosmVaV9y	Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision	https://openreview.net/forum?id=aPosmVaV9y	把任务显著性标注搬到训练并蒸馏成潜工作记忆	included
 70	ndhpQ86iXs	Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams	https://openreview.net/forum?id=ndhpQ86iXs	用不中断的并发任务检验按手臂记录的自行动历史	included
 71	dSbtHPqFj9	Memory Anchors for Continual Robot Learning	https://openreview.net/forum?id=dSbtHPqFj9	回放优先保留与新任务表征近但动作冲突的旧样本	included
-72	kB0KO1Wife	Light-WAM: Efficient World Action Models with State-Fusion Action Decoding	https://openreview.net/forum?id=kB0KO1Wife		pending
-73	OIhLrULoIq	World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis	https://openreview.net/forum?id=OIhLrULoIq		pending
+72	kB0KO1Wife	Light-WAM: Efficient World Action Models with State-Fusion Action Decoding	https://openreview.net/forum?id=kB0KO1Wife	将未来视频监督留在低分辨率潜空间，用跨层融合头一次输出动作块	included
+73	OIhLrULoIq	World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis	https://openreview.net/forum?id=OIhLrULoIq	用共享查询吸收未来预测监督并按需启用显式预测	included
 74	PniGejQAdF	Large Video Planner Enables Generalizable Robot Control	https://openreview.net/forum?id=PniGejQAdF		pending
 75	aITDcHSCTW	MemoryVAM: Integrating Memory into Video Action Model for Robot Manipulation	https://openreview.net/forum?id=aITDcHSCTW		pending
 76	DzAZfcPUiP	How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference	https://openreview.net/forum?id=DzAZfcPUiP		pending
