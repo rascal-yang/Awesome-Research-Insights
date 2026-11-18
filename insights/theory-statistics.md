@@ -937,5 +937,16 @@
 - [Looped Transformers with Layer Normalization Provably Learn the Power Method](../conferences/neurips-2026/cards-0008.md#paper-149678)
 - [Low-Dimensional Adaptation of Rectified Flow: A  Diffusion and Stochastic Localization Perspective](../conferences/neurips-2026/cards-0008.md#paper-155223)
 - [Majority-of-Three is an Optimal PAC Learner](../conferences/neurips-2026/cards-0008.md#paper-150819)
+- [Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning](../conferences/neurips-2026/cards-0008.md#paper-150684)
+- [Manifold-weighted neural networks](../conferences/neurips-2026/cards-0008.md#paper-154849)
+- [Margin Dynamics for Large Language Model Alignment](../conferences/neurips-2026/cards-0008.md#paper-151456)
+- [Markovian Experimental Design under Concept Drift](../conferences/neurips-2026/cards-0008.md#paper-155575)
+- [Markov Metrical Task Systems](../conferences/neurips-2026/cards-0008.md#paper-152251)
+- [Matrix Recovery Via Symmetric Rank-one Measurements With Random Unit-modulus Vectors](../conferences/neurips-2026/cards-0008.md#paper-152261)
+- [Maximin Robust Bayesian Experimental Design](../conferences/neurips-2026/cards-0008.md#paper-151052)
+- [MaxSketch: Robust Distinct Counting in Streams via Random Projections](../conferences/neurips-2026/cards-0008.md#paper-155987)
+- [Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions](../conferences/neurips-2026/cards-0008.md#paper-149972)
+- [Mean Testing under Truncation beyond Gaussian](../conferences/neurips-2026/cards-0008.md#paper-152034)
+- [Measuring and Decomposing Mode Separation via the Canonical Diffusion](../conferences/neurips-2026/cards-0008.md#paper-153978)
 
 <!-- conference-classification:end -->

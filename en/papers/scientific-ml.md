@@ -556,5 +556,16 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Macrocanonical Generator Networks: data-efficient neural surrogates for amortized physics simulation](../../conferences/neurips-2026/cards-0008.md#paper-154192)
 - [Magnetic Resonance Unpaired Image Translation with Pseudometric Schrödinger Bridges](../../conferences/neurips-2026/cards-0008.md#paper-152653)
 - [MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation](../../conferences/neurips-2026/cards-0008.md#paper-152384)
+- [Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields](../../conferences/neurips-2026/cards-0008.md#paper-150767)
+- [MammoGPS: A Benchmark for Visual Grounding, Perception, and Spatial Reasoning in Mammography](../../conferences/neurips-2026/cards-0008.md#paper-138998)
+- [MANGO:Multi-Angle Neural Gated Operators for Chirp-Perturbed PDEs](../../conferences/neurips-2026/cards-0008.md#paper-154828)
+- [Manifold-Guided Stereo-Monocular Refinement for Endoscopic Stereo Disparity Estimation](../../conferences/neurips-2026/cards-0008.md#paper-150407)
+- [Markovian Dynamics Enforcer: Feasibility Preserving Correction on Learned Dyanmics Manifolds](../../conferences/neurips-2026/cards-0008.md#paper-148189)
+- [MAST: Label-Efficient, Robust, and Generalizable Sound Detection for Biodiversity Monitoring via Masked Audio Pretraining and Self-Training](../../conferences/neurips-2026/cards-0008.md#paper-148863)
+- [MatCurvs: Article Real-Coordinate Curve Extraction for Agent-Ready Materials Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-148908)
+- [MaterialsSaddles: 34 Million Transition States and a Flow-Matching Saddle-Point Predictor for Materials](../../conferences/neurips-2026/cards-0008.md#paper-139769)
+- [MC^2: Monte Carlo Correction for Fast Elliptic PDE Solving](../../conferences/neurips-2026/cards-0008.md#paper-151488)
+- [Mechanism-Aware Ensemble Conditioning for Data-Limited Emulation of Extreme Events](../../conferences/neurips-2026/cards-0008.md#paper-151389)
+- [Mechanisms of Misgeneralization in Physical Sequence Modeling](../../conferences/neurips-2026/cards-0008.md#paper-149624)
 
 <!-- conference-classification:end -->

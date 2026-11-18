@@ -593,5 +593,7 @@
 - [Look-ahead Variational Flow for Generative Online Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-154685)
 - [Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery](../conferences/neurips-2026/cards-0008.md#paper-152801)
 - [Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-151208)
+- [MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals](../conferences/neurips-2026/cards-0008.md#paper-155062)
+- [Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions](../conferences/neurips-2026/cards-0008.md#paper-149972)
 
 <!-- conference-classification:end -->

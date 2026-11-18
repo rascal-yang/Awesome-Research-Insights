@@ -723,5 +723,15 @@ Training schedules, curricula, and task or stage composition.
 - [Magnitude-preserving Layers Enable Efficient GANs](../../conferences/neurips-2026/cards-0008.md#paper-150733)
 - [Making LoRA Identifiable: Orthogonal Alignment for Continual Learning](../../conferences/neurips-2026/cards-0008.md#paper-155348)
 - [Making Open-Source Text LLM Watermarks Durable Against Merging](../../conferences/neurips-2026/cards-0008.md#paper-155690)
+- [MarkTune: Improving the Quality-Detectability Trade-off in Model-Embedded LLM Watermarking](../../conferences/neurips-2026/cards-0008.md#paper-155648)
+- [MARS: Harmonizing Multimodal Convergence via Adaptive Rank Search](../../conferences/neurips-2026/cards-0008.md#paper-148621)
+- [Mask-Conditioned Gradient Masking for Fine-Tuning Mixture-of-Experts Diffusion Language Models](../../conferences/neurips-2026/cards-0008.md#paper-155044)
+- [Masked Diffusion Vision-Language Models for Temporal Action Localization](../../conferences/neurips-2026/cards-0008.md#paper-149422)
+- [Masked Generative Pretraining Improves Cross-Dataset Transfer in Pixel-Space Diffusion](../../conferences/neurips-2026/cards-0008.md#paper-152135)
+- [Masked Sobolev Training for Feasibility-Reliable Optimization Proxies](../../conferences/neurips-2026/cards-0008.md#paper-151801)
+- [Matching2Matching: Zero-Shot Light Field Image Denoising with Matching View Construction](../../conferences/neurips-2026/cards-0008.md#paper-148528)
+- [Matrix-Free Stochastic Training of Low-Rank Spectral Graph Learning via Randomized Adaptive Spectral Estimation](../../conferences/neurips-2026/cards-0008.md#paper-156123)
+- [MC^2: Monte Carlo Correction for Fast Elliptic PDE Solving](../../conferences/neurips-2026/cards-0008.md#paper-151488)
+- [Measure Less, Know More: Self-Supervised Test-Time Feature Acquisition](../../conferences/neurips-2026/cards-0008.md#paper-151285)
 
 <!-- conference-classification:end -->

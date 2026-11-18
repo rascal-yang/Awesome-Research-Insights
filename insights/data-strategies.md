@@ -333,5 +333,6 @@
 - [LoMo: Local Modality Substitution for Deeper Vision-Language Fusion](../conferences/neurips-2026/cards-0008.md#paper-154345)
 - [Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees](../conferences/neurips-2026/cards-0008.md#paper-148332)
 - [M$^3$: Reframing Training Measures for Discretized Physical Simulations](../conferences/neurips-2026/cards-0008.md#paper-149542)
+- [MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals](../conferences/neurips-2026/cards-0008.md#paper-155062)
 
 <!-- conference-classification:end -->

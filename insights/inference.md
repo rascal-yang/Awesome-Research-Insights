@@ -1166,5 +1166,15 @@
 - [Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension](../conferences/neurips-2026/cards-0008.md#paper-154549)
 - [Majority Bit-Aware Watermarking for Large Language Models](../conferences/neurips-2026/cards-0008.md#paper-150654)
 - [Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction](../conferences/neurips-2026/cards-0008.md#paper-152145)
+- [M*: A Modular, Extensible, Serving System for Multimodal Models](../conferences/neurips-2026/cards-0008.md#paper-148420)
+- [Manifold-Guided Stereo-Monocular Refinement for Endoscopic Stereo Disparity Estimation](../conferences/neurips-2026/cards-0008.md#paper-150407)
+- [ManiFusion: Unlocking High-Throughput Generation via Superposition in Manifold Space](../conferences/neurips-2026/cards-0008.md#paper-153087)
+- [ManipulationRAG: Retrieval-Augmented Fine-Grained Manipulation of Object Functional Parts](../conferences/neurips-2026/cards-0008.md#paper-151554)
+- [Map-Guided Caching: A Global Perspective for Efficient Diffusion Transformer](../conferences/neurips-2026/cards-0008.md#paper-153062)
+- [Market-Based Runtime Resource Allocation for LLM Multi-Agent Systems](../conferences/neurips-2026/cards-0008.md#paper-155373)
+- [Markovian Dynamics Enforcer: Feasibility Preserving Correction on Learned Dyanmics Manifolds](../conferences/neurips-2026/cards-0008.md#paper-148189)
+- [MARS: Enabling Autoregressive Models Multi-Token Generation](../conferences/neurips-2026/cards-0008.md#paper-150620)
+- [MATO: Multi-objective Personalized Alignment with Test-time Optimization for Large Language Models](../conferences/neurips-2026/cards-0008.md#paper-150723)
+- [Mean-Field Parallel Decoding for Discrete Diffusion Language Models](../conferences/neurips-2026/cards-0008.md#paper-151707)
 
 <!-- conference-classification:end -->

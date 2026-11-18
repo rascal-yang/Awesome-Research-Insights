@@ -311,5 +311,8 @@
 - [Lethe: Link Inference Attacks For Evaluation of Edge Unlearning Methods](../conferences/neurips-2026/cards-0007.md#paper-139781)
 - [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](../conferences/neurips-2026/cards-0007.md#paper-153393)
 - [Linear-time rule mining under formal guarantees](../conferences/neurips-2026/cards-0008.md#paper-148416)
+- [MARS: Multi-resolution Adaptive Routing for Sequential Recommendation](../conferences/neurips-2026/cards-0008.md#paper-156035)
+- [MatchEx: Model-Level GNN Explanations with Multi-Granular Insights](../conferences/neurips-2026/cards-0008.md#paper-156763)
+- [Matrix-Free Stochastic Training of Low-Rank Spectral Graph Learning via Randomized Adaptive Spectral Estimation](../conferences/neurips-2026/cards-0008.md#paper-156123)
 
 <!-- conference-classification:end -->

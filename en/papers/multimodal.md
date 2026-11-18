@@ -733,5 +733,12 @@ Learning across modalities such as images, text, audio, and video.
 - [LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models](../../conferences/neurips-2026/cards-0008.md#paper-153335)
 - [MAEB: Massive Audio Embedding Benchmark](../../conferences/neurips-2026/cards-0008.md#paper-139057)
 - [Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension](../../conferences/neurips-2026/cards-0008.md#paper-154549)
+- [M*: A Modular, Extensible, Serving System for Multimodal Models](../../conferences/neurips-2026/cards-0008.md#paper-148420)
+- [Map-Guided Caching: A Global Perspective for Efficient Diffusion Transformer](../../conferences/neurips-2026/cards-0008.md#paper-153062)
+- [MARBLE: an Agent Benchmark for Spatial Reasoning and Visual Abstraction](../../conferences/neurips-2026/cards-0008.md#paper-139520)
+- [MARS: Harmonizing Multimodal Convergence via Adaptive Rank Search](../../conferences/neurips-2026/cards-0008.md#paper-148621)
+- [Masked Diffusion Vision-Language Models for Temporal Action Localization](../../conferences/neurips-2026/cards-0008.md#paper-149422)
+- [Measure Less, Know More: Self-Supervised Test-Time Feature Acquisition](../../conferences/neurips-2026/cards-0008.md#paper-151285)
+- [Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability](../../conferences/neurips-2026/cards-0008.md#paper-139418)
 
 <!-- conference-classification:end -->

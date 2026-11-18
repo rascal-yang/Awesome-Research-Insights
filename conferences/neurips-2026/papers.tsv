@@ -4685,126 +4685,126 @@ poster_id	title	paper_url	status	reason
 152145	Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction	https://neurips.cc/virtual/2026/poster/152145	included	多层多头缓存的淘汰分数需统一标定后动态竞争。
 155348	Making LoRA Identifiable: Orthogonal Alignment for Continual Learning	https://neurips.cc/virtual/2026/poster/155348	included	持续 LoRA 合并前对齐低秩因子的坐标框架。
 155690	Making Open-Source Text LLM Watermarks Durable Against Merging	https://neurips.cc/virtual/2026/poster/155690	included	来源水印验收应覆盖正当模型合并后的检测与原任务能力。
-149991	Malicious Node Injection: A Transferable Adversarial Attack on GNN Fairness	https://neurips.cc/virtual/2026/poster/149991	pending	-
-150684	Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning	https://neurips.cc/virtual/2026/poster/150684	pending	-
-150767	Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields	https://neurips.cc/virtual/2026/poster/150767	pending	-
-138998	MammoGPS: A Benchmark for Visual Grounding, Perception, and Spatial Reasoning in Mammography	https://neurips.cc/virtual/2026/poster/138998	pending	-
-148420	M*: A Modular, Extensible, Serving System for Multimodal Models	https://neurips.cc/virtual/2026/poster/148420	pending	-
-152510	MAMQ-Net: A Robust Framework Leveraging Multi-level Tamper-aware Queries and Complementary Representations of Tampering Features for Progressive Image Forgery Localization	https://neurips.cc/virtual/2026/poster/152510	pending	-
-153519	Managing Self-Learning Experts under Per-Round Budget Constraints	https://neurips.cc/virtual/2026/poster/153519	pending	-
-154828	MANGO:Multi-Angle Neural Gated Operators for Chirp-Perturbed PDEs	https://neurips.cc/virtual/2026/poster/154828	pending	-
-155861	Manifold-Aligned Adversarial Perturbation for Anti-Customization under Diffusion-based Purification	https://neurips.cc/virtual/2026/poster/155861	pending	-
-153786	ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching	https://neurips.cc/virtual/2026/poster/153786	pending	-
-154960	Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking	https://neurips.cc/virtual/2026/poster/154960	pending	-
-149523	Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps	https://neurips.cc/virtual/2026/poster/149523	pending	-
-150407	Manifold-Guided Stereo-Monocular Refinement for Endoscopic Stereo Disparity Estimation	https://neurips.cc/virtual/2026/poster/150407	pending	-
-154416	Manifold Prior Guided Deep Unfolding for Hyperspectral Image Reconstruction	https://neurips.cc/virtual/2026/poster/154416	pending	-
-152522	Manifold Random Features	https://neurips.cc/virtual/2026/poster/152522	pending	-
-149924	Manifold Sampling via Entropy Maximization	https://neurips.cc/virtual/2026/poster/149924	pending	-
-154849	Manifold-weighted neural networks	https://neurips.cc/virtual/2026/poster/154849	pending	-
-153087	ManiFusion: Unlocking High-Throughput Generation via Superposition in Manifold Space	https://neurips.cc/virtual/2026/poster/153087	pending	-
-148836	ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation	https://neurips.cc/virtual/2026/poster/148836	pending	-
-151554	ManipulationRAG: Retrieval-Augmented Fine-Grained Manipulation of Object Functional Parts	https://neurips.cc/virtual/2026/poster/151554	pending	-
-139268	ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making	https://neurips.cc/virtual/2026/poster/139268	pending	-
-139847	Many Benign Errors are Better than A Few Severe Ones: Evaluating Hallucination Severity	https://neurips.cc/virtual/2026/poster/139847	pending	-
-156762	Many Circuits, One Mechanism: Input Variation and Evaluation Granularity in Circuit Discovery	https://neurips.cc/virtual/2026/poster/156762	pending	-
-153062	Map-Guided Caching: A Global Perspective for Efficient Diffusion Transformer	https://neurips.cc/virtual/2026/poster/153062	pending	-
-156060	MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving	https://neurips.cc/virtual/2026/poster/156060	pending	-
-153702	MaPP: A Unified Marginalized Posterior-Predictive Framework for Data-Efficient RLVR	https://neurips.cc/virtual/2026/poster/153702	pending	-
-149118	MapPFN: Learning Causal Perturbation Maps in Context	https://neurips.cc/virtual/2026/poster/149118	pending	-
-154886	Mapping Uncharted Symmetries: Machine Discovery in Combinatorics	https://neurips.cc/virtual/2026/poster/154886	pending	-
-154988	MapPolicy: Structure-Aware Imitation Learning for Robot Manipulation via Physically Constrained Scene Map	https://neurips.cc/virtual/2026/poster/154988	pending	-
-149436	MaPPO: Maximum a Posteriori Preference Optimization with Prior Knowledge	https://neurips.cc/virtual/2026/poster/149436	pending	-
-139852	MapShift: Controlled Post-Intervention Evaluation for Embodied World Models	https://neurips.cc/virtual/2026/poster/139852	pending	-
-154143	MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning	https://neurips.cc/virtual/2026/poster/154143	pending	-
-139520	MARBLE: an Agent Benchmark for Spatial Reasoning and Visual Abstraction	https://neurips.cc/virtual/2026/poster/139520	pending	-
-154401	Marginal-Nonuniform Multiclass Learning	https://neurips.cc/virtual/2026/poster/154401	pending	-
-151456	Margin Dynamics for Large Language Model Alignment	https://neurips.cc/virtual/2026/poster/151456	pending	-
-139083	MaRiO: Multi-agent Collaborative Reasoning via Shared Observations in MLLMs	https://neurips.cc/virtual/2026/poster/139083	pending	-
-154889	Mark, Don't Erase: Token Inoculation for Dual-Use Knowledge in LLMs	https://neurips.cc/virtual/2026/poster/154889	pending	-
-155373	Market-Based Runtime Resource Allocation for LLM Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/155373	pending	-
-152575	Market Incentives for AI Safety Investment	https://neurips.cc/virtual/2026/poster/152575	pending	-
-148428	Market Regime Council for Dynamic Credit Assignment in Multi-Agent LLM  Decision Systems	https://neurips.cc/virtual/2026/poster/148428	pending	-
-148382	MaRK: Markov-adapted Recurrent Kernels for Dynamic Operator Conditioning in State Space Models	https://neurips.cc/virtual/2026/poster/148382	pending	-
-148189	Markovian Dynamics Enforcer: Feasibility Preserving Correction on Learned Dyanmics Manifolds	https://neurips.cc/virtual/2026/poster/148189	pending	-
-155575	Markovian Experimental Design under Concept Drift	https://neurips.cc/virtual/2026/poster/155575	pending	-
-152251	Markov Metrical Task Systems	https://neurips.cc/virtual/2026/poster/152251	pending	-
-155648	MarkTune: Improving the Quality-Detectability Trade-off in Model-Embedded LLM Watermarking	https://neurips.cc/virtual/2026/poster/155648	pending	-
-154616	Marrying Optimal Transport and ODEs for Unified Continuous-Time 4D Reconstruction and Tracking	https://neurips.cc/virtual/2026/poster/154616	pending	-
-150620	MARS: Enabling Autoregressive Models Multi-Token Generation	https://neurips.cc/virtual/2026/poster/150620	pending	-
-148621	MARS: Harmonizing Multimodal Convergence via Adaptive Rank Search	https://neurips.cc/virtual/2026/poster/148621	pending	-
-156035	MARS: Multi-resolution Adaptive Routing for Sequential Recommendation	https://neurips.cc/virtual/2026/poster/156035	pending	-
-139554	Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting	https://neurips.cc/virtual/2026/poster/139554	pending	-
-138992	MaSC: A Masked Similarity Metric for Evaluating Concept-Driven Generation	https://neurips.cc/virtual/2026/poster/138992	pending	-
-155044	Mask-Conditioned Gradient Masking for Fine-Tuning Mixture-of-Experts Diffusion Language Models	https://neurips.cc/virtual/2026/poster/155044	pending	-
-155362	Masked Diffusion Language Agents for Tool-Integrated Chemical Reasoning	https://neurips.cc/virtual/2026/poster/155362	pending	-
-148970	Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL	https://neurips.cc/virtual/2026/poster/148970	pending	-
-149422	Masked Diffusion Vision-Language Models for Temporal Action Localization	https://neurips.cc/virtual/2026/poster/149422	pending	-
-152135	Masked Generative Pretraining Improves Cross-Dataset Transfer in Pixel-Space Diffusion	https://neurips.cc/virtual/2026/poster/152135	pending	-
-151801	Masked Sobolev Training for Feasibility-Reliable Optimization Proxies	https://neurips.cc/virtual/2026/poster/151801	pending	-
-152131	Masked Visual Actions for Unified World Modeling	https://neurips.cc/virtual/2026/poster/152131	pending	-
-155796	MaskForge: Structure-Aware Adaptive Attacks for Jailbreaking Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/155796	pending	-
-155231	MaskSense: Confronting the Visual Exploration Trap in Masked Image Generation	https://neurips.cc/virtual/2026/poster/155231	pending	-
-155267	Massively Parallel Exact Inference for Hawkes Processes	https://neurips.cc/virtual/2026/poster/155267	pending	-
-150586	MASTA: A Feedback-Scheduled Multi-Agent System for End-to-End Tamarin Protocol Modeling and Analysis	https://neurips.cc/virtual/2026/poster/150586	pending	-
-155062	MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals	https://neurips.cc/virtual/2026/poster/155062	pending	-
-148863	MAST: Label-Efficient, Robust, and Generalizable Sound Detection for Biodiversity Monitoring via Masked Audio Pretraining and Self-Training	https://neurips.cc/virtual/2026/poster/148863	pending	-
-150904	Matchability-Aware Conformal Prediction for Open-Ended Language Model Generation	https://neurips.cc/virtual/2026/poster/150904	pending	-
-152841	Matched-Control Tests of Partition-Source Claims in One Routed Distillation Family	https://neurips.cc/virtual/2026/poster/152841	pending	-
-156763	MatchEx: Model-Level GNN Explanations with Multi-Granular Insights	https://neurips.cc/virtual/2026/poster/156763	pending	-
-148528	Matching2Matching: Zero-Shot Light Field Image Denoising with Matching View Construction	https://neurips.cc/virtual/2026/poster/148528	pending	-
-150223	Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design	https://neurips.cc/virtual/2026/poster/150223	pending	-
-148852	Matching-while-Decoding: Enhancing Template-Free Retrosynthesis via Explicit Structural Alignment	https://neurips.cc/virtual/2026/poster/148852	pending	-
-155876	Match the Geometry, Skip the Surrogate: Extreme Low-Budget Optimization in High Dimensions	https://neurips.cc/virtual/2026/poster/155876	pending	-
-148908	MatCurvs: Article Real-Coordinate Curve Extraction for Agent-Ready Materials Reasoning	https://neurips.cc/virtual/2026/poster/148908	pending	-
-155349	MaterialsPilot: An Execution-Feedback Framework for Generative Design of Complex Atomistic Architectures	https://neurips.cc/virtual/2026/poster/155349	pending	-
-139769	MaterialsSaddles: 34 Million Transition States and a Flow-Matching Saddle-Point Predictor for Materials	https://neurips.cc/virtual/2026/poster/139769	pending	-
-139318	MathCD: A Benchmark Dataset for Cognitive Diagnosis with Semantic Information	https://neurips.cc/virtual/2026/poster/139318	pending	-
-139534	MathlibPR: Pull Request Merge-Outcome Benchmark for Formal Mathematical Libraries	https://neurips.cc/virtual/2026/poster/139534	pending	-
-150723	MATO: Multi-objective Personalized Alignment with Test-time Optimization for Large Language Models	https://neurips.cc/virtual/2026/poster/150723	pending	-
-152694	Matrix-Free Natural Gradient via Stochastic Truncated Metrics	https://neurips.cc/virtual/2026/poster/152694	pending	-
-156123	Matrix-Free Stochastic Training of Low-Rank Spectral Graph Learning via Randomized Adaptive Spectral Estimation	https://neurips.cc/virtual/2026/poster/156123	pending	-
-152261	Matrix Recovery Via Symmetric Rank-one Measurements With Random Unit-modulus Vectors	https://neurips.cc/virtual/2026/poster/152261	pending	-
-153497	Matryoshka Transcoders and Hierarchy Misalignment: When SAE Absorption Protection Does Not Transfer	https://neurips.cc/virtual/2026/poster/153497	pending	-
-151052	Maximin Robust Bayesian Experimental Design	https://neurips.cc/virtual/2026/poster/151052	pending	-
-152443	MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152443	pending	-
-154822	Maxitive Donsker-Varadhan Formulation for Possibilistic Variational Inference	https://neurips.cc/virtual/2026/poster/154822	pending	-
-155987	MaxSketch: Robust Distinct Counting in Streams via Random Projections	https://neurips.cc/virtual/2026/poster/155987	pending	-
-149061	MC$^2$Mark: Distortion-Free Multi-Bit Watermarking for Long Messages	https://neurips.cc/virtual/2026/poster/149061	pending	-
-151488	MC^2: Monte Carlo Correction for Fast Elliptic PDE Solving	https://neurips.cc/virtual/2026/poster/151488	pending	-
-156122	MCAS: Signal-Processing-Based Multi-View Contrastive Learning for Acoustic Sensing	https://neurips.cc/virtual/2026/poster/156122	pending	-
-152036	MCGI: Manifold-Consistent Graph Indexing for Billion-Scale Disk-Resident Vector Search	https://neurips.cc/virtual/2026/poster/152036	pending	-
-154620	MC-H: Multi-Granularity Clustering with Hyperspherical Determinantal Point Process	https://neurips.cc/virtual/2026/poster/154620	pending	-
-153274	MCM-DM: Towards Better Spatio-Temporal Event Representation Learning via Discrete Morse Theory	https://neurips.cc/virtual/2026/poster/153274	pending	-
-139650	MCP-Atlas: A Large-Scale Benchmark for Tool-Use Competency with Real MCP Servers	https://neurips.cc/virtual/2026/poster/139650	pending	-
-139758	MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents	https://neurips.cc/virtual/2026/poster/139758	pending	-
-139700	MCPHunt: An Evaluation Framework for Cross-Boundary Data Propagation in Multi-Server MCP Agents	https://neurips.cc/virtual/2026/poster/139700	pending	-
-150934	MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes	https://neurips.cc/virtual/2026/poster/150934	pending	-
-151139	MDK-MoE: Multi-view Decomposed Kalman Mixture of Experts Framework for Non-stationary Time Series Forecasting	https://neurips.cc/virtual/2026/poster/151139	pending	-
-139230	MDMR-Bench: A Multi-Dimensional Benchmark for Multi-Reference Image Generation	https://neurips.cc/virtual/2026/poster/139230	pending	-
-139726	MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios	https://neurips.cc/virtual/2026/poster/139726	pending	-
-149972	Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions	https://neurips.cc/virtual/2026/poster/149972	pending	-
-151707	Mean-Field Parallel Decoding for Discrete Diffusion Language Models	https://neurips.cc/virtual/2026/poster/151707	pending	-
-152034	Mean Testing under Truncation beyond Gaussian	https://neurips.cc/virtual/2026/poster/152034	pending	-
-151285	Measure Less, Know More: Self-Supervised Test-Time Feature Acquisition	https://neurips.cc/virtual/2026/poster/151285	pending	-
-153179	Measure-to-measure Regression with Transformers	https://neurips.cc/virtual/2026/poster/153179	pending	-
-139622	Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios	https://neurips.cc/virtual/2026/poster/139622	pending	-
-153978	Measuring and Decomposing Mode Separation via the Canonical Diffusion	https://neurips.cc/virtual/2026/poster/153978	pending	-
-139106	Measuring and Mitigating the Distributional Gap Between Real and Simulated User Behaviors	https://neurips.cc/virtual/2026/poster/139106	pending	-
-153032	Measuring and Strengthening Behavioral Suppression in Language Models	https://neurips.cc/virtual/2026/poster/153032	pending	-
-155873	Measuring Black-Box Confidence via Reasoning Trajectories: Geometry, Coverage, and Verbalization	https://neurips.cc/virtual/2026/poster/155873	pending	-
-150718	Measuring Coherence in Predictive Models	https://neurips.cc/virtual/2026/poster/150718	pending	-
-139635	Measuring Collapse and Correction in Homogeneous-Panel LLM Debate	https://neurips.cc/virtual/2026/poster/139635	pending	-
-139418	Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability	https://neurips.cc/virtual/2026/poster/139418	pending	-
-152199	Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA	https://neurips.cc/virtual/2026/poster/152199	pending	-
-149010	Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model on a Collision-Detection Task	https://neurips.cc/virtual/2026/poster/149010	pending	-
-155321	Measuring Safety Alignment Effects in Autonomous Security Agents	https://neurips.cc/virtual/2026/poster/155321	pending	-
-153826	Measuring Weak-to-Strong Legibility of Reasoning Models	https://neurips.cc/virtual/2026/poster/153826	pending	-
-138890	Measuring What Matters: Synthetic Benchmarks for Concept Bottleneck Models	https://neurips.cc/virtual/2026/poster/138890	pending	-
-151389	Mechanism-Aware Ensemble Conditioning for Data-Limited Emulation of Extreme Events	https://neurips.cc/virtual/2026/poster/151389	pending	-
-150806	Mechanism Design for AI Overviews: Creator Incentives and Long-Term Profit	https://neurips.cc/virtual/2026/poster/150806	pending	-
-151985	Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer	https://neurips.cc/virtual/2026/poster/151985	pending	-
-149624	Mechanisms of Misgeneralization in Physical Sequence Modeling	https://neurips.cc/virtual/2026/poster/149624	pending	-
+149991	Malicious Node Injection: A Transferable Adversarial Attack on GNN Fairness	https://neurips.cc/virtual/2026/poster/149991	excluded	主要贡献是向图模型注入恶意节点进行投毒与规避，没有可独立收录的防御机制。
+150684	Mamba Can Learn Low-Dimensional Targets In-Context via Test-Time Feature Learning	https://neurips.cc/virtual/2026/poster/150684	included	测试线性时序模型时区分核式拟合与上下文特征学习。
+150767	Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields	https://neurips.cc/virtual/2026/poster/150767	included	稀疏空间联合预测把上下文与查询放在同一线性扫描。
+138998	MammoGPS: A Benchmark for Visual Grounding, Perception, and Spatial Reasoning in Mammography	https://neurips.cc/virtual/2026/poster/138998	included	医学视觉定位验收用难度阶梯隔离术语与图像线索。
+148420	M*: A Modular, Extensible, Serving System for Multimodal Models	https://neurips.cc/virtual/2026/poster/148420	included	异构多模态服务将请求表示为组件数据流路径。
+152510	MAMQ-Net: A Robust Framework Leveraging Multi-level Tamper-aware Queries and Complementary Representations of Tampering Features for Progressive Image Forgery Localization	https://neurips.cc/virtual/2026/poster/152510	included	伪造定位的互补模态应在多层交互，不只末端融合。
+153519	Managing Self-Learning Experts under Per-Round Budget Constraints	https://neurips.cc/virtual/2026/poster/153519	included	有限更新预算下分开选当轮决策者和学习者。
+154828	MANGO:Multi-Angle Neural Gated Operators for Chirp-Perturbed PDEs	https://neurips.cc/virtual/2026/poster/154828	included	位置变频方程用可学习的多谱角分支组合。
+155861	Manifold-Aligned Adversarial Perturbation for Anti-Customization under Diffusion-based Purification	https://neurips.cc/virtual/2026/poster/155861	excluded	核心方法针对穿过图像净化预处理的扰动优化，未提取可复用操作方案。
+153786	ManifoldCache: Training-Free Diffusion Acceleration via Constraint Manifold Caching	https://neurips.cc/virtual/2026/poster/153786	excluded	摘要的通用采样加速机制明确用于蛋白骨架设计，未抽取能加速相关生成流程的操作细节。
+154960	Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking	https://neurips.cc/virtual/2026/poster/154960	included	生成偏好优化同时测奖励和相对原分布的支持漂移。
+149523	Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps	https://neurips.cc/virtual/2026/poster/149523	included	稠密匹配为图像特征建立谱几何而非逐点邻居。
+150407	Manifold-Guided Stereo-Monocular Refinement for Endoscopic Stereo Disparity Estimation	https://neurips.cc/virtual/2026/poster/150407	included	双目可靠时仅保留原估计，局部不足时才注入单目候选。
+154416	Manifold Prior Guided Deep Unfolding for Hyperspectral Image Reconstruction	https://neurips.cc/virtual/2026/poster/154416	included	高光谱展开同时用结构先验控制数据一致性和去噪。
+152522	Manifold Random Features	https://neurips.cc/virtual/2026/poster/152522	included	流形核无解析随机特征时用离散近似学习连续场。
+149924	Manifold Sampling via Entropy Maximization	https://neurips.cc/virtual/2026/poster/149924	included	不连通约束采样用全局重采样补足局部链。
+154849	Manifold-weighted neural networks	https://neurips.cc/virtual/2026/poster/154849	included	采用流形约束权重时用残差结构审计表达能力。
+153087	ManiFusion: Unlocking High-Throughput Generation via Superposition in Manifold Space	https://neurips.cc/virtual/2026/poster/153087	included	扩散吞吐目标用随去噪阶段变化的样本融合数量。
+148836	ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation	https://neurips.cc/virtual/2026/poster/148836	excluded	摘要主要描述扩充图像编辑检测数据及以 LoRA、任务解码器集成三个能力，未交代可独立复用的新损失或训练机制。
+151554	ManipulationRAG: Retrieval-Augmented Fine-Grained Manipulation of Object Functional Parts	https://neurips.cc/virtual/2026/poster/151554	included	操作生成检索部件级动作模板而非相似物体外观。
+139268	ManiTaskGen: A Comprehensive Task Generator for Benchmarking and Improving Vision-Language Agents on Embodied Decision-Making	https://neurips.cc/virtual/2026/poster/139268	excluded	摘要未说明如何自动保证任意场景任务可行，暂不提取与既有生成基准的独立机制。
+139847	Many Benign Errors are Better than A Few Severe Ones: Evaluating Hallucination Severity	https://neurips.cc/virtual/2026/poster/139847	included	摘要事实性评估时，按错误的可信度与影响程度分别评分，并校准漏检。
+156762	Many Circuits, One Mechanism: Input Variation and Evaluation Granularity in Circuit Discovery	https://neurips.cc/virtual/2026/poster/156762	included	跨输入组发现的电路结构不同时，先做边级转移和因果互换再解释为机制改变。
+153062	Map-Guided Caching: A Global Perspective for Efficient Diffusion Transformer	https://neurips.cc/virtual/2026/poster/153062	included	扩散块缓存选型时，用输入预测整段去噪的块变化图并全局分配复用预算。
+156060	MAPLE: Latent Multi-Agent Play for End-to-End Autonomous Driving	https://neurips.cc/virtual/2026/poster/156060	excluded	反应式潜空间方案有潜力，但摘要未隔离闭环、多代理和多样性奖励的净贡献。
+153702	MaPP: A Unified Marginalized Posterior-Predictive Framework for Data-Efficient RLVR	https://neurips.cc/virtual/2026/poster/153702	included	使用 GRPO 和难度采样时，先用共享后验降低优势对随机同组组成的敏感度。
+149118	MapPFN: Learning Causal Perturbation Maps in Context	https://neurips.cc/virtual/2026/poster/149118	excluded	暂不纳入用于专项生物干预预测的操作方法。
+154886	Mapping Uncharted Symmetries: Machine Discovery in Combinatorics	https://neurips.cc/virtual/2026/poster/154886	excluded	摘要未明确约束比例怎样落实到交替标记与符号搜索，暂缓可复用机制。
+154988	MapPolicy: Structure-Aware Imitation Learning for Robot Manipulation via Physically Constrained Scene Map	https://neurips.cc/virtual/2026/poster/154988	included	操作目标部件看不见时，明确预测结构与物理关系，再结合可见像素做动作决策。
+149436	MaPPO: Maximum a Posteriori Preference Optimization with Prior Knowledge	https://neurips.cc/virtual/2026/poster/149436	excluded	引入先验奖励有候选价值，但摘要未给出先验估计来源或何时优于直接优化的细化证据。
+139852	MapShift: Controlled Post-Intervention Evaluation for Embodied World Models	https://neurips.cc/virtual/2026/poster/139852	included	判断具身模型能否改变世界信念时，用探索前后的成对环境和验证器隔离更新能力。
+154143	MAPS: Margin-Aware Priors and Verifier-Guided Search for Embodied Planning	https://neurips.cc/virtual/2026/poster/154143	excluded	错误严重度和符号剪枝的联合结果未能拆分训练目标与搜索验证器独立收益。
+139520	MARBLE: an Agent Benchmark for Spatial Reasoning and Visual Abstraction	https://neurips.cc/virtual/2026/poster/139520	included	定位视觉空间代理失败时，保持相同动作任务，切换输入图像和可用符号状态。
+154401	Marginal-Nonuniform Multiclass Learning	https://neurips.cc/virtual/2026/poster/154401	excluded	统计学习三分界严格，但摘要未给出可沿用到实际深度任务的诊断或方法操作。
+151456	Margin Dynamics for Large Language Model Alignment	https://neurips.cc/virtual/2026/poster/151456	included	调整偏好损失时，先分析边际是否会继续增长、引入噪声后是否有有限吸引点。
+139083	MaRiO: Multi-agent Collaborative Reasoning via Shared Observations in MLLMs	https://neurips.cc/virtual/2026/poster/139083	excluded	多视图匹配现象与已有空间诊断重叠，摘要只称部分分类受益，边界待核实。
+154889	Mark, Don't Erase: Token Inoculation for Dual-Use Knowledge in LLMs	https://neurips.cc/virtual/2026/poster/154889	excluded	暂不纳入有害知识的条件释放操作。
+155373	Market-Based Runtime Resource Allocation for LLM Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/155373	included	多代理抢共享资源时，让各代理用预算受限的本地信号报告当前请求价值。
+152575	Market Incentives for AI Safety Investment	https://neurips.cc/virtual/2026/poster/152575	excluded	经济政策激励分析有价值，摘要未提供模型研发或技术验收上的独立机制。
+148428	Market Regime Council for Dynamic Credit Assignment in Multi-Agent LLM  Decision Systems	https://neurips.cc/virtual/2026/poster/148428	excluded	加密资产结果依赖小规模代理、市场期段与多个加权设计，普适性证据不足。
+148382	MaRK: Markov-adapted Recurrent Kernels for Dynamic Operator Conditioning in State Space Models	https://neurips.cc/virtual/2026/poster/148382	included	状态空间模型的条件信息可作用于记忆核本身。
+148189	Markovian Dynamics Enforcer: Feasibility Preserving Correction on Learned Dyanmics Manifolds	https://neurips.cc/virtual/2026/poster/148189	included	物理预测后修正应重新积分，而非只裁剪状态。
+155575	Markovian Experimental Design under Concept Drift	https://neurips.cc/virtual/2026/poster/155575	included	概念漂移下按长期后验协方差选择采样。
+152251	Markov Metrical Task Systems	https://neurips.cc/virtual/2026/poster/152251	included	在线切换任务若能观察请求状态，可对其转移动力学做联合优化。
+155648	MarkTune: Improving the Quality-Detectability Trade-off in Model-Embedded LLM Watermarking	https://neurips.cc/virtual/2026/poster/155648	included	嵌入式水印以来源检测和文本质量共同训练。
+154616	Marrying Optimal Transport and ODEs for Unified Continuous-Time 4D Reconstruction and Tracking	https://neurips.cc/virtual/2026/poster/154616	included	重建与跟踪共享连续速度场，以整数帧积分监督中间动态。
+150620	MARS: Enabling Autoregressive Models Multi-Token Generation	https://neurips.cc/virtual/2026/poster/150620	included	自回归底座可用遮盖式继续训练支持可变批量词元输出。
+148621	MARS: Harmonizing Multimodal Convergence via Adaptive Rank Search	https://neurips.cc/virtual/2026/poster/148621	included	多模态 LoRA 秩选择兼顾两支收敛速度与最终表现。
+156035	MARS: Multi-resolution Adaptive Routing for Sequential Recommendation	https://neurips.cc/virtual/2026/poster/156035	included	推荐历史用不同半衰期的记忆轨道区分即时意图和长期偏好。
+139554	Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting	https://neurips.cc/virtual/2026/poster/139554	included	三维重建对照必须同时控制采集条件和参考几何精度。
+138992	MaSC: A Masked Similarity Metric for Evaluating Concept-Driven Generation	https://neurips.cc/virtual/2026/poster/138992	included	个性化生成将前景身份与文本背景匹配分开测。
+155044	Mask-Conditioned Gradient Masking for Fine-Tuning Mixture-of-Experts Diffusion Language Models	https://neurips.cc/virtual/2026/poster/155044	included	扩散 MoE 微调按遮盖率判断哪些专家应更新。
+155362	Masked Diffusion Language Agents for Tool-Integrated Chemical Reasoning	https://neurips.cc/virtual/2026/poster/155362	excluded	摘要以复杂化学任务的工具编排为主要验证，未建立独立的良性非化学方法证据。
+148970	Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL	https://neurips.cc/virtual/2026/poster/148970	included	良性文本环境模拟可对比双向状态补全和自回归生成。
+149422	Masked Diffusion Vision-Language Models for Temporal Action Localization	https://neurips.cc/virtual/2026/poster/149422	included	视频定位给时间边界延后恢复并加步骤级交并比。
+152135	Masked Generative Pretraining Improves Cross-Dataset Transfer in Pixel-Space Diffusion	https://neurips.cc/virtual/2026/poster/152135	included	像素扩散预训练用遮盖恢复代替依赖人工增强的对比目标。
+151801	Masked Sobolev Training for Feasibility-Reliable Optimization Proxies	https://neurips.cc/virtual/2026/poster/151801	included	约束优化代理只在少量导数坐标上监督，避免活跃集冲突。
+152131	Masked Visual Actions for Unified World Modeling	https://neurips.cc/virtual/2026/poster/152131	included	统一视频动作接口可根据已知轨迹做正向或逆向预测。
+155796	MaskForge: Structure-Aware Adaptive Attacks for Jailbreaking Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/155796	excluded	核心贡献为自动化安全绕过，未给独立防御设计可收录。
+155231	MaskSense: Confronting the Visual Exploration Trap in Masked Image Generation	https://neurips.cc/virtual/2026/poster/155231	included	遮盖图像生成用主体词元的探索程度诊断训练信号不足。
+155267	Massively Parallel Exact Inference for Hawkes Processes	https://neurips.cc/virtual/2026/poster/155267	included	串行点过程递推改为结合扫描而不近似似然。
+150586	MASTA: A Feedback-Scheduled Multi-Agent System for End-to-End Tamarin Protocol Modeling and Analysis	https://neurips.cc/virtual/2026/poster/150586	included	形式验证编排拆为建模、属性审计和只调度的角色。
+155062	MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals	https://neurips.cc/virtual/2026/poster/155062	included	多代理轨迹扩增按代理顺序生成并以补全保持协调。
+148863	MAST: Label-Efficient, Robust, and Generalizable Sound Detection for Biodiversity Monitoring via Masked Audio Pretraining and Self-Training	https://neurips.cc/virtual/2026/poster/148863	included	声学检测用事件区域而非整片段做对比。
+150904	Matchability-Aware Conformal Prediction for Open-Ended Language Model Generation	https://neurips.cc/virtual/2026/poster/150904	included	开放答案的共形覆盖先检查真答案能否被候选采到。
+152841	Matched-Control Tests of Partition-Source Claims in One Routed Distillation Family	https://neurips.cc/virtual/2026/poster/152841	included	路由蒸馏比较须控制预算与分区结构。
+156763	MatchEx: Model-Level GNN Explanations with Multi-Granular Insights	https://neurips.cc/virtual/2026/poster/156763	included	图模型全球解释从真实实例近似匹配多个子组原型。
+148528	Matching2Matching: Zero-Shot Light Field Image Denoising with Matching View Construction	https://neurips.cc/virtual/2026/poster/148528	included	没有干净图时利用独立噪声的多视角构造监督对。
+150223	Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design	https://neurips.cc/virtual/2026/poster/150223	included	少样本分割可直接读支持和查询的匹配值定位依据。
+148852	Matching-while-Decoding: Enhancing Template-Free Retrosynthesis via Explicit Structural Alignment	https://neurips.cc/virtual/2026/poster/148852	excluded	摘要重点是提高自动逆合成规划能力，未提取可独立安全复用的操作机制。
+155876	Match the Geometry, Skip the Surrogate: Extreme Low-Budget Optimization in High Dimensions	https://neurips.cc/virtual/2026/poster/155876	included	极低预算的潜变量搜索先检查候选是否位于经验支持。
+148908	MatCurvs: Article Real-Coordinate Curve Extraction for Agent-Ready Materials Reasoning	https://neurips.cc/virtual/2026/poster/148908	included	图表问答将数值提取和数值推理分两段验收。
+155349	MaterialsPilot: An Execution-Feedback Framework for Generative Design of Complex Atomistic Architectures	https://neurips.cc/virtual/2026/poster/155349	excluded	主要组合层级检索与仿真反馈用于原子结构任务，摘要未给可独立复用的状态修正规则。
+139769	MaterialsSaddles: 34 Million Transition States and a Flow-Matching Saddle-Point Predictor for Materials	https://neurips.cc/virtual/2026/poster/139769	included	材料路径求解比较学习初始化和中点初始化。
+139318	MathCD: A Benchmark Dataset for Cognitive Diagnosis with Semantic Information	https://neurips.cc/virtual/2026/poster/139318	excluded	主要新增教育数据和语义字段，语义增强的定性收益不足以区分可迁移技术选择。
+139534	MathlibPR: Pull Request Merge-Outcome Benchmark for Formal Mathematical Libraries	https://neurips.cc/virtual/2026/poster/139534	included	代码或形式库贡献把构建通过和准备合并分开评分。
+150723	MATO: Multi-objective Personalized Alignment with Test-time Optimization for Large Language Models	https://neurips.cc/virtual/2026/poster/150723	included	多目标个性化在生成中看已写内容动态平衡目标。
+152694	Matrix-Free Natural Gradient via Stochastic Truncated Metrics	https://neurips.cc/virtual/2026/poster/152694	included	自然梯度用截断的在线随机 Fisher 代替显式大矩阵。
+156123	Matrix-Free Stochastic Training of Low-Rank Spectral Graph Learning via Randomized Adaptive Spectral Estimation	https://neurips.cc/virtual/2026/poster/156123	included	大图谱层用可刷新的随机基和控制变量做小批训练。
+152261	Matrix Recovery Via Symmetric Rank-one Measurements With Random Unit-modulus Vectors	https://neurips.cc/virtual/2026/poster/152261	included	用恒模秩一测量时单独补充对角观测。
+153497	Matryoshka Transcoders and Hierarchy Misalignment: When SAE Absorption Protection Does Not Transfer	https://neurips.cc/virtual/2026/poster/153497	included	把 SAE 学到的嵌套训练迁移到跨层字典时，独立检查吸收和层级对齐。
+151052	Maximin Robust Bayesian Experimental Design	https://neurips.cc/virtual/2026/poster/151052	included	担心实验先验错设时，比较普通期望信息增益与信息约束下的最坏设计。
+152443	MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152443	included	长程摘要训练奖励稀疏时，用未来任务预测与历史事实一致性提供中间信号。
+154822	Maxitive Donsker-Varadhan Formulation for Possibilistic Variational Inference	https://neurips.cc/virtual/2026/poster/154822	excluded	最大性变分对应关系有价值，但摘要没给优化器独立更新方式或与常见不确定度估计的隔离证据。
+155987	MaxSketch: Robust Distinct Counting in Streams via Random Projections	https://neurips.cc/virtual/2026/poster/155987	included	流中重复对象只有近似相同时，先检验学习表征的几何结构，再比较最大值投影与精确哈希。
+149061	MC$^2$Mark: Distortion-Free Multi-Bit Watermarking for Long Messages	https://neurips.cc/virtual/2026/poster/149061	excluded	水印改进摘要缺少独立机制与事实保持的对照，暂缓。
+151488	MC^2: Monte Carlo Correction for Fast Elliptic PDE Solving	https://neurips.cc/virtual/2026/poster/151488	included	蒙特卡洛 PDE 解无偏但计算贵时，用低预算数值解作为学习校正输入。
+156122	MCAS: Signal-Processing-Based Multi-View Contrastive Learning for Acoustic Sensing	https://neurips.cc/virtual/2026/poster/156122	excluded	信号处理视图方向合理，但摘要未列互补视图变换及独立对比。
+152036	MCGI: Manifold-Consistent Graph Indexing for Billion-Scale Disk-Resident Vector Search	https://neurips.cc/virtual/2026/poster/152036	excluded	以内在维度调搜索预算有价值，摘要缺少如何确定预算范围的规则。
+154620	MC-H: Multi-Granularity Clustering with Hyperspherical Determinantal Point Process	https://neurips.cc/virtual/2026/poster/154620	excluded	原型分配、排斥和去噪同时修改，暂无确定何时应采用局部排斥的独立摘要证据。
+153274	MCM-DM: Towards Better Spatio-Temporal Event Representation Learning via Discrete Morse Theory	https://neurips.cc/virtual/2026/poster/153274	excluded	地理语义融合与拓扑对齐联合改善，摘要未独立说明拓扑算子的边界。
+139650	MCP-Atlas: A Large-Scale Benchmark for Tool-Use Competency with Real MCP Servers	https://neurips.cc/virtual/2026/poster/139650	included	评估通用工具 Agent 时，以工具证据支持的原子事实评分，并允许等价调用路径。
+139758	MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents	https://neurips.cc/virtual/2026/poster/139758	excluded	此轮已有工具评估细分卡，摘要未提供可单独迁移的不可行识别办法。
+139700	MCPHunt: An Evaluation Framework for Cross-Boundary Data Propagation in Multi-Server MCP Agents	https://neurips.cc/virtual/2026/poster/139700	included	多工具集成验收时，检查单独允许的读写组合是否造成越界的数据传播。
+150934	MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes	https://neurips.cc/virtual/2026/poster/150934	included	多相机重建时先将外观映射到共同空间再监督几何，并按不确定度调法线约束。
+151139	MDK-MoE: Multi-view Decomposed Kalman Mixture of Experts Framework for Non-stationary Time Series Forecasting	https://neurips.cc/virtual/2026/poster/151139	excluded	多分解、跨视图一致和学习 Kalman 增益整合较紧，摘要未隔离机制贡献。
+139230	MDMR-Bench: A Multi-Dimensional Benchmark for Multi-Reference Image Generation	https://neurips.cc/virtual/2026/poster/139230	excluded	多参考生成清单整体评估与库内已有方向重叠，摘要未提供独立诊断发现。
+139726	MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios	https://neurips.cc/virtual/2026/poster/139726	excluded	真实照片及低资源多语言基准有价值，但摘要缺少可解释性能跌幅的具体对照机制。
+149972	Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions	https://neurips.cc/virtual/2026/poster/149972	included	大型稀疏交互图控制中，用剩余规划时长约束策略需要的邻域范围。
+151707	Mean-Field Parallel Decoding for Discrete Diffusion Language Models	https://neurips.cc/virtual/2026/poster/151707	included	扩散语言解码要在一轮确定多个位置时，用两两兼容性修正独立置信度。
+152034	Mean Testing under Truncation beyond Gaussian	https://neurips.cc/virtual/2026/poster/152034	included	先估未知截断造成的均值偏差下界，再定检验样本数。
+151285	Measure Less, Know More: Self-Supervised Test-Time Feature Acquisition	https://neurips.cc/virtual/2026/poster/151285	included	下游任务未知时可用冻结表征做主动模态采集的代理目标。
+153179	Measure-to-measure Regression with Transformers	https://neurips.cc/virtual/2026/poster/153179	included	群体预测应对整分布建模，保留成员间作用。
+139622	Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios	https://neurips.cc/virtual/2026/poster/139622	excluded	研究主要评测自主攻击执行，未给独立的防御控制效果实证。
+153978	Measuring and Decomposing Mode Separation via the Canonical Diffusion	https://neurips.cc/virtual/2026/poster/153978	included	分布的模式分隔用扩散自相关衡量，将势垒与方差区分。
+139106	Measuring and Mitigating the Distributional Gap Between Real and Simulated User Behaviors	https://neurips.cc/virtual/2026/poster/139106	included	用户模拟用行为分布差异验收，而非只评单条对话自然度。
+153032	Measuring and Strengthening Behavioral Suppression in Language Models	https://neurips.cc/virtual/2026/poster/153032	included	不良行为修复验收分即时效果、训练后耐久性和通用能力。
+155873	Measuring Black-Box Confidence via Reasoning Trajectories: Geometry, Coverage, and Verbalization	https://neurips.cc/virtual/2026/poster/155873	included	文本接口置信度可测中间推理轨迹对答案语义的收敛。
+150718	Measuring Coherence in Predictive Models	https://neurips.cc/virtual/2026/poster/150718	included	主动采样验收要检查预测更新是否像条件化。
+139635	Measuring Collapse and Correction in Homogeneous-Panel LLM Debate	https://neurips.cc/virtual/2026/poster/139635	included	辩论干预同时统计修正错误和把正确变错。
+139418	Measuring Cross-Modal Synergy: A Benchmark for VLM Explainability	https://neurips.cc/virtual/2026/poster/139418	included	解释器应单测只有图文结合才产生的证据。
+152199	Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA	https://neurips.cc/virtual/2026/poster/152199	included	FFN 压缩预算按层激活有效维度分配。
+149010	Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model on a Collision-Detection Task	https://neurips.cc/virtual/2026/poster/149010	included	生物启发网络应分别评估计算和各种扰动下的鲁棒性。
+155321	Measuring Safety Alignment Effects in Autonomous Security Agents	https://neurips.cc/virtual/2026/poster/155321	included	防御代码审查验收看报告证据，不能只看拒答或自报完成。
+153826	Measuring Weak-to-Strong Legibility of Reasoning Models	https://neurips.cc/virtual/2026/poster/153826	included	可读推理应让弱模型从不完整记录重建后续步骤。
+138890	Measuring What Matters: Synthetic Benchmarks for Concept Bottleneck Models	https://neurips.cc/virtual/2026/poster/138890	excluded	摘要提供合成概念瓶颈数据的控制维度，但未给可指导方法选择的具体失效证据。
+151389	Mechanism-Aware Ensemble Conditioning for Data-Limited Emulation of Extreme Events	https://neurips.cc/virtual/2026/poster/151389	included	极端事件替代模型以粗模拟集合的局部不稳定统计作条件。
+150806	Mechanism Design for AI Overviews: Creator Incentives and Long-Term Profit	https://neurips.cc/virtual/2026/poster/150806	excluded	主要是搜索平台创作者收益的专门经济设计；摘要未给可迁移的模型选择或学习规律。
+151985	Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer	https://neurips.cc/virtual/2026/poster/151985	excluded	主要验证反应机制模拟与合成设计用途，未给可独立收录的非化学证据。
+149624	Mechanisms of Misgeneralization in Physical Sequence Modeling	https://neurips.cc/virtual/2026/poster/149624	included	物理轨迹评估检查整体测度分布，而非只看单条合理性。
 154637	Mechanistic Circuit Identification for Controllable Data Generation	https://neurips.cc/virtual/2026/poster/154637	pending	-
 154999	Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration	https://neurips.cc/virtual/2026/poster/154999	pending	-
 154446	Mechanistic Insights into LoRA: Layer Sparsity for Adaptive Fine-Tuning via Path Patching	https://neurips.cc/virtual/2026/poster/154446	pending	-

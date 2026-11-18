@@ -412,5 +412,15 @@ Model-wide design and information flow.
 - [Long-Term Composition of Human-Object Interactions](../../conferences/neurips-2026/cards-0008.md#paper-151462)
 - [Looped Diffusion Language Models](../../conferences/neurips-2026/cards-0008.md#paper-152196)
 - [M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling](../../conferences/neurips-2026/cards-0008.md#paper-156010)
+- [Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields](../../conferences/neurips-2026/cards-0008.md#paper-150767)
+- [MAMQ-Net: A Robust Framework Leveraging Multi-level Tamper-aware Queries and Complementary Representations of Tampering Features for Progressive Image Forgery Localization](../../conferences/neurips-2026/cards-0008.md#paper-152510)
+- [MANGO:Multi-Angle Neural Gated Operators for Chirp-Perturbed PDEs](../../conferences/neurips-2026/cards-0008.md#paper-154828)
+- [Manifold Prior Guided Deep Unfolding for Hyperspectral Image Reconstruction](../../conferences/neurips-2026/cards-0008.md#paper-154416)
+- [Marrying Optimal Transport and ODEs for Unified Continuous-Time 4D Reconstruction and Tracking](../../conferences/neurips-2026/cards-0008.md#paper-154616)
+- [Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL](../../conferences/neurips-2026/cards-0008.md#paper-148970)
+- [Masked Visual Actions for Unified World Modeling](../../conferences/neurips-2026/cards-0008.md#paper-152131)
+- [MCSplat: Multi-View Photometric and Geometric Consistent Feed-Forward Gaussian Splatting for Driving Scenes](../../conferences/neurips-2026/cards-0008.md#paper-150934)
+- [Measure-to-measure Regression with Transformers](../../conferences/neurips-2026/cards-0008.md#paper-153179)
+- [Mechanism-Aware Ensemble Conditioning for Data-Limited Emulation of Extreme Events](../../conferences/neurips-2026/cards-0008.md#paper-151389)
 
 <!-- conference-classification:end -->

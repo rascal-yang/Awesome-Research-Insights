@@ -348,5 +348,7 @@ Objectives, auxiliary supervision, and regularization.
 - [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](../../conferences/neurips-2026/cards-0007.md#paper-150076)
 - [Load Balancing Mixture of Experts with Similarity Preserving Routers](../../conferences/neurips-2026/cards-0008.md#paper-150857)
 - [Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities](../../conferences/neurips-2026/cards-0008.md#paper-151973)
+- [Manifold Drift in Flow Preference Optimization: A Root Cause of Reward Hacking](../../conferences/neurips-2026/cards-0008.md#paper-154960)
+- [MAST: Label-Efficient, Robust, and Generalizable Sound Detection for Biodiversity Monitoring via Masked Audio Pretraining and Self-Training](../../conferences/neurips-2026/cards-0008.md#paper-148863)
 
 <!-- conference-classification:end -->

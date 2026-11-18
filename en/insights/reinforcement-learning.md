@@ -576,5 +576,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [LoopRPT: Reinforcement Pre-Training for Looped Language Models](../../conferences/neurips-2026/cards-0008.md#paper-150580)
 - [Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-151208)
 - [LucidNFT: LR-Anchored Multi-Reward Preference Optimization for Flow-Based Real-World Super-Resolution](../../conferences/neurips-2026/cards-0008.md#paper-152037)
+- [MaPP: A Unified Marginalized Posterior-Predictive Framework for Data-Efficient RLVR](../../conferences/neurips-2026/cards-0008.md#paper-153702)
+- [MaskSense: Confronting the Visual Exploration Trap in Masked Image Generation](../../conferences/neurips-2026/cards-0008.md#paper-155231)
+- [MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-152443)
 
 <!-- conference-classification:end -->

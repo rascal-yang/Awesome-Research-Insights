@@ -519,5 +519,9 @@
 - [Machine Unlearning in Low-Dimensional Feature Subspace](../conferences/neurips-2026/cards-0008.md#paper-150810)
 - [Magnetic Resonance Unpaired Image Translation with Pseudometric Schrödinger Bridges](../conferences/neurips-2026/cards-0008.md#paper-152653)
 - [MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation](../conferences/neurips-2026/cards-0008.md#paper-152384)
+- [Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps](../conferences/neurips-2026/cards-0008.md#paper-149523)
+- [Manifold Random Features](../conferences/neurips-2026/cards-0008.md#paper-152522)
+- [MapPolicy: Structure-Aware Imitation Learning for Robot Manipulation via Physically Constrained Scene Map](../conferences/neurips-2026/cards-0008.md#paper-154988)
+- [MARS: Multi-resolution Adaptive Routing for Sequential Recommendation](../conferences/neurips-2026/cards-0008.md#paper-156035)
 
 <!-- conference-classification:end -->

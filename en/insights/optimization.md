@@ -630,5 +630,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models](../../conferences/neurips-2026/cards-0008.md#paper-153335)
 - [Machine Learning-Driven RAG System Design](../../conferences/neurips-2026/cards-0008.md#paper-155514)
 - [MAdam: Metric-Aware Multi-Objective Adam](../../conferences/neurips-2026/cards-0008.md#paper-153932)
+- [Managing Self-Learning Experts under Per-Round Budget Constraints](../../conferences/neurips-2026/cards-0008.md#paper-153519)
+- [Manifold Sampling via Entropy Maximization](../../conferences/neurips-2026/cards-0008.md#paper-149924)
+- [Massively Parallel Exact Inference for Hawkes Processes](../../conferences/neurips-2026/cards-0008.md#paper-155267)
+- [Match the Geometry, Skip the Surrogate: Extreme Low-Budget Optimization in High Dimensions](../../conferences/neurips-2026/cards-0008.md#paper-155876)
+- [MaterialsSaddles: 34 Million Transition States and a Flow-Matching Saddle-Point Predictor for Materials](../../conferences/neurips-2026/cards-0008.md#paper-139769)
+- [Matrix-Free Natural Gradient via Stochastic Truncated Metrics](../../conferences/neurips-2026/cards-0008.md#paper-152694)
 
 <!-- conference-classification:end -->

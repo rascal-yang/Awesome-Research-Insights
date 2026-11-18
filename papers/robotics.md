@@ -737,5 +737,9 @@
 - [LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation](../conferences/neurips-2026/cards-0008.md#paper-151231)
 - [Locating and Repairing Domain Shift in VLM Trajectory Planning](../conferences/neurips-2026/cards-0008.md#paper-156081)
 - [Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild](../conferences/neurips-2026/cards-0008.md#paper-139093)
+- [ManipulationRAG: Retrieval-Augmented Fine-Grained Manipulation of Object Functional Parts](../conferences/neurips-2026/cards-0008.md#paper-151554)
+- [MapPolicy: Structure-Aware Imitation Learning for Robot Manipulation via Physically Constrained Scene Map](../conferences/neurips-2026/cards-0008.md#paper-154988)
+- [MapShift: Controlled Post-Intervention Evaluation for Embodied World Models](../conferences/neurips-2026/cards-0008.md#paper-139852)
+- [Masked Visual Actions for Unified World Modeling](../conferences/neurips-2026/cards-0008.md#paper-152131)
 
 <!-- conference-classification:end -->
