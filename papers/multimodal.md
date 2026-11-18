@@ -704,5 +704,9 @@
 - [ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining](../conferences/neurips-2026/cards-0007.md#paper-152157)
 - [JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation](../conferences/neurips-2026/cards-0007.md#paper-139030)
 - [LACE: Latent Alignment via Counterfactual Embeddings](../conferences/neurips-2026/cards-0007.md#paper-153001)
+- [LARGO: Low-Rank Hypernetwork for Handling Missing Modalities](../conferences/neurips-2026/cards-0007.md#paper-149154)
+- [LaSA-Net: A Language-Guided Network for Outdoor Generalized 3D Referring Expression Segmentation](../conferences/neurips-2026/cards-0007.md#paper-153716)
+- [Latent-Lens: Visual Perception in Small Language Models Through Latent Communication](../conferences/neurips-2026/cards-0007.md#paper-155307)
+- [LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?](../conferences/neurips-2026/cards-0007.md#paper-148232)
 
 <!-- conference-classification:end -->

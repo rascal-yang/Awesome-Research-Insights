@@ -895,5 +895,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Kernel Selection is Model Selection: A Unified Complexity-Penalised Approach for MMD Two-Sample Tests](../../conferences/neurips-2026/cards-0007.md#paper-153658)
 - [k-th Order Deep Homomorphism Networks](../../conferences/neurips-2026/cards-0007.md#paper-152796)
 - [Langevin-Informed Transfer Learning: Replacing the Target Samples by Black-Box Feedback](../../conferences/neurips-2026/cards-0007.md#paper-151211)
+- [Large Language Models Enhanced Covariate-adjusted Response-adaptive Randomization Design](../../conferences/neurips-2026/cards-0007.md#paper-151107)
+- [Large language models suffer from a curse of ambiguity](../../conferences/neurips-2026/cards-0007.md#paper-150511)
+- [Latent Process Generator Matching](../../conferences/neurips-2026/cards-0007.md#paper-155816)
+- [Leaner transformers can easily learn to cluster](../../conferences/neurips-2026/cards-0007.md#paper-151648)
 
 <!-- conference-classification:end -->

@@ -527,5 +527,9 @@ Machine learning for physics, medicine, biology, and engineering.
 - [JEPAWG: Interpretable Hypernetworks for Weight-Space Physics](../../conferences/neurips-2026/cards-0007.md#paper-150014)
 - [KerONet: A Single Softmax Readout Suffices for Physics-Informed Operator Learning](../../conferences/neurips-2026/cards-0007.md#paper-150115)
 - [Knowledge Transfer Scaling Laws for 3D Medical Imaging](../../conferences/neurips-2026/cards-0007.md#paper-149904)
+- [Latent Generative Solvers for Generalizable Long-Term Physics Simulation](../../conferences/neurips-2026/cards-0007.md#paper-152793)
+- [Layout Before Pixels: Topology-Anchored Transcriptome-to-Histology Generation](../../conferences/neurips-2026/cards-0007.md#paper-152155)
+- [LDD-RFM: Learnable Domain Decomposition for Random Feature Models via Variable Projection](../../conferences/neurips-2026/cards-0007.md#paper-152971)
+- [Leak-CURBER: A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks](../../conferences/neurips-2026/cards-0007.md#paper-139384)
 
 <!-- conference-classification:end -->

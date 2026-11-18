@@ -377,5 +377,10 @@
 - [Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](../conferences/neurips-2026/cards-0007.md#paper-153665)
 - [K-PWM: Control-Oriented Structured World Models under Partial Observation](../conferences/neurips-2026/cards-0007.md#paper-152141)
 - [Language Models Need Sleep](../conferences/neurips-2026/cards-0007.md#paper-154950)
+- [Large Language Models as Graph Computational Solvers via Topology-aware Residual Attention](../conferences/neurips-2026/cards-0007.md#paper-149081)
+- [LARGO: Low-Rank Hypernetwork for Handling Missing Modalities](../conferences/neurips-2026/cards-0007.md#paper-149154)
+- [Latent Generative Solvers for Generalizable Long-Term Physics Simulation](../conferences/neurips-2026/cards-0007.md#paper-152793)
+- [Layout Before Pixels: Topology-Anchored Transcriptome-to-Histology Generation](../conferences/neurips-2026/cards-0007.md#paper-152155)
+- [LDM-is-AE: Latent Diffusion is an Intrinsic Auto-Encoder for End-to-End Image Generation](../conferences/neurips-2026/cards-0007.md#paper-155308)
 
 <!-- conference-classification:end -->

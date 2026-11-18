@@ -892,5 +892,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [KnowVis: A Dual-View Benchmark for Diagnosing World-Knowledge Grounding in Text-to-Image Models](../../conferences/neurips-2026/cards-0007.md#paper-139323)
 - [KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers](../../conferences/neurips-2026/cards-0007.md#paper-149685)
 - [LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](../../conferences/neurips-2026/cards-0007.md#paper-152027)
+- [Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models](../../conferences/neurips-2026/cards-0007.md#paper-152188)
+- [Latent Video Prediction for World Modeling: An Evaluation Uncovering Intriguing Favorable Evidence](../../conferences/neurips-2026/cards-0007.md#paper-139786)
+- [LCD$^3$: Layout-Conditioned Diffusion for Dataset Distillation in Object Detection](../../conferences/neurips-2026/cards-0007.md#paper-150456)
+- [LDM-is-AE: Latent Diffusion is an Intrinsic Auto-Encoder for End-to-End Image Generation](../../conferences/neurips-2026/cards-0007.md#paper-155308)
 
 <!-- conference-classification:end -->

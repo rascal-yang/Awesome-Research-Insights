@@ -1111,5 +1111,13 @@
 - [LAMP: Look-Ahead Mixed-Precision Inference of Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-153412)
 - [LAPrune: Logits-Aligned Scoring Proxy for KV Pruning via Vector Quantization](../conferences/neurips-2026/cards-0007.md#paper-151766)
 - [Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring](../conferences/neurips-2026/cards-0007.md#paper-149939)
+- [Latent Abstraction for Retrieval-Augmented Generation](../conferences/neurips-2026/cards-0007.md#paper-155353)
+- [Latent Barrier Steering: Hierarchical Safety for Generative Planning](../conferences/neurips-2026/cards-0007.md#paper-155636)
+- [LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG](../conferences/neurips-2026/cards-0007.md#paper-153688)
+- [Latent Refinement Decoding: Enhancing Diffusion Language Models by Refining Belief States](../conferences/neurips-2026/cards-0007.md#paper-149482)
+- [LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?](../conferences/neurips-2026/cards-0007.md#paper-148232)
+- [LDPCache: Locally Differentially Private Multi-Query Processing with Cache Optimization for Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-155246)
+- [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](../conferences/neurips-2026/cards-0007.md#paper-149326)
+- [LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving](../conferences/neurips-2026/cards-0007.md#paper-155461)
 
 <!-- conference-classification:end -->

@@ -1300,5 +1300,14 @@
 - [Language-Conditioned World Modeling for Visual Navigation](../conferences/neurips-2026/cards-0007.md#paper-154464)
 - [Language Model Goal Selection Differs from Humans' in a Self-Directed Learning Task](../conferences/neurips-2026/cards-0007.md#paper-152099)
 - [Language Models Can Coarsely Modulate Entropy Under Instruction](../conferences/neurips-2026/cards-0007.md#paper-149992)
+- [Large Language Models Develop Belief State Geometry In-Context](../conferences/neurips-2026/cards-0007.md#paper-151810)
+- [Large Language Model Selection with Limited Annotations](../conferences/neurips-2026/cards-0007.md#paper-139074)
+- [Latency-Conditioned Selection Bias in RLHF](../conferences/neurips-2026/cards-0007.md#paper-148493)
+- [Latent Debate: A Surrogate Framework for Interpreting LLM Thinking towards Binary Decisions](../conferences/neurips-2026/cards-0007.md#paper-149328)
+- [Latent Video Prediction for World Modeling: An Evaluation Uncovering Intriguing Favorable Evidence](../conferences/neurips-2026/cards-0007.md#paper-139786)
+- [Layer Free-Riding in Forward-Forward Networks: Real, Repairable, but Not Accuracy-Dominant](../conferences/neurips-2026/cards-0007.md#paper-152401)
+- [Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation](../conferences/neurips-2026/cards-0007.md#paper-152085)
+- [Leak-CURBER: A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks](../conferences/neurips-2026/cards-0007.md#paper-139384)
+- [Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](../conferences/neurips-2026/cards-0007.md#paper-153964)
 
 <!-- conference-classification:end -->

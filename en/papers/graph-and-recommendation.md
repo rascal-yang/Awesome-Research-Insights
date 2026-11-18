@@ -302,5 +302,7 @@ Graph models, knowledge graphs, and recommender systems.
 - [Joint Certification for Attributed Graphs: Beyond Topology-Only Robustness](../../conferences/neurips-2026/cards-0007.md#paper-152626)
 - [KG-Guard: Graph-Based Hallucination Detection for Knowledge Base Question Answering](../../conferences/neurips-2026/cards-0007.md#paper-152526)
 - [k-th Order Deep Homomorphism Networks](../../conferences/neurips-2026/cards-0007.md#paper-152796)
+- [Large Language Models as Graph Computational Solvers via Topology-aware Residual Attention](../../conferences/neurips-2026/cards-0007.md#paper-149081)
+- [Large-Scale Pretraining unlocks Few-Shot Prediction for Relational Data](../../conferences/neurips-2026/cards-0007.md#paper-149169)
 
 <!-- conference-classification:end -->

@@ -4203,66 +4203,66 @@ poster_id	title	paper_url	status	reason
 151766	LAPrune: Logits-Aligned Scoring Proxy for KV Pruning via Vector Quantization	https://neurips.cc/virtual/2026/poster/151766	included	KV 裁剪代理直接近似当前查询的注意力点积。
 148865	LAQuant: A Simple Overhead-free Large Reasoning Model Quantization by Layer-wise Lookahead Loss	https://neurips.cc/virtual/2026/poster/148865	included	长推理量化按部署分布校准，并在逐层目标里看一层之后的残差。
 149939	Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring	https://neurips.cc/virtual/2026/poster/149939	included	控制策略可在可行动作词表上迭代评分，不直接扰动作。
-140030	Large Language Model Failures from Hallucination to Homogenization Are Different Facets of Miscalibration	https://neurips.cc/virtual/2026/poster/140030	pending	-
-149081	Large Language Models as Graph Computational Solvers via Topology-aware Residual Attention	https://neurips.cc/virtual/2026/poster/149081	pending	-
-140035	Large language models can not and should not be banned from peer review	https://neurips.cc/virtual/2026/poster/140035	pending	-
-151810	Large Language Models Develop Belief State Geometry In-Context	https://neurips.cc/virtual/2026/poster/151810	pending	-
-139074	Large Language Model Selection with Limited Annotations	https://neurips.cc/virtual/2026/poster/139074	pending	-
-151107	Large Language Models Enhanced Covariate-adjusted Response-adaptive Randomization Design	https://neurips.cc/virtual/2026/poster/151107	pending	-
-150511	Large language models suffer from a curse of ambiguity	https://neurips.cc/virtual/2026/poster/150511	pending	-
-149169	Large-Scale Pretraining unlocks Few-Shot Prediction for Relational Data	https://neurips.cc/virtual/2026/poster/149169	pending	-
-149154	LARGO: Low-Rank Hypernetwork for Handling Missing Modalities	https://neurips.cc/virtual/2026/poster/149154	pending	-
-149142	LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation	https://neurips.cc/virtual/2026/poster/149142	pending	-
-153716	LaSA-Net: A Language-Guided Network for Outdoor Generalized 3D Referring Expression Segmentation	https://neurips.cc/virtual/2026/poster/153716	pending	-
-149822	LASER: Latent Space Adjoint Matching for Support Constrained Entropy Regularized Offline RL	https://neurips.cc/virtual/2026/poster/149822	pending	-
-154326	Last-Iterate Convergence of Single-Loop Stochastic Methods for Constrained Convex-Concave Minimax Problems	https://neurips.cc/virtual/2026/poster/154326	pending	-
-154258	LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning	https://neurips.cc/virtual/2026/poster/154258	pending	-
-148177	LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving	https://neurips.cc/virtual/2026/poster/148177	pending	-
-148493	Latency-Conditioned Selection Bias in RLHF	https://neurips.cc/virtual/2026/poster/148493	pending	-
-155353	Latent Abstraction for Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/155353	pending	-
-151684	Latent Action Reparameterization for Efficient Agent Inference	https://neurips.cc/virtual/2026/poster/151684	pending	-
-155636	Latent Barrier Steering: Hierarchical Safety for Generative Planning	https://neurips.cc/virtual/2026/poster/155636	pending	-
-149328	Latent Debate: A Surrogate Framework for Interpreting LLM Thinking towards Binary Decisions	https://neurips.cc/virtual/2026/poster/149328	pending	-
-152793	Latent Generative Solvers for Generalizable Long-Term Physics Simulation	https://neurips.cc/virtual/2026/poster/152793	pending	-
-155087	Latent Introspection: Models Can Detect Prior Concept Injections	https://neurips.cc/virtual/2026/poster/155087	pending	-
-155307	Latent-Lens: Visual Perception in Small Language Models Through Latent Communication	https://neurips.cc/virtual/2026/poster/155307	pending	-
-151292	Latent Motion Alignment for Video Diffusion	https://neurips.cc/virtual/2026/poster/151292	pending	-
-150562	LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning	https://neurips.cc/virtual/2026/poster/150562	pending	-
-155816	Latent Process Generator Matching	https://neurips.cc/virtual/2026/poster/155816	pending	-
-150569	Latent Q-Barrier Shielding for Safe In-Context Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150569	pending	-
-153688	LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG	https://neurips.cc/virtual/2026/poster/153688	pending	-
-153835	Latent Reasoning in Continuous Space for Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/153835	pending	-
-149482	Latent Refinement Decoding: Enhancing Diffusion Language Models by Refining Belief States	https://neurips.cc/virtual/2026/poster/149482	pending	-
-152188	Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models	https://neurips.cc/virtual/2026/poster/152188	pending	-
-148232	LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?	https://neurips.cc/virtual/2026/poster/148232	pending	-
-154442	Latent-space Attacks for Refusal Evasion in Language Models	https://neurips.cc/virtual/2026/poster/154442	pending	-
-154054	Latent Spatial Reasoning: Building Innate 3D Awareness via Latent-Space Distillation	https://neurips.cc/virtual/2026/poster/154054	pending	-
-151424	LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model	https://neurips.cc/virtual/2026/poster/151424	pending	-
-139786	Latent Video Prediction for World Modeling: An Evaluation Uncovering Intriguing Favorable Evidence	https://neurips.cc/virtual/2026/poster/139786	pending	-
-148511	LAtte: Hyperbolic Lorentz Attention for Joint-Subject EEG Classification	https://neurips.cc/virtual/2026/poster/148511	pending	-
-152388	Lattice Deduction Transformers	https://neurips.cc/virtual/2026/poster/152388	pending	-
-152401	Layer Free-Riding in Forward-Forward Networks: Real, Repairable, but Not Accuracy-Dominant	https://neurips.cc/virtual/2026/poster/152401	pending	-
-156082	Layer Precision Reduction for Deep Anomaly Detection	https://neurips.cc/virtual/2026/poster/156082	pending	-
-148444	Layerwise LQR for Geometry-Aware Optimization of Deep Networks	https://neurips.cc/virtual/2026/poster/148444	pending	-
-150400	Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks	https://neurips.cc/virtual/2026/poster/150400	pending	-
-152155	Layout Before Pixels: Topology-Anchored Transcriptome-to-Histology Generation	https://neurips.cc/virtual/2026/poster/152155	pending	-
-152710	LayoutBridge: Anisotropic Brownian Bridges for Public Indoor Floorplan Generation	https://neurips.cc/virtual/2026/poster/152710	pending	-
-150456	LCD$^3$: Layout-Conditioned Diffusion for Dataset Distillation in Object Detection	https://neurips.cc/virtual/2026/poster/150456	pending	-
-152971	LDD-RFM: Learnable Domain Decomposition for Random Feature Models via Variable Projection	https://neurips.cc/virtual/2026/poster/152971	pending	-
-155308	LDM-is-AE: Latent Diffusion is an Intrinsic Auto-Encoder for End-to-End Image Generation	https://neurips.cc/virtual/2026/poster/155308	pending	-
-155246	LDPCache: Locally Differentially Private Multi-Query Processing with Cache Optimization for Large Language Models	https://neurips.cc/virtual/2026/poster/155246	pending	-
-155705	LeAct: Learning to Reason from Expert Actions	https://neurips.cc/virtual/2026/poster/155705	pending	-
-152085	Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation	https://neurips.cc/virtual/2026/poster/152085	pending	-
-149222	LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models	https://neurips.cc/virtual/2026/poster/149222	pending	-
-154809	LEAF: Language-EEG Aligned Foundation Model for Brain-Computer Interfaces	https://neurips.cc/virtual/2026/poster/154809	pending	-
-148297	Leakage Thresholds for Sandwich Equilibria Under Partial Information	https://neurips.cc/virtual/2026/poster/148297	pending	-
-139384	Leak-CURBER: A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks	https://neurips.cc/virtual/2026/poster/139384	pending	-
-153964	Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory	https://neurips.cc/virtual/2026/poster/153964	pending	-
-151648	Leaner transformers can easily learn to cluster	https://neurips.cc/virtual/2026/poster/151648	pending	-
-152914	LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning	https://neurips.cc/virtual/2026/poster/152914	pending	-
-149326	Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search	https://neurips.cc/virtual/2026/poster/149326	pending	-
-155461	LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving	https://neurips.cc/virtual/2026/poster/155461	pending	-
-154619	LEAP: Library-driven Evolutionary Abstraction Paradigm for Large Language Models	https://neurips.cc/virtual/2026/poster/154619	pending	-
+140030	Large Language Model Failures from Hallucination to Homogenization Are Different Facets of Miscalibration	https://neurips.cc/virtual/2026/poster/140030	excluded	立场文提供四类校准分类，但摘要未说明可核验的新机制、实验规律或可复用操作。
+149081	Large Language Models as Graph Computational Solvers via Topology-aware Residual Attention	https://neurips.cc/virtual/2026/poster/149081	included	图算法训练显式对齐输入序列化和图邻接。
+140035	Large language models can not and should not be banned from peer review	https://neurips.cc/virtual/2026/poster/140035	excluded	主要贡献为同行评审政策立场及应用比较，摘要未给出可独立复用的审稿技术机制。
+151810	Large Language Models Develop Belief State Geometry In-Context	https://neurips.cc/virtual/2026/poster/151810	included	用已知隐状态后验的合成任务检验模型是否维护信念。
+139074	Large Language Model Selection with Limited Annotations	https://neurips.cc/virtual/2026/poster/139074	included	预算有限时优先标注能区分候选模型的查询。
+151107	Large Language Models Enhanced Covariate-adjusted Response-adaptive Randomization Design	https://neurips.cc/virtual/2026/poster/151107	included	试验自适应分配只用校准后确能减少残差的辅助预测。
+150511	Large language models suffer from a curse of ambiguity	https://neurips.cc/virtual/2026/poster/150511	included	按目标分布歧义程度分层验收采样保真。
+149169	Large-Scale Pretraining unlocks Few-Shot Prediction for Relational Data	https://neurips.cc/virtual/2026/poster/149169	included	关系数据预训练用跨模式检索构造多尺度稠密任务。
+149154	LARGO: Low-Rank Hypernetwork for Handling Missing Modalities	https://neurips.cc/virtual/2026/poster/149154	included	模态缺失组合用权重分解共享卷积权重。
+149142	LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation	https://neurips.cc/virtual/2026/poster/149142	included	推理蒸馏按学生可学习性和覆盖率共同选轨迹。
+153716	LaSA-Net: A Language-Guided Network for Outdoor Generalized 3D Referring Expression Segmentation	https://neurips.cc/virtual/2026/poster/153716	included	大场景稀疏分割以语言加权的覆盖采样构造查询。
+149822	LASER: Latent Space Adjoint Matching for Support Constrained Entropy Regularized Offline RL	https://neurips.cc/virtual/2026/poster/149822	included	离线潜空间策略在遵守支持约束时显式保熵。
+154326	Last-Iterate Convergence of Single-Loop Stochastic Methods for Constrained Convex-Concave Minimax Problems	https://neurips.cc/virtual/2026/poster/154326	included	噪声导致凸凹末迭代不收敛时加消失的强凸凹扰动。
+154258	LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning	https://neurips.cc/virtual/2026/poster/154258	included	机器人策略后训练联调隐式推理和动作。
+148177	LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving	https://neurips.cc/virtual/2026/poster/148177	included	自动驾驶潜推理同时对齐静态几何和动态预测。
+148493	Latency-Conditioned Selection Bias in RLHF	https://neurips.cc/virtual/2026/poster/148493	included	先完成的轨迹不能直接作为异步 RLHF 的无偏批次。
+155353	Latent Abstraction for Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/155353	included	多跳 RAG 以潜在查询和控制头替代文本查询及停止推理。
+151684	Latent Action Reparameterization for Efficient Agent Inference	https://neurips.cc/virtual/2026/poster/151684	excluded	摘要只说明从轨迹学习语义宏动作，未给出学习、解码或执行接口的可复用设计。
+155636	Latent Barrier Steering: Hierarchical Safety for Generative Planning	https://neurips.cc/virtual/2026/poster/155636	included	新安全约束排除整个模式时先改变行为潜变量，再做路径修正。
+149328	Latent Debate: A Surrogate Framework for Interpreting LLM Thinking towards Binary Decisions	https://neurips.cc/virtual/2026/poster/149328	included	二元决策检测分开测最终置信和中间证据冲突。
+152793	Latent Generative Solvers for Generalizable Long-Term Physics Simulation	https://neurips.cc/virtual/2026/poster/152793	included	跨方程训练长滚动预测时，用共享物理潜空间降低计算，并对预测输入加噪。
+155087	Latent Introspection: Models Can Detect Prior Concept Injections	https://neurips.cc/virtual/2026/poster/155087	excluded	单一模型的概念检测信号有趣，但提示和判读方法的分离及跨架构稳定性未在摘要支撑。
+155307	Latent-Lens: Visual Perception in Small Language Models Through Latent Communication	https://neurips.cc/virtual/2026/poster/155307	included	模块化视觉代理向小语言模型传输空间细节时，对照文本转述与跨模型潜态接口。
+151292	Latent Motion Alignment for Video Diffusion	https://neurips.cc/virtual/2026/poster/151292	excluded	与第 68 批 LaMo 的潜运动监督较接近，摘要未给出用于明确区分两者适用设置的对照。
+150562	LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning	https://neurips.cc/virtual/2026/poster/150562	excluded	时序位置与联合潜表征训练的独立收益待查，摘要不足以说明迁移时需保留哪些组件。
+155816	Latent Process Generator Matching	https://neurips.cc/virtual/2026/poster/155816	included	训练生成过程需要外部辅助状态时，若最终只要求单时刻分布，可学习投影空间上的生成元。
+150569	Latent Q-Barrier Shielding for Safe In-Context Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150569	included	分布偏移下运行上下文 RL 时，用剩余预算与预测后续成本显式筛动作。
+153688	LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG	https://neurips.cc/virtual/2026/poster/153688	included	迭代 RAG 时延主要来自生成中间文字时，直接预测能用于查询的检索潜变量。
+153835	Latent Reasoning in Continuous Space for Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/153835	excluded	潜推理课程与信息增益强化组合可改善生成，摘要未提供能单独决定其中训练选择的证据。
+149482	Latent Refinement Decoding: Enhancing Diffusion Language Models by Refining Belief States	https://neurips.cc/virtual/2026/poster/149482	included	扩散语言模型并行解码时，保留未确认位置的软信念，并按变化量决定提交或停止。
+152188	Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models	https://neurips.cc/virtual/2026/poster/152188	included	生成条件要匹配冻结几何解码器时，在其归一化潜空间上做流匹配。
+148232	LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?	https://neurips.cc/virtual/2026/poster/148232	included	多个候选模型能力不同时，对每个查询预测各模型的条件质量分布再按成本选用。
+154442	Latent-space Attacks for Refusal Evasion in Language Models	https://neurips.cc/virtual/2026/poster/154442	excluded	核心是提高模型拒答规避效果，暂不提取该操作机制。
+154054	Latent Spatial Reasoning: Building Innate 3D Awareness via Latent-Space Distillation	https://neurips.cc/virtual/2026/poster/154054	excluded	几何蒸馏及潜空间推理同时加入，摘要未区分是否必须在推理中主动查询视觉 token。
+151424	LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model	https://neurips.cc/virtual/2026/poster/151424	excluded	共享潜空间范式与同批多模态生成研究部分重叠，摘要没有交代如何使生成和理解共享接口。
+139786	Latent Video Prediction for World Modeling: An Evaluation Uncovering Intriguing Favorable Evidence	https://neurips.cc/virtual/2026/poster/139786	included	评价视频世界模型时，用污染、遮挡、接触细节和时间倒放补足干净数据准确率。
+148511	LAtte: Hyperbolic Lorentz Attention for Joint-Subject EEG Classification	https://neurips.cc/virtual/2026/poster/148511	excluded	球面编码和多项个体化设计偏 EEG 特定设置，摘要未隔离基线残差和 LoRA 净收益。
+152388	Lattice Deduction Transformers	https://neurips.cc/virtual/2026/poster/152388	excluded	抽象解释式投影方向明确，但摘要未说明可复用的抽象域和投影构造条件。
+152401	Layer Free-Riding in Forward-Forward Networks: Real, Repairable, but Not Accuracy-Dominant	https://neurips.cc/virtual/2026/poster/152401	included	比较局部训练规则时，将层级健康指标和最终任务准确率分别作为验收量。
+156082	Layer Precision Reduction for Deep Anomaly Detection	https://neurips.cc/virtual/2026/poster/156082	included	自编码异常检测把异常也重建得很好时，比较限制层数值精度和继续增加重建容量。
+148444	Layerwise LQR for Geometry-Aware Optimization of Deep Networks	https://neurips.cc/virtual/2026/poster/148444	included	将二阶更新写成全网络控制目标再拟合可复用的结构化预条件器。
+150400	Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks	https://neurips.cc/virtual/2026/poster/150400	included	权重和激活二值化时从输入端向输出端逐层推进。
+152155	Layout Before Pixels: Topology-Anchored Transcriptome-to-Histology Generation	https://neurips.cc/virtual/2026/poster/152155	included	复杂条件渲染先预测显式空间拓扑，再生成纹理。
+152710	LayoutBridge: Anisotropic Brownian Bridges for Public Indoor Floorplan Generation	https://neurips.cc/virtual/2026/poster/152710	excluded	摘要的独立增量主要是以 Brownian bridge 适配公共场所平面图，缺少区分桥接机制与领域数据的对照。
+150456	LCD$^3$: Layout-Conditioned Diffusion for Dataset Distillation in Object Detection	https://neurips.cc/virtual/2026/poster/150456	included	检测数据蒸馏保持原布局任务分布，只重新生成条件外观。
+152971	LDD-RFM: Learnable Domain Decomposition for Random Feature Models via Variable Projection	https://neurips.cc/virtual/2026/poster/152971	included	随机特征 PDE 解按区域学习频谱与门，把线性权重内层消元。
+155308	LDM-is-AE: Latent Diffusion is an Intrinsic Auto-Encoder for End-to-End Image Generation	https://neurips.cc/virtual/2026/poster/155308	included	把去噪内编码和解码当成共同训练的图像表征。
+155246	LDPCache: Locally Differentially Private Multi-Query Processing with Cache Optimization for Large Language Models	https://neurips.cc/virtual/2026/poster/155246	included	本地差分隐私预算应把是否访问服务器的缓存决策算进去。
+155705	LeAct: Learning to Reason from Expert Actions	https://neurips.cc/virtual/2026/poster/155705	included	专家只给动作时筛选可帮助学生回预测该动作的推理草稿。
+152085	Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation	https://neurips.cc/virtual/2026/poster/152085	included	成对偏好榜单发布时附排名稳定性与完整性审计。
+149222	LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models	https://neurips.cc/virtual/2026/poster/149222	included	推理长度奖按题目和当前训练阶段调整。
+154809	LEAF: Language-EEG Aligned Foundation Model for Brain-Computer Interfaces	https://neurips.cc/virtual/2026/poster/154809	excluded	摘要将频谱时间重建与指令查询组合用于 EEG，整体排名未区分独立方法收益及可迁移边界。
+148297	Leakage Thresholds for Sandwich Equilibria Under Partial Information	https://neurips.cc/virtual/2026/poster/148297	excluded	论文核心专门刻画交易抢先夹击的获利边界；未抽取可操作机制，防御结论也受特定市场模型限制。
+139384	Leak-CURBER: A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks	https://neurips.cc/virtual/2026/poster/139384	included	同时控制多个相似性维度的训练测试泄漏，避免高估泛化。
+153964	Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory	https://neurips.cc/virtual/2026/poster/153964	included	工作流验证同时覆盖事前语义一致和运行轨迹。
+151648	Leaner transformers can easily learn to cluster	https://neurips.cc/virtual/2026/poster/151648	included	让 Transformer 实现聚类时用紧凑编码表示簇身份。
+152914	LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning	https://neurips.cc/virtual/2026/poster/152914	included	异步联邦适配交换秩一基对，而非同步平均整组适配器。
+149326	Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search	https://neurips.cc/virtual/2026/poster/149326	included	检索形式证明重构策略时显式过滤版本与目标开销。
+155461	LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving	https://neurips.cc/virtual/2026/poster/155461	included	定理检索按完整前提集合评估，而非孤立候选相关度。
+154619	LEAP: Library-driven Evolutionary Abstraction Paradigm for Large Language Models	https://neurips.cc/virtual/2026/poster/154619	included	良性组合搜索的共享原语应以可测压缩收益准入。
 148994	Learnable Chernoff Baselines for Provable Inference-Time Alignment	https://neurips.cc/virtual/2026/poster/148994	pending	-
 152946	Learnable Diffusion-based Positional Encodings for Link Prediction	https://neurips.cc/virtual/2026/poster/152946	pending	-
 149962	Learnable Low-Rank Polynomial Sketch for Effective Linear Attention	https://neurips.cc/virtual/2026/poster/149962	pending	-

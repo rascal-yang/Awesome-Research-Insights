@@ -713,5 +713,8 @@
 - [LangMap: A Human-Verified Benchmark for Hierarchical Open-Vocabulary Goal Navigation](../conferences/neurips-2026/cards-0007.md#paper-139046)
 - [Language-Conditioned World Modeling for Visual Navigation](../conferences/neurips-2026/cards-0007.md#paper-154464)
 - [Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring](../conferences/neurips-2026/cards-0007.md#paper-149939)
+- [LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](../conferences/neurips-2026/cards-0007.md#paper-154258)
+- [LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](../conferences/neurips-2026/cards-0007.md#paper-148177)
+- [Latent Barrier Steering: Hierarchical Safety for Generative Planning](../conferences/neurips-2026/cards-0007.md#paper-155636)
 
 <!-- conference-classification:end -->

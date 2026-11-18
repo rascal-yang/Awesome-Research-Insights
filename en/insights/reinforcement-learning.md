@@ -548,5 +548,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](../../conferences/neurips-2026/cards-0007.md#paper-149224)
 - [Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents](../../conferences/neurips-2026/cards-0007.md#paper-156148)
 - [Know Your Task, Learn It Right: Task-Aware Optimistic Value Learning for Multi-Task Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-152319)
+- [LASER: Latent Space Adjoint Matching for Support Constrained Entropy Regularized Offline RL](../../conferences/neurips-2026/cards-0007.md#paper-149822)
+- [LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](../../conferences/neurips-2026/cards-0007.md#paper-154258)
+- [Latent Q-Barrier Shielding for Safe In-Context Reinforcement Learning](../../conferences/neurips-2026/cards-0007.md#paper-150569)
+- [LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models](../../conferences/neurips-2026/cards-0007.md#paper-149222)
 
 <!-- conference-classification:end -->

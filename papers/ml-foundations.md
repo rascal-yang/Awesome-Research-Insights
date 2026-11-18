@@ -2106,5 +2106,14 @@
 - [Language-Induced Priors for Domain Adaptation](../conferences/neurips-2026/cards-0007.md#paper-152836)
 - [Laplacian Heads Improve Transformers by Smoothing Token Representations](../conferences/neurips-2026/cards-0007.md#paper-149696)
 - [LAPLEX: The FFT of Learnable Laplace Kernels](../conferences/neurips-2026/cards-0007.md#paper-155528)
+- [Large Language Models Enhanced Covariate-adjusted Response-adaptive Randomization Design](../conferences/neurips-2026/cards-0007.md#paper-151107)
+- [Last-Iterate Convergence of Single-Loop Stochastic Methods for Constrained Convex-Concave Minimax Problems](../conferences/neurips-2026/cards-0007.md#paper-154326)
+- [Latent Process Generator Matching](../conferences/neurips-2026/cards-0007.md#paper-155816)
+- [Layer Free-Riding in Forward-Forward Networks: Real, Repairable, but Not Accuracy-Dominant](../conferences/neurips-2026/cards-0007.md#paper-152401)
+- [Layer Precision Reduction for Deep Anomaly Detection](../conferences/neurips-2026/cards-0007.md#paper-156082)
+- [Layerwise LQR for Geometry-Aware Optimization of Deep Networks](../conferences/neurips-2026/cards-0007.md#paper-148444)
+- [Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks](../conferences/neurips-2026/cards-0007.md#paper-150400)
+- [Leaner transformers can easily learn to cluster](../conferences/neurips-2026/cards-0007.md#paper-151648)
+- [LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning](../conferences/neurips-2026/cards-0007.md#paper-152914)
 
 <!-- conference-classification:end -->

@@ -296,3 +296,48 @@
 | 大语言模型 | 推理策略 | [LAPrune: Logits-Aligned Scoring Proxy for KV Pruning via Vector Quantization](cards-0007.md#paper-151766) | KV 裁剪代理直接近似当前查询的注意力点积。 |
 | 大语言模型 | 训练策略 | [LAQuant: A Simple Overhead-free Large Reasoning Model Quantization by Layer-wise Lookahead Loss](cards-0007.md#paper-148865) | 长推理量化按部署分布校准，并在逐层目标里看一层之后的残差。 |
 | 机器人学 | 推理策略 | [Large Discrete Policy: Advancing Explicit Behavior Modeling with Stochastic Iterative Scoring](cards-0007.md#paper-149939) | 控制策略可在可行动作词表上迭代评分，不直接扰动作。 |
+| 图学习与推荐 | 模型架构 | [Large Language Models as Graph Computational Solvers via Topology-aware Residual Attention](cards-0007.md#paper-149081) | 图算法训练显式对齐输入序列化和图邻接。 |
+| 大语言模型 | 评测与诊断 | [Large Language Models Develop Belief State Geometry In-Context](cards-0007.md#paper-151810) | 用已知隐状态后验的合成任务检验模型是否维护信念。 |
+| 大语言模型 | 评测与诊断 | [Large Language Model Selection with Limited Annotations](cards-0007.md#paper-139074) | 预算有限时优先标注能区分候选模型的查询。 |
+| 机器学习基础与统计 | 理论与统计 | [Large Language Models Enhanced Covariate-adjusted Response-adaptive Randomization Design](cards-0007.md#paper-151107) | 试验自适应分配只用校准后确能减少残差的辅助预测。 |
+| 大语言模型 | 理论与统计 | [Large language models suffer from a curse of ambiguity](cards-0007.md#paper-150511) | 按目标分布歧义程度分层验收采样保真。 |
+| 图学习与推荐 | 训练策略 | [Large-Scale Pretraining unlocks Few-Shot Prediction for Relational Data](cards-0007.md#paper-149169) | 关系数据预训练用跨模式检索构造多尺度稠密任务。 |
+| 多模态学习 | 模型架构 | [LARGO: Low-Rank Hypernetwork for Handling Missing Modalities](cards-0007.md#paper-149154) | 模态缺失组合用权重分解共享卷积权重。 |
+| 大语言模型 | 数据策略 | [LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation](cards-0007.md#paper-149142) | 推理蒸馏按学生可学习性和覆盖率共同选轨迹。 |
+| 多模态学习 | 模块 | [LaSA-Net: A Language-Guided Network for Outdoor Generalized 3D Referring Expression Segmentation](cards-0007.md#paper-153716) | 大场景稀疏分割以语言加权的覆盖采样构造查询。 |
+| 强化学习 | 强化学习方法 | [LASER: Latent Space Adjoint Matching for Support Constrained Entropy Regularized Offline RL](cards-0007.md#paper-149822) | 离线潜空间策略在遵守支持约束时显式保熵。 |
+| 机器学习基础与统计 | 优化 | [Last-Iterate Convergence of Single-Loop Stochastic Methods for Constrained Convex-Concave Minimax Problems](cards-0007.md#paper-154326) | 噪声导致凸凹末迭代不收敛时加消失的强凸凹扰动。 |
+| 机器人学 | 强化学习方法 | [LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](cards-0007.md#paper-154258) | 机器人策略后训练联调隐式推理和动作。 |
+| 机器人学 | 训练策略 | [LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](cards-0007.md#paper-148177) | 自动驾驶潜推理同时对齐静态几何和动态预测。 |
+| 强化学习 | 评测与诊断 | [Latency-Conditioned Selection Bias in RLHF](cards-0007.md#paper-148493) | 先完成的轨迹不能直接作为异步 RLHF 的无偏批次。 |
+| 大语言模型 | 推理策略 | [Latent Abstraction for Retrieval-Augmented Generation](cards-0007.md#paper-155353) | 多跳 RAG 以潜在查询和控制头替代文本查询及停止推理。 |
+| 机器人学 | 推理策略 | [Latent Barrier Steering: Hierarchical Safety for Generative Planning](cards-0007.md#paper-155636) | 新安全约束排除整个模式时先改变行为潜变量，再做路径修正。 |
+| 大语言模型 | 评测与诊断 | [Latent Debate: A Surrogate Framework for Interpreting LLM Thinking towards Binary Decisions](cards-0007.md#paper-149328) | 二元决策检测分开测最终置信和中间证据冲突。 |
+| 科学机器学习 | 模型架构 | [Latent Generative Solvers for Generalizable Long-Term Physics Simulation](cards-0007.md#paper-152793) | 跨方程训练长滚动预测时，用共享物理潜空间降低计算，并对预测输入加噪。 |
+| 多模态学习 | 模块 | [Latent-Lens: Visual Perception in Small Language Models Through Latent Communication](cards-0007.md#paper-155307) | 模块化视觉代理向小语言模型传输空间细节时，对照文本转述与跨模型潜态接口。 |
+| 机器学习基础与统计 | 理论与统计 | [Latent Process Generator Matching](cards-0007.md#paper-155816) | 训练生成过程需要外部辅助状态时，若最终只要求单时刻分布，可学习投影空间上的生成元。 |
+| 强化学习 | 强化学习方法 | [Latent Q-Barrier Shielding for Safe In-Context Reinforcement Learning](cards-0007.md#paper-150569) | 分布偏移下运行上下文 RL 时，用剩余预算与预测后续成本显式筛动作。 |
+| 大语言模型 | 推理策略 | [LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG](cards-0007.md#paper-153688) | 迭代 RAG 时延主要来自生成中间文字时，直接预测能用于查询的检索潜变量。 |
+| 大语言模型 | 推理策略 | [Latent Refinement Decoding: Enhancing Diffusion Language Models by Refining Belief States](cards-0007.md#paper-149482) | 扩散语言模型并行解码时，保留未确认位置的软信念，并按变化量决定提交或停止。 |
+| 计算机视觉 | 表征学习 | [Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models](cards-0007.md#paper-152188) | 生成条件要匹配冻结几何解码器时，在其归一化潜空间上做流匹配。 |
+| 多模态学习 | 推理策略 | [LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?](cards-0007.md#paper-148232) | 多个候选模型能力不同时，对每个查询预测各模型的条件质量分布再按成本选用。 |
+| 计算机视觉 | 评测与诊断 | [Latent Video Prediction for World Modeling: An Evaluation Uncovering Intriguing Favorable Evidence](cards-0007.md#paper-139786) | 评价视频世界模型时，用污染、遮挡、接触细节和时间倒放补足干净数据准确率。 |
+| 机器学习基础与统计 | 评测与诊断 | [Layer Free-Riding in Forward-Forward Networks: Real, Repairable, but Not Accuracy-Dominant](cards-0007.md#paper-152401) | 比较局部训练规则时，将层级健康指标和最终任务准确率分别作为验收量。 |
+| 机器学习基础与统计 | 训练策略 | [Layer Precision Reduction for Deep Anomaly Detection](cards-0007.md#paper-156082) | 自编码异常检测把异常也重建得很好时，比较限制层数值精度和继续增加重建容量。 |
+| 机器学习基础与统计 | 优化 | [Layerwise LQR for Geometry-Aware Optimization of Deep Networks](cards-0007.md#paper-148444) | 将二阶更新写成全网络控制目标再拟合可复用的结构化预条件器。 |
+| 机器学习基础与统计 | 训练策略 | [Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks](cards-0007.md#paper-150400) | 权重和激活二值化时从输入端向输出端逐层推进。 |
+| 科学机器学习 | 模型架构 | [Layout Before Pixels: Topology-Anchored Transcriptome-to-Histology Generation](cards-0007.md#paper-152155) | 复杂条件渲染先预测显式空间拓扑，再生成纹理。 |
+| 计算机视觉 | 数据策略 | [LCD$^3$: Layout-Conditioned Diffusion for Dataset Distillation in Object Detection](cards-0007.md#paper-150456) | 检测数据蒸馏保持原布局任务分布，只重新生成条件外观。 |
+| 科学机器学习 | 优化 | [LDD-RFM: Learnable Domain Decomposition for Random Feature Models via Variable Projection](cards-0007.md#paper-152971) | 随机特征 PDE 解按区域学习频谱与门，把线性权重内层消元。 |
+| 计算机视觉 | 模型架构 | [LDM-is-AE: Latent Diffusion is an Intrinsic Auto-Encoder for End-to-End Image Generation](cards-0007.md#paper-155308) | 把去噪内编码和解码当成共同训练的图像表征。 |
+| 大语言模型 | 推理策略 | [LDPCache: Locally Differentially Private Multi-Query Processing with Cache Optimization for Large Language Models](cards-0007.md#paper-155246) | 本地差分隐私预算应把是否访问服务器的缓存决策算进去。 |
+| 大语言模型 | 训练策略 | [LeAct: Learning to Reason from Expert Actions](cards-0007.md#paper-155705) | 专家只给动作时筛选可帮助学生回预测该动作的推理草稿。 |
+| 大语言模型 | 评测与诊断 | [Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation](cards-0007.md#paper-152085) | 成对偏好榜单发布时附排名稳定性与完整性审计。 |
+| 大语言模型 | 强化学习方法 | [LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models](cards-0007.md#paper-149222) | 推理长度奖按题目和当前训练阶段调整。 |
+| 科学机器学习 | 评测与诊断 | [Leak-CURBER: A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks](cards-0007.md#paper-139384) | 同时控制多个相似性维度的训练测试泄漏，避免高估泛化。 |
+| 大语言模型 | 评测与诊断 | [Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](cards-0007.md#paper-153964) | 工作流验证同时覆盖事前语义一致和运行轨迹。 |
+| 机器学习基础与统计 | 理论与统计 | [Leaner transformers can easily learn to cluster](cards-0007.md#paper-151648) | 让 Transformer 实现聚类时用紧凑编码表示簇身份。 |
+| 机器学习基础与统计 | 训练策略 | [LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning](cards-0007.md#paper-152914) | 异步联邦适配交换秩一基对，而非同步平均整组适配器。 |
+| 大语言模型 | 推理策略 | [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](cards-0007.md#paper-149326) | 检索形式证明重构策略时显式过滤版本与目标开销。 |
+| 大语言模型 | 推理策略 | [LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving](cards-0007.md#paper-155461) | 定理检索按完整前提集合评估，而非孤立候选相关度。 |
+| 大语言模型 | 优化 | [LEAP: Library-driven Evolutionary Abstraction Paradigm for Large Language Models](cards-0007.md#paper-154619) | 良性组合搜索的共享原语应以可测压缩收益准入。 |

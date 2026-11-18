@@ -593,5 +593,9 @@
 - [K-prop: Deep Online Learning by Backpropagating Temporal Kernels](../conferences/neurips-2026/cards-0007.md#paper-153851)
 - [KV Cache Compression via Attention Output Distortion Minimization](../conferences/neurips-2026/cards-0007.md#paper-153808)
 - [KV-COBRA: KV Cache Compression via Co-Optimized Bit-Rank Allocation](../conferences/neurips-2026/cards-0007.md#paper-154016)
+- [Last-Iterate Convergence of Single-Loop Stochastic Methods for Constrained Convex-Concave Minimax Problems](../conferences/neurips-2026/cards-0007.md#paper-154326)
+- [Layerwise LQR for Geometry-Aware Optimization of Deep Networks](../conferences/neurips-2026/cards-0007.md#paper-148444)
+- [LDD-RFM: Learnable Domain Decomposition for Random Feature Models via Variable Projection](../conferences/neurips-2026/cards-0007.md#paper-152971)
+- [LEAP: Library-driven Evolutionary Abstraction Paradigm for Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-154619)
 
 <!-- conference-classification:end -->

@@ -670,5 +670,11 @@ Training schedules, curricula, and task or stage composition.
 - [Language-Induced Priors for Domain Adaptation](../../conferences/neurips-2026/cards-0007.md#paper-152836)
 - [Language Model Memory and Memory Models for Language](../../conferences/neurips-2026/cards-0007.md#paper-152563)
 - [LAQuant: A Simple Overhead-free Large Reasoning Model Quantization by Layer-wise Lookahead Loss](../../conferences/neurips-2026/cards-0007.md#paper-148865)
+- [Large-Scale Pretraining unlocks Few-Shot Prediction for Relational Data](../../conferences/neurips-2026/cards-0007.md#paper-149169)
+- [LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](../../conferences/neurips-2026/cards-0007.md#paper-148177)
+- [Layer Precision Reduction for Deep Anomaly Detection](../../conferences/neurips-2026/cards-0007.md#paper-156082)
+- [Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks](../../conferences/neurips-2026/cards-0007.md#paper-150400)
+- [LeAct: Learning to Reason from Expert Actions](../../conferences/neurips-2026/cards-0007.md#paper-155705)
+- [LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning](../../conferences/neurips-2026/cards-0007.md#paper-152914)
 
 <!-- conference-classification:end -->

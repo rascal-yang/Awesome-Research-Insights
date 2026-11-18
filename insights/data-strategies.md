@@ -317,5 +317,7 @@
 - [Irreducible Supervision Enables Compositional Generalization in Post-Training](../conferences/neurips-2026/cards-0007.md#paper-149659)
 - [It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs](../conferences/neurips-2026/cards-0007.md#paper-155341)
 - [Knowledge Transfer Scaling Laws for 3D Medical Imaging](../conferences/neurips-2026/cards-0007.md#paper-149904)
+- [LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation](../conferences/neurips-2026/cards-0007.md#paper-149142)
+- [LCD$^3$: Layout-Conditioned Diffusion for Dataset Distillation in Object Detection](../conferences/neurips-2026/cards-0007.md#paper-150456)
 
 <!-- conference-classification:end -->
