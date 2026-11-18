@@ -940,67 +940,67 @@ poster_id	title	paper_url	status	reason
 154880	Beyond LoRA vs. Full Fine-Tuning: Gradient-Guided Optimizer Routing for LLM Adaptation	https://neurips.cc/virtual/2026/poster/154880	included	在优化器层动态分配低秩和全量更新。
 148662	Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons	https://neurips.cc/virtual/2026/poster/148662	included	用异构共振单元辨别不同时标。
 153265	Beyond Marginal Coverage: Efficient Localized Conformal Prediction via Residual Rank Calibration	https://neurips.cc/virtual/2026/poster/153265	included	用标准化残差的局部秩代替逐查询的加权分位数。
-150469	Beyond Masked Sparsity: SNACK Enables Truly Sparse Neural Networks on GPU	https://neurips.cc/virtual/2026/poster/150469	pending	-
-152448	Beyond Maximum Likelihood: Variational Inequality Estimation for Generalized Linear Models	https://neurips.cc/virtual/2026/poster/152448	pending	-
-151995	Beyond MMSE: Enhancing PnP Restoration with ProxiMAP	https://neurips.cc/virtual/2026/poster/151995	pending	-
-150197	Beyond MNIST: Limitations of Amplitude Encoding on Quantum Classification	https://neurips.cc/virtual/2026/poster/150197	pending	-
-155113	Beyond Modality Fusion: Deep Ensembles for Multimodal Classification	https://neurips.cc/virtual/2026/poster/155113	pending	-
-153782	Beyond MSE: Differentiable Complexity Priors for Structure-Preserving Neural Denoising	https://neurips.cc/virtual/2026/poster/153782	pending	-
-148255	Beyond Node Sequences: Relational Diffusion for Unified Graph Learning	https://neurips.cc/virtual/2026/poster/148255	pending	-
-153262	Beyond Normal References: Discriminative Few-Shot Anomaly Detection	https://neurips.cc/virtual/2026/poster/153262	pending	-
-140053	Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors	https://neurips.cc/virtual/2026/poster/140053	pending	-
-148305	Beyond Outcome Rewards: Process-Aware Optimization for Search Agents	https://neurips.cc/virtual/2026/poster/148305	pending	-
-154780	Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents	https://neurips.cc/virtual/2026/poster/154780	pending	-
-150285	Beyond Outcome: Trajectory-Driven Prompt Optimization via Multi-Dimensional Rewards	https://neurips.cc/virtual/2026/poster/150285	pending	-
-154868	Beyond Oversquashing: Understanding Signal Propagation in GNNs Via Observables	https://neurips.cc/virtual/2026/poster/154868	pending	-
-150929	Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph	https://neurips.cc/virtual/2026/poster/150929	pending	-
+150469	Beyond Masked Sparsity: SNACK Enables Truly Sparse Neural Networks on GPU	https://neurips.cc/virtual/2026/poster/150469	included	高稀疏度时改用真正稀疏的前后向
+152448	Beyond Maximum Likelihood: Variational Inequality Estimation for Generalized Linear Models	https://neurips.cc/virtual/2026/poster/152448	included	对非标准链接用变分不等式估计
+151995	Beyond MMSE: Enhancing PnP Restoration with ProxiMAP	https://neurips.cc/virtual/2026/poster/151995	included	使残余噪声匹配去噪器训练噪声
+150197	Beyond MNIST: Limitations of Amplitude Encoding on Quantum Classification	https://neurips.cc/virtual/2026/poster/150197	included	诊断编码集中后再投入训练
+155113	Beyond Modality Fusion: Deep Ensembles for Multimodal Classification	https://neurips.cc/virtual/2026/poster/155113	included	等参数比较单模态集成和特征融合
+153782	Beyond MSE: Differentiable Complexity Priors for Structure-Preserving Neural Denoising	https://neurips.cc/virtual/2026/poster/153782	included	用复杂度一致性监督去噪
+148255	Beyond Node Sequences: Relational Diffusion for Unified Graph Learning	https://neurips.cc/virtual/2026/poster/148255	included	以边为基本生成单位
+153262	Beyond Normal References: Discriminative Few-Shot Anomaly Detection	https://neurips.cc/virtual/2026/poster/153262	included	将异常参考用于学习偏离正常的方向
+140053	Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors	https://neurips.cc/virtual/2026/poster/140053	included	用在线证据决定何时削弱离线先验
+148305	Beyond Outcome Rewards: Process-Aware Optimization for Search Agents	https://neurips.cc/virtual/2026/poster/148305	included	按结果和当前证据调整搜索奖励
+154780	Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents	https://neurips.cc/virtual/2026/poster/154780	included	只在失败轨迹上按步骤调整优势幅度
+150285	Beyond Outcome: Trajectory-Driven Prompt Optimization via Multi-Dimensional Rewards	https://neurips.cc/virtual/2026/poster/150285	included	监督反思过程的一致性
+154868	Beyond Oversquashing: Understanding Signal Propagation in GNNs Via Observables	https://neurips.cc/virtual/2026/poster/154868	included	测特定源到目标区域的信号输运
+150929	Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph	https://neurips.cc/virtual/2026/poster/150929	included	按偏好图聚合多样本，平局不给梯度
 153322	Beyond Pairwise Supervision: Spectral Characteristic Matching for Data-Efficient Multimodal Alignment	https://neurips.cc/virtual/2026/poster/153322	included	配对很少时同时优化点对点目标与跨模态分布差异。
-155550	Beyond Parameter Aggregation: Semantic Consensus for Federated Fine-Tuning of LLMs	https://neurips.cc/virtual/2026/poster/155550	pending	-
-149097	Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging	https://neurips.cc/virtual/2026/poster/149097	pending	-
-153617	Beyond Pessimism: Offline Learning in KL-regularized Games	https://neurips.cc/virtual/2026/poster/153617	pending	-
-152220	Beyond Pixel Space: Frequency-Domain Uncertainty Estimation for Structure-Aware Diffusion Guidance	https://neurips.cc/virtual/2026/poster/152220	pending	-
-154585	Beyond Pixel-wise Supervision: Local Structure Regularization for Semantic Segmentation	https://neurips.cc/virtual/2026/poster/154585	pending	-
-155042	Beyond Prediction: Steering VLM Agents with Retrospective World Modeling	https://neurips.cc/virtual/2026/poster/155042	pending	-
-152905	Beyond Proxy Metrics: MLLM-Based Human Surrogate Evaluation for Explainable AI	https://neurips.cc/virtual/2026/poster/152905	pending	-
-150607	Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation	https://neurips.cc/virtual/2026/poster/150607	pending	-
-150023	Beyond Raw Context Transfer: Representation-based Federated Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/150023	pending	-
-152198	Beyond Raw Observations: Distilling and Storing Invariant Driving Memories for Generalizable Autonomous Driving	https://neurips.cc/virtual/2026/poster/152198	pending	-
-154533	Beyond Real or Fake: A Dual-Channel Authenticity and Reasoning Protocol for Photographic Assessment	https://neurips.cc/virtual/2026/poster/154533	pending	-
-139315	Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models	https://neurips.cc/virtual/2026/poster/139315	pending	-
-139234	Beyond Risky Activities: Bridging the Supervision Gap for Situational Risk Reasoning	https://neurips.cc/virtual/2026/poster/139234	pending	-
-151291	Beyond Row Alignment: Virtual-Camera-Aware Online Stereo Rectification	https://neurips.cc/virtual/2026/poster/151291	pending	-
-153671	Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings	https://neurips.cc/virtual/2026/poster/153671	pending	-
-138978	Beyond Score: A Dataset for Joint Action and Score Predictions in 2v2 Sports	https://neurips.cc/virtual/2026/poster/138978	pending	-
-154601	Beyond [SEG] Tokens: Training-Free Video Reasoning Segmentation via Counterfactual Inference  and Contrastive Concept	https://neurips.cc/virtual/2026/poster/154601	pending	-
-151663	Beyond Selection: Token Parameterization for Extreme Visual Token Compression	https://neurips.cc/virtual/2026/poster/151663	pending	-
-139295	Beyond Self-Play and Scale: A Behavior Benchmark for Generalization in Autonomous Driving	https://neurips.cc/virtual/2026/poster/139295	pending	-
-149809	Beyond Semantic Alignment: Geometric Incomparability in Multi-Oracle Soft Fusion	https://neurips.cc/virtual/2026/poster/149809	pending	-
-155649	Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction	https://neurips.cc/virtual/2026/poster/155649	pending	-
-156774	Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens	https://neurips.cc/virtual/2026/poster/156774	pending	-
-153111	Beyond SFT-to-RL: Pre-alignment via Black-box On-policy Distillation for Multimodal RL	https://neurips.cc/virtual/2026/poster/153111	pending	-
-150326	Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding	https://neurips.cc/virtual/2026/poster/150326	pending	-
-153799	Beyond Single-Shot Conditioning: Test-Time Condition Refinement for Diffusion-Based Image Restoration	https://neurips.cc/virtual/2026/poster/153799	pending	-
-152213	Beyond Single-Step Likelihood: Gibbs Variational Last Layers for Long-Horizon Dynamics Learning	https://neurips.cc/virtual/2026/poster/152213	pending	-
-149751	Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology	https://neurips.cc/virtual/2026/poster/149751	pending	-
-149352	Beyond Spatial and Temporal Priors: A Generalizable Approach for Dense Correspondence Matching	https://neurips.cc/virtual/2026/poster/149352	pending	-
-150788	Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion	https://neurips.cc/virtual/2026/poster/150788	pending	-
-153534	Beyond Stabilization: Dual-EMA Teachers for Global–Local Semantic Learning in Semi-Supervised Medical Image Segmentation	https://neurips.cc/virtual/2026/poster/153534	pending	-
-155564	Beyond Steering Vector: Flow-based Activation Steering for Inference-Time Intervention	https://neurips.cc/virtual/2026/poster/155564	pending	-
-151865	Beyond Structural Agnosticism: Stable-Rank-Guided LoRA for Structure-Aware Fine-Tuning	https://neurips.cc/virtual/2026/poster/151865	pending	-
-139429	Beyond Success Rates: Trainability and Extractability in Offline GCRL	https://neurips.cc/virtual/2026/poster/139429	pending	-
-152482	Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents	https://neurips.cc/virtual/2026/poster/152482	pending	-
-139465	Beyond Task Success: Probing Cognitive Primitives in Web Agents	https://neurips.cc/virtual/2026/poster/139465	pending	-
-155487	Beyond the Dirac Delta: Mitigating Diversity Collapse in Reinforcement Fine-Tuning for Image Generation	https://neurips.cc/virtual/2026/poster/155487	pending	-
-149458	Beyond the Full Slate: Evaluating MNL Algorithms on All Slates	https://neurips.cc/virtual/2026/poster/149458	pending	-
-150344	Beyond the Golden Teacher: Enhancing Graph Learning through LLM-GNN Co-teaching	https://neurips.cc/virtual/2026/poster/150344	pending	-
-151808	Beyond the Grid: Continuous Dictionary Pursuit for Interpretable Signal Decomposition	https://neurips.cc/virtual/2026/poster/151808	pending	-
-153402	Beyond the Half Approximation: Fair and Efficient Online Class Matching	https://neurips.cc/virtual/2026/poster/153402	pending	-
-156758	Beyond the Linear Separability Ceiling: Aligning Representations in VLMs	https://neurips.cc/virtual/2026/poster/156758	pending	-
-149841	Beyond the Node Barrier: Zero-Shot Strategy Planning for LLM Training on Super-Nodes	https://neurips.cc/virtual/2026/poster/149841	pending	-
-151177	Beyond the Prompt: Leveraging Pre-Decoding States for Jailbreak Detection in dLLMs	https://neurips.cc/virtual/2026/poster/151177	pending	-
-152483	Beyond the Readout: Reservoir State Statistics for Model-Space Learning under Sparse Observations	https://neurips.cc/virtual/2026/poster/152483	pending	-
-149001	Beyond the Training Distribution: Evaluating Predictions Under Distribution Shift and Selection Bias	https://neurips.cc/virtual/2026/poster/149001	pending	-
-150603	Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training	https://neurips.cc/virtual/2026/poster/150603	pending	-
+155550	Beyond Parameter Aggregation: Semantic Consensus for Federated Fine-Tuning of LLMs	https://neurips.cc/virtual/2026/poster/155550	included	异构客户端共享行为语义而非参数
+149097	Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging	https://neurips.cc/virtual/2026/poster/149097	included	合并时跟踪终止和重复异常
+153617	Beyond Pessimism: Offline Learning in KL-regularized Games	https://neurips.cc/virtual/2026/poster/153617	included	在 KL 正则下检验是否需要悲观估计
+152220	Beyond Pixel Space: Frequency-Domain Uncertainty Estimation for Structure-Aware Diffusion Guidance	https://neurips.cc/virtual/2026/poster/152220	included	在频域估计不确定性并引导去噪
+154585	Beyond Pixel-wise Supervision: Local Structure Regularization for Semantic Segmentation	https://neurips.cc/virtual/2026/poster/154585	included	监督语义概率的局部结构强度与方向
+155042	Beyond Prediction: Steering VLM Agents with Retrospective World Modeling	https://neurips.cc/virtual/2026/poster/155042	included	用逆向解释一致性作为过渡奖励
+152905	Beyond Proxy Metrics: MLLM-Based Human Surrogate Evaluation for Explainable AI	https://neurips.cc/virtual/2026/poster/152905	included	按解释用途选择指标并校验模型代评
+150607	Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation	https://neurips.cc/virtual/2026/poster/150607	included	先拆出区分性事实再聚合
+150023	Beyond Raw Context Transfer: Representation-based Federated Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/150023	included	比较跨站点表征与原文交换
+152198	Beyond Raw Observations: Distilling and Storing Invariant Driving Memories for Generalizable Autonomous Driving	https://neurips.cc/virtual/2026/poster/152198	included	检索决策相关不变量
+154533	Beyond Real or Fake: A Dual-Channel Authenticity and Reasoning Protocol for Photographic Assessment	https://neurips.cc/virtual/2026/poster/154533	included	分别审计相机指纹和内容一致性
+139315	Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models	https://neurips.cc/virtual/2026/poster/139315	included	将规范识别与观察者反应分开测试
+139234	Beyond Risky Activities: Bridging the Supervision Gap for Situational Risk Reasoning	https://neurips.cc/virtual/2026/poster/139234	included	构造同一行为在不同场景的风险对照
+151291	Beyond Row Alignment: Virtual-Camera-Aware Online Stereo Rectification	https://neurips.cc/virtual/2026/poster/151291	included	用深度可用性评价在线校正
+153671	Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings	https://neurips.cc/virtual/2026/poster/153671	included	从成对图像的属性判断学习检索表征
+138978	Beyond Score: A Dataset for Joint Action and Score Predictions in 2v2 Sports	https://neurips.cc/virtual/2026/poster/138978	excluded	作者摘要主要介绍跨项目数据集与已有图建模的组合，独立方法增量与可迁移规律待核实。
+154601	Beyond [SEG] Tokens: Training-Free Video Reasoning Segmentation via Counterfactual Inference  and Contrastive Concept	https://neurips.cc/virtual/2026/poster/154601	included	先离散选择实例再跟踪
+151663	Beyond Selection: Token Parameterization for Extreme Visual Token Compression	https://neurips.cc/virtual/2026/poster/151663	included	将基底截断与坐标组织独立设计
+139295	Beyond Self-Play and Scale: A Behavior Benchmark for Generalization in Autonomous Driving	https://neurips.cc/virtual/2026/poster/139295	included	将训练模拟器表现与标准规划基准分开验证
+149809	Beyond Semantic Alignment: Geometric Incomparability in Multi-Oracle Soft Fusion	https://neurips.cc/virtual/2026/poster/149809	included	先校准概率几何再做软融合
+155649	Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction	https://neurips.cc/virtual/2026/poster/155649	included	允许检索策略根据中间证据调整查询操作
+156774	Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens	https://neurips.cc/virtual/2026/poster/156774	included	单独区分中间计算支架与可读语义的贡献
+153111	Beyond SFT-to-RL: Pre-alignment via Black-box On-policy Distillation for Multimodal RL	https://neurips.cc/virtual/2026/poster/153111	included	在监督微调和强化学习间加入分布对齐
+150326	Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding	https://neurips.cc/virtual/2026/poster/150326	included	按任务融合互补视觉先验
+153799	Beyond Single-Shot Conditioning: Test-Time Condition Refinement for Diffusion-Based Image Restoration	https://neurips.cc/virtual/2026/poster/153799	included	在推理期间更新视觉条件
+152213	Beyond Single-Step Likelihood: Gibbs Variational Last Layers for Long-Horizon Dynamics Learning	https://neurips.cc/virtual/2026/poster/152213	included	用多步损失训练贝叶斯末层
+149751	Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology	https://neurips.cc/virtual/2026/poster/149751	included	用切片级报告查询局部图像特征
+149352	Beyond Spatial and Temporal Priors: A Generalizable Approach for Dense Correspondence Matching	https://neurips.cc/virtual/2026/poster/149352	included	以身份一致性学习非物理连续的对应关系
+150788	Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion	https://neurips.cc/virtual/2026/poster/150788	included	在关系空间监督融合
+153534	Beyond Stabilization: Dual-EMA Teachers for Global–Local Semantic Learning in Semi-Supervised Medical Image Segmentation	https://neurips.cc/virtual/2026/poster/153534	included	用两种 EMA 时间尺度分别监督整体和局部
+155564	Beyond Steering Vector: Flow-based Activation Steering for Inference-Time Intervention	https://neurips.cc/virtual/2026/poster/155564	included	比较激活上的固定向量与概念条件动态变换
+151865	Beyond Structural Agnosticism: Stable-Rank-Guided LoRA for Structure-Aware Fine-Tuning	https://neurips.cc/virtual/2026/poster/151865	included	按层谱结构与任务梯度分配低秩容量
+139429	Beyond Success Rates: Trainability and Extractability in Offline GCRL	https://neurips.cc/virtual/2026/poster/139429	included	以超参数景观比较策略提取的鲁棒性
+152482	Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents	https://neurips.cc/virtual/2026/poster/152482	included	检查长程前缀是否仍符合授权任务
+139465	Beyond Task Success: Probing Cognitive Primitives in Web Agents	https://neurips.cc/virtual/2026/poster/139465	included	用配对任务隔离规划和探索能力
+155487	Beyond the Dirac Delta: Mitigating Diversity Collapse in Reinforcement Fine-Tuning for Image Generation	https://neurips.cc/virtual/2026/poster/155487	included	在固定对齐要求下显式评估多样性
+149458	Beyond the Full Slate: Evaluating MNL Algorithms on All Slates	https://neurips.cc/virtual/2026/poster/149458	included	按实际小候选集而非全库误差选模型
+150344	Beyond the Golden Teacher: Enhancing Graph Learning through LLM-GNN Co-teaching	https://neurips.cc/virtual/2026/poster/150344	included	让文本和图模型互教并追踪何时由冲突转为一致
+151808	Beyond the Grid: Continuous Dictionary Pursuit for Interpretable Signal Decomposition	https://neurips.cc/virtual/2026/poster/151808	included	在连续参数空间拟合可解释信号原子
+153402	Beyond the Half Approximation: Fair and Efficient Online Class Matching	https://neurips.cc/virtual/2026/poster/153402	included	按阈值在类别公平和匹配效率之间切换
+156758	Beyond the Linear Separability Ceiling: Aligning Representations in VLMs	https://neurips.cc/virtual/2026/poster/156758	included	用线性探针区分视觉表示不足和读出失败
+149841	Beyond the Node Barrier: Zero-Shot Strategy Planning for LLM Training on Super-Nodes	https://neurips.cc/virtual/2026/poster/149841	included	在高速互连平台重新评估跨节点张量和专家并行
+151177	Beyond the Prompt: Leveraging Pre-Decoding States for Jailbreak Detection in dLLMs	https://neurips.cc/virtual/2026/poster/151177	included	用扩散解码前的响应表征补充输入风险检测
+152483	Beyond the Readout: Reservoir State Statistics for Model-Space Learning under Sparse Observations	https://neurips.cc/virtual/2026/poster/152483	included	用动态轨迹统计补充稀疏通道的拟合参数
+149001	Beyond the Training Distribution: Evaluating Predictions Under Distribution Shift and Selection Bias	https://neurips.cc/virtual/2026/poster/149001	included	同时校正目标协变量偏移和选择性标签
+150603	Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training	https://neurips.cc/virtual/2026/poster/150603	included	先用小规模测量和全局推演筛训练配置
 149744	Beyond Thinking: Imagining in 360$^\circ$ for Humanoid Visual Search	https://neurips.cc/virtual/2026/poster/149744	pending	-
 155293	Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation	https://neurips.cc/virtual/2026/poster/155293	pending	-
 140090	Beyond Training Time, Test-Time Coordination is Essential for Cooperative MARL	https://neurips.cc/virtual/2026/poster/140090	pending	-

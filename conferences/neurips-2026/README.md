@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **989** 篇，暂收录 **897** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1049** 篇，暂收录 **956** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -905,3 +905,62 @@
 | 大语言模型 | 微调路由 | [Beyond LoRA vs. Full Fine-Tuning: Gradient-Guided Optimizer Routing for LLM Adaptation](cards-0002.md#paper-154880) | 在优化器层动态分配低秩和全量更新。 |
 | 神经形态计算 | 频率选择 | [Beyond Low-Pass Dynamics: Frequency-Selective Spiking Reservoirs with Resonant Neurons](cards-0002.md#paper-148662) | 用异构共振单元辨别不同时标。 |
 | 统计学习 | 局部校准 | [Beyond Marginal Coverage: Efficient Localized Conformal Prediction via Residual Rank Calibration](cards-0002.md#paper-153265) | 用标准化残差的局部秩代替逐查询的加权分位数。 |
+| 系统效率 | 稀疏算子 | [Beyond Masked Sparsity: SNACK Enables Truly Sparse Neural Networks on GPU](cards-0002.md#paper-150469) | 高稀疏度时改用真正稀疏的前后向 |
+| 统计学习 | 参数估计 | [Beyond Maximum Likelihood: Variational Inequality Estimation for Generalized Linear Models](cards-0002.md#paper-152448) | 对非标准链接用变分不等式估计 |
+| 视觉 | 逆问题 | [Beyond MMSE: Enhancing PnP Restoration with ProxiMAP](cards-0002.md#paper-151995) | 使残余噪声匹配去噪器训练噪声 |
+| 量子学习 | 表征诊断 | [Beyond MNIST: Limitations of Amplitude Encoding on Quantum Classification](cards-0002.md#paper-150197) | 诊断编码集中后再投入训练 |
+| 多模态 | 模型融合 | [Beyond Modality Fusion: Deep Ensembles for Multimodal Classification](cards-0002.md#paper-155113) | 等参数比较单模态集成和特征融合 |
+| 信号处理 | 结构保真 | [Beyond MSE: Differentiable Complexity Priors for Structure-Preserving Neural Denoising](cards-0002.md#paper-153782) | 用复杂度一致性监督去噪 |
+| 图学习 | 离散扩散 | [Beyond Node Sequences: Relational Diffusion for Unified Graph Learning](cards-0002.md#paper-148255) | 以边为基本生成单位 |
+| 视觉 | 异常检测 | [Beyond Normal References: Discriminative Few-Shot Anomaly Detection](cards-0002.md#paper-153262) | 将异常参考用于学习偏离正常的方向 |
+| 强化学习 | 先验诊断 | [Beyond One-Size-Fits-All: Diagnosis-Driven Online Reinforcement Learning with Offline Priors](cards-0002.md#paper-140053) | 用在线证据决定何时削弱离线先验 |
+| Agent | 过程奖励 | [Beyond Outcome Rewards: Process-Aware Optimization for Search Agents](cards-0002.md#paper-148305) | 按结果和当前证据调整搜索奖励 |
+| Agent | 自蒸馏 | [Beyond Outcome Rewards: Step-Level Self-Distilled Policy Optimization for Deep Search Agents](cards-0002.md#paper-154780) | 只在失败轨迹上按步骤调整优势幅度 |
+| 大语言模型 | 提示优化 | [Beyond Outcome: Trajectory-Driven Prompt Optimization via Multi-Dimensional Rewards](cards-0002.md#paper-150285) | 监督反思过程的一致性 |
+| 图学习 | 传播诊断 | [Beyond Oversquashing: Understanding Signal Propagation in GNNs Via Observables](cards-0002.md#paper-154868) | 测特定源到目标区域的信号输运 |
+| 大语言模型 | 偏好优化 | [Beyond Pairs: Your Language Model is Secretly Optimizing a Preference Graph](cards-0002.md#paper-150929) | 按偏好图聚合多样本，平局不给梯度 |
+| 联邦学习 | 行为蒸馏 | [Beyond Parameter Aggregation: Semantic Consensus for Federated Fine-Tuning of LLMs](cards-0002.md#paper-155550) | 异构客户端共享行为语义而非参数 |
+| 大语言模型 | 模型合并 | [Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging](cards-0002.md#paper-149097) | 合并时跟踪终止和重复异常 |
+| 强化学习 | 离线博弈 | [Beyond Pessimism: Offline Learning in KL-regularized Games](cards-0002.md#paper-153617) | 在 KL 正则下检验是否需要悲观估计 |
+| 视觉 | 扩散采样 | [Beyond Pixel Space: Frequency-Domain Uncertainty Estimation for Structure-Aware Diffusion Guidance](cards-0002.md#paper-152220) | 在频域估计不确定性并引导去噪 |
+| 视觉 | 边界监督 | [Beyond Pixel-wise Supervision: Local Structure Regularization for Semantic Segmentation](cards-0002.md#paper-154585) | 监督语义概率的局部结构强度与方向 |
+| Agent | 世界模型 | [Beyond Prediction: Steering VLM Agents with Retrospective World Modeling](cards-0002.md#paper-155042) | 用逆向解释一致性作为过渡奖励 |
+| 可解释性 | 人机评测 | [Beyond Proxy Metrics: MLLM-Based Human Surrogate Evaluation for Explainable AI](cards-0002.md#paper-152905) | 按解释用途选择指标并校验模型代评 |
+| Agent | 记忆检索 | [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](cards-0002.md#paper-150607) | 先拆出区分性事实再聚合 |
+| 大语言模型 | 联邦检索 | [Beyond Raw Context Transfer: Representation-based Federated Retrieval-Augmented Generation](cards-0002.md#paper-150023) | 比较跨站点表征与原文交换 |
+| 自动驾驶 | 记忆表征 | [Beyond Raw Observations: Distilling and Storing Invariant Driving Memories for Generalizable Autonomous Driving](cards-0002.md#paper-152198) | 检索决策相关不变量 |
+| 计算机视觉 | 图像取证 | [Beyond Real or Fake: A Dual-Channel Authenticity and Reasoning Protocol for Photographic Assessment](cards-0002.md#paper-154533) | 分别审计相机指纹和内容一致性 |
+| 大语言模型 | 社会推理评测 | [Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models](cards-0002.md#paper-139315) | 将规范识别与观察者反应分开测试 |
+| 多模态学习 | 安全数据 | [Beyond Risky Activities: Bridging the Supervision Gap for Situational Risk Reasoning](cards-0002.md#paper-139234) | 构造同一行为在不同场景的风险对照 |
+| 计算机视觉 | 立体校正 | [Beyond Row Alignment: Virtual-Camera-Aware Online Stereo Rectification](cards-0002.md#paper-151291) | 用深度可用性评价在线校正 |
+| 多模态学习 | 属性监督 | [Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings](cards-0002.md#paper-153671) | 从成对图像的属性判断学习检索表征 |
+| 计算机视觉 | 视频分割 | [Beyond [SEG] Tokens: Training-Free Video Reasoning Segmentation via Counterfactual Inference  and Contrastive Concept](cards-0002.md#paper-154601) | 先离散选择实例再跟踪 |
+| 多模态学习 | 视觉压缩 | [Beyond Selection: Token Parameterization for Extreme Visual Token Compression](cards-0002.md#paper-151663) | 将基底截断与坐标组织独立设计 |
+| 自动驾驶 | 基准诊断 | [Beyond Self-Play and Scale: A Behavior Benchmark for Generalization in Autonomous Driving](cards-0002.md#paper-139295) | 将训练模拟器表现与标准规划基准分开验证 |
+| 统计学习 | 概率融合 | [Beyond Semantic Alignment: Geometric Incomparability in Multi-Oracle Soft Fusion](cards-0002.md#paper-149809) | 先校准概率几何再做软融合 |
+| Agent | 检索 | [Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction](cards-0002.md#paper-155649) | 允许检索策略根据中间证据调整查询操作 |
+| 学习理论 | 推理诊断 | [Beyond Semantics: The Unreasonable Effectiveness of Reasonless Intermediate Tokens](cards-0002.md#paper-156774) | 单独区分中间计算支架与可读语义的贡献 |
+| 多模态学习 | 后训练 | [Beyond SFT-to-RL: Pre-alignment via Black-box On-policy Distillation for Multimodal RL](cards-0002.md#paper-153111) | 在监督微调和强化学习间加入分布对齐 |
+| 多模态学习 | 空间先验 | [Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding](cards-0002.md#paper-150326) | 按任务融合互补视觉先验 |
+| 计算机视觉 | 扩散推理 | [Beyond Single-Shot Conditioning: Test-Time Condition Refinement for Diffusion-Based Image Restoration](cards-0002.md#paper-153799) | 在推理期间更新视觉条件 |
+| 科学机器学习 | 动力学建模 | [Beyond Single-Step Likelihood: Gibbs Variational Last Layers for Long-Horizon Dynamics Learning](cards-0002.md#paper-152213) | 用多步损失训练贝叶斯末层 |
+| 医学影像 / 多模态 | 弱监督对齐 | [Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](cards-0002.md#paper-149751) | 用切片级报告查询局部图像特征 |
+| 计算机视觉 | 密集匹配 | [Beyond Spatial and Temporal Priors: A Generalizable Approach for Dense Correspondence Matching](cards-0002.md#paper-149352) | 以身份一致性学习非物理连续的对应关系 |
+| 多模态学习 | 表征约束 | [Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion](cards-0002.md#paper-150788) | 在关系空间监督融合 |
+| 医学影像 | 半监督学习 | [Beyond Stabilization: Dual-EMA Teachers for Global–Local Semantic Learning in Semi-Supervised Medical Image Segmentation](cards-0002.md#paper-153534) | 用两种 EMA 时间尺度分别监督整体和局部 |
+| 大语言模型 | 推理干预 | [Beyond Steering Vector: Flow-based Activation Steering for Inference-Time Intervention](cards-0002.md#paper-155564) | 比较激活上的固定向量与概念条件动态变换 |
+| 大语言模型 | 参数高效微调 | [Beyond Structural Agnosticism: Stable-Rank-Guided LoRA for Structure-Aware Fine-Tuning](cards-0002.md#paper-151865) | 按层谱结构与任务梯度分配低秩容量 |
+| 强化学习 | 评测诊断 | [Beyond Success Rates: Trainability and Extractability in Offline GCRL](cards-0002.md#paper-139429) | 以超参数景观比较策略提取的鲁棒性 |
+| Agent | 在线监控 | [Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents](cards-0002.md#paper-152482) | 检查长程前缀是否仍符合授权任务 |
+| Agent | 能力诊断 | [Beyond Task Success: Probing Cognitive Primitives in Web Agents](cards-0002.md#paper-139465) | 用配对任务隔离规划和探索能力 |
+| 生成模型 | 强化微调 | [Beyond the Dirac Delta: Mitigating Diversity Collapse in Reinforcement Fine-Tuning for Image Generation](cards-0002.md#paper-155487) | 在固定对齐要求下显式评估多样性 |
+| 推荐系统 | 稳健性评测 | [Beyond the Full Slate: Evaluating MNL Algorithms on All Slates](cards-0002.md#paper-149458) | 按实际小候选集而非全库误差选模型 |
+| 图学习 | 双向蒸馏 | [Beyond the Golden Teacher: Enhancing Graph Learning through LLM-GNN Co-teaching](cards-0002.md#paper-150344) | 让文本和图模型互教并追踪何时由冲突转为一致 |
+| 信号处理 | 连续稀疏分解 | [Beyond the Grid: Continuous Dictionary Pursuit for Interpretable Signal Decomposition](cards-0002.md#paper-151808) | 在连续参数空间拟合可解释信号原子 |
+| 在线优化 | 公平分配 | [Beyond the Half Approximation: Fair and Efficient Online Class Matching](cards-0002.md#paper-153402) | 按阈值在类别公平和匹配效率之间切换 |
+| 多模态学习 | 表征诊断 | [Beyond the Linear Separability Ceiling: Aligning Representations in VLMs](cards-0002.md#paper-156758) | 用线性探针区分视觉表示不足和读出失败 |
+| 机器学习系统 | 并行策略 | [Beyond the Node Barrier: Zero-Shot Strategy Planning for LLM Training on Super-Nodes](cards-0002.md#paper-149841) | 在高速互连平台重新评估跨节点张量和专家并行 |
+| 大语言模型 | 防护检测 | [Beyond the Prompt: Leveraging Pre-Decoding States for Jailbreak Detection in dLLMs](cards-0002.md#paper-151177) | 用扩散解码前的响应表征补充输入风险检测 |
+| 时间序列 | 表示学习 | [Beyond the Readout: Reservoir State Statistics for Model-Space Learning under Sparse Observations](cards-0002.md#paper-152483) | 用动态轨迹统计补充稀疏通道的拟合参数 |
+| 统计学习 | 偏移风险估计 | [Beyond the Training Distribution: Evaluating Predictions Under Distribution Shift and Selection Bias](cards-0002.md#paper-149001) | 同时校正目标协变量偏移和选择性标签 |
+| 机器学习系统 | 分布式训练调参 | [Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training](cards-0002.md#paper-150603) | 先用小规模测量和全局推演筛训练配置 |
