@@ -108,9 +108,9 @@ number	openreview_id	title	paper_url	reason	status
 107	GFxjqZVSND	M3P-R1: Reinforcement Learning for Large Language Model Guided Multi-Modal Motion Planning via MIP Code Generation	https://openreview.net/forum?id=GFxjqZVSND	让模型生成可由求解器验证的规划约束	included
 108	9I9DPyr2f9	Training Robots to Reason in Natural Language via Reinforcement Learning	https://openreview.net/forum?id=9I9DPyr2f9	用离线动作评分训练生成自由文本指导的高层模型	included
 109	2vDRocNuih	PAKT: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning	https://openreview.net/forum?id=2vDRocNuih	采集时约束人工引导轨迹以匹配部署执行接口	included
-110	9seU2kEIxR	Q-OIL: Optimistic Exploration in Learning from Human Interventions	https://openreview.net/forum?id=9seU2kEIxR		pending
+110	9seU2kEIxR	Q-OIL: Optimistic Exploration in Learning from Human Interventions	https://openreview.net/forum?id=9seU2kEIxR	用真实停滞干预数据校准模拟人类，并重访有信息的状态	included
 111	s8ZiyIAn3z	Self-play is not enough: human imitation improves self-play autonomy in the wild	https://openreview.net/forum?id=s8ZiyIAn3z		pending
-112	MQdt80qzTP	A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control	https://openreview.net/forum?id=MQdt80qzTP		pending
+112	MQdt80qzTP	A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control	https://openreview.net/forum?id=MQdt80qzTP	按当前成功率筛选训练起点与任务配置	included
 113	JqZEEaNDLJ	HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning	https://openreview.net/forum?id=JqZEEaNDLJ		pending
 114	RS2INStAhX	Telescopes are Optomechanical Robots: Training Compositional Visuomotor Policies for Coordinated Control	https://openreview.net/forum?id=RS2INStAhX		pending
 115	W443fVglzC	Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation	https://openreview.net/forum?id=W443fVglzC		pending
