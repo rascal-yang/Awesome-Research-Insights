@@ -6410,26 +6410,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6409	hasan26a	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：VLM因果评测可分别打自然语言解释与显式箭头链分数，再移除示例/框架提示看变化；高文字分或强scaffold下通过不保证结构在弱提示下稳定。；边界：文字链score gap不证明缺乏时间本体或内部因果表征，scaffold敏感也不等无能力。模型参数量/AnyRes/训练不同，不能只归因目标。NeXT原始text7.85/chain7.42与表CDD0.00对应口径待核，不替作者修值；无干预真值任务仅测结构proxy。；初筛整理，原文与先例尚未统一核查。[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/hasan26a/hasan26a.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/hasan26a/hasan26a.pdf#page=6)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/hasan26a/hasan26a.pdf#page=7)	scored
 6410	hernandez-garci-a26a							初筛，原文与先例核查待补：缓存PDF4–5分析大型科技企业对规模化/通用AI研究的激励并引用既有能耗、数据劳动与社会影响研究。当前未提出独立新训练/部署/测量算法或原始受控神经失效规律，初筛排除；针对产业激励的社会分析不能替代相关DL具体技术增量，非因议题/Position标签排除。	rule-excluded
 6411	herrmann26a	3	4	2	4	65		初筛，原文与先例核查待补：暂定评分依据：学习进展型curriculum/探索策略可把最近compression breakthrough至今的停滞与突破幅度分开；在所分析的算法先验与理想复杂度profile下，停滞长度比累计改进更能约束后续压缩希望，不能直接照搬为SGD早停阈值。；边界：t是复杂度cutoff不是神经训练step/墙钟；profile转换用不可计算BusyBeaver，完整K/profile不可由常规loss观测直接获得。指数结论有log精度与先验条件，不代表所有迟发能力收益消失；神经surrogate/curriculum控制增益待验证。；初筛整理，原文与先例尚未统一核查。[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/herrmann26a/herrmann26a.pdf#page=6)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/herrmann26a/herrmann26a.pdf#page=7)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/herrmann26a/herrmann26a.pdf#page=8)	scored
-6412	hogberg26a							待原文复核评分	pending
-6413	hu26bl							待原文复核评分	pending
-6414	huang26cp							待原文复核评分	pending
-6415	huang26cq							待原文复核评分	pending
-6416	irwin26a							待原文复核评分	pending
-6417	jafari26a							待原文复核评分	pending
-6418	jarvis26a							待原文复核评分	pending
-6419	jha26a							待原文复核评分	pending
-6420	jiang26bi							待原文复核评分	pending
-6421	jiang26bj							待原文复核评分	pending
-6422	jimenez26a							待原文复核评分	pending
-6423	jo26b							待原文复核评分	pending
-6424	joshi26a							待原文复核评分	pending
-6425	kadri26a							待原文复核评分	pending
-6426	kale26a							待原文复核评分	pending
-6427	kambhampati26a							待原文复核评分	pending
-6428	kasneci26a							待原文复核评分	pending
-6429	katz26a							待原文复核评分	pending
-6430	kaul26a							待原文复核评分	pending
-6431	kaur26a							待原文复核评分	pending
+6412	hogberg26a							初筛，原文与先例核查待补：现有PDF第3–5页通过已有MNIST/Mars等案例论证ground truth由人和技术情境建构，主张situated reliability和透明披露。当前没有新增label聚合、测量误差估计或适用域判断算法，也没有原创受控技术失败规律；认识论说明与既有案例不单独形成相关DL具体新选择，暂排。	rule-excluded
+6413	hu26bl							初筛，原文与先例核查待补：现有PDF第3–5页从417文献抽778BVI assistance实例，按reading/mobility等需求归类并提lifecycle accessibility alignment。具体风险有意义，但当前无独立模型目标/交互控制机制，实例频次为需求taxonomy而非同条件agent失效/改进实验；不能仅由assistive机器人主题通过硬门槛，暂排。	rule-excluded
+6414	huang26cp	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按分级提示注入区分视觉发现与计算失败，最近方法差异见baseline且待核；复用5：评VLM物理推理可先测reference识别/文本知识，再在同图题逐级点名reference、属性和oracle数值；把发现缺口与算术错误分开，但提示增益不是agency内部机制因果证明。 可用4受10图curated probe与选topmodel条件有限，stage分类凭CoT不认证真实hidden搜索顺序。level3提供答案所需数值改变信息量，group-level知识准确不等每实例充分。temperature Celsius相对误差及负/零label口径有问题，单位/denominator处理待核；图像物理可推断性和多次采样预算待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+6415	huang26cq							初筛，原文与先例核查待补：现有PDF第3–5页汇总已有RL/SFT/coldstart/constraint refinement工作，给何时先监督、何时RL和reward minimalism议程。当前没有新训练调度准则的可检验阈值或原创受控比较，引用stage pattern不独立证明RL只能/通常调整现有能力；按文献重述和建议暂排。	rule-excluded
+6416	irwin26a							初筛，原文与先例核查待补：现有PDF第3–4页讨论token税作为usage surcharge与经济风险，blackbox verification/norm-based rate/whitebox audit列技术research roadmap。当前未实现新计量/审计算法或相关DL训练/推理规则，税收治理与未来问题本身不足独立增量，暂排。	rule-excluded
+6417	jafari26a							初筛，原文与先例核查待补：现有PDF第3–4页安全可分的通用数学部分是near-identity/RIP下无配对点集匹配充分条件与线性map/assignment交替least-squares，求解步骤属成熟shuffled regression/OT block optimization。当前新增主要将已有几何稳定性条件按时间重参数化，尚未分离新匹配准则；worstcase hardness亦不等每个超阈值实例必难，独立原作关系待统一核，暂排，不以领域名排除。	rule-excluded
+6418	jarvis26a							初筛，原文与先例核查待补：现有PDF第3–5页把已有synthetic-data model-collapse/tail erasure证据同low-resource文化/环境成本联系，提出保护数据与参与治理方向。当前无新增recursive training目标、tail保留估计器或original控制实验，低资源影响论证不能替代独立技术机制，暂排。	rule-excluded
+6419	jha26a							初筛，原文与先例核查待补：现有PDF第3–5页区分task reliability/social judiciousness/takeover avoidance与competence/incompetence threatmodels，要求说明alignment proxy及背景承诺。当前为概念/规范澄清，未给新loss、诊断统计或控制策略，也无独立实证law；暂排。	rule-excluded
+6420	jiang26bi							初筛，原文与先例核查待补：现有PDF第3–5页以FL合作/隐私/去中心化为治理愿景，汇总data/compute marketplaces和既有incentive design。当前无新aggregation、client selection、privacy机制或price-update algorithm；FL普惠动机与已有技术重用不独立成立，暂排。	rule-excluded
+6421	jiang26bj							初筛，原文与先例核查待补：现有PDF第3–5页web verbs把API或maintained Playwright workflow封装成typed inputs/outputs/pre-postconditions/logging，让agent编程组合。该机制属成熟tool schemas、design-by-contract和GUI macro抽象，100tasks成功依人工维护特定verb但未分离新学习/规划/验证算法；原型案例不能单独建立独立接口原理，暂排。	rule-excluded
+6422	jimenez26a	3	5	3	2	69		初筛，原文与先例核查待补：新增3暂按数据重采样与seed双层UQ参照，最近方法差异见baseline且待核；复用5：评deep ensemble的epistemic分量可分开重采数据与同数据换seed，并用known-noise synthetic检查预测偏差是否被variance head吸收；单dataset成员差不能自动解释全部可约误差。 可用3受reference是跨data算法抽样分布，未必等固定dataset的Bayesian posterior目标；bootstrap/后验有不同estimand，不能一概说错误。真实data分区代重采并不独立同分布；variance identity需匹配loss和条件，finite DNN universal approximation也不自动零误差。200models成本与先例已有同类演示待核。 独特2暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+6423	jo26b							初筛，原文与先例核查待补：现有PDF第3–7页以既有CTT/IRT/DINA/Bayesian skillnet估相同LLM response，mean-zero perturbation恢复identifiability，评七模型八任务并给EvaluationCard。不同模型假设产生不同latent skill归因属于成熟psychometrics性质，未分离新估计器或超出该性质的独立规律；CTT/IRT排名总体一致，不能把单位不同的ability差称真实能力改动，暂排。	rule-excluded
+6424	joshi26a							初筛，原文与先例核查待补：现有PDF第3–5页将SAE/auto-interpretability/circuit evidence对应Pearl因果ladder，借既有CRL identifiability和interaction-relative概念说明claim边界。当前没有新intervention/semantic identification算法或原创控制试验，因果证据要求及known latent假设的解释不独立构成新机制，暂排。	rule-excluded
+6425	kadri26a	3	4	2	3	62		初筛，原文与先例核查待补：新增3暂按非separable部分迹矩阵kernel与电路边界，最近方法差异见baseline且待核；复用4：多输出kernel head若需input-dependent output coupling，可构造unitary耦合后partial-trace的operator kernel，先以classical ridge检验结构收益；初步电路与实验cross-feature不一致时不能宣称已实现同核量子加速。 可用2受非separable U不自动证明任意σxz是positive operator kernel，需合法cross-feature构造；ridge输出也非自动physical CPTP约束。实验σiσj一般非Hermitian，而电路只给density σ，不能当实验kernel已实现。没有量子加速/shot复杂度优势证据，对classical entangled OVK公平比较及full error表待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/8/9页。	scored
+6426	kale26a							初筛，原文与先例核查待补：现有PDF第3–5页讨论防范儿童性剥削内容的access/透明性/审计限制并列15open problems与开发治理建议。当前没有给可复用的新检测/模型防护目标、测量算法或经控制的统计规律；研究约束和议程不单独过机制门槛，暂排，不需因保护主题改pending。	rule-excluded
+6427	kambhampati26a							初筛，原文与先例核查待补：现有PDF第4–5页以已有unfaithful CoT/ITG解释和planning traces例子反对anthropomorphic命名，强调中间tokens不可直接视真实reasoning过程。当前未新增trace faithfulness测试、inference机制或独立controlledfailurelaw，已有反例与命名主张不足技术新增，暂排。	rule-excluded
+6428	kasneci26a	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按压力类型与judge差异的同题sycophancy剖面，最近方法差异见baseline且待核；复用5：LLM tutor应对同一误解交叉测试assertiveness与context/authority/social压力，并分别报judge分歧和人工复核；总体reasoning成绩或单一judge可能漏掉社会性退让。 可用4受作者复核非独立盲审ground truth，两个judge同provider结构且阈值差异大；只有disagree全审会选择性补标签，agreement100样本不足校正全部rate。T2-only不等T1→T2因果退让，模板/validator可能限制naturalness，family内重复相关需cluster CI；不认证真实教育危害因果。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+6429	katz26a							初筛，原文与先例核查待补：现有PDF第3–5页倡导PDDL/独立plan validation、结构split/预算分解/难度控制，均来自成熟planning community protocol。当前未给新planner、validator或原始受控诊断规律，正确借鉴既有工具的倡议不等独立增量，暂排。	rule-excluded
+6430	kaul26a							初筛，原文与先例核查待补：现有PDF第3–5页以少量案例和现有outcome数据库/RCT文献，主张medicalAI训练与评价重真实outcomes而非指南/意见。当前没有新的outcome estimator、causal adjustment或通用学习目标；case提示附加改变答案不独立识别治疗效应，也不足可复用技术机制，暂排，不因医疗主题。	rule-excluded
+6431	kaur26a							初筛，原文与先例核查待补：现有PDF第3–5页用epistemic incompleteness和行为角色边界解释proactivity，比较既有IR/recommendation/agents的已知未知覆盖。当前为哲学/行为设计议程，没有新触发规则、信息增益目标或可检验控制机制；unknown-unknowns命名不单独建立技术增量，暂排。	rule-excluded
 6432	kayyam26b							待原文复核评分	pending
 6433	keswani26a							待原文复核评分	pending
 6434	keuper26a							待原文复核评分	pending

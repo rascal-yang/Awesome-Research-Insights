@@ -620,6 +620,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zohrabi26a-evaluation"></a>[HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](../../conferences/icml-2026/cards/6301-6400.md#paper-zohrabi26a)
 - <a id="gao26ar-evaluation"></a>[Position: Reasoning After Perception Means Reasoning Without Vision](../../conferences/icml-2026/cards/6301-6400.md#paper-gao26ar)
 - <a id="hasan26a-evaluation"></a>[Position: What Cézanne Knew About Visual Intelligence That Vision-Language Models Miss](../../conferences/icml-2026/cards/6401-6500.md#paper-hasan26a)
+- <a id="huang26cp-evaluation"></a>[Position: The Systemic Lack of Agency in Visual Reasoning](../../conferences/icml-2026/cards/6401-6500.md#paper-huang26cp)
 
 <a id="by-theory-statistics"></a>
 

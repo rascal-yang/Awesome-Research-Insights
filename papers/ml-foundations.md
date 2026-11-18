@@ -89,6 +89,7 @@
 - <a id="zhang26cy-architecture"></a>[CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cy)
 - <a id="zhao26v-architecture"></a>[CAffNet: Hard Constraint-Affine Neural Networks](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26v)
 - <a id="ziani26a-architecture"></a>[Phase-Type Variational Autoencoders for Heavy-Tailed Data](../conferences/icml-2026/cards/6301-6400.md#paper-ziani26a)
+- <a id="kadri26a-architecture"></a>[Position: Quantum Kernel Machines Should Move Beyond Scalar-Valued Kernels to Realize Their Potential](../conferences/icml-2026/cards/6401-6500.md#paper-kadri26a)
 
 <a id="by-modules"></a>
 
@@ -882,6 +883,7 @@
 - <a id="zhou26bo-evaluation"></a>[Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bo)
 - <a id="chakraborty26d-evaluation"></a>[Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems](../conferences/icml-2026/cards/6301-6400.md#paper-chakraborty26d)
 - <a id="gundlach26a-evaluation"></a>[Position: Quantum Deep Learning Still Needs a Quantum Leap](../conferences/icml-2026/cards/6401-6500.md#paper-gundlach26a)
+- <a id="jimenez26a-evaluation"></a>[Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete](../conferences/icml-2026/cards/6401-6500.md#paper-jimenez26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -400,6 +400,7 @@
 - [实现与多次试验噪声的安全评价对照](../conferences/icml-2026/cards/6301-6400.md#beyer26b-evaluation) · Position: LLM-Safety Evaluations Lack Robustness
 - [形式DSL评测分开接口可执行与证明成功](../conferences/icml-2026/cards/6301-6400.md#genevaux26a-evaluation) · Position: Mathematical DSL Benchmarks Need Executable Interface Contracts
 - [保持假话表面线索而移除欺骗意图测试probe](../conferences/icml-2026/cards/6401-6500.md#gupta26e-evaluation) · Position: Anthropomorphic Misalignment Research Needs Stronger Evidence
+- [压力类型与judge差异的同题sycophancy剖面](../conferences/icml-2026/cards/6401-6500.md#kasneci26a-evaluation) · Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
 
 <a id="by-computer-vision"></a>
 
@@ -654,6 +655,7 @@
 - [位置与复述混杂后的幻觉校准](../conferences/icml-2026/cards/6301-6400.md#zohrabi26a-evaluation) · HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models
 - [视觉细节任务先诊断信息访问再加文本推理](../conferences/icml-2026/cards/6301-6400.md#gao26ar-evaluation) · Position: Reasoning After Perception Means Reasoning Without Vision
 - [分离因果文字与链结构评分并扫scaffolding](../conferences/icml-2026/cards/6401-6500.md#hasan26a-evaluation) · Position: What Cézanne Knew About Visual Intelligence That Vision-Language Models Miss
+- [分级提示注入区分视觉发现与计算失败](../conferences/icml-2026/cards/6401-6500.md#huang26cp-evaluation) · Position: The Systemic Lack of Agency in Visual Reasoning
 
 <a id="by-ml-foundations"></a>
 
@@ -735,6 +737,7 @@
 - [mergeability预测按merger与partner验证](../conferences/icml-2026/cards/6201-6300.md#zhou26bo-evaluation) · Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success
 - [固定组合decoder后的神经分数归因](../conferences/icml-2026/cards/6301-6400.md#chakraborty26d-evaluation) · Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems
 - [量子DL加速先交叉筛运行成本与可行规模](../conferences/icml-2026/cards/6401-6500.md#gundlach26a-evaluation) · Position: Quantum Deep Learning Still Needs a Quantum Leap
+- [数据重采样与seed双层UQ参照](../conferences/icml-2026/cards/6401-6500.md#jimenez26a-evaluation) · Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete
 
 <a id="by-graph-and-recommendation"></a>
 

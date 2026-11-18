@@ -400,6 +400,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: LLM-Safety Evaluations Lack Robustness](../../conferences/icml-2026/cards/6301-6400.md#beyer26b-evaluation) · 中文
 - [Position: Mathematical DSL Benchmarks Need Executable Interface Contracts](../../conferences/icml-2026/cards/6301-6400.md#genevaux26a-evaluation) · 中文
 - [Position: Anthropomorphic Misalignment Research Needs Stronger Evidence](../../conferences/icml-2026/cards/6401-6500.md#gupta26e-evaluation) · 中文
+- [Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks](../../conferences/icml-2026/cards/6401-6500.md#kasneci26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -654,6 +655,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](../../conferences/icml-2026/cards/6301-6400.md#zohrabi26a-evaluation) · 中文
 - [Position: Reasoning After Perception Means Reasoning Without Vision](../../conferences/icml-2026/cards/6301-6400.md#gao26ar-evaluation) · 中文
 - [Position: What Cézanne Knew About Visual Intelligence That Vision-Language Models Miss](../../conferences/icml-2026/cards/6401-6500.md#hasan26a-evaluation) · 中文
+- [Position: The Systemic Lack of Agency in Visual Reasoning](../../conferences/icml-2026/cards/6401-6500.md#huang26cp-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -735,6 +737,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](../../conferences/icml-2026/cards/6201-6300.md#zhou26bo-evaluation) · 中文
 - [Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems](../../conferences/icml-2026/cards/6301-6400.md#chakraborty26d-evaluation) · 中文
 - [Position: Quantum Deep Learning Still Needs a Quantum Leap](../../conferences/icml-2026/cards/6401-6500.md#gundlach26a-evaluation) · 中文
+- [Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete](../../conferences/icml-2026/cards/6401-6500.md#jimenez26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

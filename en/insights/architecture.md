@@ -325,6 +325,7 @@ Model-wide design and information flow.
 - [CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](../../conferences/icml-2026/cards/5801-5900.md#zhang26cy-architecture) · 中文
 - [CAffNet: Hard Constraint-Affine Neural Networks](../../conferences/icml-2026/cards/6001-6100.md#zhao26v-architecture) · 中文
 - [Phase-Type Variational Autoencoders for Heavy-Tailed Data](../../conferences/icml-2026/cards/6301-6400.md#ziani26a-architecture) · 中文
+- [Position: Quantum Kernel Machines Should Move Beyond Scalar-Valued Kernels to Realize Their Potential](../../conferences/icml-2026/cards/6401-6500.md#kadri26a-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
