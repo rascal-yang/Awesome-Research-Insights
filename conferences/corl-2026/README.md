@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **374 / 687** 篇，当前收录 **351** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **442 / 687** 篇，当前收录 **413** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -357,3 +357,65 @@
 | 具身智能 / 机器人设计 | 扩散引导 | [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design](cards.md#paper-ypkdkkod11) | 复用与奖励无关的动力学模型，为不同设计目标提供扩散采样引导。 |
 | 具身智能 / 灵巧操作 | 形态条件化 | [XDex: Learning Cross-Embodiment Dexterous Grasping with 1000 Hands](cards.md#paper-wt25smjmeq) | 跨手迁移时区分物体、手形态和抓取姿态表示，并把形态多样性作为数据选型变量。 |
 | 具身智能 / 灵巧操作 | 形态条件化 | [DiffMorphGrasp: A Diffusion Framework Conditioned on Hand Morphology for Cross-Embodiment Grasp Generation](cards.md#paper-4soiqrxqxj) | 跨手共用规范化动作空间，但按具体运动链计算关节损失。 |
+| 具身智能 / 灵巧操作 | 跨形态表示 | [Multi-GraspLLM: Multimodal LLM for Multi-Hand Semantic Guided Grasp Generation](cards.md#paper-hpz010j4ea) | 新手型接入时复用共享抓取潜空间，只适配新手型。 |
+| 具身智能 / 灵巧操作 | 抓取优化 | [Guiding Unified Dexterous Grasp Synthesis Across Modes and Scales via Learned Human Priors](cards.md#paper-cxxugluna2) | 用小规模人体抓取先验初始化接触模式及手腕位姿。 |
+| 具身智能 / 灵巧操作 | 技能预训练 | [From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation](cards.md#paper-hdnvcokmxh) | 把静态抓取标注变成低层控制预训练数据，用于操作有活动部件的工具。 |
+| 具身智能 / 灵巧操作 | 分层控制 | [HiFun: a Hierarchical Framework for Efficient Functional Dexterous Manipulation Learning](cards.md#paper-agm5zqrjot) | 分开训练手部精细接触和手臂协同，针对偏离状态收集人类恢复。 |
+| 具身智能 / 灵巧操作 | 残差策略 | [MoDex: Towards Universal Multi-Object Dexterous Grasping](cards.md#paper-ukrtsllqs6) | 根据物体相对距离在单次抓取和逐个交互之间切换。 |
+| 具身智能 / 灵巧操作 | 数据验证 | [AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](cards.md#paper-8cdevbqa6x) | 仿真候选先过实物可行性核验，再按覆盖抽样。 |
+| 具身智能 / 灵巧操作 | 目标表示 | [GoalDex: Learning Image-Goal-Conditioned Policies for Dexterous In-Hand Manipulation](cards.md#paper-rrnnh3mdah) | 遮挡严重时以目标图像直接条件化手内重定向。 |
+| 具身智能 / 灵巧操作 | 交互动力学 | [ProxiDex: Learning Dynamics-Guided Proximity Policy for Dexterous Manipulation](cards.md#paper-ulcexirzjd) | 用手物距离作为硬件无关的动态状态，并随操作阶段调节其权重。 |
+| 具身智能 / 灵巧操作 | 观测融合 | [FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception](cards.md#paper-pl6udcy9eu) | 给移动的近接相机补位姿和同指电流，分别表达观测方向与接触。 |
+| 具身智能 / 灵巧操作 | 持续学习 | [Continual Learning for 6-DoF Grasp Synthesis via Experience and Demonstrations](cards.md#paper-mtz4ekup94) | 部署时更新嵌入空间记忆中的抓取评分与候选。 |
+| 具身智能 / 灵巧操作 | 隐式几何 | [PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views](cards.md#paper-jhewj56sh3) | 局部厚度比全形状更关乎成功时，用隐式占据推断当前不可见的抓取结构。 |
+| 具身智能 / 灵巧操作 | 动作生成 | [DexHandover: Learning Bimanual Dexterous Handovers from Large-Scale Synthetic Data](cards.md#paper-zmbovwpuuw) | 先生成双手交接的共享接触状态，再将长运动优化锚定在该状态。 |
+| 具身智能 / 灵巧操作 | 偏好适配 | [TacStyle: Personalizing Tactile Robot Policies using Structured Behavior Representations](cards.md#paper-th0fdttvb0) | 用语言模型选择连续行为潜变量，避免对动作策略逐轨迹标注细粒度偏好。 |
+| 具身智能 / 灵巧操作 | 跨传感对齐 | [TACTX: Learning Shared Tactile Representations Across Diverse Sensors](cards.md#paper-xn8hwa4hpq) | 用同一接触事件配对不同触觉数据，使策略可直接换传感器。 |
+| 具身智能 / 灵巧操作 | 跨传感预训练 | [Heterogeneous Tactile Transformer](cards.md#paper-0dopzpplvw) | 对齐触觉传感器时同时保留各模态内部可恢复信息。 |
+| 具身智能 / 灵巧操作 | 跨频率融合 | [Multi-Resolution Tactile Imitation Learning for Contact-Rich Robotic Manipulation](cards.md#paper-b2gsinmx3r) | 训练时接入高频触觉，并测试在部署移除该传感器后能否保留增益。 |
+| 具身智能 / 灵巧操作 | 触觉世界模型 | [Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation](cards.md#paper-yeakwjw5xa) | 先把触觉对齐到各视觉视角对应位置，再用未来触觉监督动作。 |
+| 具身智能 / 机器人学习 | 力觉闭环 | [FAWAM: Force-Aware World Action Models for Closed-Loop Contact-Rich Manipulation](cards.md#paper-1zyrrwoisv) | 用预测力矩作为在线残差控制参考 |
+| 具身智能 / 机器人学习 | 条件门控 | [FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation](cards.md#paper-q1q252tit0) | 按任务阶段决定物理反馈何时进入动作头 |
+| 具身智能 / 机器人学习 | 记忆机制 | [FM-VLA: Force-based Memory for Vision-Language-Action Models in Contact-Rich Manipulation](cards.md#paper-42z4ov9nrq) | 视觉难分辨重复事件时用力觉潜变量记录历史 |
+| 具身智能 / 机器人学习 | 仿真强化学习 | [TacCoRL: Integrating Tactile Feedback into VLA via Simulation](cards.md#paper-h7b56xk590) | 在仿真训练近失败恢复，用真实监督维持部署分布 |
+| 具身智能 / 机器人学习 | 残差适配 | [OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies](cards.md#paper-vg6uymddy4) | 冻结视觉运动先验，用在线触觉策略学习局部修正 |
+| 具身智能 / 机器人学习 | 跨模态监督 | [Dex-X: Learning Visual-Tactile Dexterous Manipulation From Human Demonstration with Simulated Interaction](cards.md#paper-surtjlxvxi) | 用仿真重建接触以补齐视频中缺失的触觉 |
+| 具身智能 / 机器人学习 | 触觉表示 | [Blind Dexterous Grasping via Real2Sim2Real Tactile Policy Learning](cards.md#paper-tlwfbm8jtz) | 按接触事件校准仿真，再用传感布局约束触觉编码 |
+| 具身智能 / 机器人学习 | 特权蒸馏 | [PTLD: Sim-to-Real Privileged Tactile Latent Distillation for dexterous manipulation](cards.md#paper-tjpi5d27wh) | 触觉仿真不可靠时，将真机触觉映射到仿真教师潜状态 |
+| 具身智能 / 机器人学习 | 柔顺控制 | [Current as Touch: Proprioceptive Contact Feedback for Compliant Dexterous Manipulation](cards.md#paper-wiovp2zrwa) | 把电流和关节状态映射为普通 PD 的位置参考 |
+| 具身智能 / 机器人学习 | 多模态监督 | [ViTaForce: Pairwise Visuo--Tactile--Force Representation Learning for Contact-Rich Imitation Learning](cards.md#paper-pcvxumrp6n) | 为不同传感器配对分别设定物理预测任务 |
+| 具身智能 / 机器人学习 | 联合表征学习 | [MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning](cards.md#paper-d0ltfevdad) | 联合训练世界动作模型时用跨模态任务防潜表示坍缩 |
+| 具身智能 / 机器人学习 | 推理引导 | [Inference-time Policy Steering via Vision and Touch](cards.md#paper-bc8sv8wttl) | 以视觉选长时行为模式，以触觉在短时局部编辑动作 |
+| 具身智能 / 机器人学习 | 信息瓶颈 | [Water-Filling Allocation and Phase Transitions in Action-Conditioned Multimodal Information Bottlenecks](cards.md#paper-334wtbspig) | 只在触觉能改变精细动作时给触觉更多表征预算 |
+| 具身智能 / 机器人学习 | 运动先验 | [Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors](cards.md#paper-xnyojximak) | 以共享运动潜空间支持多技能切换 |
+| 具身智能 / 机器人学习 | 多任务强化学习 | [SkillX: Unified Multi-Skill Policy Learning for Humanoid Soccer](cards.md#paper-chcwuratwl) | 共享执行策略，让每技能使用专门价值估计与运动先验 |
+| 具身智能 / 机器人学习 | 闭环适配 | [Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking](cards.md#paper-fp3mckmv24) | 高层计划加入跟踪速度反馈，低层训练覆盖随机速度 |
+| 具身智能 / 机器人学习 | 集合表示 | [S2M-Trek: From Single to Multi-Sphere Transport via Per-Frame Deep Sets on a Wheel-Legged Robot](cards.md#paper-vtsuekrcnh) | 无跨帧身份的观测先逐帧做集合池化，再读时序 |
+| 具身智能 / 全身控制 | 数据生成 | [Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation](cards.md#paper-uzalccyrvl) | 用接触锚定重建与重定向将反事实视频转成物理可行示范。 |
+| 具身智能 / 全身控制 | 示范生成 | [HumanoidMimicGen Data Generation for Loco-Manipulation via Whole-Body Planning](cards.md#paper-9kxz22fi7a) | 把示范中的接触技能与全身规划交替连接。 |
+| 具身智能 / 全身控制 | 评测诊断 | [SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation](cards.md#paper-artb8nigc3) | 采用模拟对真实排序的相关性作为基准验收标准。 |
+| 具身智能 / 全身控制 | 示范采集 | [HuMI: Humanoid Whole-Body Manipulation from Humanoid-Free Demonstrations](cards.md#paper-aq2hmhw0ku) | 将便携式人类全身示范与机器人执行分层解耦。 |
+| 具身智能 / 全身控制 | 全身控制 | [ZeroWBC: Learning Natural Whole-Body Humanoid Interaction from Human Egocentric Data](cards.md#paper-trtmmn2u1g) | 将根部及关键部位的全局对齐设为跟踪奖励。 |
+| 具身智能 / 全身控制 | 合成监督 | [VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](cards.md#paper-qmafkdmtoy) | 先在重建空间用特权信息规划，再回渲染与运动同步的第一视角。 |
+| 具身智能 / 全身控制 | 主动感知 | [HuG: Learning Humanoid Whole-Body Affordance-Aware Grasping with Active Perception](cards.md#paper-kpx1kofni5) | 分别管理观察视点与抓取前全身姿态。 |
+| 具身智能 / 全身控制 | 示范编辑 | [EVOLVE: Egocentric Vision-based Humanoid Loco-Manipulation via Demonstration Editing](cards.md#paper-qf26obiuex) | 编辑稀疏身体关键点轨迹并保留成功执行的片段。 |
+| 具身智能 / 全身控制 | 技能接口 | [OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation](cards.md#paper-r27ers063s) | 用身体关键轨迹加接触开关作为分层共享接口。 |
+| 具身智能 / 全身控制 | 控制覆盖 | [Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement](cards.md#paper-3ex2negqhp) | 用各技能闭环执行产生的状态增补共享追踪器训练。 |
+| 具身智能 / 全身控制 | 跨形态控制 | [X-WBC: A Cross-Embodiment Foundation Model for Humanoid Whole-Body Control](cards.md#paper-kbotnjrw4s) | 让不同机器人共用人类运动命令语义、分开建模执行。 |
+| 具身智能 / 全身控制 | 交互重定向 | [Social Humanoid: Socially Responsive Human–Humanoid Interaction](cards.md#paper-hf8x30fatz) | 双人示范转人机示范时，同时调整双方以保护接触。 |
+| 具身智能 / 全身控制 | 交互蒸馏 | [VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction](cards.md#paper-dhh4gmm3nk) | 用特权接触教师蒸馏至自视角深度，并训练多假设人体姿态辅助头。 |
+| 具身智能 / 全身控制 | 闭环控制 | [Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction](cards.md#paper-rk0jcfddwk) | 以根部轨迹作上层控制接口，全身参考仅作训练奖励。 |
+| 具身智能 / 全身控制 | 技能发现 | [MotionDisco: Motion Discovery for Extreme Humanoid Loco-manipulation](cards.md#paper-xjgz1ik29g) | 在离散接触序列上搜索，把物理验证委托给顺序轨迹优化器。 |
+| 具身智能 / 全身控制 | 视觉迁移 | [LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World](cards.md#paper-0jy75qydmn) | 将动作数据与场景外观分离，同一条示范按目标环境反复渲染。 |
+| 具身智能 / 全身控制 | 可验证状态 | [Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation](cards.md#paper-e9oq6xsma9) | 让动作生成与完成判定读取同一持久物体记录。 |
+| 具身智能 / 全身控制 | 触觉反馈 | [Unified Whole-Body Control for Quadrupedal Tactile-Informed Loco-Manipulation](cards.md#paper-r1fgjzlfnx) | 以触觉潜变量协调全身控制和抓力，而非维持常数大力。 |
+| 具身智能 / 全身控制 | 力监督 | [WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning](cards.md#paper-gkka9vehwb) | 用少量遥操作修正人类目标位姿，同时保留自然接触力监督。 |
+| 具身智能 / 全身控制 | 残差控制 | [HERO: Learning Humanoid End-Effector Control for Visual Whole-Body Open-Vocabulary Object Grasping](cards.md#paper-gbchkym28k) | 让开词汇感知提供目标，使用带学习前向模型的末端控制器精确执行。 |
+| 具身智能 / 人形控制 | 约束控制 | [Constrained Whole-Body Tracking for Humanoid Robots](cards.md#paper-nzvfxorvoc) | 把部署后新增的约束同时施加到运动参考和底层动力学。 |
+| 具身智能 / 人形控制 | 残差适配 | [General Humanoid Whole-Body Control via Pretraining and Fast Adaptation](cards.md#paper-hwaigsxlah) | 对未见动作只训练小型残差，并用正交和 KL 约束限制预训练行为漂移。 |
+| 具身智能 / 人形控制 | 低秩适配 | [CA-GMT: Contact-Aware Low-Rank Adaptation of Motion Tracking for Whole-Body Teleoperation](cards.md#paper-u2dtqwafqo) | 只在相关动作相位施加接触适配，并以接触错误衡量收益。 |
+| 具身智能 / 人形控制 | 接触控制 | [Learning Functional Compliance in Whole-body Manipulation](cards.md#paper-walhowqwnx) | 按任务方向和阶段分配柔顺性，保留关键轴上的控制权。 |
+| 具身智能 / 人形控制 | 闭环规划 | [Reactive Closed-Loop Motion Planning Towards Universal Humanoid Whole-Body Control](cards.md#paper-2tjuz95jmb) | 用实际跟踪偏离的前缀训练生成规划器，并异步重规划。 |
+| 具身智能 / 人形控制 | 低延迟控制 | [ExtremControl: Low-Latency Humanoid Teleoperation with Scaled Velocity Feedforward](cards.md#paper-x4i3ksa2kd) | 测量位置控制滞后，按理论比例加入缩放速度前馈。 |
+| 具身智能 / 人形控制 | 遥操接口 | [SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation](cards.md#paper-pwdt36r945) | 让操作者在稳定广角视图中独立转头观察，避免观察动作误驱动机器人。 |
+| 具身智能 / 人形控制 | 探索课程 | [SwingBot: Learning Whole-Body Brachiation for Humanoid Robots](cards.md#paper-wp9ex57z2k) | 以关键帧覆盖长时稀有接触转移，再用可部署传感估计相对位置和接触。 |
