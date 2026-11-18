@@ -16,7 +16,7 @@
 
 <a id="conference-sources"></a>
 
-**最新筛选 · 2026-11-18** · [ICML 2026 · 6,552 / 6,552 篇已筛选 · 收录 3,276 篇](conferences/icml-2026/README.md) · [CoRL 2026 · 687 / 687 篇已筛选 · 收录 343 篇](conferences/corl-2026/README.md) · [NeurIPS 2026 · 已筛选 2669 篇 · 暂收录 2489 篇](conferences/neurips-2026/README.md)
+**最新筛选 · 2026-11-18** · [ICML 2026 · 6,552 / 6,552 篇已筛选 · 收录 3,276 篇](conferences/icml-2026/README.md) · [CoRL 2026 · 687 / 687 篇已筛选 · 收录 343 篇](conferences/corl-2026/README.md) · [NeurIPS 2026 · 已筛选 2729 篇 · 暂收录 2544 篇](conferences/neurips-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -34,9 +34,9 @@
 | <a id="graph-and-recommendation"></a>[图学习与推荐](papers/graph-and-recommendation.md) | 101 | 图模型、知识图谱与推荐系统。 |
 | <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 166 | 物理、医学、生物与工程中的机器学习。 |
 | [CoRL 2026](conferences/corl-2026/README.md) | 343 | 会议论文索引 |
-| [NeurIPS 2026](conferences/neurips-2026/README.md) | 2489 | 会议论文索引 |
+| [NeurIPS 2026](conferences/neurips-2026/README.md) | 2544 | 会议论文索引 |
 
-**共 6,109 篇论文、6,110 个技术机制。**
+**共 6,164 篇论文、6,165 个技术机制。**
 
 <a id="insights-by-technical-category"></a>
 
@@ -56,7 +56,7 @@
 | [评测与诊断](insights/evaluation.md) | 430 | 基准、评测协议、消融与失效诊断。 |
 | [理论与统计](insights/theory-statistics.md) | 574 | 学习保证、反例、估计与统计检验。 |
 | [CoRL 2026](conferences/corl-2026/README.md) | 343 | 会议索引中的可复用机制 |
-| [NeurIPS 2026](conferences/neurips-2026/README.md) | 2489 | 会议索引中的可复用机制 |
+| [NeurIPS 2026](conferences/neurips-2026/README.md) | 2544 | 会议索引中的可复用机制 |
 
 <a id="recent-updates"></a>
 

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2669** 篇，暂收录 **2489** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2729** 篇，暂收录 **2544** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2497,3 +2497,58 @@
 | Agent | 训练诊断 | [Entropy Dynamics of Agent Reinforcement Learning](cards-0005.md#paper-149956) | 多轮强化学习监控循环熵暴涨和退化积累 |
 | 大语言模型 | 推理解码 | [Entropy-Gated Latent Recursion](cards-0005.md#paper-152175) | 把递归层跨度作为随机温度外的候选维度 |
 | 时间序列 | 分块编码 | [Entropy Guided Dynamic Patch Segmentation for Time Series Transformers](cards-0005.md#paper-152779) | 用条件熵确定时间分块边界 |
+| 多模态学习 | 测试时适配 | [Entropy Minimization without Model Collapse: Mitigating Prediction Bias in Medical Imaging](cards-0005.md#paper-149828) | 按预测类平衡熵损失 |
+| 强化学习 | 策略优化 | [Entropy Polarity in Reinforcement Fine-Tuning:  Direction, Asymmetry, and Control](cards-0005.md#paper-152571) | 按 token 熵极性重加权优势 |
+| Agent | 维修评测 | [EnvFaultBench: Benchmarking LLM Agents on Software Environment-Fault Troubleshooting](cards-0005.md#paper-139835) | 用功能验收评估环境故障诊断 |
+| 统计学习 | 跨环境建模 | [Environment-Robust Representation Learning with Empirical Bayes](cards-0005.md#paper-151010) | 用层级先验平衡环境潜变量 |
+| 科学机器学习 | 概率预报 | [EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](cards-0005.md#paper-153039) | 分开输入气候基线、异常及累计应力 |
+| 科学机器学习 | 约束生成 | [EP-Flow: Disordered Crystal Structure Prediction without Site-level Annotation](cards-0005.md#paper-148198) | 用运输多面体表示无序晶体占据 |
+| 多模态学习 | 生成推理 | [EPIC: Efficient Predicate-Guided Inference-Time Control for Compositional Text-to-Image Generation](cards-0005.md#paper-152068) | 按失败谓词选择局部编辑或重采样 |
+| 具身智能 | 不确定性规划 | [EpicWorldModel: Exploration-driven Planning with Latent World Models](cards-0005.md#paper-150907) | 用随机潜状态预测引导探索 |
+| 科学机器学习 | 观测超分辨率 | [Epigenomics-Guided Flow Matching for 3D Genome Super-Resolution](cards-0005.md#paper-155163) | 检查局部切片是否丢失全局坐标 |
+| 优化 | 求解器控制 | [EpiPivot: Learning to Control the Simplex Method under Epistemic Uncertainty](cards-0005.md#paper-153200) | 用不确定性预测选择单纯形枢轴规则 |
+| 机器学习 | 数据选择 | [Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization](cards-0005.md#paper-153698) | 按可学习结构增益动态调整域采样 |
+| 学习理论 | 公平分配 | [Epistemic Pairwise Maximin Share](cards-0005.md#paper-155281) | 按估值结构选择可保证的分配目标 |
+| Agent | 交互学习 | [Epistemic Social Learning: Latent Behavioral Structure under Endogenous Multi-Agent Interaction](cards-0005.md#paper-150541) | 分开快速推断与慢速更新行为原型 |
+| 多模态学习 | 流式记忆 | [EpiStream: Utility-Aware Temporal Abstraction for Dense-Action Streams](cards-0005.md#paper-153023) | 按下游效用决定何时提交视频片段 |
+| 生成模型 | 采样优化 | [Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning](cards-0005.md#paper-149913) | 训练去噪场后按数据自适应步长 |
+| 生成模型 | 能量模型 | [Equilibrium Matching: Generative Modeling with Implicit Energy-Based Models](cards-0005.md#paper-148529) | 用可优化能量场支持自适应采样 |
+| 量子计算 | 等变强化学习 | [Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis](cards-0005.md#paper-150437) | 用比特重标号对称性支持跨规模编译 |
+| 科学机器学习 | 等变架构 | [Equivariant Spherical Transformer for Efficient Molecular Modeling](cards-0005.md#paper-155430) | 在保留等变性的同时扩展消息表达能力 |
+| 强化学习 | 风险理论 | [Ergodic Risk Measures: Towards a Risk-Aware Foundation for Continual Reinforcement Learning](cards-0005.md#paper-152958) | 先验证风险目标是否兼容持续适应 |
+| 机器人学 | 覆盖规划 | [Ergodic Trajectory Design by Learned Pushforward Maps: Provable Coverage via Conditional Flow Matching](cards-0005.md#paper-148507) | 分离规则域中的遍历轨迹与目标覆盖密度 |
+| 联邦学习 | 隐私聚合 | [ERIS: Enhancing Privacy and Scalability in Federated Learning via Federated Shard Aggregation](cards-0005.md#paper-151365) | 按可见更新比例衡量分片聚合的泄露风险 |
+| 大语言模型 / 医疗 | 评测 | [ER-Reason: A Benchmark Dataset for LLM Clinical Reasoning in the Emergency Room](cards-0005.md#paper-138971) | 在逐步补充证据时以专家分布验证信念更新 |
+| 强化学习 | 价值校准 | [Error-Guided Bellman Calibration for Semi-Offline Value Estimation](cards-0005.md#paper-149993) | 用少量在策略样本学习偏差轴再做价值校准 |
+| 多模态学习 | 注意力编辑 | [eSAM: Editing SAM3 Attention for Training-Free Referring Segmentation](cards-0005.md#paper-153788) | 抑制注意力汇点后显式引导注意力重分配 |
+| 计算机视觉 | 图像隐私评测 | [Escape the Context Manifold: Preventing DiT In-Context Editing via Conditional Flow Hijacking](cards-0005.md#paper-156139) | 在复杂编辑条件下同时检查参考身份泄露和编辑质量 |
+| 学习理论 | 泛化认证 | [Escaping Parameter Space: Tight Generalization Bounds via Representation Quality](cards-0005.md#paper-154899) | 用表示的局部类结构、解码一致性和稳定性诊断泛化 |
+| 强化学习 | 离线规划 | [Escaping Path Mirages in Offline Goal-Conditioned Reinforcement Learning](cards-0005.md#paper-151359) | 把高随机分叉设为子目标并分段评估路径 |
+| 大语言模型 | 推理搜索 | [Escaping Reasoning Basins: Basin-Aware Search for  Inference-Time  LLM Reasoning](cards-0005.md#paper-148924) | 对重复访问的推理簇降权以扩大搜索覆盖 |
+| 大语言模型 | 证明验证 | [Escaping the Cognitive Well: Efficient Competition Math with Off-the-Shelf Models](cards-0005.md#paper-150429) | 在独立上下文中验证抽出的命题及其否定 |
+| 生成模型 | 统计理论 | [Escaping the Curse of Dimensionality in One‑Step Flow-Based Generative Models](cards-0005.md#paper-151654) | 用数据低维结构判断单步流图估计难度 |
+| 可解释性 | 特征归因 | [ESENSC: A Polynomial-Time Axiomatic Alternative to SHAP](cards-0005.md#paper-154335) | 高维归因时按公理取舍选择闭式近似 |
+| 多模态学习 | 模型合并 | [ES-Merging: Biological MLLM Merging via Embedding Space Signals](cards-0005.md#paper-151206) | 用代表性输入的嵌入响应估计合并系数 |
+| 软件工程 | 泛化评测 | [EsoLang-Bench: Evaluating Large Language Models via Esoteric Programming Languages](cards-0005.md#paper-139789) | 固定算法题并更换程序语言，分离题解能力与语言熟悉度 |
+| 大语言模型 | 低显存训练 | [ESSAM: A Novel Competitive Evolution Strategies Approach to Reinforcement Learning for Memory Efficient LLMs Fine-Tuning](cards-0005.md#paper-154196) | 显存紧张时比较零阶演化搜索和反向传播式强化学习 |
+| 生成模型 | 无梯度条件采样 | [ESS-Flow: training-free guidance as Bayesian inference in source space](cards-0005.md#paper-149338) | 观测算子不可微时在生成器源空间做条件采样 |
+| 大语言模型 | 持续学习 | [Estimating and Orthogonalizing Unknown Pre-training Gradients for Continual Fine-tuning of Large Language Models](cards-0005.md#paper-152597) | 用易遗忘伪样本估计未知预训练梯度，再约束新任务更新方向。 |
+| 因果推断 | 剂量响应 | [Estimating Continuous Treatment Effects with Recourse Data](cards-0005.md#paper-149123) | 用结果翻转边界为日志覆盖稀疏区间补充监督。 |
+| 学习理论 | 训练诊断 | [Estimating Implicit Regularization in Deep Learning](cards-0005.md#paper-155112) | 从实际权重更新与损失梯度之差估计等效正则。 |
+| 隐私 | 防御评测 | [Estimating Model-Level Membership Inference Vulnerability Without Reference Models](cards-0005.md#paper-151197) | 将授权模型隐私筛查与逐样本判定分离。 |
+| 统计学习 | 分布传播 | [Estimating the expected output of wide random MLPs more efficiently than sampling](cards-0005.md#paper-152169) | 宽随机网络估计均值时比较逐层分布近似与 Monte Carlo。 |
+| 统计学习 | 标签噪声 | [Estimation of the Label-Noise Transition Matrix with Performance Guarantees via Selective Classification](cards-0005.md#paper-153468) | 估计标签转移矩阵时用单侧选择性分类替代类别后验拟合。 |
+| 表征学习 | 图嵌入 | [Euclidean Embedding of Data Using Local Distances](cards-0005.md#paper-149601) | 仅有邻域距离时仍可估计欧氏坐标。 |
+| 生成模型 | 排列建模 | [Euclidean Score-Based Generative Modeling with Permutation Semantics](cards-0005.md#paper-154221) | 在连续坐标排序区域中建模排列，末端仅排序一次。 |
+| 计算机视觉 | 频域融合 | [Euler-Mamba: Learning Resolution-Invariant State Evolution on Polar Manifolds for Asymmetric Pansharpening](cards-0005.md#paper-150332) | 将相位对齐与幅度校准分开建模。 |
+| 计算机视觉 | 测试时适配 | [EVA-0: Test-Time Model Evolution with Only Two Forward Passes per Sample](cards-0005.md#paper-148681) | 预算仅两次前向时用锚约束缓解更新漂移。 |
+| 多模态学习 | 事件对齐 | [EVA-Cap: Optimizing Audiovisual Video Captioning via Event-Centric Alignment](cards-0005.md#paper-155915) | 视频描述按事件分别监督完整性、归因和同步。 |
+| 多模态学习 | 证据核验 | [EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning](cards-0005.md#paper-148728) | 复杂视觉问题走外部工具路径并独立检查答案与证据一致。 |
+| 模型安全 | 防御评测 | [EvalAwareBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models](cards-0005.md#paper-139131) | 比较评测有效性时按生成器分层并逐模型校准。 |
+| 科学机器学习 | 综述评测 | [Evaluating AI-based Scientific Knowledge Synthesis with Epidemiological Systematic Reviews](cards-0005.md#paper-139724) | 文献综述代理按筛选、抽取等阶段分别验收。 |
+| 模型安全 | 防御评测 | [Evaluating and Understanding Scheming Propensity in LLM Agents](cards-0005.md#paper-153547) | 用真实部署配置验证安全结论对环境变化的敏感性。 |
+| 隐私 | 遗忘诊断 | [Evaluating an Evaluation: Membership Inference Attacks as Machine Unlearning Diagnostics](cards-0005.md#paper-139219) | 遗忘验收同时检查指标可分性和随遗忘量变化的单调性。 |
+| 学习理论 | 泛化诊断 | [Evaluating Compositional Generalization in Transformers: The Role of Composition Equivalence and Module Coverage](cards-0005.md#paper-139422) | 组合泛化评测同时控制端到端函数等价与模块覆盖。 |
+| 计算机视觉 | 推理校准 | [Evaluating Deployable Inference-Time Error Prediction in Vision MoEs](cards-0005.md#paper-139655) | 额外专家的预算优先用于判别路由错误，再评估能否提升准确率。 |
+| 计算机视觉 | 推理预算 | [Evaluating Depth and Breadth in Test-Time Scaling for Compositional Visual Generation](cards-0005.md#paper-139290) | 按提示复杂度在并行探索与串行修正间调预算。 |
+| 统计学习 | 不确定性评测 | [Evaluating Epistemic Uncertainty: Beyond OOD Detection and Active Learning](cards-0005.md#paper-139438) | 用风险、可约减误差和覆盖率曲面判断不确定性是否有决策用处。 |

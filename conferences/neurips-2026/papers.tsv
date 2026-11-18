@@ -2633,66 +2633,66 @@ poster_id	title	paper_url	status	reason
 149956	Entropy Dynamics of Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149956	included	多轮强化学习监控循环熵暴涨和退化积累
 152175	Entropy-Gated Latent Recursion	https://neurips.cc/virtual/2026/poster/152175	included	把递归层跨度作为随机温度外的候选维度
 152779	Entropy Guided Dynamic Patch Segmentation for Time Series Transformers	https://neurips.cc/virtual/2026/poster/152779	included	用条件熵确定时间分块边界
-149828	Entropy Minimization without Model Collapse: Mitigating Prediction Bias in Medical Imaging	https://neurips.cc/virtual/2026/poster/149828	pending	-
-152571	Entropy Polarity in Reinforcement Fine-Tuning:  Direction, Asymmetry, and Control	https://neurips.cc/virtual/2026/poster/152571	pending	-
-139835	EnvFaultBench: Benchmarking LLM Agents on Software Environment-Fault Troubleshooting	https://neurips.cc/virtual/2026/poster/139835	pending	-
-151010	Environment-Robust Representation Learning with Empirical Bayes	https://neurips.cc/virtual/2026/poster/151010	pending	-
-154409	EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution	https://neurips.cc/virtual/2026/poster/154409	pending	-
-153039	EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting	https://neurips.cc/virtual/2026/poster/153039	pending	-
-148198	EP-Flow: Disordered Crystal Structure Prediction without Site-level Annotation	https://neurips.cc/virtual/2026/poster/148198	pending	-
-152068	EPIC: Efficient Predicate-Guided Inference-Time Control for Compositional Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/152068	pending	-
-150907	EpicWorldModel: Exploration-driven Planning with Latent World Models	https://neurips.cc/virtual/2026/poster/150907	pending	-
-155163	Epigenomics-Guided Flow Matching for 3D Genome Super-Resolution	https://neurips.cc/virtual/2026/poster/155163	pending	-
-153200	EpiPivot: Learning to Control the Simplex Method under Epistemic Uncertainty	https://neurips.cc/virtual/2026/poster/153200	pending	-
-153698	Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization	https://neurips.cc/virtual/2026/poster/153698	pending	-
-139274	EpistasisBench: Revealing Structural Limitations of Zero-Shot Protein Language Models	https://neurips.cc/virtual/2026/poster/139274	pending	-
-140023	Epistemic Infrastructures of Science in AI Era Should Rebalance Costs of Generation and Verification	https://neurips.cc/virtual/2026/poster/140023	pending	-
-155281	Epistemic Pairwise Maximin Share	https://neurips.cc/virtual/2026/poster/155281	pending	-
-150541	Epistemic Social Learning: Latent Behavioral Structure under Endogenous Multi-Agent Interaction	https://neurips.cc/virtual/2026/poster/150541	pending	-
-153023	EpiStream: Utility-Aware Temporal Abstraction for Dense-Action Streams	https://neurips.cc/virtual/2026/poster/153023	pending	-
-156094	Epitope-Conditioned Nanobody CDR Design via Retrieval-Augmented Protein Language Models	https://neurips.cc/virtual/2026/poster/156094	pending	-
-149913	Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning	https://neurips.cc/virtual/2026/poster/149913	pending	-
-148529	Equilibrium Matching: Generative Modeling with Implicit Energy-Based Models	https://neurips.cc/virtual/2026/poster/148529	pending	-
-154193	Equivariant Force Field Calibration for Flow-based Protein Design	https://neurips.cc/virtual/2026/poster/154193	pending	-
-150437	Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis	https://neurips.cc/virtual/2026/poster/150437	pending	-
-155430	Equivariant Spherical Transformer for Efficient Molecular Modeling	https://neurips.cc/virtual/2026/poster/155430	pending	-
-152958	Ergodic Risk Measures: Towards a Risk-Aware Foundation for Continual Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152958	pending	-
-148507	Ergodic Trajectory Design by Learned Pushforward Maps: Provable Coverage via Conditional Flow Matching	https://neurips.cc/virtual/2026/poster/148507	pending	-
-151365	ERIS: Enhancing Privacy and Scalability in Federated Learning via Federated Shard Aggregation	https://neurips.cc/virtual/2026/poster/151365	pending	-
-138971	ER-Reason: A Benchmark Dataset for LLM Clinical Reasoning in the Emergency Room	https://neurips.cc/virtual/2026/poster/138971	pending	-
-149993	Error-Guided Bellman Calibration for Semi-Offline Value Estimation	https://neurips.cc/virtual/2026/poster/149993	pending	-
-153788	eSAM: Editing SAM3 Attention for Training-Free Referring Segmentation	https://neurips.cc/virtual/2026/poster/153788	pending	-
-156139	Escape the Context Manifold: Preventing DiT In-Context Editing via Conditional Flow Hijacking	https://neurips.cc/virtual/2026/poster/156139	pending	-
-154899	Escaping Parameter Space: Tight Generalization Bounds via Representation Quality	https://neurips.cc/virtual/2026/poster/154899	pending	-
-151359	Escaping Path Mirages in Offline Goal-Conditioned Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151359	pending	-
-148924	Escaping Reasoning Basins: Basin-Aware Search for  Inference-Time  LLM Reasoning	https://neurips.cc/virtual/2026/poster/148924	pending	-
-150429	Escaping the Cognitive Well: Efficient Competition Math with Off-the-Shelf Models	https://neurips.cc/virtual/2026/poster/150429	pending	-
-151654	Escaping the Curse of Dimensionality in One‑Step Flow-Based Generative Models	https://neurips.cc/virtual/2026/poster/151654	pending	-
-154335	ESENSC: A Polynomial-Time Axiomatic Alternative to SHAP	https://neurips.cc/virtual/2026/poster/154335	pending	-
-151206	ES-Merging: Biological MLLM Merging via Embedding Space Signals	https://neurips.cc/virtual/2026/poster/151206	pending	-
-139789	EsoLang-Bench: Evaluating Large Language Models via Esoteric Programming Languages	https://neurips.cc/virtual/2026/poster/139789	pending	-
-154196	ESSAM: A Novel Competitive Evolution Strategies Approach to Reinforcement Learning for Memory Efficient LLMs Fine-Tuning	https://neurips.cc/virtual/2026/poster/154196	pending	-
-149338	ESS-Flow: training-free guidance as Bayesian inference in source space	https://neurips.cc/virtual/2026/poster/149338	pending	-
-152597	Estimating and Orthogonalizing Unknown Pre-training Gradients for Continual Fine-tuning of Large Language Models	https://neurips.cc/virtual/2026/poster/152597	pending	-
-149123	Estimating Continuous Treatment Effects with Recourse Data	https://neurips.cc/virtual/2026/poster/149123	pending	-
-155112	Estimating Implicit Regularization in Deep Learning	https://neurips.cc/virtual/2026/poster/155112	pending	-
-151197	Estimating Model-Level Membership Inference Vulnerability Without Reference Models	https://neurips.cc/virtual/2026/poster/151197	pending	-
-152169	Estimating the expected output of wide random MLPs more efficiently than sampling	https://neurips.cc/virtual/2026/poster/152169	pending	-
-153468	Estimation of the Label-Noise Transition Matrix with Performance Guarantees via Selective Classification	https://neurips.cc/virtual/2026/poster/153468	pending	-
-149601	Euclidean Embedding of Data Using Local Distances	https://neurips.cc/virtual/2026/poster/149601	pending	-
-154221	Euclidean Score-Based Generative Modeling with Permutation Semantics	https://neurips.cc/virtual/2026/poster/154221	pending	-
-150332	Euler-Mamba: Learning Resolution-Invariant State Evolution on Polar Manifolds for Asymmetric Pansharpening	https://neurips.cc/virtual/2026/poster/150332	pending	-
-148681	EVA-0: Test-Time Model Evolution with Only Two Forward Passes per Sample	https://neurips.cc/virtual/2026/poster/148681	pending	-
-155915	EVA-Cap: Optimizing Audiovisual Video Captioning via Event-Centric Alignment	https://neurips.cc/virtual/2026/poster/155915	pending	-
-148728	EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/148728	pending	-
-139131	EvalAwareBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models	https://neurips.cc/virtual/2026/poster/139131	pending	-
-139724	Evaluating AI-based Scientific Knowledge Synthesis with Epidemiological Systematic Reviews	https://neurips.cc/virtual/2026/poster/139724	pending	-
-153547	Evaluating and Understanding Scheming Propensity in LLM Agents	https://neurips.cc/virtual/2026/poster/153547	pending	-
-139219	Evaluating an Evaluation: Membership Inference Attacks as Machine Unlearning Diagnostics	https://neurips.cc/virtual/2026/poster/139219	pending	-
-139422	Evaluating Compositional Generalization in Transformers: The Role of Composition Equivalence and Module Coverage	https://neurips.cc/virtual/2026/poster/139422	pending	-
-139655	Evaluating Deployable Inference-Time Error Prediction in Vision MoEs	https://neurips.cc/virtual/2026/poster/139655	pending	-
-139290	Evaluating Depth and Breadth in Test-Time Scaling for Compositional Visual Generation	https://neurips.cc/virtual/2026/poster/139290	pending	-
-139438	Evaluating Epistemic Uncertainty: Beyond OOD Detection and Active Learning	https://neurips.cc/virtual/2026/poster/139438	pending	-
+149828	Entropy Minimization without Model Collapse: Mitigating Prediction Bias in Medical Imaging	https://neurips.cc/virtual/2026/poster/149828	included	按预测类平衡熵损失
+152571	Entropy Polarity in Reinforcement Fine-Tuning:  Direction, Asymmetry, and Control	https://neurips.cc/virtual/2026/poster/152571	included	按 token 熵极性重加权优势
+139835	EnvFaultBench: Benchmarking LLM Agents on Software Environment-Fault Troubleshooting	https://neurips.cc/virtual/2026/poster/139835	included	用功能验收评估环境故障诊断
+151010	Environment-Robust Representation Learning with Empirical Bayes	https://neurips.cc/virtual/2026/poster/151010	included	用层级先验平衡环境潜变量
+154409	EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution	https://neurips.cc/virtual/2026/poster/154409	excluded	摘要主要涉及具身系统的物理攻击，留存高层筛选记录。
+153039	EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting	https://neurips.cc/virtual/2026/poster/153039	included	分开输入气候基线、异常及累计应力
+148198	EP-Flow: Disordered Crystal Structure Prediction without Site-level Annotation	https://neurips.cc/virtual/2026/poster/148198	included	用运输多面体表示无序晶体占据
+152068	EPIC: Efficient Predicate-Guided Inference-Time Control for Compositional Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/152068	included	按失败谓词选择局部编辑或重采样
+150907	EpicWorldModel: Exploration-driven Planning with Latent World Models	https://neurips.cc/virtual/2026/poster/150907	included	用随机潜状态预测引导探索
+155163	Epigenomics-Guided Flow Matching for 3D Genome Super-Resolution	https://neurips.cc/virtual/2026/poster/155163	included	检查局部切片是否丢失全局坐标
+153200	EpiPivot: Learning to Control the Simplex Method under Epistemic Uncertainty	https://neurips.cc/virtual/2026/poster/153200	included	用不确定性预测选择单纯形枢轴规则
+153698	Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization	https://neurips.cc/virtual/2026/poster/153698	included	按可学习结构增益动态调整域采样
+139274	EpistasisBench: Revealing Structural Limitations of Zero-Shot Protein Language Models	https://neurips.cc/virtual/2026/poster/139274	excluded	摘要聚焦蛋白变体效应预测，未形成独立的安全复用卡。
+140023	Epistemic Infrastructures of Science in AI Era Should Rebalance Costs of Generation and Verification	https://neurips.cc/virtual/2026/poster/140023	excluded	提出科研证据基础设施及原型，摘要未验证下游复核成本的改善。
+155281	Epistemic Pairwise Maximin Share	https://neurips.cc/virtual/2026/poster/155281	included	按估值结构选择可保证的分配目标
+150541	Epistemic Social Learning: Latent Behavioral Structure under Endogenous Multi-Agent Interaction	https://neurips.cc/virtual/2026/poster/150541	included	分开快速推断与慢速更新行为原型
+153023	EpiStream: Utility-Aware Temporal Abstraction for Dense-Action Streams	https://neurips.cc/virtual/2026/poster/153023	included	按下游效用决定何时提交视频片段
+156094	Epitope-Conditioned Nanobody CDR Design via Retrieval-Augmented Protein Language Models	https://neurips.cc/virtual/2026/poster/156094	excluded	摘要直接涉及定向纳米抗体设计，留存高层筛选记录。
+149913	Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning	https://neurips.cc/virtual/2026/poster/149913	included	训练去噪场后按数据自适应步长
+148529	Equilibrium Matching: Generative Modeling with Implicit Energy-Based Models	https://neurips.cc/virtual/2026/poster/148529	included	用可优化能量场支持自适应采样
+154193	Equivariant Force Field Calibration for Flow-based Protein Design	https://neurips.cc/virtual/2026/poster/154193	excluded	主要贡献直接面向蛋白质生成与结合设计，未提取独立于该用途的卡片。
+150437	Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis	https://neurips.cc/virtual/2026/poster/150437	included	用比特重标号对称性支持跨规模编译
+155430	Equivariant Spherical Transformer for Efficient Molecular Modeling	https://neurips.cc/virtual/2026/poster/155430	included	在保留等变性的同时扩展消息表达能力
+152958	Ergodic Risk Measures: Towards a Risk-Aware Foundation for Continual Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152958	included	先验证风险目标是否兼容持续适应
+148507	Ergodic Trajectory Design by Learned Pushforward Maps: Provable Coverage via Conditional Flow Matching	https://neurips.cc/virtual/2026/poster/148507	included	分离规则域中的遍历轨迹与目标覆盖密度
+151365	ERIS: Enhancing Privacy and Scalability in Federated Learning via Federated Shard Aggregation	https://neurips.cc/virtual/2026/poster/151365	included	按可见更新比例衡量分片聚合的泄露风险
+138971	ER-Reason: A Benchmark Dataset for LLM Clinical Reasoning in the Emergency Room	https://neurips.cc/virtual/2026/poster/138971	included	在逐步补充证据时以专家分布验证信念更新
+149993	Error-Guided Bellman Calibration for Semi-Offline Value Estimation	https://neurips.cc/virtual/2026/poster/149993	included	用少量在策略样本学习偏差轴再做价值校准
+153788	eSAM: Editing SAM3 Attention for Training-Free Referring Segmentation	https://neurips.cc/virtual/2026/poster/153788	included	抑制注意力汇点后显式引导注意力重分配
+156139	Escape the Context Manifold: Preventing DiT In-Context Editing via Conditional Flow Hijacking	https://neurips.cc/virtual/2026/poster/156139	included	在复杂编辑条件下同时检查参考身份泄露和编辑质量
+154899	Escaping Parameter Space: Tight Generalization Bounds via Representation Quality	https://neurips.cc/virtual/2026/poster/154899	included	用表示的局部类结构、解码一致性和稳定性诊断泛化
+151359	Escaping Path Mirages in Offline Goal-Conditioned Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151359	included	把高随机分叉设为子目标并分段评估路径
+148924	Escaping Reasoning Basins: Basin-Aware Search for  Inference-Time  LLM Reasoning	https://neurips.cc/virtual/2026/poster/148924	included	对重复访问的推理簇降权以扩大搜索覆盖
+150429	Escaping the Cognitive Well: Efficient Competition Math with Off-the-Shelf Models	https://neurips.cc/virtual/2026/poster/150429	included	在独立上下文中验证抽出的命题及其否定
+151654	Escaping the Curse of Dimensionality in One‑Step Flow-Based Generative Models	https://neurips.cc/virtual/2026/poster/151654	included	用数据低维结构判断单步流图估计难度
+154335	ESENSC: A Polynomial-Time Axiomatic Alternative to SHAP	https://neurips.cc/virtual/2026/poster/154335	included	高维归因时按公理取舍选择闭式近似
+151206	ES-Merging: Biological MLLM Merging via Embedding Space Signals	https://neurips.cc/virtual/2026/poster/151206	included	用代表性输入的嵌入响应估计合并系数
+139789	EsoLang-Bench: Evaluating Large Language Models via Esoteric Programming Languages	https://neurips.cc/virtual/2026/poster/139789	included	固定算法题并更换程序语言，分离题解能力与语言熟悉度
+154196	ESSAM: A Novel Competitive Evolution Strategies Approach to Reinforcement Learning for Memory Efficient LLMs Fine-Tuning	https://neurips.cc/virtual/2026/poster/154196	included	显存紧张时比较零阶演化搜索和反向传播式强化学习
+149338	ESS-Flow: training-free guidance as Bayesian inference in source space	https://neurips.cc/virtual/2026/poster/149338	included	观测算子不可微时在生成器源空间做条件采样
+152597	Estimating and Orthogonalizing Unknown Pre-training Gradients for Continual Fine-tuning of Large Language Models	https://neurips.cc/virtual/2026/poster/152597	included	用易遗忘伪样本估计未知预训练梯度，再约束新任务更新方向。
+149123	Estimating Continuous Treatment Effects with Recourse Data	https://neurips.cc/virtual/2026/poster/149123	included	用结果翻转边界为日志覆盖稀疏区间补充监督。
+155112	Estimating Implicit Regularization in Deep Learning	https://neurips.cc/virtual/2026/poster/155112	included	从实际权重更新与损失梯度之差估计等效正则。
+151197	Estimating Model-Level Membership Inference Vulnerability Without Reference Models	https://neurips.cc/virtual/2026/poster/151197	included	将授权模型隐私筛查与逐样本判定分离。
+152169	Estimating the expected output of wide random MLPs more efficiently than sampling	https://neurips.cc/virtual/2026/poster/152169	included	宽随机网络估计均值时比较逐层分布近似与 Monte Carlo。
+153468	Estimation of the Label-Noise Transition Matrix with Performance Guarantees via Selective Classification	https://neurips.cc/virtual/2026/poster/153468	included	估计标签转移矩阵时用单侧选择性分类替代类别后验拟合。
+149601	Euclidean Embedding of Data Using Local Distances	https://neurips.cc/virtual/2026/poster/149601	included	仅有邻域距离时仍可估计欧氏坐标。
+154221	Euclidean Score-Based Generative Modeling with Permutation Semantics	https://neurips.cc/virtual/2026/poster/154221	included	在连续坐标排序区域中建模排列，末端仅排序一次。
+150332	Euler-Mamba: Learning Resolution-Invariant State Evolution on Polar Manifolds for Asymmetric Pansharpening	https://neurips.cc/virtual/2026/poster/150332	included	将相位对齐与幅度校准分开建模。
+148681	EVA-0: Test-Time Model Evolution with Only Two Forward Passes per Sample	https://neurips.cc/virtual/2026/poster/148681	included	预算仅两次前向时用锚约束缓解更新漂移。
+155915	EVA-Cap: Optimizing Audiovisual Video Captioning via Event-Centric Alignment	https://neurips.cc/virtual/2026/poster/155915	included	视频描述按事件分别监督完整性、归因和同步。
+148728	EVA: Evidence-seeking Visual Agent for Hallucination-Resistant Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/148728	included	复杂视觉问题走外部工具路径并独立检查答案与证据一致。
+139131	EvalAwareBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models	https://neurips.cc/virtual/2026/poster/139131	included	比较评测有效性时按生成器分层并逐模型校准。
+139724	Evaluating AI-based Scientific Knowledge Synthesis with Epidemiological Systematic Reviews	https://neurips.cc/virtual/2026/poster/139724	included	文献综述代理按筛选、抽取等阶段分别验收。
+153547	Evaluating and Understanding Scheming Propensity in LLM Agents	https://neurips.cc/virtual/2026/poster/153547	included	用真实部署配置验证安全结论对环境变化的敏感性。
+139219	Evaluating an Evaluation: Membership Inference Attacks as Machine Unlearning Diagnostics	https://neurips.cc/virtual/2026/poster/139219	included	遗忘验收同时检查指标可分性和随遗忘量变化的单调性。
+139422	Evaluating Compositional Generalization in Transformers: The Role of Composition Equivalence and Module Coverage	https://neurips.cc/virtual/2026/poster/139422	included	组合泛化评测同时控制端到端函数等价与模块覆盖。
+139655	Evaluating Deployable Inference-Time Error Prediction in Vision MoEs	https://neurips.cc/virtual/2026/poster/139655	included	额外专家的预算优先用于判别路由错误，再评估能否提升准确率。
+139290	Evaluating Depth and Breadth in Test-Time Scaling for Compositional Visual Generation	https://neurips.cc/virtual/2026/poster/139290	included	按提示复杂度在并行探索与串行修正间调预算。
+139438	Evaluating Epistemic Uncertainty: Beyond OOD Detection and Active Learning	https://neurips.cc/virtual/2026/poster/139438	included	用风险、可约减误差和覆盖率曲面判断不确定性是否有决策用处。
 139677	Evaluating Multimodal Narrative Understanding of Popular Hollywood Films	https://neurips.cc/virtual/2026/poster/139677	pending	-
 139125	Evaluating Neural Data Tokenizers: A Framework for Assessing Learned Representations of Spiking Activity	https://neurips.cc/virtual/2026/poster/139125	pending	-
 140116	Evaluating Physical Reasoning in LLM Agents Requires Construction Benchmarks	https://neurips.cc/virtual/2026/poster/140116	pending	-
