@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **350 / 687** 篇，当前收录 **333** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **374 / 687** 篇，当前收录 **351** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -339,3 +339,21 @@
 | 具身智能 / 机器人学习 | 故障检测 | [VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models](cards.md#paper-mg7x6sfe75) | 融合特征分布偏离与预测动作块重叠区不一致，无需失败轨迹。 |
 | 具身智能 / 机器人学习 | 关系监测 | [Robot-WATCHDOG : failure detection through object-centric graph representation](cards.md#paper-1yl1d39r7k) | 以物体时空图检测关系故障，数据稀少时使用关系一致性模板。 |
 | 具身智能 / 机器人学习 | 失败恢复 | [Recover, Discover, Plan: Learning Skills and Concepts from Robot Failures](cards.md#paper-hufkyua5rr) | 从失败恢复轨迹学习关系谓词，让规划阶段主动避开同类失败。 |
+| 操作 / 模仿学习 | 失败恢复 | [FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement](cards.md#paper-7jmlatltac) | 用失败轨迹构造负偏好，而不是原样重试。 |
+| 操作 / VLA | 视觉条件恢复 | [Back to the Familiar Future: Failure Recovery for VLA Policies via Pre-Imagined Milestone Selection](cards.md#paper-jqvrofu5as) | 用执行前生成的中间目标恢复偏离轨迹的策略。 |
+| 操作 / 分层学习 | 反事实监督 | [MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution](cards.md#paper-r7zn8cpecj) | 验证失败后的纠正动作，再将其写入训练集。 |
+| VLA / 安全 | 闭环评测 | [Trajectory-Level Redirection Attacks on Vision-Language-Action Models](cards.md#paper-e9zyawjqfr) | 在验证指令保持时检查最终任务结果。 |
+| VLA / 安全 | 执行一致性 | [ExecGap: Exploiting Command-Execution Gap for Patch Attacks on Vision-Language-Action Models](cards.md#paper-qffjw11nya) | 监测命令与实测执行偏差，以发现动作失败。 |
+| VLA / 安全 | 鲁棒训练 | [Lights, Camera, Malfunction: When Illumination Robustness Leaves VLA Models Blind to Color](cards.md#paper-7qmrpmvhzl) | 照明增强时保留颜色语义，并独立测试颜色依赖任务。 |
+| 操作 / 数据 | 数据采集 | [Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation](cards.md#paper-quvj7qbql6) | 按模型最不依赖的指令因子补采示范。 |
+| 操作 / 泛化 | 因子化评测 | [MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics](cards.md#paper-br2rxixvyn) | 分别测空间、实例、类别和子任务组合泛化。 |
+| 操作 / 评测 | 无重置评测 | [ScaleEvals: Scaling Generalist Policy Evaluation through Reset-Free Autonomous Play](cards.md#paper-bl51sskshm) | 允许场景持续变化，按难度与技能标签校正策略排名。 |
+| 操作 / 离线 RL | 离策略评测 | [RoboFQE: Rollout-Free Evaluation of Visual Robot Policies from Offline Trajectories](cards.md#paper-xmysklf2hx) | 用视觉特征上的拟合 Q 评估替代新回合。 |
+| 操作 / 评测 | 随机任务协议 | [Benchmarking Real-World Robotic Manipulation through Stochastic Challenges](cards.md#paper-mwhlzlo4ud) | 跨实验室从同一分布各自抽样，兼顾可比性和隐蔽测试。 |
+| 具身智能 / 安全 | 主动评测 | [Coverage Aware Active Evaluation for Failure Discovery with Paired Systems](cards.md#paper-qji3n7jzbc) | 用少量真实试验修正便宜代理，优先测试可信且有覆盖价值的区域。 |
+| 具身智能 / 评测 | 仿真校准 | [SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation](cards.md#paper-51yzmugrua) | 用少量配对试验校准不同场景的性能与不确定性。 |
+| 具身智能 / 评测 | 序贯统计 | [AnyRank: Reliable Anytime Policy Ranking via Sequential Testing](cards.md#paper-iou9zkasbg) | 将真机预算投向排名难区分的策略，随时输出有保证的部分排序。 |
+| 操作 / VLA | 失败边界训练 | [Where Success Breaks: Failure-Boundary Learning for Robust Vision-Language-Action Models](cards.md#paper-3jf63cw3cj) | 定位失败发生的进度，用失败方向监督生成流。 |
+| 具身智能 / 机器人设计 | 扩散引导 | [Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design](cards.md#paper-ypkdkkod11) | 复用与奖励无关的动力学模型，为不同设计目标提供扩散采样引导。 |
+| 具身智能 / 灵巧操作 | 形态条件化 | [XDex: Learning Cross-Embodiment Dexterous Grasping with 1000 Hands](cards.md#paper-wt25smjmeq) | 跨手迁移时区分物体、手形态和抓取姿态表示，并把形态多样性作为数据选型变量。 |
+| 具身智能 / 灵巧操作 | 形态条件化 | [DiffMorphGrasp: A Diffusion Framework Conditioned on Hand Morphology for Cross-Embodiment Grasp Generation](cards.md#paper-4soiqrxqxj) | 跨手共用规范化动作空间，但按具体运动链计算关节损失。 |
