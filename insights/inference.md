@@ -538,6 +538,9 @@
 - [相机工作集驱动的分层Gaussian训练缓存](../conferences/icml-2026/cards/6101-6200.md#zhong26o-inference) · TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization
 - [激活监督采样与自然性偏移对照](../conferences/icml-2026/cards/6101-6200.md#zhou26ai-inference) · A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle
 - [遮挡区prior速度与attention logit平滑](../conferences/icml-2026/cards/6201-6300.md#zhu26m-inference) · RelaxFlow: Text-Driven Amodal 3D Generation
+- [以视觉传播一致性和类别熵联合筛别名](../conferences/icml-2026/cards/6201-6300.md#zhu26x-inference) · VIP: Visual-guided Prompt Evolution for Efficient Dense Vision-Language Inference
+- [沿文本锚与正交残差方向扩展CLIP批量分布](../conferences/icml-2026/cards/6201-6300.md#zhu26ai-inference) · GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation
+- [按条件差分相对速度幅度逐样本衰减CFG](../conferences/icml-2026/cards/6201-6300.md#zhu26al-inference) · MAMBO-G: Magnitude-Aware Mitigation for Boosted Guidance
 
 <a id="by-nlp"></a>
 

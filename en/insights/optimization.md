@@ -163,6 +163,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](../../conferences/icml-2026/cards/5201-5300.md#xiong26l-optimization) · 中文
 - [FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#xue26i-optimization) · 中文
 - [DGS-Net: Distillation-Guided Gradient Surgery for CLIP Fine-Tuning in AI-Generated Image Detection](../../conferences/icml-2026/cards/5301-5400.md#yan26h-optimization) · 中文
+- [From Parameters to Feature Space: Task Arithmetic for Backdoor Mitigation in Model Merging](../../conferences/icml-2026/cards/6201-6300.md#zhu26t-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -497,6 +498,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms](../../conferences/icml-2026/cards/6101-6200.md#zhou26aa-optimization) · 中文
 - [DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ak-optimization) · 中文
 - [BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/6201-6300.md#zhou26bl-optimization) · 中文
+- [ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control](../../conferences/icml-2026/cards/6201-6300.md#zhu26am-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

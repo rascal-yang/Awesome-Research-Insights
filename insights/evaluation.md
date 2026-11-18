@@ -394,6 +394,7 @@
 - [逐层逐前缀探测层级解析信息](../conferences/icml-2026/cards/6201-6300.md#zhou26at-evaluation) · How Transformers Represent Hierarchies: A Local-to-Global Mechanism
 - [否定处理的晚层attention捷径诊断](../conferences/icml-2026/cards/6201-6300.md#zhou26bq-evaluation) · How Language Models Process Negation
 - [调度熵的短程拟合与context扰动](../conferences/icml-2026/cards/6201-6300.md#zhu26g-evaluation) · Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems
+- [合作率要结合监控结构与策略收益判断](../conferences/icml-2026/cards/6201-6300.md#zhu26ac-evaluation) · Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents
 
 <a id="by-computer-vision"></a>
 
@@ -471,6 +472,7 @@
 - [用能量和结构匹配控制测边缘扰动的全局传播](../conferences/icml-2026/cards/5801-5900.md#zhang26ev-evaluation) · Geometric Collapse: When Vision Models Fail to Verify Physical Causality
 - [码本利用率不等于表征维数](../conferences/icml-2026/cards/6001-6100.md#zhang26jl-evaluation) · Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization
 - [无modelaccess时以patchscoreproxy定位训练对应](../conferences/icml-2026/cards/6001-6100.md#zhao26i-evaluation) · Nonparametric Data Attribution for Diffusion Models
+- [在配对图像变换中按数据量与误差指标比较桥和FM](../conferences/icml-2026/cards/6201-6300.md#zhu26ak-evaluation) · Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis
 
 <a id="by-nlp"></a>
 

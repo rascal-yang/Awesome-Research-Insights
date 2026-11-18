@@ -81,6 +81,7 @@
 - [部分反馈下注检验的推理路由](../conferences/icml-2026/cards/5601-5700.md#yu26bm-theory-statistics) · Anytime Safe PAC Efficient Reasoning
 - [按数据支持与前向核选离散扩散](../conferences/icml-2026/cards/5701-5800.md#zhang26ba-theory-statistics) · Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking
 - [将DPO regularizer、choice link与最终loss解耦](../conferences/icml-2026/cards/6201-6300.md#zhou26bi-theory-statistics) · DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss’ Convexity is Dispensable)
+- [按相对Bellman一致性而非终点奖励准确率预算SMC](../conferences/icml-2026/cards/6201-6300.md#zhu26ae-theory-statistics) · On the Power of (Approximate) Reward Models for Inference-Time Scaling: Sequential Monte Carlo and Beyond
 
 <a id="by-computer-vision"></a>
 
@@ -679,6 +680,8 @@
 - [按代理对齐和时序相关选择TTA恢复预算](../conferences/icml-2026/cards/6201-6300.md#zhou26be-theory-statistics) · On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective
 - [线性TS的prior burn-in与长期regret解耦](../conferences/icml-2026/cards/6201-6300.md#zhu26k-theory-statistics) · Prior Diffusiveness and Regret in the Linear-Gaussian Bandit
 - [用最大梯度陈旧度统一选择步长](../conferences/icml-2026/cards/6201-6300.md#zhu26r-theory-statistics) · A Short and Unified Convergence Analysis of the SAG, SAGA, and IAG Algorithms
+- [按最终动作校准风险厌恶决策集合](../conferences/icml-2026/cards/6201-6300.md#zhu26z-theory-statistics) · Conformal Risk-Averse Decision Making with Action Conditional Guarantee
+- [以局部基支撑连接神经输入选择和函数区域](../conferences/icml-2026/cards/6201-6300.md#zhu26aa-theory-statistics) · Sparse Bayesian Deep Functional Learning with Structured Region Selection
 
 <a id="by-graph-and-recommendation"></a>
 

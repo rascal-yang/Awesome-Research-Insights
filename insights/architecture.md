@@ -140,6 +140,7 @@
 - [局部方向几何与全局顺序的拆分](../conferences/icml-2026/cards/5301-5400.md#yan26v-architecture) · Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics
 - [用条件掩码bit头建模大码本内依赖](../conferences/icml-2026/cards/5501-5600.md#yu26z-architecture) · Autoregressive Image Generation with Masked Bit Modeling
 - [共享投影的多尺度窗口改造](../conferences/icml-2026/cards/6001-6100.md#zhang26jj-architecture) · Transform Trained Transformer for Accelerating Native 4K Video Generation
+- [视频VAE按分辨率与时间上采样位置替换算子](../conferences/icml-2026/cards/6201-6300.md#zhu26v-architecture) · Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation
 
 <a id="by-nlp"></a>
 

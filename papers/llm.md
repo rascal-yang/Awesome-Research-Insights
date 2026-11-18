@@ -196,6 +196,7 @@
 - <a id="zhao26bz-loss-functions"></a>[Don’t Force the Fit: Bounded Log-Likelihood Loss for Enhanced Reasoning in Large Language Models](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bz)
 - <a id="zhu26h-loss-functions"></a>[From Guessing to Placeholding: A Cost-Theoretic Framework for Uncertainty-Aware Code Completion](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26h)
 - <a id="zhu26i-loss-functions"></a>[Simple Denoising Diffusion Language Models](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26i)
+- <a id="zhu26ab-loss-functions"></a>[ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ab)
 
 <a id="by-optimization"></a>
 
@@ -774,6 +775,7 @@
 - <a id="zhang26gc-data-strategies"></a>[Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gc)
 - <a id="zhao26k-data-strategies"></a>[What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26k)
 - <a id="zhou26ad-data-strategies"></a>[GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ad)
+- <a id="zhu26af-data-strategies"></a>[From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26af)
 
 <a id="by-inference"></a>
 
@@ -1568,6 +1570,7 @@
 - <a id="zhou26at-evaluation"></a>[How Transformers Represent Hierarchies: A Local-to-Global Mechanism](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26at)
 - <a id="zhou26bq-evaluation"></a>[How Language Models Process Negation](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bq)
 - <a id="zhu26g-evaluation"></a>[Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26g)
+- <a id="zhu26ac-evaluation"></a>[Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ac)
 
 <a id="by-theory-statistics"></a>
 
@@ -1641,4 +1644,5 @@
 - <a id="yu26bm-theory-statistics"></a>[Anytime Safe PAC Efficient Reasoning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bm)
 - <a id="zhang26ba-theory-statistics"></a>[Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ba)
 - <a id="zhou26bi-theory-statistics"></a>[DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss’ Convexity is Dispensable)](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bi)
+- <a id="zhu26ae-theory-statistics"></a>[On the Power of (Approximate) Reward Models for Inference-Time Scaling: Sequential Monte Carlo and Beyond](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ae)
 <!-- classification:end -->

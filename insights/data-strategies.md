@@ -101,6 +101,7 @@
 - [用reward波动和entropy门控UCB集中group rollouts](../conferences/icml-2026/cards/5901-6000.md#zhang26gc-data-strategies) · Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement
 - [用固定token替换实验拆分code与结构推理数据](../conferences/icml-2026/cards/6001-6100.md#zhao26k-data-strategies) · What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code
 - [按奖励偏好方向共识筛rollout](../conferences/icml-2026/cards/6101-6200.md#zhou26ad-data-strategies) · GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning
+- [固定词表扩充合并token时保护merge依赖](../conferences/icml-2026/cards/6201-6300.md#zhu26af-data-strategies) · From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction
 
 <a id="by-computer-vision"></a>
 

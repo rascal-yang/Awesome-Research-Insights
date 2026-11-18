@@ -78,6 +78,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Don’t Force the Fit: Bounded Log-Likelihood Loss for Enhanced Reasoning in Large Language Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26bz-loss-functions) · 中文
 - [From Guessing to Placeholding: A Cost-Theoretic Framework for Uncertainty-Aware Code Completion](../../conferences/icml-2026/cards/6201-6300.md#zhu26h-loss-functions) · 中文
 - [Simple Denoising Diffusion Language Models](../../conferences/icml-2026/cards/6201-6300.md#zhu26i-loss-functions) · 中文
+- [ReMoE: Boosting Expert Reuse through Router Fine-Tuning in Memory-Constrained MoE LLM Inference](../../conferences/icml-2026/cards/6201-6300.md#zhu26ab-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

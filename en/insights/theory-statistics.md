@@ -81,6 +81,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Anytime Safe PAC Efficient Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26bm-theory-statistics) · 中文
 - [Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking](../../conferences/icml-2026/cards/5701-5800.md#zhang26ba-theory-statistics) · 中文
 - [DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss’ Convexity is Dispensable)](../../conferences/icml-2026/cards/6201-6300.md#zhou26bi-theory-statistics) · 中文
+- [On the Power of (Approximate) Reward Models for Inference-Time Scaling: Sequential Monte Carlo and Beyond](../../conferences/icml-2026/cards/6201-6300.md#zhu26ae-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -679,6 +680,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective](../../conferences/icml-2026/cards/6201-6300.md#zhou26be-theory-statistics) · 中文
 - [Prior Diffusiveness and Regret in the Linear-Gaussian Bandit](../../conferences/icml-2026/cards/6201-6300.md#zhu26k-theory-statistics) · 中文
 - [A Short and Unified Convergence Analysis of the SAG, SAGA, and IAG Algorithms](../../conferences/icml-2026/cards/6201-6300.md#zhu26r-theory-statistics) · 中文
+- [Conformal Risk-Averse Decision Making with Action Conditional Guarantee](../../conferences/icml-2026/cards/6201-6300.md#zhu26z-theory-statistics) · 中文
+- [Sparse Bayesian Deep Functional Learning with Structured Region Selection](../../conferences/icml-2026/cards/6201-6300.md#zhu26aa-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

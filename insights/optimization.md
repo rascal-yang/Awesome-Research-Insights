@@ -163,6 +163,7 @@
 - [在线梯度子空间的定向保护](../conferences/icml-2026/cards/5201-5300.md#xiong26l-optimization) · Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation
 - [冻结稳定分支支持4位反传](../conferences/icml-2026/cards/5301-5400.md#xue26i-optimization) · FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models
 - [文本正梯度投影与冻结图像梯度引导](../conferences/icml-2026/cards/5301-5400.md#yan26h-optimization) · DGS-Net: Distillation-Guided Gradient Surgery for CLIP Fine-Tuning in AI-Generated Image Detection
+- [防御性任务向量按特征插值路径训练](../conferences/icml-2026/cards/6201-6300.md#zhu26t-optimization) · From Parameters to Feature Space: Task Arithmetic for Backdoor Mitigation in Model Merging
 
 <a id="by-nlp"></a>
 
@@ -497,6 +498,7 @@
 - [多项式FHE训练的权重界与免clipping](../conferences/icml-2026/cards/6101-6200.md#zhou26aa-optimization) · Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms
 - [联邦多目标同时控制客户端漂移与权重映射敏感性](../conferences/icml-2026/cards/6101-6200.md#zhou26ak-optimization) · DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning
 - [块级norm比例调sign动量更新](../conferences/icml-2026/cards/6201-6300.md#zhou26bl-optimization) · BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training
+- [按类梯度方向一致性分流积分提升与比例抑制](../conferences/icml-2026/cards/6201-6300.md#zhu26am-optimization) · ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control
 
 <a id="by-graph-and-recommendation"></a>
 

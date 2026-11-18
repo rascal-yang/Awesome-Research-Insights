@@ -394,6 +394,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [How Transformers Represent Hierarchies: A Local-to-Global Mechanism](../../conferences/icml-2026/cards/6201-6300.md#zhou26at-evaluation) · 中文
 - [How Language Models Process Negation](../../conferences/icml-2026/cards/6201-6300.md#zhou26bq-evaluation) · 中文
 - [Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems](../../conferences/icml-2026/cards/6201-6300.md#zhu26g-evaluation) · 中文
+- [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](../../conferences/icml-2026/cards/6201-6300.md#zhu26ac-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -471,6 +472,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Geometric Collapse: When Vision Models Fail to Verify Physical Causality](../../conferences/icml-2026/cards/5801-5900.md#zhang26ev-evaluation) · 中文
 - [Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization](../../conferences/icml-2026/cards/6001-6100.md#zhang26jl-evaluation) · 中文
 - [Nonparametric Data Attribution for Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26i-evaluation) · 中文
+- [Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis](../../conferences/icml-2026/cards/6201-6300.md#zhu26ak-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

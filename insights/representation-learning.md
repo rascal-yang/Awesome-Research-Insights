@@ -294,6 +294,7 @@
 - [父子约束的层级码本与双向锚定](../conferences/icml-2026/cards/5601-5700.md#zang26a-representation-learning) · HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference
 - [索引复用的指令流使动态码本并行解码](../conferences/icml-2026/cards/6101-6200.md#zhong26h-representation-learning) · RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression
 - [用定向切线位移作非齐次图积分恢复顺序](../conferences/icml-2026/cards/6101-6200.md#zhou26ap-representation-learning) · Trajectory Seriation via Spectral Tangent Alignment and Global Embedding
+- [以多任务数据前缀表达可变层级先验](../conferences/icml-2026/cards/6201-6300.md#zhu26aj-representation-learning) · Multi-Task Bayesian In-Context Learning
 
 <a id="by-graph-and-recommendation"></a>
 

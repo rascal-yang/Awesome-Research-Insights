@@ -75,6 +75,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yan26v-architecture"></a>[Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26v)
 - <a id="yu26z-architecture"></a>[Autoregressive Image Generation with Masked Bit Modeling](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26z)
 - <a id="zhang26jj-architecture"></a>[Transform Trained Transformer for Accelerating Native 4K Video Generation](../../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jj)
+- <a id="zhu26v-architecture"></a>[Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26v)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -251,6 +252,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xiong26l-optimization"></a>[Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26l)
 - <a id="xue26i-optimization"></a>[FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26i)
 - <a id="yan26h-optimization"></a>[DGS-Net: Distillation-Guided Gradient Surgery for CLIP Fine-Tuning in AI-Generated Image Detection](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26h)
+- <a id="zhu26t-optimization"></a>[From Parameters to Feature Space: Task Arithmetic for Backdoor Mitigation in Model Merging](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26t)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -550,6 +552,9 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhong26o-inference"></a>[TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26o)
 - <a id="zhou26ai-inference"></a>[A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ai)
 - <a id="zhu26m-inference"></a>[RelaxFlow: Text-Driven Amodal 3D Generation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26m)
+- <a id="zhu26x-inference"></a>[VIP: Visual-guided Prompt Evolution for Efficient Dense Vision-Language Inference](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26x)
+- <a id="zhu26ai-inference"></a>[GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ai)
+- <a id="zhu26al-inference"></a>[MAMBO-G: Magnitude-Aware Mitigation for Boosted Guidance](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26al)
 
 <a id="by-representation-learning"></a>
 
@@ -695,6 +700,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26ev-evaluation"></a>[Geometric Collapse: When Vision Models Fail to Verify Physical Causality](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ev)
 - <a id="zhang26jl-evaluation"></a>[Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jl)
 - <a id="zhao26i-evaluation"></a>[Nonparametric Data Attribution for Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26i)
+- <a id="zhu26ak-evaluation"></a>[Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ak)
 
 <a id="by-theory-statistics"></a>
 

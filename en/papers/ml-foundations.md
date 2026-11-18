@@ -507,6 +507,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhou26aa-optimization"></a>[Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26aa)
 - <a id="zhou26ak-optimization"></a>[DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ak)
 - <a id="zhou26bl-optimization"></a>[BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bl)
+- <a id="zhu26am-optimization"></a>[ProMeCD: Unifying Long-Tailed and Noisy Label Learning via White-Box Control](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26am)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -795,6 +796,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zang26a-representation-learning"></a>[HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference](../../conferences/icml-2026/cards/5601-5700.md#paper-zang26a)
 - <a id="zhong26h-representation-learning"></a>[RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26h)
 - <a id="zhou26ap-representation-learning"></a>[Trajectory Seriation via Spectral Tangent Alignment and Global Embedding](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ap)
+- <a id="zhu26aj-representation-learning"></a>[Multi-Task Bayesian In-Context Learning](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26aj)
 
 <a id="by-evaluation"></a>
 
@@ -1341,4 +1343,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhou26be-theory-statistics"></a>[On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26be)
 - <a id="zhu26k-theory-statistics"></a>[Prior Diffusiveness and Regret in the Linear-Gaussian Bandit](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26k)
 - <a id="zhu26r-theory-statistics"></a>[A Short and Unified Convergence Analysis of the SAG, SAGA, and IAG Algorithms](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26r)
+- <a id="zhu26z-theory-statistics"></a>[Conformal Risk-Averse Decision Making with Action Conditional Guarantee](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26z)
+- <a id="zhu26aa-theory-statistics"></a>[Sparse Bayesian Deep Functional Learning with Structured Region Selection](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26aa)
 <!-- classification:end -->

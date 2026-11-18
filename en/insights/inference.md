@@ -538,6 +538,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](../../conferences/icml-2026/cards/6101-6200.md#zhong26o-inference) · 中文
 - [A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle](../../conferences/icml-2026/cards/6101-6200.md#zhou26ai-inference) · 中文
 - [RelaxFlow: Text-Driven Amodal 3D Generation](../../conferences/icml-2026/cards/6201-6300.md#zhu26m-inference) · 中文
+- [VIP: Visual-guided Prompt Evolution for Efficient Dense Vision-Language Inference](../../conferences/icml-2026/cards/6201-6300.md#zhu26x-inference) · 中文
+- [GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation](../../conferences/icml-2026/cards/6201-6300.md#zhu26ai-inference) · 中文
+- [MAMBO-G: Magnitude-Aware Mitigation for Boosted Guidance](../../conferences/icml-2026/cards/6201-6300.md#zhu26al-inference) · 中文
 
 <a id="by-nlp"></a>
 
