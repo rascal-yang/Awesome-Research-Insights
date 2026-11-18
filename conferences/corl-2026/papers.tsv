@@ -102,8 +102,8 @@ number	openreview_id	title	paper_url	reason	status
 101	ZDnuAR0GMn	TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics	https://openreview.net/forum?id=ZDnuAR0GMn	用视频语言模型的完成判断概率作为零样本进度信号	included
 102	AAn8ouEHwO	RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation	https://openreview.net/forum?id=AAn8ouEHwO	按单条参考示范匹配进度并在低置信时抑制奖励	included
 103	DBLXUxxslN	FlashRFCL: Demonstration-Efficient Sparse Reward RL via Reverse-Forward Curriculum Learning in High-Throughput GPU Simulation	https://openreview.net/forum?id=DBLXUxxslN		pending
-104	0ua1KHFIUD	HiRE: Hindsight Reward Editing for Policy Finetuning	https://openreview.net/forum?id=0ua1KHFIUD		pending
-105	U3Nmrhun8B	EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models	https://openreview.net/forum?id=U3Nmrhun8B		pending
+104	0ua1KHFIUD	HiRE: Hindsight Reward Editing for Policy Finetuning	https://openreview.net/forum?id=0ua1KHFIUD	用成功与失败轨迹回看并修正误导控制的进度奖励	included
+105	U3Nmrhun8B	EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models	https://openreview.net/forum?id=U3Nmrhun8B	动作块中只覆盖人工纠正的时间段并保存实际执行块	included
 106	z5Mgc1GGjP	Scaling Sim-to-Real VLA Reinforcement Learning with Generative 3D Worlds	https://openreview.net/forum?id=z5Mgc1GGjP		pending
 107	GFxjqZVSND	M3P-R1: Reinforcement Learning for Large Language Model Guided Multi-Modal Motion Planning via MIP Code Generation	https://openreview.net/forum?id=GFxjqZVSND		pending
 108	9I9DPyr2f9	Training Robots to Reason in Natural Language via Reinforcement Learning	https://openreview.net/forum?id=9I9DPyr2f9		pending
