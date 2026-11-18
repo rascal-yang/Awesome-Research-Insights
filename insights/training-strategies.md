@@ -317,6 +317,7 @@
 - [按跨表示信心排名调伪标签阈值](../conferences/icml-2026/cards/5301-5400.md#yang26k-training-strategies) · Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation
 - [按反馈动作变化触发world-model适应](../conferences/icml-2026/cards/5401-5500.md#yao26u-training-strategies) · SC$^2$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments
 - [用几何置信度调节NeRF频率上限](../conferences/icml-2026/cards/5601-5700.md#yu26ar-training-strategies) · MAC-NeRF: Motion-Aware Curriculum Learning for Dynamic LiDAR NeRFs
+- [在IL与RL组合中选择规划mask](../conferences/icml-2026/cards/6101-6200.md#zheng26z-training-strategies) · CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving
 
 <a id="by-multimodal"></a>
 

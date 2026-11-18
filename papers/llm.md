@@ -1141,6 +1141,8 @@
 - <a id="zheng26c-inference"></a>[Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing](../conferences/icml-2026/cards/6001-6100.md#paper-zheng26c)
 - <a id="zheng26k-inference"></a>[LEAP: Zone-Aware MCTS for LLM Self-Speculative Decoding](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26k)
 - <a id="zheng26o-inference"></a>[Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26o)
+- <a id="zheng26ae-inference"></a>[Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ae)
+- <a id="zheng26ai-inference"></a>[DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ai)
 
 <a id="by-representation-learning"></a>
 

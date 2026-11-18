@@ -189,6 +189,7 @@
 - [用风险和熵正则条件选择可收敛actor-critic目标](../conferences/icml-2026/cards/5801-5900.md#zhang26ei-theory-statistics) · Provably Convergent Actor-Critic for MARL through Risk-aversion
 - [按近确定性transition选择线性logit记忆](../conferences/icml-2026/cards/6001-6100.md#zhao26j-theory-statistics) · Why Linear Recurrent Memory Works in Partially Observable Reinforcement Learning
 - [连续时间RL的密度置信集和测量日程](../conferences/icml-2026/cards/6001-6100.md#zhao26br-theory-statistics) · Instance-Dependent Continuous-Time Reinforcement Learning via Maximum Likelihood Estimation
+- [有限记忆行为策略的SOS求解边界](../conferences/icml-2026/cards/6101-6200.md#zheng26p-theory-statistics) · Solving Imperfect-Recall Games via Sum-of-Squares Optimization
 
 <a id="by-robotics"></a>
 
@@ -666,6 +667,7 @@
 - [依赖检验下边界发现的错误指标](../conferences/icml-2026/cards/5901-6000.md#zhang26iz-theory-statistics) · Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle
 - [初始化方向决定对角网络的有符号稀疏偏好](../conferences/icml-2026/cards/6001-6100.md#zhao26av-theory-statistics) · Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization
 - [已观测任务下的稀疏相关表征条件](../conferences/icml-2026/cards/6001-6100.md#zheng26a-theory-statistics) · From Generalist to Specialist Representation
+- [iForest的中心异常盲区与适用维度](../conferences/icml-2026/cards/6101-6200.md#zheng26ag-theory-statistics) · Theoretical Investigation on Inductive Bias of Isolation Forest
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -257,6 +257,8 @@
 - [用attention-value均值替换构造视觉对照](../conferences/icml-2026/cards/5601-5700.md#yu26at-loss-functions) · CFPO: Counterfactual Policy Optimization for Multimodal Reasoning
 - [用去对角Gram surrogate替代高维协方差正则](../conferences/icml-2026/cards/5801-5900.md#zhang26bp-loss-functions) · UniFast-HGR: Scalable and Efficient Maximal Correlation for Multimodal Models
 - [对编辑区差异和非编辑区一致性分别正则](../conferences/icml-2026/cards/5801-5900.md#zhang26dw-loss-functions) · In-Context Generation with Regional Constraints for Instructional Video Editing
+- [用事件边界扰动评估时间推理依赖](../conferences/icml-2026/cards/6101-6200.md#zheng26ad-loss-functions) · Temporal-Aware Reasoning Optimization for Video Temporal Grounding
+- [以任务概率监督独立confidence gate](../conferences/icml-2026/cards/6101-6200.md#zheng26af-loss-functions) · Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate
 
 <a id="by-ml-foundations"></a>
 

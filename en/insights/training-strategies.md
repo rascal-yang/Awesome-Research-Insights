@@ -317,6 +317,7 @@ Training schedules, curricula, and task or stage composition.
 - [Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation](../../conferences/icml-2026/cards/5301-5400.md#yang26k-training-strategies) · 中文
 - [SC$^2$-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments](../../conferences/icml-2026/cards/5401-5500.md#yao26u-training-strategies) · 中文
 - [MAC-NeRF: Motion-Aware Curriculum Learning for Dynamic LiDAR NeRFs](../../conferences/icml-2026/cards/5601-5700.md#yu26ar-training-strategies) · 中文
+- [CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving](../../conferences/icml-2026/cards/6101-6200.md#zheng26z-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

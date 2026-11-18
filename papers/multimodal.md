@@ -138,6 +138,8 @@
 - <a id="yu26at-loss-functions"></a>[CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26at)
 - <a id="zhang26bp-loss-functions"></a>[UniFast-HGR: Scalable and Efficient Maximal Correlation for Multimodal Models](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bp)
 - <a id="zhang26dw-loss-functions"></a>[In-Context Generation with Regional Constraints for Instructional Video Editing](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dw)
+- <a id="zheng26ad-loss-functions"></a>[Temporal-Aware Reasoning Optimization for Video Temporal Grounding](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ad)
+- <a id="zheng26af-loss-functions"></a>[Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26af)
 
 <a id="by-optimization"></a>
 
@@ -227,6 +229,7 @@
 - <a id="zhang26je-reinforcement-learning"></a>[iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhang26je)
 - <a id="zhao26c-reinforcement-learning"></a>[Learning GUI Grounding with Spatial Reasoning from Visual Feedback](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26c)
 - <a id="zhao26ab-reinforcement-learning"></a>[PyVision-RL: Forging Open Agentic Vision Models via RL](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ab)
+- <a id="zheng26ah-reinforcement-learning"></a>[Context-Aware Reasoner: Enhancing Contextual Reasoning in Multimodal Large Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ah)
 
 <a id="by-training-strategies"></a>
 

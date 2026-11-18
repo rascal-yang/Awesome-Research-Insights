@@ -189,6 +189,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Provably Convergent Actor-Critic for MARL through Risk-aversion](../../conferences/icml-2026/cards/5801-5900.md#zhang26ei-theory-statistics) · 中文
 - [Why Linear Recurrent Memory Works in Partially Observable Reinforcement Learning](../../conferences/icml-2026/cards/6001-6100.md#zhao26j-theory-statistics) · 中文
 - [Instance-Dependent Continuous-Time Reinforcement Learning via Maximum Likelihood Estimation](../../conferences/icml-2026/cards/6001-6100.md#zhao26br-theory-statistics) · 中文
+- [Solving Imperfect-Recall Games via Sum-of-Squares Optimization](../../conferences/icml-2026/cards/6101-6200.md#zheng26p-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -666,6 +667,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle](../../conferences/icml-2026/cards/5901-6000.md#zhang26iz-theory-statistics) · 中文
 - [Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization](../../conferences/icml-2026/cards/6001-6100.md#zhao26av-theory-statistics) · 中文
 - [From Generalist to Specialist Representation](../../conferences/icml-2026/cards/6001-6100.md#zheng26a-theory-statistics) · 中文
+- [Theoretical Investigation on Inductive Bias of Isolation Forest](../../conferences/icml-2026/cards/6101-6200.md#zheng26ag-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

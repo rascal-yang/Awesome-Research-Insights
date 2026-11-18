@@ -488,6 +488,7 @@
 - [双PL条件的无二阶分布式bilevel](../conferences/icml-2026/cards/5901-6000.md#zhang26is-optimization) · Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization
 - [识别活跃约束后的扰动式超梯度](../conferences/icml-2026/cards/6001-6100.md#zhao26ah-optimization) · A Fully First-Order Layer for Differentiable Optimization
 - [自界定有效网格搜索范围](../conferences/icml-2026/cards/6001-6100.md#zhao26bj-optimization) · Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis
+- [在持续学习梯度中加入polar分量](../conferences/icml-2026/cards/6101-6200.md#zheng26ac-optimization) · Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity
 
 <a id="by-graph-and-recommendation"></a>
 

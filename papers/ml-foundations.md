@@ -500,6 +500,7 @@
 - <a id="zhang26is-optimization"></a>[Convergence Analysis of Decentralized Hessian-/Jacobian-Free Algorithm for Nonconvex Stochastic Bilevel Optimization](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26is)
 - <a id="zhao26ah-optimization"></a>[A Fully First-Order Layer for Differentiable Optimization](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ah)
 - <a id="zhao26bj-optimization"></a>[Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bj)
+- <a id="zheng26ac-optimization"></a>[Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ac)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1316,4 +1317,5 @@
 - <a id="zhang26iz-theory-statistics"></a>[Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iz)
 - <a id="zhao26av-theory-statistics"></a>[Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26av)
 - <a id="zheng26a-theory-statistics"></a>[From Generalist to Specialist Representation](../conferences/icml-2026/cards/6001-6100.md#paper-zheng26a)
+- <a id="zheng26ag-theory-statistics"></a>[Theoretical Investigation on Inductive Bias of Isolation Forest](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ag)
 <!-- classification:end -->

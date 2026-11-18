@@ -387,6 +387,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing](../../conferences/icml-2026/cards/6001-6100.md#zheng26c-inference) · 中文
 - [LEAP: Zone-Aware MCTS for LLM Self-Speculative Decoding](../../conferences/icml-2026/cards/6101-6200.md#zheng26k-inference) · 中文
 - [Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming](../../conferences/icml-2026/cards/6101-6200.md#zheng26o-inference) · 中文
+- [Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions](../../conferences/icml-2026/cards/6101-6200.md#zheng26ae-inference) · 中文
+- [DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs](../../conferences/icml-2026/cards/6101-6200.md#zheng26ai-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

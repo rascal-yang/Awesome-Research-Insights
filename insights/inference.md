@@ -387,6 +387,8 @@
 - [跨分支临时答案共识的宽深控制](../conferences/icml-2026/cards/6001-6100.md#zheng26c-inference) · Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing
 - [prefill冗余分区的自推测层搜索](../conferences/icml-2026/cards/6101-6200.md#zheng26k-inference) · LEAP: Zone-Aware MCTS for LLM Self-Speculative Decoding
 - [扩散LM的mask logits与动态峰值工作区](../conferences/icml-2026/cards/6101-6200.md#zheng26o-inference) · Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming
+- [按截断长度分布的尾部风险调度](../conferences/icml-2026/cards/6101-6200.md#zheng26ae-inference) · Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions
+- [按通信粒度选择tile调度与collective](../conferences/icml-2026/cards/6101-6200.md#zheng26ai-inference) · DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs
 
 <a id="by-computer-vision"></a>
 

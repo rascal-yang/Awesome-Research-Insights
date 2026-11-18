@@ -6110,26 +6110,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6109	zheng26m	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按Hilbert序的连续块稀疏与层间滑动，最近方法差异见baseline且待核；复用5：2D视觉attention可先Hilbert重排以使多数局部区域连续，再以索引平移窗口和少量shared tokens跨块通信；按同质量下的端到端收益选择tiles，不能只看attention kernel最大倍数。 可用4受Hilbert locality非2D所有邻居1D邻近，GDE仅proxy且不能保geometry等距。文中ERF每layer整tile增长需sliding方向/查询窗口实际覆盖核查，不自动按公式保证全局通信；finetune和reorder开销、image/text/posID一致性、sparsity匹配待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
 6110	zheng26n	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按用无上下文与错配对照验证预测context，最近方法差异见baseline且待核；复用5：context-aided forecasting数据应以correct/no/swapped context在同history下测CRPS增量，并在多个forecaster上复测；用强model过滤的test集需承认selector偏置，合成未来描述不等现实可得协变量。 可用4受生成文本看future是受控额外信息，不能称凭history无泄漏提升或真实未来可用；selector提升筛选按结果构test，跨model相关降低但不消除偏置。train多数未forecaster筛，不能把7M全称验证有效；相关性/mean CRPS非每instance必有用，真实context可靠性/成本待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
 6111	zheng26o	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按扩散LM的mask logits与动态峰值工作区，最近方法差异见baseline且待核；复用5：dLLM部署可只对仍需预测位置计算logits，分别chunk logits/FFN到当前memory capacity，并用全graph lifetimes规划共享workspace；长context能力节省不代表任意sampler可跳过unmasked logits。 可用4受只有sampler只用masked logits时可精确省去其他行，remasking/全序列confidence策略需保所需logits。数学同算子不保证所有dtype/kernel bitwise，输出exact范围待核；若attention或其他非chunkable组件成峰会返回failure，长context compute/页映射/离线template成本仍存在。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
-6112	zheng26p							待原文复核评分	pending
-6113	zheng26q							待原文复核评分	pending
-6114	zheng26r							待原文复核评分	pending
-6115	zheng26s							待原文复核评分	pending
-6116	zheng26t							待原文复核评分	pending
-6117	zheng26u							待原文复核评分	pending
-6118	zheng26v							待原文复核评分	pending
-6119	zheng26w							待原文复核评分	pending
-6120	zheng26x							待原文复核评分	pending
-6121	zheng26y							待原文复核评分	pending
-6122	zheng26z							待原文复核评分	pending
-6123	zheng26aa							待原文复核评分	pending
-6124	zheng26ab							待原文复核评分	pending
-6125	zheng26ac							待原文复核评分	pending
-6126	zheng26ad							待原文复核评分	pending
-6127	zheng26ae							待原文复核评分	pending
-6128	zheng26af							待原文复核评分	pending
-6129	zheng26ag							待原文复核评分	pending
-6130	zheng26ah							待原文复核评分	pending
-6131	zheng26ai							待原文复核评分	pending
+6112	zheng26p	3	4	3	4	69		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特4：有限记忆决策树中先检查non-absentminded或SOS-concavity，再选择vertex-restricted moment层级或首层SDP，而非把局部行为策略KKT点当全局最优/NE。；generic有限收敛不等高效polytime；多玩家NE可能不存在，KKT仅必要须global best response验证；多玩家NAM不自动同ℓ+1保证。只适用明确记忆抽象与小多项式博弈，非通用神经RL收敛。 PDF4,5,6,7页。	scored
+6113	zheng26q							初筛，原文与先例核查待补：spec生成、确定性测试、compile-test-repair和多模态反馈是成熟test-driven code agent流程；CAD assembly约束与新验证集本身不足独立神经训练/推理操作或受控通用规律。PDF4–5。	rule-excluded
+6114	zheng26r							初筛，原文与先例核查待补：OSM+主要为十亿图数据整理、空间查询接口与城市基准；window check/kd-tree/云并行均成熟，数据规模与通用工程加速不构成独立相关深度学习机制。PDF4–5。	rule-excluded
+6115	zheng26s							初筛，原文与先例核查待补：REA数据构建与pointcloud/video/text直接融合或Q-former式cross-attention对齐为成熟multimodal pipeline；当前缓存未有独立新增objective或匹配控制规律，场景/动作新配对不足。PDF4–5。	rule-excluded
+6116	zheng26t							初筛，原文与先例核查待补：logdet diversity加局部density/已选集冗余惩罚是成熟coreset目标，budget sigmoid/经验C尺度配权未体现独立有力新选择规律；adaptive submodular称谓不能替代新增，归一logdet也非固定[0,1]。PDF3–4。	rule-excluded
+6117	zheng26u							初筛，原文与先例核查待补：通用可分离部分是channel-corruption预测、attention affinity图与prototype soft clustering/重建，接近成熟图聚类/latent pooling；iEEG新tokenization应用及规模不足独立新神经操作。只核缓存通用表示层面，未按临床领域名排除。PDF4–5。	rule-excluded
+6118	zheng26v							初筛，原文与先例核查待补：长视频benchmark、分层VQA gating、身份track一致性与双judge审计是已有分解评测组件组合；17模型分数差未给独立超出已有细粒度faithfulness评测的新机制或控制规律。PDF4–5。	rule-excluded
+6119	zheng26w							初筛，原文与先例核查待补：UCB选probe技能、分层agent探索与self/cross-consistency是成熟bandit/agent搜索；黑盒一致不等真实system prompt恢复，当前通用材料未有独立新优化/防御规则，41模型结果不替代机制增量。PDF4–5。	rule-excluded
+6120	zheng26x							初筛，原文与先例核查待补：GNN surrogate evaluator+joint partition/parameter generator、greedy capacity与STE、test-time adaptation为成熟surrogate optimization组合；正交cluster centers也属常用约束，QAOA任务映射未体现独立相关神经训练选择增量。PDF4–5。	rule-excluded
+6121	zheng26y							初筛，原文与先例核查待补：3D hand prior、action caption、按segment index缩放RoPE及事件frame loss重加权均沿用成熟条件/时间对齐操作；源明确承MinT，当前材料不足指出独立于该类time-conditioned attention的新机制，interactive VVT新数据/场景不足。PDF5–7。	rule-excluded
+6122	zheng26z	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：离线世界模型策略使用逆因果waypoint-feature attention时，应与纯IL、无mask、正向mask和竞争迁移一起对照；该mask并非对所有训练目标都有效。；world model在专家外动作上的偏差可能被RL利用，open-loop低collision不等闭环安全；mask只看未来预测feature非未来真观测或真实时间倒因果；额外双actor/rollout训练预算与最近竞争IL-RL先例待核。 PDF4,5,6,7页。	scored
+6123	zheng26aa							初筛，原文与先例核查待补：boundary subgraph sampling/mixup、domain discriminator与GRL比例分解、prompt weighting为成熟多域表示机制组合；训练数据压缩/得分不建立独立新一般选择规律。PDF4–5。	rule-excluded
+6124	zheng26ab							初筛，原文与先例核查待补：TRELLIS frozen prior features+KPConv+self/cross/global attention、contrastive correspondence与coordinate reconstruction为成熟registration/feature transfer组件；统一rigid/nonrigid及PCA可视化不足独立新增。PDF4–5。	rule-excluded
+6125	zheng26ac	3	5	4	3	76		初筛，原文与先例核查待补：暂定新增3/复用5/使用4/独特3：持续学习更新保留原梯度并加λ polar(G)，提升小的非零奇异方向相对影响；与只用polar及不同近似精度比较，避免把梯度秩塌缩等同可直接恢复零空间。；rank-deficient polar的零空间延拓不唯一；有限多项式polar保留精确零奇异值，不能称自动激活原本零方向。保留singular vectors不保证旧任务安全；λ、近似次数、矩阵形状及额外计算需核。 PDF4,5,6,7页。	scored
+6126	zheng26ad	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：在video grounding RL中，对同一reasoning比较原视频与GT边界附近打乱帧的平均logprob差，只有定位IoU合格时给相对group更敏感的轨迹额外奖励。；乱序会制造OOD伪影，敏感性可能反映脆弱性或视觉质量而非真实时间推理；若group均值为负，di>均值不保证di>0。需GT时间边界和额外video forwards，非无标注免费reward。 PDF4,5,6页。	scored
+6127	zheng26ae	3	5	4	4	79		初筛，原文与先例核查待补：暂定新增3/复用5/使用4/独特4：预测每请求输出长度分布，并在max_tokens截断后以期望加CVaR排序；队列压力高时增加尾部惩罚，同时用等待时间老化防止长请求长期排后。；无界log-t的正指数矩发散，有限mean/CVaR依赖实际max_tokens截断；当α分位超过cap应单独处理原CVaR式的边界。分布失配、predictor异步成本、10k MC分数误差和动态batch需计；aging无形式化等待时间界。 PDF4,5,7页。	scored
+6128	zheng26af	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：让expert gate的sigmoid标量拟合下游正确标签概率，替代softmax加load-balance的聚合权重；独立检查gate收益与两阶段缺失模态补全。；pt是下游整体正确标签概率，未必提供每expert真实贡献；是否sg及共享target可能使ci趋同须核。稀疏选择有不连续，宣称梯度恒冲突/PSD推全局最优不成立；随机均值对系统性缺失分布无保证。 PDF4,5,6页。	scored
+6129	zheng26ag	3	4	4	4	73		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特4：选择异常检测器时，不能把iForest score当纯局部密度；在一维或坐标投影设置同时检查支持集中心性，中央稀疏异常可能比边缘同密度异常更难检出。；极限需内部正density与support等正则；多维投影变体不捕捉联合异常，不能把其精确平均公式直接推广原随机逐层选维iForest。近似/有限树误差及标准iForest尺度对照待核。 PDF4,5,6,7页。	scored
+6130	zheng26ah	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：context reasoning先把模型生成analysis作为唯一上下文再解题，以两次正确gate给奖励；同时跨语义等价context版本和版本内分别归一advantage。；verification正确可能凭prior或analysis答案泄露，不证明其faithful/包含充分真实证据；旋转/重排不总保持所有问题语义；z-score相加不保证invariance或无偏policy gradient，额外variants/verification预算需计。 PDF5,6,7页。	scored
+6131	zheng26ai	3	5	4	4	79		初筛，原文与先例核查待补：暂定新增3/复用5/使用4/独特4：编译分布式tensor kernel时，按rank错开tile顺序使各rank尽早准备自己的通信chunk，并随GEMM reduction维度选择AllReduce或AllGather+ReduceScatter。；small attention head128使GEMM不足掩盖通信是特定shape条件；不规则shape、信号同步正确性、GPU拓扑/PCIe语义与调度开销要核；整个compiler收益不可单归rank-swizzle，需同kernel融合预算。 PDF4,5,6,7页。	scored
 6132	zheng26aj							待原文复核评分	pending
 6133	zhing26a							待原文复核评分	pending
 6134	zhiren26a							待原文复核评分	pending

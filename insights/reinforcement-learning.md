@@ -487,6 +487,7 @@
 - [训练中定位而推理时不强制box](../conferences/icml-2026/cards/6001-6100.md#zhang26je-reinforcement-learning) · iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning
 - [把坐标grounding变为带cursor反馈的迭代定位](../conferences/icml-2026/cards/6001-6100.md#zhao26c-reinforcement-learning) · Learning GUI Grounding with Spatial Reasoning from Visual Feedback
 - [正确门控的工具计数奖励与方差选组](../conferences/icml-2026/cards/6001-6100.md#zhao26ab-reinforcement-learning) · PyVision-RL: Forging Open Agentic Vision Models via RL
+- [把上下文分析重新解题验证并分层归一奖励](../conferences/icml-2026/cards/6101-6200.md#zheng26ah-reinforcement-learning) · Context-Aware Reasoner: Enhancing Contextual Reasoning in Multimodal Large Language Models
 
 <a id="by-ml-foundations"></a>
 

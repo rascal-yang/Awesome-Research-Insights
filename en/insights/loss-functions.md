@@ -257,6 +257,8 @@ Objectives, auxiliary supervision, and regularization.
 - [CFPO: Counterfactual Policy Optimization for Multimodal Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26at-loss-functions) · 中文
 - [UniFast-HGR: Scalable and Efficient Maximal Correlation for Multimodal Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26bp-loss-functions) · 中文
 - [In-Context Generation with Regional Constraints for Instructional Video Editing](../../conferences/icml-2026/cards/5801-5900.md#zhang26dw-loss-functions) · 中文
+- [Temporal-Aware Reasoning Optimization for Video Temporal Grounding](../../conferences/icml-2026/cards/6101-6200.md#zheng26ad-loss-functions) · 中文
+- [Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate](../../conferences/icml-2026/cards/6101-6200.md#zheng26af-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
