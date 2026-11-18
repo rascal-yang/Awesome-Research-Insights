@@ -120,8 +120,8 @@ number	openreview_id	title	paper_url	reason	status
 119	jnEHLRyWTZ	Learning Beyond What Humans Can Demonstrate	https://openreview.net/forum?id=jnEHLRyWTZ	从采集失败归纳状态约束并在部署阶段复用	included
 120	P8H2WZH2Tw	Predictive Representation Learning for Manipulation via Streaming Egocentric 3D Hand Forecasting	https://openreview.net/forum?id=P8H2WZH2Tw	用人手未来三维运动作为人类视频的预训练监督	included
 121	bLQynefrlp	Bimanual Robot Manipulation via Multi-Agent In-Context Learning	https://openreview.net/forum?id=bLQynefrlp	把双臂预测拆为有条件的先后决策	included
-122	f5329HhijI	Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation	https://openreview.net/forum?id=f5329HhijI		pending
-123	qHndjmxgs1	GeoHAT: Geometry-Adaptive Hybrid Action Transformer for Mobile Manipulation	https://openreview.net/forum?id=qHndjmxgs1		pending
+122	f5329HhijI	Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation	https://openreview.net/forum?id=f5329HhijI	在同一去噪过程中融合不同参考系的预测	included
+123	qHndjmxgs1	GeoHAT: Geometry-Adaptive Hybrid Action Transformer for Mobile Manipulation	https://openreview.net/forum?id=qHndjmxgs1	仅在深度可信的位置向视觉主干注入三维特征	included
 124	Nfz7oM0Vwz	InCoM: Intent-Driven Perception and Structured Coordination for Mobile Manipulation	https://openreview.net/forum?id=Nfz7oM0Vwz		pending
 125	ORKJlyLOHv	Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance	https://openreview.net/forum?id=ORKJlyLOHv		pending
 126	pENAQ22Jh1	SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation	https://openreview.net/forum?id=pENAQ22Jh1		pending
