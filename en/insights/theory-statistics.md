@@ -684,6 +684,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Sparse Bayesian Deep Functional Learning with Structured Region Selection](../../conferences/icml-2026/cards/6201-6300.md#zhu26aa-theory-statistics) · 中文
 - [Stochastic Gradient Methods under Heavy-Tailed Noises in Weakly Convex Optimization](../../conferences/icml-2026/cards/6201-6300.md#zhu26ax-theory-statistics) · 中文
 - [Generalization Bounds for Out-of-distribution Generalization](../../conferences/icml-2026/cards/6301-6400.md#zou26f-theory-statistics) · 中文
+- [A Random Matrix Theory of Masked Self-Supervised Learning](../../conferences/icml-2026/cards/6301-6400.md#zurich26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

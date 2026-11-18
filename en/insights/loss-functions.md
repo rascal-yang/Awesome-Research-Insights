@@ -83,6 +83,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Conflict-Aware Adaptive Alignment for LLM Hallucination Mitigation](../../conferences/icml-2026/cards/6301-6400.md#zong26a-loss-functions) · 中文
 - [Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance](../../conferences/icml-2026/cards/6301-6400.md#zou26i-loss-functions) · 中文
 - [Predicting the Order of Upcoming Tokens Improves Language Modeling](../../conferences/icml-2026/cards/6301-6400.md#zuhri26a-loss-functions) · 中文
+- [Enhancing Numerical Prediction in LLMs via Smooth MMD Alignment](../../conferences/icml-2026/cards/6301-6400.md#zuo26c-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -278,6 +279,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration](../../conferences/icml-2026/cards/6201-6300.md#zhou26aw-loss-functions) · 中文
 - [Mitigating the Modality Gap in Vision–Language Models with Fractal Spectral Geometry](../../conferences/icml-2026/cards/6201-6300.md#zhou26br-loss-functions) · 中文
 - [Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](../../conferences/icml-2026/cards/6201-6300.md#zhu26a-loss-functions) · 中文
+- [IVQ: Structured and Lightweight Vector Quantization via Binary Hierarchical Composition Inspired by $\textitIChing$](../../conferences/icml-2026/cards/6301-6400.md#zuo26b-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

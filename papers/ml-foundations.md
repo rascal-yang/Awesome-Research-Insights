@@ -1350,4 +1350,5 @@
 - <a id="zhu26aa-theory-statistics"></a>[Sparse Bayesian Deep Functional Learning with Structured Region Selection](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26aa)
 - <a id="zhu26ax-theory-statistics"></a>[Stochastic Gradient Methods under Heavy-Tailed Noises in Weakly Convex Optimization](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ax)
 - <a id="zou26f-theory-statistics"></a>[Generalization Bounds for Out-of-distribution Generalization](../conferences/icml-2026/cards/6301-6400.md#paper-zou26f)
+- <a id="zurich26a-theory-statistics"></a>[A Random Matrix Theory of Masked Self-Supervised Learning](../conferences/icml-2026/cards/6301-6400.md#paper-zurich26a)
 <!-- classification:end -->

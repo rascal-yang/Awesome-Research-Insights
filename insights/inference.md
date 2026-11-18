@@ -391,6 +391,7 @@
 - [按通信粒度选择tile调度与collective](../conferences/icml-2026/cards/6101-6200.md#zheng26ai-inference) · DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs
 - [由场景probe组合缓存head轴能量](../conferences/icml-2026/cards/6101-6200.md#zhiren26a-inference) · SubspacePath Pruner: Inference-time Pruning via Probe-based Representation–Parameter Coupling
 - [chunk锚点的前瞻与软几何评分](../conferences/icml-2026/cards/6201-6300.md#zhuang26a-inference) · The Geometric Reasoner: Manifold-Informed Latent Foresight Search for Long-Context Reasoning
+- [压缩KV同时匹配attention输出与未归一化质量](../conferences/icml-2026/cards/6301-6400.md#zweiger26a-inference) · Fast KV Compaction via Attention Matching
 
 <a id="by-computer-vision"></a>
 

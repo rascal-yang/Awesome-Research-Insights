@@ -144,6 +144,7 @@
 - <a id="zhou26aw-loss-functions"></a>[Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26aw)
 - <a id="zhou26br-loss-functions"></a>[Mitigating the Modality Gap in Vision–Language Models with Fractal Spectral Geometry](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26br)
 - <a id="zhu26a-loss-functions"></a>[Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26a)
+- <a id="zuo26b-loss-functions"></a>[IVQ: Structured and Lightweight Vector Quantization via Binary Hierarchical Composition Inspired by $\textitIChing$](../conferences/icml-2026/cards/6301-6400.md#paper-zuo26b)
 
 <a id="by-optimization"></a>
 

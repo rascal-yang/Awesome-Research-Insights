@@ -83,6 +83,7 @@
 - [真诚与有用冲突的pair自适应DPO margin](../conferences/icml-2026/cards/6301-6400.md#zong26a-loss-functions) · Conflict-Aware Adaptive Alignment for LLM Hallucination Mitigation
 - [草稿训练对齐整条接受概率](../conferences/icml-2026/cards/6301-6400.md#zou26i-loss-functions) · Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance
 - [用未来首现次序替代远期精确token预测](../conferences/icml-2026/cards/6301-6400.md#zuhri26a-loss-functions) · Predicting the Order of Upcoming Tokens Improves Language Modeling
+- [在数值token残差上加核匹配与图平滑](../conferences/icml-2026/cards/6301-6400.md#zuo26c-loss-functions) · Enhancing Numerical Prediction in LLMs via Smooth MMD Alignment
 
 <a id="by-computer-vision"></a>
 
@@ -278,6 +279,7 @@
 - [跨视觉encoder修复时分开对齐方向与尺度](../conferences/icml-2026/cards/6201-6300.md#zhou26aw-loss-functions) · Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration
 - [配对样本的多尺度热扩散邻域匹配](../conferences/icml-2026/cards/6201-6300.md#zhou26br-loss-functions) · Mitigating the Modality Gap in Vision–Language Models with Fractal Spectral Geometry
 - [匿名表结构与坐标内容的分离监督](../conferences/icml-2026/cards/6201-6300.md#zhu26a-loss-functions) · Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance
+- [以二进制索引关系耦合残差乘积码本](../conferences/icml-2026/cards/6301-6400.md#zuo26b-loss-functions) · IVQ: Structured and Lightweight Vector Quantization via Binary Hierarchical Composition Inspired by $\textitIChing$
 
 <a id="by-ml-foundations"></a>
 

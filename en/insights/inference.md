@@ -391,6 +391,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs](../../conferences/icml-2026/cards/6101-6200.md#zheng26ai-inference) · 中文
 - [SubspacePath Pruner: Inference-time Pruning via Probe-based Representation–Parameter Coupling](../../conferences/icml-2026/cards/6101-6200.md#zhiren26a-inference) · 中文
 - [The Geometric Reasoner: Manifold-Informed Latent Foresight Search for Long-Context Reasoning](../../conferences/icml-2026/cards/6201-6300.md#zhuang26a-inference) · 中文
+- [Fast KV Compaction via Attention Matching](../../conferences/icml-2026/cards/6301-6400.md#zweiger26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

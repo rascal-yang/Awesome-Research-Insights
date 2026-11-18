@@ -202,6 +202,7 @@
 - <a id="zong26a-loss-functions"></a>[Conflict-Aware Adaptive Alignment for LLM Hallucination Mitigation](../conferences/icml-2026/cards/6301-6400.md#paper-zong26a)
 - <a id="zou26i-loss-functions"></a>[Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance](../conferences/icml-2026/cards/6301-6400.md#paper-zou26i)
 - <a id="zuhri26a-loss-functions"></a>[Predicting the Order of Upcoming Tokens Improves Language Modeling](../conferences/icml-2026/cards/6301-6400.md#paper-zuhri26a)
+- <a id="zuo26c-loss-functions"></a>[Enhancing Numerical Prediction in LLMs via Smooth MMD Alignment](../conferences/icml-2026/cards/6301-6400.md#paper-zuo26c)
 
 <a id="by-optimization"></a>
 
@@ -1168,6 +1169,7 @@
 - <a id="zheng26ai-inference"></a>[DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ai)
 - <a id="zhiren26a-inference"></a>[SubspacePath Pruner: Inference-time Pruning via Probe-based Representation–Parameter Coupling](../conferences/icml-2026/cards/6101-6200.md#paper-zhiren26a)
 - <a id="zhuang26a-inference"></a>[The Geometric Reasoner: Manifold-Informed Latent Foresight Search for Long-Context Reasoning](../conferences/icml-2026/cards/6201-6300.md#paper-zhuang26a)
+- <a id="zweiger26a-inference"></a>[Fast KV Compaction via Attention Matching](../conferences/icml-2026/cards/6301-6400.md#paper-zweiger26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1582,6 +1584,7 @@
 - <a id="zhu26g-evaluation"></a>[Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26g)
 - <a id="zhu26ac-evaluation"></a>[Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ac)
 - <a id="zhuo26b-evaluation"></a>[Understanding the Ability of LLMs to Handle Character-Level Perturbation](../conferences/icml-2026/cards/6201-6300.md#paper-zhuo26b)
+- <a id="baumann26a-evaluation"></a>[Position: Stop Automating Peer Review Without Rigorous Evaluation](../conferences/icml-2026/cards/6301-6400.md#paper-baumann26a)
 
 <a id="by-theory-statistics"></a>
 

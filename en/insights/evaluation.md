@@ -396,6 +396,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems](../../conferences/icml-2026/cards/6201-6300.md#zhu26g-evaluation) · 中文
 - [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](../../conferences/icml-2026/cards/6201-6300.md#zhu26ac-evaluation) · 中文
 - [Understanding the Ability of LLMs to Handle Character-Level Perturbation](../../conferences/icml-2026/cards/6201-6300.md#zhuo26b-evaluation) · 中文
+- [Position: Stop Automating Peer Review Without Rigorous Evaluation](../../conferences/icml-2026/cards/6301-6400.md#baumann26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -780,4 +781,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench](../../conferences/icml-2026/cards/5401-5500.md#yao26k-evaluation) · 中文
 - [WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws](../../conferences/icml-2026/cards/5701-5800.md#zhang26am-evaluation) · 中文
 - [Overcoming the Modality Gap in Context-Aided Forecasting](../../conferences/icml-2026/cards/6101-6200.md#zheng26n-evaluation) · 中文
+- [Position: Evaluation of ECG Representations Must Be Fixed](../../conferences/icml-2026/cards/6301-6400.md#berger26a-evaluation) · 中文
 <!-- classification:end -->

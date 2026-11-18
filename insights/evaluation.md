@@ -396,6 +396,7 @@
 - [调度熵的短程拟合与context扰动](../conferences/icml-2026/cards/6201-6300.md#zhu26g-evaluation) · Recognize Your Orchestrator: An Entropy Dynamics Perspective for LLM Multi-Agent Systems
 - [合作率要结合监控结构与策略收益判断](../conferences/icml-2026/cards/6201-6300.md#zhu26ac-evaluation) · Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents
 - [拆开token碎片化与字符噪声的鲁棒评价](../conferences/icml-2026/cards/6201-6300.md#zhuo26b-evaluation) · Understanding the Ability of LLMs to Handle Character-Level Perturbation
+- [对LLM评审同时测跨文同质性与改写敏感性](../conferences/icml-2026/cards/6301-6400.md#baumann26a-evaluation) · Position: Stop Automating Peer Review Without Rigorous Evaluation
 
 <a id="by-computer-vision"></a>
 
@@ -780,4 +781,5 @@
 - [极端物理regime的共享线性解码诊断](../conferences/icml-2026/cards/5401-5500.md#yao26k-evaluation) · The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench
 - [以目标波函数拟合扫行列式数与网络深度](../conferences/icml-2026/cards/5701-5800.md#zhang26am-evaluation) · WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws
 - [用无上下文与错配对照验证预测context](../conferences/icml-2026/cards/6101-6200.md#zheng26n-evaluation) · Overcoming the Modality Gap in Context-Aided Forecasting
+- [预训练表征要对照随机encoder并检查稀有标签影响](../conferences/icml-2026/cards/6301-6400.md#berger26a-evaluation) · Position: Evaluation of ECG Representations Must Be Fixed
 <!-- classification:end -->

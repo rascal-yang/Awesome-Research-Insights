@@ -6330,26 +6330,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6329	zou26p							初筛，原文与先例核查待补：tool embedding检索/选择、SFT+RL stabilization和masked tool-step的KL-regularized Plackett–Luce排序，属成熟tool policy+listwise preference优化；专用工具数据/未见tool泛化未隔离新一般目标或操作。PDF4，最近PL agent ranking待核。	rule-excluded
 6330	zu26a	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：offline-to-online训练可按样本相对行为模型的距离与两buffer统计，交换其使用保守或在线目标的角色，而非让数据来源永远决定constraint。；distance充分性由likelihood ratio只依d假设给出，不是任意policy自动成立；非负distance Gaussian仅近似。交换后均值分离/threshold HΔH变大不是控制性能或Bayes正确率保证；equal means/vars边界和交换比例、behavior采样及计算成本待核。 PDF4,5,6,7页。	scored
 6331	zuhri26a	4	5	4	4	86		初筛，原文与先例核查待补：暂定新增4/复用5/使用4/独特4：LLM辅助目标可用单unembedding head预测窗口内token首现距离的softmax排名，联合NTP，避免每个未来offset额外Transformer head。；训练匹配非embedding参数且MTP trunk减3层，非相同trunk/总FLOPs；TOP额外DV参数和大vocab head不是零成本。Alg1先记录current token再查询会令其d=0从future目标遗漏，即使后续复现仍排除，需代码核。不同loss绝对值低不证明任务更容易/辅助更佳，数学/代码含负结果。 PDF3,4,5,6页。	scored
-6332	zuo26a							待原文复核评分	pending
-6333	zuo26b							待原文复核评分	pending
-6334	zuo26c							待原文复核评分	pending
-6335	zuo26d							待原文复核评分	pending
-6336	zuo26e							待原文复核评分	pending
-6337	zuo26f							待原文复核评分	pending
-6338	zuopeng26a							待原文复核评分	pending
-6339	zurich26a							待原文复核评分	pending
-6340	zweiger26a							待原文复核评分	pending
-6341	aldoma26a							待原文复核评分	pending
-6342	anagnostides26c							待原文复核评分	pending
-6343	anderson26b							待原文复核评分	pending
-6344	bakhtiarifard26a							待原文复核评分	pending
-6345	ball26c							待原文复核评分	pending
-6346	bandel26a							待原文复核评分	pending
-6347	banerjee26c							待原文复核评分	pending
-6348	baumann26a							待原文复核评分	pending
-6349	behdin26a							待原文复核评分	pending
-6350	bekkers26a							待原文复核评分	pending
-6351	berger26a							待原文复核评分	pending
+6332	zuo26a							初筛，原文与先例核查待补：缓存PDF4–6以已知Laplacian product/Kronecker谱表征位置与朝向，再用Green函数1/λ谱加权势场导航。具体可改变goal-conditioned谱readout，但当前为成熟spectral map与harmonic potential/Green导航的统一叙述，未隔离独立新算子或神经学习规则，初筛排除。Neumann下δ源兼容性与去常数模、截断谱是否保无局部陷阱，以及known-map A*成本口径待核；不以PDE表述疑点单独排除。	rule-excluded
+6333	zuo26b	3	4	2	3	62		初筛，原文与先例核查待补：暂定评分依据：小VQ码本可在不同block粒度共享基础码，并对同一组合索引施跨层一致性及反转/取反关系约束，使未直接命中的code也由关联code获得训练信号。；边界：组合索引数是上界，不保证不同组合对应不同重建向量或无collapse。Eq9写cosine比值而非标准log-softmax InfoNCE，分母符号/零值与实现待核，不替作者修式；关系固定点、联合loss消融和真实bitrate/compute需统一核查。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zuo26b/zuo26b.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zuo26b/zuo26b.pdf#page=6)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zuo26b/zuo26b.pdf#page=7)	scored
+6334	zuo26c	4	4	4	4	80		初筛，原文与先例核查待补：暂定评分依据：数字输出训练可保持full-vocab CE，并对numeric子词条件分布与one-hot之差加rᵀ(K+αL)r；平滑残差而非预测本身，使正确one-hot时辅助loss仍为零。；边界：条件numeric分布不惩罚给numeric集合的总质量，仍依赖full CE。digit级损失不直接表达多位数/符号/小数的整值距离；重复数值token可使K仅PSD不正定，kernel宽度/λ与tokenizer差异需配平；L项不等序列误差保证。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zuo26c/zuo26c.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zuo26c/zuo26c.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zuo26c/zuo26c.pdf#page=6)	scored
+6335	zuo26d							初筛，原文与先例核查待补：缓存PDF4–5 CoCLD以VAE/diffusion插值初始化individual/global coupled neural ODE，再加task/重建/KL loss交替训练。具体选择是双尺度连续时间建模，但当前为成熟global-local latent ODE与diffusion interpolation组合，未隔离独立新coupling或一致估计条件超出既有ODE稳定性，初筛排除。Lipschitz存在唯一不等真潜过程可识别/统计一致，稀疏观测偏差和global信息可用性控制待核。	rule-excluded
+6336	zuo26e							初筛，原文与先例核查待补：缓存PDF4–5 GLAD将attribute latent diffusion配标准structure condition dropout CFG，并从生成latent用inner-product decoder重建邻接。具体可改变图缺失属性的拓扑正则，但当前为成熟生成重建一致性/CFG迁到graph completion，未隔离独立新loss算子，初筛排除。高MI或低邻接误差不保证严格拓扑一致，ELBO代理不自动更紧于GAN，forwardKL/JS最优分布均可完全拟合，mode coverage泛论不能替代控制；homophily/缺失机制/同预算待核。	rule-excluded
+6337	zuo26f							初筛，原文与先例核查待补：缓存PDF4–5 NSPI用PSD Gram或对角占优经典SOS生成器合成数据，LLM标准SFT→curriculum GRPO猜分解，再Newton/有理恢复和Lean核验。具体选择为neural conjecture接exact certificate，但当前是成熟SOS数值精化、形式化和两阶段训练的领域工作流，未隔离独立新证明搜索/优化操作，初筛排除；非SOS非负多项式边界、coeff分布偏差、验证调用与同算量控制待核。	rule-excluded
+6338	zuopeng26a							初筛，原文与先例核查待补：缓存PDF4–5 AnyBand-Diff是band/pixel双mask、condition affine modulation、可微物理loss引导，辅以相关矩阵/KDE分布/RTM重建多尺度loss。可改变遥感缺band生成配方，但当前为成熟masked conditional diffusion、physics guidance和统计矩匹配集成，未隔离独立可复用算子或新适用边界，初筛排除。相关/指数代理非全物理可行性，Ptarget条件信息、RTM参数与mask同预算控制待核。	rule-excluded
+6339	zurich26a	4	4	3	4	76		初筛，原文与先例核查待补：暂定评分依据：线性masked SSL基线应按坐标条件相关结构选，而非只看低秩spike：无相关坐标最优zero-diagonal预测器为零；AR式局部相关可使masked ridge比低秩PCA更适合重建。；边界：结果针对特定逐坐标线性目标和n/d比例渐近，不能外推任意mask率/nonlinear深网或语义迁移；PCA完整重建可用自身坐标，比较任务信息集需核。BBP谱可分离不等下游恢复性能，finite-size/regularization边界待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zurich26a/zurich26a.pdf#page=4)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zurich26a/zurich26a.pdf#page=7)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zurich26a/zurich26a.pdf#page=8)	scored
+6340	zweiger26a	4	5	4	4	86		初筛，原文与先例核查待补：暂定评分依据：长上下文KV压缩可给保留key加可学log质量bias，并用reference queries分别匹配attention分母与输出，再最小二乘重估value；只匹配局部归一化输出不能保与未来token竞争的权重。；边界：保贡献结论仅对匹配的query及误差范围，reference distribution可能错配；OLS需rank/正则或伪逆，NNLS非一般闭式，零weight的log处理待核。保logical position length以维持RoPE；LongBenchV2另47context筛选子集不能当全benchmark准确率。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zweiger26a/zweiger26a.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zweiger26a/zweiger26a.pdf#page=4)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zweiger26a/zweiger26a.pdf#page=7)	scored
+6341	aldoma26a							初筛，原文与先例核查待补：缓存PDF4–5提出p(x)域不确定度与p(y|x)组成joint UQ，援引finite ensemble entropy的已知logM界和CIFAR10/SVHN示例。具体建议是加input-density信号而非只看predictive entropy，但当前未给独立新估计/融合/校准操作，展示的共同外推自信与ensemble界也属成熟UQ失败模式，初筛排除；density模型选择和典型集/likelihood错排控制待核，不因Position标签排。	rule-excluded
+6342	anagnostides26c							初筛，原文与先例核查待补：缓存摘要与PDF4讨论分配决策中的strategic incentives并提议mechanism design/causal/strategic classification研究议程。当前通用数学部分未给可独立采用的新机制、learning rule或受控神经决策规律，初筛排除；已有推荐技术为成熟方法在专门制度中的应用方向，不因医疗领域排除，也不将制度观察扩写为神经算法证据。	rule-excluded
+6343	anderson26b							初筛，原文与先例核查待补：缓存摘要与PDF4提出长期well-being目标、明确assistant角色及多轮结果评测，主要用既有实证/个案支持研究议程。具体可改变评价时间窗口，但当前未给可执行的新reward estimator/训练操作或新增受控神经失败实验，初筛排除；长期目标定义、因果归因与可测性仍待核，不能用价值主张替代独立技术增量。	rule-excluded
+6344	bakhtiarifard26a							初筛，原文与先例核查待补：缓存摘要与PDF4的CARAML分析气候/资源可及性张力并向多个主体提出制度建议。当前未给可独立复用的新神经优化、部署调度或能源计量规则，初筛排除；区域能源和资源统计不直接形成深度学习技术选择的新增算法或受控规律，不因Position体裁自动排除。	rule-excluded
+6345	ball26c							初筛，原文与先例核查待补：缓存摘要与PDF4归纳pretraining filtering、posttraining和inference control的既有能力及其滥用风险，给治理/缓解建议。当前未提供独立新的对齐目标、控制器或新增受控技术失败边界，初筛排除；dual-use分类表和案例映射不能替代原始算法增量，不提取操纵应用流程。	rule-excluded
+6346	bandel26a							初筛，原文与先例核查待补：缓存摘要与PDF4用已有general ReAct/MiniSWE与专用系统成绩倡议general/adaptive agent和通用协议。具体能提醒减少特定任务手工工程，但引用不同系统的代码量/成本分数未隔离独立新执行策略或统一预算适应规律，初筛排除；非仅因Position，跨benchmark与工具权限/基础模型控制待核。	rule-excluded
+6347	banerjee26c							初筛，原文与先例核查待补：缓存摘要与PDF4明确贡献为leaderboard制度设计，讨论regional benchmark纳入、独立治理及冲突披露，附82人咨询。当前没有独立新模型评测统计量、聚合算法或受控神经性能规律，初筛排除；可改变组织治理选择但不足改变具身/相关DL的具体技术操作，不否认其制度研究价值。	rule-excluded
+6348	baumann26a	3	4	4	4	73		初筛，原文与先例核查待补：暂定评分依据：使用LLM评审/奖励反馈前，应测同稿多judge与同judge跨稿的embedding相似性，并用原稿/改写稿配对评分检验风格敏感性；多份高度相似评语不能直接当独立证据。；边界：生成来源标签可能误差；pairwise相似共享paper/reviewer，显著性需cluster-aware重采样。改写可引入实质/幻觉内容，且有特定对抗条件，不能说全部仅风格且科学内容严格不变；embedding相似不等批评逻辑相同或自动无效。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/baumann26a/baumann26a.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/baumann26a/baumann26a.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/baumann26a/baumann26a.pdf#page=6)	scored
+6349	behdin26a							初筛，原文与先例核查待补：缓存摘要与PDF4论证部署后四类非平稳要求continual RL，并以Cursor Tab等已有在线policy-gradient部署为案例。具体可提示持续收集on-policy反馈，但当前未给独立新adaptation/replay/stability规则或统一受控失效规律，初筛排除；经典on-policy分布陈旧问题及现有案例不独立成新算法，deployment成本/安全更新边界待核。	rule-excluded
+6350	bekkers26a							初筛，原文与先例核查待补：缓存摘要与PDF4比较physicalism/idealism等意识哲学框架并提出道德判断。当前没有可执行神经模型机制、新测量方法或受控认知/学习实验，无法具体改变具身/相关DL技术选择，初筛排除；其形而上结论不是模型意识/表征的经验认证，不按题名含biology排除。	rule-excluded
+6351	berger26a	4	4	4	4	80		初筛，原文与先例核查待补：暂定评分依据：多标签时序表征评估应加入冻结随机encoder+同样linear probe，逐label报告AUROC/AUPRC与paired不确定度，并检查极低支持标签如何改变macro排名；不能只凭macro点估计选预训练目标。；边界：不等随机encoder在所有任务替代预训练，低数据/不同label反例很多；移除低支持label改变estimand，不是唯一正确排名。需核patient-level划分、probe tuning、模型架构/预处理对齐与配对bootstrap单位；不将CI重叠当等效性证明。；初筛整理，原文与先例尚未统一核查。[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/berger26a/berger26a.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/berger26a/berger26a.pdf#page=6)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/berger26a/berger26a.pdf#page=8)	scored
 6352	beyer26b							待原文复核评分	pending
 6353	bharadhwaj26a							待原文复核评分	pending
 6354	bhattacharya26b							待原文复核评分	pending
