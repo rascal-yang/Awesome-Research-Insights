@@ -1302,66 +1302,66 @@ poster_id	title	paper_url	status	reason
 153237	Causal Multi-Task Demand Learning	https://neurips.cc/virtual/2026/poster/153237	included	用价格序列处理跨任务混杂，同时保留局部外生监督
 148689	Causal pieces: analysing and improving spiking neural networks piece by piece	https://neurips.cc/virtual/2026/poster/148689	included	用单脉冲网络激活子网的分区数诊断初始化
 148867	Causal Representation Learning for Generalisable Recommendation	https://neurips.cc/virtual/2026/poster/148867	included	用因果解耦训练项提升从旧日志向上线候选分布迁移
-138913	CausalSpatial: A Benchmark for Object-Centric Causal Spatial Reasoning	https://neurips.cc/virtual/2026/poster/138913	pending	-
-153856	Causal Survival Forests with Negative Controls	https://neurips.cc/virtual/2026/poster/153856	pending	-
-150884	CausalTab: Pretraining Across Causal Environments for Tabular Causal Discovery	https://neurips.cc/virtual/2026/poster/150884	pending	-
-139209	Causal-VLM: Dense Causal Captioning in Videos	https://neurips.cc/virtual/2026/poster/139209	pending	-
-153157	CAVE: A Structured Credit Assignment Approach for Fragmented Visual Evidence Reasoning	https://neurips.cc/virtual/2026/poster/153157	pending	-
-148652	CCDiff: Inverse Canonical Correlation Analysis for Discovering Visual Differences in Natural Language	https://neurips.cc/virtual/2026/poster/148652	pending	-
-154162	CC-GS: Low-Memory 3D Gaussian Splatting Training via CPU-GPU Block-Wise Context Compositing	https://neurips.cc/virtual/2026/poster/154162	pending	-
-148611	CCTimeBoost: Learning Time-Varying Relative Risk with Case-Control Boosted Trees	https://neurips.cc/virtual/2026/poster/148611	pending	-
-156085	CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy	https://neurips.cc/virtual/2026/poster/156085	pending	-
-152287	CECAR: Cache & Expert Co-Aware Routing Accelerates On-Device Inference of MoE LLMs	https://neurips.cc/virtual/2026/poster/152287	pending	-
-148283	CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes	https://neurips.cc/virtual/2026/poster/148283	pending	-
-151414	CellMSA: Context Modeling for Single-Cell Representation Learning	https://neurips.cc/virtual/2026/poster/151414	pending	-
-138931	CellularS2-Bench: A Staged, Evidence-Grounded Benchmark for Cellular Network Security Reasoning	https://neurips.cc/virtual/2026/poster/138931	pending	-
-150459	CENDRe: Concept Extraction with Natural Domain Representations	https://neurips.cc/virtual/2026/poster/150459	pending	-
-139585	CEO-Bench: Can Agents Play the Long Game?	https://neurips.cc/virtual/2026/poster/139585	pending	-
-139123	Cephalonauts One: A deep fMRI dataset for decoding naturalistic speech in the human brain	https://neurips.cc/virtual/2026/poster/139123	pending	-
-153331	Certifiably Optimal Robust Angular Synchronization	https://neurips.cc/virtual/2026/poster/153331	pending	-
-150658	Certification-Enhanced Generalization Bounds	https://neurips.cc/virtual/2026/poster/150658	pending	-
-150529	Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization	https://neurips.cc/virtual/2026/poster/150529	pending	-
-151824	Certified but Private: Scalable Zero-Knowledge Proofs for the Formal Verification of Neural Networks	https://neurips.cc/virtual/2026/poster/151824	pending	-
-148390	Certified Policy Optimisation for Nested Causal Bandits via PAC-Bayes Risk	https://neurips.cc/virtual/2026/poster/148390	pending	-
-148991	Certified Robust Interpretability via Concept-Space Stability under Interventional Proxies	https://neurips.cc/virtual/2026/poster/148991	pending	-
-152235	Certified Single-Level Reformulation for Tri-Level Cyber-Physical Grid Security	https://neurips.cc/virtual/2026/poster/152235	pending	-
-139843	CFC26: Building Evaluations for Deployment in Sonar-Based Fish Counting	https://neurips.cc/virtual/2026/poster/139843	pending	-
-152332	C-GRPO: Conformal Group Relative Policy Optimization	https://neurips.cc/virtual/2026/poster/152332	pending	-
-154069	CHAIN: Complementary Signed Graph Propagation for Uncertainty Quantification in Large Language Models	https://neurips.cc/virtual/2026/poster/154069	pending	-
-155574	CHAIN: Continual Heterogeneous Cooperation with Information Bottleneck for Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155574	pending	-
-149929	ChainFlow-VLA: Causal Flow Planning with Vision-Language Models	https://neurips.cc/virtual/2026/poster/149929	pending	-
-153624	ChainForge: Tool-Chain Hijacking Attacks against LLM Agents via Execution-Grounded Tool Synthesis	https://neurips.cc/virtual/2026/poster/153624	pending	-
-151502	Chaining 2-FWL GNNs for Combinatorial Graph Alignment	https://neurips.cc/virtual/2026/poster/151502	pending	-
-154354	Chain-of-Correction: Progress-Aware Policy Steering via Anchor-Grounded Predictive Reasoning	https://neurips.cc/virtual/2026/poster/154354	pending	-
-149520	Chain of Dual Structures in Transformer Attention	https://neurips.cc/virtual/2026/poster/149520	pending	-
-149593	Chain-of-Generation: Progressive Latent Diffusion for Text-Guided Molecular Design	https://neurips.cc/virtual/2026/poster/149593	pending	-
-154597	Chain-of-Route: State-Aware LLM Routing for Multi-Turn Conversations	https://neurips.cc/virtual/2026/poster/154597	pending	-
-140085	Chain-of-Thought Is Not Explainability	https://neurips.cc/virtual/2026/poster/140085	pending	-
-140099	Chain-of-Thought Oversight Should Not Treat Faithfulness as Monitorability	https://neurips.cc/virtual/2026/poster/140099	pending	-
-150110	ChainSpace: A Chained-Reasoning Paradigm for Spatial Intelligence	https://neurips.cc/virtual/2026/poster/150110	pending	-
-150205	Chance-constrained Flow Matching for High-Fidelity Constraint-aware Generation	https://neurips.cc/virtual/2026/poster/150205	pending	-
-149306	Change-Robust Online Topological Memory for Long-Term Relocalization and Semantic Navigation	https://neurips.cc/virtual/2026/poster/149306	pending	-
-151923	Channel Mixer: A Pretrainable Tokenizer for Scalable Multi-Channel Vision Transformers	https://neurips.cc/virtual/2026/poster/151923	pending	-
-152137	Channel-wise Vector Quantization	https://neurips.cc/virtual/2026/poster/152137	pending	-
-149597	ChanSFormer: A Channel Agnostic Vision Transformer for Multi-Channel Cell Painting Images	https://neurips.cc/virtual/2026/poster/149597	pending	-
-148219	Characterizing Learning in Deep Neural Networks using a Tractable Algorithmic Complexity Estimator	https://neurips.cc/virtual/2026/poster/148219	pending	-
-154072	Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects	https://neurips.cc/virtual/2026/poster/154072	pending	-
-139666	Characterizing the Aesthetic Defaults of Generative Image Models	https://neurips.cc/virtual/2026/poster/139666	pending	-
-153245	Characterizing the Edge of Stability in Variational Training Without Priors	https://neurips.cc/virtual/2026/poster/153245	pending	-
-153550	Characterizing the Generalization Error of Random Feature Regression with Arbitrary Data-Augmentation	https://neurips.cc/virtual/2026/poster/153550	pending	-
-154648	Characterizing Trainability of Instantaneous Quantum Polynomial Circuit Born Machine	https://neurips.cc/virtual/2026/poster/154648	pending	-
-153000	Characterizing Underrepresentation in Generalizing Causal Survival Estimates	https://neurips.cc/virtual/2026/poster/153000	pending	-
-156019	Characterizing Universal Object Representations Across Vision Models	https://neurips.cc/virtual/2026/poster/156019	pending	-
-148244	Character Mixing for Video Generation	https://neurips.cc/virtual/2026/poster/148244	pending	-
-154071	CHARM+: Cross-Hardware Attention with Re-Merge Multistream Mechanism	https://neurips.cc/virtual/2026/poster/154071	pending	-
-148773	ChartArena: A Unified Benchmark with Atomic-Primitive Reasoning for Chart Parsing	https://neurips.cc/virtual/2026/poster/148773	pending	-
-150479	Chasing Label Shifters: A Change-Aware Framework for Dynamic Graph Node Classification	https://neurips.cc/virtual/2026/poster/150479	pending	-
-148306	CHASM: Cross-frequency Harmonized Axis-Separable Mixing for Spectral Token Operators	https://neurips.cc/virtual/2026/poster/148306	pending	-
-150065	Chatter Attack: Resource Consumption Attack for Large Language Models	https://neurips.cc/virtual/2026/poster/150065	pending	-
-148469	Cheap Per-Component Testing for PLS, Stable Under Rotation	https://neurips.cc/virtual/2026/poster/148469	pending	-
-148921	Cheap Talk, Real Stakes: Commitment and Exploitation in Human-LLM Strategic Interaction	https://neurips.cc/virtual/2026/poster/148921	pending	-
-150678	Chebyshev Differential Flows for Shape Matching and Interpolation with Endpoint Guidance	https://neurips.cc/virtual/2026/poster/150678	pending	-
-139372	Chem-PerturBridge: a harmonized compendium of small molecule perturbation transcriptomic effects	https://neurips.cc/virtual/2026/poster/139372	pending	-
+138913	CausalSpatial: A Benchmark for Object-Centric Causal Spatial Reasoning	https://neurips.cc/virtual/2026/poster/138913	included	用显式模拟画面辅助反事实空间判断
+153856	Causal Survival Forests with Negative Controls	https://neurips.cc/virtual/2026/poster/153856	included	在生存森林中引入负对照和正交损失
+150884	CausalTab: Pretraining Across Causal Environments for Tabular Causal Discovery	https://neurips.cc/virtual/2026/poster/150884	included	把图结构、机制和干预制度作为独立采样因素
+139209	Causal-VLM: Dense Causal Captioning in Videos	https://neurips.cc/virtual/2026/poster/139209	included	联合训练时间定位、事件描述和因果边预测
+153157	CAVE: A Structured Credit Assignment Approach for Fragmented Visual Evidence Reasoning	https://neurips.cc/virtual/2026/poster/153157	included	分别给有效找证据、更新判断和调整焦点赋予奖励
+148652	CCDiff: Inverse Canonical Correlation Analysis for Discovering Visual Differences in Natural Language	https://neurips.cc/virtual/2026/poster/148652	included	用统计关联分析发现图像集合的语义差异
+154162	CC-GS: Low-Memory 3D Gaussian Splatting Training via CPU-GPU Block-Wise Context Compositing	https://neurips.cc/virtual/2026/poster/154162	included	按块优化并缓存其余块的像素合成上下文
+148611	CCTimeBoost: Learning Time-Varying Relative Risk with Case-Control Boosted Trees	https://neurips.cc/virtual/2026/poster/148611	included	用含时间特征的分组 softmax 训练提升树
+156085	CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy	https://neurips.cc/virtual/2026/poster/156085	included	在轴向插值中显式建模浅层遮挡
+152287	CECAR: Cache & Expert Co-Aware Routing Accelerates On-Device Inference of MoE LLMs	https://neurips.cc/virtual/2026/poster/152287	included	让专家路由使用预计复用距离
+148283	CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes	https://neurips.cc/virtual/2026/poster/148283	included	用任意时点有效的区间决定何时停止评测
+151414	CellMSA: Context Modeling for Single-Cell Representation Learning	https://neurips.cc/virtual/2026/poster/151414	included	将不同批次的相似观测用于上下文表示学习
+138931	CellularS2-Bench: A Staged, Evidence-Grounded Benchmark for Cellular Network Security Reasoning	https://neurips.cc/virtual/2026/poster/138931	included	分阶段验证模型能否引用和串联规范证据
+150459	CENDRe: Concept Extraction with Natural Domain Representations	https://neurips.cc/virtual/2026/poster/150459	included	在时间和频率域定位同一概念
+139585	CEO-Bench: Can Agents Play the Long Game?	https://neurips.cc/virtual/2026/poster/139585	included	单独记录长程经营的累计结果与适应表现
+139123	Cephalonauts One: A deep fMRI dataset for decoding naturalistic speech in the human brain	https://neurips.cc/virtual/2026/poster/139123	included	按同一参与者数据量绘制神经解码学习曲线
+153331	Certifiably Optimal Robust Angular Synchronization	https://neurips.cc/virtual/2026/poster/153331	included	用节点约束界收紧鲁棒旋转同步搜索
+150658	Certification-Enhanced Generalization Bounds	https://neurips.cc/virtual/2026/poster/150658	included	用样本级稳定性验证辅助分布泛化界
+150529	Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization	https://neurips.cc/virtual/2026/poster/150529	included	评估算法任务时区分平均准确率与精确一致性认证
+151824	Certified but Private: Scalable Zero-Knowledge Proofs for the Formal Verification of Neural Networks	https://neurips.cc/virtual/2026/poster/151824	included	用零知识证明交付局部鲁棒证书而保留权重私密
+148390	Certified Policy Optimisation for Nested Causal Bandits via PAC-Bayes Risk	https://neurips.cc/virtual/2026/poster/148390	included	对跨层策略按机制建模并独立认证。
+148991	Certified Robust Interpretability via Concept-Space Stability under Interventional Proxies	https://neurips.cc/virtual/2026/poster/148991	included	同时认证标签稳定和概念稳定。
+152235	Certified Single-Level Reformulation for Tri-Level Cyber-Physical Grid Security	https://neurips.cc/virtual/2026/poster/152235	included	以保守上界验证既定防御资源分配。
+139843	CFC26: Building Evaluations for Deployment in Sonar-Based Fish Counting	https://neurips.cc/virtual/2026/poster/139843	included	用跨地点切分及累计计数误差验证生态监测模型。
+152332	C-GRPO: Conformal Group Relative Policy Optimization	https://neurips.cc/virtual/2026/poster/152332	included	用共形停止阈值自适应分配 rollout。
+154069	CHAIN: Complementary Signed Graph Propagation for Uncertainty Quantification in Large Language Models	https://neurips.cc/virtual/2026/poster/154069	included	用回应间支持与矛盾结构估计置信度。
+155574	CHAIN: Continual Heterogeneous Cooperation with Information Bottleneck for Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155574	included	对共享状态表征压缩并鼓励各智能体形成不同专长。
+149929	ChainFlow-VLA: Causal Flow Planning with Vision-Language Models	https://neurips.cc/virtual/2026/poster/149929	included	先生成因果轨迹模式，再生成模式内残差。
+153624	ChainForge: Tool-Chain Hijacking Attacks against LLM Agents via Execution-Grounded Tool Synthesis	https://neurips.cc/virtual/2026/poster/153624	excluded	摘要的核心机制为劫持智能体工具执行链，未提取操作性方法。
+151502	Chaining 2-FWL GNNs for Combinatorial Graph Alignment	https://neurips.cc/virtual/2026/poster/151502	included	将离散匹配反馈接回下一阶段图网络。
+154354	Chain-of-Correction: Progress-Aware Policy Steering via Anchor-Grounded Predictive Reasoning	https://neurips.cc/virtual/2026/poster/154354	included	借助三维关系同时复查过去和预测整体任务进度。
+149520	Chain of Dual Structures in Transformer Attention	https://neurips.cc/virtual/2026/poster/149520	included	用凸势统一选择注意力的打分与聚合。
+149593	Chain-of-Generation: Progressive Latent Diffusion for Text-Guided Molecular Design	https://neurips.cc/virtual/2026/poster/149593	excluded	摘要聚焦按文本约束进行分子结构生成，未提取专门的分子设计流程。
+154597	Chain-of-Route: State-Aware LLM Routing for Multi-Turn Conversations	https://neurips.cc/virtual/2026/poster/154597	included	多轮路由同时追踪上下文质量与缓存成本。
+140085	Chain-of-Thought Is Not Explainability	https://neurips.cc/virtual/2026/poster/140085	excluded	摘要主要综合已有关于思维链忠实性的结论，未给出可独立复用的新技术机制。
+140099	Chain-of-Thought Oversight Should Not Treat Faithfulness as Monitorability	https://neurips.cc/virtual/2026/poster/140099	included	分别验收推理可见性、忠实性、可监测性和可定位性。
+150110	ChainSpace: A Chained-Reasoning Paradigm for Spatial Intelligence	https://neurips.cc/virtual/2026/poster/150110	included	用跨轮约束链检验是否维持空间状态。
+150205	Chance-constrained Flow Matching for High-Fidelity Constraint-aware Generation	https://neurips.cc/virtual/2026/poster/150205	included	在通用物理生成中用概率约束避免直接投影带噪状态。
+149306	Change-Robust Online Topological Memory for Long-Term Relocalization and Semantic Navigation	https://neurips.cc/virtual/2026/poster/149306	included	持续验证多个连续位姿假设后再提交闭环。
+151923	Channel Mixer: A Pretrainable Tokenizer for Scalable Multi-Channel Vision Transformers	https://neurips.cc/virtual/2026/poster/151923	included	在空间图块内先融合通道，让注意力长度与通道数解耦。
+152137	Channel-wise Vector Quantization	https://neurips.cc/virtual/2026/poster/152137	included	把图像 token 粒度改成通道
+149597	ChanSFormer: A Channel Agnostic Vision Transformer for Multi-Channel Cell Painting Images	https://neurips.cc/virtual/2026/poster/149597	included	用通道 CLS 保留身份并交换信息
+148219	Characterizing Learning in Deep Neural Networks using a Tractable Algorithmic Complexity Estimator	https://neurips.cc/virtual/2026/poster/148219	included	跟踪多值权重块复杂度辅助压缩
+154072	Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects	https://neurips.cc/virtual/2026/poster/154072	included	扩散生成也需独立做隐私验收
+139666	Characterizing the Aesthetic Defaults of Generative Image Models	https://neurips.cc/virtual/2026/poster/139666	included	控制内容后比较生成器的默认风格
+153245	Characterizing the Edge of Stability in Variational Training Without Priors	https://neurips.cc/virtual/2026/poster/153245	included	联合选择学习率和蒙特卡罗样本数
+153550	Characterizing the Generalization Error of Random Feature Regression with Arbitrary Data-Augmentation	https://neurips.cc/virtual/2026/poster/153550	included	按增强后的前两阶统计量预测测试误差
+154648	Characterizing Trainability of Instantaneous Quantum Polynomial Circuit Born Machine	https://neurips.cc/virtual/2026/poster/154648	included	按线路生成元和核谱选择可训练设定
+153000	Characterizing Underrepresentation in Generalizing Causal Survival Estimates	https://neurips.cc/virtual/2026/poster/153000	included	把基线覆盖不足与随访删失分别诊断
+156019	Characterizing Universal Object Representations Across Vision Models	https://neurips.cc/virtual/2026/poster/156019	included	以维度的跨模型复现率度量通用性
+148244	Character Mixing for Video Generation	https://neurips.cc/virtual/2026/poster/148244	included	测试角色和伙伴、场景的交叉留出
+154071	CHARM+: Cross-Hardware Attention with Re-Merge Multistream Mechanism	https://neurips.cc/virtual/2026/poster/154071	included	异构链路的通信分别调度
+148773	ChartArena: A Unified Benchmark with Atomic-Primitive Reasoning for Chart Parsing	https://neurips.cc/virtual/2026/poster/148773	included	用统一语义表示比较不同图表输出格式
+150479	Chasing Label Shifters: A Change-Aware Framework for Dynamic Graph Node Classification	https://neurips.cc/virtual/2026/poster/150479	included	单独报告发生标签转移节点的错误
+148306	CHASM: Cross-frequency Harmonized Axis-Separable Mixing for Spectral Token Operators	https://neurips.cc/virtual/2026/poster/148306	included	跨频共享通道基底，频率增益分开学习
+150065	Chatter Attack: Resource Consumption Attack for Large Language Models	https://neurips.cc/virtual/2026/poster/150065	excluded	研究主要聚焦主动消耗推理服务资源，摘要未提供独立可复用的防御方法。
+148469	Cheap Per-Component Testing for PLS, Stable Under Rotation	https://neurips.cc/virtual/2026/poster/148469	included	对留出数据重新拟合监督子空间
+148921	Cheap Talk, Real Stakes: Commitment and Exploitation in Human-LLM Strategic Interaction	https://neurips.cc/virtual/2026/poster/148921	included	把行动前沟通和最终执行联合审计
+150678	Chebyshev Differential Flows for Shape Matching and Interpolation with Endpoint Guidance	https://neurips.cc/virtual/2026/poster/150678	included	用连续雅可比轨迹建模非刚性变形
+139372	Chem-PerturBridge: a harmonized compendium of small molecule perturbation transcriptomic effects	https://neurips.cc/virtual/2026/poster/139372	excluded	研究主要聚焦化合物扰动资源及相关预测应用，本轮未提炼可独立收录的技术机制。
 139263	Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences	https://neurips.cc/virtual/2026/poster/139263	pending	-
 150424	ChildPose: Foundation for Children Pose Modeling	https://neurips.cc/virtual/2026/poster/150424	pending	-
 150942	ChiP-STAR: Spatial-Topological Attention for Pre-trained Generative Chip Routing	https://neurips.cc/virtual/2026/poster/150942	pending	-

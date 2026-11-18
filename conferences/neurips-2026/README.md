@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1349** 篇，暂收录 **1235** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1409** 篇，暂收录 **1290** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1243,3 +1243,58 @@
 | 因果学习 | 迁移设计 | [Causal Multi-Task Demand Learning](cards-0003.md#paper-153237) | 用价格序列处理跨任务混杂，同时保留局部外生监督 |
 | 神经网络理论 | 训练诊断 | [Causal pieces: analysing and improving spiking neural networks piece by piece](cards-0003.md#paper-148689) | 用单脉冲网络激活子网的分区数诊断初始化 |
 | 推荐系统 | 分布偏移 | [Causal Representation Learning for Generalisable Recommendation](cards-0003.md#paper-148867) | 用因果解耦训练项提升从旧日志向上线候选分布迁移 |
+| 多模态学习 | 反事实评测 | [CausalSpatial: A Benchmark for Object-Centric Causal Spatial Reasoning](cards-0003.md#paper-138913) | 用显式模拟画面辅助反事实空间判断 |
+| 因果推断 | 代理调整 | [Causal Survival Forests with Negative Controls](cards-0003.md#paper-153856) | 在生存森林中引入负对照和正交损失 |
+| 因果推断 | 合成预训练 | [CausalTab: Pretraining Across Causal Environments for Tabular Causal Discovery](cards-0003.md#paper-150884) | 把图结构、机制和干预制度作为独立采样因素 |
+| 计算机视觉 | 视频理解 | [Causal-VLM: Dense Causal Captioning in Videos](cards-0003.md#paper-139209) | 联合训练时间定位、事件描述和因果边预测 |
+| 多模态学习 | 过程奖励 | [CAVE: A Structured Credit Assignment Approach for Fragmented Visual Evidence Reasoning](cards-0003.md#paper-153157) | 分别给有效找证据、更新判断和调整焦点赋予奖励 |
+| 计算机视觉 | 数据审计 | [CCDiff: Inverse Canonical Correlation Analysis for Discovering Visual Differences in Natural Language](cards-0003.md#paper-148652) | 用统计关联分析发现图像集合的语义差异 |
+| 计算机视觉 | 低显存训练 | [CC-GS: Low-Memory 3D Gaussian Splatting Training via CPU-GPU Block-Wise Context Compositing](cards-0003.md#paper-154162) | 按块优化并缓存其余块的像素合成上下文 |
+| 统计学习 | 生存建模 | [CCTimeBoost: Learning Time-Varying Relative Risk with Case-Control Boosted Trees](cards-0003.md#paper-148611) | 用含时间特征的分组 softmax 训练提升树 |
+| 医学影像 | 连续视图生成 | [CD-RCM: Generalizable Continuous-Depth Novel View Synthesis for Reflectance Confocal Microscopy](cards-0003.md#paper-156085) | 在轴向插值中显式建模浅层遮挡 |
+| 大语言模型 | 端侧推理 | [CECAR: Cache & Expert Co-Aware Routing Accelerates On-Device Inference of MoE LLMs](cards-0003.md#paper-152287) | 让专家路由使用预计复用距离 |
+| 统计学习 | 序贯评测 | [CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes](cards-0003.md#paper-148283) | 用任意时点有效的区间决定何时停止评测 |
+| 科学机器学习 | 上下文表示 | [CellMSA: Context Modeling for Single-Cell Representation Learning](cards-0003.md#paper-151414) | 将不同批次的相似观测用于上下文表示学习 |
+| 可靠性 | 证据评测 | [CellularS2-Bench: A Staged, Evidence-Grounded Benchmark for Cellular Network Security Reasoning](cards-0003.md#paper-138931) | 分阶段验证模型能否引用和串联规范证据 |
+| 可解释性 | 时频归因 | [CENDRe: Concept Extraction with Natural Domain Representations](cards-0003.md#paper-150459) | 在时间和频率域定位同一概念 |
+| Agent | 长程评测 | [CEO-Bench: Can Agents Play the Long Game?](cards-0003.md#paper-139585) | 单独记录长程经营的累计结果与适应表现 |
+| 科学机器学习 | 样本效率 | [Cephalonauts One: A deep fMRI dataset for decoding naturalistic speech in the human brain](cards-0003.md#paper-139123) | 按同一参与者数据量绘制神经解码学习曲线 |
+| 优化 | 几何估计 | [Certifiably Optimal Robust Angular Synchronization](cards-0003.md#paper-153331) | 用节点约束界收紧鲁棒旋转同步搜索 |
+| 学习理论 | 形式化验证 | [Certification-Enhanced Generalization Bounds](cards-0003.md#paper-150658) | 用样本级稳定性验证辅助分布泛化界 |
+| 学习理论 | 认证下界 | [Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization](cards-0003.md#paper-150529) | 评估算法任务时区分平均准确率与精确一致性认证 |
+| 模型验证 | 隐私证明 | [Certified but Private: Scalable Zero-Knowledge Proofs for the Formal Verification of Neural Networks](cards-0003.md#paper-151824) | 用零知识证明交付局部鲁棒证书而保留权重私密 |
+| 强化学习 | 因果决策 | [Certified Policy Optimisation for Nested Causal Bandits via PAC-Bayes Risk](cards-0003.md#paper-148390) | 对跨层策略按机制建模并独立认证。 |
+| 可解释性 | 稳健认证 | [Certified Robust Interpretability via Concept-Space Stability under Interventional Proxies](cards-0003.md#paper-148991) | 同时认证标签稳定和概念稳定。 |
+| 优化 | 稳健认证 | [Certified Single-Level Reformulation for Tri-Level Cyber-Physical Grid Security](cards-0003.md#paper-152235) | 以保守上界验证既定防御资源分配。 |
+| 科学机器学习 | 部署评测 | [CFC26: Building Evaluations for Deployment in Sonar-Based Fish Counting](cards-0003.md#paper-139843) | 用跨地点切分及累计计数误差验证生态监测模型。 |
+| 大语言模型 | 预算校准 | [C-GRPO: Conformal Group Relative Policy Optimization](cards-0003.md#paper-152332) | 用共形停止阈值自适应分配 rollout。 |
+| 大语言模型 | 不确定性估计 | [CHAIN: Complementary Signed Graph Propagation for Uncertainty Quantification in Large Language Models](cards-0003.md#paper-154069) | 用回应间支持与矛盾结构估计置信度。 |
+| 多智能体学习 | 持续学习 | [CHAIN: Continual Heterogeneous Cooperation with Information Bottleneck for Multi-Agent Reinforcement Learning](cards-0003.md#paper-155574) | 对共享状态表征压缩并鼓励各智能体形成不同专长。 |
+| 计算机视觉 | 轨迹生成 | [ChainFlow-VLA: Causal Flow Planning with Vision-Language Models](cards-0003.md#paper-149929) | 先生成因果轨迹模式，再生成模式内残差。 |
+| 图学习 | 组合优化 | [Chaining 2-FWL GNNs for Combinatorial Graph Alignment](cards-0003.md#paper-151502) | 将离散匹配反馈接回下一阶段图网络。 |
+| 具身智能 | 策略纠错 | [Chain-of-Correction: Progress-Aware Policy Steering via Anchor-Grounded Predictive Reasoning](cards-0003.md#paper-154354) | 借助三维关系同时复查过去和预测整体任务进度。 |
+| 学习理论 | 注意力结构 | [Chain of Dual Structures in Transformer Attention](cards-0003.md#paper-149520) | 用凸势统一选择注意力的打分与聚合。 |
+| 大语言模型 | 模型路由 | [Chain-of-Route: State-Aware LLM Routing for Multi-Turn Conversations](cards-0003.md#paper-154597) | 多轮路由同时追踪上下文质量与缓存成本。 |
+| 大语言模型 | 可解释性评测 | [Chain-of-Thought Oversight Should Not Treat Faithfulness as Monitorability](cards-0003.md#paper-140099) | 分别验收推理可见性、忠实性、可监测性和可定位性。 |
+| 多模态学习 | 空间推理评测 | [ChainSpace: A Chained-Reasoning Paradigm for Spatial Intelligence](cards-0003.md#paper-150110) | 用跨轮约束链检验是否维持空间状态。 |
+| 生成模型 | 约束采样 | [Chance-constrained Flow Matching for High-Fidelity Constraint-aware Generation](cards-0003.md#paper-150205) | 在通用物理生成中用概率约束避免直接投影带噪状态。 |
+| 具身智能 | 长期定位 | [Change-Robust Online Topological Memory for Long-Term Relocalization and Semantic Navigation](cards-0003.md#paper-149306) | 持续验证多个连续位姿假设后再提交闭环。 |
+| 计算机视觉 | 多通道表示 | [Channel Mixer: A Pretrainable Tokenizer for Scalable Multi-Channel Vision Transformers](cards-0003.md#paper-151923) | 在空间图块内先融合通道，让注意力长度与通道数解耦。 |
+| 视觉 | 量化 | [Channel-wise Vector Quantization](cards-0003.md#paper-152137) | 把图像 token 粒度改成通道 |
+| 视觉 | 通道表示 | [ChanSFormer: A Channel Agnostic Vision Transformer for Multi-Channel Cell Painting Images](cards-0003.md#paper-149597) | 用通道 CLS 保留身份并交换信息 |
+| 学习理论 | 训练诊断 | [Characterizing Learning in Deep Neural Networks using a Tractable Algorithmic Complexity Estimator](cards-0003.md#paper-148219) | 跟踪多值权重块复杂度辅助压缩 |
+| 大语言模型 | 隐私评测 | [Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects](cards-0003.md#paper-154072) | 扩散生成也需独立做隐私验收 |
+| 视觉 | 可解释评估 | [Characterizing the Aesthetic Defaults of Generative Image Models](cards-0003.md#paper-139666) | 控制内容后比较生成器的默认风格 |
+| 优化 | 训练稳定性 | [Characterizing the Edge of Stability in Variational Training Without Priors](cards-0003.md#paper-153245) | 联合选择学习率和蒙特卡罗样本数 |
+| 学习理论 | 增强分析 | [Characterizing the Generalization Error of Random Feature Regression with Arbitrary Data-Augmentation](cards-0003.md#paper-153550) | 按增强后的前两阶统计量预测测试误差 |
+| 量子机器学习 | 核设计 | [Characterizing Trainability of Instantaneous Quantum Polynomial Circuit Born Machine](cards-0003.md#paper-154648) | 按线路生成元和核谱选择可训练设定 |
+| 因果推断 | 外推诊断 | [Characterizing Underrepresentation in Generalizing Causal Survival Estimates](cards-0003.md#paper-153000) | 把基线覆盖不足与随访删失分别诊断 |
+| 视觉 | 表示诊断 | [Characterizing Universal Object Representations Across Vision Models](cards-0003.md#paper-156019) | 以维度的跨模型复现率度量通用性 |
+| 视觉 | 组合泛化 | [Character Mixing for Video Generation](cards-0003.md#paper-148244) | 测试角色和伙伴、场景的交叉留出 |
+| 系统 | 分布式推理训练 | [CHARM+: Cross-Hardware Attention with Re-Merge Multistream Mechanism](cards-0003.md#paper-154071) | 异构链路的通信分别调度 |
+| 多模态 | 评测 | [ChartArena: A Unified Benchmark with Atomic-Primitive Reasoning for Chart Parsing](cards-0003.md#paper-148773) | 用统一语义表示比较不同图表输出格式 |
+| 图学习 | 动态图 | [Chasing Label Shifters: A Change-Aware Framework for Dynamic Graph Node Classification](cards-0003.md#paper-150479) | 单独报告发生标签转移节点的错误 |
+| 视觉 | 谱混合 | [CHASM: Cross-frequency Harmonized Axis-Separable Mixing for Spectral Token Operators](cards-0003.md#paper-148306) | 跨频共享通道基底，频率增益分开学习 |
+| 统计学习 | 回归诊断 | [Cheap Per-Component Testing for PLS, Stable Under Rotation](cards-0003.md#paper-148469) | 对留出数据重新拟合监督子空间 |
+| Agent | 行为评测 | [Cheap Talk, Real Stakes: Commitment and Exploitation in Human-LLM Strategic Interaction](cards-0003.md#paper-148921) | 把行动前沟通和最终执行联合审计 |
+| 视觉 | 形状建模 | [Chebyshev Differential Flows for Shape Matching and Interpolation with Endpoint Guidance](cards-0003.md#paper-150678) | 用连续雅可比轨迹建模非刚性变形 |
