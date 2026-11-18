@@ -5131,3 +5131,813 @@
 - **适用条件 / 局限** · 需要可校准的硬件与调度模型
 
 **可复用机制** · 用少量实测验证模拟排序再扩大训练
+
+<a id="paper-149744"></a>
+
+## Beyond Thinking: Imagining in 360$^\circ$ for Humanoid Visual Search
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149744) · [作者来源](https://openreview.net/forum?id=nf3SdflMnP)
+
+- **问题 / 瓶颈** · 整段推理轨迹标注昂贵。
+- **核心创新 / 方法** · 单步预测可见与遮挡区域的语义布局，采样多个假设供动作模块使用。
+- **Baseline** · 累积式多轮推理。
+- **Benchmark** · 复杂全景视觉搜索，测效率及成功率。
+- **关键结果 / 消融** · 作者报告两项改善，并构建超过196万样本。
+- **适用条件 / 局限** · 真实部署与标注成本对照待核。
+
+**可复用机制** · 固定动作模块比较单一布局与多假设先验。
+
+<a id="paper-155293"></a>
+
+## Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155293) · [作者来源](https://openreview.net/forum?id=6eYrXF03nQ)
+
+- **问题 / 瓶颈** · 少量隐式分割 token 难表达空间对应。
+- **核心创新 / 方法** · 多步对话细化提示，以同目标改写约束一致性，再筛关键帧传播掩码。
+- **Baseline** · 分割 token 路线。
+- **Benchmark** · 八个视频推理分割数据集。
+- **关键结果 / 消融** · 作者报告优于对照；分项待核。
+- **适用条件 / 局限** · 依赖提示和关键帧质量。
+
+**可复用机制** · 为同一物体构造多种查询，检查空间定位一致性。
+
+<a id="paper-155442"></a>
+
+## Beyond Trajectory Matching: Reflow with Marginal Distribution Alignment
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155442) · [作者来源](https://openreview.net/forum?id=5a2Wi08KqE)
+
+- **问题 / 瓶颈** · 轨迹匹配损失相同的学生可能产生不同边际。
+- **核心创新 / 方法** · 跟踪学生 ODE 的对数密度并用冻结教师分数计算正则。
+- **Baseline** · 普通及分段 reflow。
+- **Benchmark** · 少步生成基准与总变差理论界。
+- **关键结果 / 消融** · 作者证明局部边际误差控制最终差异。
+- **适用条件 / 局限** · 教师评分与密度计算开销待核。
+
+**可复用机制** · 在固定采样预算下比较仅拟合轨迹与额外对齐边际。
+
+<a id="paper-139425"></a>
+
+## Beyond Truthfulness: Evaluating Honesty in Large Language Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139425) · [作者来源](https://openreview.net/forum?id=RY4Fu0ynNr)
+
+- **问题 / 瓶颈** · 准确率可能掩盖压力下的不诚实行为。
+- **核心创新 / 方法** · 使用人类整理的情境数据分开衡量主动失实与知识准确性。
+- **Baseline** · 不同大模型与传统真实性测试。
+- **Benchmark** · 作者人编数据，测准确度与诚实度。
+- **关键结果 / 消融** · 规模增加未同步提高诚实；作者报告表征干预可改善。
+- **适用条件 / 局限** · 情境构造与干预泛化待核。
+
+**可复用机制** · 采用条件于已知答案的诚实指标。
+
+<a id="paper-151882"></a>
+
+## Beyond Unidirectional: Unsupervised Trajectory Learning for Omnidirectional Controllable Underwater Image Enhancement
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151882) · [作者来源](https://openreview.net/forum?id=XCLzu5Mpns)
+
+- **问题 / 瓶颈** · 单向增强容易不足或过度。
+- **核心创新 / 方法** · 将退化压到统一轨迹轴，并以路径积分学习相对移动。
+- **Baseline** · 单向水下增强。
+- **Benchmark** · 水下图像增强；具体基准待核。
+- **关键结果 / 消融** · 作者报告强度可控且效果改善。
+- **适用条件 / 局限** · 复杂退化能否单轴表达待核。
+
+**可复用机制** · 分别测结构保真与目标增强强度。
+
+<a id="paper-155755"></a>
+
+## Beyond Uniform Detection: Adaptive Hallucination Detection for RAG Across Response Regimes
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155755) · [作者来源](https://openreview.net/forum?id=3Bp2vd7ixA)
+
+- **问题 / 瓶颈** · 短回答选错答案与长文逐步漂移需要不同观测。
+- **核心创新 / 方法** · 短答用双向似然，长答跟踪隐藏状态中证据与内部知识方向。
+- **Baseline** · 统一输出或表征检测。
+- **Benchmark** · 多项长短文本 RAG 基准。
+- **关键结果 / 消融** · 作者报告两种设置均有改善。
+- **适用条件 / 局限** · 适用模型需能提供相应内部信号。
+
+**可复用机制** · 比较统一门限与按回答长度和任务切换的校验。
+
+<a id="paper-149242"></a>
+
+## Beyond Unit-Circle Eigenvalues: Invariant Bases for Stable State Space Dynamics
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149242) · [作者来源](https://openreview.net/forum?id=rsTdJke80K)
+
+- **问题 / 瓶颈** · 单位模只保证模式幅度，不保证任务守恒量。
+- **核心创新 / 方法** · 对各向同性成对系统以图拉普拉斯特征基对角化。
+- **Baseline** · 稳定 LRU、随机基、学习基及 PCA 基底。
+- **Benchmark** · 视觉 N 体、长滚动和尺度外推。
+- **关键结果 / 消融** · 动量漂移低于万分之一百分比；第999步约21.19 dB。
+- **适用条件 / 局限** · 精确守恒依赖所设相互作用结构。
+
+**可复用机制** · 谱稳定实验应直接测物理守恒量漂移。
+
+<a id="paper-139396"></a>
+
+## Beyond Visual Boundaries: Rethinking Scene Segmentation for Movie RAG
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139396) · [作者来源](https://openreview.net/forum?id=TDlUSc9Koz)
+
+- **问题 / 瓶颈** · 视觉显著转场不等于叙事边界。
+- **核心创新 / 方法** · 按物理、角色和叙事变化标注，要求有效边界包含叙事变化。
+- **Baseline** · 传统分场与均匀时间切分。
+- **Benchmark** · NarraScene 与下游电影理解。
+- **关键结果 / 消融** · 传统分场未超过均匀切分，叙事分段超过。
+- **适用条件 / 局限** · 标注主观性和跨媒体迁移待核。
+
+**可复用机制** · 检索单元按下游问题验证而非只测边界准确率。
+
+<a id="paper-148943"></a>
+
+## Beyond ViT Tokens: Masked-Diffusion Pretrained Convolutional Pathology Foundation Model for Cell-Level Dense Prediction
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148943) · [作者来源](https://openreview.net/forum?id=u0riwBjIls)
+
+- **问题 / 瓶颈** · 分块可能破坏细胞形态的空间连续性。
+- **核心创新 / 方法** · 用 ConvNeXt-UNet 在像素空间预训练，并用冻结病理特征条件化归一化。
+- **Baseline** · ViT 病理模型与端到端分割模型。
+- **Benchmark** · 多项细胞级密集预测、少标注设置。
+- **关键结果 / 消融** · 作者报告少量任务参数微调即优于所测对照。
+- **适用条件 / 局限** · 数据来源及跨染色泛化待核。
+
+**可复用机制** · 固定标注预算比较两类骨干的细粒度结构恢复。
+
+<a id="paper-151533"></a>
+
+## Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151533) · [作者来源](https://openreview.net/forum?id=Zz2YaAr1JB)
+
+- **问题 / 瓶颈** · 同分布表现饱和可能掩盖继续增长的稳健性。
+- **核心创新 / 方法** · 用归纳偏置与正则抑制捷径解释更长训练推理的影响。
+- **Baseline** · 不同循环数或 RL token 预算。
+- **Benchmark** · 循环 Transformer 合成任务及数学、代码、跨表征任务。
+- **关键结果 / 消融** · 作者观察到同分布饱和后分布外仍可改善。
+- **适用条件 / 局限** · 结论针对结果监督和所测试条件。
+
+**可复用机制** · 预算扫描联合记录域内和域外曲线。
+
+<a id="paper-155672"></a>
+
+## Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155672) · [作者来源](https://openreview.net/forum?id=3qVJc7Gwrz)
+
+- **问题 / 瓶颈** · 固定世界坐标直接预测难表达共用运动原语。
+- **核心创新 / 方法** · 预测旋转，用共享原型合成局部动作并映回世界坐标。
+- **Baseline** · 固定世界坐标动作头。
+- **Benchmark** · 机器人操作及几何扰动。
+- **关键结果 / 消融** · 作者报告表征更紧凑、扰动鲁棒性改善。
+- **适用条件 / 局限** · 未见机构和几何域的迁移待核。
+
+**可复用机制** · 固定演示与骨干对照局部原型和世界系直接回归。
+
+<a id="paper-148163"></a>
+
+## Beyond Worst-Case Coreset Bounds for $k$-Clustering via Determinantal Sampling
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148163) · [作者来源](https://openreview.net/forum?id=zpGxfinq0I)
+
+- **问题 / 瓶颈** · 最坏情形误差依赖限制了核心集压缩。
+- **核心创新 / 方法** · 用行列式点过程做相关采样。
+- **Baseline** · 既有聚类核心集方法与最坏情形界。
+- **Benchmark** · 合成及真实数据上的加权核心集。
+- **关键结果 / 消融** · 固定维数下误差倒数指数低于2，并报告集大小改善。
+- **适用条件 / 局限** · 理论有分布假设，正文待核。
+
+**可复用机制** · 用目标误差下的集大小而非只用聚类分数选择压缩器。
+
+<a id="paper-148190"></a>
+
+## B[FM]$^2$: Brain Foundation Model via Flow Matching with SplitUNet
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148190) · [作者来源](https://openreview.net/forum?id=zdfQqwhwe7)
+
+- **问题 / 瓶颈** · 分块会切断连续脑电节律。
+- **核心创新 / 方法** · 在原始 EEG 上训练流匹配，SplitUNet 分解两轴操作。
+- **Baseline** · 基于 patch 或离散 token 的 EEG 模型。
+- **Benchmark** · 九个 EEG 分类任务。
+- **关键结果 / 消融** · 约307小时预训练，九项中七项表现领先。
+- **适用条件 / 局限** · 对不同电极布局的适用性待核。
+
+**可复用机制** · 对采样密度差异大的信号轴设计独立卷积和压缩。
+
+<a id="paper-153193"></a>
+
+## BFS-PO: Best-First Search for Large Reasoning Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153193) · [作者来源](https://openreview.net/forum?id=N9mGtBfKJb)
+
+- **问题 / 瓶颈** · 策略优化可能强化冗长推理。
+- **核心创新 / 方法** · 将训练链组织成树，对最短正确解以高熵节点回溯扩展。
+- **Baseline** · GRPO、DAPO 等推理训练路线。
+- **Benchmark** · 多种底座与推理基准。
+- **关键结果 / 消融** · 作者报告准确率与长度同时改善。
+- **适用条件 / 局限** · 需要可检验正确性，树搜索训练成本待核。
+
+**可复用机制** · 比较固定预算下最短正确优先和常规扩展。
+
+<a id="paper-148501"></a>
+
+## Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148501) · [作者来源](https://openreview.net/forum?id=xMMvkvcwPM)
+
+- **问题 / 瓶颈** · 统一输入造成信息稀释，手工维护依赖关系成本高。
+- **核心创新 / 方法** · 同一人工纠正分别更新案例知识与技能的检索配置。
+- **Baseline** · 部署前流程；匹配对照细节待核。
+- **Benchmark** · 电商搜索运维及离线任务。
+- **关键结果 / 消融** · 报告报警降75%、根因准确率80%、修复时间降超50%。
+- **适用条件 / 局限** · 单一部署，因果归因待核。
+
+**可复用机制** · 对同类事件分别验证案例更新与检索规则更新的效果。
+
+<a id="paper-139597"></a>
+
+## BIAS-ID: A Framework for Analyzing Transformation Biases in AI-Generated Image Detectors
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139597) · [作者来源](https://openreview.net/forum?id=GIewosR83I)
+
+- **问题 / 瓶颈** · 生成图像检测器可依赖训练数据的处理差异。
+- **核心创新 / 方法** · 用专门协议定量检查检测结果中的变换偏差。
+- **Baseline** · 六种图像检测器。
+- **Benchmark** · 两个数据集上的检测审计。
+- **关键结果 / 消融** · 多个强检测器受到偏差影响，数值待核。
+- **适用条件 / 局限** · 结论受变换种类与数据构成约束。
+
+**可复用机制** · 上线前做匹配处理条件的分层误报验证。
+
+<a id="paper-153204"></a>
+
+## Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153204) · [作者来源](https://openreview.net/forum?id=N3upYxYotA)
+
+- **问题 / 瓶颈** · 同一连接矩阵既作为特征也定义图，可放大相关误差。
+- **核心创新 / 方法** · 以测量误差模型拆解平滑、估图误差及重复使用效应。
+- **Baseline** · 无图模型、oracle 图及独立估计图。
+- **Benchmark** · 模拟和真实 fMRI 连接预测。
+- **关键结果 / 消融** · 仅目标在社区内平滑且序列长度合适时卷积有利。
+- **适用条件 / 局限** · 理论基于线性渐近及社区模型。
+
+**可复用机制** · 特征同时生成边时，用独立子样本估图做诊断。
+
+<a id="paper-152470"></a>
+
+## Bias-Variance Optimized Preference Optimization for Large Reasoning Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152470) · [作者来源](https://openreview.net/forum?id=SqjlMwxRLI)
+
+- **问题 / 瓶颈** · 单条随机轨迹近似答案级目标导致高梯度方差。
+- **核心创新 / 方法** · 在固定题目和答案下构造复合估计量，分析条件均方误差最优混合。
+- **Baseline** · 单轨迹偏好优化。
+- **Benchmark** · AlpacaEval 2、Arena-Hard 及六个数学任务。
+- **关键结果 / 消融** · 作者报告训练梯度方差降低且总体保持数学推理。
+- **适用条件 / 局限** · 条件方差结果不覆盖所有随机成分。
+
+**可复用机制** · 配对跟踪梯度方差与答案质量，比较单轨迹和混合分支。
+
+<a id="paper-149175"></a>
+
+## Bidirectional Information Flow (BIF) - A Sample Efficient Hierarchical Gaussian Process for Bayesian Optimization
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149175) · [作者来源](https://openreview.net/forum?id=sK7iG9MsXe)
+
+- **问题 / 瓶颈** · 单向共享浪费父级观测
+- **核心创新 / 方法** · 父级以子模型摘要为先验，并向下软分解观测
+- **Baseline** · 普通 GPBO 和层级方法
+- **Benchmark** · 合成、神经刺激与超参数优化，比较 R² 和 AUC
+- **关键结果 / 消融** · 移除向下通道使子级 R² 最多降 58%；父级 R² 较普通 GPBO 最高四倍
+- **适用条件 / 局限** · 依赖任务可分解及采集函数
+
+**可复用机制** · 固定查询预算消融父到子反馈
+
+<a id="paper-154292"></a>
+
+## Bidirectional Sparse Attention for Faster Video Diffusion Training
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154292) · [作者来源](https://openreview.net/forum?id=Es6mFi84XA)
+
+- **问题 / 瓶颈** · 视频全注意力代价平方增长
+- **核心创新 / 方法** · 剪时空冗余查询，仅选全局高相关键值并调整阈值
+- **Baseline** · 全注意力 DiT
+- **Benchmark** · 长视频训练，比较 FLOPs、速度和生成质量
+- **关键结果 / 消融** · 注意力训练最高快 17.79 倍，FLOPs 最多降至二十分之一
+- **适用条件 / 局限** · 端到端训练加速待核
+
+**可复用机制** · 匹配生成质量分别测两个方向的剪枝收益
+
+<a id="paper-149009"></a>
+
+## Bifurcation Models: Learning Set-Valued Solution Maps with Weight-Tied Dynamics
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149009) · [作者来源](https://openreview.net/forum?id=tVZohLsVHC)
+
+- **问题 / 瓶颈** · 单一标签可能引入不连续选择器
+- **核心创新 / 方法** · 权重共享动力系统以不同初态收敛到不同稳定平衡
+- **Baseline** · 单分支监督
+- **Benchmark** · 受挫 Ising 与 Allen–Cahn
+- **关键结果 / 消融** · 无分支标签可找多个平衡；多样性与精度存在权衡
+- **适用条件 / 局限** · 分支须满足理论正则性；多样性不会自动出现
+
+**可复用机制** · 用多初态测有效解覆盖及每解误差
+
+<a id="paper-152972"></a>
+
+## BigCell: Generating Gigapixel Whole-Slide Images
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152972) · [作者来源](https://openreview.net/forum?id=OyI7kjl92B)
+
+- **问题 / 瓶颈** · 独立图块难承接整张切片的监督
+- **核心创新 / 方法** · 以基础模型嵌入条件化流匹配，并以自适应滑窗合成大图
+- **Baseline** · 图块生成器及仅真实数据训练
+- **Benchmark** · 整片和图块保真度、少样本分类
+- **关键结果 / 消融** · 生成达 32768 像素见方，调度加速超过三倍
+- **适用条件 / 局限** · 评测限数字病理，临床有效性待核
+
+**可复用机制** · 按区域预算比较统一调度和自适应调度
+
+<a id="paper-156775"></a>
+
+## Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/156775) · [作者来源](https://neurips.cc/virtual/2026/poster/156775)
+
+- **问题 / 瓶颈** · 过参数化扩散先泛化后记忆
+- **核心创新 / 方法** · 分析低噪声拟合时间尺度，并用随机文法验证
+- **Baseline** · 训练时间与数据量不同的扩散模型
+- **Benchmark** · 图像、语言扩散及随机上下文无关文法
+- **关键结果 / 消融** · 作者观察到记忆时间与数据集规模成比例
+- **适用条件 / 局限** · 经验比例常数及适用分布待核
+
+**可复用机制** · 随数据规模同步扫描训练步数并分别评估泛化和复制
+
+<a id="paper-152107"></a>
+
+## BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152107) · [作者来源](https://openreview.net/forum?id=VT9aN17Fbk)
+
+- **问题 / 瓶颈** · 只处理高分窗口会漏掉稀少前景
+- **核心创新 / 方法** · 主支路剪键值，剩余窗口施加低成本哈希检索
+- **Baseline** · 单支路及常规骨干对照
+- **Benchmark** · PANDA 千兆像素检测，AP50 和 FLOPs
+- **关键结果 / 消融** · 骨干 FLOPs 降 37.5%，AP50 达 81.0%
+- **适用条件 / 局限** · 补偿效果依赖哈希检索和窗口选择
+
+**可复用机制** · 改变窗口预算并记录漏检恢复率和实际时延
+
+<a id="paper-155173"></a>
+
+## Bilevel Optimization of Synthetic Trajectories for Multi-Turn LLM Fine-Tuning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155173) · [作者来源](https://openreview.net/forum?id=7kLOx2KkF4)
+
+- **问题 / 瓶颈** · 等权合成轨迹可能放大任务偏移
+- **核心创新 / 方法** · 内层用重加权轨迹训练，外层学习连续权重
+- **Baseline** · 等权及多种比较；名称待核
+- **Benchmark** · 多轮离线强化学习任务
+- **关键结果 / 消融** · 作者报告胜过对照，并给出多样性、偏移和有效样本量的权衡
+- **适用条件 / 局限** · 依赖代表真实需求的留出任务
+
+**可复用机制** · 评估加权时同步记录有效样本数和目标域得分
+
+<a id="paper-153081"></a>
+
+## BiLi: Bridging the Last Mile in LiDAR Localization
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153081) · [作者来源](https://openreview.net/forum?id=O7ZMrspwGi)
+
+- **问题 / 瓶颈** · 逐点坐标回归误差低也可能抖动
+- **核心创新 / 方法** · 投影到隐式地图零等值面，以轻量运动学网络蒸馏并自适应融合
+- **Baseline** · 场景坐标回归和既有定位方案
+- **Benchmark** · Oxford 与 NCLT
+- **关键结果 / 消融** · 摘要报告相对改善 25% 和 65%，指标定义待核
+- **适用条件 / 局限** · 依赖隐式地图，地图漂移和域偏移待测
+
+**可复用机制** · 定位评估同时报告误差、时序连续性和帧延迟
+
+<a id="paper-149557"></a>
+
+## Bilinear Matching Bandits
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149557) · [作者来源](https://openreview.net/forum?id=pDNMIRZc3y)
+
+- **问题 / 瓶颈** · Kronecker 展平带来维数代价
+- **核心创新 / 方法** · 把消除与分数匹配多面体上的分行正则采样结合
+- **Baseline** · Kronecker 线性化半赌博机
+- **Benchmark** · 半反馈匹配的遗憾界与数值实验
+- **关键结果 / 消融** · 领先维数因子从 d1d2 改为 d2√d1，大物品数时下界匹配
+- **适用条件 / 局限** · 依赖双线性收益及部分反馈设定
+
+**可复用机制** · 在线分配前检验结构先验能否降低探索维数
+
+<a id="paper-149418"></a>
+
+## BiLoCo: Binary Low-Rank Corrections for LLM FP4 Decode
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149418) · [作者来源](https://openreview.net/forum?id=qC1Ogzw65q)
+
+- **问题 / 瓶颈** · 高精度残差占存储并争抢 Tensor Core
+- **核心创新 / 方法** · 二值存储左右因子，CUDA Core 执行加减修正
+- **Baseline** · 等存储 SVDQuant 和纯 FP4
+- **Benchmark** · 4–32B 模型量化与 B200 解码
+- **关键结果 / 消融** · 每秩存储降至 BF16 残差的十六分之一，等存储下匹配或超过 SVDQuant。
+- **适用条件 / 局限** · 依赖硬件并发和最终输出合并开销
+
+**可复用机制** · 比较固定存储下的误差与端到端延迟
+
+<a id="paper-152019"></a>
+
+## BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152019) · [作者来源](https://openreview.net/forum?id=W7ZNNibQAH)
+
+- **问题 / 瓶颈** · 干净训练上下文与推理的错误上下文不匹配
+- **核心创新 / 方法** · 配对序列预训练后双向微调，早期采样回改低可靠 token
+- **Baseline** · 自回归统一方法及组件消融
+- **Benchmark** · HumanML3D 与 KIT-ML 的双向运动文本生成
+- **关键结果 / 消融** · 作者报告两向表现有竞争力，数值待核
+- **适用条件 / 局限** · 依赖运动离散化及早期置信度
+
+**可复用机制** · 对照只训练干净上下文和自生成上下文，并按错误步骤诊断
+
+<a id="paper-155424"></a>
+
+## Binary Regression:  Universal Ising Model, Binary Expansion and Beyond
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155424) · [作者来源](https://openreview.net/forum?id=5lrkkd9Y7p)
+
+- **问题 / 瓶颈** · 枚举高阶乘积难解释与扩展
+- **核心创新 / 方法** · 通过布尔约束归约到 Ising 基态，以二体图编码依赖
+- **Baseline** · 高阶特征全展开
+- **Benchmark** · 理论可表示性与概念验证
+- **关键结果 / 消融** · 给出构造性普适表示；数值规模待核
+- **适用条件 / 局限** · 辅助变量数量和求解代价需复核
+
+**可复用机制** · 比较显式高阶项与辅助图的紧凑性、求解时间和可读性
+
+<a id="paper-149098"></a>
+
+## Binding Multiple Modalities via Multimodal Wasserstein Barycenter
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149098) · [作者来源](https://openreview.net/forum?id=swVrjlNX4Q)
+
+- **问题 / 瓶颈** · 指定单一锚点会偏向该模态
+- **核心创新 / 方法** · 计算 Wasserstein 重心并以重心单纯形体积构造联合目标
+- **Baseline** · 固定模态锚定方法
+- **Benchmark** · 文本视频音频检索、分类、视频问答及生成
+- **关键结果 / 消融** · 作者报告对缺失模态仍稳健，并可扩至三种以上
+- **适用条件 / 局限** · 重心计算代价及配对要求待核
+
+**可复用机制** · 比较语义锚点与分布重心在模态缺失时的表现
+
+<a id="paper-148298"></a>
+
+## Binding Visual Features Point by Point
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148298) · [作者来源](https://openreview.net/forum?id=yu8ajcYUw2)
+
+- **问题 / 瓶颈** · 多物体属性容易互串
+- **核心创新 / 方法** · 学习文本坐标指向，以机制分析识别内部视觉搜索并微调迁移
+- **Baseline** · 无指向的多模态推理
+- **Benchmark** · 多物体理解与组合泛化任务
+- **关键结果 / 消融** · 作者观察到指向诱导视觉搜索，迁移后减少绑定错误
+- **适用条件 / 局限** · 相关性与因果消融细节待核
+
+**可复用机制** · 保持任务与图像不变，有无坐标中间表示分别测错绑率
+
+<a id="paper-150999"></a>
+
+## Biological Graph Priors Enable Representation Learning for Cellular Microscopy
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150999) · [作者来源](https://openreview.net/forum?id=dgCUPMyqg5)
+
+- **问题 / 瓶颈** · 只扩数据和模型未必恢复关系
+- **核心创新 / 方法** · 在量化 Transformer 训练时加入图关系正则
+- **Baseline** · 大规模自监督模型
+- **Benchmark** · 细胞显微图像关系检索
+- **关键结果 / 消融** · 作者报告更少计算和数据下检索改善；具体数值待核
+- **适用条件 / 局限** · 依赖先验图质量且需防训练评测重叠
+
+**可复用机制** · 保留未见关系检验结构先验是否改善迁移
+
+<a id="paper-152391"></a>
+
+## Biomedical Acquisition-induced Style Shifts as Mixture Shifts: Style-aware Mixture-of-Experts Multimodal Prompt Learning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152391) · [作者来源](https://openreview.net/forum?id=TRuGgl9w1X)
+
+- **问题 / 瓶颈** · 单套源域提示对新协议敏感
+- **核心创新 / 方法** · 从中间视觉表征提取风格，对多层提示稀疏路由
+- **Baseline** · 现有视觉语言提示适配
+- **Benchmark** · 15 个医学数据集，12 种模态、10 个器官
+- **关键结果 / 消融** · 作者报告准确率与泛化改善；幅度待核
+- **适用条件 / 局限** · 潜在风格可能混入任务语义
+
+**可复用机制** · 按设备或协议划分留出域，对比单提示与条件路由
+
+<a id="paper-155868"></a>
+
+## BioMicroAgents: A Co-evolutionary Multi-Agent Framework for High-Fidelity Biomicroscopy Imaging
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155868) · [作者来源](https://openreview.net/forum?id=2IBxEPvy2X)
+
+- **问题 / 瓶颈** · 感知质量分数可能奖励伪影
+- **核心创新 / 方法** · 将规划、处理与验证分组，通过反馈和经验记忆调整
+- **Baseline** · 单一增强模型及现成混合方案
+- **Benchmark** · 12 类显微影像任务，保真度与分割计数
+- **关键结果 / 消融** · 作者报告增强视觉质量的同时保留亚细胞结构并改善下游任务
+- **适用条件 / 局限** · 依赖保真度代理与验证器，真实影像评测细节待核
+
+**可复用机制** · 增强阶段后独立验收结构保真，并测下游误差
+
+<a id="paper-138924"></a>
+
+## BioSafetyBench: Agentic Cascade Evaluation for the Bio-AI Ecosystem
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/138924) · [作者来源](https://openreview.net/forum?id=wblptYeXga)
+
+- **问题 / 瓶颈** · 单模型自评可能漏掉系统级风险
+- **核心创新 / 方法** · 以冻结外部评估器比较单环节与端到端风险
+- **Baseline** · 单环节评分
+- **Benchmark** · 25个基础模型的独立风险评估
+- **关键结果 / 消融** · 作者报告端到端评估发现单环节未识别的风险
+- **适用条件 / 局限** · 结论依赖评估阈值及模拟有效性
+
+**可复用机制** · 将独立评估贯穿多模型流程
+
+<a id="paper-138952"></a>
+
+## BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/138952) · [作者来源](https://openreview.net/forum?id=uFVrUm3zfO)
+
+- **问题 / 瓶颈** · 模型与执行框架贡献往往混杂
+- **核心创新 / 方法** · 隐藏标签与统一资源协议下做匹配比较
+- **Baseline** · Minimal 与成熟编码框架
+- **Benchmark** · 76项任务、18种配置，统一百分制
+- **关键结果 / 消融** · 最高均分73.91，次高73.79
+- **适用条件 / 局限** · 总分掩盖领域和任务差异
+
+**可复用机制** · 把骨干、框架和运行预算分开消融
+
+<a id="paper-152242"></a>
+
+## BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152242) · [作者来源](https://openreview.net/forum?id=UWzAnfVNIa)
+
+- **问题 / 瓶颈** · 轨迹状态串扰会污染策略更新
+- **核心创新 / 方法** · 四阶段课程配合轨迹级持久执行隔离
+- **Baseline** · Claude Opus 4.6 Agent
+- **Benchmark** · BIRD-CRITIC-SQLite 成功率
+- **关键结果 / 消融** · 空间效率12.8倍，7B与14B成功率44.4%和48%
+- **适用条件 / 局限** · 验证集中于数据库任务
+
+**可复用机制** · 在可变状态环境中把副本复用和轨迹隔离同时测量
+
+<a id="paper-155061"></a>
+
+## Birth-Death Structural Learning for 3D Gaussian Splatting
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155061) · [作者来源](https://openreview.net/forum?id=8kpY9DyWuJ)
+
+- **问题 / 瓶颈** · 梯度和不透明度代理不能直接估计结构改动收益
+- **核心创新 / 方法** · 固定当前高斯集合，对辅助质量坐标求导并据此增删
+- **Baseline** · 3DGS-MCMC
+- **Benchmark** · 标准3DGS重建及紧预算设置
+- **关键结果 / 消融** · 作者报告紧预算下收益尤其明显
+- **适用条件 / 局限** · 一阶局部评分可能漏掉联合结构收益
+
+**可复用机制** · 按重建误差变化分配表示容量
+
+<a id="paper-152920"></a>
+
+## BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device TEE-Shielded LLM Partition
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152920) · [作者来源](https://openreview.net/forum?id=PQQKAksTi4)
+
+- **问题 / 瓶颈** · 单侧参数保护可能不足
+- **核心创新 / 方法** · 双侧保护扩大等价候选范围
+- **Baseline** · GroupCover、ArrowCloak与全隔离黑盒
+- **Benchmark** · 多模型数据集及真实硬件
+- **关键结果 / 消融** · 作者报告防护接近全隔离基线并提高推理效率
+- **适用条件 / 局限** · 结论依赖硬件和威胁假设
+
+**可复用机制** · 把攻击者可观测性与部署开销分开验收
+
+<a id="paper-153956"></a>
+
+## BitDance: Scaling Autoregressive Generative Models with Binary Tokens
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153956) · [作者来源](https://openreview.net/forum?id=HI2nlULbg7)
+
+- **问题 / 瓶颈** · 高容量码本无法直接用普通分类器枚举
+- **核心创新 / 方法** · 二值扩散头与并行图块解码
+- **Baseline** · 并行自回归生成器
+- **Benchmark** · ImageNet 256图像生成FID和速度
+- **关键结果 / 消融** · FID 1.24，260M模型相较所比大模型加速8.7倍
+- **适用条件 / 局限** · 速度依赖硬件及生成配置
+
+**可复用机制** · 高维离散码可用分量生成替代显式类别枚举
+
+<a id="paper-154757"></a>
+
+## BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154757) · [作者来源](https://openreview.net/forum?id=BBFcLluA5v)
+
+- **问题 / 瓶颈** · 低比特算术加速后，前缀处理开销成为瓶颈
+- **核心创新 / 方法** · 以接受前缀统一KV缓存与图调度
+- **Baseline** · BitNet b1.58-2B-SFT
+- **Benchmark** · 2B解码吞吐与预测精度
+- **关键结果 / 消融** · 峰值964.2 token/s，吞吐2.64倍
+- **适用条件 / 局限** · 峰值取决于硬件及前缀接受分布
+
+**可复用机制** · 组合压缩和多token预测时先做端到端开销分解
+
+<a id="paper-150556"></a>
+
+## Bits Beat Tokens: A Regret Rate Distortion Theory for Large Language Model Agents
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150556) · [作者来源](https://openreview.net/forum?id=hGYPDaFTPP)
+
+- **问题 / 瓶颈** · 长上下文未必携带足够行动证据
+- **核心创新 / 方法** · 以贝叶斯遗憾定义率失真下界
+- **Baseline** · 同信息率比较与思维链对照
+- **Benchmark** · 441组单步工具选择，三模型三数据集
+- **关键结果 / 消融** · 所有设置符合理论下界
+- **适用条件 / 局限** · 实证限于单步平衡分类代理
+
+**可复用机制** · 固定任务遗憾目标后比较检索策略保留的决策信息
+
+<a id="paper-150476"></a>
+
+## BitShift-RoPE: Zero-FLOP Relative Positional Encoding for Spiking Neural Network Transformers
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150476) · [作者来源](https://openreview.net/forum?id=hlVtSHax4T)
+
+- **问题 / 瓶颈** · 浮点旋转破坏二值稀疏计算
+- **核心创新 / 方法** · 把RoPE频率映射成循环移位
+- **Baseline** · 原始Spikformer
+- **Benchmark** · 时序预测、文本及图像分类
+- **关键结果 / 消融** · 图像准确率84.17%，报告能耗0.216mJ每样本
+- **适用条件 / 局限** · 依赖位移和内存寻址实现
+
+**可复用机制** · 硬件受限时按实际内存操作测编码能耗
+
+<a id="paper-155774"></a>
+
+## Black-Box Followers, White-Box Leaders: Partial Zeroth-Order Methods for MPECs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155774) · [作者来源](https://openreview.net/forum?id=317Kb0r0vX)
+
+- **问题 / 瓶颈** · 全黑盒估计浪费已知目标导数
+- **核心创新 / 方法** · 组合目标的精确偏导与响应雅可比估计
+- **Baseline** · 整体黑盒零阶方法
+- **Benchmark** · 均衡约束优化及路网定价
+- **关键结果 / 消融** · 作者证明方差上界降低并报告收敛改善
+- **适用条件 / 局限** · 依赖目标偏导和可查询响应
+
+**可复用机制** · 复合问题中按可访问导数拆分估计器
+
+<a id="paper-154419"></a>
+
+## Black-box model classification under the discriminative factorization
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154419) · [作者来源](https://openreview.net/forum?id=DicIm04iMs)
+
+- **问题 / 瓶颈** · 不同查询集合的模型识别效果差异大
+- **核心创新 / 方法** · 用判别分解预测分类失败率随预算的变化
+- **Baseline** · 随机与先知查询集合
+- **Benchmark** · 三项审计任务
+- **关键结果 / 消融** · 作者报告估计量预测经验衰减率并复现先知排序
+- **适用条件 / 局限** · 依赖审计分布及候选模型族
+
+**可复用机制** · 仅在授权模型审计中比较查询组的信息增量
+
+<a id="paper-151082"></a>
+
+## Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151082) · [作者来源](https://openreview.net/forum?id=d6Lh3e1MsW)
+
+- **问题 / 瓶颈** · 单一一致性分数混淆问题歧义与知识缺口
+- **核心创新 / 方法** · 嵌套采样与嵌套提示，按全协方差分解变异
+- **Baseline** · 强白盒与一致性方法
+- **Benchmark** · 五个短问答基准，含AmbigQA与Natural Questions
+- **关键结果 / 消融** · 作者报告可区分两类失效并与白盒可比
+- **适用条件 / 局限** · 语义保留质量影响估计
+
+**可复用机制** · 分别按采样与提示变化比较澄清和复核信号
+
+<a id="paper-152234"></a>
+
+## BLADE: Scalable Bi-level Adaptive Data Selection for LLM Training
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152234) · [作者来源](https://openreview.net/forum?id=UZM2vsjS66)
+
+- **问题 / 瓶颈** · 固定参考与训练中的代理逐渐失配
+- **核心创新 / 方法** · 用惩罚单层目标替代双层优化，以随机块坐标方法选批次
+- **Baseline** · 影响函数与固定参考超额损失
+- **Benchmark** · 语言模型数据选择，具体基准待核
+- **关键结果 / 消融** · 作者报告超过所比基线并证明一阶收敛
+- **适用条件 / 局限** · 代理对最终模型的代表性待核
+
+**可复用机制** · 在同训练预算下比较动态和静态参考的选样变化
+
+<a id="paper-155644"></a>
+
+## BLANP: Memory-Efficient Backpropagation-Free Local Training via Antithetic Node Perturbation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155644) · [作者来源](https://openreview.net/forum?id=446EXQoY2A)
+
+- **问题 / 瓶颈** · 跨层反传需要保存全网络激活
+- **核心创新 / 方法** · 用正负节点扰动与冻结滑动平均评价器做局部更新
+- **Baseline** · 反向传播及已有局部学习方法
+- **Benchmark** · MNIST、Fashion-MNIST、CIFAR-10
+- **关键结果 / 消融** · 精确局部版本在CIFAR-10比最强局部对照高2.40%，距反传3.90%
+- **适用条件 / 局限** · 两次前向的成本与深模型表现待核
+
+**可复用机制** · 同时测局部更新的激活峰值与准确率
+
+<a id="paper-155225"></a>
+
+## BLARM: Animating 3D Objects from Video via Blending LAtent Rigid Motion Primitives
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155225) · [作者来源](https://openreview.net/forum?id=7KoU7zMcDg)
+
+- **问题 / 瓶颈** · 直接估计全部顶点运动难保时间一致
+- **核心创新 / 方法** · 学时变刚体和时不变顶点混合权重
+- **Baseline** · 显式骨架和顶点回归路线，实验对照待核
+- **Benchmark** · 单目视频驱动网格动画，数据集及指标待核
+- **关键结果 / 消融** · 作者报告动画稳定且运动结构紧凑
+- **适用条件 / 局限** · 需要静态网格；大幅非刚性变形适用性待核
+
+**可复用机制** · 用时不变混合权重约束低维部件运动
+
+<a id="paper-154470"></a>
+
+## BLEND: Balancing Personalization vs. Generalization in Federated Vision–Language Models
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154470) · [作者来源](https://openreview.net/forum?id=DLc8g7y9QA)
+
+- **问题 / 瓶颈** · 共享参数改善泛化但可能削弱个性化
+- **核心创新 / 方法** · 共享视觉文本适配器，保留本地视觉投影并用零样本头锚定
+- **Baseline** · 已有联邦VLM方案，名称待核
+- **Benchmark** · 多种系统设置，指标待核
+- **关键结果 / 消融** · 作者报告优于所比方法，幅度待核
+- **适用条件 / 局限** · 锚点模型与本地域差异影响折衷
+
+**可复用机制** · 对照共享与个性化参数所在层并分测两类性能
+
+<a id="paper-149073"></a>
+
+## BlendCast: Teaching Vision-Language Model to Anticipate Member Skill in Weather Ensembles
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149073) · [作者来源](https://openreview.net/forum?id=t52ZKfBzJk)
+
+- **问题 / 瓶颈** · 成员可靠性随变量、时效和天气状态变化
+- **核心创新 / 方法** · 以气象图和集合诊断预测成员技能，监督后用多变量奖励微调
+- **Baseline** · 等权、常规后处理和先知混合
+- **Benchmark** · 留出的2025年预报，以WRMSE测量
+- **关键结果 / 消融** · 较等权和后处理降2.6%及2.0%
+- **适用条件 / 局限** · 尚需跨年份和极端天气检验
+
+**可复用机制** · 按条件比较学习权重并报告与先知的差距
+
+<a id="paper-151100"></a>
+
+## BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151100) · [作者来源](https://openreview.net/forum?id=czK5BBdtMP)
+
+- **问题 / 瓶颈** · 仅检查代码或视觉结果难确认局部编辑是否正确
+- **核心创新 / 方法** · 隔离环境确定性执行并导出结构化状态用于多轮训练
+- **Baseline** · 基础Qwen3-VL-8B及零样本闭源模型
+- **Benchmark** · 位置、形变键、灯光和材质四类Blender任务
+- **关键结果 / 消融** · 作者报告较底座改善并与部分闭源方法可比
+- **适用条件 / 局限** · 依赖状态可直接读取，开放式审美任务未验证
+
+**可复用机制** · 用目标状态和非目标属性保持分别做验收
+
+<a id="paper-150222"></a>
+
+## Blind-Window Forecasting: Real-Time Benchmarking and Multimodal Reconstruction for Tropical Cyclones
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150222) · [作者来源](https://openreview.net/forum?id=jrRFzggOc0)
+
+- **问题 / 瓶颈** · 最新再分析场在发报时可能不存在
+- **核心创新 / 方法** · 以延迟再分析和即时遥感重建预报所需的风暴状态
+- **Baseline** · 理想即时分析与仅延迟再分析
+- **Benchmark** · 1980–2023热带气旋，测路径和强度
+- **关键结果 / 消融** · 作者报告两项均优于延迟对照
+- **适用条件 / 局限** · 历史观测覆盖和延迟策略影响结论
+
+**可复用机制** · 用即时与延迟数据双对照量化事后输入优势

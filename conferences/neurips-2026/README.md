@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1049** 篇，暂收录 **956** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1109** 篇，暂收录 **1010** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -964,3 +964,57 @@
 | 时间序列 | 表示学习 | [Beyond the Readout: Reservoir State Statistics for Model-Space Learning under Sparse Observations](cards-0002.md#paper-152483) | 用动态轨迹统计补充稀疏通道的拟合参数 |
 | 统计学习 | 偏移风险估计 | [Beyond the Training Distribution: Evaluating Predictions Under Distribution Shift and Selection Bias](cards-0002.md#paper-149001) | 同时校正目标协变量偏移和选择性标签 |
 | 机器学习系统 | 分布式训练调参 | [Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training](cards-0002.md#paper-150603) | 先用小规模测量和全局推演筛训练配置 |
+| 具身智能 | 空间先验 | [Beyond Thinking: Imagining in 360$^\circ$ for Humanoid Visual Search](cards-0002.md#paper-149744) | 用多假设空间布局引导主动搜索。 |
+| 多模态 | 时空定位 | [Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation](cards-0002.md#paper-155293) | 将分割目标明确为框和点，并跨查询校准。 |
+| 生成模型 | 蒸馏 | [Beyond Trajectory Matching: Reflow with Marginal Distribution Alignment](cards-0002.md#paper-155442) | 沿每段蒸馏轨迹同时约束终点边际。 |
+| 大语言模型 | 行为评测 | [Beyond Truthfulness: Evaluating Honesty in Large Language Models](cards-0002.md#paper-139425) | 将模型知道正确答案和是否如实表达分开计分。 |
+| 计算机视觉 | 可控恢复 | [Beyond Unidirectional: Unsupervised Trajectory Learning for Omnidirectional Controllable Underwater Image Enhancement](cards-0002.md#paper-151882) | 训练任意源目标强度间的相对变换。 |
+| 大语言模型 | 检索校验 | [Beyond Uniform Detection: Adaptive Hallucination Detection for RAG Across Response Regimes](cards-0002.md#paper-155755) | 按回答类型切换幻觉检测信号。 |
+| 科学机器学习 | 守恒动力学 | [Beyond Unit-Circle Eigenvalues: Invariant Bases for Stable State Space Dynamics](cards-0002.md#paper-149242) | 同时约束特征值和守恒量对应的模态基底。 |
+| 多模态 | 视频检索 | [Beyond Visual Boundaries: Rethinking Scene Segmentation for Movie RAG](cards-0002.md#paper-139396) | 按叙事事件切分电影检索单元。 |
+| 医学影像 | 密集表征 | [Beyond ViT Tokens: Masked-Diffusion Pretrained Convolutional Pathology Foundation Model for Cell-Level Dense Prediction](cards-0002.md#paper-148943) | 需要像素级连续性时比较卷积掩蔽扩散与 patch 预训练。 |
+| 学习理论 | 推理预算 | [Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision](cards-0002.md#paper-151533) | 用分布外验证决定训练推理长度。 |
+| 具身智能 | 动作表征 | [Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models](cards-0002.md#paper-155672) | 先在学习的运动局部坐标中组装动作。 |
+| 优化 | 数据压缩 | [Beyond Worst-Case Coreset Bounds for $k$-Clustering via Determinantal Sampling](cards-0002.md#paper-148163) | 自然分布假设成立时比较行列式采样构造聚类核心集。 |
+| 生理信号 | 连续表征 | [B[FM]$^2$: Brain Foundation Model via Flow Matching with SplitUNet](cards-0002.md#paper-148190) | 按时间和电极轴分别卷积，只沿时间下采样。 |
+| 大语言模型 | 强化学习 | [BFS-PO: Best-First Search for Large Reasoning Models](cards-0002.md#paper-153193) | 训练时将最短正确分支作为优先探索对象。 |
+| Agent | 运维编排 | [Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations](cards-0002.md#paper-148501) | 将事件相关数据和知识选择封装为可修订技能。 |
+| 计算机视觉 | 检测审计 | [BIAS-ID: A Framework for Analyzing Transformation Biases in AI-Generated Image Detectors](cards-0002.md#paper-139597) | 分开评估变换偏差与一般鲁棒性。 |
+| 图学习 | 误差诊断 | [Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?](cards-0002.md#paper-153204) | 用独立估计图与同样本图对照检查重复使用测量噪声。 |
+| 大语言模型 | 偏好优化 | [Bias-Variance Optimized Preference Optimization for Large Reasoning Models](cards-0002.md#paper-152470) | 把普通推理梯度与空推理分支梯度混合降方差。 |
+| 优化 | 层级代理 | [Bidirectional Information Flow (BIF) - A Sample Efficient Hierarchical Gaussian Process for Bayesian Optimization](cards-0002.md#paper-149175) | 用父子双向反馈拟合组合目标 |
+| 生成模型 | 稀疏注意力 | [Bidirectional Sparse Attention for Faster Video Diffusion Training](cards-0002.md#paper-154292) | 同时筛查询和键值 |
+| 科学机器学习 | 多解建模 | [Bifurcation Models: Learning Set-Valued Solution Maps with Weight-Tied Dynamics](cards-0002.md#paper-149009) | 用吸引子集合表示多个正确解 |
+| 计算机视觉 | 大图生成 | [BigCell: Generating Gigapixel Whole-Slide Images](cards-0002.md#paper-152972) | 按区域重要性调度滑窗生成 |
+| 生成模型 | 记忆诊断 | [Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models](cards-0002.md#paper-156775) | 数据规模变化后重新校准早停点 |
+| 计算机视觉 | 稀疏检测 | [BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots](cards-0002.md#paper-152107) | 用快速补偿支路覆盖主检测器遗漏 |
+| 大语言模型 | 数据加权 | [Bilevel Optimization of Synthetic Trajectories for Multi-Turn LLM Fine-Tuning](cards-0002.md#paper-155173) | 用真实验证任务学习合成轨迹权重 |
+| 机器人学 | 定位 | [BiLi: Bridging the Last Mile in LiDAR Localization](cards-0002.md#paper-153081) | 将地图流形约束与时序蒸馏结合 |
+| 学习理论 | 在线匹配 | [Bilinear Matching Bandits](cards-0002.md#paper-149557) | 利用双线性结构设计分行探索 |
+| 大语言模型 | 低比特推理 | [BiLoCo: Binary Low-Rank Corrections for LLM FP4 Decode](cards-0002.md#paper-149418) | 用符号低秩残差和主矩阵乘并行 |
+| 多模态学习 | 离散扩散 | [BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion](cards-0002.md#paper-152019) | 训练时暴露自身预测并在早期纠错 |
+| 统计学习 | 结构表示 | [Binary Regression:  Universal Ising Model, Binary Expansion and Beyond](cards-0002.md#paper-155424) | 以辅助二值变量表示高阶依赖 |
+| 多模态学习 | 表征对齐 | [Binding Multiple Modalities via Multimodal Wasserstein Barycenter](cards-0002.md#paper-149098) | 用跨模态重心作为对齐中心 |
+| 多模态学习 | 视觉推理 | [Binding Visual Features Point by Point](cards-0002.md#paper-148298) | 让模型先指向对象再判断其属性 |
+| 科学机器学习 | 结构正则化 | [Biological Graph Priors Enable Representation Learning for Cellular Microscopy](cards-0002.md#paper-150999) | 用已知关系约束显微图像表征 |
+| 多模态学习 | 域适应 | [Biomedical Acquisition-induced Style Shifts as Mixture Shifts: Style-aware Mixture-of-Experts Multimodal Prompt Learning](cards-0002.md#paper-152391) | 将设备风格偏移当成潜在成分比例变化 |
+| 科学机器学习 | 图像质量验证 | [BioMicroAgents: A Co-evolutionary Multi-Agent Framework for High-Fidelity Biomicroscopy Imaging](cards-0002.md#paper-155868) | 用独立验证阶段检查增强是否保留结构 |
+| 安全评测 | 级联验证 | [BioSafetyBench: Agentic Cascade Evaluation for the Bio-AI Ecosystem](cards-0002.md#paper-138924) | 用独立评估器核对中间产物与下游风险 |
+| Agent | 能力评测 | [BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks](cards-0002.md#paper-138952) | 固定骨干和资源再比较代理框架 |
+| Agent | 强化学习 | [BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments](cards-0002.md#paper-152242) | 复用数据库副本时保证轨迹状态隔离 |
+| 视觉 | 三维重建 | [Birth-Death Structural Learning for 3D Gaussian Splatting](cards-0002.md#paper-155061) | 用重建损失的一阶变化选增删原语 |
+| 安全 | 防护验证 | [BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device TEE-Shielded LLM Partition](cards-0002.md#paper-152920) | 对可信执行环境的参数隔离做独立验证 |
+| 视觉 | 生成建模 | [BitDance: Scaling Autoregressive Generative Models with Binary Tokens](cards-0002.md#paper-153956) | 用扩散预测高容量二值视觉码而非枚举类别 |
+| 语言模型 | 推理加速 | [BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models](cards-0002.md#paper-154757) | 将接受前缀同时对齐缓存与执行图复用 |
+| Agent | 学习理论 | [Bits Beat Tokens: A Regret Rate Distortion Theory for Large Language Model Agents](cards-0002.md#paper-150556) | 用决策相关信息量衡量上下文而非长度 |
+| 模型架构 | 脉冲网络 | [BitShift-RoPE: Zero-FLOP Relative Positional Encoding for Spiking Neural Network Transformers](cards-0002.md#paper-150476) | 用整数循环移位实现相对位置编码 |
+| 优化 | 零阶估计 | [Black-Box Followers, White-Box Leaders: Partial Zeroth-Order Methods for MPECs](cards-0002.md#paper-155774) | 仅对不可微的未知响应做零阶估计 |
+| 统计学习 | 模型审计 | [Black-box model classification under the discriminative factorization](cards-0002.md#paper-154419) | 先估计查询集合的判别能力再分配审计预算 |
+| 语言模型 | 不确定性量化 | [Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles](cards-0002.md#paper-151082) | 比较同提示采样和语义等价改写的变异 |
+| 语言模型 | 数据选择 | [BLADE: Scalable Bi-level Adaptive Data Selection for LLM Training](cards-0002.md#paper-152234) | 动态更新用于超额损失选择的参考模型 |
+| 模型训练 | 局部学习 | [BLANP: Memory-Efficient Backpropagation-Free Local Training via Antithetic Node Perturbation](cards-0002.md#paper-155644) | 内存紧张时比较局部反向梯度与对偶扰动更新 |
+| 视觉 | 三维动画 | [BLARM: Animating 3D Objects from Video via Blending LAtent Rigid Motion Primitives](cards-0002.md#paper-155225) | 将网格变形表示为共享刚体运动的混合 |
+| 多模态 | 联邦学习 | [BLEND: Balancing Personalization vs. Generalization in Federated Vision–Language Models](cards-0002.md#paper-154470) | 将共享跨模态调节与客户端投影分开 |
+| 科学机器学习 | 集合预报 | [BlendCast: Teaching Vision-Language Model to Anticipate Member Skill in Weather Ensembles](cards-0002.md#paper-149073) | 按变量和大气状态预估成员权重 |
+| 多模态 | 可验证智能体 | [BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs](cards-0002.md#paper-151100) | 按场景状态差异为3D编辑生成可验证奖励 |
+| 科学机器学习 | 预报评测 | [Blind-Window Forecasting: Real-Time Benchmarking and Multimodal Reconstruction for Tropical Cyclones](cards-0002.md#paper-150222) | 按推理时真实可获得的时间戳构造预报测试 |

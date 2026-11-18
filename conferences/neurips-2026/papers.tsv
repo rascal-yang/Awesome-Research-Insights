@@ -1001,66 +1001,66 @@ poster_id	title	paper_url	status	reason
 152483	Beyond the Readout: Reservoir State Statistics for Model-Space Learning under Sparse Observations	https://neurips.cc/virtual/2026/poster/152483	included	用动态轨迹统计补充稀疏通道的拟合参数
 149001	Beyond the Training Distribution: Evaluating Predictions Under Distribution Shift and Selection Bias	https://neurips.cc/virtual/2026/poster/149001	included	同时校正目标协变量偏移和选择性标签
 150603	Beyond the Trial-and-Error Loop: Hybrid Projection and Automated Tuning for Distributed Training	https://neurips.cc/virtual/2026/poster/150603	included	先用小规模测量和全局推演筛训练配置
-149744	Beyond Thinking: Imagining in 360$^\circ$ for Humanoid Visual Search	https://neurips.cc/virtual/2026/poster/149744	pending	-
-155293	Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation	https://neurips.cc/virtual/2026/poster/155293	pending	-
-140090	Beyond Training Time, Test-Time Coordination is Essential for Cooperative MARL	https://neurips.cc/virtual/2026/poster/140090	pending	-
-155442	Beyond Trajectory Matching: Reflow with Marginal Distribution Alignment	https://neurips.cc/virtual/2026/poster/155442	pending	-
-139425	Beyond Truthfulness: Evaluating Honesty in Large Language Models	https://neurips.cc/virtual/2026/poster/139425	pending	-
-151882	Beyond Unidirectional: Unsupervised Trajectory Learning for Omnidirectional Controllable Underwater Image Enhancement	https://neurips.cc/virtual/2026/poster/151882	pending	-
-155755	Beyond Uniform Detection: Adaptive Hallucination Detection for RAG Across Response Regimes	https://neurips.cc/virtual/2026/poster/155755	pending	-
-149242	Beyond Unit-Circle Eigenvalues: Invariant Bases for Stable State Space Dynamics	https://neurips.cc/virtual/2026/poster/149242	pending	-
-139396	Beyond Visual Boundaries: Rethinking Scene Segmentation for Movie RAG	https://neurips.cc/virtual/2026/poster/139396	pending	-
-148943	Beyond ViT Tokens: Masked-Diffusion Pretrained Convolutional Pathology Foundation Model for Cell-Level Dense Prediction	https://neurips.cc/virtual/2026/poster/148943	pending	-
-151533	Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision	https://neurips.cc/virtual/2026/poster/151533	pending	-
-155672	Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155672	pending	-
-148163	Beyond Worst-Case Coreset Bounds for $k$-Clustering via Determinantal Sampling	https://neurips.cc/virtual/2026/poster/148163	pending	-
-148190	B[FM]$^2$: Brain Foundation Model via Flow Matching with SplitUNet	https://neurips.cc/virtual/2026/poster/148190	pending	-
-153193	BFS-PO: Best-First Search for Large Reasoning Models	https://neurips.cc/virtual/2026/poster/153193	pending	-
-148501	Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations	https://neurips.cc/virtual/2026/poster/148501	pending	-
-139597	BIAS-ID: A Framework for Analyzing Transformation Biases in AI-Generated Image Detectors	https://neurips.cc/virtual/2026/poster/139597	pending	-
-153204	Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?	https://neurips.cc/virtual/2026/poster/153204	pending	-
-150175	BiasTrojan: LLM Judgers Are Easily Distorted by Few Hundreds of Contrastive Biased Training Data	https://neurips.cc/virtual/2026/poster/150175	pending	-
-152470	Bias-Variance Optimized Preference Optimization for Large Reasoning Models	https://neurips.cc/virtual/2026/poster/152470	pending	-
-149175	Bidirectional Information Flow (BIF) - A Sample Efficient Hierarchical Gaussian Process for Bayesian Optimization	https://neurips.cc/virtual/2026/poster/149175	pending	-
-154292	Bidirectional Sparse Attention for Faster Video Diffusion Training	https://neurips.cc/virtual/2026/poster/154292	pending	-
-149009	Bifurcation Models: Learning Set-Valued Solution Maps with Weight-Tied Dynamics	https://neurips.cc/virtual/2026/poster/149009	pending	-
-152972	BigCell: Generating Gigapixel Whole-Slide Images	https://neurips.cc/virtual/2026/poster/152972	pending	-
-156775	Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models	https://neurips.cc/virtual/2026/poster/156775	pending	-
-140123	Bigger Isn’t Better: Why the Indiscriminate Scaling of Foundation Models Can’t Solve Biology	https://neurips.cc/virtual/2026/poster/140123	pending	-
-152107	BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots	https://neurips.cc/virtual/2026/poster/152107	pending	-
-155173	Bilevel Optimization of Synthetic Trajectories for Multi-Turn LLM Fine-Tuning	https://neurips.cc/virtual/2026/poster/155173	pending	-
-153081	BiLi: Bridging the Last Mile in LiDAR Localization	https://neurips.cc/virtual/2026/poster/153081	pending	-
-149557	Bilinear Matching Bandits	https://neurips.cc/virtual/2026/poster/149557	pending	-
-149418	BiLoCo: Binary Low-Rank Corrections for LLM FP4 Decode	https://neurips.cc/virtual/2026/poster/149418	pending	-
-152019	BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion	https://neurips.cc/virtual/2026/poster/152019	pending	-
-155424	Binary Regression:  Universal Ising Model, Binary Expansion and Beyond	https://neurips.cc/virtual/2026/poster/155424	pending	-
-153924	Binding Mode Matters: Hotspot-Aware Drug Discovery via Explorative Preferences	https://neurips.cc/virtual/2026/poster/153924	pending	-
-149098	Binding Multiple Modalities via Multimodal Wasserstein Barycenter	https://neurips.cc/virtual/2026/poster/149098	pending	-
-148298	Binding Visual Features Point by Point	https://neurips.cc/virtual/2026/poster/148298	pending	-
-150599	BioBlobs: Unsupervised Discovery of Functional Substructures for Protein Function Prediction	https://neurips.cc/virtual/2026/poster/150599	pending	-
-150999	Biological Graph Priors Enable Representation Learning for Cellular Microscopy	https://neurips.cc/virtual/2026/poster/150999	pending	-
-152391	Biomedical Acquisition-induced Style Shifts as Mixture Shifts: Style-aware Mixture-of-Experts Multimodal Prompt Learning	https://neurips.cc/virtual/2026/poster/152391	pending	-
-155868	BioMicroAgents: A Co-evolutionary Multi-Agent Framework for High-Fidelity Biomicroscopy Imaging	https://neurips.cc/virtual/2026/poster/155868	pending	-
-138924	BioSafetyBench: Agentic Cascade Evaluation for the Bio-AI Ecosystem	https://neurips.cc/virtual/2026/poster/138924	pending	-
-138952	BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks	https://neurips.cc/virtual/2026/poster/138952	pending	-
-152242	BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments	https://neurips.cc/virtual/2026/poster/152242	pending	-
-155061	Birth-Death Structural Learning for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/155061	pending	-
-152920	BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device TEE-Shielded LLM Partition	https://neurips.cc/virtual/2026/poster/152920	pending	-
-153956	BitDance: Scaling Autoregressive Generative Models with Binary Tokens	https://neurips.cc/virtual/2026/poster/153956	pending	-
-154757	BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models	https://neurips.cc/virtual/2026/poster/154757	pending	-
-150556	Bits Beat Tokens: A Regret Rate Distortion Theory for Large Language Model Agents	https://neurips.cc/virtual/2026/poster/150556	pending	-
-150476	BitShift-RoPE: Zero-FLOP Relative Positional Encoding for Spiking Neural Network Transformers	https://neurips.cc/virtual/2026/poster/150476	pending	-
-155774	Black-Box Followers, White-Box Leaders: Partial Zeroth-Order Methods for MPECs	https://neurips.cc/virtual/2026/poster/155774	pending	-
-154610	Black-Box Inference of LLM Architectural Properties with Restrictive API Access	https://neurips.cc/virtual/2026/poster/154610	pending	-
-154419	Black-box model classification under the discriminative factorization	https://neurips.cc/virtual/2026/poster/154419	pending	-
-151082	Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles	https://neurips.cc/virtual/2026/poster/151082	pending	-
-152234	BLADE: Scalable Bi-level Adaptive Data Selection for LLM Training	https://neurips.cc/virtual/2026/poster/152234	pending	-
-155644	BLANP: Memory-Efficient Backpropagation-Free Local Training via Antithetic Node Perturbation	https://neurips.cc/virtual/2026/poster/155644	pending	-
-155225	BLARM: Animating 3D Objects from Video via Blending LAtent Rigid Motion Primitives	https://neurips.cc/virtual/2026/poster/155225	pending	-
-154470	BLEND: Balancing Personalization vs. Generalization in Federated Vision–Language Models	https://neurips.cc/virtual/2026/poster/154470	pending	-
-149073	BlendCast: Teaching Vision-Language Model to Anticipate Member Skill in Weather Ensembles	https://neurips.cc/virtual/2026/poster/149073	pending	-
-151100	BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs	https://neurips.cc/virtual/2026/poster/151100	pending	-
-150222	Blind-Window Forecasting: Real-Time Benchmarking and Multimodal Reconstruction for Tropical Cyclones	https://neurips.cc/virtual/2026/poster/150222	pending	-
+149744	Beyond Thinking: Imagining in 360$^\circ$ for Humanoid Visual Search	https://neurips.cc/virtual/2026/poster/149744	included	用多假设空间布局引导主动搜索。
+155293	Beyond Token Representations: Explicit Visual Object Grounding for Video Reasoning Segmentation	https://neurips.cc/virtual/2026/poster/155293	included	将分割目标明确为框和点，并跨查询校准。
+140090	Beyond Training Time, Test-Time Coordination is Essential for Cooperative MARL	https://neurips.cc/virtual/2026/poster/140090	excluded	提出部署协调问题和术语，摘要未给可验证算法、实验或理论结果。
+155442	Beyond Trajectory Matching: Reflow with Marginal Distribution Alignment	https://neurips.cc/virtual/2026/poster/155442	included	沿每段蒸馏轨迹同时约束终点边际。
+139425	Beyond Truthfulness: Evaluating Honesty in Large Language Models	https://neurips.cc/virtual/2026/poster/139425	included	将模型知道正确答案和是否如实表达分开计分。
+151882	Beyond Unidirectional: Unsupervised Trajectory Learning for Omnidirectional Controllable Underwater Image Enhancement	https://neurips.cc/virtual/2026/poster/151882	included	训练任意源目标强度间的相对变换。
+155755	Beyond Uniform Detection: Adaptive Hallucination Detection for RAG Across Response Regimes	https://neurips.cc/virtual/2026/poster/155755	included	按回答类型切换幻觉检测信号。
+149242	Beyond Unit-Circle Eigenvalues: Invariant Bases for Stable State Space Dynamics	https://neurips.cc/virtual/2026/poster/149242	included	同时约束特征值和守恒量对应的模态基底。
+139396	Beyond Visual Boundaries: Rethinking Scene Segmentation for Movie RAG	https://neurips.cc/virtual/2026/poster/139396	included	按叙事事件切分电影检索单元。
+148943	Beyond ViT Tokens: Masked-Diffusion Pretrained Convolutional Pathology Foundation Model for Cell-Level Dense Prediction	https://neurips.cc/virtual/2026/poster/148943	included	需要像素级连续性时比较卷积掩蔽扩散与 patch 预训练。
+151533	Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision	https://neurips.cc/virtual/2026/poster/151533	included	用分布外验证决定训练推理长度。
+155672	Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155672	included	先在学习的运动局部坐标中组装动作。
+148163	Beyond Worst-Case Coreset Bounds for $k$-Clustering via Determinantal Sampling	https://neurips.cc/virtual/2026/poster/148163	included	自然分布假设成立时比较行列式采样构造聚类核心集。
+148190	B[FM]$^2$: Brain Foundation Model via Flow Matching with SplitUNet	https://neurips.cc/virtual/2026/poster/148190	included	按时间和电极轴分别卷积，只沿时间下采样。
+153193	BFS-PO: Best-First Search for Large Reasoning Models	https://neurips.cc/virtual/2026/poster/153193	included	训练时将最短正确分支作为优先探索对象。
+148501	Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations	https://neurips.cc/virtual/2026/poster/148501	included	将事件相关数据和知识选择封装为可修订技能。
+139597	BIAS-ID: A Framework for Analyzing Transformation Biases in AI-Generated Image Detectors	https://neurips.cc/virtual/2026/poster/139597	included	分开评估变换偏差与一般鲁棒性。
+153204	Bias, Measurement Error, and Double-Dipping: When Can GNN Convolutions Help Brain Connectome Prediction?	https://neurips.cc/virtual/2026/poster/153204	included	用独立估计图与同样本图对照检查重复使用测量噪声。
+150175	BiasTrojan: LLM Judgers Are Easily Distorted by Few Hundreds of Contrastive Biased Training Data	https://neurips.cc/virtual/2026/poster/150175	excluded	论文主要贡献是对训练数据投毒的攻击性研究，摘要未给可独立复用的防御方案。
+152470	Bias-Variance Optimized Preference Optimization for Large Reasoning Models	https://neurips.cc/virtual/2026/poster/152470	included	把普通推理梯度与空推理分支梯度混合降方差。
+149175	Bidirectional Information Flow (BIF) - A Sample Efficient Hierarchical Gaussian Process for Bayesian Optimization	https://neurips.cc/virtual/2026/poster/149175	included	用父子双向反馈拟合组合目标
+154292	Bidirectional Sparse Attention for Faster Video Diffusion Training	https://neurips.cc/virtual/2026/poster/154292	included	同时筛查询和键值
+149009	Bifurcation Models: Learning Set-Valued Solution Maps with Weight-Tied Dynamics	https://neurips.cc/virtual/2026/poster/149009	included	用吸引子集合表示多个正确解
+152972	BigCell: Generating Gigapixel Whole-Slide Images	https://neurips.cc/virtual/2026/poster/152972	included	按区域重要性调度滑窗生成
+156775	Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models	https://neurips.cc/virtual/2026/poster/156775	included	数据规模变化后重新校准早停点
+140123	Bigger Isn’t Better: Why the Indiscriminate Scaling of Foundation Models Can’t Solve Biology	https://neurips.cc/virtual/2026/poster/140123	excluded	观点综述以案例归纳扩量研究的局限，摘要未提供可独立验证的新机制或明确对照规律。
+152107	BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots	https://neurips.cc/virtual/2026/poster/152107	included	用快速补偿支路覆盖主检测器遗漏
+155173	Bilevel Optimization of Synthetic Trajectories for Multi-Turn LLM Fine-Tuning	https://neurips.cc/virtual/2026/poster/155173	included	用真实验证任务学习合成轨迹权重
+153081	BiLi: Bridging the Last Mile in LiDAR Localization	https://neurips.cc/virtual/2026/poster/153081	included	将地图流形约束与时序蒸馏结合
+149557	Bilinear Matching Bandits	https://neurips.cc/virtual/2026/poster/149557	included	利用双线性结构设计分行探索
+149418	BiLoCo: Binary Low-Rank Corrections for LLM FP4 Decode	https://neurips.cc/virtual/2026/poster/149418	included	用符号低秩残差和主矩阵乘并行
+152019	BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion	https://neurips.cc/virtual/2026/poster/152019	included	训练时暴露自身预测并在早期纠错
+155424	Binary Regression:  Universal Ising Model, Binary Expansion and Beyond	https://neurips.cc/virtual/2026/poster/155424	included	以辅助二值变量表示高阶依赖
+153924	Binding Mode Matters: Hotspot-Aware Drug Discovery via Explorative Preferences	https://neurips.cc/virtual/2026/poster/153924	excluded	摘要以优化候选分子与特定生物靶点相互作用为核心，未提取可独立安全复用的技术条目。
+149098	Binding Multiple Modalities via Multimodal Wasserstein Barycenter	https://neurips.cc/virtual/2026/poster/149098	included	用跨模态重心作为对齐中心
+148298	Binding Visual Features Point by Point	https://neurips.cc/virtual/2026/poster/148298	included	让模型先指向对象再判断其属性
+150599	BioBlobs: Unsupervised Discovery of Functional Substructures for Protein Function Prediction	https://neurips.cc/virtual/2026/poster/150599	excluded	摘要聚焦从蛋白质结构识别功能位点，暂未提取可独立安全复用的技术条目。
+150999	Biological Graph Priors Enable Representation Learning for Cellular Microscopy	https://neurips.cc/virtual/2026/poster/150999	included	用已知关系约束显微图像表征
+152391	Biomedical Acquisition-induced Style Shifts as Mixture Shifts: Style-aware Mixture-of-Experts Multimodal Prompt Learning	https://neurips.cc/virtual/2026/poster/152391	included	将设备风格偏移当成潜在成分比例变化
+155868	BioMicroAgents: A Co-evolutionary Multi-Agent Framework for High-Fidelity Biomicroscopy Imaging	https://neurips.cc/virtual/2026/poster/155868	included	用独立验证阶段检查增强是否保留结构
+138924	BioSafetyBench: Agentic Cascade Evaluation for the Bio-AI Ecosystem	https://neurips.cc/virtual/2026/poster/138924	included	用独立评估器核对中间产物与下游风险
+138952	BioXArena: Benchmarking LLM Agents on Multi-Modal Biomedical Machine Learning Tasks	https://neurips.cc/virtual/2026/poster/138952	included	固定骨干和资源再比较代理框架
+152242	BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments	https://neurips.cc/virtual/2026/poster/152242	included	复用数据库副本时保证轨迹状态隔离
+155061	Birth-Death Structural Learning for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/155061	included	用重建损失的一阶变化选增删原语
+152920	BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device TEE-Shielded LLM Partition	https://neurips.cc/virtual/2026/poster/152920	included	对可信执行环境的参数隔离做独立验证
+153956	BitDance: Scaling Autoregressive Generative Models with Binary Tokens	https://neurips.cc/virtual/2026/poster/153956	included	用扩散预测高容量二值视觉码而非枚举类别
+154757	BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models	https://neurips.cc/virtual/2026/poster/154757	included	将接受前缀同时对齐缓存与执行图复用
+150556	Bits Beat Tokens: A Regret Rate Distortion Theory for Large Language Model Agents	https://neurips.cc/virtual/2026/poster/150556	included	用决策相关信息量衡量上下文而非长度
+150476	BitShift-RoPE: Zero-FLOP Relative Positional Encoding for Spiking Neural Network Transformers	https://neurips.cc/virtual/2026/poster/150476	included	用整数循环移位实现相对位置编码
+155774	Black-Box Followers, White-Box Leaders: Partial Zeroth-Order Methods for MPECs	https://neurips.cc/virtual/2026/poster/155774	included	仅对不可微的未知响应做零阶估计
+154610	Black-Box Inference of LLM Architectural Properties with Restrictive API Access	https://neurips.cc/virtual/2026/poster/154610	excluded	核心为受限接口下推断未公开模型属性，摘要未提供经对照验证的独立防护设计。
+154419	Black-box model classification under the discriminative factorization	https://neurips.cc/virtual/2026/poster/154419	included	先估计查询集合的判别能力再分配审计预算
+151082	Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles	https://neurips.cc/virtual/2026/poster/151082	included	比较同提示采样和语义等价改写的变异
+152234	BLADE: Scalable Bi-level Adaptive Data Selection for LLM Training	https://neurips.cc/virtual/2026/poster/152234	included	动态更新用于超额损失选择的参考模型
+155644	BLANP: Memory-Efficient Backpropagation-Free Local Training via Antithetic Node Perturbation	https://neurips.cc/virtual/2026/poster/155644	included	内存紧张时比较局部反向梯度与对偶扰动更新
+155225	BLARM: Animating 3D Objects from Video via Blending LAtent Rigid Motion Primitives	https://neurips.cc/virtual/2026/poster/155225	included	将网格变形表示为共享刚体运动的混合
+154470	BLEND: Balancing Personalization vs. Generalization in Federated Vision–Language Models	https://neurips.cc/virtual/2026/poster/154470	included	将共享跨模态调节与客户端投影分开
+149073	BlendCast: Teaching Vision-Language Model to Anticipate Member Skill in Weather Ensembles	https://neurips.cc/virtual/2026/poster/149073	included	按变量和大气状态预估成员权重
+151100	BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs	https://neurips.cc/virtual/2026/poster/151100	included	按场景状态差异为3D编辑生成可验证奖励
+150222	Blind-Window Forecasting: Real-Time Benchmarking and Multimodal Reconstruction for Tropical Cyclones	https://neurips.cc/virtual/2026/poster/150222	included	按推理时真实可获得的时间戳构造预报测试
 148271	Blocked Gibbs meets Diffusion Transformers: Unsupervised Learning for Constraint Optimization	https://neurips.cc/virtual/2026/poster/148271	pending	-
 153580	BlockFormer: Transformer-based inference from interaction maps	https://neurips.cc/virtual/2026/poster/153580	pending	-
 152355	Block-OBS-GS: Exact Per-Block Joint Brain Surgery with Gauss–Seidel Refinement for LLM Pruning	https://neurips.cc/virtual/2026/poster/152355	pending	-
