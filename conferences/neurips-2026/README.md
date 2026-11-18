@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **869** 篇，暂收录 **782** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **929** 篇，暂收录 **838** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -790,3 +790,59 @@
 | 多模态 | 检索增强 | [BayesRAG: Probabilistic Mutual Evidence Corroboration for Multimodal Retrieval-Augmented Generation](cards-0002.md#paper-154974) | 用语义与版面互证重排图文组合 |
 | Agent | 协作诊断 | [Bayes-Sufficient Compression Is Not Enough: How Communication Helps in Multi-Agent Systems?](cards-0002.md#paper-155601) | 比较压缩消息、原始上下文和不通信 |
 | Agent / 优化 | 基准诊断 | [BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems](cards-0002.md#paper-139160) | 分别验收黑箱优化的搜索空间构造和算法选择 |
+| 统计学习 | 因果推断 | [B-CALM: Bias-Limited Bayesian Borrowing for RCT-Anchored Treatment Effects under Covariate Mismatch](cards-0002.md#paper-155646) | 用偏差先验限制外部数据借用。 |
+| 大语言模型 | 模型融合 | [BDC-Merge: Cross-Architecture Model Merging via Dependency Alignment](cards-0002.md#paper-151593) | 用非线性依赖对齐异构模型。 |
+| 具身智能 | 域适应 | [BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation](cards-0002.md#paper-151303) | 按样本差异学习源示范权重。 |
+| Agent / 教育 | 行为模拟 | [BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation](cards-0002.md#paper-155338) | 把策略决策与执行生成分开，保留模拟学习者错误。 |
+| 多模态学习 | 分层评测 | [BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](cards-0002.md#paper-139293) | 分别评估识别状态与判断动作可执行性。 |
+| 图学习 | 子图搜索 | [BeamWitness: Rooted Subgraph Beam Search for Selective Graph Representation Learning](cards-0002.md#paper-149610) | 预测前显式搜索有限数量的连通证据子图。 |
+| 科学机器学习 | 三维表征 | [BEAST3D: animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting](cards-0002.md#paper-149762) | 已知标定时用留出视角渲染预训练行为表征。 |
+| Agent / 数据库 | 运行合规评测 | [Be CARE-ful with Text-to-SQL Benchmarks](cards-0002.md#paper-139633) | 将查询正确性与并发、权限、完整性和效率分开验收。 |
+| 生成模型 | 流匹配 | [Beckmann Transport Models: From Autonomous Flows to One-Step Maps](cards-0002.md#paper-154577) | 在低维目标分布条件下比较自治流与直接一步映射。 |
+| 强化学习 | 部分可观测控制 | [BECON: Belief-Conditioned Constrained Multi-Objective Reinforcement Learning under Drifting Preferences and Budgets](cards-0002.md#paper-153172) | 按不确定性融合推断的任务偏好与外部信号。 |
+| 多模态学习 | 表征诊断 | [Before It Fades: Reinforcing Temporal Representations at Inference Time in VideoLLMs](cards-0002.md#paper-155460) | 用反转帧序定位时间信号衰减并在推理期补回。 |
+| 多模态学习 | 分层评测 | [Before Words, Beyond Speech: Evaluating Nonverbal Social Reasoning in Early Childhood](cards-0002.md#paper-139741) | 把社会推理拆成情景、行为和人际关系层级。 |
+| 大语言模型 | 后训练诊断 | [Behaving Better, Thinking Worse: Sycophancy Across Post-Training Stages](cards-0002.md#paper-153819) | 联合比较生成翻转率与同样本预测概率。 |
+| 强化学习 | 行为搜索 | [Behavioral Foundation Models for Quality Diversity](cards-0002.md#paper-148386) | 在预训练行为潜空间内做质量多样性搜索。 |
+| 计算机视觉 | 表征对齐 | [Behavioral Geometric Supervision Aligns Video Foundation Models with Human Social Perception](cards-0002.md#paper-149277) | 用人类视频相似性判断监督局部和全局嵌入几何。 |
+| Agent | 信息流诊断 | [Behavioral Probes for Information Flow in LLM Swarms](cards-0002.md#paper-149644) | 用外部依赖与参数知识依赖辅助智能体结构选择。 |
+| 个性化建模 | 离线评测 | [BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces](cards-0002.md#paper-138919) | 将用户信念推断与下一步动作预测分别测量。 |
+| 模仿学习 | 蒸馏理论 | [Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback](cards-0002.md#paper-150673) | 有噪教师下优先验证学生访问状态上的在线蒸馏。 |
+| 强化学习 | 奖励鲁棒性 | [Behavior-Discriminative Reward Shaping for Reward-Robust Reinforcement Learning](cards-0002.md#paper-155941) | 按策略排序等价类定义奖励不确定集。 |
+| 多模态学习 | 强化后训练 | [Behavior Pack Optimization for Video MLLM Post-Training](cards-0002.md#paper-150981) | 把同一视频问题的反事实视图作为联合奖励单位。 |
+| 表情分析 | 多任务优化 | [Behaviour4All: A Dependency-Aware Toolkit for in-the-wild Facial Behaviour Analysis](cards-0002.md#paper-150818) | 用任务依赖约束部分标注联合训练 |
+| Agent | 状态更新 | [Belief Engine: Configurable Stance Dynamics for Multi-Agent LLM Deliberation](cards-0002.md#paper-151258) | 让立场变化受显式证据吸收与先验锚定控制 |
+| 强化学习 | 收缩性分析 | [Bellman Contraction under MMD: A Unified Framework](cards-0002.md#paper-150640) | 用差分核条件检验分布式 Bellman 更新的收缩 |
+| 大语言模型 | 防御评测 | [BELLS-O: Evaluating the Operational Trade-offs of LLM Supervision Systems](cards-0002.md#paper-139421) | 采购监督模型时联测检出、误报、成本和延迟 |
+| Agent | 评估偏差 | [Below the Reliability Floor: Recovering True Success from Judge-Gated Loops](cards-0002.md#paper-156773) | 重试门控后独立抽取金标准验证真实成功率 |
+| 大语言模型 | 表示诊断 | [Benchmark for Assessing Olfactory Perception of Large Language Models](cards-0002.md#paper-139778) | 对同一问题比较名称输入和结构输入 |
+| 大语言模型 | 基准审计 | [Benchmark Health Index: A Systematic Framework for Benchmarking the Benchmarks of LLMs](cards-0002.md#paper-138960) | 区分基准的辨别力、饱和余量和实际采用 |
+| 大语言模型 | 防御监测 | [Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs](cards-0002.md#paper-139423) | 将安全分类与分布外报警独立融合 |
+| 多模态学习 | 结构生成 | [Benchmarking and Optimizing Multimodal Structured Generation: The OracleGraph Dataset and PRISM Framework](cards-0002.md#paper-149901) | 用图级诊断向自蒸馏教师提供结构错误信息 |
+| 表格学习 | 算子选型 | [Benchmarking Attention for Tabular Foundation Models](cards-0002.md#paper-139839) | 按行列注意力形状分别选择计算后端 |
+| 科学机器学习 | 泛化评估 | [Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials](cards-0002.md#paper-139491) | 以组合留出代替只做随机样本划分 |
+| 具身多模态 | 评测分解 | [Benchmarking Fine-Grained Spatio-Temporal Awareness in Embodied Brain Models](cards-0002.md#paper-139463) | 单独评估语义理解与时空定位 |
+| 图学习 | 基准复核 | [Benchmarking Graph Self-Supervised Learning for Node-Level Tasks: Insights and Strong Baseline](cards-0002.md#paper-138872) | 公平调参后再决定采用生成式或对比式预训练 |
+| 大语言模型 | 隐私审计 | [Benchmarking Membership Privacy Risks in Preference-Based LLM Post-Training](cards-0002.md#paper-139392) | 按完整偏好记录衡量隐私风险 |
+| 多模态学习 | 视觉推理评测 | [Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency](cards-0002.md#paper-139044) | 用多图显式依赖检查何时真的需要视觉 |
+| Agent | 协作评测 | [Benchmarking Open-Ended Multi-Agent Coordination in Language Agents](cards-0002.md#paper-139589) | 用可控协作难度区分个人生存和团队协调 |
+| 大语言模型 | 行为评估 | [Benchmarking Risk Attitudes of LLMs](cards-0002.md#paper-139608) | 在相同感知风险下比较模型采取的动作 |
+| 时序预测 | 故障评测 | [Benchmarking Sensor-Fault Robustness in Forecasting](cards-0002.md#paper-138912) | 单独比较干净精度与故障最坏误差。 |
+| 科学机器学习 | 基准诊断 | [Benchmarking sequence-to-ensemble predictors on UNICORNEdb, a UniProt-grouped database of PDB-derived conformational ensembles](cards-0002.md#paper-138904) | 按同一实体配对观测，避免相似样本差异混入状态变化。 |
+| 大语言模型 | 领域评测 | [Benchmarking Vietnamese Legal Knowledge of Large Language Models](cards-0002.md#paper-139241) | 按法条层级和认知难度分层构造评测。 |
+| Agent | 部署审计 | [Benchmark Recovery Does Not Certify a Frozen Tool-Trigger Contract After Quantization](cards-0002.md#paper-155241) | 量化验收时固定工具权限与参考标签，再单独检查触发。 |
+| 大语言模型 | 基准诊断 | [Benchmarks Are Not Atomic: Composition-Aware LLM Evaluation using BenchHub](cards-0002.md#paper-139267) | 用属性分布匹配应用后再比较模型。 |
+| 统计学习 | 测量可靠性 | [Benchmarks as Measurement Instruments: Quantifying Signal and Noise for More Efficient AI Evaluations Under Distribution Shift](cards-0002.md#paper-139555) | 按目标模型群体估计题目对排名的测量价值。 |
+| 大语言模型 | 数据消融 | [Benchmark Shadows: How Data Regimes Shape Parameter Footprints and Generalization](cards-0002.md#paper-154989) | 把重复和频率集中分开，对照后续多样数据能否修复。 |
+| 多智能体学习 | 实验设计 | [Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games](cards-0002.md#paper-139725) | 按耦合类型分层生成随机博弈实例。 |
+| 科学机器学习 | 诊断评测 | [BenchRep-T: A Systematic Evaluation of T-Cell Repertoire-Based Disease Diagnostics](cards-0002.md#paper-139621) | 在诊断模型选型中同时控制测序深度和人口统计混杂。 |
+| 大语言模型 | 防御验收 | [Benign Reinforcement Learning Can Amplify Latent Backdoors](cards-0002.md#paper-149677) | 在强化学习后重新进行安全回归测试。 |
+| 统计学习 | 序贯推断 | [Bentkus-type asymptotic e-values](cards-0002.md#paper-155963) | 需要较紧的事后区间时对照 Bentkus 型 e 值。 |
+| 多模态学习 | 生成架构 | [Bernini: Latent Semantic Planning for Video Diffusion](cards-0002.md#paper-154106) | 用视觉语义潜变量作为规划器和视频渲染器的接口。 |
+| 生成模型 | 快速采样 | [Bernoulli Flow Models: Self-Consistent Generative Modeling for Binary Data](cards-0002.md#paper-155986) | 二值扩散跳步时使用与间隔一致的后验。 |
+| 科学机器学习 | 表征诊断 | [BESS-Bench: Benchmarking Spectral Representations for Be-Star Variability](cards-0002.md#paper-139851) | 分别用形态探测和下一观测预测选时序模型。 |
+| 强化学习 | 纯探索 | [Best Arm Identification for Bandits with Shifting Means](cards-0002.md#paper-153746) | 奖励存在共同漂移时用重要性加权取代固定均值停止检验。 |
+| 强化学习 | 主动查询 | [Best Arm Identification in Generalized Linear Bandits via Hybrid Feedback](cards-0002.md#paper-151037) | 把单臂绝对观测和成对比较纳入同一查询设计。 |
+| 生成模型 | 推理引导 | [Best-of-$N$ Guidance for Test-time Diffusion Alignment](cards-0002.md#paper-154666) | 并行去噪过程中用当前优选粒子引导其余样本。 |
+| 统计学习 | 序贯检验 | [Bet Imaginatively, not Historically in Independent-Data Sequential Testing](cards-0002.md#paper-155229) | 独立同分布假设成立时，用重排历史估计下注收益。 |
+| 大语言模型 | 架构诊断 | [Better Language Models Require Better Domain-Specific Inductive Biases](cards-0002.md#paper-140098) | 激活函数搜索后加跨领域移植对照。 |

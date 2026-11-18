@@ -820,66 +820,66 @@ poster_id	title	paper_url	status	reason
 154974	BayesRAG: Probabilistic Mutual Evidence Corroboration for Multimodal Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/154974	included	用语义与版面互证重排图文组合
 155601	Bayes-Sufficient Compression Is Not Enough: How Communication Helps in Multi-Agent Systems?	https://neurips.cc/virtual/2026/poster/155601	included	比较压缩消息、原始上下文和不通信
 139160	BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems	https://neurips.cc/virtual/2026/poster/139160	included	分别验收黑箱优化的搜索空间构造和算法选择
-155646	B-CALM: Bias-Limited Bayesian Borrowing for RCT-Anchored Treatment Effects under Covariate Mismatch	https://neurips.cc/virtual/2026/poster/155646	pending	-
-151593	BDC-Merge: Cross-Architecture Model Merging via Dependency Alignment	https://neurips.cc/virtual/2026/poster/151593	pending	-
-151303	BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation	https://neurips.cc/virtual/2026/poster/151303	pending	-
-155338	BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation	https://neurips.cc/virtual/2026/poster/155338	pending	-
-139293	BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories	https://neurips.cc/virtual/2026/poster/139293	pending	-
-149610	BeamWitness: Rooted Subgraph Beam Search for Selective Graph Representation Learning	https://neurips.cc/virtual/2026/poster/149610	pending	-
-149762	BEAST3D: animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting	https://neurips.cc/virtual/2026/poster/149762	pending	-
-139633	Be CARE-ful with Text-to-SQL Benchmarks	https://neurips.cc/virtual/2026/poster/139633	pending	-
-154577	Beckmann Transport Models: From Autonomous Flows to One-Step Maps	https://neurips.cc/virtual/2026/poster/154577	pending	-
-153172	BECON: Belief-Conditioned Constrained Multi-Objective Reinforcement Learning under Drifting Preferences and Budgets	https://neurips.cc/virtual/2026/poster/153172	pending	-
-155460	Before It Fades: Reinforcing Temporal Representations at Inference Time in VideoLLMs	https://neurips.cc/virtual/2026/poster/155460	pending	-
-139741	Before Words, Beyond Speech: Evaluating Nonverbal Social Reasoning in Early Childhood	https://neurips.cc/virtual/2026/poster/139741	pending	-
-153819	Behaving Better, Thinking Worse: Sycophancy Across Post-Training Stages	https://neurips.cc/virtual/2026/poster/153819	pending	-
-148386	Behavioral Foundation Models for Quality Diversity	https://neurips.cc/virtual/2026/poster/148386	pending	-
-149277	Behavioral Geometric Supervision Aligns Video Foundation Models with Human Social Perception	https://neurips.cc/virtual/2026/poster/149277	pending	-
-149644	Behavioral Probes for Information Flow in LLM Swarms	https://neurips.cc/virtual/2026/poster/149644	pending	-
-138919	BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces	https://neurips.cc/virtual/2026/poster/138919	pending	-
-150673	Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback	https://neurips.cc/virtual/2026/poster/150673	pending	-
-155941	Behavior-Discriminative Reward Shaping for Reward-Robust Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155941	pending	-
-150981	Behavior Pack Optimization for Video MLLM Post-Training	https://neurips.cc/virtual/2026/poster/150981	pending	-
-150818	Behaviour4All: A Dependency-Aware Toolkit for in-the-wild Facial Behaviour Analysis	https://neurips.cc/virtual/2026/poster/150818	pending	-
-151258	Belief Engine: Configurable Stance Dynamics for Multi-Agent LLM Deliberation	https://neurips.cc/virtual/2026/poster/151258	pending	-
-150640	Bellman Contraction under MMD: A Unified Framework	https://neurips.cc/virtual/2026/poster/150640	pending	-
-152752	Bellman Residual Minimization for Control: Geometry, Stationarity, and Convergence	https://neurips.cc/virtual/2026/poster/152752	pending	-
-139421	BELLS-O: Evaluating the Operational Trade-offs of LLM Supervision Systems	https://neurips.cc/virtual/2026/poster/139421	pending	-
-156773	Below the Reliability Floor: Recovering True Success from Judge-Gated Loops	https://neurips.cc/virtual/2026/poster/156773	pending	-
-139778	Benchmark for Assessing Olfactory Perception of Large Language Models	https://neurips.cc/virtual/2026/poster/139778	pending	-
-138960	Benchmark Health Index: A Systematic Framework for Benchmarking the Benchmarks of LLMs	https://neurips.cc/virtual/2026/poster/138960	pending	-
-139423	Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs	https://neurips.cc/virtual/2026/poster/139423	pending	-
-149901	Benchmarking and Optimizing Multimodal Structured Generation: The OracleGraph Dataset and PRISM Framework	https://neurips.cc/virtual/2026/poster/149901	pending	-
-139839	Benchmarking Attention for Tabular Foundation Models	https://neurips.cc/virtual/2026/poster/139839	pending	-
-139491	Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials	https://neurips.cc/virtual/2026/poster/139491	pending	-
-139463	Benchmarking Fine-Grained Spatio-Temporal Awareness in Embodied Brain Models	https://neurips.cc/virtual/2026/poster/139463	pending	-
-138872	Benchmarking Graph Self-Supervised Learning for Node-Level Tasks: Insights and Strong Baseline	https://neurips.cc/virtual/2026/poster/138872	pending	-
-139392	Benchmarking Membership Privacy Risks in Preference-Based LLM Post-Training	https://neurips.cc/virtual/2026/poster/139392	pending	-
-139108	Benchmarking Multi-Modal Graph-based Social Media Popularity Prediction	https://neurips.cc/virtual/2026/poster/139108	pending	-
-139044	Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency	https://neurips.cc/virtual/2026/poster/139044	pending	-
-139589	Benchmarking Open-Ended Multi-Agent Coordination in Language Agents	https://neurips.cc/virtual/2026/poster/139589	pending	-
-139793	Benchmarking Optimizers for Large Language Model Pretraining	https://neurips.cc/virtual/2026/poster/139793	pending	-
-139608	Benchmarking Risk Attitudes of LLMs	https://neurips.cc/virtual/2026/poster/139608	pending	-
-138912	Benchmarking Sensor-Fault Robustness in Forecasting	https://neurips.cc/virtual/2026/poster/138912	pending	-
-138904	Benchmarking sequence-to-ensemble predictors on UNICORNEdb, a UniProt-grouped database of PDB-derived conformational ensembles	https://neurips.cc/virtual/2026/poster/138904	pending	-
-139241	Benchmarking Vietnamese Legal Knowledge of Large Language Models	https://neurips.cc/virtual/2026/poster/139241	pending	-
-155241	Benchmark Recovery Does Not Certify a Frozen Tool-Trigger Contract After Quantization	https://neurips.cc/virtual/2026/poster/155241	pending	-
-139267	Benchmarks Are Not Atomic: Composition-Aware LLM Evaluation using BenchHub	https://neurips.cc/virtual/2026/poster/139267	pending	-
-139555	Benchmarks as Measurement Instruments: Quantifying Signal and Noise for More Efficient AI Evaluations Under Distribution Shift	https://neurips.cc/virtual/2026/poster/139555	pending	-
-139840	Benchmarks Design under Data Scarcity: From Coarse Labels to Diagnostic Evaluation of Biosynthetic Gene Cluster Models	https://neurips.cc/virtual/2026/poster/139840	pending	-
-154989	Benchmark Shadows: How Data Regimes Shape Parameter Footprints and Generalization	https://neurips.cc/virtual/2026/poster/154989	pending	-
-139725	Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games	https://neurips.cc/virtual/2026/poster/139725	pending	-
-139621	BenchRep-T: A Systematic Evaluation of T-Cell Repertoire-Based Disease Diagnostics	https://neurips.cc/virtual/2026/poster/139621	pending	-
-149677	Benign Reinforcement Learning Can Amplify Latent Backdoors	https://neurips.cc/virtual/2026/poster/149677	pending	-
-155963	Bentkus-type asymptotic e-values	https://neurips.cc/virtual/2026/poster/155963	pending	-
-154106	Bernini: Latent Semantic Planning for Video Diffusion	https://neurips.cc/virtual/2026/poster/154106	pending	-
-155986	Bernoulli Flow Models: Self-Consistent Generative Modeling for Binary Data	https://neurips.cc/virtual/2026/poster/155986	pending	-
-139851	BESS-Bench: Benchmarking Spectral Representations for Be-Star Variability	https://neurips.cc/virtual/2026/poster/139851	pending	-
-153746	Best Arm Identification for Bandits with Shifting Means	https://neurips.cc/virtual/2026/poster/153746	pending	-
-151037	Best Arm Identification in Generalized Linear Bandits via Hybrid Feedback	https://neurips.cc/virtual/2026/poster/151037	pending	-
-154666	Best-of-$N$ Guidance for Test-time Diffusion Alignment	https://neurips.cc/virtual/2026/poster/154666	pending	-
-155229	Bet Imaginatively, not Historically in Independent-Data Sequential Testing	https://neurips.cc/virtual/2026/poster/155229	pending	-
-140098	Better Language Models Require Better Domain-Specific Inductive Biases	https://neurips.cc/virtual/2026/poster/140098	pending	-
+155646	B-CALM: Bias-Limited Bayesian Borrowing for RCT-Anchored Treatment Effects under Covariate Mismatch	https://neurips.cc/virtual/2026/poster/155646	included	用偏差先验限制外部数据借用。
+151593	BDC-Merge: Cross-Architecture Model Merging via Dependency Alignment	https://neurips.cc/virtual/2026/poster/151593	included	用非线性依赖对齐异构模型。
+151303	BEACON: Cross-Domain Co-Training of Generative Robot Policies via Best-Effort Adaptation	https://neurips.cc/virtual/2026/poster/151303	included	按样本差异学习源示范权重。
+155338	BEAGLE: Behavior-Enforced Agent for Grounded Learner Emulation	https://neurips.cc/virtual/2026/poster/155338	included	把策略决策与执行生成分开，保留模拟学习者错误。
+139293	BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories	https://neurips.cc/virtual/2026/poster/139293	included	分别评估识别状态与判断动作可执行性。
+149610	BeamWitness: Rooted Subgraph Beam Search for Selective Graph Representation Learning	https://neurips.cc/virtual/2026/poster/149610	included	预测前显式搜索有限数量的连通证据子图。
+149762	BEAST3D: animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting	https://neurips.cc/virtual/2026/poster/149762	included	已知标定时用留出视角渲染预训练行为表征。
+139633	Be CARE-ful with Text-to-SQL Benchmarks	https://neurips.cc/virtual/2026/poster/139633	included	将查询正确性与并发、权限、完整性和效率分开验收。
+154577	Beckmann Transport Models: From Autonomous Flows to One-Step Maps	https://neurips.cc/virtual/2026/poster/154577	included	在低维目标分布条件下比较自治流与直接一步映射。
+153172	BECON: Belief-Conditioned Constrained Multi-Objective Reinforcement Learning under Drifting Preferences and Budgets	https://neurips.cc/virtual/2026/poster/153172	included	按不确定性融合推断的任务偏好与外部信号。
+155460	Before It Fades: Reinforcing Temporal Representations at Inference Time in VideoLLMs	https://neurips.cc/virtual/2026/poster/155460	included	用反转帧序定位时间信号衰减并在推理期补回。
+139741	Before Words, Beyond Speech: Evaluating Nonverbal Social Reasoning in Early Childhood	https://neurips.cc/virtual/2026/poster/139741	included	把社会推理拆成情景、行为和人际关系层级。
+153819	Behaving Better, Thinking Worse: Sycophancy Across Post-Training Stages	https://neurips.cc/virtual/2026/poster/153819	included	联合比较生成翻转率与同样本预测概率。
+148386	Behavioral Foundation Models for Quality Diversity	https://neurips.cc/virtual/2026/poster/148386	included	在预训练行为潜空间内做质量多样性搜索。
+149277	Behavioral Geometric Supervision Aligns Video Foundation Models with Human Social Perception	https://neurips.cc/virtual/2026/poster/149277	included	用人类视频相似性判断监督局部和全局嵌入几何。
+149644	Behavioral Probes for Information Flow in LLM Swarms	https://neurips.cc/virtual/2026/poster/149644	included	用外部依赖与参数知识依赖辅助智能体结构选择。
+138919	BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces	https://neurips.cc/virtual/2026/poster/138919	included	将用户信念推断与下一步动作预测分别测量。
+150673	Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback	https://neurips.cc/virtual/2026/poster/150673	included	有噪教师下优先验证学生访问状态上的在线蒸馏。
+155941	Behavior-Discriminative Reward Shaping for Reward-Robust Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155941	included	按策略排序等价类定义奖励不确定集。
+150981	Behavior Pack Optimization for Video MLLM Post-Training	https://neurips.cc/virtual/2026/poster/150981	included	把同一视频问题的反事实视图作为联合奖励单位。
+150818	Behaviour4All: A Dependency-Aware Toolkit for in-the-wild Facial Behaviour Analysis	https://neurips.cc/virtual/2026/poster/150818	included	用任务依赖约束部分标注联合训练
+151258	Belief Engine: Configurable Stance Dynamics for Multi-Agent LLM Deliberation	https://neurips.cc/virtual/2026/poster/151258	included	让立场变化受显式证据吸收与先验锚定控制
+150640	Bellman Contraction under MMD: A Unified Framework	https://neurips.cc/virtual/2026/poster/150640	included	用差分核条件检验分布式 Bellman 更新的收缩
+152752	Bellman Residual Minimization for Control: Geometry, Stationarity, and Convergence	https://neurips.cc/virtual/2026/poster/152752	excluded	摘要仅笼统说明建立控制型 Bellman 残差的基础结果，未列出可独立复用的驻点或收敛条件。
+139421	BELLS-O: Evaluating the Operational Trade-offs of LLM Supervision Systems	https://neurips.cc/virtual/2026/poster/139421	included	采购监督模型时联测检出、误报、成本和延迟
+156773	Below the Reliability Floor: Recovering True Success from Judge-Gated Loops	https://neurips.cc/virtual/2026/poster/156773	included	重试门控后独立抽取金标准验证真实成功率
+139778	Benchmark for Assessing Olfactory Perception of Large Language Models	https://neurips.cc/virtual/2026/poster/139778	included	对同一问题比较名称输入和结构输入
+138960	Benchmark Health Index: A Systematic Framework for Benchmarking the Benchmarks of LLMs	https://neurips.cc/virtual/2026/poster/138960	included	区分基准的辨别力、饱和余量和实际采用
+139423	Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs	https://neurips.cc/virtual/2026/poster/139423	included	将安全分类与分布外报警独立融合
+149901	Benchmarking and Optimizing Multimodal Structured Generation: The OracleGraph Dataset and PRISM Framework	https://neurips.cc/virtual/2026/poster/149901	included	用图级诊断向自蒸馏教师提供结构错误信息
+139839	Benchmarking Attention for Tabular Foundation Models	https://neurips.cc/virtual/2026/poster/139839	included	按行列注意力形状分别选择计算后端
+139491	Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials	https://neurips.cc/virtual/2026/poster/139491	included	以组合留出代替只做随机样本划分
+139463	Benchmarking Fine-Grained Spatio-Temporal Awareness in Embodied Brain Models	https://neurips.cc/virtual/2026/poster/139463	included	单独评估语义理解与时空定位
+138872	Benchmarking Graph Self-Supervised Learning for Node-Level Tasks: Insights and Strong Baseline	https://neurips.cc/virtual/2026/poster/138872	included	公平调参后再决定采用生成式或对比式预训练
+139392	Benchmarking Membership Privacy Risks in Preference-Based LLM Post-Training	https://neurips.cc/virtual/2026/poster/139392	included	按完整偏好记录衡量隐私风险
+139108	Benchmarking Multi-Modal Graph-based Social Media Popularity Prediction	https://neurips.cc/virtual/2026/poster/139108	excluded	摘要主要给出热度预测协议与集成模型，缺少能区分模态、时间窗或方法贡献的结果。
+139044	Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency	https://neurips.cc/virtual/2026/poster/139044	included	用多图显式依赖检查何时真的需要视觉
+139589	Benchmarking Open-Ended Multi-Agent Coordination in Language Agents	https://neurips.cc/virtual/2026/poster/139589	included	用可控协作难度区分个人生存和团队协调
+139793	Benchmarking Optimizers for Large Language Model Pretraining	https://neurips.cc/virtual/2026/poster/139793	excluded	摘要给出标准化优化器评测设计，但未指出任何改变优化器选择的具体现象，待正文补证。
+139608	Benchmarking Risk Attitudes of LLMs	https://neurips.cc/virtual/2026/poster/139608	included	在相同感知风险下比较模型采取的动作
+138912	Benchmarking Sensor-Fault Robustness in Forecasting	https://neurips.cc/virtual/2026/poster/138912	included	单独比较干净精度与故障最坏误差。
+138904	Benchmarking sequence-to-ensemble predictors on UNICORNEdb, a UniProt-grouped database of PDB-derived conformational ensembles	https://neurips.cc/virtual/2026/poster/138904	included	按同一实体配对观测，避免相似样本差异混入状态变化。
+139241	Benchmarking Vietnamese Legal Knowledge of Large Language Models	https://neurips.cc/virtual/2026/poster/139241	included	按法条层级和认知难度分层构造评测。
+155241	Benchmark Recovery Does Not Certify a Frozen Tool-Trigger Contract After Quantization	https://neurips.cc/virtual/2026/poster/155241	included	量化验收时固定工具权限与参考标签，再单独检查触发。
+139267	Benchmarks Are Not Atomic: Composition-Aware LLM Evaluation using BenchHub	https://neurips.cc/virtual/2026/poster/139267	included	用属性分布匹配应用后再比较模型。
+139555	Benchmarks as Measurement Instruments: Quantifying Signal and Noise for More Efficient AI Evaluations Under Distribution Shift	https://neurips.cc/virtual/2026/poster/139555	included	按目标模型群体估计题目对排名的测量价值。
+139840	Benchmarks Design under Data Scarcity: From Coarse Labels to Diagnostic Evaluation of Biosynthetic Gene Cluster Models	https://neurips.cc/virtual/2026/poster/139840	excluded	摘要聚焦生物合成基因簇功能建模，未提取独立于该应用的新增安全机制。
+154989	Benchmark Shadows: How Data Regimes Shape Parameter Footprints and Generalization	https://neurips.cc/virtual/2026/poster/154989	included	把重复和频率集中分开，对照后续多样数据能否修复。
+139725	Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games	https://neurips.cc/virtual/2026/poster/139725	included	按耦合类型分层生成随机博弈实例。
+139621	BenchRep-T: A Systematic Evaluation of T-Cell Repertoire-Based Disease Diagnostics	https://neurips.cc/virtual/2026/poster/139621	included	在诊断模型选型中同时控制测序深度和人口统计混杂。
+149677	Benign Reinforcement Learning Can Amplify Latent Backdoors	https://neurips.cc/virtual/2026/poster/149677	included	在强化学习后重新进行安全回归测试。
+155963	Bentkus-type asymptotic e-values	https://neurips.cc/virtual/2026/poster/155963	included	需要较紧的事后区间时对照 Bentkus 型 e 值。
+154106	Bernini: Latent Semantic Planning for Video Diffusion	https://neurips.cc/virtual/2026/poster/154106	included	用视觉语义潜变量作为规划器和视频渲染器的接口。
+155986	Bernoulli Flow Models: Self-Consistent Generative Modeling for Binary Data	https://neurips.cc/virtual/2026/poster/155986	included	二值扩散跳步时使用与间隔一致的后验。
+139851	BESS-Bench: Benchmarking Spectral Representations for Be-Star Variability	https://neurips.cc/virtual/2026/poster/139851	included	分别用形态探测和下一观测预测选时序模型。
+153746	Best Arm Identification for Bandits with Shifting Means	https://neurips.cc/virtual/2026/poster/153746	included	奖励存在共同漂移时用重要性加权取代固定均值停止检验。
+151037	Best Arm Identification in Generalized Linear Bandits via Hybrid Feedback	https://neurips.cc/virtual/2026/poster/151037	included	把单臂绝对观测和成对比较纳入同一查询设计。
+154666	Best-of-$N$ Guidance for Test-time Diffusion Alignment	https://neurips.cc/virtual/2026/poster/154666	included	并行去噪过程中用当前优选粒子引导其余样本。
+155229	Bet Imaginatively, not Historically in Independent-Data Sequential Testing	https://neurips.cc/virtual/2026/poster/155229	included	独立同分布假设成立时，用重排历史估计下注收益。
+140098	Better Language Models Require Better Domain-Specific Inductive Biases	https://neurips.cc/virtual/2026/poster/140098	included	激活函数搜索后加跨领域移植对照。
 148679	Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching	https://neurips.cc/virtual/2026/poster/148679	pending	-
 152539	Beyond 3 Million Tokens: A Multi-Modal Foundation Model for Full-Resolution Heliophysics	https://neurips.cc/virtual/2026/poster/152539	pending	-
 139344	Beyond Accuracy: A Diagnostic Benchmark for Hypothesis-Driven Experiment Planning in LLM Agents	https://neurips.cc/virtual/2026/poster/139344	pending	-
