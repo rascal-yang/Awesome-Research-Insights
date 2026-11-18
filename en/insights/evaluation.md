@@ -397,6 +397,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](../../conferences/icml-2026/cards/6201-6300.md#zhu26ac-evaluation) · 中文
 - [Understanding the Ability of LLMs to Handle Character-Level Perturbation](../../conferences/icml-2026/cards/6201-6300.md#zhuo26b-evaluation) · 中文
 - [Position: Stop Automating Peer Review Without Rigorous Evaluation](../../conferences/icml-2026/cards/6301-6400.md#baumann26a-evaluation) · 中文
+- [Position: LLM-Safety Evaluations Lack Robustness](../../conferences/icml-2026/cards/6301-6400.md#beyer26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -726,6 +727,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hp-evaluation) · 中文
 - [Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data](../../conferences/icml-2026/cards/6201-6300.md#zhou26bc-evaluation) · 中文
 - [Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](../../conferences/icml-2026/cards/6201-6300.md#zhou26bo-evaluation) · 中文
+- [Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems](../../conferences/icml-2026/cards/6301-6400.md#chakraborty26d-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -782,4 +784,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws](../../conferences/icml-2026/cards/5701-5800.md#zhang26am-evaluation) · 中文
 - [Overcoming the Modality Gap in Context-Aided Forecasting](../../conferences/icml-2026/cards/6101-6200.md#zheng26n-evaluation) · 中文
 - [Position: Evaluation of ECG Representations Must Be Fixed](../../conferences/icml-2026/cards/6301-6400.md#berger26a-evaluation) · 中文
+- [Position: Significant impact of numerical precision in scientific machine learning](../../conferences/icml-2026/cards/6301-6400.md#cho26k-evaluation) · 中文
 <!-- classification:end -->

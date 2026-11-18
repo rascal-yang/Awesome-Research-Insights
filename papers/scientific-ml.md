@@ -445,6 +445,7 @@
 - <a id="zhang26am-evaluation"></a>[WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26am)
 - <a id="zheng26n-evaluation"></a>[Overcoming the Modality Gap in Context-Aided Forecasting](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26n)
 - <a id="berger26a-evaluation"></a>[Position: Evaluation of ECG Representations Must Be Fixed](../conferences/icml-2026/cards/6301-6400.md#paper-berger26a)
+- <a id="cho26k-evaluation"></a>[Position: Significant impact of numerical precision in scientific machine learning](../conferences/icml-2026/cards/6301-6400.md#paper-cho26k)
 
 <a id="by-theory-statistics"></a>
 

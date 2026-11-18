@@ -879,6 +879,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26hp-evaluation"></a>[A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hp)
 - <a id="zhou26bc-evaluation"></a>[Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bc)
 - <a id="zhou26bo-evaluation"></a>[Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bo)
+- <a id="chakraborty26d-evaluation"></a>[Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems](../../conferences/icml-2026/cards/6301-6400.md#paper-chakraborty26d)
 
 <a id="by-theory-statistics"></a>
 

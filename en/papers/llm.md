@@ -1585,6 +1585,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhu26ac-evaluation"></a>[Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ac)
 - <a id="zhuo26b-evaluation"></a>[Understanding the Ability of LLMs to Handle Character-Level Perturbation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhuo26b)
 - <a id="baumann26a-evaluation"></a>[Position: Stop Automating Peer Review Without Rigorous Evaluation](../../conferences/icml-2026/cards/6301-6400.md#paper-baumann26a)
+- <a id="beyer26b-evaluation"></a>[Position: LLM-Safety Evaluations Lack Robustness](../../conferences/icml-2026/cards/6301-6400.md#paper-beyer26b)
 
 <a id="by-theory-statistics"></a>
 

@@ -397,6 +397,7 @@
 - [合作率要结合监控结构与策略收益判断](../conferences/icml-2026/cards/6201-6300.md#zhu26ac-evaluation) · Talk, Judge, Cooperate: Gossip-Driven Indirect Reciprocity in Self-Interested LLM Agents
 - [拆开token碎片化与字符噪声的鲁棒评价](../conferences/icml-2026/cards/6201-6300.md#zhuo26b-evaluation) · Understanding the Ability of LLMs to Handle Character-Level Perturbation
 - [对LLM评审同时测跨文同质性与改写敏感性](../conferences/icml-2026/cards/6301-6400.md#baumann26a-evaluation) · Position: Stop Automating Peer Review Without Rigorous Evaluation
+- [实现与多次试验噪声的安全评价对照](../conferences/icml-2026/cards/6301-6400.md#beyer26b-evaluation) · Position: LLM-Safety Evaluations Lack Robustness
 
 <a id="by-computer-vision"></a>
 
@@ -726,6 +727,7 @@
 - [以interaction向量诊断公平与utility冲突位置](../conferences/icml-2026/cards/5901-6000.md#zhang26hp-evaluation) · A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning
 - [表格鲁棒性同时测结构一致性与分类失效](../conferences/icml-2026/cards/6201-6300.md#zhou26bc-evaluation) · Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data
 - [mergeability预测按merger与partner验证](../conferences/icml-2026/cards/6201-6300.md#zhou26bo-evaluation) · Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success
+- [固定组合decoder后的神经分数归因](../conferences/icml-2026/cards/6301-6400.md#chakraborty26d-evaluation) · Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems
 
 <a id="by-graph-and-recommendation"></a>
 
@@ -782,4 +784,5 @@
 - [以目标波函数拟合扫行列式数与网络深度](../conferences/icml-2026/cards/5701-5800.md#zhang26am-evaluation) · WF-Bench: A Benchmark for Neural-Network WaveFunction Expressivity and Scaling Laws
 - [用无上下文与错配对照验证预测context](../conferences/icml-2026/cards/6101-6200.md#zheng26n-evaluation) · Overcoming the Modality Gap in Context-Aided Forecasting
 - [预训练表征要对照随机encoder并检查稀有标签影响](../conferences/icml-2026/cards/6301-6400.md#berger26a-evaluation) · Position: Evaluation of ECG Representations Must Be Fixed
+- [同MAE下浮点精度的导数与谱序检查](../conferences/icml-2026/cards/6301-6400.md#cho26k-evaluation) · Position: Significant impact of numerical precision in scientific machine learning
 <!-- classification:end -->
