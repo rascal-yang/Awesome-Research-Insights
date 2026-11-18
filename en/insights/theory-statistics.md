@@ -687,6 +687,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Generalization Bounds for Out-of-distribution Generalization](../../conferences/icml-2026/cards/6301-6400.md#zou26f-theory-statistics) · 中文
 - [A Random Matrix Theory of Masked Self-Supervised Learning](../../conferences/icml-2026/cards/6301-6400.md#zurich26a-theory-statistics) · 中文
 - [Position: Interestingness is an Inductive Heuristic for Future Compression Progress](../../conferences/icml-2026/cards/6401-6500.md#herrmann26a-theory-statistics) · 中文
+- [Position: Beyond Sensitive Attributes, ML Fairness Should Quantify Structural Injustice via Social Determinants](../../conferences/icml-2026/cards/6501-6552.md#tang26aj-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

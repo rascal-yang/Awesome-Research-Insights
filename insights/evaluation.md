@@ -512,6 +512,7 @@
 - [分级构造人机协作审稿以测润色误判](../conferences/icml-2026/cards/3901-4000.md#saha26b-evaluation) · Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable
 - [retrieval-blind-spot-audit](../conferences/icml-2026/cards/4301-4400.md#taghavi26a-evaluation) · With Argus Eyes: Assessing Retrieval Gaps via Uncertainty Scoring to Detect and Remedy Retrieval Blind Spots
 - [语音生成中激活注入位置的诊断](../conferences/icml-2026/cards/4701-4800.md#wang26he-evaluation) · CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering
+- [用词袋对照检验embedding的隐含语义读出](../conferences/icml-2026/cards/6501-6552.md#sun26bb-evaluation) · Position: Text Embeddings Should Capture Implicit Semantics, Not Just Surface Meaning
 
 <a id="by-reinforcement-learning"></a>
 
@@ -556,6 +557,7 @@
 - [跨视角保留与子空间adapter路由](../conferences/icml-2026/cards/5301-5400.md#yan26y-evaluation) · CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning
 - [按VLM与动作专家的不同瓶颈选部署优化](../conferences/icml-2026/cards/6101-6200.md#zhou26e-evaluation) · Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment
 - [按联合支持与边缘支持拆开VLA泛化评测](../conferences/icml-2026/cards/6201-6300.md#zhou26az-evaluation) · Dismantling the Illusion of Vision-Language-Action Models Competence via Explicit Distributional Shifts
+- [真实失败视觉与偏好筛选dense负例的reward校准](../conferences/icml-2026/cards/6501-6552.md#tian26o-evaluation) · Position: Good Embodied Reward Models Need Bad Behavior Data
 
 <a id="by-multimodal"></a>
 
@@ -803,4 +805,5 @@
 - [用无上下文与错配对照验证预测context](../conferences/icml-2026/cards/6101-6200.md#zheng26n-evaluation) · Overcoming the Modality Gap in Context-Aided Forecasting
 - [预训练表征要对照随机encoder并检查稀有标签影响](../conferences/icml-2026/cards/6301-6400.md#berger26a-evaluation) · Position: Evaluation of ECG Representations Must Be Fixed
 - [同MAE下浮点精度的导数与谱序检查](../conferences/icml-2026/cards/6301-6400.md#cho26k-evaluation) · Position: Significant impact of numerical precision in scientific machine learning
+- [域与horizon分层的TSFM选型](../conferences/icml-2026/cards/6501-6552.md#syed26a-evaluation) · Position: Time-Series Foundation Models Require Explicit Domain-Level Benchmarks
 <!-- classification:end -->

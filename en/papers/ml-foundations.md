@@ -1360,4 +1360,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zou26f-theory-statistics"></a>[Generalization Bounds for Out-of-distribution Generalization](../../conferences/icml-2026/cards/6301-6400.md#paper-zou26f)
 - <a id="zurich26a-theory-statistics"></a>[A Random Matrix Theory of Masked Self-Supervised Learning](../../conferences/icml-2026/cards/6301-6400.md#paper-zurich26a)
 - <a id="herrmann26a-theory-statistics"></a>[Position: Interestingness is an Inductive Heuristic for Future Compression Progress](../../conferences/icml-2026/cards/6401-6500.md#paper-herrmann26a)
+- <a id="tang26aj-theory-statistics"></a>[Position: Beyond Sensitive Attributes, ML Fairness Should Quantify Structural Injustice via Social Determinants](../../conferences/icml-2026/cards/6501-6552.md#paper-tang26aj)
 <!-- classification:end -->

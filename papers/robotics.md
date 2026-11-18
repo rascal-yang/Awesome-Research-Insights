@@ -265,6 +265,7 @@
 - <a id="yan26y-evaluation"></a>[CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning](../conferences/icml-2026/cards/5301-5400.md#paper-yan26y)
 - <a id="zhou26e-evaluation"></a>[Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26e)
 - <a id="zhou26az-evaluation"></a>[Dismantling the Illusion of Vision-Language-Action Models Competence via Explicit Distributional Shifts](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26az)
+- <a id="tian26o-evaluation"></a>[Position: Good Embodied Reward Models Need Bad Behavior Data](../conferences/icml-2026/cards/6501-6552.md#paper-tian26o)
 
 <a id="by-theory-statistics"></a>
 

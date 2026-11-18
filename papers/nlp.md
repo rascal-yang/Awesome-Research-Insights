@@ -136,6 +136,7 @@
 - <a id="saha26b-evaluation"></a>[Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable](../conferences/icml-2026/cards/3901-4000.md#paper-saha26b)
 - <a id="taghavi26a-evaluation"></a>[With Argus Eyes: Assessing Retrieval Gaps via Uncertainty Scoring to Detect and Remedy Retrieval Blind Spots](../conferences/icml-2026/cards/4301-4400.md#paper-taghavi26a)
 - <a id="wang26he-evaluation"></a>[CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](../conferences/icml-2026/cards/4701-4800.md#paper-wang26he)
+- <a id="sun26bb-evaluation"></a>[Position: Text Embeddings Should Capture Implicit Semantics, Not Just Surface Meaning](../conferences/icml-2026/cards/6501-6552.md#paper-sun26bb)
 
 <a id="by-theory-statistics"></a>
 

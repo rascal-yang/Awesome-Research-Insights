@@ -687,6 +687,7 @@
 - [共同最优条件下优先检验分域平均ERM](../conferences/icml-2026/cards/6301-6400.md#zou26f-theory-statistics) · Generalization Bounds for Out-of-distribution Generalization
 - [按坐标可预测性判断masked ridge与PCA](../conferences/icml-2026/cards/6301-6400.md#zurich26a-theory-statistics) · A Random Matrix Theory of Masked Self-Supervised Learning
 - [压缩进展型任务选择区分突破新近度与幅度](../conferences/icml-2026/cards/6401-6500.md#herrmann26a-theory-statistics) · Position: Interestingness is an Inductive Heuristic for Future Compression Progress
+- [对群体阈值公平缓解做context分层审计](../conferences/icml-2026/cards/6501-6552.md#tang26aj-theory-statistics) · Position: Beyond Sensitive Attributes, ML Fairness Should Quantify Structural Injustice via Social Determinants
 
 <a id="by-graph-and-recommendation"></a>
 

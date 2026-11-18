@@ -512,6 +512,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Policies Permitting LLM Use for Polishing Peer Reviews Are Currently Not Enforceable](../../conferences/icml-2026/cards/3901-4000.md#saha26b-evaluation) · 中文
 - [With Argus Eyes: Assessing Retrieval Gaps via Uncertainty Scoring to Detect and Remedy Retrieval Blind Spots](../../conferences/icml-2026/cards/4301-4400.md#taghavi26a-evaluation) · 中文
 - [CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering](../../conferences/icml-2026/cards/4701-4800.md#wang26he-evaluation) · 中文
+- [Position: Text Embeddings Should Capture Implicit Semantics, Not Just Surface Meaning](../../conferences/icml-2026/cards/6501-6552.md#sun26bb-evaluation) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -556,6 +557,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning](../../conferences/icml-2026/cards/5301-5400.md#yan26y-evaluation) · 中文
 - [Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment](../../conferences/icml-2026/cards/6101-6200.md#zhou26e-evaluation) · 中文
 - [Dismantling the Illusion of Vision-Language-Action Models Competence via Explicit Distributional Shifts](../../conferences/icml-2026/cards/6201-6300.md#zhou26az-evaluation) · 中文
+- [Position: Good Embodied Reward Models Need Bad Behavior Data](../../conferences/icml-2026/cards/6501-6552.md#tian26o-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -803,4 +805,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Overcoming the Modality Gap in Context-Aided Forecasting](../../conferences/icml-2026/cards/6101-6200.md#zheng26n-evaluation) · 中文
 - [Position: Evaluation of ECG Representations Must Be Fixed](../../conferences/icml-2026/cards/6301-6400.md#berger26a-evaluation) · 中文
 - [Position: Significant impact of numerical precision in scientific machine learning](../../conferences/icml-2026/cards/6301-6400.md#cho26k-evaluation) · 中文
+- [Position: Time-Series Foundation Models Require Explicit Domain-Level Benchmarks](../../conferences/icml-2026/cards/6501-6552.md#syed26a-evaluation) · 中文
 <!-- classification:end -->

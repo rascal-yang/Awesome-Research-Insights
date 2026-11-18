@@ -446,6 +446,7 @@
 - <a id="zheng26n-evaluation"></a>[Overcoming the Modality Gap in Context-Aided Forecasting](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26n)
 - <a id="berger26a-evaluation"></a>[Position: Evaluation of ECG Representations Must Be Fixed](../conferences/icml-2026/cards/6301-6400.md#paper-berger26a)
 - <a id="cho26k-evaluation"></a>[Position: Significant impact of numerical precision in scientific machine learning](../conferences/icml-2026/cards/6301-6400.md#paper-cho26k)
+- <a id="syed26a-evaluation"></a>[Position: Time-Series Foundation Models Require Explicit Domain-Level Benchmarks](../conferences/icml-2026/cards/6501-6552.md#paper-syed26a)
 
 <a id="by-theory-statistics"></a>
 

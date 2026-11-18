@@ -6490,26 +6490,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6489	saxena26c							初筛，原文与先例核查待补：缓存PDF4–5将高基数/连续位置、空间相关与MAUP映到fair-AI，并建议空间公平研究。具体可提醒改变分区会改变群体指标，但MAUP/空间代理效应均已有成熟规律，当前未给独立新空间约束、估计规则或原始神经控制实验，按既有统计问题迁移初筛排除；不因公平领域排除，新增操作/适用界待核。	rule-excluded
 6490	schaeffer26a							初筛，原文与先例核查待补：缓存PDF4–7区分八种model collapse定义，比较replace/accumulate、real比例与初始化/计算假设。具体能改合成数据协议和指标，但机制结论明确来自Shumailov/Gerstgrasser/Kazdan/Dey等原作，当前是文献定义/假设audit而非新增反馈规则或独立控制实验，初筛排除。不能把固定toy模型不发散推广任意深网，也不能以real比例单独判定collapse。	rule-excluded
 6491	shah26e							初筛，原文与先例核查待补：缓存PDF4–5建议发表与报告分离、先soundness再community rating，并提供公开review tracks。贡献针对会议制度设计与既有peer-review证据，未提出独立新神经训练/推理/数据选择机制或可迁移条件规律，无法回答相关DL具体技术选择，初筛排除；不是因为Position标签。	rule-excluded
-6492	shah26f							待原文复核评分	pending
-6493	shan26e							待原文复核评分	pending
-6494	sharma26d							待原文复核评分	pending
-6495	sharma26e							待原文复核评分	pending
-6496	sheth26a							待原文复核评分	pending
-6497	siu26b							待原文复核评分	pending
-6498	sommer26b							待原文复核评分	pending
-6499	song26ag							待原文复核评分	pending
-6500	suhr26a							待原文复核评分	pending
-6501	sun26bb							待原文复核评分	pending
-6502	sun26bc							待原文复核评分	pending
-6503	sun26bd							待原文复核评分	pending
-6504	swaminathan26a							待原文复核评分	pending
-6505	syed26a							待原文复核评分	pending
-6506	tan26i							待原文复核评分	pending
-6507	tang26aj							待原文复核评分	pending
-6508	tian26o							待原文复核评分	pending
-6509	trivedi26a							待原文复核评分	pending
-6510	troper26a							待原文复核评分	pending
-6511	utsunomiya26a							待原文复核评分	pending
+6492	shah26f							初筛，原文与先例核查待补：现有PDF第3–5页HCP把自然语言preferences放user-controlled vault，以REST/MCP CRUD、category scoping、revocable permission及中介LLM提供共享memory。核心操作均成熟profile storage/访问控制/记忆检索，跨provider协议本身未给新偏好学习或可执行的新安全保证；prototype与市场采用论证不足独立技术机制，暂排。	rule-excluded
+6493	shan26e							初筛，原文与先例核查待补：现有PDF第3–5页为stable acceptance quota下submission denominator改变录用总数的制度风险分析，核心计数等式直接假定固定rate和低质稿均拒。当前无相关DL训练/推理/评测算法新机制，conference治理风险及自动化工作流不满足技术硬门槛，暂排。	rule-excluded
+6494	sharma26d							初筛，原文与先例核查待补：现有PDF第3–5页以四role GPT4o agents、majority vote/既有orchestration评8412hybrid registry/synthetic cases，按subgroup DI及decision-feature cosine统计。当前没有新fairness学习/审核机制或counterfactual控制隔离proxy因果，role差异与subgroup率只是领域应用观察；不能由cos归因bias传播，暂排，不因医疗名词。	rule-excluded
+6495	sharma26e							初筛，原文与先例核查待补：现有PDF第3–5页WebOfAgents组合agent消息、interaction、state与discovery，明确复用既有web标准/infra。当前是interoperability架构蓝图，没有新的message semantics、分布式一致性算法或agent学习决策规则；标准化动机和生态比较不足独立增量，暂排。	rule-excluded
+6496	sheth26a							初筛，原文与先例核查待补：现有PDF第3–5页给openended novelty/learnability定义与predictability/control风险taxonomy，主张部署前安全研究。当前无新控制/verification机制、可量化稳定性条件或原创受控失败实验；既有openended形式化和风险议程不足技术新增，暂排。	rule-excluded
+6497	siu26b							初筛，原文与先例核查待补：现有PDF第4–5页把agent security分source authorization/task alignment/action alignment/data isolation，列AgentDojo/WASP每动作存在合法context并主张trajectory持续评估。authorization/context/taint boundary与stateful audit均成熟安全原则，当前没有新判别器/形式执行机制或可复现量化检测增量；内容可合法的例表不单独形成新技术，暂排。	rule-excluded
+6498	sommer26b							初筛，原文与先例核查待补：现有PDF第3–5页是SAI/BNN sampling与optimization的meta-study，性能表明确来自Sommer2026/Paulin2025/Duffield2025等原作，建议posterior探索/蒸馏。当前未新增sampler、预算分配规则或独立matched benchmark；已有sampling结果汇总不重复计作机制，暂排。	rule-excluded
+6499	song26ag							初筛，原文与先例核查待补：现有PDF第4–7页建议quantum verifier-centric generation，以现成hierarchical primitives、topology masks和state-dependent invalid-action filter约束policy。当前没有新的constructive verifier或learned update，核心mask即标准RL invalid-action masking；泛worstcase hardness不自动证明任何实用sampler指数低mass，也不能用其替代独立算法，暂排。	rule-excluded
+6500	suhr26a							初筛，原文与先例核查待补：现有PDF第3–5页将psychometric construct/factor loadings/measurement invariance用于说明人类量表不可直接用于LLM，倡议AI-specific instrument。当前为成熟测量理论的适用域重述，没有新test生成/校准估计器或原创controlled模型失败规律；不以反对人类类比的立场单独纳入，暂排。	rule-excluded
+6501	sun26bb	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按用词袋对照检验embedding的隐含语义读出，最近方法差异见baseline且待核；复用5：选择embedding做pragmatics/stance时应与Bag-of-Tokens在同readout比较，按语用、说话者和社会层分别测；MTEB排名和大模型尺寸不能直接保证这些任务的表示质量。 可用4受分类准确率不等纯语义表示能力或真实对话推理，probe容量/label文本/数据泄漏和lexical confounds要匹配。主文不同任务读出未等同为cos性能，mean权重可改变排序；标准MTEB与pilot版本、训练/预算及不确定区间待核，不证明模型完全缺失implicit semantics。 独特3暂定，全库替代性待统一核查；PDF第5/6/7/8/9页。	scored
+6502	sun26bc							初筛，原文与先例核查待补：现有PDF第3–5页safe-by-coevolution/R2AI组合fast-slow安全模型、wind-tunnel simulation和continual feedback，安全等级沿既有alignment/reflection方法分类。当前未给新recovery/学习目标、可认证动态边界或原创实验，免疫类比与组件议程不独立构成机制，暂排。	rule-excluded
+6503	sun26bd							初筛，原文与先例核查待补：现有PDF第3–6页提出hidden token/call计费威胁与三层audit架构，commitment/hash/Merkle机制引用既有CoIn，预测长度仅两层MLP低于50%的弱baseline。当前无新audit estimator或有效性/不可识别定理，弱预测失败不证明intrinsic不可审计，现有工具组合和未来路线不足独立增量，暂排。	rule-excluded
+6504	swaminathan26a							初筛，原文与先例核查待补：现有PDF第3–5页用伦理维度分析MCP，建议intent/scope metadata、purpose constraints、lineage/logging和consent，复用sticky policies/provenance等先例。当前无新协议执行/验证算法或受控model/tool行为增量；改标准倡议不能替代技术机制，暂排。	rule-excluded
+6505	syed26a	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按域与horizon分层的TSFM选型，最近方法差异见baseline且待核；复用5：选通用时序model应同时看目标domain和horizon的model rank分布/胜场，避免全局平均被大domain权重主导；域间原始误差差异不等已识别表征冲突。 可用4受不同dataset scale/难度和normalization可驱动rawerror域检验，KW p值不直接认证domain×model交互或机制；重复horizon/dataset关联需控制。最强配置不等context/参数/compute匹配，未直接量gradient正交、forgetting或不可兼容priors，不由rank差推出通用model原则上不可能。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+6506	tan26i							初筛，原文与先例核查待补：现有PDF第3–4页论证openweight需public compute/data/funding/governance补充，讨论license与deployment资源可及。当前是公共基础设施制度议程，没有新训练/服务调度/共享机制或可核实技术规律，暂排。	rule-excluded
+6507	tang26aj	3	4	3	3	66		初筛，原文与先例核查待补：新增3暂按对群体阈值公平缓解做context分层审计，最近方法差异见baseline且待核；复用4：对神经预测分数做group quota/threshold调整前，可额外按region/social context切片，检查改善敏感组比例是否提高另一弱context群体门槛；结论依特定条件分布和公平目标，不是普遍反对quota。 可用3受score给定region与race条件独立、固定seats及dominance是构造条件，不普遍成立；quota与机会平等的目标不同，阈值差不自动定义唯一不公平。人口统计是关联，ADI粗分丢个人差异；半合成outcome受指定生成过程支配，证明与真实DL postprocessor实现待核。 独特3暂定，全库替代性待统一核查；PDF第4/5/6/7/8页。	scored
+6508	tian26o	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按真实失败视觉与偏好筛选dense负例的reward校准，最近方法差异见baseline且待核；复用5：embodied reward验证应优先比较真实成功/失败rollout的人类排序，不能只看expert帧进度相关；in-context负例需从text升级到真实失败视觉和偏好筛过的dense trace，并独立留出测试pair。 可用4受proxy dense只按总return排序选择，不是oracle每帧label，可能只是挑到偶然正确序列；示范/测试同pair或同task独立性是关键待核，不能预称泛化改善。sum rewards有长度/重复frame偏置，human ordinal不唯一决定dense reward；额外多次采样/上下文算力未匹配，因复杂度类别混task不识别因果复杂度律。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+6509	trivedi26a							初筛，原文与先例核查待补：现有PDF第3–5页汇总endogenous nonstationarity、多agent外部性与adaptive counterparties，主张institution/cooperation研究。当前未新增game学习算法、equilibrium-selection机制或原始controlled现象，既有经济/多agent案例不单独形成DL技术新增，暂排。	rule-excluded
+6510	troper26a							初筛，原文与先例核查待补：现有PDF第3–5页结合跨文化cognition与已有prompt/finetune敏感研究，反对用单文化人类tests推LLM通用认知。当前无新measurement-invariance estimator或独立evaluation操作/实验，文化偏差论证和文献反例不足技术增量，暂排。	rule-excluded
+6511	utsunomiya26a							初筛，原文与先例核查待补：现有PDF第3–5页围绕copyright/license/tort说明后训练optout不能追溯抹去既成侵权，提出exante lineage compliance。当前是法律规范主张，没有新provenance证明、unlearning边界定理或数据pipeline算法；法理不能作为模型机制或普遍司法结论纳入，暂排。	rule-excluded
 6512	vaccaro26a							待原文复核评分	pending
 6513	vandergrift26a							待原文复核评分	pending
 6514	vladimirova26a							待原文复核评分	pending
