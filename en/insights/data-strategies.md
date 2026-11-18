@@ -97,6 +97,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts](../../conferences/icml-2026/cards/5501-5600.md#ye26e-data-strategies) · 中文
 - [Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data](../../conferences/icml-2026/cards/5501-5600.md#ye26f-data-strategies) · 中文
 - [Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity](../../conferences/icml-2026/cards/5501-5600.md#ye26i-data-strategies) · 中文
+- [On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26en-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -376,6 +376,9 @@
 - [按残差动态范围匹配的KV模式量化](../conferences/icml-2026/cards/5801-5900.md#zhang26ci-inference) · PatternKV: Flattening KV Representation Expands Quantization Headroom
 - [按预测分布变化与prefix冲突筛ICL示例](../conferences/icml-2026/cards/5801-5900.md#zhang26cu-inference) · In-Context Learning as Rate–Distortion Optimization
 - [按相邻entropy跃迁切块并调unmask阈值](../conferences/icml-2026/cards/5801-5900.md#zhang26dd-inference) · Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models
+- [由后续trigger更新先前anchor的KV表示](../conferences/icml-2026/cards/5801-5900.md#zhang26ek-inference) · Correcting in Hindsight: Editing Past Key-Value States for Robust LLM Reasoning
+- [按prefill/decode边际成本在线切换batch模式](../conferences/icml-2026/cards/5801-5900.md#zhang26eo-inference) · Threshold-Based Exclusive Batching for LLM Inference
+- [预测未来熵越阈值以提前发起RAG检索](../conferences/icml-2026/cards/5801-5900.md#zhang26eu-inference) · Predictive Prefetching for Retrieval-Augmented Generation
 
 <a id="by-computer-vision"></a>
 

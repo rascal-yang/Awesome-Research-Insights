@@ -186,6 +186,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding](../../conferences/icml-2026/cards/5201-5300.md#xu26o-theory-statistics) · 中文
 - [Doubly Robust Distributionally Robust Offline Contextual Pricing](../../conferences/icml-2026/cards/5201-5300.md#xu26bz-theory-statistics) · 中文
 - [Compositional Behavioral Semantics for State Abstraction in Reinforcement Learning](../../conferences/icml-2026/cards/5801-5900.md#zhang26dy-theory-statistics) · 中文
+- [Provably Convergent Actor-Critic for MARL through Risk-aversion](../../conferences/icml-2026/cards/5801-5900.md#zhang26ei-theory-statistics) · 中文
 
 <a id="by-robotics"></a>
 
@@ -656,6 +657,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Higher-Order Certified Robustness for Regression](../../conferences/icml-2026/cards/5701-5800.md#zhang26ay-theory-statistics) · 中文
 - [Efficient Distributionally Robust Assortment Optimization in MNL Bandits](../../conferences/icml-2026/cards/5701-5800.md#zhang26bg-theory-statistics) · 中文
 - [Demystifying the Optimal Fair Classifier in Multi-Class Classification](../../conferences/icml-2026/cards/5801-5900.md#zhang26cj-theory-statistics) · 中文
+- [A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26er-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

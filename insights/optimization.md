@@ -115,6 +115,7 @@
 - [为adapter塑形的投影量化](../conferences/icml-2026/cards/5601-5700.md#yu26bs-optimization) · ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression
 - [Fisher偏差方差折衷的LoRA初始子空间](../conferences/icml-2026/cards/5701-5800.md#zhang26y-optimization) · LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis
 - [固定总扰动能量学习各参数块的ZO尺度](../conferences/icml-2026/cards/5801-5900.md#zhang26da-optimization) · Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs
+- [让FP4 attention的STE反向匹配前向量化](../conferences/icml-2026/cards/5801-5900.md#zhang26eq-optimization) · Attn-QAT: 4-Bit Attention With Quantization-Aware Training
 
 <a id="by-computer-vision"></a>
 
@@ -175,6 +176,7 @@
 - [高精度矩阵博弈切换半光滑Newton](../conferences/icml-2026/cards/5301-5400.md#yang26o-optimization) · A Direct Second-Order Method for Solving Two-Player Zero-Sum Games
 - [return方差与ensemble分歧的自适应悲观项](../conferences/icml-2026/cards/5601-5700.md#yu26bo-optimization) · Taming Aleatoric Impulse in Off-Policy Reinforcement Learning
 - [分离reward和future entropy价值](../conferences/icml-2026/cards/5701-5800.md#zhan26d-optimization) · Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL
+- [把独立与团队梯度差作为Lyapunov投影对象](../conferences/icml-2026/cards/5801-5900.md#zhang26ep-optimization) · Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization
 
 <a id="by-robotics"></a>
 

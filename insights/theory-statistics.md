@@ -186,6 +186,7 @@
 - [阈值lookahead的有限目标控制](../conferences/icml-2026/cards/5201-5300.md#xu26o-theory-statistics) · Fast Non-Episodic Finite-Horizon RL with K-Step Lookahead Thresholding
 - [连续动作DRO用局部双稳健矩](../conferences/icml-2026/cards/5201-5300.md#xu26bz-theory-statistics) · Doubly Robust Distributionally Robust Offline Contextual Pricing
 - [按要保的行为结构选择状态抽象条件](../conferences/icml-2026/cards/5801-5900.md#zhang26dy-theory-statistics) · Compositional Behavioral Semantics for State Abstraction in Reinforcement Learning
+- [用风险和熵正则条件选择可收敛actor-critic目标](../conferences/icml-2026/cards/5801-5900.md#zhang26ei-theory-statistics) · Provably Convergent Actor-Critic for MARL through Risk-aversion
 
 <a id="by-robotics"></a>
 
@@ -656,6 +657,7 @@
 - [用方差与平滑梯度共同界定回归证书](../conferences/icml-2026/cards/5701-5800.md#zhang26ay-theory-statistics) · Higher-Order Certified Robustness for Regression
 - [将鲁棒MNL集合选择化为标量搜索](../conferences/icml-2026/cards/5701-5800.md#zhang26bg-theory-statistics) · Efficient Distributionally Robust Assortment Optimization in MNL Bandits
 - [多类公平分类的属性盲对偶校准](../conferences/icml-2026/cards/5801-5900.md#zhang26cj-theory-statistics) · Demystifying the Optimal Fair Classifier in Multi-Class Classification
+- [用等式约束与Chebyshev penalty解凸下层多任务bilevel](../conferences/icml-2026/cards/5801-5900.md#zhang26er-theory-statistics) · A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

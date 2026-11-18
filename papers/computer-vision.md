@@ -657,6 +657,7 @@
 - <a id="yu26ag-evaluation"></a>[Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ag)
 - <a id="yu26bn-evaluation"></a>[MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bn)
 - <a id="zhang26br-evaluation"></a>[T-measure: A Topology-Consistent Metric for Binary Segmentation](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26br)
+- <a id="zhang26ev-evaluation"></a>[Geometric Collapse: When Vision Models Fail to Verify Physical Causality](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ev)
 
 <a id="by-theory-statistics"></a>
 

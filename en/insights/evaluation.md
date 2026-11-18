@@ -453,6 +453,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain](../../conferences/icml-2026/cards/5601-5700.md#yu26ag-evaluation) · 中文
 - [MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](../../conferences/icml-2026/cards/5601-5700.md#yu26bn-evaluation) · 中文
 - [T-measure: A Topology-Consistent Metric for Binary Segmentation](../../conferences/icml-2026/cards/5801-5900.md#zhang26br-evaluation) · 中文
+- [Geometric Collapse: When Vision Models Fail to Verify Physical Causality](../../conferences/icml-2026/cards/5801-5900.md#zhang26ev-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

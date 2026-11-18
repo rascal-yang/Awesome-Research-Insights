@@ -97,6 +97,7 @@
 - [按事实总损失选头部并压低重复](../conferences/icml-2026/cards/5501-5600.md#ye26e-data-strategies) · Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts
 - [把训练图直径限制在算法容量内](../conferences/icml-2026/cards/5501-5600.md#ye26f-data-strategies) · Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data
 - [紧致度簇顺序与边界混合回放](../conferences/icml-2026/cards/5501-5600.md#ye26i-data-strategies) · Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity
+- [按基础能力边缘而非饱和任务分配RL数据](../conferences/icml-2026/cards/5801-5900.md#zhang26en-data-strategies) · On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models
 
 <a id="by-computer-vision"></a>
 

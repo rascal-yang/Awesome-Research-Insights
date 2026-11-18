@@ -479,6 +479,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](../../conferences/icml-2026/cards/5701-5800.md#zhang26aw-reinforcement-learning) · 中文
 - [How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning](../../conferences/icml-2026/cards/5801-5900.md#zhang26bt-reinforcement-learning) · 中文
 - [Multimodal Meta-Verifier with Explicit Structured Recalibration](../../conferences/icml-2026/cards/5801-5900.md#zhang26dr-reinforcement-learning) · 中文
+- [CofactGVR: Counterfactual Intervention for Grounded Visual Reasoning](../../conferences/icml-2026/cards/5801-5900.md#zhang26ex-reinforcement-learning) · 中文
 
 <a id="by-ml-foundations"></a>
 

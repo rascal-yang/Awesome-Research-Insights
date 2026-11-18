@@ -376,6 +376,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [PatternKV: Flattening KV Representation Expands Quantization Headroom](../../conferences/icml-2026/cards/5801-5900.md#zhang26ci-inference) · 中文
 - [In-Context Learning as Rate–Distortion Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26cu-inference) · 中文
 - [Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26dd-inference) · 中文
+- [Correcting in Hindsight: Editing Past Key-Value States for Robust LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#zhang26ek-inference) · 中文
+- [Threshold-Based Exclusive Batching for LLM Inference](../../conferences/icml-2026/cards/5801-5900.md#zhang26eo-inference) · 中文
+- [Predictive Prefetching for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/5801-5900.md#zhang26eu-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

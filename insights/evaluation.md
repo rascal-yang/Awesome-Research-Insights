@@ -453,6 +453,7 @@
 - [用局部而非全局维度诊断表示对齐](../conferences/icml-2026/cards/5601-5700.md#yu26ag-evaluation) · Local Intrinsic Dimension of Representations Predicts Alignment and Generalization in AI Models and Human Brain
 - [时间注意力低秩与运动衰退的诊断](../conferences/icml-2026/cards/5601-5700.md#yu26bn-evaluation) · MEDUSA: Motion Elimination in Diffusion Using Spectral Attack
 - [把连通碎裂显式接入分割评分](../conferences/icml-2026/cards/5801-5900.md#zhang26br-evaluation) · T-measure: A Topology-Consistent Metric for Binary Segmentation
+- [用能量和结构匹配控制测边缘扰动的全局传播](../conferences/icml-2026/cards/5801-5900.md#zhang26ev-evaluation) · Geometric Collapse: When Vision Models Fail to Verify Physical Causality
 
 <a id="by-nlp"></a>
 

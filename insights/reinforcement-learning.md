@@ -479,6 +479,7 @@
 - [在优势空间残差化推理奖励再合成更新](../conferences/icml-2026/cards/5701-5800.md#zhang26aw-reinforcement-learning) · AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection
 - [对中间图同时奖励可执行与可读及语义对齐](../conferences/icml-2026/cards/5801-5900.md#zhang26bt-reinforcement-learning) · How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning
 - [将判断与错误定位分别奖励训练](../conferences/icml-2026/cards/5801-5900.md#zhang26dr-reinforcement-learning) · Multimodal Meta-Verifier with Explicit Structured Recalibration
+- [用固定原图下的证据反事实差奖励grounding](../conferences/icml-2026/cards/5801-5900.md#zhang26ex-reinforcement-learning) · CofactGVR: Counterfactual Intervention for Grounded Visual Reasoning
 
 <a id="by-ml-foundations"></a>
 

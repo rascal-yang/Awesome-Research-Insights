@@ -115,6 +115,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression](../../conferences/icml-2026/cards/5601-5700.md#yu26bs-optimization) · 中文
 - [LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis](../../conferences/icml-2026/cards/5701-5800.md#zhang26y-optimization) · 中文
 - [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26da-optimization) · 中文
+- [Attn-QAT: 4-Bit Attention With Quantization-Aware Training](../../conferences/icml-2026/cards/5801-5900.md#zhang26eq-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -175,6 +176,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [A Direct Second-Order Method for Solving Two-Player Zero-Sum Games](../../conferences/icml-2026/cards/5301-5400.md#yang26o-optimization) · 中文
 - [Taming Aleatoric Impulse in Off-Policy Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26bo-optimization) · 中文
 - [Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL](../../conferences/icml-2026/cards/5701-5800.md#zhan26d-optimization) · 中文
+- [Learning Human-Robot Collaboration via Heterogeneous-Agent Lyapunov Policy Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26ep-optimization) · 中文
 
 <a id="by-robotics"></a>
 

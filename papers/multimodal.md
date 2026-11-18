@@ -220,6 +220,7 @@
 - <a id="zhang26aw-reinforcement-learning"></a>[AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26aw)
 - <a id="zhang26bt-reinforcement-learning"></a>[How RL Unlocks the Aha Moment in Geometric Interleaved Reasoning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bt)
 - <a id="zhang26dr-reinforcement-learning"></a>[Multimodal Meta-Verifier with Explicit Structured Recalibration](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dr)
+- <a id="zhang26ex-reinforcement-learning"></a>[CofactGVR: Counterfactual Intervention for Grounded Visual Reasoning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ex)
 
 <a id="by-training-strategies"></a>
 

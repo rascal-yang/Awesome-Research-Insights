@@ -5870,26 +5870,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5869	zhang26ec	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：video latent-action world model可令低维动作只预测structure latent差，把appearance交独立content memory；用rebinding与actioncycle测试是否真正减少content泄漏，而非只看generation分数。；边界：actioncycle小误差可来自成对可逆编码而非真实semantic transfer，visual rollout不等机器人执行。反向向量相反不保证真实非可逆动作群结构；瓶颈不保证可识别disentanglement，content memory仍可含motion，compute/split与noise控制待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ec/zhang26ec.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ec/zhang26ec.pdf#page=5)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ec/zhang26ec.pdf#page=7)	scored
 5870	zhang26ed	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：评估MLLM是否忽略视觉时，可先确认单独图/文都能解题，再加入冲突并交换选项，报告各模态选择与不一致率；steering效果需同时测正常任务准确率。；边界：丢弃option-inconsistent样本产生selection bias，必须另报弃样率；模态偏好依赖conflict可靠性/指令，并非越偏vision越好。steering与instruction difference latent可编码style，不能据attention ratio证明机制；正常/错误visual场景负结果待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ed/zhang26ed.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ed/zhang26ed.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ed/zhang26ed.pdf#page=6)	scored
 5871	zhang26ee	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：视觉prompt injection防御可比较hidden-state norm saliency与首token概率saliency，再按小budget屏蔽高分视觉tokens；需同时测benign视觉能力和adaptive威胁。；边界：ranking theorem限token alignment/local linearity且比例常数若token-dependent不能推出全token排序；Oε需小于score gaps，原假设待核。hidden norm受LayerNorm/尺度影响，不是异常语义证书；单forwardbackward额外成本非免费，重要benign区域可能被删。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ee/zhang26ee.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ee/zhang26ee.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26ee/zhang26ee.pdf#page=6)	scored
-5872	zhang26ef							待原文复核评分	pending
-5873	zhang26eg							待原文复核评分	pending
-5874	zhang26eh							待原文复核评分	pending
-5875	zhang26ei							待原文复核评分	pending
-5876	zhang26ej							待原文复核评分	pending
-5877	zhang26ek							待原文复核评分	pending
-5878	zhang26el							待原文复核评分	pending
-5879	zhang26em							待原文复核评分	pending
-5880	zhang26en							待原文复核评分	pending
-5881	zhang26eo							待原文复核评分	pending
-5882	zhang26ep							待原文复核评分	pending
-5883	zhang26eq							待原文复核评分	pending
-5884	zhang26er							待原文复核评分	pending
-5885	zhang26es							待原文复核评分	pending
-5886	zhang26et							待原文复核评分	pending
-5887	zhang26eu							待原文复核评分	pending
-5888	zhang26ev							待原文复核评分	pending
-5889	zhang26ew							待原文复核评分	pending
-5890	zhang26ex							待原文复核评分	pending
-5891	zhang26ey							待原文复核评分	pending
+5872	zhang26ef							初筛，原文与先例核查待补：第4–5页是SWE-Factory式Docker构建轨迹，配循环检测、跨任务成功记忆后训练coding agent；成熟execution-grounded agent训练用于环境构建，当前未识别独立泛用更新/控制规律，环境能力转移跑分不足单独保留。	rule-excluded
+5873	zhang26eg							初筛，原文与先例核查待补：第4–5页为LLM生成事件文本序列、CLIP跨模态embedding和因果时序attention；成熟text-proxy/CLIP transfer+causal mask用于VAD，当前没有独立新时间算子或目标，零目标异常视频数据设定不构成新增机制。	rule-excluded
+5874	zhang26eh							初筛，原文与先例核查待补：第4–5页为text-behavior contrastive/matching再条件DT动作MSE，承接成熟语言条件策略和CLIP式对齐；当前无独立新目标或关系量，零样本新任务设定不自动新增。	rule-excluded
+5875	zhang26ei	4	4	3	4	76		初筛，原文与先例核查待补：用风险和熵正则条件选择可收敛actor-critic目标：新增量暂4，相关模型复用4，操作性3，独特性4；第4、5、6、8页，最近先例、完整条件与匹配控制待核。	scored
+5876	zhang26ej							初筛，原文与先例核查待补：第4–5页为新鲜新闻搜索、LLM QA生成、allowlist和人工核验benchmark；新鲜度/多跳任务覆盖未形成独立神经机制或受控可复用规律，不以定期更新数据收录。	rule-excluded
+5877	zhang26ek	3	4	3	3	66		初筛，原文与先例核查待补：由后续trigger更新先前anchor的KV表示：新增量暂3，相关模型复用4，操作性3，独特性3；第4、5、6页，最近先例、完整条件与匹配控制待核。	scored
+5878	zhang26el							初筛，原文与先例核查待补：第4–5页为临床视频数据、七任务分解、加权report质量指标和专用微调；当前未见独立generic神经操作/评估关系量，laterality/时序错误为任务观察，不能仅凭临床覆盖认新。	rule-excluded
+5879	zhang26em							初筛，原文与先例核查待补：第4–5页为Granger/TDMI、VAE重建/干预代理等关系目标加diffusion graph refine；成熟关系监督/图去噪组合用于预测，注意力拟合这些代理不自动识别真实因果方向，当前无独立新操作。	rule-excluded
+5880	zhang26en	4	4	4	4	80		初筛，原文与先例核查待补：按基础能力边缘而非饱和任务分配RL数据：新增量暂4，相关模型复用4，操作性4，独特性4；第4、5、6页，最近先例、完整条件与匹配控制待核。	scored
+5881	zhang26eo	4	4	4	4	80		初筛，原文与先例核查待补：按prefill/decode边际成本在线切换batch模式：新增量暂4，相关模型复用4，操作性4，独特性4；第4、5、6页，最近先例、完整条件与匹配控制待核。	scored
+5882	zhang26ep	3	4	3	3	66		初筛，原文与先例核查待补：把独立与团队梯度差作为Lyapunov投影对象：新增量暂3，相关模型复用4，操作性3，独特性3；第3、4、5页，最近先例、完整条件与匹配控制待核。	scored
+5883	zhang26eq	4	5	4	4	86		初筛，原文与先例核查待补：让FP4 attention的STE反向匹配前向量化：新增量暂4，相关模型复用5，操作性4，独特性4；第4、5、6页，最近先例、完整条件与匹配控制待核。	scored
+5884	zhang26er	3	4	3	3	66		初筛，原文与先例核查待补：用等式约束与Chebyshev penalty解凸下层多任务bilevel：新增量暂3，相关模型复用4，操作性3，独特性3；第4、5、6、8页，最近先例、完整条件与匹配控制待核。	scored
+5885	zhang26es							初筛，原文与先例核查待补：第4–5页为卫星/街景数据匹配、双向cross-attention perceiver和interleaved文档训练；成熟cross-view coattention+多图SFT/CPT用于urban任务，当前没有独立新融合规则或受控训练规律。	rule-excluded
+5886	zhang26et							初筛，原文与先例核查待补：第4–5页以RL轨迹抽可解释变量、BART估RCM效应并生成层级解释；成熟post-hoc causal inference应用，当前无独立新估计器，观测特征在混杂/选择偏差下不自动给忠实因果解释。	rule-excluded
+5887	zhang26eu	3	4	3	3	66		初筛，原文与先例核查待补：预测未来熵越阈值以提前发起RAG检索：新增量暂3，相关模型复用4，操作性3，独特性3；第4、5、6、7页，最近先例、完整条件与匹配控制待核。	scored
+5888	zhang26ev	3	4	4	4	73		初筛，原文与先例核查待补：用能量和结构匹配控制测边缘扰动的全局传播：新增量暂3，相关模型复用4，操作性4，独特性4；第4、5、6页，最近先例、完整条件与匹配控制待核。	scored
+5889	zhang26ew							初筛，原文与先例核查待补：仅依据摘要的高层可分离通用机制，reconstruction-anchored consistency tuning和保留敏感residual/几何算子BF16属于成熟few-step distillation与混合精度配置；当前无独立泛用新操作/条件规律。未深入co-folding实现或领域设计优化，不因生物名称排除。	rule-excluded
+5890	zhang26ex	3	4	3	3	66		初筛，原文与先例核查待补：用固定原图下的证据反事实差奖励grounding：新增量暂3，相关模型复用4，操作性3，独特性3；第4、5、7页，最近先例、完整条件与匹配控制待核。	scored
+5891	zhang26ey							初筛，原文与先例核查待补：第4–5页为染色先验原型、prototype feature相似/partial OT对齐及前景背景点提示SAM；成熟prototype/partial-OT/prompt segmentation配置用于核分割，当前未见独立新generic更新或关系量，不因无标注/临床场景自动保留。	rule-excluded
 5892	zhang26ez							待原文复核评分	pending
 5893	zhang26fa							待原文复核评分	pending
 5894	zhang26fb							待原文复核评分	pending

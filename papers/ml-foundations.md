@@ -1292,4 +1292,5 @@
 - <a id="zhang26ay-theory-statistics"></a>[Higher-Order Certified Robustness for Regression](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ay)
 - <a id="zhang26bg-theory-statistics"></a>[Efficient Distributionally Robust Assortment Optimization in MNL Bandits](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bg)
 - <a id="zhang26cj-theory-statistics"></a>[Demystifying the Optimal Fair Classifier in Multi-Class Classification](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cj)
+- <a id="zhang26er-theory-statistics"></a>[A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26er)
 <!-- classification:end -->

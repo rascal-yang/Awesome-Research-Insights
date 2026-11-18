@@ -292,6 +292,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yu26bs-optimization"></a>[ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bs)
 - <a id="zhang26y-optimization"></a>[LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26y)
 - <a id="zhang26da-optimization"></a>[Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26da)
+- <a id="zhang26eq-optimization"></a>[Attn-QAT: 4-Bit Attention With Quantization-Aware Training](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eq)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -739,6 +740,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="ye26e-data-strategies"></a>[Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26e)
 - <a id="ye26f-data-strategies"></a>[Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26f)
 - <a id="ye26i-data-strategies"></a>[Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26i)
+- <a id="zhang26en-data-strategies"></a>[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26en)
 
 <a id="by-inference"></a>
 
@@ -1107,6 +1109,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26ci-inference"></a>[PatternKV: Flattening KV Representation Expands Quantization Headroom](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ci)
 - <a id="zhang26cu-inference"></a>[In-Context Learning as Rate–Distortion Optimization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cu)
 - <a id="zhang26dd-inference"></a>[Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dd)
+- <a id="zhang26ek-inference"></a>[Correcting in Hindsight: Editing Past Key-Value States for Robust LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ek)
+- <a id="zhang26eo-inference"></a>[Threshold-Based Exclusive Batching for LLM Inference](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eo)
+- <a id="zhang26eu-inference"></a>[Predictive Prefetching for Retrieval-Augmented Generation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eu)
 
 <a id="by-representation-learning"></a>
 
