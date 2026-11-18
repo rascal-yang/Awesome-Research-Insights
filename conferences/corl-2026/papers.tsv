@@ -95,8 +95,8 @@ number	openreview_id	title	paper_url	reason	status
 94	VVdYxLGhxH	DIQL:Distributional Implicit Q Learning for Offline to Online Reinforcement Learning	https://openreview.net/forum?id=VVdYxLGhxH	根据数据支持程度按状态选择乐观分位	included
 95	qx5mPYiXVi	Robo-ValueRL: Reliable Value Estimation for Offline-to-Online Reinforcement Learning	https://openreview.net/forum?id=qx5mPYiXVi	用全局任务进度和局部动作排序分别诊断价值函数	included
 96	aZ2Ojk8zxd	Task-Space Imitation Guidance for Efficient Reinforcement Learning	https://openreview.net/forum?id=aZ2Ojk8zxd	用模仿策略提供末端任务进度奖励而非直接执行其动作	included
-97	ar3eWq6mh4	UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning	https://openreview.net/forum?id=ar3eWq6mh4		pending
-98	TPeVwyCt8w	Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation	https://openreview.net/forum?id=TPeVwyCt8w		pending
+97	ar3eWq6mh4	UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning	https://openreview.net/forum?id=ar3eWq6mh4	用近期价值趋势触发恢复，并从历史干预中找恢复目标	included
+98	TPeVwyCt8w	Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation	https://openreview.net/forum?id=TPeVwyCt8w	给人工接管前的低效片段重新分配回报	included
 99	kCeFEyLOuW	PAWN: Preference-Aware Semantic NFT for Online Reinforcement Learning of Flow-based VLAs	https://openreview.net/forum?id=kCeFEyLOuW		pending
 100	PNSqN6Bng7	Decision-Centric Counterfactual Preference Optimization for Vision-Language-Action Post-Training	https://openreview.net/forum?id=PNSqN6Bng7		pending
 101	ZDnuAR0GMn	TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics	https://openreview.net/forum?id=ZDnuAR0GMn		pending
