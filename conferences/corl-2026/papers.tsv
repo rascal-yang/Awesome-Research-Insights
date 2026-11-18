@@ -127,10 +127,10 @@ number	openreview_id	title	paper_url	reason	status
 126	pENAQ22Jh1	SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation	https://openreview.net/forum?id=pENAQ22Jh1		pending
 127	4M7C3PsA78	Look Before You Move: Agent-Interface-Aligned Supervision for Open-World Mobile Manipulation	https://openreview.net/forum?id=4M7C3PsA78	直接用部署时可用的观测和技能接口采教师示范	included
 128	xOhVCWilYJ	More than a Point: Adaptive Affordance Heatmaps as VLM Grounding Interfaces for Robotics	https://openreview.net/forum?id=xOhVCWilYJ	对具有多个可行位置的指令输出稠密空间得分图	included
-129	kGLogzKtYq	GROW2: Grounding Which and Where for Robot Tool Use	https://openreview.net/forum?id=kGLogzKtYq		pending
+129	kGLogzKtYq	GROW2: Grounding Which and Where for Robot Tool Use	https://openreview.net/forum?id=kGLogzKtYq	通过部件语义把工具选择与三维接触定位分开	included
 130	8QEFjWSgyu	What Objects Enable, Not What They Are: Functional Latent Spaces for Affordance Reasoning	https://openreview.net/forum?id=8QEFjWSgyu	用功能距离触发可供性发现	included
 131	zhiG7XB56D	Phase-Conditioned Affordance Fields for SE(3)-Equivariant Visuomotor Policies	https://openreview.net/forum?id=zhiG7XB56D	随操作阶段改变等变策略的局部参考点	included
-132	UMHg65UHcY	VoxAfford: Multi-Scale Voxel-Token Fusion for Open-Vocabulary 3D Affordance Detection	https://openreview.net/forum?id=UMHg65UHcY		pending
+132	UMHg65UHcY	VoxAfford: Multi-Scale Voxel-Token Fusion for Open-Vocabulary 3D Affordance Detection	https://openreview.net/forum?id=UMHg65UHcY	在开放词表 token 生成后补入多尺度体素几何	included
 133	sF3YZbbTNX	VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation	https://openreview.net/forum?id=sF3YZbbTNX		pending
 134	5cXsYqAjNs	NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning	https://openreview.net/forum?id=5cXsYqAjNs		pending
 135	WeNTfF2Rks	CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation	https://openreview.net/forum?id=WeNTfF2Rks		pending
