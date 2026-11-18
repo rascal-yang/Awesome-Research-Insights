@@ -131,8 +131,8 @@ number	openreview_id	title	paper_url	reason	status
 130	8QEFjWSgyu	What Objects Enable, Not What They Are: Functional Latent Spaces for Affordance Reasoning	https://openreview.net/forum?id=8QEFjWSgyu	用功能距离触发可供性发现	included
 131	zhiG7XB56D	Phase-Conditioned Affordance Fields for SE(3)-Equivariant Visuomotor Policies	https://openreview.net/forum?id=zhiG7XB56D	随操作阶段改变等变策略的局部参考点	included
 132	UMHg65UHcY	VoxAfford: Multi-Scale Voxel-Token Fusion for Open-Vocabulary 3D Affordance Detection	https://openreview.net/forum?id=UMHg65UHcY	在开放词表 token 生成后补入多尺度体素几何	included
-133	sF3YZbbTNX	VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation	https://openreview.net/forum?id=sF3YZbbTNX		pending
-134	5cXsYqAjNs	NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning	https://openreview.net/forum?id=5cXsYqAjNs		pending
+133	sF3YZbbTNX	VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation	https://openreview.net/forum?id=sF3YZbbTNX	允许监控器在动作执行中打断和更换技能	included
+134	5cXsYqAjNs	NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning	https://openreview.net/forum?id=5cXsYqAjNs	在执行前筛视频候选并按执行偏差做局部修复	included
 135	WeNTfF2Rks	CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation	https://openreview.net/forum?id=WeNTfF2Rks		pending
 136	cvPjGuUATQ	Sim-and-Human Co-training for Data-Efficient and Scene-Generalizable Bimanual Manipulation	https://openreview.net/forum?id=cvPjGuUATQ		pending
 137	84ea2xeP60	COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation	https://openreview.net/forum?id=84ea2xeP60		pending

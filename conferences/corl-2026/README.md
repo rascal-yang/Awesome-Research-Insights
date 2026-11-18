@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **119 / 687** 篇，当前收录 **116** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **121 / 687** 篇，当前收录 **118** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -122,3 +122,5 @@
 | 具身智能 / 多模态 | 三维表征 | [Phase-Conditioned Affordance Fields](cards.md#paper-zhig7xb56d) | 随操作阶段改变等变策略的局部参考点 |
 | 具身智能 / 多模态 | 空间表征 | [GROW²](cards.md#paper-kglogzktyq) | 通过部件语义把工具选择与三维接触定位分开 |
 | 具身智能 / 多模态 | 空间表征 | [VoxAfford](cards.md#paper-umhg65uhcy) | 在开放词表 token 生成后补入多尺度体素几何 |
+| 具身智能 / Agent | 任务规划 | [VoLo](cards.md#paper-sf3yzbbtnx) | 允许监控器在动作执行中打断和更换技能 |
+| 具身智能 / Agent | 任务规划 | [NovaPlan](cards.md#paper-5cxsyqajns) | 在执行前筛视频候选并按执行偏差做局部修复 |
