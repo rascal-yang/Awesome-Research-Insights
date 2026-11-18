@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **115 / 687** 篇，当前收录 **112** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **117 / 687** 篇，当前收录 **114** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -118,3 +118,5 @@
 | 具身智能 / Agent | 安全评测 | [SafeMem](cards.md#paper-rnp2bj4rux) | 将视野外的历史危险纳入候选动作审核 |
 | 具身智能 / Agent | 数据策略 | [AIDA-OWMM](cards.md#paper-4m7c3psa78) | 直接用部署时可用的观测和技能接口采教师示范 |
 | 具身智能 / 多模态 | 空间表征 | [RoboMAP](cards.md#paper-xohvcwilyj) | 对具有多个可行位置的指令输出稠密空间得分图 |
+| 具身智能 / Agent | 表征学习 | [A4D](cards.md#paper-8qefjwsgyu) | 用功能距离触发可供性发现 |
+| 具身智能 / 多模态 | 三维表征 | [Phase-Conditioned Affordance Fields](cards.md#paper-zhig7xb56d) | 随操作阶段改变等变策略的局部参考点 |
