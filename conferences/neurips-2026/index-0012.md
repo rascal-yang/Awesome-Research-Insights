@@ -483,3 +483,77 @@
 | 视觉与多模态 | 评测与诊断 | [Visual Anchoring for Scenario-Guided Forecasting](cards-0012.md#paper-151190) | 场景条件时序预测把情景与历史直接对齐 |
 | 视觉与多模态 | 训练与优化 | [Visual Instruction Tuning Aligns Modalities through Abstraction](cards-0012.md#paper-150518) | 视觉指令微调先试只更新中间层 |
 | 视觉与多模态 | 生成与扩散 | [Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models](cards-0012.md#paper-148225) | 并行视觉推理每轮优先解互补视觉位置 |
+| 具身智能与机器人 | 评测与诊断 | [Visual Robustness and Neural Alignment in a Shared Foraging Task: The Mouse vs. AI Benchmark](cards-0012.md#paper-139189) | 视觉控制同时测感知扰动和表示对齐。 |
+| 多模态学习 | 推理加速 | [Visual Text Compression as Measure Transport](cards-0012.md#paper-155749) | 将文档渲染为视觉时按覆盖和精度选压缩。 |
+| 计算机视觉 | 结构化生成 | [Visual-to-Executable Procedural Reconstruction of Buildings.](cards-0012.md#paper-155329) | 可编辑建筑从图先恢复布局树再恢复部件参数。 |
+| 多模态学习 | 评测与诊断 | [VisualWorldBench: A Fine-Grained Multi-Task Benchmark for Evaluating Visual World Knowledge in MLLMs](cards-0012.md#paper-139562) | 视觉知识选型至少分别测识别、选对、定位和命名。 |
+| 模型效率与系统 | 注意力机制 | [ViT-AdaLA: Adapting Vision Transformers with Linear Attention](cards-0012.md#paper-155131) | ViT 线性化比较从开源视觉基座继承。 |
+| 多模态学习 | 评测与诊断 | [ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing](cards-0012.md#paper-139184) | 视频文字编辑把 OCR、画质和局部副作用独立评分。 |
+| 智能体与工具使用 | 评测与诊断 | [Viverra: Text-to-Code with Guarantees](cards-0012.md#paper-155764) | 生成代码必须配可验证断言。 |
+| 具身智能与机器人 | 搜索与规划 | [VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](cards-0012.md#paper-149247) | 动作分块在线按视觉误差缩短时域。 |
+| 具身智能与机器人 | 评测与诊断 | [VLAN: Vision-Language Accessible Navigation](cards-0012.md#paper-138986) | 导航评测加入用户实施体及可达性限制。 |
+| 具身智能与机器人 | 记忆机制 | [VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](cards-0012.md#paper-155119) | 跨任务操作推理检索可复用程序经验。 |
+| 多模态学习 | 检索增强 | [VL-DocIR: A Benchmark for Vision-Based Long Document Retrieval](cards-0012.md#paper-139402) | 多页查询保文档上下文打分。 |
+| 多模态学习 | 预训练 | [VLM$^3$: Vision Language Models Are Native 3D Learners](cards-0012.md#paper-152219) | 标准 VLM 学几何先统一焦距和像素指引用语。 |
+| 多模态学习 | 评测与诊断 | [VLMs Trace Without Tracking: Diagnosing Failures in Visual Path Following](cards-0012.md#paper-150642) | 视觉路径测试加入近邻干扰但去掉交叉混杂。 |
+| 多模态学习 | 三维视觉 | [VLS: A Vision-Language-Shape Model for Open-Vocabulary Partonomic 3D Reconstruction](cards-0012.md#paper-155339) | 开放零件重建统一文字、像素和连续坐标。 |
+| 计算机视觉 | 三维视觉 | [VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph](cards-0012.md#paper-148647) | 对象中心 splatting 用关系结构验完整性。 |
+| 多模态学习 | 记忆机制 | [V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models](cards-0012.md#paper-154969) | 冻结视觉语言主干用文本条件选择视觉记忆。 |
+| 多模态学习 | 评测与诊断 | [VocalCoachBench: Benchmarking Audio-Language Models on Expert Feedback for Singing](cards-0012.md#paper-139246) | 声学专家反馈按诊断粒度和建议可操作性评分。 |
+| 多模态学习 | 评测与诊断 | [VocalGrad: Evaluating Acoustic Perception in Audio Language Models](cards-0012.md#paper-139190) | 用声学变化方向分离感知和语言推理。 |
+| 多模态学习 | 评测与诊断 | [Voice "Cloning" Is Actually Style Transfer](cards-0012.md#paper-154938) | 将克隆语音的身份保真与感知语气分开测。 |
+| 机器学习基础与统计 | 训练策略 | [Volatility-Whitened Probabilistic Residual Modeling for Long-Term Time Series Forecasting](cards-0012.md#paper-155322) | 概率预测先对白化残差去噪。 |
+| 机器人学 | 表征学习 | [VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation](cards-0012.md#paper-152277) | 用局部体积接触加全局手型地约束抓取生成。 |
+| 大语言模型 | 数据策略 | [VoluCore: Spanning Teacher Representations with Volumetric Coresets for Data-Efficient LLM Distillation](cards-0012.md#paper-155942) | 蒸馏数据选择重视教师特征张成空间。 |
+| 大语言模型 | 推理策略 | [Vortex: Efficient and Programmable Sparse Attention Serving](cards-0012.md#paper-150973) | 通过页级表示统一实现稀疏策略并在实际服务中比较。 |
+| 科学机器学习 | 表征学习 | [Voxel as Token: A New Perspective for Zero-shot Cross-subject Vision Decoding](cards-0012.md#paper-148747) | 跨被试解码保留逐体素 token 和大区域共激活。 |
+| 大语言模型 | 强化学习方法 | [VSPO: Vector-Steered Policy Optimization for Controllable Model Behavior](cards-0012.md#paper-154454) | 在采样时改变行为引导强度以形成可控训练对照。 |
+| 多模态学习 | 数据策略 | [VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness](cards-0012.md#paper-138997) | 低资源视听识别分别测标注质量和可扩容量。 |
+| 机器学习基础与统计 | 模型架构 | [VTV-FM: Flow Matching through Variational Terminal-Velocity Closure](cards-0012.md#paper-152736) | 二阶流匹配缺目标速度时估计末端速度闭合。 |
+| 计算机视觉 | 训练策略 | [VUM: Visual Unified Models for Image Generation and Perception](cards-0012.md#paper-152296) | 将遮盖和加噪恢复作为统一视觉模型的目标。 |
+| 大语言模型 | 评测与诊断 | [WAREX: Web Agent Reliability Evaluation on Existing Benchmarks](cards-0012.md#paper-157020) | 网页操作须单独量化已知运行错误下的恢复能力。 |
+| 大语言模型 | 损失函数 | [WASD: Wasserstein-based Knowledge Distillation for Large Language Models](cards-0012.md#paper-154228) | 蒸馏对齐输出分布时纳入词元语义距离。 |
+| 机器学习基础与统计 | 生成与扩散 | [Wasserstein Gradient Flows and Forward-Only Diffusion Are Not Enough for Multimodal Sampling](cards-0012.md#paper-140108) | 分离多模态采样形状拟合和跨模式混合 |
+| 视觉与多模态 | 训练与优化 | [Watching Itself Watch: Self-Auditing Visual Reliance for Video Reasoning](cards-0012.md#paper-152190) | 以视频依赖检查定位需要视觉教师指导的词元 |
+| 视觉与多模态 | 生成与扩散 | [WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning](cards-0012.md#paper-152293) | 端到端音频生成用内部谱轨迹约束波形 |
+| 机器学习基础与统计 | 生成与扩散 | [Wavelet Flow Matching for Multi-Scale Physics Emulation](cards-0012.md#paper-150773) | 多尺度动力学在小波系数空间对齐生成速度 |
+| 视觉与多模态 | 训练与优化 | [WaveletLoRA: Frequency-Aware Content-Style Decomposition for Personalized Image Generation](cards-0012.md#paper-152557) | 个性生成分开衡量内容与风格干扰 |
+| 视觉与多模态 | 模型与架构 | [WaveMamba: Wave-Inspired Cross-Modal Fusion for Robust event-image Semantic Segmentation](cards-0012.md#paper-151756) | 事件相机和图像融合可在谱域门控 |
+| 视觉与多模态 | 生成与扩散 | [WavFlow: Flowing Through Waveforms for Audio Generation](cards-0012.md#paper-152430) | 多模态音频生成比较直接波形和 latent 路线 |
+| 智能体与工具使用 | 检索增强 | [Wayfinder: Adaptive Resource Routing from Agent Citations](cards-0012.md#paper-148786) | 联邦检索将引用反馈用于路由。 |
+| 计算机视觉 | 评测与诊断 | [WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark](cards-0012.md#paper-139468) | 开放集全景追踪分别验已知与未知对象。 |
+| 多模态学习 | 可解释性 | [Weakly Supervised Concept Learning for Interpreting and Attributing LVLM Predictions](cards-0012.md#paper-153732) | 视觉语言概念向量可用文本弱监督。 |
+| 计算机视觉 | 表征学习 | [Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery](cards-0012.md#paper-148562) | 跨视定位在 patch 网格建可替换部件头。 |
+| 智能体与工具使用 | 评测与诊断 | [WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents](cards-0012.md#paper-139782) | 网页代理评测包含自托管多媒体应用并隔离任务。 |
+| 智能体与工具使用 | 搜索与规划 | [WebNavigator: Global Web Navigation via Interaction Graph Retrieval](cards-0012.md#paper-154891) | 已知界面导航重用可审计交互图。 |
+| 多模态学习 | 评测与诊断 | [WebSpatial: A Benchmarking Framework of Spatial Intelligence via Web-based Runtime Environments](cards-0012.md#paper-156054) | 空间理解题从可执行场景直接取标准答案。 |
+| 计算机视觉 | 三维视觉 | [WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos](cards-0012.md#paper-151135) | 动态高斯用预训结构轨迹拟合运动样条。 |
+| 机器学习理论 | 不确定性估计 | [Weighted Conformal Clustering](cards-0012.md#paper-150203) | 聚类置信集校正代理标签到潜标签。 |
+| 机器学习理论 | 因果推断 | [Weighted Sampling for Online Causal Discovery](cards-0012.md#paper-149926) | 在线结构学习维护竞争的图后验。 |
+| 大语言模型 | 模型鲁棒性 | [Weird Generalization from Narrow Finetuning: Persona Shifts and Inductive Backdoors](cards-0012.md#paper-154050) | 窄域微调发布前跨域做安全回归。 |
+| 深度学习 | 图学习 | [Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs](cards-0012.md#paper-152026) | 时序图传播保持沿合法时间序的事件路径。 |
+| 机器学习理论 | 图学习 | [Weisfeiler-Leman Is Incomplete on Simple Spectrum Graphs, so Canonicalize Them](cards-0012.md#paper-150655) | 需要相同图稳定给 ID 时审查 WL 表达不足。 |
+| 深度学习 | 评测与诊断 | [Welfare, Improvability, and Variance: A Principal-Agent Approach to Optimal Benchmark Item Aggregation](cards-0012.md#paper-138896) | benchmark 加权同时考虑任务价值、可改和方差。 |
+| 大语言模型 | 强化学习 | [What are Key Factors for Updates in RL for LLM Reasoning?](cards-0012.md#paper-155041) | 同一 rollout 多次更新时按 token 组调 clipping。 |
+| 大语言模型 | 表征学习 | [What Arranges Features in Activation Space?  Non-Classical Predictive Geometry in Next-Token Predictors](cards-0012.md#paper-148855) | 解释下一个 token 状态时区分统计特征和信念几何。 |
+| 机器学习基础与统计 | 表征学习 | [What Can Labels Alone Audit and Edit in Frozen Representations?](cards-0012.md#paper-155411) | 只有标签时先拟合标签充分的低维部分，再审计残差。 |
+| 大语言模型 | 评测与诊断 | [What Claims Do LLM Benchmark Scores Support?](cards-0012.md#paper-150992) | 将基准分数转换为可证声明前做同源反事实。 |
+| 计算机视觉 | 训练策略 | [What Cohort INRs Encode, and Where to Freeze Them](cards-0012.md#paper-154524) | 隐式表示迁移时用权重稳定秩选择冻结深度。 |
+| 机器学习基础与统计 | 模型架构 | [What Comes Next and Why: Interpretable Next-Event Prediction with Neuro-Symbolic Rules](cards-0012.md#paper-155030) | 用可读序列规则加残差预测事件。 |
+| 多模态学习 | 评测与诊断 | [What Do Audio Models Really Hear? Layer Selection and Mechanistic Structure in Sound Representations](cards-0012.md#paper-151749) | 音频编码器裁剪前找保留目标证据的最早层。 |
+| 科学机器学习 | 评测与诊断 | [What do EEG Foundation Models Capture from Human Brain Signals?](cards-0012.md#paper-150770) | 脑电模型审计分开问能读出、实际使用与已知特征解释。 |
+| 机器学习基础与统计 | 评测与诊断 | [What Does an Observability Forecasting Foundation Model Know?](cards-0012.md#paper-150120) | 时序表征即使可读出，仍需独立验证能否用于控制。 |
+| 大语言模型 | 评测与诊断 | [What Does a Sparse Autoencoder Feature Do? A Weight-Based Account](cards-0012.md#paper-149772) | 稀疏特征分析结合权重方向和定向消融。 |
+| 计算机视觉 | 训练策略 | [What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models](cards-0012.md#paper-149806) | 组合生成对照连续与离散训练目标，并控制组成信息完整度。 |
+| 大语言模型 | 评测与诊断 | [What Fits (Into Few Tokens) Doesn't Overfit:  Compression and Generalization in ML Research Agents](cards-0012.md#paper-149540) | 用极短策略描述交给独立代理重做，检验实验成功可否复用。 |
+| 机器学习基础与统计 | 评测与诊断 | [What Gets Measured Gets Managed: Sign-aware Recommendation Needs Sign-aware Evaluation](cards-0012.md#paper-139717) | 推荐评估单独测对负反馈内容的前列曝光。 |
+| 机器学习基础与统计 | 评测与诊断 | ["What is Different Between These Datasets?" A Framework for Explaining Data Distribution Shifts](cards-0012.md#paper-156666) | 域差异审计用人可读的子群差异补充总体距离。 |
+| 强化学习 | 理论与统计 | [What Is Worth Representing? Representational Empowerment for Continual Model Construction](cards-0012.md#paper-149925) | 持续代理按候选内部表征能提升多少未来规划能力选择记忆。 |
+| 视觉与多模态 | 生成与扩散 | [What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching](cards-0012.md#paper-154141) | 像素流预测可将低阶输入分量走旁路 |
+| 智能体 | 强化学习与奖励 | [What Makes Two States the Same? Value-Aware State Matching for Multi-Turn Agent Credit Assignment](cards-0012.md#paper-152187) | 跨轨迹信用按连续价值相似度匹配状态 |
+| 视觉与多模态 | 评测与诊断 | [What MLLMs Learn about When they Learn about Multimodal Reasoning](cards-0012.md#paper-154858) | 多模态进展跟踪错误类型占比 |
+| 具身智能与机器人 | 评测与诊断 | [What Probing Reveals about Autonomous Driving: Better Predictions Lead to Better Planning](cards-0012.md#paper-153263) | 驾驶策略在危险事件中测内部预测时机 |
+| 视觉与多模态 | 评测与诊断 | [What’s Holding Back Latent Visual Reasoning?](cards-0012.md#paper-148503) | 潜在视觉推理将表示是否有用与预测是否到位拆开 |
+| 视觉与多模态 | 记忆与检索 | [What Should a Streaming Video Model Remember?](cards-0012.md#paper-149000) | 流媒体接收固定容量的可选择历史 |
+| 大语言模型 | 训练与优化 | [What Stops SGD on LLM Pre-Training: The Need for Large Learning Rate and How to Achieve it](cards-0012.md#paper-148165) | 大批互联网语言预训练评估可稳定高学习率的 SGD |
+| 机器学习基础与统计 | 生成与扩散 | [What Time Is It? How Data Geometry Makes Time Conditioning Optional for Flow Matching](cards-0012.md#paper-154392) | 流匹配先查耦合再增时间条件 |

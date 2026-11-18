@@ -1305,5 +1305,11 @@
 - [VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Tokens](../conferences/neurips-2026/cards-0012.md#paper-148674)
 - [Video Stitching from Multiple Moving Cameras](../conferences/neurips-2026/cards-0012.md#paper-154835)
 - [ViewRec3D: Learning to Recommend 3D Viewpoints for AI Photography](../conferences/neurips-2026/cards-0012.md#paper-149984)
+- [VLS: A Vision-Language-Shape Model for Open-Vocabulary Partonomic 3D Reconstruction](../conferences/neurips-2026/cards-0012.md#paper-155339)
+- [VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph](../conferences/neurips-2026/cards-0012.md#paper-148647)
+- [WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos](../conferences/neurips-2026/cards-0012.md#paper-151135)
+- [Weird Generalization from Narrow Finetuning: Persona Shifts and Inductive Backdoors](../conferences/neurips-2026/cards-0012.md#paper-154050)
+- [Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs](../conferences/neurips-2026/cards-0012.md#paper-152026)
+- [Weisfeiler-Leman Is Incomplete on Simple Spectrum Graphs, so Canonicalize Them](../conferences/neurips-2026/cards-0012.md#paper-150655)
 
 <!-- conference-classification:end -->

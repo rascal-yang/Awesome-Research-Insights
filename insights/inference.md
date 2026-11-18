@@ -1510,5 +1510,16 @@
 - [VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing](../conferences/neurips-2026/cards-0012.md#paper-155107)
 - [VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models](../conferences/neurips-2026/cards-0012.md#paper-155830)
 - [Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-148225)
+- [Visual Text Compression as Measure Transport](../conferences/neurips-2026/cards-0012.md#paper-155749)
+- [Visual-to-Executable Procedural Reconstruction of Buildings.](../conferences/neurips-2026/cards-0012.md#paper-155329)
+- [VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](../conferences/neurips-2026/cards-0012.md#paper-149247)
+- [Vortex: Efficient and Programmable Sparse Attention Serving](../conferences/neurips-2026/cards-0012.md#paper-150973)
+- [Wasserstein Gradient Flows and Forward-Only Diffusion Are Not Enough for Multimodal Sampling](../conferences/neurips-2026/cards-0012.md#paper-140108)
+- [WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning](../conferences/neurips-2026/cards-0012.md#paper-152293)
+- [Wavelet Flow Matching for Multi-Scale Physics Emulation](../conferences/neurips-2026/cards-0012.md#paper-150773)
+- [WavFlow: Flowing Through Waveforms for Audio Generation](../conferences/neurips-2026/cards-0012.md#paper-152430)
+- [WebNavigator: Global Web Navigation via Interaction Graph Retrieval](../conferences/neurips-2026/cards-0012.md#paper-154891)
+- [What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching](../conferences/neurips-2026/cards-0012.md#paper-154141)
+- [What Time Is It? How Data Geometry Makes Time Conditioning Optional for Flow Matching](../conferences/neurips-2026/cards-0012.md#paper-154392)
 
 <!-- conference-classification:end -->

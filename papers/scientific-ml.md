@@ -696,5 +696,7 @@
 - [Transolver-GMsFEM: A Hybrid Framework for High-Contrast Multiscale PDEs on Irregular Grids](../conferences/neurips-2026/cards-0012.md#paper-155288)
 - [Uncovering the latent structure of interwoven population and temporal codes](../conferences/neurips-2026/cards-0012.md#paper-152608)
 - [UtoMe: Observation-Uncertainty-Guided Token Merging for Weather Foundation Models](../conferences/neurips-2026/cards-0012.md#paper-153247)
+- [Voxel as Token: A New Perspective for Zero-shot Cross-subject Vision Decoding](../conferences/neurips-2026/cards-0012.md#paper-148747)
+- [What do EEG Foundation Models Capture from Human Brain Signals?](../conferences/neurips-2026/cards-0012.md#paper-150770)
 
 <!-- conference-classification:end -->

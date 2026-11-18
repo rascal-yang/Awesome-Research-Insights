@@ -426,5 +426,9 @@ Data selection, annotation, augmentation, and sampling.
 - [VidHalluDoctor: Learning Video Differences to Mitigate Hallucinations in Vision-Language Models](../../conferences/neurips-2026/cards-0012.md#paper-153093)
 - [VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks](../../conferences/neurips-2026/cards-0012.md#paper-149056)
 - [VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval](../../conferences/neurips-2026/cards-0012.md#paper-153091)
+- [VL-DocIR: A Benchmark for Vision-Based Long Document Retrieval](../../conferences/neurips-2026/cards-0012.md#paper-139402)
+- [VoluCore: Spanning Teacher Representations with Volumetric Coresets for Data-Efficient LLM Distillation](../../conferences/neurips-2026/cards-0012.md#paper-155942)
+- [VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness](../../conferences/neurips-2026/cards-0012.md#paper-138997)
+- [Wayfinder: Adaptive Resource Routing from Agent Citations](../../conferences/neurips-2026/cards-0012.md#paper-148786)
 
 <!-- conference-classification:end -->

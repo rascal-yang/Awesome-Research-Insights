@@ -483,5 +483,9 @@
 - [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](../conferences/neurips-2026/cards-0012.md#paper-153411)
 - [View Confidence Perception-Driven Incremental Prediction for Incomplete Multi-view Multi-label Learning](../conferences/neurips-2026/cards-0012.md#paper-152008)
 - [ViewSAM: Learning View-aware Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking](../conferences/neurips-2026/cards-0012.md#paper-154079)
+- [ViT-AdaLA: Adapting Vision Transformers with Linear Attention](../conferences/neurips-2026/cards-0012.md#paper-155131)
+- [VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](../conferences/neurips-2026/cards-0012.md#paper-155119)
+- [V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models](../conferences/neurips-2026/cards-0012.md#paper-154969)
+- [What Should a Streaming Video Model Remember?](../conferences/neurips-2026/cards-0012.md#paper-149000)
 
 <!-- conference-classification:end -->

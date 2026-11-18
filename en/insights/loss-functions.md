@@ -409,5 +409,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs](../../conferences/neurips-2026/cards-0012.md#paper-149440)
 - [Unrolled gradients in disguise: bridging interpolation-based and Jacobian regularization for stable neural dynamics](../../conferences/neurips-2026/cards-0012.md#paper-154498)
 - [VideoMDM: Towards 3D Human Motion Generation From 2D Supervision](../../conferences/neurips-2026/cards-0012.md#paper-154317)
+- [WASD: Wasserstein-based Knowledge Distillation for Large Language Models](../../conferences/neurips-2026/cards-0012.md#paper-154228)
 
 <!-- conference-classification:end -->

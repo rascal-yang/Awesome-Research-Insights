@@ -790,5 +790,8 @@
 - [VICO: Visual Environments Co-Evolving for Vision-Language Model Reasoning](../conferences/neurips-2026/cards-0012.md#paper-151290)
 - [Video Models Can Reason with Verifiable Rewards](../conferences/neurips-2026/cards-0012.md#paper-153418)
 - [VISTA: Support-Anchored Value Targeting for Fast Flow-Based Vision-Language-Action Policies](../conferences/neurips-2026/cards-0012.md#paper-148918)
+- [VSPO: Vector-Steered Policy Optimization for Controllable Model Behavior](../conferences/neurips-2026/cards-0012.md#paper-154454)
+- [What are Key Factors for Updates in RL for LLM Reasoning?](../conferences/neurips-2026/cards-0012.md#paper-155041)
+- [What Makes Two States the Same? Value-Aware State Matching for Multi-Turn Agent Credit Assignment](../conferences/neurips-2026/cards-0012.md#paper-152187)
 
 <!-- conference-classification:end -->

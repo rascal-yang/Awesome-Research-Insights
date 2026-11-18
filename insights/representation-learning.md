@@ -656,5 +656,10 @@
 - [User Embeddings are Superpositions of Interpretable Behavioral Modes](../conferences/neurips-2026/cards-0012.md#paper-155845)
 - [V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](../conferences/neurips-2026/cards-0012.md#paper-152475)
 - [VIGOR: Zero-Shot Visual Generalization via Latent-Space Consistency in Model-Based Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-153294)
+- [VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation](../conferences/neurips-2026/cards-0012.md#paper-152277)
+- [Voxel as Token: A New Perspective for Zero-shot Cross-subject Vision Decoding](../conferences/neurips-2026/cards-0012.md#paper-148747)
+- [Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery](../conferences/neurips-2026/cards-0012.md#paper-148562)
+- [What Arranges Features in Activation Space?  Non-Classical Predictive Geometry in Next-Token Predictors](../conferences/neurips-2026/cards-0012.md#paper-148855)
+- [What Can Labels Alone Audit and Edit in Frozen Representations?](../conferences/neurips-2026/cards-0012.md#paper-155411)
 
 <!-- conference-classification:end -->

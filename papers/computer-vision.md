@@ -1221,5 +1221,13 @@
 - [ViewSAM: Learning View-aware Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking](../conferences/neurips-2026/cards-0012.md#paper-154079)
 - [Virtual Task Prompting for Multi-Task Scene Understanding](../conferences/neurips-2026/cards-0012.md#paper-154323)
 - [Vision Correlators: Correlation-Driven Visual Understanding with Hypergraphs](../conferences/neurips-2026/cards-0012.md#paper-152069)
+- [Visual-to-Executable Procedural Reconstruction of Buildings.](../conferences/neurips-2026/cards-0012.md#paper-155329)
+- [VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph](../conferences/neurips-2026/cards-0012.md#paper-148647)
+- [VUM: Visual Unified Models for Image Generation and Perception](../conferences/neurips-2026/cards-0012.md#paper-152296)
+- [WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark](../conferences/neurips-2026/cards-0012.md#paper-139468)
+- [Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery](../conferences/neurips-2026/cards-0012.md#paper-148562)
+- [WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos](../conferences/neurips-2026/cards-0012.md#paper-151135)
+- [What Cohort INRs Encode, and Where to Freeze Them](../conferences/neurips-2026/cards-0012.md#paper-154524)
+- [What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models](../conferences/neurips-2026/cards-0012.md#paper-149806)
 
 <!-- conference-classification:end -->

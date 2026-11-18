@@ -8782,126 +8782,126 @@ poster_id	title	paper_url	status	reason
 152643	Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs	https://neurips.cc/virtual/2026/poster/152643	excluded	摘要的潜态干预未证明概率集中与视觉证据忠实之间的独立关系。
 148225	Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/148225	included	并行视觉推理每轮优先解互补视觉位置
 150417	Visual Reinforcement Fine-Tuning via Bootstrapped Medical Reasoning	https://neurips.cc/virtual/2026/poster/150417	excluded	主要为医学视觉问答和病灶任务的专项奖励组合。
-139189	Visual Robustness and Neural Alignment in a Shared Foraging Task: The Mouse vs. AI Benchmark	https://neurips.cc/virtual/2026/poster/139189	pending	-
-155749	Visual Text Compression as Measure Transport	https://neurips.cc/virtual/2026/poster/155749	pending	-
-155329	Visual-to-Executable Procedural Reconstruction of Buildings.	https://neurips.cc/virtual/2026/poster/155329	pending	-
-139562	VisualWorldBench: A Fine-Grained Multi-Task Benchmark for Evaluating Visual World Knowledge in MLLMs	https://neurips.cc/virtual/2026/poster/139562	pending	-
-155131	ViT-AdaLA: Adapting Vision Transformers with Linear Attention	https://neurips.cc/virtual/2026/poster/155131	pending	-
-139184	ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing	https://neurips.cc/virtual/2026/poster/139184	pending	-
-155764	Viverra: Text-to-Code with Guarantees	https://neurips.cc/virtual/2026/poster/155764	pending	-
-149247	VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon	https://neurips.cc/virtual/2026/poster/149247	pending	-
-138986	VLAN: Vision-Language Accessible Navigation	https://neurips.cc/virtual/2026/poster/138986	pending	-
-155119	VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155119	pending	-
-139765	VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/139765	pending	-
-139402	VL-DocIR: A Benchmark for Vision-Based Long Document Retrieval	https://neurips.cc/virtual/2026/poster/139402	pending	-
-152219	VLM$^3$: Vision Language Models Are Native 3D Learners	https://neurips.cc/virtual/2026/poster/152219	pending	-
-150642	VLMs Trace Without Tracking: Diagnosing Failures in Visual Path Following	https://neurips.cc/virtual/2026/poster/150642	pending	-
-139821	VLRS-Bench: A Vision-Language Reasoning Benchmark for Remote Sensing	https://neurips.cc/virtual/2026/poster/139821	pending	-
-155339	VLS: A Vision-Language-Shape Model for Open-Vocabulary Partonomic 3D Reconstruction	https://neurips.cc/virtual/2026/poster/155339	pending	-
-148647	VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph	https://neurips.cc/virtual/2026/poster/148647	pending	-
-154969	V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models	https://neurips.cc/virtual/2026/poster/154969	pending	-
-139246	VocalCoachBench: Benchmarking Audio-Language Models on Expert Feedback for Singing	https://neurips.cc/virtual/2026/poster/139246	pending	-
-139190	VocalGrad: Evaluating Acoustic Perception in Audio Language Models	https://neurips.cc/virtual/2026/poster/139190	pending	-
-154938	"Voice ""Cloning"" Is Actually Style Transfer"	https://neurips.cc/virtual/2026/poster/154938	pending	-
-154478	VOID: Backdoor Injection through Knowledge Vacuity in Federated Unlearning	https://neurips.cc/virtual/2026/poster/154478	pending	-
-155322	Volatility-Whitened Probabilistic Residual Modeling for Long-Term Time Series Forecasting	https://neurips.cc/virtual/2026/poster/155322	pending	-
-152277	VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation	https://neurips.cc/virtual/2026/poster/152277	pending	-
-151919	VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching	https://neurips.cc/virtual/2026/poster/151919	pending	-
-155942	VoluCore: Spanning Teacher Representations with Volumetric Coresets for Data-Efficient LLM Distillation	https://neurips.cc/virtual/2026/poster/155942	pending	-
-150044	Voronoi-Markov chain and spatial entropy for point pattern analysis	https://neurips.cc/virtual/2026/poster/150044	pending	-
-150973	Vortex: Efficient and Programmable Sparse Attention Serving	https://neurips.cc/virtual/2026/poster/150973	pending	-
-148747	Voxel as Token: A New Perspective for Zero-shot Cross-subject Vision Decoding	https://neurips.cc/virtual/2026/poster/148747	pending	-
-149459	VSearcher: Long-Horizon Multimodal Search Agent via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149459	pending	-
-154454	VSPO: Vector-Steered Policy Optimization for Controllable Model Behavior	https://neurips.cc/virtual/2026/poster/154454	pending	-
-138997	VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness	https://neurips.cc/virtual/2026/poster/138997	pending	-
-139643	VTBench: Disentangled and Human-Aligned Evaluation for Image-Based Virtual Try-on	https://neurips.cc/virtual/2026/poster/139643	pending	-
-152736	VTV-FM: Flow Matching through Variational Terminal-Velocity Closure	https://neurips.cc/virtual/2026/poster/152736	pending	-
-152296	VUM: Visual Unified Models for Image Generation and Perception	https://neurips.cc/virtual/2026/poster/152296	pending	-
-152911	VVTRec: Radio Interferometric Reconstruction through Visual and Textual Modality Enrichment	https://neurips.cc/virtual/2026/poster/152911	pending	-
-148626	Walking the Hypercube: Unbiased Quantum Partition Functions Without the Matrix	https://neurips.cc/virtual/2026/poster/148626	pending	-
-148604	Walking Through 3D Spaces: Spatial Routing for Referring 3D Gaussian Splatting Segmentation	https://neurips.cc/virtual/2026/poster/148604	pending	-
-157020	WAREX: Web Agent Reliability Evaluation on Existing Benchmarks	https://neurips.cc/virtual/2026/poster/157020	pending	-
-154228	WASD: Wasserstein-based Knowledge Distillation for Large Language Models	https://neurips.cc/virtual/2026/poster/154228	pending	-
-151594	WASP: Weakly Aligned Spatiotemporal Pairs for Fetal Brain MRI-Ultrasound Learning	https://neurips.cc/virtual/2026/poster/151594	pending	-
-140108	Wasserstein Gradient Flows and Forward-Only Diffusion Are Not Enough for Multimodal Sampling	https://neurips.cc/virtual/2026/poster/140108	pending	-
-149651	Wasserstein residuals: Learning Gradient Flows from Population Dynamics	https://neurips.cc/virtual/2026/poster/149651	pending	-
-152190	Watching Itself Watch: Self-Auditing Visual Reliance for Video Reasoning	https://neurips.cc/virtual/2026/poster/152190	pending	-
-154645	WaterDescatterGS: Diverse Underwater 3D Scene Reconstruction Using Gaussian Splatting	https://neurips.cc/virtual/2026/poster/154645	pending	-
-152415	WATERFALL: Workflow for Adaptive Training with Evolutionary Reward Formulation and Automated Learning Loops	https://neurips.cc/virtual/2026/poster/152415	pending	-
-148799	Watermarking as a Learned Intrinsic Property of Diffusion Models	https://neurips.cc/virtual/2026/poster/148799	pending	-
-154859	Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games	https://neurips.cc/virtual/2026/poster/154859	pending	-
-140006	Watermarking Should Be Treated as a Monitoring Primitive	https://neurips.cc/virtual/2026/poster/140006	pending	-
-140044	Watermarking Without Standards Is Not AI Governance	https://neurips.cc/virtual/2026/poster/140044	pending	-
-154806	WavCIL: Wavelet Coefficient-Domain Invariant Learning for Dynamic Graph OOD Generalization	https://neurips.cc/virtual/2026/poster/154806	pending	-
-154358	Wavefunction Flows: Efficient Quantum Simulation of Continuous Flow Models	https://neurips.cc/virtual/2026/poster/154358	pending	-
-152293	WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning	https://neurips.cc/virtual/2026/poster/152293	pending	-
-150773	Wavelet Flow Matching for Multi-Scale Physics Emulation	https://neurips.cc/virtual/2026/poster/150773	pending	-
-152557	WaveletLoRA: Frequency-Aware Content-Style Decomposition for Personalized Image Generation	https://neurips.cc/virtual/2026/poster/152557	pending	-
-151756	WaveMamba: Wave-Inspired Cross-Modal Fusion for Robust event-image Semantic Segmentation	https://neurips.cc/virtual/2026/poster/151756	pending	-
-153446	WaveSem: Frequency-Adaptive Tokenization for Disentangling Semantics and Noise in Genomics	https://neurips.cc/virtual/2026/poster/153446	pending	-
-152430	WavFlow: Flowing Through Waveforms for Audio Generation	https://neurips.cc/virtual/2026/poster/152430	pending	-
-150632	WavNAF: Learning Wave Propagation Priors for Neural Acoustic Fields	https://neurips.cc/virtual/2026/poster/150632	pending	-
-139649	WAXAL: A Large-Scale Multilingual African Language Speech Corpus	https://neurips.cc/virtual/2026/poster/139649	pending	-
-148786	Wayfinder: Adaptive Resource Routing from Agent Citations	https://neurips.cc/virtual/2026/poster/148786	pending	-
-139468	WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark	https://neurips.cc/virtual/2026/poster/139468	pending	-
-153732	Weakly Supervised Concept Learning for Interpreting and Attributing LVLM Predictions	https://neurips.cc/virtual/2026/poster/153732	pending	-
-148562	Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery	https://neurips.cc/virtual/2026/poster/148562	pending	-
-139782	WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents	https://neurips.cc/virtual/2026/poster/139782	pending	-
-154891	WebNavigator: Global Web Navigation via Interaction Graph Retrieval	https://neurips.cc/virtual/2026/poster/154891	pending	-
-156054	WebSpatial: A Benchmarking Framework of Spatial Intelligence via Web-based Runtime Environments	https://neurips.cc/virtual/2026/poster/156054	pending	-
-151135	WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos	https://neurips.cc/virtual/2026/poster/151135	pending	-
-150203	Weighted Conformal Clustering	https://neurips.cc/virtual/2026/poster/150203	pending	-
-149926	Weighted Sampling for Online Causal Discovery	https://neurips.cc/virtual/2026/poster/149926	pending	-
-140014	Weight Space Learning needs to unify benchmarking! A taxonomy of evaluation practices	https://neurips.cc/virtual/2026/poster/140014	pending	-
-154050	Weird Generalization from Narrow Finetuning: Persona Shifts and Inductive Backdoors	https://neurips.cc/virtual/2026/poster/154050	pending	-
-152026	Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs	https://neurips.cc/virtual/2026/poster/152026	pending	-
-150655	Weisfeiler-Leman Is Incomplete on Simple Spectrum Graphs, so Canonicalize Them	https://neurips.cc/virtual/2026/poster/150655	pending	-
-138896	Welfare, Improvability, and Variance: A Principal-Agent Approach to Optimal Benchmark Item Aggregation	https://neurips.cc/virtual/2026/poster/138896	pending	-
-140114	We Need to Improve Benchmarks in AI for Mathematics	https://neurips.cc/virtual/2026/poster/140114	pending	-
-140001	We Need to Rethink Benchmarking in Anomaly Detection	https://neurips.cc/virtual/2026/poster/140001	pending	-
-140062	We Should Distinguish Unlearning From Untraining	https://neurips.cc/virtual/2026/poster/140062	pending	-
-155041	What are Key Factors for Updates in RL for LLM Reasoning?	https://neurips.cc/virtual/2026/poster/155041	pending	-
-148855	What Arranges Features in Activation Space?  Non-Classical Predictive Geometry in Next-Token Predictors	https://neurips.cc/virtual/2026/poster/148855	pending	-
-155411	What Can Labels Alone Audit and Edit in Frozen Representations?	https://neurips.cc/virtual/2026/poster/155411	pending	-
-150992	What Claims Do LLM Benchmark Scores Support?	https://neurips.cc/virtual/2026/poster/150992	pending	-
-154524	What Cohort INRs Encode, and Where to Freeze Them	https://neurips.cc/virtual/2026/poster/154524	pending	-
-155030	What Comes Next and Why: Interpretable Next-Event Prediction with Neuro-Symbolic Rules	https://neurips.cc/virtual/2026/poster/155030	pending	-
-139816	What DNA Foundation Models Learn Beyond Sequence Composition	https://neurips.cc/virtual/2026/poster/139816	pending	-
-151749	What Do Audio Models Really Hear? Layer Selection and Mechanistic Structure in Sound Representations	https://neurips.cc/virtual/2026/poster/151749	pending	-
-150770	What do EEG Foundation Models Capture from Human Brain Signals?	https://neurips.cc/virtual/2026/poster/150770	pending	-
-149367	What does a Bayes-filtered transformer believe? A predictive Monte Carlo approach	https://neurips.cc/virtual/2026/poster/149367	pending	-
-150120	What Does an Observability Forecasting Foundation Model Know?	https://neurips.cc/virtual/2026/poster/150120	pending	-
-149772	What Does a Sparse Autoencoder Feature Do? A Weight-Based Account	https://neurips.cc/virtual/2026/poster/149772	pending	-
-155923	What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models	https://neurips.cc/virtual/2026/poster/155923	pending	-
-151889	What Does the Brain See? Multiview Neural Representation to Demystify the Brain-Visual Alignment	https://neurips.cc/virtual/2026/poster/151889	pending	-
-151242	What Do SAE Features Encode? Evidence from Human Neural Activity	https://neurips.cc/virtual/2026/poster/151242	pending	-
-149806	What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models	https://neurips.cc/virtual/2026/poster/149806	pending	-
-139128	What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective	https://neurips.cc/virtual/2026/poster/139128	pending	-
-149540	What Fits (Into Few Tokens) Doesn't Overfit:  Compression and Generalization in ML Research Agents	https://neurips.cc/virtual/2026/poster/149540	pending	-
-139717	What Gets Measured Gets Managed: Sign-aware Recommendation Needs Sign-aware Evaluation	https://neurips.cc/virtual/2026/poster/139717	pending	-
-154094	What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation	https://neurips.cc/virtual/2026/poster/154094	pending	-
-156666	"""What is Different Between These Datasets?"" A Framework for Explaining Data Distribution Shifts"	https://neurips.cc/virtual/2026/poster/156666	pending	-
-149925	What Is Worth Representing? Representational Empowerment for Continual Model Construction	https://neurips.cc/virtual/2026/poster/149925	pending	-
-154141	What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching	https://neurips.cc/virtual/2026/poster/154141	pending	-
-155057	What Kind of Diffusion Models Do We Need in Online Reinforcement Learning?	https://neurips.cc/virtual/2026/poster/155057	pending	-
-149855	What Makes a Good Path? Factoring Manifold Support and Path Geometry	https://neurips.cc/virtual/2026/poster/149855	pending	-
-152187	What Makes Two States the Same? Value-Aware State Matching for Multi-Turn Agent Credit Assignment	https://neurips.cc/virtual/2026/poster/152187	pending	-
-155642	What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion	https://neurips.cc/virtual/2026/poster/155642	pending	-
-154858	What MLLMs Learn about When they Learn about Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/154858	pending	-
-153263	What Probing Reveals about Autonomous Driving: Better Predictions Lead to Better Planning	https://neurips.cc/virtual/2026/poster/153263	pending	-
-149388	What Remains in Sight? Autoregressive Video Decoding as Representation-Guided Context Rewriting	https://neurips.cc/virtual/2026/poster/149388	pending	-
-148503	What’s Holding Back Latent Visual Reasoning?	https://neurips.cc/virtual/2026/poster/148503	pending	-
-149000	What Should a Streaming Video Model Remember?	https://neurips.cc/virtual/2026/poster/149000	pending	-
-156753	What Should Embeddings Embed? Autoregressive Models Represent Latent Generating Distributions	https://neurips.cc/virtual/2026/poster/156753	pending	-
-148944	What should post-training optimize? A test-time scaling law perspective	https://neurips.cc/virtual/2026/poster/148944	pending	-
-154621	What Should Remain After Forgetting? Rethinking LLM Unlearning as Predictive Posterior Correction	https://neurips.cc/virtual/2026/poster/154621	pending	-
-148945	What’s in a Smoothness Constant? Tight Rates for Local SGD with Bounded Second-order Heterogeneity	https://neurips.cc/virtual/2026/poster/148945	pending	-
-152640	What Sketches Tell Us about LVLMs: Conventions, Grounding, and Localisation	https://neurips.cc/virtual/2026/poster/152640	pending	-
-148227	What Sound Tells You About the Room	https://neurips.cc/virtual/2026/poster/148227	pending	-
-148165	What Stops SGD on LLM Pre-Training: The Need for Large Learning Rate and How to Achieve it	https://neurips.cc/virtual/2026/poster/148165	pending	-
-139306	What Survival Benchmarks Don’t Tell You: Impact of Model Selection and Dataset Regimes	https://neurips.cc/virtual/2026/poster/139306	pending	-
-155858	What the Geometry of Good Models Tells Us	https://neurips.cc/virtual/2026/poster/155858	pending	-
-154392	What Time Is It? How Data Geometry Makes Time Conditioning Optional for Flow Matching	https://neurips.cc/virtual/2026/poster/154392	pending	-
+139189	Visual Robustness and Neural Alignment in a Shared Foraging Task: The Mouse vs. AI Benchmark	https://neurips.cc/virtual/2026/poster/139189	included	视觉控制同时测感知扰动和表示对齐。
+155749	Visual Text Compression as Measure Transport	https://neurips.cc/virtual/2026/poster/155749	included	将文档渲染为视觉时按覆盖和精度选压缩。
+155329	Visual-to-Executable Procedural Reconstruction of Buildings.	https://neurips.cc/virtual/2026/poster/155329	included	可编辑建筑从图先恢复布局树再恢复部件参数。
+139562	VisualWorldBench: A Fine-Grained Multi-Task Benchmark for Evaluating Visual World Knowledge in MLLMs	https://neurips.cc/virtual/2026/poster/139562	included	视觉知识选型至少分别测识别、选对、定位和命名。
+155131	ViT-AdaLA: Adapting Vision Transformers with Linear Attention	https://neurips.cc/virtual/2026/poster/155131	included	ViT 线性化比较从开源视觉基座继承。
+139184	ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing	https://neurips.cc/virtual/2026/poster/139184	included	视频文字编辑把 OCR、画质和局部副作用独立评分。
+155764	Viverra: Text-to-Code with Guarantees	https://neurips.cc/virtual/2026/poster/155764	included	生成代码必须配可验证断言。
+149247	VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon	https://neurips.cc/virtual/2026/poster/149247	included	动作分块在线按视觉误差缩短时域。
+138986	VLAN: Vision-Language Accessible Navigation	https://neurips.cc/virtual/2026/poster/138986	included	导航评测加入用户实施体及可达性限制。
+155119	VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/155119	included	跨任务操作推理检索可复用程序经验。
+139765	VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/139765	excluded	摘要主要是低成本实机平台和任务建设，未给独立机制或反直觉规律。
+139402	VL-DocIR: A Benchmark for Vision-Based Long Document Retrieval	https://neurips.cc/virtual/2026/poster/139402	included	多页查询保文档上下文打分。
+152219	VLM$^3$: Vision Language Models Are Native 3D Learners	https://neurips.cc/virtual/2026/poster/152219	included	标准 VLM 学几何先统一焦距和像素指引用语。
+150642	VLMs Trace Without Tracking: Diagnosing Failures in Visual Path Following	https://neurips.cc/virtual/2026/poster/150642	included	视觉路径测试加入近邻干扰但去掉交叉混杂。
+139821	VLRS-Bench: A Vision-Language Reasoning Benchmark for Remote Sensing	https://neurips.cc/virtual/2026/poster/139821	excluded	摘要以遥感数据和 VLM 排名为主，未建立能用于目标研究的独立机制或规律。
+155339	VLS: A Vision-Language-Shape Model for Open-Vocabulary Partonomic 3D Reconstruction	https://neurips.cc/virtual/2026/poster/155339	included	开放零件重建统一文字、像素和连续坐标。
+148647	VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph	https://neurips.cc/virtual/2026/poster/148647	included	对象中心 splatting 用关系结构验完整性。
+154969	V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models	https://neurips.cc/virtual/2026/poster/154969	included	冻结视觉语言主干用文本条件选择视觉记忆。
+139246	VocalCoachBench: Benchmarking Audio-Language Models on Expert Feedback for Singing	https://neurips.cc/virtual/2026/poster/139246	included	声学专家反馈按诊断粒度和建议可操作性评分。
+139190	VocalGrad: Evaluating Acoustic Perception in Audio Language Models	https://neurips.cc/virtual/2026/poster/139190	included	用声学变化方向分离感知和语言推理。
+154938	"Voice ""Cloning"" Is Actually Style Transfer"	https://neurips.cc/virtual/2026/poster/154938	included	将克隆语音的身份保真与感知语气分开测。
+154478	VOID: Backdoor Injection through Knowledge Vacuity in Federated Unlearning	https://neurips.cc/virtual/2026/poster/154478	excluded	聚焦后门注入，缺少独立防御评测。
+155322	Volatility-Whitened Probabilistic Residual Modeling for Long-Term Time Series Forecasting	https://neurips.cc/virtual/2026/poster/155322	included	概率预测先对白化残差去噪。
+152277	VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation	https://neurips.cc/virtual/2026/poster/152277	included	用局部体积接触加全局手型地约束抓取生成。
+151919	VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching	https://neurips.cc/virtual/2026/poster/151919	excluded	单图补全组合体素与视觉先验，摘要未隔离收益。
+155942	VoluCore: Spanning Teacher Representations with Volumetric Coresets for Data-Efficient LLM Distillation	https://neurips.cc/virtual/2026/poster/155942	included	蒸馏数据选择重视教师特征张成空间。
+150044	Voronoi-Markov chain and spatial entropy for point pattern analysis	https://neurips.cc/virtual/2026/poster/150044	excluded	空间熵构造较专门，摘要未给目标领域对照。
+150973	Vortex: Efficient and Programmable Sparse Attention Serving	https://neurips.cc/virtual/2026/poster/150973	included	通过页级表示统一实现稀疏策略并在实际服务中比较。
+148747	Voxel as Token: A New Perspective for Zero-shot Cross-subject Vision Decoding	https://neurips.cc/virtual/2026/poster/148747	included	跨被试解码保留逐体素 token 和大区域共激活。
+149459	VSearcher: Long-Horizon Multimodal Search Agent via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149459	excluded	主要组合多轮搜索工具和强化学习，摘要未隔离方法贡献。
+154454	VSPO: Vector-Steered Policy Optimization for Controllable Model Behavior	https://neurips.cc/virtual/2026/poster/154454	included	在采样时改变行为引导强度以形成可控训练对照。
+138997	VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness	https://neurips.cc/virtual/2026/poster/138997	included	低资源视听识别分别测标注质量和可扩容量。
+139643	VTBench: Disentangled and Human-Aligned Evaluation for Image-Based Virtual Try-on	https://neurips.cc/virtual/2026/poster/139643	excluded	主要构建虚拟试穿评价资源，摘要未给通用结论。
+152736	VTV-FM: Flow Matching through Variational Terminal-Velocity Closure	https://neurips.cc/virtual/2026/poster/152736	included	二阶流匹配缺目标速度时估计末端速度闭合。
+152296	VUM: Visual Unified Models for Image Generation and Perception	https://neurips.cc/virtual/2026/poster/152296	included	将遮盖和加噪恢复作为统一视觉模型的目标。
+152911	VVTRec: Radio Interferometric Reconstruction through Visual and Textual Modality Enrichment	https://neurips.cc/virtual/2026/poster/152911	excluded	射电图像重建组件定制，摘要未给独立迁移证据。
+148626	Walking the Hypercube: Unbiased Quantum Partition Functions Without the Matrix	https://neurips.cc/virtual/2026/poster/148626	excluded	隐式量子算子估计较专门，摘要无目标方向实证。
+148604	Walking Through 3D Spaces: Spatial Routing for Referring 3D Gaussian Splatting Segmentation	https://neurips.cc/virtual/2026/poster/148604	excluded	复杂指代与空间路由有潜力，摘要缺少独立对照。
+157020	WAREX: Web Agent Reliability Evaluation on Existing Benchmarks	https://neurips.cc/virtual/2026/poster/157020	included	网页操作须单独量化已知运行错误下的恢复能力。
+154228	WASD: Wasserstein-based Knowledge Distillation for Large Language Models	https://neurips.cc/virtual/2026/poster/154228	included	蒸馏对齐输出分布时纳入词元语义距离。
+151594	WASP: Weakly Aligned Spatiotemporal Pairs for Fetal Brain MRI-Ultrasound Learning	https://neurips.cc/virtual/2026/poster/151594	excluded	主要为产前临床成像专项，摘要未有安全通用验证。
+140108	Wasserstein Gradient Flows and Forward-Only Diffusion Are Not Enough for Multimodal Sampling	https://neurips.cc/virtual/2026/poster/140108	included	分离多模态采样形状拟合和跨模式混合
+149651	Wasserstein residuals: Learning Gradient Flows from Population Dynamics	https://neurips.cc/virtual/2026/poster/149651	excluded	主要是群体动力学拟合，摘要未给更具体可迁移动力学对照。
+152190	Watching Itself Watch: Self-Auditing Visual Reliance for Video Reasoning	https://neurips.cc/virtual/2026/poster/152190	included	以视频依赖检查定位需要视觉教师指导的词元
+154645	WaterDescatterGS: Diverse Underwater 3D Scene Reconstruction Using Gaussian Splatting	https://neurips.cc/virtual/2026/poster/154645	excluded	主要为水下重建工程及专项退化模型，摘要未拆出跨场景作用。
+152415	WATERFALL: Workflow for Adaptive Training with Evolutionary Reward Formulation and Automated Learning Loops	https://neurips.cc/virtual/2026/poster/152415	excluded	主要是自动奖励合成流程，摘要缺单一可复用部件的独立证据。
+148799	Watermarking as a Learned Intrinsic Property of Diffusion Models	https://neurips.cc/virtual/2026/poster/148799	excluded	主要为模型水印联合训练，摘要未给可迁移性能机制。
+154859	Watermarking Game-Playing Agents in Perfect-Information Extensive-Form Games	https://neurips.cc/virtual/2026/poster/154859	excluded	主要为游戏智能体水印，有监督证据局限棋局。
+140006	Watermarking Should Be Treated as a Monitoring Primitive	https://neurips.cc/virtual/2026/poster/140006	excluded	主要为水印属性风险与治理，摘要未给重点可复用技术。
+140044	Watermarking Without Standards Is Not AI Governance	https://neurips.cc/virtual/2026/poster/140044	excluded	主要为水印部署规范与治理。
+154806	WavCIL: Wavelet Coefficient-Domain Invariant Learning for Dynamic Graph OOD Generalization	https://neurips.cc/virtual/2026/poster/154806	excluded	主要为时变图小波不变性任务，未独立验证重点领域。
+154358	Wavefunction Flows: Efficient Quantum Simulation of Continuous Flow Models	https://neurips.cc/virtual/2026/poster/154358	excluded	主要为连续流和量子模拟理论映射。
+152293	WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning	https://neurips.cc/virtual/2026/poster/152293	included	端到端音频生成用内部谱轨迹约束波形
+150773	Wavelet Flow Matching for Multi-Scale Physics Emulation	https://neurips.cc/virtual/2026/poster/150773	included	多尺度动力学在小波系数空间对齐生成速度
+152557	WaveletLoRA: Frequency-Aware Content-Style Decomposition for Personalized Image Generation	https://neurips.cc/virtual/2026/poster/152557	included	个性生成分开衡量内容与风格干扰
+151756	WaveMamba: Wave-Inspired Cross-Modal Fusion for Robust event-image Semantic Segmentation	https://neurips.cc/virtual/2026/poster/151756	included	事件相机和图像融合可在谱域门控
+153446	WaveSem: Frequency-Adaptive Tokenization for Disentangling Semantics and Noise in Genomics	https://neurips.cc/virtual/2026/poster/153446	excluded	主要涉及基因组信号表征，未单列安全通用评估。
+152430	WavFlow: Flowing Through Waveforms for Audio Generation	https://neurips.cc/virtual/2026/poster/152430	included	多模态音频生成比较直接波形和 latent 路线
+150632	WavNAF: Learning Wave Propagation Priors for Neural Acoustic Fields	https://neurips.cc/virtual/2026/poster/150632	excluded	主要为声学场物理缩放，摘要无可核对的独立通用效应。
+139649	WAXAL: A Large-Scale Multilingual African Language Speech Corpus	https://neurips.cc/virtual/2026/poster/139649	excluded	主要为多语语音数据规模与资源发布，缺少具体新机制。
+148786	Wayfinder: Adaptive Resource Routing from Agent Citations	https://neurips.cc/virtual/2026/poster/148786	included	联邦检索将引用反馈用于路由。
+139468	WayPOP: A Panoramic Open-Set Panoptic Tracking Benchmark	https://neurips.cc/virtual/2026/poster/139468	included	开放集全景追踪分别验已知与未知对象。
+153732	Weakly Supervised Concept Learning for Interpreting and Attributing LVLM Predictions	https://neurips.cc/virtual/2026/poster/153732	included	视觉语言概念向量可用文本弱监督。
+148562	Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery	https://neurips.cc/virtual/2026/poster/148562	included	跨视定位在 patch 网格建可替换部件头。
+139782	WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents	https://neurips.cc/virtual/2026/poster/139782	included	网页代理评测包含自托管多媒体应用并隔离任务。
+154891	WebNavigator: Global Web Navigation via Interaction Graph Retrieval	https://neurips.cc/virtual/2026/poster/154891	included	已知界面导航重用可审计交互图。
+156054	WebSpatial: A Benchmarking Framework of Spatial Intelligence via Web-based Runtime Environments	https://neurips.cc/virtual/2026/poster/156054	included	空间理解题从可执行场景直接取标准答案。
+151135	WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos	https://neurips.cc/virtual/2026/poster/151135	included	动态高斯用预训结构轨迹拟合运动样条。
+150203	Weighted Conformal Clustering	https://neurips.cc/virtual/2026/poster/150203	included	聚类置信集校正代理标签到潜标签。
+149926	Weighted Sampling for Online Causal Discovery	https://neurips.cc/virtual/2026/poster/149926	included	在线结构学习维护竞争的图后验。
+140014	Weight Space Learning needs to unify benchmarking! A taxonomy of evaluation practices	https://neurips.cc/virtual/2026/poster/140014	excluded	分类与同行评估倡议未建立独立可复用机制。
+154050	Weird Generalization from Narrow Finetuning: Persona Shifts and Inductive Backdoors	https://neurips.cc/virtual/2026/poster/154050	included	窄域微调发布前跨域做安全回归。
+152026	Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs	https://neurips.cc/virtual/2026/poster/152026	included	时序图传播保持沿合法时间序的事件路径。
+150655	Weisfeiler-Leman Is Incomplete on Simple Spectrum Graphs, so Canonicalize Them	https://neurips.cc/virtual/2026/poster/150655	included	需要相同图稳定给 ID 时审查 WL 表达不足。
+138896	Welfare, Improvability, and Variance: A Principal-Agent Approach to Optimal Benchmark Item Aggregation	https://neurips.cc/virtual/2026/poster/138896	included	benchmark 加权同时考虑任务价值、可改和方差。
+140114	We Need to Improve Benchmarks in AI for Mathematics	https://neurips.cc/virtual/2026/poster/140114	excluded	论文属于数学 AI 评估立场，摘要未独立验证技术机制。
+140001	We Need to Rethink Benchmarking in Anomaly Detection	https://neurips.cc/virtual/2026/poster/140001	excluded	论文属于异常评测立场，摘要未给经独立验证的替代评估机制。
+140062	We Should Distinguish Unlearning From Untraining	https://neurips.cc/virtual/2026/poster/140062	excluded	论文提出术语及评估区分，摘要未给可独立复用方法或证据。
+155041	What are Key Factors for Updates in RL for LLM Reasoning?	https://neurips.cc/virtual/2026/poster/155041	included	同一 rollout 多次更新时按 token 组调 clipping。
+148855	What Arranges Features in Activation Space?  Non-Classical Predictive Geometry in Next-Token Predictors	https://neurips.cc/virtual/2026/poster/148855	included	解释下一个 token 状态时区分统计特征和信念几何。
+155411	What Can Labels Alone Audit and Edit in Frozen Representations?	https://neurips.cc/virtual/2026/poster/155411	included	只有标签时先拟合标签充分的低维部分，再审计残差。
+150992	What Claims Do LLM Benchmark Scores Support?	https://neurips.cc/virtual/2026/poster/150992	included	将基准分数转换为可证声明前做同源反事实。
+154524	What Cohort INRs Encode, and Where to Freeze Them	https://neurips.cc/virtual/2026/poster/154524	included	隐式表示迁移时用权重稳定秩选择冻结深度。
+155030	What Comes Next and Why: Interpretable Next-Event Prediction with Neuro-Symbolic Rules	https://neurips.cc/virtual/2026/poster/155030	included	用可读序列规则加残差预测事件。
+139816	What DNA Foundation Models Learn Beyond Sequence Composition	https://neurips.cc/virtual/2026/poster/139816	excluded	聚焦基因序列模型表示，不提取可用于生物序列设计或功能优化的证据。
+151749	What Do Audio Models Really Hear? Layer Selection and Mechanistic Structure in Sound Representations	https://neurips.cc/virtual/2026/poster/151749	included	音频编码器裁剪前找保留目标证据的最早层。
+150770	What do EEG Foundation Models Capture from Human Brain Signals?	https://neurips.cc/virtual/2026/poster/150770	included	脑电模型审计分开问能读出、实际使用与已知特征解释。
+149367	What does a Bayes-filtered transformer believe? A predictive Monte Carlo approach	https://neurips.cc/virtual/2026/poster/149367	excluded	贝叶斯滤波 Transformer 的解释重点在多个风格化任务，摘要未给通用迁移结果。
+150120	What Does an Observability Forecasting Foundation Model Know?	https://neurips.cc/virtual/2026/poster/150120	included	时序表征即使可读出，仍需独立验证能否用于控制。
+149772	What Does a Sparse Autoencoder Feature Do? A Weight-Based Account	https://neurips.cc/virtual/2026/poster/149772	included	稀疏特征分析结合权重方向和定向消融。
+155923	What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models	https://neurips.cc/virtual/2026/poster/155923	excluded	临床伦理覆盖研究缺少机制对照，主要是特定领域审查。
+151889	What Does the Brain See? Multiview Neural Representation to Demystify the Brain-Visual Alignment	https://neurips.cc/virtual/2026/poster/151889	excluded	脑电视觉解码的多视角模块组合未有摘要内独立迁移证据。
+151242	What Do SAE Features Encode? Evidence from Human Neural Activity	https://neurips.cc/virtual/2026/poster/151242	excluded	与人类脑活动的对应可作补充，但摘要未给可直接决定模型设计的验证边界。
+149806	What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models	https://neurips.cc/virtual/2026/poster/149806	included	组合生成对照连续与离散训练目标，并控制组成信息完整度。
+139128	What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective	https://neurips.cc/virtual/2026/poster/139128	excluded	摘要指出适配依赖偏移类型，但未列足够具体可迁移的模块对照。
+149540	What Fits (Into Few Tokens) Doesn't Overfit:  Compression and Generalization in ML Research Agents	https://neurips.cc/virtual/2026/poster/149540	included	用极短策略描述交给独立代理重做，检验实验成功可否复用。
+139717	What Gets Measured Gets Managed: Sign-aware Recommendation Needs Sign-aware Evaluation	https://neurips.cc/virtual/2026/poster/139717	included	推荐评估单独测对负反馈内容的前列曝光。
+154094	What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation	https://neurips.cc/virtual/2026/poster/154094	excluded	人机交互图像理解的生成与解释数据组合未给独立迁移证据。
+156666	"""What is Different Between These Datasets?"" A Framework for Explaining Data Distribution Shifts"	https://neurips.cc/virtual/2026/poster/156666	included	域差异审计用人可读的子群差异补充总体距离。
+149925	What Is Worth Representing? Representational Empowerment for Continual Model Construction	https://neurips.cc/virtual/2026/poster/149925	included	持续代理按候选内部表征能提升多少未来规划能力选择记忆。
+154141	What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching	https://neurips.cc/virtual/2026/poster/154141	included	像素流预测可将低阶输入分量走旁路
+155057	What Kind of Diffusion Models Do We Need in Online Reinforcement Learning?	https://neurips.cc/virtual/2026/poster/155057	excluded	摘要未具体说明双流耦合的独立设计和各任务边界。
+149855	What Makes a Good Path? Factoring Manifold Support and Path Geometry	https://neurips.cc/virtual/2026/poster/149855	excluded	主要在合成流形和三维插值验证，未单列重点规划迁移。
+152187	What Makes Two States the Same? Value-Aware State Matching for Multi-Turn Agent Credit Assignment	https://neurips.cc/virtual/2026/poster/152187	included	跨轨迹信用按连续价值相似度匹配状态
+155642	What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion	https://neurips.cc/virtual/2026/poster/155642	excluded	摘要没有明确先验匹配的独立控制，邻近已保留多种视觉 latent 设计。
+154858	What MLLMs Learn about When they Learn about Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/154858	included	多模态进展跟踪错误类型占比
+153263	What Probing Reveals about Autonomous Driving: Better Predictions Lead to Better Planning	https://neurips.cc/virtual/2026/poster/153263	included	驾驶策略在危险事件中测内部预测时机
+149388	What Remains in Sight? Autoregressive Video Decoding as Representation-Guided Context Rewriting	https://neurips.cc/virtual/2026/poster/149388	excluded	摘要未展开重写上下文机制的具体效果与边界。
+148503	What’s Holding Back Latent Visual Reasoning?	https://neurips.cc/virtual/2026/poster/148503	included	潜在视觉推理将表示是否有用与预测是否到位拆开
+149000	What Should a Streaming Video Model Remember?	https://neurips.cc/virtual/2026/poster/149000	included	流媒体接收固定容量的可选择历史
+156753	What Should Embeddings Embed? Autoregressive Models Represent Latent Generating Distributions	https://neurips.cc/virtual/2026/poster/156753	excluded	主要验证潜主题分布和主题嵌入，当前技术选型缺少直接对照。
+148944	What should post-training optimize? A test-time scaling law perspective	https://neurips.cc/virtual/2026/poster/148944	excluded	与已有 Best-of-N 尾部条目机制网络高度相关，摘要未列估算对照数字。
+154621	What Should Remain After Forgetting? Rethinking LLM Unlearning as Predictive Posterior Correction	https://neurips.cc/virtual/2026/poster/154621	excluded	主要针对去学习专项，摘要未给保留近因及实际部署威胁的通用证据。
+148945	What’s in a Smoothness Constant? Tight Rates for Local SGD with Bounded Second-order Heterogeneity	https://neurips.cc/virtual/2026/poster/148945	excluded	主要是本地 SGD 收敛理论，未验证重点训练场景。
+152640	What Sketches Tell Us about LVLMs: Conventions, Grounding, and Localisation	https://neurips.cc/virtual/2026/poster/152640	excluded	主要为草图视觉诊断特定场景，未验证定位头选择的通用性。
+148227	What Sound Tells You About the Room	https://neurips.cc/virtual/2026/poster/148227	excluded	主要为从声音恢复房间几何的工程整体，没有分项迁移证据。
+148165	What Stops SGD on LLM Pre-Training: The Need for Large Learning Rate and How to Achieve it	https://neurips.cc/virtual/2026/poster/148165	included	大批互联网语言预训练评估可稳定高学习率的 SGD
+139306	What Survival Benchmarks Don’t Tell You: Impact of Model Selection and Dataset Regimes	https://neurips.cc/virtual/2026/poster/139306	excluded	主要针对生存预测评估，未给重点时序控制选择验证。
+155858	What the Geometry of Good Models Tells Us	https://neurips.cc/virtual/2026/poster/155858	excluded	主要为表格模型简化理论，未验证当前深度场景。
+154392	What Time Is It? How Data Geometry Makes Time Conditioning Optional for Flow Matching	https://neurips.cc/virtual/2026/poster/154392	included	流匹配先查耦合再增时间条件
 154627	What to Forget in Unlearning? Forget Set Curation for Language Models	https://neurips.cc/virtual/2026/poster/154627	pending	-
 150201	What to Perturb, How to Propagate: A Graph-Guided Transferable Attack on VLP Models	https://neurips.cc/virtual/2026/poster/150201	pending	-
 156036	What to Predict for Efficient Scheduling on Parallel Machines	https://neurips.cc/virtual/2026/poster/156036	pending	-

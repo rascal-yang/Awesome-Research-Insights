@@ -633,5 +633,8 @@ Model-wide design and information flow.
 - [Virtual Head Attention](../../conferences/neurips-2026/cards-0012.md#paper-155297)
 - [Virtual Task Prompting for Multi-Task Scene Understanding](../../conferences/neurips-2026/cards-0012.md#paper-154323)
 - [Vision Correlators: Correlation-Driven Visual Understanding with Hypergraphs](../../conferences/neurips-2026/cards-0012.md#paper-152069)
+- [VTV-FM: Flow Matching through Variational Terminal-Velocity Closure](../../conferences/neurips-2026/cards-0012.md#paper-152736)
+- [WaveMamba: Wave-Inspired Cross-Modal Fusion for Robust event-image Semantic Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-151756)
+- [What Comes Next and Why: Interpretable Next-Event Prediction with Neuro-Symbolic Rules](../../conferences/neurips-2026/cards-0012.md#paper-155030)
 
 <!-- conference-classification:end -->

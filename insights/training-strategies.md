@@ -1036,5 +1036,13 @@
 - [VisionCreator-R1: A Reflection-Enhanced Native Visual-Generation Agentic Model](../conferences/neurips-2026/cards-0012.md#paper-148251)
 - [Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation](../conferences/neurips-2026/cards-0012.md#paper-151295)
 - [Visual Instruction Tuning Aligns Modalities through Abstraction](../conferences/neurips-2026/cards-0012.md#paper-150518)
+- [VLM$^3$: Vision Language Models Are Native 3D Learners](../conferences/neurips-2026/cards-0012.md#paper-152219)
+- [Volatility-Whitened Probabilistic Residual Modeling for Long-Term Time Series Forecasting](../conferences/neurips-2026/cards-0012.md#paper-155322)
+- [VUM: Visual Unified Models for Image Generation and Perception](../conferences/neurips-2026/cards-0012.md#paper-152296)
+- [Watching Itself Watch: Self-Auditing Visual Reliance for Video Reasoning](../conferences/neurips-2026/cards-0012.md#paper-152190)
+- [WaveletLoRA: Frequency-Aware Content-Style Decomposition for Personalized Image Generation](../conferences/neurips-2026/cards-0012.md#paper-152557)
+- [What Cohort INRs Encode, and Where to Freeze Them](../conferences/neurips-2026/cards-0012.md#paper-154524)
+- [What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models](../conferences/neurips-2026/cards-0012.md#paper-149806)
+- [What Stops SGD on LLM Pre-Training: The Need for Large Learning Rate and How to Achieve it](../conferences/neurips-2026/cards-0012.md#paper-148165)
 
 <!-- conference-classification:end -->

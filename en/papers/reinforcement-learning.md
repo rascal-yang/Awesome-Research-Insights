@@ -745,5 +745,6 @@ Learning from interaction, feedback, and offline experience.
 - [Variational Consequence-Driven Offline Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-149599)
 - [VIGOR: Zero-Shot Visual Generalization via Latent-Space Consistency in Model-Based Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-153294)
 - [Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along](../../conferences/neurips-2026/cards-0012.md#paper-152359)
+- [What Is Worth Representing? Representational Empowerment for Continual Model Construction](../../conferences/neurips-2026/cards-0012.md#paper-149925)
 
 <!-- conference-classification:end -->

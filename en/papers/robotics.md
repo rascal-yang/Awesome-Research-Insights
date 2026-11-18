@@ -910,5 +910,11 @@ Robot perception, policy learning, planning, and control.
 - [URDF-Anything+: End-to-End Generation for Simulation-Ready Articulated Assets](../../conferences/neurips-2026/cards-0012.md#paper-150077)
 - [VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation](../../conferences/neurips-2026/cards-0012.md#paper-153885)
 - [VISTA: Support-Anchored Value Targeting for Fast Flow-Based Vision-Language-Action Policies](../../conferences/neurips-2026/cards-0012.md#paper-148918)
+- [Visual Robustness and Neural Alignment in a Shared Foraging Task: The Mouse vs. AI Benchmark](../../conferences/neurips-2026/cards-0012.md#paper-139189)
+- [VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon](../../conferences/neurips-2026/cards-0012.md#paper-149247)
+- [VLAN: Vision-Language Accessible Navigation](../../conferences/neurips-2026/cards-0012.md#paper-138986)
+- [VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](../../conferences/neurips-2026/cards-0012.md#paper-155119)
+- [VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation](../../conferences/neurips-2026/cards-0012.md#paper-152277)
+- [What Probing Reveals about Autonomous Driving: Better Predictions Lead to Better Planning](../../conferences/neurips-2026/cards-0012.md#paper-153263)
 
 <!-- conference-classification:end -->
