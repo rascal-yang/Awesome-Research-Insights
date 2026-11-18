@@ -869,5 +869,10 @@
 - [Revisiting Diffusion Model Predictions Through Dimensionality](../conferences/neurips-2026/cards-0010.md#paper-153192)
 - [Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation](../conferences/neurips-2026/cards-0010.md#paper-156114)
 - [Revisiting the Adam–SGD Gap Beyond Single Factors](../conferences/neurips-2026/cards-0010.md#paper-150610)
+- [Riemannian Optimization for Low-Rank Adaptation via Desingularization](../conferences/neurips-2026/cards-0010.md#paper-150239)
+- [Robust and Efficient Finetuning of Vision Foundation Models via Implicit Ensembling](../conferences/neurips-2026/cards-0010.md#paper-154510)
+- [Robust Domain Generalization under Divergent Marginal and Conditional Distributions](../conferences/neurips-2026/cards-0010.md#paper-154718)
+- [Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime](../conferences/neurips-2026/cards-0010.md#paper-155471)
+- [ROLLVERIFY: BRIDGING EFFICIENCY AND ACCURACY IN LONG-TAIL ROLLOUT REINFORCEMENT LEARNING](../conferences/neurips-2026/cards-0010.md#paper-154033)
 
 <!-- conference-classification:end -->

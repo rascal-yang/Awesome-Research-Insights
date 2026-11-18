@@ -828,5 +828,13 @@
 - [Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation](../conferences/neurips-2026/cards-0010.md#paper-156114)
 - [ReVMap: Vectorized Global Mapping via Connectivity-Aware Local Map Fusion](../conferences/neurips-2026/cards-0010.md#paper-152372)
 - [Reward-free Pretraining for Reinforcement Learning via Occupancy Coverage Maximization](../conferences/neurips-2026/cards-0010.md#paper-148947)
+- [Right Results, Wrong Reasons: Auditing Behavioral Reliance in Motion Forecasting](../conferences/neurips-2026/cards-0010.md#paper-139732)
+- [RigidFormer: Learning Rigid Dynamics using Transformers](../conferences/neurips-2026/cards-0010.md#paper-152768)
+- [Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees](../conferences/neurips-2026/cards-0010.md#paper-148872)
+- [RoboExo: Structure-Guided Wrist-to-Exocentric Video Generation for Scalable Robot Learning](../conferences/neurips-2026/cards-0010.md#paper-154097)
+- [RoboWits: Unexpected Challenges for Robotic Creative Problem Solving](../conferences/neurips-2026/cards-0010.md#paper-139850)
+- [Robust Task-Aware State Estimation from Pre-trained Perception](../conferences/neurips-2026/cards-0010.md#paper-151606)
+- [ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-151797)
+- [RotVLA: Rotational Latent Action for Vision-Language-Action Model](../conferences/neurips-2026/cards-0010.md#paper-152079)
 
 <!-- conference-classification:end -->

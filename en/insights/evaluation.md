@@ -1648,5 +1648,15 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Revisiting "Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing"](../../conferences/neurips-2026/cards-0010.md#paper-157015)
 - [Revisiting Incremental Learning: A Three-Interface Diagnosis of Stability and Plasticity](../../conferences/neurips-2026/cards-0010.md#paper-150119)
 - [Reward Bias Substitution: Single-Axis Bias Mitigations Redirect Optimization Pressure](../../conferences/neurips-2026/cards-0010.md#paper-154792)
+- [Rich Insights from Cheap Signals: Efficient Evaluations via Tensor Factorization](../../conferences/neurips-2026/cards-0010.md#paper-138936)
+- [Right Results, Wrong Reasons: Auditing Behavioral Reliance in Motion Forecasting](../../conferences/neurips-2026/cards-0010.md#paper-139732)
+- [RISE-Video: Can Video Generators Decode Implicit World Rules?](../../conferences/neurips-2026/cards-0010.md#paper-139505)
+- [RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades](../../conferences/neurips-2026/cards-0010.md#paper-139631)
+- [RoboWits: Unexpected Challenges for Robotic Creative Problem Solving](../../conferences/neurips-2026/cards-0010.md#paper-139850)
+- [RobustGenBench: A Benchmark for Robust Generalization to Adversarial and Common Perturbations, with Applications to Vision and Vision-Enabled Large Language Models](../../conferences/neurips-2026/cards-0010.md#paper-139536)
+- [Robustness of Internal Signals for Hallucination Detection in Vision-Language Models](../../conferences/neurips-2026/cards-0010.md#paper-139199)
+- [RobustStress: Stress-Testing AI-Generated Text Detectors under Gradual Perturbations](../../conferences/neurips-2026/cards-0010.md#paper-139092)
+- [Robust Surrogate Modeling for Explainable Graph Neural Networks](../../conferences/neurips-2026/cards-0010.md#paper-155571)
+- [Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection](../../conferences/neurips-2026/cards-0010.md#paper-139509)
 
 <!-- conference-classification:end -->

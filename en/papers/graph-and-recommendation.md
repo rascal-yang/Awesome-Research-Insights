@@ -337,5 +337,6 @@ Graph models, knowledge graphs, and recommender systems.
 - [Regularization Paths for Continuous DAG Learning](../../conferences/neurips-2026/cards-0010.md#paper-150245)
 - [Return to Basics: Very Simple Graph Contrastive Learning via Noise Cancellation Principle](../../conferences/neurips-2026/cards-0010.md#paper-151575)
 - [Reusable Conditional Resampling via Flow Matching for Constraint-Based Causal Discovery](../../conferences/neurips-2026/cards-0010.md#paper-153712)
+- [Robust Surrogate Modeling for Explainable Graph Neural Networks](../../conferences/neurips-2026/cards-0010.md#paper-155571)
 
 <!-- conference-classification:end -->

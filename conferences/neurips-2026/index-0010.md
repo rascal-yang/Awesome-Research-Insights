@@ -357,3 +357,79 @@
 | 强化学习与决策 | 强化学习与奖励 | [Reward-Conditioned Reinforcement Learning](cards-0010.md#paper-151928) | 奖励偏好部署变化时用同一 replay 多目标重标 |
 | 智能体 | 强化学习与奖励 | [RewardFlow: Topology-Aware Reward Propagation on State Graphs  for Agentic RL with LLMs](cards-0010.md#paper-148702) | 重复到达状态的多条路径可建立共享信用图 |
 | 具身智能与机器人 | 强化学习与奖励 | [Reward-free Pretraining for Reinforcement Learning via Occupancy Coverage Maximization](cards-0010.md#paper-148947) | 无外部奖励预训练用占用覆盖及未知状态代理 |
+| 大语言模型 | 奖励设计 | [Reward Hacking in Rubric-Based Reinforcement Learning](cards-0010.md#paper-154025) | 审核量表强化学习时分别量评委与规则失配。 |
+| 强化学习 | 奖励设计 | [Reward Inflation: A Healthy Stimulus for Reinforcement Learning](cards-0010.md#paper-149798) | 当策略饱和且神经元休眠时测试渐进奖励缩放。 |
+| 生成模型 | 强化学习 | [Reward Is Not a Universal Interface for Generative Reinforcement Learning](cards-0010.md#paper-150638) | 混合生成器共享奖励，但各分支使用各自更新对象。 |
+| 智能体与工具使用 | 奖励设计 | [Reward Modeling for Multi-Agent Orchestration](cards-0010.md#paper-155004) | 多代理协调器可从中间产物学低成本评分。 |
+| 生成模型 | 奖励设计 | [Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models](cards-0010.md#paper-155927) | 比较扩散奖励微调拆价值估计与各步优化强度。 |
+| 智能体与工具使用 | 奖励设计 | [Reward Shaping to Improve Language Model Query Generation](cards-0010.md#paper-150900) | 查询生成将终局正确性转换为逐 token 信号。 |
+| 生成模型 | 流匹配 | [Reweighted Flow Matching via Unbalanced Optimal Transport for Label-free Long-tailed Generation](cards-0010.md#paper-151660) | 类别无标签时按非平衡运输估长尾补偿权。 |
+| 智能体与工具使用 | 搜索与规划 | [RGF: Recursive Generative Framework for the Edge-Cut Separable Problems](cards-0010.md#paper-152119) | 图约束问题先决定割边状态再并行解子图。 |
+| 生成模型 | 损失函数 | [R-GRec: Relation-Guided Generative Recommendation via Collaborative Graph Supervision](cards-0010.md#paper-155169) | 生成序列目标用协同图监督补对内关系。 |
+| 模型效率与系统 | 采样与推理 | [RheoSampling: Resolving the One-Hot Dilemma in Stochastic Dynamic-Tree Speculative Decoding](cards-0010.md#paper-152884) | 随机推测解码区分树构造与校验分布。 |
+| 智能体与工具使用 | 奖励设计 | [RICE-PO: Turning Retrieval Interactions into Credit Signals for Reasoning Agents](cards-0010.md#paper-155818) | 检索里的潜推理只在影响工具动作时接受局部信用。 |
+| 深度学习 | 架构设计 | [Richer or More Gates? Fan-In Trade-offs in Learnable Logic Circuits](cards-0010.md#paper-153492) | 可学习逻辑门按任务选输入宽度与门数。 |
+| 深度学习 | 评测与诊断 | [Rich Insights from Cheap Signals: Efficient Evaluations via Tensor Factorization](cards-0010.md#paper-138936) | 少量人工标注用于校准细粒度自动评估。 |
+| 强化学习 | 约束优化 | [Riemannian Admissibility Flow for Offline-to-Online Safe Reinforcement Learning](cards-0010.md#paper-155552) | 离线转在线先修策略概率质量可行性。 |
+| 深度学习 | 优化算法 | [Riemannian Bilevel Optimization under the Polyak–Łojasiewicz Condition](cards-0010.md#paper-154402) | 低层 Hessian 退化时选正则切空间超梯度。 |
+| 深度学习 | 优化算法 | [Riemannian Lyapunov Framework: Optimization as Closed-Loop Control on Riemannian Manifolds](cards-0010.md#paper-155509) | 在流形优化用闭环扰动指标验参数轨迹。 |
+| 模型效率与系统 | 参数高效微调 | [Riemannian Optimization for Low-Rank Adaptation via Desingularization](cards-0010.md#paper-150239) | LoRA 更新用平滑有界秩表示。 |
+| 计算机视觉 | 图像恢复 | [RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement](cards-0010.md#paper-154640) | 频闪条纹恢复仅在受损区强化监督。 |
+| 计算机视觉 | 模型架构 | [Rigel3D: Rig-aware Latents for Animation-Ready 3D Asset Generation](cards-0010.md#paper-148245) | 生成可动画资产时同时建模骨架和表面。 |
+| 机器人学 | 评测与诊断 | [Right Results, Wrong Reasons: Auditing Behavioral Reliance in Motion Forecasting](cards-0010.md#paper-139732) | 轨迹预测应加入逐代理移除行为审计。 |
+| 机器人学 | 模型架构 | [RigidFormer: Learning Rigid Dynamics using Transformers](cards-0010.md#paper-152768) | 多物体模拟采用物体级状态，并将更新投影回刚体运动。 |
+| 计算机视觉 | 模型架构 | [RigRecon: Efficient Rig-Aware Street Reconstruction via Dual-Path Spatio-Temporal Interaction](cards-0010.md#paper-152889) | 把全局多视图交互与高分辨率逐帧解码拆开。 |
+| 机器学习基础与统计 | 数据策略 | [Ripple in Still Water: Zero-Shot Clustering in Heterogeneous Federated Learning with Wavelet Scattering Transform](cards-0010.md#paper-150906) | 异质联邦学习可先离线聚类客户端，再训练各组模型。 |
+| 计算机视觉 | 表征学习 | [RiSE: Residual Subspace Expert for Generalizable Text-Centric Image Forgery Localization](cards-0010.md#paper-153544) | 全量微调损伤域外检测时，保留骨干并按痕迹分配残差专家。 |
+| 计算机视觉 | 评测与诊断 | [RISE-Video: Can Video Generators Decode Implicit World Rules?](cards-0010.md#paper-139505) | 视频生成应按隐式规则满足度和视觉质量分别评分。 |
+| 机器人学 | 强化学习方法 | [Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees](cards-0010.md#paper-148872) | 在部分可观测规划中，用信念内即时成本的尾部作为一步成本。 |
+| 强化学习 | 强化学习方法 | [Risk-Aware Action Repetition via Expected Skip Evaluation](cards-0010.md#paper-154864) | 估计动作重复的价值时，按训练期实际后续策略计算而非假设它立即贪心。 |
+| 大语言模型 | 推理策略 | [Risk-Calibrated Context Selection for Healthcare Multi-Agent Handoff](cards-0010.md#paper-154212) | 代理交接先按授权硬过滤，再在风险约束下选最小必要上下文。 |
+| 机器学习基础与统计 | 推理策略 | [Risk-Controlled Post-Processing of Decision Policies](cards-0010.md#paper-154732) | 需要保留已有决策时，只在替代决策显著降低条件风险的上下文触发切换。 |
+| 大语言模型 | 强化学习与奖励 | [RL Excursions during Pre-training: How early is too early for on-policy learning?](cards-0010.md#paper-153521) | 比较早期 RL 与先 SFT 再 RL 的探索形态 |
+| 智能体 | 记忆与检索 | [RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory](cards-0010.md#paper-152090) | 长时记忆分别对时间关系和语义索引 |
+| 强化学习与决策 | 强化学习与奖励 | [RL-Inf: Tracking Non-local Training Data Influence for Online Reinforcement Learning](cards-0010.md#paper-152424) | 在线 RL 数据贡献需计入它改变未来采样的影响 |
+| 智能体 | 评测与诊断 | [RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades](cards-0010.md#paper-139631) | 软件智能体验收加入跨版本功能升级 |
+| 具身智能与机器人 | 生成与扩散 | [RoboExo: Structure-Guided Wrist-to-Exocentric Video Generation for Scalable Robot Learning](cards-0010.md#paper-154097) | 只有腕部演示时对照生成外视角的策略训练价值 |
+| 具身智能与机器人 | 评测与诊断 | [RoboWits: Unexpected Challenges for Robotic Creative Problem Solving](cards-0010.md#paper-139850) | 操作中测试几何、材料和装配变化下的策略重组 |
+| 机器学习基础与统计 | 理论与统计 | [Robust Amortized Simulation-Based Inference via Learned Error Models](cards-0010.md#paper-151610) | 仿真后验推断同时学习模拟误差 |
+| 视觉与多模态 | 训练与优化 | [Robust and Efficient Finetuning of Vision Foundation Models via Implicit Ensembling](cards-0010.md#paper-154510) | 视觉微调按滚动快照混合少量更新 |
+| 深度学习 | 水印与溯源 | [Robust and Hard-to-Remove GNN Watermarking via Topological Invariant Perception](cards-0010.md#paper-152517) | 图网络水印用可学习内在图统计做归属。 |
+| 深度学习 | 模型鲁棒性 | [Robust and Scalable Collaborative Learning via Pull-Based Epidemic Communication](cards-0010.md#paper-149248) | 去中心协作训练按小随机邻居集拉取更新。 |
+| 模型效率与系统 | 检索增强 | [Robust Approximate Nearest Neighbor Search for Any Dataset](cards-0010.md#paper-150072) | 在线近邻服务需评自适应查询序列而非独立查询。 |
+| 生成模型 | 损失函数 | [Robust-by-Design Distributional Learning from Contaminated Samples](cards-0010.md#paper-154903) | 用少量精确审计校正弱标签污染下的分布损失。 |
+| 生成模型 | 模型鲁棒性 | [Robust Concept Unlearning in Diffusion Models via Directional Stability Regularization](cards-0010.md#paper-148206) | 概念擦除时加入目标方向局部稳定性测试。 |
+| 深度学习 | 不确定性估计 | [Robust Conditional Conformal Prediction via Branched Normalizing Flow](cards-0010.md#paper-149585) | 分布转移时先映到校准空间再映回集合。 |
+| 生成模型 | 损失函数 | [Robust Diffusion Models via Divergence-Induced Weighted Denoising](cards-0010.md#paper-152633) | 数据污染下将去噪 MSE 换成受控散度代理。 |
+| 深度学习 | 训练策略 | [Robust Domain Generalization under Divergent Marginal and Conditional Distributions](cards-0010.md#paper-154718) | 域泛化同时检测类先验和类内条件变动。 |
+| 生成模型 | 世界模型 | [Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation](cards-0010.md#paper-153543) | 动作控制视频将 3D 潜记忆与 rollout 偏差训练结合。 |
+| 生成模型 | 流匹配 | [Robust Flow Matching under Target Corruption and Label Noise](cards-0010.md#paper-153777) | 按污染类型选流匹配残差分数。 |
+| 多模态学习 | 评测与诊断 | [RobustGenBench: A Benchmark for Robust Generalization to Adversarial and Common Perturbations, with Applications to Vision and Vision-Enabled Large Language Models](cards-0010.md#paper-139536) | 跨架构比较同时分层验常见和不同范数下鲁棒。 |
+| 深度学习 | 图学习 | [Robust Graph Diffusion Model](cards-0010.md#paper-148741) | 图节点分类可用有标签合成局部结构增强防御。 |
+| 强化学习 | 注意力机制 | [Robust Hopfield Decision Transformer](cards-0010.md#paper-155374) | 离线策略受观测噪声时试用吸引子读出。 |
+| 机器学习理论 | 采样与推理 | [Robust Importance Sampling for Rare Events via Constrained Gaussian Mixtures](cards-0010.md#paper-149349) | 稀有失败采样先找覆盖再拟合，并限制尾部。 |
+| 强化学习 | 搜索与规划 | [Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning](cards-0010.md#paper-148746) | 层级多代理接新指令时允许中断并修正值。 |
+| 深度学习 | 优化算法 | [Robust Latent Space Bayesian Optimization with Marginalized Kernel](cards-0010.md#paper-150781) | 潜空间 BO 将编码后验不确定性纳入核。 |
+| 多模态学习 | 表征学习 | [Robust Multi-view Clustering against Imperfect Information](cards-0010.md#paper-156004) | 把跨视图缺失和错配都视作潜在对应。 |
+| 大语言模型 | 偏好优化 | [Robust Nash Alignment under Preference Uncertainty](cards-0010.md#paper-154554) | 偏好估计有歧义时报告认证的最坏下界。 |
+| 多模态学习 | 评测与诊断 | [Robustness of Internal Signals for Hallucination Detection in Vision-Language Models](cards-0010.md#paper-139199) | 幻觉检测加入纯位置基线并移动错误出现位置。 |
+| 强化学习 | 强化学习方法 | [Robust Offline Reinforcement Learning against Out-of-Distribution Dynamics in Autonomous Driving](cards-0010.md#paper-148793) | 在转移动力学变化的离线训练中，诊断并重加权重尾价值误差。 |
+| 大语言模型 | 强化学习方法 | [Robust Policy Optimization to Prevent Catastrophic Forgetting](cards-0010.md#paper-150750) | 在后续微调前优化对小量策略偏移稳定的奖励。 |
+| 多模态学习 | 推理策略 | [RobustPruner: Decoupled Relevance and Uncertainty for Efficient Visual Token Pruning in MLLMs](cards-0010.md#paper-153328) | 裁剪视觉 token 时将相关性、多样性与不确定性分开处理。 |
+| 机器学习基础与统计 | 推理策略 | [Robust Residual Correction via Selective Deployment for Time Series Forecasting](cards-0010.md#paper-154644) | 残差纠正只在留出验证支持净收益的条件下启用。 |
+| 机器学习基础与统计 | 优化 | [Robust Satisficing Ensemble: Scalable Model Aggregation Under Distribution Shifts](cards-0010.md#paper-149478) | 集成权重可依据分布偏移下的风险脆弱性选择。 |
+| 大语言模型 | 评测与诊断 | [RobustStress: Stress-Testing AI-Generated Text Detectors under Gradual Perturbations](cards-0010.md#paper-139092) | 内容检测应交叉测量扰动强度和分布变化，并画完整退化曲线。 |
+| 图学习 | 评测与诊断 | [Robust Surrogate Modeling for Explainable Graph Neural Networks](cards-0010.md#paper-155571) | 用适应解释时输入分布的代理估计图解释梯度。 |
+| 机器人学 | 推理策略 | [Robust Task-Aware State Estimation from Pre-trained Perception](cards-0010.md#paper-151606) | 从感知模型输出构造达到置信阈值的最小状态集合。 |
+| 机器学习基础与统计 | 优化 | [ROCKET: Rapid Optimization via Calibration-guided Knapsack-Enhanced Truncation for Efficient Model Compression](cards-0010.md#paper-154690) | 压缩预算按层用重建误差分配，并用闭式最小二乘修正单步因子。 |
+| 机器人学 | 表征学习 | [ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models](cards-0010.md#paper-151797) | VLA 多层对齐用共享投影来对齐两条残差流。 |
+| 大语言模型 | 训练策略 | [Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime](cards-0010.md#paper-155471) | 二元奖励强化学习可动态把组采样通过率调至中间区。 |
+| 大语言模型 | 训练策略 | [ROLLVERIFY: BRIDGING EFFICIENCY AND ACCURACY IN LONG-TAIL ROLLOUT REINFORCEMENT LEARNING](cards-0010.md#paper-154033) | 异步强化学习中在训练前校验轨迹前缀，截去发生较大策略偏移的后段。 |
+| 视觉与多模态 | 生成与扩散 | [Root-Selecting Fixed-Point Inversion for Rectified Flows via Trajectory Straightness](cards-0010.md#paper-151948) | 生成反演固定点有多个根时按轨迹直度选 |
+| 大语言模型 | 理论与统计 | [RoPE Is Not a Proper Relative Position Embedding](cards-0010.md#paper-140089) | 上下文位置方法比较直接测距离衰减 |
+| 大语言模型 | 效率与系统 | [RoSA: Rotational Sparse Adaptation for Memory-Efficient Fine-Tuning](cards-0010.md#paper-152759) | 微调阶段性轮转后部可训练块 |
+| 视觉与多模态 | 模型与架构 | [RoSeViT: Role-Separated Vision Transformers for ARC Visual Reasoning](cards-0010.md#paper-153254) | 视觉推理分开规则控制 token 与空间工作状态 |
+| 具身智能与机器人 | 模型与架构 | [RotVLA: Rotational Latent Action for Vision-Language-Action Model](cards-0010.md#paper-152079) | 跨形态预训练可用连续旋转潜动作 |
+| 大语言模型 | 评测与诊断 | [Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection](cards-0010.md#paper-139509) | 模型路由前测可路由空间和平局 |
+| 大语言模型 | 效率与系统 | [Route-Consistent Adaptation for Stable Quantization of Mixture-of-Experts Models with Theoretical Guarantees](cards-0010.md#paper-149368) | 量化 MoE 同时验收路由一致性 |
+| 大语言模型 | 模型与架构 | [Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts](cards-0010.md#paper-148374) | MoE 可用专家输入质心作路由对照 |

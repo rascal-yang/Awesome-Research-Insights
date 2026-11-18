@@ -901,5 +901,12 @@ Learning across modalities such as images, text, audio, and video.
 - [Revealing Epistemic Uncertainty in MLLMs via Causal-Invariant Masking](../../conferences/neurips-2026/cards-0010.md#paper-155863)
 - [Revealing the Gap in Human and VLM Scene Perception through Counterfactual Semantic Saliency](../../conferences/neurips-2026/cards-0010.md#paper-154819)
 - [Reviving the Discarded High-Resolution Feature for Transformer-Based Tiny Object Detection](../../conferences/neurips-2026/cards-0010.md#paper-151129)
+- [Robust and Efficient Finetuning of Vision Foundation Models via Implicit Ensembling](../../conferences/neurips-2026/cards-0010.md#paper-154510)
+- [RobustGenBench: A Benchmark for Robust Generalization to Adversarial and Common Perturbations, with Applications to Vision and Vision-Enabled Large Language Models](../../conferences/neurips-2026/cards-0010.md#paper-139536)
+- [Robust Multi-view Clustering against Imperfect Information](../../conferences/neurips-2026/cards-0010.md#paper-156004)
+- [Robustness of Internal Signals for Hallucination Detection in Vision-Language Models](../../conferences/neurips-2026/cards-0010.md#paper-139199)
+- [RobustPruner: Decoupled Relevance and Uncertainty for Efficient Visual Token Pruning in MLLMs](../../conferences/neurips-2026/cards-0010.md#paper-153328)
+- [Root-Selecting Fixed-Point Inversion for Rectified Flows via Trajectory Straightness](../../conferences/neurips-2026/cards-0010.md#paper-151948)
+- [RoSeViT: Role-Separated Vision Transformers for ARC Visual Reasoning](../../conferences/neurips-2026/cards-0010.md#paper-153254)
 
 <!-- conference-classification:end -->

@@ -1107,5 +1107,10 @@
 - [Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison](../conferences/neurips-2026/cards-0010.md#paper-149886)
 - [Revisiting Diffusion Model Predictions Through Dimensionality](../conferences/neurips-2026/cards-0010.md#paper-153192)
 - [Revisiting "Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing"](../conferences/neurips-2026/cards-0010.md#paper-157015)
+- [RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement](../conferences/neurips-2026/cards-0010.md#paper-154640)
+- [Rigel3D: Rig-aware Latents for Animation-Ready 3D Asset Generation](../conferences/neurips-2026/cards-0010.md#paper-148245)
+- [RigRecon: Efficient Rig-Aware Street Reconstruction via Dual-Path Spatio-Temporal Interaction](../conferences/neurips-2026/cards-0010.md#paper-152889)
+- [RiSE: Residual Subspace Expert for Generalizable Text-Centric Image Forgery Localization](../conferences/neurips-2026/cards-0010.md#paper-153544)
+- [RISE-Video: Can Video Generators Decode Implicit World Rules?](../conferences/neurips-2026/cards-0010.md#paper-139505)
 
 <!-- conference-classification:end -->

@@ -434,5 +434,7 @@ Reusable components and local changes to model inputs or connections.
 - [Rethinking the Mixture of Vision Encoders Paradigm for Enhanced Visual Understanding in Multimodal LLMs](../../conferences/neurips-2026/cards-0010.md#paper-156791)
 - [RETR: A Structure-Preserving RGB-Event Transformer for Robust 3D Lane Detection](../../conferences/neurips-2026/cards-0010.md#paper-151873)
 - [Retrieval Over Training: Similarity search-based Model Selection for Time Series Anomaly Detection](../../conferences/neurips-2026/cards-0010.md#paper-151927)
+- [RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory](../../conferences/neurips-2026/cards-0010.md#paper-152090)
+- [Robust Hopfield Decision Transformer](../../conferences/neurips-2026/cards-0010.md#paper-155374)
 
 <!-- conference-classification:end -->

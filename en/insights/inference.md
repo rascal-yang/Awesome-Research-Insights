@@ -1332,5 +1332,16 @@ Decoding, test-time adaptation, and efficient execution.
 - [Retrieve What’s Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation](../../conferences/neurips-2026/cards-0010.md#paper-148557)
 - [Reversing the Roles of Signal and Noise: Modeling Noise in Astronomical Images without Paired Data](../../conferences/neurips-2026/cards-0010.md#paper-150362)
 - [Revisiting Activation Steering Through an Optimization Lens](../../conferences/neurips-2026/cards-0010.md#paper-153961)
+- [RGF: Recursive Generative Framework for the Edge-Cut Separable Problems](../../conferences/neurips-2026/cards-0010.md#paper-152119)
+- [RheoSampling: Resolving the One-Hot Dilemma in Stochastic Dynamic-Tree Speculative Decoding](../../conferences/neurips-2026/cards-0010.md#paper-152884)
+- [Risk-Calibrated Context Selection for Healthcare Multi-Agent Handoff](../../conferences/neurips-2026/cards-0010.md#paper-154212)
+- [Risk-Controlled Post-Processing of Decision Policies](../../conferences/neurips-2026/cards-0010.md#paper-154732)
+- [RoboExo: Structure-Guided Wrist-to-Exocentric Video Generation for Scalable Robot Learning](../../conferences/neurips-2026/cards-0010.md#paper-154097)
+- [Robust Importance Sampling for Rare Events via Constrained Gaussian Mixtures](../../conferences/neurips-2026/cards-0010.md#paper-149349)
+- [Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-148746)
+- [RobustPruner: Decoupled Relevance and Uncertainty for Efficient Visual Token Pruning in MLLMs](../../conferences/neurips-2026/cards-0010.md#paper-153328)
+- [Robust Residual Correction via Selective Deployment for Time Series Forecasting](../../conferences/neurips-2026/cards-0010.md#paper-154644)
+- [Robust Task-Aware State Estimation from Pre-trained Perception](../../conferences/neurips-2026/cards-0010.md#paper-151606)
+- [Root-Selecting Fixed-Point Inversion for Rectified Flows via Trajectory Straightness](../../conferences/neurips-2026/cards-0010.md#paper-151948)
 
 <!-- conference-classification:end -->

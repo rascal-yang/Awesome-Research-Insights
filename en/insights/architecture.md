@@ -543,5 +543,12 @@ Model-wide design and information flow.
 - [Rethinking Projector Training in Multimodal LLMs](../../conferences/neurips-2026/cards-0010.md#paper-153944)
 - [Reviving the Discarded High-Resolution Feature for Transformer-Based Tiny Object Detection](../../conferences/neurips-2026/cards-0010.md#paper-151129)
 - [ReVMap: Vectorized Global Mapping via Connectivity-Aware Local Map Fusion](../../conferences/neurips-2026/cards-0010.md#paper-152372)
+- [Richer or More Gates? Fan-In Trade-offs in Learnable Logic Circuits](../../conferences/neurips-2026/cards-0010.md#paper-153492)
+- [Rigel3D: Rig-aware Latents for Animation-Ready 3D Asset Generation](../../conferences/neurips-2026/cards-0010.md#paper-148245)
+- [RigidFormer: Learning Rigid Dynamics using Transformers](../../conferences/neurips-2026/cards-0010.md#paper-152768)
+- [RigRecon: Efficient Rig-Aware Street Reconstruction via Dual-Path Spatio-Temporal Interaction](../../conferences/neurips-2026/cards-0010.md#paper-152889)
+- [RoSeViT: Role-Separated Vision Transformers for ARC Visual Reasoning](../../conferences/neurips-2026/cards-0010.md#paper-153254)
+- [RotVLA: Rotational Latent Action for Vision-Language-Action Model](../../conferences/neurips-2026/cards-0010.md#paper-152079)
+- [Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts](../../conferences/neurips-2026/cards-0010.md#paper-148374)
 
 <!-- conference-classification:end -->

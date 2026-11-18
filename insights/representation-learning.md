@@ -588,5 +588,8 @@
 - [Resolving Representation Ambiguity in Feedforward Novel View Synthesis Transformer via Semantic-Spatial Decoupling](../conferences/neurips-2026/cards-0010.md#paper-155192)
 - [Return to Basics: Very Simple Graph Contrastive Learning via Noise Cancellation Principle](../conferences/neurips-2026/cards-0010.md#paper-151575)
 - [Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison](../conferences/neurips-2026/cards-0010.md#paper-149886)
+- [RiSE: Residual Subspace Expert for Generalizable Text-Centric Image Forgery Localization](../conferences/neurips-2026/cards-0010.md#paper-153544)
+- [Robust Multi-view Clustering against Imperfect Information](../conferences/neurips-2026/cards-0010.md#paper-156004)
+- [ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-151797)
 
 <!-- conference-classification:end -->

@@ -389,5 +389,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Representation Fréchet Loss for Visual Generation](../../conferences/neurips-2026/cards-0010.md#paper-154990)
 - [Rethinking Contrastive Targets in Radiology Language-Image Pretraining](../../conferences/neurips-2026/cards-0010.md#paper-148888)
 - [Rethinking Learning from Label Proportions via Moment Matching](../../conferences/neurips-2026/cards-0010.md#paper-154686)
+- [R-GRec: Relation-Guided Generative Recommendation via Collaborative Graph Supervision](../../conferences/neurips-2026/cards-0010.md#paper-155169)
+- [Robust-by-Design Distributional Learning from Contaminated Samples](../../conferences/neurips-2026/cards-0010.md#paper-154903)
+- [Robust Diffusion Models via Divergence-Induced Weighted Denoising](../../conferences/neurips-2026/cards-0010.md#paper-152633)
 
 <!-- conference-classification:end -->

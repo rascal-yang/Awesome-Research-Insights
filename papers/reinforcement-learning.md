@@ -668,5 +668,12 @@
 - [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-151906)
 - [Rethinking Ratio-Based Trust Regions for Policy Optimization in Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-148870)
 - [Reward-Conditioned Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-151928)
+- [Reward Inflation: A Healthy Stimulus for Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149798)
+- [Riemannian Admissibility Flow for Offline-to-Online Safe Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-155552)
+- [Risk-Aware Action Repetition via Expected Skip Evaluation](../conferences/neurips-2026/cards-0010.md#paper-154864)
+- [RL-Inf: Tracking Non-local Training Data Influence for Online Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-152424)
+- [Robust Hopfield Decision Transformer](../conferences/neurips-2026/cards-0010.md#paper-155374)
+- [Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-148746)
+- [Robust Offline Reinforcement Learning against Out-of-Distribution Dynamics in Autonomous Driving](../conferences/neurips-2026/cards-0010.md#paper-148793)
 
 <!-- conference-classification:end -->

@@ -6728,126 +6728,126 @@ poster_id	title	paper_url	status	reason
 150355	Reward-Estimated Hypergradient for Bilevel Reinforcement Learning with Black-Box Follower	https://neurips.cc/virtual/2026/poster/150355	excluded	核心结论来自黑盒双层目标和特定近似，摘要未给具身控制中的可核对证据。
 148702	RewardFlow: Topology-Aware Reward Propagation on State Graphs  for Agentic RL with LLMs	https://neurips.cc/virtual/2026/poster/148702	included	重复到达状态的多条路径可建立共享信用图
 148947	Reward-free Pretraining for Reinforcement Learning via Occupancy Coverage Maximization	https://neurips.cc/virtual/2026/poster/148947	included	无外部奖励预训练用占用覆盖及未知状态代理
-154025	Reward Hacking in Rubric-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154025	pending	-
-149798	Reward Inflation: A Healthy Stimulus for Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149798	pending	-
-150638	Reward Is Not a Universal Interface for Generative Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150638	pending	-
-155004	Reward Modeling for Multi-Agent Orchestration	https://neurips.cc/virtual/2026/poster/155004	pending	-
-155927	Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models	https://neurips.cc/virtual/2026/poster/155927	pending	-
-150900	Reward Shaping to Improve Language Model Query Generation	https://neurips.cc/virtual/2026/poster/150900	pending	-
-151660	Reweighted Flow Matching via Unbalanced Optimal Transport for Label-free Long-tailed Generation	https://neurips.cc/virtual/2026/poster/151660	pending	-
-152119	RGF: Recursive Generative Framework for the Edge-Cut Separable Problems	https://neurips.cc/virtual/2026/poster/152119	pending	-
-155169	R-GRec: Relation-Guided Generative Recommendation via Collaborative Graph Supervision	https://neurips.cc/virtual/2026/poster/155169	pending	-
-152884	RheoSampling: Resolving the One-Hot Dilemma in Stochastic Dynamic-Tree Speculative Decoding	https://neurips.cc/virtual/2026/poster/152884	pending	-
-148419	RiboC2F: Pose-First Coarse-to-Fine Flow Matching for Protein-Conditioned RNA Co-Design	https://neurips.cc/virtual/2026/poster/148419	pending	-
-155818	RICE-PO: Turning Retrieval Interactions into Credit Signals for Reasoning Agents	https://neurips.cc/virtual/2026/poster/155818	pending	-
-153492	Richer or More Gates? Fan-In Trade-offs in Learnable Logic Circuits	https://neurips.cc/virtual/2026/poster/153492	pending	-
-138936	Rich Insights from Cheap Signals: Efficient Evaluations via Tensor Factorization	https://neurips.cc/virtual/2026/poster/138936	pending	-
-155552	Riemannian Admissibility Flow for Offline-to-Online Safe Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155552	pending	-
-154402	Riemannian Bilevel Optimization under the Polyak–Łojasiewicz Condition	https://neurips.cc/virtual/2026/poster/154402	pending	-
-155509	Riemannian Lyapunov Framework: Optimization as Closed-Loop Control on Riemannian Manifolds	https://neurips.cc/virtual/2026/poster/155509	pending	-
-150239	Riemannian Optimization for Low-Rank Adaptation via Desingularization	https://neurips.cc/virtual/2026/poster/150239	pending	-
-152577	Riemannian Ordinary Least Squares	https://neurips.cc/virtual/2026/poster/152577	pending	-
-154640	RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement	https://neurips.cc/virtual/2026/poster/154640	pending	-
-148245	Rigel3D: Rig-aware Latents for Animation-Ready 3D Asset Generation	https://neurips.cc/virtual/2026/poster/148245	pending	-
-139732	Right Results, Wrong Reasons: Auditing Behavioral Reliance in Motion Forecasting	https://neurips.cc/virtual/2026/poster/139732	pending	-
-152768	RigidFormer: Learning Rigid Dynamics using Transformers	https://neurips.cc/virtual/2026/poster/152768	pending	-
-155746	RIGOR: Risk-Gated Topology Adaptation for Robust LLM Multi-Agent Reasoning	https://neurips.cc/virtual/2026/poster/155746	pending	-
-153305	RigPAPR: Rig-Based Animation of Static Neural Point Clouds from a Single-View Video	https://neurips.cc/virtual/2026/poster/153305	pending	-
-152889	RigRecon: Efficient Rig-Aware Street Reconstruction via Dual-Path Spatio-Temporal Interaction	https://neurips.cc/virtual/2026/poster/152889	pending	-
-154332	RILA: A Radar-Native Structured Interface from Sparse mmWave Point Clouds to Large Language Models	https://neurips.cc/virtual/2026/poster/154332	pending	-
-139371	RipBench: A Unified Benchmark for Multi-Level Rip Current Detection, Classification and Segmentation	https://neurips.cc/virtual/2026/poster/139371	pending	-
-150906	Ripple in Still Water: Zero-Shot Clustering in Heterogeneous Federated Learning with Wavelet Scattering Transform	https://neurips.cc/virtual/2026/poster/150906	pending	-
-150390	RipplePLM: Structural and Property Decoupling for Protein Mutation Effect Generation	https://neurips.cc/virtual/2026/poster/150390	pending	-
-150661	RISE: Red-teaming via Iterative Strategy Evolution for Modern Text-to-Image Models	https://neurips.cc/virtual/2026/poster/150661	pending	-
-153544	RiSE: Residual Subspace Expert for Generalizable Text-Centric Image Forgery Localization	https://neurips.cc/virtual/2026/poster/153544	pending	-
-139505	RISE-Video: Can Video Generators Decode Implicit World Rules?	https://neurips.cc/virtual/2026/poster/139505	pending	-
-148872	Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees	https://neurips.cc/virtual/2026/poster/148872	pending	-
-154864	Risk-Aware Action Repetition via Expected Skip Evaluation	https://neurips.cc/virtual/2026/poster/154864	pending	-
-154212	Risk-Calibrated Context Selection for Healthcare Multi-Agent Handoff	https://neurips.cc/virtual/2026/poster/154212	pending	-
-154732	Risk-Controlled Post-Processing of Decision Policies	https://neurips.cc/virtual/2026/poster/154732	pending	-
-151392	Risk-guided Estimation-aware Acceptance for Learning with Synthetic Data	https://neurips.cc/virtual/2026/poster/151392	pending	-
-154851	Risk Horizons: Structured Hypothesis Spaces for Longitudinal Clinical Prediction	https://neurips.cc/virtual/2026/poster/154851	pending	-
-140000	Risks Create a Jagged Frontier of LLM Productivity Gains Across Computer Occupations	https://neurips.cc/virtual/2026/poster/140000	pending	-
-153309	Risk-Sensitive Deep Optimal Stopping	https://neurips.cc/virtual/2026/poster/153309	pending	-
-152523	RIVET: Regex-to-Indexable Keys via Neural Translation for Interactive LIMIT-k Retrieval	https://neurips.cc/virtual/2026/poster/152523	pending	-
-149997	RIZZ: Routing Interactions to Near Zero-Interference Zones for Continual Adaptation of Black-Box Agents	https://neurips.cc/virtual/2026/poster/149997	pending	-
-153521	RL Excursions during Pre-training: How early is too early for on-policy learning?	https://neurips.cc/virtual/2026/poster/153521	pending	-
-151179	RL-Guided Contraction of Symbolic Tensor Networks for Quantum Circuit Equivalence	https://neurips.cc/virtual/2026/poster/151179	pending	-
-152090	RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory	https://neurips.cc/virtual/2026/poster/152090	pending	-
-152424	RL-Inf: Tracking Non-local Training Data Influence for Online Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152424	pending	-
-150826	RnR: a meta-solver for causal discovery in undersampled time series data	https://neurips.cc/virtual/2026/poster/150826	pending	-
-139631	RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades	https://neurips.cc/virtual/2026/poster/139631	pending	-
-154937	ROAD: Rule-Grounded Context-Aware Open-World Driver Anomaly Detection	https://neurips.cc/virtual/2026/poster/154937	pending	-
-139122	ROAR: Benchmarking LMM Agents under Real-Time Constraints in Multiplayer Action-Shooter Games	https://neurips.cc/virtual/2026/poster/139122	pending	-
-150692	RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models	https://neurips.cc/virtual/2026/poster/150692	pending	-
-154097	RoboExo: Structure-Guided Wrist-to-Exocentric Video Generation for Scalable Robot Learning	https://neurips.cc/virtual/2026/poster/154097	pending	-
-139684	RoboProcessBench: Benchmarking Process-Aware Understanding in Visual-Language Robotic Manipulation	https://neurips.cc/virtual/2026/poster/139684	pending	-
-140054	Robot Demonstration Videos Should Include Transparency Disclosures	https://neurips.cc/virtual/2026/poster/140054	pending	-
-139850	RoboWits: Unexpected Challenges for Robotic Creative Problem Solving	https://neurips.cc/virtual/2026/poster/139850	pending	-
-151610	Robust Amortized Simulation-Based Inference via Learned Error Models	https://neurips.cc/virtual/2026/poster/151610	pending	-
-152580	Robust and Efficient Backdoor Mitigation for ML Models via Tolerant Property Testing	https://neurips.cc/virtual/2026/poster/152580	pending	-
-148589	Robust and Efficient Continual Model Merging via Global Singular Subspace Separation and Restoration	https://neurips.cc/virtual/2026/poster/148589	pending	-
-154510	Robust and Efficient Finetuning of Vision Foundation Models via Implicit Ensembling	https://neurips.cc/virtual/2026/poster/154510	pending	-
-152517	Robust and Hard-to-Remove GNN Watermarking via Topological Invariant Perception	https://neurips.cc/virtual/2026/poster/152517	pending	-
-149248	Robust and Scalable Collaborative Learning via Pull-Based Epidemic Communication	https://neurips.cc/virtual/2026/poster/149248	pending	-
-150072	Robust Approximate Nearest Neighbor Search for Any Dataset	https://neurips.cc/virtual/2026/poster/150072	pending	-
-154903	Robust-by-Design Distributional Learning from Contaminated Samples	https://neurips.cc/virtual/2026/poster/154903	pending	-
-148206	Robust Concept Unlearning in Diffusion Models via Directional Stability Regularization	https://neurips.cc/virtual/2026/poster/148206	pending	-
-149585	Robust Conditional Conformal Prediction via Branched Normalizing Flow	https://neurips.cc/virtual/2026/poster/149585	pending	-
-152633	Robust Diffusion Models via Divergence-Induced Weighted Denoising	https://neurips.cc/virtual/2026/poster/152633	pending	-
-154718	Robust Domain Generalization under Divergent Marginal and Conditional Distributions	https://neurips.cc/virtual/2026/poster/154718	pending	-
-153543	Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation	https://neurips.cc/virtual/2026/poster/153543	pending	-
-153777	Robust Flow Matching under Target Corruption and Label Noise	https://neurips.cc/virtual/2026/poster/153777	pending	-
-139536	RobustGenBench: A Benchmark for Robust Generalization to Adversarial and Common Perturbations, with Applications to Vision and Vision-Enabled Large Language Models	https://neurips.cc/virtual/2026/poster/139536	pending	-
-148741	Robust Graph Diffusion Model	https://neurips.cc/virtual/2026/poster/148741	pending	-
-155374	Robust Hopfield Decision Transformer	https://neurips.cc/virtual/2026/poster/155374	pending	-
-149349	Robust Importance Sampling for Rare Events via Constrained Gaussian Mixtures	https://neurips.cc/virtual/2026/poster/149349	pending	-
-154445	Robust Inference-Time Steering of Protein Diffusion Models via Embedding Optimization	https://neurips.cc/virtual/2026/poster/154445	pending	-
-148746	Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148746	pending	-
-150781	Robust Latent Space Bayesian Optimization with Marginalized Kernel	https://neurips.cc/virtual/2026/poster/150781	pending	-
-156004	Robust Multi-view Clustering against Imperfect Information	https://neurips.cc/virtual/2026/poster/156004	pending	-
-154554	Robust Nash Alignment under Preference Uncertainty	https://neurips.cc/virtual/2026/poster/154554	pending	-
-139199	Robustness of Internal Signals for Hallucination Detection in Vision-Language Models	https://neurips.cc/virtual/2026/poster/139199	pending	-
-152973	Robust Noisy Inductive Matrix Completion with Local Linear Convergence	https://neurips.cc/virtual/2026/poster/152973	pending	-
-148793	Robust Offline Reinforcement Learning against Out-of-Distribution Dynamics in Autonomous Driving	https://neurips.cc/virtual/2026/poster/148793	pending	-
-154906	Robust PAC Learning of Concurrent Stochastic Games	https://neurips.cc/virtual/2026/poster/154906	pending	-
-150750	Robust Policy Optimization to Prevent Catastrophic Forgetting	https://neurips.cc/virtual/2026/poster/150750	pending	-
-153328	RobustPruner: Decoupled Relevance and Uncertainty for Efficient Visual Token Pruning in MLLMs	https://neurips.cc/virtual/2026/poster/153328	pending	-
-154644	Robust Residual Correction via Selective Deployment for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154644	pending	-
-156070	Robust Reversible Recovery for Adversarially Protected JPEG Images	https://neurips.cc/virtual/2026/poster/156070	pending	-
-149478	Robust Satisficing Ensemble: Scalable Model Aggregation Under Distribution Shifts	https://neurips.cc/virtual/2026/poster/149478	pending	-
-153880	Robust Statistical Estimators with Bounded Empirical Sensitivity	https://neurips.cc/virtual/2026/poster/153880	pending	-
-156091	Robust Stream Classification using Time Neutralising Decision Trees	https://neurips.cc/virtual/2026/poster/156091	pending	-
-139092	RobustStress: Stress-Testing AI-Generated Text Detectors under Gradual Perturbations	https://neurips.cc/virtual/2026/poster/139092	pending	-
-155571	Robust Surrogate Modeling for Explainable Graph Neural Networks	https://neurips.cc/virtual/2026/poster/155571	pending	-
-151606	Robust Task-Aware State Estimation from Pre-trained Perception	https://neurips.cc/virtual/2026/poster/151606	pending	-
-154690	ROCKET: Rapid Optimization via Calibration-guided Knapsack-Enhanced Truncation for Efficient Model Compression	https://neurips.cc/virtual/2026/poster/154690	pending	-
-151797	ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/151797	pending	-
-139827	ROK-FORTRESS: Measuring the Effect of Geopolitical Transcreation for National Security and Public Safety	https://neurips.cc/virtual/2026/poster/139827	pending	-
-152982	Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect	https://neurips.cc/virtual/2026/poster/152982	pending	-
-155471	Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime	https://neurips.cc/virtual/2026/poster/155471	pending	-
-155910	RoLL: Robust Low-Rank Learning via Nesterov Momentum	https://neurips.cc/virtual/2026/poster/155910	pending	-
-154033	ROLLVERIFY: BRIDGING EFFICIENCY AND ACCURACY IN LONG-TAIL ROLLOUT REINFORCEMENT LEARNING	https://neurips.cc/virtual/2026/poster/154033	pending	-
-150930	RoMo Hands: A Large Scale Richly Organized Text to Hand Motion Dataset	https://neurips.cc/virtual/2026/poster/150930	pending	-
-155790	Root Cause Analysis of Measurement and Mechanistic Anomalies	https://neurips.cc/virtual/2026/poster/155790	pending	-
-151948	Root-Selecting Fixed-Point Inversion for Rectified Flows via Trajectory Straightness	https://neurips.cc/virtual/2026/poster/151948	pending	-
-140089	RoPE Is Not a Proper Relative Position Embedding	https://neurips.cc/virtual/2026/poster/140089	pending	-
-154176	RoPEMover: Depth-Aware Object Relocation via Positional Embeddings	https://neurips.cc/virtual/2026/poster/154176	pending	-
-152759	RoSA: Rotational Sparse Adaptation for Memory-Efficient Fine-Tuning	https://neurips.cc/virtual/2026/poster/152759	pending	-
-155206	ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/155206	pending	-
-151897	Rosetta: Composable Native Multimodal Pretraining	https://neurips.cc/virtual/2026/poster/151897	pending	-
-153254	RoSeViT: Role-Separated Vision Transformers for ARC Visual Reasoning	https://neurips.cc/virtual/2026/poster/153254	pending	-
-150582	ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork	https://neurips.cc/virtual/2026/poster/150582	pending	-
-149936	Rotation-Invariant Vector Normalization for Molecular Force Learning	https://neurips.cc/virtual/2026/poster/149936	pending	-
-149879	Rotations on Latent Hyperspheres: a Geometry-Aware Guiding Framework for Diffusion Models	https://neurips.cc/virtual/2026/poster/149879	pending	-
-148910	RotMoLE: Enhancing Mixture of Low-Rank Experts through Rotational Gating Mechanism	https://neurips.cc/virtual/2026/poster/148910	pending	-
-152079	RotVLA: Rotational Latent Action for Vision-Language-Action Model	https://neurips.cc/virtual/2026/poster/152079	pending	-
-139509	Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection	https://neurips.cc/virtual/2026/poster/139509	pending	-
-149368	Route-Consistent Adaptation for Stable Quantization of Mixture-of-Experts Models with Theoretical Guarantees	https://neurips.cc/virtual/2026/poster/149368	pending	-
-148374	Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/148374	pending	-
-151665	Routing as a Singular Reparameterization: A Closed-Form Pushforward Prior and Exact Bayesian Complexity in a Minimal Proxy	https://neurips.cc/virtual/2026/poster/151665	pending	-
-139370	RoutingBench: Can Agentic Routing Analysis Scale to Production Datacenter Networks?	https://neurips.cc/virtual/2026/poster/139370	pending	-
-153369	Routing Subspaces: Auditing Evaluation-to-Deployment Mismatch in Fine-Tuned Language Models	https://neurips.cc/virtual/2026/poster/153369	pending	-
+154025	Reward Hacking in Rubric-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154025	included	审核量表强化学习时分别量评委与规则失配。
+149798	Reward Inflation: A Healthy Stimulus for Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149798	included	当策略饱和且神经元休眠时测试渐进奖励缩放。
+150638	Reward Is Not a Universal Interface for Generative Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150638	included	混合生成器共享奖励，但各分支使用各自更新对象。
+155004	Reward Modeling for Multi-Agent Orchestration	https://neurips.cc/virtual/2026/poster/155004	included	多代理协调器可从中间产物学低成本评分。
+155927	Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models	https://neurips.cc/virtual/2026/poster/155927	included	比较扩散奖励微调拆价值估计与各步优化强度。
+150900	Reward Shaping to Improve Language Model Query Generation	https://neurips.cc/virtual/2026/poster/150900	included	查询生成将终局正确性转换为逐 token 信号。
+151660	Reweighted Flow Matching via Unbalanced Optimal Transport for Label-free Long-tailed Generation	https://neurips.cc/virtual/2026/poster/151660	included	类别无标签时按非平衡运输估长尾补偿权。
+152119	RGF: Recursive Generative Framework for the Edge-Cut Separable Problems	https://neurips.cc/virtual/2026/poster/152119	included	图约束问题先决定割边状态再并行解子图。
+155169	R-GRec: Relation-Guided Generative Recommendation via Collaborative Graph Supervision	https://neurips.cc/virtual/2026/poster/155169	included	生成序列目标用协同图监督补对内关系。
+152884	RheoSampling: Resolving the One-Hot Dilemma in Stochastic Dynamic-Tree Speculative Decoding	https://neurips.cc/virtual/2026/poster/152884	included	随机推测解码区分树构造与校验分布。
+148419	RiboC2F: Pose-First Coarse-to-Fine Flow Matching for Protein-Conditioned RNA Co-Design	https://neurips.cc/virtual/2026/poster/148419	excluded	RNA 结合设计是新增贡献的核心，排除针对该用途的机制。
+155818	RICE-PO: Turning Retrieval Interactions into Credit Signals for Reasoning Agents	https://neurips.cc/virtual/2026/poster/155818	included	检索里的潜推理只在影响工具动作时接受局部信用。
+153492	Richer or More Gates? Fan-In Trade-offs in Learnable Logic Circuits	https://neurips.cc/virtual/2026/poster/153492	included	可学习逻辑门按任务选输入宽度与门数。
+138936	Rich Insights from Cheap Signals: Efficient Evaluations via Tensor Factorization	https://neurips.cc/virtual/2026/poster/138936	included	少量人工标注用于校准细粒度自动评估。
+155552	Riemannian Admissibility Flow for Offline-to-Online Safe Reinforcement Learning	https://neurips.cc/virtual/2026/poster/155552	included	离线转在线先修策略概率质量可行性。
+154402	Riemannian Bilevel Optimization under the Polyak–Łojasiewicz Condition	https://neurips.cc/virtual/2026/poster/154402	included	低层 Hessian 退化时选正则切空间超梯度。
+155509	Riemannian Lyapunov Framework: Optimization as Closed-Loop Control on Riemannian Manifolds	https://neurips.cc/virtual/2026/poster/155509	included	在流形优化用闭环扰动指标验参数轨迹。
+150239	Riemannian Optimization for Low-Rank Adaptation via Desingularization	https://neurips.cc/virtual/2026/poster/150239	included	LoRA 更新用平滑有界秩表示。
+152577	Riemannian Ordinary Least Squares	https://neurips.cc/virtual/2026/poster/152577	excluded	摘要主要给流形条件均值的经典统计类比，缺少能据此改变目标研究的具体证据。
+154640	RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement	https://neurips.cc/virtual/2026/poster/154640	included	频闪条纹恢复仅在受损区强化监督。
+148245	Rigel3D: Rig-aware Latents for Animation-Ready 3D Asset Generation	https://neurips.cc/virtual/2026/poster/148245	included	生成可动画资产时同时建模骨架和表面。
+139732	Right Results, Wrong Reasons: Auditing Behavioral Reliance in Motion Forecasting	https://neurips.cc/virtual/2026/poster/139732	included	轨迹预测应加入逐代理移除行为审计。
+152768	RigidFormer: Learning Rigid Dynamics using Transformers	https://neurips.cc/virtual/2026/poster/152768	included	多物体模拟采用物体级状态，并将更新投影回刚体运动。
+155746	RIGOR: Risk-Gated Topology Adaptation for Robust LLM Multi-Agent Reasoning	https://neurips.cc/virtual/2026/poster/155746	excluded	摘要中缺少足以区分防御拓扑选择与风险估计误差的跨场景证据。
+153305	RigPAPR: Rig-Based Animation of Static Neural Point Clouds from a Single-View Video	https://neurips.cc/virtual/2026/poster/153305	excluded	机制主要解决特定点云表示的绑定伪影，摘要未给可迁移表示的证据。
+152889	RigRecon: Efficient Rig-Aware Street Reconstruction via Dual-Path Spatio-Temporal Interaction	https://neurips.cc/virtual/2026/poster/152889	included	把全局多视图交互与高分辨率逐帧解码拆开。
+154332	RILA: A Radar-Native Structured Interface from Sparse mmWave Point Clouds to Large Language Models	https://neurips.cc/virtual/2026/poster/154332	excluded	主要针对稀疏毫米波雷达接口，缺少可分辨多项组件收益的摘要证据。
+139371	RipBench: A Unified Benchmark for Multi-Level Rip Current Detection, Classification and Segmentation	https://neurips.cc/virtual/2026/poster/139371	excluded	主要贡献是海滩离岸流数据和任务规范，未提取到跨域技术机制。
+150906	Ripple in Still Water: Zero-Shot Clustering in Heterogeneous Federated Learning with Wavelet Scattering Transform	https://neurips.cc/virtual/2026/poster/150906	included	异质联邦学习可先离线聚类客户端，再训练各组模型。
+150390	RipplePLM: Structural and Property Decoupling for Protein Mutation Effect Generation	https://neurips.cc/virtual/2026/poster/150390	excluded	摘要聚焦蛋白突变功能推断，未抽取独立可安全迁移的通用洞见。
+150661	RISE: Red-teaming via Iterative Strategy Evolution for Modern Text-to-Image Models	https://neurips.cc/virtual/2026/poster/150661	excluded	聚焦生成系统绕过方法，不纳入操作性内容。
+153544	RiSE: Residual Subspace Expert for Generalizable Text-Centric Image Forgery Localization	https://neurips.cc/virtual/2026/poster/153544	included	全量微调损伤域外检测时，保留骨干并按痕迹分配残差专家。
+139505	RISE-Video: Can Video Generators Decode Implicit World Rules?	https://neurips.cc/virtual/2026/poster/139505	included	视频生成应按隐式规则满足度和视觉质量分别评分。
+148872	Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees	https://neurips.cc/virtual/2026/poster/148872	included	在部分可观测规划中，用信念内即时成本的尾部作为一步成本。
+154864	Risk-Aware Action Repetition via Expected Skip Evaluation	https://neurips.cc/virtual/2026/poster/154864	included	估计动作重复的价值时，按训练期实际后续策略计算而非假设它立即贪心。
+154212	Risk-Calibrated Context Selection for Healthcare Multi-Agent Handoff	https://neurips.cc/virtual/2026/poster/154212	included	代理交接先按授权硬过滤，再在风险约束下选最小必要上下文。
+154732	Risk-Controlled Post-Processing of Decision Policies	https://neurips.cc/virtual/2026/poster/154732	included	需要保留已有决策时，只在替代决策显著降低条件风险的上下文触发切换。
+151392	Risk-guided Estimation-aware Acceptance for Learning with Synthetic Data	https://neurips.cc/virtual/2026/poster/151392	excluded	合成样本接受规则依赖特定统计代理，摘要未显示可操作的深度生成数据选择优势。
+154851	Risk Horizons: Structured Hypothesis Spaces for Longitudinal Clinical Prediction	https://neurips.cc/virtual/2026/poster/154851	excluded	主要是临床事件本体与数据驱动空间融合，摘要缺少通用场景对照。
+140000	Risks Create a Jagged Frontier of LLM Productivity Gains Across Computer Occupations	https://neurips.cc/virtual/2026/poster/140000	excluded	职业生产率的立场与调查尚未支持模型训练或代理架构的具体调整。
+153309	Risk-Sensitive Deep Optimal Stopping	https://neurips.cc/virtual/2026/poster/153309	excluded	摘要实证局限金融停止决策，未验证所需保证和退火对重点方向的作用。
+152523	RIVET: Regex-to-Indexable Keys via Neural Translation for Interactive LIMIT-k Retrieval	https://neurips.cc/virtual/2026/poster/152523	excluded	主要为正则查询索引与后端性能，缺少与重点智能体研究直接相关的机制。
+149997	RIZZ: Routing Interactions to Near Zero-Interference Zones for Continual Adaptation of Black-Box Agents	https://neurips.cc/virtual/2026/poster/149997	excluded	摘要给反馈规则系统的组合，未提供可单独核查的机制对照。
+153521	RL Excursions during Pre-training: How early is too early for on-policy learning?	https://neurips.cc/virtual/2026/poster/153521	included	比较早期 RL 与先 SFT 再 RL 的探索形态
+151179	RL-Guided Contraction of Symbolic Tensor Networks for Quantum Circuit Equivalence	https://neurips.cc/virtual/2026/poster/151179	excluded	主要为量子等价电路专用张量收缩策略。
+152090	RL-Guided Temporal Localization for Dual-Channel Retrieval in Long-Horizon Agent Memory	https://neurips.cc/virtual/2026/poster/152090	included	长时记忆分别对时间关系和语义索引
+152424	RL-Inf: Tracking Non-local Training Data Influence for Online Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152424	included	在线 RL 数据贡献需计入它改变未来采样的影响
+150826	RnR: a meta-solver for causal discovery in undersampled time series data	https://neurips.cc/virtual/2026/poster/150826	excluded	主要针对欠采样因果图和 fMRI，摘要未验证重点方向的直接迁移。
+139631	RoadmapBench: Evaluating Long-Horizon Agentic Software Development Across Version Upgrades	https://neurips.cc/virtual/2026/poster/139631	included	软件智能体验收加入跨版本功能升级
+154937	ROAD: Rule-Grounded Context-Aware Open-World Driver Anomaly Detection	https://neurips.cc/virtual/2026/poster/154937	excluded	主要为驾驶员异常识别的定制规则和基准，摘要未隔离可复用模块。
+139122	ROAR: Benchmarking LMM Agents under Real-Time Constraints in Multiplayer Action-Shooter Games	https://neurips.cc/virtual/2026/poster/139122	excluded	主要为游戏实时评测基础设施，摘要未报告可改变智能体选择的对照。
+150692	RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models	https://neurips.cc/virtual/2026/poster/150692	excluded	摘要报两个联合部件，未详细说明可独立迁移的机制。
+154097	RoboExo: Structure-Guided Wrist-to-Exocentric Video Generation for Scalable Robot Learning	https://neurips.cc/virtual/2026/poster/154097	included	只有腕部演示时对照生成外视角的策略训练价值
+139684	RoboProcessBench: Benchmarking Process-Aware Understanding in Visual-Language Robotic Manipulation	https://neurips.cc/virtual/2026/poster/139684	excluded	主要为过程理解基准和训练标注，摘要未给具体独立失效或机制证据。
+140054	Robot Demonstration Videos Should Include Transparency Disclosures	https://neurips.cc/virtual/2026/poster/140054	excluded	贡献是演示披露与公众判断，不直接改变模型技术选择。
+139850	RoboWits: Unexpected Challenges for Robotic Creative Problem Solving	https://neurips.cc/virtual/2026/poster/139850	included	操作中测试几何、材料和装配变化下的策略重组
+151610	Robust Amortized Simulation-Based Inference via Learned Error Models	https://neurips.cc/virtual/2026/poster/151610	included	仿真后验推断同时学习模拟误差
+152580	Robust and Efficient Backdoor Mitigation for ML Models via Tolerant Property Testing	https://neurips.cc/virtual/2026/poster/152580	excluded	摘要仅概述后门缓解保证，缺少与重点方向对应的可核对条件。
+148589	Robust and Efficient Continual Model Merging via Global Singular Subspace Separation and Restoration	https://neurips.cc/virtual/2026/poster/148589	excluded	摘要未报告全局谱分离或恢复的独立消融，难判断适用边界。
+154510	Robust and Efficient Finetuning of Vision Foundation Models via Implicit Ensembling	https://neurips.cc/virtual/2026/poster/154510	included	视觉微调按滚动快照混合少量更新
+152517	Robust and Hard-to-Remove GNN Watermarking via Topological Invariant Perception	https://neurips.cc/virtual/2026/poster/152517	included	图网络水印用可学习内在图统计做归属。
+149248	Robust and Scalable Collaborative Learning via Pull-Based Epidemic Communication	https://neurips.cc/virtual/2026/poster/149248	included	去中心协作训练按小随机邻居集拉取更新。
+150072	Robust Approximate Nearest Neighbor Search for Any Dataset	https://neurips.cc/virtual/2026/poster/150072	included	在线近邻服务需评自适应查询序列而非独立查询。
+154903	Robust-by-Design Distributional Learning from Contaminated Samples	https://neurips.cc/virtual/2026/poster/154903	included	用少量精确审计校正弱标签污染下的分布损失。
+148206	Robust Concept Unlearning in Diffusion Models via Directional Stability Regularization	https://neurips.cc/virtual/2026/poster/148206	included	概念擦除时加入目标方向局部稳定性测试。
+149585	Robust Conditional Conformal Prediction via Branched Normalizing Flow	https://neurips.cc/virtual/2026/poster/149585	included	分布转移时先映到校准空间再映回集合。
+152633	Robust Diffusion Models via Divergence-Induced Weighted Denoising	https://neurips.cc/virtual/2026/poster/152633	included	数据污染下将去噪 MSE 换成受控散度代理。
+154718	Robust Domain Generalization under Divergent Marginal and Conditional Distributions	https://neurips.cc/virtual/2026/poster/154718	included	域泛化同时检测类先验和类内条件变动。
+153543	Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation	https://neurips.cc/virtual/2026/poster/153543	included	动作控制视频将 3D 潜记忆与 rollout 偏差训练结合。
+153777	Robust Flow Matching under Target Corruption and Label Noise	https://neurips.cc/virtual/2026/poster/153777	included	按污染类型选流匹配残差分数。
+139536	RobustGenBench: A Benchmark for Robust Generalization to Adversarial and Common Perturbations, with Applications to Vision and Vision-Enabled Large Language Models	https://neurips.cc/virtual/2026/poster/139536	included	跨架构比较同时分层验常见和不同范数下鲁棒。
+148741	Robust Graph Diffusion Model	https://neurips.cc/virtual/2026/poster/148741	included	图节点分类可用有标签合成局部结构增强防御。
+155374	Robust Hopfield Decision Transformer	https://neurips.cc/virtual/2026/poster/155374	included	离线策略受观测噪声时试用吸引子读出。
+149349	Robust Importance Sampling for Rare Events via Constrained Gaussian Mixtures	https://neurips.cc/virtual/2026/poster/149349	included	稀有失败采样先找覆盖再拟合，并限制尾部。
+154445	Robust Inference-Time Steering of Protein Diffusion Models via Embedding Optimization	https://neurips.cc/virtual/2026/poster/154445	excluded	摘要的核心新增机制是引导蛋白构象生成，排除相关设计与优化内容。
+148746	Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148746	included	层级多代理接新指令时允许中断并修正值。
+150781	Robust Latent Space Bayesian Optimization with Marginalized Kernel	https://neurips.cc/virtual/2026/poster/150781	included	潜空间 BO 将编码后验不确定性纳入核。
+156004	Robust Multi-view Clustering against Imperfect Information	https://neurips.cc/virtual/2026/poster/156004	included	把跨视图缺失和错配都视作潜在对应。
+154554	Robust Nash Alignment under Preference Uncertainty	https://neurips.cc/virtual/2026/poster/154554	included	偏好估计有歧义时报告认证的最坏下界。
+139199	Robustness of Internal Signals for Hallucination Detection in Vision-Language Models	https://neurips.cc/virtual/2026/poster/139199	included	幻觉检测加入纯位置基线并移动错误出现位置。
+152973	Robust Noisy Inductive Matrix Completion with Local Linear Convergence	https://neurips.cc/virtual/2026/poster/152973	excluded	重尾矩阵补全的保证依赖侧特征、低秩与观测设定，摘要未给可迁移的独立方法对照。
+148793	Robust Offline Reinforcement Learning against Out-of-Distribution Dynamics in Autonomous Driving	https://neurips.cc/virtual/2026/poster/148793	included	在转移动力学变化的离线训练中，诊断并重加权重尾价值误差。
+154906	Robust PAC Learning of Concurrent Stochastic Games	https://neurips.cc/virtual/2026/poster/154906	excluded	稳健 Nash 学习依赖可达性和有限博弈的设定，摘要未给与一般代理学习的直接对照。
+150750	Robust Policy Optimization to Prevent Catastrophic Forgetting	https://neurips.cc/virtual/2026/poster/150750	included	在后续微调前优化对小量策略偏移稳定的奖励。
+153328	RobustPruner: Decoupled Relevance and Uncertainty for Efficient Visual Token Pruning in MLLMs	https://neurips.cc/virtual/2026/poster/153328	included	裁剪视觉 token 时将相关性、多样性与不确定性分开处理。
+154644	Robust Residual Correction via Selective Deployment for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154644	included	残差纠正只在留出验证支持净收益的条件下启用。
+156070	Robust Reversible Recovery for Adversarially Protected JPEG Images	https://neurips.cc/virtual/2026/poster/156070	excluded	摘要主要提供特定 JPEG 对抗方法及其成功率，未抽取独立防御原则。
+149478	Robust Satisficing Ensemble: Scalable Model Aggregation Under Distribution Shifts	https://neurips.cc/virtual/2026/poster/149478	included	集成权重可依据分布偏移下的风险脆弱性选择。
+153880	Robust Statistical Estimators with Bounded Empirical Sensitivity	https://neurips.cc/virtual/2026/poster/153880	excluded	高斯均值估计的敏感性界较专门，摘要未提供深度模型选择证据。
+156091	Robust Stream Classification using Time Neutralising Decision Trees	https://neurips.cc/virtual/2026/poster/156091	excluded	持续流分类的样本重新纳入依赖决策树，摘要未给与一般回放的对照机制。
+139092	RobustStress: Stress-Testing AI-Generated Text Detectors under Gradual Perturbations	https://neurips.cc/virtual/2026/poster/139092	included	内容检测应交叉测量扰动强度和分布变化，并画完整退化曲线。
+155571	Robust Surrogate Modeling for Explainable Graph Neural Networks	https://neurips.cc/virtual/2026/poster/155571	included	用适应解释时输入分布的代理估计图解释梯度。
+151606	Robust Task-Aware State Estimation from Pre-trained Perception	https://neurips.cc/virtual/2026/poster/151606	included	从感知模型输出构造达到置信阈值的最小状态集合。
+154690	ROCKET: Rapid Optimization via Calibration-guided Knapsack-Enhanced Truncation for Efficient Model Compression	https://neurips.cc/virtual/2026/poster/154690	included	压缩预算按层用重建误差分配，并用闭式最小二乘修正单步因子。
+151797	ROCKET: Residual-Oriented Multi-Layer Alignment for Spatially-Aware Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/151797	included	VLA 多层对齐用共享投影来对齐两条残差流。
+139827	ROK-FORTRESS: Measuring the Effect of Geopolitical Transcreation for National Security and Public Safety	https://neurips.cc/virtual/2026/poster/139827	excluded	摘要关注高风险安全测试，未保留特定高风险内容或情景。
+152982	Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect	https://neurips.cc/virtual/2026/poster/152982	excluded	主动深度法依赖闪烁照明与滚动快门，摘要未给一般场景下的可用性边界。
+155471	Rollout Pass-Rate Control: Steering Binary-Reward RL Toward Its Most Informative Regime	https://neurips.cc/virtual/2026/poster/155471	included	二元奖励强化学习可动态把组采样通过率调至中间区。
+155910	RoLL: Robust Low-Rank Learning via Nesterov Momentum	https://neurips.cc/virtual/2026/poster/155910	excluded	重尾低秩拟合的贡献是受限强凸下的估计率和选模准则，缺乏明确迁移证据。
+154033	ROLLVERIFY: BRIDGING EFFICIENCY AND ACCURACY IN LONG-TAIL ROLLOUT REINFORCEMENT LEARNING	https://neurips.cc/virtual/2026/poster/154033	included	异步强化学习中在训练前校验轨迹前缀，截去发生较大策略偏移的后段。
+150930	RoMo Hands: A Large Scale Richly Organized Text to Hand Motion Dataset	https://neurips.cc/virtual/2026/poster/150930	excluded	主要为手部运动数据集和基准；摘要未具体给出能指导选型的表征控制。
+155790	Root Cause Analysis of Measurement and Mechanistic Anomalies	https://neurips.cc/virtual/2026/poster/155790	excluded	摘要未明确测量和机制异常可辨识的条件，难直接落地。
+151948	Root-Selecting Fixed-Point Inversion for Rectified Flows via Trajectory Straightness	https://neurips.cc/virtual/2026/poster/151948	included	生成反演固定点有多个根时按轨迹直度选
+140089	RoPE Is Not a Proper Relative Position Embedding	https://neurips.cc/virtual/2026/poster/140089	included	上下文位置方法比较直接测距离衰减
+154176	RoPEMover: Depth-Aware Object Relocation via Positional Embeddings	https://neurips.cc/virtual/2026/poster/154176	excluded	核心依赖物体编辑的专门生成管线，摘要缺少参数位置表示的独立对照。
+152759	RoSA: Rotational Sparse Adaptation for Memory-Efficient Fine-Tuning	https://neurips.cc/virtual/2026/poster/152759	included	微调阶段性轮转后部可训练块
+155206	ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/155206	excluded	知识编辑多组件共同展示，摘要未隔离单独迁移收益。
+151897	Rosetta: Composable Native Multimodal Pretraining	https://neurips.cc/virtual/2026/poster/151897	excluded	摘要未详细说明与普通 MoE/MoT 的独立机制差异。
+153254	RoSeViT: Role-Separated Vision Transformers for ARC Visual Reasoning	https://neurips.cc/virtual/2026/poster/153254	included	视觉推理分开规则控制 token 与空间工作状态
+150582	ROTATE: Regret-driven Open-ended Training for Ad Hoc Teamwork	https://neurips.cc/virtual/2026/poster/150582	excluded	主要贡献来自生成对抗伙伴，摘要未核对独立策略组件及多场景迁移。
+149936	Rotation-Invariant Vector Normalization for Molecular Force Learning	https://neurips.cc/virtual/2026/poster/149936	excluded	摘要性能证据以特定分子力模型为主，未单列安全通用评估。
+149879	Rotations on Latent Hyperspheres: a Geometry-Aware Guiding Framework for Diffusion Models	https://neurips.cc/virtual/2026/poster/149879	excluded	验证包含几何引导但摘要未展开稳定性和多场景适用条件。
+148910	RotMoLE: Enhancing Mixture of Low-Rank Experts through Rotational Gating Mechanism	https://neurips.cc/virtual/2026/poster/148910	excluded	摘要未给旋转门控的独立量化消融。
+152079	RotVLA: Rotational Latent Action for Vision-Language-Action Model	https://neurips.cc/virtual/2026/poster/152079	included	跨形态预训练可用连续旋转潜动作
+139509	Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection	https://neurips.cc/virtual/2026/poster/139509	included	模型路由前测可路由空间和平局
+149368	Route-Consistent Adaptation for Stable Quantization of Mixture-of-Experts Models with Theoretical Guarantees	https://neurips.cc/virtual/2026/poster/149368	included	量化 MoE 同时验收路由一致性
+148374	Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/148374	included	MoE 可用专家输入质心作路由对照
+151665	Routing as a Singular Reparameterization: A Closed-Form Pushforward Prior and Exact Bayesian Complexity in a Minimal Proxy	https://neurips.cc/virtual/2026/poster/151665	excluded	证明聚焦最小代理的贝叶斯复杂度，未验证现代模型选型。
+139370	RoutingBench: Can Agentic Routing Analysis Scale to Production Datacenter Networks?	https://neurips.cc/virtual/2026/poster/139370	excluded	面向生产网络的开放式自动路由分析，摘要未单列可安全收录的通用研究发现。
+153369	Routing Subspaces: Auditing Evaluation-to-Deployment Mismatch in Fine-Tuned Language Models	https://neurips.cc/virtual/2026/poster/153369	excluded	核心包含操作性干预，摘要未单列不依赖该干预的可复用防御机制。
 152815	Row-Private Symmetric Cone Programming: Scale-Efficient Algorithm and Lower Bound	https://neurips.cc/virtual/2026/poster/152815	pending	-
 155918	RPC-GS: Gaussian Splatting with native RPC Rendering for Satellite Imagery	https://neurips.cc/virtual/2026/poster/155918	pending	-
 151887	RPFQ-ViT: Rotated Phase-Frame Quantization for Extremely Low-Bit Weights in Vision Transformers	https://neurips.cc/virtual/2026/poster/151887	pending	-

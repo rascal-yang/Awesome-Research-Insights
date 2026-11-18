@@ -738,5 +738,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Rethinking Bayesian Optimization for Co-Optimizing LLM Training Configurations](../../conferences/neurips-2026/cards-0010.md#paper-148264)
 - [Rethinking Language Model Scaling under Transferable Hypersphere Optimization](../../conferences/neurips-2026/cards-0010.md#paper-151695)
 - [Rethinking Layer-wise Model Merging through Chain of Merges](../../conferences/neurips-2026/cards-0010.md#paper-153444)
+- [Riemannian Admissibility Flow for Offline-to-Online Safe Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-155552)
+- [Riemannian Bilevel Optimization under the Polyak–Łojasiewicz Condition](../../conferences/neurips-2026/cards-0010.md#paper-154402)
+- [Riemannian Lyapunov Framework: Optimization as Closed-Loop Control on Riemannian Manifolds](../../conferences/neurips-2026/cards-0010.md#paper-155509)
+- [Robust Latent Space Bayesian Optimization with Marginalized Kernel](../../conferences/neurips-2026/cards-0010.md#paper-150781)
+- [Robust Satisficing Ensemble: Scalable Model Aggregation Under Distribution Shifts](../../conferences/neurips-2026/cards-0010.md#paper-149478)
+- [ROCKET: Rapid Optimization via Calibration-guided Knapsack-Enhanced Truncation for Efficient Model Compression](../../conferences/neurips-2026/cards-0010.md#paper-154690)
 
 <!-- conference-classification:end -->

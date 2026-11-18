@@ -1116,5 +1116,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees](../../conferences/neurips-2026/cards-0010.md#paper-152348)
 - [Requential Coding: Measuring Model Compressibility by Coding Data Instead of Parameters](../../conferences/neurips-2026/cards-0010.md#paper-150681)
 - [Rethinking Geometric Depth in Monocular 3D Object Detection: A Projection-Consistent Reformulation](../../conferences/neurips-2026/cards-0010.md#paper-152569)
+- [Robust Amortized Simulation-Based Inference via Learned Error Models](../../conferences/neurips-2026/cards-0010.md#paper-151610)
+- [Robust Conditional Conformal Prediction via Branched Normalizing Flow](../../conferences/neurips-2026/cards-0010.md#paper-149585)
+- [Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation](../../conferences/neurips-2026/cards-0010.md#paper-153543)
+- [RoPE Is Not a Proper Relative Position Embedding](../../conferences/neurips-2026/cards-0010.md#paper-140089)
 
 <!-- conference-classification:end -->

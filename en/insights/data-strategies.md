@@ -377,5 +377,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Retrieval from Within: An Intrinsic Capability of Attention-Based Models](../../conferences/neurips-2026/cards-0010.md#paper-154257)
 - [Retriever-Free Retrieval-Augmented Reasoning via Corpus-Traversing MCTS](../../conferences/neurips-2026/cards-0010.md#paper-148700)
 - [Reverse to Advance: Teleoperation-Cost Effective Hard Policy Learning from Reversed Easy Tasks](../../conferences/neurips-2026/cards-0010.md#paper-152349)
+- [Ripple in Still Water: Zero-Shot Clustering in Heterogeneous Federated Learning with Wavelet Scattering Transform](../../conferences/neurips-2026/cards-0010.md#paper-150906)
+- [Robust Approximate Nearest Neighbor Search for Any Dataset](../../conferences/neurips-2026/cards-0010.md#paper-150072)
 
 <!-- conference-classification:end -->

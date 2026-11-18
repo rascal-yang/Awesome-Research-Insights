@@ -1143,5 +1143,14 @@
 - [Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction](../../conferences/neurips-2026/cards-0010.md#paper-148467)
 - [Rethinking Time Series Tokenization from a Frequency Perspective](../../conferences/neurips-2026/cards-0010.md#paper-149503)
 - [Rethinking Vector Field Learning for Generative Segmentation](../../conferences/neurips-2026/cards-0010.md#paper-152704)
+- [Reweighted Flow Matching via Unbalanced Optimal Transport for Label-free Long-tailed Generation](../../conferences/neurips-2026/cards-0010.md#paper-151660)
+- [RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement](../../conferences/neurips-2026/cards-0010.md#paper-154640)
+- [Robust and Hard-to-Remove GNN Watermarking via Topological Invariant Perception](../../conferences/neurips-2026/cards-0010.md#paper-152517)
+- [Robust and Scalable Collaborative Learning via Pull-Based Epidemic Communication](../../conferences/neurips-2026/cards-0010.md#paper-149248)
+- [Robust Concept Unlearning in Diffusion Models via Directional Stability Regularization](../../conferences/neurips-2026/cards-0010.md#paper-148206)
+- [Robust Flow Matching under Target Corruption and Label Noise](../../conferences/neurips-2026/cards-0010.md#paper-153777)
+- [Robust Graph Diffusion Model](../../conferences/neurips-2026/cards-0010.md#paper-148741)
+- [RoSA: Rotational Sparse Adaptation for Memory-Efficient Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-152759)
+- [Route-Consistent Adaptation for Stable Quantization of Mixture-of-Experts Models with Theoretical Guarantees](../../conferences/neurips-2026/cards-0010.md#paper-149368)
 
 <!-- conference-classification:end -->
