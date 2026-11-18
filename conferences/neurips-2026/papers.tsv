@@ -2513,66 +2513,66 @@ poster_id	title	paper_url	status	reason
 149800	Efficient Memory Crystallization for Graph Learning under Non-Stationary Distribution Shifts	https://neurips.cc/virtual/2026/poster/149800	included	用分布匹配闭式摘要替代训练生成式记忆
 150859	Efficient Multi-Source Prompt Adaptation for Cross-Domain Open-Vocabulary Learning	https://neurips.cc/virtual/2026/poster/150859	included	分离类别语义提示和域提示并在无标签域做一致性
 151578	Efficient Neural Field Learning via Adaptive Coverage and Focused Sampling	https://neurips.cc/virtual/2026/poster/151578	included	先覆盖空间分区再按区域重要度配额
-151908	Efficient Off-Policy RL for Video Generation via Forward-Consistent Reward Matching	https://neurips.cc/virtual/2026/poster/151908	pending	-
-152711	Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention	https://neurips.cc/virtual/2026/poster/152711	pending	-
-150018	Efficient One-to-many Domain Translation via Diffusive Entropic Optimal Transport	https://neurips.cc/virtual/2026/poster/150018	pending	-
-150130	Efficient Prediction of Pass@k Scaling in Large Language Models	https://neurips.cc/virtual/2026/poster/150130	pending	-
-155039	Efficient Pre-Training with Token Superposition	https://neurips.cc/virtual/2026/poster/155039	pending	-
-149724	Efficient Reasoning via Constrained Optimization in Latent Space	https://neurips.cc/virtual/2026/poster/149724	pending	-
-148961	Efficient Retrosynthesis Prediction with Integral Flow Matching and Latent Inversion	https://neurips.cc/virtual/2026/poster/148961	pending	-
-155143	EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts	https://neurips.cc/virtual/2026/poster/155143	pending	-
-149034	Efficient SAM 3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations	https://neurips.cc/virtual/2026/poster/149034	pending	-
-152668	Efficient Scaling of LLM Training with Flexible Context Parallelism	https://neurips.cc/virtual/2026/poster/152668	pending	-
-151165	Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management	https://neurips.cc/virtual/2026/poster/151165	pending	-
-149515	Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes	https://neurips.cc/virtual/2026/poster/149515	pending	-
-155174	Efficient Test-Time Adaptation For Robot Policies	https://neurips.cc/virtual/2026/poster/155174	pending	-
-149626	Efficient Test-time Adaptation through Candidate Verification and Divergence Shifts	https://neurips.cc/virtual/2026/poster/149626	pending	-
-152821	Efficient Training of Deep Spiking Neural Networks with Input-Driven Derivative-Free Updates	https://neurips.cc/virtual/2026/poster/152821	pending	-
-154970	Efficient Transferable Optimal Transport via Min-Sliced Transport Plans	https://neurips.cc/virtual/2026/poster/154970	pending	-
-152500	Efficient Tree Draft for Long-Context Speculative Decoding	https://neurips.cc/virtual/2026/poster/152500	pending	-
-155459	Efficient Variational Inference for Log-Gaussian Cox Processes via Voronoi Tessellation	https://neurips.cc/virtual/2026/poster/155459	pending	-
-151834	EGCA: A Spectral Perspective on Forward Process Design in Diffusion Models	https://neurips.cc/virtual/2026/poster/151834	pending	-
-139483	E-GEO: A Testbed for Generative Engine Optimization in E-Commerce	https://neurips.cc/virtual/2026/poster/139483	pending	-
-139408	EgoBabyVLM: Benchmarking cross-modal learning from naturalistic egocentric video data	https://neurips.cc/virtual/2026/poster/139408	pending	-
-139324	EgoBench: An Interactive Egocentric Multimodal Benchmark for Tool-Using Agents	https://neurips.cc/virtual/2026/poster/139324	pending	-
-150778	EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing	https://neurips.cc/virtual/2026/poster/150778	pending	-
-155320	Ego-HMB: Human Motion Bridging from Egocentric Images via Motion Bridge Diffusion Model	https://neurips.cc/virtual/2026/poster/155320	pending	-
-154301	EgoHMP: Achieving Precise Human Motion Prediction in 3D Scenes via Egocentric Cues	https://neurips.cc/virtual/2026/poster/154301	pending	-
-154591	EgoMo3R: Joint Egocentric Motion and Scene Reconstruction	https://neurips.cc/virtual/2026/poster/154591	pending	-
-139373	EgoStream: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision	https://neurips.cc/virtual/2026/poster/139373	pending	-
-139540	EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open-Surgery Training	https://neurips.cc/virtual/2026/poster/139540	pending	-
-151402	EgoTac: In-the-wild Tactile Prediction from Egocentric Vision	https://neurips.cc/virtual/2026/poster/151402	pending	-
-139551	EHRNote-ChatQA: A Benchmark for Evidence-Grounded Multi-Turn Clinical Question Answering over Longitudinal Discharge Summaries	https://neurips.cc/virtual/2026/poster/139551	pending	-
-153762	EIHMR: Collaborative Human-Camera Estimation for Global Human Mesh Recovery	https://neurips.cc/virtual/2026/poster/153762	pending	-
-150112	EIPO: Efficient Inter-Step Parallel Optimization	https://neurips.cc/virtual/2026/poster/150112	pending	-
-154563	ElasticFit: Fit-Aware 3D Object Insertion via VLM Reasoning and Generative Adaptation	https://neurips.cc/virtual/2026/poster/154563	pending	-
-152639	Elastic Representations via Hyperbolic Geometry	https://neurips.cc/virtual/2026/poster/152639	pending	-
-154798	Elastic Spectral State Space Models for Train-Once Budgeted Inference	https://neurips.cc/virtual/2026/poster/154798	pending	-
-150432	ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/150432	pending	-
-153957	Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding	https://neurips.cc/virtual/2026/poster/153957	pending	-
-148278	ELF: Embedded Language Flows	https://neurips.cc/virtual/2026/poster/148278	pending	-
-151632	Elicited Adaptation: Auditable Localized Fairness via Pairwise Queries	https://neurips.cc/virtual/2026/poster/151632	pending	-
-148602	Eliciting Secret Knowledge from Language Models	https://neurips.cc/virtual/2026/poster/148602	pending	-
-149767	Eliciting Zero-Shot Named Entity Recognition in Large Language Models via Instruction Semantic Elaboration	https://neurips.cc/virtual/2026/poster/149767	pending	-
-139367	ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation	https://neurips.cc/virtual/2026/poster/139367	pending	-
-154929	ELPAC: Endpoint-Anchored Latent Progression with Stage-Varying Multimodal Coordination	https://neurips.cc/virtual/2026/poster/154929	pending	-
-149339	ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation	https://neurips.cc/virtual/2026/poster/149339	pending	-
-153273	EMA-Nesterov: Stabilizing Nesterov's Lookahead for Accelerated Deep Learning Optimization	https://neurips.cc/virtual/2026/poster/153273	pending	-
-149789	Embedded-Arena: Building Hardware-in-the-Loop Coding Agents to Run AI on Microcontrollers	https://neurips.cc/virtual/2026/poster/149789	pending	-
-153155	Embedding Foundation Model Predictions in Discrete-Choice Models with Structural Guarantees	https://neurips.cc/virtual/2026/poster/153155	pending	-
-154694	Embedding Security Properties into AI-Enabled Cyber-Physical Systems	https://neurips.cc/virtual/2026/poster/154694	pending	-
-155251	Embeddings for Preferences, Not Semantics	https://neurips.cc/virtual/2026/poster/155251	pending	-
-140071	Embodied AI Cannot Scale Without Open-Source Distributed Geometric Optimization Backends for Life-Scale Egocentric Data	https://neurips.cc/virtual/2026/poster/140071	pending	-
-153742	Embodied Neurocomputation: A Framework for Interfacing Biological Neural Cultures with Scaled Task-Driven Validation	https://neurips.cc/virtual/2026/poster/153742	pending	-
-148643	EmbodiedObject: All-in-One Object Understanding with SLAT	https://neurips.cc/virtual/2026/poster/148643	pending	-
-148357	Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models	https://neurips.cc/virtual/2026/poster/148357	pending	-
-140051	Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot	https://neurips.cc/virtual/2026/poster/140051	pending	-
-139530	EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge	https://neurips.cc/virtual/2026/poster/139530	pending	-
-149226	Emergence of a Shared Canonical Object Frame from In-the-Wild Videos	https://neurips.cc/virtual/2026/poster/149226	pending	-
-152320	Emergence of Distortions in High-Dimensional Guided Diffusion Models	https://neurips.cc/virtual/2026/poster/152320	pending	-
-152582	Emergence of Physical Intelligence via Controllable Information Production	https://neurips.cc/virtual/2026/poster/152582	pending	-
-150542	Emergence, Retention and Mitigation of Ill-conditioning due to Basis Lifting in KANs	https://neurips.cc/virtual/2026/poster/150542	pending	-
-149424	Emergent Biological Capabilities in a Foundation Model for Molecular Interactions	https://neurips.cc/virtual/2026/poster/149424	pending	-
+151908	Efficient Off-Policy RL for Video Generation via Forward-Consistent Reward Matching	https://neurips.cc/virtual/2026/poster/151908	included	将奖励匹配建在干净样本上以复用离线视频
+152711	Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention	https://neurips.cc/virtual/2026/poster/152711	included	先压缩潜变量，再使用线性复杂度的 token 混合
+150018	Efficient One-to-many Domain Translation via Diffusive Entropic Optimal Transport	https://neurips.cc/virtual/2026/poster/150018	included	用加噪后可估计的熵控制条件输出多样性
+150130	Efficient Prediction of Pass@k Scaling in Large Language Models	https://neurips.cc/virtual/2026/poster/150130	included	用有限重复采样估计大预算下的能力曲线
+155039	Efficient Pre-Training with Token Superposition	https://neurips.cc/virtual/2026/poster/155039	included	先按 token 袋并行吸收文本，再恢复正常训练
+149724	Efficient Reasoning via Constrained Optimization in Latent Space	https://neurips.cc/virtual/2026/poster/149724	included	在隐藏空间约束冗余推理而非直接限制长度
+148961	Efficient Retrosynthesis Prediction with Integral Flow Matching and Latent Inversion	https://neurips.cc/virtual/2026/poster/148961	excluded	主要贡献是加速具体化学逆合成规划，本轮不提取该应用的操作机制
+155143	EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts	https://neurips.cc/virtual/2026/poster/155143	included	按解码阶段动态启用投机解码
+149034	Efficient SAM 3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations	https://neurips.cc/virtual/2026/poster/149034	included	在多类分割中显式竞争类别并建模背景
+152668	Efficient Scaling of LLM Training with Flexible Context Parallelism	https://neurips.cc/virtual/2026/poster/152668	included	按批次序列长度重配上下文并行度
+151165	Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management	https://neurips.cc/virtual/2026/poster/151165	included	按预测的后续调用序列保留 KV 缓存
+149515	Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes	https://neurips.cc/virtual/2026/poster/149515	included	加入说话人对比监督以减少近场干扰且不增推理成本
+155174	Efficient Test-Time Adaptation For Robot Policies	https://neurips.cc/virtual/2026/poster/155174	included	无部署奖励时用冻结价值模型和难例记忆适配策略
+149626	Efficient Test-time Adaptation through Candidate Verification and Divergence Shifts	https://neurips.cc/virtual/2026/poster/149626	included	通过候选重建后的分布变化重新排序
+152821	Efficient Training of Deep Spiking Neural Networks with Input-Driven Derivative-Free Updates	https://neurips.cc/virtual/2026/poster/152821	included	用输入构造更新信号，减少对内部膜电位的依赖
+154970	Efficient Transferable Optimal Transport via Min-Sliced Transport Plans	https://neurips.cc/virtual/2026/poster/154970	included	把相近分布对的最优投影复用为传输起点
+152500	Efficient Tree Draft for Long-Context Speculative Decoding	https://neurips.cc/virtual/2026/poster/152500	included	为共享前缀的草稿树设计专用数据访问
+155459	Efficient Variational Inference for Log-Gaussian Cox Processes via Voronoi Tessellation	https://neurips.cc/virtual/2026/poster/155459	included	在点过程的似然近似中把观测点设为求积节点
+151834	EGCA: A Spectral Perspective on Forward Process Design in Diffusion Models	https://neurips.cc/virtual/2026/poster/151834	included	用生成元的主特征值比较前向过程的混合速度
+139483	E-GEO: A Testbed for Generative Engine Optimization in E-Commerce	https://neurips.cc/virtual/2026/poster/139483	included	把商品事实质量与推荐排序变化分别审核
+139408	EgoBabyVLM: Benchmarking cross-modal learning from naturalistic egocentric video data	https://neurips.cc/virtual/2026/poster/139408	included	控制视听语义对齐程度评估数据
+139324	EgoBench: An Interactive Egocentric Multimodal Benchmark for Tool-Using Agents	https://neurips.cc/virtual/2026/poster/139324	included	要求感知与工具推理共同完成任务
+150778	EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing	https://neurips.cc/virtual/2026/poster/150778	included	按时刻分配去噪不确定性
+155320	Ego-HMB: Human Motion Bridging from Egocentric Images via Motion Bridge Diffusion Model	https://neurips.cc/virtual/2026/poster/155320	included	以两端图像替换结构化姿态条件
+154301	EgoHMP: Achieving Precise Human Motion Prediction in 3D Scenes via Egocentric Cues	https://neurips.cc/virtual/2026/poster/154301	included	用头动和第一视角替代注视传感
+154591	EgoMo3R: Joint Egocentric Motion and Scene Reconstruction	https://neurips.cc/virtual/2026/poster/154591	included	让几何和人体运动联合约束
+139373	EgoStream: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision	https://neurips.cc/virtual/2026/poster/139373	included	用答案有效窗区分遗忘和事实变化
+139540	EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open-Surgery Training	https://neurips.cc/virtual/2026/poster/139540	included	用多人独立校正构造姿态金标准
+151402	EgoTac: In-the-wild Tactile Prediction from Egocentric Vision	https://neurips.cc/virtual/2026/poster/151402	included	将力回归与接触分类统一纳入视觉训练
+139551	EHRNote-ChatQA: A Benchmark for Evidence-Grounded Multi-Turn Clinical Question Answering over Longitudinal Discharge Summaries	https://neurips.cc/virtual/2026/poster/139551	included	多轮文档问答逐轮核对引用
+153762	EIHMR: Collaborative Human-Camera Estimation for Global Human Mesh Recovery	https://neurips.cc/virtual/2026/poster/153762	included	让人体与相机估计互相约束
+150112	EIPO: Efficient Inter-Step Parallel Optimization	https://neurips.cc/virtual/2026/poster/150112	included	将多步优化改写为并行求根
+154563	ElasticFit: Fit-Aware 3D Object Insertion via VLM Reasoning and Generative Adaptation	https://neurips.cc/virtual/2026/poster/154563	included	将语言意图转为结构化适配条件
+152639	Elastic Representations via Hyperbolic Geometry	https://neurips.cc/virtual/2026/poster/152639	included	冻结编码器后训练可压缩也可扩展的适配器
+154798	Elastic Spectral State Space Models for Train-Once Budgeted Inference	https://neurips.cc/virtual/2026/poster/154798	included	按算子频谱截断导出多个计算档位
+150432	ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/150432	included	按控制阶段选择重算还是复用
+153957	Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding	https://neurips.cc/virtual/2026/poster/153957	included	固定视觉记忆预算再评估长视频压缩
+148278	ELF: Embedded Language Flows	https://neurips.cc/virtual/2026/poster/148278	included	只在最后阶段将连续表示映射到离散文本
+151632	Elicited Adaptation: Auditable Localized Fairness via Pairwise Queries	https://neurips.cc/virtual/2026/poster/151632	included	按群体分别征询相似度和容差
+148602	Eliciting Secret Knowledge from Language Models	https://neurips.cc/virtual/2026/poster/148602	excluded	主要贡献为提取模型隐含信息的方法，摘要没有验证可独立采纳的防御机制。
+149767	Eliciting Zero-Shot Named Entity Recognition in Large Language Models via Instruction Semantic Elaboration	https://neurips.cc/virtual/2026/poster/149767	included	在零样本实体识别指令中补足类别边界。
+139367	ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation	https://neurips.cc/virtual/2026/poster/139367	included	对动作生成单独评估跨片段指代兑现。
+154929	ELPAC: Endpoint-Anchored Latent Progression with Stage-Varying Multimodal Coordination	https://neurips.cc/virtual/2026/poster/154929	included	以可靠端点定位潜阶段，再解释阶段内的多模态依赖。
+149339	ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation	https://neurips.cc/virtual/2026/poster/149339	included	让语言 token 在匹配尺度上访问三维证据。
+153273	EMA-Nesterov: Stabilizing Nesterov's Lookahead for Accelerated Deep Learning Optimization	https://neurips.cc/virtual/2026/poster/153273	included	用参数更新的 EMA 稳定前瞻方向。
+149789	Embedded-Arena: Building Hardware-in-the-Loop Coding Agents to Run AI on Microcontrollers	https://neurips.cc/virtual/2026/poster/149789	included	将实际资源测量用作端侧模型优化反馈。
+153155	Embedding Foundation Model Predictions in Discrete-Choice Models with Structural Guarantees	https://neurips.cc/virtual/2026/poster/153155	included	冻结受约束选择模型的结构系数，再利用基础模型提高精度。
+154694	Embedding Security Properties into AI-Enabled Cyber-Physical Systems	https://neurips.cc/virtual/2026/poster/154694	included	用同一形式规范校验输入修复和预测输出。
+155251	Embeddings for Preferences, Not Semantics	https://neurips.cc/virtual/2026/poster/155251	included	训练偏好编码器时解除立场与措辞的相关性。
+140071	Embodied AI Cannot Scale Without Open-Source Distributed Geometric Optimization Backends for Life-Scale Egocentric Data	https://neurips.cc/virtual/2026/poster/140071	excluded	定位为立场论文，摘要未展示所提后端实现及验证。
+153742	Embodied Neurocomputation: A Framework for Interfacing Biological Neural Cultures with Scaled Task-Driven Validation	https://neurips.cc/virtual/2026/poster/153742	included	用跨回合学习、匹配交互预算评价不同计算基底。
+148643	EmbodiedObject: All-in-One Object Understanding with SLAT	https://neurips.cc/virtual/2026/poster/148643	included	先确认生成潜变量保留部件局部性，再选择是否单训编码器。
+148357	Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models	https://neurips.cc/virtual/2026/poster/148357	included	分别检验联合训练的任务平衡和执行期纠错闭环。
+140051	Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot	https://neurips.cc/virtual/2026/poster/140051	excluded	提出人形形态与控制协同设计议程，摘要未给出验证的独立机制或规律。
+139530	EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge	https://neurips.cc/virtual/2026/poster/139530	included	把新文本对应到给定图快照上的编辑操作。
+149226	Emergence of a Shared Canonical Object Frame from In-the-Wild Videos	https://neurips.cc/virtual/2026/poster/149226	included	用共享粗网格作为跨实例的姿态对齐瓶颈。
+152320	Emergence of Distortions in High-Dimensional Guided Diffusion Models	https://neurips.cc/virtual/2026/poster/152320	included	通过引导时间表同时监测条件分离和方差损失。
+152582	Emergence of Physical Intelligence via Controllable Information Production	https://neurips.cc/virtual/2026/poster/152582	included	按系统可控信息的产生速率选探索目标。
+150542	Emergence, Retention and Mitigation of Ill-conditioning due to Basis Lifting in KANs	https://neurips.cc/virtual/2026/poster/150542	included	检查基函数提升后 Gram 矩阵，再决定是否学习坐标变换。
+149424	Emergent Biological Capabilities in a Foundation Model for Molecular Interactions	https://neurips.cc/virtual/2026/poster/149424	excluded	核心验证涉及分子相互作用预测与候选分子筛选，暂不录入可操作机制。
 151342	Emergent Low-Rank Training Dynamics in MLPs with Smooth Activations	https://neurips.cc/virtual/2026/poster/151342	pending	-
 150105	Emergent Misalignment as Data-Mediated Transfer	https://neurips.cc/virtual/2026/poster/150105	pending	-
 152452	Emergent representations of graphical structure in mechanistic neural models of causal judgment	https://neurips.cc/virtual/2026/poster/152452	pending	-

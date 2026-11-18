@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2549** 篇，暂收录 **2379** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2609** 篇，暂收录 **2434** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2387,3 +2387,58 @@
 | 图学习 | 持续适配 | [Efficient Memory Crystallization for Graph Learning under Non-Stationary Distribution Shifts](cards-0004.md#paper-149800) | 用分布匹配闭式摘要替代训练生成式记忆 |
 | 多模态学习 | 提示适配 | [Efficient Multi-Source Prompt Adaptation for Cross-Domain Open-Vocabulary Learning](cards-0004.md#paper-150859) | 分离类别语义提示和域提示并在无标签域做一致性 |
 | 科学机器学习 | 自适应采样 | [Efficient Neural Field Learning via Adaptive Coverage and Focused Sampling](cards-0004.md#paper-151578) | 先覆盖空间分区再按区域重要度配额 |
+| 视频生成 | 强化学习 | [Efficient Off-Policy RL for Video Generation via Forward-Consistent Reward Matching](cards-0004.md#paper-151908) | 将奖励匹配建在干净样本上以复用离线视频 |
+| 计算机视觉 | 图像恢复 | [Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention](cards-0004.md#paper-152711) | 先压缩潜变量，再使用线性复杂度的 token 混合 |
+| 生成模型 | 最优传输 | [Efficient One-to-many Domain Translation via Diffusive Entropic Optimal Transport](cards-0004.md#paper-150018) | 用加噪后可估计的熵控制条件输出多样性 |
+| 大语言模型 | 能力评测 | [Efficient Prediction of Pass@k Scaling in Large Language Models](cards-0004.md#paper-150130) | 用有限重复采样估计大预算下的能力曲线 |
+| 大语言模型 | 预训练 | [Efficient Pre-Training with Token Superposition](cards-0004.md#paper-155039) | 先按 token 袋并行吸收文本，再恢复正常训练 |
+| 大语言模型 | 推理优化 | [Efficient Reasoning via Constrained Optimization in Latent Space](cards-0004.md#paper-149724) | 在隐藏空间约束冗余推理而非直接限制长度 |
+| 机器学习系统 | 推理调度 | [EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts](cards-0004.md#paper-155143) | 按解码阶段动态启用投机解码 |
+| 计算机视觉 | 语义分割 | [Efficient SAM 3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations](cards-0004.md#paper-149034) | 在多类分割中显式竞争类别并建模背景 |
+| 机器学习系统 | 并行训练 | [Efficient Scaling of LLM Training with Flexible Context Parallelism](cards-0004.md#paper-152668) | 按批次序列长度重配上下文并行度 |
+| Agent | 缓存管理 | [Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management](cards-0004.md#paper-151165) | 按预测的后续调用序列保留 KV 缓存 |
+| 多模态学习 | 流式语音 | [Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes](cards-0004.md#paper-149515) | 加入说话人对比监督以减少近场干扰且不增推理成本 |
+| 机器人学 | 测试时适配 | [Efficient Test-Time Adaptation For Robot Policies](cards-0004.md#paper-155174) | 无部署奖励时用冻结价值模型和难例记忆适配策略 |
+| 多模态学习 | 测试时适配 | [Efficient Test-time Adaptation through Candidate Verification and Divergence Shifts](cards-0004.md#paper-149626) | 通过候选重建后的分布变化重新排序 |
+| 模型训练 | 脉冲网络 | [Efficient Training of Deep Spiking Neural Networks with Input-Driven Derivative-Free Updates](cards-0004.md#paper-152821) | 用输入构造更新信号，减少对内部膜电位的依赖 |
+| 统计学习 | 最优传输 | [Efficient Transferable Optimal Transport via Min-Sliced Transport Plans](cards-0004.md#paper-154970) | 把相近分布对的最优投影复用为传输起点 |
+| 机器学习系统 | 推理优化 | [Efficient Tree Draft for Long-Context Speculative Decoding](cards-0004.md#paper-152500) | 为共享前缀的草稿树设计专用数据访问 |
+| 统计学习 | 空间统计 | [Efficient Variational Inference for Log-Gaussian Cox Processes via Voronoi Tessellation](cards-0004.md#paper-155459) | 在点过程的似然近似中把观测点设为求积节点 |
+| 生成模型 | 扩散设计 | [EGCA: A Spectral Perspective on Forward Process Design in Diffusion Models](cards-0004.md#paper-151834) | 用生成元的主特征值比较前向过程的混合速度 |
+| Agent | 信息质量评测 | [E-GEO: A Testbed for Generative Engine Optimization in E-Commerce](cards-0004.md#paper-139483) | 把商品事实质量与推荐排序变化分别审核 |
+| 多模态学习 | 数据策略 | [EgoBabyVLM: Benchmarking cross-modal learning from naturalistic egocentric video data](cards-0004.md#paper-139408) | 控制视听语义对齐程度评估数据 |
+| 多模态学习 | 交互评测 | [EgoBench: An Interactive Egocentric Multimodal Benchmark for Tool-Using Agents](cards-0004.md#paper-139324) | 要求感知与工具推理共同完成任务 |
+| 计算机视觉 | 流式重建 | [EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing](cards-0004.md#paper-150778) | 按时刻分配去噪不确定性 |
+| 计算机视觉 | 条件生成 | [Ego-HMB: Human Motion Bridging from Egocentric Images via Motion Bridge Diffusion Model](cards-0004.md#paper-155320) | 以两端图像替换结构化姿态条件 |
+| 计算机视觉 | 运动预测 | [EgoHMP: Achieving Precise Human Motion Prediction in 3D Scenes via Egocentric Cues](cards-0004.md#paper-154301) | 用头动和第一视角替代注视传感 |
+| 计算机视觉 | 联合优化 | [EgoMo3R: Joint Egocentric Motion and Scene Reconstruction](cards-0004.md#paper-154591) | 让几何和人体运动联合约束 |
+| 多模态学习 | 记忆评测 | [EgoStream: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision](cards-0004.md#paper-139373) | 用答案有效窗区分遗忘和事实变化 |
+| 计算机视觉 | 评测协议 | [EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open-Surgery Training](cards-0004.md#paper-139540) | 用多人独立校正构造姿态金标准 |
+| 机器人学 | 跨模态预测 | [EgoTac: In-the-wild Tactile Prediction from Egocentric Vision](cards-0004.md#paper-151402) | 将力回归与接触分类统一纳入视觉训练 |
+| 多模态学习 | 证据评测 | [EHRNote-ChatQA: A Benchmark for Evidence-Grounded Multi-Turn Clinical Question Answering over Longitudinal Discharge Summaries](cards-0004.md#paper-139551) | 多轮文档问答逐轮核对引用 |
+| 计算机视觉 | 联合估计 | [EIHMR: Collaborative Human-Camera Estimation for Global Human Mesh Recovery](cards-0004.md#paper-153762) | 让人体与相机估计互相约束 |
+| 优化 | 并行训练 | [EIPO: Efficient Inter-Step Parallel Optimization](cards-0004.md#paper-150112) | 将多步优化改写为并行求根 |
+| 计算机视觉 | 三维约束 | [ElasticFit: Fit-Aware 3D Object Insertion via VLM Reasoning and Generative Adaptation](cards-0004.md#paper-154563) | 将语言意图转为结构化适配条件 |
+| 表征学习 | 预算适配 | [Elastic Representations via Hyperbolic Geometry](cards-0004.md#paper-152639) | 冻结编码器后训练可压缩也可扩展的适配器 |
+| 大语言模型 | 预算推理 | [Elastic Spectral State Space Models for Train-Once Budgeted Inference](cards-0004.md#paper-154798) | 按算子频谱截断导出多个计算档位 |
+| 机器人学 | 推理调度 | [ElegantVLA: Learning When to Think for Efficient Vision-Language-Action Models](cards-0004.md#paper-150432) | 按控制阶段选择重算还是复用 |
+| 多模态学习 | 长视频推理 | [Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding](cards-0004.md#paper-153957) | 固定视觉记忆预算再评估长视频压缩 |
+| 大语言模型 | 连续生成 | [ELF: Embedded Language Flows](cards-0004.md#paper-148278) | 只在最后阶段将连续表示映射到离散文本 |
+| 统计学习 | 公平性审计 | [Elicited Adaptation: Auditable Localized Fairness via Pairwise Queries](cards-0004.md#paper-151632) | 按群体分别征询相似度和容差 |
+| 自然语言处理 | 指令优化 | [Eliciting Zero-Shot Named Entity Recognition in Large Language Models via Instruction Semantic Elaboration](cards-0005.md#paper-149767) | 在零样本实体识别指令中补足类别边界。 |
+| 多模态学习 | 长程评测 | [ELMA: Benchmarking Anaphoric Compositions for Long-Term Text-to-Motion Generation](cards-0005.md#paper-139367) | 对动作生成单独评估跨片段指代兑现。 |
+| 统计学习 / 医学 | 潜变量建模 | [ELPAC: Endpoint-Anchored Latent Progression with Stage-Varying Multimodal Coordination](cards-0005.md#paper-154929) | 以可靠端点定位潜阶段，再解释阶段内的多模态依赖。 |
+| 多模态学习 | 稀疏融合 | [ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](cards-0005.md#paper-149339) | 让语言 token 在匹配尺度上访问三维证据。 |
+| 优化 | 梯度更新 | [EMA-Nesterov: Stabilizing Nesterov's Lookahead for Accelerated Deep Learning Optimization](cards-0005.md#paper-153273) | 用参数更新的 EMA 稳定前瞻方向。 |
+| Agent / 机器学习系统 | 硬件在环 | [Embedded-Arena: Building Hardware-in-the-Loop Coding Agents to Run AI on Microcontrollers](cards-0005.md#paper-149789) | 将实际资源测量用作端侧模型优化反馈。 |
+| 统计学习 | 结构约束 | [Embedding Foundation Model Predictions in Discrete-Choice Models with Structural Guarantees](cards-0005.md#paper-153155) | 冻结受约束选择模型的结构系数，再利用基础模型提高精度。 |
+| 可靠性 | 约束推断 | [Embedding Security Properties into AI-Enabled Cyber-Physical Systems](cards-0005.md#paper-154694) | 用同一形式规范校验输入修复和预测输出。 |
+| 自然语言处理 | 偏好表征 | [Embeddings for Preferences, Not Semantics](cards-0005.md#paper-155251) | 训练偏好编码器时解除立场与措辞的相关性。 |
+| 科学机器学习 | 闭环评测 | [Embodied Neurocomputation: A Framework for Interfacing Biological Neural Cultures with Scaled Task-Driven Validation](cards-0005.md#paper-153742) | 用跨回合学习、匹配交互预算评价不同计算基底。 |
+| 具身智能 | 三维表征 | [EmbodiedObject: All-in-One Object Understanding with SLAT](cards-0005.md#paper-148643) | 先确认生成潜变量保留部件局部性，再选择是否单训编码器。 |
+| 具身智能 | 多任务强化学习 | [Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models](cards-0005.md#paper-148357) | 分别检验联合训练的任务平衡和执行期纠错闭环。 |
+| 图学习 | 基准构造 | [EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge](cards-0005.md#paper-139530) | 把新文本对应到给定图快照上的编辑操作。 |
+| 计算机视觉 | 自监督对齐 | [Emergence of a Shared Canonical Object Frame from In-the-Wild Videos](cards-0005.md#paper-149226) | 用共享粗网格作为跨实例的姿态对齐瓶颈。 |
+| 生成模型 | 采样理论 | [Emergence of Distortions in High-Dimensional Guided Diffusion Models](cards-0005.md#paper-152320) | 通过引导时间表同时监测条件分离和方差损失。 |
+| 强化学习 | 内在奖励 | [Emergence of Physical Intelligence via Controllable Information Production](cards-0005.md#paper-152582) | 按系统可控信息的产生速率选探索目标。 |
+| 优化 | 预条件 | [Emergence, Retention and Mitigation of Ill-conditioning due to Basis Lifting in KANs](cards-0005.md#paper-150542) | 检查基函数提升后 Gram 矩阵，再决定是否学习坐标变换。 |
