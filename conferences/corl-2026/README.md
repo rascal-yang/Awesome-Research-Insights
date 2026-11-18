@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **442 / 687** 篇，当前收录 **413** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **505 / 687** 篇，当前收录 **468** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -419,3 +419,58 @@
 | 具身智能 / 人形控制 | 低延迟控制 | [ExtremControl: Low-Latency Humanoid Teleoperation with Scaled Velocity Feedforward](cards.md#paper-x4i3ksa2kd) | 测量位置控制滞后，按理论比例加入缩放速度前馈。 |
 | 具身智能 / 人形控制 | 遥操接口 | [SPOT: Spatial Perception-Oriented Long-Horizon Humanoid Teleoperation](cards.md#paper-pwdt36r945) | 让操作者在稳定广角视图中独立转头观察，避免观察动作误驱动机器人。 |
 | 具身智能 / 人形控制 | 探索课程 | [SwingBot: Learning Whole-Body Brachiation for Humanoid Robots](cards.md#paper-wp9ex57z2k) | 以关键帧覆盖长时稀有接触转移，再用可部署传感估计相对位置和接触。 |
+| 具身智能 | 遥操课程 | [HEFT: Heavy Load Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum](cards.md#paper-jhdmnwpt4o) | 以干净重建参考指导含噪 VR 跟踪，并按阶段设置载荷上限。 |
+| 具身智能 | 分层控制 | [HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors](cards.md#paper-l8hoz8lovg) | 低层预训直接保留真实分布接触，高层约束在已见命令域。 |
+| 具身智能 | 故障适配 | [FT-WBC: Learning Fault-Tolerant Whole-Body Control for Legged Loco-Manipulation](cards.md#paper-mjvsjnqufv) | 利用本体历史估计下肢故障，先修正上肢规划要求的底座姿态。 |
+| 具身智能 | 接触控制 | [ContactMimic: Humanoid Object Interaction via Contact Control](cards.md#paper-wxbkimuzti) | 将部件接触作为独立可控命令，并打破命令与几何轨迹共线性。 |
+| 具身智能 | 技能控制 | [AcroRL: Learning Aggressive Quadrotor Inversion using Bidirectional Thrust](cards.md#paper-uoffrjhhq8) | 用双方向独立过渡策略衔接常规轨迹控制。 |
+| 具身智能 | 可微仿真 | [Learning Visuomotor Quadrotor Flight Through Dynamic Narrow Gaps via Differentiable Simulation](cards.md#paper-nwlhqecx3l) | 精度关键且动力学可微时优先对比路径梯度训练。 |
+| 具身智能 | 模态训练 | [Approximate Imitation Learning for Event-based Quadrotor Flight in Cluttered Environments](cards.md#paper-j5qczcrrda) | 先从离线数据学传感表示，再利用低成本模拟状态训练闭环。 |
+| 具身智能 | 边缘推理 | [Neuromorphic Control of a Flapping-Wing Robot on Resource-Constrained Hardware](cards.md#paper-yzejd0wik9) | 在普通 MCU 上实测脉冲控制的延迟与功耗，再决定是否替换 ANN。 |
+| 具身智能 | 评测设计 | [AM-Bench: A Modular Simulation Suite and Benchmark for Aerial Manipulation Policy Learning](cards.md#paper-8ifziu27yy) | 分开交换机器人形态、低层控制与策略接口以定位空中操作失效。 |
+| 具身智能 | 采样引导 | [π, But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation](cards.md#paper-sn5svboz8d) | 迁移固定底座 VLA 时在流采样加入载荷约束。 |
+| 具身智能 | 测试时适配 | [GeoXel: Geographic Per-pixel 3D Mapping from Aerial Video in the Wild](cards.md#paper-xjym9if1tm) | 用地理锚点监督少量层适配，保持场景结构并纠正长序列漂移。 |
+| 具身智能 | 代价表示 | [Plann3r: Predicting Planning Costs Grounded in 3D](cards.md#paper-rexyyvslbt) | 把标量图像距离换成由目标像素索引的像素级测地代价。 |
+| 具身智能 | 安全评测 | [Future-Aware Flow Planning for Safe UAV Target Following](cards.md#paper-m94acp7al5) | 安全跟随策略比较时同时测碰撞、持续跟踪和平滑度。 |
+| 具身智能 | 自蒸馏 | [Training Generalist Navigation Policies via Action Self-Distillation](cards.md#paper-lwmnsycnck) | 只在训练时利用完整轨迹反推目标与推理，再让学生用机载观测预测。 |
+| 具身智能 | 动力学适配 | [Adapting Generalist Vehicle Models for High-Speed MPC Across Terrains](cards.md#paper-qeov7muwix) | 少量实测加识别仿真，并用近期状态动作历史估计动力学上下文。 |
+| 具身智能 | 评测诊断 | [ATOM-Bench: A Real-World Benchmark for Atomic Skills and Compositional Generalization in Manipulation Policies](cards.md#paper-dpovq6ne2d) | 用原子能力和组合失败占比分离动作不足与组合泛化失败。 |
+| 具身智能 | 主动澄清 | [Bayesian Active Learning for Intent Disambiguation in Interactive Robot Planning](cards.md#paper-el4edbhqcg) | 用具身任务规范候选的信息增益挑澄清问题，再交由可验证规划器。 |
+| 具身智能 | 不确定性 | [Control-Ready Uncertainty for Trajectory Diffusion](cards.md#paper-c9tcchtvcs) | 蒸馏扩散分数曲率，输出可在线使用的逐步协方差。 |
+| 具身智能 | 控制目标 | [Emergent Control via Prior-Based Free Energy Minimization](cards.md#paper-xy8qpmsxvq) | 偏好状态推断替代显式任务奖励 |
+| 具身智能 | 分层规划 | [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](cards.md#paper-c96z0rnfh8) | 通过并行仿真排练选择技能图结构与参数 |
+| 具身智能 | 约束解码 | [Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints](cards.md#paper-qqs6jndxfz) | 在 token 层检查语法，在动作层检查可执行前置条件 |
+| 具身智能 | 技能记忆 | [Playful Agentic Robot Learning](cards.md#paper-gel3gdwsyo) | 下游任务到达前通过自主探索生成可检索代码技能 |
+| 具身智能 | 可微优化 | [Scalable Deep Unfolding of Conic Optimizers](cards.md#paper-csya6ohdle) | 按矩阵向量积实现隐式反传，并稳定处理重复特征值 |
+| 具身智能 | 约束控制 | [CMP: Robust Whole-Body Tracking for Loco-Manipulation via Competence Manifold Projection](cards.md#paper-yyitbtz7rq) | 把超出控制能力的指令投影到可执行边界 |
+| 具身智能 | 教师蒸馏 | [LadderMan: Learning Humanoid Perceptive Ladder Climbing](cards.md#paper-plnj3a6yht) | 从单一参考学习多个专家，再蒸馏成可感知适应的统一策略 |
+| 具身智能 | 离线到在线强化学习 | [Learning Loco-Manipulation From SMPC Demonstrations With Sparse Offline-to-Online RL](cards.md#paper-5b4j0e21aj) | 用可快速调整的规划教师覆盖探索，再用任务稀疏奖励提升策略 |
+| 具身智能 | 经验规律 | [OpenHLM: An Empirical Recipe for Whole-Body Humanoid Loco-Manipulation](cards.md#paper-ttfzrb0hw3) | 优先暴露全身关节，并用跨形态预训练及 HuMI 补充目标覆盖 |
+| 具身智能 | 数据清洗 | [PHUMA: Physically Reliable Humanoid Locomotion Dataset](cards.md#paper-ly47gbfn32) | 用物理一致性筛选和重定向修复视频动作 |
+| 具身智能 | 安全控制 | [ResSafe: Learning Safety Filtering with Residual Reinforcement Learning for Humanoids](cards.md#paper-remmzounpn) | 把任务策略与安全残差分开优化 |
+| 具身智能 | 触觉控制 | [TactileStep: Sole Tactile Learning for Regulating Foot--Terrain Interaction in Humanoid Locomotion](cards.md#paper-aglo1l8snb) | 用足底压力划分落地和站稳阶段，分别塑形 |
+| 具身智能 | 在线建图 | [Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping](cards.md#paper-q53aygo2ie) | 以当前帧局部坐标预测，再通过运动图对齐长期轨迹 |
+| 具身智能 | 约束生成 | [Collaborative Planning for UAV-UGV Teams under Operational Constraints via Masked Error-bounded Neuro-Symbolic Diffusion](cards.md#paper-lsrxdurldg) | 在符号约束过滤之后计算熵并决定掩码解码顺序 |
+| 具身智能 | 评测诊断 | [From Region Arrival to Instance-Level Grounding in Vision-and-Language Navigation](cards.md#paper-rwgnm8fuxx) | 最后靠近阶段用目标可见性决定停步，并细化成功指标 |
+| 具身智能 | 惯性定位 | [MosaicIMU: Composing Carrier Experts for Generalizable Neural Inertial Odometry](cards.md#paper-k2qzxbcsbq) | 用载体原型路由组合专家，换平台时只训练新残差分支 |
+| 具身智能 | 时间规划 | [OSCAR: Obstacle Survival Curves for Adaptive Robot Navigation](cards.md#paper-hr2fyfod4n) | 用类别条件清障生存曲线估计应等多久再绕行 |
+| 具身智能 / 强化学习 | 安全约束 | [SCoCaT: Success Conditioned Constrained Reinforcement Learning for Spacecraft Docking](cards.md#paper-suv5pudsyi) | 给终止式约束强化学习加成功价值监督。 |
+| 具身智能 / 模仿学习 | 风险监督 | [TRIAD Planner : Three-Level Robust Imitation Learning for Autonomous Driving](cards.md#paper-98pbd92mei) | 在模仿训练中用尾部风险调整多模态候选监督，部署保持相同开销。 |
+| 具身智能 / 世界模型 | 层级规划 | [Hierarchical Planning with Latent World Models](cards.md#paper-zts11nhglq) | 用同一潜空间连接不同时间尺度的预测模型做 MPC。 |
+| 具身智能 / 世界模型 | 策略后训练 | [WAM-STEP: Self-Improving World-Action Models Through Efficient Post-Training](cards.md#paper-1u6orijjcu) | 校准训练期视频分支后，将其用于想象回报以更新动作分支。 |
+| 具身智能 / 世界模型 | 失败监督 | [FACT: Failure-Aware Causal Training for World-Action Models](cards.md#paper-yrnlvjcapo) | 用实际动作与失败后果训练进度预测，抑制成功偏置。 |
+| 具身智能 / 世界模型 | 推理筛选 | [τ0-WM: A Unified Video-Action World Model for Robotic Manipulation](cards.md#paper-qvol1xoutn) | 以重去噪一致性先排序，只对低质量动作候选调用后果模拟。 |
+| 具身智能 / 世界模型 | 动作编码 | [TAPESTRY: A Single Backbone for Video Generation and Robot Control](cards.md#paper-ailv1lyfxf) | 把动作投影成单个视频块 token，复用视频骨干并做单步动作推理。 |
+| 具身智能 / 世界模型 | 条件分解 | [AnyWorld: Factorized Egocentric World Models for Cross-Embodiment Generalization](cards.md#paper-0w0ylgezd5) | 独立调节动作、视角与本体生成同一交互的机器人数据。 |
+| 具身智能 / 世界模型 | 动作条件化 | [Robot-Factored World Models via Robot Rendering](cards.md#paper-2nityixwgj) | 用执行前可得的名义机器人轨迹渲染作视频预测条件。 |
+| 具身智能 / 世界模型 | 频域编码 | [From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models](cards.md#paper-nbdd4rvq5q) | 用冻结去噪器诊断机器人变量编码是否贴合视频先验。 |
+| 具身智能 / 世界模型 | 表征诊断 | [What Makes Video World Model Latents Action-Relevant: Prediction over Reconstruction](cards.md#paper-lsfm8tzuh2) | 用逆动力学探针选择视频表示，不以像素重构质量代替动作可恢复性。 |
+| 具身智能 / 世界模型 | 推理压缩 | [ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?](cards.md#paper-nthuqgjrgs) | 用目标帧编辑缓存替代全视频生成，为动作头提供变化线索。 |
+| 具身智能 / 世界模型 | 紧凑状态 | [Box Trajectories as Compact State Representations for World Action Models](cards.md#paper-khjj1z5m4y) | 对刚性物体运动使用定向框轨迹预测，减少视觉监督成本。 |
+| 具身智能 / 世界模型 | 掩码监督 | [MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models](cards.md#paper-ih059vnewq) | 把首帧掩码作为指代输入，同时预测未来掩码作为辅助监督。 |
+| 具身智能 / 世界模型 | 三维对齐 | [GSWAM: A Unified Gaussian World Action Model for Robotic Manipulation](cards.md#paper-u5pojpnj6j) | 在共享三维锚空间内建模动作和场景，并对两类变量使用不同流时间步。 |
+| 具身智能 / 世界模型 | 刚体动力学 | [ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation](cards.md#paper-xhjeeyhkhy) | 预测逐物体刚体变换并解析作用在潜变量上，避免多步几何漂移。 |
+| 具身智能 / 世界模型 | 层级规划 | [Scaling World Model for Hierarchical Manipulation Policies](cards.md#paper-hcg12iftej) | 让底层策略同时消费可视子目标和文本，以固定执行器检验分布外增益。 |
+| 具身智能 / 世界模型 | 时序诊断 | [Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio](cards.md#paper-mlf6dhhbnf) | 监控动作头对未来潜变量的依赖，只在适合的阶段增强视频引导。 |
+| 具身智能 / 多模态 | 辅助监督 | [Pri4R: Learning World Dynamics for Vision-Language-Action Models with Privileged 4D Representation](cards.md#paper-8yqfxyof0y) | 训练时预测未来三维点轨迹，部署时移除预测头。 |
+| 具身智能 / 世界模型 | 延迟补偿 | [Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation](cards.md#paper-ddzwaomwze) | 在冻结 VLA 前预测预计执行时刻的视觉 token，并按不确定性截断预测。 |
