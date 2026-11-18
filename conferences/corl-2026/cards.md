@@ -2221,3 +2221,63 @@
 - **适用条件 / 局限** · 世界模型误判仍可能带来错误放行或拒绝；摘要未给模块单独消融或道路部署依据。
 
 **可复用机制** · 给语言控制加动作前可行性判定，分别测正确指令的通过率和冲突指令导致的失败率。
+
+<a id="paper-a1wg3rqdsr"></a>
+
+## PIGEON: VLM-Driven Object Navigation via Points of Interest Selection
+
+[会议记录](https://openreview.net/forum?id=A1Wg3RqdsR) · [原文](https://openreview.net/pdf?id=A1Wg3RqdsR)
+
+- **问题 / 瓶颈** · 密集调用 VLM 开销高，而纯符号记忆可能丢失决策证据。
+- **核心创新 / 方法** · 把探索边界、疑似目标、楼梯及楼层摘要作为兴趣点，低层规划器执行点间移动；以可验证选择训练本地 VLM。
+- **Baseline** · 对照零样本 ObjectNav 方法；摘要未列名称。
+- **Benchmark** · Habitat ObjectNav、主动具身问答与真机部署；摘要未列具体导航指标。
+- **关键结果 / 消融** · 作者报告零样本领先、随模型容量扩展，并通过改提示迁移到具身问答；摘要未报告幅度。
+- **适用条件 / 局限** · 依赖候选提取、视觉关联和低层规划，候选遗漏会限制决策。
+
+**可复用机制** · 保留候选的原始证据和可执行动作，用候选编号定义自动检验的高层决策奖励。
+
+<a id="paper-6rjsxvcnhb"></a>
+
+## IntentNav: Learning Spatial-Visual Object Navigation from Human Demonstrations
+
+[会议记录](https://openreview.net/forum?id=6RJsxVCnhB) · [原文](https://openreview.net/pdf?id=6RJsxVCnhB)
+
+- **问题 / 瓶颈** · 逐帧动作并不直接标明示范者打算探索哪个边界。
+- **核心创新 / 方法** · 前看示范轨迹，标注最符合未来搜索方向的边界；以 BEV 历史和候选的自视角图像共同训练 VLM 选择。
+- **Baseline** · 与既有物体导航策略比较；摘要未列具体方法和底座。
+- **Benchmark** · MP3D、HM3D-v1 和 HM3D-v2 ObjectNav，以及轮式、四足和人形平台的零样本迁移。
+- **关键结果 / 消融** · 作者报告三个基准领先，跨平台免 VLM 微调；摘要未报告数值或消融幅度。
+- **适用条件 / 局限** · 前提是未来轨迹可用于离线标注且候选覆盖实际意图；多次改向可能造成归因歧义。
+
+**可复用机制** · 把连续人类轨迹转成离散子目标监督，在相同示范预算下和逐动作模仿比较。
+
+<a id="paper-fuxtpvfynh"></a>
+
+## One-Step World Models for Multi-Modal Goal Navigation
+
+[会议记录](https://openreview.net/forum?id=FuxTpvfYnh) · [原文](https://openreview.net/pdf?id=FuxTpvfYnh)
+
+- **问题 / 瓶颈** · 多步扩散和逐帧自回归推理拖慢闭环重规划。
+- **核心创新 / 方法** · 使用带时空注意力的 3D U-Net 单次生成全部未来帧；以目标模态专用评分和锚点初始化统一候选规划。
+- **Baseline** · 对照导航先进方法；摘要未列实验名称。
+- **Benchmark** · 仿真和真机闭环，覆盖图像、语言与点目标；比较生成效率及导航表现。
+- **关键结果 / 消融** · 作者报告生成效率改善；摘要未报告加速、成功率数值及独立消融。
+- **适用条件 / 局限** · 单次预测的长时一致性和对更高动态环境的适用性需单独验证。
+
+**可复用机制** · 以固定规划周期比较单步并行和多步预测，记录能评估多少候选以及最终闭环成功率。
+
+<a id="paper-g2ja89f1e8"></a>
+
+## Teaching Robots Like Dogs: Learning Navigation in Cluttered Scenes from Luring, Gesture, and Speech
+
+[会议记录](https://openreview.net/forum?id=G2Ja89f1e8) · [原文](https://openreview.net/pdf?id=G2Ja89f1e8)
+
+- **问题 / 瓶颈** · 实物交互收集成本高，且新用户的语音与手势分布会改变。
+- **核心创新 / 方法** · 录制引导杆教学后重建场景，在仿真中学习扰动恢复；用语音表达动作、手势指定空间目标。
+- **Baseline** · 比较单用语音或手势与联合条件，以及新用户适配前后。
+- **Benchmark** · 六种杂乱导航场景的重建仿真成功率，并做真机多障碍组合演示。
+- **关键结果 / 消融** · 不到一小时真机示范得到 97.15% 仿真成功率；不到五分钟新用户互动后，作者报告仿真成功率平均提高 22.23%。
+- **适用条件 / 局限** · 量化数据主要来自重建仿真；依赖可用的场景重建和可模拟的扰动。
+
+**可复用机制** · 对真实演示预算紧张的任务，在重建环境专门采样偏离示范后的状态，并在未组合过的物理场景验证恢复。

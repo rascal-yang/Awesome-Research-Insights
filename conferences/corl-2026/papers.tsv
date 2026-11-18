@@ -161,10 +161,10 @@ number	openreview_id	title	paper_url	reason	status
 160	Sal8Urvt1F	PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation	https://openreview.net/forum?id=Sal8Urvt1F	让图像生成模型在鸟瞰图上输出可通行掩码，用跨视角定位将全局先验接入局部规划器。	included
 161	xyFvvMLQRo	GLST: Global-Local Spatio-Temporal Memory Decomposition Framework for Online Chained-Goal Navigation	https://openreview.net/forum?id=xyFvvMLQRo	为目标动态变化的任务分别保留全局探索历史和局部短期执行状态。	included
 162	7vjPgJ7x2b	SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving	https://openreview.net/forum?id=7vjPgJ7x2b	在语言条件动作生成前预测场景冲突，用条件未来预测辅助判断指令可行性。	included
-163	A1Wg3RqdsR	PIGEON: VLM-Driven Object Navigation via Points of Interest Selection	https://openreview.net/forum?id=A1Wg3RqdsR		pending
-164	6RJsxVCnhB	IntentNav: Learning Spatial-Visual Object Navigation from Human Demonstrations	https://openreview.net/forum?id=6RJsxVCnhB		pending
-165	FuxTpvfYnh	One-Step World Models for Multi-Modal Goal Navigation	https://openreview.net/forum?id=FuxTpvfYnh		pending
-166	G2Ja89f1e8	Teaching Robots Like Dogs: Learning Navigation in Cluttered Scenes from Luring, Gesture, and Speech	https://openreview.net/forum?id=G2Ja89f1e8		pending
+163	A1Wg3RqdsR	PIGEON: VLM-Driven Object Navigation via Points of Interest Selection	https://openreview.net/forum?id=A1Wg3RqdsR	把航点和原始观测绑定为可验证的任务候选，交给 VLM 稀疏选择。	included
+164	6RJsxVCnhB	IntentNav: Learning Spatial-Visual Object Navigation from Human Demonstrations	https://openreview.net/forum?id=6RJsxVCnhB	用示范未来片段反推当前搜索目标，为高层候选选择生成监督。	included
+165	FuxTpvfYnh	One-Step World Models for Multi-Modal Goal Navigation	https://openreview.net/forum?id=FuxTpvfYnh	在固定控制预算下，一次并行预测候选轨迹的未来帧。	included
+166	G2Ja89f1e8	Teaching Robots Like Dogs: Learning Navigation in Cluttered Scenes from Luring, Gesture, and Speech	https://openreview.net/forum?id=G2Ja89f1e8	重建少量真实示范场景后注入扰动，补充原示范缺少的恢复行为。	included
 167	qbninLImrj	CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents	https://openreview.net/forum?id=qbninLImrj		pending
 168	bXQv3Kn5qL	One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation	https://openreview.net/forum?id=bXQv3Kn5qL		pending
 169	pTqOGquuCh	CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation	https://openreview.net/forum?id=pTqOGquuCh		pending
