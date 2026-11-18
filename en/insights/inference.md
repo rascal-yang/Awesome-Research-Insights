@@ -374,6 +374,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [CoMem: Context Management with A Decoupled Long-Context Model](../../conferences/icml-2026/cards/5701-5800.md#zhang26ai-inference) · 中文
 - [Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance](../../conferences/icml-2026/cards/5801-5900.md#zhang26ce-inference) · 中文
 - [PatternKV: Flattening KV Representation Expands Quantization Headroom](../../conferences/icml-2026/cards/5801-5900.md#zhang26ci-inference) · 中文
+- [In-Context Learning as Rate–Distortion Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26cu-inference) · 中文
+- [Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26dd-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -509,6 +511,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Local MAP Sampling for Diffusion Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26e-inference) · 中文
 - [Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening](../../conferences/icml-2026/cards/5701-5800.md#zhang26z-inference) · 中文
 - [Comp-Attn: Present-and-Align Attention for Compositional Video Generation](../../conferences/icml-2026/cards/5701-5800.md#zhang26ac-inference) · 中文
+- [Trajectory-Stabilized Inference for Diffusion-Based Video Inpainting](../../conferences/icml-2026/cards/5801-5900.md#zhang26cx-inference) · 中文
 
 <a id="by-nlp"></a>
 

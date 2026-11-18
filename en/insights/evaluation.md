@@ -375,6 +375,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms](../../conferences/icml-2026/cards/5701-5800.md#zhang26u-evaluation) · 中文
 - [Learning More from Less: Unlocking Internal Representations for Benchmark Compression](../../conferences/icml-2026/cards/5701-5800.md#zhang26bj-evaluation) · 中文
 - [Prescriptive Scaling Reveals the Evolution of Language Model Capabilities](../../conferences/icml-2026/cards/5801-5900.md#zhang26by-evaluation) · 中文
+- [Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26cw-evaluation) · 中文
+- [CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving](../../conferences/icml-2026/cards/5801-5900.md#zhang26dg-evaluation) · 中文
+- [Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning](../../conferences/icml-2026/cards/5801-5900.md#zhang26di-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -374,6 +374,8 @@
 - [异步迟到摘要与KV重编码预算](../conferences/icml-2026/cards/5701-5800.md#zhang26ai-inference) · CoMem: Context Management with A Decoupled Long-Context Model
 - [局部语义核排斥的文本扩散引导](../conferences/icml-2026/cards/5801-5900.md#zhang26ce-inference) · Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance
 - [按残差动态范围匹配的KV模式量化](../conferences/icml-2026/cards/5801-5900.md#zhang26ci-inference) · PatternKV: Flattening KV Representation Expands Quantization Headroom
+- [按预测分布变化与prefix冲突筛ICL示例](../conferences/icml-2026/cards/5801-5900.md#zhang26cu-inference) · In-Context Learning as Rate–Distortion Optimization
+- [按相邻entropy跃迁切块并调unmask阈值](../conferences/icml-2026/cards/5801-5900.md#zhang26dd-inference) · Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -509,6 +511,7 @@
 - [以局部条件mode替代均值完成逆问题](../conferences/icml-2026/cards/5701-5800.md#zhang26e-inference) · Local MAP Sampling for Diffusion Models
 - [双向motion残差的投影融合](../conferences/icml-2026/cards/5701-5800.md#zhang26z-inference) · Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening
 - [主体条件插值与IoU反馈注意力](../conferences/icml-2026/cards/5701-5800.md#zhang26ac-inference) · Comp-Attn: Present-and-Align Attention for Compositional Video Generation
+- [累积运动对齐漂移后才校正视频latent](../conferences/icml-2026/cards/5801-5900.md#zhang26cx-inference) · Trajectory-Stabilized Inference for Diffusion-Based Video Inpainting
 
 <a id="by-nlp"></a>
 

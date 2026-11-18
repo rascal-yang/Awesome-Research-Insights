@@ -317,6 +317,7 @@ Model-wide design and information flow.
 - [Branching Diffusion for Point Processes in Time and Space](../../conferences/icml-2026/cards/5401-5500.md#yang26bl-architecture) · 中文
 - [Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](../../conferences/icml-2026/cards/5701-5800.md#zhang26d-architecture) · 中文
 - [Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations](../../conferences/icml-2026/cards/5701-5800.md#zhang26ab-architecture) · 中文
+- [CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](../../conferences/icml-2026/cards/5801-5900.md#zhang26cy-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

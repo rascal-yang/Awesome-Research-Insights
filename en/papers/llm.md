@@ -290,6 +290,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yu26ah-optimization"></a>[SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ah)
 - <a id="yu26bs-optimization"></a>[ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bs)
 - <a id="zhang26y-optimization"></a>[LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26y)
+- <a id="zhang26da-optimization"></a>[Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26da)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1103,6 +1104,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26ai-inference"></a>[CoMem: Context Management with A Decoupled Long-Context Model](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ai)
 - <a id="zhang26ce-inference"></a>[Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ce)
 - <a id="zhang26ci-inference"></a>[PatternKV: Flattening KV Representation Expands Quantization Headroom](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ci)
+- <a id="zhang26cu-inference"></a>[In-Context Learning as Rate–Distortion Optimization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cu)
+- <a id="zhang26dd-inference"></a>[Swordsman: Entropy-Driven Adaptive Block Partition for Efficient Diffusion Language Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dd)
 
 <a id="by-representation-learning"></a>
 
@@ -1494,6 +1497,9 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26u-evaluation"></a>[The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26u)
 - <a id="zhang26bj-evaluation"></a>[Learning More from Less: Unlocking Internal Representations for Benchmark Compression](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bj)
 - <a id="zhang26by-evaluation"></a>[Prescriptive Scaling Reveals the Evolution of Language Model Capabilities](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26by)
+- <a id="zhang26cw-evaluation"></a>[Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cw)
+- <a id="zhang26dg-evaluation"></a>[CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dg)
+- <a id="zhang26di-evaluation"></a>[Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26di)
 
 <a id="by-theory-statistics"></a>
 

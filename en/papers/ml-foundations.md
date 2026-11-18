@@ -86,6 +86,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26bl-architecture"></a>[Branching Diffusion for Point Processes in Time and Space](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bl)
 - <a id="zhang26d-architecture"></a>[Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26d)
 - <a id="zhang26ab-architecture"></a>[Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ab)
+- <a id="zhang26cy-architecture"></a>[CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cy)
 
 <a id="by-modules"></a>
 
@@ -217,6 +218,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yu26ad-loss-functions"></a>[Fine-to-Coarse Fairness-Informed Multi-View Clustering](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ad)
 - <a id="yuan26i-loss-functions"></a>[ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26i)
 - <a id="zagardo26a-loss-functions"></a>[Geometry-Aware Tabular Diffusion](../../conferences/icml-2026/cards/5601-5700.md#paper-zagardo26a)
+- <a id="zhang26ct-loss-functions"></a>[Quantifying and Optimizing Simplicity via Polynomial Representations](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ct)
 
 <a id="by-optimization"></a>
 

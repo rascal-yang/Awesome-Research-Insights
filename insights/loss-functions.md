@@ -130,6 +130,7 @@
 - [以原型拥挤度修正无监督映射排名间隔](../conferences/icml-2026/cards/5501-5600.md#yu26p-loss-functions) · Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models
 - [重叠query修正与旧类秩蒸馏](../conferences/icml-2026/cards/5701-5800.md#zeng26c-loss-functions) · Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection
 - [保留生成源细粒度标签并重测检测头](../conferences/icml-2026/cards/5701-5800.md#zhang26bi-loss-functions) · FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection
+- [以结构度量加权flow误差并约束局部方向](../conferences/icml-2026/cards/5801-5900.md#zhang26df-loss-functions) · Structure-Aware Riemannian Flow Matching for Registration and Fusion of Hyperspectral and Multispectral Images
 
 <a id="by-nlp"></a>
 
@@ -307,6 +308,7 @@
 - [耦合样本簇状态与锚点簇计数的目标](../conferences/icml-2026/cards/5601-5700.md#yu26ad-loss-functions) · Fine-to-Coarse Fairness-Informed Multi-View Clustering
 - [以模型分歧除重建误差奖励时序增强](../conferences/icml-2026/cards/5601-5700.md#yuan26i-loss-functions) · ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning
 - [给tabular diffusion加逐行列关系辅助监督](../conferences/icml-2026/cards/5601-5700.md#zagardo26a-loss-functions) · Geometry-Aware Tabular Diffusion
+- [惩罚数据插值路径上的高阶多项式系数](../conferences/icml-2026/cards/5801-5900.md#zhang26ct-loss-functions) · Quantifying and Optimizing Simplicity via Polynomial Representations
 
 <a id="by-graph-and-recommendation"></a>
 

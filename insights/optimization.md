@@ -114,6 +114,7 @@
 - [扩宽时只重置新通道状态并独立重热身](../conferences/icml-2026/cards/5601-5700.md#yu26ah-optimization) · SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning
 - [为adapter塑形的投影量化](../conferences/icml-2026/cards/5601-5700.md#yu26bs-optimization) · ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression
 - [Fisher偏差方差折衷的LoRA初始子空间](../conferences/icml-2026/cards/5701-5800.md#zhang26y-optimization) · LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis
+- [固定总扰动能量学习各参数块的ZO尺度](../conferences/icml-2026/cards/5801-5900.md#zhang26da-optimization) · Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs
 
 <a id="by-computer-vision"></a>
 

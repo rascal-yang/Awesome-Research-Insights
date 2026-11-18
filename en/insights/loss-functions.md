@@ -130,6 +130,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](../../conferences/icml-2026/cards/5501-5600.md#yu26p-loss-functions) · 中文
 - [Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection](../../conferences/icml-2026/cards/5701-5800.md#zeng26c-loss-functions) · 中文
 - [FiSeR: Fine-Grained Source Representations for Cross-Domain AI Image Detection](../../conferences/icml-2026/cards/5701-5800.md#zhang26bi-loss-functions) · 中文
+- [Structure-Aware Riemannian Flow Matching for Registration and Fusion of Hyperspectral and Multispectral Images](../../conferences/icml-2026/cards/5801-5900.md#zhang26df-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -307,6 +308,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Fine-to-Coarse Fairness-Informed Multi-View Clustering](../../conferences/icml-2026/cards/5601-5700.md#yu26ad-loss-functions) · 中文
 - [ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yuan26i-loss-functions) · 中文
 - [Geometry-Aware Tabular Diffusion](../../conferences/icml-2026/cards/5601-5700.md#zagardo26a-loss-functions) · 中文
+- [Quantifying and Optimizing Simplicity via Polynomial Representations](../../conferences/icml-2026/cards/5801-5900.md#zhang26ct-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

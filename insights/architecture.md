@@ -317,6 +317,7 @@
 - [可变事件数的集合扩散](../conferences/icml-2026/cards/5401-5500.md#yang26bl-architecture) · Branching Diffusion for Point Processes in Time and Space
 - [限制attention与MLP以便抽取算法](../conferences/icml-2026/cards/5701-5800.md#zhang26d-architecture) · Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer
 - [联合生成样本与NCDE混合动力学参数](../conferences/icml-2026/cards/5701-5800.md#zhang26ab-architecture) · Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations
+- [用复数倒数乘积单元拟合尖锐有理结构](../conferences/icml-2026/cards/5801-5900.md#zhang26cy-architecture) · CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions
 
 <a id="by-graph-and-recommendation"></a>
 

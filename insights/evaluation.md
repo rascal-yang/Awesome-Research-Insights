@@ -375,6 +375,9 @@
 - [记忆匹配后的近远迁移剖面](../conferences/icml-2026/cards/5701-5800.md#zhang26u-evaluation) · The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms
 - [从少量source模型隐状态构造benchmark小集](../conferences/icml-2026/cards/5701-5800.md#zhang26bj-evaluation) · Learning More from Less: Unlocking Internal Representations for Benchmark Compression
 - [时间外验证的条件分位能力边界](../conferences/icml-2026/cards/5801-5900.md#zhang26by-evaluation) · Prescriptive Scaling Reveals the Evolution of Language Model Capabilities
+- [在阻塞式流式记忆中分开存储与LLM维护成本](../conferences/icml-2026/cards/5801-5900.md#zhang26cw-evaluation) · Neuromem: A Granular Decomposition of the Streaming Lifecycle in External Memory for LLMs
+- [按adapter驻留槽约束入口以控制LoRA尾延迟](../conferences/icml-2026/cards/5801-5900.md#zhang26dg-evaluation) · CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving
+- [在解码参数和双向上下文下联合评估DLM遗忘](../conferences/icml-2026/cards/5801-5900.md#zhang26di-evaluation) · Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning
 
 <a id="by-computer-vision"></a>
 

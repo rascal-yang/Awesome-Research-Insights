@@ -114,6 +114,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26ah-optimization) · 中文
 - [ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression](../../conferences/icml-2026/cards/5601-5700.md#yu26bs-optimization) · 中文
 - [LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis](../../conferences/icml-2026/cards/5701-5800.md#zhang26y-optimization) · 中文
+- [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26da-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
