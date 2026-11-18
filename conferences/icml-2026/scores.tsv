@@ -6510,26 +6510,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6509	trivedi26a							初筛，原文与先例核查待补：现有PDF第3–5页汇总endogenous nonstationarity、多agent外部性与adaptive counterparties，主张institution/cooperation研究。当前未新增game学习算法、equilibrium-selection机制或原始controlled现象，既有经济/多agent案例不单独形成DL技术新增，暂排。	rule-excluded
 6510	troper26a							初筛，原文与先例核查待补：现有PDF第3–5页结合跨文化cognition与已有prompt/finetune敏感研究，反对用单文化人类tests推LLM通用认知。当前无新measurement-invariance estimator或独立evaluation操作/实验，文化偏差论证和文献反例不足技术增量，暂排。	rule-excluded
 6511	utsunomiya26a							初筛，原文与先例核查待补：现有PDF第3–5页围绕copyright/license/tort说明后训练optout不能追溯抹去既成侵权，提出exante lineage compliance。当前是法律规范主张，没有新provenance证明、unlearning边界定理或数据pipeline算法；法理不能作为模型机制或普遍司法结论纳入，暂排。	rule-excluded
-6512	vaccaro26a							待原文复核评分	pending
-6513	vandergrift26a							待原文复核评分	pending
-6514	vladimirova26a							待原文复核评分	pending
-6515	wagner26b							待原文复核评分	pending
-6516	wagner26c							待原文复核评分	pending
-6517	wang26lz							待原文复核评分	pending
-6518	wang26ma							待原文复核评分	pending
-6519	wang26mb							待原文复核评分	pending
-6520	wang26mc							待原文复核评分	pending
-6521	wang26md							待原文复核评分	pending
-6522	wasi26b							待原文复核评分	pending
-6523	wei26ak							待原文复核评分	pending
-6524	wen26m							待原文复核评分	pending
-6525	wernick26a							待原文复核评分	pending
-6526	wilson26b							待原文复核评分	pending
-6527	wu26cn							待原文复核评分	pending
-6528	wu26co							待原文复核评分	pending
-6529	xiao26x							待原文复核评分	pending
-6530	xie26af							待原文复核评分	pending
-6531	xie26ag							待原文复核评分	pending
+6512	vaccaro26a							初筛，原文与先例核查待补：preregistration模板和model/prompt/settings researcher自由度catalogue为既有研究方法规范迁移agent实验；当前无独立神经学习/推理或受控诊断机制，预注册本身不构新增技术。摘要。	rule-excluded
+6513	vandergrift26a	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：把并行RL用于单条部署交互流前，需在单环境控制update-to-data ratio并看整个学习过程return；模拟器随机reset带来的策略收益还应撤去reset后单独评估。；部署多robot/多用户也可有真实parallel data，单流只是特定目标非RL定义；模拟器学好后冻结部署本身有效，不应混同持续learning。matchingUTD改变rollout长度/相关性而非所有因素固定；reset实验未证明新探索原理，walltime/总samples及tuning成本应分别计，最近重复控制待核。 PDF3,4,5,6页。	scored
+6514	vladimirova26a							初筛，原文与先例核查待补：FairnessCards的prompt/counterfactual/metric/refusal披露是成熟evaluation documentation框架，当前未给独立新fairness estimator、训练操作或受控选择规律。摘要。	rule-excluded
+6515	wagner26b							初筛，原文与先例核查待补：token likelihood与event probability区别、proper scoring/显式概率输出的second-order prediction沿既有calibration/probabilistic supervised learning；当前未提供独立新训练损失/校准器或可执行概率保证，显式表达数字本身不保证校准。PDF3及摘要。	rule-excluded
+6516	wagner26c							初筛，原文与先例核查待补：NL/formal互补与高specificity改用formal是既有规范/编程设计原则；crossover依把NL代价假设成σ加固定translation KL，下界未经明确共同sample space/编码论证不能直接成立，σ=0也不需支付固定gap。去掉未确立保证后当前无独立新可用神经操作或控制规律。PDF4–5，属初筛疑点非证明已核。	rule-excluded
+6517	wang26lz							初筛，原文与先例核查待补：waveform-language对齐加PlanActVerify双process与traceability/abstention为成熟multimodal agent/verification流程；医学波形任务蓝图未呈独立generic新模块、可执行约束或受控机制规律。仅摘要高层，不作临床效果结论。	rule-excluded
+6518	wang26ma							初筛，原文与先例核查待补：teachability/future corrective leverage重新界定agentic safety，当前属规范/概念框架，未给可计算新estimator、训练规则或受控未来可纠正性规律。摘要。	rule-excluded
+6519	wang26mb							初筛，原文与先例核查待补：epistemic necessity/何时用tool是成熟metareasoning/value-of-information/cost-aware control问题；ToA规范未提供独立可执行uncertainty estimator或新decision policy，ONLY原则也未计tool成本以外外部验证收益。摘要。	rule-excluded
+6520	wang26mc							初筛，原文与先例核查待补：weight-space generative modeling、symmetry/subspace和五阶段pipeline为已有hypernetwork/checkpoint生成方法综述，当前未提出独立新的权重生成/规范化操作或受控条件规律。adapter生成可行性不能自动推广全frontier checkpoint。摘要。	rule-excluded
+6521	wang26md							初筛，原文与先例核查待补：knownMarkov过程、熵率选择、typical-set NLL及temperature sweep沿成熟synthetic probes/typical decoding；IV/EV falsification协议为研究workflow，当前例只GPT2单序列定性realtext对照，未给独立新神经机制或超出已有temperature效果的控制规律。probe-side成立不等realtext正式迁移。PDF4–6。	rule-excluded
+6522	wasi26b							初筛，原文与先例核查待补：ISO-like machine-readable risk labels/版本协议为治理互操作规范，当前没有独立新增neural训练/推理或可计算验证技术机制，统一bias/energy/provenance字段不足。摘要。	rule-excluded
+6523	wei26ak							初筛，原文与先例核查待补：AI辅助author/reviewer/AC角色与结构化reviewdata研究agenda为成熟workflow，当前未提供独立事实验证算法/评审模型目标或controlled技术收益。摘要。	rule-excluded
+6524	wen26m							初筛，原文与先例核查待补：GEO pipeline、concentration/disclosure治理与deployment measurement议程，当前无独立新generic神经审计机制或受控exposure persistence规律；只高层防御/测量相关性判定，不提优化操控步骤。摘要。	rule-excluded
+6525	wernick26a							初筛，原文与先例核查待补：EUAIAct适用性、研究exemption roadmap和修改建议为法律/出版规范分析，不构神经技术选择或独立可复用训练/推理机制。摘要。	rule-excluded
+6526	wilson26b							初筛，原文与先例核查待补：coreset selection/InfoMax与group balancing已是既有方法；随机25%pruning单A100测epochenergy显示资源节约，但准确率曲线来自不同selected subset口径且忽略构造开销，当前无独立新的选择规则或matched energy–quality规律。少data省compute与既有bias再平衡不单独新。PDF6。	rule-excluded
+6527	wu26cn							初筛，原文与先例核查待补：OSWorld+MCP tools、OS/app结构化views与bash/python是成熟GUI/API/coding融合，平台实现和逐步增加权限的workflow分数未隔离独立新学习/推理操作或新预算选择规律。+OSView47.87对Tools46.72是有限增益，不证明unifiedcomputer必需；工具来源原作已明确。PDF3、5–6。	rule-excluded
+6528	wu26co							初筛，原文与先例核查待补：agent average persona/低variance、meanalignment不足与异质性匹配规范主要综合既有social simulation研究；当前无新heterogeneity生成/估计或独立controlled neural规律。摘要。	rule-excluded
+6529	xiao26x							初筛，原文与先例核查待补：welfare外部验证渠道/scorecard发布门槛的哲学与治理论证，不提供独立神经模型设计、训练、推理或受控测量新机制。标题立场不作为技术判据。摘要。	rule-excluded
+6530	xie26af							初筛，原文与先例核查待补：摘要可安全分离的generic部分为成熟multimodal alignment、freeform生成、promptzeroshot和multi-turn交互；当前未指具体独立新神经模块/目标或受控泛用规律。只做摘要相关性判定，不提取生物功能建模、设计优化程序，也不因生物名称直接排除。	rule-excluded
+6531	xie26ag							初筛，原文与先例核查待补：label generator/image generator/modeltrain/validation组成多层hyperparameter优化，沿成熟bilevel data generation、learning-to-teach/datasetdistillation与meta-label/adaptation；本文明确案例用于统一MLO范式，当前未给超出已有hypergradient依赖的新操作或匹配条件规律。GenSeg整体对augmentation分数不能独归新嵌套层，closest原作待核。PDF3–4。	rule-excluded
 6532	xu26cu							待原文复核评分	pending
 6533	yang26dy							待原文复核评分	pending
 6534	yang26dz							待原文复核评分	pending

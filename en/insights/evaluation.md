@@ -535,6 +535,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26kv-evaluation) · 中文
 - [Benchmarking World-Model Learning with Environment-Level Queries](../../conferences/icml-2026/cards/4901-5000.md#warrier26a-evaluation) · 中文
 - [Why Dedicated Critics: Eliminating Target Drift in Multi-Constraint RL](../../conferences/icml-2026/cards/5301-5400.md#yang26ab-evaluation) · 中文
+- [Position: RL Researchers Need to Distinguish Between Solving Simulators and Using Simulators as a Proxy](../../conferences/icml-2026/cards/6501-6552.md#vandergrift26a-evaluation) · 中文
 
 <a id="by-robotics"></a>
 

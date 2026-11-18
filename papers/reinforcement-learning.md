@@ -325,6 +325,7 @@
 - <a id="wang26kv-evaluation"></a>[ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kv)
 - <a id="warrier26a-evaluation"></a>[Benchmarking World-Model Learning with Environment-Level Queries](../conferences/icml-2026/cards/4901-5000.md#paper-warrier26a)
 - <a id="yang26ab-evaluation"></a>[Why Dedicated Critics: Eliminating Target Drift in Multi-Constraint RL](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ab)
+- <a id="vandergrift26a-evaluation"></a>[Position: RL Researchers Need to Distinguish Between Solving Simulators and Using Simulators as a Proxy](../conferences/icml-2026/cards/6501-6552.md#paper-vandergrift26a)
 
 <a id="by-theory-statistics"></a>
 

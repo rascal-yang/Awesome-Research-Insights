@@ -535,6 +535,7 @@
 - [多轮策略训练的序列mask诊断](../conferences/icml-2026/cards/4801-4900.md#wang26kv-evaluation) · ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning
 - [把世界结构查询编码为派生交互任务](../conferences/icml-2026/cards/4901-5000.md#warrier26a-evaluation) · Benchmarking World-Model Learning with Environment-Level Queries
 - [乘子漂移下混合critic的跟踪误差](../conferences/icml-2026/cards/5301-5400.md#yang26ab-evaluation) · Why Dedicated Critics: Eliminating Target Drift in Multi-Constraint RL
+- [并行环境转单流时重配更新数据比](../conferences/icml-2026/cards/6501-6552.md#vandergrift26a-evaluation) · Position: RL Researchers Need to Distinguish Between Solving Simulators and Using Simulators as a Proxy
 
 <a id="by-robotics"></a>
 
