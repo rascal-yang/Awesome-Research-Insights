@@ -70,6 +70,7 @@
 - [区分预训练逼近和任务识别误差](../conferences/icml-2026/cards/4501-4600.md#wakayama26b-theory-statistics) · In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning
 - [水印检测功效约束选参](../conferences/icml-2026/cards/4601-4700.md#wang26bu-theory-statistics) · Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking
 - [私有偏好标签的正确似然与污染次序](../conferences/icml-2026/cards/4901-5000.md#weng26a-theory-statistics) · Improved Bounds for Private and Robust Alignment
+- [f正则最优策略的敏感度采样](../conferences/icml-2026/cards/5001-5100.md#wu26au-theory-statistics) · $f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses
 
 <a id="by-computer-vision"></a>
 
@@ -596,6 +597,7 @@
 - [随机反馈局部学习的稳定支与秩限制](../conferences/icml-2026/cards/4901-5000.md#williams26a-theory-statistics) · Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks
 - [子空间混合score的条件样本率](../conferences/icml-2026/cards/5001-5100.md#wu26c-theory-statistics) · Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions
 - [随机特征蒸馏的谱预测](../conferences/icml-2026/cards/5001-5100.md#wu26e-theory-statistics) · Improved Scaling Laws via Weak-to-Strong Generalization in Random Feature Ridge Regression
+- [多环境评估的共享测试预算](../conferences/icml-2026/cards/5001-5100.md#wu26av-theory-statistics) · Certifying Capabilities from Finite Tests: When Is It Possible?
 
 <a id="by-graph-and-recommendation"></a>
 

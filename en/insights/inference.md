@@ -634,6 +634,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Semantic Impact–Driven Visual Scheduling for Vision Language Models](../../conferences/icml-2026/cards/4701-4800.md#wang26ej-inference) · 中文
 - [Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation](../../conferences/icml-2026/cards/4701-4800.md#wang26gz-inference) · 中文
 - [OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26kd-inference) · 中文
+- [REVIS: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](../../conferences/icml-2026/cards/5001-5100.md#wu26at-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

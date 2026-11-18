@@ -40,6 +40,7 @@
 - <a id="wang26dc-architecture"></a>[WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dc)
 - <a id="wang26gs-architecture"></a>[Factored Latent Action World Models](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gs)
 - <a id="wikman26a-architecture"></a>[Adaptive Reinforcement Learning for Unobservable Random Delays](../conferences/icml-2026/cards/4901-5000.md#paper-wikman26a)
+- <a id="wu26ak-architecture"></a>[Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ak)
 
 <a id="by-modules"></a>
 

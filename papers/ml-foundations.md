@@ -1154,4 +1154,5 @@
 - <a id="williams26a-theory-statistics"></a>[Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks](../conferences/icml-2026/cards/4901-5000.md#paper-williams26a)
 - <a id="wu26c-theory-statistics"></a>[Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions](../conferences/icml-2026/cards/5001-5100.md#paper-wu26c)
 - <a id="wu26e-theory-statistics"></a>[Improved Scaling Laws via Weak-to-Strong Generalization in Random Feature Ridge Regression](../conferences/icml-2026/cards/5001-5100.md#paper-wu26e)
+- <a id="wu26av-theory-statistics"></a>[Certifying Capabilities from Finite Tests: When Is It Possible?](../conferences/icml-2026/cards/5001-5100.md#paper-wu26av)
 <!-- classification:end -->

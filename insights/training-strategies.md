@@ -148,6 +148,7 @@
 - [逐头长度温度与位置校准时机](../conferences/icml-2026/cards/4901-5000.md#wang26lk-training-strategies) · AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally
 - [预训练末期平坦化改善学习遗忘前沿](../conferences/icml-2026/cards/4901-5000.md#watts26a-training-strategies) · Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting
 - [可执行任务的自博弈验证](../conferences/icml-2026/cards/4901-5000.md#wei26x-training-strategies) · Toward Training Superintelligent Software Agents through Self-Play SWE-RL
+- [摘要条件短程RL与回放](../conferences/icml-2026/cards/5001-5100.md#wu26as-training-strategies) · Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL
 
 <a id="by-computer-vision"></a>
 

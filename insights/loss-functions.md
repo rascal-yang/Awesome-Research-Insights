@@ -105,6 +105,8 @@
 - [表达与属性的双粒度检测对齐](../conferences/icml-2026/cards/4901-5000.md#wei26af-loss-functions) · Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection
 - [假分数残差的反向目标](../conferences/icml-2026/cards/5001-5100.md#wu26q-loss-functions) · SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation
 - [分频局部Wasserstein失真](../conferences/icml-2026/cards/5001-5100.md#wu26ae-loss-functions) · Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression
+- [首步监督与后续分布蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26ag-loss-functions) · Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis
+- [负样本反射目标的偏好训练](../conferences/icml-2026/cards/5001-5100.md#wu26ay-loss-functions) · PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward
 
 <a id="by-nlp"></a>
 

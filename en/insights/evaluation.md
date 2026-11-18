@@ -340,6 +340,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#westphal26a-evaluation) · 中文
 - [Query Circuits: Explaining How Language Models Answer User Prompts](../../conferences/icml-2026/cards/5001-5100.md#wu26a-evaluation) · 中文
 - [Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs](../../conferences/icml-2026/cards/5001-5100.md#wu26r-evaluation) · 中文
+- [Large Language Models Develop Novel Social Biases Through Adaptive Exploration](../../conferences/icml-2026/cards/5001-5100.md#wu26ah-evaluation) · 中文
+- [Are Large Reasoning Models Interruptible?](../../conferences/icml-2026/cards/5001-5100.md#wu26ao-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -406,6 +408,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment](../../conferences/icml-2026/cards/4601-4700.md#wang26aj-evaluation) · 中文
 - [Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks](../../conferences/icml-2026/cards/4701-4800.md#wang26gh-evaluation) · 中文
 - [RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](../../conferences/icml-2026/cards/4901-5000.md#wei26ah-evaluation) · 中文
+- [Attention Sinks in Diffusion Transformers: A Causal Analysis](../../conferences/icml-2026/cards/5001-5100.md#wu26ax-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -554,6 +557,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Multimodal Fact-Level Attribution for Verifiable Reasoning](../../conferences/icml-2026/cards/4501-4600.md#wan26m-evaluation) · 中文
 - [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26cf-evaluation) · 中文
 - [Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26fm-evaluation) · 中文
+- [The Mechanistic Emergence of Symbol Grounding in Language Models](../../conferences/icml-2026/cards/5001-5100.md#wu26am-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

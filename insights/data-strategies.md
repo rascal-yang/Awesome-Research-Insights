@@ -89,6 +89,7 @@
 - [跨模型迭代构造偏好对](../conferences/icml-2026/cards/4801-4900.md#wang26ik-data-strategies) · Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future
 - [前缀支持的交错披露](../conferences/icml-2026/cards/4901-5000.md#wei26i-data-strategies) · When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning
 - [单轨迹首尾状态差筛样](../conferences/icml-2026/cards/5001-5100.md#wu26d-data-strategies) · Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection
+- [错误反馈与不可解状态的轨迹增强](../conferences/icml-2026/cards/5001-5100.md#wu26al-data-strategies) · Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use
 
 <a id="by-computer-vision"></a>
 
@@ -118,6 +119,7 @@
 - [按本地与全局预测缺口补数据](../conferences/icml-2026/cards/4701-4800.md#wang26ga-data-strategies) · FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning
 - [片间一致性约束的拼图回放](../conferences/icml-2026/cards/4701-4800.md#wang26hc-data-strategies) · Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning
 - [共享球谐基上的跨样本频带混合](../conferences/icml-2026/cards/4901-5000.md#wei26ad-data-strategies) · PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing
+- [运动加权梯度的数据归因](../conferences/icml-2026/cards/5001-5100.md#wu26aq-data-strategies) · Motion Attribution for Video Generation
 
 <a id="by-nlp"></a>
 

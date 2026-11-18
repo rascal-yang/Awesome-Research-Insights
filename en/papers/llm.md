@@ -438,6 +438,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wen26f-reinforcement-learning"></a>[Coupled Variational Reinforcement Learning for Language Model General Reasoning](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26f)
 - <a id="wen26k-reinforcement-learning"></a>[Contextualized Privacy Defense for LLM Agents](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26k)
 - <a id="wu26k-reinforcement-learning"></a>[HumanLM: Simulating Users with State Alignment Beats Response Imitation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26k)
+- <a id="wu26ai-reinforcement-learning"></a>[Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ai)
 
 <a id="by-training-strategies"></a>
 
@@ -578,6 +579,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26lk-training-strategies"></a>[AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lk)
 - <a id="watts26a-training-strategies"></a>[Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting](../../conferences/icml-2026/cards/4901-5000.md#paper-watts26a)
 - <a id="wei26x-training-strategies"></a>[Toward Training Superintelligent Software Agents through Self-Play SWE-RL](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26x)
+- <a id="wu26as-training-strategies"></a>[Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26as)
 
 <a id="by-data-strategies"></a>
 
@@ -659,6 +661,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26ik-data-strategies"></a>[Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ik)
 - <a id="wei26i-data-strategies"></a>[When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26i)
 - <a id="wu26d-data-strategies"></a>[Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26d)
+- <a id="wu26al-data-strategies"></a>[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26al)
 
 <a id="by-inference"></a>
 
@@ -1340,6 +1343,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="westphal26a-evaluation"></a>[Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#paper-westphal26a)
 - <a id="wu26a-evaluation"></a>[Query Circuits: Explaining How Language Models Answer User Prompts](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26a)
 - <a id="wu26r-evaluation"></a>[Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26r)
+- <a id="wu26ah-evaluation"></a>[Large Language Models Develop Novel Social Biases Through Adaptive Exploration](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ah)
+- <a id="wu26ao-evaluation"></a>[Are Large Reasoning Models Interruptible?](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ao)
 
 <a id="by-theory-statistics"></a>
 
@@ -1402,4 +1407,5 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wakayama26b-theory-statistics"></a>[In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning](../../conferences/icml-2026/cards/4501-4600.md#paper-wakayama26b)
 - <a id="wang26bu-theory-statistics"></a>[Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bu)
 - <a id="weng26a-theory-statistics"></a>[Improved Bounds for Private and Robust Alignment](../../conferences/icml-2026/cards/4901-5000.md#paper-weng26a)
+- <a id="wu26au-theory-statistics"></a>[$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26au)
 <!-- classification:end -->

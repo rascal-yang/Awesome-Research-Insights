@@ -70,6 +70,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [In-Context Learning Is Provably Bayesian Inference: A Generalization Theory for Meta-Learning](../../conferences/icml-2026/cards/4501-4600.md#wakayama26b-theory-statistics) · 中文
 - [Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking](../../conferences/icml-2026/cards/4601-4700.md#wang26bu-theory-statistics) · 中文
 - [Improved Bounds for Private and Robust Alignment](../../conferences/icml-2026/cards/4901-5000.md#weng26a-theory-statistics) · 中文
+- [$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](../../conferences/icml-2026/cards/5001-5100.md#wu26au-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -596,6 +597,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Dynamics and Representation Structure of Local Approximations to Gradient-Based Learning in Linear Recurrent Neural Networks](../../conferences/icml-2026/cards/4901-5000.md#williams26a-theory-statistics) · 中文
 - [Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions](../../conferences/icml-2026/cards/5001-5100.md#wu26c-theory-statistics) · 中文
 - [Improved Scaling Laws via Weak-to-Strong Generalization in Random Feature Ridge Regression](../../conferences/icml-2026/cards/5001-5100.md#wu26e-theory-statistics) · 中文
+- [Certifying Capabilities from Finite Tests: When Is It Possible?](../../conferences/icml-2026/cards/5001-5100.md#wu26av-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

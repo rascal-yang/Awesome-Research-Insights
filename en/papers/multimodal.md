@@ -381,6 +381,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26ej-inference"></a>[Semantic Impact–Driven Visual Scheduling for Vision Language Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ej)
 - <a id="wang26gz-inference"></a>[Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gz)
 - <a id="wang26kd-inference"></a>[OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kd)
+- <a id="wu26at-inference"></a>[REVIS: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26at)
 
 <a id="by-representation-learning"></a>
 
@@ -519,6 +520,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wan26m-evaluation"></a>[Multimodal Fact-Level Attribution for Verifiable Reasoning](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26m)
 - <a id="wang26cf-evaluation"></a>[Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cf)
 - <a id="wang26fm-evaluation"></a>[Understanding and Mitigating Token-Pruning-Induced Vulnerabilities in VLMs](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26fm)
+- <a id="wu26am-evaluation"></a>[The Mechanistic Emergence of Symbol Grounding in Language Models](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26am)
 
 <a id="by-theory-statistics"></a>
 

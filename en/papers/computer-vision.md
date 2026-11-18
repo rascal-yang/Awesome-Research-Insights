@@ -174,6 +174,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wei26af-loss-functions"></a>[Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26af)
 - <a id="wu26q-loss-functions"></a>[SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26q)
 - <a id="wu26ae-loss-functions"></a>[Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ae)
+- <a id="wu26ag-loss-functions"></a>[Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ag)
+- <a id="wu26ay-loss-functions"></a>[PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ay)
 
 <a id="by-optimization"></a>
 
@@ -335,6 +337,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26ga-data-strategies"></a>[FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ga)
 - <a id="wang26hc-data-strategies"></a>[Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hc)
 - <a id="wei26ad-data-strategies"></a>[PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26ad)
+- <a id="wu26aq-data-strategies"></a>[Motion Attribution for Video Generation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26aq)
 
 <a id="by-inference"></a>
 
@@ -582,6 +585,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26aj-evaluation"></a>[When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26aj)
 - <a id="wang26gh-evaluation"></a>[Bias in Zeroth-Order Normal Estimation for Decision-Based Attacks](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gh)
 - <a id="wei26ah-evaluation"></a>[RECOVER: Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26ah)
+- <a id="wu26ax-evaluation"></a>[Attention Sinks in Diffusion Transformers: A Causal Analysis](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ax)
 
 <a id="by-theory-statistics"></a>
 

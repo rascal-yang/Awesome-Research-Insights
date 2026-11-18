@@ -187,6 +187,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Coupled Variational Reinforcement Learning for Language Model General Reasoning](../../conferences/icml-2026/cards/4901-5000.md#wen26f-reinforcement-learning) · 中文
 - [Contextualized Privacy Defense for LLM Agents](../../conferences/icml-2026/cards/4901-5000.md#wen26k-reinforcement-learning) · 中文
 - [HumanLM: Simulating Users with State Alignment Beats Response Imitation](../../conferences/icml-2026/cards/5001-5100.md#wu26k-reinforcement-learning) · 中文
+- [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26ai-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

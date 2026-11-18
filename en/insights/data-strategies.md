@@ -89,6 +89,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](../../conferences/icml-2026/cards/4801-4900.md#wang26ik-data-strategies) · 中文
 - [When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning](../../conferences/icml-2026/cards/4901-5000.md#wei26i-data-strategies) · 中文
 - [Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection](../../conferences/icml-2026/cards/5001-5100.md#wu26d-data-strategies) · 中文
+- [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](../../conferences/icml-2026/cards/5001-5100.md#wu26al-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -118,6 +119,7 @@ Data selection, annotation, augmentation, and sampling.
 - [FedPDG: Prediction Discrepancy–Guided Data Generation for Heterogeneous Federated Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26ga-data-strategies) · 中文
 - [Beyond Buffer Limits: Energy-Based Data Reassembly for Continual Learning](../../conferences/icml-2026/cards/4701-4800.md#wang26hc-data-strategies) · 中文
 - [PSMix: Robust Point Cloud Recognition through Spectral Domain Mixing](../../conferences/icml-2026/cards/4901-5000.md#wei26ad-data-strategies) · 中文
+- [Motion Attribution for Video Generation](../../conferences/icml-2026/cards/5001-5100.md#wu26aq-data-strategies) · 中文
 
 <a id="by-nlp"></a>
 

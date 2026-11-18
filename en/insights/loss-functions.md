@@ -105,6 +105,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection](../../conferences/icml-2026/cards/4901-5000.md#wei26af-loss-functions) · 中文
 - [SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation](../../conferences/icml-2026/cards/5001-5100.md#wu26q-loss-functions) · 中文
 - [Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression](../../conferences/icml-2026/cards/5001-5100.md#wu26ae-loss-functions) · 中文
+- [Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis](../../conferences/icml-2026/cards/5001-5100.md#wu26ag-loss-functions) · 中文
+- [PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward](../../conferences/icml-2026/cards/5001-5100.md#wu26ay-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
