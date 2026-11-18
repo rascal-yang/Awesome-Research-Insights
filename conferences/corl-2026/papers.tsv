@@ -36,8 +36,8 @@ number	openreview_id	title	paper_url	reason	status
 35	mG3eBTsBiG	X-Tokenizer: A Multimodal Action Tokenizer for Vision-Language-Action Model Pretraining	https://openreview.net/forum?id=mG3eBTsBiG	按量化层区分动作意图与运动细节	included
 36	uhnmcdamCa	NAC: Neural Action Codec for Vision-Language-Action Models	https://openreview.net/forum?id=uhnmcdamCa	借用神经音频编解码结构时按运动信号重选重建损失	included
 37	wRLEgpRnVR	ActionCodec: What Makes for Good Action Tokenizers	https://openreview.net/forum?id=wRLEgpRnVR	用下游训练难度和闭环指标一起选动作 tokenizer	included
-38	VY6U0drX88	TBD-VLA: Temporal Block Diffusion Vision Language Action Model	https://openreview.net/forum?id=VY6U0drX88		pending
-39	tegLlXBRCU	Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models	https://openreview.net/forum?id=tegLlXBRCU		pending
+38	VY6U0drX88	TBD-VLA: Temporal Block Diffusion Vision Language Action Model	https://openreview.net/forum?id=VY6U0drX88	块间按时间自回归，块内并行生成离散动作	included
+39	tegLlXBRCU	Coarse-to-Control: Action-Token Planning for Vision-Language-Action Models	https://openreview.net/forum?id=tegLlXBRCU	先在执行词表内预测粗动作计划，再细化为可执行动作	included
 40	fGWkovHMQE	ThinkingVLA: Interleaved Vision and Language Reasoning for Robotic Manipulation	https://openreview.net/forum?id=fGWkovHMQE		pending
 41	EfgCnZgmvN	Unified Motion-Action Modeling for Heterogeneous Robot Learning	https://openreview.net/forum?id=EfgCnZgmvN		pending
 42	iy5oCeLdEF	ELA: End-to-End Latent Action Policy Learning from Video Demonstrations	https://openreview.net/forum?id=iy5oCeLdEF		pending
