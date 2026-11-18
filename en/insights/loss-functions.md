@@ -183,6 +183,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Geometric Coherence Learning for Structuring Value Functions in Plain MDPs](../../conferences/icml-2026/cards/5701-5800.md#zhang26av-loss-functions) · 中文
 - [HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments](../../conferences/icml-2026/cards/5901-6000.md#zhang26fp-loss-functions) · 中文
 - [SPAR: Support-Preserving Action Rectification](../../conferences/icml-2026/cards/6001-6100.md#zhao26ai-loss-functions) · 中文
+- [Reparameterization Flow Policy Optimization](../../conferences/icml-2026/cards/6101-6200.md#zhong26k-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

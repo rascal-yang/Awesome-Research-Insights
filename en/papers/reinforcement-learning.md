@@ -66,6 +66,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="zhang26av-loss-functions"></a>[Geometric Coherence Learning for Structuring Value Functions in Plain MDPs](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26av)
 - <a id="zhang26fp-loss-functions"></a>[HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fp)
 - <a id="zhao26ai-loss-functions"></a>[SPAR: Support-Preserving Action Rectification](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ai)
+- <a id="zhong26k-loss-functions"></a>[Reparameterization Flow Policy Optimization](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26k)
 
 <a id="by-optimization"></a>
 

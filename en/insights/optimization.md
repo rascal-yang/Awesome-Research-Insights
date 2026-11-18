@@ -489,6 +489,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [A Fully First-Order Layer for Differentiable Optimization](../../conferences/icml-2026/cards/6001-6100.md#zhao26ah-optimization) · 中文
 - [Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis](../../conferences/icml-2026/cards/6001-6100.md#zhao26bj-optimization) · 中文
 - [Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](../../conferences/icml-2026/cards/6101-6200.md#zheng26ac-optimization) · 中文
+- [DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhong26j-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

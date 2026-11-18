@@ -124,6 +124,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="zhang26fo-architecture"></a>[FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fo)
 - <a id="zhao26ak-architecture"></a>[MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ak)
 - <a id="zhdanov26a-architecture"></a>[(Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models](../../conferences/icml-2026/cards/6001-6100.md#paper-zhdanov26a)
+- <a id="zheng26aj-architecture"></a>[Topology-Preserving Neural Operator Learning via Hodge Decomposition](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26aj)
 
 <a id="by-modules"></a>
 

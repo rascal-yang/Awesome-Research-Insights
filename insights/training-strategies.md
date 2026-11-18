@@ -473,6 +473,7 @@
 - [在近参数量匹配下先扫天气模型宽深比](../conferences/icml-2026/cards/5501-5600.md#yu26r-training-strategies) · Scaling Laws of Global Weather Models
 - [用无标签client分布生成低维个性化参数](../conferences/icml-2026/cards/5601-5700.md#zakerinia26a-training-strategies) · Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions
 - [以permutation VI训练变长插入顺序](../conferences/icml-2026/cards/5901-6000.md#zhang26fx-training-strategies) · Variational Learning for Insertion-based Generation
+- [以谱重建残差调每样本dropout](../conferences/icml-2026/cards/6101-6200.md#zhong26l-training-strategies) · DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting
 
 <a id="by-graph-and-recommendation"></a>
 

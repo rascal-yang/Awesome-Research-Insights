@@ -470,4 +470,5 @@
 - [分离相空间流的逆问题重建](../conferences/icml-2026/cards/5901-6000.md#zhang26fo-architecture) · FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction
 - [固定网格上的部分多尺度PDE token](../conferences/icml-2026/cards/6001-6100.md#zhao26ak-architecture) · MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers
 - [物理mesh分块选择的原分辨率注意力](../conferences/icml-2026/cards/6001-6100.md#zhdanov26a-architecture) · (Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models
+- [投影隔离低阶Hodge谱与几何残差](../conferences/icml-2026/cards/6101-6200.md#zheng26aj-architecture) · Topology-Preserving Neural Operator Learning via Hodge Decomposition
 <!-- classification:end -->

@@ -1143,6 +1143,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zheng26o-inference"></a>[Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26o)
 - <a id="zheng26ae-inference"></a>[Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ae)
 - <a id="zheng26ai-inference"></a>[DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ai)
+- <a id="zhiren26a-inference"></a>[SubspacePath Pruner: Inference-time Pruning via Probe-based Representation–Parameter Coupling](../../conferences/icml-2026/cards/6101-6200.md#paper-zhiren26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1546,6 +1547,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhao26aw-evaluation"></a>[Large Language Model Agents Are Not Always Faithful Self-Evolvers](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26aw)
 - <a id="zhao26bm-evaluation"></a>[AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bm)
 - <a id="zheng26i-evaluation"></a>[UniCode: Augmenting Evaluation for Code Reasoning](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26i)
+- <a id="zhing26a-evaluation"></a>[From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity](../../conferences/icml-2026/cards/6101-6200.md#paper-zhing26a)
+- <a id="zhong26i-evaluation"></a>[From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26i)
 
 <a id="by-theory-statistics"></a>
 

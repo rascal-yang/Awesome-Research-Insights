@@ -159,6 +159,7 @@
 - [把关节参数写入稀疏体素生成表示](../conferences/icml-2026/cards/5401-5500.md#yang26cf-representation-learning) · PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World
 - [让动作瓶颈与content路径共同分工](../conferences/icml-2026/cards/5801-5900.md#zhang26ec-representation-learning) · DiLA: Disentangled Latent Action World Models
 - [几何预测监督离散运动码](../conferences/icml-2026/cards/5901-6000.md#zhang26gn-representation-learning) · GeoMoLa: Geometry-Aware Motion Latents for Learning Robust Manipulation Policies
+- [低频动作锚点上的残差flow](../conferences/icml-2026/cards/6101-6200.md#zhong26g-representation-learning) · From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges
 
 <a id="by-multimodal"></a>
 
@@ -290,6 +291,7 @@
 - [用同环境few-shot上下文替代固定环境标签](../conferences/icml-2026/cards/5501-5600.md#ye26p-representation-learning) · Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments
 - [直接优化可由SDE诱导的离散后验参数](../conferences/icml-2026/cards/5601-5700.md#yuan26h-representation-learning) · Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference
 - [父子约束的层级码本与双向锚定](../conferences/icml-2026/cards/5601-5700.md#zang26a-representation-learning) · HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference
+- [索引复用的指令流使动态码本并行解码](../conferences/icml-2026/cards/6101-6200.md#zhong26h-representation-learning) · RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression
 
 <a id="by-graph-and-recommendation"></a>
 

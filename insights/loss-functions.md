@@ -183,6 +183,7 @@
 - [由TD偏好构DAG再做等序值正则](../conferences/icml-2026/cards/5701-5800.md#zhang26av-loss-functions) · Geometric Coherence Learning for Structuring Value Functions in Plain MDPs
 - [辅助potential投影的TD更新](../conferences/icml-2026/cards/5901-6000.md#zhang26fp-loss-functions) · HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments
 - [冻结BC锚点上的潜变量自模仿](../conferences/icml-2026/cards/6001-6100.md#zhao26ai-loss-functions) · SPAR: Support-Preserving Action Rectification
+- [flow路径梯度更新的近期动作与均匀CFM约束](../conferences/icml-2026/cards/6101-6200.md#zhong26k-loss-functions) · Reparameterization Flow Policy Optimization
 
 <a id="by-robotics"></a>
 

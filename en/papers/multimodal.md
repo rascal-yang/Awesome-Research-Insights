@@ -448,6 +448,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zhang26ee-inference"></a>[Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ee)
 - <a id="zhao26g-inference"></a>[When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26g)
 - <a id="zheng26m-inference"></a>[HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26m)
+- <a id="zhong26m-inference"></a>[FlowNar: Scalable Streaming Narration for Long-Form Videos](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26m)
 
 <a id="by-representation-learning"></a>
 

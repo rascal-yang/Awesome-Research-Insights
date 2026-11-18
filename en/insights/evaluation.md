@@ -386,6 +386,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Large Language Model Agents Are Not Always Faithful Self-Evolvers](../../conferences/icml-2026/cards/6001-6100.md#zhao26aw-evaluation) · 中文
 - [AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms](../../conferences/icml-2026/cards/6001-6100.md#zhao26bm-evaluation) · 中文
 - [UniCode: Augmenting Evaluation for Code Reasoning](../../conferences/icml-2026/cards/6101-6200.md#zheng26i-evaluation) · 中文
+- [From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity](../../conferences/icml-2026/cards/6101-6200.md#zhing26a-evaluation) · 中文
+- [From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning](../../conferences/icml-2026/cards/6101-6200.md#zhong26i-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

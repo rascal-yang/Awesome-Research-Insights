@@ -501,6 +501,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhao26ah-optimization"></a>[A Fully First-Order Layer for Differentiable Optimization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ah)
 - <a id="zhao26bj-optimization"></a>[Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bj)
 - <a id="zheng26ac-optimization"></a>[Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ac)
+- <a id="zhong26j-optimization"></a>[DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26j)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -595,6 +596,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yu26r-training-strategies"></a>[Scaling Laws of Global Weather Models](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26r)
 - <a id="zakerinia26a-training-strategies"></a>[Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions](../../conferences/icml-2026/cards/5601-5700.md#paper-zakerinia26a)
 - <a id="zhang26fx-training-strategies"></a>[Variational Learning for Insertion-based Generation](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fx)
+- <a id="zhong26l-training-strategies"></a>[DropoutTS: Sample-Adaptive Dropout for Robust Time Series Forecasting](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26l)
 
 <a id="by-data-strategies"></a>
 
@@ -783,6 +785,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ye26p-representation-learning"></a>[Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26p)
 - <a id="yuan26h-representation-learning"></a>[Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26h)
 - <a id="zang26a-representation-learning"></a>[HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference](../../conferences/icml-2026/cards/5601-5700.md#paper-zang26a)
+- <a id="zhong26h-representation-learning"></a>[RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26h)
 
 <a id="by-evaluation"></a>
 

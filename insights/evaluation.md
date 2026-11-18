@@ -386,6 +386,8 @@
 - [分开审计原始轨迹和压缩经验](../conferences/icml-2026/cards/6001-6100.md#zhao26aw-evaluation) · Large Language Model Agents Are Not Always Faithful Self-Evolvers
 - [区分形式验证通过和算法语义遵循](../conferences/icml-2026/cards/6001-6100.md#zhao26bm-evaluation) · AlgoVeri: An Aligned Benchmark for Verified Code Generation on Classical Algorithms
 - [区分叙述变化与算法结构变化的代码测试](../conferences/icml-2026/cards/6101-6200.md#zheng26i-evaluation) · UniCode: Augmenting Evaluation for Code Reasoning
+- [用输入扰动后的实体梯度转向筛自信错误](../conferences/icml-2026/cards/6101-6200.md#zhing26a-evaluation) · From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity
+- [在捷径控制下比较ToM后训练](../conferences/icml-2026/cards/6101-6200.md#zhong26i-evaluation) · From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 

@@ -489,6 +489,7 @@
 - [识别活跃约束后的扰动式超梯度](../conferences/icml-2026/cards/6001-6100.md#zhao26ah-optimization) · A Fully First-Order Layer for Differentiable Optimization
 - [自界定有效网格搜索范围](../conferences/icml-2026/cards/6001-6100.md#zhao26bj-optimization) · Towards Fully Parameter-Free Stochastic Optimization: Grid Search with Self-Bounding Analysis
 - [在持续学习梯度中加入polar分量](../conferences/icml-2026/cards/6101-6200.md#zheng26ac-optimization) · Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity
+- [交替目标的共享base与delta优化状态](../conferences/icml-2026/cards/6101-6200.md#zhong26j-optimization) · DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models
 
 <a id="by-graph-and-recommendation"></a>
 

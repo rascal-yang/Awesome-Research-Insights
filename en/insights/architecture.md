@@ -470,4 +470,5 @@ Model-wide design and information flow.
 - [FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction](../../conferences/icml-2026/cards/5901-6000.md#zhang26fo-architecture) · 中文
 - [MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers](../../conferences/icml-2026/cards/6001-6100.md#zhao26ak-architecture) · 中文
 - [(Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models](../../conferences/icml-2026/cards/6001-6100.md#zhdanov26a-architecture) · 中文
+- [Topology-Preserving Neural Operator Learning via Hodge Decomposition](../../conferences/icml-2026/cards/6101-6200.md#zheng26aj-architecture) · 中文
 <!-- classification:end -->

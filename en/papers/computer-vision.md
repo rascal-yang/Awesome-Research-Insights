@@ -540,6 +540,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhao26as-inference"></a>[You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26as)
 - <a id="zhao26cc-inference"></a>[$σ$: Sigmoid Modulation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26cc)
 - <a id="zheng26f-inference"></a>[Image Restoration via Diffusion Models with Dynamic Resolution](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26f)
+- <a id="zhong26o-inference"></a>[TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26o)
 
 <a id="by-representation-learning"></a>
 

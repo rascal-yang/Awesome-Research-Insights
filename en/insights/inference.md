@@ -389,6 +389,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming](../../conferences/icml-2026/cards/6101-6200.md#zheng26o-inference) · 中文
 - [Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions](../../conferences/icml-2026/cards/6101-6200.md#zheng26ae-inference) · 中文
 - [DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs](../../conferences/icml-2026/cards/6101-6200.md#zheng26ai-inference) · 中文
+- [SubspacePath Pruner: Inference-time Pruning via Probe-based Representation–Parameter Coupling](../../conferences/icml-2026/cards/6101-6200.md#zhiren26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -534,6 +535,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26as-inference) · 中文
 - [$σ$: Sigmoid Modulation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/6001-6100.md#zhao26cc-inference) · 中文
 - [Image Restoration via Diffusion Models with Dynamic Resolution](../../conferences/icml-2026/cards/6101-6200.md#zheng26f-inference) · 中文
+- [TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](../../conferences/icml-2026/cards/6101-6200.md#zhong26o-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -743,6 +745,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack](../../conferences/icml-2026/cards/5801-5900.md#zhang26ee-inference) · 中文
 - [When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs](../../conferences/icml-2026/cards/6001-6100.md#zhao26g-inference) · 中文
 - [HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data](../../conferences/icml-2026/cards/6101-6200.md#zheng26m-inference) · 中文
+- [FlowNar: Scalable Streaming Narration for Long-Form Videos](../../conferences/icml-2026/cards/6101-6200.md#zhong26m-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

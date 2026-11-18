@@ -159,6 +159,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](../../conferences/icml-2026/cards/5401-5500.md#yang26cf-representation-learning) · 中文
 - [DiLA: Disentangled Latent Action World Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26ec-representation-learning) · 中文
 - [GeoMoLa: Geometry-Aware Motion Latents for Learning Robust Manipulation Policies](../../conferences/icml-2026/cards/5901-6000.md#zhang26gn-representation-learning) · 中文
+- [From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges](../../conferences/icml-2026/cards/6101-6200.md#zhong26g-representation-learning) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -290,6 +291,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments](../../conferences/icml-2026/cards/5501-5600.md#ye26p-representation-learning) · 中文
 - [Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference](../../conferences/icml-2026/cards/5601-5700.md#yuan26h-representation-learning) · 中文
 - [HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference](../../conferences/icml-2026/cards/5601-5700.md#zang26a-representation-learning) · 中文
+- [RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression](../../conferences/icml-2026/cards/6101-6200.md#zhong26h-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

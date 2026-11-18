@@ -389,6 +389,7 @@
 - [扩散LM的mask logits与动态峰值工作区](../conferences/icml-2026/cards/6101-6200.md#zheng26o-inference) · Mosaic: Unlocking Over 30$\times$ Context Length for Diffusion LLMs Inference via Global Memory Planning and Dynamic Peak Taming
 - [按截断长度分布的尾部风险调度](../conferences/icml-2026/cards/6101-6200.md#zheng26ae-inference) · Scheduling LLM Inference with Uncertainty-Aware Output Length Predictions
 - [按通信粒度选择tile调度与collective](../conferences/icml-2026/cards/6101-6200.md#zheng26ai-inference) · DITRON: Distributed Multi-level Tiling Compiler for Parallel Tensor Programs
+- [由场景probe组合缓存head轴能量](../conferences/icml-2026/cards/6101-6200.md#zhiren26a-inference) · SubspacePath Pruner: Inference-time Pruning via Probe-based Representation–Parameter Coupling
 
 <a id="by-computer-vision"></a>
 
@@ -534,6 +535,7 @@
 - [按prompt注意力spike抑制记忆](../conferences/icml-2026/cards/6001-6100.md#zhao26as-inference) · You Don’t Need All That Attention: Surgical Memorization Mitigation in Text-to-Image Diffusion Models
 - [按轴尺度移动的RoPE调制时间窗](../conferences/icml-2026/cards/6001-6100.md#zhao26cc-inference) · $σ$: Sigmoid Modulation for Ultra High Resolution Diffusion
 - [动态子空间恢复的测量校正与晚期去噪](../conferences/icml-2026/cards/6101-6200.md#zheng26f-inference) · Image Restoration via Diffusion Models with Dynamic Resolution
+- [相机工作集驱动的分层Gaussian训练缓存](../conferences/icml-2026/cards/6101-6200.md#zhong26o-inference) · TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization
 
 <a id="by-nlp"></a>
 
@@ -743,6 +745,7 @@
 - [以hidden-norm梯度定位并抑制异常视觉tokens](../conferences/icml-2026/cards/5801-5900.md#zhang26ee-inference) · Localize and Neutralize: Gradient-Guided Token Suppression Against Visual Prompt Injection Attack
 - [先保图像问题分支再融合RAG文本](../conferences/icml-2026/cards/6001-6100.md#zhao26g-inference) · When RAG Hurts: Diagnosing and Mitigating Attention Distraction in Retrieval-Augmented LVLMs
 - [Hilbert序的连续块稀疏与层间滑动](../conferences/icml-2026/cards/6101-6200.md#zheng26m-inference) · HilbertA: Hilbert-Curve–Aligned Sparse Attention for 2D Structured Data
+- [流式视觉缓存清理与训练mask对齐](../conferences/icml-2026/cards/6101-6200.md#zhong26m-inference) · FlowNar: Scalable Streaming Narration for Long-Form Videos
 
 <a id="by-ml-foundations"></a>
 

@@ -239,6 +239,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="yang26cf-representation-learning"></a>[PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cf)
 - <a id="zhang26ec-representation-learning"></a>[DiLA: Disentangled Latent Action World Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ec)
 - <a id="zhang26gn-representation-learning"></a>[GeoMoLa: Geometry-Aware Motion Latents for Learning Robust Manipulation Policies](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gn)
+- <a id="zhong26g-representation-learning"></a>[From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26g)
 
 <a id="by-evaluation"></a>
 
