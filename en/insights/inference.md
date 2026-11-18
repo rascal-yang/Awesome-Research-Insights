@@ -1055,5 +1055,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse](../../conferences/neurips-2026/cards-0006.md#paper-148497)
 - [HiddenPathQA: A Benchmark for Knowledge Graph Question Answering When Questions Hide Their Paths](../../conferences/neurips-2026/cards-0006.md#paper-139751)
 - [Hierarchical Variational Policies for Reward-Guided Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-154863)
+- [Hierarchical World Models with Implicit Dynamics](../../conferences/neurips-2026/cards-0006.md#paper-155510)
+- [HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation](../../conferences/neurips-2026/cards-0006.md#paper-149679)
+- [HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization](../../conferences/neurips-2026/cards-0006.md#paper-151571)
+- [Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering](../../conferences/neurips-2026/cards-0006.md#paper-155067)
+- [HIST3R: Rectified State Decomposition from History for Streaming 3D Reconstruction](../../conferences/neurips-2026/cards-0006.md#paper-155909)
 
 <!-- conference-classification:end -->

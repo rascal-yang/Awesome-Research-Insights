@@ -1806,5 +1806,15 @@
 - [Hidden Measurement Error in LLM Pipelines Distorts Annotation, Evaluation, and Benchmarking](../conferences/neurips-2026/cards-0006.md#paper-148222)
 - [Hidden Positives: Why Code Retrieval Benchmarks Underestimate Model Quality](../conferences/neurips-2026/cards-0006.md#paper-139499)
 - [Hide to Guide: Learning via Semantic Masking](../conferences/neurips-2026/cards-0006.md#paper-154951)
+- [HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation](../conferences/neurips-2026/cards-0006.md#paper-149679)
+- [HierSVA: A Synthesis Pipeline, Dataset, and Benchmark for LLM-Driven Hierarchical Hardware Formal Verification](../conferences/neurips-2026/cards-0006.md#paper-139579)
+- [HiFloat4 Format for Language Model Pre-training on Ascend NPUs](../conferences/neurips-2026/cards-0006.md#paper-152215)
+- [HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization](../conferences/neurips-2026/cards-0006.md#paper-151571)
+- [Hint Tuning: Less Data Makes Better Reasoners](../conferences/neurips-2026/cards-0006.md#paper-153982)
+- [Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering](../conferences/neurips-2026/cards-0006.md#paper-155067)
+- [Historical Relative Policy Optimization for Bootstrapping LLM Reasoning](../conferences/neurips-2026/cards-0006.md#paper-154697)
+- [Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization](../conferences/neurips-2026/cards-0006.md#paper-154893)
+- [HomeFlow: A Data Flywheel for Smart Home Agent Training with Verifiable Simulation](../conferences/neurips-2026/cards-0006.md#paper-153647)
+- [Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots](../conferences/neurips-2026/cards-0006.md#paper-139314)
 
 <!-- conference-classification:end -->

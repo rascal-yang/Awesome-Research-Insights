@@ -341,5 +341,10 @@
 - [Heavy-Tailed Flow Matching via Random Clocks](../conferences/neurips-2026/cards-0006.md#paper-154575)
 - [Hierarchical Denoising For Multi-Step Visual Reasoning](../conferences/neurips-2026/cards-0006.md#paper-151418)
 - [Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs](../conferences/neurips-2026/cards-0006.md#paper-150192)
+- [Higher-Order Cell Tracking Transformer](../conferences/neurips-2026/cards-0006.md#paper-150453)
+- [HIMMEL: Hierarchical Interleaved Multi-stream Motion Encoding for Long Video Understanding](../conferences/neurips-2026/cards-0006.md#paper-151828)
+- [Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion](../conferences/neurips-2026/cards-0006.md#paper-154530)
+- [HOPE: Hand-Object Pressure Estimation from Monocular Videos](../conferences/neurips-2026/cards-0006.md#paper-148354)
+- [Horizon-Stream: Long-Horizon Attention for Streaming 3D Reconstruction](../conferences/neurips-2026/cards-0006.md#paper-153911)
 
 <!-- conference-classification:end -->

@@ -525,5 +525,12 @@ Learning from interaction, feedback, and offline experience.
 - [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](../../conferences/neurips-2026/cards-0006.md#paper-151714)
 - [HDCS: Hierarchy Discovery and Critic Shaping for Reinforcement Learning with Automaton Specification](../../conferences/neurips-2026/cards-0006.md#paper-156745)
 - [H-GenPO: Hierarchical Generative Policy Optimization via the Option-Critic Framework](../../conferences/neurips-2026/cards-0006.md#paper-148440)
+- [HiFloat4 Format for End-To-End Reinforcement Learning Post-Training of Large Language Models](../../conferences/neurips-2026/cards-0006.md#paper-154752)
+- [High Entropy Regularization Leads to Symmetry Equivariant Policies in Dec-POMDPs](../../conferences/neurips-2026/cards-0006.md#paper-154447)
+- [High Probability Risk Control for Online Policy Learning](../../conferences/neurips-2026/cards-0006.md#paper-150738)
+- [Hindsight Relabeling is All You Need for Reach-Avoid Learning](../../conferences/neurips-2026/cards-0006.md#paper-153151)
+- [Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies](../../conferences/neurips-2026/cards-0006.md#paper-152292)
+- [Hodge Laplacian Quasi-Harmonic Flows for Option Discovery](../../conferences/neurips-2026/cards-0006.md#paper-153764)
+- [Horizon Adaptive Offline Policy Learning via Value Stitching](../../conferences/neurips-2026/cards-0006.md#paper-154836)
 
 <!-- conference-classification:end -->

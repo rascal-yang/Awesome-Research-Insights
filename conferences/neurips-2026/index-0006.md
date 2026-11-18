@@ -386,3 +386,51 @@
 | 图学习与推荐 | 模型架构 | [Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs](cards-0006.md#paper-150192) | 分离系统级离散工况和节点级连续动态。 |
 | 多模态学习 | 训练策略 | [Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](cards-0006.md#paper-149193) | 增量学习时用类别树锚定特征，再用历史特征零空间约束更新。 |
 | 机器学习基础与统计 | 推理策略 | [Hierarchical Variational Policies for Reward-Guided Diffusion](cards-0006.md#paper-154863) | 用训练出的低成本策略摊销扩散的信息引导，必要时再做少量在线修正。 |
+| 机器人学 | 推理策略 | [Hierarchical World Models with Implicit Dynamics](cards-0006.md#paper-155510) | 把长时规划拆成可达状态采样和局部逆动力学。 |
+| 大语言模型 | 推理策略 | [HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation](cards-0006.md#paper-149679) | 用子任务执行反馈修正代理工作流拓扑。 |
+| 大语言模型 | 评测与诊断 | [HierSVA: A Synthesis Pipeline, Dataset, and Benchmark for LLM-Driven Hierarchical Hardware Formal Verification](cards-0006.md#paper-139579) | 生成形式断言时，把证明成功和属性覆盖分开验收。 |
+| 计算机视觉 | 评测与诊断 | [HIFC-IQA: Train-Free Cross-Domain Image Quality Assessment via Dual-Process Cognition](cards-0006.md#paper-149761) | 跨域无参考画质评分时区分失真与语义审美。 |
+| 强化学习 | 训练策略 | [HiFloat4 Format for End-To-End Reinforcement Learning Post-Training of Large Language Models](cards-0006.md#paper-154752) | 端到端 FP4 后训练优先校正 rollout 激活。 |
+| 大语言模型 | 训练策略 | [HiFloat4 Format for Language Model Pre-training on Ascend NPUs](cards-0006.md#paper-152215) | FP4 预训练先比较数值格式，再堆稳定化机制。 |
+| 机器学习基础与统计 | 理论与统计 | [High-Dimensional Conditional Independence Testing via Random Projection Aggregation](cards-0006.md#paper-148200) | 高维条件独立检验先做随机一维投影，再聚合证据。 |
+| 机器学习基础与统计 | 理论与统计 | [High-Dimensional Learning Dynamics of Attention-Indexed Models](cards-0006.md#paper-154586) | 比较注意力参数化的早期对称破缺能力。 |
+| 机器学习基础与统计 | 理论与统计 | [High-dimensional Limit of SGD for Diagonal Linear Networks](cards-0006.md#paper-155594) | 在简化随机训练模型中分开监测漂移和噪声。 |
+| 机器人学 | 强化学习方法 | [High-Dimensional Robotic Reinforcement Learning with Developing Synergies](cards-0006.md#paper-151314) | 联合学习低维动作接口，并让解码器慢于策略演化。 |
+| 机器学习基础与统计 | 优化 | [High dimensional theory of two-phase optimizers](cards-0006.md#paper-149062) | 两阶段局部更新时考虑同步引入的噪声。 |
+| 强化学习 | 强化学习方法 | [High Entropy Regularization Leads to Symmetry Equivariant Policies in Dec-POMDPs](cards-0006.md#paper-154447) | 合作策略扫更高熵系数，并分别评价自博弈和跨种子配对。 |
+| 机器人学 | 损失函数 | [Higher-Order Action Supervision Makes A Strong Policy Class](cards-0006.md#paper-151538) | 连续动作训练中同时监督动作本身与一阶变化。 |
+| 科学机器学习 | 模型架构 | [Higher-Order Cell Tracking Transformer](cards-0006.md#paper-150453) | 检测关联任务中改为在候选边间传递信息。 |
+| 机器学习基础与统计 | 损失函数 | [High-Fidelity Boltzmann Samplingvia Physical Prior Lifted Continuous GFlowNets](cards-0006.md#paper-154030) | 在连续目标分布采样时利用可采样的参考空间。 |
+| 计算机视觉 | 数据策略 | [High Performance Differentially Private Fine-Tuning using Dataset Distillation](cards-0006.md#paper-153009) | 需要频繁更换模型时一次发布私有蒸馏数据。 |
+| 机器学习基础与统计 | 优化 | [High-probability Convergence of Gradient Methods under Markovian Stochasticity](cards-0006.md#paper-149977) | 相关数据流上的高概率优化分析显式计入依赖。 |
+| 机器学习基础与统计 | 理论与统计 | [High-Probability Minimax Adaptive Estimation in Besov Spaces via Online-to-Batch](cards-0006.md#paper-149324) | 未知噪声量级时，以自适应裁剪的在线小波更新估计非参数回归函数。 |
+| 强化学习 | 理论与统计 | [High Probability Risk Control for Online Policy Learning](cards-0006.md#paper-150738) | 在线更换策略前，在反馈诱发的协变量偏移下用风险上置信界筛选每轮候选。 |
+| 多模态学习 | 表征学习 | [HiLoc: A Hierarchical Representation Method for Spatial Localization in Multimodal Large Language Models](cards-0006.md#paper-152158) | 视觉语言坐标预测中，用逐级网格索引提高精度，另测更严格的定位阈值。 |
+| 大语言模型 | 推理策略 | [HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization](cards-0006.md#paper-151571) | 复用现有 LoRA 池时，先为序列分配适配器秩预算，再在 token 级挑秩一分量。 |
+| 多模态学习 | 模型架构 | [HIMMEL: Hierarchical Interleaved Multi-stream Motion Encoding for Long Video Understanding](cards-0006.md#paper-151828) | 长视频推理把贵重 RGB 编码留给稀疏锚帧，用压缩域运动信号覆盖中间帧。 |
+| 强化学习 | 强化学习方法 | [Hindsight Relabeling is All You Need for Reach-Avoid Learning](cards-0006.md#paper-153151) | 离线到达避障任务中，把目标和避让区域作为测试时可改的条件。 |
+| 大语言模型 | 训练策略 | [Hint Tuning: Less Data Makes Better Reasoners](cards-0006.md#paper-153982) | 不确定推理需要多深时，用同系列指令模型在不同提示量下的解题情况分级。 |
+| 大语言模型 | 推理策略 | [Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering](cards-0006.md#paper-155067) | 多跳检索时，只有当前证据无法支撑子问才进一步拆分。 |
+| 多模态学习 | 表征学习 | [HIRaD: Hidden Interaction Inference from Predictive Radar Dynamics](cards-0006.md#paper-154068) | 对象难从稀疏传感器直接观察时，以人体运动先验和校正轨迹之间的偏差信号推断交互。 |
+| 计算机视觉 | 推理策略 | [HIST3R: Rectified State Decomposition from History for Streaming 3D Reconstruction](cards-0006.md#paper-155909) | 固定容量的流式三维状态开始漂移时，独立校正更新方向和步幅。 |
+| 大语言模型 | 强化学习方法 | [Historical Relative Policy Optimization for Bootstrapping LLM Reasoning](cards-0006.md#paper-154697) | GRPO 当前组整体退化时，额外用历史表现判断进步，并在全组无正信号时回放。 |
+| 机器学习基础与统计 | 理论与统计 | [History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](cards-0006.md#paper-153050) | 动态生存预测随访时，用截至决策时点的协变量历史重新构造区间。 |
+| 强化学习 | 表征学习 | [Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies](cards-0006.md#paper-152292) | 学习长时多阶段导航表征时，把有方向的期望首达时间显式加入一致性目标。 |
+| 强化学习 | 强化学习方法 | [Hodge Laplacian Quasi-Harmonic Flows for Option Discovery](cards-0006.md#paper-153764) | 探索图有环和死端时，在边上设计选项并为纯循环覆盖不到的区域补低散度漂移。 |
+| 计算机视觉 | 表征学习 | [HOGWARTS: Mitigating Perspective Distortion for 6DoF Head Pose Estimation via Virtual Camera Space](cards-0006.md#paper-150937) | 用与原机共光心的虚拟相机替代矩形裁剪。 |
+| 多模态学习 | 训练策略 | [Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models](cards-0006.md#paper-149361) | 在统一模型中交换生成与理解分支的监督。 |
+| 大语言模型 | 优化 | [Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization](cards-0006.md#paper-154893) | MoE 架构搜索同时约束每词元算力、激活参数和总参数。 |
+| 计算机视觉 | 模型架构 | [Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion](cards-0006.md#paper-154530) | 动态重建用多视图静态缓存加逐帧动态缓存控制视频生成。 |
+| 科学机器学习 | 表征学习 | [HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields](cards-0006.md#paper-152255) | 当切面密集而轴向稀疏时将深度条件与切面内上下文解耦。 |
+| 大语言模型 | 数据策略 | [HomeFlow: A Data Flywheel for Smart Home Agent Training with Verifiable Simulation](cards-0006.md#paper-153647) | 把开放式指令编译为可执行的状态验收条件后再合成多轮示范。 |
+| 机器学习基础与统计 | 理论与统计 | [Homological Barriers to Stable Local Nash Dynamics in Quadratic Zero-Sum Games](cards-0006.md#paper-153857) | 先检查均衡集合拓扑，再设计全局稳定的博弈更新。 |
+| 大语言模型 | 评测与诊断 | [Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots](cards-0006.md#paper-139314) | 防御型蜜罐评估同时度量交互真实性和运行成本。 |
+| 多模态学习 | 数据策略 | [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](cards-0006.md#paper-149865) | 合成每跳都依赖先前视觉实例且答案易验证的训练题。 |
+| 机器人学 | 模型架构 | [HOPE: Hand-Object Pressure Estimation from Monocular Videos](cards-0006.md#paper-148354) | 用固定手网格顶点承接跨传感器压力与接触监督。 |
+| 图学习与推荐 | 表征学习 | [HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations](cards-0006.md#paper-155494) | 以 Hasse 图分解编码高阶结构，避免逐层高阶消息传递。 |
+| 强化学习 | 强化学习方法 | [Horizon Adaptive Offline Policy Learning via Value Stitching](cards-0006.md#paper-154836) | 离线价值备份联合选择子目标和预测跨度。 |
+| 计算机视觉 | 模型架构 | [Horizon-Stream: Long-Horizon Attention for Streaming 3D Reconstruction](cards-0006.md#paper-153911) | 将长程尺度信息的保留与短程三维匹配分开。 |
+| 机器学习基础与统计 | 理论与统计 | [Horizontal Diffusion Models: Score-based Generative Modeling on Frame-Connection Geometry](cards-0006.md#paper-154154) | 仅有局部几何信息时用标架丛提升欧式扩散。 |
+| 图学习与推荐 | 理论与统计 | [HoTS: Homophily-Aware Temperature Scaling for Graph Neural Network Calibration](cards-0006.md#paper-148576) | 图分类置信度同时按局部同配性与逻辑分数集中度校准。 |
+| 机器学习基础与统计 | 理论与统计 | [How Accurately Can a Gaussian Approximate Stochastic Approximation Iterates?](cards-0006.md#paper-154488) | 有限步随机逼近的误差区间使用逐步协方差，避免过早代入极限。 |
+| 机器学习基础与统计 | 理论与统计 | [How are linear representations learned? Exact solutions to the dynamics of abstraction](cards-0006.md#paper-155691) | 训练中同时读出前激活和后激活，防止非线性掩盖概念方向。 |

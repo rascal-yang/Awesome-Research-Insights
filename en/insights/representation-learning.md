@@ -464,5 +464,11 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [HARMONY: Hierarchical Anchor Retrieval on Manifold for Oblivious-source Acoustic Anomaly Detection](../../conferences/neurips-2026/cards-0006.md#paper-155727)
 - [Harnessing Data Asymmetry in Manifold Learning](../../conferences/neurips-2026/cards-0006.md#paper-151645)
 - [Hierarchical Graph Representation Learning with Pooling-Induced Substructures](../../conferences/neurips-2026/cards-0006.md#paper-154034)
+- [HiLoc: A Hierarchical Representation Method for Spatial Localization in Multimodal Large Language Models](../../conferences/neurips-2026/cards-0006.md#paper-152158)
+- [HIRaD: Hidden Interaction Inference from Predictive Radar Dynamics](../../conferences/neurips-2026/cards-0006.md#paper-154068)
+- [Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies](../../conferences/neurips-2026/cards-0006.md#paper-152292)
+- [HOGWARTS: Mitigating Perspective Distortion for 6DoF Head Pose Estimation via Virtual Camera Space](../../conferences/neurips-2026/cards-0006.md#paper-150937)
+- [HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields](../../conferences/neurips-2026/cards-0006.md#paper-152255)
+- [HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations](../../conferences/neurips-2026/cards-0006.md#paper-155494)
 
 <!-- conference-classification:end -->

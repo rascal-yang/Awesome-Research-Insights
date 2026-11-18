@@ -688,5 +688,9 @@
 - [HeMeR: Heterogeneous Memory Reconciliation for Embodied Agents via Structured KV Reuse](../conferences/neurips-2026/cards-0006.md#paper-148497)
 - [Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](../conferences/neurips-2026/cards-0006.md#paper-150396)
 - [HIDRA: Hierarchical Dual-Routing Attention for Replay-Free Lifelong Imitation Learning](../conferences/neurips-2026/cards-0006.md#paper-154222)
+- [Hierarchical World Models with Implicit Dynamics](../conferences/neurips-2026/cards-0006.md#paper-155510)
+- [High-Dimensional Robotic Reinforcement Learning with Developing Synergies](../conferences/neurips-2026/cards-0006.md#paper-151314)
+- [Higher-Order Action Supervision Makes A Strong Policy Class](../conferences/neurips-2026/cards-0006.md#paper-151538)
+- [HOPE: Hand-Object Pressure Estimation from Monocular Videos](../conferences/neurips-2026/cards-0006.md#paper-148354)
 
 <!-- conference-classification:end -->

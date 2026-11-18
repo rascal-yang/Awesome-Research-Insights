@@ -1208,5 +1208,8 @@
 - [Hidden Measurement Error in LLM Pipelines Distorts Annotation, Evaluation, and Benchmarking](../conferences/neurips-2026/cards-0006.md#paper-148222)
 - [Hidden Positives: Why Code Retrieval Benchmarks Underestimate Model Quality](../conferences/neurips-2026/cards-0006.md#paper-139499)
 - [Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring](../conferences/neurips-2026/cards-0006.md#paper-150396)
+- [HierSVA: A Synthesis Pipeline, Dataset, and Benchmark for LLM-Driven Hierarchical Hardware Formal Verification](../conferences/neurips-2026/cards-0006.md#paper-139579)
+- [HIFC-IQA: Train-Free Cross-Domain Image Quality Assessment via Dual-Process Cognition](../conferences/neurips-2026/cards-0006.md#paper-149761)
+- [Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots](../conferences/neurips-2026/cards-0006.md#paper-139314)
 
 <!-- conference-classification:end -->

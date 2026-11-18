@@ -515,5 +515,11 @@
 - [H-GenPO: Hierarchical Generative Policy Optimization via the Option-Critic Framework](../conferences/neurips-2026/cards-0006.md#paper-148440)
 - [Hider–Seeker Self-Play: Geometry-Verifiable Process Rewards for Long-Horizon Visual Search](../conferences/neurips-2026/cards-0006.md#paper-149113)
 - [Hide to Guide: Learning via Semantic Masking](../conferences/neurips-2026/cards-0006.md#paper-154951)
+- [High-Dimensional Robotic Reinforcement Learning with Developing Synergies](../conferences/neurips-2026/cards-0006.md#paper-151314)
+- [High Entropy Regularization Leads to Symmetry Equivariant Policies in Dec-POMDPs](../conferences/neurips-2026/cards-0006.md#paper-154447)
+- [Hindsight Relabeling is All You Need for Reach-Avoid Learning](../conferences/neurips-2026/cards-0006.md#paper-153151)
+- [Historical Relative Policy Optimization for Bootstrapping LLM Reasoning](../conferences/neurips-2026/cards-0006.md#paper-154697)
+- [Hodge Laplacian Quasi-Harmonic Flows for Option Discovery](../conferences/neurips-2026/cards-0006.md#paper-153764)
+- [Horizon Adaptive Offline Policy Learning via Value Stitching](../conferences/neurips-2026/cards-0006.md#paper-154836)
 
 <!-- conference-classification:end -->

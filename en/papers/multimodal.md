@@ -680,5 +680,10 @@ Learning across modalities such as images, text, audio, and video.
 - [Hider–Seeker Self-Play: Geometry-Verifiable Process Rewards for Long-Horizon Visual Search](../../conferences/neurips-2026/cards-0006.md#paper-149113)
 - [Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation](../../conferences/neurips-2026/cards-0006.md#paper-149574)
 - [Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](../../conferences/neurips-2026/cards-0006.md#paper-149193)
+- [HiLoc: A Hierarchical Representation Method for Spatial Localization in Multimodal Large Language Models](../../conferences/neurips-2026/cards-0006.md#paper-152158)
+- [HIMMEL: Hierarchical Interleaved Multi-stream Motion Encoding for Long Video Understanding](../../conferences/neurips-2026/cards-0006.md#paper-151828)
+- [HIRaD: Hidden Interaction Inference from Predictive Radar Dynamics](../../conferences/neurips-2026/cards-0006.md#paper-154068)
+- [Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models](../../conferences/neurips-2026/cards-0006.md#paper-149361)
+- [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](../../conferences/neurips-2026/cards-0006.md#paper-149865)
 
 <!-- conference-classification:end -->

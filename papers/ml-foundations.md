@@ -1991,5 +1991,17 @@
 - [Hierarchical Agglomerative Clustering via Relaxed Representatives](../conferences/neurips-2026/cards-0006.md#paper-154138)
 - [Hierarchical Conformal Classification](../conferences/neurips-2026/cards-0006.md#paper-150172)
 - [Hierarchical Variational Policies for Reward-Guided Diffusion](../conferences/neurips-2026/cards-0006.md#paper-154863)
+- [High-Dimensional Conditional Independence Testing via Random Projection Aggregation](../conferences/neurips-2026/cards-0006.md#paper-148200)
+- [High-Dimensional Learning Dynamics of Attention-Indexed Models](../conferences/neurips-2026/cards-0006.md#paper-154586)
+- [High-dimensional Limit of SGD for Diagonal Linear Networks](../conferences/neurips-2026/cards-0006.md#paper-155594)
+- [High dimensional theory of two-phase optimizers](../conferences/neurips-2026/cards-0006.md#paper-149062)
+- [High-Fidelity Boltzmann Samplingvia Physical Prior Lifted Continuous GFlowNets](../conferences/neurips-2026/cards-0006.md#paper-154030)
+- [High-probability Convergence of Gradient Methods under Markovian Stochasticity](../conferences/neurips-2026/cards-0006.md#paper-149977)
+- [High-Probability Minimax Adaptive Estimation in Besov Spaces via Online-to-Batch](../conferences/neurips-2026/cards-0006.md#paper-149324)
+- [History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](../conferences/neurips-2026/cards-0006.md#paper-153050)
+- [Homological Barriers to Stable Local Nash Dynamics in Quadratic Zero-Sum Games](../conferences/neurips-2026/cards-0006.md#paper-153857)
+- [Horizontal Diffusion Models: Score-based Generative Modeling on Frame-Connection Geometry](../conferences/neurips-2026/cards-0006.md#paper-154154)
+- [How Accurately Can a Gaussian Approximate Stochastic Approximation Iterates?](../conferences/neurips-2026/cards-0006.md#paper-154488)
+- [How are linear representations learned? Exact solutions to the dynamics of abstraction](../conferences/neurips-2026/cards-0006.md#paper-155691)
 
 <!-- conference-classification:end -->

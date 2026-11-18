@@ -558,5 +558,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Harnessing Agentic Evolution](../../conferences/neurips-2026/cards-0006.md#paper-156126)
 - [Hessian-Dependent Sample Complexity in Zeroth-Order Stochastic Optimization: Suboptimality of Convex-Support Sampling and Optimal Sample Complexity](../../conferences/neurips-2026/cards-0006.md#paper-153326)
 - [Hierarchical Agglomerative Clustering via Relaxed Representatives](../../conferences/neurips-2026/cards-0006.md#paper-154138)
+- [High dimensional theory of two-phase optimizers](../../conferences/neurips-2026/cards-0006.md#paper-149062)
+- [High-probability Convergence of Gradient Methods under Markovian Stochasticity](../../conferences/neurips-2026/cards-0006.md#paper-149977)
+- [Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization](../../conferences/neurips-2026/cards-0006.md#paper-154893)
 
 <!-- conference-classification:end -->

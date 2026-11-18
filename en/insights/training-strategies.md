@@ -624,5 +624,9 @@ Training schedules, curricula, and task or stage composition.
 - [Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation](../../conferences/neurips-2026/cards-0006.md#paper-149574)
 - [HIDRA: Hierarchical Dual-Routing Attention for Replay-Free Lifelong Imitation Learning](../../conferences/neurips-2026/cards-0006.md#paper-154222)
 - [Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](../../conferences/neurips-2026/cards-0006.md#paper-149193)
+- [HiFloat4 Format for End-To-End Reinforcement Learning Post-Training of Large Language Models](../../conferences/neurips-2026/cards-0006.md#paper-154752)
+- [HiFloat4 Format for Language Model Pre-training on Ascend NPUs](../../conferences/neurips-2026/cards-0006.md#paper-152215)
+- [Hint Tuning: Less Data Makes Better Reasoners](../../conferences/neurips-2026/cards-0006.md#paper-153982)
+- [Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models](../../conferences/neurips-2026/cards-0006.md#paper-149361)
 
 <!-- conference-classification:end -->

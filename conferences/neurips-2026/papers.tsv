@@ -3663,66 +3663,66 @@ poster_id	title	paper_url	status	reason
 149193	Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/149193	included	增量学习时用类别树锚定特征，再用历史特征零空间约束更新。
 153333	Hierarchical Task Network Planning with LLM-Generated Heuristics	https://neurips.cc/virtual/2026/poster/153333	excluded	基于已有语言模型启发式生成流程切换到 HTN；摘要未给生成机制区别，也未指出何种任务结构驱动收益。
 154863	Hierarchical Variational Policies for Reward-Guided Diffusion	https://neurips.cc/virtual/2026/poster/154863	included	用训练出的低成本策略摊销扩散的信息引导，必要时再做少量在线修正。
-155510	Hierarchical World Models with Implicit Dynamics	https://neurips.cc/virtual/2026/poster/155510	pending	-
-149679	HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation	https://neurips.cc/virtual/2026/poster/149679	pending	-
-151568	HierRR: Enhancing Instruction Alignment in Open-Vocabulary Indoor Scene Synthesis via Agentic Hierarchical Reasoning and Reflection	https://neurips.cc/virtual/2026/poster/151568	pending	-
-139579	HierSVA: A Synthesis Pipeline, Dataset, and Benchmark for LLM-Driven Hierarchical Hardware Formal Verification	https://neurips.cc/virtual/2026/poster/139579	pending	-
-149761	HIFC-IQA: Train-Free Cross-Domain Image Quality Assessment via Dual-Process Cognition	https://neurips.cc/virtual/2026/poster/149761	pending	-
-154752	HiFloat4 Format for End-To-End Reinforcement Learning Post-Training of Large Language Models	https://neurips.cc/virtual/2026/poster/154752	pending	-
-152215	HiFloat4 Format for Language Model Pre-training on Ascend NPUs	https://neurips.cc/virtual/2026/poster/152215	pending	-
-153650	High-arity Sample Compression	https://neurips.cc/virtual/2026/poster/153650	pending	-
-148200	High-Dimensional Conditional Independence Testing via Random Projection Aggregation	https://neurips.cc/virtual/2026/poster/148200	pending	-
-151184	High-dimensional Gaussian Graphical Model Testing for Long-Memory Time Series	https://neurips.cc/virtual/2026/poster/151184	pending	-
-154586	High-Dimensional Learning Dynamics of Attention-Indexed Models	https://neurips.cc/virtual/2026/poster/154586	pending	-
-155594	High-dimensional Limit of SGD for Diagonal Linear Networks	https://neurips.cc/virtual/2026/poster/155594	pending	-
-151314	High-Dimensional Robotic Reinforcement Learning with Developing Synergies	https://neurips.cc/virtual/2026/poster/151314	pending	-
-149062	High dimensional theory of two-phase optimizers	https://neurips.cc/virtual/2026/poster/149062	pending	-
-154447	High Entropy Regularization Leads to Symmetry Equivariant Policies in Dec-POMDPs	https://neurips.cc/virtual/2026/poster/154447	pending	-
-151538	Higher-Order Action Supervision Makes A Strong Policy Class	https://neurips.cc/virtual/2026/poster/151538	pending	-
-150453	Higher-Order Cell Tracking Transformer	https://neurips.cc/virtual/2026/poster/150453	pending	-
-154030	High-Fidelity Boltzmann Samplingvia Physical Prior Lifted Continuous GFlowNets	https://neurips.cc/virtual/2026/poster/154030	pending	-
-153009	High Performance Differentially Private Fine-Tuning using Dataset Distillation	https://neurips.cc/virtual/2026/poster/153009	pending	-
-149977	High-probability Convergence of Gradient Methods under Markovian Stochasticity	https://neurips.cc/virtual/2026/poster/149977	pending	-
-149324	High-Probability Minimax Adaptive Estimation in Besov Spaces via Online-to-Batch	https://neurips.cc/virtual/2026/poster/149324	pending	-
-150738	High Probability Risk Control for Online Policy Learning	https://neurips.cc/virtual/2026/poster/150738	pending	-
-139227	HiGraph: A Large-Scale Hierarchical Graph Dataset for Malware Analysis	https://neurips.cc/virtual/2026/poster/139227	pending	-
-152101	HilbertGen-3D:Hilbert--Multifractal Conditioning for Topology-Aware 3D Generation	https://neurips.cc/virtual/2026/poster/152101	pending	-
-152158	HiLoc: A Hierarchical Representation Method for Spatial Localization in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/152158	pending	-
-151571	HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization	https://neurips.cc/virtual/2026/poster/151571	pending	-
-151828	HIMMEL: Hierarchical Interleaved Multi-stream Motion Encoding for Long Video Understanding	https://neurips.cc/virtual/2026/poster/151828	pending	-
-153151	Hindsight Relabeling is All You Need for Reach-Avoid Learning	https://neurips.cc/virtual/2026/poster/153151	pending	-
-153982	Hint Tuning: Less Data Makes Better Reasoners	https://neurips.cc/virtual/2026/poster/153982	pending	-
-150284	HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation	https://neurips.cc/virtual/2026/poster/150284	pending	-
-155067	Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering	https://neurips.cc/virtual/2026/poster/155067	pending	-
-154068	HIRaD: Hidden Interaction Inference from Predictive Radar Dynamics	https://neurips.cc/virtual/2026/poster/154068	pending	-
-139656	HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure	https://neurips.cc/virtual/2026/poster/139656	pending	-
-155909	HIST3R: Rectified State Decomposition from History for Streaming 3D Reconstruction	https://neurips.cc/virtual/2026/poster/155909	pending	-
-154697	Historical Relative Policy Optimization for Bootstrapping LLM Reasoning	https://neurips.cc/virtual/2026/poster/154697	pending	-
-153050	History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes	https://neurips.cc/virtual/2026/poster/153050	pending	-
-148455	Hit Expansion via Localized Exploration of Synthesizable Chemical Space	https://neurips.cc/virtual/2026/poster/148455	pending	-
-153619	Hitting a Moving Target: Test-Time Adaptation for AI Text Detection under Continual Distribution Shift	https://neurips.cc/virtual/2026/poster/153619	pending	-
-152292	Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies	https://neurips.cc/virtual/2026/poster/152292	pending	-
-153764	Hodge Laplacian Quasi-Harmonic Flows for Option Discovery	https://neurips.cc/virtual/2026/poster/153764	pending	-
-150937	HOGWARTS: Mitigating Perspective Distortion for 6DoF Head Pose Estimation via Virtual Camera Space	https://neurips.cc/virtual/2026/poster/150937	pending	-
-149361	Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/149361	pending	-
-154893	Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization	https://neurips.cc/virtual/2026/poster/154893	pending	-
-154530	Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion	https://neurips.cc/virtual/2026/poster/154530	pending	-
-152551	HoloCode: A Code-Centric Multi-Agent Framework for Image-to-3D Scene Generation	https://neurips.cc/virtual/2026/poster/152551	pending	-
-152255	HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields	https://neurips.cc/virtual/2026/poster/152255	pending	-
-153647	HomeFlow: A Data Flywheel for Smart Home Agent Training with Verifiable Simulation	https://neurips.cc/virtual/2026/poster/153647	pending	-
-150641	HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enhancement	https://neurips.cc/virtual/2026/poster/150641	pending	-
-153857	Homological Barriers to Stable Local Nash Dynamics in Quadratic Zero-Sum Games	https://neurips.cc/virtual/2026/poster/153857	pending	-
-139314	Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots	https://neurips.cc/virtual/2026/poster/139314	pending	-
-149865	HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning	https://neurips.cc/virtual/2026/poster/149865	pending	-
-148354	HOPE: Hand-Object Pressure Estimation from Monocular Videos	https://neurips.cc/virtual/2026/poster/148354	pending	-
-155494	HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations	https://neurips.cc/virtual/2026/poster/155494	pending	-
-154836	Horizon Adaptive Offline Policy Learning via Value Stitching	https://neurips.cc/virtual/2026/poster/154836	pending	-
-150588	HorizonComposer: Spatiotemporally Consistent Driving Video Editing with Enriched Traffic Semantics	https://neurips.cc/virtual/2026/poster/150588	pending	-
-153911	Horizon-Stream: Long-Horizon Attention for Streaming 3D Reconstruction	https://neurips.cc/virtual/2026/poster/153911	pending	-
-154154	Horizontal Diffusion Models: Score-based Generative Modeling on Frame-Connection Geometry	https://neurips.cc/virtual/2026/poster/154154	pending	-
-148576	HoTS: Homophily-Aware Temperature Scaling for Graph Neural Network Calibration	https://neurips.cc/virtual/2026/poster/148576	pending	-
-154488	How Accurately Can a Gaussian Approximate Stochastic Approximation Iterates?	https://neurips.cc/virtual/2026/poster/154488	pending	-
-155691	How are linear representations learned? Exact solutions to the dynamics of abstraction	https://neurips.cc/virtual/2026/poster/155691	pending	-
+155510	Hierarchical World Models with Implicit Dynamics	https://neurips.cc/virtual/2026/poster/155510	included	把长时规划拆成可达状态采样和局部逆动力学。
+149679	HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation	https://neurips.cc/virtual/2026/poster/149679	included	用子任务执行反馈修正代理工作流拓扑。
+151568	HierRR: Enhancing Instruction Alignment in Open-Vocabulary Indoor Scene Synthesis via Agentic Hierarchical Reasoning and Reflection	https://neurips.cc/virtual/2026/poster/151568	excluded	摘要称层级推理及视觉反思改善室内布局，但未说明能独立复用的几何映射或修正规则。
+139579	HierSVA: A Synthesis Pipeline, Dataset, and Benchmark for LLM-Driven Hierarchical Hardware Formal Verification	https://neurips.cc/virtual/2026/poster/139579	included	生成形式断言时，把证明成功和属性覆盖分开验收。
+149761	HIFC-IQA: Train-Free Cross-Domain Image Quality Assessment via Dual-Process Cognition	https://neurips.cc/virtual/2026/poster/149761	included	跨域无参考画质评分时区分失真与语义审美。
+154752	HiFloat4 Format for End-To-End Reinforcement Learning Post-Training of Large Language Models	https://neurips.cc/virtual/2026/poster/154752	included	端到端 FP4 后训练优先校正 rollout 激活。
+152215	HiFloat4 Format for Language Model Pre-training on Ascend NPUs	https://neurips.cc/virtual/2026/poster/152215	included	FP4 预训练先比较数值格式，再堆稳定化机制。
+153650	High-arity Sample Compression	https://neurips.cc/virtual/2026/poster/153650	excluded	摘要只陈述高元压缩与 PAC 可学习性的蕴含，未给可操作的条件、构造或可迁移选择。
+148200	High-Dimensional Conditional Independence Testing via Random Projection Aggregation	https://neurips.cc/virtual/2026/poster/148200	included	高维条件独立检验先做随机一维投影，再聚合证据。
+151184	High-dimensional Gaussian Graphical Model Testing for Long-Memory Time Series	https://neurips.cc/virtual/2026/poster/151184	excluded	摘要未交代检验统计量的具体构造，分块自助法本身不足以说明可复用新增量。
+154586	High-Dimensional Learning Dynamics of Attention-Indexed Models	https://neurips.cc/virtual/2026/poster/154586	included	比较注意力参数化的早期对称破缺能力。
+155594	High-dimensional Limit of SGD for Diagonal Linear Networks	https://neurips.cc/virtual/2026/poster/155594	included	在简化随机训练模型中分开监测漂移和噪声。
+151314	High-Dimensional Robotic Reinforcement Learning with Developing Synergies	https://neurips.cc/virtual/2026/poster/151314	included	联合学习低维动作接口，并让解码器慢于策略演化。
+149062	High dimensional theory of two-phase optimizers	https://neurips.cc/virtual/2026/poster/149062	included	两阶段局部更新时考虑同步引入的噪声。
+154447	High Entropy Regularization Leads to Symmetry Equivariant Policies in Dec-POMDPs	https://neurips.cc/virtual/2026/poster/154447	included	合作策略扫更高熵系数，并分别评价自博弈和跨种子配对。
+151538	Higher-Order Action Supervision Makes A Strong Policy Class	https://neurips.cc/virtual/2026/poster/151538	included	连续动作训练中同时监督动作本身与一阶变化。
+150453	Higher-Order Cell Tracking Transformer	https://neurips.cc/virtual/2026/poster/150453	included	检测关联任务中改为在候选边间传递信息。
+154030	High-Fidelity Boltzmann Samplingvia Physical Prior Lifted Continuous GFlowNets	https://neurips.cc/virtual/2026/poster/154030	included	在连续目标分布采样时利用可采样的参考空间。
+153009	High Performance Differentially Private Fine-Tuning using Dataset Distillation	https://neurips.cc/virtual/2026/poster/153009	included	需要频繁更换模型时一次发布私有蒸馏数据。
+149977	High-probability Convergence of Gradient Methods under Markovian Stochasticity	https://neurips.cc/virtual/2026/poster/149977	included	相关数据流上的高概率优化分析显式计入依赖。
+149324	High-Probability Minimax Adaptive Estimation in Besov Spaces via Online-to-Batch	https://neurips.cc/virtual/2026/poster/149324	included	未知噪声量级时，以自适应裁剪的在线小波更新估计非参数回归函数。
+150738	High Probability Risk Control for Online Policy Learning	https://neurips.cc/virtual/2026/poster/150738	included	在线更换策略前，在反馈诱发的协变量偏移下用风险上置信界筛选每轮候选。
+139227	HiGraph: A Large-Scale Hierarchical Graph Dataset for Malware Analysis	https://neurips.cc/virtual/2026/poster/139227	excluded	主要新增恶意软件分层图数据和规模，摘要未给出独立可验证的检测机制或规律。
+152101	HilbertGen-3D:Hilbert--Multifractal Conditioning for Topology-Aware 3D Generation	https://neurips.cc/virtual/2026/poster/152101	excluded	局部密度与全局条件融合的整体提升不足以判断 Hilbert 序列和多重分形维数各自的收益。
+152158	HiLoc: A Hierarchical Representation Method for Spatial Localization in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/152158	included	视觉语言坐标预测中，用逐级网格索引提高精度，另测更严格的定位阈值。
+151571	HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization	https://neurips.cc/virtual/2026/poster/151571	included	复用现有 LoRA 池时，先为序列分配适配器秩预算，再在 token 级挑秩一分量。
+151828	HIMMEL: Hierarchical Interleaved Multi-stream Motion Encoding for Long Video Understanding	https://neurips.cc/virtual/2026/poster/151828	included	长视频推理把贵重 RGB 编码留给稀疏锚帧，用压缩域运动信号覆盖中间帧。
+153151	Hindsight Relabeling is All You Need for Reach-Avoid Learning	https://neurips.cc/virtual/2026/poster/153151	included	离线到达避障任务中，把目标和避让区域作为测试时可改的条件。
+153982	Hint Tuning: Less Data Makes Better Reasoners	https://neurips.cc/virtual/2026/poster/153982	included	不确定推理需要多深时，用同系列指令模型在不同提示量下的解题情况分级。
+150284	HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation	https://neurips.cc/virtual/2026/poster/150284	excluded	局部与全局物理奖励方向具有潜力，但摘要缺少具体奖励构造及可复用的约束实现。
+155067	Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering	https://neurips.cc/virtual/2026/poster/155067	included	多跳检索时，只有当前证据无法支撑子问才进一步拆分。
+154068	HIRaD: Hidden Interaction Inference from Predictive Radar Dynamics	https://neurips.cc/virtual/2026/poster/154068	included	对象难从稀疏传感器直接观察时，以人体运动先验和校正轨迹之间的偏差信号推断交互。
+139656	HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure	https://neurips.cc/virtual/2026/poster/139656	excluded	美国招聘合规测试有领域价值；压力上下文改变守规率的摘要结论缺少可隔离原因的技术对照。
+155909	HIST3R: Rectified State Decomposition from History for Streaming 3D Reconstruction	https://neurips.cc/virtual/2026/poster/155909	included	固定容量的流式三维状态开始漂移时，独立校正更新方向和步幅。
+154697	Historical Relative Policy Optimization for Bootstrapping LLM Reasoning	https://neurips.cc/virtual/2026/poster/154697	included	GRPO 当前组整体退化时，额外用历史表现判断进步，并在全组无正信号时回放。
+153050	History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes	https://neurips.cc/virtual/2026/poster/153050	included	动态生存预测随访时，用截至决策时点的协变量历史重新构造区间。
+148455	Hit Expansion via Localized Exploration of Synthesizable Chemical Space	https://neurips.cc/virtual/2026/poster/148455	excluded	合成约束下的药物设计属于特定领域，摘要未给出能独立支撑通用采样选择的比较。
+153619	Hitting a Moving Target: Test-Time Adaptation for AI Text Detection under Continual Distribution Shift	https://neurips.cc/virtual/2026/poster/153619	excluded	部署端半监督适配的方向明确，但摘要未具体说明如何用同质性区分来源并阻止伪标错误累积。
+152292	Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies	https://neurips.cc/virtual/2026/poster/152292	included	学习长时多阶段导航表征时，把有方向的期望首达时间显式加入一致性目标。
+153764	Hodge Laplacian Quasi-Harmonic Flows for Option Discovery	https://neurips.cc/virtual/2026/poster/153764	included	探索图有环和死端时，在边上设计选项并为纯循环覆盖不到的区域补低散度漂移。
+150937	HOGWARTS: Mitigating Perspective Distortion for 6DoF Head Pose Estimation via Virtual Camera Space	https://neurips.cc/virtual/2026/poster/150937	included	用与原机共光心的虚拟相机替代矩形裁剪。
+149361	Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/149361	included	在统一模型中交换生成与理解分支的监督。
+154893	Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization	https://neurips.cc/virtual/2026/poster/154893	included	MoE 架构搜索同时约束每词元算力、激活参数和总参数。
+154530	Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion	https://neurips.cc/virtual/2026/poster/154530	included	动态重建用多视图静态缓存加逐帧动态缓存控制视频生成。
+152551	HoloCode: A Code-Centric Multi-Agent Framework for Image-to-3D Scene Generation	https://neurips.cc/virtual/2026/poster/152551	excluded	摘要将布局、资产选择及渲染反馈集成为 Blender 多智能体流程，未凭独立对照说明可执行布局或反馈修订较已有模块组合的额外收益。
+152255	HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields	https://neurips.cc/virtual/2026/poster/152255	included	当切面密集而轴向稀疏时将深度条件与切面内上下文解耦。
+153647	HomeFlow: A Data Flywheel for Smart Home Agent Training with Verifiable Simulation	https://neurips.cc/virtual/2026/poster/153647	included	把开放式指令编译为可执行的状态验收条件后再合成多轮示范。
+150641	HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enhancement	https://neurips.cc/virtual/2026/poster/150641	excluded	摘要描述多模态注意和参考嵌入用于视频个性化，但未提供将对应关系编码与现有融合做法区分开的证据，也未给可迁移的实证边界。
+153857	Homological Barriers to Stable Local Nash Dynamics in Quadratic Zero-Sum Games	https://neurips.cc/virtual/2026/poster/153857	included	先检查均衡集合拓扑，再设计全局稳定的博弈更新。
+139314	Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots	https://neurips.cc/virtual/2026/poster/139314	included	防御型蜜罐评估同时度量交互真实性和运行成本。
+149865	HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning	https://neurips.cc/virtual/2026/poster/149865	included	合成每跳都依赖先前视觉实例且答案易验证的训练题。
+148354	HOPE: Hand-Object Pressure Estimation from Monocular Videos	https://neurips.cc/virtual/2026/poster/148354	included	用固定手网格顶点承接跨传感器压力与接触监督。
+155494	HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations	https://neurips.cc/virtual/2026/poster/155494	included	以 Hasse 图分解编码高阶结构，避免逐层高阶消息传递。
+154836	Horizon Adaptive Offline Policy Learning via Value Stitching	https://neurips.cc/virtual/2026/poster/154836	included	离线价值备份联合选择子目标和预测跨度。
+150588	HorizonComposer: Spatiotemporally Consistent Driving Video Editing with Enriched Traffic Semantics	https://neurips.cc/virtual/2026/poster/150588	excluded	摘要虽有像素级信号和过渡帧设计，但只提供整套系统相对表现，未把过渡机制与驾驶编辑专用数据增益拆开。
+153911	Horizon-Stream: Long-Horizon Attention for Streaming 3D Reconstruction	https://neurips.cc/virtual/2026/poster/153911	included	将长程尺度信息的保留与短程三维匹配分开。
+154154	Horizontal Diffusion Models: Score-based Generative Modeling on Frame-Connection Geometry	https://neurips.cc/virtual/2026/poster/154154	included	仅有局部几何信息时用标架丛提升欧式扩散。
+148576	HoTS: Homophily-Aware Temperature Scaling for Graph Neural Network Calibration	https://neurips.cc/virtual/2026/poster/148576	included	图分类置信度同时按局部同配性与逻辑分数集中度校准。
+154488	How Accurately Can a Gaussian Approximate Stochastic Approximation Iterates?	https://neurips.cc/virtual/2026/poster/154488	included	有限步随机逼近的误差区间使用逐步协方差，避免过早代入极限。
+155691	How are linear representations learned? Exact solutions to the dynamics of abstraction	https://neurips.cc/virtual/2026/poster/155691	included	训练中同时读出前激活和后激活，防止非线性掩盖概念方向。
 150706	How Can SignSGD Outperform SGD? A Functional Scaling Law Perspective	https://neurips.cc/virtual/2026/poster/150706	pending	-
 139218	How Complete Should a Reference Be? A Benchmark Audit for Fluorescence Spot Detection	https://neurips.cc/virtual/2026/poster/139218	pending	-
 150878	How Data Augmentation Shapes Neural Representations	https://neurips.cc/virtual/2026/poster/150878	pending	-

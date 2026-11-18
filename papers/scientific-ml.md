@@ -501,5 +501,7 @@
 - [Guidance For Prior Change via Density Ratio Estimation](../conferences/neurips-2026/cards-0006.md#paper-152964)
 - [Handwriting decoding as a challenging motor task for EEG Foundation Models](../conferences/neurips-2026/cards-0006.md#paper-139358)
 - [Harmonic Torsional Diffusion for Flexible Protein-Ligand Docking](../conferences/neurips-2026/cards-0006.md#paper-153661)
+- [Higher-Order Cell Tracking Transformer](../conferences/neurips-2026/cards-0006.md#paper-150453)
+- [HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields](../conferences/neurips-2026/cards-0006.md#paper-152255)
 
 <!-- conference-classification:end -->

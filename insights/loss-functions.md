@@ -328,5 +328,7 @@
 - [Half-Truths Break Similarity-Based Retrieval](../conferences/neurips-2026/cards-0006.md#paper-154568)
 - [HEED: Density-Weighted Residual Alignment for Hybrid Vision-Language Model Distillation](../conferences/neurips-2026/cards-0006.md#paper-150667)
 - [Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment](../conferences/neurips-2026/cards-0006.md#paper-153644)
+- [Higher-Order Action Supervision Makes A Strong Policy Class](../conferences/neurips-2026/cards-0006.md#paper-151538)
+- [High-Fidelity Boltzmann Samplingvia Physical Prior Lifted Continuous GFlowNets](../conferences/neurips-2026/cards-0006.md#paper-154030)
 
 <!-- conference-classification:end -->

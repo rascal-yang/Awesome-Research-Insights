@@ -839,5 +839,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [HeatKV: Head-tuned KV-cache Compression for Visual Autoregressive Modeling](../../conferences/neurips-2026/cards-0006.md#paper-149898)
 - [Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment](../../conferences/neurips-2026/cards-0006.md#paper-153644)
 - [Hierarchical Denoising For Multi-Step Visual Reasoning](../../conferences/neurips-2026/cards-0006.md#paper-151418)
+- [HIFC-IQA: Train-Free Cross-Domain Image Quality Assessment via Dual-Process Cognition](../../conferences/neurips-2026/cards-0006.md#paper-149761)
+- [High Performance Differentially Private Fine-Tuning using Dataset Distillation](../../conferences/neurips-2026/cards-0006.md#paper-153009)
+- [HIST3R: Rectified State Decomposition from History for Streaming 3D Reconstruction](../../conferences/neurips-2026/cards-0006.md#paper-155909)
+- [HOGWARTS: Mitigating Perspective Distortion for 6DoF Head Pose Estimation via Virtual Camera Space](../../conferences/neurips-2026/cards-0006.md#paper-150937)
+- [Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-154530)
+- [Horizon-Stream: Long-Horizon Attention for Streaming 3D Reconstruction](../../conferences/neurips-2026/cards-0006.md#paper-153911)
 
 <!-- conference-classification:end -->
