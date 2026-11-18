@@ -404,3 +404,106 @@ poster_id	novelty	reuse	usability	distinctness	evidence_scope	source	precedent	r
 155571	4	4	4	4	full_text_sections	https://arxiv.org/html/2508.01925v1	https://arxiv.org/abs/2307.07832	先例通过图数据增强缓解解释偏移，本文对软掩码构建代理，正文表格显示可结合多种解释器。
 151948	4	5	5	4	full_text_sections	https://arxiv.org/html/2606.17584v1	https://proceedings.mlr.press/v267/wang25ce.html	已有整流流反演，正文按轨迹直线度选择不动点根，并验证代理下降伴随实际轨迹偏差降低。
 155479	4	5	4	4	abstract	https://openreview.net/forum?id=5HOe7v27vl	https://proceedings.mlr.press/v37/sui15.html	在高斯过程安全探索之外加入对后续可行状态的保证；可将当步安全与长时死路分验。
+150303	3	5	4	4	author_abstract	https://openreview.net/forum?id=j95jiSEi4O	https://arxiv.org/abs/2004.12832	ColBERT 已用局部交互改善单向量打分。本文按文档局部语义歧义扩充打分容量，适合比较均匀扩容与仅处理高歧义邻域，全文待核。
+156059	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2611.11119	https://ojs.aaai.org/index.php/AAAI/article/view/34840	已有神经控制安全证书的运行验证。本文利用动力学单调性把证书搜索归约为有限边界条件，正文明确要求不安全集向上闭合，可指导验证前的结构检查。
+148161	4	4	4	4	author_fulltext_intro	https://arxiv.org/html/2605.12049	https://proceedings.mlr.press/v202/orvieto23a.html	LRU 已展示长程循环可用简洁单元。本文在固定参数预算独立扫描单元数、单元内复杂度和连接度，并跨听觉及字符任务检验预算分配。
+153133	4	5	4	4	author_abstract	https://openreview.net/forum?id=NdxaPh23ii	https://arxiv.org/abs/2506.05573	PartCrafter 已在结构化潜空间生成分件网格。本文交替以部件和物体坐标处理同一潜码，适合分别核查局部几何和整体组装，公开正文待定位。
+152160	4	5	4	4	author_abstract	https://openreview.net/forum?id=V4bnZAJAx7	https://proceedings.iclr.cc/paper_files/paper/2026/hash/1529a05fdff470f4e7c239c80d85e28e-Abstract-Conference.html	PolicyFlow 已用可逆流优化策略。此作在扩展动作空间用自伴积分结构实现可计算似然，可对照一般连续流的密度计算成本及策略多峰性。
+154770	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2605.07113	https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SEA.2022.19	先例比较 Max-Cut 谱和半正定求解。正文用 GNN 学习仍满足原始与对偶可行性的界，嵌入分支定界可独立审查提速与全局证书。
+151057	3	4	3	4	author_abstract	https://openreview.net/forum?id=dJy3Ipz0tx	https://proceedings.mlr.press/v54/linderman17a.html	切换动力学已有离散工况与连续状态分离。本文增加多模态部分观测与工况相关稀疏连接，可按模态缺失与工况分别核查恢复，避免把拟合联系直接当成介入因果。
+151524	4	4	4	4	author_abstract	https://openreview.net/forum?id=a138H6V09U	https://ijcai.org/proceedings/2026/258	同方向已有可微谱归一化。SpecAnn 对比固定归一化，沿参数化路径得到不同谱候选，适合在等特征分解预算下核验探索是否带来更好的离散解。
+150195	4	5	4	4	author_abstract	https://openreview.net/forum?id=k2OeOyeBRk	https://par.nsf.gov/servlets/purl/10565454	FisherRF 已以信息增益选视图。SpheriBED 把后验目标缩到逐高斯球面外观而获闭式计算，可分测近似节省和遗漏几何不确定性。
+153095	3	4	4	4	author_abstract	https://openreview.net/forum?id=NzsjoeFQ45	https://arxiv.org/abs/2007.13544	ReBeL 已结合自博弈与递归子博弈搜索。此作只随机化子问题预算，可用相同平均迭代数比较种子方差和策略质量。
+148586	4	4	3	4	author_abstract	https://openreview.net/forum?id=wgAOX8Wvbf	https://proceedings.mlr.press/v108/pamfil20a.html	DYNOTEARS 系列已分离滞后与同时关系。本文将偏序先验施于时间展开图，适合在变量层有反馈时避免错删滞后结构。
+148436	4	4	3	4	author_fulltext_intro	https://arxiv.org/html/2310.10758	https://proceedings.mlr.press/v178/cherapanamjeri22a.html	弱矩均值估计已有最优误差率。本文正文区分一般欧氏稳健率与要求仿射等变时的误差和崩溃点退化，可用于决定是否为坐标对称性接受统计代价。作者页确认会议题名与预印本为同一作者组合。
+151459	4	4	4	4	author_fulltext_intro	https://arxiv.org/html/2611.14572	https://proceedings.mlr.press/v119/perdomo20a.html	Performative Prediction 已指出预测改变人群分布。本文以行为可达性连接阈值、处置分配及原本受益类型，适合分别核查福利、安全与分群影响。
+155742	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2603.08682	https://arxiv.org/abs/2401.02602	早期神经因果抽象已联系粗粒度因果表征。本文证明特定瓶颈的可识别性，并分列工具变量、中介与后门场景，可用于决定是否先降维再估计。
+148844	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2602.06042	https://proceedings.neurips.cc/paper_files/paper/2025/hash/acb1891d79e617134ed604084ebbc919-Abstract-Conference.html	非线性零空间投影已有图像恢复先例。本文以反身一致性推广伪逆接口，并将候选纠至同一观测的解空间，适合分测约束满足与生成多样性。
+148394	4	4	4	4	author_abstract_only	https://openreview.net/forum?id=yAJk2oHY8u		摘要以单次编码跨车辆数级别预测割集，可对照逐级评分在固定分离时间下的有效约束数。直接先例链接待核。
+154980	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=9Si78VoQ43		把任务监督的度量与高斯混合间运输联合考虑，可对照固定欧氏代价是否被无关方向主导。直接先例待核。
+151523	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2611.10509		§3.1–3.4 用输出神经元作词元以近似优化结构，可对照宽度扩展所需参数及拟合质量。最接近的超网络先例链接待核。
+148701	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2604.13081	https://arxiv.org/abs/2212.13345	§3、§4.1 将 Forward-Forward 的局部评分由总能量扩展至活动形状，可在保留训练流程时比较不同选择性目标。
+153872	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=I7N01JSe99	https://arxiv.org/abs/2106.09685	LoRA 是底层适配方式；本文以训练数据切片依次汇总后验证据，可独立测试低数据和偏移情形的校准。
+148806	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=uzMEs1gPQ6		摘要在含乘法观测及控制噪声的部分观测设置里联合求控制和滤波，可对照加性噪声解的适用边界。直接先例待核。
+150790	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2610.34590	https://arxiv.org/abs/1703.00443	§2.2–2.5。可微优化层已有先例；这里保留平方和证书的稀疏坐标及共享矩块，以对照稠密反传的时间和内存。
+148147	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=zvAriUgbiU		摘要将片段总回报造成的辨识问题与谱表示结合，可通过逐步奖励和不同包长的对照检验上下文能否识别任务。直接先例待核。
+148878	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=uVMZotQcJ7	https://arxiv.org/abs/2210.02747	Flow Matching 提供连续速度场背景。摘要把类别序列嵌到球面并利用球对称噪声，可与欧氏或单纯形路径比较。
+150122	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2606.08203		§2.3–2.4、§3。为高维刚性 ODE 比较可扩展概率滤波的数值稳定性及不确定性。直接近邻链接待核。
+152770	4	4	4	4	author_abstract_only	https://openreview.net/forum?id=QVYzAlckz5		摘要把可在任意分辨率取样与在该分辨率稳定演化分开，可改变粗网格代理的验收协议。直接先例待核。
+153102	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=NvLeAPXNDq		摘要用 Wasserstein 收缩界定随机输入储备池的稳态和混合，适合修正按独立样本估计轨迹长度的做法。直接先例待核。
+149743	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2605.07384	https://arxiv.org/abs/2111.00396	§2.2–2.3、§3。结构状态空间是已有模块；该文将其接入不规则稀疏观测的在线物理场重建，可测流式内存和传感间隔鲁棒性。
+154847	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=ASsB7ycA7e		摘要直接优化条件覆盖下的最小体积区域，可对照先拟合完整密度再阈值化的误差累积。直接先例待核。
+155311	4	4	4	4	author_abstract_only	https://openreview.net/forum?id=6XMKkwiYyK	https://arxiv.org/abs/2207.09453	e3nn 提供以不可约表示构造等变模型的先例。本条针对晶体高阶张量性质，适合比较软约束与结构保证的违例率。
+150278	4	4	4	4	abstract	https://openreview.net/forum?id=jLb42822IZ	https://arxiv.org/abs/2204.08957	COptiDICE 将稳态校正用于离线约束控制；此处扩展多代理并在成本收紧时检验回报，百分百经验约束满足需区别于保证。
+149755	4	5	5	5	full_text_sections	https://arxiv.org/html/2611.12031v1	https://arxiv.org/abs/2106.14806	常规经验贝叶斯 Laplace 在等价 ReLU 缩放下改变结果；正文给规范化及数值表，可直接做不变量单测。
+153991	4	5	4	4	full_text_sections	https://arxiv.org/html/2610.29992v1	https://proceedings.neurips.cc/paper_files/paper/2025/hash/8a6afd9209b40e30bc4c69d2cf39f761-Abstract-Conference.html	在非线性时序发现先例上摊销元学习以降低大系统代价；正文给因果充分、已知滞后及无瞬时边等识别条件。
+153170	4	5	4	5	full_text_sections	https://arxiv.org/html/2605.09209v1	https://papers.neurips.cc/paper_files/paper/2022/hash/349a45f211fb1b3850da1ccd829e869e-Abstract-Conference.html	已有关键点选择映射；此处在下层解流形先选上层有意义的点再微分，正文区分法向空间与 Hessian 核。
+150328	4	5	5	5	full_text_sections	https://arxiv.org/html/2610.21087v1	https://proceedings.mlr.press/v235/dym24a.html	延续等变拓扑障碍分析，正文在同初始化和超参下比较球面投影掩码与常量、噪声掩码，给向量坍缩对照。
+149627	4	5	4	5	full_text_sections	https://arxiv.org/html/2608.29057v1	https://doi.org/10.1038/s41467-018-07210-0	Koopman 编码先例学习线性演化；本文以稀疏支持识别多盆局部机制，正文明确代表性干预不等于跨系统显著性。
+148588	4	5	4	4	abstract	https://openreview.net/forum?id=weRx6oFuWD	https://arxiv.org/abs/1904.01145	随机子空间下降已有优化框架；作者摘要把更新稀疏带来的稳定收益和优化损失分别衡量。
+155259	4	5	4	4	full_text_sections	https://arxiv.org/html/2610.10571v1	https://arxiv.org/abs/2405.18765	通用 EEG 骨干已有；正文把电极三维几何和频谱归纳偏置纳入潜预测，给球面核及几何对照。
+154218	4	5	4	4	abstract	https://openreview.net/forum?id=FKAzoZp21M	https://arxiv.org/abs/2206.10226	已有以放电波动初始化脉冲网络；本文按熵和尺度稳定性选初值并跨时序、事件和控制比较，正文待核。
+157019	4	4	4	4	full_text_sections	https://arxiv.org/html/2610.34704v1	https://arxiv.org/abs/2410.11081	连续一致性基础已有；正文给固定时间分段与多步 FID 对照，可用于选择分段，属于复现与扩展。
+152254	4	5	4	5	full_text_sections	https://arxiv.org/html/2602.20681v1	https://academic.oup.com/jrsssb/article/87/5/1508/8151396	已有协变量收紧因果界；本文用光滑密度与条件运输给二次代价的渐近正态，正文仿真检验区间。
+149803	4	5	4	4	full_text_sections	https://arxiv.org/html/2610.11957v1	https://academic.oup.com/biomet/article/110/1/33/6647831	在局部共形校准之外用随机分组缓解覆盖差异；正文报告边缘保证、子群效果以及样本依赖的校准开销。
+149475	4	5	5	5	full_text_sections	https://arxiv.org/html/2606.01086v1	https://www.jmlr.org/beta/papers/v26/23-1605.html	已有随机插值统一流与扩散；正文强调解沿同噪声路径有强一致性，当前量化对照仍主要测生成表现。
+155217	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.16398v1	https://doi.org/10.1073/pnas.1517384113	在稀疏动力辨识前加入保支持的接触模态过滤；正文强调要保留的真实分支必须先在载体有正质量。
+151617	4	5	4	5	full_text_sections	https://arxiv.org/html/2604.18310v1	https://arxiv.org/abs/2209.07157	先例识别不变性对变分目标的代价；本文刻画目标及变分族对称何时足以恢复统计量，正文给球面例子。
+152328	4	4	3	4	author_abstract	https://openreview.net/forum?id=TtVLwbWHCn	https://arxiv.org/abs/2010.08895	FNO 已在频域学习算子。本文将辛结构分别施加于频域和物理域变换，可在长期守恒任务中对照只约束预测误差；一般耗散系统外推待核。
+151735	4	5	4	4	author_abstract	https://openreview.net/forum?id=YTXAbIxk6x	https://arxiv.org/abs/1503.08123	Fissler 与 Ziegel 已建立分位与期望短缺的联合可引出性。此作把适当评分转为免训练扩散尾部引导，可比较硬筛选和连续风险目标的有效样本。
+148449	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2408.08812	https://arxiv.org/abs/1606.05312	后继特征工作已使用策略库支持转移。TRAM 在部署期按目标回报和占用风险重新评价各来源，正文按多种风险及重训基线核验适配。
+155777	4	5	4	4	author_fulltext_related_work	https://arxiv.org/html/2602.07730	https://www.jmlr.org/papers/v24/21-1213.html	谱选项先例用后继表示特征向量构造原语。本文经分层动作库组合扩大可实现行为，可对照线性基在新目标上的策略表达与求解成本。
+148461	4	5	3	4	author_fulltext_theorem	https://arxiv.org/html/2605.21253	https://proceedings.mlr.press/v202/geffner23a.html	已有组合分数用于多观测仿真推断。本文指出组合分数不必是目标前向路径的真分数，以退火桥接和分阶段 Wasserstein 界区分采样与模型误差。
+153995	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2611.21251	https://arxiv.org/abs/1506.02629	自适应数据分析先例已控制反复查询的乐观偏差。本文将成本归入完整提示构造的信息容量，可在固定上下文长度下审计动态示例选择及泛化。
+150531	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2611.14656	https://arxiv.org/abs/2112.10510	Prior-Fitted Networks 已从先验任务学条件预测。本文训练扩散 Transformer 做样本式 Thompson 决策并处理非高斯函数先验，可按先验错配验证。
+150040	4	5	4	4	author_fulltext_related_work_compression	https://arxiv.org/html/2611.20818	https://papers.neurips.cc/paper_files/paper/2022/hash/cbeec55c50c3367024bafab2438a021b-Abstract-Conference.html	压缩 PAC-Bayes 已用描述长度解释泛化。公开正文将低秩安全评委压缩后认证固定生成器输出上的风险，可对照泛化界与过度拒答；更换生成器需复核。
+153082	4	4	3	4	author_fulltext_symmetry_setup	https://arxiv.org/html/2510.02670	https://arxiv.org/abs/2110.06296	参数置换对称已用于模式连通。本文从置换等变的训练更新推导低学习率拓扑保持，可在临界步长两边核查结构断裂；条件不能直接外推。
+153131	4	5	4	4	author_fulltext_query_models	https://arxiv.org/html/2607.19510	https://proceedings.mlr.press/v235/bhattacharyya24a.html	总变差估计已有概率推断视角。此作在序列分布上分离采样、精确分数和带噪分数三种接口，可按开放接口估算验收查询量。
+155056	4	5	4	4	author_fulltext_method	https://arxiv.org/html/2606.03584	https://arxiv.org/abs/1602.05179	平衡传播已以自由和扰动平衡近似反传。本文把中心差分及预测编码的新收敛过程用于 ImageNet，可独立评估局部学习规模与平衡求解成本。
+150527	4	4	3	4	author_abstract	https://openreview.net/forum?id=hSlGiiuHL6	https://arxiv.org/abs/2212.07677	先例用受控任务解释上下文学习线性算法。本文刻画多分类中心各向同性和每类样本量，可在同类数、同样本量下检查表示谱影响。
+153976	4	4	4	4	author_abstract	https://openreview.net/forum?id=H6uLXEZRGE	https://ojs.aaai.org/index.php/AAAI/article/view/29352	TreeSHAP-IQ 已高效计算任意阶 Shapley 交互。TreePII 以插值求积推广任意阶概率交互指标，可用于比较层级特征解释的精确度与代价。
+153140	4	4	3	4	author_abstract	https://openreview.net/forum?id=NakvgMzgsK	https://arxiv.org/abs/2110.06509	稳定 Koopman 嵌入先例以谱分析长期预测。本文分离数据无关词元混合和训练所得的对偶动力学，适合避免仅凭注意矩阵的谱判断递归稳定性。
+150470	4	5	4	4	author_abstract	https://openreview.net/forum?id=hnh5y3DwoB	https://arxiv.org/abs/2402.04080	已有熵正则扩散策略用于离线强化。本文以可逆扩展动作策略提供精确内在熵，可对照近似熵和外部噪声并以等采样预算验收探索。
+155724	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=3PCheCpOJt		摘要以辛正规坐标中的幅值依赖旋转表达弱非线性哈密顿动态，可与无结构生成器比较长期守恒。直接先例待核。
+153252	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=MdGZGoFqFn		摘要把跟随者低尾 CVaR 引入 Stackelberg 学习，可对照按期望回报估计跟随行为产生的选择偏差。直接先例待核。
+150135	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=kRVhNbueWa		根据 PDE 中逐点与非逐点作用的交替深度选神经算子层数，可与固定深度对照表达效率。直接先例待核。
+153780	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=Iig20MDcGt	https://arxiv.org/abs/1802.10026	模式连接已有贝塞尔低损曲线。摘要进一步以参数流形的表面支持合并和集成，可比较曲线路径之外的可用区域。
+151006	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2609.33715		§4–5 以自适应傅里叶分解指导流形 PDE 算子的变分结构，可对照固定频率基在曲率和非线性变化下的表现。直接先例待核。
+153284	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=MPZCNReQDd		摘要对互惠中跨第三方的响应链分配因果信用，可检查将互动对象视为固定策略时遗漏的间接影响。直接先例待核。
+150963	4	4	4	4	author_abstract_only	https://openreview.net/forum?id=dwcrK8NHpm	https://arxiv.org/abs/2505.05522	Continuous Thought Machines 分离内部动态与外部输入。摘要用非对称兴奋与抑制结构约束该动态，可对照普通 MLP 内部状态稳定性。
+155395	4	4	4	4	author_abstract_only	https://openreview.net/forum?id=5yhfHMgZZG		摘要用连续状态松弛表达变速切换和重叠状态，可对照离散切换的虚假快速振荡。直接先例待核。
+149943	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2512.06324	https://arxiv.org/abs/1307.6188	§2.1–2.2、§3–4。滑窗持久性已有周期分析先例。本条增加置信界与周期非周期条件，可估计噪声下发现环的可信度。
+152706	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2611.17937	https://arxiv.org/abs/1505.00162	§3、§4.1–4.2。Halpern 定义提供实际因果基础；本文用见证图组织因果枚举，可对照只返回单一归因遗漏的路径。
+149647	4	4	4	4	author_full_text_sections	https://arxiv.org/abs/2602.16531		§3.1–3.3、§4。对多源线性迁移显式分析过参数化去偏，可检验增加源模型何时降低目标测试误差。直接先例待核。
+156799	3	4	4	4	author_abstract_only	https://openreview.net/forum?id=Jij7zCjVfc		摘要关注让语言模型从反馈学习未知树上的良性搜索决策，可对照外部搜索器所需的模型调用。直接先例待核。
+152126	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=VLKcHOqgkz	https://arxiv.org/abs/2302.03660	几何 Flow Matching 在流形中学习速度场。本条摘要用固定李代数表达路径后映射回群，可对照位置相关向量场的计算成本与约束。
+153710	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2605.09857	https://arxiv.org/abs/1711.08513	§3.2、§4.1–4.2。经典多重校准依赖清洁标签；文中把多类弱监督的风险重写用于分组校准，可按标签可得条件选测试。
+152888	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=Pe1qlDnrcO	https://arxiv.org/abs/1608.04471	SVGD 提供核相互作用粒子变分基线。摘要在粒子更新引入全局熵正则运输，可在相同预算下比较方差和模态覆盖。
+148524	4	5	4	4	abstract	https://openreview.net/forum?id=xFfEoYpedJ	https://arxiv.org/abs/1906.01563	沿神经 Hamiltonian 保结构的思路，将时序推进改成辛并行扫描；摘要同时测能量漂移和推理耗时，外推配置待核。
+154545	4	5	4	5	full_text_sections	https://arxiv.org/html/2605.03125v1	https://proceedings.mlr.press/v267/shi25c.html	已有有限状态多代理鲁棒采样界；正文借线性近似推广至大状态空间，并明确在线可向近似环境采样的假设。
+150013	4	5	4	5	full_text_sections	https://arxiv.org/html/2610.31308v1	https://www.jmlr.org/papers/v24/22-0291.html	把 KL Bayesian Learning Rule 推广到可控尾部与支持的几何；正文指出非标准参数下尺度与实际方差有别。
+154263	4	5	4	5	full_text_sections	https://arxiv.org/html/2605.07808v1	https://proceedings.iclr.cc/paper_files/paper/2025/hash/122ea6470232ee5e79a2649243348005-Abstract-Conference.html	高阶校准先例依分桶；本文用免分桶二阶定义推极小最大率，并讨论边界常值预测器。
+150856	4	5	5	5	abstract	https://openreview.net/forum?id=er0tG7a4Fo	https://transformer-circuits.pub/2024/scaling-monosemanticity	常见 SAE 解释使用高激活样本；作者摘要用覆盖整体分布的仿射组件分解多义性，并对已知混合成分测试。
+153628	4	5	4	5	full_text_sections	https://arxiv.org/html/2610.29577v1	https://proceedings.mlr.press/v119/perdomo20a.html	由单代理预测反馈拓展多代理耦合，正文将阈值与反馈谱相连；适用性受反馈图模型约束。
+149412	4	4	4	4	abstract	https://openreview.net/forum?id=qE6UhWAHvg	https://www.ijcai.org/proceedings/2018/448	成本感知级联赌博机已有；本文区分零成本与正成本并收紧两类遗憾界，可诊断成本下界误设。
+154783	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.07720v1	https://arxiv.org/abs/1802.03537	Fisher 信息最大化摘要已有；本文优化拓扑摘要，正文给控制高斯随机场及不同物理摘要对照。
+150449	4	5	5	4	full_text_sections	https://arxiv.org/html/2611.10251v1	https://arxiv.org/abs/2308.05732	PDE-Refiner 已检查长程误差；本文让潜空间噪声随状态变化，正文报告校准以及额外运行开销。
+152002	4	5	4	4	full_text_sections	https://arxiv.org/html/2608.21070v1	https://proceedings.mlr.press/v119/tong20a.html	相对轨迹最优运输，采用二阶动力约束且无需训练求解轨迹；正文合成对照将分布重建和路径保真分开。
+152993	4	5	4	4	full_text_sections	https://arxiv.org/html/2602.02358v1	https://www.tandfonline.com/doi/full/10.1080/00401706.2024.2315952	分位迁移已有；本文通过源目标条件分位匹配处理传输偏差，正文分解偏差与方差。
+153288	4	5	4	5	full_text_sections	https://arxiv.org/html/2611.08682v1	https://proceedings.mlr.press/v213/kugelgen23a.html	沿回溯反事实语义用最优运输选外生后验；正文比较查询约束满足、运输代价及外生独立性。
+155978	4	5	5	5	full_text_sections	https://arxiv.org/html/2605.24292v1	https://arxiv.org/abs/2406.07524	遮蔽扩散似然常用下界，正文配对切线上界和下界及同采样预算，支持特定配置下块模型仍低于精确自回归。
+150341	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.28507v1	https://arxiv.org/abs/2005.08926	将不规则时间的神经受控微分方程由预测推进到生成，正文以 CRPS 多方法排序并报告成对检验。
+152719	4	5	4	4	full_text_sections	https://arxiv.org/html/2604.06779v1	https://arxiv.org/abs/2501.06848	沿引导扩散的推理时搜索控制重采样损失，正文比较存活率和方差，并用等预算评估奖励。
+156076	4	5	4	4	author_fulltext_method	https://arxiv.org/html/2509.22380	https://www.tse-fr.eu/sites/default/files/TSE/documents/sem2015/mad/hallin.pdf	Monge–Kantorovich 先例建立多变量秩。正文用输运秩融合来源异质的置信信号，并以熵正则支持新输入，可在无标签时对照简单加权的稳健性。
+149926	4	4	3	4	author_abstract	https://openreview.net/forum?id=m8tnzuLcen	https://jmlr.org/papers/v24/22-0495.html	既有动态规划可对马尔可夫等价 DAG 计数和均匀采样。本文推广到分数可分的加权采样并用于在线混合干预流，可按干预 KL 和后验计算开销验收。
+153022	4	5	4	4	author_fulltext_experiment_findings	https://arxiv.org/html/2611.13862	https://papers.neurips.cc/paper_files/paper/2023/file/4d9944ab3330fe6af8efb9260aa9f307-Paper-Conference.pdf	A-NeSI 已以近似提高神经符号推断规模。本文把近似算力分给张量因子编译的不同环节。公开版本较会议摘要明确补充强因子耦合时学习也受影响，宜分开验收推断与训练。
+148325	4	4	4	4	author_fulltext_abstract_intro	https://arxiv.org/html/2610.30815	https://proceedings.mlr.press/v300/kandanaarachchi26a.html	Graphon Mixtures 已以多个图核描述图群体。xVGAE 端到端学习图级和节点级潜变量并一步生成，可按无序性、分层可读性和生成延迟比较。
+153380	4	5	4	4	author_abstract	https://openreview.net/forum?id=Ln6xIlpCy8	https://proceedings.mlr.press/v267/sawada25a.html	Natural Perturbations 已为黑箱优化引入几何感知扰动。本文以扰动两两组合低方差估 Fisher，并用白化应对病态矩阵，可按查询量、条件数及最终误差比较。
+152736	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2610.00785	https://arxiv.org/abs/2210.02747	§3.1–3.4。基础流匹配用一阶桥。本条以最小加速度原理推导静态数据缺少的终点速度，并用同一结构定义配对及训练目标。可对照低步数时曲线桥的质量与成本。
+152854	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=PtBaGypLzm		摘要以神经切核分析判别器何时改善 PINN 优化，可对照问题频率结构、残差收敛及计算量。直接先例链接待核。
+150074	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=kvVc2NQe9H	https://arxiv.org/abs/1309.6779	加性噪声因果发现已利用残差独立性。该文只为目标变量设加性模型，在其他变量允许混杂时按残差方差和集合大小选直接父集。须验证禁止反向加性噪声的条件。
+155109	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2510.16157	https://arxiv.org/abs/2010.01412	§2、§3.1–3.2。SAM 以邻域最大损失为目标，本条以指数倾斜在平均和最大损失之间调节并用零阶估计，可在无反传微调比较查询预算及泛化。
+150773	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.16573v1	https://proceedings.iclr.cc/paper_files/paper/2025/hash/20eadb6338a53114a6371f102c5ded95-Abstract-Conference.html	小波扩散已用固定分解模拟 PDE；本文把多尺度联合传输换成流匹配，正文比较像素流、傅里叶流与小波扩散，适用于多尺度长滚动诊断。
+152200	4	5	5	5	full_text_sections	https://arxiv.org/html/2605.06615v1	https://proceedings.mlr.press/v80/bernstein18a.html	在 SignSGD 先例上以坐标适配的平滑性和 ℓ₁ 驻点度量给稀疏噪声下优势边界；正文区分稀疏噪声和各向异性曲率并有 GPT-2 训练例。
+152913	4	5	5	5	full_text_sections	https://arxiv.org/html/2605.04971v1	https://papers.neurips.cc/paper_files/paper/2023/hash/b3f48945f6fb402b4b5cdcf490e72847-Abstract-Conference.html	先例在残差 Jacobian 发现奇异方向对齐；正文用径向激活和移除残差区分权重连续性的两个机制，给出跨层投影诊断。
+155054	4	5	4	5	full_text_sections	https://arxiv.org/html/2605.02356v1	https://www.nature.com/articles/s42256-024-00844-4	沿 Laplace 有理算子扩展至稳定离散递归；正文同构坐标消融显示增益来自完整有理层，近单位圆长记忆设置最相关。
