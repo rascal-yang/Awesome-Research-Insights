@@ -101,3 +101,32 @@
 - <a id="grover26b-theory-statistics"></a>[Text Has Curvature](../conferences/icml-2026/cards/1301-1400.md#paper-grover26b)
 - <a id="schulz26a-theory-statistics"></a>[Unraveling Syntax: Language Modeling and the Substructure of Grammars](../conferences/icml-2026/cards/3901-4000.md#paper-schulz26a)
 <!-- classification:end -->
+
+<!-- conference-classification:start -->
+## NeurIPS 2026（暂收录）
+
+- [Alignment Imprint: Zero-Shot AI-Generated Text Detection via Provable Preference Discrepancy](../conferences/neurips-2026/cards.md#paper-151776)
+- [AnyEdit: A Unified Framework for Speech and Singing Voice Editing with Real-World Environmental Consistency](../conferences/neurips-2026/cards.md#paper-152934)
+- [Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts](../conferences/neurips-2026/cards.md#paper-150558)
+- [Auditing Cross-Lingual Fairness in Language Model Watermarking](../conferences/neurips-2026/cards-0002.md#paper-138923)
+- [Breaking Adversarial Transferability in Fine-Tuned Speech Recognition](../conferences/neurips-2026/cards-0002.md#paper-153915)
+- [CAPER: Clause-Aligned Process Supervision for Text-to-SQL](../conferences/neurips-2026/cards-0002.md#paper-149623)
+- [Clustering-Free End-to-End Spoof Diarization with Encoder-Decoder Attractors](../conferences/neurips-2026/cards-0003.md#paper-150333)
+- [CRESiST: Self-Enhancing Exploritive Policy Learning for Simultaneous Speech Translation](../conferences/neurips-2026/cards-0003.md#paper-149613)
+- [Decoupling Conversational Dynamics in Full-Duplex Spoken Models through Reinforcement Learning](../conferences/neurips-2026/cards-0004.md#paper-151800)
+- [DELTA-TTS: Adapting Autoregressive Model into a Diffusion Language Model for Text-to-Speech](../conferences/neurips-2026/cards-0004.md#paper-151215)
+- [Depth through Recurrence: Towards Ultra-Efficient On-Device ASR](../conferences/neurips-2026/cards-0004.md#paper-149074)
+- [Dialect ASR based on Multi-View Pseudo-Parallel Augmentation and Noise-Robust Contrastive Learning](../conferences/neurips-2026/cards-0004.md#paper-155164)
+- [DialectLLM: A Dialect-Aware Dialog[ue] Generation Framework Beyond Standard American English](../conferences/neurips-2026/cards-0004.md#paper-153135)
+- [DiffScore: Text Evaluation Beyond Autoregressive Likelihood](../conferences/neurips-2026/cards-0004.md#paper-149202)
+- [Don't Pay Attention, PLANT It: Pretraining Attention via Learning-to-Rank](../conferences/neurips-2026/cards-0004.md#paper-153443)
+- [EDITORS Know Your Style! Editing LoRA Subspaces for Stylistic Attribution and Imitation](../conferences/neurips-2026/cards-0004.md#paper-154496)
+- [Eliciting Zero-Shot Named Entity Recognition in Large Language Models via Instruction Semantic Elaboration](../conferences/neurips-2026/cards-0005.md#paper-149767)
+- [Embeddings for Preferences, Not Semantics](../conferences/neurips-2026/cards-0005.md#paper-155251)
+- [Emergent Semantic Role Understanding in Language Models](../conferences/neurips-2026/cards-0005.md#paper-152210)
+- [EmoTrack: Robust Depression Tracking from Counseling Transcripts across Session Regimes](../conferences/neurips-2026/cards-0005.md#paper-152590)
+- [Evaluating Whether LLMs Can Reliably Connect the DOTs?](../conferences/neurips-2026/cards-0005.md#paper-139404)
+- [Factorized Self-Supervised Speech Tokenization](../conferences/neurips-2026/cards-0005.md#paper-149827)
+- [From Topology to Retrieval: Decoding Embedding Spaces with Unified Signatures](../conferences/neurips-2026/cards-0006.md#paper-155821)
+
+<!-- conference-classification:end -->

@@ -284,3 +284,45 @@ Objectives, auxiliary supervision, and regularization.
 - [Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../../conferences/icml-2026/cards/4001-4100.md#seo26c-loss-functions) · 中文
 - [Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation](../../conferences/icml-2026/cards/5901-6000.md#zhang26gl-loss-functions) · 中文
 <!-- classification:end -->
+
+<!-- conference-classification:start -->
+## CoRL 2026
+
+- [WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning](../../conferences/corl-2026/cards.md#paper-gkka9vehwb)
+- [Pri4R: Learning World Dynamics for Vision-Language-Action Models with Privileged 4D Representation](../../conferences/corl-2026/cards.md#paper-8yqfxyof0y)
+- [Where Small Mistakes Matter: Quantifying State Criticality for Imitation Learning](../../conferences/corl-2026/cards.md#paper-x05rf7l7h4)
+- [Sensitivity Shaping for Latent Modeling](../../conferences/corl-2026/cards.md#paper-kggi0115rg)
+
+## NeurIPS 2026 (provisional)
+
+- [A Curvature Phase Transition Governs Coherence Penalty Efficiency Against Feature Absorption in SAEs](../../conferences/neurips-2026/cards.md#paper-153574)
+- [AdaCubic: An Adaptive Cubic Regularization Optimizer for Deep Learning](../../conferences/neurips-2026/cards.md#paper-156754)
+- [Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts](../../conferences/neurips-2026/cards.md#paper-150558)
+- [A Unified Spectral Theory of Multimodal Losses](../../conferences/neurips-2026/cards-0002.md#paper-155760)
+- [A Unifying View of Anchoring via Operator-Side Tikhonov Regularization](../../conferences/neurips-2026/cards-0002.md#paper-153667)
+- [Balancing Frequencies and Pixels in Flow Matching](../../conferences/neurips-2026/cards-0002.md#paper-151310)
+- [Biological Graph Priors Enable Representation Learning for Cellular Microscopy](../../conferences/neurips-2026/cards-0002.md#paper-150999)
+- [Cardinality-Decomposed Loss for Heterogeneous GNNs](../../conferences/neurips-2026/cards-0002.md#paper-150315)
+- [CASAM: Consistency-Anchored Sharpness-Aware Minimization for Improved Model Generalization](../../conferences/neurips-2026/cards-0002.md#paper-152013)
+- [CoDMD: Copula-aware Distribution Matching Distillation for Fast Video Generation](../../conferences/neurips-2026/cards-0003.md#paper-154796)
+- [Complexity-guided Regularization for Generalizable Human Gaussian Splatting](../../conferences/neurips-2026/cards-0003.md#paper-148201)
+- [Consistent One-vs-All Losses Robust to Misspecification of the Weak Label Transition Model](../../conferences/neurips-2026/cards-0003.md#paper-150290)
+- [Contextual Flow Matching for High-quality Visual Content Generation](../../conferences/neurips-2026/cards-0003.md#paper-156013)
+- [Contrastive Representation Shaping for LLM Unlearning](../../conferences/neurips-2026/cards-0003.md#paper-151743)
+- [ControlJEPA: Principled Trajectory Regularization via Lyapunov Tube Loss](../../conferences/neurips-2026/cards-0003.md#paper-149461)
+- [Controlling Transient Amplification Improves Long-horizon Rollouts](../../conferences/neurips-2026/cards-0003.md#paper-149068)
+- [Conveyance: A Versatile Framework for Learning in Structured Class Spaces](../../conferences/neurips-2026/cards-0003.md#paper-155590)
+- [Correpondence Alignment For Improved Virtual Try-On](../../conferences/neurips-2026/cards-0003.md#paper-151032)
+- [CS-DICE: Offline Reinforcement Learning with Coherent Occupancy Regularization](../../conferences/neurips-2026/cards-0003.md#paper-153299)
+- [DAG-Biased Graph Learning for Multimodal Survival on EHR](../../conferences/neurips-2026/cards-0003.md#paper-155436)
+- [Data-Constrained Language Model Pretraining: Improved Regularization and Scaling Laws](../../conferences/neurips-2026/cards-0003.md#paper-149999)
+- [Differentiable Range-Partition Entropy for Entropy-Sensitive Geometric Algorithms](../../conferences/neurips-2026/cards-0004.md#paper-149856)
+- [DNS-Calibrated Local Stochastic Transition Closure for PDE-Free Long-Horizon Turbulence Diffusion](../../conferences/neurips-2026/cards-0004.md#paper-151224)
+- [ECHO: Terminal Agents Learn World Models for Free](../../conferences/neurips-2026/cards-0004.md#paper-154932)
+- [FedRSPO+: A Heterogeneity-aware Algorithm for Decision-focused Federated Learning](../../conferences/neurips-2026/cards-0005.md#paper-148199)
+- [Fiedler-Regularized Causal Discovery for Sparse Connected DAGs](../../conferences/neurips-2026/cards-0005.md#paper-152438)
+- [GARDO: Reinforcing Diffusion Models without Reward Hacking](../../conferences/neurips-2026/cards-0006.md#paper-150985)
+- [GEM: Interpretable Language Models via Geometric Embedding Alignment](../../conferences/neurips-2026/cards-0006.md#paper-148804)
+- [Generative Cross-Entropy: A Strictly Proper Loss for Data-Efficient Classification](../../conferences/neurips-2026/cards-0006.md#paper-154926)
+
+<!-- conference-classification:end -->

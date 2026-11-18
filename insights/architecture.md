@@ -268,3 +268,67 @@
 - [固定网格上的部分多尺度PDE token](../conferences/icml-2026/cards/6001-6100.md#zhao26ak-architecture) · MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers
 - [物理mesh分块选择的原分辨率注意力](../conferences/icml-2026/cards/6001-6100.md#zhdanov26a-architecture) · (Sparse) Attention to the Details: Preserving Spectral Fidelity in ML-based Weather Forecasting Models
 <!-- classification:end -->
+
+<!-- conference-classification:start -->
+## CoRL 2026
+
+- [CoRE-VLA](../conferences/corl-2026/cards.md#paper-qku6lifnpu)
+- [Learning Physics-Guided Residual Dynamics for Deformable Object Simulation](../conferences/corl-2026/cards.md#paper-3hsq75gmr9)
+- [What Do You Need for Compositional Generalization in Diffusion Planning?](../conferences/corl-2026/cards.md#paper-hbhr1gxas0)
+- [ProxiDex: Learning Dynamics-Guided Proximity Policy for Dexterous Manipulation](../conferences/corl-2026/cards.md#paper-ulcexirzjd)
+- [ORD-WM: Learning Object-Centric Rigid Dynamics for 3D World Modeling in Robotic Manipulation](../conferences/corl-2026/cards.md#paper-xhjeeyhkhy)
+- [Going with the Flow: Koopman Behavioral Models as Pseudo Planners for Visuo-Motor Dexterity](../conferences/corl-2026/cards.md#paper-8t3fxlyk9k)
+- [HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model](../conferences/corl-2026/cards.md#paper-xcdyj95l5p)
+- [FADA: Few-Shot Domain Adaptation via Dynamics Alignment for Humanoid Control](../conferences/corl-2026/cards.md#paper-mmrhlrwlfx)
+- [Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning](../conferences/corl-2026/cards.md#paper-mru8ihzsqr)
+
+## NeurIPS 2026（暂收录）
+
+- [Theory Guided and Interpretable Neural Operator Design for Partial Differential Equation Learning](../conferences/neurips-2026/cards.md#paper-151006)
+- [Adaptive Coordinate Transforms for Neural Operators](../conferences/neurips-2026/cards.md#paper-156121)
+- [Adaptive multiscale operator correction via learned spectral subspace and physics-informed optimization.](../conferences/neurips-2026/cards.md#paper-149265)
+- [Advectra: Asymmetric Latent Transport for Non-Stationary Physics](../conferences/neurips-2026/cards.md#paper-148631)
+- [ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling](../conferences/neurips-2026/cards.md#paper-152945)
+- [A Novel Schur-Decomposition-Based Weight Projection Method for Stable State-Space Neural-Network Architectures](../conferences/neurips-2026/cards.md#paper-151951)
+- [AOT-POT: Adaptive Operator Transformation for Large-Scale PDE Pre-training](../conferences/neurips-2026/cards.md#paper-153792)
+- [Approximate Memory Suffices for Universal Approximation with State Space Models](../conferences/neurips-2026/cards.md#paper-148575)
+- [Beyond Single-Step Likelihood: Gibbs Variational Last Layers for Long-Horizon Dynamics Learning](../conferences/neurips-2026/cards-0002.md#paper-152213)
+- [Beyond Unit-Circle Eigenvalues: Invariant Bases for Stable State Space Dynamics](../conferences/neurips-2026/cards-0002.md#paper-149242)
+- [BitShift-RoPE: Zero-FLOP Relative Positional Encoding for Spiking Neural Network Transformers](../conferences/neurips-2026/cards-0002.md#paper-150476)
+- [Causal Effects with Unobserved Unit Types in Interacting Human–AI Systems](../conferences/neurips-2026/cards-0003.md#paper-149288)
+- [Closing the Approximation Gap in Simulation-free Latent SDEs](../conferences/neurips-2026/cards-0003.md#paper-150349)
+- [Closing the Loop with Fixed-Point Self-Attention](../conferences/neurips-2026/cards-0003.md#paper-153850)
+- [Coarse-to-Fine 3D MRI Reconstruction via Resolution-Agnostic Neural Operators](../conferences/neurips-2026/cards-0003.md#paper-151950)
+- [Constrained Modulatory Reservoirs for Context-Dependent Computation](../conferences/neurips-2026/cards-0003.md#paper-152484)
+- [CP-MLPs: A Tensor-Rank Theory of Tied and Untied MLP Blocks](../conferences/neurips-2026/cards-0003.md#paper-151658)
+- [Decentralized Coupled Representation Learning](../conferences/neurips-2026/cards-0004.md#paper-151009)
+- [Decomposing Effects in Neural Causal Models](../conferences/neurips-2026/cards-0004.md#paper-151693)
+- [Deep-Koopman-KANDy: Dictionary Discovery for Deep-Koopman Operators with Kolmogorov-Arnold Networks for Dynamics](../conferences/neurips-2026/cards-0004.md#paper-152578)
+- [Déjà View: Looping Transformers for Multi-View 3D Reconstruction](../conferences/neurips-2026/cards-0004.md#paper-154303)
+- [DIAGNO: Diagonal Spherical Neural Operators for Heterogeneous Earth Dynamics Modeling](../conferences/neurips-2026/cards-0004.md#paper-154008)
+- [Differentiating Network Design Objectives for Balancing Cost and Distance](../conferences/neurips-2026/cards-0004.md#paper-151671)
+- [Diffusion Transformers with Residual Adaptive Layer Normalization](../conferences/neurips-2026/cards-0004.md#paper-151083)
+- [DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning](../conferences/neurips-2026/cards-0004.md#paper-153021)
+- [Dynamic Convolutions Improve Transformers](../conferences/neurips-2026/cards-0004.md#paper-153747)
+- [Efficient Generative Transformer Operators for Million-Point PDEs](../conferences/neurips-2026/cards-0004.md#paper-153950)
+- [Efficient Training of Deep Spiking Neural Networks with Input-Driven Derivative-Free Updates](../conferences/neurips-2026/cards-0004.md#paper-152821)
+- [End-to-End Identifiable and Consistent Recurrent Switching Dynamical Systems](../conferences/neurips-2026/cards-0005.md#paper-148468)
+- [Equivariant Spherical Transformer for Efficient Molecular Modeling](../conferences/neurips-2026/cards-0005.md#paper-155430)
+- [Extracting Governing Equations from Latent Dynamics via Multi-View Contrastive Learning](../conferences/neurips-2026/cards-0005.md#paper-155982)
+- [Fast Reconstruction of Exact Maxwell Dynamics from Sparse Data](../conferences/neurips-2026/cards-0005.md#paper-148197)
+- [FineRMoE: Dimension Expansion for Finer-Grained Expert with an Upcycling Approach](../conferences/neurips-2026/cards-0005.md#paper-156104)
+- [FlashFFN: Multi-Head Decomposition Enables I/O-Aware Feed-Forward Network](../conferences/neurips-2026/cards-0005.md#paper-151360)
+- [Foveal-Mamba: Inside-Out Ring Scanning with Recurrent Offset Prediction for Visual State Space Models](../conferences/neurips-2026/cards-0005.md#paper-148775)
+- [Fractional State Space Transition for Long Sequence Modeling](../conferences/neurips-2026/cards-0005.md#paper-150427)
+- [Frequency Domain Reservoir Computing](../conferences/neurips-2026/cards-0005.md#paper-151162)
+- [From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination](../conferences/neurips-2026/cards-0005.md#paper-151501)
+- [Gaeta-Lie Neural SDEs: Symmetry-Regularized Learning of Stochastic Dynamics](../conferences/neurips-2026/cards-0006.md#paper-155867)
+- [GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems](../conferences/neurips-2026/cards-0006.md#paper-149536)
+- [GEAR: Generator-Adaptive State Space Models for Associative Recall](../conferences/neurips-2026/cards-0006.md#paper-155668)
+- [GeoMamba: Geometry-Aware State Space Modeling for Image Restoration](../conferences/neurips-2026/cards-0006.md#paper-148154)
+- [Geometry-Constrained Kolmogorov–Arnold Networks: Learning Edge Geometry via Banach Duality](../conferences/neurips-2026/cards-0006.md#paper-153809)
+- [GeoTransolver: Learning Physics on Irregular Domains using Multi-scale Geometry Aware Physics Attention Transformer](../conferences/neurips-2026/cards-0006.md#paper-152562)
+- [GPU Hierarchy Meets Structured Matrices: Fast Algorithms for State-Space Models](../conferences/neurips-2026/cards-0006.md#paper-149931)
+- [GraDE: A Graph Diffusion Estimator for Frequent Subgraph Discovery in Neural Architectures](../conferences/neurips-2026/cards-0006.md#paper-148527)
+
+<!-- conference-classification:end -->
