@@ -686,6 +686,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Stochastic Gradient Methods under Heavy-Tailed Noises in Weakly Convex Optimization](../../conferences/icml-2026/cards/6201-6300.md#zhu26ax-theory-statistics) · 中文
 - [Generalization Bounds for Out-of-distribution Generalization](../../conferences/icml-2026/cards/6301-6400.md#zou26f-theory-statistics) · 中文
 - [A Random Matrix Theory of Masked Self-Supervised Learning](../../conferences/icml-2026/cards/6301-6400.md#zurich26a-theory-statistics) · 中文
+- [Position: Interestingness is an Inductive Heuristic for Future Compression Progress](../../conferences/icml-2026/cards/6401-6500.md#herrmann26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

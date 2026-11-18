@@ -706,6 +706,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhao26i-evaluation"></a>[Nonparametric Data Attribution for Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26i)
 - <a id="zhu26ak-evaluation"></a>[Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ak)
 - <a id="elangovan26b-evaluation"></a>[Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model](../../conferences/icml-2026/cards/6301-6400.md#paper-elangovan26b)
+- <a id="guo26ao-evaluation"></a>[Position: Universal Aesthetic Alignment Narrows Artistic Expression](../../conferences/icml-2026/cards/6401-6500.md#paper-guo26ao)
 
 <a id="by-theory-statistics"></a>
 

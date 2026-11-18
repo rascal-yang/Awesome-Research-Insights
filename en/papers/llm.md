@@ -786,6 +786,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhou26ad-data-strategies"></a>[GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ad)
 - <a id="zhu26af-data-strategies"></a>[From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26af)
 - <a id="zhu26bb-data-strategies"></a>[DRIVE: Best Data Scheduling Practices for Reinforcement Learning with Verifiable Reward in Competitive Code Generation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26bb)
+- <a id="ghafouri26a-data-strategies"></a>[Position: RLHF May Not Reflect Genuine Preferences](../../conferences/icml-2026/cards/6301-6400.md#paper-ghafouri26a)
 
 <a id="by-inference"></a>
 
@@ -1586,6 +1587,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhuo26b-evaluation"></a>[Understanding the Ability of LLMs to Handle Character-Level Perturbation](../../conferences/icml-2026/cards/6201-6300.md#paper-zhuo26b)
 - <a id="baumann26a-evaluation"></a>[Position: Stop Automating Peer Review Without Rigorous Evaluation](../../conferences/icml-2026/cards/6301-6400.md#paper-baumann26a)
 - <a id="beyer26b-evaluation"></a>[Position: LLM-Safety Evaluations Lack Robustness](../../conferences/icml-2026/cards/6301-6400.md#paper-beyer26b)
+- <a id="genevaux26a-evaluation"></a>[Position: Mathematical DSL Benchmarks Need Executable Interface Contracts](../../conferences/icml-2026/cards/6301-6400.md#paper-genevaux26a)
+- <a id="gupta26e-evaluation"></a>[Position: Anthropomorphic Misalignment Research Needs Stronger Evidence](../../conferences/icml-2026/cards/6401-6500.md#paper-gupta26e)
 
 <a id="by-theory-statistics"></a>
 

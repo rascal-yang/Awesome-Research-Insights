@@ -103,6 +103,7 @@ Data selection, annotation, augmentation, and sampling.
 - [GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ad-data-strategies) · 中文
 - [From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction](../../conferences/icml-2026/cards/6201-6300.md#zhu26af-data-strategies) · 中文
 - [DRIVE: Best Data Scheduling Practices for Reinforcement Learning with Verifiable Reward in Competitive Code Generation](../../conferences/icml-2026/cards/6201-6300.md#zhu26bb-data-strategies) · 中文
+- [Position: RLHF May Not Reflect Genuine Preferences](../../conferences/icml-2026/cards/6301-6400.md#ghafouri26a-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

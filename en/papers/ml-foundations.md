@@ -881,6 +881,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhou26bc-evaluation"></a>[Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bc)
 - <a id="zhou26bo-evaluation"></a>[Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bo)
 - <a id="chakraborty26d-evaluation"></a>[Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems](../../conferences/icml-2026/cards/6301-6400.md#paper-chakraborty26d)
+- <a id="gundlach26a-evaluation"></a>[Position: Quantum Deep Learning Still Needs a Quantum Leap](../../conferences/icml-2026/cards/6401-6500.md#paper-gundlach26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1353,4 +1354,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhu26ax-theory-statistics"></a>[Stochastic Gradient Methods under Heavy-Tailed Noises in Weakly Convex Optimization](../../conferences/icml-2026/cards/6201-6300.md#paper-zhu26ax)
 - <a id="zou26f-theory-statistics"></a>[Generalization Bounds for Out-of-distribution Generalization](../../conferences/icml-2026/cards/6301-6400.md#paper-zou26f)
 - <a id="zurich26a-theory-statistics"></a>[A Random Matrix Theory of Masked Self-Supervised Learning](../../conferences/icml-2026/cards/6301-6400.md#paper-zurich26a)
+- <a id="herrmann26a-theory-statistics"></a>[Position: Interestingness is an Inductive Heuristic for Future Compression Progress](../../conferences/icml-2026/cards/6401-6500.md#paper-herrmann26a)
 <!-- classification:end -->

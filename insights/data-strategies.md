@@ -103,6 +103,7 @@
 - [按奖励偏好方向共识筛rollout](../conferences/icml-2026/cards/6101-6200.md#zhou26ad-data-strategies) · GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning
 - [固定词表扩充合并token时保护merge依赖](../conferences/icml-2026/cards/6201-6300.md#zhu26af-data-strategies) · From Token to Token Pair: Efficient Prompt Compression for Large Language Models in Clinical Prediction
 - [RLVR先缩短rollout上限再回长的条件经验](../conferences/icml-2026/cards/6201-6300.md#zhu26bb-data-strategies) · DRIVE: Best Data Scheduling Practices for Reinforcement Learning with Verifiable Reward in Competitive Code Generation
+- [在偏好聚合前检查同标注者的一致性与测量有效性](../conferences/icml-2026/cards/6301-6400.md#ghafouri26a-data-strategies) · Position: RLHF May Not Reflect Genuine Preferences
 
 <a id="by-computer-vision"></a>
 

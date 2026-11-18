@@ -398,6 +398,8 @@
 - [拆开token碎片化与字符噪声的鲁棒评价](../conferences/icml-2026/cards/6201-6300.md#zhuo26b-evaluation) · Understanding the Ability of LLMs to Handle Character-Level Perturbation
 - [对LLM评审同时测跨文同质性与改写敏感性](../conferences/icml-2026/cards/6301-6400.md#baumann26a-evaluation) · Position: Stop Automating Peer Review Without Rigorous Evaluation
 - [实现与多次试验噪声的安全评价对照](../conferences/icml-2026/cards/6301-6400.md#beyer26b-evaluation) · Position: LLM-Safety Evaluations Lack Robustness
+- [形式DSL评测分开接口可执行与证明成功](../conferences/icml-2026/cards/6301-6400.md#genevaux26a-evaluation) · Position: Mathematical DSL Benchmarks Need Executable Interface Contracts
+- [保持假话表面线索而移除欺骗意图测试probe](../conferences/icml-2026/cards/6401-6500.md#gupta26e-evaluation) · Position: Anthropomorphic Misalignment Research Needs Stronger Evidence
 
 <a id="by-computer-vision"></a>
 
@@ -477,6 +479,7 @@
 - [无modelaccess时以patchscoreproxy定位训练对应](../conferences/icml-2026/cards/6001-6100.md#zhao26i-evaluation) · Nonparametric Data Attribution for Diffusion Models
 - [在配对图像变换中按数据量与误差指标比较桥和FM](../conferences/icml-2026/cards/6201-6300.md#zhu26ak-evaluation) · Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis
 - [架构稳定性必须条件于归因算子](../conferences/icml-2026/cards/6301-6400.md#elangovan26b-evaluation) · Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model
+- [审美reward评测分开显式风格遵循与通用品质](../conferences/icml-2026/cards/6401-6500.md#guo26ao-evaluation) · Position: Universal Aesthetic Alignment Narrows Artistic Expression
 
 <a id="by-nlp"></a>
 
@@ -649,6 +652,8 @@
 - [词汇相近时的关系完整性防御评测](../conferences/icml-2026/cards/5901-6000.md#zhang26fr-evaluation) · TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models
 - [准确率上升时的推理一致性漂移](../conferences/icml-2026/cards/6001-6100.md#zhao26am-evaluation) · On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs
 - [位置与复述混杂后的幻觉校准](../conferences/icml-2026/cards/6301-6400.md#zohrabi26a-evaluation) · HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models
+- [视觉细节任务先诊断信息访问再加文本推理](../conferences/icml-2026/cards/6301-6400.md#gao26ar-evaluation) · Position: Reasoning After Perception Means Reasoning Without Vision
+- [分离因果文字与链结构评分并扫scaffolding](../conferences/icml-2026/cards/6401-6500.md#hasan26a-evaluation) · Position: What Cézanne Knew About Visual Intelligence That Vision-Language Models Miss
 
 <a id="by-ml-foundations"></a>
 
@@ -729,6 +734,7 @@
 - [表格鲁棒性同时测结构一致性与分类失效](../conferences/icml-2026/cards/6201-6300.md#zhou26bc-evaluation) · Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data
 - [mergeability预测按merger与partner验证](../conferences/icml-2026/cards/6201-6300.md#zhou26bo-evaluation) · Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success
 - [固定组合decoder后的神经分数归因](../conferences/icml-2026/cards/6301-6400.md#chakraborty26d-evaluation) · Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems
+- [量子DL加速先交叉筛运行成本与可行规模](../conferences/icml-2026/cards/6401-6500.md#gundlach26a-evaluation) · Position: Quantum Deep Learning Still Needs a Quantum Leap
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -618,6 +618,8 @@
 - <a id="zhang26fr-evaluation"></a>[TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fr)
 - <a id="zhao26am-evaluation"></a>[On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26am)
 - <a id="zohrabi26a-evaluation"></a>[HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](../conferences/icml-2026/cards/6301-6400.md#paper-zohrabi26a)
+- <a id="gao26ar-evaluation"></a>[Position: Reasoning After Perception Means Reasoning Without Vision](../conferences/icml-2026/cards/6301-6400.md#paper-gao26ar)
+- <a id="hasan26a-evaluation"></a>[Position: What Cézanne Knew About Visual Intelligence That Vision-Language Models Miss](../conferences/icml-2026/cards/6401-6500.md#paper-hasan26a)
 
 <a id="by-theory-statistics"></a>
 

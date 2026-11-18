@@ -398,6 +398,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Understanding the Ability of LLMs to Handle Character-Level Perturbation](../../conferences/icml-2026/cards/6201-6300.md#zhuo26b-evaluation) · 中文
 - [Position: Stop Automating Peer Review Without Rigorous Evaluation](../../conferences/icml-2026/cards/6301-6400.md#baumann26a-evaluation) · 中文
 - [Position: LLM-Safety Evaluations Lack Robustness](../../conferences/icml-2026/cards/6301-6400.md#beyer26b-evaluation) · 中文
+- [Position: Mathematical DSL Benchmarks Need Executable Interface Contracts](../../conferences/icml-2026/cards/6301-6400.md#genevaux26a-evaluation) · 中文
+- [Position: Anthropomorphic Misalignment Research Needs Stronger Evidence](../../conferences/icml-2026/cards/6401-6500.md#gupta26e-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -477,6 +479,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Nonparametric Data Attribution for Diffusion Models](../../conferences/icml-2026/cards/6001-6100.md#zhao26i-evaluation) · 中文
 - [Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis](../../conferences/icml-2026/cards/6201-6300.md#zhu26ak-evaluation) · 中文
 - [Position: Explanation Stability Is a Property of the Model–Method Pair, Not the Model](../../conferences/icml-2026/cards/6301-6400.md#elangovan26b-evaluation) · 中文
+- [Position: Universal Aesthetic Alignment Narrows Artistic Expression](../../conferences/icml-2026/cards/6401-6500.md#guo26ao-evaluation) · 中文
 
 <a id="by-nlp"></a>
 
@@ -649,6 +652,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26fr-evaluation) · 中文
 - [On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs](../../conferences/icml-2026/cards/6001-6100.md#zhao26am-evaluation) · 中文
 - [HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](../../conferences/icml-2026/cards/6301-6400.md#zohrabi26a-evaluation) · 中文
+- [Position: Reasoning After Perception Means Reasoning Without Vision](../../conferences/icml-2026/cards/6301-6400.md#gao26ar-evaluation) · 中文
+- [Position: What Cézanne Knew About Visual Intelligence That Vision-Language Models Miss](../../conferences/icml-2026/cards/6401-6500.md#hasan26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -729,6 +734,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data](../../conferences/icml-2026/cards/6201-6300.md#zhou26bc-evaluation) · 中文
 - [Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](../../conferences/icml-2026/cards/6201-6300.md#zhou26bo-evaluation) · 中文
 - [Position: Neural Approximation Is Rarely Justified for Hard Combinatorial Problems](../../conferences/icml-2026/cards/6301-6400.md#chakraborty26d-evaluation) · 中文
+- [Position: Quantum Deep Learning Still Needs a Quantum Leap](../../conferences/icml-2026/cards/6401-6500.md#gundlach26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
