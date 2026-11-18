@@ -182,6 +182,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reward Modeling from Natural Language Human Feedback](../../conferences/icml-2026/cards/4801-4900.md#wang26in-reinforcement-learning) · 中文
 - [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26jg-reinforcement-learning) · 中文
 - [DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents](../../conferences/icml-2026/cards/4801-4900.md#wang26jn-reinforcement-learning) · 中文
+- [Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](../../conferences/icml-2026/cards/4901-5000.md#wei26b-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

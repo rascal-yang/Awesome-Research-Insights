@@ -110,6 +110,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="song26ad-modules"></a>[iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis](../../conferences/icml-2026/cards/4201-4300.md#paper-song26ad)
 - <a id="tao26b-modules"></a>[The Devil is in the Spectrum: Mitigating Representation Collapse in LLMs via Topologically Regularized Side-Path](../../conferences/icml-2026/cards/4401-4500.md#paper-tao26b)
 - <a id="wang26jt-modules"></a>[Beyond Test-Time Memory: State-Space Optimal Control for LLM Reasoning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jt)
+- <a id="wang26lt-modules"></a>[NaRA: Noise-Aware LoRA for Parameter-Efficient Fine-Tuning of Diffusion LLMs](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lt)
 
 <a id="by-loss-functions"></a>
 
@@ -428,6 +429,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26in-reinforcement-learning"></a>[Reward Modeling from Natural Language Human Feedback](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26in)
 - <a id="wang26jg-reinforcement-learning"></a>[On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jg)
 - <a id="wang26jn-reinforcement-learning"></a>[DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jn)
+- <a id="wei26b-reinforcement-learning"></a>[Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26b)
 
 <a id="by-training-strategies"></a>
 
@@ -566,6 +568,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26eg-training-strategies"></a>[Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eg)
 - <a id="wang26gy-training-strategies"></a>[AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gy)
 - <a id="wang26lk-training-strategies"></a>[AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lk)
+- <a id="watts26a-training-strategies"></a>[Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting](../../conferences/icml-2026/cards/4901-5000.md#paper-watts26a)
 
 <a id="by-data-strategies"></a>
 
@@ -968,6 +971,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26iw-inference"></a>[SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26iw)
 - <a id="wang26jo-inference"></a>[Optimizing Diversity and Quality through Base-Aligned Model Collaboration](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jo)
 - <a id="wang26lg-inference"></a>[UniSVQ: 2-bit Unified Scalar-Vector Quantization](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lg)
+- <a id="wang26lx-inference"></a>[TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lx)
 
 <a id="by-representation-learning"></a>
 

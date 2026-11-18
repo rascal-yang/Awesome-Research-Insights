@@ -585,6 +585,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Random Matrix Theory Perspective on the Consistency of Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#wang26kf-theory-statistics) · 中文
 - [Partial Identification under High-Dimensional Potential Outcomes and Confounders via Optimal Transport](../../conferences/icml-2026/cards/4801-4900.md#wang26kk-theory-statistics) · 中文
 - [Optimization, Generalization and Differential Privacy Bounds for Gradient Descent on Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/4901-5000.md#wang26lp-theory-statistics) · 中文
+- [Treatment Responder Classification with Abstention](../../conferences/icml-2026/cards/4901-5000.md#wang26ly-theory-statistics) · 中文
+- [Hedging on the Frontier: Learning New Tasks with Few Samples](../../conferences/icml-2026/cards/4901-5000.md#wegel26a-theory-statistics) · 中文
+- [Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy](../../conferences/icml-2026/cards/4901-5000.md#wei26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

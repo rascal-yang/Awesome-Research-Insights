@@ -146,6 +146,7 @@
 - [随机演员屏蔽促工作流探索](../conferences/icml-2026/cards/4701-4800.md#wang26eg-training-strategies) · Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL
 - [按序列拆分多token输出头以平衡流水](../conferences/icml-2026/cards/4701-4800.md#wang26gy-training-strategies) · AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism
 - [逐头长度温度与位置校准时机](../conferences/icml-2026/cards/4901-5000.md#wang26lk-training-strategies) · AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally
+- [预训练末期平坦化改善学习遗忘前沿](../conferences/icml-2026/cards/4901-5000.md#watts26a-training-strategies) · Sharpness-Aware Pretraining Mitigates Catastrophic Forgetting
 
 <a id="by-computer-vision"></a>
 

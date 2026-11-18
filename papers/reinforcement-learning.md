@@ -262,6 +262,7 @@
 - <a id="qian26o-representation-learning"></a>[Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning](../conferences/icml-2026/cards/3701-3800.md#paper-qian26o)
 - <a id="roh26a-representation-learning"></a>[PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning](../conferences/icml-2026/cards/3801-3900.md#paper-roh26a)
 - <a id="steccanella26a-representation-learning"></a>[Learning the Minimum Action Distance](../conferences/icml-2026/cards/4201-4300.md#paper-steccanella26a)
+- <a id="wantlin26a-representation-learning"></a>[Consistent Zero-Shot Imitation with Contrastive Goal Inference](../conferences/icml-2026/cards/4901-5000.md#paper-wantlin26a)
 
 <a id="by-evaluation"></a>
 
@@ -282,6 +283,7 @@
 - <a id="wang26bn-evaluation"></a>[RAGEN-2: Reasoning Collapse in Agentic RL](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bn)
 - <a id="wang26bx-evaluation"></a>[Investigating Memory in Model-Free RL with POPGym Arcade](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bx)
 - <a id="wang26kv-evaluation"></a>[ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kv)
+- <a id="warrier26a-evaluation"></a>[Benchmarking World-Model Learning with Environment-Level Queries](../conferences/icml-2026/cards/4901-5000.md#paper-warrier26a)
 
 <a id="by-theory-statistics"></a>
 

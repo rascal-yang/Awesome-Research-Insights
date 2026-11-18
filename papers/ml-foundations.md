@@ -667,6 +667,7 @@
 - <a id="tusoni26a-representation-learning"></a>[Robust Causal Discovery in Real-World Time Series with Power-Laws](../conferences/icml-2026/cards/4501-4600.md#paper-tusoni26a)
 - <a id="wang26ie-representation-learning"></a>[Zero-Flow Encoders](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ie)
 - <a id="wang26iz-representation-learning"></a>[Mixing Configurations for Downstream Prediction](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iz)
+- <a id="wei26d-representation-learning"></a>[Dynamic Compression Flows for Neuroscience Data](../conferences/icml-2026/cards/4901-5000.md#paper-wei26d)
 
 <a id="by-evaluation"></a>
 
@@ -1128,4 +1129,7 @@
 - <a id="wang26kf-theory-statistics"></a>[A Random Matrix Theory Perspective on the Consistency of Diffusion Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kf)
 - <a id="wang26kk-theory-statistics"></a>[Partial Identification under High-Dimensional Potential Outcomes and Confounders via Optimal Transport](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kk)
 - <a id="wang26lp-theory-statistics"></a>[Optimization, Generalization and Differential Privacy Bounds for Gradient Descent on Kolmogorov–Arnold Networks](../conferences/icml-2026/cards/4901-5000.md#paper-wang26lp)
+- <a id="wang26ly-theory-statistics"></a>[Treatment Responder Classification with Abstention](../conferences/icml-2026/cards/4901-5000.md#paper-wang26ly)
+- <a id="wegel26a-theory-statistics"></a>[Hedging on the Frontier: Learning New Tasks with Few Samples](../conferences/icml-2026/cards/4901-5000.md#paper-wegel26a)
+- <a id="wei26a-theory-statistics"></a>[Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy](../conferences/icml-2026/cards/4901-5000.md#paper-wei26a)
 <!-- classification:end -->

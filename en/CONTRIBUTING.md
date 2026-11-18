@@ -6,6 +6,8 @@ Use a pull request to add a paper or correct an entry. Use the [six-field card t
 
 ## Inclusion criteria
 
+**Current pass (from 2026-11-18): organize first; verify together later.** Pause new claim-by-claim source verification and closest-prior investigations. Use available material for preliminary screening, six-field cards, categories, and provisional scores. Prefix unverified screening and scoring rationales with “初筛，原文与先例核查待补” and label the card's evidence as awaiting review; these are not verified conclusions. Preserve completed checks. Mark unread information as “待核实” (not yet checked), rather than “未报告” (unreported). Inclusion and exclusion criteria remain unchanged; confirm final membership and ranking after the later verification pass. Continue duplicate, format, link, index, and count checks. The source and prior-work requirements below apply in that later pass.
+
 Use the same criteria across fields and venues. Include only reusable technical insights supported by the paper. Paper quality, venue prestige, benchmark scores, and state-of-the-art status do not determine inclusion.
 
 Four kinds of insight qualify, including **new mechanisms, new approaches, new findings, and failure lessons**. A simple auxiliary loss, reward design, or training technique can qualify when its reuse value is clear.

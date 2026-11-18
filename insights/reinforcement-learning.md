@@ -182,6 +182,7 @@
 - [结果门控的核心批评奖励](../conferences/icml-2026/cards/4801-4900.md#wang26in-reinforcement-learning) · Reward Modeling from Natural Language Human Feedback
 - [按局部熵变化判别量裁剪token](../conferences/icml-2026/cards/4801-4900.md#wang26jg-reinforcement-learning) · On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models
 - [工具调用奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26jn-reinforcement-learning) · DR-MMSearchAgent: Deepening Reasoning in Multimodal Search Agents
+- [未来信息集合监督提问与停止](../conferences/icml-2026/cards/4901-5000.md#wei26b-reinforcement-learning) · Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs
 
 <a id="by-computer-vision"></a>
 

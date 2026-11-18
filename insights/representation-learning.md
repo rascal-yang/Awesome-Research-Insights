@@ -93,6 +93,7 @@
 - [复数相位跨模态对齐](../conferences/icml-2026/cards/4601-4700.md#wang26cn-representation-learning) · PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation
 - [类别特征梯度匹配的联邦多原型](../conferences/icml-2026/cards/4701-4800.md#wang26gp-representation-learning) · FedHPro: Federated Hyper-Prototype Learning via Gradient Matching
 - [实图离散锚点的法向残差](../conferences/icml-2026/cards/4801-4900.md#wang26it-representation-learning) · Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection
+- [在拼接LoRA子空间求回归合并](../conferences/icml-2026/cards/4901-5000.md#wei26e-representation-learning) · SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -124,6 +125,7 @@
 - [从动力学推断任务并压低无支撑价值](../conferences/icml-2026/cards/3701-3800.md#qian26o-representation-learning) · Behavior-Invariant Task Representation Learning with Transformer-based World Models for Offline Meta-Reinforcement Learning
 - [给行为相似度加逐对正定几何](../conferences/icml-2026/cards/3801-3900.md#roh26a-representation-learning) · PAMD: Structured Adaptive Distances for Bisimulation Representations in Visual Reinforcement Learning
 - [轨迹上界约束的非对称距离](../conferences/icml-2026/cards/4201-4300.md#steccanella26a-representation-learning) · Learning the Minimum Action Distance
+- [从自采目标轨迹摊销推断意图](../conferences/icml-2026/cards/4901-5000.md#wantlin26a-representation-learning) · Consistent Zero-Shot Imitation with Contrastive Goal Inference
 
 <a id="by-robotics"></a>
 
@@ -197,6 +199,7 @@
 - [共享与私有低秩表示编辑](../conferences/icml-2026/cards/4401-4500.md#tonekaboni26a-representation-learning) · MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning
 - [精确Hölder聚合和层级私有后验](../conferences/icml-2026/cards/4501-4600.md#vo26a-representation-learning) · Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs
 - [task-learned-skeleton-rendering](../conferences/icml-2026/cards/4701-4800.md#wang26dv-representation-learning) · Universal Skeleton Understanding via Differentiable Rendering and MLLMs
+- [浅深VLM特征共同条件视频编辑](../conferences/icml-2026/cards/4901-5000.md#wang26lv-representation-learning) · MiVE: Multiscale Vision-language features for reference-guided video Editing
 
 <a id="by-ml-foundations"></a>
 
@@ -260,6 +263,7 @@
 - [spectral-causal-features](../conferences/icml-2026/cards/4501-4600.md#tusoni26a-representation-learning) · Robust Causal Discovery in Real-World Time Series with Power-Laws
 - [中点速度约束的表示学习](../conferences/icml-2026/cards/4801-4900.md#wang26ie-representation-learning) · Zero-Flow Encoders
 - [能量统计引导的多分辨率聚类混合](../conferences/icml-2026/cards/4801-4900.md#wang26iz-representation-learning) · Mixing Configurations for Downstream Prediction
+- [压缩轴与时间轴共同流匹配](../conferences/icml-2026/cards/4901-5000.md#wei26d-representation-learning) · Dynamic Compression Flows for Neuroscience Data
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -331,6 +331,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving](../../conferences/icml-2026/cards/4801-4900.md#wang26iw-inference) · 中文
 - [Optimizing Diversity and Quality through Base-Aligned Model Collaboration](../../conferences/icml-2026/cards/4801-4900.md#wang26jo-inference) · 中文
 - [UniSVQ: 2-bit Unified Scalar-Vector Quantization](../../conferences/icml-2026/cards/4901-5000.md#wang26lg-inference) · 中文
+- [TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding](../../conferences/icml-2026/cards/4901-5000.md#wang26lx-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -447,6 +448,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [CSD: Content-aware Speculative Decoding for Efficient Image Generation](../../conferences/icml-2026/cards/4701-4800.md#wang26gi-inference) · 中文
 - [ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation](../../conferences/icml-2026/cards/4801-4900.md#wang26ix-inference) · 中文
 - [Exploring Data-Free LoRA Transferability for Video Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#wang26ll-inference) · 中文
+- [Solving Inverse Problems with Flow-based Models via Model Predictive Control](../../conferences/icml-2026/cards/4901-5000.md#webber26a-inference) · 中文
 
 <a id="by-nlp"></a>
 

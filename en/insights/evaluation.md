@@ -448,6 +448,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RAGEN-2: Reasoning Collapse in Agentic RL](../../conferences/icml-2026/cards/4601-4700.md#wang26bn-evaluation) · 中文
 - [Investigating Memory in Model-Free RL with POPGym Arcade](../../conferences/icml-2026/cards/4601-4700.md#wang26bx-evaluation) · 中文
 - [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26kv-evaluation) · 中文
+- [Benchmarking World-Model Learning with Environment-Level Queries](../../conferences/icml-2026/cards/4901-5000.md#warrier26a-evaluation) · 中文
 
 <a id="by-robotics"></a>
 

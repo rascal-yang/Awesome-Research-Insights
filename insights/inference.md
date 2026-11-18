@@ -331,6 +331,7 @@
 - [可预测证明状态与纯空间拆分](../conferences/icml-2026/cards/4801-4900.md#wang26iw-inference) · SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving
 - [基础与对齐模型路由](../conferences/icml-2026/cards/4801-4900.md#wang26jo-inference) · Optimizing Diversity and Quality through Base-Aligned Model Collaboration
 - [仿射整数格的结构化向量量化](../conferences/icml-2026/cards/4901-5000.md#wang26lg-inference) · UniSVQ: 2-bit Unified Scalar-Vector Quantization
+- [计算受限解码按头与KV页分配预算](../conferences/icml-2026/cards/4901-5000.md#wang26lx-inference) · TileSparse: Arithmetic-Intensity-Aware Sparse Attention for Compute-Bound LLM Decoding
 
 <a id="by-computer-vision"></a>
 
@@ -447,6 +448,7 @@
 - [熵与分布差共同控制投机接受](../conferences/icml-2026/cards/4701-4800.md#wang26gi-inference) · CSD: Content-aware Speculative Decoding for Efficient Image Generation
 - [跨尺度与位通道选择性擦除](../conferences/icml-2026/cards/4801-4900.md#wang26ix-inference) · ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation
 - [视频LoRA迁移的谱块仲裁](../conferences/icml-2026/cards/4901-5000.md#wang26ll-inference) · Exploring Data-Free LoRA Transferability for Video Diffusion Models
+- [滚动重规划流控制的预算选择](../conferences/icml-2026/cards/4901-5000.md#webber26a-inference) · Solving Inverse Problems with Flow-based Models via Model Predictive Control
 
 <a id="by-nlp"></a>
 

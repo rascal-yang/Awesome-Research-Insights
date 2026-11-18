@@ -4910,26 +4910,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4909	wang26lo							PDF3–6主体为已知条件GP先验+普通CFM+GeoTDM的ETGN，未隔离独立的新通用操作；PDF4逐坐标std归一化后PDF5反归一化均值一般不保旋转等变，wI协方差不能恢复该性质。去掉强SE3承诺后主要是成熟先验在轨迹任务的组合应用。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lo/wang26lo.pdf	rule-excluded
 4910	wang26lp	3	3	3	3	60		技术选择：训练有界光滑两层KAN的私有分类器时，可根据宽度相关参数噪声项联合选择宽度、投影半径和训练时长；保持自由R,m条件界与末迭代实测分开。 改变光滑两层KAN私有训练的宽度/时长联选；PDF7显式噪声项、PDF8与37扫描支持条件选择规律；严格限制理论适用并标附录log尺度疑点。 PDF7自由R,m参考点界保留宽度相关噪声；PDF8/37宽度与时长扫描支持条件选择。新增3：KAN参数化条件补充；复用3/可用3/独特3：仅局部光滑两层条件，不沿用PDF36有log尺度疑点的精确最优率。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lp/wang26lp.pdf	scored
 4911	wang26lq							PDF5–7的sum ReLU-affine凸代价+小二次正则、KKT/duality-gap逆拟合沿ICNN/learned convex terminal cost/InverseMPC成熟范式；PDF19/22同双层IMPC比较仅证实更强函数族有效，未隔离新成本构造或受控选型规律。压缩子目标的逆可行检查是IO常规目的，退化平坦目标也可逆可行，不能构成独立新增。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lq/wang26lq.pdf	rule-excluded
-4912	wang26lr							待原文复核评分	pending
-4913	wang26ls							待原文复核评分	pending
-4914	wang26lt							待原文复核评分	pending
-4915	wang26lu							待原文复核评分	pending
-4916	wang26lv							待原文复核评分	pending
-4917	wang26lw							待原文复核评分	pending
-4918	wang26lx							待原文复核评分	pending
-4919	wang26ly							待原文复核评分	pending
-4920	wantlin26a							待原文复核评分	pending
-4921	warrier26a							待原文复核评分	pending
-4922	wasi26a							待原文复核评分	pending
-4923	wasif26a							待原文复核评分	pending
-4924	watts26a							待原文复核评分	pending
-4925	webber26a							待原文复核评分	pending
-4926	wegel26a							待原文复核评分	pending
-4927	wei26a							待原文复核评分	pending
-4928	wei26b							待原文复核评分	pending
-4929	wei26c							待原文复核评分	pending
-4930	wei26d							待原文复核评分	pending
-4931	wei26e							待原文复核评分	pending
+4912	wang26lr							第5–6页baseline由Whisper分段、ECAPA说话人相似度相邻合并、Qwen局部speaker定位与全局身份关联、SAM3分割组成；动态语义窗口和keyframe压缩是标准分段/两级关联工作流。第7–8页组件/规模控制说明现成模块有用，但未建立独立新更新/关联规律；AVTrack新测试集及原法掉分不足单独增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lr/wang26lr.pdf	rule-excluded
+4913	wang26ls							原文第4–5页的局部均值/标准差残差是经典局部对比归一化，其局部正仿射不变性不是独立新机制；HSV色相、Sobel方向及CLAHE也为已有操作。QuadPrior已覆盖仅清晰图训练的不变量条件扩散框架，未找到可分离于这些先例的新操作；将其用于ASM去雾不足以单独收录。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ls/wang26ls.pdf	rule-excluded
+4914	wang26lt	3	4	4	3	70		增量/复用：在静态LoRA两投影之间插入由噪声强度生成的全矩阵核心，并跨层共享；用参数预算和离散多适配器控制检验其价值。 可用性边界：子空间表示定理需r覆盖所有目标行/列空间的线性张成，不保证固定小rank无损；组合输入数多不证明必须噪声参数化；额外EOS早停可用于全部adapter，不能归为NaRA独有加速；未与Terra直接同噪声协议比较。 证据PDF第3/4/5/6/7/8/9/14/15页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lt/wang26lt.pdf	scored
+4915	wang26lu							第4–6页Mamba残差forget门、双向处理、窗口attention、瓶颈FFN+动态卷积、两路softmax融合均属成熟操作。所谓LoRE灵敏度定理只是Jacobian链式法则，未推出增强不等式；CKA降低相关不证明独立特征或因果解耦。第8页和附录组件消融未核实超过既有双流多尺度模型的可独立新机制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lu/wang26lu.pdf	rule-excluded
+4916	wang26lv	3	4	3	3	66		增量/复用：视频编辑条件可拼接冻结VLM首末层表征，分别保留空间线索和指令语义；用单层替代消融判断额外特征是否值得。 可用性边界：EBᵀ隐藏态点积是相关代理，不是实际QKsoftmax注意力或因果定位；消融仅30复杂视频且自定义评分；参考图来自外部编辑器；未充分隔离融合后参数量及额外特征容量，不能推普遍首末层最优。 证据PDF第3/4/5/6/7/8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lv/wang26lv.pdf	scored
+4917	wang26lw							SeedLM原作2410.10714第4–5页已有逐块LFSR种子枚举、LS系数投影、量化重建，且4bit整数共享2次幂指数可用移位，非必须浮点重建。本篇第4–6页仅加按解释能量递增basis数及标准MOBO；附录C第12页未等总bit/码长对照，Eq13成本未明确除block大小或计动态k元数据。ASIC模拟相对无压缩4倍与近SeedLM微小跑分不足核实独立新压缩机制。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lw/wang26lw.pdf	rule-excluded
+4918	wang26lx	4	5	4	4	86		增量/复用：MLA解码计算受限时按活跃query-head/KV页对控制预算；重要页保全头，次重要页只保留高代理分头，以换取更多可读页。 可用性边界：覆盖代理不保证输出误差；只在所测MLA计算瓶颈适用，memory-bound头数低于ridge时剪头不省时；时延是注意力算子而非整模型服务；autotune触发步约双耗时，默认10000步周期可能反应慢。 证据PDF第3/4/5/6/7/8/9/12/13页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lx/wang26lx.pdf	scored
+4919	wang26ly	4	4	3	4	76		增量/复用：把拒绝最高条件误判风险转为保留低风险尾部的CVaR优化，再用增广残差缓和倾向与结果回归估计误差。 可用性边界：双重稳健仍需τ一致估计及正则阈值/重叠条件，非任意一个模型错皆无影响；放松假设只优化上界；表2总体与两分组不满足30%加权关系，未用作联合证据；附录将d∞的次幂误差简成线性缺支撑，不引用该拒绝器速率。 证据PDF第3/4/5/6/7/8/18/19页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ly/wang26ly.pdf	scored
+4920	wantlin26a	4	5	3	4	82		增量/复用：对可用单目标概括的示范，先学最大熵目标策略，再用自采目标-轨迹对训练后验，避免直接将高访问频率当示范目标。 可用性边界：一致性需真实专家在所建goal-MaxEnt族、共享prior、学到最优策略和可表达后验；不等于单示范确定识别或任意奖励适用；高斯局部因子不自动覆盖多模态后验，文中product形式需归一化；随机动力学下trajectory-MaxEnt与causal-MaxEnt应区分。 证据PDF第4/5/6/7/8/15/16/17/18页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wantlin26a/wantlin26a.pdf	scored
+4921	warrier26a	4	4	4	4	80		增量/复用：评估世界模型时先无奖励探索，再改变观察或规则形成结构查询的挑战环境，以行为答题而不只看下一帧误差或原任务回报。 可用性边界：人类基线为每题20次的80分位聚合，非平均受试者；文本/GUI与时间条件不同；行动perplexity仅探索集中度代理，不证明学到了正确模型；不可观测不可识别结构不能由有限探索自动确定。 证据PDF第3/4/5/6/7/8页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/warrier26a/warrier26a.pdf	scored
+4922	wasi26a							第4–5页为图像metadata/地理规则生成新标注和物理一致性检查；方法干预是常规LoRA单/多任务SFT。第6–9页地理和时间能力差异、reasoning与SFT得失主要依赖新数据难度与模型比较，未隔离可独立复用的新表示、推断约束或训练规则；新评测集本身不通过技术增量门槛。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wasi26a/wasi26a.pdf	rule-excluded
+4923	wasif26a							论文第3–5页主增量为逐轮代理归因JSD对齐，然而公开mnist-non-iid实现仅对冻结最终CNN蒸馏，以detach权重构造模板后与初始均匀Π直接混合；评价又重拟合未对齐代理并额外做归因幂锐化，未实现所述JSD代理更新，无法将第8–9页结果归因于新目标。去除未核实保证后剩常规蒸馏/归因模板聚合，未独立验证新增量。代码 https://github.com/dawoodwasif/xFedAlign/blob/main/vision-experiments/mnist-non-iid.py#L304 与 #L544–576、#L646–660；不是单凭DP/收缩证明缺陷排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wasif26a/wasif26a.pdf	rule-excluded
+4924	watts26a	4	5	4	4	86		增量/复用：选择预训练checkpoint时同时测后训练学习/遗忘前沿；仅在末期退火切SAM可改善保留能力，即使基础验证loss略差。 可用性边界：全SAM每步约双计算，token匹配不是算力匹配；forgetting小模型主要用预训练loss、1B用suite drop，不能混同比例；规律限所扫学习率/预算与语料，不保证任意更大学习率更好。 证据PDF第3/4/5/6/7/8/9/15/16页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/watts26a/watts26a.pdf	scored
+4925	webber26a	3	4	4	3	70		增量/复用：将流模型逆问题控制改成反复短网格重规划；当模型不能反传时用冻结当前速度的单步终点近似，接受任务相关复原损失。 可用性边界：精确最优性仅每个完整剩余控制子问题都全局解时成立；粗网格和Euler值近似无此保证；K1在超分/补全明显失败；FLUX示例小规模定性，控制代价不是数据似然或正确条件后验保证。 证据PDF第3/4/5/6/7/8/20/21页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/webber26a/webber26a.pdf	scored
+4926	wegel26a	5	5	4	5	96		增量/复用：已有模型基准排序近单调时先保留Pareto附近候选，再用少量目标样本选模；随目标样本数扩大候选，避免永久删去新任务赢家。 可用性边界：假设源风险已精确知道，未覆盖基准抽样噪声；弱单调违反会有不可消偏差；光滑前沿密度需正法向等强条件；快速聚合率还需已知映射/凹间隙，实证有限库规则不等于部署完整几何EW。 证据PDF第2/3/4/5/6/7/8/9页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wegel26a/wegel26a.pdf	scored
+4927	wei26a	5	4	4	5	90		增量/复用：低维L2敏感向量发布可搜索广义Gamma半径噪声并校准隐私上界，高维强隐私则保留高斯默认；不将机制MSE优势当DP-SGD训练收益。 可用性边界：渐近结论针对整个敏感度球的最坏方向加性独立噪声、固定总MSE，不适用于数据依赖/非加性或实际查询差分只在低维子空间的任意推广；有限维阈值/速率未给；数值优化非全局最优证明，组合需独立与保守离散误差。 证据PDF第3/4/5/6/7/8/9/22/23页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26a/wei26a.pdf	scored
+4928	wei26b	4	5	4	4	86		增量/复用：从离线对话未来提取尚需覆盖的信息集合与停止标签，以停止正确性门控提问效用奖励，训练当前上下文的多种有效问法。 可用性边界：未来专家路径只是效用代理，不是反事实最优提问或真实长期value；离线固定context未解决新策略状态分布偏移；同一提取/评分体系可能偏爱自身标签；门控整体非严格词典序最优；上线购买转化不能推因果效果或医疗正确性。 证据PDF第3/4/5/6/7/8/9/20/21页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26b/wei26b.pdf	scored
+4929	wei26c							第4–6页把既有病历AR、表格连续/类别扩散与VQ潜扩散串联；正定性由标准Cholesky下三角正对角解码保证，非新几何机制。第7–9页跨模态组合/预测比较未识别独立超出已有SPD生成与条件扩散的操作；语义距离相关和观察性事件预测不支持其因果/干预推理主张。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26c/wei26c.pdf	rule-excluded
+4930	wei26d	4	4	3	4	76		增量/复用：给低维压缩流增加各压缩层的相邻时刻速度匹配，并随机截断潜在前缀，防止只缩小潜在尺度却仍暗藏高维信息。 可用性边界：正交QR、归一化、nested dropout不自动证明任意非线性encoder仅符号不识别；跨seed结果只是实证；p1/50与95%尺度能量得到有效维30，非真正仅3维或内在维数估计；适用平滑连续观测，双ODE积分增加推断成本。 证据PDF第3/4/5/6/7/8/18/19/20页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26d/wei26d.pdf	scored
+4931	wei26e	3	4	4	3	70		增量/复用：将各LoRA下投影拼成特征子空间，在低维协方差上解任务输出匹配，再吸收路由器；用条件数而非token数判断校准是否足够。 可用性边界：回归最优限给定层激活、平方损失和可逆G，不保证整个生成器最优；N>Kr不保证G良条件，同prompt token并非独立样本；B†Bk=Ek的推导需额外秩条件，输出OLS可由BQ=ΣYkZkᵀ另证；不修复层间输入分布偏移，RegMean控制不应只对比朴素加λI。 证据PDF第3/4/5/6/7/15/16/18/19/20页。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wei26e/wei26e.pdf	scored
 4932	wei26f							待原文复核评分	pending
 4933	wei26g							待原文复核评分	pending
 4934	wei26h							待原文复核评分	pending

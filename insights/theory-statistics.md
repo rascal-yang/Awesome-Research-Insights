@@ -585,6 +585,9 @@
 - [扩散跨划分一致性的线性谱基线](../conferences/icml-2026/cards/4801-4900.md#wang26kf-theory-statistics) · A Random Matrix Theory Perspective on the Consistency of Diffusion Models
 - [投影输运的残差切片下界](../conferences/icml-2026/cards/4801-4900.md#wang26kk-theory-statistics) · Partial Identification under High-Dimensional Potential Outcomes and Confounders via Optimal Transport
 - [私有KAN的宽度与训练时长联选](../conferences/icml-2026/cards/4901-5000.md#wang26lp-theory-statistics) · Optimization, Generalization and Differential Privacy Bounds for Gradient Descent on Kolmogorov–Arnold Networks
+- [因果分类的拒绝预算与正交尾部风险](../conferences/icml-2026/cards/4901-5000.md#wang26ly-theory-statistics) · Treatment Responder Classification with Abstention
+- [按基准Pareto边界收缩少样本模型选择](../conferences/icml-2026/cards/4901-5000.md#wegel26a-theory-statistics) · Hedging on the Frontier: Learning New Tasks with Few Samples
+- [按维数与隐私参数选择径向噪声](../conferences/icml-2026/cards/4901-5000.md#wei26a-theory-statistics) · Asymptotic Optimality of the High-Dimensional Gaussian Mechanism and Improved Low-Dimensional Mechanisms for Differential Privacy
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -443,6 +443,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26gi-inference"></a>[CSD: Content-aware Speculative Decoding for Efficient Image Generation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gi)
 - <a id="wang26ix-inference"></a>[ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ix)
 - <a id="wang26ll-inference"></a>[Exploring Data-Free LoRA Transferability for Video Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26ll)
+- <a id="webber26a-inference"></a>[Solving Inverse Problems with Flow-based Models via Model Predictive Control](../../conferences/icml-2026/cards/4901-5000.md#paper-webber26a)
 
 <a id="by-representation-learning"></a>
 
@@ -506,6 +507,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26cn-representation-learning"></a>[PhaseAlign: Complex Phase Alignment for Stable Open-Vocabulary Semantic Segmentation](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cn)
 - <a id="wang26gp-representation-learning"></a>[FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gp)
 - <a id="wang26it-representation-learning"></a>[Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26it)
+- <a id="wei26e-representation-learning"></a>[SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26e)
 
 <a id="by-evaluation"></a>
 

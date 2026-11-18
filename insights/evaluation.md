@@ -448,6 +448,7 @@
 - [跨输入可区分性诊断模板坍缩](../conferences/icml-2026/cards/4601-4700.md#wang26bn-evaluation) · RAGEN-2: Reasoning Collapse in Agentic RL
 - [可观测孪生分离记忆收益](../conferences/icml-2026/cards/4601-4700.md#wang26bx-evaluation) · Investigating Memory in Model-Free RL with POPGym Arcade
 - [多轮策略训练的序列mask诊断](../conferences/icml-2026/cards/4801-4900.md#wang26kv-evaluation) · ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning
+- [把世界结构查询编码为派生交互任务](../conferences/icml-2026/cards/4901-5000.md#warrier26a-evaluation) · Benchmarking World-Model Learning with Environment-Level Queries
 
 <a id="by-robotics"></a>
 

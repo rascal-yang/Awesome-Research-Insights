@@ -433,6 +433,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="tonekaboni26a-representation-learning"></a>[MultiLoReFT: Decoupling Shared and Modality-Specific Subspaces in Multimodal Learning via Low-Rank Representation Fine-Tuning](../../conferences/icml-2026/cards/4401-4500.md#paper-tonekaboni26a)
 - <a id="vo26a-representation-learning"></a>[Hölder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs](../../conferences/icml-2026/cards/4501-4600.md#paper-vo26a)
 - <a id="wang26dv-representation-learning"></a>[Universal Skeleton Understanding via Differentiable Rendering and MLLMs](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dv)
+- <a id="wang26lv-representation-learning"></a>[MiVE: Multiscale Vision-language features for reference-guided video Editing](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lv)
 
 <a id="by-evaluation"></a>
 
