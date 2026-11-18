@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **91 / 687** 篇，当前收录 **91** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **93 / 687** 篇，当前收录 **92** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -97,3 +97,4 @@
 | 具身智能 / Agent | 训练策略 | [R³](cards.md#paper-9i9dpyr2f9) | 用离线动作评分训练生成自由文本指导的高层模型 |
 | 具身智能 / 强化学习 | 策略优化 | [Q-OIL](cards.md#paper-9seu2keixr) | 用真实停滞干预数据校准模拟人类，并重访有信息的状态 |
 | 具身智能 / 强化学习 | 课程学习 | [Success Guided Sampling](cards.md#paper-mqdt80qztp) | 按当前成功率筛选训练起点与任务配置 |
+| 具身智能 / 强化学习 | 部署适配 | [TERRA](cards.md#paper-w443fvglzc) | 按预测的任务相关模型误差选择部署时采样路线 |

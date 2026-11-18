@@ -111,9 +111,9 @@ number	openreview_id	title	paper_url	reason	status
 110	9seU2kEIxR	Q-OIL: Optimistic Exploration in Learning from Human Interventions	https://openreview.net/forum?id=9seU2kEIxR	用真实停滞干预数据校准模拟人类，并重访有信息的状态	included
 111	s8ZiyIAn3z	Self-play is not enough: human imitation improves self-play autonomy in the wild	https://openreview.net/forum?id=s8ZiyIAn3z		pending
 112	MQdt80qzTP	A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control	https://openreview.net/forum?id=MQdt80qzTP	按当前成功率筛选训练起点与任务配置	included
-113	JqZEEaNDLJ	HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning	https://openreview.net/forum?id=JqZEEaNDLJ		pending
+113	JqZEEaNDLJ	HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning	https://openreview.net/forum?id=JqZEEaNDLJ	本轮排除。标准化命令、阶段检查和并行试验主要组成强化学习工程流程，现有摘要未指出能独立验证的学习或搜索机制。	excluded
 114	RS2INStAhX	Telescopes are Optomechanical Robots: Training Compositional Visuomotor Policies for Coordinated Control	https://openreview.net/forum?id=RS2INStAhX		pending
-115	W443fVglzC	Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation	https://openreview.net/forum?id=W443fVglzC		pending
+115	W443fVglzC	Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation	https://openreview.net/forum?id=W443fVglzC	按预测的任务相关模型误差选择部署时采样路线	included
 116	dKRgZYcdRV	Object-Centric Conditioning for Visuomotor Flow Matching	https://openreview.net/forum?id=dKRgZYcdRV		pending
 117	4dqRAd2sNp	When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies	https://openreview.net/forum?id=4dqRAd2sNp		pending
 118	qd6clCx6QY	Scalable Behavior Cloning with Open Data, Training, and Evaluation	https://openreview.net/forum?id=qd6clCx6QY		pending
