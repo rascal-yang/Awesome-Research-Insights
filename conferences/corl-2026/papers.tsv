@@ -44,8 +44,8 @@ number	openreview_id	title	paper_url	reason	status
 43	ghx1d6PQUR	HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model	https://openreview.net/forum?id=ghx1d6PQUR	用少量配对示范对齐人机视觉后再混训潜动作	included
 44	yNHgrgATuY	FIBERTUNE: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning	https://openreview.net/forum?id=yNHgrgATuY	将动作可预测方向滤除后再蒸馏视觉残差	included
 45	Y55iJjxMsh	Compositional Diffusion Policy for Vision–Language–Action Agents	https://openreview.net/forum?id=Y55iJjxMsh		pending
-46	03qRtmw4qx	Learning Additively Compositional Latent Actions for Embodied AI	https://openreview.net/forum?id=03qRtmw4qx		pending
-47	JKoP9L6myQ	PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning	https://openreview.net/forum?id=JKoP9L6myQ		pending
+46	03qRtmw4qx	Learning Additively Compositional Latent Actions for Embodied AI	https://openreview.net/forum?id=03qRtmw4qx	通过跨时间可加约束减少潜动作对场景外观的依赖	included
+47	JKoP9L6myQ	PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning	https://openreview.net/forum?id=JKoP9L6myQ	显式分开潜动作的变化幅度与变化类别	included
 48	XnIdgAtBX7	Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead	https://openreview.net/forum?id=XnIdgAtBX7		pending
 49	IjnCc1OZnJ	Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models	https://openreview.net/forum?id=IjnCc1OZnJ		pending
 50	rYkaehgzzO	See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs	https://openreview.net/forum?id=rYkaehgzzO		pending
