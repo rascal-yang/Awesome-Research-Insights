@@ -8902,126 +8902,126 @@ poster_id	title	paper_url	status	reason
 139306	What Survival Benchmarks Don’t Tell You: Impact of Model Selection and Dataset Regimes	https://neurips.cc/virtual/2026/poster/139306	excluded	主要针对生存预测评估，未给重点时序控制选择验证。
 155858	What the Geometry of Good Models Tells Us	https://neurips.cc/virtual/2026/poster/155858	excluded	主要为表格模型简化理论，未验证当前深度场景。
 154392	What Time Is It? How Data Geometry Makes Time Conditioning Optional for Flow Matching	https://neurips.cc/virtual/2026/poster/154392	included	流匹配先查耦合再增时间条件
-154627	What to Forget in Unlearning? Forget Set Curation for Language Models	https://neurips.cc/virtual/2026/poster/154627	pending	-
-150201	What to Perturb, How to Propagate: A Graph-Guided Transferable Attack on VLP Models	https://neurips.cc/virtual/2026/poster/150201	pending	-
-156036	What to Predict for Efficient Scheduling on Parallel Machines	https://neurips.cc/virtual/2026/poster/156036	pending	-
-149905	What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents	https://neurips.cc/virtual/2026/poster/149905	pending	-
-153020	What Transformer FFNs Never See: Theory, Diagnosis, and Lightweight Remediation	https://neurips.cc/virtual/2026/poster/153020	pending	-
-148192	What Was That Again? Certified Robustness for Automatic Speech Recognition	https://neurips.cc/virtual/2026/poster/148192	pending	-
-151545	What, Where, and Boundary: Hierarchical Cognitive Decomposition for Echocardiography Video Segmentation	https://neurips.cc/virtual/2026/poster/151545	pending	-
-155260	When Actions Matter: Causal Affordances for Long-Horizon Credit Assignment in World Models	https://neurips.cc/virtual/2026/poster/155260	pending	-
-152611	When Alignment Fails: Stabilizing Cross-Dynamics RL with Prototype Trust Regions	https://neurips.cc/virtual/2026/poster/152611	pending	-
-153226	When All Paths Lead to Dead End: Deadlock-Depth-guided Monte Carlo Tree Search for Reentrant Blocking Hybrid Flow Shops	https://neurips.cc/virtual/2026/poster/153226	pending	-
-155803	When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning	https://neurips.cc/virtual/2026/poster/155803	pending	-
-151406	When and How to Canonize: a Generalization Perspective	https://neurips.cc/virtual/2026/poster/151406	pending	-
-151346	When and What to Prune?  Stage-Aware Visual Token Pruning for Efficient VLA	https://neurips.cc/virtual/2026/poster/151346	pending	-
-152854	When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective	https://neurips.cc/virtual/2026/poster/152854	pending	-
-153203	When and Why Does Multi-Agent Debate Fail and Does It Really Underperform?	https://neurips.cc/virtual/2026/poster/153203	pending	-
-148698	When and Why is Optimistic Multiplicative Weights Slow? The Geometry of Energy Dissipation	https://neurips.cc/virtual/2026/poster/148698	pending	-
-152200	When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\ell_1$-norm Lower Bounds	https://neurips.cc/virtual/2026/poster/152200	pending	-
-151059	When Are Compositional Problems Learnable from Verifiable Rewards?	https://neurips.cc/virtual/2026/poster/151059	pending	-
-139798	When Are Multimodal Predictions Biologically Supported? A Diagnostic Evaluation Framework	https://neurips.cc/virtual/2026/poster/139798	pending	-
-139038	When Are Predictions Enough? An Evaluation Protocol for Frozen Expert Composition	https://neurips.cc/virtual/2026/poster/139038	pending	-
-155762	When Are Semivalue-Based Decisions Identifiable? Robust Data Selection under Utility Ambiguity	https://neurips.cc/virtual/2026/poster/155762	pending	-
-148618	When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning	https://neurips.cc/virtual/2026/poster/148618	pending	-
-151419	When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction	https://neurips.cc/virtual/2026/poster/151419	pending	-
-150504	When Attention Collapses: Residual Evidence Modeling for Compositional Inference	https://neurips.cc/virtual/2026/poster/150504	pending	-
-154919	When Attribution Patching Lies: Diagnosis and a Second-Order Correction	https://neurips.cc/virtual/2026/poster/154919	pending	-
-154058	When a Window Is Not an Action: Selective Phase-Script Deliberation for Sliding-Window Human Activity Recognition	https://neurips.cc/virtual/2026/poster/154058	pending	-
-151023	When a Zero-Shooter Cheats: Improving Age Estimation via Activation Steering	https://neurips.cc/virtual/2026/poster/151023	pending	-
-154553	When Can Digital Personas Reliably Approximate Human Survey Findings?	https://neurips.cc/virtual/2026/poster/154553	pending	-
-150457	When Catastrophic Inheritance Meets Forgetting in Continual Adaptation of Foundation Models	https://neurips.cc/virtual/2026/poster/150457	pending	-
-151914	When Confidence Rises Too Early: Detecting Shortcut Reasoning via Premature Answer Commitment	https://neurips.cc/virtual/2026/poster/151914	pending	-
-153537	When Copying Is Hard: Copy-Constrained Decoding for Exact Span Reproduction	https://neurips.cc/virtual/2026/poster/153537	pending	-
-154779	When Debate Helps: Proposal Supply and Verification-Aware Readout in Multi-Agent Reasoning	https://neurips.cc/virtual/2026/poster/154779	pending	-
-139413	When Depth Lies: Benchmarking Vision-Language Models on Mirror-Induced RGB-D Ambiguity	https://neurips.cc/virtual/2026/poster/139413	pending	-
-139731	When Do Cosine Prototypes Mislead? A Whitening-Aware Benchmark for Frozen-Feature Image Classification	https://neurips.cc/virtual/2026/poster/139731	pending	-
-151493	When Does Fine-Tuning Extract Stored Knowledge? A Relation-Covering Theory for One-Layer Transformers	https://neurips.cc/virtual/2026/poster/151493	pending	-
-150617	When Does Flow Matching Help Deterministic Multimodal Prediction: A Spatial Transcriptomics Study	https://neurips.cc/virtual/2026/poster/150617	pending	-
-139414	When Does Graph Retrieval Become Answer-Supporting Evidence? A Diagnostic Audit of GraphRAG	https://neurips.cc/virtual/2026/poster/139414	pending	-
-150132	When Does Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning	https://neurips.cc/virtual/2026/poster/150132	pending	-
-152959	When Does Knowing the State Help? Diagnosing Process vs. Outcome Reward Design	https://neurips.cc/virtual/2026/poster/152959	pending	-
-152207	When does LeJEPA learn a World Model?	https://neurips.cc/virtual/2026/poster/152207	pending	-
-153281	When Does Non-Uniform Replay Matter in Reinforcement Learning?	https://neurips.cc/virtual/2026/poster/153281	pending	-
-153869	When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon	https://neurips.cc/virtual/2026/poster/153869	pending	-
-149453	When Does Sequential Detection Collapse to a Scalar? A Necessary and Sufficient Characterisation	https://neurips.cc/virtual/2026/poster/149453	pending	-
-155626	When Does Structure Help? Statistical Tradeoffs for Structured Reverse Processes in Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/155626	pending	-
-154943	When Does Subspace Direction Matter for LoRA? Regime Analysis of the Magnitude Principle in Few-Shot Adaptation	https://neurips.cc/virtual/2026/poster/154943	pending	-
-148205	When does the noise schedule matter? A spectral classification of diffusion training objectives	https://neurips.cc/virtual/2026/poster/148205	pending	-
-148630	When Does Trimming Help Conformal Prediction? A Retained-Law Diagnostic under Calibration Contamination	https://neurips.cc/virtual/2026/poster/148630	pending	-
-150594	When Do Learned State Representations Break Sensitivity Analysis?	https://neurips.cc/virtual/2026/poster/150594	pending	-
-153823	When Do Multi-Agent Systems Help? An Information Bottleneck Perspective	https://neurips.cc/virtual/2026/poster/153823	pending	-
-150204	When do Prophets Profit in Prediction Markets?	https://neurips.cc/virtual/2026/poster/150204	pending	-
-148762	When Dynamics Shift, Robust Task Inference Wins: Offline Imitation Learning with Behavior Foundation Models Revisited	https://neurips.cc/virtual/2026/poster/148762	pending	-
-149583	When Edge Independence Fails: Joint Graph Diffusion with Latent Sociability Priors	https://neurips.cc/virtual/2026/poster/149583	pending	-
-139586	When Empathy Misses the Goal: A Benchmark for Goal Displacement in LLM Advice	https://neurips.cc/virtual/2026/poster/139586	pending	-
-150247	When Everyone Can Submit: Designing Contests with Transparent Pre-Selection	https://neurips.cc/virtual/2026/poster/150247	pending	-
-150923	When evolution cheats: Frozen-weights Baselines reveal static-solvers interference in evolved plastic spiking neural networks	https://neurips.cc/virtual/2026/poster/150923	pending	-
-151259	When Expert Disagreement Hurts: Auditing Prestige-Sensitive Revision in LLM Decision Pipelines	https://neurips.cc/virtual/2026/poster/151259	pending	-
-154219	When Form Changes but Logic Doesn’t: Building Logic-invariant LLMs through Structures	https://neurips.cc/virtual/2026/poster/154219	pending	-
-151872	When Further Realization Is Unnecessary: Amortized Reasoning for Long-Horizon LLM Agents	https://neurips.cc/virtual/2026/poster/151872	pending	-
-156112	When Graph Anomalies Learn to Hide: Test-Time Cloaking in Graph-Level Anomaly Detection	https://neurips.cc/virtual/2026/poster/156112	pending	-
-155258	When Graph Structure Provably Helps Classification: Non-Asymptotic Recovery Guarantees	https://neurips.cc/virtual/2026/poster/155258	pending	-
-139854	When Guessing is Rewarded: Rethinking Language Model Evaluation with Distributional Uncertainty Scoring	https://neurips.cc/virtual/2026/poster/139854	pending	-
-140070	When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models	https://neurips.cc/virtual/2026/poster/140070	pending	-
-152371	When Integral Meets Decomposition: A Signal-Level Self-Supervised Feature Decompose Paradigm for Multi-Modal Image Fusion	https://neurips.cc/virtual/2026/poster/152371	pending	-
-148838	When Is Rank-1 Steering Cheap? Geometry, Granularity, and Budgeted Search	https://neurips.cc/virtual/2026/poster/148838	pending	-
-152041	When is Warmstarting Effective for Scaling Language Models?	https://neurips.cc/virtual/2026/poster/152041	pending	-
-149375	When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/149375	pending	-
-155544	When Latents Forget Pixels: Restoring Fidelity in Diffusion Transformer Super-Resolution	https://neurips.cc/virtual/2026/poster/155544	pending	-
-153967	When Less is More: The LLM Scaling Paradox in Context Compression	https://neurips.cc/virtual/2026/poster/153967	pending	-
-148797	When LLM Routers Overpay: Strong-Model Over-Selection under Loose Budgets	https://neurips.cc/virtual/2026/poster/148797	pending	-
-155608	When LLMs Know but Fail to Reason: Injecting Memory for Reasoning Enhancement	https://neurips.cc/virtual/2026/poster/155608	pending	-
-139493	When Medical VLMs Stop Understanding: MedTEC-Bench for Probing Semantic Specificity	https://neurips.cc/virtual/2026/poster/139493	pending	-
-150747	When Metropolis and Hastings Meet Bradley and Terry: Exact MCMC From Preference Voting	https://neurips.cc/virtual/2026/poster/150747	pending	-
-153640	When Must AI Training Stage Checkpoints? A Distributional Model of Durability Boundaries at Scale	https://neurips.cc/virtual/2026/poster/153640	pending	-
-156014	When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling	https://neurips.cc/virtual/2026/poster/156014	pending	-
-148594	When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding	https://neurips.cc/virtual/2026/poster/148594	pending	-
-152350	When Poison Meets Structure: Topology-based Defense against Poisoning Attack on Graph-based Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/152350	pending	-
-152992	When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152992	pending	-
-155843	When Policy Entropy Constraint Fails: Preserving Diversity in Flow-based RLHF via Perceptual Entropy	https://neurips.cc/virtual/2026/poster/155843	pending	-
-150889	When Prompt Internalization Breaks: Continuous Experience Internalization in Large Language Models	https://neurips.cc/virtual/2026/poster/150889	pending	-
-155439	When Prompts Override Vision: Instruction-Induced Hallucinations in LVLMs	https://neurips.cc/virtual/2026/poster/155439	pending	-
-155285	When Reasoning Meets Its Laws	https://neurips.cc/virtual/2026/poster/155285	pending	-
-152080	When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds	https://neurips.cc/virtual/2026/poster/152080	pending	-
-151380	When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors	https://neurips.cc/virtual/2026/poster/151380	pending	-
-155754	When Sanitization Becomes the Trigger: Defense-Triggered Backdoor Attacks	https://neurips.cc/virtual/2026/poster/155754	pending	-
-151343	When Scores Conflict with Preferences: Calibrated Drift Control for Heterogeneous DPO	https://neurips.cc/virtual/2026/poster/151343	pending	-
-154558	When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents	https://neurips.cc/virtual/2026/poster/154558	pending	-
-154389	When Should LLMs Be Less Specific? Selective Abstraction for Reliable Long-Form Text Generation	https://neurips.cc/virtual/2026/poster/154389	pending	-
-139169	When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents	https://neurips.cc/virtual/2026/poster/139169	pending	-
-139510	When Stored Evidence Stops Being Usable: Scale-Conditioned Evaluation of Agent Memory	https://neurips.cc/virtual/2026/poster/139510	pending	-
-154760	When Streaming Fails: Dynamic Algorithms for Unconstrained Submodular Maximization	https://neurips.cc/virtual/2026/poster/154760	pending	-
-151337	When Symbol Names Should Not Matter: A Logistic Theory of Fresh-Symbol Classification	https://neurips.cc/virtual/2026/poster/151337	pending	-
-151892	When the Merge Coefficient Stops Mattering: Proximity Regularized Merging for Continual LoRA Adaptation	https://neurips.cc/virtual/2026/poster/151892	pending	-
-139243	When the Most Disruptive Messages Are Safe to Prune in Aggregate: Functional Analysis of Communication Pruning in Two-Agent LLM Systems	https://neurips.cc/virtual/2026/poster/139243	pending	-
-148761	When the Same Coefficients Reach Different Places: Asymmetric Realizability in Transplanting Tokenizers across Large Language Models	https://neurips.cc/virtual/2026/poster/148761	pending	-
-153763	When Think-with-Image Meets Safety: What Determines Multimodal Jailbreak Robustness?	https://neurips.cc/virtual/2026/poster/153763	pending	-
-152014	When to Adopt Model Updates	https://neurips.cc/virtual/2026/poster/152014	pending	-
-149570	When to Align, When to Predict: A Phase Diagram for Multimodal Learning	https://neurips.cc/virtual/2026/poster/149570	pending	-
-150069	When to Inject the Target: Stage-Decoupled Guidance for Diffusion-Based Targeted Adversarial Attacks	https://neurips.cc/virtual/2026/poster/150069	pending	-
-150327	When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models	https://neurips.cc/virtual/2026/poster/150327	pending	-
-151106	When to Trust Memory: Retrieval-Guided Probabilistic Spatiotemporal Forecasting under Distribution Shift	https://neurips.cc/virtual/2026/poster/151106	pending	-
-155733	When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation	https://neurips.cc/virtual/2026/poster/155733	pending	-
-149652	When Transcriptomic Foundation Models Scale: Domain-Focused Pretraining for Drug Development in Immunology and Inflammation	https://neurips.cc/virtual/2026/poster/149652	pending	-
-148990	When Uncertainty Is the Target: Adversarial Attacks on Uncertainty-Aware Predictors	https://neurips.cc/virtual/2026/poster/148990	pending	-
-155204	When, Where, What: Structural Guarantees for Travel Time Prediction on Temporal Graphs	https://neurips.cc/virtual/2026/poster/155204	pending	-
-155917	Where and When Identity Forms: Identity-Vital Attention Redistribution for Training-Free Subject-Driven Generation	https://neurips.cc/virtual/2026/poster/155917	pending	-
-148425	Where Are MLLMs Looking When They Hallucinate? Mitigating Visual Hallucination via Gaze Steering	https://neurips.cc/virtual/2026/poster/148425	pending	-
-151558	Where Does Warm-Up Come From? Adaptive Scheduling for Norm-Constrained Optimizers	https://neurips.cc/virtual/2026/poster/151558	pending	-
-148457	Where Do Long Captions Fail? Position-Aware Diagnosis and Reinforcement Learning for Detailed Image Captioning	https://neurips.cc/virtual/2026/poster/148457	pending	-
-139722	Where Do We (Not) Need Temporal Context in Low-Resource Video Task Adaptation?	https://neurips.cc/virtual/2026/poster/139722	pending	-
-149239	Where Reusable Computation Becomes Detectable: Solution-Frame Path Triage for Modular-Arithmetic Grokking	https://neurips.cc/virtual/2026/poster/149239	pending	-
-139698	Where Root Cause Analysis Fails: A Retrieval-Reranking Decomposition	https://neurips.cc/virtual/2026/poster/139698	pending	-
-148371	Where Should Society Draw the Line? A Social Choice Approach to Collective Consent	https://neurips.cc/virtual/2026/poster/148371	pending	-
-139799	Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap	https://neurips.cc/virtual/2026/poster/139799	pending	-
-153022	Where to Approximate in Neurosymbolic Inference?	https://neurips.cc/virtual/2026/poster/153022	pending	-
-153232	Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers	https://neurips.cc/virtual/2026/poster/153232	pending	-
-154361	Where to Look Is Not How to Fix: Pre-Denoising Diagnostics and Modality-Dependent Control in Diffusion Composition	https://neurips.cc/virtual/2026/poster/154361	pending	-
-150657	Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning	https://neurips.cc/virtual/2026/poster/150657	pending	-
-153460	Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback	https://neurips.cc/virtual/2026/poster/153460	pending	-
-155128	Where You Backpropagate Matters: Token Hypothesis for Memory-Efficient Fine-Tuning	https://neurips.cc/virtual/2026/poster/155128	pending	-
-150544	Which Pairs Should We Compare for DPO?	https://neurips.cc/virtual/2026/poster/150544	pending	-
+154627	What to Forget in Unlearning? Forget Set Curation for Language Models	https://neurips.cc/virtual/2026/poster/154627	included	遗忘评估把目标集合视作变量。
+150201	What to Perturb, How to Propagate: A Graph-Guided Transferable Attack on VLP Models	https://neurips.cc/virtual/2026/poster/150201	excluded	摘要核心为可迁移多模态攻击构造，排除。
+156036	What to Predict for Efficient Scheduling on Parallel Machines	https://neurips.cc/virtual/2026/poster/156036	included	学习增强排程优先预测相对顺序。
+149905	What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents	https://neurips.cc/virtual/2026/poster/149905	included	代理存可用摘要并控制精确隐私值可见性。
+153020	What Transformer FFNs Never See: Theory, Diagnosis, and Lightweight Remediation	https://neurips.cc/virtual/2026/poster/153020	included	FFN 前保留少量注意路由统计。
+148192	What Was That Again? Certified Robustness for Automatic Speech Recognition	https://neurips.cc/virtual/2026/poster/148192	included	ASR 认证允许随证据增量提前停。
+151545	What, Where, and Boundary: Hierarchical Cognitive Decomposition for Echocardiography Video Segmentation	https://neurips.cc/virtual/2026/poster/151545	included	动态分割拆部件识别、位置和边界。
+155260	When Actions Matter: Causal Affordances for Long-Horizon Credit Assignment in World Models	https://neurips.cc/virtual/2026/poster/155260	included	在世界模型中识别真正影响后续奖励的动作。
+152611	When Alignment Fails: Stabilizing Cross-Dynamics RL with Prototype Trust Regions	https://neurips.cc/virtual/2026/poster/152611	included	跨动态迁移固定慢更新协方差锚。
+153226	When All Paths Lead to Dead End: Deadlock-Depth-guided Monte Carlo Tree Search for Reentrant Blocking Hybrid Flow Shops	https://neurips.cc/virtual/2026/poster/153226	included	搜索所有候选都失败时按失败出现深度排序。
+155803	When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning	https://neurips.cc/virtual/2026/poster/155803	included	空间推理先判当前观测是否充足再调用想象。
+151406	When and How to Canonize: a Generalization Perspective	https://neurips.cc/virtual/2026/poster/151406	included	对称规范化前评规范映射正则性。
+151346	When and What to Prune?  Stage-Aware Visual Token Pruning for Efficient VLA	https://neurips.cc/virtual/2026/poster/151346	included	VLA 剪枝按动作推理阶段分配。
+152854	When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective	https://neurips.cc/virtual/2026/poster/152854	included	物理网络的对抗训练先诊断 NTK 动态。
+153203	When and Why Does Multi-Agent Debate Fail and Does It Really Underperform?	https://neurips.cc/virtual/2026/poster/153203	included	多代理辩论保留有信息的异议。
+148698	When and Why is Optimistic Multiplicative Weights Slow? The Geometry of Energy Dissipation	https://neurips.cc/virtual/2026/poster/148698	excluded	摘要主要是特定博弈的收敛率及几何分析，未建立目标研究可直接用的选择。
+152200	When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\ell_1$-norm Lower Bounds	https://neurips.cc/virtual/2026/poster/152200	included	比较符号更新前匹配所需的梯度范数。
+151059	When Are Compositional Problems Learnable from Verifiable Rewards?	https://neurips.cc/virtual/2026/poster/151059	included	组合题先验初始模型是否对目标子组件有微小优势。
+139798	When Are Multimodal Predictions Biologically Supported? A Diagnostic Evaluation Framework	https://neurips.cc/virtual/2026/poster/139798	included	分开验证共享信号、模态专有信号和混杂。
+139038	When Are Predictions Enough? An Evaluation Protocol for Frozen Expert Composition	https://neurips.cc/virtual/2026/poster/139038	included	冻结专家组合需同时比预测融合和特征融合。
+155762	When Are Semivalue-Based Decisions Identifiable? Robust Data Selection under Utility Ambiguity	https://neurips.cc/virtual/2026/poster/155762	included	选择训练集前验证排序对效用定义是否稳健。
+148618	When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning	https://neurips.cc/virtual/2026/poster/148618	included	按分支可完成性识别何处应信任教师 token。
+151419	When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction	https://neurips.cc/virtual/2026/poster/151419	included	多轮代理监测原目标 token 是否继续影响输出。
+150504	When Attention Collapses: Residual Evidence Modeling for Compositional Inference	https://neurips.cc/virtual/2026/poster/150504	included	组合对象槽跟踪尚未解释的输入残差。
+154919	When Attribution Patching Lies: Diagnosis and a Second-Order Correction	https://neurips.cc/virtual/2026/poster/154919	included	梯度归因筛查后只对高非线性组件重算。
+154058	When a Window Is Not an Action: Selective Phase-Script Deliberation for Sliding-Window Human Activity Recognition	https://neurips.cc/virtual/2026/poster/154058	excluded	细粒度运动识别的择窗机制在摘要中缺少通用迁移对照。
+151023	When a Zero-Shooter Cheats: Improving Age Estimation via Activation Steering	https://neurips.cc/virtual/2026/poster/151023	included	年龄或属性估计分开测记忆身份和实际视觉证据。
+154553	When Can Digital Personas Reliably Approximate Human Survey Findings?	https://neurips.cc/virtual/2026/poster/154553	included	合成受访者在问题与群体两个层级分别校验。
+150457	When Catastrophic Inheritance Meets Forgetting in Continual Adaptation of Foundation Models	https://neurips.cc/virtual/2026/poster/150457	excluded	预训练噪声影响有潜力，摘要未给独立的 ABC 机制证据。
+151914	When Confidence Rises Too Early: Detecting Shortcut Reasoning via Premature Answer Commitment	https://neurips.cc/virtual/2026/poster/151914	included	通过中途答案置信轨迹检测提前定答案。
+153537	When Copying Is Hard: Copy-Constrained Decoding for Exact Span Reproduction	https://neurips.cc/virtual/2026/poster/153537	included	精确引文和代码片段使用复制约束而非自由生成。
+154779	When Debate Helps: Proposal Supply and Verification-Aware Readout in Multi-Agent Reasoning	https://neurips.cc/virtual/2026/poster/154779	included	多代理讨论分开优化候选多样性和评审采信。
+139413	When Depth Lies: Benchmarking Vision-Language Models on Mirror-Induced RGB-D Ambiguity	https://neurips.cc/virtual/2026/poster/139413	included	在反射表面上检查深度是否对应真实实体。
+139731	When Do Cosine Prototypes Mislead? A Whitening-Aware Benchmark for Frozen-Feature Image Classification	https://neurips.cc/virtual/2026/poster/139731	included	冻结特征评测同时报告余弦与白化分类。
+151493	When Does Fine-Tuning Extract Stored Knowledge? A Relation-Covering Theory for One-Layer Transformers	https://neurips.cc/virtual/2026/poster/151493	included	知识微调的数据覆盖应按关系而不仅按事实。
+150617	When Does Flow Matching Help Deterministic Multimodal Prediction: A Spatial Transcriptomics Study	https://neurips.cc/virtual/2026/poster/150617	excluded	主要在空间转录任务测流监督，未提取生物功能推断细节。
+139414	When Does Graph Retrieval Become Answer-Supporting Evidence? A Diagnostic Audit of GraphRAG	https://neurips.cc/virtual/2026/poster/139414	included	图检索评价独立记录证据检出和实际回答使用。
+150132	When Does Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning	https://neurips.cc/virtual/2026/poster/150132	included	低容量模仿策略重点比较交互采样与价值估计的组合。
+152959	When Does Knowing the State Help? Diagnosing Process vs. Outcome Reward Design	https://neurips.cc/virtual/2026/poster/152959	included	用状态带来的额外预测力决定过程奖是否有必要。
+152207	When does LeJEPA learn a World Model?	https://neurips.cc/virtual/2026/poster/152207	included	潜变量可恢复性应在已知生成机制下与预测性能分开验证。
+153281	When Does Non-Uniform Replay Matter in Reinforcement Learning?	https://neurips.cc/virtual/2026/poster/153281	included	采样数据少时才优先优化回放分布
+153869	When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon	https://neurips.cc/virtual/2026/poster/153869	excluded	主要是不可实现条件下的模仿学习理论，摘要未给重点模型的对照。
+149453	When Does Sequential Detection Collapse to a Scalar? A Necessary and Sufficient Characterisation	https://neurips.cc/virtual/2026/poster/149453	excluded	主要是序贯检测标量化理论及网络数据验证。
+155626	When Does Structure Help? Statistical Tradeoffs for Structured Reverse Processes in Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/155626	included	扩散词元结构先决定放训练目标还是推理引导
+154943	When Does Subspace Direction Matter for LoRA? Regime Analysis of the Magnitude Principle in Few-Shot Adaptation	https://neurips.cc/virtual/2026/poster/154943	included	少样本 LoRA 按任务和原子空间对齐度决定是否调方向
+148205	When does the noise schedule matter? A spectral classification of diffusion training objectives	https://neurips.cc/virtual/2026/poster/148205	excluded	摘要未列目标、代理和时刻采样之间具体可复用选型条件。
+148630	When Does Trimming Help Conformal Prediction? A Retained-Law Diagnostic under Calibration Contamination	https://neurips.cc/virtual/2026/poster/148630	excluded	主要为污染校准的条件定理，摘要未给重点模型设置。
+150594	When Do Learned State Representations Break Sensitivity Analysis?	https://neurips.cc/virtual/2026/poster/150594	excluded	摘要未说明哪些表示手段构成可直接重用的诊断。
+153823	When Do Multi-Agent Systems Help? An Information Bottleneck Perspective	https://neurips.cc/virtual/2026/poster/153823	included	多智能体通信压缩看基座能否自行提取有用证据
+150204	When do Prophets Profit in Prediction Markets?	https://neurips.cc/virtual/2026/poster/150204	excluded	主要为预测市场交易设置。
+148762	When Dynamics Shift, Robust Task Inference Wins: Offline Imitation Learning with Behavior Foundation Models Revisited	https://neurips.cc/virtual/2026/poster/148762	excluded	摘要未展开鲁棒任务推断的独立机制条件。
+149583	When Edge Independence Fails: Joint Graph Diffusion with Latent Sociability Priors	https://neurips.cc/virtual/2026/poster/149583	excluded	主要在生成图结构验证，未单列重点场景证据。
+139586	When Empathy Misses the Goal: A Benchmark for Goal Displacement in LLM Advice	https://neurips.cc/virtual/2026/poster/139586	excluded	主要为建议对话价值审计，摘要未给技术干预结果。
+150247	When Everyone Can Submit: Designing Contests with Transparent Pre-Selection	https://neurips.cc/virtual/2026/poster/150247	excluded	主要为竞赛短名单机制理论。
+150923	When evolution cheats: Frozen-weights Baselines reveal static-solvers interference in evolved plastic spiking neural networks	https://neurips.cc/virtual/2026/poster/150923	excluded	主要面向演化的可塑脉冲网络，摘要未核对重点场景广度。
+151259	When Expert Disagreement Hurts: Auditing Prestige-Sensitive Revision in LLM Decision Pipelines	https://neurips.cc/virtual/2026/poster/151259	included	专家复核提示随机化其声望或身份
+154219	When Form Changes but Logic Doesn’t: Building Logic-invariant LLMs through Structures	https://neurips.cc/virtual/2026/poster/154219	excluded	摘要未明确逻辑结构转换的独立实现和对照。
+151872	When Further Realization Is Unnecessary: Amortized Reasoning for Long-Horizon LLM Agents	https://neurips.cc/virtual/2026/poster/151872	included	稳定状态复用推理产物并设整流程回退
+156112	When Graph Anomalies Learn to Hide: Test-Time Cloaking in Graph-Level Anomaly Detection	https://neurips.cc/virtual/2026/poster/156112	excluded	核心包含规避检测攻击，摘要未独立展示非操作性防御方案边界。
+155258	When Graph Structure Provably Helps Classification: Non-Asymptotic Recovery Guarantees	https://neurips.cc/virtual/2026/poster/155258	excluded	主要是图分类恢复理论，缺少重点实证。
+139854	When Guessing is Rewarded: Rethinking Language Model Evaluation with Distributional Uncertainty Scoring	https://neurips.cc/virtual/2026/poster/139854	included	多选评估对完整概率分布评分。
+140070	When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models	https://neurips.cc/virtual/2026/poster/140070	excluded	概念文章提出迎合的边界和分类，未验证独立技术机制。
+152371	When Integral Meets Decomposition: A Signal-Level Self-Supervised Feature Decompose Paradigm for Multi-Modal Image Fusion	https://neurips.cc/virtual/2026/poster/152371	included	多源图像融合先在信号级学习分解。
+148838	When Is Rank-1 Steering Cheap? Geometry, Granularity, and Budgeted Search	https://neurips.cc/virtual/2026/poster/148838	included	对局部秩一编辑评实际搜索预算。
+152041	When is Warmstarting Effective for Scaling Language Models?	https://neurips.cc/virtual/2026/poster/152041	included	扩宽预训练不要用改后即时性能作唯一筛选。
+149375	When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/149375	included	文本压视觉先检查视觉 token 冗余。
+155544	When Latents Forget Pixels: Restoring Fidelity in Diffusion Transformer Super-Resolution	https://neurips.cc/virtual/2026/poster/155544	included	超分扩散保留压 VAE 前的像素证据。
+153967	When Less is More: The LLM Scaling Paradox in Context Compression	https://neurips.cc/virtual/2026/poster/153967	included	上下文压缩测语义忠实和可恢复性。
+148797	When LLM Routers Overpay: Strong-Model Over-Selection under Loose Budgets	https://neurips.cc/virtual/2026/poster/148797	included	模型路由以实际成本和相对能力学排序。
+155608	When LLMs Know but Fail to Reason: Injecting Memory for Reasoning Enhancement	https://neurips.cc/virtual/2026/poster/155608	included	推理失败区分缺知识与已有记忆未参与。
+139493	When Medical VLMs Stop Understanding: MedTEC-Bench for Probing Semantic Specificity	https://neurips.cc/virtual/2026/poster/139493	included	医疗 VLM 按语义具体度分级验。
+150747	When Metropolis and Hastings Meet Bradley and Terry: Exact MCMC From Preference Voting	https://neurips.cc/virtual/2026/poster/150747	included	只有成对偏好时仍可设计可证条件采样。
+153640	When Must AI Training Stage Checkpoints? A Distributional Model of Durability Boundaries at Scale	https://neurips.cc/virtual/2026/poster/153640	included	按争用与尾时延定位首个持久检查点边界。
+156014	When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling	https://neurips.cc/virtual/2026/poster/156014	included	伪标长尾训练同步调特征和分群阈值。
+148594	When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding	https://neurips.cc/virtual/2026/poster/148594	included	并行编码按依赖内聚做任务划分。
+152350	When Poison Meets Structure: Topology-based Defense against Poisoning Attack on Graph-based Retrieval-Augmented Generation	https://neurips.cc/virtual/2026/poster/152350	included	GraphRAG 防御检查证据子图是否有可信外围支持。
+152992	When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152992	included	冻结离线策略组合时先限与原策略的 KL。
+155843	When Policy Entropy Constraint Fails: Preserving Diversity in Flow-based RLHF via Perceptual Entropy	https://neurips.cc/virtual/2026/poster/155843	included	流式 RLHF 多样性约束应看感知空间熵。
+150889	When Prompt Internalization Breaks: Continuous Experience Internalization in Large Language Models	https://neurips.cc/virtual/2026/poster/150889	included	多轮经验写回先区分共识与冲突。
+155439	When Prompts Override Vision: Instruction-Induced Hallucinations in LVLMs	https://neurips.cc/virtual/2026/poster/155439	included	幻觉测试需要区分图像诱因和文本指令先验。
+155285	When Reasoning Meets Its Laws	https://neurips.cc/virtual/2026/poster/155285	excluded	摘要将复杂度代理与多项缩放规律结合，未给独立适用边界。
+152080	When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds	https://neurips.cc/virtual/2026/poster/152080	included	流形数据的训练路径使用合法测地插值。
+151380	When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors	https://neurips.cc/virtual/2026/poster/151380	included	安全训练应测试自然拒答比固定字符串是否更耐后续微调。
+155754	When Sanitization Becomes the Trigger: Defense-Triggered Backdoor Attacks	https://neurips.cc/virtual/2026/poster/155754	excluded	以被动防护触发的后门为主，未提取攻击机制。
+151343	When Scores Conflict with Preferences: Calibrated Drift Control for Heterogeneous DPO	https://neurips.cc/virtual/2026/poster/151343	included	偏好 DPO 选对前测打分和偏好的方向冲突。
+154558	When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents	https://neurips.cc/virtual/2026/poster/154558	included	代理经验在临时状态验证后才写入长期记忆。
+154389	When Should LLMs Be Less Specific? Selective Abstraction for Reliable Long-Form Text Generation	https://neurips.cc/virtual/2026/poster/154389	included	不确定的长文论断可选择降细节而非全答或全拒。
+139169	When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents	https://neurips.cc/virtual/2026/poster/139169	included	工具仿真按观测、动作、元数据、状态转移四处做随机化。
+139510	When Stored Evidence Stops Being Usable: Scale-Conditioned Evaluation of Agent Memory	https://neurips.cc/virtual/2026/poster/139510	included	长期记忆报告预算内可靠性随规模变化。
+154760	When Streaming Fails: Dynamic Algorithms for Unconstrained Submodular Maximization	https://neurips.cc/virtual/2026/poster/154760	excluded	次模动态算法成本结论较专门，缺少核心任务实践。
+151337	When Symbol Names Should Not Matter: A Logistic Theory of Fresh-Symbol Classification	https://neurips.cc/virtual/2026/poster/151337	included	用全新符号测试分类器是否仅学模板。
+151892	When the Merge Coefficient Stops Mattering: Proximity Regularized Merging for Continual LoRA Adaptation	https://neurips.cc/virtual/2026/poster/151892	included	适配训练时约束更新，使其本身可合并。
+139243	When the Most Disruptive Messages Are Safe to Prune in Aggregate: Functional Analysis of Communication Pruning in Two-Agent LLM Systems	https://neurips.cc/virtual/2026/poster/139243	included	通信剪枝分别测单消息与批量去除。
+148761	When the Same Coefficients Reach Different Places: Asymmetric Realizability in Transplanting Tokenizers across Large Language Models	https://neurips.cc/virtual/2026/poster/148761	excluded	以跨分词器的恶意构造为重点，不提取操作细节。
+153763	When Think-with-Image Meets Safety: What Determines Multimodal Jailbreak Robustness?	https://neurips.cc/virtual/2026/poster/153763	included	多模态防护需按非交互和工具辅助的具体流程验证。
+152014	When to Adopt Model Updates	https://neurips.cc/virtual/2026/poster/152014	included	上游模型升级应在下游实际使用的表征基上检查差异。
+149570	When to Align, When to Predict: A Phase Diagram for Multimodal Learning	https://neurips.cc/virtual/2026/poster/149570	included	多模态任务选择对齐或联合预测前分析共享干扰。
+150069	When to Inject the Target: Stage-Decoupled Guidance for Diffusion-Based Targeted Adversarial Attacks	https://neurips.cc/virtual/2026/poster/150069	excluded	论文聚焦定向对抗攻击，未保留相关机制。
+150327	When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models	https://neurips.cc/virtual/2026/poster/150327	included	检测分布变化时区分会破坏性能的变化和无害变化。
+151106	When to Trust Memory: Retrieval-Guided Probabilistic Spatiotemporal Forecasting under Distribution Shift	https://neurips.cc/virtual/2026/poster/151106	excluded	按检索适配概率预测有潜力，摘要未给可以区别具体条件的独立机制。
+155733	When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation	https://neurips.cc/virtual/2026/poster/155733	included	跟踪只在失稳时启动额外验证和重建
+149652	When Transcriptomic Foundation Models Scale: Domain-Focused Pretraining for Drug Development in Immunology and Inflammation	https://neurips.cc/virtual/2026/poster/149652	excluded	主要为转录组模型和药物开发，未单列安全通用验证。
+148990	When Uncertainty Is the Target: Adversarial Attacks on Uncertainty-Aware Predictors	https://neurips.cc/virtual/2026/poster/148990	excluded	核心是干预不确定性预测的攻击，未给独立非操作性的防护。
+155204	When, Where, What: Structural Guarantees for Travel Time Prediction on Temporal Graphs	https://neurips.cc/virtual/2026/poster/155204	excluded	主要为铁路物流数据结构专项，缺乏相关迁移。
+155917	Where and When Identity Forms: Identity-Vital Attention Redistribution for Training-Free Subject-Driven Generation	https://neurips.cc/virtual/2026/poster/155917	excluded	摘要主要给身份注意定位及任务效果，未隔离空间和时间条件。
+148425	Where Are MLLMs Looking When They Hallucinate? Mitigating Visual Hallucination via Gaze Steering	https://neurips.cc/virtual/2026/poster/148425	excluded	摘要未给纠正注意的独立机制以及验证边界。
+151558	Where Does Warm-Up Come From? Adaptive Scheduling for Norm-Constrained Optimizers	https://neurips.cc/virtual/2026/poster/151558	included	有范数约束的优化器按训练信号选预热
+148457	Where Do Long Captions Fail? Position-Aware Diagnosis and Reinforcement Learning for Detailed Image Captioning	https://neurips.cc/virtual/2026/poster/148457	included	长图说按陈述位置各测证据
+139722	Where Do We (Not) Need Temporal Context in Low-Resource Video Task Adaptation?	https://neurips.cc/virtual/2026/poster/139722	excluded	摘要未列具体哪些任务需要跨帧模块的对照结果。
+149239	Where Reusable Computation Becomes Detectable: Solution-Frame Path Triage for Modular-Arithmetic Grokking	https://neurips.cc/virtual/2026/poster/149239	excluded	主要在模加机制验证，摘要未给其他推理模型上的证据。
+139698	Where Root Cause Analysis Fails: A Retrieval-Reranking Decomposition	https://neurips.cc/virtual/2026/poster/139698	included	根因检索系统分别测召回和重排
+148371	Where Should Society Draw the Line? A Social Choice Approach to Collective Consent	https://neurips.cc/virtual/2026/poster/148371	excluded	主要为公共同意的社会选择理论。
+139799	Where Tabular Foundation Models Falter on Genetic Data: Datasets That Expose and Provide a Path to Address the Gap	https://neurips.cc/virtual/2026/poster/139799	excluded	主要为遗传数据和医疗模型，未有安全通用验证。
+153022	Where to Approximate in Neurosymbolic Inference?	https://neurips.cc/virtual/2026/poster/153022	included	神经符号任务判断近似主要用于训练还是推理
+153232	Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers	https://neurips.cc/virtual/2026/poster/153232	excluded	与动态选层的既有洞见相近，摘要未展示额外独立机制。
+154361	Where to Look Is Not How to Fix: Pre-Denoising Diagnostics and Modality-Dependent Control in Diffusion Composition	https://neurips.cc/virtual/2026/poster/154361	excluded	摘要未详细给可复核的控制方式和任务适用边界。
+150657	Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning	https://neurips.cc/virtual/2026/poster/150657	excluded	主要在医疗图像做专项子区采样，摘要未给通用验证。
+153460	Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback	https://neurips.cc/virtual/2026/poster/153460	excluded	资料与定位训练组合，摘要未报告作用的独立实证。
+155128	Where You Backpropagate Matters: Token Hypothesis for Memory-Efficient Fine-Tuning	https://neurips.cc/virtual/2026/poster/155128	included	微调可只为部分 token 保留反传激活
+150544	Which Pairs Should We Compare for DPO?	https://neurips.cc/virtual/2026/poster/150544	excluded	主要为偏好比较理论目标，摘要未给实用对照。
 151199	Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation	https://neurips.cc/virtual/2026/poster/151199	pending	-
 153430	Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video LLMs	https://neurips.cc/virtual/2026/poster/153430	pending	-
 138989	Who Called? V33DA: A Physically Verified Multimodal Benchmark for Vocal Attribution in Zebra Finch Groups	https://neurips.cc/virtual/2026/poster/138989	pending	-

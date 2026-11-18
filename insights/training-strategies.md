@@ -1044,5 +1044,15 @@
 - [What Cohort INRs Encode, and Where to Freeze Them](../conferences/neurips-2026/cards-0012.md#paper-154524)
 - [What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models](../conferences/neurips-2026/cards-0012.md#paper-149806)
 - [What Stops SGD on LLM Pre-Training: The Need for Large Learning Rate and How to Achieve it](../conferences/neurips-2026/cards-0012.md#paper-148165)
+- [When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning](../conferences/neurips-2026/cards-0012.md#paper-148618)
+- [When Does Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning](../conferences/neurips-2026/cards-0012.md#paper-150132)
+- [When Does Subspace Direction Matter for LoRA? Regime Analysis of the Magnitude Principle in Few-Shot Adaptation](../conferences/neurips-2026/cards-0012.md#paper-154943)
+- [When Integral Meets Decomposition: A Signal-Level Self-Supervised Feature Decompose Paradigm for Multi-Modal Image Fusion](../conferences/neurips-2026/cards-0012.md#paper-152371)
+- [When is Warmstarting Effective for Scaling Language Models?](../conferences/neurips-2026/cards-0012.md#paper-152041)
+- [When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling](../conferences/neurips-2026/cards-0012.md#paper-156014)
+- [When Prompt Internalization Breaks: Continuous Experience Internalization in Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-150889)
+- [When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors](../conferences/neurips-2026/cards-0012.md#paper-151380)
+- [When the Merge Coefficient Stops Mattering: Proximity Regularized Merging for Continual LoRA Adaptation](../conferences/neurips-2026/cards-0012.md#paper-151892)
+- [Where Does Warm-Up Come From? Adaptive Scheduling for Norm-Constrained Optimizers](../conferences/neurips-2026/cards-0012.md#paper-151558)
 
 <!-- conference-classification:end -->

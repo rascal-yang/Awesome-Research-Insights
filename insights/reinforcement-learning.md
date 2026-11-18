@@ -793,5 +793,10 @@
 - [VSPO: Vector-Steered Policy Optimization for Controllable Model Behavior](../conferences/neurips-2026/cards-0012.md#paper-154454)
 - [What are Key Factors for Updates in RL for LLM Reasoning?](../conferences/neurips-2026/cards-0012.md#paper-155041)
 - [What Makes Two States the Same? Value-Aware State Matching for Multi-Turn Agent Credit Assignment](../conferences/neurips-2026/cards-0012.md#paper-152187)
+- [When Are Compositional Problems Learnable from Verifiable Rewards?](../conferences/neurips-2026/cards-0012.md#paper-151059)
+- [When Does Non-Uniform Replay Matter in Reinforcement Learning?](../conferences/neurips-2026/cards-0012.md#paper-153281)
+- [When Policy Entropy Constraint Fails: Preserving Diversity in Flow-based RLHF via Perceptual Entropy](../conferences/neurips-2026/cards-0012.md#paper-155843)
+- [When Prompts Override Vision: Instruction-Induced Hallucinations in LVLMs](../conferences/neurips-2026/cards-0012.md#paper-155439)
+- [Where Do Long Captions Fail? Position-Aware Diagnosis and Reinforcement Learning for Detailed Image Captioning](../conferences/neurips-2026/cards-0012.md#paper-148457)
 
 <!-- conference-classification:end -->

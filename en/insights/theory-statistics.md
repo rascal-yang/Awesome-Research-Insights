@@ -1179,5 +1179,11 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Weighted Conformal Clustering](../../conferences/neurips-2026/cards-0012.md#paper-150203)
 - [Weighted Sampling for Online Causal Discovery](../../conferences/neurips-2026/cards-0012.md#paper-149926)
 - [What Is Worth Representing? Representational Empowerment for Continual Model Construction](../../conferences/neurips-2026/cards-0012.md#paper-149925)
+- [What Was That Again? Certified Robustness for Automatic Speech Recognition](../../conferences/neurips-2026/cards-0012.md#paper-148192)
+- [When Actions Matter: Causal Affordances for Long-Horizon Credit Assignment in World Models](../../conferences/neurips-2026/cards-0012.md#paper-155260)
+- [When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning](../../conferences/neurips-2026/cards-0012.md#paper-155803)
+- [When Does Fine-Tuning Extract Stored Knowledge? A Relation-Covering Theory for One-Layer Transformers](../../conferences/neurips-2026/cards-0012.md#paper-151493)
+- [When does LeJEPA learn a World Model?](../../conferences/neurips-2026/cards-0012.md#paper-152207)
+- [When to Align, When to Predict: A Phase Diagram for Multimodal Learning](../../conferences/neurips-2026/cards-0012.md#paper-149570)
 
 <!-- conference-classification:end -->

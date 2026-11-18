@@ -1311,5 +1311,11 @@
 - [Weird Generalization from Narrow Finetuning: Persona Shifts and Inductive Backdoors](../conferences/neurips-2026/cards-0012.md#paper-154050)
 - [Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs](../conferences/neurips-2026/cards-0012.md#paper-152026)
 - [Weisfeiler-Leman Is Incomplete on Simple Spectrum Graphs, so Canonicalize Them](../conferences/neurips-2026/cards-0012.md#paper-150655)
+- [When and How to Canonize: a Generalization Perspective](../conferences/neurips-2026/cards-0012.md#paper-151406)
+- [When Further Realization Is Unnecessary: Amortized Reasoning for Long-Horizon LLM Agents](../conferences/neurips-2026/cards-0012.md#paper-151872)
+- [When Latents Forget Pixels: Restoring Fidelity in Diffusion Transformer Super-Resolution](../conferences/neurips-2026/cards-0012.md#paper-155544)
+- [When Poison Meets Structure: Topology-based Defense against Poisoning Attack on Graph-based Retrieval-Augmented Generation](../conferences/neurips-2026/cards-0012.md#paper-152350)
+- [Where to Approximate in Neurosymbolic Inference?](../conferences/neurips-2026/cards-0012.md#paper-153022)
+- [Where You Backpropagate Matters: Token Hypothesis for Memory-Efficient Fine-Tuning](../conferences/neurips-2026/cards-0012.md#paper-155128)
 
 <!-- conference-classification:end -->

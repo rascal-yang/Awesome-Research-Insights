@@ -916,5 +916,6 @@ Robot perception, policy learning, planning, and control.
 - [VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](../../conferences/neurips-2026/cards-0012.md#paper-155119)
 - [VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation](../../conferences/neurips-2026/cards-0012.md#paper-152277)
 - [What Probing Reveals about Autonomous Driving: Better Predictions Lead to Better Planning](../../conferences/neurips-2026/cards-0012.md#paper-153263)
+- [When and What to Prune?  Stage-Aware Visual Token Pruning for Efficient VLA](../../conferences/neurips-2026/cards-0012.md#paper-151346)
 
 <!-- conference-classification:end -->

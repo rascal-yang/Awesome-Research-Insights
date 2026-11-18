@@ -557,3 +557,83 @@
 | 视觉与多模态 | 记忆与检索 | [What Should a Streaming Video Model Remember?](cards-0012.md#paper-149000) | 流媒体接收固定容量的可选择历史 |
 | 大语言模型 | 训练与优化 | [What Stops SGD on LLM Pre-Training: The Need for Large Learning Rate and How to Achieve it](cards-0012.md#paper-148165) | 大批互联网语言预训练评估可稳定高学习率的 SGD |
 | 机器学习基础与统计 | 生成与扩散 | [What Time Is It? How Data Geometry Makes Time Conditioning Optional for Flow Matching](cards-0012.md#paper-154392) | 流匹配先查耦合再增时间条件 |
+| 大语言模型 | 评测与诊断 | [What to Forget in Unlearning? Forget Set Curation for Language Models](cards-0012.md#paper-154627) | 遗忘评估把目标集合视作变量。 |
+| 机器学习理论 | 调度 | [What to Predict for Efficient Scheduling on Parallel Machines](cards-0012.md#paper-156036) | 学习增强排程优先预测相对顺序。 |
+| 智能体与工具使用 | 记忆机制 | [What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents](cards-0012.md#paper-149905) | 代理存可用摘要并控制精确隐私值可见性。 |
+| 大语言模型 | 架构设计 | [What Transformer FFNs Never See: Theory, Diagnosis, and Lightweight Remediation](cards-0012.md#paper-153020) | FFN 前保留少量注意路由统计。 |
+| 多模态学习 | 不确定性估计 | [What Was That Again? Certified Robustness for Automatic Speech Recognition](cards-0012.md#paper-148192) | ASR 认证允许随证据增量提前停。 |
+| 计算机视觉 | 表征学习 | [What, Where, and Boundary: Hierarchical Cognitive Decomposition for Echocardiography Video Segmentation](cards-0012.md#paper-151545) | 动态分割拆部件识别、位置和边界。 |
+| 强化学习 | 世界模型 | [When Actions Matter: Causal Affordances for Long-Horizon Credit Assignment in World Models](cards-0012.md#paper-155260) | 在世界模型中识别真正影响后续奖励的动作。 |
+| 强化学习 | 约束优化 | [When Alignment Fails: Stabilizing Cross-Dynamics RL with Prototype Trust Regions](cards-0012.md#paper-152611) | 跨动态迁移固定慢更新协方差锚。 |
+| 智能体与工具使用 | 搜索与规划 | [When All Paths Lead to Dead End: Deadlock-Depth-guided Monte Carlo Tree Search for Reentrant Blocking Hybrid Flow Shops](cards-0012.md#paper-153226) | 搜索所有候选都失败时按失败出现深度排序。 |
+| 多模态学习 | 世界模型 | [When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning](cards-0012.md#paper-155803) | 空间推理先判当前观测是否充足再调用想象。 |
+| 深度学习 | 等变性 | [When and How to Canonize: a Generalization Perspective](cards-0012.md#paper-151406) | 对称规范化前评规范映射正则性。 |
+| 具身智能与机器人 | 剪枝与稀疏化 | [When and What to Prune?  Stage-Aware Visual Token Pruning for Efficient VLA](cards-0012.md#paper-151346) | VLA 剪枝按动作推理阶段分配。 |
+| 深度学习 | 优化算法 | [When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective](cards-0012.md#paper-152854) | 物理网络的对抗训练先诊断 NTK 动态。 |
+| 智能体与工具使用 | 评测与诊断 | [When and Why Does Multi-Agent Debate Fail and Does It Really Underperform?](cards-0012.md#paper-153203) | 多代理辩论保留有信息的异议。 |
+| 深度学习 | 优化算法 | [When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\ell_1$-norm Lower Bounds](cards-0012.md#paper-152200) | 比较符号更新前匹配所需的梯度范数。 |
+| 大语言模型 | 强化学习 | [When Are Compositional Problems Learnable from Verifiable Rewards?](cards-0012.md#paper-151059) | 组合题先验初始模型是否对目标子组件有微小优势。 |
+| 多模态学习 | 评测与诊断 | [When Are Multimodal Predictions Biologically Supported? A Diagnostic Evaluation Framework](cards-0012.md#paper-139798) | 分开验证共享信号、模态专有信号和混杂。 |
+| 多模态学习 | 评测与诊断 | [When Are Predictions Enough? An Evaluation Protocol for Frozen Expert Composition](cards-0012.md#paper-139038) | 冻结专家组合需同时比预测融合和特征融合。 |
+| 机器学习基础与统计 | 数据策略 | [When Are Semivalue-Based Decisions Identifiable? Robust Data Selection under Utility Ambiguity](cards-0012.md#paper-155762) | 选择训练集前验证排序对效用定义是否稳健。 |
+| 大语言模型 | 训练策略 | [When Are Teacher Tokens Reliable? Position-Weighted On-Policy Self-Distillation for Reasoning](cards-0012.md#paper-148618) | 按分支可完成性识别何处应信任教师 token。 |
+| 大语言模型 | 评测与诊断 | [When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction](cards-0012.md#paper-151419) | 多轮代理监测原目标 token 是否继续影响输出。 |
+| 机器学习基础与统计 | 模型架构 | [When Attention Collapses: Residual Evidence Modeling for Compositional Inference](cards-0012.md#paper-150504) | 组合对象槽跟踪尚未解释的输入残差。 |
+| 大语言模型 | 评测与诊断 | [When Attribution Patching Lies: Diagnosis and a Second-Order Correction](cards-0012.md#paper-154919) | 梯度归因筛查后只对高非线性组件重算。 |
+| 计算机视觉 | 评测与诊断 | [When a Zero-Shooter Cheats: Improving Age Estimation via Activation Steering](cards-0012.md#paper-151023) | 年龄或属性估计分开测记忆身份和实际视觉证据。 |
+| 大语言模型 | 评测与诊断 | [When Can Digital Personas Reliably Approximate Human Survey Findings?](cards-0012.md#paper-154553) | 合成受访者在问题与群体两个层级分别校验。 |
+| 大语言模型 | 评测与诊断 | [When Confidence Rises Too Early: Detecting Shortcut Reasoning via Premature Answer Commitment](cards-0012.md#paper-151914) | 通过中途答案置信轨迹检测提前定答案。 |
+| 大语言模型 | 推理策略 | [When Copying Is Hard: Copy-Constrained Decoding for Exact Span Reproduction](cards-0012.md#paper-153537) | 精确引文和代码片段使用复制约束而非自由生成。 |
+| 大语言模型 | 推理策略 | [When Debate Helps: Proposal Supply and Verification-Aware Readout in Multi-Agent Reasoning](cards-0012.md#paper-154779) | 多代理讨论分开优化候选多样性和评审采信。 |
+| 多模态学习 | 评测与诊断 | [When Depth Lies: Benchmarking Vision-Language Models on Mirror-Induced RGB-D Ambiguity](cards-0012.md#paper-139413) | 在反射表面上检查深度是否对应真实实体。 |
+| 计算机视觉 | 评测与诊断 | [When Do Cosine Prototypes Mislead? A Whitening-Aware Benchmark for Frozen-Feature Image Classification](cards-0012.md#paper-139731) | 冻结特征评测同时报告余弦与白化分类。 |
+| 大语言模型 | 理论与统计 | [When Does Fine-Tuning Extract Stored Knowledge? A Relation-Covering Theory for One-Layer Transformers](cards-0012.md#paper-151493) | 知识微调的数据覆盖应按关系而不仅按事实。 |
+| 大语言模型 | 评测与诊断 | [When Does Graph Retrieval Become Answer-Supporting Evidence? A Diagnostic Audit of GraphRAG](cards-0012.md#paper-139414) | 图检索评价独立记录证据检出和实际回答使用。 |
+| 强化学习 | 训练策略 | [When Does Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning](cards-0012.md#paper-150132) | 低容量模仿策略重点比较交互采样与价值估计的组合。 |
+| 大语言模型 | 评测与诊断 | [When Does Knowing the State Help? Diagnosing Process vs. Outcome Reward Design](cards-0012.md#paper-152959) | 用状态带来的额外预测力决定过程奖是否有必要。 |
+| 机器学习基础与统计 | 理论与统计 | [When does LeJEPA learn a World Model?](cards-0012.md#paper-152207) | 潜变量可恢复性应在已知生成机制下与预测性能分开验证。 |
+| 强化学习与决策 | 强化学习与奖励 | [When Does Non-Uniform Replay Matter in Reinforcement Learning?](cards-0012.md#paper-153281) | 采样数据少时才优先优化回放分布 |
+| 大语言模型 | 生成与扩散 | [When Does Structure Help? Statistical Tradeoffs for Structured Reverse Processes in Diffusion Large Language Models](cards-0012.md#paper-155626) | 扩散词元结构先决定放训练目标还是推理引导 |
+| 大语言模型 | 训练与优化 | [When Does Subspace Direction Matter for LoRA? Regime Analysis of the Magnitude Principle in Few-Shot Adaptation](cards-0012.md#paper-154943) | 少样本 LoRA 按任务和原子空间对齐度决定是否调方向 |
+| 智能体 | 评测与诊断 | [When Do Multi-Agent Systems Help? An Information Bottleneck Perspective](cards-0012.md#paper-153823) | 多智能体通信压缩看基座能否自行提取有用证据 |
+| 智能体 | 评测与诊断 | [When Expert Disagreement Hurts: Auditing Prestige-Sensitive Revision in LLM Decision Pipelines](cards-0012.md#paper-151259) | 专家复核提示随机化其声望或身份 |
+| 智能体 | 效率与系统 | [When Further Realization Is Unnecessary: Amortized Reasoning for Long-Horizon LLM Agents](cards-0012.md#paper-151872) | 稳定状态复用推理产物并设整流程回退 |
+| 大语言模型 | 评测与诊断 | [When Guessing is Rewarded: Rethinking Language Model Evaluation with Distributional Uncertainty Scoring](cards-0012.md#paper-139854) | 多选评估对完整概率分布评分。 |
+| 多模态学习 | 自监督学习 | [When Integral Meets Decomposition: A Signal-Level Self-Supervised Feature Decompose Paradigm for Multi-Modal Image Fusion](cards-0012.md#paper-152371) | 多源图像融合先在信号级学习分解。 |
+| 大语言模型 | 优化算法 | [When Is Rank-1 Steering Cheap? Geometry, Granularity, and Budgeted Search](cards-0012.md#paper-148838) | 对局部秩一编辑评实际搜索预算。 |
+| 大语言模型 | 训练策略 | [When is Warmstarting Effective for Scaling Language Models?](cards-0012.md#paper-152041) | 扩宽预训练不要用改后即时性能作唯一筛选。 |
+| 多模态学习 | 表征学习 | [When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models](cards-0012.md#paper-149375) | 文本压视觉先检查视觉 token 冗余。 |
+| 生成模型 | 图像恢复 | [When Latents Forget Pixels: Restoring Fidelity in Diffusion Transformer Super-Resolution](cards-0012.md#paper-155544) | 超分扩散保留压 VAE 前的像素证据。 |
+| 大语言模型 | 记忆机制 | [When Less is More: The LLM Scaling Paradox in Context Compression](cards-0012.md#paper-153967) | 上下文压缩测语义忠实和可恢复性。 |
+| 智能体与工具使用 | 模型路由 | [When LLM Routers Overpay: Strong-Model Over-Selection under Loose Budgets](cards-0012.md#paper-148797) | 模型路由以实际成本和相对能力学排序。 |
+| 大语言模型 | 可解释性 | [When LLMs Know but Fail to Reason: Injecting Memory for Reasoning Enhancement](cards-0012.md#paper-155608) | 推理失败区分缺知识与已有记忆未参与。 |
+| 多模态学习 | 评测与诊断 | [When Medical VLMs Stop Understanding: MedTEC-Bench for Probing Semantic Specificity](cards-0012.md#paper-139493) | 医疗 VLM 按语义具体度分级验。 |
+| 机器学习理论 | 采样与推理 | [When Metropolis and Hastings Meet Bradley and Terry: Exact MCMC From Preference Voting](cards-0012.md#paper-150747) | 只有成对偏好时仍可设计可证条件采样。 |
+| 模型效率与系统 | 调度 | [When Must AI Training Stage Checkpoints? A Distributional Model of Durability Boundaries at Scale](cards-0012.md#paper-153640) | 按争用与尾时延定位首个持久检查点边界。 |
+| 计算机视觉 | 半监督学习 | [When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling](cards-0012.md#paper-156014) | 伪标长尾训练同步调特征和分群阈值。 |
+| 智能体与工具使用 | 搜索与规划 | [When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding](cards-0012.md#paper-148594) | 并行编码按依赖内聚做任务划分。 |
+| 智能体与工具使用 | 模型鲁棒性 | [When Poison Meets Structure: Topology-based Defense against Poisoning Attack on Graph-based Retrieval-Augmented Generation](cards-0012.md#paper-152350) | GraphRAG 防御检查证据子图是否有可信外围支持。 |
+| 强化学习 | 约束优化 | [When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning](cards-0012.md#paper-152992) | 冻结离线策略组合时先限与原策略的 KL。 |
+| 生成模型 | 奖励设计 | [When Policy Entropy Constraint Fails: Preserving Diversity in Flow-based RLHF via Perceptual Entropy](cards-0012.md#paper-155843) | 流式 RLHF 多样性约束应看感知空间熵。 |
+| 大语言模型 | 知识蒸馏 | [When Prompt Internalization Breaks: Continuous Experience Internalization in Large Language Models](cards-0012.md#paper-150889) | 多轮经验写回先区分共识与冲突。 |
+| 多模态学习 | 偏好优化 | [When Prompts Override Vision: Instruction-Induced Hallucinations in LVLMs](cards-0012.md#paper-155439) | 幻觉测试需要区分图像诱因和文本指令先验。 |
+| 机器学习基础与统计 | 模型架构 | [When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds](cards-0012.md#paper-152080) | 流形数据的训练路径使用合法测地插值。 |
+| 大语言模型 | 训练策略 | [When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors](cards-0012.md#paper-151380) | 安全训练应测试自然拒答比固定字符串是否更耐后续微调。 |
+| 大语言模型 | 优化 | [When Scores Conflict with Preferences: Calibrated Drift Control for Heterogeneous DPO](cards-0012.md#paper-151343) | 偏好 DPO 选对前测打分和偏好的方向冲突。 |
+| 大语言模型 | 推理策略 | [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](cards-0012.md#paper-154558) | 代理经验在临时状态验证后才写入长期记忆。 |
+| 大语言模型 | 推理策略 | [When Should LLMs Be Less Specific? Selective Abstraction for Reliable Long-Form Text Generation](cards-0012.md#paper-154389) | 不确定的长文论断可选择降细节而非全答或全拒。 |
+| 大语言模型 | 数据策略 | [When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents](cards-0012.md#paper-139169) | 工具仿真按观测、动作、元数据、状态转移四处做随机化。 |
+| 大语言模型 | 评测与诊断 | [When Stored Evidence Stops Being Usable: Scale-Conditioned Evaluation of Agent Memory](cards-0012.md#paper-139510) | 长期记忆报告预算内可靠性随规模变化。 |
+| 机器学习基础与统计 | 评测与诊断 | [When Symbol Names Should Not Matter: A Logistic Theory of Fresh-Symbol Classification](cards-0012.md#paper-151337) | 用全新符号测试分类器是否仅学模板。 |
+| 大语言模型 | 训练策略 | [When the Merge Coefficient Stops Mattering: Proximity Regularized Merging for Continual LoRA Adaptation](cards-0012.md#paper-151892) | 适配训练时约束更新，使其本身可合并。 |
+| 大语言模型 | 评测与诊断 | [When the Most Disruptive Messages Are Safe to Prune in Aggregate: Functional Analysis of Communication Pruning in Two-Agent LLM Systems](cards-0012.md#paper-139243) | 通信剪枝分别测单消息与批量去除。 |
+| 多模态学习 | 评测与诊断 | [When Think-with-Image Meets Safety: What Determines Multimodal Jailbreak Robustness?](cards-0012.md#paper-153763) | 多模态防护需按非交互和工具辅助的具体流程验证。 |
+| 机器学习基础与统计 | 评测与诊断 | [When to Adopt Model Updates](cards-0012.md#paper-152014) | 上游模型升级应在下游实际使用的表征基上检查差异。 |
+| 多模态学习 | 理论与统计 | [When to Align, When to Predict: A Phase Diagram for Multimodal Learning](cards-0012.md#paper-149570) | 多模态任务选择对齐或联合预测前分析共享干扰。 |
+| 机器学习基础与统计 | 评测与诊断 | [When to Trust a PFN: Detecting Harmful Shift in Tabular Foundation Models](cards-0012.md#paper-150327) | 检测分布变化时区分会破坏性能的变化和无害变化。 |
+| 视觉与多模态 | 模型与架构 | [When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation](cards-0012.md#paper-155733) | 跟踪只在失稳时启动额外验证和重建 |
+| 机器学习基础与统计 | 训练与优化 | [Where Does Warm-Up Come From? Adaptive Scheduling for Norm-Constrained Optimizers](cards-0012.md#paper-151558) | 有范数约束的优化器按训练信号选预热 |
+| 视觉与多模态 | 强化学习与奖励 | [Where Do Long Captions Fail? Position-Aware Diagnosis and Reinforcement Learning for Detailed Image Captioning](cards-0012.md#paper-148457) | 长图说按陈述位置各测证据 |
+| 智能体 | 评测与诊断 | [Where Root Cause Analysis Fails: A Retrieval-Reranking Decomposition](cards-0012.md#paper-139698) | 根因检索系统分别测召回和重排 |
+| 机器学习基础与统计 | 效率与系统 | [Where to Approximate in Neurosymbolic Inference?](cards-0012.md#paper-153022) | 神经符号任务判断近似主要用于训练还是推理 |
+| 大语言模型 | 效率与系统 | [Where You Backpropagate Matters: Token Hypothesis for Memory-Efficient Fine-Tuning](cards-0012.md#paper-155128) | 微调可只为部分 token 保留反传激活 |

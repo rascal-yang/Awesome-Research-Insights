@@ -810,5 +810,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Variational Wasserstein Model on Riemannian Manifolds for Image Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-148294)
 - [Verifying Neural Networks with Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-152311)
 - [Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along](../../conferences/neurips-2026/cards-0012.md#paper-152359)
+- [When Alignment Fails: Stabilizing Cross-Dynamics RL with Prototype Trust Regions](../../conferences/neurips-2026/cards-0012.md#paper-152611)
+- [When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective](../../conferences/neurips-2026/cards-0012.md#paper-152854)
+- [When and Why SignSGD Outperforms SGD: A Theoretical Study Based on $\ell_1$-norm Lower Bounds](../../conferences/neurips-2026/cards-0012.md#paper-152200)
+- [When Is Rank-1 Steering Cheap? Geometry, Granularity, and Budgeted Search](../../conferences/neurips-2026/cards-0012.md#paper-148838)
+- [When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-152992)
+- [When Scores Conflict with Preferences: Calibrated Drift Control for Heterogeneous DPO](../../conferences/neurips-2026/cards-0012.md#paper-151343)
 
 <!-- conference-classification:end -->

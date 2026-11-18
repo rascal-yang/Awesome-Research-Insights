@@ -661,5 +661,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery](../../conferences/neurips-2026/cards-0012.md#paper-148562)
 - [What Arranges Features in Activation Space?  Non-Classical Predictive Geometry in Next-Token Predictors](../../conferences/neurips-2026/cards-0012.md#paper-148855)
 - [What Can Labels Alone Audit and Edit in Frozen Representations?](../../conferences/neurips-2026/cards-0012.md#paper-155411)
+- [What, Where, and Boundary: Hierarchical Cognitive Decomposition for Echocardiography Video Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-151545)
+- [When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models](../../conferences/neurips-2026/cards-0012.md#paper-149375)
 
 <!-- conference-classification:end -->

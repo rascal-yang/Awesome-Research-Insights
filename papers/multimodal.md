@@ -1129,5 +1129,18 @@
 - [What MLLMs Learn about When they Learn about Multimodal Reasoning](../conferences/neurips-2026/cards-0012.md#paper-154858)
 - [What’s Holding Back Latent Visual Reasoning?](../conferences/neurips-2026/cards-0012.md#paper-148503)
 - [What Should a Streaming Video Model Remember?](../conferences/neurips-2026/cards-0012.md#paper-149000)
+- [What Was That Again? Certified Robustness for Automatic Speech Recognition](../conferences/neurips-2026/cards-0012.md#paper-148192)
+- [When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning](../conferences/neurips-2026/cards-0012.md#paper-155803)
+- [When Are Multimodal Predictions Biologically Supported? A Diagnostic Evaluation Framework](../conferences/neurips-2026/cards-0012.md#paper-139798)
+- [When Are Predictions Enough? An Evaluation Protocol for Frozen Expert Composition](../conferences/neurips-2026/cards-0012.md#paper-139038)
+- [When Depth Lies: Benchmarking Vision-Language Models on Mirror-Induced RGB-D Ambiguity](../conferences/neurips-2026/cards-0012.md#paper-139413)
+- [When Integral Meets Decomposition: A Signal-Level Self-Supervised Feature Decompose Paradigm for Multi-Modal Image Fusion](../conferences/neurips-2026/cards-0012.md#paper-152371)
+- [When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-149375)
+- [When Medical VLMs Stop Understanding: MedTEC-Bench for Probing Semantic Specificity](../conferences/neurips-2026/cards-0012.md#paper-139493)
+- [When Prompts Override Vision: Instruction-Induced Hallucinations in LVLMs](../conferences/neurips-2026/cards-0012.md#paper-155439)
+- [When Think-with-Image Meets Safety: What Determines Multimodal Jailbreak Robustness?](../conferences/neurips-2026/cards-0012.md#paper-153763)
+- [When to Align, When to Predict: A Phase Diagram for Multimodal Learning](../conferences/neurips-2026/cards-0012.md#paper-149570)
+- [When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation](../conferences/neurips-2026/cards-0012.md#paper-155733)
+- [Where Do Long Captions Fail? Position-Aware Diagnosis and Reinforcement Learning for Detailed Image Captioning](../conferences/neurips-2026/cards-0012.md#paper-148457)
 
 <!-- conference-classification:end -->

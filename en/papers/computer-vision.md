@@ -1229,5 +1229,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [WebSpline: Structure-Informed Splines for Real-Time 3D Gaussians from Monocular Videos](../../conferences/neurips-2026/cards-0012.md#paper-151135)
 - [What Cohort INRs Encode, and Where to Freeze Them](../../conferences/neurips-2026/cards-0012.md#paper-154524)
 - [What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models](../../conferences/neurips-2026/cards-0012.md#paper-149806)
+- [What, Where, and Boundary: Hierarchical Cognitive Decomposition for Echocardiography Video Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-151545)
+- [When a Zero-Shooter Cheats: Improving Age Estimation via Activation Steering](../../conferences/neurips-2026/cards-0012.md#paper-151023)
+- [When Do Cosine Prototypes Mislead? A Whitening-Aware Benchmark for Frozen-Feature Image Classification](../../conferences/neurips-2026/cards-0012.md#paper-139731)
+- [When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling](../../conferences/neurips-2026/cards-0012.md#paper-156014)
 
 <!-- conference-classification:end -->

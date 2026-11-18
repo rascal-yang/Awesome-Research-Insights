@@ -430,5 +430,7 @@
 - [VoluCore: Spanning Teacher Representations with Volumetric Coresets for Data-Efficient LLM Distillation](../conferences/neurips-2026/cards-0012.md#paper-155942)
 - [VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness](../conferences/neurips-2026/cards-0012.md#paper-138997)
 - [Wayfinder: Adaptive Resource Routing from Agent Citations](../conferences/neurips-2026/cards-0012.md#paper-148786)
+- [When Are Semivalue-Based Decisions Identifiable? Robust Data Selection under Utility Ambiguity](../conferences/neurips-2026/cards-0012.md#paper-155762)
+- [When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents](../conferences/neurips-2026/cards-0012.md#paper-139169)
 
 <!-- conference-classification:end -->

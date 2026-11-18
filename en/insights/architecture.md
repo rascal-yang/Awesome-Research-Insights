@@ -636,5 +636,9 @@ Model-wide design and information flow.
 - [VTV-FM: Flow Matching through Variational Terminal-Velocity Closure](../../conferences/neurips-2026/cards-0012.md#paper-152736)
 - [WaveMamba: Wave-Inspired Cross-Modal Fusion for Robust event-image Semantic Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-151756)
 - [What Comes Next and Why: Interpretable Next-Event Prediction with Neuro-Symbolic Rules](../../conferences/neurips-2026/cards-0012.md#paper-155030)
+- [What Transformer FFNs Never See: Theory, Diagnosis, and Lightweight Remediation](../../conferences/neurips-2026/cards-0012.md#paper-153020)
+- [When Attention Collapses: Residual Evidence Modeling for Compositional Inference](../../conferences/neurips-2026/cards-0012.md#paper-150504)
+- [When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds](../../conferences/neurips-2026/cards-0012.md#paper-152080)
+- [When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-155733)
 
 <!-- conference-classification:end -->

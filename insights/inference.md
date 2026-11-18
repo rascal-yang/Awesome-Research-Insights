@@ -1521,5 +1521,16 @@
 - [WebNavigator: Global Web Navigation via Interaction Graph Retrieval](../conferences/neurips-2026/cards-0012.md#paper-154891)
 - [What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching](../conferences/neurips-2026/cards-0012.md#paper-154141)
 - [What Time Is It? How Data Geometry Makes Time Conditioning Optional for Flow Matching](../conferences/neurips-2026/cards-0012.md#paper-154392)
+- [What to Predict for Efficient Scheduling on Parallel Machines](../conferences/neurips-2026/cards-0012.md#paper-156036)
+- [When All Paths Lead to Dead End: Deadlock-Depth-guided Monte Carlo Tree Search for Reentrant Blocking Hybrid Flow Shops](../conferences/neurips-2026/cards-0012.md#paper-153226)
+- [When and What to Prune?  Stage-Aware Visual Token Pruning for Efficient VLA](../conferences/neurips-2026/cards-0012.md#paper-151346)
+- [When Copying Is Hard: Copy-Constrained Decoding for Exact Span Reproduction](../conferences/neurips-2026/cards-0012.md#paper-153537)
+- [When Debate Helps: Proposal Supply and Verification-Aware Readout in Multi-Agent Reasoning](../conferences/neurips-2026/cards-0012.md#paper-154779)
+- [When Does Structure Help? Statistical Tradeoffs for Structured Reverse Processes in Diffusion Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-155626)
+- [When Metropolis and Hastings Meet Bradley and Terry: Exact MCMC From Preference Voting](../conferences/neurips-2026/cards-0012.md#paper-150747)
+- [When Must AI Training Stage Checkpoints? A Distributional Model of Durability Boundaries at Scale](../conferences/neurips-2026/cards-0012.md#paper-153640)
+- [When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding](../conferences/neurips-2026/cards-0012.md#paper-148594)
+- [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](../conferences/neurips-2026/cards-0012.md#paper-154558)
+- [When Should LLMs Be Less Specific? Selective Abstraction for Reliable Long-Form Text Generation](../conferences/neurips-2026/cards-0012.md#paper-154389)
 
 <!-- conference-classification:end -->

@@ -746,5 +746,10 @@ Learning from interaction, feedback, and offline experience.
 - [VIGOR: Zero-Shot Visual Generalization via Latent-Space Consistency in Model-Based Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-153294)
 - [Virtual Double Oracle: Faster Convergence by Leveraging Strategies That Were Watching All Along](../../conferences/neurips-2026/cards-0012.md#paper-152359)
 - [What Is Worth Representing? Representational Empowerment for Continual Model Construction](../../conferences/neurips-2026/cards-0012.md#paper-149925)
+- [When Actions Matter: Causal Affordances for Long-Horizon Credit Assignment in World Models](../../conferences/neurips-2026/cards-0012.md#paper-155260)
+- [When Alignment Fails: Stabilizing Cross-Dynamics RL with Prototype Trust Regions](../../conferences/neurips-2026/cards-0012.md#paper-152611)
+- [When Does Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning](../../conferences/neurips-2026/cards-0012.md#paper-150132)
+- [When Does Non-Uniform Replay Matter in Reinforcement Learning?](../../conferences/neurips-2026/cards-0012.md#paper-153281)
+- [When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-152992)
 
 <!-- conference-classification:end -->

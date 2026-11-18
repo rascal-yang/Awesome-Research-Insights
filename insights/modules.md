@@ -487,5 +487,8 @@
 - [VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models](../conferences/neurips-2026/cards-0012.md#paper-155119)
 - [V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models](../conferences/neurips-2026/cards-0012.md#paper-154969)
 - [What Should a Streaming Video Model Remember?](../conferences/neurips-2026/cards-0012.md#paper-149000)
+- [What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents](../conferences/neurips-2026/cards-0012.md#paper-149905)
+- [When Less is More: The LLM Scaling Paradox in Context Compression](../conferences/neurips-2026/cards-0012.md#paper-153967)
+- [When LLM Routers Overpay: Strong-Model Over-Selection under Loose Budgets](../conferences/neurips-2026/cards-0012.md#paper-148797)
 
 <!-- conference-classification:end -->
