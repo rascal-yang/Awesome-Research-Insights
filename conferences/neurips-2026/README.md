@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **218** 篇，暂收录 **178** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **317** 篇，暂收录 **271** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -186,3 +186,96 @@
 | 统计学习 | 函数回归 | [A Deep Learning Framework for Scalar-on-Function Models](cards.md#paper-148580) | 采样曲线做回归时分别检查离散网格误差和截断误差。 |
 | 机器学习系统 | 无损通信 | [AdERA: Adaptive Exponent Reuse for Lossless Allgather in Sharded MoE Training](cards.md#paper-152302) | 先量化跨步指数重复率，再按每层通信收益选择是否压缩。 |
 | 多智能体学习 | 协作评测 | [Ad-Hoc Teamwork from Human Demonstrations](cards.md#paper-148597) | 用多个潜惯例构造评测队友，检查单一代理下的排序是否稳定。 |
+| 多模态 | 诊断评测 | [A Diagnostic Benchmark for Layered Layout and Template-Variant Reasoning](cards.md#paper-139592) | 将图层与模板变体拆开评测 |
+| 三维视觉 | 图监督 | [A Differentiable 3D Scene Graph Metric via Contextual Hellinger Triplet Geometry](cards.md#paper-149490) | 在训练中计量关系结构偏差 |
+| 优化 | 可微求解 | [A Differentiable Interior-Point Method in Single Precision](cards.md#paper-151819) | 低精度求解时改变互补条件表示 |
+| 语言模型 | 数据配比 | [ADIS-Law: Unified Scaling Laws for Annealing-Phase Domain Injection in Large Language Models](cards.md#paper-150412) | 用拟合规律联合选注入量配比与学习率 |
+| 强化学习 | 公平决策 | [A Distribution Mapping Approach to Counterfactually Fair Reinforcement Learning](cards.md#paper-149942) | 策略学习前做分位数反事实校正 |
+| 语言模型 | 生成控制 | [AdKnob: Ad Intensity Control and Labeling for LLM-Native Advertising](cards.md#paper-150097) | 将生成强度与输出归因分开评估 |
+| 语言模型 | 缓存压缩 | [ADKV: A Low-Overhead Adaptive Delta Quantization for KV Cache in LLM Inference](cards.md#paper-150885) | 用在线元数据替代固定分组 |
+| Agent | 记忆审计 | [ADMIT: Support-Gated Memory-Write Admission for Document QA Agents](cards.md#paper-155533) | 审计写入与最终回答两个界面 |
+| 优化 | 分布式训练 | [A Doubly Smoothed Decentralized Stochastic Minimax Optimization Algorithm](cards.md#paper-152790) | 让原始与对偶变量共享学习率量级 |
+| 计算机视觉 | 三维重建 | [AdpSplit: Error-Driven Adaptive Splitting for Faster Geometry Discovery in 3D Gaussian Splatting](cards.md#paper-152835) | 按高误差区域决定高斯增密数量 |
+| 多模态 | 视频评测 | [AdShot: Benchmarking Multimodal Large Language Models for Video Advertisement Clipping](cards.md#paper-139508) | 单独约束生成时长和内容保留 |
+| 计算机视觉 | 位置编码 | [A Dual-Domain Vision Transformer with Spectral Positional Bias](cards.md#paper-151216) | 用频谱位置偏置支持变分辨率 |
+| 生成模型 | 训练加速 | [Advanced Routing as Regularization Allocation for Efficient Diffusion Transformer Training](cards.md#paper-152568) | 按去噪噪声级分配 token 跳层 |
+| 多模态 | 偏好学习 | [Advancing Affordance-Grounded Creative Tool Use in Large Multimodal Models](cards.md#paper-153231) | 用证据约束物体部件的用途推理 |
+| 强化学习 | 信用分配 | [Advancing Entropy-Level Credit Assignment in RLVR via Proximal Entropy Policy Optimization](cards.md#paper-150862) | 用局部熵而非全局熵给 token 分配优势 |
+| 计算机视觉 | 视频生成 | [Advancing Narrative Long Video Generation via Training-Free Identity-Aware Memory](cards.md#paper-152023) | 长期跨提示生成时追踪显式实体身份 |
+| 科学机器学习 | 神经算子 | [Advectra: Asymmetric Latent Transport for Non-Stationary Physics](cards.md#paper-148631) | 在随流坐标系中编码平流场 |
+| 科学机器学习 | 鲁棒学习 | [Adversarial Attack and Defense for Machine Learning in Statistical Physics](cards.md#paper-153887) | 约束模型在物理合理局部的输出变化 |
+| 强化学习 | 公平评测 | [Adversarial Group Fairness in Contextual Bandits: When Robust is Not Fair](cards.md#paper-152720) | 独立监测群体遗憾与整体指标 |
+| 语言模型 | 规划评测 | [Adversarially Attacking Symbolic Vocabulary Vulnerabilities In LLM Planners](cards.md#paper-154285) | 测规划能力对等价符号改名的稳定性 |
+| 优化 | 分布式训练 | [Adversary-Robust Learning from Fully Asynchronous Directional Derivative Estimates](cards.md#paper-154942) | 异步环境使用方向投影符号更新 |
+| 语言模型 | 裁判防护 | [AdvJudge-Zero: Binary Decision Flips in LLM-as-a-Judge via Adversarial Control Tokens](cards.md#paper-150552) | 按不同失败形态覆盖防护训练样本 |
+| 学习理论 | 循环策略 | [A dynamical systems theory of reward-modulated learning in linear recurrent networks](cards.md#paper-151421) | 按任务时域选循环规模 |
+| 优化 | 多目标搜索 | [A Dynamic Decomposition Strategy for the MOEA/D With Proven Performance Guarantees](cards.md#paper-151518) | 搜索中更新目标分解 |
+| 生成模型 | 推理缓存 | [AEGIS: Adaptive Efficient Generative Inference Scheduling for Structured Latent Models](cards.md#paper-155172) | 按样本难度和累计复用偏差刷新缓存 |
+| 强化学习 | 离线安全 | [AEGIS: Almost Surely Safe Offline Reinforcement Learning](cards.md#paper-152975) | 让同一策略消费多种可行安全预算 |
+| 生成模型 | 路径约束 | [AegisFlow: Training-free Non-myopic Path-safe Guided Flow Matching](cards.md#paper-149715) | 在全轨迹目标中加入时变屏障 |
+| 联邦学习 | 隐私防护 | [Aegis: Generative Gradient Masking for Privacy-Preserving Medical Federated Learning](cards.md#paper-148730) | 在客户端更新附加合成样本贡献 |
+| Agent | 信用分配 | [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](cards.md#paper-154854) | 按完整响应的熵信号调节优势 |
+| 计算机视觉 | 动态世界模型 | [AEON: Unifying Video and 3D World Models](cards.md#paper-148481) | 让视频生成潜变量输出持久可渲染三维状态 |
+| 语言模型 | 主动标注 | [AERO: Adaptive Ensemble-Disagreement Routing for Oracle Feedback in Sample-Efficient Online RLHF](cards.md#paper-153918) | 用奖励模型分歧路由人工反馈 |
+| 科学机器学习 | 状态估计 | [AeroChem: Closed-loop Physics-Informed State Space Modeling for Long-term Chemically-Reactive Air Quality Forecasting](cards.md#paper-153606) | 每步校正物理状态并把后验送回模拟 |
+| 科学机器学习 | 时空融合 | [AeroMosaic:Transport-Aware Multimodal Evidence Fusion for Atmospheric Pollution Risk Inference](cards.md#paper-154525) | 按风向构建每日有向依赖 |
+| 多模态 | 评价学习 | [AesGI-Bench: Benchmarking and Evaluating the Aesthetic Quality of AI-Generated Images via Large Multimodal Models](cards.md#paper-138910) | 从含平局的配对偏好学多维分数 |
+| 科学机器学习 | 诊断评测 | [AET-Bench: Pixel-Accurate Atomic Tomography Is Not Atom-Accurate](cards.md#paper-139587) | 以原子召回等任务指标选断层重建模型 |
+| 强化学习 | 多目标优化 | [AETDICE: Unified Framework and Offline Optimization for Nonlinear Multi-Objective RL](cards.md#paper-150928) | 显式区分聚合、期望和变换的顺序 |
+| 因果推断 | 图算法 | [A Faster Algorithm for the Half-Trek Criterion in Structural Causal Models](cards.md#paper-152110) | 用等价边级判据加速可识别性检查 |
+| 生成模型 | 采样 | [A Favorable Regime Between ODE and SDE for Few-Step Diffusion Sampling](cards.md#paper-152991) | 少步生成选择有界且中等扩散强度的驱动 |
+| 大语言模型 / Agent | 示范采样 | [A Few Teacher Steps Go a Long Way: Cost-Efficient On-Policy Data Augmentation for Agent Post-Training](cards.md#paper-150832) | 在学生到达的状态采样短教师续写。 |
+| 模型可靠性 | 形式化验证 | [Affine-Image Propagation for Tight and Scalable $\ell_{2}$ Neural Network Verification](cards.md#paper-150286) | 在层间传播仿射几何，减少欧氏扰动集放松带来的损失。 |
+| 优化 / 理论 | 二阶优化 | [Affine-invariant Cubic Newton with Weak Learners](cards.md#paper-150741) | 用优化路径的方向质量评价弱学习器的二阶步。 |
+| 概率建模 | 数值线性代数 | [Affine Tracing: A New Paradigm for Probabilistic Linear Solvers](cards.md#paper-150970) | 将迭代求解器自动转换成可传播不确定性的仿射迭代。 |
+| 自动机器学习 | 架构搜索 | [Agentic Neural Architecture Search](cards.md#paper-154949) | 让语言模型输出可替换模块槽，再由搜索算法局部优化。 |
+| 多模态 / 检索 | 按需解析 | [AgenticOCR: Parsing Only What You Need for Efficient Retrieval-Augmented Generation](cards.md#paper-153107) | 检索后只解析与查询相关的视觉区域。 |
+| 多模态 / Agent | 工作流评测 | [AgenticVBench: Can AI Agents Complete Real-World Video Production Tasks?](cards.md#paper-139672) | 将程序化检查与专家质评结合评估视频生产。 |
+| 自动机器学习 | 代码性能评测 | [AgentKernelArena: Benchmarking Performance and Generalization of AI Coding Agents on GPU Kernels Optimization](cards.md#paper-139376) | 先验证编译和数值正确性，再测未见配置的速度。 |
+| 大语言模型 / Agent | 推理缓存 | [AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems](cards.md#paper-155404) | 按结构化记忆单元校正复用的 KV 缓存。 |
+| 机器人学 | 数据生成 | [AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation](cards.md#paper-139222) | 按后续动作需要的接触区域采样抓取。 |
+| 优化 | 非光滑优化 | [A Frank-Wolfe Approach to Goldstein Stationarity](cards.md#paper-150421) | 需要随时停止时，输出精度单调改进的驻点序列。 |
+| 大语言模型 | 剪枝重建 | [A Free Lunch in LLM Compression: Revisiting Retraining after Pruning](cards.md#paper-150765) | 重建窗口至少覆盖一个非线性子模块。 |
+| 多模态学习 | 表征解释 | [A General Concept-based Decomposition for Vision–Language Embeddings](cards.md#paper-151861) | 以样本间关系监督概念分解。 |
+| 计算机视觉 | 光谱重建 | [A General Filter-Enhanced Approach to Smartphone Hyperspectral Imaging](cards.md#paper-149649) | 以互补物理滤光片改善多相机的可观测性。 |
+| 图学习 | 可解释传播 | [A Generalized Tikhonov Layer for Interpretable-by-design Graph Neural Networks](cards.md#paper-148963) | 用节点保真权重和拓扑滤波响应解释信息来源。 |
+| 概率建模 | 核方法 | [A general kernel framework for non-CND distance measures using $&#124;\mathcal{D}&#124;$-dimensional sparse landmark embeddings](cards.md#paper-153150) | 将非 CND 距离先映射到稀疏特征。 |
+| Agent | 隐私评测 | [A Generative Model of Contextual Integrity: Appropriate vs. Inappropriate Information Sharing](cards.md#paper-148966) | 同时测阻止不当披露与允许合规共享。 |
+| Agent | 研发评测 | [Agent$^2$ RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?](cards.md#paper-139513) | 固定实验预算，分开测监督训练及在线强化学习。 |
+| Agent | 训练反馈 | [Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback](cards.md#paper-155447) | 以交互式执行验证生成的符号世界模型。 |
+| Agent | 拒绝评测 | [AgentAbstain: Do LLM Agents Know When Not to Act?](cards.md#paper-139558) | 构造同任务的应执行与应拒绝成对变体。 |
+| 大语言模型 / Agent | 过程蒸馏 | [AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent](cards.md#paper-149790) | 以训练期蒸馏替换部署时的多智能体过程。 |
+| Agent / 评测 | 过程诊断 | [AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation](cards.md#paper-138951) | 将测试通过率与轨迹质量分开 |
+| Agent / 安全 | 防御控制 | [Agent MechSuits : Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents](cards.md#paper-154113) | 把风险监测放进多轮执行过程 |
+| Agent / 安全 | 故障评测 | [Agent Meltdowns: The Road to Hell Is Paved with Helpful Agents](cards.md#paper-151325) | 把普通环境故障纳入安全回归 |
+| Agent / 评测 | 持续学习 | [AgentOdyssey: Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents](cards.md#paper-148896) | 把部署中学到的知识与初始能力分开测 |
+| Agent / 可靠性 | 故障归因 | [AgenTracer-v2: Agentic Failure Tracer for LLM Agentic Systems](cards.md#paper-153890) | 对超长日志进行主动检索和分步归因 |
+| Agent / 系统 | 并发协作 | [AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace](cards.md#paper-148882) | 共享状态上增加归属和进度广播 |
+| 软件工程 | 静态分析 | [Agents as Neuro-Symbolic Reasoners: Path Feasibility Reasoning for Precise Static Bug Detection](cards.md#paper-153256) | 以局部符号推理验证静态告警 |
+| Agent / 安全 | 系统隔离 | [Agent Security is a Systems Problem](cards.md#paper-140106) | 在模型外强制权限边界 |
+| Agent / 评测 | 工作流考核 | [Agents' Last Exam](cards.md#paper-139517) | 用可核验结果测整段专业工作流 |
+| Agent / 机器学习 | 半监督搜索 | [AgentSSL: Can MLE Agents Leverage Unlabeled Data?](cards.md#paper-154115) | 在标签不足时单测 Agent 能否利用无标签数据 |
+| 推荐系统 | 长尾排序 | [AgentTailor: Dual-Gate LLM-Assisted Re-ranking for Personalized Long-Tail Recommendation](cards.md#paper-154386) | 分开测候选召回与长尾重排 |
+| Agent / 安全 | 监测学习 | [Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning](cards.md#paper-152173) | 从历史监测经验训练行为监督器 |
+| 多模态 / Agent | 评测构造 | [AgentVista: Evaluating Multimodal Agent in Ultra-Challenging Realistic Visual Scenarios](cards.md#paper-153463) | 要求工具决策引用细粒度视觉证据 |
+| Agent / 系统 | 推理调度 | [AgentWeave: Efficient Distributed Agent Serving via Flow Decomposition](cards.md#paper-151244) | 按工作流模块区分流水气泡与请求阻塞 |
+| 强化学习 | 预条件优化 | [A Geometric Perspective on Reward Function Updates in Inverse Reinforcement Learning](cards.md#paper-149606) | 用占用分布几何构造奖励更新预条件 |
+| 图机器学习 | 表征诊断 | [Aggregation Dispersion: An Information-Geometric Diagnostic of Oversmoothing in Graph Neural Networks](cards.md#paper-154195) | 用传播分布的几何离散度测过平滑 |
+| 强化学习 | 多智能体激励 | [AGiR: Mitigating Gift Over-Reliance in Mixed-Motive Games](cards.md#paper-154175) | 允许按状态拒绝部分转移奖励 |
+| 学习理论 | 不可实现性分析 | [Agnostic Language Identification and Generation](cards.md#paper-148502) | 按数据可能不属于任何候选语言重定义目标 |
+| 学习理论 | 选择性预测 | [Agnostic Online Learning with Reliable Abstention](cards.md#paper-152256) | 同时优化总误判与随机样本上的弃权 |
+| 图机器学习 | 无监督迁移 | [A Graph Foundation Model for Unified Clustering](cards.md#paper-154668) | 预训练同时兼顾节点与图级信息 |
+| 机器学习评测 | 选择偏差 | [Agreement without Coverage: Conditional Agreement is Non-Identifying in Variable-Support Structured Extraction](cards.md#paper-152893) | 一致率同时报告覆盖、召回与输出规模 |
+| 多模态学习 | 融合校准 | [Agree to Disagree: Multimodal Autonomous Negotiation and Calibration for Entity Representation Learning](cards.md#paper-151043) | 保留模态独有残差后再按证据融合 |
+| 优化 | 最优传输 | [A Grid Efficient Transport Optimization Model for the Wasserstein Barycenter Problem](cards.md#paper-153536) | 网格支持下改用精确紧凑线性规划 |
+| 强化学习 | 泛化评测 | [AgriManager: A Framework and Benchmark for LLM-RL Generalization in Agricultural Management](cards.md#paper-139010) | 单独测观测、动作与奖励接口变化 |
+| 多模态学习 | 尺度诊断 | [AgroOmni: A Large-Scale Multi-view Agricultural Dataset for Cross-Scale Multimodal Reasoning](cards.md#paper-139411) | 将近景、无人机和卫星样本分层测语义稳定性 |
+| 认知建模 | 可塑记忆 | [A Hebbian Recurrent Neural Network Explains the Hierarchical Geometry of Sequence Memory](cards.md#paper-149363) | 用组内与组间位置分别测试分层记忆机制 |
+| 科学机器学习 | 层级分词 | [A Hierarchical Tokenization Framework for Voxel-Level fMRI Representation Learning](cards.md#paper-153906) | 高压缩率时保留体素局部信息与跨脑区组织 |
+| 世界模型 | 分层预测 | [A Hierarchical World Model for Driving](cards.md#paper-151694) | 用长时粗语义预测约束短时细节 |
+| 机器学习 | 不确定性归因 | [A Hierarchy of Entropy-Shapley Games for Multivariate Predictive Uncertainty](cards.md#paper-153980) | 对边缘不确定性和依赖结构分别归因 |
+| 生成模型 | 训练监督 | [AHPA: Adaptive Hierarchical Prior Alignment for Diffusion Transformers](cards.md#paper-149646) | 根据噪声水平切换对齐粒度 |
+| Agent / 安全 | 防御评测 | [AI Agents May Always Fall for Prompt Injections](cards.md#paper-154053) | 验证模型侧过滤之外的系统权限 |
+| 计算机视觉 / 数据策略 | 主动学习 | [Active Learning as Nullspace Regulation: A Spectral Representation Perspective](cards.md#paper-152553) | 选择跨轮次仍处在标注表示弱覆盖方向的样本。 |
+| 可解释性 | 正则化 | [A Curvature Phase Transition Governs Coherence Penalty Efficiency Against Feature Absorption in SAEs](cards.md#paper-153574) | 根据吸收态附近的分裂曲率选 coherence 惩罚的幂指数。 |
+| 大语言模型 | 稀疏推理 | [AdaCal: Adaptive Calibration for Robust Sparse Attention in Long-Context LLMs](cards.md#paper-155964) | 用轻量探针决定哪些注意力头需要补充远距离覆盖。 |
