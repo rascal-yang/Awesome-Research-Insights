@@ -439,6 +439,7 @@
 - <a id="wen26k-reinforcement-learning"></a>[Contextualized Privacy Defense for LLM Agents](../conferences/icml-2026/cards/4901-5000.md#paper-wen26k)
 - <a id="wu26k-reinforcement-learning"></a>[HumanLM: Simulating Users with State Alignment Beats Response Imitation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26k)
 - <a id="wu26ai-reinforcement-learning"></a>[Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ai)
+- <a id="wu26az-reinforcement-learning"></a>[Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26az)
 
 <a id="by-training-strategies"></a>
 
@@ -1345,6 +1346,7 @@
 - <a id="wu26r-evaluation"></a>[Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs](../conferences/icml-2026/cards/5001-5100.md#paper-wu26r)
 - <a id="wu26ah-evaluation"></a>[Large Language Models Develop Novel Social Biases Through Adaptive Exploration](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ah)
 - <a id="wu26ao-evaluation"></a>[Are Large Reasoning Models Interruptible?](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ao)
+- <a id="wu26bc-evaluation"></a>[Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bc)
 
 <a id="by-theory-statistics"></a>
 
@@ -1408,4 +1410,5 @@
 - <a id="wang26bu-theory-statistics"></a>[Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bu)
 - <a id="weng26a-theory-statistics"></a>[Improved Bounds for Private and Robust Alignment](../conferences/icml-2026/cards/4901-5000.md#paper-weng26a)
 - <a id="wu26au-theory-statistics"></a>[$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](../conferences/icml-2026/cards/5001-5100.md#paper-wu26au)
+- <a id="wu26bl-theory-statistics"></a>[When Data Is Scarce: Scaling Sparse Language Models with Repeated Training](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bl)
 <!-- classification:end -->

@@ -438,6 +438,7 @@
 - <a id="wang26ii-optimization"></a>[FedEBA+: Towards Fair and Effective Federated Learning via Entropy-Based Model](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ii)
 - <a id="wang26is-optimization"></a>[GradPower: Powering Gradients for Faster Language Model Pre-Training](../conferences/icml-2026/cards/4801-4900.md#paper-wang26is)
 - <a id="wei26aj-optimization"></a>[A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization](../conferences/icml-2026/cards/4901-5000.md#paper-wei26aj)
+- <a id="wu26bb-optimization"></a>[Score Correction for Generative Models with Probabilistic Constraints](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bb)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -445,6 +446,7 @@
 
 - <a id="jiang26n-reinforcement-learning"></a>[DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes](../conferences/icml-2026/cards/1901-2000.md#paper-jiang26n)
 - <a id="lee26ac-reinforcement-learning"></a>[RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs](../conferences/icml-2026/cards/2301-2400.md#paper-lee26ac)
+- <a id="wu26bj-reinforcement-learning"></a>[Neural–Evolutionary Symbolic Regression with Global Constraints: Constraint-Aware Decoding and Reward Shaping](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bj)
 
 <a id="by-training-strategies"></a>
 
@@ -1155,4 +1157,6 @@
 - <a id="wu26c-theory-statistics"></a>[Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions](../conferences/icml-2026/cards/5001-5100.md#paper-wu26c)
 - <a id="wu26e-theory-statistics"></a>[Improved Scaling Laws via Weak-to-Strong Generalization in Random Feature Ridge Regression](../conferences/icml-2026/cards/5001-5100.md#paper-wu26e)
 - <a id="wu26av-theory-statistics"></a>[Certifying Capabilities from Finite Tests: When Is It Possible?](../conferences/icml-2026/cards/5001-5100.md#paper-wu26av)
+- <a id="wu26br-theory-statistics"></a>[Trajectory-Aware Certified Decentralized Unlearning via SGD Stability](../conferences/icml-2026/cards/5001-5100.md#paper-wu26br)
+- <a id="wu26bs-theory-statistics"></a>[Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bs)
 <!-- classification:end -->

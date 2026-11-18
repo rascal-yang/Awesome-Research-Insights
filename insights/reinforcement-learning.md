@@ -188,6 +188,7 @@
 - [关键失误上下文中的指导训练](../conferences/icml-2026/cards/4901-5000.md#wen26k-reinforcement-learning) · Contextualized Privacy Defense for LLM Agents
 - [先对齐显式状态再合成响应](../conferences/icml-2026/cards/5001-5100.md#wu26k-reinforcement-learning) · HumanLM: Simulating Users with State Alignment Beats Response Imitation
 - [保持分支语义的并行轨迹训练](../conferences/icml-2026/cards/5001-5100.md#wu26ai-reinforcement-learning) · Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning
+- [按不同答案去频率偏置选伪标签](../conferences/icml-2026/cards/5001-5100.md#wu26az-reinforcement-learning) · Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -461,6 +462,7 @@
 
 - [用发射预测误差信号估计离散状态](../conferences/icml-2026/cards/1901-2000.md#jiang26n-reinforcement-learning) · DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes
 - [只让强化学习策略逐轮修改少量整数变量](../conferences/icml-2026/cards/2301-2400.md#lee26ac-reinforcement-learning) · RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs
+- [用进化精英塑形在策略奖励](../conferences/icml-2026/cards/5001-5100.md#wu26bj-reinforcement-learning) · Neural–Evolutionary Symbolic Regression with Global Constraints: Constraint-Aware Decoding and Reward Shaping
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -188,6 +188,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Contextualized Privacy Defense for LLM Agents](../../conferences/icml-2026/cards/4901-5000.md#wen26k-reinforcement-learning) · 中文
 - [HumanLM: Simulating Users with State Alignment Beats Response Imitation](../../conferences/icml-2026/cards/5001-5100.md#wu26k-reinforcement-learning) · 中文
 - [Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26ai-reinforcement-learning) · 中文
+- [Beyond Majority Voting: Self-Reflective Test-Time Reinforcement Learning for LLM Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26az-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -461,6 +462,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 
 - [DRL-STAF: A Deep Reinforcement Learning Framework for State-Aware Forecasting of Complex Multivariate Hidden Markov Processes](../../conferences/icml-2026/cards/1901-2000.md#jiang26n-reinforcement-learning) · 中文
 - [RL-SPH: Learning to Achieve Feasible Solutions for Integer Linear Programs](../../conferences/icml-2026/cards/2301-2400.md#lee26ac-reinforcement-learning) · 中文
+- [Neural–Evolutionary Symbolic Regression with Global Constraints: Constraint-Aware Decoding and Reward Shaping](../../conferences/icml-2026/cards/5001-5100.md#wu26bj-reinforcement-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

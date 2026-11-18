@@ -429,6 +429,7 @@
 - [公平共享梯度的逐步混入](../conferences/icml-2026/cards/4801-4900.md#wang26ii-optimization) · FedEBA+: Towards Fair and Effective Federated Learning via Entropy-Based Model
 - [有符号幂梯度的噪声依赖选参](../conferences/icml-2026/cards/4801-4900.md#wang26is-optimization) · GradPower: Powering Gradients for Faster Language Model Pre-Training
 - [指数对偶变量的镜像近端更新](../conferences/icml-2026/cards/4901-5000.md#wei26aj-optimization) · A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization
+- [随机变换边际的双对偶score修正](../conferences/icml-2026/cards/5001-5100.md#wu26bb-optimization) · Score Correction for Generative Models with Probabilistic Constraints
 
 <a id="by-graph-and-recommendation"></a>
 

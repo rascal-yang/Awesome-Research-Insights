@@ -452,6 +452,7 @@
 - [跨尺度与位通道选择性擦除](../conferences/icml-2026/cards/4801-4900.md#wang26ix-inference) · ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation
 - [视频LoRA迁移的谱块仲裁](../conferences/icml-2026/cards/4901-5000.md#wang26ll-inference) · Exploring Data-Free LoRA Transferability for Video Diffusion Models
 - [滚动重规划流控制的预算选择](../conferences/icml-2026/cards/4901-5000.md#webber26a-inference) · Solving Inverse Problems with Flow-based Models via Model Predictive Control
+- [投影后的集合多样性引导](../conferences/icml-2026/cards/5001-5100.md#wu26be-inference) · Letting Trajectories Spread: Quality-Preserving Control for Diverse Flow Matching
 
 <a id="by-nlp"></a>
 

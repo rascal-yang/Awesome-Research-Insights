@@ -107,6 +107,7 @@
 - [分频局部Wasserstein失真](../conferences/icml-2026/cards/5001-5100.md#wu26ae-loss-functions) · Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression
 - [首步监督与后续分布蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26ag-loss-functions) · Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis
 - [负样本反射目标的偏好训练](../conferences/icml-2026/cards/5001-5100.md#wu26ay-loss-functions) · PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward
+- [按回报分支施加区域约束](../conferences/icml-2026/cards/5001-5100.md#wu26bm-loss-functions) · CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning
 
 <a id="by-nlp"></a>
 

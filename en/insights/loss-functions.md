@@ -107,6 +107,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression](../../conferences/icml-2026/cards/5001-5100.md#wu26ae-loss-functions) · 中文
 - [Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis](../../conferences/icml-2026/cards/5001-5100.md#wu26ag-loss-functions) · 中文
 - [PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward](../../conferences/icml-2026/cards/5001-5100.md#wu26ay-loss-functions) · 中文
+- [CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#wu26bm-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

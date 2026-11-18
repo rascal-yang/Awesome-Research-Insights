@@ -71,6 +71,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Beyond Heuristic Tuning: Power-Calibrated LLM Watermarking](../../conferences/icml-2026/cards/4601-4700.md#wang26bu-theory-statistics) · 中文
 - [Improved Bounds for Private and Robust Alignment](../../conferences/icml-2026/cards/4901-5000.md#weng26a-theory-statistics) · 中文
 - [$f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses](../../conferences/icml-2026/cards/5001-5100.md#wu26au-theory-statistics) · 中文
+- [When Data Is Scarce: Scaling Sparse Language Models with Repeated Training](../../conferences/icml-2026/cards/5001-5100.md#wu26bl-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -598,6 +599,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions](../../conferences/icml-2026/cards/5001-5100.md#wu26c-theory-statistics) · 中文
 - [Improved Scaling Laws via Weak-to-Strong Generalization in Random Feature Ridge Regression](../../conferences/icml-2026/cards/5001-5100.md#wu26e-theory-statistics) · 中文
 - [Certifying Capabilities from Finite Tests: When Is It Possible?](../../conferences/icml-2026/cards/5001-5100.md#wu26av-theory-statistics) · 中文
+- [Trajectory-Aware Certified Decentralized Unlearning via SGD Stability](../../conferences/icml-2026/cards/5001-5100.md#wu26br-theory-statistics) · 中文
+- [Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting](../../conferences/icml-2026/cards/5001-5100.md#wu26bs-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

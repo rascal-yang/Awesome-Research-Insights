@@ -176,6 +176,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wu26ae-loss-functions"></a>[Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ae)
 - <a id="wu26ag-loss-functions"></a>[Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ag)
 - <a id="wu26ay-loss-functions"></a>[PortraitRL: Reinforcement Learning for Portrait Pose Transfer with Multi-Objective Reward](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ay)
+- <a id="wu26bm-loss-functions"></a>[CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26bm)
 
 <a id="by-optimization"></a>
 
@@ -455,6 +456,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26ix-inference"></a>[ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ix)
 - <a id="wang26ll-inference"></a>[Exploring Data-Free LoRA Transferability for Video Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26ll)
 - <a id="webber26a-inference"></a>[Solving Inverse Problems with Flow-based Models via Model Predictive Control](../../conferences/icml-2026/cards/4901-5000.md#paper-webber26a)
+- <a id="wu26be-inference"></a>[Letting Trajectories Spread: Quality-Preserving Control for Diverse Flow Matching](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26be)
 
 <a id="by-representation-learning"></a>
 

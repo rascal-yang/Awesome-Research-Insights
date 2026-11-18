@@ -342,6 +342,7 @@
 - [分布水印的跨来源独立性压力测试](../conferences/icml-2026/cards/5001-5100.md#wu26r-evaluation) · Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs
 - [序贯探索产生新分配偏差](../conferences/icml-2026/cards/5001-5100.md#wu26ah-evaluation) · Large Language Models Develop Novel Social Biases Through Adaptive Exploration
 - [推理打断与中途更正规则](../conferences/icml-2026/cards/5001-5100.md#wu26ao-evaluation) · Are Large Reasoning Models Interruptible?
+- [表述翻译改善不等于表征融合](../conferences/icml-2026/cards/5001-5100.md#wu26bc-evaluation) · Reasoning Compartmentalization: Bridging the Concretization Gap via Abstraction-based Routing
 
 <a id="by-computer-vision"></a>
 

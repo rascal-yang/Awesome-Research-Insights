@@ -452,6 +452,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation](../../conferences/icml-2026/cards/4801-4900.md#wang26ix-inference) · 中文
 - [Exploring Data-Free LoRA Transferability for Video Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#wang26ll-inference) · 中文
 - [Solving Inverse Problems with Flow-based Models via Model Predictive Control](../../conferences/icml-2026/cards/4901-5000.md#webber26a-inference) · 中文
+- [Letting Trajectories Spread: Quality-Preserving Control for Diverse Flow Matching](../../conferences/icml-2026/cards/5001-5100.md#wu26be-inference) · 中文
 
 <a id="by-nlp"></a>
 
