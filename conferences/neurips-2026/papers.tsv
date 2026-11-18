@@ -3182,66 +3182,66 @@ poster_id	title	paper_url	status	reason
 151501	From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination	https://neurips.cc/virtual/2026/poster/151501	included	用短时累积的脉冲活动驱动延迟全局调制。
 150158	From Cursed to Competitive: Closing the ZO–FO Gap via Input-to-State Stability	https://neurips.cc/virtual/2026/poster/150158	included	用动态扰动稳定性判断零阶估计是否足够。
 150917	From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model	https://neurips.cc/virtual/2026/poster/150917	included	让并行生成器学会重访和更正已有输出。
-150936	From Density Matrices to Phase Transitions in Deep Learning: Spectral Early Warnings and Interpretability	https://neurips.cc/virtual/2026/poster/150936	pending	-
-139099	From Detection to Understanding — A Multi-Task Dataset for Traffic Anomaly Reasoning	https://neurips.cc/virtual/2026/poster/139099	pending	-
-150801	From Document Layout to Causal Topology: An End-to-End Architecture for Temporal Causal Reasoning	https://neurips.cc/virtual/2026/poster/150801	pending	-
-153007	From Expert Knowledge to Optimization Modeling: Prototype-Based Data Synthesis and Logical Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153007	pending	-
-155254	From Experts to Sub-experts: Fine-grained Parameter-Efficient Fine-Tuning for MoE LLMs	https://neurips.cc/virtual/2026/poster/155254	pending	-
-152011	From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/152011	pending	-
-150406	From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation	https://neurips.cc/virtual/2026/poster/150406	pending	-
-148946	From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs	https://neurips.cc/virtual/2026/poster/148946	pending	-
-152020	From Generation to Restoration: Residual Diffusion for Neural Channel Decoding	https://neurips.cc/virtual/2026/poster/152020	pending	-
-149657	From Generic to Dedicated: A Novel Optimizer for Online Continual Learning	https://neurips.cc/virtual/2026/poster/149657	pending	-
-155317	From Groups to Rings: Causal Evidence for Algebraic Decomposition in Grokked Transformers	https://neurips.cc/virtual/2026/poster/155317	pending	-
-151117	From Heartbeat to Cardiochoreography: A Mechanics Foundation Model for Individualized 4D Cardiac Motion Generation Conditioned on Electrophysiology	https://neurips.cc/virtual/2026/poster/151117	pending	-
-154254	From History to State: Constant-Context Skill Learning for LLM Agents	https://neurips.cc/virtual/2026/poster/154254	pending	-
-154407	From Ideas to Code: Tree-structured Policy Optimization for Automated Algorithm Design with LLMs	https://neurips.cc/virtual/2026/poster/154407	pending	-
-148563	From Inexact Gradients to Byzantine Robustness: Acceleration and Optimization under Similarity	https://neurips.cc/virtual/2026/poster/148563	pending	-
-140024	From Infrastructure to Interface, the AI Value Chain Drives LLM Homogenization	https://neurips.cc/virtual/2026/poster/140024	pending	-
-153875	From Intent to Evidence: A Categorical Approach for Structural Evaluation of Deep Research Agents	https://neurips.cc/virtual/2026/poster/153875	pending	-
-154711	From I/O to Code with Discovery Agent	https://neurips.cc/virtual/2026/poster/154711	pending	-
-152999	From Isolated feature to Orbits:\\Discovering Music Concepts via Multi-SAE Alignment	https://neurips.cc/virtual/2026/poster/152999	pending	-
-152949	From Jumps to Signatures: a Generative Method for Temporal Point Processes	https://neurips.cc/virtual/2026/poster/152949	pending	-
-152846	From Label Priors to Task Evidence: Long-Video Frame Selection via Bayesian GRPO	https://neurips.cc/virtual/2026/poster/152846	pending	-
-150517	From Likelihood Convergence to Parameter Convergence in POMDPs	https://neurips.cc/virtual/2026/poster/150517	pending	-
-154680	From Link Prediction to Linear Community Detection: A Finite-Sample Guarantee for Graph Pretraining	https://neurips.cc/virtual/2026/poster/154680	pending	-
-150953	From Local Skills to Long-Horizon Tasks: Progressive Skill Exploration for LLM Web Agents	https://neurips.cc/virtual/2026/poster/150953	pending	-
-154042	From Local to Global: Progressive Consensus via Hierarchical Communication in Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154042	pending	-
-155180	From Matching to Reasoning: Query-Aware Long Video Summarization	https://neurips.cc/virtual/2026/poster/155180	pending	-
-154251	From Matrix Inversion to Constraints: Provably Tighter Confidence Regions for Importance Weights in Label Shift	https://neurips.cc/virtual/2026/poster/154251	pending	-
-152123	From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs	https://neurips.cc/virtual/2026/poster/152123	pending	-
-148590	From Nodes to Pixels: Topological and Structural Two-View Graph Imaging	https://neurips.cc/virtual/2026/poster/148590	pending	-
-155787	From Noise to Diversity: Random Embedding Injection in LLM Reasoning	https://neurips.cc/virtual/2026/poster/155787	pending	-
-150800	From Non-Convex to Strongly Convex: Curvature-Adaptive FTPL for Online Optimization	https://neurips.cc/virtual/2026/poster/150800	pending	-
-148296	From Outcome to Representation: Tracing Reasoning Mechanisms through Integrated Policy Gradient	https://neurips.cc/virtual/2026/poster/148296	pending	-
-150388	From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents	https://neurips.cc/virtual/2026/poster/150388	pending	-
-153962	From Perception to Punchline: Empowering VLM with the Art of In-the-wild Memes	https://neurips.cc/virtual/2026/poster/153962	pending	-
-153632	From Persistence to Survival: Hypothesis Testing, Effect Sizes and Vectorisation for Topological Features	https://neurips.cc/virtual/2026/poster/153632	pending	-
-139321	From Pixels to Concepts: Do Segmentation Models Understand What They Segment?	https://neurips.cc/virtual/2026/poster/139321	pending	-
-151710	From POMDP Theory to Deep RL with Particle Filters	https://neurips.cc/virtual/2026/poster/151710	pending	-
-154078	From Post-Hoc to Ante-Hoc: Consistently Explainable Semi-Supervised Time Series Classification	https://neurips.cc/virtual/2026/poster/154078	pending	-
-148699	From Preference Data to Personalization: Tracing Sycophancy in Large Language Models	https://neurips.cc/virtual/2026/poster/148699	pending	-
-154046	From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills	https://neurips.cc/virtual/2026/poster/154046	pending	-
-152795	From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning	https://neurips.cc/virtual/2026/poster/152795	pending	-
-148253	From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving	https://neurips.cc/virtual/2026/poster/148253	pending	-
-150006	From Representation to Intervention: Using Emotion Vectors to Monitor and Guide Language Models	https://neurips.cc/virtual/2026/poster/150006	pending	-
-155655	From Retrieval to Reasoning: Agentic Mechanism Prediction from Cell Painting Profiles	https://neurips.cc/virtual/2026/poster/155655	pending	-
-148303	From Retrieval to Recognition: Knowledge-Enhanced Foundation Models for Time Series Classification	https://neurips.cc/virtual/2026/poster/148303	pending	-
-150964	From Sample to Subset Construction: Coverage-Aware Curation of Robot Demonstrations	https://neurips.cc/virtual/2026/poster/150964	pending	-
-150171	From Seeing to Foreseeing: Unleashing LVLM Thinking in Dynamic Latent Space	https://neurips.cc/virtual/2026/poster/150171	pending	-
-153955	From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs	https://neurips.cc/virtual/2026/poster/153955	pending	-
-155707	From sequences to schemas: low-rank recurrent dynamics underlie abstract relational representations	https://neurips.cc/virtual/2026/poster/155707	pending	-
-148891	From SGD to Muon: Adaptive Optimization via Schatten-p Norms	https://neurips.cc/virtual/2026/poster/148891	pending	-
-152509	From Small to Large: Cross-Scale Graph Domain Adaptation via Local-Global Structural Alignment	https://neurips.cc/virtual/2026/poster/152509	pending	-
-148685	From Solver Trajectories to Teaching Trajectories: Cognition-Aligned Reasoning Distillation	https://neurips.cc/virtual/2026/poster/148685	pending	-
-154431	From Squeezing to Grounding: Visual Guided DPO for Multimodal Hallucination Mitigation	https://neurips.cc/virtual/2026/poster/154431	pending	-
-155740	From Static Geometry to Dynamical Singularity: Detecting Memorization in Diffusion Models via Score Evolution	https://neurips.cc/virtual/2026/poster/155740	pending	-
-140092	From Static Policies to Adaptive Priors in Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/140092	pending	-
-154418	From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors	https://neurips.cc/virtual/2026/poster/154418	pending	-
-153945	From Table to Cell: Attention for Better Reasoning with TABALIGN	https://neurips.cc/virtual/2026/poster/153945	pending	-
-154681	From Talking Words to Sharing Thoughts: Scalable Multi-LLM Aggregation via Structured Message Passing	https://neurips.cc/virtual/2026/poster/154681	pending	-
-151647	From Tokens to Tactics: Adversarial Text Optimization in an Axis-Aligned Rhetorical Strategy Space for Harmful Content Detection	https://neurips.cc/virtual/2026/poster/151647	pending	-
-155821	From Topology to Retrieval: Decoding Embedding Spaces with Unified Signatures	https://neurips.cc/virtual/2026/poster/155821	pending	-
+150936	From Density Matrices to Phase Transitions in Deep Learning: Spectral Early Warnings and Interpretability	https://neurips.cc/virtual/2026/poster/150936	included	用谱热容提前监测能力转变。
+139099	From Detection to Understanding — A Multi-Task Dataset for Traffic Anomaly Reasoning	https://neurips.cc/virtual/2026/poster/139099	included	把异常检测与时序和场景理解分别评测。
+150801	From Document Layout to Causal Topology: An End-to-End Architecture for Temporal Causal Reasoning	https://neurips.cc/virtual/2026/poster/150801	included	比较外置因果图约束与内置注意力拓扑。
+153007	From Expert Knowledge to Optimization Modeling: Prototype-Based Data Synthesis and Logical Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153007	included	先识别经典优化原型，再监督变量到约束的构造顺序。
+155254	From Experts to Sub-experts: Fine-grained Parameter-Efficient Fine-Tuning for MoE LLMs	https://neurips.cc/virtual/2026/poster/155254	included	在 MoE 内选通道组微调。
+152011	From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/152011	included	在遗忘角色前用专家分工隔离角色风格与知识。
+150406	From Failure Taxonomy to Intervention: A Diagnostic Methodology for Industry-Scale AVLM in Video and Live-Streaming Platform Moderation	https://neurips.cc/virtual/2026/poster/150406	excluded	作者摘要提出失效分类与生产干预框架，但未给出可核对的类别与干预对照，暂不收录。
+148946	From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs	https://neurips.cc/virtual/2026/poster/148946	included	将视频定位和跨视频证据绑定拆成可独立核验的阶段。
+152020	From Generation to Restoration: Residual Diffusion for Neural Channel Decoding	https://neurips.cc/virtual/2026/poster/152020	included	让解码由带噪接收信号出发。
+149657	From Generic to Dedicated: A Novel Optimizer for Online Continual Learning	https://neurips.cc/virtual/2026/poster/149657	included	对在线学习分开维护快速适应与稳定平均序列。
+155317	From Groups to Rings: Causal Evidence for Algebraic Decomposition in Grokked Transformers	https://neurips.cc/virtual/2026/poster/155317	included	用交换干预验证模型是否按代数分量独立计算。
+151117	From Heartbeat to Cardiochoreography: A Mechanics Foundation Model for Individualized 4D Cardiac Motion Generation Conditioned on Electrophysiology	https://neurips.cc/virtual/2026/poster/151117	included	在观测到运动的建模中显式表达跨模态时间偏移。
+154254	From History to State: Constant-Context Skill Learning for LLM Agents	https://neurips.cc/virtual/2026/poster/154254	included	把常用流程写入轻量模块，用紧凑状态代替完整历史。
+154407	From Ideas to Code: Tree-structured Policy Optimization for Automated Algorithm Design with LLMs	https://neurips.cc/virtual/2026/poster/154407	included	分别评价算法构想和同一构想下的代码实现。
+148563	From Inexact Gradients to Byzantine Robustness: Acceleration and Optimization under Similarity	https://neurips.cc/virtual/2026/poster/148563	included	用不精确梯度模型分析聚合误差，再复用加速分析。
+140024	From Infrastructure to Interface, the AI Value Chain Drives LLM Homogenization	https://neurips.cc/virtual/2026/poster/140024	excluded	立场文以产业价值链解释同质化，未提出经验证的可复用技术机制。
+153875	From Intent to Evidence: A Categorical Approach for Structural Evaluation of Deep Research Agents	https://neurips.cc/virtual/2026/poster/153875	included	用可追溯证据链诊断深度研究错误。
+154711	From I/O to Code with Discovery Agent	https://neurips.cc/virtual/2026/poster/154711	included	从简单假设逐步扩展程序结构，按输入输出反馈比较候选。
+152999	From Isolated feature to Orbits:\\Discovering Music Concepts via Multi-SAE Alignment	https://neurips.cc/virtual/2026/poster/152999	included	用已知输入对称性组织稀疏特征族。
+152949	From Jumps to Signatures: a Generative Method for Temporal Point Processes	https://neurips.cc/virtual/2026/poster/152949	included	将离散跳跃序列映射为连续路径后按全序列训练。
+152846	From Label Priors to Task Evidence: Long-Video Frame Selection via Bayesian GRPO	https://neurips.cc/virtual/2026/poster/152846	included	按冻结下游模型的任务证据选帧。
+150517	From Likelihood Convergence to Parameter Convergence in POMDPs	https://neurips.cc/virtual/2026/poster/150517	included	用核恢复界选择行为策略和日志覆盖。
+154680	From Link Prediction to Linear Community Detection: A Finite-Sample Guarantee for Graph Pretraining	https://neurips.cc/virtual/2026/poster/154680	included	用留出链路风险诊断社区嵌入是否线性可分。
+150953	From Local Skills to Long-Horizon Tasks: Progressive Skill Exploration for LLM Web Agents	https://neurips.cc/virtual/2026/poster/150953	included	先探索局部技能再扩成长任务链。
+154042	From Local to Global: Progressive Consensus via Hierarchical Communication in Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154042	included	先形成组内共识，再由代表协调跨组共识。
+155180	From Matching to Reasoning: Query-Aware Long Video Summarization	https://neurips.cc/virtual/2026/poster/155180	included	在摘要预算内联合选择互补片段。
+154251	From Matrix Inversion to Constraints: Provably Tighter Confidence Regions for Importance Weights in Label Shift	https://neurips.cc/virtual/2026/poster/154251	included	直接约束标签偏移矩阵并用线性规划取区间。
+152123	From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs	https://neurips.cc/virtual/2026/poster/152123	included	从单 token 因果模型逐渐扩到可并行的块扩散。
+148590	From Nodes to Pixels: Topological and Structural Two-View Graph Imaging	https://neurips.cc/virtual/2026/poster/148590	included	把变长图转换成固定预算的双视图张量。
+155787	From Noise to Diversity: Random Embedding Injection in LLM Reasoning	https://neurips.cc/virtual/2026/poster/155787	included	用无训练随机软提示作为学习式提示的结构对照。
+150800	From Non-Convex to Strongly Convex: Curvature-Adaptive FTPL for Online Optimization	https://neurips.cc/virtual/2026/poster/150800	included	按历史曲率调节 FTPL 扰动规模。
+148296	From Outcome to Representation: Tracing Reasoning Mechanisms through Integrated Policy Gradient	https://neurips.cc/virtual/2026/poster/148296	included	以最终推理正确性而非文本共现归因内部组件。
+150388	From Patches to Trajectories: Privileged Process Supervision for Software-Engineering Agents	https://neurips.cc/virtual/2026/poster/150388	included	用开发者参考补丁作训练期证据评估维修推理。
+153962	From Perception to Punchline: Empowering VLM with the Art of In-the-wild Memes	https://neurips.cc/virtual/2026/poster/153962	included	在同模板下做成对偏好建模，降低跨模板主观差异。
+153632	From Persistence to Survival: Hypothesis Testing, Effect Sizes and Vectorisation for Topological Features	https://neurips.cc/virtual/2026/poster/153632	included	以持久值的生存曲线统一检验、效应量与向量化。
+139321	From Pixels to Concepts: Do Segmentation Models Understand What They Segment?	https://neurips.cc/virtual/2026/poster/139321	included	保持目标掩码，改变语义线索来测试分割概念忠实度。
+151710	From POMDP Theory to Deep RL with Particle Filters	https://neurips.cc/virtual/2026/poster/151710	included	分开调粒子数、滚动预算和 QMDP 回传的规划深度。
+154078	From Post-Hoc to Ante-Hoc: Consistently Explainable Semi-Supervised Time Series Classification	https://neurips.cc/virtual/2026/poster/154078	included	把事后归因转为受掩码约束的学生输入。
+148699	From Preference Data to Personalization: Tracing Sycophancy in Large Language Models	https://neurips.cc/virtual/2026/poster/148699	included	先判断用户主张是否有依据，再统计同意是否不当。
+154046	From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills	https://neurips.cc/virtual/2026/poster/154046	included	分别评估同一模型作为技能提取器和使用者的价值。
+152795	From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning	https://neurips.cc/virtual/2026/poster/152795	included	按子题分配推理信用
+148253	From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving	https://neurips.cc/virtual/2026/poster/148253	included	按场景决定是否调用语言视觉骨干
+150006	From Representation to Intervention: Using Emotion Vectors to Monitor and Guide Language Models	https://neurips.cc/virtual/2026/poster/150006	excluded	摘要主要提出监测与引导的研究设想，缺少可独立验证的机制评估。
+155655	From Retrieval to Reasoning: Agentic Mechanism Prediction from Cell Painting Profiles	https://neurips.cc/virtual/2026/poster/155655	excluded	工作聚焦生物扰动作用机制预测，暂不展开其应用细节。
+148303	From Retrieval to Recognition: Knowledge-Enhanced Foundation Models for Time Series Classification	https://neurips.cc/virtual/2026/poster/148303	included	将实例检索与参数迁移分开对照
+150964	From Sample to Subset Construction: Coverage-Aware Curation of Robot Demonstrations	https://neurips.cc/virtual/2026/poster/150964	included	以边际覆盖收益而非独立分数筛选示范
+150171	From Seeing to Foreseeing: Unleashing LVLM Thinking in Dynamic Latent Space	https://neurips.cc/virtual/2026/poster/150171	included	用真实与反事实时序对照训练静态图像推理
+153955	From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs	https://neurips.cc/virtual/2026/poster/153955	included	在模态信息转移后再删对应 token
+155707	From sequences to schemas: low-rank recurrent dynamics underlie abstract relational representations	https://neurips.cc/virtual/2026/poster/155707	included	用奇异向量消融检查关系记忆
+148891	From SGD to Muon: Adaptive Optimization via Schatten-p Norms	https://neurips.cc/virtual/2026/poster/148891	included	按层用梯度和激活统计选择更新几何
+152509	From Small to Large: Cross-Scale Graph Domain Adaptation via Local-Global Structural Alignment	https://neurips.cc/virtual/2026/poster/152509	included	面对小源图时分别补局部信息和对齐全局分布
+148685	From Solver Trajectories to Teaching Trajectories: Cognition-Aligned Reasoning Distillation	https://neurips.cc/virtual/2026/poster/148685	included	按学生分布和逻辑一致性改写已有教师轨迹
+154431	From Squeezing to Grounding: Visual Guided DPO for Multimodal Hallucination Mitigation	https://neurips.cc/virtual/2026/poster/154431	included	按图像依赖和幻觉定位调整拒绝样本更新
+155740	From Static Geometry to Dynamical Singularity: Detecting Memorization in Diffusion Models via Score Evolution	https://neurips.cc/virtual/2026/poster/155740	included	用生成轨迹已有分数诊断记忆
+140092	From Static Policies to Adaptive Priors in Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/140092	excluded	立场论文侧重提出适应性策略先验目标，摘要缺少独立验证的算法或对照规律。
+154418	From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors	https://neurips.cc/virtual/2026/poster/154418	included	用对象与关系约束提示编辑
+153945	From Table to Cell: Attention for Better Reasoning with TABALIGN	https://neurips.cc/virtual/2026/poster/153945	included	用单元格掩码连接计划和执行
+154681	From Talking Words to Sharing Thoughts: Scalable Multi-LLM Aggregation via Structured Message Passing	https://neurips.cc/virtual/2026/poster/154681	included	用非对称阻尼保护可靠专家
+151647	From Tokens to Tactics: Adversarial Text Optimization in an Axis-Aligned Rhetorical Strategy Space for Harmful Content Detection	https://neurips.cc/virtual/2026/poster/151647	excluded	主要贡献是面向检测规避的攻击优化，未提取可独立复用的防御卡。
+155821	From Topology to Retrieval: Decoding Embedding Spaces with Unified Signatures	https://neurips.cc/virtual/2026/poster/155821	included	用联合几何指标预测嵌入检索表现
 152776	From Uncertain Judgments to Calibrated Rankings: Conformal Elo Estimation for LLM Evaluation	https://neurips.cc/virtual/2026/poster/152776	pending	-
 149559	From Views to Worlds: Active Exploration over 3D Worlds for Vision-Language Models	https://neurips.cc/virtual/2026/poster/149559	pending	-
 153103	From Walls to Synergy: A Joint LLM-Evolution Framework for MILP Solvers	https://neurips.cc/virtual/2026/poster/153103	pending	-

@@ -8716,3 +8716,108 @@
 - **适用条件 / 局限** · 依赖专家纠正质量。
 
 **可复用机制** · 比较训练纠正人工扰动和纠正自身错误，测错误传播与总解码步数。
+
+<a id="paper-150936"></a>
+
+## From Density Matrices to Phase Transitions in Deep Learning: Spectral Early Warnings and Interpretability
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150936) · [作者来源](https://openreview.net/forum?id=eBccMC00vY)
+
+- **问题 / 瓶颈** · 最终指标难揭示训练转变。
+- **核心创新 / 方法** · 构造双样本约化密度矩阵，以谱热容、参与比和主特征向量描述转变。
+- **Baseline** · 各转变场景的训练曲线，摘要未列具名方法。
+- **Benchmark** · 线性网络、归纳头、grokking 和行为异常。
+- **关键结果 / 消融** · 作者证明谱热容提供先兆，参与比反映重组维度。
+- **适用条件 / 局限** · 跨规模的误报率待核。
+
+**可复用机制** · 将谱预警和原有性能曲线对照，分开检验提前量与特征可解释性。
+
+<a id="paper-139099"></a>
+
+## From Detection to Understanding — A Multi-Task Dataset for Traffic Anomaly Reasoning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139099) · [作者来源](https://openreview.net/forum?id=l6GGbeGpVw)
+
+- **问题 / 瓶颈** · 识别异常不足以说明理解其上下文。
+- **核心创新 / 方法** · TAR 按问答、时序推理、场景理解划分训练和评测。
+- **Baseline** · 八种 VLM、零样本和逐步加入任务组。
+- **Benchmark** · 3670 个视频，测试 84 段人工复核视频、1008 个标注。
+- **关键结果 / 消融** · 完整模型比零样本二元问答高 44.5 点，综合高 21.4 点。
+- **适用条件 / 局限** · 训练主要依赖自动标注，跨摄像场景外推待验。
+
+**可复用机制** · 用分层任务诊断基本问答分数掩盖的时序短板。
+
+<a id="paper-150801"></a>
+
+## From Document Layout to Causal Topology: An End-to-End Architecture for Temporal Causal Reasoning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150801) · [作者来源](https://openreview.net/forum?id=fHjrkjB6Af)
+
+- **问题 / 瓶颈** · 外置推理步骤未必改善因果推断。
+- **核心创新 / 方法** · 训练免调版本用符号图干预，端到端版本用拓扑掩码和时间偏置。
+- **Baseline** · 训练免调方法、GPT-5.4、DeepSeek-V3.2。
+- **Benchmark** · TempoCausal 准确率。
+- **关键结果 / 消融** · 作者报告端到端约 8.6B 模型比先前最优高 16.5%。
+- **适用条件 / 局限** · 主要验证单一数据集，图构造错误的影响待核。
+
+**可复用机制** · 固定题目比较外置图和内置拓扑对深层推断的实际增益。
+
+<a id="paper-153007"></a>
+
+## From Expert Knowledge to Optimization Modeling: Prototype-Based Data Synthesis and Logical Reinforcement Learning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153007) · [作者来源](https://openreview.net/forum?id=OfaHY0TIwp)
+
+- **问题 / 瓶颈** · 从零生成数学模型无法利用已有结构。
+- **核心创新 / 方法** · 基于 17 个原型合成保留瓶颈约束的数据，以轨迹排序训练逻辑奖励并用于测试时优化。
+- **Baseline** · 同规模模型及大型多智能体方法。
+- **Benchmark** · 七个基准及分布外建模任务，测准确率。
+- **关键结果 / 消融** · 8B 模型平均 79.9%，作者报告两阶段皆有贡献。
+- **适用条件 / 局限** · 未覆盖原型时的泛化边界待核。
+
+**可复用机制** · 对结构化生成任务比较原型增量构造和直接完整生成。
+
+<a id="paper-155254"></a>
+
+## From Experts to Sub-experts: Fine-grained Parameter-Efficient Fine-Tuning for MoE LLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/155254) · [作者来源](https://openreview.net/forum?id=760IPZeujm)
+
+- **问题 / 瓶颈** · 整专家更新包含大量低响应通道。
+- **核心创新 / 方法** · 联合路由重要性和通道激活选择子专家，缩放学习率和梯度。
+- **Baseline** · LoRA 等 PEFT、专家级稀疏微调。
+- **Benchmark** · OLMoE、Ling-mini-2.0，领域和通用任务。
+- **关键结果 / 消融** · 作者报告更少训练参数下优于对照并保持通用能力。
+- **适用条件 / 局限** · 稀疏选择与缩放的独立贡献待核。
+
+**可复用机制** · 固定参数预算比较专家粒度和通道粒度。
+
+<a id="paper-152011"></a>
+
+## From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152011) · [作者来源](https://openreview.net/forum?id=WAhEAArf7K)
+
+- **问题 / 瓶颈** · 仅遗忘事实可能保留原角色行为。
+- **核心创新 / 方法** · 用专门化和解耦损失建立不同角色的专家分布，再定向遗忘。
+- **Baseline** · 事实遗忘方法与其他对照，具名待核。
+- **Benchmark** · RoleBench-Unlearn，多种 LLM，测遗忘与非目标保留。
+- **关键结果 / 消融** · 作者报告更有效遗忘且保留其他角色表现。
+- **适用条件 / 局限** · 角色共享知识可能损害隔离。
+
+**可复用机制** · 分别检验目标风格、目标知识和非目标语言能力。
+
+<a id="paper-148946"></a>
+
+## From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/148946) · [作者来源](https://openreview.net/forum?id=u03DysVjOF)
+
+- **问题 / 瓶颈** · 单视频与短视频评测不足以揭示跨长视频检索难度。
+- **核心创新 / 方法** · 用类型化绑定图填充证据槽，核验跨视频对应再输出答案。
+- **Baseline** · 13 个 MLLM 与适配的长视频方法。
+- **Benchmark** · CLoVR-Bench，400 个长视频、2000 对问答。
+- **关键结果 / 消融** · 作者报告由局部比较到综合推理表现下降，证据图在跨视频绑定任务获益最大。
+- **适用条件 / 局限** · 错误槽规划会漏掉关键证据。
+
+**可复用机制** · 用相同底座对照证据定位误差与跨源绑定错误。

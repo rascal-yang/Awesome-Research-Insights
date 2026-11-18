@@ -585,3 +585,10 @@
 | 机器学习 | 脉冲架构 | [From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination](cards-0005.md#paper-151501) | 用短时累积的脉冲活动驱动延迟全局调制。 |
 | 优化 | 零阶方法 | [From Cursed to Competitive: Closing the ZO–FO Gap via Input-to-State Stability](cards-0005.md#paper-150158) | 用动态扰动稳定性判断零阶估计是否足够。 |
 | 多模态学习 | 离散扩散 | [From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model](cards-0005.md#paper-150917) | 让并行生成器学会重访和更正已有输出。 |
+| 可解释性 | 训练诊断 | [From Density Matrices to Phase Transitions in Deep Learning: Spectral Early Warnings and Interpretability](cards-0005.md#paper-150936) | 用谱热容提前监测能力转变。 |
+| 多模态学习 | 基准诊断 | [From Detection to Understanding — A Multi-Task Dataset for Traffic Anomaly Reasoning](cards-0005.md#paper-139099) | 把异常检测与时序和场景理解分别评测。 |
+| 大语言模型 | 因果推理 | [From Document Layout to Causal Topology: An End-to-End Architecture for Temporal Causal Reasoning](cards-0005.md#paper-150801) | 比较外置因果图约束与内置注意力拓扑。 |
+| 大语言模型 / 优化 | 原型监督 | [From Expert Knowledge to Optimization Modeling: Prototype-Based Data Synthesis and Logical Reinforcement Learning](cards-0005.md#paper-153007) | 先识别经典优化原型，再监督变量到约束的构造顺序。 |
+| 大语言模型 | 参数高效微调 | [From Experts to Sub-experts: Fine-grained Parameter-Efficient Fine-Tuning for MoE LLMs](cards-0005.md#paper-155254) | 在 MoE 内选通道组微调。 |
+| 大语言模型 | 选择性遗忘 | [From Facts to Personas: Interpretable Role Unlearning in LLMs via Mixture-of-Experts](cards-0005.md#paper-152011) | 在遗忘角色前用专家分工隔离角色风格与知识。 |
+| 多模态学习 | 跨视频推理 | [From Finding to Linking: Benchmarking and Advancing Cross-Long-Video Reasoning for Multimodal LLMs](cards-0005.md#paper-148946) | 将视频定位和跨视频证据绑定拆成可独立核验的阶段。 |
