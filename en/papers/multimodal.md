@@ -589,6 +589,8 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zhang26cq-evaluation"></a>[You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cq)
 - <a id="zhang26dl-evaluation"></a>[On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dl)
 - <a id="zhang26ed-evaluation"></a>[Evaluating and Steering Modality Preferences in Multi-modal LLMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ed)
+- <a id="zhang26fi-evaluation"></a>[Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fi)
+- <a id="zhang26fr-evaluation"></a>[TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fr)
 
 <a id="by-theory-statistics"></a>
 

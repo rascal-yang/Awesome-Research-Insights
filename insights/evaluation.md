@@ -620,6 +620,8 @@
 - [CLIP测试时防御的指示量失配](../conferences/icml-2026/cards/5801-5900.md#zhang26cq-evaluation) · You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses
 - [按真实压缩路径评测视觉鲁棒性](../conferences/icml-2026/cards/5801-5900.md#zhang26dl-evaluation) · On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression
 - [用单模态均可答的冲突题测模态依赖](../conferences/icml-2026/cards/5801-5900.md#zhang26ed-evaluation) · Evaluating and Steering Modality Preferences in Multi-modal LLMs
+- [情绪头的中层选择性与深层共享性](../conferences/icml-2026/cards/5901-6000.md#zhang26fi-evaluation) · Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow
+- [词汇相近时的关系完整性防御评测](../conferences/icml-2026/cards/5901-6000.md#zhang26fr-evaluation) · TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

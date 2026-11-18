@@ -116,6 +116,7 @@
 - [Fisher偏差方差折衷的LoRA初始子空间](../conferences/icml-2026/cards/5701-5800.md#zhang26y-optimization) · LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis
 - [固定总扰动能量学习各参数块的ZO尺度](../conferences/icml-2026/cards/5801-5900.md#zhang26da-optimization) · Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs
 - [让FP4 attention的STE反向匹配前向量化](../conferences/icml-2026/cards/5801-5900.md#zhang26eq-optimization) · Attn-QAT: 4-Bit Attention With Quantization-Aware Training
+- [Schur补前瞻的分簇自适应舍入](../conferences/icml-2026/cards/5801-5900.md#zhang26fg-optimization) · STLA: Spatiotemporal Lookahead Alignment for Post-Training Quantization
 
 <a id="by-computer-vision"></a>
 
@@ -469,6 +470,8 @@
 - [固定亲和模板与可逆Markov协作投影](../conferences/icml-2026/cards/5501-5600.md#yin26j-optimization) · Controlled Collaboration Geometry for Personalized Federated Learning
 - [强凸输出头的快慢学习率条件](../conferences/icml-2026/cards/5601-5700.md#zeng26a-optimization) · Rethinking Neural Network Learning Rates: A Stackelberg Perspective
 - [低曲率约束的跨层共享基选择](../conferences/icml-2026/cards/5701-5800.md#zhang26w-optimization) · Rethinking Parameter Sharing as Graph Coloring for Structured Compression
+- [变量与梯度跟踪分尺度的压缩补偿](../conferences/icml-2026/cards/5801-5900.md#zhang26fe-optimization) · On the Convergence of Decentralized Stochastic Minimax Optimization Algorithm with Compressed Communication
+- [局部平滑与多层梯度估计同步的联邦minimax](../conferences/icml-2026/cards/5801-5900.md#zhang26ff-optimization) · LS$^2$MC-GDA: A Smoothed Algorithm for Federated Stochastic Multi-Level Compositional Minimax Optimization
 
 <a id="by-graph-and-recommendation"></a>
 

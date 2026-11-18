@@ -464,4 +464,5 @@
 - [sign-equivariant-orbital-attention](../conferences/icml-2026/cards/4401-4500.md#thiede26a-architecture) · Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions
 - [按解正则性缩放谱系数并嵌入基底](../conferences/icml-2026/cards/5601-5700.md#yu26ao-architecture) · Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs
 - [共享算子策略的跨数量PDE控制](../conferences/icml-2026/cards/5601-5700.md#zanotta26a-architecture) · CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control
+- [分离相空间流的逆问题重建](../conferences/icml-2026/cards/5901-6000.md#zhang26fo-architecture) · FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction
 <!-- classification:end -->

@@ -64,6 +64,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="yang26x-loss-functions"></a>[From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26x)
 - <a id="yang26dn-loss-functions"></a>[Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dn)
 - <a id="zhang26av-loss-functions"></a>[Geometric Coherence Learning for Structuring Value Functions in Plain MDPs](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26av)
+- <a id="zhang26fp-loss-functions"></a>[HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fp)
 
 <a id="by-optimization"></a>
 

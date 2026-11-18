@@ -517,6 +517,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26cx-inference"></a>[Trajectory-Stabilized Inference for Diffusion-Based Video Inpainting](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cx)
 - <a id="zhang26dq-inference"></a>[Adaptive Visual Autoregressive Acceleration via Dual-Linkage Entropy Analysis](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dq)
 - <a id="zhang26du-inference"></a>[Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26du)
+- <a id="zhang26fb-inference"></a>[Semantic Editing with Coupled Stochastic Differential Equations](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fb)
+- <a id="zhang26fd-inference"></a>[SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fd)
 
 <a id="by-representation-learning"></a>
 

@@ -164,6 +164,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="luo26s-inference"></a>[SimGFM: Simplifying Discrete Flow Matching for Graph Generation](../../conferences/icml-2026/cards/3001-3100.md#paper-luo26s)
 - <a id="olausson26a-inference"></a>[Amortizing Maximum Inner Product Search with Learned Support Functions](../../conferences/icml-2026/cards/3501-3600.md#paper-olausson26a)
 - <a id="xiong26a-inference"></a>[Variational Bayesian Flow Network for Graph Generation](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26a)
+- <a id="zhang26fh-inference"></a>[Hard-Constrained Graph Generation with Discrete-Projection Diffusion](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fh)
 
 <a id="by-representation-learning"></a>
 

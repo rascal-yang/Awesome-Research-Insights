@@ -171,6 +171,7 @@ Objectives, auxiliary supervision, and regularization.
 - [From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#yang26x-loss-functions) · 中文
 - [Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning](../../conferences/icml-2026/cards/5401-5500.md#yang26dn-loss-functions) · 中文
 - [Geometric Coherence Learning for Structuring Value Functions in Plain MDPs](../../conferences/icml-2026/cards/5701-5800.md#zhang26av-loss-functions) · 中文
+- [HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments](../../conferences/icml-2026/cards/5901-6000.md#zhang26fp-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 
@@ -312,6 +313,7 @@ Objectives, auxiliary supervision, and regularization.
 - [ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yuan26i-loss-functions) · 中文
 - [Geometry-Aware Tabular Diffusion](../../conferences/icml-2026/cards/5601-5700.md#zagardo26a-loss-functions) · 中文
 - [Quantifying and Optimizing Simplicity via Polynomial Representations](../../conferences/icml-2026/cards/5801-5900.md#zhang26ct-loss-functions) · 中文
+- [Functional building blocks of neural networks: from network motifs to collective dynamics](../../conferences/icml-2026/cards/5901-6000.md#zhang26fk-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

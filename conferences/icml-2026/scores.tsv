@@ -5890,26 +5890,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5889	zhang26ew							初筛，原文与先例核查待补：仅依据摘要的高层可分离通用机制，reconstruction-anchored consistency tuning和保留敏感residual/几何算子BF16属于成熟few-step distillation与混合精度配置；当前无独立泛用新操作/条件规律。未深入co-folding实现或领域设计优化，不因生物名称排除。	rule-excluded
 5890	zhang26ex	3	4	3	3	66		初筛，原文与先例核查待补：用固定原图下的证据反事实差奖励grounding：新增量暂3，相关模型复用4，操作性3，独特性3；第4、5、7页，最近先例、完整条件与匹配控制待核。	scored
 5891	zhang26ey							初筛，原文与先例核查待补：第4–5页为染色先验原型、prototype feature相似/partial OT对齐及前景背景点提示SAM；成熟prototype/partial-OT/prompt segmentation配置用于核分割，当前未见独立新generic更新或关系量，不因无标注/临床场景自动保留。	rule-excluded
-5892	zhang26ez							待原文复核评分	pending
-5893	zhang26fa							待原文复核评分	pending
-5894	zhang26fb							待原文复核评分	pending
-5895	zhang26fc							待原文复核评分	pending
-5896	zhang26fd							待原文复核评分	pending
-5897	zhang26fe							待原文复核评分	pending
-5898	zhang26ff							待原文复核评分	pending
-5899	zhang26fg							待原文复核评分	pending
-5900	zhang26fh							待原文复核评分	pending
-5901	zhang26fi							待原文复核评分	pending
-5902	zhang26fj							待原文复核评分	pending
-5903	zhang26fk							待原文复核评分	pending
-5904	zhang26fl							待原文复核评分	pending
-5905	zhang26fm							待原文复核评分	pending
-5906	zhang26fn							待原文复核评分	pending
-5907	zhang26fo							待原文复核评分	pending
-5908	zhang26fp							待原文复核评分	pending
-5909	zhang26fq							待原文复核评分	pending
-5910	zhang26fr							待原文复核评分	pending
-5911	zhang26fs							待原文复核评分	pending
+5892	zhang26ez							初筛，原文与先例核查待补：现有PDF第3–4/6页明确chunk-level branched rollout沿用Park2025，UMM适配配合双view链式条件生成与标准PPO。当前未分离超出成熟autoregressive多视角条件化、frame skipping及MBPO短rollout的新独立目标/决策规律；LPIPS/reward分数提高与VLA新应用不足单独建立增量，暂排，非因缺机器人实验。	rule-excluded
+5893	zhang26fa							初筛，原文与先例核查待补：现有PDF第3–4/6页把encode/store/retrieve/manage模块统一为memory代码空间，再以外层LLM/evolutionary search改代码、内层积累trajectory。自动agent架构搜索和经验memory管理均成熟，当前未分离新search objective/credit assignment/受控law；12系统codebase与agentbenchmark增益不足独立复用门槛，暂按workflow排除。	rule-excluded
+5894	zhang26fb	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按共享反向噪声的语义编辑，最近方法差异见baseline且待核；复用5：预训练图像模型编辑时，可先记录源图正向SDE路径并由时间反转恢复其驱动噪声，再以该噪声驱动目标prompt的反向SDE；共享噪声抑制无关随机差异，但只给局部保真偏置。 可用4受Qt=I只在给定当前状态的一步二次距离项下myopic最优，不认证全路径OT、近像素一致或所有结构编辑成功；逆时间噪声依赖score近似与离散化。相同28步不等完全相同网络调用/显存；小数据、prompt人为编辑和起点稳定性限制待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5895	zhang26fc							初筛，原文与先例核查待补：现有PDF第4–7页以guideline retrieval+LLM YES/NO评分、discounted logit聚合、Bayesian logistic calibration和entropy-triggered增检组成verifier。实际有校准/区分提升，但这些操作属成熟feature calibration/active verification流程，理论证据独立性与真实step label不匹配；当前未分离新估计器/目标，暂按专用流程应用排除，不提供诊断建议。	rule-excluded
+5896	zhang26fd	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按置信后缀驱动的块级推测验证，最近方法差异见baseline且待核；复用5：图像AR的Jacobi推测解码可按target概率上升趋势分块，并用高置信后缀似然比决定整段接受、失败则缩短回退；它是可测质量/延迟折中的宽松验证，不能当精确保持target分布的采样器。 可用4受min(1,∏ratio)≥∏min(1,ratio)只比accept概率，不保证正确target law；只验suffix却接受此前token、重复回退与逐点正差修正的完整分布未核。概率趋势不是语义分割真值，FID/CLIP可能漏细粒度瑕疵；位置/长程依赖及多backbone泛化待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5897	zhang26fe	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按变量与梯度跟踪分尺度的压缩补偿，最近方法差异见baseline且待核；复用5：去中心化非凸强凹minimax可对primal/dual变量和gradient tracker都传压缩差分，但变量共识补偿乘学习率η、tracker共识补偿不乘η；压缩率和图谱隙须共同决定步长。 可用3受TopK索引/副本存储与调参开销待核，不能将10%坐标等同10%字节。强凹dual和固定连通图前提不涵盖任意GAN/MARL，差谱隙可抵消压缩收益；实证调α网格不同、同总预算及exact complexity常数待统一核查。 独特3暂定，全库替代性待统一核查；PDF第4/5/6/7/8页。	scored
+5898	zhang26ff	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按局部平滑与多层梯度估计同步的联邦minimax，最近方法差异见baseline且待核；复用5：多层随机复合minimax可给每worker加入跟随primal的平滑锚点z，并同步内层值与STORM复合gradient估计；通信间隔需随condition与精度选，不能只同步最终权重。 可用3受κ含Cg^K及多层常数，rate指数不含K不等成本/稳定性层数无关；linear speedup不等总oracle次数少，τ至少1和初始化成本限制N范围。dual PL/光滑性不自动覆盖所有深网络；stationarity转换、同通信byte及梯度消融待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5899	zhang26fg	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按Schur补前瞻的分簇自适应舍入，最近方法差异见baseline且待核；复用5：LLM PTQ可把剩余权重的最优补偿先消元，用Schur补目标同时选quant参数、学当前簇舍入并传播补偿；簇按Hessian敏感度与相关符号聚合，而非先GPTQ再全层AdaRound。 可用4受Schur补严格性限正定校准Hessian、连续未量化remaining最优补偿，不是全部离散舍入的全局最优。Cholesky三角解仍受conditioning/roundoff影响，不能称绝对数值稳定；Hessian存储与reorder及cluster search成本待核，stage比较需匹配bit与calibration。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5900	zhang26fh	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按离散图的后段约束投影，最近方法差异见baseline且待核；复用5：约束图扩散可只在后段投影，用MaxSMT将候选改动最小化并满足算术/结构约束，再蒸馏AR近似投影器；必须区别求解器SAT分支的硬可行与neural surrogate的经验validity。 可用3受Alg1 solver非SAT时直接返回未投影样本，故总体无无条件100%保证；AR近似亦无硬保证。最近可行图不等训练分布/目标conditional law样本，projection会偏；T0=.05T例非普适最优，SMT最坏复杂度、超时、discrete drift和同预算控制待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5901	zhang26fi	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按情绪头的中层选择性与深层共享性，最近方法差异见baseline且待核；复用5：LVLM情绪grounding可分别定位中层视觉聚合与深层文本表达head，并用同数量随机head对照做patch/knockout；不应只在最后层找同一组情绪方向或把attention余弦称为完整因果回路。 可用3受局部patch证明所测激活对输出有作用，不认证自然样本的唯一因果链或真实内在情绪。方向cosine/gradient和attention map均代理，hit-filter有选择偏差；九任务异质metric均值非同一accuracy，效应层/通路跨backbone和非情绪task副作用待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/6/7/8页。	scored
+5902	zhang26fj							初筛，原文与先例核查待补：现有PDF第3–7页PPO seed/merge agent沿GrabS，semantic score明确inspired NCut，为DINO投影特征的boundary/volume比，配top20 cost bank及3D foundation prior。当前未分离超出成熟normalized-cut/rank reward与既有superpoint RL的新机制；foundation prior替换和无scene标签新应用不独立成立，暂排，ScanNet/S3DIS提升不是唯一依据。	rule-excluded
+5903	zhang26fk	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按三节点motif比例的任务相关正则，最近方法差异见baseline且待核；复用5：RNN连接训练可对软邻接的三节点motif比例加正则：偏稳定层级用于噪声分类，偏循环高层级用于快速控制；这是条件经验tradeoff，不能凭局部motif比例认证全网络稳定。 可用3受三节点平衡点局部Jacobian足够条件不推出任意大RNN全局稳定；motif拓扑忽略连接符号/尺度，W²软化与真实count有差。较多循环可能改变其他图统计，需匹配density/spectral radius/optimizer；模体统计开销和跨任务最优比例待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5904	zhang26fl							初筛，原文与先例核查待补：现有PDF第3–4/6页是成熟功能zone/scene graph规划表示、逐asset生成和SFT/GRPO交替；reward为zone overlap、OOB和collision几何罚。当前未分离新空间求解器/不变量/独立学习目标，zone标注数据、外部asset检索与judge分数提高不足单独保留，暂按layout工作流排除。	rule-excluded
+5905	zhang26fm							初筛，原文与先例核查待补：现有PDF第3–4/6页以LLM按需调用独立视觉模型再文本推理，属成熟visual tool use与dynamic perception调度。pre-softmax attention均值/总和低不能推出因果视觉faithfulness弱，也没有新可检验调度最优条件；当前未分离超出prompt工作流的新机制，ScienceQA增益与额外调用预算仍待核，暂排。	rule-excluded
+5906	zhang26fn							初筛，原文与先例核查待补：现有PDF第4–5/7页把causal geometry backbone、2D query masks、跨帧InfoNCE、cosine-Hungarian matching及EMA memory接成streaming Gaussian语义场。当前未分离超出成熟causal重建/对比跟踪与pixel lifting的新更新目标或可复用控制规律；1000帧vs80帧OOM为offline/streaming既有复杂度区别，不能单独证明算法新增，且PFL mIoU更高，暂排。	rule-excluded
+5907	zhang26fo	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按分离相空间流的逆问题重建，最近方法差异见baseline且待核；复用5：病态线性观测重建可增设momentum，把数据残差和未观测方向随机性作为不同边界，再用位置/动量分离的剪切更新学transport；应检验位置边缘信号与数据一致性，不能以扩展空间保体积代替。 可用3受扩展相空间divergence-free/单位det不能保证位置边缘不塌缩或弱信号保真；初始range/null并不约束后续速度严格Ax=y。第7页说直接U-Net近似两向量场梯度，若无curl-free约束未必Hamiltonian/symplectic，虽分离shear可保体积；FBP是否真A†、Poisson改L2及posterior校准待核。 独特3暂定，全库替代性待统一核查；PDF第4/5/6/7/8页。	scored
+5908	zhang26fp	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按辅助potential投影的TD更新，最近方法差异见baseline且待核；复用5：非Markov观测控制可先以辅助potential最小二乘拟合transition TD信号，再把拟合分量用于critic/actor更新；应将其视为额外投影偏置与计算开销的经验算法，不把残差当非Markov性认证。 可用3受dU=U(s′)−γU(s)与通常γU(s′)−U(s)方向不同，折扣图梯度不自动有无权cycle积分解释；Markov只给条件平均Bellman零，不保逐transition exact。LS投影稳定性需closed range/全局最优/固定π，经验replay与非平稳π未自动满足；不能称恢复隐藏状态或保证POMDP最优。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8/9页。	scored
+5909	zhang26fq	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按量化噪声几何改变模型与样本有效规模，最近方法差异见baseline且待核；复用5：冻结特征线性头的低精度训练预算分析，应区分信号相关乘性误差与坐标均匀加性误差，再将feature/sketch与update误差分开；不可从某一上界的Meff参数直接推断真实网络容量损失。 可用3受噪声须满足给定矩阵二阶矩上下界及无偏等假设；逐坐标float误差通常不等rank-one xxᵀ噪声，INT/FP标签只是启发。可交换谱、步长与两种M/N渐近区间限制，p/M可能放大量化参数；图中量化强度两类不同，不是同bit硬件公平比较，常数/适用边界待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
+5910	zhang26fr	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按词汇相近时的关系完整性防御评测，最近方法差异见baseline且待核；复用5：LVLM供应链与数据审查应单独检验主客体/空间关系是否保持，结合relation consistency与clean utility；BLEU/ROUGE接近和无固定恶意短语，不能排除组合语义被定向破坏。 可用4受相近文本metric不认证全部正常功能保持；ASR需语义judge一致性，跨方法传统ASR定义不同不能直接同名排名。relation错误还可能来自一般视觉困难，需clean/异常成对控制与独立检测样本，数据偏差和额外cleanfinetune预算待核；不外推现实部署成功率。 独特3暂定，全库替代性待统一核查；PDF第3/5/6/7/8页。	scored
+5911	zhang26fs							初筛，原文与先例核查待补：现有PDF第2–7页为cluster kernel mean embedding、distribution-anchor MDS、point multilateration及可选组平移。现阶段未分离超出成熟landmark/kernel MDS的新目标求解规则；2(1−kernelmean similarity)仅在两嵌入单位norm条件才是真距离，mean embedding通常非单位norm，且MDS谱解解strain不直接解文中raw stress。聚类改善不单独建立不变量保持，暂排，线性复杂度所需kernel近似成本待核。	rule-excluded
 5912	zhang26ft							待原文复核评分	pending
 5913	zhang26fu							待原文复核评分	pending
 5914	zhang26fv							待原文复核评分	pending

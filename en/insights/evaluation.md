@@ -620,6 +620,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses](../../conferences/icml-2026/cards/5801-5900.md#zhang26cq-evaluation) · 中文
 - [On the Adversarial Robustness of Large Vision-Language Models under Visual Token Compression](../../conferences/icml-2026/cards/5801-5900.md#zhang26dl-evaluation) · 中文
 - [Evaluating and Steering Modality Preferences in Multi-modal LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26ed-evaluation) · 中文
+- [Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow](../../conferences/icml-2026/cards/5901-6000.md#zhang26fi-evaluation) · 中文
+- [TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models](../../conferences/icml-2026/cards/5901-6000.md#zhang26fr-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

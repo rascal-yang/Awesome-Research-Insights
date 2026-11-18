@@ -121,6 +121,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="thiede26a-architecture"></a>[Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions](../../conferences/icml-2026/cards/4401-4500.md#paper-thiede26a)
 - <a id="yu26ao-architecture"></a>[Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ao)
 - <a id="zanotta26a-architecture"></a>[CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control](../../conferences/icml-2026/cards/5601-5700.md#paper-zanotta26a)
+- <a id="zhang26fo-architecture"></a>[FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fo)
 
 <a id="by-modules"></a>
 

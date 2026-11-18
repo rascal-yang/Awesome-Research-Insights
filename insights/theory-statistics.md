@@ -658,6 +658,7 @@
 - [将鲁棒MNL集合选择化为标量搜索](../conferences/icml-2026/cards/5701-5800.md#zhang26bg-theory-statistics) · Efficient Distributionally Robust Assortment Optimization in MNL Bandits
 - [多类公平分类的属性盲对偶校准](../conferences/icml-2026/cards/5801-5900.md#zhang26cj-theory-statistics) · Demystifying the Optimal Fair Classifier in Multi-Class Classification
 - [用等式约束与Chebyshev penalty解凸下层多任务bilevel](../conferences/icml-2026/cards/5801-5900.md#zhang26er-theory-statistics) · A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization
+- [量化噪声几何改变模型与样本有效规模](../conferences/icml-2026/cards/5901-6000.md#zhang26fq-theory-statistics) · Scaling Laws for Precision in High-Dimensional Linear Regression
 
 <a id="by-graph-and-recommendation"></a>
 

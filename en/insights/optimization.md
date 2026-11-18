@@ -116,6 +116,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis](../../conferences/icml-2026/cards/5701-5800.md#zhang26y-optimization) · 中文
 - [Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26da-optimization) · 中文
 - [Attn-QAT: 4-Bit Attention With Quantization-Aware Training](../../conferences/icml-2026/cards/5801-5900.md#zhang26eq-optimization) · 中文
+- [STLA: Spatiotemporal Lookahead Alignment for Post-Training Quantization](../../conferences/icml-2026/cards/5801-5900.md#zhang26fg-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -469,6 +470,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Controlled Collaboration Geometry for Personalized Federated Learning](../../conferences/icml-2026/cards/5501-5600.md#yin26j-optimization) · 中文
 - [Rethinking Neural Network Learning Rates: A Stackelberg Perspective](../../conferences/icml-2026/cards/5601-5700.md#zeng26a-optimization) · 中文
 - [Rethinking Parameter Sharing as Graph Coloring for Structured Compression](../../conferences/icml-2026/cards/5701-5800.md#zhang26w-optimization) · 中文
+- [On the Convergence of Decentralized Stochastic Minimax Optimization Algorithm with Compressed Communication](../../conferences/icml-2026/cards/5801-5900.md#zhang26fe-optimization) · 中文
+- [LS$^2$MC-GDA: A Smoothed Algorithm for Federated Stochastic Multi-Level Compositional Minimax Optimization](../../conferences/icml-2026/cards/5801-5900.md#zhang26ff-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

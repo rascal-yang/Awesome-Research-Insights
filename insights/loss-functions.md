@@ -171,6 +171,7 @@
 - [冻结后继表示上的偏好任务搜索](../conferences/icml-2026/cards/5301-5400.md#yang26x-loss-functions) · From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning
 - [给RTG条件策略增加critic顺序约束](../conferences/icml-2026/cards/5401-5500.md#yang26dn-loss-functions) · Return-to-Go Is More Than a Number: Q-Guided Alignment for Return-Conditioned Supervised Learning
 - [由TD偏好构DAG再做等序值正则](../conferences/icml-2026/cards/5701-5800.md#zhang26av-loss-functions) · Geometric Coherence Learning for Structuring Value Functions in Plain MDPs
+- [辅助potential投影的TD更新](../conferences/icml-2026/cards/5901-6000.md#zhang26fp-loss-functions) · HodgeFlow Policy Search by Topologically Dissecting Temporal-Difference Signals in Non-Markovian Environments
 
 <a id="by-robotics"></a>
 
@@ -312,6 +313,7 @@
 - [以模型分歧除重建误差奖励时序增强](../conferences/icml-2026/cards/5601-5700.md#yuan26i-loss-functions) · ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning
 - [给tabular diffusion加逐行列关系辅助监督](../conferences/icml-2026/cards/5601-5700.md#zagardo26a-loss-functions) · Geometry-Aware Tabular Diffusion
 - [惩罚数据插值路径上的高阶多项式系数](../conferences/icml-2026/cards/5801-5900.md#zhang26ct-loss-functions) · Quantifying and Optimizing Simplicity via Polynomial Representations
+- [三节点motif比例的任务相关正则](../conferences/icml-2026/cards/5901-6000.md#zhang26fk-loss-functions) · Functional building blocks of neural networks: from network motifs to collective dynamics
 
 <a id="by-graph-and-recommendation"></a>
 

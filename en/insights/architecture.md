@@ -464,4 +464,5 @@ Model-wide design and information flow.
 - [Coupled Cluster con MoLe: Molecular Orbital Learning for Neural Wavefunctions](../../conferences/icml-2026/cards/4401-4500.md#thiede26a-architecture) · 中文
 - [Spectral-Informed Neural Networks Outperform Spectral methods in High-dimensional PDEs](../../conferences/icml-2026/cards/5601-5700.md#yu26ao-architecture) · 中文
 - [CINOC: Cardinality-Invariant Neural Operator Policies for Scalable PDE Control](../../conferences/icml-2026/cards/5601-5700.md#zanotta26a-architecture) · 中文
+- [FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction](../../conferences/icml-2026/cards/5901-6000.md#zhang26fo-architecture) · 中文
 <!-- classification:end -->

@@ -219,6 +219,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yuan26i-loss-functions"></a>[ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26i)
 - <a id="zagardo26a-loss-functions"></a>[Geometry-Aware Tabular Diffusion](../../conferences/icml-2026/cards/5601-5700.md#paper-zagardo26a)
 - <a id="zhang26ct-loss-functions"></a>[Quantifying and Optimizing Simplicity via Polynomial Representations](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ct)
+- <a id="zhang26fk-loss-functions"></a>[Functional building blocks of neural networks: from network motifs to collective dynamics](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fk)
 
 <a id="by-optimization"></a>
 
@@ -487,6 +488,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yin26j-optimization"></a>[Controlled Collaboration Geometry for Personalized Federated Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26j)
 - <a id="zeng26a-optimization"></a>[Rethinking Neural Network Learning Rates: A Stackelberg Perspective](../../conferences/icml-2026/cards/5601-5700.md#paper-zeng26a)
 - <a id="zhang26w-optimization"></a>[Rethinking Parameter Sharing as Graph Coloring for Structured Compression](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26w)
+- <a id="zhang26fe-optimization"></a>[On the Convergence of Decentralized Stochastic Minimax Optimization Algorithm with Compressed Communication](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fe)
+- <a id="zhang26ff-optimization"></a>[LS$^2$MC-GDA: A Smoothed Algorithm for Federated Stochastic Multi-Level Compositional Minimax Optimization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ff)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1293,4 +1296,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26bg-theory-statistics"></a>[Efficient Distributionally Robust Assortment Optimization in MNL Bandits](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bg)
 - <a id="zhang26cj-theory-statistics"></a>[Demystifying the Optimal Fair Classifier in Multi-Class Classification](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cj)
 - <a id="zhang26er-theory-statistics"></a>[A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26er)
+- <a id="zhang26fq-theory-statistics"></a>[Scaling Laws for Precision in High-Dimensional Linear Regression](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fq)
 <!-- classification:end -->

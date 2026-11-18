@@ -293,6 +293,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26y-optimization"></a>[LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26y)
 - <a id="zhang26da-optimization"></a>[Learning a Zeroth-Order Optimizer for Fine-Tuning LLMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26da)
 - <a id="zhang26eq-optimization"></a>[Attn-QAT: 4-Bit Attention With Quantization-Aware Training](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26eq)
+- <a id="zhang26fg-optimization"></a>[STLA: Spatiotemporal Lookahead Alignment for Post-Training Quantization](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26fg)
 
 <a id="by-reinforcement-learning"></a>
 

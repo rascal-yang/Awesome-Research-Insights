@@ -517,6 +517,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Trajectory-Stabilized Inference for Diffusion-Based Video Inpainting](../../conferences/icml-2026/cards/5801-5900.md#zhang26cx-inference) · 中文
 - [Adaptive Visual Autoregressive Acceleration via Dual-Linkage Entropy Analysis](../../conferences/icml-2026/cards/5801-5900.md#zhang26dq-inference) · 中文
 - [Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26du-inference) · 中文
+- [Semantic Editing with Coupled Stochastic Differential Equations](../../conferences/icml-2026/cards/5801-5900.md#zhang26fb-inference) · 中文
+- [SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation](../../conferences/icml-2026/cards/5801-5900.md#zhang26fd-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -805,6 +807,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SimGFM: Simplifying Discrete Flow Matching for Graph Generation](../../conferences/icml-2026/cards/3001-3100.md#luo26s-inference) · 中文
 - [Amortizing Maximum Inner Product Search with Learned Support Functions](../../conferences/icml-2026/cards/3501-3600.md#olausson26a-inference) · 中文
 - [Variational Bayesian Flow Network for Graph Generation](../../conferences/icml-2026/cards/5101-5200.md#xiong26a-inference) · 中文
+- [Hard-Constrained Graph Generation with Discrete-Projection Diffusion](../../conferences/icml-2026/cards/5801-5900.md#zhang26fh-inference) · 中文
 
 <a id="by-scientific-ml"></a>
 

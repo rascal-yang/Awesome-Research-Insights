@@ -517,6 +517,8 @@
 - [累积运动对齐漂移后才校正视频latent](../conferences/icml-2026/cards/5801-5900.md#zhang26cx-inference) · Trajectory-Stabilized Inference for Diffusion-Based Video Inpainting
 - [按scale熵增减速启动VAR剪枝](../conferences/icml-2026/cards/5801-5900.md#zhang26dq-inference) · Adaptive Visual Autoregressive Acceleration via Dual-Linkage Entropy Analysis
 - [先点估计再重加噪调逆问题感知权衡](../conferences/icml-2026/cards/5801-5900.md#zhang26du-inference) · Stage-wise Distortion–Perception Traversal in Zero-shot Inverse Problems with Diffusion Models
+- [共享反向噪声的语义编辑](../conferences/icml-2026/cards/5801-5900.md#zhang26fb-inference) · Semantic Editing with Coupled Stochastic Differential Equations
+- [置信后缀驱动的块级推测验证](../conferences/icml-2026/cards/5801-5900.md#zhang26fd-inference) · SJD-SV: Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation
 
 <a id="by-nlp"></a>
 
@@ -805,6 +807,7 @@
 - [离散图流的端点概率修正](../conferences/icml-2026/cards/3001-3100.md#luo26s-inference) · SimGFM: Simplifying Discrete Flow Matching for Graph Generation
 - [用凸支持函数学习向量检索路由](../conferences/icml-2026/cards/3501-3600.md#olausson26a-inference) · Amortizing Maximum Inner Product Search with Learned Support Functions
 - [结构精度矩阵耦合的贝叶斯流](../conferences/icml-2026/cards/5101-5200.md#xiong26a-inference) · Variational Bayesian Flow Network for Graph Generation
+- [离散图的后段约束投影](../conferences/icml-2026/cards/5801-5900.md#zhang26fh-inference) · Hard-Constrained Graph Generation with Discrete-Projection Diffusion
 
 <a id="by-scientific-ml"></a>
 
