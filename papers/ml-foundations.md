@@ -1307,4 +1307,5 @@
 - <a id="zhang26fq-theory-statistics"></a>[Scaling Laws for Precision in High-Dimensional Linear Regression](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26fq)
 - <a id="zhang26gm-theory-statistics"></a>[When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gm)
 - <a id="zhang26ie-theory-statistics"></a>[Personalized Policy Learning through Discrete Experimentation](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ie)
+- <a id="zhang26iz-theory-statistics"></a>[Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iz)
 <!-- classification:end -->

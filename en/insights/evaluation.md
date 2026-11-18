@@ -379,6 +379,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving](../../conferences/icml-2026/cards/5801-5900.md#zhang26dg-evaluation) · 中文
 - [Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning](../../conferences/icml-2026/cards/5801-5900.md#zhang26di-evaluation) · 中文
 - [From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](../../conferences/icml-2026/cards/5801-5900.md#zhang26dt-evaluation) · 中文
+- [When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](../../conferences/icml-2026/cards/5901-6000.md#zhang26jb-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -454,6 +455,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](../../conferences/icml-2026/cards/5601-5700.md#yu26bn-evaluation) · 中文
 - [T-measure: A Topology-Consistent Metric for Binary Segmentation](../../conferences/icml-2026/cards/5801-5900.md#zhang26br-evaluation) · 中文
 - [Geometric Collapse: When Vision Models Fail to Verify Physical Causality](../../conferences/icml-2026/cards/5801-5900.md#zhang26ev-evaluation) · 中文
+- [Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization](../../conferences/icml-2026/cards/6001-6100.md#zhang26jl-evaluation) · 中文
 
 <a id="by-nlp"></a>
 

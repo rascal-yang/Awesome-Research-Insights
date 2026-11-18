@@ -71,6 +71,7 @@ Objectives, auxiliary supervision, and regularization.
 - [LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26al-loss-functions) · 中文
 - [Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](../../conferences/icml-2026/cards/5801-5900.md#zhang26dp-loss-functions) · 中文
 - [Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hd-loss-functions) · 中文
+- [NITP: Next Implicit Token Prediction for LLM Pre-training](../../conferences/icml-2026/cards/5901-6000.md#zhang26ix-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -136,6 +137,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Contrastive Flow Map Matching](../../conferences/icml-2026/cards/5801-5900.md#zhang26do-loss-functions) · 中文
 - [Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness](../../conferences/icml-2026/cards/5901-6000.md#zhang26id-loss-functions) · 中文
 - [SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](../../conferences/icml-2026/cards/5901-6000.md#zhang26il-loss-functions) · 中文
+- [Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation](../../conferences/icml-2026/cards/6001-6100.md#zhang26jo-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

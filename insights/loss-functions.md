@@ -71,6 +71,7 @@
 - [把on-policy输出重标为自身长度计数任务](../conferences/icml-2026/cards/5701-5800.md#zhang26al-loss-functions) · LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models
 - [用中心化surprisal调SFT并控制hint依赖](../conferences/icml-2026/cards/5801-5900.md#zhang26dp-loss-functions) · Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training
 - [为后续RL选择SFT权重](../conferences/icml-2026/cards/5901-6000.md#zhang26hd-loss-functions) · Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning
+- [预测下一位置的浅层隐token](../conferences/icml-2026/cards/5901-6000.md#zhang26ix-loss-functions) · NITP: Next Implicit Token Prediction for LLM Pre-training
 
 <a id="by-computer-vision"></a>
 
@@ -136,6 +137,7 @@
 - [在模型生成中间态上约束flow-map端点语义](../conferences/icml-2026/cards/5801-5900.md#zhang26do-loss-functions) · Contrastive Flow Map Matching
 - [后验软标签与频率联动的长尾鲁棒训练](../conferences/icml-2026/cards/5901-6000.md#zhang26id-loss-functions) · Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness
 - [自诱导镜像点的一致去噪](../conferences/icml-2026/cards/5901-6000.md#zhang26il-loss-functions) · SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising
+- [按margin分位数渐进重加权](../conferences/icml-2026/cards/6001-6100.md#zhang26jo-loss-functions) · Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation
 
 <a id="by-nlp"></a>
 

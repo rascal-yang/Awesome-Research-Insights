@@ -256,6 +256,7 @@
 - [把latent watermark与图像语义码绑定](../conferences/icml-2026/cards/5901-6000.md#zhang26hj-training-strategies) · SemBind: Binding Diffusion Watermarks to Semantics Against Black-Box Forgery Attacks
 - [用类trace门控二值记忆写入](../conferences/icml-2026/cards/5901-6000.md#zhang26hk-training-strategies) · BTSP-CAM: A Brain-Inspired Geometric Memory for Class-Incremental Learning
 - [用固定教师锚点对齐增量DETR蒸馏](../conferences/icml-2026/cards/5901-6000.md#zhang26hl-training-strategies) · Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection
+- [先语义压缩再放开像素梯度](../conferences/icml-2026/cards/5901-6000.md#zhang26iw-training-strategies) · Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing
 
 <a id="by-nlp"></a>
 

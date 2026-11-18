@@ -120,6 +120,7 @@
 - [按局部上界缩放并重分配LoRA因子](../conferences/icml-2026/cards/5901-6000.md#zhang26hi-optimization) · ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning
 - [沿prefix树DFS复用训练前反向计算](../conferences/icml-2026/cards/5901-6000.md#zhang26hr-optimization) · AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models
 - [在共享rank坐标的LoRA因子sketch上合并](../conferences/icml-2026/cards/5901-6000.md#zhang26hx-optimization) · Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms
+- [RLVR下拆开奇异方向与幅度](../conferences/icml-2026/cards/6001-6100.md#zhang26jm-optimization) · Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR
 
 <a id="by-computer-vision"></a>
 

@@ -382,6 +382,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals](../../conferences/icml-2026/cards/5901-6000.md#zhang26hc-inference) · 中文
 - [Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](../../conferences/icml-2026/cards/5901-6000.md#zhang26hy-inference) · 中文
 - [CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization](../../conferences/icml-2026/cards/5901-6000.md#zhang26iu-inference) · 中文
+- [Reasoning Is Not Free: Robust Adaptive Cost-Efficient Routing for LLM-as-a-Judge](../../conferences/icml-2026/cards/5901-6000.md#zhang26iv-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

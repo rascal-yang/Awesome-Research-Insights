@@ -661,6 +661,7 @@
 - [量化噪声几何改变模型与样本有效规模](../conferences/icml-2026/cards/5901-6000.md#zhang26fq-theory-statistics) · Scaling Laws for Precision in High-Dimensional Linear Regression
 - [检查多模型数据循环的curation交叉影响](../conferences/icml-2026/cards/5901-6000.md#zhang26gm-theory-statistics) · When and How Human Curation Backfires: Preference Alignment under Multi-Model Self-Consuming Loop
 - [离散RCT下结构响应曲线的策略学习](../conferences/icml-2026/cards/5901-6000.md#zhang26ie-theory-statistics) · Personalized Policy Learning through Discrete Experimentation
+- [依赖检验下边界发现的错误指标](../conferences/icml-2026/cards/5901-6000.md#zhang26iz-theory-statistics) · Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle
 
 <a id="by-graph-and-recommendation"></a>
 

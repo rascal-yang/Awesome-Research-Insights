@@ -223,6 +223,7 @@
 - <a id="zhang26ex-reinforcement-learning"></a>[CofactGVR: Counterfactual Intervention for Grounded Visual Reasoning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ex)
 - <a id="zhang26gu-reinforcement-learning"></a>[See First, Reason Later: Mutual Information-Guided Reinforcement Learning for Vision-Language Models](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gu)
 - <a id="zhang26hq-reinforcement-learning"></a>[GenAlign: Towards Unified Alignment Framework of MLLMs via Generative Reward Model](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hq)
+- <a id="zhang26je-reinforcement-learning"></a>[iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhang26je)
 
 <a id="by-training-strategies"></a>
 

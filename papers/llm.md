@@ -186,6 +186,7 @@
 - <a id="zhang26al-loss-functions"></a>[LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26al)
 - <a id="zhang26dp-loss-functions"></a>[Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dp)
 - <a id="zhang26hd-loss-functions"></a>[Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hd)
+- <a id="zhang26ix-loss-functions"></a>[NITP: Next Implicit Token Prediction for LLM Pre-training](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26ix)
 
 <a id="by-optimization"></a>
 
@@ -298,6 +299,7 @@
 - <a id="zhang26hi-optimization"></a>[ScaLoRA: Optimally Scaled Low-Rank Adaptation for Efficient High-Rank Fine-Tuning](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hi)
 - <a id="zhang26hr-optimization"></a>[AReaL-DTA: Dynamic Tree Attention for Efficient Reinforcement Learning of Large Language Models](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hr)
 - <a id="zhang26hx-optimization"></a>[Sketch-Based Low-Rank Model Merging with Shared Circulant Transforms](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hx)
+- <a id="zhang26jm-optimization"></a>[Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR](../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jm)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1124,6 +1126,7 @@
 - <a id="zhang26hc-inference"></a>[SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hc)
 - <a id="zhang26hy-inference"></a>[Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hy)
 - <a id="zhang26iu-inference"></a>[CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iu)
+- <a id="zhang26iv-inference"></a>[Reasoning Is Not Free: Robust Adaptive Cost-Efficient Routing for LLM-as-a-Judge](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iv)
 
 <a id="by-representation-learning"></a>
 
@@ -1520,6 +1523,7 @@
 - <a id="zhang26dg-evaluation"></a>[CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dg)
 - <a id="zhang26di-evaluation"></a>[Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26di)
 - <a id="zhang26dt-evaluation"></a>[From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dt)
+- <a id="zhang26jb-evaluation"></a>[When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26jb)
 
 <a id="by-theory-statistics"></a>
 

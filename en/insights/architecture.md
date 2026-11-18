@@ -137,6 +137,7 @@ Model-wide design and information flow.
 - [Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](../../conferences/icml-2026/cards/5001-5100.md#wu26v-architecture) · 中文
 - [Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics](../../conferences/icml-2026/cards/5301-5400.md#yan26v-architecture) · 中文
 - [Autoregressive Image Generation with Masked Bit Modeling](../../conferences/icml-2026/cards/5501-5600.md#yu26z-architecture) · 中文
+- [Transform Trained Transformer for Accelerating Native 4K Video Generation](../../conferences/icml-2026/cards/6001-6100.md#zhang26jj-architecture) · 中文
 
 <a id="by-nlp"></a>
 

@@ -382,6 +382,7 @@
 - [按当前隐状态信号触发安全引导](../conferences/icml-2026/cards/5901-6000.md#zhang26hc-inference) · SafeCompass: Dynamic Chain-of-Thought Steering via Inference-Time Safety Signals
 - [用分布式请求检验并扩展输出多样性](../conferences/icml-2026/cards/5901-6000.md#zhang26hy-inference) · Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity
 - [批量页表提交支撑弹性连续张量](../conferences/icml-2026/cards/5901-6000.md#zhang26iu-inference) · CONTINUUM: Restoring the Contiguous Tensor Abstraction Efficiently for Dynamic AI Workloads via Hardware Virtualization
+- [按验证需求路由judge推理](../conferences/icml-2026/cards/5901-6000.md#zhang26iv-inference) · Reasoning Is Not Free: Robust Adaptive Cost-Efficient Routing for LLM-as-a-Judge
 
 <a id="by-computer-vision"></a>
 

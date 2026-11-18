@@ -74,6 +74,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wu26v-architecture"></a>[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26v)
 - <a id="yan26v-architecture"></a>[Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26v)
 - <a id="yu26z-architecture"></a>[Autoregressive Image Generation with Masked Bit Modeling](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26z)
+- <a id="zhang26jj-architecture"></a>[Transform Trained Transformer for Accelerating Native 4K Video Generation](../../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jj)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -202,6 +203,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26do-loss-functions"></a>[Contrastive Flow Map Matching](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26do)
 - <a id="zhang26id-loss-functions"></a>[Posterior Mismatch Matters: Adversarial Training for Long-Tailed Robustness](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26id)
 - <a id="zhang26il-loss-functions"></a>[SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26il)
+- <a id="zhang26jo-loss-functions"></a>[Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation](../../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jo)
 
 <a id="by-optimization"></a>
 
@@ -351,6 +353,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26hj-training-strategies"></a>[SemBind: Binding Diffusion Watermarks to Semantics Against Black-Box Forgery Attacks](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hj)
 - <a id="zhang26hk-training-strategies"></a>[BTSP-CAM: A Brain-Inspired Geometric Memory for Class-Incremental Learning](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hk)
 - <a id="zhang26hl-training-strategies"></a>[Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hl)
+- <a id="zhang26iw-training-strategies"></a>[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26iw)
 
 <a id="by-data-strategies"></a>
 
@@ -668,6 +671,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yu26bn-evaluation"></a>[MEDUSA: Motion Elimination in Diffusion Using Spectral Attack](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bn)
 - <a id="zhang26br-evaluation"></a>[T-measure: A Topology-Consistent Metric for Binary Segmentation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26br)
 - <a id="zhang26ev-evaluation"></a>[Geometric Collapse: When Vision Models Fail to Verify Physical Causality](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ev)
+- <a id="zhang26jl-evaluation"></a>[Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jl)
 
 <a id="by-theory-statistics"></a>
 

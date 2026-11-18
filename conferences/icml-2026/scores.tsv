@@ -5990,26 +5990,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5989	zhang26is	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按双PL条件的无二阶分布式bilevel，最近方法差异见baseline且待核；复用5：当lower loss g和惩罚后的hρ=g+ρf都满足PL时，可用y/z双lower估计的value-gap penalty、STORM与consensus tracking替代Hessian inverse；“仅PL”不能省略hρ这一额外条件。 可用3受g PL不推出g+ρf PL，需共同满足；全DNN模型剪枝实验不认证全局PL。无Hessian计算不等无二阶正则性假设，ρ→0放大噪声/步长约束，κ^9与ε^−5可能高成本；optimistic solution selection及∇L存在的附加条件待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
 5990	zhang26it							初筛，原文与先例核查待补：现有PDF第3–4/6页将VQA转knowledge graph，再按triplet扩展hop、LLM改写/过滤和视觉重新选题。属成熟graph reasoning/question generation与dynamic benchmark流程，hop更长也同时换知识/答案分布；accuracy下降不能单独证明去污染或精确难度控制，当前未隔离新的评测估计器或可复用law，暂排。	rule-excluded
 5991	zhang26iu	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按批量页表提交支撑弹性连续张量，最近方法差异见baseline且待核；复用5：动态KV/多LoRA/共享prefix可用大虚拟地址预留、按需物理页绑定和alias保连续tensor接口；要使这种方案可部署，页表提交成本须低到微秒级，且将driver扩展成本与kernel后端差异计入。 可用3受虚拟contiguity不消除物理容量/带宽需求，页表copy仍与更新页数传输量有关，O(1)transaction不等O(1)bytes。需要兼容driver/GPU、同步TLB与inflight kernel、alias写入/生命周期正确性；安全验证和race/coherency、map/unmap全成本与多租户表现待核。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7/8页。	scored
-5992	zhang26iv							待原文复核评分	pending
-5993	zhang26iw							待原文复核评分	pending
-5994	zhang26ix							待原文复核评分	pending
-5995	zhang26iy							待原文复核评分	pending
-5996	zhang26iz							待原文复核评分	pending
-5997	zhang26ja							待原文复核评分	pending
-5998	zhang26jb							待原文复核评分	pending
-5999	zhang26jc							待原文复核评分	pending
-6000	zhang26jd							待原文复核评分	pending
-6001	zhang26je							待原文复核评分	pending
-6002	zhang26jf							待原文复核评分	pending
-6003	zhang26jg							待原文复核评分	pending
-6004	zhang26jh							待原文复核评分	pending
-6005	zhang26ji							待原文复核评分	pending
-6006	zhang26jj							待原文复核评分	pending
-6007	zhang26jk							待原文复核评分	pending
-6008	zhang26jl							待原文复核评分	pending
-6009	zhang26jm							待原文复核评分	pending
-6010	zhang26jn							待原文复核评分	pending
-6011	zhang26jo							待原文复核评分	pending
+5992	zhang26iv	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：对评判模型先测reasoning的领域收益与成本，再在预算下路由；对reward和cost分别做支持集内的鲁棒重加权，避免所有样本都启用推理。；KL相对经验分布的球只能重加权已有支持，不覆盖新支持OOD；线性收敛依赖凸policy类、bounded cost/density ratio和正则，神经router不自动继承；式中Lagrangian预算常数及固定temperature与球半径关系待统一核。 PDF3,4,5,6页。	scored
+5993	zhang26iw	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：把理解encoder变生成latent时，先冻结encoder训练语义VAE、阻断pixel decoder回传，再解冻联合细节重建；以通道×生成模型规模控制压缩瓶颈。；语义压缩/像素重建本身成熟，独立阶段规则需最近先例复核；线性流形投影恒等式不证明真实非线性latent的off-manifold失败必然来源；较大通道改变算力，重建好不直接保证生成好。 PDF4,5,7页。	scored
+5994	zhang26ix	4	5	4	4	86		初筛，原文与先例核查待补：暂定新增4/复用5/使用4/独特4：在NTP外，用当前位置深层状态经projector预测下一token位置浅层hidden的stop-gradient方向，复用同一次训练forward的表征监督。；cosine目标不约束径向范数，不能据此宣称全空间正定曲率或完全防collapse；GGN/局部full-rank projector条件不覆盖一般非线性Hessian；target虽含下一token但只作训练标签，需避免混淆推理泄露。 PDF4,5,6,7页。	scored
+5995	zhang26iy							初筛，原文与先例核查待补：PCA空间/均值对齐、Hungarian类配对、生成repair、channel pruning与逐层stitch搜索均为成熟模块；现有few-shot传感器应用控制不足指出独立于拼装的新损失或选型规律。PDF4–5。	rule-excluded
+5996	zhang26iz	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：有效p/e值存在依赖时，若关心最边界k项全部为假的概率，可用只针对该边界集合的closure条件，而非把普通FDR解释成边缘发现可靠。；不能由k-bFDR直接推出普通FDR/FWER；可免费拒绝不足k项显示其指标更弱；局部检验有效性仍是必要前提，closure通用计算可能组合爆炸；神经自适应选检验后p/e有效性须另证。 PDF3,4,5,6页。	scored
+5997	zhang26ja							初筛，原文与先例核查待补：低秩投影GP、稀疏inducing kernel和amortized VI均已有；缓存的exact recasting仅对kernel可经A分解成立，input-dependent q(Z|x)不自动给共享函数posterior。现有材料不足提取独立新贝叶斯操作而非模块组合。PDF4–5。	rule-excluded
+5998	zhang26jb	4	4	4	4	80		初筛，原文与先例核查待补：暂定新增4/复用4/使用4/独特4：多agent防御不能只看消息embedding离群；在消息传播前联合检查token不确定性，并按通信轮数/拓扑测试信号持续性，避免等讨论收敛后才筛。；表4判别量具体指标定义待核，不擅称AUROC；confidence仍会被污染且不保证真实正确性，API返回token概率不等完整词表entropy；多轮/拓扑规律只限已测设置，阈值与校准需验证。 PDF3,5,6,7,8页。	scored
+5999	zhang26jc							初筛，原文与先例核查待补：controlled latent SDE中command value与时间差分双通道、state-dependent diffusion、FiLM flow decoder和dissipativity界为成熟控制/生成构件；当前缓存未给超出组合的独立一般规律，非因轨迹对象名称排除。PDF4–5。	rule-excluded
+6000	zhang26jd							初筛，原文与先例核查待补：冻结anchor embedding后存中心/PCA子空间，以子空间残差+距离路由/拒绝，再接prompt与classifier，属于成熟subspace classifier/OOD score与task adapter；开集图任务新设定本身不足独立新增。PDF4–5。	rule-excluded
+6001	zhang26je	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：用带box的高质量reasoning作为训练参考，对纯文本stream给一致性奖励；部署时不强制输出框，分别检查显式grounding与工具crop的增减益。；archive按GT筛选需定位标注及额外grounded rollouts/LLM judge成本；语义一致不能保证内部真的定位；reference陈旧/奖励偏差和teacher distillation最近先例待核，不能把移除box本身称新机制。 PDF4,5,6,7页。	scored
+6002	zhang26jf							初筛，原文与先例核查待补：stateful异步执行、日志/曲线stream、warning中断与LLM局部修复/重规划属于成熟工具agent监控流程；MATLAB仿真集成与成功率提升未给独立学习机制或新控制选择规律。PDF3–4。	rule-excluded
+6003	zhang26jg							初筛，原文与先例核查待补：feature centroid cosine作距离、指数衰减样本量作capacity后聚类，是相似性加权联邦分组的现有操作；质心cosine并非一般HΔH距离/风险界，拟合power-law本身不足新增可复用保证或独立匹配选择规律。PDF4。	rule-excluded
+6004	zhang26jh							初筛，原文与先例核查待补：trace归一奇异谱早稳定与loss两阶段相关为观察；现有缓存未给利用该量选择训练日程/optimizer的独立受控规则。norm增长及单层full-batch条件不自动证明一般预训练瓶颈，不能只以谱解释保留。PDF4–5、7。	rule-excluded
+6005	zhang26ji							初筛，原文与先例核查待补：将经典Burt effective size加入role相同指示，再接现成离散graph diffusion/learned ordering与REINFORCE，是成熟图生成/结构洞度量在agent topology的配置；当前材料未体现独立新预算或通信策略规律。PDF4–6。	rule-excluded
+6006	zhang26jj	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：保留预训练QKVO权重，改用局部与跨域稀疏尺度窗口并行、跨层错开分块且保留部分完整轴，作为full-attention视频模型的低成本迁移选项。；仍需全参数/LoRA适配，直接改分辨率会失败；减MAC不等比例减walltime；remote稀疏窗不是单层任意token完整连接；速度表依赖硬件、batch和CFG口径，最近兼容预训练稀疏attention待核。 PDF3,4,5,6页。	scored
+6007	zhang26jk							初筛，原文与先例核查待补：同状态有/无动作rollout差值排序、entropy调阈值，再SFT和干预结果DPO，是成熟lookahead planning/偏好学习流程；局部经验差不证明全局因果识别，现有缓存不足给独立新操作。PDF4。	rule-excluded
+6008	zhang26jl	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：评估VQ tokenizer时，同时看code utilization与有效rank/谱尾；用连续AE的PCA谱裁剪作诊断控制，避免满码本使用率掩盖低维表示。；原式称cov/correlation但算法CᵀC未显式中心化/标准化；去非对角也可缩小/旋转码本，不能数学保证恢复谱尾或rank；AE谱裁剪不是VQ真实生成过程因果识别；论文宣称1.50与表中1.55差异待核。 PDF4,5,6,7页。	scored
+6009	zhang26jm	4	4	4	4	80		初筛，原文与先例核查待补：暂定新增4/复用4/使用4/独特4：从SFT迁移LoRA到RLVR时，分别对照奇异子空间、奇异值缩放和LR日程；保留方向但去掉奇异值幅度的正交初始化可比照直接PiSSA/MiLoRA。；有限时域小步长单层smooth模型的误差上界不等于实际全模型最优gap；r<n时||I−AᵀA||₂最小为1且许多奇异值≤1的A也达1，不能据此唯一选择正交或排除A=0；ratio clipping不自动约束KL/全梯度。 PDF4,5,6,7,8页。	scored
+6010	zhang26jn							初筛，原文与先例核查待补：冻结retriever、LLM query rewrite以rank线性奖励做GRPO为成熟retrieval-feedback query optimization；相似度score inflation及rank优于absolute similarity需最近原作控制，当前未见超出已有排序奖励的独立新关系或目标。PDF4、6。	rule-excluded
+6011	zhang26jo	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：在增量分割中，用batch内margin稳定度的分位数作像素权重，指数随训练从正变负，先学大margin再强化低margin，单独核验此目标而非依赖整套机制。；endpointρ及u=0需数值处理，后期负指数可能集中少数像素；权重反传是否sg待核。SKD所写对feature平方差的二阶导数若按字面是常数，不能宣称有效敏感度抑制；局部margin线性化不保证有限扰动半径界。 PDF4,5,6,7页。	scored
 6012	zhao26a							待原文复核评分	pending
 6013	zhao26b							待原文复核评分	pending
 6014	zhao26c							待原文复核评分	pending

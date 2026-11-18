@@ -379,6 +379,7 @@
 - [按adapter驻留槽约束入口以控制LoRA尾延迟](../conferences/icml-2026/cards/5801-5900.md#zhang26dg-evaluation) · CLIMB: Taming the LoRA Residency Cliff in Multi-LoRA Serving
 - [在解码参数和双向上下文下联合评估DLM遗忘](../conferences/icml-2026/cards/5801-5900.md#zhang26di-evaluation) · Adversarial Reinforcement Learning for Robust Diffusion Large Language Model Unlearning
 - [把语义cache命中与回答完整性分开审计](../conferences/icml-2026/cards/5801-5900.md#zhang26dt-evaluation) · From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching
+- [通信轮次下防御信号衰减](../conferences/icml-2026/cards/5901-6000.md#zhang26jb-evaluation) · When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems
 
 <a id="by-computer-vision"></a>
 
@@ -454,6 +455,7 @@
 - [时间注意力低秩与运动衰退的诊断](../conferences/icml-2026/cards/5601-5700.md#yu26bn-evaluation) · MEDUSA: Motion Elimination in Diffusion Using Spectral Attack
 - [把连通碎裂显式接入分割评分](../conferences/icml-2026/cards/5801-5900.md#zhang26br-evaluation) · T-measure: A Topology-Consistent Metric for Binary Segmentation
 - [用能量和结构匹配控制测边缘扰动的全局传播](../conferences/icml-2026/cards/5801-5900.md#zhang26ev-evaluation) · Geometric Collapse: When Vision Models Fail to Verify Physical Causality
+- [码本利用率不等于表征维数](../conferences/icml-2026/cards/6001-6100.md#zhang26jl-evaluation) · Unveiling And Addressing Dimensional Collapse In Vector Quantization Models Via Codebook Regularization
 
 <a id="by-nlp"></a>
 

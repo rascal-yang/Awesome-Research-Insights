@@ -137,6 +137,7 @@
 - [固定记忆预算与不确定动作标签](../conferences/icml-2026/cards/5001-5100.md#wu26v-architecture) · Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory
 - [局部方向几何与全局顺序的拆分](../conferences/icml-2026/cards/5301-5400.md#yan26v-architecture) · Rethinking Serialization in Linear 3D Vision: Decoupling Anisotropic Geometry from Isotropic Semantics
 - [用条件掩码bit头建模大码本内依赖](../conferences/icml-2026/cards/5501-5600.md#yu26z-architecture) · Autoregressive Image Generation with Masked Bit Modeling
+- [共享投影的多尺度窗口改造](../conferences/icml-2026/cards/6001-6100.md#zhang26jj-architecture) · Transform Trained Transformer for Accelerating Native 4K Video Generation
 
 <a id="by-nlp"></a>
 
