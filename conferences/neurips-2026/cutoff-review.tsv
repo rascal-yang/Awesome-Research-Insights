@@ -224,3 +224,48 @@ poster_id	novelty	reuse	usability	distinctness	evidence_scope	source	precedent	r
 154326	4	5	4	5	full_text_sections	https://arxiv.org/html/2607.11056v1	https://proceedings.mlr.press/v151/gorbunov22b.html	随机外梯度已有，正文推进有约束单循环末迭代界，并区分受限对偶间隙及无约束几乎处处收敛条件。
 155816	4	5	4	5	full_text_sections	https://arxiv.org/html/2605.20547v1	https://arxiv.org/abs/2410.20587	由静态潜变量生成器匹配扩展时间依赖潜过程；正文给条件生成器参数边缘化以复现投影边缘分布。
 151648	4	4	4	4	full_text_sections	https://arxiv.org/html/2610.09760v1	https://arxiv.org/abs/2506.19125	已有 Transformer 实现聚类的构造；正文用较精简网络学习单步聚类，并测试同分布增样时的多步泛化。
+148994	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2602.07738	https://proceedings.mlr.press/v267/singhal25b.html	既有 Feynman–Kac 引导用粒子重权。本文以适应性接受率近似倾斜转移并给有限预算保证，适合按黑箱查询量比较奖励质量和分布误差。
+151132	4	4	4	4	author_fulltext_method	https://arxiv.org/html/2605.07157	https://arxiv.org/abs/2003.04630	拉格朗日网络先例以学习能量推出动力学。本作对偏微分方程以局部时空残差推进，并明确以超采样牺牲严格辛性换取学得模型的稳定性。
+154089	4	4	4	4	author_fulltext_intro_theorem_summary	https://arxiv.org/html/2607.24732	https://epubs.siam.org/doi/10.1137/130945508	条件采样先例允许查询子集做概率检验。此作固定来源子集族，用共现图分别刻画统一 PAC 的完全图条件和已知支持时逐点一致的连通条件，可指导检查来源覆盖。
+152730	4	5	4	4	author_fulltext_method_outline	https://arxiv.org/html/2605.26850	https://arxiv.org/abs/2303.08797	随机插值已有统一去噪训练。此作以联合时空差异学习能量，正文区分纯空间方法的多峰问题和纯时间方法的支持错配，可建两类分离诊断。
+149933	3	4	4	4	author_abstract	https://openreview.net/forum?id=m5NZKzLOY2	https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Producing_and_Leveraging_Online_Map_Uncertainty_in_Trajectory_Prediction_CVPR_2024_paper.pdf	先例已将在线地图不确定性用于轨迹预测。本文补充语义和几何联合推断，并将校准反馈给表示，可比较独立置信和共享误差；公开方法细节待补。
+150877	4	4	3	4	author_fulltext_problem_formulation	https://arxiv.org/html/2504.21164	https://arxiv.org/abs/1802.05438	经典平均场 MARL 用群体分布减少交互。正文明确两队个体转移同时受双方经验分布影响，适合在组内合作与组间竞争的抽象任务中检验规模效应。
+155310	4	4	3	4	author_abstract	https://openreview.net/forum?id=6YP5vFsfOv	https://arxiv.org/abs/1002.2334	预算可行采购已有机制设计先例。本文用菜单把学习到的候选限制在满足预算和激励的集合，适合对照用惩罚项训练造成的可行性缺口；确切架构和保证待查。
+149636	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2611.15420	https://openaccess.thecvf.com/content/ICCV2025/papers/Kwon_VISION-XL_High_Definition_Video_Inverse_Problem_Solver_using_Latent_Image_ICCV_2025_paper.pdf	VISION-XL 已将图像生成先验用于视频逆问题。本文学习运动无法解释的外观残差并作插件正则，适合遮挡及光照改变时与单纯配准损失对照。
+155306	4	4	3	4	author_fulltext_method	https://arxiv.org/html/2605.19959	https://proceedings.mlr.press/v97/lezcano-casado19a.html	已有有限维正交群参数化以反对称生成元保持正交。本文将其拓展为参考函数基上的保正交流，适合在同截断阶数下对照学习基与固定基。
+149945	4	5	4	4	author_fulltext_optimizer_comparison	https://arxiv.org/html/2611.12769	https://proceedings.mlr.press/v80/kleinberg18a.html	既有 SGD 研究解释噪声何以逃离局部极小。此作直接比较步长策略到达目标区域的查询复杂度；指数优势属于特定函数和噪声设定。
+154618	4	4	3	4	author_abstract	https://openreview.net/forum?id=CENjUqCe8j	https://proceedings.mlr.press/v337/li26l.html	概率神经验证已有概率包络先例。本文学习可达集形状再独立校准，适合对照固定包络过松时的认证率；量化保证仍应和确定性验证区分。
+152289	4	4	3	4	author_fulltext_problem_formulation	https://arxiv.org/html/2605.04115	https://pubmed.ncbi.nlm.nih.gov/30057201/	先例以低秩重叠刻画循环网络活动与功能。本文在重叠空间建训练动力学，能区分单回合活动时间和跨回合更新过程，迁移受低秩近似限制。
+155615	4	4	3	4	author_fulltext_norm_setup	https://arxiv.org/html/2605.25608	https://arxiv.org/abs/1708.06633	已有深 ReLU 组合函数回归理论按结构控制样本复杂度。本文改用保持逐层缩放对称的乘积范数，允许在过参数区间比较逼近与泛化。
+152881	4	4	3	4	author_fulltext_related_work	https://arxiv.org/html/2611.15963	https://pubmed.ncbi.nlm.nih.gov/39420582/	Mitchell 与 Rotskoff 已用跨越概率指引稀有跃迁采样。此作用带权轨迹集合闭环补充训练数据，避免只扩充当前预测高分路径；此处限一般稀有事件模拟洞见。
+152703	4	4	3	4	author_fulltext_intro	https://arxiv.org/html/2605.08811	https://arxiv.org/abs/1912.10077	早期 Transformer 理论给出通用近似。本文以原生 softmax 加权组合局部近似，并在紧流形上给泛化速率，适合作为局部注意机制的理论参照。
+155573	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=4bJGY8qAu3	https://arxiv.org/abs/2206.00927	DPM-Solver 已组合历史模型评估以减步。本文研究局限在线性张成空间的求解更新，适合用相同函数评估次数比较跨方向修正的收益。
+149546	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2611.23081	https://doi.org/10.1007/978-3-540-75521-6_37	§3.1–3.3。MDP 同态提供抽象基础。本条学习撤销目标状态空间变换的映射，以分布匹配衡量质量并关联策略迁移。
+155726	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2605.16755	https://arxiv.org/abs/1802.08665	§2–4。对照 Gumbel-Sinkhorn，在满足行列和约束的仿射空间学习排列分布。复用判断可看歧义输入是否保持多个合法排列。
+151237	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2605.11586		§3–3.1 研究弱通信条件下平均奖励 CMDP 的强对偶。可决定何时使用对偶策略；直接先例链接待核。
+154825	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2604.09787	https://arxiv.org/abs/1906.03292	§3–4.1。无监督解耦的不可辨识结果是相关背景。本条利用多传感观测分辨共有物理信号和传感伪影，可检验迁移后是否保留物理量。
+149435	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=q637ymfOaO	https://arxiv.org/abs/2301.10413	联合多模态扩散是相关先例。本文从数据学习异步去噪日程，可对照手设曲线在固定采样成本下如何影响共同表示。
+153993	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=H11SbZ7GkO		在线多正确答案学习按反馈可见范围分别分析遗憾，可指导收集全正确集合还是只收一次反馈。直接先例待核。
+150600	4	5	4	4	author_abstract_only	https://openreview.net/forum?id=gx6QOo6yY5	https://arxiv.org/abs/2310.16028	RASP 类可表达性是已有长度外推研究。本条考察压缩与长度泛化的联系，可用作比较固定长度训练下不同解法结构的依据。
+155014	4	4	4	4	author_abstract_only	https://openreview.net/forum?id=9ETaeeas7a	https://doi.org/10.1109/5.18626	HMM 的经典过滤是显式非线性归一化递推。本条诊断何时线性递推就能近似信念，可区分基准容易和模型学到了复杂过滤。
+154848	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=ASBq7wkFtd	https://arxiv.org/abs/1102.2670	线性 UCB 类方法通常使用逐动作乐观上界。本文允许索引低于有效上界，可比较准乐观程度对探索及遗憾的影响。
+155332	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=6Q1b0lxekb	https://arxiv.org/abs/1603.07275	Unlabeled Sensing 是未知匹配线性回归的相关先例。摘要区分两类失配结构，可按对应关系和样本条件选择恢复策略。
+153450	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=LCU19fa0gS	https://arxiv.org/abs/0907.3656	X-Armed Bandits 在度量动作空间中做探索，本条仅获比较反馈。可对照连续空间适应和偏好反馈分别造成的样本成本。
+151210	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=c9FX4sWgTb	https://arxiv.org/abs/1810.00828	既有过拟合混合研究已指出局部退化。该摘要研究在附加条件下梯度更新的线性局部速率，适合用作过度参数化选型时的收敛对照。
+151248	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=bnpbr6NXNG		将延迟反馈与非平稳比较器产生的局部遗憾加性表达，可避免只用最坏全局延迟诊断。直接先例待核。
+152505	4	4	4	4	author_abstract_only	https://openreview.net/forum?id=SeaR5REYbd	https://arxiv.org/abs/2210.02747	以预训练传输流支持查询点近邻的流形恢复，与流匹配生成基础相关；可对照仅从带噪数据做局部线性拟合的几何误差。
+149279	4	5	4	5	abstract	https://openreview.net/forum?id=rUh3nJ2f7c	https://proceedings.mlr.press/v202/von-oswald23a.html	先例构造注意力模拟上下文梯度；本文用多项式次数解释对数深度转折，并在 Qwen 早退探针检验，机制外推仍需正文。
+148791	4	5	5	4	full_text_sections	https://arxiv.org/html/2511.11359v1	https://papers.neurips.cc/paper_files/paper/2017/hash/491442df5f88c6aa018e86dac21d3606-Abstract.html	对照 Sinkhorn 等熵正则方法，以对数平均的原对偶迭代节省内存；正文表格检验不同精度设定。
+148712	4	4	4	4	abstract	https://openreview.net/forum?id=vcu7CdwIWi	https://arxiv.org/abs/1806.03953	已有从标记轨迹学习时序逻辑；本文从编码器输出蒸馏简短规则，复用取决于规则语言是否覆盖教师行为。
+152383	4	5	4	5	full_text_sections	https://arxiv.org/html/2604.22161v1	https://proceedings.mlr.press/v151/faury22a.html	在高效 logistic bandit 的基础上免上下文多样性假设；正文明确说明该假设为何阻碍高维核扩展。
+150598	4	5	4	5	abstract	https://openreview.net/forum?id=gxjUmgllX0	https://www.microsoft.com/en-us/research/publication/logarithmic-regret-algorithms-online-convex-optimization/	已有强凸对数遗憾算法；本文利用镜像对偶和 van Trees 统一正则化遗憾下界，几何适用范围待核。
+148287	4	5	4	5	abstract	https://openreview.net/forum?id=yyy2M0dK0r	https://pmc.ncbi.nlm.nih.gov/articles/PMC5467749/	先例已用局部 Hebbian 可塑性近似反传；本文另检验独立前后路径如何形成转置对齐及共享多任务提升。
+149678	4	5	4	5	full_text_sections	https://arxiv.org/html/2606.00605v1	https://proceedings.mlr.press/v202/von-oswald23a.html	先例考察注意力学习梯度算法；本文给含层归一化的循环训练动力学与幂法主成分预测，并对照单层。
+148332	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.22756v1	https://www.sciencedirect.com/science/article/abs/pii/S0957417417300428	传统私有随机森林已限制分裂隐私损耗；本文用树上重频项分配统计预算，正文列多种私有树对照。
+154192	4	5	4	4	full_text_sections	https://arxiv.org/html/2611.05157v1	https://ems.press/journals/msl/articles/16224	将逐实例微正则合成摊销为生成网络；正文保留分布而非逐样本锁定统计量，并用残差初始化限制模式压缩。
+151052	4	5	4	5	full_text_sections	https://arxiv.org/html/2603.14094v1	https://proceedings.mlr.press/v180/go22a.html	先例考虑先验不确定下的稳健信息增益；本文以 Sibson 信息和 PAC-Bayes 有限样本证书处理随机设计策略。
+156118	4	5	5	4	full_text_sections	https://arxiv.org/html/2509.03738v3	https://www.transformer-circuits.pub/2023/monosemantic-features/index.html	传统字典以向量表征概念；正文把概念及定义域稀疏分开，支持分辨率迁移，实证偏局部视觉结构。
+154952	4	5	4	5	full_text_sections	https://arxiv.org/html/2510.00563v1	https://arxiv.org/abs/2206.11893	继承对角 SSM 初始化的谱视角，正文比较不同特征值配置的记忆结构，并据梯度分析考虑冻结递归。
+150585	4	5	4	5	full_text_sections	https://arxiv.org/html/2611.09995v1	https://pmc.ncbi.nlm.nih.gov/articles/PMC12017325/	输入驱动 Hopfield 先例强调稳定回想；本文对动态显著性调制给序列切换、自维持与坍缩判据，规模可靠性仍开放。
+148667	4	5	4	5	full_text_sections	https://arxiv.org/html/2605.09654v1	https://stat.duke.edu/~scs/Courses/Stat376/Papers/ConvergeRates/GeneralState/RobertsTweedie1996.pdf	Metropolis 调整 Langevin 已有；本文用于扩散去噪与分数积分，正文注明校正有效性和成本受局部上界影响。
+154433	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.29920v1	https://arxiv.org/abs/2505.13447	单步生成已有平均流；本文用中点差异的变分目标，正文单独消融随机交换与时间积分。
