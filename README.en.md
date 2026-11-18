@@ -33,8 +33,10 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 923 | General learning methods, optimization, learning theory, and inference. |
 | <a id="graph-and-recommendation"></a>[Graph Learning and Recommendation](en/papers/graph-and-recommendation.md) | 101 | Graph models, knowledge graphs, and recommender systems. |
 | <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 166 | Machine learning for physics, medicine, biology, and engineering. |
+| [CoRL 2026](conferences/corl-2026/README.md) | 343 | Conference paper index |
+| [NeurIPS 2026](conferences/neurips-2026/README.md) | 1344 | Conference paper index |
 
-**3,277 papers · 3,278 mechanisms.**
+**4,964 papers · 4,965 mechanisms.**
 
 <a id="insights-by-technical-category"></a>
 
@@ -53,6 +55,8 @@ One paper card brings together the research problem, method, baselines, benchmar
 | [Representation Learning](en/insights/representation-learning.md) | 168 | Representation extraction, alignment, transfer, and disentanglement. |
 | [Evaluation and Diagnostics](en/insights/evaluation.md) | 430 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
 | [Theory and Statistics](en/insights/theory-statistics.md) | 574 | Learning guarantees, counterexamples, estimation, and statistical tests. |
+| [CoRL 2026](conferences/corl-2026/README.md) | 343 | Conference index of reusable mechanisms |
+| [NeurIPS 2026](conferences/neurips-2026/README.md) | 1344 | Conference index of reusable mechanisms |
 
 ## Recent Updates
 

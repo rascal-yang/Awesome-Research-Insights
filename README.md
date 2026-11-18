@@ -33,8 +33,10 @@
 | <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 923 | 通用学习方法、优化、学习理论与统计推断。 |
 | <a id="graph-and-recommendation"></a>[图学习与推荐](papers/graph-and-recommendation.md) | 101 | 图模型、知识图谱与推荐系统。 |
 | <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 166 | 物理、医学、生物与工程中的机器学习。 |
+| [CoRL 2026](conferences/corl-2026/README.md) | 343 | 会议论文索引 |
+| [NeurIPS 2026](conferences/neurips-2026/README.md) | 1344 | 会议论文索引 |
 
-**共 3,277 篇论文、3,278 个技术机制。**
+**共 4,964 篇论文、4,965 个技术机制。**
 
 <a id="insights-by-technical-category"></a>
 
@@ -53,6 +55,8 @@
 | [表征学习](insights/representation-learning.md) | 168 | 表征提取、对齐、迁移与解耦。 |
 | [评测与诊断](insights/evaluation.md) | 430 | 基准、评测协议、消融与失效诊断。 |
 | [理论与统计](insights/theory-statistics.md) | 574 | 学习保证、反例、估计与统计检验。 |
+| [CoRL 2026](conferences/corl-2026/README.md) | 343 | 会议索引中的可复用机制 |
+| [NeurIPS 2026](conferences/neurips-2026/README.md) | 1344 | 会议索引中的可复用机制 |
 
 <a id="recent-updates"></a>
 
