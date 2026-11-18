@@ -1,0 +1,46 @@
+poster_id	novelty	reuse	usability	distinctness	evidence_scope	source	precedent	reason
+154751	3	4	4	3	author_fulltext_sections_4_5	https://arxiv.org/html/2610.08518	https://arxiv.org/abs/1811.11168	DCNv2 已能按状态改采样。正文第 4–5 节显示新贡献是将它放进共享迭代 NCA，在网格任务中让不同感知头学习不同长程约束，可与固定和膨胀邻域直接比较。
+154083	3	4	3	3	author_abstract	https://openreview.net/forum?id=GL9byFkJNj	https://arxiv.org/abs/1809.02864	AcceleGrad 已结合自适应锚点与加速。此作扩展到非欧氏镜像与线性最小化；摘要中的全局凸速率和局部随机训练证书应分别理解。
+149064	4	5	3	4	author_abstract	https://openreview.net/forum?id=t9EhPQoOTT	https://arxiv.org/abs/2006.02361	先例已用 Koopman 拟合并跳过网络训练迭代。新增优化器内部状态与带步长的多步拟合，可在相同梯度预算下对照仅外推参数；长跳误差仍待查。
+153293	4	4	4	4	author_fulltext_sections_2_3	https://arxiv.org/html/2609.37061	https://people.cs.umass.edu/~sniekum/pubs/GiguereICLR2022.pdf	Shifty 已提供群体比例漂移下的公平保证。正文将不同重采样算子的稳定性联系到各项经典公平概念，并明列各算子须保持的条件分布。
+150979	4	4	3	4	author_abstract	https://openreview.net/forum?id=do7lcGzKAH	https://arxiv.org/abs/2604.26898	先例证明共同噪声可促使深 Transformer 令牌同步；此作比较具体激活核在何维数仍维持分散。应用到有限深实模前应做激活与维数对照。
+150198	4	4	4	4	author_fulltext_section_6	https://arxiv.org/html/2606.04775	https://openaccess.thecvf.com/content/CVPR2023/papers/Schramowski_Safe_Latent_Diffusion_Mitigating_Inappropriate_Degeneration_in_Diffusion_Models_CVPR_2023_paper.pdf	Safe Latent Diffusion 已有生成期安全引导。此作对视频防护增加低维闭环控制和干预代价，正文指出存储开销及特征子空间覆盖限制。
+148250	3	5	4	4	author_abstract	https://openreview.net/forum?id=zGqWYYr0Vc	https://ojs.aaai.org/index.php/AAAI/article/view/16936	Liquid Time-Constant Networks 已使用输入条件连续动态。新增全局原型与局部可写记忆，检索残差直接反馈下一循环而非只供末端读出；适合长观测间隔的消融。
+148204	4	4	3	4	author_abstract	https://openreview.net/forum?id=zaV6HqToRX	https://proceedings.mlr.press/v300/ariu26a.html	Ariu 等已研究带静态生成采样的固定置信折扣策略测试。此作改为单条在线轨迹，并把占用分配和并行停止连接起来；依赖锚策略遍历性。
+154942	4	4	3	4	author_fulltext_sections_2_4	https://arxiv.org/html/2605.09337	https://www.jmlr.org/beta/papers/v24/22-0184.html	BASGD 已实现带缓冲的异步鲁棒聚合。FAR-SIGN 以完全异步的防御更新与双时间尺度纠偏为区别；可用性仍受小规模 MNIST 实证限制。
+150928	4	5	4	4	author_fulltext_sections_1_2	https://arxiv.org/html/2606.31178	https://link.springer.com/article/10.1007/s10458-022-09552-y	先例已区分先期望后标量化与先标量化后期望。此作用轨迹变换、期望及全局聚合统一两类效用，并在扩展状态中以离线密度比训练。
+152173	3	5	3	3	author_abstract	https://arxiv.org/abs/2605.24216	https://openai.com/index/how-we-detect-frontier-model-misalignment/	同类防护已审阅交互和工具轨迹。此作的差异是用已有审查经验学习信念、意图与目标一致性的结构化复核；只记防护依据，泛化和误报需补查。
+149606	3	4	4	3	author_fulltext_sections_1_3	https://arxiv.org/html/2610.14041	https://www.cs.cmu.edu/~bziebart/publications/maximum-entropy-inverse-reinforcement-learning.pdf	最大熵 IRL 奠定分布匹配基础；正文也说明奖励函数插值已有先例。独立贡献是将该更新解释为占用轨迹平均 Fisher 预条件和镜像下降。
+152256	4	4	3	4	author_abstract	https://openreview.net/forum?id=UPw8Xoj7Wo	https://proceedings.neurips.cc/paper_files/paper/2023/hash/96189e90e599ccc43f00434ff3ed0312-Abstract-Conference.html	GHMS23 提出注入模型及拒答目标。此作允许任意标签并同时约束两种超额错误；选择算法前须检查括号复杂度和所用比较类。
+150193	4	5	3	4	author_fulltext_sections_2_3	https://arxiv.org/html/2611.12248	https://pubmed.ncbi.nlm.nih.gov/34709176/	既有符号搜索发现局部可塑性规则。此作用局部张量迹单项式拟合各层稀疏损失，并以重建分类和自监督验证全局目标下降；目前实证局限小网络。
+150925	4	5	3	4	author_fulltext_sections_3_5	https://arxiv.org/html/2611.13276	https://arxiv.org/abs/2509.25300	此前实证拟合 RL 后训练规模曲线。该作将线性预训练表征、噪声 SFT 与稀疏奖励串成解析模型，以预训练质量和预算决定 SFT/RL 分配；真实语言模型外推待验。
+154802	4	4	4	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=ArO2Yj6xnL	https://dl.acm.org/doi/10.1145/509907.509965	Charikar 的随机超平面估计已经给出角相似度与符号位碰撞的对应。这里将低位前向估计和连续余弦梯度组成训练层。可比较估计方差、反传开销及量化后精度。
+148396	3	5	4	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=y9mExa1HH7	https://doi.org/10.1016/0004-3702(90)90007-M	Smolensky 已提出张量积表示。本文的增量是对探针、类比和稀疏分析给出共同解释，可作跨方法诊断。摘要支持假说的聚合价值，结构唯一性仍待检验。
+150563	3	4	3	3	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=hEJF4xVLvo	https://www.nature.com/articles/s41586-023-06924-6	FunSearch 已展示用执行反馈演化程序。本文把该范式用于因果估计器并考虑估计型奖励。需分别验证估计奖励的选择偏差和跨生成机制复用。
+154406	4	4	3	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=DpKPNTCMWW	https://arxiv.org/abs/1011.0686	DAgger 已研究序列决策误差随时域累积，但并不提供这里的概率拟合结果。该文考察误设下联合 KL 的时域依赖及匹配上下界，可用于判断逐词元拟合何时支持联合分布。
+154028	4	4	3	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=Gn2UDJPl9p		摘要区分鼓励分配和实际治疗，并把采集目标设为治疗级 CATE。可用于非依从条件下对照面向结局的不确定性采样。未核实直接先例。
+150567	4	4	3	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=hBh55r5Asy	https://arxiv.org/abs/1301.1942	既有高维 BO 已利用随机嵌入搜索低维变量。本条限制到由稀疏核展开张成的函数子流形；可比较固定网格、固定基和可变核支撑的预算效率。
+153338	4	5	4	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=M4JVbTCh2k	https://arxiv.org/abs/2106.04156	Spectral Contrastive Loss 已用谱分解研究配对表示。本条检验不同统计散度如何改变低秩表示提取的局部几何，可指导同一配对数据的损失选型。
+150471	4	3	3	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=hnDeaJFZ1P	https://arxiv.org/abs/2206.10044	既有深生成模型可辨识研究已讨论分段仿射生成器和混合先验。本条增量为三类代数破对称条件；其适用性需要验证分段结构和混合先验。
+151796	3	4	4	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=Xwazdb6LB8	https://proceedings.mlr.press/v48/jiang16.html	Doubly Robust Off-policy Value Evaluation 是序列反事实评估的近邻。此处无已记录倾向概率，改在混合日志下对目标策略造成的展示分布偏移做密度比校正；须验重叠和比值稳定性。
+155804	4	4	3	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=2lO3V0sYmV		摘要支持将一形式动力学用于粒子的跨模态路径探索，再用 Langevin 做局部采样。可对照跨模态覆盖与计算量。未核实直接先例。
+154419	3	4	4	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=DicIm04iMs		摘要支持以查询集区分模型级属性时先审计查询集的判别性。适合授权模型评估；最接近已发表同范式先例未确认。
+153903	3	4	4	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=HqOJ2E0PU0	https://arxiv.org/abs/2106.05234	Graphormer 已将图结构编码到注意力。本条以连接强度和解剖距离构造边层面的经济性，对照边渠道和节点附加特征可检验额外机制。
+152679	4	4	3	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=REeakXmDrL	https://arxiv.org/abs/1910.06378	SCAFFOLD 的相关先例是跨客户端局部偏移控制思路，直接算法近邻仍是论文提及的联邦 HMC。本文把偏移控制用于联邦采样，以通信复杂度和异质性为主要复用条件。
+154531	4	5	4	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=Ctg1L7RlkF	https://arxiv.org/abs/1905.10375	Provably Efficient Maximum Entropy Exploration 已使用状态访问上的凹目标。本条指出将样本回报代入非线性效用梯度会产生偏差，可为多目标策略梯度配置偏差对照。
+152709	4	5	3	4	author_abstract_only_pdf_http_403	https://openreview.net/forum?id=QzN8ycFg2x	https://arxiv.org/abs/1710.10571	Certifying Some Distributional Robustness 已用 Wasserstein 惩罚转为样本局部最大化。本条进一步考察最优传输映射的循环单调结构，可用于诊断局部对抗优化与全局最坏分布的间隙。
+151561	4	4	4	4	full_text_sections	https://arxiv.org/html/2606.11711v1	https://proceedings.mlr.press/v291/ryabchenko25a.html	先例解有限动作和预知延迟；本篇把容量约束扩展至连续凸域，运行中才见延迟到期。正文第 5–6 节给一阶对数容量和 bandit 峰值并发代价，自适应对手仍开放。
+152572	3	4	4	3	abstract	https://openreview.net/forum?id=S71JaPVRqX	https://arxiv.org/abs/2511.01197	沿用 CryptoMoE 的隐私推理目标，重构路由阶段并降低激活运算通信；50.93 倍为路由组件测量，整链延迟和信任假设待核。
+149402	4	4	4	4	full_text_sections	https://arxiv.org/html/2609.16931v1	https://proceedings.mlr.press/v202/immer23a.html	较位置尺度模型允许条件分布多个形状轴及单调失真。正文表格同时显示部分设置固定变换更稳，选择未知变换的收益不均。
+149771	4	4	4	4	abstract	https://openreview.net/forum?id=nQbOFhMDIB	https://academic.oup.com/biomet/article-abstract/105/4/987/5073056	与多代理识别的结构假设不同，单个代理连接可未知，以累积量和独立关系排除候选；依赖潜变量线性、非高斯结构，有限样本边界待核。
+150658	4	5	5	4	full_text_sections	https://arxiv.org/html/2610.06238v1	https://jmlr.csail.mit.edu/papers/v2/bousquet02a.html	将传统算法稳定性改作可验证属性，再用集中界连接样本专属证书与总体泛化；正文第 4–5 节给形式界及语言微调验证，需核具体损失条件。
+155825	4	5	5	4	full_text_sections	https://arxiv.org/html/2611.01450v1	https://www.usenix.org/conference/usenixsecurity18/presentation/juvekar	Gazelle 已结合两套隐私计算机制；此处依硬件、网络及加密状态自动选方案。正文测 BERT 与 ViT，涵盖四带宽四往返时延。
+155305	4	5	4	5	full_text_sections	https://arxiv.org/html/2610.20851v1	https://proceedings.mlr.press/v89/hyvarinen19a.html	辅助变量 ICA 已有可识别性路线；本文按监督因果方向区分完整与欠完备，并以稀疏性和空空间结构界定何时能恢复个别轴。
+153542	4	4	4	4	full_text_sections	https://arxiv.org/html/2606.18509v1	https://proceedings.mlr.press/v108/khemakhem20a.html	在 iVAE 已用属性条件保证识别的基础上，以属性对数密度比统一识别和外推。正文第 4–5 节示例为理论恢复，仍依各族刚性。
+153436	4	5	5	4	full_text_sections	https://arxiv.org/html/2605.04830v1	https://doi.org/10.1038/s41467-024-54281-3	先例给扩散语义分化；本文第 3 节在现代扩散模型用局部去噪及窗口条件探针对照两类临界时间，可指导逐步算力分配。
+152006	4	5	4	4	full_text_sections	https://arxiv.org/html/2602.04736v1	https://www.jmlr.org/papers/v22/20-185.html	既有反事实嵌入扩展为条件分布上的双重稳健估计；正文第 9 节显示三估计器恢复双峰，但部分协变量组峰值仍低估。
+153803	4	5	4	4	full_text_sections	https://arxiv.org/html/2607.10517v1	https://aclanthology.org/2024.acl-long.828/	相较加固定对比方向，沿当前激活决定调节方向；正文第 5 节分别评估同分布、真值及域外正常能力。
+153249	4	5	4	5	full_text_sections	https://arxiv.org/html/2605.06395v1	https://papers.neurips.cc/paper_files/paper/2022/hash/75c45fca2aa416ada062b26cc4fb7641-Abstract-Conference.html	层扩散由有限维图纤维推广至 Hilbert 纤维；正文推论 2.2 给独立采样间的收敛，工程依赖可离散化。
+152484	4	4	4	4	abstract	https://openreview.net/forum?id=SkTqNkpAlZ	https://pmc.ncbi.nlm.nih.gov/articles/PMC12226023/	先例用低秩递归解释依上下文选择；本文冻结主系统并禁止读出直接见提示，拆开容量、记忆与表达，仅见短任务。
+149304	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.11850v1	https://arxiv.org/abs/2502.07529	在 Scion 范数结构上扩展近端约束与重尾收敛，用非线性预条件刻画 Muon 多项式更新；可用于选择理论近似。
+155534	4	4	4	4	full_text_sections	https://arxiv.org/html/2512.17688v1	https://arxiv.org/abs/2401.15273	早期 FedSARSA 已处理异质及线性加速；新增多本地步展开与通信界。正文第 5–6 节为线性近似和数值示例。
