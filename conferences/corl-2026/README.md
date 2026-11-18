@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **244 / 687** 篇，当前收录 **232** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **310 / 687** 篇，当前收录 **297** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -238,3 +238,68 @@
 | 具身智能 / 世界模型 | 安全评测 | [Targeting World Models to Compromise Robot Learning Pipelines](cards.md#paper-6t2ebangy5) | 世界模型合成数据进入训练前独立验收，并在下游策略做安全回归。 |
 | 具身智能 / Agent | 记忆机制 | [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](cards.md#paper-q4ehhmipmb) | 以可动态更新的空间图组织跨回合积累的异质记忆。 |
 | 具身智能 / Agent | 主动信息采集 | [COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance](cards.md#paper-v4qudwgroq) | 主动回访可能的信息收益高或记录陈旧的位置，以更新物体关系记忆。 |
+| 具身智能 | 搜索蒸馏 | [Long-Horizon Multi-Object Rearrangement via Distilled Tree Search over Continuous Actions](cards.md#paper-hwuk4y2aer) | 用仿真搜索反复改进连续动作提议和价值估计 |
+| 具身智能 | 接触反馈 | [PACE: Temporal-Role Tactile Conditioning for Chunk-Based Insertion Policies](cards.md#paper-aiinkhzlvb) | 分开处理持续接触、突发事件和未来接触 |
+| 具身智能 | 合成监督 | [GRAIL: Generating Humanoid Loco-Manipulation from World Models](cards.md#paper-2defaneql7) | 生成视频前锁定几何与标定参数供重建复用 |
+| 具身智能 | 课程学习 | [RoboNaldo: Accurate, Stable and Powerful Humanoid Soccer Shooting via Motion-Guided Curriculum Reinforcement Learning](cards.md#paper-wbgnjhriso) | 先建立参考动作先验，再逐级放开任务条件 |
+| 具身智能 | 世界模型 | [SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model](cards.md#paper-psnqjklvok) | 用共享可微动力学为多动作跟踪提供解析梯度 |
+| 具身智能 | 探索初始化 | [Combining Constrained Sampling and Reinforcement Learning for Manipulation](cards.md#paper-cjgmjqlgz5) | 按接触模式覆盖设计训练重置分布 |
+| 具身智能 | 阻抗控制 | [Constraint-Decomposed Impedance Control from Generative Policy for Articulated Object Manipulation](cards.md#paper-mjpidvjnms) | 用生成策略样本估计可动方向并设各向异性阻抗 |
+| 具身智能 | 失败诊断 | [Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them](cards.md#paper-bv0t1o1zil) | 先区分流匹配精度失败与力反馈失败，再分别修正 |
+| 具身智能 | 触觉解耦 | [DeTac: Dual-branch Decoupling of Texture and Force Signals in Vision-Based Tactile Sensors](cards.md#paper-ymd1ykvind) | 将纹理与标记联合预测，减少串行修补的误差传递 |
+| 具身智能 | 多模态融合 | [FingerEye: Learning Dexterous Manipulation with Continuous Vision-Tactile Sensing](cards.md#paper-raa96lpixj) | 按指尖传感组组织特征以抑制单模态捷径 |
+| 具身智能 | 策略后训练 | [Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection](cards.md#paper-19iadsbo9a) | 以零初始化力注意力在保留原技能时加入接触反应 |
+| 具身智能 | 动力学适配 | [TAM: Torque Adaptation Module for Robust Motion Transfer in Manipulation](cards.md#paper-ti3ok55n1h) | 把机器人动力学差异交给独立扭矩残差模块 |
+| 具身智能 | 触觉表示 | [Visible Touch: Rendering Contact for Visuomotor Policies](cards.md#paper-ult1vxdeub) | 把接触信号放入现有视觉模型使用的空间参考系 |
+| 具身智能 | 关节估计 | [Articulated 3D Scene Graphs for Open-World Mobile Manipulation](cards.md#paper-fkkr8jks29) | 用同一旋量优化从跟踪点恢复旋转和平移关节 |
+| 具身智能 | 形变规划 | [Enabling Robust Cloth Manipulation via Inference-Time Simulator-in-the-Loop Refinement](cards.md#paper-nzychkctvt) | 用策略先验初始化实时仿真搜索以集中计算 |
+| 具身智能 | 混合动力学 | [Learning Physics-Guided Residual Dynamics for Deformable Object Simulation](cards.md#paper-3hsq75gmr9) | 在物理骨架上学习速度残差，补足形变模拟误差 |
+| 具身智能 | 几何不确定性 | [Noise-Invariant Spatial Encoding for 3D Manipulation Policies under Depth Corruption](cards.md#paper-r8moxo93mv) | 把深度位置不确定性传入注意力，避免几何 token 一律视为准确 |
+| 具身智能 | 可达性代理 | [RAM: Reachability Across Morphologies](cards.md#paper-samjmur6xc) | 用形态条件化神经场替代在线逐姿态计算 |
+| 具身智能 | 鲁棒规划 | [Robustness without Wrinkles: Parallel Simulation and Robust MPC for Certified Deformable Manipulation](cards.md#paper-uvjpdrcmlf) | 用实测感知误差标定可达管，并结合可微仿真规划 |
+| 具身智能 | 时空地图 | [SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation](cards.md#paper-nibnbctz79) | 用同一潜空间的神经点记录场景与机身。 |
+| 具身智能 | 形态优化 | [Shape Your Body: Value Gradients for Multi-Embodiment Robot Design](cards.md#paper-xho9wj1ggt) | 冻结多形态价值函数以梯度优化新机器人。 |
+| 具身智能 | 失败诊断 | [WireCraft: A Simulation Benchmark for Industrial DLO Manipulation](cards.md#paper-cqpnbrggwm) | 把接近插座与接触对齐分开评估，定位视觉策略瓶颈。 |
+| 具身智能 | 潜空间预测 | [LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies](cards.md#paper-mw8bge8ado) | 预测视觉特征子目标以替代逐像素未来视频。 |
+| 具身智能 | 推理路由 | [DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](cards.md#paper-r2uabmvwgh) | 按场景选择推理深度、模型大小或历史长度。 |
+| 具身智能 | 推理预算 | [ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies](cards.md#paper-wxv81vb0xt) | 学习按状态同时分配去噪深度和并行候选数。 |
+| 具身智能 | 蒸馏 | [W2A: Distilling World Priors into Action Models for Real-Time Robotic Control](cards.md#paper-gtazi5d0fj) | 训练期蒸馏视频去噪中间表征，推理期移除视频模型。 |
+| 具身智能 | 闭环去噪 | [Catch Me If You Can: Real-Time Feedback Denoising for Responsive VLAs](cards.md#paper-7cfcazwfp6) | 预留最后去噪阶段以接入控制频率的新观测。 |
+| 具身智能 | 异步连续性 | [Barrier-Constrained Guidance For Real-time Asynchronous VLA Execution](cards.md#paper-uhhneb0osw) | 对动作块交界施加逐步收紧的闭式一致性约束。 |
+| 具身智能 | 离散动作生成 | [DiscreteRTC: Discrete Diffusion Policies are Natural Asynchronous Executors](cards.md#paper-lorikyekax) | 用离散扩散的原生解掩码完成异步动作补全。 |
+| 具身智能 | 流式解码 | [FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference](cards.md#paper-05ne8s5e7i) | 让错开噪声级别的若干动作块在同一前向中推进。 |
+| 具身智能 | 噪声选择 | [Start Right, Arrive Right: Asynchronous Execution via Initial Noise Selection](cards.md#paper-9ih6ylxhi5) | 通过反推初始噪声对齐前缀，保留原流生成路径。 |
+| 具身智能 | 动态预测 | [F2F-AP: Flow-to-Future Asynchronous Policy for Real-time Dynamic Manipulation](cards.md#paper-ixjwiekme1) | 异步推理用预期执行时刻的视觉特征替代过时观察。 |
+| 具身智能 | 自回归控制 | [Real-Time Execution with Autoregressive Policies](cards.md#paper-jlxzhoksxq) | 对自回归动作设定分词范围与约束解码，按严格时限生成。 |
+| 具身智能 | 异步多模态 | [DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model](cards.md#paper-mr4l9laugj) | 每种传感器按自身频率刷新潜变量缓存。 |
+| 具身智能 | 设计诊断 | [How to Build an Efficient VLA: A Design Space Study for Modular Vision-Language-Action Models](cards.md#paper-pprwdhxw93) | 先扫描动作头初始化，再决定模块扩容。 |
+| 具身智能 | 人机协同 | [Flow Control: Steering Vision-Language-Action Models with Simple Real-Time Inputs](cards.md#paper-hsz0lt7tcp) | 用粗粒度人类输入约束生成并回收干预轨迹。 |
+| 具身智能 | 训练目标 | [PRISM: Bridging Multimodality and Real-Time Control in Multisensory Policies](cards.md#paper-rtx0zr5fjt) | 迁移 RS-IMLE 时按策略训练批量校准拒绝机制。 |
+| 具身智能 | 在线调度 | [Action Chunk Scheduling for Batched Robot Policy Serving](cards.md#paper-2vstg6wu2p) | 按各机器人动作块消费速度分配 GPU 排队优先级。 |
+| 具身智能 | 压缩诊断 | [Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered](cards.md#paper-zylula1tsy) | 剪枝后测试安全和成功，并用权重空间校正尝试恢复。 |
+| 具身智能 | 部署评测 | [The Speedup Paradox: Rethinking Inference Optimization in Embodied Tasks](cards.md#paper-vxuazhduwe) | 按闭环完成时间选推理优化 |
+| 具身智能 | 模型压缩 | [AgileDP: Quantizing Diffusion Policy via Dynamic Scaling and Reweighted Distillation](cards.md#paper-gr9nftftjn) | 按去噪时步动态缩放量化 |
+| 具身智能 | 架构设计 | [What Do You Need for Compositional Generalization in Diffusion Planning?](cards.md#paper-hbhr1gxas0) | 扩散规划骨干优先测试平移等变和局部感受野 |
+| 具身智能 | 训练目标 | [APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies](cards.md#paper-8tvqhvkrmd) | 先训练无语言动作先验，再门控引入语言 |
+| 具身智能 | 动作条件 | [Direct Action-Head Injection of A Grounded 3D Point Unlocks Spatial and Task Generalization](cards.md#paper-14gtmkgucf) | 把三维目标相对位移直接送动作头 |
+| 具身智能 | 动作表示 | [CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding](cards.md#paper-geenmbqxhi) | 先生成自然语言动作计划再生成数字动作 token |
+| 具身智能 | 推理控制 | [VLS: Steering Pretrained Robot Policies via Vision–Language Models](cards.md#paper-rmp7m64fq6) | 用三维关键点上的可导任务目标引导冻结策略去噪 |
+| 具身智能 | 推理控制 | [Steering Autoregressive Vision-Language-Action Policies via Action Token Intervention](cards.md#paper-3kzmpjqupy) | 用低维用户输入介入自回归动作 token |
+| 具身智能 | 任务结构 | [Inference-Time Robot Behavior Steering through Physically-Aware Reconfiguration of Task-Structure](cards.md#paper-nceeehy8d5) | 用户偏好用自动机组合，保持连续控制器冻结 |
+| 具身智能 | 策略适配 | [Proxy Policy Steering](cards.md#paper-tfc6lmd02z) | 通过两个代理的速度差隔离任务监督的动作改变量 |
+| 具身智能 | 离线强化学习 | [AWLS: Advantage-Weighted Latent Steering for One-Step Generative Robotic Manipulation Policies](cards.md#paper-z35bac5jbe) | 冻结单步生成器，用优势加权监督训练噪声残差 |
+| 具身智能 | 偏好学习 | [Progress-Guided Preference Generation for Aligning Generative Control Policies](cards.md#paper-j8pjidi6rm) | 用按序覆盖专家片段的进度自动生成偏好对 |
+| 具身智能 | 训练监督 | [CounterAlign: Counterfactual Supervision for Vision-Language-Action Models](cards.md#paper-ay4totylcx) | 把正确动作配错指令形成离线奖励负例 |
+| 具身智能 | 辅助监督 | [ELAN4D: Embodiment-Centric 4D Supervision for Vision-Language-Action Models via Plug-and-Play Adaptation](cards.md#paper-6bq9ndqzns) | 从机器人自身运动学构造未来关键点轨迹辅助训练 |
+| 具身智能 | 跨本体迁移 | [Cloak: Zero-Shot Cross-Embodiment Manipulation by Masking the End-Effector from the VLA](cards.md#paper-7kv78k8rcv) | 抹去腕部画面中的末端外观以检验跨机械手迁移 |
+| 具身智能 | 表示对齐 | [UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment](cards.md#paper-s3fvtypvnz) | 用仿真配对观测对齐编码器替代图像翻译 |
+| 具身智能 | 示范条件 | [SeeTraceAct: Visibility-Aware Latent Planning from Cross-Embodiment Demonstration Videos](cards.md#paper-dwrc6la1kr) | 为细小目标的视频模仿加入可见性感知的未来末端轨迹判别 |
+| 具身智能 | 示范策略 | [Perfect Demo Makes Poor Teacher:Learning Robust Alignment from Critical Motion Segments](cards.md#paper-9jm97ofgua) | 采集对齐示范时让操作者放慢并保留纠偏过程 |
+| 具身智能 | 表示编辑 | [Flexible Language-Guided Representation Editing for Adaptive Robot Behavior](cards.md#paper-ojkazbklte) | 语言纠错允许增加、泛化和屏蔽任务特征 |
+| 具身智能 | 机制解释 | [Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](cards.md#paper-lfugzn8an2) | 用跨回合可复用性与因果干预测试 VLA 内部特征 |
+| 具身智能 / 模仿学习 | 流匹配推理 | [Improving Robotic Generalist Policies via Flow Reversal Steering](cards.md#paper-ahph1ngaup) | 用粗动作反求噪声，再生成邻近的预训练行为模式。 |
+| 具身智能 / 多模态 | 条件适配 | [MAST-VLA: Skill-Conditioned Adaptation with Trajectory-Affordance Priors for Multi-Skill Robot Manipulation](cards.md#paper-zr63f3tmyq) | 用技能条件选适配专家，用空间可供性约束动作头。 |
+| 具身智能 / 多模态 | 表示对齐 | [Relational Spatial Alignment for Vision-Language-Action Models](cards.md#paper-p1r9ibkyv4) | 注入三维先验时，对齐成对空间关系并监控特征有效秩。 |
+| 具身智能 / 多模态 | 空间查询 | [GeoAlign: Beyond Semantics with State-Guided Spatial Alignment in VLA Models](cards.md#paper-am3agfollh) | 用机器人状态查询几何特征，避免在每个动作阶段输入同一组静态空间 token。 |
+| 具身智能 / 多模态 | 持续学习 | [Information-Theoretic Constraints for Continual Vision-Language-Action Alignment](cards.md#paper-h5qwmbcnsu) | 持续学习中同时保留跨模态历史锚点及视觉语言依赖。 |
+| 具身智能 / 规划 | 迁移诊断 | [To Route or to Adapt? Multi-Expert Diffusion Planners in Unseen Regions](cards.md#paper-pjuqx9kbg5) | 先用 oracle 测现有专家的路由收益上限，若上限低则将预算用在目标域适配。 |
