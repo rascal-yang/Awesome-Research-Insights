@@ -524,5 +524,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Human-Inspired, Task-Dimension-Guided Exploration for Efficient Learning and Transfer in High Dimensions](../../conferences/neurips-2026/cards-0006.md#paper-150298)
 - [Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating](../../conferences/neurips-2026/cards-0006.md#paper-150291)
 - [Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion](../../conferences/neurips-2026/cards-0006.md#paper-148710)
+- [IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards](../../conferences/neurips-2026/cards-0007.md#paper-148764)
+- [Imitation from Observations with Trajectory-Level Generative Embeddings](../../conferences/neurips-2026/cards-0007.md#paper-151602)
+- [Implicit Goal Conditioning via Value Disaggregation](../../conferences/neurips-2026/cards-0007.md#paper-154628)
+- [Improving Consistency in Retrieval Augmented Systems  With Group Similarity Rewards](../../conferences/neurips-2026/cards-0007.md#paper-150565)
+- [Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization](../../conferences/neurips-2026/cards-0007.md#paper-154485)
 
 <!-- conference-classification:end -->

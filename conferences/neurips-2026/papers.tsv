@@ -3843,66 +3843,66 @@ poster_id	title	paper_url	status	reason
 151733	Identifying Structural Biases from Causal Mechanism Shifts	https://neurips.cc/virtual/2026/poster/151733	included	跨环境机制变化的相关性可用于检查隐藏混杂和选择偏差。
 150886	i-DEQ: A stable inertial Deep Equilibrium model for image restoration	https://neurips.cc/virtual/2026/poster/150886	included	恢复用平衡模型可在固定点迭代引入受约束的动量。
 151442	iDETR: Implicit DETR for Tiny Object Detection	https://neurips.cc/virtual/2026/poster/151442	included	极小目标检测用连续亚像素查询补单尺度特征。
-154504	idSCD: Identifying Training Datasets through Semantic Correlation Descriptors	https://neurips.cc/virtual/2026/poster/154504	pending	-
-148764	IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/148764	pending	-
-155215	IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer	https://neurips.cc/virtual/2026/poster/155215	pending	-
-151662	I Have a Stream: Making Self-Supervised Learning Work on Continuous Video	https://neurips.cc/virtual/2026/poster/151662	pending	-
-155681	IIDiff: Learning Cross-Domain Frequency Transitions with Diffusion Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/155681	pending	-
-152124	Illusory Pattern Perception Drives Spurious Inference in Large Language Models	https://neurips.cc/virtual/2026/poster/152124	pending	-
-151849	Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator	https://neurips.cc/virtual/2026/poster/151849	pending	-
-151641	Image Generation for Automotive Lidar Open-vocabulary Semantic Segmentation	https://neurips.cc/virtual/2026/poster/151641	pending	-
-151905	Image Matting without Matting-Specific Annotations via Eikonal Fields	https://neurips.cc/virtual/2026/poster/151905	pending	-
-140042	ImageNet FID is a Pass Check, Not a Finish Line	https://neurips.cc/virtual/2026/poster/140042	pending	-
-149868	Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering	https://neurips.cc/virtual/2026/poster/149868	pending	-
-156043	Imagine Before You Draw: Visual Prompt Engineering for Image Generation	https://neurips.cc/virtual/2026/poster/156043	pending	-
-150345	Imagine, Don't Narrate: The Generative Bottleneck in World Models of Interaction Dynamics	https://neurips.cc/virtual/2026/poster/150345	pending	-
-151209	Imitation Dominates Reinforcement: Direct In-Context RL Is Closer to ICL Than RL	https://neurips.cc/virtual/2026/poster/151209	pending	-
-151602	Imitation from Observations with Trajectory-Level Generative Embeddings	https://neurips.cc/virtual/2026/poster/151602	pending	-
-152450	ImmuVis: Hyperconvolutional Foundation Models for Imaging Mass Cytometry	https://neurips.cc/virtual/2026/poster/152450	pending	-
-149015	Impacts of Aggregation on Model Diversity and Consumer Utility	https://neurips.cc/virtual/2026/poster/149015	pending	-
-153488	Imperfect Influence, Reliable Rankings: A Theory of TRAK for Data Attribution	https://neurips.cc/virtual/2026/poster/153488	pending	-
-154874	Imperfect World Models are Exploitable	https://neurips.cc/virtual/2026/poster/154874	pending	-
-150321	Implicit Bias in State Space Models and Linear Autoregressive Training	https://neurips.cc/virtual/2026/poster/150321	pending	-
-149406	Implicit Bias of Mirror Flow in Homogeneous Neural Networks: Sparse and Dense Feature Learning	https://neurips.cc/virtual/2026/poster/149406	pending	-
-153972	Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry	https://neurips.cc/virtual/2026/poster/153972	pending	-
-151746	Implicit-Euler Value Iteration: Long-Horizon Planning via Stable Integration of the Bellman Residual Flow	https://neurips.cc/virtual/2026/poster/151746	pending	-
-154628	Implicit Goal Conditioning via Value Disaggregation	https://neurips.cc/virtual/2026/poster/154628	pending	-
-153602	Implicit Neural Representations for Variational Problems on Graphons	https://neurips.cc/virtual/2026/poster/153602	pending	-
-150324	Implicit Value Probing: Inferring Human Value Preferences via Strategic Multi-Turn Conversations	https://neurips.cc/virtual/2026/poster/150324	pending	-
-152437	Importance-Aware OBS Pruning for Diffusion Models	https://neurips.cc/virtual/2026/poster/152437	pending	-
-156079	Importance-Weighted Operator Learning Under Probability Measure Shifts	https://neurips.cc/virtual/2026/poster/156079	pending	-
-149451	Impossibility of Distribution-Free Predictive Inference for Individual Treatment Effects	https://neurips.cc/virtual/2026/poster/149451	pending	-
-155099	Improved Algorithms for Online Classification with Surrogate Losses	https://neurips.cc/virtual/2026/poster/155099	pending	-
-149740	Improved Baselines with Representation Autoencoders	https://neurips.cc/virtual/2026/poster/149740	pending	-
-155618	Improved Leverage Score Sampling for Constrained Active Linear Regression	https://neurips.cc/virtual/2026/poster/155618	pending	-
-153555	Improved Regret Analysis For Parallel Gaussian Process Bandit Optimization	https://neurips.cc/virtual/2026/poster/153555	pending	-
-153585	Improved Regret bounds in Tabular Reinforcement Learning under Local Differential Privacy	https://neurips.cc/virtual/2026/poster/153585	pending	-
-148144	Improved Robust Verifiable Federated Learning Based on Packed Secret Sharing	https://neurips.cc/virtual/2026/poster/148144	pending	-
-154198	Improved Sample Complexity for Markov Games via Variance-Aware Bandit Learning	https://neurips.cc/virtual/2026/poster/154198	pending	-
-152218	Improved State Mixing in Higher-order and Block Diagonal Linear Recurrent Networks	https://neurips.cc/virtual/2026/poster/152218	pending	-
-154921	Improved techniques for fine-tuning flow models via adjoint matching: a deterministic control pipeline	https://neurips.cc/virtual/2026/poster/154921	pending	-
-150702	Improved Weakly Supervised Semantic Segmentation with A Relationally Optimized Prototype Memory Bank Framework	https://neurips.cc/virtual/2026/poster/150702	pending	-
-148140	Improving Audit Realism with Inference-Time Compute and Deployment Scaffolds	https://neurips.cc/virtual/2026/poster/148140	pending	-
-153775	Improving Causal Explanations	https://neurips.cc/virtual/2026/poster/153775	pending	-
-149052	Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives	https://neurips.cc/virtual/2026/poster/149052	pending	-
-150565	Improving Consistency in Retrieval Augmented Systems  With Group Similarity Rewards	https://neurips.cc/virtual/2026/poster/150565	pending	-
-151902	Improving constraint-based discovery with robust propagation and LLM priors	https://neurips.cc/virtual/2026/poster/151902	pending	-
-150848	Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy	https://neurips.cc/virtual/2026/poster/150848	pending	-
-148162	Improving Continual Video Instance Segmentation via Spatial-Temporal Balanced Mixture-of-Experts Adapters	https://neurips.cc/virtual/2026/poster/148162	pending	-
-151348	Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration	https://neurips.cc/virtual/2026/poster/151348	pending	-
-149748	Improving Flexible Image Tokenizers for Autoregressive Image Generation	https://neurips.cc/virtual/2026/poster/149748	pending	-
-152774	Improving Function Space Flow Matching with Kernel Optimal Transport	https://neurips.cc/virtual/2026/poster/152774	pending	-
-154485	Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization	https://neurips.cc/virtual/2026/poster/154485	pending	-
-151051	Improving Generative Adversarial Networks with Self-Distillation	https://neurips.cc/virtual/2026/poster/151051	pending	-
-152467	Improving Guidance-Free Visual Generation via Self-Contrastive Alignment for Likelihood Estimation	https://neurips.cc/virtual/2026/poster/152467	pending	-
-150649	Improving LLM Final Representations with Inter-Layer Geometry	https://neurips.cc/virtual/2026/poster/150649	pending	-
-148927	Improving Neural Decoding Performance for Language BCIs by Explicitly Modeling Context-Induced Noise	https://neurips.cc/virtual/2026/poster/148927	pending	-
-148845	Improving Neural Processes in the Low-Data Regime via Context-Subset Training and Self-Distillation	https://neurips.cc/virtual/2026/poster/148845	pending	-
-155969	Improving Quantized Zeroth-Order Optimization through Reconstructed Low-Rank Structures	https://neurips.cc/virtual/2026/poster/155969	pending	-
-151171	Improving Self-Supervised Vision Transformers with Cross Distillation	https://neurips.cc/virtual/2026/poster/151171	pending	-
-150734	Improving the Diffusability of Motion Tokenizer	https://neurips.cc/virtual/2026/poster/150734	pending	-
-149121	Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs	https://neurips.cc/virtual/2026/poster/149121	pending	-
-151753	Improving the Optimization Landscape of Matrix Completion with $\epsilon$-close Surrogates	https://neurips.cc/virtual/2026/poster/151753	pending	-
+154504	idSCD: Identifying Training Datasets through Semantic Correlation Descriptors	https://neurips.cc/virtual/2026/poster/154504	excluded	工作聚焦识别训练集成员关系，暂未提供可单独提取的隐私防护做法；不收录操作方案。
+148764	IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/148764	included	可验证指令训练同时检查任务可解性和意图实现。
+155215	IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer	https://neurips.cc/virtual/2026/poster/155215	included	流式三维场景状态同时维护相机、几何和实例身份。
+151662	I Have a Stream: Making Self-Supervised Learning Work on Continuous Video	https://neurips.cc/virtual/2026/poster/151662	included	流式自监督先减少批次内近重复帧。
+155681	IIDiff: Learning Cross-Domain Frequency Transitions with Diffusion Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/155681	included	跨域扩散按去噪过程即时改变频带路由。
+152124	Illusory Pattern Perception Drives Spurious Inference in Large Language Models	https://neurips.cc/virtual/2026/poster/152124	included	用随机和模糊事件构建无真实规律的评测对照。
+151849	Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator	https://neurips.cc/virtual/2026/poster/151849	included	导航模拟中将空间锚点与高保真观测合成解耦。
+151641	Image Generation for Automotive Lidar Open-vocabulary Semantic Segmentation	https://neurips.cc/virtual/2026/poster/151641	included	跨传感开放词汇分割将文本类别先转换成图像原型。
+151905	Image Matting without Matting-Specific Annotations via Eikonal Fields	https://neurips.cc/virtual/2026/poster/151905	included	只有粗定位时用图像条件波前传播生成稀疏透明度监督。
+140042	ImageNet FID is a Pass Check, Not a Finish Line	https://neurips.cc/virtual/2026/poster/140042	included	生成选型报告多套 FID 配置下的稳定性。
+149868	Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering	https://neurips.cc/virtual/2026/poster/149868	included	用少量场景摘要 token 的三维重建训练空间推理。
+156043	Imagine Before You Draw: Visual Prompt Engineering for Image Generation	https://neurips.cc/virtual/2026/poster/156043	included	编辑生成让图像解码同时看到内部视觉计划和原始输入。
+150345	Imagine, Don't Narrate: The Generative Bottleneck in World Models of Interaction Dynamics	https://neurips.cc/virtual/2026/poster/150345	included	世界模型评估分开测内部状态和输出序列的信号损失。
+151209	Imitation Dominates Reinforcement: Direct In-Context RL Is Closer to ICL Than RL	https://neurips.cc/virtual/2026/poster/151209	included	上下文强化学习先做奖励置乱和轨迹破坏对照。
+151602	Imitation from Observations with Trajectory-Level Generative Embeddings	https://neurips.cc/virtual/2026/poster/151602	included	仅有专家状态时，以整段行为的潜空间密度定义稠密代理奖励。
+152450	ImmuVis: Hyperconvolutional Foundation Models for Imaging Mass Cytometry	https://neurips.cc/virtual/2026/poster/152450	included	通道集合变化时用通道语义动态生成卷积核。
+149015	Impacts of Aggregation on Model Diversity and Consumer Utility	https://neurips.cc/virtual/2026/poster/149015	included	有路由器的模型生态按强项的绝对质量加权胜率。
+153488	Imperfect Influence, Reliable Rankings: A Theory of TRAK for Data Attribution	https://neurips.cc/virtual/2026/poster/153488	included	用 TRAK 先筛高影响样本，再复核中间排名或绝对值。
+154874	Imperfect World Models are Exploitable	https://neurips.cc/virtual/2026/poster/154874	included	仅在可论证的安全时域内信任代理规划排序。
+150321	Implicit Bias in State Space Models and Linear Autoregressive Training	https://neurips.cc/virtual/2026/poster/150321	included	变长训练先查各长度组对极限边际的影响。
+149406	Implicit Bias of Mirror Flow in Homogeneous Neural Networks: Sparse and Dense Feature Learning	https://neurips.cc/virtual/2026/poster/149406	included	选镜像映射时分别测分类间隔、训练收敛时间和神经元激活稀疏性。
+153972	Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry	https://neurips.cc/virtual/2026/poster/153972	included	部署一步动作生成器时，以局部专家几何约束训练，避免显式估计稀疏条件漂移场。
+151746	Implicit-Euler Value Iteration: Long-Horizon Planning via Stable Integration of the Bellman Residual Flow	https://neurips.cc/virtual/2026/poster/151746	included	长时域价值迭代可用近似模拟器解隐式步，再用真模型残差纠偏。
+154628	Implicit Goal Conditioning via Value Disaggregation	https://neurips.cc/virtual/2026/poster/154628	included	部署时子目标调度昂贵时，在训练端保留各子目标价值头，部署端尝试单一无子目标输入策略。
+153602	Implicit Neural Representations for Variational Problems on Graphons	https://neurips.cc/virtual/2026/poster/153602	excluded	主要为图极限变分实例构造候选解，摘要不足以判断新架构对其他约束优化的独立收益。
+150324	Implicit Value Probing: Inferring Human Value Preferences via Strategic Multi-Turn Conversations	https://neurips.cc/virtual/2026/poster/150324	excluded	主要为模拟隐性偏好问答，蒸馏策略未提供足以独立核验的泛化证据。
+152437	Importance-Aware OBS Pruning for Diffusion Models	https://neurips.cc/virtual/2026/poster/152437	excluded	依据空间重要性加权的剪枝仍缺重要图来源、定量指标及可复用边界。
+156079	Importance-Weighted Operator Learning Under Probability Measure Shifts	https://neurips.cc/virtual/2026/poster/156079	included	神经算子遇到训练测试函数分布变化且重权过大时，用训练测试混合测度定义有界权重。
+149451	Impossibility of Distribution-Free Predictive Inference for Individual Treatment Effects	https://neurips.cc/virtual/2026/poster/149451	included	估计连续协变量下的个体因果效应时，明确加入哪些结构假设才可能得到有用的预测区间。
+155099	Improved Algorithms for Online Classification with Surrogate Losses	https://neurips.cc/virtual/2026/poster/155099	excluded	边际稳定性有理论价值，但摘要未说明可独立提取的稳定更新条件或新算法细节。
+149740	Improved Baselines with Representation Autoencoders	https://neurips.cc/virtual/2026/poster/149740	included	配置表示自编码器时，比较多层融合、对同一表示做中层对齐，以及单模型自引导。
+155618	Improved Leverage Score Sampling for Constrained Active Linear Regression	https://neurips.cc/virtual/2026/poster/155618	included	受各向异性约束的主动回归中，用可行域形状重新加权标注查询。
+153555	Improved Regret Analysis For Parallel Gaussian Process Bandit Optimization	https://neurips.cc/virtual/2026/poster/153555	excluded	改善既有算法遗憾上界，但摘要不足以明确理论改进可支持哪些超出取消初始化的工程决策。
+153585	Improved Regret bounds in Tabular Reinforcement Learning under Local Differential Privacy	https://neurips.cc/virtual/2026/poster/153585	excluded	表格非交互局部隐私的上下界改进偏特定，摘要未说明编码选择对更广策略学习的独立价值。
+148144	Improved Robust Verifiable Federated Learning Based on Packed Secret Sharing	https://neurips.cc/virtual/2026/poster/148144	included	隐私联邦聚合需要相似度验证时，以可验证点积作为模块化原语。
+154198	Improved Sample Complexity for Markov Games via Variance-Aware Bandit Learning	https://neurips.cc/virtual/2026/poster/154198	excluded	经验方差赌博机是候选机制，摘要未给出方差调度或新的缺口分解操作。
+152218	Improved State Mixing in Higher-order and Block Diagonal Linear Recurrent Networks	https://neurips.cc/virtual/2026/poster/152218	included	对角式线性循环表达不足时，按瓶颈选择混合多个过去状态或块内通道。
+154921	Improved techniques for fine-tuning flow models via adjoint matching: a deterministic control pipeline	https://neurips.cc/virtual/2026/poster/154921	included	流生成模型对齐偏好时，比较完整反传与仅在轨迹后段计算伴随信号。
+150702	Improved Weakly Supervised Semantic Segmentation with A Relationally Optimized Prototype Memory Bank Framework	https://neurips.cc/virtual/2026/poster/150702	excluded	图原型传播与全局原型库的组合并未在摘要中提供可独立复用的关系学习机制。
+148140	Improving Audit Realism with Inference-Time Compute and Deployment Scaffolds	https://neurips.cc/virtual/2026/poster/148140	included	做模型安全审计时，将部署环境一致性作为独立测量项。
+153775	Improving Causal Explanations	https://neurips.cc/virtual/2026/poster/153775	included	高风险变量归因以因果假设与可行区间作为解释的一部分。
+149052	Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives	https://neurips.cc/virtual/2026/poster/149052	included	通过训练期类间似然比对齐吸收部分扩散引导效果。
+150565	Improving Consistency in Retrieval Augmented Systems  With Group Similarity Rewards	https://neurips.cc/virtual/2026/poster/150565	included	把同义改写分组用于 RAG 政策更新，单列检索和生成的一致性。
+151902	Improving constraint-based discovery with robust propagation and LLM priors	https://neurips.cc/virtual/2026/poster/151902	included	因果定向先筛可信种子，继而用非碰撞证据稳健传播。
+150848	Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy	https://neurips.cc/virtual/2026/poster/150848	included	背景偏移明显时把上下文归因惩罚写进分类训练。
+148162	Improving Continual Video Instance Segmentation via Spatial-Temporal Balanced Mixture-of-Experts Adapters	https://neurips.cc/virtual/2026/poster/148162	excluded	摘要组合适配、时空 MoE 与正交更新，未提供独立对照来支撑哪一组件能迁移或何时值得改变方案。
+151348	Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration	https://neurips.cc/virtual/2026/poster/151348	included	扩散图像逆问题加入相邻一致性估计差值，以控制采样波动。
+149748	Improving Flexible Image Tokenizers for Autoregressive Image Generation	https://neurips.cc/virtual/2026/poster/149748	included	可变长图像词元训练需保证尾部获得足够激活且保留细节自由度。
+152774	Improving Function Space Flow Matching with Kernel Optimal Transport	https://neurips.cc/virtual/2026/poster/152774	included	函数流匹配按函数空间核做批内配对。
+154485	Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization	https://neurips.cc/virtual/2026/poster/154485	included	奖励打分区分不出通用套话时按条件特异性调节梯度。
+151051	Improving Generative Adversarial Networks with Self-Distillation	https://neurips.cc/virtual/2026/poster/151051	included	将生成器 EMA 从部署快照改为训练期稳定教师。
+152467	Improving Guidance-Free Visual Generation via Self-Contrastive Alignment for Likelihood Estimation	https://neurips.cc/virtual/2026/poster/152467	included	无引导生成可直接对齐真实样本与自生成样本的预测差异。
+150649	Improving LLM Final Representations with Inter-Layer Geometry	https://neurips.cc/virtual/2026/poster/150649	included	用低直径稀疏层间图整合冻结模型中间特征。
+148927	Improving Neural Decoding Performance for Language BCIs by Explicitly Modeling Context-Induced Noise	https://neurips.cc/virtual/2026/poster/148927	excluded	摘要仅提出显式建模语境诱发变化，未交代分解方法、数据集或可归因的对照，暂不形成可操作机制。
+148845	Improving Neural Processes in the Low-Data Regime via Context-Subset Training and Self-Distillation	https://neurips.cc/virtual/2026/poster/148845	included	任务样本少时以满上下文 EMA 教师指导子上下文学生。
+155969	Improving Quantized Zeroth-Order Optimization through Reconstructed Low-Rank Structures	https://neurips.cc/virtual/2026/poster/155969	included	量化零阶微调用低秩扰动和更各向同性的量化分组。
+151171	Improving Self-Supervised Vision Transformers with Cross Distillation	https://neurips.cc/virtual/2026/poster/151171	included	给视觉自蒸馏的每个遮盖补丁少量全局教师分布。
+150734	Improving the Diffusability of Motion Tokenizer	https://neurips.cc/virtual/2026/poster/150734	included	动作词元器同时优化潜频谱可扩散性和时间解码。
+149121	Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs	https://neurips.cc/virtual/2026/poster/149121	included	良性协作任务用共享可更新依赖图协调分工。
+151753	Improving the Optimization Landscape of Matrix Completion with $\epsilon$-close Surrogates	https://neurips.cc/virtual/2026/poster/151753	included	矩阵补全可用保留原观测的微扰代理改善可分析性。
 154661	IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154661	pending	-
 148601	Inadvertent Context Leakage in Language Models	https://neurips.cc/virtual/2026/poster/148601	pending	-
 150515	IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation	https://neurips.cc/virtual/2026/poster/150515	pending	-

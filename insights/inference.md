@@ -1071,5 +1071,7 @@
 - [iCATS: Fast Video Generation via Interaction-Aware Sparse Attention and Timestep-Adaptive Sparsity](../conferences/neurips-2026/cards-0006.md#paper-152851)
 - [IdealCache: Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories](../conferences/neurips-2026/cards-0007.md#paper-155683)
 - [Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models](../conferences/neurips-2026/cards-0007.md#paper-149053)
+- [Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration](../conferences/neurips-2026/cards-0007.md#paper-151348)
+- [Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs](../conferences/neurips-2026/cards-0007.md#paper-149121)
 
 <!-- conference-classification:end -->

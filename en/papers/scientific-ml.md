@@ -508,5 +508,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Hybrid Neural World Models for Physical Dynamics](../../conferences/neurips-2026/cards-0006.md#paper-148875)
 - [IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow](../../conferences/neurips-2026/cards-0006.md#paper-149902)
 - [Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems](../../conferences/neurips-2026/cards-0007.md#paper-151974)
+- [ImmuVis: Hyperconvolutional Foundation Models for Imaging Mass Cytometry](../../conferences/neurips-2026/cards-0007.md#paper-152450)
 
 <!-- conference-classification:end -->

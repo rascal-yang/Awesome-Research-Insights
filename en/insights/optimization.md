@@ -566,5 +566,11 @@ Gradient updates, parameterization, and optimization dynamics.
 - [How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning](../../conferences/neurips-2026/cards-0006.md#paper-149145)
 - [HyperVQ: Enabling Hyperprior Entropy Modeling for VQ-Based Generative Image Compression](../../conferences/neurips-2026/cards-0006.md#paper-154142)
 - [i-DEQ: A stable inertial Deep Equilibrium model for image restoration](../../conferences/neurips-2026/cards-0007.md#paper-150886)
+- [Implicit Bias of Mirror Flow in Homogeneous Neural Networks: Sparse and Dense Feature Learning](../../conferences/neurips-2026/cards-0007.md#paper-149406)
+- [Implicit-Euler Value Iteration: Long-Horizon Planning via Stable Integration of the Bellman Residual Flow](../../conferences/neurips-2026/cards-0007.md#paper-151746)
+- [Improved Robust Verifiable Federated Learning Based on Packed Secret Sharing](../../conferences/neurips-2026/cards-0007.md#paper-148144)
+- [Improving Function Space Flow Matching with Kernel Optimal Transport](../../conferences/neurips-2026/cards-0007.md#paper-152774)
+- [Improving Quantized Zeroth-Order Optimization through Reconstructed Low-Rank Structures](../../conferences/neurips-2026/cards-0007.md#paper-155969)
+- [Improving the Optimization Landscape of Matrix Completion with $\epsilon$-close Surrogates](../../conferences/neurips-2026/cards-0007.md#paper-151753)
 
 <!-- conference-classification:end -->

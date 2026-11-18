@@ -1243,5 +1243,12 @@
 - [IDEA: Unwrapping Visual Black-box Models by Interaction Decomposition](../conferences/neurips-2026/cards-0007.md#paper-151393)
 - [Idempotency Exposes Consistency Problems in Sparse Autoencoders](../conferences/neurips-2026/cards-0007.md#paper-155537)
 - [Identified-Set Geometry of Distributional Model Extraction under Top-K Censored API Access](../conferences/neurips-2026/cards-0007.md#paper-149969)
+- [Illusory Pattern Perception Drives Spurious Inference in Large Language Models](../conferences/neurips-2026/cards-0007.md#paper-152124)
+- [ImageNet FID is a Pass Check, Not a Finish Line](../conferences/neurips-2026/cards-0007.md#paper-140042)
+- [Imagine, Don't Narrate: The Generative Bottleneck in World Models of Interaction Dynamics](../conferences/neurips-2026/cards-0007.md#paper-150345)
+- [Imitation Dominates Reinforcement: Direct In-Context RL Is Closer to ICL Than RL](../conferences/neurips-2026/cards-0007.md#paper-151209)
+- [Impacts of Aggregation on Model Diversity and Consumer Utility](../conferences/neurips-2026/cards-0007.md#paper-149015)
+- [Imperfect Influence, Reliable Rankings: A Theory of TRAK for Data Attribution](../conferences/neurips-2026/cards-0007.md#paper-153488)
+- [Improving Audit Realism with Inference-Time Compute and Deployment Scaffolds](../conferences/neurips-2026/cards-0007.md#paper-148140)
 
 <!-- conference-classification:end -->

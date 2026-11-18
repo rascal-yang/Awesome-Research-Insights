@@ -634,5 +634,13 @@ Training schedules, curricula, and task or stage composition.
 - [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](../../conferences/neurips-2026/cards-0006.md#paper-154612)
 - [HyperFlow: Gradient-Free Test-Time Adaptation for Cross-Domain Few-Shot Classification](../../conferences/neurips-2026/cards-0006.md#paper-154114)
 - [IDEAL: Interaction Dynamics and Force-Aware Learning for Dual-Humanoid Collaborative Manipulation](../../conferences/neurips-2026/cards-0007.md#paper-153659)
+- [Image Matting without Matting-Specific Annotations via Eikonal Fields](../../conferences/neurips-2026/cards-0007.md#paper-151905)
+- [Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry](../../conferences/neurips-2026/cards-0007.md#paper-153972)
+- [Importance-Weighted Operator Learning Under Probability Measure Shifts](../../conferences/neurips-2026/cards-0007.md#paper-156079)
+- [Improved Baselines with Representation Autoencoders](../../conferences/neurips-2026/cards-0007.md#paper-149740)
+- [Improved techniques for fine-tuning flow models via adjoint matching: a deterministic control pipeline](../../conferences/neurips-2026/cards-0007.md#paper-154921)
+- [Improving Generative Adversarial Networks with Self-Distillation](../../conferences/neurips-2026/cards-0007.md#paper-151051)
+- [Improving Neural Processes in the Low-Data Regime via Context-Subset Training and Self-Distillation](../../conferences/neurips-2026/cards-0007.md#paper-148845)
+- [Improving Self-Supervised Vision Transformers with Cross Distillation](../../conferences/neurips-2026/cards-0007.md#paper-151171)
 
 <!-- conference-classification:end -->

@@ -861,5 +861,10 @@
 - [Identifiable alignment of unpaired representations](../conferences/neurips-2026/cards-0007.md#paper-151829)
 - [Identification and Bounding of Joint Expectation over Potential Outcomes](../conferences/neurips-2026/cards-0007.md#paper-150669)
 - [Identifying Structural Biases from Causal Mechanism Shifts](../conferences/neurips-2026/cards-0007.md#paper-151733)
+- [Imperfect World Models are Exploitable](../conferences/neurips-2026/cards-0007.md#paper-154874)
+- [Implicit Bias in State Space Models and Linear Autoregressive Training](../conferences/neurips-2026/cards-0007.md#paper-150321)
+- [Impossibility of Distribution-Free Predictive Inference for Individual Treatment Effects](../conferences/neurips-2026/cards-0007.md#paper-149451)
+- [Improving Causal Explanations](../conferences/neurips-2026/cards-0007.md#paper-153775)
+- [Improving constraint-based discovery with robust propagation and LLM priors](../conferences/neurips-2026/cards-0007.md#paper-151902)
 
 <!-- conference-classification:end -->

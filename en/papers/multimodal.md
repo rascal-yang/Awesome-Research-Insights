@@ -691,5 +691,9 @@ Learning across modalities such as images, text, audio, and video.
 - [Hydra-X: Native Unified Multimodal Models with Holistic Visual Tokenizers](../../conferences/neurips-2026/cards-0006.md#paper-155676)
 - [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](../../conferences/neurips-2026/cards-0006.md#paper-154612)
 - [HyperTransport: Amortized Conditioning of T2I Generative Models](../../conferences/neurips-2026/cards-0006.md#paper-152624)
+- [Image Generation for Automotive Lidar Open-vocabulary Semantic Segmentation](../../conferences/neurips-2026/cards-0007.md#paper-151641)
+- [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](../../conferences/neurips-2026/cards-0007.md#paper-149868)
+- [Imagine Before You Draw: Visual Prompt Engineering for Image Generation](../../conferences/neurips-2026/cards-0007.md#paper-156043)
+- [Improved techniques for fine-tuning flow models via adjoint matching: a deterministic control pipeline](../../conferences/neurips-2026/cards-0007.md#paper-154921)
 
 <!-- conference-classification:end -->

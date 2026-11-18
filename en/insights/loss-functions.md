@@ -331,5 +331,9 @@ Objectives, auxiliary supervision, and regularization.
 - [Higher-Order Action Supervision Makes A Strong Policy Class](../../conferences/neurips-2026/cards-0006.md#paper-151538)
 - [High-Fidelity Boltzmann Samplingvia Physical Prior Lifted Continuous GFlowNets](../../conferences/neurips-2026/cards-0006.md#paper-154030)
 - [How Does Cutout Benefit Out-of-Distribution Generalization?](../../conferences/neurips-2026/cards-0006.md#paper-152989)
+- [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](../../conferences/neurips-2026/cards-0007.md#paper-149868)
+- [Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives](../../conferences/neurips-2026/cards-0007.md#paper-149052)
+- [Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy](../../conferences/neurips-2026/cards-0007.md#paper-150848)
+- [Improving Guidance-Free Visual Generation via Self-Contrastive Alignment for Likelihood Estimation](../../conferences/neurips-2026/cards-0007.md#paper-152467)
 
 <!-- conference-classification:end -->

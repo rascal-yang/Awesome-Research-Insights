@@ -357,5 +357,9 @@
 - [Hypernetworks for Dynamic Feature Selection](../conferences/neurips-2026/cards-0006.md#paper-154296)
 - [IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow](../conferences/neurips-2026/cards-0006.md#paper-149902)
 - [Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems](../conferences/neurips-2026/cards-0007.md#paper-151974)
+- [IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer](../conferences/neurips-2026/cards-0007.md#paper-155215)
+- [Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator](../conferences/neurips-2026/cards-0007.md#paper-151849)
+- [Imagine Before You Draw: Visual Prompt Engineering for Image Generation](../conferences/neurips-2026/cards-0007.md#paper-156043)
+- [Improved State Mixing in Higher-order and Block Diagonal Linear Recurrent Networks](../conferences/neurips-2026/cards-0007.md#paper-152218)
 
 <!-- conference-classification:end -->

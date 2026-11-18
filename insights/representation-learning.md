@@ -478,5 +478,9 @@
 - [Hyperspherical Local Margin Retraction for Zero-Shot Instance-Wise Machine Unlearning](../conferences/neurips-2026/cards-0006.md#paper-151778)
 - [HyperTree: Scalable Unsupervised Hierarchy Discovery in Hyperbolic Space](../conferences/neurips-2026/cards-0006.md#paper-150924)
 - [IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder](../conferences/neurips-2026/cards-0007.md#paper-152556)
+- [Image Generation for Automotive Lidar Open-vocabulary Semantic Segmentation](../conferences/neurips-2026/cards-0007.md#paper-151641)
+- [Improving Flexible Image Tokenizers for Autoregressive Image Generation](../conferences/neurips-2026/cards-0007.md#paper-149748)
+- [Improving LLM Final Representations with Inter-Layer Geometry](../conferences/neurips-2026/cards-0007.md#paper-150649)
+- [Improving the Diffusability of Motion Tokenizer](../conferences/neurips-2026/cards-0007.md#paper-150734)
 
 <!-- conference-classification:end -->

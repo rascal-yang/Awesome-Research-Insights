@@ -308,5 +308,7 @@
 - [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](../conferences/neurips-2026/cards-0006.md#paper-149865)
 - [How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies](../conferences/neurips-2026/cards-0006.md#paper-155951)
 - [How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning](../conferences/neurips-2026/cards-0006.md#paper-150612)
+- [I Have a Stream: Making Self-Supervised Learning Work on Continuous Video](../conferences/neurips-2026/cards-0007.md#paper-151662)
+- [Improved Leverage Score Sampling for Constrained Active Linear Regression](../conferences/neurips-2026/cards-0007.md#paper-155618)
 
 <!-- conference-classification:end -->

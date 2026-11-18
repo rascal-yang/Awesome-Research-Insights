@@ -535,5 +535,10 @@
 - [How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies](../conferences/neurips-2026/cards-0006.md#paper-155951)
 - [How does RL Post-training Induce Skill Composition? A Case Study on Countdown](../conferences/neurips-2026/cards-0006.md#paper-148203)
 - [Human-Inspired, Task-Dimension-Guided Exploration for Efficient Learning and Transfer in High Dimensions](../conferences/neurips-2026/cards-0006.md#paper-150298)
+- [IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards](../conferences/neurips-2026/cards-0007.md#paper-148764)
+- [Imitation Dominates Reinforcement: Direct In-Context RL Is Closer to ICL Than RL](../conferences/neurips-2026/cards-0007.md#paper-151209)
+- [Imitation from Observations with Trajectory-Level Generative Embeddings](../conferences/neurips-2026/cards-0007.md#paper-151602)
+- [Imperfect World Models are Exploitable](../conferences/neurips-2026/cards-0007.md#paper-154874)
+- [Implicit-Euler Value Iteration: Long-Horizon Planning via Stable Integration of the Bellman Residual Flow](../conferences/neurips-2026/cards-0007.md#paper-151746)
 
 <!-- conference-classification:end -->

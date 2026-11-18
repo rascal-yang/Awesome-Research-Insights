@@ -701,5 +701,8 @@
 - [HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere](../conferences/neurips-2026/cards-0006.md#paper-150015)
 - [ICAT: Incident-Case–Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models](../conferences/neurips-2026/cards-0006.md#paper-150398)
 - [IDEAL: Interaction Dynamics and Force-Aware Learning for Dual-Humanoid Collaborative Manipulation](../conferences/neurips-2026/cards-0007.md#paper-153659)
+- [Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator](../conferences/neurips-2026/cards-0007.md#paper-151849)
+- [Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry](../conferences/neurips-2026/cards-0007.md#paper-153972)
+- [Implicit Goal Conditioning via Value Disaggregation](../conferences/neurips-2026/cards-0007.md#paper-154628)
 
 <!-- conference-classification:end -->

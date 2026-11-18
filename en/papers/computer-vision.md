@@ -862,5 +862,18 @@ Visual representation, recognition, reconstruction, and generation.
 - [Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models](../../conferences/neurips-2026/cards-0007.md#paper-149053)
 - [i-DEQ: A stable inertial Deep Equilibrium model for image restoration](../../conferences/neurips-2026/cards-0007.md#paper-150886)
 - [iDETR: Implicit DETR for Tiny Object Detection](../../conferences/neurips-2026/cards-0007.md#paper-151442)
+- [IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer](../../conferences/neurips-2026/cards-0007.md#paper-155215)
+- [I Have a Stream: Making Self-Supervised Learning Work on Continuous Video](../../conferences/neurips-2026/cards-0007.md#paper-151662)
+- [Image Matting without Matting-Specific Annotations via Eikonal Fields](../../conferences/neurips-2026/cards-0007.md#paper-151905)
+- [ImageNet FID is a Pass Check, Not a Finish Line](../../conferences/neurips-2026/cards-0007.md#paper-140042)
+- [Improved Baselines with Representation Autoencoders](../../conferences/neurips-2026/cards-0007.md#paper-149740)
+- [Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives](../../conferences/neurips-2026/cards-0007.md#paper-149052)
+- [Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy](../../conferences/neurips-2026/cards-0007.md#paper-150848)
+- [Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration](../../conferences/neurips-2026/cards-0007.md#paper-151348)
+- [Improving Flexible Image Tokenizers for Autoregressive Image Generation](../../conferences/neurips-2026/cards-0007.md#paper-149748)
+- [Improving Generative Adversarial Networks with Self-Distillation](../../conferences/neurips-2026/cards-0007.md#paper-151051)
+- [Improving Guidance-Free Visual Generation via Self-Contrastive Alignment for Likelihood Estimation](../../conferences/neurips-2026/cards-0007.md#paper-152467)
+- [Improving Self-Supervised Vision Transformers with Cross Distillation](../../conferences/neurips-2026/cards-0007.md#paper-151171)
+- [Improving the Diffusability of Motion Tokenizer](../../conferences/neurips-2026/cards-0007.md#paper-150734)
 
 <!-- conference-classification:end -->

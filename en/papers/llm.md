@@ -1838,5 +1838,13 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Hypothesis generation and updating in large language models](../../conferences/neurips-2026/cards-0006.md#paper-155387)
 - [HYVE: Hybrid Views for LLM Context Engineering over Machine Data](../../conferences/neurips-2026/cards-0006.md#paper-152054)
 - [Identified-Set Geometry of Distributional Model Extraction under Top-K Censored API Access](../../conferences/neurips-2026/cards-0007.md#paper-149969)
+- [Illusory Pattern Perception Drives Spurious Inference in Large Language Models](../../conferences/neurips-2026/cards-0007.md#paper-152124)
+- [Imagine, Don't Narrate: The Generative Bottleneck in World Models of Interaction Dynamics](../../conferences/neurips-2026/cards-0007.md#paper-150345)
+- [Improving Audit Realism with Inference-Time Compute and Deployment Scaffolds](../../conferences/neurips-2026/cards-0007.md#paper-148140)
+- [Improving Consistency in Retrieval Augmented Systems  With Group Similarity Rewards](../../conferences/neurips-2026/cards-0007.md#paper-150565)
+- [Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization](../../conferences/neurips-2026/cards-0007.md#paper-154485)
+- [Improving LLM Final Representations with Inter-Layer Geometry](../../conferences/neurips-2026/cards-0007.md#paper-150649)
+- [Improving Quantized Zeroth-Order Optimization through Reconstructed Low-Rank Structures](../../conferences/neurips-2026/cards-0007.md#paper-155969)
+- [Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs](../../conferences/neurips-2026/cards-0007.md#paper-149121)
 
 <!-- conference-classification:end -->
