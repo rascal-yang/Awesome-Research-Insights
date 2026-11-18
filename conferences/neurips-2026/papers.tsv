@@ -34,62 +34,62 @@ poster_id	title	paper_url	status	reason
 156149	3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields	https://neurips.cc/virtual/2026/poster/156149	included	对高斯颜色施加连续场约束，减轻颜色对几何错误的补偿。
 156034	3D Molecule Generation from Rigid Motifs via $\mathrm{SE}(3)$ Flows	https://neurips.cc/virtual/2026/poster/156034	pending	-
 148954	3D-PLOT-LLM: Part-Level Object Tokens for 3D Large Language Models	https://neurips.cc/virtual/2026/poster/148954	included	用可引用词表槽位把部件作为语言模型输入和输出中的实体。
-151080	3D Point Splatting for mmWave Radar Novel View Synthesis	https://neurips.cc/virtual/2026/poster/151080	pending	-
-152761	3D Skew Normal Splatting	https://neurips.cc/virtual/2026/poster/152761	pending	-
-153051	3DSPA: A 3D Semantic Point Autoencoder for Evaluating Video Realism	https://neurips.cc/virtual/2026/poster/153051	pending	-
-150244	3D-VITAL: Visibility-aware Identity Training from Artificial Liftings of 3D Reconstruction model for Cross-View Object Re-Identification	https://neurips.cc/virtual/2026/poster/150244	pending	-
-155977	3R-Adapter: Retrieval, Rewiring, and Refinement for Efficient Adaptation of 3D Reconstruction Model	https://neurips.cc/virtual/2026/poster/155977	pending	-
-148721	A$^2$IQL: Adaptive Asymmetric Implicit Q Learning for Automated Warehouse Consolidation	https://neurips.cc/virtual/2026/poster/148721	pending	-
-139138	A$^3$Bench: A Benchmark for Compositional Reasoning over Aggressive Interactions in Videos	https://neurips.cc/virtual/2026/poster/139138	pending	-
-153258	A2Eval: Agentic and Automated Evaluation for Embodied Brain	https://neurips.cc/virtual/2026/poster/153258	pending	-
-149615	A2I: Adjacency-to-Image Structural Encodings for Graph Learning	https://neurips.cc/virtual/2026/poster/149615	pending	-
-148286	A 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale	https://neurips.cc/virtual/2026/poster/148286	pending	-
-148581	A Batched Hartigan's $k$-Means Clustering	https://neurips.cc/virtual/2026/poster/148581	pending	-
-148310	ABC-Align: Prediction-Powered Alignment with Adaptive Bias Control	https://neurips.cc/virtual/2026/poster/148310	pending	-
-150308	ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space	https://neurips.cc/virtual/2026/poster/150308	pending	-
-139047	A Benchmark for Omni-Modal Reasoning in Long Videos	https://neurips.cc/virtual/2026/poster/139047	pending	-
+151080	3D Point Splatting for mmWave Radar Novel View Synthesis	https://neurips.cc/virtual/2026/poster/151080	included	保留复相位再派生雷达产品
+152761	3D Skew Normal Splatting	https://neurips.cc/virtual/2026/poster/152761	included	在非对称边界用可学习偏斜原语
+153051	3DSPA: A 3D Semantic Point Autoencoder for Evaluating Video Realism	https://neurips.cc/virtual/2026/poster/153051	included	用含语义的三维轨迹重建评估视频物理一致性
+150244	3D-VITAL: Visibility-aware Identity Training from Artificial Liftings of 3D Reconstruction model for Cross-View Object Re-Identification	https://neurips.cc/virtual/2026/poster/150244	included	将合成新视角的真实可见部分与幻觉纹理区分
+155977	3R-Adapter: Retrieval, Rewiring, and Refinement for Efficient Adaptation of 3D Reconstruction Model	https://neurips.cc/virtual/2026/poster/155977	included	显式修复跨视角关系以适配三维模型
+148721	A$^2$IQL: Adaptive Asymmetric Implicit Q Learning for Automated Warehouse Consolidation	https://neurips.cc/virtual/2026/poster/148721	included	动作集合很大时分离逐候选打分和集合价值估计
+139138	A$^3$Bench: A Benchmark for Compositional Reasoning over Aggressive Interactions in Videos	https://neurips.cc/virtual/2026/poster/139138	included	显式测试人物与动作的绑定
+153258	A2Eval: Agentic and Automated Evaluation for Embodied Brain	https://neurips.cc/virtual/2026/poster/153258	included	按能力覆盖压缩评测并测排序保持
+149615	A2I: Adjacency-to-Image Structural Encodings for Graph Learning	https://neurips.cc/virtual/2026/poster/149615	included	用局部邻接布局给节点编码补图结构
+148286	A 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale	https://neurips.cc/virtual/2026/poster/148286	included	在显式反映三维结构的隐空间做去噪
+148581	A Batched Hartigan's $k$-Means Clustering	https://neurips.cc/virtual/2026/poster/148581	included	以安全独立性筛选可并行坐标更新
+148310	ABC-Align: Prediction-Powered Alignment with Adaptive Bias Control	https://neurips.cc/virtual/2026/poster/148310	included	按偏差与方差动态调节人工纠偏强度
+150308	ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space	https://neurips.cc/virtual/2026/poster/150308	included	把扩散推进时间与物理时间对齐
+139047	A Benchmark for Omni-Modal Reasoning in Long Videos	https://neurips.cc/virtual/2026/poster/139047	included	用分项证据量表区分视觉、语音和环境声失败
 152550	AbFlowNet: Optimizing Antibody-Antigen Binding Energy via Diffusion-GFlowNet Fusion	https://neurips.cc/virtual/2026/poster/152550	pending	-
-139180	ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective	https://neurips.cc/virtual/2026/poster/139180	pending	-
-151803	A Biconvex Formulation for Stable Transport of Mixture Models with a Unique Solution	https://neurips.cc/virtual/2026/poster/151803	pending	-
-155947	A Bitter Lesson for Data Filtering	https://neurips.cc/virtual/2026/poster/155947	pending	-
-154233	A Black-Box Reduction from Regret to Multi-Level Coverage	https://neurips.cc/virtual/2026/poster/154233	pending	-
-139176	AbsoluteDegradation: A Physics-Inspired Synthetic Film-Degradation Pipeline and Archival Film Restoration Benchmark	https://neurips.cc/virtual/2026/poster/139176	pending	-
-149439	Absolute State-wise Constrained Policy Optimization: High-Probability State-wise Constraints Satisfaction	https://neurips.cc/virtual/2026/poster/149439	pending	-
-151374	AbSpecAlign: Specificity Reward Alignment for Antigen-Conditioned Antibody Generation	https://neurips.cc/virtual/2026/poster/151374	pending	-
-154083	AcceleGrad#: Adaptive Geometry-Aware Acceleration	https://neurips.cc/virtual/2026/poster/154083	pending	-
-149846	Accelerated Image Editing via Consistency-Aware Source Token Pruning	https://neurips.cc/virtual/2026/poster/149846	pending	-
-155893	Accelerated last-iterate convergence of Extragradient via power-law stepsizes	https://neurips.cc/virtual/2026/poster/155893	pending	-
-152485	Accelerating Diffusion Language Models via Structured Suffix Modeling	https://neurips.cc/virtual/2026/poster/152485	pending	-
-156738	Accelerating Inference of Discrete Autoregressive Normalizing Flows by Selective Jacobi Decoding	https://neurips.cc/virtual/2026/poster/156738	pending	-
-150025	Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement	https://neurips.cc/virtual/2026/poster/150025	pending	-
-154875	Accelerating Long-Context LLM Prefill via Layer-wise Progressive Token Pruning in Local Deployment	https://neurips.cc/virtual/2026/poster/154875	pending	-
-149064	Accelerating Neural Network Training with Augmented Koopman Dynamics	https://neurips.cc/virtual/2026/poster/149064	pending	-
-151611	Accelerating Rectified Flow Models  via Trajectory-Aware Caching	https://neurips.cc/virtual/2026/poster/151611	pending	-
-153909	Accelerating Safe Reinforcement Learning with Massive Parallelism	https://neurips.cc/virtual/2026/poster/153909	pending	-
-154818	Accelerating the Inference Era with AI-Driven, Globally Optimized HW/SW Co-Design	https://neurips.cc/virtual/2026/poster/154818	pending	-
-151472	Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models	https://neurips.cc/virtual/2026/poster/151472	pending	-
-139678	AccelEval: A Whole-Program Benchmark for LLM-Generated CPU-to-GPU Code Acceleration	https://neurips.cc/virtual/2026/poster/139678	pending	-
-154840	Accuracy of Noise Ceiling Estimators for Brain Scores	https://neurips.cc/virtual/2026/poster/154840	pending	-
-148397	Accuracy vs. Accuracy: Computational Tradeoffs Between Classification Rates and Utility	https://neurips.cc/virtual/2026/poster/148397	pending	-
-149303	AC/DC on a Budget -- Alternating Sparse Phases	https://neurips.cc/virtual/2026/poster/149303	pending	-
-150094	ACD-GS: Asymmetric Curvature-aware Densification for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/150094	pending	-
-154537	ACDP: Architecture-aware Cross-Dataset Performance Predictor for NAS	https://neurips.cc/virtual/2026/poster/154537	pending	-
-154560	ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence	https://neurips.cc/virtual/2026/poster/154560	pending	-
+139180	ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective	https://neurips.cc/virtual/2026/poster/139180	included	用匹配场景检验旁观判断能否预测作为行动者的选择
+151803	A Biconvex Formulation for Stable Transport of Mixture Models with a Unique Solution	https://neurips.cc/virtual/2026/poster/151803	included	将传输基本单位换成子群而非样本。
+155947	A Bitter Lesson for Data Filtering	https://neurips.cc/virtual/2026/poster/155947	included	在高算力且数据稀缺时，把不过滤作为等预算预训练对照。
+154233	A Black-Box Reduction from Regret to Multi-Level Coverage	https://neurips.cc/virtual/2026/poster/154233	included	用在线算法的线性化遗憾控制多级覆盖。
+139176	AbsoluteDegradation: A Physics-Inspired Synthetic Film-Degradation Pipeline and Archival Film Restoration Benchmark	https://neurips.cc/virtual/2026/poster/139176	included	分解并控制模拟伪影的来源和时间相关性。
+149439	Absolute State-wise Constrained Policy Optimization: High-Probability State-wise Constraints Satisfaction	https://neurips.cc/virtual/2026/poster/149439	included	监控整条轨迹的瞬时成本最大值。
+151374	AbSpecAlign: Specificity Reward Alignment for Antigen-Conditioned Antibody Generation	https://neurips.cc/virtual/2026/poster/151374	excluded	该论文的主要贡献针对抗体序列与结构工程，本批未提炼独立的通用方法条目。
+154083	AcceleGrad#: Adaptive Geometry-Aware Acceleration	https://neurips.cc/virtual/2026/poster/154083	included	将自适应锚点和任务选定的非欧几何分开选。
+149846	Accelerated Image Editing via Consistency-Aware Source Token Pruning	https://neurips.cc/virtual/2026/poster/149846	included	用显式采样修正替代部分源图注意力。
+155893	Accelerated last-iterate convergence of Extragradient via power-law stepsizes	https://neurips.cc/virtual/2026/poster/155893	included	将外推与更新步长解耦。
+152485	Accelerating Diffusion Language Models via Structured Suffix Modeling	https://neurips.cc/virtual/2026/poster/152485	included	分段保留后缀位点，复用前一去噪步信息。
+156738	Accelerating Inference of Discrete Autoregressive Normalizing Flows by Selective Jacobi Decoding	https://neurips.cc/virtual/2026/poster/156738	included	按层依赖冗余选择 Jacobi 解码。
+150025	Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement	https://neurips.cc/virtual/2026/poster/150025	included	对曲率较平的方向分配更激进更新。
+154875	Accelerating Long-Context LLM Prefill via Layer-wise Progressive Token Pruning in Local Deployment	https://neurips.cc/virtual/2026/poster/154875	included	离线按时延预算确定逐层剪枝策略。
+149064	Accelerating Neural Network Training with Augmented Koopman Dynamics	https://neurips.cc/virtual/2026/poster/149064	included	同时外推参数和优化器内部状态。
+151611	Accelerating Rectified Flow Models  via Trajectory-Aware Caching	https://neurips.cc/virtual/2026/poster/151611	included	分别追踪流速度的大小偏差和方向偏差。
+153909	Accelerating Safe Reinforcement Learning with Massive Parallelism	https://neurips.cc/virtual/2026/poster/153909	included	按回合相位重建成本而非直接平均短滚动。
+154818	Accelerating the Inference Era with AI-Driven, Globally Optimized HW/SW Co-Design	https://neurips.cc/virtual/2026/poster/154818	included	联合优化切分融合、内存驻留和重算。
+151472	Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models	https://neurips.cc/virtual/2026/poster/151472	included	用测量一致初值启动流式逆扩散。
+139678	AccelEval: A Whole-Program Benchmark for LLM-Generated CPU-to-GPU Code Acceleration	https://neurips.cc/virtual/2026/poster/139678	included	用端到端正确性和同任务性能上限评估 GPU 代码生成。
+154840	Accuracy of Noise Ceiling Estimators for Brain Scores	https://neurips.cc/virtual/2026/poster/154840	included	先检查噪声上限估计器偏差再比较脑对齐分数。
+148397	Accuracy vs. Accuracy: Computational Tradeoffs Between Classification Rates and Utility	https://neurips.cc/virtual/2026/poster/148397	included	分开审查子群比例、校准与损失的可计算性
+149303	AC/DC on a Budget -- Alternating Sparse Phases	https://neurips.cc/virtual/2026/poster/149303	included	以掩码收敛终止稠密阶段或直接进行稀疏重连
+150094	ACD-GS: Asymmetric Curvature-aware Densification for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/150094	included	按深度曲率决定高斯克隆与分裂
+154537	ACDP: Architecture-aware Cross-Dataset Performance Predictor for NAS	https://neurips.cc/virtual/2026/poster/154537	included	让架构特征决定数据集的表征方式
+154560	ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence	https://neurips.cc/virtual/2026/poster/154560	included	用形式化世界检验智能体选实验、保留证据及停止的能力
 151500	ACER: Towards Generalizable Protein-ligand Co-folding	https://neurips.cc/virtual/2026/poster/151500	pending	-
-148646	A Characterization of Latent Variable Causal Models Consistent with Observational Data	https://neurips.cc/virtual/2026/poster/148646	pending	-
-154129	Achieve Latency-Efficient Temporal-Coding  Spiking LLMs via Discretization-Aware Conversion	https://neurips.cc/virtual/2026/poster/154129	pending	-
-156739	Achieving adaptivity and optimality for multi-armed bandits using Exponential-Kullback Leibler Maillard Sampling	https://neurips.cc/virtual/2026/poster/156739	pending	-
-148523	Achieving Better Local Regret Bound for Online Non-Convex Bilevel Optimization	https://neurips.cc/virtual/2026/poster/148523	pending	-
-149362	Achieving Directional-Stationarity from a Single Random Direction Step	https://neurips.cc/virtual/2026/poster/149362	pending	-
-154262	Achieving Optimal Static and Dynamic Regret Simultaneously in Bandits with Deterministic Losses	https://neurips.cc/virtual/2026/poster/154262	pending	-
-151784	A Closer Look at Dynamic Scene Graph Generation in the Era of Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/151784	pending	-
-150815	A Communication-Theoretic Framework for LLM Agents: Cost-Aware Adaptive Reliability	https://neurips.cc/virtual/2026/poster/150815	pending	-
-155971	A Compass for Useful Data: Online Data Selection via Alignment-Gated Fisher Geometry	https://neurips.cc/virtual/2026/poster/155971	pending	-
-148660	A Composite Activation Function for Learning Stable Binary Representations	https://neurips.cc/virtual/2026/poster/148660	pending	-
-153293	A Comprehensive View of Fairness through Distributional Stability	https://neurips.cc/virtual/2026/poster/153293	pending	-
-155175	A Computational Perspective to Data Ablation Experiments	https://neurips.cc/virtual/2026/poster/155175	pending	-
-152347	A Constrained Bi-level Optimization Framework for Constrained Preference-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152347	pending	-
-154268	A Control-Theoretic Approximation to Predictive Coding Dynamics	https://neurips.cc/virtual/2026/poster/154268	pending	-
+148646	A Characterization of Latent Variable Causal Models Consistent with Observational Data	https://neurips.cc/virtual/2026/poster/148646	included	在整个潜变量因果等价类上优化反事实范围
+154129	Achieve Latency-Efficient Temporal-Coding  Spiking LLMs via Discretization-Aware Conversion	https://neurips.cc/virtual/2026/poster/154129	included	以静态量化误差分析离散首次脉冲时间编码
+156739	Achieving adaptivity and optimality for multi-armed bandits using Exponential-Kullback Leibler Maillard Sampling	https://neurips.cc/virtual/2026/poster/156739	included	分布属于单参数指数族时同时考察多种遗憾标准
+148523	Achieving Better Local Regret Bound for Online Non-Convex Bilevel Optimization	https://neurips.cc/virtual/2026/poster/148523	included	依据环境变化和预算选择自适应内循环或单循环
+149362	Achieving Directional-Stationarity from a Single Random Direction Step	https://neurips.cc/virtual/2026/poster/149362	included	用一次随机方向探索增强现有优化法的方向驻点保证
+154262	Achieving Optimal Static and Dynamic Regret Simultaneously in Bandits with Deterministic Losses	https://neurips.cc/virtual/2026/poster/154262	included	根据对手可否适应来判断能否联合优化静态和动态遗憾
+151784	A Closer Look at Dynamic Scene Graph Generation in the Era of Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/151784	included	动态场景图同时测关系精度、信息量与重复
+150815	A Communication-Theoretic Framework for LLM Agents: Cost-Aware Adaptive Reliability	https://neurips.cc/virtual/2026/poster/150815	included	按任务难度决定重试、投票或迭代验证的预算
+155971	A Compass for Useful Data: Online Data Selection via Alignment-Gated Fisher Geometry	https://neurips.cc/virtual/2026/poster/155971	included	结合更新效用、下降方向和批内互补性来分配训练预算
+148660	A Composite Activation Function for Learning Stable Binary Representations	https://neurips.cc/virtual/2026/poster/148660	included	训练二值激活时保留阈值附近及尾部的梯度
+153293	A Comprehensive View of Fairness through Distributional Stability	https://neurips.cc/virtual/2026/poster/153293	included	在多种人群配比下联合报告公平性而非单一测试分布
+155175	A Computational Perspective to Data Ablation Experiments	https://neurips.cc/virtual/2026/poster/155175	included	固定算力时联合分配数据配方搜索与最终训练预算
+152347	A Constrained Bi-level Optimization Framework for Constrained Preference-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152347	included	从反馈同时学习奖励与约束成本，而非预设约束成本
+154268	A Control-Theoretic Approximation to Predictive Coding Dynamics	https://neurips.cc/virtual/2026/poster/154268	included	在接近平衡时用集中反馈近似预测编码
 139542	AcousticBench: Measuring Acoustic Perception in Large Audio Language Models	https://neurips.cc/virtual/2026/poster/139542	pending	-
 154964	ACQueReLlo: Alignment-Aware Constrained Quantization via Reinforcement Learning for Large Language Models	https://neurips.cc/virtual/2026/poster/154964	pending	-
 150320	A Critical $\beta$-Scale for Posterior Collapse in Dirichlet $\beta$-VAEs	https://neurips.cc/virtual/2026/poster/150320	pending	-
@@ -9056,12 +9056,12 @@ poster_id	title	paper_url	status	reason
 151626	Why Struggle with Continuous Latents? Interpretable Discrete Latent Reasoning via Rendered Compression	https://neurips.cc/virtual/2026/poster/151626	pending	-
 140118	Why Transformer-Based Language Models Need Explicit Mechanisms of Cognitive Control	https://neurips.cc/virtual/2026/poster/140118	pending	-
 155239	Why Transformers Struggle with Distribution-Independent In-Context Learning	https://neurips.cc/virtual/2026/poster/155239	pending	-
-137830	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137830	pending	-
-137860	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137860	pending	-
-137836	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137836	pending	-
-137884	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137884	pending	-
-137878	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137878	pending	-
-137854	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137854	pending	-
+137830	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137830	excluded	官方摘要描述学生同伴教学和开放课程，未给出可复用的机器学习机制或研究对照。
+137860	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137860	excluded	与 137830 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
+137836	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137836	excluded	与 137830 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
+137884	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137884	excluded	与 137830 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
+137878	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137878	excluded	与 137830 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
+137854	Wikair (Student-Led Nonprofit), a Global, Youth-Led, Interdisciplinary AI Education Program	https://neurips.cc/virtual/2026/poster/137854	excluded	与 137830 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 139688	WildBox: A Dataset and Benchmark for Aerial Monocular 3D Detection of African Savanna Wildlife	https://neurips.cc/virtual/2026/poster/139688	pending	-
 148890	WILD: Widely Linear Conditioning for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/148890	pending	-
 150411	Winfree Oscillatory Neural Network	https://neurips.cc/virtual/2026/poster/150411	pending	-
