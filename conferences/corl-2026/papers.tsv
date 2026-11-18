@@ -23,8 +23,8 @@ number	openreview_id	title	paper_url	reason	status
 22	OckqYiY2QM	EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference	https://openreview.net/forum?id=OckqYiY2QM	用未来状态预测对齐异步动作起点并动态分配调用预算	included
 23	QBAA8svAIK	FedGuide: Diffusion Prior Alignment and Value Baseline Guidance for Heterogeneous Federated Reinforcement Learning	https://openreview.net/forum?id=QBAA8svAIK		pending
 24	v24DO7JOuN	MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models	https://openreview.net/forum?id=v24DO7JOuN		pending
-25	FFB8qNJwV2	REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models	https://openreview.net/forum?id=FFB8qNJwV2		pending
-26	WvR13cRtRf	TARC: Time-Adaptive Robotic Control	https://openreview.net/forum?id=WvR13cRtRf		pending
+25	FFB8qNJwV2	REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models	https://openreview.net/forum?id=FFB8qNJwV2	跨观测修订未执行动作块兼顾连续性与反应	included
+26	WvR13cRtRf	TARC: Time-Adaptive Robotic Control	https://openreview.net/forum?id=WvR13cRtRf	将动作保持时间纳入策略输出并约束控制切换次数	included
 27	6T2ebANGy5	Targeting World Models to Compromise Robot Learning Pipelines	https://openreview.net/forum?id=6T2ebANGy5		pending
 28	jeNVGuJQrb	SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control	https://openreview.net/forum?id=jeNVGuJQrb		pending
 29	ZAdTLinUnd	FlowVLA: Enabling World Dynamics Understanding through Pluggable 3D Flow Learning	https://openreview.net/forum?id=ZAdTLinUnd		pending
