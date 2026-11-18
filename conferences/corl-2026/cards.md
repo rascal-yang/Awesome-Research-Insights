@@ -2281,3 +2281,63 @@
 - **适用条件 / 局限** · 量化数据主要来自重建仿真；依赖可用的场景重建和可模拟的扰动。
 
 **可复用机制** · 对真实演示预算紧张的任务，在重建环境专门采样偏离示范后的状态，并在未组合过的物理场景验证恢复。
+
+<a id="paper-qbninlimrj"></a>
+
+## CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents
+
+[会议记录](https://openreview.net/forum?id=qbninLImrj) · [原文](https://openreview.net/pdf?id=qbninLImrj)
+
+- **问题 / 瓶颈** · 成功率忽略碰撞、货物损坏与系统成本，难反映实际部署表现。
+- **核心创新 / 方法** · 在 Isaac Sim 中将碰撞与货物动力学连到财务和伤害成本数据，测收入、成本与盈亏平衡。
+- **Baseline** · 比较两种规则方法与五种模仿策略，包括 RGB 加 GPS 的 CANVAS 和 LiDAR 加 GPS 的 Nav2。
+- **Benchmark** · CostNav 配送仿真，比较任务成功、SLA 达标和单次贡献利润；一个仿真训练策略另做真机配送验证。
+- **关键结果 / 消融** · 七种基线的贡献利润均为负；在非零 SLA 达标方法中，CANVAS 每次 −28.40 美元，Nav2 加 GPS 为 −37.34 美元。
+- **适用条件 / 局限** · 经济排序受场景事故率和成本模型影响；真机复核针对 SLA 表现。
+
+**可复用机制** · 用同一份成本模型将机器人失败和传感器开销纳入部署比较，并扫描关键成本假设看排序是否稳定。
+
+<a id="paper-bxqv3kn5ql"></a>
+
+## One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation
+
+[会议记录](https://openreview.net/forum?id=bXQv3Kn5qL) · [原文](https://openreview.net/pdf?id=bXQv3Kn5qL)
+
+- **问题 / 瓶颈** · 简化文本地图难保留动作规划所需的精确空间结构。
+- **核心创新 / 方法** · 将低层度量状态估计与高层语义计划解耦，提供可查询的世界表示以支持反事实推理。
+- **Baseline** · 比较零样本视觉语言导航方法；摘要未列模型名。
+- **Benchmark** · R2R-CE、RxR-CE 零样本导航成功率，以及不同机器人上的迁移演示。
+- **关键结果 / 消融** · R2R-CE 成功率 48.8%，RxR-CE 46.2%；摘要未量化反事实推理的单独效果。
+- **适用条件 / 局限** · 依赖度量状态估计质量，地图错误时的计划失效比例未报告。
+
+**可复用机制** · 固定多模态模型与控制器，对比文本摘要与可查询度量地图，统计物理无效计划和任务完成率。
+
+<a id="paper-ptqogquuch"></a>
+
+## CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation
+
+[会议记录](https://openreview.net/forum?id=pTqOGquuCh) · [原文](https://openreview.net/pdf?id=pTqOGquuCh)
+
+- **问题 / 瓶颈** · 视觉语言模型分数未经校准，固定危险标签集合也难覆盖新环境。
+- **核心创新 / 方法** · 把嵌入转成共形覆盖集合，并随危险词表更新生成语义相关的障碍膨胀范围。
+- **Baseline** · 主要对照仅用几何障碍的规划。
+- **Benchmark** · Matterport3D 导航，测语义碰撞和延迟专家反馈下的覆盖。
+- **关键结果 / 消融** · 比几何基线少 61.6% 语义碰撞；作者报告延迟反馈下仍满足所定义的覆盖保证。
+- **适用条件 / 局限** · 保证针对所定义的覆盖事件；具体校准和分布变化假设需查正文。
+
+**可复用机制** · 为开放词汇安全策略同时评估校准覆盖、碰撞和保守规划损失，比较集合决策与直接置信度阈值。
+
+<a id="paper-xm8lpylbxa"></a>
+
+## CoGeL: Constraint-to-Geometry Learning from Demonstrations and Failures for Safe Long-Horizon Robot Navigation
+
+[会议记录](https://openreview.net/forum?id=xm8LPYlbxA) · [原文](https://openreview.net/pdf?id=xm8LPYlbxA)
+
+- **问题 / 瓶颈** · 局部失败样本提供了风险证据，却难约束由多个路点组成的长程计划。
+- **核心创新 / 方法** · 学习软安全分数并融入目标条件距离，利用距离一致性连接多阶段路径，并讨论校准风险与期望违规数的关系。
+- **Baseline** · 出发点是目标条件短程行为组合；摘要未列具体实验基线。
+- **Benchmark** · 多项导航实验比较不安全事件和长程到达目标表现；摘要未给任务名。
+- **关键结果 / 消融** · 作者报告不安全事件减少且保持到达能力，理论讨论分数误差对规划距离的影响；摘要未给幅度。
+- **适用条件 / 局限** · 需要足以学习和校准风险的经验覆盖；部署条件偏移时需重新验证。
+
+**可复用机制** · 固定安全模型，比较把风险嵌入路点距离和在执行前过滤动作，检验多段路径的整体安全与到达率。

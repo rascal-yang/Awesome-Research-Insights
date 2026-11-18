@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **158 / 687** 篇，当前收录 **152** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **162 / 687** 篇，当前收录 **156** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -158,3 +158,7 @@
 | 具身智能 / 多模态 | 示范监督 | [IntentNav: Learning Spatial-Visual Object Navigation from Human Demonstrations](cards.md#paper-6rjsxvcnhb) | 用示范未来片段反推当前搜索目标，为高层候选选择生成监督。 |
 | 具身智能 / 世界模型 | 预测与规划 | [One-Step World Models for Multi-Modal Goal Navigation](cards.md#paper-fuxtpvfynh) | 在固定控制预算下，一次并行预测候选轨迹的未来帧。 |
 | 具身智能 / 多模态 | 示范增强 | [Teaching Robots Like Dogs: Learning Navigation in Cluttered Scenes from Luring, Gesture, and Speech](cards.md#paper-g2ja89f1e8) | 重建少量真实示范场景后注入扰动，补充原示范缺少的恢复行为。 |
+| 具身智能 / 导航 | 评测与诊断 | [CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents](cards.md#paper-qbninlimrj) | 选导航传感器与控制器时，同时比较服务达标和每次运行的边际收益。 |
+| 具身智能 / 多模态 | 空间表示 | [One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation](cards.md#paper-bxqv3kn5ql) | 让多模态规划器按需查询度量世界状态，并由状态层约束动作可执行性。 |
+| 具身智能 / 多模态 | 不确定性校准 | [CoSMO: Conformal Semantic Mapping for Open-World Safe Robot Navigation](cards.md#paper-ptqogquuch) | 先校准开放词汇危险类别预测集合，再按语义风险扩张避障区域。 |
+| 具身智能 / 规划 | 代价建模 | [CoGeL: Constraint-to-Geometry Learning from Demonstrations and Failures for Safe Long-Horizon Robot Navigation](cards.md#paper-xm8lpylbxa) | 将从干预和失败学来的局部风险直接写入用于长程规划的目标距离。 |
