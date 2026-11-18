@@ -89,3 +89,48 @@ poster_id	novelty	reuse	usability	distinctness	evidence_scope	source	precedent	r
 151376	4	4	4	4	abstract	https://openreview.net/forum?id=b3WKmq3X8i	https://academic.oup.com/jrsssb/article/87/3/723/7915949	已有角度正则规避回归系数尺度差；本文以源方向分布替代点估计，显式调节不可靠迁移。
 154422	4	5	4	5	full_text_sections	https://arxiv.org/html/2611.08302v1	https://ojs.aaai.org/index.php/AAAI/article/view/39031	沿约束记忆 OCO 推进至非可分动态情形，将记忆转成延迟并同时跟随路径长度和预测质量。
 150727	4	5	4	5	full_text_sections	https://arxiv.org/html/2609.30556v1	https://proceedings.mlr.press/v75/altschuler18a.html	早期限切换研究针对静态比较器；正文以惰性 FTRL 多尺度聚合和最大耦合应对动态比较器的固定切换成本。
+153750	3	5	4	4	author_fulltext_intro	https://arxiv.org/html/2606.01634	https://ojs.aaai.org/index.php/AAAI/article/view/16834	ExGAN 已面向极端样本生成。论文引言以极端事件的连续结构而非孤立峰值为目标，并学习何时施加扩散条件，可分别验收事件与常规序列质量。
+155692	4	5	3	4	author_abstract	https://openreview.net/forum?id=3ew4yPTGyN	https://arxiv.org/abs/2103.04992	Hamiltonian Echo Backpropagation 已用反演回声计算更新。此作增加时空可加分离条件并扩到稠密递归；依赖可实现的反演动力学，实际硬件效果待核。
+150713	3	4	3	4	author_abstract	https://openreview.net/forum?id=g1dJyBM02E	https://papers.nips.cc/paper/2024/hash/1a134b50202088aa8c595cc99b310e5a-Abstract-Conference.html	相关联邦工作已考虑任务和终端资源异构。本文增量是对齐不同冻结骨干并共享侧网络，结合异步更新；可在相同异构配置下对照骨干和通信贡献。
+148980	4	5	3	4	author_fulltext_intro_related_work	https://arxiv.org/html/2611.07275	https://proceedings.mlr.press/v305/wagenmaker25a.html	DSRL 已只调整生成器的初始噪声。本文增加线性环境中的潜噪价值桥接，避免简单重复拟合价值；正文说明所论生成过程在采初始噪声后须为确定性。
+154492	4	4	3	4	author_fulltext_related_work	https://arxiv.org/html/2609.32929	https://arxiv.org/abs/2206.01379	InstantGNN 是动态 PPR 传播先例。公开正文说明将增量维护扩展到非线性更新且无需给更新序列加随机假设，可比较边变化后的全图重算和局部误差传播。
+152541	4	4	4	4	author_fulltext_section_2	https://www.cs.cornell.edu/~diyang01/files/efficient-fine-tuning.pdf	https://doi.org/10.1111/j.1467-9868.2005.00532.x	Group Lasso 已建立固定分组的稀疏目标。正文将分组变更拆为原子操作，以已有最优解重新适配，并对照全量重训；适用范围受相应组正则和子问题结构限制。
+153950	4	5	4	4	author_fulltext_sections_1_4	https://arxiv.org/html/2512.04974	https://arxiv.org/abs/2308.05732	PDE-Refiner 已改善逐步长滚动。ECHO 将完整轨迹生成置于时空压缩域，正文按稀疏观测与大网格评估；可分测潜空间保真与减少误差积累。
+151497	4	4	3	4	author_fulltext_intro_theorem_summary	https://arxiv.org/html/2606.19697	https://arxiv.org/abs/2310.07923	先例按思维词元数刻画逻辑与图灵表达。本文改模拟 Word RAM，结果表明确列模型宽度、注意设定与每条指令词元开销；不能据表达可行推断可训练。
+148278	4	5	4	4	author_fulltext_section_3	https://arxiv.org/html/2605.10938	https://arxiv.org/abs/2205.14217	Diffusion-LM 已用连续词嵌入扩散。ELF 让终步离散解码与前序连续去噪共享网络，并在正文对照共享权重时速度预测与干净嵌入预测，可直接指导参数化。
+151632	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2611.19686	https://arxiv.org/abs/1906.00250	个体公平先例已学习公平距离。此作分别询问社区内相似度和容忍差，正文分析新标准不确定时保留旧义务的代价，适合用留出审计核验。
+154929	3	4	3	4	author_fulltext_intro	https://arxiv.org/html/2611.08541	https://www.nature.com/articles/s41467-018-05892-0	SuStaIn 已从横截面数据推断阶段和亚型。此作以端点锚定潜阶段并估计阶段变化的跨模态残余联系，适合检验只做融合预测忽略的协调；不能当作个体纵向实测。
+149322	3	4	3	4	author_fulltext_problem_formulation	https://arxiv.org/html/2605.07565	https://proceedings.mlr.press/v108/kirschner20a.html	先例已对环境分布的歧义集合鲁棒优化。此作用多核代理和连续上下文扩展选型；正文明确核 Lipschitz 及目标函数范数条件，部署前须核验。
+150792	3	5	4	4	author_abstract	https://openreview.net/forum?id=fMUyPAggFz	https://ojs.aaai.org/index.php/AAAI/article/view/34840	先例已结合运行监测修复控制和证书。此作局部重写新增不安全区域附近并保留其他区域的策略与证书，适合对照全域重验开销，补查跨区域边界条件。
+148529	4	5	4	4	author_fulltext_intro	https://arxiv.org/html/2510.02300	https://arxiv.org/abs/2504.10612	Energy Matching 已联系生成流与能量建模。EqM 学习时不变的平衡梯度并用优化器采样，正文指出能量解释依赖保守场，可对照所有步骤共享场和时变流。
+152958	4	4	3	4	author_fulltext_intro_risk_background	https://arxiv.org/html/2510.02945	https://arxiv.org/abs/2307.11046	Abel 等已提出无限交互的持续强化学习形式。本文以长期遍历风险代替均值，适合在不终止任务时核查风险目标是否与持续适配兼容；证据主要为理论及案例。
+154221	4	4	4	4	author_abstract_only	https://openreview.net/forum?id=FJgavPHMxU	https://arxiv.org/abs/2107.03006	离散扩散已有专用转移核。摘要的对应增量是用欧氏坐标顺序解释排列，可对照改变潜空间而保持状态解码的生成质量。
+152346	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2604.21407		§2、§3.1–3.2 分别给出位置尺度变分族在不同散度下恢复均值及相关的结果。可按目标对称性和需恢复的统计量选择变分目标。直接先例链接待核。
+153876	4	3	3	4	author_abstract_only	https://openreview.net/forum?id=I6C1jbK29Z		摘要将梯度方法的有限偏离保障与位移场结构关联，可用来选偏离类而无需仅验外部遗憾。最接近的早期工作链接待核。
+153709	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2602.00437		§2.1–2.3、§3 把线性及二次规划的颜色细化压缩扩展到可微凸经验风险，关键是恢复原问题最优解而非只在压缩集提高近似精度。直接先例链接待核。
+148463	4	4	4	4	author_full_text_sections	https://arxiv.org/abs/2610.18856	https://arxiv.org/abs/2005.02897	§3–4 对照局部生成与全局约束；已有拓扑损失可用于拓扑约束学习，而此处将付费软偏差换成持久图的精确匹配。按条件比较完备性和枚举成本。
+155702	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2607.21585	https://arxiv.org/abs/2210.02747	§3–4 把固定维流扩展成用条件噪声增加维度的流映射，可对照固定画布或固定序列长度的生成。
+153894	4	4	4	4	author_full_text_sections	https://arxiv.org/abs/2610.38319	https://arxiv.org/abs/2209.14687	§3.1–3.2 在只有稀疏投影时用位姿感知的投影域先验及测量一致性，可对照依赖预重建三维体积的先验。Diffusion Posterior Sampling 是测量指导的概念近邻。
+148617	4	4	4	4	author_full_text_sections	https://arxiv.org/abs/2605.19291	https://arxiv.org/abs/1602.06929	§2.2–2.3 把流式 PCA 与 SGD 耦合，区别于既有在线 PCA 的单独学习流程；可与离线先拟合因子再优化的时间及存储成本比较。
+156135	4	4	3	4	author_abstract_only	https://openreview.net/forum?id=09pkPpF5MG	https://arxiv.org/abs/1907.04809	辅助变量非线性 ICA 是遏制潜分量纠缠的已有路径。摘要将约束落在生成机制的差异上，可对照改变潜分布与改变机制能否得到独立控制。
+149013	4	4	4	4	author_full_text_sections	https://arxiv.org/abs/2610.34766	https://arxiv.org/abs/1602.06396	§3.1–3.4 用伴随矩累计与分段检查点分解既有 CPAB 的梯度计算；可在相同参数化下验算显存、梯度一致性和速度。
+149364	4	5	4	4	author_full_text_sections	https://arxiv.org/abs/2607.13498	https://arxiv.org/abs/2110.04652	§3.1–3.2 将常用状态动作对与下一状态的矩阵谱分解改作含独立状态和动作模式的张量分解，可对照样本量和模块迁移。
+152324	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2605.10795	https://arxiv.org/abs/2008.02217	§2–4 对线性联想记忆检查竞品目标分离、去耦近似证据及优于 Hebb 的机制。现代 Hopfield 是联想检索近邻，但本文的线性容量模型边界需明示。
+154171	3	4	3	4	author_abstract_only	https://openreview.net/forum?id=Fil0EoNr7j		摘要将数据采集成本、质量差异和公平议价纳入协作均值估计，可分别衡量统计风险和劳动分配。直接先例链接待核。
+150117	3	4	4	4	author_abstract_only	https://openreview.net/forum?id=kXu9l8Thvx	https://arxiv.org/abs/1808.00023	公平决策已有下游效用和静态公平准则的对照。本条在容量受限的资源分配中讨论信息差距和群体分配结果，可改变阈值与公平指标选型。
+152615	4	4	3	4	author_full_text_sections	https://arxiv.org/abs/2602.09164		§2、§4 改善联邦随机变分不等式的收敛率，可按算子单调性及通信预算选择比较对象。直接相关先例链接待核。
+152762	4	5	4	5	full_text_sections	https://arxiv.org/html/2609.18901v1	https://jmlr.org/papers/v26/24-1536.html	将物理核学习的速率细化到约束算子作用的谱结构；部分拉普拉斯和梯度观测给出从非参至参数率的例证。
+149055	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.09214v1	https://arxiv.org/abs/2502.06051	已有 f 散度离线策略分析；本篇将快率和匹配下界落实于前向 KL 及单策略集中性，正则趋小时仍回到慢率。
+148197	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.20514v1	https://proceedings.mlr.press/v202/harkonen23a.html	EPGP 已用精确 PDE 先验；本文按单实例重构设置把 Maxwell 结构放进假设类，正文明确不与预训练神经算子直接等价比较。
+149044	4	4	4	4	abstract	https://openreview.net/forum?id=tIGr4bvK5s	https://pubmed.ncbi.nlm.nih.gov/37815977/	先例以最小类间比校正易混类别；此处从凸代理对偶构造迭代二次规划，减少半正定松弛与调参。
+149383	4	5	4	4	abstract	https://openreview.net/forum?id=qRvZDh6s22	https://arxiv.org/abs/2305.11141	Clifford 等变层已有基础；此处以稀疏叶片成对更新替代全动作矩阵，64 倍峰值仍依代数与硬件。
+156637	4	4	4	5	abstract	https://neurips.cc/virtual/2026/poster/156637	https://arxiv.org/abs/1312.2128	边缘经验 Wasserstein 收敛已有一般界；本文在图模型中根据条件核强弱正则区分速率，强条件给锐性。
+153584	4	5	5	5	full_text_sections	https://arxiv.org/html/2611.17574v1	https://proceedings.mlr.press/v157/braverman21a.html	扩展敏感度核心集以容许样本遗失；正文给清理受损核心集及与丢失预算相关的下界，适合承受输入缺损。
+156133	4	5	4	5	full_text_sections	https://arxiv.org/html/2602.06756v1	https://arxiv.org/abs/1605.08294	自适应隐私过滤已有停止框架；正文证明直接逐轮合成 f-DP 曲线并停止并不普遍有效，近似改进仅支持抽样率两端。
+155993	4	4	4	4	abstract	https://openreview.net/forum?id=1JoBgRVNAk	https://papers.nips.cc/paper_files/paper/2024/hash/29021b06afa4c648ee438584f7ef3e7e-Abstract-Conference.html	联邦组鲁棒优化已有；此处以 KL 正则缓解少数组权重坍缩，用神经组合优化验证，证书依赖分组假设。
+152029	4	4	4	4	abstract	https://openreview.net/forum?id=W4U6AMYhfN	https://orbi.uliege.be/handle/2268/184526	先例系统研究伪布尔二次化；本文以 Fermat quotient 重写高阶目标并映射 QUBO，需核规模和辅助变量开销。
+154720	4	5	4	4	full_text_sections	https://arxiv.org/html/2606.29110v1	https://arxiv.org/abs/2512.02636	相较 F2D2 似然流蒸馏减少散度估计负担。正文表格显示有更高有效样本量，但不同分布距离的排序不同。
+148574	4	4	4	4	abstract	https://openreview.net/forum?id=wrEeZDfTbu	https://arxiv.org/abs/2411.09945	TEE 分区前作已保护模型；此处借 Fisher 信息选择受保护部分并以跨层 LoRA 恢复任务效用，整体验证受威胁假设约束。
+149666	4	5	4	5	full_text_sections	https://arxiv.org/html/2605.31423v1	https://proceedings.neurips.cc/paper_files/paper/2024/hash/bccdd196d798a51a4961989984a9ed4a-Abstract-Conference.html	随机 Transformer 编码已有算法任务实验；正文将固定网络配任务输入的能力推广到可证模拟，依赖足够嵌入维度。
+151542	4	5	4	4	full_text_sections	https://arxiv.org/html/2605.30749v1	https://proceedings.mlr.press/v80/haarnoja18b.html	最大熵 actor–critic 已有；本文将流潜变量纳入代理目标，正文使用共同随机数减少重要性采样差值方差。
+152021	4	5	4	4	full_text_sections	https://arxiv.org/html/2601.21177v1	https://www.nature.com/articles/s41467-025-62039-8	在单步 Flow Perturbation 上通过多步分解降低无偏 Jacobian 估计方差，正文有低维及千维混合分布对照。
