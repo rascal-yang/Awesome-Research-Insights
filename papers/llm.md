@@ -475,6 +475,7 @@
 - <a id="ye26j-reinforcement-learning"></a>[UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](../conferences/icml-2026/cards/5501-5600.md#paper-ye26j)
 - <a id="yu26br-reinforcement-learning"></a>[PosterAgent: Agentic Poster Generation via Stage-Aware Reinforcement Learning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26br)
 - <a id="yue26b-reinforcement-learning"></a>[Mem-T: Densifying Rewards for Long-Horizon Memory Agents](../conferences/icml-2026/cards/5601-5700.md#paper-yue26b)
+- <a id="yuksekgonul26a-reinforcement-learning"></a>[Learning to Discover at Test Time](../conferences/icml-2026/cards/5601-5700.md#paper-yuksekgonul26a)
 
 <a id="by-training-strategies"></a>
 
@@ -1078,6 +1079,7 @@
 - <a id="yu26v-inference"></a>[Multi-Adapter Representation Interventions via Energy Calibration](../conferences/icml-2026/cards/5501-5600.md#paper-yu26v)
 - <a id="yu26bl-inference"></a>[Training-Free Hashing-Based Attention via Binary Principal Components](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bl)
 - <a id="yue26a-inference"></a>[Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention](../conferences/icml-2026/cards/5601-5700.md#paper-yue26a)
+- <a id="zabounidis26a-inference"></a>[Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning](../conferences/icml-2026/cards/5601-5700.md#paper-zabounidis26a)
 
 <a id="by-representation-learning"></a>
 
@@ -1462,6 +1464,8 @@
 - <a id="yu26b-evaluation"></a>[SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark](../conferences/icml-2026/cards/5501-5600.md#paper-yu26b)
 - <a id="yu26av-evaluation"></a>[Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26av)
 - <a id="yu26bw-evaluation"></a>[Uncovering Hidden Triggers: Backdoor Attribution in Language Models](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bw)
+- <a id="yueh-han26a-evaluation"></a>[Reasoning Models Struggle to Control their Chains of Thought](../conferences/icml-2026/cards/5601-5700.md#paper-yueh-han26a)
+- <a id="yulong26a-evaluation"></a>[Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection](../conferences/icml-2026/cards/5601-5700.md#paper-yulong26a)
 
 <a id="by-theory-statistics"></a>
 

@@ -365,6 +365,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Multi-Adapter Representation Interventions via Energy Calibration](../../conferences/icml-2026/cards/5501-5600.md#yu26v-inference) · 中文
 - [Training-Free Hashing-Based Attention via Binary Principal Components](../../conferences/icml-2026/cards/5601-5700.md#yu26bl-inference) · 中文
 - [Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention](../../conferences/icml-2026/cards/5601-5700.md#yue26a-inference) · 中文
+- [Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5601-5700.md#zabounidis26a-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

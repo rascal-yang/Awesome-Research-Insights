@@ -246,6 +246,7 @@
 - [按QAT后敏感度分配激活位宽](../conferences/icml-2026/cards/5401-5500.md#yang26dm-training-strategies) · RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization
 - [用分布匹配选择视觉压缩潜空间](../conferences/icml-2026/cards/5501-5600.md#ye26o-training-strategies) · Distribution Matching Variational AutoEncoder
 - [CLIP弱patch抑制与强patch增强](../conferences/icml-2026/cards/5501-5600.md#yi26f-training-strategies) · Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning
+- [以二值跨视图协议和周期head重置训练SSL](../conferences/icml-2026/cards/5601-5700.md#zaher26a-training-strategies) · Self-Supervised Learning as Discrete Communication
 
 <a id="by-nlp"></a>
 
@@ -453,6 +454,7 @@
 - [在等训练风险停止点扫描特征学习强度](../conferences/icml-2026/cards/5501-5600.md#yeom26a-training-strategies) · Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization
 - [同时限制观测影响与新状态创建](../conferences/icml-2026/cards/5501-5600.md#yiu26a-training-strategies) · Doubly Outlier-Robust Online Infinite Hidden Markov Model
 - [在近参数量匹配下先扫天气模型宽深比](../conferences/icml-2026/cards/5501-5600.md#yu26r-training-strategies) · Scaling Laws of Global Weather Models
+- [用无标签client分布生成低维个性化参数](../conferences/icml-2026/cards/5601-5700.md#zakerinia26a-training-strategies) · Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions
 
 <a id="by-graph-and-recommendation"></a>
 

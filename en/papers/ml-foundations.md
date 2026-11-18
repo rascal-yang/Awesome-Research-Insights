@@ -213,6 +213,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ying26b-loss-functions"></a>[Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../../conferences/icml-2026/cards/5501-5600.md#paper-ying26b)
 - <a id="yu26ad-loss-functions"></a>[Fine-to-Coarse Fairness-Informed Multi-View Clustering](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26ad)
 - <a id="yuan26i-loss-functions"></a>[ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26i)
+- <a id="zagardo26a-loss-functions"></a>[Geometry-Aware Tabular Diffusion](../../conferences/icml-2026/cards/5601-5700.md#paper-zagardo26a)
 
 <a id="by-optimization"></a>
 
@@ -571,6 +572,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yeom26a-training-strategies"></a>[Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization](../../conferences/icml-2026/cards/5501-5600.md#paper-yeom26a)
 - <a id="yiu26a-training-strategies"></a>[Doubly Outlier-Robust Online Infinite Hidden Markov Model](../../conferences/icml-2026/cards/5501-5600.md#paper-yiu26a)
 - <a id="yu26r-training-strategies"></a>[Scaling Laws of Global Weather Models](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26r)
+- <a id="zakerinia26a-training-strategies"></a>[Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions](../../conferences/icml-2026/cards/5601-5700.md#paper-zakerinia26a)
 
 <a id="by-data-strategies"></a>
 
@@ -1263,4 +1265,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yu26by-theory-statistics"></a>[Conditional Quantile Adjusted Conformal Prediction for Time Series](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26by)
 - <a id="yuan26a-theory-statistics"></a>[Sparse Regression with $\ell_0$ Constraints for $α$-Mixing Time Series: Algorithms and Guarantees](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26a)
 - <a id="yuan26g-theory-statistics"></a>[Global Directional Priors with Local Statistical Validation for Scalable Causal Discovery](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26g)
+- <a id="yufeng26a-theory-statistics"></a>[Sharper Generalization Guarantees for Asynchronous SGD: Beyond Lipschitzness, Smoothness and Data Homogeneity](../../conferences/icml-2026/cards/5601-5700.md#paper-yufeng26a)
+- <a id="yuksel26a-theory-statistics"></a>[Incremental Learning of Sparse Attention Patterns in Transformers](../../conferences/icml-2026/cards/5601-5700.md#paper-yuksel26a)
+- <a id="yvernes26a-theory-statistics"></a>[Unveiling the Structure of Do-Calculus Reasoning via Derivation Graphs](../../conferences/icml-2026/cards/5601-5700.md#paper-yvernes26a)
+- <a id="zadicario26a-theory-statistics"></a>[Differentially Private Submodular Maximization with a Knapsack Constraint](../../conferences/icml-2026/cards/5601-5700.md#paper-zadicario26a)
 <!-- classification:end -->

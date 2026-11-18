@@ -365,6 +365,7 @@
 - [用小探针传播响应决定是否施加表示干预](../conferences/icml-2026/cards/5501-5600.md#yu26v-inference) · Multi-Adapter Representation Interventions via Energy Calibration
 - [二值残差分解的非对称KV检索](../conferences/icml-2026/cards/5601-5700.md#yu26bl-inference) · Training-Free Hashing-Based Attention via Binary Principal Components
 - [复用验证logits选择自推测草稿KV](../conferences/icml-2026/cards/5601-5700.md#yue26a-inference) · Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention
+- [预测不同剩余token预算的未来成功率](../conferences/icml-2026/cards/5601-5700.md#zabounidis26a-inference) · Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning
 
 <a id="by-computer-vision"></a>
 

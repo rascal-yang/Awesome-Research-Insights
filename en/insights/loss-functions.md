@@ -300,6 +300,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../../conferences/icml-2026/cards/5501-5600.md#ying26b-loss-functions) · 中文
 - [Fine-to-Coarse Fairness-Informed Multi-View Clustering](../../conferences/icml-2026/cards/5601-5700.md#yu26ad-loss-functions) · 中文
 - [ReAugment: Targeted Few-Shot Time Series Augmentation via Model Zoo-Guided Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yuan26i-loss-functions) · 中文
+- [Geometry-Aware Tabular Diffusion](../../conferences/icml-2026/cards/5601-5700.md#zagardo26a-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

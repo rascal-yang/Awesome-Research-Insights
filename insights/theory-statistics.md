@@ -640,6 +640,10 @@
 - [单调分位曲线投影与固定不对称比](../conferences/icml-2026/cards/5601-5700.md#yu26by-theory-statistics) · Conditional Quantile Adjusted Conformal Prediction for Time Series
 - [按时间依赖条件使用精确稀疏回归](../conferences/icml-2026/cards/5601-5700.md#yuan26a-theory-statistics) · Sparse Regression with $\ell_0$ Constraints for $α$-Mixing Time Series: Algorithms and Guarantees
 - [在高召回排序候选内做局部CI验证](../conferences/icml-2026/cards/5601-5700.md#yuan26g-theory-statistics) · Global Directional Priors with Local Statistical Validation for Scalable Causal Discovery
+- [按延迟与worker参与调ASGD稳定性预算](../conferences/icml-2026/cards/5601-5700.md#yufeng26a-theory-statistics) · Sharper Generalization Guarantees for Asynchronous SGD: Beyond Lipschitzness, Smoothness and Data Homogeneity
+- [按训练阶段判断注意力head是否已分工](../conferences/icml-2026/cards/5601-5700.md#yuksel26a-theory-statistics) · Incremental Learning of Sparse Attention Patterns in Transformers
+- [先枚举等价因果query再比较估计式](../conferences/icml-2026/cards/5601-5700.md#yvernes26a-theory-statistics) · Unveiling the Structure of Do-Calculus Reasoning via Derivation Graphs
+- [在隐私数据选集中显式权衡近似比与oracle成本](../conferences/icml-2026/cards/5601-5700.md#zadicario26a-theory-statistics) · Differentially Private Submodular Maximization with a Knapsack Constraint
 
 <a id="by-graph-and-recommendation"></a>
 

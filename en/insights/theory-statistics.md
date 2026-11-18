@@ -640,6 +640,10 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Conditional Quantile Adjusted Conformal Prediction for Time Series](../../conferences/icml-2026/cards/5601-5700.md#yu26by-theory-statistics) · 中文
 - [Sparse Regression with $\ell_0$ Constraints for $α$-Mixing Time Series: Algorithms and Guarantees](../../conferences/icml-2026/cards/5601-5700.md#yuan26a-theory-statistics) · 中文
 - [Global Directional Priors with Local Statistical Validation for Scalable Causal Discovery](../../conferences/icml-2026/cards/5601-5700.md#yuan26g-theory-statistics) · 中文
+- [Sharper Generalization Guarantees for Asynchronous SGD: Beyond Lipschitzness, Smoothness and Data Homogeneity](../../conferences/icml-2026/cards/5601-5700.md#yufeng26a-theory-statistics) · 中文
+- [Incremental Learning of Sparse Attention Patterns in Transformers](../../conferences/icml-2026/cards/5601-5700.md#yuksel26a-theory-statistics) · 中文
+- [Unveiling the Structure of Do-Calculus Reasoning via Derivation Graphs](../../conferences/icml-2026/cards/5601-5700.md#yvernes26a-theory-statistics) · 中文
+- [Differentially Private Submodular Maximization with a Knapsack Constraint](../../conferences/icml-2026/cards/5601-5700.md#zadicario26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

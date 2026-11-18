@@ -369,6 +369,8 @@
 - [用覆盖和语义变异检验通过补丁的可靠性](../conferences/icml-2026/cards/5501-5600.md#yu26b-evaluation) · SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark
 - [答案奖励外另测推理截断敏感性与独立可读性](../conferences/icml-2026/cards/5601-5700.md#yu26av-evaluation) · Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning
 - [后门组件稀疏但需要联合移除](../conferences/icml-2026/cards/5601-5700.md#yu26bw-evaluation) · Uncovering Hidden Triggers: Backdoor Attribution in Language Models
+- [分别追踪CoT控制能力与任务能力](../conferences/icml-2026/cards/5601-5700.md#yueh-han26a-evaluation) · Reasoning Models Struggle to Control their Chains of Thought
+- [用跨语境一致性辅助审计异常低能力](../conferences/icml-2026/cards/5601-5700.md#yulong26a-evaluation) · Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection
 
 <a id="by-computer-vision"></a>
 

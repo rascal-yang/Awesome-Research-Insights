@@ -341,6 +341,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yang26dm-training-strategies"></a>[RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dm)
 - <a id="ye26o-training-strategies"></a>[Distribution Matching Variational AutoEncoder](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26o)
 - <a id="yi26f-training-strategies"></a>[Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26f)
+- <a id="zaher26a-training-strategies"></a>[Self-Supervised Learning as Discrete Communication](../../conferences/icml-2026/cards/5601-5700.md#paper-zaher26a)
 
 <a id="by-data-strategies"></a>
 

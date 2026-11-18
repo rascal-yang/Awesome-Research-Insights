@@ -369,6 +369,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark](../../conferences/icml-2026/cards/5501-5600.md#yu26b-evaluation) · 中文
 - [Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26av-evaluation) · 中文
 - [Uncovering Hidden Triggers: Backdoor Attribution in Language Models](../../conferences/icml-2026/cards/5601-5700.md#yu26bw-evaluation) · 中文
+- [Reasoning Models Struggle to Control their Chains of Thought](../../conferences/icml-2026/cards/5601-5700.md#yueh-han26a-evaluation) · 中文
+- [Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection](../../conferences/icml-2026/cards/5601-5700.md#yulong26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
