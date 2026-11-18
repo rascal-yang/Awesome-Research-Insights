@@ -886,6 +886,7 @@
 - <a id="jimenez26a-evaluation"></a>[Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete](../conferences/icml-2026/cards/6401-6500.md#paper-jimenez26a)
 - <a id="moretti26a-evaluation"></a>[Position: Current Benchmarking Hinders Real Progress in Deep Learning for Time Series Forecasting](../conferences/icml-2026/cards/6401-6500.md#paper-moretti26a)
 - <a id="oh26d-evaluation"></a>[Position: State-of-the-Art Claims Require State-of-the-Art Evidence](../conferences/icml-2026/cards/6401-6500.md#paper-oh26d)
+- <a id="rieso26a-evaluation"></a>[Position: Topological Machine Learning Cannot Progress without Experimental Standards](../conferences/icml-2026/cards/6401-6500.md#paper-rieso26a)
 
 <a id="by-theory-statistics"></a>
 

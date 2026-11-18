@@ -403,6 +403,7 @@
 - [压力类型与judge差异的同题sycophancy剖面](../conferences/icml-2026/cards/6401-6500.md#kasneci26a-evaluation) · Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
 - [分别审计隐式防护的持久性与副作用](../conferences/icml-2026/cards/6401-6500.md#li26kc-evaluation) · Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation
 - [自生成数据按observer预算与方向诊断](../conferences/icml-2026/cards/6401-6500.md#liu26gx-evaluation) · Position: Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain
+- [用行为结果校准推理轨迹监控而非单看语义](../conferences/icml-2026/cards/6401-6500.md#riemer26a-evaluation) · Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions
 
 <a id="by-computer-vision"></a>
 
@@ -744,6 +745,7 @@
 - [数据重采样与seed双层UQ参照](../conferences/icml-2026/cards/6401-6500.md#jimenez26a-evaluation) · Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete
 - [先匹配forecasting局部参数与协变量再比层](../conferences/icml-2026/cards/6401-6500.md#moretti26a-evaluation) · Position: Current Benchmarking Hinders Real Progress in Deep Learning for Time Series Forecasting
 - [模型平均领先之外检验任务分布与移除敏感性](../conferences/icml-2026/cards/6401-6500.md#oh26d-evaluation) · Position: State-of-the-Art Claims Require State-of-the-Art Evidence
+- [拓扑表征先控制filtration再比较下游编码](../conferences/icml-2026/cards/6401-6500.md#rieso26a-evaluation) · Position: Topological Machine Learning Cannot Progress without Experimental Standards
 
 <a id="by-graph-and-recommendation"></a>
 

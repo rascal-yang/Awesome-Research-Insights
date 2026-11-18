@@ -1592,6 +1592,7 @@
 - <a id="kasneci26a-evaluation"></a>[Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks](../conferences/icml-2026/cards/6401-6500.md#paper-kasneci26a)
 - <a id="li26kc-evaluation"></a>[Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation](../conferences/icml-2026/cards/6401-6500.md#paper-li26kc)
 - <a id="liu26gx-evaluation"></a>[Position: Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain](../conferences/icml-2026/cards/6401-6500.md#paper-liu26gx)
+- <a id="riemer26a-evaluation"></a>[Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions](../conferences/icml-2026/cards/6401-6500.md#paper-riemer26a)
 
 <a id="by-theory-statistics"></a>
 

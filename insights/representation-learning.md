@@ -103,6 +103,7 @@
 - [把稀疏semantictokens与dense位置系数一同保留](../conferences/icml-2026/cards/6001-6100.md#zhao26t-representation-learning) · Learning Sparse Visual Representations via Spatial-Semantic Factorization
 - [顶点位移场编码网格拓扑](../conferences/icml-2026/cards/6001-6100.md#zhao26bw-representation-learning) · LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents
 - [Mahalanobis核邻域的可编辑feature场](../conferences/icml-2026/cards/6301-6400.md#zielinski26a-representation-learning) · Affine-Equivariant Kernel Space Encoding for NeRF Editing
+- [按相对图像尺度取多焦距patch并维护截断状态](../conferences/icml-2026/cards/6401-6500.md#prisadnikov26a-representation-learning) · Position: Vision Encoders should be Image Size Agnostic and Task Driven
 
 <a id="by-nlp"></a>
 

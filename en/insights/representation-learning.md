@@ -103,6 +103,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning Sparse Visual Representations via Spatial-Semantic Factorization](../../conferences/icml-2026/cards/6001-6100.md#zhao26t-representation-learning) · 中文
 - [LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents](../../conferences/icml-2026/cards/6001-6100.md#zhao26bw-representation-learning) · 中文
 - [Affine-Equivariant Kernel Space Encoding for NeRF Editing](../../conferences/icml-2026/cards/6301-6400.md#zielinski26a-representation-learning) · 中文
+- [Position: Vision Encoders should be Image Size Agnostic and Task Driven](../../conferences/icml-2026/cards/6401-6500.md#prisadnikov26a-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

@@ -6470,26 +6470,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6469	oh26d	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：选benchmark模型时并列报告paired effect size、task winrate和删最有利task后何时排名逆转；对top模型与更宽model pool分别测，不把更多相关tasks自动当稳定证据。；winrate≤.6仍可赢大多数task，不能写成minority；BP是可删除task的compositional敏感性，不是估计噪声置信度。Cohen d依heterogeneous task尺度、阈值启发式，single-parameter sweep非所有阈值同时放宽仍成立；更多相关任务无改善不证明新增独立任务也无用。 PDF3,4,5,6,7页。	scored
 6470	orgad26a							初筛，原文与先例核查待补：concreteness/validation actionability矩阵与五领域应用/评价标准，主要重构已有interpretability评价目标；当前无独立新解释/模型干预算法或受控收益规律。摘要。	rule-excluded
 6471	papamarkou26a							初筛，原文与先例核查待补：latent belief更新+expected utility/value-of-information的control layer是成熟Bayesian decision/POMDP思想；agent routing/tool budget新场景及design patterns未提供独立posterior模型或可执行新决策规则/控制。Bayes-consistent不自动给真实calibration，本文未将LLM本身Bayesian设为前提。PDF4与摘要。	rule-excluded
-6472	park26ab							待原文复核评分	pending
-6473	peng26p							待原文复核评分	pending
-6474	perez-ortiz26a							待原文复核评分	pending
-6475	pi26b							待原文复核评分	pending
-6476	piedrahita26a							待原文复核评分	pending
-6477	piskala26a							待原文复核评分	pending
-6478	pres26a							待原文复核评分	pending
-6479	prisadnikov26a							待原文复核评分	pending
-6480	puelma-touzel26a							待原文复核评分	pending
-6481	qiwei26a							待原文复核评分	pending
-6482	ramachandranpillai26a							待原文复核评分	pending
-6483	rando26a							待原文复核评分	pending
-6484	raza26a							待原文复核评分	pending
-6485	riemer26a							待原文复核评分	pending
-6486	rieso26a							待原文复核评分	pending
-6487	salganik26a							待原文复核评分	pending
-6488	sargsyan26a							待原文复核评分	pending
-6489	saxena26c							待原文复核评分	pending
-6490	schaeffer26a							待原文复核评分	pending
-6491	shah26e							待原文复核评分	pending
+6472	park26ab							初筛，原文与先例核查待补：缓存PDF4–5、7将LLM统计学习类比implicit memory，提出稀疏索引、dense-key绑定和显式情景记忆要求。可改变是否添加外部记忆，但当前只有已有关联记忆/稀疏编码的性质与认知类比，未实例化独立新写入/检索/学习规则或神经控制规律。初筛排除；人类海马必要性不能直接推出LLM同类功能不可由其他机制实现，后续实现/对照待核。	rule-excluded
+6473	peng26p							初筛，原文与先例核查待补：缓存PDF4–6清楚区分已知概念检测/steering与未知概念发现，具体建议SAE用于候选发现后独立验证；但负结果和正结果分别来自Kantamneni/Wu2025及Movva/Lindsey2025等已有原作，当前没有新增受控比较或超出这些方法的新筛选器。按已有机制/经验的综述性重分组初筛排除；不能把SAE一定monosemantic或重构必严格丢信息当新定理。	rule-excluded
+6474	perez-ortiz26a							初筛，原文与先例核查待补：缓存PDF4–5以既有反弹效应和生态系统研究提出Planet-Centered生命周期、跨目标Pareto与轨迹评估议程。可改变系统边界设定，但当前未给独立新神经目标、系统风险估计器或原始控制实验规律；现有例证来自既有研究，规范性设计哲学不足以产生相关DL具体新操作，初筛排除。	rule-excluded
+6475	pi26b							初筛，原文与先例核查待补：缓存PDF4–7给meaning-making×modeling的4×4分类与300篇文献audit，35篇独立GPT标注用于检验rubric可读性。可提醒LLM主题归纳不等因果/动态建模，但分类组合与文献分布尚未实例化独立新关系推断器、校准规则或神经失败控制；一致率验证的是分层标签而非LLM分析能力。当前按综述taxonomy/研究议程初筛排除；新操作与控制收益待核。	rule-excluded
+6476	piedrahita26a							初筛，原文与先例核查待补：缓存PDF4–5从制度输入规模、基础设施集中和讨论同质化讨论社会韧性，引用既有LLM/用户研究并建议制度层评估。可改变部署风险边界，但当前未给独立新模型评估器、训练操作或原始受控群体动力学规律，初筛排除；不能用模型级安全自动推出制度级安全，但该区分本身非新增神经机制。	rule-excluded
+6477	piskala26a							初筛，原文与先例核查待补：缓存PDF4–5综述AudioPaLM/SpeechGPT/Moshi等音频token与LLM架构和商业低延迟实例，主张保留副语言信息、优先speech-native。具体可选直接音频而非ASR级联，但当前方法与延迟证据均来自既有系统，尚无新增编码器/受控音频信息损失规律；行为惯性是议程假设非已识别DL数据分布定律，初筛排除。	rule-excluded
+6478	pres26a							初筛，原文与先例核查待补：缓存PDF3–4、6将已有invariance/equivariance与meta-description统一为跨输入输出关系ϕ，采用hard/soft constraints及Ganchev2010 posterior regularization；sycophancy、patching和CoT例均对应已有原作。可改变只做pointwise评估的习惯，但当前未独立实例化新关系/优化器或控制验证，按统一表述与既有方法重分组初筛排除。式5约束阈值、式7符号及trivial一致解的处理待核，不以公式问题单独排除。	rule-excluded
+6479	prisadnikov26a	2	4	3	3	59		初筛，原文与先例核查待补：暂定评分依据：主动视觉编码可将crop定义为相对图像尺寸的(x,y,z)，每步固定多zoom tokens、只传递状态并截断跨步梯度，再在冻结encoder上学习gaze；图像分辨率与观察步数的预算应分开选择。；边界：归一化crop保证相对区域一致，不保证重采样后信息完全不变；细节仍受16×16与zoom范围限制。视觉基线更强，未验证一般任务停机策略或机器人；原图访问/resize开销不随token数自动恒定，两阶段额外RL训练预算与跨分辨率精度待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/prisadnikov26a/prisadnikov26a.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/prisadnikov26a/prisadnikov26a.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/prisadnikov26a/prisadnikov26a.pdf#page=6)	scored
+6480	puelma-touzel26a							初筛，原文与先例核查待补：缓存PDF4–5明确轨迹分布与其低维统计不同，列LLM社会模拟的face validity、同质化和prompt敏感等问题，作者也说明生成模型抽象非技术新颖。具体可改变验证层级，但当前未给独立新trajectory discrepancy估计器或原始受控机制；研究任务/benchmark议程与既有验证原则不足独立收录，初筛排除。	rule-excluded
+6481	qiwei26a							初筛，原文与先例核查待补：缓存PDF4–5区分真实性检测与被摄者同意/尊严，并以已有研究说明synthetic标签不消除伤害。具体可提醒检测AUROC不能作为所有安全目标proxy，但当前未给新增神经防御机制、可执行同意测量器或原始受控失效规律，按既有证据的威胁模型/议程初筛排除；不能从图像真实性推断同意。	rule-excluded
+6482	ramachandranpillai26a							初筛，原文与先例核查待补：缓存PDF4–5将数据代表性、隐私、文档及生命周期责任映到性能，技术例来自既有AEquity、ImageNet模糊与重采样等研究。可指导数据处理检查，但当前无独立新目标/操作或原始控制规律，按既有实践综述初筛排除；多维系统性能定义改变不等证明责任与每种accuracy不存在tradeoff。	rule-excluded
+6483	rando26a							初筛，原文与先例核查待补：缓存PDF4–5讨论judge/defense相关性、benign utility、闭源漂移与高维评估空间，例证引用Souly/Liu/Qi等原作。具体可指导防御评估防止同judge循环，但当前没有独立新防御验证器、统计界或新增受控反例，按既有adversarial ML问题综述初筛排除；不根据作者标题推断全领域零进展。	rule-excluded
+6484	raza26a							初筛，原文与先例核查待补：缓存PDF4–5 DIA聚合model lineage的energy/carbon/water metadata并接CodeCarbon/云API，估算仍依GPU-hours×功率×PUE及当地强度。可改变是否计入derivatives总成本，但当前是既有核算工具和provenance汇总流程，未给新增去重/归因估计器或原始受控效率反弹规律，初筛排除；下载数非实际部署用量，TDP也非实测功耗。	rule-excluded
+6485	riemer26a	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：多智能体推理系统监控应在可计算任务结果上同时检查CoT judge、行为与效用，包含改变行为但不明显改变语义评分的干预；低风险文字评分和低profit proxy均不充分表示行为已合规。；边界：只在该博弈/模型/干预与judge面板成立，市场高价或profit非意图证据，不能推所有reasoning agent天生串谋。Yes是全词表概率非二元条件概率；judge阈值/辨别力、文本长度及seed独立性需核，泛化与真实市场稳定性未在所读范围建立。；初筛整理，原文与先例尚未统一核查。[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/riemer26a/riemer26a.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/riemer26a/riemer26a.pdf#page=6)；[原文第8页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/riemer26a/riemer26a.pdf#page=8)	scored
+6486	rieso26a	3	4	4	3	70		初筛，原文与先例核查待补：暂定评分依据：选择拓扑神经模块前应固定filtration/同调维度/图数再比较编码器，并测PH加下游总成本；较快构造可产生更大diagram，HKS时间尺度与eigen截止也不应当一个复杂度旋钮。；边界：RF下游结果不证明所有神经编码器排名相同，entropy/点数相似不等diagram内容或准确率相同。每模态仅代表数据，100重采样split并非100独立dataset，多重比较和配置筛选需核；应计后续大diagram embedding成本，不能仅PH时间决定总效率。；初筛整理，原文与先例尚未统一核查。[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/rieso26a/rieso26a.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/rieso26a/rieso26a.pdf#page=6)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/rieso26a/rieso26a.pdf#page=7)	scored
+6487	salganik26a							初筛，原文与先例核查待补：缓存PDF4–5以CEDC将接口、用户表征、体验和文化后果组成反馈图，具体提醒推荐ranker之外的曝光/界面混杂。当前例证和反馈现象均源已有推荐/HCI研究，尚无独立新曝光估计器、学习目标或原始控制规律，按跨学科概念整合初筛排除；不能把框图的箭头当已识别因果边。	rule-excluded
+6488	sargsyan26a							初筛，原文与先例核查待补：缓存PDF4–5综述DFT/WFT瓶颈与DM21/等变约束，主张扩大可学习假设空间。具体可考虑神经近似与物理约束，但当前技术操作来自既有原作，没有新constraint/loss/表示或新增受控精度边界，初筛排除；QMA-hard最坏情形不证明实际分布必需ML，性能/可解释性权衡是议程。	rule-excluded
+6489	saxena26c							初筛，原文与先例核查待补：缓存PDF4–5将高基数/连续位置、空间相关与MAUP映到fair-AI，并建议空间公平研究。具体可提醒改变分区会改变群体指标，但MAUP/空间代理效应均已有成熟规律，当前未给独立新空间约束、估计规则或原始神经控制实验，按既有统计问题迁移初筛排除；不因公平领域排除，新增操作/适用界待核。	rule-excluded
+6490	schaeffer26a							初筛，原文与先例核查待补：缓存PDF4–7区分八种model collapse定义，比较replace/accumulate、real比例与初始化/计算假设。具体能改合成数据协议和指标，但机制结论明确来自Shumailov/Gerstgrasser/Kazdan/Dey等原作，当前是文献定义/假设audit而非新增反馈规则或独立控制实验，初筛排除。不能把固定toy模型不发散推广任意深网，也不能以real比例单独判定collapse。	rule-excluded
+6491	shah26e							初筛，原文与先例核查待补：缓存PDF4–5建议发表与报告分离、先soundness再community rating，并提供公开review tracks。贡献针对会议制度设计与既有peer-review证据，未提出独立新神经训练/推理/数据选择机制或可迁移条件规律，无法回答相关DL具体技术选择，初筛排除；不是因为Position标签。	rule-excluded
 6492	shah26f							待原文复核评分	pending
 6493	shan26e							待原文复核评分	pending
 6494	sharma26d							待原文复核评分	pending

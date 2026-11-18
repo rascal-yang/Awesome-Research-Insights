@@ -627,6 +627,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhao26t-representation-learning"></a>[Learning Sparse Visual Representations via Spatial-Semantic Factorization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26t)
 - <a id="zhao26bw-representation-learning"></a>[LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bw)
 - <a id="zielinski26a-representation-learning"></a>[Affine-Equivariant Kernel Space Encoding for NeRF Editing](../../conferences/icml-2026/cards/6301-6400.md#paper-zielinski26a)
+- <a id="prisadnikov26a-representation-learning"></a>[Position: Vision Encoders should be Image Size Agnostic and Task Driven](../../conferences/icml-2026/cards/6401-6500.md#paper-prisadnikov26a)
 
 <a id="by-evaluation"></a>
 

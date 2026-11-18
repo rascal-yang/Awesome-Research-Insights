@@ -403,6 +403,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks](../../conferences/icml-2026/cards/6401-6500.md#kasneci26a-evaluation) · 中文
 - [Position: Retire the "Positive Backdoor" Label—Secret Alignment Requires Strict and Systematic Evaluation](../../conferences/icml-2026/cards/6401-6500.md#li26kc-evaluation) · 中文
 - [Position: Self-Play Only Evolves When Self-Synthetic Pipeline Ensures Learnable Information Gain](../../conferences/icml-2026/cards/6401-6500.md#liu26gx-evaluation) · 中文
+- [Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions](../../conferences/icml-2026/cards/6401-6500.md#riemer26a-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -744,6 +745,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Position: Epistemic Uncertainty Estimation Methods are Fundamentally Incomplete](../../conferences/icml-2026/cards/6401-6500.md#jimenez26a-evaluation) · 中文
 - [Position: Current Benchmarking Hinders Real Progress in Deep Learning for Time Series Forecasting](../../conferences/icml-2026/cards/6401-6500.md#moretti26a-evaluation) · 中文
 - [Position: State-of-the-Art Claims Require State-of-the-Art Evidence](../../conferences/icml-2026/cards/6401-6500.md#oh26d-evaluation) · 中文
+- [Position: Topological Machine Learning Cannot Progress without Experimental Standards](../../conferences/icml-2026/cards/6401-6500.md#rieso26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
