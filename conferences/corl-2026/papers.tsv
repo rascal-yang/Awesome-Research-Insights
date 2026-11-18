@@ -12,9 +12,9 @@ number	openreview_id	title	paper_url	reason	status
 11	NHE9q2cz1n	RoboTTT: Context Scaling for Robot Policies	https://openreview.net/forum?id=NHE9q2cz1n		pending
 12	5XKFwWrW0v	π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities	https://openreview.net/forum?id=5XKFwWrW0v		pending
 13	f9grq4Ncx9	Memory-augmented Action-conditioned World Model for Robot Manipulation	https://openreview.net/forum?id=f9grq4Ncx9		pending
-14	FVZKpmPHV8	TEMPO: Learning Temporal Context for Dynamic Robot Manipulation	https://openreview.net/forum?id=FVZKpmPHV8		pending
+14	FVZKpmPHV8	TEMPO: Learning Temporal Context for Dynamic Robot Manipulation	https://openreview.net/forum?id=FVZKpmPHV8	分别用场景运动和本体历史解决两类单帧歧义	included
 15	Bshs9HDDiu	World Action Models are Zero-shot Policies	https://openreview.net/forum?id=Bshs9HDDiu		pending
-16	TscNG5Wcwn	Diversity You Can Actually Measure: A Fast, Model-Free Diversity Metric for Robotics Datasets	https://openreview.net/forum?id=TscNG5Wcwn		pending
+16	TscNG5Wcwn	Diversity You Can Actually Measure: A Fast, Model-Free Diversity Metric for Robotics Datasets	https://openreview.net/forum?id=TscNG5Wcwn	固定示范预算下按轨迹核熵选样	included
 17	c4Z0Y8gvnI	MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation	https://openreview.net/forum?id=c4Z0Y8gvnI		pending
 18	RdvH11pAfJ	What Are We Actually Benchmarking in Robot Manipulation?	https://openreview.net/forum?id=RdvH11pAfJ		pending
 19	mHCqiRUiHi	BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation	https://openreview.net/forum?id=mHCqiRUiHi		pending
