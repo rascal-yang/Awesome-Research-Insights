@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2129** 篇，暂收录 **1971** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2189** 篇，暂收录 **2029** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1979,3 +1979,61 @@
 | 优化 | 可微组合选择 | [Differentiable Knapsack and Top-k Operators via Dynamic Programming](cards-0004.md#paper-153641) | 直接平滑动态规划递推 |
 | 规划 | 符号学习 | [Differentiable Learning of Lifted Action Schemas for Classical Planning](cards-0004.md#paper-153043) | 把动作参数识别和模式归纳一起学习 |
 | 控制 | 隐式微分 | [Differentiable Nonlinear Model Predictive Control](cards-0004.md#paper-153003) | 从求解器最优性条件提取灵敏度 |
+| 计算几何 | 可微正则 | [Differentiable Range-Partition Entropy for Entropy-Sensitive Geometric Algorithms](cards-0004.md#paper-149856) | 用软分区熵训练几何预处理 |
+| 统计学习 | 序列推断 | [Differentiable Systematic Resampling for Variational Sequential Monte Carlo](cards-0004.md#paper-156105) | 用连续系统重采样训练粒子滤波 |
+| 大语言模型 | 评测诊断 | [Differential Item Functioning as an Item-Level Diagnostic for LLM Benchmarks](cards-0004.md#paper-139203) | 同总分模型仍按题目检查跨家族偏差 |
+| 隐私机器学习 | 模型合并 | [Differentially Private Model Merging](cards-0004.md#paper-149241) | 按部署隐私预算合并已训练模型 |
+| 隐私机器学习 | 奖励估计 | [Differentially Private Sparse Reward Estimation with Preference Feedback](cards-0004.md#paper-148832) | 在稀疏偏好模型中按有效特征维度核算样本量 |
+| 计算机视觉 | 概念抑制 | [Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models](cards-0004.md#paper-155037) | 在流匹配推理时直接抑制目标概念分量 |
+| 组合优化 | 可微网络设计 | [Differentiating Network Design Objectives for Balancing Cost and Distance](cards-0004.md#paper-151671) | 将路由局部动作作为可训练决策 |
+| 生成模型 | 奖励对齐 | [Diff-Instruct with Diffused Reward: Towards Principled One-step Generator RL](cards-0004.md#paper-153078) | 对整个去噪轨迹对齐奖励 |
+| 时间序列 | 状态估计 | [Diff-Kalman: Difference-Driven Learning for Structure-Preserving Kalman Filtering](cards-0004.md#paper-150096) | 分别修正 Kalman 预测与更新 |
+| 时间序列 | 概率预测 | [DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting](cards-0004.md#paper-148542) | 统一噪声估计与扩散训练目标 |
+| 可解释性 | 机制追踪 | [DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing](cards-0004.md#paper-150450) | 按去噪时刻拟合 MLP 的输入输出以追踪生成机制 |
+| 生成模型 | 一步生成 | [DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision](cards-0004.md#paper-155104) | 以密度比训练一步扩散并对并行候选评分 |
+| 科学机器学习 | 缺失数据 | [DiffRisk: Diffusion Representation Learning with Informative Missingness for Health Risk Prediction](cards-0004.md#paper-151677) | 把缺失结构纳入条件表示 |
+| 自然语言处理 | 文本评测 | [DiffScore: Text Evaluation Beyond Autoregressive Likelihood](cards-0004.md#paper-149202) | 用多掩码率重建比较流畅性和整体一致性 |
+| 多模态学习 | 奖励设计 | [Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning](cards-0004.md#paper-150318) | 以分解问题代替视频对齐单标量 |
+| 组合优化 | 生成搜索 | [Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems](cards-0004.md#paper-155420) | 用去噪扰动扩大车辆路径解空间探索 |
+| 多模态学习 | 空间定位 | [Diffusion Fine-Tuning: Iterative Refinement for Advanced Grounding with Diffusion Large Language Models](cards-0004.md#paper-154060) | 联合迭代多边形坐标而非逐顶点提交 |
+| 生成模型 | 蒸馏对齐 | [Diffusion fine-tuning with Rewarded Moment Matching Distillation](cards-0004.md#paper-150176) | 同时蒸馏并优化可校准预测指标 |
+| 强化学习 | 扩散策略 | [Diffusion Guidance Is a Controllable Policy Improvement Operator](cards-0004.md#paper-151465) | 调节生成引导强度改善离线策略 |
+| 语言模型 | 长度推断 | [Diffusion Language Models Can Approximate Optimal Infilling Lengths Implicitly](cards-0004.md#paper-154873) | 先校准首步置信度再选补全长度。 |
+| 计算机视觉 | 自监督学习 | [Diffusion Masked Pretraining for Dynamic Point Cloud](cards-0004.md#paper-148526) | 分别去掉遮挡位置泄漏并保留运动多解。 |
+| 多模态学习 | 参数高效适配 | [Diffusion Meta-Prompting and Steering for Generalizable Foundation Model Adaptation](cards-0004.md#paper-154312) | 用已有提示参数库合成新任务提示。 |
+| 学习理论 | 扩散几何 | [Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold](cards-0004.md#paper-150031) | 用法向和切向误差分别解释生成样本偏离与覆盖。 |
+| 学习理论 | 误差诊断 | [Diffusion Models Observe Only Gradients: A Geometric Perspective on Score Matching Errors](cards-0004.md#paper-151563) | 用可见于边缘分布的梯度误差评估分数模型。 |
+| 生成模型 | 引导训练 | [Diffusion Models without Classifier-free Guidance](cards-0004.md#paper-150145) | 将推理阶段的条件引导纳入训练目标。 |
+| 概率建模 | 序贯采样 | [Diffusion Path Samplers via Sequential Monte Carlo](cards-0004.md#paper-152139) | 用 SMC 给未归一化目标的中间扩散分布估计分数。 |
+| 语言模型 / 强化学习 | 信用分配 | [Diffusion-State Policy Optimization for Masked Diffusion Language Models](cards-0004.md#paper-153673) | 在现有掩码滚动状态分支，只更新新增填充 token。 |
+| 强化学习 | 层级规划 | [Diffusion Subgoal Planning for Long-Horizon Offline Goal-Conditioned Reinforcement Learning](cards-0004.md#paper-150829) | 用目标条件扩散生成子目标代替高层价值引导。 |
+| 多模态学习 | 并行解码 | [Diffusion Thinking for Fast Long-Form Spatial Reasoning in Vision--Language Models](cards-0004.md#paper-150048) | 在推理块内并行，再把节省时间用在少量纠错轮次。 |
+| 可解释性 | 时序表征 | [Diffusion-Time Concept Manifolds: Sparse Autoencoder Groups for Interpreting Denoising Language Models](cards-0004.md#paper-154152) | 用稀疏特征组跟踪去噪过程中概念信息的变化。 |
+| 生成模型 | 模型架构 | [Diffusion Transformers with Residual Adaptive Layer Normalization](cards-0004.md#paper-151083) | 把浅层残差送进深层的 adaLN 调制接口。 |
+| 科学机器学习 | 推理时搜索 | [Diffusion Tree Search for Inference Time Adaptation of Material Foundation Models](cards-0004.md#paper-151930) | 将已有属性条件模型作为搜索提案，兼顾多目标晶体生成。 |
+| 科学机器学习 | 采样热启动 | [Diffusion-warm sampling of the XY model enables fast thermalization at scale](cards-0004.md#paper-155666) | 用小格点扩散模型为大系统 MCMC 提供初态。 |
+| 计算机视觉 | 三维分割 | [DIGS: Distribution-Informed Gaussian Splatting for Training-Free Open-Vocabulary 3D Segmentation](cards-0004.md#paper-155419) | 保留边界原语的多峰标签后验，到渲染阶段再做硬决策。 |
+| 语言模型 | 潜变量蒸馏 | [DiLaDiff: Distilled Latent-augmented Diffusion for Language Modeling](cards-0004.md#paper-150062) | 给并行离散解码提供共享语义潜变量。 |
+| 多模态学习 | 模型合并 | [DiM$^3$: Bridging Multilingual and Multimodal Models via Direction- and Magnitude-Aware Merging](cards-0004.md#paper-154617) | 按参数更新方向和幅值筛选语言与视觉语言残差。 |
+| 学习理论 | 状态维数 | [Dimension Bounds for Contractive Reservoir Computing from Input Entropy](cards-0004.md#paper-155874) | 用输入熵与收缩率共同选择储备池的稳定性。 |
+| 概率建模 | 数值积分 | [Dimension-Uniform Discretization Analysis of Preconditioned Annealed Langevin Dynamics for Multimodal Gaussian Mixtures](cards-0004.md#paper-153363) | 高维退火 Langevin 中精确积分刚性线性项。 |
+| 三维视觉 | 语义蒸馏 | [DinoComplete: 3D Shape Completion with Distilled Semantic Priors and State Space Models](cards-0004.md#paper-155664) | 从残缺点云预测体素对齐的语义先验 |
+| 计算机视觉 | 自监督学习 | [DINOv3](cards-0004.md#paper-156661) | 用 Gram 锚定保持长期训练的密集特征 |
+| 图学习 | 规模外推 | [DiPhon: Diffusion on Graphons for Scalable Graph Generation](cards-0004.md#paper-148916) | 以规模无关的连续极限设计图扩散 |
+| 统计学习 | 独立性检验 | [DiPMInd: Distance profile based mutual independence testing for random objects](cards-0004.md#paper-156633) | 跨度量空间用联合距离剖面检验独立性 |
+| 强化学习 | 奖励分配 | [DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off](cards-0004.md#paper-148861) | 用困惑度区分探索样本与利用样本 |
+| 强化学习 | 奖励学习 | [DiReCL: Learning Differentiable Reward Code with Inverse Reinforcement Learning](cards-0004.md#paper-148348) | 保留可读奖励代码并用示范校准参数 |
+| 优化 | 随机求根 | [Direct Acceleration of Stochastic Root-Finding Without Variance Reduction and Regularization](cards-0004.md#paper-153100) | 固定批量时比较双锚点与加大批量的加速方案 |
+| 计算机视觉 | 渲染加速 | [Direct Conditional Parameterization for N-Dimensional Splatting](cards-0004.md#paper-155500) | 直接参数化查询条件下的图元属性 |
+| 多模态学习 | 连续条件化 | [Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction](cards-0004.md#paper-152995) | 将连续输入通过适配器直接接入音频扩散 |
+| 统计学习 | 漂移估计 | [Direct Estimation of Schrödinger Bridge Time-Series Drifts: Finite-Sample, Asymptotic, and Adaptive Guarantees](cards-0004.md#paper-155581) | 直接在漂移层估计以隔离统计误差 |
+| 计算机视觉 | 归纳偏置诊断 | [Directional Confusions Reveal Divergent Inductive Biases Through Rate-Distortion Geometry in Human and Machine Vision](cards-0004.md#paper-152629) | 在准确率匹配时比较错误方向与率失真曲线 |
+| 生成模型 | 条件编码 | [Directional Noise Conditioning for Diffusion Models](cards-0004.md#paper-150199) | 将视觉属性编码进初始噪声方向 |
+| 强化学习 | 离线到在线迁移 | [Direction-Aware Offline-to-Online Learning in Linear Contextual Bandits](cards-0004.md#paper-148256) | 只在低偏差且历史覆盖充分的方向复用日志 |
+| 多模态学习 | 几何对齐 | [Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation](cards-0004.md#paper-149331) | 分别适配特征半径和角度 |
+| 具身智能 | 约束规划 | [DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising](cards-0004.md#paper-155798) | 只对干净轨迹施加终端可行性约束 |
+| 计算机视觉 | 表面位置编码 | [DirectUV: Image-Conditioned UV Texture Generation with Surface-Aware Positional Encoding](cards-0004.md#paper-153147) | 用三维表面距离设计 UV 注意力 |
+| 时间序列 | 多模态预测 | [Dirichlet-Guided Group Forecasting for Alleviating Over-smoothing in Time Series Forecasting](cards-0004.md#paper-154424) | 预测多个动力学模式并校准模式权重 |
+| 生成模型 | 低比特量化 | [DiRotQ: Rotation-Aware Quantization for 4-bit Diffusion Transformers](cards-0004.md#paper-155781) | 保留高方差激活子空间的较高精度 |
+| 计算机视觉 | 三维定位 | [Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization](cards-0004.md#paper-152518) | 将渲染图元细分成更明确的匹配单位 |
+| 软件工程 | 测试评测 | [DIS-Bench: Evaluating LLMs on System Testing via Directed Input Synthesis](cards-0004.md#paper-138947) | 用可达分支的系统输入任务单独评价测试能力 |

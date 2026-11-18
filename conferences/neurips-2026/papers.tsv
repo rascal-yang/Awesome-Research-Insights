@@ -2086,66 +2086,66 @@ poster_id	title	paper_url	status	reason
 153641	Differentiable Knapsack and Top-k Operators via Dynamic Programming	https://neurips.cc/virtual/2026/poster/153641	included	直接平滑动态规划递推
 153043	Differentiable Learning of Lifted Action Schemas for Classical Planning	https://neurips.cc/virtual/2026/poster/153043	included	把动作参数识别和模式归纳一起学习
 153003	Differentiable Nonlinear Model Predictive Control	https://neurips.cc/virtual/2026/poster/153003	included	从求解器最优性条件提取灵敏度
-149856	Differentiable Range-Partition Entropy for Entropy-Sensitive Geometric Algorithms	https://neurips.cc/virtual/2026/poster/149856	pending	-
-152229	Differentiable Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation	https://neurips.cc/virtual/2026/poster/152229	pending	-
-156105	Differentiable Systematic Resampling for Variational Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/156105	pending	-
-139203	Differential Item Functioning as an Item-Level Diagnostic for LLM Benchmarks	https://neurips.cc/virtual/2026/poster/139203	pending	-
-149241	Differentially Private Model Merging	https://neurips.cc/virtual/2026/poster/149241	pending	-
-148832	Differentially Private Sparse Reward Estimation with Preference Feedback	https://neurips.cc/virtual/2026/poster/148832	pending	-
-155037	Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models	https://neurips.cc/virtual/2026/poster/155037	pending	-
-151671	Differentiating Network Design Objectives for Balancing Cost and Distance	https://neurips.cc/virtual/2026/poster/151671	pending	-
-153078	Diff-Instruct with Diffused Reward: Towards Principled One-step Generator RL	https://neurips.cc/virtual/2026/poster/153078	pending	-
-150096	Diff-Kalman: Difference-Driven Learning for Structure-Preserving Kalman Filtering	https://neurips.cc/virtual/2026/poster/150096	pending	-
-148542	DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting	https://neurips.cc/virtual/2026/poster/148542	pending	-
-150450	DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing	https://neurips.cc/virtual/2026/poster/150450	pending	-
-155104	DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision	https://neurips.cc/virtual/2026/poster/155104	pending	-
-151677	DiffRisk: Diffusion Representation Learning with Informative Missingness for Health Risk Prediction	https://neurips.cc/virtual/2026/poster/151677	pending	-
-149202	DiffScore: Text Evaluation Beyond Autoregressive Likelihood	https://neurips.cc/virtual/2026/poster/149202	pending	-
-150318	Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning	https://neurips.cc/virtual/2026/poster/150318	pending	-
-155420	Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems	https://neurips.cc/virtual/2026/poster/155420	pending	-
-154060	Diffusion Fine-Tuning: Iterative Refinement for Advanced Grounding with Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/154060	pending	-
-150176	Diffusion fine-tuning with Rewarded Moment Matching Distillation	https://neurips.cc/virtual/2026/poster/150176	pending	-
-151465	Diffusion Guidance Is a Controllable Policy Improvement Operator	https://neurips.cc/virtual/2026/poster/151465	pending	-
-154873	Diffusion Language Models Can Approximate Optimal Infilling Lengths Implicitly	https://neurips.cc/virtual/2026/poster/154873	pending	-
-148430	Diffusion LLMs are Natural Adversaries for any LLM	https://neurips.cc/virtual/2026/poster/148430	pending	-
-148526	Diffusion Masked Pretraining for Dynamic Point Cloud	https://neurips.cc/virtual/2026/poster/148526	pending	-
-154312	Diffusion Meta-Prompting and Steering for Generalizable Foundation Model Adaptation	https://neurips.cc/virtual/2026/poster/154312	pending	-
-150031	Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold	https://neurips.cc/virtual/2026/poster/150031	pending	-
-151563	Diffusion Models Observe Only Gradients: A Geometric Perspective on Score Matching Errors	https://neurips.cc/virtual/2026/poster/151563	pending	-
-150145	Diffusion Models without Classifier-free Guidance	https://neurips.cc/virtual/2026/poster/150145	pending	-
-152139	Diffusion Path Samplers via Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/152139	pending	-
-153673	Diffusion-State Policy Optimization for Masked Diffusion Language Models	https://neurips.cc/virtual/2026/poster/153673	pending	-
-150829	Diffusion Subgoal Planning for Long-Horizon Offline Goal-Conditioned Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150829	pending	-
-150048	Diffusion Thinking for Fast Long-Form Spatial Reasoning in Vision--Language Models	https://neurips.cc/virtual/2026/poster/150048	pending	-
-154152	Diffusion-Time Concept Manifolds: Sparse Autoencoder Groups for Interpreting Denoising Language Models	https://neurips.cc/virtual/2026/poster/154152	pending	-
-151083	Diffusion Transformers with Residual Adaptive Layer Normalization	https://neurips.cc/virtual/2026/poster/151083	pending	-
-151930	Diffusion Tree Search for Inference Time Adaptation of Material Foundation Models	https://neurips.cc/virtual/2026/poster/151930	pending	-
-155666	Diffusion-warm sampling of the XY model enables fast thermalization at scale	https://neurips.cc/virtual/2026/poster/155666	pending	-
-155419	DIGS: Distribution-Informed Gaussian Splatting for Training-Free Open-Vocabulary 3D Segmentation	https://neurips.cc/virtual/2026/poster/155419	pending	-
-150062	DiLaDiff: Distilled Latent-augmented Diffusion for Language Modeling	https://neurips.cc/virtual/2026/poster/150062	pending	-
-154617	DiM$^3$: Bridging Multilingual and Multimodal Models via Direction- and Magnitude-Aware Merging	https://neurips.cc/virtual/2026/poster/154617	pending	-
-155874	Dimension Bounds for Contractive Reservoir Computing from Input Entropy	https://neurips.cc/virtual/2026/poster/155874	pending	-
-153363	Dimension-Uniform Discretization Analysis of Preconditioned Annealed Langevin Dynamics for Multimodal Gaussian Mixtures	https://neurips.cc/virtual/2026/poster/153363	pending	-
-155664	DinoComplete: 3D Shape Completion with Distilled Semantic Priors and State Space Models	https://neurips.cc/virtual/2026/poster/155664	pending	-
-156661	DINOv3	https://neurips.cc/virtual/2026/poster/156661	pending	-
-148916	DiPhon: Diffusion on Graphons for Scalable Graph Generation	https://neurips.cc/virtual/2026/poster/148916	pending	-
-156633	DiPMInd: Distance profile based mutual independence testing for random objects	https://neurips.cc/virtual/2026/poster/156633	pending	-
-148861	DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off	https://neurips.cc/virtual/2026/poster/148861	pending	-
-148348	DiReCL: Learning Differentiable Reward Code with Inverse Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148348	pending	-
-153100	Direct Acceleration of Stochastic Root-Finding Without Variance Reduction and Regularization	https://neurips.cc/virtual/2026/poster/153100	pending	-
-155500	Direct Conditional Parameterization for N-Dimensional Splatting	https://neurips.cc/virtual/2026/poster/155500	pending	-
-152995	Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction	https://neurips.cc/virtual/2026/poster/152995	pending	-
-155581	Direct Estimation of Schrödinger Bridge Time-Series Drifts: Finite-Sample, Asymptotic, and Adaptive Guarantees	https://neurips.cc/virtual/2026/poster/155581	pending	-
-152629	Directional Confusions Reveal Divergent Inductive Biases Through Rate-Distortion Geometry in Human and Machine Vision	https://neurips.cc/virtual/2026/poster/152629	pending	-
-150199	Directional Noise Conditioning for Diffusion Models	https://neurips.cc/virtual/2026/poster/150199	pending	-
-148256	Direction-Aware Offline-to-Online Learning in Linear Contextual Bandits	https://neurips.cc/virtual/2026/poster/148256	pending	-
-149331	Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation	https://neurips.cc/virtual/2026/poster/149331	pending	-
-155798	DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising	https://neurips.cc/virtual/2026/poster/155798	pending	-
-153147	DirectUV: Image-Conditioned UV Texture Generation with Surface-Aware Positional Encoding	https://neurips.cc/virtual/2026/poster/153147	pending	-
-154424	Dirichlet-Guided Group Forecasting for Alleviating Over-smoothing in Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154424	pending	-
-155781	DiRotQ: Rotation-Aware Quantization for 4-bit Diffusion Transformers	https://neurips.cc/virtual/2026/poster/155781	pending	-
-152518	Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization	https://neurips.cc/virtual/2026/poster/152518	pending	-
-138947	DIS-Bench: Evaluating LLMs on System Testing via Directed Input Synthesis	https://neurips.cc/virtual/2026/poster/138947	pending	-
+149856	Differentiable Range-Partition Entropy for Entropy-Sensitive Geometric Algorithms	https://neurips.cc/virtual/2026/poster/149856	included	用软分区熵训练几何预处理
+152229	Differentiable Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation	https://neurips.cc/virtual/2026/poster/152229	excluded	主要贡献面向基因扰动响应设计，摘要未提供独立非生物任务上的复用验证。
+156105	Differentiable Systematic Resampling for Variational Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/156105	included	用连续系统重采样训练粒子滤波
+139203	Differential Item Functioning as an Item-Level Diagnostic for LLM Benchmarks	https://neurips.cc/virtual/2026/poster/139203	included	同总分模型仍按题目检查跨家族偏差
+149241	Differentially Private Model Merging	https://neurips.cc/virtual/2026/poster/149241	included	按部署隐私预算合并已训练模型
+148832	Differentially Private Sparse Reward Estimation with Preference Feedback	https://neurips.cc/virtual/2026/poster/148832	included	在稀疏偏好模型中按有效特征维度核算样本量
+155037	Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models	https://neurips.cc/virtual/2026/poster/155037	included	在流匹配推理时直接抑制目标概念分量
+151671	Differentiating Network Design Objectives for Balancing Cost and Distance	https://neurips.cc/virtual/2026/poster/151671	included	将路由局部动作作为可训练决策
+153078	Diff-Instruct with Diffused Reward: Towards Principled One-step Generator RL	https://neurips.cc/virtual/2026/poster/153078	included	对整个去噪轨迹对齐奖励
+150096	Diff-Kalman: Difference-Driven Learning for Structure-Preserving Kalman Filtering	https://neurips.cc/virtual/2026/poster/150096	included	分别修正 Kalman 预测与更新
+148542	DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting	https://neurips.cc/virtual/2026/poster/148542	included	统一噪声估计与扩散训练目标
+150450	DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing	https://neurips.cc/virtual/2026/poster/150450	included	按去噪时刻拟合 MLP 的输入输出以追踪生成机制
+155104	DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision	https://neurips.cc/virtual/2026/poster/155104	included	以密度比训练一步扩散并对并行候选评分
+151677	DiffRisk: Diffusion Representation Learning with Informative Missingness for Health Risk Prediction	https://neurips.cc/virtual/2026/poster/151677	included	把缺失结构纳入条件表示
+149202	DiffScore: Text Evaluation Beyond Autoregressive Likelihood	https://neurips.cc/virtual/2026/poster/149202	included	用多掩码率重建比较流畅性和整体一致性
+150318	Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning	https://neurips.cc/virtual/2026/poster/150318	included	以分解问题代替视频对齐单标量
+155420	Diffusion-Enhanced GFlowNet for Solving Vehicle Routing Problems	https://neurips.cc/virtual/2026/poster/155420	included	用去噪扰动扩大车辆路径解空间探索
+154060	Diffusion Fine-Tuning: Iterative Refinement for Advanced Grounding with Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/154060	included	联合迭代多边形坐标而非逐顶点提交
+150176	Diffusion fine-tuning with Rewarded Moment Matching Distillation	https://neurips.cc/virtual/2026/poster/150176	included	同时蒸馏并优化可校准预测指标
+151465	Diffusion Guidance Is a Controllable Policy Improvement Operator	https://neurips.cc/virtual/2026/poster/151465	included	调节生成引导强度改善离线策略
+154873	Diffusion Language Models Can Approximate Optimal Infilling Lengths Implicitly	https://neurips.cc/virtual/2026/poster/154873	included	先校准首步置信度再选补全长度。
+148430	Diffusion LLMs are Natural Adversaries for any LLM	https://neurips.cc/virtual/2026/poster/148430	excluded	主要贡献是生成可迁移的模型防护绕过输入，摘要未给出独立防御机制。
+148526	Diffusion Masked Pretraining for Dynamic Point Cloud	https://neurips.cc/virtual/2026/poster/148526	included	分别去掉遮挡位置泄漏并保留运动多解。
+154312	Diffusion Meta-Prompting and Steering for Generalizable Foundation Model Adaptation	https://neurips.cc/virtual/2026/poster/154312	included	用已有提示参数库合成新任务提示。
+150031	Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold	https://neurips.cc/virtual/2026/poster/150031	included	用法向和切向误差分别解释生成样本偏离与覆盖。
+151563	Diffusion Models Observe Only Gradients: A Geometric Perspective on Score Matching Errors	https://neurips.cc/virtual/2026/poster/151563	included	用可见于边缘分布的梯度误差评估分数模型。
+150145	Diffusion Models without Classifier-free Guidance	https://neurips.cc/virtual/2026/poster/150145	included	将推理阶段的条件引导纳入训练目标。
+152139	Diffusion Path Samplers via Sequential Monte Carlo	https://neurips.cc/virtual/2026/poster/152139	included	用 SMC 给未归一化目标的中间扩散分布估计分数。
+153673	Diffusion-State Policy Optimization for Masked Diffusion Language Models	https://neurips.cc/virtual/2026/poster/153673	included	在现有掩码滚动状态分支，只更新新增填充 token。
+150829	Diffusion Subgoal Planning for Long-Horizon Offline Goal-Conditioned Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150829	included	用目标条件扩散生成子目标代替高层价值引导。
+150048	Diffusion Thinking for Fast Long-Form Spatial Reasoning in Vision--Language Models	https://neurips.cc/virtual/2026/poster/150048	included	在推理块内并行，再把节省时间用在少量纠错轮次。
+154152	Diffusion-Time Concept Manifolds: Sparse Autoencoder Groups for Interpreting Denoising Language Models	https://neurips.cc/virtual/2026/poster/154152	included	用稀疏特征组跟踪去噪过程中概念信息的变化。
+151083	Diffusion Transformers with Residual Adaptive Layer Normalization	https://neurips.cc/virtual/2026/poster/151083	included	把浅层残差送进深层的 adaLN 调制接口。
+151930	Diffusion Tree Search for Inference Time Adaptation of Material Foundation Models	https://neurips.cc/virtual/2026/poster/151930	included	将已有属性条件模型作为搜索提案，兼顾多目标晶体生成。
+155666	Diffusion-warm sampling of the XY model enables fast thermalization at scale	https://neurips.cc/virtual/2026/poster/155666	included	用小格点扩散模型为大系统 MCMC 提供初态。
+155419	DIGS: Distribution-Informed Gaussian Splatting for Training-Free Open-Vocabulary 3D Segmentation	https://neurips.cc/virtual/2026/poster/155419	included	保留边界原语的多峰标签后验，到渲染阶段再做硬决策。
+150062	DiLaDiff: Distilled Latent-augmented Diffusion for Language Modeling	https://neurips.cc/virtual/2026/poster/150062	included	给并行离散解码提供共享语义潜变量。
+154617	DiM$^3$: Bridging Multilingual and Multimodal Models via Direction- and Magnitude-Aware Merging	https://neurips.cc/virtual/2026/poster/154617	included	按参数更新方向和幅值筛选语言与视觉语言残差。
+155874	Dimension Bounds for Contractive Reservoir Computing from Input Entropy	https://neurips.cc/virtual/2026/poster/155874	included	用输入熵与收缩率共同选择储备池的稳定性。
+153363	Dimension-Uniform Discretization Analysis of Preconditioned Annealed Langevin Dynamics for Multimodal Gaussian Mixtures	https://neurips.cc/virtual/2026/poster/153363	included	高维退火 Langevin 中精确积分刚性线性项。
+155664	DinoComplete: 3D Shape Completion with Distilled Semantic Priors and State Space Models	https://neurips.cc/virtual/2026/poster/155664	included	从残缺点云预测体素对齐的语义先验
+156661	DINOv3	https://neurips.cc/virtual/2026/poster/156661	included	用 Gram 锚定保持长期训练的密集特征
+148916	DiPhon: Diffusion on Graphons for Scalable Graph Generation	https://neurips.cc/virtual/2026/poster/148916	included	以规模无关的连续极限设计图扩散
+156633	DiPMInd: Distance profile based mutual independence testing for random objects	https://neurips.cc/virtual/2026/poster/156633	included	跨度量空间用联合距离剖面检验独立性
+148861	DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off	https://neurips.cc/virtual/2026/poster/148861	included	用困惑度区分探索样本与利用样本
+148348	DiReCL: Learning Differentiable Reward Code with Inverse Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148348	included	保留可读奖励代码并用示范校准参数
+153100	Direct Acceleration of Stochastic Root-Finding Without Variance Reduction and Regularization	https://neurips.cc/virtual/2026/poster/153100	included	固定批量时比较双锚点与加大批量的加速方案
+155500	Direct Conditional Parameterization for N-Dimensional Splatting	https://neurips.cc/virtual/2026/poster/155500	included	直接参数化查询条件下的图元属性
+152995	Direct Conditioning of Audio Diffusion Transformers on fMRI Reveals Cortical Contributions to Sound Reconstruction	https://neurips.cc/virtual/2026/poster/152995	included	将连续输入通过适配器直接接入音频扩散
+155581	Direct Estimation of Schrödinger Bridge Time-Series Drifts: Finite-Sample, Asymptotic, and Adaptive Guarantees	https://neurips.cc/virtual/2026/poster/155581	included	直接在漂移层估计以隔离统计误差
+152629	Directional Confusions Reveal Divergent Inductive Biases Through Rate-Distortion Geometry in Human and Machine Vision	https://neurips.cc/virtual/2026/poster/152629	included	在准确率匹配时比较错误方向与率失真曲线
+150199	Directional Noise Conditioning for Diffusion Models	https://neurips.cc/virtual/2026/poster/150199	included	将视觉属性编码进初始噪声方向
+148256	Direction-Aware Offline-to-Online Learning in Linear Contextual Bandits	https://neurips.cc/virtual/2026/poster/148256	included	只在低偏差且历史覆盖充分的方向复用日志
+149331	Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation	https://neurips.cc/virtual/2026/poster/149331	included	分别适配特征半径和角度
+155798	DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising	https://neurips.cc/virtual/2026/poster/155798	included	只对干净轨迹施加终端可行性约束
+153147	DirectUV: Image-Conditioned UV Texture Generation with Surface-Aware Positional Encoding	https://neurips.cc/virtual/2026/poster/153147	included	用三维表面距离设计 UV 注意力
+154424	Dirichlet-Guided Group Forecasting for Alleviating Over-smoothing in Time Series Forecasting	https://neurips.cc/virtual/2026/poster/154424	included	预测多个动力学模式并校准模式权重
+155781	DiRotQ: Rotation-Aware Quantization for 4-bit Diffusion Transformers	https://neurips.cc/virtual/2026/poster/155781	included	保留高方差激活子空间的较高精度
+152518	Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization	https://neurips.cc/virtual/2026/poster/152518	included	将渲染图元细分成更明确的匹配单位
+138947	DIS-Bench: Evaluating LLMs on System Testing via Directed Input Synthesis	https://neurips.cc/virtual/2026/poster/138947	included	用可达分支的系统输入任务单独评价测试能力
 155886	DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning	https://neurips.cc/virtual/2026/poster/155886	pending	-
 153999	DisCoMBO: Steering Expert-in-the-Loop Black Box Optimization via Distributional Conformance	https://neurips.cc/virtual/2026/poster/153999	pending	-
 151338	Discovering dynamical parameters of synthetic multicellular systems from image sequences	https://neurips.cc/virtual/2026/poster/151338	pending	-
