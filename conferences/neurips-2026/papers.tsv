@@ -1362,66 +1362,66 @@ poster_id	title	paper_url	status	reason
 148921	Cheap Talk, Real Stakes: Commitment and Exploitation in Human-LLM Strategic Interaction	https://neurips.cc/virtual/2026/poster/148921	included	把行动前沟通和最终执行联合审计
 150678	Chebyshev Differential Flows for Shape Matching and Interpolation with Endpoint Guidance	https://neurips.cc/virtual/2026/poster/150678	included	用连续雅可比轨迹建模非刚性变形
 139372	Chem-PerturBridge: a harmonized compendium of small molecule perturbation transcriptomic effects	https://neurips.cc/virtual/2026/poster/139372	excluded	研究主要聚焦化合物扰动资源及相关预测应用，本轮未提炼可独立收录的技术机制。
-139263	Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences	https://neurips.cc/virtual/2026/poster/139263	pending	-
-150424	ChildPose: Foundation for Children Pose Modeling	https://neurips.cc/virtual/2026/poster/150424	pending	-
-150942	ChiP-STAR: Spatial-Topological Attention for Pre-trained Generative Chip Routing	https://neurips.cc/virtual/2026/poster/150942	pending	-
-152373	Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents	https://neurips.cc/virtual/2026/poster/152373	pending	-
-153059	CHoRD: Coordinating Scheduling and Data Placement for Efficient Deep Neural Network Inference on Chiplet-Based GPUs	https://neurips.cc/virtual/2026/poster/153059	pending	-
-153626	CHORD: Cross-Model Hallucination Detection via Relational Graph Discrimination	https://neurips.cc/virtual/2026/poster/153626	pending	-
-148240	Christoffel-DPS: Optimal sensor placement in diffusion posterior sampling for arbitrary distributions	https://neurips.cc/virtual/2026/poster/148240	pending	-
-139317	ChronosAlign: A Large-Scale, Updatable Benchmark for Decomposing Temporal Alignment in LLMs	https://neurips.cc/virtual/2026/poster/139317	pending	-
-155153	ChunkFT: Byte-Streamed Optimization for Memory-Efficient Full Fine-Tuning	https://neurips.cc/virtual/2026/poster/155153	pending	-
-155855	CI4A: Semantic Component Interfaces for Agents Empowering Web Automation	https://neurips.cc/virtual/2026/poster/155855	pending	-
-149190	CIG: Exploration via Conditional Information Gain	https://neurips.cc/virtual/2026/poster/149190	pending	-
-139332	CineMME: Benchmarking Fine-Grained Perception and Plot Reasoning in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/139332	pending	-
-149533	CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation	https://neurips.cc/virtual/2026/poster/149533	pending	-
-155825	CipherFlow: Hardware-Aware Compiler Framework for Low-Latency Hybrid Secure Inference	https://neurips.cc/virtual/2026/poster/155825	pending	-
-139313	CIPHERGRID Benchmark: From Multimodal Rule Inference to Sequential Action	https://neurips.cc/virtual/2026/poster/139313	pending	-
-153589	Circuit-Level Knowledge Distillation for Large Language Models	https://neurips.cc/virtual/2026/poster/153589	pending	-
-152316	CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs	https://neurips.cc/virtual/2026/poster/152316	pending	-
-150250	CITE: Anytime Valid Statistical Inference in LLM Self-Consistency	https://neurips.cc/virtual/2026/poster/150250	pending	-
-153952	Cite What You Explore: Budget-Aware LLM Reasoning over Medical KGs with Verifiable Evidence	https://neurips.cc/virtual/2026/poster/153952	pending	-
-154638	City-RAG: Stepping Into a City via Spatially-Grounded Video Generation	https://neurips.cc/virtual/2026/poster/154638	pending	-
-151477	CitySTAR: Agent-Driven Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding	https://neurips.cc/virtual/2026/poster/151477	pending	-
-139660	CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI	https://neurips.cc/virtual/2026/poster/139660	pending	-
-140036	Claims of emergence in AI should be grounded in information decomposition	https://neurips.cc/virtual/2026/poster/140036	pending	-
-139311	CLAMP: A Sim-to-Real Benchmark for Closed-Loop Kinematic Pose Estimation and Assembly Reasoning	https://neurips.cc/virtual/2026/poster/139311	pending	-
-148239	Clapping: Removing Per-sample Storage for Pipeline Parallel Learning with Communication Compression	https://neurips.cc/virtual/2026/poster/148239	pending	-
-152087	Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces	https://neurips.cc/virtual/2026/poster/152087	pending	-
-152303	Class Adaptive Conformal Training	https://neurips.cc/virtual/2026/poster/152303	pending	-
-152601	Class–Domain Discriminability Guided Representation Enhancement for Domain Generalization	https://neurips.cc/virtual/2026/poster/152601	pending	-
-153465	Class-Domain Incremental Learning with Extensible Multi-Center Modeling	https://neurips.cc/virtual/2026/poster/153465	pending	-
-152056	Classification at the Edge of Stability: Unifying Self-Stabilization and Convergence Rates	https://neurips.cc/virtual/2026/poster/152056	pending	-
-151054	Classification Fields: Arbitrarily Fine Recursive Hierarchical Clustering From Few Examples	https://neurips.cc/virtual/2026/poster/151054	pending	-
-156776	Classification of high-dimensional data with spiked covariance matrix structure	https://neurips.cc/virtual/2026/poster/156776	pending	-
-155401	Class-Incremental Learning via LoRA-based Elastic Ensemble of Experts	https://neurips.cc/virtual/2026/poster/155401	pending	-
-154098	Class-Mixed Diffusion Augmentation for Shortcut-Breaking in Continual Learning	https://neurips.cc/virtual/2026/poster/154098	pending	-
-140039	Claude Coke: Prevent Automated Crime by Agents	https://neurips.cc/virtual/2026/poster/140039	pending	-
-154015	Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs	https://neurips.cc/virtual/2026/poster/154015	pending	-
-139365	ClawBenchPro: Benchmarking How Well Agent Harnesses Work	https://neurips.cc/virtual/2026/poster/139365	pending	-
-149791	CLaW: Codec-Guided Adaptive Latent Watermarking for Traceable Diffusion Image Generation	https://neurips.cc/virtual/2026/poster/149791	pending	-
-139588	Claw-Eval: Towards Trustworthy Evaluation of Autonomous Agents	https://neurips.cc/virtual/2026/poster/139588	pending	-
-152824	Clean Data Can Still Carry Backdoors: Support-Persistent Backdoors for Model Reuse	https://neurips.cc/virtual/2026/poster/152824	pending	-
-153815	Clean-Label Poisoning for Gradient-Boosted Decision Trees	https://neurips.cc/virtual/2026/poster/153815	pending	-
-151839	CLeaR: A Unified Framework for Resolving the Leakage–Degradation Dilemma in Style Transfer	https://neurips.cc/virtual/2026/poster/151839	pending	-
-153511	CLEAR: Complementary Tripartite Play with Bayesian Calibration for Semi-Supervised Edge Classification	https://neurips.cc/virtual/2026/poster/153511	pending	-
-155535	Clearer Sight, Fewer Lies: Oriented Pickup Preference Optimization for Multimodal Hallucination Mitigation	https://neurips.cc/virtual/2026/poster/155535	pending	-
-148625	CLEF: EEG Foundation Models for Learning Clinical Semantics	https://neurips.cc/virtual/2026/poster/148625	pending	-
-148962	Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks	https://neurips.cc/virtual/2026/poster/148962	pending	-
-150357	CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling	https://neurips.cc/virtual/2026/poster/150357	pending	-
-139102	ClinMAS: A Knowledge-Grounded Multi-Agent Simulation Framework for Evaluating Clinical Reasoning in LLMs	https://neurips.cc/virtual/2026/poster/139102	pending	-
-149545	ClinStab: Stability-Oriented Learning for Medical Time Series via Dual-Stream Alignment	https://neurips.cc/virtual/2026/poster/149545	pending	-
-152543	CLIOPATRA: Extracting Private Information from LLM Insights	https://neurips.cc/virtual/2026/poster/152543	pending	-
-149746	C-LoRA: Continual Low-Rank Adaptation for Pre-trained Visual Models	https://neurips.cc/virtual/2026/poster/149746	pending	-
-148458	Closed-Form Implicit Neural Representations	https://neurips.cc/virtual/2026/poster/148458	pending	-
-155421	Closed-Form Last Layer Optimization	https://neurips.cc/virtual/2026/poster/155421	pending	-
-153458	Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models	https://neurips.cc/virtual/2026/poster/153458	pending	-
-154248	Closed-Loop Alignment: Socially Coupled In-Context Learning and Relational Posterior Collapse	https://neurips.cc/virtual/2026/poster/154248	pending	-
-149779	Closed Loop Dynamic Driving Data Mixture for Real-Synthetic Co-Training	https://neurips.cc/virtual/2026/poster/149779	pending	-
-148375	CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction	https://neurips.cc/virtual/2026/poster/148375	pending	-
-150349	Closing the Approximation Gap in Simulation-free Latent SDEs	https://neurips.cc/virtual/2026/poster/150349	pending	-
-148361	Closing the Gap on the Sample Complexity of 1-Identification	https://neurips.cc/virtual/2026/poster/148361	pending	-
-150601	Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization	https://neurips.cc/virtual/2026/poster/150601	pending	-
+139263	Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences	https://neurips.cc/virtual/2026/poster/139263	included	用均匀合法轨迹检验模型是否学到转移规则。
+150424	ChildPose: Foundation for Children Pose Modeling	https://neurips.cc/virtual/2026/poster/150424	included	用邻帧记忆与发育属性监督适配儿童姿态。
+150942	ChiP-STAR: Spatial-Topological Attention for Pre-trained Generative Chip Routing	https://neurips.cc/virtual/2026/poster/150942	included	序列化几何树时同时编码遍历顺序与物理位置。
+152373	Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents	https://neurips.cc/virtual/2026/poster/152373	included	在执行之前对同一上下文中的备选调用估计长程价值。
+153059	CHoRD: Coordinating Scheduling and Data Placement for Efficient Deep Neural Network Inference on Chiplet-Based GPUs	https://neurips.cc/virtual/2026/poster/153059	included	跨芯粒联合决定核函数调度与权重和激活驻留。
+153626	CHORD: Cross-Model Hallucination Detection via Relational Graph Discrimination	https://neurips.cc/virtual/2026/poster/153626	included	幻觉检测在未见模型上比较关系特征与原始隐状态。
+148240	Christoffel-DPS: Optimal sensor placement in diffusion posterior sampling for arbitrary distributions	https://neurips.cc/virtual/2026/poster/148240	included	低预算非高斯恢复时按信号分布选择传感位置。
+139317	ChronosAlign: A Large-Scale, Updatable Benchmark for Decomposing Temporal Alignment in LLMs	https://neurips.cc/virtual/2026/poster/139317	included	同一事实用显式年份、当前时间和无时间对照提问。
+155153	ChunkFT: Byte-Streamed Optimization for Memory-Efficient Full Fine-Tuning	https://neurips.cc/virtual/2026/poster/155153	included	以动态子张量工作集更新全模型，避免同时持有密集梯度。
+155855	CI4A: Semantic Component Interfaces for Agents Empowering Web Automation	https://neurips.cc/virtual/2026/poster/155855	included	用页面语义组件提供受控工具，而非只暴露低层点击。
+149190	CIG: Exploration via Conditional Information Gain	https://neurips.cc/virtual/2026/poster/149190	included	按回放历史和本回合前缀共同计算探索奖励。
+139332	CineMME: Benchmarking Fine-Grained Perception and Plot Reasoning in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/139332	included	同时检查对白时间、内容、说话人及剧情答案。
+149533	CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation	https://neurips.cc/virtual/2026/poster/149533	included	把人物、动作、相机和剪辑统一成实体与时间区间。
+155825	CipherFlow: Hardware-Aware Compiler Framework for Low-Latency Hybrid Secure Inference	https://neurips.cc/virtual/2026/poster/155825	included	按目标设备及网络条件联合选安全算子与转换。
+139313	CIPHERGRID Benchmark: From Multimodal Rule Inference to Sequential Action	https://neurips.cc/virtual/2026/poster/139313	included	分开验证符号解码、规则推断和路径规划，再考查组合。
+153589	Circuit-Level Knowledge Distillation for Large Language Models	https://neurips.cc/virtual/2026/poster/153589	included	蒸馏时对齐计算路径，并与只匹配输出比较。
+152316	CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs	https://neurips.cc/virtual/2026/poster/152316	included	以推理回路响应作为数学数据筛选信号。
+150250	CITE: Anytime Valid Statistical Inference in LLM Self-Consistency	https://neurips.cc/virtual/2026/poster/150250	included	自适应停止采样时用可随时有效的众数认证。
+153952	Cite What You Explore: Budget-Aware LLM Reasoning over Medical KGs with Verifiable Evidence	https://neurips.cc/virtual/2026/poster/153952	included	在固定图检索预算下区分证据支持度和引用正确性。
+154638	City-RAG: Stepping Into a City via Spatially-Grounded Video Generation	https://neurips.cc/virtual/2026/poster/154638	included	用地理配准资料约束生成场景的静态结构。
+151477	CitySTAR: Agent-Driven Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding	https://neurips.cc/virtual/2026/poster/151477	included	使用拓扑约束验证城市三维定位候选。
+139660	CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI	https://neurips.cc/virtual/2026/poster/139660	included	分别测主动检查和承诺落实。
+140036	Claims of emergence in AI should be grounded in information decomposition	https://neurips.cc/virtual/2026/poster/140036	excluded	立场文章提出信息分解框架及跨层猜想，摘要没有给出新算法或独立实证验证。
+139311	CLAMP: A Sim-to-Real Benchmark for Closed-Loop Kinematic Pose Estimation and Assembly Reasoning	https://neurips.cc/virtual/2026/poster/139311	included	混合完好与缺件条件检验机构位姿估计。
+148239	Clapping: Removing Per-sample Storage for Pipeline Parallel Learning with Communication Compression	https://neurips.cc/virtual/2026/poster/148239	included	以懒惰采样降低流水线压缩的逐样本状态开销。
+152087	Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces	https://neurips.cc/virtual/2026/poster/152087	included	把澄清请求转为首轮视觉描述的训练信号。
+152303	Class Adaptive Conformal Training	https://neurips.cc/virtual/2026/poster/152303	included	按类别调节预测集，同时守住全局覆盖。
+152601	Class–Domain Discriminability Guided Representation Enhancement for Domain Generalization	https://neurips.cc/virtual/2026/poster/152601	included	按通道的类别与域敏感性分别施加约束。
+153465	Class-Domain Incremental Learning with Extensible Multi-Center Modeling	https://neurips.cc/virtual/2026/poster/153465	included	类别和领域同步扩展时维护可增长的多中心树。
+152056	Classification at the Edge of Stability: Unifying Self-Stabilization and Convergence Rates	https://neurips.cc/virtual/2026/poster/152056	included	大步长分类时同时跟踪尖锐度与方向残差。
+151054	Classification Fields: Arbitrarily Fine Recursive Hierarchical Clustering From Few Examples	https://neurips.cc/virtual/2026/poster/151054	included	用共享局部细分规则外推超出已观察层级的结构。
+156776	Classification of high-dimensional data with spiked covariance matrix structure	https://neurips.cc/virtual/2026/poster/156776	included	在白化空间筛选均值差最大的坐标。
+155401	Class-Incremental Learning via LoRA-based Elastic Ensemble of Experts	https://neurips.cc/virtual/2026/poster/155401	included	据表示饱和度决定扩充 LoRA 专家。
+154098	Class-Mixed Diffusion Augmentation for Shortcut-Breaking in Continual Learning	https://neurips.cc/virtual/2026/poster/154098	included	生成能打断任务识别捷径的辅助类别。
+140039	Claude Coke: Prevent Automated Crime by Agents	https://neurips.cc/virtual/2026/poster/140039	excluded	研究主要提出风险论证和治理倡议，摘要未验证独立可复用的保护措施。
+154015	Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs	https://neurips.cc/virtual/2026/poster/154015	excluded	主要贡献为自动化攻击方法发现，未从摘要提取独立防护机制。
+139365	ClawBenchPro: Benchmarking How Well Agent Harnesses Work	https://neurips.cc/virtual/2026/poster/139365	included	用零缺陷执行率与成本共同选运行框架。
+149791	CLaW: Codec-Guided Adaptive Latent Watermarking for Traceable Diffusion Image Generation	https://neurips.cc/virtual/2026/poster/149791	included	在后段去噪注入水印并按解码置信度调强度。
+139588	Claw-Eval: Towards Trustworthy Evaluation of Autonomous Agents	https://neurips.cc/virtual/2026/poster/139588	included	用执行轨迹、审计日志与环境快照共同评分。
+152824	Clean Data Can Still Carry Backdoors: Support-Persistent Backdoors for Model Reuse	https://neurips.cc/virtual/2026/poster/152824	excluded	论文主要贡献为可绕过模型净化的攻击，摘要未给出独立且已验证的防护机制。
+153815	Clean-Label Poisoning for Gradient-Boosted Decision Trees	https://neurips.cc/virtual/2026/poster/153815	excluded	摘要侧重实现数据投毒，未提供独立验证的防御机制。
+151839	CLeaR: A Unified Framework for Resolving the Leakage–Degradation Dilemma in Style Transfer	https://neurips.cc/virtual/2026/poster/151839	included	以多编码器共享像素锚点约束风格
+153511	CLEAR: Complementary Tripartite Play with Bayesian Calibration for Semi-Supervised Edge Classification	https://neurips.cc/virtual/2026/poster/153511	included	用互补图视角筛选伪标签，再用邻域先验校准
+155535	Clearer Sight, Fewer Lies: Oriented Pickup Preference Optimization for Multimodal Hallucination Mitigation	https://neurips.cc/virtual/2026/poster/155535	included	固定正确回答，按视觉证据强弱构造排序监督
+148625	CLEF: EEG Foundation Models for Learning Clinical Semantics	https://neurips.cc/virtual/2026/poster/148625	included	先保留整段 EEG，再以报告及结构化病历对齐表示
+148962	Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks	https://neurips.cc/virtual/2026/poster/148962	included	让前馈重建接收稀疏跨图对应以纠错
+150357	CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling	https://neurips.cc/virtual/2026/poster/150357	included	把训练期校准的验证问题复用于测试时重试筛选
+139102	ClinMAS: A Knowledge-Grounded Multi-Agent Simulation Framework for Evaluating Clinical Reasoning in LLMs	https://neurips.cc/virtual/2026/poster/139102	included	将诊断准确率和多轮信息收集质量分开测量
+149545	ClinStab: Stability-Oriented Learning for Medical Time Series via Dual-Stream Alignment	https://neurips.cc/virtual/2026/poster/149545	included	按通道能量分流并保留低能量残差信息
+152543	CLIOPATRA: Extracting Private Information from LLM Insights	https://neurips.cc/virtual/2026/poster/152543	excluded	摘要以提取用户私密信息为主要技术贡献，未给出经验证的独立防御机制。
+149746	C-LoRA: Continual Low-Rank Adaptation for Pre-trained Visual Models	https://neurips.cc/virtual/2026/poster/149746	included	用共享低秩子空间的路由控制遗忘和新任务更新
+148458	Closed-Form Implicit Neural Representations	https://neurips.cc/virtual/2026/poster/148458	included	按局部频谱复杂度分配闭式拟合容量
+155421	Closed-Form Last Layer Optimization	https://neurips.cc/virtual/2026/poster/155421	included	平方损失下交替更新骨干和闭式线性头
+153458	Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models	https://neurips.cc/virtual/2026/poster/153458	included	闭式内层配判别式外层目标压缩线性探针数据
+154248	Closed-Loop Alignment: Socially Coupled In-Context Learning and Relational Posterior Collapse	https://neurips.cc/virtual/2026/poster/154248	included	用闭环增益诊断多轮互动中的反馈放大
+149779	Closed Loop Dynamic Driving Data Mixture for Real-Synthetic Co-Training	https://neurips.cc/virtual/2026/poster/149779	included	按闭环表现更新合成驾驶场景的采样配比
+148375	CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction	https://neurips.cc/virtual/2026/poster/148375	included	先验证尺度一致性，再选择较简单的刚体位姿图
+150349	Closing the Approximation Gap in Simulation-free Latent SDEs	https://neurips.cc/virtual/2026/poster/150349	included	在给定边缘分布下优化路径律，减少免模拟推断偏差
+148361	Closing the Gap on the Sample Complexity of 1-Identification	https://neurips.cc/virtual/2026/poster/148361	included	以实例级样本复杂度比较阈值臂搜索算法
+150601	Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization	https://neurips.cc/virtual/2026/poster/150601	included	直接优化目标标识符前缀的束搜索存活率
 155475	Closing the Loop: Co-Evolving EM for Irregular Time Series Generation in Lifted Representations	https://neurips.cc/virtual/2026/poster/155475	pending	-
 153850	Closing the Loop with Fixed-Point Self-Attention	https://neurips.cc/virtual/2026/poster/153850	pending	-
 149208	Closing the Reflection Gap: A Free Calibration Bonus for Agentic RL	https://neurips.cc/virtual/2026/poster/149208	pending	-

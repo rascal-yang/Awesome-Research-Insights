@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1409** 篇，暂收录 **1290** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **1469** 篇，暂收录 **1344** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -1298,3 +1298,57 @@
 | 统计学习 | 回归诊断 | [Cheap Per-Component Testing for PLS, Stable Under Rotation](cards-0003.md#paper-148469) | 对留出数据重新拟合监督子空间 |
 | Agent | 行为评测 | [Cheap Talk, Real Stakes: Commitment and Exploitation in Human-LLM Strategic Interaction](cards-0003.md#paper-148921) | 把行动前沟通和最终执行联合审计 |
 | 视觉 | 形状建模 | [Chebyshev Differential Flows for Shape Matching and Interpolation with Endpoint Guidance](cards-0003.md#paper-150678) | 用连续雅可比轨迹建模非刚性变形 |
+| 世界模型 | 状态追踪评测 | [Chess-World-Model: A 10M-Game Benchmark for Exact State Tracking from Chess Move Sequences](cards-0003.md#paper-139263) | 用均匀合法轨迹检验模型是否学到转移规则。 |
+| 计算机视觉 | 时序姿态估计 | [ChildPose: Foundation for Children Pose Modeling](cards-0003.md#paper-150424) | 用邻帧记忆与发育属性监督适配儿童姿态。 |
+| 机器学习系统 | 空间序列建模 | [ChiP-STAR: Spatial-Topological Attention for Pre-trained Generative Chip Routing](cards-0003.md#paper-150942) | 序列化几何树时同时编码遍历顺序与物理位置。 |
+| Agent | 工具决策 | [Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](cards-0003.md#paper-152373) | 在执行之前对同一上下文中的备选调用估计长程价值。 |
+| 机器学习系统 | 推理调度 | [CHoRD: Coordinating Scheduling and Data Placement for Efficient Deep Neural Network Inference on Chiplet-Based GPUs](cards-0003.md#paper-153059) | 跨芯粒联合决定核函数调度与权重和激活驻留。 |
+| 大语言模型 | 跨模型检测 | [CHORD: Cross-Model Hallucination Detection via Relational Graph Discrimination](cards-0003.md#paper-153626) | 幻觉检测在未见模型上比较关系特征与原始隐状态。 |
+| 科学机器学习 | 传感器布设 | [Christoffel-DPS: Optimal sensor placement in diffusion posterior sampling for arbitrary distributions](cards-0003.md#paper-148240) | 低预算非高斯恢复时按信号分布选择传感位置。 |
+| 大语言模型 | 时间评测 | [ChronosAlign: A Large-Scale, Updatable Benchmark for Decomposing Temporal Alignment in LLMs](cards-0003.md#paper-139317) | 同一事实用显式年份、当前时间和无时间对照提问。 |
+| 大语言模型 | 显存优化 | [ChunkFT: Byte-Streamed Optimization for Memory-Efficient Full Fine-Tuning](cards-0003.md#paper-155153) | 以动态子张量工作集更新全模型，避免同时持有密集梯度。 |
+| Agent | 工具接口 | [CI4A: Semantic Component Interfaces for Agents Empowering Web Automation](cards-0003.md#paper-155855) | 用页面语义组件提供受控工具，而非只暴露低层点击。 |
+| 强化学习 | 探索奖励 | [CIG: Exploration via Conditional Information Gain](cards-0003.md#paper-149190) | 按回放历史和本回合前缀共同计算探索奖励。 |
+| 多模态学习 | 视频评测 | [CineMME: Benchmarking Fine-Grained Perception and Plot Reasoning in Multimodal Large Language Models](cards-0003.md#paper-139332) | 同时检查对白时间、内容、说话人及剧情答案。 |
+| 计算机视觉 | 视频生成 | [CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation](cards-0003.md#paper-149533) | 把人物、动作、相机和剪辑统一成实体与时间区间。 |
+| 安全机器学习 | 隐私推理编译 | [CipherFlow: Hardware-Aware Compiler Framework for Low-Latency Hybrid Secure Inference](cards-0003.md#paper-155825) | 按目标设备及网络条件联合选安全算子与转换。 |
+| 多模态学习 | 组合推理评测 | [CIPHERGRID Benchmark: From Multimodal Rule Inference to Sequential Action](cards-0003.md#paper-139313) | 分开验证符号解码、规则推断和路径规划，再考查组合。 |
+| 大语言模型 | 蒸馏 | [Circuit-Level Knowledge Distillation for Large Language Models](cards-0003.md#paper-153589) | 蒸馏时对齐计算路径，并与只匹配输出比较。 |
+| 大语言模型 | 训练数据选择 | [CircuitSeer: Mining High-Quality Data by Probing Mathematical Reasoning Circuits in LLMs](cards-0003.md#paper-152316) | 以推理回路响应作为数学数据筛选信号。 |
+| 统计学习 | 推理预算 | [CITE: Anytime Valid Statistical Inference in LLM Self-Consistency](cards-0003.md#paper-150250) | 自适应停止采样时用可随时有效的众数认证。 |
+| 大语言模型 | 证据检索 | [Cite What You Explore: Budget-Aware LLM Reasoning over Medical KGs with Verifiable Evidence](cards-0003.md#paper-153952) | 在固定图检索预算下区分证据支持度和引用正确性。 |
+| 计算机视觉 | 空间条件生成 | [City-RAG: Stepping Into a City via Spatially-Grounded Video Generation](cards-0003.md#paper-154638) | 用地理配准资料约束生成场景的静态结构。 |
+| 三维视觉 | 结构推理 | [CitySTAR: Agent-Driven Structured and Topology-Aware Reasoning for Open-Vocabulary Urban 3D Grounding](cards-0003.md#paper-151477) | 使用拓扑约束验证城市三维定位候选。 |
+| Agent | 流程评测 | [CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI](cards-0003.md#paper-139660) | 分别测主动检查和承诺落实。 |
+| 三维视觉 | 约束建模 | [CLAMP: A Sim-to-Real Benchmark for Closed-Loop Kinematic Pose Estimation and Assembly Reasoning](cards-0003.md#paper-139311) | 混合完好与缺件条件检验机构位姿估计。 |
+| 分布式训练 | 通信压缩 | [Clapping: Removing Per-sample Storage for Pipeline Parallel Learning with Communication Compression](cards-0003.md#paper-148239) | 以懒惰采样降低流水线压缩的逐样本状态开销。 |
+| 多模态 | 交互监督 | [Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces](cards-0003.md#paper-152087) | 把澄清请求转为首轮视觉描述的训练信号。 |
+| 统计学习 | 共形预测 | [Class Adaptive Conformal Training](cards-0003.md#paper-152303) | 按类别调节预测集，同时守住全局覆盖。 |
+| 计算机视觉 | 域泛化 | [Class–Domain Discriminability Guided Representation Enhancement for Domain Generalization](cards-0003.md#paper-152601) | 按通道的类别与域敏感性分别施加约束。 |
+| 持续学习 | 原型维护 | [Class-Domain Incremental Learning with Extensible Multi-Center Modeling](cards-0003.md#paper-153465) | 类别和领域同步扩展时维护可增长的多中心树。 |
+| 优化理论 | 训练动力学 | [Classification at the Edge of Stability: Unifying Self-Stabilization and Convergence Rates](cards-0003.md#paper-152056) | 大步长分类时同时跟踪尖锐度与方向残差。 |
+| 表示学习 | 层次聚类 | [Classification Fields: Arbitrarily Fine Recursive Hierarchical Clustering From Few Examples](cards-0003.md#paper-151054) | 用共享局部细分规则外推超出已观察层级的结构。 |
+| 统计学习 | 高维判别 | [Classification of high-dimensional data with spiked covariance matrix structure](cards-0003.md#paper-156776) | 在白化空间筛选均值差最大的坐标。 |
+| 持续学习 | 参数高效适配 | [Class-Incremental Learning via LoRA-based Elastic Ensemble of Experts](cards-0003.md#paper-155401) | 据表示饱和度决定扩充 LoRA 专家。 |
+| 持续学习 | 反捷径增强 | [Class-Mixed Diffusion Augmentation for Shortcut-Breaking in Continual Learning](cards-0003.md#paper-154098) | 生成能打断任务识别捷径的辅助类别。 |
+| Agent | 可靠性评测 | [ClawBenchPro: Benchmarking How Well Agent Harnesses Work](cards-0003.md#paper-139365) | 用零缺陷执行率与成本共同选运行框架。 |
+| 生成模型 | 水印 | [CLaW: Codec-Guided Adaptive Latent Watermarking for Traceable Diffusion Image Generation](cards-0003.md#paper-149791) | 在后段去噪注入水印并按解码置信度调强度。 |
+| Agent | 轨迹评测 | [Claw-Eval: Towards Trustworthy Evaluation of Autonomous Agents](cards-0003.md#paper-139588) | 用执行轨迹、审计日志与环境快照共同评分。 |
+| 计算机视觉 | 风格迁移 | [CLeaR: A Unified Framework for Resolving the Leakage–Degradation Dilemma in Style Transfer](cards-0003.md#paper-151839) | 以多编码器共享像素锚点约束风格 |
+| 图学习 | 伪标签校准 | [CLEAR: Complementary Tripartite Play with Bayesian Calibration for Semi-Supervised Edge Classification](cards-0003.md#paper-153511) | 用互补图视角筛选伪标签，再用邻域先验校准 |
+| 多模态学习 | 偏好对齐 | [Clearer Sight, Fewer Lies: Oriented Pickup Preference Optimization for Multimodal Hallucination Mitigation](cards-0003.md#paper-155535) | 固定正确回答，按视觉证据强弱构造排序监督 |
+| 临床机器学习 | 跨模态预训练 | [CLEF: EEG Foundation Models for Learning Clinical Semantics](cards-0003.md#paper-148625) | 先保留整段 EEG，再以报告及结构化病历对齐表示 |
+| 计算机视觉 | 交互重建 | [Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks](cards-0003.md#paper-148962) | 让前馈重建接收稀疏跨图对应以纠错 |
+| Agent | 轨迹验证 | [CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](cards-0003.md#paper-150357) | 把训练期校准的验证问题复用于测试时重试筛选 |
+| 临床机器学习 | 交互评测 | [ClinMAS: A Knowledge-Grounded Multi-Agent Simulation Framework for Evaluating Clinical Reasoning in LLMs](cards-0003.md#paper-139102) | 将诊断准确率和多轮信息收集质量分开测量 |
+| 科学机器学习 | 时序稳健性 | [ClinStab: Stability-Oriented Learning for Medical Time Series via Dual-Stream Alignment](cards-0003.md#paper-149545) | 按通道能量分流并保留低能量残差信息 |
+| 计算机视觉 | 持续适配 | [C-LoRA: Continual Low-Rank Adaptation for Pre-trained Visual Models](cards-0003.md#paper-149746) | 用共享低秩子空间的路由控制遗忘和新任务更新 |
+| 科学机器学习 | 隐式表征 | [Closed-Form Implicit Neural Representations](cards-0003.md#paper-148458) | 按局部频谱复杂度分配闭式拟合容量 |
+| 优化 | 闭式求解 | [Closed-Form Last Layer Optimization](cards-0003.md#paper-155421) | 平方损失下交替更新骨干和闭式线性头 |
+| 计算机视觉 | 数据蒸馏 | [Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models](cards-0003.md#paper-153458) | 闭式内层配判别式外层目标压缩线性探针数据 |
+| 大语言模型 | 闭环对齐 | [Closed-Loop Alignment: Socially Coupled In-Context Learning and Relational Posterior Collapse](cards-0003.md#paper-154248) | 用闭环增益诊断多轮互动中的反馈放大 |
+| 自动驾驶 | 数据混合 | [Closed Loop Dynamic Driving Data Mixture for Real-Synthetic Co-Training](cards-0003.md#paper-149779) | 按闭环表现更新合成驾驶场景的采样配比 |
+| 计算机视觉 | 流式建图 | [CLoSeR: Closing the Loop for Long-Context Streaming Reconstruction](cards-0003.md#paper-148375) | 先验证尺度一致性，再选择较简单的刚体位姿图 |
+| 科学机器学习 | 随机动力学 | [Closing the Approximation Gap in Simulation-free Latent SDEs](cards-0003.md#paper-150349) | 在给定边缘分布下优化路径律，减少免模拟推断偏差 |
+| 强化学习 | 纯探索理论 | [Closing the Gap on the Sample Complexity of 1-Identification](cards-0003.md#paper-148361) | 以实例级样本复杂度比较阈值臂搜索算法 |
+| 多模态学习 | 生成式检索 | [Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](cards-0003.md#paper-150601) | 直接优化目标标识符前缀的束搜索存活率 |
