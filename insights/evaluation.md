@@ -336,6 +336,7 @@
 - [隔离验证与污染采纳诊断](../conferences/icml-2026/cards/4701-4800.md#wang26gf-evaluation) · Persistent Semantic Entities in Tool-Augmented LLM Systems
 - [图搜索复杂度与隐式推理容量](../conferences/icml-2026/cards/4701-4800.md#wang26hf-evaluation) · Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models
 - [功能向量的路由与内容分解](../conferences/icml-2026/cards/4801-4900.md#wang26hp-evaluation) · How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning
+- [检索诱饵的序贯防御检测](../conferences/icml-2026/cards/4801-4900.md#wang26kg-evaluation) · MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots
 
 <a id="by-computer-vision"></a>
 
@@ -446,6 +447,7 @@
 - [百任务序列暴露正则塑性失效](../conferences/icml-2026/cards/4401-4500.md#tomilin26a-evaluation) · MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning
 - [跨输入可区分性诊断模板坍缩](../conferences/icml-2026/cards/4601-4700.md#wang26bn-evaluation) · RAGEN-2: Reasoning Collapse in Agentic RL
 - [可观测孪生分离记忆收益](../conferences/icml-2026/cards/4601-4700.md#wang26bx-evaluation) · Investigating Memory in Model-Free RL with POPGym Arcade
+- [多轮策略训练的序列mask诊断](../conferences/icml-2026/cards/4801-4900.md#wang26kv-evaluation) · ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning
 
 <a id="by-robotics"></a>
 

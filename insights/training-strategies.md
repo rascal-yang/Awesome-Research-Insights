@@ -323,6 +323,7 @@
 - [Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../conferences/icml-2026/cards/4601-4700.md#wang26u-training-strategies) · Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding
 - [参考视觉视野对齐作为课程和奖励](../conferences/icml-2026/cards/4701-4800.md#wang26gt-training-strategies) · Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment
 - [共享前缀的局部视频候选排名](../conferences/icml-2026/cards/4801-4900.md#wang26iu-training-strategies) · WorldCompass: Reinforcement Learning for Long-Horizon World Models
+- [联合提示训练保留原提示对照](../conferences/icml-2026/cards/4801-4900.md#wang26kl-training-strategies) · PromptRL: Prompt Matters in RL for Flow-Based Image Generation
 
 <a id="by-ml-foundations"></a>
 

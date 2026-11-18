@@ -316,6 +316,7 @@ Model-wide design and information flow.
 - [S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning](../../conferences/icml-2026/cards/4101-4200.md#shi26t-architecture) · 中文
 - [Adaptive Recurrent Message Passing for Test Time Computing on Graphs](../../conferences/icml-2026/cards/4201-4300.md#sun26e-architecture) · 中文
 - [Full-Spectrum Graph Neural Networks: Expressive and Scalable](../../conferences/icml-2026/cards/4501-4600.md#wang26m-architecture) · 中文
+- [Expressive Graph Neural Networks via Equivariant Use of Noise](../../conferences/icml-2026/cards/4801-4900.md#wang26kj-architecture) · 中文
 
 <a id="by-scientific-ml"></a>
 

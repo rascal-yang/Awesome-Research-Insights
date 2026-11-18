@@ -50,6 +50,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="wang26dp-loss-functions"></a>[Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dp)
 - <a id="wang26if-loss-functions"></a>[Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26if)
 - <a id="wang26jf-loss-functions"></a>[RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jf)
+- <a id="wang26ko-loss-functions"></a>[Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ko)
 
 <a id="by-optimization"></a>
 
@@ -280,6 +281,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="tomilin26a-evaluation"></a>[MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/4401-4500.md#paper-tomilin26a)
 - <a id="wang26bn-evaluation"></a>[RAGEN-2: Reasoning Collapse in Agentic RL](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bn)
 - <a id="wang26bx-evaluation"></a>[Investigating Memory in Model-Free RL with POPGym Arcade](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bx)
+- <a id="wang26kv-evaluation"></a>[ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kv)
 
 <a id="by-theory-statistics"></a>
 

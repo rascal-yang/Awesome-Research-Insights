@@ -625,6 +625,7 @@
 - [structure-aware-retrieval](../conferences/icml-2026/cards/4601-4700.md#wang26df-inference) · Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA
 - [语义决策空间指导视觉KV调度](../conferences/icml-2026/cards/4701-4800.md#wang26ej-inference) · Semantic Impact–Driven Visual Scheduling for Vision Language Models
 - [最优传输虚拟原型引导真实视觉token选取](../conferences/icml-2026/cards/4701-4800.md#wang26gz-inference) · Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation
+- [按层谱与模态密度分配token预算](../conferences/icml-2026/cards/4801-4900.md#wang26kd-inference) · OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models
 
 <a id="by-ml-foundations"></a>
 

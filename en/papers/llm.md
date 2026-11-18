@@ -252,6 +252,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26dr-optimization"></a>[CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dr)
 - <a id="wang26el-optimization"></a>[TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26el)
 - <a id="wang26ew-optimization"></a>[MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ew)
+- <a id="wang26ki-optimization"></a>[The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ki)
+- <a id="wang26kp-optimization"></a>[PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kp)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1314,6 +1316,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26gf-evaluation"></a>[Persistent Semantic Entities in Tool-Augmented LLM Systems](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gf)
 - <a id="wang26hf-evaluation"></a>[Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26hf)
 - <a id="wang26hp-evaluation"></a>[How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hp)
+- <a id="wang26kg-evaluation"></a>[MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kg)
 
 <a id="by-theory-statistics"></a>
 

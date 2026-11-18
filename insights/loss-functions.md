@@ -129,6 +129,7 @@
 - [distributional-error-weighting](../conferences/icml-2026/cards/4701-4800.md#wang26dp-loss-functions) · Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction
 - [持续时间排序的多尺度潜空间](../conferences/icml-2026/cards/4801-4900.md#wang26if-loss-functions) · Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning
 - [结果与过程一致性的评价器奖励](../conferences/icml-2026/cards/4801-4900.md#wang26jf-loss-functions) · RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System
+- [裁剪密度比的即时奖励塑形](../conferences/icml-2026/cards/4801-4900.md#wang26ko-loss-functions) · Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control
 
 <a id="by-robotics"></a>
 

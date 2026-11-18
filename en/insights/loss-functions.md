@@ -129,6 +129,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Reflect-then-Correct: Rebalancing Task Optimization for Generalizable Meta-Reinforcement Learning via Distributional Value Error Reduction](../../conferences/icml-2026/cards/4701-4800.md#wang26dp-loss-functions) · 中文
 - [Learning Multi-Timescale Abstractions for Hierarchical Combinatorial Planning](../../conferences/icml-2026/cards/4801-4900.md#wang26if-loss-functions) · 中文
 - [RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System](../../conferences/icml-2026/cards/4801-4900.md#wang26jf-loss-functions) · 中文
+- [Target-Driven Policy Optimization for Sequential Counterfactual Outcome Control](../../conferences/icml-2026/cards/4801-4900.md#wang26ko-loss-functions) · 中文
 
 <a id="by-robotics"></a>
 

@@ -1124,4 +1124,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wang26iq-theory-statistics"></a>[Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26iq)
 - <a id="wang26jk-theory-statistics"></a>[Variable Clustering via Distributionally Robust Nodewise Regression](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jk)
 - <a id="wang26jx-theory-statistics"></a>[$\mathbbR^2k$ is Theoretically Large Enough for Embedding-based Top-$k$ Retrieval](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jx)
+- <a id="wang26kf-theory-statistics"></a>[A Random Matrix Theory Perspective on the Consistency of Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kf)
+- <a id="wang26kk-theory-statistics"></a>[Partial Identification under High-Dimensional Potential Outcomes and Confounders via Optimal Transport](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kk)
 <!-- classification:end -->

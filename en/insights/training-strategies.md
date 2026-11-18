@@ -323,6 +323,7 @@ Training schedules, curricula, and task or stage composition.
 - [Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../../conferences/icml-2026/cards/4601-4700.md#wang26u-training-strategies) · 中文
 - [Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment](../../conferences/icml-2026/cards/4701-4800.md#wang26gt-training-strategies) · 中文
 - [WorldCompass: Reinforcement Learning for Long-Horizon World Models](../../conferences/icml-2026/cards/4801-4900.md#wang26iu-training-strategies) · 中文
+- [PromptRL: Prompt Matters in RL for Flow-Based Image Generation](../../conferences/icml-2026/cards/4801-4900.md#wang26kl-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

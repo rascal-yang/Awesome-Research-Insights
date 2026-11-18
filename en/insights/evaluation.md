@@ -336,6 +336,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Persistent Semantic Entities in Tool-Augmented LLM Systems](../../conferences/icml-2026/cards/4701-4800.md#wang26gf-evaluation) · 中文
 - [Finding the Minimal Parameter Budget for Implicit Reasoning: A Data Complexity Driven Scaling Law for Language Models](../../conferences/icml-2026/cards/4701-4800.md#wang26hf-evaluation) · 中文
 - [How Few-Shot Examples Add Up: A Causal Decomposition of Function Vectors in In-Context Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26hp-evaluation) · 中文
+- [MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots](../../conferences/icml-2026/cards/4801-4900.md#wang26kg-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -446,6 +447,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/4401-4500.md#tomilin26a-evaluation) · 中文
 - [RAGEN-2: Reasoning Collapse in Agentic RL](../../conferences/icml-2026/cards/4601-4700.md#wang26bn-evaluation) · 中文
 - [Investigating Memory in Model-Free RL with POPGym Arcade](../../conferences/icml-2026/cards/4601-4700.md#wang26bx-evaluation) · 中文
+- [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26kv-evaluation) · 中文
 
 <a id="by-robotics"></a>
 

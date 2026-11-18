@@ -582,6 +582,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions](../../conferences/icml-2026/cards/4801-4900.md#wang26iq-theory-statistics) · 中文
 - [Variable Clustering via Distributionally Robust Nodewise Regression](../../conferences/icml-2026/cards/4801-4900.md#wang26jk-theory-statistics) · 中文
 - [$\mathbbR^2k$ is Theoretically Large Enough for Embedding-based Top-$k$ Retrieval](../../conferences/icml-2026/cards/4801-4900.md#wang26jx-theory-statistics) · 中文
+- [A Random Matrix Theory Perspective on the Consistency of Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#wang26kf-theory-statistics) · 中文
+- [Partial Identification under High-Dimensional Potential Outcomes and Confounders via Optimal Transport](../../conferences/icml-2026/cards/4801-4900.md#wang26kk-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

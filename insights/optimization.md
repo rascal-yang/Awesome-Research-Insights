@@ -100,6 +100,8 @@
 - [soft-ternary-proxy](../conferences/icml-2026/cards/4701-4800.md#wang26dr-optimization) · CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs
 - [双分支四位子空间校准](../conferences/icml-2026/cards/4701-4800.md#wang26el-optimization) · TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization
 - [联合提示优化与过期分数刷新](../conferences/icml-2026/cards/4701-4800.md#wang26ew-optimization) · MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems
+- [连续编辑的后处理误差补偿](../conferences/icml-2026/cards/4801-4900.md#wang26ki-optimization) · The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models
+- [低秩矩阵切空间的私有更新](../conferences/icml-2026/cards/4801-4900.md#wang26kp-optimization) · PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA
 
 <a id="by-computer-vision"></a>
 
@@ -133,6 +135,7 @@
 - [部分几何能量场与梯度隔离](../conferences/icml-2026/cards/4201-4300.md#song26b-optimization) · EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors
 - [正交旋转的概念编辑](../conferences/icml-2026/cards/4301-4400.md#sun26ax-optimization) · Orthogonal Concept Erasure for Diffusion Models
 - [先解阈值再尾风险微调](../conferences/icml-2026/cards/4601-4700.md#wang26al-optimization) · Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning
+- [梯度熵与冲突软融合](../conferences/icml-2026/cards/4801-4900.md#wang26kh-optimization) · AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction
 
 <a id="by-nlp"></a>
 

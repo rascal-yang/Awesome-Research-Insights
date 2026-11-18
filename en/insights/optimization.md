@@ -100,6 +100,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](../../conferences/icml-2026/cards/4701-4800.md#wang26dr-optimization) · 中文
 - [TwinQuant: Learnable Subspace Decomposition for 4-Bit LLM Quantization](../../conferences/icml-2026/cards/4701-4800.md#wang26el-optimization) · 中文
 - [MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](../../conferences/icml-2026/cards/4701-4800.md#wang26ew-optimization) · 中文
+- [The Labyrinth and the Thread: Rethinking Regularizations in Sequential Knowledge Editing for Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26ki-optimization) · 中文
+- [PRISM: Gauge-Invariant Tangent-Space Differentially Private LoRA](../../conferences/icml-2026/cards/4801-4900.md#wang26kp-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -133,6 +135,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](../../conferences/icml-2026/cards/4201-4300.md#song26b-optimization) · 中文
 - [Orthogonal Concept Erasure for Diffusion Models](../../conferences/icml-2026/cards/4301-4400.md#sun26ax-optimization) · 中文
 - [Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#wang26al-optimization) · 中文
+- [AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction](../../conferences/icml-2026/cards/4801-4900.md#wang26kh-optimization) · 中文
 
 <a id="by-nlp"></a>
 

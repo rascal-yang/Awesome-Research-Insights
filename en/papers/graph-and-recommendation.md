@@ -39,6 +39,7 @@ Graph models, knowledge graphs, and recommender systems.
 - <a id="shi26t-architecture"></a>[S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning](../../conferences/icml-2026/cards/4101-4200.md#paper-shi26t)
 - <a id="sun26e-architecture"></a>[Adaptive Recurrent Message Passing for Test Time Computing on Graphs](../../conferences/icml-2026/cards/4201-4300.md#paper-sun26e)
 - <a id="wang26m-architecture"></a>[Full-Spectrum Graph Neural Networks: Expressive and Scalable](../../conferences/icml-2026/cards/4501-4600.md#paper-wang26m)
+- <a id="wang26kj-architecture"></a>[Expressive Graph Neural Networks via Equivariant Use of Noise](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kj)
 
 <a id="by-modules"></a>
 

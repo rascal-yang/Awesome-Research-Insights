@@ -251,6 +251,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26u-training-strategies"></a>[Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26u)
 - <a id="wang26gt-training-strategies"></a>[Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gt)
 - <a id="wang26iu-training-strategies"></a>[WorldCompass: Reinforcement Learning for Long-Horizon World Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26iu)
+- <a id="wang26kl-training-strategies"></a>[PromptRL: Prompt Matters in RL for Flow-Based Image Generation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kl)
 
 <a id="by-data-strategies"></a>
 
@@ -376,6 +377,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wang26df-inference"></a>[Beyond Single-View Indexing: Structure-Aware Multi-View Retrieval for Knowledge-Based VQA](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26df)
 - <a id="wang26ej-inference"></a>[Semantic Impact–Driven Visual Scheduling for Vision Language Models](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ej)
 - <a id="wang26gz-inference"></a>[Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gz)
+- <a id="wang26kd-inference"></a>[OmniFit: Bridging Modalities via Layer-Adaptive Token Compression for Omnimodal Large Language Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kd)
 
 <a id="by-representation-learning"></a>
 

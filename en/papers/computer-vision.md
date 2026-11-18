@@ -202,6 +202,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="song26b-optimization"></a>[EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors](../../conferences/icml-2026/cards/4201-4300.md#paper-song26b)
 - <a id="sun26ax-optimization"></a>[Orthogonal Concept Erasure for Diffusion Models](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ax)
 - <a id="wang26al-optimization"></a>[Efficient Tail-Aware Generative Optimization via Flow Model Fine-Tuning](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26al)
+- <a id="wang26kh-optimization"></a>[AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kh)
 
 <a id="by-reinforcement-learning"></a>
 
