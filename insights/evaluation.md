@@ -371,6 +371,7 @@
 - [后门组件稀疏但需要联合移除](../conferences/icml-2026/cards/5601-5700.md#yu26bw-evaluation) · Uncovering Hidden Triggers: Backdoor Attribution in Language Models
 - [分别追踪CoT控制能力与任务能力](../conferences/icml-2026/cards/5601-5700.md#yueh-han26a-evaluation) · Reasoning Models Struggle to Control their Chains of Thought
 - [用跨语境一致性辅助审计异常低能力](../conferences/icml-2026/cards/5601-5700.md#yulong26a-evaluation) · Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection
+- [分开度量推理动作模仿与问题分解收益](../conferences/icml-2026/cards/5701-5800.md#zeng26x-evaluation) · ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -605,6 +606,7 @@
 - [时间序列对齐应区分全局几何和局部邻域](../conferences/icml-2026/cards/5501-5600.md#yashwante26a-evaluation) · Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces
 - [用三路首token分布构造融合异常特征](../conferences/icml-2026/cards/5501-5600.md#yeon26a-evaluation) · Securing Multimodal AI through Internal Information Decomposition
 - [oracle视觉中间态分解生成与解读失败](../conferences/icml-2026/cards/5601-5700.md#zeller26a-evaluation) · MentisOculi: Revealing the Limits of Reasoning with Mental Imagery
+- [分离视觉检索预处理的oracle与agent差距](../conferences/icml-2026/cards/5701-5800.md#zeng26w-evaluation) · Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation
 
 <a id="by-ml-foundations"></a>
 

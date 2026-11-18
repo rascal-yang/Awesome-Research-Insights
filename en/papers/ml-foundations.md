@@ -147,6 +147,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="you26f-modules"></a>[Latent Laplace Diffusion for Irregular Multivariate Time Series](../../conferences/icml-2026/cards/5501-5600.md#paper-you26f)
 - <a id="yu26y-modules"></a>[Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26y)
 - <a id="yuan26e-modules"></a>[Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26e)
+- <a id="zeng26r-modules"></a>[CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26r)
 
 <a id="by-loss-functions"></a>
 
@@ -1274,4 +1275,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yvernes26a-theory-statistics"></a>[Unveiling the Structure of Do-Calculus Reasoning via Derivation Graphs](../../conferences/icml-2026/cards/5601-5700.md#paper-yvernes26a)
 - <a id="zadicario26a-theory-statistics"></a>[Differentially Private Submodular Maximization with a Knapsack Constraint](../../conferences/icml-2026/cards/5601-5700.md#paper-zadicario26a)
 - <a id="zaliaduonis26a-theory-statistics"></a>[The Loss Is Not Enough: Sampling Conditions and Inductive Bias in Contrastive Representation Learning](../../conferences/icml-2026/cards/5601-5700.md#paper-zaliaduonis26a)
+- <a id="zeng26v-theory-statistics"></a>[On Testing Conditional Mean Independence for Manifold-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26v)
 <!-- classification:end -->

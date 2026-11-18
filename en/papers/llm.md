@@ -479,6 +479,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yue26b-reinforcement-learning"></a>[Mem-T: Densifying Rewards for Long-Horizon Memory Agents](../../conferences/icml-2026/cards/5601-5700.md#paper-yue26b)
 - <a id="yuksekgonul26a-reinforcement-learning"></a>[Learning to Discover at Test Time](../../conferences/icml-2026/cards/5601-5700.md#paper-yuksekgonul26a)
 - <a id="zeng26i-reinforcement-learning"></a>[UCPO: Uncertainty-Aware Policy Optimization](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26i)
+- <a id="zeng26z-reinforcement-learning"></a>[Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26z)
 
 <a id="by-training-strategies"></a>
 
@@ -1084,6 +1085,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yu26bl-inference"></a>[Training-Free Hashing-Based Attention via Binary Principal Components](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bl)
 - <a id="yue26a-inference"></a>[Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention](../../conferences/icml-2026/cards/5601-5700.md#paper-yue26a)
 - <a id="zabounidis26a-inference"></a>[Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5601-5700.md#paper-zabounidis26a)
+- <a id="zeng26m-inference"></a>[Large Language Models Explore by Latent Distilling](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26m)
+- <a id="zhai26b-inference"></a>[CORE: Context-Robust Remasking for Diffusion Language Models](../../conferences/icml-2026/cards/5701-5800.md#paper-zhai26b)
 
 <a id="by-representation-learning"></a>
 
@@ -1470,6 +1473,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yu26bw-evaluation"></a>[Uncovering Hidden Triggers: Backdoor Attribution in Language Models](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bw)
 - <a id="yueh-han26a-evaluation"></a>[Reasoning Models Struggle to Control their Chains of Thought](../../conferences/icml-2026/cards/5601-5700.md#paper-yueh-han26a)
 - <a id="yulong26a-evaluation"></a>[Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection](../../conferences/icml-2026/cards/5601-5700.md#paper-yulong26a)
+- <a id="zeng26x-evaluation"></a>[ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26x)
 
 <a id="by-theory-statistics"></a>
 

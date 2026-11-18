@@ -253,6 +253,7 @@ Reusable components and local changes to model inputs or connections.
 - [Latent Laplace Diffusion for Irregular Multivariate Time Series](../../conferences/icml-2026/cards/5501-5600.md#you26f-modules) · 中文
 - [Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames](../../conferences/icml-2026/cards/5501-5600.md#yu26y-modules) · 中文
 - [Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers](../../conferences/icml-2026/cards/5601-5700.md#yuan26e-modules) · 中文
+- [CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer](../../conferences/icml-2026/cards/5701-5800.md#zeng26r-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

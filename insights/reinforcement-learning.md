@@ -200,6 +200,7 @@
 - [将检索结果信用回传到源记忆写操作](../conferences/icml-2026/cards/5601-5700.md#yue26b-reinforcement-learning) · Mem-T: Densifying Rewards for Long-Horizon Memory Agents
 - [为单题最优解训练risk-seeking策略并复用高潜力状态](../conferences/icml-2026/cards/5601-5700.md#yuksekgonul26a-reinforcement-learning) · Learning to Discover at Test Time
 - [确定回答与弃答的双通道优势](../conferences/icml-2026/cards/5701-5800.md#zeng26i-reinforcement-learning) · UCPO: Uncertainty-Aware Policy Optimization
+- [用双层leave-one-out均值收缩构造奖励基线](../conferences/icml-2026/cards/5701-5800.md#zeng26z-reinforcement-learning) · Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards
 
 <a id="by-computer-vision"></a>
 

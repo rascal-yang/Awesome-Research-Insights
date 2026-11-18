@@ -371,6 +371,7 @@
 - [结构与语义目标的参数路由](../conferences/icml-2026/cards/5301-5400.md#yang26ae-training-strategies) · MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality
 - [混合音频的随机双源离散目标](../conferences/icml-2026/cards/5401-5500.md#yang26cv-training-strategies) · SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations
 - [融合浅层特征时隔离skip梯度](../conferences/icml-2026/cards/5601-5700.md#yuan26n-training-strategies) · Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR
+- [按工具规划和作答阶段屏蔽不同视频上下文](../conferences/icml-2026/cards/5701-5800.md#zeng26y-training-strategies) · Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning
 
 <a id="by-ml-foundations"></a>
 

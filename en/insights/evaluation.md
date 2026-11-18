@@ -371,6 +371,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Uncovering Hidden Triggers: Backdoor Attribution in Language Models](../../conferences/icml-2026/cards/5601-5700.md#yu26bw-evaluation) · 中文
 - [Reasoning Models Struggle to Control their Chains of Thought](../../conferences/icml-2026/cards/5601-5700.md#yueh-han26a-evaluation) · 中文
 - [Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection](../../conferences/icml-2026/cards/5601-5700.md#yulong26a-evaluation) · 中文
+- [ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26x-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -605,6 +606,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](../../conferences/icml-2026/cards/5501-5600.md#yashwante26a-evaluation) · 中文
 - [Securing Multimodal AI through Internal Information Decomposition](../../conferences/icml-2026/cards/5501-5600.md#yeon26a-evaluation) · 中文
 - [MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](../../conferences/icml-2026/cards/5601-5700.md#zeller26a-evaluation) · 中文
+- [Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation](../../conferences/icml-2026/cards/5701-5800.md#zeng26w-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

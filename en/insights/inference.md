@@ -366,6 +366,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Training-Free Hashing-Based Attention via Binary Principal Components](../../conferences/icml-2026/cards/5601-5700.md#yu26bl-inference) · 中文
 - [Vegas: Self-Speculative Decoding with Verification-Guided Sparse Attention](../../conferences/icml-2026/cards/5601-5700.md#yue26a-inference) · 中文
 - [Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5601-5700.md#zabounidis26a-inference) · 中文
+- [Large Language Models Explore by Latent Distilling](../../conferences/icml-2026/cards/5701-5800.md#zeng26m-inference) · 中文
+- [CORE: Context-Robust Remasking for Diffusion Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhai26b-inference) · 中文
 
 <a id="by-computer-vision"></a>
 

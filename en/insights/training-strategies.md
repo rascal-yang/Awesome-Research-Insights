@@ -371,6 +371,7 @@ Training schedules, curricula, and task or stage composition.
 - [MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality](../../conferences/icml-2026/cards/5301-5400.md#yang26ae-training-strategies) · 中文
 - [SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations](../../conferences/icml-2026/cards/5401-5500.md#yang26cv-training-strategies) · 中文
 - [Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](../../conferences/icml-2026/cards/5601-5700.md#yuan26n-training-strategies) · 中文
+- [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26y-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

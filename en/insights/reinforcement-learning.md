@@ -200,6 +200,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Mem-T: Densifying Rewards for Long-Horizon Memory Agents](../../conferences/icml-2026/cards/5601-5700.md#yue26b-reinforcement-learning) · 中文
 - [Learning to Discover at Test Time](../../conferences/icml-2026/cards/5601-5700.md#yuksekgonul26a-reinforcement-learning) · 中文
 - [UCPO: Uncertainty-Aware Policy Optimization](../../conferences/icml-2026/cards/5701-5800.md#zeng26i-reinforcement-learning) · 中文
+- [Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/5701-5800.md#zeng26z-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

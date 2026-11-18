@@ -281,6 +281,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yang26ae-training-strategies"></a>[MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ae)
 - <a id="yang26cv-training-strategies"></a>[SPEAR: A Unified SSL Framework for Learning Speech and Audio Representations](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cv)
 - <a id="yuan26n-training-strategies"></a>[Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](../../conferences/icml-2026/cards/5601-5700.md#paper-yuan26n)
+- <a id="zeng26y-training-strategies"></a>[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26y)
 
 <a id="by-data-strategies"></a>
 
@@ -574,6 +575,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yashwante26a-evaluation"></a>[Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](../../conferences/icml-2026/cards/5501-5600.md#paper-yashwante26a)
 - <a id="yeon26a-evaluation"></a>[Securing Multimodal AI through Internal Information Decomposition](../../conferences/icml-2026/cards/5501-5600.md#paper-yeon26a)
 - <a id="zeller26a-evaluation"></a>[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](../../conferences/icml-2026/cards/5601-5700.md#paper-zeller26a)
+- <a id="zeng26w-evaluation"></a>[Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26w)
 
 <a id="by-theory-statistics"></a>
 
