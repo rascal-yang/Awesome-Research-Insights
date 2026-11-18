@@ -372,6 +372,7 @@
 - [分别追踪CoT控制能力与任务能力](../conferences/icml-2026/cards/5601-5700.md#yueh-han26a-evaluation) · Reasoning Models Struggle to Control their Chains of Thought
 - [用跨语境一致性辅助审计异常低能力](../conferences/icml-2026/cards/5601-5700.md#yulong26a-evaluation) · Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection
 - [分开度量推理动作模仿与问题分解收益](../conferences/icml-2026/cards/5701-5800.md#zeng26x-evaluation) · ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning
+- [记忆匹配后的近远迁移剖面](../conferences/icml-2026/cards/5701-5800.md#zhang26u-evaluation) · The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms
 
 <a id="by-computer-vision"></a>
 

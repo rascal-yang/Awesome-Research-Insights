@@ -202,6 +202,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [UCPO: Uncertainty-Aware Policy Optimization](../../conferences/icml-2026/cards/5701-5800.md#zeng26i-reinforcement-learning) · 中文
 - [Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](../../conferences/icml-2026/cards/5701-5800.md#zeng26z-reinforcement-learning) · 中文
 - [Simple Policy Gradients for Reasoning with Diffusion Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhan26c-reinforcement-learning) · 中文
+- [ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](../../conferences/icml-2026/cards/5701-5800.md#zhang26r-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

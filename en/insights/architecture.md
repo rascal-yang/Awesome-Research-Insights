@@ -316,6 +316,7 @@ Model-wide design and information flow.
 - [Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks](../../conferences/icml-2026/cards/5301-5400.md#yang26ag-architecture) · 中文
 - [Branching Diffusion for Point Processes in Time and Space](../../conferences/icml-2026/cards/5401-5500.md#yang26bl-architecture) · 中文
 - [Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](../../conferences/icml-2026/cards/5701-5800.md#zhang26d-architecture) · 中文
+- [Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations](../../conferences/icml-2026/cards/5701-5800.md#zhang26ab-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

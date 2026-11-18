@@ -182,6 +182,7 @@
 - <a id="yao26j-loss-functions"></a>[SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning](../conferences/icml-2026/cards/5401-5500.md#paper-yao26j)
 - <a id="yu26bc-loss-functions"></a>[Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bc)
 - <a id="yu26bq-loss-functions"></a>[MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bq)
+- <a id="zhang26t-loss-functions"></a>[REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26t)
 
 <a id="by-optimization"></a>
 
@@ -287,6 +288,7 @@
 - <a id="yang26bw-optimization"></a>[Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bw)
 - <a id="yu26ah-optimization"></a>[SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26ah)
 - <a id="yu26bs-optimization"></a>[ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bs)
+- <a id="zhang26y-optimization"></a>[LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26y)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -481,6 +483,7 @@
 - <a id="zeng26i-reinforcement-learning"></a>[UCPO: Uncertainty-Aware Policy Optimization](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26i)
 - <a id="zeng26z-reinforcement-learning"></a>[Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26z)
 - <a id="zhan26c-reinforcement-learning"></a>[Simple Policy Gradients for Reasoning with Diffusion Language Models](../conferences/icml-2026/cards/5701-5800.md#paper-zhan26c)
+- <a id="zhang26r-reinforcement-learning"></a>[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26r)
 
 <a id="by-training-strategies"></a>
 
@@ -1089,6 +1092,10 @@
 - <a id="zabounidis26a-inference"></a>[Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning](../conferences/icml-2026/cards/5601-5700.md#paper-zabounidis26a)
 - <a id="zeng26m-inference"></a>[Large Language Models Explore by Latent Distilling](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26m)
 - <a id="zhai26b-inference"></a>[CORE: Context-Robust Remasking for Diffusion Language Models](../conferences/icml-2026/cards/5701-5800.md#paper-zhai26b)
+- <a id="zhang26s-inference"></a>[MAPS: Memory-Aware Predictive Scheduling Framework for Large Language Model Serving](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26s)
+- <a id="zhang26ae-inference"></a>[The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ae)
+- <a id="zhang26ag-inference"></a>[Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ag)
+- <a id="zhang26ai-inference"></a>[CoMem: Context Management with A Decoupled Long-Context Model](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ai)
 
 <a id="by-representation-learning"></a>
 
@@ -1476,6 +1483,7 @@
 - <a id="yueh-han26a-evaluation"></a>[Reasoning Models Struggle to Control their Chains of Thought](../conferences/icml-2026/cards/5601-5700.md#paper-yueh-han26a)
 - <a id="yulong26a-evaluation"></a>[Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection](../conferences/icml-2026/cards/5601-5700.md#paper-yulong26a)
 - <a id="zeng26x-evaluation"></a>[ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26x)
+- <a id="zhang26u-evaluation"></a>[The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26u)
 
 <a id="by-theory-statistics"></a>
 

@@ -368,6 +368,10 @@
 - [预测不同剩余token预算的未来成功率](../conferences/icml-2026/cards/5601-5700.md#zabounidis26a-inference) · Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning
 - [用在线浅到深预测器的logit差促进探索](../conferences/icml-2026/cards/5701-5800.md#zeng26m-inference) · Large Language Models Explore by Latent Distilling
 - [用删减上下文后的token稳定性选择修订](../conferences/icml-2026/cards/5701-5800.md#zhai26b-inference) · CORE: Context-Robust Remasking for Diffusion Language Models
+- [长度上界驱动的分离式服务调度](../conferences/icml-2026/cards/5701-5800.md#zhang26s-inference) · MAPS: Memory-Aware Predictive Scheduling Framework for Large Language Model Serving
+- [隐藏态范数引导的选择性计算](../conferences/icml-2026/cards/5701-5800.md#zhang26ae-inference) · The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models
+- [跨TP一致的分块归约树](../conferences/icml-2026/cards/5701-5800.md#zhang26ag-inference) · Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch
+- [异步迟到摘要与KV重编码预算](../conferences/icml-2026/cards/5701-5800.md#zhang26ai-inference) · CoMem: Context Management with A Decoupled Long-Context Model
 
 <a id="by-computer-vision"></a>
 
@@ -501,6 +505,8 @@
 - [多局部原型与逐点残差漂移跟踪](../conferences/icml-2026/cards/5501-5600.md#yi26e-inference) · Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning
 - [首步深层变化定位跨轮缓存区域](../conferences/icml-2026/cards/5501-5600.md#yu26e-inference) · CacheEdit: Efficient Multi-round Image Editing via Adaptive Token-wise Reuse.
 - [以局部条件mode替代均值完成逆问题](../conferences/icml-2026/cards/5701-5800.md#zhang26e-inference) · Local MAP Sampling for Diffusion Models
+- [双向motion残差的投影融合](../conferences/icml-2026/cards/5701-5800.md#zhang26z-inference) · Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening
+- [主体条件插值与IoU反馈注意力](../conferences/icml-2026/cards/5701-5800.md#zhang26ac-inference) · Comp-Attn: Present-and-Align Attention for Compositional Video Generation
 
 <a id="by-nlp"></a>
 

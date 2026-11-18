@@ -372,6 +372,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Reasoning Models Struggle to Control their Chains of Thought](../../conferences/icml-2026/cards/5601-5700.md#yueh-han26a-evaluation) · 中文
 - [Same Question, Different Lies: Cross-Context Consistency (C$^3$) for Black-Box Sandbagging Detection](../../conferences/icml-2026/cards/5601-5700.md#yulong26a-evaluation) · 中文
 - [ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26x-evaluation) · 中文
+- [The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms](../../conferences/icml-2026/cards/5701-5800.md#zhang26u-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 

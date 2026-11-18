@@ -649,6 +649,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Decomposition-Based Modular Conformal Prediction for Two-Stage Modeling](../../conferences/icml-2026/cards/5701-5800.md#zhang26a-theory-statistics) · 中文
 - [Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts](../../conferences/icml-2026/cards/5701-5800.md#zhang26g-theory-statistics) · 中文
 - [Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent](../../conferences/icml-2026/cards/5701-5800.md#zhang26i-theory-statistics) · 中文
+- [Dimension-Independent Convergence of Underdamped Langevin Monte Carlo in KL Divergence](../../conferences/icml-2026/cards/5701-5800.md#zhang26ad-theory-statistics) · 中文
+- [Benign Overfitting in Adversarial Training for Vision Transformers](../../conferences/icml-2026/cards/5701-5800.md#zhang26af-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -67,6 +67,7 @@
 - [只惩罚正确推理的高概率窗口](../conferences/icml-2026/cards/5401-5500.md#yao26j-loss-functions) · SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning
 - [按目标rank相对预测分布rank重权SFT](../conferences/icml-2026/cards/5601-5700.md#yu26bc-loss-functions) · Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning
 - [敏感度加权的任务必要性打分](../conferences/icml-2026/cards/5601-5700.md#yu26bq-loss-functions) · MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization
+- [数值judge的策略相关回归奖励](../conferences/icml-2026/cards/5701-5800.md#zhang26t-loss-functions) · REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge
 
 <a id="by-computer-vision"></a>
 

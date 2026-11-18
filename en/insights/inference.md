@@ -368,6 +368,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Re-FORC: Adaptive Reward Prediction for Efficient Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5601-5700.md#zabounidis26a-inference) · 中文
 - [Large Language Models Explore by Latent Distilling](../../conferences/icml-2026/cards/5701-5800.md#zeng26m-inference) · 中文
 - [CORE: Context-Robust Remasking for Diffusion Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhai26b-inference) · 中文
+- [MAPS: Memory-Aware Predictive Scheduling Framework for Large Language Model Serving](../../conferences/icml-2026/cards/5701-5800.md#zhang26s-inference) · 中文
+- [The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26ae-inference) · 中文
+- [Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch](../../conferences/icml-2026/cards/5701-5800.md#zhang26ag-inference) · 中文
+- [CoMem: Context Management with A Decoupled Long-Context Model](../../conferences/icml-2026/cards/5701-5800.md#zhang26ai-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -501,6 +505,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning](../../conferences/icml-2026/cards/5501-5600.md#yi26e-inference) · 中文
 - [CacheEdit: Efficient Multi-round Image Editing via Adaptive Token-wise Reuse.](../../conferences/icml-2026/cards/5501-5600.md#yu26e-inference) · 中文
 - [Local MAP Sampling for Diffusion Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26e-inference) · 中文
+- [Motion-Residual Conflict-Aware Time Reversal for Generative Inbetweening](../../conferences/icml-2026/cards/5701-5800.md#zhang26z-inference) · 中文
+- [Comp-Attn: Present-and-Align Attention for Compositional Video Generation](../../conferences/icml-2026/cards/5701-5800.md#zhang26ac-inference) · 中文
 
 <a id="by-nlp"></a>
 

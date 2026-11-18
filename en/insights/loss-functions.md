@@ -67,6 +67,7 @@ Objectives, auxiliary supervision, and regularization.
 - [SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning](../../conferences/icml-2026/cards/5401-5500.md#yao26j-loss-functions) · 中文
 - [Probability-Entropy Calibration: An Elastic Indicator for Adaptive Fine-tuning](../../conferences/icml-2026/cards/5601-5700.md#yu26bc-loss-functions) · 中文
 - [MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization](../../conferences/icml-2026/cards/5601-5700.md#yu26bq-loss-functions) · 中文
+- [REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge](../../conferences/icml-2026/cards/5701-5800.md#zhang26t-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 

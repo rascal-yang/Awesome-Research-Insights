@@ -202,6 +202,7 @@
 - [确定回答与弃答的双通道优势](../conferences/icml-2026/cards/5701-5800.md#zeng26i-reinforcement-learning) · UCPO: Uncertainty-Aware Policy Optimization
 - [用双层leave-one-out均值收缩构造奖励基线](../conferences/icml-2026/cards/5701-5800.md#zeng26z-reinforcement-learning) · Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards
 - [按去噪转移抽样估计扩散策略梯度](../conferences/icml-2026/cards/5701-5800.md#zhan26c-reinforcement-learning) · Simple Policy Gradients for Reasoning with Diffusion Language Models
+- [anchor种子淘汰赛的组内优势](../conferences/icml-2026/cards/5701-5800.md#zhang26r-reinforcement-learning) · ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking
 
 <a id="by-computer-vision"></a>
 

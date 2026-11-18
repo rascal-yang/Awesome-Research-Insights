@@ -649,6 +649,8 @@
 - [按两阶段残差分别校准区间](../conferences/icml-2026/cards/5701-5800.md#zhang26a-theory-statistics) · Decomposition-Based Modular Conformal Prediction for Two-Stage Modeling
 - [用纠偏伪标签缩短在线风险报警](../conferences/icml-2026/cards/5701-5800.md#zhang26g-theory-statistics) · Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts
 - [用softmax归一化解释looped logistic ICL](../conferences/icml-2026/cards/5701-5800.md#zhang26i-theory-statistics) · Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent
+- [Hessian迹控制的欠阻尼采样误差](../conferences/icml-2026/cards/5701-5800.md#zhang26ad-theory-statistics) · Dimension-Independent Convergence of Underdamped Langevin Monte Carlo in KL Divergence
+- [扰动尺度改变注意力学习的良性过拟合条件](../conferences/icml-2026/cards/5701-5800.md#zhang26af-theory-statistics) · Benign Overfitting in Adversarial Training for Vision Transformers
 
 <a id="by-graph-and-recommendation"></a>
 

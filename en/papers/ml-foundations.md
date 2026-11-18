@@ -85,6 +85,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26ag-architecture"></a>[Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ag)
 - <a id="yang26bl-architecture"></a>[Branching Diffusion for Point Processes in Time and Space](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bl)
 - <a id="zhang26d-architecture"></a>[Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26d)
+- <a id="zhang26ab-architecture"></a>[Diff-MN: Diffusion Parameterized MoE-NCDE for Continuous Time Series Generation with Irregular Observations](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ab)
 
 <a id="by-modules"></a>
 
@@ -483,6 +484,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="ye26l-optimization"></a>[FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26l)
 - <a id="yin26j-optimization"></a>[Controlled Collaboration Geometry for Personalized Federated Learning](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26j)
 - <a id="zeng26a-optimization"></a>[Rethinking Neural Network Learning Rates: A Stackelberg Perspective](../../conferences/icml-2026/cards/5601-5700.md#paper-zeng26a)
+- <a id="zhang26w-optimization"></a>[Rethinking Parameter Sharing as Graph Coloring for Structured Compression](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26w)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1280,4 +1282,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26a-theory-statistics"></a>[Decomposition-Based Modular Conformal Prediction for Two-Stage Modeling](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26a)
 - <a id="zhang26g-theory-statistics"></a>[Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26g)
 - <a id="zhang26i-theory-statistics"></a>[Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26i)
+- <a id="zhang26ad-theory-statistics"></a>[Dimension-Independent Convergence of Underdamped Langevin Monte Carlo in KL Divergence](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ad)
+- <a id="zhang26af-theory-statistics"></a>[Benign Overfitting in Adversarial Training for Vision Transformers](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26af)
 <!-- classification:end -->

@@ -113,6 +113,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control](../../conferences/icml-2026/cards/5401-5500.md#yang26bw-optimization) · 中文
 - [SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26ah-optimization) · 中文
 - [ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression](../../conferences/icml-2026/cards/5601-5700.md#yu26bs-optimization) · 中文
+- [LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis](../../conferences/icml-2026/cards/5701-5800.md#zhang26y-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -464,6 +465,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU](../../conferences/icml-2026/cards/5501-5600.md#ye26l-optimization) · 中文
 - [Controlled Collaboration Geometry for Personalized Federated Learning](../../conferences/icml-2026/cards/5501-5600.md#yin26j-optimization) · 中文
 - [Rethinking Neural Network Learning Rates: A Stackelberg Perspective](../../conferences/icml-2026/cards/5601-5700.md#zeng26a-optimization) · 中文
+- [Rethinking Parameter Sharing as Graph Coloring for Structured Compression](../../conferences/icml-2026/cards/5701-5800.md#zhang26w-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

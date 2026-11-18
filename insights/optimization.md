@@ -113,6 +113,7 @@
 - [线性probe选子空间的偏好SAM](../conferences/icml-2026/cards/5401-5500.md#yang26bw-optimization) · Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control
 - [扩宽时只重置新通道状态并独立重热身](../conferences/icml-2026/cards/5601-5700.md#yu26ah-optimization) · SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning
 - [为adapter塑形的投影量化](../conferences/icml-2026/cards/5601-5700.md#yu26bs-optimization) · ProjQ: Project-and-Quantize for Adapter-Aware LLM Compression
+- [Fisher偏差方差折衷的LoRA初始子空间](../conferences/icml-2026/cards/5701-5800.md#zhang26y-optimization) · LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis
 
 <a id="by-computer-vision"></a>
 
@@ -464,6 +465,7 @@
 - [把Sinkhorn归一化映射到流式注意力内核](../conferences/icml-2026/cards/5501-5600.md#ye26l-optimization) · FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU
 - [固定亲和模板与可逆Markov协作投影](../conferences/icml-2026/cards/5501-5600.md#yin26j-optimization) · Controlled Collaboration Geometry for Personalized Federated Learning
 - [强凸输出头的快慢学习率条件](../conferences/icml-2026/cards/5601-5700.md#zeng26a-optimization) · Rethinking Neural Network Learning Rates: A Stackelberg Perspective
+- [低曲率约束的跨层共享基选择](../conferences/icml-2026/cards/5701-5800.md#zhang26w-optimization) · Rethinking Parameter Sharing as Graph Coloring for Structured Compression
 
 <a id="by-graph-and-recommendation"></a>
 
