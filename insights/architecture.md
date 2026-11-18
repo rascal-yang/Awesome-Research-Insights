@@ -522,5 +522,8 @@
 - [PolyVision: Conditional Visual Scaling Via Dynamic Expert Routing For Vision-Centric MLLMs](../conferences/neurips-2026/cards-0009.md#paper-151361)
 - [POST: Progressive Object-Slot Tokenization for Multimodal Large Language Models](../conferences/neurips-2026/cards-0009.md#paper-153877)
 - [Predicting What Changes: Causal Delta World Models for Risk-Aware LLM Agent Planning](../conferences/neurips-2026/cards-0009.md#paper-154820)
+- [Probabilistic Recursive Reasoning](../conferences/neurips-2026/cards-0010.md#paper-151067)
+- [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](../conferences/neurips-2026/cards-0010.md#paper-149479)
+- [Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks](../conferences/neurips-2026/cards-0010.md#paper-153925)
 
 <!-- conference-classification:end -->

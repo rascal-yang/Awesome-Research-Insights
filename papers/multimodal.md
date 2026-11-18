@@ -841,5 +841,18 @@
 - [Post-Training Quantization with Gradient-Projected Fisher Approximation for Vision Transformers](../conferences/neurips-2026/cards-0009.md#paper-151584)
 - [Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement](../conferences/neurips-2026/cards-0009.md#paper-154181)
 - [Pretext Reasoning: Scaling the Building Blocks of Interleaved Multimodal Reasoning](../conferences/neurips-2026/cards-0009.md#paper-148179)
+- [Principia: Relational Physics Tests for Video Models](../conferences/neurips-2026/cards-0010.md#paper-139457)
+- [PRISM: A Benchmark for Programmatic Spatial-Temporal Reasoning](../conferences/neurips-2026/cards-0010.md#paper-139319)
+- [PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection](../conferences/neurips-2026/cards-0010.md#paper-139756)
+- [PrivateSeal: Low-Sensitivity Latent Directions for Diffusion-Resilient User-Specific Watermarking](../conferences/neurips-2026/cards-0010.md#paper-154676)
+- [Probability-Conserving Flow Guidance](../conferences/neurips-2026/cards-0010.md#paper-155102)
+- [Probe-Guided Gradient Balancing for Multimodal Learning](../conferences/neurips-2026/cards-0010.md#paper-149095)
+- [Probing Visual Planning in Image Editing Models](../conferences/neurips-2026/cards-0010.md#paper-154346)
+- [ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder](../conferences/neurips-2026/cards-0010.md#paper-151998)
+- [ProcObject-10K: Benchmarking Object-Centric Procedural Understanding in Instructional Videos](../conferences/neurips-2026/cards-0010.md#paper-139834)
+- [ProGraf: Profile-Guided Planning for Step-by-Step Generation of Structured Non-Natural Images](../conferences/neurips-2026/cards-0010.md#paper-155115)
+- [ProPolar: Progressive Polar Decomposition for  Implicit Neural Representations](../conferences/neurips-2026/cards-0010.md#paper-148388)
+- [Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation](../conferences/neurips-2026/cards-0010.md#paper-154132)
+- [ProQuant: Progressive Quantization-aware Training for Edge MLLMs](../conferences/neurips-2026/cards-0010.md#paper-148767)
 
 <!-- conference-classification:end -->

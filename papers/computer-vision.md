@@ -1069,5 +1069,9 @@
 - [Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement](../conferences/neurips-2026/cards-0009.md#paper-154608)
 - [PosePlaner: Denoising Any Feedforward Pose Predictor from Pairwise Planar Geometry](../conferences/neurips-2026/cards-0009.md#paper-148270)
 - [Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation](../conferences/neurips-2026/cards-0009.md#paper-139254)
+- [Prior-Anchored Local Statistical Representation Rectification for Low-Light Image Enhancement](../conferences/neurips-2026/cards-0010.md#paper-150834)
+- [Prior as Geometry, Not Generator: Weak-Diffusion Test-Time Reconstruction for Dynamic MRI](../conferences/neurips-2026/cards-0010.md#paper-152230)
+- [Progressive Signal Calibration for Medical Image Segmentation: Diagnosing and Correcting Structural Misalignment in Training Signals](../conferences/neurips-2026/cards-0010.md#paper-150045)
+- [ProMo3D: Probing Motion Cues in Frozen 3D Foundation Models](../conferences/neurips-2026/cards-0010.md#paper-151302)
 
 <!-- conference-classification:end -->

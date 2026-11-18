@@ -790,5 +790,9 @@
 - [PoSafeNet: Structured Safety Learning via Compositional Projection](../conferences/neurips-2026/cards-0009.md#paper-155227)
 - [Pose6DAug: Physically Plausible Multi-View Object Swapping for Robot Data Augmentation](../conferences/neurips-2026/cards-0009.md#paper-155020)
 - [Predictive but Not Plannable: RC-aux for Latent World Models](../conferences/neurips-2026/cards-0009.md#paper-151013)
+- [PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-148893)
+- [PRISM: Primitive Routing via In-context Skill Mixing for Lifelong VLA](../conferences/neurips-2026/cards-0010.md#paper-154388)
+- [PRISM: Programming Interactive Scenes from Monocular Images for Embodied Simulation](../conferences/neurips-2026/cards-0010.md#paper-153153)
+- [Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](../conferences/neurips-2026/cards-0010.md#paper-153423)
 
 <!-- conference-classification:end -->

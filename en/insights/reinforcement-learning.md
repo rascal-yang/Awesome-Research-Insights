@@ -631,5 +631,10 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization](../../conferences/neurips-2026/cards-0009.md#paper-149722)
 - [Preserving Exploration for LLM Reasoning via Mean Order-Statistic Alignment](../../conferences/neurips-2026/cards-0009.md#paper-154128)
 - [Prevailing Bisimulation Metric Learning Is Biased: Implicit Regularization and Its Remedy](../../conferences/neurips-2026/cards-0009.md#paper-150570)
+- [Primal Generation, Dual Judgment: Self-Training from Test-Time Scaling](../../conferences/neurips-2026/cards-0009.md#paper-152535)
+- [Principled Policy Optimization for LLMs via Self-Normalized Importance Sampling](../../conferences/neurips-2026/cards-0010.md#paper-152868)
+- [PRISM:Disentangling Preference Distributions for Generative Ranking](../../conferences/neurips-2026/cards-0010.md#paper-153862)
+- [Prompt-Driven Exploration](../../conferences/neurips-2026/cards-0010.md#paper-150317)
+- [Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction–Reality Gaps](../../conferences/neurips-2026/cards-0010.md#paper-152351)
 
 <!-- conference-classification:end -->

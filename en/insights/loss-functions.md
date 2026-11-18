@@ -381,5 +381,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Physics-Informed Optimal Control by Control-Only Supervision with Error Guarantees on Value and Policy](../../conferences/neurips-2026/cards-0009.md#paper-154719)
 - [PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion](../../conferences/neurips-2026/cards-0009.md#paper-153886)
 - [Predictive but Not Plannable: RC-aux for Latent World Models](../../conferences/neurips-2026/cards-0009.md#paper-151013)
+- [PRIME: Poincaré return induced measure for learning partially observed dynamical systems](../../conferences/neurips-2026/cards-0009.md#paper-154522)
+- [Progressive Signal Calibration for Medical Image Segmentation: Diagnosing and Correcting Structural Misalignment in Training Signals](../../conferences/neurips-2026/cards-0010.md#paper-150045)
 
 <!-- conference-classification:end -->

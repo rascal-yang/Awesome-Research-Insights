@@ -1104,5 +1104,12 @@
 - [Practical Non-Stationary Graph Gaussian Processes](../../conferences/neurips-2026/cards-0009.md#paper-150089)
 - [Predicting Only from Selected Evidence: A Tempered Product-of-Experts Bottleneck for Auditable EEG Diagnosis](../../conferences/neurips-2026/cards-0009.md#paper-150685)
 - [PreFT: Prefill-only finetuning for inference efficiency](../../conferences/neurips-2026/cards-0009.md#paper-151570)
+- [Prior as Geometry, Not Generator: Weak-Diffusion Test-Time Reconstruction for Dynamic MRI](../../conferences/neurips-2026/cards-0010.md#paper-152230)
+- [PrismFlow: Residual Dynamics for Flow Matching in Time-Series Generation](../../conferences/neurips-2026/cards-0010.md#paper-152192)
+- [ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder](../../conferences/neurips-2026/cards-0010.md#paper-151998)
+- [ProCTI: Prototype-Refined Global Conditioning for Diffusion-Based Time Series Imputation](../../conferences/neurips-2026/cards-0010.md#paper-149404)
+- [ProEdit: Inversion-based Editing From Prompts Done Right](../../conferences/neurips-2026/cards-0010.md#paper-148302)
+- [PRO: Enabling Precise and Robust Text Watermark for Open-Source LLMs](../../conferences/neurips-2026/cards-0010.md#paper-152540)
+- [ProQuant: Progressive Quantization-aware Training for Edge MLLMs](../../conferences/neurips-2026/cards-0010.md#paper-148767)
 
 <!-- conference-classification:end -->

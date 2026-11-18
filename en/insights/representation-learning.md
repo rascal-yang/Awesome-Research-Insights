@@ -575,5 +575,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators](../../conferences/neurips-2026/cards-0009.md#paper-153208)
 - [PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition](../../conferences/neurips-2026/cards-0009.md#paper-154017)
 - [Positional Encoding and Prompt-Order Sensitivity in In-Context Learning](../../conferences/neurips-2026/cards-0009.md#paper-151605)
+- [Prior-Anchored Local Statistical Representation Rectification for Low-Light Image Enhancement](../../conferences/neurips-2026/cards-0010.md#paper-150834)
+- [PRISM: Programming Interactive Scenes from Monocular Images for Embodied Simulation](../../conferences/neurips-2026/cards-0010.md#paper-153153)
 
 <!-- conference-classification:end -->

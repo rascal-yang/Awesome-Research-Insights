@@ -722,5 +722,11 @@
 - [PhysGuard: Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates](../conferences/neurips-2026/cards-0009.md#paper-148249)
 - [PoSafeNet: Structured Safety Learning via Compositional Projection](../conferences/neurips-2026/cards-0009.md#paper-155227)
 - [Preconditioned Flow Matching](../conferences/neurips-2026/cards-0009.md#paper-153969)
+- [Primal-Dual Representation Learning for Low-Rank Constrained MDPs](../conferences/neurips-2026/cards-0009.md#paper-151600)
+- [Principled Design of Diffusion-based Optimizers for Inverse Problems](../conferences/neurips-2026/cards-0010.md#paper-154746)
+- [PRISM: Asymmetric Precision-Recall Optimization for Million-Scale Root Cause Analysis](../conferences/neurips-2026/cards-0010.md#paper-151138)
+- [PRISM: Principal Subspace Alignment for Parameter-Efficient Fine-Tuning](../conferences/neurips-2026/cards-0010.md#paper-153318)
+- [Problem-Dependent Dynamic Regret over a Predictor Class with One-Gradient Feedback](../conferences/neurips-2026/cards-0010.md#paper-148180)
+- [ProCARE: Real-World Study Automation via Profile-Grounded Evidence Contracts](../conferences/neurips-2026/cards-0010.md#paper-149562)
 
 <!-- conference-classification:end -->

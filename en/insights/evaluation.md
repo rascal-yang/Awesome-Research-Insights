@@ -1581,5 +1581,15 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Predictive Geometry of Hidden Trajectories in Transformers](../../conferences/neurips-2026/cards-0009.md#paper-155827)
 - [Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success](../../conferences/neurips-2026/cards-0009.md#paper-139170)
 - [Pretraining Data Statistics Shape the Phases of Learning Entity Comparison in Language Models](../../conferences/neurips-2026/cards-0009.md#paper-151759)
+- [Principia: Relational Physics Tests for Video Models](../../conferences/neurips-2026/cards-0010.md#paper-139457)
+- [PRISM: A Benchmark for Programmatic Spatial-Temporal Reasoning](../../conferences/neurips-2026/cards-0010.md#paper-139319)
+- [PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error Detection](../../conferences/neurips-2026/cards-0010.md#paper-139756)
+- [ProactBench: Beyond What The User Asked For](../../conferences/neurips-2026/cards-0010.md#paper-139070)
+- [Probing for Representation Manifolds in Superposition](../../conferences/neurips-2026/cards-0010.md#paper-151114)
+- [Probing Persona-Dependent Preferences in Language Models](../../conferences/neurips-2026/cards-0010.md#paper-152444)
+- [Probing the Trajectories of Reasoning Traces in Large Language Models](../../conferences/neurips-2026/cards-0010.md#paper-139405)
+- [ProcObject-10K: Benchmarking Object-Centric Procedural Understanding in Instructional Videos](../../conferences/neurips-2026/cards-0010.md#paper-139834)
+- [ProMo3D: Probing Motion Cues in Frozen 3D Foundation Models](../../conferences/neurips-2026/cards-0010.md#paper-151302)
+- [Proper Scoring Rules for Agentic Uncertainty Quantification](../../conferences/neurips-2026/cards-0010.md#paper-155086)
 
 <!-- conference-classification:end -->

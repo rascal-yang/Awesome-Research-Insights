@@ -363,5 +363,6 @@
 - [Pixels to Tokens: Token Space Efficient Active Learning for Low-Budget Semantic Segmentation](../conferences/neurips-2026/cards-0009.md#paper-148535)
 - [Population-Aligned Persona Generation for LLM-based Social Simulation](../conferences/neurips-2026/cards-0009.md#paper-149049)
 - [Pose6DAug: Physically Plausible Multi-View Object Swapping for Robot Data Augmentation](../conferences/neurips-2026/cards-0009.md#paper-155020)
+- [PRIME: A Modular Approach for Private Synthetic Data](../conferences/neurips-2026/cards-0009.md#paper-153567)
 
 <!-- conference-classification:end -->

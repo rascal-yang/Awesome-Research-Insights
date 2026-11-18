@@ -651,5 +651,8 @@
 - [Policy Optimization in Hybrid Discrete-Continuous Action Spaces via Mixed Gradients](../conferences/neurips-2026/cards-0009.md#paper-151120)
 - [Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization](../conferences/neurips-2026/cards-0009.md#paper-149722)
 - [Prevailing Bisimulation Metric Learning Is Biased: Implicit Regularization and Its Remedy](../conferences/neurips-2026/cards-0009.md#paper-150570)
+- [Primal-Dual Representation Learning for Low-Rank Constrained MDPs](../conferences/neurips-2026/cards-0009.md#paper-151600)
+- [Prompt-Driven Exploration](../conferences/neurips-2026/cards-0010.md#paper-150317)
+- [Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction–Reality Gaps](../conferences/neurips-2026/cards-0010.md#paper-152351)
 
 <!-- conference-classification:end -->

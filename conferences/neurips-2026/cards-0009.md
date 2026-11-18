@@ -8836,3 +8836,78 @@
 - **适用条件 / 局限** · 需要基座分布，偏低支持的必要知识如何处理需核验
 
 **可复用机制** · 把数据加权标准固定成外生分数，与在线难度策略做匹配对照
+
+<a id="paper-151600"></a>
+
+## Primal-Dual Representation Learning for Low-Rank Constrained MDPs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151600) · [作者来源](https://openreview.net/forum?id=ZKslJI2cOt)
+
+- **问题 / 瓶颈** · 低秩连续 CMDP 需要在学习特征时控制违规。
+- **核心创新 / 方法** · 衰减探索和最大似然估计特征，以不确定性奖励做拉格朗日规划，硬约束用保守证书。
+- **Baseline** · 区分软累计和硬累计约束。
+- **Benchmark** · 理论分析回报及违规界。
+- **关键结果 / 消融** · 回报策略界约为根号 K，计探索总体样本界约 K 的 3/4 次方。
+- **适用条件 / 局限** · 依赖低秩与证书条件。
+
+**可复用机制** · 用同一特征置信界把探索、回报和安全验证拆成可审计环节。
+
+<a id="paper-152535"></a>
+
+## Primal Generation, Dual Judgment: Self-Training from Test-Time Scaling
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152535) · [作者来源](https://openreview.net/forum?id=SQVg5yUdpq)
+
+- **问题 / 瓶颈** · 单候选的执行反馈稀疏。
+- **核心创新 / 方法** · 只保留成功与失败兼具的组，用 GRPO 训练模型区分候选。
+- **Baseline** · 原始模型的 Best-of-4。
+- **Benchmark** · LiveCodeBench，两个家族、五个 4B 至 30B 模型。
+- **关键结果 / 消融** · Best-of-4 一致改善。
+- **适用条件 / 局限** · 依赖可信的可执行验证与正负并存采样。
+
+**可复用机制** · 训练候选评判器也可间接提高候选生成。
+
+<a id="paper-153567"></a>
+
+## PRIME: A Modular Approach for Private Synthetic Data
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153567) · [作者来源](https://openreview.net/forum?id=KQh9ulA7J7)
+
+- **问题 / 瓶颈** · 高树宽使图模型合成不可计算。
+- **核心创新 / 方法** · 把合成限制在 K 个候选支持点，凸优化其权重匹配测量。
+- **Baseline** · PrivatePGM，接入 ResidualPlanner 或 AIM+GReM。
+- **Benchmark** · 差分隐私表格合成，比较测量误差和稠密查询可行性。
+- **关键结果 / 消融** · 每迭代 O(K×测量数)；相同测量下误差相近。
+- **适用条件 / 局限** · 覆盖欠佳的支持集限制效果；支持构造须遵守隐私约束。
+
+**可复用机制** · 把隐私测量与后端生成解耦，用可审计支持集控制复杂度。
+
+<a id="paper-154522"></a>
+
+## PRIME: Poincaré return induced measure for learning partially observed dynamical systems
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154522) · [作者来源](https://openreview.net/forum?id=CzBDTAXvts)
+
+- **问题 / 瓶颈** · 逐点 MSE 诱导收缩，静态不变分布缺时序。
+- **核心创新 / 方法** · 对回归块的诱导返回映射匹配经验图测度。
+- **Baseline** · 逐点 MSE 和不变测度匹配。
+- **Benchmark** · 部分观测 Lorenz63、Kuramoto–Sivashinsky 及圆柱绕流。
+- **关键结果 / 消融** · 缓解拓扑坍缩，改善时序和几何或频谱。
+- **适用条件 / 局限** · 需要可估计复现事件。
+
+**可复用机制** · 用重复进入局部区域的转移约束替代不稳定的精确轨迹配对。
+
+<a id="paper-150891"></a>
+
+## PRIM: Meta-Learned Bayesian Root Cause Analysis
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150891) · [作者来源](https://openreview.net/forum?id=edcYZi5wbN)
+
+- **问题 / 瓶颈** · 测试时结构未知，重新拟合昂贵。
+- **核心创新 / 方法** · 从合成因果模型先验训练联合看正常和异常数据的 Transformer。
+- **Baseline** · 已知图和未知图 RCA 方法。
+- **Benchmark** · 合成基准、PetShop、CausRCA。
+- **关键结果 / 消融** · 最多 100 变量约 17 ms，未知图任务多项改善。
+- **适用条件 / 局限** · 依赖合成先验覆盖目标机制。
+
+**可复用机制** · 当运行时必须快速定位机制变化时，将多种候选因果结构预先边缘化。

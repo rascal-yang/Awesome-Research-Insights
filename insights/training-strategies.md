@@ -825,5 +825,14 @@
 - [Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement](../conferences/neurips-2026/cards-0009.md#paper-154181)
 - [Pretext Reasoning: Scaling the Building Blocks of Interleaved Multimodal Reasoning](../conferences/neurips-2026/cards-0009.md#paper-148179)
 - [PriFT: Prior-Support Guided Token Reweighting for Supervised Fine-Tuning](../conferences/neurips-2026/cards-0009.md#paper-153837)
+- [PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-148893)
+- [PRISM: Primitive Routing via In-context Skill Mixing for Lifelong VLA](../conferences/neurips-2026/cards-0010.md#paper-154388)
+- [Privately Clipping Heavy-Tailed Data](../conferences/neurips-2026/cards-0010.md#paper-154273)
+- [Probe-Guided Gradient Balancing for Multimodal Learning](../conferences/neurips-2026/cards-0010.md#paper-149095)
+- [Procedural Memory Distillation: Online Reflection for Self-Improving Language Models](../conferences/neurips-2026/cards-0010.md#paper-148323)
+- [Process-conditioned Pretraining with Topographic Spatial Retrieval for Large EEG Models](../conferences/neurips-2026/cards-0010.md#paper-148573)
+- [Progressive Residual Warmup for Language Model Pretraining](../conferences/neurips-2026/cards-0010.md#paper-151422)
+- [ProPolar: Progressive Polar Decomposition for  Implicit Neural Representations](../conferences/neurips-2026/cards-0010.md#paper-148388)
+- [Proposing Better Rollouts for On-Policy Distillation](../conferences/neurips-2026/cards-0010.md#paper-155190)
 
 <!-- conference-classification:end -->

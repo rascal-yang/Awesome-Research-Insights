@@ -1098,5 +1098,11 @@
 - [Post-Selection Distributional Model Evaluation](../conferences/neurips-2026/cards-0009.md#paper-154748)
 - [Prediction-Augmented Trees for Reliable Statistical Inference](../conferences/neurips-2026/cards-0009.md#paper-150796)
 - [Prediction-Powered Inference Across Many Tasks for AI Evaluations and Social Science Research](../conferences/neurips-2026/cards-0009.md#paper-149115)
+- [PRIM: Meta-Learned Bayesian Root Cause Analysis](../conferences/neurips-2026/cards-0009.md#paper-150891)
+- [Privacy Amplification Persists under Unlimited Synthetic Data Release](../conferences/neurips-2026/cards-0010.md#paper-151674)
+- [Privacy by Postprocessing the Discrete Laplace Mechanism](../conferences/neurips-2026/cards-0010.md#paper-150901)
+- [Privacy-Preserving Retrieval-Augmented Generation with Plausible Deniability](../conferences/neurips-2026/cards-0010.md#paper-150803)
+- [Privacy Risk Scales with Effective Dimension in Federated Learning](../conferences/neurips-2026/cards-0010.md#paper-155428)
+- [Projected Neural Additive Models as Universal Approximators](../conferences/neurips-2026/cards-0010.md#paper-155364)
 
 <!-- conference-classification:end -->

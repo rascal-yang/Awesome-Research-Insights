@@ -593,3 +593,8 @@
 | 强化学习与决策 | 强化学习与奖励 | [Prevailing Bisimulation Metric Learning Is Biased: Implicit Regularization and Its Remedy](cards-0009.md#paper-150570) | 随机控制中的双模拟表征要审计采样损失偏差 |
 | 智能体 | 记忆与检索 | [Preventing Error Cascades in Long-Horizon Multimodal Agents with Edge-Reliability Graph Memory](cards-0009.md#paper-149654) | 多步记忆给证据复用边打分 |
 | 大语言模型 | 训练与优化 | [PriFT: Prior-Support Guided Token Reweighting for Supervised Fine-Tuning](cards-0009.md#paper-153837) | SFT token 权重使用冻结基座的统计 |
+| 强化学习 | 约束优化 | [Primal-Dual Representation Learning for Low-Rank Constrained MDPs](cards-0009.md#paper-151600) | 把探索成本和部署策略的约束分开计量。 |
+| 大语言模型 | 偏好优化 | [Primal Generation, Dual Judgment: Self-Training from Test-Time Scaling](cards-0009.md#paper-152535) | 把测试时可执行样本的相对正确性回收为训练信号。 |
+| 机器学习理论 | 数据合成 | [PRIME: A Modular Approach for Private Synthetic Data](cards-0009.md#paper-153567) | 密集查询的合成改用支持集重加权。 |
+| 深度学习 | 损失函数 | [PRIME: Poincaré return induced measure for learning partially observed dynamical systems](cards-0009.md#paper-154522) | 学动态时匹配带时序的复现统计。 |
+| 深度学习 | 因果推断 | [PRIM: Meta-Learned Bayesian Root Cause Analysis](cards-0009.md#paper-150891) | 在线异常诊断用元学习摊销因果结构不确定性。 |

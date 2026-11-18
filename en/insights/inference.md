@@ -1276,5 +1276,17 @@ Decoding, test-time adaptation, and efficient execution.
 - [Predicting Quantization Price for Selecting PTQ Configurations Before Deployment](../../conferences/neurips-2026/cards-0009.md#paper-153413)
 - [Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](../../conferences/neurips-2026/cards-0009.md#paper-156090)
 - [Prefill-Guided Trace Allocation for Sample-Efficient Test-Time Scaling](../../conferences/neurips-2026/cards-0009.md#paper-154693)
+- [PrivateSeal: Low-Sensitivity Latent Directions for Diffusion-Resilient User-Specific Watermarking](../../conferences/neurips-2026/cards-0010.md#paper-154676)
+- [Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](../../conferences/neurips-2026/cards-0010.md#paper-153423)
+- [Probabilistic Tiny Recursive Model](../../conferences/neurips-2026/cards-0010.md#paper-150974)
+- [Probability-Conserving Flow Guidance](../../conferences/neurips-2026/cards-0010.md#paper-155102)
+- [Probing Visual Planning in Image Editing Models](../../conferences/neurips-2026/cards-0010.md#paper-154346)
+- [ProbMedTOD: A Bayesian Network Guided Task-Oriented Dialogue System for Patient History Taking](../../conferences/neurips-2026/cards-0010.md#paper-154360)
+- [Procedural Refinement by LLM-driven Algorithmic Debugging for ARC-AGI-2](../../conferences/neurips-2026/cards-0010.md#paper-150157)
+- [Process-Aware LNS for Large-Scale MILP via Context-Enhanced Fine-Tuned LLM-driven Selector](../../conferences/neurips-2026/cards-0010.md#paper-150513)
+- [ProGraf: Profile-Guided Planning for Step-by-Step Generation of Structured Non-Natural Images](../../conferences/neurips-2026/cards-0010.md#paper-155115)
+- [Prompt–Activation Duality: Improving Activation Steering via Attention-Level Interventions](../../conferences/neurips-2026/cards-0010.md#paper-154174)
+- [Property-Guided LLM Program Synthesis for Planning](../../conferences/neurips-2026/cards-0010.md#paper-150731)
+- [Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation](../../conferences/neurips-2026/cards-0010.md#paper-154132)
 
 <!-- conference-classification:end -->

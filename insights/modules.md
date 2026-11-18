@@ -410,5 +410,7 @@
 - [PreCoMem: Predictive Cognitive Memory for Self-Evolving Long-Term Dialogue Agents](../conferences/neurips-2026/cards-0009.md#paper-149030)
 - [PREPING: Building Agent Memory without Tasks](../conferences/neurips-2026/cards-0009.md#paper-153705)
 - [Preventing Error Cascades in Long-Horizon Multimodal Agents with Edge-Reliability Graph Memory](../conferences/neurips-2026/cards-0009.md#paper-149654)
+- [Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference](../conferences/neurips-2026/cards-0010.md#paper-153474)
+- [Proteus: Incremental Memory Activation for Long-Context Sequence Modeling](../conferences/neurips-2026/cards-0010.md#paper-154744)
 
 <!-- conference-classification:end -->
