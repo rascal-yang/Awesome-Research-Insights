@@ -139,6 +139,7 @@
 - <a id="wu26ci-modules"></a>[LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ci)
 - <a id="xiao26f-modules"></a>[Functional Attention: From Pairwise Affinities to Functional Correspondences](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26f)
 - <a id="xie26h-modules"></a>[Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics](../conferences/icml-2026/cards/5101-5200.md#paper-xie26h)
+- <a id="yamauchi26a-modules"></a>[Quaternion Self-Attention with Shared Scores](../conferences/icml-2026/cards/5301-5400.md#paper-yamauchi26a)
 
 <a id="by-loss-functions"></a>
 
@@ -640,6 +641,7 @@
 - <a id="xu26av-inference"></a>[Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26av)
 - <a id="xu26bq-inference"></a>[Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bq)
 - <a id="xu26cf-inference"></a>[LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cf)
+- <a id="yajima26a-inference"></a>[PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence](../conferences/icml-2026/cards/5301-5400.md#paper-yajima26a)
 
 <a id="by-representation-learning"></a>
 
@@ -709,6 +711,7 @@
 - <a id="wustl26a-representation-learning"></a>[Q-Tab: Quantized Tabular Data Generator](../conferences/icml-2026/cards/5001-5100.md#paper-wustl26a)
 - <a id="xiong26e-representation-learning"></a>[NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data](../conferences/icml-2026/cards/5101-5200.md#paper-xiong26e)
 - <a id="xu26ap-representation-learning"></a>[Identifying dependent components from multi-domain linear mixtures](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ap)
+- <a id="yamada26a-representation-learning"></a>[Tree-Structured Orthonormal Decomposition of the Aitchison Simplex](../conferences/icml-2026/cards/5301-5400.md#paper-yamada26a)
 
 <a id="by-evaluation"></a>
 
@@ -779,6 +782,8 @@
 - <a id="wu26u-evaluation"></a>[An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks](../conferences/icml-2026/cards/5001-5100.md#paper-wu26u)
 - <a id="xing26a-evaluation"></a>[pTNAS: Progressive Neural Architecture Search for Tabular Data](../conferences/icml-2026/cards/5101-5200.md#paper-xing26a)
 - <a id="xiong26f-evaluation"></a>[EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models](../conferences/icml-2026/cards/5101-5200.md#paper-xiong26f)
+- <a id="yaghini26a-evaluation"></a>[OptiFluence: Principled Design of Privacy Canaries](../conferences/icml-2026/cards/5301-5400.md#paper-yaghini26a)
+- <a id="yan26g-evaluation"></a>[Rethink the Role of Neural Decoders in Quantum Error Correction](../conferences/icml-2026/cards/5301-5400.md#paper-yan26g)
 
 <a id="by-theory-statistics"></a>
 
@@ -1196,4 +1201,5 @@
 - <a id="xu26bd-theory-statistics"></a>[To Grok Grokking: Provable Grokking in Ridge Regression](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bd)
 - <a id="xu26bu-theory-statistics"></a>[Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bu)
 - <a id="xu26cs-theory-statistics"></a>[On Learnability and Disambiguation of Multiclass Partial Concept Classes](../conferences/icml-2026/cards/5301-5400.md#paper-xu26cs)
+- <a id="yaakoubi26a-theory-statistics"></a>[Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization](../conferences/icml-2026/cards/5301-5400.md#paper-yaakoubi26a)
 <!-- classification:end -->

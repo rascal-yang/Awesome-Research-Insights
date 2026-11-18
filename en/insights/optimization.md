@@ -145,6 +145,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints](../../conferences/icml-2026/cards/5001-5100.md#wu26i-optimization) · 中文
 - [Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#xie26q-optimization) · 中文
 - [Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](../../conferences/icml-2026/cards/5201-5300.md#xiong26l-optimization) · 中文
+- [FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#xue26i-optimization) · 中文
 
 <a id="by-nlp"></a>
 

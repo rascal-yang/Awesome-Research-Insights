@@ -65,6 +65,7 @@
 - <a id="tumma26a-architecture"></a>[Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences](../conferences/icml-2026/cards/4501-4600.md#paper-tumma26a)
 - <a id="wang26gr-architecture"></a>[Dynamic Linear Attention](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gr)
 - <a id="wei26h-architecture"></a>[RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference](../conferences/icml-2026/cards/4901-5000.md#paper-wei26h)
+- <a id="xue26k-architecture"></a>[Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../conferences/icml-2026/cards/5301-5400.md#paper-xue26k)
 
 <a id="by-modules"></a>
 
@@ -1029,6 +1030,7 @@
 - <a id="xu26bc-inference"></a>[BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bc)
 - <a id="xu26bw-inference"></a>[Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bw)
 - <a id="xu26cg-inference"></a>[SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cg)
+- <a id="xue26h-inference"></a>[R2-Router: A New Paradigm for LLM Routing with Reasoning](../conferences/icml-2026/cards/5301-5400.md#paper-xue26h)
 
 <a id="by-representation-learning"></a>
 
@@ -1399,6 +1401,8 @@
 - <a id="xu26bb-evaluation"></a>[A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bb)
 - <a id="xu26cb-evaluation"></a>[How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cb)
 - <a id="xu26cd-evaluation"></a>[Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cd)
+- <a id="yadav26a-evaluation"></a>[More Capable, Less Cooperative? When LLMs Fail at Zero-Cost Collaboration](../conferences/icml-2026/cards/5301-5400.md#paper-yadav26a)
+- <a id="yan26f-evaluation"></a>[Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](../conferences/icml-2026/cards/5301-5400.md#paper-yan26f)
 
 <a id="by-theory-statistics"></a>
 

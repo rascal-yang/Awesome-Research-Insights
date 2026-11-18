@@ -221,6 +221,7 @@
 - <a id="wu26i-optimization"></a>[Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints](../conferences/icml-2026/cards/5001-5100.md#paper-wu26i)
 - <a id="xie26q-optimization"></a>[Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models](../conferences/icml-2026/cards/5101-5200.md#paper-xie26q)
 - <a id="xiong26l-optimization"></a>[Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26l)
+- <a id="xue26i-optimization"></a>[FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models](../conferences/icml-2026/cards/5301-5400.md#paper-xue26i)
 
 <a id="by-reinforcement-learning"></a>
 

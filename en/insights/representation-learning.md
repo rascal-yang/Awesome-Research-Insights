@@ -272,6 +272,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Q-Tab: Quantized Tabular Data Generator](../../conferences/icml-2026/cards/5001-5100.md#wustl26a-representation-learning) · 中文
 - [NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data](../../conferences/icml-2026/cards/5101-5200.md#xiong26e-representation-learning) · 中文
 - [Identifying dependent components from multi-domain linear mixtures](../../conferences/icml-2026/cards/5201-5300.md#xu26ap-representation-learning) · 中文
+- [Tree-Structured Orthonormal Decomposition of the Aitchison Simplex](../../conferences/icml-2026/cards/5301-5400.md#yamada26a-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

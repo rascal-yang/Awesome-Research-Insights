@@ -65,6 +65,7 @@
 - [diagonal-preconditioned-delta](../conferences/icml-2026/cards/4501-4600.md#tumma26a-architecture) · Preconditioned DeltaNet: Curvature-aware Sequence Modeling for Linear Recurrences
 - [信息漂移分段的有界多状态记忆](../conferences/icml-2026/cards/4701-4800.md#wang26gr-architecture) · Dynamic Linear Attention
 - [密集稀疏联合循环注意力](../conferences/icml-2026/cards/4901-5000.md#wei26h-architecture) · RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference
+- [同decoder骨干的任意顺序建模](../conferences/icml-2026/cards/5301-5400.md#xue26k-architecture) · Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture
 
 <a id="by-computer-vision"></a>
 

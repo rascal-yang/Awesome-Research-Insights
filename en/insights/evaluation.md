@@ -356,6 +356,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems](../../conferences/icml-2026/cards/5201-5300.md#xu26bb-evaluation) · 中文
 - [How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26cb-evaluation) · 中文
 - [Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs](../../conferences/icml-2026/cards/5201-5300.md#xu26cd-evaluation) · 中文
+- [More Capable, Less Cooperative? When LLMs Fail at Zero-Cost Collaboration](../../conferences/icml-2026/cards/5301-5400.md#yadav26a-evaluation) · 中文
+- [Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](../../conferences/icml-2026/cards/5301-5400.md#yan26f-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -648,6 +650,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks](../../conferences/icml-2026/cards/5001-5100.md#wu26u-evaluation) · 中文
 - [pTNAS: Progressive Neural Architecture Search for Tabular Data](../../conferences/icml-2026/cards/5101-5200.md#xing26a-evaluation) · 中文
 - [EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models](../../conferences/icml-2026/cards/5101-5200.md#xiong26f-evaluation) · 中文
+- [OptiFluence: Principled Design of Privacy Canaries](../../conferences/icml-2026/cards/5301-5400.md#yaghini26a-evaluation) · 中文
+- [Rethink the Role of Neural Decoders in Quantum Error Correction](../../conferences/icml-2026/cards/5301-5400.md#yan26g-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

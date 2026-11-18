@@ -356,6 +356,8 @@
 - [双层并行与候选选择的成本边界](../conferences/icml-2026/cards/5201-5300.md#xu26bb-evaluation) · A Two-Tier Perspective on Inference-Time Parallelism in Multi-Agent LLM Systems
 - [以局部可解码性限制CoT全局计划解释](../conferences/icml-2026/cards/5201-5300.md#xu26cb-evaluation) · How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning
 - [遗忘评估同时测恢复和保留能力](../conferences/icml-2026/cards/5201-5300.md#xu26cd-evaluation) · Unlearning Isn’t Deletion: Investigating Reversibility of Machine Unlearning in LLMs
+- [自动化通信一侧区分协作失败](../conferences/icml-2026/cards/5301-5400.md#yadav26a-evaluation) · More Capable, Less Cooperative? When LLMs Fail at Zero-Cost Collaboration
+- [伪奖励下污染捷径的分层审计](../conferences/icml-2026/cards/5301-5400.md#yan26f-evaluation) · Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -648,6 +650,8 @@
 - [部分模型合并的参数保密边界](../conferences/icml-2026/cards/5001-5100.md#wu26u-evaluation) · An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks
 - [按神经元激活与梯度筛架构](../conferences/icml-2026/cards/5101-5200.md#xing26a-evaluation) · pTNAS: Progressive Neural Architecture Search for Tabular Data
 - [预训练目标与适配方式的配对诊断](../conferences/icml-2026/cards/5101-5200.md#xiong26f-evaluation) · EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models
+- [面向授权隐私审计的可检性canary](../conferences/icml-2026/cards/5301-5400.md#yaghini26a-evaluation) · OptiFluence: Principled Design of Privacy Canaries
+- [硬件预算下解码器的QAT与时序结构选择](../conferences/icml-2026/cards/5301-5400.md#yan26g-evaluation) · Rethink the Role of Neural Decoders in Quantum Error Correction
 
 <a id="by-graph-and-recommendation"></a>
 

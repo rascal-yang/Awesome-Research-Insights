@@ -352,6 +352,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26bc-inference) · 中文
 - [Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity](../../conferences/icml-2026/cards/5201-5300.md#xu26bw-inference) · 中文
 - [SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling](../../conferences/icml-2026/cards/5201-5300.md#xu26cg-inference) · 中文
+- [R2-Router: A New Paradigm for LLM Routing with Reasoning](../../conferences/icml-2026/cards/5301-5400.md#xue26h-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -731,6 +732,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation](../../conferences/icml-2026/cards/5201-5300.md#xu26av-inference) · 中文
 - [Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models](../../conferences/icml-2026/cards/5201-5300.md#xu26bq-inference) · 中文
 - [LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis](../../conferences/icml-2026/cards/5201-5300.md#xu26cf-inference) · 中文
+- [PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence](../../conferences/icml-2026/cards/5301-5400.md#yajima26a-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

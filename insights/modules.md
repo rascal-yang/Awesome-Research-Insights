@@ -240,6 +240,7 @@
 - [依赖图引导的因果token排序](../conferences/icml-2026/cards/5001-5100.md#wu26ci-modules) · LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting
 - [在适应基系数中求解attention](../conferences/icml-2026/cards/5101-5200.md#xiao26f-modules) · Functional Attention: From Pairwise Affinities to Functional Correspondences
 - [用向量球谐补全快速张量积](../conferences/icml-2026/cards/5101-5200.md#xie26h-modules) · Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics
+- [四元数分量共享实值注意力](../conferences/icml-2026/cards/5301-5400.md#yamauchi26a-modules) · Quaternion Self-Attention with Shared Scores
 
 <a id="by-graph-and-recommendation"></a>
 

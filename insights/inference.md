@@ -352,6 +352,7 @@
 - [同步RL空闲窗口的陈旧草稿验证](../conferences/icml-2026/cards/5201-5300.md#xu26bc-inference) · BubbleSpec: Turning Long-Tail Bubbles into Speculative Rollout Drafts for Synchronous Reinforcement Learning
 - [稀疏激活后学习可折叠静态补偿](../conferences/icml-2026/cards/5201-5300.md#xu26bw-inference) · Resting Neurons, Active Insights: Robustifying Activation Sparsity in LLMs via Spontaneity
 - [把安全判别接入分段推测验证](../conferences/icml-2026/cards/5201-5300.md#xu26cg-inference) · SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling
+- [模型与输出长度预算联合路由](../conferences/icml-2026/cards/5301-5400.md#xue26h-inference) · R2-Router: A New Paradigm for LLM Routing with Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -731,6 +732,7 @@
 - [总量预测与内部份额的分离](../conferences/icml-2026/cards/5201-5300.md#xu26av-inference) · Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation
 - [按信噪比调节score温度](../conferences/icml-2026/cards/5201-5300.md#xu26bq-inference) · Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models
 - [在模块拆分与跨模块融合间搜索kernel](../conferences/icml-2026/cards/5201-5300.md#xu26cf-inference) · LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis
+- [分布区域内精确等价的树剪枝](../conferences/icml-2026/cards/5301-5400.md#yajima26a-inference) · PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence
 
 <a id="by-graph-and-recommendation"></a>
 

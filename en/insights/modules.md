@@ -240,6 +240,7 @@ Reusable components and local changes to model inputs or connections.
 - [LagLLM: LLM-empowered lead–lag dependency learning for spatial-temporal time series forecasting](../../conferences/icml-2026/cards/5001-5100.md#wu26ci-modules) · 中文
 - [Functional Attention: From Pairwise Affinities to Functional Correspondences](../../conferences/icml-2026/cards/5101-5200.md#xiao26f-modules) · 中文
 - [Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics](../../conferences/icml-2026/cards/5101-5200.md#xie26h-modules) · 中文
+- [Quaternion Self-Attention with Shared Scores](../../conferences/icml-2026/cards/5301-5400.md#yamauchi26a-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

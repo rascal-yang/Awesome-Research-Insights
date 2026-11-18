@@ -615,6 +615,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [To Grok Grokking: Provable Grokking in Ridge Regression](../../conferences/icml-2026/cards/5201-5300.md#xu26bd-theory-statistics) · 中文
 - [Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers](../../conferences/icml-2026/cards/5201-5300.md#xu26bu-theory-statistics) · 中文
 - [On Learnability and Disambiguation of Multiclass Partial Concept Classes](../../conferences/icml-2026/cards/5301-5400.md#xu26cs-theory-statistics) · 中文
+- [Characterization of Gaussian Universality Breakdown in High-Dimensional Empirical Risk Minimization](../../conferences/icml-2026/cards/5301-5400.md#yaakoubi26a-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

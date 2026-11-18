@@ -145,6 +145,7 @@
 - [联合优化采样时间掩码与去噪器](../conferences/icml-2026/cards/5001-5100.md#wu26i-optimization) · Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints
 - [以可分离性联合搜索擦除层](../conferences/icml-2026/cards/5101-5200.md#xie26q-optimization) · Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models
 - [在线梯度子空间的定向保护](../conferences/icml-2026/cards/5201-5300.md#xiong26l-optimization) · Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation
+- [冻结稳定分支支持4位反传](../conferences/icml-2026/cards/5301-5400.md#xue26i-optimization) · FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models
 
 <a id="by-nlp"></a>
 

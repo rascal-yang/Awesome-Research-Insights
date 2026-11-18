@@ -295,6 +295,7 @@
 - <a id="wang26cz-data-strategies"></a>[ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cz)
 - <a id="wei26j-data-strategies"></a>[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](../conferences/icml-2026/cards/4901-5000.md#paper-wei26j)
 - <a id="xu26x-data-strategies"></a>[DeFacto: Counterfactual Thinking with Images for Enforcing Evidence-Grounded and Faithful Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26x)
+- <a id="yamamoto26a-data-strategies"></a>[Left–Right Symmetry Breaking in CLIP-Style Vision-Language Models Trained on Synthetic Spatial-Relation Data](../conferences/icml-2026/cards/5301-5400.md#paper-yamamoto26a)
 
 <a id="by-inference"></a>
 
