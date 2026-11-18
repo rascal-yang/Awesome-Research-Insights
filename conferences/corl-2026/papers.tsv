@@ -101,7 +101,7 @@ number	openreview_id	title	paper_url	reason	status
 100	PNSqN6Bng7	Decision-Centric Counterfactual Preference Optimization for Vision-Language-Action Post-Training	https://openreview.net/forum?id=PNSqN6Bng7	固定同一观测前缀，只替换第一动作块来形成局部偏好	included
 101	ZDnuAR0GMn	TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics	https://openreview.net/forum?id=ZDnuAR0GMn	用视频语言模型的完成判断概率作为零样本进度信号	included
 102	AAn8ouEHwO	RARM: Confidence-Gated Progress Reward Modeling for RL in Manipulation	https://openreview.net/forum?id=AAn8ouEHwO	按单条参考示范匹配进度并在低置信时抑制奖励	included
-103	DBLXUxxslN	FlashRFCL: Demonstration-Efficient Sparse Reward RL via Reverse-Forward Curriculum Learning in High-Throughput GPU Simulation	https://openreview.net/forum?id=DBLXUxxslN		pending
+103	DBLXUxxslN	FlashRFCL: Demonstration-Efficient Sparse Reward RL via Reverse-Forward Curriculum Learning in High-Throughput GPU Simulation	https://openreview.net/forum?id=DBLXUxxslN	初筛排除。ICLR 2024 RFCL 已有从示范重置的反向课程与后续正向课程。当前可核对的作者摘要主要支持高吞吐实现和单示范表现，尚未给出可独立判断的课程新规则。	excluded
 104	0ua1KHFIUD	HiRE: Hindsight Reward Editing for Policy Finetuning	https://openreview.net/forum?id=0ua1KHFIUD	用成功与失败轨迹回看并修正误导控制的进度奖励	included
 105	U3Nmrhun8B	EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models	https://openreview.net/forum?id=U3Nmrhun8B	动作块中只覆盖人工纠正的时间段并保存实际执行块	included
 106	z5Mgc1GGjP	Scaling Sim-to-Real VLA Reinforcement Learning with Generative 3D Worlds	https://openreview.net/forum?id=z5Mgc1GGjP	用生成式交互场景增加微调时的环境覆盖	included
@@ -116,7 +116,7 @@ number	openreview_id	title	paper_url	reason	status
 115	W443fVglzC	Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation	https://openreview.net/forum?id=W443fVglzC	按预测的任务相关模型误差选择部署时采样路线	included
 116	dKRgZYcdRV	Object-Centric Conditioning for Visuomotor Flow Matching	https://openreview.net/forum?id=dKRgZYcdRV	为基于历史动作的低步数流模型分开编码物体语义和几何位置	included
 117	4dqRAd2sNp	When One Step Is Enough: An Empirical Study of Euler Integration in Flow-Matching Policies	https://openreview.net/forum?id=4dqRAd2sNp	部署前先试同一流策略的一步积分再决定是否蒸馏	included
-118	qd6clCx6QY	Scalable Behavior Cloning with Open Data, Training, and Evaluation	https://openreview.net/forum?id=qd6clCx6QY		pending
+118	qd6clCx6QY	Scalable Behavior Cloning with Open Data, Training, and Evaluation	https://openreview.net/forum?id=qd6clCx6QY	一次视觉语言前向复用多个扩散噪声和时间样本	included
 119	jnEHLRyWTZ	Learning Beyond What Humans Can Demonstrate	https://openreview.net/forum?id=jnEHLRyWTZ	从采集失败归纳状态约束并在部署阶段复用	included
 120	P8H2WZH2Tw	Predictive Representation Learning for Manipulation via Streaming Egocentric 3D Hand Forecasting	https://openreview.net/forum?id=P8H2WZH2Tw	用人手未来三维运动作为人类视频的预训练监督	included
 121	bLQynefrlp	Bimanual Robot Manipulation via Multi-Agent In-Context Learning	https://openreview.net/forum?id=bLQynefrlp	把双臂预测拆为有条件的先后决策	included
