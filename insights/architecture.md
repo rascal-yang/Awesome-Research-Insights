@@ -640,5 +640,10 @@
 - [When Attention Collapses: Residual Evidence Modeling for Compositional Inference](../conferences/neurips-2026/cards-0012.md#paper-150504)
 - [When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds](../conferences/neurips-2026/cards-0012.md#paper-152080)
 - [When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation](../conferences/neurips-2026/cards-0012.md#paper-155733)
+- [World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories](../conferences/neurips-2026/cards-0013.md#paper-149768)
+- [xHC: Expanded Hyper-Connections](../conferences/neurips-2026/cards-0013.md#paper-153922)
+- [xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs](../conferences/neurips-2026/cards-0013.md#paper-148325)
+- [Zero-Shot Instruction Following in RL via Structured LTL Representations](../conferences/neurips-2026/cards-0013.md#paper-150080)
+- [ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamics](../conferences/neurips-2026/cards-0013.md#paper-155054)
 
 <!-- conference-classification:end -->

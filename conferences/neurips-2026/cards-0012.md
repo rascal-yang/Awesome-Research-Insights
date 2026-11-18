@@ -9496,3 +9496,183 @@
 - **适用条件 / 局限** · 需检查长尾 token 的梯度信息是否遗漏
 
 **可复用机制** · 等内存比较丢反传位置和减上下文长度
+
+<a id="paper-151199"></a>
+
+## Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151199) · [作者来源](https://openreview.net/forum?id=cDWOMIJrbJ)
+
+- **问题 / 瓶颈** · 静态相似忽略各处去噪需求。
+- **核心创新 / 方法** · 以动态分数指导免训练合并。
+- **Baseline** · 常规 token 合并。
+- **Benchmark** · PixArt-α、FLUX。
+- **关键结果 / 消融** · 保持图像局部和全局保真。
+- **适用条件 / 局限** · 速度及阈值依采样器。
+
+**可复用机制** · 查看哪些位置后续还会改变，再裁冗余。
+
+<a id="paper-153430"></a>
+
+## Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video LLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153430) · [作者来源](https://openreview.net/forum?id=LOIQXC7mpg)
+
+- **问题 / 瓶颈** · 内部可见方向但回答仍绑定错误。
+- **核心创新 / 方法** · 分测编码器、投影及 LLM，调合成方向数据。
+- **Baseline** · 未专项适配 VLM。
+- **Benchmark** · MODIRECT 和不同视觉复杂度。
+- **关键结果 / 消融** · 域内减错误，复杂画面仍难外推。
+- **适用条件 / 局限** · 只用合成指令易过拟合。
+
+**可复用机制** · 低层感知先验编码和输出读出分别修。
+
+<a id="paper-150074"></a>
+
+## Who caused $Y$? Local identifiability for learning causal parents
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150074) · [作者来源](https://openreview.net/forum?id=kvVc2NQe9H)
+
+- **问题 / 瓶颈** · 独立残差本身不能选真父集。
+- **核心创新 / 方法** · 在满足假设的候选中最小化残差方差、再最小基数。
+- **Baseline** · 只用残差独立。
+- **Benchmark** · 加性噪声父集识别理论。
+- **关键结果 / 消融** · 在无反向假设下可识别。
+- **适用条件 / 局限** · 条件和独立性检验必须验证。
+
+**可复用机制** · 对世界模型不必恢复整图，可先识别影响单个状态的父集。
+
+<a id="paper-154032"></a>
+
+## Whole-Body Compliant Control via Learned Force-Regulation Modules
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154032) · [作者来源](https://openreview.net/forum?id=GlpxwFNGx2)
+
+- **问题 / 瓶颈** · 位置跟随忽略接触下顺应性。
+- **核心创新 / 方法** · 以学习的力调节组件实现全身遥操作。
+- **Baseline** · 现有全身顺应控制。
+- **Benchmark** · 模拟及 27 自由度 Sprout。
+- **关键结果 / 消融** · 展示实机全身遥操作，幅度未核。
+- **适用条件 / 局限** · 依赖力传感和硬件标定。
+
+**可复用机制** · 把接触力调节与全局动作指令分离评估。
+
+<a id="paper-150794"></a>
+
+## Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/150794) · [作者来源](https://openreview.net/forum?id=fLuDbpk8Ib)
+
+- **问题 / 瓶颈** · 通用主干在专业域视觉先验不充分。
+- **核心创新 / 方法** · 以可得元数据信号适配不需新标注。
+- **Baseline** · 未适配视觉基础模型。
+- **Benchmark** · 定域科学视觉。
+- **关键结果 / 消融** · 摘要提出无标签适配，量化待核。
+- **适用条件 / 局限** · 元数据可能变成泄漏捷径。
+
+**可复用机制** · 集合切分按来源和设备，防元信息预测标签。
+
+<a id="paper-153354"></a>
+
+## Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153354) · [作者来源](https://openreview.net/forum?id=M0fBuZdipl)
+
+- **问题 / 瓶颈** · 听得清且看得见仍可能把台词给错人。
+- **核心创新 / 方法** · 以现成活动说话人检测供提示。
+- **Baseline** · 原音视频语言模型。
+- **Benchmark** · 三模态说话人台词关联。
+- **关键结果 / 消融** · 观察错误主要出在音视连接。
+- **适用条件 / 局限** · 依赖主动说话人模型在遮挡下质量。
+
+**可复用机制** · 不同模态对错要测实体一致性。
+
+<a id="paper-151857"></a>
+
+## Who Should Evolve? Uncertainty-Aware Role Bottleneck Inference for Multi-Agent LLM Training
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/151857) · [作者来源](https://openreview.net/forum?id=XONEq9blMw)
+
+- **问题 / 瓶颈** · 出现症状的角色可能是上游失误受害者。
+- **核心创新 / 方法** · 对每轨迹推断瓶颈及不确定性。
+- **Baseline** · 全角色或症状角色更新。
+- **Benchmark** · HotpotQA、2WikiMultihopQA、MuSiQue。
+- **关键结果 / 消融** · 摘要报告改进，幅度待核。
+- **适用条件 / 局限** · 需要足够反事实归因证据。
+
+**可复用机制** · 先核归因再分配角色训练预算。
+
+<a id="paper-139035"></a>
+
+## Who&When Pro: Can LLMs Really Attribute Failures in AI Agents?
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/139035) · [作者来源](https://openreview.net/forum?id=ot6saieu5V)
+
+- **问题 / 瓶颈** · 成功率看不出责任源。
+- **核心创新 / 方法** · 统一自动归因评估并跨协议分析。
+- **Baseline** · 不同家族、协议及数据呈现。
+- **Benchmark** · Who&When Pro。
+- **关键结果 / 消融** · 观察失败归因系统性差异。
+- **适用条件 / 局限** · 多角色互动可有多个真实促因。
+
+**可复用机制** · 回放日志按角色和时间标故障，避免用末端角色替代源头。
+
+<a id="paper-152265"></a>
+
+## Who, Where, and What? Forensic Localization in LLM-Based Multi-Agent Systems
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/152265) · [作者来源](https://openreview.net/forum?id=UMANMGt0wj)
+
+- **问题 / 瓶颈** · 单攻击标志不足指导隔离。
+- **核心创新 / 方法** · 用代理模型估日志方面的可疑性，粗到细复核。
+- **Baseline** · 黑盒通用检测。
+- **Benchmark** · MAFL-Bench，21200 交互日志，三应用和四结构。
+- **关键结果 / 消融** · 提供多级归因，摘要数值待核。
+- **适用条件 / 局限** · 代理似然不可作唯一证据。
+
+**可复用机制** · 将日志索引设计成可定位到权限最小单元。
+
+<a id="paper-149850"></a>
+
+## Who Wrote This Paper? Autonomous Scientific Discovery for 3DGS Research
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/149850) · [作者来源](https://openreview.net/forum?id=mptCBNtiEN)
+
+- **问题 / 瓶颈** · 生成论文可能出现无法追溯的实验。
+- **核心创新 / 方法** · 工作流执行复现、扩展、训练和消融，并维持记录绑定。
+- **Baseline** · 常规手工 3DGS 迭代。
+- **Benchmark** · Mip-NeRF 360、LLFF。
+- **关键结果 / 消融** · 展示端到端与数字追踪。
+- **适用条件 / 局限** · 一领域的趋势不能代表普适科学发现。
+
+**可复用机制** · 验自动研究的证据链和复实际验。
+
+<a id="paper-153112"></a>
+
+## Why Are LLMs Confidently Wrong? Correcting Overconfident Errors via Causal Head Intervention
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/153112) · [作者来源](https://openreview.net/forum?id=Npk8kJ1fGH)
+
+- **问题 / 瓶颈** · 单温度不区分不同过度自信机制。
+- **核心创新 / 方法** · 定位因果贡献注意头并改置信。
+- **Baseline** · 原模型或通用校准。
+- **Benchmark** · 五多选问答，ECE、NLL、Brier。
+- **关键结果 / 消融** · 改善校准并保准确。
+- **适用条件 / 局限** · 干预和任务选项配置可能不通用。
+
+**可复用机制** · 按错型校准，先验组件影响再改输出。
+
+<a id="paper-154639"></a>
+
+## Why Copy Others? Insights into Social Learning from Multi-Agent Reinforcement Learning
+
+[官方论文页](https://neurips.cc/virtual/2026/poster/154639) · [作者来源](https://openreview.net/forum?id=C75XbOudqL)
+
+- **问题 / 瓶颈** · 盲从会复制错误且传播有成本。
+- **核心创新 / 方法** · 比较单独试验与选择性社会学习。
+- **Baseline** · 独立学习和普遍模仿。
+- **Benchmark** · 多代理强化任务。
+- **关键结果 / 消融** · 摘要报告何时模仿更有效，幅度待核。
+- **适用条件 / 局限** · 取决于同伴技能和可观测性。
+
+**可复用机制** · 只有同伴行为里的新信息价值超过获取成本时模仿。

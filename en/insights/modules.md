@@ -490,5 +490,6 @@ Reusable components and local changes to model inputs or connections.
 - [What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents](../../conferences/neurips-2026/cards-0012.md#paper-149905)
 - [When Less is More: The LLM Scaling Paradox in Context Compression](../../conferences/neurips-2026/cards-0012.md#paper-153967)
 - [When LLM Routers Overpay: Strong-Model Over-Selection under Loose Budgets](../../conferences/neurips-2026/cards-0012.md#paper-148797)
+- [Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs](../../conferences/neurips-2026/cards-0012.md#paper-153354)
 
 <!-- conference-classification:end -->

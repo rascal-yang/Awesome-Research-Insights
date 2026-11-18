@@ -663,5 +663,13 @@
 - [What Can Labels Alone Audit and Edit in Frozen Representations?](../conferences/neurips-2026/cards-0012.md#paper-155411)
 - [What, Where, and Boundary: Hierarchical Cognitive Decomposition for Echocardiography Video Segmentation](../conferences/neurips-2026/cards-0012.md#paper-151545)
 - [When Language Overrules: Revealing Text Dominance in Multimodal Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-149375)
+- [Why DiT Models Underperform as Representation Learners without Long Skip Connections](../conferences/neurips-2026/cards-0013.md#paper-152368)
+- [Why Latent Actions Fail, and How to Prevent It](../conferences/neurips-2026/cards-0013.md#paper-153410)
+- [Why Struggle with Continuous Latents? Interpretable Discrete Latent Reasoning via Rendered Compression](../conferences/neurips-2026/cards-0013.md#paper-151626)
+- [WILD: Widely Linear Conditioning for Time Series Forecasting](../conferences/neurips-2026/cards-0013.md#paper-148890)
+- [XBRIDGE: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication](../conferences/neurips-2026/cards-0013.md#paper-153433)
+- [XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction](../conferences/neurips-2026/cards-0013.md#paper-155852)
+- [You CAN Teach an Old Model New Tricks: Domain Adaptation via Complementary Subspace Expansion](../conferences/neurips-2026/cards-0013.md#paper-149203)
+- [Your Embedding Model Is SMARTer Than You Think](../conferences/neurips-2026/cards-0013.md#paper-152683)
 
 <!-- conference-classification:end -->

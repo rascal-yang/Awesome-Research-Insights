@@ -637,3 +637,15 @@
 | 智能体 | 评测与诊断 | [Where Root Cause Analysis Fails: A Retrieval-Reranking Decomposition](cards-0012.md#paper-139698) | 根因检索系统分别测召回和重排 |
 | 机器学习基础与统计 | 效率与系统 | [Where to Approximate in Neurosymbolic Inference?](cards-0012.md#paper-153022) | 神经符号任务判断近似主要用于训练还是推理 |
 | 大语言模型 | 效率与系统 | [Where You Backpropagate Matters: Token Hypothesis for Memory-Efficient Fine-Tuning](cards-0012.md#paper-155128) | 微调可只为部分 token 保留反传激活 |
+| 生成模型 | 推理加速 | [Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation](cards-0012.md#paper-151199) | 按当前扩散动力决定哪些视觉 token 合并。 |
+| 多模态学习 | 评测与诊断 | [Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video LLMs](cards-0012.md#paper-153430) | 方向感知分试线性可读和文字选项绑定。 |
+| 机器学习理论 | 因果推断 | [Who caused $Y$? Local identifiability for learning causal parents](cards-0012.md#paper-150074) | 局部因果候选用残差独立和方差同时筛。 |
+| 具身智能与机器人 | 模仿学习 | [Whole-Body Compliant Control via Learned Force-Regulation Modules](cards-0012.md#paper-154032) | 全身接触控制将力调节作为专门模块。 |
+| 计算机视觉 | 训练策略 | [Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have](cards-0012.md#paper-150794) | 不标注领域视觉样本先测现成元数据。 |
+| 多模态学习 | 多模态融合 | [Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs](cards-0012.md#paper-153354) | 说话归因优先补音视绑定。 |
+| 智能体与工具使用 | 训练策略 | [Who Should Evolve? Uncertainty-Aware Role Bottleneck Inference for Multi-Agent LLM Training](cards-0012.md#paper-151857) | 多角色训练只更新真正瓶颈角色。 |
+| 智能体与工具使用 | 评测与诊断 | [Who&When Pro: Can LLMs Really Attribute Failures in AI Agents?](cards-0012.md#paper-139035) | 代理故障标明谁和在哪一步，而非只判是否失败。 |
+| 智能体与工具使用 | 评测与诊断 | [Who, Where, and What? Forensic Localization in LLM-Based Multi-Agent Systems](cards-0012.md#paper-152265) | 代理防御审计做角色、模块和单元三级定位。 |
+| 智能体与工具使用 | 评测与诊断 | [Who Wrote This Paper? Autonomous Scientific Discovery for 3DGS Research](cards-0012.md#paper-149850) | 自动研究结果要求每个数字绑定可回放运行。 |
+| 大语言模型 | 不确定性估计 | [Why Are LLMs Confidently Wrong? Correcting Overconfident Errors via Causal Head Intervention](cards-0012.md#paper-153112) | 多选置信校准按可信行为分组干预。 |
+| 强化学习 | 训练策略 | [Why Copy Others? Insights into Social Learning from Multi-Agent Reinforcement Learning](cards-0012.md#paper-154639) | 社会学习按实验成本和同伴经验可靠性选择模仿。 |

@@ -917,5 +917,16 @@ Robot perception, policy learning, planning, and control.
 - [VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation](../../conferences/neurips-2026/cards-0012.md#paper-152277)
 - [What Probing Reveals about Autonomous Driving: Better Predictions Lead to Better Planning](../../conferences/neurips-2026/cards-0012.md#paper-153263)
 - [When and What to Prune?  Stage-Aware Visual Token Pruning for Efficient VLA](../../conferences/neurips-2026/cards-0012.md#paper-151346)
+- [Whole-Body Compliant Control via Learned Force-Regulation Modules](../../conferences/neurips-2026/cards-0012.md#paper-154032)
+- [Why Cross-Skeleton Retargeting Is Non-Identifiable: Structural Limits of Generative Motion Models](../../conferences/neurips-2026/cards-0013.md#paper-155606)
+- [Why Latent Actions Fail, and How to Prevent It](../../conferences/neurips-2026/cards-0013.md#paper-153410)
+- [WORD: Diffusion-Based Posterior Inference for Online Goal Recognition](../../conferences/neurips-2026/cards-0013.md#paper-148579)
+- [World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry](../../conferences/neurips-2026/cards-0013.md#paper-149004)
+- [World Models as Group Actions](../../conferences/neurips-2026/cards-0013.md#paper-150683)
+- [World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories](../../conferences/neurips-2026/cards-0013.md#paper-149768)
+- [World–Value–Action Model: Implicit Planning for Vision–Language–Action Systems](../../conferences/neurips-2026/cards-0013.md#paper-150951)
+- [WorldVLA: A Unified Vision-Language-Action and World Model](../../conferences/neurips-2026/cards-0013.md#paper-155786)
+- [WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation](../../conferences/neurips-2026/cards-0013.md#paper-150851)
+- [Zero-Shot Instruction Following in RL via Structured LTL Representations](../../conferences/neurips-2026/cards-0013.md#paper-150080)
 
 <!-- conference-classification:end -->

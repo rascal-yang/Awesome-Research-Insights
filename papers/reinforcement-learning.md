@@ -751,5 +751,7 @@
 - [When Does Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning](../conferences/neurips-2026/cards-0012.md#paper-150132)
 - [When Does Non-Uniform Replay Matter in Reinforcement Learning?](../conferences/neurips-2026/cards-0012.md#paper-153281)
 - [When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-152992)
+- [Why Copy Others? Insights into Social Learning from Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-154639)
+- [WTF?! Simulation-Free Reinforcement Learning with Wasserstein-Tilted Flow Maps](../conferences/neurips-2026/cards-0013.md#paper-150454)
 
 <!-- conference-classification:end -->

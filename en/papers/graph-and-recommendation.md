@@ -350,5 +350,6 @@ Graph models, knowledge graphs, and recommender systems.
 - [Trapping Attacker in Dilemma: Examining Internal Correlations and External Influences of Trigger for Defending GNN Backdoors](../../conferences/neurips-2026/cards-0012.md#paper-155149)
 - [Traversal-Invariant Positional Encoding for Serialized Graphs](../../conferences/neurips-2026/cards-0012.md#paper-150855)
 - [Understanding and Mitigating Under-Confidence in GNNs from the Final Layer](../../conferences/neurips-2026/cards-0012.md#paper-148756)
+- [xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs](../../conferences/neurips-2026/cards-0013.md#paper-148325)
 
 <!-- conference-classification:end -->

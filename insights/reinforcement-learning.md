@@ -798,5 +798,7 @@
 - [When Policy Entropy Constraint Fails: Preserving Diversity in Flow-based RLHF via Perceptual Entropy](../conferences/neurips-2026/cards-0012.md#paper-155843)
 - [When Prompts Override Vision: Instruction-Induced Hallucinations in LVLMs](../conferences/neurips-2026/cards-0012.md#paper-155439)
 - [Where Do Long Captions Fail? Position-Aware Diagnosis and Reinforcement Learning for Detailed Image Captioning](../conferences/neurips-2026/cards-0012.md#paper-148457)
+- [World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry](../conferences/neurips-2026/cards-0013.md#paper-149004)
+- [Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor’s Internal States](../conferences/neurips-2026/cards-0013.md#paper-153139)
 
 <!-- conference-classification:end -->

@@ -1233,5 +1233,16 @@ Visual representation, recognition, reconstruction, and generation.
 - [When a Zero-Shooter Cheats: Improving Age Estimation via Activation Steering](../../conferences/neurips-2026/cards-0012.md#paper-151023)
 - [When Do Cosine Prototypes Mislead? A Whitening-Aware Benchmark for Frozen-Feature Image Classification](../../conferences/neurips-2026/cards-0012.md#paper-139731)
 - [When Noise Meets Long-Tail: Feature-Threshold Dual Calibration for Robust Pseudo-Labeling](../../conferences/neurips-2026/cards-0012.md#paper-156014)
+- [Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have](../../conferences/neurips-2026/cards-0012.md#paper-150794)
+- [Winning the Symmetry Lottery: Learning Invariance from Data Augmentations with Transformers](../../conferences/neurips-2026/cards-0013.md#paper-149811)
+- [WorldSR: Harnessing World Knowledge Search for Grounded Image Super-Resolution](../../conferences/neurips-2026/cards-0013.md#paper-155980)
+- [World Tracing: Pixel-Aligned Geometry Beyond the Visible](../../conferences/neurips-2026/cards-0013.md#paper-149437)
+- [WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching](../../conferences/neurips-2026/cards-0013.md#paper-155912)
+- [WsiSSM: A Weakly Supervised Subset-Matching Framework for Unified Classification and Segmentation of Histopathology Whole Slide Images](../../conferences/neurips-2026/cards-0013.md#paper-152115)
+- [XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher](../../conferences/neurips-2026/cards-0013.md#paper-157013)
+- [You CAN Teach an Old Model New Tricks: Domain Adaptation via Complementary Subspace Expansion](../../conferences/neurips-2026/cards-0013.md#paper-149203)
+- [You Can’t Have It Both Ways: Concept Entanglement Limits Diffusion Model Unlearning](../../conferences/neurips-2026/cards-0013.md#paper-155144)
+- [You Don’t Need Aligned Representations: Knowledge Distillation via Random Prototype Spaces](../../conferences/neurips-2026/cards-0013.md#paper-153784)
+- [Your Self-Supervised Projection Head Captures Object Co-Occurrence Statistics](../../conferences/neurips-2026/cards-0013.md#paper-148520)
 
 <!-- conference-classification:end -->

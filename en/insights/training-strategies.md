@@ -1054,5 +1054,14 @@ Training schedules, curricula, and task or stage composition.
 - [When Safety Becomes An Outlier: Understanding the Retention of LLM Safety Behaviors](../../conferences/neurips-2026/cards-0012.md#paper-151380)
 - [When the Merge Coefficient Stops Mattering: Proximity Regularized Merging for Continual LoRA Adaptation](../../conferences/neurips-2026/cards-0012.md#paper-151892)
 - [Where Does Warm-Up Come From? Adaptive Scheduling for Norm-Constrained Optimizers](../../conferences/neurips-2026/cards-0012.md#paper-151558)
+- [Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have](../../conferences/neurips-2026/cards-0012.md#paper-150794)
+- [Who Should Evolve? Uncertainty-Aware Role Bottleneck Inference for Multi-Agent LLM Training](../../conferences/neurips-2026/cards-0012.md#paper-151857)
+- [Why Copy Others? Insights into Social Learning from Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-154639)
+- [WsiSSM: A Weakly Supervised Subset-Matching Framework for Unified Classification and Segmentation of Histopathology Whole Slide Images](../../conferences/neurips-2026/cards-0013.md#paper-152115)
+- [You Don’t Need Aligned Representations: Knowledge Distillation via Random Prototype Spaces](../../conferences/neurips-2026/cards-0013.md#paper-153784)
+- [You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories](../../conferences/neurips-2026/cards-0013.md#paper-154227)
+- [Your Teacher Can’t Help You Here: Combating Supervision Fidelity Decay in On-Policy Distillation](../../conferences/neurips-2026/cards-0013.md#paper-154216)
+- [Zeroth-Order Sharpness-Aware Learning with Exponential Tilting](../../conferences/neurips-2026/cards-0013.md#paper-155109)
+- [ZO-F2: Low-variance Fisher preconditioner via bilinear estimation for zeroth-order optimization](../../conferences/neurips-2026/cards-0013.md#paper-153380)
 
 <!-- conference-classification:end -->

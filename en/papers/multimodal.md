@@ -1142,5 +1142,11 @@ Learning across modalities such as images, text, audio, and video.
 - [When to Align, When to Predict: A Phase Diagram for Multimodal Learning](../../conferences/neurips-2026/cards-0012.md#paper-149570)
 - [When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-155733)
 - [Where Do Long Captions Fail? Position-Aware Diagnosis and Reinforcement Learning for Detailed Image Captioning](../../conferences/neurips-2026/cards-0012.md#paper-148457)
+- [Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video LLMs](../../conferences/neurips-2026/cards-0012.md#paper-153430)
+- [Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs](../../conferences/neurips-2026/cards-0012.md#paper-153354)
+- [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](../../conferences/neurips-2026/cards-0013.md#paper-153215)
+- [XL-DocBench: Benchmarking Evidence-Grounded Extra-Long Document Understanding](../../conferences/neurips-2026/cards-0013.md#paper-139062)
+- [XMNoise2Clean: Cross-Modal Denoising Under Sparse Data](../../conferences/neurips-2026/cards-0013.md#paper-151207)
+- [Your Embedding Model Is SMARTer Than You Think](../../conferences/neurips-2026/cards-0013.md#paper-152683)
 
 <!-- conference-classification:end -->

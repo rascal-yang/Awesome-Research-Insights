@@ -1317,5 +1317,14 @@
 - [When Poison Meets Structure: Topology-based Defense against Poisoning Attack on Graph-based Retrieval-Augmented Generation](../../conferences/neurips-2026/cards-0012.md#paper-152350)
 - [Where to Approximate in Neurosymbolic Inference?](../../conferences/neurips-2026/cards-0012.md#paper-153022)
 - [Where You Backpropagate Matters: Token Hypothesis for Memory-Efficient Fine-Tuning](../../conferences/neurips-2026/cards-0012.md#paper-155128)
+- [Whole-Body Compliant Control via Learned Force-Regulation Modules](../../conferences/neurips-2026/cards-0012.md#paper-154032)
+- [Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space](../../conferences/neurips-2026/cards-0013.md#paper-151149)
+- [WorldSR: Harnessing World Knowledge Search for Grounded Image Super-Resolution](../../conferences/neurips-2026/cards-0013.md#paper-155980)
+- [World Tracing: Pixel-Aligned Geometry Beyond the Visible](../../conferences/neurips-2026/cards-0013.md#paper-149437)
+- [WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching](../../conferences/neurips-2026/cards-0013.md#paper-155912)
+- [WTF?! Simulation-Free Reinforcement Learning with Wasserstein-Tilted Flow Maps](../../conferences/neurips-2026/cards-0013.md#paper-150454)
+- [WURI: Watching Unfolding Risk in Agent Interactions](../../conferences/neurips-2026/cards-0013.md#paper-150879)
+- [X2HDR: HDR Image Generation in a Perceptually Uniform Space](../../conferences/neurips-2026/cards-0013.md#paper-148447)
+- [Zero-Shot Quantization via Weight-Space Arithmetic](../../conferences/neurips-2026/cards-0013.md#paper-148572)
 
 <!-- conference-classification:end -->

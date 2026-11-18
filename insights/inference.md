@@ -1532,5 +1532,10 @@
 - [When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding](../conferences/neurips-2026/cards-0012.md#paper-148594)
 - [When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents](../conferences/neurips-2026/cards-0012.md#paper-154558)
 - [When Should LLMs Be Less Specific? Selective Abstraction for Reliable Long-Form Text Generation](../conferences/neurips-2026/cards-0012.md#paper-154389)
+- [Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation](../conferences/neurips-2026/cards-0012.md#paper-151199)
+- [Why Decoding Sharpens Without Resolving: Lock-in and Confusion in Autoregressive Reasoning](../conferences/neurips-2026/cards-0013.md#paper-150729)
+- [Why Speculative Decoding Works Better Than Predicted on Sparse MoE Models](../conferences/neurips-2026/cards-0013.md#paper-150811)
+- [WORD: Diffusion-Based Posterior Inference for Online Goal Recognition](../conferences/neurips-2026/cards-0013.md#paper-148579)
+- [XTC: Head-Aware Sampling by Excluding Top Choices](../conferences/neurips-2026/cards-0013.md#paper-155382)
 
 <!-- conference-classification:end -->

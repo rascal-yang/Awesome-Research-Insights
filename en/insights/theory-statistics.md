@@ -1185,5 +1185,14 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [When Does Fine-Tuning Extract Stored Knowledge? A Relation-Covering Theory for One-Layer Transformers](../../conferences/neurips-2026/cards-0012.md#paper-151493)
 - [When does LeJEPA learn a World Model?](../../conferences/neurips-2026/cards-0012.md#paper-152207)
 - [When to Align, When to Predict: A Phase Diagram for Multimodal Learning](../../conferences/neurips-2026/cards-0012.md#paper-149570)
+- [Who caused $Y$? Local identifiability for learning causal parents](../../conferences/neurips-2026/cards-0012.md#paper-150074)
+- [Why Are LLMs Confidently Wrong? Correcting Overconfident Errors via Causal Head Intervention](../../conferences/neurips-2026/cards-0012.md#paper-153112)
+- [Why Do Time Series Models Need Long Context Windows?](../../conferences/neurips-2026/cards-0013.md#paper-149819)
+- [Why Geometric Continuity Emerges in Deep Neural Networks: Residual Connections and Rotational Symmetry Breaking](../../conferences/neurips-2026/cards-0013.md#paper-152913)
+- [WorldPrism: 3D Consistency for Video World Models via Bidirectional Cross-Space Verification](../../conferences/neurips-2026/cards-0013.md#paper-153356)
+- [World–Value–Action Model: Implicit Planning for Vision–Language–Action Systems](../../conferences/neurips-2026/cards-0013.md#paper-150951)
+- [WorldVLA: A Unified Vision-Language-Action and World Model](../../conferences/neurips-2026/cards-0013.md#paper-155786)
+- [WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation](../../conferences/neurips-2026/cards-0013.md#paper-150851)
+- [xWhy: Causal Learning from Explanations](../../conferences/neurips-2026/cards-0013.md#paper-149735)
 
 <!-- conference-classification:end -->

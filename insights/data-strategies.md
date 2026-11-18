@@ -432,5 +432,7 @@
 - [Wayfinder: Adaptive Resource Routing from Agent Citations](../conferences/neurips-2026/cards-0012.md#paper-148786)
 - [When Are Semivalue-Based Decisions Identifiable? Robust Data Selection under Utility Ambiguity](../conferences/neurips-2026/cards-0012.md#paper-155762)
 - [When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents](../conferences/neurips-2026/cards-0012.md#paper-139169)
+- [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](../conferences/neurips-2026/cards-0013.md#paper-153215)
+- [XMNoise2Clean: Cross-Modal Denoising Under Sparse Data](../conferences/neurips-2026/cards-0013.md#paper-151207)
 
 <!-- conference-classification:end -->

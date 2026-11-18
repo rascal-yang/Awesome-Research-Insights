@@ -816,5 +816,9 @@
 - [When Is Rank-1 Steering Cheap? Geometry, Granularity, and Budgeted Search](../conferences/neurips-2026/cards-0012.md#paper-148838)
 - [When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-152992)
 - [When Scores Conflict with Preferences: Calibrated Drift Control for Heterogeneous DPO](../conferences/neurips-2026/cards-0012.md#paper-151343)
+- [Why Learning Rediscovers the Closed-Form Diagonal Regularizer](../conferences/neurips-2026/cards-0013.md#paper-152121)
+- [Why Muon Outperforms Adam: A Curvature Perspective](../conferences/neurips-2026/cards-0013.md#paper-153556)
+- [Why Routers Freeze: Infinite Width Learning Dynamics for Mixture of Experts](../conferences/neurips-2026/cards-0013.md#paper-152363)
+- [Your Hypergradient is Skewed: Antithetic Neumann Estimation for Bilevel Optimization](../conferences/neurips-2026/cards-0013.md#paper-155284)
 
 <!-- conference-classification:end -->
