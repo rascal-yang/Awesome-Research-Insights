@@ -1,39 +1,39 @@
 poster_id	title	paper_url	status	reason
-154295	$\alpha$Depth: Learning Single-Pass Soft Boundary Decomposition for Stereo Conversion	https://neurips.cc/virtual/2026/poster/154295	pending	-
-150017	$\boldsymbol{f}$-OPD: Stabilizing Long-Horizon On-Policy Distillation with Freshness-Aware Control	https://neurips.cc/virtual/2026/poster/150017	pending	-
-139361	$\chi$-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?	https://neurips.cc/virtual/2026/poster/139361	pending	-
+154295	$\alpha$Depth: Learning Single-Pass Soft Boundary Decomposition for Stereo Conversion	https://neurips.cc/virtual/2026/poster/154295	included	将混合边界拆为颜色和深度层
+150017	$\boldsymbol{f}$-OPD: Stabilizing Long-Horizon On-Policy Distillation with Freshness-Aware Control	https://neurips.cc/virtual/2026/poster/150017	included	按样本新鲜度调节异步蒸馏
+139361	$\chi$-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?	https://neurips.cc/virtual/2026/poster/139361	included	分别测独立回合和共享会话
 155770	$\delta$-Mem: : Efficient Online Memory For Large Language Models	https://neurips.cc/virtual/2026/poster/155770	included	首批暂收录，详见会议索引与论文卡。
-152538	$\epsilon$-Good Action Identification in Fixed-Budget Monte Carlo Tree Search	https://neurips.cc/virtual/2026/poster/152538	pending	-
-153358	$f$-GRPO & Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment	https://neurips.cc/virtual/2026/poster/153358	pending	-
-150269	$\gamma$-weakly $\theta$-up-concavity: A Unified Framework for Non-Convex Optimization Beyond DR-Submodular and OSS Functions	https://neurips.cc/virtual/2026/poster/150269	pending	-
-155968	$h$-control: Training-Free Camera Control via Block-Conditional Gibbs Refinement	https://neurips.cc/virtual/2026/poster/155968	pending	-
-155224	$\mathbf{D^{3}S^{2}}$: Diffusion-Guided Dataset Distillation for Semantic Segmentation	https://neurips.cc/virtual/2026/poster/155224	pending	-
-139531	$\mathbf{\mathtt{MAD\text{-}Bench}}$: How Do Multimodal Agents Deceive You?	https://neurips.cc/virtual/2026/poster/139531	pending	-
-153540	$\mathcal{P}$Torch: Narrowing the Gap Between Projection and Gradient-Based Learning	https://neurips.cc/virtual/2026/poster/153540	pending	-
-139441	$\mathrm{Bounded\mbox{-}RS}$: A Bounded Evaluation Protocol and Testbed for Representational Systematicity	https://neurips.cc/virtual/2026/poster/139441	pending	-
-139822	\$OneMillion-Bench: How Far are Language Agents from Human Experts?	https://neurips.cc/virtual/2026/poster/139822	pending	-
-148682	$PAS^2$: Physics-Anchored Spectral Reasoning for Air Quality Forecasting	https://neurips.cc/virtual/2026/poster/148682	pending	-
-139571	$\pi$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows	https://neurips.cc/virtual/2026/poster/139571	pending	-
-148690	$\pi^2$: A Simple Framework for 2D-to-3D Registration	https://neurips.cc/virtual/2026/poster/148690	pending	-
-155945	$R^2E$: A Role-driven Reward Evolutionary Framework for Automated Reward Function Design	https://neurips.cc/virtual/2026/poster/155945	pending	-
-154197	$R^3$: 3D Reconstruction via Relative Regression	https://neurips.cc/virtual/2026/poster/154197	pending	-
-153739	$SE(2)$-Aware Conditional Distribution Transport for Vehicle Trajectory Generation	https://neurips.cc/virtual/2026/poster/153739	pending	-
-155296	$\text{A}^3$-VLA: Automatic Perception-Guided Attention Alignment for Robot Manipulation	https://neurips.cc/virtual/2026/poster/155296	pending	-
-151818	$\textbf{EchMo}$: End-to-End Radar Echo Segmentation	https://neurips.cc/virtual/2026/poster/151818	pending	-
-151747	$\text{PartConcepts}$: A Unified Mechanism for Fine-Grained Part Localization and Generation	https://neurips.cc/virtual/2026/poster/151747	pending	-
-148783	$\texttt{bispectrum}$: Selective $G$-Bispectra Made Practical	https://neurips.cc/virtual/2026/poster/148783	pending	-
+152538	$\epsilon$-Good Action Identification in Fixed-Budget Monte Carlo Tree Search	https://neurips.cc/virtual/2026/poster/152538	included	固定预算下以近优识别率衡量采样
+153358	$f$-GRPO & Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment	https://neurips.cc/virtual/2026/poster/153358	included	以组内相对奖励划分对齐样本并选择散度
+150269	$\gamma$-weakly $\theta$-up-concavity: A Unified Framework for Non-Convex Optimization Beyond DR-Submodular and OSS Functions	https://neurips.cc/virtual/2026/poster/150269	included	根据曲率条件选用线性代理
+155968	$h$-control: Training-Free Camera Control via Block-Conditional Gibbs Refinement	https://neurips.cc/virtual/2026/poster/155968	included	按同噪声级细化未观测区域
+155224	$\mathbf{D^{3}S^{2}}$: Diffusion-Guided Dataset Distillation for Semantic Segmentation	https://neurips.cc/virtual/2026/poster/155224	included	先按类别筛掩码，再用像素和特征约束合成
+139531	$\mathbf{\mathtt{MAD\text{-}Bench}}$: How Do Multimodal Agents Deceive You?	https://neurips.cc/virtual/2026/poster/139531	included	把任务声明与可查执行证据独立对比
+153540	$\mathcal{P}$Torch: Narrowing the Gap Between Projection and Gradient-Based Learning	https://neurips.cc/virtual/2026/poster/153540	included	在比较投影与梯度训练时扫描深度
+139441	$\mathrm{Bounded\mbox{-}RS}$: A Bounded Evaluation Protocol and Testbed for Representational Systematicity	https://neurips.cc/virtual/2026/poster/139441	included	把可解码性与生成过程实际使用分开检验。
+139822	\$OneMillion-Bench: How Far are Language Agents from Human Experts?	https://neurips.cc/virtual/2026/poster/139822	excluded	摘要主要贡献是扩充专业任务样本与通用评分维度，尚未报告能够隔离某项设计选择的诊断结果。
+148682	$PAS^2$: Physics-Anchored Spectral Reasoning for Air Quality Forecasting	https://neurips.cc/virtual/2026/poster/148682	included	先估确定性趋势，再让神经分支学习波动。
+139571	$\pi$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows	https://neurips.cc/virtual/2026/poster/139571	included	独立统计任务完成与提前发现隐含需求。
+148690	$\pi^2$: A Simple Framework for 2D-to-3D Registration	https://neurips.cc/virtual/2026/poster/148690	included	预测点云在相机坐标系的位置，再解析求刚体位姿。
+155945	$R^2E$: A Role-driven Reward Evolutionary Framework for Automated Reward Function Design	https://neurips.cc/virtual/2026/poster/155945	excluded	摘要描述角色分工、进化搜索与共享精英池的集成，未给区分角色机制与普通进化搜索贡献的对照。
+154197	$R^3$: 3D Reconstruction via Relative Regression	https://neurips.cc/virtual/2026/poster/154197	included	用加权相对位姿约束替代单一全局锚点。
+153739	$SE(2)$-Aware Conditional Distribution Transport for Vehicle Trajectory Generation	https://neurips.cc/virtual/2026/poster/153739	included	在平面刚体位姿空间定义轨迹生成的中间输运状态。
+155296	$\text{A}^3$-VLA: Automatic Perception-Guided Attention Alignment for Robot Manipulation	https://neurips.cc/virtual/2026/poster/155296	included	从操作引起的画面变化离线构造目标区域监督。
+151818	$\textbf{EchMo}$: End-to-End Radar Echo Segmentation	https://neurips.cc/virtual/2026/poster/151818	included	把雷达处理阶段参数化成可微模块，联合优化分割。
+151747	$\text{PartConcepts}$: A Unified Mechanism for Fine-Grained Part Localization and Generation	https://neurips.cc/virtual/2026/poster/151747	included	训练部件专用 token 提高细粒度属性绑定。
+148783	$\texttt{bispectrum}$: Selective $G$-Bispectra Made Practical	https://neurips.cc/virtual/2026/poster/148783	included	在已知对称群的任务中测试选择性双谱池化。
 151375	$\texttt{RNAGenScape}$: property-guided, optimized generation of mRNA sequences with manifold Langevin dynamics	https://neurips.cc/virtual/2026/poster/151375	pending	-
-154745	$\varphi$TD: Distributional Reinforcement Learning using Characteristic Functions	https://neurips.cc/virtual/2026/poster/154745	pending	-
-154751	2D Spatial Reasoning with Adaptive Neural Cellular Automata	https://neurips.cc/virtual/2026/poster/154751	pending	-
-150442	2-Step Agent: How a Bayesian Decision Maker Learns from AI-Decision Support	https://neurips.cc/virtual/2026/poster/150442	pending	-
-153557	3A-VLA: Abstraction-Aligned Action Learning for Vision-Language Agents in 3D Game Worlds	https://neurips.cc/virtual/2026/poster/153557	pending	-
-151779	3DABSeg: Adaptive 3D Ankle Bone Segmentation with Multiscale Feature Fusion Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/151779	pending	-
-139453	3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code	https://neurips.cc/virtual/2026/poster/139453	pending	-
-152512	3D Consistency Tokens	https://neurips.cc/virtual/2026/poster/152512	pending	-
-155228	3D Fresnel Volumizing for Efficient Implicit Velocity Field Reconstruction	https://neurips.cc/virtual/2026/poster/155228	pending	-
-156149	3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields	https://neurips.cc/virtual/2026/poster/156149	pending	-
+154745	$\varphi$TD: Distributional Reinforcement Learning using Characteristic Functions	https://neurips.cc/virtual/2026/poster/154745	included	需要连续多峰回报时用特征函数损失。
+154751	2D Spatial Reasoning with Adaptive Neural Cellular Automata	https://neurips.cc/virtual/2026/poster/154751	included	把固定局部传播改成可动态改变感受野的迭代推理。
+150442	2-Step Agent: How a Bayesian Decision Maker Learns from AI-Decision Support	https://neurips.cc/virtual/2026/poster/150442	included	评估模型辅助时扫描用户先验与真实参数的错配。
+153557	3A-VLA: Abstraction-Aligned Action Learning for Vision-Language Agents in 3D Game Worlds	https://neurips.cc/virtual/2026/poster/153557	included	用意图和环境可供性一致程度调节示范损失。
+151779	3DABSeg: Adaptive 3D Ankle Bone Segmentation with Multiscale Feature Fusion Mixture-of-Experts	https://neurips.cc/virtual/2026/poster/151779	included	按多尺度空间统计将通道硬分给不同专家。
+139453	3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code	https://neurips.cc/virtual/2026/poster/139453	included	分开统计程序运行失败与渲染成功后的几何缺陷。
+152512	3D Consistency Tokens	https://neurips.cc/virtual/2026/poster/152512	included	将跨视图匹配建立在共享三维位置上。
+155228	3D Fresnel Volumizing for Efficient Implicit Velocity Field Reconstruction	https://neurips.cc/virtual/2026/poster/155228	included	把沿射线的稀疏梯度扩展到物理相关的邻域。
+156149	3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields	https://neurips.cc/virtual/2026/poster/156149	included	对高斯颜色施加连续场约束，减轻颜色对几何错误的补偿。
 156034	3D Molecule Generation from Rigid Motifs via $\mathrm{SE}(3)$ Flows	https://neurips.cc/virtual/2026/poster/156034	pending	-
-148954	3D-PLOT-LLM: Part-Level Object Tokens for 3D Large Language Models	https://neurips.cc/virtual/2026/poster/148954	pending	-
+148954	3D-PLOT-LLM: Part-Level Object Tokens for 3D Large Language Models	https://neurips.cc/virtual/2026/poster/148954	included	用可引用词表槽位把部件作为语言模型输入和输出中的实体。
 151080	3D Point Splatting for mmWave Radar Novel View Synthesis	https://neurips.cc/virtual/2026/poster/151080	pending	-
 152761	3D Skew Normal Splatting	https://neurips.cc/virtual/2026/poster/152761	pending	-
 153051	3DSPA: A 3D Semantic Point Autoencoder for Evaluating Video Realism	https://neurips.cc/virtual/2026/poster/153051	pending	-
