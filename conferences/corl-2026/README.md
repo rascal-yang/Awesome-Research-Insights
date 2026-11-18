@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **310 / 687** 篇，当前收录 **297** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **350 / 687** 篇，当前收录 **333** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -303,3 +303,39 @@
 | 具身智能 / 多模态 | 空间查询 | [GeoAlign: Beyond Semantics with State-Guided Spatial Alignment in VLA Models](cards.md#paper-am3agfollh) | 用机器人状态查询几何特征，避免在每个动作阶段输入同一组静态空间 token。 |
 | 具身智能 / 多模态 | 持续学习 | [Information-Theoretic Constraints for Continual Vision-Language-Action Alignment](cards.md#paper-h5qwmbcnsu) | 持续学习中同时保留跨模态历史锚点及视觉语言依赖。 |
 | 具身智能 / 规划 | 迁移诊断 | [To Route or to Adapt? Multi-Expert Diffusion Planners in Unseen Regions](cards.md#paper-pjuqx9kbg5) | 先用 oracle 测现有专家的路由收益上限，若上限低则将预算用在目标域适配。 |
+| 具身智能 | 世界模型 | [PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics](cards.md#paper-go08puaqia) | 先辨识可解释物性，再拟合解析模拟器的系统残差 |
+| 具身智能 | 部署适配 | [SILO: Simulation-in-the-Loop Sim-to-Real Transfer for Multi-Stage Cable Routing](cards.md#paper-2y1osh6gou) | 部署时保留模拟器并调用局部技能处理不同布线阶段 |
+| 具身智能 | 上下文模仿 | [Instant-Fold: In-Context Imitation Learning for Deformable Object Manipulation](cards.md#paper-kakzp9lr9v) | 用整条单次示范作为策略条件，使同任务的动作顺序可变 |
+| 具身智能 | 系统辨识 | [Wiggle and Go! System Identification for Zero-Shot Dynamic Rope Manipulation](cards.md#paper-n1gnyxww2f) | 先用短时探测区分物理参数，再让多个控制任务共用辨识结果 |
+| 具身智能 | 示范转换 | [EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations](cards.md#paper-drlpfld34l) | 同时转换人类视频外观和可执行动作，并保持时间对齐 |
+| 具身智能 | 数据配比 | [DexRoam: Enabling Mobile Dexterous Manipulation from Egocentric Human Demonstrations](cards.md#paper-myykl10jkd) | 保留遥操作数据，将重定向人类示范用于提高真机样本效率 |
+| 具身智能 | 潜动作预训练 | [LAPT-Scale: Scaling Embodied Policies with Latent Action Pre-Training on Human Videos](cards.md#paper-wmrkz9eybg) | 用连续隐动作表达细粒度帧间变化，再对齐实际机器人的动作空间 |
+| 具身智能 | 跨构型监督 | [ACE-Ego: Unifying Egocentric Human and Robotic Data for VLA Pretraining](cards.md#paper-atdkkvog7w) | 在统一动作坐标中保留构型标识，并按监督可靠性训练 |
+| 具身智能 | 世界动作模型 | [EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data](cards.md#paper-efkpqttjky) | 人机联合训练时优先比较特征及三维运动预测目标 |
+| 具身智能 | 模仿学习重加权 | [Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation](cards.md#paper-bsjuf5kla3) | 用离线图的剩余步数差筛出失败回合中的有效恢复动作 |
+| 具身智能 | 条件行为克隆 | [ALIGN: Aligning Condition Estimation and Expression in Advantage-Conditioned Behavior Cloning](cards.md#paper-mctspd3h0q) | 直接预测策略所需的类别条件，并在动作专家内调制 |
+| 具身智能 | 生成策略 | [Unified Condition-Action Modeling for Accurate One-Step Action Generation](cards.md#paper-eiwbkqs5pz) | 将观测和时间条件与动作放进同一 token 序列，联合更新表示 |
+| 具身智能 | 跨构型动作表示 | [Flow as Flow: Modeling Robot Velocity Fields as Probability Velocity Fields for Flow-Based Object Manipulation](cards.md#paper-bwhjoo36dr) | 跨机器人学习时拟合稠密连续速度而非稀疏位移 |
+| 具身智能 | 潜空间生成 | [LDP: Shaping Latent Spaces for Diffusion-Based Robotic Manipulation](cards.md#paper-f5kmqjcc8x) | 先用观测条件编码集中动作分布，再在潜空间做流匹配 |
+| 具身智能 | 空间条件化 | [Spatially Conditioned Diffusion Policy: Learning Precise and Robust Manipulation with a Single RGB Camera](cards.md#paper-ey3y7lxwy1) | 在每次去噪时沿中间轨迹查询图像特征 |
+| 具身智能 | 多模态编码 | [UniFlow: A Unified Multi-Modal Policy for Robot Manipulation](cards.md#paper-o03eddno6r) | 把三维观测变成图像形状点图以复用预训练二维编码器 |
+| 具身智能 | 约束采样 | [BayesFP: Posterior Estimation with Flow-Based Policy Priors via Feynman-Kac Sampling](cards.md#paper-unsv9dsbfo) | 把推理期新增代价写成似然，修正现成流或扩散策略的样本 |
+| 具身智能 | 探索与重训练 | [Guided Discovery of New Behaviors using Diffusion Policies](cards.md#paper-6en09r3ngp) | 针对欠覆盖行为定向采样，修复后再作为新示范 |
+| 具身智能 / 机器人学习 | 扩散策略 | [Where Should Action Generation Begin? A Learnable Source Prior for Generative Robot Policies](cards.md#paper-ao1shrwa8h) | 在生成器和求解器固定时，改用状态条件的随机动作先验。 |
+| 具身智能 / 机器人学习 | 策略表示 | [PRISM: Polynomial Representations for Interaction-Structured Motor Control](cards.md#paper-rqzhmvtyyy) | 给策略显式建模观测变量的乘法交互。 |
+| 具身智能 / 机器人学习 | 行为表示 | [Implicit Neural Representations of Individual Behavior](cards.md#paper-0gwpqwbvhj) | 从无身份标注的多策略轨迹学习 episode 级状态动作函数。 |
+| 具身智能 / 机器人学习 | 行为克隆 | [Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?](cards.md#paper-u56z5kqtki) | 用延迟单步策略与显式集成拆解动作分块的收益。 |
+| 具身智能 / 机器人学习 | 扩散策略 | [Learning to be Different: Component Specialization for Compositional Diffusion Policies](cards.md#paper-va3t8yk04w) | 对组合去噪器的噪声预测做去相关以降低重复计入。 |
+| 具身智能 / 机器人学习 | 策略编辑 | [Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering](cards.md#paper-tjg1zvcdxu) | 将临时模式判别器的修正写入策略权重。 |
+| 具身智能 / 机器人学习 | 持续学习 | [When Robots Sleep: Offline Skill Consolidation for Shared-Policy Robot Learning](cards.md#paper-jqaoksg9bd) | 在统一控制器中存紧凑技能替代监督，并评估技能对可靠性。 |
+| 具身智能 / 机器人学习 | 价值学习 | [Beyond Monotonic Progress: Retry-Supervised Value Learning for Robot Imitation](cards.md#paper-5fzzu1zwzg) | 用重试关键点监督非单调价值，保留有用纠错片段。 |
+| 具身智能 / 机器人学习 | 空间表示 | [ObstaDiff: Generalizable Diffusion Policy Learning via Obstacle-aware Representations](cards.md#paper-nnfdatgr3l) | 用目标、障碍和背景分离令策略显式处理遮挡空间。 |
+| 具身智能 / 机器人学习 | 动作重排 | [RAMT-VLA: Reliability-Aware Memory Tracing for Historical Support Assessment in Vision-Language-Action Models](cards.md#paper-k9ejtll8ba) | 用历史是否支持候选动作来重排冻结策略输出。 |
+| 具身智能 / 机器人学习 | 推理剪枝 | [ACE-VLA: Action Centric Evaluation for Token Pruning in Vision-Language-Action Models](cards.md#paper-qu7v3gmydu) | 以动作梯度归因替代视觉文本注意力给视觉 token 排序。 |
+| 具身智能 / 机器人学习 | 指令评测 | [RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents](cards.md#paper-a9aqjk3dat) | 让同一场景支持多条有效指令，避免视觉捷径掩盖指令忽略。 |
+| 具身智能 / 机器人学习 | 模仿评测 | [The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction](cards.md#paper-qh1h7ukk0k) | 把功能替代单独设为压力测试，区分轨迹复现与任务意图。 |
+| 具身智能 / 机器人学习 | 人机协作评测 | [HARP-Bench: Benchmarking Robot Manipulation Around Active Humans](cards.md#paper-cci6zzicew) | 构造同一任务的配对人类介入版本，测主动协作者对策略的影响。 |
+| 具身智能 / 机器人学习 | 在线监测 | [Online Robot Manipulation Error Detection and Description](cards.md#paper-qdjcwo9pmt) | 把故障监测建模为流式时间定位，同时输出起止与文本原因。 |
+| 具身智能 / 机器人学习 | 故障检测 | [VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models](cards.md#paper-mg7x6sfe75) | 融合特征分布偏离与预测动作块重叠区不一致，无需失败轨迹。 |
+| 具身智能 / 机器人学习 | 关系监测 | [Robot-WATCHDOG : failure detection through object-centric graph representation](cards.md#paper-1yl1d39r7k) | 以物体时空图检测关系故障，数据稀少时使用关系一致性模板。 |
+| 具身智能 / 机器人学习 | 失败恢复 | [Recover, Discover, Plan: Learning Skills and Concepts from Robot Failures](cards.md#paper-hufkyua5rr) | 从失败恢复轨迹学习关系谓词，让规划阶段主动避开同类失败。 |
