@@ -107,3 +107,53 @@
 | Agent | 强化学习 | [GCD: Correcting Hidden-State Bias in Off-Policy Agentic RL](cards-0006.md#paper-154093) | 在异步训练中将缓存隐状态漂移与 token 权重偏差分别审计 |
 | 科学机器学习 | 气候降尺度 | [GCD: GCM-consistent Diffusion for Zero-shot Downscaling across Heterogeneous GCMs](cards-0006.md#paper-152070) | 用过滤测量算子匹配外部模型与高分辨率先验频谱 |
 | 生成模型 | 蒸馏 | [GDMD: Guiding Distribution Matching Distillation with Gradient-Based Reinforcement Learning](cards-0006.md#paper-152678) | 按蒸馏更新方向而非早期像素样本构造奖励权重 |
+| 大语言模型 | 强化学习 | [GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models](cards-0006.md#paper-151913) | 扩散语言模型的奖励后训练可试用去噪器自蒸馏目标。 |
+| 优化 | 全局优化 | [GEAR: A GPU-Accelerated Global Solver for Nonlinear Programs via Linear Bound Propagation](cards-0006.md#paper-155708) | 有界连续轨迹规划若需要全局界，可用 GPU 线性松弛求解器作为对照。 |
+| 强化学习 | 策略蒸馏 | [GEAR: Bridging the Planner-Actor Gap via Gradient-Aligned Policy Extraction](cards-0006.md#paper-152259) | 规划器轨迹回归可按局部价值梯度方向加权。 |
+| 大语言模型 | 状态空间模型 | [GEAR: Generator-Adaptive State Space Models for Associative Recall](cards-0006.md#paper-155668) | 线性扫描模型的临时记忆可从固定递归改为上下文调制参数生成器。 |
+| 多模态学习 | 潜空间推理 | [GeLVR: Geometry-Consistent Latent Visual Reasoning in Multimodal LLMs](cards-0006.md#paper-150448) | 视觉潜变量推理的监督训练和强化学习可共享几何关系约束。 |
+| 大语言模型 | 表征正则化 | [GEM: Interpretable Language Models via Geometric Embedding Alignment](cards-0006.md#paper-148804) | 若需使用原生语言头解码中间层，可测试词嵌入凸组合正则。 |
+| 模型评测 | 评测稳健性 | [GenAI Evaluation Results are Largely Artifacts of Evaluation Design Choices: Evidence from Audit Studies of Resume Screening](cards-0006.md#paper-138976) | 多模态或 Agent 评测应交叉扰动提示、输入配对和模型，估计结论翻转率。 |
+| 具身智能 | 仿真到现实 | [GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking](cards-0006.md#paper-152591) | 只用合成数据训练物体位姿模型时，可为 2D、3D 及其跨模态特征加入一致性约束。 |
+| 智能体 | 课程学习 | [GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators](cards-0006.md#paper-152039) | 训练环境采样可用当前智能体难度区间引导生成。 |
+| 智能体 | 智能体评测 | [General Agent Evaluation](cards-0006.md#paper-139415) | 选 Agent 协议前应对同一组底座和任务做全因子比较。 |
+| 强化学习 | 贝叶斯任务适应 | [Generalised Linear Models in Deep Bayesian RL with Learnable Basis Functions](cards-0006.md#paper-149308) | 多任务 RL 可用学习的基函数配合可解析的任务后验。 |
+| 科学机器学习 | 物理仿真 | [Generalizable Physics Simulation through Compositional Energy Minimization](cards-0006.md#paper-153653) | 可组合交互系统可将状态转移换为逐相互作用的能量建模。 |
+| 深度学习 | 训练动力学 | [Generalization at the Edge of Stability](cards-0006.md#paper-154976) | 研究大步长训练泛化时可记录 Hessian 谱结构，补充最大特征值或迹。 |
+| 生成模型 | 扩散泛化 | [Generalization Dynamics of Linear Diffusion Models](cards-0006.md#paper-148559) | 数据量低于维数时可按数据谱诊断扩散过拟合，并对照正则化与早停。 |
+| 科学机器学习 | 算子学习 | [Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs](cards-0006.md#paper-152148) | 重复动力学更新时可比较共享局部迭代增加深度与增加参数两种选择。 |
+| 学习理论 | 表征诊断 | [Generalization in Neural Networks Through the Lens of Magnitude Potential](cards-0006.md#paper-152152) | 用分类层的类内与全数据势比追踪记忆与泛化 |
+| 学习理论 | 稳健性审计 | [Generalization Measures for Deep Learning Should Be Audited for Fragility](cards-0006.md#paper-140049) | 在近似同误差和不同优化配置下审计泛化指标 |
+| 学习理论 | 分布式优化 | [Generalization Without Compression Penalty: A Stability Analysis of Error Feedback](cards-0006.md#paper-149408) | 按压缩收缩率匹配对照并区分暂态和泛化误差 |
+| 学习理论 | 集成学习 | [Generalized Adaptive Boosting and the Geometry of Mistakes](cards-0006.md#paper-152221) | 在误报和漏报需区别时用联合保证描述弱学习器 |
+| 因果推断 | 不确定性量化 | [Generalized Bayes for Causal Inference](cards-0006.md#paper-151689) | 已有正交因果损失时用估计目标上的广义后验 |
+| 机器学习 | 影响估计 | [Generalized Influence Functions for Better Model Change Estimates](cards-0006.md#paper-149236) | 只对数据相关且曲率适宜的子空间估计参数变化 |
+| 强化学习 | 多智能体表示 | [Generalized Intention Modeling in Multi-Agent Reinforcement Learning](cards-0006.md#paper-151588) | 按任务回报选择对手意图表征混合 |
+| 统计学习 | 谱估计 | [Generalized Laplacian in Spectral Seriation on Manifold Data](cards-0006.md#paper-154052) | 恢复流形上的循环顺序时加额外归一化 |
+| 统计学习 | 价值归因 | [Generalized Priority-Aware Shapley Value](cards-0006.md#paper-152117) | 循环优先关系用软权重而非硬排序 |
+| 多模态学习 | 多视图融合 | [Generalized Robust Adaptive-Bandwidth Multi-View Manifold Learning in High Dimensions with Noise](cards-0006.md#paper-156634) | 各视图按噪声与几何分别选择核带宽 |
+| 优化 | 随机变分不等式 | [Generalized Smooth Stochastic Variational Inequalities: Almost Sure Convergence and Convergence Rates](cards-0006.md#paper-156744) | 在弱光滑、无界噪声设定下检查裁剪外梯度 |
+| 生成模型 | 最优传输 | [Generalized Wasserstein Flow Matching: Transport Plans, Everywhere, All at Once](cards-0006.md#paper-152114) | 对象本身是分布时在分布空间设定流 |
+| 具身智能 | 世界模型 | [Generalizing Action-Conditioned Latent World Models with Video Model Rewards](cards-0006.md#paper-154367) | 从生成视频蒸馏动作变化而非绝对内容 |
+| 大语言模型 | 推理时计算 | [Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph](cards-0006.md#paper-149398) | 在固定预算下联合搜索模型、角色和信息流 |
+| 机器学习 | 模型合并 | [Generalizing the Geometry of Model Merging Through Fréchet Averages](cards-0006.md#paper-153719) | 低秩适配器合并应对等价参数化不变 |
+| 生成模型 | 语义分布匹配 | [Generate in Reconstruction Space, Match in Semantic Space: Transport Geometry for One-Step Generation](cards-0006.md#paper-150849) | 生成保留重建空间，训练分布比较用冻结语义特征 |
+| 时间序列 | 生成训练 | [Generating Financial Time Series by Matching Random Convolutional Features](cards-0006.md#paper-149033) | 用固定可微随机卷积特征做小样本序列匹配 |
+| 生成模型 | 基准诊断 | [Generating from Discrete Distributions Using Diffusions: Insights from Random Constraint Satisfaction Problems](cards-0006.md#paper-150409) | 按约束结构评估连续和离散扩散及变量顺序 |
+| 学习理论 | 生成边界 | [Generating in the Limit with Infinitely Many Hallucinations](cards-0006.md#paper-151636) | 区分最终零错误和错误频率趋零的生成保证 |
+| 计算机视觉 | 身份保持生成 | [Generating the Wild: Individual-Consistent Image-to-Video Generation for Wildlife](cards-0006.md#paper-152322) | 将参考图像的前景高频线索作为独立身份条件。 |
+| 深度学习基础 | 结构化剪枝 | [Generation-Drift-Guided Block Pruning for Large Language Models](cards-0006.md#paper-152197) | 用自由生成中的轨迹漂移衡量模块重要性。 |
+| 具身智能 | 过程监督 | [Generation-for-Understanding with Structured Action Scripts for Embodied Multimodal Learning](cards-0006.md#paper-149460) | 由动作脚本和真实端点生成可验证的过程级视频监督。 |
+| 智能体 | 轨迹奖励 | [Generation Navigator: A State-Aware Agentic Framework for Image Generation](cards-0006.md#paper-153938) | 把多轮工具调用的奖励拆成质量峰值、峰值保持和轮次成本。 |
+| 深度学习基础 | 主动数据生成 | [Generative Active Learning via Bayesian Acquisition for Improving the Efficiency of Synthetic Data](cards-0006.md#paper-149816) | 用目标模型的认知不确定性指导生成式数据采集。 |
+| 强化学习 | 生成策略 | [Generative Actor-Critic with Soft Bridge Policies](cards-0006.md#paper-155388) | 用桥过程路径相对熵实现低延迟生成策略的软正则。 |
+| 深度学习基础 | 不确定性校准 | [Generative Conformal Prediction with Optimized Coverage Allocation](cards-0006.md#paper-149988) | 在生成式预测的样本排序上优化覆盖分配。 |
+| 具身智能 | 自适应推理 | [Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control](cards-0006.md#paper-149041) | 依据动作速度场范数决定是否继续细化。 |
+| 深度学习基础 | 损失函数 | [Generative Cross-Entropy: A Strictly Proper Loss for Data-Efficient Classification](cards-0006.md#paper-154926) | 通过批内类别归一化增强少样本分类监督。 |
+| 生成模型 | 输运生成 | [Generative Modeling by Value-Driven Transport](cards-0006.md#paper-152354) | 用动态控制的对偶价值函数确定生成输运策略。 |
+| 生成模型 | 单步生成 | [Generative Modeling via Drifting](cards-0006.md#paper-154240) | 在训练中移动生成分布，使推理直接一次映射。 |
+| 多模态学习 | 定位监督 | [Generative Object Detection with Co-Training](cards-0006.md#paper-153794) | 在生成式检测中内化目标查询，并逐步移除候选辅助。 |
+| 强化学习 | 离线策略约束 | [Generative OOD-regularized Model-based Policy Optimization](cards-0006.md#paper-155741) | 按动力学可靠性选择密度型分布外惩罚。 |
+| 具身智能 | 潜变量滚动预测 | [Generative Scenario Rollouts for End-to-End Autonomous Driving](cards-0006.md#paper-155620) | 同时滚动预测动作与语言条件下的场景，并用一致性抑制长程漂移。 |
+| 计算机视觉 | 联合三维重建 | [Generative Structure from Motion with Native 3D Diffusion](cards-0006.md#paper-152786) | 在同一去噪过程中联合估计几何与相机位姿。 |
+| 智能体 | 轨迹蒸馏 | [GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation](cards-0006.md#paper-155907) | 以同目标强弱轨迹差异产生细粒度工具决策监督。 |

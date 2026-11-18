@@ -3302,67 +3302,67 @@ poster_id	title	paper_url	status	reason
 154093	GCD: Correcting Hidden-State Bias in Off-Policy Agentic RL	https://neurips.cc/virtual/2026/poster/154093	included	在异步训练中将缓存隐状态漂移与 token 权重偏差分别审计
 152070	GCD: GCM-consistent Diffusion for Zero-shot Downscaling across Heterogeneous GCMs	https://neurips.cc/virtual/2026/poster/152070	included	用过滤测量算子匹配外部模型与高分辨率先验频谱
 152678	GDMD: Guiding Distribution Matching Distillation with Gradient-Based Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152678	included	按蒸馏更新方向而非早期像素样本构造奖励权重
-151913	GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/151913	pending	-
-155708	GEAR: A GPU-Accelerated Global Solver for Nonlinear Programs via Linear Bound Propagation	https://neurips.cc/virtual/2026/poster/155708	pending	-
+151913	GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models	https://neurips.cc/virtual/2026/poster/151913	included	扩散语言模型的奖励后训练可试用去噪器自蒸馏目标。
+155708	GEAR: A GPU-Accelerated Global Solver for Nonlinear Programs via Linear Bound Propagation	https://neurips.cc/virtual/2026/poster/155708	included	有界连续轨迹规划若需要全局界，可用 GPU 线性松弛求解器作为对照。
 153068	GEAR-Align: Grounding-Evidence-Aware Gradient Routing for Multimodal Alignment	https://neurips.cc/virtual/2026/poster/153068	included	按答案 token 对视觉的依赖程度分配梯度。
-152259	GEAR: Bridging the Planner-Actor Gap via Gradient-Aligned Policy Extraction	https://neurips.cc/virtual/2026/poster/152259	pending	-
-155668	GEAR: Generator-Adaptive State Space Models for Associative Recall	https://neurips.cc/virtual/2026/poster/155668	pending	-
-150448	GeLVR: Geometry-Consistent Latent Visual Reasoning in Multimodal LLMs	https://neurips.cc/virtual/2026/poster/150448	pending	-
-149511	GEM: A Dual-Scale Architecture for Graph-Level Hierarchical Representation Learning	https://neurips.cc/virtual/2026/poster/149511	pending	-
-148804	GEM: Interpretable Language Models via Geometric Embedding Alignment	https://neurips.cc/virtual/2026/poster/148804	pending	-
-139492	GEMS-3D: A Large-Scale 3D Gravity, Electrical, Magnetic, and Seismic Earth Simulation Dataset for Multimodal Geophysical Learning	https://neurips.cc/virtual/2026/poster/139492	pending	-
-138976	GenAI Evaluation Results are Largely Artifacts of Evaluation Design Choices: Evidence from Audit Studies of Resume Screening	https://neurips.cc/virtual/2026/poster/138976	pending	-
-152591	GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking	https://neurips.cc/virtual/2026/poster/152591	pending	-
-139694	Gender Artifacts from Art History to Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/139694	pending	-
-152039	GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators	https://neurips.cc/virtual/2026/poster/152039	pending	-
-139415	General Agent Evaluation	https://neurips.cc/virtual/2026/poster/139415	pending	-
-149308	Generalised Linear Models in Deep Bayesian RL with Learnable Basis Functions	https://neurips.cc/virtual/2026/poster/149308	pending	-
-153653	Generalizable Physics Simulation through Compositional Energy Minimization	https://neurips.cc/virtual/2026/poster/153653	pending	-
-154714	Generalization Analysis of Biased Stochastic Gradient Methods for Minimax Problems	https://neurips.cc/virtual/2026/poster/154714	pending	-
-154976	Generalization at the Edge of Stability	https://neurips.cc/virtual/2026/poster/154976	pending	-
-149238	Generalization Bounds for Neural Networks with Sparse Connectivity	https://neurips.cc/virtual/2026/poster/149238	pending	-
-148559	Generalization Dynamics of Linear Diffusion Models	https://neurips.cc/virtual/2026/poster/148559	pending	-
-152148	Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs	https://neurips.cc/virtual/2026/poster/152148	pending	-
-152152	Generalization in Neural Networks Through the Lens of Magnitude Potential	https://neurips.cc/virtual/2026/poster/152152	pending	-
-140049	Generalization Measures for Deep Learning Should Be Audited for Fragility	https://neurips.cc/virtual/2026/poster/140049	pending	-
-149408	Generalization Without Compression Penalty: A Stability Analysis of Error Feedback	https://neurips.cc/virtual/2026/poster/149408	pending	-
-152221	Generalized Adaptive Boosting and the Geometry of Mistakes	https://neurips.cc/virtual/2026/poster/152221	pending	-
-151689	Generalized Bayes for Causal Inference	https://neurips.cc/virtual/2026/poster/151689	pending	-
-149236	Generalized Influence Functions for Better Model Change Estimates	https://neurips.cc/virtual/2026/poster/149236	pending	-
-151588	Generalized Intention Modeling in Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151588	pending	-
-154052	Generalized Laplacian in Spectral Seriation on Manifold Data	https://neurips.cc/virtual/2026/poster/154052	pending	-
-152117	Generalized Priority-Aware Shapley Value	https://neurips.cc/virtual/2026/poster/152117	pending	-
-156634	Generalized Robust Adaptive-Bandwidth Multi-View Manifold Learning in High Dimensions with Noise	https://neurips.cc/virtual/2026/poster/156634	pending	-
-156744	Generalized Smooth Stochastic Variational Inequalities: Almost Sure Convergence and Convergence Rates	https://neurips.cc/virtual/2026/poster/156744	pending	-
-152114	Generalized Wasserstein Flow Matching: Transport Plans, Everywhere, All at Once	https://neurips.cc/virtual/2026/poster/152114	pending	-
-154367	Generalizing Action-Conditioned Latent World Models with Video Model Rewards	https://neurips.cc/virtual/2026/poster/154367	pending	-
-149398	Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph	https://neurips.cc/virtual/2026/poster/149398	pending	-
-153719	Generalizing the Geometry of Model Merging Through Fréchet Averages	https://neurips.cc/virtual/2026/poster/153719	pending	-
-150849	Generate in Reconstruction Space, Match in Semantic Space: Transport Geometry for One-Step Generation	https://neurips.cc/virtual/2026/poster/150849	pending	-
-149033	Generating Financial Time Series by Matching Random Convolutional Features	https://neurips.cc/virtual/2026/poster/149033	pending	-
-150409	Generating from Discrete Distributions Using Diffusions: Insights from Random Constraint Satisfaction Problems	https://neurips.cc/virtual/2026/poster/150409	pending	-
-151636	Generating in the Limit with Infinitely Many Hallucinations	https://neurips.cc/virtual/2026/poster/151636	pending	-
-152559	Generating Physically Consistent Molecules with Energy-Based Models	https://neurips.cc/virtual/2026/poster/152559	pending	-
-151926	Generating Symmetric Materials using Latent Flow Matching	https://neurips.cc/virtual/2026/poster/151926	pending	-
-149448	Generating the Unheard: Phylogeny-Guided Latent Generation for Ancestral Sound Reconstruction	https://neurips.cc/virtual/2026/poster/149448	pending	-
-152322	Generating the Wild: Individual-Consistent Image-to-Video Generation for Wildlife	https://neurips.cc/virtual/2026/poster/152322	pending	-
-152197	Generation-Drift-Guided Block Pruning for Large Language Models	https://neurips.cc/virtual/2026/poster/152197	pending	-
-149460	Generation-for-Understanding with Structured Action Scripts for Embodied Multimodal Learning	https://neurips.cc/virtual/2026/poster/149460	pending	-
-153938	Generation Navigator: A State-Aware Agentic Framework for Image Generation	https://neurips.cc/virtual/2026/poster/153938	pending	-
-149816	Generative Active Learning via Bayesian Acquisition for Improving the Efficiency of Synthetic Data	https://neurips.cc/virtual/2026/poster/149816	pending	-
-155388	Generative Actor-Critic with Soft Bridge Policies	https://neurips.cc/virtual/2026/poster/155388	pending	-
-149988	Generative Conformal Prediction with Optimized Coverage Allocation	https://neurips.cc/virtual/2026/poster/149988	pending	-
-149041	Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control	https://neurips.cc/virtual/2026/poster/149041	pending	-
-154926	Generative Cross-Entropy: A Strictly Proper Loss for Data-Efficient Classification	https://neurips.cc/virtual/2026/poster/154926	pending	-
-152354	Generative Modeling by Value-Driven Transport	https://neurips.cc/virtual/2026/poster/152354	pending	-
-155457	Generative Modeling under Non-Monotone MAR Missingness via Approximate Wasserstein Gradient Flows	https://neurips.cc/virtual/2026/poster/155457	pending	-
-154240	Generative Modeling via Drifting	https://neurips.cc/virtual/2026/poster/154240	pending	-
-149233	Generative Molecular Morphing for Flexible-Size Design via Unbalanced Optimal Transport	https://neurips.cc/virtual/2026/poster/149233	pending	-
-153794	Generative Object Detection with Co-Training	https://neurips.cc/virtual/2026/poster/153794	pending	-
-155741	Generative OOD-regularized Model-based Policy Optimization	https://neurips.cc/virtual/2026/poster/155741	pending	-
-155620	Generative Scenario Rollouts for End-to-End Autonomous Driving	https://neurips.cc/virtual/2026/poster/155620	pending	-
-152786	Generative Structure from Motion with Native 3D Diffusion	https://neurips.cc/virtual/2026/poster/152786	pending	-
-155907	GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation	https://neurips.cc/virtual/2026/poster/155907	pending	-
+152259	GEAR: Bridging the Planner-Actor Gap via Gradient-Aligned Policy Extraction	https://neurips.cc/virtual/2026/poster/152259	included	规划器轨迹回归可按局部价值梯度方向加权。
+155668	GEAR: Generator-Adaptive State Space Models for Associative Recall	https://neurips.cc/virtual/2026/poster/155668	included	线性扫描模型的临时记忆可从固定递归改为上下文调制参数生成器。
+150448	GeLVR: Geometry-Consistent Latent Visual Reasoning in Multimodal LLMs	https://neurips.cc/virtual/2026/poster/150448	included	视觉潜变量推理的监督训练和强化学习可共享几何关系约束。
+149511	GEM: A Dual-Scale Architecture for Graph-Level Hierarchical Representation Learning	https://neurips.cc/virtual/2026/poster/149511	excluded	图级双分支、社群池化和信息瓶颈的组合在图分类上验证，摘要未分离出可支撑目标研究决策的独立规律。
+148804	GEM: Interpretable Language Models via Geometric Embedding Alignment	https://neurips.cc/virtual/2026/poster/148804	included	若需使用原生语言头解码中间层，可测试词嵌入凸组合正则。
+139492	GEMS-3D: A Large-Scale 3D Gravity, Electrical, Magnetic, and Seismic Earth Simulation Dataset for Multimodal Geophysical Learning	https://neurips.cc/virtual/2026/poster/139492	excluded	主要贡献是地质多物理合成数据集及样本对齐，摘要未报告可迁移的训练机制或验证规律。
+138976	GenAI Evaluation Results are Largely Artifacts of Evaluation Design Choices: Evidence from Audit Studies of Resume Screening	https://neurips.cc/virtual/2026/poster/138976	included	多模态或 Agent 评测应交叉扰动提示、输入配对和模型，估计结论翻转率。
+152591	GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking	https://neurips.cc/virtual/2026/poster/152591	included	只用合成数据训练物体位姿模型时，可为 2D、3D 及其跨模态特征加入一致性约束。
+139694	Gender Artifacts from Art History to Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/139694	excluded	艺术史风格和性别的案例及两项指标以特定审计对象为主，摘要缺少支持多模态模型设计选择的独立实验。
+152039	GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators	https://neurips.cc/virtual/2026/poster/152039	included	训练环境采样可用当前智能体难度区间引导生成。
+139415	General Agent Evaluation	https://neurips.cc/virtual/2026/poster/139415	included	选 Agent 协议前应对同一组底座和任务做全因子比较。
+149308	Generalised Linear Models in Deep Bayesian RL with Learnable Basis Functions	https://neurips.cc/virtual/2026/poster/149308	included	多任务 RL 可用学习的基函数配合可解析的任务后验。
+153653	Generalizable Physics Simulation through Compositional Energy Minimization	https://neurips.cc/virtual/2026/poster/153653	included	可组合交互系统可将状态转移换为逐相互作用的能量建模。
+154714	Generalization Analysis of Biased Stochastic Gradient Methods for Minimax Problems	https://neurips.cc/virtual/2026/poster/154714	excluded	结果为满足特定偏差、光滑性和矩条件的极小极大风险界，摘要未给出可据此选用具体剪裁或平滑策略的区间。
+154976	Generalization at the Edge of Stability	https://neurips.cc/virtual/2026/poster/154976	included	研究大步长训练泛化时可记录 Hessian 谱结构，补充最大特征值或迹。
+149238	Generalization Bounds for Neural Networks with Sparse Connectivity	https://neurips.cc/virtual/2026/poster/149238	excluded	活跃参数数目的稀疏风险界依赖权重准范数约束，摘要不足以给出可迁移的剪枝位置、阈值或训练决策。
+148559	Generalization Dynamics of Linear Diffusion Models	https://neurips.cc/virtual/2026/poster/148559	included	数据量低于维数时可按数据谱诊断扩散过拟合，并对照正则化与早停。
+152148	Generalization Error Bounds for Picard-Type Operator Learning in Nonlinear Parabolic PDEs	https://neurips.cc/virtual/2026/poster/152148	included	重复动力学更新时可比较共享局部迭代增加深度与增加参数两种选择。
+152152	Generalization in Neural Networks Through the Lens of Magnitude Potential	https://neurips.cc/virtual/2026/poster/152152	included	用分类层的类内与全数据势比追踪记忆与泛化
+140049	Generalization Measures for Deep Learning Should Be Audited for Fragility	https://neurips.cc/virtual/2026/poster/140049	included	在近似同误差和不同优化配置下审计泛化指标
+149408	Generalization Without Compression Penalty: A Stability Analysis of Error Feedback	https://neurips.cc/virtual/2026/poster/149408	included	按压缩收缩率匹配对照并区分暂态和泛化误差
+152221	Generalized Adaptive Boosting and the Geometry of Mistakes	https://neurips.cc/virtual/2026/poster/152221	included	在误报和漏报需区别时用联合保证描述弱学习器
+151689	Generalized Bayes for Causal Inference	https://neurips.cc/virtual/2026/poster/151689	included	已有正交因果损失时用估计目标上的广义后验
+149236	Generalized Influence Functions for Better Model Change Estimates	https://neurips.cc/virtual/2026/poster/149236	included	只对数据相关且曲率适宜的子空间估计参数变化
+151588	Generalized Intention Modeling in Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151588	included	按任务回报选择对手意图表征混合
+154052	Generalized Laplacian in Spectral Seriation on Manifold Data	https://neurips.cc/virtual/2026/poster/154052	included	恢复流形上的循环顺序时加额外归一化
+152117	Generalized Priority-Aware Shapley Value	https://neurips.cc/virtual/2026/poster/152117	included	循环优先关系用软权重而非硬排序
+156634	Generalized Robust Adaptive-Bandwidth Multi-View Manifold Learning in High Dimensions with Noise	https://neurips.cc/virtual/2026/poster/156634	included	各视图按噪声与几何分别选择核带宽
+156744	Generalized Smooth Stochastic Variational Inequalities: Almost Sure Convergence and Convergence Rates	https://neurips.cc/virtual/2026/poster/156744	included	在弱光滑、无界噪声设定下检查裁剪外梯度
+152114	Generalized Wasserstein Flow Matching: Transport Plans, Everywhere, All at Once	https://neurips.cc/virtual/2026/poster/152114	included	对象本身是分布时在分布空间设定流
+154367	Generalizing Action-Conditioned Latent World Models with Video Model Rewards	https://neurips.cc/virtual/2026/poster/154367	included	从生成视频蒸馏动作变化而非绝对内容
+149398	Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph	https://neurips.cc/virtual/2026/poster/149398	included	在固定预算下联合搜索模型、角色和信息流
+153719	Generalizing the Geometry of Model Merging Through Fréchet Averages	https://neurips.cc/virtual/2026/poster/153719	included	低秩适配器合并应对等价参数化不变
+150849	Generate in Reconstruction Space, Match in Semantic Space: Transport Geometry for One-Step Generation	https://neurips.cc/virtual/2026/poster/150849	included	生成保留重建空间，训练分布比较用冻结语义特征
+149033	Generating Financial Time Series by Matching Random Convolutional Features	https://neurips.cc/virtual/2026/poster/149033	included	用固定可微随机卷积特征做小样本序列匹配
+150409	Generating from Discrete Distributions Using Diffusions: Insights from Random Constraint Satisfaction Problems	https://neurips.cc/virtual/2026/poster/150409	included	按约束结构评估连续和离散扩散及变量顺序
+151636	Generating in the Limit with Infinitely Many Hallucinations	https://neurips.cc/virtual/2026/poster/151636	included	区分最终零错误和错误频率趋零的生成保证
+152559	Generating Physically Consistent Molecules with Energy-Based Models	https://neurips.cc/virtual/2026/poster/152559	excluded	主要贡献涉及分子生成和设计，未提取可独立采用的非生物技术卡。
+151926	Generating Symmetric Materials using Latent Flow Matching	https://neurips.cc/virtual/2026/poster/151926	excluded	只在晶体材料验证 Wyckoff 约束，未给出能改变当前多模态、智能体或具身研究的具体选择。
+149448	Generating the Unheard: Phylogeny-Guided Latent Generation for Ancestral Sound Reconstruction	https://neurips.cc/virtual/2026/poster/149448	excluded	祖先音频重建依赖已知系统发育树，摘要中的迁移依据集中于鸟鸣重建。
+152322	Generating the Wild: Individual-Consistent Image-to-Video Generation for Wildlife	https://neurips.cc/virtual/2026/poster/152322	included	将参考图像的前景高频线索作为独立身份条件。
+152197	Generation-Drift-Guided Block Pruning for Large Language Models	https://neurips.cc/virtual/2026/poster/152197	included	用自由生成中的轨迹漂移衡量模块重要性。
+149460	Generation-for-Understanding with Structured Action Scripts for Embodied Multimodal Learning	https://neurips.cc/virtual/2026/poster/149460	included	由动作脚本和真实端点生成可验证的过程级视频监督。
+153938	Generation Navigator: A State-Aware Agentic Framework for Image Generation	https://neurips.cc/virtual/2026/poster/153938	included	把多轮工具调用的奖励拆成质量峰值、峰值保持和轮次成本。
+149816	Generative Active Learning via Bayesian Acquisition for Improving the Efficiency of Synthetic Data	https://neurips.cc/virtual/2026/poster/149816	included	用目标模型的认知不确定性指导生成式数据采集。
+155388	Generative Actor-Critic with Soft Bridge Policies	https://neurips.cc/virtual/2026/poster/155388	included	用桥过程路径相对熵实现低延迟生成策略的软正则。
+149988	Generative Conformal Prediction with Optimized Coverage Allocation	https://neurips.cc/virtual/2026/poster/149988	included	在生成式预测的样本排序上优化覆盖分配。
+149041	Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control	https://neurips.cc/virtual/2026/poster/149041	included	依据动作速度场范数决定是否继续细化。
+154926	Generative Cross-Entropy: A Strictly Proper Loss for Data-Efficient Classification	https://neurips.cc/virtual/2026/poster/154926	included	通过批内类别归一化增强少样本分类监督。
+152354	Generative Modeling by Value-Driven Transport	https://neurips.cc/virtual/2026/poster/152354	included	用动态控制的对偶价值函数确定生成输运策略。
+155457	Generative Modeling under Non-Monotone MAR Missingness via Approximate Wasserstein Gradient Flows	https://neurips.cc/virtual/2026/poster/155457	excluded	非单调 MAR 插补有独立统计机制，但本篇未给出面向当前多模态、智能体或具身研究的具体选择。
+154240	Generative Modeling via Drifting	https://neurips.cc/virtual/2026/poster/154240	included	在训练中移动生成分布，使推理直接一次映射。
+149233	Generative Molecular Morphing for Flexible-Size Design via Unbalanced Optimal Transport	https://neurips.cc/virtual/2026/poster/149233	excluded	柔性原子数生成主要面向分子性质及骨架约束，摘要未建立面向当前重点方向的具体可验证迁移。
+153794	Generative Object Detection with Co-Training	https://neurips.cc/virtual/2026/poster/153794	included	在生成式检测中内化目标查询，并逐步移除候选辅助。
+155741	Generative OOD-regularized Model-based Policy Optimization	https://neurips.cc/virtual/2026/poster/155741	included	按动力学可靠性选择密度型分布外惩罚。
+155620	Generative Scenario Rollouts for End-to-End Autonomous Driving	https://neurips.cc/virtual/2026/poster/155620	included	同时滚动预测动作与语言条件下的场景，并用一致性抑制长程漂移。
+152786	Generative Structure from Motion with Native 3D Diffusion	https://neurips.cc/virtual/2026/poster/152786	included	在同一去噪过程中联合估计几何与相机位姿。
+155907	GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation	https://neurips.cc/virtual/2026/poster/155907	included	以同目标强弱轨迹差异产生细粒度工具决策监督。
 154372	GeneZip: Region-Aware Compression for Long Context DNA Modeling	https://neurips.cc/virtual/2026/poster/154372	pending	-
 149818	GenRec: Knowing Where to Reconstruct and Where to Generate	https://neurips.cc/virtual/2026/poster/149818	pending	-
 150911	GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction	https://neurips.cc/virtual/2026/poster/150911	pending	-
