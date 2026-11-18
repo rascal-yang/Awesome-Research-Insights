@@ -292,6 +292,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference](../../conferences/icml-2026/cards/5601-5700.md#yuan26h-representation-learning) · 中文
 - [HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference](../../conferences/icml-2026/cards/5601-5700.md#zang26a-representation-learning) · 中文
 - [RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression](../../conferences/icml-2026/cards/6101-6200.md#zhong26h-representation-learning) · 中文
+- [Trajectory Seriation via Spectral Tangent Alignment and Global Embedding](../../conferences/icml-2026/cards/6101-6200.md#zhou26ap-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

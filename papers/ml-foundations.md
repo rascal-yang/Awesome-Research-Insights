@@ -154,6 +154,7 @@
 - <a id="zeng26r-modules"></a>[CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26r)
 - <a id="zhao26at-modules"></a>[SIKA-GP: Accelerating Gaussian Process Inference with Sparse Inducing Kernel Approximations for Bayesian Deep Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26at)
 - <a id="zhao26az-modules"></a>[Contractive Anchor Resolvent Diffusion for Incomplete Multi-View Clustering](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26az)
+- <a id="zhou26bb-modules"></a>[Winformer: Transcending Pairwise Similarity for Time-series Generation](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bb)
 
 <a id="by-loss-functions"></a>
 
@@ -504,6 +505,7 @@
 - <a id="zhong26j-optimization"></a>[DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26j)
 - <a id="zhou26d-optimization"></a>[AdaS: Adaptive Gradient Descent for Spiking Transformers](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26d)
 - <a id="zhou26aa-optimization"></a>[Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26aa)
+- <a id="zhou26ak-optimization"></a>[DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ak)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -647,6 +649,8 @@
 - <a id="zhang26bv-data-strategies"></a>[MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bv)
 - <a id="zhang26dz-data-strategies"></a>[MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dz)
 - <a id="zhang26hn-data-strategies"></a>[Active Tabular Augmentation via Policy-Guided Diffusion Inpainting](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hn)
+- <a id="zhou26as-data-strategies"></a>[IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26as)
+- <a id="zhou26ba-data-strategies"></a>[SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26ba)
 
 <a id="by-inference"></a>
 
@@ -789,6 +793,7 @@
 - <a id="yuan26h-representation-learning"></a>[Generative Modeling of Irregular Time Series via SDE-Induced Continuous-Discrete Variational Inference](../conferences/icml-2026/cards/5601-5700.md#paper-yuan26h)
 - <a id="zang26a-representation-learning"></a>[HDTree: Generative Modeling of Cellular Hierarchies for Robust Lineage Inference](../conferences/icml-2026/cards/5601-5700.md#paper-zang26a)
 - <a id="zhong26h-representation-learning"></a>[RQ-MoE: Residual Quantization via Mixture of Experts for Efficient Input-Dependent Vector Compression](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26h)
+- <a id="zhou26ap-representation-learning"></a>[Trajectory Seriation via Spectral Tangent Alignment and Global Embedding](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ap)
 
 <a id="by-evaluation"></a>
 
@@ -866,6 +871,7 @@
 - <a id="zeng26f-evaluation"></a>[Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26f)
 - <a id="zhang26aj-evaluation"></a>[Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26aj)
 - <a id="zhang26hp-evaluation"></a>[A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hp)
+- <a id="zhou26bc-evaluation"></a>[Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bc)
 
 <a id="by-theory-statistics"></a>
 
@@ -1329,4 +1335,5 @@
 - <a id="zhou26s-theory-statistics"></a>[Towards Completeness in Causal Discovery from Soft Interventions with Known Targets](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26s)
 - <a id="zhou26v-theory-statistics"></a>[Is Spurious Correlation Removal Always Learnable?](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26v)
 - <a id="zhou26ac-theory-statistics"></a>[$\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ac)
+- <a id="zhou26am-theory-statistics"></a>[Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26am)
 <!-- classification:end -->

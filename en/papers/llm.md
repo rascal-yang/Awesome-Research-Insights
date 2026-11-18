@@ -308,6 +308,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26jm-optimization"></a>[Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR](../../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jm)
 - <a id="zhao26ap-optimization"></a>[ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ap)
 - <a id="zhao26bi-optimization"></a>[TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bi)
+- <a id="zhou26av-optimization"></a>[Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26av)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1557,6 +1558,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhong26t-evaluation"></a>[SWE-IF: Aligning Code Evaluation with Human Preference](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26t)
 - <a id="zhou26p-evaluation"></a>[Alignment Risks from Capability-Seeking RL Training](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26p)
 - <a id="zhou26af-evaluation"></a>[InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26af)
+- <a id="zhou26at-evaluation"></a>[How Transformers Represent Hierarchies: A Local-to-Global Mechanism](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26at)
 
 <a id="by-theory-statistics"></a>
 

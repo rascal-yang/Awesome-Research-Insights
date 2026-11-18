@@ -123,6 +123,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR](../../conferences/icml-2026/cards/6001-6100.md#zhang26jm-optimization) · 中文
 - [ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts](../../conferences/icml-2026/cards/6001-6100.md#zhao26ap-optimization) · 中文
 - [TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../../conferences/icml-2026/cards/6001-6100.md#zhao26bi-optimization) · 中文
+- [Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training](../../conferences/icml-2026/cards/6201-6300.md#zhou26av-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -494,6 +495,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhong26j-optimization) · 中文
 - [AdaS: Adaptive Gradient Descent for Spiking Transformers](../../conferences/icml-2026/cards/6101-6200.md#zhou26d-optimization) · 中文
 - [Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms](../../conferences/icml-2026/cards/6101-6200.md#zhou26aa-optimization) · 中文
+- [DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ak-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

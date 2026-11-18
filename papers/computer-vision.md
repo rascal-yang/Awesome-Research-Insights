@@ -209,6 +209,7 @@
 - <a id="zhao26y-loss-functions"></a>[Just Noticeable Difference Modeling for Deep Visual Features](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26y)
 - <a id="zhou26q-loss-functions"></a>[Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26q)
 - <a id="zhou26r-loss-functions"></a>[SpecPL: Disentangling Spectral Granularity for Prompt Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26r)
+- <a id="zhou26ar-loss-functions"></a>[Segment Anything with Robust Uncertainty-Accuracy Correlation](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ar)
 
 <a id="by-optimization"></a>
 

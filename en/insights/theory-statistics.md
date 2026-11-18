@@ -200,6 +200,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Embedding Hybrid Systems into Continuous Latent Vector Fields](../../conferences/icml-2026/cards/4401-4500.md#teng26a-theory-statistics) · 中文
 - [On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise](../../conferences/icml-2026/cards/4401-4500.md#teutsch26a-theory-statistics) · 中文
 - [Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](../../conferences/icml-2026/cards/5501-5600.md#yates26a-theory-statistics) · 中文
+- [Neural Vector Lyapunov–Razumikhin Certificates for Delayed Interconnected Systems](../../conferences/icml-2026/cards/6201-6300.md#zhou26au-theory-statistics) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -673,6 +674,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Towards Completeness in Causal Discovery from Soft Interventions with Known Targets](../../conferences/icml-2026/cards/6101-6200.md#zhou26s-theory-statistics) · 中文
 - [Is Spurious Correlation Removal Always Learnable?](../../conferences/icml-2026/cards/6101-6200.md#zhou26v-theory-statistics) · 中文
 - [$\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function](../../conferences/icml-2026/cards/6101-6200.md#zhou26ac-theory-statistics) · 中文
+- [Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach](../../conferences/icml-2026/cards/6101-6200.md#zhou26am-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

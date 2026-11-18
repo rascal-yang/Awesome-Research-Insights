@@ -145,6 +145,7 @@
 - [任务一致约束下的特征扰动幅度](../conferences/icml-2026/cards/6001-6100.md#zhao26y-loss-functions) · Just Noticeable Difference Modeling for Deep Visual Features
 - [mask面积自适应的修补边界奖励](../conferences/icml-2026/cards/6101-6200.md#zhou26q-loss-functions) · Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting
 - [细粒度置换标签的prompt辅助监督](../conferences/icml-2026/cards/6101-6200.md#zhou26r-loss-functions) · SpecPL: Disentangling Spectral Granularity for Prompt Learning
+- [分离误差与不确定度通道生成失配样本](../conferences/icml-2026/cards/6101-6200.md#zhou26ar-loss-functions) · Segment Anything with Robust Uncertainty-Accuracy Correlation
 
 <a id="by-nlp"></a>
 
@@ -263,6 +264,7 @@
 - [用事件边界扰动评估时间推理依赖](../conferences/icml-2026/cards/6101-6200.md#zheng26ad-loss-functions) · Temporal-Aware Reasoning Optimization for Video Temporal Grounding
 - [以任务概率监督独立confidence gate](../conferences/icml-2026/cards/6101-6200.md#zheng26af-loss-functions) · Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate
 - [感知与答案分差的非对称惩罚](../conferences/icml-2026/cards/6101-6200.md#zhou26ae-loss-functions) · Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification
+- [跨视觉encoder修复时分开对齐方向与尺度](../conferences/icml-2026/cards/6201-6300.md#zhou26aw-loss-functions) · Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration
 
 <a id="by-ml-foundations"></a>
 

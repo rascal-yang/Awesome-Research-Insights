@@ -391,6 +391,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SWE-IF: Aligning Code Evaluation with Human Preference](../../conferences/icml-2026/cards/6101-6200.md#zhong26t-evaluation) · 中文
 - [Alignment Risks from Capability-Seeking RL Training](../../conferences/icml-2026/cards/6101-6200.md#zhou26p-evaluation) · 中文
 - [InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition](../../conferences/icml-2026/cards/6101-6200.md#zhou26af-evaluation) · 中文
+- [How Transformers Represent Hierarchies: A Local-to-Global Mechanism](../../conferences/icml-2026/cards/6201-6300.md#zhou26at-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -537,6 +538,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Can VLMs Diagnose and Recover from VLA Manipulation Faults?](../../conferences/icml-2026/cards/5301-5400.md#yan26r-evaluation) · 中文
 - [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning](../../conferences/icml-2026/cards/5301-5400.md#yan26y-evaluation) · 中文
 - [Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment](../../conferences/icml-2026/cards/6101-6200.md#zhou26e-evaluation) · 中文
+- [Dismantling the Illusion of Vision-Language-Action Models Competence via Explicit Distributional Shifts](../../conferences/icml-2026/cards/6201-6300.md#zhou26az-evaluation) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -715,6 +717,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Beyond Euclidean Summaries: Online Change Point Detection for Distribution-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#zeng26f-evaluation) · 中文
 - [Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](../../conferences/icml-2026/cards/5701-5800.md#zhang26aj-evaluation) · 中文
 - [A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hp-evaluation) · 中文
+- [Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data](../../conferences/icml-2026/cards/6201-6300.md#zhou26bc-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

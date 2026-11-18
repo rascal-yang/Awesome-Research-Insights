@@ -123,6 +123,7 @@
 - [RLVR下拆开奇异方向与幅度](../conferences/icml-2026/cards/6001-6100.md#zhang26jm-optimization) · Geometry-Preserving Orthonormal Initialization for Low-Rank Adaptation in RLVR
 - [约束子集概率的MoE路由代理](../conferences/icml-2026/cards/6001-6100.md#zhao26ap-optimization) · ProbMoE: Differentiable Probabilistic Routing for Mixture-of-Experts
 - [三值PTQ与相邻层激活精度耦合](../conferences/icml-2026/cards/6001-6100.md#zhao26bi-optimization) · TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization
+- [沿合并checkpoint主方向外推并验证选点](../conferences/icml-2026/cards/6201-6300.md#zhou26av-optimization) · Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training
 
 <a id="by-computer-vision"></a>
 
@@ -494,6 +495,7 @@
 - [交替目标的共享base与delta优化状态](../conferences/icml-2026/cards/6101-6200.md#zhong26j-optimization) · DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models
 - [按更新偏离代理混合动量与自适应方向](../conferences/icml-2026/cards/6101-6200.md#zhou26d-optimization) · AdaS: Adaptive Gradient Descent for Spiking Transformers
 - [多项式FHE训练的权重界与免clipping](../conferences/icml-2026/cards/6101-6200.md#zhou26aa-optimization) · Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms
+- [联邦多目标同时控制客户端漂移与权重映射敏感性](../conferences/icml-2026/cards/6101-6200.md#zhou26ak-optimization) · DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning
 
 <a id="by-graph-and-recommendation"></a>
 

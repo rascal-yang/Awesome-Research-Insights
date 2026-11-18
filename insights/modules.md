@@ -260,6 +260,7 @@
 - [对持久latent的预测固定点误差做Jacobian校正](../conferences/icml-2026/cards/5701-5800.md#zeng26r-modules) · CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer
 - [Laplace inducing GP的稀疏基索引](../conferences/icml-2026/cards/6001-6100.md#zhao26at-modules) · SIKA-GP: Accelerating Gaussian Process Inference with Sparse Inducing Kernel Approximations for Bayesian Deep Learning
 - [隐式resolvent聚类的显式低秩因子](../conferences/icml-2026/cards/6001-6100.md#zhao26az-modules) · Contractive Anchor Resolvent Diffusion for Incomplete Multi-View Clustering
+- [在点对score图上卷积形成窗口注意力](../conferences/icml-2026/cards/6201-6300.md#zhou26bb-modules) · Winformer: Transcending Pairwise Similarity for Time-series Generation
 
 <a id="by-graph-and-recommendation"></a>
 

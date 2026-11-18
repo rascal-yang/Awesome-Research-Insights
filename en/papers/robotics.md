@@ -166,6 +166,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="tsai26a-data-strategies"></a>[Creat3r: Confidence Reaggregation for Exploration-aware Active 3D Reconstruction](../../conferences/icml-2026/cards/4401-4500.md#paper-tsai26a)
 - <a id="van-huffel26a-data-strategies"></a>[Neural Low-Discrepancy Sequences](../../conferences/icml-2026/cards/4501-4600.md#paper-van-huffel26a)
 - <a id="zhang26b-data-strategies"></a>[BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories under Spatio-Temporal Vector Fields](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26b)
+- <a id="zhou26aj-data-strategies"></a>[SMD: Multi-view Safety-Critical Driving Video Generation in the Real-world Domain](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26aj)
 
 <a id="by-inference"></a>
 
@@ -261,6 +262,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="yan26r-evaluation"></a>[Can VLMs Diagnose and Recover from VLA Manipulation Faults?](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26r)
 - <a id="yan26y-evaluation"></a>[CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26y)
 - <a id="zhou26e-evaluation"></a>[Characterizing Vision-Language-Action Models across XPUs: Constraints and Acceleration for On-Robot Deployment](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26e)
+- <a id="zhou26az-evaluation"></a>[Dismantling the Illusion of Vision-Language-Action Models Competence via Explicit Distributional Shifts](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26az)
 
 <a id="by-theory-statistics"></a>
 
@@ -271,4 +273,5 @@ Robot perception, policy learning, planning, and control.
 - <a id="teng26a-theory-statistics"></a>[Embedding Hybrid Systems into Continuous Latent Vector Fields](../../conferences/icml-2026/cards/4401-4500.md#paper-teng26a)
 - <a id="teutsch26a-theory-statistics"></a>[On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise](../../conferences/icml-2026/cards/4401-4500.md#paper-teutsch26a)
 - <a id="yates26a-theory-statistics"></a>[Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs](../../conferences/icml-2026/cards/5501-5600.md#paper-yates26a)
+- <a id="zhou26au-theory-statistics"></a>[Neural Vector Lyapunov–Razumikhin Certificates for Delayed Interconnected Systems](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26au)
 <!-- classification:end -->

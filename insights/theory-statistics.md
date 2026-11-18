@@ -200,6 +200,7 @@
 - [hybrid-quotient-latent-flow](../conferences/icml-2026/cards/4401-4500.md#teng26a-theory-statistics) · Embedding Hybrid Systems into Continuous Latent Vector Fields
 - [noise-class-specific-kernel-bounds](../conferences/icml-2026/cards/4401-4500.md#teutsch26a-theory-statistics) · On Uniform Error Bounds for Kernel Regression under Non-Gaussian Noise
 - [按先验强度和图结构选择Gaussian BP](../conferences/icml-2026/cards/5501-5600.md#yates26a-theory-statistics) · Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs
+- [在可达延迟历史域分外内两阶段验证](../conferences/icml-2026/cards/6201-6300.md#zhou26au-theory-statistics) · Neural Vector Lyapunov–Razumikhin Certificates for Delayed Interconnected Systems
 
 <a id="by-multimodal"></a>
 
@@ -673,6 +674,7 @@
 - [已知soft干预目标的可实现性定向](../conferences/icml-2026/cards/6101-6200.md#zhou26s-theory-statistics) · Towards Completeness in Causal Discovery from Soft Interventions with Known Targets
 - [去伪相关的计算与环境多样性边界](../conferences/icml-2026/cards/6101-6200.md#zhou26v-theory-statistics) · Is Spurious Correlation Removal Always Learnable?
 - [Wasserstein稳定集合函数的logN宽度](../conferences/icml-2026/cards/6101-6200.md#zhou26ac-theory-statistics) · $\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function
+- [归一化核距离检验数据对是否超出容忍差异](../conferences/icml-2026/cards/6101-6200.md#zhou26am-theory-statistics) · Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach
 
 <a id="by-graph-and-recommendation"></a>
 

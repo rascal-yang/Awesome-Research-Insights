@@ -260,6 +260,7 @@ Reusable components and local changes to model inputs or connections.
 - [CoEvol-NO: State and Coordinate Co-Evolution with an Error-Driven Predictor-Corrector Paradigm for Neural Operator Transformer](../../conferences/icml-2026/cards/5701-5800.md#zeng26r-modules) · 中文
 - [SIKA-GP: Accelerating Gaussian Process Inference with Sparse Inducing Kernel Approximations for Bayesian Deep Learning](../../conferences/icml-2026/cards/6001-6100.md#zhao26at-modules) · 中文
 - [Contractive Anchor Resolvent Diffusion for Incomplete Multi-View Clustering](../../conferences/icml-2026/cards/6001-6100.md#zhao26az-modules) · 中文
+- [Winformer: Transcending Pairwise Similarity for Time-series Generation](../../conferences/icml-2026/cards/6201-6300.md#zhou26bb-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

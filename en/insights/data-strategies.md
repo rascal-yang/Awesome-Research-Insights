@@ -183,6 +183,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Creat3r: Confidence Reaggregation for Exploration-aware Active 3D Reconstruction](../../conferences/icml-2026/cards/4401-4500.md#tsai26a-data-strategies) · 中文
 - [Neural Low-Discrepancy Sequences](../../conferences/icml-2026/cards/4501-4600.md#van-huffel26a-data-strategies) · 中文
 - [BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories under Spatio-Temporal Vector Fields](../../conferences/icml-2026/cards/5701-5800.md#zhang26b-data-strategies) · 中文
+- [SMD: Multi-view Safety-Critical Driving Video Generation in the Real-world Domain](../../conferences/icml-2026/cards/6101-6200.md#zhou26aj-data-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -262,6 +263,8 @@ Data selection, annotation, augmentation, and sampling.
 - [MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing](../../conferences/icml-2026/cards/5801-5900.md#zhang26bv-data-strategies) · 中文
 - [MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection](../../conferences/icml-2026/cards/5801-5900.md#zhang26dz-data-strategies) · 中文
 - [Active Tabular Augmentation via Policy-Guided Diffusion Inpainting](../../conferences/icml-2026/cards/5901-6000.md#zhang26hn-data-strategies) · 中文
+- [IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection](../../conferences/icml-2026/cards/6201-6300.md#zhou26as-data-strategies) · 中文
+- [SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts](../../conferences/icml-2026/cards/6201-6300.md#zhou26ba-data-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -332,6 +332,7 @@
 - <a id="savary26a-inference"></a>[Training-Free Bayesian Filtering with Generative Emulators](../conferences/icml-2026/cards/3901-4000.md#paper-savary26a)
 - <a id="serrano26a-inference"></a>[Test-time Generalization for Physics through Neural Operator Splitting](../conferences/icml-2026/cards/4001-4100.md#paper-serrano26a)
 - <a id="weiland26a-inference"></a>[Scalable Bayesian Inference for Nonlinear Conservation Laws](../conferences/icml-2026/cards/4901-5000.md#paper-weiland26a)
+- <a id="zhou26ay-inference"></a>[Transolver-3: Scaling Up Transformer Solvers to Industrial-Scale Geometries](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26ay)
 
 <a id="by-representation-learning"></a>
 

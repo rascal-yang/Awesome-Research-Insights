@@ -183,6 +183,7 @@
 - [geometry-confidence-next-view](../conferences/icml-2026/cards/4401-4500.md#tsai26a-data-strategies) · Creat3r: Confidence Reaggregation for Exploration-aware Active 3D Reconstruction
 - [优化整个序列的前缀差异度](../conferences/icml-2026/cards/4501-4600.md#van-huffel26a-data-strategies) · Neural Low-Discrepancy Sequences
 - [按被动移动轨迹评估传感器部署](../conferences/icml-2026/cards/5701-5800.md#zhang26b-data-strategies) · BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories under Spatio-Temporal Vector Fields
+- [固定周车轨迹将碰撞种子转为近险规避](../conferences/icml-2026/cards/6101-6200.md#zhou26aj-data-strategies) · SMD: Multi-view Safety-Critical Driving Video Generation in the Real-world Domain
 
 <a id="by-multimodal"></a>
 
@@ -262,6 +263,8 @@
 - [用票数margin后验分配重复标注预算](../conferences/icml-2026/cards/5801-5900.md#zhang26bv-data-strategies) · MA$^3$S: Model-Agnostic Active Annotation Strategy for Crowdsourcing
 - [沿prototype漂移方向采hard candidates](../conferences/icml-2026/cards/5801-5900.md#zhang26dz-data-strategies) · MPFM: Cross Multi-Domain Prototype Flow Matching for Log Anomaly Detection
 - [用在线utility而非合成保真度决定注入](../conferences/icml-2026/cards/5901-6000.md#zhang26hn-data-strategies) · Active Tabular Augmentation via Policy-Guided Diffusion Inpainting
+- [用验证风险影响区分污染清理与边界样本合成](../conferences/icml-2026/cards/6201-6300.md#zhou26as-data-strategies) · IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection
+- [按预测状态分布协同分配流式保留与client权重](../conferences/icml-2026/cards/6201-6300.md#zhou26ba-data-strategies) · SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts
 
 <a id="by-graph-and-recommendation"></a>
 
