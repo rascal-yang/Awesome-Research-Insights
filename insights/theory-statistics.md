@@ -584,6 +584,7 @@
 - [单向量检索维数与间隔](../conferences/icml-2026/cards/4801-4900.md#wang26jx-theory-statistics) · $\mathbbR^2k$ is Theoretically Large Enough for Embedding-based Top-$k$ Retrieval
 - [扩散跨划分一致性的线性谱基线](../conferences/icml-2026/cards/4801-4900.md#wang26kf-theory-statistics) · A Random Matrix Theory Perspective on the Consistency of Diffusion Models
 - [投影输运的残差切片下界](../conferences/icml-2026/cards/4801-4900.md#wang26kk-theory-statistics) · Partial Identification under High-Dimensional Potential Outcomes and Confounders via Optimal Transport
+- [私有KAN的宽度与训练时长联选](../conferences/icml-2026/cards/4901-5000.md#wang26lp-theory-statistics) · Optimization, Generalization and Differential Privacy Bounds for Gradient Descent on Kolmogorov–Arnold Networks
 
 <a id="by-graph-and-recommendation"></a>
 

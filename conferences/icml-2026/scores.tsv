@@ -4890,26 +4890,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 4889	wang26ku							PDF3–4式4/12的divergence标定存在核心指数问题：a1,b2时sup_f(Ep f−Eq f²)=I2/4而非sqrt(I2)/4，后续再平方不恢复I2。删去该未成立标定后，RKHS/RFF critic与常规光滑/正则优化尚未给出独立于既有核散度估计的新可用操作。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ku/wang26ku.pdf	rule-excluded
 4890	wang26kv	3	4	3	3	66		技术选择：多轮语言agent的SAPO/CISPO训练崩溃时，可优先检验负优势低比率序列mask，并与增KL或batch分别对照；该mask已有，新增为受测条件下的诊断证据。 多轮agent训练中，负优势且低重要性比的序列可成为不稳定来源；既有sequence-mask在对照中比单加KL或增batch更有效。 PDF第3,6,7,8页；GSPO/SAPO/CISPO/GIGPO/DAPO及Liu2025 sequence masking均为先例；新增是多轮agent条件下的匹配诊断和失效边界，不把SAMPO拼装当新机制。 PDF第3,6,7,8页：GSPO/SAPO/CISPO/GIGPO/DAPO及Liu2025 sequence masking均为先例；新增是多轮agent条件下的匹配诊断和失效边界，不把SAMPO拼装当新机制。 边界：依赖具体基础模型、offpolicy设置、格式奖励；负比率归因是受控经验而非普遍因果定理。SAMPO表3正文/表注数值冲突，勿据此声称统一总体提升；动态过滤额外rollout成本另算。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26kv/wang26kv.pdf	scored
 4891	wang26kw							原文PDF3–5的标量RBF展开、共享线性投影/LayerNorm、分位中心及宽度学习为经典基函数编码的应用；Gorishniy2022已研究非线性标量嵌入对比仿射编码。log幅值bin门控与注意力重排仍未给相对这些近先例的独立新约束或求解法；PDF17–18只扫描初始化、核数与带宽，未隔离门控相对普通RBF的新作用。PDF6与19同SNF-2M控制确认整个编码模块有效，但不证明超出旧非线性编码原则的新机制；早层rank增加亦非准确率瓶颈的受控因果证据。按独立新增不足排除，不按分数或表格领域排除。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26kw/wang26kw.pdf	rule-excluded
-4892	wang26kx							待原文复核评分	pending
-4893	wang26ky							待原文复核评分	pending
-4894	wang26kz							待原文复核评分	pending
-4895	wang26la							待原文复核评分	pending
-4896	wang26lb							待原文复核评分	pending
-4897	wang26lc							待原文复核评分	pending
-4898	wang26ld							待原文复核评分	pending
-4899	wang26le							待原文复核评分	pending
-4900	wang26lf							待原文复核评分	pending
-4901	wang26lg							待原文复核评分	pending
-4902	wang26lh							待原文复核评分	pending
-4903	wang26li							待原文复核评分	pending
-4904	wang26lj							待原文复核评分	pending
-4905	wang26lk							待原文复核评分	pending
-4906	wang26ll							待原文复核评分	pending
-4907	wang26lm							待原文复核评分	pending
-4908	wang26ln							待原文复核评分	pending
-4909	wang26lo							待原文复核评分	pending
-4910	wang26lp							待原文复核评分	pending
-4911	wang26lq							待原文复核评分	pending
+4892	wang26kx							PDF3–5把CTR预测、winner后调用LLM、dual OGD和双时标PPO组为竞价机制；未隔离改变神经训练/推理的独立新操作或可复用预算规律。凸正则不自动给多参与者联合强单调，故不靠其收敛口号保留。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26kx/wang26kx.pdf	rule-excluded
+4893	wang26ky							PDF3–7的情绪均值差向量、activation steering、路径归因/消融沿Tigges2024/Lee2025及activation/path patching范式；新六情绪数据与更细电路定位不足以隔离超出既有情绪干预方法的新模块/受控通用选择规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ky/wang26ky.pdf	rule-excluded
+4894	wang26kz	3	4	4	3	70		技术选择：联合预训练视频世界模型与新潜动作接口时，可先冻结世界模型、让梯度穿过它预热动作编码与条件模块，再共同更新；根据码本坍塌及初始化对照选择切换时机。 改变预训练世界模型与新潜动作接口的联合更新时机；PDF4–5初始化/4–12K预热控制和PDF7双向冻结消融隔离坍塌及共训增益。 改变预训练世界模型与新潜动作接口的联合更新时机；PDF4–5初始化/4–12K预热控制和PDF7双向冻结消融隔离坍塌及共训增益。 新增量有限但操作与条件明确，评分按可复用局部增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26kz/wang26kz.pdf	scored
+4895	wang26la							PDF3–5 logdet秩一增益为成熟D-optimal/elliptical bonus，最近E3B2022已有逆协方差探索及行为相关表示；替换成latent displacement与MICo/replay编码主要是组合。PDF7–8控制未固定同编码器隔离E3B式bonus差异，EMA版本也不具所引累计logdet恒等保证，未达独立新增门槛。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26la/wang26la.pdf	rule-excluded
+4896	wang26lb							仅核摘要、PDF1–2贡献与抽象模型：候选为既有PU ranking、attention MIL与多标签分类组合，具体新增依赖专用数据/标注处理；未识别能独立改变通用神经训练的增量。该范围判定不声称全部专用方法已被先例覆盖。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lb/wang26lb.pdf	rule-excluded
+4897	wang26lc							PDF6 Lorth为L1(cos预测前背景−cos真值前背景)，属经典Gram相关匹配/RKD关系蒸馏同一通用操作；PDF8等预算消融支持有效但未改变关系量/优化规则。RGBA层任务、区域注意力与alpha focal式损失组合未提供独立于现成关系监督的新技术选择。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lc/wang26lc.pdf	rule-excluded
+4898	wang26ld							PDF3–6三方向注意力沿Triplet Attention，基于均值/方差的无参注意力沿SimAM，另组多尺度滤波、聚簇拆合和pseudo-label训练；未隔离超出现有UDA reID/person-search构件的新损失、控制规律或独立操作。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ld/wang26ld.pdf	rule-excluded
+4899	wang26le	3	4	4	3	70		技术选择：持续调优视觉语言MoE时，可临时训练每层probe专家、按验证路由频率决定正式扩容位置，替代仅由旧router变化选层；需计入probe额外成本。 改变持续学习扩容层的测量方式：临时专家竞争替代仅旧router分布差；PDF7同层数随机控制、PDF16统一代码MoExtend控制提供局部新增证据。 改变持续学习扩容层的测量方式：临时专家竞争替代仅旧router分布差；PDF7同层数随机控制、PDF16统一代码MoExtend控制提供局部新增证据。 新增量有限但操作与条件明确，评分按可复用局部增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26le/wang26le.pdf	scored
+4900	wang26lf							PDF3–6组装去噪AE、余弦阈值增删边、低/高通混合、伪标签加权、prototype contrastive与DEC KL；改变的是成熟图聚类模块组合，未给超出现成rewiring/filter/fusion方法的独立技术选择规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lf/wang26lf.pdf	rule-excluded
+4901	wang26lg	4	4	4	4	80		技术选择：为语言模型选择2bit权重量化时，可用共享仿射整数格约束向量码本并将变换移到激活侧，比较其精度、额外浮点操作和实测吞吐。 改变2bit码本约束和内核实现：共享非正交仿射整数格；PDF4–5明确构造、PDF7–8量化器隔离及初始化/微调消融支持。 改变2bit码本约束和内核实现：共享非正交仿射整数格；PDF4–5明确构造、PDF7–8量化器隔离及初始化/微调消融支持。 新增量有限但操作与条件明确，评分按可复用局部增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lg/wang26lg.pdf	scored
+4902	wang26lh							PDF4–7以uniform平移+Gaussian ICDF耦合候选噪声，续接既有扩散steganography与梯度式反演；一般机制属随机dither/量化与生成器反演，主要新效用局限专用信道。未建立独立的相关深度学习训练/推理选择，且Gaussian边缘不足以支持固定key多样本严格安全承诺。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lh/wang26lh.pdf	rule-excluded
+4903	wang26li	3	4	4	3	70		技术选择：训练多任务少样本图时，可额外预测同一样本两任务二元标签的异同，作为实例条件关系监督；原文只验证分子属性分类，其他任务迁移未验证。 改变少样本多任务图的监督目标：加入样本条件任务对关系MSE；PDF4–5通用定义与PDF7逐项消融支持可分离的小损失增量。 改变少样本多任务图的监督目标：加入样本条件任务对关系MSE；PDF4–5通用定义与PDF7逐项消融支持可分离的小损失增量。 新增量有限但操作与条件明确，评分按可复用局部增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26li/wang26li.pdf	scored
+4904	wang26lj	3	4	4	3	70		技术选择：部署高频latent动作策略的异步chunk切换时，可在解码动作空间拼接已执行前缀和新后缀，再用动作VAE整段重建；与原动作/latent RT-C分别对照。 改变高频latent policy的异步拼块方式：解码空间拼接再VAE重建；PDF4–5操作与PDF8 latent/latent+RT-C/latent+RTR控制隔离收益。 改变高频latent policy的异步拼块方式：解码空间拼接再VAE重建；PDF4–5操作与PDF8 latent/latent+RT-C/latent+RTR控制隔离收益。 新增量有限但操作与条件明确，评分按可复用局部增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lj/wang26lj.pdf	scored
+4905	wang26lk	3	4	4	3	70		技术选择：延长RoPE模型上下文时，可联合调逐头长度温度与频率，并先冻结骨干校准再联合LoRA；需要分别检查长检索与短文本退化。 改变长context校准的温度参数化与训练时机；PDF8单项控制及PDF8–9同token四种训练时机支持有限新增，逐头频率已由LieRE等先例覆盖。 改变长context校准的温度参数化与训练时机；PDF8单项控制及PDF8–9同token四种训练时机支持有限新增，逐头频率已由LieRE等先例覆盖。 新增量有限但操作与条件明确，评分按可复用局部增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lk/wang26lk.pdf	scored
+4906	wang26ll	3	4	4	3	70		技术选择：将视频生成LoRA迁到同结构蒸馏模型时，可按目标漂移的谱块能量选择抵消漂移或限制同向叠加强度，替代直接相加或仅做子空间投影。 改变无数据adapter迁移的合并操作：按目标漂移谱块补偿与仲裁；PDF6–7明确规则、PDF8组件控制和ProLoRA比较支持局部独立增量。 改变无数据adapter迁移的合并操作：按目标漂移谱块补偿与仲裁；PDF6–7明确规则、PDF8组件控制和ProLoRA比较支持局部独立增量。 新增量有限但操作与条件明确，评分按可复用局部增量。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ll/wang26ll.pdf	scored
+4907	wang26lm							PDF4把G定义为目标二阶展开，κG即常规Hessian条件数；preconditioned/Newton与条件数触发是成熟操作。PDF5–7把任意可变scalar-step GD下界写κ而非可行Chebyshev加速尺度，且门控成本漏计未触发轮估谱；剔除未成立分离承诺后未隔离超出条件数诊断/近似Newton的新可复用规律。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lm/wang26lm.pdf	rule-excluded
+4908	wang26ln							PDF1–2引言/相关工作层面，通用候选是关键节点前置排序、已有RoPE图Transformer与Discrete Flow Matching；最近root-aligned表示已利用结构对齐。核心控制依赖专用关键位置先验，未核出独立通用新模块；仅据所核抽象范围排除，不评价专用生成操作。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26ln/wang26ln.pdf	rule-excluded
+4909	wang26lo							PDF3–6主体为已知条件GP先验+普通CFM+GeoTDM的ETGN，未隔离独立的新通用操作；PDF4逐坐标std归一化后PDF5反归一化均值一般不保旋转等变，wI协方差不能恢复该性质。去掉强SE3承诺后主要是成熟先验在轨迹任务的组合应用。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lo/wang26lo.pdf	rule-excluded
+4910	wang26lp	3	3	3	3	60		技术选择：训练有界光滑两层KAN的私有分类器时，可根据宽度相关参数噪声项联合选择宽度、投影半径和训练时长；保持自由R,m条件界与末迭代实测分开。 改变光滑两层KAN私有训练的宽度/时长联选；PDF7显式噪声项、PDF8与37扫描支持条件选择规律；严格限制理论适用并标附录log尺度疑点。 PDF7自由R,m参考点界保留宽度相关噪声；PDF8/37宽度与时长扫描支持条件选择。新增3：KAN参数化条件补充；复用3/可用3/独特3：仅局部光滑两层条件，不沿用PDF36有log尺度疑点的精确最优率。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lp/wang26lp.pdf	scored
+4911	wang26lq							PDF5–7的sum ReLU-affine凸代价+小二次正则、KKT/duality-gap逆拟合沿ICNN/learned convex terminal cost/InverseMPC成熟范式；PDF19/22同双层IMPC比较仅证实更强函数族有效，未隔离新成本构造或受控选型规律。压缩子目标的逆可行检查是IO常规目的，退化平坦目标也可逆可行，不能构成独立新增。 原文：https://raw.githubusercontent.com/mlresearch/v306/main/assets/wang26lq/wang26lq.pdf	rule-excluded
 4912	wang26lr							待原文复核评分	pending
 4913	wang26ls							待原文复核评分	pending
 4914	wang26lt							待原文复核评分	pending

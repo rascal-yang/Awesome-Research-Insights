@@ -145,6 +145,7 @@ Training schedules, curricula, and task or stage composition.
 - [SuCo: Sufficiency-guided Continuous Adaptive Reasoning](../../conferences/icml-2026/cards/4701-4800.md#wang26dz-training-strategies) · 中文
 - [Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL](../../conferences/icml-2026/cards/4701-4800.md#wang26eg-training-strategies) · 中文
 - [AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism](../../conferences/icml-2026/cards/4701-4800.md#wang26gy-training-strategies) · 中文
+- [AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](../../conferences/icml-2026/cards/4901-5000.md#wang26lk-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -263,6 +264,7 @@ Training schedules, curricula, and task or stage composition.
 - [Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning](../../conferences/icml-2026/cards/4501-4600.md#wagenmaker26a-training-strategies) · 中文
 - [Adversarial Dual On-Policy Distillation from Expressive Teacher](../../conferences/icml-2026/cards/4501-4600.md#wan26n-training-strategies) · 中文
 - [Scaling by Diversified Experience for Vision-Language-Action Models](../../conferences/icml-2026/cards/4801-4900.md#wang26hw-training-strategies) · 中文
+- [Co-Evolving Latent Action World Models](../../conferences/icml-2026/cards/4801-4900.md#wang26kz-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -324,6 +326,7 @@ Training schedules, curricula, and task or stage composition.
 - [Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment](../../conferences/icml-2026/cards/4701-4800.md#wang26gt-training-strategies) · 中文
 - [WorldCompass: Reinforcement Learning for Long-Horizon World Models](../../conferences/icml-2026/cards/4801-4900.md#wang26iu-training-strategies) · 中文
 - [PromptRL: Prompt Matters in RL for Flow-Based Image Generation](../../conferences/icml-2026/cards/4801-4900.md#wang26kl-training-strategies) · 中文
+- [CoPE: Continual Probe-guided Expansion for Large Vision-Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26le-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -565,6 +565,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26dz-training-strategies"></a>[SuCo: Sufficiency-guided Continuous Adaptive Reasoning](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26dz)
 - <a id="wang26eg-training-strategies"></a>[Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26eg)
 - <a id="wang26gy-training-strategies"></a>[AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gy)
+- <a id="wang26lk-training-strategies"></a>[AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lk)
 
 <a id="by-data-strategies"></a>
 
@@ -966,6 +967,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26ir-inference"></a>[Sparser Block-Sparse Attention via Token Permutation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ir)
 - <a id="wang26iw-inference"></a>[SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26iw)
 - <a id="wang26jo-inference"></a>[Optimizing Diversity and Quality through Base-Aligned Model Collaboration](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26jo)
+- <a id="wang26lg-inference"></a>[UniSVQ: 2-bit Unified Scalar-Vector Quantization](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lg)
 
 <a id="by-representation-learning"></a>
 

@@ -145,6 +145,7 @@
 - [答案充分性指导推理压缩](../conferences/icml-2026/cards/4701-4800.md#wang26dz-training-strategies) · SuCo: Sufficiency-guided Continuous Adaptive Reasoning
 - [随机演员屏蔽促工作流探索](../conferences/icml-2026/cards/4701-4800.md#wang26eg-training-strategies) · Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL
 - [按序列拆分多token输出头以平衡流水](../conferences/icml-2026/cards/4701-4800.md#wang26gy-training-strategies) · AdaHC: Accelerating Multi-Token Prediction with Adaptive Head Chunking with Pipeline Parallelism
+- [逐头长度温度与位置校准时机](../conferences/icml-2026/cards/4901-5000.md#wang26lk-training-strategies) · AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally
 
 <a id="by-computer-vision"></a>
 
@@ -263,6 +264,7 @@
 - [为RL保留动作后验覆盖](../conferences/icml-2026/cards/4501-4600.md#wagenmaker26a-training-strategies) · Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning
 - [dual-on-policy-distillation](../conferences/icml-2026/cards/4501-4600.md#wan26n-training-strategies) · Adversarial Dual On-Policy Distillation from Expressive Teacher
 - [动作梯度筛选意图状态](../conferences/icml-2026/cards/4801-4900.md#wang26hw-training-strategies) · Scaling by Diversified Experience for Vision-Language-Action Models
+- [潜动作接口预热与联合训练坍塌](../conferences/icml-2026/cards/4801-4900.md#wang26kz-training-strategies) · Co-Evolving Latent Action World Models
 
 <a id="by-multimodal"></a>
 
@@ -324,6 +326,7 @@
 - [参考视觉视野对齐作为课程和奖励](../conferences/icml-2026/cards/4701-4800.md#wang26gt-training-strategies) · Seeing is Solving: Unlocking Efficient Multimodal RL via View Alignment
 - [共享前缀的局部视频候选排名](../conferences/icml-2026/cards/4801-4900.md#wang26iu-training-strategies) · WorldCompass: Reinforcement Learning for Long-Horizon World Models
 - [联合提示训练保留原提示对照](../conferences/icml-2026/cards/4801-4900.md#wang26kl-training-strategies) · PromptRL: Prompt Matters in RL for Flow-Based Image Generation
+- [临时专家竞争决定扩容层](../conferences/icml-2026/cards/4801-4900.md#wang26le-training-strategies) · CoPE: Continual Probe-guided Expansion for Large Vision-Language Models
 
 <a id="by-ml-foundations"></a>
 

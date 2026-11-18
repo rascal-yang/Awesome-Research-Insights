@@ -330,6 +330,7 @@
 - [段内重排重键以提高块稀疏度](../conferences/icml-2026/cards/4801-4900.md#wang26ir-inference) · Sparser Block-Sparse Attention via Token Permutation
 - [可预测证明状态与纯空间拆分](../conferences/icml-2026/cards/4801-4900.md#wang26iw-inference) · SL-VC: A Benchmark and Automated Framework for Separation Logic Verification Condition Proving
 - [基础与对齐模型路由](../conferences/icml-2026/cards/4801-4900.md#wang26jo-inference) · Optimizing Diversity and Quality through Base-Aligned Model Collaboration
+- [仿射整数格的结构化向量量化](../conferences/icml-2026/cards/4901-5000.md#wang26lg-inference) · UniSVQ: 2-bit Unified Scalar-Vector Quantization
 
 <a id="by-computer-vision"></a>
 
@@ -445,6 +446,7 @@
 - [路由边界触发的残差缓存](../conferences/icml-2026/cards/4601-4700.md#wang26dd-inference) · Elastic Diffusion Transformer
 - [熵与分布差共同控制投机接受](../conferences/icml-2026/cards/4701-4800.md#wang26gi-inference) · CSD: Content-aware Speculative Decoding for Efficient Image Generation
 - [跨尺度与位通道选择性擦除](../conferences/icml-2026/cards/4801-4900.md#wang26ix-inference) · ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation
+- [视频LoRA迁移的谱块仲裁](../conferences/icml-2026/cards/4901-5000.md#wang26ll-inference) · Exploring Data-Free LoRA Transferability for Video Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -527,6 +529,7 @@
 - [视频任务流引导递归分段搜索](../conferences/icml-2026/cards/4501-4600.md#wan26e-inference) · Beyond Policy Training: Recursive Solution Search from Unannotated Videos
 - [hierarchical-context-pruning](../conferences/icml-2026/cards/4601-4700.md#wang26dn-inference) · DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents
 - [视觉动作模型剪枝](../conferences/icml-2026/cards/4801-4900.md#wang26jj-inference) · SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning
+- [动作空间拼块后重编码细化](../conferences/icml-2026/cards/4901-5000.md#wang26lj-inference) · Learning High-Frequency Continuous Action Chunks in Latent Space
 
 <a id="by-multimodal"></a>
 

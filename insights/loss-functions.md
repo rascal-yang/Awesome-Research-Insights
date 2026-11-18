@@ -236,6 +236,7 @@
 - [solver-free-decision-loss](../conferences/icml-2026/cards/4501-4600.md#wan26i-loss-functions) · A Solver-Free Training Method for Predict-then-Optimize
 - [数据分布距离与约束可信度](../conferences/icml-2026/cards/4701-4800.md#wang26gd-loss-functions) · BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting
 - [频率组稀疏与组内谱稀疏](../conferences/icml-2026/cards/4701-4800.md#wang26gk-loss-functions) · Refining Dual Spectral Sparsity in Transformed Tensor Singular Values
+- [实例条件的任务标签关系监督](../conferences/icml-2026/cards/4901-5000.md#wang26li-loss-functions) · ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction
 
 <a id="by-graph-and-recommendation"></a>
 

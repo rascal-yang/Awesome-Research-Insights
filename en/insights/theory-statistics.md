@@ -584,6 +584,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [$\mathbbR^2k$ is Theoretically Large Enough for Embedding-based Top-$k$ Retrieval](../../conferences/icml-2026/cards/4801-4900.md#wang26jx-theory-statistics) · 中文
 - [A Random Matrix Theory Perspective on the Consistency of Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#wang26kf-theory-statistics) · 中文
 - [Partial Identification under High-Dimensional Potential Outcomes and Confounders via Optimal Transport](../../conferences/icml-2026/cards/4801-4900.md#wang26kk-theory-statistics) · 中文
+- [Optimization, Generalization and Differential Privacy Bounds for Gradient Descent on Kolmogorov–Arnold Networks](../../conferences/icml-2026/cards/4901-5000.md#wang26lp-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

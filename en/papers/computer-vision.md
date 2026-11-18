@@ -442,6 +442,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26dd-inference"></a>[Elastic Diffusion Transformer](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26dd)
 - <a id="wang26gi-inference"></a>[CSD: Content-aware Speculative Decoding for Efficient Image Generation](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26gi)
 - <a id="wang26ix-inference"></a>[ScaleErasure: Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ix)
+- <a id="wang26ll-inference"></a>[Exploring Data-Free LoRA Transferability for Video Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26ll)
 
 <a id="by-representation-learning"></a>
 

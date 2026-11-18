@@ -131,6 +131,7 @@
 - <a id="wagenmaker26a-training-strategies"></a>[Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning](../conferences/icml-2026/cards/4501-4600.md#paper-wagenmaker26a)
 - <a id="wan26n-training-strategies"></a>[Adversarial Dual On-Policy Distillation from Expressive Teacher](../conferences/icml-2026/cards/4501-4600.md#paper-wan26n)
 - <a id="wang26hw-training-strategies"></a>[Scaling by Diversified Experience for Vision-Language-Action Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26hw)
+- <a id="wang26kz-training-strategies"></a>[Co-Evolving Latent Action World Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kz)
 
 <a id="by-data-strategies"></a>
 
@@ -192,6 +193,7 @@
 - <a id="wan26e-inference"></a>[Beyond Policy Training: Recursive Solution Search from Unannotated Videos](../conferences/icml-2026/cards/4501-4600.md#paper-wan26e)
 - <a id="wang26dn-inference"></a>[DeepHA: Scaling Action Chains Elicits Deep Hierarchical Agents](../conferences/icml-2026/cards/4601-4700.md#paper-wang26dn)
 - <a id="wang26jj-inference"></a>[SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jj)
+- <a id="wang26lj-inference"></a>[Learning High-Frequency Continuous Action Chunks in Latent Space](../conferences/icml-2026/cards/4901-5000.md#paper-wang26lj)
 
 <a id="by-representation-learning"></a>
 

@@ -236,6 +236,7 @@ Objectives, auxiliary supervision, and regularization.
 - [A Solver-Free Training Method for Predict-then-Optimize](../../conferences/icml-2026/cards/4501-4600.md#wan26i-loss-functions) · 中文
 - [BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting](../../conferences/icml-2026/cards/4701-4800.md#wang26gd-loss-functions) · 中文
 - [Refining Dual Spectral Sparsity in Transformed Tensor Singular Values](../../conferences/icml-2026/cards/4701-4800.md#wang26gk-loss-functions) · 中文
+- [ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction](../../conferences/icml-2026/cards/4901-5000.md#wang26li-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

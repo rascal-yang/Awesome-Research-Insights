@@ -180,6 +180,7 @@
 - <a id="wan26i-loss-functions"></a>[A Solver-Free Training Method for Predict-then-Optimize](../conferences/icml-2026/cards/4501-4600.md#paper-wan26i)
 - <a id="wang26gd-loss-functions"></a>[BASIL: Scalable Bayesian Semi-supervised Clustering with Feature Selection and Adaptive Constraint Weighting](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gd)
 - <a id="wang26gk-loss-functions"></a>[Refining Dual Spectral Sparsity in Transformed Tensor Singular Values](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gk)
+- <a id="wang26li-loss-functions"></a>[ReCoG: Relational and Compact Context Graph Learning for Few-shot Molecular Property Prediction](../conferences/icml-2026/cards/4901-5000.md#paper-wang26li)
 
 <a id="by-optimization"></a>
 
@@ -1126,4 +1127,5 @@
 - <a id="wang26jx-theory-statistics"></a>[$\mathbbR^2k$ is Theoretically Large Enough for Embedding-based Top-$k$ Retrieval](../conferences/icml-2026/cards/4801-4900.md#paper-wang26jx)
 - <a id="wang26kf-theory-statistics"></a>[A Random Matrix Theory Perspective on the Consistency of Diffusion Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kf)
 - <a id="wang26kk-theory-statistics"></a>[Partial Identification under High-Dimensional Potential Outcomes and Confounders via Optimal Transport](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kk)
+- <a id="wang26lp-theory-statistics"></a>[Optimization, Generalization and Differential Privacy Bounds for Gradient Descent on Kolmogorov–Arnold Networks](../conferences/icml-2026/cards/4901-5000.md#paper-wang26lp)
 <!-- classification:end -->
