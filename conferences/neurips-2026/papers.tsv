@@ -2746,7 +2746,7 @@ poster_id	title	paper_url	status	reason
 153876	Exact-Form Regret and Conservative Correlated Equilibria	https://neurips.cc/virtual/2026/poster/153876	included	用位移场的势函数辨别可控制的偏离。
 155943	Exact Gaussian Moment Matching for Residual Networks: a Second-Order Method	https://neurips.cc/virtual/2026/poster/155943	included	对特定激活直接传播高斯矩。
 153709	Exact Instance Compression for Convex Empirical Risk Minimization via Color Refinement	https://neurips.cc/virtual/2026/poster/153709	included	按结构对称性压缩凸经验风险。
-152917	Exactness Matters for Physical Rule Enforcement	https://neurips.cc/virtual/2026/poster/152917	pending	-
+152917	Exactness Matters for Physical Rule Enforcement	https://neurips.cc/virtual/2026/poster/152917	included	先测校正算子在真实目标上的失真
 155154	Exact Posterior Score Estimation for Solving Linear Inverse Problems	https://neurips.cc/virtual/2026/poster/155154	included	将观测条件融合到去噪训练而保持原采样器。
 153108	Exact power indices for plurality-voting ensembles	https://neurips.cc/virtual/2026/poster/153108	included	按投票规则直接计算模型贡献。
 156088	Exact Recovery of Lipschitz Orthogonal Coordinate Transformations via Constrained Normalizing Flows	https://neurips.cc/virtual/2026/poster/156088	included	用坐标变换结构约束解决非线性 ICA 不可辨识性。
@@ -2875,72 +2875,72 @@ poster_id	title	paper_url	status	reason
 153523	Fast Gauss-Newton for Multiclass Cross-Entropy	https://neurips.cc/virtual/2026/poster/153523	included	类别较多时只保留真类对其余类的曲率
 150502	Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction	https://neurips.cc/virtual/2026/poster/150502	included	用轻量门控挑选需保留的 KV 项
 152762	Fast Learning Rates for Physics-Informed Kernel Methods	https://neurips.cc/virtual/2026/poster/152762	included	微分数据达到饱和阈值后增加函数值观测
-153596	Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching	https://neurips.cc/virtual/2026/poster/153596	pending	-
+153596	Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching	https://neurips.cc/virtual/2026/poster/153596	included	比较显式晶胞参数化与体材料裁剪
 149055	Fast Rates for Offline Contextual Bandits with Forward-KL Regularization under Single-Policy Concentrability	https://neurips.cc/virtual/2026/poster/149055	included	首批暂收录，详见会议索引与论文卡。
-148197	Fast Reconstruction of Exact Maxwell Dynamics from Sparse Data	https://neurips.cc/virtual/2026/poster/148197	pending	-
-149044	Fast, Relaxation‑ and Hyperparameter‑Free Pairwise Worst-Case Class Separation	https://neurips.cc/virtual/2026/poster/149044	pending	-
-148369	Fast-RL: Accelerating Reinforcement Learning for LongCoT Reasoning Models	https://neurips.cc/virtual/2026/poster/148369	pending	-
-149383	Fast Sandwich Products in Clifford Algebra	https://neurips.cc/virtual/2026/poster/149383	pending	-
-156095	Fast-Slow Evolutionary Occupancy Prediction via Controlled Dynamics	https://neurips.cc/virtual/2026/poster/156095	pending	-
-149922	Fast-WAM: Do World Action Models Need Test-time Future Imagination?	https://neurips.cc/virtual/2026/poster/149922	pending	-
-156637	Fast Wasserstein rates for estimating probability distributions of probabilistic graphical models	https://neurips.cc/virtual/2026/poster/156637	pending	-
+148197	Fast Reconstruction of Exact Maxwell Dynamics from Sparse Data	https://neurips.cc/virtual/2026/poster/148197	included	将可解析物理约束放入基函数
+149044	Fast, Relaxation‑ and Hyperparameter‑Free Pairwise Worst-Case Class Separation	https://neurips.cc/virtual/2026/poster/149044	included	按最难分的类别对选择投影
+148369	Fast-RL: Accelerating Reinforcement Learning for LongCoT Reasoning Models	https://neurips.cc/virtual/2026/poster/148369	included	用短轨迹训练，再在长轨迹模式评估
+149383	Fast Sandwich Products in Clifford Algebra	https://neurips.cc/virtual/2026/poster/149383	included	用低维旋转分解计算多向量作用
+156095	Fast-Slow Evolutionary Occupancy Prediction via Controlled Dynamics	https://neurips.cc/virtual/2026/poster/156095	included	用连续状态融合异步快慢预测
+149922	Fast-WAM: Do World Action Models Need Test-time Future Imagination?	https://neurips.cc/virtual/2026/poster/149922	included	保留视频共训练并单独测试是否需要推理生成
+156637	Fast Wasserstein rates for estimating probability distributions of probabilistic graphical models	https://neurips.cc/virtual/2026/poster/156637	included	用节点和父节点局部维度估算分布学习难度
 137859	FATE-AI: Futures of Agriculture, Technology, and Ecology in Artificial Intelligence	https://neurips.cc/virtual/2026/poster/137859	excluded	摘要介绍农业主题 AI 课程与艺术驻留，未给出可筛选的机器学习技术贡献。
 137853	FATE-AI: Futures of Agriculture, Technology, and Ecology in Artificial Intelligence	https://neurips.cc/virtual/2026/poster/137853	excluded	与 137859 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137835	FATE-AI: Futures of Agriculture, Technology, and Ecology in Artificial Intelligence	https://neurips.cc/virtual/2026/poster/137835	excluded	与 137859 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137877	FATE-AI: Futures of Agriculture, Technology, and Ecology in Artificial Intelligence	https://neurips.cc/virtual/2026/poster/137877	excluded	与 137859 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137829	FATE-AI: Futures of Agriculture, Technology, and Ecology in Artificial Intelligence	https://neurips.cc/virtual/2026/poster/137829	excluded	与 137859 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
 137883	FATE-AI: Futures of Agriculture, Technology, and Ecology in Artificial Intelligence	https://neurips.cc/virtual/2026/poster/137883	excluded	与 137859 为同名同摘要的 Bridging the Future 展示场次，沿用该项目的筛选决定。
-148441	Fault Tolerance in Transformers Favors Output Alignment over Hidden-State Consistency	https://neurips.cc/virtual/2026/poster/148441	pending	-
-153584	Fault Tolerant Coresets	https://neurips.cc/virtual/2026/poster/153584	pending	-
-151814	FAUST: Federated Asynchronous Update with Staggered Timescales for Low-Communication Foundation Model Training	https://neurips.cc/virtual/2026/poster/151814	pending	-
-156009	FAVLA: A Force-Adaptive Multi-Rate VLA model for Contact-Rich Robotic Manipulation	https://neurips.cc/virtual/2026/poster/156009	pending	-
-155019	FC-DGCN: Deep Graph Convolutional Network for Face Clustering and Recognition	https://neurips.cc/virtual/2026/poster/155019	pending	-
-156133	𝑓-Differential Privacy Filters: Validity and Approximate Solutions	https://neurips.cc/virtual/2026/poster/156133	pending	-
-152855	FEAD: Fine-Grained Epipolar Attention Diffusion for Large-Disparity Light Field Spatial Super-Resolution	https://neurips.cc/virtual/2026/poster/152855	pending	-
-151552	Feasible Policy Optimization for Safe Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151552	pending	-
-152364	FeatCal: Feature Calibration for Post-Merging Models	https://neurips.cc/virtual/2026/poster/152364	pending	-
-148620	Feature-Context Consistency: Unsupervised Adversarial Detection with Drift Stability on Attributed Graphs	https://neurips.cc/virtual/2026/poster/148620	pending	-
-152004	Feature Information Dynamics in Diffusion	https://neurips.cc/virtual/2026/poster/152004	pending	-
-150047	Feature Learning Dynamics in Infinite-Depth Neural Networks	https://neurips.cc/virtual/2026/poster/150047	pending	-
-149864	Feature learning  in high-dimensions under structured covariance: Scaling laws in quadratic networks	https://neurips.cc/virtual/2026/poster/149864	pending	-
-151094	Feature Recovery for Object Understanding Under Physical Transformation	https://neurips.cc/virtual/2026/poster/151094	pending	-
-153987	FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation	https://neurips.cc/virtual/2026/poster/153987	pending	-
-155141	Fed-AGA: An Anchor Graph Alignment Framework for Federated Unaligned Multi-view Clustering	https://neurips.cc/virtual/2026/poster/155141	pending	-
-153757	FedCAG: Federated Causality-Aware Graph Learning for Multi-Cloud Workload Forecasting	https://neurips.cc/virtual/2026/poster/153757	pending	-
-152149	FedCF: Fair Federated Conformal Prediction	https://neurips.cc/virtual/2026/poster/152149	pending	-
-153466	Federated Concept-Based Models: Interpretable models with distributed supervision	https://neurips.cc/virtual/2026/poster/153466	pending	-
-139042	Federated Dataset Simulation: Inducing Label-Free Heterogeneity Across Tasks	https://neurips.cc/virtual/2026/poster/139042	pending	-
-155993	Federated Distributionally Robust Neural Combinatorial Optimization with Convergence Guarantees	https://neurips.cc/virtual/2026/poster/155993	pending	-
-152765	Federated Graph Learning with Local Message Compensation	https://neurips.cc/virtual/2026/poster/152765	pending	-
-150671	Federated Learning by Utility-Constrained Stochastic Aggregation for Improving Rational Participation	https://neurips.cc/virtual/2026/poster/150671	pending	-
-151627	Federated Logic Gate Networks via Boolean Feature Selection	https://neurips.cc/virtual/2026/poster/151627	pending	-
-154090	Federated Unlearning with Gradient Adaptive Shaping	https://neurips.cc/virtual/2026/poster/154090	pending	-
-153323	Federate the Router: Learning Language Model Routers with Sparse and Decentralized Evaluations	https://neurips.cc/virtual/2026/poster/153323	pending	-
-140052	Federation Is the Way Forward for AI Agents	https://neurips.cc/virtual/2026/poster/140052	pending	-
-153075	FedIBS: Federated Vision-Language Adaptation via Intrinsic Bias Selection	https://neurips.cc/virtual/2026/poster/153075	pending	-
-156743	FedIndex: Federated Domain Adaptation with Continuous Domain Indices	https://neurips.cc/virtual/2026/poster/156743	pending	-
-148442	FedLoVA: Value-Only Aggregation for Federated LoRA Fine-Tuning of Large Language Models	https://neurips.cc/virtual/2026/poster/148442	pending	-
-151499	FedPeel: Peeling Stabilized Layers for Robust Heterogeneous Federated Learning	https://neurips.cc/virtual/2026/poster/151499	pending	-
-155040	FedProG: Federated Graph Learning via Server-Side LLM Semantic Bridging and Uncertainty-Aware Distillation	https://neurips.cc/virtual/2026/poster/155040	pending	-
-149139	FedReCall: Recalling Client-Specific Directions in Federated LoRA Fine-tuning	https://neurips.cc/virtual/2026/poster/149139	pending	-
-148199	FedRSPO+: A Heterogeneity-aware Algorithm for Decision-focused Federated Learning	https://neurips.cc/virtual/2026/poster/148199	pending	-
-156778	Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning	https://neurips.cc/virtual/2026/poster/156778	pending	-
-151822	FedSEM: Mitigating Cross-Client Evidence Drift in Federated Multiple Instance Learning	https://neurips.cc/virtual/2026/poster/151822	pending	-
-153586	FedSOUL: Federated Continual Unlearning via Spectral Orthogonality	https://neurips.cc/virtual/2026/poster/153586	pending	-
-148309	FedTrace: Generated-Content-Based Watermark Verification for Traitor Tracing in Federated Learning	https://neurips.cc/virtual/2026/poster/148309	pending	-
-152313	FedVaccine: Knowledge Recall after Spatial-Temporal Catastrophic Forgetting in Federated Continual Learning via Gradient-Based Vaccine	https://neurips.cc/virtual/2026/poster/152313	pending	-
-153077	FedVSSAM: Mitigating Flatness Incompatibility in Sharpness-Aware Federated Learning	https://neurips.cc/virtual/2026/poster/153077	pending	-
-139671	Feedback Forensics: A Toolkit to Measure AI Personality	https://neurips.cc/virtual/2026/poster/139671	pending	-
-152267	Feedback World Model Enables Precise Guidance of Diffusion Policy	https://neurips.cc/virtual/2026/poster/152267	pending	-
-150475	Feed-Forward 3D Gaussian Splatting for High-Fidelity Animatable Hand Avatar Reconstruction from a Single Image	https://neurips.cc/virtual/2026/poster/150475	pending	-
-149287	Feedforward Novel View Synthesis for Heterogeneous Cameras	https://neurips.cc/virtual/2026/poster/149287	pending	-
-150142	Feeling of Knowing in Large Language Models	https://neurips.cc/virtual/2026/poster/150142	pending	-
-148321	Felid: A Flexible and Efficient Design for Transformer Fine-Tuning over Encrypted Data	https://neurips.cc/virtual/2026/poster/148321	pending	-
-149434	FELPS: Fair and Efficient Scheduling for Multi-LoRA Serving System	https://neurips.cc/virtual/2026/poster/149434	pending	-
-155313	FENet: Functional Embedding Neural Network for Change-Point Detection in Functional Time Series	https://neurips.cc/virtual/2026/poster/155313	pending	-
-151723	FEP-Agent: Grounding LLM Agent Self-Evolution in Active Inference with Semantic Memory	https://neurips.cc/virtual/2026/poster/151723	pending	-
-152029	FerQ: Fermat Quotient Reformulation of High-Order Binary Optimization	https://neurips.cc/virtual/2026/poster/152029	pending	-
-154544	Ferrogen: Generative Pipeline for Guided Search of Novel Ferroelectric Material for Logic and Memory	https://neurips.cc/virtual/2026/poster/154544	pending	-
+148441	Fault Tolerance in Transformers Favors Output Alignment over Hidden-State Consistency	https://neurips.cc/virtual/2026/poster/148441	included	给故障一致性训练优先加输出分布约束
+153584	Fault Tolerant Coresets	https://neurips.cc/virtual/2026/poster/153584	included	按允许损坏点数分配核心集冗余
+151814	FAUST: Federated Asynchronous Update with Staggered Timescales for Low-Communication Foundation Model Training	https://neurips.cc/virtual/2026/poster/151814	included	按参数及两阶动量的时间尺度分别同步
+156009	FAVLA: A Force-Adaptive Multi-Rate VLA model for Contact-Rich Robotic Manipulation	https://neurips.cc/virtual/2026/poster/156009	included	按预测力变化安排动作纠正频率
+155019	FC-DGCN: Deep Graph Convolutional Network for Face Clustering and Recognition	https://neurips.cc/virtual/2026/poster/155019	included	分开估计节点可靠度与边连接性以构建簇
+156133	𝑓-Differential Privacy Filters: Validity and Approximate Solutions	https://neurips.cc/virtual/2026/poster/156133	included	动态隐私预算需要重新验证累积规则
+152855	FEAD: Fine-Grained Epipolar Attention Diffusion for Large-Disparity Light Field Spatial Super-Resolution	https://neurips.cc/virtual/2026/poster/152855	included	按极线细化跨视图对齐再执行融合
+151552	Feasible Policy Optimization for Safe Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151552	included	为可行区内外采用不同策略目标
+152364	FeatCal: Feature Calibration for Post-Merging Models	https://neurips.cc/virtual/2026/poster/152364	included	按前向次序修复合并模型表征
+148620	Feature-Context Consistency: Unsupervised Adversarial Detection with Drift Stability on Attributed Graphs	https://neurips.cc/virtual/2026/poster/148620	included	用节点及邻域属性一致性检测异常
+152004	Feature Information Dynamics in Diffusion	https://neurips.cc/virtual/2026/poster/152004	included	按去噪时刻量化特征何时出现
+150047	Feature Learning Dynamics in Infinite-Depth Neural Networks	https://neurips.cc/virtual/2026/poster/150047	included	用深度极限 SDE 跟踪训练中的特征与梯度协方差
+149864	Feature learning  in high-dimensions under structured covariance: Scaling laws in quadratic networks	https://neurips.cc/virtual/2026/poster/149864	included	将输入协方差谱纳入样本复杂度预测
+151094	Feature Recovery for Object Understanding Under Physical Transformation	https://neurips.cc/virtual/2026/poster/151094	included	用成对变换前后特征监督轻量恢复模块
+153987	FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation	https://neurips.cc/virtual/2026/poster/153987	included	客户端缺席时复用其最近更新，并量化保存
+155141	Fed-AGA: An Anchor Graph Alignment Framework for Federated Unaligned Multi-view Clustering	https://neurips.cc/virtual/2026/poster/155141	included	先用类别拓扑对齐，再做样本级匹配
+153757	FedCAG: Federated Causality-Aware Graph Learning for Multi-Cloud Workload Forecasting	https://neurips.cc/virtual/2026/poster/153757	included	在参数聚合之外共享依赖图先验
+152149	FedCF: Fair Federated Conformal Prediction	https://neurips.cc/virtual/2026/poster/152149	included	对联邦保形预测逐组审计覆盖差
+153466	Federated Concept-Based Models: Interpretable models with distributed supervision	https://neurips.cc/virtual/2026/poster/153466	included	允许解释概念随分布式监督动态扩充
+139042	Federated Dataset Simulation: Inducing Label-Free Heterogeneity Across Tasks	https://neurips.cc/virtual/2026/poster/139042	included	用可分离的表征和分配规则模拟无标签客户端异质性
+155993	Federated Distributionally Robust Neural Combinatorial Optimization with Convergence Guarantees	https://neurips.cc/virtual/2026/poster/155993	included	用有界成本处理策略梯度方差，并防止最坏组权重塌缩
+152765	Federated Graph Learning with Local Message Compensation	https://neurips.cc/virtual/2026/poster/152765	included	图节点不能跨端共享时用局部代理恢复外邻域信息
+150671	Federated Learning by Utility-Constrained Stochastic Aggregation for Improving Rational Participation	https://neurips.cc/virtual/2026/poster/150671	included	把客户端留存写入随机聚合优化
+151627	Federated Logic Gate Networks via Boolean Feature Selection	https://neurips.cc/virtual/2026/poster/151627	included	平均布尔门参数前先检查其函数语义
+154090	Federated Unlearning with Gradient Adaptive Shaping	https://neurips.cc/virtual/2026/poster/154090	included	同时限制本地遗忘幅度与服务器聚合冲突
+153323	Federate the Router: Learning Language Model Routers with Sparse and Decentralized Evaluations	https://neurips.cc/virtual/2026/poster/153323	included	用分散、稀疏的查询评估训练跨端共享路由器
+140052	Federation Is the Way Forward for AI Agents	https://neurips.cc/virtual/2026/poster/140052	excluded	主要提出联邦 Agent 的路线图与经济推演；摘要未提供能支持独立技术机制的实现、实测或可重复对照。
+153075	FedIBS: Federated Vision-Language Adaptation via Intrinsic Bias Selection	https://neurips.cc/virtual/2026/poster/153075	included	只更新骨干已有的偏置，并按可共享性选择通信坐标
+156743	FedIndex: Federated Domain Adaptation with Continuous Domain Indices	https://neurips.cc/virtual/2026/poster/156743	included	用连续域索引代替硬分域
+148442	FedLoVA: Value-Only Aggregation for Federated LoRA Fine-Tuning of Large Language Models	https://neurips.cc/virtual/2026/poster/148442	included	本地训练查询和值投影，只聚合收敛较快的值投影
+151499	FedPeel: Peeling Stabilized Layers for Robust Heterogeneous Federated Learning	https://neurips.cc/virtual/2026/poster/151499	included	仅聚合已稳定代理层，并按置信度控制蒸馏
+155040	FedProG: Federated Graph Learning via Server-Side LLM Semantic Bridging and Uncertainty-Aware Distillation	https://neurips.cc/virtual/2026/poster/155040	included	将邻域生成放在服务端，客户端承担轻量映射。
+149139	FedReCall: Recalling Client-Specific Directions in Federated LoRA Fine-tuning	https://neurips.cc/virtual/2026/poster/149139	included	在本地找回聚合时稀释的适配方向。
+148199	FedRSPO+: A Heterogeneity-aware Algorithm for Decision-focused Federated Learning	https://neurips.cc/virtual/2026/poster/148199	included	客户端决策集合不一致时，用平滑代理替代硬最优决策梯度。
+156778	Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning	https://neurips.cc/virtual/2026/poster/156778	included	共享冻结低秩基，只聚合低维中间矩阵。
+151822	FedSEM: Mitigating Cross-Client Evidence Drift in Federated Multiple Instance Learning	https://neurips.cc/virtual/2026/poster/151822	included	聚合精简证据原型以协调客户端所关注的实例。
+153586	FedSOUL: Federated Continual Unlearning via Spectral Orthogonality	https://neurips.cc/virtual/2026/poster/153586	included	将重复遗忘更新限制到彼此正交的子空间。
+148309	FedTrace: Generated-Content-Based Watermark Verification for Traitor Tracing in Federated Learning	https://neurips.cc/virtual/2026/poster/148309	included	仅有流通生成结果时，验证联邦模型来源标识。
+152313	FedVaccine: Knowledge Recall after Spatial-Temporal Catastrophic Forgetting in Federated Continual Learning via Gradient-Based Vaccine	https://neurips.cc/virtual/2026/poster/152313	included	比较防止遗忘和低成本恢复两种资源分配。
+153077	FedVSSAM: Mitigating Flatness Incompatibility in Sharpness-Aware Federated Learning	https://neurips.cc/virtual/2026/poster/153077	included	让局部扰动、下降和全局步共享更一致的方向估计。
+139671	Feedback Forensics: A Toolkit to Measure AI Personality	https://neurips.cc/virtual/2026/poster/139671	included	分别度量偏好数据鼓励的特征与模型输出实际呈现的特征。
+152267	Feedback World Model Enables Precise Guidance of Diffusion Policy	https://neurips.cc/virtual/2026/poster/152267	included	部署时用执行反馈修正世界模型预测。
+150475	Feed-Forward 3D Gaussian Splatting for High-Fidelity Animatable Hand Avatar Reconstruction from a Single Image	https://neurips.cc/virtual/2026/poster/150475	included	按实际渲染贡献决定哪些高斯要吸收源图像外观。
+149287	Feedforward Novel View Synthesis for Heterogeneous Cameras	https://neurips.cc/virtual/2026/poster/149287	included	让视觉 token 携带图块内完整射线分布。
+150142	Feeling of Knowing in Large Language Models	https://neurips.cc/virtual/2026/poster/150142	included	知识后训练后重新校准回答、检索或弃答决策。
+148321	Felid: A Flexible and Efficient Design for Transformer Fine-Tuning over Encrypted Data	https://neurips.cc/virtual/2026/poster/148321	included	以密文原语次数定位加密微调瓶颈。
+149434	FELPS: Fair and Efficient Scheduling for Multi-LoRA Serving System	https://neurips.cc/virtual/2026/poster/149434	included	同时按工作量校准公平性并奖励已驻留适配器。
+155313	FENet: Functional Embedding Neural Network for Change-Point Detection in Functional Time Series	https://neurips.cc/virtual/2026/poster/155313	included	让神经表征保留函数型 CUSUM 的检测结构。
+151723	FEP-Agent: Grounding LLM Agent Self-Evolution in Active Inference with Semantic Memory	https://neurips.cc/virtual/2026/poster/151723	included	把行动时消解不确定性和行动后验证知识分开。
+152029	FerQ: Fermat Quotient Reformulation of High-Order Binary Optimization	https://neurips.cc/virtual/2026/poster/152029	included	为高阶二进制项使用精确闭式重写，减少中间变量。
+154544	Ferrogen: Generative Pipeline for Guided Search of Novel Ferroelectric Material for Logic and Memory	https://neurips.cc/virtual/2026/poster/154544	included	用快速代理缩小电子材料候选池，再独立高保真验证。
 150728	FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices	https://neurips.cc/virtual/2026/poster/150728	pending	-
 139547	fev-bench: A Realistic Benchmark for Time Series Forecasting	https://neurips.cc/virtual/2026/poster/139547	pending	-
 156119	Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers	https://neurips.cc/virtual/2026/poster/156119	pending	-

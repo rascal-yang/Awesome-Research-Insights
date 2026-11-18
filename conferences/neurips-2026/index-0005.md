@@ -302,3 +302,62 @@
 | 优化 | 曲率近似 | [Fast Gauss-Newton for Multiclass Cross-Entropy](cards-0005.md#paper-153523) | 类别较多时只保留真类对其余类的曲率 |
 | 大语言模型 | 缓存淘汰 | [Fast KVzip: Efficient and Accurate LLM Inference with Gated KV Eviction](cards-0005.md#paper-150502) | 用轻量门控挑选需保留的 KV 项 |
 | 科学机器学习 | 统计速率 | [Fast Learning Rates for Physics-Informed Kernel Methods](cards-0005.md#paper-152762) | 微分数据达到饱和阈值后增加函数值观测 |
+| 科学机器学习 | 滚动校正 | [Exactness Matters for Physical Rule Enforcement](cards-0005.md#paper-152917) | 先测校正算子在真实目标上的失真 |
+| 科学机器学习 | 晶体表示 | [Fast Organic Crystal Structure Prediction with Unit Cell Flow Matching](cards-0005.md#paper-153596) | 比较显式晶胞参数化与体材料裁剪 |
+| 科学机器学习 | 物理约束架构 | [Fast Reconstruction of Exact Maxwell Dynamics from Sparse Data](cards-0005.md#paper-148197) | 将可解析物理约束放入基函数 |
+| 统计学习 | 判别降维 | [Fast, Relaxation‑ and Hyperparameter‑Free Pairwise Worst-Case Class Separation](cards-0005.md#paper-149044) | 按最难分的类别对选择投影 |
+| 大语言模型 | 推理强化学习 | [Fast-RL: Accelerating Reinforcement Learning for LongCoT Reasoning Models](cards-0005.md#paper-148369) | 用短轨迹训练，再在长轨迹模式评估 |
+| 机器学习系统 | 结构化计算 | [Fast Sandwich Products in Clifford Algebra](cards-0005.md#paper-149383) | 用低维旋转分解计算多向量作用 |
+| 自动驾驶 | 多速率感知 | [Fast-Slow Evolutionary Occupancy Prediction via Controlled Dynamics](cards-0005.md#paper-156095) | 用连续状态融合异步快慢预测 |
+| 具身智能 | 世界模型消融 | [Fast-WAM: Do World Action Models Need Test-time Future Imagination?](cards-0005.md#paper-149922) | 保留视频共训练并单独测试是否需要推理生成 |
+| 统计学习 | 图结构估计 | [Fast Wasserstein rates for estimating probability distributions of probabilistic graphical models](cards-0005.md#paper-156637) | 用节点和父节点局部维度估算分布学习难度 |
+| 大语言模型 | 容错训练 | [Fault Tolerance in Transformers Favors Output Alignment over Hidden-State Consistency](cards-0005.md#paper-148441) | 给故障一致性训练优先加输出分布约束 |
+| 机器学习基础 | 鲁棒数据压缩 | [Fault Tolerant Coresets](cards-0005.md#paper-153584) | 按允许损坏点数分配核心集冗余 |
+| 机器学习系统 | 分布式训练 | [FAUST: Federated Asynchronous Update with Staggered Timescales for Low-Communication Foundation Model Training](cards-0005.md#paper-151814) | 按参数及两阶动量的时间尺度分别同步 |
+| 具身智能 | 异步动作反馈 | [FAVLA: A Force-Adaptive Multi-Rate VLA model for Contact-Rich Robotic Manipulation](cards-0005.md#paper-156009) | 按预测力变化安排动作纠正频率 |
+| 计算机视觉 | 图聚类 | [FC-DGCN: Deep Graph Convolutional Network for Face Clustering and Recognition](cards-0005.md#paper-155019) | 分开估计节点可靠度与边连接性以构建簇 |
+| 隐私保护 | 自适应组合 | [𝑓-Differential Privacy Filters: Validity and Approximate Solutions](cards-0005.md#paper-156133) | 动态隐私预算需要重新验证累积规则 |
+| 计算机视觉 | 光场重建 | [FEAD: Fine-Grained Epipolar Attention Diffusion for Large-Disparity Light Field Spatial Super-Resolution](cards-0005.md#paper-152855) | 按极线细化跨视图对齐再执行融合 |
+| 强化学习 | 安全约束优化 | [Feasible Policy Optimization for Safe Reinforcement Learning](cards-0005.md#paper-151552) | 为可行区内外采用不同策略目标 |
+| 模型融合 | 特征校准 | [FeatCal: Feature Calibration for Post-Merging Models](cards-0005.md#paper-152364) | 按前向次序修复合并模型表征 |
+| 图学习 | 防御诊断 | [Feature-Context Consistency: Unsupervised Adversarial Detection with Drift Stability on Attributed Graphs](cards-0005.md#paper-148620) | 用节点及邻域属性一致性检测异常 |
+| 生成模型 | 扩散诊断 | [Feature Information Dynamics in Diffusion](cards-0005.md#paper-152004) | 按去噪时刻量化特征何时出现 |
+| 学习理论 | 深度极限 | [Feature Learning Dynamics in Infinite-Depth Neural Networks](cards-0005.md#paper-150047) | 用深度极限 SDE 跟踪训练中的特征与梯度协方差 |
+| 学习理论 | 尺度规律 | [Feature learning  in high-dimensions under structured covariance: Scaling laws in quadratic networks](cards-0005.md#paper-149864) | 将输入协方差谱纳入样本复杂度预测 |
+| 计算机视觉 | 表征恢复 | [Feature Recovery for Object Understanding Under Physical Transformation](cards-0005.md#paper-151094) | 用成对变换前后特征监督轻量恢复模块 |
+| 联邦学习 | 方差缩减 | [FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation](cards-0005.md#paper-153987) | 客户端缺席时复用其最近更新，并量化保存 |
+| 多模态学习 | 跨视图聚类 | [Fed-AGA: An Anchor Graph Alignment Framework for Federated Unaligned Multi-view Clustering](cards-0005.md#paper-155141) | 先用类别拓扑对齐，再做样本级匹配 |
+| 时间序列 | 联邦预测 | [FedCAG: Federated Causality-Aware Graph Learning for Multi-Cloud Workload Forecasting](cards-0005.md#paper-153757) | 在参数聚合之外共享依赖图先验 |
+| 统计学习 | 公平校准 | [FedCF: Fair Federated Conformal Prediction](cards-0005.md#paper-152149) | 对联邦保形预测逐组审计覆盖差 |
+| 联邦学习 | 概念建模 | [Federated Concept-Based Models: Interpretable models with distributed supervision](cards-0005.md#paper-153466) | 允许解释概念随分布式监督动态扩充 |
+| 联邦学习 | 数据划分 | [Federated Dataset Simulation: Inducing Label-Free Heterogeneity Across Tasks](cards-0005.md#paper-139042) | 用可分离的表征和分配规则模拟无标签客户端异质性 |
+| 优化 / 联邦学习 | 分布鲁棒优化 | [Federated Distributionally Robust Neural Combinatorial Optimization with Convergence Guarantees](cards-0005.md#paper-155993) | 用有界成本处理策略梯度方差，并防止最坏组权重塌缩 |
+| 图学习 | 联邦消息补偿 | [Federated Graph Learning with Local Message Compensation](cards-0005.md#paper-152765) | 图节点不能跨端共享时用局部代理恢复外邻域信息 |
+| 联邦学习 | 参与约束 | [Federated Learning by Utility-Constrained Stochastic Aggregation for Improving Rational Participation](cards-0005.md#paper-150671) | 把客户端留存写入随机聚合优化 |
+| 联邦学习 | 模型合并 | [Federated Logic Gate Networks via Boolean Feature Selection](cards-0005.md#paper-151627) | 平均布尔门参数前先检查其函数语义 |
+| 联邦学习 | 机器遗忘 | [Federated Unlearning with Gradient Adaptive Shaping](cards-0005.md#paper-154090) | 同时限制本地遗忘幅度与服务器聚合冲突 |
+| 大语言模型 | 模型路由 | [Federate the Router: Learning Language Model Routers with Sparse and Decentralized Evaluations](cards-0005.md#paper-153323) | 用分散、稀疏的查询评估训练跨端共享路由器 |
+| 多模态学习 | 参数高效适配 | [FedIBS: Federated Vision-Language Adaptation via Intrinsic Bias Selection](cards-0005.md#paper-153075) | 只更新骨干已有的偏置，并按可共享性选择通信坐标 |
+| 联邦学习 | 连续域适配 | [FedIndex: Federated Domain Adaptation with Continuous Domain Indices](cards-0005.md#paper-156743) | 用连续域索引代替硬分域 |
+| 大语言模型 | 联邦低秩微调 | [FedLoVA: Value-Only Aggregation for Federated LoRA Fine-Tuning of Large Language Models](cards-0005.md#paper-148442) | 本地训练查询和值投影，只聚合收敛较快的值投影 |
+| 联邦学习 | 代理蒸馏 | [FedPeel: Peeling Stabilized Layers for Robust Heterogeneous Federated Learning](cards-0005.md#paper-151499) | 仅聚合已稳定代理层，并按置信度控制蒸馏 |
+| 图学习 / 联邦学习 | 邻域补全 | [FedProG: Federated Graph Learning via Server-Side LLM Semantic Bridging and Uncertainty-Aware Distillation](cards-0005.md#paper-155040) | 将邻域生成放在服务端，客户端承担轻量映射。 |
+| 大语言模型 / 联邦学习 | 个性化适配 | [FedReCall: Recalling Client-Specific Directions in Federated LoRA Fine-tuning](cards-0005.md#paper-149139) | 在本地找回聚合时稀释的适配方向。 |
+| 联邦学习 / 优化 | 决策损失 | [FedRSPO+: A Heterogeneity-aware Algorithm for Decision-focused Federated Learning](cards-0005.md#paper-148199) | 客户端决策集合不一致时，用平滑代理替代硬最优决策梯度。 |
+| 大语言模型 / 联邦学习 | 参数化 | [Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning](cards-0005.md#paper-156778) | 共享冻结低秩基，只聚合低维中间矩阵。 |
+| 联邦学习 / 弱监督 | 原型记忆 | [FedSEM: Mitigating Cross-Client Evidence Drift in Federated Multiple Instance Learning](cards-0005.md#paper-151822) | 聚合精简证据原型以协调客户端所关注的实例。 |
+| 联邦学习 | 持续遗忘 | [FedSOUL: Federated Continual Unlearning via Spectral Orthogonality](cards-0005.md#paper-153586) | 将重复遗忘更新限制到彼此正交的子空间。 |
+| 生成模型 / 安全 | 溯源验证 | [FedTrace: Generated-Content-Based Watermark Verification for Traitor Tracing in Federated Learning](cards-0005.md#paper-148309) | 仅有流通生成结果时，验证联邦模型来源标识。 |
+| 联邦学习 | 持续训练 | [FedVaccine: Knowledge Recall after Spatial-Temporal Catastrophic Forgetting in Federated Continual Learning via Gradient-Based Vaccine](cards-0005.md#paper-152313) | 比较防止遗忘和低成本恢复两种资源分配。 |
+| 联邦学习 / 优化 | 梯度校准 | [FedVSSAM: Mitigating Flatness Incompatibility in Sharpness-Aware Federated Learning](cards-0005.md#paper-153077) | 让局部扰动、下降和全局步共享更一致的方向估计。 |
+| 大语言模型 | 行为评测 | [Feedback Forensics: A Toolkit to Measure AI Personality](cards-0005.md#paper-139671) | 分别度量偏好数据鼓励的特征与模型输出实际呈现的特征。 |
+| 机器人学 | 闭环预测 | [Feedback World Model Enables Precise Guidance of Diffusion Policy](cards-0005.md#paper-152267) | 部署时用执行反馈修正世界模型预测。 |
+| 计算机视觉 | 三维重建 | [Feed-Forward 3D Gaussian Splatting for High-Fidelity Animatable Hand Avatar Reconstruction from a Single Image](cards-0005.md#paper-150475) | 按实际渲染贡献决定哪些高斯要吸收源图像外观。 |
+| 计算机视觉 | 跨投影表征 | [Feedforward Novel View Synthesis for Heterogeneous Cameras](cards-0005.md#paper-149287) | 让视觉 token 携带图块内完整射线分布。 |
+| 大语言模型 | 置信校准 | [Feeling of Knowing in Large Language Models](cards-0005.md#paper-150142) | 知识后训练后重新校准回答、检索或弃答决策。 |
+| 机器学习系统 | 加密训练 | [Felid: A Flexible and Efficient Design for Transformer Fine-Tuning over Encrypted Data](cards-0005.md#paper-148321) | 以密文原语次数定位加密微调瓶颈。 |
+| 大语言模型 / 系统 | 服务调度 | [FELPS: Fair and Efficient Scheduling for Multi-LoRA Serving System](cards-0005.md#paper-149434) | 同时按工作量校准公平性并奖励已驻留适配器。 |
+| 统计学习 / 系统 | 变化点监测 | [FENet: Functional Embedding Neural Network for Change-Point Detection in Functional Time Series](cards-0005.md#paper-155313) | 让神经表征保留函数型 CUSUM 的检测结构。 |
+| Agent | 语义记忆 | [FEP-Agent: Grounding LLM Agent Self-Evolution in Active Inference with Semantic Memory](cards-0005.md#paper-151723) | 把行动时消解不确定性和行动后验证知识分开。 |
+| 优化 | 高阶重参数化 | [FerQ: Fermat Quotient Reformulation of High-Order Binary Optimization](cards-0005.md#paper-152029) | 为高阶二进制项使用精确闭式重写，减少中间变量。 |
+| 科学机器学习 | 多保真筛选 | [Ferrogen: Generative Pipeline for Guided Search of Novel Ferroelectric Material for Logic and Memory](cards-0005.md#paper-154544) | 用快速代理缩小电子材料候选池，再独立高保真验证。 |
