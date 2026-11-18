@@ -4564,66 +4564,66 @@ poster_id	title	paper_url	status	reason
 152589	Locality Sensitive Hashing for p-Exponential Kernels with Applications to Density Estimation	https://neurips.cc/virtual/2026/poster/152589	included	在有界区域的密度估计可考虑 p 指数核的碰撞估计。
 152225	Localize Any Object in X-Ray Security Scans without Human Annotation	https://neurips.cc/virtual/2026/poster/152225	included	透射成像检测训练可按遮叠难度逐级评估。
 151978	Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151978	included	跨动力学离线迁移按局部转移簇而非全域比相容性。
-148596	Localizing and Repairing Sparse-Prompt Failure in SAM Decoders via Box-to-Point Counterfactual	https://neurips.cc/virtual/2026/poster/148596	pending	-
-151958	Localizing Concepts in Visual Autoregressive Models	https://neurips.cc/virtual/2026/poster/151958	pending	-
-152631	Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values	https://neurips.cc/virtual/2026/poster/152631	pending	-
-151210	Local linear convergence of gradient methods for overparameterized Gaussian mixtures	https://neurips.cc/virtual/2026/poster/151210	pending	-
-151248	Locally-Additive Regret for Delayed Non-stationary Bandit Convex Optimization	https://neurips.cc/virtual/2026/poster/151248	pending	-
-152505	Local Manifold Identification with Latent Linear Models and OT Flows	https://neurips.cc/virtual/2026/poster/152505	pending	-
-149916	Local Policy Manifolds for Efficient Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149916	pending	-
-154110	Local Sparsity Enables Unsupervised LLM Safety Detection	https://neurips.cc/virtual/2026/poster/154110	pending	-
-156081	Locating and Repairing Domain Shift in VLM Trajectory Planning	https://neurips.cc/virtual/2026/poster/156081	pending	-
-149948	Locking Pretrained Weights via Deep Low-Rank Residual Distillation	https://neurips.cc/virtual/2026/poster/149948	pending	-
-153475	LOCO: Local Light-Aware Object Compositing with Spatially Varying Illumination-Augmented Data	https://neurips.cc/virtual/2026/poster/153475	pending	-
-155077	LoCo: Selective Local Competition for Discriminative Open-Vocabulary Multi-Label Recognition	https://neurips.cc/virtual/2026/poster/155077	pending	-
-155725	LOCU: Löwdin-Orthogonalized Constraint Updates for Multi-Constraint Policy Optimization	https://neurips.cc/virtual/2026/poster/155725	pending	-
-154983	LOFT: Low-Rank Orthogonal Fine-Tuning via Task-Aware Support Selection	https://neurips.cc/virtual/2026/poster/154983	pending	-
-149279	Logarithmic Depth Suffices for In-Context Gradient Descent	https://neurips.cc/virtual/2026/poster/149279	pending	-
-148791	Log-Averaged Mirror Prox for Fast, Large-Scale Optimal Transport in Linear Space	https://neurips.cc/virtual/2026/poster/148791	pending	-
-148712	Logical Distillation of Transformer Encoders	https://neurips.cc/virtual/2026/poster/148712	pending	-
-153496	LogicDirector: Enforcing Temporal Composition in Text-to-Video Generation	https://neurips.cc/virtual/2026/poster/153496	pending	-
-149309	LogicSR: A Unified Benchmark for Logical Discovery from Data	https://neurips.cc/virtual/2026/poster/149309	pending	-
-153327	LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting	https://neurips.cc/virtual/2026/poster/153327	pending	-
-152383	Logistic Bandits with $\tilde{O}(\sqrt{dT})$ Regret without Context Diversity Assumptions	https://neurips.cc/virtual/2026/poster/152383	pending	-
-153860	Logit-Conditioned Diffusion Decoding for Frozen Discrete-Token VLMs	https://neurips.cc/virtual/2026/poster/153860	pending	-
-149157	Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads	https://neurips.cc/virtual/2026/poster/149157	pending	-
-155257	Logit-Gap Steering: A Forward-Pass Diagnostic for Alignment Robustness	https://neurips.cc/virtual/2026/poster/155257	pending	-
-148606	Log-Likelihood, Simpson’s Paradox, and the Detection of Machine-Generated Text	https://neurips.cc/virtual/2026/poster/148606	pending	-
-149042	LogSig-SSM: Time-Series Modelling with Multi-Scale Log-Signature Compression for State-Space Models	https://neurips.cc/virtual/2026/poster/149042	pending	-
-156145	LogSTOP: Temporal Scores over Prediction Sequences for Matching and Retrieval	https://neurips.cc/virtual/2026/poster/156145	pending	-
-155728	LogT: Logically Think with Images for Visual Search	https://neurips.cc/virtual/2026/poster/155728	pending	-
-154345	LoMo: Local Modality Substitution for Deeper Vision-Language Fusion	https://neurips.cc/virtual/2026/poster/154345	pending	-
-139714	LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis	https://neurips.cc/virtual/2026/poster/139714	pending	-
-139582	Long-Context Generation Is a Sampling Problem	https://neurips.cc/virtual/2026/poster/139582	pending	-
-140121	Long-Context Language Models Require Extreme Sparsity in Context Dimension	https://neurips.cc/virtual/2026/poster/140121	pending	-
-139997	Long-Horizon Agency Belongs in the Harness, Not the Context Window Only	https://neurips.cc/virtual/2026/poster/139997	pending	-
-151973	Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities	https://neurips.cc/virtual/2026/poster/151973	pending	-
-148330	Long-Lived AI Agents Age Too: They Quietly Decay After Deployment	https://neurips.cc/virtual/2026/poster/148330	pending	-
-149299	LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems	https://neurips.cc/virtual/2026/poster/149299	pending	-
-154088	Long-Range Spatio-Temporal Graph Propagation Through Oscillations	https://neurips.cc/virtual/2026/poster/154088	pending	-
-139600	Long-Rollout Stability in AI Weather Models: A Quantitative Benchmark and Analysis	https://neurips.cc/virtual/2026/poster/139600	pending	-
-153086	LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE	https://neurips.cc/virtual/2026/poster/153086	pending	-
-153735	LongSCOP: Semantically Consistent Long Video Outpainting	https://neurips.cc/virtual/2026/poster/153735	pending	-
-150236	LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning	https://neurips.cc/virtual/2026/poster/150236	pending	-
-151462	Long-Term Composition of Human-Object Interactions	https://neurips.cc/virtual/2026/poster/151462	pending	-
-154031	Long-term Embodied Visual Tracking with Lightweight Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/154031	pending	-
-155991	Long-Term Risks of Risk-Based Allocation	https://neurips.cc/virtual/2026/poster/155991	pending	-
-151911	Long Video Instructional Editing in the Wild	https://neurips.cc/virtual/2026/poster/151911	pending	-
-154685	Look-ahead Variational Flow for Generative Online Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154685	pending	-
-153870	Lookalike3D: Seeing Double in 3D	https://neurips.cc/virtual/2026/poster/153870	pending	-
-154223	Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds	https://neurips.cc/virtual/2026/poster/154223	pending	-
-154029	Look Before You Leap: Self-Evolving Clinical Reasoning with Psychometric Preference Optimization for Radiology Report Generation	https://neurips.cc/virtual/2026/poster/154029	pending	-
-149054	Look Before You Reason: Implicit Visual Thinking for Efficient Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/149054	pending	-
-150598	Looking Through the Mirror: Minimax-Optimal Regularized Regrets in Online Learning and Bandits	https://neurips.cc/virtual/2026/poster/150598	pending	-
-140112	Looking Under the Streetlight: Evaluation in Generative Molecular Dynamics	https://neurips.cc/virtual/2026/poster/140112	pending	-
-151188	LookThere! Sparse Vision by Reinforced Selection	https://neurips.cc/virtual/2026/poster/151188	pending	-
-149223	LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute	https://neurips.cc/virtual/2026/poster/149223	pending	-
-148287	Loop alignment: Self-organized Weight Transpose in Predictive Coding through Independent Hebbian Plasticity.	https://neurips.cc/virtual/2026/poster/148287	pending	-
-152196	Looped Diffusion Language Models	https://neurips.cc/virtual/2026/poster/152196	pending	-
-149678	Looped Transformers with Layer Normalization Provably Learn the Power Method	https://neurips.cc/virtual/2026/poster/149678	pending	-
-152801	Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery	https://neurips.cc/virtual/2026/poster/152801	pending	-
-139665	LoopNav: Benchmarking Spatial Consistency in World Models	https://neurips.cc/virtual/2026/poster/139665	pending	-
-153561	LoopPrune: Evolutionary Module Selection with Iterative Execution for Efficient Large Language Model Compression	https://neurips.cc/virtual/2026/poster/153561	pending	-
+148596	Localizing and Repairing Sparse-Prompt Failure in SAM Decoders via Box-to-Point Counterfactual	https://neurips.cc/virtual/2026/poster/148596	included	稀疏提示失灵时先定位信息进入图像流的第一处因果瓶颈。
+151958	Localizing Concepts in Visual Autoregressive Models	https://neurips.cc/virtual/2026/poster/151958	included	视觉自回归概念诊断按层、尺度和位置分别定位。
+152631	Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values	https://neurips.cc/virtual/2026/poster/152631	included	澄清问题按输入片段对预测不确定性的贡献排序。
+151210	Local linear convergence of gradient methods for overparameterized Gaussian mixtures	https://neurips.cc/virtual/2026/poster/151210	included	过参数混合拟合交替接近慢增长区域和使用大步。
+151248	Locally-Additive Regret for Delayed Non-stationary Bandit Convex Optimization	https://neurips.cc/virtual/2026/poster/151248	included	延迟和漂移同时存在时协调分块大小与平滑半径。
+152505	Local Manifold Identification with Latent Linear Models and OT Flows	https://neurips.cc/virtual/2026/poster/152505	included	用预训练运输流把局部几何拟合转为简单潜线性模型。
+149916	Local Policy Manifolds for Efficient Multi-Objective Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149916	included	多目标策略搜索从已知强策略局部延展。
+154110	Local Sparsity Enables Unsupervised LLM Safety Detection	https://neurips.cc/virtual/2026/poster/154110	included	只有安全样本时在局部稀疏表示子空间做异常防护。
+156081	Locating and Repairing Domain Shift in VLM Trajectory Planning	https://neurips.cc/virtual/2026/poster/156081	included	跨城市轨迹偏移按模态和层分别定位后修复。
+149948	Locking Pretrained Weights via Deep Low-Rank Residual Distillation	https://neurips.cc/virtual/2026/poster/149948	excluded	方法主要提高开放权重被重新训练的门槛，未提取可独立复用的通用优化机制。
+153475	LOCO: Local Light-Aware Object Compositing with Spatially Varying Illumination-Augmented Data	https://neurips.cc/virtual/2026/poster/153475	included	从有位姿视频合成位置依赖的光照变化。
+155077	LoCo: Selective Local Competition for Discriminative Open-Vocabulary Multi-Label Recognition	https://neurips.cc/virtual/2026/poster/155077	included	开放多标签局部识别只让互斥类别竞争。
+155725	LOCU: Löwdin-Orthogonalized Constraint Updates for Multi-Constraint Policy Optimization	https://neurips.cc/virtual/2026/poster/155725	included	多约束策略梯度先在自然度量下正交化。
+154983	LOFT: Low-Rank Orthogonal Fine-Tuning via Task-Aware Support Selection	https://neurips.cc/virtual/2026/poster/154983	included	正交微调将支持子空间与子空间内旋转独立选。
+149279	Logarithmic Depth Suffices for In-Context Gradient Descent	https://neurips.cc/virtual/2026/poster/149279	included	上下文梯度模拟深度应按可表达多项式阶数估计。
+148791	Log-Averaged Mirror Prox for Fast, Large-Scale Optimal Transport in Linear Space	https://neurips.cc/virtual/2026/poster/148791	included	大规模最优运输用对偶平均序列表达原变量更新。
+148712	Logical Distillation of Transformer Encoders	https://neurips.cc/virtual/2026/poster/148712	included	用多级决策树表示编码器如何组合局部时序条件。
+153496	LogicDirector: Enforcing Temporal Composition in Text-to-Video Generation	https://neurips.cc/virtual/2026/poster/153496	included	文生视频在采样中用时序逻辑过滤潜候选。
+149309	LogicSR: A Unified Benchmark for Logical Discovery from Data	https://neurips.cc/virtual/2026/poster/149309	excluded	摘要主要发布逻辑发现基准；规模及复杂度影响较笼统，缺少可独立复用的选型规律或机制。
+153327	LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting	https://neurips.cc/virtual/2026/poster/153327	included	长篇技术文本先用有出处的逻辑树组织信息，再遍历生成章节。
+152383	Logistic Bandits with $\tilde{O}(\sqrt{dT})$ Regret without Context Diversity Assumptions	https://neurips.cc/virtual/2026/poster/152383	included	上下文集中在低维子空间时，比较分样本的逻辑赌博机估计与依赖上下文多样性的算法。
+153860	Logit-Conditioned Diffusion Decoding for Frozen Discrete-Token VLMs	https://neurips.cc/virtual/2026/poster/153860	included	离散视觉模型冻结时，避免过早丢弃码本 logits，用软码向量驱动解码。
+149157	Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads	https://neurips.cc/virtual/2026/poster/149157	included	定位非字面检索头时，不只看注意位置，还衡量该头向答案写入的内容。
+155257	Logit-Gap Steering: A Forward-Pass Diagnostic for Alignment Robustness	https://neurips.cc/virtual/2026/poster/155257	excluded	核心侧重搜索降低拒答的后缀，暂不提取攻击操作。
+148606	Log-Likelihood, Simpson’s Paradox, and the Detection of Machine-Generated Text	https://neurips.cc/virtual/2026/poster/148606	included	汇总机器文本检测分数前，按隐藏状态局部校准后积累对数似然比。
+149042	LogSig-SSM: Time-Series Modelling with Multi-Scale Log-Signature Compression for State-Space Models	https://neurips.cc/virtual/2026/poster/149042	included	不规则高频时序可先用多尺度对数签名压缩，再交给选择性状态空间模型。
+156145	LogSTOP: Temporal Scores over Prediction Sequences for Matching and Retrieval	https://neurips.cc/virtual/2026/poster/156145	included	检索长视频和音频中的时间条件时，用局部检测概率支撑显式时间规则打分。
+155728	LogT: Logically Think with Images for Visual Search	https://neurips.cc/virtual/2026/poster/155728	excluded	工具轨迹数据有候选价值，摘要未说明可强制逻辑链的独立构造规则。
+154345	LoMo: Local Modality Substitution for Deeper Vision-Language Fusion	https://neurips.cc/virtual/2026/poster/154345	included	减少等价文字和图像载体导致的表现差异时，只替换提示中的局部片段并保持语义。
+139714	LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis	https://neurips.cc/virtual/2026/poster/139714	excluded	多图参考检查表较完整，但摘要未给出证据选择或反馈设计各自的独立收益。
+139582	Long-Context Generation Is a Sampling Problem	https://neurips.cc/virtual/2026/poster/139582	included	长文开始重复时，先对照感知完整分布的采样器和常见截断，并记录每步所选 token 排名。
+140121	Long-Context Language Models Require Extreme Sparsity in Context Dimension	https://neurips.cc/virtual/2026/poster/140121	excluded	极端稀疏在所测预算有经验价值，但整体稀疏训练或普适结论仍缺直接验证，暂缓。
+139997	Long-Horizon Agency Belongs in the Harness, Not the Context Window Only	https://neurips.cc/virtual/2026/poster/139997	excluded	位置论文整理外部状态管理思路，摘要未提供独立机制的受控评测。
+151973	Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities	https://neurips.cc/virtual/2026/poster/151973	included	长时价值的自举误差累积时，用观测多步行动给最优 Q 添加下界惩罚。
+148330	Long-Lived AI Agents Age Too: They Quietly Decay After Deployment	https://neurips.cc/virtual/2026/poster/148330	included	测试有记忆代理时，进行跨会话纵向追踪，分开诊断写入、检索和使用。
+149299	LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems	https://neurips.cc/virtual/2026/poster/149299	excluded	长程干扰观测与同批 AgingBench 重叠，摘要未提供能直接指导选择的隔离诊断。
+154088	Long-Range Spatio-Temporal Graph Propagation Through Oscillations	https://neurips.cc/virtual/2026/poster/154088	excluded	振荡传播有潜力，摘要缺少稳定项选择或有无内置耦合的可复用对照。
+139600	Long-Rollout Stability in AI Weather Models: A Quantitative Benchmark and Analysis	https://neurips.cc/virtual/2026/poster/139600	included	验收长期天气滚动时，以高频能量、漂移和季节保持作为独立稳定性指标。
+153086	LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE	https://neurips.cc/virtual/2026/poster/153086	excluded	按语义分块与专家路由共同作用，摘要未量化何时动态分块独立有益。
+153735	LongSCOP: Semantically Consistent Long Video Outpainting	https://neurips.cc/virtual/2026/poster/153735	excluded	外绘组合训练及参考筛选共同改善，摘要未说明如何选择参考或分离各设计收益。
+150236	LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning	https://neurips.cc/virtual/2026/poster/150236	included	在脉冲模型用分数阶状态空间提供长期记忆。
+151462	Long-Term Composition of Human-Object Interactions	https://neurips.cc/virtual/2026/poster/151462	included	动作段合成同时条件化上一段末态与下一目标。
+154031	Long-term Embodied Visual Tracking with Lightweight Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/154031	excluded	摘要提出跟踪记忆与可靠性自适应，同时扩大训练集，未给独立机制证据；不抽取实际跟踪人的操作设计。
+155991	Long-Term Risks of Risk-Based Allocation	https://neurips.cc/virtual/2026/poster/155991	included	用于资源分配的风险模型要模拟被激励方的选择反应。
+151911	Long Video Instructional Editing in the Wild	https://neurips.cc/virtual/2026/poster/151911	included	长视频编辑可复用少量跨镜头身份锚点，同时独立定位编辑时段。
+154685	Look-ahead Variational Flow for Generative Online Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154685	included	生成策略先用预测动力学的前瞻目标控制训练目标漂移。
+153870	Lookalike3D: Seeing Double in 3D	https://neurips.cc/virtual/2026/poster/153870	included	三维场景重复对象提供互补视角，可共同重建。
+154223	Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds	https://neurips.cc/virtual/2026/poster/154223	included	动画相机先确定每个镜头要观察的证据，再规划平滑路径。
+154029	Look Before You Leap: Self-Evolving Clinical Reasoning with Psychometric Preference Optimization for Radiology Report Generation	https://neurips.cc/virtual/2026/poster/154029	excluded	摘要整体评估临床推理蒸馏与心理测量偏好采样，未给可独立复用的错误样本选取证据。
+149054	Look Before You Reason: Implicit Visual Thinking for Efficient Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/149054	included	单轮视觉推理直接在已读图像特征上强调相关区域。
+150598	Looking Through the Mirror: Minimax-Optimal Regularized Regrets in Online Learning and Bandits	https://neurips.cc/virtual/2026/poster/150598	included	在线学习后悔率需按正则强弱与反馈制度分析。
+140112	Looking Under the Streetlight: Evaluation in Generative Molecular Dynamics	https://neurips.cc/virtual/2026/poster/140112	excluded	观点论文讨论评测代理失配，摘要未给已验证的基准或明确可验收的非生物技术增量。
+151188	LookThere! Sparse Vision by Reinforced Selection	https://neurips.cc/virtual/2026/poster/151188	included	极稀疏视觉推理共同训练廉价选点器与局部特征提取器。
+149223	LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute	https://neurips.cc/virtual/2026/poster/149223	included	视频稀疏识别用词元独特性预训选择器、用图像与视频双教师预训提取器。
+148287	Loop alignment: Self-organized Weight Transpose in Predictive Coding through Independent Hebbian Plasticity.	https://neurips.cc/virtual/2026/poster/148287	included	预测编码可用独立学习的前馈和反馈路径测试权重传输假设。
+152196	Looped Diffusion Language Models	https://neurips.cc/virtual/2026/poster/152196	included	掩码扩散选择性循环早中层，并按去噪阶段调整迭代次数。
+149678	Looped Transformers with Layer Normalization Provably Learn the Power Method	https://neurips.cc/virtual/2026/poster/149678	included	涉及特征向量迭代的循环模型要单独消融层归一化。
+152801	Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery	https://neurips.cc/virtual/2026/poster/152801	included	从离线专家数据取奖励时先恢复软价值再做 Bellman 校准。
+139665	LoopNav: Benchmarking Spatial Consistency in World Models	https://neurips.cc/virtual/2026/poster/139665	excluded	摘要给出 Minecraft 闭环轨迹与场景图评分，但未比较像素指标和结构评分产生的不同结论，也未给具体世界模型失效证据。
+153561	LoopPrune: Evolutionary Module Selection with Iterative Execution for Efficient Large Language Model Compression	https://neurips.cc/virtual/2026/poster/153561	included	结构剪枝时允许重复保留层，以解耦存储参数与执行深度。
 150580	LoopRPT: Reinforcement Pre-Training for Looped Language Models	https://neurips.cc/virtual/2026/poster/150580	pending	-
 148555	LoopWeaver: Weaving Feedback Loops into Hierarchical Generation under Constraints	https://neurips.cc/virtual/2026/poster/148555	pending	-
 154333	LoRAcles: Self-Supervised Weight-Space Interpretability at Scale	https://neurips.cc/virtual/2026/poster/154333	pending	-

@@ -570,5 +570,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](../../conferences/neurips-2026/cards-0008.md#paper-153692)
 - [LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL](../../conferences/neurips-2026/cards-0008.md#paper-150546)
 - [Local Guidance, Global Impact: Gaussian-Reshaped Trust Region Unlocks Behavior Transitions](../../conferences/neurips-2026/cards-0008.md#paper-155658)
+- [Local Policy Manifolds for Efficient Multi-Objective Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-149916)
+- [Look-ahead Variational Flow for Generative Online Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-154685)
+- [Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery](../../conferences/neurips-2026/cards-0008.md#paper-152801)
 
 <!-- conference-classification:end -->

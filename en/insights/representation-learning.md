@@ -513,5 +513,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents](../../conferences/neurips-2026/cards-0008.md#paper-152183)
 - [LLMs can construct powerful representations and streamline sample-efficient supervised learning](../../conferences/neurips-2026/cards-0008.md#paper-153045)
 - [Local–Global Sparse Autoencoders for Multiscale Interpretability in Vision Models](../../conferences/neurips-2026/cards-0008.md#paper-151172)
+- [Local Manifold Identification with Latent Linear Models and OT Flows](../../conferences/neurips-2026/cards-0008.md#paper-152505)
+- [LogSig-SSM: Time-Series Modelling with Multi-Scale Log-Signature Compression for State-Space Models](../../conferences/neurips-2026/cards-0008.md#paper-149042)
+- [Lookalike3D: Seeing Double in 3D](../../conferences/neurips-2026/cards-0008.md#paper-153870)
 
 <!-- conference-classification:end -->

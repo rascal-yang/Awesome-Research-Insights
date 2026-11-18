@@ -551,5 +551,6 @@
 - [LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators](../conferences/neurips-2026/cards-0007.md#paper-149185)
 - [LLM-ACES: Closed-Loop Discovery of Dynamic Systems with LLM-Guided Adaptive Search](../conferences/neurips-2026/cards-0008.md#paper-155346)
 - [LLMs can construct powerful representations and streamline sample-efficient supervised learning](../conferences/neurips-2026/cards-0008.md#paper-153045)
+- [Long-Rollout Stability in AI Weather Models: A Quantitative Benchmark and Analysis](../conferences/neurips-2026/cards-0008.md#paper-139600)
 
 <!-- conference-classification:end -->

@@ -929,5 +929,11 @@
 - [Local Gaussian Processes on Compact Lie Groups](../conferences/neurips-2026/cards-0008.md#paper-149732)
 - [Local-Interaction Learning Dynamics: A Markov Random Field Framework for Convergence of Deep Neural Network Learning](../conferences/neurips-2026/cards-0008.md#paper-153830)
 - [Locality Sensitive Hashing for p-Exponential Kernels with Applications to Density Estimation](../conferences/neurips-2026/cards-0008.md#paper-152589)
+- [Logarithmic Depth Suffices for In-Context Gradient Descent](../conferences/neurips-2026/cards-0008.md#paper-149279)
+- [Logistic Bandits with $\tilde{O}(\sqrt{dT})$ Regret without Context Diversity Assumptions](../conferences/neurips-2026/cards-0008.md#paper-152383)
+- [Log-Likelihood, Simpson’s Paradox, and the Detection of Machine-Generated Text](../conferences/neurips-2026/cards-0008.md#paper-148606)
+- [Long-Term Risks of Risk-Based Allocation](../conferences/neurips-2026/cards-0008.md#paper-155991)
+- [Looking Through the Mirror: Minimax-Optimal Regularized Regrets in Online Learning and Bandits](../conferences/neurips-2026/cards-0008.md#paper-150598)
+- [Looped Transformers with Layer Normalization Provably Learn the Power Method](../conferences/neurips-2026/cards-0008.md#paper-149678)
 
 <!-- conference-classification:end -->

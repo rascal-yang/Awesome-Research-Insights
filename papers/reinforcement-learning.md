@@ -586,5 +586,11 @@
 - [Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex](../conferences/neurips-2026/cards-0008.md#paper-153692)
 - [Local Guidance, Global Impact: Gaussian-Reshaped Trust Region Unlocks Behavior Transitions](../conferences/neurips-2026/cards-0008.md#paper-155658)
 - [Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-151978)
+- [Local Policy Manifolds for Efficient Multi-Objective Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-149916)
+- [LOCU: Löwdin-Orthogonalized Constraint Updates for Multi-Constraint Policy Optimization](../conferences/neurips-2026/cards-0008.md#paper-155725)
+- [Logistic Bandits with $\tilde{O}(\sqrt{dT})$ Regret without Context Diversity Assumptions](../conferences/neurips-2026/cards-0008.md#paper-152383)
+- [Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities](../conferences/neurips-2026/cards-0008.md#paper-151973)
+- [Look-ahead Variational Flow for Generative Online Reinforcement Learning](../conferences/neurips-2026/cards-0008.md#paper-154685)
+- [Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery](../conferences/neurips-2026/cards-0008.md#paper-152801)
 
 <!-- conference-classification:end -->

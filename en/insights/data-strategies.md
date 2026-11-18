@@ -329,5 +329,7 @@ Data selection, annotation, augmentation, and sampling.
 - [LittleLearner: Language Models Under Pedagogically-Controlled Knowledge Exposure](../../conferences/neurips-2026/cards-0008.md#paper-148220)
 - [LLM-ACES: Closed-Loop Discovery of Dynamic Systems with LLM-Guided Adaptive Search](../../conferences/neurips-2026/cards-0008.md#paper-155346)
 - [Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](../../conferences/neurips-2026/cards-0008.md#paper-151978)
+- [LOCO: Local Light-Aware Object Compositing with Spatially Varying Illumination-Augmented Data](../../conferences/neurips-2026/cards-0008.md#paper-153475)
+- [LoMo: Local Modality Substitution for Deeper Vision-Language Fusion](../../conferences/neurips-2026/cards-0008.md#paper-154345)
 
 <!-- conference-classification:end -->

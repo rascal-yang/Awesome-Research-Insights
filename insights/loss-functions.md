@@ -347,5 +347,6 @@
 - [Learning to Generate Multiple Objects from Dense and Occluded Layouts](../conferences/neurips-2026/cards-0007.md#paper-153553)
 - [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](../conferences/neurips-2026/cards-0007.md#paper-150076)
 - [Load Balancing Mixture of Experts with Similarity Preserving Routers](../conferences/neurips-2026/cards-0008.md#paper-150857)
+- [Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities](../conferences/neurips-2026/cards-0008.md#paper-151973)
 
 <!-- conference-classification:end -->

@@ -48,3 +48,48 @@
 | 机器学习基础与统计 | 理论与统计 | [Locality Sensitive Hashing for p-Exponential Kernels with Applications to Density Estimation](cards-0008.md#paper-152589) | 在有界区域的密度估计可考虑 p 指数核的碰撞估计。 |
 | 计算机视觉 | 训练策略 | [Localize Any Object in X-Ray Security Scans without Human Annotation](cards-0008.md#paper-152225) | 透射成像检测训练可按遮叠难度逐级评估。 |
 | 强化学习 | 数据策略 | [Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning](cards-0008.md#paper-151978) | 跨动力学离线迁移按局部转移簇而非全域比相容性。 |
+| 计算机视觉 | 模块 | [Localizing and Repairing Sparse-Prompt Failure in SAM Decoders via Box-to-Point Counterfactual](cards-0008.md#paper-148596) | 稀疏提示失灵时先定位信息进入图像流的第一处因果瓶颈。 |
+| 计算机视觉 | 评测与诊断 | [Localizing Concepts in Visual Autoregressive Models](cards-0008.md#paper-151958) | 视觉自回归概念诊断按层、尺度和位置分别定位。 |
+| 大语言模型 | 评测与诊断 | [Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values](cards-0008.md#paper-152631) | 澄清问题按输入片段对预测不确定性的贡献排序。 |
+| 机器学习基础与统计 | 优化 | [Local linear convergence of gradient methods for overparameterized Gaussian mixtures](cards-0008.md#paper-151210) | 过参数混合拟合交替接近慢增长区域和使用大步。 |
+| 机器学习基础与统计 | 优化 | [Locally-Additive Regret for Delayed Non-stationary Bandit Convex Optimization](cards-0008.md#paper-151248) | 延迟和漂移同时存在时协调分块大小与平滑半径。 |
+| 机器学习基础与统计 | 表征学习 | [Local Manifold Identification with Latent Linear Models and OT Flows](cards-0008.md#paper-152505) | 用预训练运输流把局部几何拟合转为简单潜线性模型。 |
+| 强化学习 | 强化学习方法 | [Local Policy Manifolds for Efficient Multi-Objective Reinforcement Learning](cards-0008.md#paper-149916) | 多目标策略搜索从已知强策略局部延展。 |
+| 大语言模型 | 评测与诊断 | [Local Sparsity Enables Unsupervised LLM Safety Detection](cards-0008.md#paper-154110) | 只有安全样本时在局部稀疏表示子空间做异常防护。 |
+| 机器人学 | 训练策略 | [Locating and Repairing Domain Shift in VLM Trajectory Planning](cards-0008.md#paper-156081) | 跨城市轨迹偏移按模态和层分别定位后修复。 |
+| 计算机视觉 | 数据策略 | [LOCO: Local Light-Aware Object Compositing with Spatially Varying Illumination-Augmented Data](cards-0008.md#paper-153475) | 从有位姿视频合成位置依赖的光照变化。 |
+| 多模态学习 | 模块 | [LoCo: Selective Local Competition for Discriminative Open-Vocabulary Multi-Label Recognition](cards-0008.md#paper-155077) | 开放多标签局部识别只让互斥类别竞争。 |
+| 强化学习 | 优化 | [LOCU: Löwdin-Orthogonalized Constraint Updates for Multi-Constraint Policy Optimization](cards-0008.md#paper-155725) | 多约束策略梯度先在自然度量下正交化。 |
+| 机器学习基础与统计 | 训练策略 | [LOFT: Low-Rank Orthogonal Fine-Tuning via Task-Aware Support Selection](cards-0008.md#paper-154983) | 正交微调将支持子空间与子空间内旋转独立选。 |
+| 大语言模型 | 理论与统计 | [Logarithmic Depth Suffices for In-Context Gradient Descent](cards-0008.md#paper-149279) | 上下文梯度模拟深度应按可表达多项式阶数估计。 |
+| 机器学习基础与统计 | 优化 | [Log-Averaged Mirror Prox for Fast, Large-Scale Optimal Transport in Linear Space](cards-0008.md#paper-148791) | 大规模最优运输用对偶平均序列表达原变量更新。 |
+| 大语言模型 | 评测与诊断 | [Logical Distillation of Transformer Encoders](cards-0008.md#paper-148712) | 用多级决策树表示编码器如何组合局部时序条件。 |
+| 计算机视觉 | 推理策略 | [LogicDirector: Enforcing Temporal Composition in Text-to-Video Generation](cards-0008.md#paper-153496) | 文生视频在采样中用时序逻辑过滤潜候选。 |
+| 大语言模型 | 推理策略 | [LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting](cards-0008.md#paper-153327) | 长篇技术文本先用有出处的逻辑树组织信息，再遍历生成章节。 |
+| 强化学习 | 理论与统计 | [Logistic Bandits with $\tilde{O}(\sqrt{dT})$ Regret without Context Diversity Assumptions](cards-0008.md#paper-152383) | 上下文集中在低维子空间时，比较分样本的逻辑赌博机估计与依赖上下文多样性的算法。 |
+| 多模态学习 | 推理策略 | [Logit-Conditioned Diffusion Decoding for Frozen Discrete-Token VLMs](cards-0008.md#paper-153860) | 离散视觉模型冻结时，避免过早丢弃码本 logits，用软码向量驱动解码。 |
+| 大语言模型 | 评测与诊断 | [Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads](cards-0008.md#paper-149157) | 定位非字面检索头时，不只看注意位置，还衡量该头向答案写入的内容。 |
+| 大语言模型 | 理论与统计 | [Log-Likelihood, Simpson’s Paradox, and the Detection of Machine-Generated Text](cards-0008.md#paper-148606) | 汇总机器文本检测分数前，按隐藏状态局部校准后积累对数似然比。 |
+| 机器学习基础与统计 | 表征学习 | [LogSig-SSM: Time-Series Modelling with Multi-Scale Log-Signature Compression for State-Space Models](cards-0008.md#paper-149042) | 不规则高频时序可先用多尺度对数签名压缩，再交给选择性状态空间模型。 |
+| 多模态学习 | 推理策略 | [LogSTOP: Temporal Scores over Prediction Sequences for Matching and Retrieval](cards-0008.md#paper-156145) | 检索长视频和音频中的时间条件时，用局部检测概率支撑显式时间规则打分。 |
+| 多模态学习 | 数据策略 | [LoMo: Local Modality Substitution for Deeper Vision-Language Fusion](cards-0008.md#paper-154345) | 减少等价文字和图像载体导致的表现差异时，只替换提示中的局部片段并保持语义。 |
+| 大语言模型 | 推理策略 | [Long-Context Generation Is a Sampling Problem](cards-0008.md#paper-139582) | 长文开始重复时，先对照感知完整分布的采样器和常见截断，并记录每步所选 token 排名。 |
+| 强化学习 | 损失函数 | [Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities](cards-0008.md#paper-151973) | 长时价值的自举误差累积时，用观测多步行动给最优 Q 添加下界惩罚。 |
+| 大语言模型 | 评测与诊断 | [Long-Lived AI Agents Age Too: They Quietly Decay After Deployment](cards-0008.md#paper-148330) | 测试有记忆代理时，进行跨会话纵向追踪，分开诊断写入、检索和使用。 |
+| 科学机器学习 | 评测与诊断 | [Long-Rollout Stability in AI Weather Models: A Quantitative Benchmark and Analysis](cards-0008.md#paper-139600) | 验收长期天气滚动时，以高频能量、漂移和季节保持作为独立稳定性指标。 |
+| 机器学习基础与统计 | 模型架构 | [LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning](cards-0008.md#paper-150236) | 在脉冲模型用分数阶状态空间提供长期记忆。 |
+| 计算机视觉 | 模型架构 | [Long-Term Composition of Human-Object Interactions](cards-0008.md#paper-151462) | 动作段合成同时条件化上一段末态与下一目标。 |
+| 机器学习基础与统计 | 理论与统计 | [Long-Term Risks of Risk-Based Allocation](cards-0008.md#paper-155991) | 用于资源分配的风险模型要模拟被激励方的选择反应。 |
+| 计算机视觉 | 推理策略 | [Long Video Instructional Editing in the Wild](cards-0008.md#paper-151911) | 长视频编辑可复用少量跨镜头身份锚点，同时独立定位编辑时段。 |
+| 强化学习 | 强化学习方法 | [Look-ahead Variational Flow for Generative Online Reinforcement Learning](cards-0008.md#paper-154685) | 生成策略先用预测动力学的前瞻目标控制训练目标漂移。 |
+| 计算机视觉 | 表征学习 | [Lookalike3D: Seeing Double in 3D](cards-0008.md#paper-153870) | 三维场景重复对象提供互补视角，可共同重建。 |
+| 计算机视觉 | 推理策略 | [Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds](cards-0008.md#paper-154223) | 动画相机先确定每个镜头要观察的证据，再规划平滑路径。 |
+| 多模态学习 | 推理策略 | [Look Before You Reason: Implicit Visual Thinking for Efficient Multimodal Reasoning](cards-0008.md#paper-149054) | 单轮视觉推理直接在已读图像特征上强调相关区域。 |
+| 机器学习基础与统计 | 理论与统计 | [Looking Through the Mirror: Minimax-Optimal Regularized Regrets in Online Learning and Bandits](cards-0008.md#paper-150598) | 在线学习后悔率需按正则强弱与反馈制度分析。 |
+| 计算机视觉 | 推理策略 | [LookThere! Sparse Vision by Reinforced Selection](cards-0008.md#paper-151188) | 极稀疏视觉推理共同训练廉价选点器与局部特征提取器。 |
+| 计算机视觉 | 训练策略 | [LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute](cards-0008.md#paper-149223) | 视频稀疏识别用词元独特性预训选择器、用图像与视频双教师预训提取器。 |
+| 机器学习基础与统计 | 训练策略 | [Loop alignment: Self-organized Weight Transpose in Predictive Coding through Independent Hebbian Plasticity.](cards-0008.md#paper-148287) | 预测编码可用独立学习的前馈和反馈路径测试权重传输假设。 |
+| 大语言模型 | 模型架构 | [Looped Diffusion Language Models](cards-0008.md#paper-152196) | 掩码扩散选择性循环早中层，并按去噪阶段调整迭代次数。 |
+| 机器学习基础与统计 | 理论与统计 | [Looped Transformers with Layer Normalization Provably Learn the Power Method](cards-0008.md#paper-149678) | 涉及特征向量迭代的循环模型要单独消融层归一化。 |
+| 强化学习 | 强化学习方法 | [Loop-Free Inverse Reinforcement Learning via Sequential Value Recovery](cards-0008.md#paper-152801) | 从离线专家数据取奖励时先恢复软价值再做 Bellman 校准。 |
+| 大语言模型 | 优化 | [LoopPrune: Evolutionary Module Selection with Iterative Execution for Efficient Large Language Model Compression](cards-0008.md#paper-153561) | 结构剪枝时允许重复保留层，以解耦存储参数与执行深度。 |

@@ -1147,5 +1147,14 @@ Decoding, test-time adaptation, and efficient execution.
 - [LLM Flow Processes for Text-Conditioned Regression](../../conferences/neurips-2026/cards-0008.md#paper-152529)
 - [LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](../../conferences/neurips-2026/cards-0008.md#paper-149675)
 - [LLMs Optimizing LLMs: Automated MegaKernel Generation for Inference Acceleration](../../conferences/neurips-2026/cards-0008.md#paper-153146)
+- [LogicDirector: Enforcing Temporal Composition in Text-to-Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-153496)
+- [LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting](../../conferences/neurips-2026/cards-0008.md#paper-153327)
+- [Logit-Conditioned Diffusion Decoding for Frozen Discrete-Token VLMs](../../conferences/neurips-2026/cards-0008.md#paper-153860)
+- [LogSTOP: Temporal Scores over Prediction Sequences for Matching and Retrieval](../../conferences/neurips-2026/cards-0008.md#paper-156145)
+- [Long-Context Generation Is a Sampling Problem](../../conferences/neurips-2026/cards-0008.md#paper-139582)
+- [Long Video Instructional Editing in the Wild](../../conferences/neurips-2026/cards-0008.md#paper-151911)
+- [Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds](../../conferences/neurips-2026/cards-0008.md#paper-154223)
+- [Look Before You Reason: Implicit Visual Thinking for Efficient Multimodal Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-149054)
+- [LookThere! Sparse Vision by Reinforced Selection](../../conferences/neurips-2026/cards-0008.md#paper-151188)
 
 <!-- conference-classification:end -->

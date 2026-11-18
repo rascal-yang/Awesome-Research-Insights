@@ -711,5 +711,9 @@ Training schedules, curricula, and task or stage composition.
 - [LightMoE: Reducing Mixture-of-Experts Redundancy through Expert Replacing](../../conferences/neurips-2026/cards-0007.md#paper-155806)
 - [LinearARD: Linear-Memory Attention Distillation for RoPE Restoration](../../conferences/neurips-2026/cards-0007.md#paper-148387)
 - [Localize Any Object in X-Ray Security Scans without Human Annotation](../../conferences/neurips-2026/cards-0008.md#paper-152225)
+- [Locating and Repairing Domain Shift in VLM Trajectory Planning](../../conferences/neurips-2026/cards-0008.md#paper-156081)
+- [LOFT: Low-Rank Orthogonal Fine-Tuning via Task-Aware Support Selection](../../conferences/neurips-2026/cards-0008.md#paper-154983)
+- [LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute](../../conferences/neurips-2026/cards-0008.md#paper-149223)
+- [Loop alignment: Self-organized Weight Transpose in Predictive Coding through Independent Hebbian Plasticity.](../../conferences/neurips-2026/cards-0008.md#paper-148287)
 
 <!-- conference-classification:end -->

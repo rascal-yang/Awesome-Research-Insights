@@ -924,5 +924,15 @@ Visual representation, recognition, reconstruction, and generation.
 - [Local–Global Sparse Autoencoders for Multiscale Interpretability in Vision Models](../../conferences/neurips-2026/cards-0008.md#paper-151172)
 - [Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models](../../conferences/neurips-2026/cards-0008.md#paper-149038)
 - [Localize Any Object in X-Ray Security Scans without Human Annotation](../../conferences/neurips-2026/cards-0008.md#paper-152225)
+- [Localizing and Repairing Sparse-Prompt Failure in SAM Decoders via Box-to-Point Counterfactual](../../conferences/neurips-2026/cards-0008.md#paper-148596)
+- [Localizing Concepts in Visual Autoregressive Models](../../conferences/neurips-2026/cards-0008.md#paper-151958)
+- [LOCO: Local Light-Aware Object Compositing with Spatially Varying Illumination-Augmented Data](../../conferences/neurips-2026/cards-0008.md#paper-153475)
+- [LogicDirector: Enforcing Temporal Composition in Text-to-Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-153496)
+- [Long-Term Composition of Human-Object Interactions](../../conferences/neurips-2026/cards-0008.md#paper-151462)
+- [Long Video Instructional Editing in the Wild](../../conferences/neurips-2026/cards-0008.md#paper-151911)
+- [Lookalike3D: Seeing Double in 3D](../../conferences/neurips-2026/cards-0008.md#paper-153870)
+- [Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds](../../conferences/neurips-2026/cards-0008.md#paper-154223)
+- [LookThere! Sparse Vision by Reinforced Selection](../../conferences/neurips-2026/cards-0008.md#paper-151188)
+- [LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute](../../conferences/neurips-2026/cards-0008.md#paper-149223)
 
 <!-- conference-classification:end -->

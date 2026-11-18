@@ -1997,5 +1997,16 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [LLMs Show No Signs Of Individuated Metacognition](../../conferences/neurips-2026/cards-0008.md#paper-148364)
 - [LLM-WikiRace: A Benchmark for Planning and Reasoning over Real-World Knowledge Graphs](../../conferences/neurips-2026/cards-0008.md#paper-139824)
 - [Load Balancing Mixture of Experts with Similarity Preserving Routers](../../conferences/neurips-2026/cards-0008.md#paper-150857)
+- [Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values](../../conferences/neurips-2026/cards-0008.md#paper-152631)
+- [Local Sparsity Enables Unsupervised LLM Safety Detection](../../conferences/neurips-2026/cards-0008.md#paper-154110)
+- [Logarithmic Depth Suffices for In-Context Gradient Descent](../../conferences/neurips-2026/cards-0008.md#paper-149279)
+- [Logical Distillation of Transformer Encoders](../../conferences/neurips-2026/cards-0008.md#paper-148712)
+- [LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting](../../conferences/neurips-2026/cards-0008.md#paper-153327)
+- [Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads](../../conferences/neurips-2026/cards-0008.md#paper-149157)
+- [Log-Likelihood, Simpson’s Paradox, and the Detection of Machine-Generated Text](../../conferences/neurips-2026/cards-0008.md#paper-148606)
+- [Long-Context Generation Is a Sampling Problem](../../conferences/neurips-2026/cards-0008.md#paper-139582)
+- [Long-Lived AI Agents Age Too: They Quietly Decay After Deployment](../../conferences/neurips-2026/cards-0008.md#paper-148330)
+- [Looped Diffusion Language Models](../../conferences/neurips-2026/cards-0008.md#paper-152196)
+- [LoopPrune: Evolutionary Module Selection with Iterative Execution for Efficient Large Language Model Compression](../../conferences/neurips-2026/cards-0008.md#paper-153561)
 
 <!-- conference-classification:end -->

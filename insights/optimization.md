@@ -619,5 +619,10 @@
 - [Linear-time rule mining under formal guarantees](../conferences/neurips-2026/cards-0008.md#paper-148416)
 - [Lipschitz Dueling Bandits over Continuous Action Spaces](../conferences/neurips-2026/cards-0008.md#paper-153450)
 - [Literati: Towards Anytime Optimal Shape Generalized Trees via AO*](../conferences/neurips-2026/cards-0008.md#paper-148879)
+- [Local linear convergence of gradient methods for overparameterized Gaussian mixtures](../conferences/neurips-2026/cards-0008.md#paper-151210)
+- [Locally-Additive Regret for Delayed Non-stationary Bandit Convex Optimization](../conferences/neurips-2026/cards-0008.md#paper-151248)
+- [LOCU: Löwdin-Orthogonalized Constraint Updates for Multi-Constraint Policy Optimization](../conferences/neurips-2026/cards-0008.md#paper-155725)
+- [Log-Averaged Mirror Prox for Fast, Large-Scale Optimal Transport in Linear Space](../conferences/neurips-2026/cards-0008.md#paper-148791)
+- [LoopPrune: Evolutionary Module Selection with Iterative Execution for Efficient Large Language Model Compression](../conferences/neurips-2026/cards-0008.md#paper-153561)
 
 <!-- conference-classification:end -->

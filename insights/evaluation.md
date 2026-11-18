@@ -1341,5 +1341,12 @@
 - [LocalAgent: Collaborative Agentic Verification for Fine-Grained Instance-Level Consistency](../conferences/neurips-2026/cards-0008.md#paper-149786)
 - [Local FDR Membership Inference Attacks: Multiple Testing and the Role of Ridge Regularization](../conferences/neurips-2026/cards-0008.md#paper-148228)
 - [Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models](../conferences/neurips-2026/cards-0008.md#paper-149038)
+- [Localizing Concepts in Visual Autoregressive Models](../conferences/neurips-2026/cards-0008.md#paper-151958)
+- [Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values](../conferences/neurips-2026/cards-0008.md#paper-152631)
+- [Local Sparsity Enables Unsupervised LLM Safety Detection](../conferences/neurips-2026/cards-0008.md#paper-154110)
+- [Logical Distillation of Transformer Encoders](../conferences/neurips-2026/cards-0008.md#paper-148712)
+- [Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads](../conferences/neurips-2026/cards-0008.md#paper-149157)
+- [Long-Lived AI Agents Age Too: They Quietly Decay After Deployment](../conferences/neurips-2026/cards-0008.md#paper-148330)
+- [Long-Rollout Stability in AI Weather Models: A Quantitative Benchmark and Analysis](../conferences/neurips-2026/cards-0008.md#paper-139600)
 
 <!-- conference-classification:end -->

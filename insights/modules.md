@@ -366,5 +366,7 @@
 - [Latent-Lens: Visual Perception in Small Language Models Through Latent Communication](../conferences/neurips-2026/cards-0007.md#paper-155307)
 - [Learnable Low-Rank Polynomial Sketch for Effective Linear Attention](../conferences/neurips-2026/cards-0007.md#paper-149962)
 - [Learnable Spectral Activations](../conferences/neurips-2026/cards-0007.md#paper-151899)
+- [Localizing and Repairing Sparse-Prompt Failure in SAM Decoders via Box-to-Point Counterfactual](../conferences/neurips-2026/cards-0008.md#paper-148596)
+- [LoCo: Selective Local Competition for Discriminative Open-Vocabulary Multi-Label Recognition](../conferences/neurips-2026/cards-0008.md#paper-155077)
 
 <!-- conference-classification:end -->

@@ -735,5 +735,6 @@ Robot perception, policy learning, planning, and control.
 - [Linguistic Trajectory Encoding for Efficient Long-Horizon Spatial Memory in Embodied Agents](../../conferences/neurips-2026/cards-0008.md#paper-152183)
 - [LINK: Learning to Localize from Known to Unknown Scenes](../../conferences/neurips-2026/cards-0008.md#paper-152490)
 - [LLMs as MDP Designers: A Dependency-Aware Agentic Framework for Automated Robot Policy Generation](../../conferences/neurips-2026/cards-0008.md#paper-151231)
+- [Locating and Repairing Domain Shift in VLM Trajectory Planning](../../conferences/neurips-2026/cards-0008.md#paper-156081)
 
 <!-- conference-classification:end -->

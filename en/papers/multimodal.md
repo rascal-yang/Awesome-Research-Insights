@@ -723,5 +723,10 @@ Learning across modalities such as images, text, audio, and video.
 - [LifeStream: Token Life-Cycle Modeling for Training-Free Online Video Understanding](../../conferences/neurips-2026/cards-0007.md#paper-150799)
 - [Listening to the Retriever: Perturbation-Sensitive Question Selection for Interactive Person Retrieval](../../conferences/neurips-2026/cards-0008.md#paper-148774)
 - [LocalAgent: Collaborative Agentic Verification for Fine-Grained Instance-Level Consistency](../../conferences/neurips-2026/cards-0008.md#paper-149786)
+- [LoCo: Selective Local Competition for Discriminative Open-Vocabulary Multi-Label Recognition](../../conferences/neurips-2026/cards-0008.md#paper-155077)
+- [Logit-Conditioned Diffusion Decoding for Frozen Discrete-Token VLMs](../../conferences/neurips-2026/cards-0008.md#paper-153860)
+- [LogSTOP: Temporal Scores over Prediction Sequences for Matching and Retrieval](../../conferences/neurips-2026/cards-0008.md#paper-156145)
+- [LoMo: Local Modality Substitution for Deeper Vision-Language Fusion](../../conferences/neurips-2026/cards-0008.md#paper-154345)
+- [Look Before You Reason: Implicit Visual Thinking for Efficient Multimodal Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-149054)
 
 <!-- conference-classification:end -->

@@ -408,5 +408,8 @@ Model-wide design and information flow.
 - [LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators](../../conferences/neurips-2026/cards-0007.md#paper-149185)
 - [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](../../conferences/neurips-2026/cards-0007.md#paper-153393)
 - [LLM-Based Multi-Agent Blackboard System for Information Discovery in Data Science](../../conferences/neurips-2026/cards-0008.md#paper-151426)
+- [LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning](../../conferences/neurips-2026/cards-0008.md#paper-150236)
+- [Long-Term Composition of Human-Object Interactions](../../conferences/neurips-2026/cards-0008.md#paper-151462)
+- [Looped Diffusion Language Models](../../conferences/neurips-2026/cards-0008.md#paper-152196)
 
 <!-- conference-classification:end -->

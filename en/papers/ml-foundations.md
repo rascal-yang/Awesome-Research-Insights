@@ -2182,5 +2182,16 @@ General learning methods, optimization, learning theory, and inference.
 - [Local Gaussian Processes on Compact Lie Groups](../../conferences/neurips-2026/cards-0008.md#paper-149732)
 - [Local-Interaction Learning Dynamics: A Markov Random Field Framework for Convergence of Deep Neural Network Learning](../../conferences/neurips-2026/cards-0008.md#paper-153830)
 - [Locality Sensitive Hashing for p-Exponential Kernels with Applications to Density Estimation](../../conferences/neurips-2026/cards-0008.md#paper-152589)
+- [Local linear convergence of gradient methods for overparameterized Gaussian mixtures](../../conferences/neurips-2026/cards-0008.md#paper-151210)
+- [Locally-Additive Regret for Delayed Non-stationary Bandit Convex Optimization](../../conferences/neurips-2026/cards-0008.md#paper-151248)
+- [Local Manifold Identification with Latent Linear Models and OT Flows](../../conferences/neurips-2026/cards-0008.md#paper-152505)
+- [LOFT: Low-Rank Orthogonal Fine-Tuning via Task-Aware Support Selection](../../conferences/neurips-2026/cards-0008.md#paper-154983)
+- [Log-Averaged Mirror Prox for Fast, Large-Scale Optimal Transport in Linear Space](../../conferences/neurips-2026/cards-0008.md#paper-148791)
+- [LogSig-SSM: Time-Series Modelling with Multi-Scale Log-Signature Compression for State-Space Models](../../conferences/neurips-2026/cards-0008.md#paper-149042)
+- [LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning](../../conferences/neurips-2026/cards-0008.md#paper-150236)
+- [Long-Term Risks of Risk-Based Allocation](../../conferences/neurips-2026/cards-0008.md#paper-155991)
+- [Looking Through the Mirror: Minimax-Optimal Regularized Regrets in Online Learning and Bandits](../../conferences/neurips-2026/cards-0008.md#paper-150598)
+- [Loop alignment: Self-organized Weight Transpose in Predictive Coding through Independent Hebbian Plasticity.](../../conferences/neurips-2026/cards-0008.md#paper-148287)
+- [Looped Transformers with Layer Normalization Provably Learn the Power Method](../../conferences/neurips-2026/cards-0008.md#paper-149678)
 
 <!-- conference-classification:end -->
