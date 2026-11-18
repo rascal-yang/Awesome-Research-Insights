@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **809** 篇，暂收录 **725** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **869** 篇，暂收录 **782** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -733,3 +733,60 @@
 | 脑科学 | 混杂控制 | [AVID: A 5T fMRI Dataset for Benchmarking Auditory-induced Visual Mental Imagery Decoding](cards-0002.md#paper-139564) | 用听觉诱发想象控制视觉刺激混杂。 |
 | 多模态 | 传感融合 | [AVI-HT: Adaptive Vision-IMU Fusion for 3D Hand Tracking](cards-0002.md#paper-154518) | 遮挡条件下按传感器动态调节可信度。 |
 | 多模态 | 推理预算 | [AVIS: Adaptive Test-Time Scaling for Vision–Language Models](cards-0002.md#paper-150182) | 联合分配视觉 token 和推理采样次数。 |
+| Agent / 系统 | 进化搜索 | [AVO: Agentic Variation Operators for Autonomous Evolutionary Search](cards-0002.md#paper-153311) | 让变异算子访问谱系和执行反馈。 |
+| 多模态学习 | 令牌压缩 | [AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression](cards-0002.md#paper-154191) | 按相关性、重要性和多样性选择长视频令牌。 |
+| 图学习 | 拓扑学习 | [Avoiding Feature Collapse in Graph ODEs via Hysteretic Topology Evolution](cards-0002.md#paper-150833) | 需要长期保留差异时改变有效边支持。 |
+| AI 对齐 | 监督协议 | [Avoiding Obfuscation with Prover-Estimator Debate](cards-0002.md#paper-148404) | 审查递归辩论双方的计算负担。 |
+| 大语言模型 | 自蒸馏 | [AVSD: Adaptive-View Self-Distillation by Balancing Consensus and Teacher-Specific Privileged Signals](cards-0002.md#paper-150780) | 用跨教师视图共识确定更新方向。 |
+| 医学影像 | 表征预训练 | [A World Model of Radiologist Reading for Medical Image Representation Learning](cards-0002.md#paper-154476) | 把专家扫视顺序作为训练监督。 |
+| 计算机视觉 | 推理剪枝 | [AWP: Activation-based Window Pruning for Gigapixel Object Detection](cards-0002.md#paper-151192) | 先测 FFN 激活均值能否无训练地选窗。 |
+| 强化学习 | 多智能体分解 | [Axiomatic Reinforcement Learning for Open Multi-Agent Systems from Shapley Axioms](cards-0002.md#paper-148243) | 以合作博弈公理约束开放队伍的个体值。 |
+| 大语言模型 / 科学推理 | 奖励设计 | [Axiomatic World Modeling for Physics Reasoning](cards-0002.md#paper-150823) | 给物理前提建模和求解过程分别评分。 |
+| 优化 / 系统 | 并行求解 | [B$^3$-PWL: GPU-Batched Branch-and-Bound for Piecewise-Linear Optimization with SOS2 Constraints](cards-0002.md#paper-150051) | 批量求解分支定界中的松弛子问题。 |
+| 优化 | 梯度估计 | [B2P-Corr: Batch-to-Population Gradient Estimators for Non-Decomposable Correlation Losses](cards-0002.md#paper-154786) | 对相关系数损失维护跨批矩统计量。 |
+| Agent / 世界模型 | 在线模型修订 | [Baba in Wonderland: Online Self-Supervised Dynamics Discovery for Executable World Models](cards-0002.md#paper-150860) | 把更新后丢失的旧转移用作反例。 |
+| 学习理论 / 评测 | 观察式归纳 | [BabyTheorist: A Benchmark for Learning to Theorize the World from Observation Alone](cards-0002.md#paper-139168) | 测试从未标组的持续观测里归纳可复用规则。 |
+| 科学机器学习 | 动态图估计 | [BACE: Behavior-Adaptive Connectivity Estimation from Multi-Region Neural Recordings](cards-0002.md#paper-151970) | 用行为条件图预测神经活动并检查边稳定性。 |
+| 生成模型 / 评测 | 异常检测 | [Backbone-Equated Diffusion OOD via Sparse Internal Snapshots](cards-0002.md#paper-154161) | 在匹配骨干和测试成本后检查单次内部快照。 |
+| 模型安全 | 防御评测 | [Backdoor Attacks Rerouted: BatchNorm as a Sink for Adversarial Signals](cards-0002.md#paper-155957) | 单独检验可疑模型的归一化统计及防御效果。 |
+| 模型安全 | 适配器净化 | [Backdoor Purification for LoRA-Tuned LLMs via Null-Space Projection](cards-0002.md#paper-153189) | 在隔离验证环境检查可疑适配器的净化与技能保留。 |
+| 大语言模型 | 多目标偏好 | [Back to Blackwell: Closing the Loop on Intransitivity in Multi-Objective Preference Fine-Tuning](cards-0002.md#paper-148405) | 当偏好循环时保留多目标判据。 |
+| 语言模型 | 推理搜索 | [Backtracking with Linear-in-Depth Search-Space Growth: Width-Limited Tree Search for Large Language Models](cards-0002.md#paper-155253) | 同预算比较有无回溯及宽度约束 |
+| 优化 | 多任务学习 | [Balanced Multi-Task Learning from an Optimality-Gap Perspective](cards-0002.md#paper-153699) | 比较损失尺度与局部改进上限两种归一化 |
+| 生成模型 | 频谱损失 | [Balancing Frequencies and Pixels in Flow Matching](cards-0002.md#paper-151310) | 分别消融频谱监督和阶段切换 |
+| 生成模型 | 分层编码 | [Balancing Image Compression and Generation with Bootstrapped Tokenization](cards-0002.md#paper-155939) | 固定 token 预算对照分层与混合编码 |
+| 视觉 | 自监督表征 | [BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations](cards-0002.md#paper-152565) | 分别消融双向训练与局部目标 |
+| 多模态 | 奖励设计 | [BalCapRL : A Balanced Framework for RL-Based MLLM Image Captioning](cards-0002.md#paper-149366) | 分别测长度、忠实性和表达后再调组合奖励 |
+| Agent | 模型路由 | [Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery](cards-0002.md#paper-154569) | 同预算对照均值路由与谱系信用 |
+| 语言模型 | 信用分配 | [BALTO: Balanced Token-Level Policy Optimization for Hallucination Mitigation](cards-0002.md#paper-150212) | 在混合正误回答中对照局部和整段奖励 |
+| 强化学习 | 在线表示 | [Bandits via Additive Quantized Representations](cards-0002.md#paper-155168) | 固定内存比较原特征及分级量化表示 |
+| Agent | 评测 | [BankerToolBench: Evaluating AI Agents in End-to-End Investment Banking Workflows](cards-0002.md#paper-139094) | 分别统计单产物错误与跨文档矛盾 |
+| 视觉 | 少样本分割 | [BAPM: Boundary-Aware Prompt Mining for Training-Free Few-Shot Medical Image Segmentation](cards-0002.md#paper-155064) | 同预算比较随机负提示和可信边界负提示 |
+| 语言模型 | 安全控制 | [BarrierSteer: LLM Safety via Learning Barrier Steering](cards-0002.md#paper-148333) | 联合测量漏判、误拒与任务质量 |
+| 视觉 | 连续控制 | [Barycentric Guidance: Turning Foundation Image Editors into Continuous Affective Controllers](cards-0002.md#paper-153096) | 用控制平面全域误差替代少量端点测试 |
+| 推荐 / 语言模型 | 持续适配 | [Base Items Overfit, New Items Underfit: Hidden Cost of Joint Training in Incremental Adaptation](cards-0002.md#paper-156066) | 绘制旧新质量随训练时长变化的独立曲线 |
+| 视觉 | 长尾学习 | [BasicLT: Basic-Level Abstraction and Selective Differentiation for Long-Tailed Recognition](cards-0002.md#paper-150159) | 按类频率和粗类置信分组测细化收益 |
+| 科学机器学习 | 摊销推断 | [BASIL-DCM: Biophysical Amortized Scalable Inference for Latent Dynamic Causal Modeling](cards-0002.md#paper-152400) | 用前向谱一致性验证摊销生成参数 |
+| 深度学习 | 注意力参数化 | [Basis-Mediated Bilinear Attention: A New Method for Greatly Reducing Query--Key Pathway Parameters](cards-0002.md#paper-154941) | 同预算比较共享基、完全共享和独立低秩 |
+| 语言模型 | 推理解码 | [BASTION: Budget-Aware Speculative Decoding with Tree-structured Block Diffusion Drafting](cards-0002.md#paper-151263) | 相同草稿下比较固定及自适应预算 |
+| 视觉 | 流式重建 | [BAT3R: Robust Online 3D Reconstruction with Bayesian Adaptive State Updates](cards-0002.md#paper-153286) | 分开测历史区域保护及新场景更新 |
+| 视觉 | 几何细化 | [BA-T: An Iterative Transformer for Two-View Bundle Adjustment](cards-0002.md#paper-148295) | 同延迟比较重复几何层和加深解码器 |
+| 多模态 | 测试时适配 | [Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language Models](cards-0002.md#paper-154091) | 按批次可靠性移动语义锚点 |
+| 学习理论 | 受限通信 | [Batched Stochastic Linear Bandits with 1-Bit Communication Constraints](cards-0002.md#paper-150229) | 将批反馈位预算单列为遗憾项 |
+| 多模态 | 联合生成 | [Baton: Explicit Semantic Blueprints for Joint Video-Audio Generation](cards-0002.md#paper-153708) | 去噪前对齐关键帧级音视频计划 |
+| 鲁棒学习 | 蒸馏 | [BayesAT: Bayes-Guided Progressive Distillation for Semi-Supervised Adversarial Training](cards-0002.md#paper-150593) | 按学习阶段提高教师标签温度 |
+| 统计学习 | 分布回归 | [Bayesian Additive Distribution Regression](cards-0002.md#paper-152064) | 用浅树先验表达分布值输入的低维边际 |
+| 统计学习 | 不确定性估计 | [Bayesian Backprop as Belief Propagation: Single-Pass Predictive Uncertainty](cards-0002.md#paper-154383) | 用单次矩传播代替重复采样推理 |
+| 因果推断 | 实验设计 | [Bayesian Causal Experimental Design for CATE Estimation under Noncompliance](cards-0002.md#paper-154028) | 以处理效应的信息增益挑选鼓励实验 |
+| 因果推断 | 敏感性分析 | [Bayesian Causal Stress Testing: Posterior Fragility of Treatment-Effect Conclusions](cards-0002.md#paper-155177) | 分别报告后验区间和推翻主张的最小扰动 |
+| 决策理论 | 专家反馈 | [Bayesian Decision Making around Experts](cards-0002.md#paper-149882) | 用单位更新预算的信息价值选择专家或自身数据 |
+| 优化 | 函数空间搜索 | [Bayesian Optimization on Function Spaces via Sparse RKHS Manifolds](cards-0002.md#paper-150567) | 在稀疏核表示中直接优化函数 |
+| 优化 | 信赖域 | [Bayesian Optimization with Fisher Information Geometry: Gradient Bounds and Trust-Region Methods](cards-0002.md#paper-156134) | 用代理后验局部敏感度设置搜索尺度 |
+| 大语言模型 | 奖励适配 | [Bayesian Preference Learning for Test-Time Steerable Reward Models](cards-0002.md#paper-150486) | 通过示例更新潜在偏好以调节奖励模型 |
+| 大语言模型 | 测试时搜索 | [Bayesian Test-Time Inference of Task-Aligned Similarity from Weak Interactive Feedback](cards-0002.md#paper-152715) | 根据少量反馈动态推断当前任务的相似性轴 |
+| 评测 | 评判校准 | [BayesJudge: Uncertainty-Aware Bayesian Meta-Evaluation of Human and LLM Judgments](cards-0002.md#paper-138918) | 保留平局并交换候选次序以测位置偏差 |
+| 统计学习 | 评测上限 | [Bayes-Optimal BER and AUC: Estimation and Evaluation of Estimators](cards-0002.md#paper-152377) | 类别失衡时估计最优 BER 或 AUC 而非准确率上限 |
+| 联邦学习 | 持续学习 | [Bayes-pFCL:Bayesian Personalized Federated Continual Learning](cards-0002.md#paper-149379) | 分别量化任务更新和聚合造成的知识漂移 |
+| 多模态 | 检索增强 | [BayesRAG: Probabilistic Mutual Evidence Corroboration for Multimodal Retrieval-Augmented Generation](cards-0002.md#paper-154974) | 用语义与版面互证重排图文组合 |
+| Agent | 协作诊断 | [Bayes-Sufficient Compression Is Not Enough: How Communication Helps in Multi-Agent Systems?](cards-0002.md#paper-155601) | 比较压缩消息、原始上下文和不通信 |
+| Agent / 优化 | 基准诊断 | [BBOWP-Bench: Evaluating LLMs on Black-Box Optimization Word Problems](cards-0002.md#paper-139160) | 分别验收黑箱优化的搜索空间构造和算法选择 |
