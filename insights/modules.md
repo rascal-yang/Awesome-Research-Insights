@@ -57,6 +57,7 @@
 - [跨层共享噪声条件低秩核心](../conferences/icml-2026/cards/4901-5000.md#wang26lt-modules) · NaRA: Noise-Aware LoRA for Parameter-Efficient Fine-Tuning of Diffusion LLMs
 - [以功能对而非单矩阵压缩](../conferences/icml-2026/cards/4901-5000.md#wong26b-modules) · A3: an Analytical Low-Rank Approximation Framework for Attention
 - [Khatri-Rao结构的参数高效更新](../conferences/icml-2026/cards/5201-5300.md#xu26ae-modules) · Low Kruskal-Rank Adaptation
+- [无查表trellis计算码](../conferences/icml-2026/cards/5301-5400.md#yang26ah-modules) · Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs
 
 <a id="by-computer-vision"></a>
 

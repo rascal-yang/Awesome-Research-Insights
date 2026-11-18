@@ -480,6 +480,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](../../conferences/icml-2026/cards/5201-5300.md#xu26m-inference) · 中文
 - [Motion-Aware Caching for Efficient Autoregressive Video Generation](../../conferences/icml-2026/cards/5201-5300.md#xu26an-inference) · 中文
 - [EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation](../../conferences/icml-2026/cards/5201-5300.md#xu26be-inference) · 中文
+- [Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#yang26aa-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -675,6 +676,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning](../../conferences/icml-2026/cards/5201-5300.md#xu26w-inference) · 中文
 - [Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning](../../conferences/icml-2026/cards/5201-5300.md#xu26cj-inference) · 中文
 - [GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification](../../conferences/icml-2026/cards/5301-5400.md#yan26w-inference) · 中文
+- [Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows](../../conferences/icml-2026/cards/5301-5400.md#yang26an-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -736,6 +738,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models](../../conferences/icml-2026/cards/5201-5300.md#xu26bq-inference) · 中文
 - [LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis](../../conferences/icml-2026/cards/5201-5300.md#xu26cf-inference) · 中文
 - [PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence](../../conferences/icml-2026/cards/5301-5400.md#yajima26a-inference) · 中文
+- [Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition](../../conferences/icml-2026/cards/5301-5400.md#yang26af-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

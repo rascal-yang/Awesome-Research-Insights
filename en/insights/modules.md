@@ -57,6 +57,7 @@ Reusable components and local changes to model inputs or connections.
 - [NaRA: Noise-Aware LoRA for Parameter-Efficient Fine-Tuning of Diffusion LLMs](../../conferences/icml-2026/cards/4901-5000.md#wang26lt-modules) · 中文
 - [A3: an Analytical Low-Rank Approximation Framework for Attention](../../conferences/icml-2026/cards/4901-5000.md#wong26b-modules) · 中文
 - [Low Kruskal-Rank Adaptation](../../conferences/icml-2026/cards/5201-5300.md#xu26ae-modules) · 中文
+- [Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs](../../conferences/icml-2026/cards/5301-5400.md#yang26ah-modules) · 中文
 
 <a id="by-computer-vision"></a>
 

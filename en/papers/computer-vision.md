@@ -481,6 +481,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="xu26m-inference"></a>[Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26m)
 - <a id="xu26an-inference"></a>[Motion-Aware Caching for Efficient Autoregressive Video Generation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26an)
 - <a id="xu26be-inference"></a>[EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26be)
+- <a id="yang26aa-inference"></a>[Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26aa)
 
 <a id="by-representation-learning"></a>
 

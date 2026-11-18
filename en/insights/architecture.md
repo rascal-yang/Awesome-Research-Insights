@@ -301,6 +301,7 @@ Model-wide design and information flow.
 - [Universal Algorithm-Implicit Learning](../../conferences/icml-2026/cards/4901-5000.md#woerner26a-architecture) · 中文
 - [mHC: Manifold-Constrained Hyper-Connections](../../conferences/icml-2026/cards/5101-5200.md#xie26aa-architecture) · 中文
 - [Arboreal Neural Network](../../conferences/icml-2026/cards/5301-5400.md#yan26o-architecture) · 中文
+- [Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks](../../conferences/icml-2026/cards/5301-5400.md#yang26ag-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

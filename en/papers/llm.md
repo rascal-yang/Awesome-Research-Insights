@@ -115,6 +115,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26lt-modules"></a>[NaRA: Noise-Aware LoRA for Parameter-Efficient Fine-Tuning of Diffusion LLMs](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lt)
 - <a id="wong26b-modules"></a>[A3: an Analytical Low-Rank Approximation Framework for Attention](../../conferences/icml-2026/cards/4901-5000.md#paper-wong26b)
 - <a id="xu26ae-modules"></a>[Low Kruskal-Rank Adaptation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ae)
+- <a id="yang26ah-modules"></a>[Proteus: Lookup-Free Trellis-Coded Quantization by Lattice-Breaking Compute Codes for 2-Bit LLMs](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ah)
 
 <a id="by-loss-functions"></a>
 
@@ -1412,6 +1413,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yan26f-evaluation"></a>[Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26f)
 - <a id="yan26n-evaluation"></a>[MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26n)
 - <a id="yan26t-evaluation"></a>[CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26t)
+- <a id="yang26al-evaluation"></a>[Shared Lexical Task Representations Explain Behavioral Variability In LLMs](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26al)
 
 <a id="by-theory-statistics"></a>
 

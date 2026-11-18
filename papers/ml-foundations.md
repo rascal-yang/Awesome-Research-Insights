@@ -82,6 +82,7 @@
 - <a id="woerner26a-architecture"></a>[Universal Algorithm-Implicit Learning](../conferences/icml-2026/cards/4901-5000.md#paper-woerner26a)
 - <a id="xie26aa-architecture"></a>[mHC: Manifold-Constrained Hyper-Connections](../conferences/icml-2026/cards/5101-5200.md#paper-xie26aa)
 - <a id="yan26o-architecture"></a>[Arboreal Neural Network](../conferences/icml-2026/cards/5301-5400.md#paper-yan26o)
+- <a id="yang26ag-architecture"></a>[Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ag)
 
 <a id="by-modules"></a>
 
@@ -198,6 +199,7 @@
 - <a id="xu26i-loss-functions"></a>[Discretized Density-Guided Source-Free Domain Adaptation for Regression](../conferences/icml-2026/cards/5201-5300.md#paper-xu26i)
 - <a id="xu26by-loss-functions"></a>[Weak-to-Strong Generalization via Bregman Bias–Variance Decomposition](../conferences/icml-2026/cards/5201-5300.md#paper-xu26by)
 - <a id="yan26l-loss-functions"></a>[Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](../conferences/icml-2026/cards/5301-5400.md#paper-yan26l)
+- <a id="yang26ad-loss-functions"></a>[Multi-Distribution Robust Conformal Prediction](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ad)
 
 <a id="by-optimization"></a>
 
@@ -585,6 +587,8 @@
 - <a id="wang26fw-data-strategies"></a>[Patterning: The Dual of Interpretability](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fw)
 - <a id="wu26ca-data-strategies"></a>[CHESS: Chebyshev Spectral Synthesis for Trajectory Condensation](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ca)
 - <a id="xu26ab-data-strategies"></a>[Taming the Recent-Data Bias: Towards Robust Time Series Forecasting with Global Context](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ab)
+- <a id="yang26ac-data-strategies"></a>[Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ac)
+- <a id="yang26ao-data-strategies"></a>[ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ao)
 
 <a id="by-inference"></a>
 
@@ -646,6 +650,7 @@
 - <a id="xu26bq-inference"></a>[Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models](../conferences/icml-2026/cards/5201-5300.md#paper-xu26bq)
 - <a id="xu26cf-inference"></a>[LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cf)
 - <a id="yajima26a-inference"></a>[PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence](../conferences/icml-2026/cards/5301-5400.md#paper-yajima26a)
+- <a id="yang26af-inference"></a>[Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition](../conferences/icml-2026/cards/5301-5400.md#paper-yang26af)
 
 <a id="by-representation-learning"></a>
 

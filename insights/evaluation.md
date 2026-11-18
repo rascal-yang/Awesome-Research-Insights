@@ -360,6 +360,7 @@
 - [伪奖励下污染捷径的分层审计](../conferences/icml-2026/cards/5301-5400.md#yan26f-evaluation) · Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs
 - [多记录记忆污染的集合级评测](../conferences/icml-2026/cards/5301-5400.md#yan26n-evaluation) · MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections
 - [内部干预目标导出的查询指纹](../conferences/icml-2026/cards/5301-5400.md#yan26t-evaluation) · CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models
+- [跨prompt的词汇化任务信号与竞争](../conferences/icml-2026/cards/5301-5400.md#yang26al-evaluation) · Shared Lexical Task Representations Explain Behavioral Variability In LLMs
 
 <a id="by-computer-vision"></a>
 
@@ -477,6 +478,7 @@
 - [可观测孪生分离记忆收益](../conferences/icml-2026/cards/4601-4700.md#wang26bx-evaluation) · Investigating Memory in Model-Free RL with POPGym Arcade
 - [多轮策略训练的序列mask诊断](../conferences/icml-2026/cards/4801-4900.md#wang26kv-evaluation) · ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning
 - [把世界结构查询编码为派生交互任务](../conferences/icml-2026/cards/4901-5000.md#warrier26a-evaluation) · Benchmarking World-Model Learning with Environment-Level Queries
+- [乘子漂移下混合critic的跟踪误差](../conferences/icml-2026/cards/5301-5400.md#yang26ab-evaluation) · Why Dedicated Critics: Eliminating Target Drift in Multi-Constraint RL
 
 <a id="by-robotics"></a>
 

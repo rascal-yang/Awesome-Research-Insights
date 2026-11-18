@@ -301,6 +301,7 @@
 - [大标签字典的随机注入](../conferences/icml-2026/cards/4901-5000.md#woerner26a-architecture) · Universal Algorithm-Implicit Learning
 - [双随机残差流混合](../conferences/icml-2026/cards/5101-5200.md#xie26aa-architecture) · mHC: Manifold-Constrained Hyper-Connections
 - [树路径拓扑的全叶softmax路由](../conferences/icml-2026/cards/5301-5400.md#yan26o-architecture) · Arboreal Neural Network
+- [递归复制与跨块连接的DAG生成](../conferences/icml-2026/cards/5301-5400.md#yang26ag-architecture) · Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks
 
 <a id="by-graph-and-recommendation"></a>
 

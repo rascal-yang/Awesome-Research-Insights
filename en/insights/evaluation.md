@@ -360,6 +360,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](../../conferences/icml-2026/cards/5301-5400.md#yan26f-evaluation) · 中文
 - [MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections](../../conferences/icml-2026/cards/5301-5400.md#yan26n-evaluation) · 中文
 - [CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#yan26t-evaluation) · 中文
+- [Shared Lexical Task Representations Explain Behavioral Variability In LLMs](../../conferences/icml-2026/cards/5301-5400.md#yang26al-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -477,6 +478,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Investigating Memory in Model-Free RL with POPGym Arcade](../../conferences/icml-2026/cards/4601-4700.md#wang26bx-evaluation) · 中文
 - [ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#wang26kv-evaluation) · 中文
 - [Benchmarking World-Model Learning with Environment-Level Queries](../../conferences/icml-2026/cards/4901-5000.md#warrier26a-evaluation) · 中文
+- [Why Dedicated Critics: Eliminating Target Drift in Multi-Constraint RL](../../conferences/icml-2026/cards/5301-5400.md#yang26ab-evaluation) · 中文
 
 <a id="by-robotics"></a>
 

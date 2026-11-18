@@ -266,6 +266,7 @@
 - <a id="wang26kl-training-strategies"></a>[PromptRL: Prompt Matters in RL for Flow-Based Image Generation](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kl)
 - <a id="wang26le-training-strategies"></a>[CoPE: Continual Probe-guided Expansion for Large Vision-Language Models](../conferences/icml-2026/cards/4801-4900.md#paper-wang26le)
 - <a id="wu26bx-training-strategies"></a>[The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bx)
+- <a id="yang26ae-training-strategies"></a>[MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ae)
 
 <a id="by-data-strategies"></a>
 
@@ -404,6 +405,7 @@
 - <a id="xu26w-inference"></a>[VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26w)
 - <a id="xu26cj-inference"></a>[Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning](../conferences/icml-2026/cards/5201-5300.md#paper-xu26cj)
 - <a id="yan26w-inference"></a>[GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification](../conferences/icml-2026/cards/5301-5400.md#paper-yan26w)
+- <a id="yang26an-inference"></a>[Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows](../conferences/icml-2026/cards/5301-5400.md#paper-yang26an)
 
 <a id="by-representation-learning"></a>
 

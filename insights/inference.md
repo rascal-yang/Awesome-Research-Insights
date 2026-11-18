@@ -480,6 +480,7 @@
 - [以输出通道传播可验证水印](../conferences/icml-2026/cards/5201-5300.md#xu26m-inference) · Neural Honeytrace: Plug&Play Watermarking Framework against Model Extraction Attacks
 - [以帧差分配token缓存更新](../conferences/icml-2026/cards/5201-5300.md#xu26an-inference) · Motion-Aware Caching for Efficient Autoregressive Video Generation
 - [协方差缓存外推与信息锚点](../conferences/icml-2026/cards/5201-5300.md#xu26be-inference) · EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation
+- [量化误差校准的噪声时刻变形](../conferences/icml-2026/cards/5301-5400.md#yang26aa-inference) · Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models
 
 <a id="by-nlp"></a>
 
@@ -675,6 +676,7 @@
 - [按解码步的视觉attention分配token预算](../conferences/icml-2026/cards/5201-5300.md#xu26w-inference) · VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning
 - [任务分布间隔决定模态路由权重](../conferences/icml-2026/cards/5201-5300.md#xu26cj-inference) · Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning
 - [位置反事实的表示与logit差分](../conferences/icml-2026/cards/5301-5400.md#yan26w-inference) · GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification
+- [按生成阶段定位的局部安全调制](../conferences/icml-2026/cards/5301-5400.md#yang26an-inference) · Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows
 
 <a id="by-ml-foundations"></a>
 
@@ -736,6 +738,7 @@
 - [按信噪比调节score温度](../conferences/icml-2026/cards/5201-5300.md#xu26bq-inference) · Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models
 - [在模块拆分与跨模块融合间搜索kernel](../conferences/icml-2026/cards/5201-5300.md#xu26cf-inference) · LEGO: An LLM-Enabled Hierarchical Optimizer for Tensor Computation Graphs with Structure-Aware Search and Compositional Synthesis
 - [分布区域内精确等价的树剪枝](../conferences/icml-2026/cards/5301-5400.md#yajima26a-inference) · PINE: Pruning Boosted Tree Ensembles with Conformal In-Distribution Prediction Equivalence
+- [采样Pareto前沿的最大间隙定向](../conferences/icml-2026/cards/5301-5400.md#yang26af-inference) · Multi-Objective Bayesian Optimization via Adaptive $\varepsilon$-Constraints Decomposition
 
 <a id="by-graph-and-recommendation"></a>
 

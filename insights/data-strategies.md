@@ -237,6 +237,8 @@
 - [反演结构响应以调整训练权重](../conferences/icml-2026/cards/4701-4800.md#wang26fw-data-strategies) · Patterning: The Dual of Interpretability
 - [连续函数参数化的轨迹蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26ca-data-strategies) · CHESS: Chebyshev Spectral Synthesis for Trajectory Condensation
 - [基函数对齐的历史随机采样](../conferences/icml-2026/cards/5201-5300.md#xu26ab-data-strategies) · Taming the Recent-Data Bias: Towards Robust Time Series Forecasting with Global Context
+- [重复上下文训练以保留预测尖峰](../conferences/icml-2026/cards/5301-5400.md#yang26ac-data-strategies) · Baguan-TS: A Sequence-Native In-Context Learning Model for Time Series Forecasting with Covariates
+- [时间与潜态原型反馈的选择性增强](../conferences/icml-2026/cards/5301-5400.md#yang26ao-data-strategies) · ProSAR: Prototype-Guided Semantic Augmentation and Refinement for Time Series Contrastive Learning
 
 <a id="by-graph-and-recommendation"></a>
 

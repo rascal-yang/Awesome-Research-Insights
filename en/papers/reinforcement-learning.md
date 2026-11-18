@@ -59,6 +59,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="xu26bk-loss-functions"></a>[Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bk)
 - <a id="xu26ct-loss-functions"></a>[Path-Coupled Bellman Flows for Distributional Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-xu26ct)
 - <a id="yan26k-loss-functions"></a>[GLARE: Scalable Neuro-Symbolic Reward Shaping for LLM Agents via Group-Level Automata](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26k)
+- <a id="yang26x-loss-functions"></a>[From Reward-Free Representations to Preferences: Rethinking Offline Preference-Based Reinforcement Learning](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26x)
 
 <a id="by-optimization"></a>
 
@@ -298,6 +299,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="wang26bx-evaluation"></a>[Investigating Memory in Model-Free RL with POPGym Arcade](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bx)
 - <a id="wang26kv-evaluation"></a>[ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kv)
 - <a id="warrier26a-evaluation"></a>[Benchmarking World-Model Learning with Environment-Level Queries](../../conferences/icml-2026/cards/4901-5000.md#paper-warrier26a)
+- <a id="yang26ab-evaluation"></a>[Why Dedicated Critics: Eliminating Target Drift in Multi-Constraint RL](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ab)
 
 <a id="by-theory-statistics"></a>
 

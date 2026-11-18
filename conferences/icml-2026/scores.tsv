@@ -5370,26 +5370,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5369	yang26s	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：GRPO预算应分开选择每题rollout与每步题目数：先少量估accuracy再向难题补采样，同时检查Pass@1和Pass@K，避免均匀扩组掩盖探索退化。；边界：Σ|A|不是实际梯度范数；2Nu(1−u)是Dr.GRPO无std版本，不能无条件推广std归一GRPO。pre-estimate全错组、optional sampling偏差、补采样/总token与batch计算量需控制。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26s/yang26s.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26s/yang26s.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26s/yang26s.pdf#page=6)	scored
 5370	yang26t	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：LoopLM增加推理循环前应同时检查state动力学和accuracy；随机loop训练再加局部Jacobian谱半径proxy正则可缓解深度崩坏，单纯state差L2并不充分。；边界：一轮eigenvector estimate不精确谱半径，非正规Jacobian的瞬时放大也未由ρ控制；训练support的局部ρ小不证明全轨迹global contraction或正确固定点。Jacobian额外训练成本待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26t/yang26t.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26t/yang26t.pdf#page=6)；[原文第7页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/yang26t/yang26t.pdf#page=7)	scored
 5371	yang26u							初筛，原文与先例核查待补：缓存PDF3–5通用数学是标准大气散射、Malus/Stokes叠加与非零scene/airlight偏振向量求逆，再由U-Net估latent并级联refine。当前新增主要为成熟物理算子用于joint恢复及新合成数据，未隔离独立新通用操作；初筛按旧物理反演+网络迁移排除。保留scene polarization是具体技术选择但独立增量不足；最近vector-polarization inverse模型、joint-input baseline及同400epoch多stage预算待核。	rule-excluded
-5372	yang26v							待原文复核评分	pending
-5373	yang26w							待原文复核评分	pending
-5374	yang26x							待原文复核评分	pending
-5375	yang26y							待原文复核评分	pending
-5376	yang26z							待原文复核评分	pending
-5377	yang26aa							待原文复核评分	pending
-5378	yang26ab							待原文复核评分	pending
-5379	yang26ac							待原文复核评分	pending
-5380	yang26ad							待原文复核评分	pending
-5381	yang26ae							待原文复核评分	pending
-5382	yang26af							待原文复核评分	pending
-5383	yang26ag							待原文复核评分	pending
-5384	yang26ah							待原文复核评分	pending
-5385	yang26ai							待原文复核评分	pending
-5386	yang26aj							待原文复核评分	pending
-5387	yang26ak							待原文复核评分	pending
-5388	yang26al							待原文复核评分	pending
-5389	yang26am							待原文复核评分	pending
-5390	yang26an							待原文复核评分	pending
-5391	yang26ao							待原文复核评分	pending
+5372	yang26v							初筛，原文与先例核查待补：第4–5/7页相对视觉偏好构reward后用标准group-normalized clipped policy更新，配合执行—渲染—修改与CPT/SFT/RL流程；当前未识别超出成熟pairwise reward/GRPO和UI反馈迭代的独立操作，不以新RVPO命名或UI跑分保留。	rule-excluded
+5373	yang26w							初筛，原文与先例核查待补：第4–5/7页用标准LinUCB从已有风格编辑菜单选动作并保留高分候选，当前是成熟bandit搜索与已知judge风格偏差的组合。未识别独立防御规则或新控制规律；不因攻击成功率和审稿场景扩展自动保留。	rule-excluded
+5374	yang26x	3	4	3	3	66		初筛，原文与先例核查待补：冻结后继表示上的偏好任务搜索有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性3；第4、5、7页。最近原作、匹配预算与机制重复待核实。	scored
+5375	yang26y							初筛，原文与先例核查待补：第4–5/7页预训练并冻结pointwise autoencoder，预测其未来latent并做对齐，属于成熟latent-state forecasting流程；当前未识别独立新动态模型/目标，MI surrogate和“Latent Chaos”命名不证明已恢复真实状态。	rule-excluded
+5376	yang26z							初筛，原文与先例核查待补：依据现有高层材料，通用候选是因子化状态与分阶段扩散日程，未识别独立于专用几何条件的新通用训练/推理操作。以高度专用及缺明确独立技术选择初筛排除，不声称已追溯全部专用方法。	rule-excluded
+5377	yang26aa	3	4	3	4	69		初筛，原文与先例核查待补：量化误差校准的噪声时刻变形有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性4；第4、5、6、7页。最近原作、匹配预算与机制重复待核实。	scored
+5378	yang26ab	3	4	4	4	73		初筛，原文与先例核查待补：乘子漂移下混合critic的跟踪误差有明确操作或条件经验，新增量暂3、复用4、使用性4、独特性4；第4、5、6、7页。最近原作、匹配预算与机制重复待核实。	scored
+5379	yang26ac	3	4	3	3	66		初筛，原文与先例核查待补：重复上下文训练以保留预测尖峰有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性3；第4、5、6、7页。最近原作、匹配预算与机制重复待核实。	scored
+5380	yang26ad	3	4	4	4	73		初筛，原文与先例核查待补：多源保形并集的联合score学习有明确操作或条件经验，新增量暂3、复用4、使用性4、独特性4；第4、5、6、7、9页。最近原作、匹配预算与机制重复待核实。	scored
+5381	yang26ae	3	4	3	4	69		初筛，原文与先例核查待补：结构与语义目标的参数路由有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性4；第4、5、7页。最近原作、匹配预算与机制重复待核实。	scored
+5382	yang26af	3	4	3	3	66		初筛，原文与先例核查待补：采样Pareto前沿的最大间隙定向有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性3；第4、5、7、8页。最近原作、匹配预算与机制重复待核实。	scored
+5383	yang26ag	3	4	3	3	66		初筛，原文与先例核查待补：递归复制与跨块连接的DAG生成有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性3；第3、4、5、7页。最近原作、匹配预算与机制重复待核实。	scored
+5384	yang26ah	3	4	4	4	73		初筛，原文与先例核查待补：无查表trellis计算码有明确操作或条件经验，新增量暂3、复用4、使用性4、独特性4；第4、5、6、7、8页。最近原作、匹配预算与机制重复待核实。	scored
+5385	yang26ai							初筛，原文与先例核查待补：第4–5页soft prompt、专用readout token、回归head/文本数值分布和已有GLS融合构成参数高效回归；当前未识别超出成熟多头回归/相关估计融合的新通用操作，不以生物医学新任务与跑分保留。	rule-excluded
+5386	yang26aj							初筛，原文与先例核查待补：第4–5/7页LSTM阶段router、专家连续分配、switch/balance/diversity正则对应成熟option/temporal MoE设计；当前未识别超出选项式路由迁至LLM agent RL的新目标/控制规律，阶段自发现本身不是新机制证明。	rule-excluded
+5387	yang26ak							初筛，原文与先例核查待补：第4–5/7页DOM JSON、结构hash/聚类、slots/repeat IR及多框架编译为经典组件挖掘/代码生成流程；当前未识别独立神经机制或新一般推理规则，工程复用提升不替代技术新增量。	rule-excluded
+5388	yang26al	3	4	3	4	69		初筛，原文与先例核查待补：跨prompt的词汇化任务信号与竞争有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性4；第3、4、5、7页。最近原作、匹配预算与机制重复待核实。	scored
+5389	yang26am							初筛，原文与先例核查待补：第4–5/7页用可信测试实例化形式规格、生成证明义务并分阶段检查，当前主要是成熟test-based specification/验证筛选的新Rocq评测流程。未识别超出既有有限实例验证的新独立操作，有限测试通过也不证明完整语义等价。	rule-excluded
+5390	yang26an	3	4	3	3	66		初筛，原文与先例核查待补：按生成阶段定位的局部安全调制有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性3；第4、5、7、8页。最近原作、匹配预算与机制重复待核实。	scored
+5391	yang26ao	3	4	3	3	66		初筛，原文与先例核查待补：时间与潜态原型反馈的选择性增强有明确操作或条件经验，新增量暂3、复用4、使用性3、独特性3；第4、5、6、7、8页。最近原作、匹配预算与机制重复待核实。	scored
 5392	yang26ap							待原文复核评分	pending
 5393	yang26aq							待原文复核评分	pending
 5394	yang26ar							待原文复核评分	pending

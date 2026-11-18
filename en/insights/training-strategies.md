@@ -352,6 +352,7 @@ Training schedules, curricula, and task or stage composition.
 - [PromptRL: Prompt Matters in RL for Flow-Based Image Generation](../../conferences/icml-2026/cards/4801-4900.md#wang26kl-training-strategies) · 中文
 - [CoPE: Continual Probe-guided Expansion for Large Vision-Language Models](../../conferences/icml-2026/cards/4801-4900.md#wang26le-training-strategies) · 中文
 - [The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning](../../conferences/icml-2026/cards/5001-5100.md#wu26bx-training-strategies) · 中文
+- [MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality](../../conferences/icml-2026/cards/5301-5400.md#yang26ae-training-strategies) · 中文
 
 <a id="by-ml-foundations"></a>
 

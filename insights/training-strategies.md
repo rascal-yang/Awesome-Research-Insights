@@ -352,6 +352,7 @@
 - [联合提示训练保留原提示对照](../conferences/icml-2026/cards/4801-4900.md#wang26kl-training-strategies) · PromptRL: Prompt Matters in RL for Flow-Based Image Generation
 - [临时专家竞争决定扩容层](../conferences/icml-2026/cards/4801-4900.md#wang26le-training-strategies) · CoPE: Continual Probe-guided Expansion for Large Vision-Language Models
 - [全双工听觉期间的潜在推理蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26bx-training-strategies) · The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning
+- [结构与语义目标的参数路由](../conferences/icml-2026/cards/5301-5400.md#yang26ae-training-strategies) · MUSE: Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality
 
 <a id="by-ml-foundations"></a>
 
