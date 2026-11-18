@@ -94,6 +94,9 @@
 - [表格规模与长上下文后训练](../conferences/icml-2026/cards/5101-5200.md#xie26ae-data-strategies) · Probing How Scalable Table Data Enhances General Long-Context Reasoning
 - [按非对称loss影响排batch顺序](../conferences/icml-2026/cards/5201-5300.md#xu26p-data-strategies) · D$^3$: Dynamic Directional Graph-Constrained Data Scheduling for LLM Training
 - [按曲率方向约束退火样本](../conferences/icml-2026/cards/5201-5300.md#xu26q-data-strategies) · Towards Efficient LLMs Annealing with Principled Sample Selection
+- [按事实总损失选头部并压低重复](../conferences/icml-2026/cards/5501-5600.md#ye26e-data-strategies) · Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts
+- [把训练图直径限制在算法容量内](../conferences/icml-2026/cards/5501-5600.md#ye26f-data-strategies) · Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data
+- [紧致度簇顺序与边界混合回放](../conferences/icml-2026/cards/5501-5600.md#ye26i-data-strategies) · Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity
 
 <a id="by-computer-vision"></a>
 

@@ -76,6 +76,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Formalizing Learning from Language Feedback with Provable Guarantees](../../conferences/icml-2026/cards/5201-5300.md#xu26ao-theory-statistics) · 中文
 - [A Formal Comparison Between Chain of Thought and Latent Thought](../../conferences/icml-2026/cards/5201-5300.md#xu26ar-theory-statistics) · 中文
 - [Efficient Preference Poisoning Attack on Offline RLHF](../../conferences/icml-2026/cards/5401-5500.md#yang26cn-theory-statistics) · 中文
+- [A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention](../../conferences/icml-2026/cards/5501-5600.md#ye26h-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 

@@ -593,6 +593,7 @@
 - [固定状态下干预中间图文证据](../conferences/icml-2026/cards/5401-5500.md#yang26cq-evaluation) · Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models
 - [固定任务下成对测试判据切换](../conferences/icml-2026/cards/5401-5500.md#yang26cx-evaluation) · Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models
 - [时间序列对齐应区分全局几何和局部邻域](../conferences/icml-2026/cards/5501-5600.md#yashwante26a-evaluation) · Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces
+- [用三路首token分布构造融合异常特征](../conferences/icml-2026/cards/5501-5600.md#yeon26a-evaluation) · Securing Multimodal AI through Internal Information Decomposition
 
 <a id="by-ml-foundations"></a>
 

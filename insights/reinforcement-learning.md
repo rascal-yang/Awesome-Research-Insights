@@ -195,6 +195,7 @@
 - [让参考策略仅调节优势更新幅度](../conferences/icml-2026/cards/5401-5500.md#yang26ay-reinforcement-learning) · One-Way Policy Optimization for Self-Evolving LLMs
 - [随机救回clip边界外的小部分更新](../conferences/icml-2026/cards/5401-5500.md#yang26az-reinforcement-learning) · Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals
 - [连续用户请求与提前耗尽的分离奖励](../conferences/icml-2026/cards/5401-5500.md#yao26a-reinforcement-learning) · Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization
+- [用邻域边际效用训练可迁移记忆](../conferences/icml-2026/cards/5501-5600.md#ye26j-reinforcement-learning) · UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory
 
 <a id="by-computer-vision"></a>
 

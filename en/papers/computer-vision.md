@@ -332,6 +332,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yang26bk-training-strategies"></a>[Diffusion Controller: Framework, Algorithms and Parameterization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bk)
 - <a id="yang26bn-training-strategies"></a>[Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bn)
 - <a id="yang26dm-training-strategies"></a>[RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dm)
+- <a id="ye26o-training-strategies"></a>[Distribution Matching Variational AutoEncoder](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26o)
 
 <a id="by-data-strategies"></a>
 

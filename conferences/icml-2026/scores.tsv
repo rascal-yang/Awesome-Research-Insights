@@ -5510,26 +5510,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5509	ye26a							初筛，原文与先例核查待补：缓存PDF4–5明确adapt pretrained BAGEL-7B的两expert Mixture-of-Transformers，1D NTP/2D flow matching与modality内causal/bidirectional、跨modality causal attention。当前主要加模态tokenization/数据/any-to-any task coverage，BAGEL结构与成熟联合loss未见独立新机制；初筛排除。摘要无modality-specific losses不能忽略实际上两类loss，稳定训练策略是否有额外独立规则及同数据控制待核。	rule-excluded
 5510	ye26b	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：agent prompt-injection防御评估可探测hidden states的role attribution，并用相同内容不同role标签的control判断模型是否把语体线索误当来源；不把role probe相关性当完整因果证明。；边界：linear projection overlap不等相同完整representation或authority；probe可能抓style不抓causal trust。ASR/score相关未排共同prompt难度因素，标签训练泄漏与跨模型calibration需核，不能断言所有模型角色边界不存在。；初筛整理，原文与先例尚未统一核查。[原文第1页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/ye26b/ye26b.pdf#page=1)；[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/ye26b/ye26b.pdf#page=3)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/ye26b/ye26b.pdf#page=6)	scored
 5511	ye26c	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：reward-guided生成若预算有限，可对初始noise的wavelet低频系数作CEM并固定high-frequency，优先搜索影响语义的大尺度方向；需保持同生成调用数比较。；边界：低频主导非任意generator/prompt/reward定律，高频细节任务可能损失；固定high-frequency不自动杜绝reward hacking。Jacobian沿轨迹time-order/mode mixing与线性化条件实质，theory非全局search optimum。；初筛整理，原文与先例尚未统一核查。[原文第1页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/ye26c/ye26c.pdf#page=1)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/ye26c/ye26c.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/ye26c/ye26c.pdf#page=5)	scored
-5512	ye26d							待原文复核评分	pending
-5513	ye26e							待原文复核评分	pending
-5514	ye26f							待原文复核评分	pending
-5515	ye26g							待原文复核评分	pending
-5516	ye26h							待原文复核评分	pending
-5517	ye26i							待原文复核评分	pending
-5518	ye26j							待原文复核评分	pending
-5519	ye26k							待原文复核评分	pending
-5520	ye26l							待原文复核评分	pending
-5521	ye26m							待原文复核评分	pending
-5522	ye26n							待原文复核评分	pending
-5523	ye26o							待原文复核评分	pending
-5524	ye26p							待原文复核评分	pending
-5525	ye26q							待原文复核评分	pending
-5526	ye26r							待原文复核评分	pending
-5527	yeo26a							待原文复核评分	pending
-5528	yeom26a							待原文复核评分	pending
-5529	yeon26a							待原文复核评分	pending
-5530	yi26a							待原文复核评分	pending
-5531	yi26b							待原文复核评分	pending
+5512	ye26d							初筛，原文与先例核查待补：第4–5/7页主要为企业SQL调试数据构造、最小错误注入及EM/AST图匹配评价；当前没有可独立改变神经模型训练或推理的新机制，低准确率与新任务复杂度不足构成可复用技术规律，四类解决策略控制待核实。	rule-excluded
+5513	ye26e	3	4	3	3	66		初筛，原文与先例核查待补：按事实总损失选头部并压低重复：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、6、7页。	scored
+5514	ye26f	3	4	3	3	66		初筛，原文与先例核查待补：把训练图直径限制在算法容量内：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5515	ye26g							初筛，原文与先例核查待补：第4–5/7页为元agent改写技能、基础agent优化上下文文件并在验证集择优，承接成熟进化搜索/反思/程序化上下文优化；当前未识别独立于双层工作流的更新规则或受控预算规律，性能和技能文件形态本身不足。	rule-excluded
+5516	ye26h	3	4	3	3	66		初筛，原文与先例核查待补：用函数复合任务约束混合注意力选型：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5517	ye26i	3	4	3	3	66		初筛，原文与先例核查待补：紧致度簇顺序与边界混合回放：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5518	ye26j	3	4	3	3	66		初筛，原文与先例核查待补：用邻域边际效用训练可迁移记忆：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、6页。	scored
+5519	ye26k	3	4	3	3	66		初筛，原文与先例核查待补：两步膜电位捷径与周期遗忘：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、6、7页。	scored
+5520	ye26l	3	4	3	3	66		初筛，原文与先例核查待补：把Sinkhorn归一化映射到流式注意力内核：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第5、6、7页。	scored
+5521	ye26m							初筛，原文与先例核查待补：仅依既有摘要及高层缓存描述，连续thought向量、动态表征接口及outcome-only优化目前未显示超出成熟latent-CoT/Coconut类操作的独立通用机制；本次不因化学名称排除，专用任务增益与速度不能替代可分离新增量，详细领域操作不作整理。	rule-excluded
+5522	ye26n	3	4	3	3	66		初筛，原文与先例核查待补：对冲突路径logit方向做枢轴门控投影移除：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第5、6、7页。	scored
+5523	ye26o	3	4	3	3	66		初筛，原文与先例核查待补：用分布匹配选择视觉压缩潜空间：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5524	ye26p	3	4	3	3	66		初筛，原文与先例核查待补：用同环境few-shot上下文替代固定环境标签：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5525	ye26q	3	4	3	3	66		初筛，原文与先例核查待补：反向KL局部信念的逐层细化：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5526	ye26r	3	4	3	3	66		初筛，原文与先例核查待补：蒸馏学生候选集上的逐token选择：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、6页。	scored
+5527	yeo26a	3	4	3	3	66		初筛，原文与先例核查待补：按反相关群对比定位并修正CLIP头：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5528	yeom26a	3	4	3	3	66		初筛，原文与先例核查待补：在等训练风险停止点扫描特征学习强度：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第3、4、5、7页。	scored
+5529	yeon26a	3	4	3	3	66		初筛，原文与先例核查待补：用三路首token分布构造融合异常特征：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5530	yi26a	3	4	3	3	66		初筛，原文与先例核查待补：残差Gamma似然与固定噪声BNN交替训练：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7页。	scored
+5531	yi26b	3	4	3	3	66		初筛，原文与先例核查待补：对共享子空间追加对比对齐而非强压模态间距：暂定新增量3，操作/条件可复用4，适用与实现条件待补故使用性3，独立区别待先例核实故独特性3；第4、5、7、8页。	scored
 5532	yi26c							待原文复核评分	pending
 5533	yi26d							待原文复核评分	pending
 5534	yi26e							待原文复核评分	pending

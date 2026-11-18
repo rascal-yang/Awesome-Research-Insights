@@ -278,6 +278,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Identifying dependent components from multi-domain linear mixtures](../../conferences/icml-2026/cards/5201-5300.md#xu26ap-representation-learning) · 中文
 - [Tree-Structured Orthonormal Decomposition of the Aitchison Simplex](../../conferences/icml-2026/cards/5301-5400.md#yamada26a-representation-learning) · 中文
 - [Generalizable and Composable Multi-Model Embedding Translation](../../conferences/icml-2026/cards/5301-5400.md#yang26e-representation-learning) · 中文
+- [Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments](../../conferences/icml-2026/cards/5501-5600.md#ye26p-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -241,6 +241,7 @@ Training schedules, curricula, and task or stage composition.
 - [Diffusion Controller: Framework, Algorithms and Parameterization](../../conferences/icml-2026/cards/5401-5500.md#yang26bk-training-strategies) · 中文
 - [Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](../../conferences/icml-2026/cards/5401-5500.md#yang26bn-training-strategies) · 中文
 - [RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](../../conferences/icml-2026/cards/5401-5500.md#yang26dm-training-strategies) · 中文
+- [Distribution Matching Variational AutoEncoder](../../conferences/icml-2026/cards/5501-5600.md#ye26o-training-strategies) · 中文
 
 <a id="by-nlp"></a>
 
@@ -442,6 +443,7 @@ Training schedules, curricula, and task or stage composition.
 - [Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing](../../conferences/icml-2026/cards/5101-5200.md#xiao26m-training-strategies) · 中文
 - [Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning](../../conferences/icml-2026/cards/5101-5200.md#xiong26d-training-strategies) · 中文
 - [Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](../../conferences/icml-2026/cards/5401-5500.md#yao26m-training-strategies) · 中文
+- [Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization](../../conferences/icml-2026/cards/5501-5600.md#yeom26a-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

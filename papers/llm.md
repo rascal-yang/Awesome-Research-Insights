@@ -466,6 +466,7 @@
 - <a id="yang26ay-reinforcement-learning"></a>[One-Way Policy Optimization for Self-Evolving LLMs](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ay)
 - <a id="yang26az-reinforcement-learning"></a>[Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals](../conferences/icml-2026/cards/5401-5500.md#paper-yang26az)
 - <a id="yao26a-reinforcement-learning"></a>[Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization](../conferences/icml-2026/cards/5401-5500.md#paper-yao26a)
+- <a id="ye26j-reinforcement-learning"></a>[UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory](../conferences/icml-2026/cards/5501-5600.md#paper-ye26j)
 
 <a id="by-training-strategies"></a>
 
@@ -706,6 +707,9 @@
 - <a id="xie26ae-data-strategies"></a>[Probing How Scalable Table Data Enhances General Long-Context Reasoning](../conferences/icml-2026/cards/5101-5200.md#paper-xie26ae)
 - <a id="xu26p-data-strategies"></a>[D$^3$: Dynamic Directional Graph-Constrained Data Scheduling for LLM Training](../conferences/icml-2026/cards/5201-5300.md#paper-xu26p)
 - <a id="xu26q-data-strategies"></a>[Towards Efficient LLMs Annealing with Principled Sample Selection](../conferences/icml-2026/cards/5201-5300.md#paper-xu26q)
+- <a id="ye26e-data-strategies"></a>[Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts](../conferences/icml-2026/cards/5501-5600.md#paper-ye26e)
+- <a id="ye26f-data-strategies"></a>[Transformers Provably Learn Algorithmic Solutions for Graph Connectivity, But Only with the Right Data](../conferences/icml-2026/cards/5501-5600.md#paper-ye26f)
+- <a id="ye26i-data-strategies"></a>[Group-wise Data Ordering: Enhancing Instruction Tuning of Large Language Models via Embedding Proximity](../conferences/icml-2026/cards/5501-5600.md#paper-ye26i)
 
 <a id="by-inference"></a>
 
@@ -1059,6 +1063,7 @@
 - <a id="yang26ch-inference"></a>[Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ch)
 - <a id="yang26dj-inference"></a>[Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](../conferences/icml-2026/cards/5401-5500.md#paper-yang26dj)
 - <a id="yang26ds-inference"></a>[ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling](../conferences/icml-2026/cards/5401-5500.md#paper-yang26ds)
+- <a id="ye26r-inference"></a>[Select to Think: Unlocking SLM Potential with Local Sufficiency](../conferences/icml-2026/cards/5501-5600.md#paper-ye26r)
 
 <a id="by-representation-learning"></a>
 
@@ -1505,4 +1510,5 @@
 - <a id="xu26ao-theory-statistics"></a>[Formalizing Learning from Language Feedback with Provable Guarantees](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ao)
 - <a id="xu26ar-theory-statistics"></a>[A Formal Comparison Between Chain of Thought and Latent Thought](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ar)
 - <a id="yang26cn-theory-statistics"></a>[Efficient Preference Poisoning Attack on Offline RLHF](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cn)
+- <a id="ye26h-theory-statistics"></a>[A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention](../conferences/icml-2026/cards/5501-5600.md#paper-ye26h)
 <!-- classification:end -->

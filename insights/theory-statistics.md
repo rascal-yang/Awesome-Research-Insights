@@ -76,6 +76,7 @@
 - [反馈一致假设集的探索与利用](../conferences/icml-2026/cards/5201-5300.md#xu26ao-theory-statistics) · Formalizing Learning from Language Feedback with Provable Guarantees
 - [潜在循环的并行深度与随机CoT计数](../conferences/icml-2026/cards/5201-5300.md#xu26ar-theory-statistics) · A Formal Comparison Between Chain of Thought and Latent Thought
 - [固定特征DPO的偏好污染鲁棒性证书](../conferences/icml-2026/cards/5401-5500.md#yang26cn-theory-statistics) · Efficient Preference Poisoning Attack on Offline RLHF
+- [用函数复合任务约束混合注意力选型](../conferences/icml-2026/cards/5501-5600.md#ye26h-theory-statistics) · A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention
 
 <a id="by-computer-vision"></a>
 

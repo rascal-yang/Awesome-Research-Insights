@@ -143,6 +143,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xiao26f-modules"></a>[Functional Attention: From Pairwise Affinities to Functional Correspondences](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26f)
 - <a id="xie26h-modules"></a>[Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26h)
 - <a id="yamauchi26a-modules"></a>[Quaternion Self-Attention with Shared Scores](../../conferences/icml-2026/cards/5301-5400.md#paper-yamauchi26a)
+- <a id="ye26k-modules"></a>[Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26k)
 
 <a id="by-loss-functions"></a>
 
@@ -204,6 +205,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26dd-loss-functions"></a>[Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dd)
 - <a id="yang26dx-loss-functions"></a>[Shapley Regularized Neural Granger Causality](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dx)
 - <a id="yao26n-loss-functions"></a>[Identifiable Nonlinear Differentiable Causal Discovery via Independence and Adaptive Group Sparsity](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26n)
+- <a id="ye26q-loss-functions"></a>[Depth-Progressive Monotonic Learning without Global Backpropagation](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26q)
+- <a id="yi26a-loss-functions"></a>[Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26a)
 
 <a id="by-optimization"></a>
 
@@ -468,6 +471,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26ca-optimization"></a>[PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ca)
 - <a id="yang26cu-optimization"></a>[Decentralized Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower Bounds](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cu)
 - <a id="yang26de-optimization"></a>[Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26de)
+- <a id="ye26l-optimization"></a>[FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26l)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -557,6 +561,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xiao26m-training-strategies"></a>[Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26m)
 - <a id="xiong26d-training-strategies"></a>[Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26d)
 - <a id="yao26m-training-strategies"></a>[Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26m)
+- <a id="yeom26a-training-strategies"></a>[Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization](../../conferences/icml-2026/cards/5501-5600.md#paper-yeom26a)
 
 <a id="by-data-strategies"></a>
 
@@ -734,6 +739,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xu26ap-representation-learning"></a>[Identifying dependent components from multi-domain linear mixtures](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26ap)
 - <a id="yamada26a-representation-learning"></a>[Tree-Structured Orthonormal Decomposition of the Aitchison Simplex](../../conferences/icml-2026/cards/5301-5400.md#paper-yamada26a)
 - <a id="yang26e-representation-learning"></a>[Generalizable and Composable Multi-Model Embedding Translation](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26e)
+- <a id="ye26p-representation-learning"></a>[Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26p)
 
 <a id="by-evaluation"></a>
 

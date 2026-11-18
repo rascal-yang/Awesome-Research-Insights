@@ -361,6 +361,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation](../../conferences/icml-2026/cards/5401-5500.md#yang26ch-inference) · 中文
 - [Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](../../conferences/icml-2026/cards/5401-5500.md#yang26dj-inference) · 中文
 - [ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling](../../conferences/icml-2026/cards/5401-5500.md#yang26ds-inference) · 中文
+- [Select to Think: Unlocking SLM Potential with Local Sufficiency](../../conferences/icml-2026/cards/5501-5600.md#ye26r-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -686,6 +687,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning](../../conferences/icml-2026/cards/5201-5300.md#xu26cj-inference) · 中文
 - [GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification](../../conferences/icml-2026/cards/5301-5400.md#yan26w-inference) · 中文
 - [Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows](../../conferences/icml-2026/cards/5301-5400.md#yang26an-inference) · 中文
+- [REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment](../../conferences/icml-2026/cards/5501-5600.md#ye26n-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

@@ -278,6 +278,7 @@
 - [依赖潜变量的多域协方差匹配](../conferences/icml-2026/cards/5201-5300.md#xu26ap-representation-learning) · Identifying dependent components from multi-domain linear mixtures
 - [任意分支树的正交logratio坐标](../conferences/icml-2026/cards/5301-5400.md#yamada26a-representation-learning) · Tree-Structured Orthonormal Decomposition of the Aitchison Simplex
 - [按覆盖与残差方向控制embedding翻译](../conferences/icml-2026/cards/5301-5400.md#yang26e-representation-learning) · Generalizable and Composable Multi-Model Embedding Translation
+- [用同环境few-shot上下文替代固定环境标签](../conferences/icml-2026/cards/5501-5600.md#ye26p-representation-learning) · Meta-iLaD: Identifiable Latent Dynamics via Meta-Learning of Dynamics Environments
 
 <a id="by-graph-and-recommendation"></a>
 

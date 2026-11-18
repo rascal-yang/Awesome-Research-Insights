@@ -241,6 +241,7 @@
 - [冻结扩散骨干的控制侧网络](../conferences/icml-2026/cards/5401-5500.md#yang26bk-training-strategies) · Diffusion Controller: Framework, Algorithms and Parameterization
 - [干净扰动配对的路径选择与权重变换](../conferences/icml-2026/cards/5401-5500.md#yang26bn-training-strategies) · Suppress and Diversify: Refining Robust Pathways for Corruption Robustness
 - [按QAT后敏感度分配激活位宽](../conferences/icml-2026/cards/5401-5500.md#yang26dm-training-strategies) · RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization
+- [用分布匹配选择视觉压缩潜空间](../conferences/icml-2026/cards/5501-5600.md#ye26o-training-strategies) · Distribution Matching Variational AutoEncoder
 
 <a id="by-nlp"></a>
 
@@ -442,6 +443,7 @@
 - [稀疏vine初始化与全vine拟合解耦](../conferences/icml-2026/cards/5101-5200.md#xiao26m-training-strategies) · Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing
 - [冻结表示的混合域困难重权](../conferences/icml-2026/cards/5101-5200.md#xiong26d-training-strategies) · Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning
 - [带任意类索引的噪声域对齐](../conferences/icml-2026/cards/5401-5500.md#yao26m-training-strategies) · Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain
+- [在等训练风险停止点扫描特征学习强度](../conferences/icml-2026/cards/5501-5600.md#yeom26a-training-strategies) · Over-Alignment vs Over-Fitting: The Role of Feature Learning Strength in Generalization
 
 <a id="by-graph-and-recommendation"></a>
 

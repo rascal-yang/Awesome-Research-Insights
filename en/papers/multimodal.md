@@ -77,6 +77,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="xiong26m-modules"></a>[Multimodal Fusion via Self-Consistent Task-Gradient Fields](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26m)
 - <a id="xu26bi-modules"></a>[TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bi)
 - <a id="xu26bt-modules"></a>[Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bt)
+- <a id="yeo26a-modules"></a>[Locate then Correct: Debiasing Attention Heads in CLIP](../../conferences/icml-2026/cards/5501-5600.md#paper-yeo26a)
 
 <a id="by-loss-functions"></a>
 
@@ -128,6 +129,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="xu26cc-loss-functions"></a>[Towards One-to-Many Temporal Grounding](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cc)
 - <a id="yang26cw-loss-functions"></a>[SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cw)
 - <a id="yarici26a-loss-functions"></a>[MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization](../../conferences/icml-2026/cards/5401-5500.md#paper-yarici26a)
+- <a id="yi26b-loss-functions"></a>[The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment](../../conferences/icml-2026/cards/5501-5600.md#paper-yi26b)
 
 <a id="by-optimization"></a>
 
@@ -410,6 +412,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="xu26cj-inference"></a>[Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26cj)
 - <a id="yan26w-inference"></a>[GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26w)
 - <a id="yang26an-inference"></a>[Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26an)
+- <a id="ye26n-inference"></a>[REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26n)
 
 <a id="by-representation-learning"></a>
 
@@ -557,6 +560,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yang26cq-evaluation"></a>[Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cq)
 - <a id="yang26cx-evaluation"></a>[Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26cx)
 - <a id="yashwante26a-evaluation"></a>[Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](../../conferences/icml-2026/cards/5501-5600.md#paper-yashwante26a)
+- <a id="yeon26a-evaluation"></a>[Securing Multimodal AI through Internal Information Decomposition](../../conferences/icml-2026/cards/5501-5600.md#paper-yeon26a)
 
 <a id="by-theory-statistics"></a>
 

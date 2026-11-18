@@ -593,6 +593,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Do Vision and Text Cues Exhibit Evidential Coupling? UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models](../../conferences/icml-2026/cards/5401-5500.md#yang26cq-evaluation) · 中文
 - [Criterion-Conditional In-Context Learning: Evaluating Criterion-Shift Adaptation in Vision-Language Models](../../conferences/icml-2026/cards/5401-5500.md#yang26cx-evaluation) · 中文
 - [Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](../../conferences/icml-2026/cards/5501-5600.md#yashwante26a-evaluation) · 中文
+- [Securing Multimodal AI through Internal Information Decomposition](../../conferences/icml-2026/cards/5501-5600.md#yeon26a-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

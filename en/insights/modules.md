@@ -184,6 +184,7 @@ Reusable components and local changes to model inputs or connections.
 - [Multimodal Fusion via Self-Consistent Task-Gradient Fields](../../conferences/icml-2026/cards/5201-5300.md#xiong26m-modules) · 中文
 - [TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing](../../conferences/icml-2026/cards/5201-5300.md#xu26bi-modules) · 中文
 - [Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation](../../conferences/icml-2026/cards/5201-5300.md#xu26bt-modules) · 中文
+- [Locate then Correct: Debiasing Attention Heads in CLIP](../../conferences/icml-2026/cards/5501-5600.md#yeo26a-modules) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -243,6 +244,7 @@ Reusable components and local changes to model inputs or connections.
 - [Functional Attention: From Pairwise Affinities to Functional Correspondences](../../conferences/icml-2026/cards/5101-5200.md#xiao26f-modules) · 中文
 - [Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics](../../conferences/icml-2026/cards/5101-5200.md#xie26h-modules) · 中文
 - [Quaternion Self-Attention with Shared Scores](../../conferences/icml-2026/cards/5301-5400.md#yamauchi26a-modules) · 中文
+- [Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model](../../conferences/icml-2026/cards/5501-5600.md#ye26k-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

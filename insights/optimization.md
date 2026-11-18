@@ -457,6 +457,7 @@
 - [sketch残差拟合的自适应矩阵迭代](../conferences/icml-2026/cards/5401-5500.md#yang26ca-optimization) · PRISM: Distribution-free Adaptive Computation of Matrix Functions for Accelerating Neural Network Training
 - [压缩通信在线学习的双块gossip](../conferences/icml-2026/cards/5401-5500.md#yang26cu-optimization) · Decentralized Online Convex Optimization with Efficient Communication: Improved Algorithm and Lower Bounds
 - [把本地多步视为不精确对偶梯度](../conferences/icml-2026/cards/5401-5500.md#yang26de-optimization) · Accelerated Dual Method for Distributed Optimization: An Inexact-Gradient View of Local Updates
+- [把Sinkhorn归一化映射到流式注意力内核](../conferences/icml-2026/cards/5501-5600.md#ye26l-optimization) · FlashSinkhorn: IO-Aware Entropic Optimal Transport on GPU
 
 <a id="by-graph-and-recommendation"></a>
 

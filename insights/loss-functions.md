@@ -225,6 +225,7 @@
 - [多事件定位同时奖励覆盖和计数](../conferences/icml-2026/cards/5201-5300.md#xu26cc-loss-functions) · Towards One-to-Many Temporal Grounding
 - [扩散偏好训练的时间步裁剪与屏蔽](../conferences/icml-2026/cards/5401-5500.md#yang26cw-loss-functions) · SIPO: Stabilized and Improved Preference Optimization for Aligning Diffusion Models
 - [融合训练保留每模态独立可迁移特征](../conferences/icml-2026/cards/5401-5500.md#yarici26a-loss-functions) · MER-DG: Modality-Entropy Regularization for Multimodal Domain Generalization
+- [对共享子空间追加对比对齐而非强压模态间距](../conferences/icml-2026/cards/5501-5600.md#yi26b-loss-functions) · The Convergent Representation of Contrastive Vision-Language Models: Geometry, Modality Gap and Shared Space Alignment
 
 <a id="by-ml-foundations"></a>
 
@@ -286,6 +287,8 @@
 - [用支持距离约束生成式数值代理](../conferences/icml-2026/cards/5401-5500.md#yang26dd-loss-functions) · Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization
 - [Shapley交互启发的Jacobian正则](../conferences/icml-2026/cards/5401-5500.md#yang26dx-loss-functions) · Shapley Regularized Neural Granger Causality
 - [用残差独立性与组稀疏选非线性DAG](../conferences/icml-2026/cards/5401-5500.md#yao26n-loss-functions) · Identifiable Nonlinear Differentiable Causal Discovery via Independence and Adaptive Group Sparsity
+- [反向KL局部信念的逐层细化](../conferences/icml-2026/cards/5501-5600.md#ye26q-loss-functions) · Depth-Progressive Monotonic Learning without Global Backpropagation
+- [残差Gamma似然与固定噪声BNN交替训练](../conferences/icml-2026/cards/5501-5600.md#yi26a-loss-functions) · Cooperative Variance Estimation and Bayesian Neural Networks for Disentangling Aleatoric and Epistemic Uncertainties
 
 <a id="by-graph-and-recommendation"></a>
 

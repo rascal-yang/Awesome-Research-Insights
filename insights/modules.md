@@ -184,6 +184,7 @@
 - [共享分量循环交换的重建融合](../conferences/icml-2026/cards/5201-5300.md#xiong26m-modules) · Multimodal Fusion via Self-Consistent Task-Gradient Fields
 - [CP编辑因子兼作专家路由](../conferences/icml-2026/cards/5201-5300.md#xu26bi-modules) · TIME: Tensor-Factorized Mixture-of-Experts with Intrinsic Routing for Lifelong Multimodal Knowledge Editing
 - [分离对齐与反对齐的跨模态补偿](../conferences/icml-2026/cards/5201-5300.md#xu26bt-modules) · Neural-Inspired Modeling of Auditory Selection and Compensation for Audio-Visual Speech Separation
+- [按反相关群对比定位并修正CLIP头](../conferences/icml-2026/cards/5501-5600.md#yeo26a-modules) · Locate then Correct: Debiasing Attention Heads in CLIP
 
 <a id="by-ml-foundations"></a>
 
@@ -243,6 +244,7 @@
 - [在适应基系数中求解attention](../conferences/icml-2026/cards/5101-5200.md#xiao26f-modules) · Functional Attention: From Pairwise Affinities to Functional Correspondences
 - [用向量球谐补全快速张量积](../conferences/icml-2026/cards/5101-5200.md#xie26h-modules) · Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics
 - [四元数分量共享实值注意力](../conferences/icml-2026/cards/5301-5400.md#yamauchi26a-modules) · Quaternion Self-Attention with Shared Scores
+- [两步膜电位捷径与周期遗忘](../conferences/icml-2026/cards/5501-5600.md#ye26k-modules) · Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model
 
 <a id="by-graph-and-recommendation"></a>
 

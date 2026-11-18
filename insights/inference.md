@@ -361,6 +361,7 @@
 - [自回归过程内的局部修订动作](../conferences/icml-2026/cards/5401-5500.md#yang26ch-inference) · Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation
 - [跨头统一选token并跨层复用](../conferences/icml-2026/cards/5401-5500.md#yang26dj-inference) · Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention
 - [指数位分拆压缩与状态感知调度](../conferences/icml-2026/cards/5401-5500.md#yang26ds-inference) · ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling
+- [蒸馏学生候选集上的逐token选择](../conferences/icml-2026/cards/5501-5600.md#ye26r-inference) · Select to Think: Unlocking SLM Potential with Local Sufficiency
 
 <a id="by-computer-vision"></a>
 
@@ -686,6 +687,7 @@
 - [任务分布间隔决定模态路由权重](../conferences/icml-2026/cards/5201-5300.md#xu26cj-inference) · Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning
 - [位置反事实的表示与logit差分](../conferences/icml-2026/cards/5301-5400.md#yan26w-inference) · GRASP: Awakening Latent Spatial Reasoning in LVLMs via Training-free Geometric Rectification
 - [按生成阶段定位的局部安全调制](../conferences/icml-2026/cards/5301-5400.md#yang26an-inference) · Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows
+- [对冲突路径logit方向做枢轴门控投影移除](../conferences/icml-2026/cards/5501-5600.md#ye26n-inference) · REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment
 
 <a id="by-ml-foundations"></a>
 
