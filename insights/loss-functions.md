@@ -365,5 +365,7 @@
 - [Neural Slack Variables for Shape Constraints](../conferences/neurips-2026/cards-0009.md#paper-150516)
 - [Next-Latent Prediction Transformers Learn Compact World Models](../conferences/neurips-2026/cards-0009.md#paper-155772)
 - [Noisy2Latent: Nonparametric Deconvolution and Denoising via Maximum Mean Discrepancy](../conferences/neurips-2026/cards-0009.md#paper-148353)
+- [Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for   RL-based LLM Recommenders](../conferences/neurips-2026/cards-0009.md#paper-155962)
+- [One Loss to Rule Them All: Marked Time-to-Event for Structured EHR Foundation Models](../conferences/neurips-2026/cards-0009.md#paper-150016)
 
 <!-- conference-classification:end -->

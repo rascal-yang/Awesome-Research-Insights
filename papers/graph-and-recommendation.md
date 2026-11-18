@@ -326,5 +326,7 @@
 - [Normalized Friedkin–Johnsen Opinion Dynamics](../conferences/neurips-2026/cards-0009.md#paper-155654)
 - [Not Just Oversmoothing: Detecting Echo Chamber Effect in Graph Neural Networks](../conferences/neurips-2026/cards-0009.md#paper-153822)
 - [No Triangulation Without Representation: Generalization in Topological Deep Learning](../conferences/neurips-2026/cards-0009.md#paper-139061)
+- [Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for   RL-based LLM Recommenders](../conferences/neurips-2026/cards-0009.md#paper-155962)
+- [OHATP: Graph Anomaly Detection with Orthogonal-Hyperspherical Augmentation and Topology Perception](../conferences/neurips-2026/cards-0009.md#paper-155542)
 
 <!-- conference-classification:end -->

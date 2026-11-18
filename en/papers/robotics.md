@@ -759,5 +759,13 @@ Robot perception, policy learning, planning, and control.
 - [Next Forcing: Causal World Modeling with Multi-Chunk Prediction](../../conferences/neurips-2026/cards-0009.md#paper-150055)
 - [Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models](../../conferences/neurips-2026/cards-0009.md#paper-148883)
 - [NoTVLA: Semantics-Preserving Robot Adaptation via Narrative Action Interfaces](../../conferences/neurips-2026/cards-0009.md#paper-151525)
+- [nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving](../../conferences/neurips-2026/cards-0009.md#paper-139335)
+- [OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation](../../conferences/neurips-2026/cards-0009.md#paper-152937)
+- [ObjView-Bench: Rethinking Difficulty and Deployment for Object-Centric View Planning](../../conferences/neurips-2026/cards-0009.md#paper-139674)
+- [OccStress: Stress-Testing the 4D Occupancy Forecasting Chain](../../conferences/neurips-2026/cards-0009.md#paper-139118)
+- [OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models](../../conferences/neurips-2026/cards-0009.md#paper-152279)
+- [OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](../../conferences/neurips-2026/cards-0009.md#paper-151867)
+- [One Adapter For All: Towards Generalizable Many-To-One Domain Adaptation In Heterogeneous Collaborative Perception](../../conferences/neurips-2026/cards-0009.md#paper-149544)
+- [One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation](../../conferences/neurips-2026/cards-0009.md#paper-155831)
 
 <!-- conference-classification:end -->

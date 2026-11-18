@@ -637,5 +637,14 @@
 - [No One Knows the State-of-the-Art in Geospatial Foundation Models](../conferences/neurips-2026/cards-0009.md#paper-140061)
 - [Not All Spines Are Created Equal: How CT Segmenters Fail on Lumbosacral Transitional Vertebrae](../conferences/neurips-2026/cards-0009.md#paper-139654)
 - [NPCBench: A Clinical Apprenticeship Benchmark for Guideline-Constrained Care-Pathway Reasoning in Nasopharyngeal Carcinoma](../conferences/neurips-2026/cards-0009.md#paper-139689)
+- [ObsConDA: Observability-Constrained Data Assimilation with Control-Space Inference](../conferences/neurips-2026/cards-0009.md#paper-152077)
+- [Observations Drift, Structures Remain: Structural Pretraining with Time Alignment for Electromagnetic Signals](../conferences/neurips-2026/cards-0009.md#paper-151775)
+- [OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting](../conferences/neurips-2026/cards-0009.md#paper-150573)
+- [One Loss to Rule Them All: Marked Time-to-Event for Structured EHR Foundation Models](../conferences/neurips-2026/cards-0009.md#paper-150016)
+- [One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective](../conferences/neurips-2026/cards-0009.md#paper-154314)
+- [On Length Bias in EEG-to-Text Decoding](../conferences/neurips-2026/cards-0009.md#paper-149964)
+- [Online Bayesian Calibration under Gradual and Abrupt System Changes](../conferences/neurips-2026/cards-0009.md#paper-151573)
+- [Online Bayesian Recalibration of Brain–Computer Interfaces with Language Model Potentials](../conferences/neurips-2026/cards-0009.md#paper-151000)
+- [Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas](../conferences/neurips-2026/cards-0009.md#paper-155670)
 
 <!-- conference-classification:end -->

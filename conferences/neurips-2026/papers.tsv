@@ -5406,127 +5406,127 @@ poster_id	title	paper_url	status	reason
 153669	NSARM: Next-Scale Autoregressive Modeling for Robust Real-World Image Super-Resolution	https://neurips.cc/virtual/2026/poster/153669	excluded	摘要主要将既有下一尺度生成器和全量微调用于真实超分，未报告独立机制对照。
 149395	NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/149395	excluded	摘要组合符号原语、求解器和在线强化学习，但缺少支持独立结构选择的具体拆分。
 151078	NTK Regression under dual power-law model: Deterministic Equivalents via SDE and PDE Methods	https://neurips.cc/virtual/2026/poster/151078	included	缩放风险同时看输入特征谱与目标信号对齐。
-155075	NuMuon: Nuclear-Norm-Constrained Muon for Compressible LLM Training	https://neurips.cc/virtual/2026/poster/155075	pending	-
-139335	nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving	https://neurips.cc/virtual/2026/poster/139335	pending	-
-153330	Nuwa: Evaluation-Grounded Agentic Construction of Time Series Forecasting Systems	https://neurips.cc/virtual/2026/poster/153330	pending	-
-155495	Nüwa.RNA: An RNA Foundation Model for Unified Representation with Deep Structure Infusion	https://neurips.cc/virtual/2026/poster/155495	pending	-
-154834	N-vium: Mixture-of-Exits Transformer for Accelerated Exact Generation	https://neurips.cc/virtual/2026/poster/154834	pending	-
-153072	NyoomFloat12: Accelerating LLM Inference via Lossless 12-bit Weight Compression	https://neurips.cc/virtual/2026/poster/153072	pending	-
-148732	OASES: Outcome-Aligned Search-Evaluation Co-Training for Agentic Search	https://neurips.cc/virtual/2026/poster/148732	pending	-
-152937	OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation	https://neurips.cc/virtual/2026/poster/152937	pending	-
-155429	OASIS: Online Adaptive Steering for In-Training Safety of LLMs	https://neurips.cc/virtual/2026/poster/155429	pending	-
-153919	OATS: Online Data Augmentation for Time Series Foundation Models	https://neurips.cc/virtual/2026/poster/153919	pending	-
-139282	Object Detection Benchmarks are Incomplete: The Role of Label Errors and Annotation Uncertainty	https://neurips.cc/virtual/2026/poster/139282	pending	-
-150191	Object Hallucination Mitigation in Large Vision-Language Models via Self-Vision Dual Masking and Uncertainty-Triggered Assembly	https://neurips.cc/virtual/2026/poster/150191	pending	-
-151331	Objective-Aligned Amortized Inference for Offline Bayes-Adaptive MDP Model Learning	https://neurips.cc/virtual/2026/poster/151331	pending	-
-155962	Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for   RL-based LLM Recommenders	https://neurips.cc/virtual/2026/poster/155962	pending	-
-154103	OBJECT-UNI: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation	https://neurips.cc/virtual/2026/poster/154103	pending	-
-139674	ObjView-Bench: Rethinking Difficulty and Deployment for Object-Centric View Planning	https://neurips.cc/virtual/2026/poster/139674	pending	-
-139628	OBLIQ-Bench: Exposing Overlooked Bottlenecks in Modern Retrievers with Latent and Implicit Queries	https://neurips.cc/virtual/2026/poster/139628	pending	-
-152077	ObsConDA: Observability-Constrained Data Assimilation with Control-Space Inference	https://neurips.cc/virtual/2026/poster/152077	pending	-
-153828	Observable Neural ODEs for Identifiable Causal Forecasting in Continuous Time	https://neurips.cc/virtual/2026/poster/153828	pending	-
-151775	Observations Drift, Structures Remain: Structural Pretraining with Time Alignment for Electromagnetic Signals	https://neurips.cc/virtual/2026/poster/151775	pending	-
-139118	OccStress: Stress-Testing the 4D Occupancy Forecasting Chain	https://neurips.cc/virtual/2026/poster/139118	pending	-
-149393	Occupancy-based Quantile Risk Control	https://neurips.cc/virtual/2026/poster/149393	pending	-
-150573	OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting	https://neurips.cc/virtual/2026/poster/150573	pending	-
-152912	OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization	https://neurips.cc/virtual/2026/poster/152912	pending	-
-153865	ODDR: One-Step Deshadow Diffusion via Reward Guidance	https://neurips.cc/virtual/2026/poster/153865	pending	-
-149489	ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow	https://neurips.cc/virtual/2026/poster/149489	pending	-
-150966	OdysSim: Building Foundation Models for Human Behavior Simulation	https://neurips.cc/virtual/2026/poster/150966	pending	-
-152979	OFBD: Object-Focused Background Debiasing for Long-Tailed Learning	https://neurips.cc/virtual/2026/poster/152979	pending	-
-139086	OfficeInstruct: A Dataset for Tool-Augmented Office Agents on Long-Trajectory Generative Tasks	https://neurips.cc/virtual/2026/poster/139086	pending	-
-151729	Offline Constrained Reinforcement Learning under Partial Data Coverage	https://neurips.cc/virtual/2026/poster/151729	pending	-
-153682	Offline Inverse Reinforcement Learning with Unified Diffusion Planning	https://neurips.cc/virtual/2026/poster/153682	pending	-
-154137	Offline Materials Optimization with CliqueFlowmer	https://neurips.cc/virtual/2026/poster/154137	pending	-
-156103	Offline-Online Reinforcement Learning for Linear Mixture MDPs	https://neurips.cc/virtual/2026/poster/156103	pending	-
-139500	Offline Preference-Based Trajectory Evaluation	https://neurips.cc/virtual/2026/poster/139500	pending	-
-139831	Offline Reinforcement Learning for Plasma Control in Nuclear Fusion: Codebase and Benchmark	https://neurips.cc/virtual/2026/poster/139831	pending	-
-139388	Offloading Score: Measuring AI Reliance through Counterfactual Workflows	https://neurips.cc/virtual/2026/poster/139388	pending	-
-153404	Off-Policy Evaluation of Large Language Models via Learned Semantic Bottleneck Embeddings	https://neurips.cc/virtual/2026/poster/153404	pending	-
-151798	Off-policy Learning with Excursion Policies	https://neurips.cc/virtual/2026/poster/151798	pending	-
-139271	OgBench: A Framework for Evaluating Graph Neural Networks on Omics Data	https://neurips.cc/virtual/2026/poster/139271	pending	-
-152279	OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/152279	pending	-
-155542	OHATP: Graph Anomaly Detection with Orthogonal-Hyperspherical Augmentation and Topology Perception	https://neurips.cc/virtual/2026/poster/155542	pending	-
-148515	OLA-Place: Cross-Modal Place Recognition without Global Descriptors	https://neurips.cc/virtual/2026/poster/148515	pending	-
-150464	OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series Forecasting	https://neurips.cc/virtual/2026/poster/150464	pending	-
-139331	OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning	https://neurips.cc/virtual/2026/poster/139331	pending	-
-139032	OmniDex: Scaling Dexterous Hand Grasping to Diverse Cluttered Scenes	https://neurips.cc/virtual/2026/poster/139032	pending	-
-151885	OmniEgoCap: Camera-Agnostic Sequence-Level Egocentric Motion Reconstruction	https://neurips.cc/virtual/2026/poster/151885	pending	-
-155919	OmniGF: A Dual-Branch Vision-Language Framework for Unified Gaze Following	https://neurips.cc/virtual/2026/poster/155919	pending	-
-155508	Omni-Interactive Universal Embedder	https://neurips.cc/virtual/2026/poster/155508	pending	-
-151826	OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering	https://neurips.cc/virtual/2026/poster/151826	pending	-
-154211	OmniMechanism Design for Human-AI Collaboration with Impressionable Minds	https://neurips.cc/virtual/2026/poster/154211	pending	-
-138886	OmniMemBench: Towards Scalable Evaluation of Long-Term Omni-Modal Agent Memory	https://neurips.cc/virtual/2026/poster/138886	pending	-
-150029	OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation	https://neurips.cc/virtual/2026/poster/150029	pending	-
-153308	Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamic Mechanisms and Efficient Alignment	https://neurips.cc/virtual/2026/poster/153308	pending	-
-153551	OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models	https://neurips.cc/virtual/2026/poster/153551	pending	-
-149329	OmniSE: Support-Faithful Optimization for Evidence-Centric Audio-Video Reasoning	https://neurips.cc/virtual/2026/poster/149329	pending	-
-150480	OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer	https://neurips.cc/virtual/2026/poster/150480	pending	-
-149373	OmniSimulator: Aligning Small Language Models for Authentic Heterogeneous Behavior Modeling	https://neurips.cc/virtual/2026/poster/149373	pending	-
-151867	OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs	https://neurips.cc/virtual/2026/poster/151867	pending	-
-152619	Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment	https://neurips.cc/virtual/2026/poster/152619	pending	-
-138921	OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling	https://neurips.cc/virtual/2026/poster/138921	pending	-
-139772	OmniTraffic: A Controllable Generation Pipeline and Benchmark for Spatio-Temporal Traffic Reasoning	https://neurips.cc/virtual/2026/poster/139772	pending	-
-148151	On approximation and estimation of Schrödinger potentials without the curse of dimensionality	https://neurips.cc/virtual/2026/poster/148151	pending	-
-152278	On Communication-Efficient Training of Ensembles in Federated Learning	https://neurips.cc/virtual/2026/poster/152278	pending	-
-154421	On Computing Diverse Solutions in the Earth Movers Distance	https://neurips.cc/virtual/2026/poster/154421	pending	-
-155488	On Concentration Inequalities for Sampling without Replacement	https://neurips.cc/virtual/2026/poster/155488	pending	-
-139269	On Data Engineering for Scaling LLM Terminal Capabilities	https://neurips.cc/virtual/2026/poster/139269	pending	-
-151830	On Differentially Private Mechanisms for Linear Regression	https://neurips.cc/virtual/2026/poster/151830	pending	-
-151936	On Differential Private $\ell_1$, $\ell_2$ and $\ell_p^p$ Distance Queries	https://neurips.cc/virtual/2026/poster/151936	pending	-
-149544	One Adapter For All: Towards Generalizable Many-To-One Domain Adaptation In Heterogeneous Collaborative Perception	https://neurips.cc/virtual/2026/poster/149544	pending	-
-149252	One Algorithm, Two Goals: Dual Scoring for Parameter and Data Selection in LLM Fine-Tuning	https://neurips.cc/virtual/2026/poster/149252	pending	-
-150139	One Avatar, Any Budget: Robust LoD for Dynamic Gaussian Avatars	https://neurips.cc/virtual/2026/poster/150139	pending	-
-154018	One-Bit Clustering for Two Component Sub-Gaussian Mixture Models	https://neurips.cc/virtual/2026/poster/154018	pending	-
-148266	OneCanvas: 3D Scene Understanding via Panoramic Reprojection	https://neurips.cc/virtual/2026/poster/148266	pending	-
-151574	One for All: A Non-Linear Transformer can enable Cross-Domain Generalization for In-Context Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151574	pending	-
-149035	One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection	https://neurips.cc/virtual/2026/poster/149035	pending	-
-153564	One-Layer Transformers Provably Learn In-Context K-Nearest Neighbor Prediction with Chain-of-Thought	https://neurips.cc/virtual/2026/poster/153564	pending	-
-150016	One Loss to Rule Them All: Marked Time-to-Event for Structured EHR Foundation Models	https://neurips.cc/virtual/2026/poster/150016	pending	-
-155435	One Model, Two Roles: Emergent Specialization in a Shared Recurrent Transformer	https://neurips.cc/virtual/2026/poster/155435	pending	-
-154314	One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective	https://neurips.cc/virtual/2026/poster/154314	pending	-
-155831	One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation	https://neurips.cc/virtual/2026/poster/155831	pending	-
-152224	OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework	https://neurips.cc/virtual/2026/poster/152224	pending	-
-148989	ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration	https://neurips.cc/virtual/2026/poster/148989	pending	-
-153448	One-Shot Federated Graph Learning via High-Fidelity Proxies and Transferability-Guided Collaboration	https://neurips.cc/virtual/2026/poster/153448	pending	-
-155557	One-Shot Generative Flows: Existence and Obstructions	https://neurips.cc/virtual/2026/poster/155557	pending	-
-151541	One-Shot Private Confidence Regions via Resampling	https://neurips.cc/virtual/2026/poster/151541	pending	-
-151407	One Step is Enough: Multi-Agent Reinforcement Learning Based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms	https://neurips.cc/virtual/2026/poster/151407	pending	-
-155832	One Temperature to Rule Them All?	https://neurips.cc/virtual/2026/poster/155832	pending	-
-154791	One-Time Soft Alignment Enables Resilient Learning without Weight Transport	https://neurips.cc/virtual/2026/poster/154791	pending	-
-150578	One Unified Representation: Resolving the Appearance-Semantics Dilemma via Structural Regularization	https://neurips.cc/virtual/2026/poster/150578	pending	-
-151767	One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation	https://neurips.cc/virtual/2026/poster/151767	pending	-
-152879	OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence	https://neurips.cc/virtual/2026/poster/152879	pending	-
-150348	OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation	https://neurips.cc/virtual/2026/poster/150348	pending	-
-153304	One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction	https://neurips.cc/virtual/2026/poster/153304	pending	-
-156784	On Fitting Flow Models with Large Sinkhorn Couplings	https://neurips.cc/virtual/2026/poster/156784	pending	-
-149738	On Generalization in Bilevel Optimization with Overparameterized Models	https://neurips.cc/virtual/2026/poster/149738	pending	-
-151982	On Generation in Metric Spaces	https://neurips.cc/virtual/2026/poster/151982	pending	-
-151785	On Inherent Privacy of Posterior Sampling: A Unified R\'enyi-Divergence Framework	https://neurips.cc/virtual/2026/poster/151785	pending	-
-155423	On JEPA Isotropy	https://neurips.cc/virtual/2026/poster/155423	pending	-
-149964	On Length Bias in EEG-to-Text Decoding	https://neurips.cc/virtual/2026/poster/149964	pending	-
-154789	Online Active Testing: Adaptive Importance Sampling for Unbiased Risk Estimation in Data Streams	https://neurips.cc/virtual/2026/poster/154789	pending	-
-150540	Online Allocation with Differential Privacy	https://neurips.cc/virtual/2026/poster/150540	pending	-
-151416	Online Allocation with Unknown Shared Supply	https://neurips.cc/virtual/2026/poster/151416	pending	-
-151573	Online Bayesian Calibration under Gradual and Abrupt System Changes	https://neurips.cc/virtual/2026/poster/151573	pending	-
-151000	Online Bayesian Recalibration of Brain–Computer Interfaces with Language Model Potentials	https://neurips.cc/virtual/2026/poster/151000	pending	-
-156664	Online Bernstein-von Mises theorem	https://neurips.cc/virtual/2026/poster/156664	pending	-
-151323	Online Budget Allocation with Censored Semi-Bandit Feedback	https://neurips.cc/virtual/2026/poster/151323	pending	-
-149162	Online Causal Configuration for Networked Systems via Doubly Robust Steady-State Learning	https://neurips.cc/virtual/2026/poster/149162	pending	-
-148517	Online Change-point Detection using Foundation Probabilistic Forecasting Models	https://neurips.cc/virtual/2026/poster/148517	pending	-
-153343	Online Conformal Abstention for Factuality Control Under Adversarial Bandit Feedback	https://neurips.cc/virtual/2026/poster/153343	pending	-
-153920	Online Control with Multiple Sensors	https://neurips.cc/virtual/2026/poster/153920	pending	-
-155444	Online Data Selection for Instruction Tuning via Gaussian Processes	https://neurips.cc/virtual/2026/poster/155444	pending	-
+155075	NuMuon: Nuclear-Norm-Constrained Muon for Compressible LLM Training	https://neurips.cc/virtual/2026/poster/155075	included	从训练开始优化可压缩性。
+139335	nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving	https://neurips.cc/virtual/2026/poster/139335	included	驾驶推理监督在关闭文本输出时也应测规划。
+153330	Nuwa: Evaluation-Grounded Agentic Construction of Time Series Forecasting Systems	https://neurips.cc/virtual/2026/poster/153330	included	预测系统自动构建逐次记录变量变更与对照。
+155495	Nüwa.RNA: An RNA Foundation Model for Unified Representation with Deep Structure Infusion	https://neurips.cc/virtual/2026/poster/155495	excluded	工作核心为 RNA 结构可学性提升，未提取可支持序列设计的操作方案。
+154834	N-vium: Mixture-of-Exits Transformer for Accelerated Exact Generation	https://neurips.cc/virtual/2026/poster/154834	included	精确生成用早退头构成模型原生分布。
+153072	NyoomFloat12: Accelerating LLM Inference via Lossless 12-bit Weight Compression	https://neurips.cc/virtual/2026/poster/153072	included	权重无损压缩兼顾主值布局和异常值回退。
+148732	OASES: Outcome-Aligned Search-Evaluation Co-Training for Agentic Search	https://neurips.cc/virtual/2026/poster/148732	included	搜索过程评分随当前策略共同训练。
+152937	OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation	https://neurips.cc/virtual/2026/poster/152937	included	视觉动作策略用末端位姿轨迹桥接感知和动作。
+155429	OASIS: Online Adaptive Steering for In-Training Safety of LLMs	https://neurips.cc/virtual/2026/poster/155429	included	安全适配中持续重估防护方向。
+153919	OATS: Online Data Augmentation for Time Series Foundation Models	https://neurips.cc/virtual/2026/poster/153919	excluded	摘要未说明如何评估训练样本价值或将价值变为可复用的条件抽样规则。
+139282	Object Detection Benchmarks are Incomplete: The Role of Label Errors and Annotation Uncertainty	https://neurips.cc/virtual/2026/poster/139282	included	检测器评估审计漏标和多标注者分歧。
+150191	Object Hallucination Mitigation in Large Vision-Language Models via Self-Vision Dual Masking and Uncertainty-Triggered Assembly	https://neurips.cc/virtual/2026/poster/150191	included	不确定的对象判断分别聚合支持区域与补区。
+151331	Objective-Aligned Amortized Inference for Offline Bayes-Adaptive MDP Model Learning	https://neurips.cc/virtual/2026/poster/151331	included	离线环境编码只读取动力目标可识别的数据统计。
+155962	Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for   RL-based LLM Recommenders	https://neurips.cc/virtual/2026/poster/155962	included	排名训练限制负例关注窗口。
+154103	OBJECT-UNI: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation	https://neurips.cc/virtual/2026/poster/154103	included	理解与生成以显式对象姿态作共用变量。
+139674	ObjView-Bench: Rethinking Difficulty and Deployment for Object-Centric View Planning	https://neurips.cc/virtual/2026/poster/139674	included	主动观测按可达性、饱和难度和对象遮挡分层。
+139628	OBLIQ-Bench: Exposing Overlooked Bottlenecks in Modern Retrievers with Latent and Implicit Queries	https://neurips.cc/virtual/2026/poster/139628	included	隐式查询验收拆开召回与相关性判断。
+152077	ObsConDA: Observability-Constrained Data Assimilation with Control-Space Inference	https://neurips.cc/virtual/2026/poster/152077	included	同化按当前传感几何重新选可修正方向。
+153828	Observable Neural ODEs for Identifiable Causal Forecasting in Continuous Time	https://neurips.cc/virtual/2026/poster/153828	included	连续因果预测先检验隐状态是否可从测量恢复。
+151775	Observations Drift, Structures Remain: Structural Pretraining with Time Alignment for Electromagnetic Signals	https://neurips.cc/virtual/2026/poster/151775	included	异采样电磁预训练按物理时间对齐并预测结构单元。
+139118	OccStress: Stress-Testing the 4D Occupancy Forecasting Chain	https://neurips.cc/virtual/2026/poster/139118	included	分开验证占据感知误差和预测模型对历史损坏的敏感性。
+149393	Occupancy-based Quantile Risk Control	https://neurips.cc/virtual/2026/poster/149393	included	需要有限样本分位风险保证时，用校准损失的占据统计约束尾部。
+150573	OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting	https://neurips.cc/virtual/2026/poster/150573	included	需要动力学解释但已知物理概念不完整时，给概念瓶颈保留残差通道。
+152912	OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization	https://neurips.cc/virtual/2026/poster/152912	included	旋转后 KV 在极低比特区间时，比较三坐标联合参数化与独立标量码。
+153865	ODDR: One-Step Deshadow Diffusion via Reward Guidance	https://neurips.cc/virtual/2026/poster/153865	excluded	阴影合成适配联合增强，摘要没给奖励方法的可迁移判据。
+149489	ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow	https://neurips.cc/virtual/2026/poster/149489	excluded	物理时间连续流候选与现有神经 ODE 相近，摘要未拆出约束独立收益。
+150966	OdysSim: Building Foundation Models for Human Behavior Simulation	https://neurips.cc/virtual/2026/poster/150966	excluded	主要贡献模拟评测与数据整合，缺少独立可复用机制。
+152979	OFBD: Object-Focused Background Debiasing for Long-Tailed Learning	https://neurips.cc/virtual/2026/poster/152979	included	长尾视觉类别受背景相关影响时，保留前景并改变背景做针对性增强。
+139086	OfficeInstruct: A Dataset for Tool-Augmented Office Agents on Long-Trajectory Generative Tasks	https://neurips.cc/virtual/2026/poster/139086	excluded	轨迹资源为主，摘要未独立说明证据图过滤的质量对照。
+151729	Offline Constrained Reinforcement Learning under Partial Data Coverage	https://neurips.cc/virtual/2026/poster/151729	included	数据覆盖不全时，将策略作为离线约束 MDP 原始变量，验证限制域的鞍点是否可靠。
+153682	Offline Inverse Reinforcement Learning with Unified Diffusion Planning	https://neurips.cc/virtual/2026/poster/153682	excluded	动力学及逆强化目标结合多个组件，隔离证据待查。
+154137	Offline Materials Optimization with CliqueFlowmer	https://neurips.cc/virtual/2026/poster/154137	excluded	材料专用生成集成，摘要缺乏可迁移目标选择。
+156103	Offline-Online Reinforcement Learning for Linear Mixture MDPs	https://neurips.cc/virtual/2026/poster/156103	excluded	数据利用自适应有价值，但摘要没有具体的加入或忽略判据。
+139500	Offline Preference-Based Trajectory Evaluation	https://neurips.cc/virtual/2026/poster/139500	included	终点成功率饱和或平局多时，用轨迹进度和回报到达时间增加比较分辨率。
+139831	Offline Reinforcement Learning for Plasma Control in Nuclear Fusion: Codebase and Benchmark	https://neurips.cc/virtual/2026/poster/139831	excluded	专门等离子体历史数据与基准为主。
+139388	Offloading Score: Measuring AI Reliance through Counterfactual Workflows	https://neurips.cc/virtual/2026/poster/139388	excluded	反事实工作流指标同用户负载耦合，摘要未阐明如何可靠模拟工作路径。
+153404	Off-Policy Evaluation of Large Language Models via Learned Semantic Bottleneck Embeddings	https://neurips.cc/virtual/2026/poster/153404	included	用语义压缩做离策略评估时，针对奖励训练瓶颈而非借用通用嵌入。
+151798	Off-policy Learning with Excursion Policies	https://neurips.cc/virtual/2026/poster/151798	excluded	多步策略插值收益与标准混合接近，摘要较少提供明确择优条件。
+139271	OgBench: A Framework for Evaluating Graph Neural Networks on Omics Data	https://neurips.cc/virtual/2026/poster/139271	excluded	小样本大型组学图是专门情形，摘要未拆出图结构何时带来收益。
+152279	OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/152279	included	离线动作模型要能从偏离演示的状态恢复时，将关键语义状态设成过程目标。
+155542	OHATP: Graph Anomaly Detection with Orthogonal-Hyperspherical Augmentation and Topology Perception	https://neurips.cc/virtual/2026/poster/155542	included	图异常对比学习需验证增强不会抹去异常。
+148515	OLA-Place: Cross-Modal Place Recognition without Global Descriptors	https://neurips.cc/virtual/2026/poster/148515	included	地点检索按文字对象与场景实体对齐。
+150464	OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series Forecasting	https://neurips.cc/virtual/2026/poster/150464	included	时序自监督显式建模连续时差。
+139331	OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning	https://neurips.cc/virtual/2026/poster/139331	included	视听描述评测将错误拆到实体、镜头与音频事件。
+139032	OmniDex: Scaling Dexterous Hand Grasping to Diverse Cluttered Scenes	https://neurips.cc/virtual/2026/poster/139032	excluded	摘要将大规模数据、抓取损失与排序组合，未独立验证可迁移机制。
+151885	OmniEgoCap: Camera-Agnostic Sequence-Level Egocentric Motion Reconstruction	https://neurips.cc/virtual/2026/poster/151885	included	跨设备动作重建把手不在视野内作为几何可见性。
+155919	OmniGF: A Dual-Branch Vision-Language Framework for Unified Gaze Following	https://neurips.cc/virtual/2026/poster/155919	included	视线预测同时使用离散语言和连续热图头。
+155508	Omni-Interactive Universal Embedder	https://neurips.cc/virtual/2026/poster/155508	included	检索表征支持用区域和片段指定检索意图。
+151826	OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering	https://neurips.cc/virtual/2026/poster/151826	included	时序重排训练按片段遮盖模态来阻断单一捷径。
+154211	OmniMechanism Design for Human-AI Collaboration with Impressionable Minds	https://neurips.cc/virtual/2026/poster/154211	included	人机合作应把看见模型预测对判断的影响纳入设计。
+138886	OmniMemBench: Towards Scalable Evaluation of Long-Term Omni-Modal Agent Memory	https://neurips.cc/virtual/2026/poster/138886	included	长记忆对照固定可用证据，只增加隔离的干扰信息。
+150029	OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation	https://neurips.cc/virtual/2026/poster/150029	included	生成长视频时给远程相关历史保留检索预算。
+153308	Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamic Mechanisms and Efficient Alignment	https://neurips.cc/virtual/2026/poster/153308	included	跨模态安全对照应在各正常模态检验对齐防护。
+153551	OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models	https://neurips.cc/virtual/2026/poster/153551	included	视听压缩先按任务相关性分配两类模态的保留预算。
+149329	OmniSE: Support-Faithful Optimization for Evidence-Centric Audio-Video Reasoning	https://neurips.cc/virtual/2026/poster/149329	included	视听推理独立给支持证据、绑定和答案反馈。
+150480	OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer	https://neurips.cc/virtual/2026/poster/150480	excluded	摘要主要组合边界查询架构和合成转场标注，没有可独立归因的结果。
+149373	OmniSimulator: Aligning Small Language Models for Authentic Heterogeneous Behavior Modeling	https://neurips.cc/virtual/2026/poster/149373	excluded	摘要以专有用户数据结合结构化理由蒸馏，缺少区分数据与推理机制的独立证据。
+151867	OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs	https://neurips.cc/virtual/2026/poster/151867	included	驾驶几何评估分别校验跨视图对应和深度。
+152619	Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment	https://neurips.cc/virtual/2026/poster/152619	included	脉冲视觉接连续语言监督时单独校验训练和推理表示差异。
+138921	OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling	https://neurips.cc/virtual/2026/poster/138921	included	社会推理把提取叙述事实和归属到角色信念分开。
+139772	OmniTraffic: A Controllable Generation Pipeline and Benchmark for Spatio-Temporal Traffic Reasoning	https://neurips.cc/virtual/2026/poster/139772	included	交通理解用可控多视角仿真分别测试拓扑、时序与信号相位。
+148151	On approximation and estimation of Schrödinger potentials without the curse of dimensionality	https://neurips.cc/virtual/2026/poster/148151	included	桥式生成复杂度应按目标有效维数核验。
+152278	On Communication-Efficient Training of Ensembles in Federated Learning	https://neurips.cc/virtual/2026/poster/152278	excluded	摘要未说明新增通信机制及何种集成配置受益，当前无法独立复用。
+154421	On Computing Diverse Solutions in the Earth Movers Distance	https://neurips.cc/virtual/2026/poster/154421	included	用运输距离选择多样子集时区分找解与核算距离。
+155488	On Concentration Inequalities for Sampling without Replacement	https://neurips.cc/virtual/2026/poster/155488	excluded	摘要只称给出更紧的不放回集中界，未描述新条件、可用形式或具体改进量。
+139269	On Data Engineering for Scaling LLM Terminal Capabilities	https://neurips.cc/virtual/2026/poster/139269	excluded	以规模化终端语料和总体成绩为主，摘要未报告哪条数据策略带来可独立复用的收益。
+151830	On Differentially Private Mechanisms for Linear Regression	https://neurips.cc/virtual/2026/poster/151830	included	流式线性回归应使用连续观察隐私机制。
+151936	On Differential Private $\ell_1$, $\ell_2$ and $\ell_p^p$ Distance Queries	https://neurips.cc/virtual/2026/poster/151936	included	频繁查询私有距离和可用树数据结构降低聚合次数。
+149544	One Adapter For All: Towards Generalizable Many-To-One Domain Adaptation In Heterogeneous Collaborative Perception	https://neurips.cc/virtual/2026/poster/149544	included	多设备协同感知用共享适配器重组域专属模式。
+149252	One Algorithm, Two Goals: Dual Scoring for Parameter and Data Selection in LLM Fine-Tuning	https://neurips.cc/virtual/2026/poster/149252	included	数据子集和参数掩码共享同一验证梯度统计。
+150139	One Avatar, Any Budget: Robust LoD for Dynamic Gaussian Avatars	https://neurips.cc/virtual/2026/poster/150139	included	可变渲染预算先保感知区域覆盖，再补被删细节。
+154018	One-Bit Clustering for Two Component Sub-Gaussian Mixture Models	https://neurips.cc/virtual/2026/poster/154018	included	一比特聚类量化前先消除坐标尖峰。
+148266	OneCanvas: 3D Scene Understanding via Panoramic Reprojection	https://neurips.cc/virtual/2026/poster/148266	included	多视图空间问答将图块投到共享全景并保留度量深度。
+151574	One for All: A Non-Linear Transformer can enable Cross-Domain Generalization for In-Context Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151574	included	跨域上下文强化学习先检验价值函数是否共享核结构。
+149035	One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection	https://neurips.cc/virtual/2026/poster/149035	included	视觉异常检测可直接学习各任务各层决策权重。
+153564	One-Layer Transformers Provably Learn In-Context K-Nearest Neighbor Prediction with Chain-of-Thought	https://neurips.cc/virtual/2026/poster/153564	included	需要多个相关示例时以串行中间选择弥补单层注意容量。
+150016	One Loss to Rule Them All: Marked Time-to-Event for Structured EHR Foundation Models	https://neurips.cc/virtual/2026/poster/150016	included	不规则事件序列预训练联合预测事件时间和测量值。
+155435	One Model, Two Roles: Emergent Specialization in a Shared Recurrent Transformer	https://neurips.cc/virtual/2026/poster/155435	included	共享循环骨干用状态身份引导不同内部更新职责。
+154314	One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective	https://neurips.cc/virtual/2026/poster/154314	included	波函数训练对振幅和相位分别设更新信赖区。
+155831	One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation	https://neurips.cc/virtual/2026/poster/155831	included	进新楼用扫描重建可执行训练任务。
+152224	OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework	https://neurips.cc/virtual/2026/poster/152224	excluded	检索、蒸馏和在线反馈共同改变，摘要不足以隔离模块。
+148989	ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration	https://neurips.cc/virtual/2026/poster/148989	excluded	动作注入与长程上下文联合，摘要未隔离独立边界。
+153448	One-Shot Federated Graph Learning via High-Fidelity Proxies and Transferability-Guided Collaboration	https://neurips.cc/virtual/2026/poster/153448	excluded	代理压缩及迁移评分未展开可复用细节。
+155557	One-Shot Generative Flows: Existence and Obstructions	https://neurips.cc/virtual/2026/poster/155557	included	选单步流前，检查目标模式分离是否排除了端点独立的直线流。
+151541	One-Shot Private Confidence Regions via Resampling	https://neurips.cc/virtual/2026/poster/151541	included	私有置信区间用重采样时，先做内部估计，最终只发布加噪分位数。
+151407	One Step is Enough: Multi-Agent Reinforcement Learning Based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms	https://neurips.cc/virtual/2026/poster/151407	excluded	无 critic 结论依赖车队同质和交通网络混合，暂无通用验收规则。
+155832	One Temperature to Rule Them All?	https://neurips.cc/virtual/2026/poster/155832	included	比较多温度采样前，给每个 pass@K 预算调一个单温度参照。
+154791	One-Time Soft Alignment Enables Resilient Learning without Weight Transport	https://neurips.cc/virtual/2026/poster/154791	included	反馈对齐难训练时，检验能否仅在初始化进行部分权重方向对齐。
+150578	One Unified Representation: Resolving the Appearance-Semantics Dilemma via Structural Regularization	https://neurips.cc/virtual/2026/poster/150578	excluded	出观感和语义的正则与已有 RAE 改进相近，独立作用待查。
+151767	One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation	https://neurips.cc/virtual/2026/poster/151767	included	缺乏多视角对时，用单图深度重投影产生有效区域的伪监督。
+152879	OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence	https://neurips.cc/virtual/2026/poster/152879	excluded	与第 68 批 HIMMEL 的压缩域信息机制重叠，独立分块优势待复核。
+150348	OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation	https://neurips.cc/virtual/2026/poster/150348	excluded	视频与文字两种监督同时训练，未给单项证据。
+153304	One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction	https://neurips.cc/virtual/2026/poster/153304	included	异步多相机重建时，保持共享外观但按源时间建位姿轨迹。
+156784	On Fitting Flow Models with Large Sinkhorn Couplings	https://neurips.cc/virtual/2026/poster/156784	excluded	摘要所给内容不足以核验输运批量的具体边界。
+149738	On Generalization in Bilevel Optimization with Overparameterized Models	https://neurips.cc/virtual/2026/poster/149738	excluded	理论依赖二层 NTK 和双数据设计，摘要暂不足以给通用停止选择。
+151982	On Generation in Metric Spaces	https://neurips.cc/virtual/2026/poster/151982	excluded	新颖性尺度理论尚未给模型生成或采样选择的具体对应。
+151785	On Inherent Privacy of Posterior Sampling: A Unified R\'enyi-Divergence Framework	https://neurips.cc/virtual/2026/poster/151785	excluded	泛化框架有价值，但摘要未分解后验采样获得隐私所需的实际可检验条件。
+155423	On JEPA Isotropy	https://neurips.cc/virtual/2026/poster/155423	included	给 JEPA 设正则时，把预测秩需求和白化后的条件数分开看。
+149964	On Length Bias in EEG-to-Text Decoding	https://neurips.cc/virtual/2026/poster/149964	included	对填充后的时序解码，保留原长度和填充值，用随机信号替换有效区作为捷径对照。
+154789	Online Active Testing: Adaptive Importance Sampling for Unbiased Risk Estimation in Data Streams	https://neurips.cc/virtual/2026/poster/154789	included	流数据不能保存且标注有限时，按预估损失二阶矩即时分配查询。
+150540	Online Allocation with Differential Privacy	https://neurips.cc/virtual/2026/poster/150540	included	在线分配先明确联合与本地隐私需求，再比较可达效用。
+151416	Online Allocation with Unknown Shared Supply	https://neurips.cc/virtual/2026/poster/151416	included	库存未知且无法补回已丢需求时按阈值比例分配。
+151573	Online Bayesian Calibration under Gradual and Abrupt System Changes	https://neurips.cc/virtual/2026/poster/151573	included	在线数字孪生分离校准参数、模拟偏差与突变重启。
+151000	Online Bayesian Recalibration of Brain–Computer Interfaces with Language Model Potentials	https://neurips.cc/virtual/2026/poster/151000	included	在线伪标签校准保留多个候选的不确定性。
+156664	Online Bernstein-von Mises theorem	https://neurips.cc/virtual/2026/poster/156664	included	顺序贝叶斯近似需依据参数维度选批次。
+151323	Online Budget Allocation with Censored Semi-Bandit Feedback	https://neurips.cc/virtual/2026/poster/151323	included	任务只在成功时揭露回报，应分开估成功曲线与奖励。
+149162	Online Causal Configuration for Networked Systems via Doubly Robust Steady-State Learning	https://neurips.cc/virtual/2026/poster/149162	included	网络资源配置估稳态效果时要记录邻域干扰与采集成本。
+148517	Online Change-point Detection using Foundation Probabilistic Forecasting Models	https://neurips.cc/virtual/2026/poster/148517	included	变点检测把预测分位残差标准化后校准误报。
+153343	Online Conformal Abstention for Factuality Control Under Adversarial Bandit Feedback	https://neurips.cc/virtual/2026/poster/153343	included	部分反馈的在线拒答同时管控错误发现率与回答覆盖。
+153920	Online Control with Multiple Sensors	https://neurips.cc/virtual/2026/poster/153920	included	多传感器控制用最优单传感器策略作可解释预算参考。
+155444	Online Data Selection for Instruction Tuning via Gaussian Processes	https://neurips.cc/virtual/2026/poster/155444	included	在线指导微调可在整个语义空间重估训练样本效用。
 150539	Online Decision-Focused Learning under Semi-Bandit Feedback	https://neurips.cc/virtual/2026/poster/150539	included	用未观测代价补全候选决策，但只用实测组件更新表征。
-151530	Online Differentially Private Consistent Clustering	https://neurips.cc/virtual/2026/poster/151530	pending	-
-148149	Online Directional Regression for Streaming Sufficient Dimension Reduction	https://neurips.cc/virtual/2026/poster/148149	pending	-
-139644	Online Evaluation of LLMs via Dyadic Designs	https://neurips.cc/virtual/2026/poster/139644	pending	-
-153060	Online Fair Division Meets Reordering Buffers	https://neurips.cc/virtual/2026/poster/153060	pending	-
-150024	Online Finetuning Decision Transformers with Pure RL Gradients	https://neurips.cc/virtual/2026/poster/150024	pending	-
-155670	Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas	https://neurips.cc/virtual/2026/poster/155670	pending	-
-150975	Online Learning in Stabilized Linear Dynamical Games with Adversarial Disturbances	https://neurips.cc/virtual/2026/poster/150975	pending	-
-153773	Online Learning of Group-Stable Coalition Structures	https://neurips.cc/virtual/2026/poster/153773	pending	-
-149131	Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback	https://neurips.cc/virtual/2026/poster/149131	pending	-
+151530	Online Differentially Private Consistent Clustering	https://neurips.cc/virtual/2026/poster/151530	included	流式聚类将隐私转换与中心更新算法分离。
+148149	Online Directional Regression for Streaming Sufficient Dimension Reduction	https://neurips.cc/virtual/2026/poster/148149	included	流式充分降维同时保留条件均值与方差。
+139644	Online Evaluation of LLMs via Dyadic Designs	https://neurips.cc/virtual/2026/poster/139644	included	顺序 A/B 用已有难度等协变量做层次均衡分配。
+153060	Online Fair Division Meets Reordering Buffers	https://neurips.cc/virtual/2026/poster/153060	included	公平分配在不可撤销前给有限缓冲。
+150024	Online Finetuning Decision Transformers with Pure RL Gradients	https://neurips.cc/virtual/2026/poster/150024	included	在线决策 Transformer 使用策略比时禁止直接用事后回报改条件。
+155670	Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas	https://neurips.cc/virtual/2026/poster/155670	included	部分观测且不稳定的控制可按分布偏移验收模仿学习。
+150975	Online Learning in Stabilized Linear Dynamical Games with Adversarial Disturbances	https://neurips.cc/virtual/2026/poster/150975	included	共享动态控制先保证基线稳定，再学习扰动修正。
+153773	Online Learning of Group-Stable Coalition Structures	https://neurips.cc/virtual/2026/poster/153773	included	在线组队分开探索可稳定划分与确认其存在性。
+149131	Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback	https://neurips.cc/virtual/2026/poster/149131	included	隐凸重参数化可保在线梯度下降速率，但需验证 Hessian 相容。
 155730	Online Learning via Learned Latent Bayesian Tracking	https://neurips.cc/virtual/2026/poster/155730	pending	-
 151773	Online Learning with Certified Unlearning over Graphs	https://neurips.cc/virtual/2026/poster/151773	pending	-
 148737	Online Localized Conformal Prediction	https://neurips.cc/virtual/2026/poster/148737	pending	-

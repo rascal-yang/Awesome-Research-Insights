@@ -779,5 +779,13 @@ Training schedules, curricula, and task or stage composition.
 - [Not All Layers Are Equal in Image-to-Video Transfer](../../conferences/neurips-2026/cards-0009.md#paper-153476)
 - [NoTA: Normalized Tensor Adaptation for Parameter-Efficient Continual Learning](../../conferences/neurips-2026/cards-0009.md#paper-152586)
 - [Not Every Image Teaches Vision: Visual-Necessity-Gated Continual Learning for Multimodal Large Language Models](../../conferences/neurips-2026/cards-0009.md#paper-149631)
+- [nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving](../../conferences/neurips-2026/cards-0009.md#paper-139335)
+- [OASIS: Online Adaptive Steering for In-Training Safety of LLMs](../../conferences/neurips-2026/cards-0009.md#paper-155429)
+- [Observations Drift, Structures Remain: Structural Pretraining with Time Alignment for Electromagnetic Signals](../../conferences/neurips-2026/cards-0009.md#paper-151775)
+- [OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering](../../conferences/neurips-2026/cards-0009.md#paper-151826)
+- [One Algorithm, Two Goals: Dual Scoring for Parameter and Data Selection in LLM Fine-Tuning](../../conferences/neurips-2026/cards-0009.md#paper-149252)
+- [One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation](../../conferences/neurips-2026/cards-0009.md#paper-155831)
+- [One-Time Soft Alignment Enables Resilient Learning without Weight Transport](../../conferences/neurips-2026/cards-0009.md#paper-154791)
+- [Online Bayesian Recalibration of Brain–Computer Interfaces with Language Model Potentials](../../conferences/neurips-2026/cards-0009.md#paper-151000)
 
 <!-- conference-classification:end -->

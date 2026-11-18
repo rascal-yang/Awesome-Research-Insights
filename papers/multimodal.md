@@ -787,5 +787,18 @@
 - [Not All Tokens Should Be Treated Equally: Context Credits Reassignment](../conferences/neurips-2026/cards-0009.md#paper-152065)
 - [Not Another Text Benchmark: Putting the “Visual" Back in Visual Question Answering for Large Video Models](../conferences/neurips-2026/cards-0009.md#paper-139439)
 - [Not Every Image Teaches Vision: Visual-Necessity-Gated Continual Learning for Multimodal Large Language Models](../conferences/neurips-2026/cards-0009.md#paper-149631)
+- [Object Hallucination Mitigation in Large Vision-Language Models via Self-Vision Dual Masking and Uncertainty-Triggered Assembly](../conferences/neurips-2026/cards-0009.md#paper-150191)
+- [OBJECT-UNI: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation](../conferences/neurips-2026/cards-0009.md#paper-154103)
+- [OLA-Place: Cross-Modal Place Recognition without Global Descriptors](../conferences/neurips-2026/cards-0009.md#paper-148515)
+- [OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning](../conferences/neurips-2026/cards-0009.md#paper-139331)
+- [OmniGF: A Dual-Branch Vision-Language Framework for Unified Gaze Following](../conferences/neurips-2026/cards-0009.md#paper-155919)
+- [Omni-Interactive Universal Embedder](../conferences/neurips-2026/cards-0009.md#paper-155508)
+- [OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering](../conferences/neurips-2026/cards-0009.md#paper-151826)
+- [OmniMemBench: Towards Scalable Evaluation of Long-Term Omni-Modal Agent Memory](../conferences/neurips-2026/cards-0009.md#paper-138886)
+- [Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamic Mechanisms and Efficient Alignment](../conferences/neurips-2026/cards-0009.md#paper-153308)
+- [OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models](../conferences/neurips-2026/cards-0009.md#paper-153551)
+- [OmniSE: Support-Faithful Optimization for Evidence-Centric Audio-Video Reasoning](../conferences/neurips-2026/cards-0009.md#paper-149329)
+- [OmniTraffic: A Controllable Generation Pipeline and Benchmark for Spatio-Temporal Traffic Reasoning](../conferences/neurips-2026/cards-0009.md#paper-139772)
+- [OneCanvas: 3D Scene Understanding via Panoramic Reprojection](../conferences/neurips-2026/cards-0009.md#paper-148266)
 
 <!-- conference-classification:end -->

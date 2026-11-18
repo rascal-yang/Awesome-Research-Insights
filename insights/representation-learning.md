@@ -547,5 +547,12 @@
 - [NOCE-Net: Representation Learning for Battery Operational Context via Nested Sequence Modelling](../conferences/neurips-2026/cards-0009.md#paper-154156)
 - [NOFE – Neural Operator Function Embedding](../conferences/neurips-2026/cards-0009.md#paper-149024)
 - [NoTVLA: Semantics-Preserving Robot Adaptation via Narrative Action Interfaces](../conferences/neurips-2026/cards-0009.md#paper-151525)
+- [OHATP: Graph Anomaly Detection with Orthogonal-Hyperspherical Augmentation and Topology Perception](../conferences/neurips-2026/cards-0009.md#paper-155542)
+- [OLA-Place: Cross-Modal Place Recognition without Global Descriptors](../conferences/neurips-2026/cards-0009.md#paper-148515)
+- [OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series Forecasting](../conferences/neurips-2026/cards-0009.md#paper-150464)
+- [Omni-Interactive Universal Embedder](../conferences/neurips-2026/cards-0009.md#paper-155508)
+- [OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](../conferences/neurips-2026/cards-0009.md#paper-151867)
+- [OneCanvas: 3D Scene Understanding via Panoramic Reprojection](../conferences/neurips-2026/cards-0009.md#paper-148266)
+- [Online Directional Regression for Streaming Sufficient Dimension Reduction](../conferences/neurips-2026/cards-0009.md#paper-148149)
 
 <!-- conference-classification:end -->

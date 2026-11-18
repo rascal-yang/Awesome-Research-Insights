@@ -1005,5 +1005,14 @@ Visual representation, recognition, reconstruction, and generation.
 - [Not Too Generative, Not Too Discriminative: The Human Alignment Sweet Spot](../../conferences/neurips-2026/cards-0009.md#paper-151837)
 - [NP-LoRA: Null Space Projection for Subject-Style LoRA Fusion](../../conferences/neurips-2026/cards-0009.md#paper-155156)
 - [NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting](../../conferences/neurips-2026/cards-0009.md#paper-153399)
+- [Object Detection Benchmarks are Incomplete: The Role of Label Errors and Annotation Uncertainty](../../conferences/neurips-2026/cards-0009.md#paper-139282)
+- [OFBD: Object-Focused Background Debiasing for Long-Tailed Learning](../../conferences/neurips-2026/cards-0009.md#paper-152979)
+- [OmniEgoCap: Camera-Agnostic Sequence-Level Egocentric Motion Reconstruction](../../conferences/neurips-2026/cards-0009.md#paper-151885)
+- [OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation](../../conferences/neurips-2026/cards-0009.md#paper-150029)
+- [Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment](../../conferences/neurips-2026/cards-0009.md#paper-152619)
+- [One Avatar, Any Budget: Robust LoD for Dynamic Gaussian Avatars](../../conferences/neurips-2026/cards-0009.md#paper-150139)
+- [One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection](../../conferences/neurips-2026/cards-0009.md#paper-149035)
+- [One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation](../../conferences/neurips-2026/cards-0009.md#paper-151767)
+- [One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction](../../conferences/neurips-2026/cards-0009.md#paper-153304)
 
 <!-- conference-classification:end -->

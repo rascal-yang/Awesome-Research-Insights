@@ -624,5 +624,11 @@ Learning from interaction, feedback, and offline experience.
 - [Noisy Data is Destructive to Reinforcement Learning with Verifiable Rewards](../../conferences/neurips-2026/cards-0009.md#paper-152238)
 - [Non-Asymptotic Best Policy Identification Guarantees in Online Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-155132)
 - [Not all uncertainty is alike: volatility, stochasticity, and exploration](../../conferences/neurips-2026/cards-0009.md#paper-152109)
+- [OASES: Outcome-Aligned Search-Evaluation Co-Training for Agentic Search](../../conferences/neurips-2026/cards-0009.md#paper-148732)
+- [Objective-Aligned Amortized Inference for Offline Bayes-Adaptive MDP Model Learning](../../conferences/neurips-2026/cards-0009.md#paper-151331)
+- [Offline Constrained Reinforcement Learning under Partial Data Coverage](../../conferences/neurips-2026/cards-0009.md#paper-151729)
+- [One for All: A Non-Linear Transformer can enable Cross-Domain Generalization for In-Context Reinforcement Learning](../../conferences/neurips-2026/cards-0009.md#paper-151574)
+- [Online Budget Allocation with Censored Semi-Bandit Feedback](../../conferences/neurips-2026/cards-0009.md#paper-151323)
+- [Online Finetuning Decision Transformers with Pure RL Gradients](../../conferences/neurips-2026/cards-0009.md#paper-150024)
 
 <!-- conference-classification:end -->

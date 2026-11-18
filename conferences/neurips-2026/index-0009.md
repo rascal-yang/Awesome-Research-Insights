@@ -105,3 +105,93 @@
 | 自然语言处理 | 推理策略 | [NPUsper: Eliminating Redundant Computation for Real-Time Whisper on Mobile NPUs](cards-0009.md#paper-152954) | 设备端流式听写按输出有效性减少输入重叠和调度。 |
 | 计算机视觉 | 模型架构 | [NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting](cards-0009.md#paper-153399) | 用共享方向残差表示反射，减少冗余高斯点。 |
 | 机器学习基础与统计 | 理论与统计 | [NTK Regression under dual power-law model: Deterministic Equivalents via SDE and PDE Methods](cards-0009.md#paper-151078) | 缩放风险同时看输入特征谱与目标信号对齐。 |
+| 大语言模型 | 优化 | [NuMuon: Nuclear-Norm-Constrained Muon for Compressible LLM Training](cards-0009.md#paper-155075) | 从训练开始优化可压缩性。 |
+| 机器人学 | 训练策略 | [nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving](cards-0009.md#paper-139335) | 驾驶推理监督在关闭文本输出时也应测规划。 |
+| 机器学习基础与统计 | 评测与诊断 | [Nuwa: Evaluation-Grounded Agentic Construction of Time Series Forecasting Systems](cards-0009.md#paper-153330) | 预测系统自动构建逐次记录变量变更与对照。 |
+| 大语言模型 | 模型架构 | [N-vium: Mixture-of-Exits Transformer for Accelerated Exact Generation](cards-0009.md#paper-154834) | 精确生成用早退头构成模型原生分布。 |
+| 大语言模型 | 推理策略 | [NyoomFloat12: Accelerating LLM Inference via Lossless 12-bit Weight Compression](cards-0009.md#paper-153072) | 权重无损压缩兼顾主值布局和异常值回退。 |
+| 强化学习 | 强化学习方法 | [OASES: Outcome-Aligned Search-Evaluation Co-Training for Agentic Search](cards-0009.md#paper-148732) | 搜索过程评分随当前策略共同训练。 |
+| 机器人学 | 模型架构 | [OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation](cards-0009.md#paper-152937) | 视觉动作策略用末端位姿轨迹桥接感知和动作。 |
+| 大语言模型 | 训练策略 | [OASIS: Online Adaptive Steering for In-Training Safety of LLMs](cards-0009.md#paper-155429) | 安全适配中持续重估防护方向。 |
+| 计算机视觉 | 评测与诊断 | [Object Detection Benchmarks are Incomplete: The Role of Label Errors and Annotation Uncertainty](cards-0009.md#paper-139282) | 检测器评估审计漏标和多标注者分歧。 |
+| 多模态学习 | 推理策略 | [Object Hallucination Mitigation in Large Vision-Language Models via Self-Vision Dual Masking and Uncertainty-Triggered Assembly](cards-0009.md#paper-150191) | 不确定的对象判断分别聚合支持区域与补区。 |
+| 强化学习 | 模型架构 | [Objective-Aligned Amortized Inference for Offline Bayes-Adaptive MDP Model Learning](cards-0009.md#paper-151331) | 离线环境编码只读取动力目标可识别的数据统计。 |
+| 图学习与推荐 | 损失函数 | [Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for   RL-based LLM Recommenders](cards-0009.md#paper-155962) | 排名训练限制负例关注窗口。 |
+| 多模态学习 | 模型架构 | [OBJECT-UNI: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation](cards-0009.md#paper-154103) | 理解与生成以显式对象姿态作共用变量。 |
+| 机器人学 | 评测与诊断 | [ObjView-Bench: Rethinking Difficulty and Deployment for Object-Centric View Planning](cards-0009.md#paper-139674) | 主动观测按可达性、饱和难度和对象遮挡分层。 |
+| 自然语言处理 | 评测与诊断 | [OBLIQ-Bench: Exposing Overlooked Bottlenecks in Modern Retrievers with Latent and Implicit Queries](cards-0009.md#paper-139628) | 隐式查询验收拆开召回与相关性判断。 |
+| 科学机器学习 | 优化 | [ObsConDA: Observability-Constrained Data Assimilation with Control-Space Inference](cards-0009.md#paper-152077) | 同化按当前传感几何重新选可修正方向。 |
+| 机器学习基础与统计 | 理论与统计 | [Observable Neural ODEs for Identifiable Causal Forecasting in Continuous Time](cards-0009.md#paper-153828) | 连续因果预测先检验隐状态是否可从测量恢复。 |
+| 科学机器学习 | 训练策略 | [Observations Drift, Structures Remain: Structural Pretraining with Time Alignment for Electromagnetic Signals](cards-0009.md#paper-151775) | 异采样电磁预训练按物理时间对齐并预测结构单元。 |
+| 机器人学 | 评测与诊断 | [OccStress: Stress-Testing the 4D Occupancy Forecasting Chain](cards-0009.md#paper-139118) | 分开验证占据感知误差和预测模型对历史损坏的敏感性。 |
+| 机器学习基础与统计 | 理论与统计 | [Occupancy-based Quantile Risk Control](cards-0009.md#paper-149393) | 需要有限样本分位风险保证时，用校准损失的占据统计约束尾部。 |
+| 科学机器学习 | 模型架构 | [OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting](cards-0009.md#paper-150573) | 需要动力学解释但已知物理概念不完整时，给概念瓶颈保留残差通道。 |
+| 大语言模型 | 优化 | [OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization](cards-0009.md#paper-152912) | 旋转后 KV 在极低比特区间时，比较三坐标联合参数化与独立标量码。 |
+| 计算机视觉 | 数据策略 | [OFBD: Object-Focused Background Debiasing for Long-Tailed Learning](cards-0009.md#paper-152979) | 长尾视觉类别受背景相关影响时，保留前景并改变背景做针对性增强。 |
+| 强化学习 | 优化 | [Offline Constrained Reinforcement Learning under Partial Data Coverage](cards-0009.md#paper-151729) | 数据覆盖不全时，将策略作为离线约束 MDP 原始变量，验证限制域的鞍点是否可靠。 |
+| 大语言模型 | 评测与诊断 | [Offline Preference-Based Trajectory Evaluation](cards-0009.md#paper-139500) | 终点成功率饱和或平局多时，用轨迹进度和回报到达时间增加比较分辨率。 |
+| 大语言模型 | 理论与统计 | [Off-Policy Evaluation of Large Language Models via Learned Semantic Bottleneck Embeddings](cards-0009.md#paper-153404) | 用语义压缩做离策略评估时，针对奖励训练瓶颈而非借用通用嵌入。 |
+| 机器人学 | 强化学习方法 | [OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models](cards-0009.md#paper-152279) | 离线动作模型要能从偏离演示的状态恢复时，将关键语义状态设成过程目标。 |
+| 图学习与推荐 | 表征学习 | [OHATP: Graph Anomaly Detection with Orthogonal-Hyperspherical Augmentation and Topology Perception](cards-0009.md#paper-155542) | 图异常对比学习需验证增强不会抹去异常。 |
+| 多模态学习 | 表征学习 | [OLA-Place: Cross-Modal Place Recognition without Global Descriptors](cards-0009.md#paper-148515) | 地点检索按文字对象与场景实体对齐。 |
+| 机器学习基础与统计 | 表征学习 | [OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series Forecasting](cards-0009.md#paper-150464) | 时序自监督显式建模连续时差。 |
+| 多模态学习 | 评测与诊断 | [OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning](cards-0009.md#paper-139331) | 视听描述评测将错误拆到实体、镜头与音频事件。 |
+| 计算机视觉 | 数据策略 | [OmniEgoCap: Camera-Agnostic Sequence-Level Egocentric Motion Reconstruction](cards-0009.md#paper-151885) | 跨设备动作重建把手不在视野内作为几何可见性。 |
+| 多模态学习 | 模型架构 | [OmniGF: A Dual-Branch Vision-Language Framework for Unified Gaze Following](cards-0009.md#paper-155919) | 视线预测同时使用离散语言和连续热图头。 |
+| 多模态学习 | 表征学习 | [Omni-Interactive Universal Embedder](cards-0009.md#paper-155508) | 检索表征支持用区域和片段指定检索意图。 |
+| 多模态学习 | 训练策略 | [OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering](cards-0009.md#paper-151826) | 时序重排训练按片段遮盖模态来阻断单一捷径。 |
+| 机器学习基础与统计 | 理论与统计 | [OmniMechanism Design for Human-AI Collaboration with Impressionable Minds](cards-0009.md#paper-154211) | 人机合作应把看见模型预测对判断的影响纳入设计。 |
+| 多模态学习 | 评测与诊断 | [OmniMemBench: Towards Scalable Evaluation of Long-Term Omni-Modal Agent Memory](cards-0009.md#paper-138886) | 长记忆对照固定可用证据，只增加隔离的干扰信息。 |
+| 计算机视觉 | 推理策略 | [OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation](cards-0009.md#paper-150029) | 生成长视频时给远程相关历史保留检索预算。 |
+| 多模态学习 | 评测与诊断 | [Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamic Mechanisms and Efficient Alignment](cards-0009.md#paper-153308) | 跨模态安全对照应在各正常模态检验对齐防护。 |
+| 多模态学习 | 推理策略 | [OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models](cards-0009.md#paper-153551) | 视听压缩先按任务相关性分配两类模态的保留预算。 |
+| 多模态学习 | 强化学习方法 | [OmniSE: Support-Faithful Optimization for Evidence-Centric Audio-Video Reasoning](cards-0009.md#paper-149329) | 视听推理独立给支持证据、绑定和答案反馈。 |
+| 机器人学 | 表征学习 | [OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](cards-0009.md#paper-151867) | 驾驶几何评估分别校验跨视图对应和深度。 |
+| 计算机视觉 | 模块 | [Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment](cards-0009.md#paper-152619) | 脉冲视觉接连续语言监督时单独校验训练和推理表示差异。 |
+| 大语言模型 | 评测与诊断 | [OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling](cards-0009.md#paper-138921) | 社会推理把提取叙述事实和归属到角色信念分开。 |
+| 多模态学习 | 评测与诊断 | [OmniTraffic: A Controllable Generation Pipeline and Benchmark for Spatio-Temporal Traffic Reasoning](cards-0009.md#paper-139772) | 交通理解用可控多视角仿真分别测试拓扑、时序与信号相位。 |
+| 机器学习基础与统计 | 理论与统计 | [On approximation and estimation of Schrödinger potentials without the curse of dimensionality](cards-0009.md#paper-148151) | 桥式生成复杂度应按目标有效维数核验。 |
+| 机器学习基础与统计 | 优化 | [On Computing Diverse Solutions in the Earth Movers Distance](cards-0009.md#paper-154421) | 用运输距离选择多样子集时区分找解与核算距离。 |
+| 机器学习基础与统计 | 理论与统计 | [On Differentially Private Mechanisms for Linear Regression](cards-0009.md#paper-151830) | 流式线性回归应使用连续观察隐私机制。 |
+| 机器学习基础与统计 | 理论与统计 | [On Differential Private $\ell_1$, $\ell_2$ and $\ell_p^p$ Distance Queries](cards-0009.md#paper-151936) | 频繁查询私有距离和可用树数据结构降低聚合次数。 |
+| 机器人学 | 模型架构 | [One Adapter For All: Towards Generalizable Many-To-One Domain Adaptation In Heterogeneous Collaborative Perception](cards-0009.md#paper-149544) | 多设备协同感知用共享适配器重组域专属模式。 |
+| 大语言模型 | 训练策略 | [One Algorithm, Two Goals: Dual Scoring for Parameter and Data Selection in LLM Fine-Tuning](cards-0009.md#paper-149252) | 数据子集和参数掩码共享同一验证梯度统计。 |
+| 计算机视觉 | 模型架构 | [One Avatar, Any Budget: Robust LoD for Dynamic Gaussian Avatars](cards-0009.md#paper-150139) | 可变渲染预算先保感知区域覆盖，再补被删细节。 |
+| 机器学习基础与统计 | 理论与统计 | [One-Bit Clustering for Two Component Sub-Gaussian Mixture Models](cards-0009.md#paper-154018) | 一比特聚类量化前先消除坐标尖峰。 |
+| 多模态学习 | 表征学习 | [OneCanvas: 3D Scene Understanding via Panoramic Reprojection](cards-0009.md#paper-148266) | 多视图空间问答将图块投到共享全景并保留度量深度。 |
+| 强化学习 | 理论与统计 | [One for All: A Non-Linear Transformer can enable Cross-Domain Generalization for In-Context Reinforcement Learning](cards-0009.md#paper-151574) | 跨域上下文强化学习先检验价值函数是否共享核结构。 |
+| 计算机视觉 | 模块 | [One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection](cards-0009.md#paper-149035) | 视觉异常检测可直接学习各任务各层决策权重。 |
+| 大语言模型 | 理论与统计 | [One-Layer Transformers Provably Learn In-Context K-Nearest Neighbor Prediction with Chain-of-Thought](cards-0009.md#paper-153564) | 需要多个相关示例时以串行中间选择弥补单层注意容量。 |
+| 科学机器学习 | 损失函数 | [One Loss to Rule Them All: Marked Time-to-Event for Structured EHR Foundation Models](cards-0009.md#paper-150016) | 不规则事件序列预训练联合预测事件时间和测量值。 |
+| 大语言模型 | 模型架构 | [One Model, Two Roles: Emergent Specialization in a Shared Recurrent Transformer](cards-0009.md#paper-155435) | 共享循环骨干用状态身份引导不同内部更新职责。 |
+| 科学机器学习 | 优化 | [One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective](cards-0009.md#paper-154314) | 波函数训练对振幅和相位分别设更新信赖区。 |
+| 机器人学 | 训练策略 | [One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation](cards-0009.md#paper-155831) | 进新楼用扫描重建可执行训练任务。 |
+| 机器学习基础与统计 | 理论与统计 | [One-Shot Generative Flows: Existence and Obstructions](cards-0009.md#paper-155557) | 选单步流前，检查目标模式分离是否排除了端点独立的直线流。 |
+| 机器学习基础与统计 | 理论与统计 | [One-Shot Private Confidence Regions via Resampling](cards-0009.md#paper-151541) | 私有置信区间用重采样时，先做内部估计，最终只发布加噪分位数。 |
+| 大语言模型 | 评测与诊断 | [One Temperature to Rule Them All?](cards-0009.md#paper-155832) | 比较多温度采样前，给每个 pass@K 预算调一个单温度参照。 |
+| 机器学习基础与统计 | 训练策略 | [One-Time Soft Alignment Enables Resilient Learning without Weight Transport](cards-0009.md#paper-154791) | 反馈对齐难训练时，检验能否仅在初始化进行部分权重方向对齐。 |
+| 计算机视觉 | 数据策略 | [One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation](cards-0009.md#paper-151767) | 缺乏多视角对时，用单图深度重投影产生有效区域的伪监督。 |
+| 计算机视觉 | 模型架构 | [One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction](cards-0009.md#paper-153304) | 异步多相机重建时，保持共享外观但按源时间建位姿轨迹。 |
+| 机器学习基础与统计 | 理论与统计 | [On JEPA Isotropy](cards-0009.md#paper-155423) | 给 JEPA 设正则时，把预测秩需求和白化后的条件数分开看。 |
+| 科学机器学习 | 评测与诊断 | [On Length Bias in EEG-to-Text Decoding](cards-0009.md#paper-149964) | 对填充后的时序解码，保留原长度和填充值，用随机信号替换有效区作为捷径对照。 |
+| 机器学习基础与统计 | 评测与诊断 | [Online Active Testing: Adaptive Importance Sampling for Unbiased Risk Estimation in Data Streams](cards-0009.md#paper-154789) | 流数据不能保存且标注有限时，按预估损失二阶矩即时分配查询。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Allocation with Differential Privacy](cards-0009.md#paper-150540) | 在线分配先明确联合与本地隐私需求，再比较可达效用。 |
+| 机器学习基础与统计 | 优化 | [Online Allocation with Unknown Shared Supply](cards-0009.md#paper-151416) | 库存未知且无法补回已丢需求时按阈值比例分配。 |
+| 科学机器学习 | 理论与统计 | [Online Bayesian Calibration under Gradual and Abrupt System Changes](cards-0009.md#paper-151573) | 在线数字孪生分离校准参数、模拟偏差与突变重启。 |
+| 科学机器学习 | 训练策略 | [Online Bayesian Recalibration of Brain–Computer Interfaces with Language Model Potentials](cards-0009.md#paper-151000) | 在线伪标签校准保留多个候选的不确定性。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Bernstein-von Mises theorem](cards-0009.md#paper-156664) | 顺序贝叶斯近似需依据参数维度选批次。 |
+| 强化学习 | 理论与统计 | [Online Budget Allocation with Censored Semi-Bandit Feedback](cards-0009.md#paper-151323) | 任务只在成功时揭露回报，应分开估成功曲线与奖励。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Causal Configuration for Networked Systems via Doubly Robust Steady-State Learning](cards-0009.md#paper-149162) | 网络资源配置估稳态效果时要记录邻域干扰与采集成本。 |
+| 机器学习基础与统计 | 评测与诊断 | [Online Change-point Detection using Foundation Probabilistic Forecasting Models](cards-0009.md#paper-148517) | 变点检测把预测分位残差标准化后校准误报。 |
+| 大语言模型 | 评测与诊断 | [Online Conformal Abstention for Factuality Control Under Adversarial Bandit Feedback](cards-0009.md#paper-153343) | 部分反馈的在线拒答同时管控错误发现率与回答覆盖。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Control with Multiple Sensors](cards-0009.md#paper-153920) | 多传感器控制用最优单传感器策略作可解释预算参考。 |
+| 大语言模型 | 数据策略 | [Online Data Selection for Instruction Tuning via Gaussian Processes](cards-0009.md#paper-155444) | 在线指导微调可在整个语义空间重估训练样本效用。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Differentially Private Consistent Clustering](cards-0009.md#paper-151530) | 流式聚类将隐私转换与中心更新算法分离。 |
+| 机器学习基础与统计 | 表征学习 | [Online Directional Regression for Streaming Sufficient Dimension Reduction](cards-0009.md#paper-148149) | 流式充分降维同时保留条件均值与方差。 |
+| 大语言模型 | 评测与诊断 | [Online Evaluation of LLMs via Dyadic Designs](cards-0009.md#paper-139644) | 顺序 A/B 用已有难度等协变量做层次均衡分配。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Fair Division Meets Reordering Buffers](cards-0009.md#paper-153060) | 公平分配在不可撤销前给有限缓冲。 |
+| 强化学习 | 强化学习方法 | [Online Finetuning Decision Transformers with Pure RL Gradients](cards-0009.md#paper-150024) | 在线决策 Transformer 使用策略比时禁止直接用事后回报改条件。 |
+| 科学机器学习 | 理论与统计 | [Online Imitation Learning for Stabilizing Vlasov--Poisson Plasmas](cards-0009.md#paper-155670) | 部分观测且不稳定的控制可按分布偏移验收模仿学习。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Learning in Stabilized Linear Dynamical Games with Adversarial Disturbances](cards-0009.md#paper-150975) | 共享动态控制先保证基线稳定，再学习扰动修正。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Learning of Group-Stable Coalition Structures](cards-0009.md#paper-153773) | 在线组队分开探索可稳定划分与确认其存在性。 |
+| 机器学习基础与统计 | 理论与统计 | [Online Learning on Hidden-Convex Losses via Algorithmic Equivalence: Optimal Regret, Geometric Barrier, and Bandit Feedback](cards-0009.md#paper-149131) | 隐凸重参数化可保在线梯度下降速率，但需验证 Hessian 相容。 |

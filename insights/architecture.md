@@ -484,5 +484,15 @@
 - [No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos](../conferences/neurips-2026/cards-0009.md#paper-155864)
 - [Normalizing Trajectory Models](../conferences/neurips-2026/cards-0009.md#paper-148856)
 - [NRF-GS: Neural Residual Fields for Expressive and Compact Gaussian Splatting](../conferences/neurips-2026/cards-0009.md#paper-153399)
+- [N-vium: Mixture-of-Exits Transformer for Accelerated Exact Generation](../conferences/neurips-2026/cards-0009.md#paper-154834)
+- [OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation](../conferences/neurips-2026/cards-0009.md#paper-152937)
+- [Objective-Aligned Amortized Inference for Offline Bayes-Adaptive MDP Model Learning](../conferences/neurips-2026/cards-0009.md#paper-151331)
+- [OBJECT-UNI: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation](../conferences/neurips-2026/cards-0009.md#paper-154103)
+- [OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting](../conferences/neurips-2026/cards-0009.md#paper-150573)
+- [OmniGF: A Dual-Branch Vision-Language Framework for Unified Gaze Following](../conferences/neurips-2026/cards-0009.md#paper-155919)
+- [One Adapter For All: Towards Generalizable Many-To-One Domain Adaptation In Heterogeneous Collaborative Perception](../conferences/neurips-2026/cards-0009.md#paper-149544)
+- [One Avatar, Any Budget: Robust LoD for Dynamic Gaussian Avatars](../conferences/neurips-2026/cards-0009.md#paper-150139)
+- [One Model, Two Roles: Emergent Specialization in a Shared Recurrent Transformer](../conferences/neurips-2026/cards-0009.md#paper-155435)
+- [One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-153304)
 
 <!-- conference-classification:end -->

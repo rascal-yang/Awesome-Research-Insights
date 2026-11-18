@@ -1218,5 +1218,9 @@
 - [Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer](../conferences/neurips-2026/cards-0009.md#paper-151378)
 - [NP-LoRA: Null Space Projection for Subject-Style LoRA Fusion](../conferences/neurips-2026/cards-0009.md#paper-155156)
 - [NPUsper: Eliminating Redundant Computation for Real-Time Whisper on Mobile NPUs](../conferences/neurips-2026/cards-0009.md#paper-152954)
+- [NyoomFloat12: Accelerating LLM Inference via Lossless 12-bit Weight Compression](../conferences/neurips-2026/cards-0009.md#paper-153072)
+- [Object Hallucination Mitigation in Large Vision-Language Models via Self-Vision Dual Masking and Uncertainty-Triggered Assembly](../conferences/neurips-2026/cards-0009.md#paper-150191)
+- [OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation](../conferences/neurips-2026/cards-0009.md#paper-150029)
+- [OmniSelect: Dynamic Modality-Aware Token Compression for Efficient Omni-modal Large Language Models](../conferences/neurips-2026/cards-0009.md#paper-153551)
 
 <!-- conference-classification:end -->

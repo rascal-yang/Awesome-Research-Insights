@@ -386,5 +386,7 @@ Reusable components and local changes to model inputs or connections.
 - [Multiple Instance Verification](../../conferences/neurips-2026/cards-0008.md#paper-156670)
 - [Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions](../../conferences/neurips-2026/cards-0008.md#paper-151760)
 - [Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models](../../conferences/neurips-2026/cards-0009.md#paper-151115)
+- [Omni-SpikeDet: A Spiking Open-World Detector with Dynamic Text–Image Alignment](../../conferences/neurips-2026/cards-0009.md#paper-152619)
+- [One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection](../../conferences/neurips-2026/cards-0009.md#paper-149035)
 
 <!-- conference-classification:end -->

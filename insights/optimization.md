@@ -683,5 +683,12 @@
 - [No-Regret Caching with Delayed Hits](../conferences/neurips-2026/cards-0009.md#paper-154595)
 - [Norm Anchors Make Model Edits Last](../conferences/neurips-2026/cards-0009.md#paper-152750)
 - [Not All Routing Drift Is Harmful: Trust-Region Projection for Class-Incremental Learning](../conferences/neurips-2026/cards-0009.md#paper-151931)
+- [NuMuon: Nuclear-Norm-Constrained Muon for Compressible LLM Training](../conferences/neurips-2026/cards-0009.md#paper-155075)
+- [ObsConDA: Observability-Constrained Data Assimilation with Control-Space Inference](../conferences/neurips-2026/cards-0009.md#paper-152077)
+- [OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization](../conferences/neurips-2026/cards-0009.md#paper-152912)
+- [Offline Constrained Reinforcement Learning under Partial Data Coverage](../conferences/neurips-2026/cards-0009.md#paper-151729)
+- [On Computing Diverse Solutions in the Earth Movers Distance](../conferences/neurips-2026/cards-0009.md#paper-154421)
+- [One More Time: Revisiting Neural Quantum States from a Reinforcement Learning Perspective](../conferences/neurips-2026/cards-0009.md#paper-154314)
+- [Online Allocation with Unknown Shared Supply](../conferences/neurips-2026/cards-0009.md#paper-151416)
 
 <!-- conference-classification:end -->

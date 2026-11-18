@@ -603,5 +603,9 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Not All Tokens Should Be Treated Equally: Context Credits Reassignment](../../conferences/neurips-2026/cards-0009.md#paper-152065)
 - [Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR](../../conferences/neurips-2026/cards-0009.md#paper-155810)
 - [Not Only Where, But When: Temporal Scheduling for RLVR](../../conferences/neurips-2026/cards-0009.md#paper-150146)
+- [OASES: Outcome-Aligned Search-Evaluation Co-Training for Agentic Search](../../conferences/neurips-2026/cards-0009.md#paper-148732)
+- [OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models](../../conferences/neurips-2026/cards-0009.md#paper-152279)
+- [OmniSE: Support-Faithful Optimization for Evidence-Centric Audio-Video Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-149329)
+- [Online Finetuning Decision Transformers with Pure RL Gradients](../../conferences/neurips-2026/cards-0009.md#paper-150024)
 
 <!-- conference-classification:end -->

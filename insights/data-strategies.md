@@ -350,5 +350,9 @@
 - [New Coresets for Fair Clustering](../conferences/neurips-2026/cards-0009.md#paper-152649)
 - [No Model Required: Text Entropy Rate Filtering Prevents Iterative Fine-Tuning Collapse](../conferences/neurips-2026/cards-0009.md#paper-155913)
 - [Nonparametric Distribution Matching for Self-Supervised Whole-Slide Image Condensation](../conferences/neurips-2026/cards-0009.md#paper-153235)
+- [OFBD: Object-Focused Background Debiasing for Long-Tailed Learning](../conferences/neurips-2026/cards-0009.md#paper-152979)
+- [OmniEgoCap: Camera-Agnostic Sequence-Level Egocentric Motion Reconstruction](../conferences/neurips-2026/cards-0009.md#paper-151885)
+- [One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation](../conferences/neurips-2026/cards-0009.md#paper-151767)
+- [Online Data Selection for Instruction Tuning via Gaussian Processes](../conferences/neurips-2026/cards-0009.md#paper-155444)
 
 <!-- conference-classification:end -->
