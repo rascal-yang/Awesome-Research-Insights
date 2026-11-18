@@ -194,6 +194,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration](../../conferences/icml-2026/cards/5301-5400.md#yang26s-reinforcement-learning) · 中文
 - [One-Way Policy Optimization for Self-Evolving LLMs](../../conferences/icml-2026/cards/5401-5500.md#yang26ay-reinforcement-learning) · 中文
 - [Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals](../../conferences/icml-2026/cards/5401-5500.md#yang26az-reinforcement-learning) · 中文
+- [Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization](../../conferences/icml-2026/cards/5401-5500.md#yao26a-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -218,6 +219,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](../../conferences/icml-2026/cards/4601-4700.md#wang26an-reinforcement-learning) · 中文
 - [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](../../conferences/icml-2026/cards/4601-4700.md#wang26bs-reinforcement-learning) · 中文
 - [TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment](../../conferences/icml-2026/cards/4701-4800.md#wang26fj-reinforcement-learning) · 中文
+- [MotionGRPO: Overcoming Low Intra-Group Diversity in GRPO-Based Egocentric Motion Recovery](../../conferences/icml-2026/cards/5401-5500.md#yao26l-reinforcement-learning) · 中文
 
 <a id="by-nlp"></a>
 

@@ -624,6 +624,8 @@
 - [按局部缺失特征映射作一轮分位回归聚合](../conferences/icml-2026/cards/5401-5500.md#yang26bf-theory-statistics) · One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data
 - [两次梯度的高阶Langevin离散化](../conferences/icml-2026/cards/5401-5500.md#yang26bz-theory-statistics) · Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity
 - [区间专家的二阶聚合控制切换遗憾](../conferences/icml-2026/cards/5401-5500.md#yang26ce-theory-statistics) · Logarithmic Switching Regret for Online Convex Optimization
+- [二进制交互核化的独立性检验](../conferences/icml-2026/cards/5401-5500.md#yang26dt-theory-statistics) · Adaptive Multiscale Binary Expansion Tests for Independence
+- [跨维普适性需要匹配极限拓扑](../conferences/icml-2026/cards/5401-5500.md#yao26f-theory-statistics) · Any-dimensional invariant universality
 
 <a id="by-graph-and-recommendation"></a>
 

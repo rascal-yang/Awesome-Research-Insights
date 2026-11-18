@@ -67,6 +67,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wei26h-architecture"></a>[RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26h)
 - <a id="xue26k-architecture"></a>[Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../../conferences/icml-2026/cards/5301-5400.md#paper-xue26k)
 - <a id="yang26bp-architecture"></a>[Recursive Models for Long-Horizon Reasoning](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bp)
+- <a id="yao26g-architecture"></a>[Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26g)
 
 <a id="by-modules"></a>
 
@@ -174,6 +175,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26t-loss-functions"></a>[Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26t)
 - <a id="yang26dc-loss-functions"></a>[Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dc)
 - <a id="yang26dp-loss-functions"></a>[Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dp)
+- <a id="yao26j-loss-functions"></a>[SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26j)
 
 <a id="by-optimization"></a>
 
@@ -463,6 +465,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26s-reinforcement-learning"></a>[Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26s)
 - <a id="yang26ay-reinforcement-learning"></a>[One-Way Policy Optimization for Self-Evolving LLMs](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ay)
 - <a id="yang26az-reinforcement-learning"></a>[Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26az)
+- <a id="yao26a-reinforcement-learning"></a>[Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26a)
 
 <a id="by-training-strategies"></a>
 
@@ -1055,6 +1058,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yang26bx-inference"></a>[Improving Sampling for Masked Diffusion Models via Information Gain](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bx)
 - <a id="yang26ch-inference"></a>[Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ch)
 - <a id="yang26dj-inference"></a>[Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dj)
+- <a id="yang26ds-inference"></a>[ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ds)
 
 <a id="by-representation-learning"></a>
 
@@ -1431,6 +1435,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="yan26n-evaluation"></a>[MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26n)
 - <a id="yan26t-evaluation"></a>[CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26t)
 - <a id="yang26al-evaluation"></a>[Shared Lexical Task Representations Explain Behavioral Variability In LLMs](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26al)
+- <a id="yang26dv-evaluation"></a>[Profiling the Irrational Agent: Cognitive Modeling of LLM Behaviors in Sequential Jailbreaks](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dv)
 
 <a id="by-theory-statistics"></a>
 

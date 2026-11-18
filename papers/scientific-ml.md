@@ -430,6 +430,7 @@
 - <a id="ugalde26a-evaluation"></a>[A Geometric Lens on Physics-Aligned Data Compression](../conferences/icml-2026/cards/4501-4600.md#paper-ugalde26a)
 - <a id="wang26cc-evaluation"></a>[Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cc)
 - <a id="xia26a-evaluation"></a>[Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xia26a)
+- <a id="yao26k-evaluation"></a>[The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench](../conferences/icml-2026/cards/5401-5500.md#paper-yao26k)
 
 <a id="by-theory-statistics"></a>
 

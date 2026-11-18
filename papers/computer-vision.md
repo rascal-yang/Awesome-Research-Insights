@@ -252,6 +252,7 @@
 - <a id="wang26an-reinforcement-learning"></a>[UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26an)
 - <a id="wang26bs-reinforcement-learning"></a>[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bs)
 - <a id="wang26fj-reinforcement-learning"></a>[TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fj)
+- <a id="yao26l-reinforcement-learning"></a>[MotionGRPO: Overcoming Low Intra-Group Diversity in GRPO-Based Egocentric Motion Recovery](../conferences/icml-2026/cards/5401-5500.md#paper-yao26l)
 
 <a id="by-training-strategies"></a>
 
@@ -490,6 +491,7 @@
 - <a id="xu26be-inference"></a>[EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation](../conferences/icml-2026/cards/5201-5300.md#paper-xu26be)
 - <a id="yang26aa-inference"></a>[Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models](../conferences/icml-2026/cards/5301-5400.md#paper-yang26aa)
 - <a id="yang26cy-inference"></a>[DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cy)
+- <a id="yao26b-inference"></a>[Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](../conferences/icml-2026/cards/5401-5500.md#paper-yao26b)
 
 <a id="by-representation-learning"></a>
 

@@ -64,6 +64,7 @@
 - [以Jacobian正则区分稳定与有效吸引子](../conferences/icml-2026/cards/5301-5400.md#yang26t-loss-functions) · Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models
 - [用保留和遗忘的自参考能量边界](../conferences/icml-2026/cards/5401-5500.md#yang26dc-loss-functions) · Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning
 - [区分相对偏好拟合与绝对概率排序](../conferences/icml-2026/cards/5401-5500.md#yang26dp-loss-functions) · Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment
+- [只惩罚正确推理的高概率窗口](../conferences/icml-2026/cards/5401-5500.md#yao26j-loss-functions) · SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -127,6 +128,7 @@
 
 - [检索器生成正则](../conferences/icml-2026/cards/0301-0400.md#cai26d-loss-functions) · ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization
 - [按真假标签约束语音内容与高频残差的一致程度](../conferences/icml-2026/cards/1501-1600.md#hidekel26a-loss-functions) · SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection
+- [局部语义一致的非均匀OT伪标签](../conferences/icml-2026/cards/5401-5500.md#yao26d-loss-functions) · Beyond Looking Up, Try Looking Around: Harmonizing Global Structure and Local Consistency in Optimal Transport for Short Text Clustering
 
 <a id="by-reinforcement-learning"></a>
 
@@ -281,6 +283,7 @@
 - [源目标差校正的冻结预测蒸馏](../conferences/icml-2026/cards/5301-5400.md#yan26l-loss-functions) · Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising
 - [多源保形并集的联合score学习](../conferences/icml-2026/cards/5301-5400.md#yang26ad-loss-functions) · Multi-Distribution Robust Conformal Prediction
 - [用支持距离约束生成式数值代理](../conferences/icml-2026/cards/5401-5500.md#yang26dd-loss-functions) · Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization
+- [Shapley交互启发的Jacobian正则](../conferences/icml-2026/cards/5401-5500.md#yang26dx-loss-functions) · Shapley Regularized Neural Granger Causality
 
 <a id="by-graph-and-recommendation"></a>
 

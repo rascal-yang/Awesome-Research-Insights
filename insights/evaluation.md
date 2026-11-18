@@ -361,6 +361,7 @@
 - [多记录记忆污染的集合级评测](../conferences/icml-2026/cards/5301-5400.md#yan26n-evaluation) · MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections
 - [内部干预目标导出的查询指纹](../conferences/icml-2026/cards/5301-5400.md#yan26t-evaluation) · CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models
 - [跨prompt的词汇化任务信号与竞争](../conferences/icml-2026/cards/5301-5400.md#yang26al-evaluation) · Shared Lexical Task Representations Explain Behavioral Variability In LLMs
+- [多轮安全漂移的低维行为拟合](../conferences/icml-2026/cards/5401-5500.md#yang26dv-evaluation) · Profiling the Irrational Agent: Cognitive Modeling of LLM Behaviors in Sequential Jailbreaks
 
 <a id="by-computer-vision"></a>
 
@@ -712,4 +713,5 @@
 - [rate-whitened-observable-alignment](../conferences/icml-2026/cards/4501-4600.md#ugalde26a-evaluation) · A Geometric Lens on Physics-Aligned Data Compression
 - [按训练区间选择SciML优化器](../conferences/icml-2026/cards/4601-4700.md#wang26cc-evaluation) · Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization
 - [几何探针指导算子重注入](../conferences/icml-2026/cards/5101-5200.md#xia26a-evaluation) · Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning
+- [极端物理regime的共享线性解码诊断](../conferences/icml-2026/cards/5401-5500.md#yao26k-evaluation) · The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench
 <!-- classification:end -->

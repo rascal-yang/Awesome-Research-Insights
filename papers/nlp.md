@@ -34,6 +34,7 @@
 
 - <a id="cai26d-loss-functions"></a>[ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](../conferences/icml-2026/cards/0301-0400.md#paper-cai26d)
 - <a id="hidekel26a-loss-functions"></a>[SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection](../conferences/icml-2026/cards/1501-1600.md#paper-hidekel26a)
+- <a id="yao26d-loss-functions"></a>[Beyond Looking Up, Try Looking Around: Harmonizing Global Structure and Local Consistency in Optimal Transport for Short Text Clustering](../conferences/icml-2026/cards/5401-5500.md#paper-yao26d)
 
 <a id="by-optimization"></a>
 

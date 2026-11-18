@@ -67,6 +67,7 @@ Model-wide design and information flow.
 - [RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference](../../conferences/icml-2026/cards/4901-5000.md#wei26h-architecture) · 中文
 - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../../conferences/icml-2026/cards/5301-5400.md#xue26k-architecture) · 中文
 - [Recursive Models for Long-Horizon Reasoning](../../conferences/icml-2026/cards/5401-5500.md#yang26bp-architecture) · 中文
+- [Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers](../../conferences/icml-2026/cards/5401-5500.md#yao26g-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 

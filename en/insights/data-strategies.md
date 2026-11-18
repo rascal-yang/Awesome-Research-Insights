@@ -259,6 +259,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](../../conferences/icml-2026/cards/4801-4900.md#wang26jz-data-strategies) · 中文
 - [Progressive Graph Structure Adjustment for Homophily Shift Adaptation](../../conferences/icml-2026/cards/4901-5000.md#wen26j-data-strategies) · 中文
 - [Scalable Topology-Preserving Graph Coarsening: Concepts and Algorithms](../../conferences/icml-2026/cards/5001-5100.md#wu26ac-data-strategies) · 中文
+- [H$^2$CL: Heterogeneity-Aware Hypergraph Contrastive Learning for Robust Representation Learning](../../conferences/icml-2026/cards/5401-5500.md#yao26e-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

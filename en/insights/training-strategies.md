@@ -440,6 +440,7 @@ Training schedules, curricula, and task or stage composition.
 - [Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn](../../conferences/icml-2026/cards/5101-5200.md#xiao26b-training-strategies) · 中文
 - [Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing](../../conferences/icml-2026/cards/5101-5200.md#xiao26m-training-strategies) · 中文
 - [Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning](../../conferences/icml-2026/cards/5101-5200.md#xiong26d-training-strategies) · 中文
+- [Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](../../conferences/icml-2026/cards/5401-5500.md#yao26m-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

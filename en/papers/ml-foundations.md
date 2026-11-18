@@ -202,6 +202,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yan26l-loss-functions"></a>[Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](../../conferences/icml-2026/cards/5301-5400.md#paper-yan26l)
 - <a id="yang26ad-loss-functions"></a>[Multi-Distribution Robust Conformal Prediction](../../conferences/icml-2026/cards/5301-5400.md#paper-yang26ad)
 - <a id="yang26dd-loss-functions"></a>[Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dd)
+- <a id="yang26dx-loss-functions"></a>[Shapley Regularized Neural Granger Causality](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dx)
 
 <a id="by-optimization"></a>
 
@@ -554,6 +555,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="xiao26b-training-strategies"></a>[Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26b)
 - <a id="xiao26m-training-strategies"></a>[Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26m)
 - <a id="xiong26d-training-strategies"></a>[Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26d)
+- <a id="yao26m-training-strategies"></a>[Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26m)
 
 <a id="by-data-strategies"></a>
 
@@ -1226,4 +1228,6 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="yang26bf-theory-statistics"></a>[One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bf)
 - <a id="yang26bz-theory-statistics"></a>[Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26bz)
 - <a id="yang26ce-theory-statistics"></a>[Logarithmic Switching Regret for Online Convex Optimization](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26ce)
+- <a id="yang26dt-theory-statistics"></a>[Adaptive Multiscale Binary Expansion Tests for Independence](../../conferences/icml-2026/cards/5401-5500.md#paper-yang26dt)
+- <a id="yao26f-theory-statistics"></a>[Any-dimensional invariant universality](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26f)
 <!-- classification:end -->

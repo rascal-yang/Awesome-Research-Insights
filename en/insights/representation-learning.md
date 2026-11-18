@@ -130,6 +130,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning the Minimum Action Distance](../../conferences/icml-2026/cards/4201-4300.md#steccanella26a-representation-learning) · 中文
 - [Consistent Zero-Shot Imitation with Contrastive Goal Inference](../../conferences/icml-2026/cards/4901-5000.md#wantlin26a-representation-learning) · 中文
 - [Hierarchical Goal Abstractions via Learned Subset Relations](../../conferences/icml-2026/cards/5001-5100.md#wurzberger26a-representation-learning) · 中文
+- [Role-Level Inductive Bias for Cross-Task Generalization in Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/5401-5500.md#yao26i-representation-learning) · 中文
 
 <a id="by-robotics"></a>
 

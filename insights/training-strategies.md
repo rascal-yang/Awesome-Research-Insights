@@ -440,6 +440,7 @@
 - [记录可减去的客户端残差](../conferences/icml-2026/cards/5101-5200.md#xiao26b-training-strategies) · Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn
 - [稀疏vine初始化与全vine拟合解耦](../conferences/icml-2026/cards/5101-5200.md#xiao26m-training-strategies) · Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing
 - [冻结表示的混合域困难重权](../conferences/icml-2026/cards/5101-5200.md#xiong26d-training-strategies) · Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning
+- [带任意类索引的噪声域对齐](../conferences/icml-2026/cards/5401-5500.md#yao26m-training-strategies) · Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -281,6 +281,7 @@ Learning from interaction, feedback, and offline experience.
 - <a id="steccanella26a-representation-learning"></a>[Learning the Minimum Action Distance](../../conferences/icml-2026/cards/4201-4300.md#paper-steccanella26a)
 - <a id="wantlin26a-representation-learning"></a>[Consistent Zero-Shot Imitation with Contrastive Goal Inference](../../conferences/icml-2026/cards/4901-5000.md#paper-wantlin26a)
 - <a id="wurzberger26a-representation-learning"></a>[Hierarchical Goal Abstractions via Learned Subset Relations](../../conferences/icml-2026/cards/5001-5100.md#paper-wurzberger26a)
+- <a id="yao26i-representation-learning"></a>[Role-Level Inductive Bias for Cross-Task Generalization in Multi-Agent Reinforcement Learning](../../conferences/icml-2026/cards/5401-5500.md#paper-yao26i)
 
 <a id="by-evaluation"></a>
 

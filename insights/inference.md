@@ -360,6 +360,7 @@
 - [候选后继entropy驱动的mask解码](../conferences/icml-2026/cards/5401-5500.md#yang26bx-inference) · Improving Sampling for Masked Diffusion Models via Information Gain
 - [自回归过程内的局部修订动作](../conferences/icml-2026/cards/5401-5500.md#yang26ch-inference) · Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation
 - [跨头统一选token并跨层复用](../conferences/icml-2026/cards/5401-5500.md#yang26dj-inference) · Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention
+- [指数位分拆压缩与状态感知调度](../conferences/icml-2026/cards/5401-5500.md#yang26ds-inference) · ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling
 
 <a id="by-computer-vision"></a>
 
@@ -487,6 +488,7 @@
 - [协方差缓存外推与信息锚点](../conferences/icml-2026/cards/5201-5300.md#xu26be-inference) · EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation
 - [量化误差校准的噪声时刻变形](../conferences/icml-2026/cards/5301-5400.md#yang26aa-inference) · Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models
 - [用反演残差平移重建支路的求值点](../conferences/icml-2026/cards/5401-5500.md#yang26cy-inference) · DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing
+- [统计锚定与旋转对齐的prompt重注入](../conferences/icml-2026/cards/5401-5500.md#yao26b-inference) · Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers
 
 <a id="by-nlp"></a>
 

@@ -360,6 +360,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Improving Sampling for Masked Diffusion Models via Information Gain](../../conferences/icml-2026/cards/5401-5500.md#yang26bx-inference) · 中文
 - [Autoregressive, Yet Revisable: In Decoding Revision for Secure Code Generation](../../conferences/icml-2026/cards/5401-5500.md#yang26ch-inference) · 中文
 - [Less Is More: Fast and Accurate Reasoning with Cross-Head Unified Sparse Attention](../../conferences/icml-2026/cards/5401-5500.md#yang26dj-inference) · 中文
+- [ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling](../../conferences/icml-2026/cards/5401-5500.md#yang26ds-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -487,6 +488,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [EigenCache: Rethinking Diffusion Acceleration as Covariance-Optimal Forecasting and Submodular Information Allocation](../../conferences/icml-2026/cards/5201-5300.md#xu26be-inference) · 中文
 - [Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models](../../conferences/icml-2026/cards/5301-5400.md#yang26aa-inference) · 中文
 - [DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing](../../conferences/icml-2026/cards/5401-5500.md#yang26cy-inference) · 中文
+- [Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers](../../conferences/icml-2026/cards/5401-5500.md#yao26b-inference) · 中文
 
 <a id="by-nlp"></a>
 

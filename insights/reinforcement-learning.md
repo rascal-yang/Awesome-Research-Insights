@@ -194,6 +194,7 @@
 - [用难度补采样而非统一扩rollout](../conferences/icml-2026/cards/5301-5400.md#yang26s-reinforcement-learning) · Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration
 - [让参考策略仅调节优势更新幅度](../conferences/icml-2026/cards/5401-5500.md#yang26ay-reinforcement-learning) · One-Way Policy Optimization for Self-Evolving LLMs
 - [随机救回clip边界外的小部分更新](../conferences/icml-2026/cards/5401-5500.md#yang26az-reinforcement-learning) · Clipping Bottleneck: Stabilizing RLVR via Stochastic Recovery of Near-Boundary Signals
+- [连续用户请求与提前耗尽的分离奖励](../conferences/icml-2026/cards/5401-5500.md#yao26a-reinforcement-learning) · Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization
 
 <a id="by-computer-vision"></a>
 
@@ -218,6 +219,7 @@
 - [前向重加噪声轨迹的GRPO](../conferences/icml-2026/cards/4601-4700.md#wang26an-reinforcement-learning) · UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models
 - [几何奖励与动态约束轮换](../conferences/icml-2026/cards/4601-4700.md#wang26bs-reinforcement-learning) · World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
 - [跨轨迹正负锚对齐](../conferences/icml-2026/cards/4701-4800.md#wang26fj-reinforcement-learning) · TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment
+- [平滑条件扰动提升重建GRPO多样性](../conferences/icml-2026/cards/5401-5500.md#yao26l-reinforcement-learning) · MotionGRPO: Overcoming Low Intra-Group Diversity in GRPO-Based Egocentric Motion Recovery
 
 <a id="by-nlp"></a>
 

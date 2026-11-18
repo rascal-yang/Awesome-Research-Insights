@@ -67,6 +67,7 @@
 - [密集稀疏联合循环注意力](../conferences/icml-2026/cards/4901-5000.md#wei26h-architecture) · RAT+: Train Dense, Infer Sparse - Recurrence Augmented Attention for Dilated Inference
 - [同decoder骨干的任意顺序建模](../conferences/icml-2026/cards/5301-5400.md#xue26k-architecture) · Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture
 - [活跃上下文与递归栈的分离](../conferences/icml-2026/cards/5401-5500.md#yang26bp-architecture) · Recursive Models for Long-Horizon Reasoning
+- [递归记忆生成FFN低秩调制](../conferences/icml-2026/cards/5401-5500.md#yao26g-architecture) · Integrated Episodic and Semantic Memory via Modulating Transformer FeedForward Layers
 
 <a id="by-computer-vision"></a>
 

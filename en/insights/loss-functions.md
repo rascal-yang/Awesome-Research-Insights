@@ -64,6 +64,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models](../../conferences/icml-2026/cards/5301-5400.md#yang26t-loss-functions) · 中文
 - [Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning](../../conferences/icml-2026/cards/5401-5500.md#yang26dc-loss-functions) · 中文
 - [Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment](../../conferences/icml-2026/cards/5401-5500.md#yang26dp-loss-functions) · 中文
+- [SLAT: Segment-Level Adaptive Trimming for Efficient CoT Reasoning](../../conferences/icml-2026/cards/5401-5500.md#yao26j-loss-functions) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -127,6 +128,7 @@ Objectives, auxiliary supervision, and regularization.
 
 - [ElicitR: Unlocking Latent Reasoning in Dense Retrievers via Generative Regularization](../../conferences/icml-2026/cards/0301-0400.md#cai26d-loss-functions) · 中文
 - [SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection](../../conferences/icml-2026/cards/1501-1600.md#hidekel26a-loss-functions) · 中文
+- [Beyond Looking Up, Try Looking Around: Harmonizing Global Structure and Local Consistency in Optimal Transport for Short Text Clustering](../../conferences/icml-2026/cards/5401-5500.md#yao26d-loss-functions) · 中文
 
 <a id="by-reinforcement-learning"></a>
 
@@ -281,6 +283,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](../../conferences/icml-2026/cards/5301-5400.md#yan26l-loss-functions) · 中文
 - [Multi-Distribution Robust Conformal Prediction](../../conferences/icml-2026/cards/5301-5400.md#yang26ad-loss-functions) · 中文
 - [Support-Proximity Augmented Diffusion Estimation for Offline Black-Box Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26dd-loss-functions) · 中文
+- [Shapley Regularized Neural Granger Causality](../../conferences/icml-2026/cards/5401-5500.md#yang26dx-loss-functions) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

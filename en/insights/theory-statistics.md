@@ -624,6 +624,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [One-Shot Weighted Ensemble Estimation for Federated Quantile Regression: Optimal Statistical Guarantees under Heterogeneous Structured Data](../../conferences/icml-2026/cards/5401-5500.md#yang26bf-theory-statistics) · 中文
 - [Accelerating Langevin Monte Carlo via Efficient Stochastic Runge-Kutta Methods beyond Log-Concavity](../../conferences/icml-2026/cards/5401-5500.md#yang26bz-theory-statistics) · 中文
 - [Logarithmic Switching Regret for Online Convex Optimization](../../conferences/icml-2026/cards/5401-5500.md#yang26ce-theory-statistics) · 中文
+- [Adaptive Multiscale Binary Expansion Tests for Independence](../../conferences/icml-2026/cards/5401-5500.md#yang26dt-theory-statistics) · 中文
+- [Any-dimensional invariant universality](../../conferences/icml-2026/cards/5401-5500.md#yao26f-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

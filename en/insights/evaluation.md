@@ -361,6 +361,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MemIncept: Steering LLM Agents via Cooperative Stealthy Memory Injections](../../conferences/icml-2026/cards/5301-5400.md#yan26n-evaluation) · 中文
 - [CircuitPrint: Mechanistic Circuit Fingerprints for Large Language Models](../../conferences/icml-2026/cards/5301-5400.md#yan26t-evaluation) · 中文
 - [Shared Lexical Task Representations Explain Behavioral Variability In LLMs](../../conferences/icml-2026/cards/5301-5400.md#yang26al-evaluation) · 中文
+- [Profiling the Irrational Agent: Cognitive Modeling of LLM Behaviors in Sequential Jailbreaks](../../conferences/icml-2026/cards/5401-5500.md#yang26dv-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -712,4 +713,5 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Geometric Lens on Physics-Aligned Data Compression](../../conferences/icml-2026/cards/4501-4600.md#ugalde26a-evaluation) · 中文
 - [Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization](../../conferences/icml-2026/cards/4601-4700.md#wang26cc-evaluation) · 中文
 - [Do Neural Operators Forget Geometry? The Forgetting Hypothesis in Deep Operator Learning](../../conferences/icml-2026/cards/5101-5200.md#xia26a-evaluation) · 中文
+- [The Perception–Physics Paradox: Probing Scientific Alignment with TC-Bench](../../conferences/icml-2026/cards/5401-5500.md#yao26k-evaluation) · 中文
 <!-- classification:end -->
