@@ -68,8 +68,8 @@ number	openreview_id	title	paper_url	reason	status
 67	Q4ehHMIPmb	RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems	https://openreview.net/forum?id=Q4ehHMIPmb		pending
 68	GqqwqejrTq	MessyMem: Learning-from-Doing Memory for Mobile Manipulation	https://openreview.net/forum?id=GqqwqejrTq	将交互得知的属性与关键帧绑定到可更新场景图	included
 69	aPosmVaV9y	Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision	https://openreview.net/forum?id=aPosmVaV9y	把任务显著性标注搬到训练并蒸馏成潜工作记忆	included
-70	ndhpQ86iXs	Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams	https://openreview.net/forum?id=ndhpQ86iXs		pending
-71	dSbtHPqFj9	Memory Anchors for Continual Robot Learning	https://openreview.net/forum?id=dSbtHPqFj9		pending
+70	ndhpQ86iXs	Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams	https://openreview.net/forum?id=ndhpQ86iXs	用不中断的并发任务检验按手臂记录的自行动历史	included
+71	dSbtHPqFj9	Memory Anchors for Continual Robot Learning	https://openreview.net/forum?id=dSbtHPqFj9	回放优先保留与新任务表征近但动作冲突的旧样本	included
 72	kB0KO1Wife	Light-WAM: Efficient World Action Models with State-Fusion Action Decoding	https://openreview.net/forum?id=kB0KO1Wife		pending
 73	OIhLrULoIq	World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis	https://openreview.net/forum?id=OIhLrULoIq		pending
 74	PniGejQAdF	Large Video Planner Enables Generalizable Robot Control	https://openreview.net/forum?id=PniGejQAdF		pending
