@@ -848,5 +848,14 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [HoTS: Homophily-Aware Temperature Scaling for Graph Neural Network Calibration](../../conferences/neurips-2026/cards-0006.md#paper-148576)
 - [How Accurately Can a Gaussian Approximate Stochastic Approximation Iterates?](../../conferences/neurips-2026/cards-0006.md#paper-154488)
 - [How are linear representations learned? Exact solutions to the dynamics of abstraction](../../conferences/neurips-2026/cards-0006.md#paper-155691)
+- [How Deep Are Deep GPs, Really? A Sharp Threshold and a Non-Gaussian Limit for Compositional GPs](../../conferences/neurips-2026/cards-0006.md#paper-154260)
+- [How does feature learning change the function space evolution?](../../conferences/neurips-2026/cards-0006.md#paper-150798)
+- [How Finite-Rank Bottleneck Shape the Low-Rank Adaptation Landscape](../../conferences/neurips-2026/cards-0006.md#paper-150830)
+- [How Hard Is It for Message-Passing GNNs to Simulate One Weisfeiler-Lehman Color-Refinement Step?](../../conferences/neurips-2026/cards-0006.md#paper-151609)
+- [How Long Does Infinite Width Last? Signal Propagation in Long-Range Linear Recurrences](../../conferences/neurips-2026/cards-0006.md#paper-155327)
+- [How Much Information is Needed for Accurate Kalman Filtering?](../../conferences/neurips-2026/cards-0006.md#paper-155363)
+- [How to Scale Mixture-of-Experts: From muP to the Maximally Scale-Stable Parameterization](../../conferences/neurips-2026/cards-0006.md#paper-155300)
+- [How well behaved is finite dimensional Diffusion Maps embedding?](../../conferences/neurips-2026/cards-0006.md#paper-151178)
+- [Human-AI Teaming Through the Lens of Calibration](../../conferences/neurips-2026/cards-0006.md#paper-153703)
 
 <!-- conference-classification:end -->

@@ -470,5 +470,8 @@
 - [HOGWARTS: Mitigating Perspective Distortion for 6DoF Head Pose Estimation via Virtual Camera Space](../conferences/neurips-2026/cards-0006.md#paper-150937)
 - [HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields](../conferences/neurips-2026/cards-0006.md#paper-152255)
 - [HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations](../conferences/neurips-2026/cards-0006.md#paper-155494)
+- [How Data Augmentation Shapes Neural Representations](../conferences/neurips-2026/cards-0006.md#paper-150878)
+- [How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction](../conferences/neurips-2026/cards-0006.md#paper-152464)
+- [HRIL: Isolating Multimodal Synergy via Higher-Order Dependence](../conferences/neurips-2026/cards-0006.md#paper-151076)
 
 <!-- conference-classification:end -->

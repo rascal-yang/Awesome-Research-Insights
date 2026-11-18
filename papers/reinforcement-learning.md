@@ -532,5 +532,8 @@
 - [Hitting Time Isomorphism for Multi-Stage Planning with Foundation Policies](../conferences/neurips-2026/cards-0006.md#paper-152292)
 - [Hodge Laplacian Quasi-Harmonic Flows for Option Discovery](../conferences/neurips-2026/cards-0006.md#paper-153764)
 - [Horizon Adaptive Offline Policy Learning via Value Stitching](../conferences/neurips-2026/cards-0006.md#paper-154836)
+- [How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies](../conferences/neurips-2026/cards-0006.md#paper-155951)
+- [How does RL Post-training Induce Skill Composition? A Case Study on Countdown](../conferences/neurips-2026/cards-0006.md#paper-148203)
+- [Human-Inspired, Task-Dimension-Guided Exploration for Efficient Learning and Transfer in High Dimensions](../conferences/neurips-2026/cards-0006.md#paper-150298)
 
 <!-- conference-classification:end -->

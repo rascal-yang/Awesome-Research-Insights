@@ -692,5 +692,10 @@ Robot perception, policy learning, planning, and control.
 - [High-Dimensional Robotic Reinforcement Learning with Developing Synergies](../../conferences/neurips-2026/cards-0006.md#paper-151314)
 - [Higher-Order Action Supervision Makes A Strong Policy Class](../../conferences/neurips-2026/cards-0006.md#paper-151538)
 - [HOPE: Hand-Object Pressure Estimation from Monocular Videos](../../conferences/neurips-2026/cards-0006.md#paper-148354)
+- [How Far Are VLMs from Privacy Awareness in the Physical World? An Empirical Study](../../conferences/neurips-2026/cards-0006.md#paper-151382)
+- [How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning](../../conferences/neurips-2026/cards-0006.md#paper-150612)
+- [How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction](../../conferences/neurips-2026/cards-0006.md#paper-152464)
+- [HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning](../../conferences/neurips-2026/cards-0006.md#paper-139007)
+- [Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating](../../conferences/neurips-2026/cards-0006.md#paper-150291)
 
 <!-- conference-classification:end -->

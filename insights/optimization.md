@@ -561,5 +561,8 @@
 - [High dimensional theory of two-phase optimizers](../conferences/neurips-2026/cards-0006.md#paper-149062)
 - [High-probability Convergence of Gradient Methods under Markovian Stochasticity](../conferences/neurips-2026/cards-0006.md#paper-149977)
 - [Holistic Scaling Laws for Optimal Mixture-of-Experts Architecture Optimization](../conferences/neurips-2026/cards-0006.md#paper-154893)
+- [How Can SignSGD Outperform SGD? A Functional Scaling Law Perspective](../conferences/neurips-2026/cards-0006.md#paper-150706)
+- [How deep is your network? Deep vs. shallow learning of transfer operators](../conferences/neurips-2026/cards-0006.md#paper-148363)
+- [How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning](../conferences/neurips-2026/cards-0006.md#paper-149145)
 
 <!-- conference-classification:end -->

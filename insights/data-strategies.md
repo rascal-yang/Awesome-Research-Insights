@@ -306,5 +306,7 @@
 - [High Performance Differentially Private Fine-Tuning using Dataset Distillation](../conferences/neurips-2026/cards-0006.md#paper-153009)
 - [HomeFlow: A Data Flywheel for Smart Home Agent Training with Verifiable Simulation](../conferences/neurips-2026/cards-0006.md#paper-153647)
 - [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](../conferences/neurips-2026/cards-0006.md#paper-149865)
+- [How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies](../conferences/neurips-2026/cards-0006.md#paper-155951)
+- [How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning](../conferences/neurips-2026/cards-0006.md#paper-150612)
 
 <!-- conference-classification:end -->

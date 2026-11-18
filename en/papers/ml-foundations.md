@@ -2003,5 +2003,18 @@ General learning methods, optimization, learning theory, and inference.
 - [Horizontal Diffusion Models: Score-based Generative Modeling on Frame-Connection Geometry](../../conferences/neurips-2026/cards-0006.md#paper-154154)
 - [How Accurately Can a Gaussian Approximate Stochastic Approximation Iterates?](../../conferences/neurips-2026/cards-0006.md#paper-154488)
 - [How are linear representations learned? Exact solutions to the dynamics of abstraction](../../conferences/neurips-2026/cards-0006.md#paper-155691)
+- [How Can SignSGD Outperform SGD? A Functional Scaling Law Perspective](../../conferences/neurips-2026/cards-0006.md#paper-150706)
+- [How Data Augmentation Shapes Neural Representations](../../conferences/neurips-2026/cards-0006.md#paper-150878)
+- [How Deep Are Deep GPs, Really? A Sharp Threshold and a Non-Gaussian Limit for Compositional GPs](../../conferences/neurips-2026/cards-0006.md#paper-154260)
+- [How deep is your network? Deep vs. shallow learning of transfer operators](../../conferences/neurips-2026/cards-0006.md#paper-148363)
+- [How does feature learning change the function space evolution?](../../conferences/neurips-2026/cards-0006.md#paper-150798)
+- [How Finite-Rank Bottleneck Shape the Low-Rank Adaptation Landscape](../../conferences/neurips-2026/cards-0006.md#paper-150830)
+- [How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning](../../conferences/neurips-2026/cards-0006.md#paper-149145)
+- [How Long Does Infinite Width Last? Signal Propagation in Long-Range Linear Recurrences](../../conferences/neurips-2026/cards-0006.md#paper-155327)
+- [How Much Information is Needed for Accurate Kalman Filtering?](../../conferences/neurips-2026/cards-0006.md#paper-155363)
+- [How Should Parallel Langevin Chains Share Noise?](../../conferences/neurips-2026/cards-0006.md#paper-151033)
+- [How well behaved is finite dimensional Diffusion Maps embedding?](../../conferences/neurips-2026/cards-0006.md#paper-151178)
+- [HSCO-Bench: An Agent-Driven End-to-End Hardware-Software Co-design Benchmark for Systems-on-Chip](../../conferences/neurips-2026/cards-0006.md#paper-139247)
+- [Human-AI Teaming Through the Lens of Calibration](../../conferences/neurips-2026/cards-0006.md#paper-153703)
 
 <!-- conference-classification:end -->

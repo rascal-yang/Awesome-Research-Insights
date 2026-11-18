@@ -434,3 +434,49 @@
 | 图学习与推荐 | 理论与统计 | [HoTS: Homophily-Aware Temperature Scaling for Graph Neural Network Calibration](cards-0006.md#paper-148576) | 图分类置信度同时按局部同配性与逻辑分数集中度校准。 |
 | 机器学习基础与统计 | 理论与统计 | [How Accurately Can a Gaussian Approximate Stochastic Approximation Iterates?](cards-0006.md#paper-154488) | 有限步随机逼近的误差区间使用逐步协方差，避免过早代入极限。 |
 | 机器学习基础与统计 | 理论与统计 | [How are linear representations learned? Exact solutions to the dynamics of abstraction](cards-0006.md#paper-155691) | 训练中同时读出前激活和后激活，防止非线性掩盖概念方向。 |
+| 机器学习基础与统计 | 优化 | [How Can SignSGD Outperform SGD? A Functional Scaling Law Perspective](cards-0006.md#paper-150706) | 按任务难度和噪声遗忘需求在 signSGD 与 SGD 间选择。 |
+| 科学机器学习 | 评测与诊断 | [How Complete Should a Reference Be? A Benchmark Audit for Fluorescence Spot Detection](cards-0006.md#paper-139218) | 弱信号检测选型需审计参考标签的定义及完整度。 |
+| 机器学习基础与统计 | 表征学习 | [How Data Augmentation Shapes Neural Representations](cards-0006.md#paper-150878) | 用表示形状轨迹比较增强并选择互补集成。 |
+| 强化学习 | 数据策略 | [How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies](cards-0006.md#paper-155951) | 分开核算任务、环境、轨迹与奖励的合成预算。 |
+| 机器学习基础与统计 | 理论与统计 | [How Deep Are Deep GPs, Really? A Sharp Threshold and a Non-Gaussian Limit for Compositional GPs](cards-0006.md#paper-154260) | 深组合 GP 的带宽随维数校准。 |
+| 机器学习基础与统计 | 优化 | [How deep is your network? Deep vs. shallow learning of transfer operators](cards-0006.md#paper-148363) | 传递算子的谱学习优先对照随机特征闭式读出。 |
+| 计算机视觉 | 评测与诊断 | [How Diffusion Models Memorize](cards-0006.md#paper-155824) | 扩散隐私审计逐步监测条件和无条件预测的滞后。 |
+| 大语言模型 | 评测与诊断 | [How Do Agentic LLMs Decide to Call Tools? A Scaffold Default Controlled by Suppression](cards-0006.md#paper-148769) | 用最小对比提示隔离工具触发机制。 |
+| 计算机视觉 | 损失函数 | [How Does Cutout Benefit Out-of-Distribution Generalization?](cards-0006.md#paper-152989) | Cutout 的遮挡视图与完整图分别监督共享和剩余信息。 |
+| 机器学习基础与统计 | 理论与统计 | [How does feature learning change the function space evolution?](cards-0006.md#paper-150798) | 测核变化时检查前导特征方向，而非只比较谱衰减。 |
+| 大语言模型 | 评测与诊断 | [How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants](cards-0006.md#paper-139075) | 个性化助手先验证记忆相关性，再注入偏好。 |
+| 大语言模型 | 评测与诊断 | [How Does Pruning Change Decisions in Large Language Models?](cards-0006.md#paper-151804) | 剪枝选型同时测候选答案边界。 |
+| 强化学习 | 评测与诊断 | [How does RL Post-training Induce Skill Composition? A Case Study on Countdown](cards-0006.md#paper-148203) | 组合泛化测试控制表达式深度并单独改变树形。 |
+| 大语言模型 | 评测与诊断 | [How Do Language Models Compose Functions?](cards-0006.md#paper-150331) | 用中间变量探针区分两跳推理与直接映射。 |
+| 大语言模型 | 评测与诊断 | [How Do Language Models Understand Tables? A Mechanistic Analysis of Cell Location](cards-0006.md#paper-154133) | 表格结构诊断中分别测绑定、定位和信息传递。 |
+| 机器人学 | 评测与诊断 | [How Far Are VLMs from Privacy Awareness in the Physical World? An Empirical Study](cards-0006.md#paper-151382) | 把隐私识别、情境调整和冲突约束分成独立安全验收。 |
+| 计算机视觉 | 评测与诊断 | [How Far Is Too Far? Object Recognition Declines Monotonically with Semantic Distance](cards-0006.md#paper-148472) | 按背景语义偏离度连续压力测试识别。 |
+| 大语言模型 | 训练策略 | [How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection](cards-0006.md#paper-152063) | 二分类幻觉检测按信息窗口裁剪分类模型。 |
+| 机器学习基础与统计 | 理论与统计 | [How Finite-Rank Bottleneck Shape the Low-Rank Adaptation Landscape](cards-0006.md#paper-150830) | 以冻结激活可观测的秩为 LoRA 秩上界线索。 |
+| 图学习 | 理论与统计 | [How Hard Is It for Message-Passing GNNs to Simulate One Weisfeiler-Lehman Color-Refinement Step?](cards-0006.md#paper-151609) | 有限精度图网络模拟 WL 时，联合选择消息宽度、深度和可容忍随机误差。 |
+| 机器学习基础与统计 | 优化 | [How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning](cards-0006.md#paper-149145) | 训练流映射使用截断梯度时，对照不同截断位置的驻点及收敛。 |
+| 大语言模型 | 评测与诊断 | [How Language Models Compress and Compare: Understanding  Selection with Token Covariance Maps](cards-0006.md#paper-154841) | 诊断结构化选择时，按层观察提示 token 的协方差谱与上下文–选项块。 |
+| 机器学习基础与统计 | 理论与统计 | [How Long Does Infinite Width Last? Signal Propagation in Long-Range Linear Recurrences](cards-0006.md#paper-155327) | 初始化线性循环模型前，以序列长度相对宽度平方根的比例判断无限宽近似是否可信。 |
+| 大语言模型 | 评测与诊断 | [How Much Evidence Should Retrieval-Augmented In-Context Learning Use Under Distribution Shift?](cards-0006.md#paper-149872) | 分布偏移下设检索条数时，同时测召回、答案准确率和冲突干扰。 |
+| 机器学习基础与统计 | 理论与统计 | [How Much Information is Needed for Accurate Kalman Filtering?](cards-0006.md#paper-155363) | 线性高斯过滤中有限带宽时，先计算后验均值，再按 Riccati 谱分配压缩噪声。 |
+| 大语言模型 | 评测与诊断 | [How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models](cards-0006.md#paper-150418) | 调循环语言模型时，用等深度扫描估计一次共享重用抵多少非共享参数。 |
+| 大语言模型 | 评测与诊断 | [How New Strategies Emerge in RL Post-Training: A Controlled Study](cards-0006.md#paper-151430) | 检验 RL 是否产生新解法时，用可审计符号任务追踪有效宏操作而非只测成功率。 |
+| 大语言模型 | 评测与诊断 | [How Selection Shapes Diversity in LLM Ecosystems](cards-0006.md#paper-152662) | 审计多 Agent 生态多样性时，用扰动稳定性和早期波动补充最终分布。 |
+| 机器学习基础与统计 | 推理策略 | [How Should Parallel Langevin Chains Share Noise?](cards-0006.md#paper-151033) | 并行 Langevin 采样主要估计线性均值时，对比零和相关噪声与独立链。 |
+| 机器人学 | 数据策略 | [How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning](cards-0006.md#paper-150612) | 固定示范预算下，按任务选择密集标注侧面，并用异步指令器部署。 |
+| 大语言模型 | 理论与统计 | [How to Scale Mixture-of-Experts: From muP to the Maximally Scale-Stable Parameterization](cards-0006.md#paper-155300) | MoE 跨尺度迁移学习率时检查专家聚合的尺度稳定性。 |
+| 科学机器学习 | 评测与诊断 | [How to Train a Surgeon? Benchmarking Generalist Agents in Surgical Scene Understanding](cards-0006.md#paper-139078) | 专业场景评测应拆开一般感知、精细定位与专家判断。 |
+| 大语言模型 | 训练策略 | [How to Train Your Latent Diffusion Language Model Jointly With the Latent Space](cards-0006.md#paper-155226) | 连续文本扩散与潜空间联合训练时逐步接通扩散梯度。 |
+| 大语言模型 | 评测与诊断 | [How Useful Is Cross-Domain Generalization for Training LLM Monitors?](cards-0006.md#paper-152528) | 分类监控器测试同时独立改变样本域与提示目标。 |
+| 机器学习基础与统计 | 理论与统计 | [How well behaved is finite dimensional Diffusion Maps embedding?](cards-0006.md#paper-151178) | 评价扩散映射需同时问有限维嵌入是否保留几何。 |
+| 机器人学 | 表征学习 | [How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction](cards-0006.md#paper-152464) | 第一视角长程预测用候选相机轨迹表达潜在意图。 |
+| 大语言模型 | 评测与诊断 | [HPC-Bench: A Comprehensive Benchmark for High Performance Computing Codes](cards-0006.md#paper-139477) | 代码性能评测先验证正确性，再在固定采样额度比较加速达标率。 |
+| 多模态学习 | 表征学习 | [HRIL: Isolating Multimodal Synergy via Higher-Order Dependence](cards-0006.md#paper-151076) | 为只能通过输入组合恢复的信号保留专门的高阶表示。 |
+| 机器学习基础与统计 | 评测与诊断 | [HSCO-Bench: An Agent-Driven End-to-End Hardware-Software Co-design Benchmark for Systems-on-Chip](cards-0006.md#paper-139247) | 系统协同设计应区分集成通过率和资源利用。 |
+| 机器学习基础与统计 | 理论与统计 | [Human-AI Teaming Through the Lens of Calibration](cards-0006.md#paper-153703) | 人机合作评估组合加权与委派时分别核对校准。 |
+| 强化学习 | 强化学习方法 | [Human-Inspired, Task-Dimension-Guided Exploration for Efficient Learning and Transfer in High Dimensions](cards-0006.md#paper-150298) | 高维冷启动先探索特征维度，再探索具体选项。 |
+| 机器人学 | 评测与诊断 | [HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning](cards-0006.md#paper-139007) | 全身策略的中间动作表示要在更换低层跟踪器时单独验收。 |
+| 机器人学 | 强化学习方法 | [Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating](cards-0006.md#paper-150291) | 长时多阶段训练持续抽样各阶段，并复用上游实际终态。 |
+| 计算机视觉 | 评测与诊断 | [HumanScore: Benchmarking Human Motions in Generated Videos](cards-0006.md#paper-139307) | 人物生成评估显式分开外观和运动可行性。 |
+| 大语言模型 | 评测与诊断 | [Humans Correct Their Judgements Through Debate, but Weaker AI Models Not](cards-0006.md#paper-154000) | 监督协议换裁判类型时重新验证辩论收益。 |
+| 计算机视觉 | 评测与诊断 | [HumanStereo: A Benchmark for Metric Facial Depth Estimation and Its Evaluation](cards-0006.md#paper-138969) | 人脸立体深度按临床目标定义误差阈值与关键点距离。 |

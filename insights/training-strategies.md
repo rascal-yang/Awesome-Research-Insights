@@ -628,5 +628,7 @@
 - [HiFloat4 Format for Language Model Pre-training on Ascend NPUs](../conferences/neurips-2026/cards-0006.md#paper-152215)
 - [Hint Tuning: Less Data Makes Better Reasoners](../conferences/neurips-2026/cards-0006.md#paper-153982)
 - [Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models](../conferences/neurips-2026/cards-0006.md#paper-149361)
+- [How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection](../conferences/neurips-2026/cards-0006.md#paper-152063)
+- [How to Train Your Latent Diffusion Language Model Jointly With the Latent Space](../conferences/neurips-2026/cards-0006.md#paper-155226)
 
 <!-- conference-classification:end -->

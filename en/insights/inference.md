@@ -1060,5 +1060,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization](../../conferences/neurips-2026/cards-0006.md#paper-151571)
 - [Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering](../../conferences/neurips-2026/cards-0006.md#paper-155067)
 - [HIST3R: Rectified State Decomposition from History for Streaming 3D Reconstruction](../../conferences/neurips-2026/cards-0006.md#paper-155909)
+- [How Should Parallel Langevin Chains Share Noise?](../../conferences/neurips-2026/cards-0006.md#paper-151033)
 
 <!-- conference-classification:end -->

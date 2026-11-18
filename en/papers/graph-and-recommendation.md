@@ -288,5 +288,6 @@ Graph models, knowledge graphs, and recommender systems.
 - [Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs](../../conferences/neurips-2026/cards-0006.md#paper-150192)
 - [HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations](../../conferences/neurips-2026/cards-0006.md#paper-155494)
 - [HoTS: Homophily-Aware Temperature Scaling for Graph Neural Network Calibration](../../conferences/neurips-2026/cards-0006.md#paper-148576)
+- [How Hard Is It for Message-Passing GNNs to Simulate One Weisfeiler-Lehman Color-Refinement Step?](../../conferences/neurips-2026/cards-0006.md#paper-151609)
 
 <!-- conference-classification:end -->

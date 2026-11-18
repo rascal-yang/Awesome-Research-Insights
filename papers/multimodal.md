@@ -685,5 +685,6 @@
 - [HIRaD: Hidden Interaction Inference from Predictive Radar Dynamics](../conferences/neurips-2026/cards-0006.md#paper-154068)
 - [Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models](../conferences/neurips-2026/cards-0006.md#paper-149361)
 - [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](../conferences/neurips-2026/cards-0006.md#paper-149865)
+- [HRIL: Isolating Multimodal Synergy via Higher-Order Dependence](../conferences/neurips-2026/cards-0006.md#paper-151076)
 
 <!-- conference-classification:end -->

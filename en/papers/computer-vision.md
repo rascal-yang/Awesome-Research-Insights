@@ -845,5 +845,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [HOGWARTS: Mitigating Perspective Distortion for 6DoF Head Pose Estimation via Virtual Camera Space](../../conferences/neurips-2026/cards-0006.md#paper-150937)
 - [Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-154530)
 - [Horizon-Stream: Long-Horizon Attention for Streaming 3D Reconstruction](../../conferences/neurips-2026/cards-0006.md#paper-153911)
+- [How Diffusion Models Memorize](../../conferences/neurips-2026/cards-0006.md#paper-155824)
+- [How Does Cutout Benefit Out-of-Distribution Generalization?](../../conferences/neurips-2026/cards-0006.md#paper-152989)
+- [How Far Is Too Far? Object Recognition Declines Monotonically with Semantic Distance](../../conferences/neurips-2026/cards-0006.md#paper-148472)
+- [HumanScore: Benchmarking Human Motions in Generated Videos](../../conferences/neurips-2026/cards-0006.md#paper-139307)
+- [HumanStereo: A Benchmark for Metric Facial Depth Estimation and Its Evaluation](../../conferences/neurips-2026/cards-0006.md#paper-138969)
 
 <!-- conference-classification:end -->

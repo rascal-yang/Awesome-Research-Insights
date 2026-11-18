@@ -3723,66 +3723,66 @@ poster_id	title	paper_url	status	reason
 148576	HoTS: Homophily-Aware Temperature Scaling for Graph Neural Network Calibration	https://neurips.cc/virtual/2026/poster/148576	included	图分类置信度同时按局部同配性与逻辑分数集中度校准。
 154488	How Accurately Can a Gaussian Approximate Stochastic Approximation Iterates?	https://neurips.cc/virtual/2026/poster/154488	included	有限步随机逼近的误差区间使用逐步协方差，避免过早代入极限。
 155691	How are linear representations learned? Exact solutions to the dynamics of abstraction	https://neurips.cc/virtual/2026/poster/155691	included	训练中同时读出前激活和后激活，防止非线性掩盖概念方向。
-150706	How Can SignSGD Outperform SGD? A Functional Scaling Law Perspective	https://neurips.cc/virtual/2026/poster/150706	pending	-
-139218	How Complete Should a Reference Be? A Benchmark Audit for Fluorescence Spot Detection	https://neurips.cc/virtual/2026/poster/139218	pending	-
-150878	How Data Augmentation Shapes Neural Representations	https://neurips.cc/virtual/2026/poster/150878	pending	-
-155951	How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies	https://neurips.cc/virtual/2026/poster/155951	pending	-
-154260	How Deep Are Deep GPs, Really? A Sharp Threshold and a Non-Gaussian Limit for Compositional GPs	https://neurips.cc/virtual/2026/poster/154260	pending	-
-148363	How deep is your network? Deep vs. shallow learning of transfer operators	https://neurips.cc/virtual/2026/poster/148363	pending	-
-155824	How Diffusion Models Memorize	https://neurips.cc/virtual/2026/poster/155824	pending	-
-148769	How Do Agentic LLMs Decide to Call Tools? A Scaffold Default Controlled by Suppression	https://neurips.cc/virtual/2026/poster/148769	pending	-
-152989	How Does Cutout Benefit Out-of-Distribution Generalization?	https://neurips.cc/virtual/2026/poster/152989	pending	-
-150798	How does feature learning change the function space evolution?	https://neurips.cc/virtual/2026/poster/150798	pending	-
-139075	How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants	https://neurips.cc/virtual/2026/poster/139075	pending	-
-151804	How Does Pruning Change Decisions in Large Language Models?	https://neurips.cc/virtual/2026/poster/151804	pending	-
-148203	How does RL Post-training Induce Skill Composition? A Case Study on Countdown	https://neurips.cc/virtual/2026/poster/148203	pending	-
-150331	How Do Language Models Compose Functions?	https://neurips.cc/virtual/2026/poster/150331	pending	-
-154133	How Do Language Models Understand Tables? A Mechanistic Analysis of Cell Location	https://neurips.cc/virtual/2026/poster/154133	pending	-
-148782	How do Small Transformer Models Learn Hard Math Tasks?	https://neurips.cc/virtual/2026/poster/148782	pending	-
-151382	How Far Are VLMs from Privacy Awareness in the Physical World? An Empirical Study	https://neurips.cc/virtual/2026/poster/151382	pending	-
-148472	How Far Is Too Far? Object Recognition Declines Monotonically with Semantic Distance	https://neurips.cc/virtual/2026/poster/148472	pending	-
-152063	How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection	https://neurips.cc/virtual/2026/poster/152063	pending	-
-150830	How Finite-Rank Bottleneck Shape the Low-Rank Adaptation Landscape	https://neurips.cc/virtual/2026/poster/150830	pending	-
-151609	How Hard Is It for Message-Passing GNNs to Simulate One Weisfeiler-Lehman Color-Refinement Step?	https://neurips.cc/virtual/2026/poster/151609	pending	-
-152232	How Hard is it to Rig a Benchmark? A Social Choice Analysis of Leaderboard Robustness	https://neurips.cc/virtual/2026/poster/152232	pending	-
-149145	How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning	https://neurips.cc/virtual/2026/poster/149145	pending	-
-154841	How Language Models Compress and Compare: Understanding  Selection with Token Covariance Maps	https://neurips.cc/virtual/2026/poster/154841	pending	-
-155347	How Likely Are Voting Rules Equitable?	https://neurips.cc/virtual/2026/poster/155347	pending	-
-148434	How LLMs Distinguish Threats from Offers	https://neurips.cc/virtual/2026/poster/148434	pending	-
-155327	How Long Does Infinite Width Last? Signal Propagation in Long-Range Linear Recurrences	https://neurips.cc/virtual/2026/poster/155327	pending	-
-149872	How Much Evidence Should Retrieval-Augmented In-Context Learning Use Under Distribution Shift?	https://neurips.cc/virtual/2026/poster/149872	pending	-
-155363	How Much Information is Needed for Accurate Kalman Filtering?	https://neurips.cc/virtual/2026/poster/155363	pending	-
-148738	How Much is Left? LLMs Linearly Encode Their Remaining Output Length	https://neurips.cc/virtual/2026/poster/148738	pending	-
-150418	How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models	https://neurips.cc/virtual/2026/poster/150418	pending	-
-156113	How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models	https://neurips.cc/virtual/2026/poster/156113	pending	-
-154598	How Neural Reward Models Learn Features for Policy Optimization: A Single-Index Analysis	https://neurips.cc/virtual/2026/poster/154598	pending	-
-151430	How New Strategies Emerge in RL Post-Training: A Controlled Study	https://neurips.cc/virtual/2026/poster/151430	pending	-
-151933	How Post-Training Shapes Biological Reasoning Models	https://neurips.cc/virtual/2026/poster/151933	pending	-
-139260	How Private is Private? A Comparative Study for Face De-Identification	https://neurips.cc/virtual/2026/poster/139260	pending	-
-152662	How Selection Shapes Diversity in LLM Ecosystems	https://neurips.cc/virtual/2026/poster/152662	pending	-
-151033	How Should Parallel Langevin Chains Share Noise?	https://neurips.cc/virtual/2026/poster/151033	pending	-
-153928	How to Have a Sensitive Debate	https://neurips.cc/virtual/2026/poster/153928	pending	-
-150612	How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning	https://neurips.cc/virtual/2026/poster/150612	pending	-
-139461	How to Interpret Agent Behavior	https://neurips.cc/virtual/2026/poster/139461	pending	-
-151388	How to make the most of your masked language model for protein engineering	https://neurips.cc/virtual/2026/poster/151388	pending	-
-155300	How to Scale Mixture-of-Experts: From muP to the Maximally Scale-Stable Parameterization	https://neurips.cc/virtual/2026/poster/155300	pending	-
-139078	How to Train a Surgeon? Benchmarking Generalist Agents in Surgical Scene Understanding	https://neurips.cc/virtual/2026/poster/139078	pending	-
-155226	How to Train Your Latent Diffusion Language Model Jointly With the Latent Space	https://neurips.cc/virtual/2026/poster/155226	pending	-
-152528	How Useful Is Cross-Domain Generalization for Training LLM Monitors?	https://neurips.cc/virtual/2026/poster/152528	pending	-
-151178	How well behaved is finite dimensional Diffusion Maps embedding?	https://neurips.cc/virtual/2026/poster/151178	pending	-
-152464	How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction	https://neurips.cc/virtual/2026/poster/152464	pending	-
-139477	HPC-Bench: A Comprehensive Benchmark for High Performance Computing Codes	https://neurips.cc/virtual/2026/poster/139477	pending	-
-154699	HPE: Hallucinated Positive Entanglement for Backdoor Attacks in Federated Self-Supervised Learning	https://neurips.cc/virtual/2026/poster/154699	pending	-
-151076	HRIL: Isolating Multimodal Synergy via Higher-Order Dependence	https://neurips.cc/virtual/2026/poster/151076	pending	-
-139247	HSCO-Bench: An Agent-Driven End-to-End Hardware-Software Co-design Benchmark for Systems-on-Chip	https://neurips.cc/virtual/2026/poster/139247	pending	-
-140007	Human–AI Collaboration Requires a High-Order Dynamic Abstraction Substrate	https://neurips.cc/virtual/2026/poster/140007	pending	-
-153703	Human-AI Teaming Through the Lens of Calibration	https://neurips.cc/virtual/2026/poster/153703	pending	-
-150298	Human-Inspired, Task-Dimension-Guided Exploration for Efficient Learning and Transfer in High Dimensions	https://neurips.cc/virtual/2026/poster/150298	pending	-
-139007	HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning	https://neurips.cc/virtual/2026/poster/139007	pending	-
-150291	Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating	https://neurips.cc/virtual/2026/poster/150291	pending	-
-139307	HumanScore: Benchmarking Human Motions in Generated Videos	https://neurips.cc/virtual/2026/poster/139307	pending	-
-154000	Humans Correct Their Judgements Through Debate, but Weaker AI Models Not	https://neurips.cc/virtual/2026/poster/154000	pending	-
-138969	HumanStereo: A Benchmark for Metric Facial Depth Estimation and Its Evaluation	https://neurips.cc/virtual/2026/poster/138969	pending	-
+150706	How Can SignSGD Outperform SGD? A Functional Scaling Law Perspective	https://neurips.cc/virtual/2026/poster/150706	included	按任务难度和噪声遗忘需求在 signSGD 与 SGD 间选择。
+139218	How Complete Should a Reference Be? A Benchmark Audit for Fluorescence Spot Detection	https://neurips.cc/virtual/2026/poster/139218	included	弱信号检测选型需审计参考标签的定义及完整度。
+150878	How Data Augmentation Shapes Neural Representations	https://neurips.cc/virtual/2026/poster/150878	included	用表示形状轨迹比较增强并选择互补集成。
+155951	How Data Scales in Agentic Reinforcement Learning: Laws and Synthesis Strategies	https://neurips.cc/virtual/2026/poster/155951	included	分开核算任务、环境、轨迹与奖励的合成预算。
+154260	How Deep Are Deep GPs, Really? A Sharp Threshold and a Non-Gaussian Limit for Compositional GPs	https://neurips.cc/virtual/2026/poster/154260	included	深组合 GP 的带宽随维数校准。
+148363	How deep is your network? Deep vs. shallow learning of transfer operators	https://neurips.cc/virtual/2026/poster/148363	included	传递算子的谱学习优先对照随机特征闭式读出。
+155824	How Diffusion Models Memorize	https://neurips.cc/virtual/2026/poster/155824	included	扩散隐私审计逐步监测条件和无条件预测的滞后。
+148769	How Do Agentic LLMs Decide to Call Tools? A Scaffold Default Controlled by Suppression	https://neurips.cc/virtual/2026/poster/148769	included	用最小对比提示隔离工具触发机制。
+152989	How Does Cutout Benefit Out-of-Distribution Generalization?	https://neurips.cc/virtual/2026/poster/152989	included	Cutout 的遮挡视图与完整图分别监督共享和剩余信息。
+150798	How does feature learning change the function space evolution?	https://neurips.cc/virtual/2026/poster/150798	included	测核变化时检查前导特征方向，而非只比较谱衰减。
+139075	How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants	https://neurips.cc/virtual/2026/poster/139075	included	个性化助手先验证记忆相关性，再注入偏好。
+151804	How Does Pruning Change Decisions in Large Language Models?	https://neurips.cc/virtual/2026/poster/151804	included	剪枝选型同时测候选答案边界。
+148203	How does RL Post-training Induce Skill Composition? A Case Study on Countdown	https://neurips.cc/virtual/2026/poster/148203	included	组合泛化测试控制表达式深度并单独改变树形。
+150331	How Do Language Models Compose Functions?	https://neurips.cc/virtual/2026/poster/150331	included	用中间变量探针区分两跳推理与直接映射。
+154133	How Do Language Models Understand Tables? A Mechanistic Analysis of Cell Location	https://neurips.cc/virtual/2026/poster/154133	included	表格结构诊断中分别测绑定、定位和信息传递。
+148782	How do Small Transformer Models Learn Hard Math Tasks?	https://neurips.cc/virtual/2026/poster/148782	excluded	主要机制面向实际密码体系的密钥恢复，未提取可迁移的防御技术机制。
+151382	How Far Are VLMs from Privacy Awareness in the Physical World? An Empirical Study	https://neurips.cc/virtual/2026/poster/151382	included	把隐私识别、情境调整和冲突约束分成独立安全验收。
+148472	How Far Is Too Far? Object Recognition Declines Monotonically with Semantic Distance	https://neurips.cc/virtual/2026/poster/148472	included	按背景语义偏离度连续压力测试识别。
+152063	How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection	https://neurips.cc/virtual/2026/poster/152063	included	二分类幻觉检测按信息窗口裁剪分类模型。
+150830	How Finite-Rank Bottleneck Shape the Low-Rank Adaptation Landscape	https://neurips.cc/virtual/2026/poster/150830	included	以冻结激活可观测的秩为 LoRA 秩上界线索。
+151609	How Hard Is It for Message-Passing GNNs to Simulate One Weisfeiler-Lehman Color-Refinement Step?	https://neurips.cc/virtual/2026/poster/151609	included	有限精度图网络模拟 WL 时，联合选择消息宽度、深度和可容忍随机误差。
+152232	How Hard is it to Rig a Benchmark? A Social Choice Analysis of Leaderboard Robustness	https://neurips.cc/virtual/2026/poster/152232	excluded	防御性榜单评估有价值，但与同批评估测量条目相比，摘要结论局限于特定序数汇总和榜单数据。
+149145	How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning	https://neurips.cc/virtual/2026/poster/149145	included	训练流映射使用截断梯度时，对照不同截断位置的驻点及收敛。
+154841	How Language Models Compress and Compare: Understanding  Selection with Token Covariance Maps	https://neurips.cc/virtual/2026/poster/154841	included	诊断结构化选择时，按层观察提示 token 的协方差谱与上下文–选项块。
+155347	How Likely Are Voting Rules Equitable?	https://neurips.cc/virtual/2026/poster/155347	excluded	投票平局公平性是独立理论问题，未给出能直接改变所涉深度学习研究技术选择的证据。
+148434	How LLMs Distinguish Threats from Offers	https://neurips.cc/virtual/2026/poster/148434	excluded	因果博弈分类用例的结论主要为模型标签与自身判断相关，缺少可操作的改进证据。
+155327	How Long Does Infinite Width Last? Signal Propagation in Long-Range Linear Recurrences	https://neurips.cc/virtual/2026/poster/155327	included	初始化线性循环模型前，以序列长度相对宽度平方根的比例判断无限宽近似是否可信。
+149872	How Much Evidence Should Retrieval-Augmented In-Context Learning Use Under Distribution Shift?	https://neurips.cc/virtual/2026/poster/149872	included	分布偏移下设检索条数时，同时测召回、答案准确率和冲突干扰。
+155363	How Much Information is Needed for Accurate Kalman Filtering?	https://neurips.cc/virtual/2026/poster/155363	included	线性高斯过滤中有限带宽时，先计算后验均值，再按 Riccati 谱分配压缩噪声。
+148738	How Much is Left? LLMs Linearly Encode Their Remaining Output Length	https://neurips.cc/virtual/2026/poster/148738	excluded	长度线性可解码有诊断价值，但重启时的变化仅定性，摘要未验证代理信号能支撑调度选择。
+150418	How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models	https://neurips.cc/virtual/2026/poster/150418	included	调循环语言模型时，用等深度扫描估计一次共享重用抵多少非共享参数。
+156113	How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models	https://neurips.cc/virtual/2026/poster/156113	excluded	后验缩窄规律有潜力，但遥感与自然图像的宽度差异依赖具体模型与数据，适用边界需复核。
+154598	How Neural Reward Models Learn Features for Policy Optimization: A Single-Index Analysis	https://neurips.cc/virtual/2026/poster/154598	excluded	单指数分析使用高斯输入和理想化两阶段拟合，摘要尚不足以明确实际奖励模型的权重选择。
+151430	How New Strategies Emerge in RL Post-Training: A Controlled Study	https://neurips.cc/virtual/2026/poster/151430	included	检验 RL 是否产生新解法时，用可审计符号任务追踪有效宏操作而非只测成功率。
+151933	How Post-Training Shapes Biological Reasoning Models	https://neurips.cc/virtual/2026/poster/151933	excluded	暂缓专项生物能力优化条目。
+139260	How Private is Private? A Comparative Study for Face De-Identification	https://neurips.cc/virtual/2026/poster/139260	excluded	主要提供人脸去身份数据及领域效用总分，配置效用权重的迁移证据不足。
+152662	How Selection Shapes Diversity in LLM Ecosystems	https://neurips.cc/virtual/2026/poster/152662	included	审计多 Agent 生态多样性时，用扰动稳定性和早期波动补充最终分布。
+151033	How Should Parallel Langevin Chains Share Noise?	https://neurips.cc/virtual/2026/poster/151033	included	并行 Langevin 采样主要估计线性均值时，对比零和相关噪声与独立链。
+153928	How to Have a Sensitive Debate	https://neurips.cc/virtual/2026/poster/153928	excluded	理论保证有价值，但摘要未给出足以独立复现辩论协议的操作。
+150612	How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning	https://neurips.cc/virtual/2026/poster/150612	included	固定示范预算下，按任务选择密集标注侧面，并用异步指令器部署。
+139461	How to Interpret Agent Behavior	https://neurips.cc/virtual/2026/poster/139461	excluded	摘要提出轨迹分类体系，但没有量化判别表现或给出具体失败规律，当前证据不足以支持独立的方法选择。
+151388	How to make the most of your masked language model for protein engineering	https://neurips.cc/virtual/2026/poster/151388	excluded	论文主要贡献依赖生物序列优化场景；本轮可提取的通用经验未与特定设计设置充分分离。
+155300	How to Scale Mixture-of-Experts: From muP to the Maximally Scale-Stable Parameterization	https://neurips.cc/virtual/2026/poster/155300	included	MoE 跨尺度迁移学习率时检查专家聚合的尺度稳定性。
+139078	How to Train a Surgeon? Benchmarking Generalist Agents in Surgical Scene Understanding	https://neurips.cc/virtual/2026/poster/139078	included	专业场景评测应拆开一般感知、精细定位与专家判断。
+155226	How to Train Your Latent Diffusion Language Model Jointly With the Latent Space	https://neurips.cc/virtual/2026/poster/155226	included	连续文本扩散与潜空间联合训练时逐步接通扩散梯度。
+152528	How Useful Is Cross-Domain Generalization for Training LLM Monitors?	https://neurips.cc/virtual/2026/poster/152528	included	分类监控器测试同时独立改变样本域与提示目标。
+151178	How well behaved is finite dimensional Diffusion Maps embedding?	https://neurips.cc/virtual/2026/poster/151178	included	评价扩散映射需同时问有限维嵌入是否保留几何。
+152464	How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction	https://neurips.cc/virtual/2026/poster/152464	included	第一视角长程预测用候选相机轨迹表达潜在意图。
+139477	HPC-Bench: A Comprehensive Benchmark for High Performance Computing Codes	https://neurips.cc/virtual/2026/poster/139477	included	代码性能评测先验证正确性，再在固定采样额度比较加速达标率。
+154699	HPE: Hallucinated Positive Entanglement for Backdoor Attacks in Federated Self-Supervised Learning	https://neurips.cc/virtual/2026/poster/154699	excluded	摘要主要贡献为后门攻击方法，未报告能独立形成防御技术选择的研究结果。
+151076	HRIL: Isolating Multimodal Synergy via Higher-Order Dependence	https://neurips.cc/virtual/2026/poster/151076	included	为只能通过输入组合恢复的信号保留专门的高阶表示。
+139247	HSCO-Bench: An Agent-Driven End-to-End Hardware-Software Co-design Benchmark for Systems-on-Chip	https://neurips.cc/virtual/2026/poster/139247	included	系统协同设计应区分集成通过率和资源利用。
+140007	Human–AI Collaboration Requires a High-Order Dynamic Abstraction Substrate	https://neurips.cc/virtual/2026/poster/140007	excluded	立场论文提出协作知识结构，但没有可单独实施且经验证的机制或比较结果。
+153703	Human-AI Teaming Through the Lens of Calibration	https://neurips.cc/virtual/2026/poster/153703	included	人机合作评估组合加权与委派时分别核对校准。
+150298	Human-Inspired, Task-Dimension-Guided Exploration for Efficient Learning and Transfer in High Dimensions	https://neurips.cc/virtual/2026/poster/150298	included	高维冷启动先探索特征维度，再探索具体选项。
+139007	HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning	https://neurips.cc/virtual/2026/poster/139007	included	全身策略的中间动作表示要在更换低层跟踪器时单独验收。
+150291	Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating	https://neurips.cc/virtual/2026/poster/150291	included	长时多阶段训练持续抽样各阶段，并复用上游实际终态。
+139307	HumanScore: Benchmarking Human Motions in Generated Videos	https://neurips.cc/virtual/2026/poster/139307	included	人物生成评估显式分开外观和运动可行性。
+154000	Humans Correct Their Judgements Through Debate, but Weaker AI Models Not	https://neurips.cc/virtual/2026/poster/154000	included	监督协议换裁判类型时重新验证辩论收益。
+138969	HumanStereo: A Benchmark for Metric Facial Depth Estimation and Its Evaluation	https://neurips.cc/virtual/2026/poster/138969	included	人脸立体深度按临床目标定义误差阈值与关键点距离。
 154021	HuPER: A Human-Inspired Framework for Phonetic Perception	https://neurips.cc/virtual/2026/poster/154021	pending	-
 151555	HybridCache: Enhancing Prefix Caching for Linear–Softmax Language Models	https://neurips.cc/virtual/2026/poster/151555	pending	-
 154484	Hybrid-LoRA: Bridging Full Fine-Tuning and Low-Rank Adaptation for Post-Training	https://neurips.cc/virtual/2026/poster/154484	pending	-

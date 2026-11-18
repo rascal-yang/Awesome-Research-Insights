@@ -521,5 +521,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Historical Relative Policy Optimization for Bootstrapping LLM Reasoning](../../conferences/neurips-2026/cards-0006.md#paper-154697)
 - [Hodge Laplacian Quasi-Harmonic Flows for Option Discovery](../../conferences/neurips-2026/cards-0006.md#paper-153764)
 - [Horizon Adaptive Offline Policy Learning via Value Stitching](../../conferences/neurips-2026/cards-0006.md#paper-154836)
+- [Human-Inspired, Task-Dimension-Guided Exploration for Efficient Learning and Transfer in High Dimensions](../../conferences/neurips-2026/cards-0006.md#paper-150298)
+- [Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating](../../conferences/neurips-2026/cards-0006.md#paper-150291)
 
 <!-- conference-classification:end -->
