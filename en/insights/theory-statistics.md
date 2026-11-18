@@ -670,6 +670,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Theoretical Investigation on Inductive Bias of Isolation Forest](../../conferences/icml-2026/cards/6101-6200.md#zheng26ag-theory-statistics) · 中文
 - [Black-Box Assisted Regression: Phase Transitions and Minimax Optimality](../../conferences/icml-2026/cards/6101-6200.md#zhou26b-theory-statistics) · 中文
 - [Deep Neural Network Regression with Functional Covariates](../../conferences/icml-2026/cards/6101-6200.md#zhou26o-theory-statistics) · 中文
+- [Towards Completeness in Causal Discovery from Soft Interventions with Known Targets](../../conferences/icml-2026/cards/6101-6200.md#zhou26s-theory-statistics) · 中文
+- [Is Spurious Correlation Removal Always Learnable?](../../conferences/icml-2026/cards/6101-6200.md#zhou26v-theory-statistics) · 中文
+- [$\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function](../../conferences/icml-2026/cards/6101-6200.md#zhou26ac-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -208,6 +208,7 @@
 - [修订增益回传到原回答的奖励](../conferences/icml-2026/cards/5901-6000.md#zhang26io-reinforcement-learning) · Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs
 - [按置信度调clip并重分配token优势](../conferences/icml-2026/cards/6001-6100.md#zhao26bn-reinforcement-learning) · ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning
 - [对含噪重要性比作上截断后自归一化](../conferences/icml-2026/cards/6101-6200.md#zhong26q-reinforcement-learning) · Stabilizing Reinforcement Learning for Diffusion Language Models
+- [中难度乘置信度的RL算力重分配](../conferences/icml-2026/cards/6101-6200.md#zhou26ah-reinforcement-learning) · The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning
 
 <a id="by-computer-vision"></a>
 

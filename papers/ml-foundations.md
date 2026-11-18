@@ -503,6 +503,7 @@
 - <a id="zheng26ac-optimization"></a>[Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ac)
 - <a id="zhong26j-optimization"></a>[DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26j)
 - <a id="zhou26d-optimization"></a>[AdaS: Adaptive Gradient Descent for Spiking Transformers](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26d)
+- <a id="zhou26aa-optimization"></a>[Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26aa)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -1325,4 +1326,7 @@
 - <a id="zheng26ag-theory-statistics"></a>[Theoretical Investigation on Inductive Bias of Isolation Forest](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ag)
 - <a id="zhou26b-theory-statistics"></a>[Black-Box Assisted Regression: Phase Transitions and Minimax Optimality](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26b)
 - <a id="zhou26o-theory-statistics"></a>[Deep Neural Network Regression with Functional Covariates](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26o)
+- <a id="zhou26s-theory-statistics"></a>[Towards Completeness in Causal Discovery from Soft Interventions with Known Targets](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26s)
+- <a id="zhou26v-theory-statistics"></a>[Is Spurious Correlation Removal Always Learnable?](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26v)
+- <a id="zhou26ac-theory-statistics"></a>[$\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ac)
 <!-- classification:end -->

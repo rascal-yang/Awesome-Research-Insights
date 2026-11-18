@@ -134,6 +134,7 @@ Reusable components and local changes to model inputs or connections.
 - [AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](../../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · 中文
 - [Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages](../../conferences/icml-2026/cards/2601-2700.md#li26jh-modules) · 中文
 - [Two-dimensional quantization for geometry-aware audio coding](../../conferences/icml-2026/cards/4101-4200.md#shuster26a-modules) · 中文
+- [Positional Encoding for Spiking Transformers](../../conferences/icml-2026/cards/6101-6200.md#zhou26ab-modules) · 中文
 
 <a id="by-reinforcement-learning"></a>
 

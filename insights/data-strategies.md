@@ -100,6 +100,7 @@
 - [按基础能力边缘而非饱和任务分配RL数据](../conferences/icml-2026/cards/5801-5900.md#zhang26en-data-strategies) · On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models
 - [用reward波动和entropy门控UCB集中group rollouts](../conferences/icml-2026/cards/5901-6000.md#zhang26gc-data-strategies) · Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement
 - [用固定token替换实验拆分code与结构推理数据](../conferences/icml-2026/cards/6001-6100.md#zhao26k-data-strategies) · What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code
+- [按奖励偏好方向共识筛rollout](../conferences/icml-2026/cards/6101-6200.md#zhou26ad-data-strategies) · GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 

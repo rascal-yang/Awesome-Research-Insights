@@ -143,6 +143,8 @@ Objectives, auxiliary supervision, and regularization.
 - [SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](../../conferences/icml-2026/cards/5901-6000.md#zhang26il-loss-functions) · 中文
 - [Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation](../../conferences/icml-2026/cards/6001-6100.md#zhang26jo-loss-functions) · 中文
 - [Just Noticeable Difference Modeling for Deep Visual Features](../../conferences/icml-2026/cards/6001-6100.md#zhao26y-loss-functions) · 中文
+- [Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting](../../conferences/icml-2026/cards/6101-6200.md#zhou26q-loss-functions) · 中文
+- [SpecPL: Disentangling Spectral Granularity for Prompt Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26r-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -260,6 +262,7 @@ Objectives, auxiliary supervision, and regularization.
 - [In-Context Generation with Regional Constraints for Instructional Video Editing](../../conferences/icml-2026/cards/5801-5900.md#zhang26dw-loss-functions) · 中文
 - [Temporal-Aware Reasoning Optimization for Video Temporal Grounding](../../conferences/icml-2026/cards/6101-6200.md#zheng26ad-loss-functions) · 中文
 - [Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate](../../conferences/icml-2026/cards/6101-6200.md#zheng26af-loss-functions) · 中文
+- [Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification](../../conferences/icml-2026/cards/6101-6200.md#zhou26ae-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

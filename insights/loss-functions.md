@@ -143,6 +143,8 @@
 - [自诱导镜像点的一致去噪](../conferences/icml-2026/cards/5901-6000.md#zhang26il-loss-functions) · SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising
 - [按margin分位数渐进重加权](../conferences/icml-2026/cards/6001-6100.md#zhang26jo-loss-functions) · Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation
 - [任务一致约束下的特征扰动幅度](../conferences/icml-2026/cards/6001-6100.md#zhao26y-loss-functions) · Just Noticeable Difference Modeling for Deep Visual Features
+- [mask面积自适应的修补边界奖励](../conferences/icml-2026/cards/6101-6200.md#zhou26q-loss-functions) · Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting
+- [细粒度置换标签的prompt辅助监督](../conferences/icml-2026/cards/6101-6200.md#zhou26r-loss-functions) · SpecPL: Disentangling Spectral Granularity for Prompt Learning
 
 <a id="by-nlp"></a>
 
@@ -260,6 +262,7 @@
 - [对编辑区差异和非编辑区一致性分别正则](../conferences/icml-2026/cards/5801-5900.md#zhang26dw-loss-functions) · In-Context Generation with Regional Constraints for Instructional Video Editing
 - [用事件边界扰动评估时间推理依赖](../conferences/icml-2026/cards/6101-6200.md#zheng26ad-loss-functions) · Temporal-Aware Reasoning Optimization for Video Temporal Grounding
 - [以任务概率监督独立confidence gate](../conferences/icml-2026/cards/6101-6200.md#zheng26af-loss-functions) · Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate
+- [感知与答案分差的非对称惩罚](../conferences/icml-2026/cards/6101-6200.md#zhou26ae-loss-functions) · Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification
 
 <a id="by-ml-foundations"></a>
 

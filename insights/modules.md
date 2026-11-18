@@ -134,6 +134,7 @@
 - [Agent 词表适配](../conferences/icml-2026/cards/0201-0300.md#bian26c-modules) · AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents
 - [把低资源语种锚到英语语义并用语言感知头融合](../conferences/icml-2026/cards/2601-2700.md#li26jh-modules) · Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages
 - [用固定二维格点替代独立标量量化](../conferences/icml-2026/cards/4101-4200.md#shuster26a-modules) · Two-dimensional quantization for geometry-aware audio coding
+- [以spike阈值承载正弦位置](../conferences/icml-2026/cards/6101-6200.md#zhou26ab-modules) · Positional Encoding for Spiking Transformers
 
 <a id="by-reinforcement-learning"></a>
 

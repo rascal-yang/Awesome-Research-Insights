@@ -493,6 +493,7 @@
 - [在持续学习梯度中加入polar分量](../conferences/icml-2026/cards/6101-6200.md#zheng26ac-optimization) · Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity
 - [交替目标的共享base与delta优化状态](../conferences/icml-2026/cards/6101-6200.md#zhong26j-optimization) · DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models
 - [按更新偏离代理混合动量与自适应方向](../conferences/icml-2026/cards/6101-6200.md#zhou26d-optimization) · AdaS: Adaptive Gradient Descent for Spiking Transformers
+- [多项式FHE训练的权重界与免clipping](../conferences/icml-2026/cards/6101-6200.md#zhou26aa-optimization) · Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms
 
 <a id="by-graph-and-recommendation"></a>
 

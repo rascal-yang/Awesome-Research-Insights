@@ -508,6 +508,7 @@
 - <a id="zhang26io-reinforcement-learning"></a>[Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26io)
 - <a id="zhao26bn-reinforcement-learning"></a>[ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bn)
 - <a id="zhong26q-reinforcement-learning"></a>[Stabilizing Reinforcement Learning for Diffusion Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26q)
+- <a id="zhou26ah-reinforcement-learning"></a>[The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ah)
 
 <a id="by-training-strategies"></a>
 
@@ -765,6 +766,7 @@
 - <a id="zhang26en-data-strategies"></a>[On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](../conferences/icml-2026/cards/5801-5900.md#paper-zhang26en)
 - <a id="zhang26gc-data-strategies"></a>[Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gc)
 - <a id="zhao26k-data-strategies"></a>[What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26k)
+- <a id="zhou26ad-data-strategies"></a>[GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ad)
 
 <a id="by-inference"></a>
 
@@ -1553,6 +1555,8 @@
 - <a id="zhing26a-evaluation"></a>[From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity](../conferences/icml-2026/cards/6101-6200.md#paper-zhing26a)
 - <a id="zhong26i-evaluation"></a>[From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26i)
 - <a id="zhong26t-evaluation"></a>[SWE-IF: Aligning Code Evaluation with Human Preference](../conferences/icml-2026/cards/6101-6200.md#paper-zhong26t)
+- <a id="zhou26p-evaluation"></a>[Alignment Risks from Capability-Seeking RL Training](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26p)
+- <a id="zhou26af-evaluation"></a>[InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26af)
 
 <a id="by-theory-statistics"></a>
 

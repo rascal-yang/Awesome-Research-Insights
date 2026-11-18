@@ -208,6 +208,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Experience is the Best Teacher: Motivating Effective Exploration in Reinforcement Learning for LLMs](../../conferences/icml-2026/cards/5901-6000.md#zhang26io-reinforcement-learning) · 中文
 - [ECHO: Entropy-Confidence Hybrid Optimization for Test-Time Reinforcement Learning](../../conferences/icml-2026/cards/6001-6100.md#zhao26bn-reinforcement-learning) · 中文
 - [Stabilizing Reinforcement Learning for Diffusion Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhong26q-reinforcement-learning) · 中文
+- [The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ah-reinforcement-learning) · 中文
 
 <a id="by-computer-vision"></a>
 

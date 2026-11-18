@@ -207,6 +207,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhang26il-loss-functions"></a>[SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26il)
 - <a id="zhang26jo-loss-functions"></a>[Learnability-Driven Knowledge Assimilation for Class-Incremental Semantic Segmentation](../../conferences/icml-2026/cards/6001-6100.md#paper-zhang26jo)
 - <a id="zhao26y-loss-functions"></a>[Just Noticeable Difference Modeling for Deep Visual Features](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26y)
+- <a id="zhou26q-loss-functions"></a>[Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26q)
+- <a id="zhou26r-loss-functions"></a>[SpecPL: Disentangling Spectral Granularity for Prompt Learning](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26r)
 
 <a id="by-optimization"></a>
 
@@ -543,6 +545,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="zhao26cc-inference"></a>[$σ$: Sigmoid Modulation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26cc)
 - <a id="zheng26f-inference"></a>[Image Restoration via Diffusion Models with Dynamic Resolution](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26f)
 - <a id="zhong26o-inference"></a>[TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](../../conferences/icml-2026/cards/6101-6200.md#paper-zhong26o)
+- <a id="zhou26ai-inference"></a>[A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ai)
 
 <a id="by-representation-learning"></a>
 

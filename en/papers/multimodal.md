@@ -140,6 +140,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zhang26dw-loss-functions"></a>[In-Context Generation with Regional Constraints for Instructional Video Editing](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26dw)
 - <a id="zheng26ad-loss-functions"></a>[Temporal-Aware Reasoning Optimization for Video Temporal Grounding](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26ad)
 - <a id="zheng26af-loss-functions"></a>[Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate](../../conferences/icml-2026/cards/6101-6200.md#paper-zheng26af)
+- <a id="zhou26ae-loss-functions"></a>[Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ae)
 
 <a id="by-optimization"></a>
 

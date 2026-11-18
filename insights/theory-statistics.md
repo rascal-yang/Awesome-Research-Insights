@@ -670,6 +670,9 @@
 - [iForest的中心异常盲区与适用维度](../conferences/icml-2026/cards/6101-6200.md#zheng26ag-theory-statistics) · Theoretical Investigation on Inductive Bias of Isolation Forest
 - [按残差难度决定黑盒模型校正或回退](../conferences/icml-2026/cards/6101-6200.md#zhou26b-theory-statistics) · Black-Box Assisted Regression: Phase Transitions and Minimax Optimality
 - [函数型神经回归按谱截断与结构选复杂度](../conferences/icml-2026/cards/6101-6200.md#zhou26o-theory-statistics) · Deep Neural Network Regression with Functional Covariates
+- [已知soft干预目标的可实现性定向](../conferences/icml-2026/cards/6101-6200.md#zhou26s-theory-statistics) · Towards Completeness in Causal Discovery from Soft Interventions with Known Targets
+- [去伪相关的计算与环境多样性边界](../conferences/icml-2026/cards/6101-6200.md#zhou26v-theory-statistics) · Is Spurious Correlation Removal Always Learnable?
+- [Wasserstein稳定集合函数的logN宽度](../conferences/icml-2026/cards/6101-6200.md#zhou26ac-theory-statistics) · $\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -493,6 +493,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Plasticity Activation via Polar Operator: A Plug-in Method for Balancing Stability and Plasticity](../../conferences/icml-2026/cards/6101-6200.md#zheng26ac-optimization) · 中文
 - [DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhong26j-optimization) · 中文
 - [AdaS: Adaptive Gradient Descent for Spiking Transformers](../../conferences/icml-2026/cards/6101-6200.md#zhou26d-optimization) · 中文
+- [Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms](../../conferences/icml-2026/cards/6101-6200.md#zhou26aa-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

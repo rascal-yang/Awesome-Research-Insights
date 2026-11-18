@@ -389,6 +389,8 @@
 - [用输入扰动后的实体梯度转向筛自信错误](../conferences/icml-2026/cards/6101-6200.md#zhing26a-evaluation) · From Flat Facts to Sharp Hallucinations: Detecting Stubborn Errors via Gradient Sensitivity
 - [在捷径控制下比较ToM后训练](../conferences/icml-2026/cards/6101-6200.md#zhong26i-evaluation) · From Shortcuts to Reasoning: Robust Post-Training of Theory of Mind with Reinforcement Learning
 - [多约束代码修改需同时测回归与遵循](../conferences/icml-2026/cards/6101-6200.md#zhong26t-evaluation) · SWE-IF: Aligning Code Evaluation with Human Preference
+- [能力RL的代理奖励失败与有限迁移](../conferences/icml-2026/cards/6101-6200.md#zhou26p-evaluation) · Alignment Risks from Capability-Seeking RL Training
+- [质量与重复饱和的经验配方缩放律](../conferences/icml-2026/cards/6101-6200.md#zhou26af-evaluation) · InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition
 
 <a id="by-computer-vision"></a>
 

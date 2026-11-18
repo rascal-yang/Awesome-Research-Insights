@@ -100,6 +100,7 @@ Data selection, annotation, augmentation, and sampling.
 - [On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models](../../conferences/icml-2026/cards/5801-5900.md#zhang26en-data-strategies) · 中文
 - [Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement](../../conferences/icml-2026/cards/5901-6000.md#zhang26gc-data-strategies) · 中文
 - [What Really Improves Mathematical Reasoning: Structured Reasoning Signals Beyond Pure Code](../../conferences/icml-2026/cards/6001-6100.md#zhao26k-data-strategies) · 中文
+- [GeoAlign: Geometric Rollout Curation for Robust LLM Reinforcement Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ad-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

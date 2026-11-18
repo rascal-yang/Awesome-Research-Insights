@@ -28,6 +28,7 @@
 - <a id="bian26c-modules"></a>[AgentVocab: Structure-Aware Vocabulary Adaptation for Efficient LLM Agents](../conferences/icml-2026/cards/0201-0300.md#paper-bian26c)
 - <a id="li26jh-modules"></a>[Toward Robust Multilingual Adaptation of LLMs for Low-Resource Languages](../conferences/icml-2026/cards/2601-2700.md#paper-li26jh)
 - <a id="shuster26a-modules"></a>[Two-dimensional quantization for geometry-aware audio coding](../conferences/icml-2026/cards/4101-4200.md#paper-shuster26a)
+- <a id="zhou26ab-modules"></a>[Positional Encoding for Spiking Transformers](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ab)
 
 <a id="by-loss-functions"></a>
 

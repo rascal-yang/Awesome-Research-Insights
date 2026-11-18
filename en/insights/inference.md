@@ -536,6 +536,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [$σ$: Sigmoid Modulation for Ultra High Resolution Diffusion](../../conferences/icml-2026/cards/6001-6100.md#zhao26cc-inference) · 中文
 - [Image Restoration via Diffusion Models with Dynamic Resolution](../../conferences/icml-2026/cards/6101-6200.md#zheng26f-inference) · 中文
 - [TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization](../../conferences/icml-2026/cards/6101-6200.md#zhong26o-inference) · 中文
+- [A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle](../../conferences/icml-2026/cards/6101-6200.md#zhou26ai-inference) · 中文
 
 <a id="by-nlp"></a>
 
