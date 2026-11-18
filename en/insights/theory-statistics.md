@@ -80,6 +80,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference](../../conferences/icml-2026/cards/5501-5600.md#yu26h-theory-statistics) · 中文
 - [Anytime Safe PAC Efficient Reasoning](../../conferences/icml-2026/cards/5601-5700.md#yu26bm-theory-statistics) · 中文
 - [Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking](../../conferences/icml-2026/cards/5701-5800.md#zhang26ba-theory-statistics) · 中文
+- [DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss’ Convexity is Dispensable)](../../conferences/icml-2026/cards/6201-6300.md#zhou26bi-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -675,6 +676,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Is Spurious Correlation Removal Always Learnable?](../../conferences/icml-2026/cards/6101-6200.md#zhou26v-theory-statistics) · 中文
 - [$\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function](../../conferences/icml-2026/cards/6101-6200.md#zhou26ac-theory-statistics) · 中文
 - [Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach](../../conferences/icml-2026/cards/6101-6200.md#zhou26am-theory-statistics) · 中文
+- [On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective](../../conferences/icml-2026/cards/6201-6300.md#zhou26be-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

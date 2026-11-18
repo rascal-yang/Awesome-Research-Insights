@@ -265,6 +265,7 @@
 - [以任务概率监督独立confidence gate](../conferences/icml-2026/cards/6101-6200.md#zheng26af-loss-functions) · Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate
 - [感知与答案分差的非对称惩罚](../conferences/icml-2026/cards/6101-6200.md#zhou26ae-loss-functions) · Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification
 - [跨视觉encoder修复时分开对齐方向与尺度](../conferences/icml-2026/cards/6201-6300.md#zhou26aw-loss-functions) · Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration
+- [配对样本的多尺度热扩散邻域匹配](../conferences/icml-2026/cards/6201-6300.md#zhou26br-loss-functions) · Mitigating the Modality Gap in Vision–Language Models with Fractal Spectral Geometry
 
 <a id="by-ml-foundations"></a>
 
@@ -388,4 +389,5 @@
 - [用独立残差乘积消除 BSDE 损失偏差](../conferences/icml-2026/cards/4001-4100.md#seo26c-loss-functions) · Unbiased and Second-Order-Free Training for High-Dimensional PDEs
 - [按保真度拆分可用监督](../conferences/icml-2026/cards/4601-4700.md#wang26av-loss-functions) · Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information
 - [在最终生成样本蒸馏时加PDE残差](../conferences/icml-2026/cards/5901-6000.md#zhang26gl-loss-functions) · Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation
+- [与频率解锁进度匹配的PSD监督](../conferences/icml-2026/cards/6201-6300.md#zhou26bn-loss-functions) · Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting
 <!-- classification:end -->

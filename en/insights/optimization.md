@@ -496,6 +496,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [AdaS: Adaptive Gradient Descent for Spiking Transformers](../../conferences/icml-2026/cards/6101-6200.md#zhou26d-optimization) · 中文
 - [Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms](../../conferences/icml-2026/cards/6101-6200.md#zhou26aa-optimization) · 中文
 - [DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning](../../conferences/icml-2026/cards/6101-6200.md#zhou26ak-optimization) · 中文
+- [BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/6201-6300.md#zhou26bl-optimization) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

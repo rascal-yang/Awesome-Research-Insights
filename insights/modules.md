@@ -126,6 +126,7 @@
 - [随机子空间补投影的压缩扩张层](../conferences/icml-2026/cards/5601-5700.md#yu26bp-modules) · PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$
 - [槽注意力冷启动预热与帧别迭代](../conferences/icml-2026/cards/6001-6100.md#zhao26bl-modules) · Smoothing Slot Attention Iterations and Recurrences
 - [以value脉冲汇聚生成point或channel门控](../conferences/icml-2026/cards/6101-6200.md#zhou26n-modules) · SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing
+- [token merge后的value与logit联合缩放](../conferences/icml-2026/cards/6201-6300.md#zhou26bj-modules) · Statistically Calibrated Scaling for Token Merging in Transformers
 
 <a id="by-nlp"></a>
 

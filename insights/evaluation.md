@@ -392,6 +392,7 @@
 - [能力RL的代理奖励失败与有限迁移](../conferences/icml-2026/cards/6101-6200.md#zhou26p-evaluation) · Alignment Risks from Capability-Seeking RL Training
 - [质量与重复饱和的经验配方缩放律](../conferences/icml-2026/cards/6101-6200.md#zhou26af-evaluation) · InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition
 - [逐层逐前缀探测层级解析信息](../conferences/icml-2026/cards/6201-6300.md#zhou26at-evaluation) · How Transformers Represent Hierarchies: A Local-to-Global Mechanism
+- [否定处理的晚层attention捷径诊断](../conferences/icml-2026/cards/6201-6300.md#zhou26bq-evaluation) · How Language Models Process Negation
 
 <a id="by-computer-vision"></a>
 
@@ -718,6 +719,7 @@
 - [传播优化器状态扰动估计训练阶段影响](../conferences/icml-2026/cards/5701-5800.md#zhang26aj-evaluation) · Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems
 - [以interaction向量诊断公平与utility冲突位置](../conferences/icml-2026/cards/5901-6000.md#zhang26hp-evaluation) · A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning
 - [表格鲁棒性同时测结构一致性与分类失效](../conferences/icml-2026/cards/6201-6300.md#zhou26bc-evaluation) · Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data
+- [mergeability预测按merger与partner验证](../conferences/icml-2026/cards/6201-6300.md#zhou26bo-evaluation) · Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success
 
 <a id="by-graph-and-recommendation"></a>
 

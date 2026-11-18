@@ -72,6 +72,7 @@ Model-wide design and information flow.
 - [Prototype Transformer: Towards Language Model Architectures Interpretable by Design](../../conferences/icml-2026/cards/5501-5600.md#yordanov26a-architecture) · 中文
 - [Attention with Routed-Memory for Learnable Sparse Control](../../conferences/icml-2026/cards/5701-5800.md#zeng26h-architecture) · 中文
 - [ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns](../../conferences/icml-2026/cards/6001-6100.md#zhao26ce-architecture) · 中文
+- [Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](../../conferences/icml-2026/cards/6201-6300.md#zhou26bd-architecture) · 中文
 
 <a id="by-computer-vision"></a>
 

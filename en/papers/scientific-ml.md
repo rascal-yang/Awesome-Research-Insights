@@ -175,6 +175,7 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="seo26c-loss-functions"></a>[Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../../conferences/icml-2026/cards/4001-4100.md#paper-seo26c)
 - <a id="wang26av-loss-functions"></a>[Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26av)
 - <a id="zhang26gl-loss-functions"></a>[Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gl)
+- <a id="zhou26bn-loss-functions"></a>[Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bn)
 
 <a id="by-optimization"></a>
 

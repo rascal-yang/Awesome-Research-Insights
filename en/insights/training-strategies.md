@@ -173,6 +173,7 @@ Training schedules, curricula, and task or stage composition.
 - [Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons](../../conferences/icml-2026/cards/5901-6000.md#zhang26gx-training-strategies) · 中文
 - [Proxy Compression for Language Modeling](../../conferences/icml-2026/cards/6101-6200.md#zheng26e-training-strategies) · 中文
 - [Harnessing Non-Adversarial Robustness in Large Language Models](../../conferences/icml-2026/cards/6101-6200.md#zhou26a-training-strategies) · 中文
+- [Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models](../../conferences/icml-2026/cards/6201-6300.md#zhou26bs-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

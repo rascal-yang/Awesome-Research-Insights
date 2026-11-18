@@ -265,6 +265,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate](../../conferences/icml-2026/cards/6101-6200.md#zheng26af-loss-functions) · 中文
 - [Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification](../../conferences/icml-2026/cards/6101-6200.md#zhou26ae-loss-functions) · 中文
 - [Uni-DocRobust: Universal Plug-and-Play Robustness Enhancement for Multi-modal LLMs via Feature Restoration](../../conferences/icml-2026/cards/6201-6300.md#zhou26aw-loss-functions) · 中文
+- [Mitigating the Modality Gap in Vision–Language Models with Fractal Spectral Geometry](../../conferences/icml-2026/cards/6201-6300.md#zhou26br-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -388,4 +389,5 @@ Objectives, auxiliary supervision, and regularization.
 - [Unbiased and Second-Order-Free Training for High-Dimensional PDEs](../../conferences/icml-2026/cards/4001-4100.md#seo26c-loss-functions) · 中文
 - [Credible Information Subset Decomposition: An End-to-End Multi-fidelity Learning Model by Modeling Label Information](../../conferences/icml-2026/cards/4601-4700.md#wang26av-loss-functions) · 中文
 - [Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation](../../conferences/icml-2026/cards/5901-6000.md#zhang26gl-loss-functions) · 中文
+- [Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting](../../conferences/icml-2026/cards/6201-6300.md#zhou26bn-loss-functions) · 中文
 <!-- classification:end -->

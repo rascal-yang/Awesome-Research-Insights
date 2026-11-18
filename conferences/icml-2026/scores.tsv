@@ -6210,26 +6210,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 6209	zhou26ba	3	4	2	3	62		初筛，原文与先例核查待补：暂定评分依据：streaming FL可用client未来状态分布与各状态异质界联合设数据保留率，再按该采样形成的异质分数和可用概率聚合，而非让buffer与聚合各自独立适应漂移。；边界：π/dm需估计且stream状态模型限制真实漂移；PDF5 Eq9与实际Eq14的α/(1−α)关系、Eq10与15归一化/总采样率形式不同，未统一核查前不替作者修正。概率/权重极端值及buffer matched控制待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26ba/zhou26ba.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26ba/zhou26ba.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26ba/zhou26ba.pdf#page=6)	scored
 6210	zhou26bb	3	4	2	3	62		初筛，原文与先例核查待补：暂定评分依据：时间序列生成可将QKᵀ点对score图作局部二维卷积，DCT基初始化可学核，以窗口级模式匹配替换部分attention heads，并保留普通heads作为对照。；边界：PDF5 Eq12把V写在softmax括号内，文字描述像常规score归一化，实际实现待核，不能擅自改式。学后核不保证保留DCT谱/周期不变性，仍显式构造N²score，非线性复杂度attention；窗口/边界与算量控制待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26bb/zhou26bb.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26bb/zhou26bb.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26bb/zhou26bb.pdf#page=6)	scored
 6211	zhou26bc	3	4	3	3	66		初筛，原文与先例核查待补：暂定评分依据：评估异质表格神经分类器时，应把逐特征范数可行性与学习结构模型的一致性分开检查；沿学习依赖传播的扰动可揭示常规独立坐标测试遗漏的脆弱性，但不构成真实因果保证。；边界：观测数据学到DAG不保证因果方向可识别；likelihood高不等语义/现实可行。soft类别优化与离散落地可有差距，ensemble不覆盖错设；应报告最后合法离散样本与真实防御泛化，而非只中间松弛结果。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26bc/zhou26bc.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26bc/zhou26bc.pdf#page=4)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhou26bc/zhou26bc.pdf#page=6)	scored
-6212	zhou26bd							待原文复核评分	pending
-6213	zhou26be							待原文复核评分	pending
-6214	zhou26bf							待原文复核评分	pending
-6215	zhou26bg							待原文复核评分	pending
-6216	zhou26bh							待原文复核评分	pending
-6217	zhou26bi							待原文复核评分	pending
-6218	zhou26bj							待原文复核评分	pending
-6219	zhou26bk							待原文复核评分	pending
-6220	zhou26bl							待原文复核评分	pending
-6221	zhou26bm							待原文复核评分	pending
-6222	zhou26bn							待原文复核评分	pending
-6223	zhou26bo							待原文复核评分	pending
-6224	zhou26bp							待原文复核评分	pending
-6225	zhou26bq							待原文复核评分	pending
-6226	zhou26br							待原文复核评分	pending
-6227	zhou26bs							待原文复核评分	pending
-6228	zhou26bt							待原文复核评分	pending
-6229	zhou26bu							待原文复核评分	pending
-6230	zhou26bv							待原文复核评分	pending
-6231	zhou26bw							待原文复核评分	pending
+6212	zhou26bd	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：离散diffusion LM可同时维护连续语义latent与token状态，用单模型双头交叉条件去噪，比较离散-only同骨干以检验latent分支作用。；PPL均是估计上界不是精确likelihood；预训练Qwen embedding encoder的知识与构造成本需计；连续trajectory族较大不等固定NFE/decoder下任务更强；条件独立reverse heads是建模近似，非真实joint posterior分解。 PDF4,5,6,7页。	scored
+6213	zhou26be	4	4	3	4	76		初筛，原文与先例核查待补：暂定新增4/复用4/使用3/独特4：局部强凸proxy/PL任务条件下，用proxy-task对齐、有效batch信息与shift间隔判断TTA能否及时恢复；不要只凭总regret判断每次shift后可靠性。；目标是局部proxy最优模型的task risk，非supervised Bayes最优；W1 quantization使用未知Pt是分析oracle，不是可执行shift detector。ζ的充分可行条件不满足不能直接推所有算法必不可能；局部强凸/留在邻域不自动适用于Tent全深网。 PDF2,3,4,5,6,7页。	scored
+6214	zhou26bf	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：多expert可控合并可先用行为分布PoE近似共识anchor，再在Fisher度量下分出低分歧subspace，最后对残差谱正交化；用交叉value响应检验控制串扰。；PoE局部近似和Fisher估计依calibration，几何均值定义需指数归一；正交parameter方向不保证输出value独立或shared能力不掉。anchor translation若改变Fisher不自动不变，eigenrank规则与成本需核。 PDF4,5,6页。	scored
+6215	zhou26bg							初筛，原文与先例核查待补：统一VRP属性/role多hot、distance/transposed-distance/relation attention及problem-conditioned hypernetwork为成熟多任务神经routing构件；110变体覆盖和规模不构成独立新增通用操作。PDF4–5。	rule-excluded
+6216	zhou26bh							初筛，原文与先例核查待补：CLIP prior logits加support cache logits正是已有Tip-Adapter类加性适配；Bayes conditional independence重新解释及multi-level adapter/cache简化不足独立新增机制，校准prior假设也不自动成立。PDF4–5。	rule-excluded
+6217	zhou26bi	3	4	3	4	69		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特4：设计偏好优化目标时，分别选择proper-loss诱导的Bregman正则、单调human-choice link和合规二元loss；保留归一常数相消，不因最终loss非凸自动排除。；normative一致性不保证神经参数训练全局收敛或人类偏好拟合正确；边界zero-probability需KKT multiplier处理，不能照full-support相消公式无条件用；toy结果和现有generalized DPO重复待核。 PDF4,5,6,7页。	scored
+6218	zhou26bj	4	5	4	4	86		初筛，原文与先例核查待补：暂定新增4/复用5/使用4/独特4：token merging后试用value乘√r，并把merged logit改成√r·平均logit+(1−√r)log cluster size；同retention和merger比较能量/accuracy，不只加log size。；理论依stationary/exchangeable cluster与leading-order surrogate，不是仅有限二阶矩即普遍最优；value相关/cluster averaging可抵消或反转能量论证。不同cluster size用global r近似，logit向prior凸混合不是精确logsumexp，模型/任务失配待核。 PDF3,4,5,6页。	scored
+6219	zhou26bk							初筛，原文与先例核查待补：entity/chunk graph retrieval、hyperedge形式事实组、LLM insert/update/merge与局部/全局检索，是成熟graphRAG/动态记忆流程；高阶关系命名及benchmark分数不足独立新记忆更新算法。PDF4–5。	rule-excluded
+6220	zhou26bl	4	5	4	4	86		初筛，原文与先例核查待补：暂定新增4/复用5/使用4/独特4：在Adam预训练模型上，试用每块单个second-moment norm状态和sign(momentum)，以||EMA g||/sqrt(EMA||g||²)定共享幅度，分别验证Adam超参迁移与独立调优。；同超参测试不是各optimizer最佳调优上限；block划分关键，param-wise指tensor分块不是每scalar。理论去weight decay/bias correction且有界梯度等；MV local moments不兼容ZeRO sharding、DP大时退化，通信量不等walltime。 PDF3,4,5,6,7页。	scored
+6221	zhou26bm							初筛，原文与先例核查待补：joint bit/rank配置、importance warmstart、multi-fidelity evolution与trust-region BO是成熟quantization/lowrank co-design及NAS/blackbox搜索组合；frozen proxy不决定finetune表现已有一般适配限制，现有缓存未见独立新目标或匹配预算选择规律。PDF4–5。	rule-excluded
+6222	zhou26bn	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：频率渐进forecasting可对径向log PSD差按当前cutoff分段加权，补高频能量而不把纹理真实性等同未来位置预测正确。；GT低频Cs用于训练，推理自预测条件有exposure mismatch；radial PSD丢phase和方向，谱匹配不能保雨带位置/极端事件。log零PSD需ε处理，有限频率拟合非Kolmogorov全尺度保证；最相近spectral curriculum目标待核。 PDF4,5,6页。	scored
+6223	zhou26bo	3	4	4	3	70		初筛，原文与先例核查待补：暂定新增3/复用4/使用4/独特3：筛选要合并的task models时，使用具体merger/architecture的pair指标，并按留一task划分验证；不能把单模型内在分数当普适mergeability。；相关系数r不是解释方差r²，更不证明gradient指标因果驱动；negative Pearson+L1对正比例缩放不变而L1缩小，权重重要性/尺度识别可能退化，需核优化归一/约束；不自动迁移全LLM。 PDF4,5,6页。	scored
+6224	zhou26bp							初筛，原文与先例核查待补：安全可分离通用描述为POMDP任务表达、闭环自反思与文本feedback改写的成熟agent搜索流程；当前材料的额外优化主要针对专用越狱目标，未见独立通用神经学习或防御控制规律。仅摘要/高层方法范围，不提取攻击步骤。	rule-excluded
+6225	zhou26bq	4	4	4	4	80		初筛，原文与先例核查待补：暂定新增4/复用4/使用4/独特4：否定准确率低时先区分内部对否定敏感与最终答案正确；用attention仅保留首token/当前token的干预，检查晚层跨token搬运是否压过已有否定信号。；BOS/self仍有value/MLP信息，sink非完全置零且改变分布；不能从受控candidate任务推所有自然语言否定或语义逻辑；late-layer ablation的通用能力损失、层选择验证和预算待核。 PDF3,4,5页。	scored
+6226	zhou26br	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：冻结VLM表征后，可加模态特定几何层，匹配配对样本在多尺度fractional heat-kernel下的邻域descriptor，而非仅缩小全局modality均值差。；有限empirical atomic measure不能在任意r→0满足正维Ahlfors regularity，训练只有限尺度拟合；heat trace每scale自由offset也可能使power-law约束空泛。descriptor邻域不等原embedding kNN，NAS保证需rank gap/metric条件，spectral cost与out-of-sample应用待核。 PDF4,5,6,7页。	scored
+6227	zhou26bs	3	4	3	3	66		初筛，原文与先例核查待补：暂定新增3/复用4/使用3/独特3：混合SFT与RL时，用训练动态特征学三路allocator，并把allocator与模型作相反方向交替优化；与固定混合和手工difficulty阈值做预算控制。；SFT/RL objective单位/符号不可直接当可比学习潜力，allocator可能偏loss尺度；STE有偏，discard gate激励需核。difficulty与weight正cov不保证gradient alignment或更快收敛；额外rollout、teacher trace和allocator预算需计。 PDF3,4,5,6页。	scored
+6228	zhou26bt							初筛，原文与先例核查待补：gradient attribution定位patch、Kmeans concept codebook、prototype similarity top-k池化与BCE多head属成熟concept bottleneck/feature transfer；CleanDIFT作为reference及CKNNA相关尚无独立匹配控制决策规律，AIGI任务应用本身不足。PDF4–6。	rule-excluded
+6229	zhou26bu							初筛，原文与先例核查待补：安全可分离高层描述主要将既有hyperbolic/Hamiltonian/narrative组合服务专用攻击流程，当前材料未给可独立改变通用神经训练/推理的新增机制；不据几何术语或整体ASR保留。仅摘要层面判定。	rule-excluded
+6230	zhou26bv							初筛，原文与先例核查待补：固定λ的bounded-loss calibration mean加B/(n+1)、Hoeffding偏移与split后选Pareto点属于成熟CRC/风险估计/多目标选择；期望意义上界不足同数据自适应λ保证，去掉宽泛certified frontier宣称后未见独立新可用校准操作。PDF4–5。	rule-excluded
+6231	zhou26bw							初筛，原文与先例核查待补：ASTD新归因数据、标准BERT/LLM分类、metric构preference后DPO为成熟NLP数据/训练流程；特定心理维度和评估指标尚未构成独立通用神经机制，未将离线重写分数当临床疗效。PDF4–5。	rule-excluded
 6232	zhou26bx							待原文复核评分	pending
 6233	zhu26a							待原文复核评分	pending
 6234	zhu26b							待原文复核评分	pending

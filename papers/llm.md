@@ -72,6 +72,7 @@
 - <a id="yordanov26a-architecture"></a>[Prototype Transformer: Towards Language Model Architectures Interpretable by Design](../conferences/icml-2026/cards/5501-5600.md#paper-yordanov26a)
 - <a id="zeng26h-architecture"></a>[Attention with Routed-Memory for Learnable Sparse Control](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26h)
 - <a id="zhao26ce-architecture"></a>[ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns](../conferences/icml-2026/cards/6001-6100.md#paper-zhao26ce)
+- <a id="zhou26bd-architecture"></a>[Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bd)
 
 <a id="by-modules"></a>
 
@@ -675,6 +676,7 @@
 - <a id="zhang26gx-training-strategies"></a>[Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26gx)
 - <a id="zheng26e-training-strategies"></a>[Proxy Compression for Language Modeling](../conferences/icml-2026/cards/6101-6200.md#paper-zheng26e)
 - <a id="zhou26a-training-strategies"></a>[Harnessing Non-Adversarial Robustness in Large Language Models](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26a)
+- <a id="zhou26bs-training-strategies"></a>[Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bs)
 
 <a id="by-data-strategies"></a>
 
@@ -1175,6 +1177,7 @@
 - <a id="yang26aw-representation-learning"></a>[Step-Level Sparse Autoencoder for Reasoning Process Interpretation](../conferences/icml-2026/cards/5301-5400.md#paper-yang26aw)
 - <a id="zhang26bd-representation-learning"></a>[Harnessing Reasoning Trajectories for Hallucination Detection via Answer-agreement Representation Shaping](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bd)
 - <a id="zhang26hu-representation-learning"></a>[$V_0$: A Generalist Value Model for Any Policy at State Zero](../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hu)
+- <a id="zhou26bf-representation-learning"></a>[Disentangling Consensus and Value-Specific Representations for Controllable Pluralistic Value Alignment in LLMs](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bf)
 
 <a id="by-evaluation"></a>
 
@@ -1559,6 +1562,7 @@
 - <a id="zhou26p-evaluation"></a>[Alignment Risks from Capability-Seeking RL Training](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26p)
 - <a id="zhou26af-evaluation"></a>[InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition](../conferences/icml-2026/cards/6101-6200.md#paper-zhou26af)
 - <a id="zhou26at-evaluation"></a>[How Transformers Represent Hierarchies: A Local-to-Global Mechanism](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26at)
+- <a id="zhou26bq-evaluation"></a>[How Language Models Process Negation](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bq)
 
 <a id="by-theory-statistics"></a>
 
@@ -1631,4 +1635,5 @@
 - <a id="yu26h-theory-statistics"></a>[On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference](../conferences/icml-2026/cards/5501-5600.md#paper-yu26h)
 - <a id="yu26bm-theory-statistics"></a>[Anytime Safe PAC Efficient Reasoning](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bm)
 - <a id="zhang26ba-theory-statistics"></a>[Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ba)
+- <a id="zhou26bi-theory-statistics"></a>[DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss’ Convexity is Dispensable)](../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bi)
 <!-- classification:end -->

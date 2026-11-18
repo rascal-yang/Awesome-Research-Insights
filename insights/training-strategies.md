@@ -173,6 +173,7 @@
 - [高资源安全子网络的定向跨语言训练](../conferences/icml-2026/cards/5901-6000.md#zhang26gx-training-strategies) · Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons
 - [压缩视图训练与原始字节推理](../conferences/icml-2026/cards/6101-6200.md#zheng26e-training-strategies) · Proxy Compression for Language Modeling
 - [先测扰动均值偏移再校正分类logit](../conferences/icml-2026/cards/6101-6200.md#zhou26a-training-strategies) · Harnessing Non-Adversarial Robustness in Large Language Models
+- [学习SFT/RL/丢弃的逐样本策略门控](../conferences/icml-2026/cards/6201-6300.md#zhou26bs-training-strategies) · Tailoring the Training: Difficulty-Aware Learning Strategy Allocation for Large Language Models
 
 <a id="by-computer-vision"></a>
 

@@ -80,6 +80,7 @@
 - [只把高奖励生成加入后续上下文](../conferences/icml-2026/cards/5501-5600.md#yu26h-theory-statistics) · On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference
 - [部分反馈下注检验的推理路由](../conferences/icml-2026/cards/5601-5700.md#yu26bm-theory-statistics) · Anytime Safe PAC Efficient Reasoning
 - [按数据支持与前向核选离散扩散](../conferences/icml-2026/cards/5701-5800.md#zhang26ba-theory-statistics) · Generalization Bounds for Discrete Diffusion: Statistical Advantage of Masking
+- [将DPO regularizer、choice link与最终loss解耦](../conferences/icml-2026/cards/6201-6300.md#zhou26bi-theory-statistics) · DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss’ Convexity is Dispensable)
 
 <a id="by-computer-vision"></a>
 
@@ -675,6 +676,7 @@
 - [去伪相关的计算与环境多样性边界](../conferences/icml-2026/cards/6101-6200.md#zhou26v-theory-statistics) · Is Spurious Correlation Removal Always Learnable?
 - [Wasserstein稳定集合函数的logN宽度](../conferences/icml-2026/cards/6101-6200.md#zhou26ac-theory-statistics) · $\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function
 - [归一化核距离检验数据对是否超出容忍差异](../conferences/icml-2026/cards/6101-6200.md#zhou26am-theory-statistics) · Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach
+- [按代理对齐和时序相关选择TTA恢复预算](../conferences/icml-2026/cards/6201-6300.md#zhou26be-theory-statistics) · On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective
 
 <a id="by-graph-and-recommendation"></a>
 

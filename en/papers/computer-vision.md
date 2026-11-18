@@ -140,6 +140,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="yu26bp-modules"></a>[PACEAttention: Principled and Adaptive Feature Compression-Expansion Grounded in the Geometry of $\textMCR^2$](../../conferences/icml-2026/cards/5601-5700.md#paper-yu26bp)
 - <a id="zhao26bl-modules"></a>[Smoothing Slot Attention Iterations and Recurrences](../../conferences/icml-2026/cards/6001-6100.md#paper-zhao26bl)
 - <a id="zhou26n-modules"></a>[SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26n)
+- <a id="zhou26bj-modules"></a>[Statistically Calibrated Scaling for Token Merging in Transformers](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bj)
 
 <a id="by-loss-functions"></a>
 

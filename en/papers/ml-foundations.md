@@ -506,6 +506,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhou26d-optimization"></a>[AdaS: Adaptive Gradient Descent for Spiking Transformers](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26d)
 - <a id="zhou26aa-optimization"></a>[Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26aa)
 - <a id="zhou26ak-optimization"></a>[DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ak)
+- <a id="zhou26bl-optimization"></a>[BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bl)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -872,6 +873,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhang26aj-evaluation"></a>[Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26aj)
 - <a id="zhang26hp-evaluation"></a>[A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning](../../conferences/icml-2026/cards/5901-6000.md#paper-zhang26hp)
 - <a id="zhou26bc-evaluation"></a>[Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bc)
+- <a id="zhou26bo-evaluation"></a>[Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26bo)
 
 <a id="by-theory-statistics"></a>
 
@@ -1336,4 +1338,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="zhou26v-theory-statistics"></a>[Is Spurious Correlation Removal Always Learnable?](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26v)
 - <a id="zhou26ac-theory-statistics"></a>[$\mathcalO(\log N)$ Latent Dimension Suffices for Universal Approximation of Permutation-invariant Function](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26ac)
 - <a id="zhou26am-theory-statistics"></a>[Are Two Datasets Close Enough With Statistical Significance? A Kernel Distributional Closeness Testing Approach](../../conferences/icml-2026/cards/6101-6200.md#paper-zhou26am)
+- <a id="zhou26be-theory-statistics"></a>[On the Learnability of Test-Time Adaptation: A Recovery Complexity Perspective](../../conferences/icml-2026/cards/6201-6300.md#paper-zhou26be)
 <!-- classification:end -->

@@ -392,6 +392,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Alignment Risks from Capability-Seeking RL Training](../../conferences/icml-2026/cards/6101-6200.md#zhou26p-evaluation) · 中文
 - [InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition](../../conferences/icml-2026/cards/6101-6200.md#zhou26af-evaluation) · 中文
 - [How Transformers Represent Hierarchies: A Local-to-Global Mechanism](../../conferences/icml-2026/cards/6201-6300.md#zhou26at-evaluation) · 中文
+- [How Language Models Process Negation](../../conferences/icml-2026/cards/6201-6300.md#zhou26bq-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -718,6 +719,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Who Gets Credit or Blame? Attributing Accountability in Modern AI Systems](../../conferences/icml-2026/cards/5701-5800.md#zhang26aj-evaluation) · 中文
 - [A Game-Theoretic Framework for Measuring and Explaining Metric Compatibility in Fair Machine Learning](../../conferences/icml-2026/cards/5901-6000.md#zhang26hp-evaluation) · 中文
 - [Ripple Perturbations Through Structure: Likelihood-Constrained Adversarial Attacks on Heterogeneous Tabular Data](../../conferences/icml-2026/cards/6201-6300.md#zhou26bc-evaluation) · 中文
+- [Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](../../conferences/icml-2026/cards/6201-6300.md#zhou26bo-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

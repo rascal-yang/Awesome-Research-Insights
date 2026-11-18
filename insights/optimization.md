@@ -496,6 +496,7 @@
 - [按更新偏离代理混合动量与自适应方向](../conferences/icml-2026/cards/6101-6200.md#zhou26d-optimization) · AdaS: Adaptive Gradient Descent for Spiking Transformers
 - [多项式FHE训练的权重界与免clipping](../conferences/icml-2026/cards/6101-6200.md#zhou26aa-optimization) · Revisiting ML Training under Fully Homomorphic Encryption: Convergence Guarantees, Differential Privacy, and Efficient Algorithms
 - [联邦多目标同时控制客户端漂移与权重映射敏感性](../conferences/icml-2026/cards/6101-6200.md#zhou26ak-optimization) · DREAM: A Unified Framework for Drift-Corrected Federated Multi-Objective Learning
+- [块级norm比例调sign动量更新](../conferences/icml-2026/cards/6201-6300.md#zhou26bl-optimization) · BAS: Bridging Adam and SignSGD for Memory-Efficient LLM Training
 
 <a id="by-graph-and-recommendation"></a>
 
