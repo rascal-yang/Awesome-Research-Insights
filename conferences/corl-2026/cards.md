@@ -2446,3 +2446,78 @@
 - **适用条件 / 局限** · 依赖跨扫描共享物体和可用的几何估计；物体变动或外观近似会弱化匹配。
 
 **可复用机制** · 当稠密配准不稳定时，先以语义约束提出变换候选，再让几何一致性筛解。
+
+<a id="paper-whavgmiwj3"></a>
+
+## Geometry-Aware Absolute Pose Regression via Geometric Pose Proxy
+
+[会议记录](https://openreview.net/forum?id=wHAVgmIwj3) · [原文](https://openreview.net/pdf?id=wHAVgmIwj3)
+
+- **问题 / 瓶颈** · 直接用图像回归位姿隐藏了透视与场景约束。
+- **核心创新 / 方法** · 先将查询图像提升为点图，再预测编码场景与透视的 Gram 矩阵；在点图空间生成新视角训练样本。
+- **Baseline** · 以单次前向绝对位姿回归为起点；与基于新视角渲染的增强比较。
+- **Benchmark** · 室内外相机重定位，考察精度与推理效率；摘要未列数据集。
+- **关键结果 / 消融** · 作者报告精度改善并保留高效前向推理；摘要未给量化消融。
+- **适用条件 / 局限** · 取决于点图质量和有效的新视角生成范围。
+
+**可复用机制** · 几何回归任务可直接增强中间几何表示，固定训练预算比较几何增强与图像渲染增强。
+
+<a id="paper-usrlwzdtic"></a>
+
+## FreeLoc: Online Floorplan Localization via Diffusion-Aided Pose Refinement
+
+[会议记录](https://openreview.net/forum?id=uSrlwzdTIC) · [原文](https://openreview.net/pdf?id=uSrlwzdTIC)
+
+- **问题 / 瓶颈** · 密集离线姿态库的体积与精度受离散采样分辨率绑定。
+- **核心创新 / 方法** · 在线射线查询生成候选锚点，再用扩散细化位姿；用粗样本和细化假设构造似然供直方图滤波。
+- **Baseline** · 对照依赖离线数据库的方法；摘要未列名称。
+- **Benchmark** · RGB 单帧与序列室内定位，并有机器人实地评估；摘要未给具体指标。
+- **关键结果 / 消融** · 作者报告在线实时推理及较强定位性能；摘要未给延时、精度数值。
+- **适用条件 / 局限** · 需要与实际环境相符且可查询的平面图；布局变化的鲁棒性未报告。
+
+**可复用机制** · 地图内候选可在线生成时，以少量锚点加连续求精替代离线密集枚举，并测地图误差下的表现。
+
+<a id="paper-ojmvvfkk6t"></a>
+
+## CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching
+
+[会议记录](https://openreview.net/forum?id=ojMvvFKk6t) · [原文](https://openreview.net/pdf?id=ojMvvFKk6t)
+
+- **问题 / 瓶颈** · 离散网格匹配依赖高分辨率特征来压低量化误差。
+- **核心创新 / 方法** · 粗层用循环状态做全局坐标更新，细层在小窗口内预测亚像素修正。
+- **Baseline** · 与半密集匹配器比较，包括 Efficient LoFTR。
+- **Benchmark** · 室内外匹配基准，包含 MegaDepth；测精度和嵌入式设备推理速度。
+- **关键结果 / 消融** · 作者报告 MegaDepth 更准确，边缘端比 Efficient LoFTR 快超过十倍；摘要未给硬件和消融数值。
+- **适用条件 / 局限** · 迭代初值需足以找到正确匹配邻域；极端视角的边界未说明。
+
+**可复用机制** · 在受限设备上优先比较低分辨率特征加连续残差细化与网格加密。
+
+<a id="paper-a9tbpzfswi"></a>
+
+## LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization
+
+[会议记录](https://openreview.net/forum?id=A9tBpzFsWI) · [原文](https://openreview.net/pdf?id=A9tBpzFsWI)
+
+- **问题 / 瓶颈** · 每层都交互会让一个查询对多个图库图像时重复执行全网。
+- **核心创新 / 方法** · 拆分前段单图 Context Blocks 与末段 Interaction Blocks，并按后段熵信号缩减交互前的 token。
+- **Baseline** · 基于已有深度匹配器重构，与标准交错式匹配器比较。
+- **Benchmark** · HPatches、ScanNet、MegaDepth 和 ETH3D，比较有效计算成本和匹配精度。
+- **关键结果 / 消融** · 有效成本改善超过两倍，E-SToRE 再节省 10% 至 14%，作者报告精度损失可忽略。
+- **适用条件 / 局限** · 主要收益依赖单输入被多次复用；实际延迟还取决于缓存带宽。
+
+**可复用机制** · 对一对多检索或匹配，用固定精度比较早交互与晚交互，随候选数记录缓存体积和在线成本。
+
+<a id="paper-33h7bchfgi"></a>
+
+## G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation
+
+[会议记录](https://openreview.net/forum?id=33H7BChFgI) · [原文](https://openreview.net/pdf?id=33H7BChFgI)
+
+- **问题 / 瓶颈** · 将所有图像当作无结构集合，会弱化各组已有的标定或里程计几何信息。
+- **核心创新 / 方法** · 用 Perceiver 重采样、合并自注意力桥和多帧位姿头连接两组，仅以相对位姿监督。
+- **Baseline** · 使用冻结多视图基础模型；对照方法按原有完整监督重训，摘要未列名称。
+- **Benchmark** · 四个数据集覆盖室内外仿真、真实跨季节和零样本仿真到现实；评估相对位姿估计。
+- **关键结果 / 消融** · 约 32M 可训练参数，低于全模型 6%；作者报告两项任务精度领先，摘要未给具体误差。
+- **适用条件 / 局限** · 依赖可靠的组内几何；标定漂移和里程计噪声的影响未报告。
+
+**可复用机制** · 多组传感器数据已有局部几何时，保留预训练的局部表示，把参数预算投向跨组信息交换。

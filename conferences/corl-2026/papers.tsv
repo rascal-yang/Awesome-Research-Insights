@@ -177,11 +177,11 @@ number	openreview_id	title	paper_url	reason	status
 176	rwx9GCSVjH	PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors	https://openreview.net/forum?id=rwx9GCSVjH	用传感器深度逐路点校正预训练策略输出的无尺度路径。	included
 177	eRpTR7EEC1	LIME: Learning Intent-aware Camera Motion from Egocentric Video	https://openreview.net/forum?id=eRpTR7EEC1	从被动视频构造意图、预期观测和相对位姿监督，学习按需移动相机。	included
 178	5oNzcK6SBR	PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models	https://openreview.net/forum?id=5oNzcK6SBR	用语义候选加几何共识，配准仅部分重叠的自视角 RGB 扫描。	included
-179	wHAVgmIwj3	Geometry-Aware Absolute Pose Regression via Geometric Pose Proxy	https://openreview.net/forum?id=wHAVgmIwj3		pending
-180	uSrlwzdTIC	FreeLoc: Online Floorplan Localization via Diffusion-Aided Pose Refinement	https://openreview.net/forum?id=uSrlwzdTIC		pending
-181	ojMvvFKk6t	CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching	https://openreview.net/forum?id=ojMvvFKk6t		pending
-182	A9tBpzFsWI	LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization	https://openreview.net/forum?id=A9tBpzFsWI		pending
-183	33H7BChFgI	G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation	https://openreview.net/forum?id=33H7BChFgI		pending
+179	wHAVgmIwj3	Geometry-Aware Absolute Pose Regression via Geometric Pose Proxy	https://openreview.net/forum?id=wHAVgmIwj3	在绝对位姿回归中预测含透视约束的中间表示，并在几何空间增强视角。	included
+180	uSrlwzdTIC	FreeLoc: Online Floorplan Localization via Diffusion-Aided Pose Refinement	https://openreview.net/forum?id=uSrlwzdTIC	将平面图作为可在线查询的地图，用候选位姿做连续精修与时间融合。	included
+181	ojMvvFKk6t	CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching	https://openreview.net/forum?id=ojMvvFKk6t	在连续坐标中迭代修正对应点，以低分辨率特征保留几何精度。	included
+182	A9tBpzFsWI	LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization	https://openreview.net/forum?id=A9tBpzFsWI	延迟跨输入交互，让重复使用的单图特征可预计算并缓存。	included
+183	33H7BChFgI	G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation	https://openreview.net/forum?id=33H7BChFgI	冻结组内几何编码，只训练轻量的跨组交互和位姿头。	included
 184	2AOAVWqGC6	LSPR: Init-Anchored Score-Based Multi-Camera Calibration for Indoor Robot Manipulation	https://openreview.net/forum?id=2AOAVWqGC6		pending
 185	ffIOVlfRQN	CoLA: Robust Collaborative Perception with Linear Global Spatial Alignment	https://openreview.net/forum?id=ffIOVlfRQN		pending
 186	7BCkvvmpuj	OptiGeo: Efficient Monocular Geometry for Embodied Perception in Optically Challenging Scenes	https://openreview.net/forum?id=7BCkvvmpuj		pending

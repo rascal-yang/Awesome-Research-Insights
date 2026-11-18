@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **170 / 687** 篇，当前收录 **163** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **175 / 687** 篇，当前收录 **168** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -169,3 +169,8 @@
 | 具身智能 / 导航 | 策略适配 | [PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors](cards.md#paper-rwx9gcsvjh) | 用传感器深度逐路点校正预训练策略输出的无尺度路径。 |
 | 具身智能 / 多模态 | 主动感知 | [LIME: Learning Intent-aware Camera Motion from Egocentric Video](cards.md#paper-erptr7eec1) | 从被动视频构造意图、预期观测和相对位姿监督，学习按需移动相机。 |
 | 具身智能 / 多模态 | 场景配准 | [PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models](cards.md#paper-5onzck6sbr) | 用语义候选加几何共识，配准仅部分重叠的自视角 RGB 扫描。 |
+| 具身智能 / 视觉 | 几何监督 | [Geometry-Aware Absolute Pose Regression via Geometric Pose Proxy](cards.md#paper-whavgmiwj3) | 在绝对位姿回归中预测含透视约束的中间表示，并在几何空间增强视角。 |
+| 具身智能 / 定位 | 位姿估计 | [FreeLoc: Online Floorplan Localization via Diffusion-Aided Pose Refinement](cards.md#paper-usrlwzdtic) | 将平面图作为可在线查询的地图，用候选位姿做连续精修与时间融合。 |
+| 具身智能 / 视觉 | 特征匹配 | [CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching](cards.md#paper-ojmvvfkk6t) | 在连续坐标中迭代修正对应点，以低分辨率特征保留几何精度。 |
+| 具身智能 / 视觉 | 推理缓存 | [LateMatch: Breaking the Interaction Bottleneck via Cacheable Matching for Efficient Visual Localization](cards.md#paper-a9tbpzfswi) | 延迟跨输入交互，让重复使用的单图特征可预计算并缓存。 |
+| 具身智能 / 视觉 | 多视角表示 | [G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation](cards.md#paper-33h7bchfgi) | 冻结组内几何编码，只训练轻量的跨组交互和位姿头。 |
