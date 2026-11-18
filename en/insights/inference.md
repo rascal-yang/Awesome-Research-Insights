@@ -687,6 +687,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation](../../conferences/icml-2026/cards/4301-4400.md#sun26ae-inference) · 中文
 - [Corrected Samplers for Discrete Flow Models](../../conferences/icml-2026/cards/4501-4600.md#wan26j-inference) · 中文
 - [Effective Model Pruning : Measuring the Redundancy of Model Components](../../conferences/icml-2026/cards/4601-4700.md#wang26bp-inference) · 中文
+- [EasyBalance: Cross-Layer Load Balancing in Distributed MoE Inference](../../conferences/icml-2026/cards/5001-5100.md#wu26o-inference) · 中文
+- [Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets](../../conferences/icml-2026/cards/5001-5100.md#wu26aa-inference) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

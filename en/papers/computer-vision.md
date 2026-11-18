@@ -71,6 +71,7 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="shen26l-architecture"></a>[TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26l)
 - <a id="sinha26a-architecture"></a>[Trainable Nonexpansive Denoisers for Contractive Image Reconstruction](../../conferences/icml-2026/cards/4101-4200.md#paper-sinha26a)
 - <a id="tang26j-architecture"></a>[PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization](../../conferences/icml-2026/cards/4301-4400.md#paper-tang26j)
+- <a id="wu26v-architecture"></a>[Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26v)
 
 <a id="by-modules"></a><a id="vision-model-distillation"></a>
 
@@ -171,6 +172,8 @@ Visual representation, recognition, reconstruction, and generation.
 - <a id="wang26hu-loss-functions"></a>[Revisiting Spectral Representations in Generative Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hu)
 - <a id="wang26ib-loss-functions"></a>[Deep Trajectory Supervision: Deep Supervision Strikes Back](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26ib)
 - <a id="wei26af-loss-functions"></a>[Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26af)
+- <a id="wu26q-loss-functions"></a>[SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26q)
+- <a id="wu26ae-loss-functions"></a>[Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ae)
 
 <a id="by-optimization"></a>
 

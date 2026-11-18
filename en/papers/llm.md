@@ -1339,6 +1339,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wang26kg-evaluation"></a>[MemPot: Defending Against Memory Extraction Attack with Optimized Honeypots](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kg)
 - <a id="westphal26a-evaluation"></a>[Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models](../../conferences/icml-2026/cards/4901-5000.md#paper-westphal26a)
 - <a id="wu26a-evaluation"></a>[Query Circuits: Explaining How Language Models Answer User Prompts](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26a)
+- <a id="wu26r-evaluation"></a>[Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26r)
 
 <a id="by-theory-statistics"></a>
 

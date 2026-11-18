@@ -269,6 +269,7 @@ Training schedules, curricula, and task or stage composition.
 - [Adversarial Dual On-Policy Distillation from Expressive Teacher](../../conferences/icml-2026/cards/4501-4600.md#wan26n-training-strategies) · 中文
 - [Scaling by Diversified Experience for Vision-Language-Action Models](../../conferences/icml-2026/cards/4801-4900.md#wang26hw-training-strategies) · 中文
 - [Co-Evolving Latent Action World Models](../../conferences/icml-2026/cards/4801-4900.md#wang26kz-training-strategies) · 中文
+- [VLANeXt: Recipes for Building Strong VLA Models](../../conferences/icml-2026/cards/5001-5100.md#wu26m-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -407,6 +408,7 @@ Training schedules, curricula, and task or stage composition.
 - [Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels](../../conferences/icml-2026/cards/4401-4500.md#tian26l-training-strategies) · 中文
 - [Learning Credal Ensembles via Distributionally Robust Optimization](../../conferences/icml-2026/cards/4601-4700.md#wang26bc-training-strategies) · 中文
 - [Robust Sequential Experimental Design for A/B Testing](../../conferences/icml-2026/cards/4901-5000.md#wen26i-training-strategies) · 中文
+- [Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity](../../conferences/icml-2026/cards/5001-5100.md#wu26z-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

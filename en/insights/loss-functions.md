@@ -103,6 +103,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Revisiting Spectral Representations in Generative Diffusion Models](../../conferences/icml-2026/cards/4801-4900.md#wang26hu-loss-functions) · 中文
 - [Deep Trajectory Supervision: Deep Supervision Strikes Back](../../conferences/icml-2026/cards/4801-4900.md#wang26ib-loss-functions) · 中文
 - [Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection](../../conferences/icml-2026/cards/4901-5000.md#wei26af-loss-functions) · 中文
+- [SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation](../../conferences/icml-2026/cards/5001-5100.md#wu26q-loss-functions) · 中文
+- [Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression](../../conferences/icml-2026/cards/5001-5100.md#wu26ae-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 
@@ -189,6 +191,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models](../../conferences/icml-2026/cards/4601-4700.md#wang26di-loss-functions) · 中文
 - [REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation](../../conferences/icml-2026/cards/4801-4900.md#wang26iv-loss-functions) · 中文
 - [Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](../../conferences/icml-2026/cards/4801-4900.md#wang26ja-loss-functions) · 中文
+- [Towards Seed-Robust Safety Alignment in Text-to-Image Models](../../conferences/icml-2026/cards/5001-5100.md#wu26w-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

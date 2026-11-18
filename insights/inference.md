@@ -687,6 +687,8 @@
 - [temperature-amortized-posterior](../conferences/icml-2026/cards/4301-4400.md#sun26ae-inference) · Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation
 - [corrected-discrete-flow-sampling](../conferences/icml-2026/cards/4501-4600.md#wan26j-inference) · Corrected Samplers for Discrete Flow Models
 - [重要性有效样本数设剪枝预算](../conferences/icml-2026/cards/4601-4700.md#wang26bp-inference) · Effective Model Pruning : Measuring the Redundancy of Model Components
+- [跨层微批次MoE调度](../conferences/icml-2026/cards/5001-5100.md#wu26o-inference) · EasyBalance: Cross-Layer Load Balancing in Distributed MoE Inference
+- [按上下文分组选择保形集合大小](../conferences/icml-2026/cards/5001-5100.md#wu26aa-inference) · Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets
 
 <a id="by-graph-and-recommendation"></a>
 

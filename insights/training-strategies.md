@@ -269,6 +269,7 @@
 - [dual-on-policy-distillation](../conferences/icml-2026/cards/4501-4600.md#wan26n-training-strategies) · Adversarial Dual On-Policy Distillation from Expressive Teacher
 - [动作梯度筛选意图状态](../conferences/icml-2026/cards/4801-4900.md#wang26hw-training-strategies) · Scaling by Diversified Experience for Vision-Language-Action Models
 - [潜动作接口预热与联合训练坍塌](../conferences/icml-2026/cards/4801-4900.md#wang26kz-training-strategies) · Co-Evolving Latent Action World Models
+- [VLA的本体感知路由与频域动作监督](../conferences/icml-2026/cards/5001-5100.md#wu26m-training-strategies) · VLANeXt: Recipes for Building Strong VLA Models
 
 <a id="by-multimodal"></a>
 
@@ -407,6 +408,7 @@
 - [联邦全局教师修正噪声标签](../conferences/icml-2026/cards/4401-4500.md#tian26l-training-strategies) · Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels
 - [按DRO强度分散集成](../conferences/icml-2026/cards/4601-4700.md#wang26bc-training-strategies) · Learning Credal Ensembles via Distributionally Robust Optimization
 - [失配稳健的序贯实验分配](../conferences/icml-2026/cards/4901-5000.md#wen26i-training-strategies) · Robust Sequential Experimental Design for A/B Testing
+- [质量条件的联邦全局锚定](../conferences/icml-2026/cards/5001-5100.md#wu26z-training-strategies) · Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity
 
 <a id="by-graph-and-recommendation"></a>
 

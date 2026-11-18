@@ -228,6 +228,7 @@
 - [先去趋势匹配再压缩变量协同](../conferences/icml-2026/cards/4601-4700.md#wang26cs-modules) · PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting
 - [频谱一致性稀疏交互](../conferences/icml-2026/cards/4701-4800.md#wang26ec-modules) · Crisp: A Spectral-Based Interaction Strategy for Multivariate Time Series Forecasting
 - [规则候选格上的特定扩展确定度](../conferences/icml-2026/cards/4901-5000.md#weitekamp26a-modules) · STAND: Self-Aware Precondition Induction for Interactive Task Learning
+- [双曲Karcher流关联记忆](../conferences/icml-2026/cards/5001-5100.md#wu26x-modules) · Hyperbolic neural population geometry benefits computation
 
 <a id="by-graph-and-recommendation"></a>
 

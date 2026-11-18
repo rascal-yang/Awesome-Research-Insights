@@ -242,6 +242,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Negative Sampling From the Ground Up: A Redesign for Recommendations](../../conferences/icml-2026/cards/4601-4700.md#wang26db-data-strategies) · 中文
 - [Relational In-Context Learning via Synthetic Pre-training with Structural Prior](../../conferences/icml-2026/cards/4801-4900.md#wang26jz-data-strategies) · 中文
 - [Progressive Graph Structure Adjustment for Homophily Shift Adaptation](../../conferences/icml-2026/cards/4901-5000.md#wen26j-data-strategies) · 中文
+- [Scalable Topology-Preserving Graph Coarsening: Concepts and Algorithms](../../conferences/icml-2026/cards/5001-5100.md#wu26ac-data-strategies) · 中文
 
 <a id="by-scientific-ml"></a>
 

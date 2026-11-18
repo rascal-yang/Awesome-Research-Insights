@@ -103,6 +103,8 @@
 - [扩散噪声核的双视图谱对齐](../conferences/icml-2026/cards/4801-4900.md#wang26hu-loss-functions) · Revisiting Spectral Representations in Generative Diffusion Models
 - [随深度变尖的监督目标](../conferences/icml-2026/cards/4801-4900.md#wang26ib-loss-functions) · Deep Trajectory Supervision: Deep Supervision Strikes Back
 - [表达与属性的双粒度检测对齐](../conferences/icml-2026/cards/4901-5000.md#wei26af-loss-functions) · Open-Text Aerial Detection: A Unified Framework For Aerial Visual Grounding And Detection
+- [假分数残差的反向目标](../conferences/icml-2026/cards/5001-5100.md#wu26q-loss-functions) · SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation
+- [分频局部Wasserstein失真](../conferences/icml-2026/cards/5001-5100.md#wu26ae-loss-functions) · Frequency-Aware Perceptual Optimization for Low-Complexity Implicit Image Compression
 
 <a id="by-nlp"></a>
 
@@ -189,6 +191,7 @@
 - [wasserstein-group-variance](../conferences/icml-2026/cards/4601-4700.md#wang26di-loss-functions) · Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models
 - [因果学生的逐帧流速度蒸馏](../conferences/icml-2026/cards/4801-4900.md#wang26iv-loss-functions) · REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation
 - [生成跨模态锚点约束遗忘边界](../conferences/icml-2026/cards/4801-4900.md#wang26ja-loss-functions) · Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning
+- [安全偏好样本的对比梯度修正](../conferences/icml-2026/cards/5001-5100.md#wu26w-loss-functions) · Towards Seed-Robust Safety Alignment in Text-to-Image Models
 
 <a id="by-ml-foundations"></a>
 

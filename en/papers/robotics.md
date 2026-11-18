@@ -133,6 +133,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="wan26n-training-strategies"></a>[Adversarial Dual On-Policy Distillation from Expressive Teacher](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26n)
 - <a id="wang26hw-training-strategies"></a>[Scaling by Diversified Experience for Vision-Language-Action Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26hw)
 - <a id="wang26kz-training-strategies"></a>[Co-Evolving Latent Action World Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kz)
+- <a id="wu26m-training-strategies"></a>[VLANeXt: Recipes for Building Strong VLA Models](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26m)
 
 <a id="by-data-strategies"></a>
 

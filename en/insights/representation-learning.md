@@ -372,4 +372,5 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](../../conferences/icml-2026/cards/3901-4000.md#schneckenreiter26a-representation-learning) · 中文
 - [Two-Parameter Flows for Learning Population Dynamics of Physical Systems](../../conferences/icml-2026/cards/3901-4000.md#schwerdtner26a-representation-learning) · 中文
 - [INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments](../../conferences/icml-2026/cards/4301-4400.md#takawale26a-representation-learning) · 中文
+- [GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training](../../conferences/icml-2026/cards/5001-5100.md#wu26s-representation-learning) · 中文
 <!-- classification:end -->

@@ -115,6 +115,7 @@
 - <a id="wang26di-loss-functions"></a>[Test-Time Debiasing with Probabilistic Prompts via Wasserstein Distance in Vision-Language Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26di)
 - <a id="wang26iv-loss-functions"></a>[REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation](../conferences/icml-2026/cards/4801-4900.md#paper-wang26iv)
 - <a id="wang26ja-loss-functions"></a>[Beyond Sample-Level Forgetting: Improving Reliability in Multimodal Unlearning](../conferences/icml-2026/cards/4801-4900.md#paper-wang26ja)
+- <a id="wu26w-loss-functions"></a>[Towards Seed-Robust Safety Alignment in Text-to-Image Models](../conferences/icml-2026/cards/5001-5100.md#paper-wu26w)
 
 <a id="by-optimization"></a>
 

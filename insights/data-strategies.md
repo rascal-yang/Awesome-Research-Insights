@@ -242,6 +242,7 @@
 - [由目标梯度反推负采样](../conferences/icml-2026/cards/4601-4700.md#wang26db-data-strategies) · Negative Sampling From the Ground Up: A Redesign for Recommendations
 - [关系型合成预训练先验](../conferences/icml-2026/cards/4801-4900.md#wang26jz-data-strategies) · Relational In-Context Learning via Synthetic Pre-training with Structural Prior
 - [同配水平调整与双模型共识](../conferences/icml-2026/cards/4901-5000.md#wen26j-data-strategies) · Progressive Graph Structure Adjustment for Homophily Shift Adaptation
+- [先精确邻域锥化再近似的图粗化](../conferences/icml-2026/cards/5001-5100.md#wu26ac-data-strategies) · Scalable Topology-Preserving Graph Coarsening: Concepts and Algorithms
 
 <a id="by-scientific-ml"></a>
 

@@ -134,6 +134,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wang26cs-modules"></a>[PESD-TSF: A Period-Aware and Explicit Structured Decomposition Framework for Long-Term Time Series Forecasting](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26cs)
 - <a id="wang26ec-modules"></a>[Crisp: A Spectral-Based Interaction Strategy for Multivariate Time Series Forecasting](../../conferences/icml-2026/cards/4701-4800.md#paper-wang26ec)
 - <a id="weitekamp26a-modules"></a>[STAND: Self-Aware Precondition Induction for Interactive Task Learning](../../conferences/icml-2026/cards/4901-5000.md#paper-weitekamp26a)
+- <a id="wu26x-modules"></a>[Hyperbolic neural population geometry benefits computation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26x)
 
 <a id="by-loss-functions"></a>
 
@@ -520,6 +521,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="tian26l-training-strategies"></a>[Learning Locally, Revising Globally: Global Reviser for Federated Learning with Noisy Labels](../../conferences/icml-2026/cards/4401-4500.md#paper-tian26l)
 - <a id="wang26bc-training-strategies"></a>[Learning Credal Ensembles via Distributionally Robust Optimization](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bc)
 - <a id="wen26i-training-strategies"></a>[Robust Sequential Experimental Design for A/B Testing](../../conferences/icml-2026/cards/4901-5000.md#paper-wen26i)
+- <a id="wu26z-training-strategies"></a>[Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26z)
 
 <a id="by-data-strategies"></a>
 
@@ -611,6 +613,8 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="sun26ae-inference"></a>[Amortized Simulation-Based Inference in Generalized Bayes via Neural Posterior Estimation](../../conferences/icml-2026/cards/4301-4400.md#paper-sun26ae)
 - <a id="wan26j-inference"></a>[Corrected Samplers for Discrete Flow Models](../../conferences/icml-2026/cards/4501-4600.md#paper-wan26j)
 - <a id="wang26bp-inference"></a>[Effective Model Pruning : Measuring the Redundancy of Model Components](../../conferences/icml-2026/cards/4601-4700.md#paper-wang26bp)
+- <a id="wu26o-inference"></a>[EasyBalance: Cross-Layer Load Balancing in Distributed MoE Inference](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26o)
+- <a id="wu26aa-inference"></a>[Adaptively Grouped Contextual Bandits for Heterogeneous Human-AI Decision Making with Conformal Prediction Sets](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26aa)
 
 <a id="by-representation-learning"></a>
 
@@ -744,6 +748,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wenkmann26a-evaluation"></a>[On the Variability of Concept Activation Vectors](../../conferences/icml-2026/cards/4901-5000.md#paper-wenkmann26a)
 - <a id="wilson26a-evaluation"></a>[Is the Last Layer Sufficient for Uncertainty Quantification?](../../conferences/icml-2026/cards/4901-5000.md#paper-wilson26a)
 - <a id="witter26a-evaluation"></a>[Exactly Computing do-Shapley Values](../../conferences/icml-2026/cards/4901-5000.md#paper-witter26a)
+- <a id="wu26u-evaluation"></a>[An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26u)
 
 <a id="by-theory-statistics"></a>
 

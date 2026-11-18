@@ -372,4 +372,5 @@
 - [配体分别对齐全蛋白和候选口袋](../conferences/icml-2026/cards/3901-4000.md#schneckenreiter26a-representation-learning) · Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design
 - [用共同噪声连接未配对物理快照](../conferences/icml-2026/cards/3901-4000.md#schwerdtner26a-representation-learning) · Two-Parameter Flows for Learning Population Dynamics of Physical Systems
 - [复频域声场与色散约束](../conferences/icml-2026/cards/4301-4400.md#takawale26a-representation-learning) · INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments
+- [沿合成轨迹预测几何的预训练](../conferences/icml-2026/cards/5001-5100.md#wu26s-representation-learning) · GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training
 <!-- classification:end -->

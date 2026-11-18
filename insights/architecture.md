@@ -128,6 +128,7 @@
 - [脉冲 Transformer 的双向时间融合](../conferences/icml-2026/cards/4001-4100.md#shen26l-architecture) · TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers
 - [冻结参考与对称非扩张去噪](../conferences/icml-2026/cards/4101-4200.md#sinha26a-architecture) · Trainable Nonexpansive Denoisers for Contractive Image Reconstruction
 - [条件路由化解多教师冲突](../conferences/icml-2026/cards/4301-4400.md#tang26j-architecture) · PRISM: Synergizing Vision Foundation Models via Self-organized Expert Specialization
+- [固定记忆预算与不确定动作标签](../conferences/icml-2026/cards/5001-5100.md#wu26v-architecture) · Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory
 
 <a id="by-nlp"></a>
 
