@@ -171,6 +171,7 @@ Data selection, annotation, augmentation, and sampling.
 - [PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration](../../conferences/icml-2026/cards/2601-2700.md#liang26n-data-strategies) · 中文
 - [Creat3r: Confidence Reaggregation for Exploration-aware Active 3D Reconstruction](../../conferences/icml-2026/cards/4401-4500.md#tsai26a-data-strategies) · 中文
 - [Neural Low-Discrepancy Sequences](../../conferences/icml-2026/cards/4501-4600.md#van-huffel26a-data-strategies) · 中文
+- [BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories under Spatio-Temporal Vector Fields](../../conferences/icml-2026/cards/5701-5800.md#zhang26b-data-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

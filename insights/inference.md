@@ -500,6 +500,7 @@
 - [深sink与时间RoPE重排的长视频缓存](../conferences/icml-2026/cards/5501-5600.md#yi26c-inference) · Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression
 - [多局部原型与逐点残差漂移跟踪](../conferences/icml-2026/cards/5501-5600.md#yi26e-inference) · Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning
 - [首步深层变化定位跨轮缓存区域](../conferences/icml-2026/cards/5501-5600.md#yu26e-inference) · CacheEdit: Efficient Multi-round Image Editing via Adaptive Token-wise Reuse.
+- [以局部条件mode替代均值完成逆问题](../conferences/icml-2026/cards/5701-5800.md#zhang26e-inference) · Local MAP Sampling for Diffusion Models
 
 <a id="by-nlp"></a>
 

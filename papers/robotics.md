@@ -162,6 +162,7 @@
 - <a id="liang26n-data-strategies"></a>[PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration](../conferences/icml-2026/cards/2601-2700.md#paper-liang26n)
 - <a id="tsai26a-data-strategies"></a>[Creat3r: Confidence Reaggregation for Exploration-aware Active 3D Reconstruction](../conferences/icml-2026/cards/4401-4500.md#paper-tsai26a)
 - <a id="van-huffel26a-data-strategies"></a>[Neural Low-Discrepancy Sequences](../conferences/icml-2026/cards/4501-4600.md#paper-van-huffel26a)
+- <a id="zhang26b-data-strategies"></a>[BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories under Spatio-Temporal Vector Fields](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26b)
 
 <a id="by-inference"></a>
 

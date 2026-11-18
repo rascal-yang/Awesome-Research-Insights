@@ -172,6 +172,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26e-optimization) · 中文
 - [A Direct Second-Order Method for Solving Two-Player Zero-Sum Games](../../conferences/icml-2026/cards/5301-5400.md#yang26o-optimization) · 中文
 - [Taming Aleatoric Impulse in Off-Policy Reinforcement Learning](../../conferences/icml-2026/cards/5601-5700.md#yu26bo-optimization) · 中文
+- [Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL](../../conferences/icml-2026/cards/5701-5800.md#zhan26d-optimization) · 中文
 
 <a id="by-robotics"></a>
 

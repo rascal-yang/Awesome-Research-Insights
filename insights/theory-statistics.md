@@ -646,6 +646,9 @@
 - [在隐私数据选集中显式权衡近似比与oracle成本](../conferences/icml-2026/cards/5601-5700.md#zadicario26a-theory-statistics) · Differentially Private Submodular Maximization with a Knapsack Constraint
 - [正pair支持与几何恢复的分离](../conferences/icml-2026/cards/5601-5700.md#zaliaduonis26a-theory-statistics) · The Loss Is Not Enough: Sampling Conditions and Inductive Bias in Contrastive Representation Learning
 - [用切空间均值检验区分均值依赖与方差依赖](../conferences/icml-2026/cards/5701-5800.md#zeng26v-theory-statistics) · On Testing Conditional Mean Independence for Manifold-Valued Data
+- [按两阶段残差分别校准区间](../conferences/icml-2026/cards/5701-5800.md#zhang26a-theory-statistics) · Decomposition-Based Modular Conformal Prediction for Two-Stage Modeling
+- [用纠偏伪标签缩短在线风险报警](../conferences/icml-2026/cards/5701-5800.md#zhang26g-theory-statistics) · Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts
+- [用softmax归一化解释looped logistic ICL](../conferences/icml-2026/cards/5701-5800.md#zhang26i-theory-statistics) · Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent
 
 <a id="by-graph-and-recommendation"></a>
 

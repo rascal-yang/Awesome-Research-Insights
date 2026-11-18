@@ -84,6 +84,7 @@
 - <a id="yan26o-architecture"></a>[Arboreal Neural Network](../conferences/icml-2026/cards/5301-5400.md#paper-yan26o)
 - <a id="yang26ag-architecture"></a>[Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks](../conferences/icml-2026/cards/5301-5400.md#paper-yang26ag)
 - <a id="yang26bl-architecture"></a>[Branching Diffusion for Point Processes in Time and Space](../conferences/icml-2026/cards/5401-5500.md#paper-yang26bl)
+- <a id="zhang26d-architecture"></a>[Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26d)
 
 <a id="by-modules"></a>
 
@@ -1276,4 +1277,7 @@
 - <a id="zadicario26a-theory-statistics"></a>[Differentially Private Submodular Maximization with a Knapsack Constraint](../conferences/icml-2026/cards/5601-5700.md#paper-zadicario26a)
 - <a id="zaliaduonis26a-theory-statistics"></a>[The Loss Is Not Enough: Sampling Conditions and Inductive Bias in Contrastive Representation Learning](../conferences/icml-2026/cards/5601-5700.md#paper-zaliaduonis26a)
 - <a id="zeng26v-theory-statistics"></a>[On Testing Conditional Mean Independence for Manifold-Valued Data](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26v)
+- <a id="zhang26a-theory-statistics"></a>[Decomposition-Based Modular Conformal Prediction for Two-Stage Modeling](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26a)
+- <a id="zhang26g-theory-statistics"></a>[Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26g)
+- <a id="zhang26i-theory-statistics"></a>[Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26i)
 <!-- classification:end -->

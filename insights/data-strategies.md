@@ -171,6 +171,7 @@
 - [分别模拟深度像素失效和值误差](../conferences/icml-2026/cards/2601-2700.md#liang26n-data-strategies) · PRISM: Learning Realistic Depth via Physics-Grounded Noise Disentanglement with Semantic-Geometric Collaboration
 - [geometry-confidence-next-view](../conferences/icml-2026/cards/4401-4500.md#tsai26a-data-strategies) · Creat3r: Confidence Reaggregation for Exploration-aware Active 3D Reconstruction
 - [优化整个序列的前缀差异度](../conferences/icml-2026/cards/4501-4600.md#van-huffel26a-data-strategies) · Neural Low-Discrepancy Sequences
+- [按被动移动轨迹评估传感器部署](../conferences/icml-2026/cards/5701-5800.md#zhang26b-data-strategies) · BALLAST: Bayesian Active Learning with Look-ahead Amendment for Sea-drifter Trajectories under Spatio-Temporal Vector Fields
 
 <a id="by-multimodal"></a>
 

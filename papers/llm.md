@@ -480,6 +480,7 @@
 - <a id="yuksekgonul26a-reinforcement-learning"></a>[Learning to Discover at Test Time](../conferences/icml-2026/cards/5601-5700.md#paper-yuksekgonul26a)
 - <a id="zeng26i-reinforcement-learning"></a>[UCPO: Uncertainty-Aware Policy Optimization](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26i)
 - <a id="zeng26z-reinforcement-learning"></a>[Shrinking the Variance: Shrinkage Baselines for Reinforcement Learning with Verifiable Rewards](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26z)
+- <a id="zhan26c-reinforcement-learning"></a>[Simple Policy Gradients for Reasoning with Diffusion Language Models](../conferences/icml-2026/cards/5701-5800.md#paper-zhan26c)
 
 <a id="by-training-strategies"></a>
 
@@ -638,6 +639,7 @@
 - <a id="you26b-training-strategies"></a>[RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs](../conferences/icml-2026/cards/5501-5600.md#paper-you26b)
 - <a id="yu26bi-training-strategies"></a>[Efficient Bilevel Optimization for CKA-Guided MoE Upcycling](../conferences/icml-2026/cards/5601-5700.md#paper-yu26bi)
 - <a id="zeng26l-training-strategies"></a>[PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26l)
+- <a id="zhang26n-training-strategies"></a>[Internalizing Safety Understanding in Large Reasoning Models via Verification](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26n)
 
 <a id="by-data-strategies"></a>
 

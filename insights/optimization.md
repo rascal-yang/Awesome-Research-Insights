@@ -172,6 +172,7 @@
 - [离线联邦的值尺度与行为偏差重权](../conferences/icml-2026/cards/5201-5300.md#xu26e-optimization) · Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning
 - [高精度矩阵博弈切换半光滑Newton](../conferences/icml-2026/cards/5301-5400.md#yang26o-optimization) · A Direct Second-Order Method for Solving Two-Player Zero-Sum Games
 - [return方差与ensemble分歧的自适应悲观项](../conferences/icml-2026/cards/5601-5700.md#yu26bo-optimization) · Taming Aleatoric Impulse in Off-Policy Reinforcement Learning
+- [分离reward和future entropy价值](../conferences/icml-2026/cards/5701-5800.md#zhan26d-optimization) · Mind Your Entropy: From Maximum Entropy to Trajectory Entropy-Constrained RL
 
 <a id="by-robotics"></a>
 

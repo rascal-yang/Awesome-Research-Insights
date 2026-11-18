@@ -315,6 +315,7 @@
 - [树路径拓扑的全叶softmax路由](../conferences/icml-2026/cards/5301-5400.md#yan26o-architecture) · Arboreal Neural Network
 - [递归复制与跨块连接的DAG生成](../conferences/icml-2026/cards/5301-5400.md#yang26ag-architecture) · Kronecker Generative Networks: A General Neural Architecture for Parameter-Efficient Learning Across Classification Tasks
 - [可变事件数的集合扩散](../conferences/icml-2026/cards/5401-5500.md#yang26bl-architecture) · Branching Diffusion for Point Processes in Time and Space
+- [限制attention与MLP以便抽取算法](../conferences/icml-2026/cards/5701-5800.md#zhang26d-architecture) · Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer
 
 <a id="by-graph-and-recommendation"></a>
 

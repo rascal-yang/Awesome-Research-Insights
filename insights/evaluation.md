@@ -607,6 +607,7 @@
 - [用三路首token分布构造融合异常特征](../conferences/icml-2026/cards/5501-5600.md#yeon26a-evaluation) · Securing Multimodal AI through Internal Information Decomposition
 - [oracle视觉中间态分解生成与解读失败](../conferences/icml-2026/cards/5601-5700.md#zeller26a-evaluation) · MentisOculi: Revealing the Limits of Reasoning with Mental Imagery
 - [分离视觉检索预处理的oracle与agent差距](../conferences/icml-2026/cards/5701-5800.md#zeng26w-evaluation) · Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation
+- [让空间QA随实际frame预算重标](../conferences/icml-2026/cards/5701-5800.md#zhang26o-evaluation) · ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning
 
 <a id="by-ml-foundations"></a>
 

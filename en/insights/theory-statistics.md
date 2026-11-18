@@ -646,6 +646,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Differentially Private Submodular Maximization with a Knapsack Constraint](../../conferences/icml-2026/cards/5601-5700.md#zadicario26a-theory-statistics) · 中文
 - [The Loss Is Not Enough: Sampling Conditions and Inductive Bias in Contrastive Representation Learning](../../conferences/icml-2026/cards/5601-5700.md#zaliaduonis26a-theory-statistics) · 中文
 - [On Testing Conditional Mean Independence for Manifold-Valued Data](../../conferences/icml-2026/cards/5701-5800.md#zeng26v-theory-statistics) · 中文
+- [Decomposition-Based Modular Conformal Prediction for Two-Stage Modeling](../../conferences/icml-2026/cards/5701-5800.md#zhang26a-theory-statistics) · 中文
+- [Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts](../../conferences/icml-2026/cards/5701-5800.md#zhang26g-theory-statistics) · 中文
+- [Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent](../../conferences/icml-2026/cards/5701-5800.md#zhang26i-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

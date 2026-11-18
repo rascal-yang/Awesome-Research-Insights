@@ -576,6 +576,7 @@
 - <a id="yeon26a-evaluation"></a>[Securing Multimodal AI through Internal Information Decomposition](../conferences/icml-2026/cards/5501-5600.md#paper-yeon26a)
 - <a id="zeller26a-evaluation"></a>[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](../conferences/icml-2026/cards/5601-5700.md#paper-zeller26a)
 - <a id="zeng26w-evaluation"></a>[Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation](../conferences/icml-2026/cards/5701-5800.md#paper-zeng26w)
+- <a id="zhang26o-evaluation"></a>[ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26o)
 
 <a id="by-theory-statistics"></a>
 

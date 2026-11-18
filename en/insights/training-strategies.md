@@ -166,6 +166,7 @@ Training schedules, curricula, and task or stage composition.
 - [RaBiT: Residual Aware Binarization Training for Accurate and Efficient LLMs](../../conferences/icml-2026/cards/5501-5600.md#you26b-training-strategies) · 中文
 - [Efficient Bilevel Optimization for CKA-Guided MoE Upcycling](../../conferences/icml-2026/cards/5601-5700.md#yu26bi-training-strategies) · 中文
 - [PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space](../../conferences/icml-2026/cards/5701-5800.md#zeng26l-training-strategies) · 中文
+- [Internalizing Safety Understanding in Large Reasoning Models via Verification](../../conferences/icml-2026/cards/5701-5800.md#zhang26n-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

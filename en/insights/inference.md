@@ -500,6 +500,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](../../conferences/icml-2026/cards/5501-5600.md#yi26c-inference) · 中文
 - [Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning](../../conferences/icml-2026/cards/5501-5600.md#yi26e-inference) · 中文
 - [CacheEdit: Efficient Multi-round Image Editing via Adaptive Token-wise Reuse.](../../conferences/icml-2026/cards/5501-5600.md#yu26e-inference) · 中文
+- [Local MAP Sampling for Diffusion Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26e-inference) · 中文
 
 <a id="by-nlp"></a>
 

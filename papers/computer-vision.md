@@ -507,6 +507,7 @@
 - <a id="yi26c-inference"></a>[Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](../conferences/icml-2026/cards/5501-5600.md#paper-yi26c)
 - <a id="yi26e-inference"></a>[Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning](../conferences/icml-2026/cards/5501-5600.md#paper-yi26e)
 - <a id="yu26e-inference"></a>[CacheEdit: Efficient Multi-round Image Editing via Adaptive Token-wise Reuse.](../conferences/icml-2026/cards/5501-5600.md#paper-yu26e)
+- <a id="zhang26e-inference"></a>[Local MAP Sampling for Diffusion Models](../conferences/icml-2026/cards/5701-5800.md#paper-zhang26e)
 
 <a id="by-representation-learning"></a>
 
