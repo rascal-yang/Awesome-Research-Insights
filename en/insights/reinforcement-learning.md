@@ -523,5 +523,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Horizon Adaptive Offline Policy Learning via Value Stitching](../../conferences/neurips-2026/cards-0006.md#paper-154836)
 - [Human-Inspired, Task-Dimension-Guided Exploration for Efficient Learning and Transfer in High Dimensions](../../conferences/neurips-2026/cards-0006.md#paper-150298)
 - [Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating](../../conferences/neurips-2026/cards-0006.md#paper-150291)
+- [Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion](../../conferences/neurips-2026/cards-0006.md#paper-148710)
 
 <!-- conference-classification:end -->

@@ -1061,5 +1061,15 @@ Decoding, test-time adaptation, and efficient execution.
 - [Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering](../../conferences/neurips-2026/cards-0006.md#paper-155067)
 - [HIST3R: Rectified State Decomposition from History for Streaming 3D Reconstruction](../../conferences/neurips-2026/cards-0006.md#paper-155909)
 - [How Should Parallel Langevin Chains Share Noise?](../../conferences/neurips-2026/cards-0006.md#paper-151033)
+- [HybridCache: Enhancing Prefix Caching for Linear–Softmax Language Models](../../conferences/neurips-2026/cards-0006.md#paper-151555)
+- [Hybrid Neural World Models for Physical Dynamics](../../conferences/neurips-2026/cards-0006.md#paper-148875)
+- [HyCO: A Hybrid Neural Solver for Combinatorial Optimization](../../conferences/neurips-2026/cards-0006.md#paper-149753)
+- [Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies for Visuomotor Control](../../conferences/neurips-2026/cards-0006.md#paper-152435)
+- [HyperTransport: Amortized Conditioning of T2I Generative Models](../../conferences/neurips-2026/cards-0006.md#paper-152624)
+- [HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-153122)
+- [HYVE: Hybrid Views for LLM Context Engineering over Machine Data](../../conferences/neurips-2026/cards-0006.md#paper-152054)
+- [iCATS: Fast Video Generation via Interaction-Aware Sparse Attention and Timestep-Adaptive Sparsity](../../conferences/neurips-2026/cards-0006.md#paper-152851)
+- [IdealCache: Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories](../../conferences/neurips-2026/cards-0007.md#paper-155683)
+- [Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models](../../conferences/neurips-2026/cards-0007.md#paper-149053)
 
 <!-- conference-classification:end -->

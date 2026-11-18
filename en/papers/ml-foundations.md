@@ -2016,5 +2016,16 @@ General learning methods, optimization, learning theory, and inference.
 - [How well behaved is finite dimensional Diffusion Maps embedding?](../../conferences/neurips-2026/cards-0006.md#paper-151178)
 - [HSCO-Bench: An Agent-Driven End-to-End Hardware-Software Co-design Benchmark for Systems-on-Chip](../../conferences/neurips-2026/cards-0006.md#paper-139247)
 - [Human-AI Teaming Through the Lens of Calibration](../../conferences/neurips-2026/cards-0006.md#paper-153703)
+- [Hybrid Probabilistic Zonotopes for Identifiable and Refinable Predictive Uncertainty](../../conferences/neurips-2026/cards-0006.md#paper-154293)
+- [HyCO: A Hybrid Neural Solver for Combinatorial Optimization](../../conferences/neurips-2026/cards-0006.md#paper-149753)
+- [HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation](../../conferences/neurips-2026/cards-0006.md#paper-150001)
+- [Hyperbolic Concept Bottleneck Models](../../conferences/neurips-2026/cards-0006.md#paper-151003)
+- [HyperFlow: Gradient-Free Test-Time Adaptation for Cross-Domain Few-Shot Classification](../../conferences/neurips-2026/cards-0006.md#paper-154114)
+- [Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport](../../conferences/neurips-2026/cards-0006.md#paper-154124)
+- [Hypernetworks for Dynamic Feature Selection](../../conferences/neurips-2026/cards-0006.md#paper-154296)
+- [Idempotency Exposes Consistency Problems in Sparse Autoencoders](../../conferences/neurips-2026/cards-0007.md#paper-155537)
+- [Identifiable alignment of unpaired representations](../../conferences/neurips-2026/cards-0007.md#paper-151829)
+- [Identification and Bounding of Joint Expectation over Potential Outcomes](../../conferences/neurips-2026/cards-0007.md#paper-150669)
+- [Identifying Structural Biases from Causal Mechanism Shifts](../../conferences/neurips-2026/cards-0007.md#paper-151733)
 
 <!-- conference-classification:end -->

@@ -351,5 +351,6 @@ Reusable components and local changes to model inputs or connections.
 - [Graph Cascades: Contagion-Based Mesoscopic Rewiring for Structure-Aware Graph Machine Learning](../../conferences/neurips-2026/cards-0006.md#paper-155097)
 - [GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement](../../conferences/neurips-2026/cards-0006.md#paper-154294)
 - [Hadamard Representation: Scaffolding Performance Across Model-free RL](../../conferences/neurips-2026/cards-0006.md#paper-152185)
+- [iDETR: Implicit DETR for Tiny Object Detection](../../conferences/neurips-2026/cards-0007.md#paper-151442)
 
 <!-- conference-classification:end -->

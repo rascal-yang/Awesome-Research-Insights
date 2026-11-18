@@ -857,5 +857,9 @@
 - [How to Scale Mixture-of-Experts: From muP to the Maximally Scale-Stable Parameterization](../conferences/neurips-2026/cards-0006.md#paper-155300)
 - [How well behaved is finite dimensional Diffusion Maps embedding?](../conferences/neurips-2026/cards-0006.md#paper-151178)
 - [Human-AI Teaming Through the Lens of Calibration](../conferences/neurips-2026/cards-0006.md#paper-153703)
+- [Hypergraph Representation Learning with Hyperlink Random Effects](../conferences/neurips-2026/cards-0006.md#paper-148313)
+- [Identifiable alignment of unpaired representations](../conferences/neurips-2026/cards-0007.md#paper-151829)
+- [Identification and Bounding of Joint Expectation over Potential Outcomes](../conferences/neurips-2026/cards-0007.md#paper-150669)
+- [Identifying Structural Biases from Causal Mechanism Shifts](../conferences/neurips-2026/cards-0007.md#paper-151733)
 
 <!-- conference-classification:end -->

@@ -850,5 +850,17 @@ Visual representation, recognition, reconstruction, and generation.
 - [How Far Is Too Far? Object Recognition Declines Monotonically with Semantic Distance](../../conferences/neurips-2026/cards-0006.md#paper-148472)
 - [HumanScore: Benchmarking Human Motions in Generated Videos](../../conferences/neurips-2026/cards-0006.md#paper-139307)
 - [HumanStereo: A Benchmark for Metric Facial Depth Estimation and Its Evaluation](../../conferences/neurips-2026/cards-0006.md#paper-138969)
+- [Hyperspherical Local Margin Retraction for Zero-Shot Instance-Wise Machine Unlearning](../../conferences/neurips-2026/cards-0006.md#paper-151778)
+- [HyperTree: Scalable Unsupervised Hierarchy Discovery in Hyperbolic Space](../../conferences/neurips-2026/cards-0006.md#paper-150924)
+- [HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-153122)
+- [HyperVQ: Enabling Hyperprior Entropy Modeling for VQ-Based Generative Image Compression](../../conferences/neurips-2026/cards-0006.md#paper-154142)
+- [I2V-DETACH: Source Grounding Detachment for Unauthorized Image-to-Video Generation](../../conferences/neurips-2026/cards-0006.md#paper-155809)
+- [iCATS: Fast Video Generation via Interaction-Aware Sparse Attention and Timestep-Adaptive Sparsity](../../conferences/neurips-2026/cards-0006.md#paper-152851)
+- [IdealCache: Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories](../../conferences/neurips-2026/cards-0007.md#paper-155683)
+- [IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder](../../conferences/neurips-2026/cards-0007.md#paper-152556)
+- [IDEA: Unwrapping Visual Black-box Models by Interaction Decomposition](../../conferences/neurips-2026/cards-0007.md#paper-151393)
+- [Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models](../../conferences/neurips-2026/cards-0007.md#paper-149053)
+- [i-DEQ: A stable inertial Deep Equilibrium model for image restoration](../../conferences/neurips-2026/cards-0007.md#paper-150886)
+- [iDETR: Implicit DETR for Tiny Object Detection](../../conferences/neurips-2026/cards-0007.md#paper-151442)
 
 <!-- conference-classification:end -->

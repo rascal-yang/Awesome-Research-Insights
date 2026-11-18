@@ -346,5 +346,16 @@ Model-wide design and information flow.
 - [Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-154530)
 - [HOPE: Hand-Object Pressure Estimation from Monocular Videos](../../conferences/neurips-2026/cards-0006.md#paper-148354)
 - [Horizon-Stream: Long-Horizon Attention for Streaming 3D Reconstruction](../../conferences/neurips-2026/cards-0006.md#paper-153911)
+- [Hybrid Probabilistic Zonotopes for Identifiable and Refinable Predictive Uncertainty](../../conferences/neurips-2026/cards-0006.md#paper-154293)
+- [HYDRA: Representation Harmonized Tokenization for Multimodal Generation and Understanding](../../conferences/neurips-2026/cards-0006.md#paper-149164)
+- [Hydra-X: Native Unified Multimodal Models with Holistic Visual Tokenizers](../../conferences/neurips-2026/cards-0006.md#paper-155676)
+- [HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation](../../conferences/neurips-2026/cards-0006.md#paper-150001)
+- [HyperGen: Learning Structure-Aware Spectral Flows for Hypergraph Generation](../../conferences/neurips-2026/cards-0006.md#paper-150850)
+- [Hypergraph Generation via Structured Stochastic Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-148881)
+- [Hypergraph Generation with Latent Diffusion](../../conferences/neurips-2026/cards-0006.md#paper-154651)
+- [Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport](../../conferences/neurips-2026/cards-0006.md#paper-154124)
+- [Hypernetworks for Dynamic Feature Selection](../../conferences/neurips-2026/cards-0006.md#paper-154296)
+- [IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow](../../conferences/neurips-2026/cards-0006.md#paper-149902)
+- [Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems](../../conferences/neurips-2026/cards-0007.md#paper-151974)
 
 <!-- conference-classification:end -->

@@ -505,5 +505,8 @@
 - [HoloGene: Learning to Lift Sliced Spatial Transcriptomics to Holistic 3D Gene Fields](../conferences/neurips-2026/cards-0006.md#paper-152255)
 - [How Complete Should a Reference Be? A Benchmark Audit for Fluorescence Spot Detection](../conferences/neurips-2026/cards-0006.md#paper-139218)
 - [How to Train a Surgeon? Benchmarking Generalist Agents in Surgical Scene Understanding](../conferences/neurips-2026/cards-0006.md#paper-139078)
+- [Hybrid Neural World Models for Physical Dynamics](../conferences/neurips-2026/cards-0006.md#paper-148875)
+- [IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow](../conferences/neurips-2026/cards-0006.md#paper-149902)
+- [Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems](../conferences/neurips-2026/cards-0007.md#paper-151974)
 
 <!-- conference-classification:end -->

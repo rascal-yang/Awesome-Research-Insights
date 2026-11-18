@@ -289,5 +289,10 @@
 - [HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations](../conferences/neurips-2026/cards-0006.md#paper-155494)
 - [HoTS: Homophily-Aware Temperature Scaling for Graph Neural Network Calibration](../conferences/neurips-2026/cards-0006.md#paper-148576)
 - [How Hard Is It for Message-Passing GNNs to Simulate One Weisfeiler-Lehman Color-Refinement Step?](../conferences/neurips-2026/cards-0006.md#paper-151609)
+- [Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry–Task Alignment](../conferences/neurips-2026/cards-0006.md#paper-150947)
+- [HyperGen: Learning Structure-Aware Spectral Flows for Hypergraph Generation](../conferences/neurips-2026/cards-0006.md#paper-150850)
+- [Hypergraph Generation via Structured Stochastic Diffusion](../conferences/neurips-2026/cards-0006.md#paper-148881)
+- [Hypergraph Generation with Latent Diffusion](../conferences/neurips-2026/cards-0006.md#paper-154651)
+- [Hypergraph Representation Learning with Hyperlink Random Effects](../conferences/neurips-2026/cards-0006.md#paper-148313)
 
 <!-- conference-classification:end -->

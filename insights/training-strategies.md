@@ -630,5 +630,9 @@
 - [Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models](../conferences/neurips-2026/cards-0006.md#paper-149361)
 - [How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection](../conferences/neurips-2026/cards-0006.md#paper-152063)
 - [How to Train Your Latent Diffusion Language Model Jointly With the Latent Space](../conferences/neurips-2026/cards-0006.md#paper-155226)
+- [HuPER: A Human-Inspired Framework for Phonetic Perception](../conferences/neurips-2026/cards-0006.md#paper-154021)
+- [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](../conferences/neurips-2026/cards-0006.md#paper-154612)
+- [HyperFlow: Gradient-Free Test-Time Adaptation for Cross-Domain Few-Shot Classification](../conferences/neurips-2026/cards-0006.md#paper-154114)
+- [IDEAL: Interaction Dynamics and Force-Aware Learning for Dual-Humanoid Collaborative Manipulation](../conferences/neurips-2026/cards-0007.md#paper-153659)
 
 <!-- conference-classification:end -->

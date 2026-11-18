@@ -129,5 +129,6 @@ Language processing methods, including structured prediction and retrieval.
 - [Factorized Self-Supervised Speech Tokenization](../../conferences/neurips-2026/cards-0005.md#paper-149827)
 - [From Topology to Retrieval: Decoding Embedding Spaces with Unified Signatures](../../conferences/neurips-2026/cards-0006.md#paper-155821)
 - [Hierarchical Concept Geometry in Language Representations Emerges from Word Co-occurrence](../../conferences/neurips-2026/cards-0006.md#paper-151722)
+- [HuPER: A Human-Inspired Framework for Phonetic Perception](../../conferences/neurips-2026/cards-0006.md#paper-154021)
 
 <!-- conference-classification:end -->

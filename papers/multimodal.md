@@ -686,5 +686,10 @@
 - [Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models](../conferences/neurips-2026/cards-0006.md#paper-149361)
 - [HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning](../conferences/neurips-2026/cards-0006.md#paper-149865)
 - [HRIL: Isolating Multimodal Synergy via Higher-Order Dependence](../conferences/neurips-2026/cards-0006.md#paper-151076)
+- [Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion](../conferences/neurips-2026/cards-0006.md#paper-148710)
+- [HYDRA: Representation Harmonized Tokenization for Multimodal Generation and Understanding](../conferences/neurips-2026/cards-0006.md#paper-149164)
+- [Hydra-X: Native Unified Multimodal Models with Holistic Visual Tokenizers](../conferences/neurips-2026/cards-0006.md#paper-155676)
+- [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](../conferences/neurips-2026/cards-0006.md#paper-154612)
+- [HyperTransport: Amortized Conditioning of T2I Generative Models](../conferences/neurips-2026/cards-0006.md#paper-152624)
 
 <!-- conference-classification:end -->

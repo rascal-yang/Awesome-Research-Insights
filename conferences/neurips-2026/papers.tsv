@@ -3783,66 +3783,66 @@ poster_id	title	paper_url	status	reason
 139307	HumanScore: Benchmarking Human Motions in Generated Videos	https://neurips.cc/virtual/2026/poster/139307	included	人物生成评估显式分开外观和运动可行性。
 154000	Humans Correct Their Judgements Through Debate, but Weaker AI Models Not	https://neurips.cc/virtual/2026/poster/154000	included	监督协议换裁判类型时重新验证辩论收益。
 138969	HumanStereo: A Benchmark for Metric Facial Depth Estimation and Its Evaluation	https://neurips.cc/virtual/2026/poster/138969	included	人脸立体深度按临床目标定义误差阈值与关键点距离。
-154021	HuPER: A Human-Inspired Framework for Phonetic Perception	https://neurips.cc/virtual/2026/poster/154021	pending	-
-151555	HybridCache: Enhancing Prefix Caching for Linear–Softmax Language Models	https://neurips.cc/virtual/2026/poster/151555	pending	-
-154484	Hybrid-LoRA: Bridging Full Fine-Tuning and Low-Rank Adaptation for Post-Training	https://neurips.cc/virtual/2026/poster/154484	pending	-
-148875	Hybrid Neural World Models for Physical Dynamics	https://neurips.cc/virtual/2026/poster/148875	pending	-
-154293	Hybrid Probabilistic Zonotopes for Identifiable and Refinable Predictive Uncertainty	https://neurips.cc/virtual/2026/poster/154293	pending	-
-148710	Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion	https://neurips.cc/virtual/2026/poster/148710	pending	-
-149753	HyCO: A Hybrid Neural Solver for Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/149753	pending	-
-152435	Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies for Visuomotor Control	https://neurips.cc/virtual/2026/poster/152435	pending	-
-149164	HYDRA: Representation Harmonized Tokenization for Multimodal Generation and Understanding	https://neurips.cc/virtual/2026/poster/149164	pending	-
-149441	Hydra: Towards Transferable Multi-Task Learning on Temporal Graphs	https://neurips.cc/virtual/2026/poster/149441	pending	-
-155676	Hydra-X: Native Unified Multimodal Models with Holistic Visual Tokenizers	https://neurips.cc/virtual/2026/poster/155676	pending	-
-150001	HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation	https://neurips.cc/virtual/2026/poster/150001	pending	-
-153670	Hyperagents	https://neurips.cc/virtual/2026/poster/153670	pending	-
-151003	Hyperbolic Concept Bottleneck Models	https://neurips.cc/virtual/2026/poster/151003	pending	-
-150377	Hyperbolic Concept Embedding Model for Interpretable Medical Image Diagnosis	https://neurips.cc/virtual/2026/poster/150377	pending	-
-154612	Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/154612	pending	-
-150947	Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry–Task Alignment	https://neurips.cc/virtual/2026/poster/150947	pending	-
-148771	Hyperbolic Language Models: From Zipf to Compute-Optimal Scaling	https://neurips.cc/virtual/2026/poster/148771	pending	-
-154114	HyperFlow: Gradient-Free Test-Time Adaptation for Cross-Domain Few-Shot Classification	https://neurips.cc/virtual/2026/poster/154114	pending	-
-150850	HyperGen: Learning Structure-Aware Spectral Flows for Hypergraph Generation	https://neurips.cc/virtual/2026/poster/150850	pending	-
-148881	Hypergraph Generation via Structured Stochastic Diffusion	https://neurips.cc/virtual/2026/poster/148881	pending	-
-154651	Hypergraph Generation with Latent Diffusion	https://neurips.cc/virtual/2026/poster/154651	pending	-
-154477	Hypergraph-guided Global Mean-field Negotiation For Multiview Evidential Classification	https://neurips.cc/virtual/2026/poster/154477	pending	-
-154475	Hypergraph Modeling of Transformer Attention for Hallucination Detection	https://neurips.cc/virtual/2026/poster/154475	pending	-
-148313	Hypergraph Representation Learning with Hyperlink Random Effects	https://neurips.cc/virtual/2026/poster/148313	pending	-
-149728	Hyper Hawkes Processes: Interpretable Models of Marked Temporal Point Processes	https://neurips.cc/virtual/2026/poster/149728	pending	-
-154124	Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport	https://neurips.cc/virtual/2026/poster/154124	pending	-
-154296	Hypernetworks for Dynamic Feature Selection	https://neurips.cc/virtual/2026/poster/154296	pending	-
-153453	HyperNSDE: Personalized Neural SDEs for Joint Static—Longitudinal Clinical Data Generation	https://neurips.cc/virtual/2026/poster/153453	pending	-
-150814	Hyperparameter Transfer for Dense Associative Memories	https://neurips.cc/virtual/2026/poster/150814	pending	-
-150015	HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere	https://neurips.cc/virtual/2026/poster/150015	pending	-
-148694	HyperSkill: Training-Free Omnimodal GRPO via Hypergraph-Indexed Skill-Library Evolution	https://neurips.cc/virtual/2026/poster/148694	pending	-
-151778	Hyperspherical Local Margin Retraction for Zero-Shot Instance-Wise Machine Unlearning	https://neurips.cc/virtual/2026/poster/151778	pending	-
-152624	HyperTransport: Amortized Conditioning of T2I Generative Models	https://neurips.cc/virtual/2026/poster/152624	pending	-
-150924	HyperTree: Scalable Unsupervised Hierarchy Discovery in Hyperbolic Space	https://neurips.cc/virtual/2026/poster/150924	pending	-
-153122	HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion	https://neurips.cc/virtual/2026/poster/153122	pending	-
-154142	HyperVQ: Enabling Hyperprior Entropy Modeling for VQ-Based Generative Image Compression	https://neurips.cc/virtual/2026/poster/154142	pending	-
-150487	HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large Scale Person Re-Identification	https://neurips.cc/virtual/2026/poster/150487	pending	-
-155387	Hypothesis generation and updating in large language models	https://neurips.cc/virtual/2026/poster/155387	pending	-
-153390	HyrCap: Hybrid Rank-Calibration of Action Proposals for Temporal Event Understanding	https://neurips.cc/virtual/2026/poster/153390	pending	-
-152054	HYVE: Hybrid Views for LLM Context Engineering over Machine Data	https://neurips.cc/virtual/2026/poster/152054	pending	-
-155809	I2V-DETACH: Source Grounding Detachment for Unauthorized Image-to-Video Generation	https://neurips.cc/virtual/2026/poster/155809	pending	-
-149902	IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow	https://neurips.cc/virtual/2026/poster/149902	pending	-
-150398	ICAT: Incident-Case–Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models	https://neurips.cc/virtual/2026/poster/150398	pending	-
-152851	iCATS: Fast Video Generation via Interaction-Aware Sparse Attention and Timestep-Adaptive Sparsity	https://neurips.cc/virtual/2026/poster/152851	pending	-
-139636	IDEAFix: Evaluation Framework for Creative Defixation Prompting in LLMs	https://neurips.cc/virtual/2026/poster/139636	pending	-
-155683	IdealCache: Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories	https://neurips.cc/virtual/2026/poster/155683	pending	-
-152556	IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder	https://neurips.cc/virtual/2026/poster/152556	pending	-
-153659	IDEAL: Interaction Dynamics and Force-Aware Learning for Dual-Humanoid Collaborative Manipulation	https://neurips.cc/virtual/2026/poster/153659	pending	-
-151393	IDEA: Unwrapping Visual Black-box Models by Interaction Decomposition	https://neurips.cc/virtual/2026/poster/151393	pending	-
-155537	Idempotency Exposes Consistency Problems in Sparse Autoencoders	https://neurips.cc/virtual/2026/poster/155537	pending	-
-151829	Identifiable alignment of unpaired representations	https://neurips.cc/virtual/2026/poster/151829	pending	-
-156140	Identifiable Feedback-Controlled Latent Flow for Unpaired Single-cell Spatio-Temporal Dynamics	https://neurips.cc/virtual/2026/poster/156140	pending	-
-150669	Identification and Bounding of Joint Expectation over Potential Outcomes	https://neurips.cc/virtual/2026/poster/150669	pending	-
-149969	Identified-Set Geometry of Distributional Model Extraction under Top-K Censored API Access	https://neurips.cc/virtual/2026/poster/149969	pending	-
-149053	Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models	https://neurips.cc/virtual/2026/poster/149053	pending	-
-151974	Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems	https://neurips.cc/virtual/2026/poster/151974	pending	-
-151733	Identifying Structural Biases from Causal Mechanism Shifts	https://neurips.cc/virtual/2026/poster/151733	pending	-
-150886	i-DEQ: A stable inertial Deep Equilibrium model for image restoration	https://neurips.cc/virtual/2026/poster/150886	pending	-
-151442	iDETR: Implicit DETR for Tiny Object Detection	https://neurips.cc/virtual/2026/poster/151442	pending	-
+154021	HuPER: A Human-Inspired Framework for Phonetic Perception	https://neurips.cc/virtual/2026/poster/154021	included	用音频纠正词典音素后再做自训练。
+151555	HybridCache: Enhancing Prefix Caching for Linear–Softmax Language Models	https://neurips.cc/virtual/2026/poster/151555	included	混合线性注意力缓存按头的记忆跨度选择重用位置。
+154484	Hybrid-LoRA: Bridging Full Fine-Tuning and Low-Rank Adaptation for Post-Training	https://neurips.cc/virtual/2026/poster/154484	excluded	摘要未交代模块敏感性分数如何计算，部分层全参加其他层 LoRA 的组合本身难以确认独立新增量。
+148875	Hybrid Neural World Models for Physical Dynamics	https://neurips.cc/virtual/2026/poster/148875	included	物理代理只将疑似失准的轨迹交回参考求解器。
+154293	Hybrid Probabilistic Zonotopes for Identifiable and Refinable Predictive Uncertainty	https://neurips.cc/virtual/2026/poster/154293	included	为预测头分开建模离散模式、漂移和不可约噪声。
+148710	Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion	https://neurips.cc/virtual/2026/poster/148710	included	一阶段融合蒸馏后用随机探索减少过平滑。
+149753	HyCO: A Hybrid Neural Solver for Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/149753	included	局部求解误差开始累积时，切换全局补全。
+152435	Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies for Visuomotor Control	https://neurips.cc/virtual/2026/poster/152435	included	按动作频谱而非图像生成经验设去噪步数。
+149164	HYDRA: Representation Harmonized Tokenization for Multimodal Generation and Understanding	https://neurips.cc/virtual/2026/poster/149164	included	让统一视觉编码先保存生成结构再抽象语义。
+149441	Hydra: Towards Transferable Multi-Task Learning on Temporal Graphs	https://neurips.cc/virtual/2026/poster/149441	excluded	摘要主要将局部时序 GNN 与已有谱特征并入多任务框架，未说明可独立复用的新耦合机制或必要对照。
+155676	Hydra-X: Native Unified Multimodal Models with Holistic Visual Tokenizers	https://neurips.cc/virtual/2026/poster/155676	included	统一视频分词先选因果时间注意和分级压缩。
+150001	HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation	https://neurips.cc/virtual/2026/poster/150001	included	时序填补把低频趋势和高频残差分给连续两阶段。
+153670	Hyperagents	https://neurips.cc/virtual/2026/poster/153670	included	评估代理改进时区分任务进步和跨域系统性收益。
+151003	Hyperbolic Concept Bottleneck Models	https://neurips.cc/virtual/2026/poster/151003	included	层级概念激活从独立余弦改为非对称包含。
+150377	Hyperbolic Concept Embedding Model for Interpretable Medical Image Diagnosis	https://neurips.cc/virtual/2026/poster/150377	excluded	双曲概念及蕴含锥与同批通用机制重合，摘要未给出可区分的干预新增量或能改变选型的边界。
+154612	Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/154612	included	连续适配时保留残差方向、压缩过大的累积位移。
+150947	Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry–Task Alignment	https://neurips.cc/virtual/2026/poster/150947	included	选择双曲图模型前比较任务度量与输入图几何是否一致。
+148771	Hyperbolic Language Models: From Zipf to Compute-Optimal Scaling	https://neurips.cc/virtual/2026/poster/148771	included	替换输出几何后重估参数和训练数据的最优配比。
+154114	HyperFlow: Gradient-Free Test-Time Adaptation for Cross-Domain Few-Shot Classification	https://neurips.cc/virtual/2026/poster/154114	included	低资源部署把测试时微调轨迹摊销为前向更新。
+150850	HyperGen: Learning Structure-Aware Spectral Flows for Hypergraph Generation	https://neurips.cc/virtual/2026/poster/150850	included	谱生成的连续潜空间单设离散结构解码。
+148881	Hypergraph Generation via Structured Stochastic Diffusion	https://neurips.cc/virtual/2026/poster/148881	included	生成超图时，在关联矩阵两侧建结构化噪声并回归闭式逆漂移目标。
+154651	Hypergraph Generation with Latent Diffusion	https://neurips.cc/virtual/2026/poster/154651	included	节点与高阶边互相制约时，用双流潜变量生成并保留交叉条件。
+154477	Hypergraph-guided Global Mean-field Negotiation For Multiview Evidential Classification	https://neurips.cc/virtual/2026/poster/154477	excluded	全局协商方向虽有价值，摘要未阐明更新依据及冲突视图权重的形成方式。
+154475	Hypergraph Modeling of Transformer Attention for Hallucination Detection	https://neurips.cc/virtual/2026/poster/154475	excluded	注意力超图分类提高检测表现，但摘要缺少相同探针容量下双边与高阶结构的独立比较。
+148313	Hypergraph Representation Learning with Hyperlink Random Effects	https://neurips.cc/virtual/2026/poster/148313	included	超边大小不同且形成机制异质时，为超边增加独立随机效应，保留低秩实体表示。
+149728	Hyper Hawkes Processes: Interpretable Models of Marked Temporal Point Processes	https://neurips.cc/virtual/2026/poster/149728	excluded	超网络调参数后仍保留条件线性是有趣方向，摘要未说明可解释探针如何验证或排除替代解释。
+154124	Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport	https://neurips.cc/virtual/2026/poster/154124	included	凸性是硬约束且网络较深时，比较 Maxout 式凸网络和传统 ICNN。
+154296	Hypernetworks for Dynamic Feature Selection	https://neurips.cc/virtual/2026/poster/154296	included	可观察特征子集组合过多时，以集合编码条件化超网络生成子集专属分类器。
+153453	HyperNSDE: Personalized Neural SDEs for Joint Static—Longitudinal Clinical Data Generation	https://neurips.cc/virtual/2026/poster/153453	excluded	临床采样时间、静态量及轨迹建模方案的组合较完整，但摘要不足以独立判断是否应显式建模采样时点。
+150814	Hyperparameter Transfer for Dense Associative Memories	https://neurips.cc/virtual/2026/poster/150814	excluded	摘要没有给出可复用的超参缩放关系，暂不单列。
+150015	HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere	https://neurips.cc/virtual/2026/poster/150015	included	语言操作有多种合理执行时，用球面连续技能代替彼此孤立的离散码。
+148694	HyperSkill: Training-Free Omnimodal GRPO via Hypergraph-Indexed Skill-Library Evolution	https://neurips.cc/virtual/2026/poster/148694	excluded	技能库集成总分较强，尚不能依据摘要分辨逐步准入、超图索引和检索阈值各自的净收益。
+151778	Hyperspherical Local Margin Retraction for Zero-Shot Instance-Wise Machine Unlearning	https://neurips.cc/virtual/2026/poster/151778	included	无法访问保留样本的实例级遗忘，用表示的局部邻域参考区分异常边际与类通用结构。
+152624	HyperTransport: Amortized Conditioning of T2I Generative Models	https://neurips.cc/virtual/2026/poster/152624	included	概念集合持续变化时，用超网络把嵌入映射成激活干预参数，避免逐概念拟合。
+150924	HyperTree: Scalable Unsupervised Hierarchy Discovery in Hyperbolic Space	https://neurips.cc/virtual/2026/poster/150924	included	无监督层级发现要扩大数据规模时，比较闭式双曲祖先计算和尺度不变聚类目标。
+153122	HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion	https://neurips.cc/virtual/2026/poster/153122	included	视频稀疏注意力同时优化聚类更新频率与 GPU 瓦片利用率。
+154142	HyperVQ: Enabling Hyperprior Entropy Modeling for VQ-Based Generative Image Compression	https://neurips.cc/virtual/2026/poster/154142	included	向量量化压缩联合优化码率与重建时，从连续隐空间密度构造离散索引概率。
+150487	HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large Scale Person Re-Identification	https://neurips.cc/virtual/2026/poster/150487	excluded	行人重识别与已有球面多专家路由设计结合，摘要缺少明确支持其他场景选用的独立证据。
+155387	Hypothesis generation and updating in large language models	https://neurips.cc/virtual/2026/poster/155387	included	评估模型根据样本更新科学假设时，将生成、评判和域外预测分开测。
+153390	HyrCap: Hybrid Rank-Calibration of Action Proposals for Temporal Event Understanding	https://neurips.cc/virtual/2026/poster/153390	excluded	候选质量排序与跨表征融合的组合缺少可从摘要独立提取的校准规则。
+152054	HYVE: Hybrid Views for LLM Context Engineering over Machine Data	https://neurips.cc/virtual/2026/poster/152054	included	机器数据提示只呈现必要结构，完整信息留在按请求索引的存储中。
+155809	I2V-DETACH: Source Grounding Detachment for Unauthorized Image-to-Video Generation	https://neurips.cc/virtual/2026/poster/155809	included	图像授权保护评测要单列生成视频的源内容保留率。
+149902	IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow	https://neurips.cc/virtual/2026/poster/149902	included	物理结构保持不变时让超网络调节方程参数对应的算子权重。
+150398	ICAT: Incident-Case–Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models	https://neurips.cc/virtual/2026/poster/150398	included	用事故记录和安全手册评估世界模型风险预测，拆开触发条件与严重度。
+152851	iCATS: Fast Video Generation via Interaction-Aware Sparse Attention and Timestep-Adaptive Sparsity	https://neurips.cc/virtual/2026/poster/152851	included	视频扩散的稀疏预算应随去噪阶段变化。
+139636	IDEAFix: Evaluation Framework for Creative Defixation Prompting in LLMs	https://neurips.cc/virtual/2026/poster/139636	excluded	摘要给出创意提示评测框架，但未指明哪些引导策略、任务属性或误差分析支持独立的技术选择。
+155683	IdealCache: Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories	https://neurips.cc/virtual/2026/poster/155683	included	缓存日程优化最终目标，而非逐步逼近原去噪轨迹。
+152556	IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder	https://neurips.cc/virtual/2026/poster/152556	included	离散图像词元同时对齐视觉教师浅层和深层。
+153659	IDEAL: Interaction Dynamics and Force-Aware Learning for Dual-Humanoid Collaborative Manipulation	https://neurips.cc/virtual/2026/poster/153659	included	多人协同搬运的模仿参考同时记录运动一致性和载荷分配。
+151393	IDEA: Unwrapping Visual Black-box Models by Interaction Decomposition	https://neurips.cc/virtual/2026/poster/151393	included	概念解释把独有、冗余和交互信息分开。
+155537	Idempotency Exposes Consistency Problems in Sparse Autoencoders	https://neurips.cc/virtual/2026/poster/155537	included	稀疏自编码器解释应验算重编码后一致性。
+151829	Identifiable alignment of unpaired representations	https://neurips.cc/virtual/2026/poster/151829	included	无配对表示对齐之前先检查局部距离分布是否可区分样本。
+156140	Identifiable Feedback-Controlled Latent Flow for Unpaired Single-cell Spatio-Temporal Dynamics	https://neurips.cc/virtual/2026/poster/156140	excluded	摘要的可识别性结论与特定发育和调控模型绑定，尚缺脱离该任务的独立验证，暂不保留。
+150669	Identification and Bounding of Joint Expectation over Potential Outcomes	https://neurips.cc/virtual/2026/poster/150669	included	潜在结果的联合效应异质性用依赖假设或锐界表达。
+149969	Identified-Set Geometry of Distributional Model Extraction under Top-K Censored API Access	https://neurips.cc/virtual/2026/poster/149969	included	API 防护评估应分别报告输出分布保真与能力泄漏。
+149053	Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models	https://neurips.cc/virtual/2026/poster/149053	included	在相同图文条件下跨随机种子检查个性化生成多样性。
+151974	Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems	https://neurips.cc/virtual/2026/poster/151974	included	潜动态建模可用识别式观测关联替代完整生成观测模型。
+151733	Identifying Structural Biases from Causal Mechanism Shifts	https://neurips.cc/virtual/2026/poster/151733	included	跨环境机制变化的相关性可用于检查隐藏混杂和选择偏差。
+150886	i-DEQ: A stable inertial Deep Equilibrium model for image restoration	https://neurips.cc/virtual/2026/poster/150886	included	恢复用平衡模型可在固定点迭代引入受约束的动量。
+151442	iDETR: Implicit DETR for Tiny Object Detection	https://neurips.cc/virtual/2026/poster/151442	included	极小目标检测用连续亚像素查询补单尺度特征。
 154504	idSCD: Identifying Training Datasets through Semantic Correlation Descriptors	https://neurips.cc/virtual/2026/poster/154504	pending	-
 148764	IFDECORATOR: Wrapping Instruction Following Reinforcement Learning with Verifiable Rewards	https://neurips.cc/virtual/2026/poster/148764	pending	-
 155215	IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer	https://neurips.cc/virtual/2026/poster/155215	pending	-

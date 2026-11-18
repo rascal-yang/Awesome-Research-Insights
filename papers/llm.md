@@ -1832,5 +1832,11 @@
 - [How Useful Is Cross-Domain Generalization for Training LLM Monitors?](../conferences/neurips-2026/cards-0006.md#paper-152528)
 - [HPC-Bench: A Comprehensive Benchmark for High Performance Computing Codes](../conferences/neurips-2026/cards-0006.md#paper-139477)
 - [Humans Correct Their Judgements Through Debate, but Weaker AI Models Not](../conferences/neurips-2026/cards-0006.md#paper-154000)
+- [HybridCache: Enhancing Prefix Caching for Linear–Softmax Language Models](../conferences/neurips-2026/cards-0006.md#paper-151555)
+- [Hyperagents](../conferences/neurips-2026/cards-0006.md#paper-153670)
+- [Hyperbolic Language Models: From Zipf to Compute-Optimal Scaling](../conferences/neurips-2026/cards-0006.md#paper-148771)
+- [Hypothesis generation and updating in large language models](../conferences/neurips-2026/cards-0006.md#paper-155387)
+- [HYVE: Hybrid Views for LLM Context Engineering over Machine Data](../conferences/neurips-2026/cards-0006.md#paper-152054)
+- [Identified-Set Geometry of Distributional Model Extraction under Top-K Censored API Access](../conferences/neurips-2026/cards-0007.md#paper-149969)
 
 <!-- conference-classification:end -->

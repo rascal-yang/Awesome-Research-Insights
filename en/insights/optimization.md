@@ -564,5 +564,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [How Can SignSGD Outperform SGD? A Functional Scaling Law Perspective](../../conferences/neurips-2026/cards-0006.md#paper-150706)
 - [How deep is your network? Deep vs. shallow learning of transfer operators](../../conferences/neurips-2026/cards-0006.md#paper-148363)
 - [How I learned to stop worrying and love StopGrads: Stationarity, Convergence, and a case study on Flow Map Learning](../../conferences/neurips-2026/cards-0006.md#paper-149145)
+- [HyperVQ: Enabling Hyperprior Entropy Modeling for VQ-Based Generative Image Compression](../../conferences/neurips-2026/cards-0006.md#paper-154142)
+- [i-DEQ: A stable inertial Deep Equilibrium model for image restoration](../../conferences/neurips-2026/cards-0007.md#paper-150886)
 
 <!-- conference-classification:end -->

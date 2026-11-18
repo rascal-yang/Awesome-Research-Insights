@@ -697,5 +697,9 @@ Robot perception, policy learning, planning, and control.
 - [How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction](../../conferences/neurips-2026/cards-0006.md#paper-152464)
 - [HumanoidArena: Benchmarking Egocentric Hierarchical Whole-body Learning](../../conferences/neurips-2026/cards-0006.md#paper-139007)
 - [Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating](../../conferences/neurips-2026/cards-0006.md#paper-150291)
+- [Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies for Visuomotor Control](../../conferences/neurips-2026/cards-0006.md#paper-152435)
+- [HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere](../../conferences/neurips-2026/cards-0006.md#paper-150015)
+- [ICAT: Incident-Case–Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models](../../conferences/neurips-2026/cards-0006.md#paper-150398)
+- [IDEAL: Interaction Dynamics and Force-Aware Learning for Dual-Humanoid Collaborative Manipulation](../../conferences/neurips-2026/cards-0007.md#paper-153659)
 
 <!-- conference-classification:end -->

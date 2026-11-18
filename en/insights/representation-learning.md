@@ -473,5 +473,10 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [How Data Augmentation Shapes Neural Representations](../../conferences/neurips-2026/cards-0006.md#paper-150878)
 - [How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction](../../conferences/neurips-2026/cards-0006.md#paper-152464)
 - [HRIL: Isolating Multimodal Synergy via Higher-Order Dependence](../../conferences/neurips-2026/cards-0006.md#paper-151076)
+- [Hyperbolic Concept Bottleneck Models](../../conferences/neurips-2026/cards-0006.md#paper-151003)
+- [HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere](../../conferences/neurips-2026/cards-0006.md#paper-150015)
+- [Hyperspherical Local Margin Retraction for Zero-Shot Instance-Wise Machine Unlearning](../../conferences/neurips-2026/cards-0006.md#paper-151778)
+- [HyperTree: Scalable Unsupervised Hierarchy Discovery in Hyperbolic Space](../../conferences/neurips-2026/cards-0006.md#paper-150924)
+- [IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder](../../conferences/neurips-2026/cards-0007.md#paper-152556)
 
 <!-- conference-classification:end -->

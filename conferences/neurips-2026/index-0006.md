@@ -480,3 +480,37 @@
 | 计算机视觉 | 评测与诊断 | [HumanScore: Benchmarking Human Motions in Generated Videos](cards-0006.md#paper-139307) | 人物生成评估显式分开外观和运动可行性。 |
 | 大语言模型 | 评测与诊断 | [Humans Correct Their Judgements Through Debate, but Weaker AI Models Not](cards-0006.md#paper-154000) | 监督协议换裁判类型时重新验证辩论收益。 |
 | 计算机视觉 | 评测与诊断 | [HumanStereo: A Benchmark for Metric Facial Depth Estimation and Its Evaluation](cards-0006.md#paper-138969) | 人脸立体深度按临床目标定义误差阈值与关键点距离。 |
+| 自然语言处理 | 训练策略 | [HuPER: A Human-Inspired Framework for Phonetic Perception](cards-0006.md#paper-154021) | 用音频纠正词典音素后再做自训练。 |
+| 大语言模型 | 推理策略 | [HybridCache: Enhancing Prefix Caching for Linear–Softmax Language Models](cards-0006.md#paper-151555) | 混合线性注意力缓存按头的记忆跨度选择重用位置。 |
+| 科学机器学习 | 推理策略 | [Hybrid Neural World Models for Physical Dynamics](cards-0006.md#paper-148875) | 物理代理只将疑似失准的轨迹交回参考求解器。 |
+| 机器学习基础与统计 | 模型架构 | [Hybrid Probabilistic Zonotopes for Identifiable and Refinable Predictive Uncertainty](cards-0006.md#paper-154293) | 为预测头分开建模离散模式、漂移和不可约噪声。 |
+| 多模态学习 | 强化学习方法 | [Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion](cards-0006.md#paper-148710) | 一阶段融合蒸馏后用随机探索减少过平滑。 |
+| 机器学习基础与统计 | 推理策略 | [HyCO: A Hybrid Neural Solver for Combinatorial Optimization](cards-0006.md#paper-149753) | 局部求解误差开始累积时，切换全局补全。 |
+| 机器人学 | 推理策略 | [Hydra-DP3: Frequency-Aware Right-Sizing of 3D Diffusion Policies for Visuomotor Control](cards-0006.md#paper-152435) | 按动作频谱而非图像生成经验设去噪步数。 |
+| 多模态学习 | 模型架构 | [HYDRA: Representation Harmonized Tokenization for Multimodal Generation and Understanding](cards-0006.md#paper-149164) | 让统一视觉编码先保存生成结构再抽象语义。 |
+| 多模态学习 | 模型架构 | [Hydra-X: Native Unified Multimodal Models with Holistic Visual Tokenizers](cards-0006.md#paper-155676) | 统一视频分词先选因果时间注意和分级压缩。 |
+| 机器学习基础与统计 | 模型架构 | [HyFAD: Hybrid Time-Frequency Diffusion with Frequency-Aware Embedding for Time Series Imputation](cards-0006.md#paper-150001) | 时序填补把低频趋势和高频残差分给连续两阶段。 |
+| 大语言模型 | 评测与诊断 | [Hyperagents](cards-0006.md#paper-153670) | 评估代理改进时区分任务进步和跨域系统性收益。 |
+| 机器学习基础与统计 | 表征学习 | [Hyperbolic Concept Bottleneck Models](cards-0006.md#paper-151003) | 层级概念激活从独立余弦改为非对称包含。 |
+| 多模态学习 | 训练策略 | [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](cards-0006.md#paper-154612) | 连续适配时保留残差方向、压缩过大的累积位移。 |
+| 图学习与推荐 | 评测与诊断 | [Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry–Task Alignment](cards-0006.md#paper-150947) | 选择双曲图模型前比较任务度量与输入图几何是否一致。 |
+| 大语言模型 | 评测与诊断 | [Hyperbolic Language Models: From Zipf to Compute-Optimal Scaling](cards-0006.md#paper-148771) | 替换输出几何后重估参数和训练数据的最优配比。 |
+| 机器学习基础与统计 | 训练策略 | [HyperFlow: Gradient-Free Test-Time Adaptation for Cross-Domain Few-Shot Classification](cards-0006.md#paper-154114) | 低资源部署把测试时微调轨迹摊销为前向更新。 |
+| 图学习与推荐 | 模型架构 | [HyperGen: Learning Structure-Aware Spectral Flows for Hypergraph Generation](cards-0006.md#paper-150850) | 谱生成的连续潜空间单设离散结构解码。 |
+| 图学习 | 模型架构 | [Hypergraph Generation via Structured Stochastic Diffusion](cards-0006.md#paper-148881) | 生成超图时，在关联矩阵两侧建结构化噪声并回归闭式逆漂移目标。 |
+| 图学习 | 模型架构 | [Hypergraph Generation with Latent Diffusion](cards-0006.md#paper-154651) | 节点与高阶边互相制约时，用双流潜变量生成并保留交叉条件。 |
+| 图学习 | 理论与统计 | [Hypergraph Representation Learning with Hyperlink Random Effects](cards-0006.md#paper-148313) | 超边大小不同且形成机制异质时，为超边增加独立随机效应，保留低秩实体表示。 |
+| 机器学习基础与统计 | 模型架构 | [Hyper Input Convex Neural Networks for Shape Constrained Learning and Optimal Transport](cards-0006.md#paper-154124) | 凸性是硬约束且网络较深时，比较 Maxout 式凸网络和传统 ICNN。 |
+| 机器学习基础与统计 | 模型架构 | [Hypernetworks for Dynamic Feature Selection](cards-0006.md#paper-154296) | 可观察特征子集组合过多时，以集合编码条件化超网络生成子集专属分类器。 |
+| 机器人学 | 表征学习 | [HyperSkill: Multi-Modal Skill Learning on the Unit Hypersphere](cards-0006.md#paper-150015) | 语言操作有多种合理执行时，用球面连续技能代替彼此孤立的离散码。 |
+| 计算机视觉 | 表征学习 | [Hyperspherical Local Margin Retraction for Zero-Shot Instance-Wise Machine Unlearning](cards-0006.md#paper-151778) | 无法访问保留样本的实例级遗忘，用表示的局部邻域参考区分异常边际与类通用结构。 |
+| 多模态学习 | 推理策略 | [HyperTransport: Amortized Conditioning of T2I Generative Models](cards-0006.md#paper-152624) | 概念集合持续变化时，用超网络把嵌入映射成激活干预参数，避免逐概念拟合。 |
+| 计算机视觉 | 表征学习 | [HyperTree: Scalable Unsupervised Hierarchy Discovery in Hyperbolic Space](cards-0006.md#paper-150924) | 无监督层级发现要扩大数据规模时，比较闭式双曲祖先计算和尺度不变聚类目标。 |
+| 计算机视觉 | 推理策略 | [HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion](cards-0006.md#paper-153122) | 视频稀疏注意力同时优化聚类更新频率与 GPU 瓦片利用率。 |
+| 计算机视觉 | 优化 | [HyperVQ: Enabling Hyperprior Entropy Modeling for VQ-Based Generative Image Compression](cards-0006.md#paper-154142) | 向量量化压缩联合优化码率与重建时，从连续隐空间密度构造离散索引概率。 |
+| 大语言模型 | 评测与诊断 | [Hypothesis generation and updating in large language models](cards-0006.md#paper-155387) | 评估模型根据样本更新科学假设时，将生成、评判和域外预测分开测。 |
+| 大语言模型 | 推理策略 | [HYVE: Hybrid Views for LLM Context Engineering over Machine Data](cards-0006.md#paper-152054) | 机器数据提示只呈现必要结构，完整信息留在按请求索引的存储中。 |
+| 计算机视觉 | 评测与诊断 | [I2V-DETACH: Source Grounding Detachment for Unauthorized Image-to-Video Generation](cards-0006.md#paper-155809) | 图像授权保护评测要单列生成视频的源内容保留率。 |
+| 科学机器学习 | 模型架构 | [IADR: Interface-Augmented Neural Operator for Phase-Field Mean-Curvature Flow](cards-0006.md#paper-149902) | 物理结构保持不变时让超网络调节方程参数对应的算子权重。 |
+| 机器人学 | 评测与诊断 | [ICAT: Incident-Case–Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models](cards-0006.md#paper-150398) | 用事故记录和安全手册评估世界模型风险预测，拆开触发条件与严重度。 |
+| 计算机视觉 | 推理策略 | [iCATS: Fast Video Generation via Interaction-Aware Sparse Attention and Timestep-Adaptive Sparsity](cards-0006.md#paper-152851) | 视频扩散的稀疏预算应随去噪阶段变化。 |
