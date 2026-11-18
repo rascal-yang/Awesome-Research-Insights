@@ -654,5 +654,10 @@ Learning from interaction, feedback, and offline experience.
 - [Primal-Dual Representation Learning for Low-Rank Constrained MDPs](../../conferences/neurips-2026/cards-0009.md#paper-151600)
 - [Prompt-Driven Exploration](../../conferences/neurips-2026/cards-0010.md#paper-150317)
 - [Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction–Reality Gaps](../../conferences/neurips-2026/cards-0010.md#paper-152351)
+- [Provably Efficient Representation Learning for Low-Rank CMDPs](../../conferences/neurips-2026/cards-0010.md#paper-155519)
+- [Pure Exploration Beyond Reward Feedback: The Role of Post-Action Context](../../conferences/neurips-2026/cards-0010.md#paper-154673)
+- [Quantile-Coupled Flow Matching for Distributional Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149618)
+- [Quantile Geometry Regularization for Distributional Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149758)
+- [Quotient-Categorical Representations for Bellman-Compatible Average-Reward Distributional Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149377)
 
 <!-- conference-classification:end -->

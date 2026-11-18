@@ -636,5 +636,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PRISM:Disentangling Preference Distributions for Generative Ranking](../../conferences/neurips-2026/cards-0010.md#paper-153862)
 - [Prompt-Driven Exploration](../../conferences/neurips-2026/cards-0010.md#paper-150317)
 - [Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction–Reality Gaps](../../conferences/neurips-2026/cards-0010.md#paper-152351)
+- [Provably Efficient Regularized Online RLHF with Generalized Bilinear Preferences](../../conferences/neurips-2026/cards-0010.md#paper-151212)
+- [RAHF: Reward-Amplified Human Feedback for Closed-Loop Policy Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-148691)
 
 <!-- conference-classification:end -->

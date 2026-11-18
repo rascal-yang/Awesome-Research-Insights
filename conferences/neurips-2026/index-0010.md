@@ -64,3 +64,64 @@
 | 机器学习基础与统计 | 模型与架构 | [Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks](cards-0010.md#paper-153925) | 连续时序网络用轻量前瞻补偿层间积分延迟 |
 | 强化学习与决策 | 强化学习与奖励 | [Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction–Reality Gaps](cards-0010.md#paper-152351) | 按事前置信与事后结果的差距调节优势 |
 | 机器学习基础与统计 | 记忆与检索 | [Proteus: Incremental Memory Activation for Long-Context Sequence Modeling](cards-0010.md#paper-154744) | 长上下文有状态模型逐步开放记忆容量 |
+| 多模态学习 | 可解释性 | [Prototypes of the Mind: A Unified Framework for Probing the Visual Brain](cards-0010.md#paper-153745) | 概念原型作为共同探测接口。 |
+| 多模态学习 | 持续学习 | [Prototype Topology Consistency for Visible-Infrared Lifelong Person Re-Identification](cards-0010.md#paper-155560) | 增量多模态识别冻结历史原型关系。 |
+| 具身智能与机器人 | 搜索与规划 | [ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation](cards-0010.md#paper-149783) | 航点预测前生成下一位置的视觉原型。 |
+| 深度学习 | 可解释性 | [Provable Explanations for Any-Order Neural Additive Models](cards-0010.md#paper-150538) | 如需最小充分解释，事先约束特征交互。 |
+| 大语言模型 | 评测与诊断 | [Provable Joint Decontamination for Benchmarking Multiple Large Language Models](cards-0010.md#paper-154764) | 共用评测集时在模型组层面控制污染。 |
+| 计算机视觉 | 剪枝与稀疏化 | [Provable Pruning for Efficient 3D Gaussian Splatting via Coresets](cards-0010.md#paper-154669) | 按部署视图分辨率约束 3DGS 剪枝。 |
+| 模型效率与系统 | 量化 | [Provable Quantization with Randomized Hadamard Transform](cards-0010.md#paper-148522) | 高维量化可选随机 Hadamard 作低成本旋转。 |
+| 深度学习 | 模型鲁棒性 | [Provable Robustness against Backdoor Attacks via the Primal-Dual Perspective on Differential Privacy](cards-0010.md#paper-153879) | 训练与推理随机化合成后统一做防御认证。 |
+| 深度学习 | 数据选择 | [Provable Selective Auto-labeling with Reliability Guarantees](cards-0010.md#paper-154352) | 以容许伪标签错误率决定自动标注覆盖。 |
+| 具身智能与机器人 | 时序建模 | [Provable State Estimation with Recurrent Models](cards-0010.md#paper-151681) | 在部分观测控制中约束 RNN 状态流收缩。 |
+| 大语言模型 | 搜索与规划 | [Provable Test-Time Scaling for Beam Search in LLM Reasoning](cards-0010.md#paper-152506) | 在终局打分的 beam 搜索中检查中间覆盖。 |
+| 深度学习 | 可解释性 | [Provably Accurate Shapley Value Estimation in High Dimensions via Sparse Leverage Sampling](cards-0010.md#paper-153881) | 估 Shapley 前用稀疏支持选样。 |
+| 大语言模型 | 偏好优化 | [Provably Efficient Regularized Online RLHF with Generalized Bilinear Preferences](cards-0010.md#paper-151212) | 在线偏好学习按强凸条件选择正则。 |
+| 强化学习 | 约束优化 | [Provably Efficient Representation Learning for Low-Rank CMDPs](cards-0010.md#paper-155519) | 低秩 CMDP 不必拟合显式环境模型。 |
+| 生成模型 | 采样与推理 | [Provably Reliable Classifier Guidance via Cross-Entropy Control](cards-0010.md#paper-155431) | 选扩散引导器时同时筛交叉熵和平滑性。 |
+| 具身智能与机器人 | 约束优化 | [Provably Safe, Yet Performant Reinforcement Learning](cards-0010.md#paper-152935) | 用可恢复备份策略定义在线安全区域。 |
+| 深度学习 | 可解释性 | [Proxy-Based Approximation of Shapley and Banzhaf Interactions](cards-0010.md#paper-153973) | 高阶交互归因先拟合树代理再修残差。 |
+| 计算机视觉 | 三维视觉 | [ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](cards-0010.md#paper-148929) | 局部 6DoF 追踪先生成几何已知的代理视频。 |
+| 计算机视觉 | 推理策略 | [ProxySearch: Decoupled Inference-Time Scaling for Diffusion Models via Asymmetric Noise-Rank Transfer](cards-0010.md#paper-151922) | 低步数模型做噪声预筛选前，分别验收图像统计与语义评分能否传到教师。 |
+| 科学机器学习 | 模型架构 | [PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation](cards-0010.md#paper-148567) | 可信的物理模拟器已有时，保留动力学并学习观测窗口内的平滑修正。 |
+| 大语言模型 | 训练策略 | [Pruning and Distilling Mixture-of-Experts into Dense Language Models](cards-0010.md#paper-150472) | MoE 整体显存过高时，先筛专家再拼接成稠密前馈并进行蒸馏。 |
+| 大语言模型 | 推理策略 | [PSD: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding](cards-0010.md#paper-150134) | 扩散语言解码同时调整每层提交宽度及一次验证可接受的深度。 |
+| 机器学习基础与统计 | 理论与统计 | [Pseudo-Labeling for Unsupervised Domain Adaptation with Kernel GLMs](cards-0010.md#paper-151774) | 用无标签目标域做模型选择时，把源训练和源插补模型分开估计。 |
+| 大语言模型 | 评测与诊断 | [PULSE: Identifying Demonstration-Utility Features with Sparse Autoencoders](cards-0010.md#paper-150843) | 选择上下文示范时，比较语义近邻与目标模型内部激活关联的效用。 |
+| 强化学习 | 理论与统计 | [Pure Exploration Beyond Reward Feedback: The Role of Post-Action Context](cards-0010.md#paper-154673) | 赌博机有动作后的上下文时，先判断它是否完全隔离奖励对动作的直接依赖。 |
+| 机器学习基础与统计 | 评测与诊断 | [pyCD: A Unified Benchmark for Reliable Evaluation of Cognitive Diagnosis Models](cards-0010.md#paper-139115) | 预报指标与实际使用的解释量分别验收 |
+| 视觉与多模态 | 生成与扩散 | [Pygmalion Effect in Vision: Image-to-Clay Translation for Reflective Geometry Reconstruction](cards-0010.md#paper-150623) | 反光重建给几何支路增加去反光伪视图 |
+| 视觉与多模态 | 效率与系统 | [Q-ARVD: Quantizing Autoregressive Video Diffusion Models](cards-0010.md#paper-152660) | 视频扩散低比特量化要分别处理异常通道 |
+| 视觉与多模态 | 记忆与检索 | [Q-Focus: Let the Question Guide What to See in Long Videos](cards-0010.md#paper-151910) | 长视频压缩后按问题恢复与锚邻近的细节 |
+| 具身智能与机器人 | 推理与搜索 | [QGround: Condition-Wise Evidence Aggregation for 3D Grounding with 2D VLMs](cards-0010.md#paper-154571) | 3D 指代按条件聚合 2D 偏好证据 |
+| 具身智能与机器人 | 模型与架构 | [Q-Residual Physics: Hamiltonian-Structured Quantum Residual Learning for Embodied Dynamics](cards-0010.md#paper-150528) | 标称物理残差按可解释接触模式组织 |
+| 机器学习基础与统计 | 推理与搜索 | [Quality-Diversity Optimization as Multi-Objective Optimization](cards-0010.md#paper-153242) | 质量多样性搜索可改写成集合多目标优化 |
+| 大语言模型 | 生成与扩散 | [Quantifying and Optimizing Path Uncertainty in Masked Diffusion Models](cards-0010.md#paper-150361) | 掩码扩散要比较去噪路径的不确定性 |
+| 机器学习理论 | 异常检测 | [Quantifying Centrality for Complex Data](cards-0010.md#paper-150293) | 对无自然向量坐标的观测用距离轮廓测中心性。 |
+| 大语言模型 | 注意力机制 | [Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime](cards-0010.md#paper-149032) | 分析低温注意力时区分中期聚集与末期谱效应。 |
+| 大语言模型 | 数据选择 | [Quantile Benchmarking Heterogeneous Web Corpora in Open LLM Pretraining](cards-0010.md#paper-149953) | 按来源和分位数校准预训练过滤。 |
+| 强化学习 | 流匹配 | [Quantile-Coupled Flow Matching for Distributional Reinforcement Learning](cards-0010.md#paper-149618) | 学习回报分布时用分位数对齐批内流路径。 |
+| 强化学习 | 损失函数 | [Quantile Geometry Regularization for Distributional Reinforcement Learning](cards-0010.md#paper-149758) | 保持中性均值时单独纠正回报分位数塌缩。 |
+| 多模态学习 | 评测与诊断 | [Quantitative Assessment of Crystal Structure Prediction](cards-0010.md#paper-138999) | 结构生成并列测几何与物理可行性。 |
+| 大语言模型 | 量化 | [Quantized Reasoning Models Think They Need to Think Longer, but They Do Not](cards-0010.md#paper-151668) | 部署量化推理时额外检查正确答案被改写的比例。 |
+| 模型效率与系统 | 量化 | [Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven](cards-0010.md#paper-149294) | 按向量矩和是否需坐标去相关选择 Hadamard 次数。 |
+| 深度学习 | 时序建模 | [Quasi-Linear ICA for Motor Unit Decomposition during Dynamic Contractions](cards-0010.md#paper-150445) | 移动传感器信号先学习时变解混校正。 |
+| 智能体与工具使用 | 搜索与规划 | [Qubrio: High-Performance Quantum Compilation via Multi-Agent LLM Collaboration](cards-0010.md#paper-149140) | 复杂编译代理按物理约束拆专家并分解错误反馈。 |
+| 多模态学习 | 持续学习 | [Query as a Resource: Activity-Cost Guided Remote Sensing Domain-Incremental Object Detection](cards-0010.md#paper-148788) | 把 DETR 的对象 query 作为有限适配资源。 |
+| 机器学习理论 | 数据选择 | [Query-Limited Community Recovery in Stochastic Block Models](cards-0010.md#paper-149578) | 预算有限的图标注先用部分图定位不确定节点。 |
+| 大语言模型 | 推理策略 | [QueryStop: Dynamic Stop Signals for Efficient Streaming Inference](cards-0010.md#paper-151351) | 流式读取需早停时，用针对当前问题的注意力头判断证据是否足够。 |
+| 强化学习 | 理论与统计 | [Quotient-Categorical Representations for Bellman-Compatible Average-Reward Distributional Reinforcement Learning](cards-0010.md#paper-149377) | 平均回报的分布价值表示，应把共同平移当作同一等价类。 |
+| 计算机视觉 | 理论与统计 | [QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems](cards-0010.md#paper-150551) | 成像逆问题的置信区间应允许像素间有不同的分位形状。 |
+| 多模态学习 | 推理策略 | [Q-ViK: Question-Guided Visual KV Cache Eviction for Large Vision-Language Models](cards-0010.md#paper-148422) | 视觉缓存筛选器应学习预测回答阶段会读取哪些图像 token。 |
+| 大语言模型 | 评测与诊断 | [RA$^2$: Retain-Anchored Attraction Preserves Forget-Adjacent Utility in LLM Unlearning](cards-0010.md#paper-154019) | 遗忘验收除通用保留外，单列与遗忘域接近的良性任务。 |
+| 计算机视觉 | 推理策略 | [RA-CFGCache: From Branch-Level Criteria to Guided-Risk Control under Classifier-Free Guidance](cards-0010.md#paper-150708) | CFG 缓存按真正用于更新的引导组合估计风险，纳入误差跨步传播。 |
+| 机器学习基础与统计 | 评测与诊断 | [Radial-Angular Geometry for Reliable Update Diagnosis in Noisy-Label Learning](cards-0010.md#paper-154327) | 从噪声标签里挑可学习难样本时，量化梯度大小及与可信参考的方向冲突。 |
+| 智能体 | 记忆与检索 | [RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn’t](cards-0010.md#paper-151457) | 按任务所需的记忆机制再决定记忆结构 |
+| 具身智能与机器人 | 强化学习与奖励 | [RAHF: Reward-Amplified Human Feedback for Closed-Loop Policy Fine-Tuning](cards-0010.md#paper-148691) | 闭环反馈微调用冻结主干与独立适配分支 |
+| 具身智能与机器人 | 训练与优化 | [RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies](cards-0010.md#paper-154487) | 具特权信息的教师在训练阶段受学生可观测表征约束 |
+| 机器学习基础与统计 | 记忆与检索 | [RAM-Net: Linear-Time Sequence Modeling with Sparsely Addressable State](cards-0010.md#paper-152777) | 线性序列模型给记忆状态稀疏寻址 |
+| 大语言模型 | 评测与诊断 | [Random Attention Pattern Learning Enables Emergent Capabilities](cards-0010.md#paper-154003) | 能力涌现诊断分开调头数与头维度 |
+| 机器学习基础与统计 | 训练与优化 | [Random-Effects Centroids for Domain Generalization](cards-0010.md#paper-154099) | 域泛化训练直接评部署平均头 |
+| 具身智能与机器人 | 评测与诊断 | [Random-Set Graph Neural Networks](cards-0010.md#paper-148272) | 图场景识别在证据冲突时输出信念宽度 |
+| 大语言模型 | 训练与优化 | [Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment](cards-0010.md#paper-154517) | 偏好标注隐私释放按名次区分信息保真 |
+| 机器学习基础与统计 | 训练与优化 | [Rank-Constrained Adaptation for Reliable Real-World Performance](cards-0010.md#paper-150710) | 群组鲁棒校准在错误集中子空间做低秩修正 |

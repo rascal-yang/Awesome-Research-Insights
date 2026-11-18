@@ -364,5 +364,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Population-Aligned Persona Generation for LLM-based Social Simulation](../../conferences/neurips-2026/cards-0009.md#paper-149049)
 - [Pose6DAug: Physically Plausible Multi-View Object Swapping for Robot Data Augmentation](../../conferences/neurips-2026/cards-0009.md#paper-155020)
 - [PRIME: A Modular Approach for Private Synthetic Data](../../conferences/neurips-2026/cards-0009.md#paper-153567)
+- [Provable Selective Auto-labeling with Reliability Guarantees](../../conferences/neurips-2026/cards-0010.md#paper-154352)
+- [Quantile Benchmarking Heterogeneous Web Corpora in Open LLM Pretraining](../../conferences/neurips-2026/cards-0010.md#paper-149953)
+- [Query-Limited Community Recovery in Stochastic Block Models](../../conferences/neurips-2026/cards-0010.md#paper-149578)
 
 <!-- conference-classification:end -->

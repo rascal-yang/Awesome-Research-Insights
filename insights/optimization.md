@@ -728,5 +728,7 @@
 - [PRISM: Principal Subspace Alignment for Parameter-Efficient Fine-Tuning](../conferences/neurips-2026/cards-0010.md#paper-153318)
 - [Problem-Dependent Dynamic Regret over a Predictor Class with One-Gradient Feedback](../conferences/neurips-2026/cards-0010.md#paper-148180)
 - [ProCARE: Real-World Study Automation via Profile-Grounded Evidence Contracts](../conferences/neurips-2026/cards-0010.md#paper-149562)
+- [Provably Efficient Representation Learning for Low-Rank CMDPs](../conferences/neurips-2026/cards-0010.md#paper-155519)
+- [Provably Safe, Yet Performant Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-152935)
 
 <!-- conference-classification:end -->

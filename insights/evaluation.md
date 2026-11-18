@@ -1591,5 +1591,18 @@
 - [ProcObject-10K: Benchmarking Object-Centric Procedural Understanding in Instructional Videos](../conferences/neurips-2026/cards-0010.md#paper-139834)
 - [ProMo3D: Probing Motion Cues in Frozen 3D Foundation Models](../conferences/neurips-2026/cards-0010.md#paper-151302)
 - [Proper Scoring Rules for Agentic Uncertainty Quantification](../conferences/neurips-2026/cards-0010.md#paper-155086)
+- [Prototypes of the Mind: A Unified Framework for Probing the Visual Brain](../conferences/neurips-2026/cards-0010.md#paper-153745)
+- [Provable Explanations for Any-Order Neural Additive Models](../conferences/neurips-2026/cards-0010.md#paper-150538)
+- [Provable Joint Decontamination for Benchmarking Multiple Large Language Models](../conferences/neurips-2026/cards-0010.md#paper-154764)
+- [Provably Accurate Shapley Value Estimation in High Dimensions via Sparse Leverage Sampling](../conferences/neurips-2026/cards-0010.md#paper-153881)
+- [Proxy-Based Approximation of Shapley and Banzhaf Interactions](../conferences/neurips-2026/cards-0010.md#paper-153973)
+- [PULSE: Identifying Demonstration-Utility Features with Sparse Autoencoders](../conferences/neurips-2026/cards-0010.md#paper-150843)
+- [pyCD: A Unified Benchmark for Reliable Evaluation of Cognitive Diagnosis Models](../conferences/neurips-2026/cards-0010.md#paper-139115)
+- [Quantifying Centrality for Complex Data](../conferences/neurips-2026/cards-0010.md#paper-150293)
+- [Quantitative Assessment of Crystal Structure Prediction](../conferences/neurips-2026/cards-0010.md#paper-138999)
+- [RA$^2$: Retain-Anchored Attraction Preserves Forget-Adjacent Utility in LLM Unlearning](../conferences/neurips-2026/cards-0010.md#paper-154019)
+- [Radial-Angular Geometry for Reliable Update Diagnosis in Noisy-Label Learning](../conferences/neurips-2026/cards-0010.md#paper-154327)
+- [Random Attention Pattern Learning Enables Emergent Capabilities](../conferences/neurips-2026/cards-0010.md#paper-154003)
+- [Random-Set Graph Neural Networks](../conferences/neurips-2026/cards-0010.md#paper-148272)
 
 <!-- conference-classification:end -->

@@ -1111,5 +1111,11 @@
 - [ProEdit: Inversion-based Editing From Prompts Done Right](../../conferences/neurips-2026/cards-0010.md#paper-148302)
 - [PRO: Enabling Precise and Robust Text Watermark for Open-Source LLMs](../../conferences/neurips-2026/cards-0010.md#paper-152540)
 - [ProQuant: Progressive Quantization-aware Training for Edge MLLMs](../../conferences/neurips-2026/cards-0010.md#paper-148767)
+- [Provable Robustness against Backdoor Attacks via the Primal-Dual Perspective on Differential Privacy](../../conferences/neurips-2026/cards-0010.md#paper-153879)
+- [Provable State Estimation with Recurrent Models](../../conferences/neurips-2026/cards-0010.md#paper-151681)
+- [ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](../../conferences/neurips-2026/cards-0010.md#paper-148929)
+- [Q-ARVD: Quantizing Autoregressive Video Diffusion Models](../../conferences/neurips-2026/cards-0010.md#paper-152660)
+- [Quantile-Coupled Flow Matching for Distributional Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149618)
+- [Quasi-Linear ICA for Motor Unit Decomposition during Dynamic Contractions](../../conferences/neurips-2026/cards-0010.md#paper-150445)
 
 <!-- conference-classification:end -->

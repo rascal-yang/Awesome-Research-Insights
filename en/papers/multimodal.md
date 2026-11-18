@@ -854,5 +854,13 @@ Learning across modalities such as images, text, audio, and video.
 - [ProPolar: Progressive Polar Decomposition for  Implicit Neural Representations](../../conferences/neurips-2026/cards-0010.md#paper-148388)
 - [Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation](../../conferences/neurips-2026/cards-0010.md#paper-154132)
 - [ProQuant: Progressive Quantization-aware Training for Edge MLLMs](../../conferences/neurips-2026/cards-0010.md#paper-148767)
+- [Prototypes of the Mind: A Unified Framework for Probing the Visual Brain](../../conferences/neurips-2026/cards-0010.md#paper-153745)
+- [Prototype Topology Consistency for Visible-Infrared Lifelong Person Re-Identification](../../conferences/neurips-2026/cards-0010.md#paper-155560)
+- [Pygmalion Effect in Vision: Image-to-Clay Translation for Reflective Geometry Reconstruction](../../conferences/neurips-2026/cards-0010.md#paper-150623)
+- [Q-ARVD: Quantizing Autoregressive Video Diffusion Models](../../conferences/neurips-2026/cards-0010.md#paper-152660)
+- [Q-Focus: Let the Question Guide What to See in Long Videos](../../conferences/neurips-2026/cards-0010.md#paper-151910)
+- [Quantitative Assessment of Crystal Structure Prediction](../../conferences/neurips-2026/cards-0010.md#paper-138999)
+- [Query as a Resource: Activity-Cost Guided Remote Sensing Domain-Incremental Object Detection](../../conferences/neurips-2026/cards-0010.md#paper-148788)
+- [Q-ViK: Question-Guided Visual KV Cache Eviction for Large Vision-Language Models](../../conferences/neurips-2026/cards-0010.md#paper-148422)
 
 <!-- conference-classification:end -->

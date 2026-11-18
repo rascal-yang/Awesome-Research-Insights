@@ -412,5 +412,9 @@ Reusable components and local changes to model inputs or connections.
 - [Preventing Error Cascades in Long-Horizon Multimodal Agents with Edge-Reliability Graph Memory](../../conferences/neurips-2026/cards-0009.md#paper-149654)
 - [Prism Attention: Proposal-Refined Index Sharing Mechanism for Efficient LLMs Inference](../../conferences/neurips-2026/cards-0010.md#paper-153474)
 - [Proteus: Incremental Memory Activation for Long-Context Sequence Modeling](../../conferences/neurips-2026/cards-0010.md#paper-154744)
+- [Q-Focus: Let the Question Guide What to See in Long Videos](../../conferences/neurips-2026/cards-0010.md#paper-151910)
+- [Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime](../../conferences/neurips-2026/cards-0010.md#paper-149032)
+- [RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn’t](../../conferences/neurips-2026/cards-0010.md#paper-151457)
+- [RAM-Net: Linear-Time Sequence Modeling with Sparsely Addressable State](../../conferences/neurips-2026/cards-0010.md#paper-152777)
 
 <!-- conference-classification:end -->

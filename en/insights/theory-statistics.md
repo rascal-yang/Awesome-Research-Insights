@@ -1104,5 +1104,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Privacy-Preserving Retrieval-Augmented Generation with Plausible Deniability](../../conferences/neurips-2026/cards-0010.md#paper-150803)
 - [Privacy Risk Scales with Effective Dimension in Federated Learning](../../conferences/neurips-2026/cards-0010.md#paper-155428)
 - [Projected Neural Additive Models as Universal Approximators](../../conferences/neurips-2026/cards-0010.md#paper-155364)
+- [Pseudo-Labeling for Unsupervised Domain Adaptation with Kernel GLMs](../../conferences/neurips-2026/cards-0010.md#paper-151774)
+- [Pure Exploration Beyond Reward Feedback: The Role of Post-Action Context](../../conferences/neurips-2026/cards-0010.md#paper-154673)
+- [Quotient-Categorical Representations for Bellman-Compatible Average-Reward Distributional Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149377)
+- [QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems](../../conferences/neurips-2026/cards-0010.md#paper-150551)
 
 <!-- conference-classification:end -->

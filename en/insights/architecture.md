@@ -525,5 +525,7 @@ Model-wide design and information flow.
 - [Probabilistic Recursive Reasoning](../../conferences/neurips-2026/cards-0010.md#paper-151067)
 - [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](../../conferences/neurips-2026/cards-0010.md#paper-149479)
 - [Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks](../../conferences/neurips-2026/cards-0010.md#paper-153925)
+- [PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation](../../conferences/neurips-2026/cards-0010.md#paper-148567)
+- [Q-Residual Physics: Hamiltonian-Structured Quantum Residual Learning for Embodied Dynamics](../../conferences/neurips-2026/cards-0010.md#paper-150528)
 
 <!-- conference-classification:end -->

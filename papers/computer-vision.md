@@ -1073,5 +1073,10 @@
 - [Prior as Geometry, Not Generator: Weak-Diffusion Test-Time Reconstruction for Dynamic MRI](../conferences/neurips-2026/cards-0010.md#paper-152230)
 - [Progressive Signal Calibration for Medical Image Segmentation: Diagnosing and Correcting Structural Misalignment in Training Signals](../conferences/neurips-2026/cards-0010.md#paper-150045)
 - [ProMo3D: Probing Motion Cues in Frozen 3D Foundation Models](../conferences/neurips-2026/cards-0010.md#paper-151302)
+- [Provable Pruning for Efficient 3D Gaussian Splatting via Coresets](../conferences/neurips-2026/cards-0010.md#paper-154669)
+- [ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](../conferences/neurips-2026/cards-0010.md#paper-148929)
+- [ProxySearch: Decoupled Inference-Time Scaling for Diffusion Models via Asymmetric Noise-Rank Transfer](../conferences/neurips-2026/cards-0010.md#paper-151922)
+- [QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems](../conferences/neurips-2026/cards-0010.md#paper-150551)
+- [RA-CFGCache: From Branch-Level Criteria to Guided-Risk Control under Classifier-Free Guidance](../conferences/neurips-2026/cards-0010.md#paper-150708)
 
 <!-- conference-classification:end -->

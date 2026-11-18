@@ -674,5 +674,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Plausibility Is Not Prediction: Contrastive Evidence for LLM-Based Cellular Perturbation Reasoning](../../conferences/neurips-2026/cards-0009.md#paper-152410)
 - [Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators](../../conferences/neurips-2026/cards-0009.md#paper-153208)
 - [Predict-Project-Renoise: Sampling Diffusion Models under Hard Constraints](../../conferences/neurips-2026/cards-0009.md#paper-156090)
+- [PR-Smoother: Simulator-Preserving Non-Gaussian Smoothing for Data Assimilation](../../conferences/neurips-2026/cards-0010.md#paper-148567)
 
 <!-- conference-classification:end -->

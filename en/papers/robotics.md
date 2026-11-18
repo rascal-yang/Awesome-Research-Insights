@@ -794,5 +794,13 @@ Robot perception, policy learning, planning, and control.
 - [PRISM: Primitive Routing via In-context Skill Mixing for Lifelong VLA](../../conferences/neurips-2026/cards-0010.md#paper-154388)
 - [PRISM: Programming Interactive Scenes from Monocular Images for Embodied Simulation](../../conferences/neurips-2026/cards-0010.md#paper-153153)
 - [Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](../../conferences/neurips-2026/cards-0010.md#paper-153423)
+- [ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation](../../conferences/neurips-2026/cards-0010.md#paper-149783)
+- [Provable State Estimation with Recurrent Models](../../conferences/neurips-2026/cards-0010.md#paper-151681)
+- [Provably Safe, Yet Performant Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-152935)
+- [QGround: Condition-Wise Evidence Aggregation for 3D Grounding with 2D VLMs](../../conferences/neurips-2026/cards-0010.md#paper-154571)
+- [Q-Residual Physics: Hamiltonian-Structured Quantum Residual Learning for Embodied Dynamics](../../conferences/neurips-2026/cards-0010.md#paper-150528)
+- [RAHF: Reward-Amplified Human Feedback for Closed-Loop Policy Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-148691)
+- [RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies](../../conferences/neurips-2026/cards-0010.md#paper-154487)
+- [Random-Set Graph Neural Networks](../../conferences/neurips-2026/cards-0010.md#paper-148272)
 
 <!-- conference-classification:end -->

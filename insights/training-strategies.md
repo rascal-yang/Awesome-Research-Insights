@@ -834,5 +834,12 @@
 - [Progressive Residual Warmup for Language Model Pretraining](../conferences/neurips-2026/cards-0010.md#paper-151422)
 - [ProPolar: Progressive Polar Decomposition for  Implicit Neural Representations](../conferences/neurips-2026/cards-0010.md#paper-148388)
 - [Proposing Better Rollouts for On-Policy Distillation](../conferences/neurips-2026/cards-0010.md#paper-155190)
+- [Prototype Topology Consistency for Visible-Infrared Lifelong Person Re-Identification](../conferences/neurips-2026/cards-0010.md#paper-155560)
+- [Pruning and Distilling Mixture-of-Experts into Dense Language Models](../conferences/neurips-2026/cards-0010.md#paper-150472)
+- [Query as a Resource: Activity-Cost Guided Remote Sensing Domain-Incremental Object Detection](../conferences/neurips-2026/cards-0010.md#paper-148788)
+- [RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies](../conferences/neurips-2026/cards-0010.md#paper-154487)
+- [Random-Effects Centroids for Domain Generalization](../conferences/neurips-2026/cards-0010.md#paper-154099)
+- [Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment](../conferences/neurips-2026/cards-0010.md#paper-154517)
+- [Rank-Constrained Adaptation for Reliable Real-World Performance](../conferences/neurips-2026/cards-0010.md#paper-150710)
 
 <!-- conference-classification:end -->
