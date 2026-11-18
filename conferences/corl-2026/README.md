@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **183 / 687** 篇，当前收录 **176** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **225 / 687** 篇，当前收录 **215** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -182,3 +182,42 @@
 | 具身智能 / 定位 | 状态估计 | [MaD-PF: Modular and Differentiable Particle Filter for Cross-Environment SE(3) LiDAR Localization](cards.md#paper-l8atlvewkt) | 保留粒子多假设，分别评估可微运动、观测及重采样模块的迁移和耗时。 |
 | 具身智能 / 视觉 | 自动标注 | [AmodalBox: Automated 3D Bounding Box Annotation under Partial Visibility](cards.md#paper-0o1c1xxn1m) | 稀疏点云只覆盖局部时，以图像生成的完整几何作为伪标签先验。 |
 | 具身智能 / 定位 | 场景图 | [Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs](cards.md#paper-9gwuac6oum) | 在线积累物体功能关系，将稳定拓扑作为额外闭环线索。 |
+| 具身智能 / 强化学习 | 偏好学习 | [How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference](cards.md#paper-dzazfcpuip) | 对质量连续且主观的接触任务，在力感知模仿后用定量指标和人类偏好共同微调。 |
+| 具身智能 / 多模态 | 候选生成 | [Reactive Task-Oriented Robot-Human Handovers via Generative Hypothesis Selection](cards.md#paper-vnf3d7ia9y) | 先离线或低频生成多个任务相关交互候选，再按实时人体状态选择。 |
+| 具身智能 / 强化学习 | 辅助控制 | [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](cards.md#paper-m0zqqi9lfr) | 辅助训练系统以撤掉辅助后的独立能力为目标，并允许用户经历有助于学习的失败。 |
+| 具身智能 / 强化学习 | 技能组合 | [Telescopes are Optomechanical Robots: Training Compositional Visuomotor Policies for Coordinated Control](cards.md#paper-rs2instahx) | 高自由度控制难以端到端训练时，切成低自由度子技能并在共享反馈下组合。 |
+| 具身智能 / 视觉 | 在线建图 | [RoMo-GS: Efficient Online 3D Gaussian Splatting for Robot Mapping via Exposure-Integrated Motion Blur](cards.md#paper-1j0hw81jy9) | 按曝光时间解析积分运动中的高斯投影，避免逐子帧渲染。 |
+| 具身智能 / 定位 | 自监督状态估计 | [Learning Contact Representation for Leg Odometry](cards.md#paper-4uxhlsonz5) | 用连续支撑信念调整滤波噪声，并按里程计误差选择接触表征。 |
+| 具身智能 / 定位 | 等变表示 | [GINIO: A Geometric SO(3)-Equivariant Interface for Neural Inertial Odometry](cards.md#paper-nl8ibtm3mt) | 要求学习测量的均值与协方差都按传感器安装旋转正确变换。 |
+| 具身智能 / 定位 | 系统辨识 | [PLATO: Preintegration-Based Likelihood Maximization from Accurate Trajectory Observations for Neural Inertial Odometry](cards.md#paper-awvlnorxds) | 用训练期精确轨迹联合估计偏置动力学与惯性噪声协方差。 |
+| 具身智能 / 多模态 | 概率地图 | [Language as a Sensor: Calibrated Spatial Belief Estimation in 3D Scenes from Natural Language](cards.md#paper-yz4p3wbwkx) | 把自然语言描述作为可校准传感观测融入地图。 |
+| 具身智能 / 机器人学习 | 数据增强 | [Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation](cards.md#paper-w1x9mho93e) | 拼接保留接触的轨迹片段并主动扩增纠错状态。 |
+| 具身智能 / Agent | 技能学习 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](cards.md#paper-w3g5pwur7i) | 用部署回合自动更新技能库，并在执行中滚动重组技能。 |
+| 具身智能 / Agent | 数据采集 | [RoboGene: Diversity-Driven Agentic Task Generation Framework for VLA Pre-training](cards.md#paper-uizby3yrgz) | 把人工确认的可执行性反馈写回任务提议器。 |
+| 具身智能 / Agent | 工具调用 | [MAESTRO: Orchestrating Robotics Modules with Coding Agents for Zero-Shot Generalist Robots](cards.md#paper-bxw31dilgn) | 扩工具前先保证执行结果可验证且失败可重规划。 |
+| 具身智能 / 优化 | 求解器学习 | [Learning Adaptive Solvers for Distributed Factor Graph Optimization on Matrix Lie Groups](cards.md#paper-menelmunwi) | 按优化阶段和通信状态自适应调节分布式求解器。 |
+| 具身智能 / 规划 | 安全控制 | [Gradient-Free Neural Hamilton-Jacobi Reachability for Scalable Safety-Critical Control](cards.md#paper-k6kmjcl22t) | 用值探测构造安全教师动作，并以终端为锚分窗逆向训练。 |
+| 具身智能 / 规划 | 安全控制 | [VertexCBF: Improving Neural Control Barrier Functions with Vertex-Restricted Control Search](cards.md#paper-dmljkr2f4o) | 动力学满足控制仿射时，用控制多面体顶点搜索生成安全监督。 |
+| 具身智能 / 规划 | 安全控制 | [BarrierFormer: Transformer-Guided Predictive Barrier Enforcement for Safe Robot Control](cards.md#paper-y1up4arjzc) | 用预测滚动轨迹的屏障监督训练实时残差控制器。 |
+| 具身智能 / 规划 | 生成规划 | [Safe Streaming Flow Planning by Aligning Sampling Dynamics with Execution Dynamics](cards.md#paper-gvm7kwehvi) | 使生成路径逐步随物理执行更新，并仅认证实际执行的步。 |
+| 具身智能 / 规划 | 风险建模 | [Uncertainty-Aware Neural Time Fields for Safe Online Motion Planning in Unknown Environments](cards.md#paper-bkafd0mnwy) | 将测距不确定性传播进到达时间场，同时对轨迹施加机会约束。 |
+| 具身智能 / 规划 | 空间表示 | [Learning Unions of Convex Sets via Invertible Latent Decomposition for Path Planning](cards.md#paper-txufbhgqg2) | 把高维自由空间映射为可连接的潜空间凸集以便显式规划。 |
+| 具身智能 / 控制 | 扩散策略 | [Grounding Generative Policies in Physics: Optimization-Guided Diffusion for Robot Control](cards.md#paper-eaejdjpdzm) | 去噪时直接优化物理可行的校正量。 |
+| 具身智能 / 控制 | 流匹配 | [CS-Pi: Constraint-Satisying Flow Policy Sampling](cards.md#paper-2nbzah51if) | 将可行投影作为重采样条件。 |
+| 具身智能 / 控制 | 轨迹表示 | [PolyFusion: Collision-Free Robot Learning using Bernstein Polynomials](cards.md#paper-m8nqiskmdr) | 用分段多项式控制点代替稠密动作头。 |
+| 具身智能 / 控制 | 跨构型迁移 | [CMRDF: Morphology-Conditioned Reachability Fields for Task-Space Robot Policy Transfer](cards.md#paper-dga5zlu7ck) | 将可达性拆成全局位置与局部姿态，集中逆运动学预算。 |
+| 具身智能 / 规划 | 理论与诊断 | [On the Limits of Sampling-Based Reachability: Geometry, Dynamics, and Sample Complexity](cards.md#paper-wylezeakfi) | 高维长时域下避免仅凭采样质量保证宣称几何覆盖。 |
+| 具身智能 / 控制 | 评测与诊断 | [Exploring the Intrinsic Geometry of Diffusion Models with Constrained Inverse Kinematics](cards.md#paper-pw8egeb2no) | 用已知约束维数检验扩散模型是否学到真实解流形。 |
+| 具身智能 / 多智能体 | 联合生成 | [Robots as Tokens: Unified Diffusion Transformer for Coordinated Multi-Robot Trajectory Generation](cards.md#paper-4ar3f6obiq) | 将机器人作为集合 token 联合去噪，允许冻结部分队员轨迹。 |
+| 具身智能 / 多模态 | 动作表示 | [H-VLA: Hierarchical Vision-Language-Action Model with Key-Action Reasoning and Motion Planning in a Unified Action Space](cards.md#paper-st0juml7ma) | 用共享相机坐标的关键动作连接语义计划和稠密控制。 |
+| 具身智能 / 多模态 | 不确定性校准 | [SentryVLA: Uncertainty-Guided Action Selection and State Monitoring for Vision-Language-Action Robotic Control](cards.md#paper-snidokrnny) | 给冻结 VLA 加候选重排与独立执行异常监测。 |
+| 具身智能 / 控制 | 模型预测控制 | [Optimal Control with Learned Critics under Unmodeled State Dependencies](cards.md#paper-39q3r1h0md) | 在 MPC 中分开修补动力学误差和有限时域短视。 |
+| 具身智能 / 人机交互 | 主动查询 | [Simultaneous Forward and Inverse Human-in-the-Loop Optimization](cards.md#paper-cqkikio00k) | 以同一次用户查询同时降低结果模型和偏好模型的不确定性。 |
+| 具身智能 / Agent | 验证与修复 | [EvoPlan: Evolutionary Neuro-Symbolic Robot Planning with Spatio-Temporal Guarantees](cards.md#paper-heumgqaw3m) | 用结构验证筛选 LLM 提案并逐轮扩大已验证计划。 |
+| 具身智能 / 强化学习 | 课程生成 | [Generative Flow on Symbolic Abstractions for Embodiment Capability Discovery](cards.md#paper-weyfps89nj) | 用低层策略实测学习表现训练任务生成器。 |
+| 具身智能 / 控制 | 技能调度 | [Energy-Based Policy Orchestration](cards.md#paper-nzrwlgnr4x) | 运行时联合选技能和技能专属目标。 |
+| 具身智能 / 规划 | 推理调度 | [When Should a Robot Replan? Regret-Guided Update Scheduling in Time-Varying MDPs](cards.md#paper-4pwzyvbjxy) | 按累计遗憾分配有限的模型更新和重规划预算。 |
+| 具身智能 / 多模态 | 数据策略 | [EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](cards.md#paper-wf4x17al2r) | 用人类视频验证损失作为决定继续扩数据还是进入机器人中训的候选信号。 |
+| 具身智能 / 多模态 | 可供性监督 | [OPENDEXGRASP: Open-vocabulary Task-Oriented Dexterous Grasping](cards.md#paper-wlgeyxjqid) | 在语言条件的抓取模型中，让区域可供性与手部位姿共享潜空间。 |
+| 具身智能 / 强化学习 | 技能预训练 | [Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](cards.md#paper-rrl1xxzldm) | 先用自由操作预训练可达性和重定向能力，再把探索集中到精密接触阶段。 |
+| 具身智能 / 模仿学习 | 重采样 | [FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](cards.md#paper-03zmmfktxk) | 根据估计外力找到接触边界，在行为克隆中提高接触前片段的采样率。 |
