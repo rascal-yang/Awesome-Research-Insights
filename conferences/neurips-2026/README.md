@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2189** 篇，暂收录 **2029** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2249** 篇，暂收录 **2088** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2037,3 +2037,62 @@
 | 生成模型 | 低比特量化 | [DiRotQ: Rotation-Aware Quantization for 4-bit Diffusion Transformers](cards-0004.md#paper-155781) | 保留高方差激活子空间的较高精度 |
 | 计算机视觉 | 三维定位 | [Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization](cards-0004.md#paper-152518) | 将渲染图元细分成更明确的匹配单位 |
 | 软件工程 | 测试评测 | [DIS-Bench: Evaluating LLMs on System Testing via Directed Input Synthesis](cards-0004.md#paper-138947) | 用可达分支的系统输入任务单独评价测试能力 |
+| 语言模型 | 循环推理 | [DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning](cards-0004.md#paper-155886) | 检验中间答案可解码却无法被下一轮利用的问题 |
+| 优化 | 黑盒优化 | [DisCoMBO: Steering Expert-in-the-Loop Black Box Optimization via Distributional Conformance](cards-0004.md#paper-153999) | 按专家建议与代理分布的一致性使用先验 |
+| 科学机器学习 | 系统辨识 | [Discovering Mechanistic Models of Neural Activity: System Identification in an in Silico Zebrafish](cards-0004.md#paper-149717) | 用分布外验证区分机制恢复与统计拟合 |
+| 科学机器学习 | 动力学表示 | [Discovering Phase Space Structure in Learned Hamiltonian Systems](cards-0004.md#paper-148569) | 用循环坐标损失恢复未知相空间 |
+| 强化学习 | 策略蒸馏 | [Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers](cards-0004.md#paper-148335) | 将黑盒教师压缩成可审查的相位评分函数 |
+| 科学机器学习 | 符号搜索 | [Discovering Structurally Plausible and Interpretable Cognitive Models with Large Language Models](cards-0004.md#paper-150060) | 在生成模型时显式约束结构及参数辨识 |
+| 科学机器学习 | 方程发现 | [Discovering Symbolic Differential Equations with Symmetry Invariants](cards-0004.md#paper-156742) | 把已知对称性放入候选项空间 |
+| 视觉 | 持续适配 | [Discovering Unseen Degradations to Adapt Open-World Image Restoration](cards-0004.md#paper-148895) | 按新退化类别更新伪目标评分 |
+| 强化学习 | 因果特征选择 | [Discovering What You Can Control: Interventional Boundary Discovery for Reinforcement Learning](cards-0004.md#paper-154140) | 随机化动作以排除仅与状态相关的干扰量 |
+| 多模态 | 训练数据选择 | [DISCOVER: Online Variance-Guided Data Discovery for Budgeted Multimodal GRPO](cards-0004.md#paper-155862) | 根据当前策略的奖励方差与难度分配标注 |
+| Agent | 实验设计评测 | [DiscoverPhysics: Benchmarking LLMs for out-of-the-box scientific thinking](cards-0004.md#paper-139006) | 同时评估预测与机制解释 |
+| 生成模型 | 规划诊断 | [Discrete Diffusion Models Exploit Asymmetry to Solve Lookahead Planning Tasks](cards-0004.md#paper-151112) | 评测前控制路径方向的难度差 |
+| 生成模型 | 分布评测 | [Discrete Diffusion Playground: A 2D Benchmark for Discrete Generative Models](cards-0004.md#paper-139528) | 用可逆编码把生成序列还原到已知分布 |
+| 学习理论 | 生成误差界 | [Discrete Flow Matching: Convergence Guarantees Under Minimal Assumptions](cards-0004.md#paper-154408) | 按误差度量区分早停和完整目标 |
+| 生成模型 | 逆问题 | [Discrete Langevin-Inspired Posterior Sampling](cards-0004.md#paper-154362) | 用梯度提议离散移动而不连续松弛 |
+| 科学机器学习 | 跨域表征 | [Discrete Neural Interlingua for Ontology-Agnostic EHR Modeling](cards-0004.md#paper-151383) | 将各机构概念描述映射到共享离散词表 |
+| 生成模型 | 去噪参数化 | [Discrete Stochastic Localization for Non-autoregressive Generation](cards-0004.md#paper-153666) | 用同一去噪器对照多种逐 token 噪声路径 |
+| 时间序列 | 缺失值估计 | [Discretizing Continuous Time Series for Imputation with Masked Diffusion Training](cards-0004.md#paper-149547) | 将缺失标记和有效观测分开并直接预测原值 |
+| 视觉 | 生成先验 | [Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors](cards-0004.md#paper-148214) | 用判别模型的梯度生成无数据校准样本 |
+| 视频生成 | 注意力路由 | [Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion](cards-0004.md#paper-148543) | 仅让承担语义锚定的注意力头持续访问首帧。 |
+| 科学机器学习 | 代理建模 | [Disentangled Multimodal Learning for Scalable Dynamic IR-Drop Analysis](cards-0004.md#paper-153847) | 把不变布局与动态开关活动拆开编码。 |
+| 表征学习 | 流匹配 | [Disentangled Representation Learning via Flow Matching](cards-0004.md#paper-151286) | 按语义因子训练潜流，并约束因子更新相互正交。 |
+| 视觉生成 | 模型遗忘 | [Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning](cards-0004.md#paper-155474) | 用概念对比监督减少遗忘时的非目标干扰。 |
+| 学习理论 | 可识别性 | [Disentanglement as Identifiable Pushforward Factorisation](cards-0004.md#paper-155738) | 依据生成雅可比结构检验潜因子的可识别性。 |
+| 因果学习 | 动态可识别性 | [Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts](cards-0004.md#paper-155723) | 利用环境间不同的噪声方差比识别连续潜坐标。 |
+| 视觉生成 | 频域控制 | [Disentangling Dual Image References in Frequency Aware Diffusion Models for Personalized Generation](cards-0004.md#paper-150058) | 分别路由参考图的色彩与结构频带。 |
+| 大语言模型 | 泛化诊断 | [Disentangling generalization and memorization in large language models using chess](cards-0004.md#paper-153573) | 按任务先验密度比较基础模型与推理增强。 |
+| 图学习 | 滤波表征 | [Disentangling Homophilic and Heterophilic Patterns for Multi-Domain Graph Foundation Models](cards-0004.md#paper-155780) | 保留原边并分别编码同配与异配贡献。 |
+| 持续学习 | 适配器 | [Disentangling Optimization Geometry via Hierarchical Polar Adapters for Class-Incremental Learning](cards-0004.md#paper-154249) | 在极坐标中分开适配幅值与方向，并分层巩固。 |
+| 模型压缩 | 可靠性诊断 | [Disentangling the Good From the Bad: Quantization-Induced Flips Are Not Random](cards-0004.md#paper-151104) | 评测量化时分别统计正确变错误与错误变正确。 |
+| 计算机视觉 | 可解释性 | [Disentangling Where and When: Factored Spatio-Temporal Explanations for Video Action Recognition](cards-0004.md#paper-150252) | 分别测像素扰动和帧扰动的解释质量。 |
+| 具身智能 | 协作调度 | [Dispatchable Coordination Envelopes for Embodied Collaboration Under Sequential Uncertainty](cards-0004.md#paper-151294) | 以执行窗口、耦合约束及替代选项取代固定点调度。 |
+| 多模态学习 | 表征几何 | [Displacement Geometry Captures Platonic Shared Reality Across Models and Modalities](cards-0004.md#paper-152623) | 跨编码器比较概念位移，避免仅用点位置判断对齐。 |
+| 图学习 | 域适配 | [DisRFM: Polar Riemannian Flow Matching for Structure-Preserving Graph Domain Adaptation](cards-0004.md#paper-149863) | 分别沿径向校准拓扑、沿角向对齐类别语义。 |
+| 大语言模型 | 稀疏推理 | [DisSparse: Pipelined Top-$p$ Sparse Attention for  Long-Context LLM Serving](cards-0004.md#paper-148193) | 用动态注意力质量预算替代固定块数，并并行执行筛选。 |
+| 计算神经科学 | 持续学习 | [Distance-Dependent Connectivity Shapes Continual Learning by Synaptic-Resource-Delimited Separation of Neural Dynamics](cards-0004.md#paper-150595) | 调整连接范围，并测连续任务间的突触资源竞争。 |
+| 生成模型 | 距离场采样 | [Distance Marching for Generative Modeling](cards-0004.md#paper-152924) | 显式学习到数据流形的距离，以支持采样终止。 |
+| 软件工程 | 调试评测 | [DistDebug-Bench: Can LLM Agents Diagnose Bugs in Distributed Systems?](cards-0004.md#paper-139444) | 在授权测试中分开测跨服务证据覆盖与最终诊断。 |
+| 科学机器学习 | 蒸馏 | [Distillation of Foundation Models for Time-dependent PDEs](cards-0004.md#paper-155669) | 用教师长滚动及受扰恢复状态训练轻量 PDE 学生。 |
+| 图像生成 / 统计学习 | 效应蒸馏 | [Distilling Conditional Image Generators into Spatial Effect Maps](cards-0004.md#paper-148655) | 将生成器的条件分布投影成可解释空间效应图。 |
+| 图学习 | 表征蒸馏 | [Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs](cards-0004.md#paper-150714) | 按图曲率分配预测和表征监督。 |
+| 大语言模型 | 反馈蒸馏 | [Distilling LLM Feedback for Lean Theorem Proving](cards-0004.md#paper-154163) | 先用特权反馈做稠密监督，再用可验证奖励微调。 |
+| 时间序列 | 排序蒸馏 | [Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection](cards-0004.md#paper-151289) | 将多教师检测器的局部排序共识压缩为小模型。 |
+| 大语言模型 | 上下文压缩 | [Distilling Sequential Computation in Transformer Language Models](cards-0004.md#paper-150342) | 在线把可预测序列片段合成单个代理表示。 |
+| 大语言模型 | 选择性蒸馏 | [Distilling What Matters: Confidence-Aware Selective Distillation for Large Language Models](cards-0004.md#paper-149862) | 按师生置信度决定散度和更新范围。 |
+| 自动驾驶 | 强化学习 | [Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving](cards-0004.md#paper-153115) | 将未来语义状态用于安全评估，并分开跟踪意图符合度。 |
+| 学习理论 / 评测 | 推理诊断 | [Distinguishing Performance From Competence in Evaluations of Humanlike Abstract Reasoning](cards-0004.md#paper-139362) | 把识别抽象规则与正确执行分开评分。 |
+| 多模态学习 | 专家路由 | [DISTMOE: Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning](cards-0004.md#paper-151983) | 用公共数据锚定分布式训练产生的私有专家。 |
+| 优化 | 通信压缩 | [Distributed Online Convex Optimization with Compressed Communication: Optimal Regret and Applications](cards-0004.md#paper-151072) | 用误差反馈和在线压缩处理双向通信的累积误差。 |
+| 神经网络 | 多尺度记忆 | [Distributed-Order Fractional Spiking Neural Network](cards-0004.md#paper-152561) | 以可学习权重混合多个分数阶。 |
+| 强化学习 | 信赖域 | [Distribution-Adaptive Policy Optimization](cards-0004.md#paper-155766) | 按重要性比率的经验分布调整信赖域。 |
+| 大语言模型 | 任务向量 | [Distributional Alignment as a Criterion for Designing Task Vectors in In-Context Learning](cards-0004.md#paper-152916) | 用下一 token 分布差衡量压缩任务向量的保真度。 |
+| 计算机视觉 | 等变分布估计 | [Distributional Estimation of 3D Object Orientation](cards-0004.md#paper-153324) | 对方向多解对象预测旋转分布。 |
+| 机器学习 | 稳健决策 | [Distributionally Robust Algorithmic Recourse for Tree Ensembles](cards-0004.md#paper-150289) | 将树集成变化建模成树预测分布变化。 |
+| 联邦学习 | 黑盒优化 | [Distributionally Robust Black Box Optimization-based Bidding Strategy in Auction-based Federated Learning](cards-0004.md#paper-153169) | 奖励只在整轮流程结束出现时，直接优化整条过程。 |
+| 具身智能 | 域随机化 | [Distributionally Robust Domain Randomization with Learned Risk-Sensitive Dynamics Samplers](cards-0004.md#paper-150440) | 按当前策略低回报区域调整动力学采样。 |
+| 大语言模型 | 偏好优化 | [Distributionally Robust Listwise Preference Optimization](cards-0004.md#paper-154214) | 在候选列表内部对排名噪声加稳健损失。 |
+| 大语言模型 | 专家训练 | [Distributionally Robust Mixture-of-Experts Training](cards-0004.md#paper-150482) | 提高高损失可选专家的训练权重。 |
+| 强化学习 | 任务采样 | [Distributionally Robust Multi-Task Reinforcement Learning via Adaptive Task Sampling](cards-0004.md#paper-152819) | 按目标回报差调整各任务交互预算。 |

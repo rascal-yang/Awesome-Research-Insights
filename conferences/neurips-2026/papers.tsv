@@ -2146,67 +2146,67 @@ poster_id	title	paper_url	status	reason
 155781	DiRotQ: Rotation-Aware Quantization for 4-bit Diffusion Transformers	https://neurips.cc/virtual/2026/poster/155781	included	保留高方差激活子空间的较高精度
 152518	Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization	https://neurips.cc/virtual/2026/poster/152518	included	将渲染图元细分成更明确的匹配单位
 138947	DIS-Bench: Evaluating LLMs on System Testing via Directed Input Synthesis	https://neurips.cc/virtual/2026/poster/138947	included	用可达分支的系统输入任务单独评价测试能力
-155886	DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning	https://neurips.cc/virtual/2026/poster/155886	pending	-
-153999	DisCoMBO: Steering Expert-in-the-Loop Black Box Optimization via Distributional Conformance	https://neurips.cc/virtual/2026/poster/153999	pending	-
-151338	Discovering dynamical parameters of synthetic multicellular systems from image sequences	https://neurips.cc/virtual/2026/poster/151338	pending	-
-149717	Discovering Mechanistic Models of Neural Activity: System Identification in an in Silico Zebrafish	https://neurips.cc/virtual/2026/poster/149717	pending	-
-148569	Discovering Phase Space Structure in Learned Hamiltonian Systems	https://neurips.cc/virtual/2026/poster/148569	pending	-
-148335	Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers	https://neurips.cc/virtual/2026/poster/148335	pending	-
-150060	Discovering Structurally Plausible and Interpretable Cognitive Models with Large Language Models	https://neurips.cc/virtual/2026/poster/150060	pending	-
-156742	Discovering Symbolic Differential Equations with Symmetry Invariants	https://neurips.cc/virtual/2026/poster/156742	pending	-
-148895	Discovering Unseen Degradations to Adapt Open-World Image Restoration	https://neurips.cc/virtual/2026/poster/148895	pending	-
-154140	Discovering What You Can Control: Interventional Boundary Discovery for Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154140	pending	-
-155862	DISCOVER: Online Variance-Guided Data Discovery for Budgeted Multimodal GRPO	https://neurips.cc/virtual/2026/poster/155862	pending	-
-139006	DiscoverPhysics: Benchmarking LLMs for out-of-the-box scientific thinking	https://neurips.cc/virtual/2026/poster/139006	pending	-
-151112	Discrete Diffusion Models Exploit Asymmetry to Solve Lookahead Planning Tasks	https://neurips.cc/virtual/2026/poster/151112	pending	-
-139528	Discrete Diffusion Playground: A 2D Benchmark for Discrete Generative Models	https://neurips.cc/virtual/2026/poster/139528	pending	-
-154408	Discrete Flow Matching: Convergence Guarantees Under Minimal Assumptions	https://neurips.cc/virtual/2026/poster/154408	pending	-
-154362	Discrete Langevin-Inspired Posterior Sampling	https://neurips.cc/virtual/2026/poster/154362	pending	-
-151383	Discrete Neural Interlingua for Ontology-Agnostic EHR Modeling	https://neurips.cc/virtual/2026/poster/151383	pending	-
-153666	Discrete Stochastic Localization for Non-autoregressive Generation	https://neurips.cc/virtual/2026/poster/153666	pending	-
-149547	Discretizing Continuous Time Series for Imputation with Masked Diffusion Training	https://neurips.cc/virtual/2026/poster/149547	pending	-
-148214	Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors	https://neurips.cc/virtual/2026/poster/148214	pending	-
-148543	Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/148543	pending	-
-153847	Disentangled Multimodal Learning for Scalable Dynamic IR-Drop Analysis	https://neurips.cc/virtual/2026/poster/153847	pending	-
-151286	Disentangled Representation Learning via Flow Matching	https://neurips.cc/virtual/2026/poster/151286	pending	-
-155474	Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning	https://neurips.cc/virtual/2026/poster/155474	pending	-
-155738	Disentanglement as Identifiable Pushforward Factorisation	https://neurips.cc/virtual/2026/poster/155738	pending	-
+155886	DiscoLoop: Looping Discrete Embeddings and Continuous Hidden States for Multi-hop Reasoning	https://neurips.cc/virtual/2026/poster/155886	included	检验中间答案可解码却无法被下一轮利用的问题
+153999	DisCoMBO: Steering Expert-in-the-Loop Black Box Optimization via Distributional Conformance	https://neurips.cc/virtual/2026/poster/153999	included	按专家建议与代理分布的一致性使用先验
+151338	Discovering dynamical parameters of synthetic multicellular systems from image sequences	https://neurips.cc/virtual/2026/poster/151338	excluded	涉及合成多细胞系统的参数辨识，本轮未提取独立可收录的机制。
+149717	Discovering Mechanistic Models of Neural Activity: System Identification in an in Silico Zebrafish	https://neurips.cc/virtual/2026/poster/149717	included	用分布外验证区分机制恢复与统计拟合
+148569	Discovering Phase Space Structure in Learned Hamiltonian Systems	https://neurips.cc/virtual/2026/poster/148569	included	用循环坐标损失恢复未知相空间
+148335	Discovering Programmatic Policies from Reinforcement Learning-Based Traffic Signal Controllers	https://neurips.cc/virtual/2026/poster/148335	included	将黑盒教师压缩成可审查的相位评分函数
+150060	Discovering Structurally Plausible and Interpretable Cognitive Models with Large Language Models	https://neurips.cc/virtual/2026/poster/150060	included	在生成模型时显式约束结构及参数辨识
+156742	Discovering Symbolic Differential Equations with Symmetry Invariants	https://neurips.cc/virtual/2026/poster/156742	included	把已知对称性放入候选项空间
+148895	Discovering Unseen Degradations to Adapt Open-World Image Restoration	https://neurips.cc/virtual/2026/poster/148895	included	按新退化类别更新伪目标评分
+154140	Discovering What You Can Control: Interventional Boundary Discovery for Reinforcement Learning	https://neurips.cc/virtual/2026/poster/154140	included	随机化动作以排除仅与状态相关的干扰量
+155862	DISCOVER: Online Variance-Guided Data Discovery for Budgeted Multimodal GRPO	https://neurips.cc/virtual/2026/poster/155862	included	根据当前策略的奖励方差与难度分配标注
+139006	DiscoverPhysics: Benchmarking LLMs for out-of-the-box scientific thinking	https://neurips.cc/virtual/2026/poster/139006	included	同时评估预测与机制解释
+151112	Discrete Diffusion Models Exploit Asymmetry to Solve Lookahead Planning Tasks	https://neurips.cc/virtual/2026/poster/151112	included	评测前控制路径方向的难度差
+139528	Discrete Diffusion Playground: A 2D Benchmark for Discrete Generative Models	https://neurips.cc/virtual/2026/poster/139528	included	用可逆编码把生成序列还原到已知分布
+154408	Discrete Flow Matching: Convergence Guarantees Under Minimal Assumptions	https://neurips.cc/virtual/2026/poster/154408	included	按误差度量区分早停和完整目标
+154362	Discrete Langevin-Inspired Posterior Sampling	https://neurips.cc/virtual/2026/poster/154362	included	用梯度提议离散移动而不连续松弛
+151383	Discrete Neural Interlingua for Ontology-Agnostic EHR Modeling	https://neurips.cc/virtual/2026/poster/151383	included	将各机构概念描述映射到共享离散词表
+153666	Discrete Stochastic Localization for Non-autoregressive Generation	https://neurips.cc/virtual/2026/poster/153666	included	用同一去噪器对照多种逐 token 噪声路径
+149547	Discretizing Continuous Time Series for Imputation with Masked Diffusion Training	https://neurips.cc/virtual/2026/poster/149547	included	将缺失标记和有效观测分开并直接预测原值
+148214	Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors	https://neurips.cc/virtual/2026/poster/148214	included	用判别模型的梯度生成无数据校准样本
+148543	Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion	https://neurips.cc/virtual/2026/poster/148543	included	仅让承担语义锚定的注意力头持续访问首帧。
+153847	Disentangled Multimodal Learning for Scalable Dynamic IR-Drop Analysis	https://neurips.cc/virtual/2026/poster/153847	included	把不变布局与动态开关活动拆开编码。
+151286	Disentangled Representation Learning via Flow Matching	https://neurips.cc/virtual/2026/poster/151286	included	按语义因子训练潜流，并约束因子更新相互正交。
+155474	Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning	https://neurips.cc/virtual/2026/poster/155474	included	用概念对比监督减少遗忘时的非目标干扰。
+155738	Disentanglement as Identifiable Pushforward Factorisation	https://neurips.cc/virtual/2026/poster/155738	included	依据生成雅可比结构检验潜因子的可识别性。
 152861	Disentangling Channel Semantics in Vision Transformers via Token Decorrelation and Composition-Aware Modulation	https://neurips.cc/virtual/2026/poster/152861	included	按输入样本的通道组合调制特征，并让各上下文 token 提供互补信号。
-155723	Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts	https://neurips.cc/virtual/2026/poster/155723	pending	-
-150058	Disentangling Dual Image References in Frequency Aware Diffusion Models for Personalized Generation	https://neurips.cc/virtual/2026/poster/150058	pending	-
-153573	Disentangling generalization and memorization in large language models using chess	https://neurips.cc/virtual/2026/poster/153573	pending	-
-155780	Disentangling Homophilic and Heterophilic Patterns for Multi-Domain Graph Foundation Models	https://neurips.cc/virtual/2026/poster/155780	pending	-
-154249	Disentangling Optimization Geometry via Hierarchical Polar Adapters for Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/154249	pending	-
-151104	Disentangling the Good From the Bad: Quantization-Induced Flips Are Not Random	https://neurips.cc/virtual/2026/poster/151104	pending	-
-150252	Disentangling Where and When: Factored Spatio-Temporal Explanations for Video Action Recognition	https://neurips.cc/virtual/2026/poster/150252	pending	-
-151294	Dispatchable Coordination Envelopes for Embodied Collaboration Under Sequential Uncertainty	https://neurips.cc/virtual/2026/poster/151294	pending	-
-152623	Displacement Geometry Captures Platonic Shared Reality Across Models and Modalities	https://neurips.cc/virtual/2026/poster/152623	pending	-
-149863	DisRFM: Polar Riemannian Flow Matching for Structure-Preserving Graph Domain Adaptation	https://neurips.cc/virtual/2026/poster/149863	pending	-
-148193	DisSparse: Pipelined Top-$p$ Sparse Attention for  Long-Context LLM Serving	https://neurips.cc/virtual/2026/poster/148193	pending	-
-150595	Distance-Dependent Connectivity Shapes Continual Learning by Synaptic-Resource-Delimited Separation of Neural Dynamics	https://neurips.cc/virtual/2026/poster/150595	pending	-
-152924	Distance Marching for Generative Modeling	https://neurips.cc/virtual/2026/poster/152924	pending	-
-139444	DistDebug-Bench: Can LLM Agents Diagnose Bugs in Distributed Systems?	https://neurips.cc/virtual/2026/poster/139444	pending	-
-155669	Distillation of Foundation Models for Time-dependent PDEs	https://neurips.cc/virtual/2026/poster/155669	pending	-
-148655	Distilling Conditional Image Generators into Spatial Effect Maps	https://neurips.cc/virtual/2026/poster/148655	pending	-
-150714	Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs	https://neurips.cc/virtual/2026/poster/150714	pending	-
-154163	Distilling LLM Feedback for Lean Theorem Proving	https://neurips.cc/virtual/2026/poster/154163	pending	-
-151289	Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/151289	pending	-
-150342	Distilling Sequential Computation in Transformer Language Models	https://neurips.cc/virtual/2026/poster/150342	pending	-
-149862	Distilling What Matters: Confidence-Aware Selective Distillation for Large Language Models	https://neurips.cc/virtual/2026/poster/149862	pending	-
-153115	Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving	https://neurips.cc/virtual/2026/poster/153115	pending	-
-139362	Distinguishing Performance From Competence in Evaluations of Humanlike Abstract Reasoning	https://neurips.cc/virtual/2026/poster/139362	pending	-
-151983	DISTMOE: Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning	https://neurips.cc/virtual/2026/poster/151983	pending	-
-151072	Distributed Online Convex Optimization with Compressed Communication: Optimal Regret and Applications	https://neurips.cc/virtual/2026/poster/151072	pending	-
-152561	Distributed-Order Fractional Spiking Neural Network	https://neurips.cc/virtual/2026/poster/152561	pending	-
-155766	Distribution-Adaptive Policy Optimization	https://neurips.cc/virtual/2026/poster/155766	pending	-
-152916	Distributional Alignment as a Criterion for Designing Task Vectors in In-Context Learning	https://neurips.cc/virtual/2026/poster/152916	pending	-
-153324	Distributional Estimation of 3D Object Orientation	https://neurips.cc/virtual/2026/poster/153324	pending	-
-150289	Distributionally Robust Algorithmic Recourse for Tree Ensembles	https://neurips.cc/virtual/2026/poster/150289	pending	-
-153169	Distributionally Robust Black Box Optimization-based Bidding Strategy in Auction-based Federated Learning	https://neurips.cc/virtual/2026/poster/153169	pending	-
-150440	Distributionally Robust Domain Randomization with Learned Risk-Sensitive Dynamics Samplers	https://neurips.cc/virtual/2026/poster/150440	pending	-
-154214	Distributionally Robust Listwise Preference Optimization	https://neurips.cc/virtual/2026/poster/154214	pending	-
-150482	Distributionally Robust Mixture-of-Experts Training	https://neurips.cc/virtual/2026/poster/150482	pending	-
-152819	Distributionally Robust Multi-Task Reinforcement Learning via Adaptive Task Sampling	https://neurips.cc/virtual/2026/poster/152819	pending	-
+155723	Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts	https://neurips.cc/virtual/2026/poster/155723	included	利用环境间不同的噪声方差比识别连续潜坐标。
+150058	Disentangling Dual Image References in Frequency Aware Diffusion Models for Personalized Generation	https://neurips.cc/virtual/2026/poster/150058	included	分别路由参考图的色彩与结构频带。
+153573	Disentangling generalization and memorization in large language models using chess	https://neurips.cc/virtual/2026/poster/153573	included	按任务先验密度比较基础模型与推理增强。
+155780	Disentangling Homophilic and Heterophilic Patterns for Multi-Domain Graph Foundation Models	https://neurips.cc/virtual/2026/poster/155780	included	保留原边并分别编码同配与异配贡献。
+154249	Disentangling Optimization Geometry via Hierarchical Polar Adapters for Class-Incremental Learning	https://neurips.cc/virtual/2026/poster/154249	included	在极坐标中分开适配幅值与方向，并分层巩固。
+151104	Disentangling the Good From the Bad: Quantization-Induced Flips Are Not Random	https://neurips.cc/virtual/2026/poster/151104	included	评测量化时分别统计正确变错误与错误变正确。
+150252	Disentangling Where and When: Factored Spatio-Temporal Explanations for Video Action Recognition	https://neurips.cc/virtual/2026/poster/150252	included	分别测像素扰动和帧扰动的解释质量。
+151294	Dispatchable Coordination Envelopes for Embodied Collaboration Under Sequential Uncertainty	https://neurips.cc/virtual/2026/poster/151294	included	以执行窗口、耦合约束及替代选项取代固定点调度。
+152623	Displacement Geometry Captures Platonic Shared Reality Across Models and Modalities	https://neurips.cc/virtual/2026/poster/152623	included	跨编码器比较概念位移，避免仅用点位置判断对齐。
+149863	DisRFM: Polar Riemannian Flow Matching for Structure-Preserving Graph Domain Adaptation	https://neurips.cc/virtual/2026/poster/149863	included	分别沿径向校准拓扑、沿角向对齐类别语义。
+148193	DisSparse: Pipelined Top-$p$ Sparse Attention for  Long-Context LLM Serving	https://neurips.cc/virtual/2026/poster/148193	included	用动态注意力质量预算替代固定块数，并并行执行筛选。
+150595	Distance-Dependent Connectivity Shapes Continual Learning by Synaptic-Resource-Delimited Separation of Neural Dynamics	https://neurips.cc/virtual/2026/poster/150595	included	调整连接范围，并测连续任务间的突触资源竞争。
+152924	Distance Marching for Generative Modeling	https://neurips.cc/virtual/2026/poster/152924	included	显式学习到数据流形的距离，以支持采样终止。
+139444	DistDebug-Bench: Can LLM Agents Diagnose Bugs in Distributed Systems?	https://neurips.cc/virtual/2026/poster/139444	included	在授权测试中分开测跨服务证据覆盖与最终诊断。
+155669	Distillation of Foundation Models for Time-dependent PDEs	https://neurips.cc/virtual/2026/poster/155669	included	用教师长滚动及受扰恢复状态训练轻量 PDE 学生。
+148655	Distilling Conditional Image Generators into Spatial Effect Maps	https://neurips.cc/virtual/2026/poster/148655	included	将生成器的条件分布投影成可解释空间效应图。
+150714	Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs	https://neurips.cc/virtual/2026/poster/150714	included	按图曲率分配预测和表征监督。
+154163	Distilling LLM Feedback for Lean Theorem Proving	https://neurips.cc/virtual/2026/poster/154163	included	先用特权反馈做稠密监督，再用可验证奖励微调。
+151289	Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/151289	included	将多教师检测器的局部排序共识压缩为小模型。
+150342	Distilling Sequential Computation in Transformer Language Models	https://neurips.cc/virtual/2026/poster/150342	included	在线把可预测序列片段合成单个代理表示。
+149862	Distilling What Matters: Confidence-Aware Selective Distillation for Large Language Models	https://neurips.cc/virtual/2026/poster/149862	included	按师生置信度决定散度和更新范围。
+153115	Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving	https://neurips.cc/virtual/2026/poster/153115	included	将未来语义状态用于安全评估，并分开跟踪意图符合度。
+139362	Distinguishing Performance From Competence in Evaluations of Humanlike Abstract Reasoning	https://neurips.cc/virtual/2026/poster/139362	included	把识别抽象规则与正确执行分开评分。
+151983	DISTMOE: Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning	https://neurips.cc/virtual/2026/poster/151983	included	用公共数据锚定分布式训练产生的私有专家。
+151072	Distributed Online Convex Optimization with Compressed Communication: Optimal Regret and Applications	https://neurips.cc/virtual/2026/poster/151072	included	用误差反馈和在线压缩处理双向通信的累积误差。
+152561	Distributed-Order Fractional Spiking Neural Network	https://neurips.cc/virtual/2026/poster/152561	included	以可学习权重混合多个分数阶。
+155766	Distribution-Adaptive Policy Optimization	https://neurips.cc/virtual/2026/poster/155766	included	按重要性比率的经验分布调整信赖域。
+152916	Distributional Alignment as a Criterion for Designing Task Vectors in In-Context Learning	https://neurips.cc/virtual/2026/poster/152916	included	用下一 token 分布差衡量压缩任务向量的保真度。
+153324	Distributional Estimation of 3D Object Orientation	https://neurips.cc/virtual/2026/poster/153324	included	对方向多解对象预测旋转分布。
+150289	Distributionally Robust Algorithmic Recourse for Tree Ensembles	https://neurips.cc/virtual/2026/poster/150289	included	将树集成变化建模成树预测分布变化。
+153169	Distributionally Robust Black Box Optimization-based Bidding Strategy in Auction-based Federated Learning	https://neurips.cc/virtual/2026/poster/153169	included	奖励只在整轮流程结束出现时，直接优化整条过程。
+150440	Distributionally Robust Domain Randomization with Learned Risk-Sensitive Dynamics Samplers	https://neurips.cc/virtual/2026/poster/150440	included	按当前策略低回报区域调整动力学采样。
+154214	Distributionally Robust Listwise Preference Optimization	https://neurips.cc/virtual/2026/poster/154214	included	在候选列表内部对排名噪声加稳健损失。
+150482	Distributionally Robust Mixture-of-Experts Training	https://neurips.cc/virtual/2026/poster/150482	included	提高高损失可选专家的训练权重。
+152819	Distributionally Robust Multi-Task Reinforcement Learning via Adaptive Task Sampling	https://neurips.cc/virtual/2026/poster/152819	included	按目标回报差调整各任务交互预算。
 151620	Distributionally-Robust Policy Learning from Observational Data	https://neurips.cc/virtual/2026/poster/151620	pending	-
 154916	Distributionally Robust Token Optimization in RLHF	https://neurips.cc/virtual/2026/poster/154916	pending	-
 150474	Distribution Corrected Decision Transformer for Offline Reinforcement Learning with Imbalanced Datasets	https://neurips.cc/virtual/2026/poster/150474	pending	-
