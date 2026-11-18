@@ -19,8 +19,8 @@ number	openreview_id	title	paper_url	reason	status
 18	RdvH11pAfJ	What Are We Actually Benchmarking in Robot Manipulation?	https://openreview.net/forum?id=RdvH11pAfJ	用缺失目标能力的探针和受控扰动检验基准能否支持能力声明	included
 19	mHCqiRUiHi	BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation	https://openreview.net/forum?id=mHCqiRUiHi		pending
 20	dngZLI0SlV	Chunk-wise Model-based Policy Optimization	https://openreview.net/forum?id=dngZLI0SlV	训练时用一次前向评估整段动作的价值	included
-21	HbuX1Fe8bl	Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction	https://openreview.net/forum?id=HbuX1Fe8bl		pending
-22	OckqYiY2QM	EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference	https://openreview.net/forum?id=OckqYiY2QM		pending
+21	HbuX1Fe8bl	Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction	https://openreview.net/forum?id=HbuX1Fe8bl	采样时给已去噪片段保留利用后续上下文修订的机会	included
+22	OckqYiY2QM	EagleVLA: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference	https://openreview.net/forum?id=OckqYiY2QM	用未来状态预测对齐异步动作起点并动态分配调用预算	included
 23	QBAA8svAIK	FedGuide: Diffusion Prior Alignment and Value Baseline Guidance for Heterogeneous Federated Reinforcement Learning	https://openreview.net/forum?id=QBAA8svAIK		pending
 24	v24DO7JOuN	MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models	https://openreview.net/forum?id=v24DO7JOuN		pending
 25	FFB8qNJwV2	REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models	https://openreview.net/forum?id=FFB8qNJwV2		pending
