@@ -63,11 +63,11 @@ number	openreview_id	title	paper_url	reason	status
 62	TTJ3uxLcxL	Chameleon: Control-Indexed Prospective Memory for Visuomotor Manipulation	https://openreview.net/forum?id=TTJ3uxLcxL	在最终画面相同的条件下分测记忆决策和实际执行	included
 63	TZM6J864Lf	Gated Memory Policy	https://openreview.net/forum?id=TZM6J864Lf	让策略选择何时读取历史并训练其容忍错误历史动作	included
 64	8FGH4qAdNB	EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies	https://openreview.net/forum?id=8FGH4qAdNB	在视觉证据消失前预测其未来价值并决定是否写入	included
-65	hJv9yhbgxR	Native Memory Compression for Long-Horizon Robotic Manipulation	https://openreview.net/forum?id=hJv9yhbgxR		pending
+65	hJv9yhbgxR	Native Memory Compression for Long-Horizon Robotic Manipulation	https://openreview.net/forum?id=hJv9yhbgxR	复用视觉编码器将每帧每视角压成一个记忆 token	included
 66	rnp2Bj4RUX	Safe Task Planning with Long-Term Graph Memory for Embodied Agents	https://openreview.net/forum?id=rnp2Bj4RUX		pending
 67	Q4ehHMIPmb	RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems	https://openreview.net/forum?id=Q4ehHMIPmb		pending
-68	GqqwqejrTq	MessyMem: Learning-from-Doing Memory for Mobile Manipulation	https://openreview.net/forum?id=GqqwqejrTq		pending
-69	aPosmVaV9y	Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision	https://openreview.net/forum?id=aPosmVaV9y		pending
+68	GqqwqejrTq	MessyMem: Learning-from-Doing Memory for Mobile Manipulation	https://openreview.net/forum?id=GqqwqejrTq	将交互得知的属性与关键帧绑定到可更新场景图	included
+69	aPosmVaV9y	Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision	https://openreview.net/forum?id=aPosmVaV9y	把任务显著性标注搬到训练并蒸馏成潜工作记忆	included
 70	ndhpQ86iXs	Watch, Recall, Act: Always-On Robots in Concurrent Embodied Streams	https://openreview.net/forum?id=ndhpQ86iXs		pending
 71	dSbtHPqFj9	Memory Anchors for Continual Robot Learning	https://openreview.net/forum?id=dSbtHPqFj9		pending
 72	kB0KO1Wife	Light-WAM: Efficient World Action Models with State-Fusion Action Decoding	https://openreview.net/forum?id=kB0KO1Wife		pending
