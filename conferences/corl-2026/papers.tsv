@@ -26,7 +26,7 @@ number	openreview_id	title	paper_url	reason	status
 25	FFB8qNJwV2	REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models	https://openreview.net/forum?id=FFB8qNJwV2	跨观测修订未执行动作块兼顾连续性与反应	included
 26	WvR13cRtRf	TARC: Time-Adaptive Robotic Control	https://openreview.net/forum?id=WvR13cRtRf	将动作保持时间纳入策略输出并约束控制切换次数	included
 27	6T2ebANGy5	Targeting World Models to Compromise Robot Learning Pipelines	https://openreview.net/forum?id=6T2ebANGy5		pending
-28	jeNVGuJQrb	SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control	https://openreview.net/forum?id=jeNVGuJQrb		pending
+28	jeNVGuJQrb	SPARK: Simple Post-training for Adapting pRetrained Knowledge to Robot Control	https://openreview.net/forum?id=jeNVGuJQrb	让单帧紧凑特征预测未来局部，同时保留冻结教师语义	included
 29	ZAdTLinUnd	FlowVLA: Enabling World Dynamics Understanding through Pluggable 3D Flow Learning	https://openreview.net/forum?id=ZAdTLinUnd		pending
 30	qKU6lifnPU	CoRE-VLA: Towards Scalable and Robust Vision-Language-Action Modeling via Conditional Routing of Experts	https://openreview.net/forum?id=qKU6lifnPU		pending
 31	3M39Fmw8Mx	FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models	https://openreview.net/forum?id=3M39Fmw8Mx		pending
