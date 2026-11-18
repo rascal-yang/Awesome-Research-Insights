@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **225 / 687** 篇，当前收录 **215** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **240 / 687** 篇，当前收录 **229** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -221,3 +221,17 @@
 | 具身智能 / 多模态 | 可供性监督 | [OPENDEXGRASP: Open-vocabulary Task-Oriented Dexterous Grasping](cards.md#paper-wlgeyxjqid) | 在语言条件的抓取模型中，让区域可供性与手部位姿共享潜空间。 |
 | 具身智能 / 强化学习 | 技能预训练 | [Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](cards.md#paper-rrl1xxzldm) | 先用自由操作预训练可达性和重定向能力，再把探索集中到精密接触阶段。 |
 | 具身智能 / 模仿学习 | 重采样 | [FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](cards.md#paper-03zmmfktxk) | 根据估计外力找到接触边界，在行为克隆中提高接触前片段的采样率。 |
+| 具身智能 | 架构搜索 | [LEMCA: LLM-Guided Synthesis of Efficient Mode-Switching Control Architectures](cards.md#paper-802pzfmfgd) | 同时搜索模式与资源预算 |
+| 具身智能 | 评测诊断 | [Automating the Design of Embodied Agent Architectures](cards.md#paper-2lnbcnztqk) | 用独立环境审计自动架构搜索 |
+| 具身智能 | 安全学习 | [CAN AI PERCEIVE PHYSICAL DANGER AND INTERVENE?](cards.md#paper-7bxjjyw05e) | 把机器人能力约束显式输入并分开评测危险感知和干预 |
+| 具身智能 | 数据合成 | [BiDexGrasp: Coordinated Bimanual Dexterous Grasps across Object Geometries and Sizes](cards.md#paper-odnu3ohjeq) | 用区域初始化降低双手抓取求解成本 |
+| 具身智能 | 共享自治 | [Efficient and Reliable Teleoperation through Real-to-Sim-to-Real Shared Autonomy](cards.md#paper-qgzgvp8rnk) | 用少量示范拟合操作者代理，再在仿真学残差辅助 |
+| 具身智能 | 策略适配 | [FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space](cards.md#paper-aspenn9eir) | 将纠正动作反演成冻结生成策略的输入噪声 |
+| 具身智能 | 动作表示 | [KPGrasp: Scalable Keypoint Flow Matching for Dexterous Grasp Generation](cards.md#paper-bxnvzgsyfe) | 把混合关节和刚体坐标改成同一参考系下的欧氏关键点 |
+| 具身智能 | 跨构型迁移 | [Learning Human Intention for Robotic Manipulation](cards.md#paper-l0bwpzwrky) | 用注视作为人类与机器之间的中间意图信号 |
+| 具身智能 | 多智能体协作 | [Leave It Better Than Found: Value-Guided Cooperation in Sequential Tasks](cards.md#paper-n77om40jwl) | 跨机器人共享后续任务价值，筛除分布外估值 |
+| 具身智能 | 模仿课程 | [Sequential Asymmetric Imitation for Learning Coupled Robot Policies](cards.md#paper-rfrjwmffvv) | 先单边训练再部署对手策略，集中纠正协同时序失败 |
+| 具身智能 | 世界模型 | [WM-Craftnet: World Synesthesia Model for Robust and Generalizable Dexterous In-Hand Manipulation](cards.md#paper-amqh2hu9gs) | 让多模态动力学潜状态作为策略上下文，并显式监督深度去噪 |
+| 具身智能 | 约束建模 | [Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility](cards.md#paper-fhzdeyenpf) | 以情境置信度决定何时弱化显式合规约束 |
+| 具身智能 | 策略梯度 | [Flow Policy Gradients for Robot Control](cards.md#paper-acslhrig33) | 在需要多峰动作时测试免似然流策略梯度 |
+| 具身智能 | 在线强化学习 | [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](cards.md#paper-ryxo2ktk1m) | 用任务相关 token 和锚定小控制头在线修正 VLA |

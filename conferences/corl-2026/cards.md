@@ -3226,3 +3226,213 @@
 - **适用条件 / 局限** · 需要能稳定估计外力或获得力信号；估计漂移会影响接触边界。
 
 **可复用机制** · 在固定示范预算下把连续任务切成接触前后，对照均匀采样和接触前重采样。
+
+<a id="paper-802pzfmfgd"></a>
+
+## LEMCA: LLM-Guided Synthesis of Efficient Mode-Switching Control Architectures
+
+[会议记录](https://openreview.net/forum?id=802PZFmFGd) · [原文](https://openreview.net/pdf?id=802PZFmFGd)
+
+- **问题 / 瓶颈** · 固定预算按最难阶段配置
+- **核心创新 / 方法** · 演化可执行模式切换程序，按仿真控制反馈优化
+- **Baseline** · 单体架构
+- **Benchmark** · 多个控制基准，比较性能与资源
+- **关键结果 / 消融** · 作者报告超越单体 Pareto 前沿
+- **适用条件 / 局限** · 依赖仿真评价与可搜索模式
+
+**可复用机制** · 用性能和资源联合评价候选切换逻辑。
+
+<a id="paper-2lnbcnztqk"></a>
+
+## Automating the Design of Embodied Agent Architectures
+
+[会议记录](https://openreview.net/forum?id=2LNbCnzTQk) · [原文](https://openreview.net/pdf?id=2LNbCnzTQk)
+
+- **问题 / 瓶颈** · 噪声及泄漏会虚增搜索收益
+- **核心创新 / 方法** · 可编辑类型图加提议、批评、实验和提炼循环
+- **Baseline** · 三种架构搜索变体
+- **Benchmark** · 四个具身执行器，含导航、问答、操作
+- **关键结果 / 消融** · 发现有增益也有泄漏候选，局部停滞与信用分配问题
+- **适用条件 / 局限** · 依赖重复评估，摘要未给幅度
+
+**可复用机制** · 用隔离测试和重复运行过滤高分架构。
+
+<a id="paper-7bxjjyw05e"></a>
+
+## CAN AI PERCEIVE PHYSICAL DANGER AND INTERVENE?
+
+[会议记录](https://openreview.net/forum?id=7BXJJYw05E) · [原文](https://openreview.net/pdf?id=7BXJJYw05E)
+
+- **问题 / 瓶颈** · 识别危险未必触发合适干预
+- **核心创新 / 方法** · 将真实事故叙述转为安全到危险的合成场景，按系统约束后训练
+- **Baseline** · 多种基础模型，摘要未列名
+- **Benchmark** · 合成图像及视频，测感知、推理、干预和约束满足
+- **关键结果 / 消融** · 作者报告约束满足领先，摘要无数值
+- **适用条件 / 局限** · 合成素材与真机干预之间仍需验证
+
+**可复用机制** · 用状态转变对照测干预时机，并替换约束做反事实测试。
+
+<a id="paper-odnu3ohjeq"></a>
+
+## BiDexGrasp: Coordinated Bimanual Dexterous Grasps across Object Geometries and Sizes
+
+[会议记录](https://openreview.net/forum?id=ODnu3ohjEQ) · [原文](https://openreview.net/pdf?id=ODnu3ohjEQ)
+
+- **问题 / 瓶颈** · 双手接触搜索维数高
+- **核心创新 / 方法** · 先按区域初始化，再解耦优化力闭合，并对物体尺寸条件化生成
+- **Baseline** · 作者摘要未列名
+- **Benchmark** · 6351 个 30–80 cm 物体、970 万抓取，仿真和真机
+- **关键结果 / 消融** · 作者报告合成及生成效果改善
+- **适用条件 / 局限** · 依赖抓取可行性模型及物体覆盖
+
+**可复用机制** · 固定物体规模比较区域初始化和随机初始化的求解成本及成功率。
+
+<a id="paper-qgzgvp8rnk"></a>
+
+## Efficient and Reliable Teleoperation through Real-to-Sim-to-Real Shared Autonomy
+
+[会议记录](https://openreview.net/forum?id=QGzgVP8RnK) · [原文](https://openreview.net/pdf?id=QGzgVP8RnK)
+
+- **问题 / 瓶颈** · 难在仿真训练符合真实人类意图的辅助器
+- **核心创新 / 方法** · 以不到五分钟遥操作数据训练 kNN 人类代理，再用模型无关 RL 学残差
+- **Baseline** · 直接遥操作、专家先验、BC 辅助
+- **Benchmark** · 16 人实验，螺母旋接、齿轮啮合、插销等
+- **关键结果 / 消融** · 作者报告新手成功率和熟手效率改善
+- **适用条件 / 局限** · 需要代理覆盖操作者状态分布
+
+**可复用机制** · 先验证廉价代理是否能训练辅助器，再测真人意图保留。
+
+<a id="paper-aspenn9eir"></a>
+
+## FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space
+
+[会议记录](https://openreview.net/forum?id=aspenN9eir) · [原文](https://openreview.net/pdf?id=aspenN9eir)
+
+- **问题 / 瓶颈** · 小量干预不足以安全重训生成策略
+- **核心创新 / 方法** · 逆时积分和局部细化将专家动作映回噪声，监督轻量潜策略
+- **Baseline** · 监督微调与潜空间 RL
+- **Benchmark** · 仿真和真机单双臂，适配 VLA 动作头及世界动作模型
+- **关键结果 / 消融** · 作者报告少量干预优于对照且保留留出技能
+- **适用条件 / 局限** · 依赖冻结生成器覆盖专家动作
+
+**可复用机制** · 对同一干预集比较参数微调与输入潜变量控制。
+
+<a id="paper-bxnvzgsyfe"></a>
+
+## KPGrasp: Scalable Keypoint Flow Matching for Dexterous Grasp Generation
+
+[会议记录](https://openreview.net/forum?id=BXNVzGSYFe) · [原文](https://openreview.net/pdf?id=BXNVzGSYFe)
+
+- **问题 / 瓶颈** · 混合位姿和关节空间难与物体点云直接交互
+- **核心创新 / 方法** · 以三维手部关键点表示抓取，用标准流匹配学习
+- **Baseline** · Dexonomy 最强直接可比方法，摘要未列名
+- **Benchmark** · Dexonomy、DexGrasp Anything 和 20 个实物
+- **关键结果 / 消融** · Dexonomy 成功率 76.3%、穿透深度 2.4 mm，批量推理每抓 0.032 秒
+- **适用条件 / 局限** · 关键点须能可靠还原可执行手形
+
+**可复用机制** · 固定生成器验证统一欧氏输出是否减少接触精修需求。
+
+<a id="paper-l0bwpzwrky"></a>
+
+## Learning Human Intention for Robotic Manipulation
+
+[会议记录](https://openreview.net/forum?id=l0bwpzWRKy) · [原文](https://openreview.net/pdf?id=l0bwpzWRKy)
+
+- **问题 / 瓶颈** · 动作重定向受构型差异影响
+- **核心创新 / 方法** · 用注视联合表示语义和低层意图，在推理时串联意图与动作
+- **Baseline** · 摘要未列方法名
+- **Benchmark** · 长程与细粒度操作，仿真及真机
+- **关键结果 / 消融** · 作者报告不依赖机器人意图标签仍改善，摘要未列数值
+- **适用条件 / 局限** · 需要注视证据与操作意图相关
+
+**可复用机制** · 对同一人类视频比较显式注视和仅轨迹监督。
+
+<a id="paper-n77om40jwl"></a>
+
+## Leave It Better Than Found: Value-Guided Cooperation in Sequential Tasks
+
+[会议记录](https://openreview.net/forum?id=N77om40jWL) · [原文](https://openreview.net/pdf?id=N77om40jWL)
+
+- **问题 / 瓶颈** · 预先联合训练所有队友组合难扩展
+- **核心创新 / 方法** · 交换价值函数，并以 kNN 过滤未知状态的估值
+- **Baseline** · 各自独立优化的智能体
+- **Benchmark** · 顺序任务接续，仿真和真机，测成功率
+- **关键结果 / 消融** · 作者报告成功率最多提高 47.7%
+- **适用条件 / 局限** · 需要共享状态表述，价值失准会误导
+
+**可复用机制** · 将下一执行者价值作为当前规划项，消融分布外过滤。
+
+<a id="paper-rfrjwmffvv"></a>
+
+## Sequential Asymmetric Imitation for Learning Coupled Robot Policies
+
+[会议记录](https://openreview.net/forum?id=rfRjWMFfvV) · [原文](https://openreview.net/pdf?id=rfRjWMFfvV)
+
+- **问题 / 瓶颈** · 同步双操作员示范昂贵
+- **核心创新 / 方法** · A 先跟柔顺人类搭档学习，B 再跟 A 学，最后针对失败少量干预 A
+- **Baseline** · 独立模仿、课程消融
+- **Benchmark** · 真实双机器人刚性及可形变物共同操作，测成功、同步、让行
+- **关键结果 / 消融** · 作者报告三项改善，摘要未列数值
+- **适用条件 / 局限** · 依赖可部署的第一阶段策略和可纠正的失败
+
+**可复用机制** · 用由易到难的队友行为，把有限干预用在相位错配和冲突上。
+
+<a id="paper-amqh2hu9gs"></a>
+
+## WM-Craftnet: World Synesthesia Model for Robust and Generalizable Dexterous In-Hand Manipulation
+
+[会议记录](https://openreview.net/forum?id=AmQH2hU9Gs) · [原文](https://openreview.net/pdf?id=AmQH2hU9Gs)
+
+- **问题 / 瓶颈** · 噪声和局部观测难推断物体与接触状态
+- **核心创新 / 方法** · 联合预测视触觉和动力学，用噪声深度输入重建干净目标，循环状态输入非对称 actor–critic
+- **Baseline** · 消融不同模态头
+- **Benchmark** · 多物体手内旋转、未见物体、仿真到真机
+- **关键结果 / 消融** · 干净深度监督增益较大，9 个物体预训练状态复用于 49 物体
+- **适用条件 / 局限** · 需要预训练的干净几何目标
+
+**可复用机制** · 冻结同一控制头结构比较干净目标与噪声自重建。
+
+<a id="paper-fhzdeyenpf"></a>
+
+## Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility
+
+[会议记录](https://openreview.net/forum?id=fHzDEYENPF) · [原文](https://openreview.net/pdf?id=fHzDEYENPF)
+
+- **问题 / 瓶颈** · 刚性合规规则遇到例外会错误牵引轨迹
+- **核心创新 / 方法** · 将交通规则编成概率一阶逻辑，在线更新合规场并学习置信衰减
+- **Baseline** · 既有轨迹预测骨干
+- **Benchmark** · Argoverse 2，摘要未给指标
+- **关键结果 / 消融** · 作者报告跨骨干改善，摘要无幅度
+- **适用条件 / 局限** · 依赖规则质量和置信度泛化
+
+**可复用机制** · 固定预测器比较无规则、硬规则与自适应衰减。
+
+<a id="paper-acslhrig33"></a>
+
+## Flow Policy Gradients for Robot Control
+
+[会议记录](https://openreview.net/forum?id=acslhrig33) · [原文](https://openreview.net/pdf?id=acslhrig33)
+
+- **问题 / 瓶颈** · 常规梯度依赖可微动作似然，约束输出族
+- **核心创新 / 方法** · 改进免似然流匹配策略梯度目标，支持从零强化学习及微调
+- **Baseline** · 已有流策略梯度及微调对照，摘要未列名
+- **Benchmark** · 腿式运动、人形动作跟踪和操作，两台人形真机迁移
+- **关键结果 / 消融** · 作者报告从零训练可利用流表示探索、微调鲁棒性改善
+- **适用条件 / 局限** · 目标公式和更新开销须查正文
+
+**可复用机制** · 在相同环境交互量下比较高斯与流策略的探索及微调稳定性。
+
+<a id="paper-ryxo2ktk1m"></a>
+
+## RL Token: Bootstrapping Online RL with Vision-Language-Action Models
+
+[会议记录](https://openreview.net/forum?id=RYXo2ktK1M) · [原文](https://openreview.net/pdf?id=RYXo2ktK1M)
+
+- **问题 / 瓶颈** · 完整 VLA 在线训练成本高，原动作精度和速度不足
+- **核心创新 / 方法** · 从 VLA 提取紧凑 RL token，训练小 actor–critic 改进动作并锚定基础策略
+- **Baseline** · 以预训练 VLA 为底座，部分任务比较人类遥操作
+- **Benchmark** · 装螺钉、扎带、充电头和网线插接，测速度和成功率
+- **关键结果 / 消融** · 困难环节最高加速 3 倍，训练耗时数分钟至数小时
+- **适用条件 / 局限** · 需要真机交互与原策略有可利用技能
+
+**可复用机制** · 仅在线更新小动作头，对照原策略和无锚定头检验速度与稳定性。
