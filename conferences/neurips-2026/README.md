@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2489** 篇，暂收录 **2320** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2549** 篇，暂收录 **2379** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2328,3 +2328,62 @@
 | 优化 | 曲率诊断 | [Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD](cards-0004.md#paper-150004) | 用梯度方向上的批曲率诊断 SGD 的稳定边缘。 |
 | 优化 | 等变组合求解 | [EDISCO: Equivariant Discrete Diffusion for Euclidean Combinatorial Optimization](cards-0004.md#paper-148560) | 将几何不变性编码到离散求解分布。 |
 | 计算机视觉 | 高分辨率生成 | [EditBridge: Towards Faithful and Efficient Ultra-High-Resolution Image Editing](cards-0004.md#paper-154973) | 把低分辨率编辑映射回原高分辨率源，并局部稀疏交互。 |
+| 计算机视觉 | 视频编辑 | [EditDistill: Is It Possible to Guide Video Editing with Image Editing](cards-0004.md#paper-154635) | 用首帧编辑定义视频变换 |
+| 科学机器学习 | 符号回归 | [EditFlowSR: Revisable Expression Generation for Symbolic Regression](cards-0004.md#paper-152491) | 用表达式树局部修改代替整段重生成 |
+| 大语言模型 | 知识编辑 | [Editing Large Language Models with Geometry-Aware Regularization](cards-0004.md#paper-149507) | 按知识子空间和请求难度分配保护强度 |
+| 多模态学习 | 评测诊断 | [EditJudge-Bench: Auditing VLM Image-Edit Judges with Synthetic Ground Truth](cards-0004.md#paper-139200) | 用有确切编辑真值的配对图像审计自动评分器 |
+| 自然语言处理 | 风格表征 | [EDITORS Know Your Style! Editing LoRA Subspaces for Stylistic Attribution and Imitation](cards-0004.md#paper-154496) | 从适配器输入去除诊断出的内容方向 |
+| 多模态学习 | 多轮后训练 | [Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](cards-0004.md#paper-150113) | 每轮先汇总有效约束，再联合优化文本意图和图像 |
+| 计算机视觉 | 局部生成 | [Edit the Bits, Diff the Codes: Bitwise Residual Editing for Visual Autoregressive Models](cards-0004.md#paper-151219) | 将采样位上的引导与残差写入位置分开控制 |
+| 多模态学习 | 证据融合 | [EDMA: Entropy-Driven Multimodal Answering](cards-0004.md#paper-150520) | 按候选答案消歧量选择模态和作答轨迹 |
+| 科学机器学习 | 可执行基准 | [EEG Benchmarking Needs a Task Specification Layer: NeuroDoc for Rulebook-Guided, Executable Benchmark Construction](cards-0004.md#paper-139164) | 用可执行任务定义和规则簿统一跨数据集评测 |
+| 科学机器学习 | 受控评测 | [EEGFaceSem: An EEG Benchmark with Paired Generative Latents for Semantic Visual Modeling](cards-0004.md#paper-138993) | 用配对的刺激潜变量分离细粒度视觉因素 |
+| 科学机器学习 | 自监督表示 | [EEG-X: Toward Device-Agnostic and Noise-Robust Foundation Models for EEG](cards-0004.md#paper-152276) | 跨设备预训练用电极位置对齐，并以去伪影信号监督 |
+| 机器学习系统 | 架构搜索 | [EENAS: Zero-Shot Energy-Efficiency-Aware Neural Architecture Search](cards-0004.md#paper-150046) | 在硬能耗约束下用代理估计筛选候选 |
+| 强化学习 | 技能表示 | [Effect-Driven Skill Abstractions for Offline Reinforcement Learning](cards-0004.md#paper-148749) | 依据后续状态效果离散化动作片段 |
+| 科学机器学习 | 表征评测 | [Effective Biological Representation Learning by Masking Gene Expression](cards-0004.md#paper-153201) | 用归纳划分与线性基线核实深度表征收益 |
+| 学习理论 | 分词诊断 | [Effective Context in Transformers: An Analysis of Fragmentation and Tokenization](cards-0004.md#paper-153996) | 比较分词时测窗口实际覆盖多少必要源历史 |
+| Agent | 知识校验 | [Effective Knowledge Conflict Detection via Joint Agentic Optimization](cards-0004.md#paper-154997) | 让分组步骤按下游冲突检出率学习 |
+| 计算机视觉 | 多传感融合 | [Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis](cards-0004.md#paper-149088) | 以射线相对位置融合稀疏几何与多相机外观 |
+| 强化学习 | 课程设计 | [Effectiveness of Curriculum Learning Depends on Reward Sparsity and Competing Optima](cards-0004.md#paper-149082) | 按奖励稀疏性和局部最优竞争决定是否安排课程 |
+| 统计学习 | 因果验证 | [Effect-Level Validation for Causal Discovery in Interactive Telemetry](cards-0004.md#paper-139471) | 按目标效应可识别性筛图，再验证效应稳健性 |
+| 科学机器学习 | 可逆求解 | [Efficient, Accurate and Stable Gradients for Neural ODEs](cards-0004.md#paper-155995) | 以代数可逆且稳定的积分器降低 ODE 训练开销 |
+| 主动学习 | 信念表征 | [Efficient Adaptive Data Acquisition via Pretrained Belief Representations](cards-0004.md#paper-156141) | 以预训练预测器的表示作为采集策略输入 |
+| 统计学习 | 自适应统计 | [Efficient Adaptive Data Analysis over Dense Data Distributions](cards-0004.md#paper-154467) | 已知参考先验时先验证密度条件 |
+| 生成模型 | 奖励微调 | [Efficient Adjoint Matching for Fine-tuning Diffusion Models](cards-0004.md#paper-148733) | 选择可解析伴随的控制重参数化 |
+| 机器学习系统 | 内核优化 | [Efficient Agentic GPU Kernel Optimization with a Compact Domain-Specific Language and Speed-of-Light Guidance](cards-0004.md#paper-148269) | 让代理在紧凑 DSL 中搜索，并用硬件上界分配预算 |
+| 优化 | 分布式优化 | [Efficient Algorithms for Distributed Saddle Problems](cards-0004.md#paper-154829) | 将鞍点残差转成解耦最小化序列 |
+| 优化 | 动态匹配 | [Efficient Algorithms For Fully Dynamic Bipartite Matching In Metric Spaces](cards-0004.md#paper-155930) | 随数据插删维护近似匹配 |
+| 统计学习 | 稳健回归 | [Efficient algorithms for linear regression with heteroskedastic errors](cards-0004.md#paper-148854) | 按低噪声来源数量评估异方差回归可辨识性 |
+| 统计学习 | 不确定性量化 | [Efficient Analytic Uncertainty Quantification for Multimodal Regression](cards-0004.md#paper-153892) | 多峰回归中用解析变分近似替代单峰误差模型 |
+| 科学机器学习 | 物理模拟 | [Efficient and Robust Physical 3DGS-MPM Simulation via Interior Filling and Text-Physics Optimization](cards-0004.md#paper-149910) | 分别处理内部粒子初始化和材质估计 |
+| 大语言模型 | 数据配比 | [Efficient and Simple Data Mixing All The Time](cards-0004.md#paper-154977) | 在当前模型上用低秩适配器近似评估候选混合 |
+| Agent | 图检索 | [Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning](cards-0004.md#paper-151304) | 以单代理学习逐步访问知识图 |
+| 大语言模型 | 代理评测 | [Efficient Benchmarking Is Just Feature Selection and Multiple Regression](cards-0004.md#paper-139637) | 用特征选择加核岭回归预测全量基准分 |
+| 生成模型 | 公平性 | [Efficient bias mitigation in T2I diffusion models using Concept Graphs](cards-0004.md#paper-148742) | 联合校正文本编码和去噪阶段的概念关系 |
+| 科学机器学习 | 序列解码 | [Efficient Brain-to-Speech Decoding with Fixed-Delay Spiking Neural Networks](cards-0004.md#paper-151470) | 在低容量脉冲网络中用固定连接延迟提供时间上下文 |
+| 机器学习系统 | 协同微调 | [Efficient Collaborative LLM Fine-Tuning over Heterogeneous Mobile Devices via Many Backbones to One Side-Network Tuning](cards-0004.md#paper-150713) | 对齐不同骨干表征后共享侧网络，并异步更新 |
+| 学习理论 | 博弈求解 | [Efficient Computation and Best-Response Dynamics in Anonymous Two-Action Games with Linear Utilities](cards-0004.md#paper-150711) | 满足匿名线性效用时使用精确算法或逐次最佳响应 |
+| 计算机视觉 | 数据蒸馏 | [Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching](cards-0004.md#paper-155616) | 以一次预计算的全局类别流替代逐批梯度匹配 |
+| 优化 | 神经路由 | [Efficient Decoder Scaling Strategy for Constructive Neural Routing Solvers](cards-0004.md#paper-149642) | 固定预算时优先测试增加解码器深度 |
+| 具身智能 | 策略微调 | [Efficient Diffusion Policy Fine Tuning with Latent Noise Representation Bridging](cards-0004.md#paper-148980) | 在扩散策略的潜噪声空间复用价值表示 |
+| 图学习 | 增量更新 | [Efficient Dynamic Algorithms for Graph Neural Networks with Non-Linearity](cards-0004.md#paper-154492) | 边变化时局部更新非线性图表示 |
+| 评测 | 重要性采样 | [Efficient evaluation and error pattern discovery for blackbox AI systems](cards-0004.md#paper-149796) | 以便宜代理分配昂贵评测预算 |
+| 大语言模型 | 抽样推断 | [Efficient Evaluation of LLM Performance with Statistical Guarantees](cards-0004.md#paper-150090) | 在保持置信区间覆盖率时减少评测查询 |
+| 优化 | 结构稀疏 | [Efficient Fine-Tuning for Structured Sparsity Under Group Repartitioning](cards-0004.md#paper-152541) | 分组变化时复用已有最优解 |
+| 智能体 | 可靠性监测 | [Efficient Forecasting of Task Failures in LLM Agents through Adaptive Fault Injection](cards-0004.md#paper-149975) | 预测错误发生后任务是否仍可恢复 |
+| 科学机器学习 | 神经算子 | [Efficient Generative Transformer Operators for Million-Point PDEs](cards-0004.md#paper-153950) | 在时空压缩域联合生成全轨迹 |
+| 强化学习 | 异步后训练 | [Efficient Gradient-Aware Asynchronous Reinforcement Learning for LLM Post-Training](cards-0004.md#paper-148273) | 按优势加权目标筛近期回放 |
+| 生成模型 | 蒸馏 | [Efficient Hybrid Distillation: Synergizing Score and Adversarial Objectives for One-Step Diffusion](cards-0004.md#paper-153904) | 按噪声区间分配不同蒸馏损失 |
+| 计算机视觉 | 潜空间生成 | [Efficient Image Synthesis with Sphere Latent Encoder](cards-0004.md#paper-150206) | 将重建编码器与去噪训练分离 |
+| 优化 | 联邦贝叶斯优化 | [Efficient Knowledge Transfer in Federated Bayesian Optimization through Neural Network Surrogates](cards-0004.md#paper-151479) | 共享代理特征并保留各方专属目标头 |
+| 隐私 | 联邦防御 | [Efficient Label Distribution Inference Attack and Defense on Classifier Weights in Federated Learning](cards-0004.md#paper-149031) | 审计共享更新是否泄漏客户端统计并验证正则防御 |
+| 统计学习 | 截断分布估计 | [Efficient Learning of Truncated Boolean Product Distributions: Influence to the Rescue](cards-0004.md#paper-150434) | 按截断集合的影响量分析可辨识性 |
+| 大语言模型 | 前向适配 | [Efficient LLM Adaptation with Forward-Only Passes](cards-0004.md#paper-148809) | 按激活角度分散度选择要降秩的权矩阵 |
+| 规划 | 搜索编码 | [Efficient Lookahead Encoding and Abstracted Width for Learning General Policies in Classical Planning](cards-0004.md#paper-150136) | 一次编码整个有限宽前瞻树 |
+| 大语言模型 | 投机解码 | [Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation](cards-0004.md#paper-153042) | 微调目标模型后只更新草稿的轻量专属组件 |
+| 学习理论 | 推理复杂度 | [Efficiently Representing Algorithms With Chain-of-Thought Transformers](cards-0004.md#paper-151497) | 以词 RAM 而非图灵机衡量推理模拟开销 |
+| 量子学习 | 状态估计 | [Efficient Matrix Product State Learning in Logarithmic Depth](cards-0004.md#paper-148226) | 将局部解纠缠操作树形并行化 |
+| 图学习 | 持续适配 | [Efficient Memory Crystallization for Graph Learning under Non-Stationary Distribution Shifts](cards-0004.md#paper-149800) | 用分布匹配闭式摘要替代训练生成式记忆 |
+| 多模态学习 | 提示适配 | [Efficient Multi-Source Prompt Adaptation for Cross-Domain Open-Vocabulary Learning](cards-0004.md#paper-150859) | 分离类别语义提示和域提示并在无标签域做一致性 |
+| 科学机器学习 | 自适应采样 | [Efficient Neural Field Learning via Adaptive Coverage and Focused Sampling](cards-0004.md#paper-151578) | 先覆盖空间分区再按区域重要度配额 |

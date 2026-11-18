@@ -2453,66 +2453,66 @@ poster_id	title	paper_url	status	reason
 150004	Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD	https://neurips.cc/virtual/2026/poster/150004	included	用梯度方向上的批曲率诊断 SGD 的稳定边缘。
 148560	EDISCO: Equivariant Discrete Diffusion for Euclidean Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/148560	included	将几何不变性编码到离散求解分布。
 154973	EditBridge: Towards Faithful and Efficient Ultra-High-Resolution Image Editing	https://neurips.cc/virtual/2026/poster/154973	included	把低分辨率编辑映射回原高分辨率源，并局部稀疏交互。
-154635	EditDistill: Is It Possible to Guide Video Editing with Image Editing	https://neurips.cc/virtual/2026/poster/154635	pending	-
-152491	EditFlowSR: Revisable Expression Generation for Symbolic Regression	https://neurips.cc/virtual/2026/poster/152491	pending	-
-149507	Editing Large Language Models with Geometry-Aware Regularization	https://neurips.cc/virtual/2026/poster/149507	pending	-
-139200	EditJudge-Bench: Auditing VLM Image-Edit Judges with Synthetic Ground Truth	https://neurips.cc/virtual/2026/poster/139200	pending	-
-154496	EDITORS Know Your Style! Editing LoRA Subspaces for Stylistic Attribution and Imitation	https://neurips.cc/virtual/2026/poster/154496	pending	-
-150113	Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing	https://neurips.cc/virtual/2026/poster/150113	pending	-
-151219	Edit the Bits, Diff the Codes: Bitwise Residual Editing for Visual Autoregressive Models	https://neurips.cc/virtual/2026/poster/151219	pending	-
-150520	EDMA: Entropy-Driven Multimodal Answering	https://neurips.cc/virtual/2026/poster/150520	pending	-
-139164	EEG Benchmarking Needs a Task Specification Layer: NeuroDoc for Rulebook-Guided, Executable Benchmark Construction	https://neurips.cc/virtual/2026/poster/139164	pending	-
-138993	EEGFaceSem: An EEG Benchmark with Paired Generative Latents for Semantic Visual Modeling	https://neurips.cc/virtual/2026/poster/138993	pending	-
-152276	EEG-X: Toward Device-Agnostic and Noise-Robust Foundation Models for EEG	https://neurips.cc/virtual/2026/poster/152276	pending	-
-150046	EENAS: Zero-Shot Energy-Efficiency-Aware Neural Architecture Search	https://neurips.cc/virtual/2026/poster/150046	pending	-
-148749	Effect-Driven Skill Abstractions for Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148749	pending	-
-153201	Effective Biological Representation Learning by Masking Gene Expression	https://neurips.cc/virtual/2026/poster/153201	pending	-
-153996	Effective Context in Transformers: An Analysis of Fragmentation and Tokenization	https://neurips.cc/virtual/2026/poster/153996	pending	-
-154997	Effective Knowledge Conflict Detection via Joint Agentic Optimization	https://neurips.cc/virtual/2026/poster/154997	pending	-
-149088	Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis	https://neurips.cc/virtual/2026/poster/149088	pending	-
-149082	Effectiveness of Curriculum Learning Depends on Reward Sparsity and Competing Optima	https://neurips.cc/virtual/2026/poster/149082	pending	-
-139471	Effect-Level Validation for Causal Discovery in Interactive Telemetry	https://neurips.cc/virtual/2026/poster/139471	pending	-
-155995	Efficient, Accurate and Stable Gradients for Neural ODEs	https://neurips.cc/virtual/2026/poster/155995	pending	-
-156141	Efficient Adaptive Data Acquisition via Pretrained Belief Representations	https://neurips.cc/virtual/2026/poster/156141	pending	-
-154467	Efficient Adaptive Data Analysis over Dense Data Distributions	https://neurips.cc/virtual/2026/poster/154467	pending	-
-148733	Efficient Adjoint Matching for Fine-tuning Diffusion Models	https://neurips.cc/virtual/2026/poster/148733	pending	-
-148269	Efficient Agentic GPU Kernel Optimization with a Compact Domain-Specific Language and Speed-of-Light Guidance	https://neurips.cc/virtual/2026/poster/148269	pending	-
-154829	Efficient Algorithms for Distributed Saddle Problems	https://neurips.cc/virtual/2026/poster/154829	pending	-
-155930	Efficient Algorithms For Fully Dynamic Bipartite Matching In Metric Spaces	https://neurips.cc/virtual/2026/poster/155930	pending	-
-148854	Efficient algorithms for linear regression with heteroskedastic errors	https://neurips.cc/virtual/2026/poster/148854	pending	-
-153892	Efficient Analytic Uncertainty Quantification for Multimodal Regression	https://neurips.cc/virtual/2026/poster/153892	pending	-
-153113	Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes	https://neurips.cc/virtual/2026/poster/153113	pending	-
-149910	Efficient and Robust Physical 3DGS-MPM Simulation via Interior Filling and Text-Physics Optimization	https://neurips.cc/virtual/2026/poster/149910	pending	-
-154977	Efficient and Simple Data Mixing All The Time	https://neurips.cc/virtual/2026/poster/154977	pending	-
-151304	Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151304	pending	-
-139637	Efficient Benchmarking Is Just Feature Selection and Multiple Regression	https://neurips.cc/virtual/2026/poster/139637	pending	-
-148742	Efficient bias mitigation in T2I diffusion models using Concept Graphs	https://neurips.cc/virtual/2026/poster/148742	pending	-
-151470	Efficient Brain-to-Speech Decoding with Fixed-Delay Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/151470	pending	-
-150713	Efficient Collaborative LLM Fine-Tuning over Heterogeneous Mobile Devices via Many Backbones to One Side-Network Tuning	https://neurips.cc/virtual/2026/poster/150713	pending	-
-150711	Efficient Computation and Best-Response Dynamics in Anonymous Two-Action Games with Linear Utilities	https://neurips.cc/virtual/2026/poster/150711	pending	-
-155616	Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching	https://neurips.cc/virtual/2026/poster/155616	pending	-
-149642	Efficient Decoder Scaling Strategy for Constructive Neural Routing Solvers	https://neurips.cc/virtual/2026/poster/149642	pending	-
-148980	Efficient Diffusion Policy Fine Tuning with Latent Noise Representation Bridging	https://neurips.cc/virtual/2026/poster/148980	pending	-
-154492	Efficient Dynamic Algorithms for Graph Neural Networks with Non-Linearity	https://neurips.cc/virtual/2026/poster/154492	pending	-
-149796	Efficient evaluation and error pattern discovery for blackbox AI systems	https://neurips.cc/virtual/2026/poster/149796	pending	-
-150090	Efficient Evaluation of LLM Performance with Statistical Guarantees	https://neurips.cc/virtual/2026/poster/150090	pending	-
-152541	Efficient Fine-Tuning for Structured Sparsity Under Group Repartitioning	https://neurips.cc/virtual/2026/poster/152541	pending	-
-149975	Efficient Forecasting of Task Failures in LLM Agents through Adaptive Fault Injection	https://neurips.cc/virtual/2026/poster/149975	pending	-
-153950	Efficient Generative Transformer Operators for Million-Point PDEs	https://neurips.cc/virtual/2026/poster/153950	pending	-
-148273	Efficient Gradient-Aware Asynchronous Reinforcement Learning for LLM Post-Training	https://neurips.cc/virtual/2026/poster/148273	pending	-
-153904	Efficient Hybrid Distillation: Synergizing Score and Adversarial Objectives for One-Step Diffusion	https://neurips.cc/virtual/2026/poster/153904	pending	-
-150206	Efficient Image Synthesis with Sphere Latent Encoder	https://neurips.cc/virtual/2026/poster/150206	pending	-
-151479	Efficient Knowledge Transfer in Federated Bayesian Optimization through Neural Network Surrogates	https://neurips.cc/virtual/2026/poster/151479	pending	-
-149031	Efficient Label Distribution Inference Attack and Defense on Classifier Weights in Federated Learning	https://neurips.cc/virtual/2026/poster/149031	pending	-
-150434	Efficient Learning of Truncated Boolean Product Distributions: Influence to the Rescue	https://neurips.cc/virtual/2026/poster/150434	pending	-
-148809	Efficient LLM Adaptation with Forward-Only Passes	https://neurips.cc/virtual/2026/poster/148809	pending	-
-150136	Efficient Lookahead Encoding and Abstracted Width for Learning General Policies in Classical Planning	https://neurips.cc/virtual/2026/poster/150136	pending	-
-153042	Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation	https://neurips.cc/virtual/2026/poster/153042	pending	-
-151497	Efficiently Representing Algorithms With Chain-of-Thought Transformers	https://neurips.cc/virtual/2026/poster/151497	pending	-
-148226	Efficient Matrix Product State Learning in Logarithmic Depth	https://neurips.cc/virtual/2026/poster/148226	pending	-
-149800	Efficient Memory Crystallization for Graph Learning under Non-Stationary Distribution Shifts	https://neurips.cc/virtual/2026/poster/149800	pending	-
-150859	Efficient Multi-Source Prompt Adaptation for Cross-Domain Open-Vocabulary Learning	https://neurips.cc/virtual/2026/poster/150859	pending	-
-151578	Efficient Neural Field Learning via Adaptive Coverage and Focused Sampling	https://neurips.cc/virtual/2026/poster/151578	pending	-
+154635	EditDistill: Is It Possible to Guide Video Editing with Image Editing	https://neurips.cc/virtual/2026/poster/154635	included	用首帧编辑定义视频变换
+152491	EditFlowSR: Revisable Expression Generation for Symbolic Regression	https://neurips.cc/virtual/2026/poster/152491	included	用表达式树局部修改代替整段重生成
+149507	Editing Large Language Models with Geometry-Aware Regularization	https://neurips.cc/virtual/2026/poster/149507	included	按知识子空间和请求难度分配保护强度
+139200	EditJudge-Bench: Auditing VLM Image-Edit Judges with Synthetic Ground Truth	https://neurips.cc/virtual/2026/poster/139200	included	用有确切编辑真值的配对图像审计自动评分器
+154496	EDITORS Know Your Style! Editing LoRA Subspaces for Stylistic Attribution and Imitation	https://neurips.cc/virtual/2026/poster/154496	included	从适配器输入去除诊断出的内容方向
+150113	Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing	https://neurips.cc/virtual/2026/poster/150113	included	每轮先汇总有效约束，再联合优化文本意图和图像
+151219	Edit the Bits, Diff the Codes: Bitwise Residual Editing for Visual Autoregressive Models	https://neurips.cc/virtual/2026/poster/151219	included	将采样位上的引导与残差写入位置分开控制
+150520	EDMA: Entropy-Driven Multimodal Answering	https://neurips.cc/virtual/2026/poster/150520	included	按候选答案消歧量选择模态和作答轨迹
+139164	EEG Benchmarking Needs a Task Specification Layer: NeuroDoc for Rulebook-Guided, Executable Benchmark Construction	https://neurips.cc/virtual/2026/poster/139164	included	用可执行任务定义和规则簿统一跨数据集评测
+138993	EEGFaceSem: An EEG Benchmark with Paired Generative Latents for Semantic Visual Modeling	https://neurips.cc/virtual/2026/poster/138993	included	用配对的刺激潜变量分离细粒度视觉因素
+152276	EEG-X: Toward Device-Agnostic and Noise-Robust Foundation Models for EEG	https://neurips.cc/virtual/2026/poster/152276	included	跨设备预训练用电极位置对齐，并以去伪影信号监督
+150046	EENAS: Zero-Shot Energy-Efficiency-Aware Neural Architecture Search	https://neurips.cc/virtual/2026/poster/150046	included	在硬能耗约束下用代理估计筛选候选
+148749	Effect-Driven Skill Abstractions for Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/148749	included	依据后续状态效果离散化动作片段
+153201	Effective Biological Representation Learning by Masking Gene Expression	https://neurips.cc/virtual/2026/poster/153201	included	用归纳划分与线性基线核实深度表征收益
+153996	Effective Context in Transformers: An Analysis of Fragmentation and Tokenization	https://neurips.cc/virtual/2026/poster/153996	included	比较分词时测窗口实际覆盖多少必要源历史
+154997	Effective Knowledge Conflict Detection via Joint Agentic Optimization	https://neurips.cc/virtual/2026/poster/154997	included	让分组步骤按下游冲突检出率学习
+149088	Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis	https://neurips.cc/virtual/2026/poster/149088	included	以射线相对位置融合稀疏几何与多相机外观
+149082	Effectiveness of Curriculum Learning Depends on Reward Sparsity and Competing Optima	https://neurips.cc/virtual/2026/poster/149082	included	按奖励稀疏性和局部最优竞争决定是否安排课程
+139471	Effect-Level Validation for Causal Discovery in Interactive Telemetry	https://neurips.cc/virtual/2026/poster/139471	included	按目标效应可识别性筛图，再验证效应稳健性
+155995	Efficient, Accurate and Stable Gradients for Neural ODEs	https://neurips.cc/virtual/2026/poster/155995	included	以代数可逆且稳定的积分器降低 ODE 训练开销
+156141	Efficient Adaptive Data Acquisition via Pretrained Belief Representations	https://neurips.cc/virtual/2026/poster/156141	included	以预训练预测器的表示作为采集策略输入
+154467	Efficient Adaptive Data Analysis over Dense Data Distributions	https://neurips.cc/virtual/2026/poster/154467	included	已知参考先验时先验证密度条件
+148733	Efficient Adjoint Matching for Fine-tuning Diffusion Models	https://neurips.cc/virtual/2026/poster/148733	included	选择可解析伴随的控制重参数化
+148269	Efficient Agentic GPU Kernel Optimization with a Compact Domain-Specific Language and Speed-of-Light Guidance	https://neurips.cc/virtual/2026/poster/148269	included	让代理在紧凑 DSL 中搜索，并用硬件上界分配预算
+154829	Efficient Algorithms for Distributed Saddle Problems	https://neurips.cc/virtual/2026/poster/154829	included	将鞍点残差转成解耦最小化序列
+155930	Efficient Algorithms For Fully Dynamic Bipartite Matching In Metric Spaces	https://neurips.cc/virtual/2026/poster/155930	included	随数据插删维护近似匹配
+148854	Efficient algorithms for linear regression with heteroskedastic errors	https://neurips.cc/virtual/2026/poster/148854	included	按低噪声来源数量评估异方差回归可辨识性
+153892	Efficient Analytic Uncertainty Quantification for Multimodal Regression	https://neurips.cc/virtual/2026/poster/153892	included	多峰回归中用解析变分近似替代单峰误差模型
+153113	Efficient and Accurate Zero Shot Generation of Symmetric Protein Complexes	https://neurips.cc/virtual/2026/poster/153113	excluded	论文贡献集中在蛋白复合物生成工程，未提取独立入库机制。
+149910	Efficient and Robust Physical 3DGS-MPM Simulation via Interior Filling and Text-Physics Optimization	https://neurips.cc/virtual/2026/poster/149910	included	分别处理内部粒子初始化和材质估计
+154977	Efficient and Simple Data Mixing All The Time	https://neurips.cc/virtual/2026/poster/154977	included	在当前模型上用低秩适配器近似评估候选混合
+151304	Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151304	included	以单代理学习逐步访问知识图
+139637	Efficient Benchmarking Is Just Feature Selection and Multiple Regression	https://neurips.cc/virtual/2026/poster/139637	included	用特征选择加核岭回归预测全量基准分
+148742	Efficient bias mitigation in T2I diffusion models using Concept Graphs	https://neurips.cc/virtual/2026/poster/148742	included	联合校正文本编码和去噪阶段的概念关系
+151470	Efficient Brain-to-Speech Decoding with Fixed-Delay Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/151470	included	在低容量脉冲网络中用固定连接延迟提供时间上下文
+150713	Efficient Collaborative LLM Fine-Tuning over Heterogeneous Mobile Devices via Many Backbones to One Side-Network Tuning	https://neurips.cc/virtual/2026/poster/150713	included	对齐不同骨干表征后共享侧网络，并异步更新
+150711	Efficient Computation and Best-Response Dynamics in Anonymous Two-Action Games with Linear Utilities	https://neurips.cc/virtual/2026/poster/150711	included	满足匿名线性效用时使用精确算法或逐次最佳响应
+155616	Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching	https://neurips.cc/virtual/2026/poster/155616	included	以一次预计算的全局类别流替代逐批梯度匹配
+149642	Efficient Decoder Scaling Strategy for Constructive Neural Routing Solvers	https://neurips.cc/virtual/2026/poster/149642	included	固定预算时优先测试增加解码器深度
+148980	Efficient Diffusion Policy Fine Tuning with Latent Noise Representation Bridging	https://neurips.cc/virtual/2026/poster/148980	included	在扩散策略的潜噪声空间复用价值表示
+154492	Efficient Dynamic Algorithms for Graph Neural Networks with Non-Linearity	https://neurips.cc/virtual/2026/poster/154492	included	边变化时局部更新非线性图表示
+149796	Efficient evaluation and error pattern discovery for blackbox AI systems	https://neurips.cc/virtual/2026/poster/149796	included	以便宜代理分配昂贵评测预算
+150090	Efficient Evaluation of LLM Performance with Statistical Guarantees	https://neurips.cc/virtual/2026/poster/150090	included	在保持置信区间覆盖率时减少评测查询
+152541	Efficient Fine-Tuning for Structured Sparsity Under Group Repartitioning	https://neurips.cc/virtual/2026/poster/152541	included	分组变化时复用已有最优解
+149975	Efficient Forecasting of Task Failures in LLM Agents through Adaptive Fault Injection	https://neurips.cc/virtual/2026/poster/149975	included	预测错误发生后任务是否仍可恢复
+153950	Efficient Generative Transformer Operators for Million-Point PDEs	https://neurips.cc/virtual/2026/poster/153950	included	在时空压缩域联合生成全轨迹
+148273	Efficient Gradient-Aware Asynchronous Reinforcement Learning for LLM Post-Training	https://neurips.cc/virtual/2026/poster/148273	included	按优势加权目标筛近期回放
+153904	Efficient Hybrid Distillation: Synergizing Score and Adversarial Objectives for One-Step Diffusion	https://neurips.cc/virtual/2026/poster/153904	included	按噪声区间分配不同蒸馏损失
+150206	Efficient Image Synthesis with Sphere Latent Encoder	https://neurips.cc/virtual/2026/poster/150206	included	将重建编码器与去噪训练分离
+151479	Efficient Knowledge Transfer in Federated Bayesian Optimization through Neural Network Surrogates	https://neurips.cc/virtual/2026/poster/151479	included	共享代理特征并保留各方专属目标头
+149031	Efficient Label Distribution Inference Attack and Defense on Classifier Weights in Federated Learning	https://neurips.cc/virtual/2026/poster/149031	included	审计共享更新是否泄漏客户端统计并验证正则防御
+150434	Efficient Learning of Truncated Boolean Product Distributions: Influence to the Rescue	https://neurips.cc/virtual/2026/poster/150434	included	按截断集合的影响量分析可辨识性
+148809	Efficient LLM Adaptation with Forward-Only Passes	https://neurips.cc/virtual/2026/poster/148809	included	按激活角度分散度选择要降秩的权矩阵
+150136	Efficient Lookahead Encoding and Abstracted Width for Learning General Policies in Classical Planning	https://neurips.cc/virtual/2026/poster/150136	included	一次编码整个有限宽前瞻树
+153042	Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation	https://neurips.cc/virtual/2026/poster/153042	included	微调目标模型后只更新草稿的轻量专属组件
+151497	Efficiently Representing Algorithms With Chain-of-Thought Transformers	https://neurips.cc/virtual/2026/poster/151497	included	以词 RAM 而非图灵机衡量推理模拟开销
+148226	Efficient Matrix Product State Learning in Logarithmic Depth	https://neurips.cc/virtual/2026/poster/148226	included	将局部解纠缠操作树形并行化
+149800	Efficient Memory Crystallization for Graph Learning under Non-Stationary Distribution Shifts	https://neurips.cc/virtual/2026/poster/149800	included	用分布匹配闭式摘要替代训练生成式记忆
+150859	Efficient Multi-Source Prompt Adaptation for Cross-Domain Open-Vocabulary Learning	https://neurips.cc/virtual/2026/poster/150859	included	分离类别语义提示和域提示并在无标签域做一致性
+151578	Efficient Neural Field Learning via Adaptive Coverage and Focused Sampling	https://neurips.cc/virtual/2026/poster/151578	included	先覆盖空间分区再按区域重要度配额
 151908	Efficient Off-Policy RL for Video Generation via Forward-Consistent Reward Matching	https://neurips.cc/virtual/2026/poster/151908	pending	-
 152711	Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention	https://neurips.cc/virtual/2026/poster/152711	pending	-
 150018	Efficient One-to-many Domain Translation via Diffusive Entropic Optimal Transport	https://neurips.cc/virtual/2026/poster/150018	pending	-
