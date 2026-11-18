@@ -8011,3 +8011,1593 @@
 - **适用条件 / 局限** · 需要可视化状态及可由远程人员判断的可行目标；接触力等隐变量不易标注。
 
 **可复用机制** · 把采集策略拆为增加状态覆盖和补充同状态动作两种预算，在多解任务上按成本比较。
+
+<a id="paper-vv1wxmkstd"></a>
+
+## An Empirical Study of Data-Loading Bottlenecks (and Non-Bottlenecks) in Robotic Imitation Learning
+
+[会议记录](https://openreview.net/forum?id=Vv1WXMkSTD) · [原文](https://openreview.net/pdf?id=Vv1WXMkSTD)
+
+- **问题 / 瓶颈** · 孤立微基准难代表训练耗时
+- **核心创新 / 方法** · 扫描图像分辨率并比较零拷贝共享缓存与原版输入管线
+- **Baseline** · LeRobot 标准实现与 Rust Arrow 写时复制缓存
+- **Benchmark** · 消费级设备端到端每步耗时和孤立读入耗时
+- **关键结果 / 消融** · 数据路径仅占 1–4%，微基准改善未带来可测训练提速
+- **适用条件 / 局限** · 受设备、数据格式和模型影响；无索引逐帧解码是例外
+
+**可复用机制** · 决定是否优化数据加载前先做端到端剖析
+
+<a id="paper-dpgz9kssgo"></a>
+
+## ATHENA: Accelerated Multi-Task Heterogeneous Influence Functions for Robot Data Curation
+
+[会议记录](https://openreview.net/forum?id=dPgz9Kssgo) · [原文](https://openreview.net/pdf?id=dPgz9Kssgo)
+
+- **问题 / 瓶颈** · 梯度投影与 Hessian 逆计算昂贵
+- **核心创新 / 方法** · 用线性层梯度 Kronecker 结构加速投影，以截断随机低秩近似处理 Hessian，并区分全局与局部影响
+- **Baseline** · 全量联合微调
+- **Benchmark** · RoboTwin 2.0 和六项真机任务
+- **关键结果 / 消融** · 影响力计算约快 313.4 倍，仿真用半量、真机用 66% 数据达到或超过全量效果
+- **适用条件 / 局限** · 低秩近似及下游任务分布影响归因质量
+
+**可复用机制** · 在多任务 VLA 上用可扩展影响估计筛选示范
+
+<a id="paper-xxhkql5u5p"></a>
+
+## Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training
+
+[会议记录](https://openreview.net/forum?id=xXHKqL5u5P) · [原文](https://openreview.net/pdf?id=xXHKqL5u5P)
+
+- **问题 / 瓶颈** · 均匀模拟无法聚焦真机有用的样本
+- **核心创新 / 方法** · 元梯度训练样本效用评分器，优化仿真参数分布，可用代理策略并组合原子技能
+- **Baseline** · 均匀生成、离线检索和专家对齐
+- **Benchmark** · 仿真及真机操作全任务成功率
+- **关键结果 / 消融** · 较均匀生成真机相对提高 150%，达到手工对齐表现
+- **适用条件 / 局限** · 需要模拟数据可参数化，以及足够真实反馈
+
+**可复用机制** · 用少量真实验证反馈学习模拟器采样分布
+
+<a id="paper-x05rf7l7h4"></a>
+
+## Where Small Mistakes Matter: Quantifying State Criticality for Imitation Learning
+
+[会议记录](https://openreview.net/forum?id=x05Rf7L7H4) · [原文](https://openreview.net/pdf?id=x05Rf7L7H4)
+
+- **问题 / 瓶颈** · 均匀模仿忽略不可恢复的关键时刻
+- **核心创新 / 方法** · 围绕冻结模仿策略训练扰动策略和价值 critic，估计有界扰动的最坏价值下降
+- **Baseline** · 均匀行为克隆
+- **Benchmark** · 仿真与真机操作；成功表现及子集数据效率
+- **关键结果 / 消融** · 作者报告重加权提升表现、紧凑子集可维持表现；量值待核实
+- **适用条件 / 局限** · 依赖扰动预算和 critic 精度
+
+**可复用机制** · 按小动作误差造成的下游价值损失给示范状态加权
+
+<a id="paper-58lip3p4hu"></a>
+
+## Sim-to-Real Transfer for Muscle-Actuated Robots via Generalized Actuator Networks
+
+[会议记录](https://openreview.net/forum?id=58liP3p4hu) · [原文](https://openreview.net/pdf?id=58liP3p4hu)
+
+- **问题 / 瓶颈** · 肌肉驱动的非线性和滞回限制迁移
+- **核心创新 / 方法** · 先用位置轨迹识别神经执行器模型，再接刚体和环境交互模拟
+- **Baseline** · 摘要未列具体对照
+- **Benchmark** · PAMY2 四自由度臂目标触达、杯球及乒乓控制
+- **关键结果 / 消融** · 纯仿真策略可部署；摘要未列成功率
+- **适用条件 / 局限** · 依赖可观测关节轨迹和可靠刚体模型
+
+**可复用机制** · 无扭矩传感器时用关节轨迹辨识执行器并保留刚体求解器
+
+<a id="paper-dykg3ed5wy"></a>
+
+## Do Rigid-Body Simulators Dream of Soft Robots? Learning Contact-Rich Manipulation for Tendon-Driven Continuum Robots
+
+[会议记录](https://openreview.net/forum?id=dykg3Ed5Wy) · [原文](https://openreview.net/pdf?id=dykg3Ed5Wy)
+
+- **问题 / 瓶颈** · 软体求解器难兼顾接触、驱动及学习接口
+- **核心创新 / 方法** · 用连续体力学离散化把软机器人嵌入 MuJoCo
+- **Baseline** · Cosserat 杆与真机轨迹为物理参照
+- **Benchmark** · 静动态物理验证及 Franka 上三段连续体的两项操作任务
+- **关键结果 / 消融** · 仿真遥操状态克隆可零样本部署；量值待核实
+- **适用条件 / 局限** · 特定于可离散的肌腱连续体；跨结构需验证
+
+**可复用机制** · 用有物理依据的离散结构将软体接触和肌腱纳入同一仿真
+
+<a id="paper-fyntpa7rwn"></a>
+
+## Scouting the Dynamics Gap: Test-Time Policy Adaptation via Action-Outcome Feedback
+
+[会议记录](https://openreview.net/forum?id=FYNtpa7rwN) · [原文](https://openreview.net/pdf?id=FYNtpa7rwN)
+
+- **问题 / 瓶颈** · 测试时奖励稀疏且隐含物性变化
+- **核心创新 / 方法** · 元训练内层更新信念潜变量拟合动作结果，外层优化动作预测
+- **Baseline** · 摘要未列具体对照
+- **Benchmark** · 仿真操作与真实 sim-to-real
+- **关键结果 / 消融** · 作者报告加快在线适应；幅度待核实
+- **适用条件 / 局限** · 依赖观测能区分不同动力学
+
+**可复用机制** · 用动作结果预测误差在线更新共享动力学信念
+
+<a id="paper-zwuhb2fawb"></a>
+
+## Drifting on Demand: A Profiled-Likelihood Transformer for Online Parameter Estimation
+
+[会议记录](https://openreview.net/forum?id=ZwUhb2fAWb) · [原文](https://openreview.net/pdf?id=ZwUhb2fAWb)
+
+- **问题 / 瓶颈** · 固定平方误差偏移，联合负对数似然训练不稳
+- **核心创新 / 方法** · 用剖面似然训练历史查询 Transformer，单次输出结构化模型参数给 MPC
+- **Baseline** · 手调物理和神经动力学
+- **Benchmark** · 两辆实车不同运行条件，RMS 跟踪误差及估计频率
+- **关键结果 / 消融** · 估计超过 100Hz，跟踪误差最多改善 2.4 倍
+- **适用条件 / 局限** · 需要选定可辨识的模型结构
+
+**可复用机制** · 状态残差各通道尺度变化时分离动力学参数与噪声估计
+
+<a id="paper-y6pog6ygix"></a>
+
+## Beyond Semantic Classes: Online Physical Parameter Estimation via Embedding-Conditioned Gaussian Mixtures
+
+[会议记录](https://openreview.net/forum?id=Y6pog6YGIX) · [原文](https://openreview.net/pdf?id=Y6pog6YGIX)
+
+- **问题 / 瓶颈** · 外观相似不代表摩擦或刚度相同
+- **核心创新 / 方法** · 将交互估计作为高斯混合成分，按嵌入近邻加权，历史不足时融合条件先验
+- **Baseline** · 固定语义类别与单点估计是文中对照思路
+- **Benchmark** · 高保真未知摩擦区域模拟赛车，多圈累积证据
+- **关键结果 / 消融** · 恢复多峰并改善驾驶适应；幅度待核实
+- **适用条件 / 局限** · 依赖交互物性估计和嵌入的相关性
+
+**可复用机制** · 按连续视觉嵌入检索交互历史并保留物性多峰分布
+
+<a id="paper-kggi0115rg"></a>
+
+## Sensitivity Shaping for Latent Modeling
+
+[会议记录](https://openreview.net/forum?id=kGGI0115Rg) · [原文](https://openreview.net/pdf?id=kGGI0115Rg)
+
+- **问题 / 瓶颈** · 模型对动作不敏感会掩盖分布外预测错误
+- **核心创新 / 方法** · 根据训练支持度调节控制敏感性正则
+- **Baseline** · 固定动力学上的事后支持度检测
+- **Benchmark** · 视觉避障、操作和真机导航，测分布外检测和闭环安全
+- **关键结果 / 消融** · 作者报告两方面改善；幅度待核实
+- **适用条件 / 局限** · 需可靠的支持估计，不能盲目放大域外响应
+
+**可复用机制** · 拟合动力学时在高支持区域保留局部控制敏感性
+
+<a id="paper-cautgdv8l0"></a>
+
+## Learning Robust Visuomotor Policies via Dynamics Alignment
+
+[会议记录](https://openreview.net/forum?id=cauTGdv8L0) · [原文](https://openreview.net/pdf?id=cauTGdv8L0)
+
+- **问题 / 瓶颈** · 以固定未来引导动作会形成因果循环和不一致
+- **核心创新 / 方法** · 动作条件动力学流与策略流用外推协同采样，逐步校正动作和未来
+- **Baseline** · 视频条件及事后动力学策略
+- **Benchmark** · 四仿真、三真机操作，成功率和未来估计扰动
+- **关键结果 / 消融** · 较最强基线相对提高 47.0% 和 34.0%
+- **适用条件 / 局限** · 需要训练动作条件动力学，采样成本待核实
+
+**可复用机制** · 让动作流与未来观测流在采样时交互更新
+
+<a id="paper-xl2er7x00h"></a>
+
+## Discovering Control Symmetries via Transition Manifold Tangency
+
+[会议记录](https://openreview.net/forum?id=xL2eR7x00h) · [原文](https://openreview.net/pdf?id=xL2eR7x00h)
+
+- **问题 / 瓶颈** · 策略访问密度不对称且动作有独立群表示
+- **核心创新 / 方法** · 以近邻 PCA 或去噪器估计局部法向，再检查候选生成元和离散变换
+- **Baseline** · Jacobian 与分布匹配方法
+- **Benchmark** · 连续与离散对称性基准，生成元子空间和流形距离
+- **关键结果 / 消融** · 神经估计能在非线性与行为偏差下恢复连续生成元
+- **适用条件 / 局限** · 依赖局部覆盖足以估计切空间
+
+**可复用机制** · 用转移流形的切向条件检查动力学对称性
+
+<a id="paper-glj2rsqis4"></a>
+
+## MIRROR: Reflecting Hidden Symmetries from Offline Robot Interaction Data
+
+[会议记录](https://openreview.net/forum?id=Glj2RSQIS4) · [原文](https://openreview.net/pdf?id=Glj2RSQIS4)
+
+- **问题 / 瓶颈** · 像素 POMDP 中对称变换难以手工给出
+- **核心创新 / 方法** · 从交互数据推断变换并显式满足群公理，接等变 BC
+- **Baseline** · LaLiGAN 与普通 BC
+- **Benchmark** · 四项 Robosuite 桌面任务及 Kinova GEN3 跨模态真机迁移
+- **关键结果 / 消融** · 兼容误差较 LaLiGAN 低 61%，BC 单任务最高收益 9.66%
+- **适用条件 / 局限** · 需要有对应的对称结构及覆盖
+
+**可复用机制** · 从离线转移联合学习观测和动作的群作用
+
+<a id="paper-sie2lx2haf"></a>
+
+## DexNinja: Learning Robust Dexterous Cutting Policy with a Real-to-Sim-to-Real Data Engine
+
+[会议记录](https://openreview.net/forum?id=sIe2LX2HaF) · [原文](https://openreview.net/pdf?id=sIe2LX2HaF)
+
+- **问题 / 瓶颈** · 真实切割采集会耗损物体，模拟误差会在切割中累积
+- **核心创新 / 方法** · 从少量真实轨迹重建物体，以类别约束随机化质量、几何、摩擦，用可微仿真耦合切割和接触
+- **Baseline** · 有无增强为对照；摘要未列其他方法
+- **Benchmark** · 灵巧食物切片和异形草莓泛化
+- **关键结果 / 消融** · 作者报告增强改善迁移；量值待核实
+- **适用条件 / 局限** · 需要材料模型与有意义的随机化范围
+
+**可复用机制** · 按类别物性约束扩增会改变物体拓扑的接触示范
+
+<a id="paper-qa1uu7lc8n"></a>
+
+## Dex4D: Task-Agnostic Point Track Policy for Zero-Shot Dexterous Manipulation
+
+[会议记录](https://openreview.net/forum?id=Qa1Uu7lc8n) · [原文](https://openreview.net/pdf?id=Qa1Uu7lc8n)
+
+- **问题 / 瓶颈** · 逐任务设计奖励和环境成本高
+- **核心创新 / 方法** · 仿真预训练任意物体姿态转移策略，部署用视频抽取目标点轨迹及在线点跟踪
+- **Baseline** · 对照既有方法；摘要未列名称
+- **Benchmark** · 仿真与真机多任务及新物体、布局、轨迹
+- **关键结果 / 消融** · 作者报告在多种任务零样本迁移并改善表现
+- **适用条件 / 局限** · 需要可追踪物体点和可实现的目标轨迹
+
+**可复用机制** · 用物体中心三维点轨迹作为任务无关的策略接口
+
+<a id="paper-qahhxvxhtb"></a>
+
+## YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale
+
+[会议记录](https://openreview.net/forum?id=QAHhXvXHtb) · [原文](https://openreview.net/pdf?id=QAHhXvXHtb)
+
+- **问题 / 瓶颈** · 手枪式接口对精细操作不自然
+- **核心创新 / 方法** · 采用可顺从的手指驱动夹爪直接映射开合，接六自由度跟踪
+- **Baseline** · 传统 UMI 夹爪
+- **Benchmark** · 119 项任务，跨 UR、Franka 与 ELEY 双臂迁移
+- **关键结果 / 消融** · 采集 8434 小时；作者报告共享夹爪可跨平台执行
+- **适用条件 / 局限** · 迁移依赖安装同一夹爪；非同构端执行器尚待核实
+
+**可复用机制** · 要复用双臂示范时让采集夹爪与部署夹爪共享动作语义
+
+<a id="paper-gseucglnto"></a>
+
+## Belt-Finger: An Affordable Soft Belt-Driven Gripper for Dexterous In-Hand Manipulation
+
+[会议记录](https://openreview.net/forum?id=GseuCgLNtO) · [原文](https://openreview.net/pdf?id=GseuCgLNtO)
+
+- **问题 / 瓶颈** · 平行夹爪依赖机械臂大范围运动
+- **核心创新 / 方法** · 双皮带指模块保留开合并增加夹内平移、俯仰和滚转
+- **Baseline** · 传统平行夹爪
+- **Benchmark** · 遥操、MPC 与学习策略在多种操作任务对照
+- **关键结果 / 消融** · 作者报告可行性提高；幅度待核实
+- **适用条件 / 局限** · 需要适宜的物体摩擦和接触形状
+
+**可复用机制** · 狭窄工作区将夹内平移和旋转交由驱动带完成
+
+<a id="paper-eb5tktrt2x"></a>
+
+## Assembling Two Parts in One Hand
+
+[会议记录](https://openreview.net/forum?id=Eb5TKtrt2X) · [原文](https://openreview.net/pdf?id=Eb5TKtrt2X)
+
+- **问题 / 瓶颈** · 遮挡会削弱位姿反馈，手指须分工协调
+- **核心创新 / 方法** · 相对姿态为目标，功能性辅助奖励加人类单参考姿态正则，并融合历史状态与观测
+- **Baseline** · 摘要未列对照名称
+- **Benchmark** · 瓶子、注射器、记号笔三类装配，单相机真机迁移
+- **关键结果 / 消融** · 纯仿真训练可零样本部署；量值待核实
+- **适用条件 / 局限** · 需要手形态允许同时支撑和驱动两个零件
+
+**可复用机制** · 以两零件相对位姿和手指分工奖励训练单手装配
+
+<a id="paper-2qcsjfv9pr"></a>
+
+## ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning
+
+[会议记录](https://openreview.net/forum?id=2qcSjfv9pr) · [原文](https://openreview.net/pdf?id=2qcSjfv9pr)
+
+- **问题 / 瓶颈** · 直接微调退化预训练复位能力
+- **核心创新 / 方法** · 用行为克隆接新观测，冻结 actor 校准 critic，再做小幅更新
+- **Baseline** · 从零学习与朴素 RL 微调
+- **Benchmark** · Kuka-Allegro 23 自由度真机抓取、重定向、插入
+- **关键结果 / 消融** · 作者报告可完成长程任务且先验可零样本复位；量值待核实
+- **适用条件 / 局限** · 需要已有可复用操作先验和稳定的奖励
+
+**可复用机制** · 新奖励下先冻结 actor 暖启动 critic，再保守更新
+
+<a id="paper-8t3fxlyk9k"></a>
+
+## Going with the Flow: Koopman Behavioral Models as Pseudo Planners for Visuo-Motor Dexterity
+
+[会议记录](https://openreview.net/forum?id=8T3FxlYk9K) · [原文](https://openreview.net/pdf?id=8T3FxlYk9K)
+
+- **问题 / 瓶颈** · 固定动作分块在一致性与反应性间折衷
+- **核心创新 / 方法** · 用 Koopman 潜线性系统联合建模示范视觉与本体状态，误差超限时重新滚动
+- **Baseline** · 扩散、Transformer 等策略；摘要未列具体方法
+- **Benchmark** · 七仿真四真机任务，测成功、速度及遮挡
+- **关键结果 / 消融** · 表现相当或更好，推理更快；幅度待核实
+- **适用条件 / 局限** · 主要拟合专家行为附近的动态，监控阈值需校准
+
+**可复用机制** · 以预测视觉流与实际偏差触发按需重规划
+
+<a id="paper-z5cgs0xgek"></a>
+
+## Dexterity-BEV: Aligning 3D World and Actions for Generalizable Robot Policies Learning
+
+[会议记录](https://openreview.net/forum?id=z5cgS0XgeK) · [原文](https://openreview.net/pdf?id=z5cgS0XgeK)
+
+- **问题 / 瓶颈** · 机器人和相机坐标不一致，二维像素缺少三维信息
+- **核心创新 / 方法** · 构造顶点图与顶点谱，将多视角几何和动作变换到共享坐标并对齐轨迹时间
+- **Baseline** · 摘要未列具体基线
+- **Benchmark** · 跨机器人与相机的真实操作，指标待核实
+- **关键结果 / 消融** · 作者报告一致性和泛化改善；量值待核实
+- **适用条件 / 局限** · 依赖标定、相机覆盖与可能的深度
+
+**可复用机制** · 把每个相机像素对应几何和动作统一到规范鸟瞰坐标
+
+<a id="paper-fsgxevflkn"></a>
+
+## LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion
+
+[会议记录](https://openreview.net/forum?id=FsgXevFLkn) · [原文](https://openreview.net/pdf?id=FsgXevFLkn)
+
+- **问题 / 瓶颈** · 意图更新和接触响应频率不同
+- **核心创新 / 方法** · 异步生成稀疏意图和稠密运动，以潜空间 Schrödinger 桥耦合
+- **Baseline** · Cosmos-Policy
+- **Benchmark** · 六项双臂灵巧操作，测任务和子任务成功率及延迟
+- **关键结果 / 消融** · 时延下降 45.8%，总体成功率 70.8%，子任务成功率 78.5%
+- **适用条件 / 局限** · 依赖异步流间的时间与状态一致性
+
+**可复用机制** · 用熵正则桥将低频意图约束传给高频控制
+
+<a id="paper-lgosjtsr5q"></a>
+
+## How to Learn from What a Human Would Avoid? Intervention-Aware World Models with Real-World RL for Dexterous Manipulation
+
+[会议记录](https://openreview.net/forum?id=lGOsJtsr5q) · [原文](https://openreview.net/pdf?id=lGOsJtsr5q)
+
+- **问题 / 瓶颈** · 只模仿接管后的纠正无法学习回避风险状态
+- **核心创新 / 方法** · 潜世界模型预测动力、奖励、终止和接管概率，按后者给策略塑形
+- **Baseline** · 摘要未列具体基线
+- **Benchmark** · 16 自由度 LEAP Hand 抓取及多阶段任务
+- **关键结果 / 消融** · 复杂抓取成功率 96.7%，步数加权干预最多减 84%
+- **适用条件 / 局限** · 接管概率取决于操作者阈值和训练覆盖
+
+**可复用机制** · 把人类接管的预测概率作为 actor 的前瞻风险代价
+
+<a id="paper-tqrhdxuapa"></a>
+
+## Physics-Aware Object-Centric SE(3) Forecasting for Real-Time Proactive Dynamic Grasping
+
+[会议记录](https://openreview.net/forum?id=tQRHDxUApa) · [原文](https://openreview.net/pdf?id=tQRHDxUApa)
+
+- **问题 / 瓶颈** · 全景未来生成昂贵，当前姿态又无法补偿时延
+- **核心创新 / 方法** · 从短姿态历史预测刚体未来，再按可达性与时序选接触状态
+- **Baseline** · 摘要未列对照名称
+- **Benchmark** · 仿真和真机，含接取、传送带和转台
+- **关键结果 / 消融** · 仿真由 24.5% 至 62.0%，真机由 15.3% 至 67.3%；预测 15ms
+- **适用条件 / 局限** · 需可靠刚体几何、历史位姿及可达性
+
+**可复用机制** · 动态接触时只预测决定接触时机的物体 SE(3) 状态
+
+<a id="paper-mzgjyghofg"></a>
+
+## MIND-Grasp: Multi-View Imagination-Guided Next-Best-Action Discovery for Occlusion-Aware Grasping
+
+[会议记录](https://openreview.net/forum?id=mzGjyghofG) · [原文](https://openreview.net/pdf?id=mzGjyghofG)
+
+- **问题 / 瓶颈** · 全遮挡场景还需发现目标及保留退出路径
+- **核心创新 / 方法** · 在线更新目标中心遮挡点云，先选视角再择机移障，最终加入退避约束
+- **Baseline** · 摘要未列方法名
+- **Benchmark** · LINEMOD Occlusion 与 GraspNet-1Billion 重建及真机遮挡抓取
+- **关键结果 / 消融** · 作者报告可在多级遮挡发现并取出目标；量值待核实
+- **适用条件 / 局限** · 依赖重建先验和可执行的移动视角
+
+**可复用机制** · 未知目标位置时先搜可见通道，只有关键遮挡才搬动
+
+<a id="paper-ng11daafix"></a>
+
+## Minimal-Intervention Target Retrieval in Cluttered Scenes with Grasp-Conditioned Dependency Graphs
+
+[会议记录](https://openreview.net/forum?id=nG11dAaFIX) · [原文](https://openreview.net/pdf?id=nG11dAaFIX)
+
+- **问题 / 瓶颈** · 同场景不同抓取受不同障碍限制
+- **核心创新 / 方法** · 对单物体干预产生接近与抬升边标签，训练对象–抓取依赖图并逐次重规划
+- **Baseline** · 最少阻挡者 oracle 供对照
+- **Benchmark** · 500 场景 8687 实例，离线标签、MuJoCo 闭环与真机
+- **关键结果 / 消融** · 作者报告检验成功与移除次数权衡；数值待核实
+- **适用条件 / 局限** · 依赖候选抓取覆盖和干预标签仿真真实性
+
+**可复用机制** · 按候选抓取和动作阶段预测真正的阻挡对象
+
+<a id="paper-iianoce27q"></a>
+
+## How Firm Should a Grasp Be?
+
+[会议记录](https://openreview.net/forum?id=iIanOcE27q) · [原文](https://openreview.net/pdf?id=iIanOcE27q)
+
+- **问题 / 瓶颈** · 固定力会滑落或损坏物体
+- **核心创新 / 方法** · 用视触觉估计物性，以实测果蔬属性构造仿真力模型
+- **Baseline** · 摘要未列对照
+- **Benchmark** · 平行夹爪抓取，材料涵盖质量、弹性和摩擦差异
+- **关键结果 / 消融** · 作者报告多物品可柔和抓持；量值待核实
+- **适用条件 / 局限** · 依赖传感器和物性估计，未知外力下的余量需复核
+
+**可复用机制** · 在抓取过程中估计物性并按物性调最低所需夹持力
+
+<a id="paper-fgyol5tngl"></a>
+
+## Anchoring Attention in Clutter: Mask-Guided Latent Distillation for Vision-Language-Action Towards Dexterous Grasping
+
+[会议记录](https://openreview.net/forum?id=FGyOl5tNGl) · [原文](https://openreview.net/pdf?id=FGyOl5tNGl)
+
+- **问题 / 瓶颈** · 输入掩膜不保证 VLA 一直关注指定实例
+- **核心创新 / 方法** · 在动作专家跨注意力中加掩膜偏置，蒸馏到无偏置路径，再用进度 token 控制子任务终止
+- **Baseline** · 四种 VLA 基线
+- **Benchmark** · 真机两种实例可辨性，另测未见类别和光照
+- **关键结果 / 消融** · 平均成功率 67.5%，领先至少 26.9 个百分点
+- **适用条件 / 局限** · 依赖可靠区域掩膜与实例标注
+
+**可复用机制** · 把训练期区域掩膜变成控制路径内的注意力监督
+
+<a id="paper-cpy2rsdnji"></a>
+
+## AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction
+
+[会议记录](https://openreview.net/forum?id=CPY2RsdnjI) · [原文](https://openreview.net/pdf?id=CPY2RsdnjI)
+
+- **问题 / 瓶颈** · 固定视角与夹手本身遮挡物体
+- **核心创新 / 方法** · Ray-GPIS 用射线不确定性和新颖度选视角，由轴条件旋转策略执行并增量融合
+- **Baseline** · 既有重定向及重建方案；摘要未列名称
+- **Benchmark** · 多几何真机物体，测表面完整度与重建速度
+- **关键结果 / 消融** · 作者报告两方面改善；具体量值待核实
+- **适用条件 / 局限** · 依赖可稳定手内旋转以及合理的不确定性地图
+
+**可复用机制** · 按候选观测射线的不确定性决定手内转动目标
+
+<a id="paper-fub1lcfk9g"></a>
+
+## PACER: Process-Aware VLA Policy Learning from Human Corrections for Robotic Disassembly
+
+[会议记录](https://openreview.net/forum?id=fuB1LcFk9g) · [原文](https://openreview.net/pdf?id=fuB1LcFk9g)
+
+- **问题 / 瓶颈** · 直接 SFT 会把关键恢复片段当成普通动作
+- **核心创新 / 方法** · 将纠错和执行过程证据转成权重或优势
+- **Baseline** · 直接监督微调
+- **Benchmark** · UR5e 主板拆卸，五类部件，70 条七位置纠错
+- **关键结果 / 消融** · 摘要报告较直接 SFT 成功率改善 33%
+- **适用条件 / 局限** · 依赖过程证据质量与故障覆盖
+
+**可复用机制** · 对人类纠错按流程证据重加权，沿用原 VLA 训练目标
+
+<a id="paper-kdaclhheut"></a>
+
+## T-Rex: Tactile-Reactive Dexterous Manipulation
+
+[会议记录](https://openreview.net/forum?id=KdaClHHEUt) · [原文](https://openreview.net/pdf?id=KdaClHHEUt)
+
+- **问题 / 瓶颈** · 静态触觉编码忽略快速力变化
+- **核心创新 / 方法** · 可变速率 Mix-of-Transformer 与时序触觉 VQ-VAE，按基本运动原语采集
+- **Baseline** · 最强既有基线，摘要未列名称
+- **Benchmark** · 100 小时数据，12 项需要精细力控制的操作
+- **关键结果 / 消融** · 平均成功率较最强基线高逾 30%
+- **适用条件 / 局限** · 依赖时序传感与校准；各部分独立收益待核实
+
+**可复用机制** · 让高频触觉支路以自身速率编码，再与低频视觉动作模型交互
+
+<a id="paper-alllacthkq"></a>
+
+## Touch2Trace: Tactile-Driven Imitation Learning for Dexterous Cable Tracing
+
+[会议记录](https://openreview.net/forum?id=ALlLaCTHKQ) · [原文](https://openreview.net/pdf?id=ALlLaCTHKQ)
+
+- **问题 / 瓶颈** · 滑移和摩擦要快速反馈，单用本体状态不足
+- **核心创新 / 方法** · 以自监督编码器配轻量 Transformer 行为克隆，真机以 60Hz 执行
+- **Baseline** · 仅本体感觉基线及编码、频率、上下文对照
+- **Benchmark** · DG-5F 灵巧手追踪线缆，测距离和成功率
+- **关键结果 / 消融** · 0.2 至 20.1 厘米，成功率 0% 至 93%，支持未见线缆
+- **适用条件 / 局限** · 依赖传感器与线缆接触；最优频率不可直接外推
+
+**可复用机制** · 对连续接触任务分别比较控制频率、触觉分辨率与时序上下文
+
+<a id="paper-anfrrenqmn"></a>
+
+## SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection
+
+[会议记录](https://openreview.net/forum?id=anfRreNqMN) · [原文](https://openreview.net/pdf?id=anfRreNqMN)
+
+- **问题 / 瓶颈** · 单模态难同时解释接触区域和动态信号
+- **核心创新 / 方法** · 用独立编码融合压阻阵列与加速度，做因果时序预测
+- **Baseline** · 比较不同模态组合；具体外部基线待核实
+- **Benchmark** · 37 物体、140 万帧，测 Macro F1、误报、事件延迟及跨平台
+- **关键结果 / 消融** · F1 96.7%，误报低于 1.6%，76% 事件在 23.1ms 内检出
+- **适用条件 / 局限** · 需要传感器同步和相似安装条件
+
+**可复用机制** · 同时观测接触压力与摩擦振动，以低延迟判断滑移
+
+<a id="paper-s0rbnmokit"></a>
+
+## Learning with Object-centric Representations of Tactile Interactive Perception for Robot Manipulation
+
+[会议记录](https://openreview.net/forum?id=S0rbnmOkit) · [原文](https://openreview.net/pdf?id=S0rbnmOkit)
+
+- **问题 / 瓶颈** · 视觉难识别材质、内容物与软硬，触觉信号稀疏
+- **核心创新 / 方法** · token 学习器选触觉片段，以描述文本对比对齐，再条件化操作
+- **Baseline** · 无物性上下文的策略
+- **Benchmark** · 物性分类及重排、倾倒、开盒三任务
+- **关键结果 / 消融** · 物性识别 90%，任务平均 85% 对比 36%
+- **适用条件 / 局限** · 需可执行的探索动作和覆盖属性的描述
+
+**可复用机制** · 从探索过程选择少量表征片段，将物性上下文提供给操作策略
+
+<a id="paper-7ymfgwpcww"></a>
+
+## ControlTac: Scaling Tactile Data with Physically Controlled Tactile Image Generation
+
+[会议记录](https://openreview.net/forum?id=7ymfgWpcWw) · [原文](https://openreview.net/pdf?id=7ymfgWpcWw)
+
+- **问题 / 瓶颈** · 自由生成难保留动态接触所需约束
+- **核心创新 / 方法** · 两阶段生成器以一幅参照触觉图及接触力、位姿为条件
+- **Baseline** · 摘要讨论传统仿真与自由生成；实验对照待核实
+- **Benchmark** · 真机插入、模仿学习及称重等任务
+- **关键结果 / 消融** · 作者报告下游性能一致改善；具体幅度待核实
+- **适用条件 / 局限** · 力和位姿需可靠标注，动态接触分布外迁移待复核
+
+**可复用机制** · 生成触觉样本时明确控制接触力、位姿和传感器参照
+
+<a id="paper-f3dic5djnz"></a>
+
+## What is the Better Curriculum: Controller-Shaped Grasping Behavior for Contact Force-Sensitive Manipulation
+
+[会议记录](https://openreview.net/forum?id=f3Dic5dJnz) · [原文](https://openreview.net/pdf?id=f3Dic5dJnz)
+
+- **问题 / 瓶颈** · 视觉反馈太慢，示范易损坏脆弱物体
+- **核心创新 / 方法** · 采集端加触觉反射，部署可只用视觉
+- **Baseline** · 普通示范、反射示范、反射仲裁；ACT、π₀.₅
+- **Benchmark** · 塑料杯、未见纸杯及随机外扰，测稳定抓取
+- **关键结果 / 消融** · ACT 标称任务 95%；外扰下 π₀.₅ 无反射失败 45%，仲裁无失败
+- **适用条件 / 局限** · 受扰任务仍需要反射控制
+
+**可复用机制** · 用触觉反射在线修正示范。
+
+<a id="paper-zshxqqyhfn"></a>
+
+## Robot-DIFT: Correspondence-Sensitive Diffusion Features for Contact-Rich Robot Manipulation
+
+[会议记录](https://openreview.net/forum?id=zsHXQqYhFn) · [原文](https://openreview.net/pdf?id=zsHXQqYhFn)
+
+- **问题 / 瓶颈** · 语义不变性掩盖毫米级接触差异
+- **核心创新 / 方法** · 把噪声扩散教师蒸馏成干净输入的确定性单步学生，用特征金字塔读出
+- **Baseline** · 视觉语言、自监督、几何及扩散编码器；骨干与读出交换
+- **Benchmark** · RoboCasa、LIBERO-10、真机接触操作
+- **关键结果 / 消融** · 交换实验表明金字塔主要释放扩散对应先验
+- **适用条件 / 局限** · 不同教师和相机位姿下的收益待核实
+
+**可复用机制** · 用蒸馏保留稠密对应，再比较多尺度读出。
+
+<a id="paper-40csfpl2cq"></a>
+
+## Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation
+
+[会议记录](https://openreview.net/forum?id=40CsfPl2cq) · [原文](https://openreview.net/pdf?id=40CsfPl2cq)
+
+- **问题 / 瓶颈** · 少样本下难泛化旋转后的接触状态
+- **核心创新 / 方法** · 视觉与触觉投影到球面，用置换等变融合，并以旋转后的球谐特征条件化等变扩散策略
+- **Baseline** · 视触模仿学习；模型名称待核实
+- **Benchmark** · 仿真与真机，评估数据效率与空间鲁棒性
+- **关键结果 / 消融** · 两方面改善；幅度待核实
+- **适用条件 / 局限** · 需视触坐标校准
+
+**可复用机制** · 用末端姿态旋转共享视触球谐表示。
+
+<a id="paper-lomft7cfyl"></a>
+
+## TDC: Sim-to-Real Transferable Directional Compliance for Contact-Rich Manipulation
+
+[会议记录](https://openreview.net/forum?id=loMfT7cfYl) · [原文](https://openreview.net/pdf?id=loMfT7cfYl)
+
+- **问题 / 瓶颈** · 各向同性控制丢失任务方向，接触动力学难迁移
+- **核心创新 / 方法** · VLA 预测任务坐标系与各轴增益，导纳控制器组合人工刚度与目标力矩
+- **Baseline** · 各向同性及真实域适配路线；具体对照待核实
+- **Benchmark** · 开微波炉、插桩、擦白板、开门，测成功及抗扰
+- **关键结果 / 消融** · 仿真数据训练后可真机运行；幅度待核实
+- **适用条件 / 局限** · 现场仍需指定刚度及目标力
+
+**可复用机制** · 从仿真迁移柔顺方向，现场调幅度。
+
+<a id="paper-9snxcyklb0"></a>
+
+## CompVLA: A Variable Compliance Vision-Language-Action Model for Contact-rich Manipulation
+
+[会议记录](https://openreview.net/forum?id=9SnXCYklB0) · [原文](https://openreview.net/pdf?id=9SnXCYklB0)
+
+- **问题 / 瓶颈** · 仅预测运动不能控制接触让步
+- **核心创新 / 方法** · 独立专家预测时变刚度和虚位移，再用几何阻抗执行
+- **Baseline** · 普通 VLA 和已有柔顺 VLA
+- **Benchmark** · 多种真机接触任务，测平均成功率
+- **关键结果 / 消融** · 作者报告领先且各组件有贡献；数值待核实
+- **适用条件 / 局限** · 需可执行阻抗控制器
+
+**可复用机制** · 为运动策略设置单独的柔顺参数专家。
+
+<a id="paper-kduigyxutd"></a>
+
+## DexFLEX: Contact-Aware Foundation Controller for Command-Guided Dexterity
+
+[会议记录](https://openreview.net/forum?id=KDuIgyXUtd) · [原文](https://openreview.net/pdf?id=KDuIgyXUtd)
+
+- **问题 / 瓶颈** · 指尖运动请求没有规定接触决策
+- **核心创新 / 方法** · 从视触中的触觉与本体状态产生先验及草案引导候选，预测接触后果并挑选
+- **Baseline** · 直接关节策略、仅先验修正
+- **Benchmark** · 劣化命令仿真、真机共享控制与视觉策略
+- **关键结果 / 消融** · 遥操成功从 29.2% 到 78.3%，策略成功 46.7%
+- **适用条件 / 局限** · 触觉反馈与短期接触预测质量决定效果
+
+**可复用机制** · 以预测的接触稳定性筛选上游动作草案。
+
+<a id="paper-patsmtswir"></a>
+
+## Mind the Gap: Rethinking I/O Design for Contact-Rich Visuomotor Policy Learning
+
+[会议记录](https://openreview.net/forum?id=PAtsmTswIr) · [原文](https://openreview.net/pdf?id=PAtsmTswIr)
+
+- **问题 / 瓶颈** · 只看执行会丢掉产生接触的命令偏置
+- **核心创新 / 方法** · EC2C 显式使用命令与执行之差，并扩展到时延自适应动作补全
+- **Baseline** · E2E、E2C
+- **Benchmark** · 低成本设备上的接触、敏感力及动态任务
+- **关键结果 / 消融** · 作者报告优于两对照；数值待核实
+- **适用条件 / 局限** · 差值混入时延、载荷及操作者补偿
+
+**可复用机制** · 同时条件化执行状态和领导器命令，预测未来命令。
+
+<a id="paper-netxisu52q"></a>
+
+## Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force
+
+[会议记录](https://openreview.net/forum?id=NEtxISu52Q) · [原文](https://openreview.net/pdf?id=NEtxISu52Q)
+
+- **问题 / 瓶颈** · 预训练模型缺少力传感，适配易损害旧任务
+- **核心创新 / 方法** · 多阶段 token 融合、未来多感官预测及预训练片段回放
+- **Baseline** · 视觉预训练策略；其他对照待核实
+- **Benchmark** · 真机力矩感知接触任务和原任务
+- **关键结果 / 消融** · 新旧任务均有改善；增益分解待核实
+- **适用条件 / 局限** · 需要兼容视觉与新增传感输入
+
+**可复用机制** · 为新传感器做未来预测，并回放旧视觉数据。
+
+<a id="paper-h26amtgnfu"></a>
+
+## Tactile Curiosity Drives Robot Interaction
+
+[会议记录](https://openreview.net/forum?id=h26AmTGnfu) · [原文](https://openreview.net/pdf?id=h26AmTGnfu)
+
+- **问题 / 瓶颈** · 自由空间的新奇运动消耗接触探索预算
+- **核心创新 / 方法** · 分解逐模态认知不确定度，对触觉通道奖励
+- **Baseline** · 随机探索及一般模型分歧方法；名称待核实
+- **Benchmark** · 无外在奖励操作数据、下游优化、VLA 后训练
+- **关键结果 / 消融** · 采集的交互数据支持零样本优化并改善后训练，幅度待核实
+- **适用条件 / 局限** · 触觉估计噪声可能被当成可学习不确定性
+
+**可复用机制** · 把好奇心奖励限制到触觉不确定性。
+
+<a id="paper-ik1sflqgza"></a>
+
+## KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge
+
+[会议记录](https://openreview.net/forum?id=ik1SfLQgZA) · [原文](https://openreview.net/pdf?id=ik1SfLQgZA)
+
+- **问题 / 瓶颈** · 可解释的判别器仍可能不给策略可用信号
+- **核心创新 / 方法** · 用真实对抗接触平台隔离数据规模、判别梯度和奖励密度
+- **Baseline** · BC、GAIL、BC 先验与奖励密度交叉
+- **Benchmark** · KlaskTron-IL 真机示范及 Isaac Lab
+- **关键结果 / 消融** · GAIL 距离排序 Spearman ρ=-1.0，但梯度过平，BC 扩数据出现平台期
+- **适用条件 / 局限** · 强接触对抗设置；跨任务规律待验证
+
+**可复用机制** · 同时检查判别器语义准确性和用于优化的梯度。
+
+<a id="paper-ch33xueibo"></a>
+
+## FACA: Force-Aware Contact Adaptation for Task-Parameterized Robotic Assembly
+
+[会议记录](https://openreview.net/forum?id=CH33XUEIBO) · [原文](https://openreview.net/pdf?id=CH33XUEIBO)
+
+- **问题 / 瓶颈** · 仅参数条件化无法覆盖摩擦和对齐偏差
+- **核心创新 / 方法** · 用近期力、本体和动作估计接触信念，固定底座，只校准轻量动力学残差
+- **Baseline** · 同低层控制接口；对照名称待核实
+- **Benchmark** · 受控轴向装配，分别改变已知参数和隐藏接触因素
+- **关键结果 / 消融** · 摘要未给量化增益
+- **适用条件 / 局限** · 需要可观测的近期接触信息，范围不是完整 AutoMate
+
+**可复用机制** · 分开已知装配参数与在线隐式接触残差。
+
+<a id="paper-w2h90oezfp"></a>
+
+## ForceBand: Learning Forceful Manipulation with sEMG
+
+[会议记录](https://openreview.net/forum?id=w2H90oEzfp) · [原文](https://openreview.net/pdf?id=w2H90oEzfp)
+
+- **问题 / 瓶颈** · 普通视频和动捕不能恢复手指用力
+- **核心创新 / 方法** · 用用户校准后的肌电与 IMU 预测逐指力，写入机器人训练示范
+- **Baseline** · 视觉式力估计方法
+- **Benchmark** · 10 小时多模态数据；抓取、挤压及放置
+- **关键结果 / 消融** · 力误差降低超过 50%，任务成功 87%
+- **适用条件 / 局限** · 需逐用户校准，佩戴变化可能造成漂移
+
+**可复用机制** · 先用力数据校准腕带，再以其自动标注目标示范。
+
+<a id="paper-riyiqwvpst"></a>
+
+## Hardware-as-Regularization: Enhancing Data Consistency in Imitation Learning via an Adjustable Passive Compliant Leader Arm
+
+[会议记录](https://openreview.net/forum?id=rIyIQWvpST) · [原文](https://openreview.net/pdf?id=rIyIQWvpST)
+
+- **问题 / 瓶颈** · 无复位力的被动遥操臂产生关节漂移
+- **核心创新 / 方法** · 机械离合与弹簧将冗余关节导向选定零位
+- **Baseline** · 普通被动臂及主动虚拟弹簧
+- **Benchmark** · 关节方差与下游任务成功率
+- **关键结果 / 消融** · 轨迹一致性及成功率可比主动方案
+- **适用条件 / 局限** · 机械先验过强可能限制所需动作多样性
+
+**可复用机制** · 以可调机械复位作为冗余关节的采集先验。
+
+<a id="paper-tu2sheg4to"></a>
+
+## Just Learn It: A Data-Harvesting Protocol for Empirical Learning of Effective Assistance Torques in Coupled Systems
+
+[会议记录](https://openreview.net/forum?id=tU2SHEG4to) · [原文](https://openreview.net/pdf?id=tU2SHEG4to)
+
+- **问题 / 瓶颈** · 人体与外骨骼耦合下的解析重力不易辨识
+- **核心创新 / 方法** · 用限速导纳抑制惯性、科氏与主动反射，再做少样本个人校准
+- **Baseline** · 稀疏可穿戴传感的解析模型
+- **Benchmark** · 新受试者重力补偿和个性化动态任务，测扭矩误差
+- **关键结果 / 消融** · 绝对预测误差低于 10%
+- **适用条件 / 局限** · 需安全采集及慢速近似成立
+
+**可复用机制** · 通过缓慢被动运动隔离配置相关负载再学习前馈。
+
+<a id="paper-oias4zzrun"></a>
+
+## Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors
+
+[会议记录](https://openreview.net/forum?id=oias4zZRUn) · [原文](https://openreview.net/pdf?id=oias4zZRUn)
+
+- **问题 / 瓶颈** · 扩散生成中本体外观漂移阻碍三维轨迹恢复
+- **核心创新 / 方法** · 语言生成提示、视频扩散、三维提升；以身份一致性损失约束视频
+- **Baseline** · 普通漂移生成，具体对照待核实
+- **Benchmark** · 7488 条四足动作；真机 Go2 随机抽查 392 条
+- **关键结果 / 消融** · 真机部署成功 96.7%，全数据仿真成功 97.6%
+- **适用条件 / 局限** · 依赖视频到三维恢复及跟踪器能力
+
+**可复用机制** · 给视频合成加跨帧本体身份约束再提取运动。
+
+<a id="paper-x7qoq3qota"></a>
+
+## MorFiC: Fixing Value Miscalibration for Zero-Shot Quadruped Transfer
+
+[会议记录](https://openreview.net/forum?id=X7QOq3QotA) · [原文](https://openreview.net/pdf?id=X7QOq3QotA)
+
+- **问题 / 瓶颈** · 共享价值目标冲突导致优势符号翻转
+- **核心创新 / 方法** · 在形态随机化训练中调制 critic，诊断优势符号及梯度方向
+- **Baseline** · 加法条件化 PPO 与规模化模型
+- **Benchmark** · 七种机器人迁移及 Go1、Go2 真机；速度、校准、训练时间
+- **关键结果 / 消融** · AlienGo 1.98 m/s，加法对照低于 0.65 m/s
+- **适用条件 / 局限** · 仅在四足形态族验证
+
+**可复用机制** · 在 critic 用乘法形态条件化避免跨本体价值平均。
+
+<a id="paper-yqoallpdd3"></a>
+
+## Morphology-Conditioned World Model for Cross-Embodiment Quadrupedal Locomotion
+
+[会议记录](https://openreview.net/forum?id=YQoaLlpDD3) · [原文](https://openreview.net/pdf?id=YQoaLlpDD3)
+
+- **问题 / 瓶颈** · 共享策略难对未见机器人推断动力学
+- **核心创新 / 方法** · 用尺度不变形态特征调节生成动力学，在想象中训练策略并自适应归一奖励
+- **Baseline** · 使用相同形态输入的无模型策略
+- **Benchmark** · 四足训练集合和未见形态零样本迁移
+- **关键结果 / 消融** · 训练形态表现相近，未见形态世界模型更稳；幅度待核实
+- **适用条件 / 局限** · 需要形态参数可得，跨物种结构待验证
+
+**可复用机制** · 把形态描述输入动力学而不仅是 actor。
+
+<a id="paper-ss9fjkkksm"></a>
+
+## LoComposition: Terrain-Adaptive Energy-Efficient Quadruped Locomotion without Gait Priors
+
+[会议记录](https://openreview.net/forum?id=sS9FjkKKsm) · [原文](https://openreview.net/pdf?id=sS9FjkKKsm)
+
+- **问题 / 瓶颈** · 混合奖励同时定义步态、任务及限制，难诊断
+- **核心创新 / 方法** · 分离任务奖励、操作约束、能效目标与外感地形
+- **Baseline** · 常规复杂奖励，各组件移除
+- **Benchmark** · 地形穿越、运输成本、违规及 Go2 零样本
+- **关键结果 / 消融** · 能耗成本降 56%，违规降 96%，穿越可比
+- **适用条件 / 局限** · 依赖可定义的约束和可靠地形感知
+
+**可复用机制** · 将运行边界写约束，让能耗目标诱导步态。
+
+<a id="paper-vkvm1q9fbn"></a>
+
+## Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains
+
+[会议记录](https://openreview.net/forum?id=VKVM1q9FbN) · [原文](https://openreview.net/pdf?id=VKVM1q9FbN)
+
+- **问题 / 瓶颈** · 水平面稳定指标和低质心偏好会造成深蹲步态
+- **核心创新 / 方法** · 局部面表观 ZMP 正则，再以地形描述调质心和关节先验
+- **Baseline** · 两阶段训练；基线名称待核实
+- **Benchmark** · Unitree G1 室外草坡，盲行
+- **关键结果 / 消融** · 真机连续通过最高 25° 草坡
+- **适用条件 / 局限** · 针对斜坡的先验未必适合断续地面
+
+**可复用机制** · 按坡面坐标定义稳定性，并仅在训练时使用坡度调节奖励。
+
+<a id="paper-zyppmdicvv"></a>
+
+## RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains
+
+[会议记录](https://openreview.net/forum?id=zYpPmDICVV) · [原文](https://openreview.net/pdf?id=zYpPmDICVV)
+
+- **问题 / 瓶颈** · 多向移动遇到不同视野与地形宽度
+- **核心创新 / 方法** · 特权专家蒸馏到多深度相机 Transformer，增加速度缩放与随机侧遮蔽
+- **Baseline** · 普通深度蒸馏与现有模拟渲染
+- **Benchmark** · 真机 2 kg 载荷、20° 坡、楼梯和稀疏踏点
+- **关键结果 / 消融** · 深度模拟快五倍，作者报告多方向通过
+- **适用条件 / 局限** · 多相机布局及噪声模型会影响迁移
+
+**可复用机制** · 按命令速度调整深度特征并随机遮侧视角。
+
+<a id="paper-o7lrmassjs"></a>
+
+## Hiking in the Wild: A Scalable Perceptive Legged Parkour Framework for Humanoid Robots
+
+[会议记录](https://openreview.net/forum?id=O7LrmASsJS) · [原文](https://openreview.net/pdf?id=O7LrmASsJS)
+
+- **问题 / 瓶颈** · 随机目标会诱导奖励投机，单点落足易滑边
+- **核心创新 / 方法** · 结合地形边缘检测、足部体积点与平面目标采样
+- **Baseline** · 摘要未列对照名称
+- **Benchmark** · Unitree G1 不规则地形穿越
+- **关键结果 / 消融** · 最高速度 2.5 m/s；分项贡献待核实
+- **适用条件 / 局限** · 依赖深度分辨率和边缘估计
+
+**可复用机制** · 只采样可站立目标并用足部体积约束边缘着地。
+
+<a id="paper-eioq9vj6oj"></a>
+
+## Echo in the Steps: Learning Perceptive Humanoid Parkour with Gated Memory
+
+[会议记录](https://openreview.net/forum?id=eioQ9vJ6Oj) · [原文](https://openreview.net/pdf?id=eioQ9vJ6Oj)
+
+- **问题 / 瓶颈** · 稀疏踏点可能在摆腿期间离开当前视野
+- **核心创新 / 方法** · 保留任务相关深度特征，以交替损失约束步态
+- **Baseline** · 无门控及无交替对照待核实
+- **Benchmark** · 仿真、真机跑酷，测成功率与落足准确
+- **关键结果 / 消融** · 均改善，数值待核实
+- **适用条件 / 局限** · 记忆过时可能引入错位
+
+**可复用机制** · 以落足显著性门控深度记忆。
+
+<a id="paper-4it3fcnny2"></a>
+
+## SSR: Scaling Surefooted and Symmetric Humanoid Traversal Toward the Open World
+
+[会议记录](https://openreview.net/forum?id=4IT3fcnny2) · [原文](https://openreview.net/pdf?id=4IT3fcnny2)
+
+- **问题 / 瓶颈** · 高维视觉下难兼顾地形落脚和两侧协调
+- **核心创新 / 方法** · 预测摆脚接触及支撑度，加入等变潜增强和分地形动作判别器
+- **Baseline** · 摘要未列对照
+- **Benchmark** · 真机户外、楼梯、宽缝及高台
+- **关键结果 / 消融** · 作者报告稳定长程穿越；模块效应待核实
+- **适用条件 / 局限** · 地形编码应满足左右对应
+
+**可复用机制** · 在潜空间做双侧等变增强，并提前判断摆脚支撑。
+
+<a id="paper-jbpsghdjs9"></a>
+
+## MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction
+
+[会议记录](https://openreview.net/forum?id=JbpsGhdjs9) · [原文](https://openreview.net/pdf?id=JbpsGhdjs9)
+
+- **问题 / 瓶颈** · 视频重建噪声与动作地形不一致导致穿插
+- **核心创新 / 方法** · 用运动学一致性筛动作，再接触不变地映射至机器人
+- **Baseline** · 摘要未列对照
+- **Benchmark** · 单目视频重建与复杂地形动作控制
+- **关键结果 / 消融** · 作者报告动态动作可执行；幅度待核实
+- **适用条件 / 局限** · 要求重建可见表面与接触
+
+**可复用机制** · 重定向时保持人和场景接触关系。
+
+<a id="paper-c5oil7jqbq"></a>
+
+## Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain
+
+[会议记录](https://openreview.net/forum?id=c5oiL7JqbQ) · [原文](https://openreview.net/pdf?id=c5oiL7JqbQ)
+
+- **问题 / 瓶颈** · 人类参考动作与机器人现场地形不匹配
+- **核心创新 / 方法** · 先合成地形一致参考训练教师，再经目标坐标动作对齐蒸馏，恒等门控保留骨干
+- **Baseline** · 等计算量训练消融
+- **Benchmark** · 多样地形与运动的定性真机，并做参考合成分析
+- **关键结果 / 消融** · 一套策略覆盖多种动作；量化真机数字待核实
+- **适用条件 / 局限** · 依赖地形观测及可合成的稳态支撑
+
+**可复用机制** · 部署保留原始动作指令，仅用地形残差在局部修正。
+
+<a id="paper-iy6ti85pg0"></a>
+
+## MARCH: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds
+
+[会议记录](https://openreview.net/forum?id=IY6ti85pg0) · [原文](https://openreview.net/pdf?id=IY6ti85pg0)
+
+- **问题 / 瓶颈** · 无模型难发现狭窄可行轨迹
+- **核心创新 / 方法** · 生成参考轨迹，CLF 引导特权教师，再蒸馏视觉学生
+- **Baseline** · 无模型基线
+- **Benchmark** · 仿真踏石、G1 真机稀疏落足
+- **关键结果 / 消融** · 样本效率与平滑性改善，踏石表现可比
+- **适用条件 / 局限** · 参考模型需能给出可行轨迹
+
+**可复用机制** · 用简化模型安全轨迹构造 Lyapunov 奖励再蒸馏。
+
+<a id="paper-jwkaxdmqkb"></a>
+
+## SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion
+
+[会议记录](https://openreview.net/forum?id=JWkaXdmqKb) · [原文](https://openreview.net/pdf?id=JWkaXdmqKb)
+
+- **问题 / 瓶颈** · 逐步模仿忽略动作造成的后续状态偏差
+- **核心创新 / 方法** · 按单元查询深度保持边缘，将下一状态分歧作为轨迹级代价
+- **Baseline** · 普通蒸馏及密集地形表征；细节待核实
+- **Benchmark** · 人形稀疏踏点压力测试和真机户外 1.5 km
+- **关键结果 / 消融** · 地形误差最多降四倍，极端踏点成功从 3% 到 96%
+- **适用条件 / 局限** · 依赖教师可信度和足够的训练状态覆盖
+
+**可复用机制** · 把下一状态的师生分歧放进 RL 奖励。
+
+<a id="paper-317szv2vus"></a>
+
+## PROOF: Perceptive Robustness via Out-of-Distribution Fallback for Legged Locomotion
+
+[会议记录](https://openreview.net/forum?id=317SZV2vuS) · [原文](https://openreview.net/pdf?id=317SZV2vuS)
+
+- **问题 / 瓶颈** · 遮挡反光使策略继续信赖错误深度
+- **核心创新 / 方法** · 教师同时学习正常和回退行为，学生估计外感不确定性后门控
+- **Baseline** · 摘要未列具体对照
+- **Benchmark** · Go2 与 D435 真机，遮挡和照明变化
+- **关键结果 / 消融** · 正常可跑酷，严重受损仍可稳定运动
+- **适用条件 / 局限** · 门控错误会丢弃有效信号
+
+**可复用机制** · 训练本体感知回退，并以外感不确定性抑制受损特征。
+
+<a id="paper-oq5byppu7q"></a>
+
+## CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising
+
+[会议记录](https://openreview.net/forum?id=oq5Byppu7Q) · [原文](https://openreview.net/pdf?id=oq5Byppu7Q)
+
+- **问题 / 瓶颈** · 二元盲控切换浪费可恢复深度
+- **核心创新 / 方法** · 用干净深度监督去噪，并同步学习本体编码；结合噪声课程与潜特征 dropout
+- **Baseline** · 感知策略和二元切换
+- **Benchmark** · 仿真退化曲线及 G1 真机间歇遮挡和室外噪声
+- **关键结果 / 消融** · 部分受损时退化更平滑
+- **适用条件 / 局限** · 依赖训练覆盖实际传感器故障
+
+**可复用机制** · 部分深度损坏时连续使用剩余信号。
+
+<a id="paper-umgoyxmgn2"></a>
+
+## RoboDreamer: Anticipatory Humanoid Locomotion with Predictive State-Space Models
+
+[会议记录](https://openreview.net/forum?id=uMgOYXmgn2) · [原文](https://openreview.net/pdf?id=uMgOYXmgn2)
+
+- **问题 / 瓶颈** · 无记忆策略难处理丢帧，Transformer 计算较高
+- **核心创新 / 方法** · Mamba 同时恢复缺失观测、预测状态并生成动作块
+- **Baseline** · MLP 和 Transformer
+- **Benchmark** · 人形步态，测掩蔽观测下鲁棒性与在线效率
+- **关键结果 / 消融** · 作者报告鲁棒和效率优势；数值待核实
+- **适用条件 / 局限** · 连续缺失超过可预测时域时可能失稳
+
+**可复用机制** · 用时序遮蔽训练状态空间模型补全观测。
+
+<a id="paper-l9rkfeukrc"></a>
+
+## HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control
+
+[会议记录](https://openreview.net/forum?id=L9RkFeuKRc) · [原文](https://openreview.net/pdf?id=L9RkFeuKRc)
+
+- **问题 / 瓶颈** · 并行生成会让上肢补偿不准确的底座动作
+- **核心创新 / 方法** · 复用预训练流，阶段嵌入区分子任务并跨阶段传递 KV
+- **Baseline** · 已有移动操作 VLA
+- **Benchmark** · 六项真机人形移动操作任务
+- **关键结果 / 消融** · 作者报告改善；分项增益待核实
+- **适用条件 / 局限** · 阶段顺序应符合运动依赖
+
+**可复用机制** · 按移动、腰部和操作顺序细化同一全身动作。
+
+<a id="paper-7uebdg4kra"></a>
+
+## ADAPT: Agile Diffusion Action Priors for Robust and Steerable Online Text-Driven Humanoid Control
+
+[会议记录](https://openreview.net/forum?id=7UeBDg4KRa) · [原文](https://openreview.net/pdf?id=7UeBDg4KRa)
+
+- **问题 / 瓶颈** · 交互语言切换需要在维持平衡同时响应
+- **核心创新 / 方法** · 从带文字的状态动作轨迹学习扩散先验，再训练轻量残差 RL
+- **Baseline** · 讨论独立动作跟踪路线；名称待核实
+- **Benchmark** · 交互语言与下游风格保持
+- **关键结果 / 消融** · 作者报告切换平稳、语言动作稳健
+- **适用条件 / 局限** · 需要语言对齐的全身动作记录
+
+**可复用机制** · 用残差策略补偿冻结语言动作先验的长程误差。
+
+<a id="paper-uscrywxsuc"></a>
+
+## TEXEDO : Test Time Scaling for Controller-aware Language-conditioned Humanoid Motion Generation
+
+[会议记录](https://openreview.net/forum?id=USCrYWxsUc) · [原文](https://openreview.net/pdf?id=USCrYWxsUc)
+
+- **问题 / 瓶颈** · 重定向动作语义合理但不一定适合当前控制器
+- **核心创新 / 方法** · 从跟踪滚动蒸馏可执行性验证器，联合语义验证器筛多个候选
+- **Baseline** · 未筛选的预训练动作生成
+- **Benchmark** · 大规模仿真与 G1 真机；追踪与语言对齐
+- **关键结果 / 消融** · 作者报告两指标改善；成本曲线待核实
+- **适用条件 / 局限** · 验证器随控制器和环境变化需校验
+
+**可复用机制** · 先硬筛动态可行，再按语言匹配排序。
+
+<a id="paper-93legzrapv"></a>
+
+## InfiniDanceRobot: A Streaming and Closed-Loop Music-driven Dance Generation for Humanoid Robot
+
+[会议记录](https://openreview.net/forum?id=93leGzRaPV) · [原文](https://openreview.net/pdf?id=93leGzRaPV)
+
+- **问题 / 瓶颈** · 长序列生成中的轻微不可行性会积累
+- **核心创新 / 方法** · 扩散强制配因果滚动噪声与音乐对齐，用跟踪反馈修正下一 token
+- **Baseline** · 开环规划思路；具体对照待核实
+- **Benchmark** · 约 50 小时舞蹈数据和人形真机，多曲风连续舞蹈
+- **关键结果 / 消融** · 作者报告连续且物理合理；量化细节待核实
+- **适用条件 / 局限** · 依赖跟踪反馈及时和音乐动作对齐
+
+**可复用机制** · 训练和推理都用跟踪器反馈校正下一动作潜变量。
+
+<a id="paper-xcdyj95l5p"></a>
+
+## HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model
+
+[会议记录](https://openreview.net/forum?id=xcDyj95l5P) · [原文](https://openreview.net/pdf?id=xcDyj95l5P)
+
+- **问题 / 瓶颈** · 无动捕时如何采集可用适配数据
+- **核心创新 / 方法** · 按适应强度低频扰动参考，结合可微正运动学训练历史动力学，再通过模型梯度微调
+- **Baseline** · 仿真训练跟踪策略
+- **Benchmark** · Unitree G1，多种扰动
+- **关键结果 / 消融** · 报告真机快速适配
+- **适用条件 / 局限** · 依赖本体状态可观测与模型梯度可信
+
+**可复用机制** · 对照验证。按适应强度低频扰动参考，结合可微正运动学训练历史动力学，再通过模型梯度微调。按所列评测比较此改动的收益。
+
+<a id="paper-ht8whuvp22"></a>
+
+## CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning
+
+[会议记录](https://openreview.net/forum?id=HT8whUVp22) · [原文](https://openreview.net/pdf?id=HT8whUVp22)
+
+- **问题 / 瓶颈** · 托管 SFT 接口无法直接做策略梯度
+- **核心创新 / 方法** · 将部署奖励反馈转化为下一轮监督数据，反复调用托管接口
+- **Baseline** · 同示范开放权重 VLA、直接托管 SFT
+- **Benchmark** · GROD 真人人形敏捷接触操作
+- **关键结果 / 消融** · 两轮后报告接近完全成功
+- **适用条件 / 局限** · 需要奖励判别和可重复部署
+
+**可复用机制** · 对照验证。将部署奖励反馈转化为下一轮监督数据，反复调用托管接口。按所列评测比较此改动的收益。
+
+<a id="paper-mmrhlrwlfx"></a>
+
+## FADA: Few-Shot Domain Adaptation via Dynamics Alignment for Humanoid Control
+
+[会议记录](https://openreview.net/forum?id=mMRhLrwLFx) · [原文](https://openreview.net/pdf?id=mMRhLrwLFx)
+
+- **问题 / 瓶颈** · 目标域同指令产生不同运动
+- **核心创新 / 方法** · 用 DAgger 蒸馏特权教师为规划器和逆动力学，部署仅微调逆模型
+- **Baseline** · 上下文适配与端到端适配
+- **Benchmark** · 地形、载荷及执行器偏移的人形全身任务
+- **关键结果 / 消融** · 约两分钟采集即可适配并优于所比方案
+- **适用条件 / 局限** · 依赖规划目标对新域仍有效
+
+**可复用机制** · 对照验证。用 DAgger 蒸馏特权教师为规划器和逆动力学，部署仅微调逆模型。按所列评测比较此改动的收益。
+
+<a id="paper-8klpl3fxjn"></a>
+
+## Unsupervised Actuator Networks as a Residual World Model for Humanoid Control
+
+[会议记录](https://openreview.net/forum?id=8klpl3FXjN) · [原文](https://openreview.net/pdf?id=8klpl3FXjN)
+
+- **问题 / 瓶颈** · 错误仿真初始化会污染残差目标
+- **核心创新 / 方法** · 从本体传感对齐浮基速度及接触力，再开环回放辨识执行器残差
+- **Baseline** · 物理仿真与纯神经模型路线
+- **Benchmark** · 真机人形步行及末端力控制
+- **关键结果 / 消融** · 报告迁移鲁棒性和精确力控
+- **适用条件 / 局限** · 接触和浮基估计误差仍可能污染辨识
+
+**可复用机制** · 对照验证。从本体传感对齐浮基速度及接触力，再开环回放辨识执行器残差。按所列评测比较此改动的收益。
+
+<a id="paper-pqdtunzqlj"></a>
+
+## ADAPT: Analytical Disturbance-Aware Policy Training for Humanoid Locomotion
+
+[会议记录](https://openreview.net/forum?id=PQdtUNzQLj) · [原文](https://openreview.net/pdf?id=PQdtUNzQLj)
+
+- **问题 / 瓶颈** · 仅本体历史难跨域推断外力
+- **核心创新 / 方法** · 将解析全身扰动观察器的力矩残差直接输入策略
+- **Baseline** · 仅本体观测
+- **Benchmark** · G1 躯干扰动、推力及手部偏置负载
+- **关键结果 / 消融** · 报告更稳健且未见扰动下速度跟踪改善
+- **适用条件 / 局限** · 依赖动力学标定
+
+**可复用机制** · 对照验证。将解析全身扰动观察器的力矩残差直接输入策略。按所列评测比较此改动的收益。
+
+<a id="paper-u2oevtdvx8"></a>
+
+## Walk Like This: Stylized Locomotion for Physics-Based Characters through Example-Driven Diffusion
+
+[会议记录](https://openreview.net/forum?id=u2oeVtdVX8) · [原文](https://openreview.net/pdf?id=u2oeVtdVX8)
+
+- **问题 / 瓶颈** · 无显式标签时风格与速度混杂
+- **核心创新 / 方法** · 采样训练风格编码器，以参考片段和速度条件自回归扩散生成可跟踪动作
+- **Baseline** · 显式风格标签路线
+- **Benchmark** · 仿真人形角色及真机
+- **关键结果 / 消融** · 报告连续调节与未见风格泛化
+- **适用条件 / 局限** · 受动作语料和跟踪器可行性限制
+
+**可复用机制** · 对照验证。采样训练风格编码器，以参考片段和速度条件自回归扩散生成可跟踪动作。按所列评测比较此改动的收益。
+
+<a id="paper-mday00wzfr"></a>
+
+## Koopman DCM: Unstable Eigenfunctions as Data-driven Representations for Legged Balancing
+
+[会议记录](https://openreview.net/forum?id=mday00WZFr) · [原文](https://openreview.net/pdf?id=mday00WZFr)
+
+- **问题 / 瓶颈** · 倒立摆发散分量难用于一般动力学
+- **核心创新 / 方法** · 从测量历史寻找不稳定 Koopman 特征函数并按控制耦合正则化
+- **Baseline** · 简化模型 DCM
+- **Benchmark** · 腿式机器人平衡和步态参考跟踪
+- **关键结果 / 消融** · 报告一小时数据训练的表示改善跟踪
+- **适用条件 / 局限** · 需要闭环历史覆盖不稳定模态
+
+**可复用机制** · 对照验证。从测量历史寻找不稳定 Koopman 特征函数并按控制耦合正则化。按所列评测比较此改动的收益。
+
+<a id="paper-mru8ihzsqr"></a>
+
+## Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning
+
+[会议记录](https://openreview.net/forum?id=mru8iHzSqR) · [原文](https://openreview.net/pdf?id=mru8iHzSqR)
+
+- **问题 / 瓶颈** · 探索轨迹过早终止
+- **核心创新 / 方法** · 从高刚度开始并按完成时长逐步退火到辨识刚度
+- **Baseline** · 固定辨识刚度
+- **Benchmark** · 倒立摆可生存核、Spot 倒立转移
+- **关键结果 / 消融** · 固定刚度不收敛，课程十种子成功并迁移硬件
+- **适用条件 / 局限** · 核单调性证明依赖所设动力学
+
+**可复用机制** · 对照验证。从高刚度开始并按完成时长逐步退火到辨识刚度。按所列评测比较此改动的收益。
+
+<a id="paper-0muj0bxujh"></a>
+
+## Trajectory-Level Automatic Curriculum Learning for Legged Locomotion on Unstructured Terrain
+
+[会议记录](https://openreview.net/forum?id=0mUj0bXuJh) · [原文](https://openreview.net/pdf?id=0mUj0bXuJh)
+
+- **问题 / 瓶颈** · 非结构化地形没有固定难度序
+- **核心创新 / 方法** · 按当前策略学习轨迹难度，迭代引导地图上的轨迹采样
+- **Baseline** · 直接训练、手工课程
+- **Benchmark** · 非结构化地形的路线通过率
+- **关键结果 / 消融** · 较直接训练提升56.3%，最难任务较手工课程提升18.5%
+- **适用条件 / 局限** · 难度模型需随策略更新
+
+**可复用机制** · 对照验证。按当前策略学习轨迹难度，迭代引导地图上的轨迹采样。按所列评测比较此改动的收益。
+
+<a id="paper-rje0dllpev"></a>
+
+## SHOES: Sim-to-real Hardware-adaptation via On-policy Expansion of Skills for Legged Robots
+
+[会议记录](https://openreview.net/forum?id=rJe0dLlPev) · [原文](https://openreview.net/pdf?id=rJe0dLlPev)
+
+- **问题 / 瓶颈** · 触地形态改变使原策略退化
+- **核心创新 / 方法** · 冻结原策略，训练恒等初始化调制模块，以工作区采样限制收集
+- **Baseline** · FiLM、线性适配器、残差 RL
+- **Benchmark** · 换鞋 Go2 仿真及真机
+- **关键结果 / 消融** · 同预算仿真下优于所比适配
+- **适用条件 / 局限** · 需要受控工作区，证据集中于足部改变
+
+**可复用机制** · 对照验证。冻结原策略，训练恒等初始化调制模块，以工作区采样限制收集。按所列评测比较此改动的收益。
+
+<a id="paper-jwpvrd730l"></a>
+
+## Damage-Aware Quadruped Locomotion: Zero-Shot Adaptation to Motor Failures via Pain-Inspired Reinforcement Learning
+
+[会议记录](https://openreview.net/forum?id=JwpvRd730L) · [原文](https://openreview.net/pdf?id=JwpvRd730L)
+
+- **问题 / 瓶颈** · 电机突然失效导致动作恶化
+- **核心创新 / 方法** · 将健康线索接入策略与奖励，并课程式提高故障概率
+- **Baseline** · 作者采用的先进故障控制对照
+- **Benchmark** · Isaac Gym 与真机，弱电机及锁关节
+- **关键结果 / 消融** · 报告各类故障下速度跟踪误差降低
+- **适用条件 / 局限** · 依赖可感知执行器健康
+
+**可复用机制** · 对照验证。将健康线索接入策略与奖励，并课程式提高故障概率。按所列评测比较此改动的收益。
+
+<a id="paper-fk33gnkkgf"></a>
+
+## Mind the Phase: Effective Rank and Representation Health in Legged Locomotion
+
+[会议记录](https://openreview.net/forum?id=FK33gnkKgF) · [原文](https://openreview.net/pdf?id=FK33gnkKgF)
+
+- **问题 / 瓶颈** · 全局有效秩掩盖步态阶段差异
+- **核心创新 / 方法** · 按摆动和支撑分别统计雅可比有效秩，比较归一化及残差结构
+- **Baseline** · 普通 MLP
+- **Benchmark** · 仿真与 Spot 的腿式行走
+- **关键结果 / 消融** · 摆动主导状态多逾一个有效维度，关节抖动最多减半
+- **适用条件 / 局限** · 有效秩为代理量
+
+**可复用机制** · 对照验证。按摆动和支撑分别统计雅可比有效秩，比较归一化及残差结构。按所列评测比较此改动的收益。
+
+<a id="paper-xqgbzwsuxt"></a>
+
+## Push the Limit: Learning High-Speed Sprinting and Aggressive Cornering on a Full-Scale Humanoid
+
+[会议记录](https://openreview.net/forum?id=XQGBZwsuXt) · [原文](https://openreview.net/pdf?id=XQGBZwsuXt)
+
+- **问题 / 瓶颈** · 高速步态天然偏航振荡与逐步奖励冲突
+- **核心创新 / 方法** · 用低频速度方向取代瞬时偏航率目标，辅以时序注意力与技能条件判别器
+- **Baseline** · 平铺历史 MLP、偏航率跟踪、共享判别器
+- **Benchmark** · 全尺寸人形仿真与真机冲刺转弯
+- **关键结果 / 消融** · 速度逾7米每秒，躯体倾斜达25度，摘要报告移回偏航率奖励后无法高速转弯
+- **适用条件 / 局限** · 阈值受机器人和步态影响
+
+**可复用机制** · 对照验证。用低频速度方向取代瞬时偏航率目标，辅以时序注意力与技能条件判别器。按所列评测比较此改动的收益。
+
+<a id="paper-tk1gtgoesr"></a>
+
+## MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking
+
+[会议记录](https://openreview.net/forum?id=Tk1gtgOESR) · [原文](https://openreview.net/pdf?id=Tk1gtgOESR)
+
+- **问题 / 瓶颈** · 动态路由会使新旧策略差异估计失准
+- **核心创新 / 方法** · 交替更新专家与路由器以避免同步更新混淆
+- **Baseline** · 普通策略梯度训练 MoE
+- **Benchmark** · 人形动作跟踪，以奖励、成功率与误差衡量
+- **关键结果 / 消融** · 奖励约1.8倍
+- **适用条件 / 局限** · 适用于动态路由下的策略差异约束
+
+**可复用机制** · 对照验证。交替更新专家与路由器以避免同步更新混淆。按所列评测比较此改动的收益。
+
+<a id="paper-gqmj7sik5q"></a>
+
+## CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation
+
+[会议记录](https://openreview.net/forum?id=gqmJ7SIK5Q) · [原文](https://openreview.net/pdf?id=gqmJ7SIK5Q)
+
+- **问题 / 瓶颈** · 稠密跟踪目标可能阻碍受力让步
+- **核心创新 / 方法** · 事后按扰动改写稀疏目标，保留稠密参考
+- **Baseline** · 原始轨迹跟踪路线
+- **Benchmark** · 擦拭、推车、开门及多机运输
+- **关键结果 / 消融** · 报告同时保持敏捷与受力交互能力
+- **适用条件 / 局限** · 需可定义合理的稀疏目标改写
+
+**可复用机制** · 对照验证。事后按扰动改写稀疏目标，保留稠密参考。按所列评测比较此改动的收益。
+
+<a id="paper-siyferhqrn"></a>
+
+## λ-Reachability: Geometric-Horizon Safety Bellman Equations for Humanoid Safety
+
+[会议记录](https://openreview.net/forum?id=sIYfeRhQrn) · [原文](https://openreview.net/pdf?id=sIYfeRhQrn)
+
+- **问题 / 瓶颈** · 一步 TD 难估计长时可达边界
+- **核心创新 / 方法** · 采用几何分布的随机预测长度与概率吸收终点，构造多步安全值估计
+- **Baseline** · 一步 TD
+- **Benchmark** · 人形仿真与真机平衡和避障
+- **关键结果 / 消融** · 报告边界分类及安全裕量改善，吸收参数小于1时有压缩性
+- **适用条件 / 局限** · 经验近似误差与理论假设须区分
+
+**可复用机制** · 对照验证。采用几何分布的随机预测长度与概率吸收终点，构造多步安全值估计。按所列评测比较此改动的收益。
+
+<a id="paper-0hs0to0evo"></a>
+
+## MPC-Injection: Biasing Off-Policy Locomotion RL Toward Controller-Induced Behavior Basins
+
+[会议记录](https://openreview.net/forum?id=0HS0to0eVo) · [原文](https://openreview.net/pdf?id=0HS0to0eVo)
+
+- **问题 / 瓶颈** · 简单奖励容易收敛到不可部署步态
+- **核心创新 / 方法** · 把求解同一 MDP 的 MPC 转移加入离策略回放
+- **Baseline** · 21项奖励塑形与对抗动作先验
+- **Benchmark** · 二维步行仿真、Go2 迁移
+- **关键结果 / 消融** · 少量奖励项得到定性可比步态
+- **适用条件 / 局限** · 需有能覆盖期望行为的控制器
+
+**可复用机制** · 对照验证。把求解同一 MDP 的 MPC 转移加入离策略回放。按所列评测比较此改动的收益。
+
+<a id="paper-2xr8oasjum"></a>
+
+## Continual Quadruped Robots Coordination via Sementic Skill Discover
+
+[会议记录](https://openreview.net/forum?id=2xR8oasJuM) · [原文](https://openreview.net/pdf?id=2xR8oasJuM)
+
+- **问题 / 瓶颈** · 团队规模变化与新任务使旧技能难迁移
+- **核心创新 / 方法** · 显式分别编码自身、队友及目标，以任务语义检索，成功后按轨迹语义更新技能库
+- **Baseline** · 固定任务族多智能体强化学习路线
+- **Benchmark** · 仿真与 Unitree Go2 团队
+- **关键结果 / 消融** · 仿真最终平均成功率95.6%
+- **适用条件 / 局限** · 任务描述需提供有效检索线索
+
+**可复用机制** · 对照验证。显式分别编码自身、队友及目标，以任务语义检索，成功后按轨迹语义更新技能库。按所列评测比较此改动的收益。
+
+<a id="paper-ynmzwxz68a"></a>
+
+## BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving
+
+[会议记录](https://openreview.net/forum?id=YnMZwXZ68A) · [原文](https://openreview.net/pdf?id=YnMZwXZ68A)
+
+- **问题 / 瓶颈** · 开环高分不保证反应式部署
+- **核心创新 / 方法** · 分别分析观测偏移与目标错配，并在测试时校准偏移、值偏差和时间一致性
+- **Baseline** · 开环策略和适配对照
+- **Benchmark** · 自动驾驶开闭环评测
+- **关键结果 / 消融** · 观测偏移较易修复，目标错配形成主要结构限制
+- **适用条件 / 局限** · 广泛任务的因果外推待检验
+
+**可复用机制** · 对照验证。分别分析观测偏移与目标错配，并在测试时校准偏移、值偏差和时间一致性。按所列评测比较此改动的收益。
+
+<a id="paper-eszgt1eizr"></a>
+
+## Scaling Self-Play for End-to-End Driving
+
+[会议记录](https://openreview.net/forum?id=EsZGt1eIZr) · [原文](https://openreview.net/pdf?id=EsZGt1eIZr)
+
+- **问题 / 瓶颈** · 大模型像素自博弈直接 RL 采样昂贵
+- **核心创新 / 方法** · 简化透视渲染，在学生在线自博弈状态向特权 RL 教师蒸馏，再迁移感知
+- **Baseline** · 向量 BEV 自博弈及直接像素 RL 路线
+- **Benchmark** · HUGSIM、NAVSIM-v2
+- **关键结果 / 消融** · 简化模拟每秒约5万步，报告无人工轨迹也具竞争力
+- **适用条件 / 局限** · 依赖简化渲染保留行为相关线索
+
+**可复用机制** · 对照验证。简化透视渲染，在学生在线自博弈状态向特权 RL 教师蒸馏，再迁移感知。按所列评测比较此改动的收益。
+
+<a id="paper-lqur3gxkdh"></a>
+
+## DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving
+
+[会议记录](https://openreview.net/forum?id=LqUR3gxKdH) · [原文](https://openreview.net/pdf?id=LqUR3gxKdH)
+
+- **问题 / 瓶颈** · 图像逼真度未必代表策略可用性
+- **核心创新 / 方法** · 在多个公开策略的场景特征空间测 Fréchet 距离
+- **Baseline** · FID 与既有闭环模拟器
+- **Benchmark** · nuScenes、NAVSIM 及 Navhard-CL
+- **关键结果 / 消融** · 作者报告所提距离相对强闭环对照分别改善1.6倍和4.7倍
+- **适用条件 / 局限** · 指标依赖选定策略的特征
+
+**可复用机制** · 对照验证。在多个公开策略的场景特征空间测 Fréchet 距离。按所列评测比较此改动的收益。
+
+<a id="paper-9ccdcinkm9"></a>
+
+## DriveMLP: When Training Strategy Outperforms Model Complexity in Autonomous Driving
+
+[会议记录](https://openreview.net/forum?id=9ccdcInkM9) · [原文](https://openreview.net/pdf?id=9ccdcInkM9)
+
+- **问题 / 瓶颈** · 离线监督无法纠正闭环分布偏移
+- **核心创新 / 方法** · 以专家轨迹距离为奖励，在闭环用 RL 优化轻量 MLP
+- **Baseline** · Flow Planner
+- **Benchmark** · nuPlan Val14 Reactive
+- **关键结果 / 消融** · 86.51分，较所引对照高3.2分，推理超15倍快
+- **适用条件 / 局限** · 偏离专家覆盖时奖励可能失真
+
+**可复用机制** · 对照验证。以专家轨迹距离为奖励，在闭环用 RL 优化轻量 MLP。按所列评测比较此改动的收益。
+
+<a id="paper-ckvuqg4yqf"></a>
+
+## Judge, Then Act: A Critic-Centric Vision Language Action Framework for Autonomous Driving
+
+[会议记录](https://openreview.net/forum?id=CKVUqG4YQf) · [原文](https://openreview.net/pdf?id=CKVUqG4YQf)
+
+- **问题 / 瓶颈** · 直接生成轨迹缺少显式质量判断
+- **核心创新 / 方法** · 先生成草案，再用多模态 VLA 评估并做一次优化
+- **Baseline** · 先进驾驶方法，名称待核实
+- **Benchmark** · Bench2Drive 闭环
+- **关键结果 / 消融** · 总成功率73.33%，困难情境报告约30%改善
+- **适用条件 / 局限** · 依赖轨迹评分监督和 critic 校准
+
+**可复用机制** · 对照验证。先生成草案，再用多模态 VLA 评估并做一次优化。按所列评测比较此改动的收益。
+
+<a id="paper-b7gccztjye"></a>
+
+## DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions
+
+[会议记录](https://openreview.net/forum?id=B7gccZTJyE) · [原文](https://openreview.net/pdf?id=B7gccZTJyE)
+
+- **问题 / 瓶颈** · 语言计划与真实运动难密集对齐
+- **核心创新 / 方法** · 以规则从轨迹抽取并核验元动作，指导监督训练和轮次信用分配
+- **Baseline** · 摘要未列独立基线
+- **Benchmark** · Waymo E2E、NAVSIM
+- **关键结果 / 消融** · 2B和4B的RFS分别为8.060和8.079
+- **适用条件 / 局限** · 规则必须可覆盖所需意图
+
+**可复用机制** · 对照验证。以规则从轨迹抽取并核验元动作，指导监督训练和轮次信用分配。按所列评测比较此改动的收益。
+
+<a id="paper-eweki0rf6v"></a>
+
+## GeoWorldAD: Geometry World Action Model for Autonomous Driving
+
+[会议记录](https://openreview.net/forum?id=EWEKI0rF6v) · [原文](https://openreview.net/pdf?id=EWEKI0rF6v)
+
+- **问题 / 瓶颈** · 像素未来含与轨迹无关的细节
+- **核心创新 / 方法** · 以未来深度监督学习自车条件几何 token，用当前和未来 token 精修轨迹
+- **Baseline** · 像素未来预测路线
+- **Benchmark** · NavSim v1、v2
+- **关键结果 / 消融** · 报告闭环驾驶及安全改善
+- **适用条件 / 局限** · 深度教师误差可能传递到规划
+
+**可复用机制** · 对照验证。以未来深度监督学习自车条件几何 token，用当前和未来 token 精修轨迹。按所列评测比较此改动的收益。
+
+<a id="paper-f4ib3mxhbo"></a>
+
+## NTR: Neural Token Reconstruction for Scene Token Bottleneck in End-to-End Driving
+
+[会议记录](https://openreview.net/forum?id=F4IB3mxHbO) · [原文](https://openreview.net/pdf?id=F4IB3mxHbO)
+
+- **问题 / 瓶颈** · 仅规划信号不足以约束压缩视觉 token
+- **核心创新 / 方法** · 只允许解码器读取场景 token 重建掩蔽图块潜变量，推理时移除重建组件
+- **Baseline** · 仅规划监督路线
+- **Benchmark** · Waymo E2E、NAVSIM 1和2
+- **关键结果 / 消融** · RFS 8.0461、PDMS 94.1、EPDMS 90.9，报告有效秩上升
+- **适用条件 / 局限** · 重建任务须保留与控制相关的信息
+
+**可复用机制** · 对照验证。只允许解码器读取场景 token 重建掩蔽图块潜变量，推理时移除重建组件。按所列评测比较此改动的收益。
+
+<a id="paper-bqxys2gkba"></a>
+
+## Mechanistic Interpretability for End-to-End Self-Driving
+
+[会议记录](https://openreview.net/forum?id=bqXyS2gKba) · [原文](https://openreview.net/pdf?id=bqXyS2gKba)
+
+- **问题 / 瓶颈** · 端到端规划器内部证据难观察
+- **核心创新 / 方法** · 用稀疏自编码器提取特征，以配对反事实编辑和激活干预区分关联与因果
+- **Baseline** · 不读稀疏特征的同类适配器
+- **Benchmark** · 单相机驾驶，测意图解码及轨迹误差
+- **关键结果 / 消融** · 无监督意图解码98.3%，适配器轨迹误差降3.44%
+- **适用条件 / 局限** · 单模型结果，语义未必迁移
+
+**可复用机制** · 对照验证。用稀疏自编码器提取特征，以配对反事实编辑和激活干预区分关联与因果。按所列评测比较此改动的收益。
+
+<a id="paper-hi8mv09noi"></a>
+
+## CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation
+
+[会议记录](https://openreview.net/forum?id=Hi8mV09nOi) · [原文](https://openreview.net/pdf?id=Hi8mV09nOi)
+
+- **问题 / 瓶颈** · 离散动作接口限制局部语言导航
+- **核心创新 / 方法** · 预测可查询的方位扇区流场，从原轨迹构造逐帧子指令和流监督
+- **Baseline** · 动作 token 与动作块
+- **Benchmark** · 连续 Habitat，共用速度控制接口，以及真机零样本
+- **关键结果 / 消融** · 各规划频率下报告优于两类动作对照
+- **适用条件 / 局限** · 依赖局部语言标注与可视区域
+
+**可复用机制** · 对照验证。预测可查询的方位扇区流场，从原轨迹构造逐帧子指令和流监督。按所列评测比较此改动的收益。
+
+<a id="paper-g6vrrbo3ne"></a>
+
+## Observe Before You Alert: Belief-State Driver Alerting with Vision–Language Models
+
+[会议记录](https://openreview.net/forum?id=G6vrRbO3NE) · [原文](https://openreview.net/pdf?id=G6vrRbO3NE)
+
+- **问题 / 瓶颈** · 二元警告难表达证据不足
+- **核心创新 / 方法** · 增加内部观察动作，按需累计证据再告警，以结构化安全证据池化为信念
+- **Baseline** · 视频模型与 VLM 代表项
+- **Benchmark** · VLAlert-Bench 和 DAUS，兼看提前量与误报
+- **关键结果 / 消融** · 报告整体告警效用更高，观察动作及信念池化有益
+- **适用条件 / 局限** · 取决于时间成本和安全证据信号
+
+**可复用机制** · 对照验证。增加内部观察动作，按需累计证据再告警，以结构化安全证据池化为信念。按所列评测比较此改动的收益。
+
+<a id="paper-jydy4anb01"></a>
+
+## Before Parc Fermé: RL-Time Pruning for Efficient Embodied LLMs in Autonomous Driving
+
+[会议记录](https://openreview.net/forum?id=JydY4anB01) · [原文](https://openreview.net/pdf?id=JydY4anB01)
+
+- **问题 / 瓶颈** · 离线剪枝可能破坏已学闭环行为
+- **核心创新 / 方法** · 在 RL 训练仍有任务反馈时分阶段裁剪，也可提前在 SFT 裁剪一部分
+- **Baseline** · 训练后剪枝、恢复 RL、SFT 剪枝、小型稠密模型
+- **Benchmark** · RobotxR1 与 Jetson AGX Orin
+- **关键结果 / 消融** · 报告尺寸性能折衷较小稠密模型高1.69倍，解码吞吐最多高27%
+- **适用条件 / 局限** · 需测解码变化对下游闭环时延的影响
+
+**可复用机制** · 对照验证。在 RL 训练仍有任务反馈时分阶段裁剪，也可提前在 SFT 裁剪一部分。按所列评测比较此改动的收益。
+
+<a id="paper-omvckdflra"></a>
+
+## EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents
+
+[会议记录](https://openreview.net/forum?id=oMvcKDFLRA) · [原文](https://openreview.net/pdf?id=oMvcKDFLRA)
+
+- **问题 / 瓶颈** · 单一综合分难覆盖真实性与难度的取舍
+- **核心创新 / 方法** · 在封闭模拟器测试中保存多目标非劣案例，继续验证多种安全边界
+- **Baseline** · 已有场景生成器
+- **Benchmark** · MetaDrive 与 CARLA
+- **关键结果 / 消融** · 报告仿真测试前沿扩展并为安全训练提供案例
+- **适用条件 / 局限** · 模拟结果需独立验证，真实性尺度对结论有影响
+
+**可复用机制** · 对照验证。在封闭模拟器测试中保存多目标非劣案例，继续验证多种安全边界。按所列评测比较此改动的收益。
+
+<a id="paper-egz6ymfvzu"></a>
+
+## An Adaptive Slow-Fast Framework for Real-Time Anomaly Detection in Autonomous Driving
+
+[会议记录](https://openreview.net/forum?id=eGZ6YMFVzU) · [原文](https://openreview.net/pdf?id=eGZ6YMFVzU)
+
+- **问题 / 瓶颈** · 持续运行 VLM 异常推理开销大
+- **核心创新 / 方法** · 以快速 LiDAR 异常检测常开，按碰撞时间切换昂贵语义推理
+- **Baseline** · 检测和语言推理基线，名称待核
+- **Benchmark** · MAQA，约1.6万异常对象，多模态推理标注
+- **关键结果 / 消融** · 报告检测、推理与效率改善
+- **适用条件 / 局限** · 依赖快速支路召回与碰撞时间可靠性
+
+**可复用机制** · 对照验证。以快速 LiDAR 异常检测常开，按碰撞时间切换昂贵语义推理。按所列评测比较此改动的收益。
+
+<a id="paper-022k2zipr6"></a>
+
+## From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach
+
+[会议记录](https://openreview.net/forum?id=022K2ZIPR6) · [原文](https://openreview.net/pdf?id=022K2ZIPR6)
+
+- **问题 / 瓶颈** · 领域适配可损害通用语义且缺深度
+- **核心创新 / 方法** · 图像、深度、问答三元训练；辅助深度分支补几何，冻结副本用 logits KL 保语义
+- **Baseline** · 驾驶与专用空间模型
+- **Benchmark** · 四项基准，覆盖空间、驾驶推理、规划和通用多模态
+- **关键结果 / 消融** · 报告领域改善及通用能力保持，部署丢弃深度分支
+- **适用条件 / 局限** · 依赖深度来源及教师有效性
+
+**可复用机制** · 对照验证。图像、深度、问答三元训练；辅助深度分支补几何，冻结副本用 logits KL 保语义。按所列评测比较此改动的收益。
+
+<a id="paper-sdujbb3p4e"></a>
+
+## FlashDrive: Flash Vision-Language-Action Inference Framework for Autonomous Driving
+
+[会议记录](https://openreview.net/forum?id=sdujBb3P4e) · [原文](https://openreview.net/pdf?id=sdujBb3P4e)
+
+- **问题 / 瓶颈** · 流水线不同阶段的冗余来源不同
+- **核心创新 / 方法** · 跨帧复用缓存、对推理 token 并行预测，按去噪速度变化缓存步进
+- **Baseline** · 量化前后流水线细节待核实
+- **Benchmark** · Alpamayo1.5-10B W4A8，端到端延迟与位移误差
+- **关键结果 / 消融** · 716毫秒降至159毫秒，minADE6变化约0.07米
+- **适用条件 / 局限** · 取决于帧重叠、token分布和去噪路径
+
+**可复用机制** · 对照验证。跨帧复用缓存、对推理 token 并行预测，按去噪速度变化缓存步进。按所列评测比较此改动的收益。
+
+<a id="paper-vvivf2e7kg"></a>
+
+## Structured Perception Representations for Off-road Dynamics Learning
+
+[会议记录](https://openreview.net/forum?id=vVIVf2E7KG) · [原文](https://openreview.net/pdf?id=vVIVf2E7KG)
+
+- **问题 / 瓶颈** · 固定地形向量不能反映预测轨迹经过区域
+- **核心创新 / 方法** · 每个预测步围绕当前预测状态查询鸟瞰地形特征
+- **Baseline** · 物理和学习模型
+- **Benchmark** · 全季节数据及高速越野真机
+- **关键结果 / 消融** · 报告最大横向误差降34.9%
+- **适用条件 / 局限** · 地图定位和连续查询误差会累积
+
+**可复用机制** · 对照验证。每个预测步围绕当前预测状态查询鸟瞰地形特征。按所列评测比较此改动的收益。
+
+<a id="paper-alu9elt93i"></a>
+
+## VIGOR-MPC: Vision-Guided Objective Regulation MPC
+
+[会议记录](https://openreview.net/forum?id=Alu9eLT93i) · [原文](https://openreview.net/pdf?id=Alu9eLT93i)
+
+- **问题 / 瓶颈** · 感知遮挡且计算不足以运行长时 MPC
+- **核心创新 / 方法** · 从特权长时教师蒸馏视觉条件的代价参数，让短时 MPC 保留控制结构
+- **Baseline** · 特权长时 MPC 教师
+- **Benchmark** · 仿真及真机竞速、未见赛道
+- **关键结果 / 消融** · 接近教师圈速，每步计算降逾90%
+- **适用条件 / 局限** · 依赖可学习的代价参数及教师任务覆盖
+
+**可复用机制** · 对照验证。从特权长时教师蒸馏视觉条件的代价参数，让短时 MPC 保留控制结构。按所列评测比较此改动的收益。
+
+<a id="paper-mskud5twyj"></a>
+
+## CoPark: Learning Reactive Parking via Self-Play
+
+[会议记录](https://openreview.net/forum?id=msKuD5tWYj) · [原文](https://openreview.net/pdf?id=msKuD5tWYj)
+
+- **问题 / 瓶颈** · 精确终点要求和动态避让争抢控制权
+- **核心创新 / 方法** · 按风险调节纵向残差权重，横向保持路径锚定，并做末端闭环修正
+- **Baseline** · 经典、模仿学习和大规模 RL
+- **Benchmark** · Dragon Lake Parking、DeepScenario Open 3D，零样本反应停车
+- **关键结果 / 消融** · 成功约70–85%，碰撞约3–6%
+- **适用条件 / 局限** · 需要有效名义规划与可校准风险量
+
+**可复用机制** · 对照验证。按风险调节纵向残差权重，横向保持路径锚定，并做末端闭环修正。按所列评测比较此改动的收益。

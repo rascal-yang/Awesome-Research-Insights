@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **576 / 687** 篇，当前收录 **534** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **687 / 687** 篇，当前收录 **640** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -540,3 +540,109 @@
 | 具身智能 / Agent | 数据生成 | [SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation](cards.md#paper-uznhskkaab) | 将闭环交互技能作为树搜索动作，在执行失败后重规划并采集恢复示范。 |
 | 具身智能 / 模仿学习 | 主动数据采集 | [GUILD: Guided Iterative Data Collection for Imitation Learning](cards.md#paper-6txmwx1wih) | 在采集前用任务归因反馈选择下一批遥操数据。 |
 | 具身智能 / 模仿学习 | 多动作监督 | [CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Robot Imitation Learning](cards.md#paper-gvdqtvona1) | 为已访问状态标注多个可行动作，和继续采集新轨迹比较标注收益。 |
+| 具身智能 | 训练诊断 | [An Empirical Study of Data-Loading Bottlenecks (and Non-Bottlenecks) in Robotic Imitation Learning](cards.md#paper-vv1wxmkstd) | 决定是否优化数据加载前先做端到端剖析 |
+| 具身智能 | 数据归因 | [ATHENA: Accelerated Multi-Task Heterogeneous Influence Functions for Robot Data Curation](cards.md#paper-dpgz9kssgo) | 在多任务 VLA 上用可扩展影响估计筛选示范 |
+| 具身智能 | 仿真设计 | [Active Generative Simulation: Meta-Learning What to Simulate for Sim-and-Real Policy Co-Training](cards.md#paper-xxhkql5u5p) | 用少量真实验证反馈学习模拟器采样分布 |
+| 具身智能 | 损失重加权 | [Where Small Mistakes Matter: Quantifying State Criticality for Imitation Learning](cards.md#paper-x05rf7l7h4) | 按小动作误差造成的下游价值损失给示范状态加权 |
+| 具身智能 | 系统辨识 | [Sim-to-Real Transfer for Muscle-Actuated Robots via Generalized Actuator Networks](cards.md#paper-58lip3p4hu) | 无扭矩传感器时用关节轨迹辨识执行器并保留刚体求解器 |
+| 具身智能 | 仿真建模 | [Do Rigid-Body Simulators Dream of Soft Robots? Learning Contact-Rich Manipulation for Tendon-Driven Continuum Robots](cards.md#paper-dykg3ed5wy) | 用有物理依据的离散结构将软体接触和肌腱纳入同一仿真 |
+| 具身智能 | 测试时适配 | [Scouting the Dynamics Gap: Test-Time Policy Adaptation via Action-Outcome Feedback](cards.md#paper-fyntpa7rwn) | 用动作结果预测误差在线更新共享动力学信念 |
+| 具身智能 | 系统辨识 | [Drifting on Demand: A Profiled-Likelihood Transformer for Online Parameter Estimation](cards.md#paper-zwuhb2fawb) | 状态残差各通道尺度变化时分离动力学参数与噪声估计 |
+| 具身智能 | 物性估计 | [Beyond Semantic Classes: Online Physical Parameter Estimation via Embedding-Conditioned Gaussian Mixtures](cards.md#paper-y6pog6ygix) | 按连续视觉嵌入检索交互历史并保留物性多峰分布 |
+| 具身智能 | 动力学正则 | [Sensitivity Shaping for Latent Modeling](cards.md#paper-kggi0115rg) | 拟合动力学时在高支持区域保留局部控制敏感性 |
+| 具身智能 | 生成式策略 | [Learning Robust Visuomotor Policies via Dynamics Alignment](cards.md#paper-cautgdv8l0) | 让动作流与未来观测流在采样时交互更新 |
+| 具身智能 | 对称性发现 | [Discovering Control Symmetries via Transition Manifold Tangency](cards.md#paper-xl2er7x00h) | 用转移流形的切向条件检查动力学对称性 |
+| 具身智能 | 等变模仿 | [MIRROR: Reflecting Hidden Symmetries from Offline Robot Interaction Data](cards.md#paper-glj2rsqis4) | 从离线转移联合学习观测和动作的群作用 |
+| 具身智能 | 数据增强 | [DexNinja: Learning Robust Dexterous Cutting Policy with a Real-to-Sim-to-Real Data Engine](cards.md#paper-sie2lx2haf) | 按类别物性约束扩增会改变物体拓扑的接触示范 |
+| 具身智能 | 动作条件 | [Dex4D: Task-Agnostic Point Track Policy for Zero-Shot Dexterous Manipulation](cards.md#paper-qa1uu7lc8n) | 用物体中心三维点轨迹作为任务无关的策略接口 |
+| 具身智能 | 采集接口 | [YUBI: Yielding Universal Bidigital Interface for Bimanual Dexterous Manipulation at Scale](cards.md#paper-qahhxvxhtb) | 要复用双臂示范时让采集夹爪与部署夹爪共享动作语义 |
+| 具身智能 | 硬件设计 | [Belt-Finger: An Affordable Soft Belt-Driven Gripper for Dexterous In-Hand Manipulation](cards.md#paper-gseucglnto) | 狭窄工作区将夹内平移和旋转交由驱动带完成 |
+| 具身智能 | 奖励设计 | [Assembling Two Parts in One Hand](cards.md#paper-eb5tktrt2x) | 以两零件相对位姿和手指分工奖励训练单手装配 |
+| 具身智能 | 强化学习后训练 | [ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](cards.md#paper-2qcsjfv9pr) | 新奖励下先冻结 actor 暖启动 critic，再保守更新 |
+| 具身智能 | 行为动力学 | [Going with the Flow: Koopman Behavioral Models as Pseudo Planners for Visuo-Motor Dexterity](cards.md#paper-8t3fxlyk9k) | 以预测视觉流与实际偏差触发按需重规划 |
+| 具身智能 | 空间对齐 | [Dexterity-BEV: Aligning 3D World and Actions for Generalizable Robot Policies Learning](cards.md#paper-z5cgs0xgek) | 把每个相机像素对应几何和动作统一到规范鸟瞰坐标 |
+| 具身智能 | 异步策略 | [LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion](cards.md#paper-fsgxevflkn) | 用熵正则桥将低频意图约束传给高频控制 |
+| 具身智能 | 风险塑形 | [How to Learn from What a Human Would Avoid? Intervention-Aware World Models with Real-World RL for Dexterous Manipulation](cards.md#paper-lgosjtsr5q) | 把人类接管的预测概率作为 actor 的前瞻风险代价 |
+| 具身智能 | 状态预测 | [Physics-Aware Object-Centric SE(3) Forecasting for Real-Time Proactive Dynamic Grasping](cards.md#paper-tqrhdxuapa) | 动态接触时只预测决定接触时机的物体 SE(3) 状态 |
+| 具身智能 | 主动感知 | [MIND-Grasp: Multi-View Imagination-Guided Next-Best-Action Discovery for Occlusion-Aware Grasping](cards.md#paper-mzgjyghofg) | 未知目标位置时先搜可见通道，只有关键遮挡才搬动 |
+| 具身智能 | 依赖图规划 | [Minimal-Intervention Target Retrieval in Cluttered Scenes with Grasp-Conditioned Dependency Graphs](cards.md#paper-ng11daafix) | 按候选抓取和动作阶段预测真正的阻挡对象 |
+| 具身智能 | 力控制 | [How Firm Should a Grasp Be?](cards.md#paper-iianoce27q) | 在抓取过程中估计物性并按物性调最低所需夹持力 |
+| 具身智能 | 视觉蒸馏 | [Anchoring Attention in Clutter: Mask-Guided Latent Distillation for Vision-Language-Action Towards Dexterous Grasping](cards.md#paper-fgyol5tngl) | 把训练期区域掩膜变成控制路径内的注意力监督 |
+| 具身智能 | 主动重建 | [AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction](cards.md#paper-cpy2rsdnji) | 按候选观测射线的不确定性决定手内转动目标 |
+| 具身智能 | 示范重加权 | [PACER: Process-Aware VLA Policy Learning from Human Corrections for Robotic Disassembly](cards.md#paper-fub1lcfk9g) | 对人类纠错按流程证据重加权，沿用原 VLA 训练目标 |
+| 具身智能 | 异步多模态 | [T-Rex: Tactile-Reactive Dexterous Manipulation](cards.md#paper-kdaclhheut) | 让高频触觉支路以自身速率编码，再与低频视觉动作模型交互 |
+| 具身智能 | 触觉训练诊断 | [Touch2Trace: Tactile-Driven Imitation Learning for Dexterous Cable Tracing](cards.md#paper-alllacthkq) | 对连续接触任务分别比较控制频率、触觉分辨率与时序上下文 |
+| 具身智能 | 触觉融合 | [SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection](cards.md#paper-anfrrenqmn) | 同时观测接触压力与摩擦振动，以低延迟判断滑移 |
+| 具身智能 | 触觉表示 | [Learning with Object-centric Representations of Tactile Interactive Perception for Robot Manipulation](cards.md#paper-s0rbnmokit) | 从探索过程选择少量表征片段，将物性上下文提供给操作策略 |
+| 具身智能 | 数据生成 | [ControlTac: Scaling Tactile Data with Physically Controlled Tactile Image Generation](cards.md#paper-7ymfgwpcww) | 生成触觉样本时明确控制接触力、位姿和传感器参照 |
+| 具身智能 | 示范采集 | [What is the Better Curriculum: Controller-Shaped Grasping Behavior for Contact Force-Sensitive Manipulation](cards.md#paper-f3dic5djnz) | 用触觉反射在线修正示范 |
+| 具身智能 | 视觉表征 | [Robot-DIFT: Correspondence-Sensitive Diffusion Features for Contact-Rich Robot Manipulation](cards.md#paper-zshxqqyhfn) | 用蒸馏保留稠密对应，再比较多尺度读出 |
+| 具身智能 | 等变表示 | [Equivariant Visual-Tactile Diffusion Policy for Contact-Rich Manipulation](cards.md#paper-40csfpl2cq) | 用末端姿态旋转共享视触球谐表示 |
+| 具身智能 | 柔顺控制 | [TDC: Sim-to-Real Transferable Directional Compliance for Contact-Rich Manipulation](cards.md#paper-lomft7cfyl) | 从仿真迁移柔顺方向，现场调幅度 |
+| 具身智能 | 柔顺控制 | [CompVLA: A Variable Compliance Vision-Language-Action Model for Contact-rich Manipulation](cards.md#paper-9snxcyklb0) | 为运动策略设置单独的柔顺参数专家 |
+| 具身智能 | 候选规划 | [DexFLEX: Contact-Aware Foundation Controller for Command-Guided Dexterity](cards.md#paper-kduigyxutd) | 以预测的接触稳定性筛选上游动作草案 |
+| 具身智能 | 动作接口 | [Mind the Gap: Rethinking I/O Design for Contact-Rich Visuomotor Policy Learning](cards.md#paper-patsmtswir) | 同时条件化执行状态和领导器命令，预测未来命令 |
+| 具身智能 | 持续学习 | [Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force](cards.md#paper-netxisu52q) | 为新传感器做未来预测，并回放旧视觉数据 |
+| 具身智能 | 探索奖励 | [Tactile Curiosity Drives Robot Interaction](cards.md#paper-h26amtgnfu) | 把好奇心奖励限制到触觉不确定性 |
+| 具身智能 | 失败诊断 | [KlaskTron-IL: A Contact-Rich Adversarial Imitation Learning Benchmark with a Validated Sim-to-Real Bridge](cards.md#paper-ik1sflqgza) | 同时检查判别器语义准确性和用于优化的梯度 |
+| 具身智能 | 世界模型 | [FACA: Force-Aware Contact Adaptation for Task-Parameterized Robotic Assembly](cards.md#paper-ch33xueibo) | 分开已知装配参数与在线隐式接触残差 |
+| 具身智能 | 多模态标注 | [ForceBand: Learning Forceful Manipulation with sEMG](cards.md#paper-w2h90oezfp) | 先用力数据校准腕带，再以其自动标注目标示范 |
+| 具身智能 | 示范采集 | [Hardware-as-Regularization: Enhancing Data Consistency in Imitation Learning via an Adjustable Passive Compliant Leader Arm](cards.md#paper-riyiqwvpst) | 以可调机械复位作为冗余关节的采集先验 |
+| 具身智能 | 系统辨识 | [Just Learn It: A Data-Harvesting Protocol for Empirical Learning of Effective Assistance Torques in Coupled Systems](cards.md#paper-tu2sheg4to) | 通过缓慢被动运动隔离配置相关负载再学习前馈 |
+| 具身智能 | 合成数据 | [Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors](cards.md#paper-oias4zzrun) | 给视频合成加跨帧本体身份约束再提取运动 |
+| 具身智能 | 价值估计 | [MorFiC: Fixing Value Miscalibration for Zero-Shot Quadruped Transfer](cards.md#paper-x7qoq3qota) | 在 critic 用乘法形态条件化避免跨本体价值平均 |
+| 具身智能 | 世界模型 | [Morphology-Conditioned World Model for Cross-Embodiment Quadrupedal Locomotion](cards.md#paper-yqoallpdd3) | 把形态描述输入动力学而不仅是 actor |
+| 具身智能 | 奖励设计 | [LoComposition: Terrain-Adaptive Energy-Efficient Quadruped Locomotion without Gait Priors](cards.md#paper-ss9fjkkksm) | 将运行边界写约束，让能耗目标诱导步态 |
+| 具身智能 | 特权监督 | [Physics-Guided Biomechanical Gait Adaptation for Humanoid Locomotion on Extreme Sloped Terrains](cards.md#paper-vkvm1q9fbn) | 按坡面坐标定义稳定性，并仅在训练时使用坡度调节奖励 |
+| 具身智能 | 深度蒸馏 | [RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains](cards.md#paper-zyppmdicvv) | 按命令速度调整深度特征并随机遮侧视角 |
+| 具身智能 | 奖励设计 | [Hiking in the Wild: A Scalable Perceptive Legged Parkour Framework for Humanoid Robots](cards.md#paper-o7lrmassjs) | 只采样可站立目标并用足部体积约束边缘着地 |
+| 具身智能 | 时序感知 | [Echo in the Steps: Learning Perceptive Humanoid Parkour with Gated Memory](cards.md#paper-eioq9vj6oj) | 以落足显著性门控深度记忆 |
+| 具身智能 | 对称增强 | [SSR: Scaling Surefooted and Symmetric Humanoid Traversal Toward the Open World](cards.md#paper-4it3fcnny2) | 在潜空间做双侧等变增强，并提前判断摆脚支撑 |
+| 具身智能 | 动作重定向 | [MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction](cards.md#paper-jbpsghdjs9) | 重定向时保持人和场景接触关系 |
+| 具身智能 | 特权蒸馏 | [Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain](cards.md#paper-c5oil7jqbq) | 部署保留原始动作指令，仅用地形残差在局部修正 |
+| 具身智能 | 学习辅助控制 | [MARCH: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds](cards.md#paper-iy6ti85pg0) | 用简化模型安全轨迹构造 Lyapunov 奖励再蒸馏 |
+| 具身智能 | 轨迹蒸馏 | [SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion](cards.md#paper-jwkaxdmqkb) | 把下一状态的师生分歧放进 RL 奖励 |
+| 具身智能 | 传感回退 | [PROOF: Perceptive Robustness via Out-of-Distribution Fallback for Legged Locomotion](cards.md#paper-317szv2vus) | 训练本体感知回退，并以外感不确定性抑制受损特征 |
+| 具身智能 | 感知去噪 | [CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising](cards.md#paper-oq5byppu7q) | 部分深度损坏时连续使用剩余信号 |
+| 具身智能 | 预测控制 | [RoboDreamer: Anticipatory Humanoid Locomotion with Predictive State-Space Models](cards.md#paper-umgoyxmgn2) | 用时序遮蔽训练状态空间模型补全观测 |
+| 具身智能 | 结构化动作 | [HAF-VLA: Hierarchical Action Flow Framework for Humanoid Vision-Language-Action Control](cards.md#paper-l9rkfeukrc) | 按移动、腰部和操作顺序细化同一全身动作 |
+| 具身智能 | 残差强化学习 | [ADAPT: Agile Diffusion Action Priors for Robust and Steerable Online Text-Driven Humanoid Control](cards.md#paper-7uebdg4kra) | 用残差策略补偿冻结语言动作先验的长程误差 |
+| 具身智能 | 候选验证 | [TEXEDO : Test Time Scaling for Controller-aware Language-conditioned Humanoid Motion Generation](cards.md#paper-uscrywxsuc) | 先硬筛动态可行，再按语言匹配排序 |
+| 具身智能 | 闭环生成 | [InfiniDanceRobot: A Streaming and Closed-Loop Music-driven Dance Generation for Humanoid Robot](cards.md#paper-93legzrapv) | 训练和推理都用跟踪器反馈校正下一动作潜变量 |
+| 具身智能 / 腿式控制 | 本体动力学 | [HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model](cards.md#paper-xcdyj95l5p) | 按适应强度低频扰动参考，结合可微正运动学训练历史动力学，再通过模型梯度微调 |
+| 具身智能 / 腿式控制 | 黑盒适配 | [CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning](cards.md#paper-ht8whuvp22) | 将部署奖励反馈转化为下一轮监督数据，反复调用托管接口 |
+| 具身智能 / 腿式控制 | 动力学适配 | [FADA: Few-Shot Domain Adaptation via Dynamics Alignment for Humanoid Control](cards.md#paper-mmrhlrwlfx) | 用 DAgger 蒸馏特权教师为规划器和逆动力学，部署仅微调逆模型 |
+| 具身智能 / 腿式控制 | 残差辨识 | [Unsupervised Actuator Networks as a Residual World Model for Humanoid Control](cards.md#paper-8klpl3fxjn) | 从本体传感对齐浮基速度及接触力，再开环回放辨识执行器残差 |
+| 具身智能 / 腿式控制 | 扰动观测 | [ADAPT: Analytical Disturbance-Aware Policy Training for Humanoid Locomotion](cards.md#paper-pqdtunzqlj) | 将解析全身扰动观察器的力矩残差直接输入策略 |
+| 具身智能 / 腿式控制 | 动作风格 | [Walk Like This: Stylized Locomotion for Physics-Based Characters through Example-Driven Diffusion](cards.md#paper-u2oevtdvx8) | 采样训练风格编码器，以参考片段和速度条件自回归扩散生成可跟踪动作 |
+| 具身智能 / 腿式控制 | 平衡表示 | [Koopman DCM: Unstable Eigenfunctions as Data-driven Representations for Legged Balancing](cards.md#paper-mday00wzfr) | 从测量历史寻找不稳定 Koopman 特征函数并按控制耦合正则化 |
+| 具身智能 / 腿式控制 | 动力学课程 | [Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning](cards.md#paper-mru8ihzsqr) | 从高刚度开始并按完成时长逐步退火到辨识刚度 |
+| 具身智能 / 腿式控制 | 课程学习 | [Trajectory-Level Automatic Curriculum Learning for Legged Locomotion on Unstructured Terrain](cards.md#paper-0muj0bxujh) | 按当前策略学习轨迹难度，迭代引导地图上的轨迹采样 |
+| 具身智能 / 腿式控制 | 在线适配 | [SHOES: Sim-to-real Hardware-adaptation via On-policy Expansion of Skills for Legged Robots](cards.md#paper-rje0dllpev) | 冻结原策略，训练恒等初始化调制模块，以工作区采样限制收集 |
+| 具身智能 / 腿式控制 | 故障训练 | [Damage-Aware Quadruped Locomotion: Zero-Shot Adaptation to Motor Failures via Pain-Inspired Reinforcement Learning](cards.md#paper-jwpvrd730l) | 将健康线索接入策略与奖励，并课程式提高故障概率 |
+| 具身智能 / 腿式控制 | 表示诊断 | [Mind the Phase: Effective Rank and Representation Health in Legged Locomotion](cards.md#paper-fk33gnkkgf) | 按摆动和支撑分别统计雅可比有效秩，比较归一化及残差结构 |
+| 具身智能 / 腿式控制 | 奖励设计 | [Push the Limit: Learning High-Speed Sprinting and Aggressive Cornering on a Full-Scale Humanoid](cards.md#paper-xqgbzwsuxt) | 用低频速度方向取代瞬时偏航率目标，辅以时序注意力与技能条件判别器 |
+| 具身智能 / 腿式控制 | 专家优化 | [MAPO: Mixture of Experts with Alternating Policy Optimization for Universal Humanoid Motion Tracking](cards.md#paper-tk1gtgoesr) | 交替更新专家与路由器以避免同步更新混淆 |
+| 具身智能 / 腿式控制 | 柔顺控制 | [CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation](cards.md#paper-gqmj7sik5q) | 事后按扰动改写稀疏目标，保留稠密参考 |
+| 具身智能 / 腿式控制 | 安全值学习 | [λ-Reachability: Geometric-Horizon Safety Bellman Equations for Humanoid Safety](cards.md#paper-siyferhqrn) | 采用几何分布的随机预测长度与概率吸收终点，构造多步安全值估计 |
+| 具身智能 / 腿式控制 | 回放设计 | [MPC-Injection: Biasing Off-Policy Locomotion RL Toward Controller-Induced Behavior Basins](cards.md#paper-0hs0to0evo) | 把求解同一 MDP 的 MPC 转移加入离策略回放 |
+| 具身智能 / 腿式控制 | 技能复用 | [Continual Quadruped Robots Coordination via Sementic Skill Discover](cards.md#paper-2xr8oasjum) | 显式分别编码自身、队友及目标，以任务语义检索，成功后按轨迹语义更新技能库 |
+| 具身智能 / 导航与驾驶 | 开闭环诊断 | [BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving](cards.md#paper-ynmzwxz68a) | 分别分析观测偏移与目标错配，并在测试时校准偏移、值偏差和时间一致性 |
+| 具身智能 / 导航与驾驶 | 自博弈蒸馏 | [Scaling Self-Play for End-to-End Driving](cards.md#paper-eszgt1eizr) | 简化透视渲染，在学生在线自博弈状态向特权 RL 教师蒸馏，再迁移感知 |
+| 具身智能 / 导航与驾驶 | 仿真度量 | [DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving](cards.md#paper-lqur3gxkdh) | 在多个公开策略的场景特征空间测 Fréchet 距离 |
+| 具身智能 / 导航与驾驶 | 闭环模仿 | [DriveMLP: When Training Strategy Outperforms Model Complexity in Autonomous Driving](cards.md#paper-9ccdcinkm9) | 以专家轨迹距离为奖励，在闭环用 RL 优化轻量 MLP |
+| 具身智能 / 导航与驾驶 | 判断后优化 | [Judge, Then Act: A Critic-Centric Vision Language Action Framework for Autonomous Driving](cards.md#paper-ckvuqg4yqf) | 先生成草案，再用多模态 VLA 评估并做一次优化 |
+| 具身智能 / 导航与驾驶 | 可验证元动作 | [DriveMA: Driving Vision-Language-Action Models with verifiable Meta-Actions](cards.md#paper-b7gccztjye) | 以规则从轨迹抽取并核验元动作，指导监督训练和轮次信用分配 |
+| 具身智能 / 导航与驾驶 | 几何预测 | [GeoWorldAD: Geometry World Action Model for Autonomous Driving](cards.md#paper-eweki0rf6v) | 以未来深度监督学习自车条件几何 token，用当前和未来 token 精修轨迹 |
+| 具身智能 / 导航与驾驶 | 瓶颈监督 | [NTR: Neural Token Reconstruction for Scene Token Bottleneck in End-to-End Driving](cards.md#paper-f4ib3mxhbo) | 只允许解码器读取场景 token 重建掩蔽图块潜变量，推理时移除重建组件 |
+| 具身智能 / 导航与驾驶 | 可解释诊断 | [Mechanistic Interpretability for End-to-End Self-Driving](cards.md#paper-bqxys2gkba) | 用稀疏自编码器提取特征，以配对反事实编辑和激活干预区分关联与因果 |
+| 具身智能 / 导航与驾驶 | 动作表示 | [CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation](cards.md#paper-hi8mv09noi) | 预测可查询的方位扇区流场，从原轨迹构造逐帧子指令和流监督 |
+| 具身智能 / 导航与驾驶 | 序贯判断 | [Observe Before You Alert: Belief-State Driver Alerting with Vision–Language Models](cards.md#paper-g6vrrbo3ne) | 增加内部观察动作，按需累计证据再告警，以结构化安全证据池化为信念 |
+| 具身智能 / 导航与驾驶 | 剪枝时点 | [Before Parc Fermé: RL-Time Pruning for Efficient Embodied LLMs in Autonomous Driving](cards.md#paper-jydy4anb01) | 在 RL 训练仍有任务反馈时分阶段裁剪，也可提前在 SFT 裁剪一部分 |
+| 具身智能 / 导航与驾驶 | 仿真评测 | [EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents](cards.md#paper-omvckdflra) | 在封闭模拟器测试中保存多目标非劣案例，继续验证多种安全边界 |
+| 具身智能 / 导航与驾驶 | 计算路由 | [An Adaptive Slow-Fast Framework for Real-Time Anomaly Detection in Autonomous Driving](cards.md#paper-egz6ymfvzu) | 以快速 LiDAR 异常检测常开，按碰撞时间切换昂贵语义推理 |
+| 具身智能 / 导航与驾驶 | 几何蒸馏 | [From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach](cards.md#paper-022k2zipr6) | 图像、深度、问答三元训练；辅助深度分支补几何，冻结副本用 logits KL 保语义 |
+| 具身智能 / 导航与驾驶 | 推理预算 | [FlashDrive: Flash Vision-Language-Action Inference Framework for Autonomous Driving](cards.md#paper-sdujbb3p4e) | 跨帧复用缓存、对推理 token 并行预测，按去噪速度变化缓存步进 |
+| 具身智能 / 导航与驾驶 | 状态条件模型 | [Structured Perception Representations for Off-road Dynamics Learning](cards.md#paper-vvivf2e7kg) | 每个预测步围绕当前预测状态查询鸟瞰地形特征 |
+| 具身智能 / 导航与驾驶 | 规划蒸馏 | [VIGOR-MPC: Vision-Guided Objective Regulation MPC](cards.md#paper-alu9elt93i) | 从特权长时教师蒸馏视觉条件的代价参数，让短时 MPC 保留控制结构 |
+| 具身智能 / 导航与驾驶 | 残差控制 | [CoPark: Learning Reactive Parking via Self-Play](cards.md#paper-mskud5twyj) | 按风险调节纵向残差权重，横向保持路径锚定，并做末端闭环修正 |
