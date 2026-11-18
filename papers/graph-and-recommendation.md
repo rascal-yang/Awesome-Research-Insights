@@ -334,5 +334,6 @@
 - [Orthogonal Sparse Subgraph Alignment for Structure-Function Coupling in Brain Networks](../conferences/neurips-2026/cards-0009.md#paper-155965)
 - [Oversmoothing as Representation Degeneracy in Neural Sheaf Diffusion](../conferences/neurips-2026/cards-0009.md#paper-152216)
 - [PANDA: Prior-guided Attentional Dual-path Architecture](../conferences/neurips-2026/cards-0009.md#paper-153505)
+- [Regularization Paths for Continuous DAG Learning](../conferences/neurips-2026/cards-0010.md#paper-150245)
 
 <!-- conference-classification:end -->

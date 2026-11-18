@@ -386,5 +386,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Quantile Geometry Regularization for Distributional Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-149758)
 - [[Re] Boosting the Visual Interpretability of CLIP via Adversarial Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-157021)
 - [Reconsidering Positional Supervision in Masked Diffusion Language Model Training](../../conferences/neurips-2026/cards-0010.md#paper-152472)
+- [Representation Fréchet Loss for Visual Generation](../../conferences/neurips-2026/cards-0010.md#paper-154990)
 
 <!-- conference-classification:end -->

@@ -1313,5 +1313,14 @@
 - [RefDecoder: Enhancing Visual Generation with Conditional Video Decoding](../conferences/neurips-2026/cards-0010.md#paper-148568)
 - [RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](../conferences/neurips-2026/cards-0010.md#paper-154077)
 - [Refining Compositional Diffusion for Reliable Long-Horizon Planning](../conferences/neurips-2026/cards-0010.md#paper-148736)
+- [Reflective Prompted Policy Optimization: Trajectory-Grounded Revision and Salience Bias](../conferences/neurips-2026/cards-0010.md#paper-154998)
+- [REFLEX: Reflective Evolution from LLM Experience](../conferences/neurips-2026/cards-0010.md#paper-151529)
+- [RegimeVGGT: Layer-Wise Spatially Preserving Redundancy Removal for Visual Geometry Grounded Transformer](../conferences/neurips-2026/cards-0010.md#paper-155954)
+- [ReGuidance: Diffusion Steering with Strong Latent Initializations Solves Hard Inverse Problems](../conferences/neurips-2026/cards-0010.md#paper-155015)
+- [Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](../conferences/neurips-2026/cards-0010.md#paper-148959)
+- [Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization](../conferences/neurips-2026/cards-0010.md#paper-150993)
+- [Reliable Chain-of-Thought via Prefix Consistency](../conferences/neurips-2026/cards-0010.md#paper-154913)
+- [Reliable Clustering and Quantization via Distortion-Constrained Optimal Transport](../conferences/neurips-2026/cards-0010.md#paper-153600)
+- [Replicas-as-Variables: A Planner for Throughput-Optimal Routing in LLM Deployment](../conferences/neurips-2026/cards-0010.md#paper-154325)
 
 <!-- conference-classification:end -->

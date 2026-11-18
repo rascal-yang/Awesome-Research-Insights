@@ -872,5 +872,18 @@
 - [ReCoG: Relational Concept Graph for Training-Free Personalization](../conferences/neurips-2026/cards-0010.md#paper-149776)
 - [REDACTED-Tunes: An Open 1.4M-Track Dataset and Perceptual Benchmark for AI-Generated Music](../conferences/neurips-2026/cards-0010.md#paper-138942)
 - [RefDecoder: Enhancing Visual Generation with Conditional Video Decoding](../conferences/neurips-2026/cards-0010.md#paper-148568)
+- [Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning](../conferences/neurips-2026/cards-0010.md#paper-148600)
+- [REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs](../conferences/neurips-2026/cards-0010.md#paper-150490)
+- [ReGen: Agentic Video World Modeling with Synergized Reasoning and Generation](../conferences/neurips-2026/cards-0010.md#paper-152784)
+- [Reinforced Evidence-Aware Long Video Understanding](../conferences/neurips-2026/cards-0010.md#paper-151586)
+- [Reinforcing Multimodal Reasoning Against Visual Degradation](../conferences/neurips-2026/cards-0010.md#paper-152003)
+- [Relational Feature Distillation for Lightweight 3D Point Cloud Segmentation](../conferences/neurips-2026/cards-0010.md#paper-148750)
+- [Reliability-Coupled Manifold-Aware Diffusion for Missing-Modality Inference](../conferences/neurips-2026/cards-0010.md#paper-156117)
+- [Reliable Federated Multi-View Learning via Conflict-Aware Evidence Calibration](../conferences/neurips-2026/cards-0010.md#paper-153948)
+- [Render Structure Uncertainty for HTML Repair in  MLLM-based UI-to-Code Generation](../conferences/neurips-2026/cards-0010.md#paper-154842)
+- [RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](../conferences/neurips-2026/cards-0010.md#paper-154626)
+- [RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space](../conferences/neurips-2026/cards-0010.md#paper-153090)
+- [Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation](../conferences/neurips-2026/cards-0010.md#paper-138929)
+- [Representation Forcing for Bottleneck-Free Unified Multimodal Models](../conferences/neurips-2026/cards-0010.md#paper-152733)
 
 <!-- conference-classification:end -->

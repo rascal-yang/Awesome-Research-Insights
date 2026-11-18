@@ -811,5 +811,15 @@ Robot perception, policy learning, planning, and control.
 - [RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](../../conferences/neurips-2026/cards-0010.md#paper-154077)
 - [Refining Compositional Diffusion for Reliable Long-Horizon Planning](../../conferences/neurips-2026/cards-0010.md#paper-148736)
 - [ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving](../../conferences/neurips-2026/cards-0010.md#paper-152356)
+- [Register Anything Model for Generalizable and Robust Point Cloud Registration](../../conferences/neurips-2026/cards-0010.md#paper-149369)
+- [Reinforcing VLAs in Task-Agnostic World Models](../../conferences/neurips-2026/cards-0010.md#paper-153917)
+- [Reliability-Budgeted Edge–Cloud Adaptation for Continual Multimodal Dehazing on UAV](../../conferences/neurips-2026/cards-0010.md#paper-154996)
+- [Remembering What Matters: From Markovian to Subtask-Causal Memory in VLA Policies](../../conferences/neurips-2026/cards-0010.md#paper-153954)
+- [Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees](../../conferences/neurips-2026/cards-0010.md#paper-152348)
+- [RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models](../../conferences/neurips-2026/cards-0010.md#paper-153104)
+- [RESBev: Making BEV Perception More Robust](../../conferences/neurips-2026/cards-0010.md#paper-150281)
+- [RescueBench: Can Embodied Agents Save Lives in the Wild?](../../conferences/neurips-2026/cards-0010.md#paper-139237)
+- [Reset Dependence Is Embodied: Training Protocol Changes Which Morphologies Appear Optimal](../../conferences/neurips-2026/cards-0010.md#paper-138928)
+- [Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization](../../conferences/neurips-2026/cards-0010.md#paper-148940)
 
 <!-- conference-classification:end -->

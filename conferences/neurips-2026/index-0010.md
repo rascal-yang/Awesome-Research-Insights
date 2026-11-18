@@ -194,3 +194,86 @@
 | 具身智能与机器人 | 推理与搜索 | [RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](cards-0010.md#paper-154077) | 单目 3D 深度先通过投影关系判断修正方向 |
 | 具身智能与机器人 | 生成与扩散 | [Refining Compositional Diffusion for Reliable Long-Horizon Planning](cards-0010.md#paper-148736) | 拼接扩散规划要判断全局是否落在可行模式 |
 | 具身智能与机器人 | 强化学习与奖励 | [ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving](cards-0010.md#paper-152356) | 草拟和自编辑用联合 rollout 奖励训练 |
+| 生成模型 | 扩散模型 | [Reflected Schrödinger Bridge Matching](cards-0010.md#paper-153052) | 有硬边界的生成先评估反射桥。 |
+| 多模态学习 | 强化学习 | [Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning](cards-0010.md#paper-148600) | 长推理选高熵反思点恢复视觉依赖。 |
+| 智能体与工具使用 | 评测与诊断 | [Reflection with Action-Induced Visual Differences for Desktop GUI Agents](cards-0010.md#paper-154491) | 桌面操作先提取屏幕变化，再判断是否成功。 |
+| 智能体与工具使用 | 搜索与规划 | [Reflective Prompted Policy Optimization: Trajectory-Grounded Revision and Salience Bias](cards-0010.md#paper-154998) | 用行为轨迹指导紧凑策略的参数修改。 |
+| 大语言模型 | 知识蒸馏 | [ReflectMT: Internalizing Reflection for Efficient and High-Quality Machine Translation](cards-0010.md#paper-155820) | 把训练时译后检查的收益内化为首次生成。 |
+| 计算机视觉 | 逆问题 | [ReFlex: Faithful Panorama Reconstruction from a Single Image with Reflections](cards-0010.md#paper-151635) | 重建时按证据可靠性限制生成润色。 |
+| 智能体与工具使用 | 搜索与规划 | [REFLEX: Reflective Evolution from LLM Experience](cards-0010.md#paper-151529) | 将视觉诊断和程序生成交给不同角色。 |
+| 计算机视觉 | 评测与诊断 | [REFORM-3D: A Representation-Centric Evaluation Framework for 3D Medical Vision Foundation Models](cards-0010.md#paper-139603) | 评估 3D 基础模型时冻结表示、分开采集和适配轴。 |
+| 大语言模型 | 强化学习 | [Reformulate LLM Reinforcement Learning for Stable Training under Black-box Discrepancy](cards-0010.md#paper-148877) | 不同采样与训练引擎间施加轨迹差异约束。 |
+| 模型效率与系统 | 注意力机制 | [Reformulating KV Cache Eviction Problem for Long-Context LLM Inference](cards-0010.md#paper-153767) | 驱逐 KV 按跨头可比的输出贡献排序。 |
+| 深度学习 | 架构设计 | [Reformulating Neural Operators in $d+1$ Dimensions for Embedding Evolution](cards-0010.md#paper-149558) | 把嵌入演化写成独立算子维度。 |
+| 强化学习 | 流匹配 | [ReFPO: Reflow Regularization for Flow Matching Policy Gradients](cards-0010.md#paper-152804) | 流策略要少步推理时在 RL 中直接正则路径。 |
+| 生成模型 | 多模态融合 | [ReFree-S2V: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance](cards-0010.md#paper-153878) | 语音驱动动画分开建音位和韵律。 |
+| 多模态学习 | 检索增强 | [REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs](cards-0010.md#paper-150490) | 时间图融合外部文本时对迟到和不确定证据门控。 |
+| 生成模型 | 扩散模型 | [ReGDiff: Guided Diffusion in Regulated Latent Space for Exploring Metamaterial Voxel Geometry](cards-0010.md#paper-151868) | 新颖结构生成把远离历史与可行性拆成两个阶段。 |
+| 多模态学习 | 世界模型 | [ReGen: Agentic Video World Modeling with Synergized Reasoning and Generation](cards-0010.md#paper-152784) | 长视频世界模型让规划器验收每段状态。 |
+| 计算机视觉 | 视频建模 | [ReGenHuman: Re-Generating Human Appearances for Realistic Full-Body Video Anonymization](cards-0010.md#paper-148181) | 匿名化可保动作结构并重生成外观。 |
+| 计算机视觉 | 剪枝与稀疏化 | [RegimeVGGT: Layer-Wise Spatially Preserving Redundancy Removal for Visual Geometry Grounded Transformer](cards-0010.md#paper-155954) | 3D 多视图压缩按层和任务分配。 |
+| 深度学习 | 偏好优化 | [Region-Normalized DPO for Medical Image Segmentation](cards-0010.md#paper-153478) | 掩码偏好学习仅按分歧区域归一。 |
+| 机器人学 | 表征学习 | [Register Anything Model for Generalizable and Robust Point Cloud Registration](cards-0010.md#paper-149369) | 跨传感器配准前依据局部几何调整体素化尺度，并把注意力限制在局部几何一致性上。 |
+| 机器学习基础与统计 | 优化 | [Regret-Based $(\epsilon,\delta)$-optimal Stopping Criteria for Bayesian Optimization](cards-0010.md#paper-152096) | 用高概率遗憾上界决定昂贵黑箱评估何时结束。 |
+| 强化学习 | 强化学习方法 | [Regret minimization in Linear Bandits with offline data via extended D-optimal exploration.](cards-0010.md#paper-156767) | 使用离线设计矩阵的欠覆盖方向指导在线探索。 |
+| 机器学习基础与统计 | 理论与统计 | [Regret-Optimal Wasserstein-Robust Regression](cards-0010.md#paper-155805) | 固定分布偏移预算下，可先诊断条件数和有效秩，再选择鲁棒回归目标。 |
+| 计算机视觉 | 推理策略 | [ReGuidance: Diffusion Steering with Strong Latent Initializations Solves Hard Inverse Problems](cards-0010.md#paper-155015) | 把现有逆问题解反演到扩散潜变量，再进行引导。 |
+| 图学习 | 优化 | [Regularization Paths for Continuous DAG Learning](cards-0010.md#paper-150245) | 以支持集固定区间上的驻点路径替代逐个稀疏系数重训。 |
+| 计算机视觉 | 训练策略 | [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow Models](cards-0010.md#paper-154808) | 扩散奖励微调时复用干净样本的奖励来监督多个噪声状态。 |
+| 多模态学习 | 强化学习方法 | [Reinforced Evidence-Aware Long Video Understanding](cards-0010.md#paper-151586) | 在长视频问答奖励中并列考察答案正确和来源帧支持。 |
+| 大语言模型 | 训练策略 | [Reinforced Fast Weights via Next-Sequence Prediction](cards-0010.md#paper-154908) | 把长期记忆架构的监督单位由下一 token 换成多 token 延续。 |
+| 大语言模型 | 训练策略 | [Reinforcement Learning for Code Optimization](cards-0010.md#paper-149385) | 把代码优化奖励置于正确性约束内，并用稳定时间测量控制奖励噪声。 |
+| 大语言模型 | 强化学习方法 | [Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages](cards-0010.md#paper-154650) | 以去噪步骤为动作做策略更新，只对选出的步骤估计优势。 |
+| 强化学习 | 强化学习方法 | [Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines](cards-0010.md#paper-149595) | 无顺序子任务的长程奖励用剩余任务议程和耦合状态表达。 |
+| 强化学习与决策 | 强化学习与奖励 | [Reinforcement Learning from Rich Feedback with Distributional DAgger](cards-0010.md#paper-155273) | 有丰富教师反馈时重点比较正向交叉熵 |
+| 智能体 | 强化学习与奖励 | [Reinforcement World Model Learning for LLM-based Agents](cards-0010.md#paper-152104) | 世界模型状态预测用语义奖励 |
+| 视觉与多模态 | 强化学习与奖励 | [Reinforcing Multimodal Reasoning Against Visual Degradation](cards-0010.md#paper-152003) | 只在干净正确轨迹上施加退化一致性 |
+| 具身智能与机器人 | 强化学习与奖励 | [Reinforcing VLAs in Task-Agnostic World Models](cards-0010.md#paper-153917) | 用任务无关世界模型想象适配 VLA 时过滤不可靠轨迹 |
+| 大语言模型 | 推理与搜索 | [Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference](cards-0010.md#paper-148959) | 并行推理调粒子筛选前验证过程奖励误差 |
+| 视觉与多模态 | 训练与优化 | [Relational Feature Distillation for Lightweight 3D Point Cloud Segmentation](cards-0010.md#paper-148750) | 轻量点云模型蒸馏各层相对关系 |
+| 机器学习基础与统计 | 推理与搜索 | [Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization](cards-0010.md#paper-150993) | 组合优化将中间合法性控制和终端排序分开 |
+| 大语言模型 | 训练与优化 | [Relaxed On-Policy Distillation: Selective Credit Allocation for Scaling Reasoning Efficiently](cards-0010.md#paper-150064) | 在线蒸馏只给有辨识力的 token 教师信用 |
+| 智能体 | 评测与诊断 | [Relevance Is Not Necessity: Selecting the Necessary API Set for Tool-Using LLMs](cards-0010.md#paper-149528) | API 选择验收整套必要性而非逐 API 相关性 |
+| 计算机视觉 | 位置编码 | [RelFlexformer: Efficient Attention Transformers for Integrable Relative Positional Encodings](cards-0010.md#paper-154871) | 非规则点云采用可积相对位置调制。 |
+| 计算机视觉 | 三维视觉 | [RelGS: Relation-Aware Gaussian Splatting for Open-Vocabulary 3D Scene Understanding](cards-0010.md#paper-155343) | 3D 语义记忆保存带置信的对象关系。 |
+| 具身智能与机器人 | 持续学习 | [Reliability-Budgeted Edge–Cloud Adaptation for Continual Multimodal Dehazing on UAV](cards-0010.md#paper-154996) | 无人机边缘自适应保冻结锚，并门控云更新。 |
+| 多模态学习 | 不确定性估计 | [Reliability-Coupled Manifold-Aware Diffusion for Missing-Modality Inference](cards-0010.md#paper-156117) | 缺失模态的补全置信度反馈到预测。 |
+| 机器学习理论 | 模型鲁棒性 | [Reliable Abstention under Adversarial Injections: Lower Bounds and New Upper Bounds](cards-0010.md#paper-151312) | 输入污染的在线分类可由小证据集决定是否拒答。 |
+| 大语言模型 | 采样与推理 | [Reliable Chain-of-Thought via Prefix Consistency](cards-0010.md#paper-154913) | 投票时用截断重新生成的答案稳定性加权。 |
+| 模型效率与系统 | 量化 | [Reliable Clustering and Quantization via Distortion-Constrained Optimal Transport](cards-0010.md#paper-153600) | 量化分配给每簇单独的失真预算。 |
+| 多模态学习 | 不确定性估计 | [Reliable Federated Multi-View Learning via Conflict-Aware Evidence Calibration](cards-0010.md#paper-153948) | 联邦多视角融合先校准证据冲突。 |
+| 智能体与工具使用 | 评测与诊断 | [ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization](cards-0010.md#paper-153462) | 优化求解器生成后验证参数扰动响应。 |
+| 具身智能与机器人 | 记忆机制 | [Remembering What Matters: From Markovian to Subtask-Causal Memory in VLA Policies](cards-0010.md#paper-153954) | 长操控先检索因果前置子任务，再取状态变化帧。 |
+| 智能体与工具使用 | 记忆机制 | [Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory](cards-0010.md#paper-150643) | 按状态差异是否改变行动来分裂记忆。 |
+| 具身智能与机器人 | 不确定性估计 | [Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees](cards-0010.md#paper-152348) | 多视角记忆用描述分歧分配额外查询。 |
+| 智能体与工具使用 | 记忆机制 | [Remember Your Trace: Memory-Guided Long-Horizon Agentic Framework for Consistent and Hierarchical Repository-Level Code Documentation](cards-0010.md#paper-154827) | 生成仓库说明按依赖遍历并保留跨模块证据。 |
+| 多模态学习 | 评测与诊断 | [Render Structure Uncertainty for HTML Repair in  MLLM-based UI-to-Code Generation](cards-0010.md#paper-154842) | UI 修复保留一组可能的 DOM 归因并实渲染比较。 |
+| 机器学习理论 | 优化算法 | [Rennala-NSGD: Asynchronous Stochastic Optimization Beyond Euclidean Geometry](cards-0010.md#paper-148500) | 异步优化估方差时与约束几何匹配。 |
+| 大语言模型 | 扩散模型 | [Renoise Consistency: Unlocking Efficient Self-Correction for Diffusion Large Language Models](cards-0010.md#paper-151651) | 扩散文本修错与训练噪声分布保持一致。 |
+| 计算机视觉 | 三维视觉 | [ReorgGS: Equivalent Distribution Reorganization for 3D Gaussian Splatting](cards-0010.md#paper-151643) | 3DGS 优化停滞时重组表示继续训。 |
+| 大语言模型 | 可解释性 | [Rep2Text: Decoding Full Text from a Single LLM Token Representation](cards-0010.md#paper-153066) | 将末 token 表征可读性分成语义和逐词评估。 |
+| 多模态学习 | 表征学习 | [RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](cards-0010.md#paper-154626) | 增加模态时用成对分解共享和独有信息。 |
+| 多模态学习 | 模型架构 | [RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space](cards-0010.md#paper-153090) | 文生图去噪器的扩容预算可先分给预训练多模态条件编码器。 |
+| 强化学习 | 训练策略 | [Replay-buffer engineering for noise-robust quantum circuit optimization](cards-0010.md#paper-148828) | 经验回放从优先高 TD 误差逐步转向优先可靠目标。 |
+| 大语言模型 | 推理策略 | [Replicas-as-Variables: A Planner for Throughput-Optimal Routing in LLM Deployment](cards-0010.md#paper-154325) | 异构 GPU 部署联合决定不均匀副本数和激活路由。 |
+| 大语言模型 | 评测与诊断 | [RepoMirage: Probing Repository Context Reasoning in Code Agents with Perturbations](cards-0010.md#paper-139568) | 用语义不变的上下文扰动测代理究竟在推理还是依赖仓库线索。 |
+| 多模态学习 | 评测与诊断 | [Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation](cards-0010.md#paper-138929) | 评测生成式报告时主动测量更换等义参考是否会重排模型。 |
+| 机器人学 | 强化学习方法 | [RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models](cards-0010.md#paper-153104) | 让策略分别学正常执行、失误前缀和状态恢复。 |
+| 大语言模型 | 评测与诊断 | [RepoZero: Can LLMs Generate a Code Repository from Scratch?](cards-0010.md#paper-139682) | 用已有实现的输出等价性检验智能体能否从规格重建项目。 |
+| 多模态学习 | 模型架构 | [Representation Forcing for Bottleneck-Free Unified Multimodal Models](cards-0010.md#paper-152733) | 统一多模态生成器先输出理解用的语义表征，再生成像素。 |
+| 计算机视觉 | 损失函数 | [Representation Fréchet Loss for Visual Generation](cards-0010.md#paper-154990) | 将分布统计的样本窗口和梯度批次大小分开。 |
+| 强化学习 | 表征学习 | [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](cards-0010.md#paper-151906) | 多任务连续控制可以先试预测表征和高容量价值函数，再决定是否加入规划。 |
+| 计算机视觉 | 训练策略 | [Representation Preconditioning for Efficient Diffusion Model Training](cards-0010.md#paper-151596) | 训练扩散主目标前，只用干净潜变量对齐早期层与视觉表征。 |
+| 计算机视觉 | 表征学习 | [Representation Rigidity in Face Embeddings: Orthogonal Identifiability and Backfill-Free Compatibility](cards-0010.md#paper-151431) | 更换嵌入模型时先测全局正交对齐能否复用旧索引。 |
+| 机器学习基础与统计 | 评测与诊断 | [Reproducibility study of "Bilinear MLPs enable weight-based mechanistic interpretability"](cards-0010.md#paper-157016) | 在复杂自然图像上复测权重特征分解的解释性。 |
+| 大语言模型 | 评测与诊断 | [Reproducibility study of FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering](cards-0010.md#paper-157022) | 公平性校准须先确认未校准基线有可测效用和足够有效输出。 |
+| 智能体 | 评测与诊断 | [Reproducing FACTER: Fairness via Conformal Thresholding and Prompt Repair](cards-0010.md#paper-157633) | 动态公平修复必须用独立固定门槛和静态提示验证 |
+| 机器学习基础与统计 | 理论与统计 | [Requential Coding: Measuring Model Compressibility by Coding Data Instead of Parameters](cards-0010.md#paper-150681) | 用编码数据长度估模型复杂度和过拟合 |
+| 具身智能与机器人 | 模型与架构 | [RESBev: Making BEV Perception More Robust](cards-0010.md#paper-150281) | BEV 感知在语义状态层做时序修复 |
+| 机器学习基础与统计 | 训练与优化 | [Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](cards-0010.md#paper-153283) | 异步 SGD 学习率按工作器计算时间重标 |
+| 具身智能与机器人 | 评测与诊断 | [RescueBench: Can Embodied Agents Save Lives in the Wild?](cards-0010.md#paper-139237) | 导航基准独立测探索和空间记忆 |
+| 具身智能与机器人 | 评测与诊断 | [Reset Dependence Is Embodied: Training Protocol Changes Which Morphologies Appear Optimal](cards-0010.md#paper-138928) | 形态搜索用多种重置协议作稳健验收 |
+| 机器学习基础与统计 | 评测与诊断 | [Residual Calibration via Local Feature-Space Refinement](cards-0010.md#paper-153548) | 全局校准后用局部邻居修正残差 |
+| 机器学习基础与统计 | 评测与诊断 | [Residual Expertise Is Not Decision Value](cards-0010.md#paper-152370) | 人工介入排序看预期行动收益而非预测改进 |
+| 具身智能与机器人 | 评测与诊断 | [Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization](cards-0010.md#paper-148940) | 具身系统除成功率外测恢复代价与压力下完成 |
+| 智能体 | 记忆与检索 | [Resilient Latent Readouts for Long-Context Question Answering](cards-0010.md#paper-148752) | 重新定位证据入库时比较原前缀潜态和文本重编码 |

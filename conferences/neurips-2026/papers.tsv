@@ -6488,126 +6488,126 @@ poster_id	title	paper_url	status	reason
 153374	RefineTok: Scale-Wise Tokenization for Progressive Visual Refinement	https://neurips.cc/virtual/2026/poster/153374	excluded	摘要给出渐进分词的联合改动，缺少可核对的独立对照或数值。
 148736	Refining Compositional Diffusion for Reliable Long-Horizon Planning	https://neurips.cc/virtual/2026/poster/148736	included	拼接扩散规划要判断全局是否落在可行模式
 152356	ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving	https://neurips.cc/virtual/2026/poster/152356	included	草拟和自编辑用联合 rollout 奖励训练
-153052	Reflected Schrödinger Bridge Matching	https://neurips.cc/virtual/2026/poster/153052	pending	-
-148600	Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/148600	pending	-
-154491	Reflection with Action-Induced Visual Differences for Desktop GUI Agents	https://neurips.cc/virtual/2026/poster/154491	pending	-
-154998	Reflective Prompted Policy Optimization: Trajectory-Grounded Revision and Salience Bias	https://neurips.cc/virtual/2026/poster/154998	pending	-
-155820	ReflectMT: Internalizing Reflection for Efficient and High-Quality Machine Translation	https://neurips.cc/virtual/2026/poster/155820	pending	-
-151635	ReFlex: Faithful Panorama Reconstruction from a Single Image with Reflections	https://neurips.cc/virtual/2026/poster/151635	pending	-
-151529	REFLEX: Reflective Evolution from LLM Experience	https://neurips.cc/virtual/2026/poster/151529	pending	-
-148483	REFLEX: RNA Ensemble Generation via Flexibility-Calibrated Stochastic Bridge	https://neurips.cc/virtual/2026/poster/148483	pending	-
-139603	REFORM-3D: A Representation-Centric Evaluation Framework for 3D Medical Vision Foundation Models	https://neurips.cc/virtual/2026/poster/139603	pending	-
-148877	Reformulate LLM Reinforcement Learning for Stable Training under Black-box Discrepancy	https://neurips.cc/virtual/2026/poster/148877	pending	-
-153767	Reformulating KV Cache Eviction Problem for Long-Context LLM Inference	https://neurips.cc/virtual/2026/poster/153767	pending	-
-149558	Reformulating Neural Operators in $d+1$ Dimensions for Embedding Evolution	https://neurips.cc/virtual/2026/poster/149558	pending	-
-152804	ReFPO: Reflow Regularization for Flow Matching Policy Gradients	https://neurips.cc/virtual/2026/poster/152804	pending	-
-153878	ReFree-S2V: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance	https://neurips.cc/virtual/2026/poster/153878	pending	-
-150490	REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs	https://neurips.cc/virtual/2026/poster/150490	pending	-
-151868	ReGDiff: Guided Diffusion in Regulated Latent Space for Exploring Metamaterial Voxel Geometry	https://neurips.cc/virtual/2026/poster/151868	pending	-
-152784	ReGen: Agentic Video World Modeling with Synergized Reasoning and Generation	https://neurips.cc/virtual/2026/poster/152784	pending	-
-148181	ReGenHuman: Re-Generating Human Appearances for Realistic Full-Body Video Anonymization	https://neurips.cc/virtual/2026/poster/148181	pending	-
-155954	RegimeVGGT: Layer-Wise Spatially Preserving Redundancy Removal for Visual Geometry Grounded Transformer	https://neurips.cc/virtual/2026/poster/155954	pending	-
-153478	Region-Normalized DPO for Medical Image Segmentation	https://neurips.cc/virtual/2026/poster/153478	pending	-
-149369	Register Anything Model for Generalizable and Robust Point Cloud Registration	https://neurips.cc/virtual/2026/poster/149369	pending	-
-152096	Regret-Based $(\epsilon,\delta)$-optimal Stopping Criteria for Bayesian Optimization	https://neurips.cc/virtual/2026/poster/152096	pending	-
-156767	Regret minimization in Linear Bandits with offline data via extended D-optimal exploration.	https://neurips.cc/virtual/2026/poster/156767	pending	-
-153044	Regret Minimization in Single-Dimensional Contract-Design with Binary Actions	https://neurips.cc/virtual/2026/poster/153044	pending	-
-155805	Regret-Optimal Wasserstein-Robust Regression	https://neurips.cc/virtual/2026/poster/155805	pending	-
-148781	Regret–Oracle Complexity Tradeoffs in Agnostic Online Learning	https://neurips.cc/virtual/2026/poster/148781	pending	-
-155015	ReGuidance: Diffusion Steering with Strong Latent Initializations Solves Hard Inverse Problems	https://neurips.cc/virtual/2026/poster/155015	pending	-
-150245	Regularization Paths for Continuous DAG Learning	https://neurips.cc/virtual/2026/poster/150245	pending	-
-148920	Regularized Large Neighborhood Search	https://neurips.cc/virtual/2026/poster/148920	pending	-
-148798	Rehearsal-Free Statistical Prototype Regularization for Federated Incremental Learning	https://neurips.cc/virtual/2026/poster/148798	pending	-
-154808	Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow Models	https://neurips.cc/virtual/2026/poster/154808	pending	-
-151586	Reinforced Evidence-Aware Long Video Understanding	https://neurips.cc/virtual/2026/poster/151586	pending	-
-154908	Reinforced Fast Weights via Next-Sequence Prediction	https://neurips.cc/virtual/2026/poster/154908	pending	-
-140046	Reinforcement Learning Agents Are Swimmers	https://neurips.cc/virtual/2026/poster/140046	pending	-
-148223	Reinforcement learning enhanced flow matching for reference-based tumor generation on unpaired CT images	https://neurips.cc/virtual/2026/poster/148223	pending	-
-149385	Reinforcement Learning for Code Optimization	https://neurips.cc/virtual/2026/poster/149385	pending	-
-154650	Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages	https://neurips.cc/virtual/2026/poster/154650	pending	-
-151794	Reinforcement Learning for Exponential Utility: Algorithms and Convergence in Discounted MDPs	https://neurips.cc/virtual/2026/poster/151794	pending	-
-149595	Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines	https://neurips.cc/virtual/2026/poster/149595	pending	-
-154966	Reinforcement Learning for View-Adaptive Distillation in 3D Gaussian Compression	https://neurips.cc/virtual/2026/poster/154966	pending	-
-155273	Reinforcement Learning from Rich Feedback with Distributional DAgger	https://neurips.cc/virtual/2026/poster/155273	pending	-
-156101	Reinforcement Learning-Guided Symbolic Execution for Efficient and Exploitable Smart Contract Analysis	https://neurips.cc/virtual/2026/poster/156101	pending	-
-151980	Reinforcement Learning with Multi-Step Lookahead Information Via Adaptive Batching	https://neurips.cc/virtual/2026/poster/151980	pending	-
-151548	Reinforcement Learning with Verifiable Physics: Post-training LLMs for PDE Solver Generation	https://neurips.cc/virtual/2026/poster/151548	pending	-
-152104	Reinforcement World Model Learning for LLM-based Agents	https://neurips.cc/virtual/2026/poster/152104	pending	-
-152003	Reinforcing Multimodal Reasoning Against Visual Degradation	https://neurips.cc/virtual/2026/poster/152003	pending	-
-153917	Reinforcing VLAs in Task-Agnostic World Models	https://neurips.cc/virtual/2026/poster/153917	pending	-
-153736	REINS: A Self-Evolving Agent Harness for Real-Time Trajectory Planning	https://neurips.cc/virtual/2026/poster/153736	pending	-
-155340	REINS: Learning Inertia-Induced Geometry for Physics-Consistent Motion Representation in Clinical Gait Phenotyping	https://neurips.cc/virtual/2026/poster/155340	pending	-
-148959	Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference	https://neurips.cc/virtual/2026/poster/148959	pending	-
-151742	RelAgent: LLM Agents as Data Scientists for Relational Learning	https://neurips.cc/virtual/2026/poster/151742	pending	-
-148750	Relational Feature Distillation for Lightweight 3D Point Cloud Segmentation	https://neurips.cc/virtual/2026/poster/148750	pending	-
-151952	Relation-Aware Graph Foundation Model	https://neurips.cc/virtual/2026/poster/151952	pending	-
-149148	RelationVGGT : Visual Geometry Transformers for 3D Spatial Relation Segmentation	https://neurips.cc/virtual/2026/poster/149148	pending	-
-151577	Relative Energy Barriers for Copyright-Aware Language Model Adaptation	https://neurips.cc/virtual/2026/poster/151577	pending	-
-151495	RelaVPR: Relation-Based Knowledge Distillation for Efficient Visual Place Recognition	https://neurips.cc/virtual/2026/poster/151495	pending	-
-150993	Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/150993	pending	-
-150064	Relaxed On-Policy Distillation: Selective Credit Allocation for Scaling Reasoning Efficiently	https://neurips.cc/virtual/2026/poster/150064	pending	-
-154593	Releasing Anchors from Cross-View Correspondence: Probabilistic Multi-View Anchor Graph Clustering	https://neurips.cc/virtual/2026/poster/154593	pending	-
-149528	Relevance Is Not Necessity: Selecting the Necessary API Set for Tool-Using LLMs	https://neurips.cc/virtual/2026/poster/149528	pending	-
-154871	RelFlexformer: Efficient Attention Transformers for Integrable Relative Positional Encodings	https://neurips.cc/virtual/2026/poster/154871	pending	-
-155343	RelGS: Relation-Aware Gaussian Splatting for Open-Vocabulary 3D Scene Understanding	https://neurips.cc/virtual/2026/poster/155343	pending	-
-154996	Reliability-Budgeted Edge–Cloud Adaptation for Continual Multimodal Dehazing on UAV	https://neurips.cc/virtual/2026/poster/154996	pending	-
-156117	Reliability-Coupled Manifold-Aware Diffusion for Missing-Modality Inference	https://neurips.cc/virtual/2026/poster/156117	pending	-
-151312	Reliable Abstention under Adversarial Injections: Lower Bounds and New Upper Bounds	https://neurips.cc/virtual/2026/poster/151312	pending	-
-154913	Reliable Chain-of-Thought via Prefix Consistency	https://neurips.cc/virtual/2026/poster/154913	pending	-
-153600	Reliable Clustering and Quantization via Distortion-Constrained Optimal Transport	https://neurips.cc/virtual/2026/poster/153600	pending	-
-153948	Reliable Federated Multi-View Learning via Conflict-Aware Evidence Calibration	https://neurips.cc/virtual/2026/poster/153948	pending	-
-153462	ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization	https://neurips.cc/virtual/2026/poster/153462	pending	-
-153954	Remembering What Matters: From Markovian to Subtask-Causal Memory in VLA Policies	https://neurips.cc/virtual/2026/poster/153954	pending	-
-150643	Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory	https://neurips.cc/virtual/2026/poster/150643	pending	-
-152348	Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees	https://neurips.cc/virtual/2026/poster/152348	pending	-
-154827	Remember Your Trace: Memory-Guided Long-Horizon Agentic Framework for Consistent and Hierarchical Repository-Level Code Documentation	https://neurips.cc/virtual/2026/poster/154827	pending	-
-149070	Remote Photoplethysmography Based on a Skin Reflection Exponential Model	https://neurips.cc/virtual/2026/poster/149070	pending	-
-154842	Render Structure Uncertainty for HTML Repair in  MLLM-based UI-to-Code Generation	https://neurips.cc/virtual/2026/poster/154842	pending	-
-148500	Rennala-NSGD: Asynchronous Stochastic Optimization Beyond Euclidean Geometry	https://neurips.cc/virtual/2026/poster/148500	pending	-
-151651	Renoise Consistency: Unlocking Efficient Self-Correction for Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/151651	pending	-
-151643	ReorgGS: Equivalent Distribution Reorganization for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/151643	pending	-
-153066	Rep2Text: Decoding Full Text from a Single LLM Token Representation	https://neurips.cc/virtual/2026/poster/153066	pending	-
-154626	RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities	https://neurips.cc/virtual/2026/poster/154626	pending	-
-153090	RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space	https://neurips.cc/virtual/2026/poster/153090	pending	-
-155797	RePiD: Efficient Recursive Pixel-Space Diffusion via Hierarchical Patch Denoising	https://neurips.cc/virtual/2026/poster/155797	pending	-
-148828	Replay-buffer engineering for noise-robust quantum circuit optimization	https://neurips.cc/virtual/2026/poster/148828	pending	-
-156788	Replicability is Asymptotically Free in Multi-armed Bandits	https://neurips.cc/virtual/2026/poster/156788	pending	-
-151345	Replicable Constrained Bandits	https://neurips.cc/virtual/2026/poster/151345	pending	-
-154325	Replicas-as-Variables: A Planner for Throughput-Optimal Routing in LLM Deployment	https://neurips.cc/virtual/2026/poster/154325	pending	-
-151672	RepoLaunch: Automating Build and Management of Code Repositories across Languages and Platforms	https://neurips.cc/virtual/2026/poster/151672	pending	-
-139568	RepoMirage: Probing Repository Context Reasoning in Code Agents with Perturbations	https://neurips.cc/virtual/2026/poster/139568	pending	-
-138929	Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation	https://neurips.cc/virtual/2026/poster/138929	pending	-
-153385	RepoScope: Bridging Physical Structure and Logical Flow for Intent-Driven Repository Documentation	https://neurips.cc/virtual/2026/poster/153385	pending	-
-153104	RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/153104	pending	-
-139682	RepoZero: Can LLMs Generate a Code Repository from Scratch?	https://neurips.cc/virtual/2026/poster/139682	pending	-
-152733	Representation Forcing for Bottleneck-Free Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/152733	pending	-
-154990	Representation Fréchet Loss for Visual Generation	https://neurips.cc/virtual/2026/poster/154990	pending	-
-151906	Representation Learning Enables Scalable Multitask Deep Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151906	pending	-
-151596	Representation Preconditioning for Efficient Diffusion Model Training	https://neurips.cc/virtual/2026/poster/151596	pending	-
-151431	Representation Rigidity in Face Embeddings: Orthogonal Identifiability and Backfill-Free Compatibility	https://neurips.cc/virtual/2026/poster/151431	pending	-
-150391	Representing Part-Whole Hierarchy with Nested Neuronal Coherence	https://neurips.cc/virtual/2026/poster/150391	pending	-
-157016	"Reproducibility study of ""Bilinear MLPs enable weight-based mechanistic interpretability"""	https://neurips.cc/virtual/2026/poster/157016	pending	-
-157022	Reproducibility study of FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering	https://neurips.cc/virtual/2026/poster/157022	pending	-
-157633	Reproducing FACTER: Fairness via Conformal Thresholding and Prompt Repair	https://neurips.cc/virtual/2026/poster/157633	pending	-
-155763	Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence	https://neurips.cc/virtual/2026/poster/155763	pending	-
-150681	Requential Coding: Measuring Model Compressibility by Coding Data Instead of Parameters	https://neurips.cc/virtual/2026/poster/150681	pending	-
-153512	Reranking with Intra-modal Visual Association for Text-to-Image Person Re-Identification	https://neurips.cc/virtual/2026/poster/153512	pending	-
-152823	ReSAM: Representation-Level Safety Margin Alignment for Vision–Language Models	https://neurips.cc/virtual/2026/poster/152823	pending	-
-150281	RESBev: Making BEV Perception More Robust	https://neurips.cc/virtual/2026/poster/150281	pending	-
-153283	Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity	https://neurips.cc/virtual/2026/poster/153283	pending	-
-139420	RESCAST-100K: A Comprehensive Dataset for Cross-Domain Residential Load and Indoor Temperature Forecasting	https://neurips.cc/virtual/2026/poster/139420	pending	-
-139237	RescueBench: Can Embodied Agents Save Lives in the Wild?	https://neurips.cc/virtual/2026/poster/139237	pending	-
-148549	ReSCUE: Re-translation with Sentence Commitment for Unsegmented Long-Form Simultaneous Sign Language Translation	https://neurips.cc/virtual/2026/poster/148549	pending	-
-151005	ReSET: Accurate Latency-Critical NVFP4 Reasoning via Step-Aware Temperature Scaling	https://neurips.cc/virtual/2026/poster/151005	pending	-
-138928	Reset Dependence Is Embodied: Training Protocol Changes Which Morphologies Appear Optimal	https://neurips.cc/virtual/2026/poster/138928	pending	-
-152030	ResFusion: Medical Image Fusion Driven by Implicit-Forward Diffusion and Time-aware Joint Optimization	https://neurips.cc/virtual/2026/poster/152030	pending	-
-155263	Residual-Autoregressive Context for 3D Gaussian Splatting Compression	https://neurips.cc/virtual/2026/poster/155263	pending	-
-153548	Residual Calibration via Local Feature-Space Refinement	https://neurips.cc/virtual/2026/poster/153548	pending	-
-152370	Residual Expertise Is Not Decision Value	https://neurips.cc/virtual/2026/poster/152370	pending	-
-155369	Residual Paving: Diagnosing the Routing Bottleneck in Selective Refusal Editing	https://neurips.cc/virtual/2026/poster/155369	pending	-
-148940	Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization	https://neurips.cc/virtual/2026/poster/148940	pending	-
-149730	Resilient Byzantine Agreement with Predictions	https://neurips.cc/virtual/2026/poster/149730	pending	-
-148752	Resilient Latent Readouts for Long-Context Question Answering	https://neurips.cc/virtual/2026/poster/148752	pending	-
+153052	Reflected Schrödinger Bridge Matching	https://neurips.cc/virtual/2026/poster/153052	included	有硬边界的生成先评估反射桥。
+148600	Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning	https://neurips.cc/virtual/2026/poster/148600	included	长推理选高熵反思点恢复视觉依赖。
+154491	Reflection with Action-Induced Visual Differences for Desktop GUI Agents	https://neurips.cc/virtual/2026/poster/154491	included	桌面操作先提取屏幕变化，再判断是否成功。
+154998	Reflective Prompted Policy Optimization: Trajectory-Grounded Revision and Salience Bias	https://neurips.cc/virtual/2026/poster/154998	included	用行为轨迹指导紧凑策略的参数修改。
+155820	ReflectMT: Internalizing Reflection for Efficient and High-Quality Machine Translation	https://neurips.cc/virtual/2026/poster/155820	included	把训练时译后检查的收益内化为首次生成。
+151635	ReFlex: Faithful Panorama Reconstruction from a Single Image with Reflections	https://neurips.cc/virtual/2026/poster/151635	included	重建时按证据可靠性限制生成润色。
+151529	REFLEX: Reflective Evolution from LLM Experience	https://neurips.cc/virtual/2026/poster/151529	included	将视觉诊断和程序生成交给不同角色。
+148483	REFLEX: RNA Ensemble Generation via Flexibility-Calibrated Stochastic Bridge	https://neurips.cc/virtual/2026/poster/148483	excluded	摘要实证集中于 RNA 构象生成，暂不提炼设计机制。
+139603	REFORM-3D: A Representation-Centric Evaluation Framework for 3D Medical Vision Foundation Models	https://neurips.cc/virtual/2026/poster/139603	included	评估 3D 基础模型时冻结表示、分开采集和适配轴。
+148877	Reformulate LLM Reinforcement Learning for Stable Training under Black-box Discrepancy	https://neurips.cc/virtual/2026/poster/148877	included	不同采样与训练引擎间施加轨迹差异约束。
+153767	Reformulating KV Cache Eviction Problem for Long-Context LLM Inference	https://neurips.cc/virtual/2026/poster/153767	included	驱逐 KV 按跨头可比的输出贡献排序。
+149558	Reformulating Neural Operators in $d+1$ Dimensions for Embedding Evolution	https://neurips.cc/virtual/2026/poster/149558	included	把嵌入演化写成独立算子维度。
+152804	ReFPO: Reflow Regularization for Flow Matching Policy Gradients	https://neurips.cc/virtual/2026/poster/152804	included	流策略要少步推理时在 RL 中直接正则路径。
+153878	ReFree-S2V: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance	https://neurips.cc/virtual/2026/poster/153878	included	语音驱动动画分开建音位和韵律。
+150490	REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs	https://neurips.cc/virtual/2026/poster/150490	included	时间图融合外部文本时对迟到和不确定证据门控。
+151868	ReGDiff: Guided Diffusion in Regulated Latent Space for Exploring Metamaterial Voxel Geometry	https://neurips.cc/virtual/2026/poster/151868	included	新颖结构生成把远离历史与可行性拆成两个阶段。
+152784	ReGen: Agentic Video World Modeling with Synergized Reasoning and Generation	https://neurips.cc/virtual/2026/poster/152784	included	长视频世界模型让规划器验收每段状态。
+148181	ReGenHuman: Re-Generating Human Appearances for Realistic Full-Body Video Anonymization	https://neurips.cc/virtual/2026/poster/148181	included	匿名化可保动作结构并重生成外观。
+155954	RegimeVGGT: Layer-Wise Spatially Preserving Redundancy Removal for Visual Geometry Grounded Transformer	https://neurips.cc/virtual/2026/poster/155954	included	3D 多视图压缩按层和任务分配。
+153478	Region-Normalized DPO for Medical Image Segmentation	https://neurips.cc/virtual/2026/poster/153478	included	掩码偏好学习仅按分歧区域归一。
+149369	Register Anything Model for Generalizable and Robust Point Cloud Registration	https://neurips.cc/virtual/2026/poster/149369	included	跨传感器配准前依据局部几何调整体素化尺度，并把注意力限制在局部几何一致性上。
+152096	Regret-Based $(\epsilon,\delta)$-optimal Stopping Criteria for Bayesian Optimization	https://neurips.cc/virtual/2026/poster/152096	included	用高概率遗憾上界决定昂贵黑箱评估何时结束。
+156767	Regret minimization in Linear Bandits with offline data via extended D-optimal exploration.	https://neurips.cc/virtual/2026/poster/156767	included	使用离线设计矩阵的欠覆盖方向指导在线探索。
+153044	Regret Minimization in Single-Dimensional Contract-Design with Binary Actions	https://neurips.cc/virtual/2026/poster/153044	excluded	结论主要依赖二元动作和一维私有类型的契约设定。
+155805	Regret-Optimal Wasserstein-Robust Regression	https://neurips.cc/virtual/2026/poster/155805	included	固定分布偏移预算下，可先诊断条件数和有效秩，再选择鲁棒回归目标。
+148781	Regret–Oracle Complexity Tradeoffs in Agnostic Online Learning	https://neurips.cc/virtual/2026/poster/148781	excluded	在线分类的预言机界依赖组合维数，未给出广泛深度模型切换依据。
+155015	ReGuidance: Diffusion Steering with Strong Latent Initializations Solves Hard Inverse Problems	https://neurips.cc/virtual/2026/poster/155015	included	把现有逆问题解反演到扩散潜变量，再进行引导。
+150245	Regularization Paths for Continuous DAG Learning	https://neurips.cc/virtual/2026/poster/150245	included	以支持集固定区间上的驻点路径替代逐个稀疏系数重训。
+148920	Regularized Large Neighborhood Search	https://neurips.cc/virtual/2026/poster/148920	excluded	摘要证据对一般神经模型何时应使用正则化局部采样的条件交代有限。
+148798	Rehearsal-Free Statistical Prototype Regularization for Federated Incremental Learning	https://neurips.cc/virtual/2026/poster/148798	excluded	联邦原型增量设置专门，暂无足够证据区分原型约束的独立收益。
+154808	Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow Models	https://neurips.cc/virtual/2026/poster/154808	included	扩散奖励微调时复用干净样本的奖励来监督多个噪声状态。
+151586	Reinforced Evidence-Aware Long Video Understanding	https://neurips.cc/virtual/2026/poster/151586	included	在长视频问答奖励中并列考察答案正确和来源帧支持。
+154908	Reinforced Fast Weights via Next-Sequence Prediction	https://neurips.cc/virtual/2026/poster/154908	included	把长期记忆架构的监督单位由下一 token 换成多 token 延续。
+140046	Reinforcement Learning Agents Are Swimmers	https://neurips.cc/virtual/2026/poster/140046	excluded	立场论文主要综合折扣奖励和平均奖励的已有工作，未提出新实验证据。
+148223	Reinforcement learning enhanced flow matching for reference-based tumor generation on unpaired CT images	https://neurips.cc/virtual/2026/poster/148223	excluded	医疗影像合成应用依赖肿瘤参考与专属保真奖励，未显示独立机制的迁移贡献。
+149385	Reinforcement Learning for Code Optimization	https://neurips.cc/virtual/2026/poster/149385	included	把代码优化奖励置于正确性约束内，并用稳定时间测量控制奖励噪声。
+154650	Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages	https://neurips.cc/virtual/2026/poster/154650	included	以去噪步骤为动作做策略更新，只对选出的步骤估计优势。
+151794	Reinforcement Learning for Exponential Utility: Algorithms and Convergence in Discounted MDPs	https://neurips.cc/virtual/2026/poster/151794	excluded	理论依赖固定风险厌恶且仅在平稳策略类中担保最优，摘要缺少对候选决策机制的实证对照。
+149595	Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines	https://neurips.cc/virtual/2026/poster/149595	included	无顺序子任务的长程奖励用剩余任务议程和耦合状态表达。
+154966	Reinforcement Learning for View-Adaptive Distillation in 3D Gaussian Compression	https://neurips.cc/virtual/2026/poster/154966	excluded	3DGS 中视角选择与剪枝共同调整，摘要未区分视角策略的独立收益。
+155273	Reinforcement Learning from Rich Feedback with Distributional DAgger	https://neurips.cc/virtual/2026/poster/155273	included	有丰富教师反馈时重点比较正向交叉熵
+156101	Reinforcement Learning-Guided Symbolic Execution for Efficient and Exploitable Smart Contract Analysis	https://neurips.cc/virtual/2026/poster/156101	excluded	主要是自动发现可利用智能合约问题，缺少独立的安全非操作性贡献。
+151980	Reinforcement Learning with Multi-Step Lookahead Information Via Adaptive Batching	https://neurips.cc/virtual/2026/poster/151980	excluded	核心保证来自可见前瞻的理论设置，摘要未验证深度控制迁移。
+151548	Reinforcement Learning with Verifiable Physics: Post-training LLMs for PDE Solver Generation	https://neurips.cc/virtual/2026/poster/151548	excluded	主要结果来自 PDE 求解器的任务定制数学验证，未给更广场景对照。
+152104	Reinforcement World Model Learning for LLM-based Agents	https://neurips.cc/virtual/2026/poster/152104	included	世界模型状态预测用语义奖励
+152003	Reinforcing Multimodal Reasoning Against Visual Degradation	https://neurips.cc/virtual/2026/poster/152003	included	只在干净正确轨迹上施加退化一致性
+153917	Reinforcing VLAs in Task-Agnostic World Models	https://neurips.cc/virtual/2026/poster/153917	included	用任务无关世界模型想象适配 VLA 时过滤不可靠轨迹
+153736	REINS: A Self-Evolving Agent Harness for Real-Time Trajectory Planning	https://neurips.cc/virtual/2026/poster/153736	excluded	主要展示轨迹规划框架中的验证、索引与记忆组合，摘要未隔离机制贡献。
+155340	REINS: Learning Inertia-Induced Geometry for Physics-Consistent Motion Representation in Clinical Gait Phenotyping	https://neurips.cc/virtual/2026/poster/155340	excluded	主要为临床步态表型应用，尚缺独立机器人表征证据。
+148959	Reject, Resample, Repeat: Understanding Parallel Reasoning in Language Model Inference	https://neurips.cc/virtual/2026/poster/148959	included	并行推理调粒子筛选前验证过程奖励误差
+151742	RelAgent: LLM Agents as Data Scientists for Relational Learning	https://neurips.cc/virtual/2026/poster/151742	excluded	主要是关系数据的 SQL 特征工作流，摘要未报告具体收益及对照。
+148750	Relational Feature Distillation for Lightweight 3D Point Cloud Segmentation	https://neurips.cc/virtual/2026/poster/148750	included	轻量点云模型蒸馏各层相对关系
+151952	Relation-Aware Graph Foundation Model	https://neurips.cc/virtual/2026/poster/151952	excluded	多超网络组合，摘要未隔离各条件参数化的可迁移收益。
+149148	RelationVGGT : Visual Geometry Transformers for 3D Spatial Relation Segmentation	https://neurips.cc/virtual/2026/poster/149148	excluded	主要为新 3D 空间关系任务和标注工程，摘要未报告效果细节。
+151577	Relative Energy Barriers for Copyright-Aware Language Model Adaptation	https://neurips.cc/virtual/2026/poster/151577	excluded	核心为版权记忆训练专项且缺少迁移对照，未直接改变当前研究选型。
+151495	RelaVPR: Relation-Based Knowledge Distillation for Efficient Visual Place Recognition	https://neurips.cc/virtual/2026/poster/151495	excluded	摘要只列多项地点识别蒸馏组件，未给独立可迁移证据。
+150993	Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization	https://neurips.cc/virtual/2026/poster/150993	included	组合优化将中间合法性控制和终端排序分开
+150064	Relaxed On-Policy Distillation: Selective Credit Allocation for Scaling Reasoning Efficiently	https://neurips.cc/virtual/2026/poster/150064	included	在线蒸馏只给有辨识力的 token 教师信用
+154593	Releasing Anchors from Cross-View Correspondence: Probabilistic Multi-View Anchor Graph Clustering	https://neurips.cc/virtual/2026/poster/154593	excluded	主要为锚图聚类的特定概率模型，摘要未报告关注任务中的迁移证据。
+149528	Relevance Is Not Necessity: Selecting the Necessary API Set for Tool-Using LLMs	https://neurips.cc/virtual/2026/poster/149528	included	API 选择验收整套必要性而非逐 API 相关性
+154871	RelFlexformer: Efficient Attention Transformers for Integrable Relative Positional Encodings	https://neurips.cc/virtual/2026/poster/154871	included	非规则点云采用可积相对位置调制。
+155343	RelGS: Relation-Aware Gaussian Splatting for Open-Vocabulary 3D Scene Understanding	https://neurips.cc/virtual/2026/poster/155343	included	3D 语义记忆保存带置信的对象关系。
+154996	Reliability-Budgeted Edge–Cloud Adaptation for Continual Multimodal Dehazing on UAV	https://neurips.cc/virtual/2026/poster/154996	included	无人机边缘自适应保冻结锚，并门控云更新。
+156117	Reliability-Coupled Manifold-Aware Diffusion for Missing-Modality Inference	https://neurips.cc/virtual/2026/poster/156117	included	缺失模态的补全置信度反馈到预测。
+151312	Reliable Abstention under Adversarial Injections: Lower Bounds and New Upper Bounds	https://neurips.cc/virtual/2026/poster/151312	included	输入污染的在线分类可由小证据集决定是否拒答。
+154913	Reliable Chain-of-Thought via Prefix Consistency	https://neurips.cc/virtual/2026/poster/154913	included	投票时用截断重新生成的答案稳定性加权。
+153600	Reliable Clustering and Quantization via Distortion-Constrained Optimal Transport	https://neurips.cc/virtual/2026/poster/153600	included	量化分配给每簇单独的失真预算。
+153948	Reliable Federated Multi-View Learning via Conflict-Aware Evidence Calibration	https://neurips.cc/virtual/2026/poster/153948	included	联邦多视角融合先校准证据冲突。
+153462	ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization	https://neurips.cc/virtual/2026/poster/153462	included	优化求解器生成后验证参数扰动响应。
+153954	Remembering What Matters: From Markovian to Subtask-Causal Memory in VLA Policies	https://neurips.cc/virtual/2026/poster/153954	included	长操控先检索因果前置子任务，再取状态变化帧。
+150643	Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory	https://neurips.cc/virtual/2026/poster/150643	included	按状态差异是否改变行动来分裂记忆。
+152348	Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees	https://neurips.cc/virtual/2026/poster/152348	included	多视角记忆用描述分歧分配额外查询。
+154827	Remember Your Trace: Memory-Guided Long-Horizon Agentic Framework for Consistent and Hierarchical Repository-Level Code Documentation	https://neurips.cc/virtual/2026/poster/154827	included	生成仓库说明按依赖遍历并保留跨模块证据。
+149070	Remote Photoplethysmography Based on a Skin Reflection Exponential Model	https://neurips.cc/virtual/2026/poster/149070	excluded	应用主要受皮肤反射和面部生理信号假设约束，摘要未给出可独立验证的目标领域技术选择。
+154842	Render Structure Uncertainty for HTML Repair in  MLLM-based UI-to-Code Generation	https://neurips.cc/virtual/2026/poster/154842	included	UI 修复保留一组可能的 DOM 归因并实渲染比较。
+148500	Rennala-NSGD: Asynchronous Stochastic Optimization Beyond Euclidean Geometry	https://neurips.cc/virtual/2026/poster/148500	included	异步优化估方差时与约束几何匹配。
+151651	Renoise Consistency: Unlocking Efficient Self-Correction for Diffusion Large Language Models	https://neurips.cc/virtual/2026/poster/151651	included	扩散文本修错与训练噪声分布保持一致。
+151643	ReorgGS: Equivalent Distribution Reorganization for 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/151643	included	3DGS 优化停滞时重组表示继续训。
+153066	Rep2Text: Decoding Full Text from a Single LLM Token Representation	https://neurips.cc/virtual/2026/poster/153066	included	将末 token 表征可读性分成语义和逐词评估。
+154626	RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities	https://neurips.cc/virtual/2026/poster/154626	included	增加模态时用成对分解共享和独有信息。
+153090	RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space	https://neurips.cc/virtual/2026/poster/153090	included	文生图去噪器的扩容预算可先分给预训练多模态条件编码器。
+155797	RePiD: Efficient Recursive Pixel-Space Diffusion via Hierarchical Patch Denoising	https://neurips.cc/virtual/2026/poster/155797	excluded	递归补丁去噪较有潜力，但摘要缺少可判断全局一致性和节省量的关键对照。
+148828	Replay-buffer engineering for noise-robust quantum circuit optimization	https://neurips.cc/virtual/2026/poster/148828	included	经验回放从优先高 TD 误差逐步转向优先可靠目标。
+156788	Replicability is Asymptotically Free in Multi-armed Bandits	https://neurips.cc/virtual/2026/poster/156788	excluded	赌博机的渐近结果依赖足够长的时域，摘要未提供一般智能体可据此调整的证据。
+151345	Replicable Constrained Bandits	https://neurips.cc/virtual/2026/poster/151345	excluded	约束赌博机的理论保证未在摘要中形成与相邻可复现赌博机方法可直接对照的实践选择。
+154325	Replicas-as-Variables: A Planner for Throughput-Optimal Routing in LLM Deployment	https://neurips.cc/virtual/2026/poster/154325	included	异构 GPU 部署联合决定不均匀副本数和激活路由。
+151672	RepoLaunch: Automating Build and Management of Code Repositories across Languages and Platforms	https://neurips.cc/virtual/2026/poster/151672	excluded	贡献主要是多平台构建与任务生成的工程自动化，摘要未给独立决定代理能力的技术机制。
+139568	RepoMirage: Probing Repository Context Reasoning in Code Agents with Perturbations	https://neurips.cc/virtual/2026/poster/139568	included	用语义不变的上下文扰动测代理究竟在推理还是依赖仓库线索。
+138929	Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation	https://neurips.cc/virtual/2026/poster/138929	included	评测生成式报告时主动测量更换等义参考是否会重排模型。
+153385	RepoScope: Bridging Physical Structure and Logical Flow for Intent-Driven Repository Documentation	https://neurips.cc/virtual/2026/poster/153385	excluded	目录与调用图分区有参考价值，但摘要主要给组合系统表现，未区分双向意图更新收益。
+153104	RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/153104	included	让策略分别学正常执行、失误前缀和状态恢复。
+139682	RepoZero: Can LLMs Generate a Code Repository from Scratch?	https://neurips.cc/virtual/2026/poster/139682	included	用已有实现的输出等价性检验智能体能否从规格重建项目。
+152733	Representation Forcing for Bottleneck-Free Unified Multimodal Models	https://neurips.cc/virtual/2026/poster/152733	included	统一多模态生成器先输出理解用的语义表征，再生成像素。
+154990	Representation Fréchet Loss for Visual Generation	https://neurips.cc/virtual/2026/poster/154990	included	将分布统计的样本窗口和梯度批次大小分开。
+151906	Representation Learning Enables Scalable Multitask Deep Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151906	included	多任务连续控制可以先试预测表征和高容量价值函数，再决定是否加入规划。
+151596	Representation Preconditioning for Efficient Diffusion Model Training	https://neurips.cc/virtual/2026/poster/151596	included	训练扩散主目标前，只用干净潜变量对齐早期层与视觉表征。
+151431	Representation Rigidity in Face Embeddings: Orthogonal Identifiability and Backfill-Free Compatibility	https://neurips.cc/virtual/2026/poster/151431	included	更换嵌入模型时先测全局正交对齐能否复用旧索引。
+150391	Representing Part-Whole Hierarchy with Nested Neuronal Coherence	https://neurips.cc/virtual/2026/poster/150391	excluded	只在合成层级场景中显示可用性，摘要未给相对其他部件表示的可复用效率或泛化证据。
+157016	"Reproducibility study of ""Bilinear MLPs enable weight-based mechanistic interpretability"""	https://neurips.cc/virtual/2026/poster/157016	included	在复杂自然图像上复测权重特征分解的解释性。
+157022	Reproducibility study of FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering	https://neurips.cc/virtual/2026/poster/157022	included	公平性校准须先确认未校准基线有可测效用和足够有效输出。
+157633	Reproducing FACTER: Fairness via Conformal Thresholding and Prompt Repair	https://neurips.cc/virtual/2026/poster/157633	included	动态公平修复必须用独立固定门槛和静态提示验证
+155763	Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence	https://neurips.cc/virtual/2026/poster/155763	excluded	主要为同一任务的扩散特征、裁剪和标注组合，摘要没有独立迁移证据。
+150681	Requential Coding: Measuring Model Compressibility by Coding Data Instead of Parameters	https://neurips.cc/virtual/2026/poster/150681	included	用编码数据长度估模型复杂度和过拟合
+153512	Reranking with Intra-modal Visual Association for Text-to-Image Person Re-Identification	https://neurips.cc/virtual/2026/poster/153512	excluded	聚焦人员重识别，候选聚类和校准未在其他检索任务验证。
+152823	ReSAM: Representation-Level Safety Margin Alignment for Vision–Language Models	https://neurips.cc/virtual/2026/poster/152823	excluded	摘要没有独立的非操作性安全分析验证，保留部分不足以形成可复用卡。
+150281	RESBev: Making BEV Perception More Robust	https://neurips.cc/virtual/2026/poster/150281	included	BEV 感知在语义状态层做时序修复
+153283	Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity	https://neurips.cc/virtual/2026/poster/153283	included	异步 SGD 学习率按工作器计算时间重标
+139420	RESCAST-100K: A Comprehensive Dataset for Cross-Domain Residential Load and Indoor Temperature Forecasting	https://neurips.cc/virtual/2026/poster/139420	excluded	主要为住宅负荷和温度数据集，结论未隔离时间序列机制。
+139237	RescueBench: Can Embodied Agents Save Lives in the Wild?	https://neurips.cc/virtual/2026/poster/139237	included	导航基准独立测探索和空间记忆
+148549	ReSCUE: Re-translation with Sentence Commitment for Unsegmented Long-Form Simultaneous Sign Language Translation	https://neurips.cc/virtual/2026/poster/148549	excluded	结果主要来自流式手语系统多组件联合验证，摘要未报告独立切分机制收益。
+151005	ReSET: Accurate Latency-Critical NVFP4 Reasoning via Step-Aware Temperature Scaling	https://neurips.cc/virtual/2026/poster/151005	excluded	量化解码校准与 CUDA 内核一同展示，摘要未报告更宽适用性对照。
+138928	Reset Dependence Is Embodied: Training Protocol Changes Which Morphologies Appear Optimal	https://neurips.cc/virtual/2026/poster/138928	included	形态搜索用多种重置协议作稳健验收
+152030	ResFusion: Medical Image Fusion Driven by Implicit-Forward Diffusion and Time-aware Joint Optimization	https://neurips.cc/virtual/2026/poster/152030	excluded	主要为医学特定配准融合，缺少外部迁移对照。
+155263	Residual-Autoregressive Context for 3D Gaussian Splatting Compression	https://neurips.cc/virtual/2026/poster/155263	excluded	主要是 3DGS 压缩工程组合，未报告可独立复用的压缩规律。
+153548	Residual Calibration via Local Feature-Space Refinement	https://neurips.cc/virtual/2026/poster/153548	included	全局校准后用局部邻居修正残差
+152370	Residual Expertise Is Not Decision Value	https://neurips.cc/virtual/2026/poster/152370	included	人工介入排序看预期行动收益而非预测改进
+155369	Residual Paving: Diagnosing the Routing Bottleneck in Selective Refusal Editing	https://neurips.cc/virtual/2026/poster/155369	excluded	主要涉及修改拒绝行为的操作技巧，未单列安全非操作性防御。
+148940	Resilience Matters for Embodied Agents System: New Metrics, Systematic Evaluation, and Optimization	https://neurips.cc/virtual/2026/poster/148940	included	具身系统除成功率外测恢复代价与压力下完成
+149730	Resilient Byzantine Agreement with Predictions	https://neurips.cc/virtual/2026/poster/149730	excluded	主要是拜占庭容错理论，保证未关联当前模型技术选择。
+148752	Resilient Latent Readouts for Long-Context Question Answering	https://neurips.cc/virtual/2026/poster/148752	included	重新定位证据入库时比较原前缀潜态和文本重编码
 155194	Resilient Semi-Supervised Inference with Heterogeneous Unlabeled Data	https://neurips.cc/virtual/2026/poster/155194	pending	-
 156789	RESIST: Resilient Decentralized Learning Using Consensus Gradient Descent	https://neurips.cc/virtual/2026/poster/156789	pending	-
 152894	ResKV: Residual-based Channel-wise Unstructured Pruning for KV Cache Compression	https://neurips.cc/virtual/2026/poster/152894	pending	-

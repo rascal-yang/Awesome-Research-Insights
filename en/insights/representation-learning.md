@@ -580,5 +580,10 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Rank Is Not Capacity: Spectral Occupancy for Latent Graph Models](../../conferences/neurips-2026/cards-0010.md#paper-153250)
 - [Rank-Transformed Dissimilarity Profiles for High-Dimensional Classification](../../conferences/neurips-2026/cards-0010.md#paper-151307)
 - [RB-LDC: Redundancy-Balanced Latent Coding for Robust Diffusion](../../conferences/neurips-2026/cards-0010.md#paper-152929)
+- [Register Anything Model for Generalizable and Robust Point Cloud Registration](../../conferences/neurips-2026/cards-0010.md#paper-149369)
+- [RelFlexformer: Efficient Attention Transformers for Integrable Relative Positional Encodings](../../conferences/neurips-2026/cards-0010.md#paper-154871)
+- [RePercENT: Scaling Disentangled Representation Learning Beyond Two Modalities](../../conferences/neurips-2026/cards-0010.md#paper-154626)
+- [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-151906)
+- [Representation Rigidity in Face Embeddings: Orthogonal Identifiability and Backfill-Free Compatibility](../../conferences/neurips-2026/cards-0010.md#paper-151431)
 
 <!-- conference-classification:end -->

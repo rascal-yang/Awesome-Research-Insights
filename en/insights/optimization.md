@@ -731,5 +731,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Provably Efficient Representation Learning for Low-Rank CMDPs](../../conferences/neurips-2026/cards-0010.md#paper-155519)
 - [Provably Safe, Yet Performant Reinforcement Learning](../../conferences/neurips-2026/cards-0010.md#paper-152935)
 - [RANSAC Scoring Done Right](../../conferences/neurips-2026/cards-0010.md#paper-154742)
+- [Regret-Based $(\epsilon,\delta)$-optimal Stopping Criteria for Bayesian Optimization](../../conferences/neurips-2026/cards-0010.md#paper-152096)
+- [Regularization Paths for Continuous DAG Learning](../../conferences/neurips-2026/cards-0010.md#paper-150245)
+- [Rennala-NSGD: Asynchronous Stochastic Optimization Beyond Euclidean Geometry](../../conferences/neurips-2026/cards-0010.md#paper-148500)
 
 <!-- conference-classification:end -->

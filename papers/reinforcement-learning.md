@@ -660,5 +660,11 @@
 - [Quantile Geometry Regularization for Distributional Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149758)
 - [Quotient-Categorical Representations for Bellman-Compatible Average-Reward Distributional Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149377)
 - [Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning](../conferences/neurips-2026/cards-0010.md#paper-149075)
+- [ReFPO: Reflow Regularization for Flow Matching Policy Gradients](../conferences/neurips-2026/cards-0010.md#paper-152804)
+- [Regret minimization in Linear Bandits with offline data via extended D-optimal exploration.](../conferences/neurips-2026/cards-0010.md#paper-156767)
+- [Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines](../conferences/neurips-2026/cards-0010.md#paper-149595)
+- [Reinforcement Learning from Rich Feedback with Distributional DAgger](../conferences/neurips-2026/cards-0010.md#paper-155273)
+- [Replay-buffer engineering for noise-robust quantum circuit optimization](../conferences/neurips-2026/cards-0010.md#paper-148828)
+- [Representation Learning Enables Scalable Multitask Deep Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-151906)
 
 <!-- conference-classification:end -->

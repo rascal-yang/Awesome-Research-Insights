@@ -1085,5 +1085,17 @@ Visual representation, recognition, reconstruction, and generation.
 - [RayTun3R: Online Camera Adaptation in 3D Foundation Models](../../conferences/neurips-2026/cards-0010.md#paper-151667)
 - [[Re] Boosting the Visual Interpretability of CLIP via Adversarial Fine-Tuning](../../conferences/neurips-2026/cards-0010.md#paper-157021)
 - [Re:Cognize - A Framework For Open-Set Comic Character Re-Identification](../../conferences/neurips-2026/cards-0010.md#paper-138878)
+- [ReFlex: Faithful Panorama Reconstruction from a Single Image with Reflections](../../conferences/neurips-2026/cards-0010.md#paper-151635)
+- [REFORM-3D: A Representation-Centric Evaluation Framework for 3D Medical Vision Foundation Models](../../conferences/neurips-2026/cards-0010.md#paper-139603)
+- [ReGenHuman: Re-Generating Human Appearances for Realistic Full-Body Video Anonymization](../../conferences/neurips-2026/cards-0010.md#paper-148181)
+- [RegimeVGGT: Layer-Wise Spatially Preserving Redundancy Removal for Visual Geometry Grounded Transformer](../../conferences/neurips-2026/cards-0010.md#paper-155954)
+- [ReGuidance: Diffusion Steering with Strong Latent Initializations Solves Hard Inverse Problems](../../conferences/neurips-2026/cards-0010.md#paper-155015)
+- [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow Models](../../conferences/neurips-2026/cards-0010.md#paper-154808)
+- [RelFlexformer: Efficient Attention Transformers for Integrable Relative Positional Encodings](../../conferences/neurips-2026/cards-0010.md#paper-154871)
+- [RelGS: Relation-Aware Gaussian Splatting for Open-Vocabulary 3D Scene Understanding](../../conferences/neurips-2026/cards-0010.md#paper-155343)
+- [ReorgGS: Equivalent Distribution Reorganization for 3D Gaussian Splatting](../../conferences/neurips-2026/cards-0010.md#paper-151643)
+- [Representation Fréchet Loss for Visual Generation](../../conferences/neurips-2026/cards-0010.md#paper-154990)
+- [Representation Preconditioning for Efficient Diffusion Model Training](../../conferences/neurips-2026/cards-0010.md#paper-151596)
+- [Representation Rigidity in Face Embeddings: Orthogonal Identifiability and Backfill-Free Compatibility](../../conferences/neurips-2026/cards-0010.md#paper-151431)
 
 <!-- conference-classification:end -->

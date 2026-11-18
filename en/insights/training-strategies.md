@@ -848,5 +848,15 @@ Training schedules, curricula, and task or stage composition.
 - [ReCoVer: Resilient LLM Pre-Training System via Fault-Tolerant Collective and Versatile Workload](../../conferences/neurips-2026/cards-0010.md#paper-149244)
 - [Re-examining Low Rank adaptation for private LLM fine-tuning](../../conferences/neurips-2026/cards-0010.md#paper-152877)
 - [Reference-Guided Training: Adaptive Gradient Scaling via Per-Sample Loss Comparisons](../../conferences/neurips-2026/cards-0010.md#paper-148399)
+- [ReflectMT: Internalizing Reflection for Efficient and High-Quality Machine Translation](../../conferences/neurips-2026/cards-0010.md#paper-155820)
+- [Reinforce Adjoint Matching: Scaling RL Post-Training of Diffusion and Flow Models](../../conferences/neurips-2026/cards-0010.md#paper-154808)
+- [Reinforced Fast Weights via Next-Sequence Prediction](../../conferences/neurips-2026/cards-0010.md#paper-154908)
+- [Reinforcement Learning for Code Optimization](../../conferences/neurips-2026/cards-0010.md#paper-149385)
+- [Relational Feature Distillation for Lightweight 3D Point Cloud Segmentation](../../conferences/neurips-2026/cards-0010.md#paper-148750)
+- [Relaxed On-Policy Distillation: Selective Credit Allocation for Scaling Reasoning Efficiently](../../conferences/neurips-2026/cards-0010.md#paper-150064)
+- [Reliability-Budgeted Edge–Cloud Adaptation for Continual Multimodal Dehazing on UAV](../../conferences/neurips-2026/cards-0010.md#paper-154996)
+- [Replay-buffer engineering for noise-robust quantum circuit optimization](../../conferences/neurips-2026/cards-0010.md#paper-148828)
+- [Representation Preconditioning for Efficient Diffusion Model Training](../../conferences/neurips-2026/cards-0010.md#paper-151596)
+- [Rescaled Asynchronous SGD: Optimal Distributed Optimization under Data and System Heterogeneity](../../conferences/neurips-2026/cards-0010.md#paper-153283)
 
 <!-- conference-classification:end -->

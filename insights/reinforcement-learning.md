@@ -650,5 +650,17 @@
 - [Recursive Semantic Divergence for LLM Agent Consistency](../conferences/neurips-2026/cards-0010.md#paper-152399)
 - [Reducing Credit Assignment Variance via Counterfactual Reasoning Paths](../conferences/neurips-2026/cards-0010.md#paper-150771)
 - [ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving](../conferences/neurips-2026/cards-0010.md#paper-152356)
+- [Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning](../conferences/neurips-2026/cards-0010.md#paper-148600)
+- [Reformulate LLM Reinforcement Learning for Stable Training under Black-box Discrepancy](../conferences/neurips-2026/cards-0010.md#paper-148877)
+- [Region-Normalized DPO for Medical Image Segmentation](../conferences/neurips-2026/cards-0010.md#paper-153478)
+- [Regret minimization in Linear Bandits with offline data via extended D-optimal exploration.](../conferences/neurips-2026/cards-0010.md#paper-156767)
+- [Reinforced Evidence-Aware Long Video Understanding](../conferences/neurips-2026/cards-0010.md#paper-151586)
+- [Reinforcement Learning for Diffusion LLMs with Entropy-Guided Step Selection and Stepwise Advantages](../conferences/neurips-2026/cards-0010.md#paper-154650)
+- [Reinforcement Learning for Long-Horizon Unordered Tasks: From Boolean to Coupled Reward Machines](../conferences/neurips-2026/cards-0010.md#paper-149595)
+- [Reinforcement Learning from Rich Feedback with Distributional DAgger](../conferences/neurips-2026/cards-0010.md#paper-155273)
+- [Reinforcement World Model Learning for LLM-based Agents](../conferences/neurips-2026/cards-0010.md#paper-152104)
+- [Reinforcing Multimodal Reasoning Against Visual Degradation](../conferences/neurips-2026/cards-0010.md#paper-152003)
+- [Reinforcing VLAs in Task-Agnostic World Models](../conferences/neurips-2026/cards-0010.md#paper-153917)
+- [RePO-VLA: Recovery-Driven Policy Optimization for Vision-Language-Action Models](../conferences/neurips-2026/cards-0010.md#paper-153104)
 
 <!-- conference-classification:end -->

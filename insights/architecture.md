@@ -532,5 +532,9 @@
 - [Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos](../conferences/neurips-2026/cards-0010.md#paper-153854)
 - [Reasoning-based Spatial Prior (RSP): Learning Spatial Priors from Multimodal LLMs for Object Detection](../conferences/neurips-2026/cards-0010.md#paper-154145)
 - [Reasoning with Undecoded Tokens in Diffusion Language Models](../conferences/neurips-2026/cards-0010.md#paper-152594)
+- [Reformulating Neural Operators in $d+1$ Dimensions for Embedding Evolution](../conferences/neurips-2026/cards-0010.md#paper-149558)
+- [RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space](../conferences/neurips-2026/cards-0010.md#paper-153090)
+- [Representation Forcing for Bottleneck-Free Unified Multimodal Models](../conferences/neurips-2026/cards-0010.md#paper-152733)
+- [RESBev: Making BEV Perception More Robust](../conferences/neurips-2026/cards-0010.md#paper-150281)
 
 <!-- conference-classification:end -->

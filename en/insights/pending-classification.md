@@ -1123,5 +1123,14 @@
 - [Realtime-VLA FLASH: Speculative Inference Framework for Diffusion-based VLAs](../../conferences/neurips-2026/cards-0010.md#paper-152931)
 - [ReasoningShield: Safety Moderation over Reasoning Traces of Large Reasoning Models](../../conferences/neurips-2026/cards-0010.md#paper-139565)
 - [RECIPE: Learning to Rank Complete Precursor Sets for Inorganic Retrosynthesis](../../conferences/neurips-2026/cards-0010.md#paper-149027)
+- [Reflected Schrödinger Bridge Matching](../../conferences/neurips-2026/cards-0010.md#paper-153052)
+- [ReFlex: Faithful Panorama Reconstruction from a Single Image with Reflections](../../conferences/neurips-2026/cards-0010.md#paper-151635)
+- [ReFPO: Reflow Regularization for Flow Matching Policy Gradients](../../conferences/neurips-2026/cards-0010.md#paper-152804)
+- [ReGDiff: Guided Diffusion in Regulated Latent Space for Exploring Metamaterial Voxel Geometry](../../conferences/neurips-2026/cards-0010.md#paper-151868)
+- [ReGenHuman: Re-Generating Human Appearances for Realistic Full-Body Video Anonymization](../../conferences/neurips-2026/cards-0010.md#paper-148181)
+- [RelGS: Relation-Aware Gaussian Splatting for Open-Vocabulary 3D Scene Understanding](../../conferences/neurips-2026/cards-0010.md#paper-155343)
+- [Reliable Abstention under Adversarial Injections: Lower Bounds and New Upper Bounds](../../conferences/neurips-2026/cards-0010.md#paper-151312)
+- [Renoise Consistency: Unlocking Efficient Self-Correction for Diffusion Large Language Models](../../conferences/neurips-2026/cards-0010.md#paper-151651)
+- [ReorgGS: Equivalent Distribution Reorganization for 3D Gaussian Splatting](../../conferences/neurips-2026/cards-0010.md#paper-151643)
 
 <!-- conference-classification:end -->

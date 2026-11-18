@@ -1109,5 +1109,11 @@
 - [Quotient-Categorical Representations for Bellman-Compatible Average-Reward Distributional Reinforcement Learning](../conferences/neurips-2026/cards-0010.md#paper-149377)
 - [QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems](../conferences/neurips-2026/cards-0010.md#paper-150551)
 - [Recursively Trained Diffusion Models: Limiting Collapse Distribution and Spectral Characterization](../conferences/neurips-2026/cards-0010.md#paper-152379)
+- [ReGen: Agentic Video World Modeling with Synergized Reasoning and Generation](../conferences/neurips-2026/cards-0010.md#paper-152784)
+- [Regret-Optimal Wasserstein-Robust Regression](../conferences/neurips-2026/cards-0010.md#paper-155805)
+- [Reliability-Coupled Manifold-Aware Diffusion for Missing-Modality Inference](../conferences/neurips-2026/cards-0010.md#paper-156117)
+- [Reliable Federated Multi-View Learning via Conflict-Aware Evidence Calibration](../conferences/neurips-2026/cards-0010.md#paper-153948)
+- [Remember with Confidence: Uncertainty Quantification for Spatio-temporal Memory with Probabilistic Guarantees](../conferences/neurips-2026/cards-0010.md#paper-152348)
+- [Requential Coding: Measuring Model Compressibility by Coding Data Instead of Parameters](../conferences/neurips-2026/cards-0010.md#paper-150681)
 
 <!-- conference-classification:end -->

@@ -370,5 +370,6 @@ Data selection, annotation, augmentation, and sampling.
 - [RAVEL: Rare Concept Generation and Editing via Graph-driven Relational Guidance](../../conferences/neurips-2026/cards-0010.md#paper-150127)
 - [Readiness-Aware Sample Selection for Noisy Labels with Class Imbalance](../../conferences/neurips-2026/cards-0010.md#paper-153563)
 - [ReCoG: Relational Concept Graph for Training-Free Personalization](../../conferences/neurips-2026/cards-0010.md#paper-149776)
+- [REGATE: Confidence-Calibrated Integration of Temporally-Aligned Exogenous Texts for Dynamic Graphs](../../conferences/neurips-2026/cards-0010.md#paper-150490)
 
 <!-- conference-classification:end -->

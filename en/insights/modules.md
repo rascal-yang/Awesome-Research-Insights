@@ -422,5 +422,11 @@ Reusable components and local changes to model inputs or connections.
 - [Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models](../../conferences/neurips-2026/cards-0010.md#paper-154264)
 - [RecMem: Recurrent Memory Compression for Long-Sequence Recommendation](../../conferences/neurips-2026/cards-0010.md#paper-149955)
 - [Re:Cognize - A Framework For Open-Set Comic Character Re-Identification](../../conferences/neurips-2026/cards-0010.md#paper-138878)
+- [Reformulating KV Cache Eviction Problem for Long-Context LLM Inference](../../conferences/neurips-2026/cards-0010.md#paper-153767)
+- [ReFree-S2V: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance](../../conferences/neurips-2026/cards-0010.md#paper-153878)
+- [Remembering What Matters: From Markovian to Subtask-Causal Memory in VLA Policies](../../conferences/neurips-2026/cards-0010.md#paper-153954)
+- [Remember the Decision, Not the Description: A Rate-Distortion Framework for Agent Memory](../../conferences/neurips-2026/cards-0010.md#paper-150643)
+- [Remember Your Trace: Memory-Guided Long-Horizon Agentic Framework for Consistent and Hierarchical Repository-Level Code Documentation](../../conferences/neurips-2026/cards-0010.md#paper-154827)
+- [Resilient Latent Readouts for Long-Context Question Answering](../../conferences/neurips-2026/cards-0010.md#paper-148752)
 
 <!-- conference-classification:end -->
