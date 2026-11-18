@@ -753,5 +753,16 @@ Training schedules, curricula, and task or stage composition.
 - [Mobility Helps Learning: Unsupervised Model Adaptation for Object Recognition via Movement](../../conferences/neurips-2026/cards-0008.md#paper-153889)
 - [MobTA: Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic](../../conferences/neurips-2026/cards-0008.md#paper-156039)
 - [Model-Aware Tokenizer Transfer](../../conferences/neurips-2026/cards-0008.md#paper-156064)
+- [Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions](../../conferences/neurips-2026/cards-0008.md#paper-155792)
+- [Model Spec Midtraining: Improving How Alignment Training Generalizes](../../conferences/neurips-2026/cards-0008.md#paper-149704)
+- [Modulating Merging Strengths via Joint Loss Estimation for LoRA-based Continual Learning](../../conferences/neurips-2026/cards-0008.md#paper-148224)
+- [MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts](../../conferences/neurips-2026/cards-0008.md#paper-155161)
+- [Motion Cues from Image-based Point Tracking for LiDAR Scene Flow Estimation](../../conferences/neurips-2026/cards-0008.md#paper-152171)
+- [Motion-o: Trajectory-Grounded Video Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-148766)
+- [MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding](../../conferences/neurips-2026/cards-0008.md#paper-154831)
+- [MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data](../../conferences/neurips-2026/cards-0008.md#paper-150756)
+- [Multi-Agent Coordination via Support-Preserving Distillation](../../conferences/neurips-2026/cards-0008.md#paper-152690)
+- [Multilingual Safety Alignment via Self-Distillation](../../conferences/neurips-2026/cards-0008.md#paper-151163)
+- [Multimodal Context-Aware Human Motion Generation with Language, Vision, and Object](../../conferences/neurips-2026/cards-0008.md#paper-151367)
 
 <!-- conference-classification:end -->

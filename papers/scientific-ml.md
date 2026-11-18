@@ -592,5 +592,18 @@
 - [MixUni: Joint Multi-Property Prediction for Chemical Mixtures with Physics-Informed Heads](../conferences/neurips-2026/cards-0008.md#paper-150954)
 - [MoBayes: A Modular Bayesian Framework for Separating Reasoning from Language in Conversational Clinical Decision Support](../conferences/neurips-2026/cards-0008.md#paper-152953)
 - [MobTA: Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic](../conferences/neurips-2026/cards-0008.md#paper-156039)
+- [Modeling the Vividness of Imagined Natural Scenes Reveals a Model-Common Image-Level Component in Vision Models](../conferences/neurips-2026/cards-0008.md#paper-151888)
+- [Modeling Whole-Slide Images as Dynamic Tumor Microenvironment Fields](../conferences/neurips-2026/cards-0008.md#paper-149764)
+- [Mollifier Layers: Enabling Efficient High-Order Derivatives in Inverse PDE Learning](../conferences/neurips-2026/cards-0008.md#paper-156782)
+- [MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction](../conferences/neurips-2026/cards-0008.md#paper-139325)
+- [MorphoHELM: A Comprehensive Benchmark for Evaluating Representations for Microscopy-Based Morphology Assays](../conferences/neurips-2026/cards-0008.md#paper-139503)
+- [Morpho-Temporal Decoupling: How Primate Neurons Expand Dendrites Without Losing Speed](../conferences/neurips-2026/cards-0008.md#paper-151560)
+- [Mosaic: A Benchmark Suite for Differentiable Physics Solvers](../conferences/neurips-2026/cards-0008.md#paper-139696)
+- [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](../conferences/neurips-2026/cards-0008.md#paper-153679)
+- [MosaicMRI: A Diverse Dataset and Benchmark for Raw Musculoskeletal MRI](../conferences/neurips-2026/cards-0008.md#paper-139818)
+- [Mouse Total Capture: A multi-view Dataset for 3D Motion and Expression Capture of Freely Moving Mouse](../conferences/neurips-2026/cards-0008.md#paper-139566)
+- [MOVEBENCH: A Benchmark for Global-Scale Wildlife Movement Forecasting](../conferences/neurips-2026/cards-0008.md#paper-139749)
+- [Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](../conferences/neurips-2026/cards-0008.md#paper-152201)
+- [Multi-Oracle Agreement Reveals the Limits of Self-Consistency Evaluation in RNA Design](../conferences/neurips-2026/cards-0008.md#paper-139186)
 
 <!-- conference-classification:end -->

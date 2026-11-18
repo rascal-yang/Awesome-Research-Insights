@@ -1196,5 +1196,16 @@
 - [MMSkills: Towards Multimodal Skills for General Visual Agents](../conferences/neurips-2026/cards-0008.md#paper-148831)
 - [MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM](../conferences/neurips-2026/cards-0008.md#paper-152455)
 - [Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models](../conferences/neurips-2026/cards-0008.md#paper-148334)
+- [Model-Based Online Decision Making via Generative Trajectory Planning](../conferences/neurips-2026/cards-0008.md#paper-149877)
+- [Model Cascades with Provable Per-Class Quality](../conferences/neurips-2026/cards-0008.md#paper-148492)
+- [Model Guides You How to Draw: Adaptive Visual Gating for Unified Multimodal Reasoning](../conferences/neurips-2026/cards-0008.md#paper-153582)
+- [MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenario](../conferences/neurips-2026/cards-0008.md#paper-152840)
+- [MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs](../conferences/neurips-2026/cards-0008.md#paper-152692)
+- [More Value per Key: Asymmetric Sparse Attention for Faster LLM Decoding](../conferences/neurips-2026/cards-0008.md#paper-155905)
+- [MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport](../conferences/neurips-2026/cards-0008.md#paper-156050)
+- [MOSAIC: Scaling Long-Horizon Language Agents via Multi-Scale Adaptive Inference Control](../conferences/neurips-2026/cards-0008.md#paper-152297)
+- [MotionCFG: Boosting Motion Dynamics via Semantic Motion Sharpening](../conferences/neurips-2026/cards-0008.md#paper-150155)
+- [MPQ: A Message-Passing View of Post-Training Quantization](../conferences/neurips-2026/cards-0008.md#paper-148188)
+- [Multilevel and Sequential Monte Carlo for Training-Free Diffusion Guidance](../conferences/neurips-2026/cards-0008.md#paper-152830)
 
 <!-- conference-classification:end -->

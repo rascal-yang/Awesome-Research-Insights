@@ -340,5 +340,8 @@
 - [MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory](../conferences/neurips-2026/cards-0008.md#paper-151505)
 - [MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis](../conferences/neurips-2026/cards-0008.md#paper-155952)
 - [MIRAGE: Duality-Inspired MILP Augmentation for Representation Learning](../conferences/neurips-2026/cards-0008.md#paper-150478)
+- [Model Distribution-Aware Multimodal Dataset Distillation](../conferences/neurips-2026/cards-0008.md#paper-148787)
+- [MoRe-DVC: Motion Retrieval-Augmented Generation for Detailed Video Captioning](../conferences/neurips-2026/cards-0008.md#paper-152051)
+- [MosaicMRI: A Diverse Dataset and Benchmark for Raw Musculoskeletal MRI](../conferences/neurips-2026/cards-0008.md#paper-139818)
 
 <!-- conference-classification:end -->

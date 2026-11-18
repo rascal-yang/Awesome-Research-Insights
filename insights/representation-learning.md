@@ -533,5 +533,9 @@
 - [Mitigating Label Bias with Interpretable Rubric Embeddings](../conferences/neurips-2026/cards-0008.md#paper-152501)
 - [mmLIP: mmWave Radar-Language Interactive Pretraining via Point Confidence](../conferences/neurips-2026/cards-0008.md#paper-148320)
 - [MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting](../conferences/neurips-2026/cards-0008.md#paper-150057)
+- [MoRe: Modular Representations for Principled  Continual Representation Learning on Sequential Data](../conferences/neurips-2026/cards-0008.md#paper-149880)
+- [MOSAIC: Concept Bottlenecks via Text-Anchored Optimal Transport](../conferences/neurips-2026/cards-0008.md#paper-151875)
+- [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](../conferences/neurips-2026/cards-0008.md#paper-153679)
+- [Multi-Part Object Representations via Graph Structures and Co-Part Discovery](../conferences/neurips-2026/cards-0008.md#paper-150151)
 
 <!-- conference-classification:end -->

@@ -605,5 +605,11 @@
 - [Mitigating Retaliatory Algorithmic Collusion in Repeated Games](../conferences/neurips-2026/cards-0008.md#paper-149336)
 - [Mitigating Reward Hacking via Task Representations](../conferences/neurips-2026/cards-0008.md#paper-153549)
 - [Model-based Bootstrap of Controlled Markov Chains](../conferences/neurips-2026/cards-0008.md#paper-156045)
+- [Model-Based Online Decision Making via Generative Trajectory Planning](../conferences/neurips-2026/cards-0008.md#paper-149877)
+- [Modelling Opinion Dynamics at Scale with Deep MARL](../conferences/neurips-2026/cards-0008.md#paper-152381)
+- [Multi-Agent Coordination via Support-Preserving Distillation](../conferences/neurips-2026/cards-0008.md#paper-152690)
+- [Multi-Environment POMDPs with Finite-Horizon Objectives](../conferences/neurips-2026/cards-0008.md#paper-155767)
+- [Multi-Objective Causal Bandits: Minimal Intervention Space and Policy-Level Learning](../conferences/neurips-2026/cards-0008.md#paper-150149)
+- [Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution](../conferences/neurips-2026/cards-0008.md#paper-154005)
 
 <!-- conference-classification:end -->

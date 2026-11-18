@@ -316,5 +316,8 @@ Graph models, knowledge graphs, and recommender systems.
 - [Matrix-Free Stochastic Training of Low-Rank Spectral Graph Learning via Randomized Adaptive Spectral Estimation](../../conferences/neurips-2026/cards-0008.md#paper-156123)
 - [Mitigating Over-squashing without Rewiring: A Sheaf Effective Resistance Perspective](../../conferences/neurips-2026/cards-0008.md#paper-150297)
 - [Mixed-Curvature Geometric Latent Diffusion Model for Graph Generation](../../conferences/neurips-2026/cards-0008.md#paper-149462)
+- [Module-Aware Optimization for Graph Neural Networks](../../conferences/neurips-2026/cards-0008.md#paper-149961)
+- [Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems](../../conferences/neurips-2026/cards-0008.md#paper-149537)
+- [Multilateral Resistance-Guided Graph Message Passing for Trade Flow Prediction](../../conferences/neurips-2026/cards-0008.md#paper-154787)
 
 <!-- conference-classification:end -->

@@ -961,5 +961,14 @@
 - [ML-assisted Randomization Tests for A/B Experiments](../conferences/neurips-2026/cards-0008.md#paper-150264)
 - [Model-Agnostic FDR Control via Group Gaussian Mirror and Permutation SHAP](../conferences/neurips-2026/cards-0008.md#paper-150705)
 - [Model-based Bootstrap of Controlled Markov Chains](../conferences/neurips-2026/cards-0008.md#paper-156045)
+- [Monoculture Robust Learning](../conferences/neurips-2026/cards-0008.md#paper-154495)
+- [Morpho-Temporal Decoupling: How Primate Neurons Expand Dendrites Without Losing Speed](../conferences/neurips-2026/cards-0008.md#paper-151560)
+- [Most ReLU Networks Admit Identifiable Parameters](../conferences/neurips-2026/cards-0008.md#paper-153608)
+- [Move on Muon : A Hamiltonian probability gradient flow perspective of Muon optimizer](../conferences/neurips-2026/cards-0008.md#paper-150114)
+- [Multi-Constrained Randomized Smoothing Certificates](../conferences/neurips-2026/cards-0008.md#paper-149199)
+- [Multi-Environment POMDPs with Finite-Horizon Objectives](../conferences/neurips-2026/cards-0008.md#paper-155767)
+- [Multigroup Fairness and Omniprediction: Separations and Equivalences](../conferences/neurips-2026/cards-0008.md#paper-149107)
+- [Multi-Marginal Couplings for Metropolis--Hastings](../conferences/neurips-2026/cards-0008.md#paper-149629)
+- [Multi-Objective Causal Bandits: Minimal Intervention Space and Policy-Level Learning](../conferences/neurips-2026/cards-0008.md#paper-150149)
 
 <!-- conference-classification:end -->

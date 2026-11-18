@@ -379,5 +379,9 @@ Reusable components and local changes to model inputs or connections.
 - [Mixture-of-Top-$k$ Attention: Efficient Attention as Scalable Fast Weights](../../conferences/neurips-2026/cards-0008.md#paper-150679)
 - [MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](../../conferences/neurips-2026/cards-0008.md#paper-153055)
 - [Modality-Depth Routing for Visual Reasoning in VLM Post-Training](../../conferences/neurips-2026/cards-0008.md#paper-150494)
+- [Mollifier Layers: Enabling Efficient High-Order Derivatives in Inverse PDE Learning](../../conferences/neurips-2026/cards-0008.md#paper-156782)
+- [MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup](../../conferences/neurips-2026/cards-0008.md#paper-154940)
+- [MoT3DVG: A Benchmark for Outdoor 3D Visual Grounding with Motion-Aware Descriptions and Temporal Cues](../../conferences/neurips-2026/cards-0008.md#paper-139417)
+- [MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling](../../conferences/neurips-2026/cards-0008.md#paper-151404)
 
 <!-- conference-classification:end -->

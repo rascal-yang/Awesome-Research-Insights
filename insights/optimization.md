@@ -649,5 +649,13 @@
 - [Mix-Opt: Mixed Optimization for Memory-Efficient Personalization of Text-to-Image Diffusion Models](../conferences/neurips-2026/cards-0008.md#paper-152257)
 - [Mixture-of-Experts for Online Matrix Completion on a Drifting Union of Subspaces](../conferences/neurips-2026/cards-0008.md#paper-154027)
 - [MOBO-CAPS: Multi-objective Bayesian Optimization with Cardinality-Aware Pareto Selection](../conferences/neurips-2026/cards-0008.md#paper-150853)
+- [Modeling quantum neural network gradient with reinforcement learning](../conferences/neurips-2026/cards-0008.md#paper-149990)
+- [Module-Aware Optimization for Graph Neural Networks](../conferences/neurips-2026/cards-0008.md#paper-149961)
+- [Momentum Smooths the Path to Gradient Equilibrium](../conferences/neurips-2026/cards-0008.md#paper-154672)
+- [MorphoGen: Free-Form XML Evolution for Robot Morphology Design](../conferences/neurips-2026/cards-0008.md#paper-150325)
+- [Mouse Total Capture: A multi-view Dataset for 3D Motion and Expression Capture of Freely Moving Mouse](../conferences/neurips-2026/cards-0008.md#paper-139566)
+- [MuEdit:  An efficient multi-task editing method towards inter-domain knowledge conflicts](../conferences/neurips-2026/cards-0008.md#paper-151125)
+- [Multi-Nonsmooth-Nonconvex-Objective Optimization](../conferences/neurips-2026/cards-0008.md#paper-151903)
+- [Multiobjective Submodular Maximization with Concave Aggregation](../conferences/neurips-2026/cards-0008.md#paper-154609)
 
 <!-- conference-classification:end -->

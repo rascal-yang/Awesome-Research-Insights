@@ -401,3 +401,94 @@
 | 机器学习基础与统计 | 理论与统计 | [Model-Agnostic FDR Control via Group Gaussian Mirror and Permutation SHAP](cards-0008.md#paper-150705) | 时序特征按来源块做误发现控制。 |
 | 大语言模型 | 训练策略 | [Model-Aware Tokenizer Transfer](cards-0008.md#paper-156064) | 换分词器时蒸馏源模型的跨词影响，减少初始化错配。 |
 | 强化学习 | 理论与统计 | [Model-based Bootstrap of Controlled Markov Chains](cards-0008.md#paper-156045) | 离线策略评估根据受控链转移建模自助法。 |
+| 强化学习 | 推理策略 | [Model-Based Online Decision Making via Generative Trajectory Planning](cards-0008.md#paper-149877) | 用生成先验给规划提案而非直接执行。 |
+| 机器学习基础与统计 | 评测与诊断 | [Model Capacity Determines Grokking through Competing Memorisation and Generalisation Speeds](cards-0008.md#paper-155807) | 分别估计记忆和泛化首次达标的训练步。 |
+| 机器学习基础与统计 | 推理策略 | [Model Cascades with Provable Per-Class Quality](cards-0008.md#paper-148492) | 级联退出按预测类校准整条路径。 |
+| 机器学习基础与统计 | 评测与诊断 | [Model Collapse is a Singular Complexity Trajectory](cards-0008.md#paper-148790) | 合成递归训练监测曲率与有效秩变化。 |
+| 多模态学习 | 数据策略 | [Model Distribution-Aware Multimodal Dataset Distillation](cards-0008.md#paper-148787) | 图文数据蒸馏跨初始化匹配二阶统计。 |
+| 机器学习基础与统计 | 评测与诊断 | [Model-Free Assessment of Simulator Fidelity via Quantile Curves](cards-0008.md#paper-154001) | 模拟保真按场景差异分位数验收。 |
+| 多模态学习 | 推理策略 | [Model Guides You How to Draw: Adaptive Visual Gating for Unified Multimodal Reasoning](cards-0008.md#paper-153582) | 中间图像推理先早期验真再继续生成。 |
+| 大语言模型 | 训练策略 | [Model Immunization Beyond Condition Numbers: The Importance of Plateau Regions](cards-0008.md#paper-155792) | 模型安全免疫同时检查曲率和低梯度平台。 |
+| 大语言模型 | 评测与诊断 | [Model Incrimination: Investigating Whether Concerning Behavior Reﬂects Misalignment](cards-0008.md#paper-148471) | 把模型解释只作为安全调查的假设来源。 |
+| 机器学习基础与统计 | 优化 | [Modeling quantum neural network gradient with reinforcement learning](cards-0008.md#paper-149990) | 量子网络优化比较经典代理更新与精确量子梯度。 |
+| 科学机器学习 | 评测与诊断 | [Modeling the Vividness of Imagined Natural Scenes Reveals a Model-Common Image-Level Component in Vision Models](cards-0008.md#paper-151888) | 认知读出先分离共同代理信号与目标特异信号。 |
+| 科学机器学习 | 模型架构 | [Modeling Whole-Slide Images as Dynamic Tumor Microenvironment Fields](cards-0008.md#paper-149764) | 全片病理先形成软组织区域，再建跨边界互动。 |
+| 大语言模型 | 评测与诊断 | [ModelLens: Finding the Best for Your Task from Myriads of Models](cards-0008.md#paper-151420) | 冷启动选模型先由公共评测关系预筛。 |
+| 强化学习 | 评测与诊断 | [Modelling Opinion Dynamics at Scale with Deep MARL](cards-0008.md#paper-152381) | 意见学习仿真按群体大小和拓扑独立评估从众。 |
+| 计算机视觉 | 模型架构 | [Models Designed to Forget: Machine Unlearning via Key Deletion](cards-0008.md#paper-156131) | 预期删除请求时将示例专属记忆外置。 |
+| 大语言模型 | 训练策略 | [Model Spec Midtraining: Improving How Alignment Training Generalizes](cards-0008.md#paper-149704) | 对齐演示前先训练规范的价值解释。 |
+| 大语言模型 | 评测与诊断 | [Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation](cards-0008.md#paper-139701) | 多轮创意评估分别测约束复述与真实遵守。 |
+| 大语言模型 | 评测与诊断 | [Models That Know How Evaluations Are Designed Score Safer](cards-0008.md#paper-139525) | 安全验证审计模型是否对评测情境本身异常敏感。 |
+| 机器学习基础与统计 | 训练策略 | [Modulating Merging Strengths via Joint Loss Estimation for LoRA-based Continual Learning](cards-0008.md#paper-148224) | 连续 LoRA 合并使用元素级敏感度取代全局比例。 |
+| 多模态学习 | 模型架构 | [MODULE: A Mutual-Promoting Deep Unfolding Framework Towards Degradation-Robust Multi-modal Image Fusion](cards-0008.md#paper-154035) | 融合与修复分解为迭代互供先验。 |
+| 图学习 | 优化 | [Module-Aware Optimization for Graph Neural Networks](cards-0008.md#paper-149961) | 选择图模型优化器时，用传播后输入的协方差衡量更新。 |
+| 大语言模型 | 评测与诊断 | [Module Specialization in Transformer Factual Recall under Correlated Fact Distributions](cards-0008.md#paper-148263) | 解释事实回忆时，交叉比较线性探针和因果替换。 |
+| 大语言模型 | 推理策略 | [MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenario](cards-0008.md#paper-152840) | 专家分页时，利用推测解码预测需求和驱动预取。 |
+| 大语言模型 | 推理策略 | [MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs](cards-0008.md#paper-152692) | 稀疏专家模型压缩 KV 时，同时约束路由漂移与注意力失真。 |
+| 科学机器学习 | 模块 | [Mollifier Layers: Enabling Efficient High-Order Derivatives in Inverse PDE Learning](cards-0008.md#paper-156782) | 逆方程要求高阶导数时，比较平滑卷积与递归自动微分。 |
+| 大语言模型 | 模块 | [MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup](cards-0008.md#paper-154940) | 增加词表记忆容量时，为歧义 token 保留多个上下文槽。 |
+| 机器学习基础与统计 | 优化 | [Momentum Smooths the Path to Gradient Equilibrium](cards-0008.md#paper-154672) | 在线校准轨迹锯齿时，用过去梯度加权维持平衡并控制输出波动。 |
+| 大语言模型 | 评测与诊断 | [Monitoring the Internal Monologue: Probe Trajectories Reveal Reasoning Dynamics](cards-0008.md#paper-154550) | 监控推理状态时，比较逐 token 轨迹特征与静态池化。 |
+| 机器学习基础与统计 | 理论与统计 | [Monoculture Robust Learning](cards-0008.md#paper-154495) | 评价多个同数据模型时，测它们在同一输入上同时失败的概率。 |
+| 科学机器学习 | 评测与诊断 | [MOOD: Benchmarking Post-Hoc OOD Detection for Materials Property Prediction](cards-0008.md#paper-139325) | 材料域外检测失败时先用监督探针区分编码和检测瓶颈。 |
+| 多模态学习 | 数据策略 | [MoRe-DVC: Motion Retrieval-Augmented Generation for Detailed Video Captioning](cards-0008.md#paper-152051) | 动作叙事检索按边界和事件顺序组织证据。 |
+| 大语言模型 | 评测与诊断 | [More Is Not More: What Matters for Diversity in LLM Opinions？](cards-0008.md#paper-139464) | 模拟意见多样性时组合交互结构，并单测人设深度增量。 |
+| 机器学习基础与统计 | 表征学习 | [MoRe: Modular Representations for Principled  Continual Representation Learning on Sequential Data](cards-0008.md#paper-149880) | 持续适配按时延依赖识别可重用和任务特异表征。 |
+| 机器人学 | 评测与诊断 | [More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models](cards-0008.md#paper-155441) | 驾驶解释是否有用应分别删除推理文本和导航先验验证。 |
+| 大语言模型 | 推理策略 | [More Value per Key: Asymmetric Sparse Attention for Faster LLM Decoding](cards-0008.md#paper-155905) | 稀疏解码中分开分配键头和价值头。 |
+| 机器人学 | 优化 | [MorphoGen: Free-Form XML Evolution for Robot Morphology Design](cards-0008.md#paper-150325) | 仿真形态搜索保留可解释结构描述以评价编辑。 |
+| 科学机器学习 | 评测与诊断 | [MorphoHELM: A Comprehensive Benchmark for Evaluating Representations for Microscopy-Based Morphology Assays](cards-0008.md#paper-139503) | 表征评价按测量批次噪声强度画性能曲线。 |
+| 科学机器学习 | 理论与统计 | [Morpho-Temporal Decoupling: How Primate Neurons Expand Dendrites Without Losing Speed](cards-0008.md#paper-151560) | 神经形态模型扩分支时应单测时间带宽。 |
+| 计算机视觉 | 推理策略 | [MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport](cards-0008.md#paper-156050) | 个性化生成先给构图自由，再建立身份一致。 |
+| 大语言模型 | 训练策略 | [MoRSE: Task-Oriented Multi-Agent System with Mixture of Role-Subtask Experts](cards-0008.md#paper-155161) | 良性任务团队可分开归因专家表现与任务路由表现。 |
+| 科学机器学习 | 评测与诊断 | [Mosaic: A Benchmark Suite for Differentiable Physics Solvers](cards-0008.md#paper-139696) | 可微求解器选型要测内存、兼容性和 Jacobian 条件数。 |
+| 大语言模型 | 评测与诊断 | [MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](cards-0008.md#paper-139179) | 自动代码审查应验累计改动的整体安全性质。 |
+| 计算机视觉 | 表征学习 | [MOSAIC: Concept Bottlenecks via Text-Anchored Optimal Transport](cards-0008.md#paper-151875) | 概念瓶颈从图像发现概念，再以文本锚约束含义。 |
+| 科学机器学习 | 表征学习 | [MOSAIC: Module Discovery via Sparse Additive Identifiable Causal Learning for Scientific Time Series](cards-0008.md#paper-153679) | 对科学时序潜因子同时恢复其对应观测变量组。 |
+| 科学机器学习 | 数据策略 | [MosaicMRI: A Diverse Dataset and Benchmark for Raw Musculoskeletal MRI](cards-0008.md#paper-139818) | MRI 重建可比较跨解剖混训与只用同部位。 |
+| 大语言模型 | 推理策略 | [MOSAIC: Scaling Long-Horizon Language Agents via Multi-Scale Adaptive Inference Control](cards-0008.md#paper-152297) | 良性长程任务按决策尺度分配上下文和计算。 |
+| 计算机视觉 | 模型架构 | [MoSE3: Learning World-Space SE(3) at Every Pixel](cards-0008.md#paper-155847) | 稠密运动先学三维轨迹与软刚体分组再拟合旋转。 |
+| 机器学习基础与统计 | 理论与统计 | [Most ReLU Networks Admit Identifiable Parameters](cards-0008.md#paper-153608) | 比较网络参数化先区分标准对称与额外冗余。 |
+| 多模态学习 | 模块 | [MoT3DVG: A Benchmark for Outdoor 3D Visual Grounding with Motion-Aware Descriptions and Temporal Cues](cards-0008.md#paper-139417) | 动态指代定位在图文对齐前融合短期运动与长时间上下文。 |
+| 机器学习基础与统计 | 模型架构 | [Motif-Mamba: network motif improved mamba for long-range sequence modeling](cards-0008.md#paper-154995) | 状态空间模型在低秩子空间引入显式维间交互。 |
+| 计算机视觉 | 推理策略 | [MotionCFG: Boosting Motion Dynamics via Semantic Motion Sharpening](cards-0008.md#paper-150155) | 生成动作弱时只加强运动相关条件。 |
+| 机器人学 | 训练策略 | [Motion Cues from Image-based Point Tracking for LiDAR Scene Flow Estimation](cards-0008.md#paper-152171) | 用图像轨迹校正 LiDAR 动静标签。 |
+| 计算机视觉 | 模型架构 | [Motion Forcing: Decoupling Ego and Object Motion via Sparse Inputs for Structured Video Generation](cards-0008.md#paper-152429) | 视频运动控制把稀疏输入经动态深度变成外观。 |
+| 计算机视觉 | 损失函数 | [MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer](cards-0008.md#paper-153439) | 多对象运动转移要求每段描述对齐指定区域。 |
+| 多模态学习 | 评测与诊断 | [MotionHalluc: Diagnosing Kinematic Hallucinations in Fine-Grained Motion Reasoning](cards-0008.md#paper-139755) | 两视频动作比较时先核验候选指令的运动量。 |
+| 多模态学习 | 训练策略 | [Motion-o: Trajectory-Grounded Video Reasoning](cards-0008.md#paper-148766) | 视频推理对时间证据缺失应改变运动判断。 |
+| 自然语言处理 | 模块 | [MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling](cards-0008.md#paper-151404) | 多语分词保留独立规范化和预算又共享公共词元。 |
+| 机器人学 | 训练策略 | [MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding](cards-0008.md#paper-154831) | 手部动作预训练把 EMG 编成中间运动码。 |
+| 科学机器学习 | 优化 | [Mouse Total Capture: A multi-view Dataset for 3D Motion and Expression Capture of Freely Moving Mouse](cards-0008.md#paper-139566) | 弱遮挡三维关键点恢复在时间维和形态同时约束。 |
+| 科学机器学习 | 评测与诊断 | [MOVEBENCH: A Benchmark for Global-Scale Wildlife Movement Forecasting](cards-0008.md#paper-139749) | 运动预测将时间留出与个体留出分别评测。 |
+| 机器学习基础与统计 | 理论与统计 | [Move on Muon : A Hamiltonian probability gradient flow perspective of Muon optimizer](cards-0008.md#paper-150114) | 将 Muon 正交化视作更新空间的镜像近端步骤。 |
+| 多模态学习 | 评测与诊断 | [MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Privacy Evaluation of Language Model Agents](cards-0008.md#paper-139642) | 隐私评估使用同一来源的应答与应拒配对。 |
+| 多模态学习 | 评测与诊断 | [MPDocBench-Parse: Benchmarking Practical Multi-page Document Parsing](cards-0008.md#paper-139502) | 多页文档另验跨页内容合并与标题层级。 |
+| 计算机视觉 | 模型架构 | [M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals](cards-0008.md#paper-149918) | 隐式曲面精修只在上级零面附近训练残差。 |
+| 大语言模型 | 推理策略 | [MPQ: A Message-Passing View of Post-Training Quantization](cards-0008.md#paper-148188) | 权重量化在邻块协商结束后再提交码字。 |
+| 机器学习基础与统计 | 模型架构 | [MSAR: Next-Scale Autoregressive Forecasting for Time Series via Modular Multi-Scale Decoupling](cards-0008.md#paper-149231) | 让粗粒度预测指导细粒度预测。 |
+| 多模态学习 | 损失函数 | [MSCR: Jointly Balancing Modality Utilization and Discovering Synergistic Information](cards-0008.md#paper-150032) | 抑制优势模态时，同时奖励融合超出单模态参考的增益。 |
+| 多模态学习 | 训练策略 | [MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data](cards-0008.md#paper-150756) | 缺少同步跨模态训练数据时，试把文字代理用作两种模态的语义桥。 |
+| 大语言模型 | 优化 | [MuEdit:  An efficient multi-task editing method towards inter-domain knowledge conflicts](cards-0008.md#paper-151125) | 跨领域连续编辑时，先检查各更新方向是否还共享足够的保护零空间。 |
+| 图学习 | 损失函数 | [Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems](cards-0008.md#paper-149537) | 反馈只给正负集合时，避免编造集合内部排序。 |
+| 大语言模型 | 模型架构 | [Multi-agent Collaboration with State Management](cards-0008.md#paper-151127) | 并行代码协作中，将冲突检测放到写入时。 |
+| 强化学习 | 训练策略 | [Multi-Agent Coordination via Support-Preserving Distillation](cards-0008.md#paper-152690) | 多峰联合策略蒸馏前，先检查教师是否生成落在两种协同模式中间的动作。 |
+| 计算机视觉 | 模型架构 | [Multi-Bridge Denoising Diffusion Probabilistic Models](cards-0008.md#paper-149159) | 多来源共同确定输出时，为各来源建桥并由一个反向扩散汇总。 |
+| 机器学习基础与统计 | 理论与统计 | [Multi-Constrained Randomized Smoothing Certificates](cards-0008.md#paper-149199) | 随机平滑认证时，利用多个平滑分布的方差信息收紧证书。 |
+| 计算机视觉 | 评测与诊断 | [Multidimensional Observer Model and Perceptual Dimensions of Human Image Quality Assessment](cards-0008.md#paper-153752) | 图像质量评测按低层和高层任务分别拟合感知空间。 |
+| 强化学习 | 理论与统计 | [Multi-Environment POMDPs with Finite-Horizon Objectives](cards-0008.md#paper-155767) | 有限时域环境不明时将初始不确定性纳入最优策略求解。 |
+| 机器学习基础与统计 | 理论与统计 | [Multigroup Fairness and Omniprediction: Separations and Equivalences](cards-0008.md#paper-149107) | 多损失预测保证和分组公平性应各自验收。 |
+| 大语言模型 | 模型架构 | [Multi-Head Recurrent Memory Agents](cards-0008.md#paper-154453) | 固定预算记忆可分槽，每轮只改一个槽。 |
+| 图学习与推荐 | 模型架构 | [Multilateral Resistance-Guided Graph Message Passing for Trade Flow Prediction](cards-0008.md#paper-154787) | 有结构方程时借其迭代定义图消息。 |
+| 计算机视觉 | 推理策略 | [Multilevel and Sequential Monte Carlo for Training-Free Diffusion Guidance](cards-0008.md#paper-152830) | 扩散引导在多峰后验用积分替代点估计。 |
+| 大语言模型 | 训练策略 | [Multilingual Safety Alignment via Self-Distillation](cards-0008.md#paper-151163) | 低资源语言可从已有语言对齐能力蒸馏安全防护。 |
+| 机器学习基础与统计 | 理论与统计 | [Multi-Marginal Couplings for Metropolis--Hastings](cards-0008.md#paper-149629) | 多链收敛诊断使用共享随机性的联合耦合。 |
+| 多模态学习 | 评测与诊断 | [Multimodal AI Detection In Two Words](cards-0008.md#paper-148150) | 生成来源检测可用两个新词嵌入共享各模态。 |
+| 计算机视觉 | 训练策略 | [Multimodal Context-Aware Human Motion Generation with Language, Vision, and Object](cards-0008.md#paper-151367) | 多条件动作生成先学单模态动作先验，再做条件选择。 |
+| 科学机器学习 | 评测与诊断 | [Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](cards-0008.md#paper-152201) | 跨机构病理相似性用同病异来源与异病同来源做对照。 |
+| 机器学习基础与统计 | 优化 | [Multi-Nonsmooth-Nonconvex-Objective Optimization](cards-0008.md#paper-151903) | 非光滑非凸多目标用 Pareto Goldstein 驻点描述收敛。 |
+| 强化学习 | 理论与统计 | [Multi-Objective Causal Bandits: Minimal Intervention Space and Policy-Level Learning](cards-0008.md#paper-150149) | 多目标因果老虎机以随机策略凸包判断支配。 |
+| 强化学习 | 强化学习方法 | [Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution](cards-0008.md#paper-154005) | 冲突目标可用小型策略集合分配轨迹并分析跨轨迹干扰。 |
+| 机器学习基础与统计 | 优化 | [Multiobjective Submodular Maximization with Concave Aggregation](cards-0008.md#paper-154609) | 多目标选集合以凹聚合平衡最差项与整体收益。 |
+| 科学机器学习 | 评测与诊断 | [Multi-Oracle Agreement Reveals the Limits of Self-Consistency Evaluation in RNA Design](cards-0008.md#paper-139186) | 评测模型与训练目标共享时应引入独立证据。 |
+| 计算机视觉 | 表征学习 | [Multi-Part Object Representations via Graph Structures and Co-Part Discovery](cards-0008.md#paper-150151) | 多部件对象用显式关系图提高遮挡下识别。 |

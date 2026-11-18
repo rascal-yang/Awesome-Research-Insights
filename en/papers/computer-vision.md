@@ -972,5 +972,18 @@ Visual representation, recognition, reconstruction, and generation.
 - [Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion](../../conferences/neurips-2026/cards-0008.md#paper-149639)
 - [MobileWan: Closing the Quality Gap for Mobile Video Diffusion](../../conferences/neurips-2026/cards-0008.md#paper-151986)
 - [MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](../../conferences/neurips-2026/cards-0008.md#paper-153055)
+- [Models Designed to Forget: Machine Unlearning via Key Deletion](../../conferences/neurips-2026/cards-0008.md#paper-156131)
+- [MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport](../../conferences/neurips-2026/cards-0008.md#paper-156050)
+- [MOSAIC: Concept Bottlenecks via Text-Anchored Optimal Transport](../../conferences/neurips-2026/cards-0008.md#paper-151875)
+- [MoSE3: Learning World-Space SE(3) at Every Pixel](../../conferences/neurips-2026/cards-0008.md#paper-155847)
+- [MotionCFG: Boosting Motion Dynamics via Semantic Motion Sharpening](../../conferences/neurips-2026/cards-0008.md#paper-150155)
+- [Motion Forcing: Decoupling Ego and Object Motion via Sparse Inputs for Structured Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-152429)
+- [MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer](../../conferences/neurips-2026/cards-0008.md#paper-153439)
+- [M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals](../../conferences/neurips-2026/cards-0008.md#paper-149918)
+- [Multi-Bridge Denoising Diffusion Probabilistic Models](../../conferences/neurips-2026/cards-0008.md#paper-149159)
+- [Multidimensional Observer Model and Perceptual Dimensions of Human Image Quality Assessment](../../conferences/neurips-2026/cards-0008.md#paper-153752)
+- [Multilevel and Sequential Monte Carlo for Training-Free Diffusion Guidance](../../conferences/neurips-2026/cards-0008.md#paper-152830)
+- [Multimodal Context-Aware Human Motion Generation with Language, Vision, and Object](../../conferences/neurips-2026/cards-0008.md#paper-151367)
+- [Multi-Part Object Representations via Graph Structures and Co-Part Discovery](../../conferences/neurips-2026/cards-0008.md#paper-150151)
 
 <!-- conference-classification:end -->

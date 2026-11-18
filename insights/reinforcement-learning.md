@@ -590,5 +590,6 @@
 - [Mitigating Overgeneralization in RND via Spectral Target Design](../conferences/neurips-2026/cards-0008.md#paper-148343)
 - [Mitigating Retaliatory Algorithmic Collusion in Repeated Games](../conferences/neurips-2026/cards-0008.md#paper-149336)
 - [Mode-Controlled Policy Optimization: A Geometry-Aware Recipe for LLM Post-Training](../conferences/neurips-2026/cards-0008.md#paper-150744)
+- [Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution](../conferences/neurips-2026/cards-0008.md#paper-154005)
 
 <!-- conference-classification:end -->

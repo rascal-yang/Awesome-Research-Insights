@@ -356,5 +356,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Mind the Heads: Topological Representation Alignment for Multimodal LLMs](../../conferences/neurips-2026/cards-0008.md#paper-152687)
 - [Mitigating Reward Hacking via Task Representations](../../conferences/neurips-2026/cards-0008.md#paper-153549)
 - [Mitigating Saliency Collapse: Robust Saliency-Aware Long-Text Image-Text Alignment](../../conferences/neurips-2026/cards-0008.md#paper-155555)
+- [MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer](../../conferences/neurips-2026/cards-0008.md#paper-153439)
+- [MSCR: Jointly Balancing Modality Utilization and Discovering Synergistic Information](../../conferences/neurips-2026/cards-0008.md#paper-150032)
+- [Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems](../../conferences/neurips-2026/cards-0008.md#paper-149537)
 
 <!-- conference-classification:end -->

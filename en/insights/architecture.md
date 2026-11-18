@@ -446,5 +446,17 @@ Model-wide design and information flow.
 - [MobileMoE: Scaling On-Device Mixture of Experts](../../conferences/neurips-2026/cards-0008.md#paper-150777)
 - [MobileWan: Closing the Quality Gap for Mobile Video Diffusion](../../conferences/neurips-2026/cards-0008.md#paper-151986)
 - [MOCHA: Discovering Multi-Order Dynamic Causal Structure in Temporal Point Processes](../../conferences/neurips-2026/cards-0008.md#paper-148729)
+- [Modeling Whole-Slide Images as Dynamic Tumor Microenvironment Fields](../../conferences/neurips-2026/cards-0008.md#paper-149764)
+- [Models Designed to Forget: Machine Unlearning via Key Deletion](../../conferences/neurips-2026/cards-0008.md#paper-156131)
+- [MODULE: A Mutual-Promoting Deep Unfolding Framework Towards Degradation-Robust Multi-modal Image Fusion](../../conferences/neurips-2026/cards-0008.md#paper-154035)
+- [MoSE3: Learning World-Space SE(3) at Every Pixel](../../conferences/neurips-2026/cards-0008.md#paper-155847)
+- [Motif-Mamba: network motif improved mamba for long-range sequence modeling](../../conferences/neurips-2026/cards-0008.md#paper-154995)
+- [Motion Forcing: Decoupling Ego and Object Motion via Sparse Inputs for Structured Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-152429)
+- [M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals](../../conferences/neurips-2026/cards-0008.md#paper-149918)
+- [MSAR: Next-Scale Autoregressive Forecasting for Time Series via Modular Multi-Scale Decoupling](../../conferences/neurips-2026/cards-0008.md#paper-149231)
+- [Multi-agent Collaboration with State Management](../../conferences/neurips-2026/cards-0008.md#paper-151127)
+- [Multi-Bridge Denoising Diffusion Probabilistic Models](../../conferences/neurips-2026/cards-0008.md#paper-149159)
+- [Multi-Head Recurrent Memory Agents](../../conferences/neurips-2026/cards-0008.md#paper-154453)
+- [Multilateral Resistance-Guided Graph Message Passing for Trade Flow Prediction](../../conferences/neurips-2026/cards-0008.md#paper-154787)
 
 <!-- conference-classification:end -->

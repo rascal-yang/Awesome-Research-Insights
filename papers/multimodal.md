@@ -766,5 +766,17 @@
 - [MMTA: Benchmarking Multimodal Temporal Analysis with Time Series, Text, and Vision](../conferences/neurips-2026/cards-0008.md#paper-139823)
 - [Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models](../conferences/neurips-2026/cards-0008.md#paper-148334)
 - [Modality-Depth Routing for Visual Reasoning in VLM Post-Training](../conferences/neurips-2026/cards-0008.md#paper-150494)
+- [Model Distribution-Aware Multimodal Dataset Distillation](../conferences/neurips-2026/cards-0008.md#paper-148787)
+- [Model Guides You How to Draw: Adaptive Visual Gating for Unified Multimodal Reasoning](../conferences/neurips-2026/cards-0008.md#paper-153582)
+- [MODULE: A Mutual-Promoting Deep Unfolding Framework Towards Degradation-Robust Multi-modal Image Fusion](../conferences/neurips-2026/cards-0008.md#paper-154035)
+- [MoRe-DVC: Motion Retrieval-Augmented Generation for Detailed Video Captioning](../conferences/neurips-2026/cards-0008.md#paper-152051)
+- [MoT3DVG: A Benchmark for Outdoor 3D Visual Grounding with Motion-Aware Descriptions and Temporal Cues](../conferences/neurips-2026/cards-0008.md#paper-139417)
+- [MotionHalluc: Diagnosing Kinematic Hallucinations in Fine-Grained Motion Reasoning](../conferences/neurips-2026/cards-0008.md#paper-139755)
+- [Motion-o: Trajectory-Grounded Video Reasoning](../conferences/neurips-2026/cards-0008.md#paper-148766)
+- [MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Privacy Evaluation of Language Model Agents](../conferences/neurips-2026/cards-0008.md#paper-139642)
+- [MPDocBench-Parse: Benchmarking Practical Multi-page Document Parsing](../conferences/neurips-2026/cards-0008.md#paper-139502)
+- [MSCR: Jointly Balancing Modality Utilization and Discovering Synergistic Information](../conferences/neurips-2026/cards-0008.md#paper-150032)
+- [MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data](../conferences/neurips-2026/cards-0008.md#paper-150756)
+- [Multimodal AI Detection In Two Words](../conferences/neurips-2026/cards-0008.md#paper-148150)
 
 <!-- conference-classification:end -->

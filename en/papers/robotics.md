@@ -746,5 +746,9 @@ Robot perception, policy learning, planning, and control.
 - [Mirror, Mirror on the Wall: Can VLM Agents Tell Who They Are at All?](../../conferences/neurips-2026/cards-0008.md#paper-139456)
 - [Mobility Helps Learning: Unsupervised Model Adaptation for Object Recognition via Movement](../../conferences/neurips-2026/cards-0008.md#paper-153889)
 - [MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting](../../conferences/neurips-2026/cards-0008.md#paper-150057)
+- [More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models](../../conferences/neurips-2026/cards-0008.md#paper-155441)
+- [MorphoGen: Free-Form XML Evolution for Robot Morphology Design](../../conferences/neurips-2026/cards-0008.md#paper-150325)
+- [Motion Cues from Image-based Point Tracking for LiDAR Scene Flow Estimation](../../conferences/neurips-2026/cards-0008.md#paper-152171)
+- [MotorSense: A Video-EMG Dataset of Motoric Representations for Action Understanding](../../conferences/neurips-2026/cards-0008.md#paper-154831)
 
 <!-- conference-classification:end -->
