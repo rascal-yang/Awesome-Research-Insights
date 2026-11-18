@@ -177,6 +177,7 @@
 - [等半径圆周索引与交替几何](../conferences/icml-2026/cards/4601-4700.md#wang26bo-modules) · Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Vision-Language Models
 - [原型漂移下解析ETF旋转](../conferences/icml-2026/cards/4601-4700.md#wang26ce-modules) · Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis
 - [相似特征的非对称最优传输](../conferences/icml-2026/cards/4601-4700.md#wang26cj-modules) · TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection
+- [共享分量循环交换的重建融合](../conferences/icml-2026/cards/5201-5300.md#xiong26m-modules) · Multimodal Fusion via Self-Consistent Task-Gradient Fields
 
 <a id="by-ml-foundations"></a>
 

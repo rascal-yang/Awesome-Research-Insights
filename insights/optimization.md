@@ -106,6 +106,7 @@
 - [逆列能量的自适应LoRA收缩](../conferences/icml-2026/cards/5101-5200.md#xi26g-optimization) · Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows
 - [稀疏重生参数的局部Adam暖启动](../conferences/icml-2026/cards/5101-5200.md#xiao26t-optimization) · Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling
 - [在光谱球切空间做矩阵更新](../conferences/icml-2026/cards/5101-5200.md#xie26r-optimization) · Controlled LLM Training on Spectral Sphere
+- [SVD因子量化的校准误差预算分配](../conferences/icml-2026/cards/5101-5200.md#xiong26k-optimization) · Principled SVD-based Delta Compression via Quantization Error Minimization
 
 <a id="by-computer-vision"></a>
 
@@ -142,6 +143,7 @@
 - [梯度熵与冲突软融合](../conferences/icml-2026/cards/4801-4900.md#wang26kh-optimization) · AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction
 - [联合优化采样时间掩码与去噪器](../conferences/icml-2026/cards/5001-5100.md#wu26i-optimization) · Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints
 - [以可分离性联合搜索擦除层](../conferences/icml-2026/cards/5101-5200.md#xie26q-optimization) · Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models
+- [在线梯度子空间的定向保护](../conferences/icml-2026/cards/5201-5300.md#xiong26l-optimization) · Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation
 
 <a id="by-nlp"></a>
 
@@ -159,6 +161,7 @@
 - [离线价值学习的解耦正交校正](../conferences/icml-2026/cards/3701-3800.md#qiao26j-optimization) · AdamO: A Collapse-Suppressed Optimizer for Offline RL
 - [按预期输出变化反算单步步长](../conferences/icml-2026/cards/4001-4100.md#sharifnassab26a-optimization) · Intentional Updates for Streaming Reinforcement Learning
 - [有限步优势预条件求解](../conferences/icml-2026/cards/4301-4400.md#sun26ak-optimization) · Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation
+- [离线联邦的值尺度与行为偏差重权](../conferences/icml-2026/cards/5201-5300.md#xu26e-optimization) · Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning
 
 <a id="by-robotics"></a>
 

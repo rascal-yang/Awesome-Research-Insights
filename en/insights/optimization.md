@@ -106,6 +106,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows](../../conferences/icml-2026/cards/5101-5200.md#xi26g-optimization) · 中文
 - [Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling](../../conferences/icml-2026/cards/5101-5200.md#xiao26t-optimization) · 中文
 - [Controlled LLM Training on Spectral Sphere](../../conferences/icml-2026/cards/5101-5200.md#xie26r-optimization) · 中文
+- [Principled SVD-based Delta Compression via Quantization Error Minimization](../../conferences/icml-2026/cards/5101-5200.md#xiong26k-optimization) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -142,6 +143,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction](../../conferences/icml-2026/cards/4801-4900.md#wang26kh-optimization) · 中文
 - [Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints](../../conferences/icml-2026/cards/5001-5100.md#wu26i-optimization) · 中文
 - [Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models](../../conferences/icml-2026/cards/5101-5200.md#xie26q-optimization) · 中文
+- [Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](../../conferences/icml-2026/cards/5201-5300.md#xiong26l-optimization) · 中文
 
 <a id="by-nlp"></a>
 
@@ -159,6 +161,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [AdamO: A Collapse-Suppressed Optimizer for Offline RL](../../conferences/icml-2026/cards/3701-3800.md#qiao26j-optimization) · 中文
 - [Intentional Updates for Streaming Reinforcement Learning](../../conferences/icml-2026/cards/4001-4100.md#sharifnassab26a-optimization) · 中文
 - [Randomized Advantage Transformation (RAT): Computing Natural Policy Gradients via Direct Backpropagation](../../conferences/icml-2026/cards/4301-4400.md#sun26ak-optimization) · 中文
+- [Expected Returns and Policy Inconsistency-Aware Offline Federated Deep Reinforcement Learning](../../conferences/icml-2026/cards/5201-5300.md#xu26e-optimization) · 中文
 
 <a id="by-robotics"></a>
 

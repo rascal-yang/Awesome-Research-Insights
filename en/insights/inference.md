@@ -343,6 +343,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](../../conferences/icml-2026/cards/5101-5200.md#xiang26e-inference) · 中文
 - [Editable Proof Sketch for Automated Theorem Proving](../../conferences/icml-2026/cards/5101-5200.md#xiao26q-inference) · 中文
 - [Statistical Early Stopping for Reasoning Models](../../conferences/icml-2026/cards/5101-5200.md#xie26z-inference) · 中文
+- [Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](../../conferences/icml-2026/cards/5201-5300.md#xiong26q-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -550,6 +551,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Learning High-Frequency Continuous Action Chunks in Latent Space](../../conferences/icml-2026/cards/4901-5000.md#wang26lj-inference) · 中文
 - [Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#wu26bt-inference) · 中文
 - [Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration](../../conferences/icml-2026/cards/5101-5200.md#xiang26f-inference) · 中文
+- [VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency](../../conferences/icml-2026/cards/5201-5300.md#xiong26o-inference) · 中文
 
 <a id="by-multimodal"></a>
 
@@ -654,6 +656,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs](../../conferences/icml-2026/cards/5101-5200.md#xiao26w-inference) · 中文
 - [Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy](../../conferences/icml-2026/cards/5101-5200.md#xie26m-inference) · 中文
 - [Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering](../../conferences/icml-2026/cards/5101-5200.md#xing26e-inference) · 中文
+- [Geometry-based Schrödinger Bridges for Trustworthy Multimodal Fusion](../../conferences/icml-2026/cards/5201-5300.md#xiong26n-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

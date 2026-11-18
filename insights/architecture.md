@@ -189,6 +189,7 @@
 - [按到达延迟分支的动作包](../conferences/icml-2026/cards/4901-5000.md#wikman26a-architecture) · Adaptive Reinforcement Learning for Unobservable Random Delays
 - [历史几何与流状态的等变耦合](../conferences/icml-2026/cards/5001-5100.md#wu26ak-architecture) · Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction
 - [分离夹持力与施加力的策略接口](../conferences/icml-2026/cards/5001-5100.md#wu26cb-architecture) · Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language
+- [离散锁定与连续角度的分尾协同设计](../conferences/icml-2026/cards/5101-5200.md#xiong26h-architecture) · Learning to Reconfigure: Configuration-Control Co-optimization of Reconfigurable Robots for Heterogeneous Locomotion
 
 <a id="by-multimodal"></a>
 

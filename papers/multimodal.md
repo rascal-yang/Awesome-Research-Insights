@@ -73,6 +73,7 @@
 - <a id="wang26bo-modules"></a>[Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Vision-Language Models](../conferences/icml-2026/cards/4601-4700.md#paper-wang26bo)
 - <a id="wang26ce-modules"></a>[Spherical Procrustes Alignment for Reliable Medical Audio Diagnosis](../conferences/icml-2026/cards/4601-4700.md#paper-wang26ce)
 - <a id="wang26cj-modules"></a>[TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](../conferences/icml-2026/cards/4601-4700.md#paper-wang26cj)
+- <a id="xiong26m-modules"></a>[Multimodal Fusion via Self-Consistent Task-Gradient Fields](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26m)
 
 <a id="by-loss-functions"></a>
 
@@ -392,6 +393,7 @@
 - <a id="xiao26w-inference"></a>[MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26w)
 - <a id="xie26m-inference"></a>[Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy](../conferences/icml-2026/cards/5101-5200.md#paper-xie26m)
 - <a id="xing26e-inference"></a>[Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering](../conferences/icml-2026/cards/5101-5200.md#paper-xing26e)
+- <a id="xiong26n-inference"></a>[Geometry-based Schrödinger Bridges for Trustworthy Multimodal Fusion](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26n)
 
 <a id="by-representation-learning"></a>
 

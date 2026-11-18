@@ -273,6 +273,7 @@
 - [event-residual-shell-restriction](../conferences/icml-2026/cards/4401-4500.md#tian26h-loss-functions) · Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision
 - [图相对核密度异常目标](../conferences/icml-2026/cards/4701-4800.md#wang26hb-loss-functions) · Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection
 - [跨稀疏率监督解释边](../conferences/icml-2026/cards/5001-5100.md#wu26j-loss-functions) · Multi-scale Explainer for Graph Neural Networks
+- [改变同配性但约束拓扑扰动的图增强](../conferences/icml-2026/cards/5201-5300.md#xu26a-loss-functions) · SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation
 
 <a id="by-scientific-ml"></a>
 

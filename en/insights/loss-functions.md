@@ -273,6 +273,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Learning Discriminative and Generalizable Anomaly Detector for Dynamic Graph with Limited Supervision](../../conferences/icml-2026/cards/4401-4500.md#tian26h-loss-functions) · 中文
 - [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](../../conferences/icml-2026/cards/4701-4800.md#wang26hb-loss-functions) · 中文
 - [Multi-scale Explainer for Graph Neural Networks](../../conferences/icml-2026/cards/5001-5100.md#wu26j-loss-functions) · 中文
+- [SFCLTA: Spectral Fusion Contrastive Learning with Topology-Adaptive Graph Augmentation](../../conferences/icml-2026/cards/5201-5300.md#xu26a-loss-functions) · 中文
 
 <a id="by-scientific-ml"></a>
 

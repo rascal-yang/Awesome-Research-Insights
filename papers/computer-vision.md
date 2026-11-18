@@ -216,6 +216,7 @@
 - <a id="wang26kh-optimization"></a>[AES: Curing Optimizer Blindness in Long-Tailed Recognition via State-Aware Correction](../conferences/icml-2026/cards/4801-4900.md#paper-wang26kh)
 - <a id="wu26i-optimization"></a>[Efficient Diffusion Models via Time Step Optimization with Consistent Training and Inference Constraints](../conferences/icml-2026/cards/5001-5100.md#paper-wu26i)
 - <a id="xie26q-optimization"></a>[Where Concept Erasure Should Occur: Concept–Layer Alignment in Text-to-Video Diffusion Models](../conferences/icml-2026/cards/5101-5200.md#paper-xie26q)
+- <a id="xiong26l-optimization"></a>[Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](../conferences/icml-2026/cards/5201-5300.md#paper-xiong26l)
 
 <a id="by-reinforcement-learning"></a>
 

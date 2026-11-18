@@ -534,6 +534,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wu26z-training-strategies"></a>[Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26z)
 - <a id="xiao26b-training-strategies"></a>[Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26b)
 - <a id="xiao26m-training-strategies"></a>[Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26m)
+- <a id="xiong26d-training-strategies"></a>[Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26d)
 
 <a id="by-data-strategies"></a>
 
@@ -697,6 +698,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wei26s-representation-learning"></a>[Deep neural networks divide and conquer dihedral multiplication](../../conferences/icml-2026/cards/4901-5000.md#paper-wei26s)
 - <a id="winter26a-representation-learning"></a>[Learning Compressed Shape-Aware Molecular Representations for Virtual Screening](../../conferences/icml-2026/cards/4901-5000.md#paper-winter26a)
 - <a id="wustl26a-representation-learning"></a>[Q-Tab: Quantized Tabular Data Generator](../../conferences/icml-2026/cards/5001-5100.md#paper-wustl26a)
+- <a id="xiong26e-representation-learning"></a>[NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26e)
 
 <a id="by-evaluation"></a>
 
@@ -766,6 +768,7 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="witter26a-evaluation"></a>[Exactly Computing do-Shapley Values](../../conferences/icml-2026/cards/4901-5000.md#paper-witter26a)
 - <a id="wu26u-evaluation"></a>[An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26u)
 - <a id="xing26a-evaluation"></a>[pTNAS: Progressive Neural Architecture Search for Tabular Data](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26a)
+- <a id="xiong26f-evaluation"></a>[EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26f)
 
 <a id="by-theory-statistics"></a>
 
@@ -1176,4 +1179,5 @@ General learning methods, optimization, learning theory, and inference.
 - <a id="wu26bs-theory-statistics"></a>[Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26bs)
 - <a id="wu26ce-theory-statistics"></a>[What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ce)
 - <a id="xie26ad-theory-statistics"></a>[Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26ad)
+- <a id="xu26b-theory-statistics"></a>[Credibility-Aware Weighting Federated Causal Discovery for Time Series](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26b)
 <!-- classification:end -->

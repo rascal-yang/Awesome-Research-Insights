@@ -351,6 +351,7 @@
 - [污染推理的谱收缩与子空间干预](../conferences/icml-2026/cards/5101-5200.md#xie26d-evaluation) · A Narrowing Geometry in Contaminated Reasoning
 - [控制长度后评估代码语义复杂度](../conferences/icml-2026/cards/5101-5200.md#xie26j-evaluation) · Rethinking Code Complexity Through the Lens of Large Language Models
 - [RLVR可监测性的数据与熵边界](../conferences/icml-2026/cards/5101-5200.md#xiong26b-evaluation) · Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning
+- [贡献路径与检索相关性的联合置信](../conferences/icml-2026/cards/5201-5300.md#xu26c-evaluation) · Information Flow Reveals When to Trust Language Models
 
 <a id="by-computer-vision"></a>
 
@@ -640,6 +641,7 @@
 - [按因果等价类分配归因查询](../conferences/icml-2026/cards/4901-5000.md#witter26a-evaluation) · Exactly Computing do-Shapley Values
 - [部分模型合并的参数保密边界](../conferences/icml-2026/cards/5001-5100.md#wu26u-evaluation) · An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks
 - [按神经元激活与梯度筛架构](../conferences/icml-2026/cards/5101-5200.md#xing26a-evaluation) · pTNAS: Progressive Neural Architecture Search for Tabular Data
+- [预训练目标与适配方式的配对诊断](../conferences/icml-2026/cards/5101-5200.md#xiong26f-evaluation) · EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models
 
 <a id="by-graph-and-recommendation"></a>
 

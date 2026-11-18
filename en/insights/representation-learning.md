@@ -269,6 +269,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Deep neural networks divide and conquer dihedral multiplication](../../conferences/icml-2026/cards/4901-5000.md#wei26s-representation-learning) · 中文
 - [Learning Compressed Shape-Aware Molecular Representations for Virtual Screening](../../conferences/icml-2026/cards/4901-5000.md#winter26a-representation-learning) · 中文
 - [Q-Tab: Quantized Tabular Data Generator](../../conferences/icml-2026/cards/5001-5100.md#wustl26a-representation-learning) · 中文
+- [NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data](../../conferences/icml-2026/cards/5101-5200.md#xiong26e-representation-learning) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

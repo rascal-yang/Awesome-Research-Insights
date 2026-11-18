@@ -264,6 +264,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xi26g-optimization"></a>[Spectral Bridge Variational Inference: Dynamic LoRA via Bures-Wasserstein Gradient Flows](../../conferences/icml-2026/cards/5101-5200.md#paper-xi26g)
 - <a id="xiao26t-optimization"></a>[Memory-Efficient LLM Training with Dynamic Sparsity: From Stability to Practical Scaling](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26t)
 - <a id="xie26r-optimization"></a>[Controlled LLM Training on Spectral Sphere](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26r)
+- <a id="xiong26k-optimization"></a>[Principled SVD-based Delta Compression via Quantization Error Minimization](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26k)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -590,6 +591,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xia26j-training-strategies"></a>[Adversarial Latent Embedding Repair for LLM Continual Learning](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26j)
 - <a id="xiao26p-training-strategies"></a>[FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26p)
 - <a id="xing26c-training-strategies"></a>[PretrainZero: Reinforcement Active Learning on Pretraining Data](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26c)
+- <a id="xiong26p-training-strategies"></a>[Token-Level LLM Collaboration via FusionRoute](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26p)
 
 <a id="by-data-strategies"></a>
 
@@ -1009,6 +1011,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xiang26e-inference"></a>[Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding](../../conferences/icml-2026/cards/5101-5200.md#paper-xiang26e)
 - <a id="xiao26q-inference"></a>[Editable Proof Sketch for Automated Theorem Proving](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26q)
 - <a id="xie26z-inference"></a>[Statistical Early Stopping for Reasoning Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26z)
+- <a id="xiong26q-inference"></a>[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for Memory-Constrained LLM Inference](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26q)
 
 <a id="by-representation-learning"></a>
 
@@ -1374,6 +1377,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xie26d-evaluation"></a>[A Narrowing Geometry in Contaminated Reasoning](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26d)
 - <a id="xie26j-evaluation"></a>[Rethinking Code Complexity Through the Lens of Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26j)
 - <a id="xiong26b-evaluation"></a>[Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26b)
+- <a id="xu26c-evaluation"></a>[Information Flow Reveals When to Trust Language Models](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26c)
 
 <a id="by-theory-statistics"></a>
 

@@ -351,6 +351,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Narrowing Geometry in Contaminated Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xie26d-evaluation) · 中文
 - [Rethinking Code Complexity Through the Lens of Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#xie26j-evaluation) · 中文
 - [Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xiong26b-evaluation) · 中文
+- [Information Flow Reveals When to Trust Language Models](../../conferences/icml-2026/cards/5201-5300.md#xu26c-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -640,6 +641,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Exactly Computing do-Shapley Values](../../conferences/icml-2026/cards/4901-5000.md#witter26a-evaluation) · 中文
 - [An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks](../../conferences/icml-2026/cards/5001-5100.md#wu26u-evaluation) · 中文
 - [pTNAS: Progressive Neural Architecture Search for Tabular Data](../../conferences/icml-2026/cards/5101-5200.md#xing26a-evaluation) · 中文
+- [EEG-FM-Bench: A Comprehensive Benchmark for the Systematic Evaluation and Diagnostic Analyses of EEG Foundation Models](../../conferences/icml-2026/cards/5101-5200.md#xiong26f-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

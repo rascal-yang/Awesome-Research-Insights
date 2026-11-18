@@ -269,6 +269,7 @@
 - [群运算电路的聚类诊断](../conferences/icml-2026/cards/4901-5000.md#wei26s-representation-learning) · Deep neural networks divide and conquer dihedral multiplication
 - [排序保真的量化感知向量压缩](../conferences/icml-2026/cards/4901-5000.md#winter26a-representation-learning) · Learning Compressed Shape-Aware Molecular Representations for Virtual Screening
 - [受限残差码扰动与粗细生成](../conferences/icml-2026/cards/5001-5100.md#wustl26a-representation-learning) · Q-Tab: Quantized Tabular Data Generator
+- [聚类条件的连续时序配准](../conferences/icml-2026/cards/5101-5200.md#xiong26e-representation-learning) · NeuralFLoC: Neural Flow-Based Joint Registration and Clustering of Functional Data
 
 <a id="by-graph-and-recommendation"></a>
 

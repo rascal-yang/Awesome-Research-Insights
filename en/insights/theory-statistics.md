@@ -604,6 +604,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting](../../conferences/icml-2026/cards/5001-5100.md#wu26bs-theory-statistics) · 中文
 - [What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression](../../conferences/icml-2026/cards/5001-5100.md#wu26ce-theory-statistics) · 中文
 - [Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer](../../conferences/icml-2026/cards/5101-5200.md#xie26ad-theory-statistics) · 中文
+- [Credibility-Aware Weighting Federated Causal Discovery for Time Series](../../conferences/icml-2026/cards/5201-5300.md#xu26b-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

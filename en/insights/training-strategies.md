@@ -152,6 +152,7 @@ Training schedules, curricula, and task or stage composition.
 - [Adversarial Latent Embedding Repair for LLM Continual Learning](../../conferences/icml-2026/cards/5101-5200.md#xia26j-training-strategies) · 中文
 - [FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources](../../conferences/icml-2026/cards/5101-5200.md#xiao26p-training-strategies) · 中文
 - [PretrainZero: Reinforcement Active Learning on Pretraining Data](../../conferences/icml-2026/cards/5101-5200.md#xing26c-training-strategies) · 中文
+- [Token-Level LLM Collaboration via FusionRoute](../../conferences/icml-2026/cards/5201-5300.md#xiong26p-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -420,6 +421,7 @@ Training schedules, curricula, and task or stage composition.
 - [Trustworthy Federated Label Distribution Learning under Annotation Quality Disparity](../../conferences/icml-2026/cards/5001-5100.md#wu26z-training-strategies) · 中文
 - [Influence-Disentangled Federated Training: Learning Models That Are Easy to Unlearn](../../conferences/icml-2026/cards/5101-5200.md#xiao26b-training-strategies) · 中文
 - [Copula-SVI: Vine-Copula Variational Inference with Stein Refining for Instance-Level Correlation Capturing](../../conferences/icml-2026/cards/5101-5200.md#xiao26m-training-strategies) · 中文
+- [Enhancing Cross-subject Emotion Recognition via Heterogeneous Distribution Augmentation and Collaborative Learning](../../conferences/icml-2026/cards/5101-5200.md#xiong26d-training-strategies) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -42,6 +42,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="wikman26a-architecture"></a>[Adaptive Reinforcement Learning for Unobservable Random Delays](../../conferences/icml-2026/cards/4901-5000.md#paper-wikman26a)
 - <a id="wu26ak-architecture"></a>[Flow for Future: Geometric SE(3)-Equivariant Flow Matching for 3D Trajectory Prediction](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ak)
 - <a id="wu26cb-architecture"></a>[Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26cb)
+- <a id="xiong26h-architecture"></a>[Learning to Reconfigure: Configuration-Control Co-optimization of Reconfigurable Robots for Heterogeneous Locomotion](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26h)
 
 <a id="by-modules"></a>
 
@@ -202,6 +203,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="wang26lj-inference"></a>[Learning High-Frequency Continuous Action Chunks in Latent Space](../../conferences/icml-2026/cards/4901-5000.md#paper-wang26lj)
 - <a id="wu26bt-inference"></a>[Speedup Patch: Learning a Plug-and-Play Policy to Accelerate Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26bt)
 - <a id="xiang26f-inference"></a>[Spike Camera Autofocus via Frequency-Domain Spectral-Centroid Migration](../../conferences/icml-2026/cards/5101-5200.md#paper-xiang26f)
+- <a id="xiong26o-inference"></a>[VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency](../../conferences/icml-2026/cards/5201-5300.md#paper-xiong26o)
 
 <a id="by-representation-learning"></a>
 
