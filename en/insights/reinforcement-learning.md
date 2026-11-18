@@ -769,5 +769,11 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Toward Interactive Understanding of Code APIs](../../conferences/neurips-2026/cards-0012.md#paper-139380)
 - [Towards Convergence of PPO: An Approximate Descent Approach](../../conferences/neurips-2026/cards-0012.md#paper-155526)
 - [Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-154067)
+- [Training Agent to Scale Inference-Time Reasoning](../../conferences/neurips-2026/cards-0012.md#paper-154824)
+- [Training Generalizable Collaborative Agents via Strategic Risk Aversion](../../conferences/neurips-2026/cards-0012.md#paper-151685)
+- [TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment](../../conferences/neurips-2026/cards-0012.md#paper-151355)
+- [Transferability for General Reasoning: An Automated Curriculum for Multi-Domain LLM RL](../../conferences/neurips-2026/cards-0012.md#paper-153605)
+- [Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning](../../conferences/neurips-2026/cards-0012.md#paper-154776)
+- [Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-150271)
 
 <!-- conference-classification:end -->

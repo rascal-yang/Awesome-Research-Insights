@@ -1044,5 +1044,10 @@ Learning across modalities such as images, text, audio, and video.
 - [Towards Realistic Conversational Multimodal Instruction Following](../../conferences/neurips-2026/cards-0012.md#paper-149344)
 - [Towards Reliable VLM Judges: State-Conditional Invariance and Presentation-Aware Diagnostics](../../conferences/neurips-2026/cards-0012.md#paper-139432)
 - [TPRL: Adaptive Visual Token Pruning in LVLMs via Language-Guided Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-153958)
+- [Training-free Focus-Ambient Retention for Memory-Efficient Video Large Language Models](../../conferences/neurips-2026/cards-0012.md#paper-154583)
+- [Trajectory-Matching Meta Pseudo-Labeling for Semi-Supervised Learning](../../conferences/neurips-2026/cards-0012.md#paper-148661)
+- [Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training](../../conferences/neurips-2026/cards-0012.md#paper-155049)
+- [Transfer Entropy as a Measure of Information Flow in VLMs and LLMs](../../conferences/neurips-2026/cards-0012.md#paper-151650)
+- [TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models](../../conferences/neurips-2026/cards-0012.md#paper-139448)
 
 <!-- conference-classification:end -->

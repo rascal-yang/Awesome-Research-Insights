@@ -632,5 +632,13 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Topology-Aware Representation Alignment for Semi-Supervised Vision-Language Learning](../../conferences/neurips-2026/cards-0012.md#paper-153660)
 - [Towards High Semantic Fidelity: Hyperdimensional Symbolic Messages in Multi-Agent Communication](../../conferences/neurips-2026/cards-0012.md#paper-153552)
 - [Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation](../../conferences/neurips-2026/cards-0012.md#paper-152397)
+- [TrAction: Action Recognition with Sparse Trajectories](../../conferences/neurips-2026/cards-0012.md#paper-154691)
+- [Trading Sensing for Structure: Sparse IMU-EMG Fingertip Force Estimation via Neuro-inspired Structured Modeling](../../conferences/neurips-2026/cards-0012.md#paper-155761)
+- [Training-Free Open World Object Detection](../../conferences/neurips-2026/cards-0012.md#paper-153266)
+- [Training-Free Task Vectors for LLM Behavioral Control](../../conferences/neurips-2026/cards-0012.md#paper-154724)
+- [Transfer Learning of Linear Regression with Multiple Pretrained Models: Benefiting from More Pretrained Models via Overparameterization Debiasing](../../conferences/neurips-2026/cards-0012.md#paper-149647)
+- [Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse](../../conferences/neurips-2026/cards-0012.md#paper-151282)
+- [Traversal-Invariant Positional Encoding for Serialized Graphs](../../conferences/neurips-2026/cards-0012.md#paper-150855)
+- [TraXion: Rethinking Pre-training Frameworks for Mobility and Beyond](../../conferences/neurips-2026/cards-0012.md#paper-152716)
 
 <!-- conference-classification:end -->

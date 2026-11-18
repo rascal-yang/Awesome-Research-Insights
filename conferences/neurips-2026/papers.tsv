@@ -8301,126 +8301,126 @@ poster_id	title	paper_url	status	reason
 153884	TRACER: Verifiable Generative Provenance for Multimodal Tool-Using Agents	https://neurips.cc/virtual/2026/poster/153884	included	工具型多模态答案每项关键主张要绑定观测证据
 139529	TraceSim: A Generative Simulator and Benchmark for Joint scRNA-seq and Lineage Tracing	https://neurips.cc/virtual/2026/poster/139529	excluded	主要为单细胞谱系模拟，未单列安全通用证据。
 153866	TRACE: Structure-Aware Character Encoding for Robust and Generalizable Document Watermarking	https://neurips.cc/virtual/2026/poster/153866	excluded	主要为文档水印跨传媒逼真与提取工程，无重点任务迁移。
-139280	TRACE: Tourism Recommendation with Accountable Citation Evidence	https://neurips.cc/virtual/2026/poster/139280	pending	-
-155184	TRACE: Trajectory-Aware Conceps for Explainable Video Understanding	https://neurips.cc/virtual/2026/poster/155184	pending	-
-139848	TraceTriage: A Benchmark for Cost-Aware Stop-or-Continue Decisions in Delayed-Outcome Workflows	https://neurips.cc/virtual/2026/poster/139848	pending	-
-152706	Tracing Actual Causes with Counterfactual Witness Maps	https://neurips.cc/virtual/2026/poster/152706	pending	-
-151046	Tracing Agentic Failure from the Flow of Success	https://neurips.cc/virtual/2026/poster/151046	pending	-
-152002	TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics	https://neurips.cc/virtual/2026/poster/152002	pending	-
-155125	Tracing Moral Foundations in Large Language Models	https://neurips.cc/virtual/2026/poster/155125	pending	-
-149072	Tracing Persona Vectors Through LLM Pretraining	https://neurips.cc/virtual/2026/poster/149072	pending	-
-148824	Tracing Psychometric Inference in Large Language Models	https://neurips.cc/virtual/2026/poster/148824	pending	-
-139645	Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations	https://neurips.cc/virtual/2026/poster/139645	pending	-
-155695	Track4D: Representing Dense 3D Tracking for Video Diffusion Models	https://neurips.cc/virtual/2026/poster/155695	pending	-
-155634	TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking	https://neurips.cc/virtual/2026/poster/155634	pending	-
-152726	TrackFish3D: Self-Supervised 3D Tracking of Schooling Fish from Multi-view Videos	https://neurips.cc/virtual/2026/poster/152726	pending	-
-150674	TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens	https://neurips.cc/virtual/2026/poster/150674	pending	-
-154691	TrAction: Action Recognition with Sparse Trajectories	https://neurips.cc/virtual/2026/poster/154691	pending	-
-155761	Trading Sensing for Structure: Sparse IMU-EMG Fingertip Force Estimation via Neuro-inspired Structured Modeling	https://neurips.cc/virtual/2026/poster/155761	pending	-
-139842	Traffic STGNNs across Sensor, City, and Time Shifts: Routing Concentration Tracks Sensitivity to Sensor Dropout	https://neurips.cc/virtual/2026/poster/139842	pending	-
-154615	Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning	https://neurips.cc/virtual/2026/poster/154615	pending	-
-150633	Trainable Topology Supervision under Structurally Unreliable Pseudo Supervision	https://neurips.cc/virtual/2026/poster/150633	pending	-
-149668	Train at the Moving Edge: Rollout-Efficient RL for Large Reasoning Models	https://neurips.cc/virtual/2026/poster/149668	pending	-
-153591	Train-free Data Poisoning Attack against Retrieval-augmented Diffusion Models	https://neurips.cc/virtual/2026/poster/153591	pending	-
-154824	Training Agent to Scale Inference-Time Reasoning	https://neurips.cc/virtual/2026/poster/154824	pending	-
-155056	Training a Predictive Coding Network on ImageNet using Equilibrium Propagation	https://neurips.cc/virtual/2026/poster/155056	pending	-
-152100	Training-Based Backdoors Are Not Cryptographic	https://neurips.cc/virtual/2026/poster/152100	pending	-
-153796	Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew	https://neurips.cc/virtual/2026/poster/153796	pending	-
-155047	Training Deliberative Monitors for Black-Box Scheming Detection	https://neurips.cc/virtual/2026/poster/155047	pending	-
-149653	Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models	https://neurips.cc/virtual/2026/poster/149653	pending	-
-155326	Training-Free 3D Editing via Feature-Divergence Localization and Trajectory Correction	https://neurips.cc/virtual/2026/poster/155326	pending	-
-153883	Training-Free Active Test-Time Adaptation for Vision-Language Models	https://neurips.cc/virtual/2026/poster/153883	pending	-
-151840	Training-Free Cultural Alignment of Large Language Models via Persona Disagreement	https://neurips.cc/virtual/2026/poster/151840	pending	-
-152456	Training-Free Dynamic Upcycling of Expert Language Models	https://neurips.cc/virtual/2026/poster/152456	pending	-
-149136	Training-Free Entangler Selection for Quantum Neural Networks via Hilbert–Schmidt Geometry	https://neurips.cc/virtual/2026/poster/149136	pending	-
-154583	Training-free Focus-Ambient Retention for Memory-Efficient Video Large Language Models	https://neurips.cc/virtual/2026/poster/154583	pending	-
-149104	Training-Free Generative Sampling via Moment-Matched Score Smoothing	https://neurips.cc/virtual/2026/poster/149104	pending	-
-153266	Training-Free Open World Object Detection	https://neurips.cc/virtual/2026/poster/153266	pending	-
-150307	Training-free Spatially Grounded Geometric Shape Encoding	https://neurips.cc/virtual/2026/poster/150307	pending	-
-154724	Training-Free Task Vectors for LLM Behavioral Control	https://neurips.cc/virtual/2026/poster/154724	pending	-
-151685	Training Generalizable Collaborative Agents via Strategic Risk Aversion	https://neurips.cc/virtual/2026/poster/151685	pending	-
-153798	Training-Induced Escape from Token Clustering in a Mean-Field Formulation of Transformers	https://neurips.cc/virtual/2026/poster/153798	pending	-
-152967	Training Language Models to Explain Their Own Computations	https://neurips.cc/virtual/2026/poster/152967	pending	-
-155671	Training Language Models via Neural Cellular Automata	https://neurips.cc/virtual/2026/poster/155671	pending	-
-148393	Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context	https://neurips.cc/virtual/2026/poster/148393	pending	-
-149754	Training ML Models with Predictable Failures	https://neurips.cc/virtual/2026/poster/149754	pending	-
-152223	Training on Documents About Monitoring Leads to CoT Obfuscation	https://neurips.cc/virtual/2026/poster/152223	pending	-
-152102	Training Optimal Large Diffusion Language Models	https://neurips.cc/virtual/2026/poster/152102	pending	-
-150721	Training Quality Determines Efficiency Boundaries in Test-Time Reasoning	https://neurips.cc/virtual/2026/poster/150721	pending	-
-150358	Training Transformers for KV-Cache Compressibility	https://neurips.cc/virtual/2026/poster/150358	pending	-
-155703	Training Vision Transformers to Focus: Emergence of Attention Head Specialization	https://neurips.cc/virtual/2026/poster/155703	pending	-
-149380	Training with Harnesses: On-Policy Harness Self-Distillation for Complex Reasoning	https://neurips.cc/virtual/2026/poster/149380	pending	-
-149270	Training with (Swap) Regret Loss in a Single-Layer Self-Attention Model: A Case Study on the Probability Simplex	https://neurips.cc/virtual/2026/poster/149270	pending	-
-155758	Train on the Sphere, Deploy on the Hill: Closed-Form-Anchored Surrogates for Real-Terrain Boundary-Integral Equations	https://neurips.cc/virtual/2026/poster/155758	pending	-
-148210	Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning	https://neurips.cc/virtual/2026/poster/148210	pending	-
-155603	Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation	https://neurips.cc/virtual/2026/poster/155603	pending	-
-149671	Trajectory-Consistent Diffusion Policies for Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149671	pending	-
-152046	Trajectory-Consistent Dropout for Uncertainty Decomposition in Hamiltonian Neural Networks	https://neurips.cc/virtual/2026/poster/152046	pending	-
-150030	Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving	https://neurips.cc/virtual/2026/poster/150030	pending	-
-150864	Trajectory Forcing: Exploiting Diffusion Trajectories for Autoregressive Long Video Generation	https://neurips.cc/virtual/2026/poster/150864	pending	-
-148661	Trajectory-Matching Meta Pseudo-Labeling for Semi-Supervised Learning	https://neurips.cc/virtual/2026/poster/148661	pending	-
-151102	Trajectory Planning without Trajectory Data: A Manifold-Guided Approach	https://neurips.cc/virtual/2026/poster/151102	pending	-
-151355	TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment	https://neurips.cc/virtual/2026/poster/151355	pending	-
-154461	TrajLift: Encoding Verbal Memory Dynamics via Heat Diffusion on Semantic Hierarchies	https://neurips.cc/virtual/2026/poster/154461	pending	-
-154385	TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control	https://neurips.cc/virtual/2026/poster/154385	pending	-
-155885	TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents	https://neurips.cc/virtual/2026/poster/155885	pending	-
-155049	Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training	https://neurips.cc/virtual/2026/poster/155049	pending	-
-155046	Transcoder Adapters for Reasoning-Model Diffing	https://neurips.cc/virtual/2026/poster/155046	pending	-
-149773	Transductive Generalization for GNNs via Optimal Transport	https://neurips.cc/virtual/2026/poster/149773	pending	-
-153605	Transferability for General Reasoning: An Automated Curriculum for Multi-Domain LLM RL	https://neurips.cc/virtual/2026/poster/153605	pending	-
-151820	Transferable SCF-Acceleration through Solver-Aligned Initialization Learning	https://neurips.cc/virtual/2026/poster/151820	pending	-
-149253	Transferable, Time-Parallel Graph Dynamics via Space-Time Factorization	https://neurips.cc/virtual/2026/poster/149253	pending	-
-151650	Transfer Entropy as a Measure of Information Flow in VLMs and LLMs	https://neurips.cc/virtual/2026/poster/151650	pending	-
-149647	Transfer Learning of Linear Regression with Multiple Pretrained Models: Benefiting from More Pretrained Models via Overparameterization Debiasing	https://neurips.cc/virtual/2026/poster/149647	pending	-
-152993	Transfer Learning Through Conditional Quantile Matching	https://neurips.cc/virtual/2026/poster/152993	pending	-
-153562	Transferring Visual Explainability from Self-Explaining to Prediction-Only Vision Transformers via Task Arithmetic	https://neurips.cc/virtual/2026/poster/153562	pending	-
-150527	Transformers Can Learn Multiclass Classification In-Context: Isotropy Governs Generalization	https://neurips.cc/virtual/2026/poster/150527	pending	-
-151845	Transformers Converge to Invariant Algorithmic Cores	https://neurips.cc/virtual/2026/poster/151845	pending	-
-156799	Transformers in the Dark: Navigating Unknown Search Spaces via Bandit Feedback	https://neurips.cc/virtual/2026/poster/156799	pending	-
-155096	Transformers Linearly Represent Highly Structured World Models	https://neurips.cc/virtual/2026/poster/155096	pending	-
-154590	Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement	https://neurips.cc/virtual/2026/poster/154590	pending	-
-155595	Transformers Provably Learn Graph Search: Training Dynamics and the Exponential Power of Depth	https://neurips.cc/virtual/2026/poster/155595	pending	-
-149320	Transforming Image Editors into Video Editors	https://neurips.cc/virtual/2026/poster/149320	pending	-
-154776	Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning	https://neurips.cc/virtual/2026/poster/154776	pending	-
-139623	TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation	https://neurips.cc/virtual/2026/poster/139623	pending	-
-149447	TransMem: Transition-Aware Retrieval for Evolving Personal Memory	https://neurips.cc/virtual/2026/poster/149447	pending	-
-155367	TransmissiveGS: Residual-Guided Disentangled Gaussian Splatting for Transmissive Scene Reconstruction and Rendering	https://neurips.cc/virtual/2026/poster/155367	pending	-
-155288	Transolver-GMsFEM: A Hybrid Framework for High-Contrast Multiscale PDEs on Irregular Grids	https://neurips.cc/virtual/2026/poster/155288	pending	-
-151282	Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse	https://neurips.cc/virtual/2026/poster/151282	pending	-
-153288	Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals	https://neurips.cc/virtual/2026/poster/153288	pending	-
-155149	Trapping Attacker in Dilemma: Examining Internal Correlations and External Influences of Trigger for Defending GNN Backdoors	https://neurips.cc/virtual/2026/poster/155149	pending	-
-150855	Traversal-Invariant Positional Encoding for Serialized Graphs	https://neurips.cc/virtual/2026/poster/150855	pending	-
-152716	TraXion: Rethinking Pre-training Frameworks for Mobility and Beyond	https://neurips.cc/virtual/2026/poster/152716	pending	-
-150271	Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150271	pending	-
-140069	Treat Domain-Specific Languages as Design Variables in LLM Agents	https://neurips.cc/virtual/2026/poster/140069	pending	-
-155538	Treating Hyperparameters as Interventions: Task-Invariant Representation Learning for Transferable HPO	https://neurips.cc/virtual/2026/poster/155538	pending	-
-155240	TReDS: Trajectory-Grounded Requirement-Capability Modeling for Training Distribution Shaping in Tool-Interactive Tasks	https://neurips.cc/virtual/2026/poster/155240	pending	-
-153244	Tree-Ensemble Repair through Constrained Optimization	https://neurips.cc/virtual/2026/poster/153244	pending	-
-151038	TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding	https://neurips.cc/virtual/2026/poster/151038	pending	-
-148936	Tree-Guided Identify Then Exploit: A Unified Framework of Pure Exploration and Regret Minimization for Dueling Bandits	https://neurips.cc/virtual/2026/poster/148936	pending	-
-148753	TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision	https://neurips.cc/virtual/2026/poster/148753	pending	-
-153976	TreePII: Efficient Computation of Higher-Order Probabilistic Interaction Indices in Tree Ensembles	https://neurips.cc/virtual/2026/poster/153976	pending	-
-155984	Tree Rotary Positional Encoding for Extreme Length Extrapolation from Scratch	https://neurips.cc/virtual/2026/poster/155984	pending	-
-152168	Tree Search With Predictions	https://neurips.cc/virtual/2026/poster/152168	pending	-
-151604	Tree-Sliced Orlicz Integral Probability Metric	https://neurips.cc/virtual/2026/poster/151604	pending	-
-150619	Tree-Structured Synergy of Large Language Models and Bayesian Optimization for Efficient CASH	https://neurips.cc/virtual/2026/poster/150619	pending	-
-153291	Tree Training: Efficient LLM Training on Tree-Structured Trajectories	https://neurips.cc/virtual/2026/poster/153291	pending	-
-150651	TreeWalker: Partial Evaluation for Grouped Tree-Ensemble Inference	https://neurips.cc/virtual/2026/poster/150651	pending	-
-153899	Trellis4D: Complex 4D Mesh Generation	https://neurips.cc/virtual/2026/poster/153899	pending	-
-151977	T-ReX: Learning Tile-Reuse Indexes for Structured Model Compression	https://neurips.cc/virtual/2026/poster/151977	pending	-
-139448	TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/139448	pending	-
-139419	TRIAGE: Evaluating Prospective Metacognitive Control in LLMs under Resource Constraints	https://neurips.cc/virtual/2026/poster/139419	pending	-
-139604	TrialAgentBench: Evaluating AI Agents for Clinical-Trial Analysis and Long-Horizon Drug-Development Decisions	https://neurips.cc/virtual/2026/poster/139604	pending	-
-156097	TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks	https://neurips.cc/virtual/2026/poster/156097	pending	-
-155489	TriBet: Relative E-values for Online Machine-generated Text Detection	https://neurips.cc/virtual/2026/poster/155489	pending	-
-155841	TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG	https://neurips.cc/virtual/2026/poster/155841	pending	-
-149589	Trie-Aware Transformers for Generative Recommendation	https://neurips.cc/virtual/2026/poster/149589	pending	-
-148902	Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA	https://neurips.cc/virtual/2026/poster/148902	pending	-
-154624	TRIM: A Theory of Retrieval with Incremental Memory -- Defect, Benefit, and Critical Horizon	https://neurips.cc/virtual/2026/poster/154624	pending	-
-139435	Trimming the Long-Tail of Visual World Modeling Evaluation	https://neurips.cc/virtual/2026/poster/139435	pending	-
-149989	TrioPose: Native Triple-Stream Diffusion Transformers for Pose-Guided Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/149989	pending	-
-153501	Tri-Prompting: Controllable Video Generation with Scene, Subject, and Motion Prompts	https://neurips.cc/virtual/2026/poster/153501	pending	-
-148805	TriPrompt: Progressive Local Prompting for Few-shot Out-of-Distribution Detection	https://neurips.cc/virtual/2026/poster/148805	pending	-
+139280	TRACE: Tourism Recommendation with Accountable Citation Evidence	https://neurips.cc/virtual/2026/poster/139280	included	多轮推荐分别检查命中、证据和被拒后的恢复。
+155184	TRACE: Trajectory-Aware Conceps for Explainable Video Understanding	https://neurips.cc/virtual/2026/poster/155184	included	视频解释将运动轨迹作可定位概念。
+139848	TraceTriage: A Benchmark for Cost-Aware Stop-or-Continue Decisions in Delayed-Outcome Workflows	https://neurips.cc/virtual/2026/poster/139848	included	长任务提前终止以误停预算和剩余成本选阈。
+152706	Tracing Actual Causes with Counterfactual Witness Maps	https://neurips.cc/virtual/2026/poster/152706	included	排错需要覆盖所有实际原因时验证完备性。
+151046	Tracing Agentic Failure from the Flow of Success	https://neurips.cc/virtual/2026/poster/151046	included	代理故障识别可只从成功流学偏离。
+152002	TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics	https://neurips.cc/virtual/2026/poster/152002	included	轨迹逆推保留二阶动态。
+155125	Tracing Moral Foundations in Large Language Models	https://neurips.cc/virtual/2026/poster/155125	included	对齐审计按道德维度追踪表示变化。
+149072	Tracing Persona Vectors Through LLM Pretraining	https://neurips.cc/virtual/2026/poster/149072	included	角色一致性审计从多个预训练检查点开始。
+148824	Tracing Psychometric Inference in Large Language Models	https://neurips.cc/virtual/2026/poster/148824	included	比较行为倾向与内部结构时控制探针固有缩放。
+139645	Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations	https://neurips.cc/virtual/2026/poster/139645	included	复杂推理按证据拓扑检查中间过程。
+155695	Track4D: Representing Dense 3D Tracking for Video Diffusion Models	https://neurips.cc/virtual/2026/poster/155695	included	将密集 3D 追踪监督写成条件视频生成。
+155634	TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking	https://neurips.cc/virtual/2026/poster/155634	included	使用视频扩散前先测其在大位移和长视频早期追踪表征。
+152726	TrackFish3D: Self-Supervised 3D Tracking of Schooling Fish from Multi-view Videos	https://neurips.cc/virtual/2026/poster/152726	included	多视角密集同类跟踪用同帧个体作对比负例。
+150674	TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens	https://neurips.cc/virtual/2026/poster/150674	included	视频压缩 token 对应持久对象，减少重复背景。
+154691	TrAction: Action Recognition with Sparse Trajectories	https://neurips.cc/virtual/2026/poster/154691	included	有动作差别但外观相同的任务加入稀疏轨迹。
+155761	Trading Sensing for Structure: Sparse IMU-EMG Fingertip Force Estimation via Neuro-inspired Structured Modeling	https://neurips.cc/virtual/2026/poster/155761	included	稀疏力感知增加结构模型以替代部分传感密度。
+139842	Traffic STGNNs across Sensor, City, and Time Shifts: Routing Concentration Tracks Sensitivity to Sensor Dropout	https://neurips.cc/virtual/2026/poster/139842	included	图时序传感掉线按路由集中度验。
+154615	Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning	https://neurips.cc/virtual/2026/poster/154615	included	视频扩散稀疏注意训练混合固定预算和质量阈。
+150633	Trainable Topology Supervision under Structurally Unreliable Pseudo Supervision	https://neurips.cc/virtual/2026/poster/150633	included	不可信伪掩码的拓扑监督只在证据可靠时注入。
+149668	Train at the Moving Edge: Rollout-Efficient RL for Large Reasoning Models	https://neurips.cc/virtual/2026/poster/149668	included	rollout 预算放在当前中等难度且高熵题。
+153591	Train-free Data Poisoning Attack against Retrieval-augmented Diffusion Models	https://neurips.cc/virtual/2026/poster/153591	excluded	研究重点是数据投毒，摘要未提供独立防御证据。
+154824	Training Agent to Scale Inference-Time Reasoning	https://neurips.cc/virtual/2026/poster/154824	included	提高候选池的选择质量需以整组候选为监督。
+155056	Training a Predictive Coding Network on ImageNet using Equilibrium Propagation	https://neurips.cc/virtual/2026/poster/155056	included	预测编码网络验证规模限制时改进平衡过程。
+152100	Training-Based Backdoors Are Not Cryptographic	https://neurips.cc/virtual/2026/poster/152100	included	后门防护的安全假设需检验能否用观察发现，而非假定具加密不对称。
+153796	Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew	https://neurips.cc/virtual/2026/poster/153796	included	比较扩散模型的训练归因时两模型共享噪声采样。
+155047	Training Deliberative Monitors for Black-Box Scheming Detection	https://neurips.cc/virtual/2026/poster/155047	included	黑盒轨迹监控可用训练后的低成本独立模型。
+149653	Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models	https://neurips.cc/virtual/2026/poster/149653	included	训练迭代做平均时直接针对最终返回平均模型优化。
+155326	Training-Free 3D Editing via Feature-Divergence Localization and Trajectory Correction	https://neurips.cc/virtual/2026/poster/155326	included	扩散三维编辑分早期结构变更与后期保真阶段。
+153883	Training-Free Active Test-Time Adaptation for Vision-Language Models	https://neurips.cc/virtual/2026/poster/153883	included	有限人工测试标签用来更新后续样本决策。
+151840	Training-Free Cultural Alignment of Large Language Models via Persona Disagreement	https://neurips.cc/virtual/2026/poster/151840	included	以不同角色意见分歧定位文化偏向并调整输出。
+152456	Training-Free Dynamic Upcycling of Expert Language Models	https://neurips.cc/virtual/2026/poster/152456	excluded	多域专家重组主要是框架组合，摘要未给足够独立收益与部署条件。
+149136	Training-Free Entangler Selection for Quantum Neural Networks via Hilbert–Schmidt Geometry	https://neurips.cc/virtual/2026/poster/149136	excluded	量子线路选择主要为特定拓扑与硬件，摘要无主要研究方向直接迁移证据。
+154583	Training-free Focus-Ambient Retention for Memory-Efficient Video Large Language Models	https://neurips.cc/virtual/2026/poster/154583	included	视频缓存分开保留动作细节和发生变化的环境背景。
+149104	Training-Free Generative Sampling via Moment-Matched Score Smoothing	https://neurips.cc/virtual/2026/poster/149104	included	已知目标矩时让粒子采样全程遵循矩约束。
+153266	Training-Free Open World Object Detection	https://neurips.cc/virtual/2026/poster/153266	included	开放目标检测先融合类别外观和属性聚类统计。
+150307	Training-free Spatially Grounded Geometric Shape Encoding	https://neurips.cc/virtual/2026/poster/150307	excluded	当前训练免除形状编码主要适配特定二维几何，摘要未给直接应用的对照。
+154724	Training-Free Task Vectors for LLM Behavioral Control	https://neurips.cc/virtual/2026/poster/154724	included	用前向统计将激活方向转成低秩权重编辑。
+151685	Training Generalizable Collaborative Agents via Strategic Risk Aversion	https://neurips.cc/virtual/2026/poster/151685	included	训练协作代理时对伙伴可能偏离预期的行为建模。
+153798	Training-Induced Escape from Token Clustering in a Mean-Field Formulation of Transformers	https://neurips.cc/virtual/2026/poster/153798	excluded	均值场的 token 改聚类依赖仅训练线性参数 FFN，摘要缺少真实模型验证。
+152967	Training Language Models to Explain Their Own Computations	https://neurips.cc/virtual/2026/poster/152967	included	模型的自然语言解释应由已测内部机制作为监督。
+155671	Training Language Models via Neural Cellular Automata	https://neurips.cc/virtual/2026/poster/155671	included	以合成预训练时按目标域选择生成动力学
+148393	Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context	https://neurips.cc/virtual/2026/poster/148393	excluded	摘要报告更长上下文结果，未给足以隔离独立训练机制的信息。
+149754	Training ML Models with Predictable Failures	https://neurips.cc/virtual/2026/poster/149754	excluded	包含可操作性安全实验的摘要，未单列非操作性独立结论。
+152223	Training on Documents About Monitoring Leads to CoT Obfuscation	https://neurips.cc/virtual/2026/poster/152223	excluded	主要贡献涉及隐藏推理规避监控，未单列可收录安全机制。
+152102	Training Optimal Large Diffusion Language Models	https://neurips.cc/virtual/2026/poster/152102	included	扩散语言模型训练分别验收早期速度与终点
+150721	Training Quality Determines Efficiency Boundaries in Test-Time Reasoning	https://neurips.cc/virtual/2026/poster/150721	excluded	摘要未给训练质量分项的具体可复核干预及独立对照。
+150358	Training Transformers for KV-Cache Compressibility	https://neurips.cc/virtual/2026/poster/150358	included	训练时引入未来部署使用的 KV 压缩约束
+155703	Training Vision Transformers to Focus: Emergence of Attention Head Specialization	https://neurips.cc/virtual/2026/poster/155703	excluded	摘要未明确训练所用注意引导机制的独立控制效果。
+149380	Training with Harnesses: On-Policy Harness Self-Distillation for Complex Reasoning	https://neurips.cc/virtual/2026/poster/149380	included	复杂推理工具框架可只作为训练教师
+149270	Training with (Swap) Regret Loss in a Single-Layer Self-Attention Model: A Case Study on the Probability Simplex	https://neurips.cc/virtual/2026/poster/149270	excluded	主要在极简博弈和单层注意力证明，不直接验证重点深度设置。
+155758	Train on the Sphere, Deploy on the Hill: Closed-Form-Anchored Surrogates for Real-Terrain Boundary-Integral Equations	https://neurips.cc/virtual/2026/poster/155758	excluded	主要在电力线地形边界建模专项验证。
+148210	Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning	https://neurips.cc/virtual/2026/poster/148210	excluded	摘要展示多视觉专家工作流整体收益，未独立隔离协同策略。
+155603	Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation	https://neurips.cc/virtual/2026/poster/155603	excluded	摘要未展开能量轨迹损失的单独适用机制。
+149671	Trajectory-Consistent Diffusion Policies for Offline Reinforcement Learning	https://neurips.cc/virtual/2026/poster/149671	excluded	多步去噪一致性与已有轨迹生成条目接近，摘要未给关键独立控制证据。
+152046	Trajectory-Consistent Dropout for Uncertainty Decomposition in Hamiltonian Neural Networks	https://neurips.cc/virtual/2026/poster/152046	included	多步动力学不确定性估计在每条轨迹固定模型抽样
+150030	Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving	https://neurips.cc/virtual/2026/poster/150030	excluded	摘要未给稀疏评分替代 rollout 的定量质量对照。
+150864	Trajectory Forcing: Exploiting Diffusion Trajectories for Autoregressive Long Video Generation	https://neurips.cc/virtual/2026/poster/150864	excluded	摘要给训练整体结果，未说明两种轨迹阶段的核心独立机制。
+148661	Trajectory-Matching Meta Pseudo-Labeling for Semi-Supervised Learning	https://neurips.cc/virtual/2026/poster/148661	included	半监督伪标签教师用轨迹方向匹配降低元梯度开销
+151102	Trajectory Planning without Trajectory Data: A Manifold-Guided Approach	https://neurips.cc/virtual/2026/poster/151102	excluded	摘要未展开如何学习和使用流形及约束，对现有任务选型证据有限。
+151355	TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment	https://neurips.cc/virtual/2026/poster/151355	included	轨迹信用先判步骤对成功是否必要
+154461	TrajLift: Encoding Verbal Memory Dynamics via Heat Diffusion on Semantic Hierarchies	https://neurips.cc/virtual/2026/poster/154461	included	层级事件轨迹分别编码结构距离与发生时间。
+154385	TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control	https://neurips.cc/virtual/2026/poster/154385	included	多对象生成将注意分配和目标轨迹绑定。
+155885	TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents	https://neurips.cc/virtual/2026/poster/155885	included	对话长期记忆编译成可追溯 wiki。
+155049	Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training	https://neurips.cc/virtual/2026/poster/155049	included	结构转录先用规范形消除等价多解。
+155046	Transcoder Adapters for Reasoning-Model Diffing	https://neurips.cc/virtual/2026/poster/155046	included	解释微调变化时拟合计算差分而非整个 MLP。
+149773	Transductive Generalization for GNNs via Optimal Transport	https://neurips.cc/virtual/2026/poster/149773	included	传导图分类正则化类内集中和类间分离。
+153605	Transferability for General Reasoning: An Automated Curriculum for Multi-Domain LLM RL	https://neurips.cc/virtual/2026/poster/153605	included	多领域 RL 课程按对其他领域的更新帮助选。
+151820	Transferable SCF-Acceleration through Solver-Aligned Initialization Learning	https://neurips.cc/virtual/2026/poster/151820	included	学习求解初始化以真实迭代及隐藏成本为目标。
+149253	Transferable, Time-Parallel Graph Dynamics via Space-Time Factorization	https://neurips.cc/virtual/2026/poster/149253	included	跨图动力学分离共享时间算子和无图专属参数的空间混合。
+151650	Transfer Entropy as a Measure of Information Flow in VLMs and LLMs	https://neurips.cc/virtual/2026/poster/151650	included	Transformer 剪枝诊断可按有向信息流分层。
+149647	Transfer Learning of Linear Regression with Multiple Pretrained Models: Benefiting from More Pretrained Models via Overparameterization Debiasing	https://neurips.cc/virtual/2026/poster/149647	included	使用更多线性前训练器前校正过参数偏差。
+152993	Transfer Learning Through Conditional Quantile Matching	https://neurips.cc/virtual/2026/poster/152993	included	跨域回归先做条件分位对应。
+153562	Transferring Visual Explainability from Self-Explaining to Prediction-Only Vision Transformers via Task Arithmetic	https://neurips.cc/virtual/2026/poster/153562	included	将视觉解释能力作为可传递权重方向。
+150527	Transformers Can Learn Multiclass Classification In-Context: Isotropy Governs Generalization	https://neurips.cc/virtual/2026/poster/150527	included	演示分类要检查类别中心各向同性及类别频率。
+151845	Transformers Converge to Invariant Algorithmic Cores	https://neurips.cc/virtual/2026/poster/151845	included	不同训练时对齐不变功能子空间。
+156799	Transformers in the Dark: Navigating Unknown Search Spaces via Bandit Feedback	https://neurips.cc/virtual/2026/poster/156799	included	未知树搜索分离模型表达与学会探索。
+155096	Transformers Linearly Represent Highly Structured World Models	https://neurips.cc/virtual/2026/poster/155096	included	组合推理解释检查受约束代数的状态结构。
+154590	Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement	https://neurips.cc/virtual/2026/poster/154590	included	上下文策略改进测试能否实施经典更新。
+155595	Transformers Provably Learn Graph Search: Training Dynamics and the Exponential Power of Depth	https://neurips.cc/virtual/2026/poster/155595	included	图路径推理通过示范分布训练可外推 DFS。
+149320	Transforming Image Editors into Video Editors	https://neurips.cc/virtual/2026/poster/149320	included	视频编辑复用图像编辑器生成稳定关键帧。
+154776	Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning	https://neurips.cc/virtual/2026/poster/154776	included	工具使用按状态变化分配信用，避免继承相同的终局分数。
+139623	TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation	https://neurips.cc/virtual/2026/poster/139623	excluded	主要贡献是交通路线数据与生成基准，摘要未显示独立于应用的机制。
+149447	TransMem: Transition-Aware Retrieval for Evolving Personal Memory	https://neurips.cc/virtual/2026/poster/149447	included	用显式变化记录保存用户偏好更新，同事实分开检索。
+155367	TransmissiveGS: Residual-Guided Disentangled Gaussian Splatting for Transmissive Scene Reconstruction and Rendering	https://neurips.cc/virtual/2026/poster/155367	excluded	折射场景的双高斯与渲染专属设计未给通用对象解耦证据。
+155288	Transolver-GMsFEM: A Hybrid Framework for High-Contrast Multiscale PDEs on Irregular Grids	https://neurips.cc/virtual/2026/poster/155288	included	用神经模型预测耗时的多尺度基函数，并保留数值组装。
+151282	Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse	https://neurips.cc/virtual/2026/poster/151282	included	从均匀分位覆盖出发，把码字通过可学习概率流放入潜空间。
+153288	Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals	https://neurips.cc/virtual/2026/poster/153288	included	反事实生成要明示是否保持外生变量相互独立。
+155149	Trapping Attacker in Dilemma: Examining Internal Correlations and External Influences of Trigger for Defending GNN Backdoors	https://neurips.cc/virtual/2026/poster/155149	included	图模型防护应联合检查局部结构异常与影响，并同时监控干净准确度。
+150855	Traversal-Invariant Positional Encoding for Serialized Graphs	https://neurips.cc/virtual/2026/poster/150855	included	图序列化时给同一结构的不同遍历保持一致的位置编码。
+152716	TraXion: Rethinking Pre-training Frameworks for Mobility and Beyond	https://neurips.cc/virtual/2026/poster/152716	included	多主体时空日志采用符合事件结构的预训练目标。
+150271	Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/150271	included	将表面偏置线索与正确结论之间的关系在训练数据中去相关。
+140069	Treat Domain-Specific Languages as Design Variables in LLM Agents	https://neurips.cc/virtual/2026/poster/140069	excluded	DSL 作为设计变量是立场与案例，摘要未给可用的语言设计受控结论。
+155538	Treating Hyperparameters as Interventions: Task-Invariant Representation Learning for Transferable HPO	https://neurips.cc/virtual/2026/poster/155538	included	学习用于调参迁移的任务表示，让其不随已执行超参数改变。
+155240	TReDS: Trajectory-Grounded Requirement-Capability Modeling for Training Distribution Shaping in Tool-Interactive Tasks	https://neurips.cc/virtual/2026/poster/155240	included	代理课程按轨迹揭示的能力缺口分配任务概率。
+153244	Tree-Ensemble Repair through Constrained Optimization	https://neurips.cc/virtual/2026/poster/153244	included	发现反例后将树模型修复写成满足约束的优化。
+151038	TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding	https://neurips.cc/virtual/2026/poster/151038	included	推测解码中由便宜模型扩树、强模型重排关键候选。
+148936	Tree-Guided Identify Then Exploit: A Unified Framework of Pure Exploration and Regret Minimization for Dueling Bandits	https://neurips.cc/virtual/2026/poster/148936	excluded	对战赌博机比较复杂度依赖理论设置，摘要未给目标场景可迁移证据。
+148753	TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision	https://neurips.cc/virtual/2026/poster/148753	included	混图预先控制区域面积，使同一合成提供概率或顺序监督。
+153976	TreePII: Efficient Computation of Higher-Order Probabilistic Interaction Indices in Tree Ensembles	https://neurips.cc/virtual/2026/poster/153976	included	树集成解释用结构化求积计算高阶概率交互。
+155984	Tree Rotary Positional Encoding for Extreme Length Extrapolation from Scratch	https://neurips.cc/virtual/2026/poster/155984	included	从头训练的长度外推用多尺度树位置替代单全局索引。
+152168	Tree Search With Predictions	https://neurips.cc/virtual/2026/poster/152168	excluded	主要为有预测的树查找查询复杂度，摘要未核对深度智能体选择。
+151604	Tree-Sliced Orlicz Integral Probability Metric	https://neurips.cc/virtual/2026/poster/151604	excluded	主要为输运度量通用理论，摘要未交代当前任务的实测适用边界。
+150619	Tree-Structured Synergy of Large Language Models and Bayesian Optimization for Efficient CASH	https://neurips.cc/virtual/2026/poster/150619	excluded	主要是自动调参的多部件系统，摘要未给由模型转代理的独立消融。
+153291	Tree Training: Efficient LLM Training on Tree-Structured Trajectories	https://neurips.cc/virtual/2026/poster/153291	included	同提示多轨迹训练复用共享前缀
+150651	TreeWalker: Partial Evaluation for Grouped Tree-Ensemble Inference	https://neurips.cc/virtual/2026/poster/150651	excluded	主要是树集成部署与数值性能，非当前重点深度方案。
+153899	Trellis4D: Complex 4D Mesh Generation	https://neurips.cc/virtual/2026/poster/153899	excluded	动态网格生成涉及多个新设计，摘要未报告四维时序编码独立证据。
+151977	T-ReX: Learning Tile-Reuse Indexes for Structured Model Compression	https://neurips.cc/virtual/2026/poster/151977	excluded	摘要未给瓦片复用的可独立判断边界和内存性能实测。
+139448	TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/139448	included	全模态问答验收需要三路才能消歧
+139419	TRIAGE: Evaluating Prospective Metacognitive Control in LLMs under Resource Constraints	https://neurips.cc/virtual/2026/poster/139419	included	预算内任务规划在执行反馈前验收
+139604	TrialAgentBench: Evaluating AI Agents for Clinical-Trial Analysis and Long-Horizon Drug-Development Decisions	https://neurips.cc/virtual/2026/poster/139604	excluded	主要为临床药物开发流程数据与专业判断，摘要未单列安全通用机制。
+156097	TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks	https://neurips.cc/virtual/2026/poster/156097	included	Agent KV 量化按时序、模态和角色分配精度
+155489	TriBet: Relative E-values for Online Machine-generated Text Detection	https://neurips.cc/virtual/2026/poster/155489	excluded	主要为生成文本检测的顺序统计，与已选溯源卡重叠且摘要无具体新适用边界。
+155841	TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG	https://neurips.cc/virtual/2026/poster/155841	included	RAG 引用证书按检索选择后的分布校准
+149589	Trie-Aware Transformers for Generative Recommendation	https://neurips.cc/virtual/2026/poster/149589	excluded	主要为推荐序列的前缀树结构，未验证其他语言任务。
+148902	Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA	https://neurips.cc/virtual/2026/poster/148902	included	用快速动作支路的不确定性触发慢推理
+154624	TRIM: A Theory of Retrieval with Incremental Memory -- Defect, Benefit, and Critical Horizon	https://neurips.cc/virtual/2026/poster/154624	excluded	摘要主要为理论诊断协议，未给可改变具体检索机制的实证。
+139435	Trimming the Long-Tail of Visual World Modeling Evaluation	https://neurips.cc/virtual/2026/poster/139435	included	世界模型按常见与长尾物理交互分层验收
+149989	TrioPose: Native Triple-Stream Diffusion Transformers for Pose-Guided Text-to-Image Generation	https://neurips.cc/virtual/2026/poster/149989	excluded	主要在人体姿态图像生成验证，三流设计独立迁移未验证。
+153501	Tri-Prompting: Controllable Video Generation with Scene, Subject, and Motion Prompts	https://neurips.cc/virtual/2026/poster/153501	excluded	主要以三类控制信号联合展示，未单列时序或跨视一致机制证据。
+148805	TriPrompt: Progressive Local Prompting for Few-shot Out-of-Distribution Detection	https://neurips.cc/virtual/2026/poster/148805	excluded	主要面向图像 CLIP 的三种提示联合设置，未给具体独立对照。
 148495	TriSearch: Learning to Optimize Triangulations via Bistellar Flips	https://neurips.cc/virtual/2026/poster/148495	pending	-
 152166	TriSpec: Ternary Speculative Decoding via Lightweight Proxy Verification	https://neurips.cc/virtual/2026/poster/152166	pending	-
 154734	TriTD: Tri-Partite Trajectory–Distribution Distillation for Real-Time Autoregressive Video Generation	https://neurips.cc/virtual/2026/poster/154734	pending	-

@@ -693,5 +693,6 @@
 - [The Dynamic-Probabilistic Consistency Gap in Chaotic Surrogate Modeling](../conferences/neurips-2026/cards-0011.md#paper-152081)
 - [The Neural Race Model](../conferences/neurips-2026/cards-0011.md#paper-152312)
 - [TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting](../conferences/neurips-2026/cards-0012.md#paper-150449)
+- [Transolver-GMsFEM: A Hybrid Framework for High-Contrast Multiscale PDEs on Irregular Grids](../conferences/neurips-2026/cards-0012.md#paper-155288)
 
 <!-- conference-classification:end -->

@@ -159,3 +159,88 @@
 | 视觉与多模态 | 效率与系统 | [TPRL: Adaptive Visual Token Pruning in LVLMs via Language-Guided Reinforcement Learning](cards-0012.md#paper-153958) | 视觉 token 剪枝以多步预算决策训练 |
 | 智能体 | 评测与诊断 | [TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development](cards-0012.md#paper-139211) | 机器学习开发助手用成对人机轨迹定位战略差别 |
 | 智能体 | 评测与诊断 | [TRACER: Verifiable Generative Provenance for Multimodal Tool-Using Agents](cards-0012.md#paper-153884) | 工具型多模态答案每项关键主张要绑定观测证据 |
+| 智能体与工具使用 | 评测与诊断 | [TRACE: Tourism Recommendation with Accountable Citation Evidence](cards-0012.md#paper-139280) | 多轮推荐分别检查命中、证据和被拒后的恢复。 |
+| 计算机视觉 | 可解释性 | [TRACE: Trajectory-Aware Conceps for Explainable Video Understanding](cards-0012.md#paper-155184) | 视频解释将运动轨迹作可定位概念。 |
+| 智能体与工具使用 | 评测与诊断 | [TraceTriage: A Benchmark for Cost-Aware Stop-or-Continue Decisions in Delayed-Outcome Workflows](cards-0012.md#paper-139848) | 长任务提前终止以误停预算和剩余成本选阈。 |
+| 机器学习理论 | 因果推断 | [Tracing Actual Causes with Counterfactual Witness Maps](cards-0012.md#paper-152706) | 排错需要覆盖所有实际原因时验证完备性。 |
+| 智能体与工具使用 | 异常检测 | [Tracing Agentic Failure from the Flow of Success](cards-0012.md#paper-151046) | 代理故障识别可只从成功流学偏离。 |
+| 生成模型 | 流匹配 | [TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics](cards-0012.md#paper-152002) | 轨迹逆推保留二阶动态。 |
+| 大语言模型 | 可解释性 | [Tracing Moral Foundations in Large Language Models](cards-0012.md#paper-155125) | 对齐审计按道德维度追踪表示变化。 |
+| 大语言模型 | 可解释性 | [Tracing Persona Vectors Through LLM Pretraining](cards-0012.md#paper-149072) | 角色一致性审计从多个预训练检查点开始。 |
+| 大语言模型 | 可解释性 | [Tracing Psychometric Inference in Large Language Models](cards-0012.md#paper-148824) | 比较行为倾向与内部结构时控制探针固有缩放。 |
+| 智能体与工具使用 | 评测与诊断 | [Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations](cards-0012.md#paper-139645) | 复杂推理按证据拓扑检查中间过程。 |
+| 计算机视觉 | 三维视觉 | [Track4D: Representing Dense 3D Tracking for Video Diffusion Models](cards-0012.md#paper-155695) | 将密集 3D 追踪监督写成条件视频生成。 |
+| 计算机视觉 | 三维视觉 | [TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking](cards-0012.md#paper-155634) | 使用视频扩散前先测其在大位移和长视频早期追踪表征。 |
+| 计算机视觉 | 自监督学习 | [TrackFish3D: Self-Supervised 3D Tracking of Schooling Fish from Multi-view Videos](cards-0012.md#paper-152726) | 多视角密集同类跟踪用同帧个体作对比负例。 |
+| 计算机视觉 | 视频建模 | [TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens](cards-0012.md#paper-150674) | 视频压缩 token 对应持久对象，减少重复背景。 |
+| 计算机视觉 | 表征学习 | [TrAction: Action Recognition with Sparse Trajectories](cards-0012.md#paper-154691) | 有动作差别但外观相同的任务加入稀疏轨迹。 |
+| 具身智能与机器人 | 表征学习 | [Trading Sensing for Structure: Sparse IMU-EMG Fingertip Force Estimation via Neuro-inspired Structured Modeling](cards-0012.md#paper-155761) | 稀疏力感知增加结构模型以替代部分传感密度。 |
+| 深度学习 | 评测与诊断 | [Traffic STGNNs across Sensor, City, and Time Shifts: Routing Concentration Tracks Sensitivity to Sensor Dropout](cards-0012.md#paper-139842) | 图时序传感掉线按路由集中度验。 |
+| 模型效率与系统 | 注意力机制 | [Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](cards-0012.md#paper-154615) | 视频扩散稀疏注意训练混合固定预算和质量阈。 |
+| 计算机视觉 | 损失函数 | [Trainable Topology Supervision under Structurally Unreliable Pseudo Supervision](cards-0012.md#paper-150633) | 不可信伪掩码的拓扑监督只在证据可靠时注入。 |
+| 大语言模型 | 采样与数据选择 | [Train at the Moving Edge: Rollout-Efficient RL for Large Reasoning Models](cards-0012.md#paper-149668) | rollout 预算放在当前中等难度且高熵题。 |
+| 大语言模型 | 强化学习方法 | [Training Agent to Scale Inference-Time Reasoning](cards-0012.md#paper-154824) | 提高候选池的选择质量需以整组候选为监督。 |
+| 机器学习基础与统计 | 训练策略 | [Training a Predictive Coding Network on ImageNet using Equilibrium Propagation](cards-0012.md#paper-155056) | 预测编码网络验证规模限制时改进平衡过程。 |
+| 大语言模型 | 评测与诊断 | [Training-Based Backdoors Are Not Cryptographic](cards-0012.md#paper-152100) | 后门防护的安全假设需检验能否用观察发现，而非假定具加密不对称。 |
+| 计算机视觉 | 评测与诊断 | [Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew](cards-0012.md#paper-153796) | 比较扩散模型的训练归因时两模型共享噪声采样。 |
+| 大语言模型 | 评测与诊断 | [Training Deliberative Monitors for Black-Box Scheming Detection](cards-0012.md#paper-155047) | 黑盒轨迹监控可用训练后的低成本独立模型。 |
+| 大语言模型 | 优化 | [Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models](cards-0012.md#paper-149653) | 训练迭代做平均时直接针对最终返回平均模型优化。 |
+| 计算机视觉 | 推理策略 | [Training-Free 3D Editing via Feature-Divergence Localization and Trajectory Correction](cards-0012.md#paper-155326) | 扩散三维编辑分早期结构变更与后期保真阶段。 |
+| 计算机视觉 | 推理策略 | [Training-Free Active Test-Time Adaptation for Vision-Language Models](cards-0012.md#paper-153883) | 有限人工测试标签用来更新后续样本决策。 |
+| 大语言模型 | 推理策略 | [Training-Free Cultural Alignment of Large Language Models via Persona Disagreement](cards-0012.md#paper-151840) | 以不同角色意见分歧定位文化偏向并调整输出。 |
+| 多模态学习 | 推理策略 | [Training-free Focus-Ambient Retention for Memory-Efficient Video Large Language Models](cards-0012.md#paper-154583) | 视频缓存分开保留动作细节和发生变化的环境背景。 |
+| 机器学习基础与统计 | 推理策略 | [Training-Free Generative Sampling via Moment-Matched Score Smoothing](cards-0012.md#paper-149104) | 已知目标矩时让粒子采样全程遵循矩约束。 |
+| 计算机视觉 | 表征学习 | [Training-Free Open World Object Detection](cards-0012.md#paper-153266) | 开放目标检测先融合类别外观和属性聚类统计。 |
+| 大语言模型 | 表征学习 | [Training-Free Task Vectors for LLM Behavioral Control](cards-0012.md#paper-154724) | 用前向统计将激活方向转成低秩权重编辑。 |
+| 强化学习 | 强化学习方法 | [Training Generalizable Collaborative Agents via Strategic Risk Aversion](cards-0012.md#paper-151685) | 训练协作代理时对伙伴可能偏离预期的行为建模。 |
+| 大语言模型 | 评测与诊断 | [Training Language Models to Explain Their Own Computations](cards-0012.md#paper-152967) | 模型的自然语言解释应由已测内部机制作为监督。 |
+| 大语言模型 | 训练与优化 | [Training Language Models via Neural Cellular Automata](cards-0012.md#paper-155671) | 以合成预训练时按目标域选择生成动力学 |
+| 大语言模型 | 训练与优化 | [Training Optimal Large Diffusion Language Models](cards-0012.md#paper-152102) | 扩散语言模型训练分别验收早期速度与终点 |
+| 大语言模型 | 效率与系统 | [Training Transformers for KV-Cache Compressibility](cards-0012.md#paper-150358) | 训练时引入未来部署使用的 KV 压缩约束 |
+| 智能体 | 训练与优化 | [Training with Harnesses: On-Policy Harness Self-Distillation for Complex Reasoning](cards-0012.md#paper-149380) | 复杂推理工具框架可只作为训练教师 |
+| 机器学习基础与统计 | 评测与诊断 | [Trajectory-Consistent Dropout for Uncertainty Decomposition in Hamiltonian Neural Networks](cards-0012.md#paper-152046) | 多步动力学不确定性估计在每条轨迹固定模型抽样 |
+| 视觉与多模态 | 训练与优化 | [Trajectory-Matching Meta Pseudo-Labeling for Semi-Supervised Learning](cards-0012.md#paper-148661) | 半监督伪标签教师用轨迹方向匹配降低元梯度开销 |
+| 强化学习与决策 | 强化学习与奖励 | [TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment](cards-0012.md#paper-151355) | 轨迹信用先判步骤对成功是否必要 |
+| 深度学习 | 时序建模 | [TrajLift: Encoding Verbal Memory Dynamics via Heat Diffusion on Semantic Hierarchies](cards-0012.md#paper-154461) | 层级事件轨迹分别编码结构距离与发生时间。 |
+| 生成模型 | 视频建模 | [TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control](cards-0012.md#paper-154385) | 多对象生成将注意分配和目标轨迹绑定。 |
+| 智能体与工具使用 | 记忆机制 | [TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents](cards-0012.md#paper-155885) | 对话长期记忆编译成可追溯 wiki。 |
+| 多模态学习 | 结构化生成 | [Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training](cards-0012.md#paper-155049) | 结构转录先用规范形消除等价多解。 |
+| 大语言模型 | 可解释性 | [Transcoder Adapters for Reasoning-Model Diffing](cards-0012.md#paper-155046) | 解释微调变化时拟合计算差分而非整个 MLP。 |
+| 深度学习 | 图学习 | [Transductive Generalization for GNNs via Optimal Transport](cards-0012.md#paper-149773) | 传导图分类正则化类内集中和类间分离。 |
+| 大语言模型 | 强化学习 | [Transferability for General Reasoning: An Automated Curriculum for Multi-Domain LLM RL](cards-0012.md#paper-153605) | 多领域 RL 课程按对其他领域的更新帮助选。 |
+| 深度学习 | 优化算法 | [Transferable SCF-Acceleration through Solver-Aligned Initialization Learning](cards-0012.md#paper-151820) | 学习求解初始化以真实迭代及隐藏成本为目标。 |
+| 深度学习 | 图学习 | [Transferable, Time-Parallel Graph Dynamics via Space-Time Factorization](cards-0012.md#paper-149253) | 跨图动力学分离共享时间算子和无图专属参数的空间混合。 |
+| 多模态学习 | 可解释性 | [Transfer Entropy as a Measure of Information Flow in VLMs and LLMs](cards-0012.md#paper-151650) | Transformer 剪枝诊断可按有向信息流分层。 |
+| 机器学习理论 | 表征学习 | [Transfer Learning of Linear Regression with Multiple Pretrained Models: Benefiting from More Pretrained Models via Overparameterization Debiasing](cards-0012.md#paper-149647) | 使用更多线性前训练器前校正过参数偏差。 |
+| 深度学习 | 数据增强 | [Transfer Learning Through Conditional Quantile Matching](cards-0012.md#paper-152993) | 跨域回归先做条件分位对应。 |
+| 计算机视觉 | 模型合并 | [Transferring Visual Explainability from Self-Explaining to Prediction-Only Vision Transformers via Task Arithmetic](cards-0012.md#paper-153562) | 将视觉解释能力作为可传递权重方向。 |
+| 大语言模型 | 评测与诊断 | [Transformers Can Learn Multiclass Classification In-Context: Isotropy Governs Generalization](cards-0012.md#paper-150527) | 演示分类要检查类别中心各向同性及类别频率。 |
+| 大语言模型 | 可解释性 | [Transformers Converge to Invariant Algorithmic Cores](cards-0012.md#paper-151845) | 不同训练时对齐不变功能子空间。 |
+| 大语言模型 | 搜索与规划 | [Transformers in the Dark: Navigating Unknown Search Spaces via Bandit Feedback](cards-0012.md#paper-156799) | 未知树搜索分离模型表达与学会探索。 |
+| 大语言模型 | 可解释性 | [Transformers Linearly Represent Highly Structured World Models](cards-0012.md#paper-155096) | 组合推理解释检查受约束代数的状态结构。 |
+| 强化学习 | 注意力机制 | [Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement](cards-0012.md#paper-154590) | 上下文策略改进测试能否实施经典更新。 |
+| 大语言模型 | 搜索与规划 | [Transformers Provably Learn Graph Search: Training Dynamics and the Exponential Power of Depth](cards-0012.md#paper-155595) | 图路径推理通过示范分布训练可外推 DFS。 |
+| 生成模型 | 视频建模 | [Transforming Image Editors into Video Editors](cards-0012.md#paper-149320) | 视频编辑复用图像编辑器生成稳定关键帧。 |
+| 大语言模型 | 强化学习方法 | [Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning](cards-0012.md#paper-154776) | 工具使用按状态变化分配信用，避免继承相同的终局分数。 |
+| 大语言模型 | 推理策略 | [TransMem: Transition-Aware Retrieval for Evolving Personal Memory](cards-0012.md#paper-149447) | 用显式变化记录保存用户偏好更新，同事实分开检索。 |
+| 科学机器学习 | 模型架构 | [Transolver-GMsFEM: A Hybrid Framework for High-Contrast Multiscale PDEs on Irregular Grids](cards-0012.md#paper-155288) | 用神经模型预测耗时的多尺度基函数，并保留数值组装。 |
+| 机器学习基础与统计 | 表征学习 | [Transporting Quantiles to Codebook: Scalable Vector Quantization without Codebook Collapse](cards-0012.md#paper-151282) | 从均匀分位覆盖出发，把码字通过可学习概率流放入潜空间。 |
+| 机器学习基础与统计 | 理论与统计 | [Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals](cards-0012.md#paper-153288) | 反事实生成要明示是否保持外生变量相互独立。 |
+| 图学习 | 评测与诊断 | [Trapping Attacker in Dilemma: Examining Internal Correlations and External Influences of Trigger for Defending GNN Backdoors](cards-0012.md#paper-155149) | 图模型防护应联合检查局部结构异常与影响，并同时监控干净准确度。 |
+| 图学习 | 表征学习 | [Traversal-Invariant Positional Encoding for Serialized Graphs](cards-0012.md#paper-150855) | 图序列化时给同一结构的不同遍历保持一致的位置编码。 |
+| 机器学习基础与统计 | 表征学习 | [TraXion: Rethinking Pre-training Frameworks for Mobility and Beyond](cards-0012.md#paper-152716) | 多主体时空日志采用符合事件结构的预训练目标。 |
+| 大语言模型 | 强化学习方法 | [Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning](cards-0012.md#paper-150271) | 将表面偏置线索与正确结论之间的关系在训练数据中去相关。 |
+| 机器学习基础与统计 | 训练策略 | [Treating Hyperparameters as Interventions: Task-Invariant Representation Learning for Transferable HPO](cards-0012.md#paper-155538) | 学习用于调参迁移的任务表示，让其不随已执行超参数改变。 |
+| 大语言模型 | 数据策略 | [TReDS: Trajectory-Grounded Requirement-Capability Modeling for Training Distribution Shaping in Tool-Interactive Tasks](cards-0012.md#paper-155240) | 代理课程按轨迹揭示的能力缺口分配任务概率。 |
+| 机器学习基础与统计 | 优化 | [Tree-Ensemble Repair through Constrained Optimization](cards-0012.md#paper-153244) | 发现反例后将树模型修复写成满足约束的优化。 |
+| 大语言模型 | 推理策略 | [TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding](cards-0012.md#paper-151038) | 推测解码中由便宜模型扩树、强模型重排关键候选。 |
+| 计算机视觉 | 数据策略 | [TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision](cards-0012.md#paper-148753) | 混图预先控制区域面积，使同一合成提供概率或顺序监督。 |
+| 机器学习基础与统计 | 评测与诊断 | [TreePII: Efficient Computation of Higher-Order Probabilistic Interaction Indices in Tree Ensembles](cards-0012.md#paper-153976) | 树集成解释用结构化求积计算高阶概率交互。 |
+| 大语言模型 | 模型架构 | [Tree Rotary Positional Encoding for Extreme Length Extrapolation from Scratch](cards-0012.md#paper-155984) | 从头训练的长度外推用多尺度树位置替代单全局索引。 |
+| 大语言模型 | 效率与系统 | [Tree Training: Efficient LLM Training on Tree-Structured Trajectories](cards-0012.md#paper-153291) | 同提示多轨迹训练复用共享前缀 |
+| 视觉与多模态 | 评测与诊断 | [TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models](cards-0012.md#paper-139448) | 全模态问答验收需要三路才能消歧 |
+| 智能体 | 评测与诊断 | [TRIAGE: Evaluating Prospective Metacognitive Control in LLMs under Resource Constraints](cards-0012.md#paper-139419) | 预算内任务规划在执行反馈前验收 |
+| 大语言模型 | 效率与系统 | [TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks](cards-0012.md#paper-156097) | Agent KV 量化按时序、模态和角色分配精度 |
+| 智能体 | 记忆与检索 | [TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG](cards-0012.md#paper-155841) | RAG 引用证书按检索选择后的分布校准 |
+| 具身智能与机器人 | 效率与系统 | [Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA](cards-0012.md#paper-148902) | 用快速动作支路的不确定性触发慢推理 |
+| 具身智能与机器人 | 评测与诊断 | [Trimming the Long-Tail of Visual World Modeling Evaluation](cards-0012.md#paper-139435) | 世界模型按常见与长尾物理交互分层验收 |

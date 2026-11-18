@@ -1471,5 +1471,15 @@ Decoding, test-time adaptation, and efficient execution.
 - [Towards Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs](../../conferences/neurips-2026/cards-0012.md#paper-152933)
 - [Towards more general control of diffusion models using Jeffrey Guidance](../../conferences/neurips-2026/cards-0012.md#paper-149382)
 - [Towards Principled Efficient Rollout Allocation in Test-Time Training](../../conferences/neurips-2026/cards-0012.md#paper-152071)
+- [Training-Free 3D Editing via Feature-Divergence Localization and Trajectory Correction](../../conferences/neurips-2026/cards-0012.md#paper-155326)
+- [Training-Free Active Test-Time Adaptation for Vision-Language Models](../../conferences/neurips-2026/cards-0012.md#paper-153883)
+- [Training-Free Cultural Alignment of Large Language Models via Persona Disagreement](../../conferences/neurips-2026/cards-0012.md#paper-151840)
+- [Training-free Focus-Ambient Retention for Memory-Efficient Video Large Language Models](../../conferences/neurips-2026/cards-0012.md#paper-154583)
+- [Training-Free Generative Sampling via Moment-Matched Score Smoothing](../../conferences/neurips-2026/cards-0012.md#paper-149104)
+- [Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training](../../conferences/neurips-2026/cards-0012.md#paper-155049)
+- [Transformers in the Dark: Navigating Unknown Search Spaces via Bandit Feedback](../../conferences/neurips-2026/cards-0012.md#paper-156799)
+- [Transformers Provably Learn Graph Search: Training Dynamics and the Exponential Power of Depth](../../conferences/neurips-2026/cards-0012.md#paper-155595)
+- [TransMem: Transition-Aware Retrieval for Evolving Personal Memory](../../conferences/neurips-2026/cards-0012.md#paper-149447)
+- [TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding](../../conferences/neurips-2026/cards-0012.md#paper-151038)
 
 <!-- conference-classification:end -->

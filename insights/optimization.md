@@ -795,5 +795,8 @@
 - [Topological Invariance and Breakdown in Learning Dynamics](../conferences/neurips-2026/cards-0012.md#paper-153082)
 - [Towards Hyperparameter Transfer for Differentially Private Optimization](../conferences/neurips-2026/cards-0012.md#paper-149609)
 - [Towards Principled Fine-Grained MoE Expert Pruning via Pseudo-Boolean Approximation](../conferences/neurips-2026/cards-0012.md#paper-155677)
+- [Training for the Model You Return: Improving Optimization for Iterate-Averaged Language Models](../conferences/neurips-2026/cards-0012.md#paper-149653)
+- [Transferable SCF-Acceleration through Solver-Aligned Initialization Learning](../conferences/neurips-2026/cards-0012.md#paper-151820)
+- [Tree-Ensemble Repair through Constrained Optimization](../conferences/neurips-2026/cards-0012.md#paper-153244)
 
 <!-- conference-classification:end -->

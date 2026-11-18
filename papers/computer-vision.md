@@ -1180,5 +1180,18 @@
 - [Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling](../conferences/neurips-2026/cards-0012.md#paper-152419)
 - [Towards more general control of diffusion models using Jeffrey Guidance](../conferences/neurips-2026/cards-0012.md#paper-149382)
 - [Towards Reconstructing Geographically Diverse Architecture with 3D Foundation Models](../conferences/neurips-2026/cards-0012.md#paper-149360)
+- [TRACE: Trajectory-Aware Conceps for Explainable Video Understanding](../conferences/neurips-2026/cards-0012.md#paper-155184)
+- [Track4D: Representing Dense 3D Tracking for Video Diffusion Models](../conferences/neurips-2026/cards-0012.md#paper-155695)
+- [TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking](../conferences/neurips-2026/cards-0012.md#paper-155634)
+- [TrackFish3D: Self-Supervised 3D Tracking of Schooling Fish from Multi-view Videos](../conferences/neurips-2026/cards-0012.md#paper-152726)
+- [TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens](../conferences/neurips-2026/cards-0012.md#paper-150674)
+- [TrAction: Action Recognition with Sparse Trajectories](../conferences/neurips-2026/cards-0012.md#paper-154691)
+- [Trainable Topology Supervision under Structurally Unreliable Pseudo Supervision](../conferences/neurips-2026/cards-0012.md#paper-150633)
+- [Training Data Attribution in Diffusion Models via Mirrored Unlearning and Noise-Consistent Skew](../conferences/neurips-2026/cards-0012.md#paper-153796)
+- [Training-Free 3D Editing via Feature-Divergence Localization and Trajectory Correction](../conferences/neurips-2026/cards-0012.md#paper-155326)
+- [Training-Free Active Test-Time Adaptation for Vision-Language Models](../conferences/neurips-2026/cards-0012.md#paper-153883)
+- [Training-Free Open World Object Detection](../conferences/neurips-2026/cards-0012.md#paper-153266)
+- [Transferring Visual Explainability from Self-Explaining to Prediction-Only Vision Transformers via Task Arithmetic](../conferences/neurips-2026/cards-0012.md#paper-153562)
+- [TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision](../conferences/neurips-2026/cards-0012.md#paper-148753)
 
 <!-- conference-classification:end -->

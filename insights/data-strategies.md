@@ -414,5 +414,9 @@
 - [Towards Optimal Pre-training Data Mixtures for Empowering Reinforcement Learning in LLMs](../conferences/neurips-2026/cards-0012.md#paper-152676)
 - [Towards Scalable Data Diversification for Language Model Pretraining via Leverage Score Sampling](../conferences/neurips-2026/cards-0012.md#paper-150922)
 - [Towards Scalable Egocentric HOI for Humanoids: Benchmarking Whole-Body Dexterous Interaction with Tactile Prediction](../conferences/neurips-2026/cards-0012.md#paper-156087)
+- [Train at the Moving Edge: Rollout-Efficient RL for Large Reasoning Models](../conferences/neurips-2026/cards-0012.md#paper-149668)
+- [Transfer Learning Through Conditional Quantile Matching](../conferences/neurips-2026/cards-0012.md#paper-152993)
+- [TReDS: Trajectory-Grounded Requirement-Capability Modeling for Training Distribution Shaping in Tool-Interactive Tasks](../conferences/neurips-2026/cards-0012.md#paper-155240)
+- [TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision](../conferences/neurips-2026/cards-0012.md#paper-148753)
 
 <!-- conference-classification:end -->

@@ -723,5 +723,8 @@ Learning from interaction, feedback, and offline experience.
 - [Towards Convergence of PPO: An Approximate Descent Approach](../../conferences/neurips-2026/cards-0012.md#paper-155526)
 - [Towards instance-dependent regret optimality in Episodic MDPs with Posterior Sampling](../../conferences/neurips-2026/cards-0012.md#paper-153285)
 - [Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-154067)
+- [Training Generalizable Collaborative Agents via Strategic Risk Aversion](../../conferences/neurips-2026/cards-0012.md#paper-151685)
+- [TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment](../../conferences/neurips-2026/cards-0012.md#paper-151355)
+- [Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement](../../conferences/neurips-2026/cards-0012.md#paper-154590)
 
 <!-- conference-classification:end -->

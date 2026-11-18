@@ -989,5 +989,13 @@
 - [Towards Understanding Momentum Acceleration in River-Valley Loss Landscape](../conferences/neurips-2026/cards-0012.md#paper-152627)
 - [Towards Understanding Self-Pretraining for Sequence Classification](../conferences/neurips-2026/cards-0012.md#paper-151883)
 - [Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective](../conferences/neurips-2026/cards-0012.md#paper-155813)
+- [TrackFish3D: Self-Supervised 3D Tracking of Schooling Fish from Multi-view Videos](../conferences/neurips-2026/cards-0012.md#paper-152726)
+- [Training a Predictive Coding Network on ImageNet using Equilibrium Propagation](../conferences/neurips-2026/cards-0012.md#paper-155056)
+- [Training Language Models via Neural Cellular Automata](../conferences/neurips-2026/cards-0012.md#paper-155671)
+- [Training Optimal Large Diffusion Language Models](../conferences/neurips-2026/cards-0012.md#paper-152102)
+- [Training with Harnesses: On-Policy Harness Self-Distillation for Complex Reasoning](../conferences/neurips-2026/cards-0012.md#paper-149380)
+- [Trajectory-Matching Meta Pseudo-Labeling for Semi-Supervised Learning](../conferences/neurips-2026/cards-0012.md#paper-148661)
+- [Transferring Visual Explainability from Self-Explaining to Prediction-Only Vision Transformers via Task Arithmetic](../conferences/neurips-2026/cards-0012.md#paper-153562)
+- [Treating Hyperparameters as Interventions: Task-Invariant Representation Learning for Transferable HPO](../conferences/neurips-2026/cards-0012.md#paper-155538)
 
 <!-- conference-classification:end -->

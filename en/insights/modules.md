@@ -472,5 +472,9 @@ Reusable components and local changes to model inputs or connections.
 - [The risk of KV cache compression](../../conferences/neurips-2026/cards-0012.md#paper-153754)
 - [The Scaling Laws of Skills in LLM Agent Systems](../../conferences/neurips-2026/cards-0012.md#paper-150189)
 - [The Value of Being Wrong: Self-Mined Visual In-Context Learning from Errors](../../conferences/neurips-2026/cards-0012.md#paper-151028)
+- [Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning](../../conferences/neurips-2026/cards-0012.md#paper-154615)
+- [TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents](../../conferences/neurips-2026/cards-0012.md#paper-155885)
+- [Transformers Provably Implement In-Context Reinforcement Learning with Policy Improvement](../../conferences/neurips-2026/cards-0012.md#paper-154590)
+- [TRIDENT: Post-Selection Evidence Accountability for Token-Efficient RAG](../../conferences/neurips-2026/cards-0012.md#paper-155841)
 
 <!-- conference-classification:end -->

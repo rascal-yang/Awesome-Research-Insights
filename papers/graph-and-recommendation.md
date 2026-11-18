@@ -347,5 +347,7 @@
 - [Stable Partial Order Constraints for Temporal Causal Structure Learning](../conferences/neurips-2026/cards-0011.md#paper-148586)
 - [Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation](../conferences/neurips-2026/cards-0011.md#paper-149801)
 - [Test-Time Graph Anomaly Detection via Shifted Augmentation with Dynamic Objective Scheduling](../conferences/neurips-2026/cards-0011.md#paper-153400)
+- [Trapping Attacker in Dilemma: Examining Internal Correlations and External Influences of Trigger for Defending GNN Backdoors](../conferences/neurips-2026/cards-0012.md#paper-155149)
+- [Traversal-Invariant Positional Encoding for Serialized Graphs](../conferences/neurips-2026/cards-0012.md#paper-150855)
 
 <!-- conference-classification:end -->

@@ -1264,5 +1264,18 @@
 - [Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and Mitigation](../../conferences/neurips-2026/cards-0012.md#paper-152666)
 - [Towards Generalist Graph-Level Anomaly Detection](../../conferences/neurips-2026/cards-0012.md#paper-155195)
 - [TPRL: Adaptive Visual Token Pruning in LVLMs via Language-Guided Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-153958)
+- [TracingFlow: A Simulation-Free Trajectory Inference Framework Based on Second-Order Dynamics](../../conferences/neurips-2026/cards-0012.md#paper-152002)
+- [Track4D: Representing Dense 3D Tracking for Video Diffusion Models](../../conferences/neurips-2026/cards-0012.md#paper-155695)
+- [TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking](../../conferences/neurips-2026/cards-0012.md#paper-155634)
+- [TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens](../../conferences/neurips-2026/cards-0012.md#paper-150674)
+- [Training Transformers for KV-Cache Compressibility](../../conferences/neurips-2026/cards-0012.md#paper-150358)
+- [TrajLift: Encoding Verbal Memory Dynamics via Heat Diffusion on Semantic Hierarchies](../../conferences/neurips-2026/cards-0012.md#paper-154461)
+- [TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control](../../conferences/neurips-2026/cards-0012.md#paper-154385)
+- [Transductive Generalization for GNNs via Optimal Transport](../../conferences/neurips-2026/cards-0012.md#paper-149773)
+- [Transferable, Time-Parallel Graph Dynamics via Space-Time Factorization](../../conferences/neurips-2026/cards-0012.md#paper-149253)
+- [Transforming Image Editors into Video Editors](../../conferences/neurips-2026/cards-0012.md#paper-149320)
+- [Tree Training: Efficient LLM Training on Tree-Structured Trajectories](../../conferences/neurips-2026/cards-0012.md#paper-153291)
+- [TriAxialKV: Toward Extreme Low-Precision KV-Cache Quantization for Agentic Inference Tasks](../../conferences/neurips-2026/cards-0012.md#paper-156097)
+- [Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA](../../conferences/neurips-2026/cards-0012.md#paper-148902)
 
 <!-- conference-classification:end -->

@@ -893,5 +893,8 @@ Robot perception, policy learning, planning, and control.
 - [ToS: Tree-of-Skill Reinforcement Learning driven by Behavior Tree for Long-Horizon Manipulation](../../conferences/neurips-2026/cards-0012.md#paper-151185)
 - [Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation](../../conferences/neurips-2026/cards-0012.md#paper-152397)
 - [Towards Scalable Egocentric HOI for Humanoids: Benchmarking Whole-Body Dexterous Interaction with Tactile Prediction](../../conferences/neurips-2026/cards-0012.md#paper-156087)
+- [Trading Sensing for Structure: Sparse IMU-EMG Fingertip Force Estimation via Neuro-inspired Structured Modeling](../../conferences/neurips-2026/cards-0012.md#paper-155761)
+- [Triggering Generalist Reasoning via Predictive Uncertainty for Dual-System VLA](../../conferences/neurips-2026/cards-0012.md#paper-148902)
+- [Trimming the Long-Tail of Visual World Modeling Evaluation](../../conferences/neurips-2026/cards-0012.md#paper-139435)
 
 <!-- conference-classification:end -->

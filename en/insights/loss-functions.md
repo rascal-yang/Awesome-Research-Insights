@@ -404,5 +404,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Taming the Tails: Why Distributionally Robust Optimization Needs New Theory for Imbalanced Regression](../../conferences/neurips-2026/cards-0011.md#paper-152555)
 - [The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation](../../conferences/neurips-2026/cards-0011.md#paper-153386)
 - [TILT: Target-induced loss tilting under covariate shift](../../conferences/neurips-2026/cards-0012.md#paper-155899)
+- [Trainable Topology Supervision under Structurally Unreliable Pseudo Supervision](../../conferences/neurips-2026/cards-0012.md#paper-150633)
 
 <!-- conference-classification:end -->

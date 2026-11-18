@@ -613,5 +613,7 @@ Model-wide design and information flow.
 - [Tokenization and Architecture Jointly Allocate Component Roles in Time Series Transformers](../../conferences/neurips-2026/cards-0012.md#paper-154486)
 - [TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting](../../conferences/neurips-2026/cards-0012.md#paper-150449)
 - [Towards Complementary Keypoint Detection via Mixture of Detectors](../../conferences/neurips-2026/cards-0012.md#paper-154279)
+- [Transolver-GMsFEM: A Hybrid Framework for High-Contrast Multiscale PDEs on Irregular Grids](../../conferences/neurips-2026/cards-0012.md#paper-155288)
+- [Tree Rotary Positional Encoding for Extreme Length Extrapolation from Scratch](../../conferences/neurips-2026/cards-0012.md#paper-155984)
 
 <!-- conference-classification:end -->
