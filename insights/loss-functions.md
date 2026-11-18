@@ -123,6 +123,7 @@
 - [连输入路径一起混合以降低flow目标方差](../conferences/icml-2026/cards/5401-5500.md#yang26dq-loss-functions) · Stable Velocity: A Variance Perspective on Flow Matching
 - [频带能量路由与更新谱正则](../conferences/icml-2026/cards/5501-5600.md#yin26c-loss-functions) · FeRA: Frequency-Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning
 - [成对posterior进度匹配的TD辅助目标](../conferences/icml-2026/cards/5501-5600.md#ying26a-loss-functions) · Temporal Difference Learning for Diffusion Models
+- [以原型拥挤度修正无监督映射排名间隔](../conferences/icml-2026/cards/5501-5600.md#yu26p-loss-functions) · Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models
 
 <a id="by-nlp"></a>
 

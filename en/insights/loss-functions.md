@@ -123,6 +123,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Stable Velocity: A Variance Perspective on Flow Matching](../../conferences/icml-2026/cards/5401-5500.md#yang26dq-loss-functions) · 中文
 - [FeRA: Frequency-Energy Constrained Routing for Effective Diffusion Adaptation Fine-Tuning](../../conferences/icml-2026/cards/5501-5600.md#yin26c-loss-functions) · 中文
 - [Temporal Difference Learning for Diffusion Models](../../conferences/icml-2026/cards/5501-5600.md#ying26a-loss-functions) · 中文
+- [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](../../conferences/icml-2026/cards/5501-5600.md#yu26p-loss-functions) · 中文
 
 <a id="by-nlp"></a>
 

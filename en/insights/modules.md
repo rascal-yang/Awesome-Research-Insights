@@ -247,6 +247,7 @@ Reusable components and local changes to model inputs or connections.
 - [Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics](../../conferences/icml-2026/cards/5101-5200.md#xie26h-modules) · 中文
 - [Quaternion Self-Attention with Shared Scores](../../conferences/icml-2026/cards/5301-5400.md#yamauchi26a-modules) · 中文
 - [Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model](../../conferences/icml-2026/cards/5501-5600.md#ye26k-modules) · 中文
+- [Latent Laplace Diffusion for Irregular Multivariate Time Series](../../conferences/icml-2026/cards/5501-5600.md#you26f-modules) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

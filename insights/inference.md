@@ -493,6 +493,7 @@
 - [固定高频只进化初始噪声低频](../conferences/icml-2026/cards/5501-5600.md#ye26c-inference) · Spectral Evolution Search: Efficient Inference-Time Scaling for Reward-Aligned Image Generation
 - [深sink与时间RoPE重排的长视频缓存](../conferences/icml-2026/cards/5501-5600.md#yi26c-inference) · Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression
 - [多局部原型与逐点残差漂移跟踪](../conferences/icml-2026/cards/5501-5600.md#yi26e-inference) · Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning
+- [首步深层变化定位跨轮缓存区域](../conferences/icml-2026/cards/5501-5600.md#yu26e-inference) · CacheEdit: Efficient Multi-round Image Editing via Adaptive Token-wise Reuse.
 
 <a id="by-nlp"></a>
 
@@ -532,6 +533,7 @@
 - [discrete-curvature-joint-search](../conferences/icml-2026/cards/4301-4400.md#tang26ae-inference) · NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search
 - [implicit-rerooted-subtasks](../conferences/icml-2026/cards/4501-4600.md#tuero26a-inference) · Structure-Induced Information for Rerooting Levin Tree Search
 - [按状态到达概率组合预训练GFlowNet](../conferences/icml-2026/cards/5501-5600.md#yoon26a-inference) · Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation
+- [按奖励梯度冲突混合近似与学习引导](../conferences/icml-2026/cards/5501-5600.md#yu26a-inference) · Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards
 
 <a id="by-robotics"></a>
 
@@ -693,6 +695,7 @@
 - [对冲突路径logit方向做枢轴门控投影移除](../conferences/icml-2026/cards/5501-5600.md#ye26n-inference) · REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment
 - [任务与时长驱动的视觉预算路由](../conferences/icml-2026/cards/5501-5600.md#yin26e-inference) · Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding
 - [仅扰动padding条件槽控制生成多样性](../conferences/icml-2026/cards/5501-5600.md#yoo26a-inference) · PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation
+- [高风险头的有限精度压平与双路径融合](../conferences/icml-2026/cards/5501-5600.md#yu26c-inference) · Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding
 
 <a id="by-ml-foundations"></a>
 

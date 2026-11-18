@@ -235,6 +235,7 @@ Model-wide design and information flow.
 - [SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding](../../conferences/icml-2026/cards/3701-3800.md#qiu26g-architecture) · 中文
 - [LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer](../../conferences/icml-2026/cards/4001-4100.md#shen26w-architecture) · 中文
 - [Visual Para-Thinker: Divide-and-Conquer Reasoning for Visual Comprehension](../../conferences/icml-2026/cards/5201-5300.md#xu26bh-architecture) · 中文
+- [Deep Pre-Alignment for VLMs](../../conferences/icml-2026/cards/5501-5600.md#yu26j-architecture) · 中文
 
 <a id="by-ml-foundations"></a>
 

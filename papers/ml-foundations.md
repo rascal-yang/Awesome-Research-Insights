@@ -144,6 +144,7 @@
 - <a id="xie26h-modules"></a>[Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics](../conferences/icml-2026/cards/5101-5200.md#paper-xie26h)
 - <a id="yamauchi26a-modules"></a>[Quaternion Self-Attention with Shared Scores](../conferences/icml-2026/cards/5301-5400.md#paper-yamauchi26a)
 - <a id="ye26k-modules"></a>[Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model](../conferences/icml-2026/cards/5501-5600.md#paper-ye26k)
+- <a id="you26f-modules"></a>[Latent Laplace Diffusion for Irregular Multivariate Time Series](../conferences/icml-2026/cards/5501-5600.md#paper-you26f)
 
 <a id="by-loss-functions"></a>
 
@@ -1244,4 +1245,5 @@
 - <a id="yarmoshik26a-theory-statistics"></a>[Complexity of Decentralized Optimization with Mixed Affine Constraints](../conferences/icml-2026/cards/5501-5600.md#paper-yarmoshik26a)
 - <a id="yarotsky26a-theory-statistics"></a>[Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions](../conferences/icml-2026/cards/5501-5600.md#paper-yarotsky26a)
 - <a id="yin26g-theory-statistics"></a>[Overcoming the Incentive Collapse Paradox](../conferences/icml-2026/cards/5501-5600.md#paper-yin26g)
+- <a id="yu26d-theory-statistics"></a>[Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets](../conferences/icml-2026/cards/5501-5600.md#paper-yu26d)
 <!-- classification:end -->

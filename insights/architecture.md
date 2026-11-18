@@ -235,6 +235,7 @@
 - [以三模态对齐和离线文字重参数化扩展脉冲 3D 模型](../conferences/icml-2026/cards/3701-3800.md#qiu26g-architecture) · SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding
 - [按流匹配时间分配 Transformer 层组](../conferences/icml-2026/cards/4001-4100.md#shen26w-architecture) · LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer
 - [路径隔离与视觉分区的并行推理](../conferences/icml-2026/cards/5201-5300.md#xu26bh-architecture) · Visual Para-Thinker: Divide-and-Conquer Reasoning for Visual Comprehension
+- [以小VLM为感知前端时不只追求其独立分数](../conferences/icml-2026/cards/5501-5600.md#yu26j-architecture) · Deep Pre-Alignment for VLMs
 
 <a id="by-ml-foundations"></a>
 

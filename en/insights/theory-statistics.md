@@ -77,6 +77,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [A Formal Comparison Between Chain of Thought and Latent Thought](../../conferences/icml-2026/cards/5201-5300.md#xu26ar-theory-statistics) · 中文
 - [Efficient Preference Poisoning Attack on Offline RLHF](../../conferences/icml-2026/cards/5401-5500.md#yang26cn-theory-statistics) · 中文
 - [A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention](../../conferences/icml-2026/cards/5501-5600.md#ye26h-theory-statistics) · 中文
+- [On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference](../../conferences/icml-2026/cards/5501-5600.md#yu26h-theory-statistics) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -631,6 +632,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Complexity of Decentralized Optimization with Mixed Affine Constraints](../../conferences/icml-2026/cards/5501-5600.md#yarmoshik26a-theory-statistics) · 中文
 - [Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions](../../conferences/icml-2026/cards/5501-5600.md#yarotsky26a-theory-statistics) · 中文
 - [Overcoming the Incentive Collapse Paradox](../../conferences/icml-2026/cards/5501-5600.md#yin26g-theory-statistics) · 中文
+- [Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets](../../conferences/icml-2026/cards/5501-5600.md#yu26d-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

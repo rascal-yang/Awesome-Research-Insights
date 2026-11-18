@@ -77,6 +77,7 @@
 - [潜在循环的并行深度与随机CoT计数](../conferences/icml-2026/cards/5201-5300.md#xu26ar-theory-statistics) · A Formal Comparison Between Chain of Thought and Latent Thought
 - [固定特征DPO的偏好污染鲁棒性证书](../conferences/icml-2026/cards/5401-5500.md#yang26cn-theory-statistics) · Efficient Preference Poisoning Attack on Offline RLHF
 - [用函数复合任务约束混合注意力选型](../conferences/icml-2026/cards/5501-5600.md#ye26h-theory-statistics) · A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention
+- [只把高奖励生成加入后续上下文](../conferences/icml-2026/cards/5501-5600.md#yu26h-theory-statistics) · On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference
 
 <a id="by-computer-vision"></a>
 
@@ -631,6 +632,7 @@
 - [按约束算子分别预算分布式优化成本](../conferences/icml-2026/cards/5501-5600.md#yarmoshik26a-theory-statistics) · Complexity of Decentralized Optimization with Mixed Affine Constraints
 - [联合宽度与初始化判断CP学习regime](../conferences/icml-2026/cards/5501-5600.md#yarotsky26a-theory-statistics) · Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions
 - [人工复核激励与主动采样联合预算](../conferences/icml-2026/cards/5501-5600.md#yin26g-theory-statistics) · Overcoming the Incentive Collapse Paradox
+- [残差分支按深度缩放并联动早停](../conferences/icml-2026/cards/5501-5600.md#yu26d-theory-statistics) · Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets
 
 <a id="by-graph-and-recommendation"></a>
 

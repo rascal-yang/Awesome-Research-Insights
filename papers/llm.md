@@ -1449,6 +1449,7 @@
 - <a id="yin26b-evaluation"></a>[Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](../conferences/icml-2026/cards/5501-5600.md#paper-yin26b)
 - <a id="yin26h-evaluation"></a>[Evaluating Parameter Efficient Methods for RLVR](../conferences/icml-2026/cards/5501-5600.md#paper-yin26h)
 - <a id="you26c-evaluation"></a>[LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models](../conferences/icml-2026/cards/5501-5600.md#paper-you26c)
+- <a id="yu26b-evaluation"></a>[SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark](../conferences/icml-2026/cards/5501-5600.md#paper-yu26b)
 
 <a id="by-theory-statistics"></a>
 
@@ -1518,4 +1519,5 @@
 - <a id="xu26ar-theory-statistics"></a>[A Formal Comparison Between Chain of Thought and Latent Thought](../conferences/icml-2026/cards/5201-5300.md#paper-xu26ar)
 - <a id="yang26cn-theory-statistics"></a>[Efficient Preference Poisoning Attack on Offline RLHF](../conferences/icml-2026/cards/5401-5500.md#paper-yang26cn)
 - <a id="ye26h-theory-statistics"></a>[A Provable Expressiveness Hierarchy in Hybrid Linear-Full Attention](../conferences/icml-2026/cards/5501-5600.md#paper-ye26h)
+- <a id="yu26h-theory-statistics"></a>[On the Limits of Test-Time Compute: Sequential Reward Filtering for Better Inference](../conferences/icml-2026/cards/5501-5600.md#paper-yu26h)
 <!-- classification:end -->

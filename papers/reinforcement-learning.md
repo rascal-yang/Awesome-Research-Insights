@@ -265,6 +265,7 @@
 - <a id="tang26ae-inference"></a>[NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search](../conferences/icml-2026/cards/4301-4400.md#paper-tang26ae)
 - <a id="tuero26a-inference"></a>[Structure-Induced Information for Rerooting Levin Tree Search](../conferences/icml-2026/cards/4501-4600.md#paper-tuero26a)
 - <a id="yoon26a-inference"></a>[Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../conferences/icml-2026/cards/5501-5600.md#paper-yoon26a)
+- <a id="yu26a-inference"></a>[Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards](../conferences/icml-2026/cards/5501-5600.md#paper-yu26a)
 
 <a id="by-representation-learning"></a>
 

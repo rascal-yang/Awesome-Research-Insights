@@ -41,6 +41,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="qiu26g-architecture"></a>[SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding](../../conferences/icml-2026/cards/3701-3800.md#paper-qiu26g)
 - <a id="shen26w-architecture"></a>[LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer](../../conferences/icml-2026/cards/4001-4100.md#paper-shen26w)
 - <a id="xu26bh-architecture"></a>[Visual Para-Thinker: Divide-and-Conquer Reasoning for Visual Comprehension](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26bh)
+- <a id="yu26j-architecture"></a>[Deep Pre-Alignment for VLMs](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26j)
 
 <a id="by-modules"></a>
 
@@ -418,6 +419,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="ye26n-inference"></a>[REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment](../../conferences/icml-2026/cards/5501-5600.md#paper-ye26n)
 - <a id="yin26e-inference"></a>[Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26e)
 - <a id="yoo26a-inference"></a>[PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation](../../conferences/icml-2026/cards/5501-5600.md#paper-yoo26a)
+- <a id="yu26c-inference"></a>[Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26c)
 
 <a id="by-representation-learning"></a>
 

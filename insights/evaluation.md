@@ -366,6 +366,7 @@
 - [拒绝行为与持续安全表征的分离](../conferences/icml-2026/cards/5501-5600.md#yin26b-evaluation) · Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models
 - [RLVR下PEFT结构与初始化失效边界](../conferences/icml-2026/cards/5501-5600.md#yin26h-evaluation) · Evaluating Parameter Efficient Methods for RLVR
 - [用控制共现频率检验输入证据服从](../conferences/icml-2026/cards/5501-5600.md#you26c-evaluation) · LLMInertia: Adaptive Counter-Inertial Reasoning to Improve Evidence Faithfulness in Large Language Models
+- [用覆盖和语义变异检验通过补丁的可靠性](../conferences/icml-2026/cards/5501-5600.md#yu26b-evaluation) · SWE-ABS: Adversarial Benchmark Strengthening Exposes Inflated Success Rates on Test-based Benchmark
 
 <a id="by-computer-vision"></a>
 

@@ -493,6 +493,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Spectral Evolution Search: Efficient Inference-Time Scaling for Reward-Aligned Image Generation](../../conferences/icml-2026/cards/5501-5600.md#ye26c-inference) · 中文
 - [Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression](../../conferences/icml-2026/cards/5501-5600.md#yi26c-inference) · 中文
 - [Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning](../../conferences/icml-2026/cards/5501-5600.md#yi26e-inference) · 中文
+- [CacheEdit: Efficient Multi-round Image Editing via Adaptive Token-wise Reuse.](../../conferences/icml-2026/cards/5501-5600.md#yu26e-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -532,6 +533,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search](../../conferences/icml-2026/cards/4301-4400.md#tang26ae-inference) · 中文
 - [Structure-Induced Information for Rerooting Levin Tree Search](../../conferences/icml-2026/cards/4501-4600.md#tuero26a-inference) · 中文
 - [Routing by Reaching: Composition of Pre-trained GFlowNets for Multi-Objective Generation](../../conferences/icml-2026/cards/5501-5600.md#yoon26a-inference) · 中文
+- [Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards](../../conferences/icml-2026/cards/5501-5600.md#yu26a-inference) · 中文
 
 <a id="by-robotics"></a>
 
@@ -693,6 +695,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [REAL: Resolving Knowledge Conflicts in Knowledge-Intensive Visual Question Answering via Reasoning-Pivot Alignment](../../conferences/icml-2026/cards/5501-5600.md#ye26n-inference) · 中文
 - [Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding](../../conferences/icml-2026/cards/5501-5600.md#yin26e-inference) · 中文
 - [PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation](../../conferences/icml-2026/cards/5501-5600.md#yoo26a-inference) · 中文
+- [Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../conferences/icml-2026/cards/5501-5600.md#yu26c-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
