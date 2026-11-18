@@ -137,9 +137,9 @@ number	openreview_id	title	paper_url	reason	status
 136	cvPjGuUATQ	Sim-and-Human Co-training for Data-Efficient and Scene-Generalizable Bimanual Manipulation	https://openreview.net/forum?id=cvPjGuUATQ	让仿真提供机器人动作监督，让人类视频提供真实视觉经验	included
 137	84ea2xeP60	COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation	https://openreview.net/forum?id=84ea2xeP60	将场景相关到达与局部物体交互分开生成教学轨迹	included
 138	keuUzk1RSd	BiRoAD: Learning Shared and Role-Adaptive Representations for Bimanual Manipulation	https://openreview.net/forum?id=keuUzk1RSd	将双臂表示分为交换不变的协调部分与随角色交换改变的部分	included
-139	AztNrTzNOf	Foci Policy: Focus on Object-Centric Interactions for Relational Manipulation Policies	https://openreview.net/forum?id=AztNrTzNOf		pending
-140	QLhHHolka7	Learning Object Manipulation from Scratch via Contrastive Interaction	https://openreview.net/forum?id=QLhHHolka7		pending
-141	MQlY5j6pnd	Static In, Dynamic Out: Counterfactual Action Augmentation for Moving Object Manipulation	https://openreview.net/forum?id=MQlY5j6pnd		pending
+139	AztNrTzNOf	Foci Policy: Focus on Object-Centric Interactions for Relational Manipulation Policies	https://openreview.net/forum?id=AztNrTzNOf	只学习关键交互时段内的物体间相对运动	included
+140	QLhHHolka7	Learning Object Manipulation from Scratch via Contrastive Interaction	https://openreview.net/forum?id=QLhHHolka7	在接触改变动力学的前中后阶段重新分配对比样本	included
+141	MQlY5j6pnd	Static In, Dynamic Out: Counterfactual Action Augmentation for Moving Object Manipulation	https://openreview.net/forum?id=MQlY5j6pnd	用静态示范合成指向未来物体位姿的动作块	included
 142	PAX622BSf6	REAP: Learning General Rearrangement Heuristics from Motion-Planner Feedback	https://openreview.net/forum?id=PAX622BSf6		pending
 143	1HqdYVWaXi	ReSiReg: Towards Spatially Consistent Semantics in Language-Conditioned Robotic Tasks	https://openreview.net/forum?id=1HqdYVWaXi		pending
 144	JiMWz6U93i	AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge	https://openreview.net/forum?id=JiMWz6U93i		pending
