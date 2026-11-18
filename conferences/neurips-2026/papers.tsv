@@ -7448,126 +7448,126 @@ poster_id	title	paper_url	status	reason
 150757	Spectral-Sphere-Constrained Hyper-Connections	https://neurips.cc/virtual/2026/poster/150757	excluded	摘要阐述谱约束的理论优势，未报告具体实验规模或稳定性对照。
 154946	Spectral Stratification of Semantic Abstraction in Vision-Language Models	https://neurips.cc/virtual/2026/poster/154946	included	多模态检索按需求选抽象层级的谱秩
 154075	Spectral Transformer Neural Processes	https://neurips.cc/virtual/2026/poster/154075	included	周期场序列把周期特征与时间域特征联合建模
-152699	Spectral Unlearning: Transformer Structure-Preserving Updates for Language Model	https://neurips.cc/virtual/2026/poster/152699	pending	-
-150988	Spectrum-Adaptive Generalization Bounds for Trained Deep Transformers	https://neurips.cc/virtual/2026/poster/150988	pending	-
-150210	Speculative Decoding Is Per-Token, Not Path	https://neurips.cc/virtual/2026/poster/150210	pending	-
-155356	Speculative Self-Distillation enables Efficient Knowledge Internalization	https://neurips.cc/virtual/2026/poster/155356	pending	-
-149645	Speech Tokenizers are Vulnerable:  Transferable Semantic Attack and Robust Tokenizer	https://neurips.cc/virtual/2026/poster/149645	pending	-
-151791	Speeding up Log-Sum-Exp: Kernel Fusion at the Memory Wall, Integer Arithmetic at the Compute Wall	https://neurips.cc/virtual/2026/poster/151791	pending	-
-148614	Speed Predictions for Online Energy-Efficient Scheduling	https://neurips.cc/virtual/2026/poster/148614	pending	-
-151467	Spend Only What You Need: Defect-Aware Residual Coverage for Efficient Multi-Agent Reasoning	https://neurips.cc/virtual/2026/poster/151467	pending	-
-155259	SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction	https://neurips.cc/virtual/2026/poster/155259	pending	-
-153724	SPEXT: A Decoupled Multi-Spectral Foundation Model for Earth Observation and Vision-Language Grounding	https://neurips.cc/virtual/2026/poster/153724	pending	-
-151633	SphereFlow: Missing Modality Imputation via Geometric Transport on Hypersphere	https://neurips.cc/virtual/2026/poster/151633	pending	-
-148342	SPHERE-JEPA: Spherical Prediction with Homogeneous Embeddings	https://neurips.cc/virtual/2026/poster/148342	pending	-
-152043	SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere	https://neurips.cc/virtual/2026/poster/152043	pending	-
-150195	Spherical Bayesian Experimental Design for Active View Selection in 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/150195	pending	-
-148834	Spherical Boltzmann machines: a solvable theory of learning and generation in energy-based models	https://neurips.cc/virtual/2026/poster/148834	pending	-
-148878	Spherical Flows for Sampling Categorical Data	https://neurips.cc/virtual/2026/poster/148878	pending	-
-148719	Spherical Interpolation for Backward-Compatible Multimodal Representations	https://neurips.cc/virtual/2026/poster/148719	pending	-
-155138	SphMind: Towards Robust, Training-Free VLM-based Spatial Reasoning with a 360 Camera	https://neurips.cc/virtual/2026/poster/155138	pending	-
-150740	SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models	https://neurips.cc/virtual/2026/poster/150740	pending	-
-152294	Spikes as Detectors: Phase-Conditioned Spiking Dynamics for Time-Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/152294	pending	-
-155711	Spike-SFT: Selective Parameter Enhancement and Fusion for Efficient Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/155711	pending	-
-153966	SpikeSSL: A Universal Spike Inference Framework with Dynamics-Informed State-Space Layers	https://neurips.cc/virtual/2026/poster/153966	pending	-
-153490	SpikeSTAG: A Dendritic Compartmental Spiking Graph Network for Multivariate Time-Series Forecasting	https://neurips.cc/virtual/2026/poster/153490	pending	-
-148673	Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/148673	pending	-
-150590	SpikingGamma: Temporally Precise Online SNN Training Through Smoothed Temporal Delays	https://neurips.cc/virtual/2026/poster/150590	pending	-
-154218	Spiking neural network initialization for scale-invariant maximization of entropy	https://neurips.cc/virtual/2026/poster/154218	pending	-
-152358	Spik-NeRF v2: Pushing the Limit of Spiking Neural Radiance Fields with $ \pm $I-LIF	https://neurips.cc/virtual/2026/poster/152358	pending	-
-156130	Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks	https://neurips.cc/virtual/2026/poster/156130	pending	-
-154309	SPIRAL: Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents	https://neurips.cc/virtual/2026/poster/154309	pending	-
-155523	SPIRIT: Speed-Driven Online Adaptation for Self-Speculative Decoding	https://neurips.cc/virtual/2026/poster/155523	pending	-
-149531	Splatting the Invisible: Geometry and Appearance Scene Completion from Sparse Views	https://neurips.cc/virtual/2026/poster/149531	pending	-
-155679	SPLICE: Structured Prompt Local Iterative Combinatorial Evolution	https://neurips.cc/virtual/2026/poster/155679	pending	-
-152305	SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants	https://neurips.cc/virtual/2026/poster/152305	pending	-
-151356	Split and Bridge: Multimodal Generation via Diffusion Bridging	https://neurips.cc/virtual/2026/poster/151356	pending	-
-153852	Split-and-scale Latent 3D Representations	https://neurips.cc/virtual/2026/poster/153852	pending	-
-152641	Split-RL: Local Conflict Resolution in Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152641	pending	-
-152147	Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation	https://neurips.cc/virtual/2026/poster/152147	pending	-
-155773	Split Then Select: Moment-Preserving Density Control for Generalized Primitive Splatting	https://neurips.cc/virtual/2026/poster/155773	pending	-
-148973	SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving	https://neurips.cc/virtual/2026/poster/148973	pending	-
-151238	Sponsored Questions and How to Auction Them	https://neurips.cc/virtual/2026/poster/151238	pending	-
-139800	spora: A Unified Multimodal Dataset for Spatial Proteomics	https://neurips.cc/virtual/2026/poster/139800	pending	-
-140126	Sport Is The Next Grand Challenge For Artificial Intelligence: Toward A Science Of Human Physical Skill	https://neurips.cc/virtual/2026/poster/140126	pending	-
-139155	SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows	https://neurips.cc/virtual/2026/poster/139155	pending	-
-154280	SpRePE: A Spherical Geometry-Aware Position Embedding scheme for Vision Transformers	https://neurips.cc/virtual/2026/poster/154280	pending	-
-150262	SPRING: Solver-guided Process Rewards for Novel Logical Reasoning Steps Generation	https://neurips.cc/virtual/2026/poster/150262	pending	-
-149697	SPRM: From Cooperative Games to Marginal-Contribution Process Reward Modeling	https://neurips.cc/virtual/2026/poster/149697	pending	-
-152481	S&P: Towards Scalable and Powerful Graph Learning with Hierarchical Structural Acquisition	https://neurips.cc/virtual/2026/poster/152481	pending	-
-153360	SQUEEZE: Preserving Homeomorphism and Smooth in Higher-Dimensional Flows	https://neurips.cc/virtual/2026/poster/153360	pending	-
-155906	Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation	https://neurips.cc/virtual/2026/poster/155906	pending	-
-153943	SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction	https://neurips.cc/virtual/2026/poster/153943	pending	-
-139695	SREGym: A Live Benchmark for AI SRE Agents with High-Fidelity Failure Scenarios	https://neurips.cc/virtual/2026/poster/139695	pending	-
-150919	SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment	https://neurips.cc/virtual/2026/poster/150919	pending	-
-148686	SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control	https://neurips.cc/virtual/2026/poster/148686	pending	-
-139596	SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation	https://neurips.cc/virtual/2026/poster/139596	pending	-
-149077	SS3D: End2End Self-Supervised 3D from Web Videos	https://neurips.cc/virtual/2026/poster/149077	pending	-
-152672	SSDGExplainer: Structure-Semantic Dual-Guided Explainer for Graph Neural Networks	https://neurips.cc/virtual/2026/poster/152672	pending	-
-154313	SSD: Shell-Guided Spherical Diffusion for Molecular Geometry Generation	https://neurips.cc/virtual/2026/poster/154313	pending	-
-153040	SSR3D-LLM: Structured Spatial Reasoning via Latent Steps for Fine-Grained Grounding in Unified 3D-LLMs	https://neurips.cc/virtual/2026/poster/153040	pending	-
-153225	Stability and Diversity of Networked Self-Consuming Generative Ecosystems	https://neurips.cc/virtual/2026/poster/153225	pending	-
-154011	Stability and Generalization in Looped Transformers	https://neurips.cc/virtual/2026/poster/154011	pending	-
-149173	Stability-Aware Self-Training for CLIP under Cross-Modal Anchoring Mismatch	https://neurips.cc/virtual/2026/poster/149173	pending	-
-153846	Stability-Constrained Regime-Aware Forecasting for Heterogeneous Panel Time Series	https://neurips.cc/virtual/2026/poster/153846	pending	-
-152554	Stability-Enhanced Federated Learning with Accelerated Gradient	https://neurips.cc/virtual/2026/poster/152554	pending	-
-151921	Stability in Multi-Step Reasoning via Jacobian-based Error Accumulation Analysis	https://neurips.cc/virtual/2026/poster/151921	pending	-
-149842	Stability Regimes for Framing-Sensitive Fine-Tuning in Language Models	https://neurips.cc/virtual/2026/poster/149842	pending	-
-155837	Stability-Weighted Direction Regularization Disentangles Generator Shortcuts from Detection Signal	https://neurips.cc/virtual/2026/poster/155837	pending	-
-152714	Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping	https://neurips.cc/virtual/2026/poster/152714	pending	-
-149495	Stabilizing Few-Shot Object Detection with Language-Conditioned Probabilistic Prototypes	https://neurips.cc/virtual/2026/poster/149495	pending	-
-151790	Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR	https://neurips.cc/virtual/2026/poster/151790	pending	-
-149900	Stabilizing Off-policy LLM Optimization with Prefix Importance Ratio	https://neurips.cc/virtual/2026/poster/149900	pending	-
-148304	Stabilizing Policy Optimization via Logits Convexity	https://neurips.cc/virtual/2026/poster/148304	pending	-
-153095	Stabilizing RL+Search for Imperfect-Information Extensive-Form Games	https://neurips.cc/virtual/2026/poster/153095	pending	-
-148261	Stabilizing the Dynamic Low-Rank Training	https://neurips.cc/virtual/2026/poster/148261	pending	-
-154907	Stable3R: Streaming 3D Reconstruction with Stable Geometric References	https://neurips.cc/virtual/2026/poster/154907	pending	-
-154677	STABLE: A Continual Learning Optimizer with Adaptive Drift Control	https://neurips.cc/virtual/2026/poster/154677	pending	-
-153143	Stable Alpha: Adversarial Invariant Representation Learning for Nonlinear Asset Pricing  under Temporal Distribution Shifts	https://neurips.cc/virtual/2026/poster/153143	pending	-
-153504	Stable and Granular Policy Optimization for Generative Recommendation	https://neurips.cc/virtual/2026/poster/153504	pending	-
-150122	Stable and Scalable Probabilistic Numerical Solvers for Stiff and High-Dimensional ODEs	https://neurips.cc/virtual/2026/poster/150122	pending	-
-154759	StableAvatar: Ultra-Long Audio-Driven Avatar Video Generation	https://neurips.cc/virtual/2026/poster/154759	pending	-
-157019	Stable Continuous-Time Consistency Distillation: An Empirical Study with a Multistep Extension	https://neurips.cc/virtual/2026/poster/157019	pending	-
-150233	Stable GFlowNets with Probabilistic Guarantees	https://neurips.cc/virtual/2026/poster/150233	pending	-
-155198	StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video	https://neurips.cc/virtual/2026/poster/155198	pending	-
-154652	Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators	https://neurips.cc/virtual/2026/poster/154652	pending	-
-156002	Stable Max Coverage Under a Cardinality Constraint	https://neurips.cc/virtual/2026/poster/156002	pending	-
-148586	Stable Partial Order Constraints for Temporal Causal Structure Learning	https://neurips.cc/virtual/2026/poster/148586	pending	-
-152770	Stable Resolution-Invariant Emulation in Entropically Controlled Kinetic Methods	https://neurips.cc/virtual/2026/poster/152770	pending	-
-151809	StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training	https://neurips.cc/virtual/2026/poster/151809	pending	-
-139680	stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation	https://neurips.cc/virtual/2026/poster/139680	pending	-
-148748	STAC-R: Subspace-Tracked Activation Compression with Residuals	https://neurips.cc/virtual/2026/poster/148748	pending	-
-149420	StaDy: Factorizing the World into Static and Dynamic via Likelihood Matching	https://neurips.cc/virtual/2026/poster/149420	pending	-
-149801	Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation	https://neurips.cc/virtual/2026/poster/149801	pending	-
-150106	Stage Light is Sequence$^2$: Multi-Light Control via Imitation Learning	https://neurips.cc/virtual/2026/poster/150106	pending	-
-149114	Stage-wise Attention-Guided Region Sequencing for Adversarial Attacks on Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/149114	pending	-
-155130	StainNFT: Curriculum-Gated Multi-Reward Post-Training for Pathology-Faithful Virtual Staining	https://neurips.cc/virtual/2026/poster/155130	pending	-
-139611	StakeBench: Evaluating Language Understanding Grounded in Market Commitment	https://neurips.cc/virtual/2026/poster/139611	pending	-
-139841	StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns	https://neurips.cc/virtual/2026/poster/139841	pending	-
-140047	Standardization of Post-Publication Code Verification is Possible with the Support of the Community	https://neurips.cc/virtual/2026/poster/140047	pending	-
-150310	Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation	https://neurips.cc/virtual/2026/poster/150310	pending	-
-148439	STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens	https://neurips.cc/virtual/2026/poster/148439	pending	-
-153598	STAR: Boosting Time Series Foundation Models for Anomaly Detection Through State-Aware Adapter	https://neurips.cc/virtual/2026/poster/153598	pending	-
-139048	StarCraft Motion: A Dataset for Agent Simulation in Adversarial and Partially Observable Scenarios	https://neurips.cc/virtual/2026/poster/139048	pending	-
-152111	STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability	https://neurips.cc/virtual/2026/poster/152111	pending	-
-153469	STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation	https://neurips.cc/virtual/2026/poster/153469	pending	-
-150935	STAR-Math: Multi-Agent Mathematical Reasoning under Persistent Meta-Strategic Supervision	https://neurips.cc/virtual/2026/poster/150935	pending	-
-151434	StaRPO: Stability-Augmented Reinforcement Policy Optimization	https://neurips.cc/virtual/2026/poster/151434	pending	-
-148796	StarWM:  Self-Supervised Trained Attention Routing for Robust World Models	https://neurips.cc/virtual/2026/poster/148796	pending	-
-151718	State-Action Selection in General Stochastic Games under Regularized Policy Gradient Methods	https://neurips.cc/virtual/2026/poster/151718	pending	-
-149218	State Augmented Flows	https://neurips.cc/virtual/2026/poster/149218	pending	-
-153030	State Copying Crowds Out Reasoning: Mechanistic Evidence for Delta Planning in Autoregressive Models	https://neurips.cc/virtual/2026/poster/153030	pending	-
-151275	State Evolution Awareness for Category-agnostic 3D Point Cloud Tracking	https://neurips.cc/virtual/2026/poster/151275	pending	-
-151469	StateLedger: Path-Addressed External Memory for Persistent Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/151469	pending	-
-154500	State-of-art minibatches via novel DPP kernels: discretization, wavelets, and rough objectives	https://neurips.cc/virtual/2026/poster/154500	pending	-
-148339	State of Thought Enables Endogenous Reasoning	https://neurips.cc/virtual/2026/poster/148339	pending	-
-148318	State-Resolving Attention for Length-Extrapolating Transformers	https://neurips.cc/virtual/2026/poster/148318	pending	-
-151920	StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151920	pending	-
-149986	Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/149986	pending	-
-139733	Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding	https://neurips.cc/virtual/2026/poster/139733	pending	-
-152803	Static-to-Dynamic: Animating Still Mattes via Generative Motion for Video Matting	https://neurips.cc/virtual/2026/poster/152803	pending	-
-152791	Statistical Complexity of Soft Bellman Residual Minimization	https://neurips.cc/virtual/2026/poster/152791	pending	-
-152862	Statistical Convergence of Spherical First Hitting Diffusion Models	https://neurips.cc/virtual/2026/poster/152862	pending	-
+152699	Spectral Unlearning: Transformer Structure-Preserving Updates for Language Model	https://neurips.cc/virtual/2026/poster/152699	included	遗忘更新采用矩阵结构化最陡方向。
+150988	Spectrum-Adaptive Generalization Bounds for Trained Deep Transformers	https://neurips.cc/virtual/2026/poster/150988	excluded	理论建立谱适应泛化界，摘要未交代可执行或可独立验证的模型选择。
+150210	Speculative Decoding Is Per-Token, Not Path	https://neurips.cc/virtual/2026/poster/150210	included	预测推测解码吞吐时分析逐 token 可接收率。
+155356	Speculative Self-Distillation enables Efficient Knowledge Internalization	https://neurips.cc/virtual/2026/poster/155356	included	自蒸馏按 token 混合策略。
+149645	Speech Tokenizers are Vulnerable:  Transferable Semantic Attack and Robust Tokenizer	https://neurips.cc/virtual/2026/poster/149645	included	音频防御分别验 tokenizer 与下游鲁棒。
+151791	Speeding up Log-Sum-Exp: Kernel Fusion at the Memory Wall, Integer Arithmetic at the Compute Wall	https://neurips.cc/virtual/2026/poster/151791	included	LSE 在 GPU 先融合流量，在 CPU 测整数近似。
+148614	Speed Predictions for Online Energy-Efficient Scheduling	https://neurips.cc/virtual/2026/poster/148614	included	在线节能调度检验预测目标能否直接对齐控制。
+151467	Spend Only What You Need: Defect-Aware Residual Coverage for Efficient Multi-Agent Reasoning	https://neurips.cc/virtual/2026/poster/151467	included	多代理只在存在明确剩余缺陷时继续调用。
+155259	SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction	https://neurips.cc/virtual/2026/poster/155259	included	不规则电极地图用空间和频率结构为 JEPA 定先验。
+153724	SPEXT: A Decoupled Multi-Spectral Foundation Model for Earth Observation and Vision-Language Grounding	https://neurips.cc/virtual/2026/poster/153724	included	多光谱 dense 表征与全局视觉语言对比流分开。
+151633	SphereFlow: Missing Modality Imputation via Geometric Transport on Hypersphere	https://neurips.cc/virtual/2026/poster/151633	included	缺模态时从已观测表示输运而非纯噪声启动。
+148342	SPHERE-JEPA: Spherical Prediction with Homogeneous Embeddings	https://neurips.cc/virtual/2026/poster/148342	included	向量检索用户场景应比较均匀球嵌入。
+152043	SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere	https://neurips.cc/virtual/2026/poster/152043	included	冻结视频特征用球面似然比判断离群。
+150195	Spherical Bayesian Experimental Design for Active View Selection in 3D Gaussian Splatting	https://neurips.cc/virtual/2026/poster/150195	included	主动选视角针对可观察球面外观计算信息。
+148834	Spherical Boltzmann machines: a solvable theory of learning and generation in energy-based models	https://neurips.cc/virtual/2026/poster/148834	excluded	能量模型可解理论虽指出其他模型现象，摘要未明确可独立使用的决策。
+148878	Spherical Flows for Sampling Categorical Data	https://neurips.cc/virtual/2026/poster/148878	included	类别生成可试单位球上的概率路径。
+148719	Spherical Interpolation for Backward-Compatible Multimodal Representations	https://neurips.cc/virtual/2026/poster/148719	included	图库不重建时插值新旧对齐查询。
+155138	SphMind: Towards Robust, Training-Free VLM-based Spatial Reasoning with a 360 Camera	https://neurips.cc/virtual/2026/poster/155138	included	360 视觉推理建立跨包边界球面关系图。
+150740	SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models	https://neurips.cc/virtual/2026/poster/150740	included	VLM 极低位比较免旋转球面权重量化。
+152294	Spikes as Detectors: Phase-Conditioned Spiking Dynamics for Time-Series Anomaly Detection	https://neurips.cc/virtual/2026/poster/152294	included	周期异常用相位条件的脉冲活动作分数。
+155711	Spike-SFT: Selective Parameter Enhancement and Fusion for Efficient Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/155711	excluded	稀疏微调、校准和融合联合使用，摘要未给决定选择哪部分的独立结果。
+153966	SpikeSSL: A Universal Spike Inference Framework with Dynamics-Informed State-Space Layers	https://neurips.cc/virtual/2026/poster/153966	included	钙成像信号同时用符合其动力学的 IIR 层和条件化采样描述。
+153490	SpikeSTAG: A Dendritic Compartmental Spiking Graph Network for Multivariate Time-Series Forecasting	https://neurips.cc/virtual/2026/poster/153490	excluded	图脉冲结构面向时间序列专门任务，摘要的能耗多为理论估计，缺乏通用效率证据。
+148673	Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks	https://neurips.cc/virtual/2026/poster/148673	included	检验时空涌现不能仅靠单一标度或事件统计。
+150590	SpikingGamma: Temporally Precise Online SNN Training Through Smoothed Temporal Delays	https://neurips.cc/virtual/2026/poster/150590	included	在线时序网络用平滑延迟状态保留历史，而不是完全依赖递归信用传播。
+154218	Spiking neural network initialization for scale-invariant maximization of entropy	https://neurips.cc/virtual/2026/poster/154218	included	脉冲初始化同时考虑时间递归、重置与跨层活动坍缩。
+152358	Spik-NeRF v2: Pushing the Limit of Spiking Neural Radiance Fields with $ \pm $I-LIF	https://neurips.cc/virtual/2026/poster/152358	excluded	主要为脉冲 NeRF 渲染适配，摘要不足以说明新发放机制可跨任务。
+156130	Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks	https://neurips.cc/virtual/2026/poster/156130	included	三维等变基必须显式保留奇宇称与反对称耦合。
+154309	SPIRAL: Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents	https://neurips.cc/virtual/2026/poster/154309	excluded	规划、反馈修订和策略优化共同使用，摘要未区分可迁移的独立作用。
+155523	SPIRIT: Speed-Driven Online Adaptation for Self-Speculative Decoding	https://neurips.cc/virtual/2026/poster/155523	included	自推测在线配置优化直接以实际每秒生成 token 为目标。
+149531	Splatting the Invisible: Geometry and Appearance Scene Completion from Sparse Views	https://neurips.cc/virtual/2026/poster/149531	included	不可见场景补全可在共享三维潜空间生成几何与外观。
+155679	SPLICE: Structured Prompt Local Iterative Combinatorial Evolution	https://neurips.cc/virtual/2026/poster/155679	included	自动提示优化冻结协议段，只开放可编辑区。
+152305	SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants	https://neurips.cc/virtual/2026/poster/152305	included	同时通过多个时间边缘时，用局部构造的样条而非全局高阶多项式。
+151356	Split and Bridge: Multimodal Generation via Diffusion Bridging	https://neurips.cc/virtual/2026/poster/151356	included	多模态生成采样早期共享轨迹，后期保留各自解码器并桥接。
+153852	Split-and-scale Latent 3D Representations	https://neurips.cc/virtual/2026/poster/153852	excluded	摘要未给足够信息说明分割与增量 latent 各自在推理扩容中的收益。
+152641	Split-RL: Local Conflict Resolution in Reinforcement Learning	https://neurips.cc/virtual/2026/poster/152641	included	将相互冲突的策略更新按状态局部分区。
+152147	Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation	https://neurips.cc/virtual/2026/poster/152147	included	多目标模仿只在专家行为冲突的状态拆头。
+155773	Split Then Select: Moment-Preserving Density Control for Generalized Primitive Splatting	https://neurips.cc/virtual/2026/poster/155773	included	用保持渲染局部矩的几何拆分生成候选，再决定保留。
+148973	SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving	https://neurips.cc/virtual/2026/poster/148973	included	分离预填和解码时，用 GPU 无损编解码压缩传输中的 KV。
+151238	Sponsored Questions and How to Auction Them	https://neurips.cc/virtual/2026/poster/151238	excluded	广告拍卖分配属于机制设计，缺少相关研究的模型层技术选择。
+139800	spora: A Unified Multimodal Dataset for Spatial Proteomics	https://neurips.cc/virtual/2026/poster/139800	excluded	主要是空间蛋白组多模态资源，未单列安全通用技术洞见。
+140126	Sport Is The Next Grand Challenge For Artificial Intelligence: Toward A Science Of Human Physical Skill	https://neurips.cc/virtual/2026/poster/140126	excluded	主要为人类运动研究倡议，缺少已验证的机制。
+139155	SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows	https://neurips.cc/virtual/2026/poster/139155	included	表格工作流先验收检查和定位阶段
+154280	SpRePE: A Spherical Geometry-Aware Position Embedding scheme for Vision Transformers	https://neurips.cc/virtual/2026/poster/154280	included	全景视觉用与球面一致的位置编码
+150262	SPRING: Solver-guided Process Rewards for Novel Logical Reasoning Steps Generation	https://neurips.cc/virtual/2026/poster/150262	included	用符号求解器验逐步逻辑创新
+149697	SPRM: From Cooperative Games to Marginal-Contribution Process Reward Modeling	https://neurips.cc/virtual/2026/poster/149697	included	过程奖励用边际贡献重分配终局反馈
+152481	S&P: Towards Scalable and Powerful Graph Learning with Hierarchical Structural Acquisition	https://neurips.cc/virtual/2026/poster/152481	excluded	摘要未给层级过滤在当前机器人图结构的对照。
+153360	SQUEEZE: Preserving Homeomorphism and Smooth in Higher-Dimensional Flows	https://neurips.cc/virtual/2026/poster/153360	excluded	点出高维流光滑性问题，但摘要没有可核对的现实任务验证与适用范围。
+155906	Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation	https://neurips.cc/virtual/2026/poster/155906	excluded	主要是主体生成的多个组件联合验证，未隔离单独机制。
+153943	SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction	https://neurips.cc/virtual/2026/poster/153943	included	轨迹去噪过程中重建动态交互图
+139695	SREGym: A Live Benchmark for AI SRE Agents with High-Fidelity Failure Scenarios	https://neurips.cc/virtual/2026/poster/139695	excluded	主要提供运维故障模拟和测评，摘要未单列独立安全机制。
+150919	SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment	https://neurips.cc/virtual/2026/poster/150919	excluded	稳定秩奖励的结果集中于单模型，摘要未给足以说明选择的外推条件。
+148686	SRL-MPC: Shape-Aware Reinforcement Learned Model Predictive Control	https://neurips.cc/virtual/2026/poster/148686	excluded	主要面向特定拥挤运动控制，摘要未隔离预测约束与 RL 联合收益。
+139596	SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation	https://neurips.cc/virtual/2026/poster/139596	included	超分伪影按对人类可见影响评分
+149077	SS3D: End2End Self-Supervised 3D from Web Videos	https://neurips.cc/virtual/2026/poster/149077	excluded	强实证伴随数据和多组件扩展，摘要未隔离信号筛选单独贡献。
+152672	SSDGExplainer: Structure-Semantic Dual-Guided Explainer for Graph Neural Networks	https://neurips.cc/virtual/2026/poster/152672	excluded	图解释框架多组件并展示，摘要未拆出跨场景生效条件。
+154313	SSD: Shell-Guided Spherical Diffusion for Molecular Geometry Generation	https://neurips.cc/virtual/2026/poster/154313	excluded	核心为分子生成，摘要未单列安全通用验证。
+153040	SSR3D-LLM: Structured Spatial Reasoning via Latent Steps for Fine-Grained Grounding in Unified 3D-LLMs	https://neurips.cc/virtual/2026/poster/153040	excluded	摘要没有拆解潜在步骤机制的独立适用条件或关键数字。
+153225	Stability and Diversity of Networked Self-Consuming Generative Ecosystems	https://neurips.cc/virtual/2026/poster/153225	excluded	主要为模型生态的理论图分析，摘要未给实际训练选择的检验。
+154011	Stability and Generalization in Looped Transformers	https://neurips.cc/virtual/2026/poster/154011	included	循环模型选召回路径前测前向与反向稳定性
+149173	Stability-Aware Self-Training for CLIP under Cross-Modal Anchoring Mismatch	https://neurips.cc/virtual/2026/poster/149173	included	CLIP 自训练按伪标签跨轮稳定性更新视觉原型。
+153846	Stability-Constrained Regime-Aware Forecasting for Heterogeneous Panel Time Series	https://neurips.cc/virtual/2026/poster/153846	included	分模式预测同时约束专家和门。
+152554	Stability-Enhanced Federated Learning with Accelerated Gradient	https://neurips.cc/virtual/2026/poster/152554	included	加速联邦更新时监测样本替换稳定性。
+151921	Stability in Multi-Step Reasoning via Jacobian-based Error Accumulation Analysis	https://neurips.cc/virtual/2026/poster/151921	included	长推理同时降低步数及单步误差增益。
+149842	Stability Regimes for Framing-Sensitive Fine-Tuning in Language Models	https://neurips.cc/virtual/2026/poster/149842	included	语义同义框架做序贯决策压力测试。
+155837	Stability-Weighted Direction Regularization Disentangles Generator Shortcuts from Detection Signal	https://neurips.cc/virtual/2026/poster/155837	included	检测生成痕迹按留一生成器稳定性正则。
+152714	Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping	https://neurips.cc/virtual/2026/poster/152714	included	循环 Transformer 选择随机而非固定停止调度。
+149495	Stabilizing Few-Shot Object Detection with Language-Conditioned Probabilistic Prototypes	https://neurips.cc/virtual/2026/poster/149495	included	低样本检测给支持原型建不确定性。
+151790	Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR	https://neurips.cc/virtual/2026/poster/151790	included	高熵推理词与低熵事实词用不同更新边界。
+149900	Stabilizing Off-policy LLM Optimization with Prefix Importance Ratio	https://neurips.cc/virtual/2026/poster/149900	included	离策略偏差大时采用前缀重要性校正。
+148304	Stabilizing Policy Optimization via Logits Convexity	https://neurips.cc/virtual/2026/poster/148304	included	比较 RL 与 SFT 稳定时看 logits 目标几何。
+153095	Stabilizing RL+Search for Imperfect-Information Extensive-Form Games	https://neurips.cc/virtual/2026/poster/153095	included	递归价值搜索随机化子博弈迭代预算。
+148261	Stabilizing the Dynamic Low-Rank Training	https://neurips.cc/virtual/2026/poster/148261	included	动态低秩训练为截断遗漏方向保小缓冲。
+154907	Stable3R: Streaming 3D Reconstruction with Stable Geometric References	https://neurips.cc/virtual/2026/poster/154907	included	流式位姿由可更新的前缀锚定。
+154677	STABLE: A Continual Learning Optimizer with Adaptive Drift Control	https://neurips.cc/virtual/2026/poster/154677	included	按当前近邻间隔给参数漂移设自适应约束。
+153143	Stable Alpha: Adversarial Invariant Representation Learning for Nonlinear Asset Pricing  under Temporal Distribution Shifts	https://neurips.cc/virtual/2026/poster/153143	excluded	摘要核心为金融资产定价应用，尚未独立建立迁移到目标研究的机制。
+153504	Stable and Granular Policy Optimization for Generative Recommendation	https://neurips.cc/virtual/2026/poster/153504	included	生成排序奖励仍需局部可诊断的更新。
+150122	Stable and Scalable Probabilistic Numerical Solvers for Stiff and High-Dimensional ODEs	https://neurips.cc/virtual/2026/poster/150122	included	刚性概率 ODE 求解用隐式重线性化。
+154759	StableAvatar: Ultra-Long Audio-Driven Avatar Video Generation	https://neurips.cc/virtual/2026/poster/154759	included	音频驱动长视频按去噪时间步调语音特征。
+157019	Stable Continuous-Time Consistency Distillation: An Empirical Study with a Multistep Extension	https://neurips.cc/virtual/2026/poster/157019	included	连续时间一致性蒸馏按采样段单独条件化。
+150233	Stable GFlowNets with Probabilistic Guarantees	https://neurips.cc/virtual/2026/poster/150233	included	GFlowNet 要同时检查轨迹损失和目标分布保真度。
+155198	StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video	https://neurips.cc/virtual/2026/poster/155198	included	对被遮挡手的运动估计按每帧可靠度条件化。
+154652	Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators	https://neurips.cc/virtual/2026/poster/154652	included	长期滚动只更新紧凑传播状态，细节通过共享解码恢复。
+156002	Stable Max Coverage Under a Cardinality Constraint	https://neurips.cc/virtual/2026/poster/156002	included	选取固定数量覆盖项时加入正则降低数据小变动造成的选择跳跃。
+148586	Stable Partial Order Constraints for Temporal Causal Structure Learning	https://neurips.cc/virtual/2026/poster/148586	included	动态因果图的偏序约束应建在时间展开表示上。
+152770	Stable Resolution-Invariant Emulation in Entropically Controlled Kinetic Methods	https://neurips.cc/virtual/2026/poster/152770	included	粗网格预测显式约束熵耗散，避免未解尺度的能量回到网格。
+151809	StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training	https://neurips.cc/virtual/2026/poster/151809	included	向量量化分词器分开稳住编码器与码本职责，然后检查联合训练。
+139680	stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation	https://neurips.cc/virtual/2026/poster/139680	excluded	平台以数据层、环境与基线集成为主，摘要未给独立可复用技术结论。
+148748	STAC-R: Subspace-Tracked Activation Compression with Residuals	https://neurips.cc/virtual/2026/poster/148748	included	训练激活以低秩系数和稀疏量化残差保存，反传直接用因子算梯度。
+149420	StaDy: Factorizing the World into Static and Dynamic via Likelihood Matching	https://neurips.cc/virtual/2026/poster/149420	included	动态潜码只在配对源状态时帮助预测，单独不应泄露目标内容。
+149801	Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation	https://neurips.cc/virtual/2026/poster/149801	included	域适配分开处理传播前特征偏移和传播中的结构偏移。
+150106	Stage Light is Sequence$^2$: Multi-Light Control via Imitation Learning	https://neurips.cc/virtual/2026/poster/150106	excluded	主要针对音乐灯光控制，摘要不足以验证独立可迁移机制。
+149114	Stage-wise Attention-Guided Region Sequencing for Adversarial Attacks on Large Vision-Language Models	https://neurips.cc/virtual/2026/poster/149114	excluded	以攻击视觉语言模型为主，摘要没有独立、可复用的防御验证。
+155130	StainNFT: Curriculum-Gated Multi-Reward Post-Training for Pathology-Faithful Virtual Staining	https://neurips.cc/virtual/2026/poster/155130	excluded	虚拟染色奖励依赖病理染色信号，摘要未给独立机制的跨任务比较。
+139611	StakeBench: Evaluating Language Understanding Grounded in Market Commitment	https://neurips.cc/virtual/2026/poster/139611	excluded	市场行为标签的用法依赖平台激励，摘要未给面向主要研究方向的直接技术选择。
+139841	StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns	https://neurips.cc/virtual/2026/poster/139841	included	长程代码测评固定可验证修改序列，交叉比较模型和代理框架。
+140047	Standardization of Post-Publication Code Verification is Possible with the Support of the Community	https://neurips.cc/virtual/2026/poster/140047	excluded	发表后验证徽章是社区制度设计，摘要未给相关模型机制。
+150310	Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation	https://neurips.cc/virtual/2026/poster/150310	included	低资源脑电预训练可比较视觉与时序教师蒸馏和从头自监督。
+148439	STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens	https://neurips.cc/virtual/2026/poster/148439	included	序列奖励训练监控极少数 token 是否承担了不合理的大梯度。
+153598	STAR: Boosting Time Series Foundation Models for Anomaly Detection Through State-Aware Adapter	https://neurips.cc/virtual/2026/poster/153598	excluded	状态编码、适配器和匹配均参与时间序列异常识别，摘要未给机制独立性。
+139048	StarCraft Motion: A Dataset for Agent Simulation in Adversarial and Partially Observable Scenarios	https://neurips.cc/virtual/2026/poster/139048	excluded	主体是游戏轨迹数据与基准，摘要没有给出直接可采用的独立机制。
+152111	STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability	https://neurips.cc/virtual/2026/poster/152111	excluded	摘要未给相对难度与惊讶度加权的独立证据，相关熵方法需择优。
+153469	STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation	https://neurips.cc/virtual/2026/poster/153469	included	交错图文让视觉生成和文本共享因果缓存接口
+150935	STAR-Math: Multi-Agent Mathematical Reasoning under Persistent Meta-Strategic Supervision	https://neurips.cc/virtual/2026/poster/150935	excluded	多阶段数学智能体编排，但摘要未说明哪一机制独立迁移。
+151434	StaRPO: Stability-Augmented Reinforcement Policy Optimization	https://neurips.cc/virtual/2026/poster/151434	excluded	摘要未交代 ACF 或 PE 具体可核验的实现与关键消融。
+148796	StarWM:  Self-Supervised Trained Attention Routing for Robust World Models	https://neurips.cc/virtual/2026/poster/148796	included	世界模型重建前预测哪些视觉部位与动态相关
+151718	State-Action Selection in General Stochastic Games under Regularized Policy Gradient Methods	https://neurips.cc/virtual/2026/poster/151718	excluded	主要为一般随机博弈的策略梯度吸引集理论，未验证重点设置。
+149218	State Augmented Flows	https://neurips.cc/virtual/2026/poster/149218	included	低 NFE 流匹配增加运输中间状态信息
+153030	State Copying Crowds Out Reasoning: Mechanistic Evidence for Delta Planning in Autoregressive Models	https://neurips.cc/virtual/2026/poster/153030	included	长任务把状态维护移出生成链，只输出增量
+151275	State Evolution Awareness for Category-agnostic 3D Point Cloud Tracking	https://neurips.cc/virtual/2026/poster/151275	excluded	主要在点云跟踪专项测试分布对齐，摘要未给独立迁移证据。
+151469	StateLedger: Path-Addressed External Memory for Persistent Multi-Agent Systems	https://neurips.cc/virtual/2026/poster/151469	included	持久记忆用规范路径表达状态和修订
+154500	State-of-art minibatches via novel DPP kernels: discretization, wavelets, and rough objectives	https://neurips.cc/virtual/2026/poster/154500	excluded	主要是粗糙目标上的采样复杂度，摘要未验证模型训练的实测作用。
+148339	State of Thought Enables Endogenous Reasoning	https://neurips.cc/virtual/2026/poster/148339	excluded	摘要未详列如何构造可独立复核的状态推理机制。
+148318	State-Resolving Attention for Length-Extrapolating Transformers	https://neurips.cc/virtual/2026/poster/148318	included	长上下文先定匹配内容再判哪个时间版本有效
+151920	StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning	https://neurips.cc/virtual/2026/poster/151920	included	长程记忆训练以短对话生成可验证树型追踪
+149986	Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models	https://neurips.cc/virtual/2026/poster/149986	included	多帧 VLA 给静态和运动信息不同缓存策略
+139733	Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding	https://neurips.cc/virtual/2026/poster/139733	excluded	涉及蛋白结构设计及动态筛选，未单列安全通用验证。
+152803	Static-to-Dynamic: Animating Still Mattes via Generative Motion for Video Matting	https://neurips.cc/virtual/2026/poster/152803	excluded	主要为视频抠图训练集与方法工程，未分离可复用机制证据。
+152791	Statistical Complexity of Soft Bellman Residual Minimization	https://neurips.cc/virtual/2026/poster/152791	excluded	结果主要是 soft Bellman 残差理论稳定性界，未验证模型选型。
+152862	Statistical Convergence of Spherical First Hitting Diffusion Models	https://neurips.cc/virtual/2026/poster/152862	excluded	主要是球面平滑分布下的理论收敛，摘要未给重点任务实证。
 148477	Statistical Estimation of Adversarial Risk in Large Language Models under Best-of-N Sampling	https://neurips.cc/virtual/2026/poster/148477	pending	-
 156672	Statistical field theory for Markov decision processes under uncertainty	https://neurips.cc/virtual/2026/poster/156672	pending	-
 152254	Statistical Inference in Causal Partial Identification under Smooth Densities	https://neurips.cc/virtual/2026/poster/152254	pending	-

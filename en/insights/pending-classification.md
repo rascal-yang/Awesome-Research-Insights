@@ -1194,5 +1194,17 @@
 - [Spatially Feasible 3D Indoor Scene Generation via Interaction-Oriented Human Proxy](../../conferences/neurips-2026/cards-0011.md#paper-151858)
 - [SP-CACW: Convergence-Aware Client Weighting for Selfish Personalized Learning](../../conferences/neurips-2026/cards-0011.md#paper-152385)
 - [SpectralKV: Redundancy-Aware KV Cache Compression via Spectral Coreset Selection](../../conferences/neurips-2026/cards-0011.md#paper-148958)
+- [Speech Tokenizers are Vulnerable:  Transferable Semantic Attack and Robust Tokenizer](../../conferences/neurips-2026/cards-0011.md#paper-149645)
+- [SPEXT: A Decoupled Multi-Spectral Foundation Model for Earth Observation and Vision-Language Grounding](../../conferences/neurips-2026/cards-0011.md#paper-153724)
+- [SphereFlow: Missing Modality Imputation via Geometric Transport on Hypersphere](../../conferences/neurips-2026/cards-0011.md#paper-151633)
+- [Spherical Bayesian Experimental Design for Active View Selection in 3D Gaussian Splatting](../../conferences/neurips-2026/cards-0011.md#paper-150195)
+- [Spherical Flows for Sampling Categorical Data](../../conferences/neurips-2026/cards-0011.md#paper-148878)
+- [SphMind: Towards Robust, Training-Free VLM-based Spatial Reasoning with a 360 Camera](../../conferences/neurips-2026/cards-0011.md#paper-155138)
+- [Stability-Constrained Regime-Aware Forecasting for Heterogeneous Panel Time Series](../../conferences/neurips-2026/cards-0011.md#paper-153846)
+- [Stability-Enhanced Federated Learning with Accelerated Gradient](../../conferences/neurips-2026/cards-0011.md#paper-152554)
+- [Stability-Weighted Direction Regularization Disentangles Generator Shortcuts from Detection Signal](../../conferences/neurips-2026/cards-0011.md#paper-155837)
+- [Stable3R: Streaming 3D Reconstruction with Stable Geometric References](../../conferences/neurips-2026/cards-0011.md#paper-154907)
+- [StableAvatar: Ultra-Long Audio-Driven Avatar Video Generation](../../conferences/neurips-2026/cards-0011.md#paper-154759)
+- [Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models](../../conferences/neurips-2026/cards-0011.md#paper-149986)
 
 <!-- conference-classification:end -->

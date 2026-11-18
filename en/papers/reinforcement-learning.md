@@ -695,5 +695,9 @@ Learning from interaction, feedback, and offline experience.
 - [Soft Forward-Backward Representations for Zero-shot Reinforcement Learning with General Utilities](../../conferences/neurips-2026/cards-0011.md#paper-151016)
 - [Spectral Alignment in Forward–Backward Representations via Temporal Abstraction](../../conferences/neurips-2026/cards-0011.md#paper-149102)
 - [Spectral Representations for Provably Robust Offline Meta-Reinforcement Learning from Bagged Rewards](../../conferences/neurips-2026/cards-0011.md#paper-148147)
+- [Split-RL: Local Conflict Resolution in Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-152641)
+- [Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation](../../conferences/neurips-2026/cards-0011.md#paper-152147)
+- [Stabilizing RL+Search for Imperfect-Information Extensive-Form Games](../../conferences/neurips-2026/cards-0011.md#paper-153095)
+- [Stable GFlowNets with Probabilistic Guarantees](../../conferences/neurips-2026/cards-0011.md#paper-150233)
 
 <!-- conference-classification:end -->

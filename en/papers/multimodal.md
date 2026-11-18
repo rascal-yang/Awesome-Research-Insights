@@ -967,5 +967,17 @@ Learning across modalities such as images, text, audio, and video.
 - [Speak Early: Speculative Speech Generation for Low-Latency SpeechLLMs](../../conferences/neurips-2026/cards-0011.md#paper-152241)
 - [Spectral Progressive Diffusion for Efficient Image and Video Generation](../../conferences/neurips-2026/cards-0011.md#paper-151007)
 - [Spectral Stratification of Semantic Abstraction in Vision-Language Models](../../conferences/neurips-2026/cards-0011.md#paper-154946)
+- [Speech Tokenizers are Vulnerable:  Transferable Semantic Attack and Robust Tokenizer](../../conferences/neurips-2026/cards-0011.md#paper-149645)
+- [SPEXT: A Decoupled Multi-Spectral Foundation Model for Earth Observation and Vision-Language Grounding](../../conferences/neurips-2026/cards-0011.md#paper-153724)
+- [Spherical Interpolation for Backward-Compatible Multimodal Representations](../../conferences/neurips-2026/cards-0011.md#paper-148719)
+- [SphMind: Towards Robust, Training-Free VLM-based Spatial Reasoning with a 360 Camera](../../conferences/neurips-2026/cards-0011.md#paper-155138)
+- [Split and Bridge: Multimodal Generation via Diffusion Bridging](../../conferences/neurips-2026/cards-0011.md#paper-151356)
+- [SpRePE: A Spherical Geometry-Aware Position Embedding scheme for Vision Transformers](../../conferences/neurips-2026/cards-0011.md#paper-154280)
+- [SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation](../../conferences/neurips-2026/cards-0011.md#paper-139596)
+- [Stability-Aware Self-Training for CLIP under Cross-Modal Anchoring Mismatch](../../conferences/neurips-2026/cards-0011.md#paper-149173)
+- [Stabilizing Few-Shot Object Detection with Language-Conditioned Probabilistic Prototypes](../../conferences/neurips-2026/cards-0011.md#paper-149495)
+- [StaDy: Factorizing the World into Static and Dynamic via Likelihood Matching](../../conferences/neurips-2026/cards-0011.md#paper-149420)
+- [STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation](../../conferences/neurips-2026/cards-0011.md#paper-153469)
+- [State Augmented Flows](../../conferences/neurips-2026/cards-0011.md#paper-149218)
 
 <!-- conference-classification:end -->

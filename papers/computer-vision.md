@@ -1138,5 +1138,13 @@
 - [Spatially Feasible 3D Indoor Scene Generation via Interaction-Oriented Human Proxy](../conferences/neurips-2026/cards-0011.md#paper-151858)
 - [Specificity-Aware Diffusion Steering via Variance-Reduced Sequential Monte Carlo](../conferences/neurips-2026/cards-0011.md#paper-149673)
 - [SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation](../conferences/neurips-2026/cards-0011.md#paper-152867)
+- [SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere](../conferences/neurips-2026/cards-0011.md#paper-152043)
+- [Spherical Bayesian Experimental Design for Active View Selection in 3D Gaussian Splatting](../conferences/neurips-2026/cards-0011.md#paper-150195)
+- [Splatting the Invisible: Geometry and Appearance Scene Completion from Sparse Views](../conferences/neurips-2026/cards-0011.md#paper-149531)
+- [Split Then Select: Moment-Preserving Density Control for Generalized Primitive Splatting](../conferences/neurips-2026/cards-0011.md#paper-155773)
+- [Stability-Weighted Direction Regularization Disentangles Generator Shortcuts from Detection Signal](../conferences/neurips-2026/cards-0011.md#paper-155837)
+- [Stable3R: Streaming 3D Reconstruction with Stable Geometric References](../conferences/neurips-2026/cards-0011.md#paper-154907)
+- [StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video](../conferences/neurips-2026/cards-0011.md#paper-155198)
+- [StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training](../conferences/neurips-2026/cards-0011.md#paper-151809)
 
 <!-- conference-classification:end -->

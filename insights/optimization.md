@@ -770,5 +770,9 @@
 - [Sparse Updates Generalize Better Than Optimization: Stability Analysis for Randomized Subspace Descent](../conferences/neurips-2026/cards-0011.md#paper-148588)
 - [Sparsity for Free: A Budget-Induced Equilibrium in Joint Topology–Parameter Search](../conferences/neurips-2026/cards-0011.md#paper-148319)
 - [Spectral Annealing: Normalization-Path Exploration for Large-Scale Ising Optimization](../conferences/neurips-2026/cards-0011.md#paper-151524)
+- [Spectral Unlearning: Transformer Structure-Preserving Updates for Language Model](../conferences/neurips-2026/cards-0011.md#paper-152699)
+- [Split Then Select: Moment-Preserving Density Control for Generalized Primitive Splatting](../conferences/neurips-2026/cards-0011.md#paper-155773)
+- [Stable and Scalable Probabilistic Numerical Solvers for Stiff and High-Dimensional ODEs](../conferences/neurips-2026/cards-0011.md#paper-150122)
+- [Stable Max Coverage Under a Cardinality Constraint](../conferences/neurips-2026/cards-0011.md#paper-156002)
 
 <!-- conference-classification:end -->

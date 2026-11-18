@@ -1737,5 +1737,13 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Specialist Mediators: Causal Localization of Dense Fine-Tuning](../../conferences/neurips-2026/cards-0011.md#paper-148508)
 - [Spectral Geometry of Attention: From Information Routing to Uncertainty](../../conferences/neurips-2026/cards-0011.md#paper-152378)
 - [Spectral Stratification of Semantic Abstraction in Vision-Language Models](../../conferences/neurips-2026/cards-0011.md#paper-154946)
+- [SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere](../../conferences/neurips-2026/cards-0011.md#paper-152043)
+- [Spikes as Detectors: Phase-Conditioned Spiking Dynamics for Time-Series Anomaly Detection](../../conferences/neurips-2026/cards-0011.md#paper-152294)
+- [Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks](../../conferences/neurips-2026/cards-0011.md#paper-148673)
+- [SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows](../../conferences/neurips-2026/cards-0011.md#paper-139155)
+- [SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation](../../conferences/neurips-2026/cards-0011.md#paper-139596)
+- [Stability Regimes for Framing-Sensitive Fine-Tuning in Language Models](../../conferences/neurips-2026/cards-0011.md#paper-149842)
+- [StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns](../../conferences/neurips-2026/cards-0011.md#paper-139841)
+- [State Copying Crowds Out Reasoning: Mechanistic Evidence for Delta Planning in Autoregressive Models](../../conferences/neurips-2026/cards-0011.md#paper-153030)
 
 <!-- conference-classification:end -->

@@ -236,3 +236,82 @@
 | 强化学习与决策 | 强化学习与奖励 | [Spectral Representations for Provably Robust Offline Meta-Reinforcement Learning from Bagged Rewards](cards-0011.md#paper-148147) | 只有片段总奖励时按包识别任务 |
 | 视觉与多模态 | 评测与诊断 | [Spectral Stratification of Semantic Abstraction in Vision-Language Models](cards-0011.md#paper-154946) | 多模态检索按需求选抽象层级的谱秩 |
 | 机器学习基础与统计 | 模型与架构 | [Spectral Transformer Neural Processes](cards-0011.md#paper-154075) | 周期场序列把周期特征与时间域特征联合建模 |
+| 大语言模型 | 优化算法 | [Spectral Unlearning: Transformer Structure-Preserving Updates for Language Model](cards-0011.md#paper-152699) | 遗忘更新采用矩阵结构化最陡方向。 |
+| 模型效率与系统 | 采样与推理 | [Speculative Decoding Is Per-Token, Not Path](cards-0011.md#paper-150210) | 预测推测解码吞吐时分析逐 token 可接收率。 |
+| 大语言模型 | 知识蒸馏 | [Speculative Self-Distillation enables Efficient Knowledge Internalization](cards-0011.md#paper-155356) | 自蒸馏按 token 混合策略。 |
+| 多模态学习 | 模型鲁棒性 | [Speech Tokenizers are Vulnerable:  Transferable Semantic Attack and Robust Tokenizer](cards-0011.md#paper-149645) | 音频防御分别验 tokenizer 与下游鲁棒。 |
+| 模型效率与系统 | 推理加速 | [Speeding up Log-Sum-Exp: Kernel Fusion at the Memory Wall, Integer Arithmetic at the Compute Wall](cards-0011.md#paper-151791) | LSE 在 GPU 先融合流量，在 CPU 测整数近似。 |
+| 模型效率与系统 | 调度 | [Speed Predictions for Online Energy-Efficient Scheduling](cards-0011.md#paper-148614) | 在线节能调度检验预测目标能否直接对齐控制。 |
+| 智能体与工具使用 | 采样与推理 | [Spend Only What You Need: Defect-Aware Residual Coverage for Efficient Multi-Agent Reasoning](cards-0011.md#paper-151467) | 多代理只在存在明确剩余缺陷时继续调用。 |
+| 深度学习 | 自监督学习 | [SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction](cards-0011.md#paper-155259) | 不规则电极地图用空间和频率结构为 JEPA 定先验。 |
+| 多模态学习 | 对比学习 | [SPEXT: A Decoupled Multi-Spectral Foundation Model for Earth Observation and Vision-Language Grounding](cards-0011.md#paper-153724) | 多光谱 dense 表征与全局视觉语言对比流分开。 |
+| 生成模型 | 流匹配 | [SphereFlow: Missing Modality Imputation via Geometric Transport on Hypersphere](cards-0011.md#paper-151633) | 缺模态时从已观测表示输运而非纯噪声启动。 |
+| 深度学习 | 表征学习 | [SPHERE-JEPA: Spherical Prediction with Homogeneous Embeddings](cards-0011.md#paper-148342) | 向量检索用户场景应比较均匀球嵌入。 |
+| 计算机视觉 | 异常检测 | [SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere](cards-0011.md#paper-152043) | 冻结视频特征用球面似然比判断离群。 |
+| 计算机视觉 | 三维视觉 | [Spherical Bayesian Experimental Design for Active View Selection in 3D Gaussian Splatting](cards-0011.md#paper-150195) | 主动选视角针对可观察球面外观计算信息。 |
+| 生成模型 | 流匹配 | [Spherical Flows for Sampling Categorical Data](cards-0011.md#paper-148878) | 类别生成可试单位球上的概率路径。 |
+| 多模态学习 | 检索增强 | [Spherical Interpolation for Backward-Compatible Multimodal Representations](cards-0011.md#paper-148719) | 图库不重建时插值新旧对齐查询。 |
+| 多模态学习 | 三维视觉 | [SphMind: Towards Robust, Training-Free VLM-based Spatial Reasoning with a 360 Camera](cards-0011.md#paper-155138) | 360 视觉推理建立跨包边界球面关系图。 |
+| 模型效率与系统 | 量化 | [SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models](cards-0011.md#paper-150740) | VLM 极低位比较免旋转球面权重量化。 |
+| 深度学习 | 异常检测 | [Spikes as Detectors: Phase-Conditioned Spiking Dynamics for Time-Series Anomaly Detection](cards-0011.md#paper-152294) | 周期异常用相位条件的脉冲活动作分数。 |
+| 科学机器学习 | 模型架构 | [SpikeSSL: A Universal Spike Inference Framework with Dynamics-Informed State-Space Layers](cards-0011.md#paper-153966) | 钙成像信号同时用符合其动力学的 IIR 层和条件化采样描述。 |
+| 科学机器学习 | 评测与诊断 | [Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks](cards-0011.md#paper-148673) | 检验时空涌现不能仅靠单一标度或事件统计。 |
+| 机器学习基础与统计 | 模型架构 | [SpikingGamma: Temporally Precise Online SNN Training Through Smoothed Temporal Delays](cards-0011.md#paper-150590) | 在线时序网络用平滑延迟状态保留历史，而不是完全依赖递归信用传播。 |
+| 机器学习基础与统计 | 训练策略 | [Spiking neural network initialization for scale-invariant maximization of entropy](cards-0011.md#paper-154218) | 脉冲初始化同时考虑时间递归、重置与跨层活动坍缩。 |
+| 科学机器学习 | 表征学习 | [Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks](cards-0011.md#paper-156130) | 三维等变基必须显式保留奇宇称与反对称耦合。 |
+| 大语言模型 | 推理策略 | [SPIRIT: Speed-Driven Online Adaptation for Self-Speculative Decoding](cards-0011.md#paper-155523) | 自推测在线配置优化直接以实际每秒生成 token 为目标。 |
+| 计算机视觉 | 模型架构 | [Splatting the Invisible: Geometry and Appearance Scene Completion from Sparse Views](cards-0011.md#paper-149531) | 不可见场景补全可在共享三维潜空间生成几何与外观。 |
+| 大语言模型 | 推理策略 | [SPLICE: Structured Prompt Local Iterative Combinatorial Evolution](cards-0011.md#paper-155679) | 自动提示优化冻结协议段，只开放可编辑区。 |
+| 科学机器学习 | 模型架构 | [SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants](cards-0011.md#paper-152305) | 同时通过多个时间边缘时，用局部构造的样条而非全局高阶多项式。 |
+| 多模态学习 | 推理策略 | [Split and Bridge: Multimodal Generation via Diffusion Bridging](cards-0011.md#paper-151356) | 多模态生成采样早期共享轨迹，后期保留各自解码器并桥接。 |
+| 强化学习 | 强化学习方法 | [Split-RL: Local Conflict Resolution in Reinforcement Learning](cards-0011.md#paper-152641) | 将相互冲突的策略更新按状态局部分区。 |
+| 强化学习 | 训练策略 | [Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation](cards-0011.md#paper-152147) | 多目标模仿只在专家行为冲突的状态拆头。 |
+| 计算机视觉 | 优化 | [Split Then Select: Moment-Preserving Density Control for Generalized Primitive Splatting](cards-0011.md#paper-155773) | 用保持渲染局部矩的几何拆分生成候选，再决定保留。 |
+| 大语言模型 | 推理策略 | [SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving](cards-0011.md#paper-148973) | 分离预填和解码时，用 GPU 无损编解码压缩传输中的 KV。 |
+| 智能体 | 评测与诊断 | [SpreadsheetBench 2: Evaluating Agents on End-to-End Business Spreadsheet Workflows](cards-0011.md#paper-139155) | 表格工作流先验收检查和定位阶段 |
+| 视觉与多模态 | 模型与架构 | [SpRePE: A Spherical Geometry-Aware Position Embedding scheme for Vision Transformers](cards-0011.md#paper-154280) | 全景视觉用与球面一致的位置编码 |
+| 大语言模型 | 强化学习与奖励 | [SPRING: Solver-guided Process Rewards for Novel Logical Reasoning Steps Generation](cards-0011.md#paper-150262) | 用符号求解器验逐步逻辑创新 |
+| 大语言模型 | 强化学习与奖励 | [SPRM: From Cooperative Games to Marginal-Contribution Process Reward Modeling](cards-0011.md#paper-149697) | 过程奖励用边际贡献重分配终局反馈 |
+| 具身智能与机器人 | 模型与架构 | [SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction](cards-0011.md#paper-153943) | 轨迹去噪过程中重建动态交互图 |
+| 视觉与多模态 | 评测与诊断 | [SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation](cards-0011.md#paper-139596) | 超分伪影按对人类可见影响评分 |
+| 大语言模型 | 训练与优化 | [Stability and Generalization in Looped Transformers](cards-0011.md#paper-154011) | 循环模型选召回路径前测前向与反向稳定性 |
+| 多模态学习 | 半监督学习 | [Stability-Aware Self-Training for CLIP under Cross-Modal Anchoring Mismatch](cards-0011.md#paper-149173) | CLIP 自训练按伪标签跨轮稳定性更新视觉原型。 |
+| 深度学习 | 时序建模 | [Stability-Constrained Regime-Aware Forecasting for Heterogeneous Panel Time Series](cards-0011.md#paper-153846) | 分模式预测同时约束专家和门。 |
+| 深度学习 | 联邦学习 | [Stability-Enhanced Federated Learning with Accelerated Gradient](cards-0011.md#paper-152554) | 加速联邦更新时监测样本替换稳定性。 |
+| 大语言模型 | 训练策略 | [Stability in Multi-Step Reasoning via Jacobian-based Error Accumulation Analysis](cards-0011.md#paper-151921) | 长推理同时降低步数及单步误差增益。 |
+| 大语言模型 | 评测与诊断 | [Stability Regimes for Framing-Sensitive Fine-Tuning in Language Models](cards-0011.md#paper-149842) | 语义同义框架做序贯决策压力测试。 |
+| 计算机视觉 | 模型鲁棒性 | [Stability-Weighted Direction Regularization Disentangles Generator Shortcuts from Detection Signal](cards-0011.md#paper-155837) | 检测生成痕迹按留一生成器稳定性正则。 |
+| 大语言模型 | 采样与推理 | [Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping](cards-0011.md#paper-152714) | 循环 Transformer 选择随机而非固定停止调度。 |
+| 多模态学习 | 表征学习 | [Stabilizing Few-Shot Object Detection with Language-Conditioned Probabilistic Prototypes](cards-0011.md#paper-149495) | 低样本检测给支持原型建不确定性。 |
+| 大语言模型 | 强化学习 | [Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR](cards-0011.md#paper-151790) | 高熵推理词与低熵事实词用不同更新边界。 |
+| 大语言模型 | 强化学习 | [Stabilizing Off-policy LLM Optimization with Prefix Importance Ratio](cards-0011.md#paper-149900) | 离策略偏差大时采用前缀重要性校正。 |
+| 大语言模型 | 强化学习 | [Stabilizing Policy Optimization via Logits Convexity](cards-0011.md#paper-148304) | 比较 RL 与 SFT 稳定时看 logits 目标几何。 |
+| 强化学习 | 搜索与规划 | [Stabilizing RL+Search for Imperfect-Information Extensive-Form Games](cards-0011.md#paper-153095) | 递归价值搜索随机化子博弈迭代预算。 |
+| 深度学习 | 参数高效微调 | [Stabilizing the Dynamic Low-Rank Training](cards-0011.md#paper-148261) | 动态低秩训练为截断遗漏方向保小缓冲。 |
+| 计算机视觉 | 三维视觉 | [Stable3R: Streaming 3D Reconstruction with Stable Geometric References](cards-0011.md#paper-154907) | 流式位姿由可更新的前缀锚定。 |
+| 深度学习 | 持续学习 | [STABLE: A Continual Learning Optimizer with Adaptive Drift Control](cards-0011.md#paper-154677) | 按当前近邻间隔给参数漂移设自适应约束。 |
+| 生成模型 | 强化学习 | [Stable and Granular Policy Optimization for Generative Recommendation](cards-0011.md#paper-153504) | 生成排序奖励仍需局部可诊断的更新。 |
+| 深度学习 | 优化算法 | [Stable and Scalable Probabilistic Numerical Solvers for Stiff and High-Dimensional ODEs](cards-0011.md#paper-150122) | 刚性概率 ODE 求解用隐式重线性化。 |
+| 生成模型 | 视频建模 | [StableAvatar: Ultra-Long Audio-Driven Avatar Video Generation](cards-0011.md#paper-154759) | 音频驱动长视频按去噪时间步调语音特征。 |
+| 生成模型 | 知识蒸馏 | [Stable Continuous-Time Consistency Distillation: An Empirical Study with a Multistep Extension](cards-0011.md#paper-157019) | 连续时间一致性蒸馏按采样段单独条件化。 |
+| 强化学习 | 训练策略 | [Stable GFlowNets with Probabilistic Guarantees](cards-0011.md#paper-150233) | GFlowNet 要同时检查轨迹损失和目标分布保真度。 |
+| 计算机视觉 | 表征学习 | [StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video](cards-0011.md#paper-155198) | 对被遮挡手的运动估计按每帧可靠度条件化。 |
+| 科学机器学习 | 模型架构 | [Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators](cards-0011.md#paper-154652) | 长期滚动只更新紧凑传播状态，细节通过共享解码恢复。 |
+| 机器学习基础与统计 | 优化 | [Stable Max Coverage Under a Cardinality Constraint](cards-0011.md#paper-156002) | 选取固定数量覆盖项时加入正则降低数据小变动造成的选择跳跃。 |
+| 图学习 | 模型架构 | [Stable Partial Order Constraints for Temporal Causal Structure Learning](cards-0011.md#paper-148586) | 动态因果图的偏序约束应建在时间展开表示上。 |
+| 科学机器学习 | 训练策略 | [Stable Resolution-Invariant Emulation in Entropically Controlled Kinetic Methods](cards-0011.md#paper-152770) | 粗网格预测显式约束熵耗散，避免未解尺度的能量回到网格。 |
+| 计算机视觉 | 训练策略 | [StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training](cards-0011.md#paper-151809) | 向量量化分词器分开稳住编码器与码本职责，然后检查联合训练。 |
+| 机器学习基础与统计 | 训练策略 | [STAC-R: Subspace-Tracked Activation Compression with Residuals](cards-0011.md#paper-148748) | 训练激活以低秩系数和稀疏量化残差保存，反传直接用因子算梯度。 |
+| 多模态学习 | 损失函数 | [StaDy: Factorizing the World into Static and Dynamic via Likelihood Matching](cards-0011.md#paper-149420) | 动态潜码只在配对源状态时帮助预测，单独不应泄露目标内容。 |
+| 图学习 | 训练策略 | [Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation](cards-0011.md#paper-149801) | 域适配分开处理传播前特征偏移和传播中的结构偏移。 |
+| 大语言模型 | 评测与诊断 | [StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns](cards-0011.md#paper-139841) | 长程代码测评固定可验证修改序列，交叉比较模型和代理框架。 |
+| 科学机器学习 | 训练策略 | [Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation](cards-0011.md#paper-150310) | 低资源脑电预训练可比较视觉与时序教师蒸馏和从头自监督。 |
+| 大语言模型 | 强化学习方法 | [STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens](cards-0011.md#paper-148439) | 序列奖励训练监控极少数 token 是否承担了不合理的大梯度。 |
+| 视觉与多模态 | 模型与架构 | [STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation](cards-0011.md#paper-153469) | 交错图文让视觉生成和文本共享因果缓存接口 |
+| 具身智能与机器人 | 模型与架构 | [StarWM:  Self-Supervised Trained Attention Routing for Robust World Models](cards-0011.md#paper-148796) | 世界模型重建前预测哪些视觉部位与动态相关 |
+| 视觉与多模态 | 生成与扩散 | [State Augmented Flows](cards-0011.md#paper-149218) | 低 NFE 流匹配增加运输中间状态信息 |
+| 智能体 | 评测与诊断 | [State Copying Crowds Out Reasoning: Mechanistic Evidence for Delta Planning in Autoregressive Models](cards-0011.md#paper-153030) | 长任务把状态维护移出生成链，只输出增量 |
+| 智能体 | 记忆与检索 | [StateLedger: Path-Addressed External Memory for Persistent Multi-Agent Systems](cards-0011.md#paper-151469) | 持久记忆用规范路径表达状态和修订 |
+| 大语言模型 | 记忆与检索 | [State-Resolving Attention for Length-Extrapolating Transformers](cards-0011.md#paper-148318) | 长上下文先定匹配内容再判哪个时间版本有效 |
+| 智能体 | 强化学习与奖励 | [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](cards-0011.md#paper-151920) | 长程记忆训练以短对话生成可验证树型追踪 |
+| 具身智能与机器人 | 效率与系统 | [Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models](cards-0011.md#paper-149986) | 多帧 VLA 给静态和运动信息不同缓存策略 |

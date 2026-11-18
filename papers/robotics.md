@@ -876,5 +876,8 @@
 - [SpatialVAM: Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy](../conferences/neurips-2026/cards-0011.md#paper-151702)
 - [Spectral Identifiability for World Models: Polynomial Projectors, Resolvent Stability, and a Krylov Bottleneck](../conferences/neurips-2026/cards-0011.md#paper-149561)
 - [Spectral Insights from the Unconstrained Feature Model for Neural Multi-Output Regression](../conferences/neurips-2026/cards-0011.md#paper-154057)
+- [SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction](../conferences/neurips-2026/cards-0011.md#paper-153943)
+- [StarWM:  Self-Supervised Trained Attention Routing for Robust World Models](../conferences/neurips-2026/cards-0011.md#paper-148796)
+- [Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models](../conferences/neurips-2026/cards-0011.md#paper-149986)
 
 <!-- conference-classification:end -->

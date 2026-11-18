@@ -388,5 +388,6 @@ Data selection, annotation, augmentation, and sampling.
 - [SkillCIR: Intent-Guided Skill Composition for Training-Free Composed Image Retrieval](../../conferences/neurips-2026/cards-0011.md#paper-149869)
 - [Social Choice Foundations for Simulation-Augmented Generation](../../conferences/neurips-2026/cards-0011.md#paper-148453)
 - [SODA: Selective Optimization with Deferred BN Alignment for Efficient Dataset Distillation](../../conferences/neurips-2026/cards-0011.md#paper-150571)
+- [Spherical Interpolation for Backward-Compatible Multimodal Representations](../../conferences/neurips-2026/cards-0011.md#paper-148719)
 
 <!-- conference-classification:end -->

@@ -609,5 +609,9 @@
 - [SPACE: Unifying Symmetric and Asymmetric Routing Problems for Generalist Neural Solver](../conferences/neurips-2026/cards-0011.md#paper-155167)
 - [Spectral-Aligned Pruning for Universal Error-Correcting Code Transformers](../conferences/neurips-2026/cards-0011.md#paper-151780)
 - [Spectral Alignment in Forward–Backward Representations via Temporal Abstraction](../conferences/neurips-2026/cards-0011.md#paper-149102)
+- [SPHERE-JEPA: Spherical Prediction with Homogeneous Embeddings](../conferences/neurips-2026/cards-0011.md#paper-148342)
+- [Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks](../conferences/neurips-2026/cards-0011.md#paper-156130)
+- [Stabilizing Few-Shot Object Detection with Language-Conditioned Probabilistic Prototypes](../conferences/neurips-2026/cards-0011.md#paper-149495)
+- [StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video](../conferences/neurips-2026/cards-0011.md#paper-155198)
 
 <!-- conference-classification:end -->

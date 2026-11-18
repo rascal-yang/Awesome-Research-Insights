@@ -399,5 +399,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Simmer: A Scalable Pretraining Recipe for Video-Text Encoders](../../conferences/neurips-2026/cards-0011.md#paper-154316)
 - [SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization](../../conferences/neurips-2026/cards-0011.md#paper-156008)
 - [Soft Token Alignment for Cross-Lingual Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-149550)
+- [StaDy: Factorizing the World into Static and Dynamic via Likelihood Matching](../../conferences/neurips-2026/cards-0011.md#paper-149420)
 
 <!-- conference-classification:end -->

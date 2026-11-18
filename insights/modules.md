@@ -456,5 +456,7 @@
 - [Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents](../conferences/neurips-2026/cards-0011.md#paper-154927)
 - [Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity](../conferences/neurips-2026/cards-0011.md#paper-155048)
 - [Spectral Measures of Mamba Conductances Predict and Shape Effective Receptive Fields](../conferences/neurips-2026/cards-0011.md#paper-153177)
+- [StateLedger: Path-Addressed External Memory for Persistent Multi-Agent Systems](../conferences/neurips-2026/cards-0011.md#paper-151469)
+- [State-Resolving Attention for Length-Extrapolating Transformers](../conferences/neurips-2026/cards-0011.md#paper-148318)
 
 <!-- conference-classification:end -->

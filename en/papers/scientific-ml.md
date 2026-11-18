@@ -681,5 +681,12 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Solver-as-Teacher: Solver-Guided On-Policy Post-Training Framework for PDE Foundation Models](../../conferences/neurips-2026/cards-0011.md#paper-151443)
 - [Space Group Conditional Flow Matching](../../conferences/neurips-2026/cards-0011.md#paper-152663)
 - [SPDEBench: An Extensive Benchmark for Learning Stochastic PDEs](../../conferences/neurips-2026/cards-0011.md#paper-139762)
+- [SpikeSSL: A Universal Spike Inference Framework with Dynamics-Informed State-Space Layers](../../conferences/neurips-2026/cards-0011.md#paper-153966)
+- [Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks](../../conferences/neurips-2026/cards-0011.md#paper-148673)
+- [Spin-Weighted Spherical Harmonics Enable Complete and Scalable E(3)-Equivariant Networks](../../conferences/neurips-2026/cards-0011.md#paper-156130)
+- [SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants](../../conferences/neurips-2026/cards-0011.md#paper-152305)
+- [Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators](../../conferences/neurips-2026/cards-0011.md#paper-154652)
+- [Stable Resolution-Invariant Emulation in Entropically Controlled Kinetic Methods](../../conferences/neurips-2026/cards-0011.md#paper-152770)
+- [Standing on the Shoulders of Giants: Rethinking EEG Foundation Model Pretraining via Multi-Teacher Distillation](../../conferences/neurips-2026/cards-0011.md#paper-150310)
 
 <!-- conference-classification:end -->

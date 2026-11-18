@@ -719,5 +719,14 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-153893)
 - [SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing](../../conferences/neurips-2026/cards-0011.md#paper-148740)
 - [Spectral Representations for Provably Robust Offline Meta-Reinforcement Learning from Bagged Rewards](../../conferences/neurips-2026/cards-0011.md#paper-148147)
+- [Split-RL: Local Conflict Resolution in Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-152641)
+- [SPRING: Solver-guided Process Rewards for Novel Logical Reasoning Steps Generation](../../conferences/neurips-2026/cards-0011.md#paper-150262)
+- [SPRM: From Cooperative Games to Marginal-Contribution Process Reward Modeling](../../conferences/neurips-2026/cards-0011.md#paper-149697)
+- [Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR](../../conferences/neurips-2026/cards-0011.md#paper-151790)
+- [Stabilizing Off-policy LLM Optimization with Prefix Importance Ratio](../../conferences/neurips-2026/cards-0011.md#paper-149900)
+- [Stabilizing Policy Optimization via Logits Convexity](../../conferences/neurips-2026/cards-0011.md#paper-148304)
+- [Stable and Granular Policy Optimization for Generative Recommendation](../../conferences/neurips-2026/cards-0011.md#paper-153504)
+- [STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens](../../conferences/neurips-2026/cards-0011.md#paper-148439)
+- [StateTree: Enhancing Long-term Dialogue Reasoning via Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-151920)
 
 <!-- conference-classification:end -->

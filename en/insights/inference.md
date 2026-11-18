@@ -1398,5 +1398,17 @@ Decoding, test-time adaptation, and efficient execution.
 - [SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation](../../conferences/neurips-2026/cards-0011.md#paper-152867)
 - [SPECS: Faster Test-Time Scaling through Speculative Drafts and Dynamic Switching](../../conferences/neurips-2026/cards-0011.md#paper-155889)
 - [Spectral Progressive Diffusion for Efficient Image and Video Generation](../../conferences/neurips-2026/cards-0011.md#paper-151007)
+- [Speculative Decoding Is Per-Token, Not Path](../../conferences/neurips-2026/cards-0011.md#paper-150210)
+- [Speeding up Log-Sum-Exp: Kernel Fusion at the Memory Wall, Integer Arithmetic at the Compute Wall](../../conferences/neurips-2026/cards-0011.md#paper-151791)
+- [Speed Predictions for Online Energy-Efficient Scheduling](../../conferences/neurips-2026/cards-0011.md#paper-148614)
+- [Spend Only What You Need: Defect-Aware Residual Coverage for Efficient Multi-Agent Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-151467)
+- [SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models](../../conferences/neurips-2026/cards-0011.md#paper-150740)
+- [SPIRIT: Speed-Driven Online Adaptation for Self-Speculative Decoding](../../conferences/neurips-2026/cards-0011.md#paper-155523)
+- [SPLICE: Structured Prompt Local Iterative Combinatorial Evolution](../../conferences/neurips-2026/cards-0011.md#paper-155679)
+- [Split and Bridge: Multimodal Generation via Diffusion Bridging](../../conferences/neurips-2026/cards-0011.md#paper-151356)
+- [SplitZip: Ultra Fast Lossless KV Compression for Disaggregated LLM Serving](../../conferences/neurips-2026/cards-0011.md#paper-148973)
+- [Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping](../../conferences/neurips-2026/cards-0011.md#paper-152714)
+- [Stabilizing RL+Search for Imperfect-Information Extensive-Form Games](../../conferences/neurips-2026/cards-0011.md#paper-153095)
+- [State Augmented Flows](../../conferences/neurips-2026/cards-0011.md#paper-149218)
 
 <!-- conference-classification:end -->

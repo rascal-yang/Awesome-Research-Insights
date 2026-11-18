@@ -577,5 +577,15 @@ Model-wide design and information flow.
 - [Sparse Koopman Autoencoders Identify Local Dynamical Regimes in Multibasin Systems](../../conferences/neurips-2026/cards-0011.md#paper-149627)
 - [SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization](../../conferences/neurips-2026/cards-0011.md#paper-148346)
 - [Spectral Transformer Neural Processes](../../conferences/neurips-2026/cards-0011.md#paper-154075)
+- [SpikeSSL: A Universal Spike Inference Framework with Dynamics-Informed State-Space Layers](../../conferences/neurips-2026/cards-0011.md#paper-153966)
+- [SpikingGamma: Temporally Precise Online SNN Training Through Smoothed Temporal Delays](../../conferences/neurips-2026/cards-0011.md#paper-150590)
+- [Splatting the Invisible: Geometry and Appearance Scene Completion from Sparse Views](../../conferences/neurips-2026/cards-0011.md#paper-149531)
+- [SplineFlow: Flow Matching for Dynamical Systems with B-Spline Interpolants](../../conferences/neurips-2026/cards-0011.md#paper-152305)
+- [SpRePE: A Spherical Geometry-Aware Position Embedding scheme for Vision Transformers](../../conferences/neurips-2026/cards-0011.md#paper-154280)
+- [SRA: Spatial Reasoning Adapter via Evolving Social Interaction Graphs for Trajectory Prediction](../../conferences/neurips-2026/cards-0011.md#paper-153943)
+- [Stable Long-Horizon PDE Forecasting via Latent Structured Spectral Propagators](../../conferences/neurips-2026/cards-0011.md#paper-154652)
+- [Stable Partial Order Constraints for Temporal Causal Structure Learning](../../conferences/neurips-2026/cards-0011.md#paper-148586)
+- [STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation](../../conferences/neurips-2026/cards-0011.md#paper-153469)
+- [StarWM:  Self-Supervised Trained Attention Routing for Robust World Models](../../conferences/neurips-2026/cards-0011.md#paper-148796)
 
 <!-- conference-classification:end -->
