@@ -104,9 +104,9 @@ number	openreview_id	title	paper_url	reason	status
 103	DBLXUxxslN	FlashRFCL: Demonstration-Efficient Sparse Reward RL via Reverse-Forward Curriculum Learning in High-Throughput GPU Simulation	https://openreview.net/forum?id=DBLXUxxslN		pending
 104	0ua1KHFIUD	HiRE: Hindsight Reward Editing for Policy Finetuning	https://openreview.net/forum?id=0ua1KHFIUD	用成功与失败轨迹回看并修正误导控制的进度奖励	included
 105	U3Nmrhun8B	EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models	https://openreview.net/forum?id=U3Nmrhun8B	动作块中只覆盖人工纠正的时间段并保存实际执行块	included
-106	z5Mgc1GGjP	Scaling Sim-to-Real VLA Reinforcement Learning with Generative 3D Worlds	https://openreview.net/forum?id=z5Mgc1GGjP		pending
+106	z5Mgc1GGjP	Scaling Sim-to-Real VLA Reinforcement Learning with Generative 3D Worlds	https://openreview.net/forum?id=z5Mgc1GGjP	用生成式交互场景增加微调时的环境覆盖	included
 107	GFxjqZVSND	M3P-R1: Reinforcement Learning for Large Language Model Guided Multi-Modal Motion Planning via MIP Code Generation	https://openreview.net/forum?id=GFxjqZVSND	让模型生成可由求解器验证的规划约束	included
-108	9I9DPyr2f9	Training Robots to Reason in Natural Language via Reinforcement Learning	https://openreview.net/forum?id=9I9DPyr2f9		pending
+108	9I9DPyr2f9	Training Robots to Reason in Natural Language via Reinforcement Learning	https://openreview.net/forum?id=9I9DPyr2f9	用离线动作评分训练生成自由文本指导的高层模型	included
 109	2vDRocNuih	PAKT: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning	https://openreview.net/forum?id=2vDRocNuih	采集时约束人工引导轨迹以匹配部署执行接口	included
 110	9seU2kEIxR	Q-OIL: Optimistic Exploration in Learning from Human Interventions	https://openreview.net/forum?id=9seU2kEIxR		pending
 111	s8ZiyIAn3z	Self-play is not enough: human imitation improves self-play autonomy in the wild	https://openreview.net/forum?id=s8ZiyIAn3z		pending
