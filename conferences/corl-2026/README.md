@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **128 / 687** 篇，当前收录 **125** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **133 / 687** 篇，当前收录 **129** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -131,3 +131,7 @@
 | 具身智能 | 动作表示 | [Foci Policy](cards.md#paper-aztnrtznof) | 只学习关键交互时段内的物体间相对运动 |
 | 具身智能 / 强化学习 | 策略优化 | [Interaction-weighted Resampling](cards.md#paper-qlhhholka7) | 在接触改变动力学的前中后阶段重新分配对比样本 |
 | 具身智能 / 多模态 | 数据增强 | [SIDO](cards.md#paper-mqly5j6pnd) | 用静态示范合成指向未来物体位姿的动作块 |
+| 具身智能 / 多模态 | 扩散策略 | [Compositional Diffusion Policy for Vision–Language–Action Agents](cards.md#paper-y55ijjxmsh) | 将动作生成的任务语义和可微物理约束分开建模，以便测试未见任务组合。 |
+| 具身智能 / 多模态 | 评测与诊断 | [RoboAffect: Egocentric Emotion Reasoning for Robot Companions in Shared Viewing](cards.md#paper-xwoyo2bpcl) | 测量机器人视角采集对多模态任务的性能损失，据此决定是否采集视角匹配的训练数据。 |
+| 具身智能 / 强化学习 | 策略优化 | [Self-play is not enough: human imitation improves self-play autonomy in the wild](cards.md#paper-s8ziyian3z) | 在自博弈策略部署前，测试用真人日志修正行为分布，同时用冻结策略 KL 约束保留原有能力。 |
+| 具身智能 / 机器人学习 | 数据采集 | [SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation](cards.md#paper-penaq22jh1) | 设计共享的关节增量动作接口，使穿戴示范和遥操作数据能在同一策略中混用。 |

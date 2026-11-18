@@ -43,7 +43,7 @@ number	openreview_id	title	paper_url	reason	status
 42	iy5oCeLdEF	ELA: End-to-End Latent Action Policy Learning from Video Demonstrations	https://openreview.net/forum?id=iy5oCeLdEF	用下游控制与解码目标一起训练视频潜动作	included
 43	ghx1d6PQUR	HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model	https://openreview.net/forum?id=ghx1d6PQUR	用少量配对示范对齐人机视觉后再混训潜动作	included
 44	yNHgrgATuY	FIBERTUNE: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning	https://openreview.net/forum?id=yNHgrgATuY	将动作可预测方向滤除后再蒸馏视觉残差	included
-45	Y55iJjxMsh	Compositional Diffusion Policy for Vision–Language–Action Agents	https://openreview.net/forum?id=Y55iJjxMsh		pending
+45	Y55iJjxMsh	Compositional Diffusion Policy for Vision–Language–Action Agents	https://openreview.net/forum?id=Y55iJjxMsh	将动作生成的任务语义和可微物理约束分开建模，以便测试未见任务组合。	included
 46	03qRtmw4qx	Learning Additively Compositional Latent Actions for Embodied AI	https://openreview.net/forum?id=03qRtmw4qx	通过跨时间可加约束减少潜动作对场景外观的依赖	included
 47	JKoP9L6myQ	PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning	https://openreview.net/forum?id=JKoP9L6myQ	显式分开潜动作的变化幅度与变化类别	included
 48	XnIdgAtBX7	Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead	https://openreview.net/forum?id=XnIdgAtBX7	用跨域一致的未来表征监督策略	included
@@ -85,9 +85,9 @@ number	openreview_id	title	paper_url	reason	status
 84	nXfwmrzXzz	An Agentic Framework for Proactive Robots with Procedural Assistance Memory	https://openreview.net/forum?id=nXfwmrzXzz	把个性化帮助规则写成可修订的事件状态机	included
 85	v4QUDwGroQ	COOL: Curiosity-Driven Object Ownership Learning for Personalized Robotic Assistance	https://openreview.net/forum?id=v4QUDwGroQ		pending
 86	m0Zqqi9Lfr	AI Coaching for Accelerating Human Skill Development with Reinforcement Learning	https://openreview.net/forum?id=m0Zqqi9Lfr		pending
-87	xWoyO2BPcl	RoboAffect: Egocentric Emotion Reasoning for Robot Companions in Shared Viewing	https://openreview.net/forum?id=xWoyO2BPcl		pending
+87	xWoyO2BPcl	RoboAffect: Egocentric Emotion Reasoning for Robot Companions in Shared Viewing	https://openreview.net/forum?id=xWoyO2BPcl	测量机器人视角采集对多模态任务的性能损失，据此决定是否采集视角匹配的训练数据。	included
 88	aILPNAxgHb	Eye, Robot: Learning Expressive Gaze Dynamics via a VLM-Guided Transformer-VAE	https://openreview.net/forum?id=aILPNAxgHb		pending
-89	Tk20sRMzhv	Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation	https://openreview.net/forum?id=Tk20sRMzhv		pending
+89	Tk20sRMzhv	Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation	https://openreview.net/forum?id=Tk20sRMzhv	摘要中的可识别方法增量是将带 RoPE 的编码器–解码器和流匹配应用于个人化肌电轨迹处方，未给出可迁移的独立机制或对照规律。	excluded
 90	HfHTPpDBYr	Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards	https://openreview.net/forum?id=HfHTPpDBYr	针对示范中监督不足的奖励特征生成并解释偏好问题	included
 91	Gpc0nCixhZ	Learning Coordinated Visuomotor Box-Pushing from Solo Demonstrations	https://openreview.net/forum?id=Gpc0nCixhZ	分开测试单机示范能传授什么以及协作数据仍缺什么	included
 92	2vx7I6aRPS	PIVOT: Policy Improvement via Trust-Region Optimization from Deployment Experience	https://openreview.net/forum?id=2vx7I6aRPS	在流匹配后训练中按带符号优势吸引或排斥部署数据	included
@@ -109,7 +109,7 @@ number	openreview_id	title	paper_url	reason	status
 108	9I9DPyr2f9	Training Robots to Reason in Natural Language via Reinforcement Learning	https://openreview.net/forum?id=9I9DPyr2f9	用离线动作评分训练生成自由文本指导的高层模型	included
 109	2vDRocNuih	PAKT: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning	https://openreview.net/forum?id=2vDRocNuih	采集时约束人工引导轨迹以匹配部署执行接口	included
 110	9seU2kEIxR	Q-OIL: Optimistic Exploration in Learning from Human Interventions	https://openreview.net/forum?id=9seU2kEIxR	用真实停滞干预数据校准模拟人类，并重访有信息的状态	included
-111	s8ZiyIAn3z	Self-play is not enough: human imitation improves self-play autonomy in the wild	https://openreview.net/forum?id=s8ZiyIAn3z		pending
+111	s8ZiyIAn3z	Self-play is not enough: human imitation improves self-play autonomy in the wild	https://openreview.net/forum?id=s8ZiyIAn3z	在自博弈策略部署前，测试用真人日志修正行为分布，同时用冻结策略 KL 约束保留原有能力。	included
 112	MQdt80qzTP	A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control	https://openreview.net/forum?id=MQdt80qzTP	按当前成功率筛选训练起点与任务配置	included
 113	JqZEEaNDLJ	HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning	https://openreview.net/forum?id=JqZEEaNDLJ	本轮排除。标准化命令、阶段检查和并行试验主要组成强化学习工程流程，现有摘要未指出能独立验证的学习或搜索机制。	excluded
 114	RS2INStAhX	Telescopes are Optomechanical Robots: Training Compositional Visuomotor Policies for Coordinated Control	https://openreview.net/forum?id=RS2INStAhX		pending
@@ -124,7 +124,7 @@ number	openreview_id	title	paper_url	reason	status
 123	qHndjmxgs1	GeoHAT: Geometry-Adaptive Hybrid Action Transformer for Mobile Manipulation	https://openreview.net/forum?id=qHndjmxgs1	仅在深度可信的位置向视觉主干注入三维特征	included
 124	Nfz7oM0Vwz	InCoM: Intent-Driven Perception and Structured Coordination for Mobile Manipulation	https://openreview.net/forum?id=Nfz7oM0Vwz	按潜在运动意图重加权移动操作的多尺度视觉特征	included
 125	ORKJlyLOHv	Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance	https://openreview.net/forum?id=ORKJlyLOHv	用单向条件耦合底座和臂的残差更新	included
-126	pENAQ22Jh1	SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation	https://openreview.net/forum?id=pENAQ22Jh1		pending
+126	pENAQ22Jh1	SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation	https://openreview.net/forum?id=pENAQ22Jh1	设计共享的关节增量动作接口，使穿戴示范和遥操作数据能在同一策略中混用。	included
 127	4M7C3PsA78	Look Before You Move: Agent-Interface-Aligned Supervision for Open-World Mobile Manipulation	https://openreview.net/forum?id=4M7C3PsA78	直接用部署时可用的观测和技能接口采教师示范	included
 128	xOhVCWilYJ	More than a Point: Adaptive Affordance Heatmaps as VLM Grounding Interfaces for Robotics	https://openreview.net/forum?id=xOhVCWilYJ	对具有多个可行位置的指令输出稠密空间得分图	included
 129	kGLogzKtYq	GROW2: Grounding Which and Where for Robot Tool Use	https://openreview.net/forum?id=kGLogzKtYq	通过部件语义把工具选择与三维接触定位分开	included

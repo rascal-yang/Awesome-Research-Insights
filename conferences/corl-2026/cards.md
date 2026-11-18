@@ -1876,3 +1876,63 @@
 - **适用条件 / 局限** · 几何变换不会自动满足接触、碰撞与动态约束，预测延迟和误差会影响效果。
 
 **可复用机制** · 固定预测器，比较无增强和反事实姿态增强，再按速度及目标预测误差分层报告静态与动态成功率。
+
+<a id="paper-y55ijjxmsh"></a>
+
+## Compositional Diffusion Policy for Vision–Language–Action Agents
+
+[会议记录](https://openreview.net/forum?id=Y55iJjxMsh) · [原文](https://openreview.net/pdf?id=Y55iJjxMsh)
+
+- **问题 / 瓶颈** · 把语义和物理条件压入同一表示会妨碍重组，也难以显式限制动作可行性。
+- **核心创新 / 方法** · 对多模态输入拆分语义因子并建模为隐式能量，同时将运动平滑性和运动学可操作性写成可微能量，共同引导轨迹去噪。
+- **Baseline** · 基于扩散策略；作者摘要未列出具体比较方法。
+- **Benchmark** · 公开基准和真机实验，考察组合泛化与物理有效性；摘要未列名称和指标定义。
+- **关键结果 / 消融** · 作者报告两类表现均提升，并消融各部分；摘要未报告幅度。
+- **适用条件 / 局限** · 物理项依赖可计算的约束，跨机器人效果未在摘要说明。
+
+**可复用机制** · 更换机器人时单独替换物理能量项，在固定语义因子的未见组合上分别测任务成功与可行性。
+
+<a id="paper-xwoyo2bpcl"></a>
+
+## RoboAffect: Egocentric Emotion Reasoning for Robot Companions in Shared Viewing
+
+[会议记录](https://openreview.net/forum?id=xWoyO2BPcl) · [原文](https://openreview.net/pdf?id=xWoyO2BPcl)
+
+- **问题 / 瓶颈** · 原视频训练和机器人摄像头实拍之间存在视角偏移，且情绪标签有歧义。
+- **核心创新 / 方法** · ESE 对同类刺激设置 18 种采集条件，并以多人置信度聚合与标签平滑训练视觉、音频、叙事模型。
+- **Baseline** · 比较原片到第一视角的迁移、Gemini-2.5-Flash 零样本和人类留一参考；摘要未报告直接改进的模型。
+- **Benchmark** · ESE 包含 224 部预告片和 28,667 帧，报告 Macro-F1 与 Fleiss κ；另有四足平台端到端演示。
+- **关键结果 / 消融** · Raw→FPV 的 Macro-F1 从 28.06 降至 14.64；完整模型 32.74，Gemini-2.5-Flash 23.50；整体 κ 0.34，高置信子集 0.72。
+- **适用条件 / 局限** · 量化结果来自共看预告片任务，迁移到其他视觉任务需要重复采集对照。
+
+**可复用机制** · 固定原始刺激，系统改变机载相机位置，比较匹配和跨视角测试以估计部署时的传感分布偏移。
+
+<a id="paper-s8ziyian3z"></a>
+
+## Self-play is not enough: human imitation improves self-play autonomy in the wild
+
+[会议记录](https://openreview.net/forum?id=s8ZiyIAn3z) · [原文](https://openreview.net/pdf?id=s8ZiyIAn3z)
+
+- **问题 / 瓶颈** · 自博弈可形成避障行为，但未覆盖真实驾驶员行为分布。
+- **核心创新 / 方法** · 把专家轨迹距离加入原 PPO 奖励，在闭环日志回放中微调自车策略，并用冻结自博弈策略作 KL 参考。
+- **Baseline** · 基于带 advantage filtering 的 PPO 自博弈策略；比较延长自博弈、BC、BC+RL、人类正则化 PPO。
+- **Benchmark** · nuPlan Val14 闭环测 ADE、FDE、碰撞、越界、闯红灯和舒适度；公开道路测安全接管间隔。
+- **关键结果 / 消融** · ADE 9.4→8.0 米，碰撞 6.4%→3.9%；道路接管间隔由 0.57 增至 1.46 英里。作者摘要未报告独立 KL 消融幅度。
+- **适用条件 / 局限** · 离线回放中的其他交通参与者按日志重放，无法响应自车的反事实行为。
+
+**可复用机制** · 评估仿真策略适应人类行为时，固定强化学习算法，比对专家奖励与冻结策略正则各自对人类相似度和安全的影响。
+
+<a id="paper-penaq22jh1"></a>
+
+## SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation
+
+[会议记录](https://openreview.net/forum?id=pENAQ22Jh1) · [原文](https://openreview.net/pdf?id=pENAQ22Jh1)
+
+- **问题 / 瓶颈** · 移动操作需要底盘和机械臂协同，采集模式间动作结构不一致会阻碍示范混用。
+- **核心创新 / 方法** · 两种模式共用同构穿戴臂，将踏步映射为连续平面底盘速度，机械臂动作采用对关节零位偏移不敏感的增量。
+- **Baseline** · 比较遥操作采集与主动穿戴示范；固定数据量替换示范来源；摘要未列策略架构。
+- **Benchmark** · 真机长程移动操作，测示范吞吐量、固定数据量时的策略表现和随数据量变化的趋势。
+- **关键结果 / 消融** · 主动示范吞吐量为遥操作的 2.6 倍；等量替换表现相当，增加主动示范量表现继续上升。
+- **适用条件 / 局限** · 依赖穿戴臂与机器人关节同构；不同构型或接触反馈差异较大时需重新验证。
+
+**可复用机制** · 在设计多来源示范管线时统一关节增量表示，先等量换源估计分布差，再决定新增采集预算。
