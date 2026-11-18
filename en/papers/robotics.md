@@ -137,6 +137,7 @@ Robot perception, policy learning, planning, and control.
 - <a id="wang26kz-training-strategies"></a>[Co-Evolving Latent Action World Models](../../conferences/icml-2026/cards/4801-4900.md#paper-wang26kz)
 - <a id="wu26m-training-strategies"></a>[VLANeXt: Recipes for Building Strong VLA Models](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26m)
 - <a id="wu26ck-training-strategies"></a>[PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26ck)
+- <a id="xin26a-training-strategies"></a>[Instruction Decomposition and Action Alignment for Vision-and-Language Navigation](../../conferences/icml-2026/cards/5101-5200.md#paper-xin26a)
 
 <a id="by-data-strategies"></a>
 

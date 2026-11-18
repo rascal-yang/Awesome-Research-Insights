@@ -468,6 +468,7 @@
 - <a id="xi26f-inference"></a>[Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization](../conferences/icml-2026/cards/5001-5100.md#paper-xi26f)
 - <a id="xia26b-inference"></a>[Factored Classifier-Free Guidance](../conferences/icml-2026/cards/5101-5200.md#paper-xia26b)
 - <a id="xia26i-inference"></a>[Boost the Identity-Preserving Embedding for Consistent Visual Generation](../conferences/icml-2026/cards/5101-5200.md#paper-xia26i)
+- <a id="xie26ab-inference"></a>[AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion](../conferences/icml-2026/cards/5101-5200.md#paper-xie26ab)
 
 <a id="by-representation-learning"></a>
 
@@ -532,6 +533,7 @@
 - <a id="wang26gp-representation-learning"></a>[FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](../conferences/icml-2026/cards/4701-4800.md#paper-wang26gp)
 - <a id="wang26it-representation-learning"></a>[Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection](../conferences/icml-2026/cards/4801-4900.md#paper-wang26it)
 - <a id="wei26e-representation-learning"></a>[SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](../conferences/icml-2026/cards/4901-5000.md#paper-wei26e)
+- <a id="xing26i-representation-learning"></a>[Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics](../conferences/icml-2026/cards/5101-5200.md#paper-xing26i)
 
 <a id="by-evaluation"></a>
 

@@ -151,6 +151,7 @@ Training schedules, curricula, and task or stage composition.
 - [Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](../../conferences/icml-2026/cards/5001-5100.md#wu26as-training-strategies) · 中文
 - [Adversarial Latent Embedding Repair for LLM Continual Learning](../../conferences/icml-2026/cards/5101-5200.md#xia26j-training-strategies) · 中文
 - [FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources](../../conferences/icml-2026/cards/5101-5200.md#xiao26p-training-strategies) · 中文
+- [PretrainZero: Reinforcement Active Learning on Pretraining Data](../../conferences/icml-2026/cards/5101-5200.md#xing26c-training-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -276,6 +277,7 @@ Training schedules, curricula, and task or stage composition.
 - [Co-Evolving Latent Action World Models](../../conferences/icml-2026/cards/4801-4900.md#wang26kz-training-strategies) · 中文
 - [VLANeXt: Recipes for Building Strong VLA Models](../../conferences/icml-2026/cards/5001-5100.md#wu26m-training-strategies) · 中文
 - [PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation](../../conferences/icml-2026/cards/5001-5100.md#wu26ck-training-strategies) · 中文
+- [Instruction Decomposition and Action Alignment for Vision-and-Language Navigation](../../conferences/icml-2026/cards/5101-5200.md#xin26a-training-strategies) · 中文
 
 <a id="by-multimodal"></a>
 

@@ -80,6 +80,7 @@
 - <a id="wang26fy-architecture"></a>[ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence](../conferences/icml-2026/cards/4701-4800.md#paper-wang26fy)
 - <a id="whittle26a-architecture"></a>[Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](../conferences/icml-2026/cards/4901-5000.md#paper-whittle26a)
 - <a id="woerner26a-architecture"></a>[Universal Algorithm-Implicit Learning](../conferences/icml-2026/cards/4901-5000.md#paper-woerner26a)
+- <a id="xie26aa-architecture"></a>[mHC: Manifold-Constrained Hyper-Connections](../conferences/icml-2026/cards/5101-5200.md#paper-xie26aa)
 
 <a id="by-modules"></a>
 
@@ -445,6 +446,7 @@
 - <a id="wei26aj-optimization"></a>[A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization](../conferences/icml-2026/cards/4901-5000.md#paper-wei26aj)
 - <a id="wu26bb-optimization"></a>[Score Correction for Generative Models with Probabilistic Constraints](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bb)
 - <a id="xiao26i-optimization"></a>[Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training](../conferences/icml-2026/cards/5101-5200.md#paper-xiao26i)
+- <a id="xin26b-optimization"></a>[FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning](../conferences/icml-2026/cards/5101-5200.md#paper-xin26b)
 
 <a id="by-reinforcement-learning"></a>
 
@@ -763,6 +765,7 @@
 - <a id="wilson26a-evaluation"></a>[Is the Last Layer Sufficient for Uncertainty Quantification?](../conferences/icml-2026/cards/4901-5000.md#paper-wilson26a)
 - <a id="witter26a-evaluation"></a>[Exactly Computing do-Shapley Values](../conferences/icml-2026/cards/4901-5000.md#paper-witter26a)
 - <a id="wu26u-evaluation"></a>[An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks](../conferences/icml-2026/cards/5001-5100.md#paper-wu26u)
+- <a id="xing26a-evaluation"></a>[pTNAS: Progressive Neural Architecture Search for Tabular Data](../conferences/icml-2026/cards/5101-5200.md#paper-xing26a)
 
 <a id="by-theory-statistics"></a>
 
@@ -1172,4 +1175,5 @@
 - <a id="wu26br-theory-statistics"></a>[Trajectory-Aware Certified Decentralized Unlearning via SGD Stability](../conferences/icml-2026/cards/5001-5100.md#paper-wu26br)
 - <a id="wu26bs-theory-statistics"></a>[Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting](../conferences/icml-2026/cards/5001-5100.md#paper-wu26bs)
 - <a id="wu26ce-theory-statistics"></a>[What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression](../conferences/icml-2026/cards/5001-5100.md#paper-wu26ce)
+- <a id="xie26ad-theory-statistics"></a>[Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer](../conferences/icml-2026/cards/5101-5200.md#paper-xie26ad)
 <!-- classification:end -->

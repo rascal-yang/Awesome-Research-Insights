@@ -91,6 +91,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection](../../conferences/icml-2026/cards/5001-5100.md#wu26d-data-strategies) · 中文
 - [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](../../conferences/icml-2026/cards/5001-5100.md#wu26al-data-strategies) · 中文
 - [Hybrid-Gym: Training Coding Agents to Generalize Across Tasks](../../conferences/icml-2026/cards/5101-5200.md#xie26p-data-strategies) · 中文
+- [Probing How Scalable Table Data Enhances General Long-Context Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xie26ae-data-strategies) · 中文
 
 <a id="by-computer-vision"></a>
 

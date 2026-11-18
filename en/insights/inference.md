@@ -464,6 +464,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization](../../conferences/icml-2026/cards/5001-5100.md#xi26f-inference) · 中文
 - [Factored Classifier-Free Guidance](../../conferences/icml-2026/cards/5101-5200.md#xia26b-inference) · 中文
 - [Boost the Identity-Preserving Embedding for Consistent Visual Generation](../../conferences/icml-2026/cards/5101-5200.md#xia26i-inference) · 中文
+- [AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion](../../conferences/icml-2026/cards/5101-5200.md#xie26ab-inference) · 中文
 
 <a id="by-nlp"></a>
 
@@ -652,6 +653,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration](../../conferences/icml-2026/cards/5101-5200.md#xian26c-inference) · 中文
 - [MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs](../../conferences/icml-2026/cards/5101-5200.md#xiao26w-inference) · 中文
 - [Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy](../../conferences/icml-2026/cards/5101-5200.md#xie26m-inference) · 中文
+- [Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering](../../conferences/icml-2026/cards/5101-5200.md#xing26e-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -725,6 +727,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Information-Geometric Adaptive Sampling for Graph Diffusion](../../conferences/icml-2026/cards/3001-3100.md#lu26s-inference) · 中文
 - [SimGFM: Simplifying Discrete Flow Matching for Graph Generation](../../conferences/icml-2026/cards/3001-3100.md#luo26s-inference) · 中文
 - [Amortizing Maximum Inner Product Search with Learned Support Functions](../../conferences/icml-2026/cards/3501-3600.md#olausson26a-inference) · 中文
+- [Variational Bayesian Flow Network for Graph Generation](../../conferences/icml-2026/cards/5101-5200.md#xiong26a-inference) · 中文
 
 <a id="by-scientific-ml"></a>
 

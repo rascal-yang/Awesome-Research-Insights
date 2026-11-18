@@ -435,6 +435,7 @@
 - [指数对偶变量的镜像近端更新](../conferences/icml-2026/cards/4901-5000.md#wei26aj-optimization) · A Geometry-Aware Efficient Algorithm for Compositional Entropic Risk Minimization
 - [随机变换边际的双对偶score修正](../conferences/icml-2026/cards/5001-5100.md#wu26bb-optimization) · Score Correction for Generative Models with Probabilistic Constraints
 - [在模拟训练中跟踪对称点](../conferences/icml-2026/cards/5101-5200.md#xiao26i-optimization) · Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training
+- [最大密度间隔选择联邦邻域](../conferences/icml-2026/cards/5101-5200.md#xin26b-optimization) · FedVeer: Self-Adaptive Skew Estimation for Robust Federated Learning
 
 <a id="by-graph-and-recommendation"></a>
 

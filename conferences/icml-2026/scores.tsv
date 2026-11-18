@@ -5170,26 +5170,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5169	xie26x							初筛，原文与先例核查待补：缓存PDF4由self-play prompt population、TrueSkill tournament、成功失败反思记忆ADD/UPDATE/DELETE及prioritized state replay组合。当前未给超出已有进化prompt/反思记忆/重放的新独立信用分配或优化规则，2,000局与均值/方差收益不足单独保留；初筛排除，最近game context optimizer与同搜索/rollout预算、perfect-information负结果待核。	rule-excluded
 5170	xie26y	2	4	3	2	56		初筛，原文与先例核查待补：暂定评分依据：细粒度CLIP可在图文目标外增加text-only近邻排斥：跳过几乎重复描述，压低其余高相似caption的cosine，直接训练文本分辨能力。；可用性/独立性边界：排斥近义真实描述可能破坏语义一致，>.95阈值并不能证明剩下均为负样本；该式是text repulsion而非有显式正对的InfoNCE。候选hard-negative采样/温度、跨语言同义句控制和新增目标必要性待核。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xie26y/xie26y.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xie26y/xie26y.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xie26y/xie26y.pdf#page=5)	scored
 5171	xie26z	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：推理早停可先在well-posed完整轨迹上取prefix不确定性最大值，再校准一个全程阈值，控制同分布正常问题被截停的概率；不直接保证答案正确。；可用性/独立性边界：maxwise保证需exchangeable完整校准/测试轨迹，OOD shift实验不继承无条件保证；FPR是正常query被停概率而非答案错误率。prompt baseline却用准确率下降代替FPR，指标不可直接同义比较；词表模型/语言漂移待核。；初筛整理，原文与先例尚未统一核查。[原文第3页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xie26z/xie26z.pdf#page=3)；[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xie26z/xie26z.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/xie26z/xie26z.pdf#page=5)	scored
-5172	xie26aa							待原文复核评分	pending
-5173	xie26ab							待原文复核评分	pending
-5174	xie26ac							待原文复核评分	pending
-5175	xie26ad							待原文复核评分	pending
-5176	xie26ae							待原文复核评分	pending
-5177	xin26a							待原文复核评分	pending
-5178	xin26b							待原文复核评分	pending
-5179	xin26c							待原文复核评分	pending
-5180	xin26d							待原文复核评分	pending
-5181	xing26a							待原文复核评分	pending
-5182	xing26b							待原文复核评分	pending
-5183	xing26c							待原文复核评分	pending
-5184	xing26d							待原文复核评分	pending
-5185	xing26e							待原文复核评分	pending
-5186	xing26f							待原文复核评分	pending
-5187	xing26g							待原文复核评分	pending
-5188	xing26h							待原文复核评分	pending
-5189	xing26i							待原文复核评分	pending
-5190	xiong26a							待原文复核评分	pending
-5191	xiong26b							待原文复核评分	pending
+5172	xie26aa	3	4	4	4	73		初筛，原文与先例核查待补：双随机残差流混合有明确局部操作或控制经验，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、6、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5173	xie26ab	3	4	3	3	66		初筛，原文与先例核查待补：掩码势场控制注意力几何有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5174	xie26ac							初筛，原文与先例核查待补：第4–5页把动作属性编码、VerbNet层级和技能embedding接入条件MoE，目标仍是flow matching加标准router balance；当前未识别超出层级特征条件化/专家路由的独立目标或控制规律。新技能分类与具身迁移提升本身不能建立新增量。	rule-excluded
+5175	xie26ad	3	4	3	4	69		初筛，原文与先例核查待补：折扣FTRL的动态遗憾转化有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性4；缓存第4、5、7、8页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5176	xie26ae	3	4	3	3	66		初筛，原文与先例核查待补：表格规模与长上下文后训练有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5177	xin26a	3	4	3	3	66		初筛，原文与先例核查待补：按路径偏差调节专家干预有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5178	xin26b	3	4	3	3	66		初筛，原文与先例核查待补：最大密度间隔选择联邦邻域有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5179	xin26c							初筛，原文与先例核查待补：第4–5/7页是固定库版本的任务契约、编译加语义要求评审以及统一代理工具设施；当前未识别超出软件工程评测成熟双重验证的独立神经机制或新受控选择规律，不以仓库级形式数学新任务保留。	rule-excluded
+5180	xin26d							初筛，原文与先例核查待补：第4–5/7页使用专家迭代、中间perplexity保留、周期重训、规划分解与共享证明缓存；当前主要是成熟课程/重置/搜索组合在证明器扩量，尚未识别相对最近专家迭代原作的独立控制规律。10%示意与正文15%阈值也待统一核实。	rule-excluded
+5181	xing26a	3	4	3	3	66		初筛，原文与先例核查待补：按神经元激活与梯度筛架构有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5182	xing26b							初筛，原文与先例核查待补：第4–5页是ConvGRU、局部时序注意力、差异调制与SAM prompt decoder组合；当前未识别超出成熟运动差分/时序提示适配的新通用操作，不能仅以红外小目标低SNR收益和新SAM应用保留。	rule-excluded
+5183	xing26c	3	4	4	4	73		初筛，原文与先例核查待补：掩码生成与预测的对抗自监督RL有明确局部操作或控制经验，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5184	xing26d							初筛，原文与先例核查待补：第4–5页把GMM/原型分配与已有Gaussian随机模糊数证据混合用于生存预测，明确沿用Denoeux证据混合；当前未识别脱离专用生存读出后独立的新融合/校准规则。不因医学领域名称排除。	rule-excluded
+5185	xing26e	3	4	3	3	66		初筛，原文与先例核查待补：纠错对比向量的区域指代注入有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5186	xing26f	3	3	3	3	60		初筛，原文与先例核查待补：几何感知的编码器与分辨率反例有明确局部操作或控制经验，新增量暂3，复用3，使用性3，独特性3；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5187	xing26g	3	4	4	4	73		初筛，原文与先例核查待补：按轮熵连续重加权GRPO优势有明确局部操作或控制经验，新增量暂3，复用4，使用性4，独特性4；缓存第4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5188	xing26h							初筛，原文与先例核查待补：第5–6页组合RL选择扰动负视图、DINO/光流显著性正视图和三路线性logit校准；当前未识别超出已有正负对比解码及自适应视图选择的独立规则，新增幻觉类型/基准不单独建立增量。显著性路径也不能称正确证据上界。	rule-excluded
+5189	xing26i	3	4	3	3	66		初筛，原文与先例核查待补：语义表征与光度细节的选择权衡有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、6、8页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5190	xiong26a	3	4	3	3	66		初筛，原文与先例核查待补：结构精度矩阵耦合的贝叶斯流有明确局部操作或控制经验，新增量暂3，复用4，使用性3，独特性3；缓存第4、5、6、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
+5191	xiong26b	3	4	4	4	73		初筛，原文与先例核查待补：RLVR可监测性的数据与熵边界有明确局部操作或控制经验，新增量暂3，复用4，使用性4，独特性4；缓存第3、4、5、7页。最近原作、匹配预算及机制重叠待统一核实。	scored
 5192	xiong26c							待原文复核评分	pending
 5193	xiong26d							待原文复核评分	pending
 5194	xiong26e							待原文复核评分	pending

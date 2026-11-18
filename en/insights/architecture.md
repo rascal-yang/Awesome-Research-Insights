@@ -293,6 +293,7 @@ Model-wide design and information flow.
 - [ConFlux: Multivariate Time Series in Flux, One Unified Forecast in Confluence](../../conferences/icml-2026/cards/4701-4800.md#wang26fy-architecture) · 中文
 - [Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation](../../conferences/icml-2026/cards/4901-5000.md#whittle26a-architecture) · 中文
 - [Universal Algorithm-Implicit Learning](../../conferences/icml-2026/cards/4901-5000.md#woerner26a-architecture) · 中文
+- [mHC: Manifold-Constrained Hyper-Connections](../../conferences/icml-2026/cards/5101-5200.md#xie26aa-architecture) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

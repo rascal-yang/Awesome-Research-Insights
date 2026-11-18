@@ -603,6 +603,7 @@
 - [用训练轨迹选择遗忘检查点](../conferences/icml-2026/cards/5001-5100.md#wu26br-theory-statistics) · Trajectory-Aware Certified Decentralized Unlearning via SGD Stability
 - [按去噪遗忘权衡停止自蒸馏](../conferences/icml-2026/cards/5001-5100.md#wu26bs-theory-statistics) · Why Self-Distillation Helps and Hurts: Denoising vs. Signal Forgetting
 - [谱几何约束下的教师选择](../conferences/icml-2026/cards/5001-5100.md#wu26ce-theory-statistics) · What Makes a Strong Model? A Unified Spectral Analysis of Knowledge Transfer over High-dimensional Linear Regression
+- [折扣FTRL的动态遗憾转化](../conferences/icml-2026/cards/5101-5200.md#xie26ad-theory-statistics) · Dynamic Regret via Discounted-to-Dynamic Reduction with Applications to Curved Losses and Adam Optimizer
 
 <a id="by-graph-and-recommendation"></a>
 

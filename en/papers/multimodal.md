@@ -119,6 +119,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="xi26c-loss-functions"></a>[Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression](../../conferences/icml-2026/cards/5001-5100.md#paper-xi26c)
 - <a id="xie26e-loss-functions"></a>[Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26e)
 - <a id="xie26y-loss-functions"></a>[FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26y)
+- <a id="xing26g-loss-functions"></a>[Native Active Perception as Reasoning for Omni-Modal Understanding](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26g)
 
 <a id="by-optimization"></a>
 
@@ -390,6 +391,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="xian26c-inference"></a>[Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration](../../conferences/icml-2026/cards/5101-5200.md#paper-xian26c)
 - <a id="xiao26w-inference"></a>[MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26w)
 - <a id="xie26m-inference"></a>[Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26m)
+- <a id="xing26e-inference"></a>[Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26e)
 
 <a id="by-representation-learning"></a>
 
@@ -531,6 +533,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="wu26am-evaluation"></a>[The Mechanistic Emergence of Symbol Grounding in Language Models](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26am)
 - <a id="xi26e-evaluation"></a>[Large Vision-Language Models Get Lost in Attention](../../conferences/icml-2026/cards/5001-5100.md#paper-xi26e)
 - <a id="xie26f-evaluation"></a>[Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26f)
+- <a id="xing26f-evaluation"></a>[GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26f)
 
 <a id="by-theory-statistics"></a>
 

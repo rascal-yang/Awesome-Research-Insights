@@ -202,6 +202,7 @@
 - [共享模型文本引导视觉推理](../conferences/icml-2026/cards/5001-5100.md#xi26c-loss-functions) · Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression
 - [最终正确性门控的检索奖励](../conferences/icml-2026/cards/5101-5200.md#xie26e-loss-functions) · Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding
 - [在文本侧排斥近邻描述](../conferences/icml-2026/cards/5101-5200.md#xie26y-loss-functions) · FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model
+- [按轮熵连续重加权GRPO优势](../conferences/icml-2026/cards/5101-5200.md#xing26g-loss-functions) · Native Active Perception as Reasoning for Omni-Modal Understanding
 
 <a id="by-ml-foundations"></a>
 

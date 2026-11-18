@@ -350,6 +350,7 @@
 - [跨模型正确性历史与跨数据校准](../conferences/icml-2026/cards/5101-5200.md#xiao26l-evaluation) · Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns
 - [污染推理的谱收缩与子空间干预](../conferences/icml-2026/cards/5101-5200.md#xie26d-evaluation) · A Narrowing Geometry in Contaminated Reasoning
 - [控制长度后评估代码语义复杂度](../conferences/icml-2026/cards/5101-5200.md#xie26j-evaluation) · Rethinking Code Complexity Through the Lens of Large Language Models
+- [RLVR可监测性的数据与熵边界](../conferences/icml-2026/cards/5101-5200.md#xiong26b-evaluation) · Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning
 
 <a id="by-computer-vision"></a>
 
@@ -569,6 +570,7 @@
 - [环境到词汇的信息聚合定位](../conferences/icml-2026/cards/5001-5100.md#wu26am-evaluation) · The Mechanistic Emergence of Symbol Grounding in Language Models
 - [视觉attention评分的受限替换诊断](../conferences/icml-2026/cards/5001-5100.md#xi26e-evaluation) · Large Vision-Language Models Get Lost in Attention
 - [拒答表征与迁移表征的干预对照](../conferences/icml-2026/cards/5101-5200.md#xie26f-evaluation) · Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs
+- [几何感知的编码器与分辨率反例](../conferences/icml-2026/cards/5101-5200.md#xing26f-evaluation) · GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models
 
 <a id="by-ml-foundations"></a>
 
@@ -637,6 +639,7 @@
 - [末层与全网线性化UQ的成本边界](../conferences/icml-2026/cards/4901-5000.md#wilson26a-evaluation) · Is the Last Layer Sufficient for Uncertainty Quantification?
 - [按因果等价类分配归因查询](../conferences/icml-2026/cards/4901-5000.md#witter26a-evaluation) · Exactly Computing do-Shapley Values
 - [部分模型合并的参数保密边界](../conferences/icml-2026/cards/5001-5100.md#wu26u-evaluation) · An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks
+- [按神经元激活与梯度筛架构](../conferences/icml-2026/cards/5101-5200.md#xing26a-evaluation) · pTNAS: Progressive Neural Architecture Search for Tabular Data
 
 <a id="by-graph-and-recommendation"></a>
 

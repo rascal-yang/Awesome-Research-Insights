@@ -350,6 +350,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns](../../conferences/icml-2026/cards/5101-5200.md#xiao26l-evaluation) · 中文
 - [A Narrowing Geometry in Contaminated Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xie26d-evaluation) · 中文
 - [Rethinking Code Complexity Through the Lens of Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#xie26j-evaluation) · 中文
+- [Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](../../conferences/icml-2026/cards/5101-5200.md#xiong26b-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -569,6 +570,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [The Mechanistic Emergence of Symbol Grounding in Language Models](../../conferences/icml-2026/cards/5001-5100.md#wu26am-evaluation) · 中文
 - [Large Vision-Language Models Get Lost in Attention](../../conferences/icml-2026/cards/5001-5100.md#xi26e-evaluation) · 中文
 - [Dissecting the Safety Circuit: Neuronal Intervention for Transferable Adversarial Attacks on VLMs](../../conferences/icml-2026/cards/5101-5200.md#xie26f-evaluation) · 中文
+- [GePBench: Evaluating Fundamental Geometric Perception for Multimodal Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#xing26f-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 
@@ -637,6 +639,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Is the Last Layer Sufficient for Uncertainty Quantification?](../../conferences/icml-2026/cards/4901-5000.md#wilson26a-evaluation) · 中文
 - [Exactly Computing do-Shapley Values](../../conferences/icml-2026/cards/4901-5000.md#witter26a-evaluation) · 中文
 - [An Empirical Study on the Resilience of Partial Merging to Model Clone Attacks](../../conferences/icml-2026/cards/5001-5100.md#wu26u-evaluation) · 中文
+- [pTNAS: Progressive Neural Architecture Search for Tabular Data](../../conferences/icml-2026/cards/5101-5200.md#xing26a-evaluation) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 

@@ -94,6 +94,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [FedHPro: Federated Hyper-Prototype Learning via Gradient Matching](../../conferences/icml-2026/cards/4701-4800.md#wang26gp-representation-learning) · 中文
 - [Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection](../../conferences/icml-2026/cards/4801-4900.md#wang26it-representation-learning) · 中文
 - [SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](../../conferences/icml-2026/cards/4901-5000.md#wei26e-representation-learning) · 中文
+- [Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics](../../conferences/icml-2026/cards/5101-5200.md#xing26i-representation-learning) · 中文
 
 <a id="by-nlp"></a>
 

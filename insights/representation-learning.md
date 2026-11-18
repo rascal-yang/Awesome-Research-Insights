@@ -94,6 +94,7 @@
 - [类别特征梯度匹配的联邦多原型](../conferences/icml-2026/cards/4701-4800.md#wang26gp-representation-learning) · FedHPro: Federated Hyper-Prototype Learning via Gradient Matching
 - [实图离散锚点的法向残差](../conferences/icml-2026/cards/4801-4900.md#wang26it-representation-learning) · Breaking Manifold Continuity: Vector Quantized Modeling for Real-Centric Deepfake Detection
 - [在拼接LoRA子空间求回归合并](../conferences/icml-2026/cards/4901-5000.md#wei26e-representation-learning) · SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models
+- [语义表征与光度细节的选择权衡](../conferences/icml-2026/cards/5101-5200.md#xing26i-representation-learning) · Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics
 
 <a id="by-nlp"></a>
 

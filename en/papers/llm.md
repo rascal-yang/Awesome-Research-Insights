@@ -589,6 +589,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wu26as-training-strategies"></a>[Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26as)
 - <a id="xia26j-training-strategies"></a>[Adversarial Latent Embedding Repair for LLM Continual Learning](../../conferences/icml-2026/cards/5101-5200.md#paper-xia26j)
 - <a id="xiao26p-training-strategies"></a>[FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26p)
+- <a id="xing26c-training-strategies"></a>[PretrainZero: Reinforcement Active Learning on Pretraining Data](../../conferences/icml-2026/cards/5101-5200.md#paper-xing26c)
 
 <a id="by-data-strategies"></a>
 
@@ -672,6 +673,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="wu26d-data-strategies"></a>[Single-Rollout Hidden-State Dynamics for Training-Free RLVR Data Selection](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26d)
 - <a id="wu26al-data-strategies"></a>[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26al)
 - <a id="xie26p-data-strategies"></a>[Hybrid-Gym: Training Coding Agents to Generalize Across Tasks](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26p)
+- <a id="xie26ae-data-strategies"></a>[Probing How Scalable Table Data Enhances General Long-Context Reasoning](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26ae)
 
 <a id="by-inference"></a>
 
@@ -1371,6 +1373,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="xiao26l-evaluation"></a>[Generalized Correctness Models: Learning Calibrated and Cross-Model Correctness Predictors from Historical Patterns](../../conferences/icml-2026/cards/5101-5200.md#paper-xiao26l)
 - <a id="xie26d-evaluation"></a>[A Narrowing Geometry in Contaminated Reasoning](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26d)
 - <a id="xie26j-evaluation"></a>[Rethinking Code Complexity Through the Lens of Large Language Models](../../conferences/icml-2026/cards/5101-5200.md#paper-xie26j)
+- <a id="xiong26b-evaluation"></a>[Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](../../conferences/icml-2026/cards/5101-5200.md#paper-xiong26b)
 
 <a id="by-theory-statistics"></a>
 

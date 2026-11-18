@@ -202,6 +202,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Awakening Visual Reasoning: Mitigating Post-Training Failure in Vision-Text Compression](../../conferences/icml-2026/cards/5001-5100.md#xi26c-loss-functions) · 中文
 - [Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding](../../conferences/icml-2026/cards/5101-5200.md#xie26e-loss-functions) · 中文
 - [FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model](../../conferences/icml-2026/cards/5101-5200.md#xie26y-loss-functions) · 中文
+- [Native Active Perception as Reasoning for Omni-Modal Understanding](../../conferences/icml-2026/cards/5101-5200.md#xing26g-loss-functions) · 中文
 
 <a id="by-ml-foundations"></a>
 

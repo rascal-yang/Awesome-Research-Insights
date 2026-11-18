@@ -464,6 +464,7 @@
 - [分块多级中心残差KV量化](../conferences/icml-2026/cards/5001-5100.md#xi26f-inference) · Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization
 - [分属性组的classifier-free guidance](../conferences/icml-2026/cards/5101-5200.md#xia26b-inference) · Factored Classifier-Free Guidance
 - [跨提示谱增强与同值多键attention](../conferences/icml-2026/cards/5101-5200.md#xia26i-inference) · Boost the Identity-Preserving Embedding for Consistent Visual Generation
+- [掩码势场控制注意力几何](../conferences/icml-2026/cards/5101-5200.md#xie26ab-inference) · AnyCanvas: Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion
 
 <a id="by-nlp"></a>
 
@@ -652,6 +653,7 @@
 - [以attention后验混合位置偏置](../conferences/icml-2026/cards/5101-5200.md#xian26c-inference) · Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration
 - [模型反馈优化的反事实视频视图](../conferences/icml-2026/cards/5101-5200.md#xiao26w-inference) · MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs
 - [用层间attention差提取视觉证据](../conferences/icml-2026/cards/5101-5200.md#xie26m-inference) · Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy
+- [纠错对比向量的区域指代注入](../conferences/icml-2026/cards/5101-5200.md#xing26e-inference) · Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering
 
 <a id="by-ml-foundations"></a>
 
@@ -725,6 +727,7 @@
 - [图扩散信息几何步进](../conferences/icml-2026/cards/3001-3100.md#lu26s-inference) · Information-Geometric Adaptive Sampling for Graph Diffusion
 - [离散图流的端点概率修正](../conferences/icml-2026/cards/3001-3100.md#luo26s-inference) · SimGFM: Simplifying Discrete Flow Matching for Graph Generation
 - [用凸支持函数学习向量检索路由](../conferences/icml-2026/cards/3501-3600.md#olausson26a-inference) · Amortizing Maximum Inner Product Search with Learned Support Functions
+- [结构精度矩阵耦合的贝叶斯流](../conferences/icml-2026/cards/5101-5200.md#xiong26a-inference) · Variational Bayesian Flow Network for Graph Generation
 
 <a id="by-scientific-ml"></a>
 

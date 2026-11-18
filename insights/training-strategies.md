@@ -151,6 +151,7 @@
 - [摘要条件短程RL与回放](../conferences/icml-2026/cards/5001-5100.md#wu26as-training-strategies) · Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL
 - [高分歧软提示的定向遗忘修复](../conferences/icml-2026/cards/5101-5200.md#xia26j-training-strategies) · Adversarial Latent Embedding Repair for LLM Continual Learning
 - [接收秩与训练秩解耦的联邦适配](../conferences/icml-2026/cards/5101-5200.md#xiao26p-training-strategies) · FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources
+- [掩码生成与预测的对抗自监督RL](../conferences/icml-2026/cards/5101-5200.md#xing26c-training-strategies) · PretrainZero: Reinforcement Active Learning on Pretraining Data
 
 <a id="by-computer-vision"></a>
 
@@ -276,6 +277,7 @@
 - [潜动作接口预热与联合训练坍塌](../conferences/icml-2026/cards/4801-4900.md#wang26kz-training-strategies) · Co-Evolving Latent Action World Models
 - [VLA的本体感知路由与频域动作监督](../conferences/icml-2026/cards/5001-5100.md#wu26m-training-strategies) · VLANeXt: Recipes for Building Strong VLA Models
 - [渐进约束教师的扩散策略后训练](../conferences/icml-2026/cards/5001-5100.md#wu26ck-training-strategies) · PACT: Self-Evolving Physical Safety Alignment for Diffusion Policies in Embodied Manipulation
+- [按路径偏差调节专家干预](../conferences/icml-2026/cards/5101-5200.md#xin26a-training-strategies) · Instruction Decomposition and Action Alignment for Vision-and-Language Navigation
 
 <a id="by-multimodal"></a>
 
