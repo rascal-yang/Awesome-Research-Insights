@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **505 / 687** 篇，当前收录 **468** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **576 / 687** 篇，当前收录 **534** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -474,3 +474,69 @@
 | 具身智能 / 世界模型 | 时序诊断 | [Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio](cards.md#paper-mlf6dhhbnf) | 监控动作头对未来潜变量的依赖，只在适合的阶段增强视频引导。 |
 | 具身智能 / 多模态 | 辅助监督 | [Pri4R: Learning World Dynamics for Vision-Language-Action Models with Privileged 4D Representation](cards.md#paper-8yqfxyof0y) | 训练时预测未来三维点轨迹，部署时移除预测头。 |
 | 具身智能 / 世界模型 | 延迟补偿 | [Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation](cards.md#paper-ddzwaomwze) | 在冻结 VLA 前预测预计执行时刻的视觉 token，并按不确定性截断预测。 |
+| 具身智能 / 世界模型 | 测试时适配 | [WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time](cards.md#paper-ox3ertz3rv) | 测试时用未标注人类视频更新小型记忆，保持动作世界模型冻结。 |
+| 具身智能 / 世界模型 | 执行监控 | [ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models](cards.md#paper-jq0aplis34) | 监控先按真实计划预测，再在线判定是否中止，不改底层策略。 |
+| 具身智能 / 多模态 | 主动感知 | [Seek-before-Act: Generative Visual Foresight for Occlusion-Aware Wrist-View Manipulation](cards.md#paper-hwtnqrjmuq) | 用语义可操作性判定决定继续找视角还是开始动作。 |
+| 具身智能 / 多模态 | 训练重采样 | [Enhancing Robotic Control Robustness through Generative Visual Model](cards.md#paper-e5lvpa2glx) | 在固定合成量下对照按控制表现重加权与静态混合。 |
+| 具身智能 / 世界模型 | 几何监督 | [DepthWorld: 3D World Model for Robot Manipulation](cards.md#paper-xombt7ofur) | 需保留预训练视频编码器时，以潜空间拼接加入深度并等预算核对 RGB。 |
+| 具身智能 / 世界模型 | 强化学习 | [WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL](cards.md#paper-qhiz2k4e88) | 对照从头想象与重启中间关键帧，固定交互预算测策略收益。 |
+| 具身智能 / 世界模型 | 数据策略 | [PlayWorld: Learning Robot World Models from Autonomous Play Data](cards.md#paper-hatezfmdn5) | 预留数据预算采集非任务自由交互，并以固定模型比较反事实动作泛化。 |
+| 具身智能 / 强化学习 | 梯度估计 | [Coupled Local and Global World Models for Efficient First Order RL](cards.md#paper-zdglinpebl) | 将前向保真和反传成本分开，用局部代理验证优化方向。 |
+| 具身智能 / 强化学习 | 约束目标 | [SafeDojo: Safe Reinforcement Learning for VLA via Interactive World Model](cards.md#paper-xgth4qbomb) | 分开监督任务收益和安全成本，在相同测试上报告二者权衡。 |
+| 具身智能 / 世界模型 | 安全诊断 | [How Well Do Latent World Models Understand Partially Observable Safety Constraints?](cards.md#paper-587eukwa7d) | 先区分观测缺失与预测失准，再选择增传感监督或风险校准。 |
+| 具身智能 / 模仿学习 | 动作对齐 | [Imitation from Heterogeneous Demonstrations using Grounded Latent-Action World Models](cards.md#paper-rlsvfgv1ps) | 以环境效果对齐异构动作，再独立检测目标本体解码可行性。 |
+| 具身智能 / 规划 | 符号建模 | [STRIPS-WM: Learning Grounded Propositional STRIPS-style World Models from Images](cards.md#paper-fvphddjumi) | 用动作前提和后效评价压缩表征是否保留规划信息。 |
+| 具身智能 / 世界模型 | 三维轨迹 | [μ0: A Scalable 3D Interaction-Trace World Model](cards.md#paper-shbmwdrpvu) | 用稀疏三维交互轨迹作跨本体条件，对照像素预测的计算和效果。 |
+| 具身智能 / 世界模型 | 推理缓存 | [C³ache: Accelerating World Action Models with Cross Inference Chunk Cache](cards.md#paper-t3iohvur0r) | 同时比较块内和跨块缓存，在急转接触场景单独测失效。 |
+| 具身智能 / 世界模型 | 关键帧生成 | [SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models](cards.md#paper-hgrivs5qzu) | 做视频压缩生成时按事件选锚点并测下游学习，而不只测画质。 |
+| 具身智能 / 世界模型 | 鲁棒评测 | [StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement](cards.md#paper-9um5jbxz4t) | 在隔离模拟评测中加入定向边界场景，检查策略故障是否可复现。 |
+| 具身智能 / 世界模型 | 数据采集 | [Training Controllable World Models via Action Influence Maximization](cards.md#paper-oocwc3dn5d) | 采集时主动覆盖同一状态下多类动作，以反事实对照测试模型是否服从动作。 |
+| 具身智能 / 世界模型 | 故障诊断 | [Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection](cards.md#paper-994ptkadnu) | 用可解释动力学参数区分观测噪声与设备退化，并分开测检测和定位。 |
+| 具身智能 / 模仿学习 | 重定向 | [WARP: Whole-Body Retargeting for Learning from Offline Human Demonstrations](cards.md#paper-5zw401uegd) | 先以固定规则消除冗余动作标签，再比较同数据量下监督收敛。 |
+| 具身智能 / 灵巧操作 | 示范采集 | [RealDexUMI: A Wearable Universal Manipulation Interface for Dexterous Robot Learning](cards.md#paper-logykmevvc) | 让采集和机器人执行共享物理末端，固定策略测跨末端与跨底座的数据偏移。 |
+| 具身智能 / 灵巧操作 | 重定向 | [AnyDexRT: Calibration-Efficient Dexterous Hand Retargeting with Few-Shot Human Guidance](cards.md#paper-dyonmedjxv) | 把少量人工指导放在操作相关接触附近，与全空间均匀校准对照。 |
+| 具身智能 | 遥操校准 | [YOCO: You Only Calibrate Once! Fast Mocap Calibration for Dexterous Teleoperation](cards.md#paper-lhlnvoaehr) | 把跨用户校准变成前向预测 |
+| 具身智能 | 接触控制 | [Towards Human-level Dexterous Teleoperation](cards.md#paper-ongdmfjg2i) | 用手物联合子目标指导低层控制 |
+| 具身智能 | 重定向 | [TopoRetarget: Interaction-centric retarget for dexterous manipulation](cards.md#paper-9w3pec3xlg) | 保持手物局部拓扑 |
+| 具身智能 | 奖励设计 | [Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration](cards.md#paper-depcm83k5i) | 在物体受力空间比较人机演示 |
+| 具身智能 | 规划接口 | [Human2Any: Human-to-Robot Transfer via Constraint-Aware Compositional Planning](cards.md#paper-h1yqzsoz49) | 把物体间相对运动作为跨本体先验 |
+| 具身智能 | 评测诊断 | [H2RBench: A Real-to-Sim Benchmark for Evaluating Human-to-Robot Transfer](cards.md#paper-smkzi5hx9p) | 以仿真排名筛选真机候选 |
+| 具身智能 | 主动感知 | [ActiveMimic: Egocentric Video Pretraining with Active Perception](cards.md#paper-j5rzynkq8z) | 把相机运动视作可学习动作 |
+| 具身智能 | 视角适配 | [WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations](cards.md#paper-xkz7yjefr4) | 从人类第一视角合成策略部署的腕部视角 |
+| 具身智能 | 动作表示 | [AdvDex: Learning Dexterous Manipulation from Human Demonstrations via Joint-Aligned Actions and Adversarial Learning](cards.md#paper-tswzwxgz5p) | 共享腕姿与手指动作后，消去视觉本体信息 |
+| 具身智能 | 技能接口 | [LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Human Videos for Scalable Dexterous Robot Skill Acquisition](cards.md#paper-qsmd0pq7up) | 将互联网视频训出的短期意图与本体控制解耦 |
+| 具身智能 | 数据筛选 | [VISTA: Vision-Grounded and Physics-Validated Adaptation of UMI data for VLA Training](cards.md#paper-xagvjptxtr) | 训练前按目标本体的轨迹可执行性筛选人类示范 |
+| 具身智能 | 数据采集 | [SEED-UMI: Sharing the Exoskeleton between human and robot for onE-to-one Dexterous demonstration](cards.md#paper-lhdmyo4bzs) | 让人和机器人共用外骨骼与相机几何 |
+| 具身智能 | 偏好学习 | [Freeform Preference Learning for Robotic Manipulation](cards.md#paper-fylym2c6xc) | 将整体偏好拆成可命名的多个质量轴 |
+| 具身智能 | 分层优化 | [Beyond the End-Effector: Learning Whole-Arm Contact Manipulation from Human Demonstrations](cards.md#paper-c08kkstfex) | 把非末端接触定义与机器人的接触连杆选择解耦 |
+| 具身智能 | 注意力监督 | [Gaze Prompts: Temporally Dense Human Attention for Vision–Language–Action Fine-Tuning](cards.md#paper-xeoer7gykg) | 将凝视预测画在输入像素中，与辅助损失对照 |
+| 具身智能 | 数据配比 | [Human-like autonomy emerges from self-play and a pinch of human data](cards.md#paper-lovzujpkxn) | 以少量人类轨迹打破自博弈形成的不兼容约定 |
+| 具身智能 | 策略优化 | [Efficient On-policy Visual-RL via Stochastic Decoupled Policy Gradient](cards.md#paper-c7bvd59rpp) | 渲染预算受限时用轨迹随机扰动估计策略梯度 |
+| 具身智能 | 策略优化 | [FlowDPG: Deterministic Policy Gradient on Flow Matching Policies for Real-World Manipulation](cards.md#paper-wv9xf5ii7l) | 用 critic 梯度监督流速度场，省去跨 ODE 步反传 |
+| 具身智能 | 偏好优化 | [FlowPRO: Reward-Free Fine-Tuning of Flow-Matching VLAs via Proximalized Preference Optimization](cards.md#paper-ftx97rpoow) | 显式约束隐式奖励的绝对大小，并用干预回滚形成偏好对 |
+| 具身智能 | 仿真真机协训 | [Beyond Imitation: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models](cards.md#paper-7hdkicfgrw) | 用仿真在线 RL 优化，同时用真机监督锚定旧能力 |
+| 具身智能 | 残差强化学习 | [Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement](cards.md#paper-taxtxe4oqd) | 用物体位姿而非像素为冻结 VLA 学习仿真残差。 |
+| 具身智能 | 强化学习后训练 | [RoboFFT: Finetuning generative robot policy via online reinforcement learning with forward process](cards.md#paper-efjcm9am0o) | 用正向加噪构造 PPO 替代比率。 |
+| 具身智能 | 强化学习后训练 | [Optimal Transport Q-Learning for Flow Policy Steering and Acceleration](cards.md#paper-uni5vigrgr) | 用优势加权条件最优传输同时优化流策略和推理步数。 |
+| 具身智能 | 相对进度监督 | [WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation](cards.md#paper-yaym35u9su) | 用变速和逆序构造有符号进度来加权动作块。 |
+| 具身智能 | 主动感知 | [Learning Decomposed Visibility for Efficient Active Exploration of Cluttered Scenes](cards.md#paper-qgk0k192w6) | 把换视角和推动分别预测，再用统一可见性收益选模式。 |
+| 具身智能 | 训练系统诊断 | [UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms](cards.md#paper-h4x4aofbgs) | 按端到端吞吐比较 CPU 仿真加 GPU 学习与全 GPU 路线。 |
+| 具身智能 | 干预后训练 | [TUTOR: Learning Recovery from Policy-Induced Deviations](cards.md#paper-gusryiaaen) | 把人工接管前轨迹拆成保留与抑制信号。 |
+| 具身智能 | 动作适配 | [Cue the Flow: Steering Flow-Matching Policies for Open-World Delivery Manipulation](cards.md#paper-o4lqtmhytc) | 将空间线索映射成预训练动作块的对角仿射校正。 |
+| 具身智能 | 移动操作 | [MoFlo: Language-Conditioned Flow Matching for Policy Mobilization](cards.md#paper-bjpoaczbrx) | 让固定操作策略的可执行底盘位姿依赖语言与当前观测。 |
+| 具身智能 | 弱监督 | [SurgVIL: Scaling Surgical Robot Imitation Learning with Open-source Surgical Videos](cards.md#paper-qouwcatc3d) | 把缺机器人动作的真实域视频补成弱运动监督，与准确窄域数据混训。 |
+| 具身智能 | 噪声条件训练 | [Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](cards.md#paper-sh0dg0hwvk) | 按扩散噪声水平限制次优示范的贡献。 |
+| 具身智能 | 监督路由 | [Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos](cards.md#paper-dfblf2ss7m) | 只以生成视频监督视觉几何，不用伪动作监督控制头。 |
+| 具身智能 | 上下文模仿 | [SynthICL: Scalable In-context Imitation Learning with Synthetic Data](cards.md#paper-6phgtk73zs) | 在 RGB 合成轨迹上下文训练中加入下一子目标图像预测。 |
+| 具身智能 | 实景仿真 | [RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation](cards.md#paper-mwj9u2vzpx) | 把物理接触区域与视觉背景拆成两层重建。 |
+| 具身智能 | 仿真数据诊断 | [SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation](cards.md#paper-8gqhcykrxr) | 分开扰动物体、场景和任务，测哪层变化值得采集。 |
+| 具身智能 | 生成表示 | [ArticFlow: Action-Conditioned Flow Matching for Skeleton-Free Articulated Generation](cards.md#paper-xxnpkl2igd) | 用形状潜流和动作条件点流分开建模拓扑变化与形变。 |
+| 具身智能 | 场景生成 | [GIF: Agentic Generation of Interactive and Functional Object Compositions for Robot Learning](cards.md#paper-y5z5ccs0bv) | 将物体生成和物理相对位置细化分成两个问题。 |
+| 具身智能 | 仿真数据生成 | [IM-ENGINE: Image Editing for Embodied Data Generation](cards.md#paper-6epamjdfwz) | 以未编辑的对象作锚点，把图像生成语义逆映射到可行 3D 状态。 |
+| 具身智能 | 策略搜索 | [ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior Priors](cards.md#paper-gk8bvfszq3) | 冻结扩散去噪器，只在初始噪声空间做稀疏奖励强化学习。 |
+| 具身智能 | 数据增强 | [RoboAug: One Annotation to Hundreds of Scenes via Region-Contrastive Data Augmentation for Robotic Manipulation](cards.md#paper-db6whoqh91) | 用区域对比损失把注意力保留在增强后仍与任务相关的区域。 |
+| 具身智能 | 数据质量诊断 | [World In Your Hands: A Large-scale Dataset for Learning Ego-centric Robotic Manipulation In-the-Wild](cards.md#paper-waipztsrpq) | 对自视角预训练优先验证动作标注质量，再追加数据。 |
+| 具身智能 / 多模态 | 标注校准 | [SPARC: Reliable Spatial Annotations from Robot Demonstrations at Scale](cards.md#paper-gx5xey9ade) | 用操作阶段和跨帧一致性校准空间伪标签，再按精度要求选择训练样本。 |
+| 具身智能 / Agent | 数据生成 | [SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation](cards.md#paper-uznhskkaab) | 将闭环交互技能作为树搜索动作，在执行失败后重规划并采集恢复示范。 |
+| 具身智能 / 模仿学习 | 主动数据采集 | [GUILD: Guided Iterative Data Collection for Imitation Learning](cards.md#paper-6txmwx1wih) | 在采集前用任务归因反馈选择下一批遥操数据。 |
+| 具身智能 / 模仿学习 | 多动作监督 | [CrowdMAPS: Crowdsourcing Multiple Actions per State for Real-World Robot Imitation Learning](cards.md#paper-gvdqtvona1) | 为已访问状态标注多个可行动作，和继续采集新轨迹比较标注收益。 |
