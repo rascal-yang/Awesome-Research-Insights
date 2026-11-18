@@ -50,8 +50,8 @@ number	openreview_id	title	paper_url	reason	status
 49	IjnCc1OZnJ	Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models	https://openreview.net/forum?id=IjnCc1OZnJ	用任务条件掩码暴露并压低无关视觉证据	included
 50	rYkaehgzzO	See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs	https://openreview.net/forum?id=rYkaehgzzO	保留全局目标，另给执行器局部指令和显式视觉预算	included
 51	oKJnHTluoA	MotionVLA: Injecting Geometric Motion into Vision-Language-Action Model	https://openreview.net/forum?id=oKJnHTluoA		pending
-52	U620dzd51N	Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies	https://openreview.net/forum?id=U620dzd51N		pending
-53	rcE4amkjBq	GeoProp: Grounding Robot State in Vision for Generalist Manipulation	https://openreview.net/forum?id=rcE4amkjBq		pending
+52	U620dzd51N	Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies	https://openreview.net/forum?id=U620dzd51N	用离散本体状态和指令在主干计算前筛选视觉片段	included
+53	rcE4amkjBq	GeoProp: Grounding Robot State in Vision for Generalist Manipulation	https://openreview.net/forum?id=rcE4amkjBq	用运动学投影把本体状态对准同位置的视觉特征	included
 54	1uKIsrjCvt	Localized Visual Feature Aggregation via Focus Pooling for Visuomotor Policies	https://openreview.net/forum?id=1uKIsrjCvt		pending
 55	Afq9dTKP09	Attention from Action, for Action: Emergent Visual Bottlenecks for Policy Learning	https://openreview.net/forum?id=Afq9dTKP09		pending
 56	PEWWDUL10X	OmniGuide: Universal Spatial Guidance Fields for Enhancing Generalist Robot Policies	https://openreview.net/forum?id=PEWWDUL10X		pending
