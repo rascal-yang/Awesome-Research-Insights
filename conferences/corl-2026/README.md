@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **167 / 687** 篇，当前收录 **160** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **170 / 687** 篇，当前收录 **163** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -166,3 +166,6 @@
 | 具身智能 / 规划 | 风险控制 | [Adaptive Risk-Certified Event-Triggered Replanning for Dynamic Navigation](cards.md#paper-xyrbf93mwh) | 用未来轨迹的尾部风险触发换规划模式，同时保留下一步安全过滤。 |
 | 具身智能 / 多智能体 | 分层规划 | [Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems](cards.md#paper-60tpxlifym) | 以路点定义可验证的低层规划输出，并把运动可行性反馈给任务规划器。 |
 | 具身智能 / 强化学习 | 扩散策略 | [X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching](cards.md#paper-c0ygolwl7i) | 用同状态的轨迹 Q 分组归一化来加权 score matching，后训练扩散策略。 |
+| 具身智能 / 导航 | 策略适配 | [PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors](cards.md#paper-rwx9gcsvjh) | 用传感器深度逐路点校正预训练策略输出的无尺度路径。 |
+| 具身智能 / 多模态 | 主动感知 | [LIME: Learning Intent-aware Camera Motion from Egocentric Video](cards.md#paper-erptr7eec1) | 从被动视频构造意图、预期观测和相对位姿监督，学习按需移动相机。 |
+| 具身智能 / 多模态 | 场景配准 | [PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models](cards.md#paper-5onzck6sbr) | 用语义候选加几何共识，配准仅部分重叠的自视角 RGB 扫描。 |

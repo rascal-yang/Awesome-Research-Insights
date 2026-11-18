@@ -2401,3 +2401,48 @@
 - **适用条件 / 局限** · 需要可训练的轨迹价值估计和在线采样，所需预算与部署机器人覆盖须查正文。
 
 **可复用机制** · 保留扩散预训练目标形式，用同状态组内相对价值给轨迹加权，并与不归一化权重对照。
+
+<a id="paper-rwx9gcsvjh"></a>
+
+## PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors
+
+[会议记录](https://openreview.net/forum?id=rwx9GCSVjH) · [原文](https://openreview.net/pdf?id=rwx9GCSVjH)
+
+- **问题 / 瓶颈** · 统一缩放无法修正局部路径误差，单目估深在障碍物附近可能不准。
+- **核心创新 / 方法** · 规范化原路径，再以 RGB-D、双目或投影 LiDAR 深度为条件，预测各路点的幅值与横向残差。
+- **Baseline** · 适配预训练视觉导航策略；摘要讨论统一尺度和在策略内注入单目深度的路线。
+- **Benchmark** · 多种策略的闭环仿真，以及轮式真机的双目与 LiDAR 测试。
+- **关键结果 / 消融** · 作者报告成功率改善，适配器只需一次前向推理；摘要未报告幅度或残差消融。
+- **适用条件 / 局限** · 需要配准的度量深度；传感缺失和遮挡的影响未报告。
+
+**可复用机制** · 将高层导航意图与米制路径分离，在同一骨干上对照统一缩放与按路点校正。
+
+<a id="paper-erptr7eec1"></a>
+
+## LIME: Learning Intent-aware Camera Motion from Egocentric Video
+
+[会议记录](https://openreview.net/forum?id=eRpTR7EEC1) · [原文](https://openreview.net/pdf?id=eRpTR7EEC1)
+
+- **问题 / 瓶颈** · 视频只有发生过的视角移动，缺少显式注释说明为何移动和希望看到什么。
+- **核心创新 / 方法** · 从自视角视频挖掘多意图监督，将相对 SE(3) 位姿与预期观测增益描述配对；用自回归头生成描述，用流匹配头生成候选位姿。
+- **Baseline** · 摘要未列具体基线。
+- **Benchmark** · 相机运动生成及下游机器人实验；摘要未给数据集名和指标。
+- **关键结果 / 消融** · 作者报告能从被动视频学习主动视角选择；摘要未给量化结果或消融。
+- **适用条件 / 局限** · 依赖视频中的位姿估计和合理的意图构造；预测的相机位姿还需验证机器人可达性。
+
+**可复用机制** · 训练主动感知策略时同时监督预期揭示内容和相对位姿，比较加入观测增益监督后在遮挡任务中的表现。
+
+<a id="paper-5onzck6sbr"></a>
+
+## PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models
+
+[会议记录](https://openreview.net/forum?id=5oNzcK6SBR) · [原文](https://openreview.net/pdf?id=5oNzcK6SBR)
+
+- **问题 / 瓶颈** · 运动模糊和低重叠让重建点云噪声较大，依赖预建图的匹配器难迁移。
+- **核心创新 / 方法** · 从 RGB 构建物体级三维图，用高度先验缩小对应范围，逐对复核匹配，再按刚体变换的几何共识选解。
+- **Baseline** · 对比几何配准与学习式场景图配准；使用现成视觉语言与重建模型。
+- **Benchmark** · Aria Digital Twin 和 Aria Everyday Activities，分别在真实和 RGB 重建点云上测配准精度。
+- **关键结果 / 消融** · 作者报告两类点云上均优于对照；摘要未给幅度或模块消融。
+- **适用条件 / 局限** · 依赖跨扫描共享物体和可用的几何估计；物体变动或外观近似会弱化匹配。
+
+**可复用机制** · 当稠密配准不稳定时，先以语义约束提出变换候选，再让几何一致性筛解。

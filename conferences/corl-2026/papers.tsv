@@ -174,9 +174,9 @@ number	openreview_id	title	paper_url	reason	status
 173	60tPXLIFyM	Navigating the Clutter: Waypoint-Based Bi-Level Planning for Multi-Robot Systems	https://openreview.net/forum?id=60tPXLIFyM	以路点定义可验证的低层规划输出，并把运动可行性反馈给任务规划器。	included
 174	XA0dFQQlqP	PanoVine: Whole-Body Visuomotor Control for Soft Growing Vine Robot	https://openreview.net/forum?id=XA0dFQQlqP	摘要的主要贡献是将分布式相机与示范学习集成到软体藤蔓机器人；未说明可独立复用的融合算法或能指导一般分布式感知设计的对照结果。	excluded
 175	c0ygOLwL7i	X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching	https://openreview.net/forum?id=c0ygOLwL7i	用同状态的轨迹 Q 分组归一化来加权 score matching，后训练扩散策略。	included
-176	rwx9GCSVjH	PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors	https://openreview.net/forum?id=rwx9GCSVjH		pending
-177	eRpTR7EEC1	LIME: Learning Intent-aware Camera Motion from Egocentric Video	https://openreview.net/forum?id=eRpTR7EEC1		pending
-178	5oNzcK6SBR	PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models	https://openreview.net/forum?id=5oNzcK6SBR		pending
+176	rwx9GCSVjH	PathLift: Depth-Conditioned Metric Lifting for Visual-Navigation Priors	https://openreview.net/forum?id=rwx9GCSVjH	用传感器深度逐路点校正预训练策略输出的无尺度路径。	included
+177	eRpTR7EEC1	LIME: Learning Intent-aware Camera Motion from Egocentric Video	https://openreview.net/forum?id=eRpTR7EEC1	从被动视频构造意图、预期观测和相对位姿监督，学习按需移动相机。	included
+178	5oNzcK6SBR	PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models	https://openreview.net/forum?id=5oNzcK6SBR	用语义候选加几何共识，配准仅部分重叠的自视角 RGB 扫描。	included
 179	wHAVgmIwj3	Geometry-Aware Absolute Pose Regression via Geometric Pose Proxy	https://openreview.net/forum?id=wHAVgmIwj3		pending
 180	uSrlwzdTIC	FreeLoc: Online Floorplan Localization via Diffusion-Aided Pose Refinement	https://openreview.net/forum?id=uSrlwzdTIC		pending
 181	ojMvvFKk6t	CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching	https://openreview.net/forum?id=ojMvvFKk6t		pending
