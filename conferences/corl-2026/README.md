@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方录用名单](https://2026.corl.org/program/accepted-papers)
 
-已筛选 **123 / 687** 篇，当前收录 **120** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
+已筛选 **125 / 687** 篇，当前收录 **122** 篇。[筛选底册](papers.tsv)录用名单按 OpenReview 论文 ID 去重。通过收录门槛的论文进入后续统一评分，保留比例上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -126,3 +126,5 @@
 | 具身智能 / Agent | 任务规划 | [NovaPlan](cards.md#paper-5cxsyqajns) | 在执行前筛视频候选并按执行偏差做局部修复 |
 | 具身智能 / 多模态 | 数据策略 | [SimHum](cards.md#paper-cvpjguuatq) | 让仿真提供机器人动作监督，让人类视频提供真实视觉经验 |
 | 具身智能 | 动作表示 | [BiRoAD](cards.md#paper-keuuzk1rsd) | 将双臂表示分为交换不变的协调部分与随角色交换改变的部分 |
+| 具身智能 / 多模态 | 接触控制 | [CoStream](cards.md#paper-wentff2rks) | 比较持续融合动作建议与按阶段切换控制器 |
+| 具身智能 | 模仿学习 | [COWBOY](cards.md#paper-84ea2xep60) | 将场景相关到达与局部物体交互分开生成教学轨迹 |

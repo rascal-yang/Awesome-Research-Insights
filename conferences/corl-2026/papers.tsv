@@ -133,9 +133,9 @@ number	openreview_id	title	paper_url	reason	status
 132	UMHg65UHcY	VoxAfford: Multi-Scale Voxel-Token Fusion for Open-Vocabulary 3D Affordance Detection	https://openreview.net/forum?id=UMHg65UHcY	在开放词表 token 生成后补入多尺度体素几何	included
 133	sF3YZbbTNX	VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation	https://openreview.net/forum?id=sF3YZbbTNX	允许监控器在动作执行中打断和更换技能	included
 134	5cXsYqAjNs	NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning	https://openreview.net/forum?id=5cXsYqAjNs	在执行前筛视频候选并按执行偏差做局部修复	included
-135	WeNTfF2Rks	CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation	https://openreview.net/forum?id=WeNTfF2Rks		pending
+135	WeNTfF2Rks	CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation	https://openreview.net/forum?id=WeNTfF2Rks	比较持续融合动作建议与按阶段切换控制器	included
 136	cvPjGuUATQ	Sim-and-Human Co-training for Data-Efficient and Scene-Generalizable Bimanual Manipulation	https://openreview.net/forum?id=cvPjGuUATQ	让仿真提供机器人动作监督，让人类视频提供真实视觉经验	included
-137	84ea2xeP60	COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation	https://openreview.net/forum?id=84ea2xeP60		pending
+137	84ea2xeP60	COWBOY: A Scalable Sim-to-Real Framework for Learning Contextual Whole-Body Manipulation	https://openreview.net/forum?id=84ea2xeP60	将场景相关到达与局部物体交互分开生成教学轨迹	included
 138	keuUzk1RSd	BiRoAD: Learning Shared and Role-Adaptive Representations for Bimanual Manipulation	https://openreview.net/forum?id=keuUzk1RSd	将双臂表示分为交换不变的协调部分与随角色交换改变的部分	included
 139	AztNrTzNOf	Foci Policy: Focus on Object-Centric Interactions for Relational Manipulation Policies	https://openreview.net/forum?id=AztNrTzNOf		pending
 140	QLhHHolka7	Learning Object Manipulation from Scratch via Contrastive Interaction	https://openreview.net/forum?id=QLhHHolka7		pending
