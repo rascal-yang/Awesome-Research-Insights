@@ -464,3 +464,79 @@
 | 视觉与多模态 | 效率与系统 | [TACT-KV: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs](cards-0011.md#paper-153041) | 三维缓存压缩利用三轴相关结构 |
 | 机器学习基础与统计 | 训练与优化 | [TailAdapt: Heavy-Tailed Sparse Variational Adaptation for Long-Tailed Class Incremental Learning](cards-0011.md#paper-155710) | 增量长尾学习分配少量可大幅更新的适配容量 |
 | 大语言模型 | 推理与搜索 | [Tail Competition Explains Scaling in Best-of-N Sampling for Verifiable Problems](cards-0011.md#paper-150715) | Best-of-N 候选数按照验证器错误尾部选择 |
+| 深度学习 | 记忆机制 | [TailCon: Mitigating Tail Signal Erosion through Memory Consolidation for Long-Tailed Recognition](cards-0011.md#paper-155753) | 稀有样本证据先保外部记忆，再周期写回参数头。 |
+| 计算机视觉 | 持续学习 | [Tail Cues, Principal Corrections: Plug-and-Play Rectification for Open-Set Test-Time Adaptation](cards-0011.md#paper-150867) | 开放集测试适配在源头主子空间修漂移。 |
+| 生成模型 | 采样与推理 | [TailDiff: Elicitable Tail-Guided Diffusion for Risk-Sensitive Generation](cards-0011.md#paper-151735) | 风险仿真用可微尾部分数引导扩散。 |
+| 深度学习 | 时序建模 | [TailFix: Mitigating Error Accumulation and Correcting Tail Deterioration in Long-Horizon Forecasting](cards-0011.md#paper-154800) | 长预测中为远端单设误差增益测试。 |
+| 大语言模型 | 模型鲁棒性 | [TailGuard: Subgroup Tail Coverage Theory for Safe LLM Alignment](cards-0011.md#paper-149857) | 上线安全验收按亚群危险尾部覆盖。 |
+| 强化学习 | 约束优化 | [Tail-Risk-Aware Stackelberg Learning](cards-0011.md#paper-153252) | 风险敏感博弈报告响应证书误差。 |
+| 深度学习 | 模型鲁棒性 | [Tail Wags the Model: Generalization and Membership Privacy Trade-offs of Sharpness-Aware Minimization](cards-0011.md#paper-151069) | 使用 SAM 的长尾模型按少样本组审计隐私。 |
+| 机器学习理论 | 最优传输 | [Take It or Leave It: Intent-Controlled Partial Optimal Transport](cards-0011.md#paper-153778) | 匹配不完整观测时对两侧分别定义拒配成本。 |
+| 模型效率与系统 | 剪枝与稀疏化 | [Taking Low-Rank LLM Compression a Step Further: A Global Perspective with Fused Inference](cards-0011.md#paper-153795) | 低秩 LLM 用全局目标并融合部署算子。 |
+| 深度学习 | 优化算法 | [Taking the Road Less Scheduled with Adaptive Polyak Steps](cards-0011.md#paper-154698) | 无预设训练长度的优化也可自动设学习率。 |
+| 智能体与工具使用 | 评测与诊断 | [TALES: Text-Adventure Learning Environment Suite](cards-0011.md#paper-139524) | 代理底座评测同时用原版自然语言游戏和生成游戏。 |
+| 强化学习 | 优化算法 | [Talk Less, Work More: Communication-Efficient Decentralized Stochastic Approximation](cards-0011.md#paper-155976) | 去中心训练让多次本地更新分摊通信。 |
+| 模型效率与系统 | 采样与推理 | [TALON: Confidence-Aware Speculative Decoding with Adaptive Token Trees](cards-0011.md#paper-151232) | 推测树按局部不确定性分配固定节点预算。 |
+| 智能体与工具使用 | 记忆机制 | [TAMEing the Open-World Personalization: Towards Open-Set Personalized MLLM Assistant](cards-0011.md#paper-150003) | 长期个性识别管新增和已有概念冲突。 |
+| 多模态学习 | 强化学习 | [Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement](cards-0011.md#paper-149760) | 视觉推理后训练监测表征模板替代证据。 |
+| 强化学习 | 模型鲁棒性 | [Taming the Curses of Multiagency in Robust Markov Games with Large State Space through Linear Function Approximation](cards-0011.md#paper-154545) | 多代理鲁棒学习比较线性表示下的样本复杂度。 |
+| 深度学习 | 损失函数 | [Taming the Tails: Why Distributionally Robust Optimization Needs New Theory for Imbalanced Regression](cards-0011.md#paper-152555) | 不均衡回归按目标区间配置鲁棒预算。 |
+| 深度学习 | 可解释性 | [TanGCE: Manifold-Aware Concept Erasure](cards-0011.md#paper-151590) | 去属性在表征局部切空间限制更新。 |
+| 计算机视觉 | 表征学习 | [Tango3D: Towards Alignment for Global and Local 2D-3D Correspondence](cards-0011.md#paper-152996) | 二维到三维配准同时监督全局语义和像素到点的局部关系。 |
+| 机器学习基础与统计 | 评测与诊断 | [TAPIOCA: Why Task- Aware Pruning Improves OOD model Capability](cards-0011.md#paper-150263) | 选择剪掉哪些层时测目标域内外的层表示几何差异。 |
+| 强化学习 | 强化学习方法 | [Target-Aligned Reinforcement Learning](cards-0011.md#paper-150631) | 缓慢目标网络更新时，优先训练目标和在线估计一致的转移。 |
+| 机器学习基础与统计 | 优化 | [Target-Budget Best-Function Identification for Scaling-Law-Guided Model Selection](cards-0011.md#paper-152616) | 小预算排序会反转时，以最终训练预算决定候选筛选。 |
+| 机器学习基础与统计 | 理论与统计 | [Targeted Synthetic Control Method](cards-0011.md#paper-152635) | 反事实合成控制在保留可解释权重时可后置校正。 |
+| 大语言模型 | 训练策略 | [TARP: Trace-Anchored Regularization Prior for Retaining Stepwise Reasoning](cards-0011.md#paper-150962) | 连续微调前后记录旧任务推理轨迹漂移。 |
+| 大语言模型 | 推理策略 | [Task-Aware KV Cache Compression for LLM Agents via Utility-Driven Step Pruning](cards-0011.md#paper-155521) | 代理缓存按步骤压缩，并在步骤效用不易区分时保留连续历史。 |
+| 机器学习基础与统计 | 优化 | [Task-Driven Bayesian Experimental Design Yields Singly Intractable Objectives for Joint Policy Training](cards-0011.md#paper-154411) | 采样策略按将来的行动损失联合优化。 |
+| 计算机视觉 | 表征学习 | [Task-Induced Riemannian Metrics for Vision Transformer Feature Spaces](cards-0011.md#paper-148615) | 压缩视觉特征时先学对下游任务敏感的联合方向。 |
+| 大语言模型 | 评测与诊断 | [Task Success Is Not Enough: Side-effect-Aware Evaluation of Tool-Using Language Model Agents](cards-0011.md#paper-138911) | 工具代理测试将任务完成和副作用授权分别验收。 |
+| 机器学习基础与统计 | 理论与统计 | [Task Vector Geometry Underlies Dual Modes of Task Inference in Transformers](cards-0011.md#paper-152712) | 诊断上下文任务推断时比较训练任务向量子空间与新任务之间的方向。 |
+| 大语言模型 | 评测与诊断 | [Tatemae: Detecting Alignment Faking via Tool Selection in LLMs](cards-0011.md#paper-153416) | 监控可靠性评测使用可观察的工具选择，并将可见压力变化作为对照。 |
+| 视觉与多模态 | 评测与诊断 | [TDBench: Benchmarking Vision Language Models on Top-Down Image Understanding](cards-0011.md#paper-139574) | 俯视理解按同题旋转结果区分一致失误 |
+| 智能体 | 推理与搜索 | [Teacher-Aware Evolution of Heuristic Programs from Learned Optimization Policies](cards-0011.md#paper-151024) | 发现可部署优化器时让教师行为补终局分数 |
+| 大语言模型 | 训练与优化 | [Teaching Large Language Models When Not to Know: Learning Temporal Critique for Ex-Ante Reasoning](cards-0011.md#paper-153002) | 历史时点问答训练先判断候选是否越过截止日 |
+| 具身智能与机器人 | 评测与诊断 | [Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving](cards-0011.md#paper-148659) | 驾驶解释训练用因果和旁观变化成对验收 |
+| 视觉与多模态 | 效率与系统 | [TeMPO: Frame-Causal Token Compression for Efficient Video Large Language Model](cards-0011.md#paper-155265) | 流式视频压缩用帧因果选择 |
+| 视觉与多模态 | 推理与搜索 | [Temporal Backtracking Search for Test-time Generative Video Reasoning](cards-0011.md#paper-152083) | 视频推理将预算给中途回溯重启 |
+| 强化学习与决策 | 强化学习与奖励 | [Temporal Behavior Trees for Reinforcement Learning: Specifications as Rewards, Curricula, and Diagnostics](cards-0011.md#paper-153832) | 把机器人任务规格同时用作奖励和诊断 |
+| 强化学习 | 表征学习 | [Temporal Consistency Improves Generalization in Contextual Offline Meta Reinforcement Learning](cards-0011.md#paper-153572) | 离线元 RL 的环境上下文对潜多步预测加一致性。 |
+| 深度学习 | 可解释性 | [Temporal Island Sparse Autoencoders for Interpreting Clinical Time-Series Models](cards-0011.md#paper-151967) | 时间序列解释将概念定义成激活窗口与变量组成。 |
+| 生成模型 | 流匹配 | [Temporal Pair Consistency for Flow Matching](cards-0011.md#paper-151166) | 沿同一概率路径对子施加速度一致性。 |
+| 深度学习 | 数据合成 | [Temporal Prototype Alignment for Frozen-Feature Dataset Distillation](cards-0011.md#paper-149275) | 数据蒸馏梯度从跨增广平均换为跨优化步累积。 |
+| 深度学习 | 时序建模 | [Temporal-Scale Sensitivity in Time-Series Tokenization and Scale-Robust Token Estimation by Gated Sum](cards-0011.md#paper-150389) | 时序 token 比较多个窗口估计以降低尺度敏感。 |
+| 计算机视觉 | 视频建模 | [Temporal Slice Learning for AI-Generated Video Detection with 400× Fewer FLOPs](cards-0011.md#paper-154604) | 时间伪影检测以少量高低频时域切片代替全视频。 |
+| 大语言模型 | 奖励设计 | [TEMPO: Temporal Enforcement via Mode-Separated Policy Optimization for Trustworthy LLM Backtesting](cards-0011.md#paper-148926) | 历史回测先优化时间合规，再优化任务。 |
+| 深度学习 | 异常检测 | [TENET: Time-point Encoding Network for Multivariate Time Series Anomaly Detection](cards-0011.md#paper-153006) | 异常检测以当前观测为查询而非复原整窗口。 |
+| 深度学习 | 优化算法 | [TENG-BC: Time-Evolving Natural Gradient for High-Accuracy Neural PDE Solvers with General Boundary Conditions](cards-0011.md#paper-151664) | 神经 PDE 逐时间联合优化域内与边界。 |
+| 模型效率与系统 | 模型鲁棒性 | [TensorCommitments: A Lightweight Verifiable Inference for Large Language Models](cards-0011.md#paper-150256) | 外部推理服务对输出计算提供轻量证明。 |
+| 深度学习 | 优化算法 | [Tensorion: A Tensor-Aware Generalization of the Muon Optimizer](cards-0011.md#paper-155464) | 高阶权重张量优化按原结构建范数约束。 |
+| 深度学习 | 时序建模 | [Terminal Failure Is Not Computational Failure: A Pre-Collapse Readout Regime in Nonlinear Dynamical Learners](cards-0011.md#paper-152923) | 递归模型的读出时机与计算过程分开验证。 |
+| 智能体与工具使用 | 评测与诊断 | [TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks](cards-0011.md#paper-139224) | 终端代理用真实工作流模板做隔离评测。 |
+| 大语言模型 | 采样与推理 | [TERMINATOR: Learning Optimal Exit Points for Early Stopping in Chain-of-Thought Reasoning](cards-0011.md#paper-148583) | 早停训练以首次出现最终正确回答的位置为目标。 |
+| 生成模型 | 评测与诊断 | [TerraVis: Towards Evaluation of World-Grounded Visual Consistency in Text-to-Image Generation via MLLM Workflows](cards-0011.md#paper-139599) | 文生图将物理结构合理性与审美分开评分。 |
+| 生成模型 | 三维视觉 | [TESLA: Native 4D Gaussian Splatting Generation with Temporally Structured Latents](cards-0011.md#paper-152766) | 动态 4D 先生成跨时几何再条件渲染外观。 |
+| 机器学习基础与统计 | 评测与诊断 | [Testable and Actionable Calibration for Full Swap Regret](cards-0011.md#paper-148311) | 概率校准指标同时验证决策遗憾与有限样本可测性。 |
+| 计算机视觉 | 推理策略 | [Test-Time Adaptation via Self-Reinforced Optimal Transport for Zero-Shot OOD Detection with Vision–Language Models](cards-0011.md#paper-150530) | 零样本域外检测可对齐类别后验，以修复原始置信分数的分离度。 |
+| 计算机视觉 | 推理策略 | [Test-Time Conditioning with Representation-Aligned Visual Features](cards-0011.md#paper-148903) | 用预训练视觉特征在采样时引导扩散，可按全图或局部粒度控制。 |
+| 计算机视觉 | 推理策略 | [Test-Time Defense Against Adversarial Attacks via Stochastic Resonance of Latent Ensembles](cards-0011.md#paper-152658) | 视觉防护可在多个潜观察间聚合以降低单路扰动的影响。 |
+| 强化学习 | 推理策略 | [Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning](cards-0011.md#paper-153144) | 保留稳定的行为流训练，将价值引导放到运行时。 |
+| 图学习 | 训练策略 | [Test-Time Graph Anomaly Detection via Shifted Augmentation with Dynamic Objective Scheduling](cards-0011.md#paper-153400) | 先用标签无关目标处理不确定目标图，再切换到任务判别目标。 |
+| 大语言模型 | 推理策略 | [Test-Time Learning with an Evolving Library](cards-0011.md#paper-154657) | 测试期经验库在即用实例和长期抽象之间做加权与合并。 |
+| 强化学习 | 推理策略 | [Test-time Multi-agent Coordination by Decomposed Value Gradient Flow](cards-0011.md#paper-153940) | 多代理离线控制以行为流先验限制价值引导的动作区域。 |
+| 大语言模型 | 评测与诊断 | [Test-Time Personalization: A Diagnostic Framework and Probabilistic Fix for Scaling Failures](cards-0011.md#paper-153672) | 个性化重排分别检查用户评分区分力和单查询质量相关。 |
+| 多模态学习 | 训练策略 | [Test-Time Prompt-Agnostic Decomposition](cards-0011.md#paper-151200) | 测试期提示更新分别控制步长膨胀和连续方向漂移。 |
+| 强化学习 | 推理策略 | [Test-time Risk Adaptation with Mixture of Agents](cards-0011.md#paper-148449) | 从已有策略组合新的风险目标时估计各候选的状态占据风险。 |
+| 大语言模型 | 推理策略 | [Test-time Scaling for Diffusion Language Models with Frequency-Aware Remasking](cards-0011.md#paper-155012) | 扩散语言模型的困难样本用替代重掩码策略，不仅投入更多重复采样。 |
+| 大语言模型 | 评测与诊断 | [Test-Time Scaling in the Wild: Why Exploitation, Not Exploration, Is the Bottleneck](cards-0011.md#paper-153345) | 开放生成单独测最佳候选上限与实际重排达到的收益。 |
+| 计算机视觉 | 推理策略 | [Test-time Scaling of Diffusions with Flow Maps](cards-0011.md#paper-154289) | 用流映射前瞻完整结果，再以其奖励引导中途扩散。 |
+| 大语言模型 | 推理策略 | [Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](cards-0011.md#paper-155507) | 扩散推理可按过程评分跨轨迹重组高质量步骤。 |
+| 大语言模型 | 强化学习与奖励 | [Test Time Search Requires Training for Diversity](cards-0011.md#paper-155492) | 为测试时搜索训练互补候选 |
+| 大语言模型 | 效率与系统 | [Test-Time Speculation](cards-0011.md#paper-150865) | 长生成的推测解码可按已验证前缀临时适配草稿 |
+| 视觉与多模态 | 模型与架构 | [Text as Partial Constraint: Core–Residual Alignment for Robust Vision–Language Learning](cards-0011.md#paper-148465) | 图文对齐让文本只约束可靠共享成分 |
+| 视觉与多模态 | 评测与诊断 | [Text-side fragility in contrastive vision-language retrieval](cards-0011.md#paper-139343) | 跨模态检索分方向对等测输入退化 |
+| 视觉与多模态 | 评测与诊断 | [Text-to-CAD Evaluation with CADTests](cards-0011.md#paper-139514) | 文本生成 CAD 用断言验收几何约束 |
+| 具身智能与机器人 | 强化学习与奖励 | [TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks](cards-0011.md#paper-148848) | 时序逻辑任务把各阶段时限作为可搜索变量 |
+| 大语言模型 | 强化学习与奖励 | [TGRL: Temperature-Grouped Reinforcement Learning for Efficient Exploration in LLMs](cards-0011.md#paper-151583) | 可验证 RL 比较按温度分组的探索 |
+| 大语言模型 | 效率与系统 | [The $1/\mathcal{W}$ Law: Context Length is the Dominant Energy Lever in LLM Inference Fleets](cards-0011.md#paper-150915) | 推理能耗按上下文长度桶调度 |

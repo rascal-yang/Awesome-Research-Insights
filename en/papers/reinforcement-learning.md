@@ -703,5 +703,14 @@ Learning from interaction, feedback, and offline experience.
 - [StylePlan: Style-Conditioned Intent Planning for Zero-Shot Coordination](../../conferences/neurips-2026/cards-0011.md#paper-152367)
 - [Submodular Multi-Agent Reinforcement Learning for Effective Online Distributed Task Allocation](../../conferences/neurips-2026/cards-0011.md#paper-149944)
 - [Subprocess-Constrained Markov Decision Processes](../../conferences/neurips-2026/cards-0011.md#paper-151247)
+- [Tail-Risk-Aware Stackelberg Learning](../../conferences/neurips-2026/cards-0011.md#paper-153252)
+- [Talk Less, Work More: Communication-Efficient Decentralized Stochastic Approximation](../../conferences/neurips-2026/cards-0011.md#paper-155976)
+- [Taming the Curses of Multiagency in Robust Markov Games with Large State Space through Linear Function Approximation](../../conferences/neurips-2026/cards-0011.md#paper-154545)
+- [Target-Aligned Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-150631)
+- [Temporal Behavior Trees for Reinforcement Learning: Specifications as Rewards, Curricula, and Diagnostics](../../conferences/neurips-2026/cards-0011.md#paper-153832)
+- [Temporal Consistency Improves Generalization in Contextual Offline Meta Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-153572)
+- [Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-153144)
+- [Test-time Multi-agent Coordination by Decomposed Value Gradient Flow](../../conferences/neurips-2026/cards-0011.md#paper-153940)
+- [Test-time Risk Adaptation with Mixture of Agents](../../conferences/neurips-2026/cards-0011.md#paper-148449)
 
 <!-- conference-classification:end -->

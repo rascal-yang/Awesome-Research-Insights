@@ -398,5 +398,6 @@
 - [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](../conferences/neurips-2026/cards-0011.md#paper-151073)
 - [Synthetic Tasks for Training AutoResearch](../conferences/neurips-2026/cards-0011.md#paper-152335)
 - [Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](../conferences/neurips-2026/cards-0011.md#paper-155151)
+- [Temporal Prototype Alignment for Frozen-Feature Dataset Distillation](../conferences/neurips-2026/cards-0011.md#paper-149275)
 
 <!-- conference-classification:end -->

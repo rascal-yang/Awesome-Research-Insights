@@ -598,5 +598,6 @@
 - [SynGS: Synergistic Continual Learning and Change Detection with Gaussian Splatting](../conferences/neurips-2026/cards-0011.md#paper-153370)
 - [T$^2$-Splat: Adaptive Topology Mesh Splatting with Texture Residuals](../conferences/neurips-2026/cards-0011.md#paper-152792)
 - [TAC: Timestamped Audio Captioning](../conferences/neurips-2026/cards-0011.md#paper-148688)
+- [Text as Partial Constraint: Core–Residual Alignment for Robust Vision–Language Learning](../conferences/neurips-2026/cards-0011.md#paper-148465)
 
 <!-- conference-classification:end -->

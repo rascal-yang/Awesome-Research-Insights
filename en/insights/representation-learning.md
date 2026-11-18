@@ -617,5 +617,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [STREAM: Stochastic Riemannian Flow Matching with Anisotropic Decoder for Digital Histopathology Image Generation](../../conferences/neurips-2026/cards-0011.md#paper-149538)
 - [SymDrift: One-Shot Generative Modeling under Symmetries](../../conferences/neurips-2026/cards-0011.md#paper-151782)
 - [Synthetic Anchor-Assisted Prototype Alignment for Heterogeneous Federated Learning](../../conferences/neurips-2026/cards-0011.md#paper-149579)
+- [Tango3D: Towards Alignment for Global and Local 2D-3D Correspondence](../../conferences/neurips-2026/cards-0011.md#paper-152996)
+- [Task-Induced Riemannian Metrics for Vision Transformer Feature Spaces](../../conferences/neurips-2026/cards-0011.md#paper-148615)
+- [Temporal Consistency Improves Generalization in Contextual Offline Meta Reinforcement Learning](../../conferences/neurips-2026/cards-0011.md#paper-153572)
 
 <!-- conference-classification:end -->

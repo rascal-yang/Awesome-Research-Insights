@@ -346,5 +346,6 @@
 - [Spectral Annealing: Normalization-Path Exploration for Large-Scale Ising Optimization](../conferences/neurips-2026/cards-0011.md#paper-151524)
 - [Stable Partial Order Constraints for Temporal Causal Structure Learning](../conferences/neurips-2026/cards-0011.md#paper-148586)
 - [Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation](../conferences/neurips-2026/cards-0011.md#paper-149801)
+- [Test-Time Graph Anomaly Detection via Shifted Augmentation with Dynamic Objective Scheduling](../conferences/neurips-2026/cards-0011.md#paper-153400)
 
 <!-- conference-classification:end -->

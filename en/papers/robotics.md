@@ -885,5 +885,7 @@ Robot perception, policy learning, planning, and control.
 - [SwiftFlow: An Efficient One-Step Policy Learning via Improved Mean Flow for Robotic Manipulation](../../conferences/neurips-2026/cards-0011.md#paper-153489)
 - [SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators](../../conferences/neurips-2026/cards-0011.md#paper-149981)
 - [SynerVLA: Exploiting Embodied Execution Phases for On-Device Dual-System VLA Acceleration](../../conferences/neurips-2026/cards-0011.md#paper-151851)
+- [Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving](../../conferences/neurips-2026/cards-0011.md#paper-148659)
+- [TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks](../../conferences/neurips-2026/cards-0011.md#paper-148848)
 
 <!-- conference-classification:end -->

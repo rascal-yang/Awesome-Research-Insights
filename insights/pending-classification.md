@@ -1226,5 +1226,18 @@
 - [Symplectic Normal Coordinates Flow for Generative Modeling of Hamiltonian Systems](../conferences/neurips-2026/cards-0011.md#paper-155724)
 - [SyncLight: Single-Edit Multi-View Relighting](../conferences/neurips-2026/cards-0011.md#paper-148172)
 - [TACT-KV: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs](../conferences/neurips-2026/cards-0011.md#paper-153041)
+- [TailFix: Mitigating Error Accumulation and Correcting Tail Deterioration in Long-Horizon Forecasting](../conferences/neurips-2026/cards-0011.md#paper-154800)
+- [TailGuard: Subgroup Tail Coverage Theory for Safe LLM Alignment](../conferences/neurips-2026/cards-0011.md#paper-149857)
+- [Tail Wags the Model: Generalization and Membership Privacy Trade-offs of Sharpness-Aware Minimization](../conferences/neurips-2026/cards-0011.md#paper-151069)
+- [Taming the Curses of Multiagency in Robust Markov Games with Large State Space through Linear Function Approximation](../conferences/neurips-2026/cards-0011.md#paper-154545)
+- [TeMPO: Frame-Causal Token Compression for Efficient Video Large Language Model](../conferences/neurips-2026/cards-0011.md#paper-155265)
+- [Temporal Pair Consistency for Flow Matching](../conferences/neurips-2026/cards-0011.md#paper-151166)
+- [Temporal-Scale Sensitivity in Time-Series Tokenization and Scale-Robust Token Estimation by Gated Sum](../conferences/neurips-2026/cards-0011.md#paper-150389)
+- [Temporal Slice Learning for AI-Generated Video Detection with 400× Fewer FLOPs](../conferences/neurips-2026/cards-0011.md#paper-154604)
+- [TensorCommitments: A Lightweight Verifiable Inference for Large Language Models](../conferences/neurips-2026/cards-0011.md#paper-150256)
+- [Terminal Failure Is Not Computational Failure: A Pre-Collapse Readout Regime in Nonlinear Dynamical Learners](../conferences/neurips-2026/cards-0011.md#paper-152923)
+- [TESLA: Native 4D Gaussian Splatting Generation with Temporally Structured Latents](../conferences/neurips-2026/cards-0011.md#paper-152766)
+- [Test-Time Speculation](../conferences/neurips-2026/cards-0011.md#paper-150865)
+- [The $1/\mathcal{W}$ Law: Context Length is the Dominant Energy Lever in LLM Inference Fleets](../conferences/neurips-2026/cards-0011.md#paper-150915)
 
 <!-- conference-classification:end -->

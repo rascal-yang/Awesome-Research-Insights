@@ -959,5 +959,10 @@
 - [Synthetic Pre-Pre-Training Improves Language Model Robustness to Noisy Pre-Training Data](../conferences/neurips-2026/cards-0011.md#paper-154925)
 - [TACO: Towards Task-Consistent Open-Vocabulary Adaptation in Video Recognition](../conferences/neurips-2026/cards-0011.md#paper-154934)
 - [TailAdapt: Heavy-Tailed Sparse Variational Adaptation for Long-Tailed Class Incremental Learning](../conferences/neurips-2026/cards-0011.md#paper-155710)
+- [Tail Cues, Principal Corrections: Plug-and-Play Rectification for Open-Set Test-Time Adaptation](../conferences/neurips-2026/cards-0011.md#paper-150867)
+- [TARP: Trace-Anchored Regularization Prior for Retaining Stepwise Reasoning](../conferences/neurips-2026/cards-0011.md#paper-150962)
+- [Teaching Large Language Models When Not to Know: Learning Temporal Critique for Ex-Ante Reasoning](../conferences/neurips-2026/cards-0011.md#paper-153002)
+- [Test-Time Graph Anomaly Detection via Shifted Augmentation with Dynamic Objective Scheduling](../conferences/neurips-2026/cards-0011.md#paper-153400)
+- [Test-Time Prompt-Agnostic Decomposition](../conferences/neurips-2026/cards-0011.md#paper-151200)
 
 <!-- conference-classification:end -->

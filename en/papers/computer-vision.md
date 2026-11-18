@@ -1159,5 +1159,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [SyncLight: Single-Edit Multi-View Relighting](../../conferences/neurips-2026/cards-0011.md#paper-148172)
 - [SynGS: Synergistic Continual Learning and Change Detection with Gaussian Splatting](../../conferences/neurips-2026/cards-0011.md#paper-153370)
 - [SynthForensics: Benchmarking and Evaluating People-Centric Synthetic Video Deepfakes](../../conferences/neurips-2026/cards-0011.md#paper-139072)
+- [Tail Cues, Principal Corrections: Plug-and-Play Rectification for Open-Set Test-Time Adaptation](../../conferences/neurips-2026/cards-0011.md#paper-150867)
+- [Tango3D: Towards Alignment for Global and Local 2D-3D Correspondence](../../conferences/neurips-2026/cards-0011.md#paper-152996)
+- [Task-Induced Riemannian Metrics for Vision Transformer Feature Spaces](../../conferences/neurips-2026/cards-0011.md#paper-148615)
+- [Temporal Slice Learning for AI-Generated Video Detection with 400× Fewer FLOPs](../../conferences/neurips-2026/cards-0011.md#paper-154604)
+- [Test-Time Adaptation via Self-Reinforced Optimal Transport for Zero-Shot OOD Detection with Vision–Language Models](../../conferences/neurips-2026/cards-0011.md#paper-150530)
+- [Test-Time Conditioning with Representation-Aligned Visual Features](../../conferences/neurips-2026/cards-0011.md#paper-148903)
+- [Test-Time Defense Against Adversarial Attacks via Stochastic Resonance of Latent Ensembles](../../conferences/neurips-2026/cards-0011.md#paper-152658)
+- [Test-time Scaling of Diffusions with Flow Maps](../../conferences/neurips-2026/cards-0011.md#paper-154289)
 
 <!-- conference-classification:end -->

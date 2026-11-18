@@ -779,5 +779,13 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Subprocess-Constrained Markov Decision Processes](../../conferences/neurips-2026/cards-0011.md#paper-151247)
 - [Super-Level-Set Regression: Conditional Quantiles via Volume Minimization](../../conferences/neurips-2026/cards-0011.md#paper-154847)
 - [SURF: Steering the Scalarization Weight to Uniformly Traverse the Pareto Front](../../conferences/neurips-2026/cards-0011.md#paper-155157)
+- [Tail-Risk-Aware Stackelberg Learning](../../conferences/neurips-2026/cards-0011.md#paper-153252)
+- [Take It or Leave It: Intent-Controlled Partial Optimal Transport](../../conferences/neurips-2026/cards-0011.md#paper-153778)
+- [Taking the Road Less Scheduled with Adaptive Polyak Steps](../../conferences/neurips-2026/cards-0011.md#paper-154698)
+- [Talk Less, Work More: Communication-Efficient Decentralized Stochastic Approximation](../../conferences/neurips-2026/cards-0011.md#paper-155976)
+- [Target-Budget Best-Function Identification for Scaling-Law-Guided Model Selection](../../conferences/neurips-2026/cards-0011.md#paper-152616)
+- [Task-Driven Bayesian Experimental Design Yields Singly Intractable Objectives for Joint Policy Training](../../conferences/neurips-2026/cards-0011.md#paper-154411)
+- [TENG-BC: Time-Evolving Natural Gradient for High-Accuracy Neural PDE Solvers with General Boundary Conditions](../../conferences/neurips-2026/cards-0011.md#paper-151664)
+- [Tensorion: A Tensor-Aware Generalization of the Muon Optimizer](../../conferences/neurips-2026/cards-0011.md#paper-155464)
 
 <!-- conference-classification:end -->

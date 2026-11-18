@@ -1150,5 +1150,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [SympFNO: Structure-Preserving Fourier Neural Operators for Physical Surrogate Modeling](../../conferences/neurips-2026/cards-0011.md#paper-152328)
 - [Symplectic Neural Operators for Learning Infinite Dimensional Hamiltonian Systems](../../conferences/neurips-2026/cards-0011.md#paper-148541)
 - [Symplectic Parallel Scan: A Neural Hamiltonian Framework for Accelerated Scientific Simulation](../../conferences/neurips-2026/cards-0011.md#paper-148524)
+- [Targeted Synthetic Control Method](../../conferences/neurips-2026/cards-0011.md#paper-152635)
+- [Task Vector Geometry Underlies Dual Modes of Task Inference in Transformers](../../conferences/neurips-2026/cards-0011.md#paper-152712)
 
 <!-- conference-classification:end -->

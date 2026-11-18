@@ -738,5 +738,12 @@
 - [Submodular Multi-Agent Reinforcement Learning for Effective Online Distributed Task Allocation](../conferences/neurips-2026/cards-0011.md#paper-149944)
 - [Survive or Collapse: The Asymmetric Roles of Data Gating and Reward Grounding in Self-Play RL](../conferences/neurips-2026/cards-0011.md#paper-154070)
 - [SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-150413)
+- [Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement](../conferences/neurips-2026/cards-0011.md#paper-149760)
+- [Target-Aligned Reinforcement Learning](../conferences/neurips-2026/cards-0011.md#paper-150631)
+- [Temporal Behavior Trees for Reinforcement Learning: Specifications as Rewards, Curricula, and Diagnostics](../conferences/neurips-2026/cards-0011.md#paper-153832)
+- [TEMPO: Temporal Enforcement via Mode-Separated Policy Optimization for Trustworthy LLM Backtesting](../conferences/neurips-2026/cards-0011.md#paper-148926)
+- [Test Time Search Requires Training for Diversity](../conferences/neurips-2026/cards-0011.md#paper-155492)
+- [TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic Tasks](../conferences/neurips-2026/cards-0011.md#paper-148848)
+- [TGRL: Temperature-Grouped Reinforcement Learning for Efficient Exploration in LLMs](../conferences/neurips-2026/cards-0011.md#paper-151583)
 
 <!-- conference-classification:end -->

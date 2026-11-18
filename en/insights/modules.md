@@ -464,5 +464,7 @@ Reusable components and local changes to model inputs or connections.
 - [Structured Sparse Memory for Recurrent Reasoning](../../conferences/neurips-2026/cards-0011.md#paper-149635)
 - [Subset-Conditioned Boundary Compensation for Missing-Modality Multimodal Classification](../../conferences/neurips-2026/cards-0011.md#paper-151551)
 - [SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents](../../conferences/neurips-2026/cards-0011.md#paper-155936)
+- [TailCon: Mitigating Tail Signal Erosion through Memory Consolidation for Long-Tailed Recognition](../../conferences/neurips-2026/cards-0011.md#paper-155753)
+- [TAMEing the Open-World Personalization: Towards Open-Set Personalized MLLM Assistant](../../conferences/neurips-2026/cards-0011.md#paper-150003)
 
 <!-- conference-classification:end -->

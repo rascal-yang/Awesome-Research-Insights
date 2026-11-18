@@ -1004,5 +1004,13 @@
 - [TACO: Towards Task-Consistent Open-Vocabulary Adaptation in Video Recognition](../conferences/neurips-2026/cards-0011.md#paper-154934)
 - [TAC: Timestamped Audio Captioning](../conferences/neurips-2026/cards-0011.md#paper-148688)
 - [TACT-KV: Tri-Axis Cosine Transform for Compressing Volumetric KV Caches in Medical VLMs](../conferences/neurips-2026/cards-0011.md#paper-153041)
+- [Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement](../conferences/neurips-2026/cards-0011.md#paper-149760)
+- [TDBench: Benchmarking Vision Language Models on Top-Down Image Understanding](../conferences/neurips-2026/cards-0011.md#paper-139574)
+- [TeMPO: Frame-Causal Token Compression for Efficient Video Large Language Model](../conferences/neurips-2026/cards-0011.md#paper-155265)
+- [Temporal Backtracking Search for Test-time Generative Video Reasoning](../conferences/neurips-2026/cards-0011.md#paper-152083)
+- [Test-Time Prompt-Agnostic Decomposition](../conferences/neurips-2026/cards-0011.md#paper-151200)
+- [Text as Partial Constraint: Core–Residual Alignment for Robust Vision–Language Learning](../conferences/neurips-2026/cards-0011.md#paper-148465)
+- [Text-side fragility in contrastive vision-language retrieval](../conferences/neurips-2026/cards-0011.md#paper-139343)
+- [Text-to-CAD Evaluation with CADTests](../conferences/neurips-2026/cards-0011.md#paper-139514)
 
 <!-- conference-classification:end -->

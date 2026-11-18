@@ -401,5 +401,6 @@
 - [Soft Token Alignment for Cross-Lingual Reasoning](../conferences/neurips-2026/cards-0011.md#paper-149550)
 - [StaDy: Factorizing the World into Static and Dynamic via Likelihood Matching](../conferences/neurips-2026/cards-0011.md#paper-149420)
 - [SynIB: Informational Bottleneck for Maximizing Synergy in Multimodal Learning](../conferences/neurips-2026/cards-0011.md#paper-150893)
+- [Taming the Tails: Why Distributionally Robust Optimization Needs New Theory for Imbalanced Regression](../conferences/neurips-2026/cards-0011.md#paper-152555)
 
 <!-- conference-classification:end -->
