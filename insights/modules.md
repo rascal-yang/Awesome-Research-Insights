@@ -372,5 +372,12 @@
 - [MaRK: Markov-adapted Recurrent Kernels for Dynamic Operator Conditioning in State Space Models](../conferences/neurips-2026/cards-0008.md#paper-148382)
 - [MemTailor: Hierarchical Memory-Augmented Multi-Expert Learning for Long-Tailed Recognition](../conferences/neurips-2026/cards-0008.md#paper-153342)
 - [METRO: Metric-Enhanced Token Routing Operator](../conferences/neurips-2026/cards-0008.md#paper-154570)
+- [MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing](../conferences/neurips-2026/cards-0008.md#paper-151615)
+- [Mixture of Activations: Token-Adaptive Mixing for Expressive Feedforward Layers](../conferences/neurips-2026/cards-0008.md#paper-155502)
+- [Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models](../conferences/neurips-2026/cards-0008.md#paper-148178)
+- [Mixture of Layers: Dynamic Layer Routing for Visual Reasoning](../conferences/neurips-2026/cards-0008.md#paper-153187)
+- [Mixture-of-Top-$k$ Attention: Efficient Attention as Scalable Fast Weights](../conferences/neurips-2026/cards-0008.md#paper-150679)
+- [MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](../conferences/neurips-2026/cards-0008.md#paper-153055)
+- [Modality-Depth Routing for Visual Reasoning in VLM Post-Training](../conferences/neurips-2026/cards-0008.md#paper-150494)
 
 <!-- conference-classification:end -->

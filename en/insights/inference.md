@@ -1187,5 +1187,14 @@ Decoding, test-time adaptation, and efficient execution.
 - [Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts](../../conferences/neurips-2026/cards-0008.md#paper-153483)
 - [Metropolis-Adjusted Diffusion Models](../../conferences/neurips-2026/cards-0008.md#paper-148667)
 - [MILES: Modular Instruction Memory with Learnable Selection for Self-Improving LLM Reasoning](../../conferences/neurips-2026/cards-0008.md#paper-155027)
+- [MineEvolve: Self-Evolution with Accumulated Knowledge for Long-Horizon Embodied Minecraft Agents](../../conferences/neurips-2026/cards-0008.md#paper-155208)
+- [Minimally Invasive Steering of Language Models](../../conferences/neurips-2026/cards-0008.md#paper-153525)
+- [MiniPIC: Flexible Position-Independent Caching in <100LOC](../../conferences/neurips-2026/cards-0008.md#paper-151329)
+- [Mitigating Knowledge Conflicts in Retrieval-Augmented Generation via Inference-Time Representation Editing](../../conferences/neurips-2026/cards-0008.md#paper-148202)
+- [Mitigating Overthinking in Large Reasoning Language Models via Reasoning Path Deviation Monitoring](../../conferences/neurips-2026/cards-0008.md#paper-155452)
+- [MixNLQ: An Effective Post-Training Nonlinear Low-Bit Quantization Method for Large Language Models](../../conferences/neurips-2026/cards-0008.md#paper-153190)
+- [MMSkills: Towards Multimodal Skills for General Visual Agents](../../conferences/neurips-2026/cards-0008.md#paper-148831)
+- [MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM](../../conferences/neurips-2026/cards-0008.md#paper-152455)
+- [Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models](../../conferences/neurips-2026/cards-0008.md#paper-148334)
 
 <!-- conference-classification:end -->

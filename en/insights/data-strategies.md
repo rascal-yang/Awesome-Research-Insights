@@ -339,5 +339,6 @@ Data selection, annotation, augmentation, and sampling.
 - [META-PAP: Meta-learning for Prompt-aware Preference Pairing in LLM Alignment](../../conferences/neurips-2026/cards-0008.md#paper-148316)
 - [MGMem: An Efficient, Deterministic, and Provenance-Preserving Framework for Long-Horizon Agent Memory](../../conferences/neurips-2026/cards-0008.md#paper-151505)
 - [MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis](../../conferences/neurips-2026/cards-0008.md#paper-155952)
+- [MIRAGE: Duality-Inspired MILP Augmentation for Representation Learning](../../conferences/neurips-2026/cards-0008.md#paper-150478)
 
 <!-- conference-classification:end -->

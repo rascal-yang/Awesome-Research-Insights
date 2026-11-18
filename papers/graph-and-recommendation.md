@@ -314,5 +314,7 @@
 - [MARS: Multi-resolution Adaptive Routing for Sequential Recommendation](../conferences/neurips-2026/cards-0008.md#paper-156035)
 - [MatchEx: Model-Level GNN Explanations with Multi-Granular Insights](../conferences/neurips-2026/cards-0008.md#paper-156763)
 - [Matrix-Free Stochastic Training of Low-Rank Spectral Graph Learning via Randomized Adaptive Spectral Estimation](../conferences/neurips-2026/cards-0008.md#paper-156123)
+- [Mitigating Over-squashing without Rewiring: A Sheaf Effective Resistance Perspective](../conferences/neurips-2026/cards-0008.md#paper-150297)
+- [Mixed-Curvature Geometric Latent Diffusion Model for Graph Generation](../conferences/neurips-2026/cards-0008.md#paper-149462)
 
 <!-- conference-classification:end -->

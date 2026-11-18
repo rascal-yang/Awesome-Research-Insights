@@ -132,5 +132,6 @@ Language processing methods, including structured prediction and retrieval.
 - [HuPER: A Human-Inspired Framework for Phonetic Perception](../../conferences/neurips-2026/cards-0006.md#paper-154021)
 - [Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech](../../conferences/neurips-2026/cards-0007.md#paper-154147)
 - [Learning from Disagreement: Multi-Teacher Distillation for Chinese Spelling Correction](../../conferences/neurips-2026/cards-0007.md#paper-151148)
+- [MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocol](../../conferences/neurips-2026/cards-0008.md#paper-139143)
 
 <!-- conference-classification:end -->

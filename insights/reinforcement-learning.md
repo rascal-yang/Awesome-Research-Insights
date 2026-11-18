@@ -583,5 +583,12 @@
 - [Memory-R2: Fair Credit Assignment for Long-Horizon Memory-Augmented LLM Agents](../conferences/neurips-2026/cards-0008.md#paper-152449)
 - [MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels](../conferences/neurips-2026/cards-0008.md#paper-154901)
 - [Mimicking the Physicist's Eye: A VLM-centric Approach for Physics Formula Discovery](../conferences/neurips-2026/cards-0008.md#paper-155268)
+- [Mind the Gap: Information Disadvantage as a Learning Signal in Cooperative MARL](../conferences/neurips-2026/cards-0008.md#paper-154578)
+- [MINT: Meeting-time INdicators for Truncation in Multi-Step Off-Policy RL](../conferences/neurips-2026/cards-0008.md#paper-154850)
+- [Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction](../conferences/neurips-2026/cards-0008.md#paper-148513)
+- [Mitigating Factual Hallucination in Large Reasoning Models via Mixed-Mode Advantage Regularization](../conferences/neurips-2026/cards-0008.md#paper-155434)
+- [Mitigating Overgeneralization in RND via Spectral Target Design](../conferences/neurips-2026/cards-0008.md#paper-148343)
+- [Mitigating Retaliatory Algorithmic Collusion in Repeated Games](../conferences/neurips-2026/cards-0008.md#paper-149336)
+- [Mode-Controlled Policy Optimization: A Geometry-Aware Recipe for LLM Post-Training](../conferences/neurips-2026/cards-0008.md#paper-150744)
 
 <!-- conference-classification:end -->

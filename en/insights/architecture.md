@@ -434,5 +434,17 @@ Model-wide design and information flow.
 - [MICE: Multi-animal Interaction Context Encoder — A Hierarchical Foundation Model for Mouse Behavior](../../conferences/neurips-2026/cards-0008.md#paper-150591)
 - [MiCo: Microstructure-Consistent Flow Matching for Diffusion MRI Angular Super-Resolution](../../conferences/neurips-2026/cards-0008.md#paper-148957)
 - [MilliVid: Adaptive Latents for Long-Range Consistency in Video Generation](../../conferences/neurips-2026/cards-0008.md#paper-155135)
+- [Mind the Parameters: Lightweight and Efficient Brain Visual Decoding with Shared Tensor Cores](../../conferences/neurips-2026/cards-0008.md#paper-154012)
+- [MinMax Recurrent Neural Cascades](../../conferences/neurips-2026/cards-0008.md#paper-155043)
+- [MissPath-FM: Flow Matching with Structured Priors for Partially Observed Time Series](../../conferences/neurips-2026/cards-0008.md#paper-151234)
+- [Mitigating Compounding Errors in Online Reinforcement Learning via Optimal Transport Regularized Flow Matching](../../conferences/neurips-2026/cards-0008.md#paper-151330)
+- [Mixed-Curvature Geometric Latent Diffusion Model for Graph Generation](../../conferences/neurips-2026/cards-0008.md#paper-149462)
+- [MixScentNet: A Multiscale Graph-based Framework for Predicting Scent Mixture Perception](../../conferences/neurips-2026/cards-0008.md#paper-154439)
+- [Mixture-of-Chains: Learning Causal Graphs from Human Knowledge](../../conferences/neurips-2026/cards-0008.md#paper-148842)
+- [Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion](../../conferences/neurips-2026/cards-0008.md#paper-149639)
+- [MixUni: Joint Multi-Property Prediction for Chemical Mixtures with Physics-Informed Heads](../../conferences/neurips-2026/cards-0008.md#paper-150954)
+- [MobileMoE: Scaling On-Device Mixture of Experts](../../conferences/neurips-2026/cards-0008.md#paper-150777)
+- [MobileWan: Closing the Quality Gap for Mobile Video Diffusion](../../conferences/neurips-2026/cards-0008.md#paper-151986)
+- [MOCHA: Discovering Multi-Order Dynamic Causal Structure in Temporal Point Processes](../../conferences/neurips-2026/cards-0008.md#paper-148729)
 
 <!-- conference-classification:end -->

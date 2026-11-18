@@ -529,5 +529,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Mesh BDF: Barycentric Dominance Field for 3D Native Mesh Generation](../../conferences/neurips-2026/cards-0008.md#paper-154136)
 - [MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding](../../conferences/neurips-2026/cards-0008.md#paper-149255)
 - [MindShape: Superquadric-Constrained High-Fidelity 3D Reconstruction from fMRI](../../conferences/neurips-2026/cards-0008.md#paper-149071)
+- [MIRROR: Manifold Ideal Reference ReconstructOR for AI-Generated Image Detection](../../conferences/neurips-2026/cards-0008.md#paper-149292)
+- [Mitigating Label Bias with Interpretable Rubric Embeddings](../../conferences/neurips-2026/cards-0008.md#paper-152501)
+- [mmLIP: mmWave Radar-Language Interactive Pretraining via Point Confidence](../../conferences/neurips-2026/cards-0008.md#paper-148320)
+- [MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting](../../conferences/neurips-2026/cards-0008.md#paper-150057)
 
 <!-- conference-classification:end -->

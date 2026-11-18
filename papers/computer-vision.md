@@ -965,5 +965,12 @@
 - [Metric Depth Estimation from Arbitrarily Degraded Low-Resolution Depth Prompts](../conferences/neurips-2026/cards-0008.md#paper-153483)
 - [MilliVid: Adaptive Latents for Long-Range Consistency in Video Generation](../conferences/neurips-2026/cards-0008.md#paper-155135)
 - [MIND: Monge Inception Distance for Generative Models Evaluation](../conferences/neurips-2026/cards-0008.md#paper-150991)
+- [MIRROR: Manifold Ideal Reference ReconstructOR for AI-Generated Image Detection](../conferences/neurips-2026/cards-0008.md#paper-149292)
+- [Mission Impossible: Diagnosing and Fixing Non-Operative Instruction Following in Image Editing](../conferences/neurips-2026/cards-0008.md#paper-139144)
+- [MixForensics: Blend Before You Encode for Generalizable AI-Generated Video Detection](../conferences/neurips-2026/cards-0008.md#paper-154656)
+- [Mix-Opt: Mixed Optimization for Memory-Efficient Personalization of Text-to-Image Diffusion Models](../conferences/neurips-2026/cards-0008.md#paper-152257)
+- [Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion](../conferences/neurips-2026/cards-0008.md#paper-149639)
+- [MobileWan: Closing the Quality Gap for Mobile Video Diffusion](../conferences/neurips-2026/cards-0008.md#paper-151986)
+- [MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](../conferences/neurips-2026/cards-0008.md#paper-153055)
 
 <!-- conference-classification:end -->

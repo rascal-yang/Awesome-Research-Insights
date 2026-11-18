@@ -742,5 +742,9 @@ Robot perception, policy learning, planning, and control.
 - [MapShift: Controlled Post-Intervention Evaluation for Embodied World Models](../../conferences/neurips-2026/cards-0008.md#paper-139852)
 - [Masked Visual Actions for Unified World Modeling](../../conferences/neurips-2026/cards-0008.md#paper-152131)
 - [MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers](../../conferences/neurips-2026/cards-0008.md#paper-154506)
+- [MineEvolve: Self-Evolution with Accumulated Knowledge for Long-Horizon Embodied Minecraft Agents](../../conferences/neurips-2026/cards-0008.md#paper-155208)
+- [Mirror, Mirror on the Wall: Can VLM Agents Tell Who They Are at All?](../../conferences/neurips-2026/cards-0008.md#paper-139456)
+- [Mobility Helps Learning: Unsupervised Model Adaptation for Object Recognition via Movement](../../conferences/neurips-2026/cards-0008.md#paper-153889)
+- [MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting](../../conferences/neurips-2026/cards-0008.md#paper-150057)
 
 <!-- conference-classification:end -->

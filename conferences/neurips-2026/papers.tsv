@@ -4926,126 +4926,126 @@ poster_id	title	paper_url	status	reason
 155952	MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis	https://neurips.cc/virtual/2026/poster/155952	included	合成良性推理训练题先拆解可验证规则步骤，再控制组合难度。
 150991	MIND: Monge Inception Distance for Generative Models Evaluation	https://neurips.cc/virtual/2026/poster/150991	included	模型生成快速迭代用投影传输度量提高小样本评估效率。
 149071	MindShape: Superquadric-Constrained High-Fidelity 3D Reconstruction from fMRI	https://neurips.cc/virtual/2026/poster/149071	included	高噪声几何解码先恢复低维形状基元再条件生成。
-139386	Mind the Gap: Dataset and Fine-grained Evaluation for Inline Audio Descriptions	https://neurips.cc/virtual/2026/poster/139386	pending	-
-154578	Mind the Gap: Information Disadvantage as a Learning Signal in Cooperative MARL	https://neurips.cc/virtual/2026/poster/154578	pending	-
-152724	Mind the Gap: The Divergent Rebound Dynamics of Diffusion and Autoregressive Model	https://neurips.cc/virtual/2026/poster/152724	pending	-
-152687	Mind the Heads: Topological Representation Alignment for Multimodal LLMs	https://neurips.cc/virtual/2026/poster/152687	pending	-
-154012	Mind the Parameters: Lightweight and Efficient Brain Visual Decoding with Shared Tensor Cores	https://neurips.cc/virtual/2026/poster/154012	pending	-
-154514	MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection	https://neurips.cc/virtual/2026/poster/154514	pending	-
-155208	MineEvolve: Self-Evolution with Accumulated Knowledge for Long-Horizon Embodied Minecraft Agents	https://neurips.cc/virtual/2026/poster/155208	pending	-
-138967	MINEGRID: A Multi-Modal Benchmark for LLMs Evaluation on Dynamic Modeling of Power Systems	https://neurips.cc/virtual/2026/poster/138967	pending	-
-139545	MinerU2.5-Pro: Pushing the Limit of Document Parsing via a Calibrated Evaluation-Data Flywheel	https://neurips.cc/virtual/2026/poster/139545	pending	-
-139619	Mini Amusement Parks (MAPs): A Testbed for Modelling Business Decisions	https://neurips.cc/virtual/2026/poster/139619	pending	-
-156028	Mini-batch kernel $k$-means	https://neurips.cc/virtual/2026/poster/156028	pending	-
-153525	Minimally Invasive Steering of Language Models	https://neurips.cc/virtual/2026/poster/153525	pending	-
-149681	Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification	https://neurips.cc/virtual/2026/poster/149681	pending	-
-152805	Minimax Optimal Estimation of Transport-Growth Pairs in Unbalanced Optimal Transport	https://neurips.cc/virtual/2026/poster/152805	pending	-
-149505	Minimax Optimal Kernel Two-sample Testing in Sub-quadratic Time	https://neurips.cc/virtual/2026/poster/149505	pending	-
-153031	Minimax-Optimal Transformer Classification for Functional Data with Dense-Sparse Phase Transition	https://neurips.cc/virtual/2026/poster/153031	pending	-
-156669	Minimax Optimal Two-Sample Testing under Local Differential Privacy	https://neurips.cc/virtual/2026/poster/156669	pending	-
-149739	Minimax Optimization without Spurious Solutions in Optimal Transport Learning	https://neurips.cc/virtual/2026/poster/149739	pending	-
-150423	Minimax Private Estimation of Smooth Optimal-Transport Maps	https://neurips.cc/virtual/2026/poster/150423	pending	-
-155405	Minimax Rates and Spectral Distillation for Tree Ensembles	https://neurips.cc/virtual/2026/poster/155405	pending	-
-153637	Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM	https://neurips.cc/virtual/2026/poster/153637	pending	-
-152179	Mining Logic under Uncertainty: Probabilistic Soft Logic with Energy-Based Inference for Chain-of-Thought Verification	https://neurips.cc/virtual/2026/poster/152179	pending	-
-151329	MiniPIC: Flexible Position-Independent Caching in <100LOC	https://neurips.cc/virtual/2026/poster/151329	pending	-
-152184	Min-Max Optimization Requires Exponentially Many Queries	https://neurips.cc/virtual/2026/poster/152184	pending	-
-155043	MinMax Recurrent Neural Cascades	https://neurips.cc/virtual/2026/poster/155043	pending	-
-155021	MinPath: Learning Efficient LLM Reasoning via Minimal Dependency Paths	https://neurips.cc/virtual/2026/poster/155021	pending	-
-166291	Min-p, Max Exaggeration: A Critical Analysis of Min-p Sampling in Language Models	https://neurips.cc/virtual/2026/poster/166291	pending	-
-152253	MinSteer: Minimal-Pair Steering via Two-Stage Cached Continuation	https://neurips.cc/virtual/2026/poster/152253	pending	-
-154850	MINT: Meeting-time INdicators for Truncation in Multi-Step Off-Policy RL	https://neurips.cc/virtual/2026/poster/154850	pending	-
-149712	MIRAGE: Adaptive Multimodal Gating for Whole-Brain fMRI Encoding	https://neurips.cc/virtual/2026/poster/149712	pending	-
-150478	MIRAGE: Duality-Inspired MILP Augmentation for Representation Learning	https://neurips.cc/virtual/2026/poster/150478	pending	-
-151455	MIRAGE: Hierarchical MI-Surrogate Regulation for Graph Contrastive Learning	https://neurips.cc/virtual/2026/poster/151455	pending	-
-156106	MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models	https://neurips.cc/virtual/2026/poster/156106	pending	-
-148843	MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation	https://neurips.cc/virtual/2026/poster/148843	pending	-
-153690	MIRA: Reinforcing Multimodal Reasoning via Deceptive Contextual Augmentation	https://neurips.cc/virtual/2026/poster/153690	pending	-
-139149	MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome	https://neurips.cc/virtual/2026/poster/139149	pending	-
-151517	Mirror descent actor-critic methods for entropy regularised MDPs in general spaces: stability and convergence	https://neurips.cc/virtual/2026/poster/151517	pending	-
-148349	Mirror Descent-Ascent for mean-field min-max problems	https://neurips.cc/virtual/2026/poster/148349	pending	-
-149621	Mirror Descent Beyond Euclidean Stability:  An Exponential Separation in Initialization Sensitivity	https://neurips.cc/virtual/2026/poster/149621	pending	-
-149292	MIRROR: Manifold Ideal Reference ReconstructOR for AI-Generated Image Detection	https://neurips.cc/virtual/2026/poster/149292	pending	-
-139456	Mirror, Mirror on the Wall: Can VLM Agents Tell Who They Are at All?	https://neurips.cc/virtual/2026/poster/139456	pending	-
-154274	(Mis)generalization of Helpful-Only Fine-Tuning	https://neurips.cc/virtual/2026/poster/154274	pending	-
-151277	Missing data and cluster graphs: cluster-level missingness vs variable-level missingness	https://neurips.cc/virtual/2026/poster/151277	pending	-
-148513	Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction	https://neurips.cc/virtual/2026/poster/148513	pending	-
-139144	Mission Impossible: Diagnosing and Fixing Non-Operative Instruction Following in Image Editing	https://neurips.cc/virtual/2026/poster/139144	pending	-
-151234	MissPath-FM: Flow Matching with Structured Priors for Partially Observed Time Series	https://neurips.cc/virtual/2026/poster/151234	pending	-
-151675	MIST: Reliable Streaming Decision Trees for Online Class-Incremental Learning via McDiarmid Bound	https://neurips.cc/virtual/2026/poster/151675	pending	-
-149958	Mitigating Asymmetric Boundary Encroachment in Continual Learning of Vision-Language Models	https://neurips.cc/virtual/2026/poster/149958	pending	-
-151330	Mitigating Compounding Errors in Online Reinforcement Learning via Optimal Transport Regularized Flow Matching	https://neurips.cc/virtual/2026/poster/151330	pending	-
-153397	Mitigating Confidence Miscalibration in Open-World Semi-Supervised Learning	https://neurips.cc/virtual/2026/poster/153397	pending	-
-151193	Mitigating Data Heterogeneity Effect in Client-Reshuffling-Based Federated Learning	https://neurips.cc/virtual/2026/poster/151193	pending	-
-155434	Mitigating Factual Hallucination in Large Reasoning Models via Mixed-Mode Advantage Regularization	https://neurips.cc/virtual/2026/poster/155434	pending	-
-148202	Mitigating Knowledge Conflicts in Retrieval-Augmented Generation via Inference-Time Representation Editing	https://neurips.cc/virtual/2026/poster/148202	pending	-
-152501	Mitigating Label Bias with Interpretable Rubric Embeddings	https://neurips.cc/virtual/2026/poster/152501	pending	-
-150519	Mitigating Memorization Where It Happens	https://neurips.cc/virtual/2026/poster/150519	pending	-
-150874	Mitigating Object Hallucination in Large Vision-Language Models via False Discovery Controlled Visual Data Splitting	https://neurips.cc/virtual/2026/poster/150874	pending	-
-148343	Mitigating Overgeneralization in RND via Spectral Target Design	https://neurips.cc/virtual/2026/poster/148343	pending	-
-150297	Mitigating Over-squashing without Rewiring: A Sheaf Effective Resistance Perspective	https://neurips.cc/virtual/2026/poster/150297	pending	-
-155452	Mitigating Overthinking in Large Reasoning Language Models via Reasoning Path Deviation Monitoring	https://neurips.cc/virtual/2026/poster/155452	pending	-
-149336	Mitigating Retaliatory Algorithmic Collusion in Repeated Games	https://neurips.cc/virtual/2026/poster/149336	pending	-
-153549	Mitigating Reward Hacking via Task Representations	https://neurips.cc/virtual/2026/poster/153549	pending	-
-155555	Mitigating Saliency Collapse: Robust Saliency-Aware Long-Text Image-Text Alignment	https://neurips.cc/virtual/2026/poster/155555	pending	-
-139166	MITO: A Millimeter-Wave Dataset and Simulator for Non-Line-of-Sight Perception	https://neurips.cc/virtual/2026/poster/139166	pending	-
-149462	Mixed-Curvature Geometric Latent Diffusion Model for Graph Generation	https://neurips.cc/virtual/2026/poster/149462	pending	-
-154656	MixForensics: Blend Before You Encode for Generalizable AI-Generated Video Detection	https://neurips.cc/virtual/2026/poster/154656	pending	-
-153190	MixNLQ: An Effective Post-Training Nonlinear Low-Bit Quantization Method for Large Language Models	https://neurips.cc/virtual/2026/poster/153190	pending	-
-152257	Mix-Opt: Mixed Optimization for Memory-Efficient Personalization of Text-to-Image Diffusion Models	https://neurips.cc/virtual/2026/poster/152257	pending	-
-151615	MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing	https://neurips.cc/virtual/2026/poster/151615	pending	-
-154439	MixScentNet: A Multiscale Graph-based Framework for Predicting Scent Mixture Perception	https://neurips.cc/virtual/2026/poster/154439	pending	-
-155502	Mixture of Activations: Token-Adaptive Mixing for Expressive Feedforward Layers	https://neurips.cc/virtual/2026/poster/155502	pending	-
-148704	Mixture of Attribute-Aware Attention Experts for Fine-grained E-Commerce Composed Image Retrieval	https://neurips.cc/virtual/2026/poster/148704	pending	-
-148842	Mixture-of-Chains: Learning Causal Graphs from Human Knowledge	https://neurips.cc/virtual/2026/poster/148842	pending	-
-148178	Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models	https://neurips.cc/virtual/2026/poster/148178	pending	-
-154027	Mixture-of-Experts for Online Matrix Completion on a Drifting Union of Subspaces	https://neurips.cc/virtual/2026/poster/154027	pending	-
-149639	Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion	https://neurips.cc/virtual/2026/poster/149639	pending	-
-153187	Mixture of Layers: Dynamic Layer Routing for Visual Reasoning	https://neurips.cc/virtual/2026/poster/153187	pending	-
-152647	Mixture of Probes: Learning with Privileged Modalities in Multimodal LLMs Through Probing	https://neurips.cc/virtual/2026/poster/152647	pending	-
-150679	Mixture-of-Top-$k$ Attention: Efficient Attention as Scalable Fast Weights	https://neurips.cc/virtual/2026/poster/150679	pending	-
-155106	Mixture-Trained Merging for Unified Multi-Objective Models	https://neurips.cc/virtual/2026/poster/155106	pending	-
-150954	MixUni: Joint Multi-Property Prediction for Chemical Mixtures with Physics-Informed Heads	https://neurips.cc/virtual/2026/poster/150954	pending	-
-149174	MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment	https://neurips.cc/virtual/2026/poster/149174	pending	-
-139143	MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocol	https://neurips.cc/virtual/2026/poster/139143	pending	-
-150264	ML-assisted Randomization Tests for A/B Experiments	https://neurips.cc/virtual/2026/poster/150264	pending	-
-140120	ML Configuration Artifacts Should Be Closed Under Review	https://neurips.cc/virtual/2026/poster/140120	pending	-
-139518	MLLM-Edit: Benchmarking Image Forgery Detection and Localization under MLLM-based Editing	https://neurips.cc/virtual/2026/poster/139518	pending	-
-155572	MLLMEraser: Achieving Test-Time Unlearning in Multimodal Large Language Models through Activation Steering	https://neurips.cc/virtual/2026/poster/155572	pending	-
-148801	MLLM Makes Strong Backbone for Multi-Modal Object Detection	https://neurips.cc/virtual/2026/poster/148801	pending	-
-139387	MLLMs Fail to Refuse when Using Tools Agentically	https://neurips.cc/virtual/2026/poster/139387	pending	-
-139626	MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI	https://neurips.cc/virtual/2026/poster/139626	pending	-
-139339	MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation	https://neurips.cc/virtual/2026/poster/139339	pending	-
-150160	MMCompass: Diagnosing Position Bias in Generative Multimodal Reward Models	https://neurips.cc/virtual/2026/poster/150160	pending	-
-151180	MMDiff: Multimodal Model Diffing for Feature Discovery and Control	https://neurips.cc/virtual/2026/poster/151180	pending	-
-139855	MM-DyGraph: A Dataset, Benchmark, and Model for Multimodal Dynamic Graphs	https://neurips.cc/virtual/2026/poster/139855	pending	-
-139294	MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods	https://neurips.cc/virtual/2026/poster/139294	pending	-
-156108	MMGraph-Agent: Agentic Multimodal RAG via Cache-Inspired Multimodal Knowledge HyperGraphs	https://neurips.cc/virtual/2026/poster/156108	pending	-
-139107	MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization	https://neurips.cc/virtual/2026/poster/139107	pending	-
-148320	mmLIP: mmWave Radar-Language Interactive Pretraining via Point Confidence	https://neurips.cc/virtual/2026/poster/148320	pending	-
-139310	MMLongCite: A Benchmark for Evaluating Faithfulness of Long-Context Vision-Language Models	https://neurips.cc/virtual/2026/poster/139310	pending	-
-139697	MM-OptBench: A Solver-Grounded Benchmark for Multimodal Optimization Modeling	https://neurips.cc/virtual/2026/poster/139697	pending	-
-139150	MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos	https://neurips.cc/virtual/2026/poster/139150	pending	-
-139031	MM-SCALE: Evaluating Evidence-Grounded Moral Judgment in Vision-Language Models	https://neurips.cc/virtual/2026/poster/139031	pending	-
-148831	MMSkills: Towards Multimodal Skills for General Visual Agents	https://neurips.cc/virtual/2026/poster/148831	pending	-
-139823	MMTA: Benchmarking Multimodal Temporal Analysis with Time Series, Text, and Vision	https://neurips.cc/virtual/2026/poster/139823	pending	-
-152953	MoBayes: A Modular Bayesian Framework for Separating Reasoning from Language in Conversational Clinical Decision Support	https://neurips.cc/virtual/2026/poster/152953	pending	-
-150777	MobileMoE: Scaling On-Device Mixture of Experts	https://neurips.cc/virtual/2026/poster/150777	pending	-
-151986	MobileWan: Closing the Quality Gap for Mobile Video Diffusion	https://neurips.cc/virtual/2026/poster/151986	pending	-
-153889	Mobility Helps Learning: Unsupervised Model Adaptation for Object Recognition via Movement	https://neurips.cc/virtual/2026/poster/153889	pending	-
-152455	MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM	https://neurips.cc/virtual/2026/poster/152455	pending	-
-150853	MOBO-CAPS: Multi-objective Bayesian Optimization with Cardinality-Aware Pareto Selection	https://neurips.cc/virtual/2026/poster/150853	pending	-
-156039	MobTA: Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic	https://neurips.cc/virtual/2026/poster/156039	pending	-
-153055	MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation	https://neurips.cc/virtual/2026/poster/153055	pending	-
-150057	MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting	https://neurips.cc/virtual/2026/poster/150057	pending	-
-148729	MOCHA: Discovering Multi-Order Dynamic Causal Structure in Temporal Point Processes	https://neurips.cc/virtual/2026/poster/148729	pending	-
-148334	Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/148334	pending	-
-150494	Modality-Depth Routing for Visual Reasoning in VLM Post-Training	https://neurips.cc/virtual/2026/poster/150494	pending	-
-150744	Mode-Controlled Policy Optimization: A Geometry-Aware Recipe for LLM Post-Training	https://neurips.cc/virtual/2026/poster/150744	pending	-
-154208	Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use	https://neurips.cc/virtual/2026/poster/154208	pending	-
-150705	Model-Agnostic FDR Control via Group Gaussian Mirror and Permutation SHAP	https://neurips.cc/virtual/2026/poster/150705	pending	-
-156064	Model-Aware Tokenizer Transfer	https://neurips.cc/virtual/2026/poster/156064	pending	-
-156045	Model-based Bootstrap of Controlled Markov Chains	https://neurips.cc/virtual/2026/poster/156045	pending	-
+139386	Mind the Gap: Dataset and Fine-grained Evaluation for Inline Audio Descriptions	https://neurips.cc/virtual/2026/poster/139386	included	无障碍音频描述按实际音轨而非文本长度验收。
+154578	Mind the Gap: Information Disadvantage as a Learning Signal in Cooperative MARL	https://neurips.cc/virtual/2026/poster/154578	included	按局部观测的价值缺口塑形信用与探索。
+152724	Mind the Gap: The Divergent Rebound Dynamics of Diffusion and Autoregressive Model	https://neurips.cc/virtual/2026/poster/152724	included	对齐验收用后续分布变化复测不同架构。
+152687	Mind the Heads: Topological Representation Alignment for Multimodal LLMs	https://neurips.cc/virtual/2026/poster/152687	included	视觉对齐优先调整原本最不对齐的注意力头。
+154012	Mind the Parameters: Lightweight and Efficient Brain Visual Decoding with Shared Tensor Cores	https://neurips.cc/virtual/2026/poster/154012	included	跨人脑解码共享张量基，个体差异以小残差适配。
+154514	MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection	https://neurips.cc/virtual/2026/poster/154514	included	神经图文学习使用采集时真实可见区域对应的监督。
+155208	MineEvolve: Self-Evolution with Accumulated Knowledge for Long-Horizon Embodied Minecraft Agents	https://neurips.cc/virtual/2026/poster/155208	included	长时执行失败后只修补未完成计划并保存原因。
+138967	MINEGRID: A Multi-Modal Benchmark for LLMs Evaluation on Dynamic Modeling of Power Systems	https://neurips.cc/virtual/2026/poster/138967	excluded	主要发布专业图表转方程基准，摘要未披露可复用模型机制或细分失败规律。
+139545	MinerU2.5-Pro: Pushing the Limit of Document Parsing via a Calibrated Evaluation-Data Flywheel	https://neurips.cc/virtual/2026/poster/139545	included	文档解析同时保留困难集和适应粒度匹配。
+139619	Mini Amusement Parks (MAPs): A Testbed for Modelling Business Decisions	https://neurips.cc/virtual/2026/poster/139619	excluded	摘要主要给管理模拟与总体人机差距，没有可隔离的选型规律或独立机制。
+156028	Mini-batch kernel $k$-means	https://neurips.cc/virtual/2026/poster/156028	included	大规模核聚类以小批近似降低成对计算。
+153525	Minimally Invasive Steering of Language Models	https://neurips.cc/virtual/2026/poster/153525	included	隐状态引导按分布距离限制干预。
+149681	Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification	https://neurips.cc/virtual/2026/poster/149681	included	带标签噪声高维分类优先比较早停与最大间隔。
+152805	Minimax Optimal Estimation of Transport-Growth Pairs in Unbalanced Optimal Transport	https://neurips.cc/virtual/2026/poster/152805	included	非平衡运输同时估位置变化与质量变化。
+149505	Minimax Optimal Kernel Two-sample Testing in Sub-quadratic Time	https://neurips.cc/virtual/2026/poster/149505	included	MMD 核和以结构化前缀查询替代平方枚举。
+153031	Minimax-Optimal Transformer Classification for Functional Data with Dense-Sparse Phase Transition	https://neurips.cc/virtual/2026/poster/153031	included	函数分类按采样频率和样本数共同设计注意窗口。
+156669	Minimax Optimal Two-Sample Testing under Local Differential Privacy	https://neurips.cc/virtual/2026/poster/156669	included	局部隐私双样本可用置换校准并对连续输入分箱。
+149739	Minimax Optimization without Spurious Solutions in Optimal Transport Learning	https://neurips.cc/virtual/2026/poster/149739	included	运输极小极大训练检查伪解是否由形状限制引入。
+150423	Minimax Private Estimation of Smooth Optimal-Transport Maps	https://neurips.cc/virtual/2026/poster/150423	included	私有平滑运输估计按维数选择分位或密度表示。
+155405	Minimax Rates and Spectral Distillation for Tree Ensembles	https://neurips.cc/virtual/2026/poster/155405	included	蒸馏树集成时保留预测算子的主谱方向。
+153637	Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM	https://neurips.cc/virtual/2026/poster/153637	excluded	语音与文字输入对齐整体有收益，摘要未隔离韵律通道相对一般多模态编码的独立作用。
+152179	Mining Logic under Uncertainty: Probabilistic Soft Logic with Energy-Based Inference for Chain-of-Thought Verification	https://neurips.cc/virtual/2026/poster/152179	included	验证不确定中间结论时，在同一证据下比较结论及其否定的支持强度。
+151329	MiniPIC: Flexible Position-Independent Caching in <100LOC	https://neurips.cc/virtual/2026/poster/151329	included	缓存文本片段需跨位置复用时，缓存未旋转键并在请求中补逻辑位置。
+152184	Min-Max Optimization Requires Exponentially Many Queries	https://neurips.cc/virtual/2026/poster/152184	excluded	下界有严格理论价值，但摘要缺少可用于判断实际结构或避开界的条件。
+155043	MinMax Recurrent Neural Cascades	https://neurips.cc/virtual/2026/poster/155043	included	长程状态追踪既需有界又需并行时，考虑 MinMax 递推级联。
+155021	MinPath: Learning Efficient LLM Reasoning via Minimal Dependency Paths	https://neurips.cc/virtual/2026/poster/155021	included	压缩推理训练轨迹时，按最终结论依赖选择步骤，而非只按字数缩写。
+166291	Min-p, Max Exaggeration: A Critical Analysis of Min-p Sampling in Language Models	https://neurips.cc/virtual/2026/poster/166291	included	替换采样器之前，在匹配超参数搜索数量的条件下重测，保留完整人工评价。
+152253	MinSteer: Minimal-Pair Steering via Two-Stage Cached Continuation	https://neurips.cc/virtual/2026/poster/152253	excluded	缓存改写有候选价值，但机制与已有干预方向重叠且摘要未拆解不同任务保真。
+154850	MINT: Meeting-time INdicators for Truncation in Multi-Step Off-Policy RL	https://neurips.cc/virtual/2026/poster/154850	included	多步离策略 TD 对轨迹比率敏感时，比较耦合相遇截断和传统连续系数。
+149712	MIRAGE: Adaptive Multimodal Gating for Whole-Brain fMRI Encoding	https://neurips.cc/virtual/2026/poster/149712	excluded	原生融合和深度选择有候选价值，当前 fMRI 摘要证据难单列跨任务方案。
+150478	MIRAGE: Duality-Inspired MILP Augmentation for Representation Learning	https://neurips.cc/virtual/2026/poster/150478	included	增广整数规划训练样本时，要求扰动保留求解树或原最优解结构。
+151455	MIRAGE: Hierarchical MI-Surrogate Regulation for Graph Contrastive Learning	https://neurips.cc/virtual/2026/poster/151455	excluded	多项目校准和补偿路径使摘要不足以确认单个一致性目标的独立边界。
+156106	MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models	https://neurips.cc/virtual/2026/poster/156106	excluded	隐推理与截图预测的组合未单独隔离未来对齐收益。
+148843	MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation	https://neurips.cc/virtual/2026/poster/148843	included	无标签在线适配时，降低对轻量分类头扰动敏感的测试样本权重。
+153690	MIRA: Reinforcing Multimodal Reasoning via Deceptive Contextual Augmentation	https://neurips.cc/virtual/2026/poster/153690	excluded	错配视觉训练与反思机制并入，摘要缺少两者各自可复用的触发条件。
+139149	MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome	https://neurips.cc/virtual/2026/poster/139149	excluded	与已有多阶段 Agent 诊断相近，摘要未提供过程评估如何直接选择改进机制。
+151517	Mirror descent actor-critic methods for entropy regularised MDPs in general spaces: stability and convergence	https://neurips.cc/virtual/2026/poster/151517	excluded	摘要未给出能实际决定 TD 步数的下界形式或可辨识量。
+148349	Mirror Descent-Ascent for mean-field min-max problems	https://neurips.cc/virtual/2026/poster/148349	excluded	测度最优化理论改进局限结构设定，摘要未明确可迁移的振荡或更新指标。
+149621	Mirror Descent Beyond Euclidean Stability:  An Exponential Separation in Initialization Sensitivity	https://neurips.cc/virtual/2026/poster/149621	included	采用非二次镜像下降时，要对近邻初始化做敏感性测试，必要时向固定点加锚。
+149292	MIRROR: Manifold Ideal Reference ReconstructOR for AI-Generated Image Detection	https://neurips.cc/virtual/2026/poster/149292	included	AI 图像检测要迁移新生成器时，比较固定真实域参考与学习近期伪迹。
+139456	Mirror, Mirror on the Wall: Can VLM Agents Tell Who They Are at All?	https://neurips.cc/virtual/2026/poster/139456	included	视觉自我定位通过移除或遮挡关键反射验证证据使用。
+154274	(Mis)generalization of Helpful-Only Fine-Tuning	https://neurips.cc/virtual/2026/poster/154274	excluded	主要研究降低模型安全拒绝及其副作用，摘要没有独立的防御方法。
+151277	Missing data and cluster graphs: cluster-level missingness vs variable-level missingness	https://neurips.cc/virtual/2026/poster/151277	included	缺失数据分析先问聚合缺失指标能否辨识目标。
+148513	Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction	https://neurips.cc/virtual/2026/poster/148513	included	异步策略修正分开估计推理引擎差异与旧策略滞后。
+139144	Mission Impossible: Diagnosing and Fixing Non-Operative Instruction Following in Image Editing	https://neurips.cc/virtual/2026/poster/139144	included	图像编辑验收要单测不应动作和部分可执行。
+151234	MissPath-FM: Flow Matching with Structured Priors for Partially Observed Time Series	https://neurips.cc/virtual/2026/poster/151234	included	不完整时序让源和流路径优先对真实缺口分配计算。
+151675	MIST: Reliable Streaming Decision Trees for Online Class-Incremental Learning via McDiarmid Bound	https://neurips.cc/virtual/2026/poster/151675	included	流式树分裂置信半径应独立于逐步增长的类数。
+149958	Mitigating Asymmetric Boundary Encroachment in Continual Learning of Vision-Language Models	https://neurips.cc/virtual/2026/poster/149958	included	持续视觉语言学习要测新概念是否侵入旧决策边界。
+151330	Mitigating Compounding Errors in Online Reinforcement Learning via Optimal Transport Regularized Flow Matching	https://neurips.cc/virtual/2026/poster/151330	included	世界模型可直接做整轨迹生成以减少逐步误差。
+153397	Mitigating Confidence Miscalibration in Open-World Semi-Supervised Learning	https://neurips.cc/virtual/2026/poster/153397	excluded	摘要结合按类置信阈值和伪标签融合，未给可区分于已有校准方法的独立效应。
+151193	Mitigating Data Heterogeneity Effect in Client-Reshuffling-Based Federated Learning	https://neurips.cc/virtual/2026/poster/151193	included	联邦洗牌更新应按全客户端访问周期而非逐轮分析偏差。
+155434	Mitigating Factual Hallucination in Large Reasoning Models via Mixed-Mode Advantage Regularization	https://neurips.cc/virtual/2026/poster/155434	included	事实问答训练用同模型直接回答作思考的对照。
+148202	Mitigating Knowledge Conflicts in Retrieval-Augmented Generation via Inference-Time Representation Editing	https://neurips.cc/virtual/2026/poster/148202	included	检索冲突控制需区分可靠外部证据和含噪文档。
+152501	Mitigating Label Bias with Interpretable Rubric Embeddings	https://neurips.cc/virtual/2026/poster/152501	included	带偏历史标签的预测可先构造专家定义、可审计的评价维度。
+150519	Mitigating Memorization Where It Happens	https://neurips.cc/virtual/2026/poster/150519	included	记忆防护用局部检测引导修正，并分别验收复述和能力保持。
+150874	Mitigating Object Hallucination in Large Vision-Language Models via False Discovery Controlled Visual Data Splitting	https://neurips.cc/virtual/2026/poster/150874	included	物体生成错误按每张图的错误发现比例控制。
+148343	Mitigating Overgeneralization in RND via Spectral Target Design	https://neurips.cc/virtual/2026/poster/148343	included	RND 过度泛化应检查目标与预测器的频谱组合。
+150297	Mitigating Over-squashing without Rewiring: A Sheaf Effective Resistance Perspective	https://neurips.cc/virtual/2026/poster/150297	included	长程图消息瓶颈可通过调整纤维映射而不重连图。
+155452	Mitigating Overthinking in Large Reasoning Language Models via Reasoning Path Deviation Monitoring	https://neurips.cc/virtual/2026/poster/155452	included	推理提前停止应同时看局部熵突升和端到端耗时。
+149336	Mitigating Retaliatory Algorithmic Collusion in Repeated Games	https://neurips.cc/virtual/2026/poster/149336	included	竞争代理审计应检查同一策略是否对历史进行条件性惩罚。
+153549	Mitigating Reward Hacking via Task Representations	https://neurips.cc/virtual/2026/poster/153549	included	保留任务理解可只约束提示位置的分布。
+155555	Mitigating Saliency Collapse: Robust Saliency-Aware Long-Text Image-Text Alignment	https://neurips.cc/virtual/2026/poster/155555	included	图文对齐分别监督显著物和不显著语境。
+139166	MITO: A Millimeter-Wave Dataset and Simulator for Non-Line-of-Sight Perception	https://neurips.cc/virtual/2026/poster/139166	excluded	主要发布毫米波对象数据、仿真器和任务基准，摘要未给出可独立复用的感知机制。
+149462	Mixed-Curvature Geometric Latent Diffusion Model for Graph Generation	https://neurips.cc/virtual/2026/poster/149462	included	异质图生成将不同结构放到适配曲率的子空间。
+154656	MixForensics: Blend Before You Encode for Generalizable AI-Generated Video Detection	https://neurips.cc/virtual/2026/poster/154656	included	视频伪造检测在编码前让多帧证据相互作用。
+153190	MixNLQ: An Effective Post-Training Nonlinear Low-Bit Quantization Method for Large Language Models	https://neurips.cc/virtual/2026/poster/153190	included	重尾权重低位量化采用算术可解的非均匀网格。
+152257	Mix-Opt: Mixed Optimization for Memory-Efficient Personalization of Text-to-Image Diffusion Models	https://neurips.cc/virtual/2026/poster/152257	included	端侧扩散适配交替低分辨率反传与高分辨率零阶更新。
+151615	MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing	https://neurips.cc/virtual/2026/poster/151615	included	路由跨分布先验证不同层级归一化的组合。
+154439	MixScentNet: A Multiscale Graph-based Framework for Predicting Scent Mixture Perception	https://neurips.cc/virtual/2026/poster/154439	included	组合感知将成分表征放进可交互的第二层图。
+155502	Mixture of Activations: Token-Adaptive Mixing for Expressive Feedforward Layers	https://neurips.cc/virtual/2026/poster/155502	included	共享 FFN 投影后按词元混合不同激活。
+148704	Mixture of Attribute-Aware Attention Experts for Fine-grained E-Commerce Composed Image Retrieval	https://neurips.cc/virtual/2026/poster/148704	excluded	主要是电商检索的多塔、增广和路由集成，摘要未给可区分的新增机制或必要消融。
+148842	Mixture-of-Chains: Learning Causal Graphs from Human Knowledge	https://neurips.cc/virtual/2026/poster/148842	included	不一致的因果判断先建潜在链再合并。
+148178	Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models	https://neurips.cc/virtual/2026/poster/148178	included	状态微调在块间稀疏选择控制源。
+154027	Mixture-of-Experts for Online Matrix Completion on a Drifting Union of Subspaces	https://neurips.cc/virtual/2026/poster/154027	included	漂移低秩流只更新本次样本对应的专家。
+149639	Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion	https://neurips.cc/virtual/2026/poster/149639	included	扩散 Mamba 随步数选择层级专家和扫描深度。
+153187	Mixture of Layers: Dynamic Layer Routing for Visual Reasoning	https://neurips.cc/virtual/2026/poster/153187	included	按提问选择视觉编码器中间层。
+152647	Mixture of Probes: Learning with Privileged Modalities in Multimodal LLMs Through Probing	https://neurips.cc/virtual/2026/poster/152647	included	特权模态通过中层探针提供训练监督。
+150679	Mixture-of-Top-$k$ Attention: Efficient Attention as Scalable Fast Weights	https://neurips.cc/virtual/2026/poster/150679	included	用少量地标构造跨查询共享的可变稀疏注意专家。
+155106	Mixture-Trained Merging for Unified Multi-Objective Models	https://neurips.cc/virtual/2026/poster/155106	included	计划合并的专家预训练时混入彼此目标。
+150954	MixUni: Joint Multi-Property Prediction for Chemical Mixtures with Physics-Informed Heads	https://neurips.cc/virtual/2026/poster/150954	included	相关材料属性共享骨干但保留各自的物理响应头。
+149174	MJ: Multi-turn LLM Jailbreaking via Decomposed Credit Assignment	https://neurips.cc/virtual/2026/poster/149174	excluded	核心是优化多轮越狱攻击训练，暂不提取操作方法。
+139143	MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocol	https://neurips.cc/virtual/2026/poster/139143	included	多语检索中，用内容等价的平行段落分别测正确证据和查询语言偏好。
+150264	ML-assisted Randomization Tests for A/B Experiments	https://neurips.cc/virtual/2026/poster/150264	included	A/B 试验可能有异质效应时，以纳入处理变量后的样本外预测增益作随机化检验统计量。
+140120	ML Configuration Artifacts Should Be Closed Under Review	https://neurips.cc/virtual/2026/poster/140120	excluded	配置闭包是有用设计立场，摘要未提供减少错误率或改善审计的独立对照。
+139518	MLLM-Edit: Benchmarking Image Forgery Detection and Localization under MLLM-based Editing	https://neurips.cc/virtual/2026/poster/139518	excluded	主要提供新编辑数据及定位基准，摘要缺少从失败规律导出的独立防护措施。
+155572	MLLMEraser: Achieving Test-Time Unlearning in Multimodal Large Language Models through Activation Steering	https://neurips.cc/virtual/2026/poster/155572	excluded	对比方向和输入门控有价值，但摘要未给出两者独立效果或实际遗忘保证。
+148801	MLLM Makes Strong Backbone for Multi-Modal Object Detection	https://neurips.cc/virtual/2026/poster/148801	excluded	几何目标候选与已有离散坐标对齐重叠，摘要未单独对比邻域损失与模态融合。
+139387	MLLMs Fail to Refuse when Using Tools Agentically	https://neurips.cc/virtual/2026/poster/139387	included	新增视觉工具时，应重新验收助手的安全拒绝能力，不能直接套用无工具版基线。
+139626	MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI	https://neurips.cc/virtual/2026/poster/139626	included	判断 Agent 能否发现 ML 方法时，要求改进跨受控设置及规模，而不是单任务分数领先。
+139339	MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation	https://neurips.cc/virtual/2026/poster/139339	excluded	视觉界面风险需防御，目前摘要主要强调攻击与基准覆盖，暂不提取指向目标的操作。
+150160	MMCompass: Diagnosing Position Bias in Generative Multimodal Reward Models	https://neurips.cc/virtual/2026/poster/150160	included	模型评委应调换回答次序后重复判断，并报告双向一致。
+151180	MMDiff: Multimodal Model Diffing for Feature Discovery and Control	https://neurips.cc/virtual/2026/poster/151180	included	定位多模态适配新增特征时，比较适配前后字典并做任务选择性消融。
+139855	MM-DyGraph: A Dataset, Benchmark, and Model for Multimodal Dynamic Graphs	https://neurips.cc/virtual/2026/poster/139855	excluded	目标依赖的融合候选有价值，摘要未明确哪类目标切换能决定应屏蔽哪种模态。
+139294	MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods	https://neurips.cc/virtual/2026/poster/139294	excluded	难度筛选得到小子集是候选规律，但摘要未提供筛选规则、保持的分数和多样性控制。
+156108	MMGraph-Agent: Agentic Multimodal RAG via Cache-Inspired Multimodal Knowledge HyperGraphs	https://neurips.cc/virtual/2026/poster/156108	excluded	轻量超图构建和缓存检索未在摘要明确可独立复用的规则。
+139107	MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization	https://neurips.cc/virtual/2026/poster/139107	included	测软件 Agent 是否读到了截图线索时，只评价文件和函数定位并对照有无图片。
+148320	mmLIP: mmWave Radar-Language Interactive Pretraining via Point Confidence	https://neurips.cc/virtual/2026/poster/148320	included	雷达信号富有专属物理属性时，用点级的置信加权直接对齐语言。
+139310	MMLongCite: A Benchmark for Evaluating Faithfulness of Long-Context Vision-Language Models	https://neurips.cc/virtual/2026/poster/139310	excluded	答案与证据脱钩已在多模态证据诊断体现，摘要未给出足以区分长上下文新机制的发现。
+139697	MM-OptBench: A Solver-Grounded Benchmark for Multimodal Optimization Modeling	https://neurips.cc/virtual/2026/poster/139697	included	评估从图表生成优化程序时，用同一精确求解实例生成输入和隐藏校验，并拆解识别与建模失败。
+139150	MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos	https://neurips.cc/virtual/2026/poster/139150	excluded	长视频语料和能力覆盖很广，摘要没有列出具体可以改变模型选择的失效诊断。
+139031	MM-SCALE: Evaluating Evidence-Grounded Moral Judgment in Vision-Language Models	https://neurips.cc/virtual/2026/poster/139031	included	同图配多种动作，以排序和证据来源检查判断。
+148831	MMSkills: Towards Multimodal Skills for General Visual Agents	https://neurips.cc/virtual/2026/poster/148831	included	良性视觉任务的技能需记录状态和关键帧。
+139823	MMTA: Benchmarking Multimodal Temporal Analysis with Time Series, Text, and Vision	https://neurips.cc/virtual/2026/poster/139823	included	独立时序和视觉信号要按时间对应评估。
+152953	MoBayes: A Modular Bayesian Framework for Separating Reasoning from Language in Conversational Clinical Decision Support	https://neurips.cc/virtual/2026/poster/152953	included	临床对话评测将语言抽取和概率决策拆开。
+150777	MobileMoE: Scaling On-Device Mixture of Experts	https://neurips.cc/virtual/2026/poster/150777	included	端侧 MoE 架构按总存储、激活计算和实机 RAM 共同选择。
+151986	MobileWan: Closing the Quality Gap for Mobile Video Diffusion	https://neurips.cc/virtual/2026/poster/151986	included	端侧视频扩散用分块循环降低长上下文显存。
+153889	Mobility Helps Learning: Unsupervised Model Adaptation for Object Recognition via Movement	https://neurips.cc/virtual/2026/poster/153889	included	移动视觉适配用同物跨视图的预测方差选伪标签。
+152455	MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM	https://neurips.cc/virtual/2026/poster/152455	included	弹性量化需检查不同位宽下敏感词元变化。
+150853	MOBO-CAPS: Multi-objective Bayesian Optimization with Cardinality-Aware Pareto Selection	https://neurips.cc/virtual/2026/poster/150853	included	部署只要 M 个 Pareto 解时直接按集合基数设计采集。
+156039	MobTA: Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic	https://neurips.cc/virtual/2026/poster/156039	included	目标域无真实轨迹时可把公共代理任务到真实任务的参数差作为迁移假设。
+153055	MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation	https://neurips.cc/virtual/2026/poster/153055	included	多组件三维生成近邻详细交互，远邻压缩留存。
+150057	MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting	https://neurips.cc/virtual/2026/poster/150057	included	轨迹词元同时编码局部运动与坐标切换。
+148729	MOCHA: Discovering Multi-Order Dynamic Causal Structure in Temporal Point Processes	https://neurips.cc/virtual/2026/poster/148729	included	事件模型分开直接和经中间节点的时变影响。
+148334	Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models	https://neurips.cc/virtual/2026/poster/148334	included	专家裁剪按图像和文本拆评分。
+150494	Modality-Depth Routing for Visual Reasoning in VLM Post-Training	https://neurips.cc/virtual/2026/poster/150494	included	通用视觉监督训练可给模态单独分配层深。
+150744	Mode-Controlled Policy Optimization: A Geometry-Aware Recipe for LLM Post-Training	https://neurips.cc/virtual/2026/poster/150744	included	按平均正确和候选覆盖选择策略散度。
+154208	Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use	https://neurips.cc/virtual/2026/poster/154208	included	工具是否必要按当前模型实证判定，区别认知与执行。
+150705	Model-Agnostic FDR Control via Group Gaussian Mirror and Permutation SHAP	https://neurips.cc/virtual/2026/poster/150705	included	时序特征按来源块做误发现控制。
+156064	Model-Aware Tokenizer Transfer	https://neurips.cc/virtual/2026/poster/156064	included	换分词器时蒸馏源模型的跨词影响，减少初始化错配。
+156045	Model-based Bootstrap of Controlled Markov Chains	https://neurips.cc/virtual/2026/poster/156045	included	离线策略评估根据受控链转移建模自助法。
 149877	Model-Based Online Decision Making via Generative Trajectory Planning	https://neurips.cc/virtual/2026/poster/149877	pending	-
 155807	Model Capacity Determines Grokking through Competing Memorisation and Generalisation Speeds	https://neurips.cc/virtual/2026/poster/155807	pending	-
 148492	Model Cascades with Provable Per-Class Quality	https://neurips.cc/virtual/2026/poster/148492	pending	-

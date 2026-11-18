@@ -951,5 +951,15 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models](../../conferences/neurips-2026/cards-0008.md#paper-154952)
 - [Memory flows: geometry and dynamics of sequential retrieval in input-driven Hopfield networks](../../conferences/neurips-2026/cards-0008.md#paper-150585)
 - [Mildly Overparameterized ReLU Networks on Orthogonal Data: Incremental Learning and Implicit Bias](../../conferences/neurips-2026/cards-0008.md#paper-149598)
+- [Minimax Optimal Estimation of Transport-Growth Pairs in Unbalanced Optimal Transport](../../conferences/neurips-2026/cards-0008.md#paper-152805)
+- [Minimax-Optimal Transformer Classification for Functional Data with Dense-Sparse Phase Transition](../../conferences/neurips-2026/cards-0008.md#paper-153031)
+- [Minimax Optimal Two-Sample Testing under Local Differential Privacy](../../conferences/neurips-2026/cards-0008.md#paper-156669)
+- [Minimax Private Estimation of Smooth Optimal-Transport Maps](../../conferences/neurips-2026/cards-0008.md#paper-150423)
+- [Missing data and cluster graphs: cluster-level missingness vs variable-level missingness](../../conferences/neurips-2026/cards-0008.md#paper-151277)
+- [MIST: Reliable Streaming Decision Trees for Online Class-Incremental Learning via McDiarmid Bound](../../conferences/neurips-2026/cards-0008.md#paper-151675)
+- [Mitigating Over-squashing without Rewiring: A Sheaf Effective Resistance Perspective](../../conferences/neurips-2026/cards-0008.md#paper-150297)
+- [ML-assisted Randomization Tests for A/B Experiments](../../conferences/neurips-2026/cards-0008.md#paper-150264)
+- [Model-Agnostic FDR Control via Group Gaussian Mirror and Permutation SHAP](../../conferences/neurips-2026/cards-0008.md#paper-150705)
+- [Model-based Bootstrap of Controlled Markov Chains](../../conferences/neurips-2026/cards-0008.md#paper-156045)
 
 <!-- conference-classification:end -->

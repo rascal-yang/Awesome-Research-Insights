@@ -743,5 +743,15 @@
 - [Mental Imagery That Matters: Curing Latent Collapse in Multimodal Reasoning](../conferences/neurips-2026/cards-0008.md#paper-154565)
 - [Merging RLVR-Trained Experts via Policy-Shift-Guided Spectral Alignment](../conferences/neurips-2026/cards-0008.md#paper-149089)
 - [MetaCluster: Enabling Deep Compression of Kolmogorov-Arnold Network](../conferences/neurips-2026/cards-0008.md#paper-148967)
+- [MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection](../conferences/neurips-2026/cards-0008.md#paper-154514)
+- [Minimax Rates and Spectral Distillation for Tree Ensembles](../conferences/neurips-2026/cards-0008.md#paper-155405)
+- [MinPath: Learning Efficient LLM Reasoning via Minimal Dependency Paths](../conferences/neurips-2026/cards-0008.md#paper-155021)
+- [MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation](../conferences/neurips-2026/cards-0008.md#paper-148843)
+- [Mitigating Asymmetric Boundary Encroachment in Continual Learning of Vision-Language Models](../conferences/neurips-2026/cards-0008.md#paper-149958)
+- [Mixture of Probes: Learning with Privileged Modalities in Multimodal LLMs Through Probing](../conferences/neurips-2026/cards-0008.md#paper-152647)
+- [Mixture-Trained Merging for Unified Multi-Objective Models](../conferences/neurips-2026/cards-0008.md#paper-155106)
+- [Mobility Helps Learning: Unsupervised Model Adaptation for Object Recognition via Movement](../conferences/neurips-2026/cards-0008.md#paper-153889)
+- [MobTA: Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic](../conferences/neurips-2026/cards-0008.md#paper-156039)
+- [Model-Aware Tokenizer Transfer](../conferences/neurips-2026/cards-0008.md#paper-156064)
 
 <!-- conference-classification:end -->

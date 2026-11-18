@@ -598,5 +598,12 @@ Learning from interaction, feedback, and offline experience.
 - [MemPlan: Memory-Conditioned PDDL Planning for Partially Observable Text Environments](../../conferences/neurips-2026/cards-0008.md#paper-150108)
 - [MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels](../../conferences/neurips-2026/cards-0008.md#paper-154901)
 - [MHWA: Multi-timescale Hierarchical World-Action Model](../../conferences/neurips-2026/cards-0008.md#paper-154328)
+- [Mind the Gap: Information Disadvantage as a Learning Signal in Cooperative MARL](../../conferences/neurips-2026/cards-0008.md#paper-154578)
+- [MINT: Meeting-time INdicators for Truncation in Multi-Step Off-Policy RL](../../conferences/neurips-2026/cards-0008.md#paper-154850)
+- [Mitigating Compounding Errors in Online Reinforcement Learning via Optimal Transport Regularized Flow Matching](../../conferences/neurips-2026/cards-0008.md#paper-151330)
+- [Mitigating Overgeneralization in RND via Spectral Target Design](../../conferences/neurips-2026/cards-0008.md#paper-148343)
+- [Mitigating Retaliatory Algorithmic Collusion in Repeated Games](../../conferences/neurips-2026/cards-0008.md#paper-149336)
+- [Mitigating Reward Hacking via Task Representations](../../conferences/neurips-2026/cards-0008.md#paper-153549)
+- [Model-based Bootstrap of Controlled Markov Chains](../../conferences/neurips-2026/cards-0008.md#paper-156045)
 
 <!-- conference-classification:end -->

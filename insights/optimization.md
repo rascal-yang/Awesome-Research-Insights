@@ -640,5 +640,14 @@
 - [Median-of-Means under Structured Heavy-Tailed Noise: High-Probability Bounds for Clipped Stochastic Optimization](../conferences/neurips-2026/cards-0008.md#paper-148757)
 - [Mesh Invaiant Infinite Dimensional Adaptive  MCMC for Latent Gaussian Processes](../conferences/neurips-2026/cards-0008.md#paper-153392)
 - [MICA: Activation Checkpointing for Double-Backward Training of Machine Learning Interatomic Potentials](../conferences/neurips-2026/cards-0008.md#paper-150066)
+- [Mini-batch kernel $k$-means](../conferences/neurips-2026/cards-0008.md#paper-156028)
+- [Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](../conferences/neurips-2026/cards-0008.md#paper-149681)
+- [Minimax Optimal Kernel Two-sample Testing in Sub-quadratic Time](../conferences/neurips-2026/cards-0008.md#paper-149505)
+- [Minimax Optimization without Spurious Solutions in Optimal Transport Learning](../conferences/neurips-2026/cards-0008.md#paper-149739)
+- [Mirror Descent Beyond Euclidean Stability:  An Exponential Separation in Initialization Sensitivity](../conferences/neurips-2026/cards-0008.md#paper-149621)
+- [Mitigating Data Heterogeneity Effect in Client-Reshuffling-Based Federated Learning](../conferences/neurips-2026/cards-0008.md#paper-151193)
+- [Mix-Opt: Mixed Optimization for Memory-Efficient Personalization of Text-to-Image Diffusion Models](../conferences/neurips-2026/cards-0008.md#paper-152257)
+- [Mixture-of-Experts for Online Matrix Completion on a Drifting Union of Subspaces](../conferences/neurips-2026/cards-0008.md#paper-154027)
+- [MOBO-CAPS: Multi-objective Bayesian Optimization with Cardinality-Aware Pareto Selection](../conferences/neurips-2026/cards-0008.md#paper-150853)
 
 <!-- conference-classification:end -->

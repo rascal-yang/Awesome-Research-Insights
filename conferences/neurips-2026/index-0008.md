@@ -308,3 +308,96 @@
 | 大语言模型 | 数据策略 | [MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis](cards-0008.md#paper-155952) | 合成良性推理训练题先拆解可验证规则步骤，再控制组合难度。 |
 | 计算机视觉 | 评测与诊断 | [MIND: Monge Inception Distance for Generative Models Evaluation](cards-0008.md#paper-150991) | 模型生成快速迭代用投影传输度量提高小样本评估效率。 |
 | 科学机器学习 | 表征学习 | [MindShape: Superquadric-Constrained High-Fidelity 3D Reconstruction from fMRI](cards-0008.md#paper-149071) | 高噪声几何解码先恢复低维形状基元再条件生成。 |
+| 多模态学习 | 评测与诊断 | [Mind the Gap: Dataset and Fine-grained Evaluation for Inline Audio Descriptions](cards-0008.md#paper-139386) | 无障碍音频描述按实际音轨而非文本长度验收。 |
+| 强化学习 | 强化学习方法 | [Mind the Gap: Information Disadvantage as a Learning Signal in Cooperative MARL](cards-0008.md#paper-154578) | 按局部观测的价值缺口塑形信用与探索。 |
+| 大语言模型 | 评测与诊断 | [Mind the Gap: The Divergent Rebound Dynamics of Diffusion and Autoregressive Model](cards-0008.md#paper-152724) | 对齐验收用后续分布变化复测不同架构。 |
+| 多模态学习 | 损失函数 | [Mind the Heads: Topological Representation Alignment for Multimodal LLMs](cards-0008.md#paper-152687) | 视觉对齐优先调整原本最不对齐的注意力头。 |
+| 科学机器学习 | 模型架构 | [Mind the Parameters: Lightweight and Efficient Brain Visual Decoding with Shared Tensor Cores](cards-0008.md#paper-154012) | 跨人脑解码共享张量基，个体差异以小残差适配。 |
+| 科学机器学习 | 训练策略 | [MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection](cards-0008.md#paper-154514) | 神经图文学习使用采集时真实可见区域对应的监督。 |
+| 机器人学 | 推理策略 | [MineEvolve: Self-Evolution with Accumulated Knowledge for Long-Horizon Embodied Minecraft Agents](cards-0008.md#paper-155208) | 长时执行失败后只修补未完成计划并保存原因。 |
+| 多模态学习 | 评测与诊断 | [MinerU2.5-Pro: Pushing the Limit of Document Parsing via a Calibrated Evaluation-Data Flywheel](cards-0008.md#paper-139545) | 文档解析同时保留困难集和适应粒度匹配。 |
+| 机器学习基础与统计 | 优化 | [Mini-batch kernel $k$-means](cards-0008.md#paper-156028) | 大规模核聚类以小批近似降低成对计算。 |
+| 大语言模型 | 推理策略 | [Minimally Invasive Steering of Language Models](cards-0008.md#paper-153525) | 隐状态引导按分布距离限制干预。 |
+| 机器学习基础与统计 | 优化 | [Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification](cards-0008.md#paper-149681) | 带标签噪声高维分类优先比较早停与最大间隔。 |
+| 机器学习基础与统计 | 理论与统计 | [Minimax Optimal Estimation of Transport-Growth Pairs in Unbalanced Optimal Transport](cards-0008.md#paper-152805) | 非平衡运输同时估位置变化与质量变化。 |
+| 机器学习基础与统计 | 优化 | [Minimax Optimal Kernel Two-sample Testing in Sub-quadratic Time](cards-0008.md#paper-149505) | MMD 核和以结构化前缀查询替代平方枚举。 |
+| 机器学习基础与统计 | 理论与统计 | [Minimax-Optimal Transformer Classification for Functional Data with Dense-Sparse Phase Transition](cards-0008.md#paper-153031) | 函数分类按采样频率和样本数共同设计注意窗口。 |
+| 机器学习基础与统计 | 理论与统计 | [Minimax Optimal Two-Sample Testing under Local Differential Privacy](cards-0008.md#paper-156669) | 局部隐私双样本可用置换校准并对连续输入分箱。 |
+| 机器学习基础与统计 | 优化 | [Minimax Optimization without Spurious Solutions in Optimal Transport Learning](cards-0008.md#paper-149739) | 运输极小极大训练检查伪解是否由形状限制引入。 |
+| 机器学习基础与统计 | 理论与统计 | [Minimax Private Estimation of Smooth Optimal-Transport Maps](cards-0008.md#paper-150423) | 私有平滑运输估计按维数选择分位或密度表示。 |
+| 机器学习基础与统计 | 训练策略 | [Minimax Rates and Spectral Distillation for Tree Ensembles](cards-0008.md#paper-155405) | 蒸馏树集成时保留预测算子的主谱方向。 |
+| 大语言模型 | 评测与诊断 | [Mining Logic under Uncertainty: Probabilistic Soft Logic with Energy-Based Inference for Chain-of-Thought Verification](cards-0008.md#paper-152179) | 验证不确定中间结论时，在同一证据下比较结论及其否定的支持强度。 |
+| 大语言模型 | 推理策略 | [MiniPIC: Flexible Position-Independent Caching in <100LOC](cards-0008.md#paper-151329) | 缓存文本片段需跨位置复用时，缓存未旋转键并在请求中补逻辑位置。 |
+| 机器学习基础与统计 | 模型架构 | [MinMax Recurrent Neural Cascades](cards-0008.md#paper-155043) | 长程状态追踪既需有界又需并行时，考虑 MinMax 递推级联。 |
+| 大语言模型 | 训练策略 | [MinPath: Learning Efficient LLM Reasoning via Minimal Dependency Paths](cards-0008.md#paper-155021) | 压缩推理训练轨迹时，按最终结论依赖选择步骤，而非只按字数缩写。 |
+| 大语言模型 | 评测与诊断 | [Min-p, Max Exaggeration: A Critical Analysis of Min-p Sampling in Language Models](cards-0008.md#paper-166291) | 替换采样器之前，在匹配超参数搜索数量的条件下重测，保留完整人工评价。 |
+| 强化学习 | 强化学习方法 | [MINT: Meeting-time INdicators for Truncation in Multi-Step Off-Policy RL](cards-0008.md#paper-154850) | 多步离策略 TD 对轨迹比率敏感时，比较耦合相遇截断和传统连续系数。 |
+| 机器学习基础与统计 | 数据策略 | [MIRAGE: Duality-Inspired MILP Augmentation for Representation Learning](cards-0008.md#paper-150478) | 增广整数规划训练样本时，要求扰动保留求解树或原最优解结构。 |
+| 机器学习基础与统计 | 训练策略 | [MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation](cards-0008.md#paper-148843) | 无标签在线适配时，降低对轻量分类头扰动敏感的测试样本权重。 |
+| 机器学习基础与统计 | 优化 | [Mirror Descent Beyond Euclidean Stability:  An Exponential Separation in Initialization Sensitivity](cards-0008.md#paper-149621) | 采用非二次镜像下降时，要对近邻初始化做敏感性测试，必要时向固定点加锚。 |
+| 计算机视觉 | 表征学习 | [MIRROR: Manifold Ideal Reference ReconstructOR for AI-Generated Image Detection](cards-0008.md#paper-149292) | AI 图像检测要迁移新生成器时，比较固定真实域参考与学习近期伪迹。 |
+| 机器人学 | 评测与诊断 | [Mirror, Mirror on the Wall: Can VLM Agents Tell Who They Are at All?](cards-0008.md#paper-139456) | 视觉自我定位通过移除或遮挡关键反射验证证据使用。 |
+| 机器学习基础与统计 | 理论与统计 | [Missing data and cluster graphs: cluster-level missingness vs variable-level missingness](cards-0008.md#paper-151277) | 缺失数据分析先问聚合缺失指标能否辨识目标。 |
+| 大语言模型 | 强化学习方法 | [Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction](cards-0008.md#paper-148513) | 异步策略修正分开估计推理引擎差异与旧策略滞后。 |
+| 计算机视觉 | 评测与诊断 | [Mission Impossible: Diagnosing and Fixing Non-Operative Instruction Following in Image Editing](cards-0008.md#paper-139144) | 图像编辑验收要单测不应动作和部分可执行。 |
+| 机器学习基础与统计 | 模型架构 | [MissPath-FM: Flow Matching with Structured Priors for Partially Observed Time Series](cards-0008.md#paper-151234) | 不完整时序让源和流路径优先对真实缺口分配计算。 |
+| 机器学习基础与统计 | 理论与统计 | [MIST: Reliable Streaming Decision Trees for Online Class-Incremental Learning via McDiarmid Bound](cards-0008.md#paper-151675) | 流式树分裂置信半径应独立于逐步增长的类数。 |
+| 多模态学习 | 训练策略 | [Mitigating Asymmetric Boundary Encroachment in Continual Learning of Vision-Language Models](cards-0008.md#paper-149958) | 持续视觉语言学习要测新概念是否侵入旧决策边界。 |
+| 强化学习 | 模型架构 | [Mitigating Compounding Errors in Online Reinforcement Learning via Optimal Transport Regularized Flow Matching](cards-0008.md#paper-151330) | 世界模型可直接做整轨迹生成以减少逐步误差。 |
+| 机器学习基础与统计 | 优化 | [Mitigating Data Heterogeneity Effect in Client-Reshuffling-Based Federated Learning](cards-0008.md#paper-151193) | 联邦洗牌更新应按全客户端访问周期而非逐轮分析偏差。 |
+| 大语言模型 | 强化学习方法 | [Mitigating Factual Hallucination in Large Reasoning Models via Mixed-Mode Advantage Regularization](cards-0008.md#paper-155434) | 事实问答训练用同模型直接回答作思考的对照。 |
+| 大语言模型 | 推理策略 | [Mitigating Knowledge Conflicts in Retrieval-Augmented Generation via Inference-Time Representation Editing](cards-0008.md#paper-148202) | 检索冲突控制需区分可靠外部证据和含噪文档。 |
+| 机器学习基础与统计 | 表征学习 | [Mitigating Label Bias with Interpretable Rubric Embeddings](cards-0008.md#paper-152501) | 带偏历史标签的预测可先构造专家定义、可审计的评价维度。 |
+| 大语言模型 | 评测与诊断 | [Mitigating Memorization Where It Happens](cards-0008.md#paper-150519) | 记忆防护用局部检测引导修正，并分别验收复述和能力保持。 |
+| 多模态学习 | 评测与诊断 | [Mitigating Object Hallucination in Large Vision-Language Models via False Discovery Controlled Visual Data Splitting](cards-0008.md#paper-150874) | 物体生成错误按每张图的错误发现比例控制。 |
+| 强化学习 | 强化学习方法 | [Mitigating Overgeneralization in RND via Spectral Target Design](cards-0008.md#paper-148343) | RND 过度泛化应检查目标与预测器的频谱组合。 |
+| 图学习与推荐 | 理论与统计 | [Mitigating Over-squashing without Rewiring: A Sheaf Effective Resistance Perspective](cards-0008.md#paper-150297) | 长程图消息瓶颈可通过调整纤维映射而不重连图。 |
+| 大语言模型 | 推理策略 | [Mitigating Overthinking in Large Reasoning Language Models via Reasoning Path Deviation Monitoring](cards-0008.md#paper-155452) | 推理提前停止应同时看局部熵突升和端到端耗时。 |
+| 强化学习 | 强化学习方法 | [Mitigating Retaliatory Algorithmic Collusion in Repeated Games](cards-0008.md#paper-149336) | 竞争代理审计应检查同一策略是否对历史进行条件性惩罚。 |
+| 强化学习 | 损失函数 | [Mitigating Reward Hacking via Task Representations](cards-0008.md#paper-153549) | 保留任务理解可只约束提示位置的分布。 |
+| 多模态学习 | 损失函数 | [Mitigating Saliency Collapse: Robust Saliency-Aware Long-Text Image-Text Alignment](cards-0008.md#paper-155555) | 图文对齐分别监督显著物和不显著语境。 |
+| 图学习与推荐 | 模型架构 | [Mixed-Curvature Geometric Latent Diffusion Model for Graph Generation](cards-0008.md#paper-149462) | 异质图生成将不同结构放到适配曲率的子空间。 |
+| 计算机视觉 | 评测与诊断 | [MixForensics: Blend Before You Encode for Generalizable AI-Generated Video Detection](cards-0008.md#paper-154656) | 视频伪造检测在编码前让多帧证据相互作用。 |
+| 大语言模型 | 推理策略 | [MixNLQ: An Effective Post-Training Nonlinear Low-Bit Quantization Method for Large Language Models](cards-0008.md#paper-153190) | 重尾权重低位量化采用算术可解的非均匀网格。 |
+| 计算机视觉 | 优化 | [Mix-Opt: Mixed Optimization for Memory-Efficient Personalization of Text-to-Image Diffusion Models](cards-0008.md#paper-152257) | 端侧扩散适配交替低分辨率反传与高分辨率零阶更新。 |
+| 机器学习基础与统计 | 模块 | [MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing](cards-0008.md#paper-151615) | 路由跨分布先验证不同层级归一化的组合。 |
+| 科学机器学习 | 模型架构 | [MixScentNet: A Multiscale Graph-based Framework for Predicting Scent Mixture Perception](cards-0008.md#paper-154439) | 组合感知将成分表征放进可交互的第二层图。 |
+| 大语言模型 | 模块 | [Mixture of Activations: Token-Adaptive Mixing for Expressive Feedforward Layers](cards-0008.md#paper-155502) | 共享 FFN 投影后按词元混合不同激活。 |
+| 机器学习基础与统计 | 模型架构 | [Mixture-of-Chains: Learning Causal Graphs from Human Knowledge](cards-0008.md#paper-148842) | 不一致的因果判断先建潜在链再合并。 |
+| 机器学习基础与统计 | 模块 | [Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models](cards-0008.md#paper-148178) | 状态微调在块间稀疏选择控制源。 |
+| 机器学习基础与统计 | 优化 | [Mixture-of-Experts for Online Matrix Completion on a Drifting Union of Subspaces](cards-0008.md#paper-154027) | 漂移低秩流只更新本次样本对应的专家。 |
+| 计算机视觉 | 模型架构 | [Mixture-of-Hierarchical Experts: Optimized Mamba Architecture for Vision Diffusion](cards-0008.md#paper-149639) | 扩散 Mamba 随步数选择层级专家和扫描深度。 |
+| 多模态学习 | 模块 | [Mixture of Layers: Dynamic Layer Routing for Visual Reasoning](cards-0008.md#paper-153187) | 按提问选择视觉编码器中间层。 |
+| 多模态学习 | 训练策略 | [Mixture of Probes: Learning with Privileged Modalities in Multimodal LLMs Through Probing](cards-0008.md#paper-152647) | 特权模态通过中层探针提供训练监督。 |
+| 机器学习基础与统计 | 模块 | [Mixture-of-Top-$k$ Attention: Efficient Attention as Scalable Fast Weights](cards-0008.md#paper-150679) | 用少量地标构造跨查询共享的可变稀疏注意专家。 |
+| 大语言模型 | 训练策略 | [Mixture-Trained Merging for Unified Multi-Objective Models](cards-0008.md#paper-155106) | 计划合并的专家预训练时混入彼此目标。 |
+| 科学机器学习 | 模型架构 | [MixUni: Joint Multi-Property Prediction for Chemical Mixtures with Physics-Informed Heads](cards-0008.md#paper-150954) | 相关材料属性共享骨干但保留各自的物理响应头。 |
+| 自然语言处理 | 评测与诊断 | [MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocol](cards-0008.md#paper-139143) | 多语检索中，用内容等价的平行段落分别测正确证据和查询语言偏好。 |
+| 机器学习基础与统计 | 理论与统计 | [ML-assisted Randomization Tests for A/B Experiments](cards-0008.md#paper-150264) | A/B 试验可能有异质效应时，以纳入处理变量后的样本外预测增益作随机化检验统计量。 |
+| 多模态学习 | 评测与诊断 | [MLLMs Fail to Refuse when Using Tools Agentically](cards-0008.md#paper-139387) | 新增视觉工具时，应重新验收助手的安全拒绝能力，不能直接套用无工具版基线。 |
+| 大语言模型 | 评测与诊断 | [MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI](cards-0008.md#paper-139626) | 判断 Agent 能否发现 ML 方法时，要求改进跨受控设置及规模，而不是单任务分数领先。 |
+| 多模态学习 | 评测与诊断 | [MMCompass: Diagnosing Position Bias in Generative Multimodal Reward Models](cards-0008.md#paper-150160) | 模型评委应调换回答次序后重复判断，并报告双向一致。 |
+| 多模态学习 | 评测与诊断 | [MMDiff: Multimodal Model Diffing for Feature Discovery and Control](cards-0008.md#paper-151180) | 定位多模态适配新增特征时，比较适配前后字典并做任务选择性消融。 |
+| 多模态学习 | 评测与诊断 | [MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization](cards-0008.md#paper-139107) | 测软件 Agent 是否读到了截图线索时，只评价文件和函数定位并对照有无图片。 |
+| 多模态学习 | 表征学习 | [mmLIP: mmWave Radar-Language Interactive Pretraining via Point Confidence](cards-0008.md#paper-148320) | 雷达信号富有专属物理属性时，用点级的置信加权直接对齐语言。 |
+| 多模态学习 | 评测与诊断 | [MM-OptBench: A Solver-Grounded Benchmark for Multimodal Optimization Modeling](cards-0008.md#paper-139697) | 评估从图表生成优化程序时，用同一精确求解实例生成输入和隐藏校验，并拆解识别与建模失败。 |
+| 多模态学习 | 评测与诊断 | [MM-SCALE: Evaluating Evidence-Grounded Moral Judgment in Vision-Language Models](cards-0008.md#paper-139031) | 同图配多种动作，以排序和证据来源检查判断。 |
+| 多模态学习 | 推理策略 | [MMSkills: Towards Multimodal Skills for General Visual Agents](cards-0008.md#paper-148831) | 良性视觉任务的技能需记录状态和关键帧。 |
+| 多模态学习 | 评测与诊断 | [MMTA: Benchmarking Multimodal Temporal Analysis with Time Series, Text, and Vision](cards-0008.md#paper-139823) | 独立时序和视觉信号要按时间对应评估。 |
+| 科学机器学习 | 评测与诊断 | [MoBayes: A Modular Bayesian Framework for Separating Reasoning from Language in Conversational Clinical Decision Support](cards-0008.md#paper-152953) | 临床对话评测将语言抽取和概率决策拆开。 |
+| 大语言模型 | 模型架构 | [MobileMoE: Scaling On-Device Mixture of Experts](cards-0008.md#paper-150777) | 端侧 MoE 架构按总存储、激活计算和实机 RAM 共同选择。 |
+| 计算机视觉 | 模型架构 | [MobileWan: Closing the Quality Gap for Mobile Video Diffusion](cards-0008.md#paper-151986) | 端侧视频扩散用分块循环降低长上下文显存。 |
+| 机器人学 | 训练策略 | [Mobility Helps Learning: Unsupervised Model Adaptation for Object Recognition via Movement](cards-0008.md#paper-153889) | 移动视觉适配用同物跨视图的预测方差选伪标签。 |
+| 大语言模型 | 推理策略 | [MoBiQuant: Mixture-of-Bits Quantization for Token-Adaptive Any-Precision LLM](cards-0008.md#paper-152455) | 弹性量化需检查不同位宽下敏感词元变化。 |
+| 机器学习基础与统计 | 优化 | [MOBO-CAPS: Multi-objective Bayesian Optimization with Cardinality-Aware Pareto Selection](cards-0008.md#paper-150853) | 部署只要 M 个 Pareto 解时直接按集合基数设计采集。 |
+| 科学机器学习 | 训练策略 | [MobTA: Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic](cards-0008.md#paper-156039) | 目标域无真实轨迹时可把公共代理任务到真实任务的参数差作为迁移假设。 |
+| 计算机视觉 | 模块 | [MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](cards-0008.md#paper-153055) | 多组件三维生成近邻详细交互，远邻压缩留存。 |
+| 机器人学 | 表征学习 | [MoCAR: Motion-code Coordinate-aware AutoRegression for Continuous Trajectory Forecasting](cards-0008.md#paper-150057) | 轨迹词元同时编码局部运动与坐标切换。 |
+| 机器学习基础与统计 | 模型架构 | [MOCHA: Discovering Multi-Order Dynamic Causal Structure in Temporal Point Processes](cards-0008.md#paper-148729) | 事件模型分开直接和经中间节点的时变影响。 |
+| 多模态学习 | 推理策略 | [Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models](cards-0008.md#paper-148334) | 专家裁剪按图像和文本拆评分。 |
+| 多模态学习 | 模块 | [Modality-Depth Routing for Visual Reasoning in VLM Post-Training](cards-0008.md#paper-150494) | 通用视觉监督训练可给模态单独分配层深。 |
+| 大语言模型 | 强化学习方法 | [Mode-Controlled Policy Optimization: A Geometry-Aware Recipe for LLM Post-Training](cards-0008.md#paper-150744) | 按平均正确和候选覆盖选择策略散度。 |
+| 大语言模型 | 评测与诊断 | [Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use](cards-0008.md#paper-154208) | 工具是否必要按当前模型实证判定，区别认知与执行。 |
+| 机器学习基础与统计 | 理论与统计 | [Model-Agnostic FDR Control via Group Gaussian Mirror and Permutation SHAP](cards-0008.md#paper-150705) | 时序特征按来源块做误发现控制。 |
+| 大语言模型 | 训练策略 | [Model-Aware Tokenizer Transfer](cards-0008.md#paper-156064) | 换分词器时蒸馏源模型的跨词影响，减少初始化错配。 |
+| 强化学习 | 理论与统计 | [Model-based Bootstrap of Controlled Markov Chains](cards-0008.md#paper-156045) | 离线策略评估根据受控链转移建模自助法。 |

@@ -586,5 +586,11 @@
 - [Mimicking the Physicist's Eye: A VLM-centric Approach for Physics Formula Discovery](../conferences/neurips-2026/cards-0008.md#paper-155268)
 - [MindAlign: Bridging EEG, Vision, and Language for Zero-Shot Visual Decoding](../conferences/neurips-2026/cards-0008.md#paper-149255)
 - [MindShape: Superquadric-Constrained High-Fidelity 3D Reconstruction from fMRI](../conferences/neurips-2026/cards-0008.md#paper-149071)
+- [Mind the Parameters: Lightweight and Efficient Brain Visual Decoding with Shared Tensor Cores](../conferences/neurips-2026/cards-0008.md#paper-154012)
+- [MindVLM: Neural-Grounded Visual Captioning via Subject-Aware Semantic Evidence Selection](../conferences/neurips-2026/cards-0008.md#paper-154514)
+- [MixScentNet: A Multiscale Graph-based Framework for Predicting Scent Mixture Perception](../conferences/neurips-2026/cards-0008.md#paper-154439)
+- [MixUni: Joint Multi-Property Prediction for Chemical Mixtures with Physics-Informed Heads](../conferences/neurips-2026/cards-0008.md#paper-150954)
+- [MoBayes: A Modular Bayesian Framework for Separating Reasoning from Language in Conversational Clinical Decision Support](../conferences/neurips-2026/cards-0008.md#paper-152953)
+- [MobTA: Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic](../conferences/neurips-2026/cards-0008.md#paper-156039)
 
 <!-- conference-classification:end -->

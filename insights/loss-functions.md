@@ -353,5 +353,8 @@
 - [MedVTok: A General-Purpose Medical Visual Tokenizer](../conferences/neurips-2026/cards-0008.md#paper-152136)
 - [Membrane Sensitivity and Deployment Fragility of Learnable Time Constants in Spiking Neural Networks](../conferences/neurips-2026/cards-0008.md#paper-148593)
 - [Midpoint Generative Models](../conferences/neurips-2026/cards-0008.md#paper-154433)
+- [Mind the Heads: Topological Representation Alignment for Multimodal LLMs](../conferences/neurips-2026/cards-0008.md#paper-152687)
+- [Mitigating Reward Hacking via Task Representations](../conferences/neurips-2026/cards-0008.md#paper-153549)
+- [Mitigating Saliency Collapse: Robust Saliency-Aware Long-Text Image-Text Alignment](../conferences/neurips-2026/cards-0008.md#paper-155555)
 
 <!-- conference-classification:end -->
