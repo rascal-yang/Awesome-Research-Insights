@@ -2693,67 +2693,67 @@ poster_id	title	paper_url	status	reason
 139655	Evaluating Deployable Inference-Time Error Prediction in Vision MoEs	https://neurips.cc/virtual/2026/poster/139655	included	额外专家的预算优先用于判别路由错误，再评估能否提升准确率。
 139290	Evaluating Depth and Breadth in Test-Time Scaling for Compositional Visual Generation	https://neurips.cc/virtual/2026/poster/139290	included	按提示复杂度在并行探索与串行修正间调预算。
 139438	Evaluating Epistemic Uncertainty: Beyond OOD Detection and Active Learning	https://neurips.cc/virtual/2026/poster/139438	included	用风险、可约减误差和覆盖率曲面判断不确定性是否有决策用处。
-139677	Evaluating Multimodal Narrative Understanding of Popular Hollywood Films	https://neurips.cc/virtual/2026/poster/139677	pending	-
-139125	Evaluating Neural Data Tokenizers: A Framework for Assessing Learned Representations of Spiking Activity	https://neurips.cc/virtual/2026/poster/139125	pending	-
-140116	Evaluating Physical Reasoning in LLM Agents Requires Construction Benchmarks	https://neurips.cc/virtual/2026/poster/140116	pending	-
-139638	Evaluating Spatiotemporal Reasoning of Vision-Language Models in Atari Gameplay	https://neurips.cc/virtual/2026/poster/139638	pending	-
-139147	Evaluating Synthetic ECG Pretraining: When Can Patient-Free Simulators Substitute for Real ECG Data?	https://neurips.cc/virtual/2026/poster/139147	pending	-
-139634	Evaluating Test-Time Scaling of General LLM Agents	https://neurips.cc/virtual/2026/poster/139634	pending	-
-157023	Evaluating the evidence trace of NeurIPS 2025 contributions with agentic code auditing	https://neurips.cc/virtual/2026/poster/157023	pending	-
-138974	Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models	https://neurips.cc/virtual/2026/poster/138974	pending	-
-139404	Evaluating Whether LLMs Can Reliably Connect the DOTs?	https://neurips.cc/virtual/2026/poster/139404	pending	-
-148437	Evaluation Awareness in Language Models Has Limited Effect on Behaviour	https://neurips.cc/virtual/2026/poster/148437	pending	-
-139130	EVALUATION CARDS: An Interpretive Layer for AI Evaluation Reporting	https://neurips.cc/virtual/2026/poster/139130	pending	-
-140005	Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered	https://neurips.cc/virtual/2026/poster/140005	pending	-
-152346	Even More Guarantees for Variational Inference in the Presence of Symmetries	https://neurips.cc/virtual/2026/poster/152346	pending	-
-150866	Even Sailors Need Calm Seas: Taming the Geometry of VLMs for Fast Adversarial Fine-Tuning	https://neurips.cc/virtual/2026/poster/150866	pending	-
-154551	Even Sharper Bounds for Transductive Learning and Its Applications	https://neurips.cc/virtual/2026/poster/154551	pending	-
-150183	Event based Multi-Velocity-Scale Imaging	https://neurips.cc/virtual/2026/poster/150183	pending	-
-153700	Event-Centric Perception in Weak-Signal Physical Streams with Multimodal LLMs	https://neurips.cc/virtual/2026/poster/153700	pending	-
-151283	Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies	https://neurips.cc/virtual/2026/poster/151283	pending	-
-153545	EventLens: Event-Structure Reinforcement Learning for Video Understanding	https://neurips.cc/virtual/2026/poster/153545	pending	-
-151793	EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning	https://neurips.cc/virtual/2026/poster/151793	pending	-
-153421	Events as Triggers for Behavioral Diversity in Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153421	pending	-
-153487	EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration	https://neurips.cc/virtual/2026/poster/153487	pending	-
-154368	Every Bit, Everywhere, All At Once: A Binomial Multibit LLM Watermark	https://neurips.cc/virtual/2026/poster/154368	pending	-
-153741	Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra	https://neurips.cc/virtual/2026/poster/153741	pending	-
-155361	Every Sample Counts: Supervised Fine-Tuning of Language Models with Pointwise Constraints	https://neurips.cc/virtual/2026/poster/155361	pending	-
-150103	Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution	https://neurips.cc/virtual/2026/poster/150103	pending	-
-152262	EviAttr-OW: Evidential Attribute Reasoning for Open World Object Detection	https://neurips.cc/virtual/2026/poster/152262	pending	-
-154066	Evidence Guided Dual Expert Memory with Joint Routing for VLLMs Online Correction	https://neurips.cc/virtual/2026/poster/154066	pending	-
-150393	Evidence-RL: Towards Evidence-intensive Visual Reasoning	https://neurips.cc/virtual/2026/poster/150393	pending	-
-154010	Evidential Semantic Uncertainty Decomposition for Large Language Models	https://neurips.cc/virtual/2026/poster/154010	pending	-
-150339	EVIDENT: Routing MLLM Adaptation through Entity-Grounded Visual Evidence for Cross-Domain Video Temporal Grounding	https://neurips.cc/virtual/2026/poster/150339	pending	-
-150827	EviSAM3: Evidence-Driven SAM3 for Referring Remote Sensing Image Segmentation	https://neurips.cc/virtual/2026/poster/150827	pending	-
-150274	EVOCHAMBER:  Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales	https://neurips.cc/virtual/2026/poster/150274	pending	-
-139527	EvoCodeBench: Evaluating Coding Agents in Multi-Turn Iterative Interactions	https://neurips.cc/virtual/2026/poster/139527	pending	-
-153228	EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience	https://neurips.cc/virtual/2026/poster/153228	pending	-
-154131	Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model	https://neurips.cc/virtual/2026/poster/154131	pending	-
-154437	EvoDiagram: Agentic Editable Diagram Creation via Design Expertise Evolution	https://neurips.cc/virtual/2026/poster/154437	pending	-
-153727	EvoGround: Self-Evolving Video Agents for Video Temporal Grounding	https://neurips.cc/virtual/2026/poster/153727	pending	-
-148609	EvoInspect: A Unified Self-Evolving Multi-Agent Framework for Industrial Hardware Inspection	https://neurips.cc/virtual/2026/poster/148609	pending	-
-150446	Evolutionary Feature Engineering for Structured Data	https://neurips.cc/virtual/2026/poster/150446	pending	-
-148561	Evolutionary foraging in grids: Intermittent search emerges as an optimal strategy	https://neurips.cc/virtual/2026/poster/148561	pending	-
-149312	Evolutionary System Prompt Learning for Reinforcement Learning in LLMs	https://neurips.cc/virtual/2026/poster/149312	pending	-
-148564	Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks	https://neurips.cc/virtual/2026/poster/148564	pending	-
-153181	Evolving Agent Teams	https://neurips.cc/virtual/2026/poster/153181	pending	-
-139805	EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective	https://neurips.cc/virtual/2026/poster/139805	pending	-
-148706	EvoMM: Reinforced Self-Evolving Multimodal Agentic Memory	https://neurips.cc/virtual/2026/poster/148706	pending	-
-155640	EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling	https://neurips.cc/virtual/2026/poster/155640	pending	-
-149899	Exact Channel Decoupling via Joint Diagonalization and Uniform Splicing for Diffusion Transformer Quantization	https://neurips.cc/virtual/2026/poster/149899	pending	-
-153163	Exact Combinatorial Optimization for Partial Permutation Synchronization	https://neurips.cc/virtual/2026/poster/153163	pending	-
-154073	Exact Flow Linear Attention: Exact Solution from Continuous-Time Dynamics	https://neurips.cc/virtual/2026/poster/154073	pending	-
-153876	Exact-Form Regret and Conservative Correlated Equilibria	https://neurips.cc/virtual/2026/poster/153876	pending	-
-155943	Exact Gaussian Moment Matching for Residual Networks: a Second-Order Method	https://neurips.cc/virtual/2026/poster/155943	pending	-
-153709	Exact Instance Compression for Convex Empirical Risk Minimization via Color Refinement	https://neurips.cc/virtual/2026/poster/153709	pending	-
+139677	Evaluating Multimodal Narrative Understanding of Popular Hollywood Films	https://neurips.cc/virtual/2026/poster/139677	included	区分视听与纯视觉叙事理解
+139125	Evaluating Neural Data Tokenizers: A Framework for Assessing Learned Representations of Spiking Activity	https://neurips.cc/virtual/2026/poster/139125	included	选择神经分词器时分别测重建和下游效用
+140116	Evaluating Physical Reasoning in LLM Agents Requires Construction Benchmarks	https://neurips.cc/virtual/2026/poster/140116	included	用物理功能验证检验建造任务
+139638	Evaluating Spatiotemporal Reasoning of Vision-Language Models in Atari Gameplay	https://neurips.cc/virtual/2026/poster/139638	included	将模型推理耗时与游戏状态推进解耦
+139147	Evaluating Synthetic ECG Pretraining: When Can Patient-Free Simulators Substitute for Real ECG Data?	https://neurips.cc/virtual/2026/poster/139147	included	分别用冻结探针和全量微调判断合成数据是否可替代实测
+139634	Evaluating Test-Time Scaling of General LLM Agents	https://neurips.cc/virtual/2026/poster/139634	included	分别测增加交互步数和并行轨迹的边际收益
+157023	Evaluating the evidence trace of NeurIPS 2025 contributions with agentic code auditing	https://neurips.cc/virtual/2026/poster/157023	included	将论文结果追溯到产生结果的代码位置
+138974	Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models	https://neurips.cc/virtual/2026/poster/138974	included	按预测步长和条件分别测不确定性校准
+139404	Evaluating Whether LLMs Can Reliably Connect the DOTs?	https://neurips.cc/virtual/2026/poster/139404	included	按领域和叙事长度评测文本补全
+148437	Evaluation Awareness in Language Models Has Limited Effect on Behaviour	https://neurips.cc/virtual/2026/poster/148437	included	用行为差异验证评测意识，避免只看自述频率
+139130	EVALUATION CARDS: An Interpretive Layer for AI Evaluation Reporting	https://neurips.cc/virtual/2026/poster/139130	included	统一将基准、实验运行与模型元数据链接到结果
+140005	Evaluation of Visual Processing Should Be Human-Centered, Not Metric-Centered	https://neurips.cc/virtual/2026/poster/140005	excluded	摘要倡议以人类偏好改进影像评测，但未提供可独立复用的已验证机制或新增实证结果。
+152346	Even More Guarantees for Variational Inference in the Presence of Symmetries	https://neurips.cc/virtual/2026/poster/152346	included	按目标对称性选择散度与位置尺度族
+150866	Even Sailors Need Calm Seas: Taming the Geometry of VLMs for Fast Adversarial Fine-Tuning	https://neurips.cc/virtual/2026/poster/150866	included	鲁棒微调时独立测多个扰动强度
+154551	Even Sharper Bounds for Transductive Learning and Its Applications	https://neurips.cc/virtual/2026/poster/154551	included	在无放回划分中用局部复杂度分析转导风险
+150183	Event based Multi-Velocity-Scale Imaging	https://neurips.cc/virtual/2026/poster/150183	included	按运动尺度分配对比度阈值
+153700	Event-Centric Perception in Weak-Signal Physical Streams with Multimodal LLMs	https://neurips.cc/virtual/2026/poster/153700	included	将弱信号流输出定义为结构化事件
+151283	Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies	https://neurips.cc/virtual/2026/poster/151283	included	用闭环行为事件排序稀疏自编码器特征
+153545	EventLens: Event-Structure Reinforcement Learning for Video Understanding	https://neurips.cc/virtual/2026/poster/153545	included	用可验证的事件结构任务替代单纯字幕监督
+151793	EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning	https://neurips.cc/virtual/2026/poster/151793	included	用异步事件信号给视频token排序保留动态区域
+153421	Events as Triggers for Behavioral Diversity in Multi-Agent Reinforcement Learning	https://neurips.cc/virtual/2026/poster/153421	included	让事件触发行为切换
+153487	EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration	https://neurips.cc/virtual/2026/poster/153487	included	用持续潜记忆抑制分块动画漂移
+154368	Every Bit, Everywhere, All At Once: A Binomial Multibit LLM Watermark	https://neurips.cc/virtual/2026/poster/154368	included	按逐位置信度评估多位水印
+153741	Every Measurement, Every Direction, All at Once: Multimodal Flow Matching for Molecules and Spectra	https://neurips.cc/virtual/2026/poster/153741	excluded	工作主要面向分子生成及结构反演，当前不提取该应用的操作机制。
+155361	Every Sample Counts: Supervised Fine-Tuning of Language Models with Pointwise Constraints	https://neurips.cc/virtual/2026/poster/155361	included	用逐样本约束减少尾部违反
+150103	Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution	https://neurips.cc/virtual/2026/poster/150103	included	通过同一逆过程的不同起点覆盖连续超分辨率
+152262	EviAttr-OW: Evidential Attribute Reasoning for Open World Object Detection	https://neurips.cc/virtual/2026/poster/152262	included	分开衡量物体证据与已知类支持
+154066	Evidence Guided Dual Expert Memory with Joint Routing for VLLMs Online Correction	https://neurips.cc/virtual/2026/poster/154066	included	按局部证据构建和路由编辑专家
+150393	Evidence-RL: Towards Evidence-intensive Visual Reasoning	https://neurips.cc/virtual/2026/poster/150393	included	奖励对真正图像证据敏感的正确答案
+154010	Evidential Semantic Uncertainty Decomposition for Large Language Models	https://neurips.cc/virtual/2026/poster/154010	included	区分语义歧义和模型支持不足
+150339	EVIDENT: Routing MLLM Adaptation through Entity-Grounded Visual Evidence for Cross-Domain Video Temporal Grounding	https://neurips.cc/virtual/2026/poster/150339	included	用对象槽位约束跨域定位适配
+150827	EviSAM3: Evidence-Driven SAM3 for Referring Remote Sensing Image Segmentation	https://neurips.cc/virtual/2026/poster/150827	included	累积并修正多轮跨模态证据
+150274	EVOCHAMBER:  Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales	https://neurips.cc/virtual/2026/poster/150274	included	向出现特定失败的成员定向传递经验
+139527	EvoCodeBench: Evaluating Coding Agents in Multi-Turn Iterative Interactions	https://neurips.cc/virtual/2026/poster/139527	included	用累积测试捕捉多轮需求回归
+153228	EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience	https://neurips.cc/virtual/2026/poster/153228	included	为普通桌面任务设计可执行成功判据并复用失败经验
+154131	Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model	https://neurips.cc/virtual/2026/poster/154131	included	用多视角 RGB 提取隐式深度调制动作表示
+154437	EvoDiagram: Agentic Editable Diagram Creation via Design Expertise Evolution	https://neurips.cc/virtual/2026/poster/154437	excluded	摘要明确将贡献限定为方案和评测协议，尚无可核实实验结果支持取舍。
+153727	EvoGround: Self-Evolving Video Agents for Video Temporal Grounding	https://neurips.cc/virtual/2026/poster/153727	included	用解题反馈更新伪标注生成器
+148609	EvoInspect: A Unified Self-Evolving Multi-Agent Framework for Industrial Hardware Inspection	https://neurips.cc/virtual/2026/poster/148609	included	根据缺陷表现按需选择图像恢复操作
+150446	Evolutionary Feature Engineering for Structured Data	https://neurips.cc/virtual/2026/poster/150446	included	用可插拔特征程序表达数据特定变换
+148561	Evolutionary foraging in grids: Intermittent search emerges as an optimal strategy	https://neurips.cc/virtual/2026/poster/148561	included	区分重尾位移与间歇搜索。
+149312	Evolutionary System Prompt Learning for Reinforcement Learning in LLMs	https://neurips.cc/virtual/2026/poster/149312	included	同时更新提示和权重。
+148564	Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks	https://neurips.cc/virtual/2026/poster/148564	included	把优化搜索过程转成跨任务监督。
+153181	Evolving Agent Teams	https://neurips.cc/virtual/2026/poster/153181	included	在性能停滞时重组工程优化团队。
+139805	EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective	https://neurips.cc/virtual/2026/poster/139805	included	按记忆跨度和内容类型选择记忆方案。
+148706	EvoMM: Reinforced Self-Evolving Multimodal Agentic Memory	https://neurips.cc/virtual/2026/poster/148706	included	联合训练检索、反思和记忆修改。
+155640	EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling	https://neurips.cc/virtual/2026/poster/155640	included	用建模错误触发保可行的数据变换。
+149899	Exact Channel Decoupling via Joint Diagonalization and Uniform Splicing for Diffusion Transformer Quantization	https://neurips.cc/virtual/2026/poster/149899	included	联合校准激活和权重，并避免平均时间步。
+153163	Exact Combinatorial Optimization for Partial Permutation Synchronization	https://neurips.cc/virtual/2026/poster/153163	included	保持部分置换整数结构求匹配。
+154073	Exact Flow Linear Attention: Exact Solution from Continuous-Time Dynamics	https://neurips.cc/virtual/2026/poster/154073	included	以精确流更新替换 delta rule 欧拉步。
+153876	Exact-Form Regret and Conservative Correlated Equilibria	https://neurips.cc/virtual/2026/poster/153876	included	用位移场的势函数辨别可控制的偏离。
+155943	Exact Gaussian Moment Matching for Residual Networks: a Second-Order Method	https://neurips.cc/virtual/2026/poster/155943	included	对特定激活直接传播高斯矩。
+153709	Exact Instance Compression for Convex Empirical Risk Minimization via Color Refinement	https://neurips.cc/virtual/2026/poster/153709	included	按结构对称性压缩凸经验风险。
 152917	Exactness Matters for Physical Rule Enforcement	https://neurips.cc/virtual/2026/poster/152917	pending	-
-155154	Exact Posterior Score Estimation for Solving Linear Inverse Problems	https://neurips.cc/virtual/2026/poster/155154	pending	-
-153108	Exact power indices for plurality-voting ensembles	https://neurips.cc/virtual/2026/poster/153108	pending	-
-156088	Exact Recovery of Lipschitz Orthogonal Coordinate Transformations via Constrained Normalizing Flows	https://neurips.cc/virtual/2026/poster/156088	pending	-
-155888	Exact Regular-Constrained Sampling for Variable-Order Markov Generation	https://neurips.cc/virtual/2026/poster/155888	pending	-
-148463	Exact Topological Compliance: Generating Persistence-Equivalent Graphs	https://neurips.cc/virtual/2026/poster/148463	pending	-
-152457	Exact Unlearning via Quantized Sufficient Statistics	https://neurips.cc/virtual/2026/poster/152457	pending	-
-150163	Example-Based Spatial Guidance for Training-Free Concept Erasure in Diffusion Models	https://neurips.cc/virtual/2026/poster/150163	pending	-
+155154	Exact Posterior Score Estimation for Solving Linear Inverse Problems	https://neurips.cc/virtual/2026/poster/155154	included	将观测条件融合到去噪训练而保持原采样器。
+153108	Exact power indices for plurality-voting ensembles	https://neurips.cc/virtual/2026/poster/153108	included	按投票规则直接计算模型贡献。
+156088	Exact Recovery of Lipschitz Orthogonal Coordinate Transformations via Constrained Normalizing Flows	https://neurips.cc/virtual/2026/poster/156088	included	用坐标变换结构约束解决非线性 ICA 不可辨识性。
+155888	Exact Regular-Constrained Sampling for Variable-Order Markov Generation	https://neurips.cc/virtual/2026/poster/155888	included	将可变阶稀疏上下文图与约束自动机相乘。
+148463	Exact Topological Compliance: Generating Persistence-Equivalent Graphs	https://neurips.cc/virtual/2026/poster/148463	included	硬性拓扑描述用约束求解验证。
+152457	Exact Unlearning via Quantized Sufficient Statistics	https://neurips.cc/virtual/2026/poster/152457	included	把常规删除转化为充分统计更新。
+150163	Example-Based Spatial Guidance for Training-Free Concept Erasure in Diffusion Models	https://neurips.cc/virtual/2026/poster/150163	included	按细分概念检测抑制副作用。
 154319	ExComm: Exploration-Stage Communication for Error-Resilient Agentic Test-Time Scaling	https://neurips.cc/virtual/2026/poster/154319	pending	-
 150839	Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding	https://neurips.cc/virtual/2026/poster/150839	pending	-
 148905	Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting	https://neurips.cc/virtual/2026/poster/148905	pending	-

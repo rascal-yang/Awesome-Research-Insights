@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方会议目录](https://neurips.cc/Downloads/2026)
 
-官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2729** 篇，暂收录 **2544** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
+官方目录当前列出 **9,144** 个论文海报条目，已筛选 **2789** 篇，暂收录 **2601** 篇。[筛选底册](papers.tsv)按官方海报 ID 记录覆盖及去留。目录可能随会议更新，候选范围核定后统一排名，收录上限为 50%。
 
 目录统计：下载目录的海报条目与三地论文页的 9,128 个海报 ID 已对照。下载目录另有 16 个条目，其中包含复现赛道。已发现同名多场次展示，论文级去重仍在进行。
 
@@ -2552,3 +2552,60 @@
 | 计算机视觉 | 推理校准 | [Evaluating Deployable Inference-Time Error Prediction in Vision MoEs](cards-0005.md#paper-139655) | 额外专家的预算优先用于判别路由错误，再评估能否提升准确率。 |
 | 计算机视觉 | 推理预算 | [Evaluating Depth and Breadth in Test-Time Scaling for Compositional Visual Generation](cards-0005.md#paper-139290) | 按提示复杂度在并行探索与串行修正间调预算。 |
 | 统计学习 | 不确定性评测 | [Evaluating Epistemic Uncertainty: Beyond OOD Detection and Active Learning](cards-0005.md#paper-139438) | 用风险、可约减误差和覆盖率曲面判断不确定性是否有决策用处。 |
+| 多模态学习 | 评测 | [Evaluating Multimodal Narrative Understanding of Popular Hollywood Films](cards-0005.md#paper-139677) | 区分视听与纯视觉叙事理解 |
+| 科学机器学习 | 表征评测 | [Evaluating Neural Data Tokenizers: A Framework for Assessing Learned Representations of Spiking Activity](cards-0005.md#paper-139125) | 选择神经分词器时分别测重建和下游效用 |
+| 具身智能 | 基准审计 | [Evaluating Physical Reasoning in LLM Agents Requires Construction Benchmarks](cards-0005.md#paper-140116) | 用物理功能验证检验建造任务 |
+| 多模态学习 | 时序评测 | [Evaluating Spatiotemporal Reasoning of Vision-Language Models in Atari Gameplay](cards-0005.md#paper-139638) | 将模型推理耗时与游戏状态推进解耦 |
+| 科学机器学习 | 预训练评测 | [Evaluating Synthetic ECG Pretraining: When Can Patient-Free Simulators Substitute for Real ECG Data?](cards-0005.md#paper-139147) | 分别用冻结探针和全量微调判断合成数据是否可替代实测 |
+| Agent | 推理预算 | [Evaluating Test-Time Scaling of General LLM Agents](cards-0005.md#paper-139634) | 分别测增加交互步数和并行轨迹的边际收益 |
+| Agent | 复现审计 | [Evaluating the evidence trace of NeurIPS 2025 contributions with agentic code auditing](cards-0005.md#paper-157023) | 将论文结果追溯到产生结果的代码位置 |
+| 时间序列 | 校准评测 | [Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models](cards-0005.md#paper-138974) | 按预测步长和条件分别测不确定性校准 |
+| 自然语言处理 | 叙事评测 | [Evaluating Whether LLMs Can Reliably Connect the DOTs?](cards-0005.md#paper-139404) | 按领域和叙事长度评测文本补全 |
+| 大语言模型 | 安全评测 | [Evaluation Awareness in Language Models Has Limited Effect on Behaviour](cards-0005.md#paper-148437) | 用行为差异验证评测意识，避免只看自述频率 |
+| 机器学习系统 | 证据报告 | [EVALUATION CARDS: An Interpretive Layer for AI Evaluation Reporting](cards-0005.md#paper-139130) | 统一将基准、实验运行与模型元数据链接到结果 |
+| 统计学习 | 变分推断 | [Even More Guarantees for Variational Inference in the Presence of Symmetries](cards-0005.md#paper-152346) | 按目标对称性选择散度与位置尺度族 |
+| 多模态学习 | 防御训练 | [Even Sailors Need Calm Seas: Taming the Geometry of VLMs for Fast Adversarial Fine-Tuning](cards-0005.md#paper-150866) | 鲁棒微调时独立测多个扰动强度 |
+| 学习理论 | 泛化界 | [Even Sharper Bounds for Transductive Learning and Its Applications](cards-0005.md#paper-154551) | 在无放回划分中用局部复杂度分析转导风险 |
+| 计算机视觉 | 事件成像 | [Event based Multi-Velocity-Scale Imaging](cards-0005.md#paper-150183) | 按运动尺度分配对比度阈值 |
+| 多模态学习 | 弱信号感知 | [Event-Centric Perception in Weak-Signal Physical Streams with Multimodal LLMs](cards-0005.md#paper-153700) | 将弱信号流输出定义为结构化事件 |
+| 具身智能 | 可解释性 | [Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies](cards-0005.md#paper-151283) | 用闭环行为事件排序稀疏自编码器特征 |
+| 多模态学习 | 时序训练 | [EventLens: Event-Structure Reinforcement Learning for Video Understanding](cards-0005.md#paper-153545) | 用可验证的事件结构任务替代单纯字幕监督 |
+| 多模态学习 | 推理剪枝 | [EventPrune: Cascaded Event-Assisted Token Pruning for Efficient First-Person Dynamic Spatial Reasoning](cards-0005.md#paper-151793) | 用异步事件信号给视频token排序保留动态区域 |
+| 强化学习 | 角色适配 | [Events as Triggers for Behavioral Diversity in Multi-Agent Reinforcement Learning](cards-0005.md#paper-153421) | 让事件触发行为切换 |
+| 计算机视觉 | 视频生成 | [EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration](cards-0005.md#paper-153487) | 用持续潜记忆抑制分块动画漂移 |
+| 大语言模型 | 水印 | [Every Bit, Everywhere, All At Once: A Binomial Multibit LLM Watermark](cards-0005.md#paper-154368) | 按逐位置信度评估多位水印 |
+| 大语言模型 | 约束优化 | [Every Sample Counts: Supervised Fine-Tuning of Language Models with Pointwise Constraints](cards-0005.md#paper-155361) | 用逐样本约束减少尾部违反 |
+| 计算机视觉 | 扩散生成 | [Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution](cards-0005.md#paper-150103) | 通过同一逆过程的不同起点覆盖连续超分辨率 |
+| 计算机视觉 | 开放集检测 | [EviAttr-OW: Evidential Attribute Reasoning for Open World Object Detection](cards-0005.md#paper-152262) | 分开衡量物体证据与已知类支持 |
+| 多模态学习 | 在线编辑 | [Evidence Guided Dual Expert Memory with Joint Routing for VLLMs Online Correction](cards-0005.md#paper-154066) | 按局部证据构建和路由编辑专家 |
+| 多模态学习 | 奖励设计 | [Evidence-RL: Towards Evidence-intensive Visual Reasoning](cards-0005.md#paper-150393) | 奖励对真正图像证据敏感的正确答案 |
+| 大语言模型 | 不确定性 | [Evidential Semantic Uncertainty Decomposition for Large Language Models](cards-0005.md#paper-154010) | 区分语义歧义和模型支持不足 |
+| 多模态学习 | 视频定位 | [EVIDENT: Routing MLLM Adaptation through Entity-Grounded Visual Evidence for Cross-Domain Video Temporal Grounding](cards-0005.md#paper-150339) | 用对象槽位约束跨域定位适配 |
+| 计算机视觉 | 指代分割 | [EviSAM3: Evidence-Driven SAM3 for Referring Remote Sensing Image Segmentation](cards-0005.md#paper-150827) | 累积并修正多轮跨模态证据 |
+| Agent | 协作记忆 | [EVOCHAMBER:  Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales](cards-0005.md#paper-150274) | 向出现特定失败的成员定向传递经验 |
+| Agent | 软件维护评测 | [EvoCodeBench: Evaluating Coding Agents in Multi-Turn Iterative Interactions](cards-0005.md#paper-139527) | 用累积测试捕捉多轮需求回归 |
+| Agent | 合成经验 | [EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience](cards-0005.md#paper-153228) | 为普通桌面任务设计可执行成功判据并复用失败经验 |
+| 具身智能 | 几何表征 | [Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model](cards-0005.md#paper-154131) | 用多视角 RGB 提取隐式深度调制动作表示 |
+| 多模态学习 | 弱监督 | [EvoGround: Self-Evolving Video Agents for Video Temporal Grounding](cards-0005.md#paper-153727) | 用解题反馈更新伪标注生成器 |
+| 计算机视觉 | 缺陷检测 | [EvoInspect: A Unified Self-Evolving Multi-Agent Framework for Industrial Hardware Inspection](cards-0005.md#paper-148609) | 根据缺陷表现按需选择图像恢复操作 |
+| 机器学习 | 特征工程 | [Evolutionary Feature Engineering for Structured Data](cards-0005.md#paper-150446) | 用可插拔特征程序表达数据特定变换 |
+| 科学机器学习 | 搜索诊断 | [Evolutionary foraging in grids: Intermittent search emerges as an optimal strategy](cards-0005.md#paper-148561) | 区分重尾位移与间歇搜索。 |
+| 大语言模型 | 强化学习 | [Evolutionary System Prompt Learning for Reinforcement Learning in LLMs](cards-0005.md#paper-149312) | 同时更新提示和权重。 |
+| 大语言模型 | 中训练 | [Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks](cards-0005.md#paper-148564) | 把优化搜索过程转成跨任务监督。 |
+| Agent | 协作优化 | [Evolving Agent Teams](cards-0005.md#paper-153181) | 在性能停滞时重组工程优化团队。 |
+| Agent | 记忆评测 | [EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective](cards-0005.md#paper-139805) | 按记忆跨度和内容类型选择记忆方案。 |
+| 多模态学习 | 智能体记忆 | [EvoMM: Reinforced Self-Evolving Multimodal Agentic Memory](cards-0005.md#paper-148706) | 联合训练检索、反思和记忆修改。 |
+| 优化 / 大语言模型 | 训练数据 | [EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling](cards-0005.md#paper-155640) | 用建模错误触发保可行的数据变换。 |
+| 生成模型 | 量化 | [Exact Channel Decoupling via Joint Diagonalization and Uniform Splicing for Diffusion Transformer Quantization](cards-0005.md#paper-149899) | 联合校准激活和权重，并避免平均时间步。 |
+| 计算机视觉 | 组合优化 | [Exact Combinatorial Optimization for Partial Permutation Synchronization](cards-0005.md#paper-153163) | 保持部分置换整数结构求匹配。 |
+| 大语言模型 | 注意力 | [Exact Flow Linear Attention: Exact Solution from Continuous-Time Dynamics](cards-0005.md#paper-154073) | 以精确流更新替换 delta rule 欧拉步。 |
+| 学习理论 | 在线优化 | [Exact-Form Regret and Conservative Correlated Equilibria](cards-0005.md#paper-153876) | 用位移场的势函数辨别可控制的偏离。 |
+| 统计学习 | 不确定性传播 | [Exact Gaussian Moment Matching for Residual Networks: a Second-Order Method](cards-0005.md#paper-155943) | 对特定激活直接传播高斯矩。 |
+| 优化 | 无损压缩 | [Exact Instance Compression for Convex Empirical Risk Minimization via Color Refinement](cards-0005.md#paper-153709) | 按结构对称性压缩凸经验风险。 |
+| 计算机视觉 | 逆问题 | [Exact Posterior Score Estimation for Solving Linear Inverse Problems](cards-0005.md#paper-155154) | 将观测条件融合到去噪训练而保持原采样器。 |
+| 统计学习 | 集成归因 | [Exact power indices for plurality-voting ensembles](cards-0005.md#paper-153108) | 按投票规则直接计算模型贡献。 |
+| 学习理论 | 生成流 | [Exact Recovery of Lipschitz Orthogonal Coordinate Transformations via Constrained Normalizing Flows](cards-0005.md#paper-156088) | 用坐标变换结构约束解决非线性 ICA 不可辨识性。 |
+| 生成模型 | 约束采样 | [Exact Regular-Constrained Sampling for Variable-Order Markov Generation](cards-0005.md#paper-155888) | 将可变阶稀疏上下文图与约束自动机相乘。 |
+| 图学习 | 约束生成 | [Exact Topological Compliance: Generating Persistence-Equivalent Graphs](cards-0005.md#paper-148463) | 硬性拓扑描述用约束求解验证。 |
+| 统计学习 | 机器遗忘 | [Exact Unlearning via Quantized Sufficient Statistics](cards-0005.md#paper-152457) | 把常规删除转化为充分统计更新。 |
+| 生成模型 | 防御评测 | [Example-Based Spatial Guidance for Training-Free Concept Erasure in Diffusion Models](cards-0005.md#paper-150163) | 按细分概念检测抑制副作用。 |

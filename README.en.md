@@ -16,7 +16,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest screening · 2026-11-18** · [ICML 2026 · 6,552 / 6,552 screened · 3,276 included](conferences/icml-2026/README.md) · [CoRL 2026 · 687 / 687 screened · 343 included](conferences/corl-2026/README.md) · [NeurIPS 2026 · 2729 screened · 2544 provisionally included](conferences/neurips-2026/README.md)
+**Latest screening · 2026-11-18** · [ICML 2026 · 6,552 / 6,552 screened · 3,276 included](conferences/icml-2026/README.md) · [CoRL 2026 · 687 / 687 screened · 343 included](conferences/corl-2026/README.md) · [NeurIPS 2026 · 2789 screened · 2601 provisionally included](conferences/neurips-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
@@ -34,9 +34,9 @@ One paper card brings together the research problem, method, baselines, benchmar
 | <a id="graph-and-recommendation"></a>[Graph Learning and Recommendation](en/papers/graph-and-recommendation.md) | 101 | Graph models, knowledge graphs, and recommender systems. |
 | <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 166 | Machine learning for physics, medicine, biology, and engineering. |
 | [CoRL 2026](conferences/corl-2026/README.md) | 343 | Conference paper index |
-| [NeurIPS 2026](conferences/neurips-2026/README.md) | 2544 | Conference paper index |
+| [NeurIPS 2026](conferences/neurips-2026/README.md) | 2601 | Conference paper index |
 
-**6,164 papers · 6,165 mechanisms.**
+**6,221 papers · 6,222 mechanisms.**
 
 <a id="insights-by-technical-category"></a>
 
@@ -56,7 +56,7 @@ One paper card brings together the research problem, method, baselines, benchmar
 | [Evaluation and Diagnostics](en/insights/evaluation.md) | 430 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
 | [Theory and Statistics](en/insights/theory-statistics.md) | 574 | Learning guarantees, counterexamples, estimation, and statistical tests. |
 | [CoRL 2026](conferences/corl-2026/README.md) | 343 | Conference index of reusable mechanisms |
-| [NeurIPS 2026](conferences/neurips-2026/README.md) | 2544 | Conference index of reusable mechanisms |
+| [NeurIPS 2026](conferences/neurips-2026/README.md) | 2601 | Conference index of reusable mechanisms |
 
 ## Recent Updates
 
