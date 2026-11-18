@@ -611,5 +611,7 @@
 - [Tio: Language Models with Parallel Streams of Thoughts, Inputs and Outputs](../conferences/neurips-2026/cards-0012.md#paper-155663)
 - [TiRex-2: Generalizing TiRex to Multivariate Data and Streaming](../conferences/neurips-2026/cards-0012.md#paper-151700)
 - [Tokenization and Architecture Jointly Allocate Component Roles in Time Series Transformers](../conferences/neurips-2026/cards-0012.md#paper-154486)
+- [TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting](../conferences/neurips-2026/cards-0012.md#paper-150449)
+- [Towards Complementary Keypoint Detection via Mixture of Detectors](../conferences/neurips-2026/cards-0012.md#paper-154279)
 
 <!-- conference-classification:end -->

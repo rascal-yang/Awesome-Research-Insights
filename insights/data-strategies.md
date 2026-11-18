@@ -406,5 +406,13 @@
 - [The Sampling Complexity of Condorcet Winner Identification in Dueling Bandits](../conferences/neurips-2026/cards-0012.md#paper-151146)
 - [TIGER: Bridging the Multimodal Reasoning-Access Gap via Modality Counterfactuals](../conferences/neurips-2026/cards-0012.md#paper-152182)
 - [TimeWarp: Evaluating Web Agents by Revisiting the Past](../conferences/neurips-2026/cards-0012.md#paper-139159)
+- [TopoPrune: Robust Data Pruning via Unified Latent Space Topology](../conferences/neurips-2026/cards-0012.md#paper-154394)
+- [Towards Generalizable Data Valuation: Learning an End-to-end Deep Model to Compute Shapley Values](../conferences/neurips-2026/cards-0012.md#paper-155035)
+- [Towards Generalizable Partially Relevant Video Retrieval](../conferences/neurips-2026/cards-0012.md#paper-151222)
+- [Towards instance-dependent regret optimality in Episodic MDPs with Posterior Sampling](../conferences/neurips-2026/cards-0012.md#paper-153285)
+- [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](../conferences/neurips-2026/cards-0012.md#paper-148687)
+- [Towards Optimal Pre-training Data Mixtures for Empowering Reinforcement Learning in LLMs](../conferences/neurips-2026/cards-0012.md#paper-152676)
+- [Towards Scalable Data Diversification for Language Model Pretraining via Leverage Score Sampling](../conferences/neurips-2026/cards-0012.md#paper-150922)
+- [Towards Scalable Egocentric HOI for Humanoids: Benchmarking Whole-Body Dexterous Interaction with Tactile Prediction](../conferences/neurips-2026/cards-0012.md#paper-156087)
 
 <!-- conference-classification:end -->

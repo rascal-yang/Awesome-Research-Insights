@@ -1174,5 +1174,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [The Structural Bias of $\ell_2$-Regularized Cross-Entropy Heads in Class-Incremental Learning: Characterization, Limits, and a Gauge-Anchoring Fix](../../conferences/neurips-2026/cards-0012.md#paper-148482)
 - [The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction](../../conferences/neurips-2026/cards-0012.md#paper-149266)
 - [Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration](../../conferences/neurips-2026/cards-0012.md#paper-155298)
+- [TopoCurve: Geometry-Aware Topology Reasoning via Bézier Curves in Autonomous Driving](../../conferences/neurips-2026/cards-0012.md#paper-149504)
+- [Topology-Aware Optimal Transport for Source-Free Test-Time Adaptation in Anomaly Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-150154)
+- [Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and Mitigation](../../conferences/neurips-2026/cards-0012.md#paper-152666)
+- [Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling](../../conferences/neurips-2026/cards-0012.md#paper-152419)
+- [Towards more general control of diffusion models using Jeffrey Guidance](../../conferences/neurips-2026/cards-0012.md#paper-149382)
+- [Towards Reconstructing Geographically Diverse Architecture with 3D Foundation Models](../../conferences/neurips-2026/cards-0012.md#paper-149360)
 
 <!-- conference-classification:end -->

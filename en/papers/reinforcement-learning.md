@@ -718,5 +718,10 @@ Learning from interaction, feedback, and offline experience.
 - [The Laplacian Keyboard: Beyond the Linear Span](../../conferences/neurips-2026/cards-0011.md#paper-155777)
 - [The Reciprocity Gradient](../../conferences/neurips-2026/cards-0012.md#paper-153284)
 - [Tight Gap-Dependent Regret Bounds and Problem-Independent Bounds for Cost-aware Cascading Bandits](../../conferences/neurips-2026/cards-0012.md#paper-149412)
+- [Topic-Aware Contextual Cascading Bandits](../../conferences/neurips-2026/cards-0012.md#paper-153868)
+- [TOPPO: Rethinking PPO for Multi-Task Reinforcement Learning with Critic Balancing](../../conferences/neurips-2026/cards-0012.md#paper-153864)
+- [Towards Convergence of PPO: An Approximate Descent Approach](../../conferences/neurips-2026/cards-0012.md#paper-155526)
+- [Towards instance-dependent regret optimality in Episodic MDPs with Posterior Sampling](../../conferences/neurips-2026/cards-0012.md#paper-153285)
+- [Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-154067)
 
 <!-- conference-classification:end -->

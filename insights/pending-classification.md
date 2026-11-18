@@ -1253,5 +1253,16 @@
 - [TIDES: Implicit Time-Awareness in Selective State Space Models](../conferences/neurips-2026/cards-0012.md#paper-150579)
 - [TIDE: Trajectory-Aware Watermark Propagation for Text-to-Image Diffusion Models](../conferences/neurips-2026/cards-0012.md#paper-155911)
 - [To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals](../conferences/neurips-2026/cards-0012.md#paper-152547)
+- [ToLD: Efficient Time Series Forecasting via Tokenized Truncated Latent Diffusion](../conferences/neurips-2026/cards-0012.md#paper-156116)
+- [ToMAToMP: Robust and Multi-Parameter Topological Clustering](../conferences/neurips-2026/cards-0012.md#paper-150420)
+- [Tools as Continuous Flow for Evolving Agentic Reasoning](../conferences/neurips-2026/cards-0012.md#paper-155860)
+- [TopoCurve: Geometry-Aware Topology Reasoning via Bézier Curves in Autonomous Driving](../conferences/neurips-2026/cards-0012.md#paper-149504)
+- [Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction](../conferences/neurips-2026/cards-0012.md#paper-151629)
+- [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](../conferences/neurips-2026/cards-0012.md#paper-153005)
+- [Toward Semantically-Consistent Tuning-Free Customization for Rectified Flow Transformers](../conferences/neurips-2026/cards-0012.md#paper-152751)
+- [Towards Fair Graph Generation Without Sensitive Attribute](../conferences/neurips-2026/cards-0012.md#paper-153706)
+- [Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and Mitigation](../conferences/neurips-2026/cards-0012.md#paper-152666)
+- [Towards Generalist Graph-Level Anomaly Detection](../conferences/neurips-2026/cards-0012.md#paper-155195)
+- [TPRL: Adaptive Visual Token Pruning in LVLMs via Language-Guided Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-153958)
 
 <!-- conference-classification:end -->

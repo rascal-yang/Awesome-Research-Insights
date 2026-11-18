@@ -981,5 +981,13 @@ Training schedules, curricula, and task or stage composition.
 - [TIMA: Test-Time Internalization for Agentic Memory](../../conferences/neurips-2026/cards-0012.md#paper-150957)
 - [Token-Conditional Expert Dropout: Implicit Regularization for Stable MoE Pretraining](../../conferences/neurips-2026/cards-0012.md#paper-151823)
 - [TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs](../../conferences/neurips-2026/cards-0012.md#paper-152684)
+- [Too Smart to Teach: The Articulability Ceiling in Language Models](../../conferences/neurips-2026/cards-0012.md#paper-152134)
+- [ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](../../conferences/neurips-2026/cards-0012.md#paper-152095)
+- [To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](../../conferences/neurips-2026/cards-0012.md#paper-152940)
+- [Towards Financial World Modeling](../../conferences/neurips-2026/cards-0012.md#paper-153065)
+- [Towards Identifying Dominant Low-Rank Subspaces in Zeroth-Order Fine-Tuning](../../conferences/neurips-2026/cards-0012.md#paper-153509)
+- [Towards Understanding Momentum Acceleration in River-Valley Loss Landscape](../../conferences/neurips-2026/cards-0012.md#paper-152627)
+- [Towards Understanding Self-Pretraining for Sequence Classification](../../conferences/neurips-2026/cards-0012.md#paper-151883)
+- [Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective](../../conferences/neurips-2026/cards-0012.md#paper-155813)
 
 <!-- conference-classification:end -->

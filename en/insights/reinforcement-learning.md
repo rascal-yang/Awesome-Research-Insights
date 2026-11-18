@@ -758,5 +758,16 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Think-with-Rubrics: From External Evaluator to Internal Reasoning Guidance](../../conferences/neurips-2026/cards-0012.md#paper-151335)
 - [TIC-GRPO: Provable and Efficient Optimization for Reinforcement Learning from Human Feedback](../../conferences/neurips-2026/cards-0012.md#paper-150989)
 - [TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition](../../conferences/neurips-2026/cards-0012.md#paper-154119)
+- [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](../../conferences/neurips-2026/cards-0012.md#paper-154043)
+- [Tool-Integrated Reasoning via Hierarchical Multi-Agent Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-148956)
+- [Tool-IQA: Augmenting Image Quality Assessment with Simple Tools](../../conferences/neurips-2026/cards-0012.md#paper-154321)
+- [ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-154349)
+- [Tool Verification for Test-Time Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-153674)
+- [TOPPO: Rethinking PPO for Multi-Task Reinforcement Learning with Critic Balancing](../../conferences/neurips-2026/cards-0012.md#paper-153864)
+- [ToS: Tree-of-Skill Reinforcement Learning driven by Behavior Tree for Long-Horizon Manipulation](../../conferences/neurips-2026/cards-0012.md#paper-151185)
+- [Touch-R1: Reinforcing Touch Reasoning in MLLMs](../../conferences/neurips-2026/cards-0012.md#paper-149345)
+- [Toward Interactive Understanding of Code APIs](../../conferences/neurips-2026/cards-0012.md#paper-139380)
+- [Towards Convergence of PPO: An Approximate Descent Approach](../../conferences/neurips-2026/cards-0012.md#paper-155526)
+- [Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-154067)
 
 <!-- conference-classification:end -->

@@ -1461,5 +1461,15 @@
 - [Tight Gap-Dependent Regret Bounds and Problem-Independent Bounds for Cost-aware Cascading Bandits](../conferences/neurips-2026/cards-0012.md#paper-149412)
 - [Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration](../conferences/neurips-2026/cards-0012.md#paper-155298)
 - [TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding](../conferences/neurips-2026/cards-0012.md#paper-155785)
+- [TOM-Pruning: Target-aware Output Manifold for LLM Pruning](../conferences/neurips-2026/cards-0012.md#paper-153219)
+- [Topic-Aware Contextual Cascading Bandits](../conferences/neurips-2026/cards-0012.md#paper-153868)
+- [Topology-Aware Optimal Transport for Source-Free Test-Time Adaptation in Anomaly Segmentation](../conferences/neurips-2026/cards-0012.md#paper-150154)
+- [TopoScope: A Graph-Scoped LLM Agent for Printed Circuit Board Schematic Design](../conferences/neurips-2026/cards-0012.md#paper-150854)
+- [To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation](../conferences/neurips-2026/cards-0012.md#paper-148558)
+- [Toward Efficient Reasoning of Large Language Models via Latent Concept-Pyramid Modeling](../conferences/neurips-2026/cards-0012.md#paper-153758)
+- [Towards Closing the Autoregressive Gap in Language Modeling via Entropy-Gated Continuous Bitstream Diffusion](../conferences/neurips-2026/cards-0012.md#paper-151917)
+- [Towards Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs](../conferences/neurips-2026/cards-0012.md#paper-152933)
+- [Towards more general control of diffusion models using Jeffrey Guidance](../conferences/neurips-2026/cards-0012.md#paper-149382)
+- [Towards Principled Efficient Rollout Allocation in Test-Time Training](../conferences/neurips-2026/cards-0012.md#paper-152071)
 
 <!-- conference-classification:end -->

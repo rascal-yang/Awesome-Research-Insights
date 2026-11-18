@@ -890,5 +890,8 @@ Robot perception, policy learning, planning, and control.
 - [The limbic navigation system as a hierarchical RNN](../../conferences/neurips-2026/cards-0011.md#paper-154055)
 - [Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](../../conferences/neurips-2026/cards-0012.md#paper-148599)
 - [Tokenizer Choice Shapes Generalization in State-Centric Learning for Planning](../../conferences/neurips-2026/cards-0012.md#paper-150812)
+- [ToS: Tree-of-Skill Reinforcement Learning driven by Behavior Tree for Long-Horizon Manipulation](../../conferences/neurips-2026/cards-0012.md#paper-151185)
+- [Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation](../../conferences/neurips-2026/cards-0012.md#paper-152397)
+- [Towards Scalable Egocentric HOI for Humanoids: Benchmarking Whole-Body Dexterous Interaction with Tactile Prediction](../../conferences/neurips-2026/cards-0012.md#paper-156087)
 
 <!-- conference-classification:end -->

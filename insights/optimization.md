@@ -792,5 +792,8 @@
 - [The Denoising Wrapper: A Modular Post-Processing Framework for Noisy First-Order Optimizers](../conferences/neurips-2026/cards-0011.md#paper-155970)
 - [Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model](../conferences/neurips-2026/cards-0011.md#paper-154381)
 - [The Sparsity Whisperer](../conferences/neurips-2026/cards-0012.md#paper-152487)
+- [Topological Invariance and Breakdown in Learning Dynamics](../conferences/neurips-2026/cards-0012.md#paper-153082)
+- [Towards Hyperparameter Transfer for Differentially Private Optimization](../conferences/neurips-2026/cards-0012.md#paper-149609)
+- [Towards Principled Fine-Grained MoE Expert Pruning via Pseudo-Boolean Approximation](../conferences/neurips-2026/cards-0012.md#paper-155677)
 
 <!-- conference-classification:end -->

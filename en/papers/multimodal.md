@@ -1031,5 +1031,18 @@ Learning across modalities such as images, text, audio, and video.
 - [To Align or Not To Align: Check Your COMPASS Before You Train](../../conferences/neurips-2026/cards-0012.md#paper-149496)
 - [Tokenizer-Generator Coupling in Medical Image Generation](../../conferences/neurips-2026/cards-0012.md#paper-148519)
 - [TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs](../../conferences/neurips-2026/cards-0012.md#paper-152684)
+- [Too Aligned to be Real: Detecting AI-Generated Images via Cross-modal Alignment Shift](../../conferences/neurips-2026/cards-0012.md#paper-150179)
+- [Tool-IQA: Augmenting Image Quality Assessment with Simple Tools](../../conferences/neurips-2026/cards-0012.md#paper-154321)
+- [TopoGraphRAG-Bench: Evaluating Multimodal GraphRAG on Layout-Grounded Evidence Reasoning](../../conferences/neurips-2026/cards-0012.md#paper-139025)
+- [Topology-Aware Representation Alignment for Semi-Supervised Vision-Language Learning](../../conferences/neurips-2026/cards-0012.md#paper-153660)
+- [To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation](../../conferences/neurips-2026/cards-0012.md#paper-148558)
+- [Touch-R1: Reinforcing Touch Reasoning in MLLMs](../../conferences/neurips-2026/cards-0012.md#paper-149345)
+- [Towards Characterizing Scientific Image Utility and Upgradability](../../conferences/neurips-2026/cards-0012.md#paper-139379)
+- [Towards Complementary Keypoint Detection via Mixture of Detectors](../../conferences/neurips-2026/cards-0012.md#paper-154279)
+- [Towards Generalizable Partially Relevant Video Retrieval](../../conferences/neurips-2026/cards-0012.md#paper-151222)
+- [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](../../conferences/neurips-2026/cards-0012.md#paper-148687)
+- [Towards Realistic Conversational Multimodal Instruction Following](../../conferences/neurips-2026/cards-0012.md#paper-149344)
+- [Towards Reliable VLM Judges: State-Conditional Invariance and Presentation-Aware Diagnostics](../../conferences/neurips-2026/cards-0012.md#paper-139432)
+- [TPRL: Adaptive Visual Token Pruning in LVLMs via Language-Guided Reinforcement Learning](../../conferences/neurips-2026/cards-0012.md#paper-153958)
 
 <!-- conference-classification:end -->

@@ -692,5 +692,6 @@
 - [Structural Blindness in Latent Data Assimilation: Representation Geometry Misleads Sensor Design](../conferences/neurips-2026/cards-0011.md#paper-152860)
 - [The Dynamic-Probabilistic Consistency Gap in Chaotic Surrogate Modeling](../conferences/neurips-2026/cards-0011.md#paper-152081)
 - [The Neural Race Model](../conferences/neurips-2026/cards-0011.md#paper-152312)
+- [TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting](../conferences/neurips-2026/cards-0012.md#paper-150449)
 
 <!-- conference-classification:end -->

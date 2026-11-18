@@ -80,3 +80,82 @@
 | 视觉与多模态 | 评测与诊断 | [Tokenizer-Generator Coupling in Medical Image Generation](cards-0012.md#paper-148519) | 图像生成分词器与生成器按配对择优 |
 | 大语言模型 | 评测与诊断 | [Tokens-per-Parameter Coverage Is Critical for Robust LLM Scaling Law Extrapolation](cards-0012.md#paper-149648) | 外推标度律要覆盖不同 tokens-per-parameter |
 | 视觉与多模态 | 训练与优化 | [TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs](cards-0012.md#paper-152684) | 同一道题置换信息的视觉和文本形式测模态差距 |
+| 生成模型 | 扩散模型 | [ToLD: Efficient Time Series Forecasting via Tokenized Truncated Latent Diffusion](cards-0012.md#paper-156116) | 预测多样本重排用无真值评分。 |
+| 机器学习理论 | 聚类 | [ToMAToMP: Robust and Multi-Parameter Topological Clustering](cards-0012.md#paper-150420) | 多属性聚类可分开验证拓扑结构和异常。 |
+| 模型效率与系统 | 剪枝与稀疏化 | [TOM-Pruning: Target-aware Output Manifold for LLM Pruning](cards-0012.md#paper-153219) | LLM 剪枝使用目标感知输出几何。 |
+| 多模态学习 | 评测与诊断 | [Too Aligned to be Real: Detecting AI-Generated Images via Cross-modal Alignment Shift](cards-0012.md#paper-150179) | 图像检测时检查相同语义下图文对齐集中度。 |
+| 智能体与工具使用 | 强化学习 | [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](cards-0012.md#paper-154043) | 在 GUI 与工具切换关键点分配 RL。 |
+| 智能体与工具使用 | 强化学习 | [Tool-Integrated Reasoning via Hierarchical Multi-Agent Reinforcement Learning](cards-0012.md#paper-148956) | 推理期间分离规划和执行，训练共享结局。 |
+| 多模态学习 | 奖励设计 | [Tool-IQA: Augmenting Image Quality Assessment with Simple Tools](cards-0012.md#paper-154321) | 视觉质量评估只奖励真正改善判断的工具使用。 |
+| 智能体与工具使用 | 流匹配 | [Tools as Continuous Flow for Evolving Agentic Reasoning](cards-0012.md#paper-155860) | 工具链规划可先在连续语义空间生成全局路径。 |
+| 智能体与工具使用 | 奖励设计 | [ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning](cards-0012.md#paper-154349) | 工具检索按发现事件和后续选择分别分信用。 |
+| 大语言模型 | 强化学习 | [Tool Verification for Test-Time Reinforcement Learning](cards-0012.md#paper-153674) | 测试时训练用可验证工具判自采候选。 |
+| 大语言模型 | 知识蒸馏 | [Too Smart to Teach: The Articulability Ceiling in Language Models](cards-0012.md#paper-152134) | 在固定解释预算下实测教师能否教对应学生。 |
+| 大语言模型 | 评测与诊断 | [Top-$k$ Identification with Correlated Biased LLM Judges via Anchor Leverage](cards-0012.md#paper-149592) | 训练裁判评测锚点应覆盖前 k 分界方向。 |
+| 模型效率与系统 | 参数高效微调 | [ToPA: Block-wise Toeplitz Adaptation for Expressive and Efficient Fine-Tuning](cards-0012.md#paper-152095) | 短链块 Toeplitz 可替代长链结构适配。 |
+| 强化学习 | 搜索与规划 | [Topic-Aware Contextual Cascading Bandits](cards-0012.md#paper-153868) | 级联推荐响应依赖上文主题时把历史纳入状态。 |
+| 计算机视觉 | 三维视觉 | [TopoCurve: Geometry-Aware Topology Reasoning via Bézier Curves in Autonomous Driving](cards-0012.md#paper-149504) | 路网拓扑以可组合的曲线而非散点表示。 |
+| 深度学习 | 表征学习 | [TopoFisher: Learning Topological Summary Statistics by Maximizing Fisher Information](cards-0012.md#paper-154783) | 持久同调摘要按待估参数的 Fisher 信息学习。 |
+| 多模态学习 | 评测与诊断 | [TopoGraphRAG-Bench: Evaluating Multimodal GraphRAG on Layout-Grounded Evidence Reasoning](cards-0012.md#paper-139025) | GraphRAG 单测找出的证据是否形成有效推理拓扑。 |
+| 深度学习 | 优化算法 | [Topological Invariance and Breakdown in Learning Dynamics](cards-0012.md#paper-153082) | 依赖特征拓扑的模型在临界学习率两侧验连续变化。 |
+| 深度学习 | 时序建模 | [Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction](cards-0012.md#paper-151629) | 外推动力系统前拆可外推与不稳定潜特征。 |
+| 机器学习基础与统计 | 评测与诊断 | [Topological Periodicity Test (TopPT) via Confidence Bound of Time-Delay Embeddings](cards-0012.md#paper-149943) | 用滑窗延迟嵌入的持续拓扑和置信界检验周期。 |
+| 计算机视觉 | 推理策略 | [Topology-Aware Optimal Transport for Source-Free Test-Time Adaptation in Anomaly Segmentation](cards-0012.md#paper-150154) | 异常分割优先保留跨阈值仍稳定的拓扑特征。 |
+| 多模态学习 | 表征学习 | [Topology-Aware Representation Alignment for Semi-Supervised Vision-Language Learning](cards-0012.md#paper-153660) | 半监督图文对齐除点对外考虑对应关系的拓扑显著边。 |
+| 机器学习基础与统计 | 数据策略 | [TopoPrune: Robust Data Pruning via Unified Latent Space Topology](cards-0012.md#paper-154394) | 数据裁剪先保存全局流形再在局部估算结构贡献。 |
+| 大语言模型 | 推理策略 | [TopoScope: A Graph-Scoped LLM Agent for Printed Circuit Board Schematic Design](cards-0012.md#paper-150854) | 受结构约束的代理只读当前节点附近规则并以图模式验收。 |
+| 强化学习 | 强化学习方法 | [TOPPO: Rethinking PPO for Multi-Task Reinforcement Learning with Critic Balancing](cards-0012.md#paper-153864) | 多任务 PPO 先检查价值网络梯度是否偏向部分任务。 |
+| 科学机器学习 | 模型架构 | [TORNADO: Adaptive Latent Stochastic Transport for Calibrated Probabilistic PDE Forecasting](cards-0012.md#paper-150449) | 概率动力学模型按状态调整扩散噪声。 |
+| 机器学习基础与统计 | 训练策略 | [To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](cards-0012.md#paper-152940) | 长程时序先学短程演化，再递推远期。 |
+| 机器人学 | 强化学习方法 | [ToS: Tree-of-Skill Reinforcement Learning driven by Behavior Tree for Long-Horizon Manipulation](cards-0012.md#paper-151185) | 行为树中让策略根据情况动态选后续技能分支。 |
+| 大语言模型 | 评测与诊断 | [Total Variation Distance Estimation in Autoregressive Models](cards-0012.md#paper-153131) | 检查解码分布差异使用与所能访问概率匹配的总变差估计。 |
+| 多模态学习 | 推理策略 | [To Think or Not to Think: Pre-Decisional Reasoning Budgets for Referring Audio-Visual Segmentation](cards-0012.md#paper-148558) | 从首个生成 token 之前的状态估计是否值得继续推理。 |
+| 多模态学习 | 强化学习方法 | [Touch-R1: Reinforcing Touch Reasoning in MLLMs](cards-0012.md#paper-149345) | 触觉推理跨传感器对照，并把材料判断接到实际接触信号。 |
+| 机器学习基础与统计 | 评测与诊断 | [Toward a theory of Evaluability](cards-0012.md#paper-148215) | 评什么之前先明确测试样本是否可能已经进入训练。 |
+| 大语言模型 | 推理与搜索 | [Toward Efficient Reasoning of Large Language Models via Latent Concept-Pyramid Modeling](cards-0012.md#paper-153758) | 推理压缩用多粒度概念表示 |
+| 智能体 | 强化学习与奖励 | [Toward Interactive Understanding of Code APIs](cards-0012.md#paper-139380) | API 理解训练可让 critic 获额外信息 |
+| 大语言模型 | 理论与统计 | [Towards Anytime-Valid Statistical Watermarking](cards-0012.md#paper-148466) | 生成溯源可按证据动态停止 |
+| 视觉与多模态 | 评测与诊断 | [Towards Characterizing Scientific Image Utility and Upgradability](cards-0012.md#paper-139379) | 科学图像修复先独立测能否识别科学性错误 |
+| 大语言模型 | 生成与扩散 | [Towards Closing the Autoregressive Gap in Language Modeling via Entropy-Gated Continuous Bitstream Diffusion](cards-0012.md#paper-151917) | 较大词表用连续 bit 扩散控制输出头成本 |
+| 视觉与多模态 | 模型与架构 | [Towards Complementary Keypoint Detection via Mixture of Detectors](cards-0012.md#paper-154279) | 关键点检测动态混合互补检测器 |
+| 强化学习与决策 | 强化学习与奖励 | [Towards Convergence of PPO: An Approximate Descent Approach](cards-0012.md#paper-155526) | PPO 多轮重用样本要同时量化稳定步长和偏差 |
+| 智能体与工具使用 | 评测与诊断 | [Towards Direct Evaluation of Harness Optimizers via Priority Ranking](cards-0012.md#paper-151969) | 脚手架优化器预测优先级，再比较真正干预。 |
+| 智能体与工具使用 | 模型效率 | [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](cards-0012.md#paper-153005) | 并行代理摘要可测试直接复用各 worker 计算缓存。 |
+| 生成模型 | 图像编辑 | [Toward Semantically-Consistent Tuning-Free Customization for Rectified Flow Transformers](cards-0012.md#paper-152751) | 免微调定制同时对语义概念与新提示加约束。 |
+| 智能体与工具使用 | 评测与诊断 | [Towards Error-Free EHRs: Reasoning-Intensive Consistency Verification Between Clinical Notes and Structured Tables in Electronic Health Records](cards-0012.md#paper-139021) | 跨文本表格核对先抽实体时间锚，再查相关记录。 |
+| 生成模型 | 模型鲁棒性 | [Towards Fair Graph Generation Without Sensitive Attribute](cards-0012.md#paper-153706) | 缺群体标签时将公平代理估计与生成联合验。 |
+| 计算机视觉 | 模型鲁棒性 | [Towards Fairness under Label Bias in Image Segmentation: Impact, Measurement and Mitigation](cards-0012.md#paper-152666) | 分割中将群体可分性作为标注错误诊断。 |
+| 深度学习 | 自监督学习 | [Towards Financial World Modeling](cards-0012.md#paper-153065) | 代理世界模型表征评测区分结构与任务预测。 |
+| 深度学习 | 图学习 | [Towards Generalist Graph-Level Anomaly Detection](cards-0012.md#paper-155195) | 跨图异常优先提可迁移判别子图。 |
+| 计算机视觉 | 异常检测 | [Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling](cards-0012.md#paper-152419) | 3D 缺陷按邻域关系不一致定义。 |
+| 深度学习 | 数据选择 | [Towards Generalizable Data Valuation: Learning an End-to-end Deep Model to Compute Shapley Values](cards-0012.md#paper-155035) | 数据价值先跨数据集学代理，再用小预算真探针校正。 |
+| 多模态学习 | 检索增强 | [Towards Generalizable Partially Relevant Video Retrieval](cards-0012.md#paper-151222) | 部分匹配的长视频检索用未见目标数据集验。 |
+| 智能体与工具使用 | 表征学习 | [Towards High Semantic Fidelity: Hyperdimensional Symbolic Messages in Multi-Agent Communication](cards-0012.md#paper-153552) | 多代理消息传输用可读结构加抗噪融合。 |
+| 深度学习 | 优化算法 | [Towards Hyperparameter Transfer for Differentially Private Optimization](cards-0012.md#paper-149609) | 差分隐私模型扩宽时重新校准学习率缩放。 |
+| 深度学习 | 因果推断 | [Towards Identifiable Latent Additive Noise Models](cards-0012.md#paper-149628) | 只有部分因果边跨环境变化时评估部分可识别性。 |
+| 模型效率与系统 | 参数高效微调 | [Towards Identifying Dominant Low-Rank Subspaces in Zeroth-Order Fine-Tuning](cards-0012.md#paper-153509) | 零阶微调从历史梯度估有效子空间。 |
+| 强化学习 | 采样与数据选择 | [Towards instance-dependent regret optimality in Episodic MDPs with Posterior Sampling](cards-0012.md#paper-153285) | 后验样本仅决定探索时机，探索策略独立设计。 |
+| 大语言模型 | 评测与诊断 | [Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning](cards-0012.md#paper-154109) | 长推理分别测技能成功和技能切换代价。 |
+| 模型效率与系统 | 推理加速 | [Towards Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs](cards-0012.md#paper-152933) | 对高维 3DGS 渲染积累用矩阵并行而非逐像素标量。 |
+| 大语言模型 | 评测与诊断 | [Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models](cards-0012.md#paper-155333) | 安全测评分别读推理和最终回答，再报不一致率。 |
+| 计算机视觉 | 推理策略 | [Towards more general control of diffusion models using Jeffrey Guidance](cards-0012.md#paper-149382) | 生成引导可以改变特征边缘分布并尽量保留条件结构。 |
+| 大语言模型 | 评测与诊断 | [Towards Multi-Human-Value Alignment via Value Localization in LLMs](cards-0012.md#paper-151788) | 多价值行为先分别定位敏感组件，验证干预交叉影响。 |
+| 多模态学习 | 数据策略 | [Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents](cards-0012.md#paper-148687) | 视觉搜索代理把中间图像注册成后续工具可引用的对象。 |
+| 大语言模型 | 数据策略 | [Towards Optimal Pre-training Data Mixtures for Empowering Reinforcement Learning in LLMs](cards-0012.md#paper-152676) | 选预训练混合数据时看基座在 RL 采样回答上的平均困惑度。 |
+| 强化学习 | 强化学习方法 | [Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning](cards-0012.md#paper-154067) | 为线上不同偏移程度保留保守与乐观的离线策略候选。 |
+| 大语言模型 | 推理策略 | [Towards Principled Efficient Rollout Allocation in Test-Time Training](cards-0012.md#paper-152071) | 多数投票分领导者选举与后验风险确认两阶段。 |
+| 大语言模型 | 优化 | [Towards Principled Fine-Grained MoE Expert Pruning via Pseudo-Boolean Approximation](cards-0012.md#paper-155677) | 细粒度 MoE 剪枝估计少数值得考虑的专家交互。 |
+| 多模态学习 | 评测与诊断 | [Towards Realistic Conversational Multimodal Instruction Following](cards-0012.md#paper-149344) | 多轮视觉助手单独测前轮约束是否延续到后轮。 |
+| 机器人学 | 表征学习 | [Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation](cards-0012.md#paper-152397) | 全波形 LiDAR 可按物理强度条件筛去背景 token。 |
+| 大语言模型 | 评测与诊断 | [Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces](cards-0012.md#paper-138935) | 行为模拟要跨场景追踪个人决策链并测长尾。 |
+| 计算机视觉 | 评测与诊断 | [Towards Reconstructing Geographically Diverse Architecture with 3D Foundation Models](cards-0012.md#paper-149360) | 三维跨区域评测先控制环境尺度，再解释地区误差。 |
+| 机器学习基础与统计 | 评测与诊断 | [Towards Reliable LLM Evaluation: Correcting the Winner’s Curse in Adaptive Benchmarking](cards-0012.md#paper-149895) | 自适应调参后用独立留出估计所选设置并同时给不确定度。 |
+| 多模态学习 | 评测与诊断 | [Towards Reliable VLM Judges: State-Conditional Invariance and Presentation-Aware Diagnostics](cards-0012.md#paper-139432) | 视觉评审同时测实际正确、非因果呈现不变及证据变化敏感。 |
+| 大语言模型 | 数据策略 | [Towards Scalable Data Diversification for Language Model Pretraining via Leverage Score Sampling](cards-0012.md#paper-150922) | 预训练质量过滤后按样本杠杆分数维持多样性。 |
+| 机器人学 | 数据策略 | [Towards Scalable Egocentric HOI for Humanoids: Benchmarking Whole-Body Dexterous Interaction with Tactile Prediction](cards-0012.md#paper-156087) | 手物动作可用接触压力修正局部配准而保持全身运动。 |
+| 机器学习基础与统计 | 训练与优化 | [Towards Understanding Momentum Acceleration in River-Valley Loss Landscape](cards-0012.md#paper-152627) | 联合调整动量和学习率验收跨方向稳定性 |
+| 机器学习基础与统计 | 训练与优化 | [Towards Understanding Self-Pretraining for Sequence Classification](cards-0012.md#paper-151883) | 序列监督的近邻结构可先用掩码任务预训练 |
+| 机器学习基础与统计 | 训练与优化 | [Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective](cards-0012.md#paper-155813) | Muon 的早期搜寻和后期精化设不同优化器对照 |
+| 视觉与多模态 | 效率与系统 | [TPRL: Adaptive Visual Token Pruning in LVLMs via Language-Guided Reinforcement Learning](cards-0012.md#paper-153958) | 视觉 token 剪枝以多步预算决策训练 |
+| 智能体 | 评测与诊断 | [TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development](cards-0012.md#paper-139211) | 机器学习开发助手用成对人机轨迹定位战略差别 |
+| 智能体 | 评测与诊断 | [TRACER: Verifiable Generative Provenance for Multimodal Tool-Using Agents](cards-0012.md#paper-153884) | 工具型多模态答案每项关键主张要绑定观测证据 |

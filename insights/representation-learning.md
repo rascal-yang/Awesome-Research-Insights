@@ -628,5 +628,9 @@
 - [The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction](../conferences/neurips-2026/cards-0012.md#paper-149266)
 - [Time–Frequency Non-Stationary Modeling for Multivariate Time Series Forecasting](../conferences/neurips-2026/cards-0012.md#paper-152338)
 - [TimeTok: Granularity-Controllable Time-Series Generation via Hierarchical Tokenization](../conferences/neurips-2026/cards-0012.md#paper-152955)
+- [TopoFisher: Learning Topological Summary Statistics by Maximizing Fisher Information](../conferences/neurips-2026/cards-0012.md#paper-154783)
+- [Topology-Aware Representation Alignment for Semi-Supervised Vision-Language Learning](../conferences/neurips-2026/cards-0012.md#paper-153660)
+- [Towards High Semantic Fidelity: Hyperdimensional Symbolic Messages in Multi-Agent Communication](../conferences/neurips-2026/cards-0012.md#paper-153552)
+- [Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation](../conferences/neurips-2026/cards-0012.md#paper-152397)
 
 <!-- conference-classification:end -->
