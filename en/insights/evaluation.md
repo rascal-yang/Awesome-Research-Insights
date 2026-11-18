@@ -374,6 +374,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zeng26x-evaluation) · 中文
 - [The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms](../../conferences/icml-2026/cards/5701-5800.md#zhang26u-evaluation) · 中文
 - [Learning More from Less: Unlocking Internal Representations for Benchmark Compression](../../conferences/icml-2026/cards/5701-5800.md#zhang26bj-evaluation) · 中文
+- [Prescriptive Scaling Reveals the Evolution of Language Model Capabilities](../../conferences/icml-2026/cards/5801-5900.md#zhang26by-evaluation) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -611,6 +612,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](../../conferences/icml-2026/cards/5601-5700.md#zeller26a-evaluation) · 中文
 - [Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation](../../conferences/icml-2026/cards/5701-5800.md#zeng26w-evaluation) · 中文
 - [ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](../../conferences/icml-2026/cards/5701-5800.md#zhang26o-evaluation) · 中文
+- [You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses](../../conferences/icml-2026/cards/5801-5900.md#zhang26cq-evaluation) · 中文
 
 <a id="by-ml-foundations"></a>
 

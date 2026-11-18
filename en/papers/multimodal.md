@@ -430,6 +430,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="yin26e-inference"></a>[Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding](../../conferences/icml-2026/cards/5501-5600.md#paper-yin26e)
 - <a id="yoo26a-inference"></a>[PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation](../../conferences/icml-2026/cards/5501-5600.md#paper-yoo26a)
 - <a id="yu26c-inference"></a>[Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../conferences/icml-2026/cards/5501-5600.md#paper-yu26c)
+- <a id="zhang26cg-inference"></a>[Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cg)
 
 <a id="by-representation-learning"></a>
 
@@ -581,6 +582,7 @@ Learning across modalities such as images, text, audio, and video.
 - <a id="zeller26a-evaluation"></a>[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](../../conferences/icml-2026/cards/5601-5700.md#paper-zeller26a)
 - <a id="zeng26w-evaluation"></a>[Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26w)
 - <a id="zhang26o-evaluation"></a>[ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26o)
+- <a id="zhang26cq-evaluation"></a>[You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cq)
 
 <a id="by-theory-statistics"></a>
 

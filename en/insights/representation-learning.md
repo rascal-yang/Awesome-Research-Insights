@@ -392,4 +392,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments](../../conferences/icml-2026/cards/4301-4400.md#takawale26a-representation-learning) · 中文
 - [GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training](../../conferences/icml-2026/cards/5001-5100.md#wu26s-representation-learning) · 中文
 - [A Cartesian-3j Framework for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/5201-5300.md#xu26br-representation-learning) · 中文
+- [From Teacher Pathways to Invariant Manifolds: Consensus Subspace Distillation for TSFMs](../../conferences/icml-2026/cards/5801-5900.md#zhang26cf-representation-learning) · 中文
+- [DualTimesField: Rethinking Time Series as Continuous-Time Trends and Events](../../conferences/icml-2026/cards/5801-5900.md#zhang26co-representation-learning) · 中文
 <!-- classification:end -->

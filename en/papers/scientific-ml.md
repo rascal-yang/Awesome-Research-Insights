@@ -396,6 +396,8 @@ Machine learning for physics, medicine, biology, and engineering.
 - <a id="takawale26a-representation-learning"></a>[INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments](../../conferences/icml-2026/cards/4301-4400.md#paper-takawale26a)
 - <a id="wu26s-representation-learning"></a>[GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training](../../conferences/icml-2026/cards/5001-5100.md#paper-wu26s)
 - <a id="xu26br-representation-learning"></a>[A Cartesian-3j Framework for Machine Learning Interatomic Potentials](../../conferences/icml-2026/cards/5201-5300.md#paper-xu26br)
+- <a id="zhang26cf-representation-learning"></a>[From Teacher Pathways to Invariant Manifolds: Consensus Subspace Distillation for TSFMs](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cf)
+- <a id="zhang26co-representation-learning"></a>[DualTimesField: Rethinking Time Series as Continuous-Time Trends and Events](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26co)
 
 <a id="by-evaluation"></a>
 

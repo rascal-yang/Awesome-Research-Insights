@@ -486,6 +486,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhan26c-reinforcement-learning"></a>[Simple Policy Gradients for Reasoning with Diffusion Language Models](../../conferences/icml-2026/cards/5701-5800.md#paper-zhan26c)
 - <a id="zhang26r-reinforcement-learning"></a>[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26r)
 - <a id="zhang26bw-reinforcement-learning"></a>[Reinforcement-aware Knowledge Distillation for LLM Reasoning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26bw)
+- <a id="zhang26cm-reinforcement-learning"></a>[D$^2$Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cm)
 
 <a id="by-training-strategies"></a>
 
@@ -646,6 +647,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zeng26l-training-strategies"></a>[PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26l)
 - <a id="zhang26n-training-strategies"></a>[Internalizing Safety Understanding in Large Reasoning Models via Verification](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26n)
 - <a id="zhang26bc-training-strategies"></a>[Gradient-Aware Scheduling: Coupling Curriculum and Staleness for Async Reinforcement Learning](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bc)
+- <a id="zhang26cc-training-strategies"></a>[FedRot-LoRA: Mitigating Rotational Misalignment in Federated LoRA](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26cc)
 
 <a id="by-data-strategies"></a>
 
@@ -1099,6 +1101,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zhang26ae-inference"></a>[The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ae)
 - <a id="zhang26ag-inference"></a>[Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ag)
 - <a id="zhang26ai-inference"></a>[CoMem: Context Management with A Decoupled Long-Context Model](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26ai)
+- <a id="zhang26ce-inference"></a>[Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ce)
+- <a id="zhang26ci-inference"></a>[PatternKV: Flattening KV Representation Expands Quantization Headroom](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26ci)
 
 <a id="by-representation-learning"></a>
 
@@ -1489,6 +1493,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - <a id="zeng26x-evaluation"></a>[ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning](../../conferences/icml-2026/cards/5701-5800.md#paper-zeng26x)
 - <a id="zhang26u-evaluation"></a>[The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26u)
 - <a id="zhang26bj-evaluation"></a>[Learning More from Less: Unlocking Internal Representations for Benchmark Compression](../../conferences/icml-2026/cards/5701-5800.md#paper-zhang26bj)
+- <a id="zhang26by-evaluation"></a>[Prescriptive Scaling Reveals the Evolution of Language Model Capabilities](../../conferences/icml-2026/cards/5801-5900.md#paper-zhang26by)
 
 <a id="by-theory-statistics"></a>
 

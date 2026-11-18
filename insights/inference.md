@@ -372,6 +372,8 @@
 - [隐藏态范数引导的选择性计算](../conferences/icml-2026/cards/5701-5800.md#zhang26ae-inference) · The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models
 - [跨TP一致的分块归约树](../conferences/icml-2026/cards/5701-5800.md#zhang26ag-inference) · Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch
 - [异步迟到摘要与KV重编码预算](../conferences/icml-2026/cards/5701-5800.md#zhang26ai-inference) · CoMem: Context Management with A Decoupled Long-Context Model
+- [局部语义核排斥的文本扩散引导](../conferences/icml-2026/cards/5801-5900.md#zhang26ce-inference) · Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance
+- [按残差动态范围匹配的KV模式量化](../conferences/icml-2026/cards/5801-5900.md#zhang26ci-inference) · PatternKV: Flattening KV Representation Expands Quantization Headroom
 
 <a id="by-computer-vision"></a>
 
@@ -710,6 +712,7 @@
 - [任务与时长驱动的视觉预算路由](../conferences/icml-2026/cards/5501-5600.md#yin26e-inference) · Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding
 - [仅扰动padding条件槽控制生成多样性](../conferences/icml-2026/cards/5501-5600.md#yoo26a-inference) · PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation
 - [高风险头的有限精度压平与双路径融合](../conferences/icml-2026/cards/5501-5600.md#yu26c-inference) · Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding
+- [视觉敏感token的选择性隐状态控制](../conferences/icml-2026/cards/5801-5900.md#zhang26cg-inference) · Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation
 
 <a id="by-ml-foundations"></a>
 

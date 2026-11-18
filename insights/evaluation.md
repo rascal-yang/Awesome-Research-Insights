@@ -374,6 +374,7 @@
 - [分开度量推理动作模仿与问题分解收益](../conferences/icml-2026/cards/5701-5800.md#zeng26x-evaluation) · ReJump: A Tree-Jump Representation for Analyzing and Improving LLM Reasoning
 - [记忆匹配后的近远迁移剖面](../conferences/icml-2026/cards/5701-5800.md#zhang26u-evaluation) · The Generalization Spectrum: A Chromatographic Approach to Evaluating Learning Algorithms
 - [从少量source模型隐状态构造benchmark小集](../conferences/icml-2026/cards/5701-5800.md#zhang26bj-evaluation) · Learning More from Less: Unlocking Internal Representations for Benchmark Compression
+- [时间外验证的条件分位能力边界](../conferences/icml-2026/cards/5801-5900.md#zhang26by-evaluation) · Prescriptive Scaling Reveals the Evolution of Language Model Capabilities
 
 <a id="by-computer-vision"></a>
 
@@ -611,6 +612,7 @@
 - [oracle视觉中间态分解生成与解读失败](../conferences/icml-2026/cards/5601-5700.md#zeller26a-evaluation) · MentisOculi: Revealing the Limits of Reasoning with Mental Imagery
 - [分离视觉检索预处理的oracle与agent差距](../conferences/icml-2026/cards/5701-5800.md#zeng26w-evaluation) · Fix Before Search: Benchmarking Agentic Visual Query Pre-processing in Multimodal Retrieval-augmented Generation
 - [让空间QA随实际frame预算重标](../conferences/icml-2026/cards/5701-5800.md#zhang26o-evaluation) · ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning
+- [CLIP测试时防御的指示量失配](../conferences/icml-2026/cards/5801-5900.md#zhang26cq-evaluation) · You Don’t Protect if You Don’t Expect: Breaking the Key Assumption behind CLIP’s Test-Time Defenses
 
 <a id="by-ml-foundations"></a>
 

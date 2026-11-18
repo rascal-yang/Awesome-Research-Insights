@@ -654,6 +654,7 @@
 - [扰动尺度改变注意力学习的良性过拟合条件](../conferences/icml-2026/cards/5701-5800.md#zhang26af-theory-statistics) · Benign Overfitting in Adversarial Training for Vision Transformers
 - [用方差与平滑梯度共同界定回归证书](../conferences/icml-2026/cards/5701-5800.md#zhang26ay-theory-statistics) · Higher-Order Certified Robustness for Regression
 - [将鲁棒MNL集合选择化为标量搜索](../conferences/icml-2026/cards/5701-5800.md#zhang26bg-theory-statistics) · Efficient Distributionally Robust Assortment Optimization in MNL Bandits
+- [多类公平分类的属性盲对偶校准](../conferences/icml-2026/cards/5801-5900.md#zhang26cj-theory-statistics) · Demystifying the Optimal Fair Classifier in Multi-Class Classification
 
 <a id="by-graph-and-recommendation"></a>
 

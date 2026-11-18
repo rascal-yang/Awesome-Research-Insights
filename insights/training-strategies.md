@@ -168,6 +168,7 @@
 - [逐token隐状态回馈的Jacobi预训练](../conferences/icml-2026/cards/5701-5800.md#zeng26l-training-strategies) · PonderLM-2: Pretraining LLM with Latent Thoughts in Continuous Space
 - [以输出核验监督测试安全生成迁移](../conferences/icml-2026/cards/5701-5800.md#zhang26n-training-strategies) · Internalizing Safety Understanding in Large Reasoning Models via Verification
 - [按难度与耗时收紧异步rollout陈旧预算](../conferences/icml-2026/cards/5701-5800.md#zhang26bc-training-strategies) · Gradient-Aware Scheduling: Coupling Curriculum and Staleness for Async Reinforcement Learning
+- [联邦LoRA的正交规范对齐](../conferences/icml-2026/cards/5801-5900.md#zhang26cc-training-strategies) · FedRot-LoRA: Mitigating Rotational Misalignment in Federated LoRA
 
 <a id="by-computer-vision"></a>
 

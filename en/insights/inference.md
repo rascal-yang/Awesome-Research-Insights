@@ -372,6 +372,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [The Tell-Tale Norm: $\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models](../../conferences/icml-2026/cards/5701-5800.md#zhang26ae-inference) · 中文
 - [Deterministic Inference across Tensor Parallel Sizes That Eliminates Training-Inference Mismatch](../../conferences/icml-2026/cards/5701-5800.md#zhang26ag-inference) · 中文
 - [CoMem: Context Management with A Decoupled Long-Context Model](../../conferences/icml-2026/cards/5701-5800.md#zhang26ai-inference) · 中文
+- [Exploring More to Solve More: Boosting Diversity in Text Diffusion Models via Entropy-Based Guidance](../../conferences/icml-2026/cards/5801-5900.md#zhang26ce-inference) · 中文
+- [PatternKV: Flattening KV Representation Expands Quantization Headroom](../../conferences/icml-2026/cards/5801-5900.md#zhang26ci-inference) · 中文
 
 <a id="by-computer-vision"></a>
 
@@ -710,6 +712,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Task-Aware Mechanism: Hybrid MoE Vision Tower Towards Holistic Video Understanding](../../conferences/icml-2026/cards/5501-5600.md#yin26e-inference) · 中文
 - [PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation](../../conferences/icml-2026/cards/5501-5600.md#yoo26a-inference) · 中文
 - [Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../conferences/icml-2026/cards/5501-5600.md#yu26c-inference) · 中文
+- [Steer Where It Matters: Token-Level Visual-Sensitivity Steering for LVLMs Hallucination Mitigation](../../conferences/icml-2026/cards/5801-5900.md#zhang26cg-inference) · 中文
 
 <a id="by-ml-foundations"></a>
 

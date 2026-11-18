@@ -392,4 +392,6 @@
 - [复频域声场与色散约束](../conferences/icml-2026/cards/4301-4400.md#takawale26a-representation-learning) · INFER: Learning Implicit Neural Frequency Response Fields for Confined Acoustic Environments
 - [沿合成轨迹预测几何的预训练](../conferences/icml-2026/cards/5001-5100.md#wu26s-representation-learning) · GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training
 - [控制架构后比较球与笛卡尔张量](../conferences/icml-2026/cards/5201-5300.md#xu26br-representation-learning) · A Cartesian-3j Framework for Machine Learning Interatomic Potentials
+- [教师层筛选后的子空间统计蒸馏](../conferences/icml-2026/cards/5801-5900.md#zhang26cf-representation-learning) · From Teacher Pathways to Invariant Manifolds: Consensus Subspace Distillation for TSFMs
+- [带宽趋势场与稀疏事件原子](../conferences/icml-2026/cards/5801-5900.md#zhang26co-representation-learning) · DualTimesField: Rethinking Time Series as Continuous-Time Trends and Events
 <!-- classification:end -->

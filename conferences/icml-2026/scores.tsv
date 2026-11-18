@@ -5810,26 +5810,26 @@ number	pmlr_id	novelty	reuse	usability	distinctness	total	rank	reason	status
 5809	zhang26bu							初筛，原文与先例核查待补：缓存PDF4–5把multiscale depthwise/gated conv、结构图变换、input-dependent RWKV decay与scale-attention decoder组合做crack segmentation。当前为成熟动态衰减/状态空间门控与多尺度fusion的任务内架构组合，未隔离独立新通用更新规则/失败律，初筛排除；1.22M/分数本身不够。与已有dynamic RWKV decay、同resolution/吞吐/有效感受野控制及结构变换复杂度待核，不据topology命名当连通保证。	rule-excluded
 5810	zhang26bv	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：神经训练数据的重复众包标注可按majority-vs-rest票数的Beta低尾概率更新uncertainty，再加邻域平均值选下一实例，避免只按票数分歧比例反复标相似点。；边界：票被当交换同质量证据，系统偏差/相关workers可自信错，majority-vs-rest多类压缩丢信息。较小variance不单独证明CDF单调，原定理证明细节待核；全pair distances N²成本和神经feature距离迁移尚未验证。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26bv/zhang26bv.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26bv/zhang26bv.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26bv/zhang26bv.pdf#page=6)	scored
 5811	zhang26bw	3	4	3	4	69		初筛，原文与先例核查待补：暂定评分依据：reasoning KD与RL可比较把teacher概率放进clipped ratio分母而非独立KL项，从而以advantage决定teacher影响是否出现；几何anchor未归一时不称严格policy trust region。；边界：分母几何乘积总和一般非1，初始ratio不一定1；PPO min-clip非硬约束整个policy移动，不能保证不会降低teacher高概率token。非零梯度含ratio权重，不能仅用log-derivative省略它；teacher查询成本/α与fixed reward控制待核。；初筛整理，原文与先例尚未统一核查。[原文第4页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26bw/zhang26bw.pdf#page=4)；[原文第5页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26bw/zhang26bw.pdf#page=5)；[原文第6页](https://raw.githubusercontent.com/mlresearch/v306/main/assets/zhang26bw/zhang26bw.pdf#page=6)	scored
-5812	zhang26bx							待原文复核评分	pending
-5813	zhang26by							待原文复核评分	pending
-5814	zhang26bz							待原文复核评分	pending
-5815	zhang26ca							待原文复核评分	pending
-5816	zhang26cb							待原文复核评分	pending
-5817	zhang26cc							待原文复核评分	pending
-5818	zhang26cd							待原文复核评分	pending
-5819	zhang26ce							待原文复核评分	pending
-5820	zhang26cf							待原文复核评分	pending
-5821	zhang26cg							待原文复核评分	pending
-5822	zhang26ch							待原文复核评分	pending
-5823	zhang26ci							待原文复核评分	pending
-5824	zhang26cj							待原文复核评分	pending
-5825	zhang26ck							待原文复核评分	pending
-5826	zhang26cl							待原文复核评分	pending
-5827	zhang26cm							待原文复核评分	pending
-5828	zhang26cn							待原文复核评分	pending
-5829	zhang26co							待原文复核评分	pending
-5830	zhang26cp							待原文复核评分	pending
-5831	zhang26cq							待原文复核评分	pending
+5812	zhang26bx							初筛，原文与先例核查待补：现有材料尚未显示可脱离特定应用独立复用的通用技术增量，暂不收录，统一复核时重判。	rule-excluded
+5813	zhang26by	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按时间外验证的条件分位能力边界，最近方法差异见baseline且待核；复用5：比较训练规模与评测预算时，可拟合按pretraining FLOPs分层的高分位饱和曲线，并用下一时期同compute区间验证；模型抽样兼顾局部信息量和compute分箱覆盖，避免把经验上沿当物理能力上限。 可用4受边界条件于数据、家族、后训练与benchmark实践，是观测分位数而非可达性或因果compute定律。FLOPs估计、重复finetune依赖和污染影响结果；I-optimal依赖初始拟合与metadata，未来新recipe跃迁不能由曲线保证。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5814	zhang26bz							初筛，原文与先例核查待补：现有PDF第3–6页为count-VAE概率编码、conditional flow matching与随机mask一致性，Jacobian下界只是均值定理式条件结果，未独立推出特有可控训练规律。当前可安全分离的泛化数学部分仍为成熟VAE/latent-flow/consistency组合，具体跨模态统计应用与分数不单独成立新增机制，暂排；不是按领域名排除。	rule-excluded
+5815	zhang26ca							初筛，原文与先例核查待补：现有PDF第3–4/6页核心是DOM/可访问树及监听器抽取、LLM计划动作、执行trace、checklist判分与失败重规划，再以SFT/GRPO训练。现阶段未分离超出成熟自动测试与plan-execute-judge流程的新目标/控制规律；mini-game平台与代码quality分数不足单独保留，暂排。	rule-excluded
+5816	zhang26cb							初筛，原文与先例核查待补：现有PDF第3–4/6页将优化问题拆参数/变量/约束/目标的semantic anchors，正向建模再反向语言重构，用句向量cosine阈值选择性修复，属成熟round-trip verification与迭代debug工作流。当前未分离独立形式校验/新搜索目标，语义相近不保证约束等价，且自身5轮与部分baseline3次debug预算不同，分数提升不单独成立，暂排。	rule-excluded
+5817	zhang26cc	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按联邦LoRA的正交规范对齐，最近方法差异见baseline且待核；复用5：联邦LoRA因子分别聚合前，可交替以旧全局A/B为参考做低秩正交Procrustes对齐，再对旋转强度做插值和正交化；应验证实现方向与端点，而非把因子坐标对齐称为实际子空间恢复。 可用3受正交规范变换不改变A行空间/B列空间，不能修复任意真实子空间差。第4页soft投影写作R′=UΣVᵀ后取VdiagUᵀ，λ=1端点按字面存在逆向疑问，公式/实现待核，卡不保证精确定义一致；收敛改善还假设dispersion随λ收缩、小步长及有界因子，非任意数据保证。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5818	zhang26cd							初筛，原文与先例核查待补：现有PDF第3–4/6页主要在Lean4形式化经典经验过程、Efron-Stein、Gaussian Poincare/LSI与Dudley等SLT结果。基础设施可用，但当前材料未指出改变神经学习器、估计器或样本/计算决策的新定理适用界，成熟理论的形式实现与项目规模不足单独满足独立学习机制门槛，暂排。	rule-excluded
+5819	zhang26ce	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按局部语义核排斥的文本扩散引导，最近方法差异见baseline且待核；复用5：文本扩散采样可在token隐藏表示上计算语义核与位置核的重叠，以核熵梯度投影到词表后偏置logits；比较应同时测Pass@1、Pass@k、质量和采样成本。 可用4受token内排斥是代理，不等于跨回答语义多样或推理正确；带宽/强度过大仍可能损害质量。熵协方差公式只给局部导数，符号不固定；逐token O(L)不等整序列线性，Alg1全对核有L²及词表投影成本。相同sample数不是相同总计算预算。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5820	zhang26cf	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按教师层筛选后的子空间统计蒸馏，最近方法差异见baseline且待核；复用5：压缩时序基础模型可先用删层损失筛层，再只匹配教师低秩协方差子空间的均值/协方差，并将子集统计差异转换为该子空间内的噪声；须同时报告分类与异常任务掉点。 可用3受单教师主证据不认证跨模型不变流形，PCA共识是数据条件统计代理；均值/协方差相同不保证高阶或任务信息相同。原始序列频谱差异映射到embedding噪声的校准/形状与注入细节待核，forecast改善不能外推分类。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5821	zhang26cg	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按视觉敏感token的选择性隐状态控制，最近方法差异见baseline且待核；复用5：LVLM隐藏态steering可用同一teacher-forced token在有图/无图下的logprob差选方向，再按当前双路logit KL门控强度，避免把全token平均方向当统一视觉信号。 可用4受|Δ|/KL表示视觉依赖而非视觉正确，错误图像线索同样敏感。监督refinement使用纠正数据，非完全训练自由；双forward、方向存储和校准开销须计，topK重归一KL不等全分布KL，跨域校准漂移待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5822	zhang26ch							初筛，原文与先例核查待补：现有PDF第3–7页把Wasserstein DRO、图/属性/标签扰动、局部gradient norm penalty与randomized response并置。强对偶/Lipschitz上界与一阶敏感度罚为成熟来源，局部梯度也非全局DRO精确解；属性随机响应仅属性LDP、不等全图隐私或统计公平。当前未分离超出成熟DRO正则应用的新规则，trustworthiness统一宣称和多指标提高不足，暂排。	rule-excluded
+5823	zhang26ci	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按按残差动态范围匹配的KV模式量化，最近方法差异见baseline且待核；复用5：低bit KV可保存少量模式向量和索引，以残差max−min最小的模式量化，而非按L2最近中心直接选；V缓存仅在range收缩足够时启用，阈值视为近似误差模型而非置信保证。 可用4受残差范围缩小不必降低所有样本真实误差；第6页z阈值依赖高分辨率均匀误差/坐标近独立CLT，2bit未必成立，在线range代入不是通用1−α保证。KMeans与动态模式/索引FP存储会侵蚀压缩率，长decode模式池增长和同硬件同batch预算待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5824	zhang26cj	4	5	3	4	82		初筛，原文与先例核查待补：新增4暂按多类公平分类的属性盲对偶校准，最近方法差异见baseline且待核；复用5：训练时有敏感属性、推理不输入属性的多类分类器，可把混淆矩阵线性公平约束转成类代价矩阵；按校准的cost-sensitive loss或概率插件对偶优化得到accuracy/fairness前沿。 可用3受需公平可行、正群体概率及正确概率/近似oracle条件；convexity是对λ或随机分类器域，不是MLP权重全局凸。有限样本插件校准错误/稀有组放大和fairness泛化待核；小τ近确定不保证任意argmax保持原随机解的公平界。 独特4暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5825	zhang26ck							初筛，原文与先例核查待补：现有PDF第3–6页为frozen多层normal feature memory、CLS筛同类参考、网格邻域筛patch、1-NN cosine与层均值。distance-to-fixed-set的1-Lipschitz/最大消失score性质经典，检索候选随query变化时也不能直接套固定集合界；当前未分离超出成熟PatchCore式检索和位置条件化的新训练/评分机制，few-shot分数与新MUAD评测不足单独保留，暂排。	rule-excluded
+5826	zhang26cl							初筛，原文与先例核查待补：现有材料第3–6页以五场景spec/checklist评测和分层reflection/revision提示为主，安全/行为得分权衡是评测定义，不能作为新学习规律。当前未分离超出成熟self-refine/test-time deliberation的新可复用目标或控制条件；新benchmark与更多推理步骤的提升不足单独保留，具体消融及预算待核。	rule-excluded
+5827	zhang26cm	3	5	4	3	76		初筛，原文与先例核查待补：新增3暂按问答双侧难度带的自演化奖励，最近方法差异见baseline且待核；复用5：自生成RL数据可用当前solver多数答案的投票比例选中等难度anchor，给questioner两侧衰减的目标难度带奖励，再混合真实anchor训练solver；应把投票一致度与真实可解性分开。 可用4受majority-vote比例是共识度，非独立正确率，系统性错题可高共识；GPT5.2外部核对增加teacher信息，不能称无需额外监督或等总预算。真实数据比例不等总成本，难度带/rollout数量、迭代重用与同token控制待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5828	zhang26cn							初筛，原文与先例核查待补：现有PDF第3–6页以当前state检索轨迹、LLM合成短策略、按需refresh，再SFT成功且有无memory动作字符串不同的步骤。动态RAG/缓存策略与rejection SFT为成熟流程；字符串改变加最终成功不等严格正Q advantage（反事实动作未执行），必要性命题不建立新的优势估计器。当前未分离独立新训练目标/控制准则，暂按workflow排除，非因agent任务名。	rule-excluded
+5829	zhang26co	3	5	3	3	72		初筛，原文与先例核查待补：新增3暂按带宽趋势场与稀疏事件原子，最近方法差异见baseline且待核；复用5：连续时序重建可将低带宽神经场与可学习位置/尺度的稀疏Gabor事件残差分开，用宽到窄退火与门控超额惩罚训练；这提供事件偏置，不认证真实机制分解。 可用3受CTF与DGF频谱并非严格互斥，残差目标若同计算图不能自动保证可识别；Gabor-like合成有同族偏置。平均context无法保留任意序列形状，连续查询不等恢复真实未观测高频或未来预测，reconstruction与heldout interpolation协议/parameter budgets待核。 独特3暂定，全库替代性待统一核查；PDF第3/4/5/6/7页。	scored
+5830	zhang26cp							初筛，原文与先例核查待补：现有PDF第3–6页提供VLA-Arena分层任务/语言视觉扰动、SR与累计cost，评测现成OpenVLA/π0等。L1/L2同时改变数量、语义与工作流，难度下降不单独识别记忆或grounding因果机制；当前未抽出超出成熟扰动benchmark的新VLA控制/训练决策或受控新law，170任务与framework本身不足，暂排。	rule-excluded
+5831	zhang26cq	4	5	4	4	86		初筛，原文与先例核查待补：新增4暂按CLIP测试时防御的指示量失配，最近方法差异见baseline且待核；复用5：选择CLIP测试时防御前，应评测其检测/调节用指示量在自适应分布下是否仍区分正常与扰动；仅通过静态模型或全梯度评测，不能认证含离散/优化环节的防御有效。 可用4受这是否定所测分布假设的反例而非所有防御必失效定理；假设式将连续行为简化为保留/修改二分，实际实现差异待核。不同backbone/防御随机性和总评测算力须匹配，robust accuracy低不单独证明净样本保护或现实风险，实验复现待统一核查。 独特4暂定，全库替代性待统一核查；PDF第3/4/6/7/8页。	scored
 5832	zhang26cr							待原文复核评分	pending
 5833	zhang26cs							待原文复核评分	pending
 5834	zhang26ct							待原文复核评分	pending

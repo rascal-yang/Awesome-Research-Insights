@@ -204,6 +204,7 @@
 - [按去噪转移抽样估计扩散策略梯度](../conferences/icml-2026/cards/5701-5800.md#zhan26c-reinforcement-learning) · Simple Policy Gradients for Reasoning with Diffusion Language Models
 - [anchor种子淘汰赛的组内优势](../conferences/icml-2026/cards/5701-5800.md#zhang26r-reinforcement-learning) · ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking
 - [让teacher进入advantage加权概率比](../conferences/icml-2026/cards/5801-5900.md#zhang26bw-reinforcement-learning) · Reinforcement-aware Knowledge Distillation for LLM Reasoning
+- [问答双侧难度带的自演化奖励](../conferences/icml-2026/cards/5801-5900.md#zhang26cm-reinforcement-learning) · D$^2$Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning
 
 <a id="by-computer-vision"></a>
 

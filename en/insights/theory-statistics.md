@@ -654,6 +654,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Benign Overfitting in Adversarial Training for Vision Transformers](../../conferences/icml-2026/cards/5701-5800.md#zhang26af-theory-statistics) · 中文
 - [Higher-Order Certified Robustness for Regression](../../conferences/icml-2026/cards/5701-5800.md#zhang26ay-theory-statistics) · 中文
 - [Efficient Distributionally Robust Assortment Optimization in MNL Bandits](../../conferences/icml-2026/cards/5701-5800.md#zhang26bg-theory-statistics) · 中文
+- [Demystifying the Optimal Fair Classifier in Multi-Class Classification](../../conferences/icml-2026/cards/5801-5900.md#zhang26cj-theory-statistics) · 中文
 
 <a id="by-graph-and-recommendation"></a>
 
