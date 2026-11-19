@@ -419,5 +419,6 @@ Data selection, annotation, augmentation, and sampling.
 - [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment](../../conferences/cvpr-2026/cards.md#paper-brima-modality-aware-replay)
 - [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](../../conferences/cvpr-2026/cards.md#paper-glmap-instance-region-memory-navigation)
 - [HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-had-multiview-hallucination-masks)
+- [FreeScale: Scaling 3D Scenes via Certainty-Aware Free-View Generation](../../conferences/cvpr-2026/cards.md#paper-freescale-certainty-views)
 
 <!-- conference-classification:end -->

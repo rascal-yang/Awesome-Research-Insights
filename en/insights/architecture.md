@@ -648,5 +648,6 @@ Model-wide design and information flow.
 - [TV2TV: A Unified Framework for Interleaved Language and Video Generation](../../conferences/cvpr-2026/cards.md#paper-tv2tv-interleaved-video-language)
 - [Premier: Personalized Preference Modulation with Learnable User Embedding in Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-premier-user-preference)
 - [NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather](../../conferences/cvpr-2026/cards.md#paper-nimbusgs-hybrid-weather)
+- [Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling](../../conferences/cvpr-2026/cards.md#paper-cluster-aware-upcycling)
 
 <!-- conference-classification:end -->

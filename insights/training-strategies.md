@@ -1103,5 +1103,9 @@
 - [InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior](../conferences/cvpr-2026/cards.md#paper-instantvir-bidirectional-prior-causal-restoration)
 - [LOREAL: Mitigating Low-Resolution Challenges in Vision-Language Models with Attribute-driven Prompt Self-Distillation](../conferences/cvpr-2026/cards.md#paper-loreal-low-resolution)
 - [OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-orthofuse)
+- [Learning Eigenstructures of Unstructured Data Manifolds](../conferences/cvpr-2026/cards.md#paper-spectral-basis-learning-via-probe-reconstruction)
+- [TrackMAE: Video Representation Learning via Track Mask and Predict](../conferences/cvpr-2026/cards.md#paper-trackmae-trajectory-targets-for-masked-video-modeling)
+- [Spectral Mixture-of-Experts for Continual Learning](../conferences/cvpr-2026/cards.md#paper-spectral-moe-disjoint-expert-updates)
+- [Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors](../conferences/cvpr-2026/cards.md#paper-tranclr)
 
 <!-- conference-classification:end -->

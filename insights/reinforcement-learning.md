@@ -783,5 +783,6 @@
 - [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](../conferences/cvpr-2026/cards.md#paper-gui-sage)
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](../conferences/cvpr-2026/cards.md#paper-spacetools-dirl)
 - [Stable and Efficient Single-Rollout RL for Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-mssr-entropy-advantage)
+- [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](../conferences/cvpr-2026/cards.md#paper-dcrl-wide-baseline-curriculum)
 
 <!-- conference-classification:end -->

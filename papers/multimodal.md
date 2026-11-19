@@ -1233,5 +1233,7 @@
 - [Stable and Efficient Single-Rollout RL for Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-mssr-entropy-advantage)
 - [Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models](../conferences/cvpr-2026/cards.md#paper-multimodal-cot-divergent-hallucination)
 - [Phrase-Grounding-Aware Supervised Fine-Tuning for Chart Recognition via Side-Masked Attention](../conferences/cvpr-2026/cards.md#paper-smam-phrase-grounded-logits)
+- [Nonparametric Deep Fine-grained Clustering with Low-Rank Guided Vision-Language Model](../conferences/cvpr-2026/cards.md#paper-nonparametric-vlm-fine-clustering)
+- [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](../conferences/cvpr-2026/cards.md#paper-dcrl-wide-baseline-curriculum)
 
 <!-- conference-classification:end -->

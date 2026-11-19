@@ -818,5 +818,6 @@
 - [UETrack: A Unified and Efficient Framework for Single Object Tracking](../../conferences/cvpr-2026/cards.md#paper-uetrack-token-pooled-multimodal-tracking)
 - [Unlearning without Forgetting: Securely Removing Targeted Concepts from Large-Scale Vision-Language Open-Vocabulary Detectors](../../conferences/cvpr-2026/cards.md#paper-safedetect-retained-subspace-unlearning)
 - [AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation](../../conferences/cvpr-2026/cards.md#paper-adacluster-asymmetric-query-key-clustering)
+- [DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](../../conferences/cvpr-2026/cards.md#paper-dpar-entropy-dynamic-visual-token-patches)
 
 <!-- conference-classification:end -->

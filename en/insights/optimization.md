@@ -687,5 +687,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation](../../conferences/cvpr-2026/cards.md#paper-co-manipulation-simulation-stability)
 - [Lens Component Deletion based on Differentiable Ray Tracing](../../conferences/cvpr-2026/cards.md#paper-lens-component-deletion)
 - [Fast Markov Random Field Optimisation for Topologically Noisy 3D Shape Matching](../../conferences/cvpr-2026/cards.md#paper-affine-alpha-expansion-shape)
+- [PrivSynth: Alternating and Control-Based Optimization for Privacy and Utility in Synthetic Data](../../conferences/cvpr-2026/cards.md#paper-privsynth)
 
 <!-- conference-classification:end -->

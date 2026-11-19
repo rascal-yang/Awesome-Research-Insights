@@ -16441,3 +16441,273 @@
 - **适用条件 / 局限** · 需要可靠短语区域关联，全局推断不能只依赖单掩码。
 
 **可复用机制** · 训练视觉语言生成时，可在同层让短语只读对应图块的辅助 logit，再与全图生成目标联训。
+
+<a id="paper-sparsesplat-entropy-based-primitive-allocation"></a>
+
+## SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_SparseSplat_Towards_Applicable_Feed-Forward_3D_Gaussian_Splatting_with_Pixel-Unaligned_Prediction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_SparseSplat_Towards_Applicable_Feed-Forward_3D_Gaussian_Splatting_with_Pixel-Unaligned_Prediction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 前馈三维高斯逐像素生成会在平坦区域保留大量重复基元。
+- **核心创新 / 方法** · 以局部熵决定高斯密度，信息少的区域用更大更少基元，丰富区域密集采样。
+- **Baseline** · 同一网络比较随机、Laplacian 和熵采样。
+- **Benchmark** · DL3DV 等三维新视角与跨数据集重建，使用 PSNR、SSIM、LPIPS。
+- **关键结果 / 消融** · 表 3 熵采样 22.36 dB，随机为 21.50，Laplacian 为 21.95。
+- **适用条件 / 局限** · 高熵也可能来自噪声或纹理而非真实几何，传感噪声强时需单测。
+
+**可复用机制** · 紧凑三维重建可按局部内容熵分配基元，直接比较均匀、边缘和熵采样。见表 3。
+
+<a id="paper-worldforge-intrastep-camera-motion-refinement"></a>
+
+## Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_Taming_Video_Models_for_3D_and_4D_Generation_via_Zero-Shot_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_Taming_Video_Models_for_3D_and_4D_Generation_via_Zero-Shot_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频生成把对象运动与相机运动混在一起，事后变形会破坏细节和时序。
+- **核心创新 / 方法** · 在采样步内反复注入几何运动指导，并用分离条件保持静态或动态内容。
+- **Baseline** · 比较移除 DSG、FLF、同时去除及改用常规 CFG。
+- **Benchmark** · 静态三维与动态四维生成，报告 FID、FVD 和 CLIP 对齐。
+- **关键结果 / 消融** · 表 3 完整静态 FID 96.08，去 DSG 和 FLF 为 113.12；动态 FVD 分别 93.17、103.17。
+- **适用条件 / 局限** · 迭代纠正增加开销，时间和视角条件不完备时可能继续混淆。
+
+**可复用机制** · 免训练相机控制可在单步内部校正视图运动，同时分开保持场景自身动态。见表 3。
+
+<a id="paper-spectral-basis-learning-via-probe-reconstruction"></a>
+
+## Learning Eigenstructures of Unstructured Data Manifolds
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Velich_Learning_Eigenstructures_of_Unstructured_Data_Manifolds_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Velich_Learning_Eigenstructures_of_Unstructured_Data_Manifolds_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 在无结构点上先选离散算子再求特征向量，需要额外几何和求解假设。
+- **核心创新 / 方法** · 用探测函数的最优近似目标学习隐式算子的谱基和对应谱量。
+- **Baseline** · 比较从网格算出的拉普拉斯参考特征函数。
+- **Benchmark** · Armadillo、Bimba 等形状，以截断谱函数的余弦一致性与相对特征值误差评估。
+- **关键结果 / 消融** · 表 1 Armadillo 在前 10 模态一致性为 0.968，前 50 为 0.773。
+- **适用条件 / 局限** · 探测函数分布决定所得算子，较高频模式或训练分布外流形需额外验证。
+
+**可复用机制** · 无显式网格时可用一组探测函数重建误差学习谱结构，并对照不同截断阶数。见表 1。
+
+<a id="paper-dpar-entropy-dynamic-visual-token-patches"></a>
+
+## DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Srivastava_DPAR_Dynamic_Patchification_for_Efficient_Autoregressive_Visual_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Srivastava_DPAR_Dynamic_Patchification_for_Efficient_Autoregressive_Visual_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定标记数随分辨率增加，平坦区域耗费的计算和复杂区域相同。
+- **核心创新 / 方法** · 用轻量模型预测标记熵，将低信息邻近标记合并成可变长块，加最大长度与行边界约束。
+- **Baseline** · 比较固定块、只加熵、再加长度和完整设定。
+- **Benchmark** · ImageNet 类条件生成，使用 FID、吞吐与训练 FLOPs。
+- **关键结果 / 消融** · 表 3 固定策略 FID 3.58，只加熵反而 3.91，完整三项为 3.32。
+- **适用条件 / 局限** · 熵模型与标记器绑定，最高分辨率、纹理密度变化和块调度要重新量化。
+
+**可复用机制** · 自回归图像生成可用标记预测熵决定可合并跨度，并限制连续块长度与行边缘。见表 3。
+
+<a id="paper-trackmae-trajectory-targets-for-masked-video-modeling"></a>
+
+## TrackMAE: Video Representation Learning via Track Mask and Predict
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Vandeghen_TrackMAE_Video_Representation_Learning_via_Track_Mask_and_Predict_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Vandeghen_TrackMAE_Video_Representation_Learning_via_Track_Mask_and_Predict_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 像素重建不要求模型显式保留物体细粒度的跨帧运动。
+- **核心创新 / 方法** · 用现成追踪器获得稀疏轨迹，把轨迹与像素作为重建目标并据运动选择遮罩。
+- **Baseline** · 同骨干比较纯像素、像素加轨迹、管状遮罩与运动遮罩。
+- **Benchmark** · Kinetics-400 与 Something-Something V2 等动作识别，报告线性探针或全量微调准确率。
+- **关键结果 / 消融** · 表 4 的 SSv2s 像素管状遮罩为 52.2，加入轨迹为 55.7，再用运动遮罩为 56.2。
+- **适用条件 / 局限** · 上游点追踪会受遮挡、快速移动和镜头变化干扰，误轨迹可能损伤表征。
+
+**可复用机制** · 遮罩视频预训练可引入点轨迹重建与运动感知遮罩，分别测动作线索收益。见表 4。
+
+<a id="paper-spectral-moe-disjoint-expert-updates"></a>
+
+## Spectral Mixture-of-Experts for Continual Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_Spectral_Mixture-of-Experts_for_Continual_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yin_Spectral_Mixture-of-Experts_for_Continual_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多专家共享参数更新时会干扰旧任务，路由自身也可能产生遗忘。
+- **核心创新 / 方法** · 用互斥谱掩膜限制专家更新子空间，再通过分开的路由机制保持组合。
+- **Baseline** · 比较 MoE-Adapters、ZSCL 等持续学习方案。
+- **Benchmark** · MTIL、少样本 MTIL 与 TinyImageNet，报告准确率、参数、GPU 内存和步时。
+- **关键结果 / 消融** · 表 4 可训练参数 23.49M，约为 MoE-Adapters 的 40%，训练步时 1.24 秒。
+- **适用条件 / 局限** · 固定谱划分可能减少任务容量，可用频段和路由分离程度随任务增长需检查。
+
+**可复用机制** · 增量训练的专家可分配互不重叠的频域参数空间，并单独跟踪路由漂移和专家干扰。见表 4。
+
+<a id="paper-convex-decomposition-feature-fields"></a>
+
+## Learning Convex Decomposition via Feature Fields
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Learning_Convex_Decomposition_via_Feature_Fields_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Learning_Convex_Decomposition_via_Feature_Fields_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐形状搜索凸分解成本高，分解标签也难规模化获得。
+- **核心创新 / 方法** · 以经典凸性定义构造几何自监督，学习可用于聚类的连续空间特征。
+- **Baseline** · 表1比较现有分解法，表2消融组件。
+- **Benchmark** · 三套几何数据，含网格及 CAD 等表示，统计凸件数和重建。
+- **关键结果 / 消融** · 表1对照分解复杂度与重建，表2检查自监督机制。
+- **适用条件 / 局限** · 聚类阈值决定碎片数量，薄结构和高曲率区域须单独检查。
+
+**可复用机制** · 把离散几何分解改为先学习连续相容特征，再做聚类。
+
+<a id="paper-privsynth"></a>
+
+## PrivSynth: Alternating and Control-Based Optimization for Privacy and Utility in Synthetic Data
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_PrivSynth_Alternating_and_Control-Based_Optimization_for_Privacy_and_Utility_in_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_PrivSynth_Alternating_and_Control-Based_Optimization_for_Privacy_and_Utility_in_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只优化生成质量可能遗留隐私风险，事后过滤又会损失下游价值。
+- **核心创新 / 方法** · 交替调整生成模型和选择参数，将选择作为离散控制目标处理。
+- **Baseline** · 表1–2比较基准上的生成结果，正文对照隐私与效用。
+- **Benchmark** · DomainNet、ImageNet 及医疗数据设置，含 KID、FID 和隐私评估。
+- **关键结果 / 消融** · 正文给出在指定假设下的收敛分析及隐私与生成质量对照。
+- **适用条件 / 局限** · 代理风险无法替代形式隐私保证，发布前仍需对实际任务和数据验证。
+
+**可复用机制** · 发布合成训练数据前，应把隐私风险和任务效用共同纳入生成及样本选择。
+
+<a id="paper-nonparametric-vlm-fine-clustering"></a>
+
+## Nonparametric Deep Fine-grained Clustering with Low-Rank Guided Vision-Language Model
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ye_Nonparametric_Deep_Fine-grained_Clustering_with_Low-Rank_Guided_Vision-Language_Model_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Nonparametric_Deep_Fine-grained_Clustering_with_Low-Rank_Guided_Vision-Language_Model_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 粗类预训练的表示忽略细微类别差异，固定簇数通常未知。
+- **核心创新 / 方法** · 结合贝叶斯非参数过程、低秩引导与正交约束学习细粒度表征。
+- **Baseline** · 表1比较聚类方法，表2对照真实类数，表3评估 ImageNet。
+- **Benchmark** · CUB-200、Stanford Dogs、Oxford Flower、Oxford-IIIT Pet，NMI、ACC。
+- **关键结果 / 消融** · 表2分开评估簇数推断，表1比较细粒度准确性。
+- **适用条件 / 局限** · 细粒度边界不一定是语义独立簇，低秩约束可能忽视稀有属性。
+
+**可复用机制** · 无细粒度标签时，使用非参数聚类选择簇数，并仅对低秩方向施加适配。
+
+<a id="paper-freescale-certainty-views"></a>
+
+## FreeScale: Scaling 3D Scenes via Certainty-Aware Free-View Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_FreeScale_Scaling_3D_Scenes_via_Certainty-Aware_Free-View_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_FreeScale_Scaling_3D_Scenes_via_Certainty-Aware_Free-View_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接从重建任意取样会把错误扩大到训练集。
+- **核心创新 / 方法** · 用重建作为几何代理，按视图确定性筛选可训练新视角。
+- **Baseline** · 表1对比前馈模型，表2对照逐场景重建，表3–4消融和改稀疏度。
+- **Benchmark** · 新视图泛化、域外场景和不同输入稀疏程度。
+- **关键结果 / 消融** · 表1验证联合训练，表4检验稀疏条件。
+- **适用条件 / 局限** · 置信筛选可能只接受已见角度附近区域，外推广度和伪影率应一起报告。
+
+**可复用机制** · 把不完美重建当数据集增广器，需要先筛高几何确定性和有用的自由视角。
+
+<a id="paper-tranclr"></a>
+
+## Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Feng_Beyond_Binary_Contrast_Modeling_Continuous_Skeleton_Action_Spaces_with_Transitional_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Beyond_Binary_Contrast_Modeling_Continuous_Skeleton_Action_Spaces_with_Transitional_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 动作过渡属于连续变化，普通正负二值目标可能将相近动作割裂。
+- **核心创新 / 方法** · 显式构建动作过渡锚，并在多层连续尺度校准流形。
+- **Baseline** · 表1–2比较现有自监督学习，表3检验迁移，表4给检索。
+- **Benchmark** · NTU RGB+D、NTU120、PKU-MMD 的线性、迁移及检索。
+- **关键结果 / 消融** · 表3–4确认不仅比较识别，也比较表征迁移和检索。
+- **适用条件 / 局限** · 连续性假设不适合突变或并发行为，过渡锚的定义需随任务调整。
+
+**可复用机制** · 连续动作表示中构造转场锚点，避免二元对比把过渡硬切成离散簇。
+
+<a id="paper-cluster-aware-upcycling"></a>
+
+## Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chu_Enhancing_Mixture-of-Experts_Specialization_via_Cluster-Aware_Upcycling_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chu_Enhancing_Mixture-of-Experts_Specialization_via_Cluster-Aware_Upcycling_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 相同专家权重和随机路由延缓分工。
+- **核心创新 / 方法** · 按激活聚类，以各簇截断 SVD 初始化专家，并以簇中心初始化路由，附专家集成自蒸馏。
+- **Baseline** · 表1在 CLIP ViT-B/32、B/16 比较转换方法，表3分离初始化和蒸馏。
+- **Benchmark** · 零样本图文检索、分类，以及 ImageNet 少样本/全量微调。
+- **关键结果 / 消融** · 表1–2核对两骨干的泛化，表3检查两增量贡献。
+- **适用条件 / 局限** · 激活聚类依赖代表性输入，对领域突变和负载均衡应另测。
+
+**可复用机制** · 将稠密模型转成 MoE 时，让专家初始化匹配数据激活簇，路由从同一簇中心起步。
+
+<a id="paper-deep-feature-deformation-weights"></a>
+
+## Deep Feature Deformation Weights
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Deep_Feature_Deformation_Weights_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Deep_Feature_Deformation_Weights_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 传统权重在改变控制柄时需重新优化，语义编辑模型又难精确控制。
+- **核心创新 / 方法** · 用重心式蒸馏将视图特征写入表面，以特征距离和局部性给任意控制点生成权重。
+- **Baseline** · 与基于优化及数据驱动控制变形比较。
+- **Benchmark** · 控制点平移和旋转实例，比较交互能力及用户研究。
+- **关键结果 / 消融** · 表1–2对比性质和偏好；原文报告高分辨率处理从潜在数小时缩至分钟级。
+- **适用条件 / 局限** · 特征语义并不保证力学合理，渲染遮挡和无纹理区域可能影响权重。
+
+**可复用机制** · 网格交互编辑可按表面特征相似度即时生成新控制柄的变形权重。
+
+<a id="paper-elic-cross-bit-depth-propagation"></a>
+
+## ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_ELiC_Efficient_LiDAR_Geometry_Compression_via_Cross-Bit-depth_Feature_Propagation_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_ELiC_Efficient_LiDAR_Geometry_Compression_via_Cross-Bit-depth_Feature_Propagation_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐层从坐标重算重复开销，且低位深和高位深的占据模式不同。
+- **核心创新 / 方法** · 传播低位深特征，逐层选小编码器池，并保留 Morton 顺序免重复排序。
+- **Baseline** · TopNet 等点云编解码，对照无传播和无选择配置。
+- **Benchmark** · Ford、SemanticKITTI，比较 BD-Rate、逐帧编码及解码时间。
+- **关键结果 / 消融** · 表1–3给出性能、时延与组件贡献。
+- **适用条件 / 局限** · 编码收益依赖空间稀疏模式和数据顺序，不同传感器配置须重测。
+
+**可复用机制** · 层次点云压缩在粗细位深间重用上下文特征，让编码器容量匹配该层占据统计。
+
+<a id="paper-physgs-bayesian-properties"></a>
+
+## PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chopra_PhysGS_Bayesian-Inferred_Gaussian_Splatting_for_Physical_Property_Estimation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chopra_PhysGS_Bayesian-Inferred_Gaussian_Splatting_for_Physical_Property_Estimation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 几何外观场不能直接支持摩擦或硬度估计，点预测隐去不确定性。
+- **核心创新 / 方法** · 将材料和物理属性作为图元的贝叶斯信念，融合视觉语言先验与多视图。
+- **Baseline** · 对比确定性物性预测和现有三维重建路线。
+- **Benchmark** · ABO-500百物体测试及室内外实采，评估质量、Shore硬度和动摩擦误差。
+- **关键结果 / 消融** · 作者报告质量精度最高提升22.8%，硬度误差降61.2%，摩擦误差降18.1%。
+- **适用条件 / 局限** · 仅视觉无法辨别外观相同但力学属性不同的样品，需接触或其他测量验证安全相关参数。
+
+**可复用机制** · 在可用于操作的三维地图中存物理属性分布，按多观测更新并保留不同来源的不确定性。
+
+<a id="paper-dcrl-wide-baseline-curriculum"></a>
+
+## Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_Eliciting_Complex_Spatial_Reasoning_in_MLLMs_through_Wide-Baseline_Matching_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_Eliciting_Complex_Spatial_Reasoning_in_MLLMs_through_Wide-Baseline_Matching_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 大视角差要求处理遮挡和变换，通用视觉语言模型容易遗漏细粒度对应。
+- **核心创新 / 方法** · 从视频和三维重建采对应，用图像级渐进视角与点级课程优化策略。
+- **Baseline** · 通用 MLLM、人类和不使用完整课程的对照。
+- **Benchmark** · ReasonMatch-Bench 室内、室外及物体场景的 F1、精确率和召回率，另测 OmniSpatial。
+- **关键结果 / 消融** · 困难90例子集中，人类84.0 F1、已有最佳37.2；原文报告课程训练改善。
+- **适用条件 / 局限** · 训练对应受几何和遮挡标注误差影响，宽基线关系无法从全无重叠场景推断。
+
+**可复用机制** · 训练空间对应时按基线视角差和点级难度分配课程，使用已知对应作可验证奖励。
+
+<a id="paper-differentiable-gaussian-lod"></a>
+
+## Learning Differentiable Hierarchies in 3D Gaussian Splatting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_Learning_Differentiable_Hierarchies_in_3D_Gaussian_Splatting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Learning_Differentiable_Hierarchies_in_3D_Gaussian_Splatting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无序图元集合很难任意截取以构造细节层。
+- **核心创新 / 方法** · 用可微下降阶跃调节渲染贡献，按活跃区间取样以展开贡献排序。
+- **Baseline** · 传统高斯训练及已有 LoD、剪枝方法，比较平滑激活形状。
+- **Benchmark** · 多场景的多预算 LoD 渲染及 Mip-NeRF 等剪枝质量、训练时间。
+- **关键结果 / 消融** · 表1–3报告各比例画质和训练成本对照。
+- **适用条件 / 局限** · 全局排序可能忽略指定视点的关键图元，预算与场景变化需要重测。
+
+**可复用机制** · 若需在不同容量下部署三维场景，可直接学习图元贡献排序，让训练覆盖从低到高预算。
+
+<a id="paper-graspldp-grasp-priors"></a>
+
+## GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_GraspLDP_Towards_Generalizable_Grasping_Policy_via_Latent_Diffusion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiang_GraspLDP_Towards_Generalizable_Grasping_Policy_via_Latent_Diffusion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 现有模仿策略能完成大致运动但未必精确抓稳，换物体或空间位置时容易退化。
+- **核心创新 / 方法** · 以抓姿先验引导潜扩散动作解码，用腕部图像相关自监督保持抓取位置。
+- **Baseline** · 扩散策略和不同抓姿选择、先验消融。
+- **Benchmark** · 模拟与实机，区分域内、空间、对象及视觉变化的抓取成功表现。
+- **关键结果 / 消融** · 表1–3比较泛化及各先验作用。
+- **适用条件 / 局限** · 抓姿提议和腕部视野必须可靠，遮挡、形变与接触误差可能降低优势。
+
+**可复用机制** · 扩散动作生成可同时条件化可行抓姿和抓取位置的视觉重建，分别约束轨迹与局部几何。

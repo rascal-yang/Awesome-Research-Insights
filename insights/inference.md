@@ -1510,5 +1510,8 @@
 - [VOSR: A Vision-Only Generative Model for Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-vosr-restoration-guidance)
 - [Mixture of Prototypes for Test-time Adaptive Segmentation](../conferences/cvpr-2026/cards.md#paper-mixture-of-prototypes-tta)
 - [Generative Neural Video Compression via Video Diffusion Prior](../conferences/cvpr-2026/cards.md#paper-gnvc-video-diffusion)
+- [Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control](../conferences/cvpr-2026/cards.md#paper-worldforge-intrastep-camera-motion-refinement)
+- [ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders](../conferences/cvpr-2026/cards.md#paper-elic-cross-bit-depth-propagation)
+- [GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion](../conferences/cvpr-2026/cards.md#paper-graspldp-grasp-priors)
 
 <!-- conference-classification:end -->

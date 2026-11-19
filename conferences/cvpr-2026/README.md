@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,737 篇，其中 1,096 篇暂收录、641 篇排除，另有 2,305 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,767 篇，其中 1,114 篇暂收录、653 篇排除，另有 2,275 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1102,3 +1102,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,737
 | 计算机视觉 | 评测与分析 | [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](cards.md#paper-blackmirror-instruction-response-audit) | 黑盒生成服务防御审计应比较指令偏离是否在多种情形保持，而非只看整图相似。 |
 | 机器人学 | 评测与分析 | [From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs](cards.md#paper-sfi-bench-spatial-functional-diagnostics) | 评估室内代理同时测试空间布局与物体用途，并加打乱帧和描述输入以诊断缺口。 |
 | 多模态学习 | 损失函数与优化 | [Phrase-Grounding-Aware Supervised Fine-Tuning for Chart Recognition via Side-Masked Attention](cards.md#paper-smam-phrase-grounded-logits) | 训练视觉语言生成时，可在同层让短语只读对应图块的辅助 logit，再与全图生成目标联训。 |
+| 计算机视觉 | 三维重建与几何建模 | [SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction](cards.md#paper-sparsesplat-entropy-based-primitive-allocation) | 紧凑三维重建可按局部内容熵分配基元，直接比较均匀、边缘和熵采样。见表 3。 |
+| 生成模型 | 推理策略 | [Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control](cards.md#paper-worldforge-intrastep-camera-motion-refinement) | 免训练相机控制可在单步内部校正视图运动，同时分开保持场景自身动态。见表 3。 |
+| 机器学习 | 自监督学习 | [Learning Eigenstructures of Unstructured Data Manifolds](cards.md#paper-spectral-basis-learning-via-probe-reconstruction) | 无显式网格时可用一组探测函数重建误差学习谱结构，并对照不同截断阶数。见表 1。 |
+| 生成模型 | 模型效率 | [DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](cards.md#paper-dpar-entropy-dynamic-visual-token-patches) | 自回归图像生成可用标记预测熵决定可合并跨度，并限制连续块长度与行边缘。见表 3。 |
+| 计算机视觉 | 自监督学习 | [TrackMAE: Video Representation Learning via Track Mask and Predict](cards.md#paper-trackmae-trajectory-targets-for-masked-video-modeling) | 遮罩视频预训练可引入点轨迹重建与运动感知遮罩，分别测动作线索收益。见表 4。 |
+| 机器学习 | 持续学习 | [Spectral Mixture-of-Experts for Continual Learning](cards.md#paper-spectral-moe-disjoint-expert-updates) | 增量训练的专家可分配互不重叠的频域参数空间，并单独跟踪路由漂移和专家干扰。见表 4。 |
+| 计算机视觉 | 表示学习 | [Learning Convex Decomposition via Feature Fields](cards.md#paper-convex-decomposition-feature-fields) | 把离散几何分解改为先学习连续相容特征，再做聚类。 |
+| 机器学习基础与统计 | 优化策略 | [PrivSynth: Alternating and Control-Based Optimization for Privacy and Utility in Synthetic Data](cards.md#paper-privsynth) | 发布合成训练数据前，应把隐私风险和任务效用共同纳入生成及样本选择。 |
+| 多模态学习 | 表示学习 | [Nonparametric Deep Fine-grained Clustering with Low-Rank Guided Vision-Language Model](cards.md#paper-nonparametric-vlm-fine-clustering) | 无细粒度标签时，使用非参数聚类选择簇数，并仅对低秩方向施加适配。 |
+| 计算机视觉 | 数据增强 | [FreeScale: Scaling 3D Scenes via Certainty-Aware Free-View Generation](cards.md#paper-freescale-certainty-views) | 把不完美重建当数据集增广器，需要先筛高几何确定性和有用的自由视角。 |
+| 计算机视觉 | 自监督学习 | [Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors](cards.md#paper-tranclr) | 连续动作表示中构造转场锚点，避免二元对比把过渡硬切成离散簇。 |
+| 机器学习基础与统计 | 模型架构 | [Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling](cards.md#paper-cluster-aware-upcycling) | 将稠密模型转成 MoE 时，让专家初始化匹配数据激活簇，路由从同一簇中心起步。 |
+| 计算机视觉 | 表示学习 | [Deep Feature Deformation Weights](cards.md#paper-deep-feature-deformation-weights) | 网格交互编辑可按表面特征相似度即时生成新控制柄的变形权重。 |
+| 计算机视觉 | 推理优化 | [ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders](cards.md#paper-elic-cross-bit-depth-propagation) | 层次点云压缩在粗细位深间重用上下文特征，让编码器容量匹配该层占据统计。 |
+| 机器人学 | 表示学习 | [PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation](cards.md#paper-physgs-bayesian-properties) | 在可用于操作的三维地图中存物理属性分布，按多观测更新并保留不同来源的不确定性。 |
+| 多模态学习 | 强化学习 | [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](cards.md#paper-dcrl-wide-baseline-curriculum) | 训练空间对应时按基线视角差和点级难度分配课程，使用已知对应作可验证奖励。 |
+| 计算机视觉 | 表示学习 | [Learning Differentiable Hierarchies in 3D Gaussian Splatting](cards.md#paper-differentiable-gaussian-lod) | 若需在不同容量下部署三维场景，可直接学习图元贡献排序，让训练覆盖从低到高预算。 |
+| 机器人学 | 条件生成 | [GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion](cards.md#paper-graspldp-grasp-priors) | 扩散动作生成可同时条件化可行抓姿和抓取位置的视觉重建，分别约束轨迹与局部几何。 |

@@ -1314,5 +1314,13 @@
 - [Mixture of Prototypes for Test-time Adaptive Segmentation](../conferences/cvpr-2026/cards.md#paper-mixture-of-prototypes-tta)
 - [Generative Neural Video Compression via Video Diffusion Prior](../conferences/cvpr-2026/cards.md#paper-gnvc-video-diffusion)
 - [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](../conferences/cvpr-2026/cards.md#paper-blackmirror-instruction-response-audit)
+- [SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction](../conferences/cvpr-2026/cards.md#paper-sparsesplat-entropy-based-primitive-allocation)
+- [TrackMAE: Video Representation Learning via Track Mask and Predict](../conferences/cvpr-2026/cards.md#paper-trackmae-trajectory-targets-for-masked-video-modeling)
+- [Learning Convex Decomposition via Feature Fields](../conferences/cvpr-2026/cards.md#paper-convex-decomposition-feature-fields)
+- [FreeScale: Scaling 3D Scenes via Certainty-Aware Free-View Generation](../conferences/cvpr-2026/cards.md#paper-freescale-certainty-views)
+- [Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors](../conferences/cvpr-2026/cards.md#paper-tranclr)
+- [Deep Feature Deformation Weights](../conferences/cvpr-2026/cards.md#paper-deep-feature-deformation-weights)
+- [ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders](../conferences/cvpr-2026/cards.md#paper-elic-cross-bit-depth-propagation)
+- [Learning Differentiable Hierarchies in 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-differentiable-gaussian-lod)
 
 <!-- conference-classification:end -->

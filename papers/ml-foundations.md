@@ -2440,5 +2440,11 @@
 - [InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior](../conferences/cvpr-2026/cards.md#paper-instantvir-bidirectional-prior-causal-restoration)
 - [OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-orthofuse)
 - [Conditional Factuality Controlled LLMs with Generalization Certificates via Conformal Sampling](../conferences/cvpr-2026/cards.md#paper-cfc-conditional-conformal-sampling)
+- [Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control](../conferences/cvpr-2026/cards.md#paper-worldforge-intrastep-camera-motion-refinement)
+- [Learning Eigenstructures of Unstructured Data Manifolds](../conferences/cvpr-2026/cards.md#paper-spectral-basis-learning-via-probe-reconstruction)
+- [DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](../conferences/cvpr-2026/cards.md#paper-dpar-entropy-dynamic-visual-token-patches)
+- [Spectral Mixture-of-Experts for Continual Learning](../conferences/cvpr-2026/cards.md#paper-spectral-moe-disjoint-expert-updates)
+- [PrivSynth: Alternating and Control-Based Optimization for Privacy and Utility in Synthetic Data](../conferences/cvpr-2026/cards.md#paper-privsynth)
+- [Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling](../conferences/cvpr-2026/cards.md#paper-cluster-aware-upcycling)
 
 <!-- conference-classification:end -->

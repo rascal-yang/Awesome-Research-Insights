@@ -674,5 +674,11 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [PE3R: Perception-Efficient 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-pe3r-multilevel-crossview-semantic-disambiguation)
 - [TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-twings-nonrigid-depth-anchor-initialization)
 - [Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-cov2pose)
+- [SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction](../../conferences/cvpr-2026/cards.md#paper-sparsesplat-entropy-based-primitive-allocation)
+- [Learning Convex Decomposition via Feature Fields](../../conferences/cvpr-2026/cards.md#paper-convex-decomposition-feature-fields)
+- [Nonparametric Deep Fine-grained Clustering with Low-Rank Guided Vision-Language Model](../../conferences/cvpr-2026/cards.md#paper-nonparametric-vlm-fine-clustering)
+- [Deep Feature Deformation Weights](../../conferences/cvpr-2026/cards.md#paper-deep-feature-deformation-weights)
+- [PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation](../../conferences/cvpr-2026/cards.md#paper-physgs-bayesian-properties)
+- [Learning Differentiable Hierarchies in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-differentiable-gaussian-lod)
 
 <!-- conference-classification:end -->

@@ -970,5 +970,7 @@
 - [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](../conferences/cvpr-2026/cards.md#paper-sage-visual-and-physics-critic-separation)
 - [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](../conferences/cvpr-2026/cards.md#paper-glmap-instance-region-memory-navigation)
 - [From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs](../conferences/cvpr-2026/cards.md#paper-sfi-bench-spatial-functional-diagnostics)
+- [PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation](../conferences/cvpr-2026/cards.md#paper-physgs-bayesian-properties)
+- [GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion](../conferences/cvpr-2026/cards.md#paper-graspldp-grasp-priors)
 
 <!-- conference-classification:end -->
