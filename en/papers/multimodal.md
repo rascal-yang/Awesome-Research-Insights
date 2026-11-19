@@ -1225,5 +1225,7 @@ Learning across modalities such as images, text, audio, and video.
 - [HSI-GPT2: A Dual-Granularity Large Motion Reasoning Model with Diffusion Refinement for Human-Scene Interaction](../../conferences/cvpr-2026/cards.md#paper-hsi-gpt2-dual-motion-token)
 - [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment](../../conferences/cvpr-2026/cards.md#paper-brima-modality-aware-replay)
 - [Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism](../../conferences/cvpr-2026/cards.md#paper-flexmem-visual-kv-memory)
+- [Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning](../../conferences/cvpr-2026/cards.md#paper-bayesmm)
+- [Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning](../../conferences/cvpr-2026/cards.md#paper-anga-incomplete-multimodal)
 
 <!-- conference-classification:end -->

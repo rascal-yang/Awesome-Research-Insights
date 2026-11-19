@@ -2431,5 +2431,9 @@ General learning methods, optimization, learning theory, and inference.
 - [Streamlined Knowledge Distillation](../../conferences/cvpr-2026/cards.md#paper-streamlined-kd)
 - [Prototype-based Causal Intervention for Multi-Label Image Classification](../../conferences/cvpr-2026/cards.md#paper-proci-context-prototypes)
 - [HFedATM: Hierarchical Federated Domain Generalization via Optimal Transport and Regularized Mean Aggregation](../../conferences/cvpr-2026/cards.md#paper-hfedatm-hierarchical-aggregation)
+- [Can You Learn to See Without Images? Procedural Warm-Up for Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-procedural-nonvisual-warmup-for-vit)
+- [Stake the Points: Structure-Faithful Instance Unlearning](../../conferences/cvpr-2026/cards.md#paper-structure-faithful-unlearning)
+- [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](../../conferences/cvpr-2026/cards.md#paper-orthoreg-task-vector-disentanglement)
+- [Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation](../../conferences/cvpr-2026/cards.md#paper-doco-open-set-domain-compensation)
 
 <!-- conference-classification:end -->

@@ -1299,5 +1299,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex](../../conferences/cvpr-2026/cards.md#paper-multinex)
 - [Closed-Form Concept Erasure via Double Projections](../../conferences/cvpr-2026/cards.md#paper-double-projection-concept-erasure)
 - [Learning 3D Shape Fidelity Metric from Real-world Distortions](../../conferences/cvpr-2026/cards.md#paper-locase-real-shape-fidelity)
+- [Hyperbolic Prototype Learning with Uncertainty-Aware Consistency for Continual Test-Time Segmentation](../../conferences/cvpr-2026/cards.md#paper-hyperprotoseg-hyperbolic-test-time-class-prototypes)
+- [LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-lagernvs-three-dimensional-pretraining-and-direct-rendering)
+- [Structure-Aware Representation Distillation for Tiny-Dense Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-sard-structure-distillation)
+- [Linear Image Generation by Synthesizing Exposure Brackets](../../conferences/cvpr-2026/cards.md#paper-linear-exposure-bracket-generation)
+- [Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-part2gs)
+- [HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-had-multiview-hallucination-masks)
+- [Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration](../../conferences/cvpr-2026/cards.md#paper-dctta-redegradation-consistency)
+- [ManifoldNeuS: Manifold-aware View Optimizability for Pose-Free Neural Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-manifoldneus-view-optimizability)
 
 <!-- conference-classification:end -->

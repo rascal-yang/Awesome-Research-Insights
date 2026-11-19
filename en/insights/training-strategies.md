@@ -1095,5 +1095,10 @@ Training schedules, curricula, and task or stage composition.
 - [Closed-Form Concept Erasure via Double Projections](../../conferences/cvpr-2026/cards.md#paper-double-projection-concept-erasure)
 - [Prototype-based Causal Intervention for Multi-Label Image Classification](../../conferences/cvpr-2026/cards.md#paper-proci-context-prototypes)
 - [HFedATM: Hierarchical Federated Domain Generalization via Optimal Transport and Regularized Mean Aggregation](../../conferences/cvpr-2026/cards.md#paper-hfedatm-hierarchical-aggregation)
+- [Hyperbolic Prototype Learning with Uncertainty-Aware Consistency for Continual Test-Time Segmentation](../../conferences/cvpr-2026/cards.md#paper-hyperprotoseg-hyperbolic-test-time-class-prototypes)
+- [Can You Learn to See Without Images? Procedural Warm-Up for Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-procedural-nonvisual-warmup-for-vit)
+- [Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning](../../conferences/cvpr-2026/cards.md#paper-anga-incomplete-multimodal)
+- [Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation](../../conferences/cvpr-2026/cards.md#paper-doco-open-set-domain-compensation)
+- [Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration](../../conferences/cvpr-2026/cards.md#paper-dctta-redegradation-consistency)
 
 <!-- conference-classification:end -->

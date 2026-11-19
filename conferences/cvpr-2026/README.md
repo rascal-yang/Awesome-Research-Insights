@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,677 篇，其中 1,059 篇暂收录、618 篇排除，另有 2,365 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,707 篇，其中 1,077 篇暂收录、630 篇排除，另有 2,335 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1065,3 +1065,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,677
 | 机器学习基础 | 迁移与泛化 | [HFedATM: Hierarchical Federated Domain Generalization via Optimal Transport and Regularized Mean Aggregation](cards.md#paper-hfedatm-hierarchical-aggregation) | 多个联邦站点聚合时，先对齐卷积滤波器，再用结构相关的线性聚合替代逐权重平均。 |
 | 多模态学习 | 推理优化 | [Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism](cards.md#paper-flexmem-visual-kv-memory) | 视频问答可分开设计视觉键值压缩写入和按查询或流任务读取。 |
 | 计算机视觉 | 评测与分析 | [Learning 3D Shape Fidelity Metric from Real-world Distortions](cards.md#paper-locase-real-shape-fidelity) | 三维质量评价可以真实重建错误和人评训练局部连接指标，补充 Chamfer 距离。 |
+| 计算机视觉 | 持续学习 | [Hyperbolic Prototype Learning with Uncertainty-Aware Consistency for Continual Test-Time Segmentation](cards.md#paper-hyperprotoseg-hyperbolic-test-time-class-prototypes) | 持续测试时分割可比较双曲与欧氏类别原型，再检验几何改变是否减少伪监督误差累积。见表 2。 |
+| 机器人学 | 规划与控制 | [Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning](cards.md#paper-assistive-control-contact-aware-reference-retargeting) | 需要身体接触的协作可动态改写参照轨迹，并在接触持续和伙伴运动较大时分别测是否有用。见第 4 节。 |
+| 机器人学 | 评估与诊断 | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](cards.md#paper-sage-visual-and-physics-critic-separation) | 生成仿真场景时可为视觉语义和物理稳定性安排独立评估，并检验二者的联合反馈。见表 3。 |
+| 机器人学 | 检索增强 | [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](cards.md#paper-glmap-instance-region-memory-navigation) | 开放词汇导航可同时保留对象与区域语义，并用共同几何坐标同时返回文本和可渲染视图。见表 1。 |
+| 表征学习 | 自监督学习 | [Can You Learn to See Without Images? Procedural Warm-Up for Vision Transformers](cards.md#paper-procedural-nonvisual-warmup-for-vit) | 可用非视觉程序序列热启动 Transformer，再与合成图像初始化及同架构随机初始化比较样本效率。见表 2、3。 |
+| 计算机视觉 | 三维重建与几何建模 | [LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis](cards.md#paper-lagernvs-three-dimensional-pretraining-and-direct-rendering) | 快速新视角推理可以复用显式三维预训练特征，却让轻量解码器直接渲染，并验证冻结与端到端适配。见表 2。 |
+| 计算机视觉 | 损失函数 | [Structure-Aware Representation Distillation for Tiny-Dense Object Segmentation](cards.md#paper-sard-structure-distillation) | 给密集小物体蒸馏时，用结构重要性给特征对齐分配预算。 |
+| 计算机视觉 | 生成模型 | [Linear Image Generation by Synthesizing Exposure Brackets](cards.md#paper-linear-exposure-bracket-generation) | 需物理可编辑的图像时，先联合合成曝光包围与辐射尺度，再融合到线性空间。 |
+| 智能体 | 强化学习 | [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](cards.md#paper-spacetools-dirl) | 多视觉工具探索可先训练会探索的教师，再用其轨迹初始化通用策略并做第二次交互优化。 |
+| 多模态学习 | 测试时适应与推理 | [Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning](cards.md#paper-bayesmm) | 在线缓存不足时可维护每类的分布统计，再以贝叶斯方式融合文本先验和视觉观测。 |
+| 计算机视觉 | 表示学习 | [Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting](cards.md#paper-part2gs) | 建可关节运动的数字孪生时，给高斯附加部件身份，并在统一姿态中约束接触及运动。 |
+| 多模态学习 | 训练策略 | [Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning](cards.md#paper-anga-incomplete-multimodal) | 模态补全数据很多时，以真实完整样本及少数可信补全样本的梯度作训练锚。 |
+| 机器学习基础与统计 | 损失函数 | [Stake the Points: Structure-Faithful Instance Unlearning](cards.md#paper-structure-faithful-unlearning) | 遗忘实例后要保留其他实例间的语义组织，可用描述生成的锚点辅助验证。 |
+| 机器学习基础 | 损失函数与优化 | [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](cards.md#paper-orthoreg-task-vector-disentanglement) | 训练可组合任务向量时，先测向量干扰，再对任务增量施加正交正则。 |
+| 机器学习基础 | 微调与适配 | [Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation](cards.md#paper-doco-open-set-domain-compensation) | 连续开放集测试适配先用可能是已知类的样本估域偏差，再以同一补偿测试可疑样本的新颖性。 |
+| 计算机视觉 | 训练与数据策略 | [HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction](cards.md#paper-had-multiview-hallucination-masks) | 用生成视图训练三维模型时，按像素对生成内容做几何可信度掩码，并聚合不同输入视图的证据。 |
+| 计算机视觉 | 微调与适配 | [Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration](cards.md#paper-dctta-redegradation-consistency) | 无源数据的恢复适配用同一场景的多种再退化训练一致性，并只更新对退化敏感的参数。 |
+| 计算机视觉 | 损失函数与优化 | [ManifoldNeuS: Manifold-aware View Optimizability for Pose-Free Neural Surface Reconstruction](cards.md#paper-manifoldneus-view-optimizability) | 联合估位姿和表面时，为视图调度同时看当前可拟合性与补足未来表面覆盖的价值。 |

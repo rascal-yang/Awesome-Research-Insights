@@ -781,5 +781,6 @@
 - [FinPercep-RM: A Fine-grained Reward Model and Co-evolutionary Curriculum for RL-based Real-world Super-Resolution](../conferences/cvpr-2026/cards.md#paper-finpercep-rm)
 - [ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-arm-thinker-tool-grounded-reward)
 - [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](../conferences/cvpr-2026/cards.md#paper-gui-sage)
+- [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](../conferences/cvpr-2026/cards.md#paper-spacetools-dirl)
 
 <!-- conference-classification:end -->

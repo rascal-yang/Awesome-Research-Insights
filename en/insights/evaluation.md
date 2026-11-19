@@ -1513,5 +1513,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](../../conferences/cvpr-2026/cards.md#paper-intrain-zero-cost-nas)
 - [Enhancing Accuracy of Uncertainty Estimation in Appearance-based Gaze Tracking with Probabilistic Evaluation and Calibration](../../conferences/cvpr-2026/cards.md#paper-gaze-conditional-distribution-coverage-calibration)
 - [Learning 3D Shape Fidelity Metric from Real-world Distortions](../../conferences/cvpr-2026/cards.md#paper-locase-real-shape-fidelity)
+- [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](../../conferences/cvpr-2026/cards.md#paper-sage-visual-and-physics-critic-separation)
 
 <!-- conference-classification:end -->

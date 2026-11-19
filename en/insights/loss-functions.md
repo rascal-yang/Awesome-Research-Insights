@@ -437,5 +437,9 @@ Objectives, auxiliary supervision, and regularization.
 - [Improved Mean Flows: On the Challenges of Fastforward Generative Models](../../conferences/cvpr-2026/cards.md#paper-imf-instantaneous-regression)
 - [UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation](../../conferences/cvpr-2026/cards.md#paper-unifusion-source-preserving)
 - [Streamlined Knowledge Distillation](../../conferences/cvpr-2026/cards.md#paper-streamlined-kd)
+- [Structure-Aware Representation Distillation for Tiny-Dense Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-sard-structure-distillation)
+- [Stake the Points: Structure-Faithful Instance Unlearning](../../conferences/cvpr-2026/cards.md#paper-structure-faithful-unlearning)
+- [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](../../conferences/cvpr-2026/cards.md#paper-orthoreg-task-vector-disentanglement)
+- [ManifoldNeuS: Manifold-aware View Optimizability for Pose-Free Neural Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-manifoldneus-view-optimizability)
 
 <!-- conference-classification:end -->

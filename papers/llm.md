@@ -2447,5 +2447,6 @@
 - [ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-arm-thinker-tool-grounded-reward)
 - [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](../conferences/cvpr-2026/cards.md#paper-gui-sage)
 - [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](../conferences/cvpr-2026/cards.md#paper-3drawagent)
+- [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](../conferences/cvpr-2026/cards.md#paper-spacetools-dirl)
 
 <!-- conference-classification:end -->

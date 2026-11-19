@@ -15886,3 +15886,273 @@
 - **适用条件 / 局限** · 人评受对象类别与视图选择影响，不能代替任务特定几何精度。
 
 **可复用机制** · 三维质量评价可以真实重建错误和人评训练局部连接指标，补充 Chamfer 距离。
+
+<a id="paper-hyperprotoseg-hyperbolic-test-time-class-prototypes"></a>
+
+## Hyperbolic Prototype Learning with Uncertainty-Aware Consistency for Continual Test-Time Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gole_Hyperbolic_Prototype_Learning_with_Uncertainty-Aware_Consistency_for_Continual_Test-Time_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gole_Hyperbolic_Prototype_Learning_with_Uncertainty-Aware_Consistency_for_Continual_Test-Time_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 连续域变化时伪标签错误可能积累，彼此拥挤的类别中心难稳定分离。
+- **核心创新 / 方法** · 在 Poincaré 球中学习类别原型并约束间隔，适配时用不确定性调节一致性。
+- **Baseline** · 比较 Euclidean SegFormer、Euclidean ProtoSeg 与 Hyperbolic MLR。
+- **Benchmark** · IDD、Cityscapes 的分割 mIoU 与计算量，另测 IDD→IDD-AW、Cityscapes→ACDC 等连续适配。
+- **关键结果 / 消融** · 表 2 Cityscapes 中欧氏 ProtoSeg 78.07，双曲 MLR 78.14，完整方法为 79.96 mIoU。
+- **适用条件 / 局限** · 配置还包含几何正则及适配设计，不能把所有收益归于非欧几何。
+
+**可复用机制** · 持续测试时分割可比较双曲与欧氏类别原型，再检验几何改变是否减少伪监督误差累积。见表 2。
+
+<a id="paper-assistive-control-contact-aware-reference-retargeting"></a>
+
+## Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shibata_Learning_to_Assist_Physics-Grounded_Human-Human_Control_via_Multi-Agent_Reinforcement_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shibata_Learning_to_Assist_Physics-Grounded_Human-Human_Control_via_Multi-Agent_Reinforcement_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定模仿轨迹忽视伙伴实际位置，常错过接触点或使辅助无效。
+- **核心创新 / 方法** · 在物理仿真中共同学习支持者与接受者策略，按伙伴状态动态调整参照，以持续接触为目标之一。
+- **Baseline** · 比较移除动态参考更新、接触相关奖励的方案。
+- **Benchmark** · HHI-Assist 与 Inter-X 的多角色动作与模拟物理接触，报告专用与通用策略结果。
+- **关键结果 / 消融** · 作者报告动态参考更新改善 HHI-Assist 中的接触，对 Inter-X 没有收益，提示伙伴运动范围会改变这一设计的适用性。
+- **适用条件 / 局限** · 接触与动力数据源于模拟，真实照护须独立检验安全限值、力反馈和人员差异。
+
+**可复用机制** · 需要身体接触的协作可动态改写参照轨迹，并在接触持续和伙伴运动较大时分别测是否有用。见第 4 节。
+
+<a id="paper-sage-visual-and-physics-critic-separation"></a>
+
+## SAGE: Scalable Agentic 3D Scene Generation for Embodied AI
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xia_SAGE_Scalable_Agentic_3D_Scene_Generation_for_Embodied_AI_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xia_SAGE_Scalable_Agentic_3D_Scene_Generation_for_Embodied_AI_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 场景视觉合理，并不保证几何无碰撞或物体稳定。
+- **核心创新 / 方法** · 让场景生成器接收独立视觉和物理反馈，再迭代修订。
+- **Baseline** · 比较无评审、只视觉、只物理和两者结合。
+- **Benchmark** · 三种房间类型与不同操控仿真场景，评估呈现、碰撞率与稳定性。
+- **关键结果 / 消融** · 表 3 无评审时碰撞率 7.8%、稳定性 80.3%，只物理为 1.9%、99.6%，联合为 0.8%、100.0%。
+- **适用条件 / 局限** · 消融样本较少，视觉评审和仿真都可能错过真实交互限制。
+
+**可复用机制** · 生成仿真场景时可为视觉语义和物理稳定性安排独立评估，并检验二者的联合反馈。见表 3。
+
+<a id="paper-glmap-instance-region-memory-navigation"></a>
+
+## Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Multi-Scale_Gaussian-Language_Map_for_Zero-shot_Embodied_Navigation_and_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Multi-Scale_Gaussian-Language_Map_for_Zero-shot_Embodied_Navigation_and_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只有单对象或整图语义的地图难在区域导航与细实例查询之间切换。
+- **核心创新 / 方法** · 在同一地图建立实例、区域索引，每个语义单元保存文字与对应三维高斯。
+- **Baseline** · 对照无双层级语义、仅实例或仅区域与完整表示。
+- **Benchmark** · 在 Habitat 的 HM3D、MP3D 等测试零样本对象和实例导航，报告 SR、SPL。
+- **关键结果 / 消融** · 表 1 两类语义一起使用时 HM3D ObjectNav SR 为 59.1%，基线为 52.5%，两个单独配置为 57.4%、56.2%。
+- **适用条件 / 局限** · 依赖可建图的观测与层级文字准确性，动态环境中需要更新和核对地图。
+
+**可复用机制** · 开放词汇导航可同时保留对象与区域语义，并用共同几何坐标同时返回文本和可渲染视图。见表 1。
+
+<a id="paper-procedural-nonvisual-warmup-for-vit"></a>
+
+## Can You Learn to See Without Images? Procedural Warm-Up for Vision Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shinnick_Can_You_Learn_to_See_Without_Images_Procedural_Warm-Up_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shinnick_Can_You_Learn_to_See_Without_Images_Procedural_Warm-Up_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · ViT 在图像上学习之前是否能获得通用计算结构难以从图像预训练中区分。
+- **核心创新 / 方法** · 用形式文法生成非视觉序列，绕开视觉补丁嵌入做热启动，再回到普通图像微调。
+- **Baseline** · 比较随机初始化、Mimetic 初始化与 FractalDB 合成图像热启动。
+- **Benchmark** · ImageNet-1K、Tiny-ImageNet、Food-101、CIFAR、STL-10，报告分类与迁移准确率。
+- **关键结果 / 消融** · 表 2 ImageNet-1K 为 79.21%，随机初始化为 77.49%，FractalDB 为 78.06%；CIFAR-10 的 Mimetic 略高。
+- **适用条件 / 局限** · 增加预训练预算，收益也随文法和下游数据变化，需与计算等量的基线比较。
+
+**可复用机制** · 可用非视觉程序序列热启动 Transformer，再与合成图像初始化及同架构随机初始化比较样本效率。见表 2、3。
+
+<a id="paper-lagernvs-three-dimensional-pretraining-and-direct-rendering"></a>
+
+## LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Szymanowicz_LagerNVS_Latent_Geometry_for_Fully_Neural_Real-time_Novel_View_Synthesis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Szymanowicz_LagerNVS_Latent_Geometry_for_Fully_Neural_Real-time_Novel_View_Synthesis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接神经渲染不显式重建，若没有几何训练信号则难对齐视角。
+- **核心创新 / 方法** · 用三维重建预训练初始化编码器，通过快捷特征通路连接轻量解码器，并用光度损失端到端训练。
+- **Baseline** · 对照二维预训练、随机初始化、冻结编码器及只有解码器和瓶颈结构。
+- **Benchmark** · 包括 Re10k 等新视角测试，报告 PSNR、SSIM、LPIPS 以及实时渲染。
+- **关键结果 / 消融** · 表 2 同为带快捷通路和跨注意的模型，三维预训练端到端为 21.02 dB，二维预训练为 18.17，冻结三维编码器为 19.01。
+- **适用条件 / 局限** · 三维预训练的域对特征有影响，端到端训练成本比冻结高，快速渲染不直接保证可输出可编辑三维结构。
+
+**可复用机制** · 快速新视角推理可以复用显式三维预训练特征，却让轻量解码器直接渲染，并验证冻结与端到端适配。见表 2。
+
+<a id="paper-sard-structure-distillation"></a>
+
+## Structure-Aware Representation Distillation for Tiny-Dense Object Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Structure-Aware_Representation_Distillation_for_Tiny-Dense_Object_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Structure-Aware_Representation_Distillation_for_Tiny-Dense_Object_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 掩码模仿难保留细边界，小目标定位误差对测量影响大。
+- **核心创新 / 方法** · 结合边缘、几何复杂度和局部特征变化，重加权特征一致性与分布对齐。
+- **Baseline** · 表1比较 CWD 等蒸馏，表2改变师生，表3隔离结构权重。
+- **Benchmark** · Cityscapes、ADE20K、RockFrag 的 mIoU 和边界 IoU。
+- **关键结果 / 消融** · 表3独立核对结构权重，表1跨场景检查边界效果。
+- **适用条件 / 局限** · 复杂背景的边缘可能被高估，目标尺度和结构估计需重校。
+
+**可复用机制** · 给密集小物体蒸馏时，用结构重要性给特征对齐分配预算。
+
+<a id="paper-linear-exposure-bracket-generation"></a>
+
+## Linear Image Generation by Synthesizing Exposure Brackets
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dai_Linear_Image_Generation_by_Synthesizing_Exposure_Brackets_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dai_Linear_Image_Generation_by_Synthesizing_Exposure_Brackets_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 显示域模型会压缩亮度动态，直接合成高动态线性图缺少预训练支持。
+- **核心创新 / 方法** · 条件生成多个配准曝光，并在去噪中预测场景辐射尺度，融合后得到线性辐照。
+- **Baseline** · 表1对比 GlowGAN、Bracket Diffusion 等，表2比较尺度估计。
+- **Benchmark** · 线性/HDR 图像生成，评价整体效果及辐射尺度。
+- **关键结果 / 消融** · 表1–2分开检查观感与辐射尺度估计。
+- **适用条件 / 局限** · 依赖各曝光在内容及空间上吻合，饱和区或未见亮度分布仍需验证。
+
+**可复用机制** · 需物理可编辑的图像时，先联合合成曝光包围与辐射尺度，再融合到线性空间。
+
+<a id="paper-spacetools-dirl"></a>
+
+## SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_SpaceTools_Tool-Augmented_Spatial_Reasoning_via_Double_Interactive_RL_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_SpaceTools_Tool-Augmented_Spatial_Reasoning_via_Double_Interactive_RL_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接在深度、分割和位姿等多工具组合中探索，搜索空间大。
+- **核心创新 / 方法** · 用双阶段交互 RL 组织教师探索及学生多工具策略学习。
+- **Baseline** · 表1对比监督方式，表2比较空间推理系统，表4消融 IRL 教师、通用教师和后续训练。
+- **Benchmark** · RoboSpatial、RefSpatial、位姿等准确率，表3测实机操作。
+- **关键结果 / 消融** · 表4分别检查不同教师和后续交互步骤，表3提供操作结果。
+- **适用条件 / 局限** · 教师工具偏差可能被继承，传感标定误差和额外调用延迟需闭环测试。
+
+**可复用机制** · 多视觉工具探索可先训练会探索的教师，再用其轨迹初始化通用策略并做第二次交互优化。
+
+<a id="paper-bayesmm"></a>
+
+## Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_Adapting_Point_Cloud_Analysis_via_Multimodal_Bayesian_Distribution_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 有限历史样本缓存会失去早期信息，固定 logit 混合难适应偏移。
+- **核心创新 / 方法** · 以文本提示初始化类分布，流式更新视觉高斯分布并进行联合估计。
+- **Baseline** · 表1–3比较已有点云适配，表4消融。
+- **Benchmark** · ModelNet-C 七扰动、ScanObjectNN、O-LVIS 及仿真到真实识别。
+- **关键结果 / 消融** · 表1按扰动，表3按迁移协议，表4分解两类模态信息贡献。
+- **适用条件 / 局限** · 单高斯难覆盖多峰类别，初始文本偏差和伪标签积累需额外监控。
+
+**可复用机制** · 在线缓存不足时可维护每类的分布统计，再以贝叶斯方式融合文本先验和视觉观测。
+
+<a id="paper-part2gs"></a>
+
+## Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Part2GS_Part-aware_Modeling_of_Articulated_Objects_using_3D_Gaussian_Splatting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Part2GS_Part-aware_Modeling_of_Articulated_Objects_using_3D_Gaussian_Splatting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅用外观形变可得到光度拟合，但部件会穿插或偏离真实关节。
+- **核心创新 / 方法** · 以可学习部件嵌入和运动感知规范空间表示几何，引入保持部件间距的约束。
+- **Baseline** · 表1–2对比既有铰接物体重建，分运动件衡量几何。
+- **Benchmark** · PARIS、DTA-MULTI、ARTGS-MULTI；比较 Chamfer 等。
+- **关键结果 / 消融** · 正文报告部分设置下运动件 Chamfer 最高改善接近10倍。
+- **适用条件 / 局限** · 需要足够视角和关节状态，柔性部件、多接触或拓扑变化需复验。
+
+**可复用机制** · 建可关节运动的数字孪生时，给高斯附加部件身份，并在统一姿态中约束接触及运动。
+
+<a id="paper-anga-incomplete-multimodal"></a>
+
+## Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Guan_Anchor-Guided_Gradient_Alignment_for_Incomplete_Multimodal_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Guan_Anchor-Guided_Gradient_Alignment_for_Incomplete_Multimodal_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 大规模重建样本会压过完整多模态监督，导致原本可靠表征退化。
+- **核心创新 / 方法** · 检索构建缺失模态，按熵课程纳入可信重建样本，以梯度对齐抑制失衡。
+- **Baseline** · 表1以相同缺失比例比较现有缺失模态方法。
+- **Benchmark** · 不同缺失形式及70%缺失率下的多模态学习。
+- **关键结果 / 消融** · 表1分别报告缺哪一模态，正文检查梯度和完整样本机制。
+- **适用条件 / 局限** · 需要仍有代表性的完整样本，检索高置信错误和极端缺失时锚可能偏移。
+
+**可复用机制** · 模态补全数据很多时，以真实完整样本及少数可信补全样本的梯度作训练锚。
+
+<a id="paper-structure-faithful-unlearning"></a>
+
+## Stake the Points: Structure-Faithful Instance Unlearning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hong_Stake_the_Points_Structure-Faithful_Instance_Unlearning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 保持分类正确不保证保留知识的相对结构。
+- **核心创新 / 方法** · 以语言属性语义锚为参照，对齐保留样本组织并正则稳定。
+- **Baseline** · 表2比较原遗忘法，表4改变锚设计。
+- **Benchmark** · CIFAR-10/100、ImageNet-1K 及 Lacuna-10，分别评价遗忘与保留。
+- **关键结果 / 消融** · 表4比较同预算下锚选取，表2–3跨模型用途评测。
+- **适用条件 / 局限** · 依赖锚能覆盖保留语义，分类指标不足以证明删除样本不可恢复。
+
+**可复用机制** · 遗忘实例后要保留其他实例间的语义组织，可用描述生成的锚点辅助验证。
+
+<a id="paper-orthoreg-task-vector-disentanglement"></a>
+
+## Understanding and Enforcing Weight Disentanglement in Task Arithmetic
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Understanding_and_Enforcing_Weight_Disentanglement_in_Task_Arithmetic_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Understanding_and_Enforcing_Weight_Disentanglement_in_Task_Arithmetic_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 参数向量加减可能相互破坏，功能解耦很难直接约束。
+- **核心创新 / 方法** · 分析任务特征专门化对解耦的充分性，并以几何正交作为较易控制的代理。
+- **Baseline** · 普通任务向量算术及不加正交约束的微调。
+- **Benchmark** · CLIP 三种架构的8任务加法，另测在至少保留95%零样本性能下的目标任务移除。
+- **关键结果 / 消融** · 表1–2比较合并和移除，正文分析正交与特征专门化关系。
+- **适用条件 / 局限** · 正交本身不能保证功能解耦，充分条件与实际训练分布有关。
+
+**可复用机制** · 训练可组合任务向量时，先测向量干扰，再对任务增量施加正交正则。
+
+<a id="paper-doco-open-set-domain-compensation"></a>
+
+## Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Back_to_Source_Open-Set_Continual_Test-Time_Adaptation_via_Domain_Compensation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Back_to_Source_Open-Set_Continual_Test-Time_Adaptation_via_Domain_Compensation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 域偏移和类语义变化同时出现时，直接用所有伪标签会损坏分类与拒判。
+- **核心创新 / 方法** · 动态拆分已知和未知，用可信组对齐源特征统计，传播域补偿提示并约束语义结构。
+- **Baseline** · 开放集、连续和闭集测试时适配基线。
+- **Benchmark** · ImageNet-C、LAION-C 与下游 OOD 设置，按偏移组合及强度报告分类和识别指标。
+- **关键结果 / 消融** · 表1–2报告跨多个域外评测，表3对照闭集。
+- **适用条件 / 局限** · 早期分组错误会引起循环污染；同一批次多域混合不一定能共用提示。
+
+**可复用机制** · 连续开放集测试适配先用可能是已知类的样本估域偏差，再以同一补偿测试可疑样本的新颖性。
+
+<a id="paper-had-multiview-hallucination-masks"></a>
+
+## HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_HAD_Hallucination-Aware_Diffusion_Priors_for_3D_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_HAD_Hallucination-Aware_Diffusion_Priors_for_3D_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 生成补视图可覆盖盲区，却也会把与原图不一致的细节写入模型。
+- **核心创新 / 方法** · 用冻结新视图预测器给增强图估置信图，再合成多个条件生成版本并在重建中筛掉不可靠区域。
+- **Baseline** · 其他扩散辅助稀疏重建，在表3比较逐像素屏蔽及不同生成融合。
+- **Benchmark** · Mip-NeRF 等稀疏视角，新视图重建与生成伪影对照。
+- **关键结果 / 消融** · 表2–3报告模型的重建结果和组件贡献。
+- **适用条件 / 局限** · 判别器本身受分布限制；完全不可见区域仅能给出推断，不是几何真值。
+
+**可复用机制** · 用生成视图训练三维模型时，按像素对生成内容做几何可信度掩码，并聚合不同输入视图的证据。
+
+<a id="paper-dctta-redegradation-consistency"></a>
+
+## Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Degradation-Consistent_Test-Time_Adaptation_for_All-in-One_Image_Restoration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_Degradation-Consistent_Test-Time_Adaptation_for_All-in-One_Image_Restoration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 目标退化超出训练域时，直接套伪标签会不稳且造成遗忘。
+- **核心创新 / 方法** · 生成退化—清晰伪配对，用清晰输出应一致的训练信号约束测试适配。
+- **Baseline** · 原通用恢复模型和现有适配；对比不同恢复任务及混合退化。
+- **Benchmark** · 去噪、去雾、去雨、去模糊、低光等，报告 PSNR 与 SSIM。
+- **关键结果 / 消融** · 表1–3比较不同退化条件下的恢复表现。
+- **适用条件 / 局限** · 依赖再退化覆盖实际退化；生成伪对的偏差会污染适配。
+
+**可复用机制** · 无源数据的恢复适配用同一场景的多种再退化训练一致性，并只更新对退化敏感的参数。
+
+<a id="paper-manifoldneus-view-optimizability"></a>
+
+## ManifoldNeuS: Manifold-aware View Optimizability for Pose-Free Neural Surface Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_ManifoldNeuS_Manifold-aware_View_Optimizability_for_Pose-Free_Neural_Surface_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_ManifoldNeuS_Manifold-aware_View_Optimizability_for_Pose-Free_Neural_Surface_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 简单纹理视图主导梯度，难但关键的视图被边缘化，几何可能不完整。
+- **核心创新 / 方法** · 用视图一致流形估计拟合与覆盖，驱动调度、位置编码门控和重权。
+- **Baseline** · BARF 等无初始位姿的优化及各模块消融。
+- **Benchmark** · 无位姿表面重建，评估旋转误差和绝对平移误差以及几何。
+- **关键结果 / 消融** · 表1、3报告位姿对照及组件贡献。
+- **适用条件 / 局限** · 覆盖估计随当前几何而变，初始配准很差会使调度偏差扩大。
+
+**可复用机制** · 联合估位姿和表面时，为视图调度同时看当前可拟合性与补足未来表面覆盖的价值。

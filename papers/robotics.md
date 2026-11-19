@@ -966,5 +966,8 @@
 - [ForeAct: Steering Your VLA with Efficient Visual Foresight Planning](../conferences/cvpr-2026/cards.md#paper-foreact-goal-image-and-subtask-conditioning)
 - [C-LaV: Conditional Latent Velocity Field Denoising for Weather-Robust LiDAR Place Recognition](../conferences/cvpr-2026/cards.md#paper-clav-weather-invariant-latent-place-recognition)
 - [CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion](../conferences/cvpr-2026/cards.md#paper-colc-lidar-completion)
+- [Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-assistive-control-contact-aware-reference-retargeting)
+- [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](../conferences/cvpr-2026/cards.md#paper-sage-visual-and-physics-critic-separation)
+- [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](../conferences/cvpr-2026/cards.md#paper-glmap-instance-region-memory-navigation)
 
 <!-- conference-classification:end -->

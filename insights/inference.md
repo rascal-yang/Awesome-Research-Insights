@@ -1504,5 +1504,8 @@
 - [CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion](../conferences/cvpr-2026/cards.md#paper-colc-lidar-completion)
 - [Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex](../conferences/cvpr-2026/cards.md#paper-multinex)
 - [Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism](../conferences/cvpr-2026/cards.md#paper-flexmem-visual-kv-memory)
+- [Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-assistive-control-contact-aware-reference-retargeting)
+- [Linear Image Generation by Synthesizing Exposure Brackets](../conferences/cvpr-2026/cards.md#paper-linear-exposure-bracket-generation)
+- [Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning](../conferences/cvpr-2026/cards.md#paper-bayesmm)
 
 <!-- conference-classification:end -->

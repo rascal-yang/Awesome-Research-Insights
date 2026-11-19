@@ -669,5 +669,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Hier-COS: Making Deep Features Hierarchy-aware via Composition of Orthogonal Subspaces](../../conferences/cvpr-2026/cards.md#paper-hiercos-orthogonal-feature-hierarchy)
 - [Consistent Instance Field for Dynamic Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-consistent-instance-field)
 - [HSI-GPT2: A Dual-Granularity Large Motion Reasoning Model with Diffusion Refinement for Human-Scene Interaction](../../conferences/cvpr-2026/cards.md#paper-hsi-gpt2-dual-motion-token)
+- [LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-lagernvs-three-dimensional-pretraining-and-direct-rendering)
+- [Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-part2gs)
 
 <!-- conference-classification:end -->
