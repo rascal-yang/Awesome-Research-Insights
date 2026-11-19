@@ -1197,5 +1197,6 @@
 - [Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction](../conferences/cvpr-2026/cards.md#paper-splat-ct-pose-sensitivity)
 - [Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement](../conferences/cvpr-2026/cards.md#paper-hrnet-hybrid-multimodal-registration)
 - [BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-binaryattention-one-bit-qk)
+- [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](../conferences/cvpr-2026/cards.md#paper-a2gc-vpr)
 
 <!-- conference-classification:end -->

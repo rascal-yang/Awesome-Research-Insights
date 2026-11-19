@@ -783,5 +783,6 @@
 - [FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers](../../conferences/cvpr-2026/cards.md#paper-flashdecoder-rolling-kv-streaming-video-decode)
 - [SyncMos: Scalable Motion Synchronisation for Multi-Agent Scene Interaction](../../conferences/cvpr-2026/cards.md#paper-syncmos-dependency-conditioned-time-warp)
 - [Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction](../../conferences/cvpr-2026/cards.md#paper-splat-ct-pose-sensitivity)
+- [One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-elit-tail-drop-budgeted-latent-interface)
 
 <!-- conference-classification:end -->

@@ -1089,5 +1089,12 @@
 - [IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework](../conferences/cvpr-2026/cards.md#paper-introsvg-render-feedback)
 - [Progressive Cross-Modal Causal Intervention for Long-Term Action Recognition](../conferences/cvpr-2026/cards.md#paper-pcmci-action-confounders)
 - [Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](../conferences/cvpr-2026/cards.md#paper-bpgo-reward-trust)
+- [OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text](../conferences/cvpr-2026/cards.md#paper-omnisonic-audio-source-gated-conditioning)
+- [Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance](../conferences/cvpr-2026/cards.md#paper-residual-decoding)
+- [Decoupling Stability and Plasticity for Multi-Modal Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-dasp-multimodal-tta)
+- [MedLoc-R1: Performance-Aware Curriculum Reward Scheduling for GRPO-Based Medical Visual Grounding](../conferences/cvpr-2026/cards.md#paper-medloc-r1)
+- [REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding](../conferences/cvpr-2026/cards.md#paper-revisor-dual-attribution)
+- [One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](../conferences/cvpr-2026/cards.md#paper-alvts-layer-wise-token-routing)
+- [ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization](../conferences/cvpr-2026/cards.md#paper-conceptprism-residual-tokens)
 
 <!-- conference-classification:end -->

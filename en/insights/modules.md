@@ -408,5 +408,6 @@ Reusable components and local changes to model inputs or connections.
 ## CVPR 2026 (provisional)
 
 - [Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking](../../conferences/cvpr-2026/cards.md#paper-unikpt)
+- [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](../../conferences/cvpr-2026/cards.md#paper-bdmerging-evidence-routed-model-merging)
 
 <!-- conference-classification:end -->

@@ -759,5 +759,7 @@
 - [Reinforcing Video Object Segmentation to Think before it Segments](../conferences/cvpr-2026/cards.md#paper-veason-r1-sequential-segmentation)
 - [Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-earl-video-evidence)
 - [Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](../conferences/cvpr-2026/cards.md#paper-bpgo-reward-trust)
+- [MedLoc-R1: Performance-Aware Curriculum Reward Scheduling for GRPO-Based Medical Visual Grounding](../conferences/cvpr-2026/cards.md#paper-medloc-r1)
+- [REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding](../conferences/cvpr-2026/cards.md#paper-revisor-dual-attribution)
 
 <!-- conference-classification:end -->

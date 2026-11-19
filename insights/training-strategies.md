@@ -1030,5 +1030,6 @@
 - [Learning from Noisy Supervision: A Denoising-Debiasing Framework for Weakly Supervised Video Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-d2mil)
 - [CoLoR: The Devil is in Scene Coordinate Regression for Large-Scale Visual Localization](../conferences/cvpr-2026/cards.md#paper-color-scene-coordinate-regression)
 - [Progressive Cross-Modal Causal Intervention for Long-Term Action Recognition](../conferences/cvpr-2026/cards.md#paper-pcmci-action-confounders)
+- [MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters](../conferences/cvpr-2026/cards.md#paper-maskadapt)
 
 <!-- conference-classification:end -->

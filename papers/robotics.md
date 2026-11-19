@@ -921,5 +921,8 @@
 - [SyncMos: Scalable Motion Synchronisation for Multi-Agent Scene Interaction](../conferences/cvpr-2026/cards.md#paper-syncmos-dependency-conditioned-time-warp)
 - [Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](../conferences/cvpr-2026/cards.md#paper-real2edit2real)
 - [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](../conferences/cvpr-2026/cards.md#paper-u4d-uncertainty-first)
+- [PromptDepth: Efficient and Promptable Geometric 3D Vision Model for Embodied Intelligence](../conferences/cvpr-2026/cards.md#paper-promptdepth-joint-dense-prediction-alignment)
+- [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-activevla)
+- [MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters](../conferences/cvpr-2026/cards.md#paper-maskadapt)
 
 <!-- conference-classification:end -->

@@ -2362,5 +2362,11 @@
 - [FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers](../conferences/cvpr-2026/cards.md#paper-flashdecoder-rolling-kv-streaming-video-decode)
 - [FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories](../conferences/cvpr-2026/cards.md#paper-flowsteer-online-teacher-trajectory-alignment)
 - [Cross-Architecture Adaptation: Cloud-Edge Continual Test-Time Adaptation with Dynamic Sampling and Heterogeneous Distillation](../conferences/cvpr-2026/cards.md#paper-cloud-edge-cross-architecture-distillation)
+- [FlowPortal: Residual-Corrected Flow for Training-Free Video Relighting and Background Replacement](../conferences/cvpr-2026/cards.md#paper-flowportal-source-residual-video-editing)
+- [STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution](../conferences/cvpr-2026/cards.md#paper-stcdit-first-latent-anchor-guidance)
+- [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](../conferences/cvpr-2026/cards.md#paper-bdmerging-evidence-routed-model-merging)
+- [One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-elit-tail-drop-budgeted-latent-interface)
+- [Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification](../conferences/cvpr-2026/cards.md#paper-hcep-hierarchical-concepts)
+- [Bias In, Bias Out? Finding Unbiased Subnetworks in Vanilla Models](../conferences/cvpr-2026/cards.md#paper-bise-bias-invariant-subnetworks)
 
 <!-- conference-classification:end -->

@@ -1467,5 +1467,7 @@
 - [InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity](../conferences/cvpr-2026/cards.md#paper-infinibench-irrelevant-object-spatial-stress-test)
 - [Bias at the End of the Score](../conferences/cvpr-2026/cards.md#paper-reward-model-demographic-audit)
 - [RAAS: LLM Agentic System Architecture Search with GRPO](../conferences/cvpr-2026/cards.md#paper-raas-agent-architecture)
+- [Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification](../conferences/cvpr-2026/cards.md#paper-hcep-hierarchical-concepts)
+- [Bias In, Bias Out? Finding Unbiased Subnetworks in Vanilla Models](../conferences/cvpr-2026/cards.md#paper-bise-bias-invariant-subnetworks)
 
 <!-- conference-classification:end -->

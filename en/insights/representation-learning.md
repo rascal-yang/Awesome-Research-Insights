@@ -601,5 +601,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Any4D: Unified Feed-Forward Metric 4D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-any4d-modular-coordinate-factors)
 - [DiffuView: Multi-View Diffusion Pretraining for 3D Aware Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-diffuview-camera-conditioned-diffusion-features)
 - [Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement](../../conferences/cvpr-2026/cards.md#paper-hrnet-hybrid-multimodal-registration)
+- [STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-stcdit-first-latent-anchor-guidance)
+- [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](../../conferences/cvpr-2026/cards.md#paper-a2gc-vpr)
 
 <!-- conference-classification:end -->

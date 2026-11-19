@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,077 篇，其中 691 篇暂收录、386 篇排除，另有 2,965 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,107 篇，其中 708 篇暂收录、399 篇排除，另有 2,935 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -697,3 +697,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,077
 | 多模态学习 | 迁移与泛化 | [Progressive Cross-Modal Causal Intervention for Long-Term Action Recognition](cards.md#paper-pcmci-action-confounders) | 长视频动作识别要减轻场景共现捷径时，先校正动作文本关系，再作为视觉去混淆的中介。 |
 | 多模态学习 | 强化学习 | [Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](cards.md#paper-bpgo-reward-trust) | 组相对策略优化可分别估计组间奖励可信度与组内样本区分度。 |
 | 计算机视觉 | 推理优化 | [BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers](cards.md#paper-binaryattention-one-bit-qk) | 若硬件支持位运算，可只二值化查询键相似度，再用学习补偿和自蒸馏恢复质量。 |
+| 生成模型 | 推理策略 | [FlowPortal: Residual-Corrected Flow for Training-Free Video Relighting and Background Replacement](cards.md#paper-flowportal-source-residual-video-editing) | 在无训练流编辑中，可以用同条件重建误差校正编辑流，并检查保真与指令匹配的取舍。见图 2、表 3。 |
+| 生成模型 | 表征学习 | [STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution](cards.md#paper-stcdit-first-latent-anchor-guidance) | 视频潜变量存在时间压缩不均时，可比较优先取未压缩锚帧和均匀取帧对低清视频恢复的影响。见表 3。 |
+| 机器学习 | 模型融合 | [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](cards.md#paper-bdmerging-evidence-routed-model-merging) | 合并专家模型时可用统一标签空间中的不确定性决定路由，并把干净、偏移和未知任务分开评估。见表 3。 |
+| 机器人学 | 损失与奖励 | [PromptDepth: Efficient and Promptable Geometric 3D Vision Model for Embodied Intelligence](cards.md#paper-promptdepth-joint-dense-prediction-alignment) | 一个骨干共学深度和交互分割时，可测两任务表示的二阶结构对齐能否缓解负迁移。见表 4。 |
+| 生成模型 | 模型效率 | [One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](cards.md#paper-elit-tail-drop-budgeted-latent-interface) | 给 DiT 提供多档推理预算时，可训练固定顺序的潜变量并随机截断尾部，比较删到同样比例时的质量。见表 4。 |
+| 多模态学习 | 生成建模 | [OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text](cards.md#paper-omnisonic-audio-source-gated-conditioning) | 联合生成说话、镜头内和镜头外声音时，可按来源分别建条件并用门控融合，检查环境对齐和语音字错率。见表 3。 |
+| 多模态学习 | 推理策略 | [Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance](cards.md#paper-residual-decoding) | 视觉生成答复被语言先验带偏时，对照历史 logits 残差和常规解码，再检查幻觉与任务性能。 |
+| 计算机视觉 | 表示学习 | [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](cards.md#paper-a2gc-vpr) | 源特征和目标原型分布差异大时，比较非对称聚合和标准双边 Sinkhorn。 |
+| 多模态学习 | 测试时适应与推理 | [Decoupling Stability and Plasticity for Multi-Modal Test-Time Adaptation](cards.md#paper-dasp-multimodal-tta) | 多模态漂移时先诊断哪个模态偏移，再决定哪组适配参数更新。 |
+| 机器人学 | 推理与规划 | [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](cards.md#paper-activevla) | 三维操作中先定位动作关键区域，再按目标需要选择可用视角与分辨率。 |
+| 机器人学 | 训练策略 | [MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters](cards.md#paper-maskadapt) | 需要局部改动作而保全身技能时，先训练不随局部缺失显著改变的基础策略，再学被掩码部件的残差。 |
+| 多模态学习 | 强化学习 | [MedLoc-R1: Performance-Aware Curriculum Reward Scheduling for GRPO-Based Medical Visual Grounding](cards.md#paper-medloc-r1) | 稀疏奖励下按模型近期表现收紧定位门槛，并与固定步数调度对照。 |
+| 多模态学习 | 强化学习 | [REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding](cards.md#paper-revisor-dual-attribution) | 长视频复查时分别奖励选对需重看片段与根据片段修正答案，避免只强化文本自检。 |
+| 机器学习基础 | 可解释性与诊断 | [Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification](cards.md#paper-hcep-hierarchical-concepts) | 用概念向量解释分类时，如果概念有层级，应在表示与稀疏解码同时保证父子一致。 |
+| 多模态学习 | 推理优化 | [One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](cards.md#paper-alvts-layer-wise-token-routing) | 按层压缩视觉计算时让未选 token 跳过本层并保留给后层重新选择。 |
+| 机器学习基础 | 可解释性与诊断 | [Bias In, Bias Out? Finding Unbiased Subnetworks in Vanilla Models](cards.md#paper-bise-bias-invariant-subnetworks) | 训练后去捷径可先比较从冻结模型抽取的稀疏子网与重新训练，而非假设整网均依赖偏置。 |
+| 多模态学习 | 损失函数与优化 | [ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization](cards.md#paper-conceptprism-residual-tokens) | 少量参考图个性化时，给共享概念及每个实例分别分配 token，并阻止实例 token 吞掉共享属性。 |

@@ -420,5 +420,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-temporal-adjusted-loss)
 - [Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards](../../conferences/cvpr-2026/cards.md#paper-solace-denoising-self-confidence-reward)
 - [WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](../../conferences/cvpr-2026/cards.md#paper-waterflow-temporal-watermark)
+- [PromptDepth: Efficient and Promptable Geometric 3D Vision Model for Embodied Intelligence](../../conferences/cvpr-2026/cards.md#paper-promptdepth-joint-dense-prediction-alignment)
+- [ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization](../../conferences/cvpr-2026/cards.md#paper-conceptprism-residual-tokens)
 
 <!-- conference-classification:end -->

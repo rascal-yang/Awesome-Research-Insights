@@ -1429,5 +1429,11 @@
 - [Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](../conferences/cvpr-2026/cards.md#paper-analytic-concepts-articulation)
 - [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](../conferences/cvpr-2026/cards.md#paper-u4d-uncertainty-first)
 - [BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-binaryattention-one-bit-qk)
+- [FlowPortal: Residual-Corrected Flow for Training-Free Video Relighting and Background Replacement](../conferences/cvpr-2026/cards.md#paper-flowportal-source-residual-video-editing)
+- [OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text](../conferences/cvpr-2026/cards.md#paper-omnisonic-audio-source-gated-conditioning)
+- [Residual Decoding: Mitigating Hallucinations in Large Vision-Language Models via History-Aware Residual Guidance](../conferences/cvpr-2026/cards.md#paper-residual-decoding)
+- [Decoupling Stability and Plasticity for Multi-Modal Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-dasp-multimodal-tta)
+- [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-activevla)
+- [One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](../conferences/cvpr-2026/cards.md#paper-alvts-layer-wise-token-routing)
 
 <!-- conference-classification:end -->
