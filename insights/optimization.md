@@ -736,5 +736,7 @@
 - [Dynamic Momentum Recalibration in Online Gradient Learning](../conferences/cvpr-2026/cards.md#paper-sgdf-dynamic-momentum)
 - [AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning](../conferences/cvpr-2026/cards.md#paper-moving-model-priors-continual-long-tail)
 - [Smart Replay: Adaptive Scheduling of Memory Rehearsal for Computational Resource-Aware Incremental Learning](../conferences/cvpr-2026/cards.md#paper-compute-aware-adaptive-replay-schedule)
+- [Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models](../conferences/cvpr-2026/cards.md#paper-cse-cross-dataset-unlearning)
+- [Outlier-Robust Diffusion Solvers for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-robust-diffusion-huber-inverse-solvers)
 
 <!-- conference-classification:end -->

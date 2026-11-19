@@ -1638,5 +1638,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RankOOD - Class Ranking-based Out-of-Distribution Detection](../../conferences/cvpr-2026/cards.md#paper-rankood-class-permutation-likelihood)
 - [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-ggbench-executable-construction)
 - [Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-residual-guided-instance-normality-learning)
+- [Making the Classification Explanation Faithful to the Confidence Score](../../conferences/cvpr-2026/cards.md#paper-mhe-confidence-faithfulness)
+- [Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World](../../conferences/cvpr-2026/cards.md#paper-dynbench-localized-dynamics)
 
 <!-- conference-classification:end -->

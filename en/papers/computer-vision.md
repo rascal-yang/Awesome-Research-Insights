@@ -1717,5 +1717,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [GM-R^2: Generative Matching Learning for Unsupervised Geometric Representation and Registration](../../conferences/cvpr-2026/cards.md#paper-gmr2-generative-matching)
 - [VA-p: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-vapi-pixel-aware-policy)
 - [Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images](../../conferences/cvpr-2026/cards.md#paper-cross-view-splatter-satellite-ground)
+- [Making the Classification Explanation Faithful to the Confidence Score](../../conferences/cvpr-2026/cards.md#paper-mhe-confidence-faithfulness)
+- [Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models](../../conferences/cvpr-2026/cards.md#paper-cse-cross-dataset-unlearning)
+- [VT-Intrinsic: Physics-Based Decomposition of Reflectance and Shading using a Single Visible-Thermal Image Pair](../../conferences/cvpr-2026/cards.md#paper-vt-intrinsic-ordinal-cues)
+- [Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-thermal-nvs-radiometric-drift-diagnosis)
 
 <!-- conference-classification:end -->

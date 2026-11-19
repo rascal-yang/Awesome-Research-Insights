@@ -852,5 +852,9 @@
 - [Low-Rank Residual Diffusion Models](../conferences/cvpr-2026/cards.md#paper-lrdm-asymmetric-residual)
 - [NeuroRule: Bridging Vision and Logic with Differentiable Rule Induction](../conferences/cvpr-2026/cards.md#paper-neurorule-differentiable-induction)
 - [Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images](../conferences/cvpr-2026/cards.md#paper-cross-view-splatter-satellite-ground)
+- [SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation](../conferences/cvpr-2026/cards.md#paper-semantic-class-queries-for-3d-referring)
+- [Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance](../conferences/cvpr-2026/cards.md#paper-text-disambiguation-for-pressure-motion-reconstruction)
+- [AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking](../conferences/cvpr-2026/cards.md#paper-adadextracking-modulator-loop)
+- [Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](../conferences/cvpr-2026/cards.md#paper-roboperform-audio-style-control)
 
 <!-- conference-classification:end -->

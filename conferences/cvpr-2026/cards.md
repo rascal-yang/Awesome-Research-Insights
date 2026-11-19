@@ -35866,3 +35866,288 @@
 - **适用条件 / 局限** · 米制尺度和遮挡补全依赖可观测线索，未见传感器和场景仍需验证。
 
 **可复用机制** · 将视觉几何底座迁到无标定多输入形式的米制占用估计，并分开评完整几何与语义。
+
+<a id="paper-masked-single-agent-motion-priors-cooperation"></a>
+
+## TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lionar_TeamHOI_Learning_a_Unified_Policy_for_Cooperative_Human-Object_Interactions_with_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lionar_TeamHOI_Learning_a_Unified_Policy_for_Cooperative_Human-Object_Interactions_with_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单体动作先验可约束自然性，却往往不含多主体共同操作。
+- **核心创新 / 方法** · 以可变队友 token 做分布式控制，并让被遮罩的交互肢体由任务奖励训练。
+- **Baseline** · 比较 CooHOI 等合作控制及团队规模配置。
+- **Benchmark** · 2、4、8 主体合作物体交互，评估成功、协作与平滑度。
+- **关键结果 / 消融** · 正文表 1 单列同一策略跨三个团队规模的对照。
+- **适用条件 / 局限** · 依赖物理仿真和可分离的交互掩码，真机效果尚需验证。
+
+**可复用机制** · 缺少多机器人协作示范时，可在单体动作先验中遮掉交互部位，让任务奖励学习协作接触。
+
+<a id="paper-spatial-spectral-mixing-for-rare-reconstruction"></a>
+
+## Regulating Rather than Constraining: Adaptive Guidance for Complex Spectral Reconstruction in Pansharpening
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wen_Regulating_Rather_than_Constraining_Adaptive_Guidance_for_Complex_Spectral_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wen_Regulating_Rather_than_Constraining_Adaptive_Guidance_for_Complex_Spectral_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅训练在真实有限组合上，罕见边界处的多光谱恢复不稳。
+- **核心创新 / 方法** · MixShuffle 随机组合不同空间位置和频谱通道，训练时突出难复原区域。
+- **Baseline** · 比较既有遥感全色锐化模型及不同训练变体。
+- **Benchmark** · WV3 等，区分降分辨率和全分辨率评测。
+- **关键结果 / 消融** · 正文表 1 并列两种分辨率条件的指标。
+- **适用条件 / 局限** · 模拟光谱混合须与实际成像一致，不能任意组合独立物理变量。
+
+**可复用机制** · 若混合信号的组合少见，可分别在空间和通道维度生成凸组合增强覆盖。
+
+<a id="paper-semantic-class-queries-for-3d-referring"></a>
+
+## SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_SAQN_Semantic-based_Adaptive_Query_Network_for_3D_Referring_Expression_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_SAQN_Semantic-based_Adaptive_Query_Network_for_3D_Referring_Expression_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接对稠密点云抽样生成查询不稳定且数量大。
+- **核心创新 / 方法** · 每类学习一个查询，通过隐式类别对齐避免额外二分匹配。
+- **Baseline** · 对比按点采样的三维指代方法。
+- **Benchmark** · Multi3DRefer，按无目标、单目标、多目标及干扰项划分。
+- **关键结果 / 消融** · 表 1 逐类展示干扰项对结果的影响。
+- **适用条件 / 局限** · 已知语义类需覆盖对象，细粒度同类实例区分仍需要局部信息。
+
+**可复用机制** · 三维指代分割可按语义类分配可学习查询，控制点云规模带来的查询数量膨胀。
+
+<a id="paper-deep-correspondence-depth-supervision-vlm"></a>
+
+## Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yeh_Beyond_3D_VQAs_Injecting_3D_Spatial_Priors_into_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yeh_Beyond_3D_VQAs_Injecting_3D_Spatial_Priors_into_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 空间问答微调可能不改善几何不变性，外接三维编码也提高复杂度。
+- **核心创新 / 方法** · 用轻量头对各 Transformer 层施加跨视角对应对比和深度监督。
+- **Baseline** · 比较其他空间推理视觉语言方法。
+- **Benchmark** · All-Angles Bench、VSI-Bench、BLINK，测空间及深度能力。
+- **关键结果 / 消融** · 正文表 1 并列空间关系与相对深度成绩。
+- **适用条件 / 局限** · 需要可信几何训练监督，推理仍受观测视角限制。
+
+**可复用机制** · 可在语言模型多层加入点对应与深度一致监督，避免只靠空间问答学到数据捷径。
+
+<a id="paper-text-disambiguation-for-pressure-motion-reconstruction"></a>
+
+## Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Pressure2Motion_Hierarchical_Human_Motion_Reconstruction_from_Ground_Pressure_with_Text_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Pressure2Motion_Hierarchical_Human_Motion_Reconstruction_from_Ground_Pressure_with_Text_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 地面压力无法唯一决定完整身体姿势。
+- **核心创新 / 方法** · 以双级压力表征和语言提示，结合层级扩散重建人体运动。
+- **Baseline** · 与有压力条件的动作恢复基线比较。
+- **Benchmark** · MPL，报告 FID、足滑、压力中心、关节及轨迹误差。
+- **关键结果 / 消融** · 表 1 并列动作自然性与传感一致性。
+- **适用条件 / 局限** · 文本意图不应替代真实压力证据，对同样压力的多种运动仍存在不确定性。
+
+**可复用机制** · 对不可辨识的低维传感器，可用语言意图调节生成分布并把全局轨迹与局部姿态分开。
+
+<a id="paper-mhe-confidence-faithfulness"></a>
+
+## Making the Classification Explanation Faithful to the Confidence Score
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mi_Making_the_Classification_Explanation_Faithful_to_the_Confidence_Score_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mi_Making_the_Classification_Explanation_Faithful_to_the_Confidence_Score_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只看正向热图难解释为何分数没有更高。
+- **核心创新 / 方法** · MHE 用 Metropolis–Hastings 采样寻找分类置信度相符的区域集合。
+- **Baseline** · 比较现有黑盒解释方法。
+- **Benchmark** · ImageNet，正文报告 AD、AI 和 PNN 等。
+- **关键结果 / 消融** · 表1、2比较解释忠实度。
+- **适用条件 / 局限** · 采样依赖遮挡方式和查询预算，相关性不能单独证明因果。
+
+**可复用机制** · 解释分类时同时寻找支持和削弱置信度的区域，以输出分数核对解释。
+
+<a id="paper-cse-cross-dataset-unlearning"></a>
+
+## Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pramanik_Selective_Amnesia_using_Contrastive_Subnet_Erasure_for_Class_Level_Unlearning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pramanik_Selective_Amnesia_using_Contrastive_Subnet_Erasure_for_Class_Level_Unlearning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只删除训练实例难保证类别知识从编码器消失。
+- **核心创新 / 方法** · CSE 选择并衰减类别相关通道，将变换并入后续层。
+- **Baseline** · 比较全局投影和参数微调等遗忘方法。
+- **Benchmark** · 三类骨干的单类跨数据遗忘和 CIFAR-100 多类遗忘，报告保留、遗忘和调和均值。
+- **关键结果 / 消融** · 正文分别比较单类和多类编辑。
+- **适用条件 / 局限** · 语义近邻可能同受影响，表现下降不能证明信息已完全删除。
+
+**可复用机制** · 在源集定义待忘概念，再到另一个数据集测试陌生上下文中的遗忘及非目标保留。
+
+<a id="paper-vt-intrinsic-ordinal-cues"></a>
+
+## VT-Intrinsic: Physics-Based Decomposition of Reflectance and Shading using a Single Visible-Thermal Image Pair
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yuan_VT-Intrinsic_Physics-Based_Decomposition_of_Reflectance_and_Shading_using_a_Single_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yuan_VT-Intrinsic_Physics-Based_Decomposition_of_Reflectance_and_Shading_using_a_Single_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 真实图片的反射率与阴影真值难以采集。
+- **核心创新 / 方法** · 以可见光及热成像的强度次序约束反射率和光照分解。
+- **Baseline** · 比较物理和学习式本征图像分解。
+- **Benchmark** · 自然及人工光照，已知反射率和阴影的样本报告尺度不变 MSE。
+- **关键结果 / 消融** · 正文比较真实不同光照条件下的恢复。
+- **适用条件 / 局限** · 依赖可见与热图配准及吸收关系，温度、材质辐射率变化需另测。
+
+**可复用机制** · 用跨传感器的相对次序生成自监督，在缺少绝对真值时分离光照与材质。
+
+<a id="paper-infssm-observability-regularization"></a>
+
+## Exemplar-Free Continual Learning for State Space Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Exemplar-Free_Continual_Learning_for_State_Space_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_Exemplar-Free_Continual_Learning_for_State_Space_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 没有旧样本时状态转移可能漂移并造成遗忘。
+- **核心创新 / 方法** · Inf-SSM 正则观测子空间，求解相关矩阵方程。
+- **Baseline** · 比较无样本持续学习及普通权重正则。
+- **Benchmark** · ImageNet-R、CIFAR-100、Caltech-256，评估多阶段准确率与遗忘。
+- **关键结果 / 消融** · 表1、2比较五或十任务设置。
+- **适用条件 / 局限** · 状态维数增大会增加矩阵求解开销，长时轨迹和其他骨干需验证。
+
+**可复用机制** · 持续学习直接约束状态空间长时可观测几何，而非仅限制权重位移。
+
+<a id="paper-s2c2seg-category-subsets"></a>
+
+## S2C2Seg: Semantic-Spatial Consistency and Category Optimization for Open-Vocabulary Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qing_S2C2Seg_Semantic-Spatial_Consistency_and_Category_Optimization_for_Open-Vocabulary_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qing_S2C2Seg_Semantic-Spatial_Consistency_and_Category_Optimization_for_Open-Vocabulary_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 大词表容易引入语义混淆，CLIP 全局相关性也不能保证空间定位。
+- **核心创新 / 方法** · CSS 过滤候选类别，CSG 构造一致的语义指导。
+- **Baseline** · 比较现有分割及分别去除两个模块。
+- **Benchmark** · VOC21、Ctx60 等八项开放词汇分割，报告 mIoU。
+- **关键结果 / 消融** · 正文平均和逐数据比较，并分析模块。
+- **适用条件 / 局限** · 早期筛错会完全删掉小目标类别，召回应独立验证。
+
+**可复用机制** · 开放词汇像素预测前用全局语义、局部存在和跨视图一致性缩小词表。
+
+<a id="paper-adadextracking-modulator-loop"></a>
+
+## AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Adalibieke_AdaDexTrack_Dynamic_Modulation_for_Adaptive_and_Generalizable_Dexterous_Manipulation_Tracking_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 语言生成参考和跨本体重定向含噪，固定跟踪易积累误差。
+- **核心创新 / 方法** · AdaDexTrack 蒸馏通用跟踪器并在环内加入三类反馈调节。
+- **Baseline** · 比较固定参考和移除各反馈组件。
+- **Benchmark** · 灵巧手操作与零样本仿真至实物，报告完成率。
+- **关键结果 / 消融** · 正文分别给出量化与实物比较。
+- **适用条件 / 局限** · 对象状态和接触观测失准时调节可能不稳定。
+
+**可复用机制** · 让通用跟踪器执行技能，由状态反馈在线调整参考、对象表征与末端目标。
+
+<a id="paper-roboperform-audio-style-control"></a>
+
+## Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Do_You_Have_Freestyle_Expressive_Humanoid_Locomotion_via_Audio_Control_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Do_You_Have_Freestyle_Expressive_Humanoid_Locomotion_via_Audio_Control_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 串联音频动作生成与重定向增加延迟和误差。
+- **核心创新 / 方法** · RoboPerform 用 ResMoE 教师适配动作，再让扩散学生注入音频。
+- **Baseline** · 比较现有音频动作及重定向方案。
+- **Benchmark** · BEAT2 等音频运动对齐与物理机器人演示。
+- **关键结果 / 消融** · 正文比较动作同步和物理表现。
+- **适用条件 / 局限** · 动作范围受本体能力约束，未见节奏及稳定性需验证。
+
+**可复用机制** · 将音频用作动作风格条件并直接生成机器人控制，减少人体重建再重定向的误差。
+
+<a id="paper-dynbench-localized-dynamics"></a>
+
+## Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Thinking_in_Dynamics_How_Multimodal_Large_Language_Models_Perceive_Track_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Thinking_in_Dynamics_How_Multimodal_Large_Language_Models_Perceive_Track_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态理解成绩难反映演化场景的时空能力。
+- **核心创新 / 方法** · Dyn-Bench 从真实和合成二维／四维素材筛查动态问题。
+- **Baseline** · 比较当前多模态语言模型在共享视频协议下的结果。
+- **Benchmark** · 正文多个动态任务和筛选阶段，测分项时空表现。
+- **关键结果 / 消融** · 论文给出模型和数据分项分析。
+- **适用条件 / 局限** · 素材与实际机器人观测不同，闭环效果需另测。
+
+**可复用机制** · 分别评估动态变化的局部感知、跟踪和推理，检查模型是否只见静态场景。
+
+<a id="paper-leech-lattice-visual-quantization"></a>
+
+## Spherical Leech Quantization for Visual Tokenization and Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_Spherical_Leech_Quantization_for_Visual_Tokenization_and_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_Spherical_Leech_Quantization_for_Visual_Tokenization_and_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无参数量化的固定码分布可能不均匀，某些方案还需额外训练损失。
+- **核心创新 / 方法** · 用格点编码统一看待固定量化，在单位球上使用高对称的 Leech 格点构造视觉代码。
+- **Baseline** · 比较 LFQ、FSQ、BSQ 和 Fibonacci 格点等。
+- **Benchmark** · 正文评视觉重建、压缩和生成，表 1 比较候选码本的定义及范围。
+- **关键结果 / 消融** · 作者发现 Leech 几何能简化训练并改善所测压缩和重建取舍。
+- **适用条件 / 局限** · 依赖潜向量的归一化和有效维度，换码率或模型需单独检查。
+
+**可复用机制** · 先比较固定码本的几何覆盖，再决定是否需要辅助损失补偿量化偏差。
+
+<a id="paper-robust-diffusion-huber-inverse-solvers"></a>
+
+## Outlier-Robust Diffusion Solvers for Inverse Problems
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_Outlier-Robust_Diffusion_Solvers_for_Inverse_Problems_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_Outlier-Robust_Diffusion_Solvers_for_Inverse_Problems_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 测量异常值在平方误差下会主导数据一致性更新。
+- **核心创新 / 方法** · 显式估计并修正测量噪声，以 Huber 目标迭代重权，并比较梯度下降与共轭梯度求解。
+- **Baseline** · 对比常规扩散求逆及两种鲁棒子问题求解器。
+- **Benchmark** · 线性反问题含 4×超分、70% 掩蔽，比较高斯噪声及 2%、10% 污染设置，另评非线性任务。
+- **关键结果 / 消融** · 表 1 分污染率报告结果，便于区分常规噪声与稀有大异常。
+- **适用条件 / 局限** · 需要设定异常代价与算子模型，大面积结构异常时需重新验证。
+
+**可复用机制** · 扩散先验求逆时把少量异常观测与普通噪声分开处理。
+
+<a id="paper-c2fg-time-dependent-score-discrepancy-guidance"></a>
+
+## C^2FG: Control Classifier-Free Guidance via Score Discrepancy Analysis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gao_C2FG_Control_Classifier-Free_Guidance_via_Score_Discrepancy_Analysis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_C2FG_Control_Classifier-Free_Guidance_via_Score_Discrepancy_Analysis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 有条件和无条件分数的差异随去噪时间变化，固定强度缺少动态依据。
+- **核心创新 / 方法** · 理论约束各时刻分数差异，并用免训练的指数衰减控制函数调节 CFG。
+- **Baseline** · 与固定 CFG 及现有动态权重比较，覆盖多个扩散架构。
+- **Benchmark** · ImageNet 256×256 类条件生成，部分比较 50K 样本和 250 步，报告 FID、IS、sFID。
+- **关键结果 / 消融** · 表 1 跨架构和采样步数对照生成结果。
+- **适用条件 / 局限** · 调度随噪声与模型定义改变，低步数或新求解器要复测。
+
+**可复用机制** · 将引导强度安排在有充分条件分数差异的时间段，避免固定系数。
+
+<a id="paper-thermal-nvs-radiometric-drift-diagnosis"></a>
+
+## Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Aydin_Thermal_is_Always_Wild_Characterizing_and_Addressing_Challenges_in_Thermal-Only_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Aydin_Thermal_is_Always_Wild_Characterizing_and_Addressing_Challenges_in_Thermal-Only_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 热成像动态范围低，帧间亮度波动和缓慢漂移会破坏匹配及几何。
+- **核心创新 / 方法** · 先扩展可用动态范围并稳定每帧光度，再在热观测上拟合高斯重建。
+- **Baseline** · 比较热成像输入的现有新视角合成和预处理配置。
+- **Benchmark** · 六套公开多视图数据，报告场景平均 PSNR、SSIM。
+- **关键结果 / 消融** · 正文将传感器特征与飞点等伪影关联，表 1 比较多数据集效果。
+- **适用条件 / 局限** · 结论主要面向低成本热相机，换传感器和场景需重测漂移分布。
+
+**可复用机制** · 用时标区分热成像快速波动和慢漂移，并检查画质异常是否来自传感器。
+
+<a id="paper-oasis-hierarchical-event-memory-refinement"></a>
+
+## OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_OASIS_On-Demand_Hierarchical_Event_Memory_for_Streaming_Video_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_OASIS_On-Demand_Hierarchical_Event_Memory_for_Streaming_Video_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频历史不断增长，而真正有用的事件很稀少，固定摘要可能删掉它们。
+- **核心创新 / 方法** · 按事件层级组织记忆，将推理做成短上下文起步及按需检索细化的过程。
+- **Baseline** · 比较原 Qwen2.5-VL-7B、Qwen3-VL-8B 及其他流式基线。
+- **Benchmark** · OVO-Bench，包含感知和回溯等场景。
+- **关键结果 / 消融** · 正文表 1 报告两个底座的感知和回溯改善。
+- **适用条件 / 局限** · 事件边界和检索策略决定可恢复性，被早期误分的证据可能难以找到。
+
+**可复用机制** · 将流式历史写入事件树，先短上下文推理，必要时再逐级查回证据。
+
+<a id="paper-geo-midlayer-unique-modal-information-recovery"></a>
+
+## Beyond What's Shared: Recovering Lost Unique Information from Intermediate Layers to Boost Multimodal Geo-Foundation Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Beyond_Whats_Shared_Recovering_Lost_Unique_Information_from_Intermediate_Layers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_Beyond_Whats_Shared_Recovering_Lost_Unique_Information_from_Intermediate_Layers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 地理模型用图像与坐标共享信息训练，但下游未必只需要共享维度。
+- **核心创新 / 方法** · 提取图像对比骨干中间层中与最终表征不同的信息，并用轻量组合送入下游。
+- **Baseline** · 比较原最终表征与中间信息补充变体。
+- **Benchmark** · 地理分类及回归线性探测，三次随机划分报告均值与方差。
+- **关键结果 / 消融** · 表 1 按三分类与四回归任务分列，说明中间信息的价值随目标而变。
+- **适用条件 / 局限** · 需确保新增特征确为独有任务信号，其他骨干层深和域迁移应重测。
+
+**可复用机制** · 跨模态对比模型的末层可能丢失模态私有信息，线性探测时比较中间层补充。

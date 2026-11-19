@@ -801,5 +801,7 @@
 - [SASNet: Spatially-Adaptive Sinusoidal Networks for INRs](../conferences/cvpr-2026/cards.md#paper-sasnet-localized-fixed-frequency-support)
 - [PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-intermediate-geometry-token-alignment)
 - [OccAny: Generalized Unconstrained Urban 3D Occupancy](../conferences/cvpr-2026/cards.md#paper-occany-uncalibrated-metric-occupancy)
+- [Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning](../conferences/cvpr-2026/cards.md#paper-deep-correspondence-depth-supervision-vlm)
+- [Beyond What's Shared: Recovering Lost Unique Information from Intermediate Layers to Boost Multimodal Geo-Foundation Models](../conferences/cvpr-2026/cards.md#paper-geo-midlayer-unique-modal-information-recovery)
 
 <!-- conference-classification:end -->

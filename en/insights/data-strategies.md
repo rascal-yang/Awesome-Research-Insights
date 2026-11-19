@@ -482,5 +482,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Online Data Curation for Object Detection via Marginal Contributions to Dataset-level Average Precision](../../conferences/cvpr-2026/cards.md#paper-detgain-marginal-dataset-ap-curation)
 - [HierAmp: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-hieramp-scale-wise-class-token-distillation)
 - [Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective](../../conferences/cvpr-2026/cards.md#paper-d2c-diffusion-difficulty-select-and-attach)
+- [Regulating Rather than Constraining: Adaptive Guidance for Complex Spectral Reconstruction in Pansharpening](../../conferences/cvpr-2026/cards.md#paper-spatial-spectral-mixing-for-rare-reconstruction)
 
 <!-- conference-classification:end -->

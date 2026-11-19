@@ -431,5 +431,6 @@
 - [VMonarch: Efficient Video Diffusion Transformers with Structured Attention](../conferences/cvpr-2026/cards.md#paper-vmonarch-spatiotemporal-structured-attention)
 - [The Midas Touch for Metric Depth](../conferences/cvpr-2026/cards.md#paper-mtd-segmentwise-sparse-metric-depth)
 - [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](../conferences/cvpr-2026/cards.md#paper-narrative-weaver-dynamic-visual-memory)
+- [OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning](../conferences/cvpr-2026/cards.md#paper-oasis-hierarchical-event-memory-refinement)
 
 <!-- conference-classification:end -->

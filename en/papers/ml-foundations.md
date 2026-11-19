@@ -2651,5 +2651,9 @@ General learning methods, optimization, learning theory, and inference.
 - [Low-Rank Residual Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-lrdm-asymmetric-residual)
 - [Chain of Event-Centric Causal Thought for Physically Plausible Video Generation](../../conferences/cvpr-2026/cards.md#paper-event-chain-causal-video-generation)
 - [Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-residual-guided-instance-normality-learning)
+- [Exemplar-Free Continual Learning for State Space Models](../../conferences/cvpr-2026/cards.md#paper-infssm-observability-regularization)
+- [Spherical Leech Quantization for Visual Tokenization and Generation](../../conferences/cvpr-2026/cards.md#paper-leech-lattice-visual-quantization)
+- [Outlier-Robust Diffusion Solvers for Inverse Problems](../../conferences/cvpr-2026/cards.md#paper-robust-diffusion-huber-inverse-solvers)
+- [C^2FG: Control Classifier-Free Guidance via Score Discrepancy Analysis](../../conferences/cvpr-2026/cards.md#paper-c2fg-time-dependent-score-discrepancy-guidance)
 
 <!-- conference-classification:end -->

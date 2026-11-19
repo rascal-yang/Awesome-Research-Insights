@@ -1748,5 +1748,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation](../../conferences/cvpr-2026/cards.md#paper-differentiable-physics-guidance-object-motion-flow)
 - [Chain of Event-Centric Causal Thought for Physically Plausible Video Generation](../../conferences/cvpr-2026/cards.md#paper-event-chain-causal-video-generation)
 - [MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning](../../conferences/cvpr-2026/cards.md#paper-mmser-small-captioner-visual-refinement)
+- [S2C2Seg: Semantic-Spatial Consistency and Category Optimization for Open-Vocabulary Segmentation](../../conferences/cvpr-2026/cards.md#paper-s2c2seg-category-subsets)
+- [C^2FG: Control Classifier-Free Guidance via Score Discrepancy Analysis](../../conferences/cvpr-2026/cards.md#paper-c2fg-time-dependent-score-discrepancy-guidance)
 
 <!-- conference-classification:end -->

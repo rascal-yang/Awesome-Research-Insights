@@ -1667,5 +1667,12 @@ Learning across modalities such as images, text, audio, and video.
 - [NeuroRule: Bridging Vision and Logic with Differentiable Rule Induction](../../conferences/cvpr-2026/cards.md#paper-neurorule-differentiable-induction)
 - [MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning](../../conferences/cvpr-2026/cards.md#paper-mmser-small-captioner-visual-refinement)
 - [See Further, Think Deeper: Advancing VLM's Reasoning Ability with Low-level Visual Cues and Reflection](../../conferences/cvpr-2026/cards.md#paper-foresight-low-level-visual-tools-reflection)
+- [Regulating Rather than Constraining: Adaptive Guidance for Complex Spectral Reconstruction in Pansharpening](../../conferences/cvpr-2026/cards.md#paper-spatial-spectral-mixing-for-rare-reconstruction)
+- [SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation](../../conferences/cvpr-2026/cards.md#paper-semantic-class-queries-for-3d-referring)
+- [Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning](../../conferences/cvpr-2026/cards.md#paper-deep-correspondence-depth-supervision-vlm)
+- [Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance](../../conferences/cvpr-2026/cards.md#paper-text-disambiguation-for-pressure-motion-reconstruction)
+- [S2C2Seg: Semantic-Spatial Consistency and Category Optimization for Open-Vocabulary Segmentation](../../conferences/cvpr-2026/cards.md#paper-s2c2seg-category-subsets)
+- [Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World](../../conferences/cvpr-2026/cards.md#paper-dynbench-localized-dynamics)
+- [Beyond What's Shared: Recovering Lost Unique Information from Intermediate Layers to Boost Multimodal Geo-Foundation Models](../../conferences/cvpr-2026/cards.md#paper-geo-midlayer-unique-modal-information-recovery)
 
 <!-- conference-classification:end -->

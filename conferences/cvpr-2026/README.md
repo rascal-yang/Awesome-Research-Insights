@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,747 篇，其中 2,391 篇暂收录、1,356 篇排除，另有 295 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,777 篇，其中 2,410 篇暂收录、1,367 篇排除，另有 265 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2397,3 +2397,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,747
 | 机器学习 | 异常检测 | [Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection](cards.md#paper-residual-guided-instance-normality-learning) | 将残差用作查找每个样本正常参考的线索，避免以残差大小直接决定异常。 |
 | 多模态学习 | 主动感知 | [See Further, Think Deeper: Advancing VLM's Reasoning Ability with Low-level Visual Cues and Reflection](cards.md#paper-foresight-low-level-visual-tools-reflection) | 必要时调用低层视觉工具，并用区域遮蔽反馈要求模型重查自己的依据。 |
 | 机器人学 | 几何表征 | [OccAny: Generalized Unconstrained Urban 3D Occupancy](cards.md#paper-occany-uncalibrated-metric-occupancy) | 将视觉几何底座迁到无标定多输入形式的米制占用估计，并分开评完整几何与语义。 |
+| 机器人学 | 训练策略 | [TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size](cards.md#paper-masked-single-agent-motion-priors-cooperation) | 缺少多机器人协作示范时，可在单体动作先验中遮掉交互部位，让任务奖励学习协作接触。 |
+| 多模态学习 | 数据策略 | [Regulating Rather than Constraining: Adaptive Guidance for Complex Spectral Reconstruction in Pansharpening](cards.md#paper-spatial-spectral-mixing-for-rare-reconstruction) | 若混合信号的组合少见，可分别在空间和通道维度生成凸组合增强覆盖。 |
+| 多模态学习 | 模型架构 | [SAQN: Semantic-based Adaptive Query Network for 3D Referring Expression Segmentation](cards.md#paper-semantic-class-queries-for-3d-referring) | 三维指代分割可按语义类分配可学习查询，控制点云规模带来的查询数量膨胀。 |
+| 多模态学习 | 表征学习 | [Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning](cards.md#paper-deep-correspondence-depth-supervision-vlm) | 可在语言模型多层加入点对应与深度一致监督，避免只靠空间问答学到数据捷径。 |
+| 多模态学习 | 模型架构 | [Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance](cards.md#paper-text-disambiguation-for-pressure-motion-reconstruction) | 对不可辨识的低维传感器，可用语言意图调节生成分布并把全局轨迹与局部姿态分开。 |
+| 计算机视觉 | 评测与诊断 | [Making the Classification Explanation Faithful to the Confidence Score](cards.md#paper-mhe-confidence-faithfulness) | 解释分类时同时寻找支持和削弱置信度的区域，以输出分数核对解释。 |
+| 计算机视觉 | 优化策略 | [Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models](cards.md#paper-cse-cross-dataset-unlearning) | 在源集定义待忘概念，再到另一个数据集测试陌生上下文中的遗忘及非目标保留。 |
+| 计算机视觉 | 损失函数 | [VT-Intrinsic: Physics-Based Decomposition of Reflectance and Shading using a Single Visible-Thermal Image Pair](cards.md#paper-vt-intrinsic-ordinal-cues) | 用跨传感器的相对次序生成自监督，在缺少绝对真值时分离光照与材质。 |
+| 机器学习基础与统计 | 损失函数 | [Exemplar-Free Continual Learning for State Space Models](cards.md#paper-infssm-observability-regularization) | 持续学习直接约束状态空间长时可观测几何，而非仅限制权重位移。 |
+| 多模态学习 | 推理策略 | [S2C2Seg: Semantic-Spatial Consistency and Category Optimization for Open-Vocabulary Segmentation](cards.md#paper-s2c2seg-category-subsets) | 开放词汇像素预测前用全局语义、局部存在和跨视图一致性缩小词表。 |
+| 机器人学 | 模型架构 | [AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking](cards.md#paper-adadextracking-modulator-loop) | 让通用跟踪器执行技能，由状态反馈在线调整参考、对象表征与末端目标。 |
+| 机器人学 | 模型架构 | [Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](cards.md#paper-roboperform-audio-style-control) | 将音频用作动作风格条件并直接生成机器人控制，减少人体重建再重定向的误差。 |
+| 多模态学习 | 评测与诊断 | [Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World](cards.md#paper-dynbench-localized-dynamics) | 分别评估动态变化的局部感知、跟踪和推理，检查模型是否只见静态场景。 |
+| 生成模型 | 视觉 Token 化 | [Spherical Leech Quantization for Visual Tokenization and Generation](cards.md#paper-leech-lattice-visual-quantization) | 先比较固定码本的几何覆盖，再决定是否需要辅助损失补偿量化偏差。 |
+| 生成模型 | 鲁棒优化 | [Outlier-Robust Diffusion Solvers for Inverse Problems](cards.md#paper-robust-diffusion-huber-inverse-solvers) | 扩散先验求逆时把少量异常观测与普通噪声分开处理。 |
+| 生成模型 | 采样与调度 | [C^2FG: Control Classifier-Free Guidance via Score Discrepancy Analysis](cards.md#paper-c2fg-time-dependent-score-discrepancy-guidance) | 将引导强度安排在有充分条件分数差异的时间段，避免固定系数。 |
+| 三维视觉 | 传感器选择 | [Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis](cards.md#paper-thermal-nvs-radiometric-drift-diagnosis) | 用时标区分热成像快速波动和慢漂移，并检查画质异常是否来自传感器。 |
+| 智能体 | 记忆机制 | [OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning](cards.md#paper-oasis-hierarchical-event-memory-refinement) | 将流式历史写入事件树，先短上下文推理，必要时再逐级查回证据。 |
+| 多模态学习 | 表征学习 | [Beyond What's Shared: Recovering Lost Unique Information from Intermediate Layers to Boost Multimodal Geo-Foundation Models](cards.md#paper-geo-midlayer-unique-modal-information-recovery) | 跨模态对比模型的末层可能丢失模态私有信息，线性探测时比较中间层补充。 |

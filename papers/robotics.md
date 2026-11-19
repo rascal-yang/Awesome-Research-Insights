@@ -1185,5 +1185,8 @@
 - [EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation](../conferences/cvpr-2026/cards.md#paper-differentiable-physics-guidance-object-motion-flow)
 - [Learning to Act Robustly with View-Invariant Latent Actions](../conferences/cvpr-2026/cards.md#paper-vila-view-invariant-actions)
 - [OccAny: Generalized Unconstrained Urban 3D Occupancy](../conferences/cvpr-2026/cards.md#paper-occany-uncalibrated-metric-occupancy)
+- [TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size](../conferences/cvpr-2026/cards.md#paper-masked-single-agent-motion-priors-cooperation)
+- [AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking](../conferences/cvpr-2026/cards.md#paper-adadextracking-modulator-loop)
+- [Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](../conferences/cvpr-2026/cards.md#paper-roboperform-audio-style-control)
 
 <!-- conference-classification:end -->

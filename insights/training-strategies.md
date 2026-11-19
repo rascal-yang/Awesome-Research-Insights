@@ -1389,5 +1389,6 @@
 - [All Roads Lead to Rome: Incentivizing Divergent Thinking in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-mupo-reasoning-diversity)
 - [GM-R^2: Generative Matching Learning for Unsupervised Geometric Representation and Registration](../conferences/cvpr-2026/cards.md#paper-gmr2-generative-matching)
 - [VA-p: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-vapi-pixel-aware-policy)
+- [TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size](../conferences/cvpr-2026/cards.md#paper-masked-single-agent-motion-priors-cooperation)
 
 <!-- conference-classification:end -->

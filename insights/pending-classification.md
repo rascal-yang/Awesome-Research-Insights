@@ -887,5 +887,7 @@
 - [Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-fisheye-wrist-camera-condition-dependent-benefits)
 - [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](../conferences/cvpr-2026/cards.md#paper-videoseek-evidence-directed-video-tools)
 - [See Further, Think Deeper: Advancing VLM's Reasoning Ability with Low-level Visual Cues and Reflection](../conferences/cvpr-2026/cards.md#paper-foresight-low-level-visual-tools-reflection)
+- [Spherical Leech Quantization for Visual Tokenization and Generation](../conferences/cvpr-2026/cards.md#paper-leech-lattice-visual-quantization)
+- [Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-thermal-nvs-radiometric-drift-diagnosis)
 
 <!-- conference-classification:end -->
