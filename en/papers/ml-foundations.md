@@ -2596,5 +2596,8 @@ General learning methods, optimization, learning theory, and inference.
 - [Learnability-Guided Diffusion for Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-lgd-complementary-distilled-samples)
 - [Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-variance-expansion-latent-perturbation-robustness)
 - [Incremental Object Detection via Future-Aware Decoupled Cross-Head Distillation](../../conferences/cvpr-2026/cards.md#paper-fachd-decoupled-cross-head-distillation)
+- [Stronger Normalization-Free Transformers](../../conferences/cvpr-2026/cards.md#paper-bounded-error-function-transformer-replacement)
+- [Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer](../../conferences/cvpr-2026/cards.md#paper-attention-surgery-hybrid-video-diffusion)
+- [Elastic Weight Consolidation Done Right for Continual Learning](../../conferences/cvpr-2026/cards.md#paper-ewc-fisher-vanishing-redundant-protection)
 
 <!-- conference-classification:end -->

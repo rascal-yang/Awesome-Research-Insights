@@ -1615,5 +1615,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [VABench: A Comprehensive Benchmark for Audio-Video Generation](../../conferences/cvpr-2026/cards.md#paper-vabench-synchronized-audio-video-evaluation)
 - [A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World](../../conferences/cvpr-2026/cards.md#paper-domain-ranking-versus-single-threshold-calibration)
 - [Rounded or Streamlined Head? Bridging Concept Bottleneck Models and Attribute-Described Object Parts](../../conferences/cvpr-2026/cards.md#paper-part-attribute-concept-bottlenecks)
+- [When AVSR Meets Video Conferencing: Dataset, Degradation, and the Hidden Mechanism Behind Performance Collapse](../../conferences/cvpr-2026/cards.md#paper-delivery-pipeline-distribution-shift-avsr)
+- [CARLoS: Retrieval via Concise Assessment Representation of LoRAs at Scale](../../conferences/cvpr-2026/cards.md#paper-carlos-behavior-probing)
 
 <!-- conference-classification:end -->

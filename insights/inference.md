@@ -1697,5 +1697,10 @@
 - [KV-Tracker: Real-Time Pose Tracking with Transformers](../conferences/cvpr-2026/cards.md#paper-kvtracker-bidirectional-cache)
 - [PhysGen: Physically Grounded 3D Shape Generation for Industrial Design](../conferences/cvpr-2026/cards.md#paper-physgen-alternating-refinement)
 - [Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-variation-aware-token-dropping)
+- [DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-decovln-adaptive-memory)
+- [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](../conferences/cvpr-2026/cards.md#paper-dual-agent-vio-gating)
+- [FastHybrid: Accelerating Hybrid Autoregressive Image Generation with Lookahead and Guided Decoding](../conferences/cvpr-2026/cards.md#paper-fasthybrid-lookahead-decoding)
+- [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](../conferences/cvpr-2026/cards.md#paper-viro-verification-integrated-operators)
+- [Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction](../conferences/cvpr-2026/cards.md#paper-stamp-parallel-all-mask-prediction)
 
 <!-- conference-classification:end -->

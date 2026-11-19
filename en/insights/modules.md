@@ -426,5 +426,7 @@ Reusable components and local changes to model inputs or connections.
 - [VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](../../conferences/cvpr-2026/cards.md#paper-vecattention-vertical-vector-sparsity)
 - [Multi-view Pyramid Transformer: Look Coarser to See Broader](../../conferences/cvpr-2026/cards.md#paper-mvp-view-spatial-dual-hierarchy)
 - [Information-Theoretic Decomposition for Multimodal Interaction Learning](../../conferences/cvpr-2026/cards.md#paper-decomposition-sample-specific-modal-interactions)
+- [Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-shapley-modality-learning-regulation)
+- [Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer](../../conferences/cvpr-2026/cards.md#paper-attention-surgery-hybrid-video-diffusion)
 
 <!-- conference-classification:end -->

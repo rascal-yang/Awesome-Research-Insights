@@ -774,5 +774,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation](../../conferences/cvpr-2026/cards.md#paper-angular-margin-open-set-camera-shift)
 - [PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-continuous-gaussian-bridge-2d-to-3d-segmentation)
 - [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](../../conferences/cvpr-2026/cards.md#paper-explicit-geometry-curriculum-pretraining)
+- [A More Word-like Image Tokenization for MLLMs](../../conferences/cvpr-2026/cards.md#paper-semantic-cluster-adaptive-visual-tokenization)
+- [Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-subspace-projection-posthoc-fairness)
 
 <!-- conference-classification:end -->

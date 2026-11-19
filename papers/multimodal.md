@@ -1568,5 +1568,13 @@
 - [Rounded or Streamlined Head? Bridging Concept Bottleneck Models and Attribute-Described Object Parts](../conferences/cvpr-2026/cards.md#paper-part-attribute-concept-bottlenecks)
 - [MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](../conferences/cvpr-2026/cards.md#paper-mrd-global-detection-multiresolution-retrieval)
 - [TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](../conferences/cvpr-2026/cards.md#paper-transprune-representation-transition-token-importance)
+- [When AVSR Meets Video Conferencing: Dataset, Degradation, and the Hidden Mechanism Behind Performance Collapse](../conferences/cvpr-2026/cards.md#paper-delivery-pipeline-distribution-shift-avsr)
+- [A More Word-like Image Tokenization for MLLMs](../conferences/cvpr-2026/cards.md#paper-semantic-cluster-adaptive-visual-tokenization)
+- [Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-subspace-projection-posthoc-fairness)
+- [SAMTok: Representing Any Mask with Two Words](../conferences/cvpr-2026/cards.md#paper-samtok-discrete-masks)
+- [Iris: Integrating Language into Diffusion-based Monocular Depth Estimation](../conferences/cvpr-2026/cards.md#paper-iris-language-depth)
+- [SafeLogo: Turning Your Logos into Jailbreak Shields via Micro-Regional Adversarial Training](../conferences/cvpr-2026/cards.md#paper-safelogo-localized-defense)
+- [Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation](../conferences/cvpr-2026/cards.md#paper-shapley-modality-learning-regulation)
+- [Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction](../conferences/cvpr-2026/cards.md#paper-stamp-parallel-all-mask-prediction)
 
 <!-- conference-classification:end -->

@@ -1140,5 +1140,7 @@ Robot perception, policy learning, planning, and control.
 - [Bridging the 2D-3D Gap: A Hierarchical Semantic-Geometric Map for Vision Language Navigation](../../conferences/cvpr-2026/cards.md#paper-hsgm-navigation-map)
 - [SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](../../conferences/cvpr-2026/cards.md#paper-sparseworld-tc-trajectory-conditioned-occupancy)
 - [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](../../conferences/cvpr-2026/cards.md#paper-unposed-driving-temporal-teacher-pretraining)
+- [DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation](../../conferences/cvpr-2026/cards.md#paper-decovln-adaptive-memory)
+- [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](../../conferences/cvpr-2026/cards.md#paper-dual-agent-vio-gating)
 
 <!-- conference-classification:end -->

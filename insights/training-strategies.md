@@ -1328,5 +1328,10 @@
 - [Progressive Supernet Training for Efficient Visual Autoregressive Modeling](../conferences/cvpr-2026/cards.md#paper-variant-scale-adaptive-depth)
 - [Incremental Object Detection via Future-Aware Decoupled Cross-Head Distillation](../conferences/cvpr-2026/cards.md#paper-fachd-decoupled-cross-head-distillation)
 - [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](../conferences/cvpr-2026/cards.md#paper-unposed-driving-temporal-teacher-pretraining)
+- [Towards High-Quality Image Segmentation: Improving Topology Accuracy by Penalizing Neighbor Pixels](../conferences/cvpr-2026/cards.md#paper-worst-neighbor-logits-topology-loss)
+- [Iris: Integrating Language into Diffusion-based Monocular Depth Estimation](../conferences/cvpr-2026/cards.md#paper-iris-language-depth)
+- [PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](../conferences/cvpr-2026/cards.md#paper-petdino-alignment-friendly-prompts)
+- [SafeLogo: Turning Your Logos into Jailbreak Shields via Micro-Regional Adversarial Training](../conferences/cvpr-2026/cards.md#paper-safelogo-localized-defense)
+- [Elastic Weight Consolidation Done Right for Continual Learning](../conferences/cvpr-2026/cards.md#paper-ewc-fisher-vanishing-redundant-protection)
 
 <!-- conference-classification:end -->

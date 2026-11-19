@@ -2470,5 +2470,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding](../../conferences/cvpr-2026/cards.md#paper-kfra-evidence-focused-agent)
 - [Interactive Episodic Memory with User Feedback](../../conferences/cvpr-2026/cards.md#paper-episodic-interactive-memory)
 - [DialogueVPR: Towards Conversational Visual Place Recognition](../../conferences/cvpr-2026/cards.md#paper-dialoguevpr-clarifying-loop)
+- [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](../../conferences/cvpr-2026/cards.md#paper-viro-verification-integrated-operators)
 
 <!-- conference-classification:end -->

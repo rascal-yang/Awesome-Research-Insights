@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,327 篇，其中 2,105 篇暂收录、1,222 篇排除，另有 715 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,357 篇，其中 2,126 篇暂收录、1,231 篇排除，另有 685 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2111,3 +2111,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,327
 | 机器人学 | 自监督表征 | [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](cards.md#paper-unposed-driving-temporal-teacher-pretraining) | 用无位姿驾驶视频中跨帧的几何与语义伪监督学习动态感知。 |
 | 多模态学习 | 检索增强 | [MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](cards.md#paper-mrd-global-detection-multiresolution-retrieval) | 高分辨率问答先保住全局对象范围，再用多分辨率局部证据补细节。 |
 | 多模态学习 | 视觉 Token 筛选 | [TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](cards.md#paper-transprune-representation-transition-token-importance) | 用视觉 token 在模型层间的表示变化衡量重要性，与静态注意分数比较。 |
+| 计算机视觉 | 训练策略 | [Towards High-Quality Image Segmentation: Improving Topology Accuracy by Penalizing Neighbor Pixels](cards.md#paper-worst-neighbor-logits-topology-loss) | 拓扑敏感分割可用最差邻点约束局部 logits，让训练优先修补断裂。 |
+| 机器学习基础与统计 | 模型架构 | [Stronger Normalization-Free Transformers](cards.md#paper-bounded-error-function-transformer-replacement) | 可用可学习的有界误差函数代替归一化，并分别验证有界性与中心化。 |
+| 计算机视觉 | 模型架构 | [InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space](cards.md#paper-bilateral-affine-grid-fast-structure-preserving-edit) | 只需改变颜色或色调时，可用低维仿射网格将变化限制在外观层并高效作用于全分辨率。 |
+| 计算机视觉 | 模型架构 | [Residual Decoder Adapter: ID-Preserving Tokenizer Adaption for Autoregressive Text Rendering](cards.md#paper-fixed-token-space-residual-decoder-upgrade) | 视觉生成的细节瓶颈若在解码器，可冻结 token 接口，训练残差解码器避免重训自回归生成器。 |
+| 多模态学习 | 评测与诊断 | [When AVSR Meets Video Conferencing: Dataset, Degradation, and the Hidden Mechanism Behind Performance Collapse](cards.md#paper-delivery-pipeline-distribution-shift-avsr) | 部署多模态模型时，应单独消融传输和预处理组件，以排查数据分布转移到底来自哪里。 |
+| 多模态学习 | 表征学习 | [A More Word-like Image Tokenization for MLLMs](cards.md#paper-semantic-cluster-adaptive-visual-tokenization) | 面向语言模型的图像 token 可由语义簇替代固定空间网格，并按图像复杂性调整数目。 |
+| 多模态学习 | 表征学习 | [Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models](cards.md#paper-subspace-projection-posthoc-fairness) | 表征偏差可分布在少数线性子空间中，移除投影比按独立坐标替换更适合该情形。 |
+| 多模态学习 | 模型架构 | [SAMTok: Representing Any Mask with Two Words](cards.md#paper-samtok-discrete-masks) | 将密集掩膜压成少量离散令牌，复用语言模型的输入输出接口。 |
+| 多模态学习 | 训练策略 | [Iris: Integrating Language into Diffusion-based Monocular Depth Estimation](cards.md#paper-iris-language-depth) | 把可核实的文字场景线索作为单目深度的额外条件，并测试它在哪些区域有用。 |
+| 计算机视觉 | 评测与诊断 | [CARLoS: Retrieval via Concise Assessment Representation of LoRAs at Scale](cards.md#paper-carlos-behavior-probing) | 按相同提示和随机种子测适配器相对基座的行为变化，索引语义方向、幅度和一致性。 |
+| 机器人学 | 推理策略 | [DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation](cards.md#paper-decovln-adaptive-memory) | 有限导航记忆联合优化指令相关性、视觉多样性和时间覆盖，并用状态动作纠偏。 |
+| 计算机视觉 | 训练策略 | [PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](cards.md#paper-petdino-alignment-friendly-prompts) | 在文本提示检测器现有接口中加入可对齐的视觉提示，支持难用语言描述的类别。 |
+| 机器人学 | 推理策略 | [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](cards.md#paper-dual-agent-vio-gating) | 分别学习何时调用视觉前端和何时降低视觉测量权重，减少惯性里程计的计算。 |
+| 计算机视觉 | 模型架构 | [UniRefiner: Teaching Pre-trained ViTs to Self-Dispose Dross via Contrastive Register](cards.md#paper-unirefiner-contrastive-registers) | 把不能表示当前位置语义的令牌视为伪影，用专用寄存令牌隔离。 |
+| 多模态学习 | 训练策略 | [SafeLogo: Turning Your Logos into Jailbreak Shields via Micro-Regional Adversarial Training](cards.md#paper-safelogo-localized-defense) | 评估轻量视觉防护时同时测安全表现和普通任务效用。 |
+| 计算机视觉 | 推理策略 | [FastHybrid: Accelerating Hybrid Autoregressive Image Generation with Lookahead and Guided Decoding](cards.md#paper-fasthybrid-lookahead-decoding) | 先行预测全局语义，让低延迟细节生成与自回归结构步骤部分重叠。 |
+| 多模态学习 | 传感器融合 | [Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation](cards.md#paper-shapley-modality-learning-regulation) | 以模态边际贡献诊断训练失衡，在早期调节较快模态的学习。 |
+| 生成模型 | 高效注意力 | [Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer](cards.md#paper-attention-surgery-hybrid-video-diffusion) | 以轻量蒸馏将预训练视频模型改成混合线性和 softmax 注意力。 |
+| 机器学习 | 持续学习 | [Elastic Weight Consolidation Done Right for Continual Learning](cards.md#paper-ewc-fisher-vanishing-redundant-protection) | 用梯度诊断权重保护是否漏掉重要参数或保护无关参数。 |
+| 智能体 | 推理时校验 | [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](cards.md#paper-viro-verification-integrated-operators) | 把验证装到每个中间操作上，证据不足时返回空结果防止错误积累。 |
+| 多模态学习 | 并行解码 | [Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction](cards.md#paper-stamp-parallel-all-mask-prediction) | 保持对话自回归，同时将密集掩码切换到并行预测。 |

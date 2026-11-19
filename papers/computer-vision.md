@@ -1639,5 +1639,12 @@
 - [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](../conferences/cvpr-2026/cards.md#paper-explicit-geometry-curriculum-pretraining)
 - [FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-framer-frequency-self-distillation)
 - [Progressive Supernet Training for Efficient Visual Autoregressive Modeling](../conferences/cvpr-2026/cards.md#paper-variant-scale-adaptive-depth)
+- [Towards High-Quality Image Segmentation: Improving Topology Accuracy by Penalizing Neighbor Pixels](../conferences/cvpr-2026/cards.md#paper-worst-neighbor-logits-topology-loss)
+- [InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space](../conferences/cvpr-2026/cards.md#paper-bilateral-affine-grid-fast-structure-preserving-edit)
+- [Residual Decoder Adapter: ID-Preserving Tokenizer Adaption for Autoregressive Text Rendering](../conferences/cvpr-2026/cards.md#paper-fixed-token-space-residual-decoder-upgrade)
+- [CARLoS: Retrieval via Concise Assessment Representation of LoRAs at Scale](../conferences/cvpr-2026/cards.md#paper-carlos-behavior-probing)
+- [PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](../conferences/cvpr-2026/cards.md#paper-petdino-alignment-friendly-prompts)
+- [UniRefiner: Teaching Pre-trained ViTs to Self-Dispose Dross via Contrastive Register](../conferences/cvpr-2026/cards.md#paper-unirefiner-contrastive-registers)
+- [FastHybrid: Accelerating Hybrid Autoregressive Image Generation with Lookahead and Guided Decoding](../conferences/cvpr-2026/cards.md#paper-fasthybrid-lookahead-decoding)
 
 <!-- conference-classification:end -->

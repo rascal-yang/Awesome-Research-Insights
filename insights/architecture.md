@@ -797,5 +797,10 @@
 - [x^2-Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space](../conferences/cvpr-2026/cards.md#paper-x2fusion-event-edge-space)
 - [RPGFusion: 4D Radar Prior-Guided Multi-Modal Fusion for 3D Detection](../conferences/cvpr-2026/cards.md#paper-rpgfusion-radar-guided-sampling)
 - [Bridging the 2D-3D Gap: A Hierarchical Semantic-Geometric Map for Vision Language Navigation](../conferences/cvpr-2026/cards.md#paper-hsgm-navigation-map)
+- [Stronger Normalization-Free Transformers](../conferences/cvpr-2026/cards.md#paper-bounded-error-function-transformer-replacement)
+- [InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space](../conferences/cvpr-2026/cards.md#paper-bilateral-affine-grid-fast-structure-preserving-edit)
+- [Residual Decoder Adapter: ID-Preserving Tokenizer Adaption for Autoregressive Text Rendering](../conferences/cvpr-2026/cards.md#paper-fixed-token-space-residual-decoder-upgrade)
+- [SAMTok: Representing Any Mask with Two Words](../conferences/cvpr-2026/cards.md#paper-samtok-discrete-masks)
+- [UniRefiner: Teaching Pre-trained ViTs to Self-Dispose Dross via Contrastive Register](../conferences/cvpr-2026/cards.md#paper-unirefiner-contrastive-registers)
 
 <!-- conference-classification:end -->
