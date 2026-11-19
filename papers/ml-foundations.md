@@ -2415,5 +2415,7 @@
 - [Enhancing Visual Representation with Textual Semantics: Textual Semantics-Powered Prototypes for Heterogeneous Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedtsp-semantic-preserving-federated-prototypes)
 - [Machine Unlearning via Adaptive Gradient Reweighting and Multi-stage Objective Optimization](../conferences/cvpr-2026/cards.md#paper-adaptive-gradient-unlearning)
 - [Image-based Outlier Synthesis With Training Data](../conferences/cvpr-2026/cards.md#paper-ascood-inlier-derived-outliers)
+- [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](../conferences/cvpr-2026/cards.md#paper-twig-interleaved-regional-reasoning)
+- [Dual-Granularity Memory for Efficient Video Generation](../conferences/cvpr-2026/cards.md#paper-dual-granularity-memory-video-generation)
 
 <!-- conference-classification:end -->

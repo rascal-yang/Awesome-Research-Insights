@@ -776,5 +776,6 @@
 - [POCA: Pareto-Optimal Curriculum Alignment for Visual Text Generation](../conferences/cvpr-2026/cards.md#paper-poca)
 - [Monet: Reasoning in Latent Visual Space Beyond Image and Language](../conferences/cvpr-2026/cards.md#paper-monet-visual-latent)
 - [Stepwise Credit Assignment for GRPO on Flow-Matching Models](../conferences/cvpr-2026/cards.md#paper-stepwise-flow-grpo-reward-gain-credit)
+- [Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing](../conferences/cvpr-2026/cards.md#paper-realign-in-context-editing)
 
 <!-- conference-classification:end -->

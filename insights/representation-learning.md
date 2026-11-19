@@ -655,5 +655,8 @@
 - [Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](../conferences/cvpr-2026/cards.md#paper-dictionary-missing-infrared)
 - [Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](../conferences/cvpr-2026/cards.md#paper-qwen-image-layered-rgba)
 - [LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](../conferences/cvpr-2026/cards.md#paper-locateanything3d-chain-of-sight)
+- [A Bit is All You Need! Efficient Video Capture via Single Bit Imaging](../conferences/cvpr-2026/cards.md#paper-one-bit-computational-video)
+- [LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-lottiegpt-native-animation)
+- [Matching Every Pair to Track Every Point: PairFormer for All-Pairs Tracking and Video Trajectory Fields](../conferences/cvpr-2026/cards.md#paper-pairformer-all-pairs-tracking)
 
 <!-- conference-classification:end -->

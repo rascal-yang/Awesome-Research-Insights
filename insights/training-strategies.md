@@ -1083,5 +1083,9 @@
 - [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](../conferences/cvpr-2026/cards.md#paper-afro-latent-dynamics)
 - [Machine Unlearning via Adaptive Gradient Reweighting and Multi-stage Objective Optimization](../conferences/cvpr-2026/cards.md#paper-adaptive-gradient-unlearning)
 - [Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation](../conferences/cvpr-2026/cards.md#paper-proxy-tuning-ar)
+- [CLIP Is Shortsighted: Paying Attention Beyond the First Sentence](../conferences/cvpr-2026/cards.md#paper-debias-clip)
+- [Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation](../conferences/cvpr-2026/cards.md#paper-carve-geometry-ablation)
+- [Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling](../conferences/cvpr-2026/cards.md#paper-upsample-anything)
+- [Exploring Conditions for Diffusion Models in Robotic Control](../conferences/cvpr-2026/cards.md#paper-orca-task-adaptive-diffusion-features)
 
 <!-- conference-classification:end -->

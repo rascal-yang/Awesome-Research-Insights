@@ -808,5 +808,8 @@
 - [Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-svd-cache-forecast-principal-stabilize-residual)
 - [Learnability-Driven Submodular Optimization for Active Roadside 3D Detection](../../conferences/cvpr-2026/cards.md#paper-learnability-aware-active-geometry-labeling)
 - [Gradient Knows Best: Mixed-Precision Quantization via Gradient-Guided Bit Allocation for Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-gradient-guided-weight-activation-bit-allocation)
+- [Adaptive Spatial-Temporal Window: Unlocking the Potential of Event Cameras in Heterogeneous Velocity Scenarios](../../conferences/cvpr-2026/cards.md#paper-astw-local-event-time-window)
+- [Dual-Granularity Memory for Efficient Video Generation](../../conferences/cvpr-2026/cards.md#paper-dual-granularity-memory-video-generation)
+- [RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-rs-ssm-complementary-forgotten-detail)
 
 <!-- conference-classification:end -->

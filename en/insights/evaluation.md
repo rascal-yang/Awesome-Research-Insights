@@ -1509,5 +1509,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-curve-evidence-graphs)
 - [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-timelens-benchmark-audit)
 - [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-daco-concept-aligned-safety)
+- [VinQA: Visual Elements Interleaved Long-form Answer Generation for Real-World Multimodal Document QA](../../conferences/cvpr-2026/cards.md#paper-vinqa-page-versus-element-citation-encoding)
 
 <!-- conference-classification:end -->

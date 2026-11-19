@@ -1278,5 +1278,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking](../../conferences/cvpr-2026/cards.md#paper-tagsplat-topology-preserving-dynamic-gaussians)
 - [Diffusion-Based Native Adversarial Synthesis for Enhanced Medical Segmentation Generalization](../../conferences/cvpr-2026/cards.md#paper-synthetic-hard-example-utility)
 - [LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](../../conferences/cvpr-2026/cards.md#paper-locateanything3d-chain-of-sight)
+- [RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-rs-ssm-complementary-forgotten-detail)
+- [A Bit is All You Need! Efficient Video Capture via Single Bit Imaging](../../conferences/cvpr-2026/cards.md#paper-one-bit-computational-video)
+- [Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation](../../conferences/cvpr-2026/cards.md#paper-carve-geometry-ablation)
+- [No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-lavida-pseudo-anomalies)
+- [Matching Every Pair to Track Every Point: PairFormer for All-Pairs Tracking and Video Trajectory Fields](../../conferences/cvpr-2026/cards.md#paper-pairformer-all-pairs-tracking)
+- [Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling](../../conferences/cvpr-2026/cards.md#paper-upsample-anything)
+- [Sparsity-Aware Voxel Attention and Foreground Modulation for 3D Semantic Scene Completion](../../conferences/cvpr-2026/cards.md#paper-voxsamnet-empty-voxel-shortcut)
 
 <!-- conference-classification:end -->

@@ -958,5 +958,9 @@ Robot perception, policy learning, planning, and control.
 - [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-pointworld)
 - [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](../../conferences/cvpr-2026/cards.md#paper-afro-latent-dynamics)
 - [StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation](../../conferences/cvpr-2026/cards.md#paper-stamo-compact-latent-state-and-motion-difference)
+- [AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](../../conferences/cvpr-2026/cards.md#paper-awarevln-progress-gated-reasoning)
+- [Adaptive Spatial-Temporal Window: Unlocking the Potential of Event Cameras in Heterogeneous Velocity Scenarios](../../conferences/cvpr-2026/cards.md#paper-astw-local-event-time-window)
+- [RAG-TP: A General Framework for Vehicle Trajectory Prediction via Retrieval-Augmented Generation](../../conferences/cvpr-2026/cards.md#paper-rag-tp-retrieved-trajectory-experts)
+- [Exploring Conditions for Diffusion Models in Robotic Control](../../conferences/cvpr-2026/cards.md#paper-orca-task-adaptive-diffusion-features)
 
 <!-- conference-classification:end -->

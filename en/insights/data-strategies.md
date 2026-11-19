@@ -414,5 +414,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Diffusion-Based Native Adversarial Synthesis for Enhanced Medical Segmentation Generalization](../../conferences/cvpr-2026/cards.md#paper-synthetic-hard-example-utility)
 - [PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-propfly-online-paired-supervision)
 - [Image-based Outlier Synthesis With Training Data](../../conferences/cvpr-2026/cards.md#paper-ascood-inlier-derived-outliers)
+- [RAG-TP: A General Framework for Vehicle Trajectory Prediction via Retrieval-Augmented Generation](../../conferences/cvpr-2026/cards.md#paper-rag-tp-retrieved-trajectory-experts)
+- [No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-lavida-pseudo-anomalies)
 
 <!-- conference-classification:end -->

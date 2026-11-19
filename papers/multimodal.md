@@ -1200,5 +1200,12 @@
 - [PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models](../conferences/cvpr-2026/cards.md#paper-propfly-online-paired-supervision)
 - [Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](../conferences/cvpr-2026/cards.md#paper-qwen-image-layered-rgba)
 - [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](../conferences/cvpr-2026/cards.md#paper-daco-concept-aligned-safety)
+- [VinQA: Visual Elements Interleaved Long-form Answer Generation for Real-World Multimodal Document QA](../conferences/cvpr-2026/cards.md#paper-vinqa-page-versus-element-citation-encoding)
+- [Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing](../conferences/cvpr-2026/cards.md#paper-realign-in-context-editing)
+- [PositionIC: Unified Position and Identity Consistency for Image Customization](../conferences/cvpr-2026/cards.md#paper-positionic)
+- [CLIP Is Shortsighted: Paying Attention Beyond the First Sentence](../conferences/cvpr-2026/cards.md#paper-debias-clip)
+- [LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-lottiegpt-native-animation)
+- [TV2TV: A Unified Framework for Interleaved Language and Video Generation](../conferences/cvpr-2026/cards.md#paper-tv2tv-interleaved-video-language)
+- [LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration](../conferences/cvpr-2026/cards.md#paper-lesa-stage-aware-forecasting)
 
 <!-- conference-classification:end -->

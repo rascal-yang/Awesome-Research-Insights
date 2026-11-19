@@ -1484,5 +1484,9 @@
 - [When to Think and When to Look: Uncertainty-Guided Lookback](../conferences/cvpr-2026/cards.md#paper-uncertainty-guided-lookback)
 - [Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table](../conferences/cvpr-2026/cards.md#paper-llt-temporal-action)
 - [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](../conferences/cvpr-2026/cards.md#paper-proof-of-perception-conformal-tools)
+- [AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](../conferences/cvpr-2026/cards.md#paper-awarevln-progress-gated-reasoning)
+- [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](../conferences/cvpr-2026/cards.md#paper-twig-interleaved-regional-reasoning)
+- [Sparsity-Aware Voxel Attention and Foreground Modulation for 3D Semantic Scene Completion](../conferences/cvpr-2026/cards.md#paper-voxsamnet-empty-voxel-shortcut)
+- [LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration](../conferences/cvpr-2026/cards.md#paper-lesa-stage-aware-forecasting)
 
 <!-- conference-classification:end -->

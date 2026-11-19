@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,557 篇，其中 986 篇暂收录、571 篇排除，另有 2,485 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,587 篇，其中 1,006 篇暂收录、581 篇排除，另有 2,455 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -992,3 +992,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,557
 | 计算机视觉 | 表示学习 | [LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](cards.md#paper-locateanything3d-chain-of-sight) | 统一视觉语言检测可先输出二维证据，再分解三维中心、尺度和姿态，并检验近远顺序。 |
 | 多模态学习 | 可解释性与诊断 | [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](cards.md#paper-daco-concept-aligned-safety) | 评估推理时安全调节时，同时测目标概念的可控性和非目标任务是否受损。 |
 | 机器学习基础 | 训练与数据策略 | [Image-based Outlier Synthesis With Training Data](cards.md#paper-ascood-inlier-derived-outliers) | 没有外部异常样本时，训练检测器应检验从正常数据构造的反例是否覆盖细粒度和伪相关两种失败。 |
+| 机器人学 | 规划与控制 | [AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](cards.md#paper-awarevln-progress-gated-reasoning) | 导航训练可对进度、偏航和停止分别提供监督，并比较只在关键节点推理与每步都推理。见表 3、4。 |
+| 生成模型 | 推理策略 | [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](cards.md#paper-twig-interleaved-regional-reasoning) | 空间组合生成可在合成过程中交替写局部计划与复核已完成区域，避免把所有规划放在开头。见表 3。 |
+| 机器人学 | 时序建模 | [Adaptive Spatial-Temporal Window: Unlocking the Potential of Event Cameras in Heterogeneous Velocity Scenarios](cards.md#paper-astw-local-event-time-window) | 同场景运动速度不同，可按图像局部密度设事件整合窗口，并对比全局时窗。见表 3。 |
+| 生成模型 | 时序建模 | [Dual-Granularity Memory for Efficient Video Generation](cards.md#paper-dual-granularity-memory-video-generation) | 分块视频生成可分开维护块边界与跨段潜状态检索，并根据相关性设置回忆预算。见表 4。 |
+| 计算机视觉 | 时序建模 | [RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation](cards.md#paper-rs-ssm-complementary-forgotten-detail) | 状态空间模型压缩后做像素任务时，可另建遗忘细节支路，比较双向常规模型是否足够。见表 3。 |
+| 多模态学习 | 评估与诊断 | [VinQA: Visual Elements Interleaved Long-form Answer Generation for Real-World Multimodal Document QA](cards.md#paper-vinqa-page-versus-element-citation-encoding) | 文档答案需可核查图表时，可对照整页带框与各模态单独编码，检查引用与答复质量是否同步改善。见表 3。 |
+| 机器人学 | 检索增强 | [RAG-TP: A General Framework for Vehicle Trajectory Prediction via Retrieval-Augmented Generation](cards.md#paper-rag-tp-retrieved-trajectory-experts) | 轨迹预测可按当前场景检索相似拓扑和历史运动，再比较直接融合与对检索候选加权。见表 2。 |
+| 多模态学习 | 强化学习 | [Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing](cards.md#paper-realign-in-context-editing) | 图文交织编辑先区分要实现的语义目标与各参考图对应关系，再单测生成是否遵守。 |
+| 计算机视觉 | 输入表示 | [A Bit is All You Need! Efficient Video Capture via Single Bit Imaging](cards.md#paper-one-bit-computational-video) | 高带宽传感可比较时变阈值量化与同预算固定阈值，然后用时间冗余恢复。 |
+| 多模态学习 | 模型架构 | [PositionIC: Unified Position and Identity Consistency for Image Customization](cards.md#paper-positionic) | 多主体定制可改用带可见性约束的注意力，分别验位置和身份，不只验全局图像相似。 |
+| 多模态学习 | 训练策略 | [CLIP Is Shortsighted: Paying Attention Beyond the First Sentence](cards.md#paper-debias-clip) | 长描述训练先审计首句是否成为捷径，考虑移除摘要、随机采样句子及按位置补齐。 |
+| 计算机视觉 | 训练策略 | [Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation](cards.md#paper-carve-geometry-ablation) | 三维时序模型可同时监督序列与帧级对齐，单独比较局部和置信度损失是否帮助。 |
+| 计算机视觉 | 数据增强 | [No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection](cards.md#paper-lavida-pseudo-anomalies) | 稀有异常可以先在正常视频上构造语义伪异常，并在全新基准测是否能识别未见类型。 |
+| 多模态学习 | 输入表示 | [LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](cards.md#paper-lottiegpt-native-animation) | 生成可编辑动态内容时直接预测图层与关键帧参数，评估文本与图像条件的差异。 |
+| 计算机视觉 | 表示学习 | [Matching Every Pair to Track Every Point: PairFormer for All-Pairs Tracking and Video Trajectory Fields](cards.md#paper-pairformer-all-pairs-tracking) | 多个查询要复用同一视频运动时，直接输出全帧对位移和可见性场。 |
+| 计算机视觉 | 微调与适配 | [Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling](cards.md#paper-upsample-anything) | 将低分辨率特征升到像素时，先试逐图拟合可借原图边界的各向异性核。 |
+| 计算机视觉 | 推理优化 | [Sparsity-Aware Voxel Attention and Foreground Modulation for 3D Semantic Scene Completion](cards.md#paper-voxsamnet-empty-voxel-shortcut) | 占据预测的空体素极多时，让空区共享旁路，把可变形注意力留给可能占据的位置。 |
+| 机器人学 | 微调与适配 | [Exploring Conditions for Diffusion Models in Robotic Control](cards.md#paper-orca-task-adaptive-diffusion-features) | 把冻结生成模型当机器人视觉编码器时，分开测试任务可学提示和当前帧视觉提示。 |
+| 多模态学习 | 模型架构 | [TV2TV: A Unified Framework for Interleaved Language and Video Generation](cards.md#paper-tv2tv-interleaved-video-language) | 生成长叙事可让语言计划和像素生成交织，推理期间也允许更新计划。 |
+| 多模态学习 | 推理优化 | [LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration](cards.md#paper-lesa-stage-aware-forecasting) | 加速扩散缓存时可按噪声阶段分别学习特征预测器，避免用单个外推规则。 |
