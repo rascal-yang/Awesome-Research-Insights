@@ -1384,5 +1384,10 @@ Training schedules, curricula, and task or stage composition.
 - [Curriculum Group Policy Optimization: Adaptive Sampling for Unleashing the Potential of Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-cgpo-adaptive-curriculum)
 - [Stabilizing Feature Geometry in Noisy Pretrained Models for Robust Downstream Tasks](../../conferences/cvpr-2026/cards.md#paper-pretrained-noise-subspace-rotation)
 - [Cinematic Audio Source Separation Using Visual Cues](../../conferences/cvpr-2026/cards.md#paper-avcass-synthetic-visual-source-pairing)
+- [Polyphony: Diffusion-based Dual-Hand Action Segmentation with Alternating Vision Transformer and Semantic Conditioning](../../conferences/cvpr-2026/cards.md#paper-alternating-gradient-bimanual-action-encoding)
+- [Learning to See through Illumination Extremes with Event Streaming in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-exposure-indicator-event-rgb-semantic-alignment)
+- [All Roads Lead to Rome: Incentivizing Divergent Thinking in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-mupo-reasoning-diversity)
+- [GM-R^2: Generative Matching Learning for Unsupervised Geometric Representation and Registration](../../conferences/cvpr-2026/cards.md#paper-gmr2-generative-matching)
+- [VA-p: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-vapi-pixel-aware-policy)
 
 <!-- conference-classification:end -->

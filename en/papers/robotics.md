@@ -1182,5 +1182,8 @@ Robot perception, policy learning, planning, and control.
 - [RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](../../conferences/cvpr-2026/cards.md#paper-rehearsevla-world-model-completion-reward)
 - [Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](../../conferences/cvpr-2026/cards.md#paper-humanoid-staged-reset-sim-to-real)
 - [Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-fisheye-wrist-camera-condition-dependent-benefits)
+- [EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation](../../conferences/cvpr-2026/cards.md#paper-differentiable-physics-guidance-object-motion-flow)
+- [Learning to Act Robustly with View-Invariant Latent Actions](../../conferences/cvpr-2026/cards.md#paper-vila-view-invariant-actions)
+- [OccAny: Generalized Unconstrained Urban 3D Occupancy](../../conferences/cvpr-2026/cards.md#paper-occany-uncalibrated-metric-occupancy)
 
 <!-- conference-classification:end -->

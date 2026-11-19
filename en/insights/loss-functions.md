@@ -500,5 +500,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Easy2Hard: From Partially to Fully Unmatched Modalities as Negative Samples in Contrastive Learning](../../conferences/cvpr-2026/cards.md#paper-easy2hard-multimodal-negatives)
 - [InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene](../../conferences/cvpr-2026/cards.md#paper-interphys-continuous-contact-forces)
 - [GSNR: Graph Smooth Null-Space Representation for Inverse Problems](../../conferences/cvpr-2026/cards.md#paper-gsnr-nullspace-prior)
+- [Learning to Act Robustly with View-Invariant Latent Actions](../../conferences/cvpr-2026/cards.md#paper-vila-view-invariant-actions)
 
 <!-- conference-classification:end -->

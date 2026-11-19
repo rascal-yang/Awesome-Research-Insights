@@ -35581,3 +35581,288 @@
 - **适用条件 / 局限** · 画面外声源或音画编辑错位时视觉条件不可靠，短听评规模也有限。
 
 **可复用机制** · 缺少分离真值时用可见声源构造合成混音，并以人听评验证真实性。
+
+<a id="paper-intermediate-geometry-token-alignment"></a>
+
+## PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Su_PointAlign_Feature-Level_Alignment_Regularization_for_3D_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Su_PointAlign_Feature-Level_Alignment_Regularization_for_3D_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 有限三维数据只用在下一个文本词的损失中，空间信息容易衰减。
+- **核心创新 / 方法** · 令语言模型内部点云表示与输入视觉 token 保持特征级对齐。
+- **Baseline** · 比较常规仅用文本损失的三维视觉语言方法。
+- **Benchmark** · ModelNet40 和 Objaverse 生成式分类，采用指令及补全提示。
+- **关键结果 / 消融** · 表 1 分开报告两种输出格式，避免提示变化混入几何收益。
+- **适用条件 / 局限** · 依赖输入视觉编码具有有效几何语义，对齐也会保留编码器偏差。
+
+**可复用机制** · 三维语言模型可直接监督中间点云 token，避免只预测文字时丢掉几何。
+
+<a id="paper-illumination-invariant-asset-aware-renderer"></a>
+
+## NeAR: Coupled Neural Asset-Renderer Stack
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_NeAR_Coupled_Neural_Asset-Renderer_Stack_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_NeAR_Coupled_Neural_Asset-Renderer_Stack_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 把可见阴影和高光绑定在几何上会妨碍重光照。
+- **核心创新 / 方法** · 以 rectified flow 提取光照规整的潜资产，再结合光照参数渲染。
+- **Baseline** · 与神经资产生成和渲染方法对照。
+- **Benchmark** · ADT、DTC、Objaverse、Glossy Synthetic 的四类任务。
+- **关键结果 / 消融** · 正文表 1 按任务分别对比。
+- **适用条件 / 局限** · 实际分解依赖训练光照覆盖，单图不能唯一辨识材料。
+
+**可复用机制** · 从单张自然光图像恢复资产时，可在潜表示去除烘焙光照，由单独的光感知解码恢复外观。
+
+<a id="paper-approximation-error-token-compression"></a>
+
+## ApET: Approximation-Error Guided Token Compression for Efficient VLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ma_ApET_Approximation-Error_Guided_Token_Compression_for_Efficient_VLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_ApET_Approximation-Error_Guided_Token_Compression_for_Efficient_VLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 基于注意力的视觉筛选有位置偏差且与高效注意力内核不易兼容。
+- **核心创新 / 方法** · 从代表性及重构误差出发选择需保留的视觉 token。
+- **Baseline** · 比较无需训练及注意力型视觉 token 压缩。
+- **Benchmark** · LLaVA-1.5 的九项图像理解基准，从原 576 token 调整预算。
+- **关键结果 / 消融** · 正文表 1 报告各预算平均准确率相对参考上限。
+- **适用条件 / 局限** · 特征近似并不保证保留罕见小目标或特定问题证据。
+
+**可复用机制** · 可以用保留集合对视觉特征的近似误差驱动剪枝，避免读取注意力矩阵。
+
+<a id="paper-alternating-gradient-bimanual-action-encoding"></a>
+
+## Polyphony: Diffusion-based Dual-Hand Action Segmentation with Alternating Vision Transformer and Semantic Conditioning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_Polyphony_Diffusion-based_Dual-Hand_Action_Segmentation_with_Alternating_Vision_Transformer_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_Polyphony_Diffusion-based_Dual-Hand_Action_Segmentation_with_Alternating_Vision_Transformer_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 主要操作手容易支配学习，弱分支动作可能语义模糊。
+- **核心创新 / 方法** · 交替左右手批训练，以组合动作文字增强特征可分性。
+- **Baseline** · 比较既有双手动作分割和联合训练。
+- **Benchmark** · HA-ViD 三视角的细粒度双手时序分割。
+- **关键结果 / 消融** · 正文表 1 汇报多视角平均结果。
+- **适用条件 / 局限** · 交替训练不直接处理非常不对称的角色或类别时序。
+
+**可复用机制** · 双分支任务存在主导梯度时，可交替采样左右任务批次并保持共享时空编码。
+
+<a id="paper-differentiable-physics-guidance-object-motion-flow"></a>
+
+## EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Saroha_EgoFlow_Gradient-Guided_Flow_Matching_for_Egocentric_6DoF_Object_Motion_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Saroha_EgoFlow_Gradient-Guided_Flow_Matching_for_Egocentric_6DoF_Object_Motion_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 第一视角遮挡和快速运动会导致预测出现不平滑或穿透。
+- **核心创新 / 方法** · 用多模态观测条件化流模型，以避碰和光滑度梯度引导推理。
+- **Baseline** · 比较已有运动生成及去掉物理指导的配置。
+- **Benchmark** · HD-EPIC 等第一视角六维轨迹评测。
+- **关键结果 / 消融** · 正文主表并列多项运动指标。
+- **适用条件 / 局限** · 物理项依赖场景估计正确，可微近似不能覆盖每种接触。
+
+**可复用机制** · 生成物体六维轨迹时可在采样过程按可微物理约束调整，避免完全依赖后处理。
+
+<a id="paper-exposure-indicator-event-rgb-semantic-alignment"></a>
+
+## Learning to See through Illumination Extremes with Event Streaming in Multimodal Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Learning_to_See_through_Illumination_Extremes_with_Event_Streaming_in_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Learning_to_See_through_Illumination_Extremes_with_Event_Streaming_in_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 曝光极端时 RGB 丢失的信息无法仅靠视觉语言推理恢复。
+- **核心创新 / 方法** · 从 DINOv2 特征预测光照指示，动态融合事件流，并以正常曝光作语义监督。
+- **Baseline** · 比较不同大小的多模态模型及传感器融合配置。
+- **Benchmark** · 多照度事件指令数据，测多选题和对象计数。
+- **关键结果 / 消融** · 正文纳入 2241 个事件–RGB 样本，并在主表报告两类任务。
+- **适用条件 / 局限** · 需要同步事件相机及正常光照参考训练样本。
+
+**可复用机制** · 极端光照下可按曝光可靠性调节事件与 RGB 融合，并向正常光照表征对齐。
+
+<a id="paper-mupo-reasoning-diversity"></a>
+
+## All Roads Lead to Rome: Incentivizing Divergent Thinking in Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tian_All_Roads_Lead_to_Rome_Incentivizing_Divergent_Thinking_in_Vision-Language_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tian_All_Roads_Lead_to_Rome_Incentivizing_Divergent_Thinking_in_Vision-Language_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 标准 GRPO 可能集中到少数可用策略，对扩展采样的收益不利。
+- **核心创新 / 方法** · 论文分析推理行为与训练动态，并以 MUPO 促进多路径。
+- **Baseline** · 比较基础模型、常规 GRPO 与开闭源视觉语言模型。
+- **Benchmark** · 正文数学视觉推理和通用多模态基准。
+- **关键结果 / 消融** · 正文发现强化模型的路径更深但更窄，并比较优化后的表现。
+- **适用条件 / 局限** · 文本路径差异未必意味着推理策略差异。
+
+**可复用机制** · 强化训练同时监控推理路径的广度与深度，识别训练早期多样性坍缩。
+
+<a id="paper-gmr2-generative-matching"></a>
+
+## GM-R^2: Generative Matching Learning for Unsupervised Geometric Representation and Registration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_GM-R2_Generative_Matching_Learning_for_Unsupervised_Geometric_Representation_and_Registration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_GM-R2_Generative_Matching_Learning_for_Unsupervised_Geometric_Representation_and_Registration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 点级对应标注难得，图像合成噪声输入又不适合实际几何匹配。
+- **核心创新 / 方法** · GM-R2 以成对距离图调节生成，学习可在仅几何输入下工作的一致描述符。
+- **Baseline** · 比较监督与无监督三维配准方法。
+- **Benchmark** · 3DMatch、ScanNet，报告旋转、平移误差与 Chamfer 距离。
+- **关键结果 / 消融** · 表1、2给出跨数据配准结果。
+- **适用条件 / 局限** · 要求几何具有足够结构，视角重叠不足和动态对象需复测。
+
+**可复用机制** · 用跨视角可控生成作为配准学习的代理监督，让匹配特征保留三维结构。
+
+<a id="paper-lrdm-asymmetric-residual"></a>
+
+## Low-Rank Residual Diffusion Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Low-Rank_Residual_Diffusion_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tan_Low-Rank_Residual_Diffusion_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 近域恢复任务的残差含冗余，全空间扩散开销较大。
+- **核心创新 / 方法** · LRDM 将扩散前向限制在低秩残差子空间，逆向仍允许全秩。
+- **Baseline** · 比较已有残差扩散及任务专用恢复方法。
+- **Benchmark** · Raindrop、RealBlur-J、RealBlur-R；报告 PSNR、SSIM。
+- **关键结果 / 消融** · 正文给出低秩假设下的界，比较去雨滴和去模糊。
+- **适用条件 / 局限** · 跨域生成或多种未知退化的残差可能不低秩。
+
+**可复用机制** · 若残差近似低秩，可压缩正向过程，同时保留逆向恢复的全秩自由。
+
+<a id="paper-vapi-pixel-aware-policy"></a>
+
+## VA-p: Variational Policy Alignment for Pixel-Aware Autoregressive Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liao_VA-p_Variational_Policy_Alignment_for_Pixel-Aware_Autoregressive_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liao_VA-p_Variational_Policy_Alignment_for_Pixel-Aware_Autoregressive_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅优化令牌似然时，实际解码图像仍可能低质。
+- **核心创新 / 方法** · VA-π 用统一似然和像素重建的变分目标，将自回归器作为离散策略优化。
+- **Baseline** · 比较原 LlamaGen-XL、XXL 和其他生成设置。
+- **Benchmark** · ImageNet-1K 类条件生成及文图对齐。
+- **关键结果 / 消融** · 表1、2分别报告对齐和图像质量。
+- **适用条件 / 局限** · 评价依赖解码器与奖励质量，像素改善不保证几何正确。
+
+**可复用机制** · 令牌生成后训练应结合解码后的像素目标，以缩小生成令牌与编码真值的差距。
+
+<a id="paper-ggbench-executable-construction"></a>
+
+## GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wei_GGBench_A_Geometric_Generative_Reasoning_Benchmark_for_Unified_Multimodal_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_GGBench_A_Geometric_Generative_Reasoning_Benchmark_for_Unified_Multimodal_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 分开考察理解和生成不能代表能否构造有效解。
+- **核心创新 / 方法** · GGBench 配合语言指令、可执行 GeoGebra 和几何结果。
+- **Baseline** · 比较统一多模态模型的构造结果。
+- **Benchmark** · 几何生成推理，多类构造技能及正确性。
+- **关键结果 / 消融** · 正文拆分理解、推理与构造失败。
+- **适用条件 / 局限** · 受可形式化几何任务覆盖限制，开放交互需单独验证。
+
+**可复用机制** · 把构造性推理评测对齐到可执行几何，让最终产物受结构约束而非只比较文本。
+
+<a id="paper-neurorule-differentiable-induction"></a>
+
+## NeuroRule: Bridging Vision and Logic with Differentiable Rule Induction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zarar_NeuroRule_Bridging_Vision_and_Logic_with_Differentiable_Rule_Induction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zarar_NeuroRule_Bridging_Vision_and_Logic_with_Differentiable_Rule_Induction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯视觉两两关系难解释，也难组合到隐含关系。
+- **核心创新 / 方法** · NeuroRule 结合 Mask2Former 感知和可微逻辑归纳。
+- **Baseline** · 与已有场景图方法比较。
+- **Benchmark** · Visual Genome 与 PSG Bench 空间关系。
+- **关键结果 / 消融** · 正文分别对照标准关系统计和空间关系。
+- **适用条件 / 局限** · 视觉误差与不完整规则会影响解释，真实行动能力仍需验证。
+
+**可复用机制** · 用可微规则归纳补充视觉场景图，并保留关系推断的解释链。
+
+<a id="paper-vila-view-invariant-actions"></a>
+
+## Learning to Act Robustly with View-Invariant Latent Actions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jeong_Learning_to_Act_Robustly_with_View-Invariant_Latent_Actions_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jeong_Learning_to_Act_Robustly_with_View-Invariant_Latent_Actions_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 场景级视觉对齐可能无法保持控制需要的动态信息。
+- **核心创新 / 方法** · VILA 编码轨迹变化，并由真值动作约束跨视角潜动作一致。
+- **Baseline** · 比较原策略和既有视觉不变性学习，覆盖冻结与微调。
+- **Benchmark** · 仿真25种视角及真实机器人外推视角。
+- **关键结果 / 消融** · 正文分别比较未见视角和外推观察条件。
+- **适用条件 / 局限** · 依赖跨视角动作可对齐，传感器异步及本体差异需另验。
+
+**可复用机制** · 用共享真实动作而非静态外观对齐不同视角中的状态转移表示。
+
+<a id="paper-cross-view-splatter-satellite-ground"></a>
+
+## Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Turkulainen_Cross-View_Splatter_Feed-Forward_View_Synthesis_with_Georeferenced_Images_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Turkulainen_Cross-View_Splatter_Feed-Forward_View_Synthesis_with_Georeferenced_Images_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 大型室外场景难采集充分地面视图。
+- **核心创新 / 方法** · 将正射卫星图与带坐标地面照对齐并前馈生成统一坐标的高斯。
+- **Baseline** · 与仅地面图和已有前馈视图合成比较。
+- **Benchmark** · 带地理参考的室外场景，评估新视图及覆盖。
+- **关键结果 / 消融** · 正文报告联合俯视与地面图改善覆盖与合成。
+- **适用条件 / 局限** · 地图时间、定位精度与遮挡影响一致性，在线定位需复测。
+
+**可复用机制** · 稀疏地面视点重建可融合带地理参照的俯视先验，明确改善是否来自覆盖扩张。
+
+<a id="paper-event-chain-causal-video-generation"></a>
+
+## Chain of Event-Centric Causal Thought for Physically Plausible Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Chain_of_Event-Centric_Causal_Thought_for_Physically_Plausible_Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Chain_of_Event-Centric_Causal_Thought_for_Physically_Plausible_Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只扩充文本中的物理常识，不能使扩散模型理解事件如何逐步展开。
+- **核心创新 / 方法** · 用物理事件链推理将提示拆成基础过程，并将链式条件接入视频生成。
+- **Baseline** · 比较 Lavie 等基础视频模型及同任务生成增强方法。
+- **Benchmark** · PhyGenBench 的力学、光学、热学和材料四域。
+- **关键结果 / 消融** · 表 1 分物理领域比较效果，区分某一领域提升与其他领域表现。
+- **适用条件 / 局限** · 事件推理可能错误，视频看起来合理也不保证满足精确物理量。
+
+**可复用机制** · 将物理过程拆成有前后依赖的事件条件，避免把复合事件渲染成单个静止状态。
+
+<a id="paper-mmser-small-captioner-visual-refinement"></a>
+
+## MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_MM-SeR_Multimodal_Self-Refinement_for_Lightweight_Image_Captioning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_MM-SeR_Multimodal_Self-Refinement_for_Lightweight_Image_Captioning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 为所有视觉说明配大语言模型成本高，缩小模型后又可能丧失可靠性。
+- **核心创新 / 方法** · 使用 125M 语言模块构成轻量生成器，并通过多模态自细化从全局印象补充细节。
+- **Baseline** · 比较近期较大多模态语言模型和自身轻量配置。
+- **Benchmark** · 正文同时对照图像描述质量和端侧资源，表 1 以 FP16 统计模型与设备内存。
+- **关键结果 / 消融** · 作者报告语言部分减少约 93 倍仍能获得相近的事实字幕表现。
+- **适用条件 / 局限** · 结果集中于图像描述，复杂理解和规划任务不能沿用相同容量假设。
+
+**可复用机制** · 事实性字幕可以试用小型语言模块，并把预算用于观察细节及修正。
+
+<a id="paper-residual-guided-instance-normality-learning"></a>
+
+## Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Hunting_Normality_from_Query_Sample_via_Residual_Learning_for_Generalist_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Hunting_Normality_from_Query_Sample_via_Residual_Learning_for_Generalist_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 小缺陷的残差可能很小，正常变化也可能产生很大的残差。
+- **核心创新 / 方法** · 用注意力学习残差信息，借其引导实例层级正常状态，而非直接拟合残差的总体分布。
+- **Baseline** · 比较通用异常检测基线，分别使用另一数据集训练。
+- **Benchmark** · MVTec AD、VisA，跨数据集，以六个图级和像素级指标含 PRO 比较。
+- **关键结果 / 消融** · 正文按任务维度对照，支持检查消除正常变化造成误报的效果。
+- **适用条件 / 局限** · 需存在可由观测推断的正常参考，新材质或大范围异常仍可能失效。
+
+**可复用机制** · 将残差用作查找每个样本正常参考的线索，避免以残差大小直接决定异常。
+
+<a id="paper-foresight-low-level-visual-tools-reflection"></a>
+
+## See Further, Think Deeper: Advancing VLM's Reasoning Ability with Low-level Visual Cues and Reflection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_See_Further_Think_Deeper_Advancing_VLMs_Reasoning_Ability_with_Low-level_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_See_Further_Think_Deeper_Advancing_VLMs_Reasoning_Ability_with_Low-level_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 强化视觉推理若只依赖高层语言反馈，仍容易忽略小尺度视觉信息。
+- **核心创新 / 方法** · 在文字推理间调用边缘、颜色或局部放大工具，并将遮罩反馈用于反思调整。
+- **Baseline** · 比较普通视觉语言推理、带工具示例及强化学习配置。
+- **Benchmark** · 冷启动数据 1,425 条，表 1 分边缘、颜色与放大工具使用类型，正文另评视觉推理。
+- **关键结果 / 消融** · 论文对照模型使用不同工具的能力与最终推理效果。
+- **适用条件 / 局限** · 若工具输出的局部线索彼此冲突，必须重查，额外调用也增加延迟。
+
+**可复用机制** · 必要时调用低层视觉工具，并用区域遮蔽反馈要求模型重查自己的依据。
+
+<a id="paper-occany-uncalibrated-metric-occupancy"></a>
+
+## OccAny: Generalized Unconstrained Urban 3D Occupancy
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cao_OccAny_Generalized_Unconstrained_Urban_3D_Occupancy_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cao_OccAny_Generalized_Unconstrained_Urban_3D_Occupancy_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 现有占用预测常依赖域内标注和固定传感器标定，难适配未见配置。
+- **核心创新 / 方法** · 在视觉几何先验上构建城市占用完成和度量预测，支持连续、单目和环视输入。
+- **Baseline** · 比较常见占用方法及依赖特定传感器配置的设置。
+- **Benchmark** · SemanticKITTI、Occ3D-NuScenes，时序配置报占用 IoU 及语义 mIoU。
+- **关键结果 / 消融** · 表 1 将语义和几何分开评，便于检验未标定场景的补全效果。
+- **适用条件 / 局限** · 米制尺度和遮挡补全依赖可观测线索，未见传感器和场景仍需验证。
+
+**可复用机制** · 将视觉几何底座迁到无标定多输入形式的米制占用估计，并分开评完整几何与语义。

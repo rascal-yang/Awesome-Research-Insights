@@ -799,5 +799,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models](../../conferences/cvpr-2026/cards.md#paper-lavr-implicit-4d-reconstruction-conditioning)
 - [Fast Spatial Tracking with Visual Geometry Transformer](../../conferences/cvpr-2026/cards.md#paper-spatial-tracking-global-frame-query-embeddings)
 - [SASNet: Spatially-Adaptive Sinusoidal Networks for INRs](../../conferences/cvpr-2026/cards.md#paper-sasnet-localized-fixed-frequency-support)
+- [PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-intermediate-geometry-token-alignment)
+- [OccAny: Generalized Unconstrained Urban 3D Occupancy](../../conferences/cvpr-2026/cards.md#paper-occany-uncalibrated-metric-occupancy)
 
 <!-- conference-classification:end -->

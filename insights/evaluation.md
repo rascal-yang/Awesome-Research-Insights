@@ -1636,5 +1636,7 @@
 - [How Much 3D Do Video Foundation Models Encode?](../conferences/cvpr-2026/cards.md#paper-shallow-probe-emergent-3d-video-generators)
 - [Layer Consistency Matters: Elegant Latent Transition Discrepancy for Generalizable Synthetic Image Detection](../conferences/cvpr-2026/cards.md#paper-latent-transition-synthetic-detection)
 - [RankOOD - Class Ranking-based Out-of-Distribution Detection](../conferences/cvpr-2026/cards.md#paper-rankood-class-permutation-likelihood)
+- [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](../conferences/cvpr-2026/cards.md#paper-ggbench-executable-construction)
+- [Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-residual-guided-instance-normality-learning)
 
 <!-- conference-classification:end -->

@@ -1659,5 +1659,13 @@ Learning across modalities such as images, text, audio, and video.
 - [When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](../../conferences/cvpr-2026/cards.md#paper-casg-multi-objective-safety)
 - [TIM: Temporal Decoupling with Iterative Mutual-Refinement Model for Longitudinal Radiology Report Generation](../../conferences/cvpr-2026/cards.md#paper-tim-evolution-spatial-decoupling)
 - [Cinematic Audio Source Separation Using Visual Cues](../../conferences/cvpr-2026/cards.md#paper-avcass-synthetic-visual-source-pairing)
+- [PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-intermediate-geometry-token-alignment)
+- [ApET: Approximation-Error Guided Token Compression for Efficient VLMs](../../conferences/cvpr-2026/cards.md#paper-approximation-error-token-compression)
+- [Learning to See through Illumination Extremes with Event Streaming in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-exposure-indicator-event-rgb-semantic-alignment)
+- [All Roads Lead to Rome: Incentivizing Divergent Thinking in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-mupo-reasoning-diversity)
+- [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-ggbench-executable-construction)
+- [NeuroRule: Bridging Vision and Logic with Differentiable Rule Induction](../../conferences/cvpr-2026/cards.md#paper-neurorule-differentiable-induction)
+- [MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning](../../conferences/cvpr-2026/cards.md#paper-mmser-small-captioner-visual-refinement)
+- [See Further, Think Deeper: Advancing VLM's Reasoning Ability with Low-level Visual Cues and Reflection](../../conferences/cvpr-2026/cards.md#paper-foresight-low-level-visual-tools-reflection)
 
 <!-- conference-classification:end -->

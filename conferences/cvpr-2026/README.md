@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,717 篇，其中 2,372 篇暂收录、1,345 篇排除，另有 325 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,747 篇，其中 2,391 篇暂收录、1,356 篇排除，另有 295 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2378,3 +2378,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,717
 | 智能体 | 主动感知 | [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](cards.md#paper-videoseek-evidence-directed-video-tools) | 用思考、行动和观察循环寻找相关帧，并把已处理帧数作为代价。 |
 | 智能体 | 推理时校验 | [BAMI: Training-Free Bias Mitigation in GUI Grounding](cards.md#paper-bami-masked-prediction-bias-diagnostic) | 先识别界面定位是坐标偏移还是候选歧义，再选择局部放大或重排序。 |
 | 多模态学习 | 合成监督 | [Cinematic Audio Source Separation Using Visual Cues](cards.md#paper-avcass-synthetic-visual-source-pairing) | 缺少分离真值时用可见声源构造合成混音，并以人听评验证真实性。 |
+| 多模态学习 | 表征学习 | [PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models](cards.md#paper-intermediate-geometry-token-alignment) | 三维语言模型可直接监督中间点云 token，避免只预测文字时丢掉几何。 |
+| 计算机视觉 | 模型架构 | [NeAR: Coupled Neural Asset-Renderer Stack](cards.md#paper-illumination-invariant-asset-aware-renderer) | 从单张自然光图像恢复资产时，可在潜表示去除烘焙光照，由单独的光感知解码恢复外观。 |
+| 多模态学习 | 推理策略 | [ApET: Approximation-Error Guided Token Compression for Efficient VLMs](cards.md#paper-approximation-error-token-compression) | 可以用保留集合对视觉特征的近似误差驱动剪枝，避免读取注意力矩阵。 |
+| 计算机视觉 | 训练策略 | [Polyphony: Diffusion-based Dual-Hand Action Segmentation with Alternating Vision Transformer and Semantic Conditioning](cards.md#paper-alternating-gradient-bimanual-action-encoding) | 双分支任务存在主导梯度时，可交替采样左右任务批次并保持共享时空编码。 |
+| 机器人学 | 推理策略 | [EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation](cards.md#paper-differentiable-physics-guidance-object-motion-flow) | 生成物体六维轨迹时可在采样过程按可微物理约束调整，避免完全依赖后处理。 |
+| 多模态学习 | 训练策略 | [Learning to See through Illumination Extremes with Event Streaming in Multimodal Large Language Models](cards.md#paper-exposure-indicator-event-rgb-semantic-alignment) | 极端光照下可按曝光可靠性调节事件与 RGB 融合，并向正常光照表征对齐。 |
+| 多模态学习 | 训练策略 | [All Roads Lead to Rome: Incentivizing Divergent Thinking in Vision-Language Models](cards.md#paper-mupo-reasoning-diversity) | 强化训练同时监控推理路径的广度与深度，识别训练早期多样性坍缩。 |
+| 计算机视觉 | 训练策略 | [GM-R^2: Generative Matching Learning for Unsupervised Geometric Representation and Registration](cards.md#paper-gmr2-generative-matching) | 用跨视角可控生成作为配准学习的代理监督，让匹配特征保留三维结构。 |
+| 机器学习基础与统计 | 模型架构 | [Low-Rank Residual Diffusion Models](cards.md#paper-lrdm-asymmetric-residual) | 若残差近似低秩，可压缩正向过程，同时保留逆向恢复的全秩自由。 |
+| 计算机视觉 | 训练策略 | [VA-p: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](cards.md#paper-vapi-pixel-aware-policy) | 令牌生成后训练应结合解码后的像素目标，以缩小生成令牌与编码真值的差距。 |
+| 多模态学习 | 评测与诊断 | [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](cards.md#paper-ggbench-executable-construction) | 把构造性推理评测对齐到可执行几何，让最终产物受结构约束而非只比较文本。 |
+| 多模态学习 | 模型架构 | [NeuroRule: Bridging Vision and Logic with Differentiable Rule Induction](cards.md#paper-neurorule-differentiable-induction) | 用可微规则归纳补充视觉场景图，并保留关系推断的解释链。 |
+| 机器人学 | 损失函数 | [Learning to Act Robustly with View-Invariant Latent Actions](cards.md#paper-vila-view-invariant-actions) | 用共享真实动作而非静态外观对齐不同视角中的状态转移表示。 |
+| 计算机视觉 | 模型架构 | [Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images](cards.md#paper-cross-view-splatter-satellite-ground) | 稀疏地面视点重建可融合带地理参照的俯视先验，明确改善是否来自覆盖扩张。 |
+| 生成模型 | 条件生成 | [Chain of Event-Centric Causal Thought for Physically Plausible Video Generation](cards.md#paper-event-chain-causal-video-generation) | 将物理过程拆成有前后依赖的事件条件，避免把复合事件渲染成单个静止状态。 |
+| 多模态学习 | 动态推理 | [MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning](cards.md#paper-mmser-small-captioner-visual-refinement) | 事实性字幕可以试用小型语言模块，并把预算用于观察细节及修正。 |
+| 机器学习 | 异常检测 | [Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection](cards.md#paper-residual-guided-instance-normality-learning) | 将残差用作查找每个样本正常参考的线索，避免以残差大小直接决定异常。 |
+| 多模态学习 | 主动感知 | [See Further, Think Deeper: Advancing VLM's Reasoning Ability with Low-level Visual Cues and Reflection](cards.md#paper-foresight-low-level-visual-tools-reflection) | 必要时调用低层视觉工具，并用区域遮蔽反馈要求模型重查自己的依据。 |
+| 机器人学 | 几何表征 | [OccAny: Generalized Unconstrained Urban 3D Occupancy](cards.md#paper-occany-uncalibrated-metric-occupancy) | 将视觉几何底座迁到无标定多输入形式的米制占用估计，并分开评完整几何与语义。 |

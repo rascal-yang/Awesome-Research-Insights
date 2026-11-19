@@ -1744,5 +1744,9 @@
 - [FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing](../conferences/cvpr-2026/cards.md#paper-high-frequency-retention-multi-turn-edits)
 - [When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](../conferences/cvpr-2026/cards.md#paper-casg-multi-objective-safety)
 - [BAMI: Training-Free Bias Mitigation in GUI Grounding](../conferences/cvpr-2026/cards.md#paper-bami-masked-prediction-bias-diagnostic)
+- [ApET: Approximation-Error Guided Token Compression for Efficient VLMs](../conferences/cvpr-2026/cards.md#paper-approximation-error-token-compression)
+- [EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation](../conferences/cvpr-2026/cards.md#paper-differentiable-physics-guidance-object-motion-flow)
+- [Chain of Event-Centric Causal Thought for Physically Plausible Video Generation](../conferences/cvpr-2026/cards.md#paper-event-chain-causal-video-generation)
+- [MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning](../conferences/cvpr-2026/cards.md#paper-mmser-small-captioner-visual-refinement)
 
 <!-- conference-classification:end -->

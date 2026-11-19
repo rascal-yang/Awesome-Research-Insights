@@ -848,5 +848,9 @@ Model-wide design and information flow.
 - [PointNSP: Autoregressive 3D Point Cloud Generation with Next-Scale Level-of-Detail Prediction](../../conferences/cvpr-2026/cards.md#paper-pointnsp-next-scale-points)
 - [TIM: Temporal Decoupling with Iterative Mutual-Refinement Model for Longitudinal Radiology Report Generation](../../conferences/cvpr-2026/cards.md#paper-tim-evolution-spatial-decoupling)
 - [Prompt-Free Universal Region Proposal Network](../../conferences/cvpr-2026/cards.md#paper-pfrpn-self-prompt-proposals)
+- [NeAR: Coupled Neural Asset-Renderer Stack](../../conferences/cvpr-2026/cards.md#paper-illumination-invariant-asset-aware-renderer)
+- [Low-Rank Residual Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-lrdm-asymmetric-residual)
+- [NeuroRule: Bridging Vision and Logic with Differentiable Rule Induction](../../conferences/cvpr-2026/cards.md#paper-neurorule-differentiable-induction)
+- [Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images](../../conferences/cvpr-2026/cards.md#paper-cross-view-splatter-satellite-ground)
 
 <!-- conference-classification:end -->

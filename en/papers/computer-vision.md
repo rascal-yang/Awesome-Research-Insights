@@ -1712,5 +1712,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [PointNSP: Autoregressive 3D Point Cloud Generation with Next-Scale Level-of-Detail Prediction](../../conferences/cvpr-2026/cards.md#paper-pointnsp-next-scale-points)
 - [Prompt-Free Universal Region Proposal Network](../../conferences/cvpr-2026/cards.md#paper-pfrpn-self-prompt-proposals)
 - [Fast Spatial Tracking with Visual Geometry Transformer](../../conferences/cvpr-2026/cards.md#paper-spatial-tracking-global-frame-query-embeddings)
+- [NeAR: Coupled Neural Asset-Renderer Stack](../../conferences/cvpr-2026/cards.md#paper-illumination-invariant-asset-aware-renderer)
+- [Polyphony: Diffusion-based Dual-Hand Action Segmentation with Alternating Vision Transformer and Semantic Conditioning](../../conferences/cvpr-2026/cards.md#paper-alternating-gradient-bimanual-action-encoding)
+- [GM-R^2: Generative Matching Learning for Unsupervised Geometric Representation and Registration](../../conferences/cvpr-2026/cards.md#paper-gmr2-generative-matching)
+- [VA-p: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-vapi-pixel-aware-policy)
+- [Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images](../../conferences/cvpr-2026/cards.md#paper-cross-view-splatter-satellite-ground)
 
 <!-- conference-classification:end -->

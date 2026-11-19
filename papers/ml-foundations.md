@@ -2648,5 +2648,8 @@
 - [Stabilizing Feature Geometry in Noisy Pretrained Models for Robust Downstream Tasks](../conferences/cvpr-2026/cards.md#paper-pretrained-noise-subspace-rotation)
 - [RankOOD - Class Ranking-based Out-of-Distribution Detection](../conferences/cvpr-2026/cards.md#paper-rankood-class-permutation-likelihood)
 - [SASNet: Spatially-Adaptive Sinusoidal Networks for INRs](../conferences/cvpr-2026/cards.md#paper-sasnet-localized-fixed-frequency-support)
+- [Low-Rank Residual Diffusion Models](../conferences/cvpr-2026/cards.md#paper-lrdm-asymmetric-residual)
+- [Chain of Event-Centric Causal Thought for Physically Plausible Video Generation](../conferences/cvpr-2026/cards.md#paper-event-chain-causal-video-generation)
+- [Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-residual-guided-instance-normality-learning)
 
 <!-- conference-classification:end -->
