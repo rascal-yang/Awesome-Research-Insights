@@ -1469,5 +1469,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RAAS: LLM Agentic System Architecture Search with GRPO](../../conferences/cvpr-2026/cards.md#paper-raas-agent-architecture)
 - [Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification](../../conferences/cvpr-2026/cards.md#paper-hcep-hierarchical-concepts)
 - [Bias In, Bias Out? Finding Unbiased Subnetworks in Vanilla Models](../../conferences/cvpr-2026/cards.md#paper-bise-bias-invariant-subnetworks)
+- [A Difference-in-Difference Approach to Detecting AI-Generated Images](../../conferences/cvpr-2026/cards.md#paper-did-generated-image-detection)
+- [Ego-Grounding for Personalized Question-Answering in Egocentric Videos](../../conferences/cvpr-2026/cards.md#paper-myego-evidence-audit)
+- [X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-x-avdt-cross-modal-forensics)
 
 <!-- conference-classification:end -->

@@ -1198,5 +1198,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement](../../conferences/cvpr-2026/cards.md#paper-hrnet-hybrid-multimodal-registration)
 - [BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-binaryattention-one-bit-qk)
 - [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](../../conferences/cvpr-2026/cards.md#paper-a2gc-vpr)
+- [MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectioanl Blending with Hierarchical Densification](../../conferences/cvpr-2026/cards.md#paper-morel-bidirectional-keyframe-anchor-relay)
+- [A Difference-in-Difference Approach to Detecting AI-Generated Images](../../conferences/cvpr-2026/cards.md#paper-did-generated-image-detection)
+- [CompetitorFormer: Mitigating Query Conflicts for 3D Instance Segmentation via Competitive Strategy](../../conferences/cvpr-2026/cards.md#paper-competitorformer)
+- [Hilbert Curve-Based Attention Enabling Topology-Preserving Image Tensor Representation for Semantic Segmentation Network](../../conferences/cvpr-2026/cards.md#paper-tpsegformer)
+- [Gaussian Mapping for Evolving Scenes](../../conferences/cvpr-2026/cards.md#paper-game-evolving-scenes)
+- [MERIT: Multi-domain Efficient RAW Image Translation](../../conferences/cvpr-2026/cards.md#paper-merit-raw-translation)
 
 <!-- conference-classification:end -->

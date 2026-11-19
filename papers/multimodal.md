@@ -1096,5 +1096,11 @@
 - [REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding](../conferences/cvpr-2026/cards.md#paper-revisor-dual-attribution)
 - [One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](../conferences/cvpr-2026/cards.md#paper-alvts-layer-wise-token-routing)
 - [ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization](../conferences/cvpr-2026/cards.md#paper-conceptprism-residual-tokens)
+- [FINER: MLLMs Hallucinate under Fine-grained Negative Queries](../conferences/cvpr-2026/cards.md#paper-finer-paired-fine-grained-visual-negatives)
+- [CoV-Align: Efficient Fine-grained Cross-Modal Alignment with Cohesive Visual Semantics Priority](../conferences/cvpr-2026/cards.md#paper-cov-align-query-independent-visual-grouping)
+- [Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding](../conferences/cvpr-2026/cards.md#paper-qvic-memory-feedback-visual-compression)
+- [Ego-Grounding for Personalized Question-Answering in Egocentric Videos](../conferences/cvpr-2026/cards.md#paper-myego-evidence-audit)
+- [X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-x-avdt-cross-modal-forensics)
+- [SURF: Signature-Retained Fast Video Generation](../conferences/cvpr-2026/cards.md#paper-surf-noise-reshifting)
 
 <!-- conference-classification:end -->

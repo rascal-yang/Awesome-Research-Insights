@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,107 篇，其中 708 篇暂收录、399 篇排除，另有 2,935 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,137 篇，其中 727 篇暂收录、410 篇排除，另有 2,905 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -714,3 +714,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,107
 | 多模态学习 | 推理优化 | [One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](cards.md#paper-alvts-layer-wise-token-routing) | 按层压缩视觉计算时让未选 token 跳过本层并保留给后层重新选择。 |
 | 机器学习基础 | 可解释性与诊断 | [Bias In, Bias Out? Finding Unbiased Subnetworks in Vanilla Models](cards.md#paper-bise-bias-invariant-subnetworks) | 训练后去捷径可先比较从冻结模型抽取的稀疏子网与重新训练，而非假设整网均依赖偏置。 |
 | 多模态学习 | 损失函数与优化 | [ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization](cards.md#paper-conceptprism-residual-tokens) | 少量参考图个性化时，给共享概念及每个实例分别分配 token，并阻止实例 token 吞掉共享属性。 |
+| 机器学习 | 训练策略 | [Revisiting Learning with Noisy Labels: Active Forgetting and Noise Suppression](cards.md#paper-fine-active-forgetting-noisy-supervision) | 对已被模型拟合的错标样本，可比较主动清除已学噪声与仅抑制后续学习，再用不同噪声类型验证。见表 3。 |
+| 多模态学习 | 偏好优化 | [FINER: MLLMs Hallucinate under Fine-grained Negative Queries](cards.md#paper-finer-paired-fine-grained-visual-negatives) | 视觉幻觉训练可用同时包含真细节和局部错误的正负问题对，并比较 DPO 与只给正确答案的监督微调。见表 4。 |
+| 计算机视觉 | 三维重建与几何建模 | [MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectioanl Blending with Hierarchical Densification](cards.md#paper-morel-bidirectional-keyframe-anchor-relay) | 建模长期动态场景时可转发多个局部基准，并双向融合段间形变，比较一次全局建模和独立分段。见表 2。 |
+| 生成模型 | 模型效率 | [Multi-Scale Local Speculative Decoding for Image Generation](cards.md#paper-mulo-sd-spatial-local-draft-verification) | 图像自回归加速可用低分辨率草稿，并把拒绝后的重采样局限在空间邻域，与按序全量重试比较。见表 1。 |
+| 机器学习 | 隐私保护 | [Fully Decentralized Certified Unlearning](cards.md#paper-decentralized-certified-unlearning-client-views) | 无中心协调的数据删除可采用客户端消息视图定义认证边界，并比较通用差分隐私与专门事后遗忘的可承受规模。见定理 3.5 与表 2。 |
+| 多模态学习 | 表征学习 | [CoV-Align: Efficient Fine-grained Cross-Modal Alignment with Cohesive Visual Semantics Priority](cards.md#paper-cov-align-query-independent-visual-grouping) | 大量图文匹配前可先独立压缩视觉块为语义区域，比较区域数对双向检索的作用。见表 3、4。 |
+| 多模态学习 | 时序建模 | [Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding](cards.md#paper-qvic-memory-feedback-visual-compression) | 长视频的记忆可以在压缩之前反向引导视觉注意，而非只供解码读取；应在固定采样率上比较效果。见表 3。 |
+| 计算机视觉 | 异常检测 | [A Difference-in-Difference Approach to Detecting AI-Generated Images](cards.md#paper-did-generated-image-detection) | 当重建误差的样本间方差掩盖来源差别时，用二阶差分抵消共同误差。 |
+| 计算机视觉 | 模型架构 | [CompetitorFormer: Mitigating Query Conflicts for 3D Instance Segmentation via Competitive Strategy](cards.md#paper-competitorformer) | 并行查询争抢同一实例时，可在每层解码前建查询间竞争，而非只在输出去重。 |
+| 智能体 | 自动化工作流 | [LensWalk: Agentic Video Understanding by Planning How You See in Videos](cards.md#paper-lenswalk) | 视频代理应控制取证的时间范围和密度，并保留可核验的异时证据。 |
+| 计算机视觉 | 表示学习 | [Hilbert Curve-Based Attention Enabling Topology-Preserving Image Tensor Representation for Semantic Segmentation Network](cards.md#paper-tpsegformer) | 将二维网格展平进入序列模块前，对照局部性更强的 Hilbert 排序与普通逐行排序。 |
+| 多模态学习 | 评测与诊断 | [Ego-Grounding for Personalized Question-Answering in Egocentric Videos](cards.md#paper-myego-evidence-audit) | 第一视角记忆问答可用已知答案时刻作对照，区分证据检索失败与对证据的推理失败。 |
+| 计算机视觉 | 表示学习 | [Gaussian Mapping for Evolving Scenes](cards.md#paper-game-evolving-scenes) | 维护长期3D记忆时，按局部变化淘汰过时观测并保留仍有效的关键帧。 |
+| 计算机视觉 | 损失函数 | [MERIT: Multi-domain Efficient RAW Image Translation](cards.md#paper-merit-raw-translation) | 跨传感器统一映射时，可将信号依赖噪声匹配单独作为目标，并按方向验收。 |
+| 机器学习基础 | 知识蒸馏 | [Memory-Efficient Transfer Learning with Fading Side Networks via Masked Dual Path Distillation](cards.md#paper-masked-dual-path-distillation) | 用轻量旁路节省微调显存时，可在训练阶段做双路蒸馏，部署时移除旁路。 |
+| 机器人学 | 自监督学习 | [LAOF: Robust Latent Action Learning with Optical Flow Constraints](cards.md#paper-laof-latent-action-flow) | 从无动作标签视频学潜动作时，用智能体相关光流隔离任务无关运动。 |
+| 多模态学习 | 评测与分析 | [X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection](cards.md#paper-x-avdt-cross-modal-forensics) | 评估合成视频检测时，应把音画一致性信号与视觉残差一起做跨生成器验证。 |
+| 多模态学习 | 推理优化 | [SURF: Signature-Retained Fast Video Generation](cards.md#paper-surf-noise-reshifting) | 预览生成先按模型原分辨率完成早期去噪，之后降分辨率再用映射细化。 |
+| 智能体 | 规划与决策 | [See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](cards.md#paper-star-gui-state-aware) | 执行二元界面目标前先读当前状态；若已符合目标，输出不操作。 |

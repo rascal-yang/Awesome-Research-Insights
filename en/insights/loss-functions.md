@@ -422,5 +422,6 @@ Objectives, auxiliary supervision, and regularization.
 - [WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](../../conferences/cvpr-2026/cards.md#paper-waterflow-temporal-watermark)
 - [PromptDepth: Efficient and Promptable Geometric 3D Vision Model for Embodied Intelligence](../../conferences/cvpr-2026/cards.md#paper-promptdepth-joint-dense-prediction-alignment)
 - [ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization](../../conferences/cvpr-2026/cards.md#paper-conceptprism-residual-tokens)
+- [MERIT: Multi-domain Efficient RAW Image Translation](../../conferences/cvpr-2026/cards.md#paper-merit-raw-translation)
 
 <!-- conference-classification:end -->

@@ -2368,5 +2368,9 @@ General learning methods, optimization, learning theory, and inference.
 - [One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-elit-tail-drop-budgeted-latent-interface)
 - [Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification](../../conferences/cvpr-2026/cards.md#paper-hcep-hierarchical-concepts)
 - [Bias In, Bias Out? Finding Unbiased Subnetworks in Vanilla Models](../../conferences/cvpr-2026/cards.md#paper-bise-bias-invariant-subnetworks)
+- [Revisiting Learning with Noisy Labels: Active Forgetting and Noise Suppression](../../conferences/cvpr-2026/cards.md#paper-fine-active-forgetting-noisy-supervision)
+- [Multi-Scale Local Speculative Decoding for Image Generation](../../conferences/cvpr-2026/cards.md#paper-mulo-sd-spatial-local-draft-verification)
+- [Fully Decentralized Certified Unlearning](../../conferences/cvpr-2026/cards.md#paper-decentralized-certified-unlearning-client-views)
+- [Memory-Efficient Transfer Learning with Fading Side Networks via Masked Dual Path Distillation](../../conferences/cvpr-2026/cards.md#paper-masked-dual-path-distillation)
 
 <!-- conference-classification:end -->

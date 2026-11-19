@@ -2431,5 +2431,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval](../../conferences/cvpr-2026/cards.md#paper-evograph-online-multimodal-graph-refinement)
 - [RAAS: LLM Agentic System Architecture Search with GRPO](../../conferences/cvpr-2026/cards.md#paper-raas-agent-architecture)
 - [NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code](../../conferences/cvpr-2026/cards.md#paper-nerfify)
+- [LensWalk: Agentic Video Understanding by Planning How You See in Videos](../../conferences/cvpr-2026/cards.md#paper-lenswalk)
+- [See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](../../conferences/cvpr-2026/cards.md#paper-star-gui-state-aware)
 
 <!-- conference-classification:end -->

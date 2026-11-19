@@ -1435,5 +1435,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Decoupling Stability and Plasticity for Multi-Modal Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-dasp-multimodal-tta)
 - [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-activevla)
 - [One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](../../conferences/cvpr-2026/cards.md#paper-alvts-layer-wise-token-routing)
+- [SURF: Signature-Retained Fast Video Generation](../../conferences/cvpr-2026/cards.md#paper-surf-noise-reshifting)
+- [See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](../../conferences/cvpr-2026/cards.md#paper-star-gui-state-aware)
 
 <!-- conference-classification:end -->

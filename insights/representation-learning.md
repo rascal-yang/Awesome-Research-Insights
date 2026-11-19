@@ -603,5 +603,9 @@
 - [Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement](../conferences/cvpr-2026/cards.md#paper-hrnet-hybrid-multimodal-registration)
 - [STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution](../conferences/cvpr-2026/cards.md#paper-stcdit-first-latent-anchor-guidance)
 - [A2GC: Asymmetric Aggregation with Geometric Constraints for Locally Aggregated Descriptors](../conferences/cvpr-2026/cards.md#paper-a2gc-vpr)
+- [MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectioanl Blending with Hierarchical Densification](../conferences/cvpr-2026/cards.md#paper-morel-bidirectional-keyframe-anchor-relay)
+- [CoV-Align: Efficient Fine-grained Cross-Modal Alignment with Cohesive Visual Semantics Priority](../conferences/cvpr-2026/cards.md#paper-cov-align-query-independent-visual-grouping)
+- [Hilbert Curve-Based Attention Enabling Topology-Preserving Image Tensor Representation for Semantic Segmentation Network](../conferences/cvpr-2026/cards.md#paper-tpsegformer)
+- [Gaussian Mapping for Evolving Scenes](../conferences/cvpr-2026/cards.md#paper-game-evolving-scenes)
 
 <!-- conference-classification:end -->

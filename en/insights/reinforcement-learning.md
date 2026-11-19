@@ -761,5 +761,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](../../conferences/cvpr-2026/cards.md#paper-bpgo-reward-trust)
 - [MedLoc-R1: Performance-Aware Curriculum Reward Scheduling for GRPO-Based Medical Visual Grounding](../../conferences/cvpr-2026/cards.md#paper-medloc-r1)
 - [REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding](../../conferences/cvpr-2026/cards.md#paper-revisor-dual-attribution)
+- [FINER: MLLMs Hallucinate under Fine-grained Negative Queries](../../conferences/cvpr-2026/cards.md#paper-finer-paired-fine-grained-visual-negatives)
 
 <!-- conference-classification:end -->

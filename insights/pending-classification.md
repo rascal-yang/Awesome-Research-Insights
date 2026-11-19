@@ -784,5 +784,9 @@
 - [SyncMos: Scalable Motion Synchronisation for Multi-Agent Scene Interaction](../conferences/cvpr-2026/cards.md#paper-syncmos-dependency-conditioned-time-warp)
 - [Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction](../conferences/cvpr-2026/cards.md#paper-splat-ct-pose-sensitivity)
 - [One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-elit-tail-drop-budgeted-latent-interface)
+- [Multi-Scale Local Speculative Decoding for Image Generation](../conferences/cvpr-2026/cards.md#paper-mulo-sd-spatial-local-draft-verification)
+- [Fully Decentralized Certified Unlearning](../conferences/cvpr-2026/cards.md#paper-decentralized-certified-unlearning-client-views)
+- [Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding](../conferences/cvpr-2026/cards.md#paper-qvic-memory-feedback-visual-compression)
+- [LensWalk: Agentic Video Understanding by Planning How You See in Videos](../conferences/cvpr-2026/cards.md#paper-lenswalk)
 
 <!-- conference-classification:end -->
