@@ -1418,5 +1418,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Saliency-Driven Token Merging for Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-sad-tm-saliency-merging)
 - [FastGS: Training 3D Gaussian Splatting in 100 Seconds](../../conferences/cvpr-2026/cards.md#paper-fastgs-multiview-consistency)
 - [Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing](../../conferences/cvpr-2026/cards.md#paper-edit-as-act-goal-regressive)
+- [GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation](../../conferences/cvpr-2026/cards.md#paper-geniedrive-normalized-multiview-occupancy-conditioning)
+- [Human-like Abstract Visual Reasoning via Understanding and Solving Reasoning Loop](../../conferences/cvpr-2026/cards.md#paper-usrl)
+- [MotionHiFlow: Text-to-Motion via Hierarchical Flow Matching](../../conferences/cvpr-2026/cards.md#paper-motionhiflow)
+- [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration](../../conferences/cvpr-2026/cards.md#paper-face2scene-degradation-oracle)
+- [LoL: Longer than Longer, Scaling Video Generation to Hour](../../conferences/cvpr-2026/cards.md#paper-long-video-sink-collapse)
 
 <!-- conference-classification:end -->

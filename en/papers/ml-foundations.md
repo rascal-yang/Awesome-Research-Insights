@@ -2355,5 +2355,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective](../../conferences/cvpr-2026/cards.md#paper-energy-wave-test-time-adaptation)
 - [Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-temporal-adjusted-loss)
 - [Geometry-driven OOD Detectors Are Class-Incremental Learners](../../conferences/cvpr-2026/cards.md#paper-geometry-driven-ood-heads)
+- [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](../../conferences/cvpr-2026/cards.md#paper-causal-ot-cross-channel-alignment)
+- [Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards](../../conferences/cvpr-2026/cards.md#paper-solace-denoising-self-confidence-reward)
 
 <!-- conference-classification:end -->

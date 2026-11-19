@@ -394,5 +394,8 @@
 - [SRA 2: Variational Autoencoder Self-Representation Alignment  for Efficient Diffusion Training](../conferences/cvpr-2026/cards.md#paper-sra2-vae-feature-alignment)
 - [AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Affordance Correspondence](../conferences/cvpr-2026/cards.md#paper-affordgen-geometry-demonstration-budget)
 - [Beyond Semantic Search: Towards Referential Anchoring in Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-oacir-instance-anchor-retrieval)
+- [What Makes Good Synthetic Training Data for Zero-Shot Stereo Matching?](../conferences/cvpr-2026/cards.md#paper-synthetic-stereo-camera-baseline-distribution)
+- [Retrieve-to-Restore: Efficient All-in-One Image Restoration with a Retrieval-Based Degradation Bank](../conferences/cvpr-2026/cards.md#paper-r2r-retrieved-degradation-prior-bank)
+- [MR-RAG: Multimodal Relevance-Aware Retrieval-Augmented Generation for Medical Visual Question Answering](../conferences/cvpr-2026/cards.md#paper-mr-rag)
 
 <!-- conference-classification:end -->

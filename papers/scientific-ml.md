@@ -408,5 +408,6 @@
 - [FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment](../conferences/cvpr-2026/cards.md#paper-fbta-feature-bridging)
 - [FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-fluidgaussian-functional-reconstruction)
 - [Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework](../conferences/cvpr-2026/cards.md#paper-hierarchical-prompts-positive-transfer)
+- [Spatial-SAM: Spatially Consistent 3D Electron Microscopy Segmentation with SDF Memory and Semi-Supervised Learning](../conferences/cvpr-2026/cards.md#paper-spatial-sam-sdf-memory)
 
 <!-- conference-classification:end -->

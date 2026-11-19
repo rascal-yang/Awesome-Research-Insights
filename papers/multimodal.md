@@ -1074,5 +1074,11 @@
 - [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](../conferences/cvpr-2026/cards.md#paper-adaptvision)
 - [Learning from Itself: Mining Internal Knowledge from Vision Language Models for Continual Learning](../conferences/cvpr-2026/cards.md#paper-learning-from-itself-clip-continual)
 - [Reinforcing Video Object Segmentation to Think before it Segments](../conferences/cvpr-2026/cards.md#paper-veason-r1-sequential-segmentation)
+- [Human-like Abstract Visual Reasoning via Understanding and Solving Reasoning Loop](../conferences/cvpr-2026/cards.md#paper-usrl)
+- [MotionHiFlow: Text-to-Motion via Hierarchical Flow Matching](../conferences/cvpr-2026/cards.md#paper-motionhiflow)
+- [MR-RAG: Multimodal Relevance-Aware Retrieval-Augmented Generation for Medical Visual Question Answering](../conferences/cvpr-2026/cards.md#paper-mr-rag)
+- [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](../conferences/cvpr-2026/cards.md#paper-octomed-reasoning-length)
+- [LoL: Longer than Longer, Scaling Video Generation to Hour](../conferences/cvpr-2026/cards.md#paper-long-video-sink-collapse)
+- [Bias at the End of the Score](../conferences/cvpr-2026/cards.md#paper-reward-model-demographic-audit)
 
 <!-- conference-classification:end -->

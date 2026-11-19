@@ -1018,5 +1018,8 @@ Training schedules, curricula, and task or stage composition.
 - [ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation](../../conferences/cvpr-2026/cards.md#paper-realign-forgery-detection)
 - [Learning from Itself: Mining Internal Knowledge from Vision Language Models for Continual Learning](../../conferences/cvpr-2026/cards.md#paper-learning-from-itself-clip-continual)
 - [Scene-Centric Unsupervised Video Panoptic Segmentation](../../conferences/cvpr-2026/cards.md#paper-videocups-video-droploss)
+- [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](../../conferences/cvpr-2026/cards.md#paper-octomed-reasoning-length)
+- [Let it Snow! Animating 3D Gaussian Scenes with Dynamic Weather Effects via Physics-Guided Score Distillation](../../conferences/cvpr-2026/cards.md#paper-physics-guided-sds)
+- [Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](../../conferences/cvpr-2026/cards.md#paper-flow3r-factored-flow)
 
 <!-- conference-classification:end -->

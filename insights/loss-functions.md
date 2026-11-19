@@ -418,5 +418,7 @@
 - [AToken: A Unified Tokenizer for Vision](../conferences/cvpr-2026/cards.md#paper-atoken-covariance-loss-visual-tokenizer)
 - [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](../conferences/cvpr-2026/cards.md#paper-orthogonal-gradient-matching)
 - [Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-temporal-adjusted-loss)
+- [Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards](../conferences/cvpr-2026/cards.md#paper-solace-denoising-self-confidence-reward)
+- [WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](../conferences/cvpr-2026/cards.md#paper-waterflow-temporal-watermark)
 
 <!-- conference-classification:end -->

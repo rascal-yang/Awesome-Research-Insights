@@ -9571,3 +9571,258 @@
 - **适用条件 / 局限** · 损失过滤可能压制遮挡及少见类别，深度和运动错误仍会传播。
 
 **可复用机制** · 时序全景伪标签噪声大时，在训练损失侧排除不可靠监督，并单独评估关联和语义。
+
+<a id="paper-b3seg-information-gain-view-selection"></a>
+
+## B$^3$-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kamata_B3-Seg_Camera-Free_Training-Free_3DGS_Segmentation_via_Analytic_EIG_and_Beta-Bernoulli_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kamata_B3-Seg_Camera-Free_Training-Free_3DGS_Segmentation_via_Analytic_EIG_and_Beta-Bernoulli_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 重建后的三维分割若依赖原相机视角或均匀采样，模糊区域可能得不到新增证据。
+- **核心创新 / 方法** · 以 Beta–Bernoulli 后验累积视角提供的掩膜证据，按解析期望信息增益顺序挑选视角。
+- **Baseline** · 与 FlashSplat 的均匀球面采样和重建相机采样比较；需要标注或重训的方法仅作背景。
+- **Benchmark** · LERF-Mask 与 3D-OVS，使用 mIoU、边界 mBIoU、视角预算和运行时间。
+- **关键结果 / 消融** · 表 1 的 20 视角下，B3-Seg 为 84.5 mIoU、12.1 秒，FlashSplat 的重建相机采样为 76.5、10.1 秒，球面采样为 69.6、10.2 秒。
+- **适用条件 / 局限** · 信息增益依赖可见性、候选视角和上游掩膜；已有几何重建偏差可能使置信度计算过度乐观。
+
+**可复用机制** · 需要主动挑选有限视角时，可按可见点的预期后验信息增益选下一视角，与固定或重建视角采样对照。见表 1 和第 5.4 节。
+
+<a id="paper-causal-ot-cross-channel-alignment"></a>
+
+## Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mishra_Towards_Uncertainty-aware_Unsupervised_Domain_Adaptation_for_Videos_and_Time-Series_with_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mishra_Towards_Uncertainty-aware_Unsupervised_Domain_Adaptation_for_Videos_and_Time-Series_with_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频与多通道时间序列同时有时间变化和域漂移，单纯对齐表示可能丢掉通道依赖。
+- **核心创新 / 方法** · 在源域和目标域估计通道依赖图，把结构约束纳入不确定性感知的最优传输对齐。
+- **Baseline** · 与 TA3N、MA2LT-D、TransferAttn 以及不同传输求解器比较。
+- **Benchmark** · WISDM、UCIHAR 等传感序列和 UCF101、HMDB51 的双向跨域视频分类，报告准确率。
+- **关键结果 / 消融** · 表 4 双向平均准确率为 89.85%，TransferAttn 为 88.2%；求解器消融的对齐指标中 Sinkhorn 为 0.84，Greenkhorn 为 0.81。
+- **适用条件 / 局限** · 通道关系来自观测估计，在混杂、时序干预变化或两个域依赖机制不同的情况下需重验。
+
+**可复用机制** · 跨域时序适配除了匹配特征边缘分布，也可约束通道依赖在迁移前后保持，比较不同传输求解方式。见表 4。
+
+<a id="paper-synthetic-stereo-camera-baseline-distribution"></a>
+
+## What Makes Good Synthetic Training Data for Zero-Shot Stereo Matching?
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yan_What_Makes_Good_Synthetic_Training_Data_for_Zero-Shot_Stereo_Matching_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yan_What_Makes_Good_Synthetic_Training_Data_for_Zero-Shot_Stereo_Matching_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 合成立体匹配数据的样本总量无法说明相机布置和材质分布是否覆盖目标域。
+- **核心创新 / 方法** · 每次只改变生成参数，用同样大小的数据训练同一模型，再观察零样本误差对不同目标域的变化。
+- **Baseline** · 采用 RAFT-Stereo，对照不同相机基线范围、物体密度、背景、光照和材质。
+- **Benchmark** · 每种生成设定用 5000 对合成立体图训练并零样本评估 Middlebury、ETH3D、KITTI 和 Booster。
+- **关键结果 / 消融** · 表 1 的窄基线范围 [0.04,0.1] 在 Middlebury 2014-F 和 ETH3D 的误差为 32.47、2.89；宽范围 [0.04,0.4] 为 9.19、3.92，广覆盖有显著收益也有局部代价。
+- **适用条件 / 局限** · 参数与真实部署的相机、视差、透明和反射分布相关，同一生成范围无法统一最小化所有误差。
+
+**可复用机制** · 渲染训练数据时固定样本规模，依据目标场景分布选择相机基线范围，并分别报告各目标域误差。见表 1。
+
+<a id="paper-solace-denoising-self-confidence-reward"></a>
+
+## Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Improving_Text-to-Image_Generation_with_Intrinsic_Self-Confidence_Rewards_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Improving_Text-to-Image_Generation_with_Intrinsic_Self-Confidence_Rewards_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 外部偏好模型有标注成本，也可能把优化导向高代理分但质量低的样本。
+- **核心创新 / 方法** · 对自身生成的图像潜变量重新加噪，用恢复已知噪声的准确程度定义自信度并给强化学习奖励。
+- **Baseline** · 与原 SD3.5、外部奖励 FlowGRPO、离线自信度和不同探针数量比较。
+- **Benchmark** · GenEval、文本生成 OCR、CLIP、审美和偏好评分，以及 PartiPrompts 和 HPSv2 人评。
+- **关键结果 / 消融** · 表 2 的在线奖励 GenEval、OCR 为 0.71、0.67，离线为 0.69、0.61；8 次探针到 16 次时 OCR 持平。
+- **适用条件 / 局限** · 模型可能对自己熟悉的错误也很自信，需在独立质量与多样性指标下检查偏差。
+
+**可复用机制** · 缺少可靠偏好模型时，可以把生成结果重新加噪后的恢复误差当作内在奖励，并与外部指标分开验证。见表 1、2。
+
+<a id="paper-r2r-retrieved-degradation-prior-bank"></a>
+
+## Retrieve-to-Restore: Efficient All-in-One Image Restoration with a Retrieval-Based Degradation Bank
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Retrieve-to-Restore_Efficient_All-in-One_Image_Restoration_with_a_Retrieval-Based_Degradation_Bank_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Retrieve-to-Restore_Efficient_All-in-One_Image_Restoration_with_a_Retrieval-Based_Degradation_Bank_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 去雨、去雾、去噪等任务共享参数会竞争，单一重建特征难兼顾退化识别。
+- **核心创新 / 方法** · 训练时聚合代表性退化先验，推理时从小型先验库检索与输入最相关的条件来调节共享骨干。
+- **Baseline** · 比较统一恢复模型以及不同库容量；表 6 逐步加入频域、退化和匹配损失。
+- **Benchmark** · SOTS、Rain100L 和 BSD68 的多退化恢复，指标为 PSNR 和 SSIM。
+- **关键结果 / 消融** · 表 6 加匹配损失后均值 PSNR 从 32.29 增至 32.53 dB；表 5 字典由 64 增至 128 时反降到 32.34。
+- **适用条件 / 局限** · 训练利用配对清晰参考，未见退化是否能用现有先验组合需要专门验证。
+
+**可复用机制** · 多个退化任务共用骨干时，可把退化先验移到外部字典，通过检索做条件调整，再核对容量和失真干扰。见表 5、6。
+
+<a id="paper-geniedrive-normalized-multiview-occupancy-conditioning"></a>
+
+## GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_GenieDrive_Towards_Physics-Aware_Driving_World_Model_with_4D_Occupancy_Guided_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_GenieDrive_Towards_Physics-Aware_Driving_World_Model_with_4D_Occupancy_Guided_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接从动作生成多路视频，很难同时满足需要的结构与动态一致性。
+- **核心创新 / 方法** · 先预测三维空间随时间变化的占据，压缩到连续三平面潜表示，再以归一化多视角注意力生成视频。
+- **Baseline** · 比较既有占据预测与驾驶视频模型，分别移除跨视角注意力或归一化。
+- **Benchmark** · 驾驶占据预测与多视角视频生成，采用 FVD、mIoU 和 mAP 等指标。
+- **关键结果 / 消融** · 表 5 的完整 FVD 为 98.06，无归一化为 212.67；相应 mIoU 为 31.44、21.49。
+- **适用条件 / 局限** · 依赖训练占据数据与坐标对齐。占据改善及视频观感都不足以单独证明闭环动力学正确。
+
+**可复用机制** · 世界模型可用可编辑的占据中间表示约束多视角合成，并消融归一化以检查跨视角注意力稳定性。见表 5。
+
+<a id="paper-usrl"></a>
+
+## Human-like Abstract Visual Reasoning via Understanding and Solving Reasoning Loop
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Human-like_Abstract_Visual_Reasoning_via_Understanding_and_Solving_Reasoning_Loop_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Human-like_Abstract_Visual_Reasoning_via_Understanding_and_Solving_Reasoning_Loop_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定编码少量示例后直接输出，无法利用求解失败修正对规则的理解。
+- **核心创新 / 方法** · 用理解模块维护规则表示、求解模块生成草案，两者通过迭代与门控相互更新。
+- **Baseline** · 表2比较通用模型含 Gemini 2.5 Pro 32K、o3-mini-high 与 DeepSeek-R1；表3比较仅求解模块。
+- **Benchmark** · ARC-AGI-1 评测集，每题最多两次尝试，准确率。
+- **关键结果 / 消融** · 表2 7M USRL 达47.2%；表3仅求解模块36.5%，增加无门控理解模块后40.8%。
+- **适用条件 / 局限** · 证据集中在网格变换，迭代和门控能否迁移到开放动作任务需另测。
+
+**可复用机制** · 少样本规则推断可交替更新规则假设与暂定解，并对仅求解的模型做对照。
+
+<a id="paper-motionhiflow"></a>
+
+## MotionHiFlow: Text-to-Motion via Hierarchical Flow Matching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_MotionHiFlow_Text-to-Motion_via_Hierarchical_Flow_Matching_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_MotionHiFlow_Text-to-Motion_via_Hierarchical_Flow_Matching_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单一时间尺度同时承担全局语义与快速局部动作，难兼顾对齐和连贯。
+- **核心创新 / 方法** · 从低到高时间尺度构造流匹配路径，用跨尺度过渡保持噪声一致；骨架拓扑辅助关节建模。
+- **Baseline** · 表1含 TEMOS、T2M-GPT 等，表2–3比较层级数和组件。
+- **Benchmark** · HumanML3D 与 KIT-ML 的 R-Precision、FID、多模态距离和多样性。
+- **关键结果 / 消融** · 表1 MotionHiFlow 的 FID 分别0.032与0.135，表2报告不同尺度组合。
+- **适用条件 / 局限** · 输出依赖固定骨架假设，迁移到不同控制频率与拓扑时需重估过渡。
+
+**可复用机制** · 分层生成动作时，把跨尺度噪声连续性当作设计变量。
+
+<a id="paper-mr-rag"></a>
+
+## MR-RAG: Multimodal Relevance-Aware Retrieval-Augmented Generation for Medical Visual Question Answering
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_MR-RAG_Multimodal_Relevance-Aware_Retrieval-Augmented_Generation_for_Medical_Visual_Question_Answering_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_MR-RAG_Multimodal_Relevance-Aware_Retrieval-Augmented_Generation_for_Medical_Visual_Question_Answering_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单一检索相似度难判断图文联合相关性，直接拼接会稀释关键信息。
+- **核心创新 / 方法** · 结合模态内和模态间相关性检索，再按重要性调整生成时证据信息流。
+- **Baseline** · 表1–2比较已有开源医疗 LVLM，表3在 LLaVA-Med-1.5 等对照组件。
+- **Benchmark** · Harvard-FairVLMed、IU-Xray、MIMIC-CXR，报告准确率、精确率、召回与 F1。
+- **关键结果 / 消融** · 表3在三个集合上平均比较检索与生成端模块，表1分数据集报告。
+- **适用条件 / 局限** · 相关性分数需要能预测事实效用，证据冲突或跨域时弱相关文档可能仍是关键。
+
+**可复用机制** · 分别校准检索相关性与生成阶段对每份证据的依赖，避免弱证据均匀注入。
+
+<a id="paper-octomed-reasoning-length"></a>
+
+## OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ossowski_OctoMed_Data_Recipes_for_State-of-the-Art_Multimodal_Medical_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ossowski_OctoMed_Data_Recipes_for_State-of-the-Art_Multimodal_Medical_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一长链监督可能在简短分类任务增加推理而没有收益。
+- **核心创新 / 方法** · 对多模态样本使用结构化且长短不同的推理轨迹进行监督微调。
+- **Baseline** · 表1比较直接提示与 CoT 提示，表2含同规模开放模型与商业模型。
+- **Benchmark** · 医学纯文本、多模态推理及分类，表1按任务报告指标。
+- **关键结果 / 消融** · 表1报告 CoT 帮助推理任务，直接提示在分类略优；正文观察训练后的轨迹长度随任务变化。
+- **适用条件 / 局限** · 缺少严格等数据量的跨领域长度配比实验，不能将总收益都归因于轨迹长度。
+
+**可复用机制** · 微调时可混合不同长度的结构化轨迹，并按任务分别审计直接输出与推理模式。
+
+<a id="paper-physics-guided-sds"></a>
+
+## Let it Snow! Animating 3D Gaussian Scenes with Dynamic Weather Effects via Physics-Guided Score Distillation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fiebelman_Let_it_Snow_Animating_3D_Gaussian_Scenes_with_Dynamic_Weather_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fiebelman_Let_it_Snow_Animating_3D_Gaussian_Scenes_with_Dynamic_Weather_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯物理运动难达到感知保真，纯视频蒸馏在多粒子环境难维持一致运动。
+- **核心创新 / 方法** · 用神经动态模型预测粒子运动与外观，联合优化物理引导及视频 SDS。
+- **Baseline** · 表1对比 ClimateNeRF、GaussCtrl 和 Instruct-4DGS；表2去掉碰撞、外观、运动和物理引导。
+- **Benchmark** · 静态3D场景添加雪、雨、雾、沙暴等动态效果；表1按效果报告量化指标。
+- **关键结果 / 消融** · 表2分离固定运动、物理引导和外观模块的贡献。
+- **适用条件 / 局限** · 需要可构建方向正确的模拟先验，天气粒子之外的复杂接触行为尚需验证。
+
+**可复用机制** · 编辑动态3D场景时可让物理模拟给运动先验，同时允许视觉蒸馏更新外观和运动。
+
+<a id="paper-flow3r-factored-flow"></a>
+
+## Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cong_Flow3r_Factored_Flow_Prediction_for_Scalable_Visual_Geometry_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cong_Flow3r_Factored_Flow_Prediction_for_Scalable_Visual_Geometry_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 几何和相机真值昂贵，直接从联合特征预测二维对应可能无法约束各分量。
+- **核心创新 / 方法** · 从一帧的几何潜表示和另一帧的位姿潜表示预测稠密对应，通过流监督训练两路。
+- **Baseline** · 同骨干不同对应流分解及其他现有几何重建方案。
+- **Benchmark** · 八个静态和动态基准；动态使用旋转与平移 RPE，静态用 RTA/AUC，几何用 MSE 和 F-score。
+- **关键结果 / 消融** · 表1支持分解设计，表2–3报告不同数据条件；作者在约80万无标签视频训练后指出动态场景收益最大。
+- **适用条件 / 局限** · 伪流错误、运动遮挡及尺度歧义可传入几何；数据规模变化不等同于质量改善。
+
+**可复用机制** · 用无标签视频学习几何时，将对应流的预测分解为一侧几何与另一侧位姿。
+
+<a id="paper-spatial-sam-sdf-memory"></a>
+
+## Spatial-SAM: Spatially Consistent 3D Electron Microscopy Segmentation with SDF Memory and Semi-Supervised Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Spatial-SAM_Spatially_Consistent_3D_Electron_Microscopy_Segmentation_with_SDF_Memory_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Spatial-SAM_Spatially_Consistent_3D_Electron_Microscopy_Segmentation_with_SDF_Memory_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · SAM2 的切片记忆缺少体积边界约束，零散人工标注难保持连贯。
+- **核心创新 / 方法** · 以三维 U-Net 预计算 SDF 作为 SAM2 几何记忆，再迭代使用双路伪标签。
+- **Baseline** · 与既有半监督及全监督体积分割比较，表3直接替换记忆。
+- **Benchmark** · MitoEM 等电子显微三维分割，测 Dice、mIoU，及不同标注比例。
+- **关键结果 / 消融** · 表1–3比较低标注性能并检验 SDF 记忆的贡献。
+- **适用条件 / 局限** · 距离场质量依赖预计算模型，拓扑复杂时错误边界可传播。
+
+**可复用机制** · 逐切片分割要保持三维连贯时，用显式距离场替代通用传播记忆。
+
+<a id="paper-face2scene-degradation-oracle"></a>
+
+## Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kazerouni_Face2Scene_Using_Facial_Degradation_as_an_Oracle_for_Diffusion-Based_Scene_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kazerouni_Face2Scene_Using_Facial_Degradation_as_an_Oracle_for_Diffusion-Based_Scene_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整图恢复缺乏退化约束，而专用脸部恢复无法覆盖背景。
+- **核心创新 / 方法** · 以参照恢复人脸，从清晰与退化对应区域提取多尺度退化词元，用以条件化一步扩散恢复场景。
+- **Baseline** · 全图恢复方法和脸部替换对照，含直接插入真值人脸。
+- **Benchmark** · InScene 合成与真实验证，区分人脸和场景恢复质量。
+- **关键结果 / 消融** · 表2–3报告局部估计转移到全图的收益，并对照理想人脸输入。
+- **适用条件 / 局限** · 需要可靠参考且局部与背景退化相关，空间非均匀失真时可能误导恢复。
+
+**可复用机制** · 若局部目标有可靠复原参照，从该局部估计退化后条件化整图恢复。
+
+<a id="paper-waterflow-temporal-watermark"></a>
+
+## WaTeRFlow: Watermark Temporal Robustness via Flow Consistency
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jeong_WaTeRFlow_Watermark_Temporal_Robustness_via_Flow_Consistency_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jeong_WaTeRFlow_Watermark_Temporal_Robustness_via_Flow_Consistency_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态图片可读的标记不一定经时间演变仍能恢复，独立逐帧预测会波动。
+- **核心创新 / 方法** · 训练同时包含视频转换及运动对齐一致性，保护整体语义和恢复稳定性。
+- **Baseline** · 对比图像水印方法与去掉时序训练的版本。
+- **Benchmark** · 多个图生视频模型，用首帧与逐帧 bit accuracy，另评估图像和视频质量。
+- **关键结果 / 消融** · 表1–3报告更稳的逐帧恢复并检验时序项影响。
+- **适用条件 / 局限** · 仅适用于自愿写入标记的来源，不保证所有生成器、重编码和编辑均可追溯。
+
+**可复用机制** · 需要从图生视频保留来源证据时，将水印恢复视作沿运动对应的跨帧稳定问题。
+
+<a id="paper-long-video-sink-collapse"></a>
+
+## LoL: Longer than Longer, Scaling Video Generation to Hour
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cui_LoL_Longer_than_Longer_Scaling_Video_Generation_to_Hour_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cui_LoL_Longer_than_Longer_Scaling_Video_Generation_to_Hour_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定锚帧用于缓解长程衰退，却可能反复重置场景。
+- **核心创新 / 方法** · 分析 RoPE 周期与跨头趋同的关系，以训练无关的跨头位置扰动分散同步。
+- **Baseline** · LongLive、Self-Forcing++ 在相同锚帧设置下有无机制，及其他自回归模型。
+- **Benchmark** · 75秒和100秒定量视频，另展示小时级流式生成。
+- **关键结果 / 消融** · 表1–2及长视频示例表明所测重复回跳减轻，短期质量保持。
+- **适用条件 / 局限** · 更长可生成演示不证明无限时域稳定，结论依赖锚点及位置编码设计。
+
+**可复用机制** · 自回归视频出现周期回跳时，先诊断多头位置编码是否共同锁到同一注意力锚点。
+
+<a id="paper-reward-model-demographic-audit"></a>
+
+## Bias at the End of the Score
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Magid_Bias_at_the_End_of_the_Score_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Magid_Bias_at_the_End_of_the_Score_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 奖励作为筛选、训练或评估指标时，其群体偏置可能贯穿整个生成流程。
+- **核心创新 / 方法** · 审计奖励分数，并检查经奖励引导后生成的人口流形、表征和多样性变化。
+- **Baseline** · 多个现有奖励模型及相应奖励引导设置。
+- **Benchmark** · 文生图的人口属性切分，比较评分、刻板表征和人口多样性。
+- **关键结果 / 消融** · 原文报告打分存在群体差异，奖励优化时会放大部分刻板印象并压缩多样性。
+- **适用条件 / 局限** · 群体判断依赖模型、提示分布与属性定义，审计不能替代特定部署检验。
+
+**可复用机制** · 选择文生图奖励模型时，按群体检查打分及优化后生成分布，避免总体质量掩盖偏差。

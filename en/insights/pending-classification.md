@@ -776,5 +776,6 @@
 - [FedSDR: Federated Graph Learning with Structural Noise Detection and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-fedsdr-spectral-fidelity-client-aggregation)
 - [Lipschitz Optimization for Formal Verification of Homographies](../../conferences/cvpr-2026/cards.md#paper-homography-verification)
 - [UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders](../../conferences/cvpr-2026/cards.md#paper-uplift-local-attender-iterative-feature-upsampling)
+- [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](../../conferences/cvpr-2026/cards.md#paper-causal-ot-cross-channel-alignment)
 
 <!-- conference-classification:end -->

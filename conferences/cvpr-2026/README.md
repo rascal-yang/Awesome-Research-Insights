@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 987 篇，其中 638 篇暂收录、349 篇排除，另有 3,055 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,017 篇，其中 655 篇暂收录、362 篇排除，另有 3,025 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -644,3 +644,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 987 �
 | 多模态学习 | 强化学习 | [Reinforcing Video Object Segmentation to Think before it Segments](cards.md#paper-veason-r1-sequential-segmentation) | 视频分割需要多步推理时，把关键帧选择、框定位和传播一致性变成分别可核查的奖励。 |
 | 机器人学 | 规划与决策 | [Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing](cards.md#paper-edit-as-act-goal-regressive) | 编辑三维环境时先写目标状态，再反向规划最少可验操作，保留未涉及对象。 |
 | 计算机视觉 | 自监督学习 | [Scene-Centric Unsupervised Video Panoptic Segmentation](cards.md#paper-videocups-video-droploss) | 时序全景伪标签噪声大时，在训练损失侧排除不可靠监督，并单独评估关联和语义。 |
+| 计算机视觉 | 三维重建与几何建模 | [B$^3$-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates](cards.md#paper-b3seg-information-gain-view-selection) | 需要主动挑选有限视角时，可按可见点的预期后验信息增益选下一视角，与固定或重建视角采样对照。见表 1 和第 5.4 节。 |
+| 机器学习 | 时序建模 | [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](cards.md#paper-causal-ot-cross-channel-alignment) | 跨域时序适配除了匹配特征边缘分布，也可约束通道依赖在迁移前后保持，比较不同传输求解方式。见表 4。 |
+| 计算机视觉 | 数据增强 | [What Makes Good Synthetic Training Data for Zero-Shot Stereo Matching?](cards.md#paper-synthetic-stereo-camera-baseline-distribution) | 渲染训练数据时固定样本规模，依据目标场景分布选择相机基线范围，并分别报告各目标域误差。见表 1。 |
+| 生成模型 | 损失与奖励 | [Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards](cards.md#paper-solace-denoising-self-confidence-reward) | 缺少可靠偏好模型时，可以把生成结果重新加噪后的恢复误差当作内在奖励，并与外部指标分开验证。见表 1、2。 |
+| 计算机视觉 | 检索增强 | [Retrieve-to-Restore: Efficient All-in-One Image Restoration with a Retrieval-Based Degradation Bank](cards.md#paper-r2r-retrieved-degradation-prior-bank) | 多个退化任务共用骨干时，可把退化先验移到外部字典，通过检索做条件调整，再核对容量和失真干扰。见表 5、6。 |
+| 机器人学 | 生成建模 | [GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation](cards.md#paper-geniedrive-normalized-multiview-occupancy-conditioning) | 世界模型可用可编辑的占据中间表示约束多视角合成，并消融归一化以检查跨视角注意力稳定性。见表 5。 |
+| 多模态学习 | 推理与规划 | [Human-like Abstract Visual Reasoning via Understanding and Solving Reasoning Loop](cards.md#paper-usrl) | 少样本规则推断可交替更新规则假设与暂定解，并对仅求解的模型做对照。 |
+| 多模态学习 | 生成模型 | [MotionHiFlow: Text-to-Motion via Hierarchical Flow Matching](cards.md#paper-motionhiflow) | 分层生成动作时，把跨尺度噪声连续性当作设计变量。 |
+| 多模态学习 | 检索增强生成 | [MR-RAG: Multimodal Relevance-Aware Retrieval-Augmented Generation for Medical Visual Question Answering](cards.md#paper-mr-rag) | 分别校准检索相关性与生成阶段对每份证据的依赖，避免弱证据均匀注入。 |
+| 多模态学习 | 训练策略 | [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](cards.md#paper-octomed-reasoning-length) | 微调时可混合不同长度的结构化轨迹，并按任务分别审计直接输出与推理模式。 |
+| 计算机视觉 | 训练策略 | [Let it Snow! Animating 3D Gaussian Scenes with Dynamic Weather Effects via Physics-Guided Score Distillation](cards.md#paper-physics-guided-sds) | 编辑动态3D场景时可让物理模拟给运动先验，同时允许视觉蒸馏更新外观和运动。 |
+| 计算机视觉 | 自监督学习 | [Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](cards.md#paper-flow3r-factored-flow) | 用无标签视频学习几何时，将对应流的预测分解为一侧几何与另一侧位姿。 |
+| 科学与医学 AI | 表示学习 | [Spatial-SAM: Spatially Consistent 3D Electron Microscopy Segmentation with SDF Memory and Semi-Supervised Learning](cards.md#paper-spatial-sam-sdf-memory) | 逐切片分割要保持三维连贯时，用显式距离场替代通用传播记忆。 |
+| 计算机视觉 | 条件生成 | [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration](cards.md#paper-face2scene-degradation-oracle) | 若局部目标有可靠复原参照，从该局部估计退化后条件化整图恢复。 |
+| 计算机视觉 | 损失函数与优化 | [WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](cards.md#paper-waterflow-temporal-watermark) | 需要从图生视频保留来源证据时，将水印恢复视作沿运动对应的跨帧稳定问题。 |
+| 多模态学习 | 推理优化 | [LoL: Longer than Longer, Scaling Video Generation to Hour](cards.md#paper-long-video-sink-collapse) | 自回归视频出现周期回跳时，先诊断多头位置编码是否共同锁到同一注意力锚点。 |
+| 多模态学习 | 评测与分析 | [Bias at the End of the Score](cards.md#paper-reward-model-demographic-audit) | 选择文生图奖励模型时，按群体检查打分及优化后生成分布，避免总体质量掩盖偏差。 |

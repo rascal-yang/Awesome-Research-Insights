@@ -1465,5 +1465,6 @@
 - [Improving Sparse Autoencoder with Dynamic Attention](../conferences/cvpr-2026/cards.md#paper-dynamic-attention-sae)
 - [Hear you are: Teaching LLMs Spatial Reasoning with Vision and Spatial Sound](../conferences/cvpr-2026/cards.md#paper-binaural-spatial-reasoning)
 - [InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity](../conferences/cvpr-2026/cards.md#paper-infinibench-irrelevant-object-spatial-stress-test)
+- [Bias at the End of the Score](../conferences/cvpr-2026/cards.md#paper-reward-model-demographic-audit)
 
 <!-- conference-classification:end -->

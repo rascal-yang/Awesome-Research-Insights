@@ -595,5 +595,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [RNED: Rotary Number Encoding and Decoding for Medical VLMs](../../conferences/cvpr-2026/cards.md#paper-rned-continuous-number-tokens)
 - [Distribution-Aligned Multimodal Fusion for Robust Object Detection](../../conferences/cvpr-2026/cards.md#paper-clean-pretraining-feature-target-multimodal-fusion)
 - [ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes](../../conferences/cvpr-2026/cards.md#paper-rescene4d)
+- [B$^3$-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates](../../conferences/cvpr-2026/cards.md#paper-b3seg-information-gain-view-selection)
+- [Spatial-SAM: Spatially Consistent 3D Electron Microscopy Segmentation with SDF Memory and Semi-Supervised Learning](../../conferences/cvpr-2026/cards.md#paper-spatial-sam-sdf-memory)
 
 <!-- conference-classification:end -->

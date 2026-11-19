@@ -1179,5 +1179,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [Saliency-Driven Token Merging for Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-sad-tm-saliency-merging)
 - [FastGS: Training 3D Gaussian Splatting in 100 Seconds](../../conferences/cvpr-2026/cards.md#paper-fastgs-multiview-consistency)
 - [Scene-Centric Unsupervised Video Panoptic Segmentation](../../conferences/cvpr-2026/cards.md#paper-videocups-video-droploss)
+- [B$^3$-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates](../../conferences/cvpr-2026/cards.md#paper-b3seg-information-gain-view-selection)
+- [What Makes Good Synthetic Training Data for Zero-Shot Stereo Matching?](../../conferences/cvpr-2026/cards.md#paper-synthetic-stereo-camera-baseline-distribution)
+- [Retrieve-to-Restore: Efficient All-in-One Image Restoration with a Retrieval-Based Degradation Bank](../../conferences/cvpr-2026/cards.md#paper-r2r-retrieved-degradation-prior-bank)
+- [Let it Snow! Animating 3D Gaussian Scenes with Dynamic Weather Effects via Physics-Guided Score Distillation](../../conferences/cvpr-2026/cards.md#paper-physics-guided-sds)
+- [Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](../../conferences/cvpr-2026/cards.md#paper-flow3r-factored-flow)
+- [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration](../../conferences/cvpr-2026/cards.md#paper-face2scene-degradation-oracle)
+- [WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](../../conferences/cvpr-2026/cards.md#paper-waterflow-temporal-watermark)
 
 <!-- conference-classification:end -->
