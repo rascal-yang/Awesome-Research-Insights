@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,967 篇，其中 1,876 篇暂收录、1,091 篇排除，另有 1,075 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,997 篇，其中 1,893 篇暂收录、1,104 篇排除，另有 1,045 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1882,3 +1882,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,967
 | 生成模型 | 强化学习与奖励 | [Enhancing Spatial Understanding in Image Generation via Reward Modeling](cards.md#paper-spatialscore-controlled-spatial-preference-pairs) | 用有控制的关系扰动构造近似反事实配对，训练奖励识别空间关系而非整体画质。 |
 | 机器学习 | 数据筛选 | [Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](cards.md#paper-diq-difficulty-gradient-data-selection) | 筛选少量微调数据时联合考虑推理难度和梯度影响，避免只选容易或异常难的样本。 |
 | 机器人学 | 视觉定位 | [Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM](cards.md#paper-flow4dgs-egomotion-residual-separation) | 先拟合相机自身运动解释光流，再用剩余运动划分动态区域并初始化位姿。 |
+| 机器人学 | 模型架构 | [Perceptual 3D Simulation With Physical World Modeling](cards.md#paper-persistent-memory-partial-physical-simulation) | 只知道部分三维动作或观测时，可将概率世界模型与持久场景记忆结合，保持模拟过程一致。 |
+| 计算机视觉 | 评测与诊断 | [HalluGen: Synthesizing Realistic and Controllable Hallucinations for Evaluating Image Restoration](cards.md#paper-controlled-restoration-hallucination-evaluation) | 评估复原幻觉时可分别控制伪结构的位置、类型、严重程度，帮助检测器区分语义错误与画质损失。 |
+| 多模态学习 | 表征学习 | [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](cards.md#paper-sparse-irregular-temporal-view-invariance) | 不规则的多传感器序列可以用随机稀疏抽样构建不同时间视图，学到对观测缺失稳定的表征。 |
+| 计算机视觉 | 训练策略 | [DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures](cards.md#paper-failed-reconstruction-to-object-pseudo-mask) | 无可靠前景标签时，可利用第一轮重建失败定位瞬态物体，再用对象级伪掩码重新训练。 |
+| 计算机视觉 | 模型架构 | [Bi-directional Autoregressive Diffusion for Large Complex Motion Interpolation](cards.md#paper-bidirectional-feature-first-motion-interpolation) | 大幅运动插帧可从两个端点逐步向中间推进，并用语义特征先约束中间轨迹。 |
+| 计算机视觉 | 推理策略 | [INSID3: Training-Free In-Context Segmentation with DINOv3](cards.md#paper-insid3-frozen-dense-features) | 先检验单一冻结视觉骨干的密集特征能否同时完成对应和分割，再考虑增加模型。 |
+| 计算机视觉 | 模型架构 | [Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors](cards.md#paper-orbital-video-dual-3d-priors) | 弱像素对应的新视角可用全局三维结构和可投影局部潜特征联合约束。 |
+| 机器人学 | 优化策略 | [ArtPro: Self-Supervised Articulated Object Reconstruction with Adaptive Integration of Mobility Proposals](cards.md#paper-artpro-mobility-proposals) | 先过分割，再按运动一致性合并提案，并用碰撞检查剪去不合理关节。 |
+| 机器人学 | 模型架构 | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](cards.md#paper-lcdrive-latent-action-reasoning) | 使用和执行动作共享词表的提议令牌，并交替预测潜在后果，形成可用于规划的内部推演。 |
+| 计算机视觉 | 训练策略 | [Enabling Supervised Learning of Generative Signatures for Generalized AI-Generated Images Detection](cards.md#paper-gensign-surrogate-supervision) | 无法获得干扰前后配对时，以多种代理过程生成同源残差，用实域测试检验迁移。 |
+| 机器人学 | 损失函数 | [RoboTAG: End-to-end Robot Pose Estimation via Topological Alignment Graph](cards.md#paper-robotag-loop-alignment) | 构造相机、机器人状态和二维特征之间的图闭环，用一致性降低真实标注依赖。 |
+| 多模态学习 | 训练策略 | [Incentivizing Versatile Video Reasoning in MLLMs via Data-Efficient Reinforcement Learning](cards.md#paper-multitask-visual-reasoning-rl) | 先用多任务冷启动建立视觉定位能力，再在强化训练中要求推理使用可定位的多模态元素。 |
+| 生成模型 | 模型量化 | [SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models](cards.md#paper-segquant-graph-based-quantization) | 按推理图分段选择量化手段，并在真实激活上检查符号分布。 |
+| 高效深度学习 | 算子优化 | [Efficient All-Pairs Correlation Volume Sampling for Optical Flow Estimation](cards.md#paper-raft-exact-efficient-correlation-sampling) | 在保留原有全对相关采样语义的前提下改写内存访问与计算。 |
+| 多模态学习 | 持续学习 | [Multimodal Continual Instruction Tuning with Dynamic Gradient Guidance](cards.md#paper-dynamic-gradient-guidance-continual-tuning) | 存储阶段最优参数，用参数间位移近似旧任务引导并与小回放合用。 |
+| 三维视觉 | 自监督表征 | [Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners](cards.md#paper-lila-linear-in-context-dense-video-features) | 用带噪深度和运动线索学习可在线性探针下迁移的逐像素时空描述子。 |
+| 多模态学习 | 视觉 Token 筛选 | [Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection](cards.md#paper-hilo-prune-absorb-before-removal) | 先让保留的 token 吸收将被裁剪的信息，再执行粗到细删除。 |

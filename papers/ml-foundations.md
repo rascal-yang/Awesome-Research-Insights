@@ -2563,5 +2563,7 @@
 - [Learning from Oblivion: Predicting Knowledge-Overflowed Weights via Retrodiction of Forgetting](../conferences/cvpr-2026/cards.md#paper-know-reverse-structured-forgetting)
 - [Enhancing Spatial Understanding in Image Generation via Reward Modeling](../conferences/cvpr-2026/cards.md#paper-spatialscore-controlled-spatial-preference-pairs)
 - [Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](../conferences/cvpr-2026/cards.md#paper-diq-difficulty-gradient-data-selection)
+- [SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-segquant-graph-based-quantization)
+- [Efficient All-Pairs Correlation Volume Sampling for Optical Flow Estimation](../conferences/cvpr-2026/cards.md#paper-raft-exact-efficient-correlation-sampling)
 
 <!-- conference-classification:end -->

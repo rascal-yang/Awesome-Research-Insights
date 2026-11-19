@@ -762,5 +762,9 @@
 - [AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-adaptive-tactile-injection-action-feedback)
 - [Optical Flow Matching: Reframing Optical Flow as Continuous Transport Dynamics](../conferences/cvpr-2026/cards.md#paper-optical-flow-continuous-transport)
 - [TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction](../conferences/cvpr-2026/cards.md#paper-tempomaster-frame-rate-levels)
+- [Perceptual 3D Simulation With Physical World Modeling](../conferences/cvpr-2026/cards.md#paper-persistent-memory-partial-physical-simulation)
+- [Bi-directional Autoregressive Diffusion for Large Complex Motion Interpolation](../conferences/cvpr-2026/cards.md#paper-bidirectional-feature-first-motion-interpolation)
+- [Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors](../conferences/cvpr-2026/cards.md#paper-orbital-video-dual-3d-priors)
+- [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-lcdrive-latent-action-reasoning)
 
 <!-- conference-classification:end -->

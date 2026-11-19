@@ -1272,5 +1272,10 @@
 - [Towards Multimodal Domain Generalization with Few Labels](../conferences/cvpr-2026/cards.md#paper-ssmdg-consensus-disagreement)
 - [Smoothing the Score Function to Enhance Generalization in Diffusion Models](../conferences/cvpr-2026/cards.md#paper-score-smoothing-diffusion)
 - [Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning](../conferences/cvpr-2026/cards.md#paper-lost-text-layer-reuse)
+- [DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures](../conferences/cvpr-2026/cards.md#paper-failed-reconstruction-to-object-pseudo-mask)
+- [Enabling Supervised Learning of Generative Signatures for Generalized AI-Generated Images Detection](../conferences/cvpr-2026/cards.md#paper-gensign-surrogate-supervision)
+- [Incentivizing Versatile Video Reasoning in MLLMs via Data-Efficient Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-multitask-visual-reasoning-rl)
+- [Multimodal Continual Instruction Tuning with Dynamic Gradient Guidance](../conferences/cvpr-2026/cards.md#paper-dynamic-gradient-guidance-continual-tuning)
+- [Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners](../conferences/cvpr-2026/cards.md#paper-lila-linear-in-context-dense-video-features)
 
 <!-- conference-classification:end -->

@@ -710,5 +710,7 @@
 - [ReFTA: Breaking the Weight Reconstruction Bottleneck in Tensorized Parameter-Efficient Fine-Tuning](../conferences/cvpr-2026/cards.md#paper-factor-space-tensor-finetuning)
 - [Dynamic Important Example Mining for Reinforcement Finetuning](../conferences/cvpr-2026/cards.md#paper-diem-gradient-example-mining)
 - [Simple but Effective Triplet-Based Compression Strategies for Compact Visual Localization](../conferences/cvpr-2026/cards.md#paper-triplet-localization-compression)
+- [ArtPro: Self-Supervised Articulated Object Reconstruction with Adaptive Integration of Mobility Proposals](../conferences/cvpr-2026/cards.md#paper-artpro-mobility-proposals)
+- [Efficient All-Pairs Correlation Volume Sampling for Optical Flow Estimation](../conferences/cvpr-2026/cards.md#paper-raft-exact-efficient-correlation-sampling)
 
 <!-- conference-classification:end -->

@@ -1593,5 +1593,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [AssemblyBench: Physics-Aware Assembly of Complex Industrial Objects](../../conferences/cvpr-2026/cards.md#paper-physical-trajectory-evaluation-assembly)
 - [Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark](../../conferences/cvpr-2026/cards.md#paper-scenebench-long-context-forgetting)
 - [Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation](../../conferences/cvpr-2026/cards.md#paper-spatialsky-spatial-diagnosis)
+- [HalluGen: Synthesizing Realistic and Controllable Hallucinations for Evaluating Image Restoration](../../conferences/cvpr-2026/cards.md#paper-controlled-restoration-hallucination-evaluation)
 
 <!-- conference-classification:end -->

@@ -755,5 +755,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](../../conferences/cvpr-2026/cards.md#paper-mantis-decoupled-visual-foresight)
 - [SIR: Structured Image Representations for Explainable Robot Learning](../../conferences/cvpr-2026/cards.md#paper-learned-sparse-object-graphs-for-policy)
 - [ChronoGS: Disentangling Invariants and Changes in Multi-Period Scenes](../../conferences/cvpr-2026/cards.md#paper-stable-anchor-time-discontinuous-scene)
+- [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](../../conferences/cvpr-2026/cards.md#paper-sparse-irregular-temporal-view-invariance)
 
 <!-- conference-classification:end -->

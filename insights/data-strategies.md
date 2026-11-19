@@ -447,5 +447,6 @@
 - [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-scene-graph-difficulty-adaptive-curriculum)
 - [Label What Matters: Modality-Balanced and Difficulty-Aware Multimodal Active Learning](../conferences/cvpr-2026/cards.md#paper-modality-and-difficulty-adaptive-active-labeling)
 - [Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](../conferences/cvpr-2026/cards.md#paper-diq-difficulty-gradient-data-selection)
+- [Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection](../conferences/cvpr-2026/cards.md#paper-hilo-prune-absorb-before-removal)
 
 <!-- conference-classification:end -->

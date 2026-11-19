@@ -1500,5 +1500,9 @@ Learning across modalities such as images, text, audio, and video.
 - [Towards Multimodal Domain Generalization with Few Labels](../../conferences/cvpr-2026/cards.md#paper-ssmdg-consensus-disagreement)
 - [SegMo: Co-Designing Content-Aware Sparsity and Locally-Cohesive Segment Parallelism for Efficient VLM Inference](../../conferences/cvpr-2026/cards.md#paper-segmo-locally-cohesive-prefill)
 - [Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning](../../conferences/cvpr-2026/cards.md#paper-lost-text-layer-reuse)
+- [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](../../conferences/cvpr-2026/cards.md#paper-sparse-irregular-temporal-view-invariance)
+- [Incentivizing Versatile Video Reasoning in MLLMs via Data-Efficient Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-multitask-visual-reasoning-rl)
+- [Multimodal Continual Instruction Tuning with Dynamic Gradient Guidance](../../conferences/cvpr-2026/cards.md#paper-dynamic-gradient-guidance-continual-tuning)
+- [Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection](../../conferences/cvpr-2026/cards.md#paper-hilo-prune-absorb-before-removal)
 
 <!-- conference-classification:end -->

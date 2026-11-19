@@ -1564,5 +1564,12 @@
 - [PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts](../conferences/cvpr-2026/cards.md#paper-mono-structure-stereo-motion-refinement)
 - [Optical Flow Matching: Reframing Optical Flow as Continuous Transport Dynamics](../conferences/cvpr-2026/cards.md#paper-optical-flow-continuous-transport)
 - [TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction](../conferences/cvpr-2026/cards.md#paper-tempomaster-frame-rate-levels)
+- [HalluGen: Synthesizing Realistic and Controllable Hallucinations for Evaluating Image Restoration](../conferences/cvpr-2026/cards.md#paper-controlled-restoration-hallucination-evaluation)
+- [DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures](../conferences/cvpr-2026/cards.md#paper-failed-reconstruction-to-object-pseudo-mask)
+- [Bi-directional Autoregressive Diffusion for Large Complex Motion Interpolation](../conferences/cvpr-2026/cards.md#paper-bidirectional-feature-first-motion-interpolation)
+- [INSID3: Training-Free In-Context Segmentation with DINOv3](../conferences/cvpr-2026/cards.md#paper-insid3-frozen-dense-features)
+- [Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors](../conferences/cvpr-2026/cards.md#paper-orbital-video-dual-3d-priors)
+- [Enabling Supervised Learning of Generative Signatures for Generalized AI-Generated Images Detection](../conferences/cvpr-2026/cards.md#paper-gensign-surrogate-supervision)
+- [Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners](../conferences/cvpr-2026/cards.md#paper-lila-linear-in-context-dense-video-features)
 
 <!-- conference-classification:end -->

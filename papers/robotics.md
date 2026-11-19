@@ -1096,5 +1096,9 @@
 - [AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-adaptive-tactile-injection-action-feedback)
 - [Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation](../conferences/cvpr-2026/cards.md#paper-spatialsky-spatial-diagnosis)
 - [Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM](../conferences/cvpr-2026/cards.md#paper-flow4dgs-egomotion-residual-separation)
+- [Perceptual 3D Simulation With Physical World Modeling](../conferences/cvpr-2026/cards.md#paper-persistent-memory-partial-physical-simulation)
+- [ArtPro: Self-Supervised Articulated Object Reconstruction with Adaptive Integration of Mobility Proposals](../conferences/cvpr-2026/cards.md#paper-artpro-mobility-proposals)
+- [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-lcdrive-latent-action-reasoning)
+- [RoboTAG: End-to-end Robot Pose Estimation via Topological Alignment Graph](../conferences/cvpr-2026/cards.md#paper-robotag-loop-alignment)
 
 <!-- conference-classification:end -->

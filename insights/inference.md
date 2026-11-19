@@ -1659,5 +1659,7 @@
 - [Fighting Hallucinations with Counterfactuals: Diffusion-Guided Perturbations for LVLM Hallucination Suppression](../conferences/cvpr-2026/cards.md#paper-counterfactual-visual-feature-correction)
 - [SegMo: Co-Designing Content-Aware Sparsity and Locally-Cohesive Segment Parallelism for Efficient VLM Inference](../conferences/cvpr-2026/cards.md#paper-segmo-locally-cohesive-prefill)
 - [DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution](../conferences/cvpr-2026/cards.md#paper-dtg-restore-decoupled-guidance-timesteps)
+- [INSID3: Training-Free In-Context Segmentation with DINOv3](../conferences/cvpr-2026/cards.md#paper-insid3-frozen-dense-features)
+- [SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-segquant-graph-based-quantization)
 
 <!-- conference-classification:end -->
