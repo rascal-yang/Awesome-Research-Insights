@@ -790,5 +790,7 @@
 - [LensWalk: Agentic Video Understanding by Planning How You See in Videos](../../conferences/cvpr-2026/cards.md#paper-lenswalk)
 - [Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding](../../conferences/cvpr-2026/cards.md#paper-braincodec-contextual-sensor-encoding-inversion)
 - [Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing](../../conferences/cvpr-2026/cards.md#paper-relzero-patch-relations-defensive-authentication)
+- [Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention](../../conferences/cvpr-2026/cards.md#paper-global-video-token-selection-with-redundancy-refill)
+- [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](../../conferences/cvpr-2026/cards.md#paper-clivis-cognitive-map)
 
 <!-- conference-classification:end -->

@@ -1222,5 +1222,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [U^2Flow: Uncertainty-Aware Unsupervised Optical Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-u2flow)
 - [Scaling Dense Event-Stream Pretraining from Visual Foundation Models](../../conferences/cvpr-2026/cards.md#paper-structure-aware-event-distillation)
 - [CoWTracker: Tracking by Warping instead of Correlation](../../conferences/cvpr-2026/cards.md#paper-cowtracker-warping)
+- [From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning](../../conferences/cvpr-2026/cards.md#paper-cosettle-temporal-consistency-semantic-separability)
+- [Guiding a Diffusion Model by Swapping Its Tokens](../../conferences/cvpr-2026/cards.md#paper-self-swap-guidance)
+- [Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising](../../conferences/cvpr-2026/cards.md#paper-next-scale-prediction)
+- [GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement](../../conferences/cvpr-2026/cards.md#paper-gem-tfl-weak-temporal-localization)
 
 <!-- conference-classification:end -->

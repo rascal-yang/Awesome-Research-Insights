@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,227 篇，其中 784 篇暂收录、443 篇排除，另有 2,815 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,257 篇，其中 801 篇暂收录、456 篇排除，另有 2,785 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -790,3 +790,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,227
 | 多模态学习 | 可解释性与诊断 | [Understanding Temporal Logic Consistency in Video-Language Models through Cross-Modal Attention Discriminability](cards.md#paper-tcas-temporal-attention-discriminability) | 视频答案改写后不一致时，检查跨模态注意力是否区分时间点，再实验性增强时序区分。 |
 | 机器人学 | 评测与分析 | [CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](cards.md#paper-capnav-capability-conditioned-navigation) | 衡量跨机体导航时按具体尺寸和越障能力划分可行路径，避免用统一可达标签。 |
 | 多模态学习 | 可解释性与诊断 | [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](cards.md#paper-cultural-representation-activation) | 跨语言生图出现文化泛化时，先探测表征是否可激活，再决定做定层调整还是更新整网。 |
+| 机器人学 | 三维重建与几何建模 | [Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation](cards.md#paper-hypodepth-discrete-hypothesis-residual-search) | 单目传感深度可先保留离散候选，再做逐尺度残差搜索，用同骨干的连续深度反馈验证收敛与误差。见表 4。 |
+| 生成模型 | 模型蒸馏 | [Transition Matching Distillation for Fast Video Generation](cards.md#paper-tmd-backbone-reuse-inner-transition-head) | 少步视频蒸馏可在外层更新语义、内层只用轻量头细化，并按实际执行的主干块数计算成本。见表 1。 |
+| 机器人学 | 三维重建与几何建模 | [MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos](cards.md#paper-mocapanything-reference-conditioned-skeleton-ik) | 面向变化骨架时，可将关节轨迹估计与目标资产旋转解算分开，以参考几何条件控制输出。见表 1、2。 |
+| 多模态学习 | 三维重建与几何建模 | [No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency](cards.md#paper-cross-sensor-confidence-densification-and-self-match) | 跨传感器难标定时，可以把稀疏跨域匹配先用置信度补稠，再用同域自匹配剔除不一致，分别查看增益。见表 5。 |
+| 计算机视觉 | 表征学习 | [From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning](cards.md#paper-cosettle-temporal-consistency-semantic-separability) | 图像骨干转到视频时，可冻结骨干并同时考核跨视频可分性和同视频时序一致性，避免只优化同视频匹配。见表 4、5。 |
+| 生成模型 | 训练策略 | [Transition Models: Rethinking the Generative Learning Objective](cards.md#paper-tim-finite-interval-generation-objective) | 希望同一模型可一次生成或多步逐级改进时，可直接学习任意有限区间的生成转移，并画出函数评估数与质量的关系。见表 6。 |
+| 多模态学习 | 模型效率 | [Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention](cards.md#paper-global-video-token-selection-with-redundancy-refill) | 视频标记保留率很低时，可在统一时空池分配预算，把显著性与去冗余及合并协同，并测哪些任务仍丢证据。见表 5。 |
+| 多模态学习 | 训练策略 | [Bootstrapping Multi-view Learning for Test-time Noisy Correspondence](cards.md#paper-bml-noisy-correspondence) | 将模态本身质量与视图配错视为异质误差，使用人为控制的错配标注训练两类可靠性。 |
+| 多模态学习 | 持续学习 | [Octopus: History-Free Gradient Orthogonalization for Continual Learning in Multimodal Large Language Models](cards.md#paper-octopus-hifgo) | 不能存旧数据时，分阶段执行当前任务适配和梯度去干扰，并显式比较任务顺序。 |
+| 计算机视觉 | 推理策略 | [Guiding a Diffusion Model by Swapping Its Tokens](cards.md#paper-self-swap-guidance) | 没有可用条件分支时，可用语义错配潜 token 生成对照预测，再利用两支差异指导扩散。 |
+| 智能体 | 自动化工作流 | [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](cards.md#paper-clivis-cognitive-map) | 跨时刻具身推理可让计划器按需调视觉模型，再累计可更新的结构化场景记忆。 |
+| 计算机视觉 | 自监督学习 | [Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising](cards.md#paper-next-scale-prediction) | 去噪自监督可分别选择输入和目标尺度，以较粗输入降低噪声相关，同时保留细目标监督。 |
+| 机器学习基础 | 可解释性与诊断 | [Mitigating Simplicity Bias in OOD Detection through Object Co-occurrence Analysis](cards.md#paper-oco-object-cooccurrence-ood) | 单个对象看起来都熟悉时，用对象组合共现的异常程度判断近分布外。 |
+| 多模态学习 | 评测与分析 | [GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation](cards.md#paper-groundingme-rejection-tests) | 视觉指代评估单设不可定位的拒答场景，避免常规准确率掩盖强行输出。 |
+| 多模态学习 | 微调与适配 | [AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models](cards.md#paper-agft-soft-alignment) | 视觉语言模型做防御微调时保留原模型对全部文本的软语义对齐，并校准新的输出分布。 |
+| 计算机视觉 | 自监督学习 | [GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement](cards.md#paper-gem-tfl-weak-temporal-localization) | 只有视频级标签但要定位时段时，用潜属性丰富训练信号并联合重排相邻候选。 |
+| 机器学习基础 | 模型架构 | [Coupling Liquid Time-Constant Encoders with Modern Hopfield Memory](cards.md#paper-ltc-hopfield-memory) | 连续时间模型中可把快速动态与较长期内容检索分开，避免单隐状态互相覆盖。 |

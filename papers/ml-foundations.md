@@ -2381,5 +2381,9 @@
 - [RebRL: Reinforcing Discrete Visual Diffusion Models with Rebalanced Timestep Credits](../conferences/cvpr-2026/cards.md#paper-rebrl-discrete-token-timestep-credit)
 - [Back to Basics: Let Denoising Generative Models Denoise](../conferences/cvpr-2026/cards.md#paper-jit-denoise-clean-data)
 - [When Do Models Actually Decide? Mapping the Layer-Wise Decision Timeline in Pretrained Neural Networks](../conferences/cvpr-2026/cards.md#paper-layer-wise-decision-timeline)
+- [Transition Matching Distillation for Fast Video Generation](../conferences/cvpr-2026/cards.md#paper-tmd-backbone-reuse-inner-transition-head)
+- [Transition Models: Rethinking the Generative Learning Objective](../conferences/cvpr-2026/cards.md#paper-tim-finite-interval-generation-objective)
+- [Mitigating Simplicity Bias in OOD Detection through Object Co-occurrence Analysis](../conferences/cvpr-2026/cards.md#paper-oco-object-cooccurrence-ood)
+- [Coupling Liquid Time-Constant Encoders with Modern Hopfield Memory](../conferences/cvpr-2026/cards.md#paper-ltc-hopfield-memory)
 
 <!-- conference-classification:end -->

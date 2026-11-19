@@ -1042,5 +1042,12 @@ Training schedules, curricula, and task or stage composition.
 - [PureCC: Pure Learning for Text-to-Image Concept Customization](../../conferences/cvpr-2026/cards.md#paper-purecc)
 - [U^2Flow: Uncertainty-Aware Unsupervised Optical Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-u2flow)
 - [Scaling Dense Event-Stream Pretraining from Visual Foundation Models](../../conferences/cvpr-2026/cards.md#paper-structure-aware-event-distillation)
+- [Transition Matching Distillation for Fast Video Generation](../../conferences/cvpr-2026/cards.md#paper-tmd-backbone-reuse-inner-transition-head)
+- [Transition Models: Rethinking the Generative Learning Objective](../../conferences/cvpr-2026/cards.md#paper-tim-finite-interval-generation-objective)
+- [Bootstrapping Multi-view Learning for Test-time Noisy Correspondence](../../conferences/cvpr-2026/cards.md#paper-bml-noisy-correspondence)
+- [Octopus: History-Free Gradient Orthogonalization for Continual Learning in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-octopus-hifgo)
+- [Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising](../../conferences/cvpr-2026/cards.md#paper-next-scale-prediction)
+- [AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-agft-soft-alignment)
+- [GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement](../../conferences/cvpr-2026/cards.md#paper-gem-tfl-weak-temporal-localization)
 
 <!-- conference-classification:end -->

@@ -1125,5 +1125,11 @@
 - [PureCC: Pure Learning for Text-to-Image Concept Customization](../conferences/cvpr-2026/cards.md#paper-purecc)
 - [Understanding Temporal Logic Consistency in Video-Language Models through Cross-Modal Attention Discriminability](../conferences/cvpr-2026/cards.md#paper-tcas-temporal-attention-discriminability)
 - [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-cultural-representation-activation)
+- [No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency](../conferences/cvpr-2026/cards.md#paper-cross-sensor-confidence-densification-and-self-match)
+- [Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention](../conferences/cvpr-2026/cards.md#paper-global-video-token-selection-with-redundancy-refill)
+- [Bootstrapping Multi-view Learning for Test-time Noisy Correspondence](../conferences/cvpr-2026/cards.md#paper-bml-noisy-correspondence)
+- [Octopus: History-Free Gradient Orthogonalization for Continual Learning in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-octopus-hifgo)
+- [GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation](../conferences/cvpr-2026/cards.md#paper-groundingme-rejection-tests)
+- [AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-agft-soft-alignment)
 
 <!-- conference-classification:end -->

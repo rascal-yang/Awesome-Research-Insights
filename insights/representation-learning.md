@@ -618,5 +618,9 @@
 - [Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery](../conferences/cvpr-2026/cards.md#paper-gslr-low-rank-tensor)
 - [AutoTraces: Autoregressive Trajectory Forecasting via Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-autotraces-hybrid-continuous-waypoint-tokens)
 - [Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo](../conferences/cvpr-2026/cards.md#paper-cross-modal-stereo-dual-domain-projection)
+- [Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation](../conferences/cvpr-2026/cards.md#paper-hypodepth-discrete-hypothesis-residual-search)
+- [MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos](../conferences/cvpr-2026/cards.md#paper-mocapanything-reference-conditioned-skeleton-ik)
+- [No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency](../conferences/cvpr-2026/cards.md#paper-cross-sensor-confidence-densification-and-self-match)
+- [From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning](../conferences/cvpr-2026/cards.md#paper-cosettle-temporal-consistency-semantic-separability)
 
 <!-- conference-classification:end -->

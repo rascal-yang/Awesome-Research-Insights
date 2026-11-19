@@ -1483,5 +1483,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Understanding Temporal Logic Consistency in Video-Language Models through Cross-Modal Attention Discriminability](../../conferences/cvpr-2026/cards.md#paper-tcas-temporal-attention-discriminability)
 - [CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](../../conferences/cvpr-2026/cards.md#paper-capnav-capability-conditioned-navigation)
 - [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-cultural-representation-activation)
+- [Mitigating Simplicity Bias in OOD Detection through Object Co-occurrence Analysis](../../conferences/cvpr-2026/cards.md#paper-oco-object-cooccurrence-ood)
+- [GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation](../../conferences/cvpr-2026/cards.md#paper-groundingme-rejection-tests)
 
 <!-- conference-classification:end -->

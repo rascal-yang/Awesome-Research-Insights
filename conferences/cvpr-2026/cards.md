@@ -11761,3 +11761,258 @@
 - **适用条件 / 局限** · 文化概念区分及评测依赖标注语境，少量模型结果不能证明普遍存在文化专属单元。
 
 **可复用机制** · 跨语言生图出现文化泛化时，先探测表征是否可激活，再决定做定层调整还是更新整网。
+
+<a id="paper-hypodepth-discrete-hypothesis-residual-search"></a>
+
+## Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Depth_Hypothesis_Guided_Iterative_Refinement_for_Event-Image_Monocular_Depth_Estimation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Depth_Hypothesis_Guided_Iterative_Refinement_for_Event-Image_Monocular_Depth_Estimation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 事件与图像的融合能够补足输入，却不能解决直接回归整个深度场的歧义。
+- **核心创新 / 方法** · 构建离散深度假设体，以相关代价从粗到细检索并细化残差。
+- **Baseline** · 与迭代连续深度、去除 GRU 或多尺度查找等变体和其他单目方法比较。
+- **Benchmark** · DSEC、MVSEC 的事件和图像单目深度，使用 δ1、绝对相对误差、RMSE 及算力。
+- **关键结果 / 消融** · 表 4 轻量模型完整 δ1 为 0.885、AbsRel 为 0.105，去掉离散假设体分别为 0.873、0.113。
+- **适用条件 / 局限** · 候选深度的取值范围与尺度分配影响精度，稀疏与非同步事件场景需重测。
+
+**可复用机制** · 单目传感深度可先保留离散候选，再做逐尺度残差搜索，用同骨干的连续深度反馈验证收敛与误差。见表 4。
+
+<a id="paper-tmd-backbone-reuse-inner-transition-head"></a>
+
+## Transition Matching Distillation for Fast Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_Transition_Matching_Distillation_for_Fast_Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Nie_Transition_Matching_Distillation_for_Fast_Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 从多步视频教师直接压到很少的整网去噪步，可能丢失过渡动态。
+- **核心创新 / 方法** · 用外层主干提取语义，复用语义状态驱动轻量流头做若干内层过渡，匹配教师轨迹。
+- **Baseline** · 与 Wan2.1 教师、rCM、DMD2-v 等蒸馏比较，区分名义步数与整网等效评估次数。
+- **Benchmark** · VBench 的视频整体、质量与语义得分，另测人类偏好和推理开销。
+- **关键结果 / 消融** · 表 1 在 Wan2.1 1.3B 上，TMD 的等效 NFE 为 2.33 时整体 84.68，DMD2-v 在 2 次为 84.39、4 次为 84.60。
+- **适用条件 / 局限** · 块数等效成本不能直接换成时延；分阶段共享依赖外层状态在内层间仍有效。
+
+**可复用机制** · 少步视频蒸馏可在外层更新语义、内层只用轻量头细化，并按实际执行的主干块数计算成本。见表 1。
+
+<a id="paper-mocapanything-reference-conditioned-skeleton-ik"></a>
+
+## MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gong_MoCapAnything_Unified_3D_Motion_Capture_for_Arbitrary_Skeletons_from_Monocular_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gong_MoCapAnything_Unified_3D_Motion_Capture_for_Arbitrary_Skeletons_from_Monocular_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定关节输出层难处理未知拓扑，重新定义关节标签也难直接输出可用旋转。
+- **核心创新 / 方法** · 根据给定资产的骨架、网格与渲染图建立关节查询，推断关节轨迹后再用受约束逆运动学求资产旋转。
+- **Baseline** · 与适配输出层的 HRNet、ViTPose、VIBE、GLoT 比较，消融资产图像和网格。
+- **Benchmark** · Truebones Zoo 的已见、少见、未见类别，报告 MPJPE 和 MPJVE。
+- **关键结果 / 消融** · 表 1 未见类别 MPJPE 为 1.76，GLoT 为 7.42；表 2 去掉网格时由 1.76 升到 3.16。
+- **适用条件 / 局限** · 需要合理绑定的参考资产，真实视频中的遮挡、尺度变化及不同动力学不由该测试独立覆盖。
+
+**可复用机制** · 面向变化骨架时，可将关节轨迹估计与目标资产旋转解算分开，以参考几何条件控制输出。见表 1、2。
+
+<a id="paper-cross-sensor-confidence-densification-and-self-match"></a>
+
+## No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_No_Calibration_No_Depth_No_Problem_Cross-Sensor_View_Synthesis_with_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_No_Calibration_No_Depth_No_Problem_Cross-Sensor_View_Synthesis_with_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 跨传感器图像不易得到稠密同位训练对，直接映射外观不能保证三维一致性。
+- **核心创新 / 方法** · 先跨模态对应，在高置信区域递推加密，以自匹配核验后合并到三维高斯表示。
+- **Baseline** · 比较 PixNext、XoFTR、LightGlue、LoFTR、MINIMA，并逐项去掉自匹配、置信度和三维融合。
+- **Benchmark** · RGB-NIR-Stereo、RGBT-Scenes 及 METU-VisTIR-Cloudy，报告 PSNR、SSIM、LPIPS 与一致性。
+- **关键结果 / 消融** · 表 5 完整 PSNR 21.152，移除自匹配核验为 20.235，移除置信度为 19.621；去掉 3DGS 的 SSIM 反而更高。
+- **适用条件 / 局限** · 仍借助 RGB 相机重建和可用跨传感器对应，极端光谱差异或时间不同步需重测。
+
+**可复用机制** · 跨传感器难标定时，可以把稀疏跨域匹配先用置信度补稠，再用同域自匹配剔除不一致，分别查看增益。见表 5。
+
+<a id="paper-cosettle-temporal-consistency-semantic-separability"></a>
+
+## From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_From_Static_to_Dynamic_Exploring_Self-supervised_Image-to-Video_Representation_Transfer_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_From_Static_to_Dynamic_Exploring_Self-supervised_Image-to-Video_Representation_Transfer_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 重度视频微调可能降低跨视频语义区分，过少训练则不足以让同一对象的表示随时间保持。
+- **核心创新 / 方法** · 在冻结图片编码器上学习轻量投影，以时间循环一致性结合语义可分性约束重排表示空间。
+- **Baseline** · 对照 MAE 与 DINO 图片骨干、不同投影层，以及逐项移除目标。
+- **Benchmark** · VIP、DAVIS17、JHMDB 的密集视频任务，使用 mIoU、J&F、PCK。
+- **关键结果 / 消融** · 表 5 的 DINO 系列完整配置为 39.8 VIP mIoU、64.2 DAVIS J&F，表中第一消融行分别为 17.5 和 30.6。
+- **适用条件 / 局限** · 依赖输入骨干的图像语义，长遮挡和极端新域易同时破坏循环追踪与区分。
+
+**可复用机制** · 图像骨干转到视频时，可冻结骨干并同时考核跨视频可分性和同视频时序一致性，避免只优化同视频匹配。见表 4、5。
+
+<a id="paper-tim-finite-interval-generation-objective"></a>
+
+## Transition Models: Rethinking the Generative Learning Objective
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Transition_Models_Rethinking_the_Generative_Learning_Objective_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Transition_Models_Rethinking_the_Generative_Learning_Objective_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只学习瞬时动力学需要许多步，只学习终点则可能无法用更多步改善输出。
+- **核心创新 / 方法** · 用连续时间动力学定义任意有限时间间隔的状态转移，让单个模型可按不同步数走同一路径。
+- **Baseline** · 与 SD3.5-Large、FLUX.1-Dev 及少步版本 SD3.5-Turbo、FLUX.1-Schnell 比较。
+- **Benchmark** · GenEval、DPGBench 和 ImageNet-256 等，报告不同 NFE 下的生成质量。
+- **关键结果 / 消融** · 表 6 TiM 在 1、8、32 次评估的 GenEval 为 0.67、0.76、0.80，FLUX.1-Schnell 相应为 0.68、0.67、0.63。
+- **适用条件 / 局限** · 不同模型对照的架构、训练集与计算预算有差异，实际吞吐和新任务迁移需要另测。
+
+**可复用机制** · 希望同一模型可一次生成或多步逐级改进时，可直接学习任意有限区间的生成转移，并画出函数评估数与质量的关系。见表 6。
+
+<a id="paper-global-video-token-selection-with-redundancy-refill"></a>
+
+## Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Du_Unified_Spatiotemporal_Token_Compression_for_Video-LLMs_at_Ultra-Low_Retention_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Du_Unified_Spatiotemporal_Token_Compression_for_Video-LLMs_at_Ultra-Low_Retention_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 先空间后时序的独立压缩会在很低保留率时丢掉少数关键画面或区域。
+- **核心创新 / 方法** · 在统一时空池依据注意力和相似度挑选贡献高且互补的标记，对未选标记聚类合并后回填紧凑信息。
+- **Baseline** · 对照主流视频压缩方法，以及注意力、相似度和聚类的组合消融。
+- **Benchmark** · LLaVA-OneVision 等视频模型，在 MVBench、EgoSchema、MLVU、LongVideoBench、VideoMME 比较得分与标记保留率。
+- **关键结果 / 消融** · 表 5 的完整三组件平均 50.4，单用注意力为 41.8，单用相似度为 49.2。
+- **适用条件 / 局限** · 极低预算仍会错过短暂或语义罕见证据；采样、保留率和下游问法变化时应重新验算。
+
+**可复用机制** · 视频标记保留率很低时，可在统一时空池分配预算，把显著性与去冗余及合并协同，并测哪些任务仍丢证据。见表 5。
+
+<a id="paper-bml-noisy-correspondence"></a>
+
+## Bootstrapping Multi-view Learning for Test-time Noisy Correspondence
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/He_Bootstrapping_Multi-view_Learning_for_Test-time_Noisy_Correspondence_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/He_Bootstrapping_Multi-view_Learning_for_Test-time_Noisy_Correspondence_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只在对齐视图学习置信度，测试时的异步或语义错配无法从单视图质量推断。
+- **核心创新 / 方法** · 通过训练内部的对应扰动构造样本，监督估计视内不确定性及视间预测差异。
+- **Baseline** · 表1–2比较多视图方法，表3在50% TNC下消融。
+- **Benchmark** · Caltech、Leaves、HW、LandUse、Scene 等多视分类，多个噪声率和十随机种子，准确率与标准差。
+- **关键结果 / 消融** · 表1–2按噪声率给出对照，表3比较单模块移除。
+- **适用条件 / 局限** · 人为错配需近似部署的采样错误，时间相关延迟和语义相似的错置应分别复验。
+
+**可复用机制** · 将模态本身质量与视图配错视为异质误差，使用人为控制的错配标注训练两类可靠性。
+
+<a id="paper-octopus-hifgo"></a>
+
+## Octopus: History-Free Gradient Orthogonalization for Continual Learning in Multimodal Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Octopus_History-Free_Gradient_Orthogonalization_for_Continual_Learning_in_Multimodal_Large_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Octopus_History-Free_Gradient_Orthogonalization_for_Continual_Learning_in_Multimodal_Large_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 旧样本回放有存储成本，普通正则难完全避免任务更新互相干扰。
+- **核心创新 / 方法** · 用无历史数据的梯度正交化约束更新，两阶段分别侧重当前适配与稳定。
+- **Baseline** · 表1含顺序 LoRA 和多任务训练，表2–4改变正交法、阶段和范数控制。
+- **Benchmark** · UCIT 各任务 Avg 和 Last，表5比较任务顺序。
+- **关键结果 / 消融** · 表1报告相对先前最好方法 Avg 和 Last 的改善，表2–4拆分来源。
+- **适用条件 / 局限** · 测试范围集中于 UCIT，若新旧梯度高度同向或任务变化很快，正交可能降低可塑性。
+
+**可复用机制** · 不能存旧数据时，分阶段执行当前任务适配和梯度去干扰，并显式比较任务顺序。
+
+<a id="paper-self-swap-guidance"></a>
+
+## Guiding a Diffusion Model by Swapping Its Tokens
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Guiding_a_Diffusion_Model_by_Swapping_Its_Tokens_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Guiding_a_Diffusion_Model_by_Swapping_Its_Tokens_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · CFG依赖条件与无条件差值，纯无条件生成缺少这一对照。
+- **核心创新 / 方法** · 在空间或通道维换位不相似 token，利用原预测与扰动预测的差指引采样。
+- **Baseline** · 表1–4与条件及无条件引导法比较，表5对照交换策略。
+- **Benchmark** · MS-COCO 2014/2017、ImageNet，测 FID、IS、精度召回及文本对齐。
+- **关键结果 / 消融** · 表1–2提供无条件比较，表3–4有条件比较，表5定位换位规则的作用。
+- **适用条件 / 局限** · 需要潜 token 具有可比较的语义并允许额外前向，扩散结构改变时需重校。
+
+**可复用机制** · 没有可用条件分支时，可用语义错配潜 token 生成对照预测，再利用两支差异指导扩散。
+
+<a id="paper-clivis-cognitive-map"></a>
+
+## CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_CLiViS_Unleashing_Cognitive_Map_through_Linguistic-Visual_Synergy_for_Embodied_Visual_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_CLiViS_Unleashing_Cognitive_Map_through_Linguistic-Visual_Synergy_for_Embodied_Visual_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态字幕遗漏细节，端到端模型难多步组合跨时间观察。
+- **核心创新 / 方法** · 以 LLM 制订取证步骤，用开放世界视觉模型迭代感知并更新认知地图。
+- **Baseline** · 表1统一 FPS、温度等配置比较，表2在同一 LLM 下换 VLM，表3做组件消融。
+- **Benchmark** · OpenEQA、EgoTempo、EgoSchema 的具身和第一视角视频问答。
+- **关键结果 / 消融** · 表2比较不同观察模型的收益，表3检验地图和取证组件。
+- **适用条件 / 局限** · 地图一致性依赖视觉模型可追踪对象与时间，长片段的错误累积和调用成本需测。
+
+**可复用机制** · 跨时刻具身推理可让计划器按需调视觉模型，再累计可更新的结构化场景记忆。
+
+<a id="paper-next-scale-prediction"></a>
+
+## Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shan_Next-Scale_Prediction_A_Self-Supervised_Approach_for_Real-World_Image_Denoising_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shan_Next-Scale_Prediction_A_Self-Supervised_Approach_for_Real-World_Image_Denoising_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 同尺度下采样太大损细节，太小不能解相关。
+- **核心创新 / 方法** · 让盲点网络从已去相关的低分辨率子图预测较高分辨率目标，构建跨尺度配对。
+- **Baseline** · 表1比较 DBSN、TBSN 等，表3对照训练目标，表4改升采样倍率。
+- **Benchmark** · SIDD validation、benchmark 与 DND 的 PSNR/SSIM，表2另测噪声图超分。
+- **关键结果 / 消融** · NSP(TBSN) 在 SIDD benchmark 为37.46 dB，DND 较 TBSN 低0.03 dB。
+- **适用条件 / 局限** · 以降采样能破除噪声相关为前提，跨尺度相关强的传感噪声须复验。
+
+**可复用机制** · 去噪自监督可分别选择输入和目标尺度，以较粗输入降低噪声相关，同时保留细目标监督。
+
+<a id="paper-oco-object-cooccurrence-ood"></a>
+
+## Mitigating Simplicity Bias in OOD Detection through Object Co-occurrence Analysis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dai_Mitigating_Simplicity_Bias_in_OOD_Detection_through_Object_Co-occurrence_Analysis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dai_Mitigating_Simplicity_Bias_in_OOD_Detection_through_Object_Co-occurrence_Analysis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 模型可能偏向简单单物体特征，忽略异常来自已知对象的陌生组合。
+- **核心创新 / 方法** · 从图像提取解耦对象线索，按训练内共现模式分情形评分。
+- **Baseline** · 比较经典和近期 OOD 检测方法，另做共现相关消融。
+- **Benchmark** · ImageNet-1K 训练、五个 OOD集及 ImageNet-v2/C/R 偏移集，使用 FPR95 等指标。
+- **关键结果 / 消融** · 表1–3比较近 OOD、偏移和模块贡献。
+- **适用条件 / 局限** · 训练中少见但合理组合会被误报，检测质量依赖对象识别。
+
+**可复用机制** · 单个对象看起来都熟悉时，用对象组合共现的异常程度判断近分布外。
+
+<a id="paper-groundingme-rejection-tests"></a>
+
+## GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_GroundingME_Exposing_the_Visual_Grounding_Gap_in_MLLMs_through_Multi-Dimensional_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_GroundingME_Exposing_the_Visual_Grounding_Gap_in_MLLMs_through_Multi-Dimensional_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 简单指代不考验相似目标、弱可见性及无目标时的拒绝。
+- **核心创新 / 方法** · 划分相似辨别、关系、受限视觉和不可定位四类，以人工核实自动构造题。
+- **Baseline** · 对照25种 MLLM，表3使用可选的非思考设置。
+- **Benchmark** · GroundingME 的1005个案例，按任务维度测准确。
+- **关键结果 / 消融** · 作者报告最高总体45.1%，多数模型在拒绝维度为0%。
+- **适用条件 / 局限** · 题目筛选和提示会影响拒绝率，需按目标部署重新设置无法定位的条件。
+
+**可复用机制** · 视觉指代评估单设不可定位的拒答场景，避免常规准确率掩盖强行输出。
+
+<a id="paper-agft-soft-alignment"></a>
+
+## AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cui_AGFT_Alignment-Guided_Fine-Tuning_for_Zero-Shot_Adversarial_Robustness_of_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cui_AGFT_Alignment-Guided_Fine-Tuning_for_Zero-Shot_Adversarial_Robustness_of_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 硬分类标签容易破坏预训练图文相对关系，降低干净零样本表现。
+- **核心创新 / 方法** · 以原模型软图文分布监督鲁棒适配，并作温度分布一致性校准。
+- **Baseline** · 与标签监督微调及现有鲁棒适配方法比较。
+- **Benchmark** · 15个零样本数据集，分开测干净与受扰条件准确率。
+- **关键结果 / 消融** · 表1–3显示所测鲁棒性提升，并对照干净性能。
+- **适用条件 / 局限** · 教师原有偏差会保留，所测扰动鲁棒不能代表部署安全。
+
+**可复用机制** · 视觉语言模型做防御微调时保留原模型对全部文本的软语义对齐，并校准新的输出分布。
+
+<a id="paper-gem-tfl-weak-temporal-localization"></a>
+
+## GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_GEM-TFL_Bridging_Weak_and_Full_Supervision_for_Forgery_Localization_through_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_GEM-TFL_Bridging_Weak_and_Full_Supervision_for_Forgery_Localization_through_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 二元弱标签监督稀疏，离散聚合阻断梯度，候选之间的关系被忽略。
+- **核心创新 / 方法** · 以 EM 估计潜在属性，分类后回归时段，再使用候选图和时序一致性细化。
+- **Baseline** · 对照充分及弱监督时间定位方法，表3检验组件。
+- **Benchmark** · LAV-DF、AV-Deepfake1M 的伪造区间定位。
+- **关键结果 / 消融** · 表1–3报告弱标签下的定位表现及各项增益。
+- **适用条件 / 局限** · 潜在属性不保证有可辨语义，平滑可能合并相邻的短事件。
+
+**可复用机制** · 只有视频级标签但要定位时段时，用潜属性丰富训练信号并联合重排相邻候选。
+
+<a id="paper-ltc-hopfield-memory"></a>
+
+## Coupling Liquid Time-Constant Encoders with Modern Hopfield Memory
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Swain_Coupling_Liquid_Time-Constant_Encoders_with_Modern_Hopfield_Memory_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Swain_Coupling_Liquid_Time-Constant_Encoders_with_Modern_Hopfield_Memory_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高频输入更新会覆写慢上下文。
+- **核心创新 / 方法** · 将当前液态时间常数状态作为现代 Hopfield 记忆查询，两个分量拼接至读出，并分析有界性与梯度。
+- **Baseline** · 标准 LTC、添加或移除联想记忆及其他时序模型。
+- **Benchmark** · 公开时间序列数据，比较任务性能及优化统计。
+- **关键结果 / 消融** · 表1–2对照性能和 Hopfield 对优化指标的影响。
+- **适用条件 / 局限** · 梯度收缩结论需要范数及 Lipschitz 条件，检索错误或容量变化会影响收益。
+
+**可复用机制** · 连续时间模型中可把快速动态与较长期内容检索分开，避免单隐状态互相覆盖。

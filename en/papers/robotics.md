@@ -931,5 +931,7 @@ Robot perception, policy learning, planning, and control.
 - [MaskDexGrasp: Generative Masked Modeling for Part-Aware Dexterous Grasp Synthesis](../../conferences/cvpr-2026/cards.md#paper-maskdexgrasp)
 - [PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](../../conferences/cvpr-2026/cards.md#paper-pvp-privileged-proprioception)
 - [CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](../../conferences/cvpr-2026/cards.md#paper-capnav-capability-conditioned-navigation)
+- [Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-hypodepth-discrete-hypothesis-residual-search)
+- [MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos](../../conferences/cvpr-2026/cards.md#paper-mocapanything-reference-conditioned-skeleton-ik)
 
 <!-- conference-classification:end -->
