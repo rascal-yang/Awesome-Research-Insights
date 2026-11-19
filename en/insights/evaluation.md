@@ -1571,5 +1571,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SVBench: Evaluation of Video Generation Models on Social Reasoning](../../conferences/cvpr-2026/cards.md#paper-svbench-social-video)
 - [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](../../conferences/cvpr-2026/cards.md#paper-agentsafe-stage-diagnosis)
 - [RealBirdID: Benchmarking Bird Species Identification in the Era of MLLMs](../../conferences/cvpr-2026/cards.md#paper-realbirdid-abstention)
+- [Exploring 6D Object Pose Estimation with Deformation](../../conferences/cvpr-2026/cards.md#paper-desope-deformation-failure)
+- [From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](../../conferences/cvpr-2026/cards.md#paper-osi-bench-metric-spatial-reasoning-gap)
 
 <!-- conference-classification:end -->

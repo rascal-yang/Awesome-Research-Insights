@@ -1495,5 +1495,7 @@
 - [A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps](../conferences/cvpr-2026/cards.md#paper-few-shot-parallel-denoising-decoder-ensemble)
 - [Spe-BEVHead: Rethinking the Detection Head Design for Bird's-Eye-View Object Detection](../conferences/cvpr-2026/cards.md#paper-shape-aligned-dense-bev-supervision)
 - [Compressed-Domain-Aware Online Video Super-Resolution](../conferences/cvpr-2026/cards.md#paper-codec-motion-residual-online-video)
+- [GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes](../conferences/cvpr-2026/cards.md#paper-probabilistic-dynamic-gaussian-deformation)
+- [Masked Representation Modeling for Domain-Adaptive Segmentation](../conferences/cvpr-2026/cards.md#paper-semantic-latent-masking-domain-adaptation)
 
 <!-- conference-classification:end -->

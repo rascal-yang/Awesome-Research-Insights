@@ -733,5 +733,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SceneTok: A Compressed, Diffusable Token Space for 3D Scenes](../../conferences/cvpr-2026/cards.md#paper-scenetok-unordered-compressed-view-tokens)
 - [Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3-D Constrained Terrains](../../conferences/cvpr-2026/cards.md#paper-vertical-grouped-voxel-locomotion)
 - [OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation](../../conferences/cvpr-2026/cards.md#paper-opro-orthogonal-panel-relative-operators)
+- [GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes](../../conferences/cvpr-2026/cards.md#paper-probabilistic-dynamic-gaussian-deformation)
 
 <!-- conference-classification:end -->

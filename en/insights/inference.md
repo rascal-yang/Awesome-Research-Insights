@@ -1616,5 +1616,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [TESO: Online Tracking of Essential Matrix by Stochastic Optimization](../../conferences/cvpr-2026/cards.md#paper-teso-online-stereo)
 - [AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](../../conferences/cvpr-2026/cards.md#paper-adaiat-generated-text-attention)
 - [Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering](../../conferences/cvpr-2026/cards.md#paper-visual-rrt-rendering-gradient-tree)
+- [Action-Sketcher: From Reasoning to Action via Visual Sketches for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-grounded-visual-sketch-robotic-planning)
+- [STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-transition-transport-multimodal-retrieval)
+- [Test-Time Attention Purification for Backdoored Large Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-inference-attention-integrity-monitor)
+- [SCoRe: Salience-Coverage Reduction for Vision Token Pruning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-score-vision-token-pruning)
+- [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-drs-gui-region-search)
+- [RoboAgent: Chaining Basic Capabilities for Embodied Task Planning](../../conferences/cvpr-2026/cards.md#paper-roboagent-capability-local-context-scheduling)
 
 <!-- conference-classification:end -->

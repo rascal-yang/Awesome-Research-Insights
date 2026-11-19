@@ -727,5 +727,8 @@ Model-wide design and information flow.
 - [ShowUI-p: Flow-based Generative Models as GUI Dexterous Hands](../../conferences/cvpr-2026/cards.md#paper-showui-p-continuous-actions)
 - [Compressed-Domain-Aware Online Video Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-codec-motion-residual-online-video)
 - [Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation](../../conferences/cvpr-2026/cards.md#paper-e3flow-equivariant-policy)
+- [Language-guided Frequency Modulation for Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-language-conditioned-frequency-modulation)
+- [Hear What Matters! Text-conditioned Selective Video-to-Audio Generation](../../conferences/cvpr-2026/cards.md#paper-selva-selective-video-audio)
+- [Perceiving the Near, Reasoning the Distant: Coherent Long-Horizon Trajectory Prediction for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-ndpnet-horizon-transition)
 
 <!-- conference-classification:end -->

@@ -1416,5 +1416,14 @@
 - [SVBench: Evaluation of Video Generation Models on Social Reasoning](../conferences/cvpr-2026/cards.md#paper-svbench-social-video)
 - [RealBirdID: Benchmarking Bird Species Identification in the Era of MLLMs](../conferences/cvpr-2026/cards.md#paper-realbirdid-abstention)
 - [AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](../conferences/cvpr-2026/cards.md#paper-adaiat-generated-text-attention)
+- [Asking like Socrates: Socrates helps VLMs understand remote sensing images](../conferences/cvpr-2026/cards.md#paper-iterative-visual-evidence-trace-supervision)
+- [STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-transition-transport-multimodal-retrieval)
+- [Language-guided Frequency Modulation for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-language-conditioned-frequency-modulation)
+- [Test-Time Attention Purification for Backdoored Large Vision Language Models](../conferences/cvpr-2026/cards.md#paper-inference-attention-integrity-monitor)
+- [SCoRe: Salience-Coverage Reduction for Vision Token Pruning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-score-vision-token-pruning)
+- [Hear What Matters! Text-conditioned Selective Video-to-Audio Generation](../conferences/cvpr-2026/cards.md#paper-selva-selective-video-audio)
+- [Role-SynthCLIP: A Role-Play Driven Diverse Synthetic Data Approach](../conferences/cvpr-2026/cards.md#paper-role-synthclip-caption-diversity)
+- [Act2See: Emergent Active Visual Perception for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-act2see-retrieve-or-synthesize-frames)
+- [From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](../conferences/cvpr-2026/cards.md#paper-osi-bench-metric-spatial-reasoning-gap)
 
 <!-- conference-classification:end -->

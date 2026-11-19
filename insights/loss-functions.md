@@ -482,5 +482,6 @@
 - [Global-Graph Guided and Local-Graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data](../conferences/cvpr-2026/cards.md#paper-global-local-graph-contrastive)
 - [ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction](../conferences/cvpr-2026/cards.md#paper-reflow-motion-self-correction)
 - [PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery](../conferences/cvpr-2026/cards.md#paper-pad-hand-physics-variance)
+- [DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-diversedit-block-diversity)
 
 <!-- conference-classification:end -->

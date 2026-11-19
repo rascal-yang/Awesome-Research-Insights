@@ -1050,5 +1050,10 @@
 - [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](../conferences/cvpr-2026/cards.md#paper-agentsafe-stage-diagnosis)
 - [Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](../conferences/cvpr-2026/cards.md#paper-elf-vla-structured-failure-feedback)
 - [Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering](../conferences/cvpr-2026/cards.md#paper-visual-rrt-rendering-gradient-tree)
+- [Action-Sketcher: From Reasoning to Action via Visual Sketches for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-grounded-visual-sketch-robotic-planning)
+- [Exploring 6D Object Pose Estimation with Deformation](../conferences/cvpr-2026/cards.md#paper-desope-deformation-failure)
+- [Perceiving the Near, Reasoning the Distant: Coherent Long-Horizon Trajectory Prediction for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-ndpnet-horizon-transition)
+- [LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception](../conferences/cvpr-2026/cards.md#paper-lidas-task-directed-active-illumination)
+- [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](../conferences/cvpr-2026/cards.md#paper-avavla-recurrent-belief-visual-attention)
 
 <!-- conference-classification:end -->

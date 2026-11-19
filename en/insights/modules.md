@@ -418,5 +418,6 @@ Reusable components and local changes to model inputs or connections.
 - [PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency](../../conferences/cvpr-2026/cards.md#paper-ptc-depth-bayesian-metric-scale)
 - [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-drivemoe-view-skill-routing)
 - [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](../../conferences/cvpr-2026/cards.md#paper-trajrag-topopolar-experience-retrieval)
+- [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](../../conferences/cvpr-2026/cards.md#paper-avavla-recurrent-belief-visual-attention)
 
 <!-- conference-classification:end -->

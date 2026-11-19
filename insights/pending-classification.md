@@ -850,5 +850,7 @@
 - [OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging](../conferences/cvpr-2026/cards.md#paper-omnifm-low-frequency-global-knowledge)
 - [Rethinking Cross-Modal Anchor Alignment for Mitigating Error Accumulation](../conferences/cvpr-2026/cards.md#paper-gsl-geometric-cross-modal-anchor-correction)
 - [CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization](../conferences/cvpr-2026/cards.md#paper-catok-time-bound-causal-tokenization)
+- [LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception](../conferences/cvpr-2026/cards.md#paper-lidas-task-directed-active-illumination)
+- [Act2See: Emergent Active Visual Perception for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-act2see-retrieve-or-synthesize-frames)
 
 <!-- conference-classification:end -->

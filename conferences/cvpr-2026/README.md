@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,577 篇，其中 1,631 篇暂收录、946 篇排除，另有 1,465 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,607 篇，其中 1,650 篇暂收录、957 篇排除，另有 1,435 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1637,3 +1637,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,577
 | 生成模型 | 训练目标 | [Improving Controllable Generation: Faster Training and Better Performance via x0-Supervision](cards.md#paper-x0-supervision-controllable-generation) | 训练可控生成适配器时，比较直接预测干净结果与沿用骨干的去噪目标。 |
 | 多模态学习 | 推理时干预 | [AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](cards.md#paper-adaiat-generated-text-attention) | 低成本纠正生成式视觉幻觉时，比较加强图像注意与按需加强已生成文本的注意。 |
 | 机器人学 | 运动规划 | [Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering](cards.md#paper-visual-rrt-rendering-gradient-tree) | 只有目标图像时，用渲染梯度引导随机树搜索，同时保留探索未覆盖区域的能力。 |
+| 机器人学 | 推理策略 | [Action-Sketcher: From Reasoning to Action via Visual Sketches for Robotic Manipulation](cards.md#paper-grounded-visual-sketch-robotic-planning) | 可把自然语言意图转为当前画面上可检查的点、框和箭头，作为规划及动作的中间接口。 |
+| 计算机视觉 | 表征学习 | [GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes](cards.md#paper-probabilistic-dynamic-gaussian-deformation) | 对动态场景形变可使用带不确定性的时空先验，便于区别真实运动和观测外插。 |
+| 多模态学习 | 训练策略 | [Asking like Socrates: Socrates helps VLMs understand remote sensing images](cards.md#paper-iterative-visual-evidence-trace-supervision) | 视觉推理监督可交错记录检查区域与更新判断，以避免模型只学到流畅的文字解释。 |
+| 多模态学习 | 推理策略 | [STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval](cards.md#paper-transition-transport-multimodal-retrieval) | 组合检索可同时修正生成描述的语义偏移，并用多个局部匹配表达属性组合。 |
+| 多模态学习 | 模型架构 | [Language-guided Frequency Modulation for Large Vision-Language Models](cards.md#paper-language-conditioned-frequency-modulation) | 问题匹配的视觉证据可通过频带调制，在同一编码器中切换全局结构与局部细节。 |
+| 计算机视觉 | 训练策略 | [Masked Representation Modeling for Domain-Adaptive Segmentation](cards.md#paper-semantic-latent-masking-domain-adaptation) | 领域适配可把掩码重建放到高层语义特征上，使自监督目标贴近下游任务。 |
+| 多模态学习 | 推理策略 | [Test-Time Attention Purification for Backdoored Large Vision Language Models](cards.md#paper-inference-attention-integrity-monitor) | 可以把跨模态注意力异常作为多模态模型部署时的防御监测信号，并同步检查正常任务效用。 |
+| 多模态学习 | 推理策略 | [SCoRe: Salience-Coverage Reduction for Vision Token Pruning in Vision-Language Models](cards.md#paper-score-vision-token-pruning) | 在一项选择目标内兼顾显著性与覆盖性，保护次要但有用的视觉语义簇。 |
+| 多模态学习 | 模型架构 | [Hear What Matters! Text-conditioned Selective Video-to-Audio Generation](cards.md#paper-selva-selective-video-audio) | 把文本作为目标选择信号注入编码端，并用混合数据生成保留单源的自监督标签。 |
+| 机器人学 | 评测与诊断 | [Exploring 6D Object Pose Estimation with Deformation](cards.md#paper-desope-deformation-failure) | 按物体相对规范形状的变形程度分层评测，决定抓取感知是否应使用刚体姿态模型。 |
+| 多模态学习 | 训练策略 | [Role-SynthCLIP: A Role-Play Driven Diverse Synthetic Data Approach](cards.md#paper-role-synthclip-caption-diversity) | 图像数量固定时，用互补描述角色扩展监督语义，并分别测量检索和分类。 |
+| 机器人学 | 模型架构 | [Perceiving the Near, Reasoning the Distant: Coherent Long-Horizon Trajectory Prediction for Autonomous Driving](cards.md#paper-ndpnet-horizon-transition) | 按时间距离选择短期动力学与长期语义两条预测路径，并在交接处显式约束运动连续。 |
+| 智能体 | 推理策略 | [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](cards.md#paper-drs-gui-region-search) | 用可控预算渐进搜索高分辨率画面的相关区域，并以指令条件奖励裁掉无关区域。 |
+| 机器学习基础与统计 | 损失函数 | [DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](cards.md#paper-diversedit-block-diversity) | 对齐外部视觉表示时，同时测量层间同质化，可用跨层残差及差异约束保持分工。 |
+| 机器人学 | 主动感知 | [LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception](cards.md#paper-lidas-task-directed-active-illumination) | 用冻结感知模型的下游表现选择照明分配，在固定功率下改善可见性。 |
+| 智能体 | 工具调度 | [RoboAgent: Chaining Basic Capabilities for Embodied Task Planning](cards.md#paper-roboagent-capability-local-context-scheduling) | 为每项基础能力维护自己的上下文，用调度器把长任务拆成局部视觉语言问题。 |
+| 机器人学 | 时序记忆 | [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](cards.md#paper-avavla-recurrent-belief-visual-attention) | 用递归信念状态按指令和动作历史重加权当前视觉 token。 |
+| 多模态学习 | 主动感知 | [Act2See: Emergent Active Visual Perception for Video Reasoning](cards.md#paper-act2see-retrieve-or-synthesize-frames) | 训练模型在推理中按需获取视觉帧，并把检索的观测和生成的假设分开使用。 |
+| 多模态学习 | 评测设计 | [From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](cards.md#paper-osi-bench-metric-spatial-reasoning-gap) | 用度量真值及盲视对照诊断空间推理是否使用了视觉证据。 |

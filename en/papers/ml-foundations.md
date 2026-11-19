@@ -2524,5 +2524,6 @@ General learning methods, optimization, learning theory, and inference.
 - [DRM: Diffusion-based Reward Model With Step-wise Guidance](../../conferences/cvpr-2026/cards.md#paper-drm-intermediate-latent-stepwise-reward)
 - [OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation](../../conferences/cvpr-2026/cards.md#paper-opro-orthogonal-panel-relative-operators)
 - [Improving Controllable Generation: Faster Training and Better Performance via x0-Supervision](../../conferences/cvpr-2026/cards.md#paper-x0-supervision-controllable-generation)
+- [DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-diversedit-block-diversity)
 
 <!-- conference-classification:end -->

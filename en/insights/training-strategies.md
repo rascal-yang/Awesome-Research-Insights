@@ -1209,5 +1209,8 @@ Training schedules, curricula, and task or stage composition.
 - [Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-geometry-structured-diffusion-masking)
 - [Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs](../../conferences/cvpr-2026/cards.md#paper-vista-gym-tool-reasoning)
 - [Improving Controllable Generation: Faster Training and Better Performance via x0-Supervision](../../conferences/cvpr-2026/cards.md#paper-x0-supervision-controllable-generation)
+- [Asking like Socrates: Socrates helps VLMs understand remote sensing images](../../conferences/cvpr-2026/cards.md#paper-iterative-visual-evidence-trace-supervision)
+- [Masked Representation Modeling for Domain-Adaptive Segmentation](../../conferences/cvpr-2026/cards.md#paper-semantic-latent-masking-domain-adaptation)
+- [Role-SynthCLIP: A Role-Play Driven Diverse Synthetic Data Approach](../../conferences/cvpr-2026/cards.md#paper-role-synthclip-caption-diversity)
 
 <!-- conference-classification:end -->

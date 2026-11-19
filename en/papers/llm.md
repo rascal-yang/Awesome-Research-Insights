@@ -2454,5 +2454,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](../../conferences/cvpr-2026/cards.md#paper-jarvisevo-joint-editor-evaluator-optimization)
 - [ShowUI-p: Flow-based Generative Models as GUI Dexterous Hands](../../conferences/cvpr-2026/cards.md#paper-showui-p-continuous-actions)
 - [Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs](../../conferences/cvpr-2026/cards.md#paper-vista-gym-tool-reasoning)
+- [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-drs-gui-region-search)
+- [RoboAgent: Chaining Basic Capabilities for Embodied Task Planning](../../conferences/cvpr-2026/cards.md#paper-roboagent-capability-local-context-scheduling)
 
 <!-- conference-classification:end -->
