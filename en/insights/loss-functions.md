@@ -398,5 +398,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Rethinking Box Supervision: Bias-Free Weakly Supervised Medical Segmentation](../../conferences/cvpr-2026/cards.md#paper-weakmed)
 - [Every Error has Its Magnitude: Asymmetric Mistake Severity Training for Multiclass Multiple Instance Learning](../../conferences/cvpr-2026/cards.md#paper-asymmetric-mistake-severity)
 - [Physically-Grounded Turbulence Mitigation with Frame-Shared Degradation Parameters](../../conferences/cvpr-2026/cards.md#paper-tmfs-shared-degradation)
+- [Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning](../../conferences/cvpr-2026/cards.md#paper-ccl-background-invariance)
+- [A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](../../conferences/cvpr-2026/cards.md#paper-closed-form-vlm-debiasing)
 
 <!-- conference-classification:end -->

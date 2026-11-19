@@ -973,5 +973,6 @@ Training schedules, curricula, and task or stage composition.
 - [TerraSeg: Self-Supervised Ground Segmentation for Any LiDAR](../../conferences/cvpr-2026/cards.md#paper-terraseg-offline-pseudolabel-distillation)
 - [Mining Attribute Subspaces for Efficient Fine-tuning of 3D Foundation Models](../../conferences/cvpr-2026/cards.md#paper-attribute-lora-subspaces)
 - [CVA: Context-aware Video-text Alignment for Video Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-cva-temporal-grounding)
+- [VisPlay: Self-Evolving Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-visplay-questioner-reasoner-self-training)
 
 <!-- conference-classification:end -->

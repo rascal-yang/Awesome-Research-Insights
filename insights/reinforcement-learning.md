@@ -749,5 +749,6 @@
 - [ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation](../conferences/cvpr-2026/cards.md#paper-expose-pose-consistency)
 - [Write Where It Matters: Policy-Guided Watermarks for 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-adaptive-3d-watermark-quality-tradeoff)
 - [Leveraging Verifier-Based Reinforcement Learning in Image Editing](../conferences/cvpr-2026/cards.md#paper-edit-r1-verifier-reward)
+- [From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding](../conferences/cvpr-2026/cards.md#paper-group-revision-relative-reward)
 
 <!-- conference-classification:end -->

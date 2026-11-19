@@ -1370,5 +1370,10 @@
 - [PAS: A Training-Free Stabilizer for Temporal Encoding in Video LLMs](../conferences/cvpr-2026/cards.md#paper-pas-temporal-encoding)
 - [Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists](../conferences/cvpr-2026/cards.md#paper-short-gaussian-lists)
 - [Guiding a Diffusion Transformer with the Internal Dynamics of Itself](../conferences/cvpr-2026/cards.md#paper-internal-guidance-dit)
+- [Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought](../conferences/cvpr-2026/cards.md#paper-red-rationale-conditional-decoding)
+- [Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency](../conferences/cvpr-2026/cards.md#paper-dc-pgn)
+- [DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos](../conferences/cvpr-2026/cards.md#paper-dreamstereo)
+- [Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction](../conferences/cvpr-2026/cards.md#paper-freeloc)
+- [Boosting Reasoning in Large Multimodal Models via Activation Replay](../conferences/cvpr-2026/cards.md#paper-activation-replay)
 
 <!-- conference-classification:end -->

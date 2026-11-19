@@ -602,5 +602,7 @@ Model-wide design and information flow.
 - [PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning](../../conferences/cvpr-2026/cards.md#paper-physskin)
 - [Frequency Switching Mechanism for Parameter-Efficient Multi-Task Learning](../../conferences/cvpr-2026/cards.md#paper-free-sinewich-task-modulation)
 - [Describe Anything Anywhere At Any Moment](../../conferences/cvpr-2026/cards.md#paper-daaam-queryable-spatiotemporal-memory)
+- [Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere](../../conferences/cvpr-2026/cards.md#paper-spherical-voronoi)
+- [OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-onecat-scale-aware-autoregression)
 
 <!-- conference-classification:end -->

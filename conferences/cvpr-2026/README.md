@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 627 篇，其中 419 篇暂收录、208 篇排除，另有 3,415 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 657 篇，其中 437 篇暂收录、220 篇排除，另有 3,385 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -425,3 +425,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 627 �
 | 计算机视觉 | 推理优化 | [Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists](cards.md#paper-short-gaussian-lists) | 优化高斯泼溅速度时，直接减少每条射线的候选长度而不只约束总体高斯数。 |
 | 多模态学习 | 条件生成 | [Guiding a Diffusion Transformer with the Internal Dynamics of Itself](cards.md#paper-internal-guidance-dit) | 扩散 Transformer 采样时可使用同一次前向的浅层预测作引导参照。 |
 | 计算机视觉 | 训练与数据策略 | [Generalizable Video Quality Assessment via Weak-to-Strong Learning](cards.md#paper-weak-to-strong-video-quality) | 没有统一标注时，先把不同弱教师信号转为相对排序，再检验强学生的域外表现和迭代收益。 |
+| 多模态学习 | 数据策略 | [DiG: Differential Grounding for Enhancing Fine-Grained Perception in Multimodal Large Language Models](cards.md#paper-dig-differential-grounding) | 细粒度视觉训练可用可控变更的成对图像，循序训练找出和定位数量未知的全部差异。见图 3、表 4。 |
+| 多模态学习 | 强化学习方法 | [From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding](cards.md#paper-group-revision-relative-reward) | 一组定位候选都达不到正确阈值时，可以按相对原始尝试的改进给有效信号，见表 4。 |
+| 多模态学习 | 训练策略 | [VisPlay: Self-Evolving Vision-Language Models](cards.md#paper-visplay-questioner-reasoner-self-training) | 使用无标注图像自训练时，可同时测问题难度进阶与伪答案准确度下降。见表 2–3。 |
+| 计算机视觉 | 损失函数 | [Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning](cards.md#paper-ccl-background-invariance) | 开放词汇检测若依赖背景，可生成保对象改背景的成对样本，比较只做数据增强和追加对象一致性损失。见表 3。 |
+| 机器人学 | 表征学习 | [NeuROK: Generative 4D Neural Object Kinematics](cards.md#paper-neurok-latent-object-kinematics) | 对象可动几何可先学形状到运动状态可解码的低维先验，再以同先验比较逆运动恢复。见表 1。 |
+| 多模态学习 | 推理策略 | [Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought](cards.md#paper-red-rationale-conditional-decoding) | 多模态思维链应通过无关依据替换检查模型是否实际用到解释，再对照显式联合两种条件分布。见表 1、4。 |
+| 计算机视觉 | 模型架构 | [Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere](cards.md#paper-spherical-voronoi) | 用可微球面分区表达视角相关外观，镜面成分以反射方向建模。 |
+| 多模态学习 | 评测与诊断 | [Understanding Counting Mechanisms in Large Language and Vision-Language Models](cards.md#paper-countscope) | 计数可先用受控重复项探测中间计数信号，再做因果干预区分局部计数和最终聚合。 |
+| 多模态学习 | 推理策略 | [Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency](cards.md#paper-dc-pgn) | 跨第一与第三视角时，原型更新应允许多个候选动作，并用第二模态复核伪标签。 |
+| 计算机视觉 | 推理压缩 | [DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos](cards.md#paper-dreamstereo) | 立体视频补全可让昂贵计算优先覆盖小面积遮挡区域，再独立校验边缘一致性。 |
+| 计算机视觉 | 推理策略 | [Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction](cards.md#paper-freeloc) | 长视频扩散的外推失败应分别诊断帧相对距离和总上下文长度，按层选修正。 |
+| 多模态学习 | 推理策略 | [Boosting Reasoning in Large Multimodal Models via Activation Replay](cards.md#paper-activation-replay) | 诊断 RLVR 是否改写低熵证据表征，再用基础模型同位置激活做无训练替换对照。 |
+| 多模态学习 | 表示学习 | [Enhancing Part-Level Point Grounding for Any Open-Source MLLMs](cards.md#paper-part-grounding-attention-to-point) | 冻结多模态主干时，用文本条件中层注意力热图预测部件坐标。 |
+| 计算机视觉 | 可解释性与诊断 | [Detecting AI-Generated Forgeries via Iterative Manifold Deviation Amplification](cards.md#paper-ifa-net-forgery-localization) | 取证检测可从自然图像重建残差出发，用初步区域预测引导第二轮定位。 |
+| 多模态学习 | 模型架构 | [OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](cards.md#paper-onecat-scale-aware-autoregression) | 统一多模态模型可在解码器内用模态专家和尺度适配，减少外部视觉组件及逐像素解码开销。 |
+| 多模态学习 | 损失函数与优化 | [A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](cards.md#paper-closed-form-vlm-debiasing) | 跨模态去偏前确定可接受任务效用下限，再用闭式变换评估公平性取舍。 |
+| 计算机视觉 | 表示学习 | [Tracking through Severe Occlusion via Event-Derived Transient Cues](cards.md#paper-evotrack-occlusion-cues) | 强遮挡时分开检查事件运动提示与外观匹配，避免遮挡模板污染。 |
+| 多模态学习 | 表示学习 | [Inconsistency-aware Multimodal Schrodinger Bridge for Deepfake Localization](cards.md#paper-iamsb-asymmetric-multimodal-localization) | 多模态防御定位时依据两路证据的一致性决定融合强度和各路计算预算。 |

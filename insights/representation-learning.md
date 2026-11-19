@@ -565,5 +565,9 @@
 - [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](../conferences/cvpr-2026/cards.md#paper-tracegen-3d-trace-space)
 - [Towards Unified Human Perception and Machine Understanding: Token Flow Guided Compression Framework](../conferences/cvpr-2026/cards.md#paper-tfgc-token-flow-compression)
 - [Point4Cast: Streaming Dynamic Scene Reconstruction and Forecasting](../conferences/cvpr-2026/cards.md#paper-point4cast)
+- [NeuROK: Generative 4D Neural Object Kinematics](../conferences/cvpr-2026/cards.md#paper-neurok-latent-object-kinematics)
+- [Enhancing Part-Level Point Grounding for Any Open-Source MLLMs](../conferences/cvpr-2026/cards.md#paper-part-grounding-attention-to-point)
+- [Tracking through Severe Occlusion via Event-Derived Transient Cues](../conferences/cvpr-2026/cards.md#paper-evotrack-occlusion-cues)
+- [Inconsistency-aware Multimodal Schrodinger Bridge for Deepfake Localization](../conferences/cvpr-2026/cards.md#paper-iamsb-asymmetric-multimodal-localization)
 
 <!-- conference-classification:end -->

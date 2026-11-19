@@ -1112,5 +1112,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [Physically-Grounded Turbulence Mitigation with Frame-Shared Degradation Parameters](../../conferences/cvpr-2026/cards.md#paper-tmfs-shared-degradation)
 - [Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists](../../conferences/cvpr-2026/cards.md#paper-short-gaussian-lists)
 - [Generalizable Video Quality Assessment via Weak-to-Strong Learning](../../conferences/cvpr-2026/cards.md#paper-weak-to-strong-video-quality)
+- [Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning](../../conferences/cvpr-2026/cards.md#paper-ccl-background-invariance)
+- [Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere](../../conferences/cvpr-2026/cards.md#paper-spherical-voronoi)
+- [DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos](../../conferences/cvpr-2026/cards.md#paper-dreamstereo)
+- [Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction](../../conferences/cvpr-2026/cards.md#paper-freeloc)
+- [Detecting AI-Generated Forgeries via Iterative Manifold Deviation Amplification](../../conferences/cvpr-2026/cards.md#paper-ifa-net-forgery-localization)
+- [Tracking through Severe Occlusion via Event-Derived Transient Cues](../../conferences/cvpr-2026/cards.md#paper-evotrack-occlusion-cues)
 
 <!-- conference-classification:end -->

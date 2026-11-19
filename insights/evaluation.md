@@ -1442,5 +1442,7 @@
 - [HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction](../conferences/cvpr-2026/cards.md#paper-have-bench-speech-text-controlled)
 - [FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-fluidgaussian-functional-reconstruction)
 - [Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](../conferences/cvpr-2026/cards.md#paper-wanderland-geometry-audit)
+- [Understanding Counting Mechanisms in Large Language and Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-countscope)
+- [Detecting AI-Generated Forgeries via Iterative Manifold Deviation Amplification](../conferences/cvpr-2026/cards.md#paper-ifa-net-forgery-localization)
 
 <!-- conference-classification:end -->

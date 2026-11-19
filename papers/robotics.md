@@ -886,5 +886,6 @@
 - [TerraSeg: Self-Supervised Ground Segmentation for Any LiDAR](../conferences/cvpr-2026/cards.md#paper-terraseg-offline-pseudolabel-distillation)
 - [Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](../conferences/cvpr-2026/cards.md#paper-wanderland-geometry-audit)
 - [Point4Cast: Streaming Dynamic Scene Reconstruction and Forecasting](../conferences/cvpr-2026/cards.md#paper-point4cast)
+- [NeuROK: Generative 4D Neural Object Kinematics](../conferences/cvpr-2026/cards.md#paper-neurok-latent-object-kinematics)
 
 <!-- conference-classification:end -->

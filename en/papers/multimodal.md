@@ -988,5 +988,16 @@ Learning across modalities such as images, text, audio, and video.
 - [PAS: A Training-Free Stabilizer for Temporal Encoding in Video LLMs](../../conferences/cvpr-2026/cards.md#paper-pas-temporal-encoding)
 - [Towards Unified Human Perception and Machine Understanding: Token Flow Guided Compression Framework](../../conferences/cvpr-2026/cards.md#paper-tfgc-token-flow-compression)
 - [Guiding a Diffusion Transformer with the Internal Dynamics of Itself](../../conferences/cvpr-2026/cards.md#paper-internal-guidance-dit)
+- [DiG: Differential Grounding for Enhancing Fine-Grained Perception in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-dig-differential-grounding)
+- [From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding](../../conferences/cvpr-2026/cards.md#paper-group-revision-relative-reward)
+- [VisPlay: Self-Evolving Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-visplay-questioner-reasoner-self-training)
+- [Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought](../../conferences/cvpr-2026/cards.md#paper-red-rationale-conditional-decoding)
+- [Understanding Counting Mechanisms in Large Language and Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-countscope)
+- [Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency](../../conferences/cvpr-2026/cards.md#paper-dc-pgn)
+- [Boosting Reasoning in Large Multimodal Models via Activation Replay](../../conferences/cvpr-2026/cards.md#paper-activation-replay)
+- [Enhancing Part-Level Point Grounding for Any Open-Source MLLMs](../../conferences/cvpr-2026/cards.md#paper-part-grounding-attention-to-point)
+- [OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-onecat-scale-aware-autoregression)
+- [A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](../../conferences/cvpr-2026/cards.md#paper-closed-form-vlm-debiasing)
+- [Inconsistency-aware Multimodal Schrodinger Bridge for Deepfake Localization](../../conferences/cvpr-2026/cards.md#paper-iamsb-asymmetric-multimodal-localization)
 
 <!-- conference-classification:end -->

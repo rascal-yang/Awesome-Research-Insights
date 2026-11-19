@@ -6286,3 +6286,273 @@
 - **适用条件 / 局限** · 相关性不说明所有失真类别都能泛化，迭代也可能强化教师偏差。
 
 **可复用机制** · 没有统一标注时，先把不同弱教师信号转为相对排序，再检验强学生的域外表现和迭代收益。
+
+<a id="paper-dig-differential-grounding"></a>
+
+## DiG: Differential Grounding for Enhancing Fine-Grained Perception in Multimodal Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tao_DiG_Differential_Grounding_for_Enhancing_Fine-Grained_Perception_in_Multimodal_Large_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tao_DiG_Differential_Grounding_for_Enhancing_Fine-Grained_Perception_in_Multimodal_Large_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单图问答难判断模型能否区分细微形变或位置差异，也缺少局部可核验监督。
+- **核心创新 / 方法** · 用三维渲染控制成对图像差异，先学单差异再多差异，并联合奖励位置 IoU 与发现差异的 F1。
+- **Baseline** · 比较基座、只训单差异及只用 IoU 或 F1 的奖励。
+- **Benchmark** · RefCOCO、RefCOCO+、RefCOCOg 及 HalBench、MMBench、AI2D 等。
+- **关键结果 / 消融** · 表 4 RefCOCO testB@50 中 IoU 奖励为 76.7，F1 奖励为 82.4，两项为 83.5。
+- **适用条件 / 局限** · 合成样本的变化要能代表目标数据；真实图像光照或视角变化仍可能被误判成目标差异。
+
+**可复用机制** · 细粒度视觉训练可用可控变更的成对图像，循序训练找出和定位数量未知的全部差异。见图 3、表 4。
+
+<a id="paper-group-revision-relative-reward"></a>
+
+## From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_From_Failure_to_Feedback_Group_Revision_Unlocks_Hard_Cases_in_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_From_Failure_to_Feedback_Group_Revision_Unlocks_Hard_Cases_in_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 组内答案都失败会让基于阈值的终局奖难以区分有用努力。
+- **核心创新 / 方法** · 围绕一个初答生成多条修订，以相对于初答的定位改善同时塑造奖励和优势。
+- **Baseline** · 比较原组相对训练、只生成修订和追加相对改进奖励。
+- **Benchmark** · ReasonSeg、RefCOCO 系列和 PixMoCount，衡量分割、边框定位与计数。
+- **关键结果 / 消融** · 表 4 单对象 ReasonSeg 验证从基线 62.54 到仅修订 64.97，到完整版本 66.99。
+- **适用条件 / 局限** · 相对增量需要可靠的连续误差，同时应跟踪最终绝对失败率，避免单纯奖励从很差状态略有改善。
+
+**可复用机制** · 一组定位候选都达不到正确阈值时，可以按相对原始尝试的改进给有效信号，见表 4。
+
+<a id="paper-visplay-questioner-reasoner-self-training"></a>
+
+## VisPlay: Self-Evolving Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/He_VisPlay_Self-Evolving_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/He_VisPlay_Self-Evolving_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 自生成简单题难继续提升模型，提高问题难度又可能让伪答案质量下降。
+- **核心创新 / 方法** · 从同一视觉语言模型训练问题生成器与回答器，用多样性和难度控制生成内容，并按迭代刷新。
+- **Baseline** · 比较模型基座、不同自训练迭代和人工标注 GRPO。
+- **Benchmark** · 八项视觉推理与幻觉测试，另用外部模型估计自生成标签准确率。
+- **关键结果 / 消融** · 表 2 估计伪标签准确率随数据迭代从 72.0 降至 61.0；表 3 的 3B 版本综合均值为 47.3，人工 GRPO 为 47.1，但单项差异大。
+- **适用条件 / 局限** · 问题和答案共享模型偏差；需独立人工审计标签及视觉依据，比较计算预算和样本重用。
+
+**可复用机制** · 使用无标注图像自训练时，可同时测问题难度进阶与伪答案准确度下降。见表 2–3。
+
+<a id="paper-ccl-background-invariance"></a>
+
+## Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Consistency_Beyond_Contrast_Enhancing_Open-Vocabulary_Object_Detection_Robustness_via_Contextual_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Consistency_Beyond_Contrast_Enhancing_Open-Vocabulary_Object_Detection_Robustness_via_Contextual_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 对象相同但背景变换时，图文对比对齐未必让检测表征稳定。
+- **核心创新 / 方法** · 生成同一对象在多种上下文的成对图像，并令两视图的对象区域特征保持一致。
+- **Baseline** · 比较 GLIP-T、FIBER-B，只用生成数据和再加一致性损失。
+- **Benchmark** · OmniLabel、D3 等描述驱动检测，测分项与总体 AP。
+- **关键结果 / 消融** · 表 3 GLIP-T 在 OmniLabel 的 AP 19.3，增加数据 24.8，再加一致性损失 32.2；D3 FULL 对应 19.1、23.2、30.0。
+- **适用条件 / 局限** · 背景应改变干扰而保持对象真值；与语义相关的场景条件不能机械去除，且需核查生成伪影。
+
+**可复用机制** · 开放词汇检测若依赖背景，可生成保对象改背景的成对样本，比较只做数据增强和追加对象一致性损失。见表 3。
+
+<a id="paper-neurok-latent-object-kinematics"></a>
+
+## NeuROK: Generative 4D Neural Object Kinematics
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Geng_NeuROK_Generative_4D_Neural_Object_Kinematics_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Geng_NeuROK_Generative_4D_Neural_Object_Kinematics_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态三维生成缺少形变空间，按类别预设运动模型又难扩展到新对象。
+- **核心创新 / 方法** · 在四维数据上训练共享对象状态潜空间，将每一状态通过形变解码为三维几何。
+- **Baseline** · 对照 CANOR、KeyPointDeformer、FreeArt3D 等，消融模型降维和姿态参数化。
+- **Benchmark** · 逆运动学用 Chamfer 与 IoU，运动生成另测人评、VBench、WorldScore。
+- **关键结果 / 消融** · 表 1 完整 IoU 为 0.764，KeyPointDeformer 为 0.570，移除模型降维为 0.711。
+- **适用条件 / 局限** · 形变先验接近训练分布时较可靠，接触力、刚体可行性及从视频向实际机器人迁移仍需单独确认。
+
+**可复用机制** · 对象可动几何可先学形状到运动状态可解码的低维先验，再以同先验比较逆运动恢复。见表 1。
+
+<a id="paper-red-rationale-conditional-decoding"></a>
+
+## Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yamaguchi_Rationale-Enhanced_Decoding_for_Multi-modal_Chain-of-Thought_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yamaguchi_Rationale-Enhanced_Decoding_for_Multi-modal_Chain-of-Thought_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 模型可写出思维链，但在最终解码时忽略其中内容，常规准确率看不出。
+- **核心创新 / 方法** · 分别从图像条件和依据条件计算词元分布并联合解码，加强答案对显式依据的依赖。
+- **Baseline** · 对照标准 CoT、CCoT，以及保持图像时将原解释置换为无关文本。
+- **Benchmark** · GQA 的解释干预与 SEED-I 等视觉推理，报告准确率和响应对条件变化。
+- **关键结果 / 消融** · 表 1 中图像仍在时，用无关解释替换真实解释常不会造成预期幅度的下降；移去图像后无关解释造成较明显下降。
+- **适用条件 / 局限** · 解释有误时增强其影响也可能带来误导，证据来源和双条件计算开销应另验。
+
+**可复用机制** · 多模态思维链应通过无关依据替换检查模型是否实际用到解释，再对照显式联合两种条件分布。见表 1、4。
+
+<a id="paper-spherical-voronoi"></a>
+
+## Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Di_Sario_Spherical_Voronoi_Directional_Appearance_as_a_Differentiable_Partition_of_the_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Di_Sario_Spherical_Voronoi_Directional_Appearance_as_a_Differentiable_Partition_of_the_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 球谐在高频边界易振铃，镜面光随视角急变。
+- **核心创新 / 方法** · 以平滑边界的可学球面 Voronoi 区域刻画方向外观，并用反射方向查询。
+- **Baseline** · 比较球谐、球面高斯等颜色参数化。
+- **Benchmark** · 正文表1–4测辐射、反射、光探针，以及训练与渲染效率。
+- **关键结果 / 消融** · 正文分别验证一般视角外观和反射，避免用漫反射平均指标掩盖镜面表现。
+- **适用条件 / 局限** · 可学区域依赖观测方向覆盖，高频结果也受几何和法向质量影响。
+
+**可复用机制** · 用可微球面分区表达视角相关外观，镜面成分以反射方向建模。
+
+<a id="paper-countscope"></a>
+
+## Understanding Counting Mechanisms in Large Language and Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hasani_Understanding_Counting_Mechanisms_in_Large_Language_and_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hasani_Understanding_Counting_Mechanisms_in_Large_Language_and_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 最终答对数量不足以说明模型沿序列如何表示和累积数量。
+- **核心创新 / 方法** · 以 CountScope 读中间表示，比较层级与空间位置，并干预计数相关状态。
+- **Baseline** · 用受控文本与图像、替换背景和前景及不同读出假说互相对照。
+- **Benchmark** · 正文表1–4用预测真值的概率及因果干预分数验证不同计数假说。
+- **关键结果 / 消融** · 正文观察到后层支持更大计数，序列末位或图像区域可携带计数，但视觉位置随构图而变。
+- **适用条件 / 局限** · 受控重复项与开放场景不同，探针能读出仍需要干预验证实际作用。
+
+**可复用机制** · 计数可先用受控重复项探测中间计数信号，再做因果干预区分局部计数和最终聚合。
+
+<a id="paper-dc-pgn"></a>
+
+## Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Test-time_Ego-Exo-centric_Adaptation_for_Action_Anticipation_via_Multi-Label_Prototype_Growing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Test-time_Ego-Exo-centric_Adaptation_for_Action_Anticipation_via_Multi-Label_Prototype_Growing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 在线适配遇到复合动作时，硬单标签更新容易放大视角偏差。
+- **核心创新 / 方法** · 多标签原型逐步增长，按置信重加权，并以跨模态一致性约束更新。
+- **Baseline** · 比较既有测试时适配，表2–3分别消融线索、原型及候选数。
+- **Benchmark** · EgoMe-anti 和 EgoExoLearn，对照第三至第一视角及反方向的动作预测。
+- **关键结果 / 消融** · 表1–3分别检验跨视角效果和更新选择数对结果的影响。
+- **适用条件 / 局限** · 误标可在在线记忆中积累，输入视角与动作组合变化时需控制更新。
+
+**可复用机制** · 跨第一与第三视角时，原型更新应允许多个候选动作，并用第二模态复核伪标签。
+
+<a id="paper-dreamstereo"></a>
+
+## DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_DreamStereo_Towards_Real-Time_Stereo_Inpainting_for_HD_Videos_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_DreamStereo_Towards_Real-Time_Stereo_Inpainting_for_HD_Videos_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整帧处理浪费算力，立体视差变换同时须保留遮挡边界。
+- **核心创新 / 方法** · 用坐标映射梯度辅助视差变换和训练配对，并按补全需求调整计算。
+- **Baseline** · 与立体补全和二维转三维方法比较，表3–4分别比较数据与推理设置。
+- **Benchmark** · HD-100、Dynamic Replica 和 SVD AVP，测图像质量及每帧耗时。
+- **关键结果 / 消融** · 表1–4区分训练配对和推理配置带来的变化，并报告固定函数评估次数的消融。
+- **适用条件 / 局限** · 遮挡范围扩大或视差估计错误时，稀疏计算及边缘效果需重新验证。
+
+**可复用机制** · 立体视频补全可让昂贵计算优先覆盖小面积遮挡区域，再独立校验边缘一致性。
+
+<a id="paper-freeloc"></a>
+
+## Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tian_Free-Lunch_Long_Video_Generation_via_Layer-Adaptive_O.O.D_Correction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tian_Free-Lunch_Long_Video_Generation_via_Layer-Adaptive_O.O.D_Correction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 短片预训练模型在长序列推理时会遇到陌生相对位置及注意力容量。
+- **核心创新 / 方法** · 分别重编码相对位置和分层稀疏注意，并探测哪一层需要哪种干预。
+- **Baseline** · 对照原长序列推理、统一改层及去掉每一项的版本。
+- **Benchmark** · 正文表1–4对照2倍和4倍长度的生成质量与模块设置。
+- **关键结果 / 消融** · 正文实验显示按层处理可在扩展长度下保留质量，并隔离位置和注意机制。
+- **适用条件 / 局限** · 不同主干需重估层敏感性，接近原训练长度时额外修正未必划算。
+
+**可复用机制** · 长视频扩散的外推失败应分别诊断帧相对距离和总上下文长度，按层选修正。
+
+<a id="paper-activation-replay"></a>
+
+## Boosting Reasoning in Large Multimodal Models via Activation Replay
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xing_Boosting_Reasoning_in_Large_Multimodal_Models_via_Activation_Replay_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xing_Boosting_Reasoning_in_Large_Multimodal_Models_via_Activation_Replay_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整体推理增益难说明强化学习改写了哪些视觉表示。
+- **核心创新 / 方法** · 用 logit lens 分析激活置信度，并从基础模型回放选定低熵视觉激活给强化学习版本。
+- **Baseline** · 对照不回放、不同熵组干预以及多个既有推理模型。
+- **Benchmark** · 正文表1–4涵盖 MathVerse 等视觉推理、图像辅助代理及16帧视频推理。
+- **关键结果 / 消融** · 正文报告低熵受强化训练的变化更明显；表2–4检查不同模型上的无训练干预效果。
+- **适用条件 / 局限** · 需要兼容的基础检查点和强化学习变体，低熵是可靠性代理而非真实性标签。
+
+**可复用机制** · 诊断 RLVR 是否改写低熵证据表征，再用基础模型同位置激活做无训练替换对照。
+
+<a id="paper-part-grounding-attention-to-point"></a>
+
+## Enhancing Part-Level Point Grounding for Any Open-Source MLLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jhang_Enhancing_Part-Level_Point_Grounding_for_Any_Open-Source_MLLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jhang_Enhancing_Part-Level_Point_Grounding_for_Any_Open-Source_MLLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 对象级定位无法满足部件级点选，生成坐标也可能缺少空间监督。
+- **核心创新 / 方法** · 在中层合成文本条件查询，再以轻量解码器将注意力转换为点热图。
+- **Baseline** · 同冻结主干的原始生成定位方式及现有部件指向方法。
+- **Benchmark** · PACO 直接指点和 InstructPart 推理指点，比较点定位准确性。
+- **关键结果 / 消融** · 表2报告不同开源骨干上效果改善，包括原先不能直接输出点位的模型。
+- **适用条件 / 局限** · 骨干中层必须含可读空间信息，细小及遮挡部件仍受视觉分辨率限制。
+
+**可复用机制** · 冻结多模态主干时，用文本条件中层注意力热图预测部件坐标。
+
+<a id="paper-ifa-net-forgery-localization"></a>
+
+## Detecting AI-Generated Forgeries via Iterative Manifold Deviation Amplification
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Detecting_AI-Generated_Forgeries_via_Iterative_Manifold_Deviation_Amplification_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Detecting_AI-Generated_Forgeries_via_Iterative_Manifold_Deviation_Amplification_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 针对旧伪造类型学判别特征难泛化到新编辑器。
+- **核心创新 / 方法** · 冻结自然图像 MAE，融合其重建残差做粗定位，再以粗定位引导残差细化。
+- **Baseline** · 表1比较多个篡改定位方法，表2拆分两阶段。
+- **Benchmark** · GIT、TT 等篡改定位基准，比较区域 IoU 与 F1。
+- **关键结果 / 消融** · 作者报告四组扩散修补基准平均改善 IoU 6.5%、F1 8.1%，表2检验组件。
+- **适用条件 / 局限** · 先验域之外的真实图像也可能难重建，部署时应核验误报。
+
+**可复用机制** · 取证检测可从自然图像重建残差出发，用初步区域预测引导第二轮定位。
+
+<a id="paper-onecat-scale-aware-autoregression"></a>
+
+## OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_OneCAT_Decoder-Only_Auto-Regressive_Model_for_Unified_Understanding_and_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_OneCAT_Decoder-Only_Auto-Regressive_Model_for_Unified_Understanding_and_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 同时支持理解、生成和编辑的模型常依赖外部编码器并承担高分辨率成本。
+- **核心创新 / 方法** · 训练单一自回归主干，按模态选择专家，并用尺度适配器完成多尺度生成。
+- **Baseline** · 表2–3比较其他统一多模态模型以及使用外部视觉编码器或提示改写的方案。
+- **Benchmark** · 多模态理解以及 DPG-Bench、GenEval 等生成，报告准确性、生成分数、激活参数与解码延迟。
+- **关键结果 / 消融** · 原文报告视觉主干集成后仍有竞争力，尺度自回归带来延迟优势。
+- **适用条件 / 局限** · 具体收益依赖规模与训练成本，外部预训练接口的便利性有待比较。
+
+**可复用机制** · 统一多模态模型可在解码器内用模态专家和尺度适配，减少外部视觉组件及逐像素解码开销。
+
+<a id="paper-closed-form-vlm-debiasing"></a>
+
+## A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lian_A_Closed-Form_Solution_for_Debiasing_Vision-Language_Models_with_Utility_Guarantees_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lian_A_Closed-Form_Solution_for_Debiasing_Vision-Language_Models_with_Utility_Guarantees_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 很多去偏方法改善公平指标却不给任务效用损失上界。
+- **核心创新 / 方法** · 在共享表征求免训练闭式解，同时处理图像与文本，并在假设下保证公平和效用的帕累托取舍。
+- **Baseline** · 表1梳理已有去偏方案，表2–3对比零样本和检索实验。
+- **Benchmark** · 零样本分类、图文检索及生成，涵盖性别、年龄、肤色等群体及交叉公平性。
+- **关键结果 / 消融** · 作者报告多项公平评估改善且维持任务效用，理论保证适用于文中定义。
+- **适用条件 / 局限** · 受敏感属性定义、表征和效用代理限制，不能将上界直接外推到部署影响。
+
+**可复用机制** · 跨模态去偏前确定可接受任务效用下限，再用闭式变换评估公平性取舍。
+
+<a id="paper-evotrack-occlusion-cues"></a>
+
+## Tracking through Severe Occlusion via Event-Derived Transient Cues
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dong_Tracking_through_Severe_Occlusion_via_Event-Derived_Transient_Cues_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dong_Tracking_through_Severe_Occlusion_via_Event-Derived_Transient_Cues_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 遮挡会破坏空间匹配，逐帧运动也难表达高速非线性变化。
+- **核心创新 / 方法** · 组合事件时序运动和目标外观匹配，并用双向运动一致性约束模型。
+- **Baseline** · 表1对照事件追踪方法，表2–3改变关键模块与遮挡掩码。
+- **Benchmark** · FE108、VisEvent、COESOT、FEOT，比较跟踪表现及遮挡相关对照。
+- **关键结果 / 消融** · 表1–3给出跟踪性能与部件消融，支持事件运动与外观互补。
+- **适用条件 / 局限** · 依赖有足量可观测事件，当所有信息源同时失效时仍无法可靠恢复位置。
+
+**可复用机制** · 强遮挡时分开检查事件运动提示与外观匹配，避免遮挡模板污染。
+
+<a id="paper-iamsb-asymmetric-multimodal-localization"></a>
+
+## Inconsistency-aware Multimodal Schrodinger Bridge for Deepfake Localization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiong_Inconsistency-aware_Multimodal_Schrodinger_Bridge_for_Deepfake_Localization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiong_Inconsistency-aware_Multimodal_Schrodinger_Bridge_for_Deepfake_Localization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单路受扰或时序不同步时，对称融合会把局部异常传播到另一模态。
+- **核心创新 / 方法** · 粗阶段估计跨模态一致性及候选时段，细阶段用不对称预算融合并定位。
+- **Baseline** · 对照音视频伪造定位方法，表3消融粗估和细化结构。
+- **Benchmark** · LAV-DF、TVIL、AV-Deepfake1M 的时间区间定位评测。
+- **关键结果 / 消融** · 表1–2报告多数据集定位改善，表3检验一致性选择及非对称策略。
+- **适用条件 / 局限** · 依赖一致性估计与音视频原有同步，真实不同步也可能引发误报。
+
+**可复用机制** · 多模态防御定位时依据两路证据的一致性决定融合强度和各路计算预算。
