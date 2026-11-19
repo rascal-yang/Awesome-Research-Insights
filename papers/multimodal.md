@@ -1430,5 +1430,14 @@
 - [Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](../conferences/cvpr-2026/cards.md#paper-mmrb2-interleaved-judges)
 - [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-videoitg-instructed-sampling)
 - [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](../conferences/cvpr-2026/cards.md#paper-saliency-r1-alignment)
+- [Towards Decompositional Human Motion Generation with Energy-Based Diffusion Models](../conferences/cvpr-2026/cards.md#paper-energy-composition-motion-without-part-labels)
+- [Text-Printed Image: Bridging the Image-Text Modality Gap for Text-centric Training of Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-text-printed-image)
+- [HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation](../conferences/cvpr-2026/cards.md#paper-hbridge-heterogeneous-experts)
+- [InsCal: Calibrated Multi-Source Fully Test-Time Prompt Tuning for Object Detection](../conferences/cvpr-2026/cards.md#paper-inscal-instance-calibration)
+- [Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models](../conferences/cvpr-2026/cards.md#paper-thinking-diffusion-grounding)
+- [Mixture of States: Routing Token-Level Dynamics for Multimodal Generation](../conferences/cvpr-2026/cards.md#paper-mos-token-state-routing)
+- [Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models](../conferences/cvpr-2026/cards.md#paper-visual-aware-cot-checklist-correction)
+- [ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-recall-diagnose-generate-refine-retrieval)
+- [Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training](../conferences/cvpr-2026/cards.md#paper-wanweaver-text-proxy-visualizer-decoupling)
 
 <!-- conference-classification:end -->

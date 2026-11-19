@@ -1058,5 +1058,9 @@
 - [WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-metric-discrete-flow-trajectory-planning)
 - [Boosting Vision-Language-Action Finetuning with Feasible Action Neighborhood Prior](../conferences/cvpr-2026/cards.md#paper-fan-action-neighborhood)
 - [SimScale: Learning to Drive via Real-World Simulation at Scale](../conferences/cvpr-2026/cards.md#paper-simscale-reactive-perturbations-pseudo-expert)
+- [Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions](../conferences/cvpr-2026/cards.md#paper-image-plane-tracking-physics-control)
+- [ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain](../conferences/cvpr-2026/cards.md#paper-activepolicy-global-local-gain)
+- [Unified Number-Free Text-to-Motion Generation Via Flow Matching](../conferences/cvpr-2026/cards.md#paper-umf-variable-count-motion)
+- [From Contrast to Consistency: Rethinking Event-based Continuous-Time Optical Flow Estimation](../conferences/cvpr-2026/cards.md#paper-stsc-continuous-event-flow-structure)
 
 <!-- conference-classification:end -->

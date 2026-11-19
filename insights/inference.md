@@ -1625,5 +1625,9 @@
 - [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-videoitg-instructed-sampling)
 - [Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep](../conferences/cvpr-2026/cards.md#paper-hetcache-video-editing)
 - [Neural Collapse in Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-nctta-sample-alignment-pseudolabels)
+- [TAP: A Token-Adaptive Predictor Framework for Training-Free Diffusion Acceleration](../conferences/cvpr-2026/cards.md#paper-shallow-probe-token-adaptive-diffusion-cache)
+- [ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain](../conferences/cvpr-2026/cards.md#paper-activepolicy-global-local-gain)
+- [Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models](../conferences/cvpr-2026/cards.md#paper-thinking-diffusion-grounding)
+- [Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models](../conferences/cvpr-2026/cards.md#paper-visual-aware-cot-checklist-correction)
 
 <!-- conference-classification:end -->

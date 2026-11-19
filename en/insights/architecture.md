@@ -732,5 +732,8 @@ Model-wide design and information flow.
 - [Perceiving the Near, Reasoning the Distant: Coherent Long-Horizon Trajectory Prediction for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-ndpnet-horizon-transition)
 - [WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-metric-discrete-flow-trajectory-planning)
 - [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](../../conferences/cvpr-2026/cards.md#paper-temporal-shapes-to-reference-deformation)
+- [HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-hbridge-heterogeneous-experts)
+- [Unified Number-Free Text-to-Motion Generation Via Flow Matching](../../conferences/cvpr-2026/cards.md#paper-umf-variable-count-motion)
+- [Mixture of States: Routing Token-Level Dynamics for Multimodal Generation](../../conferences/cvpr-2026/cards.md#paper-mos-token-state-routing)
 
 <!-- conference-classification:end -->

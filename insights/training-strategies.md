@@ -1214,5 +1214,13 @@
 - [Role-SynthCLIP: A Role-Play Driven Diverse Synthetic Data Approach](../conferences/cvpr-2026/cards.md#paper-role-synthclip-caption-diversity)
 - [Noise-Aware Few-Shot Learning through Bi-directional Multi-View Prompt Alignment](../conferences/cvpr-2026/cards.md#paper-bidirectional-region-prompt-noise-control)
 - [From Few-way to Many-way: Rethinking Few-shot Fine-grained Image Classification](../conferences/cvpr-2026/cards.md#paper-sceg-many-way-few-shot)
+- [Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions](../conferences/cvpr-2026/cards.md#paper-image-plane-tracking-physics-control)
+- [Towards Decompositional Human Motion Generation with Energy-Based Diffusion Models](../conferences/cvpr-2026/cards.md#paper-energy-composition-motion-without-part-labels)
+- [Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-step-aware-distillation-joint-refinement)
+- [Debiased Sample Selection for Learning with Noisy Labels](../conferences/cvpr-2026/cards.md#paper-class-instance-bias-noisy-selection)
+- [GeodesicNVS: Probability Density Geodesic Flow Matching for Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-geodesicnvs-density-flow)
+- [Text-Printed Image: Bridging the Image-Text Modality Gap for Text-centric Training of Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-text-printed-image)
+- [Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training](../conferences/cvpr-2026/cards.md#paper-wanweaver-text-proxy-visualizer-decoupling)
+- [ChordEdit: One-Step Low-Energy Transport for Image Editing](../conferences/cvpr-2026/cards.md#paper-chordedit-low-energy-single-step-transport)
 
 <!-- conference-classification:end -->

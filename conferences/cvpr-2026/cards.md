@@ -25036,3 +25036,288 @@
 - **适用条件 / 局限** · 分类器权重需保留代表性，开放类别或近邻类严重混淆时应独立复核。
 
 **可复用机制** · 在置信度自训练前检查样本特征和分类器权重是否仍对齐。
+
+<a id="paper-image-plane-tracking-physics-control"></a>
+
+## Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Learning_to_Control_Physically-simulated_3D_Characters_via_Generating_and_Mimicking_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Learning_to_Control_Physically-simulated_3D_Characters_via_Generating_and_Mimicking_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 从视频先重建三维动作、再模仿往往会把错误和物理不可行的轨迹传给控制器。
+- **核心创新 / 方法** · 直接给模拟控制策略加入单视角二维动作跟踪目标，用视频提取或生成的运动做监督。
+- **Baseline** · 对比代表性的 Sfv 两阶段管线，并替换其三维动作重建器。
+- **Benchmark** · AIST++ 及生成二维动作的大规模跟踪，另评估人体和人–物交互。
+- **关键结果 / 消融** · 论文报告与两阶段管线的定量比较和鲁棒性分析，并分开验证来自真实和合成的二维动作。
+- **适用条件 / 局限** · 需要可模拟主体和相机投影条件，部分运动存在固有的单视角深度歧义。
+
+**可复用机制** · 缺少可靠三维动作标注时，可以在物理模拟内把投影轨迹作为模仿监督。
+
+<a id="paper-energy-composition-motion-without-part-labels"></a>
+
+## Towards Decompositional Human Motion Generation with Energy-Based Diffusion Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Towards_Decompositional_Human_Motion_Generation_with_Energy-Based_Diffusion_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Towards_Decompositional_Human_Motion_Generation_with_Energy-Based_Diffusion_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 以整体文字映射复杂动作时，模型难单独操控组成概念，逐概念动作标注费用高。
+- **核心创新 / 方法** · 将动作概念置于可组合的扩散能量表征中，用分解文本、正交约束或语义表示分裂引导组成学习。
+- **Baseline** · 在不同分解配置下比较已发表的文本动作扩散模型。
+- **Benchmark** · HumanML3D 测试集，评估文本到动作生成及分解质量，包括 FID 和 R-Precision。
+- **关键结果 / 消融** · 表 1 中相应设定的 DEMOGEN-EXP 和 DEMOGEN-OSS 分别达到 0.078 和 0.092 FID。
+- **适用条件 / 局限** · 组成语义的可辨识性取决于文字或潜变量约束，未验证所有动作成分都可独立恢复。
+
+**可复用机制** · 只有整体动作配对时，可用能量叠加学习组成分布，避免逐动作收集分解标签。
+
+<a id="paper-hierarchical-latent-prototypes-distillation"></a>
+
+## ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Roy_ManifoldGD_Training-Free_Hierarchical_Manifold_Guidance_for_Diffusion-Based_Dataset_Distillation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Roy_ManifoldGD_Training-Free_Hierarchical_Manifold_Guidance_for_Diffusion-Based_Dataset_Distillation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 扩散数据蒸馏只导向一个实例原型时，容易忽视训练集中的不同模式。
+- **核心创新 / 方法** · 在 VAE 潜空间做分裂式层级聚类，在去噪各时刻用多尺度实例原型引导生成。
+- **Baseline** · 对比免训练和训练式数据蒸馏方案，消融原型构造与退火安排。
+- **Benchmark** · ImageNet 子集及 ImageWoof 的硬标签蒸馏，用合成数据训练 ResNetAP-10 后在真实数据上测准确率。
+- **关键结果 / 消融** · 表 3 的两项设置中，加入退火分别从 60.5%/64.0% 升至 60.8%/64.5%。
+- **适用条件 / 局限** · 依赖 VAE 潜空间和预训练扩散先验，层级原型质量受原始数据覆盖影响。
+
+**可复用机制** · 合成数据去噪可同时利用粗粒度原型与细粒度代表样本，避免单中心丢掉类内模式。
+
+<a id="paper-step-aware-distillation-joint-refinement"></a>
+
+## Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Flash-DMD_Towards_High-Fidelity_Few-Step_Image_Generation_with_Efficient_Distillation_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Flash-DMD_Towards_High-Fidelity_Few-Step_Image_Generation_with_Efficient_Distillation_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常规少步蒸馏成本高，后续只按偏好奖励微调又可能造成奖励投机。
+- **核心创新 / 方法** · 使用时间步感知蒸馏降低训练成本，并在后续阶段结合强化学习和蒸馏信号。
+- **Baseline** · 在 SDXL 与 SD3 比较 DMD2 等蒸馏方案及联合优化变体。
+- **Benchmark** · COCO-10k 及偏好生成设置，比较 ImageReward、生成质量和以批量乘步数估算的训练成本。
+- **关键结果 / 消融** · 正文报告时间步感知蒸馏方案在论文设定下使用 DMD2 约 2.1% 的训练成本。
+- **适用条件 / 局限** · 计算成本是论文定义的代理，奖励优化依赖偏好模型及阶段设定。
+
+**可复用机制** · 少步蒸馏与奖励对齐可以共同设计；在蒸馏时保留质量约束，有助于稳定后续奖励优化。
+
+<a id="paper-shallow-probe-token-adaptive-diffusion-cache"></a>
+
+## TAP: A Token-Adaptive Predictor Framework for Training-Free Diffusion Acceleration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_TAP_A_Token-Adaptive_Predictor_Framework_for_Training-Free_Diffusion_Acceleration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_TAP_A_Token-Adaptive_Predictor_Framework_for_Training-Free_Diffusion_Acceleration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 不同位置的去噪轨迹变化速度不同，固定缓存和外推规则易出现误差积累。
+- **核心创新 / 方法** · 完整运行模型第一层得到代理误差，按 token 在不同阶数及跨度的外推预测器间选择。
+- **Baseline** · 比较原始扩散模型和既有缓存加速方案，包括 FLUX.1-dev 与 FLUX.1-schnell。
+- **Benchmark** · 文本生成图像等扩散推理，量化延迟、FLOPs、ImageReward、CLIP 和相对原结果的感知距离。
+- **关键结果 / 消融** · FLUX.1-dev 的 TAP N=5 配置报告 3.57 倍延迟加速与 4.16 倍 FLOPs 改善。
+- **适用条件 / 局限** · 浅层误差是后层误差的代理，更激进的预算会降低样本与原模型输出的一致性。
+
+**可复用机制** · 扩散缓存可以用一次浅层探测给不同视觉 token 自适应挑选预测器。
+
+<a id="paper-class-instance-bias-noisy-selection"></a>
+
+## Debiased Sample Selection for Learning with Noisy Labels
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_Debiased_Sample_Selection_for_Learning_with_Noisy_Labels_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Debiased_Sample_Selection_for_Learning_with_Noisy_Labels_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 小损失策略会偏向易学类别，同时可能误保留偶然低损失的错标样本。
+- **核心创新 / 方法** · 动态调节预测边际分布，并通过训练轨迹跟踪潜在正确类别，补正两层确认偏差。
+- **Baseline** · 比较标准交叉熵、Co-teaching、DIST 等以及仅加边际修正的消融。
+- **Benchmark** · CIFAR-10/100 的多种合成和真实噪声，并验证 Clothing1M 等真实噪声数据，评估准确率及选择质量。
+- **关键结果 / 消融** · CIFAR-10 50% 实例依赖噪声下，仅边际修正就将正文 BASE 的 78.9% 提升为 88.5%。
+- **适用条件 / 局限** · 边际趋向均匀是有条件的先验，自然长尾数据需考虑目标类分布。
+
+**可复用机制** · 按训练损失筛选干净样本会偏向易学类，可分别修正类覆盖和个体错选。
+
+<a id="paper-geodesicnvs-density-flow"></a>
+
+## GeodesicNVS: Probability Density Geodesic Flow Matching for Novel View Synthesis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_GeodesicNVS_Probability_Density_Geodesic_Flow_Matching_for_Novel_View_Synthesis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_GeodesicNVS_Probability_Density_Geodesic_Flow_Matching_for_Novel_View_Synthesis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 噪声到数据的随机生成可能为不同目标视角产生不一致结构。
+- **核心创新 / 方法** · 用源目标视角间的数据到数据流，并通过教师将概率密度测地插值蒸馏给可高效预测的学生。
+- **Baseline** · 比较扩散方法与使用线性插值的数据到数据流。
+- **Benchmark** · Objaverse 和 GSO30 新视角合成，考察结构一致性及视角转换质量。
+- **关键结果 / 消融** · 正文报告比所比较扩散基线更稳定的结构与更平滑的跨视角过渡。
+- **适用条件 / 局限** · 需要可靠的配对视角和密度估计，遮挡、背景变化和真实动态场景需单独验证。
+
+**可复用机制** · 在成对观测之间直接学习流，以数据密度约束中间状态的几何一致性。
+
+<a id="paper-text-printed-image"></a>
+
+## Text-Printed Image: Bridging the Image-Text Modality Gap for Text-centric Training of Large Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yamabe_Text-Printed_Image_Bridging_the_Image-Text_Modality_Gap_for_Text-centric_Training_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yamabe_Text-Printed_Image_Bridging_the_Image-Text_Modality_Gap_for_Text-centric_Training_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅用文本描述微调大视觉语言模型，很难把收益迁移到需要图像输入的 VQA。
+- **核心创新 / 方法** · 将文字描述直接渲染到白色画布，形成包含相同语义的训练视觉输入。
+- **Baseline** · 比较训练时仅给文本和文本转图像等低成本训练策略。
+- **Benchmark** · ScienceQA、OK-VQA、VizWiz 等 VQA 设置，另分析 TextVQA。
+- **关键结果 / 消融** · 正文表2显示渲染输入相较纯文本更有效；OK-VQA 上的改善较小。
+- **适用条件 / 局限** · 依赖模型能从画面读文本，描述未覆盖的空间和外观细节无法补回。
+
+**可复用机制** · 缺少真实图像时，将描述渲染为伪图送入视觉分支，比仅走文本通道更贴近下游接口。
+
+<a id="paper-hbridge-heterogeneous-experts"></a>
+
+## HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_HBridge_H-Shape_Bridging_of_Heterogeneous_Experts_for_Unified_Multimodal_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_HBridge_H-Shape_Bridging_of_Heterogeneous_Experts_for_Unified_Multimodal_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 镜像构造专家并在全部层共享注意力，可能削弱不同模态各自的预训练优势。
+- **核心创新 / 方法** · HBridge 用非对称 H 形连接在异构理解和生成专家之间选择性共享中间层。
+- **Baseline** · 与 BAGEL、LMFusion 等共同建模范式及其他理解生成方法比较。
+- **Benchmark** · DPG-Bench、GenEval 文生图与 ImgEdit-Bench 图像编辑，另测多模态理解。
+- **关键结果 / 消融** · 正文表1–3分开报告生成与编辑收益，用来检查稀疏桥接是否保持专门能力。
+- **适用条件 / 局限** · 跨专家桥接位置需要匹配特征层次，长视频和动作专家未单独验证。
+
+**可复用机制** · 统一理解与生成时保留各自骨干结构，仅连接可信的中间交互层。
+
+<a id="paper-inscal-instance-calibration"></a>
+
+## InsCal: Calibrated Multi-Source Fully Test-Time Prompt Tuning for Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Que_InsCal_Calibrated_Multi-Source_Fully_Test-Time_Prompt_Tuning_for_Object_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Que_InsCal_Calibrated_Multi-Source_Fully_Test-Time_Prompt_Tuning_for_Object_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 领域偏移下直接最小化检测熵，会放大错误预测的置信度。
+- **核心创新 / 方法** · InsCal 使用多源提示、文本引导的无参考风格变换及实例特异校准改写熵最小化。
+- **Baseline** · 比较源训练、域适配与不同测试时提示调优设置，并消融多源和熵目标。
+- **Benchmark** · Art Image Dataset 与跨环境检测，报告 mAP 和检测期望校准误差 D-ECE。
+- **关键结果 / 消融** · 正文报告精度和校准同时改善，表3比较不同组件的类 AP。
+- **适用条件 / 局限** · 需要源风格描述和可用目标样本，极端分布漂移或连续漂移时仍需重测。
+
+**可复用机制** · 测试时适配按实例校准熵目标，同时比较准确度及校准，防止强制错误预测变得确定。
+
+<a id="paper-activepolicy-global-local-gain"></a>
+
+## ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_ActivePolicy_Active_Gaussian_Reconstruction_and_Optimization_Strategy_Based_on_Global-Local_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只按几何覆盖选择视角可能忽略图像质量，少视点还容易让高斯过拟合。
+- **核心创新 / 方法** · GL-Graph 用图关联定义稳定性分数；4D-Reg 利用三种深度的不一致适应性抑制漂浮结构。
+- **Baseline** · 与既有下一视点及活跃三维重建方法比较，另消融信息增益或正则化。
+- **Benchmark** · Replica 和 MP3D，评估三维重建完整性、视图合成质量。
+- **关键结果 / 消融** · 表1、2报告完整性和画面结果，表3在 Replica Room2 验证组件。
+- **适用条件 / 局限** · 可选视点若受运动、时间或遮挡约束，需要额外验证图评分的实际成本收益。
+
+**可复用机制** · 选新视点时将覆盖、渲染质量和观测冗余合并，避免机器人持续访问对最终重建无益的视角。
+
+<a id="paper-umf-variable-count-motion"></a>
+
+## Unified Number-Free Text-to-Motion Generation Via Flow Matching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Unified_Number-Free_Text-to-Motion_Generation_Via_Flow_Matching_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Unified_Number-Free_Text-to-Motion_Generation_Via_Flow_Matching_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 按固定参与主体数量训练的生成器难适配人数变化，顺序生成又会积累错误。
+- **核心创新 / 方法** · 用共享潜空间统一不同动作数据，P-Flow 分层生成运动先验，S-Flow 联合建模反应变换与上下文恢复。
+- **Baseline** · 比较已有文本动作及动作反应方法，并消融不同运动先验。
+- **Benchmark** · InterHuman 多主体、动作反应测试及 HumanML3D 单体动作评测，另做用户偏好分析。
+- **关键结果 / 消融** · 正文报告多种人数设置的性能，表3验证动作先验的作用。
+- **适用条件 / 局限** · 参与者多时反应阶段的开销和误差仍需评估，物理控制中的接触或可行性未独立验证。
+
+**可复用机制** · 将基础运动和后续参与者反应解耦生成，在反应建模中同时重建上下文来缓解级联误差。
+
+<a id="paper-thinking-diffusion-grounding"></a>
+
+## Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Thinking_Diffusion_Penalize_and_Guide_Visual-Grounded_Reasoning_in_Diffusion_Multimodal_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Thinking_Diffusion_Penalize_and_Guide_Visual-Grounded_Reasoning_in_Diffusion_Multimodal_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多模态离散扩散可能在图像线索和中间推理尚未形成时先生成答案。
+- **核心创新 / 方法** · PSP 惩罚容易过早确定的输出，VRG 在生成过程中加强视觉线索引导。
+- **Baseline** · 在 LaViDa 等扩散多模态模型比较原低置信度重掩码，分析不同生成长度和步骤。
+- **Benchmark** · 正文比较视觉推理任务准确率，跨生成步数、长度和重掩码策略测试。
+- **关键结果 / 消融** · 正文观察到早期答案和弱视觉依赖，并报告加入两项机制后的表现，表2消融各项。
+- **适用条件 / 局限** · 引导效果依赖生成过程和可利用的视觉信号，步骤增加可能影响有限预算下的收益。
+
+**可复用机制** · 检查并行解码何时生成答案、何时使用视觉信息，按位置和步骤延后未经验证的答案。
+
+<a id="paper-mos-token-state-routing"></a>
+
+## Mixture of States: Routing Token-Level Dynamics for Multimodal Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Mixture_of_States_Routing_Token-Level_Dynamics_for_Multimodal_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Mixture_of_States_Routing_Token-Level_Dynamics_for_Multimodal_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定模态融合层难适配不同令牌及去噪阶段需要的上下文。
+- **核心创新 / 方法** · MoS 以逐令牌路由器稀疏选择其他模态的 top-k 隐状态，并在训练中探索不同交互。
+- **Baseline** · 与已有统一或扩散生成模型比较，考虑相近参数与更大模型。
+- **Benchmark** · GenEval、DPG 等文本到图像评测，另测试图像编辑。
+- **关键结果 / 消融** · 正文报告 3B–5B 模型可达到部分更大对照的效果，图像生成对照包括 GenEval 0.79 和 DPG 85.61。
+- **适用条件 / 局限** · 需要路由决策稳定并具可并行计算实现，长时序或多种传感器融合成本需另测。
+
+**可复用机制** · 让每个令牌按输入与去噪步决定读取哪一层的其他模态状态。
+
+<a id="paper-visual-aware-cot-checklist-correction"></a>
+
+## Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ye_Visual-Aware_CoT_Achieving_High-Fidelity_Visual_Consistency_in_Unified_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Visual-Aware_CoT_Achieving_High-Fidelity_Visual_Consistency_in_Unified_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只围绕文本提示推理时，模型可能丢失图像参考中的身份、属性或风格。
+- **核心创新 / 方法** · 先自适应规划需要维持一致的视觉要素，再检查生成结果并进行迭代视觉纠正。
+- **Baseline** · 对比 UiG 和 UniCoT 等文本对齐的推理方案。
+- **Benchmark** · GenEval 文生图与 MultiRef 相关多参考图像生成设置，评估提示与参考一致性。
+- **关键结果 / 消融** · 论文报告多参考一致性改善，同时用 GenEval 检验通用文生图能力。
+- **适用条件 / 局限** · 依赖模型识别参考属性及判断自身错误，额外迭代带来延迟。
+
+**可复用机制** · 用视觉检查清单追踪生成过程中必须保留的参考属性，再按检查结果迭代修正。
+
+<a id="paper-stsc-continuous-event-flow-structure"></a>
+
+## From Contrast to Consistency: Rethinking Event-based Continuous-Time Optical Flow Estimation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_From_Contrast_to_Consistency_Rethinking_Event-based_Continuous-Time_Optical_Flow_Estimation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_From_Contrast_to_Consistency_Rethinking_Event-based_Continuous-Time_Optical_Flow_Estimation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 稠密时间真值难收集，单纯最大化去畸变事件图锐度可能造成轨迹变形。
+- **核心创新 / 方法** · 以时空结构一致性结合混合监督，约束局部结构稳定与事件运动轨迹连贯。
+- **Baseline** · 与 MultiCM、BFlow 等传统或学习式事件光流方法比较。
+- **Benchmark** · DSEC-Flow，报告 EPE、像素级阈值错误率、角度误差和 FWL。
+- **关键结果 / 消融** · 表 1 联合衡量稀疏监督的时序输出与标准光流误差，正文可视化轨迹一致性。
+- **适用条件 / 局限** · 依赖事件传感器和相机运动激发的信号，稀疏事件区需单独验证。
+
+**可复用机制** · 对事件相机的连续估计同时约束局部结构和轨迹连贯，避免用锐度代替运动正确性。
+
+<a id="paper-recall-diagnose-generate-refine-retrieval"></a>
+
+## ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_ReCALL_Recalibrating_Capability_Degradation_for_MLLM-based_Composed_Image_Retrieval_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_ReCALL_Recalibrating_Capability_Degradation_for_MLLM-based_Composed_Image_Retrieval_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单向量判别检索会损失原生成模型的细粒度组合推理能力。
+- **核心创新 / 方法** · 对适配后检索器做自引导实例挖掘，对认知盲区生成补充训练数据，再细化检索器。
+- **Baseline** · 从第一阶段 Rbase 出发，对比 CIR-LVLM 等组合检索器。
+- **Benchmark** · CIRR 测试集，比较检索召回与论文定义的综合指标。
+- **关键结果 / 消融** · 论文报告相应综合结果 55.52%，CIR-LVLM 为 53.64%。
+- **适用条件 / 局限** · 受自诊断可靠性和合成样本覆盖影响，对其他单向量压缩任务需独立检验。
+
+**可复用机制** · 生成模型压缩为检索器后，先定位原有推理能力退化的位置，再按困难样本补训。
+
+<a id="paper-wanweaver-text-proxy-visualizer-decoupling"></a>
+
+## Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xing_Wan-Weaver_Interleaved_Multi-modal_Generation_via_Decoupled_Training_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xing_Wan-Weaver_Interleaved_Multi-modal_Generation_via_Decoupled_Training_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多模态模型常只输出单模态，成对且长期一致的图文数据不足。
+- **核心创新 / 方法** · 以规划器产生逐段视觉描述，以参考引导的可视化器生成图像，两部分用不同数据训练。
+- **Baseline** · 在 OpenING 与 NExT-GPT 等交错生成方案比较。
+- **Benchmark** · OpenING 评完整性、质量、图文一致性、多步一致性等。
+- **关键结果 / 消融** · 表 1 分项报告 Wan-Weaver 的整体和跨步表现。
+- **适用条件 / 局限** · 两模块之间的文字接口会丢弃难文本化的细节，结果也依赖参考图质量。
+
+**可复用机制** · 用文字代理学习长程图文规划，用参考图学习视觉一致性，缓解交错图文数据不足。
+
+<a id="paper-chordedit-low-energy-single-step-transport"></a>
+
+## ChordEdit: One-Step Low-Energy Transport for Image Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_ChordEdit_One-Step_Low-Energy_Transport_for_Image_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_ChordEdit_One-Step_Low-Energy_Transport_for_Image_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 为多步采样设计的编辑器改成一步时，常出现对象形变和非编辑区域漂移。
+- **核心创新 / 方法** · 用动态最优传输设计低能量控制，连接源与目标提示分布，并检验去除近端约束的版本。
+- **Baseline** · 比较一步、少步、多步编辑器及仅运输的 ChordEdit 变体。
+- **Benchmark** · PIE-Bench，无保护掩码对照，测 CLIP-Edited、LPIPS、运行时间等。
+- **关键结果 / 消融** · 正文比较语义与保真度的权衡，单步可在不额外训练或反演的条件下改进编辑。
+- **适用条件 / 局限** · 源和目标提示需给出可分辨的控制信号，大范围重排与极端属性变化应单测。
+
+**可复用机制** · 将一步编辑视为低能量运输，避免直接做高步幅引导导致背景变化。

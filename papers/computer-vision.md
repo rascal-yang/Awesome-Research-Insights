@@ -1505,5 +1505,9 @@
 - [Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction](../conferences/cvpr-2026/cards.md#paper-pde-gaussian-optimization)
 - [A Debiased Reconstruction-based Framework for Training-Free Detection of AI-Generated Images](../conferences/cvpr-2026/cards.md#paper-rdd-instance-reconstruction-debiasing)
 - [UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition](../conferences/cvpr-2026/cards.md#paper-unimernet-horizontal-vertical-raster-attention)
+- [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-hierarchical-latent-prototypes-distillation)
+- [Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-step-aware-distillation-joint-refinement)
+- [TAP: A Token-Adaptive Predictor Framework for Training-Free Diffusion Acceleration](../conferences/cvpr-2026/cards.md#paper-shallow-probe-token-adaptive-diffusion-cache)
+- [GeodesicNVS: Probability Density Geodesic Flow Matching for Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-geodesicnvs-density-flow)
 
 <!-- conference-classification:end -->

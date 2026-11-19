@@ -485,5 +485,6 @@ Objectives, auxiliary supervision, and regularization.
 - [DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-diversedit-block-diversity)
 - [Boosting Vision-Language-Action Finetuning with Feasible Action Neighborhood Prior](../../conferences/cvpr-2026/cards.md#paper-fan-action-neighborhood)
 - [High-Precision Dichotomous Image Segmentation via Depth Integrity-Prior and Fine-Grained Patch Strategy](../../conferences/cvpr-2026/cards.md#paper-pdfnet-depth-integrity)
+- [InsCal: Calibrated Multi-Source Fully Test-Time Prompt Tuning for Object Detection](../../conferences/cvpr-2026/cards.md#paper-inscal-instance-calibration)
 
 <!-- conference-classification:end -->

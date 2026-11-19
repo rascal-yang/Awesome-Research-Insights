@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,637 篇，其中 1,669 篇暂收录、968 篇排除，另有 1,405 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,667 篇，其中 1,688 篇暂收录、979 篇排除，另有 1,375 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1675,3 +1675,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,637
 | 机器人学 | 仿真与数据增广 | [SimScale: Learning to Drive via Real-World Simulation at Scale](cards.md#paper-simscale-reactive-perturbations-pseudo-expert) | 对日志中的自车状态施加反事实偏移，并给出新状态下的恢复轨迹监督。 |
 | 生成模型 | 强化学习与奖励 | [Unified Customized Generation by Disentangled Reward Modeling](cards.md#paper-uso-disentangled-subject-style-rewards) | 联合学习多个参考维度时，为容易互相泄漏的因素使用分离的反馈。 |
 | 机器学习 | 测试时适配 | [Neural Collapse in Test-Time Adaptation](cards.md#paper-nctta-sample-alignment-pseudolabels) | 在置信度自训练前检查样本特征和分类器权重是否仍对齐。 |
+| 机器人学 | 训练策略 | [Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions](cards.md#paper-image-plane-tracking-physics-control) | 缺少可靠三维动作标注时，可以在物理模拟内把投影轨迹作为模仿监督。 |
+| 多模态学习 | 训练策略 | [Towards Decompositional Human Motion Generation with Energy-Based Diffusion Models](cards.md#paper-energy-composition-motion-without-part-labels) | 只有整体动作配对时，可用能量叠加学习组成分布，避免逐动作收集分解标签。 |
+| 计算机视觉 | 数据策略 | [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](cards.md#paper-hierarchical-latent-prototypes-distillation) | 合成数据去噪可同时利用粗粒度原型与细粒度代表样本，避免单中心丢掉类内模式。 |
+| 计算机视觉 | 训练策略 | [Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning](cards.md#paper-step-aware-distillation-joint-refinement) | 少步蒸馏与奖励对齐可以共同设计；在蒸馏时保留质量约束，有助于稳定后续奖励优化。 |
+| 计算机视觉 | 推理策略 | [TAP: A Token-Adaptive Predictor Framework for Training-Free Diffusion Acceleration](cards.md#paper-shallow-probe-token-adaptive-diffusion-cache) | 扩散缓存可以用一次浅层探测给不同视觉 token 自适应挑选预测器。 |
+| 机器学习基础与统计 | 训练策略 | [Debiased Sample Selection for Learning with Noisy Labels](cards.md#paper-class-instance-bias-noisy-selection) | 按训练损失筛选干净样本会偏向易学类，可分别修正类覆盖和个体错选。 |
+| 计算机视觉 | 训练策略 | [GeodesicNVS: Probability Density Geodesic Flow Matching for Novel View Synthesis](cards.md#paper-geodesicnvs-density-flow) | 在成对观测之间直接学习流，以数据密度约束中间状态的几何一致性。 |
+| 多模态学习 | 训练策略 | [Text-Printed Image: Bridging the Image-Text Modality Gap for Text-centric Training of Large Vision-Language Models](cards.md#paper-text-printed-image) | 缺少真实图像时，将描述渲染为伪图送入视觉分支，比仅走文本通道更贴近下游接口。 |
+| 多模态学习 | 模型架构 | [HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation](cards.md#paper-hbridge-heterogeneous-experts) | 统一理解与生成时保留各自骨干结构，仅连接可信的中间交互层。 |
+| 多模态学习 | 损失函数 | [InsCal: Calibrated Multi-Source Fully Test-Time Prompt Tuning for Object Detection](cards.md#paper-inscal-instance-calibration) | 测试时适配按实例校准熵目标，同时比较准确度及校准，防止强制错误预测变得确定。 |
+| 机器人学 | 推理策略 | [ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain](cards.md#paper-activepolicy-global-local-gain) | 选新视点时将覆盖、渲染质量和观测冗余合并，避免机器人持续访问对最终重建无益的视角。 |
+| 机器人学 | 模型架构 | [Unified Number-Free Text-to-Motion Generation Via Flow Matching](cards.md#paper-umf-variable-count-motion) | 将基础运动和后续参与者反应解耦生成，在反应建模中同时重建上下文来缓解级联误差。 |
+| 多模态学习 | 推理策略 | [Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models](cards.md#paper-thinking-diffusion-grounding) | 检查并行解码何时生成答案、何时使用视觉信息，按位置和步骤延后未经验证的答案。 |
+| 多模态学习 | 模型架构 | [Mixture of States: Routing Token-Level Dynamics for Multimodal Generation](cards.md#paper-mos-token-state-routing) | 让每个令牌按输入与去噪步决定读取哪一层的其他模态状态。 |
+| 多模态学习 | 生成与反馈 | [Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models](cards.md#paper-visual-aware-cot-checklist-correction) | 用视觉检查清单追踪生成过程中必须保留的参考属性，再按检查结果迭代修正。 |
+| 机器人学 | 时序一致性 | [From Contrast to Consistency: Rethinking Event-based Continuous-Time Optical Flow Estimation](cards.md#paper-stsc-continuous-event-flow-structure) | 对事件相机的连续估计同时约束局部结构和轨迹连贯，避免用锐度代替运动正确性。 |
+| 多模态学习 | 训练数据筛选 | [ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](cards.md#paper-recall-diagnose-generate-refine-retrieval) | 生成模型压缩为检索器后，先定位原有推理能力退化的位置，再按困难样本补训。 |
+| 多模态学习 | 解耦训练 | [Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training](cards.md#paper-wanweaver-text-proxy-visualizer-decoupling) | 用文字代理学习长程图文规划，用参考图学习视觉一致性，缓解交错图文数据不足。 |
+| 生成模型 | 免训练编辑 | [ChordEdit: One-Step Low-Energy Transport for Image Editing](cards.md#paper-chordedit-low-energy-single-step-transport) | 将一步编辑视为低能量运输，避免直接做高步幅引导导致背景变化。 |

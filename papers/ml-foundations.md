@@ -2528,5 +2528,7 @@
 - [Parameter-efficient Continual Learning for Enhancing Plasticity without Forgetting under Limited Model Capacity](../conferences/cvpr-2026/cards.md#paper-gradient-guided-frozen-parameter-reuse)
 - [Unified Customized Generation by Disentangled Reward Modeling](../conferences/cvpr-2026/cards.md#paper-uso-disentangled-subject-style-rewards)
 - [Neural Collapse in Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-nctta-sample-alignment-pseudolabels)
+- [Debiased Sample Selection for Learning with Noisy Labels](../conferences/cvpr-2026/cards.md#paper-class-instance-bias-noisy-selection)
+- [ChordEdit: One-Step Low-Energy Transport for Image Editing](../conferences/cvpr-2026/cards.md#paper-chordedit-low-energy-single-step-transport)
 
 <!-- conference-classification:end -->

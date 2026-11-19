@@ -439,5 +439,7 @@ Data selection, annotation, augmentation, and sampling.
 - [What's Wrong with Synthetic Data for Scene Text Recognition? A Strong Synthetic Engine with Diverse Simulations and Self-Evolution](../../conferences/cvpr-2026/cards.md#paper-factorized-synthetic-real-data-gap)
 - [PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion](../../conferences/cvpr-2026/cards.md#paper-adaptive-video-condensation-anchors)
 - [SimScale: Learning to Drive via Real-World Simulation at Scale](../../conferences/cvpr-2026/cards.md#paper-simscale-reactive-perturbations-pseudo-expert)
+- [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-hierarchical-latent-prototypes-distillation)
+- [ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-recall-diagnose-generate-refine-retrieval)
 
 <!-- conference-classification:end -->

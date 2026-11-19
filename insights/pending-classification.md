@@ -852,5 +852,6 @@
 - [CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization](../conferences/cvpr-2026/cards.md#paper-catok-time-bound-causal-tokenization)
 - [LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception](../conferences/cvpr-2026/cards.md#paper-lidas-task-directed-active-illumination)
 - [Act2See: Emergent Active Visual Perception for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-act2see-retrieve-or-synthesize-frames)
+- [From Contrast to Consistency: Rethinking Event-based Continuous-Time Optical Flow Estimation](../conferences/cvpr-2026/cards.md#paper-stsc-continuous-event-flow-structure)
 
 <!-- conference-classification:end -->
