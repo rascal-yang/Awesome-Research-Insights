@@ -1423,5 +1423,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [MotionHiFlow: Text-to-Motion via Hierarchical Flow Matching](../../conferences/cvpr-2026/cards.md#paper-motionhiflow)
 - [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration](../../conferences/cvpr-2026/cards.md#paper-face2scene-degradation-oracle)
 - [LoL: Longer than Longer, Scaling Video Generation to Hour](../../conferences/cvpr-2026/cards.md#paper-long-video-sink-collapse)
+- [Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors](../../conferences/cvpr-2026/cards.md#paper-grip-foot-contact-versus-inertial-sensors)
+- [Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention](../../conferences/cvpr-2026/cards.md#paper-jiti-elegant-execution)
+- [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](../../conferences/cvpr-2026/cards.md#paper-cubic-discrete-diffusion)
+- [Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](../../conferences/cvpr-2026/cards.md#paper-analytic-concepts-articulation)
 
 <!-- conference-classification:end -->

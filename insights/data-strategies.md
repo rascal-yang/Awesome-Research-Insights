@@ -397,5 +397,7 @@
 - [What Makes Good Synthetic Training Data for Zero-Shot Stereo Matching?](../conferences/cvpr-2026/cards.md#paper-synthetic-stereo-camera-baseline-distribution)
 - [Retrieve-to-Restore: Efficient All-in-One Image Restoration with a Retrieval-Based Degradation Bank](../conferences/cvpr-2026/cards.md#paper-r2r-retrieved-degradation-prior-bank)
 - [MR-RAG: Multimodal Relevance-Aware Retrieval-Augmented Generation for Medical Visual Question Answering](../conferences/cvpr-2026/cards.md#paper-mr-rag)
+- [EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval](../conferences/cvpr-2026/cards.md#paper-evograph-online-multimodal-graph-refinement)
+- [GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking](../conferences/cvpr-2026/cards.md#paper-gthinker-cue-rethinking)
 
 <!-- conference-classification:end -->

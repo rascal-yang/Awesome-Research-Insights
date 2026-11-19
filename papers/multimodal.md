@@ -1080,5 +1080,10 @@
 - [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](../conferences/cvpr-2026/cards.md#paper-octomed-reasoning-length)
 - [LoL: Longer than Longer, Scaling Video Generation to Hour](../conferences/cvpr-2026/cards.md#paper-long-video-sink-collapse)
 - [Bias at the End of the Score](../conferences/cvpr-2026/cards.md#paper-reward-model-demographic-audit)
+- [Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-earl-video-evidence)
+- [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](../conferences/cvpr-2026/cards.md#paper-multishot-narrative-rope)
+- [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](../conferences/cvpr-2026/cards.md#paper-cubic-discrete-diffusion)
+- [Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers](../conferences/cvpr-2026/cards.md#paper-gated-condition-linear-attention)
+- [GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking](../conferences/cvpr-2026/cards.md#paper-gthinker-cue-rethinking)
 
 <!-- conference-classification:end -->

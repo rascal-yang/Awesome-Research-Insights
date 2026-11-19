@@ -621,5 +621,8 @@
 - [Semantic Context Matters: Improving Conditioning for Autoregressive Models](../conferences/cvpr-2026/cards.md#paper-scar-semantic-context)
 - [SRA-Det: Learning Omni-Grained Open-Vocabulary Detection Beyond Category Names](../conferences/cvpr-2026/cards.md#paper-sra-det)
 - [Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token](../conferences/cvpr-2026/cards.md#paper-self1e)
+- [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](../conferences/cvpr-2026/cards.md#paper-multishot-narrative-rope)
+- [Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers](../conferences/cvpr-2026/cards.md#paper-gated-condition-linear-attention)
+- [Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-monocop-uncertainty-routing)
 
 <!-- conference-classification:end -->

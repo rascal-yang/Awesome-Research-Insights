@@ -913,5 +913,9 @@ Robot perception, policy learning, planning, and control.
 - [AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Affordance Correspondence](../../conferences/cvpr-2026/cards.md#paper-affordgen-geometry-demonstration-budget)
 - [Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing](../../conferences/cvpr-2026/cards.md#paper-edit-as-act-goal-regressive)
 - [GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation](../../conferences/cvpr-2026/cards.md#paper-geniedrive-normalized-multiview-occupancy-conditioning)
+- [Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors](../../conferences/cvpr-2026/cards.md#paper-grip-foot-contact-versus-inertial-sensors)
+- [Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes](../../conferences/cvpr-2026/cards.md#paper-poisson-gaussian-to-occupancy-weak-supervision)
+- [Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention](../../conferences/cvpr-2026/cards.md#paper-jiti-elegant-execution)
+- [Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](../../conferences/cvpr-2026/cards.md#paper-analytic-concepts-articulation)
 
 <!-- conference-classification:end -->

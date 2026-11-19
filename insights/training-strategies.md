@@ -1021,5 +1021,7 @@
 - [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](../conferences/cvpr-2026/cards.md#paper-octomed-reasoning-length)
 - [Let it Snow! Animating 3D Gaussian Scenes with Dynamic Weather Effects via Physics-Guided Score Distillation](../conferences/cvpr-2026/cards.md#paper-physics-guided-sds)
 - [Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](../conferences/cvpr-2026/cards.md#paper-flow3r-factored-flow)
+- [See Through the Noise: Improving Domain Generalization in Gaze Estimation](../conferences/cvpr-2026/cards.md#paper-seetn-continuous-label-affinity-denoising)
+- [Progressive Mask Distillation for Self-supervised Video Representation](../conferences/cvpr-2026/cards.md#paper-progressive-mask-distillation)
 
 <!-- conference-classification:end -->

@@ -2428,5 +2428,8 @@
 - [META: Meta Evolution of Tool Trajectory Adaptation for Long-Video Understanding](../conferences/cvpr-2026/cards.md#paper-meta-tool-trajectory-abstraction)
 - [ProSoftArena: Benchmarking Hierarchical Capabilities of Multi-modal Agents in Professional Software Environments](../conferences/cvpr-2026/cards.md#paper-prosoftarena-hierarchical-agent-evaluation)
 - [CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization](../conferences/cvpr-2026/cards.md#paper-codev-evidence-based-visual-tool-reward)
+- [EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval](../conferences/cvpr-2026/cards.md#paper-evograph-online-multimodal-graph-refinement)
+- [RAAS: LLM Agentic System Architecture Search with GRPO](../conferences/cvpr-2026/cards.md#paper-raas-agent-architecture)
+- [NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code](../conferences/cvpr-2026/cards.md#paper-nerfify)
 
 <!-- conference-classification:end -->

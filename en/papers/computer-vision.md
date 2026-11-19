@@ -1186,5 +1186,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](../../conferences/cvpr-2026/cards.md#paper-flow3r-factored-flow)
 - [Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration](../../conferences/cvpr-2026/cards.md#paper-face2scene-degradation-oracle)
 - [WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](../../conferences/cvpr-2026/cards.md#paper-waterflow-temporal-watermark)
+- [See Through the Noise: Improving Domain Generalization in Gaze Estimation](../../conferences/cvpr-2026/cards.md#paper-seetn-continuous-label-affinity-denoising)
+- [Edge-RecViT: Efficient Vision Transformer via Semantic-Refined Dynamic Recursion](../../conferences/cvpr-2026/cards.md#paper-edge-recvit-boundary-aware-token-depth)
+- [Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-monocop-uncertainty-routing)
+- [Any4D: Unified Feed-Forward Metric 4D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-any4d-modular-coordinate-factors)
+- [Progressive Mask Distillation for Self-supervised Video Representation](../../conferences/cvpr-2026/cards.md#paper-progressive-mask-distillation)
 
 <!-- conference-classification:end -->

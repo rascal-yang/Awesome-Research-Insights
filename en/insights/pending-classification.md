@@ -777,5 +777,8 @@
 - [Lipschitz Optimization for Formal Verification of Homographies](../../conferences/cvpr-2026/cards.md#paper-homography-verification)
 - [UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders](../../conferences/cvpr-2026/cards.md#paper-uplift-local-attender-iterative-feature-upsampling)
 - [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](../../conferences/cvpr-2026/cards.md#paper-causal-ot-cross-channel-alignment)
+- [Markovian Scale Prediction: A New Era of Visual Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-markov-var-sliding-scale-history)
+- [Edge-RecViT: Efficient Vision Transformer via Semantic-Refined Dynamic Recursion](../../conferences/cvpr-2026/cards.md#paper-edge-recvit-boundary-aware-token-depth)
+- [NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code](../../conferences/cvpr-2026/cards.md#paper-nerfify)
 
 <!-- conference-classification:end -->

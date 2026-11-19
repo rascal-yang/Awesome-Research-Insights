@@ -2357,5 +2357,6 @@
 - [Geometry-driven OOD Detectors Are Class-Incremental Learners](../conferences/cvpr-2026/cards.md#paper-geometry-driven-ood-heads)
 - [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](../conferences/cvpr-2026/cards.md#paper-causal-ot-cross-channel-alignment)
 - [Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards](../conferences/cvpr-2026/cards.md#paper-solace-denoising-self-confidence-reward)
+- [Markovian Scale Prediction: A New Era of Visual Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-markov-var-sliding-scale-history)
 
 <!-- conference-classification:end -->

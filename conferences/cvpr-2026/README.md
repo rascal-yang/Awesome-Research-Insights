@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,017 篇，其中 655 篇暂收录、362 篇排除，另有 3,025 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,047 篇，其中 673 篇暂收录、374 篇排除，另有 2,995 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -661,3 +661,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,017
 | 计算机视觉 | 损失函数与优化 | [WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](cards.md#paper-waterflow-temporal-watermark) | 需要从图生视频保留来源证据时，将水印恢复视作沿运动对应的跨帧稳定问题。 |
 | 多模态学习 | 推理优化 | [LoL: Longer than Longer, Scaling Video Generation to Hour](cards.md#paper-long-video-sink-collapse) | 自回归视频出现周期回跳时，先诊断多头位置编码是否共同锁到同一注意力锚点。 |
 | 多模态学习 | 评测与分析 | [Bias at the End of the Score](cards.md#paper-reward-model-demographic-audit) | 选择文生图奖励模型时，按群体检查打分及优化后生成分布，避免总体质量掩盖偏差。 |
+| 生成模型 | 模型效率 | [Markovian Scale Prediction: A New Era of Visual Autoregressive Generation](cards.md#paper-markov-var-sliding-scale-history) | 逐尺度生成时可以只保留临近尺度的压缩历史，比较全量、局部或无历史对画质和显存的影响。见表 3、4。 |
+| 机器人学 | 规划与控制 | [Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors](cards.md#paper-grip-foot-contact-versus-inertial-sensors) | 可穿戴动作捕捉应比较增加接触模态与再加同类惯性测量哪种更能改善物理稳定性。见表 3。 |
+| 计算机视觉 | 训练策略 | [See Through the Noise: Improving Domain Generalization in Gaze Estimation](cards.md#paper-seetn-continuous-label-affinity-denoising) | 连续回归标签有噪声时，可用标签近邻与特征近邻的相容性筛样，避免把连续目标硬当成纠错类别。见表 4。 |
+| 机器人学 | 三维重建与几何建模 | [Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes](cards.md#paper-poisson-gaussian-to-occupancy-weak-supervision) | 只有占据几何标签时，可比较高斯到体素的聚合概率模型和语义温度调度，避免弱监督训练坍塌。见表 2、3。 |
+| 智能体 | 检索增强 | [EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval](cards.md#paper-evograph-online-multimodal-graph-refinement) | 多跳回答遇到新证据时，可让检索策略在当前问答中更新图结构，并检查各更新操作对答案和检索轮数的影响。见表 3。 |
+| 计算机视觉 | 模型效率 | [Edge-RecViT: Efficient Vision Transformer via Semantic-Refined Dynamic Recursion](cards.md#paper-edge-recvit-boundary-aware-token-depth) | 视觉标记早退时可以给含结构信息的边缘标记更深预算，并对照固定深度的精度与 FLOPs。见表 3。 |
+| 智能体 | 评测与诊断 | [RAAS: LLM Agentic System Architecture Search with GRPO](cards.md#paper-raas-agent-architecture) | 搜索工作流时，对同一问题比较候选架构，并在多个独立运行中汇总。 |
+| 机器人学 | 推理与规划 | [Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention](cards.md#paper-jiti-elegant-execution) | 成功率相近时，可独立评估执行约束，仅在关键动作由置信度门控触发修正。 |
+| 多模态学习 | 强化学习 | [Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning](cards.md#paper-earl-video-evidence) | 视频取证应允许在已选时间附近重新高频采样，并奖励证据定位而不只答对。 |
+| 多模态学习 | 模型架构 | [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](cards.md#paper-multishot-narrative-rope) | 有分段结构的序列可用显式位置相位标识段边界，同时维持段内时空参考。 |
+| 多模态学习 | 生成模型 | [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](cards.md#paper-cubic-discrete-diffusion) | 高维理解特征用于离散生成时，可按位置和特征坐标共同遮罩，使生成轮数不随维数线性增加。 |
+| 智能体 | 自动化工作流 | [NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code](cards.md#paper-nerfify) | 论文到代码应先将目标框架的模块契约形式化，然后按依赖顺序生成并验证各节点。 |
+| 多模态学习 | 模型架构 | [Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers](cards.md#paper-gated-condition-linear-attention) | 在线性注意力骨干上做异构条件控制时，比较独立条件支路加门控与传统条件注入。 |
+| 计算机视觉 | 模型架构 | [Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection](cards.md#paper-monocop-uncertainty-routing) | 多属性预测中，低不确定时利用属性链，高不确定样本切换并行以阻断传播误差。 |
+| 计算机视觉 | 表示学习 | [Any4D: Unified Feed-Forward Metric 4D Reconstruction](cards.md#paper-any4d-modular-coordinate-factors) | 多传感器动态几何建模中，按局部相机系和全局世界系因子化预测。 |
+| 计算机视觉 | 知识蒸馏 | [Progressive Mask Distillation for Self-supervised Video Representation](cards.md#paper-progressive-mask-distillation) | 掩码视频预训练时，让低遮盖阶段的学生教高遮盖阶段，避免大遮盖初期无法学习。 |
+| 多模态学习 | 训练与数据策略 | [GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking](cards.md#paper-gthinker-cue-rethinking) | 多模态模型推理初始观察可能错误时，引入证据冲突触发的视觉重新检查。 |
+| 机器人学 | 规划与决策 | [Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](cards.md#paper-analytic-concepts-articulation) | 把语言常识作为对象功能假设，再用可计算几何与物理概念约束操作。 |

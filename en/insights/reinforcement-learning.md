@@ -757,5 +757,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](../../conferences/cvpr-2026/cards.md#paper-relax-latent-exploration)
 - [PlannerRFT: Reinforcing Diffusion Planners through Closed-Loop and Sample-Efficient Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-planner-rft)
 - [Reinforcing Video Object Segmentation to Think before it Segments](../../conferences/cvpr-2026/cards.md#paper-veason-r1-sequential-segmentation)
+- [Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-earl-video-evidence)
 
 <!-- conference-classification:end -->

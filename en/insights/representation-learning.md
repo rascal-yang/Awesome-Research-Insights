@@ -597,5 +597,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes](../../conferences/cvpr-2026/cards.md#paper-rescene4d)
 - [B$^3$-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates](../../conferences/cvpr-2026/cards.md#paper-b3seg-information-gain-view-selection)
 - [Spatial-SAM: Spatially Consistent 3D Electron Microscopy Segmentation with SDF Memory and Semi-Supervised Learning](../../conferences/cvpr-2026/cards.md#paper-spatial-sam-sdf-memory)
+- [Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes](../../conferences/cvpr-2026/cards.md#paper-poisson-gaussian-to-occupancy-weak-supervision)
+- [Any4D: Unified Feed-Forward Metric 4D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-any4d-modular-coordinate-factors)
 
 <!-- conference-classification:end -->
