@@ -2491,5 +2491,13 @@
 - [Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models](../conferences/cvpr-2026/cards.md#paper-l2p-diffusion)
 - [Bridging Domains through Subspace-Aware Model Merging](../conferences/cvpr-2026/cards.md#paper-score-shared-singular-subspace-merging)
 - [Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation](../conferences/cvpr-2026/cards.md#paper-etn-posthoc-dirichlet-logits)
+- [Decision Boundary-aware Generation for Long-tailed Learning](../conferences/cvpr-2026/cards.md#paper-dbg-long-tail-boundary-aware-generation)
+- [Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](../conferences/cvpr-2026/cards.md#paper-attribution-guided-defensive-layer-selection)
+- [Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedpurel)
+- [A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems](../conferences/cvpr-2026/cards.md#paper-polynomial-chaos-causal-discovery)
+- [LoPrune: Efficient Data Pruning for LoRA-Based Fine-Tuning of Vision Transformer](../conferences/cvpr-2026/cards.md#paper-loprune-trainable-subspace-alignment)
+- [Enhancing Out-of-Distribution Detection with Extended Logit Normalization](../conferences/cvpr-2026/cards.md#paper-elogitnorm-feature-distance-calibration)
+- [Bridging Domain Expertise and Generalization for Performance Estimation](../conferences/cvpr-2026/cards.md#paper-frap-calibrated-reference-performance-estimation)
+- [Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling](../conferences/cvpr-2026/cards.md#paper-composer-one-shot-parameter-adaptation)
 
 <!-- conference-classification:end -->

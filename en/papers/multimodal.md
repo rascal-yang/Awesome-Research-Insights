@@ -1351,5 +1351,9 @@ Learning across modalities such as images, text, audio, and video.
 - [Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion](../../conferences/cvpr-2026/cards.md#paper-editable-hard-prompt-token-decorrelation)
 - [CoLoGen: Progressive Learning of Concept-Localization Duality for Unified Image Generation](../../conferences/cvpr-2026/cards.md#paper-cologen-staged-concept-localization)
 - [LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks](../../conferences/cvpr-2026/cards.md#paper-lifeeval-online-assistive-interaction)
+- [Visual Grounding for Object Questions](../../conferences/cvpr-2026/cards.md#paper-vgoq-graded-visual-evidence)
+- [When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness](../../conferences/cvpr-2026/cards.md#paper-mac-defensive-multiview-adaptive-fusion)
+- [Modeling Cross-vision Synergy for Unified Large Vision Model](../../conferences/cvpr-2026/cards.md#paper-polyv-cross-vision)
+- [VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](../../conferences/cvpr-2026/cards.md#paper-videoarm-hierarchical-multimodal-memory)
 
 <!-- conference-classification:end -->

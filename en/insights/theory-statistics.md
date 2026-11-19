@@ -987,5 +987,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [CGU-Bayes: Causal Graph Uncertainty-Guided Bayesian Inference for Domain Generalization](../../conferences/cvpr-2026/cards.md#paper-cgu-bayes-graph-uncertainty)
 - [UniDAC: Universal Metric Depth Estimation for Any Camera](../../conferences/cvpr-2026/cards.md#paper-unidac-local-metric-scale)
 - [Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation](../../conferences/cvpr-2026/cards.md#paper-etn-posthoc-dirichlet-logits)
+- [Enhancing Out-of-Distribution Detection with Extended Logit Normalization](../../conferences/cvpr-2026/cards.md#paper-elogitnorm-feature-distance-calibration)
 
 <!-- conference-classification:end -->

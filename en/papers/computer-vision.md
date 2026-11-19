@@ -1432,5 +1432,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [Nonlinear Color Transfer via Learnable Bezier Flows](../../conferences/cvpr-2026/cards.md#paper-bezier-color-flows)
 - [Egocentric Visibility-Aware Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-evapose-visibility-conditioned-keypoints)
 - [Topology-aware Feature Propagation for Unsupervised Non-rigid Point Cloud Correspondence](../../conferences/cvpr-2026/cards.md#paper-topology-propagation-deformable-correspondence)
+- [FSFSplatter: Geometrically Accurate Reconstruction with Free Sparse-view Images within 2 minutes](../../conferences/cvpr-2026/cards.md#paper-fsfsplatter-geometric-pruning-sparse-views)
+- [HySeg: Learning Generative Priors for Structure-Aware Remote Sensing Segmentation](../../conferences/cvpr-2026/cards.md#paper-hyseg-generative-topology-prior)
+- [DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation](../../conferences/cvpr-2026/cards.md#paper-deco-pixel-diffusion)
+- [D2FANet: Enhancing Video Object Detection with Dual-Domain Feature Aggregation Network](../../conferences/cvpr-2026/cards.md#paper-d2fanet)
+- [Radar-Guided Polynomial Fitting for Metric Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-polar-radar-depth)
+- [QuadSync: Quadrifocal Tensor Synchronization via Tucker Decomposition](../../conferences/cvpr-2026/cards.md#paper-quadsync)
 
 <!-- conference-classification:end -->

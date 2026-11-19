@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,247 篇，其中 1,423 篇暂收录、824 篇排除，另有 1,795 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,277 篇，其中 1,443 篇暂收录、834 篇排除，另有 1,765 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1429,3 +1429,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,247
 | 多模态学习 | 训练策略 | [CoLoGen: Progressive Learning of Concept-Localization Duality for Unified Image Generation](cards.md#paper-cologen-staged-concept-localization) | 先培养概念与定位子能力，再逐步接入条件和复杂指令，缓解共享表征冲突。 |
 | 计算机视觉 | 三维匹配 | [Topology-aware Feature Propagation for Unsupervised Non-rigid Point Cloud Correspondence](cards.md#paper-topology-propagation-deformable-correspondence) | 用可学习拓扑替代欧氏邻接，减少非刚性变形下的跨表面错误传播。 |
 | 多模态学习 | 评测设计 | [LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks](cards.md#paper-lifeeval-online-assistive-interaction) | 将任务导向、多轮互动和当前可见信息共同纳入第一视角助手评测。 |
+| 计算机视觉 | 模型架构 | [FSFSplatter: Geometrically Accurate Reconstruction with Free Sparse-view Images within 2 minutes](cards.md#paper-fsfsplatter-geometric-pruning-sparse-views) | 稀疏三维重建可先从多视图联合初始化，再按实际贡献修剪漂浮基元，分开验几何和新视图。 |
+| 多模态学习 | 评测与诊断 | [Visual Grounding for Object Questions](cards.md#paper-vgoq-graded-visual-evidence) | 将物体问题建模为视觉证据定位，并允许按可见证据充分程度区分样本。 |
+| 计算机视觉 | 训练策略 | [HySeg: Learning Generative Priors for Structure-Aware Remote Sensing Segmentation](cards.md#paper-hyseg-generative-topology-prior) | 给判别分割器加入可学习结构先验时，用拓扑指标和区域重叠一起消融。 |
+| 机器人学 | 模型架构 | [R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection](cards.md#paper-r4det-relative-absolute-depth-fusion) | 稀疏测距融合时对照绝对深度和相对深度，并单测低回波与姿态缺失。 |
+| 机器学习基础与统计 | 数据策略 | [Decision Boundary-aware Generation for Long-tailed Learning](cards.md#paper-dbg-long-tail-boundary-aware-generation) | 长尾增强应检查合成样本是否加剧类别边界重叠，优先评估有判别力的近边界数据。 |
+| 多模态学习 | 推理策略 | [When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness](cards.md#paper-mac-defensive-multiview-adaptive-fusion) | 视觉模型鲁棒部署时比较单视图硬选择和根据可靠性加权的多视图聚合。 |
+| 机器学习基础与统计 | 训练策略 | [Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](cards.md#paper-attribution-guided-defensive-layer-selection) | 修复网络已知不可靠行为时，先验证归因定位的可编辑层，再衡量干净任务保留。 |
+| 计算机视觉 | 模型架构 | [DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation](cards.md#paper-deco-pixel-diffusion) | 像素扩散可让主干专注低频语义，再用轻量条件解码器恢复细节。 |
+| 机器学习基础与统计 | 训练策略 | [Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning](cards.md#paper-fedpurel) | 长尾联邦微调需以冻结零样本分布为对照，检查共享权重是否把头部偏差传给个体。 |
+| 多模态学习 | 模型架构 | [Modeling Cross-vision Synergy for Unified Large Vision Model](cards.md#paper-polyv-cross-vision) | 统一图像、视频、三维骨干时，用模态专长和交互同时检验共享收益。 |
+| 计算机视觉 | 模型架构 | [D2FANet: Enhancing Video Object Detection with Dual-Domain Feature Aggregation Network](cards.md#paper-d2fanet) | 视频特征融合时同时对照时空区域证据与频域运动线索。 |
+| 计算机视觉 | 推理策略 | [Radar-Guided Polynomial Fitting for Metric Depth Estimation](cards.md#paper-polar-radar-depth) | 单目估计已有局部结构时，用稀疏公制锚非线性校准不同深度段。 |
+| 计算机视觉 | 优化 | [QuadSync: Quadrifocal Tensor Synchronization via Tucker Decomposition](cards.md#paper-quadsync) | 多视几何可先同步固定低秩的高阶关系，再结合不同视图阶数的观测。 |
+| 机器学习基础与统计 | 优化 | [A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems](cards.md#paper-polynomial-chaos-causal-discovery) | 非线性结构方程可表示异质噪声，并在稀疏假设下评估可识别性。 |
+| 高效深度学习 | 数据筛选 | [LoPrune: Efficient Data Pruning for LoRA-Based Fine-Tuning of Vision Transformer](cards.md#paper-loprune-trainable-subspace-alignment) | 按可训练子空间估计样本价值，适用于低秩适配的选样。 |
+| 机器学习 | 校准与鲁棒性 | [Enhancing Out-of-Distribution Detection with Extended Logit Normalization](cards.md#paper-elogitnorm-feature-distance-calibration) | 决定在沿用现有 OOD 后处理时是否替换训练目标。 |
+| 机器学习 | 评测设计 | [Bridging Domain Expertise and Generalization for Performance Estimation](cards.md#paper-frap-calibrated-reference-performance-estimation) | 为无标签部署监测提供双模型准确率估计。 |
+| 多模态学习 | 记忆与工具调用 | [VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](cards.md#paper-videoarm-hierarchical-multimodal-memory) | 将长序列理解改为按需工具调用，对 Agent 的观察和记忆预算选择有直接参考。 |
+| 生成模型 | 参数高效适配 | [Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling](cards.md#paper-composer-one-shot-parameter-adaptation) | 在迭代生成之前一次性合成输入相关的参数更新。 |
+| 机器人学 | 自监督表征 | [LA-Pose: Latent Action Pretraining Meets Pose Estimation](cards.md#paper-la-pose-inverse-dynamics-features) | 用逆动力学的动作表征替代部分三维监督来估计位姿。 |

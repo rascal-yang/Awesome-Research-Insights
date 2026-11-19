@@ -412,5 +412,6 @@ Reusable components and local changes to model inputs or connections.
 - [Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-chain-of-merging-activation-matched-layers)
 - [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](../../conferences/cvpr-2026/cards.md#paper-tara-merging-subspace-coverage-anisotropy)
 - [Experience Transfer for Multimodal LLM Agents in Minecraft Game](../../conferences/cvpr-2026/cards.md#paper-echo-structured-analogical-experience)
+- [VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](../../conferences/cvpr-2026/cards.md#paper-videoarm-hierarchical-multimodal-memory)
 
 <!-- conference-classification:end -->

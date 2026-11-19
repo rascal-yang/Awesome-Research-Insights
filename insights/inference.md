@@ -1577,5 +1577,7 @@
 - [MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping](../conferences/cvpr-2026/cards.md#paper-modes-layer-token-expert-skipping)
 - [UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions](../conferences/cvpr-2026/cards.md#paper-uniavgen-asymmetric-timed-fusion)
 - [Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion](../conferences/cvpr-2026/cards.md#paper-editable-hard-prompt-token-decorrelation)
+- [When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness](../conferences/cvpr-2026/cards.md#paper-mac-defensive-multiview-adaptive-fusion)
+- [Radar-Guided Polynomial Fitting for Metric Depth Estimation](../conferences/cvpr-2026/cards.md#paper-polar-radar-depth)
 
 <!-- conference-classification:end -->

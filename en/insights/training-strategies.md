@@ -1168,5 +1168,9 @@ Training schedules, curricula, and task or stage composition.
 - [POGA: Paraphrased and Oppositional Graph Alignment for Fine-Grained Cross-Modal Retrieval](../../conferences/cvpr-2026/cards.md#paper-poga-graph-alignment)
 - [PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding](../../conferences/cvpr-2026/cards.md#paper-patchalign3d)
 - [CoLoGen: Progressive Learning of Concept-Localization Duality for Unified Image Generation](../../conferences/cvpr-2026/cards.md#paper-cologen-staged-concept-localization)
+- [HySeg: Learning Generative Priors for Structure-Aware Remote Sensing Segmentation](../../conferences/cvpr-2026/cards.md#paper-hyseg-generative-topology-prior)
+- [Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](../../conferences/cvpr-2026/cards.md#paper-attribution-guided-defensive-layer-selection)
+- [Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning](../../conferences/cvpr-2026/cards.md#paper-fedpurel)
+- [LA-Pose: Latent Action Pretraining Meets Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-la-pose-inverse-dynamics-features)
 
 <!-- conference-classification:end -->

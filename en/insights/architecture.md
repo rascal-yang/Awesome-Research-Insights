@@ -688,5 +688,10 @@ Model-wide design and information flow.
 - [Cross-Hand Latent Representation for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-xl-vla)
 - [Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping](../../conferences/cvpr-2026/cards.md#paper-mogaf-motion-groups)
 - [Nonlinear Color Transfer via Learnable Bezier Flows](../../conferences/cvpr-2026/cards.md#paper-bezier-color-flows)
+- [FSFSplatter: Geometrically Accurate Reconstruction with Free Sparse-view Images within 2 minutes](../../conferences/cvpr-2026/cards.md#paper-fsfsplatter-geometric-pruning-sparse-views)
+- [R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-r4det-relative-absolute-depth-fusion)
+- [DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation](../../conferences/cvpr-2026/cards.md#paper-deco-pixel-diffusion)
+- [Modeling Cross-vision Synergy for Unified Large Vision Model](../../conferences/cvpr-2026/cards.md#paper-polyv-cross-vision)
+- [D2FANet: Enhancing Video Object Detection with Dual-Domain Feature Aggregation Network](../../conferences/cvpr-2026/cards.md#paper-d2fanet)
 
 <!-- conference-classification:end -->

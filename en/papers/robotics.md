@@ -1008,5 +1008,7 @@ Robot perception, policy learning, planning, and control.
 - [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](../../conferences/cvpr-2026/cards.md#paper-compact-world-tokenizer)
 - [Cross-Hand Latent Representation for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-xl-vla)
 - [TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-taco-lidar)
+- [R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-r4det-relative-absolute-depth-fusion)
+- [LA-Pose: Latent Action Pretraining Meets Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-la-pose-inverse-dynamics-features)
 
 <!-- conference-classification:end -->

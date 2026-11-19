@@ -1555,5 +1555,7 @@
 - [Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](../conferences/cvpr-2026/cards.md#paper-back-to-the-feature)
 - [WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](../conferences/cvpr-2026/cards.md#paper-wiseedit-failure-stage-evaluation)
 - [LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks](../conferences/cvpr-2026/cards.md#paper-lifeeval-online-assistive-interaction)
+- [Visual Grounding for Object Questions](../conferences/cvpr-2026/cards.md#paper-vgoq-graded-visual-evidence)
+- [Bridging Domain Expertise and Generalization for Performance Estimation](../conferences/cvpr-2026/cards.md#paper-frap-calibrated-reference-performance-estimation)
 
 <!-- conference-classification:end -->
