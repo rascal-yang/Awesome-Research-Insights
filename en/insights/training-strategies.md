@@ -1324,5 +1324,9 @@ Training schedules, curricula, and task or stage composition.
 - [Free-Grained Hierarchical Visual Recognition](../../conferences/cvpr-2026/cards.md#paper-free-grained-hierarchical-recognition)
 - [TableMix: Enhancing Multimodal Table Reasoning in MLLMs from a Data-Centric Perspective](../../conferences/cvpr-2026/cards.md#paper-tablemix-reasoning-perception-data)
 - [Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-variance-expansion-latent-perturbation-robustness)
+- [ProPhy: Progressive Physical Alignment for Dynamic World Simulation](../../conferences/cvpr-2026/cards.md#paper-localized-physical-conditions-video-simulation)
+- [Progressive Supernet Training for Efficient Visual Autoregressive Modeling](../../conferences/cvpr-2026/cards.md#paper-variant-scale-adaptive-depth)
+- [Incremental Object Detection via Future-Aware Decoupled Cross-Head Distillation](../../conferences/cvpr-2026/cards.md#paper-fachd-decoupled-cross-head-distillation)
+- [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](../../conferences/cvpr-2026/cards.md#paper-unposed-driving-temporal-teacher-pretraining)
 
 <!-- conference-classification:end -->

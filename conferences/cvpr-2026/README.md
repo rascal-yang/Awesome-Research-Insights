@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,297 篇，其中 2,087 篇暂收录、1,210 篇排除，另有 745 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,327 篇，其中 2,105 篇暂收录、1,222 篇排除，另有 715 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2093,3 +2093,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,297
 | 机器人学 | 评测设计 | [When Robots Should Say ''I Don't Know'': Benchmarking Abstention in Embodied Question Answering](cards.md#paper-abstaineqa-underspecified-query-taxonomy) | 显式加入应拒答或需澄清的问题，分别测环境理解和缺失信息判断。 |
 | 多模态学习 | 评测设计 | [VABench: A Comprehensive Benchmark for Audio-Video Generation](cards.md#paper-vabench-synchronized-audio-video-evaluation) | 分别验证文本对齐、声画事件同步与立体声空间一致性。 |
 | 生成模型 | 训练目标 | [Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models](cards.md#paper-variance-expansion-latent-perturbation-robustness) | 训练 tokenizer 时给潜空间保留吸收采样误差的余量，分别验证重建和生成。 |
+| 计算机视觉 | 表征学习 | [Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation](cards.md#paper-angular-margin-open-set-camera-shift) | 跨视野开放集适配可显式分别处理几何视野变化与新类别不确定性。 |
+| 计算机视觉 | 表征学习 | [PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting](cards.md#paper-continuous-gaussian-bridge-2d-to-3d-segmentation) | 可用连续三维 Gaussian 作为中间空间，将二维分割迁移至未标注的离散点云。 |
+| 计算机视觉 | 评测与诊断 | [A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World](cards.md#paper-domain-ranking-versus-single-threshold-calibration) | 多域识别应同时测域内排名和统一阈值准确率，避免高 AUC 掩盖混合输入下的校准缺口。 |
+| 计算机视觉 | 模型架构 | [DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images](cards.md#paper-pose-as-output-dynamic-driving-reconstruction) | 动态场景前馈重建可把相机位姿作为输出，再用图元寿命处理非持续可见物体。 |
+| 计算机视觉 | 训练策略 | [ProPhy: Progressive Physical Alignment for Dynamic World Simulation](cards.md#paper-localized-physical-conditions-video-simulation) | 世界视频生成可以将全局物理描述解析成适用于局部区域的条件，以区分不同位置的运动。 |
+| 计算机视觉 | 表征学习 | [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](cards.md#paper-explicit-geometry-curriculum-pretraining) | 空间视觉预训练可用显式三维重建限制潜空间视图预测的捷径，再按难度组织无标签样本。 |
+| 机器人学 | 模型架构 | [x^2-Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space](cards.md#paper-x2fusion-event-edge-space) | 在异构传感器融合时先找共同空间锚点，再为各模态动态估算可靠度。 |
+| 机器人学 | 模型架构 | [RPGFusion: 4D Radar Prior-Guided Multi-Modal Fusion for 3D Detection](cards.md#paper-rpgfusion-radar-guided-sampling) | 用稀疏但可靠的距离观测引导图像采样，减轻鸟瞰投影的近密远稀问题。 |
+| 多模态学习 | 损失函数 | [Mind the Discriminability Trap in Source-Free Cross-domain Few-shot Learning](cards.md#paper-discriminability-trap-cross-domain) | 少样本跨域适配中同时测图文对齐和视觉类分离，避免单独放大类间距。 |
+| 计算机视觉 | 损失函数 | [FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution](cards.md#paper-framer-frequency-self-distillation) | 内部蒸馏按频带区别对待，用低频保持共同结构、高频恢复样本特异细节。 |
+| 多模态学习 | 评测与诊断 | [Rounded or Streamlined Head? Bridging Concept Bottleneck Models and Attribute-Described Object Parts](cards.md#paper-part-attribute-concept-bottlenecks) | 解释模型应既定位部件属性，也验证其属于当前目标并确实影响判断。 |
+| 机器人学 | 模型架构 | [Bridging the 2D-3D Gap: A Hierarchical Semantic-Geometric Map for Vision Language Navigation](cards.md#paper-hsgm-navigation-map) | 将三维空间转换为语言模型可读的多通道地图，分别暴露几何可达、对象关系和行动信息。 |
+| 计算机视觉 | 训练策略 | [Progressive Supernet Training for Efficient Visual Autoregressive Modeling](cards.md#paper-variant-scale-adaptive-depth) | 浅层子网只部署在较细尺度，早期结构生成保留完整计算。 |
+| 机器人学 | 世界模型 | [SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](cards.md#paper-sparseworld-tc-trajectory-conditioned-occupancy) | 直接由图像特征预测稀疏未来占用，并明确以自车候选轨迹为条件。 |
+| 机器学习 | 持续学习 | [Incremental Object Detection via Future-Aware Decoupled Cross-Head Distillation](cards.md#paper-fachd-decoupled-cross-head-distillation) | 将新类别监督与旧类蒸馏分到不同头，以减少两者对骨干更新的冲突。 |
+| 机器人学 | 自监督表征 | [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](cards.md#paper-unposed-driving-temporal-teacher-pretraining) | 用无位姿驾驶视频中跨帧的几何与语义伪监督学习动态感知。 |
+| 多模态学习 | 检索增强 | [MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](cards.md#paper-mrd-global-detection-multiresolution-retrieval) | 高分辨率问答先保住全局对象范围，再用多分辨率局部证据补细节。 |
+| 多模态学习 | 视觉 Token 筛选 | [TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](cards.md#paper-transprune-representation-transition-token-importance) | 用视觉 token 在模型层间的表示变化衡量重要性，与静态注意分数比较。 |

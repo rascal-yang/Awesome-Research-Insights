@@ -1613,5 +1613,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule](../../conferences/cvpr-2026/cards.md#paper-pcd-reliable-detection-distance)
 - [When Robots Should Say ''I Don't Know'': Benchmarking Abstention in Embodied Question Answering](../../conferences/cvpr-2026/cards.md#paper-abstaineqa-underspecified-query-taxonomy)
 - [VABench: A Comprehensive Benchmark for Audio-Video Generation](../../conferences/cvpr-2026/cards.md#paper-vabench-synchronized-audio-video-evaluation)
+- [A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World](../../conferences/cvpr-2026/cards.md#paper-domain-ranking-versus-single-threshold-calibration)
+- [Rounded or Streamlined Head? Bridging Concept Bottleneck Models and Attribute-Described Object Parts](../../conferences/cvpr-2026/cards.md#paper-part-attribute-concept-bottlenecks)
 
 <!-- conference-classification:end -->

@@ -793,5 +793,9 @@ Model-wide design and information flow.
 - [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](../../conferences/cvpr-2026/cards.md#paper-topomesh-shared-dmc-topology)
 - [NAF: Zero-Shot Feature Upsampling via Neighborhood Attention Filtering](../../conferences/cvpr-2026/cards.md#paper-image-conditioned-backbone-agnostic-upsampling)
 - [M4V: Multimodal Mamba for Efficient Text-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-m4v-multimodal-mamba)
+- [DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images](../../conferences/cvpr-2026/cards.md#paper-pose-as-output-dynamic-driving-reconstruction)
+- [x^2-Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space](../../conferences/cvpr-2026/cards.md#paper-x2fusion-event-edge-space)
+- [RPGFusion: 4D Radar Prior-Guided Multi-Modal Fusion for 3D Detection](../../conferences/cvpr-2026/cards.md#paper-rpgfusion-radar-guided-sampling)
+- [Bridging the 2D-3D Gap: A Hierarchical Semantic-Geometric Map for Vision Language Navigation](../../conferences/cvpr-2026/cards.md#paper-hsgm-navigation-map)
 
 <!-- conference-classification:end -->

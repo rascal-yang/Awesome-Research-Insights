@@ -995,5 +995,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [Think Before You Drive: World Model-Inspired Multimodal Grounding](../../conferences/cvpr-2026/cards.md#paper-thinkdeeper-latent-rollout-grounding)
 - [WPT: World-to-Policy Transfer via Online World Model Distillation](../../conferences/cvpr-2026/cards.md#paper-wpt-distill-world-model-into-policy)
 - [MAD: Motion Appearance Decoupling for efficient Driving World Models](../../conferences/cvpr-2026/cards.md#paper-mad-structured-motion-appearance-decoupling)
+- [SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](../../conferences/cvpr-2026/cards.md#paper-sparseworld-tc-trajectory-conditioned-occupancy)
 
 <!-- conference-classification:end -->

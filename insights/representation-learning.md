@@ -771,5 +771,8 @@
 - [MuM: Multi-View Masked Image Modeling for 3D Vision](../conferences/cvpr-2026/cards.md#paper-uniform-multiview-masking-geometry-pretraining)
 - [LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds](../conferences/cvpr-2026/cards.md#paper-sparse-semantic-indexes-for-open-vocabulary-3d)
 - [Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval](../conferences/cvpr-2026/cards.md#paper-dual-semantic-phase-priors-domain-retrieval)
+- [Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation](../conferences/cvpr-2026/cards.md#paper-angular-margin-open-set-camera-shift)
+- [PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-continuous-gaussian-bridge-2d-to-3d-segmentation)
+- [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](../conferences/cvpr-2026/cards.md#paper-explicit-geometry-curriculum-pretraining)
 
 <!-- conference-classification:end -->

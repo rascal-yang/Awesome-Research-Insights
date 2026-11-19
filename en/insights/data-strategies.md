@@ -462,5 +462,7 @@ Data selection, annotation, augmentation, and sampling.
 - [2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition](../../conferences/cvpr-2026/cards.md#paper-minimal-sensor-noise-calibration-frequency-sampling)
 - [Scaling Zero-Shot Reference-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-reference-from-masked-video-text-only)
 - [Learnability-Guided Diffusion for Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-lgd-complementary-distilled-samples)
+- [MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](../../conferences/cvpr-2026/cards.md#paper-mrd-global-detection-multiresolution-retrieval)
+- [TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](../../conferences/cvpr-2026/cards.md#paper-transprune-representation-transition-token-importance)
 
 <!-- conference-classification:end -->

@@ -1631,5 +1631,13 @@
 - [NAF: Zero-Shot Feature Upsampling via Neighborhood Attention Filtering](../conferences/cvpr-2026/cards.md#paper-image-conditioned-backbone-agnostic-upsampling)
 - [Free-Grained Hierarchical Visual Recognition](../conferences/cvpr-2026/cards.md#paper-free-grained-hierarchical-recognition)
 - [PhysGen: Physically Grounded 3D Shape Generation for Industrial Design](../conferences/cvpr-2026/cards.md#paper-physgen-alternating-refinement)
+- [Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation](../conferences/cvpr-2026/cards.md#paper-angular-margin-open-set-camera-shift)
+- [PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-continuous-gaussian-bridge-2d-to-3d-segmentation)
+- [A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World](../conferences/cvpr-2026/cards.md#paper-domain-ranking-versus-single-threshold-calibration)
+- [DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images](../conferences/cvpr-2026/cards.md#paper-pose-as-output-dynamic-driving-reconstruction)
+- [ProPhy: Progressive Physical Alignment for Dynamic World Simulation](../conferences/cvpr-2026/cards.md#paper-localized-physical-conditions-video-simulation)
+- [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](../conferences/cvpr-2026/cards.md#paper-explicit-geometry-curriculum-pretraining)
+- [FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-framer-frequency-self-distillation)
+- [Progressive Supernet Training for Efficient Visual Autoregressive Modeling](../conferences/cvpr-2026/cards.md#paper-variant-scale-adaptive-depth)
 
 <!-- conference-classification:end -->

@@ -494,5 +494,7 @@
 - [MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](../conferences/cvpr-2026/cards.md#paper-mllm-hwsi-cross-scale-alignment)
 - [Bootstrap Your Own AV-Proxies: Adaptive Contrastive and Prototype Learning for Audio-Visual Segmentation](../conferences/cvpr-2026/cards.md#paper-byoavp-stop-gradient-prototypes)
 - [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-reta-dynamic-topology-distillation)
+- [Mind the Discriminability Trap in Source-Free Cross-domain Few-shot Learning](../conferences/cvpr-2026/cards.md#paper-discriminability-trap-cross-domain)
+- [FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-framer-frequency-self-distillation)
 
 <!-- conference-classification:end -->

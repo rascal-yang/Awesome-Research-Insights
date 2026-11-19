@@ -2595,5 +2595,6 @@ General learning methods, optimization, learning theory, and inference.
 - [LS-ViT: Least-Squares Hessian Based Block Reconstruction for Low-Bit Post-Training Quantization of Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-lsvit-covariance-aware-hessian-quantization)
 - [Learnability-Guided Diffusion for Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-lgd-complementary-distilled-samples)
 - [Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-variance-expansion-latent-perturbation-robustness)
+- [Incremental Object Detection via Future-Aware Decoupled Cross-Head Distillation](../../conferences/cvpr-2026/cards.md#paper-fachd-decoupled-cross-head-distillation)
 
 <!-- conference-classification:end -->

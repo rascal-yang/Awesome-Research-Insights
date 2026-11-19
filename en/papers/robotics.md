@@ -1135,5 +1135,10 @@ Robot perception, policy learning, planning, and control.
 - [Sparse-View Localization via Online Neural 3D Regression](../../conferences/cvpr-2026/cards.md#paper-on3r-sparse-localization)
 - [KV-Tracker: Real-Time Pose Tracking with Transformers](../../conferences/cvpr-2026/cards.md#paper-kvtracker-bidirectional-cache)
 - [When Robots Should Say ''I Don't Know'': Benchmarking Abstention in Embodied Question Answering](../../conferences/cvpr-2026/cards.md#paper-abstaineqa-underspecified-query-taxonomy)
+- [x^2-Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space](../../conferences/cvpr-2026/cards.md#paper-x2fusion-event-edge-space)
+- [RPGFusion: 4D Radar Prior-Guided Multi-Modal Fusion for 3D Detection](../../conferences/cvpr-2026/cards.md#paper-rpgfusion-radar-guided-sampling)
+- [Bridging the 2D-3D Gap: A Hierarchical Semantic-Geometric Map for Vision Language Navigation](../../conferences/cvpr-2026/cards.md#paper-hsgm-navigation-map)
+- [SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](../../conferences/cvpr-2026/cards.md#paper-sparseworld-tc-trajectory-conditioned-occupancy)
+- [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](../../conferences/cvpr-2026/cards.md#paper-unposed-driving-temporal-teacher-pretraining)
 
 <!-- conference-classification:end -->

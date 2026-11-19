@@ -1564,5 +1564,9 @@
 - [TableMix: Enhancing Multimodal Table Reasoning in MLLMs from a Data-Centric Perspective](../conferences/cvpr-2026/cards.md#paper-tablemix-reasoning-perception-data)
 - [Information-Theoretic Decomposition for Multimodal Interaction Learning](../conferences/cvpr-2026/cards.md#paper-decomposition-sample-specific-modal-interactions)
 - [VABench: A Comprehensive Benchmark for Audio-Video Generation](../conferences/cvpr-2026/cards.md#paper-vabench-synchronized-audio-video-evaluation)
+- [Mind the Discriminability Trap in Source-Free Cross-domain Few-shot Learning](../conferences/cvpr-2026/cards.md#paper-discriminability-trap-cross-domain)
+- [Rounded or Streamlined Head? Bridging Concept Bottleneck Models and Attribute-Described Object Parts](../conferences/cvpr-2026/cards.md#paper-part-attribute-concept-bottlenecks)
+- [MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](../conferences/cvpr-2026/cards.md#paper-mrd-global-detection-multiresolution-retrieval)
+- [TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](../conferences/cvpr-2026/cards.md#paper-transprune-representation-transition-token-importance)
 
 <!-- conference-classification:end -->
