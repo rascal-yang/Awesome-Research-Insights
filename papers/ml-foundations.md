@@ -2292,5 +2292,7 @@
 - [Gated KalmaNet: A Fading Memory Layer through Test-time Ridge Regression](../conferences/cvpr-2026/cards.md#paper-gated-kalmanet)
 - [The Surprising Effectiveness of Noise Pretraining for Implicit Neural Representations](../conferences/cvpr-2026/cards.md#paper-noise-pretraining-inr)
 - [HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](../conferences/cvpr-2026/cards.md#paper-hypernas)
+- [Personalized Federated Training of Diffusion Models with Privacy Guarantees](../conferences/cvpr-2026/cards.md#paper-private-personalized-federated-diffusion)
+- [Rank-Guided Pseudo-Bias Learning for Robust Black-Box Adaptation](../conferences/cvpr-2026/cards.md#paper-pld-blackbox-debias)
 
 <!-- conference-classification:end -->

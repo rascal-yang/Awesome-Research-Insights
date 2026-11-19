@@ -1316,5 +1316,8 @@
 - [One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](../conferences/cvpr-2026/cards.md#paper-one-shot-flow-any-time-frame)
 - [A Training-Free Style-Personalization via SVD-Based Feature Decomposition](../conferences/cvpr-2026/cards.md#paper-svd-style-personalization)
 - [Accelerating Autoregressive Video Diffusion via History-Guided Cache and Residual Correction](../conferences/cvpr-2026/cards.md#paper-arcache)
+- [Breaking the Regional Perception Bottleneck of Multimodal Large Language Models via External Reasoning Framework](../conferences/cvpr-2026/cards.md#paper-r-ground-region-search)
+- [Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-direct-ovss)
+- [PhysVid: Physics Aware Local Conditioning for Generative Video Models](../conferences/cvpr-2026/cards.md#paper-physvid)
 
 <!-- conference-classification:end -->

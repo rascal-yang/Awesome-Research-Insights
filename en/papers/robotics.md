@@ -855,5 +855,8 @@ Robot perception, policy learning, planning, and control.
 - [Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation](../../conferences/cvpr-2026/cards.md#paper-feco-contact-style-randomization)
 - [PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-panda-multimodal-domain-adaptation)
 - [FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario](../../conferences/cvpr-2026/cards.md#paper-freeartgs)
+- [Semantic Audio-Visual Navigation in Continuous Environments](../../conferences/cvpr-2026/cards.md#paper-savn-ce-magnet)
+- [OrienPose: Orientation-Guided Novel View Synthesis for Single-Image Unseen Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-orienpose)
+- [Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots](../../conferences/cvpr-2026/cards.md#paper-motion-turing-test)
 
 <!-- conference-classification:end -->

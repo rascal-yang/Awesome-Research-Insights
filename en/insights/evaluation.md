@@ -1415,5 +1415,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CaptionQA: Is Your Caption as Useful as the Image Itself?](../../conferences/cvpr-2026/cards.md#paper-captionqa)
 - [Language Models Can Explain Visual Features via Steering](../../conferences/cvpr-2026/cards.md#paper-visual-feature-steering)
 - [The Drift Kernel: Why Diffusion Models Change Even When Told Not To](../../conferences/cvpr-2026/cards.md#paper-diffusion-drift-kernel)
+- [KaLOS finds Consensus: A Meta-Algorithm for Evaluating Inter-Annotator Agreement in Complex Vision Tasks](../../conferences/cvpr-2026/cards.md#paper-kalos-localization-first-agreement)
+- [Scaling Spatial Intelligence with Multimodal Foundation Models](../../conferences/cvpr-2026/cards.md#paper-sensenova-si-spatial-diagnostics)
+- [Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots](../../conferences/cvpr-2026/cards.md#paper-motion-turing-test)
 
 <!-- conference-classification:end -->

@@ -908,5 +908,11 @@
 - [ReCoFuse: Ultra-Robust Image Fusion via Restorative Multi-Modal Diffusion Reciprocal Coupling](../conferences/cvpr-2026/cards.md#paper-recofuse)
 - [The Drift Kernel: Why Diffusion Models Change Even When Told Not To](../conferences/cvpr-2026/cards.md#paper-diffusion-drift-kernel)
 - [Accelerating Autoregressive Video Diffusion via History-Guided Cache and Residual Correction](../conferences/cvpr-2026/cards.md#paper-arcache)
+- [Breaking the Regional Perception Bottleneck of Multimodal Large Language Models via External Reasoning Framework](../conferences/cvpr-2026/cards.md#paper-r-ground-region-search)
+- [Scaling Spatial Intelligence with Multimodal Foundation Models](../conferences/cvpr-2026/cards.md#paper-sensenova-si-spatial-diagnostics)
+- [What Is It Like to Be a Noise? An Entropy-based Gaussian Noise Regularization for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-entropy-based-gaussianity)
+- [PhysVid: Physics Aware Local Conditioning for Generative Video Models](../conferences/cvpr-2026/cards.md#paper-physvid)
+- [DDT: Decoupled Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-decoupled-diffusion-transformer)
+- [DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training](../conferences/cvpr-2026/cards.md#paper-dit360)
 
 <!-- conference-classification:end -->

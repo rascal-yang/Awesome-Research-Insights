@@ -2422,5 +2422,6 @@
 ## CVPR 2026（暂收录）
 
 - [Unlocking Token Rewards via Training-Free Reward Attribution](../conferences/cvpr-2026/cards.md#paper-p2t-reward-attribution)
+- [Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](../conferences/cvpr-2026/cards.md#paper-ces-execution-feedback)
 
 <!-- conference-classification:end -->

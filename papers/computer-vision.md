@@ -998,5 +998,13 @@
 - [Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images](../conferences/cvpr-2026/cards.md#paper-balanced-hierarchical-contrast)
 - [A Training-Free Style-Personalization via SVD-Based Feature Decomposition](../conferences/cvpr-2026/cards.md#paper-svd-style-personalization)
 - [Beyond the Ground Truth: Enhanced Supervision for Image Restoration](../conferences/cvpr-2026/cards.md#paper-frequency-mixup-supervision)
+- [Dehallu3D: Hallucination-Mitigated 3D Generation from a Single Image via Cyclic View Consistency Refinement](../conferences/cvpr-2026/cards.md#paper-dehallu3d-cyclic-view-consistency)
+- [Does YOLO Really Need to See Every Training Image in Every Epoch?](../conferences/cvpr-2026/cards.md#paper-afss-anti-forgetting-sampling)
+- [KaLOS finds Consensus: A Meta-Algorithm for Evaluating Inter-Annotator Agreement in Complex Vision Tasks](../conferences/cvpr-2026/cards.md#paper-kalos-localization-first-agreement)
+- [Learning What Helps: Task-Aligned Context Selection for Vision Tasks](../conferences/cvpr-2026/cards.md#paper-tacs-learned-context-selection)
+- [Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-direct-ovss)
+- [Moving Border Ownership for Event-based Motion Segmentation](../conferences/cvpr-2026/cards.md#paper-moving-border-ownership)
+- [TGTrack: Temporal Generative Learning for Unified Single Object Tracking](../conferences/cvpr-2026/cards.md#paper-tgtrack)
+- [CrossHOI: Learning Cross-View Representations for Monocular 3D Human-Object Interaction Reconstruction](../conferences/cvpr-2026/cards.md#paper-crosshoi)
 
 <!-- conference-classification:end -->

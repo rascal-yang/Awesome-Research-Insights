@@ -364,5 +364,7 @@
 - [Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation](../conferences/cvpr-2026/cards.md#paper-feco-contact-style-randomization)
 - [HoneyBee: Data Recipes for Vision-Language Reasoners](../conferences/cvpr-2026/cards.md#paper-honeybee-data-interventions)
 - [Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-aleatoric-uncertainty-spectrum)
+- [Does YOLO Really Need to See Every Training Image in Every Epoch?](../conferences/cvpr-2026/cards.md#paper-afss-anti-forgetting-sampling)
+- [DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training](../conferences/cvpr-2026/cards.md#paper-dit360)
 
 <!-- conference-classification:end -->

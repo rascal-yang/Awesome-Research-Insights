@@ -533,5 +533,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [RI-Mamba: Rotation-Invariant Mamba for Robust Text-to-Shape Retrieval](../../conferences/cvpr-2026/cards.md#paper-ri-mamba-point-ordering)
 - [FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario](../../conferences/cvpr-2026/cards.md#paper-freeartgs)
 - [HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](../../conferences/cvpr-2026/cards.md#paper-hypernas)
+- [Rank-Guided Pseudo-Bias Learning for Robust Black-Box Adaptation](../../conferences/cvpr-2026/cards.md#paper-pld-blackbox-debias)
+- [CrossHOI: Learning Cross-View Representations for Monocular 3D Human-Object Interaction Reconstruction](../../conferences/cvpr-2026/cards.md#paper-crosshoi)
 
 <!-- conference-classification:end -->

@@ -382,5 +382,8 @@
 - [SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-span-staged-geometric-alignment)
 - [Multi-Modal Image Fusion via Intervention-Stable Feature Learning](../conferences/cvpr-2026/cards.md#paper-intervention-stable-modal-fusion)
 - [Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images](../conferences/cvpr-2026/cards.md#paper-balanced-hierarchical-contrast)
+- [Dehallu3D: Hallucination-Mitigated 3D Generation from a Single Image via Cyclic View Consistency Refinement](../conferences/cvpr-2026/cards.md#paper-dehallu3d-cyclic-view-consistency)
+- [OrienPose: Orientation-Guided Novel View Synthesis for Single-Image Unseen Object Pose Estimation](../conferences/cvpr-2026/cards.md#paper-orienpose)
+- [What Is It Like to Be a Noise? An Entropy-based Gaussian Noise Regularization for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-entropy-based-gaussianity)
 
 <!-- conference-classification:end -->

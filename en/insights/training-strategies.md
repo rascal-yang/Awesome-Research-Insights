@@ -913,5 +913,10 @@ Training schedules, curricula, and task or stage composition.
 - [SineProject: Machine Unlearning for Stable Vision-Language Alignment](../../conferences/cvpr-2026/cards.md#paper-sineproject)
 - [Unlocking Token Rewards via Training-Free Reward Attribution](../../conferences/cvpr-2026/cards.md#paper-p2t-reward-attribution)
 - [PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-panda-multimodal-domain-adaptation)
+- [Personalized Federated Training of Diffusion Models with Privacy Guarantees](../../conferences/cvpr-2026/cards.md#paper-private-personalized-federated-diffusion)
+- [Learning What Helps: Task-Aligned Context Selection for Vision Tasks](../../conferences/cvpr-2026/cards.md#paper-tacs-learned-context-selection)
+- [Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](../../conferences/cvpr-2026/cards.md#paper-ces-execution-feedback)
+- [Moving Border Ownership for Event-based Motion Segmentation](../../conferences/cvpr-2026/cards.md#paper-moving-border-ownership)
+- [TGTrack: Temporal Generative Learning for Unified Single Object Tracking](../../conferences/cvpr-2026/cards.md#paper-tgtrack)
 
 <!-- conference-classification:end -->
