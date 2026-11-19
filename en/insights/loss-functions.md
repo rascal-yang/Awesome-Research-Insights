@@ -433,5 +433,6 @@ Objectives, auxiliary supervision, and regularization.
 - [VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](../../conferences/cvpr-2026/cards.md#paper-vlic-pairwise-perceptual-judge)
 - [Rethinking BCE Loss for Multi-Label Image Recognition with Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-ccr-semantic-class-covariance-calibration)
 - [Hierarchical Action Learning for Weakly-Supervised Action Segmentation](../../conferences/cvpr-2026/cards.md#paper-hal-slow-action-latents)
+- [PowerCLIP: Powerset Alignment for Contrastive Pre-Training](../../conferences/cvpr-2026/cards.md#paper-powerclip)
 
 <!-- conference-classification:end -->

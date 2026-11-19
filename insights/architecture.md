@@ -641,5 +641,6 @@
 - [3D Gaussian Splatting at Arbitrary Resolutions with Compact Proxy Anchors](../conferences/cvpr-2026/cards.md#paper-resolution-adaptive-gaussians)
 - [TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations](../conferences/cvpr-2026/cards.md#paper-topohr)
 - [Efficiency Follows Global-Local Decoupling](../conferences/cvpr-2026/cards.md#paper-convneur-global-local-decoupling)
+- [Designing to Forget: Deep Semi-parametric Models for Unlearning](../conferences/cvpr-2026/cards.md#paper-semi-parametric-design-for-unlearning)
 
 <!-- conference-classification:end -->

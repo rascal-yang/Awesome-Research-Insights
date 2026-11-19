@@ -1179,5 +1179,11 @@
 - [Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding](../conferences/cvpr-2026/cards.md#paper-lead-entropy-decoding)
 - [ParaUni: Enhance Generation in Unified Multimodal Model with Reinforcement-driven Hierarchical Parallel Information Interaction](../conferences/cvpr-2026/cards.md#paper-parauni-parallel-layer-conditioning)
 - [MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](../conferences/cvpr-2026/cards.md#paper-muco-multi-turn-contrastive)
+- [Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos](../conferences/cvpr-2026/cards.md#paper-ov3r-semantic-conditioning-before-reconstruction)
+- [PowerCLIP: Powerset Alignment for Contrastive Pre-Training](../conferences/cvpr-2026/cards.md#paper-powerclip)
+- [Monet: Reasoning in Latent Visual Space Beyond Image and Language](../conferences/cvpr-2026/cards.md#paper-monet-visual-latent)
+- [Copy-Transform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints](../conferences/cvpr-2026/cards.md#paper-copy-transform-paste)
+- [When to Think and When to Look: Uncertainty-Guided Lookback](../conferences/cvpr-2026/cards.md#paper-uncertainty-guided-lookback)
+- [RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation](../conferences/cvpr-2026/cards.md#paper-ramen-adjustable-output-resolution)
 
 <!-- conference-classification:end -->

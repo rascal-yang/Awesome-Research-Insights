@@ -950,5 +950,9 @@
 - [IPR-1: Interactive Physical Reasoner](../conferences/cvpr-2026/cards.md#paper-ipr-physcode)
 - [CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics](../conferences/cvpr-2026/cards.md#paper-clad-observable-anchoring-for-latent-foresight)
 - [Unblur-SLAM: Dense Neural SLAM for Blurry Inputs](../conferences/cvpr-2026/cards.md#paper-unblur-slam-quality-triggered-formation-model)
+- [UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation](../conferences/cvpr-2026/cards.md#paper-usthand-uncertainty-aware-pseudolabel-geometry)
+- [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](../conferences/cvpr-2026/cards.md#paper-motioncrafter-geometry-latent-normalization)
+- [MangoBench: A Benchmark for Multi-Agent Goal-Conditioned Offline Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-mangobench-multi-goal-offline)
+- [DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-drivecombo-compositional-rules)
 
 <!-- conference-classification:end -->

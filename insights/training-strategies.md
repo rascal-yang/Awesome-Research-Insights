@@ -1075,5 +1075,6 @@
 - [InternVideo-Next: Towards World-Understanding Video Models](../conferences/cvpr-2026/cards.md#paper-internvideo-next-epd)
 - [Emergent Extreme-View Geometry in 3D Foundation Models](../conferences/cvpr-2026/cards.md#paper-extreme-view-bias-only-geometric-alignment)
 - [DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles](../conferences/cvpr-2026/cards.md#paper-dear-head-roles)
+- [UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation](../conferences/cvpr-2026/cards.md#paper-usthand-uncertainty-aware-pseudolabel-geometry)
 
 <!-- conference-classification:end -->

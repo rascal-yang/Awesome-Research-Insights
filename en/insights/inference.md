@@ -1479,5 +1479,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics](../../conferences/cvpr-2026/cards.md#paper-clad-observable-anchoring-for-latent-foresight)
 - [AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding](../../conferences/cvpr-2026/cards.md#paper-adaspark)
 - [Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding](../../conferences/cvpr-2026/cards.md#paper-lead-entropy-decoding)
+- [GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-georelight-joint-geometry-relighting-diffusion)
+- [Copy-Transform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints](../../conferences/cvpr-2026/cards.md#paper-copy-transform-paste)
+- [When to Think and When to Look: Uncertainty-Guided Lookback](../../conferences/cvpr-2026/cards.md#paper-uncertainty-guided-lookback)
 
 <!-- conference-classification:end -->

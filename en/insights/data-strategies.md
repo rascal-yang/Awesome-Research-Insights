@@ -409,5 +409,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Towards Generalized Multimodal Homography Estimation](../../conferences/cvpr-2026/cards.md#paper-multimodal-homography-synthesis)
 - [ReMatch: Boosting Representation through Matching for Multimodal Retrieval](../../conferences/cvpr-2026/cards.md#paper-rematch-generative-retrieval-supervision)
 - [MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](../../conferences/cvpr-2026/cards.md#paper-muco-multi-turn-contrastive)
+- [FedRG: Unleashing the Representation Geometry for Federated Learning with Noisy Clients](../../conferences/cvpr-2026/cards.md#paper-fedrg-geometry-first-noisy-labels)
 
 <!-- conference-classification:end -->

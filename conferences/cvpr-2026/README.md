@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,467 篇，其中 931 篇暂收录、536 篇排除，另有 2,575 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,497 篇，其中 948 篇暂收录、549 篇排除，另有 2,545 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -937,3 +937,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,467
 | 多模态学习 | 表示学习 | [ParaUni: Enhance Generation in Unified Multimodal Model with Reinforcement-driven Hierarchical Parallel Information Interaction](cards.md#paper-parauni-parallel-layer-conditioning) | 把视觉语言模型接到扩散生成器时，可同时从不同层提取细节与语义，并分别核验作用。 |
 | 多模态学习 | 训练与数据策略 | [MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](cards.md#paper-muco-multi-turn-contrastive) | 同图对应多个检索问题时，可在一个前向复用图像上下文，并分别读出相关对比嵌入。 |
 | 计算机视觉 | 模型架构 | [Efficiency Follows Global-Local Decoupling](cards.md#paper-convneur-global-local-decoupling) | 高分辨率视觉骨干用少量全局记忆词元控制局部细节分支，避免全部图块都做全局交互。 |
+| 智能体 | 评估与诊断 | [GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](cards.md#paper-guide-oracle-context-for-assistance-triage) | 协作型界面助手应分开测试行为状态识别与求助判断，再用真实状态和意图作对照定位瓶颈。见表 3。 |
+| 多模态学习 | 三维重建与几何建模 | [Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos](cards.md#paper-ov3r-semantic-conditioning-before-reconstruction) | 语义三维重建可将语义特征提前注入几何预测，同时施加跨片段语义监督，比较简单后续贴标签。见表 5。 |
+| 生成模型 | 生成建模 | [GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers](cards.md#paper-georelight-joint-geometry-relighting-diffusion) | 几何和照明互补时，可比较把两者一起建模与只把几何作为外部条件，并分别考核两种输出。见表 2。 |
+| 生成模型 | 模型效率 | [Yume1.5: A Text-Controlled Interactive World Generation Model](cards.md#paper-yume-temporal-spatial-channel-context-compression) | 互动世界生成可联合压缩历史的时间、空间与通道，先评测只压空间是否损害连续控制。见表 2。 |
+| 机器人学 | 自监督学习 | [UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation](cards.md#paper-usthand-uncertainty-aware-pseudolabel-geometry) | 多视角三维姿态学习可把伪标签的不确定性建模成分布，检验换不同质量的伪标注后误差。见表 3。 |
+| 机器人学 | 表征学习 | [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](cards.md#paper-motioncrafter-geometry-latent-normalization) | 迁移 RGB 视频生成器去做三维动态重建时，可单独校准几何与运动潜变量，再检验它们是否必须对齐 RGB 潜空间。见表 3。 |
+| 多模态学习 | 损失函数 | [PowerCLIP: Powerset Alignment for Contrastive Pre-Training](cards.md#paper-powerclip) | 图文对齐从局部 patch 对词扩展到区域集合对短语时，可用线性代价近似所有子集。 |
+| 多模态学习 | 强化学习 | [Monet: Reasoning in Latent Visual Space Beyond Image and Language](cards.md#paper-monet-visual-latent) | 让模型生成连续视觉中间态时，分别优化文本与潜视觉轨迹，检查常规 RL 是否只改善文本。 |
+| 计算机视觉 | 表示学习 | [GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport](cards.md#paper-glint-radiance-transport) | 透明表面重建时，明确分开界面、反射和透射，而非用单高斯表示合成外观。 |
+| 多模态学习 | 推理与规划 | [Copy-Transform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints](cards.md#paper-copy-transform-paste) | 零样本空间摆放时，先用语义定位正确关系，再逐步加强接触和防穿透。 |
+| 多模态学习 | 推理策略 | [When to Think and When to Look: Uncertainty-Guided Lookback](cards.md#paper-uncertainty-guided-lookback) | 遇到视觉推理不确定时，比较回看原图与继续生成更长文本链。 |
+| 机器人学 | 评测与分析 | [MangoBench: A Benchmark for Multi-Agent Goal-Conditioned Offline Reinforcement Learning](cards.md#paper-mangobench-multi-goal-offline) | 比较离线多智能体控制时，分开测未见组合目标、协作时间关系及集中训练的收益。 |
+| 机器学习基础 | 训练与数据策略 | [FedRG: Unleashing the Representation Geometry for Federated Learning with Noisy Clients](cards.md#paper-fedrg-geometry-first-noisy-labels) | 客户端数据异质时，比较无标签表示几何和标注条件分布，再确定哪些样本需要校正。 |
+| 计算机视觉 | 表示学习 | [MUFASA: A Multi-Layer Framework for Slot Attention](cards.md#paper-mufasa-multilayer-slots) | 对象中心学习可在多个视觉层分别提槽，再融合对象表示，不只从最后层读。 |
+| 多模态学习 | 表示学习 | [RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation](cards.md#paper-ramen-adjustable-output-resolution) | 异构传感编码时将输入分辨率和期望输出分辨率分别条件化，可按下游预算调节输出。 |
+| 机器学习基础 | 模型架构 | [Designing to Forget: Deep Semi-parametric Models for Unlearning](cards.md#paper-semi-parametric-design-for-unlearning) | 预计需要逐样本删除时，把可移除训练信息放到显式查询组件，在部署时删除相关项。 |
+| 机器人学 | 评测与分析 | [DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving](cards.md#paper-drivecombo-compositional-rules) | 复杂规则评估应分开测试单条识别、多规则并发及冲突消解，并有纯文本对照。 |

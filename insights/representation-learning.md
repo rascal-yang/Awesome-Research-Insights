@@ -639,5 +639,10 @@
 - [Unblur-SLAM: Dense Neural SLAM for Blurry Inputs](../conferences/cvpr-2026/cards.md#paper-unblur-slam-quality-triggered-formation-model)
 - [Direction-aware 3D Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-direction-aware-3d-posealign)
 - [ParaUni: Enhance Generation in Unified Multimodal Model with Reinforcement-driven Hierarchical Parallel Information Interaction](../conferences/cvpr-2026/cards.md#paper-parauni-parallel-layer-conditioning)
+- [Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos](../conferences/cvpr-2026/cards.md#paper-ov3r-semantic-conditioning-before-reconstruction)
+- [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](../conferences/cvpr-2026/cards.md#paper-motioncrafter-geometry-latent-normalization)
+- [GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport](../conferences/cvpr-2026/cards.md#paper-glint-radiance-transport)
+- [MUFASA: A Multi-Layer Framework for Slot Attention](../conferences/cvpr-2026/cards.md#paper-mufasa-multilayer-slots)
+- [RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation](../conferences/cvpr-2026/cards.md#paper-ramen-adjustable-output-resolution)
 
 <!-- conference-classification:end -->

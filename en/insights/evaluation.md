@@ -1499,5 +1499,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Making Training-Free Diffusion Segmentors Scale with the Generative Power](../../conferences/cvpr-2026/cards.md#paper-diffusion-segmentor-attention-calibration)
 - [Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination](../../conferences/cvpr-2026/cards.md#paper-llcc-attended-region-logit-lens-check)
 - [SEA: Evaluating Sketch Abstraction Efficiency via Element-level Commonsense Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-sea-sketch-abstraction)
+- [GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](../../conferences/cvpr-2026/cards.md#paper-guide-oracle-context-for-assistance-triage)
+- [MangoBench: A Benchmark for Multi-Agent Goal-Conditioned Offline Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-mangobench-multi-goal-offline)
+- [DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-drivecombo-compositional-rules)
 
 <!-- conference-classification:end -->

@@ -804,5 +804,6 @@
 - [Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-reasoning-preserving-unlearning-leakage-retention)
 - [From Measurement to Mitigation: Quantifying and Reducing Identity Leakage in Image Representation Encoders with Linear Subspace Removal](../../conferences/cvpr-2026/cards.md#paper-identity-sanitization-projection)
 - [Solvability of the Viewing Graph Under the Affine Camera Model](../../conferences/cvpr-2026/cards.md#paper-affine-viewing-graph-solvability)
+- [Yume1.5: A Text-Controlled Interactive World Generation Model](../../conferences/cvpr-2026/cards.md#paper-yume-temporal-spatial-channel-context-compression)
 
 <!-- conference-classification:end -->

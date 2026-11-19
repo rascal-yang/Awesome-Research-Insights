@@ -1267,5 +1267,7 @@ Visual representation, recognition, reconstruction, and generation.
 - [Solvability of the Viewing Graph Under the Affine Camera Model](../../conferences/cvpr-2026/cards.md#paper-affine-viewing-graph-solvability)
 - [Hierarchical Action Learning for Weakly-Supervised Action Segmentation](../../conferences/cvpr-2026/cards.md#paper-hal-slow-action-latents)
 - [Efficiency Follows Global-Local Decoupling](../../conferences/cvpr-2026/cards.md#paper-convneur-global-local-decoupling)
+- [GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport](../../conferences/cvpr-2026/cards.md#paper-glint-radiance-transport)
+- [MUFASA: A Multi-Layer Framework for Slot Attention](../../conferences/cvpr-2026/cards.md#paper-mufasa-multilayer-slots)
 
 <!-- conference-classification:end -->

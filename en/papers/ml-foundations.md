@@ -2405,5 +2405,9 @@ General learning methods, optimization, learning theory, and inference.
 - [E$^2$-SCI: Elastic Edge-Cloud Speculative Decoding via Credit Inertia](../../conferences/cvpr-2026/cards.md#paper-e2-sci)
 - [TimeRipples: Accelerating vDiTs by Understanding the Spatio-Temporal Correlations in Latent Space](../../conferences/cvpr-2026/cards.md#paper-timeripples-channel-structured-video-attention-reuse)
 - [GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-gdpo-sr-local-online-preference-for-one-step-restoration)
+- [GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-georelight-joint-geometry-relighting-diffusion)
+- [Yume1.5: A Text-Controlled Interactive World Generation Model](../../conferences/cvpr-2026/cards.md#paper-yume-temporal-spatial-channel-context-compression)
+- [FedRG: Unleashing the Representation Geometry for Federated Learning with Noisy Clients](../../conferences/cvpr-2026/cards.md#paper-fedrg-geometry-first-noisy-labels)
+- [Designing to Forget: Deep Semi-parametric Models for Unlearning](../../conferences/cvpr-2026/cards.md#paper-semi-parametric-design-for-unlearning)
 
 <!-- conference-classification:end -->
