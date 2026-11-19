@@ -753,5 +753,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-srcp-visual-unsupervised-rl)
 - [Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-vital-difficulty-balanced-multitask-grpo)
 - [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](../../conferences/cvpr-2026/cards.md#paper-mesh-pro-arpo)
+- [ReasonX: MLLM-Guided Intrinsic Image Decomposition](../../conferences/cvpr-2026/cards.md#paper-reasonx)
+- [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](../../conferences/cvpr-2026/cards.md#paper-relax-latent-exploration)
 
 <!-- conference-classification:end -->

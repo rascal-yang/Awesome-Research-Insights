@@ -2344,5 +2344,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](../../conferences/cvpr-2026/cards.md#paper-mesh-pro-arpo)
 - [Robust Spiking Neural Networks by Temporal Mutual Information](../../conferences/cvpr-2026/cards.md#paper-temporal-mutual-information-snn)
 - [CIGMA: Causal Information-Gain Mechanistic Attribution of Attention Heads in Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-cigma-causal-head-attribution)
+- [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](../../conferences/cvpr-2026/cards.md#paper-orthogonal-gradient-matching)
+- [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](../../conferences/cvpr-2026/cards.md#paper-relax-latent-exploration)
 
 <!-- conference-classification:end -->

@@ -905,5 +905,8 @@ Robot perception, policy learning, planning, and control.
 - [VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM](../../conferences/cvpr-2026/cards.md#paper-varsplat-uncertainty)
 - [GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-guideflow-constraints-inside-trajectory-generation)
 - [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](../../conferences/cvpr-2026/cards.md#paper-r2vlm-recurrent-progress)
+- [GeoDexGrasp: Geometry-aware Generation for Data-efficient and Physics-plausible Dexterous Grasping](../../conferences/cvpr-2026/cards.md#paper-geodexgrasp-factorized-geometric-conditioning)
+- [CUBic: Coordinated Unified Bimanual Perception and Control Framework](../../conferences/cvpr-2026/cards.md#paper-cubic-bimanual)
+- [Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](../../conferences/cvpr-2026/cards.md#paper-fast-thinkact)
 
 <!-- conference-classification:end -->

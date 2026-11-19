@@ -8746,3 +8746,288 @@
 - **适用条件 / 局限** · 遮挡可能引入非自然图像变化；因果解释限于实际干预和目标任务。
 
 **可复用机制** · 模型依赖背景捷径时，用去对象和去背景两种成对干预区分注意力头处理的证据。
+
+<a id="paper-atoken-covariance-loss-visual-tokenizer"></a>
+
+## AToken: A Unified Tokenizer for Vision
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_AToken_A_Unified_Tokenizer_for_Vision_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_AToken_A_Unified_Tokenizer_for_Vision_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多模态 tokenizer 要同时保留纹理与语义，Transformer 判别器过强时会使重建退化。
+- **核心创新 / 方法** · 作者先分解 rFID 的均值与协方差成分，再用特征 Gram 矩阵损失和感知监督直接约束二阶统计，无需训练判别器。
+- **Baseline** · 图 3 比较有无对抗训练和 Gram 损失；表 1 对照 VA-VAE、UniTok 等 tokenizer。
+- **Benchmark** · ImageNet 重建与零样本分类、TokenBench 和 MSR-VTT 的视频重建与检索、Toys4k 三维重建与分类。
+- **关键结果 / 消融** · 图 3 中协方差占该设置重建 FID 误差 86.6%；表 1 连续 tokenizer 的 ImageNet rFID 为 0.21、分类为 82.2%，视频 rFVD 为 3.01。
+- **适用条件 / 局限** · 协方差占比依赖数据与特征空间，统一 tokenizer 的整体收益还含课程训练与共享架构。
+
+**可复用机制** · 视觉编码重建若在对抗训练中不稳定，可先分解重建误差，再检验特征二阶统计损失能否代替判别器。见图 3、表 1。
+
+<a id="paper-uniprior-invariant-target-self-correlation-alignment"></a>
+
+## Towards Generalized Representations for Low-Light Understanding: When Signal Constancy Meets Semantic Enrichment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Towards_Generalized_Representations_for_Low-Light_Understanding_When_Signal_Constancy_Meets_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Towards_Generalized_Representations_for_Low-Light_Understanding_When_Signal_Constancy_Meets_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 暗光适配在没有真实暗光训练数据时容易过拟合某类退化，直接匹配基础模型特征可能迁移背景差异。
+- **核心创新 / 方法** · 同时输入并重建光照不变先验，用视觉基础模型的自相关图为对比学习提供语义结构。
+- **Baseline** · 比较朴素特征对齐、移除先验重建损失、先验解码器、对比增强或相关对齐等。
+- **Benchmark** · CoDaN 的低照分类 Top-1、Nighttime Driving 的分割 mIoU，另测暗光人脸检测。
+- **关键结果 / 消融** · 表 3 高层完整方案分类为 74.52%、分割为 48.20%，朴素特征对齐为 63.26%、41.72%，去掉相关对齐为 69.71%、46.67%。
+- **适用条件 / 局限** · 依赖可计算且保留任务信号的光照先验；更换退化方式需要确认先验不会抹掉目标线索。
+
+**可复用机制** · 光照分布变化时，可以对照直接对齐特征与对齐图像内部关系，并用重建不变量为模型提供稳定目标。见表 3。
+
+<a id="paper-tsd-pair-specific-shared-subspaces"></a>
+
+## Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Meng_Tri-Subspaces_Disentanglement_for_Multimodal_Sentiment_Analysis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Meng_Tri-Subspaces_Disentanglement_for_Multimodal_Sentiment_Analysis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 语言、视觉、声音可能只在某一对模态中共享有效信号，全共享与私有的二分法会漏掉这种结构。
+- **核心创新 / 方法** · 显式建立全共享、两两共享、模态私有子空间，分别约束再以子空间感知注意力融合。
+- **Baseline** · 对照 EMOE、MISA 等，以及同一架构下移除某类子空间和直接融合的版本。
+- **Benchmark** · CMU-MOSI、CMU-MOSEI 的 MAE 与七分类准确率，以及 MIntRec 意图分类准确率。
+- **关键结果 / 消融** · 表 3 完整模型 MIntRec 准确率 73.67%、MOSI MAE 0.691，移除两两共享子空间分别为 72.3%、0.705。
+- **适用条件 / 局限** · 主要验证三模态；更多传感器时两两组合增多，对共享信号的定义与开销需重测。
+
+**可复用机制** · 三模态以上的融合可检验是否保留两两共享的表示，而不把信号只分为全局共有与模态私有。见表 3。
+
+<a id="paper-ais-neighbor-seeded-deformation-optimization"></a>
+
+## Event-based Visual Deformation Measurement
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Event-based_Visual_Deformation_Measurement_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_Event-based_Visual_Deformation_Measurement_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 快速形变会使帧间对应困难，稀疏事件还会让局部位移拟合停在不稳定解。
+- **核心创新 / 方法** · 以仿射不变单纯形划分局部变形，用已收敛区域逐步为邻近的未收敛区域提供优化引导。
+- **Baseline** · 对照相同多尺度搜索与 Adam 设置的普通局部优化，并和帧或事件视觉基线比较。
+- **Benchmark** · 事件和图像融合的变形数据，以位移估计、有效子域比例与优化收敛时间衡量。
+- **关键结果 / 消融** · 表 3 将有效子域比例从 39.0% 提至 65.7%，平均收敛时间由 26.5 秒降至 7.2 秒。
+- **适用条件 / 局限** · 局部模型假设形变可线性化且邻域相关，断裂、遮挡或邻域分属不同物体时需加边界判断。
+
+**可复用机制** · 局部形变拟合不稳时，可以让高置信的子域引导邻域搜索，用收敛时间和有效子域比例核对。见表 3。
+
+<a id="paper-3d-slim-geometry-instruction-attention-mask"></a>
+
+## Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jeon_Masking_Matters_Unlocking_the_Spatial_Reasoning_Capabilities_of_LLMs_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jeon_Masking_Matters_Unlocking_the_Spatial_Reasoning_Capabilities_of_LLMs_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 因果注意力将对象输入顺序误作空间先验，也限制对象利用后出现的任务指令。
+- **核心创新 / 方法** · 对象之间用几何密度自适应的可见邻域替代因果遮罩，并在对象与指令间开放任务相关注意力。
+- **Baseline** · 以 Chat-Scene 的因果、全局、对角和固定邻域遮罩比较，并分别消融几何遮罩和指令遮罩。
+- **Benchmark** · ScanRefer、Multi3DRefer、Scan2Cap、ScanQA、SQA3D，分别评估定位、描述和问答。
+- **关键结果 / 消融** · 表 4 的 ScanRefer Acc@0.5 从因果基线 49.5 到单独几何遮罩 53.1，再到组合 54.1；ScanQA CIDEr 由单独几何的 94.2 略降至组合的 94.0。
+- **适用条件 / 局限** · 依赖对象几何位置与划分质量，稠密视角、远距离关系和对象缺失需另行验证。
+
+**可复用机制** · LLM 接收无序对象集合时，可将对象间注意力从因果顺序改为随空间密度调整的邻域，并允许对象直接关注指令。见表 3、4。
+
+<a id="paper-geodexgrasp-factorized-geometric-conditioning"></a>
+
+## GeoDexGrasp: Geometry-aware Generation for Data-efficient and Physics-plausible Dexterous Grasping
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Han_GeoDexGrasp_Geometry-aware_Generation_for_Data-efficient_and_Physics-plausible_Dexterous_Grasping_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_GeoDexGrasp_Geometry-aware_Generation_for_Data-efficient_and_Physics-plausible_Dexterous_Grasping_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一次生成手型与根部姿态很难分清物体几何因素，易增加手物穿透。
+- **核心创新 / 方法** · 用 SIM(3) 等变网络解耦姿态、方向、形状和大小，按因素分别为根部旋转与后续抓取生成提供条件。
+- **Baseline** · 比较不解耦、分阶段、逐步加入各条件和关系解耦预训练；另与已有灵巧抓取方法比较。
+- **Benchmark** · 五个抓取数据集和真实机械手测试，报告成功率与穿透距离，另测不同尺寸泛化。
+- **关键结果 / 消融** · 表 3 无解耦基线的成功率与穿透指标为 41.8、40.7；只分阶段时为 56.1、33.8；完整方案为 67.5、15.5。
+- **适用条件 / 局限** · 接触对象的几何质量是前提，真实设置需要从部分 RGB-D 观察补全对象；不同手部结构应重验条件划分。
+
+**可复用机制** · 抓取生成可按几何因素分配条件，先用姿态和交互方向规划根部旋转，再用形状和尺寸拟合手型。见表 3。
+
+<a id="paper-orthogonal-gradient-matching"></a>
+
+## Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Bo_Beyond_Soft_Label_Dataset_Distillation_via_Orthogonal_Gradient_Matching_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Bo_Beyond_Soft_Label_Dataset_Distillation_via_Orthogonal_Gradient_Matching_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 匹配批归一化统计主要约束梯度尺度，合成样本的更新方向仍可能和真实样本不同。
+- **核心创新 / 方法** · 对真实和合成梯度做奇异值分解，将奇异值置一后匹配正交化梯度，以最小二乘实现。
+- **Baseline** · 表1–2比较 RDED 等蒸馏方法，表3消融 SVD。
+- **Benchmark** · ImageNet-1K，按每类合成数和软/硬标签评价分类准确率。
+- **关键结果 / 消融** · 论文报告软标签47.0%、硬标签16.7%的配置；表3在 IPC=10 单列有无 SVD 对照。
+- **适用条件 / 局限** · 现有理论与实证依赖所用梯度结构，去除尺度对其他优化器和模型的影响需重测。
+
+**可复用机制** · 预算有限且只用硬标签时，数据蒸馏应测梯度方向是否随合成集保留。
+
+<a id="paper-cubic-bimanual"></a>
+
+## CUBic: Coordinated Unified Bimanual Perception and Control Framework
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_CUBic_Coordinated_Unified_Bimanual_Perception_and_Control_Framework_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_CUBic_Coordinated_Unified_Bimanual_Perception_and_Control_Framework_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 完全解耦会遗漏臂间关系，强绑定则限制任一手独立动作。
+- **核心创新 / 方法** · 单向汇聚感知，用两套码本和共享映射建立双向协调，再把共享 token 表征接入控制。
+- **Baseline** · 表1比较 RoboTwin 策略含 DP3，表4消融共享映射与两阶段训练。
+- **Benchmark** · RoboTwin 七项任务、三随机种子成功率，表2–3报告真实任务及域内外物体位置。
+- **关键结果 / 消融** · 表1作者报告相对之前最佳方法平均成功率改善12.0%，表4比较共享映射设计。
+- **适用条件 / 局限** · 不同机械结构或独立视角下的码本映射需重训，颜色任务限制点云基线直接比较。
+
+**可复用机制** · 两控制臂既需局部自治也需协调时，可保留各自离散码本，用共享映射协调。
+
+<a id="paper-chips-data-selection"></a>
+
+## CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhuang_CHIPS_Efficient_CLIP_Adaptation_via_Curvature-aware_Hybrid_Influence-based_Data_Selection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhuang_CHIPS_Efficient_CLIP_Adaptation_via_Curvature-aware_Hybrid_Influence-based_Data_Selection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接扩大领域数据或仅按相似度筛选，无法判断样本对对比学习更新和通用保留的影响。
+- **核心创新 / 方法** · 在 CLIP 末端投影子空间近似曲率感知影响，用 JL 草图压缩估计并加入选择相关性和可学习性权重。
+- **Baseline** · 以 MetaCLIP 持续预训练为入口，表2对比不同数据选择，表4消融。
+- **Benchmark** · B16-400M 在 BIOMEDICA 不同保留比10/20/30/50%下比较专科下游表现，表3比较跨骨干泛化。
+- **关键结果 / 消融** · 表2–4在固定保留比下对比选择策略、模型规模与组件，支持先筛样再分配预训练预算。
+- **适用条件 / 局限** · 近似依赖投影头能代理全参数影响，同时需要代表性的目标参考；领域参考偏移时应复核。
+
+**可复用机制** · 领域适配预算有限时，按影响力同时考虑目标收益与通用能力保留。
+
+<a id="paper-fast-thinkact"></a>
+
+## Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Fast-ThinkAct_Efficient_Vision-Language-Action_Reasoning_via_Verbalizable_Latent_Planning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Fast-ThinkAct_Efficient_Vision-Language-Action_Reasoning_via_Verbalizable_Latent_Planning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 显式视觉语言思维链较长，会拖慢具身动作生成。
+- **核心创新 / 方法** · 从教师蒸馏可语言化的潜在推理，以轨迹偏好目标对齐计划与操作，并连接低层策略。
+- **Baseline** · 图3比较 ThinkAct 和 OpenVLA 等，表3消融训练目标和潜在学习。
+- **Benchmark** · LIBERO 与 SimplerEnv 成功率和推理延迟，RoboTwin2.0 难度分组及 EgoPlan-Bench2、RoboVQA、OpenEQA。
+- **关键结果 / 消融** · 图3报告3B 模型相对 ThinkAct-3B 推理延迟减少89.3%，表3核查目标贡献。
+- **适用条件 / 局限** · 潜计划依赖教师监督和轨迹偏好，罕见任务及真实部署闭环安全约束要重新评估。
+
+**可复用机制** · 把可解释推理留作训练监督，部署使用能解码为语言的潜计划以减小决策时延。
+
+<a id="paper-geo3dpruner"></a>
+
+## Geometry-Guided 3D Visual Token Pruning for Video-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Geometry-Guided_3D_Visual_Token_Pruning_for_Video-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Geometry-Guided_3D_Visual_Token_Pruning_for_Video-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 时间邻近性不能充分识别多视重复，也不能保证保留的 token 覆盖场景。
+- **核心创新 / 方法** · 由几何感知注意力建跨帧相关性，体素内选代表特征，体素之间按空间多样性裁剪。
+- **Baseline** · 表1–2比较既有视觉 token 裁剪法，表3消融体素内和体素间阶段，表4比较体素选择。
+- **Benchmark** · 16及32帧输入，五基准九指标的平均性能保留率，随裁剪比例比较。
+- **关键结果 / 消融** · 表1–2验证不同序列长度，表3区分去冗余与保覆盖的贡献。
+- **适用条件 / 局限** · 依赖可靠的深度和位姿，将很小的物体映射进稀疏体素时需单独测未覆盖率。
+
+**可复用机制** · 多视角输入压缩先按同一3D位置去重，再按空间覆盖选保留 token。
+
+<a id="paper-dip-pixel-diffusion"></a>
+
+## DiP: Taming Diffusion Models in Pixel Space
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_DiP_Taming_Diffusion_Models_in_Pixel_Space_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_DiP_Taming_Diffusion_Models_in_Pixel_Space_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 潜扩散有 VAE 重建损失，直接像素扩散又受序列计算量拖累。
+- **核心创新 / 方法** · 用大 patch 的 DiT 处理全局结构，再以轻量共训 detailer head 恢复局部像素信息。
+- **Baseline** · 表1比较像素和潜空间模型，表2消融不同计算/设计方案。
+- **Benchmark** · ImageNet 256×256，Euler 求解器与 CFG，比较 FID、耗时和参数；表3给其他设置。
+- **关键结果 / 消融** · 表1 DiP-XL/16 一组报告 FID 1.79、0.92秒、631M；正文报告 detailer 只增加约0.3%参数。
+- **适用条件 / 局限** · 大 patch 会压缩全局级空间粒度，跨 patch 微结构与实际硬件生成成本需单测。
+
+**可复用机制** · 高分辨率像素扩散中，用大 patch 构造全局上下文，让局部头承担像素细节。
+
+<a id="paper-reasonx"></a>
+
+## ReasonX: MLLM-Guided Intrinsic Image Decomposition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dirik_ReasonX_MLLM-Guided_Intrinsic_Image_Decomposition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dirik_ReasonX_MLLM-Guided_Intrinsic_Image_Decomposition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅在合成标注训练的分解模型迁移到真实场景表现不稳定，绝对物理监督昂贵。
+- **核心创新 / 方法** · 用 MLLM 给出相对比较，与模型预测解析所得关系比较，再以 GRPO 优化。
+- **Baseline** · 表1–4比较原分解基模型、ReasonX 变体与具备相关监督的既有方法。
+- **Benchmark** · IIW 反照率 WHDR、MAW 强度及色度，NYUv2 与 ETH3D 相对深度，以及表4表面法线。
+- **关键结果 / 消融** · 正文报告不同基模型在 IIW 的 WHDR 降低9–25%，并单独验证深度和法线。
+- **适用条件 / 局限** · 奖励可靠性依赖判断者对相对关系的准确性，绝对物理尺度仍需额外约束。
+
+**可复用机制** · 真实图像无密集真值时，可收集教师相对判断，并与预测中可算出的物理关系比较作为奖励。
+
+<a id="paper-relax-latent-exploration"></a>
+
+## ReLaX: Reasoning with Latent Exploration for Large Reasoning Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_ReLaX_Reasoning_with_Latent_Exploration_for_Large_Reasoning_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_ReLaX_Reasoning_with_Latent_Exploration_for_Large_Reasoning_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 可验证奖励可能导致探索过早收敛，仅提高 token 熵未必增加不同推理过程。
+- **核心创新 / 方法** · 用 Koopman 线性近似表示隐状态动态，以动态谱分散评估和引导探索。
+- **Baseline** · 表1比较不同规模的视觉语言推理模型，表2同基座对照其他 RLVR 方法。
+- **Benchmark** · 多模态推理 mean@1 与纯文本数学 mean@1/mean@32。
+- **关键结果 / 消融** · 表1 ReLaX-VL-3B 与7B的平均 mean@1 分别为48.1和53.2，表2跨纯文本基座比较。
+- **适用条件 / 局限** · 谱量依赖隐藏层选择和线性化假设，其他自由文本或连续动作策略需要验证它能预测有效探索。
+
+**可复用机制** · 策略探索应同时看生成 token 多样性和中间状态动态的多样性。
+
+<a id="paper-resfit-superfrusta"></a>
+
+## Residual Primitive Fitting of 3D Shapes with SuperFrusta
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ganeshan_Residual_Primitive_Fitting_of_3D_Shapes_with_SuperFrusta_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ganeshan_Residual_Primitive_Fitting_of_3D_Shapes_with_SuperFrusta_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 密集网格难编辑，而简单基元过多会降低可控性。
+- **核心创新 / 方法** · 用8参数可微 SuperFrustum 表示多种立体形状，交替分析全局残差与局部拟合。
+- **Baseline** · 表1与已有基元重建比较；表2–3分别消融基元表示、残差拟合。
+- **Benchmark** · 3DGen-Prim 和 Toys4K，测重建 IoU、基元数量和程序质量。
+- **关键结果 / 消融** · 作者报告 IoU 提高超过9点而数量约减半。
+- **适用条件 / 局限** · 基元族仍限制异形细节，可编辑性和覆盖之间需要取舍。
+
+**可复用机制** · 拟合可编辑的几何基元时，从未解释残差增添基元，直接平衡覆盖和基元数量。
+
+<a id="paper-bricknet-connectivity-programs"></a>
+
+## BrickNet: Graph-Backed Generative Brick Assembly
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kulits_BrickNet_Graph-Backed_Generative_Brick_Assembly_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kulits_BrickNet_Graph-Backed_Generative_Brick_Assembly_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接生成每块位姿会使少数步骤后违反连接约束。
+- **核心创新 / 方法** · 构造以部件和连接为边的装配程序，用语言模型生成图结构对应的序列。
+- **Baseline** · 对照直接位姿表示的生成及无条件、文本条件配置。
+- **Benchmark** · 十万余人造 LDraw 对象和场景，测无条件、文本条件装配及结构可执行性。
+- **关键结果 / 消融** · 原文报告连接表示比位姿生成更容易得到有效结构。
+- **适用条件 / 局限** · 需有零件接口拓扑；局部可连接不保证整体承载或稳定性。
+
+**可复用机制** · 当零件装配受连接约束时，用连接关系而非裸三维位姿作为自回归生成单位。
+
+<a id="paper-diffusion-mental-averages"></a>
+
+## Diffusion Mental Averages
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Thawatdamrongkit_Diffusion_Mental_Averages_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Thawatdamrongkit_Diffusion_Mental_Averages_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 像素平均会抹除实体细节，单原型也会掩盖概念内不同模式。
+- **核心创新 / 方法** · 让多个初噪的去噪语义轨迹向共识靠近；对多峰概念先聚类再映回生成空间。
+- **Baseline** · 与图像集合外的平均或概念代表方案比较。
+- **Benchmark** · Animal、Person、Object、Abstract 四类提示，用一致性、代表性和画质等指标。
+- **关键结果 / 消融** · 表1给出概念原型量化比较，原文展示多峰与抽象案例。
+- **适用条件 / 局限** · 依赖模型潜语义和聚类，生成原型不能视作真实训练集均值。
+
+**可复用机制** · 审计生成器的概念原型时，比较去噪轨迹的语义中心，避免直接均值造成模糊。
+
+<a id="paper-rned-continuous-number-tokens"></a>
+
+## RNED: Rotary Number Encoding and Decoding for Medical VLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_RNED_Rotary_Number_Encoding_and_Decoding_for_Medical_VLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_RNED_Rotary_Number_Encoding_and_Decoding_for_Medical_VLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 数字分词不天然保持数量邻近，影响测量和坐标预测。
+- **核心创新 / 方法** · 对专用数值嵌入施加范数不变旋转，并用分数匹配式解码处理隐层噪声。
+- **Baseline** · 与已有视觉语言模型及其他数字表示方案比较。
+- **Benchmark** · Opport-CT、CT-RATE 的测量 MAE，医学视觉定位 IoU 和 Acc@5。
+- **关键结果 / 消融** · 表1–3报告连续编码在测量和坐标任务均改善。
+- **适用条件 / 局限** · 数值范围与频率配置影响可辨识性；需有可监督连续真值。
+
+**可复用机制** · 多模态回归用数值相关旋转编码连续数，在隐层解码实数，避免把数值当普通离散字符串。
+
+<a id="paper-lumimotion-dynamic-inverse-rendering"></a>
+
+## LumiMotion: Improving Gaussian Relighting with Scene Dynamics
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kaleta_LumiMotion_Improving_Gaussian_Relighting_with_Scene_Dynamics_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kaleta_LumiMotion_Improving_Gaussian_Relighting_with_Scene_Dynamics_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态照片中高光和阴影容易被解释成固定材质。
+- **核心创新 / 方法** · 学习动态二维高斯和形变，并用不同时刻在几何对应表面上的变化约束光照与反射分解。
+- **Baseline** · 在多视图单时刻静态方法与现有可重光照方法间比较，表3做组件消融。
+- **Benchmark** · 动态场景的反照率估计及重光照，以 LPIPS 等评价。
+- **关键结果 / 消融** · 作者报告相对次佳方法反照率 LPIPS 好23%、重光照好15%。
+- **适用条件 / 局限** · 需要可追踪表面及有效光照变化，非刚体对应失真或纯静态场景缺少该监督。
+
+**可复用机制** · 动态逆渲染利用同一表面随运动经过不同光照的观测，辅助分离材质和照明。

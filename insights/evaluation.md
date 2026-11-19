@@ -1461,5 +1461,6 @@
 - [Concept Regions Matter: Benchmarking CLIP with a New Cluster-Importance Approach](../conferences/cvpr-2026/cards.md#paper-cci-concept-cluster-occlusion-diagnosis)
 - [Fine-Grained Multi Image Object Hallucination Benchmark](../conferences/cvpr-2026/cards.md#paper-mioh-joint-versus-decomposed-visual-verification)
 - [CIGMA: Causal Information-Gain Mechanistic Attribution of Attention Heads in Vision Transformers](../conferences/cvpr-2026/cards.md#paper-cigma-causal-head-attribution)
+- [Diffusion Mental Averages](../conferences/cvpr-2026/cards.md#paper-diffusion-mental-averages)
 
 <!-- conference-classification:end -->

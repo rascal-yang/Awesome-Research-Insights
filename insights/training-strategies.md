@@ -1007,5 +1007,7 @@
 - [Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition](../conferences/cvpr-2026/cards.md#paper-tcl-long-tail)
 - [Parameter-Efficient Adaptation for MLLMs via Implicit Modality Decomposition](../conferences/cvpr-2026/cards.md#paper-imod-modality-decomposition)
 - [SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control](../conferences/cvpr-2026/cards.md#paper-slideredit-shared-continuous-instruction-adapters)
+- [CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection](../conferences/cvpr-2026/cards.md#paper-chips-data-selection)
+- [LumiMotion: Improving Gaussian Relighting with Scene Dynamics](../conferences/cvpr-2026/cards.md#paper-lumimotion-dynamic-inverse-rendering)
 
 <!-- conference-classification:end -->

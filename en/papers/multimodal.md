@@ -1053,5 +1053,12 @@ Learning across modalities such as images, text, audio, and video.
 - [An Empirical Study on How Video-LLMs Answer Video Questions](../../conferences/cvpr-2026/cards.md#paper-video-llm-layer-knockout)
 - [SRA 2: Variational Autoencoder Self-Representation Alignment  for Efficient Diffusion Training](../../conferences/cvpr-2026/cards.md#paper-sra2-vae-feature-alignment)
 - [Correspondence-Attention Alignment for Multi-View Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-cameo-correspondence-attention)
+- [AToken: A Unified Tokenizer for Vision](../../conferences/cvpr-2026/cards.md#paper-atoken-covariance-loss-visual-tokenizer)
+- [Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis](../../conferences/cvpr-2026/cards.md#paper-tsd-pair-specific-shared-subspaces)
+- [Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding](../../conferences/cvpr-2026/cards.md#paper-3d-slim-geometry-instruction-attention-mask)
+- [CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection](../../conferences/cvpr-2026/cards.md#paper-chips-data-selection)
+- [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](../../conferences/cvpr-2026/cards.md#paper-geo3dpruner)
+- [Diffusion Mental Averages](../../conferences/cvpr-2026/cards.md#paper-diffusion-mental-averages)
+- [RNED: Rotary Number Encoding and Decoding for Medical VLMs](../../conferences/cvpr-2026/cards.md#paper-rned-continuous-number-tokens)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 897 篇，其中 583 篇暂收录、314 篇排除，另有 3,145 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 927 篇，其中 602 篇暂收录、325 篇排除，另有 3,115 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -589,3 +589,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 897 �
 | 多模态学习 | 训练与数据策略 | [SRA 2: Variational Autoencoder Self-Representation Alignment  for Efficient Diffusion Training](cards.md#paper-sra2-vae-feature-alignment) | 训练扩散模型时先尝试把中层对齐到已有 VAE 特征，省去额外表征编码器。 |
 | 多模态学习 | 损失函数与优化 | [Correspondence-Attention Alignment for Multi-View Diffusion Models](cards.md#paper-cameo-correspondence-attention) | 多视角扩散训练中直接监督一层跨视图注意力的几何对应，作为提高视角一致性的低开销选择。 |
 | 机器学习基础 | 可解释性与诊断 | [CIGMA: Causal Information-Gain Mechanistic Attribution of Attention Heads in Vision Transformers](cards.md#paper-cigma-causal-head-attribution) | 模型依赖背景捷径时，用去对象和去背景两种成对干预区分注意力头处理的证据。 |
+| 多模态学习 | 损失与奖励 | [AToken: A Unified Tokenizer for Vision](cards.md#paper-atoken-covariance-loss-visual-tokenizer) | 视觉编码重建若在对抗训练中不稳定，可先分解重建误差，再检验特征二阶统计损失能否代替判别器。见图 3、表 1。 |
+| 计算机视觉 | 表征学习 | [Towards Generalized Representations for Low-Light Understanding: When Signal Constancy Meets Semantic Enrichment](cards.md#paper-uniprior-invariant-target-self-correlation-alignment) | 光照分布变化时，可以对照直接对齐特征与对齐图像内部关系，并用重建不变量为模型提供稳定目标。见表 3。 |
+| 多模态学习 | 表征学习 | [Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis](cards.md#paper-tsd-pair-specific-shared-subspaces) | 三模态以上的融合可检验是否保留两两共享的表示，而不把信号只分为全局共有与模态私有。见表 3。 |
+| 计算机视觉 | 三维重建与几何建模 | [Event-based Visual Deformation Measurement](cards.md#paper-ais-neighbor-seeded-deformation-optimization) | 局部形变拟合不稳时，可以让高置信的子域引导邻域搜索，用收敛时间和有效子域比例核对。见表 3。 |
+| 多模态学习 | 表征学习 | [Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding](cards.md#paper-3d-slim-geometry-instruction-attention-mask) | LLM 接收无序对象集合时，可将对象间注意力从因果顺序改为随空间密度调整的邻域，并允许对象直接关注指令。见表 3、4。 |
+| 机器人学 | 生成建模 | [GeoDexGrasp: Geometry-aware Generation for Data-efficient and Physics-plausible Dexterous Grasping](cards.md#paper-geodexgrasp-factorized-geometric-conditioning) | 抓取生成可按几何因素分配条件，先用姿态和交互方向规划根部旋转，再用形状和尺寸拟合手型。见表 3。 |
+| 机器学习基础与统计 | 损失函数 | [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](cards.md#paper-orthogonal-gradient-matching) | 预算有限且只用硬标签时，数据蒸馏应测梯度方向是否随合成集保留。 |
+| 机器人学 | 模型架构 | [CUBic: Coordinated Unified Bimanual Perception and Control Framework](cards.md#paper-cubic-bimanual) | 两控制臂既需局部自治也需协调时，可保留各自离散码本，用共享映射协调。 |
+| 多模态学习 | 训练策略 | [CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection](cards.md#paper-chips-data-selection) | 领域适配预算有限时，按影响力同时考虑目标收益与通用能力保留。 |
+| 机器人学 | 推理与规划 | [Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](cards.md#paper-fast-thinkact) | 把可解释推理留作训练监督，部署使用能解码为语言的潜计划以减小决策时延。 |
+| 多模态学习 | 推理压缩 | [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](cards.md#paper-geo3dpruner) | 多视角输入压缩先按同一3D位置去重，再按空间覆盖选保留 token。 |
+| 计算机视觉 | 生成模型 | [DiP: Taming Diffusion Models in Pixel Space](cards.md#paper-dip-pixel-diffusion) | 高分辨率像素扩散中，用大 patch 构造全局上下文，让局部头承担像素细节。 |
+| 计算机视觉 | 强化学习 | [ReasonX: MLLM-Guided Intrinsic Image Decomposition](cards.md#paper-reasonx) | 真实图像无密集真值时，可收集教师相对判断，并与预测中可算出的物理关系比较作为奖励。 |
+| 机器学习基础与统计 | 强化学习 | [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](cards.md#paper-relax-latent-exploration) | 策略探索应同时看生成 token 多样性和中间状态动态的多样性。 |
+| 计算机视觉 | 表示学习 | [Residual Primitive Fitting of 3D Shapes with SuperFrusta](cards.md#paper-resfit-superfrusta) | 拟合可编辑的几何基元时，从未解释残差增添基元，直接平衡覆盖和基元数量。 |
+| 计算机视觉 | 表示学习 | [BrickNet: Graph-Backed Generative Brick Assembly](cards.md#paper-bricknet-connectivity-programs) | 当零件装配受连接约束时，用连接关系而非裸三维位姿作为自回归生成单位。 |
+| 多模态学习 | 可解释性与诊断 | [Diffusion Mental Averages](cards.md#paper-diffusion-mental-averages) | 审计生成器的概念原型时，比较去噪轨迹的语义中心，避免直接均值造成模糊。 |
+| 多模态学习 | 表示学习 | [RNED: Rotary Number Encoding and Decoding for Medical VLMs](cards.md#paper-rned-continuous-number-tokens) | 多模态回归用数值相关旋转编码连续数，在隐层解码实数，避免把数值当普通离散字符串。 |
+| 计算机视觉 | 自监督学习 | [LumiMotion: Improving Gaussian Relighting with Scene Dynamics](cards.md#paper-lumimotion-dynamic-inverse-rendering) | 动态逆渲染利用同一表面随运动经过不同光照的观测，辅助分离材质和照明。 |

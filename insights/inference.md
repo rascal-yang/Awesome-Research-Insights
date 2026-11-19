@@ -1404,5 +1404,9 @@
 - [Open the Motion Door: Atomic Motion Decomposition and Recomposition for Open-Vocabulary Motion Generation](../conferences/cvpr-2026/cards.md#paper-atomic-motion-recomposition)
 - [Image Generation from Contextually-Contradictory Prompts](../conferences/cvpr-2026/cards.md#paper-stage-aware-prompt-decomposition)
 - [Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-todsynth-control-rectify)
+- [GeoDexGrasp: Geometry-aware Generation for Data-efficient and Physics-plausible Dexterous Grasping](../conferences/cvpr-2026/cards.md#paper-geodexgrasp-factorized-geometric-conditioning)
+- [Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](../conferences/cvpr-2026/cards.md#paper-fast-thinkact)
+- [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](../conferences/cvpr-2026/cards.md#paper-geo3dpruner)
+- [DiP: Taming Diffusion Models in Pixel Space](../conferences/cvpr-2026/cards.md#paper-dip-pixel-diffusion)
 
 <!-- conference-classification:end -->

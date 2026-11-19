@@ -415,5 +415,7 @@
 - [See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-bips)
 - [Robust Spiking Neural Networks by Temporal Mutual Information](../conferences/cvpr-2026/cards.md#paper-temporal-mutual-information-snn)
 - [Correspondence-Attention Alignment for Multi-View Diffusion Models](../conferences/cvpr-2026/cards.md#paper-cameo-correspondence-attention)
+- [AToken: A Unified Tokenizer for Vision](../conferences/cvpr-2026/cards.md#paper-atoken-covariance-loss-visual-tokenizer)
+- [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](../conferences/cvpr-2026/cards.md#paper-orthogonal-gradient-matching)
 
 <!-- conference-classification:end -->

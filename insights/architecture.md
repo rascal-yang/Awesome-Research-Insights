@@ -617,5 +617,6 @@
 - [OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing](../conferences/cvpr-2026/cards.md#paper-orionedit)
 - [Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration](../conferences/cvpr-2026/cards.md#paper-rar-latent-restoration-assessment)
 - [Causality in Video Diffusers is Separable from Denoising](../conferences/cvpr-2026/cards.md#paper-separable-causal-diffusion)
+- [CUBic: Coordinated Unified Bimanual Perception and Control Framework](../conferences/cvpr-2026/cards.md#paper-cubic-bimanual)
 
 <!-- conference-classification:end -->

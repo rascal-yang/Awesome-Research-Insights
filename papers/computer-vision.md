@@ -1163,5 +1163,12 @@
 - [Efficient Unrolled Networks for Large-Scale 3D Inverse Problems](../conferences/cvpr-2026/cards.md#paper-partitioned-unrolling-global-normal-operator)
 - [Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface](../conferences/cvpr-2026/cards.md#paper-faithful-contouring)
 - [Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-todsynth-control-rectify)
+- [Towards Generalized Representations for Low-Light Understanding: When Signal Constancy Meets Semantic Enrichment](../conferences/cvpr-2026/cards.md#paper-uniprior-invariant-target-self-correlation-alignment)
+- [Event-based Visual Deformation Measurement](../conferences/cvpr-2026/cards.md#paper-ais-neighbor-seeded-deformation-optimization)
+- [DiP: Taming Diffusion Models in Pixel Space](../conferences/cvpr-2026/cards.md#paper-dip-pixel-diffusion)
+- [ReasonX: MLLM-Guided Intrinsic Image Decomposition](../conferences/cvpr-2026/cards.md#paper-reasonx)
+- [Residual Primitive Fitting of 3D Shapes with SuperFrusta](../conferences/cvpr-2026/cards.md#paper-resfit-superfrusta)
+- [BrickNet: Graph-Backed Generative Brick Assembly](../conferences/cvpr-2026/cards.md#paper-bricknet-connectivity-programs)
+- [LumiMotion: Improving Gaussian Relighting with Scene Dynamics](../conferences/cvpr-2026/cards.md#paper-lumimotion-dynamic-inverse-rendering)
 
 <!-- conference-classification:end -->
