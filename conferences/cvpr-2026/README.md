@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 387 篇，其中 274 篇暂收录、113 篇排除，另有 3,655 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 417 篇，其中 292 篇暂收录、125 篇排除，另有 3,625 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -280,3 +280,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 387 �
 | 计算机视觉 | 推理优化 | [InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models](cards.md#paper-invad-latent-inversion) | 用扩散模型做异常分数时，检验反演潜变量偏离先验能否取代往返像素重建。 |
 | 多模态学习 | 推理优化 | [Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](cards.md#paper-log-linear-sparse-attention) | 长视觉序列不止稀疏注意力，还要把块筛选做成多层细化，并保留未选区域的粗粒度上下文。 |
 | 多模态学习 | 训练与数据策略 | [PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories](cards.md#paper-placid-synthetic-trajectories) | 训练视频模型做静态组合时，将初始随机摆放过渡到目标布局，复用时序一致性来保留各实体。 |
+| 多模态学习 | 推理策略 | [OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models](cards.md#paper-omnizip-audio-guided-pruning) | 音视频长上下文压缩可按音频事件时窗调节视频预算，并同时报告预填充与端到端延迟。见表 3–4。 |
+| 多模态学习 | 训练策略 | [Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](cards.md#paper-3dthinker-distilled-geometry) | 只在训练能获得昂贵三维教师时，可蒸馏中间几何表示并在推理时移除教师；与推理调用深度先验比较。见表 3–4。 |
+| 计算机视觉 | 表征学习 | [Prune Wisely, Reconstruct Sharply: Compact 3D Gaussian Splatting via Adaptive Pruning and Difference-of-Gaussian Primitives](cards.md#paper-difference-of-gaussians-primitives) | 三维高斯压缩在边缘质量下降时，可对照同剪枝配置下用正负联合原语增强表达。见表 2。 |
+| 机器学习基础与统计 | 评测与诊断 | [Deconstructing the Failure of Ideal Noise Correction: A Three-Pillar Diagnosis](cards.md#paper-ideal-noise-correction-failure) | 标签噪声校正实验先用真值转移矩阵排除估计误差，再分别检查训练轨迹与每样本标签信息。见 §5.3、图 3。 |
+| 计算机视觉 | 模型架构 | [Temporal Interaction in Spiking Transformers with Multi-Delay Mixer](cards.md#paper-md-mixer-spiking-temporal-delays) | 事件驱动 Transformer 可在空间注意力前混合不同延迟的脉冲，并用跨时刻依赖测量确认是否超出逐帧空间处理。见表 2–3。 |
+| 强化学习与决策 | 强化学习方法 | [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](cards.md#paper-g2rpo-stepwise-preference) | 流模型偏好训练可把噪声搜索限制在可比较的局部去噪步骤，并对多个偏好维度分开衡量。见表 1–3。 |
+| 机器人学 | 推理策略 | [Paparazzo: Active Mapping of Moving 3D Objects](cards.md#paper-paparazzo) | 主动重建动态物体时，依据预测轨迹选择能补足覆盖的未来视角。 |
+| 机器学习基础与统计 | 模型架构 | [Efficient Equivariant Transformer for Self-Driving Agent Modeling](cards.md#paper-drivegatr) | 以几何代数编码各实体以实现平面刚体变换等变性，单独核查成对位置编码的计算代价。 |
+| 机器学习基础与统计 | 训练策略 | [Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for Enhanced Temporal Spiking Features](cards.md#paper-tre-spiking) | 时序表征易重复同一判别线索时，可训练时抑制长期占优响应，再测不同时步是否互补。 |
+| 多模态学习 | 推理策略 | [Dynamic Token Reweighting for Robust Vision-Language Models](cards.md#paper-dtr-safe-token-reweighting) | 部署视觉语言防护时，同时检查推理干预对防御可靠性、正常视觉任务与时延的影响。 |
+| 计算机视觉 | 训练策略 | [Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding](cards.md#paper-chorus-3dgs) | 共享三维编码器接受不同二维教师的专属投影，并以少标注探针检查语义和实例细节能否共存。 |
+| 多模态学习 | 条件生成 | [Residual Diffusion Bridge Model for Image Restoration](cards.md#paper-residual-diffusion-bridge) | 当输入多数位置无需改变时，用端点残差调制扩散桥的加噪与恢复强度。 |
+| 计算机视觉 | 自监督学习 | [Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation](cards.md#paper-rewis3d) | 训练稀疏标注分割时，把视频可重建三维点云用作跨视图语义传播，部署仍只用二维模型。 |
+| 多模态学习 | 表示学习 | [Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models](cards.md#paper-sympl) | 物体中心视角推理时，先显式变换参考系并以符号布局缩短视觉推导。 |
+| 计算机视觉 | 训练与数据策略 | [Portable Active Learning for Object Detection](cards.md#paper-portable-active-learning-detection) | 不能读取检测器内部时，用输出框的类别校准不确定性和输入多样性选标注批次。 |
+| 机器人学 | 表示学习 | [LASAR: Towards Spatio-temporal Reasoning with Latent Cognitive Map](cards.md#paper-lasar-cognitive-map) | 训练导航智能体时分开存情节记忆和语义地图，再用关系对比目标直接约束地图。 |
+| 多模态学习 | 模型架构 | [DREAM: Document Recognition with Explicit Adaptive Memory](cards.md#paper-dream-prototype-memory) | 文档识别反复遇到相似版式时，可为局部视觉块添加多尺度原型记忆。 |
+| 多模态学习 | 推理优化 | [YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal](cards.md#paper-yose-essential-tokens) | 局部视频编辑只计算掩码内关键 token，并用低成本路径近似掩码外上下文影响。 |

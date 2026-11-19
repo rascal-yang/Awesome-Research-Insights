@@ -1057,5 +1057,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-retimegs)
 - [MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation](../../conferences/cvpr-2026/cards.md#paper-mv3dis-3d-guided-masks)
 - [InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-invad-latent-inversion)
+- [Prune Wisely, Reconstruct Sharply: Compact 3D Gaussian Splatting via Adaptive Pruning and Difference-of-Gaussian Primitives](../../conferences/cvpr-2026/cards.md#paper-difference-of-gaussians-primitives)
+- [Temporal Interaction in Spiking Transformers with Multi-Delay Mixer](../../conferences/cvpr-2026/cards.md#paper-md-mixer-spiking-temporal-delays)
+- [Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding](../../conferences/cvpr-2026/cards.md#paper-chorus-3dgs)
+- [Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-rewis3d)
+- [Portable Active Learning for Object Detection](../../conferences/cvpr-2026/cards.md#paper-portable-active-learning-detection)
 
 <!-- conference-classification:end -->

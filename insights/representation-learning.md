@@ -546,5 +546,8 @@
 - [AstraNav-Memory: Contexts Compression for Long Memory](../conferences/cvpr-2026/cards.md#paper-astranav-memory-compression)
 - [RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-retimegs)
 - [MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation](../conferences/cvpr-2026/cards.md#paper-mv3dis-3d-guided-masks)
+- [Prune Wisely, Reconstruct Sharply: Compact 3D Gaussian Splatting via Adaptive Pruning and Difference-of-Gaussian Primitives](../conferences/cvpr-2026/cards.md#paper-difference-of-gaussians-primitives)
+- [Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-sympl)
+- [LASAR: Towards Spatio-temporal Reasoning with Latent Cognitive Map](../conferences/cvpr-2026/cards.md#paper-lasar-cognitive-map)
 
 <!-- conference-classification:end -->

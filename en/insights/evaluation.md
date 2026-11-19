@@ -1429,5 +1429,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Event Structural Valley: A Unified Theoretical and Practical Framework for Event Camera Autofocus](../../conferences/cvpr-2026/cards.md#paper-event-structural-valley)
 - [AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-ava-bench-atomic-abilities)
 - [Unstitching the Chimera: Frame-Level Risk and Train-Free Mitigation for Video Hallucination](../../conferences/cvpr-2026/cards.md#paper-chimera-temporal-risk)
+- [Deconstructing the Failure of Ideal Noise Correction: A Three-Pillar Diagnosis](../../conferences/cvpr-2026/cards.md#paper-ideal-noise-correction-failure)
 
 <!-- conference-classification:end -->

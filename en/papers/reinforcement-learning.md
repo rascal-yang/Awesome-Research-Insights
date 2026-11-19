@@ -667,5 +667,6 @@ Learning from interaction, feedback, and offline experience.
 ## CVPR 2026 (provisional)
 
 - [Cloning Deterministic Worlds: The Critical Role of Latent Geometry in Long-Horizon World Models](../../conferences/cvpr-2026/cards.md#paper-grwm-latent-geometry)
+- [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](../../conferences/cvpr-2026/cards.md#paper-g2rpo-stepwise-preference)
 
 <!-- conference-classification:end -->

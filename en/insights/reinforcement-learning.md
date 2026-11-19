@@ -743,5 +743,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PointThinker: Point-Incentivized Parallel Thinking for Multimodal Large Language Model](../../conferences/cvpr-2026/cards.md#paper-pointthinker-pointwise-credit)
 - [NIL: No-data Imitation Learning](../../conferences/cvpr-2026/cards.md#paper-no-data-imitation-learning)
 - [MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-moe-grpo-routing)
+- [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](../../conferences/cvpr-2026/cards.md#paper-g2rpo-stepwise-preference)
 
 <!-- conference-classification:end -->

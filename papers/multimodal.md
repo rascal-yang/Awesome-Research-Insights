@@ -939,5 +939,12 @@
 - [Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment](../conferences/cvpr-2026/cards.md#paper-proxy3d)
 - [Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-log-linear-sparse-attention)
 - [PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories](../conferences/cvpr-2026/cards.md#paper-placid-synthetic-trajectories)
+- [OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-omnizip-audio-guided-pruning)
+- [Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](../conferences/cvpr-2026/cards.md#paper-3dthinker-distilled-geometry)
+- [Dynamic Token Reweighting for Robust Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-dtr-safe-token-reweighting)
+- [Residual Diffusion Bridge Model for Image Restoration](../conferences/cvpr-2026/cards.md#paper-residual-diffusion-bridge)
+- [Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-sympl)
+- [DREAM: Document Recognition with Explicit Adaptive Memory](../conferences/cvpr-2026/cards.md#paper-dream-prototype-memory)
+- [YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal](../conferences/cvpr-2026/cards.md#paper-yose-essential-tokens)
 
 <!-- conference-classification:end -->

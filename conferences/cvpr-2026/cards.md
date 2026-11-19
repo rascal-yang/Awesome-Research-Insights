@@ -4111,3 +4111,273 @@
 - **适用条件 / 局限** · 合成轨迹不能表示任意遮挡与相互作用，终帧质量还依赖视频模型的持续身份一致性。
 
 **可复用机制** · 训练视频模型做静态组合时，将初始随机摆放过渡到目标布局，复用时序一致性来保留各实体。
+
+<a id="paper-omnizip-audio-guided-pruning"></a>
+
+## OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tao_OmniZip_Audio-Guided_Dynamic_Token_Compression_for_Fast_Omnimodal_Large_Language_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tao_OmniZip_Audio-Guided_Dynamic_Token_Compression_for_Fast_Omnimodal_Large_Language_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 联合音视频输入很长；全局均匀压缩可能丢掉短时跨模态事件。
+- **核心创新 / 方法** · 按时窗估计音频保留率和跨模态关联，据此给视频词元分配更高或更低的预算，窗口内交错做时空压缩。
+- **Baseline** · 比较 FastV、DyCoke、全词元和不同保留率配置。
+- **Benchmark** · WorldSense 等音视频问答，测任务分数、预填充时延、显存和整次推理时间。
+- **关键结果 / 消融** · 表 3 的 3B 模型减至 45% 时，预填从 258 ms 降到 104 ms，端到端从 3.61 秒降到 2.86 秒，任务分由 46.4 降到 45.2。
+- **适用条件 / 局限** · 依赖音频能反映视觉事件；静音动作、无关声源和音画错位条件应分开验收。
+
+**可复用机制** · 音视频长上下文压缩可按音频事件时窗调节视频预算，并同时报告预填充与端到端延迟。见表 3–4。
+
+<a id="paper-3dthinker-distilled-geometry"></a>
+
+## Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Think_with_3D_Geometric_Imagination_Grounded_Spatial_Reasoning_from_Limited_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Think_with_3D_Geometric_Imagination_Grounded_Spatial_Reasoning_from_Limited_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 少量视图的空间问答依赖隐含三维结构，文字链和外部先验各有表达或部署成本。
+- **核心创新 / 方法** · 监督对齐视觉语言模型推理期间的三维潜表示和几何基础模型表示，再用结果信号调整整段推理。
+- **Baseline** · 比较 Ego3D-VLM 的推理外部先验、普通问答微调和思维链微调。
+- **Benchmark** · Ego3D-Bench、MindCube-Tiny 和其他空间理解基准，按技能测准确率。
+- **关键结果 / 消融** · 表 3 Qwen2.5-VL-3B 为 50.8 对 Ego3D-VLM 的 44.4；InternVL3-38B 两者均为 68.0。
+- **适用条件 / 局限** · 需可取得训练用几何教师及覆盖良好的有限视图；离线空间问答不能证明生成了物理一致的内部地图。
+
+**可复用机制** · 只在训练能获得昂贵三维教师时，可蒸馏中间几何表示并在推理时移除教师；与推理调用深度先验比较。见表 3–4。
+
+<a id="paper-difference-of-gaussians-primitives"></a>
+
+## Prune Wisely, Reconstruct Sharply: Compact 3D Gaussian Splatting via Adaptive Pruning and Difference-of-Gaussian Primitives
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Prune_Wisely_Reconstruct_Sharply_Compact_3D_Gaussian_Splatting_via_Adaptive_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Prune_Wisely_Reconstruct_Sharply_Compact_3D_Gaussian_Splatting_via_Adaptive_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 大量高斯保存细节但使模型过大，简单删除基元易使边缘模糊。
+- **核心创新 / 方法** · 按重建质量决定剪枝及细化时机，并用包含正、负密度的三维高斯差原语补足有限基元的表达。
+- **Baseline** · 比较 3DGS、逐项加入剪枝/细化、以及追加高斯差的版本。
+- **Benchmark** · Mip-NeRF360、Deep Blending 等新视图，测 PSNR、SSIM、LPIPS、训练时间与渲染 FPS。
+- **关键结果 / 消融** · 表 2 的最终高斯差组件将 PSNR 从 26.99 提到 27.16，但 FPS 从 361.9 降到 289.0；普通 3DGS 是 27.47 和 143.5。
+- **适用条件 / 局限** · 紧凑表达的收益随显卡和场景分布变化，负密度原语与原有渲染管线兼容性需复核。
+
+**可复用机制** · 三维高斯压缩在边缘质量下降时，可对照同剪枝配置下用正负联合原语增强表达。见表 2。
+
+<a id="paper-ideal-noise-correction-failure"></a>
+
+## Deconstructing the Failure of Ideal Noise Correction: A Three-Pillar Diagnosis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Feng_Deconstructing_the_Failure_of_Ideal_Noise_Correction_A_Three-Pillar_Diagnosis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Deconstructing_the_Failure_of_Ideal_Noise_Correction_A_Three-Pillar_Diagnosis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 噪声校正的理论一致性没有解释有限样本训练中的性能下降，常见归因是转移矩阵估计不准确。
+- **核心创新 / 方法** · 用 oracle 转移矩阵观察训练退化，再区分优化动态、收敛解和标注信息量；对照理想干净筛选。
+- **Baseline** · 比较估计及真值矩阵校正、理想干净样本筛选与正则化校正。
+- **Benchmark** · 模拟噪声与 Clothing1M 等，记录测试准确率和校准误差；图 3 比较每个样本 1 到 10 份标签。
+- **关键结果 / 消融** · 提供真矩阵时仍可出现性能退化；增加每样本标签数使校正法逐渐接近理想筛选，校准误差还可更低。
+- **适用条件 / 局限** · oracle 矩阵在真实问题中通常不可得，结论依赖所测噪声机制及任务；需分开验证样本依赖噪声。
+
+**可复用机制** · 标签噪声校正实验先用真值转移矩阵排除估计误差，再分别检查训练轨迹与每样本标签信息。见 §5.3、图 3。
+
+<a id="paper-md-mixer-spiking-temporal-delays"></a>
+
+## Temporal Interaction in Spiking Transformers with Multi-Delay Mixer
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shi_Temporal_Interaction_in_Spiking_Transformers_with_Multi-Delay_Mixer_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_Temporal_Interaction_in_Spiking_Transformers_with_Multi-Delay_Mixer_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 脉冲 Transformer 的空间注意力通常独立处理各时刻，难形成多种时间依赖。
+- **核心创新 / 方法** · 用多种延迟混合进入空间注意力的脉冲，并用 Temporal Interaction Coefficient 检查时刻间相互作用。
+- **Baseline** · 在 Spikformer、QKFormer、Spike-driven Transformer 中对照原模块、TIM 和 STAtten。
+- **Benchmark** · 包括 ImageNet、CIFAR10-DVS、N-Caltech101、UCF101-DVS 等，测分类准确率和算子成本。
+- **关键结果 / 消融** · 表 2 Spikformer 的 CIFAR10-DVS/N-Caltech101 从 80.90/80.23 升至 83.37/84.57；STAtten 为 82.40/83.12。
+- **适用条件 / 局限** · 不同采样速率或延迟预算会改变最佳混合方式；理论运算效率需在目标神经形态硬件上另测。
+
+**可复用机制** · 事件驱动 Transformer 可在空间注意力前混合不同延迟的脉冲，并用跨时刻依赖测量确认是否超出逐帧空间处理。见表 2–3。
+
+<a id="paper-g2rpo-stepwise-preference"></a>
+
+## Fine-Grained GRPO for Precise Preference Alignment in Flow Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Fine-Grained_GRPO_for_Precise_Preference_Alignment_in_Flow_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Fine-Grained_GRPO_for_Precise_Preference_Alignment_in_Flow_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 对全轨迹仅提供终局奖励时，有用的去噪方向难与局部无效方向区分。
+- **核心创新 / 方法** · 以细粒度的随机去噪探索产生局部对照，再把多个偏好指标形成可用于策略更新的局部优势。
+- **Baseline** · 比较 DanceGRPO、MixGRPO，消融多指标优势组合与不同去噪粒度。
+- **Benchmark** · 文生图偏好训练，报告 HPS、CLIP、PickScore、ImageReward 和统一奖励等。
+- **关键结果 / 消融** · 表 1 在 HPS 与 CLIP 奖励设置中，完整 G2RPO 的 ImageReward 为 1.483，去多指标优势组合为 1.421；MixGRPO 为 1.436。
+- **适用条件 / 局限** · 需要偏好打分和足够训练样本，多个代理指标仍可能同源；换骨干或人评需独立检验局部信用分配。
+
+**可复用机制** · 流模型偏好训练可把噪声搜索限制在可比较的局部去噪步骤，并对多个偏好维度分开衡量。见表 1–3。
+
+<a id="paper-paparazzo"></a>
+
+## Paparazzo: Active Mapping of Moving 3D Objects
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Allegro_Paparazzo_Active_Mapping_of_Moving_3D_Objects_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Allegro_Paparazzo_Active_Mapping_of_Moving_3D_Objects_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态场景的选视角策略不能补偿目标运动，可能重复观察已建区域。
+- **核心创新 / 方法** · 在物体运动预测下评估视角信息量，再规划观测路径。
+- **Baseline** · 正文表1–2对照随机行走、随机视角及只追踪目标的策略。
+- **Benchmark** · 在四类运动和多个场景与物体上报告覆盖、完整性误差与 AUC。
+- **关键结果 / 消融** · 表2前后移动情形，Paparazzo 平均覆盖67.73%，只追踪为62.05%，完整性误差为1.23与1.45厘米。
+- **适用条件 / 局限** · 运动预测错误或遮挡会破坏视角选择，当前证据依赖所设运动类别及仿真场景。
+
+**可复用机制** · 主动重建动态物体时，依据预测轨迹选择能补足覆盖的未来视角。
+
+<a id="paper-drivegatr"></a>
+
+## Efficient Equivariant Transformer for Self-Driving Agent Modeling
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Efficient_Equivariant_Transformer_for_Self-Driving_Agent_Modeling_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Efficient_Equivariant_Transformer_for_Self-Driving_Agent_Modeling_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 成对相对位置编码会给多实体建模增加额外二次开销。
+- **核心创新 / 方法** · 以二维射影几何代数多向量表示场景元素，在网络层保持平面旋转和平移等变。
+- **Baseline** · 表2–3比较普通 Transformer、相对位置编码和 DriveGATr 及多模型规模。
+- **Benchmark** · WOSAC 2024 验证集，报告 RMM、运动学、交互、地图和 minADE。
+- **关键结果 / 消融** · 相同3M参数时 DriveGATr 的 RMM 为0.7620，普通 Transformer 为0.7257，相对位置编码为0.7251。
+- **适用条件 / 局限** · 保证针对平面变换，标准注意力本身仍有计算开销。开放三维环境需要重新验证对称条件。
+
+**可复用机制** · 以几何代数编码各实体以实现平面刚体变换等变性，单独核查成对位置编码的计算代价。
+
+<a id="paper-tre-spiking"></a>
+
+## Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for Enhanced Temporal Spiking Features
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Temporal_Representation_Enhancement_TRE_Learning_to_Forget_Dominant_Patterns_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Temporal_Representation_Enhancement_TRE_Learning_to_Forget_Dominant_Patterns_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态监督在各时间步反复鼓励同一响应，浪费动态模型的表示容量。
+- **核心创新 / 方法** · 累计类别相关特征贡献，按动态门控减弱过度占优模式。
+- **Baseline** · 对照无附加目标、TET 和固定 Top-k 门控。
+- **Benchmark** · CIFAR-100、ImageNet、DVS-CIFAR10。正文表3–5报告不同时间步准确率及跨步特征相似度。
+- **关键结果 / 消融** · 表3在 CIFAR-100 四步下为81.27%，TET 为80.16%；在 DVS-CIFAR10 十步下为83.60%和83.00%。
+- **适用条件 / 局限** · 有效性依赖类别贡献估计及步长，门控也可能压低真正关键证据。
+
+**可复用机制** · 时序表征易重复同一判别线索时，可训练时抑制长期占优响应，再测不同时步是否互补。
+
+<a id="paper-dtr-safe-token-reweighting"></a>
+
+## Dynamic Token Reweighting for Robust Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Dynamic_Token_Reweighting_for_Robust_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_Dynamic_Token_Reweighting_for_Robust_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 引入防护有时会降低正常任务性能或显著拉长推理时间。
+- **核心创新 / 方法** · DTR 在模型内部自适应调整视觉词元权重，以弱化异常视觉证据并保持正常推理。
+- **Baseline** · 比较原模型及 AdaShield、CoCA、ShiftDC 等防御。
+- **Benchmark** · 表1评安全表现，表2在 MM-Vet 测正常任务，表3测平均推理时延。
+- **关键结果 / 消融** · 表3 DTR 为4.01秒，原模型3.65秒，AdaShield 5.24秒；正文同时报告防护及正常任务对照。
+- **适用条件 / 局限** · 推理干预需要内部缓存访问，安全收益应在模型、任务和部署条件变化后复测。
+
+**可复用机制** · 部署视觉语言防护时，同时检查推理干预对防御可靠性、正常视觉任务与时延的影响。
+
+<a id="paper-chorus-3dgs"></a>
+
+## Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Chorus_Multi-Teacher_Pretraining_for_Holistic_3D_Gaussian_Scene_Encoding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Chorus_Multi-Teacher_Pretraining_for_Holistic_3D_Gaussian_Scene_Encoding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 三维高斯原语能很好渲染，却不自带通用理解所需特征。
+- **核心创新 / 方法** · 蒸馏语言对齐、通用和对象级教师，以教师专属投影保留互补信号。
+- **Baseline** · 比较 Sonata、PTv3、PPT 等方法和不同探针配置；另训练点云版。
+- **Benchmark** · 表1–5覆盖 ScanNet++、Matterport3D、ScanNet 等开放词表分割、三维问答与少标注评测。
+- **关键结果 / 消融** · 表5显示在多个标签预算下可通过微调接近或超越所列对照，线性探针和微调分开报告。
+- **适用条件 / 局限** · 二维教师意见可能冲突，训练需要可靠二维到三维对齐，新传感器数据应独立验收。
+
+**可复用机制** · 共享三维编码器接受不同二维教师的专属投影，并以少标注探针检查语义和实例细节能否共存。
+
+<a id="paper-residual-diffusion-bridge"></a>
+
+## Residual Diffusion Bridge Model for Image Restoration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Residual_Diffusion_Bridge_Model_for_Image_Restoration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Residual_Diffusion_Bridge_Model_for_Image_Restoration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全局加噪会破坏原输入完好区域，现有扩散桥也难在统一设置下比较。
+- **核心创新 / 方法** · 推导通用前向与反向扩散桥，并利用端点分布残差分配噪声；常见桥可表达为特定配置。
+- **Baseline** · 表1讨论 I2SB、ColdDiffusion 等，表2对照通用和任务专用修复方法。
+- **Benchmark** · 五种图像修复任务，以恢复质量和256×256推理 FLOPs 比较。
+- **关键结果 / 消融** · 表2报告多任务质量与成本，表3对照不同噪声调度。
+- **适用条件 / 局限** · 可迁移性取决于残差能否定位需修复内容，颜色漂移等全局退化收益可能不同。
+
+**可复用机制** · 当输入多数位置无需改变时，用端点残差调制扩散桥的加噪与恢复强度。
+
+<a id="paper-rewis3d"></a>
+
+## Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ernst_Rewis3d_Reconstruction_Improves_Weakly-Supervised_Semantic_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ernst_Rewis3d_Reconstruction_Improves_Weakly-Supervised_Semantic_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 稀疏标注便宜但像素覆盖低，逐帧学习无法共享同一表面的语义证据。
+- **核心创新 / 方法** · 以快速前馈重建生成三维点，双教师学生训练对齐三维点与二维投影语义，并抑制不可靠点。
+- **Baseline** · 同骨干 EMA 基线、稀疏监督已有方案、全监督参照。
+- **Benchmark** · Waymo、KITTI-360、Cityscapes、NYUv2 等，用 mIoU 及缩小全监督差距比例评价；测试不同稀疏标注。
+- **关键结果 / 消融** · 作者报告相对现有方案提高2–7%，不增加部署开销；Waymo 消融从49.4 mIoU 的 EMA 基线比较。
+- **适用条件 / 局限** · 需要训练视频的可重建几何，失配、动态和稀疏共视会传播错误。
+
+**可复用机制** · 训练稀疏标注分割时，把视频可重建三维点云用作跨视图语义传播，部署仍只用二维模型。
+
+<a id="paper-sympl"></a>
+
+## Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jang_Keep_it_SymPL_Symbolic_Projective_Layout_for_Allocentric_Spatial_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jang_Keep_it_SymPL_Symbolic_Projective_Layout_for_Allocentric_Spatial_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 模型能回答观察者视角问题，但换成物体视角后参考系易混。
+- **核心创新 / 方法** · 将物体和视角投影到符号布局，依次抽象、分区和定位，再交给 VLM 作答。
+- **Baseline** · 原图直接问答与布局转换、各因素消融比较。
+- **Benchmark** · 物体中心及观察者中心空间问答，并正面测试视觉错觉和多视图；指标为回答正确性。
+- **关键结果 / 消融** · 表1–3报告两种参考视角均有改善，对错觉和多视图也更稳。
+- **适用条件 / 局限** · 场景对象识别、参考物朝向或投影出错会传递到符号答案。
+
+**可复用机制** · 物体中心视角推理时，先显式变换参考系并以符号布局缩短视觉推导。
+
+<a id="paper-portable-active-learning-detection"></a>
+
+## Portable Active Learning for Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sharma_Portable_Active_Learning_for_Object_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sharma_Portable_Active_Learning_for_Object_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 依赖隐层或者修改训练的主动学习难迁移到不同检测器。
+- **核心创新 / 方法** · 训练轻量类别逻辑分类器区分框的真假匹配，用熵排样本，再用类别覆盖、图像熵和相似度筛选批次。
+- **Baseline** · PPAL、随机采样等；在 RetinaNet、YOLOX-Tiny 等检测器上比较。
+- **Benchmark** · COCO、PASCAL VOC、BDD100K 多轮主动学习，报告 AP、mAP 和达到相近表现所需标注。
+- **关键结果 / 消融** · 表1–3给出不同检测器及基准的标签效率和检测指标改善。
+- **适用条件 / 局限** · 初始标注中类别过少会使分类器校准不稳；框坐标和分数仍须可见。
+
+**可复用机制** · 不能读取检测器内部时，用输出框的类别校准不确定性和输入多样性选标注批次。
+
+<a id="paper-lasar-cognitive-map"></a>
+
+## LASAR: Towards Spatio-temporal Reasoning with Latent Cognitive Map
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_LASAR_Towards_Spatio-temporal_Reasoning_with_Latent_Cognitive_Map_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_LASAR_Towards_Spatio-temporal_Reasoning_with_Latent_Cognitive_Map_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 成功复现专家路径不代表能编码跨片段空间关系，距离和拓扑缺少明确监督。
+- **核心创新 / 方法** · 双记忆分别记录经历与认知地图，使用仿真时空标注构造认知问答对比样本。
+- **Baseline** · 表1和基础导航、推理方法对照；表2去掉语义记忆等组件。
+- **Benchmark** · MindCraft 测双负载推理，R2R/RxR 测导航，VSI-Bench 测零样本空间推理。
+- **关键结果 / 消融** · 作者报告导航/空间推理零样本收益约2–3.5%，表2分析记忆组件。
+- **适用条件 / 局限** · 依赖仿真提示覆盖所需空间关系，存在可迁移仿真和真实环境差距。
+
+**可复用机制** · 训练导航智能体时分开存情节记忆和语义地图，再用关系对比目标直接约束地图。
+
+<a id="paper-dream-prototype-memory"></a>
+
+## DREAM: Document Recognition with Explicit Adaptive Memory
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_DREAM_Document_Recognition_with_Explicit_Adaptive_Memory_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_DREAM_Document_Recognition_with_Explicit_Adaptive_Memory_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 隐式权重难显式复用局部字体、布局与边界模式。
+- **核心创新 / 方法** · 局部区域稀疏检索不同分辨率下的原型，并将检索结果和视觉特征一同解码；由注意力加权 EMA 更新原型，以正则阻止坍塌。
+- **Baseline** · 原文比较无新增原型的编码解码器和文档/手写识别方法。
+- **Benchmark** · Fox、DreamDoc 及 SCUT-HCCDoc、SCUT-EPT，检验文档识别和手写识别表现。
+- **关键结果 / 消融** · 原文各基准表报告对照识别指标提升，说明模块可以接入不同编码解码设置。
+- **适用条件 / 局限** · 新域版式缺少重复模式时原型收益可能下降，显著分布变化时需重学记忆。
+
+**可复用机制** · 文档识别反复遇到相似版式时，可为局部视觉块添加多尺度原型记忆。
+
+<a id="paper-yose-essential-tokens"></a>
+
+## YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_YOSE_You_Only_Select_Essential_Tokens_for_Efficient_DiT-based_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_YOSE_You_Only_Select_Essential_Tokens_for_Efficient_DiT-based_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 小掩码也跑全时空网格浪费计算，直接删掉背景则降低前景时序一致性。
+- **核心创新 / 方法** · 可微批内变长索引选取关键 token，DiffSim 近似背景在注意力中的贡献。
+- **Baseline** · MiniMax Remover 等原始去物方法，表2消融 DiffSim 和融合。
+- **Benchmark** · 视频物体移除评测，用 VBench 和背景保真指标，另测480p帧率及掩码比例变化。
+- **关键结果 / 消融** · 文中报告约20%掩码区域时达到约25 FPS，MiniMax Remover 约10 FPS；表2检验近似路径。
+- **适用条件 / 局限** · 优势取决于掩码面积与背景可近似性，广域编辑或图外互相作用可能降低收益。
+
+**可复用机制** · 局部视频编辑只计算掩码内关键 token，并用低成本路径近似掩码外上下文影响。

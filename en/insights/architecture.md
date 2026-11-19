@@ -580,5 +580,8 @@ Model-wide design and information flow.
 - [Unified Camera Positional Encoding for Controlled Video Generation](../../conferences/cvpr-2026/cards.md#paper-unified-camera-positional-encoding)
 - [Rethinking Intermediate Representation for VLM-based Robot Manipulation](../../conferences/cvpr-2026/cards.md#paper-seam)
 - [Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment](../../conferences/cvpr-2026/cards.md#paper-proxy3d)
+- [Temporal Interaction in Spiking Transformers with Multi-Delay Mixer](../../conferences/cvpr-2026/cards.md#paper-md-mixer-spiking-temporal-delays)
+- [Efficient Equivariant Transformer for Self-Driving Agent Modeling](../../conferences/cvpr-2026/cards.md#paper-drivegatr)
+- [DREAM: Document Recognition with Explicit Adaptive Memory](../../conferences/cvpr-2026/cards.md#paper-dream-prototype-memory)
 
 <!-- conference-classification:end -->

@@ -371,5 +371,6 @@
 - [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](../conferences/cvpr-2026/cards.md#paper-bidirectional-wavelet-model-scaling)
 - [Revisiting Unknowns: Towards Effective and Efficient Open-Set Active Learning](../conferences/cvpr-2026/cards.md#paper-e2oal)
 - [PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories](../conferences/cvpr-2026/cards.md#paper-placid-synthetic-trajectories)
+- [Portable Active Learning for Object Detection](../conferences/cvpr-2026/cards.md#paper-portable-active-learning-detection)
 
 <!-- conference-classification:end -->

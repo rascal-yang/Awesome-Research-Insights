@@ -2299,5 +2299,8 @@
 - [MOMO: Mars Orbital MOdel Foundation Model for Mars Orbital Applications](../conferences/cvpr-2026/cards.md#paper-momo-validation-loss-checkpoint-alignment)
 - [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](../conferences/cvpr-2026/cards.md#paper-bidirectional-wavelet-model-scaling)
 - [Revisiting Unknowns: Towards Effective and Efficient Open-Set Active Learning](../conferences/cvpr-2026/cards.md#paper-e2oal)
+- [Deconstructing the Failure of Ideal Noise Correction: A Three-Pillar Diagnosis](../conferences/cvpr-2026/cards.md#paper-ideal-noise-correction-failure)
+- [Efficient Equivariant Transformer for Self-Driving Agent Modeling](../conferences/cvpr-2026/cards.md#paper-drivegatr)
+- [Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for Enhanced Temporal Spiking Features](../conferences/cvpr-2026/cards.md#paper-tre-spiking)
 
 <!-- conference-classification:end -->

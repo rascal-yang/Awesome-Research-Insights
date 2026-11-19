@@ -938,5 +938,9 @@
 - [Mind the Gap: Transferring Labels to Align Object Detection Datasets](../conferences/cvpr-2026/cards.md#paper-label-aligned-transfer)
 - [HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-hicogen-decaying-stochasticity)
 - [From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-nas3r)
+- [Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](../conferences/cvpr-2026/cards.md#paper-3dthinker-distilled-geometry)
+- [Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for Enhanced Temporal Spiking Features](../conferences/cvpr-2026/cards.md#paper-tre-spiking)
+- [Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding](../conferences/cvpr-2026/cards.md#paper-chorus-3dgs)
+- [Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-rewis3d)
 
 <!-- conference-classification:end -->

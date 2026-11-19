@@ -871,5 +871,7 @@
 - [Driving on Registers](../conferences/cvpr-2026/cards.md#paper-drivor-camera-registers)
 - [AstraNav-Memory: Contexts Compression for Long Memory](../conferences/cvpr-2026/cards.md#paper-astranav-memory-compression)
 - [Task-Driven Implicit Representations for Automated Design of LiDAR Systems](../conferences/cvpr-2026/cards.md#paper-implicit-lidar-design)
+- [Paparazzo: Active Mapping of Moving 3D Objects](../conferences/cvpr-2026/cards.md#paper-paparazzo)
+- [LASAR: Towards Spatio-temporal Reasoning with Latent Cognitive Map](../conferences/cvpr-2026/cards.md#paper-lasar-cognitive-map)
 
 <!-- conference-classification:end -->

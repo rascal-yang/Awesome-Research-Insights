@@ -1342,5 +1342,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation](../../conferences/cvpr-2026/cards.md#paper-vde-rectified-flow)
 - [InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-invad-latent-inversion)
 - [Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-log-linear-sparse-attention)
+- [OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-omnizip-audio-guided-pruning)
+- [Paparazzo: Active Mapping of Moving 3D Objects](../../conferences/cvpr-2026/cards.md#paper-paparazzo)
+- [Dynamic Token Reweighting for Robust Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-dtr-safe-token-reweighting)
+- [Residual Diffusion Bridge Model for Image Restoration](../../conferences/cvpr-2026/cards.md#paper-residual-diffusion-bridge)
+- [YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal](../../conferences/cvpr-2026/cards.md#paper-yose-essential-tokens)
 
 <!-- conference-classification:end -->
