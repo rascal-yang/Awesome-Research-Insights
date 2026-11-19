@@ -889,5 +889,7 @@
 - [NeuROK: Generative 4D Neural Object Kinematics](../conferences/cvpr-2026/cards.md#paper-neurok-latent-object-kinematics)
 - [Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation](../conferences/cvpr-2026/cards.md#paper-co-manipulation-simulation-stability)
 - [Resolving the Stability-Plasticity Dilemma in Reinforcement Learning via Complementary Continual Critics](../conferences/cvpr-2026/cards.md#paper-cd-cca)
+- [Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](../conferences/cvpr-2026/cards.md#paper-evo1-staged-vlm-action-alignment)
+- [EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models](../conferences/cvpr-2026/cards.md#paper-energyaction)
 
 <!-- conference-classification:end -->

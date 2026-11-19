@@ -569,5 +569,9 @@
 - [Enhancing Part-Level Point Grounding for Any Open-Source MLLMs](../conferences/cvpr-2026/cards.md#paper-part-grounding-attention-to-point)
 - [Tracking through Severe Occlusion via Event-Derived Transient Cues](../conferences/cvpr-2026/cards.md#paper-evotrack-occlusion-cues)
 - [Inconsistency-aware Multimodal Schrodinger Bridge for Deepfake Localization](../conferences/cvpr-2026/cards.md#paper-iamsb-asymmetric-multimodal-localization)
+- [Variational Graph-based Normal Integration](../conferences/cvpr-2026/cards.md#paper-variational-graph-normal-integration)
+- [Hyperbolic Gramian Volumes for Multimodal Alignment](../conferences/cvpr-2026/cards.md#paper-hypergram-mixed-geometry-alignment)
+- [From Rays to Projections: Better Inputs for Feed-Forward View Synthesis](../conferences/cvpr-2026/cards.md#paper-projective-conditioning-view-synthesis)
+- [NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks](../conferences/cvpr-2026/cards.md#paper-nexusflow)
 
 <!-- conference-classification:end -->

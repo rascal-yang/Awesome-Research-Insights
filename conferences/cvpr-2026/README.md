@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 687 篇，其中 454 篇暂收录、233 篇排除，另有 3,355 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 717 篇，其中 471 篇暂收录、246 篇排除，另有 3,325 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -460,3 +460,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 687 �
 | 多模态学习 | 损失函数与优化 | [GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering](cards.md#paper-glyphprinter-region-grouped-dpo) | 视觉生成的瑕疵局部集中时，将偏好比较分组到区域，不让全图得分稀释字形错误。 |
 | 机器学习基础 | 模型架构 | [CHEEM: Continual Learning by Reuse, New, Adapt and Skip - A Hierarchical Exploration-Exploitation Approach](cards.md#paper-cheem-hierarchical-continual-learning) | 持续学习为每个任务分别选择层的复用、新建、适配或跳过，显式平衡旧知识与容量。 |
 | 计算机视觉 | 迁移与泛化 | [Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation](cards.md#paper-ovrcoat) | 开放词汇检测分别校准前景提议和区域文本分类，防止新类别在分类前被筛掉。 |
+| 多模态学习 | 评估与诊断 | [Relational Visual Similarity](cards.md#paper-relational-visual-similarity-structural-metric) | 评估类比编辑时，把部件关系是否保持作为独立指标。表 2 显示关系得分与外观得分会出现不同排序。 |
+| 机器人学 | 训练策略 | [Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](cards.md#paper-evo1-staged-vlm-action-alignment) | 接入新动作头时，可比较先冻结语义骨干对齐动作头、再联合微调，与一开始联合训练的差异。见图 7 和图 8(b)。 |
+| 计算机视觉 | 三维重建与几何建模 | [Variational Graph-based Normal Integration](cards.md#paper-variational-graph-normal-integration) | 对不规则域上的法线积分，可用区分可连续边与深度断裂边的后验，检验是否改善边界误差。见表 2。 |
+| 计算机视觉 | 鲁棒性与安全 | [ReMoE: Region-Mixture Experts for Adversarially-Robust Vision Transformers](cards.md#paper-remoe-region-aware-defensive-vision) | 设计防御性视觉骨干时，可比较区域与全局特征建模，并在干净准确率之外单列鲁棒准确率。见表 4。 |
+| 多模态学习 | 表征学习 | [Hyperbolic Gramian Volumes for Multimodal Alignment](cards.md#paper-hypergram-mixed-geometry-alignment) | 多模态高阶对齐可消融欧氏和双曲 Gram 体积，并比较可学习混合权重对双向检索的影响。见表 4、5。 |
+| 智能体 | 评估与诊断 | [ProSoftArena: Benchmarking Hierarchical Capabilities of Multi-modal Agents in Professional Software Environments](cards.md#paper-prosoftarena-hierarchical-agent-evaluation) | 评估专业软件智能体时，单列软件内与跨软件的执行成功率，避免简单交互覆盖掉复杂工作流的低成功率。见表 3。 |
+| 多模态学习 | 推理策略 | [DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs](cards.md#paper-dynamicgtr-query-adaptive-graph-rendering) | 图推理先按任务与模型选择输入表示，再用准确率和词元量对比固定格式。见表 4。 |
+| 计算机视觉 | 模型架构 | [OpenVO: Open-World Visual Odometry with Temporal Dynamics Awareness](cards.md#paper-openvo) | 从不同帧率的视频估计运动时显式输入帧间时间，并按未见帧率和相机配置验收。 |
+| 计算机视觉 | 模型架构 | [Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs](cards.md#paper-hg-i2p) | 跨模态配准可用区域级异构图一起校正特征及局部对应，再核查图条件是否保留有效匹配。 |
+| 多模态学习 | 推理压缩 | [ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](cards.md#paper-zoo-prune) | 裁剪视觉词元前用轻量投影层的零阶响应估计敏感度，并比较直接利用注意分数。 |
+| 计算机视觉 | 训练策略 | [OntoAug: Rethinking Generative Data Augmentation via Ontology Guidance](cards.md#paper-ontoaug) | 图像增强应优先保持主体语义，分开控制背景变化，再验收标签漂移。 |
+| 机器人学 | 训练策略 | [EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models](cards.md#paper-energyaction) | 双臂示范少时可分别利用单臂策略的能量并学习协调约束，再与双臂直接训练对照。 |
+| 机器学习基础与统计 | 训练策略 | [Immunizing Models Against Harmful Long-Horizon Fine-Tuning via Contractive Optimization Dynamics](cards.md#paper-clamp-defense) | 防御性模型保护应把长程微调纳入验收，短程表现不足以代表持续保护。 |
+| 计算机视觉 | 表示学习 | [From Rays to Projections: Better Inputs for Feed-Forward View Synthesis](cards.md#paper-projective-conditioning-view-synthesis) | 前馈新视角生成用目标图像平面的投影线索替代世界坐标射线。 |
+| 机器学习基础 | 表示学习 | [NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks](cards.md#paper-nexusflow) | 多任务标注不重叠时，以可逆坐标变换对齐特征，避免对齐损失直接丢弃原信息。 |
+| 计算机视觉 | 训练与数据策略 | [MDS-VQA: Model-Informed Data Selection for Video Quality Assessment](cards.md#paper-mds-vqa) | 制定小规模新域标注预算时，以排序预测模型失败程度，再用语义多样性避免重复采样。 |
+| 多模态学习 | 损失函数与优化 | [Aligning Multi-Character Narrative Image Generation with Multi-Aspect Human Preferences](cards.md#paper-adpo-multi-aspect-preferences) | 多目标生成偏好不一致时，用维度优势和奖励边际分配训练强度。 |

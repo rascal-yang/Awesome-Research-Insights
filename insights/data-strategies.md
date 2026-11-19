@@ -384,5 +384,6 @@
 - [Agile Deliberation: Concept Deliberation for Subjective Visual Classification](../conferences/cvpr-2026/cards.md#paper-agile-deliberation)
 - [Generalizable Video Quality Assessment via Weak-to-Strong Learning](../conferences/cvpr-2026/cards.md#paper-weak-to-strong-video-quality)
 - [DiG: Differential Grounding for Enhancing Fine-Grained Perception in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-dig-differential-grounding)
+- [MDS-VQA: Model-Informed Data Selection for Video Quality Assessment](../conferences/cvpr-2026/cards.md#paper-mds-vqa)
 
 <!-- conference-classification:end -->

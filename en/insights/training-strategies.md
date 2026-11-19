@@ -980,5 +980,9 @@ Training schedules, curricula, and task or stage composition.
 - [PACT: Phase-Like Transition Constraints in Adapter-Based Continual Learning of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pact-continuous-adapters)
 - [Recurrent Video Masked Autoencoders](../../conferences/cvpr-2026/cards.md#paper-recurrent-video-mae)
 - [Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation](../../conferences/cvpr-2026/cards.md#paper-ovrcoat)
+- [Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](../../conferences/cvpr-2026/cards.md#paper-evo1-staged-vlm-action-alignment)
+- [OntoAug: Rethinking Generative Data Augmentation via Ontology Guidance](../../conferences/cvpr-2026/cards.md#paper-ontoaug)
+- [EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models](../../conferences/cvpr-2026/cards.md#paper-energyaction)
+- [Immunizing Models Against Harmful Long-Horizon Fine-Tuning via Contractive Optimization Dynamics](../../conferences/cvpr-2026/cards.md#paper-clamp-defense)
 
 <!-- conference-classification:end -->

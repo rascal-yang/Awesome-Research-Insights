@@ -6811,3 +6811,258 @@
 - **适用条件 / 局限** · 若模型从未提出该对象的候选掩码，后置校准无法恢复；文本词汇质量仍影响表现。
 
 **可复用机制** · 开放词汇检测分别校准前景提议和区域文本分类，防止新类别在分类前被筛掉。
+
+<a id="paper-relational-visual-similarity-structural-metric"></a>
+
+## Relational Visual Similarity
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Nguyen_Relational_Visual_Similarity_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Nguyen_Relational_Visual_Similarity_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 类比编辑要求保持功能和部件关系，常用语义和外观相似度对这项要求不敏感。
+- **核心创新 / 方法** · 从 LAION-2B 筛出约 11.5 万张图及其关系描述，以对应的关系监督学习可独立使用的视觉关系相似度。
+- **Baseline** · 编辑系统与 FLUX-Kontext 等比较，评估同时报告 LPIPS、CLIP 和关系得分。
+- **Benchmark** · 类比图像编辑，表 2 报告 LPIPS、CLIP 及关系相似度。
+- **关键结果 / 消融** · Example Output 的 LPIPS、CLIP、关系得分为 0.60、0.66、0.88，分数分化说明关系排序可以区别于外观排序。
+- **适用条件 / 局限** · 关系监督依赖筛选出的关系及其描述，应用于新领域应由人检查关系分数是否对应当地功能要求。
+
+**可复用机制** · 评估类比编辑时，把部件关系是否保持作为独立指标。表 2 显示关系得分与外观得分会出现不同排序。
+
+<a id="paper-evo1-staged-vlm-action-alignment"></a>
+
+## Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_Evo-1_Lightweight_Vision-Language-Action_Model_with_Preserved_Semantic_Alignment_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Evo-1_Lightweight_Vision-Language-Action_Model_with_Preserved_Semantic_Alignment_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 小型视觉语言动作模型在动作模块初次接入时可能丢失预训练语义能力。
+- **核心创新 / 方法** · 先冻结视觉语言骨干，只训练动作专家和集成模块，待两者对齐后解冻共同微调。
+- **Baseline** · 同架构单阶段联合训练用于隔离训练顺序，效率和真实成功率与 SmolVLA、OpenVLA、π0 比较。
+- **Benchmark** · Meta-World、LIBERO、RoboTwin 模拟任务，以及有干扰物、背景与位置变化的真实任务；指标为任务成功率、显存和推理频率。
+- **关键结果 / 消融** · 图 8(b) 中两阶段优于单阶段的各难度组。表 2 的整套 Evo-1 达 78.0% 成功率、16.4 Hz 和 2.3 GB，π0 为 73.0%、11.5 Hz 和 17.9 GB。
+- **适用条件 / 局限** · 阶段调度依赖可保留的预训练骨干和动作模块，整套系统的速度不能单独归因给训练顺序。
+
+**可复用机制** · 接入新动作头时，可比较先冻结语义骨干对齐动作头、再联合微调，与一开始联合训练的差异。见图 7 和图 8(b)。
+
+<a id="paper-variational-graph-normal-integration"></a>
+
+## Variational Graph-based Normal Integration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Variational_Graph-based_Normal_Integration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Variational_Graph-based_Normal_Integration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 表面法线积分面对不规则像素域和深度断裂，统一施加连续性会平滑错误边界。
+- **核心创新 / 方法** · 在有向加权图上用投影点到平面目标重建深度，交替优化深度及区分连续与断裂的混合后验。
+- **Baseline** · 比较 Bilateral Normal Integration、IPF 和 MD。
+- **Benchmark** · DiLiGenT-MV 渲染法线图的正面及侧面形状重建，报告平均绝对深度误差。
+- **关键结果 / 消融** · 表 2 侧视牛的 GNI 为 0.36，BiNI 为 9.84；侧视佛像 GNI 为 4.04，BiNI 为 3.81，收益随形状变化。
+- **适用条件 / 局限** · 需要法线估计和与模型相符的成像条件；侧视个例已有相对退化。
+
+**可复用机制** · 对不规则域上的法线积分，可用区分可连续边与深度断裂边的后验，检验是否改善边界误差。见表 2。
+
+<a id="paper-remoe-region-aware-defensive-vision"></a>
+
+## ReMoE: Region-Mixture Experts for Adversarially-Robust Vision Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_ReMoE_Region-Mixture_Experts_for_Adversarially-Robust_Vision_Transformers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_ReMoE_Region-Mixture_Experts_for_Adversarially-Robust_Vision_Transformers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 局部图像信息损坏会扩散到视觉 Transformer 的分类结果。
+- **核心创新 / 方法** · 用覆盖不同空间范围的专家处理视觉特征，同时保留区域特征和全局语义。
+- **Baseline** · DeiT-T 的标准鲁棒训练作为基线，分别移除区域、全局和中心专家作消融。
+- **Benchmark** · CIFAR-10、ImageNet 图像分类，作者报告干净与鲁棒准确率。
+- **关键结果 / 消融** · 表 4 的 DeiT-T/CIFAR-10 干净准确率从 79.84% 到 83.52%，一项综合鲁棒评测从 44.90% 到 48.93%；三种专家各自去除时该鲁棒分数下降。
+- **适用条件 / 局限** · 评估集中于视觉分类和论文设置中的损坏与扰动模型，跨任务迁移未由本消融验证。
+
+**可复用机制** · 设计防御性视觉骨干时，可比较区域与全局特征建模，并在干净准确率之外单列鲁棒准确率。见表 4。
+
+<a id="paper-hypergram-mixed-geometry-alignment"></a>
+
+## Hyperbolic Gramian Volumes for Multimodal Alignment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Na_Hyperbolic_Gramian_Volumes_for_Multimodal_Alignment_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Na_Hyperbolic_Gramian_Volumes_for_Multimodal_Alignment_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 归一化嵌入的欧氏体积对部分高阶关系压缩过强，纯双曲几何也可能牺牲跨类别区分。
+- **核心创新 / 方法** · 学习融合权重，将欧氏与 Lorentz 双曲 Gram 体积同时用于高阶跨模态对齐。
+- **Baseline** · VAST、欧氏 GRAM，以及中间的几何曲率、纯双曲和不同模态组合消融。
+- **Benchmark** · MSR-VTT 零样本文本检索视频和视频检索文本，比较 R@1。
+- **关键结果 / 消融** · 表 4 混合几何双向 R@1 为 0.566、0.536，欧氏版为 0.548、0.521，纯双曲为 0.548、0.525。
+- **适用条件 / 局限** · 曲率与模态组合影响收益，二模态提升较小；增加模态时需单独衡量高阶计算开销。
+
+**可复用机制** · 多模态高阶对齐可消融欧氏和双曲 Gram 体积，并比较可学习混合权重对双向检索的影响。见表 4、5。
+
+<a id="paper-prosoftarena-hierarchical-agent-evaluation"></a>
+
+## ProSoftArena: Benchmarking Hierarchical Capabilities of Multi-modal Agents in Professional Software Environments
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ai_ProSoftArena_Benchmarking_Hierarchical_Capabilities_of_Multi-modal_Agents_in_Professional_Software_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ai_ProSoftArena_Benchmarking_Hierarchical_Capabilities_of_Multi-modal_Agents_in_Professional_Software_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 低级界面操作的成功无法说明智能体能完成完整的专业工作流。
+- **核心创新 / 方法** · 把可执行任务按能力分层并分别计算完成率，定位从单项交互到跨软件过程的失效位置。
+- **Baseline** · 比较 GPT 与 Claude 系列智能体及截图、可访问性树、SoM 等输入组合。
+- **Benchmark** · ProSoftArena 的 456 个任务覆盖 6 个学科与 13 种专业软件，以分层完成率衡量执行。
+- **关键结果 / 消融** · 表 3 最优 L2 软件级成功率为 20.6%，测试智能体在 L3 跨软件任务的成功率为 0%。
+- **适用条件 / 局限** · 分层结果取决于任务构成和试验工具配置，不能外推到未测软件或所有开放式工作流。
+
+**可复用机制** · 评估专业软件智能体时，单列软件内与跨软件的执行成功率，避免简单交互覆盖掉复杂工作流的低成功率。见表 3。
+
+<a id="paper-dynamicgtr-query-adaptive-graph-rendering"></a>
+
+## DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wei_DynamicGTR_Leveraging_Graph_Topology_Representation_Preferences_to_Boost_VLM_Capabilities_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_DynamicGTR_Leveraging_Graph_Topology_Representation_Preferences_to_Boost_VLM_Capabilities_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一使用邻接文本或图像渲染可能使模型难以读取所需图结构，也可能浪费词元。
+- **核心创新 / 方法** · DynamicGTR 在模型和问题层面选用文本格式或图像表示，借此调整模型可见的结构信息。
+- **Baseline** · 比较普通输入、固定的 GITA 表示及动态选择设置。
+- **Benchmark** · 使用六个真实图数据集以及合成图任务，报告准确率与表 4 的词元量。
+- **关键结果 / 消融** · 表 4 的 GPT-4o/Cora 普通、GITA、DynamicGTR 三组准确率为 52.2%、56.8%、64.5%，相应词元量为 228.5、184.4、99.2。
+- **适用条件 / 局限** · 输入选择依赖目标模型、图规模和查询类型，模型或数据变化时应重复验证准确率及开销。
+
+**可复用机制** · 图推理先按任务与模型选择输入表示，再用准确率和词元量对比固定格式。见表 4。
+
+<a id="paper-openvo"></a>
+
+## OpenVO: Open-World Visual Odometry with Temporal Dynamics Awareness
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Nguyen_OpenVO_Open-World_Visual_Odometry_with_Temporal_Dynamics_Awareness_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Nguyen_OpenVO_Open-World_Visual_Odometry_with_Temporal_Dynamics_Awareness_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 定帧率训练会把位移与采样间隔混淆，依赖相机标定也限制公开视频复用。
+- **核心创新 / 方法** · 在单目里程计中编码观测时刻并适配未标定相机。
+- **Baseline** · 正文表1对照已有里程计，表2–3拆分时间编码和训练频率。
+- **Benchmark** · 三项大规模驾驶基准，按度量平移及旋转误差评估。
+- **关键结果 / 消融** · 正文报告跨未见帧率与相机配置的结果，并对训练频率做消融。
+- **适用条件 / 局限** · 远离训练速度、减帧模式及光照时需复测。
+
+**可复用机制** · 从不同帧率的视频估计运动时显式输入帧间时间，并按未见帧率和相机配置验收。
+
+<a id="paper-hg-i2p"></a>
+
+## Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/An_Hg-I2P_Bridging_Modalities_for_Generalizable_Image-to-Point-Cloud_Registration_via_Heterogeneous_Graphs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/An_Hg-I2P_Bridging_Modalities_for_Generalizable_Image-to-Point-Cloud_Registration_via_Heterogeneous_Graphs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 二维图像和三维点云的特征域不同，独立提取后容易得到不一致匹配。
+- **核心创新 / 方法** · 以分割的二维及三维区域为节点，用跨区域边传递特征并过滤不一致对应。
+- **Baseline** · 比较已有二维三维配准及图组件变体。
+- **Benchmark** · 正文表1–3包括7-Scenes、ScanNet和跨数据评测。
+- **关键结果 / 消融** · 正文分开报告跨场景与跨数据设置中的配准表现。
+- **适用条件 / 局限** · 区域分割及图边构造错误可能同时损伤两路特征，域外需独立验。
+
+**可复用机制** · 跨模态配准可用区域级异构图一起校正特征及局部对应，再核查图条件是否保留有效匹配。
+
+<a id="paper-zoo-prune"></a>
+
+## ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_ZOO-Prune_Training-Free_Token_Pruning_via_Zeroth-Order_Gradient_Estimation_in_Vision-Language_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_ZOO-Prune_Training-Free_Token_Pruning_via_Zeroth-Order_Gradient_Estimation_in_Vision-Language_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅按注意或多样性裁剪可能丢掉影响输出的图像区域。
+- **核心创新 / 方法** · 以小扰动测量投影处的敏感度，作为免训练词元裁剪信号。
+- **Baseline** · 与注意力、多样性及不裁剪基线比较。
+- **Benchmark** · 正文表1–3覆盖 LLaVA-1.5、LLaVA-NeXT 和 Qwen2.5-VL 的多模态测试。
+- **关键结果 / 消融** · 正文对照多个骨干和保留预算的准确率表现。
+- **适用条件 / 局限** · 零阶探针需控制额外开销，局部敏感也未必对应跨轮视觉证据。
+
+**可复用机制** · 裁剪视觉词元前用轻量投影层的零阶响应估计敏感度，并比较直接利用注意分数。
+
+<a id="paper-ontoaug"></a>
+
+## OntoAug: Rethinking Generative Data Augmentation via Ontology Guidance
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_OntoAug_Rethinking_Generative_Data_Augmentation_via_Ontology_Guidance_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_OntoAug_Rethinking_Generative_Data_Augmentation_via_Ontology_Guidance_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全图同幅度生成增强可能连类别主体一起改变。
+- **核心创新 / 方法** · 按类别本体区分前景及上下文，对两者施加不同条件的增强。
+- **Baseline** · 对照常规增强、结合 Mix 增强以及不同骨干。
+- **Benchmark** · 正文表1–3在图像分类上比较 ResNet-50、ViT 的 Top-1。
+- **关键结果 / 消融** · 正文分别报告从头训练与混合增强的表现。
+- **适用条件 / 局限** · 需要稳定主体分离，场景本身决定标签时不能把背景任意替换。
+
+**可复用机制** · 图像增强应优先保持主体语义，分开控制背景变化，再验收标签漂移。
+
+<a id="paper-energyaction"></a>
+
+## EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_EnergyAction_Unimanual_to_Bimanual_Composition_with_Energy-Based_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_EnergyAction_Unimanual_to_Bimanual_Composition_with_Energy-Based_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单臂策略有较多训练数据，但直接并行不能保证双臂协作。
+- **核心创新 / 方法** · 以能量模型表示单臂策略并组合，加入双臂协调。
+- **Baseline** · 比较直接双臂训练及去掉各组合组件的变体。
+- **Benchmark** · RLBench2 上20与100条演示，正文表1报告三次种子平均任务成功率。
+- **关键结果 / 消融** · 正文表1–2分别检查低示范预算与组件贡献。
+- **适用条件 / 局限** · 两臂任务必须能部分因子化，强接触和共同负载时需专门协调示范。
+
+**可复用机制** · 双臂示范少时可分别利用单臂策略的能量并学习协调约束，再与双臂直接训练对照。
+
+<a id="paper-clamp-defense"></a>
+
+## Immunizing Models Against Harmful Long-Horizon Fine-Tuning via Contractive Optimization Dynamics
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sarker_Immunizing_Models_Against_Harmful_Long-Horizon_Fine-Tuning_via_Contractive_Optimization_Dynamics_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sarker_Immunizing_Models_Against_Harmful_Long-Horizon_Fine-Tuning_via_Contractive_Optimization_Dynamics_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 初始状态看似稳健的保护可能在许多次更新后退化。
+- **核心创新 / 方法** · 通过约束受保护模型的微调动力学，尝试限制长期退化速度。
+- **Baseline** · 对照既有保护与未保护模型，分别考察正常用途及防护保持。
+- **Benchmark** · 正文表1–3包含分类、扩散和自回归模型的防御评测。
+- **关键结果 / 消融** · 正文报告长程保护评测，并以若干模型家族检查迁移。
+- **适用条件 / 局限** · 依赖所测训练条件，不能用短次测试或单模型保证其他部署范围。
+
+**可复用机制** · 防御性模型保护应把长程微调纳入验收，短程表现不足以代表持续保护。
+
+<a id="paper-projective-conditioning-view-synthesis"></a>
+
+## From Rays to Projections: Better Inputs for Feed-Forward View Synthesis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_From_Rays_to_Projections_Better_Inputs_for_Feed-Forward_View_Synthesis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_From_Rays_to_Projections_Better_Inputs_for_Feed-Forward_View_Synthesis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · Plücker 射线表示绑在任选世界坐标系上，对小幅相机变换敏感。
+- **核心创新 / 方法** · 用目标视图投影线索进行图像到图像建模，另设计掩码预训练以利用未标定数据。
+- **Baseline** · 射线条件模型、前馈三维高斯模型，RealEstate10K 对照包含 RayZer。
+- **Benchmark** · 四种相机变换的一致性评测与 RealEstate10K 新视角任务，另分已见和未见像素。
+- **关键结果 / 消融** · 表1显示投影输入更稳，表2–3比较新视角质量及覆盖区域。
+- **适用条件 / 局限** · 投影输入受相机或几何信息质量制约，极低共视时需依赖生成先验。
+
+**可复用机制** · 前馈新视角生成用目标图像平面的投影线索替代世界坐标射线。
+
+<a id="paper-nexusflow"></a>
+
+## NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_NexusFlow_Unifying_Disparate_Tasks_under_Partial_Supervision_via_Invertible_Flow_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_NexusFlow_Unifying_Disparate_Tasks_under_Partial_Supervision_via_Invertible_Flow_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 异构任务输出结构不同，共享训练信号难在无对应标签下获得。
+- **核心创新 / 方法** · 以双射耦合层将各任务特征变换到规范空间，用可逆约束保留信息。
+- **Baseline** · 与原多任务框架以及去掉可逆对齐的配置比较。
+- **Benchmark** · 驾驶域划分下在线地图和多目标追踪，测分割 IoU、跟踪性能及特征 MMD，另测同构环境。
+- **关键结果 / 消融** · 表1–3报告表示对齐和两任务的结果，检验耦合层贡献。
+- **适用条件 / 局限** · 双射只保证可逆性，任务独有信息是否利于共享仍需实测。
+
+**可复用机制** · 多任务标注不重叠时，以可逆坐标变换对齐特征，避免对齐损失直接丢弃原信息。
+
+<a id="paper-mds-vqa"></a>
+
+## MDS-VQA: Model-Informed Data Selection for Video Quality Assessment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zou_MDS-VQA_Model-Informed_Data_Selection_for_Video_Quality_Assessment_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_MDS-VQA_Model-Informed_Data_Selection_for_Video_Quality_Assessment_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 目标域随机标注可能错过当前模型难例，单追难例又会集中在少数重复内容。
+- **核心创新 / 方法** · 以排序目标训练错误预测器，贪心选同时覆盖高难度与内容多样性的视频。
+- **Baseline** · 表2比较八种失败预测方法，表3同样5%预算比较标注选择。
+- **Benchmark** · CGVDS、LIVE-Livestream、YouTube-SFV、AIGVQA-DB 等，报告 SRCC、PLCC 和 gMAD。
+- **关键结果 / 消融** · 作者报告按目标域只选5%，均值 SRCC 从0.651至0.722。
+- **适用条件 / 局限** · 需要初始带质量标注的信息学习失败预测；新域失败模式不总能被旧模型识别。
+
+**可复用机制** · 制定小规模新域标注预算时，以排序预测模型失败程度，再用语义多样性避免重复采样。
+
+<a id="paper-adpo-multi-aspect-preferences"></a>
+
+## Aligning Multi-Character Narrative Image Generation with Multi-Aspect Human Preferences
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Aligning_Multi-Character_Narrative_Image_Generation_with_Multi-Aspect_Human_Preferences_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_Aligning_Multi-Character_Narrative_Image_Generation_with_Multi-Aspect_Human_Preferences_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单一奖励难同时代表提示遵循、身份和画质，强弱偏好也容易混同。
+- **核心创新 / 方法** · 用分维度人类批评训练奖励模型，再根据维度支配关系及分差做自适应偏好优化。
+- **Baseline** · 基础扩散模型、已有评价信号及去掉 ADPO 组件的对照。
+- **Benchmark** · NI-RLHF 训练，NI-Bench 测偏好准确率，另报告美学、提示遵循、身份一致、视觉质量。
+- **关键结果 / 消融** · 表1–3比较分维度奖励及训练结果，并做方法消融。
+- **适用条件 / 局限** · 人类维度选择和奖励校准影响取舍，维度常冲突时不保证各项皆提高。
+
+**可复用机制** · 多目标生成偏好不一致时，用维度优势和奖励边际分配训练强度。

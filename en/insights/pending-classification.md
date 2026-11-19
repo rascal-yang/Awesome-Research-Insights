@@ -762,4 +762,8 @@
 - [WURI: Watching Unfolding Risk in Agent Interactions](../../conferences/neurips-2026/cards-0013.md#paper-150879)
 - [X2HDR: HDR Image Generation in a Perceptually Uniform Space](../../conferences/neurips-2026/cards-0013.md#paper-148447)
 
+## CVPR 2026 (provisional)
+
+- [ReMoE: Region-Mixture Experts for Adversarially-Robust Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-remoe-region-aware-defensive-vision)
+
 <!-- conference-classification:end -->

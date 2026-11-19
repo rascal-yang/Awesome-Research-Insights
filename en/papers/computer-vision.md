@@ -1123,5 +1123,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [Lens Component Deletion based on Differentiable Ray Tracing](../../conferences/cvpr-2026/cards.md#paper-lens-component-deletion)
 - [NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-nvgs-neural-visibility)
 - [Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation](../../conferences/cvpr-2026/cards.md#paper-ovrcoat)
+- [Variational Graph-based Normal Integration](../../conferences/cvpr-2026/cards.md#paper-variational-graph-normal-integration)
+- [ReMoE: Region-Mixture Experts for Adversarially-Robust Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-remoe-region-aware-defensive-vision)
+- [OpenVO: Open-World Visual Odometry with Temporal Dynamics Awareness](../../conferences/cvpr-2026/cards.md#paper-openvo)
+- [Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs](../../conferences/cvpr-2026/cards.md#paper-hg-i2p)
+- [OntoAug: Rethinking Generative Data Augmentation via Ontology Guidance](../../conferences/cvpr-2026/cards.md#paper-ontoaug)
+- [From Rays to Projections: Better Inputs for Feed-Forward View Synthesis](../../conferences/cvpr-2026/cards.md#paper-projective-conditioning-view-synthesis)
+- [MDS-VQA: Model-Informed Data Selection for Video Quality Assessment](../../conferences/cvpr-2026/cards.md#paper-mds-vqa)
 
 <!-- conference-classification:end -->

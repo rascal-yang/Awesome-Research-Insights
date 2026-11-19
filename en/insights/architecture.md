@@ -606,5 +606,7 @@ Model-wide design and information flow.
 - [OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-onecat-scale-aware-autoregression)
 - [FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts](../../conferences/cvpr-2026/cards.md#paper-foleydirector-temporal-audio-scripts)
 - [CHEEM: Continual Learning by Reuse, New, Adapt and Skip - A Hierarchical Exploration-Exploitation Approach](../../conferences/cvpr-2026/cards.md#paper-cheem-hierarchical-continual-learning)
+- [OpenVO: Open-World Visual Odometry with Temporal Dynamics Awareness](../../conferences/cvpr-2026/cards.md#paper-openvo)
+- [Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs](../../conferences/cvpr-2026/cards.md#paper-hg-i2p)
 
 <!-- conference-classification:end -->

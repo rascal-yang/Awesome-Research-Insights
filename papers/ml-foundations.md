@@ -2321,5 +2321,7 @@
 - [HCL-FF: Hierarchical and Contrastive Learning for Forward-Forward Algorithm](../conferences/cvpr-2026/cards.md#paper-hcl-ff-local-hierarchical-training)
 - [Vision-Oriented Lightweight Neural Architecture Search with Budget-Adaptive Evaluation](../conferences/cvpr-2026/cards.md#paper-budget-adaptive-micro-task-nas)
 - [CHEEM: Continual Learning by Reuse, New, Adapt and Skip - A Hierarchical Exploration-Exploitation Approach](../conferences/cvpr-2026/cards.md#paper-cheem-hierarchical-continual-learning)
+- [Immunizing Models Against Harmful Long-Horizon Fine-Tuning via Contractive Optimization Dynamics](../conferences/cvpr-2026/cards.md#paper-clamp-defense)
+- [NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks](../conferences/cvpr-2026/cards.md#paper-nexusflow)
 
 <!-- conference-classification:end -->

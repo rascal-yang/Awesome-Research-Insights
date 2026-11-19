@@ -1377,5 +1377,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Boosting Reasoning in Large Multimodal Models via Activation Replay](../../conferences/cvpr-2026/cards.md#paper-activation-replay)
 - [ViTPrompt: Training-Free Prompt Refinement with Visual Tokens for Open-Vocabulary Detection](../../conferences/cvpr-2026/cards.md#paper-vitprompt-test-time-visual-box-refresh)
 - [NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-nvgs-neural-visibility)
+- [DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs](../../conferences/cvpr-2026/cards.md#paper-dynamicgtr-query-adaptive-graph-rendering)
+- [ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-zoo-prune)
 
 <!-- conference-classification:end -->

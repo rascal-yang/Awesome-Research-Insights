@@ -1447,5 +1447,7 @@
 - [Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection](../conferences/cvpr-2026/cards.md#paper-care-dual-modal-safety-evaluation)
 - [Beyond Caption-Based Queries in Video Moment Retrieval](../conferences/cvpr-2026/cards.md#paper-beyond-caption-video-moment-retrieval)
 - [Vision-Oriented Lightweight Neural Architecture Search with Budget-Adaptive Evaluation](../conferences/cvpr-2026/cards.md#paper-budget-adaptive-micro-task-nas)
+- [Relational Visual Similarity](../conferences/cvpr-2026/cards.md#paper-relational-visual-similarity-structural-metric)
+- [ProSoftArena: Benchmarking Hierarchical Capabilities of Multi-modal Agents in Professional Software Environments](../conferences/cvpr-2026/cards.md#paper-prosoftarena-hierarchical-agent-evaluation)
 
 <!-- conference-classification:end -->

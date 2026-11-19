@@ -1006,5 +1006,10 @@
 - [PACT: Phase-Like Transition Constraints in Adapter-Based Continual Learning of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-pact-continuous-adapters)
 - [Beyond Caption-Based Queries in Video Moment Retrieval](../conferences/cvpr-2026/cards.md#paper-beyond-caption-video-moment-retrieval)
 - [GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering](../conferences/cvpr-2026/cards.md#paper-glyphprinter-region-grouped-dpo)
+- [Relational Visual Similarity](../conferences/cvpr-2026/cards.md#paper-relational-visual-similarity-structural-metric)
+- [Hyperbolic Gramian Volumes for Multimodal Alignment](../conferences/cvpr-2026/cards.md#paper-hypergram-mixed-geometry-alignment)
+- [DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs](../conferences/cvpr-2026/cards.md#paper-dynamicgtr-query-adaptive-graph-rendering)
+- [ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-zoo-prune)
+- [Aligning Multi-Character Narrative Image Generation with Multi-Aspect Human Preferences](../conferences/cvpr-2026/cards.md#paper-adpo-multi-aspect-preferences)
 
 <!-- conference-classification:end -->
