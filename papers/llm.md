@@ -2452,5 +2452,6 @@
 - [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-crossha-agent-action-granularity)
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](../conferences/cvpr-2026/cards.md#paper-focusui-position-preserving-selection)
 - [JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](../conferences/cvpr-2026/cards.md#paper-jarvisevo-joint-editor-evaluator-optimization)
+- [ShowUI-p: Flow-based Generative Models as GUI Dexterous Hands](../conferences/cvpr-2026/cards.md#paper-showui-p-continuous-actions)
 
 <!-- conference-classification:end -->

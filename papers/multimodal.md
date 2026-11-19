@@ -1406,5 +1406,9 @@
 - [Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models](../conferences/cvpr-2026/cards.md#paper-aot-video-token-reduction)
 - [OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging](../conferences/cvpr-2026/cards.md#paper-omnifm-low-frequency-global-knowledge)
 - [Rethinking Cross-Modal Anchor Alignment for Mitigating Error Accumulation](../conferences/cvpr-2026/cards.md#paper-gsl-geometric-cross-modal-anchor-correction)
+- [CountGD++: Generalized Prompting for Open-World Counting](../conferences/cvpr-2026/cards.md#paper-positive-negative-exemplar-counting)
+- [How Far Can We Go With Synthetic Data for Audio-Visual Sound Source Localization?](../conferences/cvpr-2026/cards.md#paper-synthetic-audiovisual-clones)
+- [Global-Graph Guided and Local-Graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data](../conferences/cvpr-2026/cards.md#paper-global-local-graph-contrastive)
+- [See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](../conferences/cvpr-2026/cards.md#paper-artiagent-localized-synthetic-artifact-pairs)
 
 <!-- conference-classification:end -->

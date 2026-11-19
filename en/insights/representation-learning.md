@@ -730,5 +730,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [RINO: Rotation-Invariant Non-Rigid Correspondences](../../conferences/cvpr-2026/cards.md#paper-rino-so3-invariant-nonrigid-correspondence)
 - [SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](../../conferences/cvpr-2026/cards.md#paper-swiftvla-future-trained-fusion-tokens)
 - [Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection](../../conferences/cvpr-2026/cards.md#paper-frequency-coherence-shared-private-fusion)
+- [SceneTok: A Compressed, Diffusable Token Space for 3D Scenes](../../conferences/cvpr-2026/cards.md#paper-scenetok-unordered-compressed-view-tokens)
 
 <!-- conference-classification:end -->

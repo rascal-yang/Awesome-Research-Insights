@@ -799,5 +799,6 @@
 - [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](../conferences/cvpr-2026/cards.md#paper-higrpo-token-and-semantic-policy-optimization)
 - [JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](../conferences/cvpr-2026/cards.md#paper-jarvisevo-joint-editor-evaluator-optimization)
 - [Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage](../conferences/cvpr-2026/cards.md#paper-instance-schedules-james-stein-reinforce)
+- [DRM: Diffusion-based Reward Model With Step-wise Guidance](../conferences/cvpr-2026/cards.md#paper-drm-intermediate-latent-stepwise-reward)
 
 <!-- conference-classification:end -->

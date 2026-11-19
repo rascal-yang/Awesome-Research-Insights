@@ -721,5 +721,9 @@ Model-wide design and information flow.
 - [EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement](../../conferences/cvpr-2026/cards.md#paper-efficientvpr)
 - [VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-vqrae-unified-tokenizer)
 - [Spatiotemporal Pyramid Flow Matching for Climate Emulation](../../conferences/cvpr-2026/cards.md#paper-spatiotemporal-pyramid-flow)
+- [WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling](../../conferences/cvpr-2026/cards.md#paper-joint-4d-geometry-rgb-video-generation)
+- [Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-entropy-budgeted-off-grid-primitives)
+- [Learning Compact 3D Representations from Feed-Forward Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-c3g-compact-gaussians)
+- [ShowUI-p: Flow-based Generative Models as GUI Dexterous Hands](../../conferences/cvpr-2026/cards.md#paper-showui-p-continuous-actions)
 
 <!-- conference-classification:end -->

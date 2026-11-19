@@ -479,5 +479,7 @@ Objectives, auxiliary supervision, and regularization.
 - [LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization](../../conferences/cvpr-2026/cards.md#paper-leader-truncated-relative-reliability)
 - [Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks](../../conferences/cvpr-2026/cards.md#paper-stable-spike-consistency)
 - [Selfi: Self-improving Reconstruction Engine via 3D Geometric Feature Alignment](../../conferences/cvpr-2026/cards.md#paper-selfi-geometric-alignment)
+- [Global-Graph Guided and Local-Graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data](../../conferences/cvpr-2026/cards.md#paper-global-local-graph-contrastive)
+- [ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction](../../conferences/cvpr-2026/cards.md#paper-reflow-motion-self-correction)
 
 <!-- conference-classification:end -->

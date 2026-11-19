@@ -1040,5 +1040,7 @@
 - [SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](../conferences/cvpr-2026/cards.md#paper-swiftvla-future-trained-fusion-tokens)
 - [SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-simulation-in-loop-vlm-action-ranking)
 - [MM-ACT: Learn from Multimodal Parallel Generation to Act](../conferences/cvpr-2026/cards.md#paper-mm-act-shared-context-parallel-decoding)
+- [D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation](../conferences/cvpr-2026/cards.md#paper-masked-fragmented-embodied-supervision)
+- [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](../conferences/cvpr-2026/cards.md#paper-trajrag-topopolar-experience-retrieval)
 
 <!-- conference-classification:end -->

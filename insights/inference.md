@@ -1608,5 +1608,8 @@
 - [Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models](../conferences/cvpr-2026/cards.md#paper-aot-video-token-reduction)
 - [Match-and-Fuse: Consistent Generation from Unstructured Image Sets](../conferences/cvpr-2026/cards.md#paper-match-and-fuse)
 - [tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-tttlrm-streaming-3d-fast-weights)
+- [CountGD++: Generalized Prompting for Open-World Counting](../conferences/cvpr-2026/cards.md#paper-positive-negative-exemplar-counting)
+- [Improving Diffusion Generalization with Weak-to-Strong Segmented Guidance](../conferences/cvpr-2026/cards.md#paper-diffusion-guidance-step-regimes)
+- [DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models](../conferences/cvpr-2026/cards.md#paper-dmgd-dataset-distillation)
 
 <!-- conference-classification:end -->

@@ -2518,5 +2518,9 @@
 - [Spatiotemporal Pyramid Flow Matching for Climate Emulation](../conferences/cvpr-2026/cards.md#paper-spatiotemporal-pyramid-flow)
 - [Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks](../conferences/cvpr-2026/cards.md#paper-stable-spike-consistency)
 - [Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage](../conferences/cvpr-2026/cards.md#paper-instance-schedules-james-stein-reinforce)
+- [DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models](../conferences/cvpr-2026/cards.md#paper-dmgd-dataset-distillation)
+- [Is Bin Generation Indispensable? A Bin-Generation-Free Dataset Quantization via Semantic Perspective](../conferences/cvpr-2026/cards.md#paper-bgfdq-neighbor-coresets)
+- [CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization](../conferences/cvpr-2026/cards.md#paper-catok-time-bound-causal-tokenization)
+- [DRM: Diffusion-based Reward Model With Step-wise Guidance](../conferences/cvpr-2026/cards.md#paper-drm-intermediate-latent-stepwise-reward)
 
 <!-- conference-classification:end -->

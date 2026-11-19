@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,517 篇，其中 1,593 篇暂收录、924 篇排除，另有 1,525 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,547 篇，其中 1,611 篇暂收录、936 篇排除，另有 1,495 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1599,3 +1599,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,517
 | 生成模型 | 采样与强化学习 | [Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage](cards.md#paper-instance-schedules-james-stein-reinforce) | 冻结生成器，按提示词和噪声学习采样时间表，并压低强化学习奖励基线的估计误差。 |
 | 机器人学 | 跨模态策略训练 | [MM-ACT: Learn from Multimodal Parallel Generation to Act](cards.md#paper-mm-act-shared-context-parallel-decoding) | 用共享上下文训练图像、文本和动作生成，但给动作采用单步并行解码。 |
 | 多模态学习 | 噪声鲁棒学习 | [Rethinking Cross-Modal Anchor Alignment for Mitigating Error Accumulation](cards.md#paper-gsl-geometric-cross-modal-anchor-correction) | 清洁图文配对也可能传播错误，纠噪时应检查各自邻域几何是否一致。 |
+| 多模态学习 | 推理策略 | [CountGD++: Generalized Prompting for Open-World Counting](cards.md#paper-positive-negative-exemplar-counting) | 开放词汇感知可同时支持正例、反例和自动生成的参考样本，降低目标描述歧义。 |
+| 计算机视觉 | 数据策略 | [PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion](cards.md#paper-adaptive-video-condensation-anchors) | 视频数据压缩可从少量时间锚点开始，只在插值无法表达非线性运动时添加关键帧。 |
+| 机器人学 | 训练策略 | [D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation](cards.md#paper-masked-fragmented-embodied-supervision) | 具身任务不同数据源只标了个别中间变量时，可共享输出结构并屏蔽缺失监督。 |
+| 计算机视觉 | 模型架构 | [WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling](cards.md#paper-joint-4d-geometry-rgb-video-generation) | 世界生成器可以把可核查的三维几何和运动当作联合输出，用合成精标与真实视频分别补强。 |
+| 计算机视觉 | 模型架构 | [Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting](cards.md#paper-entropy-budgeted-off-grid-primitives) | 稀疏三维重建可按图像块的复杂性分配几何原语，并让原语位置脱离像素网格。 |
+| 计算机视觉 | 推理策略 | [Improving Diffusion Generalization with Weak-to-Strong Segmented Guidance](cards.md#paper-diffusion-guidance-step-regimes) | 扩散推理可根据去噪阶段选择不同的弱参照，减少用单一引导机制覆盖全程的误差。 |
+| 机器学习基础与统计 | 推理策略 | [DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models](cards.md#paper-dmgd-dataset-distillation) | 合成蒸馏数据时分别约束类别语义与目标样本分布，避免只追求单张图像的类别可辨识性。 |
+| 计算机视觉 | 模型架构 | [Learning Compact 3D Representations from Feed-Forward Novel View Synthesis](cards.md#paper-c3g-compact-gaussians) | 用共享的跨视图令牌决定三维表达的稀疏位置，再复用注意力把二维语义投影至三维。 |
+| 智能体 | 模型架构 | [ShowUI-p: Flow-based Generative Models as GUI Dexterous Hands](cards.md#paper-showui-p-continuous-actions) | 根据动作类型组合离散决策和连续反馈控制，用轻量动作专家处理细粒度轨迹。 |
+| 多模态学习 | 训练策略 | [How Far Can We Go With Synthetic Data for Audio-Visual Sound Source Localization?](cards.md#paper-synthetic-audiovisual-clones) | 以同源样本的合成克隆做等规模对照，再改变真实与合成比例，测定合成数据在何处增益。 |
+| 多模态学习 | 损失函数 | [Global-Graph Guided and Local-Graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data](cards.md#paper-global-local-graph-contrastive) | 将缺对和错对视为不同错误来源，用全局补配对、局部置信度调权。 |
+| 计算机视觉 | 损失函数 | [ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction](cards.md#paper-reflow-motion-self-correction) | 将总投影运动和静态区域的相机诱导运动拆开监督，可在重建中自校正运动。 |
+| 机器学习基础与统计 | 训练策略 | [Is Bin Generation Indispensable? A Bin-Generation-Free Dataset Quantization via Semantic Perspective](cards.md#paper-bgfdq-neighbor-coresets) | 用语义邻域直接决定核心样本，并按样本内部冗余决定图块保留率。 |
+| 生成模型 | 视觉 Token 化 | [CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization](cards.md#paper-catok-time-bound-causal-tokenization) | 将视觉 token 前缀与生成时间区间绑定，兼容因果生成与不同解码预算。 |
+| 机器人学 | 检索与记忆 | [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](cards.md#paper-trajrag-topopolar-experience-retrieval) | 检索历史导航轨迹的拓扑几何和语义，而不是只依赖语言模型的常识。 |
+| 三维视觉 | 场景表征 | [SceneTok: A Compressed, Diffusable Token Space for 3D Scenes](cards.md#paper-scenetok-unordered-compressed-view-tokens) | 从多视图压缩出与空间网格脱钩的无序场景 token，可同时用于渲染与生成。 |
+| 多模态学习 | 合成监督 | [See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](cards.md#paper-artiagent-localized-synthetic-artifact-pairs) | 合成局部缺陷并保留干净反事实，联合监督缺陷定位、描述与修复。 |
+| 生成模型 | 强化学习与奖励 | [DRM: Diffusion-based Reward Model With Step-wise Guidance](cards.md#paper-drm-intermediate-latent-stepwise-reward) | 在去噪轨迹中间估计偏好，为逐步优化提供比终点奖励更近的反馈。 |

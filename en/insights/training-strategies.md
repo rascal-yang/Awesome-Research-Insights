@@ -1200,5 +1200,9 @@ Training schedules, curricula, and task or stage composition.
 - [Mirai: Autoregressive Visual Generation Needs Foresight](../../conferences/cvpr-2026/cards.md#paper-spatial-foresight-autoregressive-generation)
 - [Factorized Context Aggregation for Robust Cancer Risk Estimation via Soft Re-Ranked Retrieval and Hierarchical Anchors](../../conferences/cvpr-2026/cards.md#paper-factorized-privileged-modality)
 - [MM-ACT: Learn from Multimodal Parallel Generation to Act](../../conferences/cvpr-2026/cards.md#paper-mm-act-shared-context-parallel-decoding)
+- [D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation](../../conferences/cvpr-2026/cards.md#paper-masked-fragmented-embodied-supervision)
+- [How Far Can We Go With Synthetic Data for Audio-Visual Sound Source Localization?](../../conferences/cvpr-2026/cards.md#paper-synthetic-audiovisual-clones)
+- [Is Bin Generation Indispensable? A Bin-Generation-Free Dataset Quantization via Semantic Perspective](../../conferences/cvpr-2026/cards.md#paper-bgfdq-neighbor-coresets)
+- [See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](../../conferences/cvpr-2026/cards.md#paper-artiagent-localized-synthetic-artifact-pairs)
 
 <!-- conference-classification:end -->

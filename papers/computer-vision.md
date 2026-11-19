@@ -1485,5 +1485,12 @@
 - [Selfi: Self-improving Reconstruction Engine via 3D Geometric Feature Alignment](../conferences/cvpr-2026/cards.md#paper-selfi-geometric-alignment)
 - [Match-and-Fuse: Consistent Generation from Unstructured Image Sets](../conferences/cvpr-2026/cards.md#paper-match-and-fuse)
 - [tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-tttlrm-streaming-3d-fast-weights)
+- [PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion](../conferences/cvpr-2026/cards.md#paper-adaptive-video-condensation-anchors)
+- [WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling](../conferences/cvpr-2026/cards.md#paper-joint-4d-geometry-rgb-video-generation)
+- [Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-entropy-budgeted-off-grid-primitives)
+- [Improving Diffusion Generalization with Weak-to-Strong Segmented Guidance](../conferences/cvpr-2026/cards.md#paper-diffusion-guidance-step-regimes)
+- [Learning Compact 3D Representations from Feed-Forward Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-c3g-compact-gaussians)
+- [ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction](../conferences/cvpr-2026/cards.md#paper-reflow-motion-self-correction)
+- [SceneTok: A Compressed, Diffusable Token Space for 3D Scenes](../conferences/cvpr-2026/cards.md#paper-scenetok-unordered-compressed-view-tokens)
 
 <!-- conference-classification:end -->
