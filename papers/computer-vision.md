@@ -1118,5 +1118,10 @@
 - [Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction](../conferences/cvpr-2026/cards.md#paper-freeloc)
 - [Detecting AI-Generated Forgeries via Iterative Manifold Deviation Amplification](../conferences/cvpr-2026/cards.md#paper-ifa-net-forgery-localization)
 - [Tracking through Severe Occlusion via Event-Derived Transient Cues](../conferences/cvpr-2026/cards.md#paper-evotrack-occlusion-cues)
+- [HumanBA: Human-Aware Bundle Adjustment via Global Human-Camera Decoupling](../conferences/cvpr-2026/cards.md#paper-humanba-dynamic-landmark-recovery)
+- [Recurrent Video Masked Autoencoders](../conferences/cvpr-2026/cards.md#paper-recurrent-video-mae)
+- [Lens Component Deletion based on Differentiable Ray Tracing](../conferences/cvpr-2026/cards.md#paper-lens-component-deletion)
+- [NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-nvgs-neural-visibility)
+- [Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation](../conferences/cvpr-2026/cards.md#paper-ovrcoat)
 
 <!-- conference-classification:end -->

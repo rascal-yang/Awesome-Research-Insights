@@ -999,5 +999,12 @@ Learning across modalities such as images, text, audio, and video.
 - [OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-onecat-scale-aware-autoregression)
 - [A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](../../conferences/cvpr-2026/cards.md#paper-closed-form-vlm-debiasing)
 - [Inconsistency-aware Multimodal Schrodinger Bridge for Deepfake Localization](../../conferences/cvpr-2026/cards.md#paper-iamsb-asymmetric-multimodal-localization)
+- [ViTPrompt: Training-Free Prompt Refinement with Visual Tokens for Open-Vocabulary Detection](../../conferences/cvpr-2026/cards.md#paper-vitprompt-test-time-visual-box-refresh)
+- [FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts](../../conferences/cvpr-2026/cards.md#paper-foleydirector-temporal-audio-scripts)
+- [Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection](../../conferences/cvpr-2026/cards.md#paper-care-dual-modal-safety-evaluation)
+- [Hierarchically Robust Zero-shot Vision-language Models](../../conferences/cvpr-2026/cards.md#paper-hierarchical-robust-vlm)
+- [PACT: Phase-Like Transition Constraints in Adapter-Based Continual Learning of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pact-continuous-adapters)
+- [Beyond Caption-Based Queries in Video Moment Retrieval](../../conferences/cvpr-2026/cards.md#paper-beyond-caption-video-moment-retrieval)
+- [GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering](../../conferences/cvpr-2026/cards.md#paper-glyphprinter-region-grouped-dpo)
 
 <!-- conference-classification:end -->

@@ -1444,5 +1444,8 @@
 - [Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](../conferences/cvpr-2026/cards.md#paper-wanderland-geometry-audit)
 - [Understanding Counting Mechanisms in Large Language and Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-countscope)
 - [Detecting AI-Generated Forgeries via Iterative Manifold Deviation Amplification](../conferences/cvpr-2026/cards.md#paper-ifa-net-forgery-localization)
+- [Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection](../conferences/cvpr-2026/cards.md#paper-care-dual-modal-safety-evaluation)
+- [Beyond Caption-Based Queries in Video Moment Retrieval](../conferences/cvpr-2026/cards.md#paper-beyond-caption-video-moment-retrieval)
+- [Vision-Oriented Lightweight Neural Architecture Search with Budget-Adaptive Evaluation](../conferences/cvpr-2026/cards.md#paper-budget-adaptive-micro-task-nas)
 
 <!-- conference-classification:end -->

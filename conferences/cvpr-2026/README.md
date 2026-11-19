@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 657 篇，其中 437 篇暂收录、220 篇排除，另有 3,385 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 687 篇，其中 454 篇暂收录、233 篇排除，另有 3,355 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -443,3 +443,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 657 �
 | 多模态学习 | 损失函数与优化 | [A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](cards.md#paper-closed-form-vlm-debiasing) | 跨模态去偏前确定可接受任务效用下限，再用闭式变换评估公平性取舍。 |
 | 计算机视觉 | 表示学习 | [Tracking through Severe Occlusion via Event-Derived Transient Cues](cards.md#paper-evotrack-occlusion-cues) | 强遮挡时分开检查事件运动提示与外观匹配，避免遮挡模板污染。 |
 | 多模态学习 | 表示学习 | [Inconsistency-aware Multimodal Schrodinger Bridge for Deepfake Localization](cards.md#paper-iamsb-asymmetric-multimodal-localization) | 多模态防御定位时依据两路证据的一致性决定融合强度和各路计算预算。 |
+| 多模态学习 | 推理策略 | [ViTPrompt: Training-Free Prompt Refinement with Visual Tokens for Open-Vocabulary Detection](cards.md#paper-vitprompt-test-time-visual-box-refresh) | 开放词汇检测测试时适配应分别检查框定位和类别分数，可用首轮可信候选的视觉特征更新第二轮提示。见表 4。 |
+| 多模态学习 | 模型架构 | [FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts](cards.md#paper-foleydirector-temporal-audio-scripts) | 视频生成配音应将事件发生时段作为显式脚本条件，并在可见与画外事件上分别检查同步。见表 3。 |
+| 机器学习基础与统计 | 训练策略 | [HCL-FF: Hierarchical and Contrastive Learning for Forward-Forward Algorithm](cards.md#paper-hcl-ff-local-hierarchical-training) | 无法端到端反传的逐层学习，可对照浅层粗类、深层细类的协调监督与局部对比学习。见表 2–4。 |
+| 计算机视觉 | 优化 | [HumanBA: Human-Aware Bundle Adjustment via Global Human-Camera Decoupling](cards.md#paper-humanba-dynamic-landmark-recovery) | 动态主体占据画面时，可测试先分离主体运动后重新利用其残余观测，而不是一律掩蔽前景。见表 1–2。 |
+| 机器人学 | 优化 | [Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation](cards.md#paper-co-manipulation-simulation-stability) | 联合操作动作生成应分别试接触先验与仿真修正，并同时检查穿模、接触与自然度。见表 2。 |
+| 多模态学习 | 评测与诊断 | [Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection](cards.md#paper-care-dual-modal-safety-evaluation) | 多模态安全修复验收应分别测试图像端、文本端和组合干预，再比较任务保留。见表 1–2。 |
+| 机器人学 | 训练策略 | [Resolving the Stability-Plasticity Dilemma in Reinforcement Learning via Complementary Continual Critics](cards.md#paper-cd-cca) | 把快速适应与长期保留交给不同评论网络，再按观测融合价值。 |
+| 多模态学习 | 训练策略 | [Hierarchically Robust Zero-shot Vision-language Models](cards.md#paper-hierarchical-robust-vlm) | 防御验收应分别测父类和叶类的鲁棒正确率，视觉语义对齐可按层级分别约束。 |
+| 多模态学习 | 训练策略 | [PACT: Phase-Like Transition Constraints in Adapter-Based Continual Learning of Vision-Language Models](cards.md#paper-pact-continuous-adapters) | 持续适配不必把所有任务的方向都做正交，应检验共享方向是否改善正迁移。 |
+| 计算机视觉 | 训练策略 | [Recurrent Video Masked Autoencoders](cards.md#paper-recurrent-video-mae) | 把循环状态与非对称视频掩码共同用于预训练，再分测时间任务及静态空间任务。 |
+| 计算机视觉 | 优化算法 | [Lens Component Deletion based on Differentiable Ray Tracing](cards.md#paper-lens-component-deletion) | 设计紧凑成像系统时按部件对任务的贡献做消融，再联合优化剩余光学器件与恢复模型。 |
+| 多模态学习 | 评测与分析 | [Beyond Caption-Based Queries in Video Moment Retrieval](cards.md#paper-beyond-caption-video-moment-retrieval) | 视频片段检索应以真实搜索语句和多答案标注检验解码器查询是否坍缩。 |
+| 机器学习基础 | 评测与分析 | [Vision-Oriented Lightweight Neural Architecture Search with Budget-Adaptive Evaluation](cards.md#paper-budget-adaptive-micro-task-nas) | 算力有限时，用一组短视觉探针给候选模型排序，并按可用预算选择评估配置。 |
+| 计算机视觉 | 推理优化 | [NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](cards.md#paper-nvgs-neural-visibility) | 对于重复资产，用共享视点可见性模型在高斯光栅化前过滤，不把半透明遮挡硬当作二值深度。 |
+| 多模态学习 | 损失函数与优化 | [GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering](cards.md#paper-glyphprinter-region-grouped-dpo) | 视觉生成的瑕疵局部集中时，将偏好比较分组到区域，不让全图得分稀释字形错误。 |
+| 机器学习基础 | 模型架构 | [CHEEM: Continual Learning by Reuse, New, Adapt and Skip - A Hierarchical Exploration-Exploitation Approach](cards.md#paper-cheem-hierarchical-continual-learning) | 持续学习为每个任务分别选择层的复用、新建、适配或跳过，显式平衡旧知识与容量。 |
+| 计算机视觉 | 迁移与泛化 | [Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation](cards.md#paper-ovrcoat) | 开放词汇检测分别校准前景提议和区域文本分类，防止新类别在分类前被筛掉。 |

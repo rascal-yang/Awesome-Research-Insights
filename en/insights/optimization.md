@@ -683,5 +683,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Task-Driven Implicit Representations for Automated Design of LiDAR Systems](../../conferences/cvpr-2026/cards.md#paper-implicit-lidar-design)
 - [The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-eagc-gcd)
 - [Affine Perspective-Three-Point Problem](../../conferences/cvpr-2026/cards.md#paper-affine-p3p)
+- [HumanBA: Human-Aware Bundle Adjustment via Global Human-Camera Decoupling](../../conferences/cvpr-2026/cards.md#paper-humanba-dynamic-landmark-recovery)
+- [Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation](../../conferences/cvpr-2026/cards.md#paper-co-manipulation-simulation-stability)
+- [Lens Component Deletion based on Differentiable Ray Tracing](../../conferences/cvpr-2026/cards.md#paper-lens-component-deletion)
 
 <!-- conference-classification:end -->

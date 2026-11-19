@@ -974,5 +974,11 @@
 - [Mining Attribute Subspaces for Efficient Fine-tuning of 3D Foundation Models](../conferences/cvpr-2026/cards.md#paper-attribute-lora-subspaces)
 - [CVA: Context-aware Video-text Alignment for Video Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-cva-temporal-grounding)
 - [VisPlay: Self-Evolving Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-visplay-questioner-reasoner-self-training)
+- [HCL-FF: Hierarchical and Contrastive Learning for Forward-Forward Algorithm](../conferences/cvpr-2026/cards.md#paper-hcl-ff-local-hierarchical-training)
+- [Resolving the Stability-Plasticity Dilemma in Reinforcement Learning via Complementary Continual Critics](../conferences/cvpr-2026/cards.md#paper-cd-cca)
+- [Hierarchically Robust Zero-shot Vision-language Models](../conferences/cvpr-2026/cards.md#paper-hierarchical-robust-vlm)
+- [PACT: Phase-Like Transition Constraints in Adapter-Based Continual Learning of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-pact-continuous-adapters)
+- [Recurrent Video Masked Autoencoders](../conferences/cvpr-2026/cards.md#paper-recurrent-video-mae)
+- [Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation](../conferences/cvpr-2026/cards.md#paper-ovrcoat)
 
 <!-- conference-classification:end -->

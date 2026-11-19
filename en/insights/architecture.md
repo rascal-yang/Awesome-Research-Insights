@@ -604,5 +604,7 @@ Model-wide design and information flow.
 - [Describe Anything Anywhere At Any Moment](../../conferences/cvpr-2026/cards.md#paper-daaam-queryable-spatiotemporal-memory)
 - [Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere](../../conferences/cvpr-2026/cards.md#paper-spherical-voronoi)
 - [OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-onecat-scale-aware-autoregression)
+- [FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts](../../conferences/cvpr-2026/cards.md#paper-foleydirector-temporal-audio-scripts)
+- [CHEEM: Continual Learning by Reuse, New, Adapt and Skip - A Hierarchical Exploration-Exploitation Approach](../../conferences/cvpr-2026/cards.md#paper-cheem-hierarchical-continual-learning)
 
 <!-- conference-classification:end -->

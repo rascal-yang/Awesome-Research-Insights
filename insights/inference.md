@@ -1375,5 +1375,7 @@
 - [DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos](../conferences/cvpr-2026/cards.md#paper-dreamstereo)
 - [Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction](../conferences/cvpr-2026/cards.md#paper-freeloc)
 - [Boosting Reasoning in Large Multimodal Models via Activation Replay](../conferences/cvpr-2026/cards.md#paper-activation-replay)
+- [ViTPrompt: Training-Free Prompt Refinement with Visual Tokens for Open-Vocabulary Detection](../conferences/cvpr-2026/cards.md#paper-vitprompt-test-time-visual-box-refresh)
+- [NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-nvgs-neural-visibility)
 
 <!-- conference-classification:end -->

@@ -887,5 +887,7 @@
 - [Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](../conferences/cvpr-2026/cards.md#paper-wanderland-geometry-audit)
 - [Point4Cast: Streaming Dynamic Scene Reconstruction and Forecasting](../conferences/cvpr-2026/cards.md#paper-point4cast)
 - [NeuROK: Generative 4D Neural Object Kinematics](../conferences/cvpr-2026/cards.md#paper-neurok-latent-object-kinematics)
+- [Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation](../conferences/cvpr-2026/cards.md#paper-co-manipulation-simulation-stability)
+- [Resolving the Stability-Plasticity Dilemma in Reinforcement Learning via Complementary Continual Critics](../conferences/cvpr-2026/cards.md#paper-cd-cca)
 
 <!-- conference-classification:end -->

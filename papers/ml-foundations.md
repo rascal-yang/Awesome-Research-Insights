@@ -2318,5 +2318,8 @@
 - [Frequency Switching Mechanism for Parameter-Efficient Multi-Task Learning](../conferences/cvpr-2026/cards.md#paper-free-sinewich-task-modulation)
 - [Mining Attribute Subspaces for Efficient Fine-tuning of 3D Foundation Models](../conferences/cvpr-2026/cards.md#paper-attribute-lora-subspaces)
 - [Every Error has Its Magnitude: Asymmetric Mistake Severity Training for Multiclass Multiple Instance Learning](../conferences/cvpr-2026/cards.md#paper-asymmetric-mistake-severity)
+- [HCL-FF: Hierarchical and Contrastive Learning for Forward-Forward Algorithm](../conferences/cvpr-2026/cards.md#paper-hcl-ff-local-hierarchical-training)
+- [Vision-Oriented Lightweight Neural Architecture Search with Budget-Adaptive Evaluation](../conferences/cvpr-2026/cards.md#paper-budget-adaptive-micro-task-nas)
+- [CHEEM: Continual Learning by Reuse, New, Adapt and Skip - A Hierarchical Exploration-Exploitation Approach](../conferences/cvpr-2026/cards.md#paper-cheem-hierarchical-continual-learning)
 
 <!-- conference-classification:end -->

@@ -400,5 +400,6 @@
 - [Physically-Grounded Turbulence Mitigation with Frame-Shared Degradation Parameters](../conferences/cvpr-2026/cards.md#paper-tmfs-shared-degradation)
 - [Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning](../conferences/cvpr-2026/cards.md#paper-ccl-background-invariance)
 - [A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](../conferences/cvpr-2026/cards.md#paper-closed-form-vlm-debiasing)
+- [GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering](../conferences/cvpr-2026/cards.md#paper-glyphprinter-region-grouped-dpo)
 
 <!-- conference-classification:end -->
