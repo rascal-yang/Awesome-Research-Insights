@@ -533,5 +533,8 @@
 - [AD-GBC: Anisotropic Granular-Ball Skip-Connection Refiner for UNet-Based Medical Image Segmentation](../conferences/cvpr-2026/cards.md#paper-ad-gbc)
 - [REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-reartgs-plus)
 - [Efficient and High-Fidelity Omni Modality Retrieval](../conferences/cvpr-2026/cards.md#paper-omniret)
+- [LongStream: Long-Sequence Streaming Autoregressive Visual Geometry](../conferences/cvpr-2026/cards.md#paper-longstream)
+- [Hierarchical Enhancement of Semantic Priors for Disentangled Text-Driven Motion Generation](../conferences/cvpr-2026/cards.md#paper-hesp)
+- [Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models](../conferences/cvpr-2026/cards.md#paper-quatrope)
 
 <!-- conference-classification:end -->

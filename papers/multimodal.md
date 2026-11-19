@@ -860,5 +860,14 @@
 - [SenseSearch: Empowering Vision-Language Models with High-Resolution Agentic Search-Reasoning via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-sensesearch)
 - [Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization](../conferences/cvpr-2026/cards.md#paper-quant-experts)
 - [Efficient and High-Fidelity Omni Modality Retrieval](../conferences/cvpr-2026/cards.md#paper-omniret)
+- [SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception](../conferences/cvpr-2026/cards.md#paper-synclip)
+- [RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](../conferences/cvpr-2026/cards.md#paper-retouchiq-generalist-reward)
+- [VisRef: Visual Refocusing while Thinking Improves Test-Time Scaling in Multi-Modal Large Reasoning Models](../conferences/cvpr-2026/cards.md#paper-visref)
+- [APPO: Attention-guided Perception Policy Optimization for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-appo)
+- [GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning](../conferences/cvpr-2026/cards.md#paper-graphvlm)
+- [Hierarchical Enhancement of Semantic Priors for Disentangled Text-Driven Motion Generation](../conferences/cvpr-2026/cards.md#paper-hesp)
+- [MovieRecapsQA: A Multimodal Open-Ended Video Question-Answering Benchmark](../conferences/cvpr-2026/cards.md#paper-movierecapsqa)
+- [Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models](../conferences/cvpr-2026/cards.md#paper-quatrope)
+- [Physical Simulator In-the-Loop Video Generation](../conferences/cvpr-2026/cards.md#paper-psivg)
 
 <!-- conference-classification:end -->

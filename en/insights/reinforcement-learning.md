@@ -737,5 +737,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 ## CVPR 2026 (provisional)
 
 - [SenseSearch: Empowering Vision-Language Models with High-Resolution Agentic Search-Reasoning via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-sensesearch)
+- [RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](../../conferences/cvpr-2026/cards.md#paper-retouchiq-generalist-reward)
 
 <!-- conference-classification:end -->

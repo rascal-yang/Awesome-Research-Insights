@@ -523,5 +523,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 ## CVPR 2026 (provisional)
 
 - [HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-hycal)
+- [Anomaly-Related Residual Fields for Cross-domain Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-anomaly-residual-evolution-field)
 
 <!-- conference-classification:end -->

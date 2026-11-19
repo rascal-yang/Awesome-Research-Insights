@@ -876,5 +876,10 @@
 - [Quantized Residuals to Continuous Prompts for Few-Shot Class Incremental Learning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-qr-prompt)
 - [PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-panoenv)
 - [Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models](../conferences/cvpr-2026/cards.md#paper-etc)
+- [Beyond Mimicry: Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations](../conferences/cvpr-2026/cards.md#paper-pair-d-star)
+- [APPO: Attention-guided Perception Policy Optimization for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-appo)
+- [Physical Simulator In-the-Loop Video Generation](../conferences/cvpr-2026/cards.md#paper-psivg)
+- [PR-IQA: Partial-Reference Image Quality Assessment for Diffusion-Based Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-pr-iqa)
+- [FloVerse: Floor Plan-Guided Multi-Modal Navigation](../conferences/cvpr-2026/cards.md#paper-floverse)
 
 <!-- conference-classification:end -->

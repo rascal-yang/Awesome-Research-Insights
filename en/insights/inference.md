@@ -1296,5 +1296,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Reallocating Attention Across Layers to Reduce Multimodal Hallucination](../../conferences/cvpr-2026/cards.md#paper-attention-head-reallocation)
 - [TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery](../../conferences/cvpr-2026/cards.md#paper-talon)
 - [Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization](../../conferences/cvpr-2026/cards.md#paper-quant-experts)
+- [AdaSpot: Spend Resolution Where It Matters for Precise Event Spotting](../../conferences/cvpr-2026/cards.md#paper-adaspot)
+- [VisRef: Visual Refocusing while Thinking Improves Test-Time Scaling in Multi-Modal Large Reasoning Models](../../conferences/cvpr-2026/cards.md#paper-visref)
+- [Ultra Diffusion Poser: Diffusion-Based Human Motion Tracking from Sparse Inertial Sensors and Ranging-based Between-sensor Distances](../../conferences/cvpr-2026/cards.md#paper-ultra-diffusion-poser)
+- [Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-ppcl)
+- [Rethinking Asymmetric Quantization: Hidden Symmetry in Vision Model Weights](../../conferences/cvpr-2026/cards.md#paper-dasq)
 
 <!-- conference-classification:end -->

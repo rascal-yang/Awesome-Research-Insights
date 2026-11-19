@@ -1403,5 +1403,8 @@
 
 - [QUANTIPHY: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-quantiphy)
 - [CompBench: Benchmarking Complex Instruction-guided Image Editing](../conferences/cvpr-2026/cards.md#paper-compbench)
+- [What Is the Optimal Ranking Score Between Precision and Recall? We Can Always Find It and It Is Rarely F1](../conferences/cvpr-2026/cards.md#paper-precision-recall-rank-tradeoff)
+- [GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning](../conferences/cvpr-2026/cards.md#paper-graphvlm)
+- [MovieRecapsQA: A Multimodal Open-Ended Video Question-Answering Benchmark](../conferences/cvpr-2026/cards.md#paper-movierecapsqa)
 
 <!-- conference-classification:end -->

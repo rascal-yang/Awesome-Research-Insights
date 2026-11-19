@@ -843,5 +843,7 @@ Robot perception, policy learning, planning, and control.
 ## CVPR 2026 (provisional)
 
 - [HybridDriveVLA: Vision-Language-Action Model with Visual CoT reasoning and ToT Evaluation for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-hybriddrivevla)
+- [Beyond Mimicry: Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations](../../conferences/cvpr-2026/cards.md#paper-pair-d-star)
+- [FloVerse: Floor Plan-Guided Multi-Modal Navigation](../../conferences/cvpr-2026/cards.md#paper-floverse)
 
 <!-- conference-classification:end -->

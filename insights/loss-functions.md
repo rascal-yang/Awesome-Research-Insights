@@ -375,4 +375,8 @@
 - [VideoMDM: Towards 3D Human Motion Generation From 2D Supervision](../conferences/neurips-2026/cards-0012.md#paper-154317)
 - [WASD: Wasserstein-based Knowledge Distillation for Large Language Models](../conferences/neurips-2026/cards-0012.md#paper-154228)
 
+## CVPR 2026（暂收录）
+
+- [SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception](../conferences/cvpr-2026/cards.md#paper-synclip)
+
 <!-- conference-classification:end -->

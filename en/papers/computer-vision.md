@@ -944,5 +944,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [White-Balance First, Adjust Later: Cross-Camera Color Constancy via Vision-Language Evaluation](../../conferences/cvpr-2026/cards.md#paper-vlm-cc)
 - [TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery](../../conferences/cvpr-2026/cards.md#paper-talon)
 - [REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-reartgs-plus)
+- [AdaSpot: Spend Resolution Where It Matters for Precise Event Spotting](../../conferences/cvpr-2026/cards.md#paper-adaspot)
+- [Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty](../../conferences/cvpr-2026/cards.md#paper-probabilistic-gs-pose-refinement)
+- [Anomaly-Related Residual Fields for Cross-domain Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-anomaly-residual-evolution-field)
+- [LongStream: Long-Sequence Streaming Autoregressive Visual Geometry](../../conferences/cvpr-2026/cards.md#paper-longstream)
+- [Ultra Diffusion Poser: Diffusion-Based Human Motion Tracking from Sparse Inertial Sensors and Ranging-based Between-sensor Distances](../../conferences/cvpr-2026/cards.md#paper-ultra-diffusion-poser)
+- [Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-ppcl)
+- [Rethinking Asymmetric Quantization: Hidden Symmetry in Vision Model Weights](../../conferences/cvpr-2026/cards.md#paper-dasq)
+- [PR-IQA: Partial-Reference Image Quality Assessment for Diffusion-Based Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-pr-iqa)
 
 <!-- conference-classification:end -->
