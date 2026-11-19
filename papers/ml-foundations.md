@@ -2633,5 +2633,14 @@
 - [Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation](../conferences/cvpr-2026/cards.md#paper-adaptive-video-distillation-temporal-collapse)
 - [GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection](../conferences/cvpr-2026/cards.md#paper-genhoi-head-sliding-reference-conditioning)
 - [Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions](../conferences/cvpr-2026/cards.md#paper-class-fair-policy-gradient-curriculum)
+- [HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning](../conferences/cvpr-2026/cards.md#paper-global-cluster-client-hierarchical-lora)
+- [ERMoE: Eigen-Reparameterized Mixture-of-Experts for Stable Routing and Interpretable Specialization](../conferences/cvpr-2026/cards.md#paper-ermoe-expert-eigenbases)
+- [Reward Sharpness-Aware Fine-Tuning for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-reward-sharpness-diffusion)
+- [Dynamic Momentum Recalibration in Online Gradient Learning](../conferences/cvpr-2026/cards.md#paper-sgdf-dynamic-momentum)
+- [Online Data Curation for Object Detection via Marginal Contributions to Dataset-level Average Precision](../conferences/cvpr-2026/cards.md#paper-detgain-marginal-dataset-ap-curation)
+- [LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models](../conferences/cvpr-2026/cards.md#paper-lavr-implicit-4d-reconstruction-conditioning)
+- [HierAmp: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-hieramp-scale-wise-class-token-distillation)
+- [Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective](../conferences/cvpr-2026/cards.md#paper-d2c-diffusion-difficulty-select-and-attach)
+- [Neural Mixture Density Processes](../conferences/cvpr-2026/cards.md#paper-neural-mixture-density-task-specific-function-prior)
 
 <!-- conference-classification:end -->

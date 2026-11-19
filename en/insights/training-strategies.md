@@ -1378,5 +1378,7 @@ Training schedules, curricula, and task or stage composition.
 - [Dual-Level Confidence based Implicit Self-Refinement for Medical Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-ducor-dual-pseudo-confidence)
 - [Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](../../conferences/cvpr-2026/cards.md#paper-video-as-answer-joint-grpo)
 - [SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition](../../conferences/cvpr-2026/cards.md#paper-skeletoncontext-masked-context)
+- [Hugging Visual Prompt and Segmentation Tokens: Consistency Learning for Fine-Grained Visual Understanding in MLLMs](../../conferences/cvpr-2026/cards.md#paper-reciprocal-caption-grounding-consistency)
+- [Leveraging Class Distributions in CLIP for Weakly Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-cdclip-patch-class-distributions)
 
 <!-- conference-classification:end -->

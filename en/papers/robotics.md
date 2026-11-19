@@ -1175,5 +1175,11 @@ Robot perception, policy learning, planning, and control.
 - [Structural Action Transformer for 3D Dexterous Manipulation](../../conferences/cvpr-2026/cards.md#paper-joint-trajectory-tokens-cross-embodiment)
 - [GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](../../conferences/cvpr-2026/cards.md#paper-geopredict-training-only-kinematic-geometry)
 - [INSIGHT Bench: Towards Grounded IN-SItu Guidance for Robotic ManipulaTion](../../conferences/cvpr-2026/cards.md#paper-insightbench-in-situ-guide-constraints)
+- [UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair](../../conferences/cvpr-2026/cards.md#paper-pose-aware-object-shapes-stereo-real-to-sim)
+- [EventDrive: Event Cameras for Vision-Language Driving Intelligence](../../conferences/cvpr-2026/cards.md#paper-eventdrive-sensor-contribution)
+- [Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning](../../conferences/cvpr-2026/cards.md#paper-cfvla-action-revision)
+- [ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-compose-keypoint-completion)
+- [RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](../../conferences/cvpr-2026/cards.md#paper-rehearsevla-world-model-completion-reward)
+- [Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](../../conferences/cvpr-2026/cards.md#paper-humanoid-staged-reset-sim-to-real)
 
 <!-- conference-classification:end -->

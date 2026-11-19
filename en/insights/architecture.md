@@ -840,5 +840,8 @@ Model-wide design and information flow.
 - [DynFusion: Rethinking Condition Fusion for Adaptive Multi-Conditional Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-dynfusion-heterogeneous-conditions)
 - [Long-SCOPE: Fully Sparse Long-Range Cooperative 3D Perception](../../conferences/cvpr-2026/cards.md#paper-longscope-sparse-cooperation)
 - [Structural Action Transformer for 3D Dexterous Manipulation](../../conferences/cvpr-2026/cards.md#paper-joint-trajectory-tokens-cross-embodiment)
+- [VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](../../conferences/cvpr-2026/cards.md#paper-sparse-interaction-full-resolution-visual-tokens)
+- [ERMoE: Eigen-Reparameterized Mixture-of-Experts for Stable Routing and Interpretable Specialization](../../conferences/cvpr-2026/cards.md#paper-ermoe-expert-eigenbases)
+- [ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-compose-keypoint-completion)
 
 <!-- conference-classification:end -->

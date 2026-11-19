@@ -1648,5 +1648,11 @@ Learning across modalities such as images, text, audio, and video.
 - [KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing](../../conferences/cvpr-2026/cards.md#paper-kvsmooth-adaptive-smoothing)
 - [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-pacorl-pairwise-consistency)
 - [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](../../conferences/cvpr-2026/cards.md#paper-gacd-gradient-attribution-constrained-decoding)
+- [Hugging Visual Prompt and Segmentation Tokens: Consistency Learning for Fine-Grained Visual Understanding in MLLMs](../../conferences/cvpr-2026/cards.md#paper-reciprocal-caption-grounding-consistency)
+- [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](../../conferences/cvpr-2026/cards.md#paper-difficulty-and-local-verification-image-edit-search)
+- [Learning to Track Instance from Single Nature Language Description](../../conferences/cvpr-2026/cards.md#paper-anchor-guided-visual-to-language-tracking-tokens)
+- [POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](../../conferences/cvpr-2026/cards.md#paper-dual-token-budget-detachable-streaming-cache)
+- [VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](../../conferences/cvpr-2026/cards.md#paper-sparse-interaction-full-resolution-visual-tokens)
+- [Leveraging Class Distributions in CLIP for Weakly Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-cdclip-patch-class-distributions)
 
 <!-- conference-classification:end -->

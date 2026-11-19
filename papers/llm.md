@@ -2475,5 +2475,6 @@
 - [WebGym: Scaling Training Environments for Long-Horizon Visual Web Agents with Realistic Tasks](../conferences/cvpr-2026/cards.md#paper-webgym-asynchronous-long-horizon-rollouts)
 - [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](../conferences/cvpr-2026/cards.md#paper-longvt-native-temporal-cropping)
 - [Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation](../conferences/cvpr-2026/cards.md#paper-refer-agent-reasoning-reflection)
+- [MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents](../conferences/cvpr-2026/cards.md#paper-mindpower-self-other-state)
 
 <!-- conference-classification:end -->

@@ -826,5 +826,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [WebGym: Scaling Training Environments for Long-Horizon Visual Web Agents with Realistic Tasks](../../conferences/cvpr-2026/cards.md#paper-webgym-asynchronous-long-horizon-rollouts)
 - [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-rc2-cross-modal-cycle-consistency-reward)
 - [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-pacorl-pairwise-consistency)
+- [RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](../../conferences/cvpr-2026/cards.md#paper-rehearsevla-world-model-completion-reward)
+- [Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](../../conferences/cvpr-2026/cards.md#paper-humanoid-staged-reset-sim-to-real)
 
 <!-- conference-classification:end -->

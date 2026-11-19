@@ -730,5 +730,9 @@
 - [FedSST: Rethinking Fair Federated Graph Learning under Structural Shift](../conferences/cvpr-2026/cards.md#paper-structural-complexity-aware-federated-weighting)
 - [Bilevel Layer-Positioning LoRA for Real Image Dehazing](../conferences/cvpr-2026/cards.md#paper-bilevel-adapter-layer-selection)
 - [The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-golden-subspace-continual-adaptation)
+- [HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning](../conferences/cvpr-2026/cards.md#paper-global-cluster-client-hierarchical-lora)
+- [Reward Sharpness-Aware Fine-Tuning for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-reward-sharpness-diffusion)
+- [SGDE: Self-supervised Geometry Degradation Estimation Framework for Coded Aperture Compressive Spectral Imaging](../conferences/cvpr-2026/cards.md#paper-sgde-joint-calibration)
+- [Dynamic Momentum Recalibration in Online Gradient Learning](../conferences/cvpr-2026/cards.md#paper-sgdf-dynamic-momentum)
 
 <!-- conference-classification:end -->

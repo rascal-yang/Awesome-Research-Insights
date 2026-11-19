@@ -1703,5 +1703,7 @@ Visual representation, recognition, reconstruction, and generation.
 - [Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization](../../conferences/cvpr-2026/cards.md#paper-bridge-low-rank-frontdoor)
 - [Extend3D: Town-Scale 3D Generation](../../conferences/cvpr-2026/cards.md#paper-extend3d-overlap-latents)
 - [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-vggtdet-internal-semantic-geometric-priors)
+- [Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation](../../conferences/cvpr-2026/cards.md#paper-concept-selective-lora-for-synthetic-segmentation)
+- [SGDE: Self-supervised Geometry Degradation Estimation Framework for Coded Aperture Compressive Spectral Imaging](../../conferences/cvpr-2026/cards.md#paper-sgde-joint-calibration)
 
 <!-- conference-classification:end -->

@@ -1738,5 +1738,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing](../../conferences/cvpr-2026/cards.md#paper-kvsmooth-adaptive-smoothing)
 - [Extend3D: Town-Scale 3D Generation](../../conferences/cvpr-2026/cards.md#paper-extend3d-overlap-latents)
 - [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](../../conferences/cvpr-2026/cards.md#paper-gacd-gradient-attribution-constrained-decoding)
+- [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](../../conferences/cvpr-2026/cards.md#paper-difficulty-and-local-verification-image-edit-search)
+- [POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](../../conferences/cvpr-2026/cards.md#paper-dual-token-budget-detachable-streaming-cache)
+- [Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning](../../conferences/cvpr-2026/cards.md#paper-cfvla-action-revision)
 
 <!-- conference-classification:end -->

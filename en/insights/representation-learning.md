@@ -794,5 +794,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection](../../conferences/cvpr-2026/cards.md#paper-genhoi-head-sliding-reference-conditioning)
 - [GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](../../conferences/cvpr-2026/cards.md#paper-geopredict-training-only-kinematic-geometry)
 - [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-vggtdet-internal-semantic-geometric-priors)
+- [Learning to Track Instance from Single Nature Language Description](../../conferences/cvpr-2026/cards.md#paper-anchor-guided-visual-to-language-tracking-tokens)
+- [UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair](../../conferences/cvpr-2026/cards.md#paper-pose-aware-object-shapes-stereo-real-to-sim)
+- [LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models](../../conferences/cvpr-2026/cards.md#paper-lavr-implicit-4d-reconstruction-conditioning)
 
 <!-- conference-classification:end -->

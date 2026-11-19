@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,657 篇，其中 2,326 篇暂收录、1,331 篇排除，另有 385 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,687 篇，其中 2,350 篇暂收录、1,337 篇排除，另有 355 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2332,3 +2332,27 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,657
 | 机器人学 | 预测表征 | [GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](cards.md#paper-geopredict-training-only-kinematic-geometry) | 用未来运动和三维几何作为训练监督，部署时只保留轻量控制查询。 |
 | 机器人学 | 评测设计 | [INSIGHT Bench: Towards Grounded IN-SItu Guidance for Robotic ManipulaTion](cards.md#paper-insightbench-in-situ-guide-constraints) | 通过改变物体自身标记和对应物理约束，检验机器人是否读取现场说明。 |
 | 三维视觉 | 几何表征 | [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](cards.md#paper-vggtdet-internal-semantic-geometric-priors) | 下游无位姿检测可用三维基础模型内部特征而非只消费其最后位姿和深度。 |
+| 多模态学习 | 训练策略 | [Hugging Visual Prompt and Segmentation Tokens: Consistency Learning for Fine-Grained Visual Understanding in MLLMs](cards.md#paper-reciprocal-caption-grounding-consistency) | 细粒度区域描述和像素接地可相互校验，让语言和分割共享可用证据。 |
+| 多模态学习 | 推理策略 | [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](cards.md#paper-difficulty-and-local-verification-image-edit-search) | 编辑推理预算可按难度分配，并以局部验证提前剪掉无效候选。 |
+| 多模态学习 | 表征学习 | [Learning to Track Instance from Single Nature Language Description](cards.md#paper-anchor-guided-visual-to-language-tracking-tokens) | 语言跟踪可先按锚点筛选模板视觉 token，再以融合后的语言表示指导搜索。 |
+| 计算机视觉 | 数据策略 | [Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation](cards.md#paper-concept-selective-lora-for-synthetic-segmentation) | 合成监督生成器只需适配造成域差异的概念，保留其余生成先验。 |
+| 机器人学 | 表征学习 | [UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair](cards.md#paper-pose-aware-object-shapes-stereo-real-to-sim) | 用姿态感知形状接合姿态估计和几何恢复，避免给每类对象制定规范姿态。 |
+| 多模态学习 | 推理策略 | [POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](cards.md#paper-dual-token-budget-detachable-streaming-cache) | 流视频处理可让常态低 token 模式与需要时高细节模式共存，并允许动态移除缓存。 |
+| 多模态学习 | 模型架构 | [VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](cards.md#paper-sparse-interaction-full-resolution-visual-tokens) | 可保留高分辨率视觉 token，仅稀疏化图文交互层，从而节约计算并保留细节。 |
+| 机器学习基础与统计 | 优化 | [HiLoRA: Hierarchical Low-Rank Adaptation for Personalized Federated Learning](cards.md#paper-global-cluster-client-hierarchical-lora) | 异构联邦 LoRA 可把更新分为全局、群组和客户端三个层级。 |
+| 机器学习基础与统计 | 模型架构 | [ERMoE: Eigen-Reparameterized Mixture-of-Experts for Stable Routing and Interpretable Specialization](cards.md#paper-ermoe-expert-eigenbases) | 将专家路由分数绑定到专家可解释子空间，减弱辅助平衡损失干扰。 |
+| 机器人学 | 评测与诊断 | [EventDrive: Event Cameras for Vision-Language Driving Intelligence](cards.md#paper-eventdrive-sensor-contribution) | 在相同驾驶场景按能力比较 RGB 与事件融合，而非只测目标检测。 |
+| 机器人学 | 推理策略 | [Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning](cards.md#paper-cfvla-action-revision) | 执行前生成可审查的粗动作，再预测其结果并按安全证据修订。 |
+| 机器学习基础与统计 | 优化策略 | [Reward Sharpness-Aware Fine-Tuning for Diffusion Models](cards.md#paper-reward-sharpness-diffusion) | 强化后训练前检验奖励模型对局部输入的梯度敏感，并用更平滑奖励方向更新。 |
+| 计算机视觉 | 优化策略 | [SGDE: Self-supervised Geometry Degradation Estimation Framework for Coded Aperture Compressive Spectral Imaging](cards.md#paper-sgde-joint-calibration) | 传感器标定缓慢漂移时，将漂移参数嵌入测量模型并与场景联合估计。 |
+| 机器学习基础与统计 | 优化策略 | [Dynamic Momentum Recalibration in Online Gradient Learning](cards.md#paper-sgdf-dynamic-momentum) | 按梯度噪声和偏差在线调整动量权重。 |
+| 智能体 | 评测与诊断 | [MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents](cards.md#paper-mindpower-self-other-state) | 协作智能体同时维护自身与他人的信念，在决策和执行处分别验证。 |
+| 机器人学 | 模型架构 | [ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation](cards.md#paper-compose-keypoint-completion) | 把形状补全嵌进位姿模型，并由稀疏关键点渐进预测局部几何。 |
+| 机器学习 | 数据筛选 | [Online Data Curation for Object Detection via Marginal Contributions to Dataset-level Average Precision](cards.md#paper-detgain-marginal-dataset-ap-curation) | 按样本对整个数据集 AP 的边际影响动态选样，避免把检测任务当单标签分类。 |
+| 生成模型 | 几何表征 | [LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models](cards.md#paper-lavr-implicit-4d-reconstruction-conditioning) | 用三维重建器的隐式空间状态控制视频视点，保留生成模型修正显式几何误差的余地。 |
+| 机器学习 | 数据蒸馏 | [HierAmp: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](cards.md#paper-hieramp-scale-wise-class-token-distillation) | 使用由粗到细的显著性图增加合成代表样本各语义尺度的信息。 |
+| 多模态学习 | 弱监督学习 | [Leveraging Class Distributions in CLIP for Weakly Supervised Semantic Segmentation](cards.md#paper-cdclip-patch-class-distributions) | 从 patch 的整个类别分布估计语义邻接，减少只用单类亲和度造成的漏分。 |
+| 生成模型 | 数据蒸馏 | [Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective](cards.md#paper-d2c-diffusion-difficulty-select-and-attach) | 从头训生成器预算紧时，按扩散难度分区取样，再补足条件监督。 |
+| 机器人学 | 强化学习与仿真 | [RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](cards.md#paper-rehearsevla-world-model-completion-reward) | 示范稀少时用可重置世界模型做策略后训练，并显式学习停止评估。 |
+| 机器学习 | 元学习 | [Neural Mixture Density Processes](cards.md#paper-neural-mixture-density-task-specific-function-prior) | 将共享参数与任务特异的混合密度分开，表达多种合理的少样本函数。 |
+| 机器人学 | 强化学习与仿真 | [Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](cards.md#paper-humanoid-staged-reset-sim-to-real) | 从阶段状态重置提高长时探索覆盖，再处理像素策略的部分可观测性。 |

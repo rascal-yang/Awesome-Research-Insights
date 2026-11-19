@@ -478,5 +478,9 @@ Data selection, annotation, augmentation, and sampling.
 - [FAST: Topology-Aware Frequency-Domain Distribution Matching for Coreset Selection](../../conferences/cvpr-2026/cards.md#paper-fast-frequency-distribution-coreset)
 - [VideoMaMa: Mask-Guided Video Matting via Generative Prior](../../conferences/cvpr-2026/cards.md#paper-synthetic-generative-matte-pseudolabeling)
 - [Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors](../../conferences/cvpr-2026/cards.md#paper-sepatch3d-nearby-object-adaptive-patches)
+- [Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation](../../conferences/cvpr-2026/cards.md#paper-concept-selective-lora-for-synthetic-segmentation)
+- [Online Data Curation for Object Detection via Marginal Contributions to Dataset-level Average Precision](../../conferences/cvpr-2026/cards.md#paper-detgain-marginal-dataset-ap-curation)
+- [HierAmp: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-hieramp-scale-wise-class-token-distillation)
+- [Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective](../../conferences/cvpr-2026/cards.md#paper-d2c-diffusion-difficulty-select-and-attach)
 
 <!-- conference-classification:end -->
