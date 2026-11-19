@@ -1679,5 +1679,11 @@
 - [TokenLight: Precise Lighting Control in Images using Attribute Tokens](../conferences/cvpr-2026/cards.md#paper-tokenlight-continuous-light-tokens)
 - [InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](../conferences/cvpr-2026/cards.md#paper-inverfill-one-step-inversion)
 - [Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation](../conferences/cvpr-2026/cards.md#paper-imat-interactive-language-memory-tracking)
+- [Endless World: Real-Time 3D-Aware Long Video Generation](../conferences/cvpr-2026/cards.md#paper-global-3d-attention-streaming-video)
+- [4DSurf: High-Fidelity Dynamic Scene Surface Reconstruction](../conferences/cvpr-2026/cards.md#paper-gaussian-motion-induced-sdf-flow)
+- [Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-band-limited-synthetic-distance-field-prior)
+- [TriLite: Efficient Weakly Supervised Object Localization with Universal Visual Features and Tri-Region Disentanglement](../conferences/cvpr-2026/cards.md#paper-foreground-background-ambiguity-localization-head)
+- [RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution](../conferences/cvpr-2026/cards.md#paper-raw-device-specific-degradation)
+- [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Urban Scenes](../conferences/cvpr-2026/cards.md#paper-pritti-urban-primitives)
 
 <!-- conference-classification:end -->

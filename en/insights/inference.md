@@ -1716,5 +1716,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Group Editing: Edit Multiple Images in One Go](../../conferences/cvpr-2026/cards.md#paper-groupediting-geometric-correspondence-pseudovideo)
 - [VDFE: Difference-Aware 3D Scene Editing with Non-Intrusive Video Diffusion Priors for Multi-View Consistency and Efficiency](../../conferences/cvpr-2026/cards.md#paper-vdfe-flow-difference-regions)
 - [InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](../../conferences/cvpr-2026/cards.md#paper-inverfill-one-step-inversion)
+- [RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment](../../conferences/cvpr-2026/cards.md#paper-requirement-adaptive-test-time-generation)
+- [PromptLoop: Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment](../../conferences/cvpr-2026/cards.md#paper-promptloop-latent-feedback)
 
 <!-- conference-classification:end -->

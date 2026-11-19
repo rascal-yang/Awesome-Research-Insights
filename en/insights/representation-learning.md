@@ -784,5 +784,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-analogical-text-concepts-category-discovery)
 - [Token Warping Helps MLLMs Look from Nearby Viewpoints](../../conferences/cvpr-2026/cards.md#paper-backward-token-warping-nearby-viewpoints)
 - [HERO: Hierarchical Embedding-Refinement for Open-Vocabulary Temporal Sentence Grounding in Videos](../../conferences/cvpr-2026/cards.md#paper-hierarchical-language-cues-open-video-grounding)
+- [4DSurf: High-Fidelity Dynamic Scene Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-gaussian-motion-induced-sdf-flow)
 
 <!-- conference-classification:end -->

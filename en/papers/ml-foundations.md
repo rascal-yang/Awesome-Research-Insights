@@ -2618,5 +2618,6 @@ General learning methods, optimization, learning theory, and inference.
 - [Expand and Prune: Maximizing Trajectory Diversity for Effective GRPO in Generative Models](../../conferences/cvpr-2026/cards.md#paper-progrpo-trajectory-diversity)
 - [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-var-rl-asynchronous-stage-credit)
 - [Beyond Myopic Alignment: Lookahead Optimization for Online Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-lookahead-rehearsal-hypergradient-alignment)
+- [BiGain: Unified Token Compression for Joint Generation and Classification](../../conferences/cvpr-2026/cards.md#paper-bigain-frequency-aware-token-merging)
 
 <!-- conference-classification:end -->

@@ -2471,5 +2471,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Interactive Episodic Memory with User Feedback](../../conferences/cvpr-2026/cards.md#paper-episodic-interactive-memory)
 - [DialogueVPR: Towards Conversational Visual Place Recognition](../../conferences/cvpr-2026/cards.md#paper-dialoguevpr-clarifying-loop)
 - [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](../../conferences/cvpr-2026/cards.md#paper-viro-verification-integrated-operators)
+- [Resolving Evidence Sparsity: Agentic Context Engineering for Long-Document Understanding](../../conferences/cvpr-2026/cards.md#paper-sleuth-evidence-sparsity-context-selection)
 
 <!-- conference-classification:end -->

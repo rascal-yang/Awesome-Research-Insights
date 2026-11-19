@@ -1625,5 +1625,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [pH-Strips for Selective Forgetting: A Blunt but Fast Diagnostic Baseline for Machine Unlearning](../../conferences/cvpr-2026/cards.md#paper-selective-forgetting-subspace-baseline)
 - [Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly](../../conferences/cvpr-2026/cards.md#paper-stage-specific-spatiotemporal-assembly-puzzles)
 - [VoDaSuRe: A Large-Scale Dataset Revealing Domain Shift in Volumetric Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-real-resolution-versus-synthetic-downsampling-audit)
+- [4DP-QA: Scalable QA for 4D Perception in Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-4dpqa-fixed-reference-motion-qa)
 
 <!-- conference-classification:end -->

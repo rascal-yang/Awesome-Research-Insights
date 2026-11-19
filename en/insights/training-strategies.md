@@ -1357,5 +1357,10 @@ Training schedules, curricula, and task or stage composition.
 - [Expand and Prune: Maximizing Trajectory Diversity for Effective GRPO in Generative Models](../../conferences/cvpr-2026/cards.md#paper-progrpo-trajectory-diversity)
 - [Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters](../../conferences/cvpr-2026/cards.md#paper-graph-teacher-training-only-adapter-supervision)
 - [Beyond Myopic Alignment: Lookahead Optimization for Online Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-lookahead-rehearsal-hypergradient-alignment)
+- [Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-band-limited-synthetic-distance-field-prior)
+- [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-reconstructive-instruction-tuning-monocular-vlm)
+- [RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-raw-device-specific-degradation)
+- [LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving](../../conferences/cvpr-2026/cards.md#paper-lead-expert-learner-asymmetry)
+- [DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](../../conferences/cvpr-2026/cards.md#paper-dsca-structural-subspaces-lifelong-editing)
 
 <!-- conference-classification:end -->

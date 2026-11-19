@@ -1607,5 +1607,11 @@
 - [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-dtpsr-spatial-frequency-priors)
 - [Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters](../conferences/cvpr-2026/cards.md#paper-graph-teacher-training-only-adapter-supervision)
 - [ROSE: Rotate Your Large Language Model to See](../conferences/cvpr-2026/cards.md#paper-rose-visual-weight-space-rotations)
+- [RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment](../conferences/cvpr-2026/cards.md#paper-requirement-adaptive-test-time-generation)
+- [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-reconstructive-instruction-tuning-monocular-vlm)
+- [PromptLoop: Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment](../conferences/cvpr-2026/cards.md#paper-promptloop-latent-feedback)
+- [DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](../conferences/cvpr-2026/cards.md#paper-dsca-structural-subspaces-lifelong-editing)
+- [4DP-QA: Scalable QA for 4D Perception in Vision Language Models](../conferences/cvpr-2026/cards.md#paper-4dpqa-fixed-reference-motion-qa)
+- [HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models](../conferences/cvpr-2026/cards.md#paper-hawk-importance-weighted-attention-head-pruning)
 
 <!-- conference-classification:end -->

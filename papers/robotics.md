@@ -1157,5 +1157,11 @@
 - [EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding](../conferences/cvpr-2026/cards.md#paper-embodiedsplat-online-codebook)
 - [Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](../conferences/cvpr-2026/cards.md#paper-online-scene-change-multiview-self-supervised-fusion)
 - [HandWorld: Hand-Centric Unified Video Action Generation](../conferences/cvpr-2026/cards.md#paper-handworld-shared-action-video-conditioning)
+- [Pixel Motion Diffusion is What We Need for Robot Control](../conferences/cvpr-2026/cards.md#paper-dawn-pixel-motion-control)
+- [TouchDream: 3D Object Completion through Imagined Touch](../conferences/cvpr-2026/cards.md#paper-touchdream-imagined-tactile-shape)
+- [FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes](../conferences/cvpr-2026/cards.md#paper-freeform-particle-eigenmodes)
+- [LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving](../conferences/cvpr-2026/cards.md#paper-lead-expert-learner-asymmetry)
+- [DIMOS: Disentangling Instance-level Moving Object Segmentation](../conferences/cvpr-2026/cards.md#paper-dimos-event-motion-disentangling)
+- [DreamSAC: Learning Hamiltonian World Models via Symmetry Exploration](../conferences/cvpr-2026/cards.md#paper-dreamsac-hamiltonian-symmetry-exploration)
 
 <!-- conference-classification:end -->

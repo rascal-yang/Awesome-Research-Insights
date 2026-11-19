@@ -471,5 +471,8 @@
 - [Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering](../conferences/cvpr-2026/cards.md#paper-cfg-rejection-accumulated-score-difference)
 - [Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision](../conferences/cvpr-2026/cards.md#paper-intent-grounding-with-pixel-mask-supervision)
 - [Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](../conferences/cvpr-2026/cards.md#paper-hierarchical-workflow-graphs-instruction-data)
+- [BiGain: Unified Token Compression for Joint Generation and Classification](../conferences/cvpr-2026/cards.md#paper-bigain-frequency-aware-token-merging)
+- [Resolving Evidence Sparsity: Agentic Context Engineering for Long-Document Understanding](../conferences/cvpr-2026/cards.md#paper-sleuth-evidence-sparsity-context-selection)
+- [HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models](../conferences/cvpr-2026/cards.md#paper-hawk-importance-weighted-attention-head-pruning)
 
 <!-- conference-classification:end -->

@@ -821,5 +821,11 @@ Model-wide design and information flow.
 - [TokenLight: Precise Lighting Control in Images using Attribute Tokens](../../conferences/cvpr-2026/cards.md#paper-tokenlight-continuous-light-tokens)
 - [Linking Modality Isolation in Heterogeneous Collaborative Perception](../../conferences/cvpr-2026/cards.md#paper-codealign-isolated-modalities)
 - [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-dtpsr-spatial-frequency-priors)
+- [Endless World: Real-Time 3D-Aware Long Video Generation](../../conferences/cvpr-2026/cards.md#paper-global-3d-attention-streaming-video)
+- [TriLite: Efficient Weakly Supervised Object Localization with Universal Visual Features and Tri-Region Disentanglement](../../conferences/cvpr-2026/cards.md#paper-foreground-background-ambiguity-localization-head)
+- [Pixel Motion Diffusion is What We Need for Robot Control](../../conferences/cvpr-2026/cards.md#paper-dawn-pixel-motion-control)
+- [TouchDream: 3D Object Completion through Imagined Touch](../../conferences/cvpr-2026/cards.md#paper-touchdream-imagined-tactile-shape)
+- [DIMOS: Disentangling Instance-level Moving Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-dimos-event-motion-disentangling)
+- [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Urban Scenes](../../conferences/cvpr-2026/cards.md#paper-pritti-urban-primitives)
 
 <!-- conference-classification:end -->

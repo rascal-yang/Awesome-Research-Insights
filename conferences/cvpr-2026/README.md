@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,507 篇，其中 2,224 篇暂收录、1,283 篇排除，另有 535 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,537 篇，其中 2,244 篇暂收录、1,293 篇排除，另有 505 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2230,3 +2230,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,507
 | 计算机视觉 | 在线适配 | [Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation](cards.md#paper-imat-interactive-language-memory-tracking) | 将用户发出的中途语言纠正存入跟踪记忆，并测量后续能否按指令改变。 |
 | 生成模型 | 强化学习与奖励 | [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](cards.md#paper-var-rl-asynchronous-stage-credit) | 在尺度不同步的生成步骤之间分配奖励，减少后阶段更新干扰早阶段。 |
 | 机器学习 | 持续学习 | [Beyond Myopic Alignment: Lookahead Optimization for Online Class-Incremental Learning](cards.md#paper-lookahead-rehearsal-hypergradient-alignment) | 比较更新一步后旧任务损失的变化，避免只对齐当前梯度方向。 |
+| 计算机视觉 | 模型架构 | [Endless World: Real-Time 3D-Aware Long Video Generation](cards.md#paper-global-3d-attention-streaming-video) | 流式长视频生成可同时依赖近期帧条件和跨时间的三维引导。 |
+| 多模态学习 | 推理策略 | [RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment](cards.md#paper-requirement-adaptive-test-time-generation) | 测试时生成预算可按未满足的条件动态分配，而非所有提示固定迭代数。 |
+| 计算机视觉 | 表征学习 | [4DSurf: High-Fidelity Dynamic Scene Surface Reconstruction](cards.md#paper-gaussian-motion-induced-sdf-flow) | 动态表面可用 Gaussian 的形变约束隐式距离场流动，帮助几何在时间上持续一致。 |
+| 计算机视觉 | 训练策略 | [Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting](cards.md#paper-band-limited-synthetic-distance-field-prior) | 不可微的表面距离场可从解析合成形状蒸馏局部先验，并限制施加监督的距离带。 |
+| 计算机视觉 | 模型架构 | [TriLite: Efficient Weakly Supervised Object Localization with Universal Visual Features and Tri-Region Disentanglement](cards.md#paper-foreground-background-ambiguity-localization-head) | 弱监督定位可把不确定 patch 当成第三类表示，减少过早逼迫前景背景二分。 |
+| 多模态学习 | 训练策略 | [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](cards.md#paper-reconstructive-instruction-tuning-monocular-vlm) | 可用重建式指令训练让视频语言模型从单目帧学几何，减少依赖显式深度设备。 |
+| 机器人学 | 模型架构 | [Pixel Motion Diffusion is What We Need for Robot Control](cards.md#paper-dawn-pixel-motion-control) | 用像素运动连接指令意图与执行控制，让两级生成通过可检查中间状态通信。 |
+| 机器人学 | 模型架构 | [TouchDream: 3D Object Completion through Imagined Touch](cards.md#paper-touchdream-imagined-tactile-shape) | 用假设触点生成几何细节来指导视觉补全，并将其保留为可验证假设。 |
+| 机器人学 | 优化策略 | [FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes](cards.md#paper-freeform-particle-eigenmodes) | 从粒子弹性能量的特征模态构建降阶仿真，避免逐对象拟合神经场。 |
+| 计算机视觉 | 训练策略 | [RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution](cards.md#paper-raw-device-specific-degradation) | 先标定部署设备的噪声和模糊，再生成匹配的监督数据，同时检查跨设备泛化。 |
+| 机器人学 | 训练策略 | [LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving](cards.md#paper-lead-expert-learner-asymmetry) | 闭环模仿前核实专家使用的视野、状态和目标是否可由学生获得。 |
+| 多模态学习 | 推理策略 | [PromptLoop: Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment](cards.md#paper-promptloop-latent-feedback) | 将提示优化从单次文本改写改为观察中间生成状态后逐步改写。 |
+| 机器人学 | 模型架构 | [DIMOS: Disentangling Instance-level Moving Object Segmentation](cards.md#paper-dimos-event-motion-disentangling) | 事件和帧融合前拆分运动与外观，让像素图补静态细节、事件补时间变化。 |
+| 计算机视觉 | 模型架构 | [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Urban Scenes](cards.md#paper-pritti-urban-primitives) | 在场景生成中用对象向量和地面栅格分别表达可编辑内容。 |
+| 多模态学习 | 持续学习 | [DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](cards.md#paper-dsca-structural-subspaces-lifelong-editing) | 将待更新概念与已有知识分到不同子空间，检查连续更新的邻域干扰。 |
+| 机器人学 | 世界模型 | [DreamSAC: Learning Hamiltonian World Models via Symmetry Exploration](cards.md#paper-dreamsac-hamiltonian-symmetry-exploration) | 让主动探索关注物理不变量疑点，并用跨视角对比监督学习与观测无关的状态。 |
+| 生成模型 | 视觉 Token 筛选 | [BiGain: Unified Token Compression for Joint Generation and Classification](cards.md#paper-bigain-frequency-aware-token-merging) | 兼顾判别和生成任务时，先区分高对比细节和可合并的低频区域。 |
+| 智能体 | 检索增强 | [Resolving Evidence Sparsity: Agentic Context Engineering for Long-Document Understanding](cards.md#paper-sleuth-evidence-sparsity-context-selection) | 长文档先查相关页，再按内容类型细筛证据，减少把整页冗余输入推理器。 |
+| 多模态学习 | 评测设计 | [4DP-QA: Scalable QA for 4D Perception in Vision Language Models](cards.md#paper-4dpqa-fixed-reference-motion-qa) | 同时评价图像平面轨迹和固定坐标系的物体运动，区分相机变化与对象位移。 |
+| 多模态学习 | 视觉 Token 筛选 | [HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models](cards.md#paper-hawk-importance-weighted-attention-head-pruning) | 以视觉任务相关的注意力头加权 token 重要性，不把每个头等权平均。 |

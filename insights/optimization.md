@@ -725,5 +725,6 @@
 - [Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers](../conferences/cvpr-2026/cards.md#paper-domain-routed-sample-conditional-residuals)
 - [ODGS-SLAM: Omnidirectional Gaussian Splatting SLAM](../conferences/cvpr-2026/cards.md#paper-odgs-slam-graph-keyframes)
 - [LeapAlign: Post-training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories](../conferences/cvpr-2026/cards.md#paper-leapalign-two-step-trajectories)
+- [FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes](../conferences/cvpr-2026/cards.md#paper-freeform-particle-eigenmodes)
 
 <!-- conference-classification:end -->
