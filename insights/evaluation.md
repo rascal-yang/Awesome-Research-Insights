@@ -1640,5 +1640,7 @@
 - [Hunting Normality from Query Sample via Residual Learning for Generalist Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-residual-guided-instance-normality-learning)
 - [Making the Classification Explanation Faithful to the Confidence Score](../conferences/cvpr-2026/cards.md#paper-mhe-confidence-faithfulness)
 - [Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World](../conferences/cvpr-2026/cards.md#paper-dynbench-localized-dynamics)
+- [Emergent Outlier View Rejection in Visual Geometry Grounded Transformers](../conferences/cvpr-2026/cards.md#paper-latent-outlier-view-rejection-probe)
+- [TiViBench: Benchmarking Think-in-Video Reasoning for Video Generation](../conferences/cvpr-2026/cards.md#paper-task-completion-over-fidelity-video-reasoning)
 
 <!-- conference-classification:end -->

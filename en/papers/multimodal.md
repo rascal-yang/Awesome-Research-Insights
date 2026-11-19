@@ -1674,5 +1674,12 @@ Learning across modalities such as images, text, audio, and video.
 - [S2C2Seg: Semantic-Spatial Consistency and Category Optimization for Open-Vocabulary Segmentation](../../conferences/cvpr-2026/cards.md#paper-s2c2seg-category-subsets)
 - [Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World](../../conferences/cvpr-2026/cards.md#paper-dynbench-localized-dynamics)
 - [Beyond What's Shared: Recovering Lost Unique Information from Intermediate Layers to Boost Multimodal Geo-Foundation Models](../../conferences/cvpr-2026/cards.md#paper-geo-midlayer-unique-modal-information-recovery)
+- [Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-uncertainty-weighted-hyperbolic-part-whole)
+- [A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-energy-guided-test-time-visual-robustness)
+- [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection](../../conferences/cvpr-2026/cards.md#paper-foreground-concentrated-temporal-text-alignment)
+- [Inter-Edit: First Benchmark for Interactive Instruction-Based Image Editing](../../conferences/cvpr-2026/cards.md#paper-imprecise-user-mask-simulation-for-editing)
+- [TiViBench: Benchmarking Think-in-Video Reasoning for Video Generation](../../conferences/cvpr-2026/cards.md#paper-task-completion-over-fidelity-video-reasoning)
+- [Meta-CoT: Enhancing Granularity and Generalization in Image Editing](../../conferences/cvpr-2026/cards.md#paper-metacot-task-target-decomposition)
+- [TempoControl: Temporal Attention Guidance for Text-to-Video Models](../../conferences/cvpr-2026/cards.md#paper-tempocontrol-temporal-attention)
 
 <!-- conference-classification:end -->

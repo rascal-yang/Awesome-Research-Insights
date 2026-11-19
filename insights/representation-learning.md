@@ -803,5 +803,8 @@
 - [OccAny: Generalized Unconstrained Urban 3D Occupancy](../conferences/cvpr-2026/cards.md#paper-occany-uncalibrated-metric-occupancy)
 - [Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning](../conferences/cvpr-2026/cards.md#paper-deep-correspondence-depth-supervision-vlm)
 - [Beyond What's Shared: Recovering Lost Unique Information from Intermediate Layers to Boost Multimodal Geo-Foundation Models](../conferences/cvpr-2026/cards.md#paper-geo-midlayer-unique-modal-information-recovery)
+- [Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-uncertainty-weighted-hyperbolic-part-whole)
+- [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection](../conferences/cvpr-2026/cards.md#paper-foreground-concentrated-temporal-text-alignment)
+- [DepthFocus: Controllable Depth Estimation for See-Through Scenes](../conferences/cvpr-2026/cards.md#paper-depthfocus-reference-plane-conditional-depth)
 
 <!-- conference-classification:end -->

@@ -1188,5 +1188,8 @@ Robot perception, policy learning, planning, and control.
 - [TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size](../../conferences/cvpr-2026/cards.md#paper-masked-single-agent-motion-priors-cooperation)
 - [AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking](../../conferences/cvpr-2026/cards.md#paper-adadextracking-modulator-loop)
 - [Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](../../conferences/cvpr-2026/cards.md#paper-roboperform-audio-style-control)
+- [AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction](../../conferences/cvpr-2026/cards.md#paper-amap-future-teacher)
+- [WorldGen: From Text to Traversable and Interactive 3D Worlds](../../conferences/cvpr-2026/cards.md#paper-worldgen-navigable-entity-reconstruction)
+- [NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction](../../conferences/cvpr-2026/cards.md#paper-navforesee-dual-horizon-visual-imagination)
 
 <!-- conference-classification:end -->

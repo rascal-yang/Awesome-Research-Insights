@@ -36151,3 +36151,288 @@
 - **适用条件 / 局限** · 需确保新增特征确为独有任务信号，其他骨干层深和域迁移应重测。
 
 **可复用机制** · 跨模态对比模型的末层可能丢失模态私有信息，线性探测时比较中间层补充。
+
+<a id="paper-visibility-guided-missing-geometry-recovery"></a>
+
+## VAD-GS: Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_VAD-GS_Visibility-Aware_Densification_for_3D_Gaussian_Splatting_in_Dynamic_Urban_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_VAD-GS_Visibility-Aware_Densification_for_3D_Gaussian_Splatting_in_Dynamic_Urban_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 复制已有 Gaussian 无法恢复初始化完全缺失的表面。
+- **核心创新 / 方法** · 依据体素可见性识别不可靠几何并定向恢复。
+- **Baseline** · 比较既有动态 3DGS 与密化方案。
+- **Benchmark** · Waymo Open Dataset，新视图与动态对象质量。
+- **关键结果 / 消融** · 表 1 单列动态对象 PSNR。
+- **适用条件 / 局限** · 缺观测区域的补全仍可能有多解。
+
+**可复用机制** · 三维重建可先判断体素是否缺观测，再对真正缺失区补图元。
+
+<a id="paper-uncertainty-weighted-hyperbolic-part-whole"></a>
+
+## Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Uncertainty-guided_Compositional_Alignment_with_Part-to-Whole_Semantic_Representativeness_in_Hyperbolic_Vision-Language_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Uncertainty-guided_Compositional_Alignment_with_Part-to-Whole_Semantic_Representativeness_in_Hyperbolic_Vision-Language_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 即使双曲空间能表达层级，不同局部对整体语义的贡献仍不相同。
+- **核心创新 / 方法** · 以双曲不确定性调节对比权重，并加入蕴含校准。
+- **Baseline** · 与既有双曲图文模型及两种架构比较。
+- **Benchmark** · 零样本图像分类等组合语义任务。
+- **关键结果 / 消融** · 表 1 区分架构和训练来源。
+- **适用条件 / 局限** · 不确定性代理可能误判稀有但关键的局部。
+
+**可复用机制** · 部分–整体对齐可以按每部分的代表性加权，而非同等对待。
+
+<a id="paper-cross-view-correspondence-block-sparse-attention"></a>
+
+## Block-Sparse Global Attention for Efficient Multi-View Geometry Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Block-Sparse_Global_Attention_for_Efficient_Multi-View_Geometry_Transformers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Block-Sparse_Global_Attention_for_Efficient_Multi-View_Geometry_Transformers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全局注意力二次增长，但概率大多集中在少量对应关系。
+- **核心创新 / 方法** · 用块稀疏内核替代全局密集计算。
+- **Baseline** · 比较 VGGT、π3、MapAnything 等稠密版本。
+- **Benchmark** · 多视图重建基准的速度及质量。
+- **关键结果 / 消融** · 论文报告超过三倍推理加速，任务表现接近。
+- **适用条件 / 局限** · 依赖稀疏内核及可保留的图像对应。
+
+**可复用机制** · 多视角重建可按几何对应保留全局注意力块，无需为稀疏推理重训。
+
+<a id="paper-energy-guided-test-time-visual-robustness"></a>
+
+## A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mirza_A_Provable_Energy-Guided_Test-Time_Defense_Boosting_Adversarial_Robustness_of_Large_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mirza_A_Provable_Energy-Guided_Test-Time_Defense_Boosting_Adversarial_Robustness_of_Large_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 未见扰动可能损害分类、描述和问答。
+- **核心创新 / 方法** · 对输入进行轻量能量校正，并可与已有防御结合。
+- **Baseline** · 比较图像预处理及常规推理防御。
+- **Benchmark** · ImageNet 分类及视觉语言描述、问答。
+- **关键结果 / 消融** · 论文报告即使一次优化也能提高部分稳健性指标。
+- **适用条件 / 局限** · 需要访问视觉编码器，效果依赖数据和计算预算。
+
+**可复用机制** · 可在推理前用短步能量校正保护视觉模型，避免全面重训。
+
+<a id="paper-foreground-concentrated-temporal-text-alignment"></a>
+
+## TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_TF-CADE_Foreground-Concentrated_Text-Video_Alignment_for_Zero-Shot_Temporal_Action_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_TF-CADE_Foreground-Concentrated_Text-Video_Alignment_for_Zero-Shot_Temporal_Action_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 未剪辑视频背景片段会稀释类别差异。
+- **核心创新 / 方法** · 以片段动作权重聚合并重新校准置信。
+- **Baseline** · 比较其他零样本及普通时间动作检测。
+- **Benchmark** · THUMOS14、ActivityNet v1.3，按多个 tIoU 阈值测 mAP。
+- **关键结果 / 消融** · 正文按阈值报告结果。
+- **适用条件 / 局限** · 依赖早期前景分数的可靠性。
+
+**可复用机制** · 零样本动作定位可让文本只和动作相关片段强对齐，并用匹配置信修正时间边界。
+
+<a id="paper-imprecise-user-mask-simulation-for-editing"></a>
+
+## Inter-Edit: First Benchmark for Interactive Instruction-Based Image Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Inter-Edit_First_Benchmark_for_Interactive_Instruction-Based_Image_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Inter-Edit_First_Benchmark_for_Interactive_Instruction-Based_Image_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 精确分割掩码与真实用户圈画分布不同。
+- **核心创新 / 方法** · 构造带不规则空间提示的数据及位置感知评测。
+- **Baseline** · 比较普通文本与使用空间提示的编辑方案。
+- **Benchmark** · Inter-Edit 的人工测试及位置相关评分。
+- **关键结果 / 消融** · 表 1 分开报告不同属性的编辑成绩。
+- **适用条件 / 局限** · 模拟圈画覆盖未必代表实际交互。
+
+**可复用机制** · 人机编辑训练可以刻意模拟不精确空间标记，并单独衡量编辑落点。
+
+<a id="paper-latent-outlier-view-rejection-probe"></a>
+
+## Emergent Outlier View Rejection in Visual Geometry Grounded Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Emergent_Outlier_View_Rejection_in_Visual_Geometry_Grounded_Transformers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_Emergent_Outlier_View_Rejection_in_Visual_Geometry_Grounded_Transformers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无重叠的图像会损伤重建，而模型不显式验证几何。
+- **核心创新 / 方法** · 控制注入混杂视图，对层表征探测并据此做排除。
+- **Baseline** · 比较原 VGGT 与加入拒绝步骤。
+- **Benchmark** · 不同混杂视图比例的图像集合及重建。
+- **关键结果 / 消融** · 论文观察有特定中间层可区分无关视图。
+- **适用条件 / 局限** · 被拒图可能含独有正确视角，阈值需适配。
+
+**可复用机制** · 前馈三维网络的中间层可能已编码视图离群性，可先诊断再做过滤。
+
+<a id="paper-task-completion-over-fidelity-video-reasoning"></a>
+
+## TiViBench: Benchmarking Think-in-Video Reasoning for Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_TiViBench_Benchmarking_Think-in-Video_Reasoning_for_Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_TiViBench_Benchmarking_Think-in-Video_Reasoning_for_Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 画面真实与动作逻辑正确是不同目标。
+- **核心创新 / 方法** · 按搜索、视觉模式、符号和规划任务以及难度评估。
+- **Baseline** · 对照 Wan、CogVideoX、Veo、Sora 等。
+- **Benchmark** · TiViBench 24 类场景三级难度，测 Pass@1。
+- **关键结果 / 消融** · 表中 Veo 3.1 总分 26.05，Wan2.2 为 9.41。
+- **适用条件 / 局限** · 结果与任务验证口径和生成设置有关。
+
+**可复用机制** · 把视频生成用作推理前，应单独验证可核查任务达成率。
+
+<a id="paper-amap-future-teacher"></a>
+
+## AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_AMap_Distilling_Future_Priors_for_Ahead-Aware_Online_HD_Map_Construction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_AMap_Distilling_Future_Priors_for_Ahead-Aware_Online_HD_Map_Construction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 历史融合多改善已走区域，但前方误差更影响规划。
+- **核心创新 / 方法** · AMap 将有未来信息教师的先验蒸馏给只读取当前信息的学生。
+- **Baseline** · 比较历史融合和不同前后方误差设置。
+- **Benchmark** · 正文在线高清地图及下游规划，分别报告向前和向后退化。
+- **关键结果 / 消融** · 原文发现规划对前方退化更敏感。
+- **适用条件 / 局限** · 未来教师仅用于训练，域外道路及闭环实车需复测。
+
+**可复用机制** · 按下游风险将地图误差分方向评估，并用训练期可见的未来帧监督当前在线预测。
+
+<a id="paper-cdg-degraded-conditions"></a>
+
+## Guiding Diffusion Models with Semantically Degraded Conditions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Guiding_Diffusion_Models_with_Semantically_Degraded_Conditions_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_Guiding_Diffusion_Models_with_Semantically_Degraded_Conditions_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 空文本引导难强调复杂组合中的局部语义差异。
+- **核心创新 / 方法** · CDG 区分内容和上下文汇聚令牌，只在对照条件弱化内容令牌。
+- **Baseline** · 比较标准 CFG 及现有指导机制。
+- **Benchmark** · MS-COCO 2017 验证集、GenAI-Bench 组合推理。
+- **关键结果 / 消融** · 正文比较总体生成和空间组合表现。
+- **适用条件 / 局限** · 令牌角色划分依赖文本编码器，长指令及视频需另验。
+
+**可复用机制** · 在扩散引导中以接近目标却缺少具体属性的条件作对照，保留上下文差异的可解释性。
+
+<a id="paper-metacot-task-target-decomposition"></a>
+
+## Meta-CoT: Enhancing Granularity and Generalization in Image Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Meta-CoT_Enhancing_Granularity_and_Generalization_in_Image_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Meta-CoT_Enhancing_Granularity_and_Generalization_in_Image_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单条总体推理链容易漏掉复杂指令内的多个对象。
+- **核心创新 / 方法** · Meta-CoT 以任务、对象、理解能力三元组组织两级推理。
+- **Baseline** · 对照直接编辑及不同训练、推理设置。
+- **Benchmark** · 正文21项编辑测试，用 GPT-4.1 评分。
+- **关键结果 / 消融** · 表2比较总体表现和只训练编辑的对照。
+- **适用条件 / 局限** · 需核验自动裁判，重叠编辑的操作顺序可能互相影响。
+
+**可复用机制** · 图像编辑先按任务和目标拆分，并为每个目标明确所需的理解能力。
+
+<a id="paper-zorder-sparse-gaussian-attention"></a>
+
+## Z-Order Transformer for Feed-Forward Gaussian Splatting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Z-Order_Transformer_for_Feed-Forward_Gaussian_Splatting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Z-Order_Transformer_for_Feed-Forward_Gaussian_Splatting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 前馈高斯数量多、关系不显式，完全注意力成本高。
+- **核心创新 / 方法** · 按 Z 序建立空间序列，稀疏聚合并压制重复基元。
+- **Baseline** · 与已有前馈高斯合成方法比较。
+- **Benchmark** · 多种输入视角数和可变输入设置，测新视点。
+- **关键结果 / 消融** · 正文表1、2检查视角数量和生成质量。
+- **适用条件 / 局限** · 空间序列会在块边界拆开真实邻域，薄结构需单独验证。
+
+**可复用机制** · 将无序高斯按空间 Z 序组织，再用稀疏注意力与去冗余处理局部结构。
+
+<a id="paper-worldgen-navigable-entity-reconstruction"></a>
+
+## WorldGen: From Text to Traversable and Interactive 3D Worlds
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_WorldGen_From_Text_to_Traversable_and_Interactive_3D_Worlds_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_WorldGen_From_Text_to_Traversable_and_Interactive_3D_Worlds_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单图到大场景常在可通行性、对象质量与完整性间取舍。
+- **核心创新 / 方法** · WorldGen 先规划体量和通行面、生成外观，然后整体重建并分解重生成对象。
+- **Baseline** · 比较无全局约束与已有场景分解方式。
+- **Benchmark** · 正文评估导航网格对齐与三维实体分解。
+- **关键结果 / 消融** · 表1、2分开验证可通行位置和组成。
+- **适用条件 / 局限** · 导航网格不代替机器人几何与动力学可行性，需实测。
+
+**可复用机制** · 用可导航体块约束全局生成，再分解成引擎可独立编辑的对象。
+
+<a id="paper-tempocontrol-temporal-attention"></a>
+
+## TempoControl: Temporal Attention Guidance for Text-to-Video Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Schiber_TempoControl_Temporal_Attention_Guidance_for_Text-to-Video_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Schiber_TempoControl_Temporal_Attention_Guidance_for_Text-to-Video_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单条文生视频提示难精确指定事件何时出现。
+- **核心创新 / 方法** · TEMPOCONTROL 用相关性、幅度与熵控制交叉注意力时间形态。
+- **Baseline** · 与原模型和现有时间控制基线比较。
+- **Benchmark** · 正文单物体、双物体、运动和多物体控制设置。
+- **关键结果 / 消融** · 表1、2分别报告基本和多对象结果。
+- **适用条件 / 局限** · 注意力峰值不保证真实可见性，多个对象的时序冲突需验证。
+
+**可复用机制** · 在冻结视频生成器中引导概念注意力随时间出现，同时约束强度和语义分散。
+
+<a id="paper-navforesee-dual-horizon-visual-imagination"></a>
+
+## NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_NavForesee_A_Unified_Vision-Language_World_Model_for_Hierarchical_Planning_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_NavForesee_A_Unified_Vision-Language_World_Model_for_Hierarchical_Planning_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 复杂指令跨越多个场景，反馈式动作策略难在未见环境提前规划。
+- **核心创新 / 方法** · 条件包含完整指令和历史观察，共同学习进度跟踪、子目标拆分与不同时间尺度的视觉预测。
+- **Baseline** · 比较 HPN+DN、CMA 等多模态导航方法。
+- **Benchmark** · R2R-CE、RxR-CE Val-Unseen，报告导航误差 NE、成功率 SR 和路径归一化成功率 SPL。
+- **关键结果 / 消融** · 表 1 在不同观测可用性下列出对照，另消融预测和子目标。
+- **适用条件 / 局限** · 预测视图可能与环境不符，未见交互和真实长程闭环应单独验证。
+
+**可复用机制** · 将子目标规划与近远期视觉预测放进同一模型，按任务进度更新导航决策。
+
+<a id="paper-sjd-pac-adaptive-continuation"></a>
+
+## SJD-PAC: Accelerating Speculative Jacobi Decoding via Proactive Drafting and Adaptive Continuation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kang_SJD-PAC_Accelerating_Speculative_Jacobi_Decoding_via_Proactive_Drafting_and_Adaptive_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kang_SJD-PAC_Accelerating_Speculative_Jacobi_Decoding_via_Proactive_Drafting_and_Adaptive_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无草稿模型的 Jacobi 解码在高熵图像区域接受率低。
+- **核心创新 / 方法** · 主动挑选局部候选并在首次拒绝后自适应继续验证，保持目标采样分布。
+- **Baseline** · 对照普通自回归和原 Speculative Jacobi Decoding。
+- **Benchmark** · Lumina-mGPT、Emu3 的图像生成，比较步数压缩、实测速度、FID 与 CLIP。
+- **关键结果 / 消融** · 表 1 同时报延迟和质量，用于核查加速是否来自更长接受长度。
+- **适用条件 / 局限** · 速度依赖高熵区域比例与候选验证并行度，应在目标硬件复测。
+
+**可复用机制** · 首次拒绝后继续验证可用候选，减少视觉自回归的重复草稿。
+
+<a id="paper-fshil-conditional-meta-expansion"></a>
+
+## Few-Shot Hybrid Incremental Learning:Continually Learning under Data Scarcity and Task Uncertainty
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Few-Shot_Hybrid_Incremental_LearningContinually_Learning_under_Data_Scarcity_and_Task_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Few-Shot_Hybrid_Incremental_LearningContinually_Learning_under_Data_Scarcity_and_Task_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全冻结限制表示适应，而无条件扩张在少样本下会过拟合。
+- **核心创新 / 方法** · 建立混合增量设置，并以条件元扩展在新任务适应能力和参数稳定性间取舍。
+- **Baseline** · 与少样本类增量、域增量及混合增量方案比较。
+- **Benchmark** · 正文区分预训练和增量阶段，控制每任务类数和任务数。
+- **关键结果 / 消融** · 论文分别报告不同设置，观察冻结和扩张的互补失效。
+- **适用条件 / 局限** · 条件选择依赖可用的少量新样本，域切换或任务边界错误会影响扩展。
+
+**可复用机制** · 在任务划分未知且样本很少时，有条件扩展参数而非每轮都冻结或扩张。
+
+<a id="paper-depthfocus-reference-plane-conditional-depth"></a>
+
+## DepthFocus: Controllable Depth Estimation for See-Through Scenes
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Min_DepthFocus_Controllable_Depth_Estimation_for_See-Through_Scenes_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Min_DepthFocus_Controllable_Depth_Estimation_for_See-Through_Scenes_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 传统每像素单深度不能区分透明介质前后不同表面。
+- **核心创新 / 方法** · 把控制值映射到参考视差平面，并以参考深度驱动选择监督目标层。
+- **Baseline** · 与既有双目深度估计方法比较。
+- **Benchmark** · Booster、Middlebury 的非遮挡区域视差实验。
+- **关键结果 / 消融** · 表 1 验证常规视差质量，正文评控制值是否有可预期的深度意义。
+- **适用条件 / 局限** · 依赖有效相机标定和多层真值，严重遮挡或反射仍需复测。
+
+**可复用机制** · 透明或多层场景中让观察者选择参考深度，再预测其附近的目标表面。
+
+<a id="paper-fine-shared-factors-variable-depth-initialization"></a>
+
+## FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xie_FINE_Factorizing_Knowledge_for_Initialization_of_Variable-sized_Diffusion_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xie_FINE_Factorizing_Knowledge_for_Initialization_of_Variable-sized_Diffusion_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 不同容量扩散模型分别预训练会重复消耗资源。
+- **核心创新 / 方法** · 将每层权重拆成共用左右矩阵和层专有中间因子，共同学习可重组的权重。
+- **Baseline** · 与从零训练或已有扩散初始化方式比较。
+- **Benchmark** · ImageNet-1K 类条件生成，不同模型深度以同一 100K 步初始化后训练预算对比。
+- **关键结果 / 消融** · 表 1 联合报告质量、参数和 FLOPs，比较不同深度的初始化。
+- **适用条件 / 局限** · 依赖模型族内矩阵形状和层功能相容，跨不同骨干仍需重训或验证。
+
+**可复用机制** · 训练一次跨层共享矩阵，再按部署深度选择层特定因子初始化。

@@ -2655,5 +2655,8 @@
 - [Spherical Leech Quantization for Visual Tokenization and Generation](../conferences/cvpr-2026/cards.md#paper-leech-lattice-visual-quantization)
 - [Outlier-Robust Diffusion Solvers for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-robust-diffusion-huber-inverse-solvers)
 - [C^2FG: Control Classifier-Free Guidance via Score Discrepancy Analysis](../conferences/cvpr-2026/cards.md#paper-c2fg-time-dependent-score-discrepancy-guidance)
+- [SJD-PAC: Accelerating Speculative Jacobi Decoding via Proactive Drafting and Adaptive Continuation](../conferences/cvpr-2026/cards.md#paper-sjd-pac-adaptive-continuation)
+- [Few-Shot Hybrid Incremental Learning:Continually Learning under Data Scarcity and Task Uncertainty](../conferences/cvpr-2026/cards.md#paper-fshil-conditional-meta-expansion)
+- [FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models](../conferences/cvpr-2026/cards.md#paper-fine-shared-factors-variable-depth-initialization)
 
 <!-- conference-classification:end -->

@@ -483,5 +483,6 @@ Data selection, annotation, augmentation, and sampling.
 - [HierAmp: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-hieramp-scale-wise-class-token-distillation)
 - [Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective](../../conferences/cvpr-2026/cards.md#paper-d2c-diffusion-difficulty-select-and-attach)
 - [Regulating Rather than Constraining: Adaptive Guidance for Complex Spectral Reconstruction in Pansharpening](../../conferences/cvpr-2026/cards.md#paper-spatial-spectral-mixing-for-rare-reconstruction)
+- [Inter-Edit: First Benchmark for Interactive Instruction-Based Image Editing](../../conferences/cvpr-2026/cards.md#paper-imprecise-user-mask-simulation-for-editing)
 
 <!-- conference-classification:end -->

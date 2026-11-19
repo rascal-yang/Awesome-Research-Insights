@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,777 篇，其中 2,410 篇暂收录、1,367 篇排除，另有 265 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,807 篇，其中 2,429 篇暂收录、1,378 篇排除，另有 235 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2416,3 +2416,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,777
 | 三维视觉 | 传感器选择 | [Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis](cards.md#paper-thermal-nvs-radiometric-drift-diagnosis) | 用时标区分热成像快速波动和慢漂移，并检查画质异常是否来自传感器。 |
 | 智能体 | 记忆机制 | [OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning](cards.md#paper-oasis-hierarchical-event-memory-refinement) | 将流式历史写入事件树，先短上下文推理，必要时再逐级查回证据。 |
 | 多模态学习 | 表征学习 | [Beyond What's Shared: Recovering Lost Unique Information from Intermediate Layers to Boost Multimodal Geo-Foundation Models](cards.md#paper-geo-midlayer-unique-modal-information-recovery) | 跨模态对比模型的末层可能丢失模态私有信息，线性探测时比较中间层补充。 |
+| 计算机视觉 | 训练策略 | [VAD-GS: Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes](cards.md#paper-visibility-guided-missing-geometry-recovery) | 三维重建可先判断体素是否缺观测，再对真正缺失区补图元。 |
+| 多模态学习 | 表征学习 | [Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models](cards.md#paper-uncertainty-weighted-hyperbolic-part-whole) | 部分–整体对齐可以按每部分的代表性加权，而非同等对待。 |
+| 计算机视觉 | 推理策略 | [Block-Sparse Global Attention for Efficient Multi-View Geometry Transformers](cards.md#paper-cross-view-correspondence-block-sparse-attention) | 多视角重建可按几何对应保留全局注意力块，无需为稀疏推理重训。 |
+| 多模态学习 | 推理策略 | [A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models](cards.md#paper-energy-guided-test-time-visual-robustness) | 可在推理前用短步能量校正保护视觉模型，避免全面重训。 |
+| 多模态学习 | 表征学习 | [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection](cards.md#paper-foreground-concentrated-temporal-text-alignment) | 零样本动作定位可让文本只和动作相关片段强对齐，并用匹配置信修正时间边界。 |
+| 多模态学习 | 数据策略 | [Inter-Edit: First Benchmark for Interactive Instruction-Based Image Editing](cards.md#paper-imprecise-user-mask-simulation-for-editing) | 人机编辑训练可以刻意模拟不精确空间标记，并单独衡量编辑落点。 |
+| 计算机视觉 | 评测与诊断 | [Emergent Outlier View Rejection in Visual Geometry Grounded Transformers](cards.md#paper-latent-outlier-view-rejection-probe) | 前馈三维网络的中间层可能已编码视图离群性，可先诊断再做过滤。 |
+| 多模态学习 | 评测与诊断 | [TiViBench: Benchmarking Think-in-Video Reasoning for Video Generation](cards.md#paper-task-completion-over-fidelity-video-reasoning) | 把视频生成用作推理前，应单独验证可核查任务达成率。 |
+| 机器人学 | 训练策略 | [AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction](cards.md#paper-amap-future-teacher) | 按下游风险将地图误差分方向评估，并用训练期可见的未来帧监督当前在线预测。 |
+| 计算机视觉 | 推理策略 | [Guiding Diffusion Models with Semantically Degraded Conditions](cards.md#paper-cdg-degraded-conditions) | 在扩散引导中以接近目标却缺少具体属性的条件作对照，保留上下文差异的可解释性。 |
+| 多模态学习 | 训练策略 | [Meta-CoT: Enhancing Granularity and Generalization in Image Editing](cards.md#paper-metacot-task-target-decomposition) | 图像编辑先按任务和目标拆分，并为每个目标明确所需的理解能力。 |
+| 计算机视觉 | 模型架构 | [Z-Order Transformer for Feed-Forward Gaussian Splatting](cards.md#paper-zorder-sparse-gaussian-attention) | 将无序高斯按空间 Z 序组织，再用稀疏注意力与去冗余处理局部结构。 |
+| 机器人学 | 模型架构 | [WorldGen: From Text to Traversable and Interactive 3D Worlds](cards.md#paper-worldgen-navigable-entity-reconstruction) | 用可导航体块约束全局生成，再分解成引擎可独立编辑的对象。 |
+| 多模态学习 | 推理策略 | [TempoControl: Temporal Attention Guidance for Text-to-Video Models](cards.md#paper-tempocontrol-temporal-attention) | 在冻结视频生成器中引导概念注意力随时间出现，同时约束强度和语义分散。 |
+| 机器人学 | 世界模型 | [NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction](cards.md#paper-navforesee-dual-horizon-visual-imagination) | 将子目标规划与近远期视觉预测放进同一模型，按任务进度更新导航决策。 |
+| 生成模型 | 并行解码 | [SJD-PAC: Accelerating Speculative Jacobi Decoding via Proactive Drafting and Adaptive Continuation](cards.md#paper-sjd-pac-adaptive-continuation) | 首次拒绝后继续验证可用候选，减少视觉自回归的重复草稿。 |
+| 机器学习 | 持续学习 | [Few-Shot Hybrid Incremental Learning:Continually Learning under Data Scarcity and Task Uncertainty](cards.md#paper-fshil-conditional-meta-expansion) | 在任务划分未知且样本很少时，有条件扩展参数而非每轮都冻结或扩张。 |
+| 三维视觉 | 空间表征 | [DepthFocus: Controllable Depth Estimation for See-Through Scenes](cards.md#paper-depthfocus-reference-plane-conditional-depth) | 透明或多层场景中让观察者选择参考深度，再预测其附近的目标表面。 |
+| 生成模型 | 参数高效适配 | [FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models](cards.md#paper-fine-shared-factors-variable-depth-initialization) | 训练一次跨层共享矩阵，再按部署深度选择层特定因子初始化。 |

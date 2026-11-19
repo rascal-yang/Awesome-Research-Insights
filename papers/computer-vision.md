@@ -1721,5 +1721,11 @@
 - [Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models](../conferences/cvpr-2026/cards.md#paper-cse-cross-dataset-unlearning)
 - [VT-Intrinsic: Physics-Based Decomposition of Reflectance and Shading using a Single Visible-Thermal Image Pair](../conferences/cvpr-2026/cards.md#paper-vt-intrinsic-ordinal-cues)
 - [Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-thermal-nvs-radiometric-drift-diagnosis)
+- [VAD-GS: Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes](../conferences/cvpr-2026/cards.md#paper-visibility-guided-missing-geometry-recovery)
+- [Block-Sparse Global Attention for Efficient Multi-View Geometry Transformers](../conferences/cvpr-2026/cards.md#paper-cross-view-correspondence-block-sparse-attention)
+- [Emergent Outlier View Rejection in Visual Geometry Grounded Transformers](../conferences/cvpr-2026/cards.md#paper-latent-outlier-view-rejection-probe)
+- [Guiding Diffusion Models with Semantically Degraded Conditions](../conferences/cvpr-2026/cards.md#paper-cdg-degraded-conditions)
+- [Z-Order Transformer for Feed-Forward Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-zorder-sparse-gaussian-attention)
+- [DepthFocus: Controllable Depth Estimation for See-Through Scenes](../conferences/cvpr-2026/cards.md#paper-depthfocus-reference-plane-conditional-depth)
 
 <!-- conference-classification:end -->

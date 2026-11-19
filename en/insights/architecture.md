@@ -856,5 +856,7 @@ Model-wide design and information flow.
 - [Pressure2Motion: Hierarchical Human Motion Reconstruction from Ground Pressure with Text Guidance](../../conferences/cvpr-2026/cards.md#paper-text-disambiguation-for-pressure-motion-reconstruction)
 - [AdaDexTrack: Dynamic Modulation for Adaptive and Generalizable Dexterous Manipulation Tracking](../../conferences/cvpr-2026/cards.md#paper-adadextracking-modulator-loop)
 - [Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](../../conferences/cvpr-2026/cards.md#paper-roboperform-audio-style-control)
+- [Z-Order Transformer for Feed-Forward Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-zorder-sparse-gaussian-attention)
+- [WorldGen: From Text to Traversable and Interactive 3D Worlds](../../conferences/cvpr-2026/cards.md#paper-worldgen-navigable-entity-reconstruction)
 
 <!-- conference-classification:end -->

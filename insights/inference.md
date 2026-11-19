@@ -1750,5 +1750,10 @@
 - [MM-SeR: Multimodal Self-Refinement for Lightweight Image Captioning](../conferences/cvpr-2026/cards.md#paper-mmser-small-captioner-visual-refinement)
 - [S2C2Seg: Semantic-Spatial Consistency and Category Optimization for Open-Vocabulary Segmentation](../conferences/cvpr-2026/cards.md#paper-s2c2seg-category-subsets)
 - [C^2FG: Control Classifier-Free Guidance via Score Discrepancy Analysis](../conferences/cvpr-2026/cards.md#paper-c2fg-time-dependent-score-discrepancy-guidance)
+- [Block-Sparse Global Attention for Efficient Multi-View Geometry Transformers](../conferences/cvpr-2026/cards.md#paper-cross-view-correspondence-block-sparse-attention)
+- [A Provable Energy-Guided Test-Time Defense Boosting Adversarial Robustness of Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-energy-guided-test-time-visual-robustness)
+- [Guiding Diffusion Models with Semantically Degraded Conditions](../conferences/cvpr-2026/cards.md#paper-cdg-degraded-conditions)
+- [TempoControl: Temporal Attention Guidance for Text-to-Video Models](../conferences/cvpr-2026/cards.md#paper-tempocontrol-temporal-attention)
+- [SJD-PAC: Accelerating Speculative Jacobi Decoding via Proactive Drafting and Adaptive Continuation](../conferences/cvpr-2026/cards.md#paper-sjd-pac-adaptive-continuation)
 
 <!-- conference-classification:end -->

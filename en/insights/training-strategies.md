@@ -1390,5 +1390,9 @@ Training schedules, curricula, and task or stage composition.
 - [GM-R^2: Generative Matching Learning for Unsupervised Geometric Representation and Registration](../../conferences/cvpr-2026/cards.md#paper-gmr2-generative-matching)
 - [VA-p: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-vapi-pixel-aware-policy)
 - [TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size](../../conferences/cvpr-2026/cards.md#paper-masked-single-agent-motion-priors-cooperation)
+- [VAD-GS: Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes](../../conferences/cvpr-2026/cards.md#paper-visibility-guided-missing-geometry-recovery)
+- [AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction](../../conferences/cvpr-2026/cards.md#paper-amap-future-teacher)
+- [Meta-CoT: Enhancing Granularity and Generalization in Image Editing](../../conferences/cvpr-2026/cards.md#paper-metacot-task-target-decomposition)
+- [Few-Shot Hybrid Incremental Learning:Continually Learning under Data Scarcity and Task Uncertainty](../../conferences/cvpr-2026/cards.md#paper-fshil-conditional-meta-expansion)
 
 <!-- conference-classification:end -->
