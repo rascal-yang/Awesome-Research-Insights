@@ -688,5 +688,7 @@
 - [FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift](../conferences/cvpr-2026/cards.md#paper-feddap-domain-specific-prototype-alignment)
 - [Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery](../conferences/cvpr-2026/cards.md#paper-assignment-driven-category-discovery)
 - [ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss](../conferences/cvpr-2026/cards.md#paper-resihmr-topology-adaptive)
+- [ARC Is a Vision Problem!](../conferences/cvpr-2026/cards.md#paper-vision-arc)
+- [Latent Implicit Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-latent-implicit-visual-reasoning)
 
 <!-- conference-classification:end -->

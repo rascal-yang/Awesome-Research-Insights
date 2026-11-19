@@ -1112,5 +1112,8 @@
 - [Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction](../conferences/cvpr-2026/cards.md#paper-progressive-retrospective-trajectory)
 - [Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning](../conferences/cvpr-2026/cards.md#paper-pntrack)
 - [CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion](../conferences/cvpr-2026/cards.md#paper-craft-lora)
+- [HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-hispatial-lower-level-spatial-supervision-dependencies)
+- [FedRAC: Rolling Submodel Allocation for Collaborative Fairness in Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedrac-rolling-submodel-allocation-fairness)
+- [Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection](../conferences/cvpr-2026/cards.md#paper-pdp-dual-prompt-pool)
 
 <!-- conference-classification:end -->

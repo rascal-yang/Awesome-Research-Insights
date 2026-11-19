@@ -1248,5 +1248,12 @@ Learning across modalities such as images, text, audio, and video.
 - [CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion](../../conferences/cvpr-2026/cards.md#paper-craft-lora)
 - [LaRP: Efficient Multi-View Inpainting with Latent Reprojection Priors](../../conferences/cvpr-2026/cards.md#paper-larp-latent-reprojection)
 - [Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation](../../conferences/cvpr-2026/cards.md#paper-distok-distribution-conditional-generation)
+- [HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-hispatial-lower-level-spatial-supervision-dependencies)
+- [ARC Is a Vision Problem!](../../conferences/cvpr-2026/cards.md#paper-vision-arc)
+- [Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-rler-video-evidence-election)
+- [VIRST: Video-Instructed Reasoning Assistant for SpatioTemporal Segmentation](../../conferences/cvpr-2026/cards.md#paper-virst-dynamic-anchors)
+- [HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling](../../conferences/cvpr-2026/cards.md#paper-hieramamba)
+- [Latent Implicit Visual Reasoning](../../conferences/cvpr-2026/cards.md#paper-latent-implicit-visual-reasoning)
+- [Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation](../../conferences/cvpr-2026/cards.md#paper-pris-elementwise-prompt-revision)
 
 <!-- conference-classification:end -->

@@ -785,5 +785,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Stable and Efficient Single-Rollout RL for Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-mssr-entropy-advantage)
 - [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](../../conferences/cvpr-2026/cards.md#paper-dcrl-wide-baseline-curriculum)
 - [Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](../../conferences/cvpr-2026/cards.md#paper-cinema-structured-visual-meta-actions)
+- [Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-rler-video-evidence-election)
 
 <!-- conference-classification:end -->

@@ -1333,5 +1333,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [EI-Part:Explode for Completion and Implode for Refinement](../../conferences/cvpr-2026/cards.md#paper-ei-part)
 - [PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation](../../conferences/cvpr-2026/cards.md#paper-pca-seg-parallel-cost)
 - [ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss](../../conferences/cvpr-2026/cards.md#paper-resihmr-topology-adaptive)
+- [Physics-Consistent Diffusion for Efficient Fluid Super-Resolution via Multiscale Residual Correction](../../conferences/cvpr-2026/cards.md#paper-remd-multigrid-physical-residual-correction)
+- [Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection](../../conferences/cvpr-2026/cards.md#paper-pdp-dual-prompt-pool)
+- [WeDetect: Fast Open-Vocabulary Object Detection as Retrieval](../../conferences/cvpr-2026/cards.md#paper-wedetect-region-retrieval)
+- [Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views](../../conferences/cvpr-2026/cards.md#paper-hairguard-soft-boundary-correction)
+- [Real-Time Dynamic Scene Rendering with Controlled Compressibility and Contact Awareness](../../conferences/cvpr-2026/cards.md#paper-dynamic-gaussian-velocity-projection)
+- [Finding Distributed Object-Centric Properties in Self-Supervised Transformers](../../conferences/cvpr-2026/cards.md#paper-object-dino-distributed-patch-attention)
 
 <!-- conference-classification:end -->

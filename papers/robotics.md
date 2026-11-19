@@ -975,5 +975,7 @@
 - [Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction](../conferences/cvpr-2026/cards.md#paper-progressive-retrospective-trajectory)
 - [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-fantasyvln-latent-navigation-reasoning)
 - [Motus: A Unified Latent Action World Model](../conferences/cvpr-2026/cards.md#paper-motus-unified-latent-action)
+- [Neural Distribution Prior for LiDAR Out-of-Distribution Detection](../conferences/cvpr-2026/cards.md#paper-ndp-imbalanced-lidar-ood-score-prior)
+- [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](../conferences/cvpr-2026/cards.md#paper-mergevla)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,827 篇，其中 1,151 篇暂收录、676 篇排除，另有 2,215 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,857 篇，其中 1,170 篇暂收录、687 篇排除，另有 2,185 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1157,3 +1157,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,827
 | 多模态学习 | 条件生成 | [Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation](cards.md#paper-distok-distribution-conditional-generation) | 探索生成语义时，把软类别分布作为连续条件，而非只串接两个现有概念名。 |
 | 计算机视觉 | 表示学习 | [ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss](cards.md#paper-resihmr-topology-adaptive) | 形体拓扑与标准模板不符时，先定义可见且有效的关节子图，再单独建模末端表面。 |
 | 机器人学 | 模型架构 | [Motus: A Unified Latent Action World Model](cards.md#paper-motus-unified-latent-action) | 统一策略和世界模型时，用模态噪声日程切换动作、视频及联合预测，跨数据共享潜动作。 |
+| 机器人学 | 评估与诊断 | [Neural Distribution Prior for LiDAR Out-of-Distribution Detection](cards.md#paper-ndp-imbalanced-lidar-ood-score-prior) | 长尾感知的域外分数可根据已知类预测分布校准，比较阈值之外的 AP 与误报率。见表 5。 |
+| 计算机视觉 | 推理策略 | [Physics-Consistent Diffusion for Efficient Fluid Super-Resolution via Multiscale Residual Correction](cards.md#paper-remd-multigrid-physical-residual-correction) | 重建连续物理场时，可以在去噪中施加多尺度残差校正，并对照像素、频谱与物理指标。见表 2。 |
+| 生成模型 | 模型效率 | [LazyVAR: Accelerating Visual Autoregressive Models via Scale-wise Token Pruning and Parallel Group Decoding](cards.md#paper-lazyvar-parallel-adjacent-scale-decoding) | 逐尺度视觉解码可利用相邻尺度的聚合潜表示相似性，合并并行处理并剪除重复标记。见表 1。 |
+| 多模态学习 | 训练策略 | [HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models](cards.md#paper-hispatial-lower-level-spatial-supervision-dependencies) | 高层空间推理训练可分别消融底层几何和关系监督，避免只堆高层推理数据。见表 5、6。 |
+| 机器学习 | 训练策略 | [FedRAC: Rolling Submodel Allocation for Collaborative Fairness in Federated Learning](cards.md#paper-fedrac-rolling-submodel-allocation-fairness) | 联邦训练的子模型容量可按贡献调整，同时轮转激活单元，以避免同一部分参数总由少数客户端更新。见表 4、5。 |
+| 生成模型 | 损失与奖励 | [SpeeDiff: Scalable Pixel-Anchored End-to-End Latent Diffusion Model](cards.md#paper-speediff-pixel-anchored-joint-latent-training) | VAE 与扩散器联训若使潜变量坍塌，可用像素重建约束扩散估计，再与断开梯度比较。见表 1。 |
+| 机器学习基础与统计 | 推理压缩 | [AdaSVD: Singular Value Decomposition with Adaptive Mechanisms for Large Multimodal Models](cards.md#paper-adasvd) | 固定总压缩预算时分别学习各层压缩率，并用交替更新补偿截断误差。 |
+| 多模态学习 | 输入表示 | [ARC Is a Vision Problem!](cards.md#paper-vision-arc) | 棋盘式推理任务可先做空间画布到画布的视觉基线，再与序列化指令比较。 |
+| 多模态学习 | 强化学习 | [Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning](cards.md#paper-rler-video-evidence-election) | 训练模型生成可解析帧证据，推理时再以证据一致性加权聚合候选。 |
+| 多模态学习 | 模型架构 | [VIRST: Video-Instructed Reasoning Assistant for SpatioTemporal Segmentation](cards.md#paper-virst-dynamic-anchors) | 视频分割跟踪可按最近可靠时刻更新锚，在遮挡与重现中测试。 |
+| 计算机视觉 | 持续学习 | [Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection](cards.md#paper-pdp-dual-prompt-pool) | 增量检测时分共享与任务专有提示，并修复新任务把旧类当背景的监督。 |
+| 机器人学 | 模型架构 | [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](cards.md#paper-mergevla) | 若最终要合并机器人技能，训练时就限制视觉适配器和动作专家之间的跨层干扰。 |
+| 多模态学习 | 模型架构 | [HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling](cards.md#paper-hieramamba) | 长视频压缩保留跨层时序锚，并以局部段与全局文本双目标训练。 |
+| 计算机视觉 | 推理优化 | [WeDetect: Fast Open-Vocabulary Object Detection as Retrieval](cards.md#paper-wedetect-region-retrieval) | 开放词汇检测需要事后切换查询时，缓存候选区域向量，在同一空间做文本检索。 |
+| 多模态学习 | 表示学习 | [Latent Implicit Visual Reasoning](cards.md#paper-latent-implicit-visual-reasoning) | 视觉推理训练可让隐词元按任务重寻图像线索，并以最终任务监督取代人工绘制中间图。 |
+| 计算机视觉 | 训练与数据策略 | [Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views](cards.md#paper-hairguard-soft-boundary-correction) | 薄边界的深度适配训练复用抠图软边界标注，用门控残差只修局部。 |
+| 计算机视觉 | 损失函数与优化 | [Real-Time Dynamic Scene Rendering with Controlled Compressibility and Contact Awareness](cards.md#paper-dynamic-gaussian-velocity-projection) | 动态场景的图元速度可投影至具有不同压缩性约束的物理分量，再做渲染。 |
+| 多模态学习 | 推理优化 | [Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation](cards.md#paper-pris-elementwise-prompt-revision) | 生成推理扩展可按属性聚合多个候选的共同失误，再重写提示，而非持续抽样原提示。 |
+| 计算机视觉 | 可解释性与诊断 | [Finding Distributed Object-Centric Properties in Self-Supervised Transformers](cards.md#paper-object-dino-distributed-patch-attention) | 提取无监督对象线索时，先检查跨层 patch 注意力的 Q/K/V 相似关系，避免只用末层全局词元。 |

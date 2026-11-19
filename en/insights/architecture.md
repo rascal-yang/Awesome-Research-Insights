@@ -653,5 +653,8 @@ Model-wide design and information flow.
 - [Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs](../../conferences/cvpr-2026/cards.md#paper-node-rf)
 - [PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation](../../conferences/cvpr-2026/cards.md#paper-pca-seg-parallel-cost)
 - [Motus: A Unified Latent Action World Model](../../conferences/cvpr-2026/cards.md#paper-motus-unified-latent-action)
+- [VIRST: Video-Instructed Reasoning Assistant for SpatioTemporal Segmentation](../../conferences/cvpr-2026/cards.md#paper-virst-dynamic-anchors)
+- [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](../../conferences/cvpr-2026/cards.md#paper-mergevla)
+- [HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling](../../conferences/cvpr-2026/cards.md#paper-hieramamba)
 
 <!-- conference-classification:end -->

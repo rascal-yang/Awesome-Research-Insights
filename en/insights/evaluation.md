@@ -1526,5 +1526,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Simple Agents Outperform Experts in Biomedical Imaging Workflow Optimization](../../conferences/cvpr-2026/cards.md#paper-workflow-agents-separate-structure-and-parameter-search)
 - [RealUnify: Do Unified Models Truly Benefit from Unification? A Comprehensive Benchmark](../../conferences/cvpr-2026/cards.md#paper-realunify-bidirectional-understanding-generation-evaluation)
 - [Grounded Chain-of-Thought for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-grounded-cot-separate-answer-and-evidence-accuracy)
+- [Neural Distribution Prior for LiDAR Out-of-Distribution Detection](../../conferences/cvpr-2026/cards.md#paper-ndp-imbalanced-lidar-ood-score-prior)
+- [Finding Distributed Object-Centric Properties in Self-Supervised Transformers](../../conferences/cvpr-2026/cards.md#paper-object-dino-distributed-patch-attention)
 
 <!-- conference-classification:end -->

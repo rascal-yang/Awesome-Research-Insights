@@ -2455,5 +2455,9 @@
 - [Guiding Token-Sparse Diffusion Models](../conferences/cvpr-2026/cards.md#paper-sparse-guidance-token-capacity-gap)
 - [FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift](../conferences/cvpr-2026/cards.md#paper-feddap-domain-specific-prototype-alignment)
 - [Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery](../conferences/cvpr-2026/cards.md#paper-assignment-driven-category-discovery)
+- [LazyVAR: Accelerating Visual Autoregressive Models via Scale-wise Token Pruning and Parallel Group Decoding](../conferences/cvpr-2026/cards.md#paper-lazyvar-parallel-adjacent-scale-decoding)
+- [FedRAC: Rolling Submodel Allocation for Collaborative Fairness in Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedrac-rolling-submodel-allocation-fairness)
+- [SpeeDiff: Scalable Pixel-Anchored End-to-End Latent Diffusion Model](../conferences/cvpr-2026/cards.md#paper-speediff-pixel-anchored-joint-latent-training)
+- [AdaSVD: Singular Value Decomposition with Adaptive Mechanisms for Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-adasvd)
 
 <!-- conference-classification:end -->

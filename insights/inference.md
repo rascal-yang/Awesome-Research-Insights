@@ -1520,5 +1520,9 @@
 - [MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-masquant)
 - [LaRP: Efficient Multi-View Inpainting with Latent Reprojection Priors](../conferences/cvpr-2026/cards.md#paper-larp-latent-reprojection)
 - [Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation](../conferences/cvpr-2026/cards.md#paper-distok-distribution-conditional-generation)
+- [Physics-Consistent Diffusion for Efficient Fluid Super-Resolution via Multiscale Residual Correction](../conferences/cvpr-2026/cards.md#paper-remd-multigrid-physical-residual-correction)
+- [AdaSVD: Singular Value Decomposition with Adaptive Mechanisms for Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-adasvd)
+- [WeDetect: Fast Open-Vocabulary Object Detection as Retrieval](../conferences/cvpr-2026/cards.md#paper-wedetect-region-retrieval)
+- [Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation](../conferences/cvpr-2026/cards.md#paper-pris-elementwise-prompt-revision)
 
 <!-- conference-classification:end -->
