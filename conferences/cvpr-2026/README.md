@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 597 篇，其中 400 篇暂收录、197 篇排除，另有 3,445 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 627 篇，其中 419 篇暂收录、208 篇排除，另有 3,415 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -406,3 +406,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 597 �
 | 计算机视觉 | 训练与数据策略 | [Agile Deliberation: Concept Deliberation for Subjective Visual Classification](cards.md#paper-agile-deliberation) | 主观概念标注中先分解待定义概念，再用边界样例迭代修正概念及分类器。 |
 | 机器学习基础 | 表示学习 | [EMMA: Extracting Multiple physical parameters from Multimodal Data](cards.md#paper-emma-multimodal-dynamics) | 从异构时间序列推断动力参数时，让观测通道共享连续时间隐状态并以已知物理方程约束。 |
 | 机器人学 | 表示学习 | [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](cards.md#paper-tracegen-3d-trace-space) | 跨机器人和人类视频预训练时，预测场景三维点轨迹而非像素，以复用运动先验。 |
+| 多模态学习 | 评测与诊断 | [HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction](cards.md#paper-have-bench-speech-text-controlled) | 选择语音控制视觉代理时，应将同题的语音输入、转录文本与语言推理分开对照。见表 2。 |
+| 计算机视觉 | 推理策略 | [Diffusion Probe: Generated Image Result Prediction Using CNN Probes](cards.md#paper-diffusion-probe-early-quality) | 多候选生成可预测早期去噪的终局质量，再决定是否继续完成整段去噪。见表 1–2。 |
+| 机器学习基础与统计 | 模型架构 | [Frequency Switching Mechanism for Parameter-Efficient Multi-Task Learning](cards.md#paper-free-sinewich-task-modulation) | 多任务低秩更新可测试以任务频率生成不同权重，比较等参数下任务干扰与低秩容量。见表 3。 |
+| 科学深度学习 | 评测与诊断 | [FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction](cards.md#paper-fluidgaussian-functional-reconstruction) | 三维数字孪生面向后续物理模拟时，应将功能区模拟一致性与外观误差分开评估。见表 3–4。 |
+| 机器人学 | 模型架构 | [Describe Anything Anywhere At Any Moment](cards.md#paper-daaam-queryable-spatiotemporal-memory) | 长期场景记忆应保存对象描述及可查询的位置和观测时刻，并用时间误差核验索引。见表 1–4。 |
+| 机器人学 | 训练策略 | [TerraSeg: Self-Supervised Ground Segmentation for Any LiDAR](cards.md#paper-terraseg-offline-pseudolabel-distillation) | 逐扫描核验代价高时，可用慢几何估计离线生成跨设备伪标签，再训练实时学生。见表 3–4。 |
+| 大语言模型与Agent | 推理策略 | [META: Meta Evolution of Tool Trajectory Adaptation for Long-Video Understanding](cards.md#paper-meta-tool-trajectory-abstraction) | 工具代理可以复用既往操作序列并记录失败原因，分别消融宏工具和微工具改良。见表 2–3。 |
+| 机器人学 | 评测与诊断 | [Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](cards.md#paper-wanderland-geometry-audit) | 实景仿真应将几何重建质量对视图合成和闭环表现的影响分层验证。 |
+| 机器学习基础与统计 | 训练策略 | [Mining Attribute Subspaces for Efficient Fine-tuning of 3D Foundation Models](cards.md#paper-attribute-lora-subspaces) | 低秩适配可先用单因素可控数据找属性方向，再组合为受约束微调子空间。 |
+| 计算机视觉 | 损失函数 | [Rethinking Box Supervision: Bias-Free Weakly Supervised Medical Segmentation](cards.md#paper-weakmed) | 用预测掩码导出可与框比较的量，再用跨尺度一致性约束掩码，而避免学习矩形形状。 |
+| 多模态学习 | 训练策略 | [CVA: Context-aware Video-text Alignment for Video Temporal Grounding](cards.md#paper-cva-temporal-grounding) | 训练时替换视频背景先检验与查询无关，并在时间边界做反事实一致性。 |
+| 多模态学习 | 推理策略 | [PAS: A Training-Free Stabilizer for Temporal Encoding in Video LLMs](cards.md#paper-pas-temporal-encoding) | 视频位置编码可按帧时刻扰动诊断相位不稳，并利用跨注意头聚合平滑。 |
+| 机器学习基础 | 损失函数与优化 | [Every Error has Its Magnitude: Asymmetric Mistake Severity Training for Multiclass Multiple Instance Learning](cards.md#paper-asymmetric-mistake-severity) | 误分类代价不等时，使用有方向的分层损失和配套代价指标。 |
+| 多模态学习 | 表示学习 | [Towards Unified Human Perception and Machine Understanding: Token Flow Guided Compression Framework](cards.md#paper-tfgc-token-flow-compression) | 要求人机共用压缩流时，允许 VLM 直接读可变数量的潜词元，由上下文预测未传词元。 |
+| 计算机视觉 | 损失函数与优化 | [Physically-Grounded Turbulence Mitigation with Frame-Shared Degradation Parameters](cards.md#paper-tmfs-shared-degradation) | 同场景多帧恢复中，把共享退化结构与逐帧随机项分开估计。 |
+| 机器人学 | 表示学习 | [Point4Cast: Streaming Dynamic Scene Reconstruction and Forecasting](cards.md#paper-point4cast) | 流式世界模型用持续更新的潜状态，把观测更新与任意时间几何读出分开。 |
+| 计算机视觉 | 推理优化 | [Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists](cards.md#paper-short-gaussian-lists) | 优化高斯泼溅速度时，直接减少每条射线的候选长度而不只约束总体高斯数。 |
+| 多模态学习 | 条件生成 | [Guiding a Diffusion Transformer with the Internal Dynamics of Itself](cards.md#paper-internal-guidance-dit) | 扩散 Transformer 采样时可使用同一次前向的浅层预测作引导参照。 |
+| 计算机视觉 | 训练与数据策略 | [Generalizable Video Quality Assessment via Weak-to-Strong Learning](cards.md#paper-weak-to-strong-video-quality) | 没有统一标注时，先把不同弱教师信号转为相对排序，再检验强学生的域外表现和迭代收益。 |

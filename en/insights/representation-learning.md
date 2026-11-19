@@ -563,5 +563,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Envisioning the Future, One Step at a Time](../../conferences/cvpr-2026/cards.md#paper-sparse-point-future-ensembles)
 - [EMMA: Extracting Multiple physical parameters from Multimodal Data](../../conferences/cvpr-2026/cards.md#paper-emma-multimodal-dynamics)
 - [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](../../conferences/cvpr-2026/cards.md#paper-tracegen-3d-trace-space)
+- [Towards Unified Human Perception and Machine Understanding: Token Flow Guided Compression Framework](../../conferences/cvpr-2026/cards.md#paper-tfgc-token-flow-compression)
+- [Point4Cast: Streaming Dynamic Scene Reconstruction and Forecasting](../../conferences/cvpr-2026/cards.md#paper-point4cast)
 
 <!-- conference-classification:end -->

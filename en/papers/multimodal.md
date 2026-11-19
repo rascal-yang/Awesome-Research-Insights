@@ -983,5 +983,10 @@ Learning across modalities such as images, text, audio, and video.
 - [MeToM: Metadata-Guided Token Merging for Efficient Video LLMs](../../conferences/cvpr-2026/cards.md#paper-metom-codec-guided-token-merging)
 - [AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video](../../conferences/cvpr-2026/cards.md#paper-avatar-av-rl)
 - [Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training](../../conferences/cvpr-2026/cards.md#paper-tqd-video-diffusion)
+- [HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction](../../conferences/cvpr-2026/cards.md#paper-have-bench-speech-text-controlled)
+- [CVA: Context-aware Video-text Alignment for Video Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-cva-temporal-grounding)
+- [PAS: A Training-Free Stabilizer for Temporal Encoding in Video LLMs](../../conferences/cvpr-2026/cards.md#paper-pas-temporal-encoding)
+- [Towards Unified Human Perception and Machine Understanding: Token Flow Guided Compression Framework](../../conferences/cvpr-2026/cards.md#paper-tfgc-token-flow-compression)
+- [Guiding a Diffusion Transformer with the Internal Dynamics of Itself](../../conferences/cvpr-2026/cards.md#paper-internal-guidance-dit)
 
 <!-- conference-classification:end -->

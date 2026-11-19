@@ -382,5 +382,6 @@
 - [FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment](../conferences/cvpr-2026/cards.md#paper-fbta-feature-bridging)
 - [Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training](../conferences/cvpr-2026/cards.md#paper-tqd-video-diffusion)
 - [Agile Deliberation: Concept Deliberation for Subjective Visual Classification](../conferences/cvpr-2026/cards.md#paper-agile-deliberation)
+- [Generalizable Video Quality Assessment via Weak-to-Strong Learning](../conferences/cvpr-2026/cards.md#paper-weak-to-strong-video-quality)
 
 <!-- conference-classification:end -->

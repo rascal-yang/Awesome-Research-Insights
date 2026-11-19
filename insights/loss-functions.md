@@ -395,5 +395,8 @@
 - [M3Grounder: Mask-Based Multi-Span and Multi-Granular Grounding for Document QA](../conferences/cvpr-2026/cards.md#paper-m3grounder)
 - [MatLat: Material Latent Space for PBR Texture Generation](../conferences/cvpr-2026/cards.md#paper-matlat-locality-regularization)
 - [COG: Confidence-aware Optimal Geometric Correspondence for Unsupervised Single-reference Novel Object Pose Estimation](../conferences/cvpr-2026/cards.md#paper-confidence-aware-optimal-correspondence)
+- [Rethinking Box Supervision: Bias-Free Weakly Supervised Medical Segmentation](../conferences/cvpr-2026/cards.md#paper-weakmed)
+- [Every Error has Its Magnitude: Asymmetric Mistake Severity Training for Multiclass Multiple Instance Learning](../conferences/cvpr-2026/cards.md#paper-asymmetric-mistake-severity)
+- [Physically-Grounded Turbulence Mitigation with Frame-Shared Degradation Parameters](../conferences/cvpr-2026/cards.md#paper-tmfs-shared-degradation)
 
 <!-- conference-classification:end -->

@@ -1439,5 +1439,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Verifying Neural Network Robustness with Dual Perturbations](../../conferences/cvpr-2026/cards.md#paper-veridou-combined-verification)
 - [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](../../conferences/cvpr-2026/cards.md#paper-activityforensics-eval)
 - [Breaking Smooth-Motion Assumptions: A UAV Benchmark for Multi-Object Tracking in Complex and Adverse Conditions](../../conferences/cvpr-2026/cards.md#paper-dynuav-motion-failure-audit)
+- [HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction](../../conferences/cvpr-2026/cards.md#paper-have-bench-speech-text-controlled)
+- [FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-fluidgaussian-functional-reconstruction)
+- [Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](../../conferences/cvpr-2026/cards.md#paper-wanderland-geometry-audit)
 
 <!-- conference-classification:end -->

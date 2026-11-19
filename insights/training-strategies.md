@@ -970,5 +970,8 @@
 - [AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video](../conferences/cvpr-2026/cards.md#paper-avatar-av-rl)
 - [Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](../conferences/cvpr-2026/cards.md#paper-semantic-first-diffusion)
 - [Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-aard-geometry-noise)
+- [TerraSeg: Self-Supervised Ground Segmentation for Any LiDAR](../conferences/cvpr-2026/cards.md#paper-terraseg-offline-pseudolabel-distillation)
+- [Mining Attribute Subspaces for Efficient Fine-tuning of 3D Foundation Models](../conferences/cvpr-2026/cards.md#paper-attribute-lora-subspaces)
+- [CVA: Context-aware Video-text Alignment for Video Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-cva-temporal-grounding)
 
 <!-- conference-classification:end -->

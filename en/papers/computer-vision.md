@@ -1107,5 +1107,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning](../../conferences/cvpr-2026/cards.md#paper-physskin)
 - [Learning Where to Look and How to Judge: Resolution-agnostic Image Quality Assessment with Quality-aware Saliency](../../conferences/cvpr-2026/cards.md#paper-reliqs-quality-aware-saliency)
 - [Agile Deliberation: Concept Deliberation for Subjective Visual Classification](../../conferences/cvpr-2026/cards.md#paper-agile-deliberation)
+- [Diffusion Probe: Generated Image Result Prediction Using CNN Probes](../../conferences/cvpr-2026/cards.md#paper-diffusion-probe-early-quality)
+- [Rethinking Box Supervision: Bias-Free Weakly Supervised Medical Segmentation](../../conferences/cvpr-2026/cards.md#paper-weakmed)
+- [Physically-Grounded Turbulence Mitigation with Frame-Shared Degradation Parameters](../../conferences/cvpr-2026/cards.md#paper-tmfs-shared-degradation)
+- [Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists](../../conferences/cvpr-2026/cards.md#paper-short-gaussian-lists)
+- [Generalizable Video Quality Assessment via Weak-to-Strong Learning](../../conferences/cvpr-2026/cards.md#paper-weak-to-strong-video-quality)
 
 <!-- conference-classification:end -->

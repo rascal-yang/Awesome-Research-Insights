@@ -1365,5 +1365,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [MeToM: Metadata-Guided Token Merging for Efficient Video LLMs](../../conferences/cvpr-2026/cards.md#paper-metom-codec-guided-token-merging)
 - [Progressive Multi-cue Alignment for Unaligned RGBT Tracking](../../conferences/cvpr-2026/cards.md#paper-pmatrack-progressive-rgbt-alignment)
 - [Learning Where to Look and How to Judge: Resolution-agnostic Image Quality Assessment with Quality-aware Saliency](../../conferences/cvpr-2026/cards.md#paper-reliqs-quality-aware-saliency)
+- [Diffusion Probe: Generated Image Result Prediction Using CNN Probes](../../conferences/cvpr-2026/cards.md#paper-diffusion-probe-early-quality)
+- [META: Meta Evolution of Tool Trajectory Adaptation for Long-Video Understanding](../../conferences/cvpr-2026/cards.md#paper-meta-tool-trajectory-abstraction)
+- [PAS: A Training-Free Stabilizer for Temporal Encoding in Video LLMs](../../conferences/cvpr-2026/cards.md#paper-pas-temporal-encoding)
+- [Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists](../../conferences/cvpr-2026/cards.md#paper-short-gaussian-lists)
+- [Guiding a Diffusion Transformer with the Internal Dynamics of Itself](../../conferences/cvpr-2026/cards.md#paper-internal-guidance-dit)
 
 <!-- conference-classification:end -->

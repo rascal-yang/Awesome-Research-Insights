@@ -600,5 +600,7 @@
 - [LiveGesture: Streamable Co-Speech Gesture Generation Model](../conferences/cvpr-2026/cards.md#paper-livegesture)
 - [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](../conferences/cvpr-2026/cards.md#paper-versecrafter-4d-control)
 - [PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning](../conferences/cvpr-2026/cards.md#paper-physskin)
+- [Frequency Switching Mechanism for Parameter-Efficient Multi-Task Learning](../conferences/cvpr-2026/cards.md#paper-free-sinewich-task-modulation)
+- [Describe Anything Anywhere At Any Moment](../conferences/cvpr-2026/cards.md#paper-daaam-queryable-spatiotemporal-memory)
 
 <!-- conference-classification:end -->

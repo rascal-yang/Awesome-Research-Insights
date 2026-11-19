@@ -2315,5 +2315,8 @@
 - [Verifying Neural Network Robustness with Dual Perturbations](../conferences/cvpr-2026/cards.md#paper-veridou-combined-verification)
 - [Mitigating The Distribution Shift of Diffusion-based Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-diffusion-dataset-distribution-shift)
 - [EMMA: Extracting Multiple physical parameters from Multimodal Data](../conferences/cvpr-2026/cards.md#paper-emma-multimodal-dynamics)
+- [Frequency Switching Mechanism for Parameter-Efficient Multi-Task Learning](../conferences/cvpr-2026/cards.md#paper-free-sinewich-task-modulation)
+- [Mining Attribute Subspaces for Efficient Fine-tuning of 3D Foundation Models](../conferences/cvpr-2026/cards.md#paper-attribute-lora-subspaces)
+- [Every Error has Its Magnitude: Asymmetric Mistake Severity Training for Multiclass Multiple Instance Learning](../conferences/cvpr-2026/cards.md#paper-asymmetric-mistake-severity)
 
 <!-- conference-classification:end -->

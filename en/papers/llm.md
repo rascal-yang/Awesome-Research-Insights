@@ -2425,5 +2425,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](../../conferences/cvpr-2026/cards.md#paper-ces-execution-feedback)
 - [LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-longvideo-r1)
 - [Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](../../conferences/cvpr-2026/cards.md#paper-geocodebench)
+- [META: Meta Evolution of Tool Trajectory Adaptation for Long-Video Understanding](../../conferences/cvpr-2026/cards.md#paper-meta-tool-trajectory-abstraction)
 
 <!-- conference-classification:end -->

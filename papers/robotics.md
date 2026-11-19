@@ -882,5 +882,9 @@
 - [Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation](../conferences/cvpr-2026/cards.md#paper-action-geometry-prediction)
 - [Envisioning the Future, One Step at a Time](../conferences/cvpr-2026/cards.md#paper-sparse-point-future-ensembles)
 - [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](../conferences/cvpr-2026/cards.md#paper-tracegen-3d-trace-space)
+- [Describe Anything Anywhere At Any Moment](../conferences/cvpr-2026/cards.md#paper-daaam-queryable-spatiotemporal-memory)
+- [TerraSeg: Self-Supervised Ground Segmentation for Any LiDAR](../conferences/cvpr-2026/cards.md#paper-terraseg-offline-pseudolabel-distillation)
+- [Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI](../conferences/cvpr-2026/cards.md#paper-wanderland-geometry-audit)
+- [Point4Cast: Streaming Dynamic Scene Reconstruction and Forecasting](../conferences/cvpr-2026/cards.md#paper-point4cast)
 
 <!-- conference-classification:end -->
