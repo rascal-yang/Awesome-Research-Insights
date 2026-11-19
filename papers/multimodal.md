@@ -1102,5 +1102,11 @@
 - [Ego-Grounding for Personalized Question-Answering in Egocentric Videos](../conferences/cvpr-2026/cards.md#paper-myego-evidence-audit)
 - [X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-x-avdt-cross-modal-forensics)
 - [SURF: Signature-Retained Fast Video Generation](../conferences/cvpr-2026/cards.md#paper-surf-noise-reshifting)
+- [Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding](../conferences/cvpr-2026/cards.md#paper-braincodec-contextual-sensor-encoding-inversion)
+- [SeD-UD: An Influence-Driven and Hierarchically-Decoupled Information Bottleneck for Multimodal Intent Recognition](../conferences/cvpr-2026/cards.md#paper-sed-ud)
+- [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought](../conferences/cvpr-2026/cards.md#paper-mira-visual-cot)
+- [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](../conferences/cvpr-2026/cards.md#paper-duetsvg)
+- [GeoWorld: Geometric World Models](../conferences/cvpr-2026/cards.md#paper-geoworld)
+- [IFCSR: Inference-Free Fidelity-Realism Control for One-Step Diffusion-based Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-ifcsr-endpoint-image-control)
 
 <!-- conference-classification:end -->

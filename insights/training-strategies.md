@@ -1034,5 +1034,8 @@
 - [Revisiting Learning with Noisy Labels: Active Forgetting and Noise Suppression](../conferences/cvpr-2026/cards.md#paper-fine-active-forgetting-noisy-supervision)
 - [Memory-Efficient Transfer Learning with Fading Side Networks via Masked Dual Path Distillation](../conferences/cvpr-2026/cards.md#paper-masked-dual-path-distillation)
 - [LAOF: Robust Latent Action Learning with Optical Flow Constraints](../conferences/cvpr-2026/cards.md#paper-laof-latent-action-flow)
+- [CLEX: Complementary Label Exchange Learning for Noisy Facial Expression Recognition](../conferences/cvpr-2026/cards.md#paper-clex-non-target-logit-consistency)
+- [Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models](../conferences/cvpr-2026/cards.md#paper-rsiat-fixed-shared-incremental-adapter)
+- [FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection](../conferences/cvpr-2026/cards.md#paper-faar-rank-shrinking)
 
 <!-- conference-classification:end -->

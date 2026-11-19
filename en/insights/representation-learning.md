@@ -607,5 +607,10 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [CoV-Align: Efficient Fine-grained Cross-Modal Alignment with Cohesive Visual Semantics Priority](../../conferences/cvpr-2026/cards.md#paper-cov-align-query-independent-visual-grouping)
 - [Hilbert Curve-Based Attention Enabling Topology-Preserving Image Tensor Representation for Semantic Segmentation Network](../../conferences/cvpr-2026/cards.md#paper-tpsegformer)
 - [Gaussian Mapping for Evolving Scenes](../../conferences/cvpr-2026/cards.md#paper-game-evolving-scenes)
+- [Joint Spectral Image Reconstruction and Semantic Segmentation with Cooperative Unfolding](../../conferences/cvpr-2026/cards.md#paper-cooperative-unrolling-task-feature-exchange)
+- [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](../../conferences/cvpr-2026/cards.md#paper-meshmosaic-boundary-conditioned-patches)
+- [GenMatter: Perceiving Physical Objects with Generative Matter Models](../../conferences/cvpr-2026/cards.md#paper-genmatter-motion-grouping)
+- [4D Local Modeling Toward Dynamic Global Perception for Ambiguity-free Rotation-Invariant Point Cloud Analysis](../../conferences/cvpr-2026/cards.md#paper-ga4dpf-global-pose-reference)
+- [Mocap-2-to-3: Multi-view Lifting for Monocular Motion Recovery with 2D Pretraining](../../conferences/cvpr-2026/cards.md#paper-mocap-2-to-3)
 
 <!-- conference-classification:end -->

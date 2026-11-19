@@ -788,5 +788,7 @@
 - [Fully Decentralized Certified Unlearning](../../conferences/cvpr-2026/cards.md#paper-decentralized-certified-unlearning-client-views)
 - [Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding](../../conferences/cvpr-2026/cards.md#paper-qvic-memory-feedback-visual-compression)
 - [LensWalk: Agentic Video Understanding by Planning How You See in Videos](../../conferences/cvpr-2026/cards.md#paper-lenswalk)
+- [Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding](../../conferences/cvpr-2026/cards.md#paper-braincodec-contextual-sensor-encoding-inversion)
+- [Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing](../../conferences/cvpr-2026/cards.md#paper-relzero-patch-relations-defensive-authentication)
 
 <!-- conference-classification:end -->

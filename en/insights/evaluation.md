@@ -1472,5 +1472,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Difference-in-Difference Approach to Detecting AI-Generated Images](../../conferences/cvpr-2026/cards.md#paper-did-generated-image-detection)
 - [Ego-Grounding for Personalized Question-Answering in Egocentric Videos](../../conferences/cvpr-2026/cards.md#paper-myego-evidence-audit)
 - [X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-x-avdt-cross-modal-forensics)
+- [Reevaluating the Intra-Modal Misalignment Hypothesis in CLIP](../../conferences/cvpr-2026/cards.md#paper-clip-intramodal-misalignment-task-axis-control)
+- [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought](../../conferences/cvpr-2026/cards.md#paper-mira-visual-cot)
 
 <!-- conference-classification:end -->

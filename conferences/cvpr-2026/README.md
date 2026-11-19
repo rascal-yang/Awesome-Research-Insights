@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,137 篇，其中 727 篇暂收录、410 篇排除，另有 2,905 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,167 篇，其中 746 篇暂收录、421 篇排除，另有 2,875 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -733,3 +733,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,137
 | 多模态学习 | 评测与分析 | [X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection](cards.md#paper-x-avdt-cross-modal-forensics) | 评估合成视频检测时，应把音画一致性信号与视觉残差一起做跨生成器验证。 |
 | 多模态学习 | 推理优化 | [SURF: Signature-Retained Fast Video Generation](cards.md#paper-surf-noise-reshifting) | 预览生成先按模型原分辨率完成早期去噪，之后降分辨率再用映射细化。 |
 | 智能体 | 规划与决策 | [See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](cards.md#paper-star-gui-state-aware) | 执行二元界面目标前先读当前状态；若已符合目标，输出不操作。 |
+| 多模态学习 | 少样本学习 | [Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding](cards.md#paper-braincodec-contextual-sensor-encoding-inversion) | 传感维度跨个体变化时，可先按维度从少量配对示例估计个体编码，再从新观测逆推，而无需对齐坐标或更新权重。见表 1。 |
+| 机器学习 | 训练策略 | [CLEX: Complementary Label Exchange Learning for Noisy Facial Expression Recognition](cards.md#paper-clex-non-target-logit-consistency) | 带噪标签分类可以增加增强视图间的非目标类别约束，区分 logit 交换、归一化与完整损失的作用。见表 3。 |
+| 表征学习 | 评估与诊断 | [Reevaluating the Intra-Modal Misalignment Hypothesis in CLIP](cards.md#paper-clip-intramodal-misalignment-task-axis-control) | 图像检索变差时先测试嵌入评测的语义轴是否与任务匹配，并用图像内对比模型做对照，再决定是否改训练损失。见表 3。 |
+| 计算机视觉 | 鲁棒性与安全 | [Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing](cards.md#paper-relzero-patch-relations-defensive-authentication) | 图像来源验证可比较局部特征关系与整图表示，按固定误报率报告编辑后检测效果。见表 1、2。 |
+| 计算机视觉 | 三维重建与几何建模 | [Joint Spectral Image Reconstruction and Semantic Segmentation with Cooperative Unfolding](cards.md#paper-cooperative-unrolling-task-feature-exchange) | 测量重建与语义任务强相关时，可比较平行交互更新和单向先重建后识别，按质量和语义指标共同评估。见表 2。 |
+| 机器学习 | 持续学习 | [Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models](cards.md#paper-rsiat-fixed-shared-incremental-adapter) | 类增量学习可以保持一个共享适配器，通过对齐新旧表示控制遗忘，比较残差对齐和不对齐的差异。见表 3。 |
+| 多模态学习 | 模型架构 | [SeD-UD: An Influence-Driven and Hierarchically-Decoupled Information Bottleneck for Multimodal Intent Recognition](cards.md#paper-sed-ud) | 把跨模态重复与各模态噪声分开压缩，并按输入决定瓶颈维度。 |
+| 多模态学习 | 评测与诊断 | [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought](cards.md#paper-mira-visual-cot) | 评估生成式视觉草图时，另给人工中间图作上界，以区分草图生成和后续推断。 |
+| 计算机视觉 | 损失函数 | [Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation](cards.md#paper-spectral-scalpel) | 相邻动作边界不清时，专门压低相邻动作共享频谱，而非统一增强高频。 |
+| 多模态学习 | 生成模型 | [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](cards.md#paper-duetsvg) | 需要输出结构化程序时，可让同一模型生成视觉参考并在测试时指导结构解码。 |
+| 计算机视觉 | 推理压缩 | [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](cards.md#paper-face-mesh-token) | 结构序列按基本部件而不是每个标量分词，同时用解码结果验证压缩是否造成质量损失。 |
+| 机器学习基础与统计 | 参数高效微调 | [FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection](cards.md#paper-faar-rank-shrinking) | 多任务适配先为各任务及层保留选择空间，再按绩效缩减秩。 |
+| 多模态学习 | 推理与规划 | [GeoWorld: Geometric World Models](cards.md#paper-geoworld) | 潜世界模型用于长时计划时，可用非欧几何表示层级关系，并与欧氏表征对照。 |
+| 计算机视觉 | 表示学习 | [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](cards.md#paper-meshmosaic-boundary-conditioned-patches) | 大网格生成按局部区域量化与自回归，再用共享边界保持装配一致。 |
+| 计算机视觉 | 表示学习 | [GenMatter: Perceiving Physical Objects with Generative Matter Models](cards.md#paper-genmatter-motion-grouping) | 按可共同独立移动的层级从粒子归并出对象，使稀疏运动与自然视频共享同一推断。 |
+| 多模态学习 | 推理优化 | [IFCSR: Inference-Free Fidelity-Realism Control for One-Step Diffusion-based Real-World Image Super-Resolution](cards.md#paper-ifcsr-endpoint-image-control) | 交互改变复原的保真—自然感平衡时，预生成两个端点，在图像空间调整以免重推理。 |
+| 计算机视觉 | 表示学习 | [4D Local Modeling Toward Dynamic Global Perception for Ambiguity-free Rotation-Invariant Point Cloud Analysis](cards.md#paper-ga4dpf-global-pose-reference) | 做旋转不变点云任务时，以可转向局部表示配合概率化全局姿态参考，处理对称引起的不确定。 |
+| 智能体 | 强化学习 | [OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models](cards.md#paper-os-oracle-consistent-critics) | 长程 GUI 操作可在执行前检查单步，并对不同平台验证评审的一致性。 |
+| 计算机视觉 | 表示学习 | [Mocap-2-to-3: Multi-view Lifting for Monocular Motion Recovery with 2D Pretraining](cards.md#paper-mocap-2-to-3) | 真实三维动作标签不足时，把单目动作升维写成多视图合成，以大量二维动作预训练。 |

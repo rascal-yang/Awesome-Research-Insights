@@ -1204,5 +1204,13 @@
 - [Hilbert Curve-Based Attention Enabling Topology-Preserving Image Tensor Representation for Semantic Segmentation Network](../conferences/cvpr-2026/cards.md#paper-tpsegformer)
 - [Gaussian Mapping for Evolving Scenes](../conferences/cvpr-2026/cards.md#paper-game-evolving-scenes)
 - [MERIT: Multi-domain Efficient RAW Image Translation](../conferences/cvpr-2026/cards.md#paper-merit-raw-translation)
+- [Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing](../conferences/cvpr-2026/cards.md#paper-relzero-patch-relations-defensive-authentication)
+- [Joint Spectral Image Reconstruction and Semantic Segmentation with Cooperative Unfolding](../conferences/cvpr-2026/cards.md#paper-cooperative-unrolling-task-feature-exchange)
+- [Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation](../conferences/cvpr-2026/cards.md#paper-spectral-scalpel)
+- [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](../conferences/cvpr-2026/cards.md#paper-face-mesh-token)
+- [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](../conferences/cvpr-2026/cards.md#paper-meshmosaic-boundary-conditioned-patches)
+- [GenMatter: Perceiving Physical Objects with Generative Matter Models](../conferences/cvpr-2026/cards.md#paper-genmatter-motion-grouping)
+- [4D Local Modeling Toward Dynamic Global Perception for Ambiguity-free Rotation-Invariant Point Cloud Analysis](../conferences/cvpr-2026/cards.md#paper-ga4dpf-global-pose-reference)
+- [Mocap-2-to-3: Multi-view Lifting for Monocular Motion Recovery with 2D Pretraining](../conferences/cvpr-2026/cards.md#paper-mocap-2-to-3)
 
 <!-- conference-classification:end -->

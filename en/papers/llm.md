@@ -2433,5 +2433,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code](../../conferences/cvpr-2026/cards.md#paper-nerfify)
 - [LensWalk: Agentic Video Understanding by Planning How You See in Videos](../../conferences/cvpr-2026/cards.md#paper-lenswalk)
 - [See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](../../conferences/cvpr-2026/cards.md#paper-star-gui-state-aware)
+- [OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models](../../conferences/cvpr-2026/cards.md#paper-os-oracle-consistent-critics)
 
 <!-- conference-classification:end -->

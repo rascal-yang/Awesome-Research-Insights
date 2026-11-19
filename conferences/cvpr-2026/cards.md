@@ -10906,3 +10906,288 @@
 - **适用条件 / 局限** · 状态不可见、控件异步及多状态设置需要独立验证。
 
 **可复用机制** · 执行二元界面目标前先读当前状态；若已符合目标，输出不操作。
+
+<a id="paper-braincodec-contextual-sensor-encoding-inversion"></a>
+
+## Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Nan_Meta-Learning_In-Context_Enables_Training-Free_Cross_Subject_Brain_Decoding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Nan_Meta-Learning_In-Context_Enables_Training-Free_Cross_Subject_Brain_Decoding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 不同被试的体素及其功能响应会变化，直接共享同一空间映射或逐人训练代价高。
+- **核心创新 / 方法** · 用图像与响应示例在上下文中先估计各体素的编码特征，再合并体素上下文进行刺激语义反演。
+- **Baseline** · 与采用解剖对齐的 MindEye2 和 TGBD 比较，同时在未见被试上测无需微调的推理。
+- **Benchmark** · 自然场景 fMRI 的未见受试者，表 1 在 907 个图像候选中报告 Top-1、Top-5。
+- **关键结果 / 消融** · 表 1 用 200 个示例时 BrainCoDec 平均为 22.7%、54.0%，MindEye2 为 3.90%、9.81%。
+- **适用条件 / 局限** · 需要新被试有图像与传感配对示例，扫描协议、目标域或信号噪声变化时应单测。
+
+**可复用机制** · 传感维度跨个体变化时，可先按维度从少量配对示例估计个体编码，再从新观测逆推，而无需对齐坐标或更新权重。见表 1。
+
+<a id="paper-clex-non-target-logit-consistency"></a>
+
+## CLEX: Complementary Label Exchange Learning for Noisy Facial Expression Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_CLEX_Complementary_Label_Exchange_Learning_for_Noisy_Facial_Expression_Recognition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_CLEX_Complementary_Label_Exchange_Learning_for_Noisy_Facial_Expression_Recognition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 错标场景中只监督目标类，无法约束两个增强视图对非目标类产生的假高置信度。
+- **核心创新 / 方法** · 随机交换增强视图中部分非目标 logit，对其归一化并施加跨视图约束。
+- **Baseline** · 对照交叉熵、逐步加入增强一致性、非目标交换和归一化，并与 SCN、DMUE、NLA 等比较。
+- **Benchmark** · RAF-DB 的 30% 对称标签噪声和 AffectNet 等分类，报告测试准确率。
+- **关键结果 / 消融** · 表 3 的基线为 81.36%，加增强一致性为 84.94%，再加交换单步为 84.73%，完整组合为 87.35%。
+- **适用条件 / 局限** · 假设增强没有改变正确标签，交换单独加入未必改善；应在非对称错标和分布差异中验证。
+
+**可复用机制** · 带噪标签分类可以增加增强视图间的非目标类别约束，区分 logit 交换、归一化与完整损失的作用。见表 3。
+
+<a id="paper-clip-intramodal-misalignment-task-axis-control"></a>
+
+## Reevaluating the Intra-Modal Misalignment Hypothesis in CLIP
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Herzog_Reevaluating_the_Intra-Modal_Misalignment_Hypothesis_in_CLIP_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Herzog_Reevaluating_the_Intra-Modal_Misalignment_Hypothesis_in_CLIP_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 从 CLIP 图搜图表现或文本投影收益直接推断图像模态内失配，可能混淆任务标签语义与嵌入几何。
+- **核心创新 / 方法** · 在多种模型复核模态内指标，并把图像投影到类别名方差轴上，与转为文本匹配对照。
+- **Baseline** · 比较 CLIP、SigLIP 及含图像内目标的 DINO、SigLIP2，并对照原嵌入与 OTI。
+- **Benchmark** · 13 个图搜图数据集的 mAP，以及不使用文本提示的小样本分类。
+- **关键结果 / 消融** · 表 3 中 CLIP-B/32 的平均 mAP 为 41.6，OTI 为 42.9，沿类别语义轴投影为 49.0；类似趋势不限于图文训练。
+- **适用条件 / 局限** · 投影收益更依赖任务标签指向图像主要概念，细粒度和非主语义检索未必因此获益。
+
+**可复用机制** · 图像检索变差时先测试嵌入评测的语义轴是否与任务匹配，并用图像内对比模型做对照，再决定是否改训练损失。见表 3。
+
+<a id="paper-relzero-patch-relations-defensive-authentication"></a>
+
+## Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Rel-Zero_Harnessing_Patch-Pair_Invariance_for_Robust_Zero-Watermarking_Against_AI_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Rel-Zero_Harnessing_Patch-Pair_Invariance_for_Robust_Zero-Watermarking_Against_AI_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 修改图像会改变内容外观，使只使用全局特征的来源指纹难以稳定确认原始内容。
+- **核心创新 / 方法** · 使用图像块之间的关系作为无嵌入验证特征，避免为了标记本身改变原图。
+- **Baseline** · 与其他水印及零水印方法比较，并替换特征骨干和关系模块做消融。
+- **Benchmark** · 作者的图像编辑鲁棒性集，报告固定 0.1% 误报率的真阳率及图像保真指标。
+- **关键结果 / 消融** · 表 2 指定编辑条件下，完整配置真阳率 97.43%，替换为 ResNet-50 骨干为 85.21%。
+- **适用条件 / 局限** · 原文发现大范围语义重生成更难，鲁棒验证也不等于判断图中事件是否真实。
+
+**可复用机制** · 图像来源验证可比较局部特征关系与整图表示，按固定误报率报告编辑后检测效果。见表 1、2。
+
+<a id="paper-cooperative-unrolling-task-feature-exchange"></a>
+
+## Joint Spectral Image Reconstruction and Semantic Segmentation with Cooperative Unfolding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/He_Joint_Spectral_Image_Reconstruction_and_Semantic_Segmentation_with_Cooperative_Unfolding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/He_Joint_Spectral_Image_Reconstruction_and_Semantic_Segmentation_with_Cooperative_Unfolding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 先从压缩高光谱测量重建再分割，重建优化不一定保留对语义有用的信号。
+- **核心创新 / 方法** · 同时展开测量一致性和分割更新，并借助交叉聚合超标记使两支交换信息。
+- **Baseline** · 对照先重建再分割及同骨干逐步加入耦合更新和 LISTA。
+- **Benchmark** · FVgNET 的合成与真实高光谱测量，以重建 PSNR、语义 mIoU 和 FLOPs 衡量。
+- **关键结果 / 消融** · 表 2 从 37.33 dB、84.31% mIoU 到耦合后的 37.90 dB、86.08%，再加 LISTA 到 38.03 dB、86.55%。
+- **适用条件 / 局限** · 依赖有效测量模型与带语义标注的数据，重建和语义不一致时应单独检查任务耦合是否引入偏差。
+
+**可复用机制** · 测量重建与语义任务强相关时，可比较平行交互更新和单向先重建后识别，按质量和语义指标共同评估。见表 2。
+
+<a id="paper-rsiat-fixed-shared-incremental-adapter"></a>
+
+## Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_Representation-Steered_Incremental_Adapter-Tuning_for_Class-Incremental_Learning_with_Pre-Trained_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_Representation-Steered_Incremental_Adapter-Tuning_for_Class-Incremental_Learning_with_Pre-Trained_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 每新增任务训练独立适配器会令参数线性增长，多个适配器的类表示也可能不一致。
+- **核心创新 / 方法** · 维持单适配器，先整理类间表征，然后用带残差的自编码投影对齐任务切换前后的特征。
+- **Baseline** · 比较预训练 ViT 的类增量基线，并消融正交、对齐、残差投影与额外表示训练。
+- **Benchmark** · ImageNet-R/A 与其他类增量基准，使用任务平均准确率及最后任务后的整体准确率。
+- **关键结果 / 消融** · 表 3 的 ImageNet-R B0I20 平均为 86.92%，基线 83.63%；移除残差投影结构的对应变体为 80.59%。
+- **适用条件 / 局限** · 共享容量不随任务增长，强分布漂移或多类高度重叠时需验证旧表征保持。
+
+**可复用机制** · 类增量学习可以保持一个共享适配器，通过对齐新旧表示控制遗忘，比较残差对齐和不对齐的差异。见表 3。
+
+<a id="paper-sed-ud"></a>
+
+## SeD-UD: An Influence-Driven and Hierarchically-Decoupled Information Bottleneck for Multimodal Intent Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_SeD-UD_An_Influence-Driven_and_Hierarchically-Decoupled_Information_Bottleneck_for_Multimodal_Intent_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_SeD-UD_An_Influence-Driven_and_Hierarchically-Decoupled_Information_Bottleneck_for_Multimodal_Intent_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定维数不能覆盖不同输入的噪声水平，一次压缩不易兼顾去重和去噪。
+- **核心创新 / 方法** · 按估计的冗余和噪声影响动态选择压缩维数与参数，用分层信息瓶颈处理。
+- **Baseline** · 表1比较多模态意图识别，表2比较 CH-SIMS，表3报告单样本推理时长。
+- **Benchmark** · 两套意图识别数据及 CH-SIMS 跨任务实验，附时延比较。
+- **关键结果 / 消融** · 表1–3分别报告主任务、迁移设置与运行开销。
+- **适用条件 / 局限** · 门控需要可靠估计噪声，罕见但关键细节可能被误当作冗余。
+
+**可复用机制** · 把跨模态重复与各模态噪声分开压缩，并按输入决定瓶颈维度。
+
+<a id="paper-mira-visual-cot"></a>
+
+## When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_When_Visualizing_is_the_First_Step_to_Reasoning_MIRA_a_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_When_Visualizing_is_the_First_Step_to_Reasoning_MIRA_a_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅比较文本答对率难定位视觉推理是构图失败还是读图失败。
+- **核心创新 / 方法** · 对同一问题比较直接作答、文本思维链和给定中间图的视觉思维链。
+- **Baseline** · 表1按开闭源及不同模型比较，表2比较通用与定制文本提示。
+- **Benchmark** · MIRA 共546道含草图、结构图及路径中间态的题，评估答题结果。
+- **关键结果 / 消融** · 表1用同题多输入协议定位视觉辅助的潜在收益，表2检查文本提示选择。
+- **适用条件 / 局限** · 人工中间图在实际推理不可用，评估内置绘图能力时需要另外测试生成图。
+
+**可复用机制** · 评估生成式视觉草图时，另给人工中间图作上界，以区分草图生成和后续推断。
+
+<a id="paper-spectral-scalpel"></a>
+
+## Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ji_Spectral_Scalpel_Amplifying_Adjacent_Action_Discrepancy_via_Frequency-Selective_Filtering_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_Spectral_Scalpel_Amplifying_Adjacent_Action_Discrepancy_via_Frequency-Selective_Filtering_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 骨架序列相邻动作的共性使边界模糊且易混类别。
+- **核心创新 / 方法** · 多尺度可调频域滤波配合相邻动作差异损失，并用频感知通道混合补充长时序建模。
+- **Baseline** · 表1–2比较时序动作分割方法，表3消融滤波、差异目标与通道混合。
+- **Benchmark** · PKU-MMD v2 跨视角/主体、MCFS-130、TCG-15、LARa 的动作分割。
+- **关键结果 / 消融** · 表1–2覆盖多数据集的边界与分类结果，表3分解互补作用。
+- **适用条件 / 局限** · 训练依赖相邻动作的分段标签，真实平滑过渡或多动作并行时强拉开边界可能不合适。
+
+**可复用机制** · 相邻动作边界不清时，专门压低相邻动作共享频谱，而非统一增强高频。
+
+<a id="paper-duetsvg"></a>
+
+## DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_DuetSVG_Unified_Multimodal_SVG_Generation_with_Internal_Visual_Guidance_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_DuetSVG_Unified_Multimodal_SVG_Generation_with_Internal_Visual_Guidance_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 文本方式生成 SVG 缺少图像级反馈，容易语法正确但几何失真。
+- **核心创新 / 方法** · 联合生成光栅图像 token 与 SVG token，推理借原生图像预测改进 SVG。
+- **Baseline** · 表1–2比较已有 SVG 及 VLM 方法，表3移除视觉输出做消融。
+- **Benchmark** · SVG-Hub-5M 测试集和 VLM 对照，评估渲染保真、语义对齐和语法质量。
+- **关键结果 / 消融** · 表3对照视觉输出，表1–2对比不同类型基线。
+- **适用条件 / 局限** · 图像预测错误可能传给结构解码，测试时扩展增加成本。
+
+**可复用机制** · 需要输出结构化程序时，可让同一模型生成视觉参考并在测试时指导结构解码。
+
+<a id="paper-face-mesh-token"></a>
+
+## FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_FACE_A_Face-based_Autoregressive_Representation_for_High-Fidelity_and_Efficient_Mesh_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_FACE_A_Face-based_Autoregressive_Representation_for_High-Fidelity_and_Efficient_Mesh_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 顶点坐标展平成长序列，限制网格生成的计算效率。
+- **核心创新 / 方法** · 用一三角面一 token 表示网格并配 VecSet 编码器，在潜空间做图到网格生成。
+- **Baseline** · 表1比较网格表示压缩，表2比较重建，表3消融面排序。
+- **Benchmark** · 多个网格数据集，比较序列压缩比及重建质量。
+- **关键结果 / 消融** · 正文报告相较坐标展开缩短约九倍，压缩比0.11，表2检验重建。
+- **适用条件 / 局限** · 以三角面为原子，对非流形、混合面或特殊拓扑的适用性需复验。
+
+**可复用机制** · 结构序列按基本部件而不是每个标量分词，同时用解码结果验证压缩是否造成质量损失。
+
+<a id="paper-faar-rank-shrinking"></a>
+
+## FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fontana_FAAR_Efficient_Frequency-Aware_Multi-Task_Fine-Tuning_via_Automatic_Rank_Selection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fontana_FAAR_Efficient_Frequency-Aware_Multi-Task_Fine-Tuning_via_Automatic_Rank_Selection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定 LoRA 秩难反映各任务和位置的容量需要。
+- **核心创新 / 方法** · 绩效驱动的秩收缩分配适配器容量，并用频谱金字塔辅助空间偏置。
+- **Baseline** · 表1–2用同 Swin-Tiny 比较 LoRA 类多任务方案，表3分解模块。
+- **Benchmark** · PASCAL-Context、NYUD-v2 的多任务指标和参数预算。
+- **关键结果 / 消融** · 表3在 PASCAL 分别验证自适应秩与频谱模块，表1–2给跨数据集证据。
+- **适用条件 / 局限** · 需要有稳定的任务性能信号，弱任务验证噪声可能导致错误削减容量。
+
+**可复用机制** · 多任务适配先为各任务及层保留选择空间，再按绩效缩减秩。
+
+<a id="paper-geoworld"></a>
+
+## GeoWorld: Geometric World Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_GeoWorld_Geometric_World_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_GeoWorld_Geometric_World_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 欧氏潜变量可能压平层级关系，多步预测误差还会积累。
+- **核心创新 / 方法** · Hyperbolic JEPA 映射潜表示到双曲空间，并用几何强化学习优化能量规划。
+- **Baseline** · 表1–2比较 V-JEPA 2 等，表3延长 CrossTask 规划。
+- **Benchmark** · CrossTask 与 COIN 的图像、视频目标条件规划，按步数测成功率。
+- **关键结果 / 消融** · 正文报告相对 V-JEPA 2 三步、四步约提高3和2个百分点的成功率。
+- **适用条件 / 局限** · 评估为任务视频上的视觉规划，真实闭环执行中误差积累尚需验证。
+
+**可复用机制** · 潜世界模型用于长时计划时，可用非欧几何表示层级关系，并与欧氏表征对照。
+
+<a id="paper-meshmosaic-boundary-conditioned-patches"></a>
+
+## MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_MeshMosaic_Scaling_Artist_Mesh_Generation_via_Local-to-Global_Assembly_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_MeshMosaic_Scaling_Artist_Mesh_Generation_via_Local-to-Global_Assembly_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全局三角序列过长，统一位置量化难保留局部细节。
+- **核心创新 / 方法** · 分块生成各自网格，条件中保留相邻块共有边界。
+- **Baseline** · 表1–2对照已有艺术网格生成方案。
+- **Benchmark** · ShapeNet、Thingi10K 等；测几何保真和27名专业人士偏好。
+- **关键结果 / 消融** · 作者报告支持十万以上三角面，相对既有约八千面配置显著扩展。
+- **适用条件 / 局限** · 分块或边界失误可能传给相邻面，局部一致不能代替全局拓扑验证。
+
+**可复用机制** · 大网格生成按局部区域量化与自回归，再用共享边界保持装配一致。
+
+<a id="paper-genmatter-motion-grouping"></a>
+
+## GenMatter: Perceiving Physical Objects with Generative Matter Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_GenMatter_Perceiving_Physical_Objects_with_Generative_Matter_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_GenMatter_Perceiving_Physical_Objects_with_Generative_Matter_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯外观跟踪在点阵和形貌不稳定时不能可靠分出物理对象。
+- **核心创新 / 方法** · 把低层运动和外观聚合成局部高斯粒子，再用贝叶斯采样聚合可动体。
+- **Baseline** · 与人类感知结果及已有学习跟踪器对照。
+- **Benchmark** · 随机点运动、140段 Gestalt 视频及 TAP-Vid DAVIS 跟踪。
+- **关键结果 / 消融** · 原文报告模拟人类感知和不确定性，并比较真实跟踪。
+- **适用条件 / 局限** · 依赖可辨运动，静止或共速相邻物体可能无法分离；采样有成本。
+
+**可复用机制** · 按可共同独立移动的层级从粒子归并出对象，使稀疏运动与自然视频共享同一推断。
+
+<a id="paper-ifcsr-endpoint-image-control"></a>
+
+## IFCSR: Inference-Free Fidelity-Realism Control for One-Step Diffusion-based Real-World Image Super-Resolution
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Back_IFCSR_Inference-Free_Fidelity-Realism_Control_for_One-Step_Diffusion-based_Real-World_Image_Super-Resolution_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Back_IFCSR_Inference-Free_Fidelity-Realism_Control_for_One-Step_Diffusion-based_Real-World_Image_Super-Resolution_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 每调整一次潜变量插值都要重新运行生成器。
+- **核心创新 / 方法** · 以两阶段训练学习保真和自然端点，再在输出图像直接插值。
+- **Baseline** · 比较现有单步扩散超分及需要反复推理的控制。
+- **Benchmark** · RealSR 和 DRealSR，测超分保真、感知质量及不同控制值。
+- **关键结果 / 消融** · 原文报告可预先计算端点，控制变化不再调用模型。
+- **适用条件 / 局限** · 端点融合可能有重影；有很大语义差异的输出不适用简单插值。
+
+**可复用机制** · 交互改变复原的保真—自然感平衡时，预生成两个端点，在图像空间调整以免重推理。
+
+<a id="paper-ga4dpf-global-pose-reference"></a>
+
+## 4D Local Modeling Toward Dynamic Global Perception for Ambiguity-free Rotation-Invariant Point Cloud Analysis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Guo_4D_Local_Modeling_Toward_Dynamic_Global_Perception_for_Ambiguity-free_Rotation-Invariant_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Guo_4D_Local_Modeling_Toward_Dynamic_Global_Perception_for_Ambiguity-free_Rotation-Invariant_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 局部坐标在重复和对称结构上易出现多个等价参考。
+- **核心创新 / 方法** · 将几何等变地提升至四维，再用 Bingham 分布估计动态全局旋转参考并融合局部特征。
+- **Baseline** · 对照已有旋转不变和几何点云模型。
+- **Benchmark** · ScanObjectNN 分类与 ShapeNetPart 部件分割，比较不同旋转设置的准确率或分割指标。
+- **关键结果 / 消融** · 表2–3展示真实点云和部件分割表现。
+- **适用条件 / 局限** · 全球参考在强对称或部分可见时可能仍不可辨，复杂度取决于表示尺寸。
+
+**可复用机制** · 做旋转不变点云任务时，以可转向局部表示配合概率化全局姿态参考，处理对称引起的不确定。
+
+<a id="paper-os-oracle-consistent-critics"></a>
+
+## OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_OS-Oracle_A_Comprehensive_Framework_for_Cross-Platform_GUI_Critic_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_OS-Oracle_A_Comprehensive_Framework_for_Cross-Platform_GUI_Critic_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅凭最终成功率难定位中间错误，不可撤销动作还需要事前评估。
+- **核心创新 / 方法** · 合成步骤级评审数据，监督微调后以保持一致性的组相对策略优化训练。
+- **Baseline** · OS-Oracle-7B 与开源和专有视觉语言模型比较，另对比不同轨迹数据配置。
+- **Benchmark** · OS-Critic Bench 的移动端、网页和桌面，测单步评审表现。
+- **关键结果 / 消融** · 作者报告所测开源 VLM 评审中领先，正文比较跨平台。
+- **适用条件 / 局限** · 需要代表性的中间失败与状态，评审置信不能取代不可逆操作的用户控制。
+
+**可复用机制** · 长程 GUI 操作可在执行前检查单步，并对不同平台验证评审的一致性。
+
+<a id="paper-mocap-2-to-3"></a>
+
+## Mocap-2-to-3: Multi-view Lifting for Monocular Motion Recovery with 2D Pretraining
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Mocap-2-to-3_Multi-view_Lifting_for_Monocular_Motion_Recovery_with_2D_Pretraining_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Mocap-2-to-3_Multi-view_Lifting_for_Monocular_Motion_Recovery_with_2D_Pretraining_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单目全局位移和尺度不确定，而三维动作数据通常受拍摄场地约束。
+- **核心创新 / 方法** · 二维单视图扩散预训练后做三维多视图微调，并分开局部姿态和全局运动。
+- **Baseline** · 与现有单目人体运动恢复比较。
+- **Benchmark** · RICH 局部对齐和世界系，以及 AIST++ 的动作误差。
+- **关键结果 / 消融** · 表2–3报告局部及绝对运动的受控比较。
+- **适用条件 / 局限** · 依赖地面与视角先验，复杂非平面场景及尺度歧义仍存在。
+
+**可复用机制** · 真实三维动作标签不足时，把单目动作升维写成多视图合成，以大量二维动作预训练。

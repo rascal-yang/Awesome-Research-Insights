@@ -2372,5 +2372,9 @@ General learning methods, optimization, learning theory, and inference.
 - [Multi-Scale Local Speculative Decoding for Image Generation](../../conferences/cvpr-2026/cards.md#paper-mulo-sd-spatial-local-draft-verification)
 - [Fully Decentralized Certified Unlearning](../../conferences/cvpr-2026/cards.md#paper-decentralized-certified-unlearning-client-views)
 - [Memory-Efficient Transfer Learning with Fading Side Networks via Masked Dual Path Distillation](../../conferences/cvpr-2026/cards.md#paper-masked-dual-path-distillation)
+- [CLEX: Complementary Label Exchange Learning for Noisy Facial Expression Recognition](../../conferences/cvpr-2026/cards.md#paper-clex-non-target-logit-consistency)
+- [Reevaluating the Intra-Modal Misalignment Hypothesis in CLIP](../../conferences/cvpr-2026/cards.md#paper-clip-intramodal-misalignment-task-axis-control)
+- [Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models](../../conferences/cvpr-2026/cards.md#paper-rsiat-fixed-shared-incremental-adapter)
+- [FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection](../../conferences/cvpr-2026/cards.md#paper-faar-rank-shrinking)
 
 <!-- conference-classification:end -->

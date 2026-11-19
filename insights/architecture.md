@@ -625,5 +625,6 @@
 - [Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers](../conferences/cvpr-2026/cards.md#paper-gated-condition-linear-attention)
 - [Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-monocop-uncertainty-routing)
 - [CompetitorFormer: Mitigating Query Conflicts for 3D Instance Segmentation via Competitive Strategy](../conferences/cvpr-2026/cards.md#paper-competitorformer)
+- [SeD-UD: An Influence-Driven and Hierarchically-Decoupled Information Bottleneck for Multimodal Intent Recognition](../conferences/cvpr-2026/cards.md#paper-sed-ud)
 
 <!-- conference-classification:end -->

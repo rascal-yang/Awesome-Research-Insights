@@ -423,5 +423,6 @@ Objectives, auxiliary supervision, and regularization.
 - [PromptDepth: Efficient and Promptable Geometric 3D Vision Model for Embodied Intelligence](../../conferences/cvpr-2026/cards.md#paper-promptdepth-joint-dense-prediction-alignment)
 - [ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization](../../conferences/cvpr-2026/cards.md#paper-conceptprism-residual-tokens)
 - [MERIT: Multi-domain Efficient RAW Image Translation](../../conferences/cvpr-2026/cards.md#paper-merit-raw-translation)
+- [Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation](../../conferences/cvpr-2026/cards.md#paper-spectral-scalpel)
 
 <!-- conference-classification:end -->

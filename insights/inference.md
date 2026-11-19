@@ -1437,5 +1437,9 @@
 - [One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](../conferences/cvpr-2026/cards.md#paper-alvts-layer-wise-token-routing)
 - [SURF: Signature-Retained Fast Video Generation](../conferences/cvpr-2026/cards.md#paper-surf-noise-reshifting)
 - [See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](../conferences/cvpr-2026/cards.md#paper-star-gui-state-aware)
+- [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](../conferences/cvpr-2026/cards.md#paper-duetsvg)
+- [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](../conferences/cvpr-2026/cards.md#paper-face-mesh-token)
+- [GeoWorld: Geometric World Models](../conferences/cvpr-2026/cards.md#paper-geoworld)
+- [IFCSR: Inference-Free Fidelity-Realism Control for One-Step Diffusion-based Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-ifcsr-endpoint-image-control)
 
 <!-- conference-classification:end -->
