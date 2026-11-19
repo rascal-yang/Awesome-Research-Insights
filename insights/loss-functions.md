@@ -429,5 +429,7 @@
 - [Confusion-Aware Spectral Regularizer for Long-Tailed Recognition](../conferences/cvpr-2026/cards.md#paper-car-spectral-confusion-regularizer)
 - [CoRiM: Conflict-driven Risk Minimization for Dynamic Multimodal Fusion](../conferences/cvpr-2026/cards.md#paper-corim-conflict-risk-fusion)
 - [Towards Fine-Grained Attribution: Instance-Aware Preference Optimization for Aligning Diffusion Models](../conferences/cvpr-2026/cards.md#paper-iapo-instance-credit)
+- [More Than Meets the Eye: A Unified Image Fusion Framework via Semantic-Pixel Entropy Trade-off for Zero-Shot Generalization](../conferences/cvpr-2026/cards.md#paper-semantic-pixel-entropy-fusion)
+- [VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](../conferences/cvpr-2026/cards.md#paper-vlic-pairwise-perceptual-judge)
 
 <!-- conference-classification:end -->

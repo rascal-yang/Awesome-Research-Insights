@@ -635,5 +635,6 @@
 - [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](../conferences/cvpr-2026/cards.md#paper-mmpfn-modality-token-count-control)
 - [Dynamics: Language-Based Representation for Inferring Rigid-Body Dynamics From Videos](../conferences/cvpr-2026/cards.md#paper-dynamics-language-physics)
 - [MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes](../conferences/cvpr-2026/cards.md#paper-morgs-per-gaussian-motion)
+- [Beyond Reassembly: Fractured Object Recovery with Missing Parts](../conferences/cvpr-2026/cards.md#paper-fracture-recovery-joint-missing-part-token-modeling)
 
 <!-- conference-classification:end -->

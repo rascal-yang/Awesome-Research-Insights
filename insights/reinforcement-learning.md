@@ -769,5 +769,7 @@
 - [SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-srpo-self-referential-policy)
 - [Specificity-aware reinforcement learning for fine-grained open-world classification](../conferences/cvpr-2026/cards.md#paper-specialrl)
 - [Thinking with Programming Vision: Towards a Unified View for Thinking with Images](../conferences/cvpr-2026/cards.md#paper-codevision-visual-transformations)
+- [PhyCritic: Multimodal Critic Models for Physical AI](../conferences/cvpr-2026/cards.md#paper-phycritic)
+- [IPR-1: Interactive Physical Reasoner](../conferences/cvpr-2026/cards.md#paper-ipr-physcode)
 
 <!-- conference-classification:end -->

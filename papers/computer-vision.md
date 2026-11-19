@@ -1252,5 +1252,16 @@
 - [3D Gaussian Splatting at Arbitrary Resolutions with Compact Proxy Anchors](../conferences/cvpr-2026/cards.md#paper-resolution-adaptive-gaussians)
 - [Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching](../conferences/cvpr-2026/cards.md#paper-pipstereo-iteration-pruning)
 - [MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes](../conferences/cvpr-2026/cards.md#paper-morgs-per-gaussian-motion)
+- [PromptMoE: A Segmentation Refinement Framework Leveraging Mixture of Experts for Improved Prompting](../conferences/cvpr-2026/cards.md#paper-promptmoe-image-conditioned-refinement-expert-selection)
+- [TAS-LoRA: Transformer Architecture Search with Mixture-of-LoRA Experts](../conferences/cvpr-2026/cards.md#paper-tas-lora-architecture-conditioned-supernet-experts)
+- [Beyond Reassembly: Fractured Object Recovery with Missing Parts](../conferences/cvpr-2026/cards.md#paper-fracture-recovery-joint-missing-part-token-modeling)
+- [Learning Hierarchical Hyperbolic Mixture Model for Part-aware 3D Generation](../conferences/cvpr-2026/cards.md#paper-hierarchical-hyperbolic-mixture)
+- [Frame2Freq: Spectral Adapters for Fine-Grained Video Understanding](../conferences/cvpr-2026/cards.md#paper-frame2freq)
+- [From Measurement to Mitigation: Quantifying and Reducing Identity Leakage in Image Representation Encoders with Linear Subspace Removal](../conferences/cvpr-2026/cards.md#paper-identity-sanitization-projection)
+- [Scaling Parallel Sequence Models to Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-compact-gspn)
+- [DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment](../conferences/cvpr-2026/cards.md#paper-da-vae)
+- [Making Training-Free Diffusion Segmentors Scale with the Generative Power](../conferences/cvpr-2026/cards.md#paper-diffusion-segmentor-attention-calibration)
+- [VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](../conferences/cvpr-2026/cards.md#paper-vlic-pairwise-perceptual-judge)
+- [VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale](../conferences/cvpr-2026/cards.md#paper-vgg-t3-fixed-scene-memory)
 
 <!-- conference-classification:end -->

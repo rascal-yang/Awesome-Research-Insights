@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,407 篇，其中 894 篇暂收录、513 篇排除，另有 2,635 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,437 篇，其中 913 篇暂收录、524 篇排除，另有 2,605 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -900,3 +900,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,407
 | 多模态学习 | 推理优化 | [Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](cards.md#paper-blink-dynamic-token-resolution) | 视觉语言推理根据各层关注区域临时提升部分 token 解析度，失去关注时回收。 |
 | 多模态学习 | 损失函数与优化 | [Towards Fine-Grained Attribution: Instance-Aware Preference Optimization for Aligning Diffusion Models](cards.md#paper-iapo-instance-credit) | 偏好数据只有整图排序时，进一步标注对应实例的偏好差异，避免把整图偏好误分到局部。 |
 | 计算机视觉 | 表示学习 | [MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes](cards.md#paper-morgs-per-gaussian-motion) | 在线动态三维重建用少数视点流监督图元运动，并显式吸收二维与三维投影的差异。 |
+| 生成模型 | 模型效率 | [TimeRipples: Accelerating vDiTs by Understanding the Spatio-Temporal Correlations in Latent Space](cards.md#paper-timeripples-channel-structured-video-attention-reuse) | 视频扩散加速可根据潜空间中空间与时间相关性分别判断注意力重用，记录实际时延和质量。见表 2。 |
+| 计算机视觉 | 推理策略 | [PromptMoE: A Segmentation Refinement Framework Leveraging Mixture of Experts for Improved Prompting](cards.md#paper-promptmoe-image-conditioned-refinement-expert-selection) | 粗掩膜错误多样时，可先用框、点、掩膜作基线，再决定是否值得用图像动态选专家生成追加提示。见表 2。 |
+| 多模态学习 | 隐私保护 | [Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models](cards.md#paper-reasoning-preserving-unlearning-leakage-retention) | 验证模型遗忘时可分别度量中间证据的残留披露和正常任务推理保留。见表 2。 |
+| 计算机视觉 | 参数高效微调 | [TAS-LoRA: Transformer Architecture Search with Mixture-of-LoRA Experts](cards.md#paper-tas-lora-architecture-conditioned-supernet-experts) | 多子网共用权重产生特征坍塌时，可让架构配置选择小型适配器，并用不同子网预估和真实表现核对。见表 1、5。 |
+| 多模态学习 | 推理策略 | [Geometrically-Constrained Agent for Spatial Reasoning](cards.md#paper-gca-formal-geometric-task-constraints) | 空间问答可先让模型把含混语言转换为可核验的几何任务约束，再执行工具，并检查错误是否源于约束生成。见表 2。 |
+| 计算机视觉 | 三维重建与几何建模 | [Beyond Reassembly: Fractured Object Recovery with Missing Parts](cards.md#paper-fracture-recovery-joint-missing-part-token-modeling) | 组装任务中部件缺失时，可把缺失项设为可推断标记，与已见部件位姿共同更新，直接对照先装配再补全。见表 1、2。 |
+| 计算机视觉 | 生成模型 | [Learning Hierarchical Hyperbolic Mixture Model for Part-aware 3D Generation](cards.md#paper-hierarchical-hyperbolic-mixture) | 有部件树的3D生成可比较欧氏与双曲潜表示，并分别测语义与几何误差。 |
+| 计算机视觉 | 参数高效微调 | [Frame2Freq: Spectral Adapters for Fine-Grained Video Understanding](cards.md#paper-frame2freq) | 把图像骨干适配到视频时，测时间域适配器漏掉的中速运动，再决定用频带条件。 |
+| 多模态学习 | 损失函数 | [More Than Meets the Eye: A Unified Image Fusion Framework via Semantic-Pixel Entropy Trade-off for Zero-Shot Generalization](cards.md#paper-semantic-pixel-entropy-fusion) | 图像融合可把保留像素信息和保持语义判定明确拆成目标，在未见融合类型上验收。 |
+| 计算机视觉 | 鲁棒性 | [From Measurement to Mitigation: Quantifying and Reducing Identity Leakage in Image Representation Encoders with Linear Subspace Removal](cards.md#paper-identity-sanitization-projection) | 冻结表征要发布给检索系统时，可移除经评估的隐私相关线性子空间，并同时审计保留效用。 |
+| 多模态学习 | 强化学习 | [PhyCritic: Multimodal Critic Models for Physical AI](cards.md#paper-phycritic) | 多模态评审可先独立生成参考结论，再评候选，并拆分领域技能训练与评审训练。 |
+| 计算机视觉 | 推理加速 | [Scaling Parallel Sequence Models to Vision Foundation Models](cards.md#paper-compact-gspn) | 保留二维传播拓扑时，先降低传播状态宽度，再用跨算子蒸馏恢复表达。 |
+| 计算机视觉 | 推理压缩 | [DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment](cards.md#paper-da-vae) | 提高潜压缩率前先对齐已有扩散空间的结构，再补充细节维度。 |
+| 机器人学 | 强化学习 | [IPR-1: Interactive Physical Reasoner](cards.md#paper-ipr-physcode) | 跨环境训练交互推理时，让策略和世界模型共用按物理效果定义的动作码。 |
+| 计算机视觉 | 可解释性与诊断 | [Making Training-Free Diffusion Segmentors Scale with the Generative Power](cards.md#paper-diffusion-segmentor-attention-calibration) | 借扩散模型做开放分割前，先校准跨词元分数，再合并多层注意力。 |
+| 多模态学习 | 自监督学习 | [InternVideo-Next: Towards World-Understanding Video Models](cards.md#paper-internvideo-next-epd) | 视频掩码预训练把预测器与像素解码器分离，另用语义对齐保留空间时间信息。 |
+| 计算机视觉 | 损失函数与优化 | [VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](cards.md#paper-vlic-pairwise-perceptual-judge) | 要训练匹配人类感知的图像压缩器时，可比较视觉语言模型的二选一判断与人工偏好，再直接用判断做后训练。 |
+| 多模态学习 | 训练与数据策略 | [ReMatch: Boosting Representation through Matching for Multimodal Retrieval](cards.md#paper-rematch-generative-retrieval-supervision) | 学习检索向量时，让同一模型另做生成式成对相关性判断，以补足难负例。 |
+| 计算机视觉 | 推理优化 | [VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale](cards.md#paper-vgg-t3-fixed-scene-memory) | 长多视角重建在测试时将可变长度键值蒸馏进定长场景 MLP，再用新图查询。 |

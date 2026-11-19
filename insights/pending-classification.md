@@ -800,5 +800,8 @@
 - [Domain Sensitive Federated Learning with Fisher-Informed Pruning](../conferences/cvpr-2026/cards.md#paper-fedfip)
 - [Multi-Hierarchical Contrastive Spectral Fusion for Multi-View Clustering](../conferences/cvpr-2026/cards.md#paper-mcsf-neighborhood-spectral-clustering-regularization)
 - [Causal Motion Diffusion Models for Autoregressive Motion Generation](../conferences/cvpr-2026/cards.md#paper-cmdm-framewise-sampling-horizon-stability)
+- [TimeRipples: Accelerating vDiTs by Understanding the Spatio-Temporal Correlations in Latent Space](../conferences/cvpr-2026/cards.md#paper-timeripples-channel-structured-video-attention-reuse)
+- [Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-reasoning-preserving-unlearning-leakage-retention)
+- [From Measurement to Mitigation: Quantifying and Reducing Identity Leakage in Image Representation Encoders with Linear Subspace Removal](../conferences/cvpr-2026/cards.md#paper-identity-sanitization-projection)
 
 <!-- conference-classification:end -->

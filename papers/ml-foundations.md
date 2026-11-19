@@ -2403,5 +2403,6 @@
 - [Causal Motion Diffusion Models for Autoregressive Motion Generation](../conferences/cvpr-2026/cards.md#paper-cmdm-framewise-sampling-horizon-stability)
 - [Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training](../conferences/cvpr-2026/cards.md#paper-iomm-image-only-pretrain-mixed-finetune)
 - [E$^2$-SCI: Elastic Edge-Cloud Speculative Decoding via Credit Inertia](../conferences/cvpr-2026/cards.md#paper-e2-sci)
+- [TimeRipples: Accelerating vDiTs by Understanding the Spatio-Temporal Correlations in Latent Space](../conferences/cvpr-2026/cards.md#paper-timeripples-channel-structured-video-attention-reuse)
 
 <!-- conference-classification:end -->

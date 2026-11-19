@@ -1070,5 +1070,8 @@ Training schedules, curricula, and task or stage composition.
 - [Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training](../../conferences/cvpr-2026/cards.md#paper-iomm-image-only-pretrain-mixed-finetune)
 - [GeCo-SRT: Geometry-aware Continual Adaptation for Cross-Task Sim-to-Real Transfer](../../conferences/cvpr-2026/cards.md#paper-geco-srt)
 - [Fast Reasoning Segmentation for Images and Videos](../../conferences/cvpr-2026/cards.md#paper-fastreasonseg-reasoning-distillation)
+- [TAS-LoRA: Transformer Architecture Search with Mixture-of-LoRA Experts](../../conferences/cvpr-2026/cards.md#paper-tas-lora-architecture-conditioned-supernet-experts)
+- [Frame2Freq: Spectral Adapters for Fine-Grained Video Understanding](../../conferences/cvpr-2026/cards.md#paper-frame2freq)
+- [InternVideo-Next: Towards World-Understanding Video Models](../../conferences/cvpr-2026/cards.md#paper-internvideo-next-epd)
 
 <!-- conference-classification:end -->

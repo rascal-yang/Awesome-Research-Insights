@@ -947,5 +947,6 @@ Robot perception, policy learning, planning, and control.
 - [WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration](../../conferences/cvpr-2026/cards.md#paper-whispernet-receiver-centric-budget)
 - [GeCo-SRT: Geometry-aware Continual Adaptation for Cross-Task Sim-to-Real Transfer](../../conferences/cvpr-2026/cards.md#paper-geco-srt)
 - [TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations](../../conferences/cvpr-2026/cards.md#paper-topohr)
+- [IPR-1: Interactive Physical Reasoner](../../conferences/cvpr-2026/cards.md#paper-ipr-physcode)
 
 <!-- conference-classification:end -->

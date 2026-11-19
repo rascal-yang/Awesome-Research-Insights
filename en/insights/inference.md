@@ -1470,5 +1470,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [CARD: Correlation Aware Restoration with Diffusion](../../conferences/cvpr-2026/cards.md#paper-card-correlated-noise)
 - [Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching](../../conferences/cvpr-2026/cards.md#paper-pipstereo-iteration-pruning)
 - [Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](../../conferences/cvpr-2026/cards.md#paper-blink-dynamic-token-resolution)
+- [PromptMoE: A Segmentation Refinement Framework Leveraging Mixture of Experts for Improved Prompting](../../conferences/cvpr-2026/cards.md#paper-promptmoe-image-conditioned-refinement-expert-selection)
+- [Geometrically-Constrained Agent for Spatial Reasoning](../../conferences/cvpr-2026/cards.md#paper-gca-formal-geometric-task-constraints)
+- [Learning Hierarchical Hyperbolic Mixture Model for Part-aware 3D Generation](../../conferences/cvpr-2026/cards.md#paper-hierarchical-hyperbolic-mixture)
+- [Scaling Parallel Sequence Models to Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-compact-gspn)
+- [DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment](../../conferences/cvpr-2026/cards.md#paper-da-vae)
+- [VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale](../../conferences/cvpr-2026/cards.md#paper-vgg-t3-fixed-scene-memory)
 
 <!-- conference-classification:end -->

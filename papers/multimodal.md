@@ -1163,5 +1163,11 @@
 - [Fast Reasoning Segmentation for Images and Videos](../conferences/cvpr-2026/cards.md#paper-fastreasonseg-reasoning-distillation)
 - [Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](../conferences/cvpr-2026/cards.md#paper-blink-dynamic-token-resolution)
 - [Towards Fine-Grained Attribution: Instance-Aware Preference Optimization for Aligning Diffusion Models](../conferences/cvpr-2026/cards.md#paper-iapo-instance-credit)
+- [Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-reasoning-preserving-unlearning-leakage-retention)
+- [Geometrically-Constrained Agent for Spatial Reasoning](../conferences/cvpr-2026/cards.md#paper-gca-formal-geometric-task-constraints)
+- [More Than Meets the Eye: A Unified Image Fusion Framework via Semantic-Pixel Entropy Trade-off for Zero-Shot Generalization](../conferences/cvpr-2026/cards.md#paper-semantic-pixel-entropy-fusion)
+- [PhyCritic: Multimodal Critic Models for Physical AI](../conferences/cvpr-2026/cards.md#paper-phycritic)
+- [InternVideo-Next: Towards World-Understanding Video Models](../conferences/cvpr-2026/cards.md#paper-internvideo-next-epd)
+- [ReMatch: Boosting Representation through Matching for Multimodal Retrieval](../conferences/cvpr-2026/cards.md#paper-rematch-generative-retrieval-supervision)
 
 <!-- conference-classification:end -->
