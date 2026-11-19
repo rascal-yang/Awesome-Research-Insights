@@ -590,5 +590,10 @@
 - [3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding](../conferences/cvpr-2026/cards.md#paper-cvm-dense-mtl)
 - [FisherPoser: Human Motion Estimation from Sparse Observations with Hierarchical Region-Wise Fisher-Matrix Uncertainty Modeling](../conferences/cvpr-2026/cards.md#paper-fisherposer)
 - [RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations](../conferences/cvpr-2026/cards.md#paper-rng-3d-kv-cache)
+- [Negative Binomial Variational Autoencoders for Overdispersed Latent Modeling](../conferences/cvpr-2026/cards.md#paper-negative-binomial-count-latents)
+- [Any Resolution Any Geometry: From Multi-View To Multi-Patch](../conferences/cvpr-2026/cards.md#paper-urgt-multipatch-geometry)
+- [ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-rehyat-chunk-recurrent-hybrid-attention)
+- [Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation](../conferences/cvpr-2026/cards.md#paper-poco-reference-positioning)
+- [Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark](../conferences/cvpr-2026/cards.md#paper-scaleformer)
 
 <!-- conference-classification:end -->

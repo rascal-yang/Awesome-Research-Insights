@@ -393,5 +393,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Twin-T & TwintVQA: A Reliable Structure-Detail Separating VLM and a Comprehensive Benchmark for Chart and Table Tasks](../../conferences/cvpr-2026/cards.md#paper-twin-t-structure-detail)
 - [A Faster Path to Continual Learning](../../conferences/cvpr-2026/cards.md#paper-c-flat-turbo)
 - [M3Grounder: Mask-Based Multi-Span and Multi-Granular Grounding for Document QA](../../conferences/cvpr-2026/cards.md#paper-m3grounder)
+- [MatLat: Material Latent Space for PBR Texture Generation](../../conferences/cvpr-2026/cards.md#paper-matlat-locality-regularization)
 
 <!-- conference-classification:end -->

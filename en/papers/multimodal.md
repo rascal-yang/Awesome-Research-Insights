@@ -957,5 +957,14 @@ Learning across modalities such as images, text, audio, and video.
 - [Improving Vision-language Models with Perception-centric Process Reward Models](../../conferences/cvpr-2026/cards.md#paper-perceval)
 - [M3Grounder: Mask-Based Multi-Span and Multi-Granular Grounding for Document QA](../../conferences/cvpr-2026/cards.md#paper-m3grounder)
 - [GeoRK2: Geometry-Guided Runge-Kutta Integration for Diffusion Transformer Acceleration](../../conferences/cvpr-2026/cards.md#paper-geork2)
+- [Concept-Aware Batch Sampling Improves Language-Image Pretraining](../../conferences/cvpr-2026/cards.md#paper-concept-aware-batch-sampling)
+- [GeoFree-CoSeg: Unsupervised Point Cloud-Image Cross-Modal Co-Segmentation Without Geometric Alignment](../../conferences/cvpr-2026/cards.md#paper-geofree-coseg-semantic-correspondence)
+- [MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-msrl-multimodal-reward)
+- [MatLat: Material Latent Space for PBR Texture Generation](../../conferences/cvpr-2026/cards.md#paper-matlat-locality-regularization)
+- [It's Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-diffusion-noise-diversity-recovery)
+- [StaR-KVQA: Structured Reasoning Traces for Implicit-Knowledge Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-star-kvqa)
+- [A Causal Marriage between VLM and IRM from Understanding to Reasoning](../../conferences/cvpr-2026/cards.md#paper-clip-irm)
+- [CamDirector: Towards Long-Term Coherent Video Trajectory Editing](../../conferences/cvpr-2026/cards.md#paper-camdirector-world-cache)
+- [Denoising, Fast and Slow: Difficulty-Aware Adaptive Sampling for Image Generation](../../conferences/cvpr-2026/cards.md#paper-patch-forcing)
 
 <!-- conference-classification:end -->

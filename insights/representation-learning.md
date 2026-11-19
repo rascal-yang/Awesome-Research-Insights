@@ -553,5 +553,7 @@
 - [Probing and Bridging Geometry-Interaction Cues for Affordance Reasoning in Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-affordance-geometry-interaction-probing)
 - [Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation](../conferences/cvpr-2026/cards.md#paper-vita-shared-action-vision-latents)
 - [Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis](../conferences/cvpr-2026/cards.md#paper-motion-3-to-4)
+- [WonderZoom: Multi-Scale 3D World Generation](../conferences/cvpr-2026/cards.md#paper-wonderzoom-scale-adaptive-surfels)
+- [GeoFree-CoSeg: Unsupervised Point Cloud-Image Cross-Modal Co-Segmentation Without Geometric Alignment](../conferences/cvpr-2026/cards.md#paper-geofree-coseg-semantic-correspondence)
 
 <!-- conference-classification:end -->

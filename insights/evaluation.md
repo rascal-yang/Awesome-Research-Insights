@@ -1435,5 +1435,6 @@
 - [OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery](../conferences/cvpr-2026/cards.md#paper-onlinehmr-causal-delay-evaluation)
 - [I'm a Map! Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-imap-motion-token-diagnostics)
 - [Global Information Thresholding for Sufficient and Necessary Circuits](../conferences/cvpr-2026/cards.md#paper-global-information-thresholding)
+- [Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](../conferences/cvpr-2026/cards.md#paper-geocodebench)
 
 <!-- conference-classification:end -->

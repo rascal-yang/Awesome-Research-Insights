@@ -1351,5 +1351,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [MODIX: A Training-Free Multimodal Information-Driven Positional Index Scaling for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-modix-position-stride)
 - [Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-tanl)
 - [GeoRK2: Geometry-Guided Runge-Kutta Integration for Diffusion Transformer Acceleration](../../conferences/cvpr-2026/cards.md#paper-geork2)
+- [PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion](../../conferences/cvpr-2026/cards.md#paper-pixelrush)
+- [It's Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-diffusion-noise-diversity-recovery)
+- [CamDirector: Towards Long-Term Coherent Video Trajectory Editing](../../conferences/cvpr-2026/cards.md#paper-camdirector-world-cache)
+- [Denoising, Fast and Slow: Difficulty-Aware Adaptive Sampling for Image Generation](../../conferences/cvpr-2026/cards.md#paper-patch-forcing)
 
 <!-- conference-classification:end -->

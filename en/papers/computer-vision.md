@@ -1076,5 +1076,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [FisherPoser: Human Motion Estimation from Sparse Observations with Hierarchical Region-Wise Fisher-Matrix Uncertainty Modeling](../../conferences/cvpr-2026/cards.md#paper-fisherposer)
 - [Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements](../../conferences/cvpr-2026/cards.md#paper-action-motifs)
 - [RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations](../../conferences/cvpr-2026/cards.md#paper-rng-3d-kv-cache)
+- [WonderZoom: Multi-Scale 3D World Generation](../../conferences/cvpr-2026/cards.md#paper-wonderzoom-scale-adaptive-surfels)
+- [Any Resolution Any Geometry: From Multi-View To Multi-Patch](../../conferences/cvpr-2026/cards.md#paper-urgt-multipatch-geometry)
+- [ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-rehyat-chunk-recurrent-hybrid-attention)
+- [Mitigating Error Amplification in Fast Adversarial Training](../../conferences/cvpr-2026/cards.md#paper-ddg-fast-robust-training)
+- [Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation](../../conferences/cvpr-2026/cards.md#paper-poco-reference-positioning)
+- [PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion](../../conferences/cvpr-2026/cards.md#paper-pixelrush)
+- [Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark](../../conferences/cvpr-2026/cards.md#paper-scaleformer)
 
 <!-- conference-classification:end -->

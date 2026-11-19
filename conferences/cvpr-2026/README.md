@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 477 篇，其中 330 篇暂收录、147 篇排除，另有 3,565 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 507 篇，其中 348 篇暂收录、159 篇排除，另有 3,535 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -336,3 +336,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 477 �
 | 机器学习基础 | 可解释性与诊断 | [Global Information Thresholding for Sufficient and Necessary Circuits](cards.md#paper-global-information-thresholding) | 定位模型电路时，用行为保留阈值自动决定边数，并分开报告充分性与必要性。 |
 | 多模态学习 | 损失函数与优化 | [M3Grounder: Mask-Based Multi-Span and Multi-Granular Grounding for Document QA](cards.md#paper-m3grounder) | 文档问答需要可定位证据时，让每个答案短语输出掩码，并约束粒度间的包含关系。 |
 | 多模态学习 | 推理优化 | [GeoRK2: Geometry-Guided Runge-Kutta Integration for Diffusion Transformer Acceleration](cards.md#paper-geork2) | 为扩散推理减少步数时，用经验激活协方差定义积分几何，检验大步长下保真度。 |
+| 计算机视觉 | 表征学习 | [WonderZoom: Multi-Scale 3D World Generation](cards.md#paper-wonderzoom-scale-adaptive-surfels) | 多尺度场景渲染可按当前尺度调节粗细基元不透明度，并分别测切尺度的一致性和显存。见表 3。 |
+| 多模态学习 | 数据策略 | [Concept-Aware Batch Sampling Improves Language-Image Pretraining](cards.md#paper-concept-aware-batch-sampling) | 图文预训练可按目标概念直方图动态抽批，分别调节覆盖种类和批内出现频次。见表 2–4。 |
+| 多模态学习 | 表征学习 | [GeoFree-CoSeg: Unsupervised Point Cloud-Image Cross-Modal Co-Segmentation Without Geometric Alignment](cards.md#paper-geofree-coseg-semantic-correspondence) | 点云和图像缺乏标定对应时，可先各自发现粗语义，再用公共语义图筛选共有区域。见表 1–3。 |
+| 机器学习基础与统计 | 模型架构 | [Negative Binomial Variational Autoencoders for Overdispersed Latent Modeling](cards.md#paper-negative-binomial-count-latents) | 离散计数潜变量若呈过度离散，可比较负二项和泊松先验，同时测重建与生成而非只看其中一项。见表 1–3。 |
+| 计算机视觉 | 模型架构 | [Any Resolution Any Geometry: From Multi-View To Multi-Patch](cards.md#paper-urgt-multipatch-geometry) | 高分图像深度与法线可把图块当多视图共享几何注意力，并随机化图块网格测接缝。见表 3–4。 |
+| 计算机视觉 | 模型架构 | [ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers](cards.md#paper-rehyat-chunk-recurrent-hybrid-attention) | 长视频扩散可以混合精确局部注意力与递归跨块线性状态，并按设备跨帧数测延迟。见表 4。 |
+| 智能体 | 评测与诊断 | [Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](cards.md#paper-geocodebench) | 复现科学算法时验收论文的核心函数及边界条件，和整仓运行成功分开。 |
+| 计算机视觉 | 训练策略 | [Mitigating Error Amplification in Fast Adversarial Training](cards.md#paper-ddg-fast-robust-training) | 防御训练按样本置信分层检查精度与鲁棒性，避免低置信样本主导错误放大。 |
+| 计算机视觉 | 模型架构 | [Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation](cards.md#paper-poco-reference-positioning) | 当多路参考外观相似时，可用独立位置信息约束引用关系，按参考混淆和跨段一致性验收。 |
+| 多模态学习 | 训练策略 | [MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning](cards.md#paper-msrl-multimodal-reward) | 多模态偏好标签少时，可先训练文本奖励推理，再依次检验描述桥接和原始图像阶段。 |
+| 计算机视觉 | 推理压缩 | [PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion](cards.md#paper-pixelrush) | 极少步数的分块生成须单独处理拼接重叠和低频平滑，不能套用多步循环。 |
+| 计算机视觉 | 模型架构 | [Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark](cards.md#paper-scaleformer) | 跨图像分辨率泛化时固定局部块尺度，把尺寸变化转成序列长度外推。 |
+| 多模态学习 | 损失函数与优化 | [MatLat: Material Latent Space for PBR Texture Generation](cards.md#paper-matlat-locality-regularization) | 给预训练图像生成器新增空间通道时，用裁剪潜片并解码的局部一致性避免跨视角对应失效。 |
+| 多模态学习 | 推理优化 | [It's Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models](cards.md#paper-diffusion-noise-diversity-recovery) | 已训练扩散模型在同提示下重复时，直接优化多样性目标的初噪，并比较噪声频谱。 |
+| 多模态学习 | 训练与数据策略 | [StaR-KVQA: Structured Reasoning Traces for Implicit-Knowledge Visual Question Answering](cards.md#paper-star-kvqa) | 视觉问答自蒸馏时，同时监督符号实体关系与依该路径写的自然语言解释。 |
+| 多模态学习 | 迁移与泛化 | [A Causal Marriage between VLM and IRM from Understanding to Reasoning](cards.md#paper-clip-irm) | 当图文模型依赖背景时，按词元分开类别语义和环境线索，对比目标显式引入不变性。 |
+| 多模态学习 | 推理优化 | [CamDirector: Towards Long-Term Coherent Video Trajectory Editing](cards.md#paper-camdirector-world-cache) | 长视频相机重拍时用世界坐标缓存静态背景、单独变换动态区域，并让后段复用历史。 |
+| 多模态学习 | 推理优化 | [Denoising, Fast and Slow: Difficulty-Aware Adaptive Sampling for Image Generation](cards.md#paper-patch-forcing) | 扩散以块为单位动态分配步数时，训练先限制跨块可见信息，避免产生推理见不到的提示。 |

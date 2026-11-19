@@ -954,5 +954,8 @@
 - [Improving Vision-language Models with Perception-centric Process Reward Models](../conferences/cvpr-2026/cards.md#paper-perceval)
 - [S2FT: Parameter-Efficient Fine-Tuning in Sparse Spectrum Domain](../conferences/cvpr-2026/cards.md#paper-s2ft-sparse-spectrum)
 - [PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning](../conferences/cvpr-2026/cards.md#paper-perturbation-aware-filtering)
+- [Mitigating Error Amplification in Fast Adversarial Training](../conferences/cvpr-2026/cards.md#paper-ddg-fast-robust-training)
+- [MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-msrl-multimodal-reward)
+- [A Causal Marriage between VLM and IRM from Understanding to Reasoning](../conferences/cvpr-2026/cards.md#paper-clip-irm)
 
 <!-- conference-classification:end -->
