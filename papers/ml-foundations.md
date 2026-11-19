@@ -2642,5 +2642,11 @@
 - [HierAmp: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-hieramp-scale-wise-class-token-distillation)
 - [Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective](../conferences/cvpr-2026/cards.md#paper-d2c-diffusion-difficulty-select-and-attach)
 - [Neural Mixture Density Processes](../conferences/cvpr-2026/cards.md#paper-neural-mixture-density-task-specific-function-prior)
+- [Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models](../conferences/cvpr-2026/cards.md#paper-fixed-point-motion-refinement)
+- [AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning](../conferences/cvpr-2026/cards.md#paper-moving-model-priors-continual-long-tail)
+- [Smart Replay: Adaptive Scheduling of Memory Rehearsal for Computational Resource-Aware Incremental Learning](../conferences/cvpr-2026/cards.md#paper-compute-aware-adaptive-replay-schedule)
+- [Stabilizing Feature Geometry in Noisy Pretrained Models for Robust Downstream Tasks](../conferences/cvpr-2026/cards.md#paper-pretrained-noise-subspace-rotation)
+- [RankOOD - Class Ranking-based Out-of-Distribution Detection](../conferences/cvpr-2026/cards.md#paper-rankood-class-permutation-likelihood)
+- [SASNet: Spatially-Adaptive Sinusoidal Networks for INRs](../conferences/cvpr-2026/cards.md#paper-sasnet-localized-fixed-frequency-support)
 
 <!-- conference-classification:end -->

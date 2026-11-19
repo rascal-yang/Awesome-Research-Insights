@@ -1181,5 +1181,6 @@ Robot perception, policy learning, planning, and control.
 - [ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-compose-keypoint-completion)
 - [RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](../../conferences/cvpr-2026/cards.md#paper-rehearsevla-world-model-completion-reward)
 - [Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](../../conferences/cvpr-2026/cards.md#paper-humanoid-staged-reset-sim-to-real)
+- [Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-fisheye-wrist-camera-condition-dependent-benefits)
 
 <!-- conference-classification:end -->

@@ -828,5 +828,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-pacorl-pairwise-consistency)
 - [RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](../../conferences/cvpr-2026/cards.md#paper-rehearsevla-world-model-completion-reward)
 - [Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](../../conferences/cvpr-2026/cards.md#paper-humanoid-staged-reset-sim-to-real)
+- [Towards Sparse Video Understanding and Reasoning](../../conferences/cvpr-2026/cards.md#paper-revise-eager-sparse-video)
 
 <!-- conference-classification:end -->

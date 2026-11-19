@@ -1633,5 +1633,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [INSIGHT Bench: Towards Grounded IN-SItu Guidance for Robotic ManipulaTion](../../conferences/cvpr-2026/cards.md#paper-insightbench-in-situ-guide-constraints)
 - [EventDrive: Event Cameras for Vision-Language Driving Intelligence](../../conferences/cvpr-2026/cards.md#paper-eventdrive-sensor-contribution)
 - [MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents](../../conferences/cvpr-2026/cards.md#paper-mindpower-self-other-state)
+- [How Much 3D Do Video Foundation Models Encode?](../../conferences/cvpr-2026/cards.md#paper-shallow-probe-emergent-3d-video-generators)
+- [Layer Consistency Matters: Elegant Latent Transition Discrepancy for Generalizable Synthetic Image Detection](../../conferences/cvpr-2026/cards.md#paper-latent-transition-synthetic-detection)
+- [RankOOD - Class Ranking-based Out-of-Distribution Detection](../../conferences/cvpr-2026/cards.md#paper-rankood-class-permutation-likelihood)
 
 <!-- conference-classification:end -->

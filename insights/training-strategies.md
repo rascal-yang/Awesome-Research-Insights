@@ -1380,5 +1380,9 @@
 - [SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition](../conferences/cvpr-2026/cards.md#paper-skeletoncontext-masked-context)
 - [Hugging Visual Prompt and Segmentation Tokens: Consistency Learning for Fine-Grained Visual Understanding in MLLMs](../conferences/cvpr-2026/cards.md#paper-reciprocal-caption-grounding-consistency)
 - [Leveraging Class Distributions in CLIP for Weakly Supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-cdclip-patch-class-distributions)
+- [Affordance-First Decomposition for Continual Learning in Video-Language Understanding](../conferences/cvpr-2026/cards.md#paper-stable-affordance-substrate-continual-video-learning)
+- [Curriculum Group Policy Optimization: Adaptive Sampling for Unleashing the Potential of Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-cgpo-adaptive-curriculum)
+- [Stabilizing Feature Geometry in Noisy Pretrained Models for Robust Downstream Tasks](../conferences/cvpr-2026/cards.md#paper-pretrained-noise-subspace-rotation)
+- [Cinematic Audio Source Separation Using Visual Cues](../conferences/cvpr-2026/cards.md#paper-avcass-synthetic-visual-source-pairing)
 
 <!-- conference-classification:end -->

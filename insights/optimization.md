@@ -734,5 +734,7 @@
 - [Reward Sharpness-Aware Fine-Tuning for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-reward-sharpness-diffusion)
 - [SGDE: Self-supervised Geometry Degradation Estimation Framework for Coded Aperture Compressive Spectral Imaging](../conferences/cvpr-2026/cards.md#paper-sgde-joint-calibration)
 - [Dynamic Momentum Recalibration in Online Gradient Learning](../conferences/cvpr-2026/cards.md#paper-sgdf-dynamic-momentum)
+- [AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning](../conferences/cvpr-2026/cards.md#paper-moving-model-priors-continual-long-tail)
+- [Smart Replay: Adaptive Scheduling of Memory Rehearsal for Computational Resource-Aware Incremental Learning](../conferences/cvpr-2026/cards.md#paper-compute-aware-adaptive-replay-schedule)
 
 <!-- conference-classification:end -->

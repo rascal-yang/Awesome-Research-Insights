@@ -1654,5 +1654,10 @@
 - [POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](../conferences/cvpr-2026/cards.md#paper-dual-token-budget-detachable-streaming-cache)
 - [VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](../conferences/cvpr-2026/cards.md#paper-sparse-interaction-full-resolution-visual-tokens)
 - [Leveraging Class Distributions in CLIP for Weakly Supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-cdclip-patch-class-distributions)
+- [Affordance-First Decomposition for Continual Learning in Video-Language Understanding](../conferences/cvpr-2026/cards.md#paper-stable-affordance-substrate-continual-video-learning)
+- [Curriculum Group Policy Optimization: Adaptive Sampling for Unleashing the Potential of Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-cgpo-adaptive-curriculum)
+- [When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](../conferences/cvpr-2026/cards.md#paper-casg-multi-objective-safety)
+- [TIM: Temporal Decoupling with Iterative Mutual-Refinement Model for Longitudinal Radiology Report Generation](../conferences/cvpr-2026/cards.md#paper-tim-evolution-spatial-decoupling)
+- [Cinematic Audio Source Separation Using Visual Cues](../conferences/cvpr-2026/cards.md#paper-avcass-synthetic-visual-source-pairing)
 
 <!-- conference-classification:end -->

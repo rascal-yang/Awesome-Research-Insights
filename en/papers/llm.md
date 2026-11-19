@@ -2476,5 +2476,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](../../conferences/cvpr-2026/cards.md#paper-longvt-native-temporal-cropping)
 - [Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-refer-agent-reasoning-reflection)
 - [MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents](../../conferences/cvpr-2026/cards.md#paper-mindpower-self-other-state)
+- [Towards Sparse Video Understanding and Reasoning](../../conferences/cvpr-2026/cards.md#paper-revise-eager-sparse-video)
+- [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](../../conferences/cvpr-2026/cards.md#paper-videoseek-evidence-directed-video-tools)
+- [BAMI: Training-Free Bias Mitigation in GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-bami-masked-prediction-bias-diagnostic)
 
 <!-- conference-classification:end -->

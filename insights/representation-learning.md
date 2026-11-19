@@ -797,5 +797,7 @@
 - [Learning to Track Instance from Single Nature Language Description](../conferences/cvpr-2026/cards.md#paper-anchor-guided-visual-to-language-tracking-tokens)
 - [UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair](../conferences/cvpr-2026/cards.md#paper-pose-aware-object-shapes-stereo-real-to-sim)
 - [LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models](../conferences/cvpr-2026/cards.md#paper-lavr-implicit-4d-reconstruction-conditioning)
+- [Fast Spatial Tracking with Visual Geometry Transformer](../conferences/cvpr-2026/cards.md#paper-spatial-tracking-global-frame-query-embeddings)
+- [SASNet: Spatially-Adaptive Sinusoidal Networks for INRs](../conferences/cvpr-2026/cards.md#paper-sasnet-localized-fixed-frequency-support)
 
 <!-- conference-classification:end -->

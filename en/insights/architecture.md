@@ -843,5 +843,10 @@ Model-wide design and information flow.
 - [VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](../../conferences/cvpr-2026/cards.md#paper-sparse-interaction-full-resolution-visual-tokens)
 - [ERMoE: Eigen-Reparameterized Mixture-of-Experts for Stable Routing and Interpretable Specialization](../../conferences/cvpr-2026/cards.md#paper-ermoe-expert-eigenbases)
 - [ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-compose-keypoint-completion)
+- [Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models](../../conferences/cvpr-2026/cards.md#paper-fixed-point-motion-refinement)
+- [STAGE: Storyboard-Anchored Generation for Cinematic Multi-shot Narrative](../../conferences/cvpr-2026/cards.md#paper-start-end-shot-pair-storyboard-anchors)
+- [PointNSP: Autoregressive 3D Point Cloud Generation with Next-Scale Level-of-Detail Prediction](../../conferences/cvpr-2026/cards.md#paper-pointnsp-next-scale-points)
+- [TIM: Temporal Decoupling with Iterative Mutual-Refinement Model for Longitudinal Radiology Report Generation](../../conferences/cvpr-2026/cards.md#paper-tim-evolution-spatial-decoupling)
+- [Prompt-Free Universal Region Proposal Network](../../conferences/cvpr-2026/cards.md#paper-pfrpn-self-prompt-proposals)
 
 <!-- conference-classification:end -->

@@ -1741,5 +1741,8 @@
 - [From Scale to Speed: Adaptive Test-Time Scaling for Image Editing](../conferences/cvpr-2026/cards.md#paper-difficulty-and-local-verification-image-edit-search)
 - [POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](../conferences/cvpr-2026/cards.md#paper-dual-token-budget-detachable-streaming-cache)
 - [Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning](../conferences/cvpr-2026/cards.md#paper-cfvla-action-revision)
+- [FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing](../conferences/cvpr-2026/cards.md#paper-high-frequency-retention-multi-turn-edits)
+- [When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](../conferences/cvpr-2026/cards.md#paper-casg-multi-objective-safety)
+- [BAMI: Training-Free Bias Mitigation in GUI Grounding](../conferences/cvpr-2026/cards.md#paper-bami-masked-prediction-bias-diagnostic)
 
 <!-- conference-classification:end -->

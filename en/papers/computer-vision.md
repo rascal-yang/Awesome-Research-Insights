@@ -1705,5 +1705,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-vggtdet-internal-semantic-geometric-priors)
 - [Concept-Aware LoRA for Domain-Aligned Segmentation Dataset Generation](../../conferences/cvpr-2026/cards.md#paper-concept-selective-lora-for-synthetic-segmentation)
 - [SGDE: Self-supervised Geometry Degradation Estimation Framework for Coded Aperture Compressive Spectral Imaging](../../conferences/cvpr-2026/cards.md#paper-sgde-joint-calibration)
+- [STAGE: Storyboard-Anchored Generation for Cinematic Multi-shot Narrative](../../conferences/cvpr-2026/cards.md#paper-start-end-shot-pair-storyboard-anchors)
+- [FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing](../../conferences/cvpr-2026/cards.md#paper-high-frequency-retention-multi-turn-edits)
+- [How Much 3D Do Video Foundation Models Encode?](../../conferences/cvpr-2026/cards.md#paper-shallow-probe-emergent-3d-video-generators)
+- [Layer Consistency Matters: Elegant Latent Transition Discrepancy for Generalizable Synthetic Image Detection](../../conferences/cvpr-2026/cards.md#paper-latent-transition-synthetic-detection)
+- [PointNSP: Autoregressive 3D Point Cloud Generation with Next-Scale Level-of-Detail Prediction](../../conferences/cvpr-2026/cards.md#paper-pointnsp-next-scale-points)
+- [Prompt-Free Universal Region Proposal Network](../../conferences/cvpr-2026/cards.md#paper-pfrpn-self-prompt-proposals)
+- [Fast Spatial Tracking with Visual Geometry Transformer](../../conferences/cvpr-2026/cards.md#paper-spatial-tracking-global-frame-query-embeddings)
 
 <!-- conference-classification:end -->

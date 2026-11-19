@@ -884,5 +884,7 @@
 - [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](../../conferences/cvpr-2026/cards.md#paper-longvt-native-temporal-cropping)
 - [Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions](../../conferences/cvpr-2026/cards.md#paper-class-fair-policy-gradient-curriculum)
 - [Neural Mixture Density Processes](../../conferences/cvpr-2026/cards.md#paper-neural-mixture-density-task-specific-function-prior)
+- [Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-fisheye-wrist-camera-condition-dependent-benefits)
+- [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](../../conferences/cvpr-2026/cards.md#paper-videoseek-evidence-directed-video-tools)
 
 <!-- conference-classification:end -->

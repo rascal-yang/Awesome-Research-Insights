@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,687 篇，其中 2,350 篇暂收录、1,337 篇排除，另有 355 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,717 篇，其中 2,372 篇暂收录、1,345 篇排除，另有 325 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2356,3 +2356,25 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,687
 | 机器人学 | 强化学习与仿真 | [RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](cards.md#paper-rehearsevla-world-model-completion-reward) | 示范稀少时用可重置世界模型做策略后训练，并显式学习停止评估。 |
 | 机器学习 | 元学习 | [Neural Mixture Density Processes](cards.md#paper-neural-mixture-density-task-specific-function-prior) | 将共享参数与任务特异的混合密度分开，表达多种合理的少样本函数。 |
 | 机器人学 | 强化学习与仿真 | [Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](cards.md#paper-humanoid-staged-reset-sim-to-real) | 从阶段状态重置提高长时探索覆盖，再处理像素策略的部分可观测性。 |
+| 机器学习基础与统计 | 模型架构 | [Progressive Guessing to Fixed Point: Rethinking Human Motion Prediction with Deep Equilibrium Models](cards.md#paper-fixed-point-motion-refinement) | 重复动作细化可写成固定点，从而定义停止条件并降低反传内存。 |
+| 计算机视觉 | 模型架构 | [STAGE: Storyboard-Anchored Generation for Cinematic Multi-shot Narrative](cards.md#paper-start-end-shot-pair-storyboard-anchors) | 分镜生成可用镜头首尾成对锚点来表达转场和镜头内运动。 |
+| 计算机视觉 | 推理策略 | [FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing](cards.md#paper-high-frequency-retention-multi-turn-edits) | 多次编辑出现累计模糊时，可对保留区域补充参考速度场中的高频信息。 |
+| 多模态学习 | 训练策略 | [Affordance-First Decomposition for Continual Learning in Video-Language Understanding](cards.md#paper-stable-affordance-substrate-continual-video-learning) | 持续视频学习可将慢变可供性和快速变化的任务适配参数分开。 |
+| 计算机视觉 | 评测与诊断 | [How Much 3D Do Video Foundation Models Encode?](cards.md#paper-shallow-probe-emergent-3d-video-generators) | 视频生成模型的三维表示可用浅层读出对照专用几何模型，帮助选择几何特征骨干。 |
+| 机器学习基础与统计 | 优化 | [AdaPrior: Bayesian-Inspired Adaptive Prior Correction for Long-Tailed Continual Learning](cards.md#paper-moving-model-priors-continual-long-tail) | 长尾持续学习可以估计模型随任务变化的隐含类先验，并同时修正训练与推理。 |
+| 机器学习基础与统计 | 优化 | [Smart Replay: Adaptive Scheduling of Memory Rehearsal for Computational Resource-Aware Incremental Learning](cards.md#paper-compute-aware-adaptive-replay-schedule) | 持续学习可在计算预算内按小批次调整重放比例，以平衡新任务和记忆损失。 |
+| 多模态学习 | 训练策略 | [Curriculum Group Policy Optimization: Adaptive Sampling for Unleashing the Potential of Text-to-Image Generation](cards.md#paper-cgpo-adaptive-curriculum) | 用组内奖励波动动态选择仍可学习的提示。 |
+| 智能体 | 奖励函数 | [Towards Sparse Video Understanding and Reasoning](cards.md#paper-revise-eager-sparse-video) | 多轮取证时同时奖励新证据增益、摘要充分性和正确早停。 |
+| 多模态学习 | 推理策略 | [When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance](cards.md#paper-casg-multi-objective-safety) | 生成防护需分项验证，某类风险下降可能伴随另一类风险上升。 |
+| 计算机视觉 | 评测与诊断 | [Layer Consistency Matters: Elegant Latent Transition Discrepancy for Generalizable Synthetic Image Detection](cards.md#paper-latent-transition-synthetic-detection) | 跨生成器取证可检查网络层间表征转换，而非只使用末层或生成器专有伪影。 |
+| 计算机视觉 | 模型架构 | [PointNSP: Autoregressive 3D Point Cloud Generation with Next-Scale Level-of-Detail Prediction](cards.md#paper-pointnsp-next-scale-points) | 对无序结构先生成全局粗形，再按尺度细化，不强加逐点顺序。 |
+| 多模态学习 | 模型架构 | [TIM: Temporal Decoupling with Iterative Mutual-Refinement Model for Longitudinal Radiology Report Generation](cards.md#paper-tim-evolution-spatial-decoupling) | 纵向问答分离每帧空间语义和随时间的变化，再迭代核对描述。 |
+| 计算机视觉 | 模型架构 | [Prompt-Free Universal Region Proposal Network](cards.md#paper-pfrpn-self-prompt-proposals) | 开放场景先定位明显对象，再以自身查询寻找遗漏区域。 |
+| 机器学习基础与统计 | 训练策略 | [Stabilizing Feature Geometry in Noisy Pretrained Models for Robust Downstream Tasks](cards.md#paper-pretrained-noise-subspace-rotation) | 从带噪预训练模型迁移前同时检查主特征子空间方向与谱能量。 |
+| 三维视觉 | 时空表征 | [Fast Spatial Tracking with Visual Geometry Transformer](cards.md#paper-spatial-tracking-global-frame-query-embeddings) | 用查询级全局状态补足逐帧局部证据，无需先做场景重建。 |
+| 机器学习 | 分布外检测 | [RankOOD - Class Ranking-based Out-of-Distribution Detection](cards.md#paper-rankood-class-permutation-likelihood) | 将类别预测的完整排序当作已知类特征，辨别最高分很高但排序异常的输入。 |
+| 机器学习 | 几何表征 | [SASNet: Spatially-Adaptive Sinusoidal Networks for INRs](cards.md#paper-sasnet-localized-fixed-frequency-support) | 让频率集合固定、影响区域可调，避免高频正弦在平坦区造成振铃。 |
+| 机器人学 | 传感器选择 | [Rethinking Camera Choice: An Empirical Study on Fisheye Camera Properties in Robotic Manipulation](cards.md#paper-fisheye-wrist-camera-condition-dependent-benefits) | 选腕部相机时联合考虑视野和训练场景多样性，防止把宽角本身当成泛化保证。 |
+| 智能体 | 主动感知 | [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](cards.md#paper-videoseek-evidence-directed-video-tools) | 用思考、行动和观察循环寻找相关帧，并把已处理帧数作为代价。 |
+| 智能体 | 推理时校验 | [BAMI: Training-Free Bias Mitigation in GUI Grounding](cards.md#paper-bami-masked-prediction-bias-diagnostic) | 先识别界面定位是坐标偏移还是候选歧义，再选择局部放大或重排序。 |
+| 多模态学习 | 合成监督 | [Cinematic Audio Source Separation Using Visual Cues](cards.md#paper-avcass-synthetic-visual-source-pairing) | 缺少分离真值时用可见声源构造合成混音，并以人听评验证真实性。 |
