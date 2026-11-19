@@ -829,5 +829,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [RehearseVLA: Simulated Post-Training for VLAs with Physically-Consistent World Model](../../conferences/cvpr-2026/cards.md#paper-rehearsevla-world-model-completion-reward)
 - [Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer](../../conferences/cvpr-2026/cards.md#paper-humanoid-staged-reset-sim-to-real)
 - [Towards Sparse Video Understanding and Reasoning](../../conferences/cvpr-2026/cards.md#paper-revise-eager-sparse-video)
+- [Discriminative Perception via Anchored Description for Reasoning Segmentation](../../conferences/cvpr-2026/cards.md#paper-dpad-anchored-description)
 
 <!-- conference-classification:end -->

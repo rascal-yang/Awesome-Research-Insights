@@ -1192,5 +1192,9 @@ Robot perception, policy learning, planning, and control.
 - [WorldGen: From Text to Traversable and Interactive 3D Worlds](../../conferences/cvpr-2026/cards.md#paper-worldgen-navigable-entity-reconstruction)
 - [NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction](../../conferences/cvpr-2026/cards.md#paper-navforesee-dual-horizon-visual-imagination)
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](../../conferences/cvpr-2026/cards.md#paper-fast-foundationstereo-budgeted-blocks)
+- [ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation](../../conferences/cvpr-2026/cards.md#paper-force-aware-hybrid-position-control)
+- [TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion](../../conferences/cvpr-2026/cards.md#paper-persistent-confidence-aware-gaussian-memory)
+- [GraspGen-X: Cross-Embodiment 6-DOF Diffusion-based Grasping](../../conferences/cvpr-2026/cards.md#paper-graspgenx-swept-volume)
+- [SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-spacedrive-explicit-coordinate-encoding)
 
 <!-- conference-classification:end -->

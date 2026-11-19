@@ -1398,5 +1398,8 @@ Training schedules, curricula, and task or stage composition.
 - [Unlocking Pre-trained Weights: Parameter Inheritance for Zero-Shot Initialization](../../conferences/cvpr-2026/cards.md#paper-pith-parameter-inheritance)
 - [Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](../../conferences/cvpr-2026/cards.md#paper-omniattribute-paired-disentangling)
 - [Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](../../conferences/cvpr-2026/cards.md#paper-fob-background-prompt-localization)
+- [MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation](../../conferences/cvpr-2026/cards.md#paper-information-gain-selected-mask-policy-updates)
+- [Differentially Private 2D Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-low-dimensional-gradient-privacy-structured-prediction)
+- [ChartNet: A Million-Scale, High-Quality Multimodal Dataset for Robust Chart Understanding](../../conferences/cvpr-2026/cards.md#paper-chartnet-code-verified-modalities)
 
 <!-- conference-classification:end -->

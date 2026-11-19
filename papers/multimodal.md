@@ -1690,5 +1690,12 @@
 - [ChartR: Evaluating Reasoning Accuracy and Robustness in Chart Question Answering](../conferences/cvpr-2026/cards.md#paper-chartr-stepwise-perturbation-evaluation)
 - [FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](../conferences/cvpr-2026/cards.md#paper-fluxmem-temporal-spatial-adaptive-compression)
 - [PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-pearl-align-then-propagate-open-vocabulary)
+- [Protect to Adapt: Orthogonal Subspace Control with Ranked Negative-Prompt Curriculum for Few-Shot Action Recognition](../conferences/cvpr-2026/cards.md#paper-orthogonal-protected-subspace-few-shot-adaptation)
+- [ChartNet: A Million-Scale, High-Quality Multimodal Dataset for Robust Chart Understanding](../conferences/cvpr-2026/cards.md#paper-chartnet-code-verified-modalities)
+- [MapRoute:Precise-Concept Erasing Mappers via Semantic Routing](../conferences/cvpr-2026/cards.md#paper-maproute-selective-erasure)
+- [Discriminative Perception via Anchored Description for Reasoning Segmentation](../conferences/cvpr-2026/cards.md#paper-dpad-anchored-description)
+- [CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](../conferences/cvpr-2026/cards.md#paper-codemmr-trimodal-artifact-retrieval)
+- [Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking](../conferences/cvpr-2026/cards.md#paper-visual-to-linguistic-implicit-tracking)
+- [EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](../conferences/cvpr-2026/cards.md#paper-eaglevision-diverse-keyframes-bev-active-reasoning)
 
 <!-- conference-classification:end -->

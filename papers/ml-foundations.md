@@ -2663,5 +2663,8 @@
 - [Unlocking Pre-trained Weights: Parameter Inheritance for Zero-Shot Initialization](../conferences/cvpr-2026/cards.md#paper-pith-parameter-inheritance)
 - [Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models](../conferences/cvpr-2026/cards.md#paper-eda-arbitrary-noise-restoration-path)
 - [Convolutional Neural Networks Driven by Content Similarity](../conferences/cvpr-2026/cards.md#paper-content-sorted-convolution-aggregation)
+- [Differentially Private 2D Human Pose Estimation](../conferences/cvpr-2026/cards.md#paper-low-dimensional-gradient-privacy-structured-prediction)
+- [Breaking the Continuum: Discrete Distribution Learning for Structural MRI Reconstruction](../conferences/cvpr-2026/cards.md#paper-dicos-discrete-continuous-reconstruction)
+- [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](../conferences/cvpr-2026/cards.md#paper-onestory-global-frame-memory-next-shot)
 
 <!-- conference-classification:end -->

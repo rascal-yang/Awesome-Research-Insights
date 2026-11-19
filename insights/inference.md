@@ -1758,5 +1758,7 @@
 - [Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs](../conferences/cvpr-2026/cards.md#paper-latent-strategy-diversity-before-reasoning)
 - [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-tays-streaming-dual-kv)
 - [PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-pearl-align-then-propagate-open-vocabulary)
+- [Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-adaptive-rendered-views-and-two-stage-localization)
+- [DRAMA: Next-Gen Dynamic Orchestration for Resilient Multi-Agent Ecosystems in Flux](../conferences/cvpr-2026/cards.md#paper-drama-dynamic-team-orchestration)
 
 <!-- conference-classification:end -->

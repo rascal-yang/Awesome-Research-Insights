@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,837 篇，其中 2,449 篇暂收录、1,388 篇排除，另有 205 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,867 篇，其中 2,471 篇暂收录、1,396 篇排除，另有 175 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2455,3 +2455,25 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,837
 | 计算机视觉 | 弱监督学习 | [Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](cards.md#paper-fob-background-prompt-localization) | 少样本分割出现过分割时，直接学习定位背景提示，而不是只加强前景。 |
 | 机器学习 | 表征学习 | [Convolutional Neural Networks Driven by Content Similarity](cards.md#paper-content-sorted-convolution-aggregation) | 通过重排让相似特征靠近，再用卷积聚合不相邻的原图内容。 |
 | 多模态学习 | 推理时适配 | [PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](cards.md#paper-pearl-align-then-propagate-open-vocabulary) | 先在视觉注意力中校正子空间，再用文本置信传播像素分数。 |
+| 机器人学 | 模型架构 | [ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation](cards.md#paper-force-aware-hybrid-position-control) | 接触任务可把阶段性力概念与实时力反馈分别输入策略，再输出力位混合控制。 |
+| 机器人学 | 表征学习 | [TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion](cards.md#paper-persistent-confidence-aware-gaussian-memory) | 持续三维理解可以更新 Gaussian 场景记忆，避免保留全部历史视频帧。 |
+| 计算机视觉 | 表征学习 | [Dynamic-Static Decomposition for Novel View Synthesis of Dynamic Scenes with Spiking Neurons](cards.md#paper-discontinuous-motion-primitive-tagging) | 动态三维重建可用不连续标签场分离静态和活动原语，重点保护运动边界。 |
+| 计算机视觉 | 推理策略 | [Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting](cards.md#paper-adaptive-rendered-views-and-two-stage-localization) | 稀疏图像定位可合成更接近查询方向的虚拟参考，并为粗细匹配选不同类型特征。 |
+| 多模态学习 | 优化 | [Protect to Adapt: Orthogonal Subspace Control with Ranked Negative-Prompt Curriculum for Few-Shot Action Recognition](cards.md#paper-orthogonal-protected-subspace-few-shot-adaptation) | 少样本适配可将低秩更新限制在固定语义主子空间的正交补。 |
+| 计算机视觉 | 训练策略 | [MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation](cards.md#paper-information-gain-selected-mask-policy-updates) | 可以按采样步骤的信息增益选择对掩码生成器做强化学习的位置。 |
+| 机器学习基础与统计 | 训练策略 | [Differentially Private 2D Human Pose Estimation](cards.md#paper-low-dimensional-gradient-privacy-structured-prediction) | 结构预测的差分隐私训练可先压缩梯度更新维度，再选择性处理敏感特征。 |
+| 计算机视觉 | 模型架构 | [MetricHMSR: Metric Human Mesh and Scene Recovery from Monocular Images](cards.md#paper-metrichmsr-camera-ray-map) | 单目恢复用物理相机光线提示度量尺度，局部姿态与全局位移分工建模。 |
+| 多模态学习 | 训练策略 | [ChartNet: A Million-Scale, High-Quality Multimodal Dataset for Robust Chart Understanding](cards.md#paper-chartnet-code-verified-modalities) | 从同一可执行代码生成图像、表格、解释与问答，以可验证结构保障多模态一致。 |
+| 多模态学习 | 模型架构 | [MapRoute:Precise-Concept Erasing Mappers via Semantic Routing](cards.md#paper-maproute-selective-erasure) | 将概念更新路由到专用模块，并分测目标去除与无关能力保留。 |
+| 机器人学 | 模型架构 | [GraspGen-X: Cross-Embodiment 6-DOF Diffusion-based Grasping](cards.md#paper-graspgenx-swept-volume) | 跨夹爪学习用扫掠体积表达形态与抓取运动，不只看静态平面几何。 |
+| 计算机视觉 | 模型架构 | [Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation](cards.md#paper-hypergraph-point-class-discovery) | 三维新类发现以多类群组关系传播几何和语义，避免只按单个已知类匹配。 |
+| 多模态学习 | 奖励函数 | [Discriminative Perception via Anchored Description for Reasoning Segmentation](cards.md#paper-dpad-anchored-description) | 除了最终掩膜奖励，还要检查模型能否用可区分目标和背景的描述说明定位依据。 |
+| 计算机视觉 | 模型架构 | [Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions](cards.md#paper-dual-band-thermal-temporal-separation) | 光谱难以区分发射与反射时，再利用两源时间变化速度不同做联合估计。 |
+| 机器学习基础与统计 | 模型架构 | [Breaking the Continuum: Discrete Distribution Learning for Structural MRI Reconstruction](cards.md#paper-dicos-discrete-continuous-reconstruction) | 强结构先验逆问题可先采样离散候选，再按观测与图像一致性筛选并连续细化。 |
+| 机器人学 | 空间表征 | [SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](cards.md#paper-spacedrive-explicit-coordinate-encoding) | 用统一位置编码注入三维坐标，避免让语言模型从数字 token 重建几何。 |
+| 多模态学习 | 检索增强 | [CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](cards.md#paper-codemmr-trimodal-artifact-retrieval) | 将代码、自然语言和渲染图放入同一检索接口，支持按视觉结果查找实现。 |
+| 三维视觉 | 鲁棒感知 | [RemedyGS: Defend 3D Gaussian Splatting Against Computation Cost Attacks](cards.md#paper-remedygs-reconstruction-resource-defense) | 对三维重建服务分别监测输入异常、重建资源和清洁画质，避免只看渲染质量。 |
+| 多模态学习 | 表征学习 | [Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking](cards.md#paper-visual-to-linguistic-implicit-tracking) | 没有显式文字时，从模板和搜索区域产生动态文本空间 token 为追踪补背景。 |
+| 智能体 | 工具调度 | [DRAMA: Next-Gen Dynamic Orchestration for Resilient Multi-Agent Ecosystems in Flux](cards.md#paper-drama-dynamic-team-orchestration) | 用人员退出、重返和替换测试任务重分配，以过程冲突和吞吐衡量协调。 |
+| 多模态学习 | 主动感知 | [EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](cards.md#paper-eaglevision-diverse-keyframes-bev-active-reasoning) | 固定帧预算下兼顾语义相关与视点多样性，必要时再以俯视图定位新观察。 |
+| 生成模型 | 记忆机制 | [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](cards.md#paper-onestory-global-frame-memory-next-shot) | 逐镜头生成时从全局历史选相关帧，而不是只用上一帧或固定短窗。 |

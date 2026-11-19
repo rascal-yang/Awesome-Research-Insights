@@ -808,5 +808,9 @@
 - [DepthFocus: Controllable Depth Estimation for See-Through Scenes](../conferences/cvpr-2026/cards.md#paper-depthfocus-reference-plane-conditional-depth)
 - [CaReFlow: Cyclic Adaptive Rectified Flow for Multimodal Fusion](../conferences/cvpr-2026/cards.md#paper-one-to-many-cross-modal-distribution-flow)
 - [Convolutional Neural Networks Driven by Content Similarity](../conferences/cvpr-2026/cards.md#paper-content-sorted-convolution-aggregation)
+- [TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion](../conferences/cvpr-2026/cards.md#paper-persistent-confidence-aware-gaussian-memory)
+- [Dynamic-Static Decomposition for Novel View Synthesis of Dynamic Scenes with Spiking Neurons](../conferences/cvpr-2026/cards.md#paper-discontinuous-motion-primitive-tagging)
+- [SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-spacedrive-explicit-coordinate-encoding)
+- [Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking](../conferences/cvpr-2026/cards.md#paper-visual-to-linguistic-implicit-tracking)
 
 <!-- conference-classification:end -->

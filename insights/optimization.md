@@ -738,5 +738,6 @@
 - [Smart Replay: Adaptive Scheduling of Memory Rehearsal for Computational Resource-Aware Incremental Learning](../conferences/cvpr-2026/cards.md#paper-compute-aware-adaptive-replay-schedule)
 - [Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models](../conferences/cvpr-2026/cards.md#paper-cse-cross-dataset-unlearning)
 - [Outlier-Robust Diffusion Solvers for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-robust-diffusion-huber-inverse-solvers)
+- [Protect to Adapt: Orthogonal Subspace Control with Ranked Negative-Prompt Curriculum for Few-Shot Action Recognition](../conferences/cvpr-2026/cards.md#paper-orthogonal-protected-subspace-few-shot-adaptation)
 
 <!-- conference-classification:end -->

@@ -891,5 +891,7 @@
 - [Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-thermal-nvs-radiometric-drift-diagnosis)
 - [FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models](../conferences/cvpr-2026/cards.md#paper-fine-shared-factors-variable-depth-initialization)
 - [Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models](../conferences/cvpr-2026/cards.md#paper-eda-arbitrary-noise-restoration-path)
+- [RemedyGS: Defend 3D Gaussian Splatting Against Computation Cost Attacks](../conferences/cvpr-2026/cards.md#paper-remedygs-reconstruction-resource-defense)
+- [EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](../conferences/cvpr-2026/cards.md#paper-eaglevision-diverse-keyframes-bev-active-reasoning)
 
 <!-- conference-classification:end -->

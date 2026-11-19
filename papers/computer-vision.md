@@ -1732,5 +1732,12 @@
 - [From Detection to Association: Learning Discriminative Object Embeddings for Multi-Object Tracking](../conferences/cvpr-2026/cards.md#paper-fdta-detection-association-embeddings)
 - [LangField4D: Learning Identity-Adaptive and Spatio-Temporal Continuous 4D Language Fields for Dynamic Scenes](../conferences/cvpr-2026/cards.md#paper-langfield4d-identity-continuity)
 - [Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](../conferences/cvpr-2026/cards.md#paper-fob-background-prompt-localization)
+- [Dynamic-Static Decomposition for Novel View Synthesis of Dynamic Scenes with Spiking Neurons](../conferences/cvpr-2026/cards.md#paper-discontinuous-motion-primitive-tagging)
+- [Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-adaptive-rendered-views-and-two-stage-localization)
+- [MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation](../conferences/cvpr-2026/cards.md#paper-information-gain-selected-mask-policy-updates)
+- [MetricHMSR: Metric Human Mesh and Scene Recovery from Monocular Images](../conferences/cvpr-2026/cards.md#paper-metrichmsr-camera-ray-map)
+- [Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation](../conferences/cvpr-2026/cards.md#paper-hypergraph-point-class-discovery)
+- [Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions](../conferences/cvpr-2026/cards.md#paper-dual-band-thermal-temporal-separation)
+- [RemedyGS: Defend 3D Gaussian Splatting Against Computation Cost Attacks](../conferences/cvpr-2026/cards.md#paper-remedygs-reconstruction-resource-defense)
 
 <!-- conference-classification:end -->

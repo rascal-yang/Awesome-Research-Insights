@@ -862,5 +862,12 @@
 - [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](../conferences/cvpr-2026/cards.md#paper-fast-foundationstereo-budgeted-blocks)
 - [UniChange: Unifying Change Detection with Multimodal Large Language Model](../conferences/cvpr-2026/cards.md#paper-unichange-temporal-tokens)
 - [LangField4D: Learning Identity-Adaptive and Spatio-Temporal Continuous 4D Language Fields for Dynamic Scenes](../conferences/cvpr-2026/cards.md#paper-langfield4d-identity-continuity)
+- [ForceVLA2: Unleashing Hybrid Force-Position Control with Force Awareness for Contact-Rich Manipulation](../conferences/cvpr-2026/cards.md#paper-force-aware-hybrid-position-control)
+- [MetricHMSR: Metric Human Mesh and Scene Recovery from Monocular Images](../conferences/cvpr-2026/cards.md#paper-metrichmsr-camera-ray-map)
+- [MapRoute:Precise-Concept Erasing Mappers via Semantic Routing](../conferences/cvpr-2026/cards.md#paper-maproute-selective-erasure)
+- [GraspGen-X: Cross-Embodiment 6-DOF Diffusion-based Grasping](../conferences/cvpr-2026/cards.md#paper-graspgenx-swept-volume)
+- [Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation](../conferences/cvpr-2026/cards.md#paper-hypergraph-point-class-discovery)
+- [Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions](../conferences/cvpr-2026/cards.md#paper-dual-band-thermal-temporal-separation)
+- [Breaking the Continuum: Discrete Distribution Learning for Structural MRI Reconstruction](../conferences/cvpr-2026/cards.md#paper-dicos-discrete-continuous-reconstruction)
 
 <!-- conference-classification:end -->

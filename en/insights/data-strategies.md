@@ -485,5 +485,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Regulating Rather than Constraining: Adaptive Guidance for Complex Spectral Reconstruction in Pansharpening](../../conferences/cvpr-2026/cards.md#paper-spatial-spectral-mixing-for-rare-reconstruction)
 - [Inter-Edit: First Benchmark for Interactive Instruction-Based Image Editing](../../conferences/cvpr-2026/cards.md#paper-imprecise-user-mask-simulation-for-editing)
 - [Enhancing Descriptive Captions with Visual Attributes for Multimodal Perception](../../conferences/cvpr-2026/cards.md#paper-visual-specialist-evidence-caption-supervision)
+- [CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](../../conferences/cvpr-2026/cards.md#paper-codemmr-trimodal-artifact-retrieval)
 
 <!-- conference-classification:end -->

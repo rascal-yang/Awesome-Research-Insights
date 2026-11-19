@@ -2480,5 +2480,6 @@
 - [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](../conferences/cvpr-2026/cards.md#paper-videoseek-evidence-directed-video-tools)
 - [BAMI: Training-Free Bias Mitigation in GUI Grounding](../conferences/cvpr-2026/cards.md#paper-bami-masked-prediction-bias-diagnostic)
 - [OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning](../conferences/cvpr-2026/cards.md#paper-oasis-hierarchical-event-memory-refinement)
+- [DRAMA: Next-Gen Dynamic Orchestration for Resilient Multi-Agent Ecosystems in Flux](../conferences/cvpr-2026/cards.md#paper-drama-dynamic-team-orchestration)
 
 <!-- conference-classification:end -->

@@ -433,5 +433,6 @@
 - [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](../conferences/cvpr-2026/cards.md#paper-narrative-weaver-dynamic-visual-memory)
 - [OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning](../conferences/cvpr-2026/cards.md#paper-oasis-hierarchical-event-memory-refinement)
 - [FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](../conferences/cvpr-2026/cards.md#paper-fluxmem-temporal-spatial-adaptive-compression)
+- [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](../conferences/cvpr-2026/cards.md#paper-onestory-global-frame-memory-next-shot)
 
 <!-- conference-classification:end -->
