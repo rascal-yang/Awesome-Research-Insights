@@ -1022,5 +1022,13 @@ Learning across modalities such as images, text, audio, and video.
 - [DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities](../../conferences/cvpr-2026/cards.md#paper-dpl-missing-modality)
 - [OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning](../../conferences/cvpr-2026/cards.md#paper-openvision-2-generative-pretraining)
 - [FailureAtlas: Mapping the Failure Landscape of T2I Models via Active Exploration](../../conferences/cvpr-2026/cards.md#paper-failureatlas)
+- [Thinking with Drafts: Speculative Temporal Reasoning for Efficient Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-spectemp-draft-frame-proposal)
+- [Zero-Shot Depth Completion with Vision-Language Model](../../conferences/cvpr-2026/cards.md#paper-sparse-depth-vlm-mask-guidance)
+- [Rosetta Stone For Unified MLLMs: A Unified Tokenizer to Decipher Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-rosetta-unified-tokenizer)
+- [TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ttl-ood)
+- [T2SGrid: Temporal-to-Spatial Gridification for Video Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-t2sgrid)
+- [What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-embedlens-visual-token-sparsity)
+- [Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-simple-synthetic-video-controls)
+- [Socratic-Geo: Synthetic Data Generation and Cross-Modal Geometric Reasoning via Multi-Agent Interaction](../../conferences/cvpr-2026/cards.md#paper-socratic-geo-failure-directed-synthesis)
 
 <!-- conference-classification:end -->

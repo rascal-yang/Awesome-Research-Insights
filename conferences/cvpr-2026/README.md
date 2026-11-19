@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 777 篇，其中 506 篇暂收录、271 篇排除，另有 3,265 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 807 篇，其中 526 篇暂收录、281 篇排除，另有 3,235 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -512,3 +512,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 777 �
 | 计算机视觉 | 表示学习 | [I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](cards.md#paper-i-scene-instance-generator) | 场景训练数据少时，用预训练单物体生成器的几何先验在随机组合场景中学习布局。 |
 | 机器学习基础 | 评测与分析 | [When Pretty Isn't Useful: Investigating Why Modern Text-to-Image Models Fail as Reliable Training Data Generators](cards.md#paper-synthetic-data-aesthetic-bias) | 选择合成训练数据生成器时，用真实下游准确率及覆盖度作门槛，不以图好看或提示匹配选型。 |
 | 机器学习基础 | 训练与数据策略 | [Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](cards.md#paper-refine-active-learning) | 每轮主动学习先用多个策略交替缩小未标注池，再按不同信息价值的覆盖选最终批次。 |
+| 多模态学习 | 推理策略 | [Thinking with Drafts: Speculative Temporal Reasoning for Efficient Long Video Understanding](cards.md#paper-spectemp-draft-frame-proposal) | 长视频推理可以把密集找帧交给轻量模型，将判断和复核留给大模型，并以准确率和实际时延一起评价。见表 3、4。 |
+| 机器学习 | 数据蒸馏 | [Dataset Distillation by Influence Matching](cards.md#paper-infmatch-terminal-data-influence) | 合成数据蒸馏可直接匹配样本对最终参数的影响，并用下游检索与分类对比轨迹匹配。见第 4、5 节。 |
+| 计算机视觉 | 模型效率 | [Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel](cards.md#paper-rds-mask-conditioned-video-routing) | 视频推理的条件路由可以使用上一帧的预测掩膜和当前帧特征，比较更长预测记忆是否值得。见表 4、5 和图 7。 |
+| 多模态学习 | 表征学习 | [Zero-Shot Depth Completion with Vision-Language Model](cards.md#paper-sparse-depth-vlm-mask-guidance) | 当几何传感器只给出少量观测时，可以把观测数值和观测位置分开编码，测量位置本身对补全误差的影响。见表 5。 |
+| 生成模型 | 推理策略 | [Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers](cards.md#paper-ldf-vfi-skip-concatenate-sampling) | 长序列自回归生成出现漂移时，可以检验跳过最近生成片段作为条件的采样次序，并比较块边界一致性。见图 5、表 3。 |
+| 机器人学 | 检索增强 | [R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space](cards.md#paper-r4-semantic-spatiotemporal-memory-retrieval) | 空间问答的情景记忆应分别评估语义、空间和时间索引，并检验定位键加入语义检索后的增量。见表 5。 |
+| 机器人学 | 模型架构 | [SemanticVLA: Towards Semantic Reasoning over Action Memorization via Synergistic Explicit Trace and Latent Action Planning](cards.md#paper-semanticvla) | 把可解释轨迹和隐动作计划作为两路接口，分别检验语义泛化与精细控制。 |
+| 计算机视觉 | 表示学习 | [AERGS-SLAM: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM](cards.md#paper-aergs-slam) | 让定位用光照鲁棒特征，渲染端单独估计曝光。 |
+| 多模态学习 | 模型架构 | [Rosetta Stone For Unified MLLMs: A Unified Tokenizer to Decipher Understanding and Generation](cards.md#paper-rosetta-unified-tokenizer) | 按量化层分配语义和纹理目标，并分开审计理解与生成。 |
+| 计算机视觉 | 异常检测 | [Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization](cards.md#paper-anoco) | 少正常样本时，试用与固定参考对齐所需的位移替代最近邻距离。 |
+| 多模态学习 | 训练策略 | [TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models](cards.md#paper-ttl-ood) | 面对未知类变化，可用冻结视觉编码和自更新负文本提示校准，而非增加固定负类词表。 |
+| 计算机视觉 | 自监督学习 | [Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video](cards.md#paper-egovit) | 跨帧一致性应作用在可信对象原型上，同时单测几何先验是否必要。 |
+| 计算机视觉 | 推理压缩 | [Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder](cards.md#paper-aeic) | 边缘端预算更紧时可把容量移向解码端，并用跨端蒸馏稳定浅编码。 |
+| 多模态学习 | 输入表示 | [T2SGrid: Temporal-to-Spatial Gridification for Video Temporal Grounding](cards.md#paper-t2sgrid) | 当视觉模型更擅长空间注意力时，把局部时间顺序编码为图像排布，并保留全局时间锚。 |
+| 机器人学 | 推理优化 | [OVI-MAP: Open-Vocabulary Instance-Semantic Mapping](cards.md#paper-ovi-map) | 在线语义建图先更新类别无关实例，再从少量代表视图给实例添加语义。 |
+| 多模态学习 | 可解释性与诊断 | [What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models](cards.md#paper-embedlens-visual-token-sparsity) | 压缩视觉词元或跳层前，先用语义探针和随机等量裁剪定位真正承载实例信息的词元。 |
+| 多模态学习 | 训练与数据策略 | [Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation](cards.md#paper-simple-synthetic-video-controls) | 学习新视频物理控制时，先用因素独立的简单合成数据，对照逼真数据是否引入混杂。 |
+| 多模态学习 | 训练与数据策略 | [Socratic-Geo: Synthetic Data Generation and Cross-Modal Geometric Reasoning via Multi-Agent Interaction](cards.md#paper-socratic-geo-failure-directed-synthesis) | 训练几何推理时利用求解失败轨迹驱动可验证的合成数据补齐。 |
+| 机器学习基础 | 损失函数与优化 | [Drainage: A Unifying Framework for Addressing Class Uncertainty](cards.md#paper-drainage-class-uncertainty) | 噪声标签或类歧义明显时，给输出层预留可学习的拒判概率。 |
+| 计算机视觉 | 自监督学习 | [Learning Cross-View Object Correspondence via Cycle-Consistent Mask Prediction](cards.md#paper-cycle-consistent-cross-view-masks) | 跨视角对象对应缺少标注时，用预测掩码回映原视角约束训练和测试时适配。 |

@@ -996,5 +996,8 @@ Training schedules, curricula, and task or stage composition.
 - [FedCART: Tackling Long-Tailed Distributions in Federated Adversarial Training via Classifier Refinement](../../conferences/cvpr-2026/cards.md#paper-fedcart-defense)
 - [Reading Your Actions: Learning Generalizable Action Representations via Pre-training AEMG](../../conferences/cvpr-2026/cards.md#paper-aemg)
 - [Frequency-Aware Affinity for Weakly Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-dfa-frequency-affinity)
+- [TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ttl-ood)
+- [Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video](../../conferences/cvpr-2026/cards.md#paper-egovit)
+- [Learning Cross-View Object Correspondence via Cycle-Consistent Mask Prediction](../../conferences/cvpr-2026/cards.md#paper-cycle-consistent-cross-view-masks)
 
 <!-- conference-classification:end -->

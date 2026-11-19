@@ -1140,5 +1140,11 @@
 - [GenMask: Adapting DiT for Segmentation via Direct Mask Generation](../conferences/cvpr-2026/cards.md#paper-genmask)
 - [Frequency-Aware Affinity for Weakly Supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-dfa-frequency-affinity)
 - [I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](../conferences/cvpr-2026/cards.md#paper-i-scene-instance-generator)
+- [Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel](../conferences/cvpr-2026/cards.md#paper-rds-mask-conditioned-video-routing)
+- [AERGS-SLAM: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM](../conferences/cvpr-2026/cards.md#paper-aergs-slam)
+- [Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization](../conferences/cvpr-2026/cards.md#paper-anoco)
+- [Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video](../conferences/cvpr-2026/cards.md#paper-egovit)
+- [Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder](../conferences/cvpr-2026/cards.md#paper-aeic)
+- [Learning Cross-View Object Correspondence via Cycle-Consistent Mask Prediction](../conferences/cvpr-2026/cards.md#paper-cycle-consistent-cross-view-masks)
 
 <!-- conference-classification:end -->

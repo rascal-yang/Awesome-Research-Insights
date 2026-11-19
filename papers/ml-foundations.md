@@ -2331,5 +2331,8 @@
 - [Reading Your Actions: Learning Generalizable Action Representations via Pre-training AEMG](../conferences/cvpr-2026/cards.md#paper-aemg)
 - [When Pretty Isn't Useful: Investigating Why Modern Text-to-Image Models Fail as Reliable Training Data Generators](../conferences/cvpr-2026/cards.md#paper-synthetic-data-aesthetic-bias)
 - [Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](../conferences/cvpr-2026/cards.md#paper-refine-active-learning)
+- [Dataset Distillation by Influence Matching](../conferences/cvpr-2026/cards.md#paper-infmatch-terminal-data-influence)
+- [Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ldf-vfi-skip-concatenate-sampling)
+- [Drainage: A Unifying Framework for Addressing Class Uncertainty](../conferences/cvpr-2026/cards.md#paper-drainage-class-uncertainty)
 
 <!-- conference-classification:end -->

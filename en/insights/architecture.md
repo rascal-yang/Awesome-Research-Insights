@@ -611,5 +611,7 @@ Model-wide design and information flow.
 - [VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations](../../conferences/cvpr-2026/cards.md#paper-vibetoken)
 - [TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction](../../conferences/cvpr-2026/cards.md#paper-tokensplat)
 - [DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities](../../conferences/cvpr-2026/cards.md#paper-dpl-missing-modality)
+- [SemanticVLA: Towards Semantic Reasoning over Action Memorization via Synergistic Explicit Trace and Latent Action Planning](../../conferences/cvpr-2026/cards.md#paper-semanticvla)
+- [Rosetta Stone For Unified MLLMs: A Unified Tokenizer to Decipher Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-rosetta-unified-tokenizer)
 
 <!-- conference-classification:end -->

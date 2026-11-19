@@ -575,5 +575,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks](../../conferences/cvpr-2026/cards.md#paper-nexusflow)
 - [OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data](../../conferences/cvpr-2026/cards.md#paper-opent2m-partwise-2d-motion-quantization)
 - [I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](../../conferences/cvpr-2026/cards.md#paper-i-scene-instance-generator)
+- [Zero-Shot Depth Completion with Vision-Language Model](../../conferences/cvpr-2026/cards.md#paper-sparse-depth-vlm-mask-guidance)
+- [AERGS-SLAM: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM](../../conferences/cvpr-2026/cards.md#paper-aergs-slam)
+- [T2SGrid: Temporal-to-Spatial Gridification for Video Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-t2sgrid)
 
 <!-- conference-classification:end -->

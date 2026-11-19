@@ -897,5 +897,8 @@
 - [PAMotion: Physics-Aware Motion Generation for Full-Body Interaction with Multiple Objects](../conferences/cvpr-2026/cards.md#paper-pamotion-contact-acceleration)
 - [OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data](../conferences/cvpr-2026/cards.md#paper-opent2m-partwise-2d-motion-quantization)
 - [Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-srcp-visual-unsupervised-rl)
+- [R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space](../conferences/cvpr-2026/cards.md#paper-r4-semantic-spatiotemporal-memory-retrieval)
+- [SemanticVLA: Towards Semantic Reasoning over Action Memorization via Synergistic Explicit Trace and Latent Action Planning](../conferences/cvpr-2026/cards.md#paper-semanticvla)
+- [OVI-MAP: Open-Vocabulary Instance-Semantic Mapping](../conferences/cvpr-2026/cards.md#paper-ovi-map)
 
 <!-- conference-classification:end -->

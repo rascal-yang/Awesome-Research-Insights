@@ -404,5 +404,6 @@
 - [Aligning Multi-Character Narrative Image Generation with Multi-Aspect Human Preferences](../conferences/cvpr-2026/cards.md#paper-adpo-multi-aspect-preferences)
 - [InterRVOS: Interaction-Aware Referring Video Object Segmentation](../conferences/cvpr-2026/cards.md#paper-interrvos-role-conditioned-segmentation)
 - [PAMotion: Physics-Aware Motion Generation for Full-Body Interaction with Multiple Objects](../conferences/cvpr-2026/cards.md#paper-pamotion-contact-acceleration)
+- [Drainage: A Unifying Framework for Addressing Class Uncertainty](../conferences/cvpr-2026/cards.md#paper-drainage-class-uncertainty)
 
 <!-- conference-classification:end -->

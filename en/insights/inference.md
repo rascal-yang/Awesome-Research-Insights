@@ -1384,5 +1384,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [REACH: Explicit Recovery Behavior for Diffusion Policies](../../conferences/cvpr-2026/cards.md#paper-reach-error-conditioned-action-recovery)
 - [Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference](../../conferences/cvpr-2026/cards.md#paper-remix-continuous-decoding)
 - [Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](../../conferences/cvpr-2026/cards.md#paper-hilbert-geo-formal-parse-solver-control)
+- [Thinking with Drafts: Speculative Temporal Reasoning for Efficient Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-spectemp-draft-frame-proposal)
+- [Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-ldf-vfi-skip-concatenate-sampling)
+- [Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder](../../conferences/cvpr-2026/cards.md#paper-aeic)
+- [OVI-MAP: Open-Vocabulary Instance-Semantic Mapping](../../conferences/cvpr-2026/cards.md#paper-ovi-map)
 
 <!-- conference-classification:end -->

@@ -1456,5 +1456,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Scaling View Synthesis Transformers](../../conferences/cvpr-2026/cards.md#paper-svsm-compute-matched-scaling)
 - [FailureAtlas: Mapping the Failure Landscape of T2I Models via Active Exploration](../../conferences/cvpr-2026/cards.md#paper-failureatlas)
 - [When Pretty Isn't Useful: Investigating Why Modern Text-to-Image Models Fail as Reliable Training Data Generators](../../conferences/cvpr-2026/cards.md#paper-synthetic-data-aesthetic-bias)
+- [Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization](../../conferences/cvpr-2026/cards.md#paper-anoco)
+- [What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-embedlens-visual-token-sparsity)
 
 <!-- conference-classification:end -->

@@ -387,5 +387,9 @@
 - [MDS-VQA: Model-Informed Data Selection for Video Quality Assessment](../conferences/cvpr-2026/cards.md#paper-mds-vqa)
 - [OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning](../conferences/cvpr-2026/cards.md#paper-openvision-2-generative-pretraining)
 - [Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](../conferences/cvpr-2026/cards.md#paper-refine-active-learning)
+- [Dataset Distillation by Influence Matching](../conferences/cvpr-2026/cards.md#paper-infmatch-terminal-data-influence)
+- [R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space](../conferences/cvpr-2026/cards.md#paper-r4-semantic-spatiotemporal-memory-retrieval)
+- [Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation](../conferences/cvpr-2026/cards.md#paper-simple-synthetic-video-controls)
+- [Socratic-Geo: Synthetic Data Generation and Cross-Modal Geometric Reasoning via Multi-Agent Interaction](../conferences/cvpr-2026/cards.md#paper-socratic-geo-failure-directed-synthesis)
 
 <!-- conference-classification:end -->
