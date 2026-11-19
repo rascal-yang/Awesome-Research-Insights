@@ -1204,5 +1204,10 @@ Training schedules, curricula, and task or stage composition.
 - [How Far Can We Go With Synthetic Data for Audio-Visual Sound Source Localization?](../../conferences/cvpr-2026/cards.md#paper-synthetic-audiovisual-clones)
 - [Is Bin Generation Indispensable? A Bin-Generation-Free Dataset Quantization via Semantic Perspective](../../conferences/cvpr-2026/cards.md#paper-bgfdq-neighbor-coresets)
 - [See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](../../conferences/cvpr-2026/cards.md#paper-artiagent-localized-synthetic-artifact-pairs)
+- [A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps](../../conferences/cvpr-2026/cards.md#paper-few-shot-parallel-denoising-decoder-ensemble)
+- [Spe-BEVHead: Rethinking the Detection Head Design for Bird's-Eye-View Object Detection](../../conferences/cvpr-2026/cards.md#paper-shape-aligned-dense-bev-supervision)
+- [Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-geometry-structured-diffusion-masking)
+- [Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs](../../conferences/cvpr-2026/cards.md#paper-vista-gym-tool-reasoning)
+- [Improving Controllable Generation: Faster Training and Better Performance via x0-Supervision](../../conferences/cvpr-2026/cards.md#paper-x0-supervision-controllable-generation)
 
 <!-- conference-classification:end -->

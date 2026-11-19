@@ -731,5 +731,7 @@
 - [SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](../conferences/cvpr-2026/cards.md#paper-swiftvla-future-trained-fusion-tokens)
 - [Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection](../conferences/cvpr-2026/cards.md#paper-frequency-coherence-shared-private-fusion)
 - [SceneTok: A Compressed, Diffusable Token Space for 3D Scenes](../conferences/cvpr-2026/cards.md#paper-scenetok-unordered-compressed-view-tokens)
+- [Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3-D Constrained Terrains](../conferences/cvpr-2026/cards.md#paper-vertical-grouped-voxel-locomotion)
+- [OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation](../conferences/cvpr-2026/cards.md#paper-opro-orthogonal-panel-relative-operators)
 
 <!-- conference-classification:end -->

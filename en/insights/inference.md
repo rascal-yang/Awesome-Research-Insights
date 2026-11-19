@@ -1611,5 +1611,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [CountGD++: Generalized Prompting for Open-World Counting](../../conferences/cvpr-2026/cards.md#paper-positive-negative-exemplar-counting)
 - [Improving Diffusion Generalization with Weak-to-Strong Segmented Guidance](../../conferences/cvpr-2026/cards.md#paper-diffusion-guidance-step-regimes)
 - [DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-dmgd-dataset-distillation)
+- [MVP: Multiple View Prediction Improves GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-multiview-consensus-gui-grounding)
+- [GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction](../../conferences/cvpr-2026/cards.md#paper-geoflow-iterative-localization)
+- [TESO: Online Tracking of Essential Matrix by Stochastic Optimization](../../conferences/cvpr-2026/cards.md#paper-teso-online-stereo)
+- [AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](../../conferences/cvpr-2026/cards.md#paper-adaiat-generated-text-attention)
+- [Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering](../../conferences/cvpr-2026/cards.md#paper-visual-rrt-rendering-gradient-tree)
 
 <!-- conference-classification:end -->

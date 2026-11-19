@@ -1492,5 +1492,8 @@ Visual representation, recognition, reconstruction, and generation.
 - [Learning Compact 3D Representations from Feed-Forward Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-c3g-compact-gaussians)
 - [ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction](../../conferences/cvpr-2026/cards.md#paper-reflow-motion-self-correction)
 - [SceneTok: A Compressed, Diffusable Token Space for 3D Scenes](../../conferences/cvpr-2026/cards.md#paper-scenetok-unordered-compressed-view-tokens)
+- [A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps](../../conferences/cvpr-2026/cards.md#paper-few-shot-parallel-denoising-decoder-ensemble)
+- [Spe-BEVHead: Rethinking the Detection Head Design for Bird's-Eye-View Object Detection](../../conferences/cvpr-2026/cards.md#paper-shape-aligned-dense-bev-supervision)
+- [Compressed-Domain-Aware Online Video Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-codec-motion-residual-online-video)
 
 <!-- conference-classification:end -->

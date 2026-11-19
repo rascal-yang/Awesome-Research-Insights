@@ -725,5 +725,7 @@
 - [Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-entropy-budgeted-off-grid-primitives)
 - [Learning Compact 3D Representations from Feed-Forward Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-c3g-compact-gaussians)
 - [ShowUI-p: Flow-based Generative Models as GUI Dexterous Hands](../conferences/cvpr-2026/cards.md#paper-showui-p-continuous-actions)
+- [Compressed-Domain-Aware Online Video Super-Resolution](../conferences/cvpr-2026/cards.md#paper-codec-motion-residual-online-video)
+- [Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation](../conferences/cvpr-2026/cards.md#paper-e3flow-equivariant-policy)
 
 <!-- conference-classification:end -->

@@ -1567,5 +1567,9 @@
 - [EduDiag: A Benchmark for Educational Diagnostic Reasoning with Error Tracing and Correction on Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-edudiag-error-reconstruction-and-correction)
 - [Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score](../conferences/cvpr-2026/cards.md#paper-semicp-nearest-neighbor)
 - [SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-spatialqa-content-precondition-evaluation)
+- [Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench](../conferences/cvpr-2026/cards.md#paper-measurement-error-factorized-vlm-probes)
+- [SVBench: Evaluation of Video Generation Models on Social Reasoning](../conferences/cvpr-2026/cards.md#paper-svbench-social-video)
+- [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](../conferences/cvpr-2026/cards.md#paper-agentsafe-stage-diagnosis)
+- [RealBirdID: Benchmarking Bird Species Identification in the Era of MLLMs](../conferences/cvpr-2026/cards.md#paper-realbirdid-abstention)
 
 <!-- conference-classification:end -->

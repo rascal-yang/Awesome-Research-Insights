@@ -800,5 +800,6 @@
 - [JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](../conferences/cvpr-2026/cards.md#paper-jarvisevo-joint-editor-evaluator-optimization)
 - [Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage](../conferences/cvpr-2026/cards.md#paper-instance-schedules-james-stein-reinforce)
 - [DRM: Diffusion-based Reward Model With Step-wise Guidance](../conferences/cvpr-2026/cards.md#paper-drm-intermediate-latent-stepwise-reward)
+- [Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](../conferences/cvpr-2026/cards.md#paper-elf-vla-structured-failure-feedback)
 
 <!-- conference-classification:end -->

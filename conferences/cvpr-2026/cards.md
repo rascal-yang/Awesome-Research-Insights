@@ -24166,3 +24166,303 @@
 - **适用条件 / 局限** · 奖励可能随噪声、骨干和审美标准改变，需在独立评价上检验偏好过拟合。
 
 **可复用机制** · 在去噪轨迹中间估计偏好，为逐步优化提供比终点奖励更近的反馈。
+
+<a id="paper-vertical-grouped-voxel-locomotion"></a>
+
+## Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3-D Constrained Terrains
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ben_Gallant_Voxel_Grid-based_Humanoid_Locomotion_and_Local-navigation_across_3-D_Constrained_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ben_Gallant_Voxel_Grid-based_Humanoid_Locomotion_and_Local-navigation_across_3-D_Constrained_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 深度视图和地表高程无法同时覆盖地面、侧向与头顶障碍。
+- **核心创新 / 方法** · 将 LiDAR 输入体素化，用沿高度分组的二维卷积连接感知与控制，在模拟中生成扫描训练策略。
+- **Baseline** · 对比稀疏三维卷积、标准三维卷积、稀疏二维卷积和去掉自扫描的变体。
+- **Benchmark** · 八类仿真地形测成功率和碰撞指标，并开展真机地形实验。
+- **关键结果 / 消融** · 表 3 中低顶地形的成功率由去掉自扫描的 28.4% 升至 97.1%，提示观测建模同样关键。
+- **适用条件 / 局限** · 使用 LiDAR 及其仿真输入，真机表现仍受复杂松散地形限制。
+
+**可复用机制** · 机器人局部避障可保留完整高度体素，并用按高度分组的二维卷积控制算力。
+
+<a id="paper-few-shot-parallel-denoising-decoder-ensemble"></a>
+
+## A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_A_Closer_Look_at_Cross-Domain_Few-Shot_Object_Detection_Fine-Tuning_Matters_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_A_Closer_Look_at_Cross-Domain_Few-Shot_Object_Detection_Fine-Tuning_Matters_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 跨域少样本检测中，微调不稳定且训练集难覆盖目标域变化。
+- **核心创新 / 方法** · 共享前置解码层，平行分支分别继承或重新初始化去噪查询，再做预测集成和平台期感知的渐进微调。
+- **Baseline** · 以预训练检测器为基础，包括 MMGDINO-L，比较 CD-ViTO 等及去掉各微调组件的变体。
+- **Benchmark** · CD-FSOD、ODinW-13、RF100-VL，多个 few-shot 预算，测 mAP。
+- **关键结果 / 消融** · CD-FSOD 使用 Swin-B 时表 1 的平均 mAP 在 1/5/10-shot 为 34.9/45.0/47.9。
+- **适用条件 / 局限** · 依赖可复用的预训练检测解码器与查询机制，平行预测需集成处理。
+
+**可复用机制** · 少样本检测微调可以在共享解码后保留多条查询轨迹，将多样预测集成以降低小样本波动。
+
+<a id="paper-measurement-error-factorized-vlm-probes"></a>
+
+## Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_Do_Vision-Language_Models_Measure_Up_Benchmarking_Visual_Measurement_Reading_with_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Do_Vision-Language_Models_Measure_Up_Benchmarking_Visual_Measurement_Reading_with_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 模型读仪表时可能混淆标针、刻度或计量单位，单看最终答案难区分错误来源。
+- **核心创新 / 方法** · 程序化生成带可控刻度、表针等因素的图像，拆分数值和单位评估，并测试合成数据强化微调。
+- **Baseline** · 对比开源和闭源 VLM、专用模型及强化微调前后的 Qwen2.5-VL。
+- **Benchmark** · MeasureBench 的真实与合成仪表图像，报告总体、读数和单位准确率。
+- **关键结果 / 消融** · 正文报告更长推理输出带来的准确率收益有限，合成数据强化微调可提高真实图像准确率。
+- **适用条件 / 局限** · 主要验证仪器读数，正文的微调结果属初步实验。
+
+**可复用机制** · 检验感知数值时可单独评分数值与单位，并以可控合成样本定位真实任务中的误差。
+
+<a id="paper-shape-aligned-dense-bev-supervision"></a>
+
+## Spe-BEVHead: Rethinking the Detection Head Design for Bird's-Eye-View Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Spe-BEVHead_Rethinking_the_Detection_Head_Design_for_Birds-Eye-View_Object_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Spe-BEVHead_Rethinking_the_Detection_Head_Design_for_Birds-Eye-View_Object_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 从二维检测沿用的中心高斯核与俯视空间的旋转目标几何不符，监督稀疏且移除 NMS 后容易出现重复结果。
+- **核心创新 / 方法** · 用旋转框核给分类位置加权，加入局部响应细化与更稠密的监督。
+- **Baseline** · 比较使用通用中心检测头及 Spe-BEVHead 的同骨干模型，并消融核和响应模块。
+- **Benchmark** · nuScenes 验证集，比较感知精度及不同后处理设置。
+- **关键结果 / 消融** · 正文报告多个模型更换检测头的结果，并单独验证无 NMS 的端到端设置。
+- **适用条件 / 局限** · 需要物体旋转框标签，证据集中于车载俯视三维检测。
+
+**可复用机制** · 旋转目标检测可将正例核匹配到物体的实际方向和形状，再显式抑制局部重复响应。
+
+<a id="paper-multiview-consensus-gui-grounding"></a>
+
+## MVP: Multiple View Prediction Improves GUI Grounding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_MVP_Multiple_View_Prediction_Improves_GUI_Grounding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_MVP_Multiple_View_Prediction_Improves_GUI_Grounding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高分辨率截图里的小控件可能因裁剪几个像素导致点击位置跳变。
+- **核心创新 / 方法** · 以指令到图像的注意力提议多个视野，将各视图预测回投至原坐标后聚合。
+- **Baseline** · 在 UI-TARS、GTA1 和 Qwen3VL 等基础模型上比较单视野预测，并评估视图生成方式。
+- **Benchmark** · ScreenSpot-Pro、OS-World-G、UI-Vision 的离线目标定位准确率。
+- **关键结果 / 消融** · ScreenSpot-Pro 上 Qwen3VL-32B-Instruct 准确率由 55.3% 升至 74.0%。
+- **适用条件 / 局限** · 每次定位需处理多个视图，离线定位准确率不能直接代表闭环任务完成率。
+
+**可复用机制** · 当 GUI 坐标对轻微裁剪不稳定时，可通过多个局部视图的一致性筛出离群预测。
+
+<a id="paper-geometry-structured-diffusion-masking"></a>
+
+## Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kumbhar_Towards_GUI_Agents_Vision-Language_Diffusion_Models_for_GUI_Grounding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kumbhar_Towards_GUI_Agents_Vision-Language_Diffusion_Models_for_GUI_Grounding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 平坦的文本掩码计划未表达 GUI 边框坐标间的几何结构。
+- **核心创新 / 方法** · 改造 LLaDA-V 输出动作或边框文本，用线性与确定性结合的混合掩码训练。
+- **Baseline** · 比较同一 LLaDA-V 的线性掩码训练，并对照自回归视觉语言模型。
+- **Benchmark** · 网页、桌面和移动设备上四套 GUI 定位数据集，测 SSR 等。
+- **关键结果 / 消融** · 相对只用线性掩码，混合掩码最高提升 6.1 个百分点 SSR。
+- **适用条件 / 局限** · 验证集中于单轮动作和边框，闭环性能与长程误差积累未确立。
+
+**可复用机制** · 离散扩散输出结构化坐标时，可按几何层次设计掩码，而非只按均匀的噪声进度训练。
+
+<a id="paper-codec-motion-residual-online-video"></a>
+
+## Compressed-Domain-Aware Online Video Super-Resolution
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Compressed-Domain-Aware_Online_Video_Super-Resolution_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Compressed-Domain-Aware_Online_Video_Super-Resolution_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 每帧从图像重新估计运动会增加延迟，解码后的冗余帧也带来多余计算。
+- **核心创新 / 方法** · 以码流运动向量做粗变形，只学习局部残差偏移，用编码残差门控帧间融合。
+- **Baseline** · 与既有在线超分方法比较，并对运动向量对齐和残差门控消融。
+- **Benchmark** · REDS4 等压缩视频在线超分，测试画质与 RTX 3090 上的帧率。
+- **关键结果 / 消融** · 正文表 1 在指定低分辨率输入下报告实时吞吐量，其他表按设置报告 PSNR 与帧率。
+- **适用条件 / 局限** · 需要访问码流元数据，效果依赖编码器的运动估计和压缩率。
+
+**可复用机制** · 在线视频模型可复用压缩码流的运动向量与残差作为对齐及融合先验。
+
+<a id="paper-e3flow-equivariant-policy"></a>
+
+## Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Efficient_Hybrid_SE3-Equivariant_Visuomotor_Flow_Policy_via_Spherical_Harmonics_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Efficient_Hybrid_SE3-Equivariant_Visuomotor_Flow_Policy_via_Spherical_Harmonics_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 等变操作策略采用多步扩散时成本高，加入图像信息或快速采样也可能损害等变与稳定性。
+- **核心创新 / 方法** · E3Flow 将球谐等变表示、整流流与不变特征增强模块结合，从图像及点云融合控制信息。
+- **Baseline** · 与 Spherical Diffusion Policy 等等变及非等变策略比较。
+- **Benchmark** · MimicGen 八个操作任务、四项实物实验，比较成功率、推理用时和旋转扰动。
+- **关键结果 / 消融** · 正文报告较 SDP 平均成功率提升 3.12%，推理约七倍加速，并列出扰动结果。
+- **适用条件 / 局限** · 依赖图像与点云对齐，超出所测变换及任务的行为需复测。
+
+**可复用机制** · 用不变特征控制图像与点云信息的融合权重，保留动作生成的旋转等变性。
+
+<a id="paper-pad-hand-physics-variance"></a>
+
+## PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ismayilzada_PAD-Hand_Physics-Aware_Diffusion_for_Hand_Motion_Recovery_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ismayilzada_PAD-Hand_Physics-Aware_Diffusion_for_Hand_Motion_Recovery_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐帧手部姿态估计缺少物理一致性，也无法辨别哪些时刻的动作违背动力学。
+- **核心创新 / 方法** · 以欧拉–拉格朗日动力学残差引导条件扩散，再用末层拉普拉斯近似估计关节和时间维度的物理方差。
+- **Baseline** · 从现有图像姿态方法初始化，比较图像和视频方法，并在固定数据上消融物理残差。
+- **Benchmark** · DexYCB 和 HO3D 手部姿态恢复，评估姿态精度及物理一致性。
+- **关键结果 / 消融** · 报告较图像初值和视频方法的改善；表3在 DexYCB 测量残差损失贡献。
+- **适用条件 / 局限** · 动力学和模型的方差估计依赖近似，在遮挡、碰撞和未知外力下需单独验证。
+
+**可复用机制** · 用动力学残差作可观测量，并输出其不确定性，避免将错误模型当成硬约束。
+
+<a id="paper-svbench-social-video"></a>
+
+## SVBench: Evaluation of Video Generation Models on Social Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Peng_SVBench_Evaluation_of_Video_Generation_Models_on_Social_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Peng_SVBench_Evaluation_of_Video_Generation_Models_on_Social_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 通用视频生成指标缺少对目标意图、共同注意和多主体协作等社会一致性的检查。
+- **核心创新 / 方法** · 按心理学范式设计场景，通过训练无关的生成与审核流程约束线索和难度。
+- **Baseline** · 比较八种视频生成模型在同一套社会任务上的表现。
+- **Benchmark** · SVBench 提供三十个源范式，表2在十五项短视频任务报告分组通过率。
+- **关键结果 / 消融** · 正文观察到外观质量与社会推理并不同步，并列出各模型不同任务的表现。
+- **适用条件 / 局限** · 短视频测试覆盖有限，长时程信念更新和真实人机互动需要独立评测。
+
+**可复用机制** · 把社会行为实验转成仅可通过视觉行为验证的短视频测试，以发现画面逼真但互动逻辑错误的情况。
+
+<a id="paper-geoflow-iterative-localization"></a>
+
+## GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Abu_Lehyeh_GeoFlow_Real-Time_Fine-Grained_Cross-View_Geolocalization_via_Iterative_Flow_Prediction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Abu_Lehyeh_GeoFlow_Real-Time_Fine-Grained_Cross-View_Geolocalization_via_Iterative_Flow_Prediction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 地面图与卫星图细粒度配准经常需要在定位误差与实时性间取舍。
+- **核心创新 / 方法** · GeoFlow 学习条件位移，并通过迭代细化采样并行修正一组初始位置假设。
+- **Baseline** · 对照已有跨视角地理定位方法，并比较不同细化轮数。
+- **Benchmark** · KITTI 与 VIGOR，包含 KITTI Cross-Area，评估平均及中位误差、横纵向召回和推理时间。
+- **关键结果 / 消融** · 表1、2报告基准表现，表3显示可通过调节细化轮数改变计算与准确率。
+- **适用条件 / 局限** · 依赖卫星图与地面视觉的共视结构，地图过时和候选初始化偏离训练范围时需复测。
+
+**可复用机制** · 定位时预测任意候选的纠偏位移，按计算预算迭代多个候选直至达成共识。
+
+<a id="paper-vista-gym-tool-reasoning"></a>
+
+## Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_Scaling_Agentic_Reinforcement_Learning_for_Tool-Integrated_Reasoning_in_VLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_Scaling_Agentic_Reinforcement_Learning_for_Tool-Integrated_Reasoning_in_VLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉语言模型能回答静态图像问题，但常无法选对定位或解析工具并协调多步调用。
+- **核心创新 / 方法** · VISTA-Gym 将视觉任务封装为可执行交互轨迹，VISTA-R1 在轨迹上用端到端强化学习交替推理和用工具。
+- **Baseline** · 比较 InternVL3 和 Qwen2.5-VL 等骨干及相近规模基线，包含基于 Qwen2.5-VL-7B 的 VISTA-R1。
+- **Benchmark** · 训练覆盖来自13个数据集的7类任务，测试含五项域内和六项域外 VQA，报告准确率。
+- **关键结果 / 消融** · 论文报告 VISTA-R1-8B 相较同量级基线提高 9.51%–18.72%，另分析工具使用错误。
+- **适用条件 / 局限** · 依赖执行工具可靠及答案可验证，长任务的调用成本和无明确奖励的工具选择需另验。
+
+**可复用机制** · 用统一执行接口和可验证反馈训练多步视觉工具选择，并单独评估域外任务。
+
+<a id="paper-teso-online-stereo"></a>
+
+## TESO: Online Tracking of Essential Matrix by Stochastic Optimization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Moravec_TESO_Online_Tracking_of_Essential_Matrix_by_Stochastic_Optimization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Moravec_TESO_Online_Tracking_of_Essential_Matrix_by_Stochastic_Optimization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定的双目标定会随时间漂移，影响几何测量、极线校正与深度。
+- **核心创新 / 方法** · 对暂定匹配求核相关鲁棒损失，在本质矩阵流形上迭代随机更新。
+- **Baseline** · 比较参考标定及无漂移与模拟漂移设置，并检查不同双目对的估计。
+- **Benchmark** · CARLA–Drift、MAN TruckScenes 和 KITTI，考察旋转精度、校正质量与双目深度一致性。
+- **关键结果 / 消融** · MAN TruckScenes 的关键 Y 轴旋转精度为 0.12°，其余两轴更精确；在 KITTI 检查出系统性差异。
+- **适用条件 / 局限** · 依赖可靠且空间分布充分的图像对应，低纹理或大规模动态物体会削弱估计。
+
+**可复用机制** · 使用低成本流形在线优化连续估计双目外参漂移，可在长期运行时刷新标定。
+
+<a id="paper-agentsafe-stage-diagnosis"></a>
+
+## AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ying_AGENTSAFE_Benchmarking_the_Safety_of_Embodied_Agents_on_Hazardous_Instructions_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ying_AGENTSAFE_Benchmarking_the_Safety_of_Embodied_Agents_on_Hazardous_Instructions_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只测最终结果难判断模型是没识别风险，还是识别后未选用安全方案。
+- **核心创新 / 方法** · AGENTSAFE 将仿真任务、统一代理接口与分阶段评测结合，记录感知、计划、执行三阶段成绩。
+- **Baseline** · 比较9个视觉语言模型和两种具身智能体工作流。
+- **Benchmark** · 在 SAFE-THOR 仿真用 SAFE-VERSE 任务，SAFE-DIAGNOSE 报告总成绩及分阶段百分比。
+- **关键结果 / 消融** · 论文观察到即使识别风险，智能体也常无法将其转化为安全规划和执行。
+- **适用条件 / 局限** · 结果来自仿真；真实场景的操作权限、动作噪声及新情境需要独立评估。
+
+**可复用机制** · 分别验证危险识别、安全规划和执行结果，以找出安全判断在哪一阶段失去约束。
+
+<a id="paper-realbirdid-abstention"></a>
+
+## RealBirdID: Benchmarking Bird Species Identification in the Era of MLLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lawrence_RealBirdID_Benchmarking_Bird_Species_Identification_in_the_Era_of_MLLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lawrence_RealBirdID_Benchmarking_Bird_Species_Identification_in_the_Era_of_MLLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 野外图像常缺少决定性线索，只用可答样本会鼓励模型无依据地猜测。
+- **核心创新 / 方法** · 每个属配备清楚可答与因证据不足而不可答的样本，并标注具体缺失原因。
+- **Baseline** · 比较开源和闭源多模态模型，包括 GPT-5 与 Gemini 2.5 Pro。
+- **Benchmark** · RealBirdID 报告物种准确率、拒答和理由指标，并与细粒度鸟类基准比较。
+- **关键结果 / 消融** · 文中比较的多模态模型物种准确率不超过 13%，更强分类能力不总带来更好拒答能力。
+- **适用条件 / 局限** · 覆盖域以鸟类为主，迁移到机器人主动感知时需要定义可补采证据及其代价。
+
+**可复用机制** · 把正确识别、是否应拒答、拒答理由三项分开评分，防止分类精度掩盖证据缺失。
+
+<a id="paper-elf-vla-structured-failure-feedback"></a>
+
+## Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Luo_Unleashing_VLA_Potentials_in_Autonomous_Driving_via_Explicit_Learning_from_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Luo_Unleashing_VLA_Potentials_in_Autonomous_Driving_via_Explicit_Learning_from_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · SFT 后的探索受限，强化学习在困难场景可能只收到无法区分原因的零分。
+- **核心创新 / 方法** · 生成可解释诊断，区分规划、推理和轨迹执行失败，将诊断反馈用于策略细化。
+- **Baseline** · 与 AutoVLA、UniAD 等驾驶方案比较。
+- **Benchmark** · NAVSIMv1 报 PDMS，并报告 EPDMS 等扩展评分。
+- **关键结果 / 消融** · 正文报告 ELF-VLA 达到 91.0 PDMS，相比先前纯视觉方法 AutoVLA 提高 1.9。
+- **适用条件 / 局限** · 诊断质量决定奖励反馈是否有用，仿真代理指标与真机长期效果需分别验证。
+
+**可复用机制** · 当长尾场景的标量奖励全为零时，增加结构化失败原因来区分改进方向。
+
+<a id="paper-opro-orthogonal-panel-relative-operators"></a>
+
+## OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_OPRO_Orthogonal_Panel-Relative_Operators_for_Panel-Aware_In-Context_Image_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_OPRO_Orthogonal_Panel-Relative_Operators_for_Panel-Aware_In-Context_Image_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 预训练扩散 Transformer 的位置编码并未表达多面板之间的关系，直接改动会影响面板内部表示。
+- **核心创新 / 方法** · 在冻结位置编码上组合可学习的面板专用正交算子，保持距离和面板内相对关系。
+- **Baseline** · 比较 LoRA、MLP 与不同位置编码下的 LoRA+OPRO。
+- **Benchmark** · 2×2 面板位置控制试验，测准确率，另评少样本上下文图像编辑。
+- **关键结果 / 消融** · 表 1 中 RoPE 加 OPRO 从 46.40 到 49.90，LieRE 对照保持 58.10。
+- **适用条件 / 局限** · 收益随骨干位置编码变化，正交约束不能确保所有跨面板关系都可学。
+
+**可复用机制** · 为多面板输入学习相对位置，同时用正交约束保护同一面板内的已有行为。
+
+<a id="paper-x0-supervision-controllable-generation"></a>
+
+## Improving Controllable Generation: Faster Training and Better Performance via x0-Supervision
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sangare_Improving_Controllable_Generation_Faster_Training_and_Better_Performance_via_x0-Supervision_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sangare_Improving_Controllable_Generation_Faster_Training_and_Better_Performance_via_x0-Supervision_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 将预训练扩散或流生成器的损失直接用于新增条件，空间控制可能收敛较慢。
+- **核心创新 / 方法** · 对干净目标图像施加 x0 监督，或等效地重加权原去噪损失，增强条件学习。
+- **Baseline** · 对比常规 OminiControl 与 x0-OminiControl，并比较不同监督信号和控制器。
+- **Benchmark** · Box+Text、Box+Text+Image 等空间对齐条件，测 FID、框 mAP 和收敛曲线面积。
+- **关键结果 / 消融** · 表 1 给出多条件对照，正文观察到 x0 监督通常更快学到空间控制。
+- **适用条件 / 局限** · 噪声权重效果取决于控制模态，与主生成目标冲突时应检查画质权衡。
+
+**可复用机制** · 训练可控生成适配器时，比较直接预测干净结果与沿用骨干的去噪目标。
+
+<a id="paper-adaiat-generated-text-attention"></a>
+
+## AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_AdaIAT_Adaptively_Increasing_Attention_to_Generated_Text_to_Alleviate_Hallucinations_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_AdaIAT_Adaptively_Increasing_Attention_to_Generated_Text_to_Alleviate_Hallucinations_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一提高图像 token 注意能减少幻觉，却容易导致描述重复。
+- **核心创新 / 方法** · 根据真实对象与虚构对象对已生成文本注意的差异，按需提高对生成文本的注意并保留普通解码路径。
+- **Baseline** · 比较贪心、采样及其他解码干预，在多个 LVLM 上测试。
+- **Benchmark** · CHAIR 目标幻觉评估，覆盖 LLaVA-1.5 7B、13B 等模型。
+- **关键结果 / 消融** · 正文对照表明提高生成文本注意可减少幻觉，并检查避免重复的结果。
+- **适用条件 / 局限** · 该办法利用可访问的注意力与语言上下文，适用范围受模型和生成阶段影响。
+
+**可复用机制** · 低成本纠正生成式视觉幻觉时，比较加强图像注意与按需加强已生成文本的注意。
+
+<a id="paper-visual-rrt-rendering-gradient-tree"></a>
+
+## Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Visual-RRT_Finding_Paths_toward_Visual-Goals_via_Differentiable_Rendering_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_Visual-RRT_Finding_Paths_toward_Visual-Goals_via_Differentiable_Rendering_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · RRT 通常需要目标关节角，直接优化图像误差则会被遮挡或局部极小值困住。
+- **核心创新 / 方法** · 以可微机器人渲染计算目标差异，选择有希望的树前沿并在分支间继承梯度优化状态。
+- **Baseline** · 比较 Dr.Robot、Prof.Robot 和 Dr.Robot+RRT*。
+- **Benchmark** · Franka、UR5e、Fetch 的视觉目标规划，按配置距离报告成功率、时间与路径长度。
+- **关键结果 / 消融** · 表 1 显示较远配置时的成功率优势，正文分析直接优化受自遮挡、场景遮挡的影响。
+- **适用条件 / 局限** · 依赖可微机器人模型及视觉标定，目标图像歧义或遮挡会影响梯度方向。
+
+**可复用机制** · 只有目标图像时，用渲染梯度引导随机树搜索，同时保留探索未覆盖区域的能力。

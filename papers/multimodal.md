@@ -1410,5 +1410,11 @@
 - [How Far Can We Go With Synthetic Data for Audio-Visual Sound Source Localization?](../conferences/cvpr-2026/cards.md#paper-synthetic-audiovisual-clones)
 - [Global-Graph Guided and Local-Graph Weighted Contrastive Learning for Unified Clustering on Incomplete and Noise Multi-View Data](../conferences/cvpr-2026/cards.md#paper-global-local-graph-contrastive)
 - [See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](../conferences/cvpr-2026/cards.md#paper-artiagent-localized-synthetic-artifact-pairs)
+- [Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench](../conferences/cvpr-2026/cards.md#paper-measurement-error-factorized-vlm-probes)
+- [MVP: Multiple View Prediction Improves GUI Grounding](../conferences/cvpr-2026/cards.md#paper-multiview-consensus-gui-grounding)
+- [Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](../conferences/cvpr-2026/cards.md#paper-geometry-structured-diffusion-masking)
+- [SVBench: Evaluation of Video Generation Models on Social Reasoning](../conferences/cvpr-2026/cards.md#paper-svbench-social-video)
+- [RealBirdID: Benchmarking Bird Species Identification in the Era of MLLMs](../conferences/cvpr-2026/cards.md#paper-realbirdid-abstention)
+- [AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](../conferences/cvpr-2026/cards.md#paper-adaiat-generated-text-attention)
 
 <!-- conference-classification:end -->

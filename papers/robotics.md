@@ -1042,5 +1042,13 @@
 - [MM-ACT: Learn from Multimodal Parallel Generation to Act](../conferences/cvpr-2026/cards.md#paper-mm-act-shared-context-parallel-decoding)
 - [D3D-VLP: Dynamic 3D Vision-Language-Planning Model for Embodied Grounding and Navigation](../conferences/cvpr-2026/cards.md#paper-masked-fragmented-embodied-supervision)
 - [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](../conferences/cvpr-2026/cards.md#paper-trajrag-topopolar-experience-retrieval)
+- [Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3-D Constrained Terrains](../conferences/cvpr-2026/cards.md#paper-vertical-grouped-voxel-locomotion)
+- [Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation](../conferences/cvpr-2026/cards.md#paper-e3flow-equivariant-policy)
+- [PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery](../conferences/cvpr-2026/cards.md#paper-pad-hand-physics-variance)
+- [GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction](../conferences/cvpr-2026/cards.md#paper-geoflow-iterative-localization)
+- [TESO: Online Tracking of Essential Matrix by Stochastic Optimization](../conferences/cvpr-2026/cards.md#paper-teso-online-stereo)
+- [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](../conferences/cvpr-2026/cards.md#paper-agentsafe-stage-diagnosis)
+- [Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](../conferences/cvpr-2026/cards.md#paper-elf-vla-structured-failure-feedback)
+- [Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering](../conferences/cvpr-2026/cards.md#paper-visual-rrt-rendering-gradient-tree)
 
 <!-- conference-classification:end -->

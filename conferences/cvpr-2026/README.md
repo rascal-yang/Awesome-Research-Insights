@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,547 篇，其中 1,611 篇暂收录、936 篇排除，另有 1,495 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,577 篇，其中 1,631 篇暂收录、946 篇排除，另有 1,465 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1617,3 +1617,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,547
 | 三维视觉 | 场景表征 | [SceneTok: A Compressed, Diffusable Token Space for 3D Scenes](cards.md#paper-scenetok-unordered-compressed-view-tokens) | 从多视图压缩出与空间网格脱钩的无序场景 token，可同时用于渲染与生成。 |
 | 多模态学习 | 合成监督 | [See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis](cards.md#paper-artiagent-localized-synthetic-artifact-pairs) | 合成局部缺陷并保留干净反事实，联合监督缺陷定位、描述与修复。 |
 | 生成模型 | 强化学习与奖励 | [DRM: Diffusion-based Reward Model With Step-wise Guidance](cards.md#paper-drm-intermediate-latent-stepwise-reward) | 在去噪轨迹中间估计偏好，为逐步优化提供比终点奖励更近的反馈。 |
+| 机器人学 | 表征学习 | [Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3-D Constrained Terrains](cards.md#paper-vertical-grouped-voxel-locomotion) | 机器人局部避障可保留完整高度体素，并用按高度分组的二维卷积控制算力。 |
+| 计算机视觉 | 训练策略 | [A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps](cards.md#paper-few-shot-parallel-denoising-decoder-ensemble) | 少样本检测微调可以在共享解码后保留多条查询轨迹，将多样预测集成以降低小样本波动。 |
+| 多模态学习 | 评测与诊断 | [Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench](cards.md#paper-measurement-error-factorized-vlm-probes) | 检验感知数值时可单独评分数值与单位，并以可控合成样本定位真实任务中的误差。 |
+| 计算机视觉 | 训练策略 | [Spe-BEVHead: Rethinking the Detection Head Design for Bird's-Eye-View Object Detection](cards.md#paper-shape-aligned-dense-bev-supervision) | 旋转目标检测可将正例核匹配到物体的实际方向和形状，再显式抑制局部重复响应。 |
+| 多模态学习 | 推理策略 | [MVP: Multiple View Prediction Improves GUI Grounding](cards.md#paper-multiview-consensus-gui-grounding) | 当 GUI 坐标对轻微裁剪不稳定时，可通过多个局部视图的一致性筛出离群预测。 |
+| 多模态学习 | 训练策略 | [Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding](cards.md#paper-geometry-structured-diffusion-masking) | 离散扩散输出结构化坐标时，可按几何层次设计掩码，而非只按均匀的噪声进度训练。 |
+| 计算机视觉 | 模型架构 | [Compressed-Domain-Aware Online Video Super-Resolution](cards.md#paper-codec-motion-residual-online-video) | 在线视频模型可复用压缩码流的运动向量与残差作为对齐及融合先验。 |
+| 机器人学 | 模型架构 | [Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation](cards.md#paper-e3flow-equivariant-policy) | 用不变特征控制图像与点云信息的融合权重，保留动作生成的旋转等变性。 |
+| 机器人学 | 损失函数 | [PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery](cards.md#paper-pad-hand-physics-variance) | 用动力学残差作可观测量，并输出其不确定性，避免将错误模型当成硬约束。 |
+| 多模态学习 | 评测与诊断 | [SVBench: Evaluation of Video Generation Models on Social Reasoning](cards.md#paper-svbench-social-video) | 把社会行为实验转成仅可通过视觉行为验证的短视频测试，以发现画面逼真但互动逻辑错误的情况。 |
+| 机器人学 | 推理策略 | [GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction](cards.md#paper-geoflow-iterative-localization) | 定位时预测任意候选的纠偏位移，按计算预算迭代多个候选直至达成共识。 |
+| 智能体 | 训练策略 | [Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs](cards.md#paper-vista-gym-tool-reasoning) | 用统一执行接口和可验证反馈训练多步视觉工具选择，并单独评估域外任务。 |
+| 机器人学 | 推理策略 | [TESO: Online Tracking of Essential Matrix by Stochastic Optimization](cards.md#paper-teso-online-stereo) | 使用低成本流形在线优化连续估计双目外参漂移，可在长期运行时刷新标定。 |
+| 机器人学 | 评测与诊断 | [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](cards.md#paper-agentsafe-stage-diagnosis) | 分别验证危险识别、安全规划和执行结果，以找出安全判断在哪一阶段失去约束。 |
+| 多模态学习 | 评测与诊断 | [RealBirdID: Benchmarking Bird Species Identification in the Era of MLLMs](cards.md#paper-realbirdid-abstention) | 把正确识别、是否应拒答、拒答理由三项分开评分，防止分类精度掩盖证据缺失。 |
+| 机器人学 | 强化学习与反馈 | [Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](cards.md#paper-elf-vla-structured-failure-feedback) | 当长尾场景的标量奖励全为零时，增加结构化失败原因来区分改进方向。 |
+| 生成模型 | 空间位置编码 | [OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation](cards.md#paper-opro-orthogonal-panel-relative-operators) | 为多面板输入学习相对位置，同时用正交约束保护同一面板内的已有行为。 |
+| 生成模型 | 训练目标 | [Improving Controllable Generation: Faster Training and Better Performance via x0-Supervision](cards.md#paper-x0-supervision-controllable-generation) | 训练可控生成适配器时，比较直接预测干净结果与沿用骨干的去噪目标。 |
+| 多模态学习 | 推理时干预 | [AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](cards.md#paper-adaiat-generated-text-attention) | 低成本纠正生成式视觉幻觉时，比较加强图像注意与按需加强已生成文本的注意。 |
+| 机器人学 | 运动规划 | [Visual-RRT: Finding Paths toward Visual-Goals via Differentiable Rendering](cards.md#paper-visual-rrt-rendering-gradient-tree) | 只有目标图像时，用渲染梯度引导随机树搜索，同时保留探索未覆盖区域的能力。 |
