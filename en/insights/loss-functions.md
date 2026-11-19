@@ -431,5 +431,7 @@ Objectives, auxiliary supervision, and regularization.
 - [Towards Fine-Grained Attribution: Instance-Aware Preference Optimization for Aligning Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-iapo-instance-credit)
 - [More Than Meets the Eye: A Unified Image Fusion Framework via Semantic-Pixel Entropy Trade-off for Zero-Shot Generalization](../../conferences/cvpr-2026/cards.md#paper-semantic-pixel-entropy-fusion)
 - [VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](../../conferences/cvpr-2026/cards.md#paper-vlic-pairwise-perceptual-judge)
+- [Rethinking BCE Loss for Multi-Label Image Recognition with Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-ccr-semantic-class-covariance-calibration)
+- [Hierarchical Action Learning for Weakly-Supervised Action Segmentation](../../conferences/cvpr-2026/cards.md#paper-hal-slow-action-latents)
 
 <!-- conference-classification:end -->

@@ -771,5 +771,8 @@
 - [Thinking with Programming Vision: Towards a Unified View for Thinking with Images](../conferences/cvpr-2026/cards.md#paper-codevision-visual-transformations)
 - [PhyCritic: Multimodal Critic Models for Physical AI](../conferences/cvpr-2026/cards.md#paper-phycritic)
 - [IPR-1: Interactive Physical Reasoner](../conferences/cvpr-2026/cards.md#paper-ipr-physcode)
+- [HiconAgent: History Context-aware Policy Optimization for GUI Agents](../conferences/cvpr-2026/cards.md#paper-hcpo-compressed-history-policy-alignment)
+- [GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-gdpo-sr-local-online-preference-for-one-step-restoration)
+- [POCA: Pareto-Optimal Curriculum Alignment for Visual Text Generation](../conferences/cvpr-2026/cards.md#paper-poca)
 
 <!-- conference-classification:end -->

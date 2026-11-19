@@ -636,5 +636,8 @@
 - [Dynamics: Language-Based Representation for Inferring Rigid-Body Dynamics From Videos](../conferences/cvpr-2026/cards.md#paper-dynamics-language-physics)
 - [MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes](../conferences/cvpr-2026/cards.md#paper-morgs-per-gaussian-motion)
 - [Beyond Reassembly: Fractured Object Recovery with Missing Parts](../conferences/cvpr-2026/cards.md#paper-fracture-recovery-joint-missing-part-token-modeling)
+- [Unblur-SLAM: Dense Neural SLAM for Blurry Inputs](../conferences/cvpr-2026/cards.md#paper-unblur-slam-quality-triggered-formation-model)
+- [Direction-aware 3D Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-direction-aware-3d-posealign)
+- [ParaUni: Enhance Generation in Unified Multimodal Model with Reinforcement-driven Hierarchical Parallel Information Interaction](../conferences/cvpr-2026/cards.md#paper-parauni-parallel-layer-conditioning)
 
 <!-- conference-classification:end -->

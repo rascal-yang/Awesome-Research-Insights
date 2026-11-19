@@ -1169,5 +1169,15 @@ Learning across modalities such as images, text, audio, and video.
 - [PhyCritic: Multimodal Critic Models for Physical AI](../../conferences/cvpr-2026/cards.md#paper-phycritic)
 - [InternVideo-Next: Towards World-Understanding Video Models](../../conferences/cvpr-2026/cards.md#paper-internvideo-next-epd)
 - [ReMatch: Boosting Representation through Matching for Multimodal Retrieval](../../conferences/cvpr-2026/cards.md#paper-rematch-generative-retrieval-supervision)
+- [Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination](../../conferences/cvpr-2026/cards.md#paper-llcc-attended-region-logit-lens-check)
+- [Rethinking BCE Loss for Multi-Label Image Recognition with Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-ccr-semantic-class-covariance-calibration)
+- [SEA: Evaluating Sketch Abstraction Efficiency via Element-level Commonsense Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-sea-sketch-abstraction)
+- [POCA: Pareto-Optimal Curriculum Alignment for Visual Text Generation](../../conferences/cvpr-2026/cards.md#paper-poca)
+- [AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding](../../conferences/cvpr-2026/cards.md#paper-adaspark)
+- [Direction-aware 3D Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-direction-aware-3d-posealign)
+- [DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles](../../conferences/cvpr-2026/cards.md#paper-dear-head-roles)
+- [Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding](../../conferences/cvpr-2026/cards.md#paper-lead-entropy-decoding)
+- [ParaUni: Enhance Generation in Unified Multimodal Model with Reinforcement-driven Hierarchical Parallel Information Interaction](../../conferences/cvpr-2026/cards.md#paper-parauni-parallel-layer-conditioning)
+- [MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](../../conferences/cvpr-2026/cards.md#paper-muco-multi-turn-contrastive)
 
 <!-- conference-classification:end -->

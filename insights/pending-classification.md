@@ -803,5 +803,6 @@
 - [TimeRipples: Accelerating vDiTs by Understanding the Spatio-Temporal Correlations in Latent Space](../conferences/cvpr-2026/cards.md#paper-timeripples-channel-structured-video-attention-reuse)
 - [Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-reasoning-preserving-unlearning-leakage-retention)
 - [From Measurement to Mitigation: Quantifying and Reducing Identity Leakage in Image Representation Encoders with Linear Subspace Removal](../conferences/cvpr-2026/cards.md#paper-identity-sanitization-projection)
+- [Solvability of the Viewing Graph Under the Affine Camera Model](../conferences/cvpr-2026/cards.md#paper-affine-viewing-graph-solvability)
 
 <!-- conference-classification:end -->

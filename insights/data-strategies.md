@@ -408,5 +408,6 @@
 - [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](../conferences/cvpr-2026/cards.md#paper-soc-label-preserving-object-composition)
 - [Towards Generalized Multimodal Homography Estimation](../conferences/cvpr-2026/cards.md#paper-multimodal-homography-synthesis)
 - [ReMatch: Boosting Representation through Matching for Multimodal Retrieval](../conferences/cvpr-2026/cards.md#paper-rematch-generative-retrieval-supervision)
+- [MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](../conferences/cvpr-2026/cards.md#paper-muco-multi-turn-contrastive)
 
 <!-- conference-classification:end -->

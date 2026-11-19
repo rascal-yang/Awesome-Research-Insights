@@ -1263,5 +1263,9 @@
 - [Making Training-Free Diffusion Segmentors Scale with the Generative Power](../conferences/cvpr-2026/cards.md#paper-diffusion-segmentor-attention-calibration)
 - [VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](../conferences/cvpr-2026/cards.md#paper-vlic-pairwise-perceptual-judge)
 - [VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale](../conferences/cvpr-2026/cards.md#paper-vgg-t3-fixed-scene-memory)
+- [Emergent Extreme-View Geometry in 3D Foundation Models](../conferences/cvpr-2026/cards.md#paper-extreme-view-bias-only-geometric-alignment)
+- [Solvability of the Viewing Graph Under the Affine Camera Model](../conferences/cvpr-2026/cards.md#paper-affine-viewing-graph-solvability)
+- [Hierarchical Action Learning for Weakly-Supervised Action Segmentation](../conferences/cvpr-2026/cards.md#paper-hal-slow-action-latents)
+- [Efficiency Follows Global-Local Decoupling](../conferences/cvpr-2026/cards.md#paper-convneur-global-local-decoupling)
 
 <!-- conference-classification:end -->

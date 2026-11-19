@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,437 篇，其中 913 篇暂收录、524 篇排除，另有 2,605 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,467 篇，其中 931 篇暂收录、536 篇排除，另有 2,575 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -919,3 +919,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,437
 | 计算机视觉 | 损失函数与优化 | [VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](cards.md#paper-vlic-pairwise-perceptual-judge) | 要训练匹配人类感知的图像压缩器时，可比较视觉语言模型的二选一判断与人工偏好，再直接用判断做后训练。 |
 | 多模态学习 | 训练与数据策略 | [ReMatch: Boosting Representation through Matching for Multimodal Retrieval](cards.md#paper-rematch-generative-retrieval-supervision) | 学习检索向量时，让同一模型另做生成式成对相关性判断，以补足难负例。 |
 | 计算机视觉 | 推理优化 | [VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale](cards.md#paper-vgg-t3-fixed-scene-memory) | 长多视角重建在测试时将可变长度键值蒸馏进定长场景 MLP，再用新图查询。 |
+| 多模态学习 | 评估与诊断 | [Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination](cards.md#paper-llcc-attended-region-logit-lens-check) | 视觉幻觉诊断应核验高注意区域能否解码为输出对象，避免以注意力大小替代证据。见表 1。 |
+| 计算机视觉 | 参数高效微调 | [Emergent Extreme-View Geometry in 3D Foundation Models](cards.md#paper-extreme-view-bias-only-geometric-alignment) | 视角重叠很低时可先探查预训练骨干的潜在几何信号，再比较仅调整骨干偏置能否改善相对位姿并保持深度。见表 1、4。 |
+| 智能体 | 强化学习 | [HiconAgent: History Context-aware Policy Optimization for GUI Agents](cards.md#paper-hcpo-compressed-history-policy-alignment) | 界面历史太长时，可以让压缩策略对齐完整历史分支，并以可变历史长度训练，测成功率与计算。见表 4、5。 |
+| 机器人学 | 规划与控制 | [CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics](cards.md#paper-clad-observable-anchoring-for-latent-foresight) | 把潜在未来接入动作策略时可加辅助观测重建，对照潜空间预测单独训练是否失去可用物理信号。见表 4。 |
+| 多模态学习 | 损失与奖励 | [Rethinking BCE Loss for Multi-Label Image Recognition with Fine-Tuning](cards.md#paper-ccr-semantic-class-covariance-calibration) | 多标签模型微调可在匹配标签之外，约束类置信度的协方差与预训练文本几何一致。见表 2。 |
+| 机器人学 | 三维重建与几何建模 | [Unblur-SLAM: Dense Neural SLAM for Blurry Inputs](cards.md#paper-unblur-slam-quality-triggered-formation-model) | 模糊感知可先做帧级恢复，只将仍不可靠的帧交给显式三维成像模型，比较轨迹漂移和恢复质量。见表 2、3。 |
+| 生成模型 | 偏好优化 | [GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution](cards.md#paper-gdpo-sr-local-online-preference-for-one-step-restoration) | 一步图像恢复可在同一输入上采样候选做分组偏好，并对细节保真和感知评价分别检查。见表 5。 |
+| 多模态学习 | 评测与诊断 | [SEA: Evaluating Sketch Abstraction Efficiency via Element-level Commonsense Visual Question Answering](cards.md#paper-sea-sketch-abstraction) | 评估视觉抽象或压缩时，把类别关键元素保留与表示成本放在同一协议。 |
+| 多模态学习 | 强化学习 | [POCA: Pareto-Optimal Curriculum Alignment for Visual Text Generation](cards.md#paper-poca) | 多个目标冲突且提示预算有限时，以 Pareto 前沿筛掉被全面支配的候选，再按难度排序学习。 |
+| 多模态学习 | 推理加速 | [AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding](cards.md#paper-adaspark) | 长视频想保留可回用信息时，用逐查询稀疏注意力和逐块稀疏 FFN 替代全局永久裁剪。 |
+| 计算机视觉 | 模型分析 | [Solvability of the Viewing Graph Under the Affine Camera Model](cards.md#paper-affine-viewing-graph-solvability) | 多视重建前用线性可解性检验判断给定相机图是否足以确定相机。 |
+| 多模态学习 | 输入表示 | [Direction-aware 3D Large Multimodal Models](cards.md#paper-direction-aware-3d-posealign) | 要回答左/右等方向问题，先把点云变换到提问者坐标，再与文本注入姿态对照。 |
+| 多模态学习 | 参数高效微调 | [DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles](cards.md#paper-dear-head-roles) | 适配预训练 VLM 时，按头识别概念与泛化功能再限制任务 token 的信息流。 |
+| 多模态学习 | 推理策略 | [Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding](cards.md#paper-lead-entropy-decoding) | 在候选词概率分散的中间步保留连续语义混合，置信后恢复离散推理。 |
+| 计算机视觉 | 损失函数与优化 | [Hierarchical Action Learning for Weakly-Supervised Action Segmentation](cards.md#paper-hal-slow-action-latents) | 弱监督视频分段可为高阶动作状态加稀疏跳转约束，同时保留下层快速视觉变化。 |
+| 多模态学习 | 表示学习 | [ParaUni: Enhance Generation in Unified Multimodal Model with Reinforcement-driven Hierarchical Parallel Information Interaction](cards.md#paper-parauni-parallel-layer-conditioning) | 把视觉语言模型接到扩散生成器时，可同时从不同层提取细节与语义，并分别核验作用。 |
+| 多模态学习 | 训练与数据策略 | [MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](cards.md#paper-muco-multi-turn-contrastive) | 同图对应多个检索问题时，可在一个前向复用图像上下文，并分别读出相关对比嵌入。 |
+| 计算机视觉 | 模型架构 | [Efficiency Follows Global-Local Decoupling](cards.md#paper-convneur-global-local-decoupling) | 高分辨率视觉骨干用少量全局记忆词元控制局部细节分支，避免全部图块都做全局交互。 |

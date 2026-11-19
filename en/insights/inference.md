@@ -1476,5 +1476,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Scaling Parallel Sequence Models to Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-compact-gspn)
 - [DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment](../../conferences/cvpr-2026/cards.md#paper-da-vae)
 - [VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale](../../conferences/cvpr-2026/cards.md#paper-vgg-t3-fixed-scene-memory)
+- [CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics](../../conferences/cvpr-2026/cards.md#paper-clad-observable-anchoring-for-latent-foresight)
+- [AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding](../../conferences/cvpr-2026/cards.md#paper-adaspark)
+- [Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding](../../conferences/cvpr-2026/cards.md#paper-lead-entropy-decoding)
 
 <!-- conference-classification:end -->

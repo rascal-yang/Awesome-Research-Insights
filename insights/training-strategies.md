@@ -1073,5 +1073,7 @@
 - [TAS-LoRA: Transformer Architecture Search with Mixture-of-LoRA Experts](../conferences/cvpr-2026/cards.md#paper-tas-lora-architecture-conditioned-supernet-experts)
 - [Frame2Freq: Spectral Adapters for Fine-Grained Video Understanding](../conferences/cvpr-2026/cards.md#paper-frame2freq)
 - [InternVideo-Next: Towards World-Understanding Video Models](../conferences/cvpr-2026/cards.md#paper-internvideo-next-epd)
+- [Emergent Extreme-View Geometry in 3D Foundation Models](../conferences/cvpr-2026/cards.md#paper-extreme-view-bias-only-geometric-alignment)
+- [DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles](../conferences/cvpr-2026/cards.md#paper-dear-head-roles)
 
 <!-- conference-classification:end -->

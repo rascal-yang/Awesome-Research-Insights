@@ -948,5 +948,7 @@
 - [GeCo-SRT: Geometry-aware Continual Adaptation for Cross-Task Sim-to-Real Transfer](../conferences/cvpr-2026/cards.md#paper-geco-srt)
 - [TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations](../conferences/cvpr-2026/cards.md#paper-topohr)
 - [IPR-1: Interactive Physical Reasoner](../conferences/cvpr-2026/cards.md#paper-ipr-physcode)
+- [CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics](../conferences/cvpr-2026/cards.md#paper-clad-observable-anchoring-for-latent-foresight)
+- [Unblur-SLAM: Dense Neural SLAM for Blurry Inputs](../conferences/cvpr-2026/cards.md#paper-unblur-slam-quality-triggered-formation-model)
 
 <!-- conference-classification:end -->

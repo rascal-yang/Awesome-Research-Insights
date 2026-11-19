@@ -1497,5 +1497,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](../../conferences/cvpr-2026/cards.md#paper-auditdm-model-disagreement)
 - [EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions](../../conferences/cvpr-2026/cards.md#paper-egoxtreme-pose-evaluation)
 - [Making Training-Free Diffusion Segmentors Scale with the Generative Power](../../conferences/cvpr-2026/cards.md#paper-diffusion-segmentor-attention-calibration)
+- [Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination](../../conferences/cvpr-2026/cards.md#paper-llcc-attended-region-logit-lens-check)
+- [SEA: Evaluating Sketch Abstraction Efficiency via Element-level Commonsense Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-sea-sketch-abstraction)
 
 <!-- conference-classification:end -->
