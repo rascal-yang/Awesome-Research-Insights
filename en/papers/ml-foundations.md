@@ -2398,5 +2398,10 @@ General learning methods, optimization, learning theory, and inference.
 - [Domain Sensitive Federated Learning with Fisher-Informed Pruning](../../conferences/cvpr-2026/cards.md#paper-fedfip)
 - [CoRiM: Conflict-driven Risk Minimization for Dynamic Multimodal Fusion](../../conferences/cvpr-2026/cards.md#paper-corim-conflict-risk-fusion)
 - [FedARA: Resource-adaptive Low-rank Personalized Federated Learning via Anchor-driven Representation Alignment on Heterogeneous Edge Devices](../../conferences/cvpr-2026/cards.md#paper-fedara-anchor-rank-adaptation)
+- [One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer](../../conferences/cvpr-2026/cards.md#paper-one-to-all-reference-misalignment-as-outpainting)
+- [Multi-Hierarchical Contrastive Spectral Fusion for Multi-View Clustering](../../conferences/cvpr-2026/cards.md#paper-mcsf-neighborhood-spectral-clustering-regularization)
+- [Causal Motion Diffusion Models for Autoregressive Motion Generation](../../conferences/cvpr-2026/cards.md#paper-cmdm-framewise-sampling-horizon-stability)
+- [Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training](../../conferences/cvpr-2026/cards.md#paper-iomm-image-only-pretrain-mixed-finetune)
+- [E$^2$-SCI: Elastic Edge-Cloud Speculative Decoding via Credit Inertia](../../conferences/cvpr-2026/cards.md#paper-e2-sci)
 
 <!-- conference-classification:end -->

@@ -428,5 +428,6 @@
 - [COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs](../conferences/cvpr-2026/cards.md#paper-copo-token-sufficiency-necessity-grounding)
 - [Confusion-Aware Spectral Regularizer for Long-Tailed Recognition](../conferences/cvpr-2026/cards.md#paper-car-spectral-confusion-regularizer)
 - [CoRiM: Conflict-driven Risk Minimization for Dynamic Multimodal Fusion](../conferences/cvpr-2026/cards.md#paper-corim-conflict-risk-fusion)
+- [Towards Fine-Grained Attribution: Instance-Aware Preference Optimization for Aligning Diffusion Models](../conferences/cvpr-2026/cards.md#paper-iapo-instance-credit)
 
 <!-- conference-classification:end -->

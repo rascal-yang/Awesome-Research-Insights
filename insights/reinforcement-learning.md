@@ -767,5 +767,7 @@
 - [PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](../conferences/cvpr-2026/cards.md#paper-pvp-privileged-proprioception)
 - [VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](../conferences/cvpr-2026/cards.md#paper-videoauto-r1)
 - [SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-srpo-self-referential-policy)
+- [Specificity-aware reinforcement learning for fine-grained open-world classification](../conferences/cvpr-2026/cards.md#paper-specialrl)
+- [Thinking with Programming Vision: Towards a Unified View for Thinking with Images](../conferences/cvpr-2026/cards.md#paper-codevision-visual-transformations)
 
 <!-- conference-classification:end -->

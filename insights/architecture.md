@@ -638,5 +638,7 @@
 - [Parallelised Differentiable Straightest Geodesics for 3D Meshes](../conferences/cvpr-2026/cards.md#paper-differentiable-straightest-geodesics)
 - [PAVAS: Physics-Aware Video-to-Audio Synthesis](../conferences/cvpr-2026/cards.md#paper-pavas-physical-video-audio)
 - [Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-sculpt4d-sparse-time-mask)
+- [3D Gaussian Splatting at Arbitrary Resolutions with Compact Proxy Anchors](../conferences/cvpr-2026/cards.md#paper-resolution-adaptive-gaussians)
+- [TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations](../conferences/cvpr-2026/cards.md#paper-topohr)
 
 <!-- conference-classification:end -->

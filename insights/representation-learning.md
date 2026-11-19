@@ -631,5 +631,9 @@
 - [Splatent: Splatting Diffusion Latents for Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-splatent-geometry-detail-split-latent-rendering)
 - [Fusion of Depth and Semantics for Probabilistic Floorplan Localization](../conferences/cvpr-2026/cards.md#paper-floorplan-distribution-aware-depth-semantic-fusion)
 - [MTA: Multimodal Task Alignment for BEV Perception and Captioning](../conferences/cvpr-2026/cards.md#paper-mta-intermediate-alignment-for-joint-perception-captioning)
+- [SegCompass: Exploring Interpretable Alignment with Sparse Autoencoders for Enhanced Reasoning Segmentation](../conferences/cvpr-2026/cards.md#paper-segcompass-sparse-visual-grounding-bottleneck)
+- [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](../conferences/cvpr-2026/cards.md#paper-mmpfn-modality-token-count-control)
+- [Dynamics: Language-Based Representation for Inferring Rigid-Body Dynamics From Videos](../conferences/cvpr-2026/cards.md#paper-dynamics-language-physics)
+- [MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes](../conferences/cvpr-2026/cards.md#paper-morgs-per-gaussian-motion)
 
 <!-- conference-classification:end -->

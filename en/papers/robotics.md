@@ -945,5 +945,7 @@ Robot perception, policy learning, planning, and control.
 - [Fusion of Depth and Semantics for Probabilistic Floorplan Localization](../../conferences/cvpr-2026/cards.md#paper-floorplan-distribution-aware-depth-semantic-fusion)
 - [Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-optimusvla-dual-memory)
 - [WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration](../../conferences/cvpr-2026/cards.md#paper-whispernet-receiver-centric-budget)
+- [GeCo-SRT: Geometry-aware Continual Adaptation for Cross-Task Sim-to-Real Transfer](../../conferences/cvpr-2026/cards.md#paper-geco-srt)
+- [TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations](../../conferences/cvpr-2026/cards.md#paper-topohr)
 
 <!-- conference-classification:end -->

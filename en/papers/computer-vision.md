@@ -1248,5 +1248,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [Learning 3D Reconstruction with Priors in Test Time](../../conferences/cvpr-2026/cards.md#paper-test-time-3d-priors)
 - [EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions](../../conferences/cvpr-2026/cards.md#paper-egoxtreme-pose-evaluation)
 - [Exploring Adaptive Masked Reconstruction for Self-Supervised Skeleton-Based Action Recognition](../../conferences/cvpr-2026/cards.md#paper-amr-skeleton)
+- [CARD: Correlation Aware Restoration with Diffusion](../../conferences/cvpr-2026/cards.md#paper-card-correlated-noise)
+- [3D Gaussian Splatting at Arbitrary Resolutions with Compact Proxy Anchors](../../conferences/cvpr-2026/cards.md#paper-resolution-adaptive-gaussians)
+- [Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching](../../conferences/cvpr-2026/cards.md#paper-pipstereo-iteration-pruning)
+- [MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes](../../conferences/cvpr-2026/cards.md#paper-morgs-per-gaussian-motion)
 
 <!-- conference-classification:end -->

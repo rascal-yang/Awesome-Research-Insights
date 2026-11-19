@@ -798,5 +798,7 @@
 - [TC-Pade: Trajectory-Consistent Pade Approximation for Diffusion Acceleration](../../conferences/cvpr-2026/cards.md#paper-tc-pade-rational-feature-trajectory-extrapolation)
 - [Unsafe2Safe: Controllable Image Anonymization for Downstream Utility](../../conferences/cvpr-2026/cards.md#paper-unsafe2safe-privacy-utility-edit-evaluation)
 - [Domain Sensitive Federated Learning with Fisher-Informed Pruning](../../conferences/cvpr-2026/cards.md#paper-fedfip)
+- [Multi-Hierarchical Contrastive Spectral Fusion for Multi-View Clustering](../../conferences/cvpr-2026/cards.md#paper-mcsf-neighborhood-spectral-clustering-regularization)
+- [Causal Motion Diffusion Models for Autoregressive Motion Generation](../../conferences/cvpr-2026/cards.md#paper-cmdm-framewise-sampling-horizon-stability)
 
 <!-- conference-classification:end -->

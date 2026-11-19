@@ -1156,5 +1156,12 @@ Learning across modalities such as images, text, audio, and video.
 - [PAVAS: Physics-Aware Video-to-Audio Synthesis](../../conferences/cvpr-2026/cards.md#paper-pavas-physical-video-audio)
 - [3D-IDE: 3D Implicit Depth Emergent](../../conferences/cvpr-2026/cards.md#paper-3d-ide-privileged-geometry)
 - [Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-sculpt4d-sparse-time-mask)
+- [SegCompass: Exploring Interpretable Alignment with Sparse Autoencoders for Enhanced Reasoning Segmentation](../../conferences/cvpr-2026/cards.md#paper-segcompass-sparse-visual-grounding-bottleneck)
+- [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](../../conferences/cvpr-2026/cards.md#paper-mmpfn-modality-token-count-control)
+- [Dynamics: Language-Based Representation for Inferring Rigid-Body Dynamics From Videos](../../conferences/cvpr-2026/cards.md#paper-dynamics-language-physics)
+- [Specificity-aware reinforcement learning for fine-grained open-world classification](../../conferences/cvpr-2026/cards.md#paper-specialrl)
+- [Fast Reasoning Segmentation for Images and Videos](../../conferences/cvpr-2026/cards.md#paper-fastreasonseg-reasoning-distillation)
+- [Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](../../conferences/cvpr-2026/cards.md#paper-blink-dynamic-token-resolution)
+- [Towards Fine-Grained Attribution: Instance-Aware Preference Optimization for Aligning Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-iapo-instance-credit)
 
 <!-- conference-classification:end -->

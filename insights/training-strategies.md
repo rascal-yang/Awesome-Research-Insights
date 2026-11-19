@@ -1066,5 +1066,9 @@
 - [Exploring Adaptive Masked Reconstruction for Self-Supervised Skeleton-Based Action Recognition](../conferences/cvpr-2026/cards.md#paper-amr-skeleton)
 - [3D-IDE: 3D Implicit Depth Emergent](../conferences/cvpr-2026/cards.md#paper-3d-ide-privileged-geometry)
 - [FedARA: Resource-adaptive Low-rank Personalized Federated Learning via Anchor-driven Representation Alignment on Heterogeneous Edge Devices](../conferences/cvpr-2026/cards.md#paper-fedara-anchor-rank-adaptation)
+- [One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer](../conferences/cvpr-2026/cards.md#paper-one-to-all-reference-misalignment-as-outpainting)
+- [Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training](../conferences/cvpr-2026/cards.md#paper-iomm-image-only-pretrain-mixed-finetune)
+- [GeCo-SRT: Geometry-aware Continual Adaptation for Cross-Task Sim-to-Real Transfer](../conferences/cvpr-2026/cards.md#paper-geco-srt)
+- [Fast Reasoning Segmentation for Images and Videos](../conferences/cvpr-2026/cards.md#paper-fastreasonseg-reasoning-distillation)
 
 <!-- conference-classification:end -->

@@ -1466,5 +1466,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Learning 3D Reconstruction with Priors in Test Time](../../conferences/cvpr-2026/cards.md#paper-test-time-3d-priors)
 - [Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-optimusvla-dual-memory)
 - [WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration](../../conferences/cvpr-2026/cards.md#paper-whispernet-receiver-centric-budget)
+- [E$^2$-SCI: Elastic Edge-Cloud Speculative Decoding via Credit Inertia](../../conferences/cvpr-2026/cards.md#paper-e2-sci)
+- [CARD: Correlation Aware Restoration with Diffusion](../../conferences/cvpr-2026/cards.md#paper-card-correlated-noise)
+- [Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching](../../conferences/cvpr-2026/cards.md#paper-pipstereo-iteration-pruning)
+- [Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](../../conferences/cvpr-2026/cards.md#paper-blink-dynamic-token-resolution)
 
 <!-- conference-classification:end -->

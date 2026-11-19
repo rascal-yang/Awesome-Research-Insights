@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,377 篇，其中 875 篇暂收录、502 篇排除，另有 2,665 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,407 篇，其中 894 篇暂收录、513 篇排除，另有 2,635 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -881,3 +881,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,377
 | 多模态学习 | 模型架构 | [Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](cards.md#paper-sculpt4d-sparse-time-mask) | 动态对象生成可同时保留首帧身份锚点和随时间衰减的局部上下文。 |
 | 机器学习基础 | 迁移与泛化 | [FedARA: Resource-adaptive Low-rank Personalized Federated Learning via Anchor-driven Representation Alignment on Heterogeneous Edge Devices](cards.md#paper-fedara-anchor-rank-adaptation) | 异构设备共同训练时，让不同客户端选低秩容量，以公共锚表征对齐不同子模型。 |
 | 机器人学 | 推理优化 | [WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration](cards.md#paper-whispernet-receiver-centric-budget) | 多智能体共享观察时，由接收者看低带宽摘要再全局分配请求，而非各发送端彼此独立筛选。 |
+| 生成模型 | 自监督学习 | [One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer](cards.md#paper-one-to-all-reference-misalignment-as-outpainting) | 参考图与控制序列布局不同，可把错位训练统一为遮挡外扩任务，并检查保留参考姿态作为条件的贡献。见表 3、4。 |
+| 多模态学习 | 表征学习 | [SegCompass: Exploring Interpretable Alignment with Sparse Autoencoders for Enhanced Reasoning Segmentation](cards.md#paper-segcompass-sparse-visual-grounding-bottleneck) | 让推理指令连接分割时，可用可检查的稀疏激活中间层，并共同检验激活覆盖与最终掩膜。见图 5、表 4。 |
+| 多模态学习 | 表征学习 | [MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning](cards.md#paper-mmpfn-modality-token-count-control) | 把图像或文本接入表格模型时，可用重复同一表示作为对照，区分标记数增加与内容变强，并考虑跨注意力压缩。见表 4。 |
+| 机器学习 | 对比学习 | [Multi-Hierarchical Contrastive Spectral Fusion for Multi-View Clustering](cards.md#paper-mcsf-neighborhood-spectral-clustering-regularization) | 多视图聚类可同时约束单视图近邻结构与跨视图共识，对照仅优化重建或对比时是否破坏原有邻域。见表 3。 |
+| 生成模型 | 时序建模 | [Causal Motion Diffusion Models for Autoregressive Motion Generation](cards.md#paper-cmdm-framewise-sampling-horizon-stability) | 长程动作生成可以分配按帧变化的去噪预算，同时测文本匹配和关节瞬变，避免只看短片质量。见表 4。 |
+| 生成模型 | 自监督学习 | [Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training](cards.md#paper-iomm-image-only-pretrain-mixed-finetune) | 图文配对有限时可先在图像上做掩码预训练，但后续微调仍应留配对监督，并单测知识与组合能力。见表 2。 |
+| 机器人学 | 持续学习 | [GeCo-SRT: Geometry-aware Continual Adaptation for Cross-Task Sim-to-Real Transfer](cards.md#paper-geco-srt) | 跨多个仿真到实机任务时，让专家按可复用局部几何分工，并用专家信号决定回放优先级。 |
+| 多模态学习 | 表示学习 | [Dynamics: Language-Based Representation for Inferring Rigid-Body Dynamics From Videos](cards.md#paper-dynamics-language-physics) | 从视频推断动态时，让模型输出可在物理引擎复演的结构化场景，并用复演比较候选。 |
+| 机器学习基础与统计 | 推理加速 | [E$^2$-SCI: Elastic Edge-Cloud Speculative Decoding via Credit Inertia](cards.md#paper-e2-sci) | 边云推测解码可用相邻窗口的接受率相关性分配核验预算，并独立测质量。 |
+| 计算机视觉 | 生成模型 | [CARD: Correlation Aware Restoration with Diffusion](cards.md#paper-card-correlated-noise) | 传感器噪声明显相关时，为扩散恢复先白化观测并在相同坐标中更新。 |
+| 计算机视觉 | 模型架构 | [3D Gaussian Splatting at Arbitrary Resolutions with Compact Proxy Anchors](cards.md#paper-resolution-adaptive-gaussians) | 多分辨率渲染时把目标像素覆盖作为条件，按需生成局部细节并检查锚存储。 |
+| 多模态学习 | 强化学习 | [Specificity-aware reinforcement learning for fine-grained open-world classification](cards.md#paper-specialrl) | 开放分类奖励需区分回答是否正确与是否具体，并用同组候选校准具体性。 |
+| 机器人学 | 模型架构 | [TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations](cards.md#paper-topohr) | 预测结构图时，在元素查询和实例连接之间多轮传递关系，联合修正检测和拓扑。 |
+| 智能体 | 强化学习 | [Thinking with Programming Vision: Towards a Unified View for Thinking with Images](cards.md#paper-codevision-visual-transformations) | 视觉工具代理训练应包含可逆图像变换、连续工具调用和出错后的恢复。 |
+| 计算机视觉 | 推理优化 | [Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching](cards.md#paper-pipstereo-iteration-pruning) | 迭代立体匹配可先定位有效视差更新时空位置，再减少冗余迭代并使用稀疏算子。 |
+| 多模态学习 | 知识蒸馏 | [Fast Reasoning Segmentation for Images and Videos](cards.md#paper-fastreasonseg-reasoning-distillation) | 蒸馏分割推理时先将感知转成紧凑可推理场景表示，再保留教师的多步定位过程。 |
+| 多模态学习 | 推理优化 | [Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](cards.md#paper-blink-dynamic-token-resolution) | 视觉语言推理根据各层关注区域临时提升部分 token 解析度，失去关注时回收。 |
+| 多模态学习 | 损失函数与优化 | [Towards Fine-Grained Attribution: Instance-Aware Preference Optimization for Aligning Diffusion Models](cards.md#paper-iapo-instance-credit) | 偏好数据只有整图排序时，进一步标注对应实例的偏好差异，避免把整图偏好误分到局部。 |
+| 计算机视觉 | 表示学习 | [MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes](cards.md#paper-morgs-per-gaussian-motion) | 在线动态三维重建用少数视点流监督图元运动，并显式吸收二维与三维投影的差异。 |

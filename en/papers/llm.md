@@ -2437,5 +2437,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](../../conferences/cvpr-2026/cards.md#paper-clivis-cognitive-map)
 - [ReFAct: Empowering Multimodal Web Agents with Visual and Context Focusing](../../conferences/cvpr-2026/cards.md#paper-refact)
 - [CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-cgl-constrained-rl-for-continual-gui-retention)
+- [Thinking with Programming Vision: Towards a Unified View for Thinking with Images](../../conferences/cvpr-2026/cards.md#paper-codevision-visual-transformations)
 
 <!-- conference-classification:end -->
