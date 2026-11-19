@@ -936,5 +936,8 @@
 - [Twin-T & TwintVQA: A Reliable Structure-Detail Separating VLM and a Comprehensive Benchmark for Chart and Table Tasks](../conferences/cvpr-2026/cards.md#paper-twin-t-structure-detail)
 - [NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration](../conferences/cvpr-2026/cards.md#paper-nanosd-latency-aware-distillation)
 - [MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-mad-modality-adaptive-decoding)
+- [Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment](../conferences/cvpr-2026/cards.md#paper-proxy3d)
+- [Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-log-linear-sparse-attention)
+- [PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories](../conferences/cvpr-2026/cards.md#paper-placid-synthetic-trajectories)
 
 <!-- conference-classification:end -->

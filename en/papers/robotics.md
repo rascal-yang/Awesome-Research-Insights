@@ -869,5 +869,7 @@ Robot perception, policy learning, planning, and control.
 - [NIL: No-data Imitation Learning](../../conferences/cvpr-2026/cards.md#paper-no-data-imitation-learning)
 - [Rethinking Intermediate Representation for VLM-based Robot Manipulation](../../conferences/cvpr-2026/cards.md#paper-seam)
 - [Driving on Registers](../../conferences/cvpr-2026/cards.md#paper-drivor-camera-registers)
+- [AstraNav-Memory: Contexts Compression for Long Memory](../../conferences/cvpr-2026/cards.md#paper-astranav-memory-compression)
+- [Task-Driven Implicit Representations for Automated Design of LiDAR Systems](../../conferences/cvpr-2026/cards.md#paper-implicit-lidar-design)
 
 <!-- conference-classification:end -->

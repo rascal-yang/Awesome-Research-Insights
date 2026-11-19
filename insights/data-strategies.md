@@ -370,5 +370,6 @@
 - [UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking](../conferences/cvpr-2026/cards.md#paper-unils)
 - [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](../conferences/cvpr-2026/cards.md#paper-bidirectional-wavelet-model-scaling)
 - [Revisiting Unknowns: Towards Effective and Efficient Open-Set Active Learning](../conferences/cvpr-2026/cards.md#paper-e2oal)
+- [PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories](../conferences/cvpr-2026/cards.md#paper-placid-synthetic-trajectories)
 
 <!-- conference-classification:end -->

@@ -543,5 +543,8 @@
 - [BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation](../conferences/cvpr-2026/cards.md#paper-bimotion-spline-motion)
 - [MeshFlow: Efficient Artistic Mesh Generation via MeshVAE and Flow-based Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-meshflow)
 - [Seeing without Pixels: Perception from Camera Trajectories](../conferences/cvpr-2026/cards.md#paper-camformer)
+- [AstraNav-Memory: Contexts Compression for Long Memory](../conferences/cvpr-2026/cards.md#paper-astranav-memory-compression)
+- [RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-retimegs)
+- [MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation](../conferences/cvpr-2026/cards.md#paper-mv3dis-3d-guided-masks)
 
 <!-- conference-classification:end -->

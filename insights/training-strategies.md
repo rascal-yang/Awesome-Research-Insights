@@ -934,5 +934,9 @@
 - [ProM3E: Probabilistic Masked MultiModal Embedding Model for Ecology](../conferences/cvpr-2026/cards.md#paper-prom3e)
 - [Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-mvc-zigal)
 - [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](../conferences/cvpr-2026/cards.md#paper-steph-sparse-task-mixup)
+- [Teacher-Guided Routing for Sparse Vision Mixture-of-Experts](../conferences/cvpr-2026/cards.md#paper-tgr-moe-teacher-routing)
+- [Mind the Gap: Transferring Labels to Align Object Detection Datasets](../conferences/cvpr-2026/cards.md#paper-label-aligned-transfer)
+- [HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-hicogen-decaying-stochasticity)
+- [From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-nas3r)
 
 <!-- conference-classification:end -->

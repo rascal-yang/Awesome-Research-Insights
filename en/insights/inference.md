@@ -1336,5 +1336,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery](../../conferences/cvpr-2026/cards.md#paper-tokentrace)
 - [NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration](../../conferences/cvpr-2026/cards.md#paper-nanosd-latency-aware-distillation)
 - [MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-mad-modality-adaptive-decoding)
+- [DeltaQuant: 4-bit Video Diffusion Models with Spatiotemporal Delta Smoothing](../../conferences/cvpr-2026/cards.md#paper-deltaquant-video-local-residual)
+- [Improving Motion in Image-to-Video Models via Adaptive Low-Pass Guidance](../../conferences/cvpr-2026/cards.md#paper-adaptive-lowpass-i2v-motion)
+- [Otil: Accelerating Diffusion Model Inference via Communication-Efficient Multi-GPU Parallelism](../../conferences/cvpr-2026/cards.md#paper-otil-selective-latent-synchronization)
+- [VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation](../../conferences/cvpr-2026/cards.md#paper-vde-rectified-flow)
+- [InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-invad-latent-inversion)
+- [Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-log-linear-sparse-attention)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 358 篇，其中 256 篇暂收录、102 篇排除，另有 3,684 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 387 篇，其中 274 篇暂收录、113 篇排除，另有 3,655 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -262,3 +262,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 358 �
 | 多模态学习 | 损失函数与优化 | [Twin-T & TwintVQA: A Reliable Structure-Detail Separating VLM and a Comprehensive Benchmark for Chart and Table Tasks](cards.md#paper-twin-t-structure-detail) | 训练图表问答时，把布局理解与数字细节分开建模，并在偏好目标中显式核对数值和关键词。 |
 | 多模态学习 | 推理优化 | [NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration](cards.md#paper-nanosd-latency-aware-distillation) | 边缘扩散部署时把 VAE 和去噪器共同蒸馏，并用目标硬件实测延迟选结构。 |
 | 多模态学习 | 推理优化 | [MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models](cards.md#paper-mad-modality-adaptive-decoding) | 音视频问答先估计问题需要哪些模态，再按该概率调整不同解码分支。 |
+| 计算机视觉 | 优化 | [Solving Minimal Problems Without Matrix Inversion Using FFT-Based Interpolation](cards.md#paper-fft-minimal-polynomial-solvers) | 小规模几何最小问题的消元可比较用 FFT 插值重建行列式多项式和传统在线矩阵求逆。见表 1–2。 |
+| 计算机视觉 | 训练策略 | [Teacher-Guided Routing for Sparse Vision Mixture-of-Experts](cards.md#paper-tgr-moe-teacher-routing) | 稀疏专家反馈只覆盖已选路由时，可加冻结稠密教师派生的路由监督，单独测路由稳定性及迁移。见图 3、表 3。 |
+| 计算机视觉 | 推理策略 | [DeltaQuant: 4-bit Video Diffusion Models with Spatiotemporal Delta Smoothing](cards.md#paper-deltaquant-video-local-residual) | 视频低位宽量化可把邻近时空激活的共量保留高精度，只量化局部残差。见表 1。 |
+| 机器人学 | 表征学习 | [AstraNav-Memory: Contexts Compression for Long Memory](cards.md#paper-astranav-memory-compression) | 长程导航的图像记忆可联合扫描保留长度与每帧压缩率，避免把更长历史当成自动收益。见表 3–4。 |
+| 计算机视觉 | 推理策略 | [Improving Motion in Image-to-Video Models via Adaptive Low-Pass Guidance](cards.md#paper-adaptive-lowpass-i2v-motion) | 图生视频不动时，可测试早期衰减参考图高频信息、大体运动形成后再恢复，与注意力路径调整区分。见表 2–3。 |
+| 计算机视觉 | 优化 | [Globally Optimal Pose from Orthographic Silhouettes](cards.md#paper-orthographic-silhouette-pose-search) | 已知几何在无对应轮廓场景中，可预计算旋转对应的全局轮廓签名以约束分支搜索。见 §4、表 1–4。 |
+| 计算机视觉 | 推理策略 | [Otil: Accelerating Diffusion Model Inference via Communication-Efficient Multi-GPU Parallelism](cards.md#paper-otil-selective-latent-synchronization) | 多 GPU 扩散加速可只同步变化大的潜块并轮询全区，用通信时延和质量共同调块大小。见表 3–4。 |
+| 计算机视觉 | 推理压缩 | [VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation](cards.md#paper-vde-rectified-flow) | 沿当前输入方向分解速度并随输入估计，可与直接复用陈旧速度缓存比较。 |
+| 机器人学 | 优化算法 | [Task-Driven Implicit Representations for Automated Design of LiDAR Systems](cards.md#paper-implicit-lidar-design) | 传感器设计可先学习任务下的有效采样分布，再在明确硬件约束内拟合配置。 |
+| 计算机视觉 | 训练策略 | [Mind the Gap: Transferring Labels to Align Object Detection Datasets](cards.md#paper-label-aligned-transfer) | 合并有标签冲突的数据集时，可在候选区域内对齐到目标定义，并保留不同来源的粒度。 |
+| 多模态学习 | 模型架构 | [Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment](cards.md#paper-proxy3d) | 将多帧中语义相似的三维特征聚成代理词元，可在固定长度下比较与像素词元的空间一致性。 |
+| 计算机视觉 | 训练策略 | [HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning](cards.md#paper-hicogen-decaying-stochasticity) | 扩散强化学习可把探索噪声更多放在早期决策，评估与固定噪声下的结构覆盖差异。 |
+| 计算机视觉 | 自监督学习 | [From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis](cards.md#paper-nas3r) | 没有相机参数标注时，让几何和相机预测共用骨干，由目标视图的重投影误差同时监督。 |
+| 计算机视觉 | 表示学习 | [RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting](cards.md#paper-retimegs) | 拟合动态高斯场景时，用连续时间参数化和中间时刻监督缓解离散帧拟合的混叠。 |
+| 计算机视觉 | 表示学习 | [MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation](cards.md#paper-mv3dis-3d-guided-masks) | 从二维分割融合三维实例时，用同一个粗三维分段配准各视图掩码，并按深度一致性定权。 |
+| 计算机视觉 | 推理优化 | [InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models](cards.md#paper-invad-latent-inversion) | 用扩散模型做异常分数时，检验反演潜变量偏离先验能否取代往返像素重建。 |
+| 多模态学习 | 推理优化 | [Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers](cards.md#paper-log-linear-sparse-attention) | 长视觉序列不止稀疏注意力，还要把块筛选做成多层细化，并保留未选区域的粗粒度上下文。 |
+| 多模态学习 | 训练与数据策略 | [PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories](cards.md#paper-placid-synthetic-trajectories) | 训练视频模型做静态组合时，将初始随机摆放过渡到目标布局，复用时序一致性来保留各实体。 |

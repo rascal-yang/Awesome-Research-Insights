@@ -1044,5 +1044,18 @@
 - [Unified Camera Positional Encoding for Controlled Video Generation](../conferences/cvpr-2026/cards.md#paper-unified-camera-positional-encoding)
 - [Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-mvc-zigal)
 - [Learning Diffeomorphism for Medical Image Registration with Time-Embedded Architectures Using Semigroup Regularization](../conferences/cvpr-2026/cards.md#paper-sgdir)
+- [Solving Minimal Problems Without Matrix Inversion Using FFT-Based Interpolation](../conferences/cvpr-2026/cards.md#paper-fft-minimal-polynomial-solvers)
+- [Teacher-Guided Routing for Sparse Vision Mixture-of-Experts](../conferences/cvpr-2026/cards.md#paper-tgr-moe-teacher-routing)
+- [DeltaQuant: 4-bit Video Diffusion Models with Spatiotemporal Delta Smoothing](../conferences/cvpr-2026/cards.md#paper-deltaquant-video-local-residual)
+- [Improving Motion in Image-to-Video Models via Adaptive Low-Pass Guidance](../conferences/cvpr-2026/cards.md#paper-adaptive-lowpass-i2v-motion)
+- [Globally Optimal Pose from Orthographic Silhouettes](../conferences/cvpr-2026/cards.md#paper-orthographic-silhouette-pose-search)
+- [Otil: Accelerating Diffusion Model Inference via Communication-Efficient Multi-GPU Parallelism](../conferences/cvpr-2026/cards.md#paper-otil-selective-latent-synchronization)
+- [VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation](../conferences/cvpr-2026/cards.md#paper-vde-rectified-flow)
+- [Mind the Gap: Transferring Labels to Align Object Detection Datasets](../conferences/cvpr-2026/cards.md#paper-label-aligned-transfer)
+- [HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-hicogen-decaying-stochasticity)
+- [From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-nas3r)
+- [RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-retimegs)
+- [MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation](../conferences/cvpr-2026/cards.md#paper-mv3dis-3d-guided-masks)
+- [InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models](../conferences/cvpr-2026/cards.md#paper-invad-latent-inversion)
 
 <!-- conference-classification:end -->

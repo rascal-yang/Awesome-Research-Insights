@@ -579,5 +579,6 @@
 - [CrackSSM: Reviving SSMs for Crack Segmentation via Dynamic Scanning](../conferences/cvpr-2026/cards.md#paper-crackssm-dynamic-scan)
 - [Unified Camera Positional Encoding for Controlled Video Generation](../conferences/cvpr-2026/cards.md#paper-unified-camera-positional-encoding)
 - [Rethinking Intermediate Representation for VLM-based Robot Manipulation](../conferences/cvpr-2026/cards.md#paper-seam)
+- [Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment](../conferences/cvpr-2026/cards.md#paper-proxy3d)
 
 <!-- conference-classification:end -->

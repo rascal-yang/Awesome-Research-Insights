@@ -678,5 +678,8 @@
 - [MHopReg: Efficient Hierarchical Multi-Hop Graph Search for Point Cloud Registration](../conferences/cvpr-2026/cards.md#paper-mhopreg)
 - [Self-Diffusion Driven Blind Imaging](../conferences/cvpr-2026/cards.md#paper-deblursdi-blind-self-diffusion)
 - [Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-stochastic-gaussian-raytracing)
+- [Solving Minimal Problems Without Matrix Inversion Using FFT-Based Interpolation](../conferences/cvpr-2026/cards.md#paper-fft-minimal-polynomial-solvers)
+- [Globally Optimal Pose from Orthographic Silhouettes](../conferences/cvpr-2026/cards.md#paper-orthographic-silhouette-pose-search)
+- [Task-Driven Implicit Representations for Automated Design of LiDAR Systems](../conferences/cvpr-2026/cards.md#paper-implicit-lidar-design)
 
 <!-- conference-classification:end -->
