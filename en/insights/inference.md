@@ -1766,5 +1766,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [Efficient Weighted Sampling via Score-based Generative Models](../../conferences/cvpr-2026/cards.md#paper-weighted-diffusion-uncertainty-guidance)
 - [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pti-prefill-kv-hallucination-control)
 - [UniPart: Part-Level 3D Generation with Unified 3D Geom-Seg Latents](../../conferences/cvpr-2026/cards.md#paper-unipart-joint-geometry-segmentation-latents)
+- [Pointing at Parts: Training-Free Few-Shot Grounding in Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-pop-few-shot-part-pointing)
+- [SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](../../conferences/cvpr-2026/cards.md#paper-subspacead-normal-pca)
+- [FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation](../../conferences/cvpr-2026/cards.md#paper-flashmesh-structured-speculation)
+- [Reasoning Diffusion for Unpaired Test Time Out-of-distribution Text-Image to Video Generation](../../conferences/cvpr-2026/cards.md#paper-reasondiff-unpaired-condition-temporal-placement)
+- [Disentangling to Re-couple: Resolving the Similarity-Controllability Paradox in Subject-Driven Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-disco-disentangle-identity-and-edit-instructions)
 
 <!-- conference-classification:end -->

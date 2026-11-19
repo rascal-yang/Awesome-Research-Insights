@@ -1650,5 +1650,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Spectral Conformal Risk Control: Distribution-Free Tail Guarantees via Bayesian Quadrature](../../conferences/cvpr-2026/cards.md#paper-distribution-free-tail-risk-conformal-calibration)
 - [Structural Graph Probing of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vlm-structural-graph-probes)
 - [The Invisible Gorilla Effect in Out-of-distribution Detection](../../conferences/cvpr-2026/cards.md#paper-invisible-gorilla-roi-similarity-ood)
+- [LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-cumulative-risk-audit-multimodal-dialogue)
+- [R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII](../../conferences/cvpr-2026/cards.md#paper-controlled-information-parity-graph-representation)
+- [Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory](../../conferences/cvpr-2026/cards.md#paper-contextual-safety-matched-pairs)
 
 <!-- conference-classification:end -->

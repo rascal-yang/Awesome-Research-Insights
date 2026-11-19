@@ -1707,5 +1707,12 @@ Learning across modalities such as images, text, audio, and video.
 - [Beyond Missing Modalities: Hypergraph Conditioned Diffusion for Uncertainty-Aware Multimodal Emotion Recognition](../../conferences/cvpr-2026/cards.md#paper-hyperef-missing-modality-evidence)
 - [Cross-View Distillation and Adaptive Masking for Incomplete Multi-View Multi-Label Classification](../../conferences/cvpr-2026/cards.md#paper-cdam-cross-view-distillation-incomplete-labels)
 - [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pti-prefill-kv-hallucination-control)
+- [LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-cumulative-risk-audit-multimodal-dialogue)
+- [Time-Specialized Event-Image Alignment for Blur-to-Video Decomposition](../../conferences/cvpr-2026/cards.md#paper-target-time-event-image-alignment)
+- [Pointing at Parts: Training-Free Few-Shot Grounding in Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-pop-few-shot-part-pointing)
+- [Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory](../../conferences/cvpr-2026/cards.md#paper-contextual-safety-matched-pairs)
+- [Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering](../../conferences/cvpr-2026/cards.md#paper-hint-pointing-intent-tokens)
+- [VideoSSR: Video Self-Supervised Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-videossr-intrinsic-verifiable-video-rewards)
+- [SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs](../../conferences/cvpr-2026/cards.md#paper-sparrow-tracked-features-box-mask-grounding)
 
 <!-- conference-classification:end -->

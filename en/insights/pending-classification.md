@@ -894,5 +894,7 @@
 - [RemedyGS: Defend 3D Gaussian Splatting Against Computation Cost Attacks](../../conferences/cvpr-2026/cards.md#paper-remedygs-reconstruction-resource-defense)
 - [EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](../../conferences/cvpr-2026/cards.md#paper-eaglevision-diverse-keyframes-bev-active-reasoning)
 - [Learning by Analogy: A Causal Framework for Compositional Generalization](../../conferences/cvpr-2026/cards.md#paper-compositional-analogy-causal-minimal-changes)
+- [SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs](../../conferences/cvpr-2026/cards.md#paper-sparrow-tracked-features-box-mask-grounding)
+- [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](../../conferences/cvpr-2026/cards.md#paper-closed-loop-difficulty-motion-synthesis)
 
 <!-- conference-classification:end -->

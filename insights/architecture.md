@@ -873,5 +873,10 @@
 - [SpatialDiff: 3D-Aware Object Movement via Implicit Spatial Modeling](../conferences/cvpr-2026/cards.md#paper-spatialdiff-implicit-3d)
 - [Multi-modal Frequency Decomposition Network for Semantic Scene Completion](../conferences/cvpr-2026/cards.md#paper-mfdnet-frequency-fusion)
 - [Beyond Missing Modalities: Hypergraph Conditioned Diffusion for Uncertainty-Aware Multimodal Emotion Recognition](../conferences/cvpr-2026/cards.md#paper-hyperef-missing-modality-evidence)
+- [Gamba: Mamba-based graph convolutional network with dynamic graph topology learning for action recognition](../conferences/cvpr-2026/cards.md#paper-temporally-conditioned-joint-graph-topology)
+- [From Manuals to Actions: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-subgoal-manual-image-coordinate-planning)
+- [SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-seethrough3d-occlusion-layout)
+- [RARE: Learn to RAnk and REtrieve for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-rare-relative-quality-ranking)
+- [Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering](../conferences/cvpr-2026/cards.md#paper-hint-pointing-intent-tokens)
 
 <!-- conference-classification:end -->

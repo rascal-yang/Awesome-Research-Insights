@@ -2672,5 +2672,10 @@
 - [FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters](../conferences/cvpr-2026/cards.md#paper-fastlightgen-joint-step-and-parameter-distillation)
 - [The Invisible Gorilla Effect in Out-of-distribution Detection](../conferences/cvpr-2026/cards.md#paper-invisible-gorilla-roi-similarity-ood)
 - [Learning by Analogy: A Causal Framework for Compositional Generalization](../conferences/cvpr-2026/cards.md#paper-compositional-analogy-causal-minimal-changes)
+- [R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII](../conferences/cvpr-2026/cards.md#paper-controlled-information-parity-graph-representation)
+- [Exemplar-Free Class Incremental Learning via Preserving Class-Discriminative Structure](../conferences/cvpr-2026/cards.md#paper-efcil-class-geometry)
+- [Reasoning Diffusion for Unpaired Test Time Out-of-distribution Text-Image to Video Generation](../conferences/cvpr-2026/cards.md#paper-reasondiff-unpaired-condition-temporal-placement)
+- [Disentangling to Re-couple: Resolving the Similarity-Controllability Paradox in Subject-Driven Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-disco-disentangle-identity-and-edit-instructions)
+- [Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration](../conferences/cvpr-2026/cards.md#paper-c2ssm-cluster-serial-global-context)
 
 <!-- conference-classification:end -->

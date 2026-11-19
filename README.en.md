@@ -16,23 +16,23 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 <a id="conference-sources"></a>
 
-**Latest screening · 2026-11-19** · [ICML 2026 · 6,552 / 6,552 screened · 3,276 included](conferences/icml-2026/README.md) · [CoRL 2026 · 687 / 687 screened · 343 included](conferences/corl-2026/README.md) · [NeurIPS 2026 · 9,144 records screened · 4,572 papers included](conferences/neurips-2026/README.md) · [CVPR 2026 · 3,897 / 4,042 screened · 2,493 provisionally included](conferences/cvpr-2026/README.md)
+**Latest screening · 2026-11-19** · [ICML 2026 · 6,552 / 6,552 screened · 3,276 included](conferences/icml-2026/README.md) · [CoRL 2026 · 687 / 687 screened · 343 included](conferences/corl-2026/README.md) · [NeurIPS 2026 · 9,144 records screened · 4,572 papers included](conferences/neurips-2026/README.md) · [CVPR 2026 · 3,927 / 4,042 screened · 2,516 provisionally included](conferences/cvpr-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
 ## Browse by Domain
 
-**10,685 papers.** Counts cover the ICML, CoRL, NeurIPS, and CVPR paper cards currently indexed, including provisional CVPR entries and papers pending classification.
+**10,708 papers.** Counts cover the ICML, CoRL, NeurIPS, and CVPR paper cards currently indexed, including provisional CVPR entries and papers pending classification.
 
 | Domain | Papers | Scope |
 | :--- | ---: | :--- |
 | <a id="large-language-models"></a>[Large Language Models](en/papers/llm.md) | 2,410 | Language models, tool use, and agents. |
-| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | 1,673 | Recognition, visual representations, and generation. |
+| <a id="computer-vision"></a>[Computer Vision](en/papers/computer-vision.md) | 1,680 | Recognition, visual representations, and generation. |
 | <a id="natural-language-processing"></a>[Natural Language Processing](en/papers/nlp.md) | 56 | Language, speech, retrieval, and text processing. |
 | <a id="reinforcement-learning"></a>[Reinforcement Learning](en/papers/reinforcement-learning.md) | 594 | Sequential decisions, rewards, policy learning, and games. |
-| <a id="robotics"></a>[Robotics](en/papers/robotics.md) | 1,123 | Robot perception, policy learning, planning, and control. |
-| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 1,636 | Learning and reasoning across vision, text, audio, and other modalities. |
-| <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 2,601 | General learning methods, optimization, learning theory, and inference. |
+| <a id="robotics"></a>[Robotics](en/papers/robotics.md) | 1,127 | Robot perception, policy learning, planning, and control. |
+| <a id="multimodal-learning"></a>[Multimodal Learning](en/papers/multimodal.md) | 1,643 | Learning and reasoning across vision, text, audio, and other modalities. |
+| <a id="ml-foundations"></a>[Machine Learning Foundations and Statistics](en/papers/ml-foundations.md) | 2,606 | General learning methods, optimization, learning theory, and inference. |
 | <a id="graph-and-recommendation"></a>[Graph Learning and Recommendation](en/papers/graph-and-recommendation.md) | 168 | Graph models, knowledge graphs, and recommender systems. |
 | <a id="scientific-ml"></a>[Scientific Machine Learning](en/papers/scientific-ml.md) | 339 | Machine learning for physics, medicine, biology, and engineering. |
 | [Pending classification](en/papers/pending-classification.md) | 85 | Conference labels awaiting taxonomy mapping |
@@ -41,22 +41,22 @@ One paper card brings together the research problem, method, baselines, benchmar
 
 ## Browse by Technique
 
-**10,686 mechanisms.** A paper can contribute several mechanisms. Mechanisms pending classification count toward the total.
+**10,709 mechanisms.** A paper can contribute several mechanisms. Mechanisms pending classification count toward the total.
 
 | Technique | Mechanisms | Scope |
 | :--- | ---: | :--- |
-| <a id="architectures"></a>[Architectures](en/insights/architecture.md) | 809 | Model-wide design and information flow. |
+| <a id="architectures"></a>[Architectures](en/insights/architecture.md) | 814 | Model-wide design and information flow. |
 | <a id="computer-vision-modules"></a><a id="modules"></a><a id="modules-1"></a>[Modules](en/insights/modules.md) | 370 | Components, connections, and parameterizations. |
-| <a id="loss-functions"></a>[Loss Functions](en/insights/loss-functions.md) | 439 | Objectives, auxiliary supervision, and regularization. |
-| <a id="optimization"></a>[Optimization](en/insights/optimization.md) | 681 | Gradient updates, solvers, and optimization dynamics. |
-| <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[Reinforcement Learning Methods](en/insights/reinforcement-learning.md) | 766 | Rewards, exploration, credit assignment, and policy updates. |
+| <a id="loss-functions"></a>[Loss Functions](en/insights/loss-functions.md) | 440 | Objectives, auxiliary supervision, and regularization. |
+| <a id="optimization"></a>[Optimization](en/insights/optimization.md) | 683 | Gradient updates, solvers, and optimization dynamics. |
+| <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[Reinforcement Learning Methods](en/insights/reinforcement-learning.md) | 767 | Rewards, exploration, credit assignment, and policy updates. |
 | <a id="training-strategies"></a>[Training Strategies](en/insights/training-strategies.md) | 1,343 | Schedules, fine-tuning, distillation, and transfer. |
 | <a id="data-strategies"></a>[Data Strategies](en/insights/data-strategies.md) | 422 | Data construction, selection, annotation, and sampling. |
-| <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 1,702 | Decoding, search, test-time adaptation, and efficient execution. |
-| [Representation Learning](en/insights/representation-learning.md) | 748 | Representation extraction, alignment, transfer, and disentanglement. |
-| [Evaluation and Diagnostics](en/insights/evaluation.md) | 1,586 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
+| <a id="inference-strategies"></a>[Inference Strategies](en/insights/inference.md) | 1,707 | Decoding, search, test-time adaptation, and efficient execution. |
+| [Representation Learning](en/insights/representation-learning.md) | 752 | Representation extraction, alignment, transfer, and disentanglement. |
+| [Evaluation and Diagnostics](en/insights/evaluation.md) | 1,589 | Benchmarks, evaluation protocols, ablations, and failure diagnosis. |
 | [Theory and Statistics](en/insights/theory-statistics.md) | 937 | Learning guarantees, counterexamples, estimation, and statistical tests. |
-| [Pending classification](en/insights/pending-classification.md) | 883 | Conference labels awaiting taxonomy mapping |
+| [Pending classification](en/insights/pending-classification.md) | 885 | Conference labels awaiting taxonomy mapping |
 
 ## Recent Updates
 

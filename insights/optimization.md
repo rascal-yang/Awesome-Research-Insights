@@ -740,5 +740,7 @@
 - [Outlier-Robust Diffusion Solvers for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-robust-diffusion-huber-inverse-solvers)
 - [Protect to Adapt: Orthogonal Subspace Control with Ranked Negative-Prompt Curriculum for Few-Shot Action Recognition](../conferences/cvpr-2026/cards.md#paper-orthogonal-protected-subspace-few-shot-adaptation)
 - [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](../conferences/cvpr-2026/cards.md#paper-grpo-guard-ratio-shift)
+- [Anatomical Domain Shifts: Test-time Heterogeneous Adaptation for 3D Human Pose Prediction](../conferences/cvpr-2026/cards.md#paper-ttha-anatomical-shifts)
+- [3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction](../conferences/cvpr-2026/cards.md#paper-self-constrained-gaussian-tsdf)
 
 <!-- conference-classification:end -->

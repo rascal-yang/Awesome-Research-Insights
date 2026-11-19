@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,897 篇，其中 2,493 篇暂收录、1,404 篇排除，另有 145 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,927 篇，其中 2,516 篇暂收录、1,411 篇排除，另有 115 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2499,3 +2499,26 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,897
 | 机器学习 | 组合泛化 | [Learning by Analogy: A Causal Framework for Compositional Generalization](cards.md#paper-compositional-analogy-causal-minimal-changes) | 用只改变少数低层成分的类比对测试和训练新概念组合。 |
 | 多模态学习 | 推理时干预 | [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](cards.md#paper-pti-prefill-kv-hallucination-control) | 只在预填充阶段修改初始 KV 状态，检查幻觉是否能在串行放大前被抑制。 |
 | 三维视觉 | 结构化生成 | [UniPart: Part-Level 3D Generation with Unified 3D Geom-Seg Latents](cards.md#paper-unipart-joint-geometry-segmentation-latents) | 将整体几何和部件结构共同编码，再在局部潜变量内细化可拆分资产。 |
+| 计算机视觉 | 模型架构 | [Gamba: Mamba-based graph convolutional network with dynamic graph topology learning for action recognition](cards.md#paper-temporally-conditioned-joint-graph-topology) | 骨架任务可按关节角色和历史动作学习动态图拓扑，避免只在当前帧计算关系。 |
+| 多模态学习 | 评测与诊断 | [LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models](cards.md#paper-cumulative-risk-audit-multimodal-dialogue) | 多轮视觉助手应分别监测用户输入和模型回复，并让审核读取上下文累积风险。 |
+| 机器学习基础与统计 | 评测与诊断 | [R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII](cards.md#paper-controlled-information-parity-graph-representation) | 比较图表示时应固定各视图的可用信息，只改变特征附着与图结构。 |
+| 多模态学习 | 表征学习 | [Time-Specialized Event-Image Alignment for Blur-to-Video Decomposition](cards.md#paper-target-time-event-image-alignment) | 异步事件和曝光图像融合时，可以让两支特征都以指定输出时刻为条件。 |
+| 计算机视觉 | 表征学习 | [JUMP-Hand: Learning Joint-wise Uncertainty to Gate Mixture of View Experts for Multi-View 3D Hand Reconstruction](cards.md#paper-joint-wise-view-uncertainty-gating) | 多视角融合应按每个关节的可见性路由证据，而不是对整幅图分配单一权重。 |
+| 机器人学 | 模型架构 | [From Manuals to Actions: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation](cards.md#paper-subgoal-manual-image-coordinate-planning) | 长程操作可先从目标状态生成包含子目标画面和位置的操作手册，再由动作专家执行。 |
+| 计算机视觉 | 优化策略 | [Anatomical Domain Shifts: Test-time Heterogeneous Adaptation for 3D Human Pose Prediction](cards.md#paper-ttha-anatomical-shifts) | 时序姿态在线适配按身体部分估计域变化，并仅更新相关参数。 |
+| 多模态学习 | 推理策略 | [Pointing at Parts: Training-Free Few-Shot Grounding in Multimodal LLMs](cards.md#paper-pop-few-shot-part-pointing) | 用少量标注示例建立局部对应，再与语言注意力融合以定位部件。 |
+| 计算机视觉 | 推理策略 | [SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](cards.md#paper-subspacead-normal-pca) | 少样本异常定位可先测试冻结特征加正常子空间残差，避免引入大型检索缓存。 |
+| 多模态学习 | 评测与诊断 | [Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory](cards.md#paper-contextual-safety-matched-pairs) | 用语境相近但安全意图不同的成对样本，同时检验拒绝与正常应答。 |
+| 计算机视觉 | 推理策略 | [FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation](cards.md#paper-flashmesh-structured-speculation) | 按面、点、坐标层级做预测、纠正与验证，利用网格令牌结构加速解码。 |
+| 计算机视觉 | 模型架构 | [SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation](cards.md#paper-seethrough3d-occlusion-layout) | 布局条件用半透明三维包围盒编码被遮挡区域和相对深度。 |
+| 机器学习基础与统计 | 损失函数 | [Exemplar-Free Class Incremental Learning via Preserving Class-Discriminative Structure](cards.md#paper-efcil-class-geometry) | 无样本持续分类要同时维持类内分布与类间原型几何。 |
+| 机器人学 | 模型架构 | [RARE: Learn to RAnk and REtrieve for Monocular 3D Object Detection](cards.md#paper-rare-relative-quality-ranking) | 对单目三维检测的多个合理假设按相对定位质量排序，而非仅学习绝对置信度。 |
+| 多模态学习 | 模型架构 | [Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering](cards.md#paper-hint-pointing-intent-tokens) | 手势驱动交互中把三维手关键点作为独立令牌，与视听上下文交错输入。 |
+| 计算机视觉 | 优化策略 | [3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction](cards.md#paper-self-constrained-gaussian-tsdf) | 训练三维高斯时回融自产深度得到 TSDF，将表面附近和远离表面的基元区别更新。 |
+| 多模态学习 | 强化学习与奖励 | [VideoSSR: Video Self-Supervised Reinforcement Learning](cards.md#paper-videossr-intrinsic-verifiable-video-rewards) | 用可程序验证的时序、计数和定位预任务替代部分人工奖励标注。 |
+| 生成模型 | 条件生成 | [Reasoning Diffusion for Unpaired Test Time Out-of-distribution Text-Image to Video Generation](cards.md#paper-reasondiff-unpaired-condition-temporal-placement) | 当文字和参考图不同时出现时，先推断条件的时间关系再生成。 |
+| 生成模型 | 条件生成 | [Disentangling to Re-couple: Resolving the Similarity-Controllability Paradox in Subject-Driven Text-to-Image Generation](cards.md#paper-disco-disentangle-identity-and-edit-instructions) | 把身份识别与修改指令拆成独立条件，再让生成器按需融合。 |
+| 机器人学 | 空间表征 | [Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](cards.md#paper-gpocc-surface-to-volume-geometry-prior) | 把可见表面沿相机射线扩展成体积占用候选，再学习完成。 |
+| 高效深度学习 | 时空表征 | [Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration](cards.md#paper-c2ssm-cluster-serial-global-context) | 以少数语义簇中心替代每个像素的全局状态扫描，再将全局信息写回像素。 |
+| 多模态学习 | 时序一致性 | [SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs](cards.md#paper-sparrow-tracked-features-box-mask-grounding) | 将时间对齐跟踪提示与空间框同时送给分割推理，降低对象身份切换。 |
+| 机器人学 | 课程学习 | [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](cards.md#paper-closed-loop-difficulty-motion-synthesis) | 周期性按当前控制器失败难度更新运动数据，使动作课程随策略能力扩展。 |

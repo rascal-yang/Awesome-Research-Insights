@@ -812,5 +812,9 @@
 - [Dynamic-Static Decomposition for Novel View Synthesis of Dynamic Scenes with Spiking Neurons](../conferences/cvpr-2026/cards.md#paper-discontinuous-motion-primitive-tagging)
 - [SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-spacedrive-explicit-coordinate-encoding)
 - [Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking](../conferences/cvpr-2026/cards.md#paper-visual-to-linguistic-implicit-tracking)
+- [Time-Specialized Event-Image Alignment for Blur-to-Video Decomposition](../conferences/cvpr-2026/cards.md#paper-target-time-event-image-alignment)
+- [JUMP-Hand: Learning Joint-wise Uncertainty to Gate Mixture of View Experts for Multi-View 3D Hand Reconstruction](../conferences/cvpr-2026/cards.md#paper-joint-wise-view-uncertainty-gating)
+- [Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](../conferences/cvpr-2026/cards.md#paper-gpocc-surface-to-volume-geometry-prior)
+- [Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration](../conferences/cvpr-2026/cards.md#paper-c2ssm-cluster-serial-global-context)
 
 <!-- conference-classification:end -->

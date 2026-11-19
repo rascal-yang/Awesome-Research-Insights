@@ -503,5 +503,6 @@
 - [Learning to Act Robustly with View-Invariant Latent Actions](../conferences/cvpr-2026/cards.md#paper-vila-view-invariant-actions)
 - [VT-Intrinsic: Physics-Based Decomposition of Reflectance and Shading using a Single Visible-Thermal Image Pair](../conferences/cvpr-2026/cards.md#paper-vt-intrinsic-ordinal-cues)
 - [Exemplar-Free Continual Learning for State Space Models](../conferences/cvpr-2026/cards.md#paper-infssm-observability-regularization)
+- [Exemplar-Free Class Incremental Learning via Preserving Class-Discriminative Structure](../conferences/cvpr-2026/cards.md#paper-efcil-class-geometry)
 
 <!-- conference-classification:end -->

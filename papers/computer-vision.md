@@ -1744,5 +1744,12 @@
 - [Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach](../conferences/cvpr-2026/cards.md#paper-geolora-partial-shape-descriptors)
 - [SpatialDiff: 3D-Aware Object Movement via Implicit Spatial Modeling](../conferences/cvpr-2026/cards.md#paper-spatialdiff-implicit-3d)
 - [UniPart: Part-Level 3D Generation with Unified 3D Geom-Seg Latents](../conferences/cvpr-2026/cards.md#paper-unipart-joint-geometry-segmentation-latents)
+- [Gamba: Mamba-based graph convolutional network with dynamic graph topology learning for action recognition](../conferences/cvpr-2026/cards.md#paper-temporally-conditioned-joint-graph-topology)
+- [JUMP-Hand: Learning Joint-wise Uncertainty to Gate Mixture of View Experts for Multi-View 3D Hand Reconstruction](../conferences/cvpr-2026/cards.md#paper-joint-wise-view-uncertainty-gating)
+- [Anatomical Domain Shifts: Test-time Heterogeneous Adaptation for 3D Human Pose Prediction](../conferences/cvpr-2026/cards.md#paper-ttha-anatomical-shifts)
+- [SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](../conferences/cvpr-2026/cards.md#paper-subspacead-normal-pca)
+- [FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation](../conferences/cvpr-2026/cards.md#paper-flashmesh-structured-speculation)
+- [SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-seethrough3d-occlusion-layout)
+- [3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction](../conferences/cvpr-2026/cards.md#paper-self-constrained-gaussian-tsdf)
 
 <!-- conference-classification:end -->

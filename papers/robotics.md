@@ -1197,5 +1197,9 @@
 - [GraspGen-X: Cross-Embodiment 6-DOF Diffusion-based Grasping](../conferences/cvpr-2026/cards.md#paper-graspgenx-swept-volume)
 - [SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-spacedrive-explicit-coordinate-encoding)
 - [Beyond Rule-Based Agents: Active Markov Games for Realistic Multi-Agent Interaction in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-interactive-coevolution-for-driving-policy)
+- [From Manuals to Actions: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-subgoal-manual-image-coordinate-planning)
+- [RARE: Learn to RAnk and REtrieve for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-rare-relative-quality-ranking)
+- [Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](../conferences/cvpr-2026/cards.md#paper-gpocc-surface-to-volume-geometry-prior)
+- [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](../conferences/cvpr-2026/cards.md#paper-closed-loop-difficulty-motion-synthesis)
 
 <!-- conference-classification:end -->
