@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,067 篇，其中 1,304 篇暂收录、763 篇排除，另有 1,975 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,097 篇，其中 1,322 篇暂收录、775 篇排除，另有 1,945 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1310,3 +1310,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,067
 | 计算机视觉 | 高效感知 | [RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](cards.md#paper-raven-calibrated-streaming-early-exit) | 用校准的早退规则处理逐步到达的传感器信号，减少等待完整帧的开销。 |
 | 计算机视觉 | 持续学习 | [SAIDO: Generalizable Detection of AI-Generated Images via Scene-Aware and Importance-Guided Dynamic Optimization in Continual Learning](cards.md#paper-saido-scene-experts-continual-detection) | 面向防御检测，可按场景分配专家，并用参数重要性约束持续更新导致的遗忘。 |
 | 计算机视觉 | 可控视频生成 | [Generative Video Motion Editing with 3D Point Tracks](cards.md#paper-edit-by-track-paired-3d-correspondence) | 用成对的三维轨迹描述源与目标对应，以深度帮助维持遮挡顺序。 |
+| 计算机视觉 | 模型架构 | [Event6D: Event-based Novel Object 6D Pose Tracking](cards.md#paper-eventtrack6d-dual-reconstruction) | 异步事件与低频深度共同跟踪时，对照仅恢复强度和同时恢复深度。 |
+| 计算机视觉 | 推理策略 | [Occluded Human Body Capture with Frequency Domain Denoising Prior](cards.md#paper-ocmotion-frequency-domain-prior) | 当时序轨迹被长段遮挡时，对照时域先验和小波域选择，并同时测位置与加速度。 |
+| 机器人学 | 训练策略 | [Unsupervised Multi-agent and Single-agent Perception from Cooperative Views](cards.md#paper-ums-cooperative-view-pseudo-labels) | 训练时用更完整的多视角观测为单视角提供伪标签，分距离和单端部署效果复验。 |
+| 机器人学 | 推理策略 | [MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving](cards.md#paper-meanfuser-continuous-trajectory-prior) | 低延迟生成规划中对照离散候选锚点与单步连续分布，并同时衡量覆盖和速度。 |
+| 多模态学习 | 表征学习 | [MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation](cards.md#paper-medclipseg-probabilistic-cross-modal-adapter) | 标注不足的密集预测中，将概率跨模态适配和门控分别消融，并测域外退化。 |
+| 多模态学习 | 数据策略 | [CLIP-like Model as a Foundational Density Ratio Estimator](cards.md#paper-clip-foundational-density-ratio) | 数据筛选与重要性加权时，比较对比式图文相似度支持的条件分布差异和普通相似过滤。 |
+| 计算机视觉 | 损失函数 | [Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds](cards.md#paper-greo-wireframe) | 把一对一匹配的边监督扩展到全部几何候选，并分验目标分布和置信度稳定性。 |
+| 机器人学 | 训练策略 | [CycleManip: Enabling Cycle-based Manipulation via Effective History Perception and Understanding](cards.md#paper-cyclemanip) | 对循环操作同时监督历史阶段与终止判断，单独统计停止准确性。 |
+| 计算机视觉 | 训练策略 | [ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation](cards.md#paper-armflow) | 自回归动作生成用模型历史训练因果上下文，并对照真值历史下的误差累积。 |
+| 多模态学习 | 训练策略 | [Decoupled and Reusable Adaptation for Efficient Cross-Modal Transfer](cards.md#paper-reusable-modal-lora) | 先以无标签目标模态学习可共享适配器，再按下游任务添加小规模适配。 |
+| 多模态学习 | 训练策略 | [UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](cards.md#paper-unityvideo) | 以可调加噪让不同视频任务共用训练目标，再独立检查模态共享收益。 |
+| 计算机视觉 | 训练策略 | [ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark](cards.md#paper-elvis-low-light-vis) | 低照域适配同时模拟帧内和帧间退化，并与独立增强预处理做对照。 |
+| 多模态学习 | 评测设计 | [CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods](cards.md#paper-crosshoi-explicit-negative-evaluation) | 用确认的正负选项缩小缺标对跨范式比较的影响，并单列人物归属与并发动作。 |
+| 计算机视觉 | 时序建模 | [Drift-Resilient Temporal Priors for Visual Tracking](cards.md#paper-dtptrack-history-reliability) | 在聚合历史状态之前校准每帧可靠性，并让可信初始模板约束后续远期漂移。 |
+| 多模态学习 | 推理优化 | [MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering](cards.md#paper-mukv-multigrained-streaming-cache) | 为视频缓存保留多级表示，按问题从粗到细地选择上下文。 |
+| 机器人学 | 表征学习 | [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](cards.md#paper-jala-joint-latent-action-alignment) | 以逆动力学和可用动作标签共同对齐潜在动作，使大量弱标签视频能参与策略预训练。 |
+| 多模态学习 | 可控图像生成 | [SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](cards.md#paper-sigma-selective-attribute-tokens) | 为交错图像来源标注可迁移属性，让模型区分需要保留的风格、内容与主体。 |
+| 机器学习基础 | 损失函数与优化 | [TaskForce: Cooperative Multi-agent Reinforcement Learning for Multi-task Optimization](cards.md#paper-taskforce-gradient-gram-policy) | 用梯度 Gram 矩阵和损失变化作反馈，学习多任务更新权重。 |

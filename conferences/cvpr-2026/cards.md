@@ -19561,3 +19561,273 @@
 - **适用条件 / 局限** · 效果依赖可靠的三维轨迹和源视频外观，对跟踪失败及新显露区域仍依赖生成先验。
 
 **可复用机制** · 用成对的三维轨迹描述源与目标对应，以深度帮助维持遮挡顺序。
+
+<a id="paper-eventtrack6d-dual-reconstruction"></a>
+
+## Event6D: Event-based Novel Object 6D Pose Tracking
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kang_Event6D_Event-based_Novel_Object_6D_Pose_Tracking_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kang_Event6D_Event-based_Novel_Object_6D_Pose_Tracking_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 快速运动中RGB或深度帧间隔大，稀疏事件难直接供通用跟踪器使用。
+- **核心创新 / 方法** · 在最新深度条件下从事件联合恢复任意中间时刻的强度和深度，再更新六自由度目标姿态。
+- **Baseline** · 与E2VID接现有跟踪器、ETAP、FoundationPose及其事件输入版本比较。
+- **Benchmark** · Event6D与模拟评测，分别按120及30帧时刻报告ADD-S、ADD和AR，注明预处理后测速。
+- **关键结果 / 消融** · 正文表2–3分别提供事件高频对照和统一低频比较；作者报告超过120 FPS。
+- **适用条件 / 局限** · 依赖深度观测与同步，速度口径包含已预处理输入，跨传感器需复验。
+
+**可复用机制** · 异步事件与低频深度共同跟踪时，对照仅恢复强度和同时恢复深度。
+
+<a id="paper-ocmotion-frequency-domain-prior"></a>
+
+## Occluded Human Body Capture with Frequency Domain Denoising Prior
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Occluded_Human_Body_Capture_with_Frequency_Domain_Denoising_Prior_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Occluded_Human_Body_Capture_with_Frequency_Domain_Denoising_Prior_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长时遮挡下逐帧预测不可靠，短时运动约束难维持全段动作。
+- **核心创新 / 方法** · 将遮挡关节表示为概率观测，用离散小波和频域去噪先验选择与长时动作一致的系数。
+- **Baseline** · 对照VIBE、TCMR及显式遮挡方法OOH等。
+- **Benchmark** · OcMotion、3DPW、3DPW-OC与Hi4D；报告MPJPE、PA-MPJPE、加速度误差及PVE等。
+- **关键结果 / 消融** · 表2报告不同遮挡设置，仅部分指标领先；表3补充人与人遮挡场景。
+- **适用条件 / 局限** · 运动平稳或有周期时更可能受益，突发非周期动作、超长缺帧需另测。
+
+**可复用机制** · 当时序轨迹被长段遮挡时，对照时域先验和小波域选择，并同时测位置与加速度。
+
+<a id="paper-ums-cooperative-view-pseudo-labels"></a>
+
+## Unsupervised Multi-agent and Single-agent Perception from Cooperative Views
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Unsupervised_Multi-agent_and_Single-agent_Perception_from_Cooperative_Views_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Unsupervised_Multi-agent_and_Single-agent_Perception_from_Cooperative_Views_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单视角无标注点云在远距离稀疏，单端伪标签不稳定。
+- **核心创新 / 方法** · 聚合协作视角提高点云密度，并将经过纯化的候选用于监督单视角检测。
+- **Baseline** · 对照DBSCAN、OYSTER、CPD和DOtA，并列出监督参考。
+- **Benchmark** · V2V4Real与OPV2V，在多端和单端设置报告AP@0.3、AP@0.5，另评伪标签召回和精确率。
+- **关键结果 / 消融** · 表2按距离列单端结果，表3区分多端伪标签质量，正文另讨论延迟影响。
+- **适用条件 / 局限** · 训练依赖视角、标定和同步，远距离及有延迟的输入应单独测。
+
+**可复用机制** · 训练时用更完整的多视角观测为单视角提供伪标签，分距离和单端部署效果复验。
+
+<a id="paper-meanfuser-continuous-trajectory-prior"></a>
+
+## MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_MeanFuser_Fast_One-Step_Multi-Modal_Trajectory_Generation_and_Adaptive_Reconstruction_via_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_MeanFuser_Fast_One-Step_Multi-Modal_Trajectory_Generation_and_Adaptive_Reconstruction_via_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 依赖离散轨迹锚点的生成规划需要在覆盖行为与字典规模之间权衡。
+- **核心创新 / 方法** · 以连续混合先验覆盖轨迹模式，并使用MeanFlow的平均速度目标降低采样步数。
+- **Baseline** · 比较TransFuser等驾驶规划基线及不同推理设置。
+- **Benchmark** · NAVSIMv1与v2的navtest，报告PDMS、EPDMS及分项；表3报告推理速度和参数规模。
+- **关键结果 / 消融** · 表1–3提供综合驾驶指标和中位帧率对照，便于一并核对质量与代价。
+- **适用条件 / 局限** · 依赖混合先验覆盖测试行为，评测结果不等于实车闭环安全保证。
+
+**可复用机制** · 低延迟生成规划中对照离散候选锚点与单步连续分布，并同时衡量覆盖和速度。
+
+<a id="paper-medclipseg-probabilistic-cross-modal-adapter"></a>
+
+## MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Koleilat_MedCLIPSeg_Probabilistic_Vision-Language_Adaptation_for_Data-Efficient_and_Generalizable_Medical_Image_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Koleilat_MedCLIPSeg_Probabilistic_Vision-Language_Adaptation_for_Data-Efficient_and_Generalizable_Medical_Image_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 领域偏移和边界模糊使确定性图文对齐难处理多种提示下的不确定性。
+- **核心创新 / 方法** · 在CLIP图像块与文本之间使用概率跨模态注意，并辅以软块级对比目标。
+- **Baseline** · 与LViT等方法比较，表3分别去除概率适配器和门控。
+- **Benchmark** · 16个数据集覆盖五类成像；少标签设置评DSC与NSD，跨域用源域训练后直接测。
+- **关键结果 / 消融** · 表3中完整模型域外DSC为79.02%，去除概率适配为55.23%，去除门控为76.79%。
+- **适用条件 / 局限** · 证据来自医学图像域；不确定性质量和跨提示鲁棒性需在新域复验。
+
+**可复用机制** · 标注不足的密集预测中，将概率跨模态适配和门控分别消融，并测域外退化。
+
+<a id="paper-clip-foundational-density-ratio"></a>
+
+## CLIP-like Model as a Foundational Density Ratio Estimator
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Uchiyama_CLIP-like_Model_as_a_Foundational_Density_Ratio_Estimator_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Uchiyama_CLIP-like_Model_as_a_Foundational_Density_Ratio_Estimator_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只使用嵌入向量可能忽略对比训练相似度里隐含的联合与边缘密度关系。
+- **核心创新 / 方法** · 将CLIP类模型的图文对数相似分数解释为密度比信号，用于重要性加权与跨模态KL估计。
+- **Baseline** · 比较现有相似度指标及DataComp预处理基线和LAION2B过滤。
+- **Benchmark** · 重要性加权测F1，DataComp用ImageNet-1k及38数据集平均表现，并分析生成描述N-gram。
+- **关键结果 / 消融** · 作者报告额外提示带来F1最高7分提升，KL引导筛选达到与LAION2B过滤可比表现。
+- **适用条件 / 局限** · 分数解释依赖训练分布及归一化，不能直接等同于未校准的真实概率。
+
+**可复用机制** · 数据筛选与重要性加权时，比较对比式图文相似度支持的条件分布差异和普通相似过滤。
+
+<a id="paper-greo-wireframe"></a>
+
+## Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Edges_Compete_for_Trust_Group_Relative_Edge_Optimization_for_Building_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Edges_Compete_for_Trust_Group_Relative_Edge_Optimization_for_Building_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 点云线框的一对一匹配让大量边候选缺少监督。
+- **核心创新 / 方法** · 以几何对齐质量形成组内相对置信度目标，并用熵正则避免置信度塌缩。
+- **Baseline** · 基于稀疏匹配的线框方法及不加交叉熵或熵项的变体。
+- **Benchmark** · Building3D，表1比较线框重建，表2–3分别消融正则与几何奖励。
+- **关键结果 / 消融** · 正文分别验证联合损失和几何分量，支持给未匹配候选提供连续信号。
+- **适用条件 / 局限** · 依赖几何评分区分近似边与伪边，复杂结构和变化的候选密度需另测。
+
+**可复用机制** · 把一对一匹配的边监督扩展到全部几何候选，并分验目标分布和置信度稳定性。
+
+<a id="paper-cyclemanip"></a>
+
+## CycleManip: Enabling Cycle-based Manipulation via Effective History Perception and Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wei_CycleManip_Enabling_Cycle-based_Manipulation_via_Effective_History_Perception_and_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_CycleManip_Enabling_Cycle-based_Manipulation_via_Effective_History_Perception_and_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 重复操作需按要求停止，单帧模仿容易混淆外观相似的不同进度。
+- **核心创新 / 方法** · 端到端模仿联合历史感知与历史理解，为循环中的策略与结束判断提供上下文。
+- **Baseline** · 正文比较既有模仿策略，真机实验另移除历史理解。
+- **Benchmark** · 作者循环操作基准和真机任务，见表1–2的成功及历史组件对照。
+- **关键结果 / 消融** · 表1报告整体成功率对照，表2用真机设置检验历史理解。
+- **适用条件 / 局限** · 依赖示范涵盖完整周期，周期不稳定、被打断和跨场景恢复需单测。
+
+**可复用机制** · 对循环操作同时监督历史阶段与终止判断，单独统计停止准确性。
+
+<a id="paper-armflow"></a>
+
+## ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Geng_ARMFlow_AutoRegressive_MeanFlow_for_Online_3D_Human_Reaction_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Geng_ARMFlow_AutoRegressive_MeanFlow_for_Online_3D_Human_Reaction_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 在线三维反应生成需兼顾保真、实时性与自回归适配。
+- **核心创新 / 方法** · 用因果上下文编码和 MeanFlow 预测，训练时以已生成历史替代真值历史。
+- **Baseline** · 在线反应生成方法及离线 ReMFlow 对照。
+- **Benchmark** · InterHuman、InterX，表2比较在线，表3比较离线。
+- **关键结果 / 消融** · 正文分别报告在线与离线结果及推理开销，避免混用两种实时性口径。
+- **适用条件 / 局限** · 生成历史的偏差仍可能随时长累积，人形动画指标不能直接证明真机可控性。
+
+**可复用机制** · 自回归动作生成用模型历史训练因果上下文，并对照真值历史下的误差累积。
+
+<a id="paper-reusable-modal-lora"></a>
+
+## Decoupled and Reusable Adaptation for Efficient Cross-Modal Transfer
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Decoupled_and_Reusable_Adaptation_for_Efficient_Cross-Modal_Transfer_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Decoupled_and_Reusable_Adaptation_for_Efficient_Cross-Modal_Transfer_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 每次换任务都重训跨模态适配器，产生重复训练和存储。
+- **核心创新 / 方法** · 一次性融合结构重建和语义判别以获得目标模态 LoRA，再单独做任务迁移。
+- **Baseline** · 对照逐任务跨模态迁移方法，多模态分类比较。
+- **Benchmark** · 表1–3分别评估 RGB–深度、RGB–热成像、RGB–偏振下游任务。
+- **关键结果 / 消融** · 在多种目标模态检验复用，因而可将通用模态学习和任务学习单独计量。
+- **适用条件 / 局限** · 目标模态改变通常需要新适配器，跨传感器或大域移需重新核对。
+
+**可复用机制** · 先以无标签目标模态学习可共享适配器，再按下游任务添加小规模适配。
+
+<a id="paper-unityvideo"></a>
+
+## UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_UnityVideo_Unified_Multi-Modal_Multi-Task_Learning_for_Enhancing_World-Aware_Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_UnityVideo_Unified_Multi-Modal_Multi-Task_Learning_for_Enhancing_World-Aware_Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单模态条件限制世界信息覆盖，异构监督难共用同一生成过程。
+- **核心创新 / 方法** · 用动态加噪统一训练范式，再以模态切换和上下文学习处理不同条件。
+- **Baseline** · 对照条件生成与估计方法，另做单模态和单任务消融。
+- **Benchmark** · 表1覆盖可控生成、文生视频和视频估计，表2–3比较训练组合。
+- **关键结果 / 消融** · 正文分别检查多模态与多任务，避免将两类共享增益混作单因素结论。
+- **适用条件 / 局限** · 模态条件和任务可能存在负迁移，需分任务监测质量及预算。
+
+**可复用机制** · 以可调加噪让不同视频任务共用训练目标，再独立检查模态共享收益。
+
+<a id="paper-elvis-low-light-vis"></a>
+
+## ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_ELVIS_Enhance_Low-Light_for_Video_Instance_Segmentation_in_the_Dark_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_ELVIS_Enhance_Low-Light_for_Video_Instance_Segmentation_in_the_Dark_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 低照视频含随时间变化的噪声和模糊，按单帧合成难以复现时序退化。
+- **核心创新 / 方法** · 构造时序一致的低照合成数据，以无标定的退化估计和增强头辅助视频实例分割。
+- **Baseline** · 多种在线 VIS 主干及增强后再分割的两阶段方案。
+- **Benchmark** · 合成 YouTube-VIS 2019、LMOT-S 与 ELVIS 实验，详见表1–3。
+- **关键结果 / 消融** · 表1–2比较多个主干，表3独立检验两阶段增强是否足以适配。
+- **适用条件 / 局限** · 合成噪声需覆盖真实感光和曝光过程，换设备时须再测适配效果。
+
+**可复用机制** · 低照域适配同时模拟帧内和帧间退化，并与独立增强预处理做对照。
+
+<a id="paper-crosshoi-explicit-negative-evaluation"></a>
+
+## CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lei_CrossHOI-Bench_A_Unified_Benchmark_for_HOI_Evaluation_across_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lei_CrossHOI-Bench_A_Unified_Benchmark_for_HOI_Evaluation_across_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 开放生成的有效人–物交互描述可能因基准缺标和精确匹配被判错。
+- **核心创新 / 方法** · 构建显式正例及筛查负例的多选协议，将生成模型和专用检测方法置于同一评测。
+- **Baseline** · 独立视觉语言模型与任务专用人–物交互检测方法。
+- **Benchmark** · CrossHOI-Bench 三种设置，含多人和细粒度交互，用宏平均 F1 等指标。
+- **关键结果 / 消融** · 表 1–3 分设置比较。零样本视觉语言模型总体有竞争力，但并发动作识别和人物归属仍较弱。
+- **适用条件 / 局限** · 多选任务可控性较高，无法直接代表无选项的开放生成与定位能力。
+
+**可复用机制** · 用确认的正负选项缩小缺标对跨范式比较的影响，并单列人物归属与并发动作。
+
+<a id="paper-dtptrack-history-reliability"></a>
+
+## Drift-Resilient Temporal Priors for Visual Tracking
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Drift-Resilient_Temporal_Priors_for_Visual_Tracking_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Drift-Resilient_Temporal_Priors_for_Visual_Tracking_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接聚合历史预测会放大错误，导致跟踪漂移。
+- **核心创新 / 方法** · 为历史状态学习逐帧可靠性，并用初始真值模板作锚，再将可信历史压缩为动态先验。
+- **Baseline** · 在 OSTrack、ODTrack 和 LoRAT 上检验插拔能力。
+- **Benchmark** · LaSOT、VastTrack、GOT-10k 和 TrackingNet，另比较运行效率。
+- **关键结果 / 消融** · 改进的 LoRATv2 配置在 LaSOT 的 Success 为 77.5%，在 GOT-10k 的 AO 为 80.3%。
+- **适用条件 / 局限** · 需要可靠起始模板。长时间遮挡或运动模式突变可能降低历史先验质量。
+
+**可复用机制** · 在聚合历史状态之前校准每帧可靠性，并让可信初始模板约束后续远期漂移。
+
+<a id="paper-mukv-multigrained-streaming-cache"></a>
+
+## MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_MuKV_Multi-Grained_KV_Cache_Compression_for_Long_Streaming_Video_Question-Answering_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_MuKV_Multi-Grained_KV_Cache_Compression_for_Long_Streaming_Video_Question-Answering_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 均匀缓存易重复存储历史帧，且难兼顾局部细节和长程时序。
+- **核心创新 / 方法** · 在图块、帧、片段三层构造 KV 缓存，以注意力和频率压缩词元，并在线分级检索。
+- **Baseline** · 与已有流式视频问答系统比较，消融缓存粒度及压缩方式。
+- **Benchmark** · 长流式视频问答，包括 VStream-QA，另报告实际部署时间。
+- **关键结果 / 消融** · 表 1 比较问答表现，表 2–3 分别量化不同粒度与压缩选择，表 4 报告部署指标。
+- **适用条件 / 局限** · 检索错误可能丢弃与问题相关的微小事件。精度与开销依赖缓存预算和所用骨干。
+
+**可复用机制** · 为视频缓存保留多级表示，按问题从粗到细地选择上下文。
+
+<a id="paper-jala-joint-latent-action-alignment"></a>
+
+## Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Luo_Joint-Aligned_Latent_Action_Towards_Scalable_VLA_Pretraining_in_the_Wild_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Luo_Joint-Aligned_Latent_Action_Towards_Scalable_VLA_Pretraining_in_the_Wild_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 真实机器人数据稀缺，野外人类视频的手部动作标签不稳定。
+- **核心创新 / 方法** · 联合约束转移预测、逆动力学表征与真实动作，得到行为相关潜在表示。
+- **Baseline** · 重建式潜在动作基线，以及去除联合对齐的受控消融。
+- **Benchmark** · 人手运动生成和预测、LIBERO 单视角与双视角、真实机器人操作。
+- **关键结果 / 消融** · 表 2 报告双视角成功率，表 3 以 5 个种子的均值与标准差检验对齐方案。
+- **适用条件 / 局限** · 依赖人类动作视频覆盖，以及能提供动作监督的一部分样本。人手与机器人动作空间仍可能错配。
+
+**可复用机制** · 以逆动力学和可用动作标签共同对齐潜在动作，使大量弱标签视频能参与策略预训练。
+
+<a id="paper-sigma-selective-attribute-tokens"></a>
+
+## SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_SIGMA_Selective-Interleaved_Generation_with_Multi-Attribute_Tokens_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_SIGMA_Selective-Interleaved_Generation_with_Multi-Attribute_Tokens_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一生成模型较难从多个参考同时选取所需属性。
+- **核心创新 / 方法** · 在统一扩散 Transformer 上用选择性属性词元标记交错图文条件，经多条件样本后训练。
+- **Baseline** · Bagel 及多条件、布局和风格生成基线。
+- **Benchmark** · 组合生成、选择性迁移和布局生成基准，分别看条件遵循和视觉效果。
+- **关键结果 / 消融** · 表 1–3 按组合、选择性及布局报告结果，表 4 拆分组件。
+- **适用条件 / 局限** · 验证依赖训练属性类型与数据构造。冲突条件、陌生属性及参考图质量仍会限制控制。
+
+**可复用机制** · 为交错图像来源标注可迁移属性，让模型区分需要保留的风格、内容与主体。
+
+<a id="paper-taskforce-gradient-gram-policy"></a>
+
+## TaskForce: Cooperative Multi-agent Reinforcement Learning for Multi-task Optimization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Choi_TaskForce_Cooperative_Multi-agent_Reinforcement_Learning_for_Multi-task_Optimization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Choi_TaskForce_Cooperative_Multi-agent_Reinforcement_Learning_for_Multi-task_Optimization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多个任务损失尺度不平衡，方向冲突可能引发负迁移。
+- **核心创新 / 方法** · 每个任务的协作代理观察梯度 Gram 矩阵与任务损失，输出平衡参数，以梯度和损失改善为混合奖励。
+- **Baseline** · 与多任务优化基线和协作策略消融比较。
+- **Benchmark** · NYU-v2、Cityscapes 与 QM9 的多任务设置。
+- **关键结果 / 消融** · 表 1–3 报告跨任务表现，表 4 消融协作强化学习组件，另比较每轮耗时。
+- **适用条件 / 局限** · 维护逐任务梯度及训练额外策略会引入开销，任务数增加时需要衡量成本。
+
+**可复用机制** · 用梯度 Gram 矩阵和损失变化作反馈，学习多任务更新权重。

@@ -425,5 +425,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views](../../conferences/cvpr-2026/cards.md#paper-hairguard-soft-boundary-correction)
 - [FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model](../../conferences/cvpr-2026/cards.md#paper-foundir-v2-data-equilibrium)
 - [MatchMask: Mask-Centric Generative Data Augmentation for Label-Scarce Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-matchmask-gradient-probe)
+- [CLIP-like Model as a Foundational Density Ratio Estimator](../../conferences/cvpr-2026/cards.md#paper-clip-foundational-density-ratio)
 
 <!-- conference-classification:end -->

@@ -458,5 +458,7 @@ Objectives, auxiliary supervision, and regularization.
 - [BEV-CAR: Enhancing Monocular Bird's Eye View Segmentation with Context-Aware Rasterization](../../conferences/cvpr-2026/cards.md#paper-bev-car-ray-context-layout-supervision)
 - [Your Dissimilarities Define You: Complementary Learning Exploiting Class Diversities](../../conferences/cvpr-2026/cards.md#paper-opposite-class-complementary-learning)
 - [Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations](../../conferences/cvpr-2026/cards.md#paper-reliev3r)
+- [Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds](../../conferences/cvpr-2026/cards.md#paper-greo-wireframe)
+- [TaskForce: Cooperative Multi-agent Reinforcement Learning for Multi-task Optimization](../../conferences/cvpr-2026/cards.md#paper-taskforce-gradient-gram-policy)
 
 <!-- conference-classification:end -->

@@ -704,5 +704,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [RaUF: Learning the Spatial Uncertainty Field of Radar](../../conferences/cvpr-2026/cards.md#paper-rauf-anisotropic-uncertainty)
 - [Beyond Text: Visual Description Assembly by Probabilistic Model for CLIP-based Weakly Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-vda-instance-visual-prototypes)
 - [Decoupling Vision and Language: Codebook Anchored Visual Adaptation](../../conferences/cvpr-2026/cards.md#paper-craft-codebook-stable-vision-interface)
+- [MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-medclipseg-probabilistic-cross-modal-adapter)
+- [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](../../conferences/cvpr-2026/cards.md#paper-jala-joint-latent-action-alignment)
 
 <!-- conference-classification:end -->

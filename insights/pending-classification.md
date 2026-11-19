@@ -832,5 +832,6 @@
 - [SparseCam4D: Spatio-Temporally Consistent 4D Reconstruction from Sparse Cameras](../conferences/cvpr-2026/cards.md#paper-sparsecam4d-generative-distortion-fields)
 - [ART: Articulated Reconstruction Transformer](../conferences/cvpr-2026/cards.md#paper-art-part-slot-articulated-reconstruction)
 - [RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](../conferences/cvpr-2026/cards.md#paper-raven-calibrated-streaming-early-exit)
+- [Drift-Resilient Temporal Priors for Visual Tracking](../conferences/cvpr-2026/cards.md#paper-dtptrack-history-reliability)
 
 <!-- conference-classification:end -->

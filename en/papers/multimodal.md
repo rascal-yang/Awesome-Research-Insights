@@ -1308,5 +1308,12 @@ Learning across modalities such as images, text, audio, and video.
 - [Revisiting Visual Corruptions in LVLMs: A Shape-Texture Perspective on Model Failures](../../conferences/cvpr-2026/cards.md#paper-shape-texture-corruptions)
 - [Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](../../conferences/cvpr-2026/cards.md#paper-autogaze)
 - [Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization](../../conferences/cvpr-2026/cards.md#paper-dpp-grpo)
+- [MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-medclipseg-probabilistic-cross-modal-adapter)
+- [CLIP-like Model as a Foundational Density Ratio Estimator](../../conferences/cvpr-2026/cards.md#paper-clip-foundational-density-ratio)
+- [Decoupled and Reusable Adaptation for Efficient Cross-Modal Transfer](../../conferences/cvpr-2026/cards.md#paper-reusable-modal-lora)
+- [UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](../../conferences/cvpr-2026/cards.md#paper-unityvideo)
+- [CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods](../../conferences/cvpr-2026/cards.md#paper-crosshoi-explicit-negative-evaluation)
+- [MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering](../../conferences/cvpr-2026/cards.md#paper-mukv-multigrained-streaming-cache)
+- [SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](../../conferences/cvpr-2026/cards.md#paper-sigma-selective-attribute-tokens)
 
 <!-- conference-classification:end -->

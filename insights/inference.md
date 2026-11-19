@@ -1555,5 +1555,9 @@
 - [ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control](../conferences/cvpr-2026/cards.md#paper-projflow)
 - [Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](../conferences/cvpr-2026/cards.md#paper-autogaze)
 - [Generative Video Motion Editing with 3D Point Tracks](../conferences/cvpr-2026/cards.md#paper-edit-by-track-paired-3d-correspondence)
+- [Occluded Human Body Capture with Frequency Domain Denoising Prior](../conferences/cvpr-2026/cards.md#paper-ocmotion-frequency-domain-prior)
+- [MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-meanfuser-continuous-trajectory-prior)
+- [MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering](../conferences/cvpr-2026/cards.md#paper-mukv-multigrained-streaming-cache)
+- [SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](../conferences/cvpr-2026/cards.md#paper-sigma-selective-attribute-tokens)
 
 <!-- conference-classification:end -->

@@ -1139,5 +1139,11 @@
 - [ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data](../conferences/cvpr-2026/cards.md#paper-remogen-modular-interaction-prior)
 - [PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-palm-affordance-subtask-progress)
 - [SAIDO: Generalizable Detection of AI-Generated Images via Scene-Aware and Importance-Guided Dynamic Optimization in Continual Learning](../conferences/cvpr-2026/cards.md#paper-saido-scene-experts-continual-detection)
+- [Unsupervised Multi-agent and Single-agent Perception from Cooperative Views](../conferences/cvpr-2026/cards.md#paper-ums-cooperative-view-pseudo-labels)
+- [CycleManip: Enabling Cycle-based Manipulation via Effective History Perception and Understanding](../conferences/cvpr-2026/cards.md#paper-cyclemanip)
+- [ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation](../conferences/cvpr-2026/cards.md#paper-armflow)
+- [Decoupled and Reusable Adaptation for Efficient Cross-Modal Transfer](../conferences/cvpr-2026/cards.md#paper-reusable-modal-lora)
+- [UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](../conferences/cvpr-2026/cards.md#paper-unityvideo)
+- [ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark](../conferences/cvpr-2026/cards.md#paper-elvis-low-light-vis)
 
 <!-- conference-classification:end -->

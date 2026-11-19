@@ -668,5 +668,6 @@
 - [E-3DPSM: A State Machine for Event-based Egocentric 3D Human Pose Estimation](../conferences/cvpr-2026/cards.md#paper-event-driven-pose-state-machine)
 - [OmniZip: Learning a Unified and Lightweight Lossless Compressor for Multi-Modal Data](../conferences/cvpr-2026/cards.md#paper-omnizip)
 - [AdapTok: Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space](../conferences/cvpr-2026/cards.md#paper-adaptok)
+- [Event6D: Event-based Novel Object 6D Pose Tracking](../conferences/cvpr-2026/cards.md#paper-eventtrack6d-dual-reconstruction)
 
 <!-- conference-classification:end -->

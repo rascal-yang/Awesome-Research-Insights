@@ -2485,5 +2485,6 @@ General learning methods, optimization, learning theory, and inference.
 - [Single-Round Scalable Analytic Federated Learning](../../conferences/cvpr-2026/cards.md#paper-safle-one-round-analytic-aggregation)
 - [Decouple Your Discovery and Memory in Continual Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-dydm-decouple-discovery-memory)
 - [AnyPcc: Compressing Any Point Cloud with a Single Universal Model](../../conferences/cvpr-2026/cards.md#paper-anypcc-instance-weight-bits)
+- [TaskForce: Cooperative Multi-agent Reinforcement Learning for Multi-task Optimization](../../conferences/cvpr-2026/cards.md#paper-taskforce-gradient-gram-policy)
 
 <!-- conference-classification:end -->

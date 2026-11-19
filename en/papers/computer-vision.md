@@ -1385,5 +1385,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](../../conferences/cvpr-2026/cards.md#paper-raven-calibrated-streaming-early-exit)
 - [SAIDO: Generalizable Detection of AI-Generated Images via Scene-Aware and Importance-Guided Dynamic Optimization in Continual Learning](../../conferences/cvpr-2026/cards.md#paper-saido-scene-experts-continual-detection)
 - [Generative Video Motion Editing with 3D Point Tracks](../../conferences/cvpr-2026/cards.md#paper-edit-by-track-paired-3d-correspondence)
+- [Event6D: Event-based Novel Object 6D Pose Tracking](../../conferences/cvpr-2026/cards.md#paper-eventtrack6d-dual-reconstruction)
+- [Occluded Human Body Capture with Frequency Domain Denoising Prior](../../conferences/cvpr-2026/cards.md#paper-ocmotion-frequency-domain-prior)
+- [Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds](../../conferences/cvpr-2026/cards.md#paper-greo-wireframe)
+- [ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation](../../conferences/cvpr-2026/cards.md#paper-armflow)
+- [ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark](../../conferences/cvpr-2026/cards.md#paper-elvis-low-light-vis)
+- [Drift-Resilient Temporal Priors for Visual Tracking](../../conferences/cvpr-2026/cards.md#paper-dtptrack-history-reliability)
 
 <!-- conference-classification:end -->

@@ -985,5 +985,9 @@
 - [BEV-CAR: Enhancing Monocular Bird's Eye View Segmentation with Context-Aware Rasterization](../conferences/cvpr-2026/cards.md#paper-bev-car-ray-context-layout-supervision)
 - [SkillSight: Efficient First-Person Skill Assessment with Gaze](../conferences/cvpr-2026/cards.md#paper-skillsight-gaze-only-distillation)
 - [PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-palm-affordance-subtask-progress)
+- [Unsupervised Multi-agent and Single-agent Perception from Cooperative Views](../conferences/cvpr-2026/cards.md#paper-ums-cooperative-view-pseudo-labels)
+- [MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-meanfuser-continuous-trajectory-prior)
+- [CycleManip: Enabling Cycle-based Manipulation via Effective History Perception and Understanding](../conferences/cvpr-2026/cards.md#paper-cyclemanip)
+- [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](../conferences/cvpr-2026/cards.md#paper-jala-joint-latent-action-alignment)
 
 <!-- conference-classification:end -->
