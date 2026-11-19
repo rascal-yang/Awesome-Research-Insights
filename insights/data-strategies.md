@@ -465,5 +465,7 @@
 - [MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](../conferences/cvpr-2026/cards.md#paper-mrd-global-detection-multiresolution-retrieval)
 - [TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](../conferences/cvpr-2026/cards.md#paper-transprune-representation-transition-token-importance)
 - [PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks](../conferences/cvpr-2026/cards.md#paper-ocr-data-difficulty-accuracy-diversity-audit)
+- [FrankenMotion: Part-level Human Motion Generation and Composition](../conferences/cvpr-2026/cards.md#paper-asynchronous-part-motion-language-supervision)
+- [Batch Loss Score for Dynamic Data Pruning](../conferences/cvpr-2026/cards.md#paper-batch-loss-score-ema-example-pruning)
 
 <!-- conference-classification:end -->

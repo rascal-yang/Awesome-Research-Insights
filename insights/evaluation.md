@@ -1620,5 +1620,6 @@
 - [Parallel Rigidity Matters for Bundle Adjustment](../conferences/cvpr-2026/cards.md#paper-parallel-rigidity-bundle-adjustment-graph)
 - [SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models](../conferences/cvpr-2026/cards.md#paper-svhalluc-speech-vision-timing-controls)
 - [OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-oddgrid-perceptual-discrepancy-diagnostic)
+- [DeepfakeImpact: A Two-Stage Benchmark with Real-World Impact in Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-deepfakeimpact-error-cost-aware-evaluation)
 
 <!-- conference-classification:end -->

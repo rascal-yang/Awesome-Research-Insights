@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,387 篇，其中 2,146 篇暂收录、1,241 篇排除，另有 655 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,417 篇，其中 2,164 篇暂收录、1,253 篇排除，另有 625 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2152,3 +2152,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,387
 | 生成模型 | 稀疏注意力 | [VMonarch: Efficient Video Diffusion Transformers with Structured Attention](cards.md#paper-vmonarch-spatiotemporal-structured-attention) | 以结构化稀疏矩阵同时保留帧内与帧间相关性，避免长视频全注意力。 |
 | 计算机视觉 | 自监督学习 | [Convexity-Aware Noise Calibration: A Self-Supervised Framework for Noise-Level-Unknown Image Denoising](cards.md#paper-convexity-aware-noise-self-calibration) | 无干净数据时，先从观测估计噪声水平，再依该估计做自监督复原。 |
 | 多模态学习 | 评测设计 | [OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](cards.md#paper-oddgrid-perceptual-discrepancy-diagnostic) | 用可控属性差异测试基础视觉敏感性，并以空间距离提供连续训练信号。 |
+| 多模态学习 | 训练策略 | [SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning](cards.md#paper-semantic-interval-masks-weak-video-captioning) | 只有事件文字而无边界时，可用文字与帧的相似性约束时间掩码，避免掩码均匀铺满视频。 |
+| 计算机视觉 | 训练策略 | [ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images](cards.md#paper-point-box-mask-feedback-segmentation) | 点监督适配提示式分割时，可从伪掩码派生框再查询，以不同提示约束初始错误。 |
+| 机器学习基础与统计 | 表征学习 | [Large-scale Robust Enhanced Ensemble Clustering via Outlier Decoupling](cards.md#paper-outlier-decoupled-anchor-ensemble-clustering) | 聚类集成可先校验图中的高阶共识，再把离群影响和紧凑锚点表示解耦。 |
+| 多模态学习 | 数据策略 | [FrankenMotion: Part-level Human Motion Generation and Composition](cards.md#paper-asynchronous-part-motion-language-supervision) | 语言控制的组合运动可给各部位安排独立时间区间，避免把同时与先后动作混淆。 |
+| 多模态学习 | 表征学习 | [Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations](cards.md#paper-image-conditioned-event-spacetime-aggregation) | 可按另一模态的任务需求和事件密度调节稀疏事件的时空聚合位置。 |
+| 多模态学习 | 奖励函数 | [SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization](cards.md#paper-safegrpo-rule-based-checks) | 为多模态安全推理加入可核对的规则监督，并与普通任务能力分别量测。 |
+| 机器人学 | 模型架构 | [Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field](cards.md#paper-gavis-anisotropic-visibility) | 主动建图按训练视角对每个基元的方向性覆盖决定不确定性。 |
+| 机器学习基础与统计 | 损失函数 | [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](cards.md#paper-schirn-high-rank-labels) | 对带噪多标签先量测标签矩阵秩，再决定是否施加结构正则。 |
+| 计算机视觉 | 模型架构 | [Radiance Meshes for Volumetric Reconstruction](cards.md#paper-radiance-meshes-delaunay) | 选择原生可光栅化的体积基元，并学习平滑场补偿离散拓扑变更。 |
+| 计算机视觉 | 模型架构 | [Unified Primitive Proxies for Structured Shape Completion](cards.md#paper-unico-primitive-proxies) | 结构补全中让部件解码独立读取共同形状特征，而非将点补全误差逐级传递。 |
+| 机器学习基础与统计 | 模型架构 | [Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses](cards.md#paper-tda-snn-time-space-tradeoff) | 为神经形态系统分别衡量神经元数、状态存储和延迟，判断是否将并行状态编码到时间内。 |
+| 多模态学习 | 推理策略 | [IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment](cards.md#paper-isoclip-intramodal-projectors) | 跨模态训练的投影不一定适合图搜图；先检查可分解的模态内变换。 |
+| 机器人学 | 模型架构 | [RISE: Single Static Radar-based Indoor Scene Understanding](cards.md#paper-rise-indoor-multipath) | 室内雷达感知可将二次反射作为几何观测，按角度区分路径。 |
+| 多模态学习 | 训练策略 | [SARL-STG: A Spatially Aware Reinforcement Learning Framework for Refining MLLMs in Spatio-Temporal Video Grounding](cards.md#paper-sarl-stg-iterative-grounding) | 视频证据定位先得到粗时间范围，再在空间定位与时间回看之间迭代。 |
+| 多模态学习 | 条件生成 | [FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching](cards.md#paper-flowdis-position-aware-instance-pairing) | 同一图像用不同实例描述配不同目标掩码，使分割学习选择而非固定前景。 |
+| 机器人学 | 自监督学习 | [TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation](cards.md#paper-teflow-temporal-ensemble-supervision) | 训练时从多帧中聚合稳定运动伪标签，推理仍可保持轻量前馈。 |
+| 机器学习 | 数据筛选 | [Batch Loss Score for Dynamic Data Pruning](cards.md#paper-batch-loss-score-ema-example-pruning) | 只暴露批损失时，用每个样本经历的批损失滑动均值近似其重要性。 |
+| 计算机视觉 | 评测设计 | [DeepfakeImpact: A Two-Stage Benchmark with Real-World Impact in Deepfake Detection](cards.md#paper-deepfakeimpact-error-cost-aware-evaluation) | 将高代价错误和平均技术表现分开评估，避免模型整体指标掩盖关键失败。 |

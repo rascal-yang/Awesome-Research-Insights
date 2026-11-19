@@ -2602,5 +2602,9 @@
 - [DDSF: Robust Few-Shot Learning via Disentangled Subspaces with Determinantal Point Process](../conferences/cvpr-2026/cards.md#paper-determinantal-few-shot-prototype-repair)
 - [MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](../conferences/cvpr-2026/cards.md#paper-mspt-ball-tree-attention)
 - [VMonarch: Efficient Video Diffusion Transformers with Structured Attention](../conferences/cvpr-2026/cards.md#paper-vmonarch-spatiotemporal-structured-attention)
+- [Large-scale Robust Enhanced Ensemble Clustering via Outlier Decoupling](../conferences/cvpr-2026/cards.md#paper-outlier-decoupled-anchor-ensemble-clustering)
+- [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](../conferences/cvpr-2026/cards.md#paper-schirn-high-rank-labels)
+- [Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses](../conferences/cvpr-2026/cards.md#paper-tda-snn-time-space-tradeoff)
+- [Batch Loss Score for Dynamic Data Pruning](../conferences/cvpr-2026/cards.md#paper-batch-loss-score-ema-example-pruning)
 
 <!-- conference-classification:end -->

@@ -1580,5 +1580,12 @@
 - [SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models](../conferences/cvpr-2026/cards.md#paper-svhalluc-speech-vision-timing-controls)
 - [Modeling the Visual Ambiguity of Human Sketches](../conferences/cvpr-2026/cards.md#paper-disamb-ambiguity-adaptive-pairing)
 - [OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-oddgrid-perceptual-discrepancy-diagnostic)
+- [SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-semantic-interval-masks-weak-video-captioning)
+- [FrankenMotion: Part-level Human Motion Generation and Composition](../conferences/cvpr-2026/cards.md#paper-asynchronous-part-motion-language-supervision)
+- [Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations](../conferences/cvpr-2026/cards.md#paper-image-conditioned-event-spacetime-aggregation)
+- [SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization](../conferences/cvpr-2026/cards.md#paper-safegrpo-rule-based-checks)
+- [IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment](../conferences/cvpr-2026/cards.md#paper-isoclip-intramodal-projectors)
+- [SARL-STG: A Spatially Aware Reinforcement Learning Framework for Refining MLLMs in Spatio-Temporal Video Grounding](../conferences/cvpr-2026/cards.md#paper-sarl-stg-iterative-grounding)
+- [FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching](../conferences/cvpr-2026/cards.md#paper-flowdis-position-aware-instance-pairing)
 
 <!-- conference-classification:end -->

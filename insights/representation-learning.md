@@ -778,5 +778,7 @@
 - [Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-subspace-projection-posthoc-fairness)
 - [DDSF: Robust Few-Shot Learning via Disentangled Subspaces with Determinantal Point Process](../conferences/cvpr-2026/cards.md#paper-determinantal-few-shot-prototype-repair)
 - [SO(3)-Equivariant ViT-Adapter for Data-Efficient Zero-Shot Sim-to-Real Indoor Panoramic Depth Estimation](../conferences/cvpr-2026/cards.md#paper-rotation-equivariant-panorama-depth-adaptation)
+- [Large-scale Robust Enhanced Ensemble Clustering via Outlier Decoupling](../conferences/cvpr-2026/cards.md#paper-outlier-decoupled-anchor-ensemble-clustering)
+- [Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations](../conferences/cvpr-2026/cards.md#paper-image-conditioned-event-spacetime-aggregation)
 
 <!-- conference-classification:end -->

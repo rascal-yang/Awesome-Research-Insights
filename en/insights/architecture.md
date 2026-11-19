@@ -807,5 +807,10 @@ Model-wide design and information flow.
 - [Expanding Spatial and Temporal Context for Robotic Imitation Learning With Scene Graphs](../../conferences/cvpr-2026/cards.md#paper-scene-graph-imitation-memory)
 - [ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-acot-vla-action-intents)
 - [MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](../../conferences/cvpr-2026/cards.md#paper-mspt-ball-tree-attention)
+- [Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field](../../conferences/cvpr-2026/cards.md#paper-gavis-anisotropic-visibility)
+- [Radiance Meshes for Volumetric Reconstruction](../../conferences/cvpr-2026/cards.md#paper-radiance-meshes-delaunay)
+- [Unified Primitive Proxies for Structured Shape Completion](../../conferences/cvpr-2026/cards.md#paper-unico-primitive-proxies)
+- [Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses](../../conferences/cvpr-2026/cards.md#paper-tda-snn-time-space-tradeoff)
+- [RISE: Single Static Radar-based Indoor Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-rise-indoor-multipath)
 
 <!-- conference-classification:end -->

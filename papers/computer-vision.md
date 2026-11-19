@@ -1654,5 +1654,9 @@
 - [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](../conferences/cvpr-2026/cards.md#paper-fast-scenescript-confidence-decoding)
 - [SARMAE: Masked Autoencoder for SAR Representation Learning](../conferences/cvpr-2026/cards.md#paper-sarmae-noise-semantic-anchors)
 - [Convexity-Aware Noise Calibration: A Self-Supervised Framework for Noise-Level-Unknown Image Denoising](../conferences/cvpr-2026/cards.md#paper-convexity-aware-noise-self-calibration)
+- [ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images](../conferences/cvpr-2026/cards.md#paper-point-box-mask-feedback-segmentation)
+- [Radiance Meshes for Volumetric Reconstruction](../conferences/cvpr-2026/cards.md#paper-radiance-meshes-delaunay)
+- [Unified Primitive Proxies for Structured Shape Completion](../conferences/cvpr-2026/cards.md#paper-unico-primitive-proxies)
+- [DeepfakeImpact: A Two-Stage Benchmark with Real-World Impact in Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-deepfakeimpact-error-cost-aware-evaluation)
 
 <!-- conference-classification:end -->

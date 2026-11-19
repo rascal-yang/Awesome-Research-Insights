@@ -1705,5 +1705,7 @@
 - [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](../conferences/cvpr-2026/cards.md#paper-fast-scenescript-confidence-decoding)
 - [Merge3D: Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](../conferences/cvpr-2026/cards.md#paper-merge3d-semgeo-token-merging)
 - [ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model](../conferences/cvpr-2026/cards.md#paper-activegrasp-calibrated-information-gain)
+- [IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment](../conferences/cvpr-2026/cards.md#paper-isoclip-intramodal-projectors)
+- [FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching](../conferences/cvpr-2026/cards.md#paper-flowdis-position-aware-instance-pairing)
 
 <!-- conference-classification:end -->

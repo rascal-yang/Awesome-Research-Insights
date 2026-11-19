@@ -496,5 +496,6 @@
 - [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-reta-dynamic-topology-distillation)
 - [Mind the Discriminability Trap in Source-Free Cross-domain Few-shot Learning](../conferences/cvpr-2026/cards.md#paper-discriminability-trap-cross-domain)
 - [FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-framer-frequency-self-distillation)
+- [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](../conferences/cvpr-2026/cards.md#paper-schirn-high-rank-labels)
 
 <!-- conference-classification:end -->

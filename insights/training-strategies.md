@@ -1337,5 +1337,9 @@
 - [RegionRoute: Regional Style Transfer with Diffusion Model](../conferences/cvpr-2026/cards.md#paper-local-style-attention-focus-cover)
 - [SARMAE: Masked Autoencoder for SAR Representation Learning](../conferences/cvpr-2026/cards.md#paper-sarmae-noise-semantic-anchors)
 - [Convexity-Aware Noise Calibration: A Self-Supervised Framework for Noise-Level-Unknown Image Denoising](../conferences/cvpr-2026/cards.md#paper-convexity-aware-noise-self-calibration)
+- [SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-semantic-interval-masks-weak-video-captioning)
+- [ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images](../conferences/cvpr-2026/cards.md#paper-point-box-mask-feedback-segmentation)
+- [SARL-STG: A Spatially Aware Reinforcement Learning Framework for Refining MLLMs in Spatio-Temporal Video Grounding](../conferences/cvpr-2026/cards.md#paper-sarl-stg-iterative-grounding)
+- [TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation](../conferences/cvpr-2026/cards.md#paper-teflow-temporal-ensemble-supervision)
 
 <!-- conference-classification:end -->
