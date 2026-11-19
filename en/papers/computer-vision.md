@@ -1269,5 +1269,8 @@ Visual representation, recognition, reconstruction, and generation.
 - [Efficiency Follows Global-Local Decoupling](../../conferences/cvpr-2026/cards.md#paper-convneur-global-local-decoupling)
 - [GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport](../../conferences/cvpr-2026/cards.md#paper-glint-radiance-transport)
 - [MUFASA: A Multi-Layer Framework for Slot Attention](../../conferences/cvpr-2026/cards.md#paper-mufasa-multilayer-slots)
+- [GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-geoguide-3d)
+- [Volumetric Functional Maps](../../conferences/cvpr-2026/cards.md#paper-volumetric-functional-maps)
+- [DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation](../../conferences/cvpr-2026/cards.md#paper-dage-dual-stream-geometry)
 
 <!-- conference-classification:end -->

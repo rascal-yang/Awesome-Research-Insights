@@ -410,5 +410,6 @@ Data selection, annotation, augmentation, and sampling.
 - [ReMatch: Boosting Representation through Matching for Multimodal Retrieval](../../conferences/cvpr-2026/cards.md#paper-rematch-generative-retrieval-supervision)
 - [MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](../../conferences/cvpr-2026/cards.md#paper-muco-multi-turn-contrastive)
 - [FedRG: Unleashing the Representation Geometry for Federated Learning with Noisy Clients](../../conferences/cvpr-2026/cards.md#paper-fedrg-geometry-first-noisy-labels)
+- [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](../../conferences/cvpr-2026/cards.md#paper-vilomem-visual-and-logical-memory-streams)
 
 <!-- conference-classification:end -->

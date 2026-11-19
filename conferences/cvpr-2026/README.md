@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,497 篇，其中 948 篇暂收录、549 篇排除，另有 2,545 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,527 篇，其中 968 篇暂收录、559 篇排除，另有 2,515 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -954,3 +954,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,497
 | 多模态学习 | 表示学习 | [RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation](cards.md#paper-ramen-adjustable-output-resolution) | 异构传感编码时将输入分辨率和期望输出分辨率分别条件化，可按下游预算调节输出。 |
 | 机器学习基础 | 模型架构 | [Designing to Forget: Deep Semi-parametric Models for Unlearning](cards.md#paper-semi-parametric-design-for-unlearning) | 预计需要逐样本删除时，把可移除训练信息放到显式查询组件，在部署时删除相关项。 |
 | 机器人学 | 评测与分析 | [DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving](cards.md#paper-drivecombo-compositional-rules) | 复杂规则评估应分开测试单条识别、多规则并发及冲突消解，并有纯文本对照。 |
+| 生成模型 | 模型效率 | [Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Diffusion Transformers](cards.md#paper-svd-cache-forecast-principal-stabilize-residual) | 扩散缓存可将稳定主空间和波动残差分开处理，比较统一外推在相同计算量下的收益。见表 1。 |
+| 智能体 | 检索增强 | [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](cards.md#paper-vilomem-visual-and-logical-memory-streams) | 智能体经验可把视觉线索与推理规则分别存储、独立检索，并和重用完整历史轨迹比较。见表 2。 |
+| 多模态学习 | 评估与诊断 | [Time Blindness: Why Video-Language Models Can't See What Humans Can?](cards.md#paper-spookybench-single-frame-uninformative-temporal-testing) | 要区分视频模型是否真正利用时序信息，可构造单帧无明确语义的对照，再验证外部时序特征能否补救。见表 5。 |
+| 机器人学 | 主动学习 | [Learnability-Driven Submodular Optimization for Active Roadside 3D Detection](cards.md#paper-learnability-aware-active-geometry-labeling) | 标注预算有限时，可把单视角可学习性和模型不确定性分开，不把传感器本身不可观察的样本误选为高价值。见表 1。 |
+| 生成模型 | 强化学习 | [Stepwise Credit Assignment for GRPO on Flow-Matching Models](cards.md#paper-stepwise-flow-grpo-reward-gain-credit) | 流模型强化学习可按相邻去噪步的奖励增量归因，比较最终奖励平均分配时的收敛。见表 1。 |
+| 生成模型 | 参数高效微调 | [Tea-Adapter: Teacher Adapter for Efficient Conditional Generation](cards.md#paper-tea-adapter-small-to-large-control-distillation) | 可先让小模型学会新控制，再通过适配器把控制能力迁入冻结大模型，避免重训大生成器。见表 2。 |
+| 机器学习 | 表征学习 | [Enhancing Visual Representation with Textual Semantics: Textual Semantics-Powered Prototypes for Heterogeneous Federated Learning](cards.md#paper-fedtsp-semantic-preserving-federated-prototypes) | 联邦特征原型可在提高类间可分性之外保存语义相近关系，比较语言编码器与提示是否弥合模态差。见表 2。 |
+| 机器人学 | 表示学习 | [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](cards.md#paper-pointworld) | 跨机器人共享世界模型时，将低层控制编码成同一3D坐标系中的点运动。 |
+| 多模态学习 | 训练策略 | [BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models](cards.md#paper-bagger-video) | 滚动生成的长程漂移可用模型自生成轨迹构造纠偏监督。 |
+| 多模态学习 | 模型架构 | [TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts](cards.md#paper-tag-moe) | 统一生成编辑模型发生任务冲突时，以描述任务意图的监督约束专家路由。 |
+| 多模态学习 | 训练策略 | [Image-to-Point Cloud Feature Back-Projection for Multimodal Training of 3D Semantic Segmentation](cards.md#paper-ipfp-backprojection) | 部署缺某个传感器时，把训练辅助模态转为主模态表示，设计可关闭的数据路径。 |
+| 计算机视觉 | 训练策略 | [GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation](cards.md#paper-geoguide-3d) | 用三维超点的不确定性筛选二维语义监督，再在实例层检查三维几何完整性。 |
+| 多模态学习 | 测试时适应与推理 | [Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table](cards.md#paper-llt-temporal-action) | 测试流中的共同动作可积累置信且多样的证据，当前视频只做残差调节。 |
+| 计算机视觉 | 表示学习 | [Volumetric Functional Maps](cards.md#paper-volumetric-functional-maps) | 有内部体结构时，用体拉普拉斯谱进行对应，并独立测表面匹配是否受益。 |
+| 多模态学习 | 损失函数与优化 | [Improved Mean Flows: On the Challenges of Fastforward Generative Models](cards.md#paper-imf-instantaneous-regression) | 一步流生成可改成由平均速度参数化的瞬时速度回归，并把引导系数当条件。 |
+| 智能体 | 表示学习 | [Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs](cards.md#paper-perception-programs-structured-cues) | 当视觉工具已有可靠信号时，用结构化关系和证据摘要代替把原始密集图直接交给语言模型。 |
+| 多模态学习 | 评测与分析 | [FAVE: A Structured Benchmark for Fine-Grained Audio-Visual Temporal Evaluation in Multimodal LLMs](cards.md#paper-fave-av-temporal-diagnostics) | 评估视听模型时分别测音画同步、事件顺序和时段描述，避免总体视频问答掩盖定位错误。 |
+| 机器人学 | 自监督学习 | [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](cards.md#paper-afro-latent-dynamics) | 预训练机器人三维表征时，用共享潜空间中的正逆动力代替显式三维重建，并用特征差防泄漏。 |
+| 计算机视觉 | 模型架构 | [DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation](cards.md#paper-dage-dual-stream-geometry) | 跨视图几何用低分辨率流保持一致，高分辨率流只逐帧处理边缘，再做轻量跨注意力。 |
+| 智能体 | 规划与决策 | [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](cards.md#paper-proof-of-perception-conformal-tools) | 工具推理图上给每步输出不确定集合，仅在集合无法支持结论时追加工具调用。 |

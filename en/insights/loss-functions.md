@@ -434,5 +434,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Rethinking BCE Loss for Multi-Label Image Recognition with Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-ccr-semantic-class-covariance-calibration)
 - [Hierarchical Action Learning for Weakly-Supervised Action Segmentation](../../conferences/cvpr-2026/cards.md#paper-hal-slow-action-latents)
 - [PowerCLIP: Powerset Alignment for Contrastive Pre-Training](../../conferences/cvpr-2026/cards.md#paper-powerclip)
+- [Improved Mean Flows: On the Challenges of Fastforward Generative Models](../../conferences/cvpr-2026/cards.md#paper-imf-instantaneous-regression)
 
 <!-- conference-classification:end -->

@@ -642,5 +642,7 @@ Model-wide design and information flow.
 - [TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations](../../conferences/cvpr-2026/cards.md#paper-topohr)
 - [Efficiency Follows Global-Local Decoupling](../../conferences/cvpr-2026/cards.md#paper-convneur-global-local-decoupling)
 - [Designing to Forget: Deep Semi-parametric Models for Unlearning](../../conferences/cvpr-2026/cards.md#paper-semi-parametric-design-for-unlearning)
+- [TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts](../../conferences/cvpr-2026/cards.md#paper-tag-moe)
+- [DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation](../../conferences/cvpr-2026/cards.md#paper-dage-dual-stream-geometry)
 
 <!-- conference-classification:end -->

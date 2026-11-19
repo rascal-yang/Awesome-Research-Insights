@@ -775,5 +775,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-gdpo-sr-local-online-preference-for-one-step-restoration)
 - [POCA: Pareto-Optimal Curriculum Alignment for Visual Text Generation](../../conferences/cvpr-2026/cards.md#paper-poca)
 - [Monet: Reasoning in Latent Visual Space Beyond Image and Language](../../conferences/cvpr-2026/cards.md#paper-monet-visual-latent)
+- [Stepwise Credit Assignment for GRPO on Flow-Matching Models](../../conferences/cvpr-2026/cards.md#paper-stepwise-flow-grpo-reward-gain-credit)
 
 <!-- conference-classification:end -->

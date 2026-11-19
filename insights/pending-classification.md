@@ -805,5 +805,7 @@
 - [From Measurement to Mitigation: Quantifying and Reducing Identity Leakage in Image Representation Encoders with Linear Subspace Removal](../conferences/cvpr-2026/cards.md#paper-identity-sanitization-projection)
 - [Solvability of the Viewing Graph Under the Affine Camera Model](../conferences/cvpr-2026/cards.md#paper-affine-viewing-graph-solvability)
 - [Yume1.5: A Text-Controlled Interactive World Generation Model](../conferences/cvpr-2026/cards.md#paper-yume-temporal-spatial-channel-context-compression)
+- [Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-svd-cache-forecast-principal-stabilize-residual)
+- [Learnability-Driven Submodular Optimization for Active Roadside 3D Detection](../conferences/cvpr-2026/cards.md#paper-learnability-aware-active-geometry-labeling)
 
 <!-- conference-classification:end -->

@@ -954,5 +954,8 @@
 - [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](../conferences/cvpr-2026/cards.md#paper-motioncrafter-geometry-latent-normalization)
 - [MangoBench: A Benchmark for Multi-Agent Goal-Conditioned Offline Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-mangobench-multi-goal-offline)
 - [DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-drivecombo-compositional-rules)
+- [Learnability-Driven Submodular Optimization for Active Roadside 3D Detection](../conferences/cvpr-2026/cards.md#paper-learnability-aware-active-geometry-labeling)
+- [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-pointworld)
+- [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](../conferences/cvpr-2026/cards.md#paper-afro-latent-dynamics)
 
 <!-- conference-classification:end -->

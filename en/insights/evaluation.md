@@ -1502,5 +1502,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](../../conferences/cvpr-2026/cards.md#paper-guide-oracle-context-for-assistance-triage)
 - [MangoBench: A Benchmark for Multi-Agent Goal-Conditioned Offline Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-mangobench-multi-goal-offline)
 - [DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-drivecombo-compositional-rules)
+- [Time Blindness: Why Video-Language Models Can't See What Humans Can?](../../conferences/cvpr-2026/cards.md#paper-spookybench-single-frame-uninformative-temporal-testing)
+- [FAVE: A Structured Benchmark for Fine-Grained Audio-Visual Temporal Evaluation in Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-fave-av-temporal-diagnostics)
 
 <!-- conference-classification:end -->

@@ -1185,5 +1185,12 @@ Learning across modalities such as images, text, audio, and video.
 - [Copy-Transform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints](../../conferences/cvpr-2026/cards.md#paper-copy-transform-paste)
 - [When to Think and When to Look: Uncertainty-Guided Lookback](../../conferences/cvpr-2026/cards.md#paper-uncertainty-guided-lookback)
 - [RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation](../../conferences/cvpr-2026/cards.md#paper-ramen-adjustable-output-resolution)
+- [Time Blindness: Why Video-Language Models Can't See What Humans Can?](../../conferences/cvpr-2026/cards.md#paper-spookybench-single-frame-uninformative-temporal-testing)
+- [BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-bagger-video)
+- [TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts](../../conferences/cvpr-2026/cards.md#paper-tag-moe)
+- [Image-to-Point Cloud Feature Back-Projection for Multimodal Training of 3D Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-ipfp-backprojection)
+- [Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table](../../conferences/cvpr-2026/cards.md#paper-llt-temporal-action)
+- [Improved Mean Flows: On the Challenges of Fastforward Generative Models](../../conferences/cvpr-2026/cards.md#paper-imf-instantaneous-regression)
+- [FAVE: A Structured Benchmark for Fine-Grained Audio-Visual Temporal Evaluation in Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-fave-av-temporal-diagnostics)
 
 <!-- conference-classification:end -->

@@ -2440,5 +2440,8 @@
 - [Thinking with Programming Vision: Towards a Unified View for Thinking with Images](../conferences/cvpr-2026/cards.md#paper-codevision-visual-transformations)
 - [HiconAgent: History Context-aware Policy Optimization for GUI Agents](../conferences/cvpr-2026/cards.md#paper-hcpo-compressed-history-policy-alignment)
 - [GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks](../conferences/cvpr-2026/cards.md#paper-guide-oracle-context-for-assistance-triage)
+- [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](../conferences/cvpr-2026/cards.md#paper-vilomem-visual-and-logical-memory-streams)
+- [Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs](../conferences/cvpr-2026/cards.md#paper-perception-programs-structured-cues)
+- [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](../conferences/cvpr-2026/cards.md#paper-proof-of-perception-conformal-tools)
 
 <!-- conference-classification:end -->

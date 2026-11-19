@@ -1076,5 +1076,10 @@
 - [Emergent Extreme-View Geometry in 3D Foundation Models](../conferences/cvpr-2026/cards.md#paper-extreme-view-bias-only-geometric-alignment)
 - [DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles](../conferences/cvpr-2026/cards.md#paper-dear-head-roles)
 - [UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation](../conferences/cvpr-2026/cards.md#paper-usthand-uncertainty-aware-pseudolabel-geometry)
+- [Tea-Adapter: Teacher Adapter for Efficient Conditional Generation](../conferences/cvpr-2026/cards.md#paper-tea-adapter-small-to-large-control-distillation)
+- [BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models](../conferences/cvpr-2026/cards.md#paper-bagger-video)
+- [Image-to-Point Cloud Feature Back-Projection for Multimodal Training of 3D Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-ipfp-backprojection)
+- [GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-geoguide-3d)
+- [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](../conferences/cvpr-2026/cards.md#paper-afro-latent-dynamics)
 
 <!-- conference-classification:end -->

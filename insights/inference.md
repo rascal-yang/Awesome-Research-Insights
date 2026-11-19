@@ -1482,5 +1482,7 @@
 - [GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-georelight-joint-geometry-relighting-diffusion)
 - [Copy-Transform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints](../conferences/cvpr-2026/cards.md#paper-copy-transform-paste)
 - [When to Think and When to Look: Uncertainty-Guided Lookback](../conferences/cvpr-2026/cards.md#paper-uncertainty-guided-lookback)
+- [Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table](../conferences/cvpr-2026/cards.md#paper-llt-temporal-action)
+- [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](../conferences/cvpr-2026/cards.md#paper-proof-of-perception-conformal-tools)
 
 <!-- conference-classification:end -->

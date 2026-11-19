@@ -2409,5 +2409,9 @@
 - [Yume1.5: A Text-Controlled Interactive World Generation Model](../conferences/cvpr-2026/cards.md#paper-yume-temporal-spatial-channel-context-compression)
 - [FedRG: Unleashing the Representation Geometry for Federated Learning with Noisy Clients](../conferences/cvpr-2026/cards.md#paper-fedrg-geometry-first-noisy-labels)
 - [Designing to Forget: Deep Semi-parametric Models for Unlearning](../conferences/cvpr-2026/cards.md#paper-semi-parametric-design-for-unlearning)
+- [Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-svd-cache-forecast-principal-stabilize-residual)
+- [Stepwise Credit Assignment for GRPO on Flow-Matching Models](../conferences/cvpr-2026/cards.md#paper-stepwise-flow-grpo-reward-gain-credit)
+- [Tea-Adapter: Teacher Adapter for Efficient Conditional Generation](../conferences/cvpr-2026/cards.md#paper-tea-adapter-small-to-large-control-distillation)
+- [Enhancing Visual Representation with Textual Semantics: Textual Semantics-Powered Prototypes for Heterogeneous Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedtsp-semantic-preserving-federated-prototypes)
 
 <!-- conference-classification:end -->

@@ -644,5 +644,9 @@
 - [GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport](../conferences/cvpr-2026/cards.md#paper-glint-radiance-transport)
 - [MUFASA: A Multi-Layer Framework for Slot Attention](../conferences/cvpr-2026/cards.md#paper-mufasa-multilayer-slots)
 - [RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation](../conferences/cvpr-2026/cards.md#paper-ramen-adjustable-output-resolution)
+- [Enhancing Visual Representation with Textual Semantics: Textual Semantics-Powered Prototypes for Heterogeneous Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedtsp-semantic-preserving-federated-prototypes)
+- [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-pointworld)
+- [Volumetric Functional Maps](../conferences/cvpr-2026/cards.md#paper-volumetric-functional-maps)
+- [Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs](../conferences/cvpr-2026/cards.md#paper-perception-programs-structured-cues)
 
 <!-- conference-classification:end -->
