@@ -881,5 +881,6 @@
 - [Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation](../../conferences/cvpr-2026/cards.md#paper-imat-interactive-language-memory-tracking)
 - [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](../../conferences/cvpr-2026/cards.md#paper-zoomearth-region-guided-active-cropping)
 - [Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-causalgcd-domain-shift-and-novel-category)
+- [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](../../conferences/cvpr-2026/cards.md#paper-longvt-native-temporal-cropping)
 
 <!-- conference-classification:end -->

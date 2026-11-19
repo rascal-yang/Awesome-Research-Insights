@@ -1694,5 +1694,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-compt-model-family-transfer)
 - [Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-marval-distilled-inner-loop)
 - [ViLearn: Accelerating Training Convergence of Image-to-3D Generation via Visibility Learning](../../conferences/cvpr-2026/cards.md#paper-vilearn-visibility-position-inductive-bias)
+- [Inference-time Physics Alignment of Video Generative Models with Latent World Models](../../conferences/cvpr-2026/cards.md#paper-latent-physics-reward-inference-video)
+- [VideoMaMa: Mask-Guided Video Matting via Generative Prior](../../conferences/cvpr-2026/cards.md#paper-synthetic-generative-matte-pseudolabeling)
+- [UniPercept: A Unified Diffusion Model for Generalizable Visual Perception](../../conferences/cvpr-2026/cards.md#paper-shared-diffusion-foundation-unseen-perception-adapters)
+- [PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation](../../conferences/cvpr-2026/cards.md#paper-prmagic-mask-gradient)
+- [Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition](../../conferences/cvpr-2026/cards.md#paper-tcei-short-long-track-memory)
+- [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](../../conferences/cvpr-2026/cards.md#paper-d4rt-unified-spatiotemporal-geometry-queries)
 
 <!-- conference-classification:end -->

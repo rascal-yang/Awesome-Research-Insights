@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,597 篇，其中 2,283 篇暂收录、1,314 篇排除，另有 445 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,627 篇，其中 2,304 篇暂收录、1,323 篇排除，另有 415 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2289,3 +2289,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,597
 | 多模态学习 | 时空表征 | [FlexiVideo: Variation-Aware Temporal Dynamics Modeling for Efficient Video Understanding](cards.md#paper-flexivideo-change-aware-temporal-segmentation) | 按视觉变化先找时间段，再在段内使用动态编码，避免固定窗口跨越突变。 |
 | 机器学习 | 域泛化 | [Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery](cards.md#paper-causalgcd-domain-shift-and-novel-category) | 当新类别和新域同时出现时，分开诊断环境偏差与聚类错误。 |
 | 多模态学习 | 强化学习与奖励 | [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](cards.md#paper-rc2-cross-modal-cycle-consistency-reward) | 用跨模态往返能否重建同一结论作为无标签奖励，比较与多数投票的差异。 |
+| 计算机视觉 | 推理策略 | [Inference-time Physics Alignment of Video Generative Models with Latent World Models](cards.md#paper-latent-physics-reward-inference-video) | 可用冻结世界模型评估多条去噪候选，在推理时改善物理一致性。 |
+| 计算机视觉 | 数据策略 | [VideoMaMa: Mask-Guided Video Matting via Generative Prior](cards.md#paper-synthetic-generative-matte-pseudolabeling) | 可先用合成样本训练掩码到 alpha 的专家，再给真实视频自动标注并蒸馏至部署骨干。 |
+| 多模态学习 | 模型架构 | [Hear What You See: Video-to-Audio Generation with Diffusion Transformer and Semantic-Temporal Alignment-Ranked Direct Preference Optimization](cards.md#paper-frame-aligned-cross-modal-audio-generation) | 跨模态生成可分别监督全局语义和逐帧同步，并在流模型中联合建模。 |
+| 多模态学习 | 表征学习 | [ORD: Object-Relation Decoupling for Generalized 3D Visual Grounding](cards.md#paper-explicit-target-anchor-relation-grounding) | 三维接地可分别编码对象与指向锚点的距离方向，减少依赖语义类名的捷径。 |
+| 机器人学 | 表征学习 | [PARSE: Part-Aware Relational Spatial Modeling](cards.md#paper-part-level-spatial-constraint-graphs) | 接触和支撑关系可以绑定到对象部位，并将图边转换成可解的几何约束。 |
+| 计算机视觉 | 模型架构 | [UniPercept: A Unified Diffusion Model for Generalizable Visual Perception](cards.md#paper-shared-diffusion-foundation-unseen-perception-adapters) | 可共享扩散感知骨干，让新任务通过轻量适配器加入，而无需为每个输出格式重训生成模型。 |
+| 多模态学习 | 训练策略 | [WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces](cards.md#paper-separated-grounding-and-planning-ui-training) | 可按画面、页面结构和动作对齐演示，并在中训中分别教授定位和规划。 |
+| 机器学习基础与统计 | 模型架构 | [Probabilistic Precipitation Nowcasting with Rectified Flow Transformers](cards.md#paper-freud-uncertainty-preserving-video) | 实时序列逐帧编码以便更新，联合概率解码保留时间一致性与不确定性。 |
+| 计算机视觉 | 推理策略 | [PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation](cards.md#paper-prmagic-mask-gradient) | 基于示例自动选出的提示可在冻结分割解码器内通过梯度细化。 |
+| 多模态学习 | 训练策略 | [EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling](cards.md#paper-evocomp-evolutionary-token-labels) | 让昂贵的离线搜索给轻量在线令牌选择器生成监督，并限制子集的语义冗余。 |
+| 机器学习基础与统计 | 优化策略 | [The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation](cards.md#paper-golden-subspace-continual-adaptation) | 在线测试适配优先更新与分类方向有关的低维特征，并用样本梯度估计该子空间。 |
+| 计算机视觉 | 推理策略 | [Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition](cards.md#paper-tcei-short-long-track-memory) | 跟踪在线适配分开使用短期记忆维持身份、长期统计修正域变化。 |
+| 多模态学习 | 模型架构 | [DynFusion: Rethinking Condition Fusion for Adaptive Multi-Conditional Text-to-Image Generation](cards.md#paper-dynfusion-heterogeneous-conditions) | 多种条件同时存在时，根据当前任务重新分配条件通道贡献。 |
+| 机器人学 | 模型架构 | [Long-SCOPE: Fully Sparse Long-Range Cooperative 3D Perception](cards.md#paper-longscope-sparse-cooperation) | 远距协同感知交换稀疏对象查询并学习带噪对应，避免构建大面积稠密鸟瞰图。 |
+| 智能体 | 主动感知 | [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](cards.md#paper-longvt-native-temporal-cropping) | 长视频先全局扫视，再让模型按证据需求选择时间段并重新采样细帧。 |
+| 生成模型 | 采样与调度 | [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](cards.md#paper-snrt-bias-wavelet-differential-correction) | 测量推理样本的实际信噪比是否与时间步匹配，并用频段差异做校正。 |
+| 机器人学 | 视觉 Token 筛选 | [Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors](cards.md#paper-sepatch3d-nearby-object-adaptive-patches) | 在多摄像头输入按场景选择 patch 大小，保留近物体细节和必要背景。 |
+| 三维视觉 | 时空表征 | [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](cards.md#paper-d4rt-unified-spatiotemporal-geometry-queries) | 用统一按需点查询输出深度、对应和相机参数，避免为每任务逐帧稠密解码。 |
+| 机器人学 | 测试时适配 | [CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection](cards.md#paper-cdbuffer-shift-adaptive-additive-subtractive-tta) | 根据偏移程度选择增补特征还是删除不可靠通道。 |
+| 生成模型 | 评测设计 | [Ref4D-VideoBench: Four-Dimensional Reference-Based Evaluation of Text-to-Video Generative Models](cards.md#paper-ref4d-reference-video-grounded-evaluation) | 对具有明确期望的生成任务，引入参考视频分开检查语义、动作、事件与时序。 |
+| 生成模型 | 知识蒸馏 | [Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation](cards.md#paper-adaptive-video-distillation-temporal-collapse) | 少步视频蒸馏应给空间回归设置动态权重，并单独约束时间崩塌。 |

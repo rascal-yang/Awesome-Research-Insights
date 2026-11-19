@@ -1628,5 +1628,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [4DP-QA: Scalable QA for 4D Perception in Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-4dpqa-fixed-reference-motion-qa)
 - [Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-downscaling-perception-bottleneck)
 - [FPS-Bench: A Benchmark for High Frame-Rate Video Understanding](../../conferences/cvpr-2026/cards.md#paper-fps-bench-minfps)
+- [Ref4D-VideoBench: Four-Dimensional Reference-Based Evaluation of Text-to-Video Generative Models](../../conferences/cvpr-2026/cards.md#paper-ref4d-reference-video-grounded-evaluation)
 
 <!-- conference-classification:end -->

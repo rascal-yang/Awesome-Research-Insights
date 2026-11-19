@@ -729,5 +729,6 @@
 - [MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models](../conferences/cvpr-2026/cards.md#paper-iterative-reward-expert-lora-merging)
 - [FedSST: Rethinking Fair Federated Graph Learning under Structural Shift](../conferences/cvpr-2026/cards.md#paper-structural-complexity-aware-federated-weighting)
 - [Bilevel Layer-Positioning LoRA for Real Image Dehazing](../conferences/cvpr-2026/cards.md#paper-bilevel-adapter-layer-selection)
+- [The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-golden-subspace-continual-adaptation)
 
 <!-- conference-classification:end -->

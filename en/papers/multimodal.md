@@ -1630,5 +1630,10 @@ Learning across modalities such as images, text, audio, and video.
 - [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](../../conferences/cvpr-2026/cards.md#paper-zoomearth-region-guided-active-cropping)
 - [FlexiVideo: Variation-Aware Temporal Dynamics Modeling for Efficient Video Understanding](../../conferences/cvpr-2026/cards.md#paper-flexivideo-change-aware-temporal-segmentation)
 - [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-rc2-cross-modal-cycle-consistency-reward)
+- [Hear What You See: Video-to-Audio Generation with Diffusion Transformer and Semantic-Temporal Alignment-Ranked Direct Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-frame-aligned-cross-modal-audio-generation)
+- [ORD: Object-Relation Decoupling for Generalized 3D Visual Grounding](../../conferences/cvpr-2026/cards.md#paper-explicit-target-anchor-relation-grounding)
+- [WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces](../../conferences/cvpr-2026/cards.md#paper-separated-grounding-and-planning-ui-training)
+- [EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling](../../conferences/cvpr-2026/cards.md#paper-evocomp-evolutionary-token-labels)
+- [DynFusion: Rethinking Condition Fusion for Adaptive Multi-Conditional Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-dynfusion-heterogeneous-conditions)
 
 <!-- conference-classification:end -->

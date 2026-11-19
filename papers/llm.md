@@ -2473,5 +2473,6 @@
 - [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](../conferences/cvpr-2026/cards.md#paper-viro-verification-integrated-operators)
 - [Resolving Evidence Sparsity: Agentic Context Engineering for Long-Document Understanding](../conferences/cvpr-2026/cards.md#paper-sleuth-evidence-sparsity-context-selection)
 - [WebGym: Scaling Training Environments for Long-Horizon Visual Web Agents with Realistic Tasks](../conferences/cvpr-2026/cards.md#paper-webgym-asynchronous-long-horizon-rollouts)
+- [LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling](../conferences/cvpr-2026/cards.md#paper-longvt-native-temporal-cropping)
 
 <!-- conference-classification:end -->

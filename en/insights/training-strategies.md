@@ -1369,5 +1369,8 @@ Training schedules, curricula, and task or stage composition.
 - [Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-compt-model-family-transfer)
 - [Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-marval-distilled-inner-loop)
 - [ViLearn: Accelerating Training Convergence of Image-to-3D Generation via Visibility Learning](../../conferences/cvpr-2026/cards.md#paper-vilearn-visibility-position-inductive-bias)
+- [WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces](../../conferences/cvpr-2026/cards.md#paper-separated-grounding-and-planning-ui-training)
+- [EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling](../../conferences/cvpr-2026/cards.md#paper-evocomp-evolutionary-token-labels)
+- [Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation](../../conferences/cvpr-2026/cards.md#paper-adaptive-video-distillation-temporal-collapse)
 
 <!-- conference-classification:end -->

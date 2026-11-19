@@ -834,5 +834,10 @@ Model-wide design and information flow.
 - [DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification](../../conferences/cvpr-2026/cards.md#paper-stochastic-binary-opacity-triangle-fields)
 - [LAMP: Localization Aware Multi-camera People Tracking in Metric 3D World](../../conferences/cvpr-2026/cards.md#paper-lamp-world-ray-tracking)
 - [Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors](../../conferences/cvpr-2026/cards.md#paper-points-to-3d-structural-inpainting)
+- [Hear What You See: Video-to-Audio Generation with Diffusion Transformer and Semantic-Temporal Alignment-Ranked Direct Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-frame-aligned-cross-modal-audio-generation)
+- [UniPercept: A Unified Diffusion Model for Generalizable Visual Perception](../../conferences/cvpr-2026/cards.md#paper-shared-diffusion-foundation-unseen-perception-adapters)
+- [Probabilistic Precipitation Nowcasting with Rectified Flow Transformers](../../conferences/cvpr-2026/cards.md#paper-freud-uncertainty-preserving-video)
+- [DynFusion: Rethinking Condition Fusion for Adaptive Multi-Conditional Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-dynfusion-heterogeneous-conditions)
+- [Long-SCOPE: Fully Sparse Long-Range Cooperative 3D Perception](../../conferences/cvpr-2026/cards.md#paper-longscope-sparse-cooperation)
 
 <!-- conference-classification:end -->

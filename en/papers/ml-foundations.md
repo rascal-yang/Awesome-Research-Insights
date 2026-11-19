@@ -2626,5 +2626,10 @@ General learning methods, optimization, learning theory, and inference.
 - [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](../../conferences/cvpr-2026/cards.md#paper-narrative-weaver-dynamic-visual-memory)
 - [Bilevel Layer-Positioning LoRA for Real Image Dehazing](../../conferences/cvpr-2026/cards.md#paper-bilevel-adapter-layer-selection)
 - [Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-causalgcd-domain-shift-and-novel-category)
+- [Probabilistic Precipitation Nowcasting with Rectified Flow Transformers](../../conferences/cvpr-2026/cards.md#paper-freud-uncertainty-preserving-video)
+- [The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-golden-subspace-continual-adaptation)
+- [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](../../conferences/cvpr-2026/cards.md#paper-snrt-bias-wavelet-differential-correction)
+- [Ref4D-VideoBench: Four-Dimensional Reference-Based Evaluation of Text-to-Video Generative Models](../../conferences/cvpr-2026/cards.md#paper-ref4d-reference-video-grounded-evaluation)
+- [Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation](../../conferences/cvpr-2026/cards.md#paper-adaptive-video-distillation-temporal-collapse)
 
 <!-- conference-classification:end -->

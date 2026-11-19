@@ -1168,5 +1168,9 @@ Robot perception, policy learning, planning, and control.
 - [The Midas Touch for Metric Depth](../../conferences/cvpr-2026/cards.md#paper-mtd-segmentwise-sparse-metric-depth)
 - [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-tvve-task-view-exploration)
 - [LAMP: Localization Aware Multi-camera People Tracking in Metric 3D World](../../conferences/cvpr-2026/cards.md#paper-lamp-world-ray-tracking)
+- [PARSE: Part-Aware Relational Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-part-level-spatial-constraint-graphs)
+- [Long-SCOPE: Fully Sparse Long-Range Cooperative 3D Perception](../../conferences/cvpr-2026/cards.md#paper-longscope-sparse-cooperation)
+- [Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors](../../conferences/cvpr-2026/cards.md#paper-sepatch3d-nearby-object-adaptive-patches)
+- [CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection](../../conferences/cvpr-2026/cards.md#paper-cdbuffer-shift-adaptive-additive-subtractive-tta)
 
 <!-- conference-classification:end -->

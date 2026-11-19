@@ -787,5 +787,8 @@
 - [4DSurf: High-Fidelity Dynamic Scene Surface Reconstruction](../conferences/cvpr-2026/cards.md#paper-gaussian-motion-induced-sdf-flow)
 - [GeoMotion: Rethinking Motion Segmentation via Latent 4D Geometry](../conferences/cvpr-2026/cards.md#paper-latent-geometry-motion-segmentation)
 - [FlexiVideo: Variation-Aware Temporal Dynamics Modeling for Efficient Video Understanding](../conferences/cvpr-2026/cards.md#paper-flexivideo-change-aware-temporal-segmentation)
+- [ORD: Object-Relation Decoupling for Generalized 3D Visual Grounding](../conferences/cvpr-2026/cards.md#paper-explicit-target-anchor-relation-grounding)
+- [PARSE: Part-Aware Relational Spatial Modeling](../conferences/cvpr-2026/cards.md#paper-part-level-spatial-constraint-graphs)
+- [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](../conferences/cvpr-2026/cards.md#paper-d4rt-unified-spatiotemporal-geometry-queries)
 
 <!-- conference-classification:end -->

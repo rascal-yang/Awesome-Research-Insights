@@ -1726,5 +1726,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-two-axis-efficient-diffusion-test-time-scaling)
 - [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-tvve-task-view-exploration)
 - [DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference](../../conferences/cvpr-2026/cards.md#paper-duet-vlm-two-stage-compression)
+- [Inference-time Physics Alignment of Video Generative Models with Latent World Models](../../conferences/cvpr-2026/cards.md#paper-latent-physics-reward-inference-video)
+- [PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation](../../conferences/cvpr-2026/cards.md#paper-prmagic-mask-gradient)
+- [Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition](../../conferences/cvpr-2026/cards.md#paper-tcei-short-long-track-memory)
+- [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](../../conferences/cvpr-2026/cards.md#paper-snrt-bias-wavelet-differential-correction)
+- [CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection](../../conferences/cvpr-2026/cards.md#paper-cdbuffer-shift-adaptive-additive-subtractive-tta)
 
 <!-- conference-classification:end -->

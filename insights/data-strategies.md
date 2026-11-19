@@ -476,5 +476,7 @@
 - [HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models](../conferences/cvpr-2026/cards.md#paper-hawk-importance-weighted-attention-head-pruning)
 - [Scalable Trajectory Generation for Whole-Body Mobile Manipulation](../conferences/cvpr-2026/cards.md#paper-unified-base-arm-object-kinematics-data-generation)
 - [FAST: Topology-Aware Frequency-Domain Distribution Matching for Coreset Selection](../conferences/cvpr-2026/cards.md#paper-fast-frequency-distribution-coreset)
+- [VideoMaMa: Mask-Guided Video Matting via Generative Prior](../conferences/cvpr-2026/cards.md#paper-synthetic-generative-matte-pseudolabeling)
+- [Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors](../conferences/cvpr-2026/cards.md#paper-sepatch3d-nearby-object-adaptive-patches)
 
 <!-- conference-classification:end -->
