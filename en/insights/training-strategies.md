@@ -889,5 +889,11 @@ Training schedules, curricula, and task or stage composition.
 - [Vocabulary Scaling Law: Tuning Open-vocabulary Predictors for Their Openness](../../conferences/cvpr-2026/cards.md#paper-svft)
 - [The Consistency Critic: Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment](../../conferences/cvpr-2026/cards.md#paper-imagecritic)
 - [StyleDoctor: Towards Specialist Reward Model for Style-centric Generation Tasks](../../conferences/cvpr-2026/cards.md#paper-styledoctor)
+- [Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](../../conferences/cvpr-2026/cards.md#paper-skyra-grounded-video-detection)
+- [Towards Robust Vision Transformers: Path Dependency Analysis and a Simple Two-Stage Adversarial Training](../../conferences/cvpr-2026/cards.md#paper-vit-robustness-paths)
+- [First Frame Is the Place to Go for Video Content Customization](../../conferences/cvpr-2026/cards.md#paper-ffgo)
+- [On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks](../../conferences/cvpr-2026/cards.md#paper-tg-reg)
+- [Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-dual-e)
+- [Boosting Quantitive and Spatial Awareness for Zero-Shot Object Counting](../../conferences/cvpr-2026/cards.md#paper-qica)
 
 <!-- conference-classification:end -->

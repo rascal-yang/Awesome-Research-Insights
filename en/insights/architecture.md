@@ -543,5 +543,13 @@ Model-wide design and information flow.
 - [RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space](../../conferences/cvpr-2026/cards.md#paper-raynova)
 - [ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-extrinsplat)
 - [From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing](../../conferences/cvpr-2026/cards.md#paper-evdehaze)
+- [MAMMA: Markerless Accurate Multi-person Motion Acquisition](../../conferences/cvpr-2026/cards.md#paper-mamma)
+- [Dual Graph Regularized Deep Unfolding Network for Guided Depth Map Super-resolution](../../conferences/cvpr-2026/cards.md#paper-lapnet)
+- [High-Quality and Efficient Turbulence Mitigation with Events](../../conferences/cvpr-2026/cards.md#paper-ehetm)
+- [Bidirectional Query-Driven Generation of Parametric CAD Sketch](../../conferences/cvpr-2026/cards.md#paper-cadsketcher)
+- [SRGCD: Stability-Driven Region Growth Framework for 3D Change Detection](../../conferences/cvpr-2026/cards.md#paper-srgcd)
+- [MoCoDiff: A Controllable Autoregressive Diffusion Model for Expressive Motion Generation](../../conferences/cvpr-2026/cards.md#paper-mocodiff)
+- [SHARP: Short-Window Streaming for Accurate and Robust Prediction in Motion Forecasting](../../conferences/cvpr-2026/cards.md#paper-sharp)
+- [SAM 3D Body: Robust Full-Body Human Mesh Recovery](../../conferences/cvpr-2026/cards.md#paper-sam-3d-body)
 
 <!-- conference-classification:end -->

@@ -1111,3 +1111,303 @@
 - **适用条件 / 局限** · 小字、密集表格及跨页证据可能在早期裁除，迁移时应按证据类型分层测。
 
 **可复用机制** · 先裁文档背景，再按问题挑证据，最后依模型理解程度调起始层。
+
+<a id="paper-pour-representation-unlearning"></a>
+
+## POUR: A Provably Optimal Method for Unlearning Representation via Neural Collapse
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Le_POUR_A_Provably_Optimal_Method_for_Unlearning_Representation_via_Neural_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Le_POUR_A_Provably_Optimal_Method_for_Unlearning_Representation_via_Neural_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 分类器不再输出某类时，内部仍可能保留识别该类的信息。
+- **核心创新 / 方法** · 利用神经坍塌下的类均值几何构造正交投影；另用特征蒸馏修改编码器，并以 CKA 构造表征遗忘评分。
+- **Baseline** · 对照原模型、重训、随机标签、梯度上升和边界调整；分别比较只修改分类端的 POUR-P 与修改表征的 POUR-D。
+- **Benchmark** · CIFAR-10/100、PathMNIST，另含 CLIP 与分割验证；记录保留/遗忘类分类、重新训练探针、CKA 和 RUS。
+- **关键结果 / 消融** · 表 1 中 POUR-D 的保留类准确率 92.86%，遗忘类 0.37%；相对原模型的 RUS 为 0.85。POUR-P 分类遗忘类为 0%，但编码器未改变，表征指标不参与比较。
+- **适用条件 / 局限** · 最优性依赖类先验平衡、近似各向同性等假设，实测表征相似度与分类错误率不能单独证明训练样本已被遗忘。
+
+**可复用机制** · 类别遗忘验收应分别检查输出、可恢复表征和保留类结构；神经坍塌近似成立时再比较投影与蒸馏。见定理 4.2 和表 1。
+
+<a id="paper-flowmotion"></a>
+
+## FlowMotion: Training-Free Flow Guidance for Video Motion Transfer
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_FlowMotion_Training-Free_Flow_Guidance_for_Video_Motion_Transfer_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_FlowMotion_Training-Free_Flow_Guidance_for_Video_Motion_Transfer_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 取视频扩散模型内部注意力或特征计算运动引导，往往内存占用较大且需要接入模型内部。
+- **核心创新 / 方法** · 从早期潜预测中提取跨帧运动表示，使生成视频与源视频运动对齐，并用速度正则稳定更新。
+- **Baseline** · 比较 DiTFlow、SMM、DeT、MotionInversion；消融速度正则及对齐，并比较不同引导项的显存。
+- **Benchmark** · 在所构建的视频运动迁移样本上报告文本相似、运动保真、时间一致性、运行时间和显存，另做人评。
+- **关键结果 / 消融** · 表 1 移植运动保真为 0.850，DiTFlow 为 0.691；显存分别为 19.3 和 63.5 GB。表 3 去速度正则后运动保真降至 0.809。
+- **适用条件 / 局限** · 对照骨干不同，不能把整段速度差都归因于引导方式；需要可访问流模型潜预测，遮挡或源目标几何显著不同仍应复测。
+
+**可复用机制** · 无训练视频运动迁移可直接用早期潜预测构造时间引导，并分开消融速度正则。见表 1、3–4。
+
+<a id="paper-skyra-grounded-video-detection"></a>
+
+## Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Skyra_AI-Generated_Video_Detection_via_Grounded_Artifact_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Skyra_AI-Generated_Video_Detection_via_Grounded_Artifact_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅报告视频真假分数难以复核模型是否识别了相关证据。
+- **核心创新 / 方法** · 先用人标视觉证据训练多模态检测器的解释和分类，再用强化学习改进检测维度。
+- **Baseline** · 比较去解释监督、去冷启动及去强化学习，并与专用检测器及通用多模态模型比较。
+- **Benchmark** · ViF-Bench 和 GenVideo 检测，评估准确率、召回、F1，以及变换后稳健性。
+- **关键结果 / 消融** · 表 4 的监督阶段有解释训练时 F1 为 88.76，去解释监督后为 16.72；追加强化学习的完整 F1 为 90.27。
+- **适用条件 / 局限** · 依赖人工证据标签覆盖，预测理由可读不能证明实际分类因果，也需独立核验新生成器和现实视频分布。
+
+**可复用机制** · 合成视频检测应将判断依据作为带人工标注的中间监督，并分别比较二分类和解释训练。见表 3–4。
+
+<a id="paper-lattice-voxset"></a>
+
+## LATTICE: Democratize High-Fidelity 3D Generation at Scale
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lai_LATTICE_Democratize_High-Fidelity_3D_Generation_at_Scale_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lai_LATTICE_Democratize_High-Fidelity_3D_Generation_at_Scale_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无结构潜向量便于压缩几何，但生成器缺少显式的空间锚来匹配局部细节。
+- **核心创新 / 方法** · 先生成稀疏粗体素几何锚，再用流 Transformer 生成体素索引下的压缩向量，解码细粒度几何。
+- **Baseline** · 比较 VecSet 类查询与 VoxSet 表示，以及 Michelangelo、Craftsman、Trellis、Hunyuan3D 和 Direct3D-s2。
+- **Benchmark** · 对三维几何重建和图像条件生成分别评估，生成报告 ULIP、Uni3D 相似度。
+- **关键结果 / 消融** · 表 2 的 Uni3D 文本相似度为 0.254，Hunyuan3D 2.0 为 0.251，图像相似度均为 0.315；图 10 对粗体素查询与 VoxSet 的细节贡献做了比较。
+- **适用条件 / 局限** · 粗体素锚若漏掉细小或分离部件，后续细化未必可恢复；自动嵌入相似度与局部拓扑或可制造性是不同指标。
+
+**可复用机制** · 三维资产生成可给压缩潜令牌绑定粗体素位置再生成精细几何，分别检查同分布重建和稀疏锚推理差异。见图 10、表 1–3。
+
+<a id="paper-deltaworld-delta-tokens"></a>
+
+## A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kerssies_A_Frame_is_Worth_One_Token_Efficient_Generative_World_Modeling_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kerssies_A_Frame_is_Worth_One_Token_Efficient_Generative_World_Modeling_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐帧生成多个可能未来计算昂贵，压缩完整帧又容易丢失跨帧小变化。
+- **核心创新 / 方法** · 在视觉基础模型特征空间将相邻帧差压成连续单个令牌，联合预测多个未来并监督最匹配的样本。
+- **Baseline** · 比较判别 DINO-world、直接多假设训练、整帧压缩，以及其他生成世界模型。
+- **Benchmark** · VSPW 和 Cityscapes 的短中期稠密分割预测，另看深度预测；报告最佳与平均 mIoU、FLOPs、时延与内存。
+- **关键结果 / 消融** · 表 2 中 Cityscapes 的中期最佳/平均 mIoU，整帧压缩为 42.7/35.5，差值压缩为 48.7/45.5；差值压缩计算量略高于整帧压缩。
+- **适用条件 / 局限** · 主要验证约 0.2 和 0.6 秒未来，单令牌能否保留突然的大变化和任务所需细节，以及更长滚动误差，仍需独立检查。
+
+**可复用机制** · 多未来世界模型可压缩相邻冻结视觉表示的差值，再对均值和最佳样本同时验收，避免奖励随机发散。见表 2–3。
+
+<a id="paper-harmony-synccfg"></a>
+
+## Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_Harmony_Harmonizing_Audio_and_Video_Generation_through_Cross-Task_Synergy_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_Harmony_Harmonizing_Audio_and_Video_Generation_through_Cross-Task_Synergy_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 联合去噪的噪声状态同时变化，常规条件引导改善各模态保真时仍可能漏掉时间同步。
+- **核心创新 / 方法** · 加入音频给定的视频生成和视频给定的音频生成辅助训练，分离全局风格和局部时间交互；推理时单独增强音视频对齐信号。
+- **Baseline** · 对照只用常规引导的基线，依次加入全局局部交互、时间尺度位置对齐、跨任务训练和 SyncCFG。
+- **Benchmark** · 比较环境声、说话人与复杂场景，表 3 在人类语音数据消融 Sync-C、Sync-D 和 IB；另报告视听质量。
+- **关键结果 / 消融** · 加 SyncCFG 前后 Sync-C 从 5.09 到 6.51，Sync-D 从 10.16 到 8.63；语音消融使用的设置与综合对比不同。
+- **适用条件 / 局限** · 需要音视频配对及时间尺度校准，语音同步指标不能覆盖所有环境音或多发声源，部署需考虑引导开销。
+
+**可复用机制** · 音视频联合扩散可把跨模态时间对齐引导与各模态的条件引导分开，并以同步指标独立消融。见 §3.4、表 3。
+
+<a id="paper-mamma"></a>
+
+## MAMMA: Markerless Accurate Multi-person Motion Acquisition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Velasquez_MAMMA_Markerless_Accurate_Multi-person_Motion_Acquisition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Velasquez_MAMMA_Markerless_Accurate_Multi-person_Motion_Acquisition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 稀疏关节点难以约束多人接触与遮挡时的人体表面。
+- **核心创新 / 方法** · 从分割掩码和每个标志点的可学查询得到接触与可见性感知的密集二维对应，再做多视人体拟合。
+- **Baseline** · 正文表1–2对照 Look-Ma、CameraHMR、带或不带 SAM2 掩码的 MammaNet。
+- **Benchmark** · 在 RICH、MOYO、Harmony4D、CHI3D 等报告标志点误差，多人表按人体框 IoU 大于0.5挑高重叠样本；另测穿透与三维拟合。
+- **关键结果 / 消融** · 表2 Harmony4D 中 CameraHMR 为32.84，MammaNet 无掩码31.96，加入 SAM2 掩码后18.33。
+- **适用条件 / 局限** · 掩码漏分会传播到对应估计；多视训练结论应在视角少或被同时遮挡时复测。
+
+**可复用机制** · 用逐人掩码及可见性约束密集表面对应，优先解决互相遮挡中的身份串扰。
+
+<a id="paper-lapnet"></a>
+
+## Dual Graph Regularized Deep Unfolding Network for Guided Depth Map Super-resolution
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_Dual_Graph_Regularized_Deep_Unfolding_Network_for_Guided_Depth_Map_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_Dual_Graph_Regularized_Deep_Unfolding_Network_for_Guided_Depth_Map_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 同一图结构容易把颜色纹理误写入深度，直接迭代图优化又增加处理成本。
+- **核心创新 / 方法** · 在引导深度超分辨中用双图拉普拉斯约束保留两类结构，并展开优化为固定步骤网络。
+- **Baseline** · 正文表1–2对比既有引导深度超分方法，图6–7比较正则和展开迭代设置。
+- **Benchmark** · 在合成降采样基准和真实 RGB-D-D 中报告深度 RMSE，按超分倍率分组。
+- **关键结果 / 消融** · 表1–2报告误差比较，图7显示迭代数可单独调以权衡重建精度和计算成本。
+- **适用条件 / 局限** · 需要配准的导引图像，颜色边缘与深度边缘不一致时应另行检查纹理串扰。
+
+**可复用机制** · 分别编码导引图像结构和深度本身的结构，再将图正则求解展开成可训练迭代。
+
+<a id="paper-vit-robustness-paths"></a>
+
+## Towards Robust Vision Transformers: Path Dependency Analysis and a Simple Two-Stage Adversarial Training
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Towards_Robust_Vision_Transformers_Path_Dependency_Analysis_and_a_Simple_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Towards_Robust_Vision_Transformers_Path_Dependency_Analysis_and_a_Simple_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉 Transformer 的早期表征与后期鲁棒特征面临不同优化需求。
+- **核心创新 / 方法** · 以遮挡内部梯度通路做防御诊断，并对不同训练阶段采用不同目标以缓解不稳定。
+- **Baseline** · 正文表3–4与标准训练、常规鲁棒训练及各阶段组件变体比较。
+- **Benchmark** · 在 CIFAR-10、ImageNette 上分别报告干净正确率与鲁棒正确率；另在 Pascal VOC 2012 评估语义分割迁移。
+- **关键结果 / 消融** · 正文表3–4报告两阶段方案的精度与鲁棒性，并用组件消融定位收益。
+- **适用条件 / 局限** · 结论依赖视觉 Transformer 与所测评估设定，不能自动外推到其他架构和威胁模型。
+
+**可复用机制** · 防御训练中分别审计残差通路与变换通路，验证统一扰动训练是否损伤早期表征。
+
+<a id="paper-ffgo"></a>
+
+## First Frame Is the Place to Go for Video Content Customization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_First_Frame_Is_the_Place_to_Go_for_Video_Content_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_First_Frame_Is_the_Place_to_Go_for_Video_Content_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 参考实体常靠专用适配或大量训练融入视频，难复用原图生视频能力。
+- **核心创新 / 方法** · 利用首帧可承载后续复用的参考对象，用少量示例适配原视频模型。
+- **Baseline** · Wan2.2-I2V-A14B 为基础；与原模型、SkyReels-A2、VACE 比较。
+- **Benchmark** · 正文表1由40位用户给出200次标注，衡量整体质量、对象身份、场景身份和排名。
+- **关键结果 / 消融** · 50个训练示例的 FFGo 获81.2%首选，VACE为11.1%；对象身份评分4.53对3.50。
+- **适用条件 / 局限** · 证据为特定生成骨干和人评，复杂遮挡及大量参考对象需测身份保持。
+
+**可复用机制** · 把视频模型首帧当作视觉实体记忆，可用少量示例训练模型复用其中实体。
+
+<a id="paper-ehetm"></a>
+
+## High-Quality and Efficient Turbulence Mitigation with Events
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_High-Quality_and_Efficient_Turbulence_Mitigation_with_Events_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_High-Quality_and_Efficient_Turbulence_Mitigation_with_Events_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 湍流复原依赖更多传统帧会拉长延迟，且边缘易受随机形变影响。
+- **核心创新 / 方法** · 融合传统帧与高时间分辨率事件，利用湍流诱发事件的反向变化补充结构与运动线索。
+- **Baseline** · 表1比较单帧及多帧复原方法，含 DATUM；表2分别消融事件处理和运动对齐。
+- **Benchmark** · CTTH、LATH、UDET，报告 PSNR、SSIM、LPIPS、NIQE 和系统耗时。
+- **关键结果 / 消融** · 正文相对 DATUM 报告 PSNR 提高0.38 dB，5帧加事件设置为29.5 FPS、160 ms。
+- **适用条件 / 局限** · 依赖同步帧与事件观测、极性线索和设备标定；真实物体运动可能混入扰动估计。
+
+**可复用机制** · 把事件极性交替当作边缘线索、事件方向用于去除扰动运动，在同等时延下比较帧序列重建。
+
+<a id="paper-cadsketcher"></a>
+
+## Bidirectional Query-Driven Generation of Parametric CAD Sketch
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Bidirectional_Query-Driven_Generation_of_Parametric_CAD_Sketch_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Bidirectional_Query-Driven_Generation_of_Parametric_CAD_Sketch_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 参数化 CAD 草图可从不完整、任意跨度的状态继续，单向序列模型容易忽略另一侧上下文。
+- **核心创新 / 方法** · 双向查询生成前后候选，置信门选择扩展方向，以编译检查和渐进上下文更新保持可执行性。
+- **Baseline** · 表 1 对比其他草图补全法，表 2 在 CAD as a Language 上做跨数据验证。
+- **Benchmark** · 部分到完整补全与早期草图扩展，报告多级准确率、F1、无效比例和分布覆盖。
+- **关键结果 / 消融** · 正文分别消融双向序列与位置编码；完整方案在表 1 的补全结果报告无效比例为 0。
+- **适用条件 / 局限** · 可执行不等于符合设计意图；依赖已有 CAD 操作和约束语言。
+
+**可复用机制** · 将草图续写改为缺口两侧的候选扩展，并用执行检查决定保留方向。
+
+<a id="paper-illustrators-depth"></a>
+
+## Illustrator's Depth: Monocular Layer Index Prediction for Image Decomposition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Maruani_Illustrators_Depth_Monocular_Layer_Index_Prediction_for_Image_Decomposition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Maruani_Illustrators_Depth_Monocular_Layer_Index_Prediction_for_Image_Decomposition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 物理深度会把同一可编辑部件映成多个距离，无法直接给一致的图层遮挡顺序。
+- **核心创新 / 方法** · 用分层矢量图监督像素的全局一致离散图层索引，并将索引用到矢量化。
+- **Baseline** · 对照 Depth Pro、Depth Anything v2 和 Vtracer、LIVE、StarVector 等矢量化方法。
+- **Benchmark** · 在 MMSVG 比较层预测与渲染结果，并在下游矢量化中测试效果；表 2 消融数据清理、深度先验和视差空间。
+- **关键结果 / 消融** · 正文显示物理深度模型在层次排序上表现较弱，专门训练的层预测改善矢量化。
+- **适用条件 / 局限** · 插画层标签依创作者的可编辑目的，同一图可有多个合理分层，照片表示需另验。
+
+**可复用机制** · 编辑任务使用离散图层次序而不是物理深度，用可编辑渲染检验分解。
+
+<a id="paper-tg-reg"></a>
+
+## On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_On_the_Role_of_Temporal_Granularity_in_the_Robustness_of_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_On_the_Role_of_Temporal_Granularity_in_the_Robustness_of_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 按总序列聚合鲁棒性会掩盖少数高敏感时间步。
+- **核心创新 / 方法** · 用逐步 Temporal Sensitivity Value 估计鲁棒性，并以 TG-Reg 约束整条时间轴的敏感度。
+- **Baseline** · 与基线训练及其他鲁棒训练对照，表 1 比较不同时间约束。
+- **Benchmark** · 含 CIFAR100 上 VGG11、8 时间步配置，分报正常性能及防护评测。
+- **关键结果 / 消融** · 正文报告逐步正则能改善整体鲁棒性，验证不限于训练直接观察的条件。
+- **适用条件 / 局限** · 只能在既定架构、时间分辨率和防护测评设定中解释敏感度。
+
+**可复用机制** · 按时间步监测脉冲网络敏感度并正则不稳定步，同时保留干净准确率验收。
+
+<a id="paper-srgcd"></a>
+
+## SRGCD: Stability-Driven Region Growth Framework for 3D Change Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_SRGCD_Stability-Driven_Region_Growth_Framework_for_3D_Change_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_SRGCD_Stability-Driven_Region_Growth_Framework_for_3D_Change_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐点分类易让变化区内部留空、边沿模糊，扫描噪声和类不平衡会放大问题。
+- **核心创新 / 方法** · 用几何一致性筛高置信种子，逐步扩展稳定区域并优化点特征。
+- **Baseline** · 比较传统、CNN 和 Transformer 方法；表 3 消融种子及传播设计。
+- **Benchmark** · Urb3DCD-V1 与实景 HKCD，用 mIoU、mAcc 核对变化。
+- **关键结果 / 消融** · 表 1 的 SRGCD 报告 94.11 mIoU、96.95 mAcc；表 2 对实景也有独立比较。
+- **适用条件 / 局限** · 小而孤立变化及无可靠种子的区域可能无法充分扩展，边界应另测。
+
+**可复用机制** · 变化检测从可信种子生长连通区域，再显式约束边界。
+
+<a id="paper-mocodiff"></a>
+
+## MoCoDiff: A Controllable Autoregressive Diffusion Model for Expressive Motion Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_MoCoDiff_A_Controllable_Autoregressive_Diffusion_Model_for_Expressive_Motion_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_MoCoDiff_A_Controllable_Autoregressive_Diffusion_Model_for_Expressive_Motion_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多条件共用通道会互相干扰，长段自回归还会累积漂移。
+- **核心创新 / 方法** · 用独立线性注入模块处理每类条件，用时序模块在不同去噪阶段引入历史。
+- **Baseline** · 比较已有文本／风格动作生成，另比较逐帧和较短上下文方式。
+- **Benchmark** · 表 1–2 测内容保留、风格保真、转场和生成效率。
+- **关键结果 / 消融** · 正文报告冻结骨干基础上的多路控制能兼顾长时转场平滑及风格，不必针对每种组合重训。
+- **适用条件 / 局限** · 需基础模型覆盖各条件；分支独立不等于输出因素在新动作中完全解耦。
+
+**可复用机制** · 冻结动作生成骨干时分开注入文本、风格及历史，对历史采用时步相关校正。
+
+<a id="paper-sharp"></a>
+
+## SHARP: Short-Window Streaming for Accurate and Robust Prediction in Motion Forecasting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Prutsch_SHARP_Short-Window_Streaming_for_Accurate_and_Robust_Prediction_in_Motion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Prutsch_SHARP_Short-Window_Streaming_for_Accurate_and_Robust_Prediction_in_Motion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 代理进入视野时间不同，用固定观察长度训练会使短历史与长历史的预测品质不一致。
+- **核心创新 / 方法** · 实例级保存和递增更新隐状态，通过双目标让不同已观测窗口长度都能预测。
+- **Baseline** · 与其他流式轨迹方法在默认配置比较，表 2 不用模型集成。
+- **Benchmark** · Argoverse 2 多代理，nuScenes 和 Argoverse 1 单代理；按历史及预测时刻报告 minADE、minFDE、漏检、Brier 与时延。
+- **关键结果 / 消融** · 表 1 在多组上下文长度下测量，表 2 提供多代理无集成结果；论文报告对短历史的稳健性和低时延。
+- **适用条件 / 局限** · 依赖主体关联稳定，身份错配或突然出现的新主体仍要专项验收。
+
+**可复用机制** · 流式轨迹预测按主体更新记忆，并联合训练不同历史长度。
+
+<a id="paper-dual-e"></a>
+
+## Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Dual-Estimator_Decoupling_Global_and_Local_Semantic_Shift_for_Drift_Compensation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Dual-Estimator_Decoupling_Global_and_Local_Semantic_Shift_for_Drift_Compensation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 以均匀方向校正旧类表征会忽略低频类及类间漂移程度的差异。
+- **核心创新 / 方法** · 局部专家建模任务内漂移，再以类级全局投影选择校正尺度。
+- **Baseline** · 比较既有 exemplar-free 增量算法，并将模块接入现有方法，对照其他漂移补偿。
+- **Benchmark** · CIFAR-100、TinyImageNet 和 ImageNet-Subset 的 10/20 任务划分及细粒度数据，测平均和结束准确率。
+- **关键结果 / 消融** · 表 1 和表 4 分别比较独立方法与可插入性，不同类上的涨幅允许独立检查。
+- **适用条件 / 局限** · 输入流如果缺代表性旧语义，局部估计可能不可靠；还需保持同一任务划分。
+
+**可复用机制** · 无回放增量学习把局部语义漂移和类级全局变化分开校正。
+
+<a id="paper-sam-3d-body"></a>
+
+## SAM 3D Body: Robust Full-Body Human Mesh Recovery
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_SAM_3D_Body_Robust_Full-Body_Human_Mesh_Recovery_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_SAM_3D_Body_Robust_Full-Body_Human_Mesh_Recovery_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单图人体网格容易在罕见姿势、遮挡及手脚细节上失效。
+- **核心创新 / 方法** · 使用 Momentum Human Rig 将骨架和表面参数分离，在编码解码器中接入可选掩码及关键点提示。
+- **Baseline** · 表 2 比较已有 HMR，标明公开权重及是否训练用 RICH。
+- **Benchmark** · 五套人体网格数据，对姿态和表面使用关节与网格误差评估。
+- **关键结果 / 消融** · 表 2 比较两种骨干配置，正文展示提示可用于难见人体局部重估。
+- **适用条件 / 局限** · 整体系统含多阶段标注，需单独控制标注、骨干和提示，才能确认具体表示的增量。
+
+**可复用机制** · 人体网格模型用骨骼与表面解耦的身体表示，并把二维提示用于难例修正。
+
+<a id="paper-qica"></a>
+
+## Boosting Quantitive and Spatial Awareness for Zero-Shot Object Counting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Boosting_Quantitive_and_Spatial_Awareness_for_Zero-Shot_Object_Counting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Boosting_Quantitive_and_Spatial_Awareness_for_Zero-Shot_Object_Counting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 按类别特化训练计数解码器会抹掉预训练的开放词汇能力，局部密度和总量也可能冲突。
+- **核心创新 / 方法** · 在图文相似度上做空间代价聚合，并用多级数量一致损失约束全管线。
+- **Baseline** · FSC-147 对比零样本方法和带样例方法，区分是否微调、所用骨干。
+- **Benchmark** · FSC-147、CARPK、ShanghaiTech-A，以 MAE/RMSE 衡量；后两项用于跨域。
+- **关键结果 / 消融** · 表 1 的 ViT-L/14 在 FSC-147 测试为 12.41 MAE、97.28 RMSE；CARPK 无微调达到 6.07 MAE。
+- **适用条件 / 局限** · 图文相似度未必能分开密集且极小物体，跨类评价需核目标词描述。
+
+**可复用机制** · 开放词汇计数直接处理图文相似度图，并让不同读出层的总量一致。

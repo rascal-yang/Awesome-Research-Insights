@@ -847,5 +847,6 @@ Robot perception, policy learning, planning, and control.
 - [FloVerse: Floor Plan-Guided Multi-Modal Navigation](../../conferences/cvpr-2026/cards.md#paper-floverse)
 - [ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors](../../conferences/cvpr-2026/cards.md#paper-conceptpose)
 - [CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention](../../conferences/cvpr-2026/cards.md#paper-causalvad-shortcut-intervention)
+- [SHARP: Short-Window Streaming for Accurate and Robust Prediction in Motion Forecasting](../../conferences/cvpr-2026/cards.md#paper-sharp)
 
 <!-- conference-classification:end -->

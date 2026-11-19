@@ -526,5 +526,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Anomaly-Related Residual Fields for Cross-domain Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-anomaly-residual-evolution-field)
 - [ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors](../../conferences/cvpr-2026/cards.md#paper-conceptpose)
 - [One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework](../../conferences/cvpr-2026/cards.md#paper-patch-ioner)
+- [POUR: A Provably Optimal Method for Unlearning Representation via Neural Collapse](../../conferences/cvpr-2026/cards.md#paper-pour-representation-unlearning)
+- [LATTICE: Democratize High-Fidelity 3D Generation at Scale](../../conferences/cvpr-2026/cards.md#paper-lattice-voxset)
+- [A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens](../../conferences/cvpr-2026/cards.md#paper-deltaworld-delta-tokens)
 
 <!-- conference-classification:end -->

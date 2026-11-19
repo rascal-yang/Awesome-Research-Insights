@@ -959,5 +959,18 @@ Visual representation, recognition, reconstruction, and generation.
 - [SPEGC: Continual Test-Time Adaptation via Semantic-Prompt-Enhanced Graph Clustering for Medical Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-spegc)
 - [ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-extrinsplat)
 - [From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing](../../conferences/cvpr-2026/cards.md#paper-evdehaze)
+- [FlowMotion: Training-Free Flow Guidance for Video Motion Transfer](../../conferences/cvpr-2026/cards.md#paper-flowmotion)
+- [LATTICE: Democratize High-Fidelity 3D Generation at Scale](../../conferences/cvpr-2026/cards.md#paper-lattice-voxset)
+- [A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens](../../conferences/cvpr-2026/cards.md#paper-deltaworld-delta-tokens)
+- [MAMMA: Markerless Accurate Multi-person Motion Acquisition](../../conferences/cvpr-2026/cards.md#paper-mamma)
+- [Dual Graph Regularized Deep Unfolding Network for Guided Depth Map Super-resolution](../../conferences/cvpr-2026/cards.md#paper-lapnet)
+- [Towards Robust Vision Transformers: Path Dependency Analysis and a Simple Two-Stage Adversarial Training](../../conferences/cvpr-2026/cards.md#paper-vit-robustness-paths)
+- [First Frame Is the Place to Go for Video Content Customization](../../conferences/cvpr-2026/cards.md#paper-ffgo)
+- [High-Quality and Efficient Turbulence Mitigation with Events](../../conferences/cvpr-2026/cards.md#paper-ehetm)
+- [Bidirectional Query-Driven Generation of Parametric CAD Sketch](../../conferences/cvpr-2026/cards.md#paper-cadsketcher)
+- [Illustrator's Depth: Monocular Layer Index Prediction for Image Decomposition](../../conferences/cvpr-2026/cards.md#paper-illustrators-depth)
+- [SRGCD: Stability-Driven Region Growth Framework for 3D Change Detection](../../conferences/cvpr-2026/cards.md#paper-srgcd)
+- [SAM 3D Body: Robust Full-Body Human Mesh Recovery](../../conferences/cvpr-2026/cards.md#paper-sam-3d-body)
+- [Boosting Quantitive and Spatial Awareness for Zero-Shot Object Counting](../../conferences/cvpr-2026/cards.md#paper-qica)
 
 <!-- conference-classification:end -->

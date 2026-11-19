@@ -1304,5 +1304,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients](../../conferences/cvpr-2026/cards.md#paper-qig-ptq)
 - [SPEGC: Continual Test-Time Adaptation via Semantic-Prompt-Enhanced Graph Clustering for Medical Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-spegc)
 - [DocPrune: Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning](../../conferences/cvpr-2026/cards.md#paper-docprune)
+- [FlowMotion: Training-Free Flow Guidance for Video Motion Transfer](../../conferences/cvpr-2026/cards.md#paper-flowmotion)
+- [Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](../../conferences/cvpr-2026/cards.md#paper-harmony-synccfg)
 
 <!-- conference-classification:end -->

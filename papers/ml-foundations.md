@@ -2284,5 +2284,8 @@
 - [Functional Mean Flow in Hilbert Space](../conferences/cvpr-2026/cards.md#paper-functional-mean-flow)
 - [AdaBet: Gradient-free Layer Selection for Efficient Training of Deep Neural Networks](../conferences/cvpr-2026/cards.md#paper-adabet)
 - [GR-Gauge: Cost-efficient Training Configuration By Gauging the Gradient Redundancy](../conferences/cvpr-2026/cards.md#paper-gr-gauge)
+- [POUR: A Provably Optimal Method for Unlearning Representation via Neural Collapse](../conferences/cvpr-2026/cards.md#paper-pour-representation-unlearning)
+- [On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks](../conferences/cvpr-2026/cards.md#paper-tg-reg)
+- [Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-dual-e)
 
 <!-- conference-classification:end -->

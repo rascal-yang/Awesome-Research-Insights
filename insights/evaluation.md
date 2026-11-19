@@ -1407,5 +1407,6 @@
 - [GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning](../conferences/cvpr-2026/cards.md#paper-graphvlm)
 - [MovieRecapsQA: A Multimodal Open-Ended Video Question-Answering Benchmark](../conferences/cvpr-2026/cards.md#paper-movierecapsqa)
 - [Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](../conferences/cvpr-2026/cards.md#paper-contrastive-attention-fusion)
+- [Illustrator's Depth: Monocular Layer Index Prediction for Image Decomposition](../conferences/cvpr-2026/cards.md#paper-illustrators-depth)
 
 <!-- conference-classification:end -->

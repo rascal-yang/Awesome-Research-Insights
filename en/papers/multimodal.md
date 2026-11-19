@@ -882,5 +882,8 @@ Learning across modalities such as images, text, audio, and video.
 - [Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](../../conferences/cvpr-2026/cards.md#paper-contrastive-attention-fusion)
 - [Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-d2-align)
 - [DocPrune: Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning](../../conferences/cvpr-2026/cards.md#paper-docprune)
+- [Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](../../conferences/cvpr-2026/cards.md#paper-skyra-grounded-video-detection)
+- [Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](../../conferences/cvpr-2026/cards.md#paper-harmony-synccfg)
+- [MoCoDiff: A Controllable Autoregressive Diffusion Model for Expressive Motion Generation](../../conferences/cvpr-2026/cards.md#paper-mocodiff)
 
 <!-- conference-classification:end -->
