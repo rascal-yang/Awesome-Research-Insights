@@ -1470,5 +1470,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising](../../conferences/cvpr-2026/cards.md#paper-tm-bsn)
 - [Adaptive Capacity Autoregressive Visual Tracking](../../conferences/cvpr-2026/cards.md#paper-artrack-ac-forecast-inference-capacity)
 - [SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs](../../conferences/cvpr-2026/cards.md#paper-sope-spherical-positional-encoding)
+- [SimLBR: Learning to Detect Fake Images by Learning to Detect Real Images](../../conferences/cvpr-2026/cards.md#paper-inlier-boundary-latent-blending)
+- [Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals](../../conferences/cvpr-2026/cards.md#paper-phase-local-distribution-distillation)
+- [EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing](../../conferences/cvpr-2026/cards.md#paper-effecterase)
+- [ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding](../../conferences/cvpr-2026/cards.md#paper-redirector-roce)
+- [RINO: Rotation-Invariant Non-Rigid Correspondences](../../conferences/cvpr-2026/cards.md#paper-rino-so3-invariant-nonrigid-correspondence)
+- [Native and Compact Structured Latents for 3D Generation](../../conferences/cvpr-2026/cards.md#paper-o-voxel-native-structured-latent)
 
 <!-- conference-classification:end -->

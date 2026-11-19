@@ -845,5 +845,7 @@
 - [Real-World Point Tracking with Verifier-Guided Pseudo-Labeling](../../conferences/cvpr-2026/cards.md#paper-verifier-per-frame-pseudo-label-selection)
 - [Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models](../../conferences/cvpr-2026/cards.md#paper-mmhnet-train-short-test-long)
 - [Decompose, Mix, Adapt: A Unified Framework for Parameter-Efficient Neural Network Recombination and Compression](../../conferences/cvpr-2026/cards.md#paper-crisp-shared-basis-recombination)
+- [DualReg: Dual-Space Filtering and Reinforcement for Rigid Registration](../../conferences/cvpr-2026/cards.md#paper-dualreg-filtered-anchors-geometric-refinement)
+- [UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling](../../conferences/cvpr-2026/cards.md#paper-ufo-visible-recurrent-scene-tokens)
 
 <!-- conference-classification:end -->

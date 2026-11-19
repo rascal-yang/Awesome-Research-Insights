@@ -1190,5 +1190,9 @@ Training schedules, curricula, and task or stage composition.
 - [OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-object-localized-self-preference)
 - [Diffusion Guided Chain-of-Vision for Large Autoregressive Vision Models](../../conferences/cvpr-2026/cards.md#paper-diffusion-intermediate-visual-supervision)
 - [ReMoT: Reinforcement Learning with Motion Contrast Triplets](../../conferences/cvpr-2026/cards.md#paper-remot-motion-contrast)
+- [SimLBR: Learning to Detect Fake Images by Learning to Detect Real Images](../../conferences/cvpr-2026/cards.md#paper-inlier-boundary-latent-blending)
+- [Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals](../../conferences/cvpr-2026/cards.md#paper-phase-local-distribution-distillation)
+- [EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing](../../conferences/cvpr-2026/cards.md#paper-effecterase)
+- [Heterogeneous Decentralized Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-heterogeneous-diffusion-topk-expert-fusion)
 
 <!-- conference-classification:end -->

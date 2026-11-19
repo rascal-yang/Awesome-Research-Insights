@@ -1027,5 +1027,10 @@
 - [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-drivemoe-view-skill-routing)
 - [Spatial Retrieval Augmented Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-spatial-retrieval-driving)
 - [ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-colavla-latent-meta-action-planning)
+- [UniPixie: Unified and Probabilistic 3D Physics Learning via Flow Matching](../conferences/cvpr-2026/cards.md#paper-probabilistic-material-fields-single-view)
+- [AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots](../conferences/cvpr-2026/cards.md#paper-atomic-skill-expert-routing-vla)
+- [Learning a Unified Latent Action Space from Videos with Action-centric Cycle Consistency](../conferences/cvpr-2026/cards.md#paper-latent-action-cycle-consistency)
+- [DualReg: Dual-Space Filtering and Reinforcement for Rigid Registration](../conferences/cvpr-2026/cards.md#paper-dualreg-filtered-anchors-geometric-refinement)
+- [UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling](../conferences/cvpr-2026/cards.md#paper-ufo-visible-recurrent-scene-tokens)
 
 <!-- conference-classification:end -->

@@ -472,5 +472,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis](../../conferences/cvpr-2026/cards.md#paper-cacr-cross-reconstruction)
 - [CTCal: Rethinking Text-to-Image Diffusion Models via Cross-Timestep Self-Calibration](../../conferences/cvpr-2026/cards.md#paper-ctcal-cross-timestep)
 - [Stable Mean Flow: Lyapunov-Inspired One-Step Flow Matching](../../conferences/cvpr-2026/cards.md#paper-stable-mean-flow-local-nonexpansivity)
+- [SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning](../../conferences/cvpr-2026/cards.md#paper-soc-semantic-orthogonal)
+- [Learning a Unified Latent Action Space from Videos with Action-centric Cycle Consistency](../../conferences/cvpr-2026/cards.md#paper-latent-action-cycle-consistency)
+- [ORION: ORthonormal Text Encoding for Universal VLM AdaptatION](../../conferences/cvpr-2026/cards.md#paper-orion-text-prototypes)
 
 <!-- conference-classification:end -->

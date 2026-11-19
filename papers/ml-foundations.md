@@ -2510,5 +2510,6 @@
 - [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](../conferences/cvpr-2026/cards.md#paper-higrpo-token-and-semantic-policy-optimization)
 - [Decompose, Mix, Adapt: A Unified Framework for Parameter-Efficient Neural Network Recombination and Compression](../conferences/cvpr-2026/cards.md#paper-crisp-shared-basis-recombination)
 - [Stable Mean Flow: Lyapunov-Inspired One-Step Flow Matching](../conferences/cvpr-2026/cards.md#paper-stable-mean-flow-local-nonexpansivity)
+- [Heterogeneous Decentralized Diffusion Models](../conferences/cvpr-2026/cards.md#paper-heterogeneous-diffusion-topk-expert-fusion)
 
 <!-- conference-classification:end -->

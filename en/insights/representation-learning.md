@@ -725,5 +725,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](../../conferences/cvpr-2026/cards.md#paper-lifted-affinity-distillation-affordance)
 - [Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-frozen-foundation-tokenizer-diffusion)
 - [SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs](../../conferences/cvpr-2026/cards.md#paper-sope-spherical-positional-encoding)
+- [UniPixie: Unified and Probabilistic 3D Physics Learning via Flow Matching](../../conferences/cvpr-2026/cards.md#paper-probabilistic-material-fields-single-view)
+- [Boosting Visual Reprogramming for CLIP with Dual Granularity Alignment](../../conferences/cvpr-2026/cards.md#paper-multiscale-hierarchical-clip-reprogramming)
+- [RINO: Rotation-Invariant Non-Rigid Correspondences](../../conferences/cvpr-2026/cards.md#paper-rino-so3-invariant-nonrigid-correspondence)
 
 <!-- conference-classification:end -->

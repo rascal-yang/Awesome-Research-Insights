@@ -1389,5 +1389,13 @@ Learning across modalities such as images, text, audio, and video.
 - [ReMoT: Reinforcement Learning with Motion Contrast Triplets](../../conferences/cvpr-2026/cards.md#paper-remot-motion-contrast)
 - [LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-llmind-adaptive-sampling)
 - [EduDiag: A Benchmark for Educational Diagnostic Reasoning with Error Tracing and Correction on Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-edudiag-error-reconstruction-and-correction)
+- [Breaking the Illusion: When Positive Meets Negative in Multimodal Decoding](../../conferences/cvpr-2026/cards.md#paper-dual-evidence-counterfactual-decoding)
+- [Boosting Visual Reprogramming for CLIP with Dual Granularity Alignment](../../conferences/cvpr-2026/cards.md#paper-multiscale-hierarchical-clip-reprogramming)
+- [Granulon: Awakening Pixel-Level Visual Encoders with Adaptive Multi-Granularity Semantics for MLLM](../../conferences/cvpr-2026/cards.md#paper-query-conditioned-dino-token-granularity)
+- [SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts](../../conferences/cvpr-2026/cards.md#paper-souple-audio-visual)
+- [Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection](../../conferences/cvpr-2026/cards.md#paper-herod-reasoning-priors)
+- [SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning](../../conferences/cvpr-2026/cards.md#paper-soc-semantic-orthogonal)
+- [Language-Free Generative Editing from One Visual Example](../../conferences/cvpr-2026/cards.md#paper-visual-diffusion-conditioning)
+- [ORION: ORthonormal Text Encoding for Universal VLM AdaptatION](../../conferences/cvpr-2026/cards.md#paper-orion-text-prototypes)
 
 <!-- conference-classification:end -->

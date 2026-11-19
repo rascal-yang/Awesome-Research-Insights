@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,427 篇，其中 1,539 篇暂收录、888 篇排除，另有 1,615 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,457 篇，其中 1,559 篇暂收录、898 篇排除，另有 1,585 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1545,3 +1545,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,427
 | 三维视觉 | 空间位置编码 | [SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs](cards.md#paper-sope-spherical-positional-encoding) | 为 3D 多模态模型选择同时表达距离和角度的位置编码。 |
 | 多模态学习 | 评测设计 | [EduDiag: A Benchmark for Educational Diagnostic Reasoning with Error Tracing and Correction on Large Multimodal Models](cards.md#paper-edudiag-error-reconstruction-and-correction) | 把反馈能力拆为错误定位、重建错误逻辑及纠正，可迁移到智能体失败诊断。 |
 | 机器人学 | 行动规划 | [ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving](cards.md#paper-colavla-latent-meta-action-planning) | 将语言推理压缩为潜在元动作，用层级并行解码生成连续轨迹，减少自回归延迟。 |
+| 多模态学习 | 推理策略 | [Breaking the Illusion: When Positive Meets Negative in Multimodal Decoding](cards.md#paper-dual-evidence-counterfactual-decoding) | 多模态解码可以同时用增强证据与移除证据的视图校正语言先验。 |
+| 机器人学 | 表征学习 | [UniPixie: Unified and Probabilistic 3D Physics Learning via Flow Matching](cards.md#paper-probabilistic-material-fields-single-view) | 单张图像无法辨识材料刚度时，可以预测可控的仿真参数分布以测试多个物理假设。 |
+| 计算机视觉 | 训练策略 | [SimLBR: Learning to Detect Fake Images by Learning to Detect Real Images](cards.md#paper-inlier-boundary-latent-blending) | 开放集判别可围绕可信正类学习紧致边界，用潜空间混合正则弱化对单一负类分布的依赖。 |
+| 多模态学习 | 表征学习 | [Boosting Visual Reprogramming for CLIP with Dual Granularity Alignment](cards.md#paper-multiscale-hierarchical-clip-reprogramming) | 冻结图文模型做少样本适配时，可同时利用图像尺度不确定性和标签父类结构。 |
+| 多模态学习 | 模型架构 | [Granulon: Awakening Pixel-Level Visual Encoders with Adaptive Multi-Granularity Semantics for MLLM](cards.md#paper-query-conditioned-dino-token-granularity) | 视觉语言模型可按文本问题选择视觉 token 的聚合粒度，以兼顾局部细节和全局语义。 |
+| 机器人学 | 模型架构 | [AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots](cards.md#paper-atomic-skill-expert-routing-vla) | 把连续动作解码拆成可独立训练和扩展的原子技能专家，让高层规划承担技能编排。 |
+| 计算机视觉 | 训练策略 | [Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals](cards.md#paper-phase-local-distribution-distillation) | 少步生成蒸馏可按去噪阶段匹配分布，避免随机截断跨步梯度时丢失整体动作动态。 |
+| 计算机视觉 | 训练策略 | [EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing](cards.md#paper-effecterase) | 把插入和移除作为成对的训练方向，显式监督物体造成的间接视觉变化。 |
+| 多模态学习 | 模型架构 | [SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts](cards.md#paper-souple-audio-visual) | 让视觉上下文调节音频条件提示，再将其送入掩膜解码器。 |
+| 计算机视觉 | 模型架构 | [ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding](cards.md#paper-redirector-roce) | 将相机关系写进注意力位置编码，并对齐输入视频与目标视频的时空基准。 |
+| 多模态学习 | 模型架构 | [Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection](cards.md#paper-herod-reasoning-priors) | 把可解释的语言空间先验同时用于候选、输出和监督匹配，以降低定位标签需求。 |
+| 多模态学习 | 损失函数 | [SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning](cards.md#paper-soc-semantic-orthogonal) | 调整类原型几何时，对相近类使用平滑约束，并同时检查准确率与校准误差。 |
+| 机器人学 | 损失函数 | [Learning a Unified Latent Action Space from Videos with Action-centric Cycle Consistency](cards.md#paper-latent-action-cycle-consistency) | 把同一潜动作施加于不同观察并回编码约束，以测试潜动作能否跨场景和本体复用。 |
+| 多模态学习 | 推理策略 | [Language-Free Generative Editing from One Visual Example](cards.md#paper-visual-diffusion-conditioning) | 用一组视觉前后对表达语言难以精确刻画的变换，可作为冻结编辑模型的条件。 |
+| 多模态学习 | 损失函数 | [ORION: ORthonormal Text Encoding for Universal VLM AdaptatION](cards.md#paper-orion-text-prototypes) | 只用类名调整 VLM 文本原型，联合检验类间可分性与原有语义结构保留。 |
+| 三维视觉 | 几何表征 | [RINO: Rotation-Invariant Non-Rigid Correspondences](cards.md#paper-rino-so3-invariant-nonrigid-correspondence) | 结合旋转不变特征和方向感知映射，取消非刚性匹配前的预对齐。 |
+| 三维视觉 | 结构化生成 | [Native and Compact Structured Latents for 3D Generation](cards.md#paper-o-voxel-native-structured-latent) | 将几何与材质一起写入稀疏三维潜变量，覆盖开放和非流形资产。 |
+| 机器人学 | 点云配准 | [DualReg: Dual-Space Filtering and Reinforcement for Rigid Registration](cards.md#paper-dualreg-filtered-anchors-geometric-refinement) | 用可靠特征匹配作为局部几何精配准的锚点。 |
+| 机器人学 | 时序状态建模 | [UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling](cards.md#paper-ufo-visible-recurrent-scene-tokens) | 保留可被后续观测修正的场景 token，并按可见性筛选更新。 |
+| 生成模型 | 分布式训练 | [Heterogeneous Decentralized Diffusion Models](cards.md#paper-heterogeneous-diffusion-topk-expert-fusion) | 统一异构目标专家的推理接口，并在融合前验证专家选择数量。 |

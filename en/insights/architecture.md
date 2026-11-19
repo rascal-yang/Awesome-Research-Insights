@@ -710,5 +710,10 @@ Model-wide design and information flow.
 - [WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation](../../conferences/cvpr-2026/cards.md#paper-weathercity)
 - [MeshWeaver: Sparse-Voxel-Guided Surface Weaving for Autoregressive Mesh Generation](../../conferences/cvpr-2026/cards.md#paper-meshweaver)
 - [TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising](../../conferences/cvpr-2026/cards.md#paper-tm-bsn)
+- [Granulon: Awakening Pixel-Level Visual Encoders with Adaptive Multi-Granularity Semantics for MLLM](../../conferences/cvpr-2026/cards.md#paper-query-conditioned-dino-token-granularity)
+- [AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots](../../conferences/cvpr-2026/cards.md#paper-atomic-skill-expert-routing-vla)
+- [SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts](../../conferences/cvpr-2026/cards.md#paper-souple-audio-visual)
+- [ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding](../../conferences/cvpr-2026/cards.md#paper-redirector-roce)
+- [Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection](../../conferences/cvpr-2026/cards.md#paper-herod-reasoning-priors)
 
 <!-- conference-classification:end -->

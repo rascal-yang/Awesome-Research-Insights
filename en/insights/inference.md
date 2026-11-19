@@ -1597,5 +1597,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-llmind-adaptive-sampling)
 - [Adaptive Capacity Autoregressive Visual Tracking](../../conferences/cvpr-2026/cards.md#paper-artrack-ac-forecast-inference-capacity)
 - [ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-colavla-latent-meta-action-planning)
+- [Breaking the Illusion: When Positive Meets Negative in Multimodal Decoding](../../conferences/cvpr-2026/cards.md#paper-dual-evidence-counterfactual-decoding)
+- [Language-Free Generative Editing from One Visual Example](../../conferences/cvpr-2026/cards.md#paper-visual-diffusion-conditioning)
+- [Native and Compact Structured Latents for 3D Generation](../../conferences/cvpr-2026/cards.md#paper-o-voxel-native-structured-latent)
 
 <!-- conference-classification:end -->
