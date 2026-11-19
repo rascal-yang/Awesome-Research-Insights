@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 807 篇，其中 526 篇暂收录、281 篇排除，另有 3,235 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 837 篇，其中 545 篇暂收录、292 篇排除，另有 3,205 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -532,3 +532,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 807 �
 | 多模态学习 | 训练与数据策略 | [Socratic-Geo: Synthetic Data Generation and Cross-Modal Geometric Reasoning via Multi-Agent Interaction](cards.md#paper-socratic-geo-failure-directed-synthesis) | 训练几何推理时利用求解失败轨迹驱动可验证的合成数据补齐。 |
 | 机器学习基础 | 损失函数与优化 | [Drainage: A Unifying Framework for Addressing Class Uncertainty](cards.md#paper-drainage-class-uncertainty) | 噪声标签或类歧义明显时，给输出层预留可学习的拒判概率。 |
 | 计算机视觉 | 自监督学习 | [Learning Cross-View Object Correspondence via Cycle-Consistent Mask Prediction](cards.md#paper-cycle-consistent-cross-view-masks) | 跨视角对象对应缺少标注时，用预测掩码回映原视角约束训练和测试时适配。 |
+| 多模态学习 | 生成建模 | [Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching](cards.md#paper-flowsg-mixed-state-scene-graph-flow) | 如果输出含连续坐标和离散关系，可各自定义流更新，再用共享的节点与边消息协调两类变量。见表 4。 |
+| 表征学习 | 推理策略 | [SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval](cards.md#paper-sattc-frozen-retrieval-hubness-calibration) | 跨分布检索先建立归一化和候选白化基线，再用邻域结构重排，并分别核查 Top-1 与 Top-5。见表 1。 |
+| 机器人学 | 持续学习 | [Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment](cards.md#paper-latent-replay-angular-task-margin) | 顺序模仿学习可在有限回放内存下存多模态潜表示，再用角间隔约束任务表示更新并单测遗忘。见表 1、2。 |
+| 多模态学习 | 评估与诊断 | [Concept Regions Matter: Benchmarking CLIP with a New Cluster-Importance Approach](cards.md#paper-cci-concept-cluster-occlusion-diagnosis) | 诊断图文模型的背景依赖时，可以按特征簇做区域删除，并独立改变前景和背景以区分错误来源。见表 2–4。 |
+| 多模态学习 | 评估与诊断 | [Fine-Grained Multi Image Object Hallucination Benchmark](cards.md#paper-mioh-joint-versus-decomposed-visual-verification) | 多图任务出现物体幻觉时，用完全相同图片对照联合回答与逐图作答后汇总，可检查错误是在感知还是跨图整合发生。见图 5。 |
+| 计算机视觉 | 模型效率 | [Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers](cards.md#paper-come-confidence-guided-geometric-token-merging) | 多视角几何模型加速时，可按置信度选择合并对象，并随相机重叠程度报告耗时和深度误差。见表 1。 |
+| 计算机视觉 | 模型架构 | [Stereo World Model: Camera-Guided Stereo Video Generation](cards.md#paper-stereoworld) | 双目生成可用极线结构节省跨视注意力，把相机姿态作为相对位置条件。 |
+| 多模态学习 | 训练策略 | [MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models](cards.md#paper-motionenhancer) | 动作细节不足时，可用视频生成模型的运动注意力监督理解模型。 |
+| 多模态学习 | 模型架构 | [OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing](cards.md#paper-orionedit) | 参考图与源图各有不同职责时，可分别约束参数子空间和信息流向，并与随机遮罩对照。 |
+| 多模态学习 | 推理加速 | [Accelerating Streaming Video Large Language Models via Hierarchical Token Compression](cards.md#paper-streaming-token-compression) | 先测哪段延迟占主导，再分别压缩视觉编码重算和语言模型输入。 |
+| 多模态学习 | 检索 | [G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval](cards.md#paper-g-mixer) | 图文组合意图不唯一时，先用多个几何插值候选覆盖语义，再用显式语义排序。 |
+| 计算机视觉 | 表示学习 | [Reconstructing CLIP for Open-Vocabulary Dense Perception](cards.md#paper-denserc) | 重用 CLIP 做开放词汇定位时，先检查值嵌入与空间聚合，再决定是否改变注意力头权重。 |
+| 多模态学习 | 损失函数 | [Cross-Axis Feature Fusion with Joint-Wise Motion Difference Prediction for Text-Based 3D Human Motion Editing](cards.md#paper-jointwise-motion-delta) | 局部动作编辑可用对齐后的部件变化量做辅助监督，保护未编辑关节。 |
+| 计算机视觉 | 损失函数与优化 | [GeCo: Geometry-Consistent Regularization for Domain Generalized Semantic Segmentation](cards.md#paper-geco-geometry-consistent-regularization) | 对基础特征作域泛化微调时，用局部曲率控制扰动、用测地关系保持结构。 |
+| 计算机视觉 | 表示学习 | [Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction](cards.md#paper-gen3r-aligned-geometry-latents) | 生成动态视图又需要可查询几何时，学习对齐的外观及几何潜变量，并在同一轨迹联合采样。 |
+| 科学与医学 AI | 微调与适配 | [Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework](cards.md#paper-hierarchical-prompts-positive-transfer) | 增量类别有共享部件时，按类别及部件搭建提示树，用前向和反向迁移指标检查新增知识。 |
+| 计算机视觉 | 推理优化 | [AVGGT: Rethinking Global Attention for Accelerating VGGT](cards.md#paper-avggt-global-attention) | 多视图模型加速时先测各层跨视图作用，再将早层改为逐帧并对其余全局键值采样。 |
+| 计算机视觉 | 模型架构 | [Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration](cards.md#paper-rar-latent-restoration-assessment) | 多步图像恢复时在潜空间内同时判断退化和复核质量，减少反复解码。 |
+| 计算机视觉 | 自监督学习 | [TimeBridge: Self-Supervised Video Representation Learning via Start-End Joint Embedding and In-Between Frame Prediction](cards.md#paper-timebridge) | 自监督视频学习时同时对齐起止帧表示，并要求从两端恢复中间帧。 |

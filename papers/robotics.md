@@ -900,5 +900,6 @@
 - [R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space](../conferences/cvpr-2026/cards.md#paper-r4-semantic-spatiotemporal-memory-retrieval)
 - [SemanticVLA: Towards Semantic Reasoning over Action Memorization via Synergistic Explicit Trace and Latent Action Planning](../conferences/cvpr-2026/cards.md#paper-semanticvla)
 - [OVI-MAP: Open-Vocabulary Instance-Semantic Mapping](../conferences/cvpr-2026/cards.md#paper-ovi-map)
+- [Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment](../conferences/cvpr-2026/cards.md#paper-latent-replay-angular-task-margin)
 
 <!-- conference-classification:end -->

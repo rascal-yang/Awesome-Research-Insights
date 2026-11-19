@@ -405,5 +405,7 @@ Objectives, auxiliary supervision, and regularization.
 - [InterRVOS: Interaction-Aware Referring Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-interrvos-role-conditioned-segmentation)
 - [PAMotion: Physics-Aware Motion Generation for Full-Body Interaction with Multiple Objects](../../conferences/cvpr-2026/cards.md#paper-pamotion-contact-acceleration)
 - [Drainage: A Unifying Framework for Addressing Class Uncertainty](../../conferences/cvpr-2026/cards.md#paper-drainage-class-uncertainty)
+- [Cross-Axis Feature Fusion with Joint-Wise Motion Difference Prediction for Text-Based 3D Human Motion Editing](../../conferences/cvpr-2026/cards.md#paper-jointwise-motion-delta)
+- [GeCo: Geometry-Consistent Regularization for Domain Generalized Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-geco-geometry-consistent-regularization)
 
 <!-- conference-classification:end -->

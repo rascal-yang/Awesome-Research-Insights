@@ -1030,5 +1030,13 @@
 - [What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-embedlens-visual-token-sparsity)
 - [Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation](../conferences/cvpr-2026/cards.md#paper-simple-synthetic-video-controls)
 - [Socratic-Geo: Synthetic Data Generation and Cross-Modal Geometric Reasoning via Multi-Agent Interaction](../conferences/cvpr-2026/cards.md#paper-socratic-geo-failure-directed-synthesis)
+- [Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching](../conferences/cvpr-2026/cards.md#paper-flowsg-mixed-state-scene-graph-flow)
+- [Concept Regions Matter: Benchmarking CLIP with a New Cluster-Importance Approach](../conferences/cvpr-2026/cards.md#paper-cci-concept-cluster-occlusion-diagnosis)
+- [Fine-Grained Multi Image Object Hallucination Benchmark](../conferences/cvpr-2026/cards.md#paper-mioh-joint-versus-decomposed-visual-verification)
+- [MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-motionenhancer)
+- [OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing](../conferences/cvpr-2026/cards.md#paper-orionedit)
+- [Accelerating Streaming Video Large Language Models via Hierarchical Token Compression](../conferences/cvpr-2026/cards.md#paper-streaming-token-compression)
+- [G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-g-mixer)
+- [Cross-Axis Feature Fusion with Joint-Wise Motion Difference Prediction for Text-Based 3D Human Motion Editing](../conferences/cvpr-2026/cards.md#paper-jointwise-motion-delta)
 
 <!-- conference-classification:end -->

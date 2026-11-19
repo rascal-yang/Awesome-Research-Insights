@@ -1458,5 +1458,7 @@
 - [When Pretty Isn't Useful: Investigating Why Modern Text-to-Image Models Fail as Reliable Training Data Generators](../conferences/cvpr-2026/cards.md#paper-synthetic-data-aesthetic-bias)
 - [Anomaly as Non-Conformity via Training-Free Graph Laplacian Energy Minimization](../conferences/cvpr-2026/cards.md#paper-anoco)
 - [What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-embedlens-visual-token-sparsity)
+- [Concept Regions Matter: Benchmarking CLIP with a New Cluster-Importance Approach](../conferences/cvpr-2026/cards.md#paper-cci-concept-cluster-occlusion-diagnosis)
+- [Fine-Grained Multi Image Object Hallucination Benchmark](../conferences/cvpr-2026/cards.md#paper-mioh-joint-versus-decomposed-visual-verification)
 
 <!-- conference-classification:end -->

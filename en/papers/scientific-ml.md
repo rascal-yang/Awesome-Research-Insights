@@ -407,5 +407,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - [Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-anatomica-local-constraints)
 - [FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment](../../conferences/cvpr-2026/cards.md#paper-fbta-feature-bridging)
 - [FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-fluidgaussian-functional-reconstruction)
+- [Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework](../../conferences/cvpr-2026/cards.md#paper-hierarchical-prompts-positive-transfer)
 
 <!-- conference-classification:end -->

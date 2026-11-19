@@ -2334,5 +2334,6 @@ General learning methods, optimization, learning theory, and inference.
 - [Dataset Distillation by Influence Matching](../../conferences/cvpr-2026/cards.md#paper-infmatch-terminal-data-influence)
 - [Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-ldf-vfi-skip-concatenate-sampling)
 - [Drainage: A Unifying Framework for Addressing Class Uncertainty](../../conferences/cvpr-2026/cards.md#paper-drainage-class-uncertainty)
+- [SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-sattc-frozen-retrieval-hubness-calibration)
 
 <!-- conference-classification:end -->

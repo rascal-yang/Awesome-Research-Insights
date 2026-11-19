@@ -7891,3 +7891,288 @@
 - **适用条件 / 局限** · 循环一致不能排除两个视角同时错配类似物体，适配也带来时间成本。
 
 **可复用机制** · 跨视角对象对应缺少标注时，用预测掩码回映原视角约束训练和测试时适配。
+
+<a id="paper-flowsg-mixed-state-scene-graph-flow"></a>
+
+## Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_Can_We_Build_Scene_Graphs_Not_Classify_Them_FlowSG_Progressive_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_Can_We_Build_Scene_Graphs_Not_Classify_Them_FlowSG_Progressive_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一次分类容易把边框、对象和关系当作相对独立的输出，关系的几何约束难以在预测过程中反复修正。
+- **核心创新 / 方法** · 将场景图表示为连续边框与离散对象、关系标记。图 Transformer 预测速度场和离散后验，通过边与节点消息联合更新。
+- **Baseline** · 与一步式场景图方法比较；消融流感知消息聚合、节点或边聚合及图像交叉注意力。
+- **Benchmark** · Visual Genome 与 Panoptic Scene Graph 的闭集和开放词汇协议，以关系 R 和 mR 及图指标衡量。
+- **关键结果 / 消融** · PSG 闭集表 4 的 R@50、mR@50 为 46.3、42.7，移除流感知聚合降到 40.5、37.1，移除跨注意力降到 39.2、34.3。
+- **适用条件 / 局限** · 量化字典和关系长尾依赖训练数据，迭代采样的成本与不同候选初始化的长尾效果需单独衡量。
+
+**可复用机制** · 如果输出含连续坐标和离散关系，可各自定义流更新，再用共享的节点与边消息协调两类变量。见表 4。
+
+<a id="paper-sattc-frozen-retrieval-hubness-calibration"></a>
+
+## SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_SATTC_Structure-Aware_Label-Free_Test-Time_Calibration_for_Cross-Subject_EEG-to-Image_Retrieval_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_SATTC_Structure-Aware_Label-Free_Test-Time_Calibration_for_Cross-Subject_EEG-to-Image_Retrieval_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 跨被试 EEG 图像检索存在嵌入分布漂移，少数样本反复出现在短名单中。
+- **核心创新 / 方法** · 冻结编码器后，在相似度矩阵融合被试自适应白化与局部相似度重标定，以及互近邻、双向排序和类别流行度证据。
+- **Baseline** · 比较原始 ATM、标准预处理、固定和自适应 CSLS，另评估多个 EEG 编码器。
+- **Benchmark** · THINGS-EEG 严格留一被试的 200 类候选检索，报告 Top-1、Top-5 和枢纽偏差。
+- **关键结果 / 消融** · 表 1 标准化基线 Top-1 与 Top-5 为 9.2%、30.5%，完整方法为 14.8%、38.4%；仅使用自适应 CSLS 的 Top-5 为 38.8%。
+- **适用条件 / 局限** · 需要无标注查询和候选提供稳定的邻域统计，候选池很小或类分布漂移时应重测。
+
+**可复用机制** · 跨分布检索先建立归一化和候选白化基线，再用邻域结构重排，并分别核查 Top-1 与 Top-5。见表 1。
+
+<a id="paper-latent-replay-angular-task-margin"></a>
+
+## Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Lifelong_Imitation_Learning_with_Multimodal_Latent_Replay_and_Incremental_Adjustment_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Lifelong_Imitation_Learning_with_Multimodal_Latent_Replay_and_Incremental_Adjustment_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 连续学习机器人任务时，保存原始多模态轨迹成本高，任务适配还会不断改变过去表征。
+- **核心创新 / 方法** · 回放视觉、语言和机器人状态的紧凑表示，并用角间隔调整相近任务的表示，维持可分性。
+- **Baseline** · 与 LIBERO 持续模仿学习的回放与策略基线比较，直接对照只做潜空间回放与加表示约束。
+- **Benchmark** · LIBERO-OBJECT、LIBERO-GOAL 和更长任务序列，以学习 AUC、前向迁移和负向后向迁移衡量。
+- **关键结果 / 消融** · 表 1 中 LIBERO-GOAL 仅潜空间回放 AUC 为 74.6，加入任务表示调整后为 77.2，NBT 从 10.0 降到 6.9。
+- **适用条件 / 局限** · 缓存需要与持续更新的编码器保持可用，任务边界、仿真序列或内存大小改变时应重查。
+
+**可复用机制** · 顺序模仿学习可在有限回放内存下存多模态潜表示，再用角间隔约束任务表示更新并单测遗忘。见表 1、2。
+
+<a id="paper-cci-concept-cluster-occlusion-diagnosis"></a>
+
+## Concept Regions Matter: Benchmarking CLIP with a New Cluster-Importance Approach
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Agarwal_Concept_Regions_Matter_Benchmarking_CLIP_with_a_New_Cluster-Importance_Approach_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Agarwal_Concept_Regions_Matter_Benchmarking_CLIP_with_a_New_Cluster-Importance_Approach_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整图准确率下降可能由背景、缩放、视角或细粒度物体混淆造成，单一准确率不能区分。
+- **核心创新 / 方法** · 用 CLIP 的块级表示聚类，逐簇遮盖并测预测变化；配合前背景掩膜与可控前景和背景的 COVAR 数据。
+- **Baseline** · 与 MaskCLIP、Grad-ECLIP、Grad-CAM 等重要性方法比较，另检查 18 个 CLIP 变体。
+- **Benchmark** · ImageNet 与 MS COCO Karpathy 划分的解释忠实度用删除、插入曲线 AUC；COVAR 分析前景、背景及细粒度错误。
+- **关键结果 / 消融** · 表 2 的 COCO 图像检索 R@1 删除 AUC 为 0.0650，Grad-ECLIP 为 0.1246；插入 AUC 分别为 0.1812 和 0.1576。
+- **适用条件 / 局限** · 遮盖本身会改变输入分布，簇与掩膜的质量也会影响诊断，分数主要衡量受控扰动效果。
+
+**可复用机制** · 诊断图文模型的背景依赖时，可以按特征簇做区域删除，并独立改变前景和背景以区分错误来源。见表 2–4。
+
+<a id="paper-mioh-joint-versus-decomposed-visual-verification"></a>
+
+## Fine-Grained Multi Image Object Hallucination Benchmark
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Min_Fine-Grained_Multi_Image_Object_Hallucination_Benchmark_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Min_Fine-Grained_Multi_Image_Object_Hallucination_Benchmark_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单图或仅汇总得分的基准，无法区分单图识别失误与跨图整合错误。
+- **核心创新 / 方法** · 控制图片内容不变，将存在判断改写成逐图判断，再聚合为与联合回答一致的全局目标，对照正确率。
+- **Baseline** · 同一模型的全图联合回答与逐图回答后合并；总体对比 GPT-5、Gemini 2.5 Pro 等 29 个模型。
+- **Benchmark** · MIOH 的存在、计数、属性和位置任务，涉及综合、比较、选择推理；图 5 的受控消融以存在判断的准确率衡量。
+- **关键结果 / 消融** · 图 5 中逐图处理的存在判断准确率高于联合处理，作者据此把跨图整合作为可单独检验的失效环节。
+- **适用条件 / 局限** · 存在判断可以用逻辑或合并，复杂比较和跨图对应不能直接沿用，另需计入多次调用成本。
+
+**可复用机制** · 多图任务出现物体幻觉时，用完全相同图片对照联合回答与逐图作答后汇总，可检查错误是在感知还是跨图整合发生。见图 5。
+
+<a id="paper-come-confidence-guided-geometric-token-merging"></a>
+
+## Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Co-Me_Confidence_Guided_Token_Merging_for_Visual_Geometric_Transformers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Co-Me_Confidence_Guided_Token_Merging_for_Visual_Geometric_Transformers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多视图 Transformer 随输入帧数迅速变慢，按相似度合并可能丢掉几何上重要的空间信息。
+- **核心创新 / 方法** · 蒸馏轻量的置信度预测器，用较低置信度的标记参与合并，保留高置信度信息。
+- **Baseline** · 与原 VGGT、Pi3、ToMeSD 和 FastVGGT 对照，也报告其他几何骨干的变化。
+- **Benchmark** · NYUd-v2、ETH3D、DTU-MVS、KITTI Depth 的尺度对齐深度误差、阈值准确率和毫秒时延，另测位姿、点云。
+- **关键结果 / 消融** · 表 1 的 DTU-MVS 32 帧中 VGGT 时延 6094 毫秒、L1 0.89 厘米，Co-Me 为 788 毫秒、1.10 厘米；ToMeSD 为 1091 毫秒、0.93 厘米。
+- **适用条件 / 局限** · 标记重叠度影响合并损失和速度，较少重叠场景与单图输入应按允许误差重新设定合并比例。
+
+**可复用机制** · 多视角几何模型加速时，可按置信度选择合并对象，并随相机重叠程度报告耗时和深度误差。见表 1。
+
+<a id="paper-stereoworld"></a>
+
+## Stereo World Model: Camera-Guided Stereo Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Stereo_World_Model_Camera-Guided_Stereo_Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Stereo_World_Model_Camera-Guided_Stereo_Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单目生成再转双目成本高，且视角差异难与运动同步。
+- **核心创新 / 方法** · 建立相机与帧统一的 RoPE，并将完整四维注意力拆为视内三维注意力和跨视水平行注意力。
+- **Baseline** · 表2比较 Voyager、DeepVerse、Aether、SEVA、ViewCrafter，表4–5消融相机注入和注意力。
+- **Benchmark** · 表2评估 FID、FVD、相机误差、跨视同步和 FPS，表3给出 VBench 指标。
+- **关键结果 / 消融** · 表2 StereoWorld 达0.49 FPS、跨视 FVD-V 22.00，对比 SEVA 的0.10 FPS、31.10。
+- **适用条件 / 局限** · 水平行约束依赖双目极线可按行对齐，未校正相机或非双目设置需更换几何约束。
+
+**可复用机制** · 双目生成可用极线结构节省跨视注意力，把相机姿态作为相对位置条件。
+
+<a id="paper-motionenhancer"></a>
+
+## MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_MotionEnhancer_Leveraging_Video_Diffusion_for_Motion-Enhanced_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_MotionEnhancer_Leveraging_Video_Diffusion_for_Motion-Enhanced_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频 VLM 擅长事件语义，但容易遗漏局部运动。
+- **核心创新 / 方法** · 从视频扩散模型挑选运动敏感头和运动显著文字 token，以注意力对齐提供辅助监督。
+- **Baseline** · 表1–2对照同骨干未加 MotionEnhancer 的 Qwen2.5-VL 等，表3消融两个筛选模块。
+- **Benchmark** · MotionBench 与 FAVOR-Bench，分别评估总体得分和多类动作理解。
+- **关键结果 / 消融** · Qwen2.5-VL-3B 总体分数在两表分别由53.56升至56.60及37.43升至44.53，部分子项下降。
+- **适用条件 / 局限** · 需要训练时访问可提供注意力的生成教师，视频中未采样到的短时动作仍难恢复。
+
+**可复用机制** · 动作细节不足时，可用视频生成模型的运动注意力监督理解模型。
+
+<a id="paper-orionedit"></a>
+
+## OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_OrionEdit_Bridging_Reference_and_Source_Images_for_Generalized_Cross-Image_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_OrionEdit_Bridging_Reference_and_Source_Images_for_Generalized_Cross-Image_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 跨图编辑时参考属性与源内容易混在一起，影响保真与控制。
+- **核心创新 / 方法** · 对不同条件设置正交更新子空间，并用定向注意力遮罩约束潜变量依赖。
+- **Baseline** · 基于扩散骨干，表1含 UNO 等；表2比较正交约束、随机遮罩、定向遮罩和更新秩。
+- **Benchmark** · 表1三类任务为属性转移、风格对齐和融合，指标含 DPG、DINOv3、SigLip-I 等。
+- **关键结果 / 消融** · 表2单加定向遮罩使 DPG 从53.81增至72.74，随机遮罩降至49.37。
+- **适用条件 / 局限** · 依赖能区分条件角色的编辑训练；对互相冲突或更大量的参考条件需另测。
+
+**可复用机制** · 参考图与源图各有不同职责时，可分别约束参数子空间和信息流向，并与随机遮罩对照。
+
+<a id="paper-streaming-token-compression"></a>
+
+## Accelerating Streaming Video Large Language Models via Hierarchical Token Compression
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Accelerating_Streaming_Video_Large_Language_Models_via_Hierarchical_Token_Compression_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Accelerating_Streaming_Video_Large_Language_Models_via_Hierarchical_Token_Compression_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 流式视频相邻帧重复编码，视觉序列过长还会抬高 LLM 预填充成本。
+- **核心创新 / 方法** · STC-Cacher 重用相似帧特征，STC-Pruner 结合空间与时间显著性筛选视觉 token。
+- **Baseline** · 表1–3比较四个流式视频模型加入压缩前后的表现，表4–5改变复用特征和动态打分。
+- **Benchmark** · OVO-Bench、StreamingBench、EgoSchema、MLVU-dev、VideoMME，另报视觉编码和预填充耗时。
+- **关键结果 / 消融** · 表1分列编码与预填充耗时，表2–3检验压缩后的流式和离线答题得分。
+- **适用条件 / 局限** · 运动突变或极短事件可能被误判冗余，应按事件密度验证复用阈值和裁剪比例。
+
+**可复用机制** · 先测哪段延迟占主导，再分别压缩视觉编码重算和语言模型输入。
+
+<a id="paper-g-mixer"></a>
+
+## G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lim_G-MIXER_Geodesic_Mixup-based_Implicit_Semantic_Expansion_and_Explicit_Semantic_Re-ranking_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lim_G-MIXER_Geodesic_Mixup-based_Implicit_Semantic_Expansion_and_Explicit_Semantic_Re-ranking_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 把参考图和修改指令压成单一生成文本描述时会丢掉含混的组合意图。
+- **核心创新 / 方法** · 沿归一化嵌入间的测地路径用不同混合比构造查询，合并候选后用 MLLM 提取的显式语义重排。
+- **Baseline** · 表1–3比较 SEARLE、CIReVL 等，表4消融语义扩张与重排。
+- **Benchmark** · CIRCO、CIRR、FashionIQ 和 GeneCIS，按协议评估 mAP 与 Recall。
+- **关键结果 / 消融** · 表1–3报告跨多个组合检索集合的表现，表4对候选扩张和重排作独立对照。
+- **适用条件 / 局限** · 需要跨模态嵌入上的方向有可解释语义，候选规模与重排复杂度需按检索库重测。
+
+**可复用机制** · 图文组合意图不唯一时，先用多个几何插值候选覆盖语义，再用显式语义排序。
+
+<a id="paper-denserc"></a>
+
+## Reconstructing CLIP for Open-Vocabulary Dense Perception
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Reconstructing_CLIP_for_Open-Vocabulary_Dense_Perception_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Reconstructing_CLIP_for_Open-Vocabulary_Dense_Perception_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全局分类训练让 CLIP 的密集特征缺乏区域语义对齐。
+- **核心创新 / 方法** · 从多层值嵌入构造密集特征，用选择性门控重加权不同注意力头，减少不当空间聚合。
+- **Baseline** · 表1比较同 ViT-B/16 的 CLIPSelf 与 R-SC-CLIPSelf，另有检测及分割基线。
+- **Benchmark** · 表1报告区域零样本分类 Top1/Top5；表2–4为开放词汇检测、跨数据集及语义分割。
+- **关键结果 / 消融** · 表1无 RPN 时 thing mask Top1 为78.1，R-SC-CLIPSelf 为76.2；stuff mask 为55.8对53.5。
+- **适用条件 / 局限** · 目前验证集中在 CLIP 类模型的静态图像，其他训练目标可能改变各层和值头的用途。
+
+**可复用机制** · 重用 CLIP 做开放词汇定位时，先检查值嵌入与空间聚合，再决定是否改变注意力头权重。
+
+<a id="paper-jointwise-motion-delta"></a>
+
+## Cross-Axis Feature Fusion with Joint-Wise Motion Difference Prediction for Text-Based 3D Human Motion Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Cross-Axis_Feature_Fusion_with_Joint-Wise_Motion_Difference_Prediction_for_Text-Based_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_Cross-Axis_Feature_Fusion_with_Joint-Wise_Motion_Difference_Prediction_for_Text-Based_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅建模编辑发生的时间，难确定哪些关节该动。
+- **核心创新 / 方法** · 用沿关节和时间轴的双 Transformer 融合特征，辅助回归配对源动作和目标动作关节旋转的 Soft-DTW 距离。
+- **Baseline** · 表1比较 TMED 等，表2对照无辅助目标及 L2 距离，表3比较 Soft-DTW 平滑参数。
+- **Benchmark** · MotionFix 的生成到目标动作检索 R@1/2/3、平均排名与 FID。
+- **关键结果 / 消融** · 表1全测试集 R@1 29.45、批内74.38，FID 0.097；表2对照 L2 与 Soft-DTW。
+- **适用条件 / 局限** · 训练需要成对骨架动作和旋转表示，机器人不同运动学约束下需重新定义部件及距离。
+
+**可复用机制** · 局部动作编辑可用对齐后的部件变化量做辅助监督，保护未编辑关节。
+
+<a id="paper-geco-geometry-consistent-regularization"></a>
+
+## GeCo: Geometry-Consistent Regularization for Domain Generalized Semantic Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zang_GeCo_Geometry-Consistent_Regularization_for_Domain_Generalized_Semantic_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zang_GeCo_Geometry-Consistent_Regularization_for_Domain_Generalized_Semantic_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 随机扰动可缓解适配器过拟合，但会改变预训练流形上的语义邻域。
+- **核心创新 / 方法** · 以预训练特征的局部几何选扰动强度，再用测地约束保持适配前后的关系。
+- **Baseline** · 表1比较可训参数与适配方法，表2–3比较领域泛化分割方案。
+- **Benchmark** · 源域训练与未见目标域语义分割，比较 mIoU 等分割表现与参数量。
+- **关键结果 / 消融** · 文中报告多目标域的改善并比较几何约束与扰动的配置。
+- **适用条件 / 局限** · 局部曲率和测地距离须有效近似；预训练流形存在偏差时保留结构可能保留偏差。
+
+**可复用机制** · 对基础特征作域泛化微调时，用局部曲率控制扰动、用测地关系保持结构。
+
+<a id="paper-gen3r-aligned-geometry-latents"></a>
+
+## Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Gen3R_3D_Scene_Generation_Meets_Feed-Forward_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Gen3R_3D_Scene_Generation_Meets_Feed-Forward_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频生成缺少显式可用几何，独立重建在遮挡和稀疏观察下容易不完整。
+- **核心创新 / 方法** · 将 VGGT 词元适配为几何潜变量，匹配预训练视频潜空间的结构并联合生成视频、深度和点图。
+- **Baseline** · 表1–2与生成方案比较，表3含 WVD 的 RGB VAE 对照。
+- **Benchmark** · 单图与双图条件的场景生成，分别评价外观及几何提取，另测重建。
+- **关键结果 / 消融** · 表1–3报告两类输出及重建改善。
+- **适用条件 / 局限** · 不可见内容仍是生成推断，几何和外观联合一致不能保证是真实场景。
+
+**可复用机制** · 生成动态视图又需要可查询几何时，学习对齐的外观及几何潜变量，并在同一轨迹联合采样。
+
+<a id="paper-hierarchical-prompts-positive-transfer"></a>
+
+## Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Unlocking_Positive_Transfer_in_Incrementally_Learning_Surgical_Instruments_A_Self-reflection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_Unlocking_Positive_Transfer_in_Incrementally_Learning_Surgical_Instruments_A_Self-reflection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只抑制遗忘会漏掉旧部件对新类别的帮助，及新类别对已有类别的修正。
+- **核心创新 / 方法** · 冻结骨干，以根节点共享提示、中间共享部件和叶提示组织新增类别，并用反思机制更新。
+- **Baseline** · 表1–2比较类增量分割方法，表3消融提示组织和更新。
+- **Benchmark** · 机器人辅助肾切除及腹腔镜胆囊切除的器械视频分割，报告最终轮及跨轮 IoU。
+- **关键结果 / 消融** · 原文报告新旧器械分割改善，表3用于区分组件。
+- **适用条件 / 局限** · 需存在有意义的类间共享结构；提示树错配可能造成负迁移。
+
+**可复用机制** · 增量类别有共享部件时，按类别及部件搭建提示树，用前向和反向迁移指标检查新增知识。
+
+<a id="paper-avggt-global-attention"></a>
+
+## AVGGT: Rethinking Global Attention for Accelerating VGGT
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_AVGGT_Rethinking_Global_Attention_for_Accelerating_VGGT_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_AVGGT_Rethinking_Global_Attention_for_Accelerating_VGGT_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接统一压缩全局注意力可能破坏关键视图对应。
+- **核心创新 / 方法** · 根据诊断区分早层、对齐中层和末层；替换早层注意力，其余进行保对角键值子采样和均值补充。
+- **Baseline** · 原 VGGT、π3 等及稀疏注意力版本。
+- **Benchmark** · RealEstate10K、TUM-dynamics 相机姿态与 DTU 点图，并比较100至800帧开销。
+- **关键结果 / 消融** · 作者报告100帧约2倍、300帧约4–5倍、800帧约8–10倍加速。
+- **适用条件 / 局限** · 层作用分布依赖骨干和输入，快速变动视点可能更加依赖全局信息。
+
+**可复用机制** · 多视图模型加速时先测各层跨视图作用，再将早层改为逐帧并对其余全局键值采样。
+
+<a id="paper-rar-latent-restoration-assessment"></a>
+
+## Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Restore_Assess_Repeat_A_Unified_Framework_for_Iterative_Image_Restoration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Restore_Assess_Repeat_A_Unified_Framework_for_Iterative_Image_Restoration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单轮方法难处理未知或组合退化，分立质量评估会增加时延及转码损失。
+- **核心创新 / 方法** · 在共享潜空间内统一恢复、退化判别和质量验证，按质量动态继续。
+- **Baseline** · 表1–3对照单退化及统一恢复方案。
+- **Benchmark** · 组合退化、UDC 未知退化和多类单退化，比较恢复表现。
+- **关键结果 / 消融** · 论文分别报告三种退化情形的改善。
+- **适用条件 / 局限** · 停止与操作决策依赖内置质量代理，域外错误评价可能导致过度迭代。
+
+**可复用机制** · 多步图像恢复时在潜空间内同时判断退化和复核质量，减少反复解码。
+
+<a id="paper-timebridge"></a>
+
+## TimeBridge: Self-Supervised Video Representation Learning via Start-End Joint Embedding and In-Between Frame Prediction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_TimeBridge_Self-Supervised_Video_Representation_Learning_via_Start-End_Joint_Embedding_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_TimeBridge_Self-Supervised_Video_Representation_Learning_via_Start-End_Joint_Embedding_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯帧间对齐容易忽略变化，单端未来预测又有歧义。
+- **核心创新 / 方法** · 交叉拼接起止帧的类词元，由轻量解码器重建中间帧，联合学习时间变换。
+- **Baseline** · 对照2D预训练、视频嵌入和既有视频表示学习方案。
+- **Benchmark** · DAVIS 2017 目标分割 J&F、VIP 部件传播 mIoU，并做分类线性探测。
+- **关键结果 / 消融** · 摘要报告 DAVIS 73.5 J&F、VIP 47.5 mIoU。
+- **适用条件 / 局限** · 端点可能不足以唯一解释动作，中间帧恢复代理可能偏向像素可预测内容。
+
+**可复用机制** · 自监督视频学习时同时对齐起止帧表示，并要求从两端恢复中间帧。

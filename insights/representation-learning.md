@@ -578,5 +578,7 @@
 - [Zero-Shot Depth Completion with Vision-Language Model](../conferences/cvpr-2026/cards.md#paper-sparse-depth-vlm-mask-guidance)
 - [AERGS-SLAM: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM](../conferences/cvpr-2026/cards.md#paper-aergs-slam)
 - [T2SGrid: Temporal-to-Spatial Gridification for Video Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-t2sgrid)
+- [Reconstructing CLIP for Open-Vocabulary Dense Perception](../conferences/cvpr-2026/cards.md#paper-denserc)
+- [Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction](../conferences/cvpr-2026/cards.md#paper-gen3r-aligned-geometry-latents)
 
 <!-- conference-classification:end -->

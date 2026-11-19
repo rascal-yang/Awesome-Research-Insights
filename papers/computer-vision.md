@@ -1146,5 +1146,13 @@
 - [Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video](../conferences/cvpr-2026/cards.md#paper-egovit)
 - [Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder](../conferences/cvpr-2026/cards.md#paper-aeic)
 - [Learning Cross-View Object Correspondence via Cycle-Consistent Mask Prediction](../conferences/cvpr-2026/cards.md#paper-cycle-consistent-cross-view-masks)
+- [Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers](../conferences/cvpr-2026/cards.md#paper-come-confidence-guided-geometric-token-merging)
+- [Stereo World Model: Camera-Guided Stereo Video Generation](../conferences/cvpr-2026/cards.md#paper-stereoworld)
+- [Reconstructing CLIP for Open-Vocabulary Dense Perception](../conferences/cvpr-2026/cards.md#paper-denserc)
+- [GeCo: Geometry-Consistent Regularization for Domain Generalized Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-geco-geometry-consistent-regularization)
+- [Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction](../conferences/cvpr-2026/cards.md#paper-gen3r-aligned-geometry-latents)
+- [AVGGT: Rethinking Global Attention for Accelerating VGGT](../conferences/cvpr-2026/cards.md#paper-avggt-global-attention)
+- [Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration](../conferences/cvpr-2026/cards.md#paper-rar-latent-restoration-assessment)
+- [TimeBridge: Self-Supervised Video Representation Learning via Start-End Joint Embedding and In-Between Frame Prediction](../conferences/cvpr-2026/cards.md#paper-timebridge)
 
 <!-- conference-classification:end -->

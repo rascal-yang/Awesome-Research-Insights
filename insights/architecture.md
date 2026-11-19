@@ -613,5 +613,8 @@
 - [DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities](../conferences/cvpr-2026/cards.md#paper-dpl-missing-modality)
 - [SemanticVLA: Towards Semantic Reasoning over Action Memorization via Synergistic Explicit Trace and Latent Action Planning](../conferences/cvpr-2026/cards.md#paper-semanticvla)
 - [Rosetta Stone For Unified MLLMs: A Unified Tokenizer to Decipher Understanding and Generation](../conferences/cvpr-2026/cards.md#paper-rosetta-unified-tokenizer)
+- [Stereo World Model: Camera-Guided Stereo Video Generation](../conferences/cvpr-2026/cards.md#paper-stereoworld)
+- [OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing](../conferences/cvpr-2026/cards.md#paper-orionedit)
+- [Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration](../conferences/cvpr-2026/cards.md#paper-rar-latent-restoration-assessment)
 
 <!-- conference-classification:end -->

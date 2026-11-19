@@ -1388,5 +1388,9 @@
 - [Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ldf-vfi-skip-concatenate-sampling)
 - [Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder](../conferences/cvpr-2026/cards.md#paper-aeic)
 - [OVI-MAP: Open-Vocabulary Instance-Semantic Mapping](../conferences/cvpr-2026/cards.md#paper-ovi-map)
+- [Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching](../conferences/cvpr-2026/cards.md#paper-flowsg-mixed-state-scene-graph-flow)
+- [SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval](../conferences/cvpr-2026/cards.md#paper-sattc-frozen-retrieval-hubness-calibration)
+- [Accelerating Streaming Video Large Language Models via Hierarchical Token Compression](../conferences/cvpr-2026/cards.md#paper-streaming-token-compression)
+- [AVGGT: Rethinking Global Attention for Accelerating VGGT](../conferences/cvpr-2026/cards.md#paper-avggt-global-attention)
 
 <!-- conference-classification:end -->

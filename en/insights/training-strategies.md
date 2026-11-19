@@ -999,5 +999,9 @@ Training schedules, curricula, and task or stage composition.
 - [TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ttl-ood)
 - [Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video](../../conferences/cvpr-2026/cards.md#paper-egovit)
 - [Learning Cross-View Object Correspondence via Cycle-Consistent Mask Prediction](../../conferences/cvpr-2026/cards.md#paper-cycle-consistent-cross-view-masks)
+- [Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment](../../conferences/cvpr-2026/cards.md#paper-latent-replay-angular-task-margin)
+- [MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-motionenhancer)
+- [Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework](../../conferences/cvpr-2026/cards.md#paper-hierarchical-prompts-positive-transfer)
+- [TimeBridge: Self-Supervised Video Representation Learning via Start-End Joint Embedding and In-Between Frame Prediction](../../conferences/cvpr-2026/cards.md#paper-timebridge)
 
 <!-- conference-classification:end -->
