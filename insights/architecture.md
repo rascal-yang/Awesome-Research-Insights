@@ -802,5 +802,10 @@
 - [Residual Decoder Adapter: ID-Preserving Tokenizer Adaption for Autoregressive Text Rendering](../conferences/cvpr-2026/cards.md#paper-fixed-token-space-residual-decoder-upgrade)
 - [SAMTok: Representing Any Mask with Two Words](../conferences/cvpr-2026/cards.md#paper-samtok-discrete-masks)
 - [UniRefiner: Teaching Pre-trained ViTs to Self-Dispose Dross via Contrastive Register](../conferences/cvpr-2026/cards.md#paper-unirefiner-contrastive-registers)
+- [DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer](../conferences/cvpr-2026/cards.md#paper-online-temporal-reconstruction-harmonization)
+- [BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration](../conferences/cvpr-2026/cards.md#paper-preparatory-affordance-bimanual-coordination)
+- [Expanding Spatial and Temporal Context for Robotic Imitation Learning With Scene Graphs](../conferences/cvpr-2026/cards.md#paper-scene-graph-imitation-memory)
+- [ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-acot-vla-action-intents)
+- [MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](../conferences/cvpr-2026/cards.md#paper-mspt-ball-tree-attention)
 
 <!-- conference-classification:end -->

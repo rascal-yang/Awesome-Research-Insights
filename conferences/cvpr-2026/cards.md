@@ -31891,3 +31891,303 @@
 - **适用条件 / 局限** · 并行位置依赖模型图像表征，超高分辨率小目标需另行验证。
 
 **可复用机制** · 保持对话自回归，同时将密集掩码切换到并行预测。
+
+<a id="paper-determinantal-few-shot-prototype-repair"></a>
+
+## DDSF: Robust Few-Shot Learning via Disentangled Subspaces with Determinantal Point Process
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ye_DDSF_Robust_Few-Shot_Learning_via_Disentangled_Subspaces_with_Determinantal_Point_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_DDSF_Robust_Few-Shot_Learning_via_Disentangled_Subspaces_with_Determinantal_Point_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 少样本类均值容易被错误和困难样本拉偏。
+- **核心创新 / 方法** · 以行列式点过程估计样本置信、引导扩散修复，再最大化解耦子空间体积。
+- **Baseline** · 比较均值原型及近期少样本方法。
+- **Benchmark** · 带域外污染的 Meta-Dataset 等，比较平均准确率。
+- **关键结果 / 消融** · 表 1 测试混入域外样本时的稳健性。
+- **适用条件 / 局限** · 依赖足够可靠的距离或核函数，极少样本时子空间估计也会不稳定。
+
+**可复用机制** · 少样本原型可用同一个体积多样性目标过滤异常、修复表示并构造原型子空间。
+
+<a id="paper-privileged-teacher-visual-student-loco-manipulation"></a>
+
+## VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/He_VIRAL_Visual_Sim-to-Real_at_Scale_for_Humanoid_Loco-Manipulation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/He_VIRAL_Visual_Sim-to-Real_at_Scale_for_Humanoid_Loco-Manipulation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长期移动操作的探索与视觉学习同时进行，训练可靠性不足。
+- **核心创新 / 方法** · 以完整状态强化学习教师提供示范，使用模拟中的在线 DAgger 结合行为克隆，配合视觉随机化和设备对齐。
+- **Baseline** · 比较训练规模和教师、学生阶段的不同设置。
+- **Benchmark** · 模拟训练与 Unitree G1 真机零样本长期移动操作。
+- **关键结果 / 消融** · 正文报告低训练计算预算下经常失败，以及最高 64 GPU 配置下训练变得可靠。
+- **适用条件 / 局限** · 需要物理系统和相机手部对齐，结果来自特定平台与计算条件。
+
+**可复用机制** · 可从具有完整状态的教师蒸馏仅用 RGB 的全身策略，并把训练预算不足作为独立失败模式。
+
+<a id="paper-online-temporal-reconstruction-harmonization"></a>
+
+## DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_DiffusionHarmonizer_Bridging_Neural_Reconstruction_and_Photorealistic_Simulation_with_Online_Diffusion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_DiffusionHarmonizer_Bridging_Neural_Reconstruction_and_Photorealistic_Simulation_with_Online_Diffusion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 重建中的新视角或插入对象会出现外观不一致，直接相邻帧增强易闪烁。
+- **核心创新 / 方法** · 以重建结果训练时序条件化单步扩散增强器。
+- **Baseline** · 比较已有图像及视频编辑增强。
+- **Benchmark** · 域内新轨迹和域外插入对象仿真，测 FID/FVD 和结构保真。
+- **关键结果 / 消融** · 正文表 1 输出两个不同域设置的画质和结构对照。
+- **适用条件 / 局限** · 增强器产生的外观不能用作未经验证的真实几何。
+
+**可复用机制** · 仿真渲染后可用单步时序生成模型处理新视角伪影，同时保留几何场景作为约束。
+
+<a id="paper-parallel-rigidity-bundle-adjustment-graph"></a>
+
+## Parallel Rigidity Matters for Bundle Adjustment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Manam_Parallel_Rigidity_Matters_for_Bundle_Adjustment_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Manam_Parallel_Rigidity_Matters_for_Bundle_Adjustment_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 误差较低的解也可能因观测图不刚而不唯一。
+- **核心创新 / 方法** · 用平行刚性理论检查图结构，并利用相机间关系降低开销。
+- **Baseline** · 比较 IMC 原始重建与 HOF、GPRBA 处理前后。
+- **Benchmark** · IMC 2022，比较重建统计及移除相机误差。
+- **关键结果 / 消融** · 正文表 1 量化图处理前后及未移除相机的情况。
+- **适用条件 / 局限** · 拓扑条件不能代替对噪声及错误匹配的检查。
+
+**可复用机制** · 优化束调整前可检查相机–点图能否独立缩放，以识别结构不可辨识。
+
+<a id="paper-preparatory-affordance-bimanual-coordination"></a>
+
+## BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shen_BiPreManip_Learning_Affordance-Based_Bimanual_Preparatory_Manipulation_through_Anticipatory_Collaboration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shen_BiPreManip_Learning_Affordance-Based_Bimanual_Preparatory_Manipulation_through_Anticipatory_Collaboration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接抓取无法处理贴合桌面或需要另一手固定的物体。
+- **核心创新 / 方法** · 将准备臂的目标设为构造利于主任务的物体状态，以可供性指导协作。
+- **Baseline** · 比较现有双臂策略及不同对象设置。
+- **Benchmark** · 仿真双臂操作，分别比较已见和未见对象成功率。
+- **关键结果 / 消融** · 表 1 分对象类别和已见性报告成功率。
+- **适用条件 / 局限** · 适用前提是能可靠预测准备动作后的可供性。
+
+**可复用机制** · 双臂任务可以先推断准备动作如何改善另一只手的目标可供性，再安排非对称协作。
+
+<a id="paper-ocr-data-difficulty-accuracy-diversity-audit"></a>
+
+## PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cui_PP-OCRv5_A_Specialized_5M-Parameter_Model_Rivaling_Billion-Parameter_Vision-Language_Models_on_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cui_PP-OCRv5_A_Specialized_5M-Parameter_Model_Rivaling_Billion-Parameter_Vision-Language_Models_on_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一视觉语言模型在精确文字定位及错误抑制上仍有代价。
+- **核心创新 / 方法** · 训练约 5M 参数的 OCR，并分别操作数据难度、置信质量和多样性。
+- **Baseline** · 对比标准 OCR 和大视觉语言模型，消融数据因素。
+- **Benchmark** · 标准 OCR 基准和构造的数据子集，评估识别、定位与幻觉。
+- **关键结果 / 消融** · 正文分开报告数据因素的消融和训练集置信度分布。
+- **适用条件 / 局限** · 适用于任务边界清晰的识别，不能直接推广到复杂推理。
+
+**可复用机制** · 构建专用小识别器前可定量拆分样本难度、标注正确率和视觉覆盖，避免把所有提升归给模型规模。
+
+<a id="paper-local-style-attention-focus-cover"></a>
+
+## RegionRoute: Regional Style Transfer with Diffusion Model
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_RegionRoute_Regional_Style_Transfer_with_Diffusion_Model_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_RegionRoute_Regional_Style_Transfer_with_Diffusion_Model_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单个全局风格表示难限制应用区域，单向对齐又可能只覆盖局部像素。
+- **核心创新 / 方法** · 将风格注意力对齐物体掩码，结合 KL 聚焦和二元交叉熵覆盖约束。
+- **Baseline** · 对比其他扩散风格迁移及不同损失配置。
+- **Benchmark** · 区域风格化，评估区域风格匹配与保留情况。
+- **关键结果 / 消融** · 正文引入区域编辑评分来区分目标区和非目标区。
+- **适用条件 / 局限** · 需要可靠的区域掩码及注意力与实际风格输出的对应。
+
+**可复用机制** · 可对条件 token 的注意力同时约束区域外泄漏与区域内覆盖。
+
+<a id="paper-rotation-equivariant-panorama-depth-adaptation"></a>
+
+## SO(3)-Equivariant ViT-Adapter for Data-Efficient Zero-Shot Sim-to-Real Indoor Panoramic Depth Estimation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/He_SO3-Equivariant_ViT-Adapter_for_Data-Efficient_Zero-Shot_Sim-to-Real_Indoor_Panoramic_Depth_Estimation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/He_SO3-Equivariant_ViT-Adapter_for_Data-Efficient_Zero-Shot_Sim-to-Real_Indoor_Panoramic_Depth_Estimation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接在全景上应用透视预训练会受到投影失真和方向变化。
+- **核心创新 / 方法** · 使用 SO(3) 可形变交叉注意力对齐球面特征及透视骨干。
+- **Baseline** · 对比 Depth Anything 及全景深度适配方法。
+- **Benchmark** · Matterport3D 等全景零样本模拟到真实深度评测。
+- **关键结果 / 消融** · 表 1 按使用的训练资料比较真实场景的结果。
+- **适用条件 / 局限** · 需要全景投影模型可用，非球面或相机未校准时需重新配置。
+
+**可复用机制** · 透视深度基础模型迁移至全景时，可通过旋转等变适配器保留球面几何。
+
+<a id="paper-scene-graph-imitation-memory"></a>
+
+## Expanding Spatial and Temporal Context for Robotic Imitation Learning With Scene Graphs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qian_Expanding_Spatial_and_Temporal_Context_for_Robotic_Imitation_Learning_With_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qian_Expanding_Spatial_and_Temporal_Context_for_Robotic_Imitation_Learning_With_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 部分可观的大场景与长任务中，当前单帧无法保留已见对象的信息。
+- **核心创新 / 方法** · 用场景图作为显式记忆记录对象关系随时间的变化，并作为策略输入。
+- **Baseline** · 比较无结构化图记忆的模仿基线及所用图条件策略。
+- **Benchmark** · 正文模拟移动操作与真实桌面操作，评估长时任务成功率。
+- **关键结果 / 消融** · 论文报告跨模拟与实景的改善，尤其体现于需要过去场景信息的任务。
+- **适用条件 / 局限** · 图构建错误会保留到后续，遮挡中对象移动时需验证更新和身份关联。
+
+**可复用机制** · 将历史观测写入动态场景图，让模仿策略读取仍与任务相关的对象和关系。
+
+<a id="paper-acot-vla-action-intents"></a>
+
+## ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhong_ACoT-VLA_Action_Chain-of-Thought_for_Vision-Language-Action_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_ACoT-VLA_Action_Chain-of-Thought_for_Vision-Language-Action_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 语言或目标图像中间表示对精确控制可能缺少动作所需细节。
+- **核心创新 / 方法** · ACoT 以结构化动作意图序列建立行动空间中的计划，再生成精细动作。
+- **Baseline** · 对照直接动作生成及已有语言或视觉中间推理方法。
+- **Benchmark** · LIBERO 和 LIBERO-Plus，含直接迁移的操作成功率。
+- **关键结果 / 消融** · 正文表1、2比较原任务和迁移表现，检验动作空间中间表示。
+- **适用条件 / 局限** · 依赖粗动作意图仍保存可行信息，接触丰富任务和不同机器人需验证时间粒度。
+
+**可复用机制** · 用粗粒度动作意图作为内部推理介质，并让精细策略读取它们。
+
+<a id="paper-fast-scenescript-confidence-decoding"></a>
+
+## Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_Fast_SceneScript_Fast_and_Accurate_Language-Based_3D_Scene_Understanding_via_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yin_Fast_SceneScript_Fast_and_Accurate_Language-Based_3D_Scene_Understanding_via_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单步自回归三维场景描述延迟高，直接多令牌预测又会传播无效令牌。
+- **核心创新 / 方法** · Fast SceneScript 联合多令牌预测、自推测解码和置信度引导。
+- **Baseline** · 在 SceneScript 与已有三维布局估计方案上比较。
+- **Benchmark** · ASE、Structured3D 布局估计及正文三维目标检测，比较精度和速度。
+- **关键结果 / 消融** · 正文报告在场景理解上保持精度的同时减少自回归迭代。
+- **适用条件 / 局限** · 令牌置信度须适配输出语法，早期几何错误仍可能损害整段布局。
+
+**可复用机制** · 结构化场景输出可并行预测多个令牌，再用置信度核验接受长度。
+
+<a id="paper-mspt-ball-tree-attention"></a>
+
+## MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Curvo_MSPT_Efficient_Large-Scale_Physical_Modeling_via_Parallelized_Multi-Scale_Attention_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Curvo_MSPT_Efficient_Large-Scale_Physical_Modeling_via_Parallelized_Multi-Scale_Attention_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 百万级空间元素上全局注意力成本高，仅局部图又可能遗漏远程物理耦合。
+- **核心创新 / 方法** · MSPT 用球树分出空间块，使用块内点注意力与跨块粗表示。
+- **Baseline** · 与已有神经物理求解器比较并报告显存和计算量。
+- **Benchmark** · 弹性、塑性、流动和多孔流 PDE，另含 ShapeNet-Car 与 Ahmed-ML。
+- **关键结果 / 消融** · 正文报告多套物理基准准确度，并可在单 GPU 处理百万级点。
+- **适用条件 / 局限** · 粗块表示可能丢失边界和接触细节，迁移到实时物理世界模型需另验。
+
+**可复用机制** · 大规模不规则物理状态用有空间意义的块建局部注意力，以块摘要传递长程关系。
+
+<a id="paper-merge3d-semgeo-token-merging"></a>
+
+## Merge3D: Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_Merge3D_Efficient_3D_Multimodal_LLMs_via_Joint_2D-3D_Token_Merging_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Merge3D_Efficient_3D_Multimodal_LLMs_via_Joint_2D-3D_Token_Merging_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多视图三维模型令牌增长快，只按二维语义会删除关键空间结构。
+- **核心创新 / 方法** · Merge3D 先选语义主令牌，再依据二维加三维的相似性聚集空间邻域。
+- **Baseline** · 与保留原序列和仅二维合并方案比较。
+- **Benchmark** · Scan2Cap 等三维理解设置，比较不同压缩策略。
+- **关键结果 / 消融** · 正文表1、2报告主实验与策略对照，检验定位能力保留。
+- **适用条件 / 局限** · 依赖几何对应足够准确，深度噪声、局部遮挡及远距相似物体需单测。
+
+**可复用机制** · 融合视觉令牌时结合二维显著性与三维邻接，避免语义相同的远处实体被合并。
+
+<a id="paper-sarmae-noise-semantic-anchors"></a>
+
+## SARMAE: Masked Autoencoder for SAR Representation Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SARMAE_Masked_Autoencoder_for_SAR_Representation_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SARMAE_Masked_Autoencoder_for_SAR_Representation_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · SAR 的斑点噪声会影响掩码重建特征，光学与 SAR 的观测统计不同。
+- **核心创新 / 方法** · SARMAE 注入斑点噪声训练，并以配对光学观测对齐语义表示。
+- **Baseline** · 比较已有 SAR 预训练及普通掩码自编码，并检查两模块。
+- **Benchmark** · SAR-1M 及正文遥感下游，含带光学配对的训练数据。
+- **关键结果 / 消融** · 正文比较有无噪声处理与语义锚定，给出域内鲁棒表示结果。
+- **适用条件 / 局限** · 需要噪声建模符合传感器并保有一定时空对齐；移植到机器人传感器需重估。
+
+**可复用机制** · 预训练同时模拟传感器特有噪声，并用同步的高质量模态锚定语义。
+
+<a id="paper-activegrasp-calibrated-information-gain"></a>
+
+## ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lei_ActiveGrasp_Information-Guided_Active_Grasping_with_Calibrated_Energy-based_Model_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只优化覆盖或用投影视图计算信息增益，会遗漏抓取在 SE(3) 上的多解结构。
+- **核心创新 / 方法** · 在 SE(3) 用能量模型预测抓取分布，将能量校准到成功率，再用信息增益选视点。
+- **Baseline** · 比较现有主动抓取和不同位姿生成方式。
+- **Benchmark** · 仿真及实际杂乱场景抓取，评估成功与视点策略。
+- **关键结果 / 消融** · 正文两类实测支持基于可行动作分布而非仅几何覆盖进行观察。
+- **适用条件 / 局限** · 依赖校准样本和重建质量，新夹爪或材质下需重新校准。
+
+**可复用机制** · 用校准后的抓取位姿成功分布选下一视点，让主动观察直接服务操作结果。
+
+<a id="paper-svhalluc-speech-vision-timing-controls"></a>
+
+## SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_SVHalluc_Benchmarking_Speech-Vision_Hallucination_in_Audio-Visual_Large_Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_SVHalluc_Benchmarking_Speech-Vision_Hallucination_in_Audio-Visual_Large_Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 现有声画幻觉评测多用环境音，缺少对语言内容和时间结构的诊断。
+- **核心创新 / 方法** · 构建语义与时间两组任务，包括只在语音或只在视觉中出现的动作和对象。
+- **Baseline** · 比较已有开放音视频语言模型。
+- **Benchmark** · SVHalluc，六任务、2,405 个视频问答对。
+- **关键结果 / 消融** · 正文发现语音内容也会引起声画幻觉，并按两种对齐误差报告结果。
+- **适用条件 / 局限** · 标签和视频来源可能造成特定词汇捷径，真实多人对话需独立验证。
+
+**可复用机制** · 分别检查语音语义和发生时刻能否与视觉证据对应，避免把说到某物当成看见某物。
+
+<a id="paper-disamb-ambiguity-adaptive-pairing"></a>
+
+## Modeling the Visual Ambiguity of Human Sketches
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Modeling_the_Visual_Ambiguity_of_Human_Sketches_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Modeling_the_Visual_Ambiguity_of_Human_Sketches_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 草图给出的几何信息有限，将所有草图到照片配对当作确定对应会让模型学到不稳定线索。
+- **核心创新 / 方法** · 用 AmbiScore 度量配对歧义，DisAmb 中的弹性匹配据此调整监督。
+- **Baseline** · 与 SAKE、Sketch3T、TVT 等草图检索方法比较。
+- **Benchmark** · 零样本草图到图像检索，分析不同歧义下的匹配表现。
+- **关键结果 / 消融** · 正文揭示高歧义样本上的明显性能下滑，另评调整监督后的结果。
+- **适用条件 / 局限** · 歧义估计依赖特征和候选集，多个合理输出可能仍未全部进入标签。
+
+**可复用机制** · 当输入可对应多个正确目标时，以歧义度调节单个配对的监督强度。
+
+<a id="paper-vmonarch-spatiotemporal-structured-attention"></a>
+
+## VMonarch: Efficient Video Diffusion Transformers with Structured Attention
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_VMonarch_Efficient_Video_Diffusion_Transformers_with_Structured_Attention_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_VMonarch_Efficient_Video_Diffusion_Transformers_with_Structured_Attention_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频 DiT 的注意力成本随 token 数二次增长，单一粗粒度稀疏规则会遗漏运动关联。
+- **核心创新 / 方法** · 将时空稀疏注意力因子化为 Monarch 矩阵，并通过重新计算缓解交替拟合不稳定。
+- **Baseline** · 比较全注意力、VSA 与 VMoBA。
+- **Benchmark** · 在不同视频结构、模型规模及分辨率下按同协议比较生成质量与效率。
+- **关键结果 / 消融** · 正文表 1 联合评估质量与速度，检验结构化稀疏是否可跨架构移植。
+- **适用条件 / 局限** · 需要高效稀疏核，长程依赖不符合预期矩阵结构时需检查退化。
+
+**可复用机制** · 以结构化稀疏矩阵同时保留帧内与帧间相关性，避免长视频全注意力。
+
+<a id="paper-convexity-aware-noise-self-calibration"></a>
+
+## Convexity-Aware Noise Calibration: A Self-Supervised Framework for Noise-Level-Unknown Image Denoising
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Convexity-Aware_Noise_Calibration_A_Self-Supervised_Framework_for_Noise-Level-Unknown_Image_Denoising_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Convexity-Aware_Noise_Calibration_A_Self-Supervised_Framework_for_Noise-Level-Unknown_Image_Denoising_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 未知噪声水平下直接套用已知噪声训练或盲点网络会影响复原质量。
+- **核心创新 / 方法** · 利用 Noisier2Noise 的关系推导校准噪声的两阶段自监督方法。
+- **Baseline** · 比较 Noise2Void、Noise2Self 等基线。
+- **Benchmark** · CBSD68、Kodak24、McMaster、Urban100，以 PSNR、SSIM 比较。
+- **关键结果 / 消融** · 表 1 区分噪声水平是否已知并报告恢复质量。
+- **适用条件 / 局限** · 噪声校准依赖统计模型，传感器存在空间相关或信号相关噪声时应复核。
+
+**可复用机制** · 无干净数据时，先从观测估计噪声水平，再依该估计做自监督复原。
+
+<a id="paper-oddgrid-perceptual-discrepancy-diagnostic"></a>
+
+## OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Weng_OddGridBench_Exposing_the_Lack_of_Fine-Grained_Visual_Discrepancy_Sensitivity_in_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Weng_OddGridBench_Exposing_the_Lack_of_Fine-Grained_Visual_Discrepancy_Sensitivity_in_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 语义问答强的模型也可能漏掉微小颜色、尺度或位置变化。
+- **核心创新 / 方法** · 在网格中仅改变一个元素的属性，按单一和组合差异测试，另用 OddGrid-GRPO 做距离感知奖励。
+- **Baseline** · 比较人类、Qwen3-VL、InternVL3.5 与商用模型。
+- **Benchmark** · OddGridBench 超过 1,400 张图，涵盖颜色、大小、旋转、位置等。
+- **关键结果 / 消融** · 正文显示所测模型明显低于人类，表 1 分属性报告准确率。
+- **适用条件 / 局限** · 规则网格与自然图像分布不同，合成任务的改进需用真实细粒度感知复核。
+
+**可复用机制** · 用可控属性差异测试基础视觉敏感性，并以空间距离提供连续训练信号。

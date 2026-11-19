@@ -2599,5 +2599,8 @@
 - [Stronger Normalization-Free Transformers](../conferences/cvpr-2026/cards.md#paper-bounded-error-function-transformer-replacement)
 - [Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-attention-surgery-hybrid-video-diffusion)
 - [Elastic Weight Consolidation Done Right for Continual Learning](../conferences/cvpr-2026/cards.md#paper-ewc-fisher-vanishing-redundant-protection)
+- [DDSF: Robust Few-Shot Learning via Disentangled Subspaces with Determinantal Point Process](../conferences/cvpr-2026/cards.md#paper-determinantal-few-shot-prototype-repair)
+- [MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](../conferences/cvpr-2026/cards.md#paper-mspt-ball-tree-attention)
+- [VMonarch: Efficient Video Diffusion Transformers with Structured Attention](../conferences/cvpr-2026/cards.md#paper-vmonarch-spatiotemporal-structured-attention)
 
 <!-- conference-classification:end -->

@@ -1333,5 +1333,9 @@ Training schedules, curricula, and task or stage composition.
 - [PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](../../conferences/cvpr-2026/cards.md#paper-petdino-alignment-friendly-prompts)
 - [SafeLogo: Turning Your Logos into Jailbreak Shields via Micro-Regional Adversarial Training](../../conferences/cvpr-2026/cards.md#paper-safelogo-localized-defense)
 - [Elastic Weight Consolidation Done Right for Continual Learning](../../conferences/cvpr-2026/cards.md#paper-ewc-fisher-vanishing-redundant-protection)
+- [VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation](../../conferences/cvpr-2026/cards.md#paper-privileged-teacher-visual-student-loco-manipulation)
+- [RegionRoute: Regional Style Transfer with Diffusion Model](../../conferences/cvpr-2026/cards.md#paper-local-style-attention-focus-cover)
+- [SARMAE: Masked Autoencoder for SAR Representation Learning](../../conferences/cvpr-2026/cards.md#paper-sarmae-noise-semantic-anchors)
+- [Convexity-Aware Noise Calibration: A Self-Supervised Framework for Noise-Level-Unknown Image Denoising](../../conferences/cvpr-2026/cards.md#paper-convexity-aware-noise-self-calibration)
 
 <!-- conference-classification:end -->

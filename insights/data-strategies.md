@@ -464,5 +464,6 @@
 - [Learnability-Guided Diffusion for Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-lgd-complementary-distilled-samples)
 - [MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](../conferences/cvpr-2026/cards.md#paper-mrd-global-detection-multiresolution-retrieval)
 - [TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model](../conferences/cvpr-2026/cards.md#paper-transprune-representation-transition-token-importance)
+- [PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks](../conferences/cvpr-2026/cards.md#paper-ocr-data-difficulty-accuracy-diversity-audit)
 
 <!-- conference-classification:end -->

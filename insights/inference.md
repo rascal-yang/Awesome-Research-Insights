@@ -1702,5 +1702,8 @@
 - [FastHybrid: Accelerating Hybrid Autoregressive Image Generation with Lookahead and Guided Decoding](../conferences/cvpr-2026/cards.md#paper-fasthybrid-lookahead-decoding)
 - [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](../conferences/cvpr-2026/cards.md#paper-viro-verification-integrated-operators)
 - [Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction](../conferences/cvpr-2026/cards.md#paper-stamp-parallel-all-mask-prediction)
+- [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](../conferences/cvpr-2026/cards.md#paper-fast-scenescript-confidence-decoding)
+- [Merge3D: Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](../conferences/cvpr-2026/cards.md#paper-merge3d-semgeo-token-merging)
+- [ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model](../conferences/cvpr-2026/cards.md#paper-activegrasp-calibrated-information-gain)
 
 <!-- conference-classification:end -->

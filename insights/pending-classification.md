@@ -873,5 +873,6 @@
 - [Generalized and Personalized Federated Learning with Black-Box Foundation Models via Orthogonal Transformations](../conferences/cvpr-2026/cards.md#paper-fedot-orthogonal-client-embedding-adaptation)
 - [TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction](../conferences/cvpr-2026/cards.md#paper-talo-propagated-spline-submap-alignment)
 - [Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition](../conferences/cvpr-2026/cards.md#paper-samn-monotonic-classifier-norms)
+- [Modeling the Visual Ambiguity of Human Sketches](../conferences/cvpr-2026/cards.md#paper-disamb-ambiguity-adaptive-pairing)
 
 <!-- conference-classification:end -->

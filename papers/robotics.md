@@ -1142,5 +1142,10 @@
 - [Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos](../conferences/cvpr-2026/cards.md#paper-unposed-driving-temporal-teacher-pretraining)
 - [DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-decovln-adaptive-memory)
 - [Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry](../conferences/cvpr-2026/cards.md#paper-dual-agent-vio-gating)
+- [VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation](../conferences/cvpr-2026/cards.md#paper-privileged-teacher-visual-student-loco-manipulation)
+- [BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration](../conferences/cvpr-2026/cards.md#paper-preparatory-affordance-bimanual-coordination)
+- [Expanding Spatial and Temporal Context for Robotic Imitation Learning With Scene Graphs](../conferences/cvpr-2026/cards.md#paper-scene-graph-imitation-memory)
+- [ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-acot-vla-action-intents)
+- [ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model](../conferences/cvpr-2026/cards.md#paper-activegrasp-calibrated-information-gain)
 
 <!-- conference-classification:end -->

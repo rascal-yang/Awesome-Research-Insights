@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,357 篇，其中 2,126 篇暂收录、1,231 篇排除，另有 685 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,387 篇，其中 2,146 篇暂收录、1,241 篇排除，另有 655 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2132,3 +2132,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,357
 | 机器学习 | 持续学习 | [Elastic Weight Consolidation Done Right for Continual Learning](cards.md#paper-ewc-fisher-vanishing-redundant-protection) | 用梯度诊断权重保护是否漏掉重要参数或保护无关参数。 |
 | 智能体 | 推理时校验 | [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](cards.md#paper-viro-verification-integrated-operators) | 把验证装到每个中间操作上，证据不足时返回空结果防止错误积累。 |
 | 多模态学习 | 并行解码 | [Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction](cards.md#paper-stamp-parallel-all-mask-prediction) | 保持对话自回归，同时将密集掩码切换到并行预测。 |
+| 机器学习基础与统计 | 表征学习 | [DDSF: Robust Few-Shot Learning via Disentangled Subspaces with Determinantal Point Process](cards.md#paper-determinantal-few-shot-prototype-repair) | 少样本原型可用同一个体积多样性目标过滤异常、修复表示并构造原型子空间。 |
+| 机器人学 | 训练策略 | [VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation](cards.md#paper-privileged-teacher-visual-student-loco-manipulation) | 可从具有完整状态的教师蒸馏仅用 RGB 的全身策略，并把训练预算不足作为独立失败模式。 |
+| 计算机视觉 | 模型架构 | [DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer](cards.md#paper-online-temporal-reconstruction-harmonization) | 仿真渲染后可用单步时序生成模型处理新视角伪影，同时保留几何场景作为约束。 |
+| 计算机视觉 | 评测与诊断 | [Parallel Rigidity Matters for Bundle Adjustment](cards.md#paper-parallel-rigidity-bundle-adjustment-graph) | 优化束调整前可检查相机–点图能否独立缩放，以识别结构不可辨识。 |
+| 机器人学 | 模型架构 | [BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration](cards.md#paper-preparatory-affordance-bimanual-coordination) | 双臂任务可以先推断准备动作如何改善另一只手的目标可供性，再安排非对称协作。 |
+| 计算机视觉 | 数据策略 | [PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks](cards.md#paper-ocr-data-difficulty-accuracy-diversity-audit) | 构建专用小识别器前可定量拆分样本难度、标注正确率和视觉覆盖，避免把所有提升归给模型规模。 |
+| 计算机视觉 | 训练策略 | [RegionRoute: Regional Style Transfer with Diffusion Model](cards.md#paper-local-style-attention-focus-cover) | 可对条件 token 的注意力同时约束区域外泄漏与区域内覆盖。 |
+| 计算机视觉 | 表征学习 | [SO(3)-Equivariant ViT-Adapter for Data-Efficient Zero-Shot Sim-to-Real Indoor Panoramic Depth Estimation](cards.md#paper-rotation-equivariant-panorama-depth-adaptation) | 透视深度基础模型迁移至全景时，可通过旋转等变适配器保留球面几何。 |
+| 机器人学 | 模型架构 | [Expanding Spatial and Temporal Context for Robotic Imitation Learning With Scene Graphs](cards.md#paper-scene-graph-imitation-memory) | 将历史观测写入动态场景图，让模仿策略读取仍与任务相关的对象和关系。 |
+| 机器人学 | 模型架构 | [ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models](cards.md#paper-acot-vla-action-intents) | 用粗粒度动作意图作为内部推理介质，并让精细策略读取它们。 |
+| 计算机视觉 | 推理策略 | [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](cards.md#paper-fast-scenescript-confidence-decoding) | 结构化场景输出可并行预测多个令牌，再用置信度核验接受长度。 |
+| 机器学习基础与统计 | 模型架构 | [MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention](cards.md#paper-mspt-ball-tree-attention) | 大规模不规则物理状态用有空间意义的块建局部注意力，以块摘要传递长程关系。 |
+| 多模态学习 | 推理策略 | [Merge3D: Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](cards.md#paper-merge3d-semgeo-token-merging) | 融合视觉令牌时结合二维显著性与三维邻接，避免语义相同的远处实体被合并。 |
+| 计算机视觉 | 训练策略 | [SARMAE: Masked Autoencoder for SAR Representation Learning](cards.md#paper-sarmae-noise-semantic-anchors) | 预训练同时模拟传感器特有噪声，并用同步的高质量模态锚定语义。 |
+| 机器人学 | 推理策略 | [ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model](cards.md#paper-activegrasp-calibrated-information-gain) | 用校准后的抓取位姿成功分布选下一视点，让主动观察直接服务操作结果。 |
+| 多模态学习 | 评测设计 | [SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models](cards.md#paper-svhalluc-speech-vision-timing-controls) | 分别检查语音语义和发生时刻能否与视觉证据对应，避免把说到某物当成看见某物。 |
+| 多模态学习 | 噪声鲁棒学习 | [Modeling the Visual Ambiguity of Human Sketches](cards.md#paper-disamb-ambiguity-adaptive-pairing) | 当输入可对应多个正确目标时，以歧义度调节单个配对的监督强度。 |
+| 生成模型 | 稀疏注意力 | [VMonarch: Efficient Video Diffusion Transformers with Structured Attention](cards.md#paper-vmonarch-spatiotemporal-structured-attention) | 以结构化稀疏矩阵同时保留帧内与帧间相关性，避免长视频全注意力。 |
+| 计算机视觉 | 自监督学习 | [Convexity-Aware Noise Calibration: A Self-Supervised Framework for Noise-Level-Unknown Image Denoising](cards.md#paper-convexity-aware-noise-self-calibration) | 无干净数据时，先从观测估计噪声水平，再依该估计做自监督复原。 |
+| 多模态学习 | 评测设计 | [OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](cards.md#paper-oddgrid-perceptual-discrepancy-diagnostic) | 用可控属性差异测试基础视觉敏感性，并以空间距离提供连续训练信号。 |

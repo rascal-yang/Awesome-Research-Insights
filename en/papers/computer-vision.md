@@ -1646,5 +1646,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](../../conferences/cvpr-2026/cards.md#paper-petdino-alignment-friendly-prompts)
 - [UniRefiner: Teaching Pre-trained ViTs to Self-Dispose Dross via Contrastive Register](../../conferences/cvpr-2026/cards.md#paper-unirefiner-contrastive-registers)
 - [FastHybrid: Accelerating Hybrid Autoregressive Image Generation with Lookahead and Guided Decoding](../../conferences/cvpr-2026/cards.md#paper-fasthybrid-lookahead-decoding)
+- [DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer](../../conferences/cvpr-2026/cards.md#paper-online-temporal-reconstruction-harmonization)
+- [Parallel Rigidity Matters for Bundle Adjustment](../../conferences/cvpr-2026/cards.md#paper-parallel-rigidity-bundle-adjustment-graph)
+- [PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks](../../conferences/cvpr-2026/cards.md#paper-ocr-data-difficulty-accuracy-diversity-audit)
+- [RegionRoute: Regional Style Transfer with Diffusion Model](../../conferences/cvpr-2026/cards.md#paper-local-style-attention-focus-cover)
+- [SO(3)-Equivariant ViT-Adapter for Data-Efficient Zero-Shot Sim-to-Real Indoor Panoramic Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-rotation-equivariant-panorama-depth-adaptation)
+- [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](../../conferences/cvpr-2026/cards.md#paper-fast-scenescript-confidence-decoding)
+- [SARMAE: Masked Autoencoder for SAR Representation Learning](../../conferences/cvpr-2026/cards.md#paper-sarmae-noise-semantic-anchors)
+- [Convexity-Aware Noise Calibration: A Self-Supervised Framework for Noise-Level-Unknown Image Denoising](../../conferences/cvpr-2026/cards.md#paper-convexity-aware-noise-self-calibration)
 
 <!-- conference-classification:end -->

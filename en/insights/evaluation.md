@@ -1617,5 +1617,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Rounded or Streamlined Head? Bridging Concept Bottleneck Models and Attribute-Described Object Parts](../../conferences/cvpr-2026/cards.md#paper-part-attribute-concept-bottlenecks)
 - [When AVSR Meets Video Conferencing: Dataset, Degradation, and the Hidden Mechanism Behind Performance Collapse](../../conferences/cvpr-2026/cards.md#paper-delivery-pipeline-distribution-shift-avsr)
 - [CARLoS: Retrieval via Concise Assessment Representation of LoRAs at Scale](../../conferences/cvpr-2026/cards.md#paper-carlos-behavior-probing)
+- [Parallel Rigidity Matters for Bundle Adjustment](../../conferences/cvpr-2026/cards.md#paper-parallel-rigidity-bundle-adjustment-graph)
+- [SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models](../../conferences/cvpr-2026/cards.md#paper-svhalluc-speech-vision-timing-controls)
+- [OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-oddgrid-perceptual-discrepancy-diagnostic)
 
 <!-- conference-classification:end -->

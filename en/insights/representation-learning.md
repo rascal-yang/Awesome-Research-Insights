@@ -776,5 +776,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](../../conferences/cvpr-2026/cards.md#paper-explicit-geometry-curriculum-pretraining)
 - [A More Word-like Image Tokenization for MLLMs](../../conferences/cvpr-2026/cards.md#paper-semantic-cluster-adaptive-visual-tokenization)
 - [Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-subspace-projection-posthoc-fairness)
+- [DDSF: Robust Few-Shot Learning via Disentangled Subspaces with Determinantal Point Process](../../conferences/cvpr-2026/cards.md#paper-determinantal-few-shot-prototype-repair)
+- [SO(3)-Equivariant ViT-Adapter for Data-Efficient Zero-Shot Sim-to-Real Indoor Panoramic Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-rotation-equivariant-panorama-depth-adaptation)
 
 <!-- conference-classification:end -->

@@ -1576,5 +1576,9 @@ Learning across modalities such as images, text, audio, and video.
 - [SafeLogo: Turning Your Logos into Jailbreak Shields via Micro-Regional Adversarial Training](../../conferences/cvpr-2026/cards.md#paper-safelogo-localized-defense)
 - [Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-shapley-modality-learning-regulation)
 - [Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction](../../conferences/cvpr-2026/cards.md#paper-stamp-parallel-all-mask-prediction)
+- [Merge3D: Efficient 3D Multimodal LLMs via Joint 2D-3D Token Merging](../../conferences/cvpr-2026/cards.md#paper-merge3d-semgeo-token-merging)
+- [SVHalluc: Benchmarking Speech-Vision Hallucination in Audio-Visual Large Language Models](../../conferences/cvpr-2026/cards.md#paper-svhalluc-speech-vision-timing-controls)
+- [Modeling the Visual Ambiguity of Human Sketches](../../conferences/cvpr-2026/cards.md#paper-disamb-ambiguity-adaptive-pairing)
+- [OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-oddgrid-perceptual-discrepancy-diagnostic)
 
 <!-- conference-classification:end -->
