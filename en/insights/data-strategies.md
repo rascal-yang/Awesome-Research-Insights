@@ -435,5 +435,6 @@ Data selection, annotation, augmentation, and sampling.
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](../../conferences/cvpr-2026/cards.md#paper-focusui-position-preserving-selection)
 - [Style-GRPO: Semantic-Aware Preference Optimization for Image Style Transfer Guided by Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-targeted-style-preference-pairs)
 - [Watch and Learn: Learning to Use Computers from Online Videos](../../conferences/cvpr-2026/cards.md#paper-inverse-dynamics-ui-demonstrations)
+- [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-early-conditioning-dataset-distillation)
 
 <!-- conference-classification:end -->

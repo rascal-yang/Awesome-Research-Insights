@@ -704,5 +704,11 @@ Model-wide design and information flow.
 - [Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation](../../conferences/cvpr-2026/cards.md#paper-adaptive-text-dreamer)
 - [ESAM++: Efficient Online 3D Perception on the Edge](../../conferences/cvpr-2026/cards.md#paper-esam-plus-plus)
 - [Learning Spatial-Temporal Consistency for 3D Semantic Scene Completion](../../conferences/cvpr-2026/cards.md#paper-conssc)
+- [Flowception: Temporally Expansive Flow Matching for Video Generation](../../conferences/cvpr-2026/cards.md#paper-interleaved-frame-insertion-flow)
+- [DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-separate-track-representations-language-grounding)
+- [Spatial Retrieval Augmented Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-spatial-retrieval-driving)
+- [WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation](../../conferences/cvpr-2026/cards.md#paper-weathercity)
+- [MeshWeaver: Sparse-Voxel-Guided Surface Weaving for Autoregressive Mesh Generation](../../conferences/cvpr-2026/cards.md#paper-meshweaver)
+- [TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising](../../conferences/cvpr-2026/cards.md#paper-tm-bsn)
 
 <!-- conference-classification:end -->

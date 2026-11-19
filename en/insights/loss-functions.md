@@ -471,5 +471,6 @@ Objectives, auxiliary supervision, and regularization.
 - [TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-taco-lidar)
 - [Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis](../../conferences/cvpr-2026/cards.md#paper-cacr-cross-reconstruction)
 - [CTCal: Rethinking Text-to-Image Diffusion Models via Cross-Timestep Self-Calibration](../../conferences/cvpr-2026/cards.md#paper-ctcal-cross-timestep)
+- [Stable Mean Flow: Lyapunov-Inspired One-Step Flow Matching](../../conferences/cvpr-2026/cards.md#paper-stable-mean-flow-local-nonexpansivity)
 
 <!-- conference-classification:end -->

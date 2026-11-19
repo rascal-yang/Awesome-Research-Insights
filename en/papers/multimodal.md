@@ -1381,5 +1381,13 @@ Learning across modalities such as images, text, audio, and video.
 - [VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues](../../conferences/cvpr-2026/cards.md#paper-vrr-qa)
 - [CTCal: Rethinking Text-to-Image Diffusion Models via Cross-Timestep Self-Calibration](../../conferences/cvpr-2026/cards.md#paper-ctcal-cross-timestep)
 - [Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models](../../conferences/cvpr-2026/cards.md#paper-mmhnet-train-short-test-long)
+- [OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-object-localized-self-preference)
+- [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-early-conditioning-dataset-distillation)
+- [DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-separate-track-representations-language-grounding)
+- [Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding](../../conferences/cvpr-2026/cards.md#paper-query-type-routing-long-video-frames)
+- [RMIR: A Benchmark Dataset for Reasoning-Intensive Multimodal Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-rmir-reasoning-retrieval)
+- [ReMoT: Reinforcement Learning with Motion Contrast Triplets](../../conferences/cvpr-2026/cards.md#paper-remot-motion-contrast)
+- [LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-llmind-adaptive-sampling)
+- [EduDiag: A Benchmark for Educational Diagnostic Reasoning with Error Tracing and Correction on Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-edudiag-error-reconstruction-and-correction)
 
 <!-- conference-classification:end -->

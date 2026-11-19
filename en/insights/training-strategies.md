@@ -1187,5 +1187,8 @@ Training schedules, curricula, and task or stage composition.
 - [The Road Less Seen: Segment Exploration for Weakly Supervised Video Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-dual-exploration-low-fpr-video-anomaly)
 - [ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos](../../conferences/cvpr-2026/cards.md#paper-differentiable-viterbi-procedure-prior)
 - [CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird's-Eye-View Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-cycle-consistency-view-lifting)
+- [OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-object-localized-self-preference)
+- [Diffusion Guided Chain-of-Vision for Large Autoregressive Vision Models](../../conferences/cvpr-2026/cards.md#paper-diffusion-intermediate-visual-supervision)
+- [ReMoT: Reinforcement Learning with Motion Contrast Triplets](../../conferences/cvpr-2026/cards.md#paper-remot-motion-contrast)
 
 <!-- conference-classification:end -->

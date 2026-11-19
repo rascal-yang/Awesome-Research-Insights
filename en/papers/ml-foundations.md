@@ -2508,5 +2508,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization](../../conferences/cvpr-2026/cards.md#paper-pjfth-incomplete-clustering)
 - [LumiX: Structured and Coherent Text-to-Intrinsic Generation](../../conferences/cvpr-2026/cards.md#paper-lumix-broadcast-query-tensor-lora)
 - [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](../../conferences/cvpr-2026/cards.md#paper-higrpo-token-and-semantic-policy-optimization)
+- [Decompose, Mix, Adapt: A Unified Framework for Parameter-Efficient Neural Network Recombination and Compression](../../conferences/cvpr-2026/cards.md#paper-crisp-shared-basis-recombination)
+- [Stable Mean Flow: Lyapunov-Inspired One-Step Flow Matching](../../conferences/cvpr-2026/cards.md#paper-stable-mean-flow-local-nonexpansivity)
 
 <!-- conference-classification:end -->

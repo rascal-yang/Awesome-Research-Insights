@@ -1462,5 +1462,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding](../../conferences/cvpr-2026/cards.md#paper-ndtokenizer-multiscale-scene-tokens)
 - [CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird's-Eye-View Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-cycle-consistency-view-lifting)
 - [Low-Rank Test-Time Training for Pre-Trained Point Cloud Models](../../conferences/cvpr-2026/cards.md#paper-lott-pc-masked-latent-alignment)
+- [Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-frozen-foundation-tokenizer-diffusion)
+- [Flowception: Temporally Expansive Flow Matching for Video Generation](../../conferences/cvpr-2026/cards.md#paper-interleaved-frame-insertion-flow)
+- [Diffusion Guided Chain-of-Vision for Large Autoregressive Vision Models](../../conferences/cvpr-2026/cards.md#paper-diffusion-intermediate-visual-supervision)
+- [WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation](../../conferences/cvpr-2026/cards.md#paper-weathercity)
+- [MeshWeaver: Sparse-Voxel-Guided Surface Weaving for Autoregressive Mesh Generation](../../conferences/cvpr-2026/cards.md#paper-meshweaver)
+- [TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising](../../conferences/cvpr-2026/cards.md#paper-tm-bsn)
+- [Adaptive Capacity Autoregressive Visual Tracking](../../conferences/cvpr-2026/cards.md#paper-artrack-ac-forecast-inference-capacity)
+- [SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs](../../conferences/cvpr-2026/cards.md#paper-sope-spherical-positional-encoding)
 
 <!-- conference-classification:end -->

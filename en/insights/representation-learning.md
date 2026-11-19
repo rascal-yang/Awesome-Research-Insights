@@ -723,5 +723,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](../../conferences/cvpr-2026/cards.md#paper-v2sam-cyclic-consistency-prompt-selection)
 - [A Mixed Diet Makes DINO An Omnivorous Vision Encoder](../../conferences/cvpr-2026/cards.md#paper-frozen-teacher-cross-sensor-alignment)
 - [Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](../../conferences/cvpr-2026/cards.md#paper-lifted-affinity-distillation-affordance)
+- [Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-frozen-foundation-tokenizer-diffusion)
+- [SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs](../../conferences/cvpr-2026/cards.md#paper-sope-spherical-positional-encoding)
 
 <!-- conference-classification:end -->

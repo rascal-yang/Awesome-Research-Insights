@@ -1025,5 +1025,7 @@ Robot perception, policy learning, planning, and control.
 - [History to Future: Evolving Agent with Experience and Thought for Zero-shot Vision-and-Language Navigation](../../conferences/cvpr-2026/cards.md#paper-evonav)
 - [Learning Spatial-Temporal Consistency for 3D Semantic Scene Completion](../../conferences/cvpr-2026/cards.md#paper-conssc)
 - [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-drivemoe-view-skill-routing)
+- [Spatial Retrieval Augmented Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-spatial-retrieval-driving)
+- [ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-colavla-latent-meta-action-planning)
 
 <!-- conference-classification:end -->

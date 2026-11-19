@@ -1563,5 +1563,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models](../../conferences/cvpr-2026/cards.md#paper-adaptive-world-model-rubrics)
 - [VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues](../../conferences/cvpr-2026/cards.md#paper-vrr-qa)
 - [Pixel2Phys: Distilling Governing Laws from Visual Dynamics](../../conferences/cvpr-2026/cards.md#paper-pixel2phys-hypothesis-validation-loop)
+- [RMIR: A Benchmark Dataset for Reasoning-Intensive Multimodal Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-rmir-reasoning-retrieval)
+- [EduDiag: A Benchmark for Educational Diagnostic Reasoning with Error Tracing and Correction on Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-edudiag-error-reconstruction-and-correction)
 
 <!-- conference-classification:end -->

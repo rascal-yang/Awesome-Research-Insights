@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,397 篇，其中 1,519 篇暂收录、878 篇排除，另有 1,645 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,427 篇，其中 1,539 篇暂收录、888 篇排除，另有 1,615 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1525,3 +1525,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,397
 | 科学机器学习 | 智能体验证 | [Pixel2Phys: Distilling Governing Laws from Visual Dynamics](cards.md#paper-pixel2phys-hypothesis-validation-loop) | 将高维观测到低维规律分成可检验的候选构造与验证，适用于可仿真的视觉动态。 |
 | 生成模型 | 强化学习与奖励 | [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](cards.md#paper-higrpo-token-and-semantic-policy-optimization) | 为长生成序列区分 token 级优化和高层语义规划，并先检查奖励与人工偏好的对应关系。 |
 | 多模态学习 | 长度外推 | [Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models](cards.md#paper-mmhnet-train-short-test-long) | 长时音画生成可先尝试层级状态空间记忆，在短训练样本下验证推理长度外推。 |
+| 计算机视觉 | 表征学习 | [Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](cards.md#paper-frozen-foundation-tokenizer-diffusion) | 图像扩散 tokenizer 可直接冻结语义编码器，把像素恢复交给解码器。 |
+| 计算机视觉 | 模型架构 | [Flowception: Temporally Expansive Flow Matching for Video Generation](cards.md#paper-interleaved-frame-insertion-flow) | 用逐步插帧保持稀疏的全局时间上下文，并与连续去噪联合训练。 |
+| 多模态学习 | 训练策略 | [OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation](cards.md#paper-object-localized-self-preference) | 模型自生成偏好数据时可按实体核查属性、关系和数量，减少整体评分掩盖细粒度错误。 |
+| 多模态学习 | 数据策略 | [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](cards.md#paper-early-conditioning-dataset-distillation) | 合成训练集时，可提前融合图文条件以减少文本模板压过真实视觉纹理。 |
+| 多模态学习 | 模型架构 | [DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation](cards.md#paper-separate-track-representations-language-grounding) | 将视频候选轨迹一致性与语言接地拆开，便于分别选择预训练骨干。 |
+| 多模态学习 | 推理策略 | [Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding](cards.md#paper-query-type-routing-long-video-frames) | 先判断问题需要全局覆盖还是局部证据，再决定是否支付查询相关的视觉搜索成本。 |
+| 计算机视觉 | 训练策略 | [Diffusion Guided Chain-of-Vision for Large Autoregressive Vision Models](cards.md#paper-diffusion-intermediate-visual-supervision) | 可用预训练扩散模型的中间图像给纯视觉自回归模型构造逐步监督。 |
+| 机器人学 | 模型架构 | [Spatial Retrieval Augmented Autonomous Driving](cards.md#paper-spatial-retrieval-driving) | 用离线地理记忆补足现场感知，并按静态与动态任务分别测量先验的收益。 |
+| 计算机视觉 | 模型架构 | [WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation](cards.md#paper-weathercity) | 让模拟器共享几何与场景内容，并将条件特有外观交给独立解码器。 |
+| 多模态学习 | 评测与诊断 | [RMIR: A Benchmark Dataset for Reasoning-Intensive Multimodal Image Retrieval](cards.md#paper-rmir-reasoning-retrieval) | 以功能、时间和因果查询分别验证推理训练与参数扩张哪个更能改善检索。 |
+| 计算机视觉 | 模型架构 | [MeshWeaver: Sparse-Voxel-Guided Surface Weaving for Autoregressive Mesh Generation](cards.md#paper-meshweaver) | 给自回归几何生成加入局部稀疏结构约束，并在解码中直接预测顶点。 |
+| 计算机视觉 | 模型架构 | [TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising](cards.md#paper-tm-bsn) | 按测量噪声的相关几何设计盲区，保留原分辨率下未相关的邻域信息。 |
+| 多模态学习 | 训练策略 | [ReMoT: Reinforcement Learning with Motion Contrast Triplets](cards.md#paper-remot-motion-contrast) | 用仅改变细微运动属性的对照训练视觉语言模型，并比较 SFT 与 GRPO 对此能力的影响。 |
+| 多模态学习 | 推理策略 | [LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models](cards.md#paper-llmind-adaptive-sampling) | 让冻结模型的语义反馈决定像素预算分配，兼顾关注区域和全局布局。 |
+| 高效深度学习 | 参数高效适配 | [Decompose, Mix, Adapt: A Unified Framework for Parameter-Efficient Neural Network Recombination and Compression](cards.md#paper-crisp-shared-basis-recombination) | 让模型压缩和适配共享权重基底，以减少压缩后附加适配器的参数占比。 |
+| 计算机视觉 | 动态推理 | [Adaptive Capacity Autoregressive Visual Tracking](cards.md#paper-artrack-ac-forecast-inference-capacity) | 提前预测观测难度，再调度昂贵和轻量追踪器，同时维持轨迹状态。 |
+| 生成模型 | 优化与正则化 | [Stable Mean Flow: Lyapunov-Inspired One-Step Flow Matching](cards.md#paper-stable-mean-flow-local-nonexpansivity) | 用局部不扩张约束减少一步生成映射对扰动的放大。 |
+| 三维视觉 | 空间位置编码 | [SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs](cards.md#paper-sope-spherical-positional-encoding) | 为 3D 多模态模型选择同时表达距离和角度的位置编码。 |
+| 多模态学习 | 评测设计 | [EduDiag: A Benchmark for Educational Diagnostic Reasoning with Error Tracing and Correction on Large Multimodal Models](cards.md#paper-edudiag-error-reconstruction-and-correction) | 把反馈能力拆为错误定位、重建错误逻辑及纠正，可迁移到智能体失败诊断。 |
+| 机器人学 | 行动规划 | [ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving](cards.md#paper-colavla-latent-meta-action-planning) | 将语言推理压缩为潜在元动作，用层级并行解码生成连续轨迹，减少自回归延迟。 |

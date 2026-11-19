@@ -1593,5 +1593,9 @@
 - [Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization](../conferences/cvpr-2026/cards.md#paper-rg-dno)
 - [History to Future: Evolving Agent with Experience and Thought for Zero-shot Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-evonav)
 - [Low-Rank Test-Time Training for Pre-Trained Point Cloud Models](../conferences/cvpr-2026/cards.md#paper-lott-pc-masked-latent-alignment)
+- [Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding](../conferences/cvpr-2026/cards.md#paper-query-type-routing-long-video-frames)
+- [LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-llmind-adaptive-sampling)
+- [Adaptive Capacity Autoregressive Visual Tracking](../conferences/cvpr-2026/cards.md#paper-artrack-ac-forecast-inference-capacity)
+- [ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-colavla-latent-meta-action-planning)
 
 <!-- conference-classification:end -->

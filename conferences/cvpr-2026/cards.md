@@ -22786,3 +22786,303 @@
 - **适用条件 / 局限** · 五分钟为展示范围，不能由此推得任意长度均稳定，音频与视觉事件数据仍需匹配。
 
 **可复用机制** · 长时音画生成可先尝试层级状态空间记忆，在短训练样本下验证推理长度外推。
+
+<a id="paper-frozen-foundation-tokenizer-diffusion"></a>
+
+## Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Bi_Vision_Foundation_Models_Can_Be_Good_Tokenizers_for_Latent_Diffusion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Bi_Vision_Foundation_Models_Can_Be_Good_Tokenizers_for_Latent_Diffusion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 蒸馏进 VAE 的视觉语义在扰动下可能退化。
+- **核心创新 / 方法** · 将冻结视觉基础模型接入 VAE，并设计从富语义表征恢复图像的解码器。
+- **Baseline** · 比较 SD-VAE、VA-VAE 和 REPA-E，生成侧评估 REPA 与 REG。
+- **Benchmark** · ImageNet 256×256，固定 LightningDiT-XL，测重建 FID、生成 FID、线性探测准确率及表征一致性。
+- **关键结果 / 消融** · 相同训练轮数下，生成 FID 为 3.80 对 VA-VAE 的 5.14，重建 FID 为 0.52 对 0.30。
+- **适用条件 / 局限** · 主表两种 tokenizer 对齐的视觉教师不同，生成和重建指标也存在取舍。
+
+**可复用机制** · 图像扩散 tokenizer 可直接冻结语义编码器，把像素恢复交给解码器。
+
+<a id="paper-interleaved-frame-insertion-flow"></a>
+
+## Flowception: Temporally Expansive Flow Matching for Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ifriqi_Flowception_Temporally_Expansive_Flow_Matching_for_Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ifriqi_Flowception_Temporally_Expansive_Flow_Matching_for_Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐帧生成容易累积误差，全序列流需要一开始便处理完整时间轴。
+- **核心创新 / 方法** · 在概率路径上交错离散帧插入与连续帧去噪，同时学习生成内容与序列长度。
+- **Baseline** · 对比全序列流和因果或双向逐帧自回归。
+- **Benchmark** · Tai-Chi、Kinetics-600 等视频生成设置，报告 FVD、VBench 质量和训练 FLOPs。
+- **关键结果 / 消融** · 论文报告相对于全序列流，训练 FLOPs 降至约三分之一。
+- **适用条件 / 局限** · 通用域实验依赖私有视频样本，外部可复验范围集中于公开数据集。
+
+**可复用机制** · 用逐步插帧保持稀疏的全局时间上下文，并与连续去噪联合训练。
+
+<a id="paper-object-localized-self-preference"></a>
+
+## OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Oh_OSPO_Object-Centric_Self-Improving_Preference_Optimization_for_Text-to-Image_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Oh_OSPO_Object-Centric_Self-Improving_Preference_Optimization_for_Text-to-Image_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整图自评分容易忽略对象漏画或颜色、形状、关系错误。
+- **核心创新 / 方法** · 围绕对象构造检查问题，以模型自身 VQA 分数选同一提示下的生成偏好对，再进行偏好优化。
+- **Baseline** · 以 Janus-Pro 为生成基础，对比 SILMM、SUDER 并评估偏好样本扩充。
+- **Benchmark** · T2I-CompBench++、DPGBench 和 GenEval，测对象属性、空间结构与组合一致性。
+- **关键结果 / 消融** · Janus-Pro 1B 在 T2I-CompBench++ 的颜色分从 0.3542 升至 0.8349，二维空间分从 0.0756 升至 0.3077。
+- **适用条件 / 局限** · 自反馈准确度取决于模型本身的视觉问答能力。
+
+**可复用机制** · 模型自生成偏好数据时可按实体核查属性、关系和数量，减少整体评分掩盖细粒度错误。
+
+<a id="paper-early-conditioning-dataset-distillation"></a>
+
+## EVLF: Early Vision-Language Fusion for Generative Dataset Distillation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cai_EVLF_Early_Vision-Language_Fusion_for_Generative_Dataset_Distillation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cai_EVLF_Early_Vision-Language_Fusion_for_Generative_Dataset_Distillation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 扩散数据蒸馏晚注入文本可能过度校正视觉潜变量。
+- **核心创新 / 方法** · 在编码器与生成主干之间用轻量交叉注意力对齐视觉与文本嵌入。
+- **Baseline** · 在 D4M 和 MGD3 基础上加入 EVLF，对比原实现及 DiT、IDC-1 等。
+- **Benchmark** · ImageWoof 等数据蒸馏任务，不同每类图像数与下游架构，报告测试准确率。
+- **关键结果 / 消融** · ImageWoof 每类 10 图的 ResNet-18 上，MGD3 从 35.1% 提升至 38.5%。
+- **适用条件 / 局限** · 结果直接支持论文设定中的分类数据蒸馏，应用到不同生成器仍需验证。
+
+**可复用机制** · 合成训练集时，可提前融合图文条件以减少文本模板压过真实视觉纹理。
+
+<a id="paper-separate-track-representations-language-grounding"></a>
+
+## DeRVOS: Decoupling Consistent Trajectory Generation and Multimodal Understanding for Referring Video Object Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cheng_DeRVOS_Decoupling_Consistent_Trajectory_Generation_and_Multimodal_Understanding_for_Referring_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_DeRVOS_Decoupling_Consistent_Trajectory_Generation_and_Multimodal_Understanding_for_Referring_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 复杂运动场景中，从头联合学轨迹和文本关系容易同时损失时间一致性与跨模态理解。
+- **核心创新 / 方法** · 用预训练实例轨迹模型产生时序一致的对象候选，用多模态编码器单独对齐并选择候选。
+- **Baseline** · 比较已有指代视频分割方法，并比较使用 ViLT-B 或 BEiT3-B 的编码器变体。
+- **Benchmark** · MeViS val 和 valu 的指代视频对象分割，报告 J、F 和 J&F。
+- **关键结果 / 消融** · 表 1 无额外图片级预训练的 DeRVOS 在 val 和 valu 的 J&F 分别为 51.8 和 60.6。
+- **适用条件 / 局限** · 语言分支依赖候选轨迹覆盖目标，候选漏检可限制整体结果。
+
+**可复用机制** · 将视频候选轨迹一致性与语言接地拆开，便于分别选择预训练骨干。
+
+<a id="paper-query-type-routing-long-video-frames"></a>
+
+## Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Divide_then_Ground_Adapting_Frame_Selection_to_Query_Types_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Divide_then_Ground_Adapting_Frame_Selection_to_Query_Types_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长视频均匀采帧可能漏掉局部事件，所有查询均做昂贵检索也会损害全局覆盖效率。
+- **核心创新 / 方法** · 区分全局和局部问题，前者走均匀采样，后者走查询相关帧选择，无需微调。
+- **Baseline** · 以 Qwen2.5-VL-32B 等模型为基础，与均匀采样、Q-Frame 和 AKS 对比。
+- **Benchmark** · MLVU、LongVideoBench、VideoMME，按帧预算比较问答成绩。
+- **关键结果 / 消融** · 32 帧时 MLVU 上 DIG 为 70.69，均匀采样为 61.91，AKS 为 66.42。
+- **适用条件 / 局限** · 8 帧时 VideoMME 长视频项 DIG 为 51.21，略低于均匀采样的 51.56。
+
+**可复用机制** · 先判断问题需要全局覆盖还是局部证据，再决定是否支付查询相关的视觉搜索成本。
+
+<a id="paper-diffusion-intermediate-visual-supervision"></a>
+
+## Diffusion Guided Chain-of-Vision for Large Autoregressive Vision Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Diffusion_Guided_Chain-of-Vision_for_Large_Autoregressive_Vision_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Diffusion_Guided_Chain-of-Vision_for_Large_Autoregressive_Vision_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉上下文学习常直接预测结果图像，训练数据缺少逐步的视觉变化标注。
+- **核心创新 / 方法** · 从扩散模型诱导的图像概率流采样连贯中间图像，作为自回归视觉模型的中间目标。
+- **Baseline** · 以 LVM 为骨干，对比直接 LoRA 微调、像素线性插值与扩散插值。
+- **Benchmark** · 七种视觉任务涵盖分割、姿态、深度和低光增强等，报告 IoU、LPIPS、RMSE、PSNR 等。
+- **关键结果 / 消融** · 1B 模型分割 IoU 在直接微调、线性插值和扩散插值时分别为 0.424、0.443、0.471。
+- **适用条件 / 局限** · 需要适合输入和输出图像的扩散先验，主表评估任务为可表成图像的输出。
+
+**可复用机制** · 可用预训练扩散模型的中间图像给纯视觉自回归模型构造逐步监督。
+
+<a id="paper-spatial-retrieval-driving"></a>
+
+## Spatial Retrieval Augmented Autonomous Driving
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jia_Spatial_Retrieval_Augmented_Autonomous_Driving_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_Spatial_Retrieval_Augmented_Autonomous_Driving_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 车载传感器受视野、遮挡及天气限制，单次观测可能缺失可从历史中恢复的静态地形。
+- **核心创新 / 方法** · 按自车轨迹对齐检索来的地理图像，将其作为现有驾驶模型的额外输入。
+- **Baseline** · 基于 MapTR、MapTRv2 等任务模型，分别对照有无额外地理图像的版本。
+- **Benchmark** · 扩展 nuScenes，覆盖检测、在线建图、占据预测、端到端规划和生成式世界模型；占据预测报告 mIoU。
+- **关键结果 / 消融** · 表2、3观察到在线建图及静态占据的收益，表4显示检测收益有限。
+- **适用条件 / 局限** · 依赖地图覆盖、时效和定位精度，陈旧地图容易与当前观察冲突，动态物体仍依赖实时传感。
+
+**可复用机制** · 用离线地理记忆补足现场感知，并按静态与动态任务分别测量先验的收益。
+
+<a id="paper-weathercity"></a>
+
+## WeatherCity: Urban Scene Reconstruction with Controllable Multi-Weather Transformation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_WeatherCity_Urban_Scene_Reconstruction_with_Controllable_Multi-Weather_Transformation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_WeatherCity_Urban_Scene_Reconstruction_with_Controllable_Multi-Weather_Transformation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 图像级天气编辑会在跨帧时产生不一致，场景重建本身又难控制未观察天气。
+- **核心创新 / 方法** · 共享场景高斯特征，按天气使用专门解码器，以跨条件内容一致性优化保持场景，另模拟动态天气粒子。
+- **Baseline** · 与正文表1的城市场景天气编辑和重建方法对照，另消融内容一致性等组件。
+- **Benchmark** · Waymo Open Dataset 和 nuScenes 的重建与天气转换，表2单列 FPS，表3报告消融。
+- **关键结果 / 消融** · 正文分别比较画面质量、速度及组件作用，支持在同一重建中按条件生成天气外观。
+- **适用条件 / 局限** · 依赖图像编辑得到的天气训练信号，感知或规划模型在实际恶劣天气中的收益需独立验证。
+
+**可复用机制** · 让模拟器共享几何与场景内容，并将条件特有外观交给独立解码器。
+
+<a id="paper-rmir-reasoning-retrieval"></a>
+
+## RMIR: A Benchmark Dataset for Reasoning-Intensive Multimodal Image Retrieval
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_RMIR_A_Benchmark_Dataset_for_Reasoning-Intensive_Multimodal_Image_Retrieval_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_RMIR_A_Benchmark_Dataset_for_Reasoning-Intensive_Multimodal_Image_Retrieval_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 已有图文检索测试多能通过直接描述或简单组合求解，难检验找目标前是否需要推理。
+- **核心创新 / 方法** · 构造需要把查询图片和文字共同解释的样本，并按功能可供性、时间关系及因果关系分组。
+- **Baseline** · 对照生成式推理嵌入与判别式检索模型，并比较推理感知训练及模型规模。
+- **Benchmark** · RMIR 共 1,634 条图文查询，表2分推理类别报告 Recall@20 等指标。
+- **关键结果 / 消融** · 最好的比较模型平均 Recall@20 为 46.53%；正文对照中推理感知训练比单纯增大模型影响更大。
+- **适用条件 / 局限** · 证据来自静态图像检索，将该结论用于长视频、交互或实体操作记忆前需复测。
+
+**可复用机制** · 以功能、时间和因果查询分别验证推理训练与参数扩张哪个更能改善检索。
+
+<a id="paper-meshweaver"></a>
+
+## MeshWeaver: Sparse-Voxel-Guided Surface Weaving for Autoregressive Mesh Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_MeshWeaver_Sparse-Voxel-Guided_Surface_Weaving_for_Autoregressive_Mesh_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_MeshWeaver_Sparse-Voxel-Guided_Surface_Weaving_for_Autoregressive_Mesh_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐坐标表示拉长了网格的序列，仅全局条件也难可靠复原局部细节。
+- **核心创新 / 方法** · 多级稀疏体素为顶点表示提供局部特征，以交叉注意力和体素支架约束解码，按粗到细预测下一顶点。
+- **Baseline** · 与 MeshAnythingV2 等自回归网格方法比较，另消融稀疏体素编码器。
+- **Benchmark** · 正文评估几何重建、网格序列压缩和不同面数的生成，训练语料涉及 Objaverse++ 和 ShapeNet。
+- **关键结果 / 消融** · 论文报告 18% 压缩比并生成至 16K 面，表3检验各稀疏体素组件。
+- **适用条件 / 局限** · 需要输入可提供局部体素引导，体素分辨率与表面细节仍有计算权衡。
+
+**可复用机制** · 给自回归几何生成加入局部稀疏结构约束，并在解码中直接预测顶点。
+
+<a id="paper-tm-bsn"></a>
+
+## TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Park_TM-BSN_Triangular-Masked_Blind-Spot_Network_for_Real-World_Self-Supervised_Image_Denoising_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Park_TM-BSN_Triangular-Masked_Blind-Spot_Network_for_Real-World_Self-Supervised_Image_Denoising_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 相机去马赛克使像素噪声相关，标准单像素盲区可能从邻点读到目标噪声，下采样又会损失上下文。
+- **核心创新 / 方法** · 以三角掩膜卷积形成菱形盲区，排除局部相关像素；可将多种盲区预测蒸馏给轻量 U-Net。
+- **Baseline** · 与自监督去噪方法对照，并分别比较预测偏移和蒸馏模型复杂度。
+- **Benchmark** · SIDD 验证集和基准集及 DND，报告 PSNR、SSIM 等去噪指标。
+- **关键结果 / 消融** · 正文表1报告多个真实噪声基准的性能，表2和表3分析复杂度及偏移选择。
+- **适用条件 / 局限** · 菱形盲区来自本文研究的 sRGB 相机流水线，其他传感器或 ISP 需先重估相关范围。
+
+**可复用机制** · 按测量噪声的相关几何设计盲区，保留原分辨率下未相关的邻域信息。
+
+<a id="paper-remot-motion-contrast"></a>
+
+## ReMoT: Reinforcement Learning with Motion Contrast Triplets
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wan_ReMoT_Reinforcement_Learning_with_Motion_Contrast_Triplets_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wan_ReMoT_Reinforcement_Learning_with_Motion_Contrast_Triplets_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉语言模型可能识别物体但混淆动作方向、相机运动或状态变化。
+- **核心创新 / 方法** · 按视频元标注合成约 16.5K 个运动对比三元组，以 GRPO 在成组响应上优化区分与逻辑一致性。
+- **Baseline** · 对照标准监督微调、不同 SFT 与 GRPO 排程，以及未按该范式训练的通用 VLM。
+- **Benchmark** · ReMoT-16K-Test 按细粒度能力报告总体和分组准确率，另评估时空与通用视觉问答。
+- **关键结果 / 消融** · 正文报告 GRPO 优于标准 SFT，表2、3分别检验数据构成和逻辑奖励，表4检查通用评测迁移。
+- **适用条件 / 局限** · 依赖视频元标注质量，问答中的运动判别是否转化成机器人控制收益仍需验证。
+
+**可复用机制** · 用仅改变细微运动属性的对照训练视觉语言模型，并比较 SFT 与 GRPO 对此能力的影响。
+
+<a id="paper-llmind-adaptive-sampling"></a>
+
+## LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Debnath_LLMind_Bio-inspired_Training-free_Adaptive_Visual_Representations_for_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Debnath_LLMind_Bio-inspired_Training-free_Adaptive_Visual_Representations_for_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一采样会在低预算推理中把同等分辨率用于信息稀疏区域，损失题目相关细节。
+- **核心创新 / 方法** · 通过 Möbius 参数化非均匀采样保留全局关系，以测试时闭环语义反馈更新关注区域。
+- **Baseline** · 在相同像素预算比较均匀与其他非均匀采样，并以全分辨率作为参考。
+- **Benchmark** · VQAv2、Seed-Bench 和 A-OKVQA，含场景与区域问题，比较不同像素预算下的问答表现。
+- **关键结果 / 消融** · 论文报告使用 1%、3%、5% 像素时最高保留全分辨率 82%、92%、97% 表现。
+- **适用条件 / 局限** · 需要冻结模型能可靠地产生语义线索，错误聚焦和反馈额外延迟在真实在线感知中需实测。
+
+**可复用机制** · 让冻结模型的语义反馈决定像素预算分配，兼顾关注区域和全局布局。
+
+<a id="paper-crisp-shared-basis-recombination"></a>
+
+## Decompose, Mix, Adapt: A Unified Framework for Parameter-Efficient Neural Network Recombination and Compression
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tasnim_Decompose_Mix_Adapt_A_Unified_Framework_for_Parameter-Efficient_Neural_Network_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tasnim_Decompose_Mix_Adapt_A_Unified_Framework_for_Parameter-Efficient_Neural_Network_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 独立使用压缩与低秩微调时，适配参数相对压缩模型仍可能很大。
+- **核心创新 / 方法** · 把预训练权重分解为基底和混合投影，在层间共享基底，通过系数门控重组权重，统一压缩与适配。
+- **Baseline** · 比较 LoRA、VBLoRA、CoLoRA 等参数高效微调方法，并比较压缩方案。
+- **Benchmark** · VTAB-1K 的 19 项任务，按自然、专业和结构类分组，测准确率与可训练参数占比。
+- **关键结果 / 消融** · 表 1 报告适配参数约为基础模型的 0.005%，最低参数基线约 0.007%。
+- **适用条件 / 局限** · 基底共享收益与权重相似性和压缩预算有关，部署需实测重组开销。
+
+**可复用机制** · 让模型压缩和适配共享权重基底，以减少压缩后附加适配器的参数占比。
+
+<a id="paper-artrack-ac-forecast-inference-capacity"></a>
+
+## Adaptive Capacity Autoregressive Visual Tracking
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_Adaptive_Capacity_Autoregressive_Visual_Tracking_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Adaptive_Capacity_Autoregressive_Visual_Tracking_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定容量追踪无法随视频片段的运动复杂性变化，简单切换也可能中断时序状态。
+- **核心创新 / 方法** · 用小型扩散轨迹估计器预测未来稳定性，控制器据此切换高容量和轻量分支，并保持自回归状态。
+- **Baseline** · 高容量分支用 ARTrackOT，轻量分支用 FARTracknano，比较固定容量的追踪方法。
+- **Benchmark** · LaSOT 与 LaSOText 报 AUC，并测 Titan Xp 和 Xeon CPU 的速度。
+- **关键结果 / 消融** · LaSOT 和 LaSOText AUC 分别为 66.7% 和 47.5%，论文报告相对前代约 2.9 倍加速。
+- **适用条件 / 局限** · 收益依赖难度预报可靠性与两分支间状态兼容性，突变运动可能影响调度。
+
+**可复用机制** · 提前预测观测难度，再调度昂贵和轻量追踪器，同时维持轨迹状态。
+
+<a id="paper-stable-mean-flow-local-nonexpansivity"></a>
+
+## Stable Mean Flow: Lyapunov-Inspired One-Step Flow Matching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Stable_Mean_Flow_Lyapunov-Inspired_One-Step_Flow_Matching_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Stable_Mean_Flow_Lyapunov-Inspired_One-Step_Flow_Matching_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一步平均流的传输映射可能放大附近输入扰动并积累轨迹误差。
+- **核心创新 / 方法** · 在 Mean Flow 上加入 Lyapunov 启发的局部不扩张正则，并推导单步与多步的误差上界。
+- **Baseline** · Mean Flow 基线，比较不同扰动步长和正则强度。
+- **Benchmark** · CIFAR-10 一步图像生成，以 FID 衡量质量，报告训练迭代设置。
+- **关键结果 / 消融** · 表 1 同一扰动步长 0.01 下，正则强度 0.1 的 FID 为 79.86，无正则为 86.73，正则过强反而更差。
+- **适用条件 / 局限** · 正则强度和扰动步长需联合调节，CIFAR-10 证据不足以预估其他数据的收益。
+
+**可复用机制** · 用局部不扩张约束减少一步生成映射对扰动的放大。
+
+<a id="paper-sope-spherical-positional-encoding"></a>
+
+## SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yip_SoPE_Spherical_Coordinate-Based_Positional_Embedding_for_Enhancing_Spatial_Perception_of_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yip_SoPE_Spherical_Coordinate-Based_Positional_Embedding_for_Enhancing_Spatial_Perception_of_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 按序列索引使用 RoPE 难以表达三维点的方向和几何关系。
+- **核心创新 / 方法** · 将点云 token 映射到球坐标，联合编码位置和方向，并以 SpatialSoPE 处理空间结构。
+- **Baseline** · 比较原有 RoPE 方案，布局估计与 RoomFormer、SceneScript 等对照。
+- **Benchmark** · 三维室内布局估计和空间理解，布局任务报告结构 F1 等指标。
+- **关键结果 / 消融** · 表 1 显示 SpatialSoPE 微调是布局估计得分提高的主要因素。
+- **适用条件 / 局限** · 坐标原点和方向定义影响表示，换视角与场景分布需要重新验证。
+
+**可复用机制** · 为 3D 多模态模型选择同时表达距离和角度的位置编码。
+
+<a id="paper-edudiag-error-reconstruction-and-correction"></a>
+
+## EduDiag: A Benchmark for Educational Diagnostic Reasoning with Error Tracing and Correction on Large Multimodal Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_EduDiag_A_Benchmark_for_Educational_Diagnostic_Reasoning_with_Error_Tracing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_EduDiag_A_Benchmark_for_Educational_Diagnostic_Reasoning_with_Error_Tracing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 标准多模态问答只评正确答案，难检验模型能否发现并解释错误推理。
+- **核心创新 / 方法** · 用人工复核错误推理链及对应反馈，从错误答案出发要求重建错误过程并给纠正意见。
+- **Baseline** · 比较 24 种多模态模型，评估中对比直接解答与反馈驱动纠正。
+- **Benchmark** · EduDiag 有 3,044 道常识、科学、数学题和 8,345 条错误链与反馈，报告纠正准确率等。
+- **关键结果 / 消融** · 高性能模型仍难生成与人工参考相当的反馈，附录报告不同反馈设置在纠正准确率上的收益。
+- **适用条件 / 局限** · 错误候选由模型生成后人工筛选，可能与真实新手的错误分布不同。
+
+**可复用机制** · 把反馈能力拆为错误定位、重建错误逻辑及纠正，可迁移到智能体失败诊断。
+
+<a id="paper-colavla-latent-meta-action-planning"></a>
+
+## ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Peng_ColaVLA_Leveraging_Cognitive_Latent_Reasoning_for_Hierarchical_Parallel_Trajectory_Planning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Peng_ColaVLA_Leveraging_Cognitive_Latent_Reasoning_for_Hierarchical_Parallel_Trajectory_Planning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 生成文本思维链带来延迟，离散语言和连续控制之间还存在接口成本。
+- **核心创新 / 方法** · 两次 VLM 前向把场景压缩为面向决策的元动作嵌入，再由层级并行规划器解码轨迹。
+- **Baseline** · 对比 SOLVE-E2E 等行动模型与文本规划模型。
+- **Benchmark** · nuScenes 开环轨迹规划，报告不同时间范围下 L2 和碰撞率。
+- **关键结果 / 消融** · 表 1 平均碰撞率为 0.23，SOLVE-E2E 为 0.30，平均 L2 同为约 0.30–0.31。
+- **适用条件 / 局限** · 开环指标无法覆盖长期交互与累积误差，部署需结合闭环验证。
+
+**可复用机制** · 将语言推理压缩为潜在元动作，用层级并行解码生成连续轨迹，减少自回归延迟。

@@ -844,5 +844,6 @@
 - [Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling](../../conferences/cvpr-2026/cards.md#paper-composer-one-shot-parameter-adaptation)
 - [Real-World Point Tracking with Verifier-Guided Pseudo-Labeling](../../conferences/cvpr-2026/cards.md#paper-verifier-per-frame-pseudo-label-selection)
 - [Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models](../../conferences/cvpr-2026/cards.md#paper-mmhnet-train-short-test-long)
+- [Decompose, Mix, Adapt: A Unified Framework for Parameter-Efficient Neural Network Recombination and Compression](../../conferences/cvpr-2026/cards.md#paper-crisp-shared-basis-recombination)
 
 <!-- conference-classification:end -->
