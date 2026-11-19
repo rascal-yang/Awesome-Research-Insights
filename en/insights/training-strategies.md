@@ -1247,5 +1247,9 @@ Training schedules, curricula, and task or stage composition.
 - [Towards Foundation Models for 3D Scene Understanding: Instance-Aware Self-Supervised Learning for Point Clouds](../../conferences/cvpr-2026/cards.md#paper-pointins-instance-aware-ssl)
 - [Building a Precise Video Language with Human-AI Oversight](../../conferences/cvpr-2026/cards.md#paper-chai-video-caption-oversight)
 - [Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion](../../conferences/cvpr-2026/cards.md#paper-arbitrary-pairing-infrared-visible-fusion)
+- [From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training](../../conferences/cvpr-2026/cards.md#paper-entropy-phase-switch-noisy-rlvr)
+- [Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation](../../conferences/cvpr-2026/cards.md#paper-tracker-correspondence-dynamic-generation)
+- [Edit2Perceive: Image Editing Diffusion Models Are Strong Dense Perceivers](../../conferences/cvpr-2026/cards.md#paper-editing-backbone-deterministic-dense-perception)
+- [HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation](../../conferences/cvpr-2026/cards.md#paper-hg-lane-label-preserving-weather)
 
 <!-- conference-classification:end -->

@@ -860,5 +860,6 @@
 - [DCoAR: Deep Concept Injection into Unified Autoregressive Models for Personalized Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-dcoar-deep-frozen-concept-injection)
 - [Dynamic Visual SLAM using a General 3D Prior](../conferences/cvpr-2026/cards.md#paper-dynamic-slam-feedforward-geometry-prior)
 - [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-diffgraph-subgraph-model-merging)
+- [LiDeRe: A Lightweight Readout for Fast and Data-Efficient Dense Prediction](../conferences/cvpr-2026/cards.md#paper-lidere-frozen-dense-readout)
 
 <!-- conference-classification:end -->

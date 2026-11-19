@@ -2548,5 +2548,8 @@
 - [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](../conferences/cvpr-2026/cards.md#paper-onesparse-memory-moe-unified-routing)
 - [Content-Aware Frequency Encoding for Implicit Neural Representations with Fourier-Chebyshev Features](../conferences/cvpr-2026/cards.md#paper-multiplicative-content-aware-frequency-basis)
 - [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-diffgraph-subgraph-model-merging)
+- [ReFTA: Breaking the Weight Reconstruction Bottleneck in Tensorized Parameter-Efficient Fine-Tuning](../conferences/cvpr-2026/cards.md#paper-factor-space-tensor-finetuning)
+- [LiDeRe: A Lightweight Readout for Fast and Data-Efficient Dense Prediction](../conferences/cvpr-2026/cards.md#paper-lidere-frozen-dense-readout)
+- [LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs](../conferences/cvpr-2026/cards.md#paper-lata-label-free-transductive-conformal)
 
 <!-- conference-classification:end -->

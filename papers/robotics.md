@@ -1078,5 +1078,8 @@
 - [EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents](../conferences/cvpr-2026/cards.md#paper-embodmocap-dual-rgbd)
 - [PerpetualWonder: Long-horizon Action-conditioned 4D Scene Generation](../conferences/cvpr-2026/cards.md#paper-perpetualwonder-shared-visual-physics-state)
 - [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](../conferences/cvpr-2026/cards.md#paper-worldlens-functional-world-model-evaluation)
+- [Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling](../conferences/cvpr-2026/cards.md#paper-recent-and-global-keyframe-spatial-memory)
+- [HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation](../conferences/cvpr-2026/cards.md#paper-hg-lane-label-preserving-weather)
+- [ParticleGS: Learning Neural Gaussian Particle Dynamics from Videos for Prior-free Physical Motion Extrapolation](../conferences/cvpr-2026/cards.md#paper-particlegs-continuous-particle-dynamics)
 
 <!-- conference-classification:end -->

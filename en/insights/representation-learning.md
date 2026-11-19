@@ -748,5 +748,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-shared-continuous-latents-understanding-generation)
 - [Weight Space Representation Learning via Neural Field Adaptation](../../conferences/cvpr-2026/cards.md#paper-mlora-structured-weight-space)
 - [Physical Object Understanding with a Physically Controllable World Model](../../conferences/cvpr-2026/cards.md#paper-conditional-world-model-motion-intervention)
+- [Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling](../../conferences/cvpr-2026/cards.md#paper-recent-and-global-keyframe-spatial-memory)
+- [RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations](../../conferences/cvpr-2026/cards.md#paper-degradation-conditioned-document-rag)
 
 <!-- conference-classification:end -->

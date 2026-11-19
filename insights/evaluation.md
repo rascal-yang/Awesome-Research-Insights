@@ -1581,5 +1581,6 @@
 - [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](../conferences/cvpr-2026/cards.md#paper-video-reasoning-task-conditional-benefits)
 - [PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing](../conferences/cvpr-2026/cards.md#paper-explicit-negatives-paraphrase-retrieval-test)
 - [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](../conferences/cvpr-2026/cards.md#paper-worldlens-functional-world-model-evaluation)
+- [Will Multimodal Models Be Dazzled by Multi-Image Visual Puzzles?](../conferences/cvpr-2026/cards.md#paper-cross-image-dependency-evaluation)
 
 <!-- conference-classification:end -->

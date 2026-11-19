@@ -441,5 +441,6 @@ Data selection, annotation, augmentation, and sampling.
 - [SimScale: Learning to Drive via Real-World Simulation at Scale](../../conferences/cvpr-2026/cards.md#paper-simscale-reactive-perturbations-pseudo-expert)
 - [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-hierarchical-latent-prototypes-distillation)
 - [ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-recall-diagnose-generate-refine-retrieval)
+- [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-reag-critic-filtered-multimodal-retrieval)
 
 <!-- conference-classification:end -->

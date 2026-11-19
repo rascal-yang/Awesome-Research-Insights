@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,817 篇，其中 1,780 篇暂收录、1,037 篇排除，另有 1,225 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,847 篇，其中 1,798 篇暂收录、1,049 篇排除，另有 1,195 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1786,3 +1786,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,817
 | 多模态学习 | 跨模态自监督 | [Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion](cards.md#paper-arbitrary-pairing-infrared-visible-fusion) | 配准对稀缺时，将配对监督与非配对数据结合并比较三种数据协议。 |
 | 机器人学 | 评测设计 | [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](cards.md#paper-worldlens-functional-world-model-evaluation) | 对世界模型同时检查几何、动作执行和下游任务，避免以画质代替仿真有效性。 |
 | 生成模型 | 专家合并 | [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](cards.md#paper-diffgraph-subgraph-model-merging) | 用请求相关子图挑选兼容专家，再有条件地合并生成模型。 |
+| 机器学习基础与统计 | 优化 | [ReFTA: Breaking the Weight Reconstruction Bottleneck in Tensorized Parameter-Efficient Fine-Tuning](cards.md#paper-factor-space-tensor-finetuning) | 张量微调可直接在因子空间计算前反向，避免每步还原跨层权重。 |
+| 多模态学习 | 训练策略 | [From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training](cards.md#paper-entropy-phase-switch-noisy-rlvr) | 可验证奖励含噪时可先提高 token 熵维持候选多样性，再切换到低熵利用阶段。 |
+| 计算机视觉 | 训练策略 | [Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation](cards.md#paper-tracker-correspondence-dynamic-generation) | 跨视图视频生成可用预训练点跟踪器给中间特征提供时间对应监督。 |
+| 机器人学 | 表征学习 | [Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling](cards.md#paper-recent-and-global-keyframe-spatial-memory) | 单目 SLAM 可分别维护短期连续性和长期空间匹配，降低单一地图索引的定位负担。 |
+| 多模态学习 | 表征学习 | [RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations](cards.md#paper-degradation-conditioned-document-rag) | 视觉 RAG 可先提取失真线索，再用它指导语义分支，避免失真同时污染检索和答复。 |
+| 计算机视觉 | 训练策略 | [Edit2Perceive: Image Editing Diffusion Models Are Strong Dense Perceivers](cards.md#paper-editing-backbone-deterministic-dense-perception) | 密集感知可从配准友好的图像编辑扩散模型初始化，并施加像素结构一致性。 |
+| 多模态学习 | 评测与诊断 | [Will Multimodal Models Be Dazzled by Multi-Image Visual Puzzles?](cards.md#paper-cross-image-dependency-evaluation) | 多图推理题应确保关键证据分布在不同图中，否则单图捷径会高估能力。 |
+| 多模态学习 | 推理策略 | [GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding](cards.md#paper-groundvts-query-token-sampling) | 在输入语言模型之前按查询筛选视觉令牌，并让骨干适应非均匀时间观测。 |
+| 智能体 | 推理策略 | [LAM: Language Articulated Object Modelers](cards.md#paper-lam-articulated-code-generation) | 将可动对象写成带显式部件和关节的程序，再以编译结果和视觉检查闭环纠错。 |
+| 多模态学习 | 推理策略 | [The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA](cards.md#paper-llava-layer-spatial-priors) | 用冻结语言层中已存在的空间响应生成掩膜提示，实测选层与提示的作用。 |
+| 多模态学习 | 推理策略 | [TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification](cards.md#paper-tape-prototype-evolution) | 类增量学习中分离会话特征并在推理中按查询调整原型，可缓和低样本和模态错配。 |
+| 计算机视觉 | 推理策略 | [Image Guides Images: Consistent Video Amodal Completion with Rectified In-Context Exemplar Guidance](cards.md#paper-rectified-exemplar-video-completion) | 在冻结图像修复器中以校准的视频示例约束遮挡补全，对照上下文是否真正相关。 |
+| 机器人学 | 训练策略 | [HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation](cards.md#paper-hg-lane-label-preserving-weather) | 让天气和光照合成保持现有几何标注，并按扰动类别测感知鲁棒性。 |
+| 机器人学 | 世界模型 | [ParticleGS: Learning Neural Gaussian Particle Dynamics from Videos for Prior-free Physical Motion Extrapolation](cards.md#paper-particlegs-continuous-particle-dynamics) | 预测未来时在粒子状态上学习连续时间动力学，并将渲染与演化分开。 |
+| 智能体 | 检索增强 | [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](cards.md#paper-reag-critic-filtered-multimodal-retrieval) | 在检索后单独验证外部证据是否相关，以免生成器被似是而非的段落误导。 |
+| 高效深度学习 | 参数高效适配 | [LiDeRe: A Lightweight Readout for Fast and Data-Efficient Dense Prediction](cards.md#paper-lidere-frozen-dense-readout) | 小数据密集预测可先尝试冻结底座，仅训练插值和注意力读出。 |
+| 机器学习 | 不确定性校准 | [LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs](cards.md#paper-lata-label-free-transductive-conformal) | 在不读取标签的情况下对校准与测试样本联合做图平滑，再进行保形校准。 |
+| 多模态学习 | 强化学习与奖励 | [Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning](cards.md#paper-doge-context-first-self-evolving-learning) | 少监督场景先训练理解上下文，再练问题求解，降低直接自奖励形成捷径的风险。 |

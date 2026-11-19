@@ -1536,5 +1536,8 @@ Visual representation, recognition, reconstruction, and generation.
 - [Turbo-GS: Accelerating 3D Gaussian Fitting for High-Resolution Radiance Fields](../../conferences/cvpr-2026/cards.md#paper-turbo-gs-convergence-budget)
 - [Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning](../../conferences/cvpr-2026/cards.md#paper-slotcurri-reconstruction-guidance)
 - [Towards Foundation Models for 3D Scene Understanding: Instance-Aware Self-Supervised Learning for Point Clouds](../../conferences/cvpr-2026/cards.md#paper-pointins-instance-aware-ssl)
+- [Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation](../../conferences/cvpr-2026/cards.md#paper-tracker-correspondence-dynamic-generation)
+- [Edit2Perceive: Image Editing Diffusion Models Are Strong Dense Perceivers](../../conferences/cvpr-2026/cards.md#paper-editing-backbone-deterministic-dense-perception)
+- [Image Guides Images: Consistent Video Amodal Completion with Rectified In-Context Exemplar Guidance](../../conferences/cvpr-2026/cards.md#paper-rectified-exemplar-video-completion)
 
 <!-- conference-classification:end -->

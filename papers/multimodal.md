@@ -1469,5 +1469,12 @@
 - [Building a Precise Video Language with Human-AI Oversight](../conferences/cvpr-2026/cards.md#paper-chai-video-caption-oversight)
 - [MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](../conferences/cvpr-2026/cards.md#paper-moddpo-relevant-modality-invariance)
 - [Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion](../conferences/cvpr-2026/cards.md#paper-arbitrary-pairing-infrared-visible-fusion)
+- [From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training](../conferences/cvpr-2026/cards.md#paper-entropy-phase-switch-noisy-rlvr)
+- [RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations](../conferences/cvpr-2026/cards.md#paper-degradation-conditioned-document-rag)
+- [Will Multimodal Models Be Dazzled by Multi-Image Visual Puzzles?](../conferences/cvpr-2026/cards.md#paper-cross-image-dependency-evaluation)
+- [GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-groundvts-query-token-sampling)
+- [The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA](../conferences/cvpr-2026/cards.md#paper-llava-layer-spatial-priors)
+- [TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification](../conferences/cvpr-2026/cards.md#paper-tape-prototype-evolution)
+- [Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning](../conferences/cvpr-2026/cards.md#paper-doge-context-first-self-evolving-learning)
 
 <!-- conference-classification:end -->

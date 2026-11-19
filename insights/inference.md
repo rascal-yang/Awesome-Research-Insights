@@ -1644,5 +1644,10 @@
 - [Global Structure-from-Motion Meets Feedforward Reconstruction](../conferences/cvpr-2026/cards.md#paper-feedforward-priors-global-sfm)
 - [Compositional Transformation Reasoning for Composed Video Retrieval](../conferences/cvpr-2026/cards.md#paper-decomposed-transformation-video-retrieval)
 - [RAID: Retrieval-Augmented Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-normal-template-guidance-anomaly-residual)
+- [GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-groundvts-query-token-sampling)
+- [LAM: Language Articulated Object Modelers](../conferences/cvpr-2026/cards.md#paper-lam-articulated-code-generation)
+- [The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA](../conferences/cvpr-2026/cards.md#paper-llava-layer-spatial-priors)
+- [TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification](../conferences/cvpr-2026/cards.md#paper-tape-prototype-evolution)
+- [Image Guides Images: Consistent Video Amodal Completion with Rectified In-Context Exemplar Guidance](../conferences/cvpr-2026/cards.md#paper-rectified-exemplar-video-completion)
 
 <!-- conference-classification:end -->

@@ -807,5 +807,6 @@
 - [Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](../conferences/cvpr-2026/cards.md#paper-localdpo-counterfactual-video-regions)
 - [Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR](../conferences/cvpr-2026/cards.md#paper-fdrl-format-rewards)
 - [MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](../conferences/cvpr-2026/cards.md#paper-moddpo-relevant-modality-invariance)
+- [Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning](../conferences/cvpr-2026/cards.md#paper-doge-context-first-self-evolving-learning)
 
 <!-- conference-classification:end -->
