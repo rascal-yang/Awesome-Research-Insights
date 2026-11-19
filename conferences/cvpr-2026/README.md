@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,567 篇，其中 2,263 篇暂收录、1,304 篇排除，另有 475 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,597 篇，其中 2,283 篇暂收录、1,314 篇排除，另有 445 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2269,3 +2269,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,567
 | 机器人学 | 传感器融合 | [The Midas Touch for Metric Depth](cards.md#paper-mtd-segmentwise-sparse-metric-depth) | 以少量米制深度锚定相对预测，用分段尺度和边界约束减少局部误差。 |
 | 多模态学习 | 结构化生成 | [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](cards.md#paper-omnilottie-structured-command-tokenization) | 为结构化动画生成剥离不变序列化字段，只学习命令和参数。 |
 | 生成模型 | 记忆机制 | [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](cards.md#paper-narrative-weaver-dynamic-visual-memory) | 高层叙事计划与细粒度视觉记忆分开更新，相邻输出无需承担全部历史一致性。 |
+| 机器学习基础与统计 | 优化 | [Bilevel Layer-Positioning LoRA for Real Image Dehazing](cards.md#paper-bilevel-adapter-layer-selection) | 低秩适配可在外层优化该在哪些层插入模块，内层再学习其参数。 |
+| 多模态学习 | 推理策略 | [3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding](cards.md#paper-3d-scene-counterfactual-decoding) | 具身问答可对比原始与反事实三维场景表征的解码，检查回答是否依赖对象证据。 |
+| 计算机视觉 | 表征学习 | [GeoMotion: Rethinking Motion Segmentation via Latent 4D Geometry](cards.md#paper-latent-geometry-motion-segmentation) | 运动分割可从四维几何潜表示中学习分离相机和对象运动，减少显式匹配的误差传递。 |
+| 计算机视觉 | 模型架构 | [Generative Point Tracking and Forecasting](cards.md#paper-causal-flow-point-tracking-and-forecasting) | 可训练同一因果流匹配模型，只通过改变可见视频条件切换跟踪和预测。 |
+| 计算机视觉 | 模型架构 | [DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification](cards.md#paper-stochastic-binary-opacity-triangle-fields) | 高效渲染可用少量带神经纹理的三角形代替密集图元，并通过随机掩码训练二值不透明度。 |
+| 多模态学习 | 推理策略 | [dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](cards.md#paper-two-axis-efficient-diffusion-test-time-scaling) | 生成推理预算可分成探索轨迹和细化同一轨迹两类，避免将二者机械地笛卡尔乘积。 |
+| 机器人学 | 推理策略 | [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](cards.md#paper-tvve-task-view-exploration) | 先在重建场景中挑任务最有用的虚拟视角，再为策略提供重渲染观测。 |
+| 多模态学习 | 推理策略 | [DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference](cards.md#paper-duet-vlm-two-stage-compression) | 视觉编码后先除空间冗余，语言层内再依据问题删弱相关令牌。 |
+| 多模态学习 | 评测与诊断 | [Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models](cards.md#paper-downscaling-perception-bottleneck) | 缩小语言骨干后独立测试视觉提取和推理，必要时优先强化感知对齐。 |
+| 机器人学 | 模型架构 | [LAMP: Localization Aware Multi-camera People Tracking in Metric 3D World](cards.md#paper-lamp-world-ray-tracking) | 有移动相机位姿时先将各视图人体关键点提升为世界系射线，再解算目标运动。 |
+| 多模态学习 | 评测与诊断 | [FPS-Bench: A Benchmark for High Frame-Rate Video Understanding](cards.md#paper-fps-bench-minfps) | 按问题所需最低帧率分层测试，避免低帧率排行榜掩盖对快速事件的失明。 |
+| 多模态学习 | 训练策略 | [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](cards.md#paper-conan-multiscale-visual-evidence) | 对视频推理过程显式监督证据帧和空间区域，不只优化文字解释。 |
+| 计算机视觉 | 模型架构 | [Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors](cards.md#paper-points-to-3d-structural-inpainting) | 扩散补全从已有空间点构建初始结构，用已观测几何约束缺失部分。 |
+| 计算机视觉 | 训练策略 | [Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models](cards.md#paper-compt-model-family-transfer) | 多种规模模型按小到大接续预训练，同时迁移参数和特征。 |
+| 计算机视觉 | 训练策略 | [Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning](cards.md#paper-marval-distilled-inner-loop) | 保留自回归揭掩顺序，将每个外层更新内部的扩散去噪蒸馏成一步。 |
+| 多模态学习 | 主动感知 | [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](cards.md#paper-zoomearth-region-guided-active-cropping) | 为高分辨率图像训练按需放大，并用有证据的区域奖励而非全图稠密编码。 |
+| 三维视觉 | 训练目标 | [ViLearn: Accelerating Training Convergence of Image-to-3D Generation via Visibility Learning](cards.md#paper-vilearn-visibility-position-inductive-bias) | 把可见几何与待补全几何区分开，减小无序形状潜变量上的学习歧义。 |
+| 多模态学习 | 时空表征 | [FlexiVideo: Variation-Aware Temporal Dynamics Modeling for Efficient Video Understanding](cards.md#paper-flexivideo-change-aware-temporal-segmentation) | 按视觉变化先找时间段，再在段内使用动态编码，避免固定窗口跨越突变。 |
+| 机器学习 | 域泛化 | [Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery](cards.md#paper-causalgcd-domain-shift-and-novel-category) | 当新类别和新域同时出现时，分开诊断环境偏差与聚类错误。 |
+| 多模态学习 | 强化学习与奖励 | [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](cards.md#paper-rc2-cross-modal-cycle-consistency-reward) | 用跨模态往返能否重建同一结论作为无标签奖励，比较与多数投票的差异。 |

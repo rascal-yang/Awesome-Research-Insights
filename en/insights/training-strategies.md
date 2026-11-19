@@ -1365,5 +1365,9 @@ Training schedules, curricula, and task or stage composition.
 - [TriSim: Tri-Dimensional Similarity Modeling with Extreme Value Theory for False-Negative Mitigation in Remote Sensing Image-Text Retrieval](../../conferences/cvpr-2026/cards.md#paper-three-way-similarity-false-negative-tail)
 - [Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs](../../conferences/cvpr-2026/cards.md#paper-shortcut-reference-policy-lightweight-video-rl)
 - [ReasonEdit: Towards Reasoning-Enhanced Image Editing Models](../../conferences/cvpr-2026/cards.md#paper-reasonedit-thinking-reflection)
+- [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](../../conferences/cvpr-2026/cards.md#paper-conan-multiscale-visual-evidence)
+- [Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-compt-model-family-transfer)
+- [Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-marval-distilled-inner-loop)
+- [ViLearn: Accelerating Training Convergence of Image-to-3D Generation via Visibility Learning](../../conferences/cvpr-2026/cards.md#paper-vilearn-visibility-position-inductive-bias)
 
 <!-- conference-classification:end -->

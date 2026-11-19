@@ -1722,5 +1722,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](../../conferences/cvpr-2026/cards.md#paper-dependency-aware-joint-tracking-token-pruning)
 - [RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360deg Image Quality Assessment](../../conferences/cvpr-2026/cards.md#paper-rl-scaniqa-task-aware-viewports)
 - [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](../../conferences/cvpr-2026/cards.md#paper-omnilottie-structured-command-tokenization)
+- [3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding](../../conferences/cvpr-2026/cards.md#paper-3d-scene-counterfactual-decoding)
+- [dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-two-axis-efficient-diffusion-test-time-scaling)
+- [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-tvve-task-view-exploration)
+- [DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference](../../conferences/cvpr-2026/cards.md#paper-duet-vlm-two-stage-compression)
 
 <!-- conference-classification:end -->

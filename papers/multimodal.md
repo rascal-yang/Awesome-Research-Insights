@@ -1621,5 +1621,14 @@
 - [ReasonEdit: Towards Reasoning-Enhanced Image Editing Models](../conferences/cvpr-2026/cards.md#paper-reasonedit-thinking-reflection)
 - [PromptEnhancer: Taming Your Rewriter for Text-to-Image Generation via Fine-Grained Reward](../conferences/cvpr-2026/cards.md#paper-promptenhancer-failure-taxonomy)
 - [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](../conferences/cvpr-2026/cards.md#paper-omnilottie-structured-command-tokenization)
+- [3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding](../conferences/cvpr-2026/cards.md#paper-3d-scene-counterfactual-decoding)
+- [dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models](../conferences/cvpr-2026/cards.md#paper-two-axis-efficient-diffusion-test-time-scaling)
+- [DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference](../conferences/cvpr-2026/cards.md#paper-duet-vlm-two-stage-compression)
+- [Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models](../conferences/cvpr-2026/cards.md#paper-downscaling-perception-bottleneck)
+- [FPS-Bench: A Benchmark for High Frame-Rate Video Understanding](../conferences/cvpr-2026/cards.md#paper-fps-bench-minfps)
+- [Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](../conferences/cvpr-2026/cards.md#paper-conan-multiscale-visual-evidence)
+- [ZoomEarth: Active Perception for Ultra-High-Resolution Geospatial Vision-Language Tasks](../conferences/cvpr-2026/cards.md#paper-zoomearth-region-guided-active-cropping)
+- [FlexiVideo: Variation-Aware Temporal Dynamics Modeling for Efficient Video Understanding](../conferences/cvpr-2026/cards.md#paper-flexivideo-change-aware-temporal-segmentation)
+- [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-rc2-cross-modal-cycle-consistency-reward)
 
 <!-- conference-classification:end -->

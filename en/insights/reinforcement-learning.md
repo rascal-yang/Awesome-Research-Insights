@@ -824,5 +824,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-var-rl-asynchronous-stage-credit)
 - [PromptEnhancer: Taming Your Rewriter for Text-to-Image Generation via Fine-Grained Reward](../../conferences/cvpr-2026/cards.md#paper-promptenhancer-failure-taxonomy)
 - [WebGym: Scaling Training Environments for Long-Horizon Visual Web Agents with Realistic Tasks](../../conferences/cvpr-2026/cards.md#paper-webgym-asynchronous-long-horizon-rollouts)
+- [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-rc2-cross-modal-cycle-consistency-reward)
 
 <!-- conference-classification:end -->

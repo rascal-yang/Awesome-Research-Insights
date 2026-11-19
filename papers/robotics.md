@@ -1166,5 +1166,7 @@
 - [Scalable Trajectory Generation for Whole-Body Mobile Manipulation](../conferences/cvpr-2026/cards.md#paper-unified-base-arm-object-kinematics-data-generation)
 - [Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-sensor2sensor-cross-embodiment)
 - [The Midas Touch for Metric Depth](../conferences/cvpr-2026/cards.md#paper-mtd-segmentwise-sparse-metric-depth)
+- [Learning to See and Act: Task-Aware Virtual View Exploration for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-tvve-task-view-exploration)
+- [LAMP: Localization Aware Multi-camera People Tracking in Metric 3D World](../conferences/cvpr-2026/cards.md#paper-lamp-world-ray-tracking)
 
 <!-- conference-classification:end -->

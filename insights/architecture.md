@@ -830,5 +830,9 @@
 - [CLCR: Cross-Level Semantic Collaborative Representation for Multimodal Learning](../conferences/cvpr-2026/cards.md#paper-clcr-tiered-modality-exchange)
 - [Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-sensor2sensor-cross-embodiment)
 - [U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation](../conferences/cvpr-2026/cards.md#paper-umind-segmentwise-alignment)
+- [Generative Point Tracking and Forecasting](../conferences/cvpr-2026/cards.md#paper-causal-flow-point-tracking-and-forecasting)
+- [DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification](../conferences/cvpr-2026/cards.md#paper-stochastic-binary-opacity-triangle-fields)
+- [LAMP: Localization Aware Multi-camera People Tracking in Metric 3D World](../conferences/cvpr-2026/cards.md#paper-lamp-world-ray-tracking)
+- [Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors](../conferences/cvpr-2026/cards.md#paper-points-to-3d-structural-inpainting)
 
 <!-- conference-classification:end -->

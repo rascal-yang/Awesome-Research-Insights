@@ -785,5 +785,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Token Warping Helps MLLMs Look from Nearby Viewpoints](../../conferences/cvpr-2026/cards.md#paper-backward-token-warping-nearby-viewpoints)
 - [HERO: Hierarchical Embedding-Refinement for Open-Vocabulary Temporal Sentence Grounding in Videos](../../conferences/cvpr-2026/cards.md#paper-hierarchical-language-cues-open-video-grounding)
 - [4DSurf: High-Fidelity Dynamic Scene Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-gaussian-motion-induced-sdf-flow)
+- [GeoMotion: Rethinking Motion Segmentation via Latent 4D Geometry](../../conferences/cvpr-2026/cards.md#paper-latent-geometry-motion-segmentation)
+- [FlexiVideo: Variation-Aware Temporal Dynamics Modeling for Efficient Video Understanding](../../conferences/cvpr-2026/cards.md#paper-flexivideo-change-aware-temporal-segmentation)
 
 <!-- conference-classification:end -->

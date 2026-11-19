@@ -1687,5 +1687,12 @@
 - [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Urban Scenes](../conferences/cvpr-2026/cards.md#paper-pritti-urban-primitives)
 - [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](../conferences/cvpr-2026/cards.md#paper-dependency-aware-joint-tracking-token-pruning)
 - [RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360deg Image Quality Assessment](../conferences/cvpr-2026/cards.md#paper-rl-scaniqa-task-aware-viewports)
+- [GeoMotion: Rethinking Motion Segmentation via Latent 4D Geometry](../conferences/cvpr-2026/cards.md#paper-latent-geometry-motion-segmentation)
+- [Generative Point Tracking and Forecasting](../conferences/cvpr-2026/cards.md#paper-causal-flow-point-tracking-and-forecasting)
+- [DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification](../conferences/cvpr-2026/cards.md#paper-stochastic-binary-opacity-triangle-fields)
+- [Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors](../conferences/cvpr-2026/cards.md#paper-points-to-3d-structural-inpainting)
+- [Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-compt-model-family-transfer)
+- [Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-marval-distilled-inner-loop)
+- [ViLearn: Accelerating Training Convergence of Image-to-3D Generation via Visibility Learning](../conferences/cvpr-2026/cards.md#paper-vilearn-visibility-position-inductive-bias)
 
 <!-- conference-classification:end -->

@@ -2624,5 +2624,7 @@
 - [GSNR: Graph Smooth Null-Space Representation for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-gsnr-nullspace-prior)
 - [FAST: Topology-Aware Frequency-Domain Distribution Matching for Coreset Selection](../conferences/cvpr-2026/cards.md#paper-fast-frequency-distribution-coreset)
 - [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](../conferences/cvpr-2026/cards.md#paper-narrative-weaver-dynamic-visual-memory)
+- [Bilevel Layer-Positioning LoRA for Real Image Dehazing](../conferences/cvpr-2026/cards.md#paper-bilevel-adapter-layer-selection)
+- [Seeing Through the Shift: Causality-Inspired Robust Generalized Category Discovery](../conferences/cvpr-2026/cards.md#paper-causalgcd-domain-shift-and-novel-category)
 
 <!-- conference-classification:end -->
