@@ -1603,5 +1603,9 @@
 - [DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR](../conferences/cvpr-2026/cards.md#paper-dsert-roll-sensor-combinations)
 - [BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](../conferences/cvpr-2026/cards.md#paper-bridgeeqa-image-citation-relevance)
 - [MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models](../conferences/cvpr-2026/cards.md#paper-micon-multi-image-checkpoint-verification)
+- [Circuit Mechanisms for Spatial Relation Generation in Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-text-encoder-changes-spatial-generation-circuits)
+- [ZINA: Multimodal Fine-grained Hallucination Detection and Editing](../conferences/cvpr-2026/cards.md#paper-zina-span-hallucination-editing)
+- [Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](../conferences/cvpr-2026/cards.md#paper-matt-mistake-attribution)
+- [Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following](../conferences/cvpr-2026/cards.md#paper-multicrit-criterion-switching)
 
 <!-- conference-classification:end -->

@@ -1599,5 +1599,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [WildPose: A Unified Framework for Robust Pose Estimation in the Wild](../../conferences/cvpr-2026/cards.md#paper-dynamic-masks-differentiable-bundle-adjustment)
 - [IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-boundary-aware-inversion-dataset-distillation)
 - [Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation](../../conferences/cvpr-2026/cards.md#paper-sequence-noise-and-residual-domain-harmonization)
+- [CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think](../../conferences/cvpr-2026/cards.md#paper-composite-reward-low-data-diffusion-alignment)
+- [Scaling4D: Pushing the Frontier of Video Novel View Synthesis through Large-Scale Monocular Videos](../../conferences/cvpr-2026/cards.md#paper-monocular-to-conditional-novel-view-training)
+- [BEA-GS: BEyond RAdiance Supervision in 3DGS for Precise Object Extraction](../../conferences/cvpr-2026/cards.md#paper-semantic-boundary-loss-visible-hidden-gaussians)
+- [2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition](../../conferences/cvpr-2026/cards.md#paper-minimal-sensor-noise-calibration-frequency-sampling)
+- [Inferring Compositional 4D Scenes without Ever Seeing One](../../conferences/cvpr-2026/cards.md#paper-com4d-disentangled-supervision)
+- [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](../../conferences/cvpr-2026/cards.md#paper-infinidepth-continuous-query)
+- [ReLaGS: Relational Language Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-relags-relational-gaussians)
 
 <!-- conference-classification:end -->

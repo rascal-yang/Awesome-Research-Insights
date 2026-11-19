@@ -1296,5 +1296,11 @@ Training schedules, curricula, and task or stage composition.
 - [Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation](../../conferences/cvpr-2026/cards.md#paper-sequence-noise-and-residual-domain-harmonization)
 - [2ndMatch: Finetuning Pruned Diffusion Models via Second-Order Jacobian Matching](../../conferences/cvpr-2026/cards.md#paper-jacobian-gram-transfer-pruned-diffusion)
 - [Multimodal Learning on Low-Quality Data with Conformal Predictive Self-Calibration](../../conferences/cvpr-2026/cards.md#paper-cpsc-reliability-calibration)
+- [CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think](../../conferences/cvpr-2026/cards.md#paper-composite-reward-low-data-diffusion-alignment)
+- [BEA-GS: BEyond RAdiance Supervision in 3DGS for Precise Object Extraction](../../conferences/cvpr-2026/cards.md#paper-semantic-boundary-loss-visible-hidden-gaussians)
+- [Inferring Compositional 4D Scenes without Ever Seeing One](../../conferences/cvpr-2026/cards.md#paper-com4d-disentangled-supervision)
+- [OneThinker: All-in-one Reasoning Model for Image and Video](../../conferences/cvpr-2026/cards.md#paper-onethinker-ema-grpo)
+- [On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-continual-moe-drift-aware-token-assignment)
+- [Exploring Visual Pretraining for Learning Language Intelligence](../../conferences/cvpr-2026/cards.md#paper-maple-masked-document-image-pretraining)
 
 <!-- conference-classification:end -->

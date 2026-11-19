@@ -1117,5 +1117,9 @@ Robot perception, policy learning, planning, and control.
 - [DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR](../../conferences/cvpr-2026/cards.md#paper-dsert-roll-sensor-combinations)
 - [BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](../../conferences/cvpr-2026/cards.md#paper-bridgeeqa-image-citation-relevance)
 - [Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions](../../conferences/cvpr-2026/cards.md#paper-tactile-localization-material-diverse-pairing)
+- [Chain of World: World Model Thinking in Latent Motion](../../conferences/cvpr-2026/cards.md#paper-latent-motion-world-chain-vla)
+- [General Process Reward Modeling for Robotic Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-dopamine-step-aware-reward)
+- [Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](../../conferences/cvpr-2026/cards.md#paper-matt-mistake-attribution)
+- [WPT: World-to-Policy Transfer via Online World Model Distillation](../../conferences/cvpr-2026/cards.md#paper-wpt-distill-world-model-into-policy)
 
 <!-- conference-classification:end -->

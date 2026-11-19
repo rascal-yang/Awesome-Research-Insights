@@ -1531,5 +1531,13 @@ Learning across modalities such as images, text, audio, and video.
 - [TIGER: A Unified Framework for Time, Images and Geo-location Retrieval](../../conferences/cvpr-2026/cards.md#paper-tiger-geo-time-retrieval)
 - [Multimodal Learning on Low-Quality Data with Conformal Predictive Self-Calibration](../../conferences/cvpr-2026/cards.md#paper-cpsc-reliability-calibration)
 - [MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-micon-multi-image-checkpoint-verification)
+- [M4-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](../../conferences/cvpr-2026/cards.md#paper-modality-aware-convolutional-experts-sam-memory)
+- [Circuit Mechanisms for Spatial Relation Generation in Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-text-encoder-changes-spatial-generation-circuits)
+- [ZINA: Multimodal Fine-grained Hallucination Detection and Editing](../../conferences/cvpr-2026/cards.md#paper-zina-span-hallucination-editing)
+- [Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following](../../conferences/cvpr-2026/cards.md#paper-multicrit-criterion-switching)
+- [OneThinker: All-in-one Reasoning Model for Image and Video](../../conferences/cvpr-2026/cards.md#paper-onethinker-ema-grpo)
+- [On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-continual-moe-drift-aware-token-assignment)
+- [VES-RFT: Rewarding Visual Evidence Sensitivity to Mitigate Hallucinations in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ves-rft-image-conditional-entropy-reward)
+- [Exploring Visual Pretraining for Learning Language Intelligence](../../conferences/cvpr-2026/cards.md#paper-maple-masked-document-image-pretraining)
 
 <!-- conference-classification:end -->

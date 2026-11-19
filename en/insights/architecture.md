@@ -777,5 +777,8 @@ Model-wide design and information flow.
 - [WildPose: A Unified Framework for Robust Pose Estimation in the Wild](../../conferences/cvpr-2026/cards.md#paper-dynamic-masks-differentiable-bundle-adjustment)
 - [TIGER: A Unified Framework for Time, Images and Geo-location Retrieval](../../conferences/cvpr-2026/cards.md#paper-tiger-geo-time-retrieval)
 - [Grounded Latents for Entity-Centric 4D Scene Generation](../../conferences/cvpr-2026/cards.md#paper-latentworld-grounded-entities)
+- [M4-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](../../conferences/cvpr-2026/cards.md#paper-modality-aware-convolutional-experts-sam-memory)
+- [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](../../conferences/cvpr-2026/cards.md#paper-infinidepth-continuous-query)
+- [ReLaGS: Relational Language Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-relags-relational-gaussians)
 
 <!-- conference-classification:end -->

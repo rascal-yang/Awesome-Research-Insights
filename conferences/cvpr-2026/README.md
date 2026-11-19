@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,147 篇，其中 1,989 篇暂收录、1,158 篇排除，另有 895 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,177 篇，其中 2,009 篇暂收录、1,168 篇排除，另有 865 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1995,3 +1995,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,147
 | 生成模型 | 偏好优化 | [DynamicsBoost: Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization](cards.md#paper-dynamicsboost-continuation-length-preferences) | 通过改变真实参考帧的数量构造同长度续写偏好对，减少依赖人或模型标注。 |
 | 机器学习 | 元学习 | [Data-Centric Meta-Learning for Robust Few-Shot Generalization](cards.md#paper-dcml-align-task-input-gradient-discrepancy) | 出现跨域小样本负迁移时，先检查元训练任务间梯度冲突，再调整任务输入。 |
 | 多模态学习 | 评测设计 | [MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models](cards.md#paper-micon-multi-image-checkpoint-verification) | 用逐项检查点区分跨参考图生成中的对象、空间、语义与身份失败。 |
+| 计算机视觉 | 训练策略 | [CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think](cards.md#paper-composite-reward-low-data-diffusion-alignment) | 有限数据对齐生成模型时可先组合可计算的质量信号，降低人工偏好样本需求。 |
+| 计算机视觉 | 数据策略 | [Scaling4D: Pushing the Frontier of Video Novel View Synthesis through Large-Scale Monocular Videos](cards.md#paper-monocular-to-conditional-novel-view-training) | 单目视频可通过任务重构用于新视角生成，减少多视角同步数据需求。 |
+| 计算机视觉 | 训练策略 | [BEA-GS: BEyond RAdiance Supervision in 3DGS for Precise Object Extraction](cards.md#paper-semantic-boundary-loss-visible-hidden-gaussians) | 可见目标边界与目标移除后显露的几何需要分别监督，支持三维编辑。 |
+| 多模态学习 | 模型架构 | [M4-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](cards.md#paper-modality-aware-convolutional-experts-sam-memory) | 给通用分割骨干添加深度时，可用模态相关的轻量适配并从融合表示初始化时序记忆。 |
+| 多模态学习 | 评测与诊断 | [Circuit Mechanisms for Spatial Relation Generation in Diffusion Transformers](cards.md#paper-text-encoder-changes-spatial-generation-circuits) | 相近的空间生成准确率可能由不同电路实现，分析时应区分文本编码器提供的关系信息。 |
+| 机器人学 | 表征学习 | [Chain of World: World Model Thinking in Latent Motion](cards.md#paper-latent-motion-world-chain-vla) | VLA 可以预测连续潜在运动的时序链，保留世界动态同时避免重建静态背景。 |
+| 计算机视觉 | 数据策略 | [2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition](cards.md#paper-minimal-sensor-noise-calibration-frequency-sampling) | 少量实测传感器数据可用于分开校准信号相关和固定频谱噪声，再大规模合成监督。 |
+| 机器人学 | 奖励函数 | [General Process Reward Modeling for Robotic Reinforcement Learning](cards.md#paper-dopamine-step-aware-reward) | 过程奖励看步骤进展，再用保持原策略目标的塑形将其加入机器人在线学习。 |
+| 计算机视觉 | 训练策略 | [Inferring Compositional 4D Scenes without Ever Seeing One](cards.md#paper-com4d-disentangled-supervision) | 将空间组合与时间动力学分开训练，用静态多物体和动态单物体监督合成多物体动态预测。 |
+| 多模态学习 | 评测与诊断 | [ZINA: Multimodal Fine-grained Hallucination Detection and Editing](cards.md#paper-zina-span-hallucination-editing) | 按文本片段定位幻觉、为错误分类并验证修改，避免整段总分掩盖不同类型的错误。 |
+| 机器人学 | 评测与诊断 | [Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](cards.md#paper-matt-mistake-attribution) | 把失败诊断分成违反哪项指令、何时无法挽回以及该在哪里观察。 |
+| 多模态学习 | 评测与诊断 | [Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following](cards.md#paper-multicrit-criterion-switching) | 在同一对候选上切换裁判标准，检查它能否随标准改变偏好并指出冲突。 |
+| 计算机视觉 | 模型架构 | [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](cards.md#paper-infinidepth-continuous-query) | 将深度通过局部隐式函数表达，可按需查询高分辨率关键区域。 |
+| 多模态学习 | 训练策略 | [OneThinker: All-in-one Reasoning Model for Image and Video](cards.md#paper-onethinker-ema-grpo) | 联合图像和视频任务时用滑动统计缓和不同奖励分布的更新差异。 |
+| 计算机视觉 | 模型架构 | [ReLaGS: Relational Language Gaussian Splatting](cards.md#paper-relags-relational-gaussians) | 在三维语义场中同时维护实例和关系图，以支持关系条件的对象分割和检索。 |
+| 多模态学习 | 持续学习 | [On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models](cards.md#paper-continual-moe-drift-aware-token-assignment) | 新增专家时按 token 检查旧任务路由漂移，避免冻结专家仍发生遗忘。 |
+| 多模态学习 | 强化学习与奖励 | [VES-RFT: Rewarding Visual Evidence Sensitivity to Mitigate Hallucinations in Large Vision-Language Models](cards.md#paper-ves-rft-image-conditional-entropy-reward) | 以加入图像前后的不确定性变化构造视觉依赖奖励，再独立验证事实正确性。 |
+| 生成模型 | 流匹配 | [Bidirectional Normalizing Flow: From Data to Noise and Back](cards.md#paper-biflow-learned-reverse-normalizing-flow) | 使用可学习的近似逆向模型替代串行解析逆，独立评估反向蒸馏目标。 |
+| 机器人学 | 世界模型 | [WPT: World-to-Policy Transfer via Online World Model Distillation](cards.md#paper-wpt-distill-world-model-into-policy) | 训练时用世界模型预测的动态给候选轨迹评分，再把能力蒸馏到低开销策略。 |
+| 多模态学习 | 预训练目标 | [Exploring Visual Pretraining for Learning Language Intelligence](cards.md#paper-maple-masked-document-image-pretraining) | 将文档图像作为语言预训练数据源，并通过配比对照检查视觉语料能补充什么。 |

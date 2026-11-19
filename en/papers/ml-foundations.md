@@ -2582,5 +2582,6 @@ General learning methods, optimization, learning theory, and inference.
 - [An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-mmot-online-prototypes)
 - [DynamicsBoost: Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-dynamicsboost-continuation-length-preferences)
 - [Data-Centric Meta-Learning for Robust Few-Shot Generalization](../../conferences/cvpr-2026/cards.md#paper-dcml-align-task-input-gradient-discrepancy)
+- [Bidirectional Normalizing Flow: From Data to Noise and Back](../../conferences/cvpr-2026/cards.md#paper-biflow-learned-reverse-normalizing-flow)
 
 <!-- conference-classification:end -->

@@ -816,5 +816,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [GDRO: Group-level Reward Post-training Suitable for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-gdro-offline-groupwise-flow-reward)
 - [SoliReward: Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models](../../conferences/cvpr-2026/cards.md#paper-solireward-cross-prompt)
 - [DynamicsBoost: Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-dynamicsboost-continuation-length-preferences)
+- [General Process Reward Modeling for Robotic Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-dopamine-step-aware-reward)
+- [VES-RFT: Rewarding Visual Evidence Sensitivity to Mitigate Hallucinations in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ves-rft-image-conditional-entropy-reward)
 
 <!-- conference-classification:end -->
