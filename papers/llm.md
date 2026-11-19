@@ -2468,5 +2468,6 @@
 - [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](../conferences/cvpr-2026/cards.md#paper-ishift-fast-slow-adaptive-perception)
 - [VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](../conferences/cvpr-2026/cards.md#paper-visiondirector-goal-rollback)
 - [Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding](../conferences/cvpr-2026/cards.md#paper-kfra-evidence-focused-agent)
+- [Interactive Episodic Memory with User Feedback](../conferences/cvpr-2026/cards.md#paper-episodic-interactive-memory)
 
 <!-- conference-classification:end -->

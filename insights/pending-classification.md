@@ -868,5 +868,8 @@
 - [AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception](../conferences/cvpr-2026/cards.md#paper-adaradar-task-feedback-adaptive-compression)
 - [Data-Centric Meta-Learning for Robust Few-Shot Generalization](../conferences/cvpr-2026/cards.md#paper-dcml-align-task-input-gradient-discrepancy)
 - [Bidirectional Normalizing Flow: From Data to Noise and Back](../conferences/cvpr-2026/cards.md#paper-biflow-learned-reverse-normalizing-flow)
+- [AntiStyler: Defending Object Detection Models Against Adversarial Patch Attacks Using Style Removal](../conferences/cvpr-2026/cards.md#paper-antistyler-zero-shot-style-defense)
+- [ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-conesep-hard-noisy-correspondence)
+- [Generalized and Personalized Federated Learning with Black-Box Foundation Models via Orthogonal Transformations](../conferences/cvpr-2026/cards.md#paper-fedot-orthogonal-client-embedding-adaptation)
 
 <!-- conference-classification:end -->

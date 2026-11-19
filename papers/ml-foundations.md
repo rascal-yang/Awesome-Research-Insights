@@ -2587,5 +2587,9 @@
 - [SG-LoRA: Semantic-guided LoRA Parameters Generation](../conferences/cvpr-2026/cards.md#paper-sglora-semantic-parameter-generation)
 - [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-reta-dynamic-topology-distillation)
 - [ViT$^3$: Unlocking Test-Time Training in Vision](../conferences/cvpr-2026/cards.md#paper-vit3-inner-learning-loss-design)
+- [GeoSANE: Learning Geospatial Representations from Models, Not Data](../conferences/cvpr-2026/cards.md#paper-weight-space-pretraining-from-model-zoo)
+- [DABO: Difficulty-Aware Bayesian Optimization with Diffusion-Learned Priors](../conferences/cvpr-2026/cards.md#paper-dabo-difficulty-priors)
+- [Bypassing the Transport Plan: Dynamic Reweighting for Out-of-Distribution Detection with Optimal Transport](../conferences/cvpr-2026/cards.md#paper-drew-ood-reweighting)
+- [Generalized and Personalized Federated Learning with Black-Box Foundation Models via Orthogonal Transformations](../conferences/cvpr-2026/cards.md#paper-fedot-orthogonal-client-embedding-adaptation)
 
 <!-- conference-classification:end -->

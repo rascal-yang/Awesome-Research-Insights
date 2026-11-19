@@ -1547,5 +1547,9 @@ Learning across modalities such as images, text, audio, and video.
 - [OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery](../../conferences/cvpr-2026/cards.md#paper-opendpr-visual-proto-change)
 - [Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-gvu-intrinsic-token-level-alignment-reward)
 - [4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation](../../conferences/cvpr-2026/cards.md#paper-p4d-region-level-perceptual-distillation)
+- [Learning to Select Visual Tools from Experience](../../conferences/cvpr-2026/cards.md#paper-outcome-supervised-visual-tool-selection)
+- [PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction](../../conferences/cvpr-2026/cards.md#paper-polyslgen-interaction-cues)
+- [A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking](../../conferences/cvpr-2026/cards.md#paper-pl-stitch-procedural-order-pretraining)
+- [ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-conesep-hard-noisy-correspondence)
 
 <!-- conference-classification:end -->

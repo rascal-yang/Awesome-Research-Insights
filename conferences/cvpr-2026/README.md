@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,207 篇，其中 2,029 篇暂收录、1,178 篇排除，另有 835 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,237 篇，其中 2,049 篇暂收录、1,188 篇排除，另有 805 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2035,3 +2035,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,207
 | 多模态学习 | 强化学习与奖励 | [Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](cards.md#paper-gvu-intrinsic-token-level-alignment-reward) | 复用统一模型的理解能力，为生成分支提供 token 级对齐奖励。 |
 | 多模态学习 | 知识蒸馏 | [4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation](cards.md#paper-p4d-region-level-perceptual-distillation) | 训练时把冻结专家的动态几何知识迁入区域问答模型，推理时免调专家。 |
 | 计算机视觉 | 可解释表征 | [Explaining Object Detectors via Collective Contribution of Pixels](cards.md#paper-collective-pixel-interactions-object-detectors) | 审计检测模型时，分别解释类别与框位置，并考虑一组像素的交互贡献。 |
+| 多模态学习 | 训练策略 | [Learning to Select Visual Tools from Experience](cards.md#paper-outcome-supervised-visual-tool-selection) | 按任务结果训练视觉工具选择，可让 agent 学会何时调用及组合不同视觉专家。 |
+| 计算机视觉 | 表征学习 | [MuM: Multi-View Masked Image Modeling for 3D Vision](cards.md#paper-uniform-multiview-masking-geometry-pretraining) | 多视图掩码预训练可让模型跨任意数量视图补全遮挡区域，从而强化几何表示。 |
+| 计算机视觉 | 表征学习 | [LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds](cards.md#paper-sparse-semantic-indexes-for-open-vocabulary-3d) | 以语义索引和共享特征表替代逐 Gaussian 密集语义向量，可降低三维查询内存。 |
+| 计算机视觉 | 评测与诊断 | [UAVLight: A Benchmark for Illumination-Robust 3D Reconstruction in Unmanned Aerial Vehicle (UAV) Scenes](cards.md#paper-reconstruction-lighting-held-variable-evaluation) | 多视图重建评测可对同一场景重复采集不同自然照明，隔离光照对几何与渲染的破坏。 |
+| 机器学习基础与统计 | 训练策略 | [GeoSANE: Learning Geospatial Representations from Models, Not Data](cards.md#paper-weight-space-pretraining-from-model-zoo) | 当同域数据分散而有多个可用检查点时，可研究以已有权重训练一个面向目标架构的初始化生成器。 |
+| 计算机视觉 | 训练策略 | [EasyOmnimatte: Taming Pretrained Inpainting Diffusion Models for End-to-End Video Layered Decompositio](cards.md#paper-block-localized-adaptation-complementary-video-effects) | 微调生成模型执行互补任务前，可先定位哪些块含所需信号，避免全模块 LoRA 只学到显眼部分。 |
+| 机器人学 | 训练策略 | [DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](cards.md#paper-style-and-affordance-factorized-dexterous-goals) | 灵巧抓取可把抓法结构和接触部位分成不同条件，简化多任务奖励。 |
+| 智能体 | 推理策略 | [Interactive Episodic Memory with User Feedback](cards.md#paper-episodic-interactive-memory) | 把一次性视频检索改为接受澄清和纠偏的闭环检索。 |
+| 机器学习基础与统计 | 优化策略 | [DABO: Difficulty-Aware Bayesian Optimization with Diffusion-Learned Priors](cards.md#paper-dabo-difficulty-priors) | 根据学习曲线预估区域难度，分别决定停止、恢复或追加超参数试验。 |
+| 多模态学习 | 模型架构 | [PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction](cards.md#paper-polyslgen-interaction-cues) | 在群体交互中联合估计说听状态与多模态反馈，避免只生成发言动作。 |
+| 机器学习基础与统计 | 优化策略 | [Bypassing the Transport Plan: Dynamic Reweighting for Out-of-Distribution Detection with Optimal Transport](cards.md#paper-drew-ood-reweighting) | 开放集半监督训练中用动态重加权估计域外分数，以减弱稠密传输的模糊信号。 |
+| 计算机视觉 | 训练策略 | [MARCO: Navigating the Unseen Space of Semantic Correspondence](cards.md#paper-marco-dense-correspondence) | 用粗到细定位和自蒸馏把稀疏关键点监督扩展到未标区域。 |
+| 计算机视觉 | 训练策略 | [Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning](cards.md#paper-realiz3d-domain-covariate) | 当控制标签只在合成数据中出现时，用独立域变量避免模型把控制和合成外观绑定。 |
+| 计算机视觉 | 模型架构 | [Advancing Image Classification with Discrete Diffusion Classification Modeling](cards.md#paper-didicm-diffusion-posterior) | 在高不确定图像分类中比较直接判别与迭代预测后验的收益。 |
+| 机器人学 | 模型架构 | [CoopDiff: A Diffusion-Guided Approach for Cooperation under Corruptions](cards.md#paper-coopdiff-quality-aware-cooperation) | 协同观测先保持本车与外部信息的独立性，再在解码时根据可靠性融合。 |
+| 计算机视觉 | 鲁棒感知 | [AntiStyler: Defending Object Detection Models Against Adversarial Patch Attacks Using Style Removal](cards.md#paper-antistyler-zero-shot-style-defense) | 在检测器前比较无需重训的异常风格掩蔽，并用正常图像检验防御代价。 |
+| 多模态学习 | 自监督表征 | [A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking](cards.md#paper-pl-stitch-procedural-order-pretraining) | 用顺序排序监督和倒序对照检验视频表征是否理解流程。 |
+| 多模态学习 | 噪声鲁棒学习 | [ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](cards.md#paper-conesep-hard-noisy-correspondence) | 噪声筛选时检查图像对很近但编辑文本错误的低损失反例。 |
+| 三维视觉 | 知识蒸馏 | [Foundry: Distilling 3D Foundation Models for the Edge](cards.md#paper-foundry-supertokens-foundation-distillation) | 压缩三维基础模型时重建教师 token，避免只针对单一任务蒸馏。 |
+| 机器学习 | 联邦学习 | [Generalized and Personalized Federated Learning with Black-Box Foundation Models via Orthogonal Transformations](cards.md#paper-fedot-orthogonal-client-embedding-adaptation) | 在骨干只提供黑盒嵌入时，用客户端正交变换与共享分类器分担个性化和泛化。 |

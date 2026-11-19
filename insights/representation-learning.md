@@ -768,5 +768,7 @@
 - [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](../conferences/cvpr-2026/cards.md#paper-early-temporal-difference-continuous-action-latents)
 - [Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions](../conferences/cvpr-2026/cards.md#paper-tactile-localization-material-diverse-pairing)
 - [Chain of World: World Model Thinking in Latent Motion](../conferences/cvpr-2026/cards.md#paper-latent-motion-world-chain-vla)
+- [MuM: Multi-View Masked Image Modeling for 3D Vision](../conferences/cvpr-2026/cards.md#paper-uniform-multiview-masking-geometry-pretraining)
+- [LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds](../conferences/cvpr-2026/cards.md#paper-sparse-semantic-indexes-for-open-vocabulary-3d)
 
 <!-- conference-classification:end -->

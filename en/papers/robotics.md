@@ -1124,5 +1124,7 @@ Robot perception, policy learning, planning, and control.
 - [InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions](../../conferences/cvpr-2026/cards.md#paper-reference-expert-distillation-goal-conditioned-control)
 - [FunFact: Building Probabilistic Functional 3D Scene Graphs via Factor-Graph Reasoning](../../conferences/cvpr-2026/cards.md#paper-funfact-functional-factor-graph)
 - [MAD: Motion Appearance Decoupling for efficient Driving World Models](../../conferences/cvpr-2026/cards.md#paper-mad-structured-motion-appearance-decoupling)
+- [DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-style-and-affordance-factorized-dexterous-goals)
+- [CoopDiff: A Diffusion-Guided Approach for Cooperation under Corruptions](../../conferences/cvpr-2026/cards.md#paper-coopdiff-quality-aware-cooperation)
 
 <!-- conference-classification:end -->

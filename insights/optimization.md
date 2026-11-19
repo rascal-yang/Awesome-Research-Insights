@@ -718,5 +718,7 @@
 - [An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning](../conferences/cvpr-2026/cards.md#paper-mmot-online-prototypes)
 - [ReBaPL: Repulsive Bayesian Prompt Learning](../conferences/cvpr-2026/cards.md#paper-repulsive-posterior-prompt-sampling)
 - [Model Merging in the Essential Subspace](../conferences/cvpr-2026/cards.md#paper-feature-shift-pca-model-merging)
+- [DABO: Difficulty-Aware Bayesian Optimization with Diffusion-Learned Priors](../conferences/cvpr-2026/cards.md#paper-dabo-difficulty-priors)
+- [Bypassing the Transport Plan: Dynamic Reweighting for Out-of-Distribution Detection with Optimal Transport](../conferences/cvpr-2026/cards.md#paper-drew-ood-reweighting)
 
 <!-- conference-classification:end -->

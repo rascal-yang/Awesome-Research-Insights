@@ -1686,5 +1686,6 @@
 - [SG-LoRA: Semantic-guided LoRA Parameters Generation](../conferences/cvpr-2026/cards.md#paper-sglora-semantic-parameter-generation)
 - [OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery](../conferences/cvpr-2026/cards.md#paper-opendpr-visual-proto-change)
 - [ViT$^3$: Unlocking Test-Time Training in Vision](../conferences/cvpr-2026/cards.md#paper-vit3-inner-learning-loss-design)
+- [Interactive Episodic Memory with User Feedback](../conferences/cvpr-2026/cards.md#paper-episodic-interactive-memory)
 
 <!-- conference-classification:end -->

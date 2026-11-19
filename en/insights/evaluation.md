@@ -1609,5 +1609,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following](../../conferences/cvpr-2026/cards.md#paper-multicrit-criterion-switching)
 - [What Matters in Practical Learned Image Compression](../../conferences/cvpr-2026/cards.md#paper-runtime-constrained-perceptual-codec-ablation)
 - [Explaining Object Detectors via Collective Contribution of Pixels](../../conferences/cvpr-2026/cards.md#paper-collective-pixel-interactions-object-detectors)
+- [UAVLight: A Benchmark for Illumination-Robust 3D Reconstruction in Unmanned Aerial Vehicle (UAV) Scenes](../../conferences/cvpr-2026/cards.md#paper-reconstruction-lighting-held-variable-evaluation)
 
 <!-- conference-classification:end -->

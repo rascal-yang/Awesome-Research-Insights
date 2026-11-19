@@ -1611,5 +1611,14 @@
 - [RecTok: Reconstruction Distillation along Rectified Flow](../conferences/cvpr-2026/cards.md#paper-rectok-flow-semantic-distillation)
 - [NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining](../conferences/cvpr-2026/cards.md#paper-neighbormae-joint-reconstruction)
 - [Explaining Object Detectors via Collective Contribution of Pixels](../conferences/cvpr-2026/cards.md#paper-collective-pixel-interactions-object-detectors)
+- [MuM: Multi-View Masked Image Modeling for 3D Vision](../conferences/cvpr-2026/cards.md#paper-uniform-multiview-masking-geometry-pretraining)
+- [LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds](../conferences/cvpr-2026/cards.md#paper-sparse-semantic-indexes-for-open-vocabulary-3d)
+- [UAVLight: A Benchmark for Illumination-Robust 3D Reconstruction in Unmanned Aerial Vehicle (UAV) Scenes](../conferences/cvpr-2026/cards.md#paper-reconstruction-lighting-held-variable-evaluation)
+- [EasyOmnimatte: Taming Pretrained Inpainting Diffusion Models for End-to-End Video Layered Decompositio](../conferences/cvpr-2026/cards.md#paper-block-localized-adaptation-complementary-video-effects)
+- [MARCO: Navigating the Unseen Space of Semantic Correspondence](../conferences/cvpr-2026/cards.md#paper-marco-dense-correspondence)
+- [Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning](../conferences/cvpr-2026/cards.md#paper-realiz3d-domain-covariate)
+- [Advancing Image Classification with Discrete Diffusion Classification Modeling](../conferences/cvpr-2026/cards.md#paper-didicm-diffusion-posterior)
+- [AntiStyler: Defending Object Detection Models Against Adversarial Patch Attacks Using Style Removal](../conferences/cvpr-2026/cards.md#paper-antistyler-zero-shot-style-defense)
+- [Foundry: Distilling 3D Foundation Models for the Edge](../conferences/cvpr-2026/cards.md#paper-foundry-supertokens-foundation-distillation)
 
 <!-- conference-classification:end -->

@@ -783,5 +783,8 @@
 - [3D-Object Perception Transformer (3PT)](../conferences/cvpr-2026/cards.md#paper-shared-object-centric-2d-3d-refinement)
 - [G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](../conferences/cvpr-2026/cards.md#paper-g2vlm-geometry-reasoning)
 - [FunFact: Building Probabilistic Functional 3D Scene Graphs via Factor-Graph Reasoning](../conferences/cvpr-2026/cards.md#paper-funfact-functional-factor-graph)
+- [PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction](../conferences/cvpr-2026/cards.md#paper-polyslgen-interaction-cues)
+- [Advancing Image Classification with Discrete Diffusion Classification Modeling](../conferences/cvpr-2026/cards.md#paper-didicm-diffusion-posterior)
+- [CoopDiff: A Diffusion-Guided Approach for Cooperation under Corruptions](../conferences/cvpr-2026/cards.md#paper-coopdiff-quality-aware-cooperation)
 
 <!-- conference-classification:end -->

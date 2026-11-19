@@ -1308,5 +1308,13 @@ Training schedules, curricula, and task or stage composition.
 - [RecTok: Reconstruction Distillation along Rectified Flow](../../conferences/cvpr-2026/cards.md#paper-rectok-flow-semantic-distillation)
 - [NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining](../../conferences/cvpr-2026/cards.md#paper-neighbormae-joint-reconstruction)
 - [4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation](../../conferences/cvpr-2026/cards.md#paper-p4d-region-level-perceptual-distillation)
+- [Learning to Select Visual Tools from Experience](../../conferences/cvpr-2026/cards.md#paper-outcome-supervised-visual-tool-selection)
+- [GeoSANE: Learning Geospatial Representations from Models, Not Data](../../conferences/cvpr-2026/cards.md#paper-weight-space-pretraining-from-model-zoo)
+- [EasyOmnimatte: Taming Pretrained Inpainting Diffusion Models for End-to-End Video Layered Decompositio](../../conferences/cvpr-2026/cards.md#paper-block-localized-adaptation-complementary-video-effects)
+- [DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-style-and-affordance-factorized-dexterous-goals)
+- [MARCO: Navigating the Unseen Space of Semantic Correspondence](../../conferences/cvpr-2026/cards.md#paper-marco-dense-correspondence)
+- [Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning](../../conferences/cvpr-2026/cards.md#paper-realiz3d-domain-covariate)
+- [A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking](../../conferences/cvpr-2026/cards.md#paper-pl-stitch-procedural-order-pretraining)
+- [Foundry: Distilling 3D Foundation Models for the Edge](../../conferences/cvpr-2026/cards.md#paper-foundry-supertokens-foundation-distillation)
 
 <!-- conference-classification:end -->
