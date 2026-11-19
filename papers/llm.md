@@ -2449,5 +2449,6 @@
 - [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](../conferences/cvpr-2026/cards.md#paper-3drawagent)
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](../conferences/cvpr-2026/cards.md#paper-spacetools-dirl)
 - [Simple Agents Outperform Experts in Biomedical Imaging Workflow Optimization](../conferences/cvpr-2026/cards.md#paper-workflow-agents-separate-structure-and-parameter-search)
+- [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-crossha-agent-action-granularity)
 
 <!-- conference-classification:end -->

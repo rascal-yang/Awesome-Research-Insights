@@ -2478,5 +2478,9 @@
 - [SelecTKD: Selective Token-Weighted Knowledge Distillation for LLMs](../conferences/cvpr-2026/cards.md#paper-selectkd)
 - [FedAdamom: Adaptive Momentum for Improved Generalization in Federated Optimization](../conferences/cvpr-2026/cards.md#paper-fedadamom-momentum-generalization)
 - [Rethinking Concept Bottleneck Models: From Pitfalls to Solutions](../conferences/cvpr-2026/cards.md#paper-cbm-suite-bottleneck-bypass)
+- [Towards Knowledge-augmented Bayesian Deep Learning For Computer Vision](../conferences/cvpr-2026/cards.md#paper-knowledge-constrained-prior-and-adaptive-likelihood)
+- [Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-cazo-tta)
+- [Hidden Monotonicity: Explaining Deep Neural Networks via their DC Decomposition](../conferences/cvpr-2026/cards.md#paper-hidden-monotonicity-dc)
+- [Your Dissimilarities Define You: Complementary Learning Exploiting Class Diversities](../conferences/cvpr-2026/cards.md#paper-opposite-class-complementary-learning)
 
 <!-- conference-classification:end -->

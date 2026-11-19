@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,977 篇，其中 1,245 篇暂收录、732 篇排除，另有 2,065 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,007 篇，其中 1,263 篇暂收录、744 篇排除，另有 2,035 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1251,3 +1251,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,977
 | 机器学习基础 | 可解释性与诊断 | [Rethinking Concept Bottleneck Models: From Pitfalls to Solutions](cards.md#paper-cbm-suite-bottleneck-bypass) | 概念瓶颈模型选择概念集前测适用性，并检查线性头是否等价绕过瓶颈。 |
 | 计算机视觉 | 自监督学习 | [WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments](cards.md#paper-wildrayzer-static-residual-masks) | 从动态视频学静态三维一致性时，用仅相机运动解释后的渲染残差生成运动掩码。 |
 | 计算机视觉 | 评测与分析 | [Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](cards.md#paper-lida-generator-attribution-retrieval) | 生成图来源随新模型增加时，用可更新的参考库检索替代固定分类头。 |
+| 多模态学习 | 训练策略 | [Spectrally Distilled Representations Aligned with Instruction-Augmented LLMs for Satellite Imagery](cards.md#paper-sattxt-privileged-spectrum-rgb-distillation) | 部署只剩 RGB 时，可比较仅训练可见的多光谱教师是否能补偿模态缺失。见表 4。 |
+| 多模态学习 | 损失与奖励 | [Multimodal Distribution Matching for Vision-Language Dataset Distillation](cards.md#paper-mdm-joint-hyperspherical-paired-distillation) | 减少成对训练数据时，可对照匹配两模态共同与分歧方向是否比只保存各自边际更有效。 |
+| 机器人学 | 模型架构 | [Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation](cards.md#paper-diffrender-vla-differentiable-spatial-visual-interface) | 复用 2D VLA 接收 3D 上下文时，可以比较可反传的渲染接口和固定视角或分阶段连接。见表 3。 |
+| 机器学习 | 训练策略 | [Towards Knowledge-augmented Bayesian Deep Learning For Computer Vision](cards.md#paper-knowledge-constrained-prior-and-adaptive-likelihood) | 安全有效的几何约束可同时用于先验预训练及后验约束，消融仅后者确认额外贡献。见表 5。 |
+| 计算机视觉 | 训练策略 | [Masked-Diffusion Autoencoders for 3D Medical Vision Representation Learning](cards.md#paper-mdae-masked-structure-visible-texture-corruption) | 自监督体数据可把遮挡区的结构学习和可见区的纹理去噪同时训练，并比较可变遮挡率。见表 4。 |
+| 机器人学 | 损失与奖励 | [BEV-CAR: Enhancing Monocular Bird's Eye View Segmentation with Context-Aware Rasterization](cards.md#paper-bev-car-ray-context-layout-supervision) | 单目 BEV 要恢复被遮挡的布局时，可增加沿射线的栅格监督，并分别报告布局和物体。见表 5–7。 |
+| 多模态学习 | 推理加速 | [IF-Prune: Information-Flow Guided Token Pruning for Efficient Vision-Language Models](cards.md#paper-if-prune) | 用小模型辅助裁剪时，让其预测哪些 token 无信息，并与直接取注意力强度比较。 |
+| 机器学习基础与统计 | 测试时适应与推理 | [Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation](cards.md#paper-cazo-tta) | 无反传在线更新时，利用适配损失的曲率统计减少零阶方向估计的方差。 |
+| 机器学习基础与统计 | 模型分析 | [Hidden Monotonicity: Explaining Deep Neural Networks via their DC Decomposition](cards.md#paper-hidden-monotonicity-dc) | 需要解释非单调网络时，分解为两个单调凸分量，再检查归因数值稳定性。 |
+| 多模态学习 | 评测与诊断 | [VL-RouterBench: A Benchmark for Vision-Language Model Routing](cards.md#paper-vl-routerbench) | 要做模型路由，先建同一题对所有候选的质量和开销矩阵，画出预算变化下的性能。 |
+| 计算机视觉 | 表示学习 | [Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction](cards.md#paper-neural-gabor-splatting) | 高频纹理区域可给单几何基元内部的颜色函数，降低依赖增加基元数量。 |
+| 计算机视觉 | 表示学习 | [RaUF: Learning the Spatial Uncertainty Field of Radar](cards.md#paper-rauf-anisotropic-uncertainty) | 测距传感误差随方向变化时，训练各向异性不确定场并独立验证压制杂波。 |
+| 多模态学习 | 推理加速 | [Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding](cards.md#paper-attentionpack) | 长视觉上下文可低秩存跨头 KV，仅对当前较重要 token 加解压计算。 |
+| 机器学习基础 | 损失函数与优化 | [Your Dissimilarities Define You: Complementary Learning Exploiting Class Diversities](cards.md#paper-opposite-class-complementary-learning) | 分类器除了学习正确类别，还可显式约束非目标类别的分数分布。 |
+| 多模态学习 | 模型架构 | [Asynchronous Temporal Modeling with Two-Agent Framework for Streaming Dense Video Captioning](cards.md#paper-takusen-asynchronous-captioning) | 流式理解把低成本事件触发与高成本详细输出分给异步模块，以减少静默阈值失配。 |
+| 机器人学 | 知识蒸馏 | [SkillSight: Efficient First-Person Skill Assessment with Gaze](cards.md#paper-skillsight-gaze-only-distillation) | 低功耗第一人称技能评估可用视频和凝视共同做教师，再蒸馏部署时只读凝视的学生。 |
+| 多模态学习 | 条件生成 | [TGT: Text-Grounded Trajectories for Locally Controlled Video Generation](cards.md#paper-tgt-local-text-trajectory-guidance) | 控制多主体视频时把局部文本与每条轨迹绑定，调节局部与全局引导强度。 |
+| 智能体 | 强化学习 | [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](cards.md#paper-crossha-agent-action-granularity) | 游戏代理可按当前进度选择高层宏动作或低层控制，用多轮训练学习切换。 |

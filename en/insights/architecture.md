@@ -662,5 +662,7 @@ Model-wide design and information flow.
 - [Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](../../conferences/cvpr-2026/cards.md#paper-group-diffusion-cross-sample-attention)
 - [EgoRoC: Towards Egocentric Robotic Control via Task-Agnostic Visual Alignment](../../conferences/cvpr-2026/cards.md#paper-egoroc-reusable-visual-alignment)
 - [LitePT: Lighter Yet Stronger Point Transformer](../../conferences/cvpr-2026/cards.md#paper-litept)
+- [Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-diffrender-vla-differentiable-spatial-visual-interface)
+- [Asynchronous Temporal Modeling with Two-Agent Framework for Streaming Dense Video Captioning](../../conferences/cvpr-2026/cards.md#paper-takusen-asynchronous-captioning)
 
 <!-- conference-classification:end -->

@@ -1127,5 +1127,9 @@ Training schedules, curricula, and task or stage composition.
 - [SelecTKD: Selective Token-Weighted Knowledge Distillation for LLMs](../../conferences/cvpr-2026/cards.md#paper-selectkd)
 - [MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment](../../conferences/cvpr-2026/cards.md#paper-mobind-hierarchical-motion-alignment)
 - [WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments](../../conferences/cvpr-2026/cards.md#paper-wildrayzer-static-residual-masks)
+- [Spectrally Distilled Representations Aligned with Instruction-Augmented LLMs for Satellite Imagery](../../conferences/cvpr-2026/cards.md#paper-sattxt-privileged-spectrum-rgb-distillation)
+- [Towards Knowledge-augmented Bayesian Deep Learning For Computer Vision](../../conferences/cvpr-2026/cards.md#paper-knowledge-constrained-prior-and-adaptive-likelihood)
+- [Masked-Diffusion Autoencoders for 3D Medical Vision Representation Learning](../../conferences/cvpr-2026/cards.md#paper-mdae-masked-structure-visible-texture-corruption)
+- [SkillSight: Efficient First-Person Skill Assessment with Gaze](../../conferences/cvpr-2026/cards.md#paper-skillsight-gaze-only-distillation)
 
 <!-- conference-classification:end -->

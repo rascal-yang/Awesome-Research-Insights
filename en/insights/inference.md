@@ -1539,5 +1539,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features](../../conferences/cvpr-2026/cards.md#paper-dgaf-vsr-feature-compensation)
 - [PoseD-Flow: Versatile and Guided Flow Matching Model of Human Pose](../../conferences/cvpr-2026/cards.md#paper-posed-flow-manifold-ode-inference-guidance)
 - [Scale Space Diffusion](../../conferences/cvpr-2026/cards.md#paper-scale-space-diffusion)
+- [IF-Prune: Information-Flow Guided Token Pruning for Efficient Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-if-prune)
+- [Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-cazo-tta)
+- [Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding](../../conferences/cvpr-2026/cards.md#paper-attentionpack)
+- [TGT: Text-Grounded Trajectories for Locally Controlled Video Generation](../../conferences/cvpr-2026/cards.md#paper-tgt-local-text-trajectory-guidance)
 
 <!-- conference-classification:end -->

@@ -1286,5 +1286,12 @@
 - [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](../conferences/cvpr-2026/cards.md#paper-dcr-contrastive-reconstruction)
 - [MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment](../conferences/cvpr-2026/cards.md#paper-mobind-hierarchical-motion-alignment)
 - [Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-ra-rft-hard-irrelevant-queries)
+- [Spectrally Distilled Representations Aligned with Instruction-Augmented LLMs for Satellite Imagery](../conferences/cvpr-2026/cards.md#paper-sattxt-privileged-spectrum-rgb-distillation)
+- [Multimodal Distribution Matching for Vision-Language Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-mdm-joint-hyperspherical-paired-distillation)
+- [IF-Prune: Information-Flow Guided Token Pruning for Efficient Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-if-prune)
+- [VL-RouterBench: A Benchmark for Vision-Language Model Routing](../conferences/cvpr-2026/cards.md#paper-vl-routerbench)
+- [Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding](../conferences/cvpr-2026/cards.md#paper-attentionpack)
+- [Asynchronous Temporal Modeling with Two-Agent Framework for Streaming Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-takusen-asynchronous-captioning)
+- [TGT: Text-Grounded Trajectories for Locally Controlled Video Generation](../conferences/cvpr-2026/cards.md#paper-tgt-local-text-trajectory-guidance)
 
 <!-- conference-classification:end -->

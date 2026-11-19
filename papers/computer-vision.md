@@ -1360,5 +1360,8 @@
 - [LitePT: Lighter Yet Stronger Point Transformer](../conferences/cvpr-2026/cards.md#paper-litept)
 - [WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments](../conferences/cvpr-2026/cards.md#paper-wildrayzer-static-residual-masks)
 - [Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](../conferences/cvpr-2026/cards.md#paper-lida-generator-attribution-retrieval)
+- [Masked-Diffusion Autoencoders for 3D Medical Vision Representation Learning](../conferences/cvpr-2026/cards.md#paper-mdae-masked-structure-visible-texture-corruption)
+- [Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction](../conferences/cvpr-2026/cards.md#paper-neural-gabor-splatting)
+- [RaUF: Learning the Spatial Uncertainty Field of Radar](../conferences/cvpr-2026/cards.md#paper-rauf-anisotropic-uncertainty)
 
 <!-- conference-classification:end -->

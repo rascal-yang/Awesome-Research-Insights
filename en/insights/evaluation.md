@@ -1543,5 +1543,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs](../../conferences/cvpr-2026/cards.md#paper-visres-controlled-visual-reasoning)
 - [Rethinking Concept Bottleneck Models: From Pitfalls to Solutions](../../conferences/cvpr-2026/cards.md#paper-cbm-suite-bottleneck-bypass)
 - [Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](../../conferences/cvpr-2026/cards.md#paper-lida-generator-attribution-retrieval)
+- [VL-RouterBench: A Benchmark for Vision-Language Model Routing](../../conferences/cvpr-2026/cards.md#paper-vl-routerbench)
 
 <!-- conference-classification:end -->

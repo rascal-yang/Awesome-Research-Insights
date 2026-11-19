@@ -981,5 +981,8 @@
 - [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](../conferences/cvpr-2026/cards.md#paper-spear-1)
 - [EgoRoC: Towards Egocentric Robotic Control via Task-Agnostic Visual Alignment](../conferences/cvpr-2026/cards.md#paper-egoroc-reusable-visual-alignment)
 - [Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors](../conferences/cvpr-2026/cards.md#paper-dtof-directional-attention-preserves-depth-anchor)
+- [Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-diffrender-vla-differentiable-spatial-visual-interface)
+- [BEV-CAR: Enhancing Monocular Bird's Eye View Segmentation with Context-Aware Rasterization](../conferences/cvpr-2026/cards.md#paper-bev-car-ray-context-layout-supervision)
+- [SkillSight: Efficient First-Person Skill Assessment with Gaze](../conferences/cvpr-2026/cards.md#paper-skillsight-gaze-only-distillation)
 
 <!-- conference-classification:end -->

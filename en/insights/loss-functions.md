@@ -454,5 +454,8 @@ Objectives, auxiliary supervision, and regularization.
 - [Omni-Supervised Motion Editing: Balancing Change and Invariance through Positive-Negative Learning](../../conferences/cvpr-2026/cards.md#paper-omnime-edit-preserve-triplet-supervision)
 - [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](../../conferences/cvpr-2026/cards.md#paper-dcr-contrastive-reconstruction)
 - [FedAdamom: Adaptive Momentum for Improved Generalization in Federated Optimization](../../conferences/cvpr-2026/cards.md#paper-fedadamom-momentum-generalization)
+- [Multimodal Distribution Matching for Vision-Language Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-mdm-joint-hyperspherical-paired-distillation)
+- [BEV-CAR: Enhancing Monocular Bird's Eye View Segmentation with Context-Aware Rasterization](../../conferences/cvpr-2026/cards.md#paper-bev-car-ray-context-layout-supervision)
+- [Your Dissimilarities Define You: Complementary Learning Exploiting Class Diversities](../../conferences/cvpr-2026/cards.md#paper-opposite-class-complementary-learning)
 
 <!-- conference-classification:end -->

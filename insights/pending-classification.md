@@ -824,5 +824,6 @@
 - [D2Cache: Second-Order Delta Caching for Higher Video Diffusion Acceleration](../conferences/cvpr-2026/cards.md#paper-d2cache-second-difference-video-cache)
 - [NAMI: Efficient Image Generation via Bridged Progressive Rectified Flow Transformers](../conferences/cvpr-2026/cards.md#paper-nami-bridgeflow-resolution-depth-schedule)
 - [FedHarmony: Harmonizing Heterogeneous Label Correlations in Federated Multi-Label Learning](../conferences/cvpr-2026/cards.md#paper-fedharmony)
+- [Hidden Monotonicity: Explaining Deep Neural Networks via their DC Decomposition](../conferences/cvpr-2026/cards.md#paper-hidden-monotonicity-dc)
 
 <!-- conference-classification:end -->
