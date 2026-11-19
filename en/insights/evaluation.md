@@ -1607,5 +1607,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [ZINA: Multimodal Fine-grained Hallucination Detection and Editing](../../conferences/cvpr-2026/cards.md#paper-zina-span-hallucination-editing)
 - [Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](../../conferences/cvpr-2026/cards.md#paper-matt-mistake-attribution)
 - [Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following](../../conferences/cvpr-2026/cards.md#paper-multicrit-criterion-switching)
+- [What Matters in Practical Learned Image Compression](../../conferences/cvpr-2026/cards.md#paper-runtime-constrained-perceptual-codec-ablation)
+- [Explaining Object Detectors via Collective Contribution of Pixels](../../conferences/cvpr-2026/cards.md#paper-collective-pixel-interactions-object-detectors)
 
 <!-- conference-classification:end -->

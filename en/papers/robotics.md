@@ -1121,5 +1121,8 @@ Robot perception, policy learning, planning, and control.
 - [General Process Reward Modeling for Robotic Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-dopamine-step-aware-reward)
 - [Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](../../conferences/cvpr-2026/cards.md#paper-matt-mistake-attribution)
 - [WPT: World-to-Policy Transfer via Online World Model Distillation](../../conferences/cvpr-2026/cards.md#paper-wpt-distill-world-model-into-policy)
+- [InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions](../../conferences/cvpr-2026/cards.md#paper-reference-expert-distillation-goal-conditioned-control)
+- [FunFact: Building Probabilistic Functional 3D Scene Graphs via Factor-Graph Reasoning](../../conferences/cvpr-2026/cards.md#paper-funfact-functional-factor-graph)
+- [MAD: Motion Appearance Decoupling for efficient Driving World Models](../../conferences/cvpr-2026/cards.md#paper-mad-structured-motion-appearance-decoupling)
 
 <!-- conference-classification:end -->

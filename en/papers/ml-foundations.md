@@ -2583,5 +2583,9 @@ General learning methods, optimization, learning theory, and inference.
 - [DynamicsBoost: Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-dynamicsboost-continuation-length-preferences)
 - [Data-Centric Meta-Learning for Robust Few-Shot Generalization](../../conferences/cvpr-2026/cards.md#paper-dcml-align-task-input-gradient-discrepancy)
 - [Bidirectional Normalizing Flow: From Data to Noise and Back](../../conferences/cvpr-2026/cards.md#paper-biflow-learned-reverse-normalizing-flow)
+- [Model Merging in the Essential Subspace](../../conferences/cvpr-2026/cards.md#paper-feature-shift-pca-model-merging)
+- [SG-LoRA: Semantic-guided LoRA Parameters Generation](../../conferences/cvpr-2026/cards.md#paper-sglora-semantic-parameter-generation)
+- [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-reta-dynamic-topology-distillation)
+- [ViT$^3$: Unlocking Test-Time Training in Vision](../../conferences/cvpr-2026/cards.md#paper-vit3-inner-learning-loss-design)
 
 <!-- conference-classification:end -->

@@ -780,5 +780,8 @@ Model-wide design and information flow.
 - [M4-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](../../conferences/cvpr-2026/cards.md#paper-modality-aware-convolutional-experts-sam-memory)
 - [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](../../conferences/cvpr-2026/cards.md#paper-infinidepth-continuous-query)
 - [ReLaGS: Relational Language Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-relags-relational-gaussians)
+- [3D-Object Perception Transformer (3PT)](../../conferences/cvpr-2026/cards.md#paper-shared-object-centric-2d-3d-refinement)
+- [G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](../../conferences/cvpr-2026/cards.md#paper-g2vlm-geometry-reasoning)
+- [FunFact: Building Probabilistic Functional 3D Scene Graphs via Factor-Graph Reasoning](../../conferences/cvpr-2026/cards.md#paper-funfact-functional-factor-graph)
 
 <!-- conference-classification:end -->

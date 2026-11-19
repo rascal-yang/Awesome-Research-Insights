@@ -818,5 +818,6 @@
 - [DynamicsBoost: Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization](../conferences/cvpr-2026/cards.md#paper-dynamicsboost-continuation-length-preferences)
 - [General Process Reward Modeling for Robotic Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-dopamine-step-aware-reward)
 - [VES-RFT: Rewarding Visual Evidence Sensitivity to Mitigate Hallucinations in Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-ves-rft-image-conditional-entropy-reward)
+- [Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](../conferences/cvpr-2026/cards.md#paper-gvu-intrinsic-token-level-alignment-reward)
 
 <!-- conference-classification:end -->

@@ -1682,5 +1682,9 @@
 - [Lighting-grounded Video Generation with Renderer-based Agent Reasoning](../conferences/cvpr-2026/cards.md#paper-liver-unified-rendered-control-conditions)
 - [VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](../conferences/cvpr-2026/cards.md#paper-visiondirector-goal-rollback)
 - [Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding](../conferences/cvpr-2026/cards.md#paper-kfra-evidence-focused-agent)
+- [Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-bias-corrected-global-context-window-segmentation)
+- [SG-LoRA: Semantic-guided LoRA Parameters Generation](../conferences/cvpr-2026/cards.md#paper-sglora-semantic-parameter-generation)
+- [OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery](../conferences/cvpr-2026/cards.md#paper-opendpr-visual-proto-change)
+- [ViT$^3$: Unlocking Test-Time Training in Vision](../conferences/cvpr-2026/cards.md#paper-vit3-inner-learning-loss-design)
 
 <!-- conference-classification:end -->

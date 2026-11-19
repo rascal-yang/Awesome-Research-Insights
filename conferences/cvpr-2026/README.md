@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,177 篇，其中 2,009 篇暂收录、1,168 篇排除，另有 865 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,207 篇，其中 2,029 篇暂收录、1,178 篇排除，另有 835 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2015,3 +2015,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,177
 | 生成模型 | 流匹配 | [Bidirectional Normalizing Flow: From Data to Noise and Back](cards.md#paper-biflow-learned-reverse-normalizing-flow) | 使用可学习的近似逆向模型替代串行解析逆，独立评估反向蒸馏目标。 |
 | 机器人学 | 世界模型 | [WPT: World-to-Policy Transfer via Online World Model Distillation](cards.md#paper-wpt-distill-world-model-into-policy) | 训练时用世界模型预测的动态给候选轨迹评分，再把能力蒸馏到低开销策略。 |
 | 多模态学习 | 预训练目标 | [Exploring Visual Pretraining for Learning Language Intelligence](cards.md#paper-maple-masked-document-image-pretraining) | 将文档图像作为语言预训练数据源，并通过配比对照检查视觉语料能补充什么。 |
+| 计算机视觉 | 模型架构 | [3D-Object Perception Transformer (3PT)](cards.md#paper-shared-object-centric-2d-3d-refinement) | RGB 多视角目标感知可先学对象中心的二维表示，再在三维 Transformer 中迭代更新，统一检测、分割和位姿。 |
+| 机器人学 | 训练策略 | [InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions](cards.md#paper-reference-expert-distillation-goal-conditioned-control) | 可用具有完整动作参考的教师蒸馏只需稀疏意图的全身变分策略，再用物理环境反馈对齐。 |
+| 多模态学习 | 训练策略 | [Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning](cards.md#paper-single-stage-frame-citation-video-reasoning) | 视频模型可在单阶段生成答案时显式引用帧，用可核查时间证据约束推理。 |
+| 多模态学习 | 推理策略 | [Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation](cards.md#paper-bias-corrected-global-context-window-segmentation) | 切窗处理高分辨率图像时，可开放跨窗 KV 并校正边缘窗口自身注意偏差。 |
+| 多模态学习 | 优化 | [ReBaPL: Repulsive Bayesian Prompt Learning](cards.md#paper-repulsive-posterior-prompt-sampling) | 贝叶斯提示可以交替探索和利用并用排斥约束减轻样本落入同一后验模态。 |
+| 计算机视觉 | 评测与诊断 | [What Matters in Practical Learned Image Compression](cards.md#paper-runtime-constrained-perceptual-codec-ablation) | 学习式压缩应在指定设备运行时间预算内联合评估失真和感知质量。 |
+| 机器学习基础与统计 | 优化 | [Model Merging in the Essential Subspace](cards.md#paper-feature-shift-pca-model-merging) | 合并权重前可先找出各任务更新真正改变特征的方向，再在这些子空间中合并。 |
+| 多模态学习 | 训练策略 | [DeepAlign: Mitigating Modality Conflict through Modality-Specific Alignment](cards.md#paper-deepalign-modality-specific-distillation) | 对齐图文时显式保留各模态特有细节，避免共享空间因为对齐而同质化。 |
+| 机器学习基础与统计 | 推理策略 | [SG-LoRA: Semantic-guided LoRA Parameters Generation](cards.md#paper-sglora-semantic-parameter-generation) | 以任务描述在专家库中选语义相关分布，再生成适配权重而无需目标样本微调。 |
+| 多模态学习 | 模型架构 | [G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](cards.md#paper-g2vlm-geometry-reasoning) | 让同一视觉语言骨干从多视图重建学三维特征，并在问答中直接读取几何证据。 |
+| 计算机视觉 | 训练策略 | [RecTok: Reconstruction Distillation along Rectified Flow](cards.md#paper-rectok-flow-semantic-distillation) | 高维视觉潜空间中，除了监督端点外，还让流匹配经过的中间状态具有语义。 |
+| 机器人学 | 模型架构 | [FunFact: Building Probabilistic Functional 3D Scene Graphs via Factor-Graph Reasoning](cards.md#paper-funfact-functional-factor-graph) | 对一组对象的功能关系做联合概率推断，用场景层约束解决单边难区分的语义。 |
+| 多模态学习 | 推理策略 | [OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery](cards.md#paper-opendpr-visual-proto-change) | 将变化定位与类别判定拆开，文本类名难区分时试用多种视觉原型。 |
+| 计算机视觉 | 训练策略 | [NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining](cards.md#paper-neighbormae-joint-reconstruction) | 以相邻视图提供上下文，但按信息泄露程度调遮挡和重建权重。 |
+| 机器学习基础与统计 | 损失函数 | [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](cards.md#paper-reta-dynamic-topology-distillation) | 合成小数据集时为各样本动态选择真实锚点，并检查类内拓扑是否被压扁。 |
+| 高效深度学习 | 测试时状态更新 | [ViT$^3$: Unlocking Test-Time Training in Vision](cards.md#paper-vit3-inner-learning-loss-design) | 用内层损失的混合导数检查视觉 TTT 能否利用目标值，再以主任务对照筛选。 |
+| 机器人学 | 世界模型 | [MAD: Motion Appearance Decoupling for efficient Driving World Models](cards.md#paper-mad-structured-motion-appearance-decoupling) | 先学结构化运动再学 RGB 外观，让可控世界模型专注不同误差来源。 |
+| 多模态学习 | 强化学习与奖励 | [Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](cards.md#paper-gvu-intrinsic-token-level-alignment-reward) | 复用统一模型的理解能力，为生成分支提供 token 级对齐奖励。 |
+| 多模态学习 | 知识蒸馏 | [4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation](cards.md#paper-p4d-region-level-perceptual-distillation) | 训练时把冻结专家的动态几何知识迁入区域问答模型，推理时免调专家。 |
+| 计算机视觉 | 可解释表征 | [Explaining Object Detectors via Collective Contribution of Pixels](cards.md#paper-collective-pixel-interactions-object-detectors) | 审计检测模型时，分别解释类别与框位置，并考虑一组像素的交互贡献。 |

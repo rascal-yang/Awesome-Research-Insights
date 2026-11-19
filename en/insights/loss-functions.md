@@ -493,5 +493,6 @@ Objectives, auxiliary supervision, and regularization.
 - [RoboTAG: End-to-end Robot Pose Estimation via Topological Alignment Graph](../../conferences/cvpr-2026/cards.md#paper-robotag-loop-alignment)
 - [MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](../../conferences/cvpr-2026/cards.md#paper-mllm-hwsi-cross-scale-alignment)
 - [Bootstrap Your Own AV-Proxies: Adaptive Contrastive and Prototype Learning for Audio-Visual Segmentation](../../conferences/cvpr-2026/cards.md#paper-byoavp-stop-gradient-prototypes)
+- [Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-reta-dynamic-topology-distillation)
 
 <!-- conference-classification:end -->

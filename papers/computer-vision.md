@@ -1606,5 +1606,10 @@
 - [Inferring Compositional 4D Scenes without Ever Seeing One](../conferences/cvpr-2026/cards.md#paper-com4d-disentangled-supervision)
 - [InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](../conferences/cvpr-2026/cards.md#paper-infinidepth-continuous-query)
 - [ReLaGS: Relational Language Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-relags-relational-gaussians)
+- [3D-Object Perception Transformer (3PT)](../conferences/cvpr-2026/cards.md#paper-shared-object-centric-2d-3d-refinement)
+- [What Matters in Practical Learned Image Compression](../conferences/cvpr-2026/cards.md#paper-runtime-constrained-perceptual-codec-ablation)
+- [RecTok: Reconstruction Distillation along Rectified Flow](../conferences/cvpr-2026/cards.md#paper-rectok-flow-semantic-distillation)
+- [NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining](../conferences/cvpr-2026/cards.md#paper-neighbormae-joint-reconstruction)
+- [Explaining Object Detectors via Collective Contribution of Pixels](../conferences/cvpr-2026/cards.md#paper-collective-pixel-interactions-object-detectors)
 
 <!-- conference-classification:end -->

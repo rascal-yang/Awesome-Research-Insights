@@ -1539,5 +1539,13 @@ Learning across modalities such as images, text, audio, and video.
 - [On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-continual-moe-drift-aware-token-assignment)
 - [VES-RFT: Rewarding Visual Evidence Sensitivity to Mitigate Hallucinations in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ves-rft-image-conditional-entropy-reward)
 - [Exploring Visual Pretraining for Learning Language Intelligence](../../conferences/cvpr-2026/cards.md#paper-maple-masked-document-image-pretraining)
+- [Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning](../../conferences/cvpr-2026/cards.md#paper-single-stage-frame-citation-video-reasoning)
+- [Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-bias-corrected-global-context-window-segmentation)
+- [ReBaPL: Repulsive Bayesian Prompt Learning](../../conferences/cvpr-2026/cards.md#paper-repulsive-posterior-prompt-sampling)
+- [DeepAlign: Mitigating Modality Conflict through Modality-Specific Alignment](../../conferences/cvpr-2026/cards.md#paper-deepalign-modality-specific-distillation)
+- [G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](../../conferences/cvpr-2026/cards.md#paper-g2vlm-geometry-reasoning)
+- [OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery](../../conferences/cvpr-2026/cards.md#paper-opendpr-visual-proto-change)
+- [Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-gvu-intrinsic-token-level-alignment-reward)
+- [4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation](../../conferences/cvpr-2026/cards.md#paper-p4d-region-level-perceptual-distillation)
 
 <!-- conference-classification:end -->

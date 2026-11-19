@@ -1302,5 +1302,11 @@
 - [OneThinker: All-in-one Reasoning Model for Image and Video](../conferences/cvpr-2026/cards.md#paper-onethinker-ema-grpo)
 - [On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models](../conferences/cvpr-2026/cards.md#paper-continual-moe-drift-aware-token-assignment)
 - [Exploring Visual Pretraining for Learning Language Intelligence](../conferences/cvpr-2026/cards.md#paper-maple-masked-document-image-pretraining)
+- [InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions](../conferences/cvpr-2026/cards.md#paper-reference-expert-distillation-goal-conditioned-control)
+- [Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning](../conferences/cvpr-2026/cards.md#paper-single-stage-frame-citation-video-reasoning)
+- [DeepAlign: Mitigating Modality Conflict through Modality-Specific Alignment](../conferences/cvpr-2026/cards.md#paper-deepalign-modality-specific-distillation)
+- [RecTok: Reconstruction Distillation along Rectified Flow](../conferences/cvpr-2026/cards.md#paper-rectok-flow-semantic-distillation)
+- [NeighborMAE: Exploiting Spatial Dependencies between Neighboring Earth Observation Images in Masked Autoencoders Pretraining](../conferences/cvpr-2026/cards.md#paper-neighbormae-joint-reconstruction)
+- [4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation](../conferences/cvpr-2026/cards.md#paper-p4d-region-level-perceptual-distillation)
 
 <!-- conference-classification:end -->
