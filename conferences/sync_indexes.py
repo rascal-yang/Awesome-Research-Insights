@@ -78,7 +78,7 @@ def conference_links():
     return domains, techniques
 
 
-def update_index(path, entries, english, index_type):
+def update_index(path, entries, english, index_type, neurips_provisional):
     pending = path.stem == "pending-classification"
     if pending:
         heading = "Pending classification" if english else "待归类"
@@ -99,7 +99,7 @@ def update_index(path, entries, english, index_type):
                      for v, file, anchor, title in entries if v == venue]
             if links:
                 name = "CoRL 2026" if venue == "corl-2026" else "NeurIPS 2026"
-                if venue == "neurips-2026":
+                if venue == "neurips-2026" and neurips_provisional:
                     name += " (provisional)" if english else "（暂收录）"
                 lines.extend([f"## {name}", "", *links, ""])
         body += "\n" + "\n".join([*lines, END, ""])
@@ -109,6 +109,7 @@ def update_index(path, entries, english, index_type):
 
 def sync():
     domains, techniques = conference_links()
+    neurips_provisional = not (ROOT / "conferences/neurips-2026/final-selection.tsv").exists()
     previous_totals = None
     for english, home_name in ((False, "README.md"), (True, "README.en.md")):
         home = ROOT / home_name
@@ -127,9 +128,10 @@ def sync():
             assert len(matches) == (9 if folder == "papers" else 11)
             keys = {m[3] for m in matches}
             assert set(groups) <= keys | {"pending-classification"}
-            counts = {m[3]: update_index(ROOT / m[2], groups[m[3]], english, folder)
+            counts = {m[3]: update_index(ROOT / m[2], groups[m[3]], english, folder, neurips_provisional)
                       for m in matches}
-            fallback = update_index(ROOT / pending, groups["pending-classification"], english, folder)
+            fallback = update_index(ROOT / pending, groups["pending-classification"],
+                                    english, folder, neurips_provisional)
             count = sum(counts.values()) + fallback
             totals.append(count)
             offset = matches[-1].end()

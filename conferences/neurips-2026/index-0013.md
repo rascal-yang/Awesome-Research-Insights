@@ -4,7 +4,6 @@
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
-| 具身智能与机器人 | 评测与诊断 | [Why Cross-Skeleton Retargeting Is Non-Identifiable: Structural Limits of Generative Motion Models](cards-0013.md#paper-155606) | 跨骨架动作重定向测源实例保真。 |
 | 大语言模型 | 采样与推理 | [Why Decoding Sharpens Without Resolving: Lock-in and Confusion in Autoregressive Reasoning](cards-0013.md#paper-150729) | 推理解码温度不等于提高可分支性。 |
 | 大语言模型 | 评测与诊断 | [Why Deterministic PRM Guidance Underperforms in Discrete Diffusion Reasoning](cards-0013.md#paper-148438) | 扩散推理引导与验证器重排对齐前向预算。 |
 | 生成模型 | 表征学习 | [Why DiT Models Underperform as Representation Learners without Long Skip Connections](cards-0013.md#paper-152368) | 复用 DiT 特征比较长跳接的噪声传播。 |
@@ -43,15 +42,8 @@
 | 生成模型 | 图像恢复 | [X2HDR: HDR Image Generation in a Perceptually Uniform Space](cards-0013.md#paper-148447) | 高动态范围生成先换感知均匀坐标再适配。 |
 | 多模态学习 | 数据合成 | [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](cards-0013.md#paper-153215) | 音视频蒸馏保跨模态交互。 |
 | 智能体与工具使用 | 表征学习 | [XBRIDGE: Entity-Grounded Latent Bridge for Heterogeneous LLM Communication](cards-0013.md#paper-153433) | 异构模型通信以实体作潜表示的共同坐标。 |
-| 深度学习 | 表征学习 | [XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction](cards-0013.md#paper-155852) | 谱源数量不固定时以集合分解而非固定顺序。 |
-| 计算机视觉 | 评测与诊断 | [XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher](cards-0013.md#paper-157013) | 轻量 matcher 复现同时锁定论文和发布实现细节。 |
-| 大语言模型 | 架构设计 | [xHC: Expanded Hyper-Connections](cards-0013.md#paper-153922) | 扩大超连接时检查收益饱和和成本。 |
-| 多模态学习 | 评测与诊断 | [XL-DocBench: Benchmarking Evidence-Grounded Extra-Long Document Understanding](cards-0013.md#paper-139062) | 超长文档评测要求提供跨页可核证据。 |
-| 大语言模型 | 评测与诊断 | [XL-SafetyBench: A Country-Grounded Cross-Cultural Benchmark for LLM Safety and Cultural Sensitivity](cards-0013.md#paper-139776) | 跨文化安全测评应区分沉默、不必要拒绝和内容安全。 |
 | 多模态学习 | 数据策略 | [XMNoise2Clean: Cross-Modal Denoising Under Sparse Data](cards-0013.md#paper-151207) | 用源模态可解释的目标信号比例决定是否适合合成去噪样本。 |
-| 大语言模型 | 推理策略 | [XTC: Head-Aware Sampling by Excluding Top Choices](cards-0013.md#paper-155382) | 多候选都可靠时可选择性抑制最强候选以增加多样性。 |
 | 图学习 | 模型架构 | [xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs](cards-0013.md#paper-148325) | 可交换图生成显式区分图级和节点级潜变量。 |
-| 机器学习基础与统计 | 理论与统计 | [xWhy: Causal Learning from Explanations](cards-0013.md#paper-149735) | 因果发现把专家解释视为可验证的额外监督。 |
 | 计算机视觉 | 表征学习 | [You CAN Teach an Old Model New Tricks: Domain Adaptation via Complementary Subspace Expansion](cards-0013.md#paper-149203) | 适配检索时增添互补子空间来保留旧索引。 |
 | 计算机视觉 | 评测与诊断 | [You Can’t Have It Both Ways: Concept Entanglement Limits Diffusion Model Unlearning](cards-0013.md#paper-155144) | 扩散遗忘同时验收目标删除和相邻概念效用。 |
 | 计算机视觉 | 训练策略 | [You Don’t Need Aligned Representations: Knowledge Distillation via Random Prototype Spaces](cards-0013.md#paper-153784) | 教师学生嵌入不对齐时，共用随机原型空间。 |
@@ -61,13 +53,10 @@
 | 多模态学习 | 表征学习 | [Your Embedding Model Is SMARTer Than You Think](cards-0013.md#paper-152683) | 已训练池化嵌入模型可测试使用中间向量检索。 |
 | 机器学习基础与统计 | 优化 | [Your Hypergradient is Skewed: Antithetic Neumann Estimation for Bilevel Optimization](cards-0013.md#paper-155284) | 双层优化监控超梯度估计的偏度并用反对称采样抵消。 |
 | 大语言模型 | 强化学习方法 | [Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor’s Internal States](cards-0013.md#paper-153139) | 可验证奖励训练复用策略前向的隐藏态预测基线。 |
-| 机器学习基础与统计 | 评测与诊断 | [Your Neighbors Know: Leveraging Local Neighborhoods for Backdoor Detection in Decentralized Learning](cards-0013.md#paper-153707) | 无中心训练用本地邻域防御观察检查更新。 |
 | 计算机视觉 | 评测与诊断 | [Your Self-Supervised Projection Head Captures Object Co-Occurrence Statistics](cards-0013.md#paper-148520) | 视觉对比投影头与主干应分开测对象类别及共现。 |
 | 大语言模型 | 训练策略 | [Your Teacher Can’t Help You Here: Combating Supervision Fidelity Decay in On-Policy Distillation](cards-0013.md#paper-154216) | 长程在线蒸馏用下一步教师置信估计未来监督可用性。 |
 | 机器学习基础与统计 | 评测与诊断 | [Z0-Inf: Zeroth Order Approximation for Data Influence](cards-0013.md#paper-155811) | 数据影响排序可先用零阶近似代替 Hessian 求逆。 |
-| 智能体 | 评测与诊断 | [Zero-Shot Coordination among LLM Agents](cards-0013.md#paper-149227) | 多智能体零样本协作给可对齐的任务术语 |
 | 具身智能与机器人 | 模型与架构 | [Zero-Shot Instruction Following in RL via Structured LTL Representations](cards-0013.md#paper-150080) | 规则指令解析编码逻辑层次及未来子目标 |
-| 大语言模型 | 效率与系统 | [Zero-Shot Quantization via Weight-Space Arithmetic](cards-0013.md#paper-148572) | 量化鲁棒性迁移可用源权重修正向量作初始对照 |
 | 机器学习基础与统计 | 训练与优化 | [Zeroth-Order Sharpness-Aware Learning with Exponential Tilting](cards-0013.md#paper-155109) | 无反传微调用指数倾斜代理尖锐度 |
 | 机器学习基础与统计 | 模型与架构 | [ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamics](cards-0013.md#paper-155054) | 离散长记忆动力学比较显式有理稳定结构 |
 | 机器学习基础与统计 | 训练与优化 | [ZO-F2: Low-variance Fisher preconditioner via bilinear estimation for zeroth-order optimization](cards-0013.md#paper-153380) | 零阶优化用双线性估计降低 Fisher 预条件方差 |

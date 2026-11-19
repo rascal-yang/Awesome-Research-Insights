@@ -10,8 +10,6 @@
 | 计算机视觉 | 评测与诊断 | [IDEA: Unwrapping Visual Black-box Models by Interaction Decomposition](cards-0007.md#paper-151393) | 概念解释把独有、冗余和交互信息分开。 |
 | 机器学习基础与统计 | 评测与诊断 | [Idempotency Exposes Consistency Problems in Sparse Autoencoders](cards-0007.md#paper-155537) | 稀疏自编码器解释应验算重编码后一致性。 |
 | 机器学习基础与统计 | 理论与统计 | [Identifiable alignment of unpaired representations](cards-0007.md#paper-151829) | 无配对表示对齐之前先检查局部距离分布是否可区分样本。 |
-| 机器学习基础与统计 | 理论与统计 | [Identification and Bounding of Joint Expectation over Potential Outcomes](cards-0007.md#paper-150669) | 潜在结果的联合效应异质性用依赖假设或锐界表达。 |
-| 大语言模型 | 评测与诊断 | [Identified-Set Geometry of Distributional Model Extraction under Top-K Censored API Access](cards-0007.md#paper-149969) | API 防护评估应分别报告输出分布保真与能力泄漏。 |
 | 计算机视觉 | 推理策略 | [Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models](cards-0007.md#paper-149053) | 在相同图文条件下跨随机种子检查个性化生成多样性。 |
 | 科学机器学习 | 模型架构 | [Identifying Latent Neural Dynamics with Recognition-Parameterized Gaussian Process Dynamical Systems](cards-0007.md#paper-151974) | 潜动态建模可用识别式观测关联替代完整生成观测模型。 |
 | 机器学习基础与统计 | 理论与统计 | [Identifying Structural Biases from Causal Mechanism Shifts](cards-0007.md#paper-151733) | 跨环境机制变化的相关性可用于检查隐藏混杂和选择偏差。 |
@@ -24,18 +22,12 @@
 | 大语言模型 | 评测与诊断 | [Illusory Pattern Perception Drives Spurious Inference in Large Language Models](cards-0007.md#paper-152124) | 用随机和模糊事件构建无真实规律的评测对照。 |
 | 机器人学 | 模型架构 | [Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator](cards-0007.md#paper-151849) | 导航模拟中将空间锚点与高保真观测合成解耦。 |
 | 多模态学习 | 表征学习 | [Image Generation for Automotive Lidar Open-vocabulary Semantic Segmentation](cards-0007.md#paper-151641) | 跨传感开放词汇分割将文本类别先转换成图像原型。 |
-| 计算机视觉 | 训练策略 | [Image Matting without Matting-Specific Annotations via Eikonal Fields](cards-0007.md#paper-151905) | 只有粗定位时用图像条件波前传播生成稀疏透明度监督。 |
 | 计算机视觉 | 评测与诊断 | [ImageNet FID is a Pass Check, Not a Finish Line](cards-0007.md#paper-140042) | 生成选型报告多套 FID 配置下的稳定性。 |
 | 多模态学习 | 损失函数 | [Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](cards-0007.md#paper-149868) | 用少量场景摘要 token 的三维重建训练空间推理。 |
 | 多模态学习 | 模型架构 | [Imagine Before You Draw: Visual Prompt Engineering for Image Generation](cards-0007.md#paper-156043) | 编辑生成让图像解码同时看到内部视觉计划和原始输入。 |
 | 大语言模型 | 评测与诊断 | [Imagine, Don't Narrate: The Generative Bottleneck in World Models of Interaction Dynamics](cards-0007.md#paper-150345) | 世界模型评估分开测内部状态和输出序列的信号损失。 |
 | 强化学习 | 评测与诊断 | [Imitation Dominates Reinforcement: Direct In-Context RL Is Closer to ICL Than RL](cards-0007.md#paper-151209) | 上下文强化学习先做奖励置乱和轨迹破坏对照。 |
 | 强化学习 | 强化学习方法 | [Imitation from Observations with Trajectory-Level Generative Embeddings](cards-0007.md#paper-151602) | 仅有专家状态时，以整段行为的潜空间密度定义稠密代理奖励。 |
-| 科学机器学习 | 模块 | [ImmuVis: Hyperconvolutional Foundation Models for Imaging Mass Cytometry](cards-0007.md#paper-152450) | 通道集合变化时用通道语义动态生成卷积核。 |
-| 机器学习基础与统计 | 评测与诊断 | [Impacts of Aggregation on Model Diversity and Consumer Utility](cards-0007.md#paper-149015) | 有路由器的模型生态按强项的绝对质量加权胜率。 |
-| 机器学习基础与统计 | 评测与诊断 | [Imperfect Influence, Reliable Rankings: A Theory of TRAK for Data Attribution](cards-0007.md#paper-153488) | 用 TRAK 先筛高影响样本，再复核中间排名或绝对值。 |
-| 强化学习 | 理论与统计 | [Imperfect World Models are Exploitable](cards-0007.md#paper-154874) | 仅在可论证的安全时域内信任代理规划排序。 |
-| 机器学习基础与统计 | 理论与统计 | [Implicit Bias in State Space Models and Linear Autoregressive Training](cards-0007.md#paper-150321) | 变长训练先查各长度组对极限边际的影响。 |
 | 机器学习基础与统计 | 优化 | [Implicit Bias of Mirror Flow in Homogeneous Neural Networks: Sparse and Dense Feature Learning](cards-0007.md#paper-149406) | 选镜像映射时分别测分类间隔、训练收敛时间和神经元激活稀疏性。 |
 | 机器人学 | 训练策略 | [Implicit Drifting Policy: One-Step Action Generation via Conditional Expert Geometry](cards-0007.md#paper-153972) | 部署一步动作生成器时，以局部专家几何约束训练，避免显式估计稀疏条件漂移场。 |
 | 强化学习 | 优化 | [Implicit-Euler Value Iteration: Long-Horizon Planning via Stable Integration of the Bellman Residual Flow](cards-0007.md#paper-151746) | 长时域价值迭代可用近似模拟器解隐式步，再用真模型残差纠偏。 |
@@ -44,19 +36,14 @@
 | 机器学习基础与统计 | 理论与统计 | [Impossibility of Distribution-Free Predictive Inference for Individual Treatment Effects](cards-0007.md#paper-149451) | 估计连续协变量下的个体因果效应时，明确加入哪些结构假设才可能得到有用的预测区间。 |
 | 计算机视觉 | 训练策略 | [Improved Baselines with Representation Autoencoders](cards-0007.md#paper-149740) | 配置表示自编码器时，比较多层融合、对同一表示做中层对齐，以及单模型自引导。 |
 | 机器学习基础与统计 | 数据策略 | [Improved Leverage Score Sampling for Constrained Active Linear Regression](cards-0007.md#paper-155618) | 受各向异性约束的主动回归中，用可行域形状重新加权标注查询。 |
-| 机器学习基础与统计 | 优化 | [Improved Robust Verifiable Federated Learning Based on Packed Secret Sharing](cards-0007.md#paper-148144) | 隐私联邦聚合需要相似度验证时，以可验证点积作为模块化原语。 |
 | 机器学习基础与统计 | 模型架构 | [Improved State Mixing in Higher-order and Block Diagonal Linear Recurrent Networks](cards-0007.md#paper-152218) | 对角式线性循环表达不足时，按瓶颈选择混合多个过去状态或块内通道。 |
-| 多模态学习 | 训练策略 | [Improved techniques for fine-tuning flow models via adjoint matching: a deterministic control pipeline](cards-0007.md#paper-154921) | 流生成模型对齐偏好时，比较完整反传与仅在轨迹后段计算伴随信号。 |
 | 大语言模型 | 评测与诊断 | [Improving Audit Realism with Inference-Time Compute and Deployment Scaffolds](cards-0007.md#paper-148140) | 做模型安全审计时，将部署环境一致性作为独立测量项。 |
 | 机器学习基础与统计 | 理论与统计 | [Improving Causal Explanations](cards-0007.md#paper-153775) | 高风险变量归因以因果假设与可行区间作为解释的一部分。 |
 | 计算机视觉 | 损失函数 | [Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives](cards-0007.md#paper-149052) | 通过训练期类间似然比对齐吸收部分扩散引导效果。 |
 | 大语言模型 | 强化学习方法 | [Improving Consistency in Retrieval Augmented Systems  With Group Similarity Rewards](cards-0007.md#paper-150565) | 把同义改写分组用于 RAG 政策更新，单列检索和生成的一致性。 |
-| 机器学习基础与统计 | 理论与统计 | [Improving constraint-based discovery with robust propagation and LLM priors](cards-0007.md#paper-151902) | 因果定向先筛可信种子，继而用非碰撞证据稳健传播。 |
 | 计算机视觉 | 损失函数 | [Improving Context-Shift Robustness of Convolutional Networks via Context-Regularized Cross-Entropy](cards-0007.md#paper-150848) | 背景偏移明显时把上下文归因惩罚写进分类训练。 |
 | 计算机视觉 | 推理策略 | [Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration](cards-0007.md#paper-151348) | 扩散图像逆问题加入相邻一致性估计差值，以控制采样波动。 |
-| 计算机视觉 | 表征学习 | [Improving Flexible Image Tokenizers for Autoregressive Image Generation](cards-0007.md#paper-149748) | 可变长图像词元训练需保证尾部获得足够激活且保留细节自由度。 |
 | 机器学习基础与统计 | 优化 | [Improving Function Space Flow Matching with Kernel Optimal Transport](cards-0007.md#paper-152774) | 函数流匹配按函数空间核做批内配对。 |
-| 大语言模型 | 强化学习方法 | [Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization](cards-0007.md#paper-154485) | 奖励打分区分不出通用套话时按条件特异性调节梯度。 |
 | 计算机视觉 | 训练策略 | [Improving Generative Adversarial Networks with Self-Distillation](cards-0007.md#paper-151051) | 将生成器 EMA 从部署快照改为训练期稳定教师。 |
 | 计算机视觉 | 损失函数 | [Improving Guidance-Free Visual Generation via Self-Contrastive Alignment for Likelihood Estimation](cards-0007.md#paper-152467) | 无引导生成可直接对齐真实样本与自生成样本的预测差异。 |
 | 大语言模型 | 表征学习 | [Improving LLM Final Representations with Inter-Layer Geometry](cards-0007.md#paper-150649) | 用低直径稀疏层间图整合冻结模型中间特征。 |
@@ -65,11 +52,8 @@
 | 计算机视觉 | 训练策略 | [Improving Self-Supervised Vision Transformers with Cross Distillation](cards-0007.md#paper-151171) | 给视觉自蒸馏的每个遮盖补丁少量全局教师分布。 |
 | 计算机视觉 | 表征学习 | [Improving the Diffusability of Motion Tokenizer](cards-0007.md#paper-150734) | 动作词元器同时优化潜频谱可扩散性和时间解码。 |
 | 大语言模型 | 推理策略 | [Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs](cards-0007.md#paper-149121) | 良性协作任务用共享可更新依赖图协调分工。 |
-| 机器学习基础与统计 | 优化 | [Improving the Optimization Landscape of Matrix Completion with $\epsilon$-close Surrogates](cards-0007.md#paper-151753) | 矩阵补全可用保留原观测的微扰代理改善可分析性。 |
 | 机器学习基础与统计 | 模块 | [IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting](cards-0007.md#paper-154661) | 不规则时序在分词前保留采样间距。 |
 | 图学习与推荐 | 训练策略 | [IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation](cards-0007.md#paper-150515) | 用预聚合邻居基线加批内残差代替逐步全邻域重算。 |
-| 科学机器学习 | 推理策略 | [Incentivizing Agentic Retrieval for Disease-Centric Clinical Case Search via Trajectory Memory](cards-0007.md#paper-149120) | 检索规划先判断各证据维度是否足够直接匹配。 |
-| 科学机器学习 | 训练策略 | [Incentivizing Medical Vision Capabilities from Large-Scale Multimodal Pre-training](cards-0007.md#paper-156128) | 从预训练语料反向构造能调用已学知识的后训练任务。 |
 | 机器学习基础与统计 | 理论与统计 | [In-Context Benign Overfitting: A Feature-Selection Model in Linear Regression ICL](cards-0007.md#paper-154755) | ICL 的规模实验分开测训练任务检索和新任务学习。 |
 | 机器学习基础与统计 | 优化 | [In-Context Black-Box Optimization with Unreliable Feedback](cards-0007.md#paper-154930) | 黑盒搜索将辅助信号的可信度当作需在线推断的量。 |
 | 多模态学习 | 评测与诊断 | [In-Context Learning Can Help Vision Language Models Overcome Training Prior](cards-0007.md#paper-148820) | 用先验冲突样本加演示区分感知缺失和读出偏差。 |
@@ -77,41 +61,19 @@
 | 科学机器学习 | 数据策略 | [In-context learning to predict critical transitions in dynamical systems](cards-0007.md#paper-155891) | 稀缺的突变预警训练按分岔机制合成随机动态。 |
 | 科学机器学习 | 模型架构 | [In-Context Multi-Operator Learning with DeepOSets](cards-0007.md#paper-154682) | 为一套算子模型提供无序输入输出示例指明所求算子。 |
 | 大语言模型 | 推理策略 | [In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective](cards-0007.md#paper-150330) | 固定检索器时针对每次查询调整生成器的证据接口。 |
-| 机器学习基础与统计 | 优化 | [Incorporating Neural Network Structure in the Bayesian Learning Rule](cards-0007.md#paper-153834) | 贝叶斯神经网络更新时显式利用层结构传播自然参数。 |
-| 机器学习基础与统计 | 理论与统计 | [Incremental Learning in Transformers for In-Context Associative Recall](cards-0007.md#paper-150555) | 关联回忆训练用初始化扫查不同电路的出现时点。 |
-| 强化学习 | 优化 | [Incremental Multiple Oracle](cards-0007.md#paper-155693) | 连续博弈的混合策略搜索约束每个玩家的候选策略池。 |
 | 科学机器学习 | 损失函数 | [Independent Latents, Robust Neural Operators](cards-0007.md#paper-148392) | 噪声传感下用在线潜统计独立正则保护算子重建。 |
-| 强化学习 | 理论与统计 | [Independent Learning of Nash Equilibria in Partially Observable Markov Potential Games with Decoupled Dynamics](cards-0007.md#paper-150509) | 独立学习时先验证短历史是否能近似部分观测状态。 |
 | 多模态学习 | 训练策略 | [InduceKV: Fixed-Footprint Continual Adaptation of Multimodal LLMs via Inducing KV Memories](cards-0007.md#paper-153680) | 冻结主干做持续适配时，在固定部署预算下选择可直接参与注意力的 KV 记忆。 |
 | 大语言模型 | 训练策略 | [Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems](cards-0007.md#paper-150230) | 生成关键软件时，按可证明的增量联合推进代码和证明，从失败目标反推修改。 |
-| 科学机器学习 | 优化 | [INEUS: Iterative Neural Solver for High-Dimensional PIDEs](cards-0007.md#paper-154584) | 非局部方程求解避免显式计算跳积分时，把非局部项变为单次跳跃采样。 |
-| 机器学习基础与统计 | 优化 | [Inexact Bregman Sparse Newton Method for Efficient Optimal Transport](cards-0007.md#paper-155946) | 需要精确运输计划时，用外层 Bregman 迭代保持原问题目标，内层只近似求解。 |
-| 机器学习基础与统计 | 理论与统计 | [In-Expectation Convergence of Stochastic Gradient Methods under Heavy-Tailed Noise](cards-0007.md#paper-151715) | 噪声只有有限 p 阶矩时，把未改动 SGD 或随机镜像下降作为重尾实验的有效基线。 |
 | 多模态学习 | 数据策略 | [InfCLIP: Unified Data Valuation for CLIP Pretraining via Influence-Inspired Scoring](cards-0007.md#paper-150869) | 目标任务明确时，以基于冻结特征的影响启发式替代手调多项数据筛选分数。 |
 | 机器人学 | 强化学习方法 | [InfCoiL: Coordinated Planner-Controller Learning for Closed-Loop Physics-Based Human-Object Interaction](cards-0007.md#paper-152598) | 接触规划偏离执行时，以闭环回放的奖励分别更新流规划器和物理控制器。 |
-| 机器学习基础与统计 | 理论与统计 | [Inference for Many Quantiles under Local Differential Privacy](cards-0007.md#paper-148280) | 本地隐私限制下同时估计多个分位数时，用非交叉投影和联合自归一化。 |
 | 大语言模型 | 推理策略 | [Inference Time Nash Alignment](cards-0007.md#paper-153713) | 成对偏好难压成单一标量时，推理端比较 Nash 求解与奖励排序。 |
-| 机器学习基础与统计 | 推理策略 | [Inference-Time Refinement Closes the Synthetic-Real Gap in Tabular Diffusion](cards-0007.md#paper-151371) | 冻结表格扩散模型后，尝试以同一双向覆盖目标同时指导采样与筛选。 |
 | 计算机视觉 | 推理策略 | [Inference-Time Self-Aligned Drifting for Few-Step Flow Matching](cards-0007.md#paper-155309) | 流匹配步数受限时，用轨迹动量残差定向增加变化，而不是全程添加各向同性噪声。 |
-| 大语言模型 | 评测与诊断 | [Inference-Time Vulnerability Beyond Shallow Safety: Alignment Along Generation Trajectories](cards-0007.md#paper-156068) | 审核模型的生成安全时，将生成中段的防护表现作为单独验收维度。 |
-| 科学机器学习 | 评测与诊断 | [Inferotemporal Cortex Collaborates Before It Codes: Non-Serial Inter-Area Synergy in the Macaque Ventral Stream](cards-0007.md#paper-152708) | 层级编码的时间分析同时测独有信息和跨区协同。 |
-| 科学机器学习 | 模型架构 | [Inferring Computational Structure from Neural Recordings with Gain-Modulated Linear Dynamical Systems](cards-0007.md#paper-153994) | 拟合潜轨迹后还要验证沿轨迹的局部动力学。 |
-| 科学机器学习 | 评测与诊断 | [Inferring how internal brain state shapes neural responses with state-dependent diffusion models](cards-0007.md#paper-149640) | 条件生成把未见条件组合的补覆盖与已见条件的重复采样分开。 |
-| 科学机器学习 | 理论与统计 | [Inferring learning rules in deep neural network architectures from animal learning data](cards-0007.md#paper-148570) | 从行为轨迹识别学习规则时先检验不同深度模型是否可区分。 |
 | 机器学习基础与统计 | 理论与统计 | [InfoFlow: A Framework for Multi-Layer Transformer Analysis](cards-0007.md#paper-148677) | 检索需要非最大元素或多个耦合条目时检查深度，而非只扩宽单层。 |
-| 机器人学 | 推理策略 | [InfoNav: A Unified Value Framework Integrating Semantic Relevance and Information Gain for Zero-Shot Object Goal Navigation](cards-0007.md#paper-149947) | 导航前沿评分联合考虑找到目标的机会和信息增益。 |
-| 机器学习基础与统计 | 评测与诊断 | [Information bottleneck dynamics during learning across artificial and biological neural systems](cards-0007.md#paper-153429) | 诊断表征学习时分别追踪目标相关性和输入信息压缩。 |
 | 强化学习 | 强化学习方法 | [Information-Directed Offline-to-Online Reinforcement Learning](cards-0007.md#paper-154972) | 离线转在线应按已有数据条件下的剩余不确定性选探测动作。 |
 | 大语言模型 | 评测与诊断 | [Information Discernment in Large Language Models](cards-0007.md#paper-154203) | 检索后验收把来源可靠性与内容是否增进真实度分开。 |
-| 强化学习 | 优化 | [Information-Geometric Forward Policy Training in GFlowNets](cards-0007.md#paper-149101) | GFlowNet 策略更新可按轨迹 Fisher 利用目标结构。 |
 | 图学习与推荐 | 理论与统计 | [Information Loss and Disparate Effects in Network Embeddings](cards-0007.md#paper-151063) | 比较图嵌入时分社区检查结构信息丢失。 |
-| 大语言模型 | 评测与诊断 | [Information Parity for Code: The Scope of Transfer in Multilingual Code Models](cards-0007.md#paper-139705) | 跨编程语言评测分开短局部生成、执行预测和整程序生成。 |
 | 机器学习基础与统计 | 训练策略 | [Information Propagation via Sign-Flip Dynamics](cards-0007.md#paper-151344) | 恒等加噪初始化时校准信号符号保留率。 |
 | 机器学习基础与统计 | 推理策略 | [Information Templates: A New Paradigm for Intelligent Active Feature Acquisition](cards-0007.md#paper-152156) | 主动特征采集用少量联合信息模板缩小搜索。 |
-| 机器学习基础与统计 | 理论与统计 | [Information-Theoretic Generalization Bounds for Sequential Decision Making](cards-0007.md#paper-149551) | 序列泛化按每轮选择信息累加，避免把自适应样本当独立批样本。 |
-| 机器学习基础与统计 | 理论与统计 | [Information-Theoretic Generalization for Set-Input Optimization-Valued Objectives](cards-0007.md#paper-153827) | 验证批量风险指标时把重优化后的选择差异纳入泛化分析。 |
-| 强化学习 | 强化学习方法 | [Informed Posterior Sampling: More Efficient Online Learning with Few Offline Demonstrations in Average-Reward MDPs](cards-0007.md#paper-155089) | 少量示范暖启动需要建模专家能力不确定性。 |
-| 科学机器学习 | 评测与诊断 | [InformedXRD: Reproducible Benchmarks and Physics-Informed Evaluation for Powder Diffraction Symmetry Classification](cards-0007.md#paper-138981) | 先按物理可辨性合并标签，再分层比较模型。 |
 | 大语言模型 | 损失函数 | [InfoSFT: Learn More and Forget Less with Information-Aware Token Weighting](cards-0007.md#paper-155588) | 监督微调优先给中置信词元更高权重。 |
 | 大语言模型 | 强化学习方法 | [INFUSER: Influence-Guided Self-Evolution Improves Reasoning](cards-0007.md#paper-153094) | 课程生成按给求解器带来的改进奖励，而非只奖励难题。 |
 | 计算机视觉 | 模块 | [Inline Critic Steers Image Editing](cards-0007.md#paper-152644) | 在图像编辑单次前向内根据中间层预测局部误差。 |
@@ -121,48 +83,31 @@
 | 大语言模型 | 推理策略 | [InQuant: In-Place Mixed-Precision KV Cache Quantization via Saliency-Aware Neighbor-Slot Reuse](cards-0007.md#paper-155795) | 混合精度缓存优先复用低显著邻通道的物理槽位。 |
 | 大语言模型 | 评测与诊断 | [Inside Emergence: Structure-Behaviour Gaps in Language Model Training](cards-0007.md#paper-151787) | 能力突然出现前保存检查点并查内部结构成熟度。 |
 | 大语言模型 | 模型架构 | [Inside the Loop: A Mechanistic Study of Weight-Tied Transformers on Depth-Bound Algorithmic Tasks](cards-0007.md#paper-150577) | 对固定步式任务比较共享权重迭代与等深非共享堆叠。 |
-| 机器学习基础与统计 | 优化 | [Insight-Driven Search: A Framework for Multi-objective Automated Heuristic Design with Large Language Models](cards-0007.md#paper-155553) | 多目标启发式搜索保存可复用的策略片段。 |
 | 大语言模型 | 训练策略 | [INSPO : Unlocking Intrinsic Self-Reflection for LLM Preference Optimization](cards-0007.md#paper-153491) | 偏好对齐把备选回答作为训练期特权输入，再蒸馏掉。 |
 | 强化学习 | 强化学习方法 | [Instability of Meta-Learning Intrinsic Rewards for Policy Gradient Reinforcement Learning](cards-0007.md#paper-150789) | 高维内在奖励崩溃时分离政策与价值的共享更新。 |
 | 机器学习基础与统计 | 理论与统计 | [Instance-Adaptive Online Multicalibration](cards-0007.md#paper-148452) | 在线多重校准按信号变化自适应细分概率区间。 |
 | 机器学习基础与统计 | 优化 | [Instance-Dependent Bandit Convex Optimization in One Dimension](cards-0007.md#paper-153738) | 先区分目标是定位最小点还是找到近优值。 |
 | 大语言模型 | 评测与诊断 | [Instance-Optimal Estimation with Multiple LLM Judges on a Budget](cards-0007.md#paper-149650) | 按题目与评审组合的方差和成本分配预算。 |
-| 计算机视觉 | 评测与诊断 | [Instantiation of Human Values in Image Generation](cards-0007.md#paper-139657) | 抽象概念生成的审计按主体、动作及场景的组合覆盖打分。 |
 | 大语言模型 | 推理策略 | [In STeP: Speculative Tensor Parallelism for Concurrent Heterogeneous Inference of LLMs](cards-0007.md#paper-155402) | CPU 与 GPU 同步核验时把显著通道子网作为草案。 |
 | 多模态学习 | 评测与诊断 | [Instruction Anchor: Dissecting the Mechanistic Dynamics of Modality Arbitration](cards-0007.md#paper-150433) | 诊断指令指定某一模态却被忽略时，区分浅层输入汇聚与深层模态仲裁。 |
-| 计算机视觉 | 训练策略 | [Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](cards-0007.md#paper-153831) | 三维关节标注粒度不统一时，显式提供目标运动学规格再监督零件分割与关节。 |
 | 机器学习基础与统计 | 理论与统计 | [Integral Probability Boundaries](cards-0007.md#paper-152300) | 估计稀有群体或极端失败下的分布差距时，对照线性 IPM 与在极端区域紧的非线性边界。 |
 | 机器学习基础与统计 | 训练策略 | [Integrated Imputation-Classification for Supervised Learning with Missing Data](cards-0007.md#paper-149201) | 缺失输入的目标是分类时，联合优化补全和类别边缘化。 |
-| 机器学习基础与统计 | 理论与统计 | [Integrating digital twins with randomized experiments](cards-0007.md#paper-149096) | 外部目标人群只有汇总量时，用这些量校准真实试验数据与合成协变量的混合。 |
 | 大语言模型 | 评测与诊断 | [Integrating Local and Global Entropy for Uncertainty Quantification in LLMs](cards-0007.md#paper-150760) | 置信 token 仍可能产生错答案时，联合测全局隐藏态复杂性与局部熵。 |
-| 大语言模型 | 评测与诊断 | [IntegrityBench: Can LLMs Be Trusted as Co-Scientists? A Research Integrity Benchmark](cards-0007.md#paper-139337) | 研究助手验收时，把违规识别、伦理行动与产物决策分开测，并记录误拒。 |
 | 大语言模型 | 数据策略 | [Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation](cards-0007.md#paper-155244) | 代码要支持后续编辑时，训练目标中显式保留语义操作及参数关系。 |
 | 大语言模型 | 推理策略 | [Intent-Aware Caching for Efficient LLM Serving](cards-0007.md#paper-150630) | 多轮请求前缀缓存空间紧张时，用近期按意图统计的复用时间和概率决定淘汰。 |
 | 大语言模型 | 推理策略 | [Intent Factored Generation: Unleashing the Diversity in Your Language Model](cards-0007.md#paper-150506) | 需要多个真正不同的答案时，在语义计划上高温采样，在文字兑现时降低温度。 |
 | 机器人学 | 表征学习 | [Interaction-Aligned Robot Learning from Human Videos with Structured Graph Modeling](cards-0007.md#paper-155579) | 利用人类操作视频时，将手与夹爪映射至共享三维场景并对齐交互结构。 |
 | 强化学习 | 强化学习方法 | [Interaction Value Inference for Multi-Agent Reinforcement Learning via a Hierarchical Agent-Centric World Model](cards-0007.md#paper-148672) | 协作价值估计显式纳入队友未来行为。 |
-| 科学机器学习 | 模型架构 | [Interactive 4D Volumetric Liquid Forecasting under Moving-Solid Interaction](cards-0007.md#paper-155706) | 刚液交互预测分别建模界面扰动和全局传播。 |
 | 图学习与推荐 | 强化学习方法 | [Interactive Combinatorial Reinforcement Learning for Knowledge Graph Reasoning](cards-0007.md#paper-155091) | 图推理先约束采样路径可执行，再优化答案回报。 |
-| 大语言模型 | 评测与诊断 | [Inter-Agent Influence: Evaluating Persuasion, Deception and Coercion in Multi-Agent Systems](cards-0007.md#paper-148176) | 多智能体审核要测代理交互后的决策稳定性。 |
-| 机器学习基础与统计 | 模型架构 | [Inter-domain Inference for Gaussian Process Variational Autoencoders](cards-0007.md#paper-151321) | 按计算结构为 GPVAE 选择诱导特征。 |
 | 大语言模型 | 模块 | [Interleaved Head Attention](cards-0007.md#paper-154807) | 在单层注意力内混合注意头以增加关系组合。 |
 | 大语言模型 | 推理策略 | [Interleaved Latent Thinking and Adaptive Termination for Efficient Reasoning LLMs](cards-0007.md#paper-154542) | 分别学习推理表示切换与停止。 |
-| 机器学习基础与统计 | 评测与诊断 | [Internal Evaluation of Unsupervised Anomaly Detection Algorithms with Explanation](cards-0007.md#paper-139056) | 用分数空间与输入空间邻域不一致筛查异常检测器。 |
 | 计算机视觉 | 训练策略 | [Internalize External Competence for Visual Instruction Editing](cards-0007.md#paper-149907) | 把外部视觉规划器的空间指令能力离线蒸入编辑器。 |
-| 大语言模型 | 评测与诊断 | [Internal Safety Collapse in Frontier Large Language Models](cards-0007.md#paper-148657) | 安全验收覆盖工具链内部数据和最终输出。 |
-| 图学习与推荐 | 数据策略 | [Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists](cards-0007.md#paper-152947) | 方法检索显式区分引用边和由瓶颈驱动的方法沿革。 |
 | 机器学习基础与统计 | 模型架构 | [Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects](cards-0007.md#paper-150129) | 需要交互又要局部可审计时为同一特征分区域拟合单变量函数。 |
 | 计算机视觉 | 评测与诊断 | [Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations](cards-0007.md#paper-154045) | 概念瓶颈鲁棒性同时检验连续几何变化和离散概念变化。 |
-| 机器学习基础与统计 | 优化 | [Interpretable Multiway-Split Trees](cards-0007.md#paper-155490) | 当决策天然多值时，在树学习里显式搜索多路稀疏划分。 |
 | 科学机器学习 | 模型架构 | [Interpretable Relational Inference with LLM-Guided Symbolic Dynamics Modeling](cards-0007.md#paper-154449) | 耦合动力学识别中同时估计连边和交互方程。 |
-| 机器学习基础与统计 | 评测与诊断 | [Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks](cards-0007.md#paper-155074) | 用可读启发式的动作分布解释神经求解器的阶段性决策。 |
-| 机器学习基础与统计 | 优化 | [Intersectional Fairness via Mixed-Integer Optimization](cards-0007.md#paper-154529) | 审计交叉群体偏差时显式优化最不公平子群。 |
-| 多模态学习 | 推理策略 | [Intervene3D: Intervention-Based Controlled Inference for Multimodal Perception under Partial Observability](cards-0007.md#paper-154481) | 传感缺失时只在证据允许的范围内用约束改预测。 |
-| 计算机视觉 | 损失函数 | [Intervention-Guided Image-Free Classifier Expansion for Fine-Grained Recognition](cards-0007.md#paper-148473) | 无图扩展分类器用反事实属性定义应敏感和应不变的方向。 |
 | 大语言模型 | 推理策略 | [interwhen: A Generalizable Framework for Steering Reasoning Models with Test-time Verification](cards-0007.md#paper-154546) | 单条推理轨迹异步校验中间状态。 |
 | 强化学习 | 强化学习方法 | [Intra-Option Fitted Q-Evaluation: Evaluating Hierarchical Policies from Non-Hierarchical Data](cards-0007.md#paper-149125) | 层次策略离线评估在状态、选项联合空间拟合价值。 |
 | 大语言模型 | 训练策略 | [Intrinsically Interpretable Attention via Sparse Post-Training](cards-0007.md#paper-152659) | 后训练按保留预训练损失的约束稀疏注意。 |
-| 机器学习基础与统计 | 理论与统计 | [Intrinsic-dimension empirical Bernstein inequalities for bounded self-adjoint operators](cards-0007.md#paper-148546) | 算子集中界优先比较经验内在维数而非显式环境维数。 |
 | 机器学习基础与统计 | 评测与诊断 | [Intrinsic Information Theoretic Analysis of ReLU Nets](cards-0007.md#paper-155566) | 用网络本身的线性区域诊断表示互信息。 |
 | 机器学习基础与统计 | 优化 | [Intrinsic Muon: Spectral Optimization on Riemannian Matrix Manifolds](cards-0007.md#paper-148345) | 受约束矩阵优化在切空间采用度量诱导的内在范数。 |
 | 计算机视觉 | 模型架构 | [Intrinsic-Preserving Schrödinger Bridge for Direct Part-Aware 3D Generation](cards-0007.md#paper-152274) | 可编辑三维生成将条件语义刚性与目标几何灵活性分设。 |
@@ -171,10 +116,8 @@
 | 大语言模型 | 训练策略 | [Introspective Coupling: LMs Learn to Explain Themselves Better Than Their Training Targets](cards-0007.md#paper-154036) | 解释监督需在训练期间持续与模型行为相容。 |
 | 计算机视觉 | 训练策略 | [Invaria: Learning Scale and Density Invariance in Point Clouds via Next-Resolution Prediction](cards-0007.md#paper-152764) | 以跨分辨率预测训练密度稳健的点云编码器。 |
 | 机器学习基础与统计 | 理论与统计 | [Invariance and Body-Order Compose Additively: Minimax Rates on $\mathrm{SO}(3)^n$](cards-0007.md#paper-154396) | 分别用全局不变性和有限体阶降低旋转函数学习难度。 |
-| 大语言模型 | 表征学习 | [Invariant Features in Language Models: Geometric Characterization and Model Attribution](cards-0007.md#paper-152361) | 从语义保持和语义改变对照中学习释义不变子空间。 |
 | 图学习与推荐 | 表征学习 | [Invariant Hyperbolic Unfolding: Radial Canonicalization for Label-Free Cross-Graph Link Prediction](cards-0007.md#paper-152389) | 跨图双曲迁移使用图内结构百分位固定径向坐标。 |
 | 强化学习 | 优化 | [Inverse Linear Bandits via Linear Programs](cards-0007.md#paper-149017) | 由 bandit 行为反推奖励时用被选动作的置信约束。 |
-| 科学机器学习 | 优化 | [Inverse Modeling of Neural Recordings via Differentiable Biophysical Simulation](cards-0007.md#paper-153595) | 窗阈值造成可微模拟梯度消失时，用事件时刻提供监督锚点。 |
 | 强化学习 | 强化学习方法 | [Inverse Reinforcement Learning with Just Classification and a Few Regressions](cards-0007.md#paper-149272) | 从示范恢复奖励时，先明确状态级归一化，再把分类和价值回归分开。 |
 | 大语言模型 | 推理策略 | [Inverted Detection and Control in Steering Vectors](cards-0007.md#paper-154602) | 选激活干预向量时，先核对检测符号和因果控制方向是否一致。 |
 | 计算机视觉 | 理论与统计 | [Invertible Logits Transformation for Accuracy-Preserving Post-Hoc Uncertainty Calibration](cards-0007.md#paper-153997) | 分类置信校准需要保留预测标签时，尝试所有类别共享同一个 logit 校准函数。 |
@@ -183,7 +126,6 @@
 | 大语言模型 | 推理策略 | [I-PTC: Interactive Programmatic Tool Calling for Stateful Tool-Augmented Agents](cards-0007.md#paper-153721) | 长依赖工具任务中，比较持久程序化调用与一连串无状态调用。 |
 | 大语言模型 | 训练策略 | [IRIS: Interpolative Rényi Iterative Self-play for Large Language Model Fine-Tuning](cards-0007.md#paper-148291) | 迭代自博弈微调时，按训练阶段切换样本权重的集中程度。 |
 | 大语言模型 | 数据策略 | [Irreducible Supervision Enables Compositional Generalization in Post-Training](cards-0007.md#paper-149659) | 构建组合泛化监督时，同时保证示例程序本身与输入输出证据都排除了浅层捷径。 |
-| 大语言模型 | 评测与诊断 | [Is Agentic AI Ready for Real-World Hardware Engineering? A Deep Dive with Phoenix-bench](cards-0007.md#paper-139277) | 让硬件修复 Agent 使用可执行验证反馈，并诊断是否能追踪模块间信号流。 |
 | 计算机视觉 | 评测与诊断 | [Is a Linear Probe Evidence of a Linear Representation?](cards-0007.md#paper-151738) | 用线性探针提出表征机制主张时，补做逆预测、谱集中和域外诊断。 |
 | 机器学习基础与统计 | 优化 | [Is Backpropagation Optimal? When Synthetic Gradients Improve Sample Efficiency](cards-0007.md#paper-152783) | 有不同梯度估计器可选时，比较样本预算下的均方误差，而非默认反向传播估计最优。 |
 | 计算机视觉 | 评测与诊断 | [Is Complex Training Necessary for Long-Tailed OOD Detection? A Re-think from Feature Geometry](cards-0007.md#paper-152780) | 长尾分布外检测先诊断半径与协方差估计，再考虑重训。 |
@@ -193,7 +135,6 @@
 | 机器学习基础与统计 | 模型架构 | [Isotropic Activation Functions Enable Deindividuated Neurons and Adaptive Topologies](cards-0007.md#paper-154076) | 需要训练时调宽度可先设计对换基保持等价的激活。 |
 | 多模态学习 | 表征学习 | [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](cards-0007.md#paper-148810) | 把连续声音输入限制在冻结语言模型的词嵌入凸包内。 |
 | 大语言模型 | 强化学习方法 | [Is the Importance Ratio Necessary for Stable Reinforcement Learning in LLMs?](cards-0007.md#paper-152454) | 语言强化学习稳定性应分开检查重要性校正与信任域。 |
-| 大语言模型 | 评测与诊断 | [Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)](cards-0007.md#paper-139736) | 审计模型推荐时将候选真实质量差异与无关上下文影响分开。 |
 | 机器学习基础与统计 | 优化 | [It Cancels: O(r²) Cholesky Updates for Whitened Operators](cards-0007.md#paper-154420) | 维护双边白化算子时复用秩一更新的旋转。 |
 | 机器学习基础与统计 | 理论与统计 | [Iterative Chow Filtering for Learning with Distribution Shift](cards-0007.md#paper-152685) | 分布偏移下允许拒答时可用低阶矩筛掉不匹配样本。 |
 | 大语言模型 | 推理策略 | [Iterative Critique-and-Routing Controller for Multi-Agent Systems with Heterogeneous LLMs](cards-0007.md#paper-148385) | 良性多助手校对任务可根据当前草稿联合选择停止或再审核。 |
@@ -201,34 +142,18 @@
 | 机器学习基础与统计 | 优化 | [Iterative ILP with Update-Size Control for Reducing Surrogate-Task Mismatch in Bit-Width Selection](cards-0007.md#paper-151893) | 混合精度选择时限制每次共同改变的层数，并以真实任务损失验收。 |
 | 强化学习 | 模型架构 | [Iterative Latent Refinement for Value Learning in Offline Goal-Conditioned RL](cards-0007.md#paper-154947) | 离线目标条件强化学习先试循环价值精炼，保持损失和数据固定。 |
 | 大语言模型 | 模型架构 | [Iterative Nonlinear Computation Underlying Abstract Reasoning](cards-0007.md#paper-151990) | 抽象推理架构先验证跨深度权重共享和块内非线性。 |
-| 强化学习 | 强化学习方法 | [Iterative Scarcity-Guided Exploration: Bootstrapping Generative Auto-bidding from Narrow Support](cards-0007.md#paper-154982) | 窄支持下生成式探索应诊断回报指导是否在外推中失效。 |
 | 机器学习基础与统计 | 训练策略 | [It Just Takes Two: Scaling Amortized Inference to Large Sets](cards-0007.md#paper-150804) | 大规模集合后验将小集合表示训练和大集合推理头训练解耦。 |
-| 机器学习基础与统计 | 推理策略 | [Itô maps for any-step SDEs](cards-0007.md#paper-152722) | 随机动力学蒸馏时将随机路径与中间状态共同作为映射输入。 |
 | 多模态学习 | 训练策略 | [ITO: Multi-View Alignment and Training-Time Fusion for Image-Text Pretraining](cards-0007.md#paper-152157) | 图文双编码器可训练时融合、部署时删掉融合头。 |
-| 大语言模型 | 评测与诊断 | [ITPEval: Benchmarking Formal Translation Across Interactive Theorem Provers](cards-0007.md#paper-139703) | 证明翻译按逻辑难度与真实库依赖分层。 |
-| 大语言模型 | 数据策略 | [It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs](cards-0007.md#paper-155341) | 用可溯源的知识种子扩写合成语料，而非只扩大抓取规模。 |
-| 大语言模型 | 损失函数 | [It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs](cards-0007.md#paper-149725) | 隐私训练用独立教师分别约束任务效用和适当披露。 |
-| 机器学习基础与统计 | 优化 | [Jacobian Descent for Multi-Objective Optimization](cards-0007.md#paper-154209) | 冲突多目标用 Jacobian 梯度投影求共享更新。 |
-| 大语言模型 | 评测与诊断 | [Jacobian Scopes: A Unified Geometric Framework for Token-Level LLM Attributions](cards-0007.md#paper-148556) | 词元归因明确区分目标词、全分布形状和置信度。 |
-| 机器学习基础与统计 | 推理策略 | [Jaguar: Fast Private CNN Inference with Power-of-Two Homomorphic Arithmetic](cards-0007.md#paper-148765) | 私密 CNN 联合设计密文算术与非线性前后的位宽。 |
-| 大语言模型 | 评测与诊断 | [Jailbreak susceptibility prediction and mitigation via the behavioral geometry of models](cards-0007.md#paper-153034) | 用已评系统的行为相似性安排防护复评。 |
-| 大语言模型 | 评测与诊断 | [JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces](cards-0007.md#paper-138895) | 长期个性化用逐级记忆输入对照检验收益。 |
-| 机器学习基础与统计 | 评测与诊断 | [JaSpec-LID: Local Intrinsic Dimension Estimation via Jacobian Spectra of ODE-based Generative Models](cards-0007.md#paper-149602) | 只有速度场的生成器用其 Jacobian 谱估局部维数。 |
-| 大语言模型 | 推理策略 | [JEDI: Real-Time Jailbreak Defense for LLMs via In-Generation Detection and Intervention](cards-0007.md#paper-148992) | 流式生成以累积风险而非单词判定触发安全干预。 |
-| 科学机器学习 | 表征学习 | [JEPAWG: Interpretable Hypernetworks for Weight-Space Physics](cards-0007.md#paper-150014) | 用已知连续规律验证超网络在权重空间学到的结构。 |
 | 大语言模型 | 推理策略 | [Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE](cards-0007.md#paper-155612) | 长上下文将局部原始 RoPE 与动态远距缩放分开。 |
-| 多模态学习 | 评测与诊断 | [JMed48k: A Multi-Profession Japanese Medical Licensing Benchmark for Vision-Language Model Evaluation](cards-0007.md#paper-139030) | 对同一道题做配对移图，隔离图像带来的因果差异。 |
 | 机器人学 | 模型架构 | [JODA: Composable Joint Dynamics for Articulated Objects](cards-0007.md#paper-148410) | 关节模拟将保守力、干摩擦与阻尼写为可组合独立场。 |
 | 强化学习 | 强化学习方法 | [Joint Adaptive Neighborhood Constraint for Offline Multi-Agent Reinforcement Learning](cards-0007.md#paper-149793) | 离线协作显式限制联合动作而非逐代理独立限制。 |
 | 图学习与推荐 | 理论与统计 | [Joint Certification for Attributed Graphs: Beyond Topology-Only Robustness](cards-0007.md#paper-152626) | 图模型鲁棒性证书同时保护拓扑及节点属性。 |
-| 机器学习基础与统计 | 理论与统计 | [Joint Confounder Selection for Causal Mediation Analysis in High Dimensions](cards-0007.md#paper-153898) | 因果中介用跨暴露、中介、结局模型的共同稀疏先验选变量。 |
 | 大语言模型 | 推理策略 | [Joint Consistency: A Unified Test-Time Aggregation Framework via Energy Minimization](cards-0007.md#paper-152018) | 多条推理迹线汇总时，将答案得票以外的两两比较作为独立信号。 |
 | 大语言模型 | 强化学习方法 | [Jointly Reinforcing Diversity and Quality in Language Model Generations](cards-0007.md#paper-153781) | 在线后训练既追求正确又需要探索时，对语义多样性明确给奖励。 |
 | 机器学习基础与统计 | 损失函数 | [Jointly Robust Fairness: Overcoming Simultaneous Label and Attribute Noise](cards-0007.md#paper-148725) | 敏感属性与目标标签同时有噪声时，分别校正两个通路再优化人口统计公平。 |
 | 大语言模型 | 强化学习方法 | [Joint Optimization of Tool Creation and Use for Large Language Model Agents](cards-0007.md#paper-155013) | Agent 会写工具却不会稳定调用时，共同训练工具创建和持出调用，并分别奖励契约、实现和结果。 |
 | 大语言模型 | 训练策略 | [Joint Sequence--Vocabulary Selection for Efficient LLM Distillation](cards-0007.md#paper-152047) | 蒸馏 logits 带宽紧时，联合选择位置与词项而不是各自截断。 |
 | 机器人学 | 评测与诊断 | [JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments](cards-0007.md#paper-139326) | 有行动预算的视觉问答中，分别评估有没有实际看见证据和最终答对了没有。 |
-| 大语言模型 | 评测与诊断 | [JudgmentBench: Comparing Rubric and Preference Evaluation for Quality Assessment](cards-0007.md#paper-139683) | 收集高专业度偏好标签前，用相同评审和输出比较逐项量表与成对比较。 |
 | 强化学习 | 评测与诊断 | [Jump Start Your Policy Learning with Lessons from 145,000 Training Runs](cards-0007.md#paper-155981) | 比较离线策略算法前，用充分调参与数据集分层推翻未经调参的算法排名。 |
 | 机器学习基础与统计 | 理论与统计 | [Just Ramp-Up: Debiasing Regression-based Estimator for A/B Tests under Network Interference](cards-0007.md#paper-151245) | 存在网络干扰的 A/B 实验可联合利用不同处理比例阶段的数据来拟合效应。 |
 | 机器学习基础与统计 | 表征学习 | [Kairos: Toward Adaptive and Parameter-Efficient Time Series Foundation Models](cards-0007.md#paper-153129) | 处理采样密度或周期异质的时序时，让局部信息量决定 patch 大小，再按实例频谱调位置编码。 |
@@ -247,27 +172,20 @@
 | 自然语言处理 | 推理策略 | [Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech](cards-0007.md#paper-154147) | 离散流采样分别优化路径时间表和每步跳变误差。 |
 | 大语言模型 | 训练策略 | [KiteNorm: Variance Regularisation for Stable and Scalable Post-LN Transformers](cards-0007.md#paper-152670) | 后置归一化用隐藏态方差和支路尺度共同约束训练。 |
 | 大语言模型 | 训练策略 | [KL for a KL: On-Policy Distillation with Control Variate Baseline](cards-0007.md#paper-149290) | 在线蒸馏以已计算的师生分布构造方差控制项。 |
-| 机器学习基础与统计 | 评测与诊断 | [KNN Implementation Details Can Dramatically Change Performance: An Example from Cover Trees](cards-0007.md#paper-139272) | 近邻检索基准分开 k 值、持出查询与数据集调优。 |
 | 大语言模型 | 模块 | [Knocking-Heads Attention: Drop-in Shared Projections for Cross-Head Coordination](cards-0007.md#paper-155835) | 用所有注意头共同训练的投影协调参数，而不在注意图上增加在线混合。 |
 | 大语言模型 | 评测与诊断 | [KNOT: A Knowledge Entanglement Benchmark for Robust Unlearning Evaluation](cards-0007.md#paper-138972) | 遗忘评估加入应保留与应移除知识之间的重叠边界。 |
 | 大语言模型 | 推理策略 | [Knowing What is Missing: Efficient Conversational Memory via Explicit Evidence-Gap Tracking](cards-0007.md#paper-149691) | 对话记忆逐步维护已证事实和证据缺口。 |
 | 机器学习基础与统计 | 评测与诊断 | [Knowing When Multivariate Forecasts Are Wrong](cards-0007.md#paper-154761) | 无标签部署用输入的跨通道子空间排未来风险。 |
 | 强化学习 | 强化学习方法 | [Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use](cards-0007.md#paper-149224) | 按工具操作段而非整条轨迹分配结果信用。 |
 | 大语言模型 | 评测与诊断 | [Knowing Without Saying: How Contextual Evidence Survives but Fails to Surface in Transformers](cards-0007.md#paper-148815) | 知识冲突先定位证据被丢在编码还是读出阶段。 |
-| 大语言模型 | 推理策略 | [Knowing You before You Speak: User State Modeling for LLM-Based Personalized Dialogue](cards-0007.md#paper-148610) | 长时对话行动选择保留用户状态的显式不确定度。 |
 | 强化学习 | 强化学习方法 | [Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents](cards-0007.md#paper-156148) | 用出题时的关系路径提供过程部分分。 |
 | 大语言模型 | 损失函数 | [Knowledge-Level Consistency Reinforcement Learning: Dual-Fact Alignment for Long-Form Factuality](cards-0007.md#paper-152984) | 长生成分别约束幻觉和已知事实覆盖。 |
-| 大语言模型 | 评测与诊断 | [Knowledge Localization in Mixture-of-Experts LLMs Using Cross-Lingual Inconsistency](cards-0007.md#paper-153455) | 同一事实跨语言的成败对照用于发现关键专家。 |
-| 科学机器学习 | 数据策略 | [Knowledge Transfer Scaling Laws for 3D Medical Imaging](cards-0007.md#paper-149904) | 多域预训练按单向知识迁移收益划分预算。 |
-| 计算机视觉 | 评测与诊断 | [KnowVis: A Dual-View Benchmark for Diagnosing World-Knowledge Grounding in Text-to-Image Models](cards-0007.md#paper-139323) | 知识型图像生成分别验收必须事实和合理开放表达。 |
 | 大语言模型 | 训练策略 | [Know What You Need: Efficient Activation Checkpointing](cards-0007.md#paper-148608) | 梯度重计算只重建有代表性的层组件。 |
 | 大语言模型 | 推理策略 | [Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents](cards-0007.md#paper-150463) | 在检索之前判断当前上下文是否充分。 |
 | 强化学习 | 强化学习方法 | [Know Your Task, Learn It Right: Task-Aware Optimistic Value Learning for Multi-Task Multi-Agent Reinforcement Learning](cards-0007.md#paper-152319) | 将类别信息用于 Bellman 目标和信用分配。 |
 | 机器学习基础与统计 | 模型架构 | [Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting](cards-0007.md#paper-153665) | 概率预测选可闭式传播的潜动力学以减少采样开销。 |
-| 机器学习基础与统计 | 优化 | [K-prop: Deep Online Learning by Backpropagating Temporal Kernels](cards-0007.md#paper-153851) | 在线训练自递归单元时传播时间核增益。 |
 | 机器人学 | 模型架构 | [K-PWM: Control-Oriented Structured World Models under Partial Observation](cards-0007.md#paper-152141) | 向量观测部分缺失时以结构化潜动力学做概率状态估计。 |
 | 计算机视觉 | 推理策略 | [KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers](cards-0007.md#paper-149685) | 低比特扩散量化用可学习小块结构变换控制逐步成本。 |
-| 图学习与推荐 | 理论与统计 | [k-th Order Deep Homomorphism Networks](cards-0007.md#paper-152796) | 高阶 GNN 将全局骨架阶数与局部模式词表分开选。 |
 | 大语言模型 | 推理策略 | [KVBuffer: IO-aware Serving for Linear Attention](cards-0007.md#paper-154931) | 线性注意力服务以 KV 追加换取减少大状态读写，按照上下文长度选择直接计算或批量刷新。 |
 | 大语言模型 | 优化 | [KV Cache Compression via Attention Output Distortion Minimization](cards-0007.md#paper-153808) | 长上下文缓存紧张时，按每条 KV 对注意力输出的敏感性选择保留精度或淘汰。 |
 | 大语言模型 | 优化 | [KV-COBRA: KV Cache Compression via Co-Optimized Bit-Rank Allocation](cards-0007.md#paper-154016) | 极低码率时，不预设所有注意力头都应采用相同的秩与位宽。 |
@@ -275,19 +193,13 @@
 | 大语言模型 | 训练策略 | [KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs](cards-0007.md#paper-154538) | 文档缓存长期跨请求复用时，比较固定包加轻量桥接适配，与每次部分重算。 |
 | 大语言模型 | 推理策略 | [KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling](cards-0007.md#paper-150635) | 过程奖励为长 rollout 评分时，先尝试读生成已有 KV，而非重新编码完整文本。 |
 | 机器学习基础与统计 | 训练策略 | [Label-Free Consistency Correction for Weak-to-Strong Generalization](cards-0007.md#paper-154917) | 无标签修正弱教师前，先估计独立语义约束的有效性，不只看预测不一致程度。 |
-| 大语言模型 | 推理策略 | [LaCache: Robust Semantic Caching for LLM Serving](cards-0007.md#paper-152812) | 语义缓存需要防护时，把响应语境一致性纳入命中校验。 |
 | 多模态学习 | 表征学习 | [LACE: Latent Alignment via Counterfactual Embeddings](cards-0007.md#paper-153001) | 用困难负例改善图文组合识别时，在视觉和文本嵌入两侧同时构造反事实。 |
 | 大语言模型 | 推理策略 | [LADDERS: Length-Aware Data Distribution and Existing-Response Speculation for Fast RL Rollout Generation](cards-0007.md#paper-148499) | RL rollout 批次被长尾拖慢时，按预计长度组批并均衡多样本请求分布。 |
-| 计算机视觉 | 训练策略 | [LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](cards-0007.md#paper-152027) | 提升视频物理一致性时，从现有无标视频提取潜态变化，在训练和采样分别约束运动。 |
 | 大语言模型 | 推理策略 | [LAMP: Look-Ahead Mixed-Precision Inference of Large Language Models](cards-0007.md#paper-153412) | 混合精度推理选择会放大下游舍入误差的中间分量重算。 |
 | 机器学习基础与统计 | 理论与统计 | [Langevin-Informed Transfer Learning: Replacing the Target Samples by Black-Box Feedback](cards-0007.md#paper-151211) | 目标轨迹不可采时，用有偏样本和反馈估计慢动力学。 |
 | 大语言模型 | 训练策略 | [LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling](cards-0007.md#paper-150769) | 连续文本扩散用信息均匀准则定噪声日程。 |
-| 机器人学 | 评测与诊断 | [LangMap: A Human-Verified Benchmark for Hierarchical Open-Vocabulary Goal Navigation](cards-0007.md#paper-139046) | 导航按场景、房间、区域和实例拆分目标粒度评价。 |
 | 大语言模型 | 模块 | [Language-Based Agent Control](cards-0007.md#paper-156018) | 将应用权限约束放进可静态检查的工具接口，并保留运行时校验。 |
-| 机器人学 | 评测与诊断 | [Language-Conditioned World Modeling for Visual Navigation](cards-0007.md#paper-154464) | 语言导航在想象滚动连贯性和未见环境泛化之间分别选型。 |
 | 大语言模型 | 训练策略 | [Language Denoising Objectives Extend the Value of Limited Data](cards-0007.md#paper-150255) | 语料反复训练时优先比较去噪目标而非默认因果语言建模。 |
-| 机器学习基础与统计 | 训练策略 | [Language-Induced Priors for Domain Adaptation](cards-0007.md#paper-152836) | 冷启动域适配将专家文字说明用作源相关性先验。 |
-| 大语言模型 | 评测与诊断 | [Language Model Goal Selection Differs from Humans' in a Self-Directed Learning Task](cards-0007.md#paper-152099) | 代理人类目标选择时同时验证个体差异和探索历程。 |
 | 大语言模型 | 训练策略 | [Language Model Memory and Memory Models for Language](cards-0007.md#paper-152563) | 压缩输入的语言模型使用显式信息保留目标。 |
 | 大语言模型 | 评测与诊断 | [Language Models Can Coarsely Modulate Entropy Under Instruction](cards-0007.md#paper-149992) | 检验模型能否执行分布约束时使用没有正确答案的选择任务。 |
 | 大语言模型 | 模型架构 | [Language Models Need Sleep](cards-0007.md#paper-154950) | 可将近期上下文压入持久快权重后再丢弃 KV。 |
@@ -299,20 +211,14 @@
 | 图学习与推荐 | 模型架构 | [Large Language Models as Graph Computational Solvers via Topology-aware Residual Attention](cards-0007.md#paper-149081) | 图算法训练显式对齐输入序列化和图邻接。 |
 | 大语言模型 | 评测与诊断 | [Large Language Models Develop Belief State Geometry In-Context](cards-0007.md#paper-151810) | 用已知隐状态后验的合成任务检验模型是否维护信念。 |
 | 大语言模型 | 评测与诊断 | [Large Language Model Selection with Limited Annotations](cards-0007.md#paper-139074) | 预算有限时优先标注能区分候选模型的查询。 |
-| 机器学习基础与统计 | 理论与统计 | [Large Language Models Enhanced Covariate-adjusted Response-adaptive Randomization Design](cards-0007.md#paper-151107) | 试验自适应分配只用校准后确能减少残差的辅助预测。 |
 | 大语言模型 | 理论与统计 | [Large language models suffer from a curse of ambiguity](cards-0007.md#paper-150511) | 按目标分布歧义程度分层验收采样保真。 |
 | 图学习与推荐 | 训练策略 | [Large-Scale Pretraining unlocks Few-Shot Prediction for Relational Data](cards-0007.md#paper-149169) | 关系数据预训练用跨模式检索构造多尺度稠密任务。 |
-| 多模态学习 | 模型架构 | [LARGO: Low-Rank Hypernetwork for Handling Missing Modalities](cards-0007.md#paper-149154) | 模态缺失组合用权重分解共享卷积权重。 |
 | 大语言模型 | 数据策略 | [LARK: Learnability-Grounded Trajectory Selection for Efficient Reasoning Distillation](cards-0007.md#paper-149142) | 推理蒸馏按学生可学习性和覆盖率共同选轨迹。 |
-| 多模态学习 | 模块 | [LaSA-Net: A Language-Guided Network for Outdoor Generalized 3D Referring Expression Segmentation](cards-0007.md#paper-153716) | 大场景稀疏分割以语言加权的覆盖采样构造查询。 |
 | 强化学习 | 强化学习方法 | [LASER: Latent Space Adjoint Matching for Support Constrained Entropy Regularized Offline RL](cards-0007.md#paper-149822) | 离线潜空间策略在遵守支持约束时显式保熵。 |
 | 机器学习基础与统计 | 优化 | [Last-Iterate Convergence of Single-Loop Stochastic Methods for Constrained Convex-Concave Minimax Problems](cards-0007.md#paper-154326) | 噪声导致凸凹末迭代不收敛时加消失的强凸凹扰动。 |
-| 机器人学 | 强化学习方法 | [LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning](cards-0007.md#paper-154258) | 机器人策略后训练联调隐式推理和动作。 |
-| 机器人学 | 训练策略 | [LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving](cards-0007.md#paper-148177) | 自动驾驶潜推理同时对齐静态几何和动态预测。 |
 | 强化学习 | 评测与诊断 | [Latency-Conditioned Selection Bias in RLHF](cards-0007.md#paper-148493) | 先完成的轨迹不能直接作为异步 RLHF 的无偏批次。 |
 | 大语言模型 | 推理策略 | [Latent Abstraction for Retrieval-Augmented Generation](cards-0007.md#paper-155353) | 多跳 RAG 以潜在查询和控制头替代文本查询及停止推理。 |
 | 机器人学 | 推理策略 | [Latent Barrier Steering: Hierarchical Safety for Generative Planning](cards-0007.md#paper-155636) | 新安全约束排除整个模式时先改变行为潜变量，再做路径修正。 |
-| 大语言模型 | 评测与诊断 | [Latent Debate: A Surrogate Framework for Interpreting LLM Thinking towards Binary Decisions](cards-0007.md#paper-149328) | 二元决策检测分开测最终置信和中间证据冲突。 |
 | 科学机器学习 | 模型架构 | [Latent Generative Solvers for Generalizable Long-Term Physics Simulation](cards-0007.md#paper-152793) | 跨方程训练长滚动预测时，用共享物理潜空间降低计算，并对预测输入加噪。 |
 | 多模态学习 | 模块 | [Latent-Lens: Visual Perception in Small Language Models Through Latent Communication](cards-0007.md#paper-155307) | 模块化视觉代理向小语言模型传输空间细节时，对照文本转述与跨模型潜态接口。 |
 | 机器学习基础与统计 | 理论与统计 | [Latent Process Generator Matching](cards-0007.md#paper-155816) | 训练生成过程需要外部辅助状态时，若最终只要求单时刻分布，可学习投影空间上的生成元。 |
@@ -324,48 +230,30 @@
 | 计算机视觉 | 评测与诊断 | [Latent Video Prediction for World Modeling: An Evaluation Uncovering Intriguing Favorable Evidence](cards-0007.md#paper-139786) | 评价视频世界模型时，用污染、遮挡、接触细节和时间倒放补足干净数据准确率。 |
 | 机器学习基础与统计 | 评测与诊断 | [Layer Free-Riding in Forward-Forward Networks: Real, Repairable, but Not Accuracy-Dominant](cards-0007.md#paper-152401) | 比较局部训练规则时，将层级健康指标和最终任务准确率分别作为验收量。 |
 | 机器学习基础与统计 | 训练策略 | [Layer Precision Reduction for Deep Anomaly Detection](cards-0007.md#paper-156082) | 自编码异常检测把异常也重建得很好时，比较限制层数值精度和继续增加重建容量。 |
-| 机器学习基础与统计 | 优化 | [Layerwise LQR for Geometry-Aware Optimization of Deep Networks](cards-0007.md#paper-148444) | 将二阶更新写成全网络控制目标再拟合可复用的结构化预条件器。 |
 | 机器学习基础与统计 | 训练策略 | [Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks](cards-0007.md#paper-150400) | 权重和激活二值化时从输入端向输出端逐层推进。 |
-| 科学机器学习 | 模型架构 | [Layout Before Pixels: Topology-Anchored Transcriptome-to-Histology Generation](cards-0007.md#paper-152155) | 复杂条件渲染先预测显式空间拓扑，再生成纹理。 |
 | 计算机视觉 | 数据策略 | [LCD$^3$: Layout-Conditioned Diffusion for Dataset Distillation in Object Detection](cards-0007.md#paper-150456) | 检测数据蒸馏保持原布局任务分布，只重新生成条件外观。 |
-| 科学机器学习 | 优化 | [LDD-RFM: Learnable Domain Decomposition for Random Feature Models via Variable Projection](cards-0007.md#paper-152971) | 随机特征 PDE 解按区域学习频谱与门，把线性权重内层消元。 |
 | 计算机视觉 | 模型架构 | [LDM-is-AE: Latent Diffusion is an Intrinsic Auto-Encoder for End-to-End Image Generation](cards-0007.md#paper-155308) | 把去噪内编码和解码当成共同训练的图像表征。 |
-| 大语言模型 | 推理策略 | [LDPCache: Locally Differentially Private Multi-Query Processing with Cache Optimization for Large Language Models](cards-0007.md#paper-155246) | 本地差分隐私预算应把是否访问服务器的缓存决策算进去。 |
 | 大语言模型 | 训练策略 | [LeAct: Learning to Reason from Expert Actions](cards-0007.md#paper-155705) | 专家只给动作时筛选可帮助学生回预测该动作的推理草稿。 |
-| 大语言模型 | 评测与诊断 | [Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation](cards-0007.md#paper-152085) | 成对偏好榜单发布时附排名稳定性与完整性审计。 |
 | 大语言模型 | 强化学习方法 | [LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models](cards-0007.md#paper-149222) | 推理长度奖按题目和当前训练阶段调整。 |
-| 科学机器学习 | 评测与诊断 | [Leak-CURBER: A Leakage-Controlled Multimodal Evaluation Benchmark for Enzymatic Reaction Tasks](cards-0007.md#paper-139384) | 同时控制多个相似性维度的训练测试泄漏，避免高估泛化。 |
 | 大语言模型 | 评测与诊断 | [Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](cards-0007.md#paper-153964) | 工作流验证同时覆盖事前语义一致和运行轨迹。 |
 | 机器学习基础与统计 | 理论与统计 | [Leaner transformers can easily learn to cluster](cards-0007.md#paper-151648) | 让 Transformer 实现聚类时用紧凑编码表示簇身份。 |
 | 机器学习基础与统计 | 训练策略 | [LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning](cards-0007.md#paper-152914) | 异步联邦适配交换秩一基对，而非同步平均整组适配器。 |
-| 大语言模型 | 推理策略 | [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](cards-0007.md#paper-149326) | 检索形式证明重构策略时显式过滤版本与目标开销。 |
 | 大语言模型 | 推理策略 | [LeanSearch v2: Global Premise Retrieval for Lean 4 Theorem Proving](cards-0007.md#paper-155461) | 定理检索按完整前提集合评估，而非孤立候选相关度。 |
-| 大语言模型 | 优化 | [LEAP: Library-driven Evolutionary Abstraction Paradigm for Large Language Models](cards-0007.md#paper-154619) | 良性组合搜索的共享原语应以可测压缩收益准入。 |
 | 机器学习基础与统计 | 推理策略 | [Learnable Chernoff Baselines for Provable Inference-Time Alignment](cards-0007.md#paper-148994) | 黑盒生成的奖励对齐用自适应接受率管理查询预算。 |
-| 图学习与推荐 | 表征学习 | [Learnable Diffusion-based Positional Encodings for Link Prediction](cards-0007.md#paper-152946) | 把多尺度扩散邻近度因子化成节点特征。 |
 | 机器学习基础与统计 | 模块 | [Learnable Low-Rank Polynomial Sketch for Effective Linear Attention](cards-0007.md#paper-149962) | 线性注意力用学习式低秩草图逼近高阶多项式。 |
-| 机器学习基础与统计 | 模块 | [Learnable Spectral Activations](cards-0007.md#paper-151899) | 隐式信号拟合把选特征与调谐谐波分离。 |
 | 科学机器学习 | 优化 | [Learned Lagrangian Models of PDEs via Euler–Lagrange Residual Minimization](cards-0007.md#paper-151132) | 学到拉格朗日函数后用局部残差最小化推进动力学。 |
 | 强化学习 | 训练策略 | [Learn from the Gap: Differential-Aware Advantage Pruning with Adaptive Rollout Sampling for GRPO](cards-0007.md#paper-153498) | 在多展开 GRPO 内按优势与梯度多样性裁剪。 |
 | 大语言模型 | 推理策略 | [Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](cards-0007.md#paper-154509) | 遮罩扩散允许已解码词元继续修正。 |
 | 机器学习基础与统计 | 理论与统计 | [Learn from your own latents and not from tokens: A sample-complexity theory](cards-0007.md#paper-151709) | 层级结构数据优先比较潜表征预测与词元预测的样本需求。 |
-| 机器学习基础与统计 | 优化 | [Learning Acceptable Lotteries via Queries: Minimizing Aggregated Violation Distances](cards-0007.md#paper-155546) | 只有接受拒绝反馈时用几何距离衡量群体分歧。 |
 | 机器人学 | 强化学习方法 | [Learning Actionable Information Landscapes for Multimodal Active Sensing in Hawkmoths](cards-0007.md#paper-155592) | 用多模态感知不确定性决定何时主动探测。 |
 | 强化学习 | 强化学习方法 | [Learning Agentic Policy from Action Guidance](cards-0007.md#paper-148912) | 基础策略到不了奖励状态时才注入行动参考。 |
-| 机器人学 | 模型架构 | [Learning Agentic World Vision-Language-Action Models for Autonomous Driving](cards-0007.md#paper-150102) | 驾驶未来表征围绕可规划对象，而非预测全部像素。 |
-| 计算机视觉 | 表征学习 | [Learning a Maximum Entropy Model for Visual Textures using Diffusion](cards-0007.md#paper-154116) | 纹理生成从数据学习最大熵约束统计。 |
-| 多模态学习 | 表征学习 | [Learning a Task-Adaptive Low-Dimensional Semantic Space for Improved Visual Classification](cards-0007.md#paper-151661) | 视觉分类对齐前先整形文本语义空间。 |
-| 机器人学 | 模型架构 | [Learning a Trajectory-Geometric Condition from Reasoning for VLA Planning](cards-0007.md#paper-153125) | 离散运动差分作为驾驶推理与连续轨迹之间的瓶颈。 |
 | 机器学习基础与统计 | 优化 | [Learning-Augmented Approximation for Unrelated-Machines Makespan Scheduling](cards-0007.md#paper-153033) | 调度预测只负责高代价分配，其余保留稳健算法。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning-Augmented Coordination Mechanisms](cards-0007.md#paper-151549) | 预测需求的拥塞定价应给置信度留弹性。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning-Augmented Mechanism Design for Facility Location under $L_p$-Norm Social Costs](cards-0007.md#paper-149389) | 在线性设施选址中用虚拟点权重控制对预测的信任。 |
 | 机器学习基础与统计 | 表征学习 | [Learning a Unified Cross-Model Semantic Dictionary via Gated Bottleneck Sparse Autoencoders](cards-0007.md#paper-149262) | 跨模型解释时，联合学习共享特征字典并分离模型特有残差。 |
 | 计算机视觉 | 训练策略 | [Learning Better Certified Models from Empirically-Robust Teachers](cards-0007.md#paper-155696) | 在已有可认证训练流程下，比较用稳健教师做特征蒸馏能否改善认证与准确率的折中。 |
 | 机器学习基础与统计 | 模型架构 | [Learning Causal Orderings for In-Context Tabular Prediction](cards-0007.md#paper-153895) | 表格上下文预测面临干预或偏移时，用学习出的顺序限制目标可读取的变量。 |
 | 强化学习 | 理论与统计 | [Learning Chance-Constrained MDPs with Bellman Distributional Certificates](cards-0007.md#paper-154689) | 离散约束控制中，直接优化超出全轨迹成本门槛的概率。 |
 | 机器学习基础与统计 | 模型架构 | [Learning Compositional Latent Structure with Vector Networks](cards-0007.md#paper-154634) | 旧因子以新方式组合时，比较固定稠密权重与按输入组合少量共享秩一权重。 |
 | 强化学习 | 强化学习方法 | [Learning Contextual Causal Dynamics for Robust Exploration in Reinforcement Learning](cards-0007.md#paper-154910) | 稀疏奖励探索时，试用依上下文变化的动作因果影响奖励，评估其是否优于纯新奇度。 |
-| 计算机视觉 | 训练策略 | [Learning Cultural Vectors for Cross-Cultural Generation](cards-0007.md#paper-155934) | 扩散模型合并文化适配权重时，先测试组合干扰，再用描述相关性选择迁移来源。 |
 | 机器学习基础与统计 | 理论与统计 | [Learning Deployable Causal Action Geometry under Temporal Non-Stationarity](cards-0007.md#paper-154378) | 响应水平随时间漂移的连续决策中，拟合锚定的行动对比，按时期校准基线。 |
 | 机器学习基础与统计 | 优化 | [Learning Digital Twins under Drift: Optimal Tracking Rates for Non-Stationary Dynamical Systems](cards-0007.md#paper-152808) | 在线动力学识别时，先验证残差能否追踪局部漂移，再用它调步长。 |
 | 科学机器学习 | 模型架构 | [Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivariance](cards-0007.md#paper-150499) | 网格物理预测中，固定拓扑的守恒算子，把几何与材料耦合留给可学习度量。 |
@@ -374,40 +262,24 @@
 | 计算机视觉 | 评测与诊断 | [Learning Dynamic Evidence Routes for Vision Transformer Probing](cards-0007.md#paper-156006) | 视觉表征探针可分开显示补丁路由和固定位置权重。 |
 | 机器学习基础与统计 | 损失函数 | [Learning Energy-Based Models from Stochastic Interpolants using Spatiotemporal Differences](cards-0007.md#paper-152730) | 在随机插值能量模型里同时比较空间与噪声时间差。 |
 | 科学机器学习 | 模型架构 | [Learning Event-to-Field Operators Without Interpolation](cards-0007.md#paper-155189) | 稀疏事件直到查询时才聚合到场，不先插值成密网格。 |
-| 大语言模型 | 推理策略 | [Learning Evidence Highlighting for Frozen LLMs](cards-0007.md#paper-148164) | 证据选择可只插入标记，保留原始上下文。 |
 | 科学机器学习 | 理论与统计 | [Learning Fractional-Order Dynamics from a Single Trajectory](cards-0007.md#paper-148968) | 单轨迹识别长记忆系统时利用分数差分的对角结构。 |
 | 大语言模型 | 训练策略 | [Learning from Disagreement: Maximum Divergence Knowledge Distillation](cards-0007.md#paper-155838) | 少量蒸馏样本优先覆盖教师高于学生概率的区域。 |
-| 自然语言处理 | 训练策略 | [Learning from Disagreement: Multi-Teacher Distillation for Chinese Spelling Correction](cards-0007.md#paper-151148) | 专家冲突处用显式分歧监督替代固定融合。 |
 | 机器人学 | 强化学习方法 | [Learning From Failures: Efficient Reinforcement Learning Control with Episodic Memory](cards-0007.md#paper-154904) | 为训练早期短失败轨迹保留可检索情节记忆。 |
 | 大语言模型 | 训练策略 | [Learning from Language Feedback via Variational Policy Distillation](cards-0007.md#paper-152357) | 蒸馏语言反馈时用轨迹结果校准教师。 |
-| 强化学习 | 理论与统计 | [Learning from Ranking Feedback: Improved Regret Bounds via Independence Preserving Rank Breaking](cards-0007.md#paper-153500) | 排序反馈拆配对时保留可用的独立结构。 |
 | 大语言模型 | 训练策略 | [Learning from the Self-future: On-policy Self-distillation for dLLMs](cards-0007.md#paper-153722) | 扩散语言模型自蒸馏以去噪步骤为单位，而不是自回归词元前缀。 |
 | 机器人学 | 推理策略 | [Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](cards-0007.md#paper-151101) | 具身规划区分执行前审查、执行后更新与回溯信用。 |
 | 机器学习基础与统计 | 理论与统计 | [Learning Gaussian Conditional Distributions using Neural Ratio Estimation is Hard](cards-0007.md#paper-149465) | 高维模拟后验估计要对照简单条件密度估计的样本效率。 |
-| 机器学习基础与统计 | 评测与诊断 | [Learning Global Probabilistic Explanations](cards-0007.md#paper-151220) | 对全局特征解释用条件下输出一致性定义相关度。 |
-| 图学习与推荐 | 理论与统计 | [Learning Global Temporal Dynamics in Sparse Networks via Cycle Counts](cards-0007.md#paper-149950) | 稀疏时序图可用周期计数做参数辨识。 |
 | 大语言模型 | 模型架构 | [Learning Hierarchical Forward Processes For Discrete Diffusion Language Models](cards-0007.md#paper-150116) | 离散扩散用可学习软词簇决定前向污染。 |
 | 计算机视觉 | 模型架构 | [Learning Hierarchical Patch Splitting Policies for Faster Vision Transformers](cards-0007.md#paper-155277) | 视觉分块根据模型语义决定继续细分。 |
-| 机器学习基础与统计 | 优化 | [Learning How to Cube](cards-0007.md#paper-148433) | 离散分裂策略用真实求解器统计构造训练偏好。 |
 | 机器人学 | 模型架构 | [Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation](cards-0007.md#paper-149775) | 人类演示迁移把轨迹、手部意图和机器人动作分开。 |
-| 强化学习 | 理论与统计 | [Learning in Causal Markov Games](cards-0007.md#paper-152310) | 部分共同原因可能影响行为与奖励时测反事实策略。 |
 | 强化学习 | 强化学习方法 | [Learning in Context, Guided by Choice: A Reward-Free Paradigm for Reinforcement Learning with Transformers](cards-0007.md#paper-152897) | 无标量奖励时比较逐步和整轨偏好上下文。 |
 | 机器学习基础与统计 | 优化 | [Learning inexact alternating minimization](cards-0007.md#paper-150173) | 交替优化用网络近似昂贵子步并限制迭代误差。 |
 | 机器学习基础与统计 | 表征学习 | [Learning Informative Invariant Representations via Hierarchical Latent Decomposition](cards-0007.md#paper-155712) | 域泛化将任务不变信息和域特异残差分层。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning in Policy Transparency Games: Wedge Structure and Adaptive Certification](cards-0007.md#paper-152748) | 部署策略透明度先估承诺者与响应者的相对收益。 |
-| 机器学习基础与统计 | 评测与诊断 | [Learning interpretable Schur forms of recurrent weight matrices](cards-0007.md#paper-155071) | 解释 RNN 时不要直接接受任一 Schur 排序。 |
-| 科学机器学习 | 模型架构 | [Learning Interpretable Switching Dynamics in Shared Neural-Behavioral Latent Space](cards-0007.md#paper-151607) | 对齐神经和行为表示后仅在共享潜变量上拟合切换动力学。 |
-| 机器人学 | 模型架构 | [Learning Joint Semantic-Geometric Uncertainty for Structured Prediction with Closed-Loop Calibration](cards-0007.md#paper-149933) | 结构化地图将语义和几何的联合不确定性反馈到特征。 |
-| 强化学习 | 理论与统计 | [Learning Large-Scale Competitive Team Behaviors with Mean-Field Interactions](cards-0007.md#paper-150877) | 大规模抽象团队博弈用群体分布代替两两交互。 |
 | 大语言模型 | 推理策略 | [Learning Latency-Aware Orchestration for Multi-Agent Systems](cards-0007.md#paper-150759) | 优化多代理延迟时按关键路径而非总调用花费分配信用。 |
-| 机器学习基础与统计 | 优化 | [Learning Lotteries with Minimal Violations from Membership Queries](cards-0007.md#paper-151848) | 只见接受拒绝时检验受访者覆盖率，再优化拒绝人数。 |
-| 机器学习基础与统计 | 模型架构 | [Learning Menu-Based Mechanisms for Truthful Budget-Feasible Procurement](cards-0007.md#paper-155310) | 受硬预算约束的机制把激励可行性嵌入学习接口。 |
-| 大语言模型 | 推理策略 | [Learning Minimal Sufficient Evidence Graphs for GraphRAG via Nash-Guided Optimization](cards-0007.md#paper-154710) | GraphRAG 扩图后按当前答案和长期图质量删边。 |
 | 机器学习基础与统计 | 训练策略 | [Learning Modular Addition with Auxiliary Modulus](cards-0007.md#paper-154793) | 课程学习改中间任务难度时保持输入分布。 |
 | 计算机视觉 | 损失函数 | [Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems](cards-0007.md#paper-149636) | 视频逆问题将运动不能解释的外观残差建模为先验。 |
 | 强化学习 | 优化 | [Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport](cards-0007.md#paper-154723) | 离线一步策略需要保留多峰动作时，用价值加权传输分配蒸馏配对。 |
 | 机器人学 | 模型架构 | [Learning Options for Compositional Motor Control with Adapter Banks](cards-0007.md#paper-149390) | 需要组合新动作序列时，共享循环控制器并用可调度的残差适配器表示技能。 |
-| 机器学习基础与统计 | 表征学习 | [Learning Orthonormal Bases for Function Spaces](cards-0007.md#paper-155306) | 任务需要自适应正交基时，学习参考基上的保正交流。 |
 | 强化学习 | 推理策略 | [Learning Planning Budgets in Real-Time RL](cards-0007.md#paper-151126) | 环境会在推理期间继续运行时，用轻量门控按状态选规划预算。 |
 | 机器学习基础与统计 | 理论与统计 | [Learning Polyhedral Conformal Sets for Robust Optimization](cards-0007.md#paper-150887) | 下游鲁棒优化需要不确定集时，先学与决策相关的形状，再用独立校准修正选择偏差。 |
 | 强化学习 | 模型架构 | [Learning POMDP World Models from Observations with Language-Model Priors](cards-0007.md#paper-155829) | 只能观察动作与观测轨迹时，允许语言先验提出隐状态结构，但排序仍以观测似然为准。 |
@@ -415,58 +287,34 @@
 | 机器学习基础与统计 | 理论与统计 | [Learning Rate Decay Can Exponentially Accelerate SGD for Global Optimization of Nonconvex Functions](cards-0007.md#paper-149945) | 比较非凸 SGD 全局优化时，把逐步衰减作为对照并区分逃离局部区域和最终精度。 |
 | 大语言模型 | 评测与诊断 | [Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning](cards-0007.md#paper-148585) | 比较 LoRA 变体时，为每个变体独立扫学习率，再比较各自峰值。 |
 | 大语言模型 | 训练策略 | [Learning Rate Transfer for Hybrid Transformer-SSM Architectures](cards-0007.md#paper-149821) | 实际 Transformer–SSM 混合模型扩宽前，验证原始 μP 和 AdamW 能否直接迁移学习率。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning Reach-Set Geometry for Tighter Probabilistic Neural Network Verification](cards-0007.md#paper-154618) | 概率神经验证中，固定形状过松时，用校准后的学习型可达集检查规格。 |
-| 科学机器学习 | 表征学习 | [Learning Reusable Motor Motifs for Continuous Animal Behavior Modeling](cards-0007.md#paper-152170) | 对连续行为用随时间变化的技能混合替代硬分段。 |
 | 强化学习 | 表征学习 | [Learning Reusable Options by Decomposing Neural Policies](cards-0007.md#paper-151089) | 从训练策略提取技能时同时学习内部子程序与调用输入。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning Reveals Invisible Structure in Low-Rank RNNs](cards-0007.md#paper-152289) | 功能等价的低秩循环网络要比较学习扰动后的动态。 |
 | 大语言模型 | 训练策略 | [Learning Robust Reasoning through Guided Adversarial Self-Play](cards-0007.md#paper-154688) | 数学推理在不完备上下文中应单列恢复能力。 |
-| 机器学习基础与统计 | 训练策略 | [Learning Robust Representations for Defending White-Box Adversarial Attacks in Continual Learning](cards-0007.md#paper-155739) | 持续鲁棒训练同时监控任务内、跨任务及类别级表征对齐。 |
 | 机器学习基础与统计 | 优化 | [Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty](cards-0007.md#paper-148281) | 稳健优化场景缩减依据场景对可行与补救的边际收益。 |
 | 计算机视觉 | 训练策略 | [Learning Scene-Grounded Interaction Priors for Scene-Aware Human Motion Prediction](cards-0007.md#paper-152697) | 训练期把意图提示转成场景区域分布，部署时只靠动作与几何。 |
 | 多模态学习 | 表征学习 | [Learning Semantic Consistency for Open-Vocabulary Dense Perception](cards-0007.md#paper-149492) | 开放词表密集特征要测相同区域在换背景与视角时是否一致。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning Sparse Compositional Functions with Norm-Constrained Neural Networks](cards-0007.md#paper-155615) | 过参数化层次函数学习以参数范数和组合图衡量复杂度。 |
-| 科学机器学习 | 表征学习 | [Learning Sparse Semantic-Cortical Atoms for Multisubject Naturalistic fMRI Encoding](cards-0007.md#paper-151712) | 跨观察对象的解释字典应联合学习重建与响应预测。 |
 | 机器学习基础与统计 | 理论与统计 | [Learning Survival Models with Right-Censored Reporting Delays](cards-0007.md#paper-152038) | 实时生存估计分开建模事件发生和报告延迟。 |
 | 机器人学 | 表征学习 | [Learning Task-Centric World Models from Visual Foundations](cards-0007.md#paper-149351) | 冻结视觉表示先投影，再只对齐其中一部分到任务物理状态。 |
-| 科学机器学习 | 数据策略 | [Learning the Committor Function using Weighted Ensemble Simulations](cards-0007.md#paper-152881) | 罕见状态转移估计用加权采样弥补有偏贪心探索。 |
 | 机器学习基础与统计 | 训练策略 | [Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models](cards-0007.md#paper-150616) | 黑盒时序预测在线校正同时看输入与原预测。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning Theory of Transformers: Local-to-Global Approximation via Softmax Partition of Unity](cards-0007.md#paper-152703) | 浅层 Transformer 回归可把局部近似交给 softmax 分区合成。 |
-| 大语言模型 | 评测与诊断 | [Learning the Signature of Memorization in Autoregressive Language Models](cards-0007.md#paper-148889) | 隐私审计不要仅凭更换模型架构判断记忆泄漏减弱。 |
 | 大语言模型 | 训练策略 | [Learning through Internalization](cards-0007.md#paper-150503) | 外显步骤蒸馏进权重时同时监控域外泛化。 |
-| 计算机视觉 | 表征学习 | [Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval](cards-0007.md#paper-150225) | 细粒度检索用可逆外观先验保留类内变化。 |
 | 大语言模型 | 推理策略 | [Learning to Ask: Metacognitive Action Policy for Large and Small Language Model Collaboration](cards-0007.md#paper-148711) | 端云协同时把询问时机和最少披露内容作为可学决定。 |
 | 机器学习基础与统计 | 评测与诊断 | [Learning to Audit ML Models with Theory of Mind](cards-0007.md#paper-155783) | 模型审计按已发现的错误动态选择下一测试。 |
-| 机器学习基础与统计 | 优化 | [Learning to Bid in Repeated Second-Price Auctions with  Dynamic Values and  Aggregated Feedback](cards-0007.md#paper-149706) | 投标价值受历史影响时联合估计环境与长期机会成本。 |
 | 大语言模型 | 训练策略 | [Learning to Commit: Next-Commit Prediction via Online Supervised Contrastive Reflection](cards-0007.md#paper-150227) | 仓库级代理用历史提交的真实差异做对比反思。 |
-| 机器学习基础与统计 | 优化 | [Learning to Complete Extremal Mathematical Structures](cards-0007.md#paper-155731) | 极值组合搜索保留已有可行核心，仅修补不确定部件。 |
 | 计算机视觉 | 数据策略 | [Learning to Correct Geometry in Generated Videos](cards-0007.md#paper-154269) | 用同一视频的几何正确版本与合成畸变训练后置校正。 |
-| 机器学习基础与统计 | 优化 | [Learning to Cut: Reinforcement Learning for Benders Decomposition](cards-0007.md#paper-151771) | Benders 分解按当前状态学习选择割，而非收集所有割。 |
-| 机器学习基础与统计 | 模型架构 | [Learning to Deaggregate: Large-scale Trajectory Generation with Spatial Priors](cards-0007.md#paper-152772) | 跨区轨迹生成将地点分布与时序移动规律解耦。 |
 | 机器学习基础与统计 | 理论与统计 | [Learning to Decide with AI Assistance under Human-Alignment](cards-0007.md#paper-152462) | 用人机置信的相对关系决定何时信任辅助。 |
-| 机器学习基础与统计 | 优化 | [Learning to Discover Iterative Spectral Algorithms](cards-0007.md#paper-148403) | 迭代矩阵算法根据输入粗谱选择短递推系数。 |
 | 计算机视觉 | 损失函数 | [Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable](cards-0007.md#paper-150258) | 混域深度学习将场景结构从语境表征中单列。 |
 | 多模态学习 | 表征学习 | [Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs](cards-0007.md#paper-150990) | 用动作条件图编辑预测活动如何改变环境。 |
 | 强化学习 | 强化学习方法 | [Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards](cards-0007.md#paper-154785) | 探索同一轨迹保持参数扰动一致，再校正偏策略。 |
-| 大语言模型 | 训练策略 | [Learning to Follow In-Context Watermark Instructions via Self-Distillation](cards-0007.md#paper-150382) | 可验证水印指令用受控同模型教师播种能力。 |
 | 大语言模型 | 训练策略 | [Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation](cards-0007.md#paper-154435) | 蒸馏早期方向稳定时沿更新方向外推。 |
 | 计算机视觉 | 损失函数 | [Learning to Generate Multiple Objects from Dense and Occluded Layouts](cards-0007.md#paper-153553) | 拥挤生成同时减少实例混注意并提高遮挡对象权重。 |
 | 多模态学习 | 强化学习方法 | [Learning to Group and Order: Cross-Instance Self-Supervised RL for Vision-Centric MLLMs](cards-0007.md#paper-153627) | 自监督视觉奖励同时要求跨样本分组和样本内排序。 |
 | 计算机视觉 | 训练策略 | [Learning-to-Memorize: Dynamic Context Management for Long-Horizon Autoregressive Video Generation](cards-0007.md#paper-154562) | 连续视频场景发生变化时，在固定缓存下让高价值新帧替换过时锚帧。 |
 | 大语言模型 | 评测与诊断 | [Learning to Read Out: Unembedding Dynamics in Language Model Pretraining](cards-0007.md#paper-154168) | 判断预训练能力何时出现时，把隐态信息与输出头是否读出拆开。 |
 | 计算机视觉 | 推理策略 | [Learning to Sample From Diffusion Models via Inverse Reinforcement Learning](cards-0007.md#paper-154984) | 去噪器已固定时，将采样设置变成逐步决策，以匹配目标采样行为代替全量网格搜索。 |
-| 图学习 | 推理策略 | [Learning to Search, Searching to Learn: A Closed-Loop Framework for Large-Scale Vehicle Routing](cards-0007.md#paper-150054) | 神经模型给组合求解器建议时，让改进后的候选继续反馈给模型。 |
 | 多模态学习 | 评测与诊断 | [Learning to See Through Language: An Exploration of Language Modeling's Effect on Visual Representations](cards-0007.md#paper-152283) | 复用多模态模型视觉层前，按任务区分语义和细粒度几何并尝试跨层融合。 |
 | 计算机视觉 | 推理策略 | [Learning to Solve Generative ODEs Beyond the Linear Span](cards-0007.md#paper-155573) | 少步生成 ODE 的误差落在历史速度张成空间之外时，学习空间残差算子。 |
-| 大语言模型 | 强化学习方法 | [Learning to Surpass: Training Tool-Using Agents with Anchored Feedback](cards-0007.md#paper-150337) | 只有高质量终局方案时，按同格式比较候选和参考并明确检查硬约束。 |
 | 强化学习 | 表征学习 | [Learning to Undo: Transfer Reinforcement Learning under State Space Transformations](cards-0007.md#paper-149546) | 源目标环境的差异主要来自状态变换时，通过状态特征匹配学习逆映射后复用策略。 |
-| 科学机器学习 | 训练策略 | [Learning Transferable Cross-Day Representations for Few-Shot Neural Decoding](cards-0007.md#paper-149445) | 跨会话极少标注适配时，先学不依赖会话专用输入层的主干，再冻结后学习快速校准。 |
-| 图学习 | 训练策略 | [Learning Transferable Representations from Operating System Entities via Provenance Graph Distillation](cards-0007.md#paper-151915) | 端点检测无法实时访问溯源图时，训练期用图教师蒸馏实体文本编码器。 |
 | 机器学习基础与统计 | 优化 | [Learning Unbiased Permutations via Flow Matching](cards-0007.md#paper-155726) | 排序或匹配存在多个同样合理的答案时，在约束子空间建多峰分布。 |
 | 机器学习基础与统计 | 数据策略 | [Learning under Localized Minority Imbalance](cards-0007.md#paper-148554) | 当少数类可见性随特征变化时先分层并用无偏测试集。 |
-| 机器人学 | 模型架构 | [Learning Visual Feature-Based World Models via Residual Latent Action](cards-0007.md#paper-148146) | 视觉世界模型在 DINO 残差的动作潜空间做条件生成。 |
-| 多模态学习 | 表征学习 | [Learning Visual Speech Representations via Cross-Modal Distillation and Joint Face-Lip Modeling](cards-0007.md#paper-149522) | 唇读应同时保留局部发音细节与全脸动态。 |
-| 强化学习 | 理论与统计 | [Learning Weakly Communicating Average-Reward CMDPs: Strong Duality and Improved Regret](cards-0007.md#paper-151237) | 弱通信平均奖励约束问题用占用几何检查对偶性。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning What Evaluators Value: A Reliable Approach to Modeling Evaluator Preferences](cards-0007.md#paper-154896) | 评价者权重未知时先检验偏好函数是否只能假设单调。 |
 | 机器学习基础与统计 | 表征学习 | [Learning What Not to Impute: An Uncertainty-Aware Diffusion Framework for Meaningful Missingness](cards-0007.md#paper-154580) | 插补时区分结构性缺失与漏观测。 |
 | 科学机器学习 | 表征学习 | [Learning What's Real: Disentangling Signals and Measurement Artifacts in Multi-Sensor Data, with Applications to Astrophysics](cards-0007.md#paper-154825) | 多仪器同一对象重叠观测用于拆分物理信号和传感器特有因素。 |
 | 大语言模型 | 训练策略 | [Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance](cards-0007.md#paper-152546) | 选择性遗忘用与保留目标的冲突决定词元权重。 |
@@ -477,54 +325,39 @@
 | 强化学习 | 模型架构 | [Learning When to Think: Adaptive Internal Computation for Reinforcement Learning](cards-0007.md#paper-153029) | 检验策略是否真把额外计算分配给困难状态。 |
 | 多模态学习 | 训练策略 | [Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning](cards-0007.md#paper-149100) | 快答和慢推理分别建离线参考策略。 |
 | 机器学习基础与统计 | 训练策略 | [Learning When to Trust LLM Priors: A Validated Framework for Semantic Prior Integration](cards-0007.md#paper-149394) | 模型先验先进入候选，再由折外验证统计筛选其影响。 |
-| 科学机器学习 | 推理策略 | [Learning When Visual Context Matters for Mouse Behavior Analysis](cards-0007.md#paper-151213) | 根据姿态编码量化残差分配昂贵视觉上下文。 |
 | 大语言模型 | 强化学习方法 | [Learning Where It Matters: Geometric Anchoring for Robust Preference Alignment](cards-0007.md#paper-153014) | 偏好对在局部共同压力下不稳时降低权重。 |
 | 多模态学习 | 强化学习方法 | [Learning Where to Look: Observation Policy Optimization for Thinking with Images](cards-0007.md#paper-150969) | 视觉工具调用单独计算观测动作的证据信用。 |
 | 科学机器学习 | 数据策略 | [Learning Where to Simulate: Generative Active Sampling for Online PDE Surrogate Training](cards-0007.md#paper-151676) | 在线代理训练按预测困难度挑选下一次数值模拟。 |
-| 机器学习基础与统计 | 理论与统计 | [Learning with Multiple Correct Answers - Regret Bounds under Different Feedback Models](cards-0007.md#paper-153993) | 多正确答案任务优先设计能支持低遗憾的反馈形式。 |
 | 机器学习基础与统计 | 训练策略 | [Learning with Synthetic Data via SGD in High-Dimensional Linear Regression](cards-0007.md#paper-148876) | 错配合成数据优先用于前阶段，后阶段回到真实数据。 |
 | 机器学习基础与统计 | 推理策略 | [Learn Locally, Recurse Globally: Neural Circuit Synthesis Beyond Training Depth](cards-0007.md#paper-155721) | 深结构推理用可验证的外循环调用浅层专才。 |
 | 多模态学习 | 训练策略 | [Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding](cards-0007.md#paper-155839) | GUI 定位蒸馏给教师软区域提示，并按坐标数字意义定权。 |
-| 科学机器学习 | 评测与诊断 | [LeCellModel: Interpretable Density Estimation over the Gene Expression Manifold](cards-0007.md#paper-153391) | 单细胞表示诊断分开测标签可分性与状态典型性。 |
 | 大语言模型 | 评测与诊断 | [Ledger: A Path-Validated, Database-Grounded Benchmark for Enterprise Web Agents](cards-0007.md#paper-139511) | 事务代理以数据库字段差异验收，并保留后端操作轨迹。 |
 | 大语言模型 | 推理策略 | [Leech Lattice Vector Quantization for Efficient LLM Compression](cards-0007.md#paper-149021) | 向量量化用结构化格索引避免显式码本。 |
 | 多模态学习 | 模型架构 | [LEGO: Sizing Rules for Budget-Aware Dense-to-MoE Conversion of Vision-Language Models](cards-0007.md#paper-152122) | 稠密模型转 MoE 用激活 FFN 宽度与隐藏宽度之比选候选。 |
 | 大语言模型 | 推理策略 | [Lemon: Evidence-Risk-Aware Adaptive Organization for Long-Horizon LLM Agents](cards-0007.md#paper-155165) | 长时代理压缩上下文时保留可回查证据，并以风险调度验证。 |
-| 科学机器学习 | 表征学习 | [LEMON-ZEST: Evolution-Informed Tokenization for Efficient Protein Language Modeling](cards-0007.md#paper-153755) | 远缘同源识别将保守片段先验纳入序列分词。 |
 | 大语言模型 | 理论与统计 | [Length Generalization for Transformers via Compression](cards-0007.md#paper-150600) | 分析长度泛化时用压缩重复串表达同一输入结构。 |
-| 大语言模型 | 评测与诊断 | [LensCT: Fine-Grained AI-Involved Text Detection via Temporal-Hierarchical Tomograms of LLM Internals](cards-0007.md#paper-151027) | 细粒度 AI 文本参与度检测保留位置与层级二维证据。 |
 | 计算机视觉 | 推理策略 | [LENS: Low-Frequency Eigen Noise Shaping for Efficient Diffusion Sampling](cards-0007.md#paper-152345) | 蒸馏扩散模型的噪声调整只作用于低频子空间。 |
 | 多模态学习 | 推理策略 | [LensVLM: Selective Context Expansion for Compressed Visual Representation of Text](cards-0007.md#paper-151754) | 压缩长文本时先扫视觉概览，再按需展开原文。 |
 | 计算机视觉 | 模型架构 | [Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](cards-0007.md#paper-152848) | 为学可迁移三维表征限制新视角解码器能力。 |
-| 科学机器学习 | 推理策略 | [Less Evidence, Better Answering: Gain-Aware Minimal Evidence Subset Selection for Medical QA](cards-0007.md#paper-152857) | 证据问答在词元预算内选边际收益最高的组合。 |
 | 计算机视觉 | 训练策略 | [Less is More: Compact-Token Masked Feature Learning for Skeleton Representation Learning](cards-0007.md#paper-153560) | 骨架预训练需要稀疏 token 时，把目标改为教师特征预测而非逐坐标重建。 |
 | 机器人学 | 数据策略 | [Less Language, More Latents: Annotation-Efficient VLAs for Driving](cards-0007.md#paper-149160) | 有大量观测轨迹但指令少时，先学动作码本，再用少量语言连接码本。 |
 | 机器人学 | 表征学习 | [LessMimic: Versatile Humanoid-Object Interaction with Unified Distance Field Representations](cards-0007.md#paper-149455) | 对象尺寸变化大时，用局部表面几何表示接触需求，测试时从参考动作改为根命令与交互类型。 |
-| 计算机视觉 | 训练策略 | [Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](cards-0007.md#paper-153981) | 图像编辑取证时，像素掩码不可靠可用图级标签与重建误差来定位。 |
 | 计算机视觉 | 模型架构 | [LESSViT: Robust Hyperspectral Representation Learning under Spectral Configuration Shift](cards-0007.md#paper-154948) | 高光谱模型跨传感器部署时，按真实波长而非固定通道编号编码，并分解空间光谱交互。 |
-| 图学习 | 评测与诊断 | [Lethe: Link Inference Attacks For Evaluation of Edge Unlearning Methods](cards-0007.md#paper-139781) | 图边遗忘验收时，增加与被删边残余信息直接相关的防护评估，并和重训计时。 |
 | 科学机器学习 | 优化 | [LEVDA: Latent Ensemble Variational Data Assimilation via Differentiable Dynamics](cards-0007.md#paper-153297) | 稀疏不规则观测同化时，在可微动力学的低维集合子空间优化整条轨迹。 |
 | 机器学习基础与统计 | 数据策略 | [Leveraging Data Symmetries to Select an Optimal Subset of Training Data under Label Noise](cards-0007.md#paper-151105) | 有标签噪声且样本距离不可靠时，先构造不变特征再用近邻筛洁净样本。 |
 | 大语言模型 | 强化学习方法 | [Leveraging Error Diversity in Group Rollouts for Reinforcement Learning](cards-0007.md#paper-154049) | 可验证奖励中同组错误重复时，对错误频率调优势而非同罚所有失败。 |
 | 多模态学习 | 评测与诊断 | [Leveraging Latent Visual Reasoning in Silence](cards-0007.md#paper-152244) | 采用潜视觉推理时，分别检验潜 token 是否帮助学习以及是否必须实际生成。 |
 | 大语言模型 | 模型架构 | [Leviathan: Decoupling Input and Output Representations in Language Models](cards-0007.md#paper-148755) | 共享词嵌入可能伤低频词时，对比连续输入嵌入和独立输出头。 |
 | 机器人学 | 损失函数 | [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](cards-0007.md#paper-150076) | 端到端像素 JEPA 的表示防塌缩时，比较高斯分布正则加下一潜态预测能否替代复杂训练组合。 |
-| 大语言模型 | 评测与诊断 | [LG-Bench: A Graph-Structured Evaluation Benchmark for Life Science](cards-0007.md#paper-139764) | 问答评估按语义邻域报告一致性和错误聚集。 |
-| 大语言模型 | 评测与诊断 | [Liars' Bench: Evaluating Lie Detectors for Language Models](cards-0007.md#paper-139686) | 真实性检测单列仅凭可见记录无法判断的情形。 |
 | 机器人学 | 评测与诊断 | [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](cards-0007.md#paper-139040) | 个性化操作以有无偏好配对和布局变化区分偏好学习与技能学习。 |
-| 大语言模型 | 评测与诊断 | [LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models](cards-0007.md#paper-139459) | 代码推荐中给目标版本文档，并分别测稳定和演变 API。 |
 | 计算机视觉 | 模型架构 | [LiBrA-Net: Lie-Algebraic Bilateral Affine Fields for Real-Time 4K Video Dehazing](cards-0007.md#paper-154860) | 视频去雾用低分辨率双边仿射场生成全分辨率映射。 |
-| 科学机器学习 | 模型架构 | [Lie Generator Networks for Nonlinear Partial Differential Equations](cards-0007.md#paper-155016) | 稳定潜动态可把保守耦合和耗散显式分离。 |
 | 多模态学习 | 推理策略 | [LifeStream: Token Life-Cycle Modeling for Training-Free Online Video Understanding](cards-0007.md#paper-150799) | 视频流压缩按视觉词元生命周期区分短期保留和长期汇总。 |
-| 科学机器学习 | 模型架构 | [LiFT: Lifted Inter-slice Feature Trajectories for 3D Image Generation from 2D Generators](cards-0007.md#paper-149185) | 用切片轨迹约束二维生成器的跨层一致性。 |
 | 机器人学 | 强化学习方法 | [LiFT: Likelihood-Free Tree-Structured Policy Optimization for Flow-Based VLAs](cards-0007.md#paper-151131) | 流策略以共享历史的动作块分支作结果信用。 |
 | 机器人学 | 训练策略 | [Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models](cards-0007.md#paper-154150) | 人类视频预训练除了轨迹，还可蒸馏中间三维几何特征。 |
 | 大语言模型 | 训练策略 | [LightMoE: Reducing Mixture-of-Experts Redundancy through Expert Replacing](cards-0007.md#paper-155806) | 压缩 MoE 时将冗余专家替换为小模块后恢复，而非直接删除。 |
 | 强化学习 | 强化学习方法 | [Likelihood-Free Generative Policy Optimization](cards-0007.md#paper-151534) | 生成策略先学习改进信号，再蒸馏入原生成器。 |
-| 图学习与推荐 | 模型架构 | [LIME: Link-based User-item Interaction Modeling with Decoupled XOR Attention for Efficient Test Time Scaling](cards-0007.md#paper-153393) | 把用户历史与候选交互分解，可预计算共用注意分量。 |
 | 机器学习基础与统计 | 理论与统计 | [Limits and Potential of Score-Based Data Valuation: Redundancy, Complementarity, and Non-Monotonicity](cards-0007.md#paper-149315) | 先查冗余、互补与非单调，再用标量分数选数据。 |
 | 机器学习基础与统计 | 优化 | [LINC: Decoupling Local Consequence Scoring from Hidden Matching in Constructive Neural Routing](cards-0007.md#paper-148664) | 构造路线时把确定的局部代价显式打分。 |
 | 机器学习基础与统计 | 理论与统计 | [Linear approximations to HMM filtering](cards-0007.md#paper-155014) | 根据潜过程的耗散决定是否需非线性滤波模型。 |
 | 大语言模型 | 训练策略 | [LinearARD: Linear-Memory Attention Distillation for RoPE Restoration](cards-0007.md#paper-148387) | 扩展 RoPE 后用短数据蒸馏原注意关系。 |
-| 机器学习基础与统计 | 优化 | [Linear Contextual Bandits with Quasi-Optimism](cards-0007.md#paper-154848) | 线性 bandit 探索不强制逐动作乐观。 |
 | 机器学习基础与统计 | 优化 | [Linear Ensemble Sampling with Fewer Ensembles](cards-0007.md#paper-151202) | 集成探索只在 Gram 矩阵显著变化时刷新。 |

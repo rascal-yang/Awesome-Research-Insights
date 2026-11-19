@@ -2,21 +2,6 @@
 
 [会议索引](README.md)
 
-<a id="paper-155606"></a>
-
-## Why Cross-Skeleton Retargeting Is Non-Identifiable: Structural Limits of Generative Motion Models
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/155606) · [作者来源](https://openreview.net/forum?id=4KPh2cXttv)
-
-- **问题 / 瓶颈** · 目标动作和骨架正确仍可能忽略具体源运动。
-- **核心创新 / 方法** · 固定目标条件测源几何残留，并证明稀疏域不可识别。
-- **Baseline** · 标准生成重定向。
-- **Benchmark** · 源实例保真 SIF。
-- **关键结果 / 消融** · 不可识别是结构性的。
-- **适用条件 / 局限** · 特定异质和稀疏动作域。
-
-**可复用机制** · 不要仅以目标可行动作作 retargeting 验收。
-
 <a id="paper-150729"></a>
 
 ## Why Decoding Sharpens Without Resolving: Lock-in and Confusion in Autoregressive Reasoning
@@ -587,81 +572,6 @@
 
 **可复用机制** · 比较潜通信与文本时测语义、成本和可追溯。
 
-<a id="paper-155852"></a>
-
-## XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/155852) · [作者来源](https://openreview.net/forum?id=2Q4B95mpTf)
-
-- **问题 / 瓶颈** · 迭代匹相位依赖先验且对未见混合弱。
-- **核心创新 / 方法** · 学习不需先验的可分解成分集合。
-- **Baseline** · 先验迭代 XRD 法。
-- **Benchmark** · 仿真和实测多相谱。
-- **关键结果 / 消融** · 重构和相识别有改善，能迁未见混合。
-- **适用条件 / 局限** · 唯一性取决于不同物理谱重叠。
-
-**可复用机制** · 观测混合恢复允许无序源表示并验域外。
-
-<a id="paper-157013"></a>
-
-## XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/157013) · [作者来源](https://openreview.net/forum?id=2WI889Ulin)
-
-- **问题 / 瓶颈** · 骨干、融合和训练损失不一致混淆结果。
-- **核心创新 / 方法** · 分别重评公布权重及重实现，并逐项消融。
-- **Baseline** · XFeat 发布 checkpoint。
-- **Benchmark** · 图像匹配与骨干/训练消融。
-- **关键结果 / 消融** · 发现多个实现差异，摘要数值待核。
-- **适用条件 / 局限** · 重现不等于完全同训练配方。
-
-**可复用机制** · 重评现成权重和从头复现各自报告。
-
-<a id="paper-153922"></a>
-
-## xHC: Expanded Hyper-Connections
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/153922) · [作者来源](https://openreview.net/forum?id=HdK3mMYusI)
-
-- **问题 / 瓶颈** · 简单把流数量加到四以上边际收益快速变小。
-- **核心创新 / 方法** · 扩展超连接架构并维持训练预算。
-- **Baseline** · mHC 与 vanilla。
-- **Benchmark** · 69B MoE，多下游及训练 FLOPs。
-- **关键结果 / 消融** · 平均比 mHC 加 5.7 点，较 vanilla 增 2.4% FLOPs。
-- **适用条件 / 局限** · 不同规模和硬件开销须实测。
-
-**可复用机制** · 残差流扩容应变结构并测等算力前沿。
-
-<a id="paper-139062"></a>
-
-## XL-DocBench: Benchmarking Evidence-Grounded Extra-Long Document Understanding
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/139062) · [作者来源](https://openreview.net/forum?id=nTsgMNdxMa)
-
-- **问题 / 瓶颈** · 页数长但单证据任务高估能力。
-- **核心创新 / 方法** · 专业域构造真人核验问题及证据。
-- **Baseline** · 所测长文档系统。
-- **Benchmark** · XL-DocBench，1519 题、六域，至 2303 页。
-- **关键结果 / 消融** · 长上下文、多页及结构推理仍弱。
-- **适用条件 / 局限** · 领域和页面长度高度异质。
-
-**可复用机制** · 按证据跨页距离而非只按上下文总长统计。
-
-<a id="paper-139776"></a>
-
-## XL-SafetyBench: A Country-Grounded Cross-Cultural Benchmark for LLM Safety and Cultural Sensitivity
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/139776) · [作者来源](https://openreview.net/forum?id=5Q6CzgDnkF)
-
-- **问题 / 瓶颈** · 低响应率会被误判为更安全。
-- **核心创新 / 方法** · 由当地评审验证国家语境题及良性条件。
-- **Baseline** · 多语言模型。
-- **Benchmark** · 跨国安全和文化敏感性。
-- **关键结果 / 消融** · 摘要指出部分低风险表象来自不参与。
-- **适用条件 / 局限** · 依赖本地题样与评审范围。
-
-**可复用机制** · 报告风险率时并列给出参与和合适拒答，避免沉默造成假领先。
-
 <a id="paper-151207"></a>
 
 ## XMNoise2Clean: Cross-Modal Denoising Under Sparse Data
@@ -677,21 +587,6 @@
 
 **可复用机制** · 做跨模态合成前先寻找无法从输入推知的目标属性。
 
-<a id="paper-155382"></a>
-
-## XTC: Head-Aware Sampling by Excluding Top Choices
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/155382) · [作者来源](https://openreview.net/forum?id=63aH2jWRDk)
-
-- **问题 / 瓶颈** · 高概率头部长期重复压制可行替代。
-- **核心创新 / 方法** · 设置绝对可信阈值并在多候选时排除头部。
-- **Baseline** · 温度及重复惩罚。
-- **Benchmark** · 十二种提示类型和多个模型、量化级别。
-- **关键结果 / 消融** · 摘要报告一致有效且可组合。
-- **适用条件 / 局限** · 生成质量依赖门槛。
-
-**可复用机制** · 保留低置信任务默认解码，将多样化仅用于可行头部有竞争时。
-
 <a id="paper-148325"></a>
 
 ## xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs
@@ -706,21 +601,6 @@
 - **适用条件 / 局限** · 依赖图分布的交换性。
 
 **可复用机制** · 处理无序关系结构时应按无关排列设计潜变量。
-
-<a id="paper-149735"></a>
-
-## xWhy: Causal Learning from Explanations
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/149735) · [作者来源](https://openreview.net/forum?id=nl4FBxtsew)
-
-- **问题 / 瓶颈** · 观测数据可能无法区分多个结构。
-- **核心创新 / 方法** · 将可采信解释转成因果学习约束，结合交互判断。
-- **Baseline** · 只依赖观察的发现。
-- **Benchmark** · 因果发现与专家解释核验。
-- **关键结果 / 消融** · 摘要称可加速构建并识别错误解释。
-- **适用条件 / 局限** · 需要可比的专家解释和观测。
-
-**可复用机制** · 结构学习中对解释不盲信，保留观测验证和冲突检查。
 
 <a id="paper-149203"></a>
 
@@ -857,21 +737,6 @@
 
 **可复用机制** · 先测已有中间状态能否提供可信价值，再决定增配模型。
 
-<a id="paper-153707"></a>
-
-## Your Neighbors Know: Leveraging Local Neighborhoods for Backdoor Detection in Decentralized Learning
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/153707) · [作者来源](https://openreview.net/forum?id=JN1THG4T7h)
-
-- **问题 / 瓶颈** · 中心协调方案无法用于完全去中心拓扑。
-- **核心创新 / 方法** · 从接收更新做本地检测，并比较异质条件。
-- **Baseline** · 既有防护和全知参照。
-- **Benchmark** · 分布式学习的安全检测。
-- **关键结果 / 消融** · 摘要报告与全知参照相差五点内。
-- **适用条件 / 局限** · 依赖节点邻域和数据差异。
-
-**可复用机制** · 信任不共享的系统应对每节点能见证据单独评估。
-
 <a id="paper-148520"></a>
 
 ## Your Self-Supervised Projection Head Captures Object Co-Occurrence Statistics
@@ -917,21 +782,6 @@
 
 **可复用机制** · 先用低成本影响估计筛选，再对关键样本做受控复核。
 
-<a id="paper-149227"></a>
-
-## Zero-Shot Coordination among LLM Agents
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/149227) · [作者来源](https://openreview.net/forum?id=rzLJaE6sGt)
-
-- **问题 / 瓶颈** · 模型各自理解同一抽象角色时存在歧义
-- **核心创新 / 方法** · 选择利于协调的定义并比较自动发现与人工设计
-- **Baseline** · 常规定义及人工协调定义
-- **Benchmark** · 零样本多智能体协作，指标未报告
-- **关键结果 / 消融** · 摘要称自动定义能提高鲁棒性
-- **适用条件 / 局限** · 依赖任务可以显式定义共享语义
-
-**可复用机制** · 先统一对象和动作术语，测组合改进再训练共同策略
-
 <a id="paper-150080"></a>
 
 ## Zero-Shot Instruction Following in RL via Structured LTL Representations
@@ -946,21 +796,6 @@
 - **适用条件 / 局限** · 需要可形式化指令，解析误差另验
 
 **可复用机制** · 给机器人检查顺序、条件和嵌套组合各自的泛化
-
-<a id="paper-148572"></a>
-
-## Zero-Shot Quantization via Weight-Space Arithmetic
-
-[官方论文页](https://neurips.cc/virtual/2026/poster/148572) · [作者来源](https://openreview.net/forum?id=wrUEnnSgXa)
-
-- **问题 / 瓶颈** · 逐模型校准或训练成本高
-- **核心创新 / 方法** · 以权重空间算术隔离和转移量化向量
-- **Baseline** · 常规逐模型量化
-- **Benchmark** · 跨模型量化迁移，细节摘要未报告
-- **关键结果 / 消融** · 摘要给出工具理论条件及局部几何解释
-- **适用条件 / 局限** · 需确认可转移与重参数化条件及量化格式
-
-**可复用机制** · 部署前用目标模型校准集验证复用是否节省时间
 
 <a id="paper-155109"></a>
 
