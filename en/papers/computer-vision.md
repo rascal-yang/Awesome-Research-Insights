@@ -1219,5 +1219,8 @@ Visual representation, recognition, reconstruction, and generation.
 - [CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling](../../conferences/cvpr-2026/cards.md#paper-cupid-object-pose)
 - [LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-laser-layer-wise-scale-alignment)
 - [Eulerian Gaussian Splatting using Hashed Probability Pyramids](../../conferences/cvpr-2026/cards.md#paper-eulerian-gaussian-splatting)
+- [U^2Flow: Uncertainty-Aware Unsupervised Optical Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-u2flow)
+- [Scaling Dense Event-Stream Pretraining from Visual Foundation Models](../../conferences/cvpr-2026/cards.md#paper-structure-aware-event-distillation)
+- [CoWTracker: Tracking by Warping instead of Correlation](../../conferences/cvpr-2026/cards.md#paper-cowtracker-warping)
 
 <!-- conference-classification:end -->

@@ -629,5 +629,6 @@ Model-wide design and information flow.
 - [MUST: Modality-Specific Representation-Aware Transformer for Diffusion-Enhanced Survival Prediction with Missing Modality](../../conferences/cvpr-2026/cards.md#paper-must-missing-modality)
 - [Efficient Encoder-Free Fourier-based 3D Large Multimodal Model](../../conferences/cvpr-2026/cards.md#paper-fase3d-fourier-tokenizer)
 - [Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation](../../conferences/cvpr-2026/cards.md#paper-harope-head-wise-position)
+- [CoWTracker: Tracking by Warping instead of Correlation](../../conferences/cvpr-2026/cards.md#paper-cowtracker-warping)
 
 <!-- conference-classification:end -->

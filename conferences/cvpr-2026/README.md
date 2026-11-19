@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,197 篇，其中 765 篇暂收录、432 篇排除，另有 2,845 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,227 篇，其中 784 篇暂收录、443 篇排除，另有 2,815 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -771,3 +771,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,197
 | 多模态学习 | 模型架构 | [Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation](cards.md#paper-harope-head-wise-position) | 生成任务的位置编码可按注意力头拟合坐标投影，在保持相对性时允许空间轴耦合。 |
 | 多模态学习 | 评测与分析 | [SO-Bench: A Structural Output Evaluation of Multimodal LLM](cards.md#paper-so-bench-structured-output-diagnostics) | 评估视觉智能体的结构化输出时，将模式合规与字段事实正确分别验收。 |
 | 计算机视觉 | 损失函数与优化 | [Eulerian Gaussian Splatting using Hashed Probability Pyramids](cards.md#paper-eulerian-gaussian-splatting) | 优化离散渲染图元分布时，把图元位置视作可训练连续密度的样本。 |
+| 生成模型 | 强化学习 | [RebRL: Reinforcing Discrete Visual Diffusion Models with Rebalanced Timestep Credits](cards.md#paper-rebrl-discrete-token-timestep-credit) | 给离散扩散做强化学习时，可按掩膜阶段重配信用并核对早期决策是否在训练中被低估。见图 5、表 1。 |
+| 多模态学习 | 损失与奖励 | [COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs](cards.md#paper-copo-token-sufficiency-necessity-grounding) | 若只奖励答对导致模型利用背景捷径，可分别检验相关证据的充分性和必要性，并将结果加入训练奖励。见表 3。 |
+| 机器人学 | 表征学习 | [AutoTraces: Autoregressive Trajectory Forecasting via Multimodal Large Language Models](cards.md#paper-autotraces-hybrid-continuous-waypoint-tokens) | 接入轨迹回归时可对照文字序列与专用标记加连续坐标嵌入，保留自回归生成以支持可变长度。见表 2 和图 4。 |
+| 多模态学习 | 推理策略 | [Think Visually, Reason Textually: Vision-Language Synergy in Abstract Reasoning](cards.md#paper-arc-modality-routed-rule-reasoning) | 可在同一空间推理任务中用视觉归纳规则、文本精确执行，并切换模态复核错误。见表 2。 |
+| 多模态学习 | 评估与诊断 | [Lyapunov Probes for Hallucination Detection in Large Foundation Models](cards.md#paper-lyapunov-probes-perturbation-stability-for-hallucination) | 幻觉探针可同时检查隐状态的局部稳定性和静态可分性，比较显式稳定约束及跨域迁移。见表 3、4。 |
+| 多模态学习 | 评估与诊断 | [Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](cards.md#paper-vi-probe-perception-versus-template-recall) | 判断模型依赖视觉还是图式记忆时，可翻转视觉线索并保留无诱因匹配控制，分别报告翻转一致性与固定答法。见表 2。 |
+| 机器人学 | 表征学习 | [Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo](cards.md#paper-cross-modal-stereo-dual-domain-projection) | 异构相机匹配可同时在两个传感域映射对方的信息，比较只做单域对齐时的视差误差。见表 5。 |
+| 机器人学 | 生成模型 | [MaskDexGrasp: Generative Masked Modeling for Part-Aware Dexterous Grasp Synthesis](cards.md#paper-maskdexgrasp) | 抓取动作可按手掌与各指分词，使用掩码建模支持补全和局部改动。 |
+| 多模态学习 | 推理策略 | [Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout](cards.md#paper-infinity-rope) | 长序列滚动生成可将位置编码动态重基准化，并只在切换任务时有限重置缓存。 |
+| 多模态学习 | 训练策略 | [PureCC: Pure Learning for Text-to-Image Concept Customization](cards.md#paper-purecc) | 注入个性概念时，将新概念增量和原条件预测分离，并将旧能力漂移纳入评价。 |
+| 计算机视觉 | 训练策略 | [U^2Flow: Uncertainty-Aware Unsupervised Optical Flow Estimation](cards.md#paper-u2flow) | 无标签位移估计可先由增强一致性学习逐像素不确定性，再用于细化和融合。 |
+| 机器学习基础与统计 | 生成模型 | [Back to Basics: Let Denoising Generative Models Denoise](cards.md#paper-jit-denoise-clean-data) | 选择扩散网络输出时要单独比较干净数据预测与噪声预测，损失的计算空间可另选。 |
+| 机器人学 | 强化学习 | [PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](cards.md#paper-pvp-privileged-proprioception) | 训练时将本体观测与特权状态配对做对比学习，减少手写增强并保持部署输入简单。 |
+| 计算机视觉 | 知识蒸馏 | [Scaling Dense Event-Stream Pretraining from Visual Foundation Models](cards.md#paper-structure-aware-event-distillation) | 将稠密视觉教师蒸馏到稀疏传感器时，对齐语义结构而非只逐位置回归。 |
+| 机器学习基础 | 评测与分析 | [When Do Models Actually Decide? Mapping the Layer-Wise Decision Timeline in Pretrained Neural Networks](cards.md#paper-layer-wise-decision-timeline) | 设计早退时按多层稳定协议报告哪些样本可早退，避免单层探针首次命中等同于已决策。 |
+| 计算机视觉 | 模型架构 | [CoWTracker: Tracking by Warping instead of Correlation](cards.md#paper-cowtracker-warping) | 高分辨率点跟踪用当前轨迹回变目标特征并迭代更新，避免显式相关体。 |
+| 多模态学习 | 可解释性与诊断 | [Understanding Temporal Logic Consistency in Video-Language Models through Cross-Modal Attention Discriminability](cards.md#paper-tcas-temporal-attention-discriminability) | 视频答案改写后不一致时，检查跨模态注意力是否区分时间点，再实验性增强时序区分。 |
+| 机器人学 | 评测与分析 | [CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](cards.md#paper-capnav-capability-conditioned-navigation) | 衡量跨机体导航时按具体尺寸和越障能力划分可行路径，避免用统一可达标签。 |
+| 多模态学习 | 可解释性与诊断 | [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](cards.md#paper-cultural-representation-activation) | 跨语言生图出现文化泛化时，先探测表征是否可激活，再决定做定层调整还是更新整网。 |

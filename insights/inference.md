@@ -1446,5 +1446,9 @@
 - [FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denoising](../conferences/cvpr-2026/cards.md#paper-fm-steer)
 - [LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction](../conferences/cvpr-2026/cards.md#paper-laser-layer-wise-scale-alignment)
 - [SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](../conferences/cvpr-2026/cards.md#paper-sparvar-cross-scale-sparsity)
+- [Think Visually, Reason Textually: Vision-Language Synergy in Abstract Reasoning](../conferences/cvpr-2026/cards.md#paper-arc-modality-routed-rule-reasoning)
+- [MaskDexGrasp: Generative Masked Modeling for Part-Aware Dexterous Grasp Synthesis](../conferences/cvpr-2026/cards.md#paper-maskdexgrasp)
+- [Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout](../conferences/cvpr-2026/cards.md#paper-infinity-rope)
+- [Back to Basics: Let Denoising Generative Models Denoise](../conferences/cvpr-2026/cards.md#paper-jit-denoise-clean-data)
 
 <!-- conference-classification:end -->

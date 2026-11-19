@@ -1039,5 +1039,8 @@
 - [FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection](../conferences/cvpr-2026/cards.md#paper-faar-rank-shrinking)
 - [Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-airknow-external-arbitration-partial-match-triplets)
 - [3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](../conferences/cvpr-2026/cards.md#paper-lam3c-video-pointcloud)
+- [PureCC: Pure Learning for Text-to-Image Concept Customization](../conferences/cvpr-2026/cards.md#paper-purecc)
+- [U^2Flow: Uncertainty-Aware Unsupervised Optical Flow Estimation](../conferences/cvpr-2026/cards.md#paper-u2flow)
+- [Scaling Dense Event-Stream Pretraining from Visual Foundation Models](../conferences/cvpr-2026/cards.md#paper-structure-aware-event-distillation)
 
 <!-- conference-classification:end -->

@@ -425,5 +425,6 @@
 - [MERIT: Multi-domain Efficient RAW Image Translation](../conferences/cvpr-2026/cards.md#paper-merit-raw-translation)
 - [Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation](../conferences/cvpr-2026/cards.md#paper-spectral-scalpel)
 - [Eulerian Gaussian Splatting using Hashed Probability Pyramids](../conferences/cvpr-2026/cards.md#paper-eulerian-gaussian-splatting)
+- [COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs](../conferences/cvpr-2026/cards.md#paper-copo-token-sufficiency-necessity-grounding)
 
 <!-- conference-classification:end -->

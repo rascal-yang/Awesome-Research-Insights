@@ -926,5 +926,10 @@ Robot perception, policy learning, planning, and control.
 - [MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters](../../conferences/cvpr-2026/cards.md#paper-maskadapt)
 - [LAOF: Robust Latent Action Learning with Optical Flow Constraints](../../conferences/cvpr-2026/cards.md#paper-laof-latent-action-flow)
 - [FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denoising](../../conferences/cvpr-2026/cards.md#paper-fm-steer)
+- [AutoTraces: Autoregressive Trajectory Forecasting via Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-autotraces-hybrid-continuous-waypoint-tokens)
+- [Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo](../../conferences/cvpr-2026/cards.md#paper-cross-modal-stereo-dual-domain-projection)
+- [MaskDexGrasp: Generative Masked Modeling for Part-Aware Dexterous Grasp Synthesis](../../conferences/cvpr-2026/cards.md#paper-maskdexgrasp)
+- [PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](../../conferences/cvpr-2026/cards.md#paper-pvp-privileged-proprioception)
+- [CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](../../conferences/cvpr-2026/cards.md#paper-capnav-capability-conditioned-navigation)
 
 <!-- conference-classification:end -->

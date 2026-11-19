@@ -2378,5 +2378,8 @@ General learning methods, optimization, learning theory, and inference.
 - [FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection](../../conferences/cvpr-2026/cards.md#paper-faar-rank-shrinking)
 - [Few-Step Diffusion Sampling Through Instance-Aware Discretizations](../../conferences/cvpr-2026/cards.md#paper-indis-instance-conditioned-sampling-grid)
 - [Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery](../../conferences/cvpr-2026/cards.md#paper-gslr-low-rank-tensor)
+- [RebRL: Reinforcing Discrete Visual Diffusion Models with Rebalanced Timestep Credits](../../conferences/cvpr-2026/cards.md#paper-rebrl-discrete-token-timestep-credit)
+- [Back to Basics: Let Denoising Generative Models Denoise](../../conferences/cvpr-2026/cards.md#paper-jit-denoise-clean-data)
+- [When Do Models Actually Decide? Mapping the Layer-Wise Decision Timeline in Pretrained Neural Networks](../../conferences/cvpr-2026/cards.md#paper-layer-wise-decision-timeline)
 
 <!-- conference-classification:end -->

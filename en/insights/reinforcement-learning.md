@@ -763,5 +763,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding](../../conferences/cvpr-2026/cards.md#paper-revisor-dual-attribution)
 - [FINER: MLLMs Hallucinate under Fine-grained Negative Queries](../../conferences/cvpr-2026/cards.md#paper-finer-paired-fine-grained-visual-negatives)
 - [OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models](../../conferences/cvpr-2026/cards.md#paper-os-oracle-consistent-critics)
+- [RebRL: Reinforcing Discrete Visual Diffusion Models with Rebalanced Timestep Credits](../../conferences/cvpr-2026/cards.md#paper-rebrl-discrete-token-timestep-credit)
+- [PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](../../conferences/cvpr-2026/cards.md#paper-pvp-privileged-proprioception)
 
 <!-- conference-classification:end -->

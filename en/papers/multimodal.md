@@ -1117,5 +1117,13 @@ Learning across modalities such as images, text, audio, and video.
 - [SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](../../conferences/cvpr-2026/cards.md#paper-sparvar-cross-scale-sparsity)
 - [Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation](../../conferences/cvpr-2026/cards.md#paper-harope-head-wise-position)
 - [SO-Bench: A Structural Output Evaluation of Multimodal LLM](../../conferences/cvpr-2026/cards.md#paper-so-bench-structured-output-diagnostics)
+- [COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs](../../conferences/cvpr-2026/cards.md#paper-copo-token-sufficiency-necessity-grounding)
+- [Think Visually, Reason Textually: Vision-Language Synergy in Abstract Reasoning](../../conferences/cvpr-2026/cards.md#paper-arc-modality-routed-rule-reasoning)
+- [Lyapunov Probes for Hallucination Detection in Large Foundation Models](../../conferences/cvpr-2026/cards.md#paper-lyapunov-probes-perturbation-stability-for-hallucination)
+- [Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](../../conferences/cvpr-2026/cards.md#paper-vi-probe-perception-versus-template-recall)
+- [Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout](../../conferences/cvpr-2026/cards.md#paper-infinity-rope)
+- [PureCC: Pure Learning for Text-to-Image Concept Customization](../../conferences/cvpr-2026/cards.md#paper-purecc)
+- [Understanding Temporal Logic Consistency in Video-Language Models through Cross-Modal Attention Discriminability](../../conferences/cvpr-2026/cards.md#paper-tcas-temporal-attention-discriminability)
+- [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-cultural-representation-activation)
 
 <!-- conference-classification:end -->

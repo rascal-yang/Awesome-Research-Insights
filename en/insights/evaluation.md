@@ -1477,5 +1477,11 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [UNI-OOD: Unified Object- and Image-level Out-of-Distribution Detection via Cross-Context Attentive Vision-Language Modeling](../../conferences/cvpr-2026/cards.md#paper-uni-ood-object-and-context-diagnostic)
 - [ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps](../../conferences/cvpr-2026/cards.md#paper-reasonmap)
 - [SO-Bench: A Structural Output Evaluation of Multimodal LLM](../../conferences/cvpr-2026/cards.md#paper-so-bench-structured-output-diagnostics)
+- [Lyapunov Probes for Hallucination Detection in Large Foundation Models](../../conferences/cvpr-2026/cards.md#paper-lyapunov-probes-perturbation-stability-for-hallucination)
+- [Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions](../../conferences/cvpr-2026/cards.md#paper-vi-probe-perception-versus-template-recall)
+- [When Do Models Actually Decide? Mapping the Layer-Wise Decision Timeline in Pretrained Neural Networks](../../conferences/cvpr-2026/cards.md#paper-layer-wise-decision-timeline)
+- [Understanding Temporal Logic Consistency in Video-Language Models through Cross-Modal Attention Discriminability](../../conferences/cvpr-2026/cards.md#paper-tcas-temporal-attention-discriminability)
+- [CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](../../conferences/cvpr-2026/cards.md#paper-capnav-capability-conditioned-navigation)
+- [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-cultural-representation-activation)
 
 <!-- conference-classification:end -->

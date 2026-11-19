@@ -616,5 +616,7 @@
 - [P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction](../conferences/cvpr-2026/cards.md#paper-p2gs-factorized-camera-photometric-rendering)
 - [MeshSplatting: Differentiable Rendering with Opaque Meshes](../conferences/cvpr-2026/cards.md#paper-meshsplatting-connected-opaque-geometry-optimization)
 - [Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery](../conferences/cvpr-2026/cards.md#paper-gslr-low-rank-tensor)
+- [AutoTraces: Autoregressive Trajectory Forecasting via Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-autotraces-hybrid-continuous-waypoint-tokens)
+- [Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo](../conferences/cvpr-2026/cards.md#paper-cross-modal-stereo-dual-domain-projection)
 
 <!-- conference-classification:end -->
