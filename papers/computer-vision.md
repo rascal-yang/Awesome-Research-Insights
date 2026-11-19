@@ -1405,5 +1405,11 @@
 - [Diversity over Uniformity: Rethinking Representation in Generated Image Detection](../conferences/cvpr-2026/cards.md#paper-diverse-forgery-representation)
 - [UniDAC: Universal Metric Depth Estimation for Any Camera](../conferences/cvpr-2026/cards.md#paper-unidac-local-metric-scale)
 - [MaxMark: High-Capacity Diffusion-Native Watermarking via Robust and Invertible Latent Embedding](../conferences/cvpr-2026/cards.md#paper-maxmark-latent-distribution-preservation)
+- [Selectively Extracting and Injecting Visual Attributes into Text-to-Image Models](../conferences/cvpr-2026/cards.md#paper-reference-attribute-distilled-residual-embeddings)
+- [LoFA: Learning to Predict Personalized Prior for Fast Adaptation of Visual Generative Models](../conferences/cvpr-2026/cards.md#paper-lofa-relative-adaptation-prior)
+- [ResCa: Residual Caching for Diffusion Transformers Acceleration](../conferences/cvpr-2026/cards.md#paper-resca-proxy-token-residual-caching)
+- [LogCD: Local-to-global Consistency Distillation for Few-step Image Generation](../conferences/cvpr-2026/cards.md#paper-logcd)
+- [GOR-IS: 3D Gaussian Object Removal In the Intrinsic Space](../conferences/cvpr-2026/cards.md#paper-gor-is)
+- [From Sketch to Fresco: Efficient Diffusion Transformer with Progressive Resolution](../conferences/cvpr-2026/cards.md#paper-fresco-consistent-progressive-resolution)
 
 <!-- conference-classification:end -->

@@ -837,5 +837,6 @@
 - [InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs](../conferences/cvpr-2026/cards.md#paper-interagent-multistream-interaction-context)
 - [AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance](../conferences/cvpr-2026/cards.md#paper-area3d-decoupled-view-uncertainty)
 - [MaxMark: High-Capacity Diffusion-Native Watermarking via Robust and Invertible Latent Embedding](../conferences/cvpr-2026/cards.md#paper-maxmark-latent-distribution-preservation)
+- [Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance](../conferences/cvpr-2026/cards.md#paper-gw-vision-encoder-selection)
 
 <!-- conference-classification:end -->

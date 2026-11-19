@@ -999,5 +999,9 @@
 - [Recovering Physically Plausible Human-Object Interactions from Monocular Videos](../conferences/cvpr-2026/cards.md#paper-adaptive-hoi-refinement)
 - [AGiLe: Learning Robust Long-Horizon Manipulation via Affordance-Grounded Bidirectional Latent Planning](../conferences/cvpr-2026/cards.md#paper-agile-bidirectional-planning)
 - [Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](../conferences/cvpr-2026/cards.md#paper-drp-local-motion-recomposition)
+- [Haptic Neural Fields: Bringing Tactile Interactions to 3D Rendered Scenes](../conferences/cvpr-2026/cards.md#paper-haptic-fields-action-conditioned-response)
+- [Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals](../conferences/cvpr-2026/cards.md#paper-goal-force-physical-goal-conditioning)
+- [VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling](../conferences/cvpr-2026/cards.md#paper-vla-viewpoint-visual-feature-recalibration)
+- [TSTM: Temporal Segmentation for Task-relevant Mask in Visual Reinforcement Learning Generalization](../conferences/cvpr-2026/cards.md#paper-tstm-temporal-task-relevance-mask)
 
 <!-- conference-classification:end -->

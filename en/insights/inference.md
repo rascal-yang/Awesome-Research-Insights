@@ -1567,5 +1567,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](../../conferences/cvpr-2026/cards.md#paper-lasm-gui-defense)
 - [AGiLe: Learning Robust Long-Horizon Manipulation via Affordance-Grounded Bidirectional Latent Planning](../../conferences/cvpr-2026/cards.md#paper-agile-bidirectional-planning)
 - [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](../../conferences/cvpr-2026/cards.md#paper-streamingtom-prefill-and-cache-bounds)
+- [ResCa: Residual Caching for Diffusion Transformers Acceleration](../../conferences/cvpr-2026/cards.md#paper-resca-proxy-token-residual-caching)
+- [Universal Guideline-Driven Image Clustering via a Hybrid LLM Agent](../../conferences/cvpr-2026/cards.md#paper-guideline-clustering-agent)
+- [QuietPrune: Query-Guided Early Token Pruning for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-quietprune)
+- [From Sketch to Fresco: Efficient Diffusion Transformer with Progressive Resolution](../../conferences/cvpr-2026/cards.md#paper-fresco-consistent-progressive-resolution)
 
 <!-- conference-classification:end -->

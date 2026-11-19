@@ -1329,5 +1329,15 @@
 - [See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding](../conferences/cvpr-2026/cards.md#paper-swim-training-only-mask-grounding)
 - [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](../conferences/cvpr-2026/cards.md#paper-streamingtom-prefill-and-cache-bounds)
 - [VirtueBench: Evaluating Trustworthiness under Uncertainty in Long Video Understanding](../conferences/cvpr-2026/cards.md#paper-virtuebench-evidence-conditioned-abstention)
+- [Composing Concepts from Images and Videos via Concept-prompt Binding](../conferences/cvpr-2026/cards.md#paper-bind-compose)
+- [Universal Guideline-Driven Image Clustering via a Hybrid LLM Agent](../conferences/cvpr-2026/cards.md#paper-guideline-clustering-agent)
+- [Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](../conferences/cvpr-2026/cards.md#paper-hallucination-as-cue)
+- [QuietPrune: Query-Guided Early Token Pruning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-quietprune)
+- [b-CLIP: Text-Conditioned Contrastive Learning for Multi-Granular Vision-Language Alignment](../conferences/cvpr-2026/cards.md#paper-beta-clip)
+- [DSO: Direct Steering Optimization for Bias Mitigation](../conferences/cvpr-2026/cards.md#paper-dso-fairness-capability-steering)
+- [From Pixel to Precision: Enhancing Handwritten Mathematical Expression Recognition with Image-Level Reward](../conferences/cvpr-2026/cards.md#paper-impo-rendered-structure-reward)
+- [Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance](../conferences/cvpr-2026/cards.md#paper-gw-vision-encoder-selection)
+- [Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-cim-caption-information-retrieval-reward)
+- [CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering](../conferences/cvpr-2026/cards.md#paper-ccvqa-visual-evidence-conflict)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,157 篇，其中 1,363 篇暂收录、794 篇排除，另有 1,885 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,187 篇，其中 1,383 篇暂收录、804 篇排除，另有 1,855 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1369,3 +1369,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,157
 | 多模态学习 | 推理优化 | [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](cards.md#paper-streamingtom-prefill-and-cache-bounds) | 同步限制因果流式输入的每帧预算和可访问历史缓存。 |
 | 机器人学 | 表征学习 | [Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](cards.md#paper-drp-local-motion-recomposition) | 从视频抽取局部运动再重组为可适配下游动作空间的动态表征。 |
 | 多模态学习 | 评测设计 | [VirtueBench: Evaluating Trustworthiness under Uncertainty in Long Video Understanding](cards.md#paper-virtuebench-evidence-conditioned-abstention) | 评估时根据模型实际收到的帧区分可答和不可答，单独衡量拒答。 |
+| 机器人学 | 模型架构 | [Haptic Neural Fields: Bringing Tactile Interactions to 3D Rendered Scenes](cards.md#paper-haptic-fields-action-conditioned-response) | 让触觉场同时依赖场景几何和交互动态，并分别验证材料及动作可辨性。 |
+| 机器人学 | 训练策略 | [Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals](cards.md#paper-goal-force-physical-goal-conditioning) | 物理目标难以写成文本或指定终帧时，用直接的作用条件，并单测条件遵从与视觉质量。 |
+| 计算机视觉 | 表征学习 | [Selectively Extracting and Injecting Visual Attributes into Text-to-Image Models](cards.md#paper-reference-attribute-distilled-residual-embeddings) | 参照图只提供单一属性时，用目标嵌入和剩余嵌入分离目标特征与伴随信号。 |
+| 计算机视觉 | 训练策略 | [LoFA: Learning to Predict Personalized Prior for Fast Adaptation of Visual Generative Models](cards.md#paper-lofa-relative-adaptation-prior) | 快速个性化时先预测相对基座的适配参数分布，再据此产生更新。 |
+| 机器人学 | 训练策略 | [VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling](cards.md#paper-vla-viewpoint-visual-feature-recalibration) | 新视点下先冻结动作网络，只用一次示范重新校准视觉词元，再决定是否端到端微调。 |
+| 计算机视觉 | 推理策略 | [ResCa: Residual Caching for Diffusion Transformers Acceleration](cards.md#paper-resca-proxy-token-residual-caching) | 扩散加速可让同轨迹词元共享一个代理的最新残差，而不是全部使用旧缓存。 |
+| 多模态学习 | 训练策略 | [Composing Concepts from Images and Videos via Concept-prompt Binding](cards.md#paper-bind-compose) | 将可复用概念绑定到对应提示词，并给无关细节独立的吸收通道。 |
+| 计算机视觉 | 训练策略 | [LogCD: Local-to-global Consistency Distillation for Few-step Image Generation](cards.md#paper-logcd) | 少步蒸馏先拟合局部一致性，再对推理路径作全局一致校正。 |
+| 多模态学习 | 推理策略 | [Universal Guideline-Driven Image Clustering via a Hybrid LLM Agent](cards.md#paper-guideline-clustering-agent) | 指南约束图像聚类时，先构造概念代理，再只对有歧义的邻接关系调用大模型。 |
+| 计算机视觉 | 模型架构 | [GOR-IS: 3D Gaussian Object Removal In the Intrinsic Space](cards.md#paper-gor-is) | 三维内容修补时分别重建材质与光传输，分开验跨视角一致性和表面外观。 |
+| 多模态学习 | 评测与诊断 | [Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](cards.md#paper-hallucination-as-cue) | 多模态强化后训练应用遮蔽必要证据的配对对照，检查涨分能否归因于视觉推理。 |
+| 多模态学习 | 推理策略 | [QuietPrune: Query-Guided Early Token Pruning for Vision-Language Models](cards.md#paper-quietprune) | 早剪视觉词元可先引入问题语义，再与等剪枝率的晚剪对照延迟和精度。 |
+| 多模态学习 | 损失函数 | [b-CLIP: Text-Conditioned Contrastive Learning for Multi-Granular Vision-Language Alignment](cards.md#paper-beta-clip) | 让句子和短语查询从同一图像动态池化局部证据，并独立保留整图匹配。 |
+| 计算机视觉 | 推理优化 | [From Sketch to Fresco: Efficient Diffusion Transformer with Progressive Resolution](cards.md#paper-fresco-consistent-progressive-resolution) | 让多阶段分辨率采样共享最终目标，并优先细化尚未收敛的区域。 |
+| 多模态学习 | 模型对齐 | [DSO: Direct Steering Optimization for Bias Mitigation](cards.md#paper-dso-fairness-capability-steering) | 直接用公平性和能力联合反馈学习激活变换，并在推理时调节取舍。 |
+| 多模态学习 | 损失函数与优化 | [From Pixel to Precision: Enhancing Handwritten Mathematical Expression Recognition with Image-Level Reward](cards.md#paper-impo-rendered-structure-reward) | 若文本序列与真实产物不一一对应，可在渲染后的结构上定义反馈。 |
+| 多模态学习 | 模型选择 | [Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance](cards.md#paper-gw-vision-encoder-selection) | 用跨模态表示几何相似性筛选视觉骨干，在完整训练前比较接入成本。 |
+| 机器人学 | 强化学习 | [TSTM: Temporal Segmentation for Task-relevant Mask in Visual Reinforcement Learning Generalization](cards.md#paper-tstm-temporal-task-relevance-mask) | 用历史视觉信息帮助识别与策略相关的区域，并用轻量学生控制推理成本。 |
+| 多模态学习 | 损失函数与优化 | [Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](cards.md#paper-cim-caption-information-retrieval-reward) | 用描述反向检索相关图像，作为跨模态转换信息保留的弱反馈。 |
+| 多模态学习 | 检索增强 | [CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering](cards.md#paper-ccvqa-visual-evidence-conflict) | 当检索证据与模型知识冲突时，用图像相关性参与识别冲突和过滤。 |

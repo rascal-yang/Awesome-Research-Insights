@@ -793,5 +793,6 @@
 - [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-crossha-agent-action-granularity)
 - [Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](../conferences/cvpr-2026/cards.md#paper-talk2move)
 - [Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization](../conferences/cvpr-2026/cards.md#paper-dpp-grpo)
+- [TSTM: Temporal Segmentation for Task-relevant Mask in Visual Reinforcement Learning Generalization](../conferences/cvpr-2026/cards.md#paper-tstm-temporal-task-relevance-mask)
 
 <!-- conference-classification:end -->

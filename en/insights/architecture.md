@@ -675,5 +675,7 @@ Model-wide design and information flow.
 - [MER-Tracker: Towards High-Speed 3D Point Tracking via Multi-View Event-RGB Hybrid Cameras](../../conferences/cvpr-2026/cards.md#paper-mer-tracker)
 - [Unifying Language-Action Understanding and Generation for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-linkvla-shared-action-language-codebook)
 - [PackUV: Packed Gaussian UV Maps for 4D Volumetric Video](../../conferences/cvpr-2026/cards.md#paper-packuv)
+- [Haptic Neural Fields: Bringing Tactile Interactions to 3D Rendered Scenes](../../conferences/cvpr-2026/cards.md#paper-haptic-fields-action-conditioned-response)
+- [GOR-IS: 3D Gaussian Object Removal In the Intrinsic Space](../../conferences/cvpr-2026/cards.md#paper-gor-is)
 
 <!-- conference-classification:end -->

@@ -1153,5 +1153,10 @@
 - [ExpoCM: Exposure-Aware One-Step Generative Single-Image HDR Reconstruction](../conferences/cvpr-2026/cards.md#paper-expocm-degradation-aware-consistency)
 - [DNF-SR: Dual-Input and Negative-Aware Feature Fine-Tuning for Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-dnfsr-clean-noisy-dual-conditioning)
 - [Recovering Physically Plausible Human-Object Interactions from Monocular Videos](../conferences/cvpr-2026/cards.md#paper-adaptive-hoi-refinement)
+- [Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals](../conferences/cvpr-2026/cards.md#paper-goal-force-physical-goal-conditioning)
+- [LoFA: Learning to Predict Personalized Prior for Fast Adaptation of Visual Generative Models](../conferences/cvpr-2026/cards.md#paper-lofa-relative-adaptation-prior)
+- [VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling](../conferences/cvpr-2026/cards.md#paper-vla-viewpoint-visual-feature-recalibration)
+- [Composing Concepts from Images and Videos via Concept-prompt Binding](../conferences/cvpr-2026/cards.md#paper-bind-compose)
+- [LogCD: Local-to-global Consistency Distillation for Few-step Image Generation](../conferences/cvpr-2026/cards.md#paper-logcd)
 
 <!-- conference-classification:end -->

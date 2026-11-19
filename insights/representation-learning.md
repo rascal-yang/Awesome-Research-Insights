@@ -710,5 +710,7 @@
 - [LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference](../conferences/cvpr-2026/cards.md#paper-lamogen-symbolic-motion-interface)
 - [See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding](../conferences/cvpr-2026/cards.md#paper-swim-training-only-mask-grounding)
 - [Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](../conferences/cvpr-2026/cards.md#paper-drp-local-motion-recomposition)
+- [Selectively Extracting and Injecting Visual Attributes into Text-to-Image Models](../conferences/cvpr-2026/cards.md#paper-reference-attribute-distilled-residual-embeddings)
+- [DSO: Direct Steering Optimization for Bias Mitigation](../conferences/cvpr-2026/cards.md#paper-dso-fairness-capability-steering)
 
 <!-- conference-classification:end -->

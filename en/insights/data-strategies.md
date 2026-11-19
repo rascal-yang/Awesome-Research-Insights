@@ -427,5 +427,6 @@ Data selection, annotation, augmentation, and sampling.
 - [MatchMask: Mask-Centric Generative Data Augmentation for Label-Scarce Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-matchmask-gradient-probe)
 - [CLIP-like Model as a Foundational Density Ratio Estimator](../../conferences/cvpr-2026/cards.md#paper-clip-foundational-density-ratio)
 - [Unlocking Strong Supervision: A Data-Centric Study of General-Purpose Audio Pre-Training Methods](../../conferences/cvpr-2026/cards.md#paper-audio-strong-supervision-objective-tradeoffs)
+- [CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-ccvqa-visual-evidence-conflict)
 
 <!-- conference-classification:end -->

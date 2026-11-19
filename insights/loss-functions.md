@@ -463,5 +463,8 @@
 - [RiskProp: Collision-Anchored Self-Supervised Risk Propagation For Early Accident Anticipation](../conferences/cvpr-2026/cards.md#paper-riskprop)
 - [THE MORE, THE MERRIER: CONTRASTIVE FUSION FOR HIGHER-ORDER MULTIMODAL ALIGNMENT](../conferences/cvpr-2026/cards.md#paper-confu-higher-order)
 - [Diversity over Uniformity: Rethinking Representation in Generated Image Detection](../conferences/cvpr-2026/cards.md#paper-diverse-forgery-representation)
+- [b-CLIP: Text-Conditioned Contrastive Learning for Multi-Granular Vision-Language Alignment](../conferences/cvpr-2026/cards.md#paper-beta-clip)
+- [From Pixel to Precision: Enhancing Handwritten Mathematical Expression Recognition with Image-Level Reward](../conferences/cvpr-2026/cards.md#paper-impo-rendered-structure-reward)
+- [Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-cim-caption-information-retrieval-reward)
 
 <!-- conference-classification:end -->

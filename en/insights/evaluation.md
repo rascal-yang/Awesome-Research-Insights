@@ -1551,5 +1551,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Beyond Global Similarity: Multi-Conditional Retrieval for Fine-Grained Cross-Modal Understanding](../../conferences/cvpr-2026/cards.md#paper-mcmr-conditional-retrieval)
 - [Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos](../../conferences/cvpr-2026/cards.md#paper-ego2web)
 - [VirtueBench: Evaluating Trustworthiness under Uncertainty in Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-virtuebench-evidence-conditioned-abstention)
+- [Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](../../conferences/cvpr-2026/cards.md#paper-hallucination-as-cue)
 
 <!-- conference-classification:end -->
