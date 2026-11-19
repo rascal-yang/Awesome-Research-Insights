@@ -1263,5 +1263,14 @@ Learning across modalities such as images, text, audio, and video.
 - [Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation](../../conferences/cvpr-2026/cards.md#paper-eagle-autoregressive-token-attribution)
 - [SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](../../conferences/cvpr-2026/cards.md#paper-symphomotion-camera-object-control)
 - [Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention](../../conferences/cvpr-2026/cards.md#paper-vision-guided-attention-coverage)
+- [StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues](../../conferences/cvpr-2026/cards.md#paper-structxlip-structure-aware-contrastive-retrieval)
+- [M3DocDep: Multi-modal, Multi-page, Multi-document Dependency Chunking with Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-m3docdep-dependency-tree-before-rag-chunking)
+- [Content-Aware Dynamic Patchification for Efficient Video Diffusion](../../conferences/cvpr-2026/cards.md#paper-dynapatch)
+- [EarlyTom: Early Token Compression Completes Fast Video Understanding](../../conferences/cvpr-2026/cards.md#paper-earlytom)
+- [ReaGEN: Adaptive Generation of Structured Chains-of-Thought for Efficient Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-reagen)
+- [CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference](../../conferences/cvpr-2026/cards.md#paper-cofida-m)
+- [SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning](../../conferences/cvpr-2026/cards.md#paper-salmubench-association-unlearning)
+- [Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning](../../conferences/cvpr-2026/cards.md#paper-dense-video-role-specific-queries)
+- [Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](../../conferences/cvpr-2026/cards.md#paper-group-diffusion-cross-sample-attention)
 
 <!-- conference-classification:end -->

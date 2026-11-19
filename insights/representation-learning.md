@@ -693,5 +693,8 @@
 - [Spike-driven Discrete Aggregation for Event-based Object Detection](../conferences/cvpr-2026/cards.md#paper-spike-driven-discrete-event-aggregation)
 - [Scaling Up AI-Generated Image Detection with Generator-Aware Prototypes](../conferences/cvpr-2026/cards.md#paper-gapl-diverse-source-detector-prototypes)
 - [ViKey: Enhancing Temporal Understanding in Videos via Visual Prompting](../conferences/cvpr-2026/cards.md#paper-vikey-visual-temporal-prompt)
+- [Deformation-based In-Context Learning for Point Cloud Understanding](../conferences/cvpr-2026/cards.md#paper-deformpic-query-deformation-point-cloud-icl)
+- [PoseAnything: General Pose-guided Video Generation with Part-aware Temporal Coherence](../conferences/cvpr-2026/cards.md#paper-poseanything-part-matched-temporal-coherence)
+- [MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer](../conferences/cvpr-2026/cards.md#paper-more-motion-aware-reconstruction)
 
 <!-- conference-classification:end -->

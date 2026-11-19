@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,887 篇，其中 1,188 篇暂收录、699 篇排除，另有 2,155 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,917 篇，其中 1,206 篇暂收录、711 篇排除，另有 2,125 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1194,3 +1194,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,887
 | 多模态学习 | 推理优化 | [Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention](cards.md#paper-vision-guided-attention-coverage) | 描述图像时先由视觉词元定位证据，并抑制已经描述的区域，减少重复及幻觉。 |
 | 计算机视觉 | 微调与适配 | [Measure The Feature Universe: Topology-based Pseudo Labeling and Gravity Consistency for Source-Free Domain Adaptation](cards.md#paper-feature-universe-source-free-adaptation) | 无源适配的伪标签优先沿高置信特征区传播，并按特征相似性加权一致约束。 |
 | 计算机视觉 | 微调与适配 | [Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection](cards.md#paper-dgs-cross-domain-incremental-detection) | 类别与域同时变化的检测中，按任务分布动态分组适配器，定期合并共享子空间。 |
+| 生成模型 | 模型效率 | [D2Cache: Second-Order Delta Caching for Higher Video Diffusion Acceleration](cards.md#paper-d2cache-second-difference-video-cache) | 同一缓存间隔下可测试残差二阶差分预测，避免为加速另训预测器。见表 1。 |
+| 多模态学习 | 损失与奖励 | [StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues](cards.md#paper-structxlip-structure-aware-contrastive-retrieval) | 长描述检索可比较额外结构对齐与纯图文对比，在同样召回设置观察结构线索收益。见表 4。 |
+| 计算机视觉 | 表征学习 | [Deformation-based In-Context Learning for Point Cloud Understanding](cards.md#paper-deformpic-query-deformation-point-cloud-icl) | 点云任务共享上下文示例时，优先验证统一输入形变能否替代依赖目标掩码的重建。见表 3。 |
+| 多模态学习 | 推理策略 | [M3DocDep: Multi-modal, Multi-page, Multi-document Dependency Chunking with Large Vision-Language Models](cards.md#paper-m3docdep-dependency-tree-before-rag-chunking) | 长文档 RAG 可以先恢复跨页树依赖再分块，用共享版面块控制 OCR 和解析差异。见表 1–4。 |
+| 计算机视觉 | 损失与奖励 | [Differentiable Laplacian Matrix Guided Superpixel Segmentation](cards.md#paper-differentiable-graph-laplacian-superpixel-connectivity) | 若分割后端依赖连通性修补，可先在软分配上使用图拉普拉斯损失，再测离散碎片数。见表 3。 |
+| 生成模型 | 表征学习 | [PoseAnything: General Pose-guided Video Generation with Part-aware Temporal Coherence](cards.md#paper-poseanything-part-matched-temporal-coherence) | 姿态控制视频可比较按对应部位分配时序注意力与整物体注意力。见表 3。 |
+| 多模态学习 | 推理加速 | [Content-Aware Dynamic Patchification for Efficient Video Diffusion](cards.md#paper-dynapatch) | 视频分词时依内容复杂度分配块尺寸，先减少静态区域的计算。 |
+| 计算机视觉 | 生成模型 | [Object-WIPER: Training-Free Object and Associated Effect Removal in Videos](cards.md#paper-object-wiper) | 编辑对象时另显式找反光、阴影等关联区域，同时冻结无关的背景 token。 |
+| 多模态学习 | 推理加速 | [EarlyTom: Early Token Compression Completes Fast Video Understanding](cards.md#paper-earlytom) | 优化首 token 延迟前把视觉编码与语言预填充分开计时，必要时在视觉骨干内部合并。 |
+| 多模态学习 | 推理策略 | [ReaGEN: Adaptive Generation of Structured Chains-of-Thought for Efficient Multimodal Reasoning](cards.md#paper-reagen) | 如不改基座，可用教师离线搜索结构化推理流程，让轻模型在推理时生成。 |
+| 计算机视觉 | 模型架构 | [WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories](cards.md#paper-worldstereo) | 从多轨迹生成一致场景时，将显式全局几何记忆与对应区域的局部外观记忆分开。 |
+| 多模态学习 | 训练策略 | [CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference](cards.md#paper-cofida-m) | 训练时可用语义属性引导特征调制，再让只看图像的学生蒸馏调制结果。 |
+| 计算机视觉 | 训练与数据策略 | [FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model](cards.md#paper-foundir-v2-data-equilibrium) | 统一图像恢复预训练可先估算任务数据配比对各自表现的影响，再动态重分训练份额。 |
+| 机器学习基础 | 模型架构 | [Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis](cards.md#paper-eckconv-coordinate-equivariant-kernels) | 点云卷积需要严格 SE(3) 等变时，用坐标网络参数化双陪集上的等变核。 |
+| 多模态学习 | 评测与分析 | [SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning](cards.md#paper-salmubench-association-unlearning) | 验证多模态遗忘时拆分具体身份—属性关联、未见身份和应保留邻近关联。 |
+| 多模态学习 | 损失函数与优化 | [Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning](cards.md#paper-dense-video-role-specific-queries) | 视频事件定位和描述可分别用角色查询，并监督二者对齐和区间去重。 |
+| 多模态学习 | 模型架构 | [Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](cards.md#paper-group-diffusion-cross-sample-attention) | 重复采样可比较样本间注意力协作，避免默认批中每张图独立去噪。 |
+| 计算机视觉 | 表示学习 | [MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer](cards.md#paper-more-motion-aware-reconstruction) | 动态重建要稳定估相机时，可通过注意力监督区分随视图一致的结构和独立运动。 |

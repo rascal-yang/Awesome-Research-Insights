@@ -657,5 +657,8 @@ Model-wide design and information flow.
 - [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](../../conferences/cvpr-2026/cards.md#paper-mergevla)
 - [HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling](../../conferences/cvpr-2026/cards.md#paper-hieramamba)
 - [UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression](../../conferences/cvpr-2026/cards.md#paper-unimmad-expert-feature-decompression)
+- [WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories](../../conferences/cvpr-2026/cards.md#paper-worldstereo)
+- [Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis](../../conferences/cvpr-2026/cards.md#paper-eckconv-coordinate-equivariant-kernels)
+- [Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](../../conferences/cvpr-2026/cards.md#paper-group-diffusion-cross-sample-attention)
 
 <!-- conference-classification:end -->

@@ -821,5 +821,6 @@
 - [DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](../../conferences/cvpr-2026/cards.md#paper-dpar-entropy-dynamic-visual-token-patches)
 - [LazyVAR: Accelerating Visual Autoregressive Models via Scale-wise Token Pruning and Parallel Group Decoding](../../conferences/cvpr-2026/cards.md#paper-lazyvar-parallel-adjacent-scale-decoding)
 - [DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching](../../conferences/cvpr-2026/cards.md#paper-disca-distillation-compatible-video-feature-cache)
+- [D2Cache: Second-Order Delta Caching for Higher Video Diffusion Acceleration](../../conferences/cvpr-2026/cards.md#paper-d2cache-second-difference-video-cache)
 
 <!-- conference-classification:end -->

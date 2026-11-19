@@ -1528,5 +1528,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens](../../conferences/cvpr-2026/cards.md#paper-scemos-geometry-tokens)
 - [SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](../../conferences/cvpr-2026/cards.md#paper-symphomotion-camera-object-control)
 - [Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention](../../conferences/cvpr-2026/cards.md#paper-vision-guided-attention-coverage)
+- [M3DocDep: Multi-modal, Multi-page, Multi-document Dependency Chunking with Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-m3docdep-dependency-tree-before-rag-chunking)
+- [Content-Aware Dynamic Patchification for Efficient Video Diffusion](../../conferences/cvpr-2026/cards.md#paper-dynapatch)
+- [Object-WIPER: Training-Free Object and Associated Effect Removal in Videos](../../conferences/cvpr-2026/cards.md#paper-object-wiper)
+- [EarlyTom: Early Token Compression Completes Fast Video Understanding](../../conferences/cvpr-2026/cards.md#paper-earlytom)
+- [ReaGEN: Adaptive Generation of Structured Chains-of-Thought for Efficient Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-reagen)
 
 <!-- conference-classification:end -->

@@ -1344,5 +1344,11 @@
 - [Scaling Up AI-Generated Image Detection with Generator-Aware Prototypes](../conferences/cvpr-2026/cards.md#paper-gapl-diverse-source-detector-prototypes)
 - [Measure The Feature Universe: Topology-based Pseudo Labeling and Gravity Consistency for Source-Free Domain Adaptation](../conferences/cvpr-2026/cards.md#paper-feature-universe-source-free-adaptation)
 - [Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection](../conferences/cvpr-2026/cards.md#paper-dgs-cross-domain-incremental-detection)
+- [Deformation-based In-Context Learning for Point Cloud Understanding](../conferences/cvpr-2026/cards.md#paper-deformpic-query-deformation-point-cloud-icl)
+- [Differentiable Laplacian Matrix Guided Superpixel Segmentation](../conferences/cvpr-2026/cards.md#paper-differentiable-graph-laplacian-superpixel-connectivity)
+- [Object-WIPER: Training-Free Object and Associated Effect Removal in Videos](../conferences/cvpr-2026/cards.md#paper-object-wiper)
+- [WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories](../conferences/cvpr-2026/cards.md#paper-worldstereo)
+- [FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model](../conferences/cvpr-2026/cards.md#paper-foundir-v2-data-equilibrium)
+- [MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer](../conferences/cvpr-2026/cards.md#paper-more-motion-aware-reconstruction)
 
 <!-- conference-classification:end -->

@@ -446,5 +446,8 @@ Objectives, auxiliary supervision, and regularization.
 - [SparseOIT: Improving Order-Independent Transparency 3DGS via Active Set Method](../../conferences/cvpr-2026/cards.md#paper-sparseoit-active-set)
 - [SpeeDiff: Scalable Pixel-Anchored End-to-End Latent Diffusion Model](../../conferences/cvpr-2026/cards.md#paper-speediff-pixel-anchored-joint-latent-training)
 - [Real-Time Dynamic Scene Rendering with Controlled Compressibility and Contact Awareness](../../conferences/cvpr-2026/cards.md#paper-dynamic-gaussian-velocity-projection)
+- [StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues](../../conferences/cvpr-2026/cards.md#paper-structxlip-structure-aware-contrastive-retrieval)
+- [Differentiable Laplacian Matrix Guided Superpixel Segmentation](../../conferences/cvpr-2026/cards.md#paper-differentiable-graph-laplacian-superpixel-connectivity)
+- [Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning](../../conferences/cvpr-2026/cards.md#paper-dense-video-role-specific-queries)
 
 <!-- conference-classification:end -->

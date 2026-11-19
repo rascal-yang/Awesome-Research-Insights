@@ -1118,5 +1118,6 @@ Training schedules, curricula, and task or stage composition.
 - [Reframing Long-Tailed Learning via Loss Landscape Geometry](../../conferences/cvpr-2026/cards.md#paper-grouped-sharpness-long-tail-training)
 - [Measure The Feature Universe: Topology-based Pseudo Labeling and Gravity Consistency for Source-Free Domain Adaptation](../../conferences/cvpr-2026/cards.md#paper-feature-universe-source-free-adaptation)
 - [Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection](../../conferences/cvpr-2026/cards.md#paper-dgs-cross-domain-incremental-detection)
+- [CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference](../../conferences/cvpr-2026/cards.md#paper-cofida-m)
 
 <!-- conference-classification:end -->

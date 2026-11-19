@@ -2463,5 +2463,8 @@ General learning methods, optimization, learning theory, and inference.
 - [Reframing Long-Tailed Learning via Loss Landscape Geometry](../../conferences/cvpr-2026/cards.md#paper-grouped-sharpness-long-tail-training)
 - [Precise Object and Effect Removal with Adaptive Target-Aware Attention](../../conferences/cvpr-2026/cards.md#paper-objectclear-effect-aware-diffusion-compositing)
 - [UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression](../../conferences/cvpr-2026/cards.md#paper-unimmad-expert-feature-decompression)
+- [D2Cache: Second-Order Delta Caching for Higher Video Diffusion Acceleration](../../conferences/cvpr-2026/cards.md#paper-d2cache-second-difference-video-cache)
+- [PoseAnything: General Pose-guided Video Generation with Part-aware Temporal Coherence](../../conferences/cvpr-2026/cards.md#paper-poseanything-part-matched-temporal-coherence)
+- [Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis](../../conferences/cvpr-2026/cards.md#paper-eckconv-coordinate-equivariant-kernels)
 
 <!-- conference-classification:end -->

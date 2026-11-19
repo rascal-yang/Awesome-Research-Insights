@@ -1532,5 +1532,6 @@
 - [TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection](../conferences/cvpr-2026/cards.md#paper-tridf-explanation-audit)
 - [Re-evaluating Continual VQA: Toward Fair and Robust Evaluation for Multimodal Continual Learning](../conferences/cvpr-2026/cards.md#paper-uco-vqa-evaluation)
 - [Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation](../conferences/cvpr-2026/cards.md#paper-eagle-autoregressive-token-attribution)
+- [SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning](../conferences/cvpr-2026/cards.md#paper-salmubench-association-unlearning)
 
 <!-- conference-classification:end -->
