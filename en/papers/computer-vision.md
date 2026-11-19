@@ -1322,5 +1322,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [Deep Feature Deformation Weights](../../conferences/cvpr-2026/cards.md#paper-deep-feature-deformation-weights)
 - [ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders](../../conferences/cvpr-2026/cards.md#paper-elic-cross-bit-depth-propagation)
 - [Learning Differentiable Hierarchies in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-differentiable-gaussian-lod)
+- [AnchorSplat: Feed-Forward 3D Gaussian Splatting With 3D Geometric Priors](../../conferences/cvpr-2026/cards.md#paper-anchorsplat)
+- [Align Images Before You Generate](../../conferences/cvpr-2026/cards.md#paper-corradapter)
+- [CoSMo3D: Open-World Promptable 3D Semantic Segmentation through LLM-Guided Canonical Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-cosmo3d)
+- [Stabilizing Streaming Video Geometry via Dynamic Feature Normalization](../../conferences/cvpr-2026/cards.md#paper-dyfn-streaming-geometry)
+- [SparseOIT: Improving Order-Independent Transparency 3DGS via Active Set Method](../../conferences/cvpr-2026/cards.md#paper-sparseoit-active-set)
 
 <!-- conference-classification:end -->

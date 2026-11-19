@@ -680,5 +680,10 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Deep Feature Deformation Weights](../../conferences/cvpr-2026/cards.md#paper-deep-feature-deformation-weights)
 - [PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation](../../conferences/cvpr-2026/cards.md#paper-physgs-bayesian-properties)
 - [Learning Differentiable Hierarchies in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-differentiable-gaussian-lod)
+- [Multi-speaker Attention Alignment for Multimodal Social Interaction](../../conferences/cvpr-2026/cards.md#paper-speaker-consistent-video-text-attention)
+- [Video Generation with Stable Transparency via Shiftable RGB-A Distribution Learner](../../conferences/cvpr-2026/cards.md#paper-rgba-alpha-specific-latent-and-noise-distributions)
+- [Lenses: Toward Polysemous Vision-Language Understanding](../../conferences/cvpr-2026/cards.md#paper-lenses-category-slots-for-image-polysemy)
+- [AnchorSplat: Feed-Forward 3D Gaussian Splatting With 3D Geometric Priors](../../conferences/cvpr-2026/cards.md#paper-anchorsplat)
+- [CoSMo3D: Open-World Promptable 3D Semantic Segmentation through LLM-Guided Canonical Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-cosmo3d)
 
 <!-- conference-classification:end -->

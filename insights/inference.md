@@ -1513,5 +1513,7 @@
 - [Taming Video Models for 3D and 4D Generation via Zero-Shot Camera Control](../conferences/cvpr-2026/cards.md#paper-worldforge-intrastep-camera-motion-refinement)
 - [ELiC: Efficient LiDAR Geometry Compression via Cross-Bit-depth Feature Propagation and Bag-of-Encoders](../conferences/cvpr-2026/cards.md#paper-elic-cross-bit-depth-propagation)
 - [GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion](../conferences/cvpr-2026/cards.md#paper-graspldp-grasp-priors)
+- [Stabilizing Streaming Video Geometry via Dynamic Feature Normalization](../conferences/cvpr-2026/cards.md#paper-dyfn-streaming-geometry)
+- [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-fantasyvln-latent-navigation-reasoning)
 
 <!-- conference-classification:end -->

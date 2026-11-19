@@ -1235,5 +1235,11 @@ Learning across modalities such as images, text, audio, and video.
 - [Phrase-Grounding-Aware Supervised Fine-Tuning for Chart Recognition via Side-Masked Attention](../../conferences/cvpr-2026/cards.md#paper-smam-phrase-grounded-logits)
 - [Nonparametric Deep Fine-grained Clustering with Low-Rank Guided Vision-Language Model](../../conferences/cvpr-2026/cards.md#paper-nonparametric-vlm-fine-clustering)
 - [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](../../conferences/cvpr-2026/cards.md#paper-dcrl-wide-baseline-curriculum)
+- [Multi-speaker Attention Alignment for Multimodal Social Interaction](../../conferences/cvpr-2026/cards.md#paper-speaker-consistent-video-text-attention)
+- [Lenses: Toward Polysemous Vision-Language Understanding](../../conferences/cvpr-2026/cards.md#paper-lenses-category-slots-for-image-polysemy)
+- [Circular-DPO: Aligning Multi-Stage 3D Generative Models via Preference Feedback Loop](../../conferences/cvpr-2026/cards.md#paper-circular-dpo)
+- [Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](../../conferences/cvpr-2026/cards.md#paper-cinema-structured-visual-meta-actions)
+- [ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Video Understanding](../../conferences/cvpr-2026/cards.md#paper-elv-halluc-semantic-aggregation)
+- [M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](../../conferences/cvpr-2026/cards.md#paper-m4-rag-model-scale-diagnostics)
 
 <!-- conference-classification:end -->

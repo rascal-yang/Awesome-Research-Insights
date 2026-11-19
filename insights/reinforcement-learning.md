@@ -784,5 +784,6 @@
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](../conferences/cvpr-2026/cards.md#paper-spacetools-dirl)
 - [Stable and Efficient Single-Rollout RL for Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-mssr-entropy-advantage)
 - [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](../conferences/cvpr-2026/cards.md#paper-dcrl-wide-baseline-curriculum)
+- [Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](../conferences/cvpr-2026/cards.md#paper-cinema-structured-visual-meta-actions)
 
 <!-- conference-classification:end -->

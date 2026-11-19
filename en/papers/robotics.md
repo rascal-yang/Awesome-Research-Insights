@@ -972,5 +972,7 @@ Robot perception, policy learning, planning, and control.
 - [From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-sfi-bench-spatial-functional-diagnostics)
 - [PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation](../../conferences/cvpr-2026/cards.md#paper-physgs-bayesian-properties)
 - [GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion](../../conferences/cvpr-2026/cards.md#paper-graspldp-grasp-priors)
+- [Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction](../../conferences/cvpr-2026/cards.md#paper-progressive-retrospective-trajectory)
+- [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-and-Language Navigation](../../conferences/cvpr-2026/cards.md#paper-fantasyvln-latent-navigation-reasoning)
 
 <!-- conference-classification:end -->

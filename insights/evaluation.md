@@ -1519,5 +1519,9 @@
 - [Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models](../conferences/cvpr-2026/cards.md#paper-multimodal-cot-divergent-hallucination)
 - [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](../conferences/cvpr-2026/cards.md#paper-blackmirror-instruction-response-audit)
 - [From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs](../conferences/cvpr-2026/cards.md#paper-sfi-bench-spatial-functional-diagnostics)
+- [Attention, May I Have Your Decision? Localizing Generative Choices in Diffusion Models](../conferences/cvpr-2026/cards.md#paper-implicit-diffusion-decisions-self-attention-localization)
+- [ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Video Understanding](../conferences/cvpr-2026/cards.md#paper-elv-halluc-semantic-aggregation)
+- [Select, Hypothesize and Verify: Towards Verified Neuron Concept Interpretation](../conferences/cvpr-2026/cards.md#paper-verified-neuron-concepts)
+- [M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](../conferences/cvpr-2026/cards.md#paper-m4-rag-model-scale-diagnostics)
 
 <!-- conference-classification:end -->

@@ -649,5 +649,6 @@
 - [Premier: Personalized Preference Modulation with Learnable User Embedding in Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-premier-user-preference)
 - [NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather](../conferences/cvpr-2026/cards.md#paper-nimbusgs-hybrid-weather)
 - [Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling](../conferences/cvpr-2026/cards.md#paper-cluster-aware-upcycling)
+- [Align Images Before You Generate](../conferences/cvpr-2026/cards.md#paper-corradapter)
 
 <!-- conference-classification:end -->

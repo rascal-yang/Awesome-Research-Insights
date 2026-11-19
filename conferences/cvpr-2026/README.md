@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,767 篇，其中 1,114 篇暂收录、653 篇排除，另有 2,275 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,797 篇，其中 1,133 篇暂收录、664 篇排除，另有 2,245 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1120,3 +1120,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,767
 | 多模态学习 | 强化学习 | [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](cards.md#paper-dcrl-wide-baseline-curriculum) | 训练空间对应时按基线视角差和点级难度分配课程，使用已知对应作可验证奖励。 |
 | 计算机视觉 | 表示学习 | [Learning Differentiable Hierarchies in 3D Gaussian Splatting](cards.md#paper-differentiable-gaussian-lod) | 若需在不同容量下部署三维场景，可直接学习图元贡献排序，让训练覆盖从低到高预算。 |
 | 机器人学 | 条件生成 | [GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion](cards.md#paper-graspldp-grasp-priors) | 扩散动作生成可同时条件化可行抓姿和抓取位置的视觉重建，分别约束轨迹与局部几何。 |
+| 生成模型 | 评估与诊断 | [Attention, May I Have Your Decision? Localizing Generative Choices in Diffusion Models](cards.md#paper-implicit-diffusion-decisions-self-attention-localization) | 扩散模型的隐含属性决策可先用探针定位，再比较自注意和跨注意干预。见表 2。 |
+| 多模态学习 | 表征学习 | [Multi-speaker Attention Alignment for Multimodal Social Interaction](cards.md#paper-speaker-consistent-video-text-attention) | 多人视频问答可明确把说话位置与对白绑定，再与同样提供说话框的骨干比较。见表 2。 |
+| 机器学习 | 训练策略 | [Few-for-Many Personalized Federated Learning](cards.md#paper-fedfew-pareto-model-bank-for-heterogeneous-clients) | 客户端很多时可先训练少量不同权衡的共享模型，衡量分配后的均值、最差客户端和服务器存储。见表 1。 |
+| 生成模型 | 表征学习 | [Video Generation with Stable Transparency via Shiftable RGB-A Distribution Learner](cards.md#paper-rgba-alpha-specific-latent-and-noise-distributions) | 若生成目标对不同通道有不同语义，可单独调整辅助通道的潜变量及噪声分布，并检查主通道是否退化。见表 3。 |
+| 多模态学习 | 表征学习 | [Lenses: Toward Polysemous Vision-Language Understanding](cards.md#paper-lenses-category-slots-for-image-polysemy) | 同图有不同语义解释时，可以保留分视角的嵌入槽，而非压成单描述，再单测每个解释视角。见表 3。 |
+| 机器学习 | 模型融合 | [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](cards.md#paper-tara-merging-subspace-coverage-anisotropy) | 融合多个低秩适配器需要检查合并子空间是否覆盖各任务，以及每个方向的贡献是否失衡。见表 3。 |
+| 计算机视觉 | 表示学习 | [AnchorSplat: Feed-Forward 3D Gaussian Splatting With 3D Geometric Priors](cards.md#paper-anchorsplat) | 视角数量增长时用三维锚生成高斯，防止表征规模跟每视图像素线性绑定。 |
+| 多模态学习 | 训练策略 | [Circular-DPO: Aligning Multi-Stage 3D Generative Models via Preference Feedback Loop](cards.md#paper-circular-dpo) | 多阶段生成被不可微步骤隔开时，用后阶段偏好优化后的输出重构前阶段偏好样本。 |
+| 计算机视觉 | 模型架构 | [Align Images Before You Generate](cards.md#paper-corradapter) | 先在生成模型中寻找区域匹配，再对匹配处传递特征，避免用全图平均强行做一致。 |
+| 机器人学 | 训练策略 | [Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction](cards.md#paper-progressive-retrospective-trajectory) | 历史长度不稳定的预测任务可用渐进回溯恢复中间表征，再从完整观测教师蒸馏。 |
+| 计算机视觉 | 表示学习 | [CoSMo3D: Open-World Promptable 3D Semantic Segmentation through LLM-Guided Canonical Spatial Modeling](cards.md#paper-cosmo3d) | 开放式部件分割可比较传感器坐标与对象统一坐标，利用功能位置而非绝对朝向。 |
+| 计算机视觉 | 测试时适应与推理 | [Stabilizing Streaming Video Geometry via Dynamic Feature Normalization](cards.md#paper-dyfn-streaming-geometry) | 视频深度比例和平移漂移时，先测中间特征均值和方差，优先用因果归一化缓解。 |
+| 机器学习基础与统计 | 优化策略 | [Learning to Solve PDEs on Neural Shape Representations](cards.md#paper-pde-neural-shape) | 输入是神经隐式形状时，可验证基于局部形状特征的网格无关 PDE 更新。 |
+| 机器人学 | 推理优化 | [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-and-Language Navigation](cards.md#paper-fantasyvln-latent-navigation-reasoning) | 导航训练可引入压缩的视觉想象表征，部署时避免显式解码想象帧。 |
+| 多模态学习 | 强化学习 | [Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](cards.md#paper-cinema-structured-visual-meta-actions) | 多图推理可显式区分全局扫视、局部聚焦和证据提示，再安排探索与利用阶段。 |
+| 多模态学习 | 评测与分析 | [ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Video Understanding](cards.md#paper-elv-halluc-semantic-aggregation) | 视频幻觉诊断先确认帧级事实，再测跨事件合并是否错误。 |
+| 机器学习基础 | 可解释性与诊断 | [Select, Hypothesize and Verify: Towards Verified Neuron Concept Interpretation](cards.md#paper-verified-neuron-concepts) | 为神经元生成概念解释后，独立测该概念能否诱发目标激活，并允许没有可信概念。 |
+| 多模态学习 | 评测与分析 | [M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](cards.md#paper-m4-rag-model-scale-diagnostics) | 是否为多语视觉问答开启检索应按模型规模、语言和证据质量实测，允许跳过。 |
+| 计算机视觉 | 损失函数与优化 | [SparseOIT: Improving Order-Independent Transparency 3DGS via Active Set Method](cards.md#paper-sparseoit-active-set) | 改用透明度渲染近似后重新测变量依赖；依赖稀疏时只优化活跃图元。 |

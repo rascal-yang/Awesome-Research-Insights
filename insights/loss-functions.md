@@ -443,5 +443,6 @@
 - [ManifoldNeuS: Manifold-aware View Optimizability for Pose-Free Neural Surface Reconstruction](../conferences/cvpr-2026/cards.md#paper-manifoldneus-view-optimizability)
 - [CUE: Concept-Aware Multi-Label Expansion to Mitigate Concept Confusion in Long-Tailed Learning](../conferences/cvpr-2026/cards.md#paper-cue-long-tail)
 - [Phrase-Grounding-Aware Supervised Fine-Tuning for Chart Recognition via Side-Masked Attention](../conferences/cvpr-2026/cards.md#paper-smam-phrase-grounded-logits)
+- [SparseOIT: Improving Order-Independent Transparency 3DGS via Active Set Method](../conferences/cvpr-2026/cards.md#paper-sparseoit-active-set)
 
 <!-- conference-classification:end -->

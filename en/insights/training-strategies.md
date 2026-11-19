@@ -1107,5 +1107,8 @@ Training schedules, curricula, and task or stage composition.
 - [TrackMAE: Video Representation Learning via Track Mask and Predict](../../conferences/cvpr-2026/cards.md#paper-trackmae-trajectory-targets-for-masked-video-modeling)
 - [Spectral Mixture-of-Experts for Continual Learning](../../conferences/cvpr-2026/cards.md#paper-spectral-moe-disjoint-expert-updates)
 - [Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors](../../conferences/cvpr-2026/cards.md#paper-tranclr)
+- [Few-for-Many Personalized Federated Learning](../../conferences/cvpr-2026/cards.md#paper-fedfew-pareto-model-bank-for-heterogeneous-clients)
+- [Circular-DPO: Aligning Multi-Stage 3D Generative Models via Preference Feedback Loop](../../conferences/cvpr-2026/cards.md#paper-circular-dpo)
+- [Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction](../../conferences/cvpr-2026/cards.md#paper-progressive-retrospective-trajectory)
 
 <!-- conference-classification:end -->

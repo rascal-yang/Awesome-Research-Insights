@@ -688,5 +688,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Lens Component Deletion based on Differentiable Ray Tracing](../../conferences/cvpr-2026/cards.md#paper-lens-component-deletion)
 - [Fast Markov Random Field Optimisation for Topologically Noisy 3D Shape Matching](../../conferences/cvpr-2026/cards.md#paper-affine-alpha-expansion-shape)
 - [PrivSynth: Alternating and Control-Based Optimization for Privacy and Utility in Synthetic Data](../../conferences/cvpr-2026/cards.md#paper-privsynth)
+- [Learning to Solve PDEs on Neural Shape Representations](../../conferences/cvpr-2026/cards.md#paper-pde-neural-shape)
 
 <!-- conference-classification:end -->

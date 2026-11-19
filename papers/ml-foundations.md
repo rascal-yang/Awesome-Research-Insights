@@ -2446,5 +2446,11 @@
 - [Spectral Mixture-of-Experts for Continual Learning](../conferences/cvpr-2026/cards.md#paper-spectral-moe-disjoint-expert-updates)
 - [PrivSynth: Alternating and Control-Based Optimization for Privacy and Utility in Synthetic Data](../conferences/cvpr-2026/cards.md#paper-privsynth)
 - [Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling](../conferences/cvpr-2026/cards.md#paper-cluster-aware-upcycling)
+- [Attention, May I Have Your Decision? Localizing Generative Choices in Diffusion Models](../conferences/cvpr-2026/cards.md#paper-implicit-diffusion-decisions-self-attention-localization)
+- [Few-for-Many Personalized Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedfew-pareto-model-bank-for-heterogeneous-clients)
+- [Video Generation with Stable Transparency via Shiftable RGB-A Distribution Learner](../conferences/cvpr-2026/cards.md#paper-rgba-alpha-specific-latent-and-noise-distributions)
+- [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](../conferences/cvpr-2026/cards.md#paper-tara-merging-subspace-coverage-anisotropy)
+- [Learning to Solve PDEs on Neural Shape Representations](../conferences/cvpr-2026/cards.md#paper-pde-neural-shape)
+- [Select, Hypothesize and Verify: Towards Verified Neuron Concept Interpretation](../conferences/cvpr-2026/cards.md#paper-verified-neuron-concepts)
 
 <!-- conference-classification:end -->
