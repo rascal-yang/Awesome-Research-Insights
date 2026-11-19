@@ -1197,5 +1197,8 @@ Training schedules, curricula, and task or stage composition.
 - [Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-video-diffusion-goal-reward)
 - [Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination](../../conferences/cvpr-2026/cards.md#paper-geoid-lidar-test-time)
 - [Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats](../../conferences/cvpr-2026/cards.md#paper-few-shot-continual-mixture-prototype-replay)
+- [Mirai: Autoregressive Visual Generation Needs Foresight](../../conferences/cvpr-2026/cards.md#paper-spatial-foresight-autoregressive-generation)
+- [Factorized Context Aggregation for Robust Cancer Risk Estimation via Soft Re-Ranked Retrieval and Hierarchical Anchors](../../conferences/cvpr-2026/cards.md#paper-factorized-privileged-modality)
+- [MM-ACT: Learn from Multimodal Parallel Generation to Act](../../conferences/cvpr-2026/cards.md#paper-mm-act-shared-context-parallel-decoding)
 
 <!-- conference-classification:end -->

@@ -477,5 +477,7 @@
 - [ORION: ORthonormal Text Encoding for Universal VLM AdaptatION](../conferences/cvpr-2026/cards.md#paper-orion-text-prototypes)
 - [MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene](../conferences/cvpr-2026/cards.md#paper-mu-generf)
 - [LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization](../conferences/cvpr-2026/cards.md#paper-leader-truncated-relative-reliability)
+- [Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks](../conferences/cvpr-2026/cards.md#paper-stable-spike-consistency)
+- [Selfi: Self-improving Reconstruction Engine via 3D Geometric Feature Alignment](../conferences/cvpr-2026/cards.md#paper-selfi-geometric-alignment)
 
 <!-- conference-classification:end -->

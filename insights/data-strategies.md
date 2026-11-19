@@ -436,5 +436,6 @@
 - [Style-GRPO: Semantic-Aware Preference Optimization for Image Style Transfer Guided by Reward Modeling](../conferences/cvpr-2026/cards.md#paper-targeted-style-preference-pairs)
 - [Watch and Learn: Learning to Use Computers from Online Videos](../conferences/cvpr-2026/cards.md#paper-inverse-dynamics-ui-demonstrations)
 - [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-early-conditioning-dataset-distillation)
+- [What's Wrong with Synthetic Data for Scene Text Recognition? A Strong Synthetic Engine with Diverse Simulations and Self-Evolution](../conferences/cvpr-2026/cards.md#paper-factorized-synthetic-real-data-gap)
 
 <!-- conference-classification:end -->

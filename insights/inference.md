@@ -1603,5 +1603,10 @@
 - [Zoo3D: Zero-Shot 3D Object Detection at Scene Level](../conferences/cvpr-2026/cards.md#paper-multiview-mask-consensus-zero-shot-3d)
 - [GeniNav: Generative Model Driven Image-Goal Navigation via Imagination-Guided Consistency Flow Matching](../conferences/cvpr-2026/cards.md#paper-subgoal-and-consistent-trajectory-ranking)
 - [Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](../conferences/cvpr-2026/cards.md#paper-sparse-lavida)
+- [SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-simulation-in-loop-vlm-action-ranking)
+- [HierUQ: Hierarchical Uncertainty Quantification with Adaptive Granularity Reconciliation for Degraded Image Classification](../conferences/cvpr-2026/cards.md#paper-uncertainty-triggered-hierarchy-backoff)
+- [Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models](../conferences/cvpr-2026/cards.md#paper-aot-video-token-reduction)
+- [Match-and-Fuse: Consistent Generation from Unstructured Image Sets](../conferences/cvpr-2026/cards.md#paper-match-and-fuse)
+- [tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-tttlrm-streaming-3d-fast-weights)
 
 <!-- conference-classification:end -->

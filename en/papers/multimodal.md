@@ -1401,5 +1401,10 @@ Learning across modalities such as images, text, audio, and video.
 - [VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-vqrae-unified-tokenizer)
 - [Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](../../conferences/cvpr-2026/cards.md#paper-sparse-lavida)
 - [SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-spatialqa-content-precondition-evaluation)
+- [Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection](../../conferences/cvpr-2026/cards.md#paper-frequency-coherence-shared-private-fusion)
+- [Factorized Context Aggregation for Robust Cancer Risk Estimation via Soft Re-Ranked Retrieval and Hierarchical Anchors](../../conferences/cvpr-2026/cards.md#paper-factorized-privileged-modality)
+- [Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models](../../conferences/cvpr-2026/cards.md#paper-aot-video-token-reduction)
+- [OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging](../../conferences/cvpr-2026/cards.md#paper-omnifm-low-frequency-global-knowledge)
+- [Rethinking Cross-Modal Anchor Alignment for Mitigating Error Accumulation](../../conferences/cvpr-2026/cards.md#paper-gsl-geometric-cross-modal-anchor-correction)
 
 <!-- conference-classification:end -->

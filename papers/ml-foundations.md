@@ -2514,5 +2514,9 @@
 - [Reparameterized Tensor Ring Functional Decomposition for Multi-Dimensional Data Recovery](../conferences/cvpr-2026/cards.md#paper-reptrfd)
 - [Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score](../conferences/cvpr-2026/cards.md#paper-semicp-nearest-neighbor)
 - [Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats](../conferences/cvpr-2026/cards.md#paper-few-shot-continual-mixture-prototype-replay)
+- [Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift](../conferences/cvpr-2026/cards.md#paper-uncertainty-feature-drift-learning-rate)
+- [Spatiotemporal Pyramid Flow Matching for Climate Emulation](../conferences/cvpr-2026/cards.md#paper-spatiotemporal-pyramid-flow)
+- [Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks](../conferences/cvpr-2026/cards.md#paper-stable-spike-consistency)
+- [Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage](../conferences/cvpr-2026/cards.md#paper-instance-schedules-james-stein-reinforce)
 
 <!-- conference-classification:end -->

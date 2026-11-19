@@ -23641,3 +23641,258 @@
 - **适用条件 / 局限** · 回放有效性取决于原型对历史域的覆盖；未见域或偏置累积时需独立评估。
 
 **可复用机制** · 阶段样本很少时以混合分布回放特征，并平衡旧域保留和新域适应。
+
+<a id="paper-spatial-foresight-autoregressive-generation"></a>
+
+## Mirai: Autoregressive Visual Generation Needs Foresight
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Mirai_Autoregressive_Visual_Generation_Needs_Foresight_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Mirai_Autoregressive_Visual_Generation_Needs_Foresight_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只预测紧邻下一个 token 时，训练约束容易集中于局部，难以维持整图一致性。
+- **核心创新 / 方法** · 在中间层对齐二维位置相关的未来信息，显式版本利用未来 token，隐式版本通过视觉教师提供信号。
+- **Baseline** · 基于 LlamaGen，对比原模型、未来信息注入层和布局，也比较 DINOv2、DINOv3 等教师。
+- **Benchmark** · ImageNet 256×256 生成，比较不同模型大小及训练轮数下的 FID 等指标。
+- **关键结果 / 消融** · 注入层和空间布局消融支持中间层、二维结构化监督，相应训练改动无额外推理步骤。
+- **适用条件 / 局限** · 证据来自固定分辨率图像，自然迁移至视频时需要重新定义空间和时间位置。
+
+**可复用机制** · 可在训练阶段把图像网格中后续位置的信息监督到自回归模型的中间表征。
+
+<a id="paper-simulation-in-loop-vlm-action-ranking"></a>
+
+## SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_SIMPACT_Simulation-Enabled_Action_Planning_using_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_SIMPACT_Simulation-Enabled_Action_Planning_using_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅靠静态图文先验，难判断推、转或堆叠对几何和物体稳定性的影响。
+- **核心创新 / 方法** · 根据 RGB-D 输入构造场景仿真，令视觉语言模型提出动作并查看虚拟执行结果后再选择。
+- **Baseline** · 对比 π0.5、VoxPoser、MOKA，消融仿真规划模块。
+- **Benchmark** · 七项操作任务，每方法每项 10 次，按各任务的物理达成条件计算成功率。
+- **关键结果 / 消融** · 防倾倒推动和叠碗分别为 80% 和 60%，三个基线在这两项最高分别为 0% 和 20%。
+- **适用条件 / 局限** · 依赖场景重建、仿真保真度和可执行动作接口，单项试验次数较少。
+
+**可复用机制** · 当视觉语言模型缺少动作后果知识时，可在执行前用物理仿真比较备选方案。
+
+<a id="paper-factorized-synthetic-real-data-gap"></a>
+
+## What's Wrong with Synthetic Data for Scene Text Recognition? A Strong Synthetic Engine with Diverse Simulations and Self-Evolution
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ye_Whats_Wrong_with_Synthetic_Data_for_Scene_Text_Recognition_A_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Whats_Wrong_with_Synthetic_Data_for_Scene_Text_Recognition_A_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 合成 OCR 数据便宜且标签准确，但从真实图像迁移的效果较弱。
+- **核心创新 / 方法** · 定位现有渲染数据在语料、字体和布局上的覆盖缺口，用 UnionST 针对困难组合生成样本，再纳入真实图像伪标签。
+- **Baseline** · 比较既有 STR 渲染引擎和不同识别模型在统一合成训练规模下的表现。
+- **Benchmark** · 用 500 万样本的 UnionST-S 等设置训练场景文字识别器，比较真实图像任务的识别准确率。
+- **关键结果 / 消融** · 正文表 2 报告相同量级合成数据训练的多模型结果，支持覆盖因素影响真实域识别。
+- **适用条件 / 局限** · 结论直接验证于 OCR，换领域时需要重新定义可控生成因素。
+
+**可复用机制** · 合成数据迁移不足时，可逐因素诊断语料、样式和布局覆盖度，再补采困难组合。
+
+<a id="paper-uncertainty-feature-drift-learning-rate"></a>
+
+## Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Park_Fed-ADE_Adaptive_Learning_Rate_for_Federated_Post-adaptation_under_Distribution_Shift_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Park_Fed-ADE_Adaptive_Learning_Rate_for_Federated_Post-adaptation_under_Distribution_Shift_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 异构客户端的数据漂移程度随时间变化，固定更新率可能造成欠适配或更新不稳。
+- **核心创新 / 方法** · 将预测不确定性动态与表征动态汇合成每客户端、每一步的学习率。
+- **Baseline** · 对比不同固定学习率、Fed-POE、FedCCFA 和本地适配方法。
+- **Benchmark** · Tiny ImageNet、CIFAR-10 等在线分布转移，比较平均准确率与耗时。
+- **关键结果 / 消融** · Tiny ImageNet 线性标签转移下达到 89.1%，中等固定学习率为 88.2%。
+- **适用条件 / 局限** · 代理统计对估计漂移的准确性依赖模型置信度和特征质量。
+
+**可复用机制** · 无标签在线适配可用预测不确定性和特征漂移分别追踪变化，并按客户端动态调学习率。
+
+<a id="paper-frequency-coherence-shared-private-fusion"></a>
+
+## Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Beyond_Duality_A_Hybrid_Framework_of_Leveraging_Shared_and_Private_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Beyond_Duality_A_Hybrid_Framework_of_Leveraging_Shared_and_Private_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · RGB 提供纹理而事件流保留快速变化，直接融合可能让优势信号相互覆盖。
+- **核心创新 / 方法** · 以频域相干性和谱能量分离共有及私有特征，再通过分支编码突出互补信息。
+- **Baseline** · 以 ResNet-50 为骨干，对比已有 RGB–事件检测方法及共享与私有分支的消融。
+- **Benchmark** · DSEC-Det 和 PKU-DAVIS-SOD，报告 mAP50、mAP 和参数量。
+- **关键结果 / 消融** · 两套数据的 mAP 为 34.6 和 32.0，模型为 78.6M 参数。
+- **适用条件 / 局限** · 依赖 RGB 与事件数据对齐，正文未验证其他传感器组合。
+
+**可复用机制** · 异质传感器融合可先估计共有与模态私有成分，再分别编码互补信息。
+
+<a id="paper-uncertainty-triggered-hierarchy-backoff"></a>
+
+## HierUQ: Hierarchical Uncertainty Quantification with Adaptive Granularity Reconciliation for Degraded Image Classification
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chu_HierUQ_Hierarchical_Uncertainty_Quantification_with_Adaptive_Granularity_Reconciliation_for_Degraded_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chu_HierUQ_Hierarchical_Uncertainty_Quantification_with_Adaptive_Granularity_Reconciliation_for_Degraded_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 退化图像中要求输出细粒度类别会放大不确定性和层级错误。
+- **核心创新 / 方法** · 通过恰当评分规则校准分层不确定性，对置信不足的路径回退至更高层分类。
+- **Baseline** · 与 HMC-LMLP、HMCN 和 ViT-B 等进行比较，并提供模块消融。
+- **Benchmark** · HRSC-Deg、CUB-Deg 退化图像层级分类，测 ISDL、层级精确率与召回率等。
+- **关键结果 / 消融** · HRSC-Deg 上 ISDL 为 85.45%，HMCN 为 70.19%。
+- **适用条件 / 局限** · 需要外部类层次及可解释回退阈值，粗类预测对要求精确控制的场景可能不足。
+
+**可复用机制** · 当证据无法支持细分类时，可以依据分层校准的置信度退回更可靠的父类。
+
+<a id="paper-spatiotemporal-pyramid-flow"></a>
+
+## Spatiotemporal Pyramid Flow Matching for Climate Emulation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Irvin_Spatiotemporal_Pyramid_Flow_Matching_for_Climate_Emulation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Irvin_Spatiotemporal_Pyramid_Flow_Matching_for_Climate_Emulation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长时域模拟逐步自回归计算慢，外部条件变化时滚动误差也会积累。
+- **核心创新 / 方法** · 将流匹配划分为时空金字塔，在各层逐步提高空间分辨率、匹配相应时间尺度，并分别注入外部条件。
+- **Baseline** · 在相同 DiT 骨干下比较流匹配基线；另外比较已有气候模型和金字塔配置。
+- **Benchmark** · ClimateBench 留出 SSP2-4.5 情景，评估月度、年度生成误差及采样速度；另使用 ClimateSuite 预训练。
+- **关键结果 / 消融** · 正文报告月度和年度优于所比较流匹配基线，粗时间级采样尤其快；表2消融金字塔结构。
+- **适用条件 / 局限** · 依赖尺度间可分结构和可用外部条件，迁移至动作条件世界模型仍需验证局部快速事件的保真度。
+
+**可复用机制** · 让生成轨迹各阶段对应不同时间和空间粒度，可按所需时间尺度直接采样。
+
+<a id="paper-stable-spike-consistency"></a>
+
+## Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ding_Stable_Spike_Dual_Consistency_Optimization_via_Bitwise_AND_Operations_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ding_Stable_Spike_Dual_Consistency_Optimization_via_Bitwise_AND_Operations_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 脉冲网络在少时间步下的脉冲波动会影响稳定表征。
+- **核心创新 / 方法** · 用位与抽取稳定脉冲骨架，对齐其余时间步并施加幅度感知扰动的一致性训练。
+- **Baseline** · 比较不带该训练的脉冲网络及替代一致性函数，另跨架构消融。
+- **Benchmark** · 正文评估多架构、多数据集的神经形态物体识别，关注少步数下准确率。
+- **关键结果 / 消融** · 正文报告低延迟识别准确率最高提升 8.33%，表1、2比较函数选择与架构。
+- **适用条件 / 局限** · 跨步共有信号可能抑制短暂但有效的事件，真实功耗取决于部署平台。
+
+**可复用机制** · 提取跨步共同激活作稳定目标，再在受控扰动下约束预测一致，可指导低延迟事件模型训练。
+
+<a id="paper-factorized-privileged-modality"></a>
+
+## Factorized Context Aggregation for Robust Cancer Risk Estimation via Soft Re-Ranked Retrieval and Hierarchical Anchors
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Moghadam_Factorized_Context_Aggregation_for_Robust_Cancer_Risk_Estimation_via_Soft_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Moghadam_Factorized_Context_Aggregation_for_Robust_Cancer_Risk_Estimation_via_Soft_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多模态风险预测常默认部署时输入齐全，但额外模态在实际应用中可能缺失。
+- **核心创新 / 方法** · 用常见模态作为预测入口，训练期通过软重排检索和层级锚点吸收补充模态信息。
+- **Baseline** · 对照仅常见模态训练及全部模态可用的模型，比较不同输入缺失设置。
+- **Benchmark** · 八类癌症的生存风险估计，报告 c-index、风险分层的 p 值及风险比。
+- **关键结果 / 消融** · 正文报告相较仅病理训练方法最高提升 8%，与使用全部模态的模型差距 1.4%。
+- **适用条件 / 局限** · 原文证据来自临床预测，迁移至机器人传感器需要检验辅助模态可对齐程度及缺失机制。
+
+**可复用机制** · 部署端只保留常见传感器时，可将其他模态作为训练期信息，并按缺失比例验证性能。
+
+<a id="paper-selfi-geometric-alignment"></a>
+
+## Selfi: Self-improving Reconstruction Engine via 3D Geometric Feature Alignment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Selfi_Self-improving_Reconstruction_Engine_via_3D_Geometric_Feature_Alignment_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Deng_Selfi_Self-improving_Reconstruction_Engine_via_3D_Geometric_Feature_Alignment_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · VGGT 可从未标定图像估计几何，但中间特征缺少显式跨视图三维一致性。
+- **核心创新 / 方法** · 由自身预测构建伪几何，以重投影约束学习特征适配器，将空间相近特征对齐。
+- **Baseline** · 在 VGGT 上学习轻量适配器，与 AnySplat、WorldMirror 等前馈重建方法比较。
+- **Benchmark** · DL3DV 和 RealEstate10K 的新视角合成，以及两视图条件比较和相机姿态估计。
+- **关键结果 / 消融** · 正文报告新视角合成及位姿效果，并按输入重叠程度检验性能。
+- **适用条件 / 局限** · 伪监督随基础模型几何误差变化，低重叠和非刚体运动时需重新检验。
+
+**可复用机制** · 利用三维基础模型自身输出构造重投影监督，单独训练轻量适配器改善多视图对齐。
+
+<a id="paper-aot-video-token-reduction"></a>
+
+## Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Token_Reduction_via_Local_and_Global_Contexts_Optimization_for_Efficient_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Token_Reduction_via_Local_and_Global_Contexts_Optimization_for_Efficient_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只做帧内裁剪或在语言模型内部裁剪，难同时去除空间和时间冗余，且直接丢弃信息。
+- **核心创新 / 方法** · AOT 用注意力确定帧内锚点，以最优传输聚合邻域；片段内再用首帧锚点聚合同类令牌并保留差异令牌。
+- **Baseline** · 在 LLaVA-OneVision 及 LLaVA-Video 上与既有免训练令牌压缩方法比较。
+- **Benchmark** · MVBench、EgoSchema、LongVideoBench、VideoMME，比较问答得分及计算成本。
+- **关键结果 / 消融** · 正文表1、2分别报告两类骨干的性能，长短视频评测检验减量后的保真度。
+- **适用条件 / 局限** · 首帧做锚点时，大幅镜头切换或迅速出现的新物体可能降低聚合收益。
+
+**可复用机制** · 压缩前先将被删令牌的信息映射到锚点，并保留不同于关键帧的运动信号。
+
+<a id="paper-match-and-fuse"></a>
+
+## Match-and-Fuse: Consistent Generation from Unstructured Image Sets
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Feingold_Match-and-Fuse_Consistent_Generation_from_Unstructured_Image_Sets_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Feingold_Match-and-Fuse_Consistent_Generation_from_Unstructured_Image_Sets_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无序图像可同时共有某个主体而视角和背景不同，逐张编辑容易令共享内容变化不一致。
+- **核心创新 / 方法** · 将图像设为节点，对有对应关系的边联合生成，并用稠密对应融合中间特征以传播一致性。
+- **Baseline** · 与逐图编辑及正文列出的多图一致生成方法比较。
+- **Benchmark** · 正文测试无序图像集上的受控生成，报告一致性和视觉质量，并采用二选一人评及 VLM 比较。
+- **关键结果 / 消融** · 表1报告定量结果，表2提供人评和模型评估。
+- **适用条件 / 局限** · 依赖边具有可靠对应，遮挡、视图差异过大或图不连通会妨碍一致性传递。
+
+**可复用机制** · 以图连接共享内容的观测，用可靠对应在相邻视角的生成过程间融合特征。
+
+<a id="paper-omnifm-low-frequency-global-knowledge"></a>
+
+## OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_OmniFM_Toward_Modality-Robust_and_Task-Agnostic_Federated_Learning_for_Heterogeneous_Medical_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_OmniFM_Toward_Modality-Robust_and_Task-Agnostic_Federated_Learning_for_Heterogeneous_Medical_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 联邦训练客户端的传感器分布或任务不同，直接聚合全量参数可能混入模态特异特征。
+- **核心创新 / 方法** · 用全局频谱知识检索注入公共低频先验，并通过局部频谱建模保留客户端信息。
+- **Baseline** · 与 FedAvg、FedProx、FedPer 和仅本地训练比较。
+- **Benchmark** · 多类医学图像任务及三种异构分类设置，表 1 采用 ResNet-18，100 轮、每轮本地 5 个 epoch。
+- **关键结果 / 消融** · 正文报告在有预训练微调和从头训练两种设置下的结果，并跨分类与其他视觉任务验证。
+- **适用条件 / 局限** · 低频的跨模态稳定性来自所测成像数据，换传感器时应先检验关键细节是否在高频。
+
+**可复用机制** · 当各客户端模态不同时，检验能否先交换跨模态稳定的低频公共先验。
+
+<a id="paper-tttlrm-streaming-3d-fast-weights"></a>
+
+## tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_tttLRM_Test-Time_Training_for_Long_Context_and_Autoregressive_3D_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_tttLRM_Test-Time_Training_for_Long_Context_and_Autoregressive_3D_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全量跨视角注意力的开销随序列长度快速增加，难支持持续三维重建。
+- **核心创新 / 方法** · 用测试时训练层的快权重聚合输入图像，以在线版本随帧更新内隐表示，可解码为显式 3D 高斯。
+- **Baseline** · 从 TTT-LVSM 新视角合成预训练迁移，与全注意力等重建基线对比。
+- **Benchmark** · 包含 Objaverse 对象重建，多分辨率与多输入视图测试，比较渲染质量和推理速度。
+- **关键结果 / 消融** · 表 1 报告各测量设置下的重建对照，短低分辨率序列速度与全注意力接近，长上下文体现线性复杂度优势。
+- **适用条件 / 局限** · 快权重为有限状态，视角顺序、低重叠和长序列下的信息遗忘需要验证。
+
+**可复用机制** · 将连续多视图观测压缩进快权重，避免每次重新处理全部历史帧。
+
+<a id="paper-instance-schedules-james-stein-reinforce"></a>
+
+## Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Designing_Instance-Level_Sampling_Schedules_via_REINFORCE_with_James-Stein_Shrinkage_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Designing_Instance-Level_Sampling_Schedules_via_REINFORCE_with_James-Stein_Shrinkage_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一推理时间表无法适配不同条件，更新整个生成器代价较高。
+- **核心创新 / 方法** · 以单次 Dirichlet 策略输出逐样本采样间隔，用 REINFORCE 优化，并以 James–Stein 收缩估计构建奖励基线。
+- **Baseline** · 对比默认采样、RLOO、跨上下文 RLOO 和部分骨干上的 TPDM 式 PPO。
+- **Benchmark** · HPD2 留出提示，测 Stable Diffusion 与 Flux 系列不同步数下的 HPSv2，并检查文字与组合生成。
+- **关键结果 / 消融** · 表 1 对照多步数设置中的奖励基线，论文展示 5 步 Flux-Dev 的适配。
+- **适用条件 / 局限** · 需要提前训练调度策略，学到的日程依赖偏好奖励与所测生成骨干。
+
+**可复用机制** · 冻结生成器，按提示词和噪声学习采样时间表，并压低强化学习奖励基线的估计误差。
+
+<a id="paper-mm-act-shared-context-parallel-decoding"></a>
+
+## MM-ACT: Learn from Multimodal Parallel Generation to Act
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_MM-ACT_Learn_from_Multimodal_Parallel_Generation_to_Act_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_MM-ACT_Learn_from_Multimodal_Parallel_Generation_to_Act_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 通用策略需要语义与预测能力，但逐 token 生成控制动作会增大时延。
+- **核心创新 / 方法** · 统一三种模态的 token 空间，从同一上下文预测各模态，图文采用重新遮蔽并行生成，动作单步并行生成。
+- **Baseline** · 比较 UniVLA、π0、OpenVLA-OFT，以及加入文本辅助的自身变体。
+- **Benchmark** · LIBERO、Franka 真机和 RoboTwin2.0，测域内和域外任务成功率。
+- **关键结果 / 消融** · 表 1 中 LIBERO-Long 由基础配置的 88.0% 到文本辅助的 93.0%，总体由 95.0% 到 96.3%。
+- **适用条件 / 局限** · 文本辅助收益因任务而异，真机各任务有不同强弱，不能用仿真平均值预测所有部署结果。
+
+**可复用机制** · 用共享上下文训练图像、文本和动作生成，但给动作采用单步并行解码。
+
+<a id="paper-gsl-geometric-cross-modal-anchor-correction"></a>
+
+## Rethinking Cross-Modal Anchor Alignment for Mitigating Error Accumulation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Rethinking_Cross-Modal_Anchor_Alignment_for_Mitigating_Error_Accumulation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Rethinking_Cross-Modal_Anchor_Alignment_for_Mitigating_Error_Accumulation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 传统纠噪视清洁对为可靠锚点，忽略两个模态中锚点邻域的不同相关性。
+- **核心创新 / 方法** · 用傅里叶处理突出语义成分并抑制非关键细节，再按角度一致性重新估计软配对标签。
+- **Baseline** · 与 NCR 等噪声鲁棒跨模态匹配基线比较。
+- **Benchmark** · Flickr30K、MS-COCO，在不同配对噪声率下测图到文、文到图的 R@1/5/10。
+- **关键结果 / 消融** · 表 1 对比不同噪声等级，正文将来自清洁锚点的误差作为独立诊断对象。
+- **适用条件 / 局限** · 依赖特征域中语义和细节的可分性，高频细节决定任务语义时需复核。
+
+**可复用机制** · 清洁图文配对也可能传播错误，纠噪时应检查各自邻域几何是否一致。

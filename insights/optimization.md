@@ -699,5 +699,6 @@
 - [Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization](../conferences/cvpr-2026/cards.md#paper-pjfth-incomplete-clustering)
 - [Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment](../conferences/cvpr-2026/cards.md#paper-gsa-cross-instance)
 - [TaskIT: Memory-Efficient Fine-Tuning of Multi-LoRA LLMs via Cross-Task Importance Transfer](../conferences/cvpr-2026/cards.md#paper-budgeted-lora-module-selection)
+- [Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift](../conferences/cvpr-2026/cards.md#paper-uncertainty-feature-drift-learning-rate)
 
 <!-- conference-classification:end -->

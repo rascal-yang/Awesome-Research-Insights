@@ -720,5 +720,6 @@ Model-wide design and information flow.
 - [Reparameterized Tensor Ring Functional Decomposition for Multi-Dimensional Data Recovery](../../conferences/cvpr-2026/cards.md#paper-reptrfd)
 - [EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement](../../conferences/cvpr-2026/cards.md#paper-efficientvpr)
 - [VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-vqrae-unified-tokenizer)
+- [Spatiotemporal Pyramid Flow Matching for Climate Emulation](../../conferences/cvpr-2026/cards.md#paper-spatiotemporal-pyramid-flow)
 
 <!-- conference-classification:end -->

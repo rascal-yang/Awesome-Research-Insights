@@ -1038,5 +1038,7 @@ Robot perception, policy learning, planning, and control.
 - [Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination](../../conferences/cvpr-2026/cards.md#paper-geoid-lidar-test-time)
 - [LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization](../../conferences/cvpr-2026/cards.md#paper-leader-truncated-relative-reliability)
 - [SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](../../conferences/cvpr-2026/cards.md#paper-swiftvla-future-trained-fusion-tokens)
+- [SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-simulation-in-loop-vlm-action-ranking)
+- [MM-ACT: Learn from Multimodal Parallel Generation to Act](../../conferences/cvpr-2026/cards.md#paper-mm-act-shared-context-parallel-decoding)
 
 <!-- conference-classification:end -->

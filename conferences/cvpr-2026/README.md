@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,487 篇，其中 1,576 篇暂收录、911 篇排除，另有 1,555 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,517 篇，其中 1,593 篇暂收录、924 篇排除，另有 1,525 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1582,3 +1582,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,487
 | 机器人学 | 时空表征 | [SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](cards.md#paper-swiftvla-future-trained-fusion-tokens) | 用未来预测监督少量融合 token，并测试缺失显式 4D 输入时的策略性能。 |
 | 多模态学习 | 评测设计 | [SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](cards.md#paper-spatialqa-content-precondition-evaluation) | 把空间任务的步骤内容和前置条件分开评分，用来定位规划失败由感知还是约束引起。 |
 | 机器学习 | 持续学习 | [Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats](cards.md#paper-few-shot-continual-mixture-prototype-replay) | 阶段样本很少时以混合分布回放特征，并平衡旧域保留和新域适应。 |
+| 计算机视觉 | 训练策略 | [Mirai: Autoregressive Visual Generation Needs Foresight](cards.md#paper-spatial-foresight-autoregressive-generation) | 可在训练阶段把图像网格中后续位置的信息监督到自回归模型的中间表征。 |
+| 机器人学 | 推理策略 | [SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](cards.md#paper-simulation-in-loop-vlm-action-ranking) | 当视觉语言模型缺少动作后果知识时，可在执行前用物理仿真比较备选方案。 |
+| 计算机视觉 | 数据策略 | [What's Wrong with Synthetic Data for Scene Text Recognition? A Strong Synthetic Engine with Diverse Simulations and Self-Evolution](cards.md#paper-factorized-synthetic-real-data-gap) | 合成数据迁移不足时，可逐因素诊断语料、样式和布局覆盖度，再补采困难组合。 |
+| 机器学习基础与统计 | 优化 | [Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift](cards.md#paper-uncertainty-feature-drift-learning-rate) | 无标签在线适配可用预测不确定性和特征漂移分别追踪变化，并按客户端动态调学习率。 |
+| 多模态学习 | 表征学习 | [Beyond Duality: A Hybrid Framework of Leveraging Shared and Private Features for RGB-Event Object Detection](cards.md#paper-frequency-coherence-shared-private-fusion) | 异质传感器融合可先估计共有与模态私有成分，再分别编码互补信息。 |
+| 计算机视觉 | 推理策略 | [HierUQ: Hierarchical Uncertainty Quantification with Adaptive Granularity Reconciliation for Degraded Image Classification](cards.md#paper-uncertainty-triggered-hierarchy-backoff) | 当证据无法支持细分类时，可以依据分层校准的置信度退回更可靠的父类。 |
+| 机器学习基础与统计 | 模型架构 | [Spatiotemporal Pyramid Flow Matching for Climate Emulation](cards.md#paper-spatiotemporal-pyramid-flow) | 让生成轨迹各阶段对应不同时间和空间粒度，可按所需时间尺度直接采样。 |
+| 机器学习基础与统计 | 损失函数 | [Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks](cards.md#paper-stable-spike-consistency) | 提取跨步共同激活作稳定目标，再在受控扰动下约束预测一致，可指导低延迟事件模型训练。 |
+| 多模态学习 | 训练策略 | [Factorized Context Aggregation for Robust Cancer Risk Estimation via Soft Re-Ranked Retrieval and Hierarchical Anchors](cards.md#paper-factorized-privileged-modality) | 部署端只保留常见传感器时，可将其他模态作为训练期信息，并按缺失比例验证性能。 |
+| 计算机视觉 | 损失函数 | [Selfi: Self-improving Reconstruction Engine via 3D Geometric Feature Alignment](cards.md#paper-selfi-geometric-alignment) | 利用三维基础模型自身输出构造重投影监督，单独训练轻量适配器改善多视图对齐。 |
+| 多模态学习 | 推理策略 | [Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models](cards.md#paper-aot-video-token-reduction) | 压缩前先将被删令牌的信息映射到锚点，并保留不同于关键帧的运动信号。 |
+| 计算机视觉 | 推理策略 | [Match-and-Fuse: Consistent Generation from Unstructured Image Sets](cards.md#paper-match-and-fuse) | 以图连接共享内容的观测，用可靠对应在相邻视角的生成过程间融合特征。 |
+| 多模态学习 | 联邦学习 | [OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging](cards.md#paper-omnifm-low-frequency-global-knowledge) | 当各客户端模态不同时，检验能否先交换跨模态稳定的低频公共先验。 |
+| 三维视觉 | 测试时状态更新 | [tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](cards.md#paper-tttlrm-streaming-3d-fast-weights) | 将连续多视图观测压缩进快权重，避免每次重新处理全部历史帧。 |
+| 生成模型 | 采样与强化学习 | [Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage](cards.md#paper-instance-schedules-james-stein-reinforce) | 冻结生成器，按提示词和噪声学习采样时间表，并压低强化学习奖励基线的估计误差。 |
+| 机器人学 | 跨模态策略训练 | [MM-ACT: Learn from Multimodal Parallel Generation to Act](cards.md#paper-mm-act-shared-context-parallel-decoding) | 用共享上下文训练图像、文本和动作生成，但给动作采用单步并行解码。 |
+| 多模态学习 | 噪声鲁棒学习 | [Rethinking Cross-Modal Anchor Alignment for Mitigating Error Accumulation](cards.md#paper-gsl-geometric-cross-modal-anchor-correction) | 清洁图文配对也可能传播错误，纠噪时应检查各自邻域几何是否一致。 |

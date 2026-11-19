@@ -1479,5 +1479,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [Zoo3D: Zero-Shot 3D Object Detection at Scene Level](../../conferences/cvpr-2026/cards.md#paper-multiview-mask-consensus-zero-shot-3d)
 - [Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator](../../conferences/cvpr-2026/cards.md#paper-specialist-modulation-global-pose)
 - [MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene](../../conferences/cvpr-2026/cards.md#paper-mu-generf)
+- [Mirai: Autoregressive Visual Generation Needs Foresight](../../conferences/cvpr-2026/cards.md#paper-spatial-foresight-autoregressive-generation)
+- [What's Wrong with Synthetic Data for Scene Text Recognition? A Strong Synthetic Engine with Diverse Simulations and Self-Evolution](../../conferences/cvpr-2026/cards.md#paper-factorized-synthetic-real-data-gap)
+- [HierUQ: Hierarchical Uncertainty Quantification with Adaptive Granularity Reconciliation for Degraded Image Classification](../../conferences/cvpr-2026/cards.md#paper-uncertainty-triggered-hierarchy-backoff)
+- [Selfi: Self-improving Reconstruction Engine via 3D Geometric Feature Alignment](../../conferences/cvpr-2026/cards.md#paper-selfi-geometric-alignment)
+- [Match-and-Fuse: Consistent Generation from Unstructured Image Sets](../../conferences/cvpr-2026/cards.md#paper-match-and-fuse)
+- [tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-tttlrm-streaming-3d-fast-weights)
 
 <!-- conference-classification:end -->

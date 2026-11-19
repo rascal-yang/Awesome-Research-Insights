@@ -847,5 +847,7 @@
 - [Decompose, Mix, Adapt: A Unified Framework for Parameter-Efficient Neural Network Recombination and Compression](../../conferences/cvpr-2026/cards.md#paper-crisp-shared-basis-recombination)
 - [DualReg: Dual-Space Filtering and Reinforcement for Rigid Registration](../../conferences/cvpr-2026/cards.md#paper-dualreg-filtered-anchors-geometric-refinement)
 - [UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling](../../conferences/cvpr-2026/cards.md#paper-ufo-visible-recurrent-scene-tokens)
+- [OmniFM: Toward Modality-Robust and Task-Agnostic Federated Learning for Heterogeneous Medical Imaging](../../conferences/cvpr-2026/cards.md#paper-omnifm-low-frequency-global-knowledge)
+- [Rethinking Cross-Modal Anchor Alignment for Mitigating Error Accumulation](../../conferences/cvpr-2026/cards.md#paper-gsl-geometric-cross-modal-anchor-correction)
 
 <!-- conference-classification:end -->
