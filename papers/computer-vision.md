@@ -934,5 +934,7 @@
 - [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](../conferences/cvpr-2026/cards.md#paper-ecosplat)
 - [Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking](../conferences/cvpr-2026/cards.md#paper-unikpt)
 - [DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization](../conferences/cvpr-2026/cards.md#paper-directfisheye-gs)
+- [Choreographing a World of Dynamic Objects](../conferences/cvpr-2026/cards.md#paper-chord)
+- [Spk2VidNet: A Hierarchical Recurrent Architecture for High-Fidelity Video Reconstruction from Long Spike-Camera Streams](../conferences/cvpr-2026/cards.md#paper-spk2vidnet)
 
 <!-- conference-classification:end -->

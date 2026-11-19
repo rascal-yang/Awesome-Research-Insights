@@ -526,4 +526,8 @@
 - [Zero-Shot Instruction Following in RL via Structured LTL Representations](../conferences/neurips-2026/cards-0013.md#paper-150080)
 - [ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamics](../conferences/neurips-2026/cards-0013.md#paper-155054)
 
+## CVPR 2026（暂收录）
+
+- [Spk2VidNet: A Hierarchical Recurrent Architecture for High-Fidelity Video Reconstruction from Long Spike-Camera Streams](../conferences/cvpr-2026/cards.md#paper-spk2vidnet)
+
 <!-- conference-classification:end -->

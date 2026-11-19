@@ -2278,5 +2278,6 @@ General learning methods, optimization, learning theory, and inference.
 ## CVPR 2026 (provisional)
 
 - [HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-hycal)
+- [Continual Distillation of Teachers from Different Domains](../../conferences/cvpr-2026/cards.md#paper-se2d)
 
 <!-- conference-classification:end -->

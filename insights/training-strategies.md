@@ -869,5 +869,7 @@
 ## CVPR 2026（暂收录）
 
 - [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](../conferences/cvpr-2026/cards.md#paper-ecosplat)
+- [Choreographing a World of Dynamic Objects](../conferences/cvpr-2026/cards.md#paper-chord)
+- [Continual Distillation of Teachers from Different Domains](../conferences/cvpr-2026/cards.md#paper-se2d)
 
 <!-- conference-classification:end -->
