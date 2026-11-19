@@ -973,5 +973,11 @@ Learning across modalities such as images, text, audio, and video.
 - [Refacade: Editing Object with Given Reference Texture](../../conferences/cvpr-2026/cards.md#paper-refacade)
 - [Generative Video Compression with One-Dimensional Latent Representation](../../conferences/cvpr-2026/cards.md#paper-gvc1d)
 - [Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](../../conferences/cvpr-2026/cards.md#paper-flatness-aware-prompt-pretraining)
+- [Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow](../../conferences/cvpr-2026/cards.md#paper-adaptive-vlm-information-flow)
+- [DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding](../../conferences/cvpr-2026/cards.md#paper-docseeker-evidence-resolution)
+- [CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-covft)
+- [Unleashing the Intrinsic Visual Representation Capability of Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-laver-latent-visual-reconstruction)
+- [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](../../conferences/cvpr-2026/cards.md#paper-motionnft)
+- [Leveraging Verifier-Based Reinforcement Learning in Image Editing](../../conferences/cvpr-2026/cards.md#paper-edit-r1-verifier-reward)
 
 <!-- conference-classification:end -->

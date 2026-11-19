@@ -878,5 +878,7 @@
 - [Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation](../conferences/cvpr-2026/cards.md#paper-vita-shared-action-vision-latents)
 - [CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-coin3d)
 - [MoEActok: A MoE-based Action Tokenizer for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-moeactok)
+- [Cross-Domain Demo-to-Code via Neurosymbolic Counterfactual Reasoning](../conferences/cvpr-2026/cards.md#paper-nesycr-cross-domain-procedure-checks)
+- [Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation](../conferences/cvpr-2026/cards.md#paper-action-geometry-prediction)
 
 <!-- conference-classification:end -->

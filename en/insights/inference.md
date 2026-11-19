@@ -1358,5 +1358,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Anchoring and Rescaling Attention for Semantically Coherent Inbetweening](../../conferences/cvpr-2026/cards.md#paper-keyframe-anchored-inbetweening)
 - [HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-hulluedit)
 - [Refacade: Editing Object with Given Reference Texture](../../conferences/cvpr-2026/cards.md#paper-refacade)
+- [Cross-Domain Demo-to-Code via Neurosymbolic Counterfactual Reasoning](../../conferences/cvpr-2026/cards.md#paper-nesycr-cross-domain-procedure-checks)
+- [Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow](../../conferences/cvpr-2026/cards.md#paper-adaptive-vlm-information-flow)
+- [Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](../../conferences/cvpr-2026/cards.md#paper-faster-gs-optimization)
+- [Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-anatomica-local-constraints)
 
 <!-- conference-classification:end -->

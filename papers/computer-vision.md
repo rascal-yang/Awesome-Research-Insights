@@ -1092,5 +1092,11 @@
 - [Affine Perspective-Three-Point Problem](../conferences/cvpr-2026/cards.md#paper-affine-p3p)
 - [COG: Confidence-aware Optimal Geometric Correspondence for Unsupervised Single-reference Novel Object Pose Estimation](../conferences/cvpr-2026/cards.md#paper-confidence-aware-optimal-correspondence)
 - [ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation](../conferences/cvpr-2026/cards.md#paper-expose-pose-consistency)
+- [Long-Tail Internet Photo Reconstruction](../conferences/cvpr-2026/cards.md#paper-megadepth-x-sparse-view-sampling)
+- [FlashIn: Fast and Accurate Image Inversion for Real-time Image Editing](../conferences/cvpr-2026/cards.md#paper-flashin-learned-inversion)
+- [Write Where It Matters: Policy-Guided Watermarks for 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-adaptive-3d-watermark-quality-tradeoff)
+- [Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](../conferences/cvpr-2026/cards.md#paper-faster-gs-optimization)
+- [DiverseGRPO: Mitigating Mode Collapse in Image Generation via Diversity-Aware GRPO](../conferences/cvpr-2026/cards.md#paper-diversegrpo)
+- [Breaking Smooth-Motion Assumptions: A UAV Benchmark for Multi-Object Tracking in Complex and Adverse Conditions](../conferences/cvpr-2026/cards.md#paper-dynuav-motion-failure-audit)
 
 <!-- conference-classification:end -->

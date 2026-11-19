@@ -747,5 +747,7 @@
 - [CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning](../conferences/cvpr-2026/cards.md#paper-cccaption-symmetric-visual-rewards)
 - [Seeing What Matters: Visual Preference Policy Optimization for Visual Generation](../conferences/cvpr-2026/cards.md#paper-vipo-visual-advantages)
 - [ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation](../conferences/cvpr-2026/cards.md#paper-expose-pose-consistency)
+- [Write Where It Matters: Policy-Guided Watermarks for 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-adaptive-3d-watermark-quality-tradeoff)
+- [Leveraging Verifier-Based Reinforcement Learning in Image Editing](../conferences/cvpr-2026/cards.md#paper-edit-r1-verifier-reward)
 
 <!-- conference-classification:end -->

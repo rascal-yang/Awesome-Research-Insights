@@ -403,5 +403,7 @@
 - [Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-aleatoric-uncertainty-spectrum)
 - [Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation](../conferences/cvpr-2026/cards.md#paper-frequency-prompt-multi-rater-segmentation)
 - [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](../conferences/cvpr-2026/cards.md#paper-steph-sparse-task-mixup)
+- [Revisiting 2D Foundation Models for Scalable 3D Medical Image Classification](../conferences/cvpr-2026/cards.md#paper-anymc3d-frozen-2d-transfer)
+- [Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models](../conferences/cvpr-2026/cards.md#paper-anatomica-local-constraints)
 
 <!-- conference-classification:end -->

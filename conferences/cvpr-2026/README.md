@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 537 篇，其中 367 篇暂收录、170 篇排除，另有 3,505 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 567 篇，其中 383 篇暂收录、184 篇排除，另有 3,475 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -373,3 +373,19 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 537 �
 | 多模态学习 | 表示学习 | [Generative Video Compression with One-Dimensional Latent Representation](cards.md#paper-gvc1d) | 高压缩率下用不绑定二维位置的词元和长程记忆，减少局部及跨帧冗余。 |
 | 计算机视觉 | 强化学习 | [ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation](cards.md#paper-expose-pose-consistency) | 用生成中间帧辅助稀疏位姿估计时，用下游几何一致性奖励优化插值模型。 |
 | 多模态学习 | 微调与适配 | [Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](cards.md#paper-flatness-aware-prompt-pretraining) | 测试时提示词调优前，选平坦度更高的无数据初始化以改善置信校准。 |
+| 机器人学 | 推理策略 | [Cross-Domain Demo-to-Code via Neurosymbolic Counterfactual Reasoning](cards.md#paper-nesycr-cross-domain-procedure-checks) | 示范迁移时，可先测试符号任务条件和可执行替代行为，再生成机器人任务代码。见表 3。 |
+| 多模态学习 | 推理策略 | [Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow](cards.md#paper-adaptive-vlm-information-flow) | 图文模型定位正确但作答错时，应对照屏蔽关键与次要视觉词元，区分信息流和定位失败。见图 3、表 1。 |
+| 计算机视觉 | 数据策略 | [Long-Tail Internet Photo Reconstruction](cards.md#paper-megadepth-x-sparse-view-sampling) | 真实稀疏场景难获深度监督时，可从可重建密集场景按真实长尾的视角分布抽样，并保留清洗和抽样对照。见表 2。 |
+| 多模态学习 | 训练策略 | [DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding](cards.md#paper-docseeker-evidence-resolution) | 长视觉文档训练应同步验收页证据和回答，并只给相关页高分辨率。见表 3–4。 |
+| 计算机视觉 | 训练策略 | [FlashIn: Fast and Accurate Image Inversion for Real-time Image Editing](cards.md#paper-flashin-learned-inversion) | 需交互速度的图像编辑可用合成图和已知起始噪声训练直接反演，再以真实图像验背景保真。见表 1–2。 |
+| 计算机视觉 | 强化学习方法 | [Write Where It Matters: Policy-Guided Watermarks for 3D Gaussian Splatting](cards.md#paper-adaptive-3d-watermark-quality-tradeoff) | 为三维资产做内容溯源时，可用区域级嵌入预算避免逐基元训练，并同时验收画质和提取率。见表 4–5。 |
+| 多模态学习 | 训练策略 | [CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models](cards.md#paper-covft) | 视觉骨干解冻前先和同配置冻结基线比较；当不同多模态上下文梯度冲突时，考虑上下文条件化适配。 |
+| 计算机视觉 | 推理压缩 | [Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](cards.md#paper-faster-gs-optimization) | 三维优化提速应固定重建质量，再单独对照算子实现、优化器更新和数值近似。 |
+| 计算机视觉 | 训练策略 | [DiverseGRPO: Mitigating Mode Collapse in Image Generation via Diversity-Aware GRPO](cards.md#paper-diversegrpo) | 生成强化学习同时验收样本质量和同提示分布覆盖，并把多样性正则按去噪阶段分配。 |
+| 计算机视觉 | 评测与诊断 | [Breaking Smooth-Motion Assumptions: A UAV Benchmark for Multi-Object Tracking in Complex and Adverse Conditions](cards.md#paper-dynuav-motion-failure-audit) | 良性移动相机跟踪应把检测和关联拆开，在不平滑自运动下验收两者。 |
+| 机器人学 | 表示学习 | [Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation](cards.md#paper-action-geometry-prediction) | 双臂策略学习时把未来三维几何和动作块作为同一预测问题。 |
+| 多模态学习 | 自监督学习 | [Unleashing the Intrinsic Visual Representation Capability of Multimodal Large Language Models](cards.md#paper-laver-latent-visual-reconstruction) | 纯文本词元训练让视觉表示退化时，在共享语义空间加入掩码视觉重建。 |
+| 多模态学习 | 训练与数据策略 | [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](cards.md#paper-motionnft) | 动作编辑后训练中，用独立运动对齐信号区分动作正确和仅在外观上像目标。 |
+| 科学与医学 AI | 迁移与泛化 | [Revisiting 2D Foundation Models for Scalable 3D Medical Image Classification](cards.md#paper-anymc3d-frozen-2d-transfer) | 三维分类资源有限时，先以冻结通用二维基础模型和轻量多视角适配作受控基线。 |
+| 科学与医学 AI | 条件生成 | [Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models](cards.md#paper-anatomica-local-constraints) | 需要区域级三维形状控制时，只解码目标子域并组合可微几何与拓扑约束。 |
+| 多模态学习 | 强化学习 | [Leveraging Verifier-Based Reinforcement Learning in Image Editing](cards.md#paper-edit-r1-verifier-reward) | 多条件图像编辑策略训练时，把一条指令拆成可核查要求再聚合奖励。 |

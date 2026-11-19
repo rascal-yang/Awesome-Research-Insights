@@ -558,5 +558,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs](../../conferences/cvpr-2026/cards.md#paper-reference-guided-causal-video-vae)
 - [MoEActok: A MoE-based Action Tokenizer for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-moeactok)
 - [Generative Video Compression with One-Dimensional Latent Representation](../../conferences/cvpr-2026/cards.md#paper-gvc1d)
+- [Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation](../../conferences/cvpr-2026/cards.md#paper-action-geometry-prediction)
 
 <!-- conference-classification:end -->

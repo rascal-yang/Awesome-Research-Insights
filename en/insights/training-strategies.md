@@ -959,5 +959,11 @@ Training schedules, curricula, and task or stage composition.
 - [A Causal Marriage between VLM and IRM from Understanding to Reasoning](../../conferences/cvpr-2026/cards.md#paper-clip-irm)
 - [Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation](../../conferences/cvpr-2026/cards.md#paper-uni-dad-dual-domain-distillation)
 - [Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](../../conferences/cvpr-2026/cards.md#paper-flatness-aware-prompt-pretraining)
+- [DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding](../../conferences/cvpr-2026/cards.md#paper-docseeker-evidence-resolution)
+- [FlashIn: Fast and Accurate Image Inversion for Real-time Image Editing](../../conferences/cvpr-2026/cards.md#paper-flashin-learned-inversion)
+- [CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-covft)
+- [DiverseGRPO: Mitigating Mode Collapse in Image Generation via Diversity-Aware GRPO](../../conferences/cvpr-2026/cards.md#paper-diversegrpo)
+- [Unleashing the Intrinsic Visual Representation Capability of Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-laver-latent-visual-reconstruction)
+- [Revisiting 2D Foundation Models for Scalable 3D Medical Image Classification](../../conferences/cvpr-2026/cards.md#paper-anymc3d-frozen-2d-transfer)
 
 <!-- conference-classification:end -->

@@ -1438,5 +1438,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](../../conferences/cvpr-2026/cards.md#paper-geocodebench)
 - [Verifying Neural Network Robustness with Dual Perturbations](../../conferences/cvpr-2026/cards.md#paper-veridou-combined-verification)
 - [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](../../conferences/cvpr-2026/cards.md#paper-activityforensics-eval)
+- [Breaking Smooth-Motion Assumptions: A UAV Benchmark for Multi-Object Tracking in Complex and Adverse Conditions](../../conferences/cvpr-2026/cards.md#paper-dynuav-motion-failure-audit)
 
 <!-- conference-classification:end -->
