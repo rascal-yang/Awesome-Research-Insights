@@ -1226,5 +1226,11 @@
 - [Guiding a Diffusion Model by Swapping Its Tokens](../conferences/cvpr-2026/cards.md#paper-self-swap-guidance)
 - [Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising](../conferences/cvpr-2026/cards.md#paper-next-scale-prediction)
 - [GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement](../conferences/cvpr-2026/cards.md#paper-gem-tfl-weak-temporal-localization)
+- [PQDT: Pseudo-Query Dual Transformer for Robust Point Cloud Restoration](../conferences/cvpr-2026/cards.md#paper-pqdt-pseudo-query-spatial-restoration)
+- [VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer](../conferences/cvpr-2026/cards.md#paper-visualad)
+- [Shape-of-You: Fused Gromov-Wasserstein Optimal Transport for Semantic Correspondence in-the-Wild](../conferences/cvpr-2026/cards.md#paper-shape-of-you-fgw)
+- [EDGS: Eliminating Densification for Efficient Convergence of 3DGS](../conferences/cvpr-2026/cards.md#paper-edgs-dense-initialization)
+- [Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-pgbl-boundary-anomaly-synthesis)
+- [ORBIT: Benchmarking SfM in the Wild with 360deg Video](../conferences/cvpr-2026/cards.md#paper-orbit-panoramic-pose-reference)
 
 <!-- conference-classification:end -->

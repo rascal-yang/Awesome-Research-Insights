@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,257 篇，其中 801 篇暂收录、456 篇排除，另有 2,785 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,287 篇，其中 820 篇暂收录、467 篇排除，另有 2,755 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -807,3 +807,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,257
 | 多模态学习 | 微调与适配 | [AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models](cards.md#paper-agft-soft-alignment) | 视觉语言模型做防御微调时保留原模型对全部文本的软语义对齐，并校准新的输出分布。 |
 | 计算机视觉 | 自监督学习 | [GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement](cards.md#paper-gem-tfl-weak-temporal-localization) | 只有视频级标签但要定位时段时，用潜属性丰富训练信号并联合重排相邻候选。 |
 | 机器学习基础 | 模型架构 | [Coupling Liquid Time-Constant Encoders with Modern Hopfield Memory](cards.md#paper-ltc-hopfield-memory) | 连续时间模型中可把快速动态与较长期内容检索分开，避免单隐状态互相覆盖。 |
+| 机器人学 | 推理策略 | [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](cards.md#paper-vlm-loc-partial-scene-node-assignment) | 用描述在地图中找位置时，应允许只对齐一部分图节点，避免未被描述的对象强制参与。见表 2。 |
+| 生成模型 | 时序建模 | [FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation](cards.md#paper-flooddiffusion-streaming-motion-noise-schedule) | 把视频扩散强制迁移到流式动作前，可对照训练内双向注意力和下三角噪声计划，验证条件变化与动作衔接。见表 3。 |
+| 多模态学习 | 数据增强 | [From Panel to Pixel: Zoom-In Vision-Language Pretraining from Biomedical Scientific Literature](cards.md#paper-panel2patch-hierarchical-figure-supervision) | 图文语料存在图、面板、局部标记多级结构时，可为各级保留分别对应的文本并单测局部检索。见表 4。 |
+| 计算机视觉 | 三维重建与几何建模 | [PQDT: Pseudo-Query Dual Transformer for Robust Point Cloud Restoration](cards.md#paper-pqdt-pseudo-query-spatial-restoration) | 点云退化时可让重建查询从局部种子出发，而非压缩进单一全局表示，并逐项比较种子和位置编码。见表 3。 |
+| 多模态学习 | 少样本学习 | [Love Me, Love My Label: Rethinking the Role of Labels in Prompt Retrieval for Visual In-Context Learning](cards.md#paper-lapr-label-consistent-demonstration-retrieval) | 挑视觉上下文示例时可把标签兼容性与外观相似性分开考虑，以相同示例预算检验标签信息的增量。见表 3。 |
+| 生成模型 | 表征学习 | [MeshRipple: Structured Autoregressive Generation of Artist-Meshes](cards.md#paper-meshripple-frontier-topology-tokenization) | 生成连通离散结构时可把顺序设为沿当前拓扑边界扩张，而非机械串行化，并把生成质量和长程记忆开销分开测。见表 2、4。 |
+| 计算机视觉 | 异常检测 | [VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer](cards.md#paper-visualad) | 零样本异常检测可先检验纯视觉正常/异常锚 token 能否替代文本提示。 |
+| 多模态学习 | 推理加速 | [Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration](cards.md#paper-spectrum-diffusion-forecast) | 跳过多个去噪步时以全局光滑基预测特征，并用实际误差自适应安排重算。 |
+| 机器学习基础与统计 | 模型架构 | [Progressive Neural Architecture Generation](cards.md#paper-progressive-architecture-generation) | 架构生成先产粗子结构后扩张，在每次扩张时检查有效性。 |
+| 计算机视觉 | 训练策略 | [Shape-of-You: Fused Gromov-Wasserstein Optimal Transport for Semantic Correspondence in-the-Wild](cards.md#paper-shape-of-you-fgw) | 伪标签匹配时，将特征相似和结构相似合并，并保留软分配而非硬最近邻。 |
+| 计算机视觉 | 推理加速 | [EDGS: Eliminating Densification for Efficient Convergence of 3DGS](cards.md#paper-edgs-dense-initialization) | 若可获得高质量稠密像素对应，可从初始化解决细几何覆盖，减少逐步增密。 |
+| 多模态学习 | 推理策略 | [When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](cards.md#paper-numina) | 生成对数量敏感时，先从隐场定位可计数实例，再调整布局并重生成。 |
+| 多模态学习 | 模型架构 | [Text-Image Conditioned 3D Generation](cards.md#paper-tigon-conditioned-3d) | 联合图文条件前先做各自独立推理及晚融合，测两个模态在几何和语义上的互补。 |
+| 多模态学习 | 模型架构 | [Soft Modality-Guided Expert Specialization in MoE-VLMs](cards.md#paper-smoes-soft-modality-routing) | 多模态 MoE 训练可用随层变化的软模态分数引导专家分组，以减少跨设备通信。 |
+| 机器学习基础 | 微调与适配 | [Critical Patch-Aware Sparse Prompting with Decoupled Training for Continual Learning on the Edge](cards.md#paper-cps-prompt-edge-continual) | 边缘持续学习时按任务选择训练图块，并将提示和分类头反传拆开。 |
+| 机器人学 | 评测与分析 | [Failure Modes for Deep Learning-Based Online Mapping: How to Measure and Address Them](cards.md#paper-online-mapping-failure-mode-controls) | 地图模型的域外评估同时控制地理邻近和几何相似度，并分别报告两种过拟合。 |
+| 多模态学习 | 评测与分析 | [Think 360deg: Beyond Depth: Evaluating the Width-centric Reasoning Capability of MLLMs](cards.md#paper-think360-reasoning-width) | 评估多模态搜索时除了推理步数，还控制需要探索的并行候选和回溯。 |
+| 计算机视觉 | 自监督学习 | [Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection](cards.md#paper-pgbl-boundary-anomaly-synthesis) | 正常类别有多个模式时，以多原型建模，并在簇边界构造难伪异常。 |
+| 计算机视觉 | 评测与分析 | [ORBIT: Benchmarking SfM in the Wild with 360deg Video](cards.md#paper-orbit-panoramic-pose-reference) | 要低成本获得窄视场视频难例的位姿参照，可用同一全景视频先估轨迹再进行裁剪重投影。 |

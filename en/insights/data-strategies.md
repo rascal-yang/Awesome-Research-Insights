@@ -403,5 +403,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](../../conferences/cvpr-2026/cards.md#paper-real2edit2real)
 - [IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework](../../conferences/cvpr-2026/cards.md#paper-introsvg-render-feedback)
 - [Stitch-a-Demo: Creating Video Demonstrations from Multistep Descriptions](../../conferences/cvpr-2026/cards.md#paper-stitch-a-demo-coherence-hard-negatives)
+- [From Panel to Pixel: Zoom-In Vision-Language Pretraining from Biomedical Scientific Literature](../../conferences/cvpr-2026/cards.md#paper-panel2patch-hierarchical-figure-supervision)
 
 <!-- conference-classification:end -->

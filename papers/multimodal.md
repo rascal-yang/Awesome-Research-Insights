@@ -1131,5 +1131,12 @@
 - [Octopus: History-Free Gradient Orthogonalization for Continual Learning in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-octopus-hifgo)
 - [GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation](../conferences/cvpr-2026/cards.md#paper-groundingme-rejection-tests)
 - [AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-agft-soft-alignment)
+- [From Panel to Pixel: Zoom-In Vision-Language Pretraining from Biomedical Scientific Literature](../conferences/cvpr-2026/cards.md#paper-panel2patch-hierarchical-figure-supervision)
+- [Love Me, Love My Label: Rethinking the Role of Labels in Prompt Retrieval for Visual In-Context Learning](../conferences/cvpr-2026/cards.md#paper-lapr-label-consistent-demonstration-retrieval)
+- [Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration](../conferences/cvpr-2026/cards.md#paper-spectrum-diffusion-forecast)
+- [When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](../conferences/cvpr-2026/cards.md#paper-numina)
+- [Text-Image Conditioned 3D Generation](../conferences/cvpr-2026/cards.md#paper-tigon-conditioned-3d)
+- [Soft Modality-Guided Expert Specialization in MoE-VLMs](../conferences/cvpr-2026/cards.md#paper-smoes-soft-modality-routing)
+- [Think 360deg: Beyond Depth: Evaluating the Width-centric Reasoning Capability of MLLMs](../conferences/cvpr-2026/cards.md#paper-think360-reasoning-width)
 
 <!-- conference-classification:end -->

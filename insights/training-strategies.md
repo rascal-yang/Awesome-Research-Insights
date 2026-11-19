@@ -1049,5 +1049,8 @@
 - [Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising](../conferences/cvpr-2026/cards.md#paper-next-scale-prediction)
 - [AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-agft-soft-alignment)
 - [GEM-TFL: Bridging Weak and Full Supervision for Forgery Localization through EM-Guided Decomposition and Temporal Refinement](../conferences/cvpr-2026/cards.md#paper-gem-tfl-weak-temporal-localization)
+- [Shape-of-You: Fused Gromov-Wasserstein Optimal Transport for Semantic Correspondence in-the-Wild](../conferences/cvpr-2026/cards.md#paper-shape-of-you-fgw)
+- [Critical Patch-Aware Sparse Prompting with Decoupled Training for Continual Learning on the Edge](../conferences/cvpr-2026/cards.md#paper-cps-prompt-edge-continual)
+- [Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-pgbl-boundary-anomaly-synthesis)
 
 <!-- conference-classification:end -->

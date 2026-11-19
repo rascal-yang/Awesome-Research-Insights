@@ -933,5 +933,7 @@
 - [CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation](../conferences/cvpr-2026/cards.md#paper-capnav-capability-conditioned-navigation)
 - [Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation](../conferences/cvpr-2026/cards.md#paper-hypodepth-discrete-hypothesis-residual-search)
 - [MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos](../conferences/cvpr-2026/cards.md#paper-mocapanything-reference-conditioned-skeleton-ik)
+- [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vlm-loc-partial-scene-node-assignment)
+- [Failure Modes for Deep Learning-Based Online Mapping: How to Measure and Address Them](../conferences/cvpr-2026/cards.md#paper-online-mapping-failure-mode-controls)
 
 <!-- conference-classification:end -->

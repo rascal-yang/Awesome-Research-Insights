@@ -1451,5 +1451,9 @@
 - [Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout](../conferences/cvpr-2026/cards.md#paper-infinity-rope)
 - [Back to Basics: Let Denoising Generative Models Denoise](../conferences/cvpr-2026/cards.md#paper-jit-denoise-clean-data)
 - [Guiding a Diffusion Model by Swapping Its Tokens](../conferences/cvpr-2026/cards.md#paper-self-swap-guidance)
+- [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vlm-loc-partial-scene-node-assignment)
+- [Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration](../conferences/cvpr-2026/cards.md#paper-spectrum-diffusion-forecast)
+- [EDGS: Eliminating Densification for Efficient Convergence of 3DGS](../conferences/cvpr-2026/cards.md#paper-edgs-dense-initialization)
+- [When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](../conferences/cvpr-2026/cards.md#paper-numina)
 
 <!-- conference-classification:end -->

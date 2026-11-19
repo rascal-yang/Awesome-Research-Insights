@@ -1485,5 +1485,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-cultural-representation-activation)
 - [Mitigating Simplicity Bias in OOD Detection through Object Co-occurrence Analysis](../../conferences/cvpr-2026/cards.md#paper-oco-object-cooccurrence-ood)
 - [GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation](../../conferences/cvpr-2026/cards.md#paper-groundingme-rejection-tests)
+- [VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer](../../conferences/cvpr-2026/cards.md#paper-visualad)
+- [Failure Modes for Deep Learning-Based Online Mapping: How to Measure and Address Them](../../conferences/cvpr-2026/cards.md#paper-online-mapping-failure-mode-controls)
+- [Think 360deg: Beyond Depth: Evaluating the Width-centric Reasoning Capability of MLLMs](../../conferences/cvpr-2026/cards.md#paper-think360-reasoning-width)
+- [ORBIT: Benchmarking SfM in the Wild with 360deg Video](../../conferences/cvpr-2026/cards.md#paper-orbit-panoramic-pose-reference)
 
 <!-- conference-classification:end -->

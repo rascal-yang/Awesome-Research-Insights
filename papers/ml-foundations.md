@@ -2385,5 +2385,9 @@
 - [Transition Models: Rethinking the Generative Learning Objective](../conferences/cvpr-2026/cards.md#paper-tim-finite-interval-generation-objective)
 - [Mitigating Simplicity Bias in OOD Detection through Object Co-occurrence Analysis](../conferences/cvpr-2026/cards.md#paper-oco-object-cooccurrence-ood)
 - [Coupling Liquid Time-Constant Encoders with Modern Hopfield Memory](../conferences/cvpr-2026/cards.md#paper-ltc-hopfield-memory)
+- [FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation](../conferences/cvpr-2026/cards.md#paper-flooddiffusion-streaming-motion-noise-schedule)
+- [MeshRipple: Structured Autoregressive Generation of Artist-Meshes](../conferences/cvpr-2026/cards.md#paper-meshripple-frontier-topology-tokenization)
+- [Progressive Neural Architecture Generation](../conferences/cvpr-2026/cards.md#paper-progressive-architecture-generation)
+- [Critical Patch-Aware Sparse Prompting with Decoupled Training for Continual Learning on the Edge](../conferences/cvpr-2026/cards.md#paper-cps-prompt-edge-continual)
 
 <!-- conference-classification:end -->

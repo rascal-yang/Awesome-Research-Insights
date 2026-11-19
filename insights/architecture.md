@@ -631,5 +631,8 @@
 - [Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation](../conferences/cvpr-2026/cards.md#paper-harope-head-wise-position)
 - [CoWTracker: Tracking by Warping instead of Correlation](../conferences/cvpr-2026/cards.md#paper-cowtracker-warping)
 - [Coupling Liquid Time-Constant Encoders with Modern Hopfield Memory](../conferences/cvpr-2026/cards.md#paper-ltc-hopfield-memory)
+- [Progressive Neural Architecture Generation](../conferences/cvpr-2026/cards.md#paper-progressive-architecture-generation)
+- [Text-Image Conditioned 3D Generation](../conferences/cvpr-2026/cards.md#paper-tigon-conditioned-3d)
+- [Soft Modality-Guided Expert Specialization in MoE-VLMs](../conferences/cvpr-2026/cards.md#paper-smoes-soft-modality-routing)
 
 <!-- conference-classification:end -->

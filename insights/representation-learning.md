@@ -622,5 +622,7 @@
 - [MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos](../conferences/cvpr-2026/cards.md#paper-mocapanything-reference-conditioned-skeleton-ik)
 - [No Calibration, No Depth, No Problem: Cross-Sensor View Synthesis with 3D Consistency](../conferences/cvpr-2026/cards.md#paper-cross-sensor-confidence-densification-and-self-match)
 - [From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning](../conferences/cvpr-2026/cards.md#paper-cosettle-temporal-consistency-semantic-separability)
+- [PQDT: Pseudo-Query Dual Transformer for Robust Point Cloud Restoration](../conferences/cvpr-2026/cards.md#paper-pqdt-pseudo-query-spatial-restoration)
+- [MeshRipple: Structured Autoregressive Generation of Artist-Meshes](../conferences/cvpr-2026/cards.md#paper-meshripple-frontier-topology-tokenization)
 
 <!-- conference-classification:end -->
