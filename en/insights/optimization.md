@@ -713,5 +713,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [ArtPro: Self-Supervised Articulated Object Reconstruction with Adaptive Integration of Mobility Proposals](../../conferences/cvpr-2026/cards.md#paper-artpro-mobility-proposals)
 - [Efficient All-Pairs Correlation Volume Sampling for Optical Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-raft-exact-efficient-correlation-sampling)
 - [Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](../../conferences/cvpr-2026/cards.md#paper-neupig-sobolev-deformations)
+- [AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment](../../conferences/cvpr-2026/cards.md#paper-alignpose-multi-view-refinement)
 
 <!-- conference-classification:end -->

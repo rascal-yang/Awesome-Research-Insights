@@ -1672,5 +1672,13 @@ Decoding, test-time adaptation, and efficient execution.
 - [RADAR: VQ-VAE Decoder of VAR is a Good Student for Restoring Against Degradation by Acceleration](../../conferences/cvpr-2026/cards.md#paper-radar-decoder-post-adaptation)
 - [LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing](../../conferences/cvpr-2026/cards.md#paper-ldp-slicing-bit-plane)
 - [MIBURI: Towards Expressive Interactive Gesture Synthesis](../../conferences/cvpr-2026/cards.md#paper-miburi-causal-partwise-gesture-codec)
+- [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](../../conferences/cvpr-2026/cards.md#paper-forecast-and-local-correct-remote-inference)
+- [Region-Adaptive Sampling for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-attention-driven-regional-diffusion-updates)
+- [Color When It Counts: Grayscale-Guided Online Triggering for Always-On Streaming Video Sensing](../../conferences/cvpr-2026/cards.md#paper-colortrigger-grayscale-stream)
+- [Towards Streaming Referring Video Segmentation via Large Language Model](../../conferences/cvpr-2026/cards.md#paper-streamingrvos-embedding-recycling)
+- [Graph-to-Frame RAG: Visual-Space Knowledge Fusion for Training-Free and Auditable Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-g2frag-visual-knowledge-frame)
+- [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](../../conferences/cvpr-2026/cards.md#paper-ishift-fast-slow-adaptive-perception)
+- [MemFlow: A Lightweight Forward Memorizing Framework for Quick Domain Adaptive Feature Mapping](../../conferences/cvpr-2026/cards.md#paper-memflow-forward-feature-label-memory)
+- [Lighting-grounded Video Generation with Renderer-based Agent Reasoning](../../conferences/cvpr-2026/cards.md#paper-liver-unified-rendered-control-conditions)
 
 <!-- conference-classification:end -->

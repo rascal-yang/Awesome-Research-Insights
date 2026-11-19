@@ -773,5 +773,6 @@ Model-wide design and information flow.
 - [DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning](../../conferences/cvpr-2026/cards.md#paper-embodiment-contact-tokens-before-grasp)
 - [Contact-Aware Neural Dynamics](../../conferences/cvpr-2026/cards.md#paper-contact-aware-neural-dynamics)
 - [Unified Spherical Frontend: Learning Rotation-Equivariant Representations of Spherical Images from Any Camera](../../conferences/cvpr-2026/cards.md#paper-usf-spherical-frontend)
+- [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives](../../conferences/cvpr-2026/cards.md#paper-windowed-prompt-sparse-cross-shot-attention)
 
 <!-- conference-classification:end -->

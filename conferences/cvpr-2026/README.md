@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,087 篇，其中 1,949 篇暂收录、1,138 篇排除，另有 955 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,117 篇，其中 1,970 篇暂收录、1,147 篇排除，另有 925 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1955,3 +1955,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,087
 | 机器学习 | 弱监督学习 | [Evidential Deep Partial Label Learning to Quantify Disambiguation Uncertainty](cards.md#paper-edpll-uncertainty-aware-partial-labels) | 候选标签中只有一个正确时，显式估计消歧证据与可信度。 |
 | 机器人学 | 世界模型 | [Think Before You Drive: World Model-Inspired Multimodal Grounding](cards.md#paper-thinkdeeper-latent-rollout-grounding) | 在对含糊指令做定位前，先展开与命令有关的未来潜状态。 |
 | 机器人学 | 几何策略学习 | [Learning Surgical Robotic Manipulation with 3D Spatial Priors](cards.md#paper-sst-endoscopic-geometry-prior-policy) | 在固定双目观察下用预训练几何特征提供空间先验，让策略保留端到端控制。 |
+| 多模态学习 | 评测与诊断 | [Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations](cards.md#paper-patch-concentration-token-hallucination) | 物体词接地可量化区域证据集中度，避免全图汇总把分散弱相关误判为对象存在。 |
+| 计算机视觉 | 训练策略 | [Align Once to Explain: Feature Alignment for Scalable B-cosification of Foundational Vision Transformers](cards.md#paper-one-time-interpretable-feature-alignment) | 可先把基础视觉骨干无标签对齐到可解释架构，再把同一骨干用于多个下游任务。 |
+| 机器人学 | 表征学习 | [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](cards.md#paper-compact-articulated-simulation-asset-tokens) | 可把三维生成的输出格式设计为几何、关节与物性统一的可模拟资产，减少二次处理。 |
+| 计算机视觉 | 推理策略 | [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](cards.md#paper-forecast-and-local-correct-remote-inference) | 远端推理受延迟时，可让大模型预测将来结果，并由端侧利用当前输入做校正。 |
+| 计算机视觉 | 模型架构 | [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives](cards.md#paper-windowed-prompt-sparse-cross-shot-attention) | 长视频可在镜头内保持稠密注意力、镜头间稀疏共享，同时限制提示跨镜头串扰。 |
+| 多模态学习 | 表征学习 | [S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance](cards.md#paper-train-time-geometry-teacher-implicit-grounding) | 三维接地可在训练期蒸馏重建网络的结构先验，让推理保留二维视图输入。 |
+| 计算机视觉 | 推理策略 | [Region-Adaptive Sampling for Diffusion Transformers](cards.md#paper-attention-driven-regional-diffusion-updates) | 扩散加速可以按区域分配当前去噪更新，而非全图坚持相同的频率。 |
+| 多模态学习 | 训练策略 | [Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](cards.md#paper-image-derived-verifiable-spatial-rewards) | 无需人工答题标注即可用随机图像变换及深度关系构造可验证的空间奖励。 |
+| 多模态学习 | 奖励函数 | [SoliReward: Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models](cards.md#paper-solireward-cross-prompt) | 先给单条视频判定合格性，再跨提示构造偏好并允许平局，可降低难比较样本造成的监督噪声。 |
+| 机器人学 | 推理策略 | [Color When It Counts: Grayscale-Guided Online Triggering for Always-On Streaming Video Sensing](cards.md#paper-colortrigger-grayscale-stream) | 保持廉价流上的时间连续性，只在任务需要时采集更多模态信息。 |
+| 机器学习基础与统计 | 评测与诊断 | [Globscope: Toward a Global View of the Loss Landscape](cards.md#paper-globscope-loss-manifold) | 合并多个模型前，用可解码的低维权重流形检查跨最小值的损失连通性。 |
+| 计算机视觉 | 训练策略 | [Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](cards.md#paper-reward-forcing-ema-sink) | 流式视频将固定首帧缓存改成吸收出窗令牌的指数滑动平均，减弱模型复制首帧。 |
+| 机器人学 | 优化策略 | [AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment](cards.md#paper-alignpose-multi-view-refinement) | 将多个已标定视图的特征误差统一到同一个世界系位姿优化。 |
+| 机器人学 | 训练策略 | [Den-TP: A Density-Balanced Data Curation and Evaluation Framework for Trajectory Prediction](cards.md#paper-dentp-density-balanced) | 按交通主体数分桶选择训练样本，并逐桶报告误差，以覆盖高交互长尾场景。 |
+| 多模态学习 | 推理策略 | [Towards Streaming Referring Video Segmentation via Large Language Model](cards.md#paper-streamingrvos-embedding-recycling) | 让低成本分割路径复用语义嵌入，仅当掩膜不一致时调用多模态骨干刷新。 |
+| 智能体 | 推理策略 | [Graph-to-Frame RAG: Visual-Space Knowledge Fusion for Training-Free and Auditable Video Reasoning](cards.md#paper-g2frag-visual-knowledge-frame) | 把检索出的最小知识子图渲染为一帧，让视频骨干直接读取而非扩大异构上下文。 |
+| 智能体 | 动态推理 | [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](cards.md#paper-ishift-fast-slow-adaptive-perception) | 常规动作使用轻量快速路径，需要精确视觉定位时再增加观察与推理预算。 |
+| 高效深度学习 | 测试时适配 | [MemFlow: A Lightweight Forward Memorizing Framework for Quick Domain Adaptive Feature Mapping](cards.md#paper-memflow-forward-feature-label-memory) | 不通过反向传播，更新冻结特征到标签之间的轻量记忆映射。 |
+| 机器学习 | 数据筛选 | [NTK-Guided Implicit Neural Teaching](cards.md#paper-nint-ntk-guided-coordinate-selection) | 拟合密集坐标信号时，同时考虑误差和训练样本对全局函数的影响。 |
+| 机器人学 | 主动感知 | [AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception](cards.md#paper-adaradar-task-feedback-adaptive-compression) | 让下游模型的置信反馈在线调节传感器压缩率，避免预先固定码率。 |
+| 生成模型 | 条件生成 | [Lighting-grounded Video Generation with Renderer-based Agent Reasoning](cards.md#paper-liver-unified-rendered-control-conditions) | 让布局、灯光与相机参数在同一可渲染状态中定义，再分别输出引导信号。 |

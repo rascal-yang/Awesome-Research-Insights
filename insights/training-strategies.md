@@ -1289,5 +1289,9 @@
 - [CodePercept: Code-Grounded Visual STEM Perception for MLLMs](../conferences/cvpr-2026/cards.md#paper-codepercept-perception-solver)
 - [Selective, Regularized, and Calibrated: Harnessing Vision Foundation Models for Cross-Domain Few-Shot Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-hera-exemplar-transfer-risk)
 - [Evidential Deep Partial Label Learning to Quantify Disambiguation Uncertainty](../conferences/cvpr-2026/cards.md#paper-edpll-uncertainty-aware-partial-labels)
+- [Align Once to Explain: Feature Alignment for Scalable B-cosification of Foundational Vision Transformers](../conferences/cvpr-2026/cards.md#paper-one-time-interpretable-feature-alignment)
+- [Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-image-derived-verifiable-spatial-rewards)
+- [Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](../conferences/cvpr-2026/cards.md#paper-reward-forcing-ema-sink)
+- [Den-TP: A Density-Balanced Data Curation and Evaluation Framework for Trajectory Prediction](../conferences/cvpr-2026/cards.md#paper-dentp-density-balanced)
 
 <!-- conference-classification:end -->

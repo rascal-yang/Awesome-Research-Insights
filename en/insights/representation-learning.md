@@ -763,5 +763,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [V-DPM: 4D Video Reconstruction with Dynamic Point Maps](../../conferences/cvpr-2026/cards.md#paper-video-dynamic-point-map-coordinates)
 - [DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](../../conferences/cvpr-2026/cards.md#paper-factorized-local-ambient-sensor-alignment)
 - [Learning Surgical Robotic Manipulation with 3D Spatial Priors](../../conferences/cvpr-2026/cards.md#paper-sst-endoscopic-geometry-prior-policy)
+- [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](../../conferences/cvpr-2026/cards.md#paper-compact-articulated-simulation-asset-tokens)
+- [S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance](../../conferences/cvpr-2026/cards.md#paper-train-time-geometry-teacher-implicit-grounding)
 
 <!-- conference-classification:end -->

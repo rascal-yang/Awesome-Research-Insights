@@ -1107,5 +1107,10 @@
 - [Contact-Aware Neural Dynamics](../conferences/cvpr-2026/cards.md#paper-contact-aware-neural-dynamics)
 - [Think Before You Drive: World Model-Inspired Multimodal Grounding](../conferences/cvpr-2026/cards.md#paper-thinkdeeper-latent-rollout-grounding)
 - [Learning Surgical Robotic Manipulation with 3D Spatial Priors](../conferences/cvpr-2026/cards.md#paper-sst-endoscopic-geometry-prior-policy)
+- [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](../conferences/cvpr-2026/cards.md#paper-compact-articulated-simulation-asset-tokens)
+- [Color When It Counts: Grayscale-Guided Online Triggering for Always-On Streaming Video Sensing](../conferences/cvpr-2026/cards.md#paper-colortrigger-grayscale-stream)
+- [AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment](../conferences/cvpr-2026/cards.md#paper-alignpose-multi-view-refinement)
+- [Den-TP: A Density-Balanced Data Curation and Evaluation Framework for Trajectory Prediction](../conferences/cvpr-2026/cards.md#paper-dentp-density-balanced)
+- [AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception](../conferences/cvpr-2026/cards.md#paper-adaradar-task-feedback-adaptive-compression)
 
 <!-- conference-classification:end -->

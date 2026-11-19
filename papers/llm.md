@@ -2464,5 +2464,7 @@
 - [MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction](../conferences/cvpr-2026/cards.md#paper-mmrecoder-execution-feedback-self-correction)
 - [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](../conferences/cvpr-2026/cards.md#paper-hats-semantic-ambiguity-trajectory-synthesis)
 - [MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents](../conferences/cvpr-2026/cards.md#paper-mmbench-gui-efficiency-quality-hierarchical-evaluation)
+- [Graph-to-Frame RAG: Visual-Space Knowledge Fusion for Training-Free and Auditable Video Reasoning](../conferences/cvpr-2026/cards.md#paper-g2frag-visual-knowledge-frame)
+- [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](../conferences/cvpr-2026/cards.md#paper-ishift-fast-slow-adaptive-perception)
 
 <!-- conference-classification:end -->

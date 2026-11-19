@@ -1522,5 +1522,10 @@
 - [CodePercept: Code-Grounded Visual STEM Perception for MLLMs](../conferences/cvpr-2026/cards.md#paper-codepercept-perception-solver)
 - [Collaborative Multi-Mode Pruning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-comp-coupled-pruning)
 - [MIBURI: Towards Expressive Interactive Gesture Synthesis](../conferences/cvpr-2026/cards.md#paper-miburi-causal-partwise-gesture-codec)
+- [Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations](../conferences/cvpr-2026/cards.md#paper-patch-concentration-token-hallucination)
+- [S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance](../conferences/cvpr-2026/cards.md#paper-train-time-geometry-teacher-implicit-grounding)
+- [Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-image-derived-verifiable-spatial-rewards)
+- [SoliReward: Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models](../conferences/cvpr-2026/cards.md#paper-solireward-cross-prompt)
+- [Towards Streaming Referring Video Segmentation via Large Language Model](../conferences/cvpr-2026/cards.md#paper-streamingrvos-embedding-recycling)
 
 <!-- conference-classification:end -->

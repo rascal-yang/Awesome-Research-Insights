@@ -1598,5 +1598,7 @@
 - [HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](../conferences/cvpr-2026/cards.md#paper-herbench-minimum-required-frame-set)
 - [MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents](../conferences/cvpr-2026/cards.md#paper-mmbench-gui-efficiency-quality-hierarchical-evaluation)
 - [Bridging the Perception Gap in Image Super-Resolution Evaluation](../conferences/cvpr-2026/cards.md#paper-rqi-relative-quality)
+- [Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations](../conferences/cvpr-2026/cards.md#paper-patch-concentration-token-hallucination)
+- [Globscope: Toward a Global View of the Loss Landscape](../conferences/cvpr-2026/cards.md#paper-globscope-loss-manifold)
 
 <!-- conference-classification:end -->

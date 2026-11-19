@@ -2573,5 +2573,9 @@ General learning methods, optimization, learning theory, and inference.
 - [GDRO: Group-level Reward Post-training Suitable for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-gdro-offline-groupwise-flow-reward)
 - [LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing](../../conferences/cvpr-2026/cards.md#paper-ldp-slicing-bit-plane)
 - [Evidential Deep Partial Label Learning to Quantify Disambiguation Uncertainty](../../conferences/cvpr-2026/cards.md#paper-edpll-uncertainty-aware-partial-labels)
+- [Globscope: Toward a Global View of the Loss Landscape](../../conferences/cvpr-2026/cards.md#paper-globscope-loss-manifold)
+- [MemFlow: A Lightweight Forward Memorizing Framework for Quick Domain Adaptive Feature Mapping](../../conferences/cvpr-2026/cards.md#paper-memflow-forward-feature-label-memory)
+- [NTK-Guided Implicit Neural Teaching](../../conferences/cvpr-2026/cards.md#paper-nint-ntk-guided-coordinate-selection)
+- [Lighting-grounded Video Generation with Renderer-based Agent Reasoning](../../conferences/cvpr-2026/cards.md#paper-liver-unified-rendered-control-conditions)
 
 <!-- conference-classification:end -->

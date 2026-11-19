@@ -1591,5 +1591,10 @@
 - [RADAR: VQ-VAE Decoder of VAR is a Good Student for Restoring Against Degradation by Acceleration](../conferences/cvpr-2026/cards.md#paper-radar-decoder-post-adaptation)
 - [Selective, Regularized, and Calibrated: Harnessing Vision Foundation Models for Cross-Domain Few-Shot Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-hera-exemplar-transfer-risk)
 - [Annotation-Efficient Coreset Selection for Context-dependent Segmentation](../conferences/cvpr-2026/cards.md#paper-context-segmentation-point-transport-coreset)
+- [Align Once to Explain: Feature Alignment for Scalable B-cosification of Foundational Vision Transformers](../conferences/cvpr-2026/cards.md#paper-one-time-interpretable-feature-alignment)
+- [DeDelayed: Deleting Remote Inference Delay via On-Device Correction](../conferences/cvpr-2026/cards.md#paper-forecast-and-local-correct-remote-inference)
+- [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives](../conferences/cvpr-2026/cards.md#paper-windowed-prompt-sparse-cross-shot-attention)
+- [Region-Adaptive Sampling for Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-attention-driven-regional-diffusion-updates)
+- [Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](../conferences/cvpr-2026/cards.md#paper-reward-forcing-ema-sink)
 
 <!-- conference-classification:end -->
