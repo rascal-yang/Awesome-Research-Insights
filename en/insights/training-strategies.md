@@ -1236,5 +1236,8 @@ Training schedules, curricula, and task or stage composition.
 - [Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](../../conferences/cvpr-2026/cards.md#paper-synrl-temporal-primitives)
 - [UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision](../../conferences/cvpr-2026/cards.md#paper-unreflectanything-specular-supervision)
 - [Understanding, Accelerating, and Improving MeanFlow Training](../../conferences/cvpr-2026/cards.md#paper-meanflow-velocity-curriculum)
+- [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](../../conferences/cvpr-2026/cards.md#paper-falcon-sfod-object-priors)
+- [IGen: Scalable Data Generation for Robot Learning from Open-World Images](../../conferences/cvpr-2026/cards.md#paper-igen-images-to-actions)
+- [PhyCo: Learning Controllable Physical Priors for Generative Motion](../../conferences/cvpr-2026/cards.md#paper-phyco-physical-property-control)
 
 <!-- conference-classification:end -->

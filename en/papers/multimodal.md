@@ -1457,5 +1457,10 @@ Learning across modalities such as images, text, audio, and video.
 - [Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](../../conferences/cvpr-2026/cards.md#paper-synrl-temporal-primitives)
 - [VisualOverload: Probing Visual Understanding of VLMs in Really Dense Scenes](../../conferences/cvpr-2026/cards.md#paper-visualoverload-dense-detail-diagnostic)
 - [Video-CoE: Reinforcing Video Event Prediction via Chain of Events](../../conferences/cvpr-2026/cards.md#paper-video-coe-event-chain-training)
+- [TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-shared-continuous-latents-understanding-generation)
+- [Compositional Transformation Reasoning for Composed Video Retrieval](../../conferences/cvpr-2026/cards.md#paper-decomposed-transformation-video-retrieval)
+- [Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR](../../conferences/cvpr-2026/cards.md#paper-fdrl-format-rewards)
+- [$\phi$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-phi-dpo-continual-balance)
+- [PhyCo: Learning Controllable Physical Priors for Generative Motion](../../conferences/cvpr-2026/cards.md#paper-phyco-physical-property-control)
 
 <!-- conference-classification:end -->

@@ -856,5 +856,8 @@
 - [Coverage Optimization for Camera View Selection](../../conferences/cvpr-2026/cards.md#paper-converge-underobserved-geometry-coverage)
 - [FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](../../conferences/cvpr-2026/cards.md#paper-fuser-joint-se3-multiview-registration)
 - [Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-afi-on-demand-spatial-affordance-intervention)
+- [Learning Straight Flows: Variational Flow Matching for Efficient Generation](../../conferences/cvpr-2026/cards.md#paper-svfm-variational-latent-straight-flows)
+- [DCoAR: Deep Concept Injection into Unified Autoregressive Models for Personalized Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-dcoar-deep-frozen-concept-injection)
+- [Dynamic Visual SLAM using a General 3D Prior](../../conferences/cvpr-2026/cards.md#paper-dynamic-slam-feedforward-geometry-prior)
 
 <!-- conference-classification:end -->

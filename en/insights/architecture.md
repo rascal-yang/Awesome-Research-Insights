@@ -746,5 +746,7 @@ Model-wide design and information flow.
 - [Affostruction: 3D Affordance Grounding with Generative Reconstruction](../../conferences/cvpr-2026/cards.md#paper-affostruction-active-affordance)
 - [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](../../conferences/cvpr-2026/cards.md#paper-phygap-polarization)
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](../../conferences/cvpr-2026/cards.md#paper-pixeldit-patch-pixel-hierarchical-diffusion)
+- [RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection](../../conferences/cvpr-2026/cards.md#paper-regformer-relational-grounding)
+- [MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-motionscale-cluster-motion)
 
 <!-- conference-classification:end -->

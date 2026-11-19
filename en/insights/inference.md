@@ -1640,5 +1640,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Video Panels for Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-video-panels-temporal-budget)
 - [FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-fozo-forward-only-prompt-adaptation)
 - [Video-CoE: Reinforcing Video Event Prediction via Chain of Events](../../conferences/cvpr-2026/cards.md#paper-video-coe-event-chain-training)
+- [QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-attention-scale-calibration-vla-ptq)
+- [Global Structure-from-Motion Meets Feedforward Reconstruction](../../conferences/cvpr-2026/cards.md#paper-feedforward-priors-global-sfm)
+- [Compositional Transformation Reasoning for Composed Video Retrieval](../../conferences/cvpr-2026/cards.md#paper-decomposed-transformation-video-retrieval)
 
 <!-- conference-classification:end -->

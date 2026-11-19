@@ -420,5 +420,6 @@ Reusable components and local changes to model inputs or connections.
 - [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](../../conferences/cvpr-2026/cards.md#paper-trajrag-topopolar-experience-retrieval)
 - [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](../../conferences/cvpr-2026/cards.md#paper-avavla-recurrent-belief-visual-attention)
 - [UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition](../../conferences/cvpr-2026/cards.md#paper-unimernet-horizontal-vertical-raster-attention)
+- [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](../../conferences/cvpr-2026/cards.md#paper-onesparse-memory-moe-unified-routing)
 
 <!-- conference-classification:end -->

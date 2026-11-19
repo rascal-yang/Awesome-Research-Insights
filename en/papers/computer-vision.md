@@ -1528,5 +1528,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](../../conferences/cvpr-2026/cards.md#paper-coupled-diffusion-multiview)
 - [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](../../conferences/cvpr-2026/cards.md#paper-phygap-polarization)
 - [UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision](../../conferences/cvpr-2026/cards.md#paper-unreflectanything-specular-supervision)
+- [Global Structure-from-Motion Meets Feedforward Reconstruction](../../conferences/cvpr-2026/cards.md#paper-feedforward-priors-global-sfm)
+- [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](../../conferences/cvpr-2026/cards.md#paper-falcon-sfod-object-priors)
+- [RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection](../../conferences/cvpr-2026/cards.md#paper-regformer-relational-grounding)
+- [MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-motionscale-cluster-motion)
 
 <!-- conference-classification:end -->

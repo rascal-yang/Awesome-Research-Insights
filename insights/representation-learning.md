@@ -744,5 +744,8 @@
 - [Uncertainty-Aware Modality Fusion for Unaligned RGB-T Salient Object Detection](../conferences/cvpr-2026/cards.md#paper-uncertainty-gating-unaligned-sensors)
 - [MD2E: Modeling Depth-to-Edge Cues for Monocular Metric Depth Estimation](../conferences/cvpr-2026/cards.md#paper-edge-spectrum-metric-depth-scale)
 - [Language-Grounded Decoupled Action Representation for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-lada-language-grounded-action-primitives)
+- [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-past-future-motion-latents-vla)
+- [TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models](../conferences/cvpr-2026/cards.md#paper-shared-continuous-latents-understanding-generation)
+- [Weight Space Representation Learning via Neural Field Adaptation](../conferences/cvpr-2026/cards.md#paper-mlora-structured-weight-space)
 
 <!-- conference-classification:end -->

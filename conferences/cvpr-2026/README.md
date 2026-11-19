@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,757 篇，其中 1,744 篇暂收录、1,013 篇排除，另有 1,285 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,787 篇，其中 1,762 篇暂收录、1,025 篇排除，另有 1,255 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1750,3 +1750,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,757
 | 机器人学 | 动作表征 | [Language-Grounded Decoupled Action Representation for Robotic Manipulation](cards.md#paper-lada-language-grounded-action-primitives) | 把平移、旋转和夹爪分开建模，并用语言相似性定义动作软标签。 |
 | 生成模型 | 多尺度架构 | [PixelDiT: Pixel Diffusion Transformers for Image Generation](cards.md#paper-pixeldit-patch-pixel-hierarchical-diffusion) | 将全局语义放在 patch 级，把细纹理留给压缩后的像素 token，从而在像素空间端到端训练。 |
 | 多模态学习 | 时序推理 | [Video-CoE: Reinforcing Video Event Prediction via Chain of Events](cards.md#paper-video-coe-event-chain-training) | 将未来预测的中间监督写成连续事件链，让模型显式关联观察与后续事件。 |
+| 机器人学 | 推理策略 | [QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models](cards.md#paper-attention-scale-calibration-vla-ptq) | 低比特 VLA 部署可分别校准注意力温度与输出残差能量，以保护扩散动作头。 |
+| 机器人学 | 表征学习 | [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](cards.md#paper-past-future-motion-latents-vla) | 动作模型可以用运动表征压缩历史并模拟未来变化，减少静态像素占用时序预算。 |
+| 计算机视觉 | 推理策略 | [Global Structure-from-Motion Meets Feedforward Reconstruction](cards.md#paper-feedforward-priors-global-sfm) | 三维建图可把前馈重建作为难配对场景的先验，同时保留全局几何优化。 |
+| 多模态学习 | 表征学习 | [TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models](cards.md#paper-shared-continuous-latents-understanding-generation) | 统一图像理解和生成可让语义编码接在连续 VAE 表示之后，避免分别维护两套视觉格式。 |
+| 多模态学习 | 推理策略 | [Compositional Transformation Reasoning for Composed Video Retrieval](cards.md#paper-decomposed-transformation-video-retrieval) | 组合视频检索可把文字修改拆解为主体、场景和时序约束，再用多目标排序。 |
+| 计算机视觉 | 训练策略 | [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](cards.md#paper-falcon-sfod-object-priors) | 源数据不可用时，除过滤伪标签外，用类别无关前景掩码修正检测器中间特征。 |
+| 多模态学习 | 奖励函数 | [Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR](cards.md#paper-fdrl-format-rewards) | 用输出熵发现需要推理的样本，对不同结构采用可验证的格式级奖励。 |
+| 机器人学 | 训练策略 | [IGen: Scalable Data Generation for Robot Learning from Open-World Images](cards.md#paper-igen-images-to-actions) | 利用图片构建可操控三维状态后生成动作与对应观测，以检查图像来源能否补充真实示教。 |
+| 计算机视觉 | 模型架构 | [RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection](cards.md#paper-regformer-relational-grounding) | 用弱监督的空间锚点学习可迁移交互特征，降低部署时枚举大量实例对的成本。 |
+| 计算机视觉 | 模型架构 | [MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting](cards.md#paper-motionscale-cluster-motion) | 将长期动态重建的运动参数分配给可扩展的局部运动簇，并独立更新新背景与运动前景。 |
+| 多模态学习 | 损失函数 | [$\phi$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models](cards.md#paper-phi-dpo-continual-balance) | 持续学习若任务或数据失衡，偏好损失应显式建模失衡而非仅用常规 DPO。 |
+| 多模态学习 | 训练策略 | [PhyCo: Learning Controllable Physical Priors for Generative Motion](cards.md#paper-phyco-physical-property-control) | 把摩擦、弹性等属性做成可操作条件，用反事实变化检验视频模型是否真的学到物理规律。 |
+| 机器学习基础与统计 | 评测与诊断 | [Better than Average: Spatially-Aware Aggregation of Segmentation Uncertainty Improves Downstream Performance](cards.md#paper-spatial-uncertainty-aggregation) | 将像素不确定性的空间形态用于部署告警，避免平均分稀释小区域的模型失败。 |
+| 机器学习 | 参数表征 | [Weight Space Representation Learning via Neural Field Adaptation](cards.md#paper-mlora-structured-weight-space) | 固定神经场底座，将每个样本的乘法低秩增量作为可直接建模的潜变量。 |
+| 生成模型 | 流匹配 | [Learning Straight Flows: Variational Flow Matching for Efficient Generation](cards.md#paper-svfm-variational-latent-straight-flows) | 显式约束流轨迹拉直，并测试低步数采样下的误差，避免只优化高步数结果。 |
+| 生成模型 | 参数高效适配 | [DCoAR: Deep Concept Injection into Unified Autoregressive Models for Personalized Text-to-Image Generation](cards.md#paper-dcoar-deep-frozen-concept-injection) | 冻结整座生成模型，在多层注入可学习概念，以很少参数支持新概念控制。 |
+| 机器学习 | 稀疏路由 | [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](cards.md#paper-onesparse-memory-moe-unified-routing) | 在同一设计空间内混合快速记忆查找和专家计算，用负载均衡稳定稀疏分配。 |
+| 机器人学 | 视觉定位 | [Dynamic Visual SLAM using a General 3D Prior](cards.md#paper-dynamic-slam-feedforward-geometry-prior) | 前馈三维先验只负责去动态区域和提供深度，在线局部几何优化仍保持闭环更新。 |

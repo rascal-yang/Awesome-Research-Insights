@@ -1577,5 +1577,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [A Debiased Reconstruction-based Framework for Training-Free Detection of AI-Generated Images](../../conferences/cvpr-2026/cards.md#paper-rdd-instance-reconstruction-debiasing)
 - [CaST-Bench: Benchmarking Causal Chain-Grounded Spatio-Temporal Reasoning for Video Question Answering](../../conferences/cvpr-2026/cards.md#paper-cast-bench-causal-evidence)
 - [VisualOverload: Probing Visual Understanding of VLMs in Really Dense Scenes](../../conferences/cvpr-2026/cards.md#paper-visualoverload-dense-detail-diagnostic)
+- [Better than Average: Spatially-Aware Aggregation of Segmentation Uncertainty Improves Downstream Performance](../../conferences/cvpr-2026/cards.md#paper-spatial-uncertainty-aggregation)
 
 <!-- conference-classification:end -->

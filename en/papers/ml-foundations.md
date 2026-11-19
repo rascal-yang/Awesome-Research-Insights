@@ -2541,5 +2541,10 @@ General learning methods, optimization, learning theory, and inference.
 - [Understanding, Accelerating, and Improving MeanFlow Training](../../conferences/cvpr-2026/cards.md#paper-meanflow-velocity-curriculum)
 - [FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-fozo-forward-only-prompt-adaptation)
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](../../conferences/cvpr-2026/cards.md#paper-pixeldit-patch-pixel-hierarchical-diffusion)
+- [Better than Average: Spatially-Aware Aggregation of Segmentation Uncertainty Improves Downstream Performance](../../conferences/cvpr-2026/cards.md#paper-spatial-uncertainty-aggregation)
+- [Weight Space Representation Learning via Neural Field Adaptation](../../conferences/cvpr-2026/cards.md#paper-mlora-structured-weight-space)
+- [Learning Straight Flows: Variational Flow Matching for Efficient Generation](../../conferences/cvpr-2026/cards.md#paper-svfm-variational-latent-straight-flows)
+- [DCoAR: Deep Concept Injection into Unified Autoregressive Models for Personalized Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-dcoar-deep-frozen-concept-injection)
+- [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](../../conferences/cvpr-2026/cards.md#paper-onesparse-memory-moe-unified-routing)
 
 <!-- conference-classification:end -->

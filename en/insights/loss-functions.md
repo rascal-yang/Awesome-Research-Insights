@@ -487,5 +487,6 @@ Objectives, auxiliary supervision, and regularization.
 - [High-Precision Dichotomous Image Segmentation via Depth Integrity-Prior and Fine-Grained Patch Strategy](../../conferences/cvpr-2026/cards.md#paper-pdfnet-depth-integrity)
 - [InsCal: Calibrated Multi-Source Fully Test-Time Prompt Tuning for Object Detection](../../conferences/cvpr-2026/cards.md#paper-inscal-instance-calibration)
 - [Distilling Balanced Knowledge from a Biased Teacher](../../conferences/cvpr-2026/cards.md#paper-ltkd-groupwise-distillation)
+- [$\phi$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-phi-dpo-continual-balance)
 
 <!-- conference-classification:end -->

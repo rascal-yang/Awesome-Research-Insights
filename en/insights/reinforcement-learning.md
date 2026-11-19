@@ -805,5 +805,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Unified Customized Generation by Disentangled Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-uso-disentangled-subject-style-rewards)
 - [TTRV: Test-Time Reinforcement Learning for Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-ttrv-consensus-based-test-time-reward)
 - [Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-localdpo-counterfactual-video-regions)
+- [Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR](../../conferences/cvpr-2026/cards.md#paper-fdrl-format-rewards)
 
 <!-- conference-classification:end -->

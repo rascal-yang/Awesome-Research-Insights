@@ -1069,5 +1069,9 @@ Robot perception, policy learning, planning, and control.
 - [Affostruction: 3D Affordance Grounding with Generative Reconstruction](../../conferences/cvpr-2026/cards.md#paper-affostruction-active-affordance)
 - [Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-afi-on-demand-spatial-affordance-intervention)
 - [Language-Grounded Decoupled Action Representation for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-lada-language-grounded-action-primitives)
+- [QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-attention-scale-calibration-vla-ptq)
+- [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-past-future-motion-latents-vla)
+- [IGen: Scalable Data Generation for Robot Learning from Open-World Images](../../conferences/cvpr-2026/cards.md#paper-igen-images-to-actions)
+- [Dynamic Visual SLAM using a General 3D Prior](../../conferences/cvpr-2026/cards.md#paper-dynamic-slam-feedforward-geometry-prior)
 
 <!-- conference-classification:end -->
