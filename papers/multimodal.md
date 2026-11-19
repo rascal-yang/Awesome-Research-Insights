@@ -1342,5 +1342,14 @@
 - [Vision-Speech Models: Teaching Speech Models to Converse about Images](../conferences/cvpr-2026/cards.md#paper-moshivis)
 - [Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision](../conferences/cvpr-2026/cards.md#paper-real-reasoning-attention-localization)
 - [DEVA: Fine-tuning Multimodal Large Language Models for Visual Perception Tasks](../conferences/cvpr-2026/cards.md#paper-deva-perception-rl-diversity-reward)
+- [FlowComposer: Composable Flows for Compositional Zero-Shot Learning](../conferences/cvpr-2026/cards.md#paper-flowcomposer-primitive-composition)
+- [MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping](../conferences/cvpr-2026/cards.md#paper-modes-layer-token-expert-skipping)
+- [Why Does RL Generalize Better Than SFT? A Data-Centric Perspective on VLM Post-Training](../conferences/cvpr-2026/cards.md#paper-dc-sft-difficulty-curated-ood)
+- [POGA: Paraphrased and Oppositional Graph Alignment for Fine-Grained Cross-Modal Retrieval](../conferences/cvpr-2026/cards.md#paper-poga-graph-alignment)
+- [WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](../conferences/cvpr-2026/cards.md#paper-wiseedit-failure-stage-evaluation)
+- [UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions](../conferences/cvpr-2026/cards.md#paper-uniavgen-asymmetric-timed-fusion)
+- [Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion](../conferences/cvpr-2026/cards.md#paper-editable-hard-prompt-token-decorrelation)
+- [CoLoGen: Progressive Learning of Concept-Localization Duality for Unified Image Generation](../conferences/cvpr-2026/cards.md#paper-cologen-staged-concept-localization)
+- [LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks](../conferences/cvpr-2026/cards.md#paper-lifeeval-online-assistive-interaction)
 
 <!-- conference-classification:end -->

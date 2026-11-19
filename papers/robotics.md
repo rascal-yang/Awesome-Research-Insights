@@ -1006,5 +1006,7 @@
 - [ModularAgent: A Task-Aware Modular Framework for Joint Optimization of Multimodal Large Language Models and World Models](../conferences/cvpr-2026/cards.md#paper-modularagent-bidirectional-semantic-dynamics)
 - [Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](../conferences/cvpr-2026/cards.md#paper-vipa-vla-human-video-3d-pretraining)
 - [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](../conferences/cvpr-2026/cards.md#paper-compact-world-tokenizer)
+- [Cross-Hand Latent Representation for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-xl-vla)
+- [TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-taco-lidar)
 
 <!-- conference-classification:end -->

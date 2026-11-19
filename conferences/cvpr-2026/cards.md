@@ -21031,3 +21031,318 @@
 - **适用条件 / 局限** · 效果依赖初始匹配和不确定性估计，前向窄基线场景仍具挑战。
 
 **可复用机制** · 将云团级初始化的不确定性与基元级更新的不确定性分层处理。
+
+<a id="paper-cfg-ctrl-nonlinear-guidance"></a>
+
+## CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_CFG-Ctrl_Control-Based_Classifier-Free_Diffusion_Guidance_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_CFG-Ctrl_Control-Based_Classifier-Free_Diffusion_Guidance_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定增益引导在较大尺度下可能造成过冲及语义偏差。
+- **核心创新 / 方法** · 将固定CFG解释为比例控制，对连续生成流引入滑模控制项。
+- **Baseline** · 与标准CFG及变体比较，表1统一列控制形式。
+- **Benchmark** · 表2在图像生成骨干上评FID、CLIP对齐及多种人类偏好代理。
+- **关键结果 / 消融** · 正文对比高引导配置的稳定性与语义质量；表2显示不同指标存在取舍。
+- **适用条件 / 局限** · 控制关系依赖所用连续流和语义误差估计，需复测步长及骨干变化。
+
+**可复用机制** · 生成引导增益过高时，把条件差作为控制误差并比较非线性替代方案。
+
+<a id="paper-vggt-object-attention-mask-refinement"></a>
+
+## VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gao_VGGT-Segmentor_Geometry-Enhanced_Cross-View_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_VGGT-Segmentor_Geometry-Enhanced_Cross-View_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 跨第一和第三视角的尺度、遮挡和视角差使像素级对应漂移。
+- **核心创新 / 方法** · 在VGGT几何特征上采用掩码提示融合、点引导预测和迭代细化。
+- **Baseline** · 区分空间及空时基线，并报告监督与零样本设置。
+- **Benchmark** · Ego-Exo4D跨视角分割，另在MvMHAT测AP。
+- **关键结果 / 消融** · 表1列两个学习设置和空间基线，表2给独立跨视角数据上的比较。
+- **适用条件 / 局限** · 当对象级注意也失配时，后续细化未必能找回目标，需按遮挡程度实测。
+
+**可复用机制** · 跨视角局部投影不可靠时，先借用对象级对齐，再由掩码解码器恢复像素细节。
+
+<a id="paper-flowcomposer-primitive-composition"></a>
+
+## FlowComposer: Composable Flows for Compositional Zero-Shot Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/He_FlowComposer_Composable_Flows_for_Compositional_Zero-Shot_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/He_FlowComposer_Composable_Flows_for_Compositional_Zero-Shot_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 提示拼接隐式表示组合，属性、物体与整体特征可能彼此污染。
+- **核心创新 / 方法** · 学习原始要素的流并显式组合，从而分开要素和整体变换。
+- **Baseline** · 比较视觉语言模型的参数高效组合识别方法；表2分别消融流、组合与增强。
+- **Benchmark** · MIT-States、UT-Zappos等三套闭世界及开放世界组合识别基准。
+- **关键结果 / 消融** · 表1列跨数据比较，表2涵盖两套数据并分开组件作用。
+- **适用条件 / 局限** · 依赖组合可拆性，属性语义强取决于物体时应复验。
+
+**可复用机制** · 开放组合识别可在嵌入空间显式组合属性和物体变换。
+
+<a id="paper-genwildsplat-canonical-geometry-appearance"></a>
+
+## Generalizable Sparse-View 3D Reconstruction from Unconstrained Images
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gupta_Generalizable_Sparse-View_3D_Reconstruction_from_Unconstrained_Images_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gupta_Generalizable_Sparse-View_3D_Reconstruction_from_Unconstrained_Images_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无位姿互联网图像存在光照差异和暂态遮挡，稀疏视图难支持逐场景训练。
+- **核心创新 / 方法** · 前馈预测深度、相机与规范空间高斯，再适配目标外观并处理暂态遮挡。
+- **Baseline** · 比较逐场景优化及前馈重建方法，并在同稀疏视图条件下对比。
+- **Benchmark** · PhotoTourism及MegaScenes，评估野外新视图合成及泛化。
+- **关键结果 / 消融** · 表1区分所需优化和输入假设，表2列稀疏条件下的定量对照。
+- **适用条件 / 局限** · 几何质量依赖序列覆盖和先验，光照适配不能修复严重缺失的观测。
+
+**可复用机制** · 稀疏无位姿重建将规范空间几何与目标光照适配分开，以降低逐场景优化依赖。
+
+<a id="paper-xpaintnet-bidirectional-warp-fusion"></a>
+
+## XPaintNet: An eXtreme Lightweight Framework for Stereoscopic Conversion without Inpainting Network
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yoon_XPaintNet_An_eXtreme_Lightweight_Framework_for_Stereoscopic_Conversion_without_Inpainting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yoon_XPaintNet_An_eXtreme_Lightweight_Framework_for_Stereoscopic_Conversion_without_Inpainting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 分阶段估深、变形、补洞开销高，遮挡边界易留伪影。
+- **核心创新 / 方法** · 估计反向流并近似对应正向流，用双向变形产生两个候选视图并学习融合掩码。
+- **Baseline** · 与立体转换方法比较，另消融竖直流分量。
+- **Benchmark** · 表2在标准数据上列输出质量及512分辨率效率。
+- **关键结果 / 消融** · 正文报告2K配置超100帧每秒，表2的效率口径是512分辨率，应分开比较。
+- **适用条件 / 局限** · 两路变形均不可见时无法恢复真实内容，需验证大遮挡和相机畸变。
+
+**可复用机制** · 实时跨视角合成可在两个方向分别变形，再按像素融合替代重型补洞。
+
+<a id="paper-modes-layer-token-expert-skipping"></a>
+
+## MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_MoDES_Accelerating_Mixture-of-Experts_Multimodal_Large_Language_Models_via_Dynamic_Expert_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_MoDES_Accelerating_Mixture-of-Experts_Multimodal_Large_Language_Models_via_Dynamic_Expert_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 面向单模态设计的专家跳过忽略层与模态差异，造成多模态任务质量损失。
+- **核心创新 / 方法** · 使用层级重要性调节词元的局部路由以选择可跳过专家，免训练。
+- **Baseline** · 与已有专家跳过方案比较，另列与MC-MoE量化组合的结果。
+- **Benchmark** · Kimi-VL-A3B-Instruct在不同实际跳过比例下比较基准得分比例和推理成本。
+- **关键结果 / 消融** · 表1区分目标与实际跳过率，表2报告量化组合对照。
+- **适用条件 / 局限** · 路由重要性依赖骨干及任务，实际加速取决于硬件调度及批处理。
+
+**可复用机制** · 多模态专家跳过时同时考虑层全局重要性和词元局部路由，并分别评估视觉任务。
+
+<a id="paper-dc-sft-difficulty-curated-ood"></a>
+
+## Why Does RL Generalize Better Than SFT? A Data-Centric Perspective on VLM Post-Training
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_Why_Does_RL_Generalize_Better_Than_SFT_A_Data-Centric_Perspective_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_Why_Does_RL_Generalize_Better_Than_SFT_A_Data-Centric_Perspective_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 强化学习与监督学习的域外差异可能由训练样本实际权重混杂。
+- **核心创新 / 方法** · 按难度筛选监督微调数据，检验强化学习是否隐式偏重中等难度。
+- **Baseline** · 比较不同难度的SFT、标准SFT、初始化及正文强化学习方案。
+- **Benchmark** · 图像分类与视觉定位分别测分布内外表现。
+- **关键结果 / 消融** · 表1报告不同难度构成的表现，表2对比训练范式，正文发现难样本可拖累域外表现。
+- **适用条件 / 局限** · 难度取决于初始化和任务，不能解释所有强化学习效果；应复验样本量与难度定义。
+
+**可复用机制** · 比较强化与监督微调的泛化前，先控制样本难度构成，并分开评内外分布。
+
+<a id="paper-xl-vla"></a>
+
+## Cross-Hand Latent Representation for Vision-Language-Action Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Cross-Hand_Latent_Representation_for_Vision-Language-Action_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_Cross-Hand_Latent_Representation_for_Vision-Language-Action_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 为每种灵巧手重新采集示范的成本高。
+- **核心创新 / 方法** · XL-VLA 将不同机械手的动作统一到潜空间，再由手形相关组件恢复控制表示。
+- **Baseline** · 表2与跨形态训练的 π0 比较，表3按机械手区分。
+- **Benchmark** · 多机械手灵巧操作和跨形态训练，见表2–3。
+- **关键结果 / 消融** · 正文将统一潜空间方案与跨形态训练基线对照。
+- **适用条件 / 局限** · 形态和接触约束差异可能超出潜空间覆盖，未见机械手需另验。
+
+**可复用机制** · 跨机械手共享动作潜空间，并按目标手验证潜变量能否被可靠解码。
+
+<a id="paper-noovd"></a>
+
+## NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_NoOVD_Novel_Category_Discovery_and_Embedding_for_Open-Vocabulary_Object_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_NoOVD_Novel_Category_Discovery_and_Embedding_for_Open-Vocabulary_Object_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 未标注的新类先被候选网络过滤，随后分类分数又偏低。
+- **核心创新 / 方法** · 借冻结视觉语言模型知识做自蒸馏，利用特征金字塔辅助发现潜在新类。
+- **Baseline** · 正文对照开放词表检测器并分查候选过滤。
+- **Benchmark** · OV-LVIS、OV-COCO 及 Objects365 跨数据测试，见表1–3。
+- **关键结果 / 消融** · 正文比较跨数据检测表现，避免只在已训练类别验证。
+- **适用条件 / 局限** · 教师的概念和区域识别错误可能随蒸馏传播，新域需诊断漏召回。
+
+**可复用机制** · 开放词表检测同时诊断候选召回与分类错误，减轻学习时把未标注物体当背景的问题。
+
+<a id="paper-mogaf-motion-groups"></a>
+
+## Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Space-Time_Forecasting_of_Dynamic_Scenes_with_Motion-aware_Gaussian_Grouping_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_Space-Time_Forecasting_of_Dynamic_Scenes_with_Motion-aware_Gaussian_Grouping_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单独预测三维基元易产生不协调变化，长序列误差会累积。
+- **核心创新 / 方法** · 在四维高斯表示上对动静及非刚体区域做运动感知分组和组优化，再以轻量模块预测运动。
+- **Baseline** · 现有动态场景预测及去除关键分组组件的变体。
+- **Benchmark** · iPhone 和 D-NeRF 的时间外推，表3报告跟踪及消融。
+- **关键结果 / 消融** · 作者在真实和合成序列比较画质与运动，支持分开检查表征和预测。
+- **适用条件 / 局限** · 物体相互遮挡或跨组拓扑改变时，分组和外推假设需另验。
+
+**可复用机制** · 先按运动一致性组织动态场景的基元，再以组为单位做超出观测窗的外推。
+
+<a id="paper-poga-graph-alignment"></a>
+
+## POGA: Paraphrased and Oppositional Graph Alignment for Fine-Grained Cross-Modal Retrieval
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_POGA_Paraphrased_and_Oppositional_Graph_Alignment_for_Fine-Grained_Cross-Modal_Retrieval_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_POGA_Paraphrased_and_Oppositional_Graph_Alignment_for_Fine-Grained_Cross-Modal_Retrieval_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 粗粒度相关性无法区分措辞相似但属性和布局不同的描述。
+- **核心创新 / 方法** · 生成改写正例及对立负例，将图文转为结构图提供差异监督。
+- **Baseline** · 正文比较细粒度图文检索方法，并分同分布及跨分布。
+- **Benchmark** · DCI、DOCCI、Urban1k 的 Recall@K，见表1–3。
+- **关键结果 / 消融** · 跨数据对照检验细粒度训练在新域是否仍有效。
+- **适用条件 / 局限** · 自动变体需人工或独立模型验证事实改变，错误负例可能污染训练。
+
+**可复用机制** · 细粒度检索同时使用保持事实的改写与改变局部事实的难负例，显式监督关系结构。
+
+<a id="paper-patchalign3d"></a>
+
+## PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hadgi_PatchAlign3D_Local_Feature_Alignment_for_Dense_3D_Shape_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hadgi_PatchAlign3D_Local_Feature_Alignment_for_Dense_3D_Shape_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全局三维基础模型对细粒度部件任务迁移弱，多视图推理开销大。
+- **核心创新 / 方法** · 两阶段训练点云 Transformer，将密集二维特征和部件文字对齐到三维补丁。
+- **Baseline** · 对照点云模型和基于多视图的部件方法。
+- **Benchmark** · ShapeNetPart、FAUST、PartNetE 的零样本部件分割，见表1–3。
+- **关键结果 / 消融** · 正文跨不同人体和物体数据报告零样本结果。
+- **适用条件 / 局限** · 二维区域匹配错误可能变成三维监督噪声，稀疏点云下需复核。
+
+**可复用机制** · 用二维教师的局部区域线索预训练三维补丁表示，推理时只运行点云编码器。
+
+<a id="paper-bezier-color-flows"></a>
+
+## Nonlinear Color Transfer via Learnable Bezier Flows
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Nonlinear_Color_Transfer_via_Learnable_Bezier_Flows_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_Nonlinear_Color_Transfer_via_Learnable_Bezier_Flows_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 色彩分布变化用线性路径时容易出现中间色偏和伪影。
+- **核心创新 / 方法** · 以 Bézier 轨迹参数化传输曲线，按输入色彩条件选择轨迹专家。
+- **Baseline** · ModFlows 等线性传输方法及重建对照。
+- **Benchmark** · ModFlows 数据和 Media art 图像，表1–3报告内容保留与重建误差。
+- **关键结果 / 消融** · 正文在不同材质纹理上比较内容保持和色彩迁移。
+- **适用条件 / 局限** · 非线性增加模型自由度，大域移时需评估异常颜色及内容损伤。
+
+**可复用机制** · 将固定直线改为可学习曲线路径，并用重建及感知指标分别检验收益。
+
+<a id="paper-taco-lidar"></a>
+
+## TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xing_TACO_Task-Aware_Contrastive_Learning_for_Joint_LiDAR_Localization_and_3D_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xing_TACO_Task-Aware_Contrastive_Learning_for_Joint_LiDAR_Localization_and_3D_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 定位需要稳定场景线索，检测则依赖可能移动的局部物体，直接共享容易相互干扰。
+- **核心创新 / 方法** · 用任务感知对比学习分离两类特征并进行双向监督。
+- **Baseline** · 分别训练和联合训练的检测、定位模型。
+- **Benchmark** · WOD 预训练检测结果与 OxfoLD 多次扫描定位，表2–3。
+- **关键结果 / 消融** · 正文分别评估检测和定位，并用位置与方向误差衡量定位。
+- **适用条件 / 局限** · 定位依赖可重复静态结构，长时变化与不同雷达布局需另测。
+
+**可复用机制** · 激光雷达定位和检测共享骨干时，用任务对比约束分离静态地理与物体特征。
+
+<a id="paper-wiseedit-failure-stage-evaluation"></a>
+
+## WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_WiseEdit_Benchmarking_Cognition-_and_Creativity-Informed_Image_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_WiseEdit_Benchmarking_Cognition-_and_Creativity-Informed_Image_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单一端到端分数难定位是哪个推理阶段导致失败。
+- **核心创新 / 方法** · 构造分阶段与复合任务，按陈述性、程序性和元认知知识覆盖题目。
+- **Baseline** · 与既有知识驱动编辑基准比较，并对比开源和闭源模型。
+- **Benchmark** · WiseEdit，覆盖分阶段与复合视觉编辑，按知识和任务类型测量。
+- **关键结果 / 消融** · 表 2 报告跨模型结果，允许对比分阶段和复杂编辑的表现。
+- **适用条件 / 局限** · 阶段切分依赖人工任务定义，自动或人工评分都需要检查一致性。
+
+**可复用机制** · 将知识驱动的编辑能力按感知、解释与创意分阶段考查。
+
+<a id="paper-uniavgen-asymmetric-timed-fusion"></a>
+
+## UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniAVGen_Unified_Audio_and_Video_Generation_with_Asymmetric_Cross-Modal_Interactions_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_UniAVGen_Unified_Audio_and_Video_Generation_with_Asymmetric_Cross-Modal_Interactions_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 音频与视频的采样粒度不同，直接共享结构容易损害同步或语义匹配。
+- **核心创新 / 方法** · 用两路扩散 Transformer 各处理一种模态，再以时序对齐的双向非对称交叉注意力融合，并对面部区域加权。
+- **Baseline** · 与已有音视频生成方法对照，消融交互设计和面部调节。
+- **Benchmark** · 人物中心音视频联合生成，分别比较同步、语义与生成质量。
+- **关键结果 / 消融** · 表 1 给出基线对比，表 2–3 将交互和面部调节单独验证。
+- **适用条件 / 局限** · 面部强调和训练数据偏向人物场景，包含多人或非面部声源时需复核。
+
+**可复用机制** · 音画模态分开建模，再对齐时序后按方向做交互。
+
+<a id="paper-editable-hard-prompt-token-decorrelation"></a>
+
+## Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Devulapally_Interpretable_Prompts_made_Edit-Friendly_Token-to-Token_Similarity_Reduction_in_dLLMs_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Devulapally_Interpretable_Prompts_made_Edit-Friendly_Token-to-Token_Similarity_Reduction_in_dLLMs_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 硬提示能重建参考图时，文本可能仍难解读或对单词替换过度敏感。
+- **核心创新 / 方法** · 用扩散语言模型反演可读硬提示，结合图文引导及词元相似性调节。
+- **Baseline** · 与已有提示反演方案比较，并消融 CLIP 引导与词元相似性调节。
+- **Benchmark** · 三个数据集，衡量源图重建、反演时长和替换或追加词元后的可编辑性。
+- **关键结果 / 消融** · 摘要报告反演时间约缩短至基线十分之一，表 2–3 检查速度与引导设计。
+- **适用条件 / 局限** · 重建与编辑目标可能冲突，自动编辑得分受文本评审及图像骨干影响。
+
+**可复用机制** · 为后续词元编辑显式约束反演提示的词元冗余，并分别衡量重建和可编辑性。
+
+<a id="paper-evapose-visibility-conditioned-keypoints"></a>
+
+## Egocentric Visibility-Aware Human Pose Estimation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dai_Egocentric_Visibility-Aware_Human_Pose_Estimation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dai_Egocentric_Visibility-Aware_Human_Pose_Estimation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 头戴相机下大量关节点不可见，混合监督和总体误差难解释模型表现。
+- **核心创新 / 方法** · 补充逐关键点可见性标注，并将可见性引入第一视角姿态估计。
+- **Baseline** · 在 Eva-3M 与扩充标注的 EMHI 上比较姿态基线。
+- **Benchmark** · Eva-3M、EMHI，同时按可见或不可见划分关键点。
+- **关键结果 / 消融** · 表 2 对比整体表现，表 3 分开给出可见与不可见点结果。
+- **适用条件 / 局限** · 标注和估计受设备视角与遮挡条件影响，换设备时需复核。
+
+**可复用机制** · 将可见和不可见关键点区分建模和评估，避免遮挡监督压低有证据的定位。
+
+<a id="paper-cologen-staged-concept-localization"></a>
+
+## CoLoGen: Progressive Learning of Concept-Localization Duality for Unified Image Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_CoLoGen_Progressive_Learning_of_Concept-Localization_Duality_for_Unified_Image_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_CoLoGen_Progressive_Learning_of_Concept-Localization_Duality_for_Unified_Image_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一图像生成要求抽象概念和空间精确两种不同表征。
+- **核心创新 / 方法** · 分阶段训练两类基础能力，从专用专家中路由并融合信息，最后学习复杂指令协同。
+- **Baseline** · 对比已有统一生成与编辑方案，并检查训练阶段和路由组件。
+- **Benchmark** · Emu Edit、MagicBrush 等指令编辑基准，另测试不同控制任务。
+- **关键结果 / 消融** · 表 1 列出各阶段训练数据，表 2 比较两个指令编辑测试集。
+- **适用条件 / 局限** · 阶段训练与数据构造开销较大，表示分工的效果依赖任务分布。
+
+**可复用机制** · 先培养概念与定位子能力，再逐步接入条件和复杂指令，缓解共享表征冲突。
+
+<a id="paper-topology-propagation-deformable-correspondence"></a>
+
+## Topology-aware Feature Propagation for Unsupervised Non-rigid Point Cloud Correspondence
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Topology-aware_Feature_Propagation_for_Unsupervised_Non-rigid_Point_Cloud_Correspondence_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Topology-aware_Feature_Propagation_for_Unsupervised_Non-rigid_Point_Cloud_Correspondence_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 点云变形时欧氏近邻会连到不同形体部位。
+- **核心创新 / 方法** · 以超点表达拓扑关系，用代表性码本增强特征，逐级传播至点对应。
+- **Baseline** · 对照先前无监督匹配方法，分别消融拓扑权重和码本。
+- **Benchmark** · SURREAL、SHREC19 等训练测试组合，衡量非刚性点对应质量。
+- **关键结果 / 消融** · 表 1 比较多基准，表 2–3 检查传播权重和码本的作用。
+- **适用条件 / 局限** · 严重拓扑变化或超点不可靠会破坏局部对应，跨形体泛化依赖训练覆盖。
+
+**可复用机制** · 用可学习拓扑替代欧氏邻接，减少非刚性变形下的跨表面错误传播。
+
+<a id="paper-lifeeval-online-assistive-interaction"></a>
+
+## LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gao_LifeEval_A_Multimodal_Benchmark_for_Assistive_AI_in_Egocentric_Daily_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_LifeEval_A_Multimodal_Benchmark_for_Assistive_AI_in_Egocentric_Daily_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 离线视频理解无法体现真实助手的协作时机和持续情境感知。
+- **核心创新 / 方法** · 设计围绕日常任务的第一视角流式问答与自然对话，按能力及问答类型拆分。
+- **Baseline** · 与常见视频基准比较，并对代表性多模态语言模型测评。
+- **Benchmark** · LifeEval 含 4075 个问题，按能力维度和问题类型评价。
+- **关键结果 / 消融** · 表 2 展示题目分布，表 3 分能力比较现有模型。
+- **适用条件 / 局限** · 问答与场景采样未必覆盖真实互动中的任务变化，流式成绩也受输入限制影响。
+
+**可复用机制** · 将任务导向、多轮互动和当前可见信息共同纳入第一视角助手评测。

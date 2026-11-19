@@ -712,5 +712,7 @@
 - [Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](../conferences/cvpr-2026/cards.md#paper-drp-local-motion-recomposition)
 - [Selectively Extracting and Injecting Visual Attributes into Text-to-Image Models](../conferences/cvpr-2026/cards.md#paper-reference-attribute-distilled-residual-embeddings)
 - [DSO: Direct Steering Optimization for Bias Mitigation](../conferences/cvpr-2026/cards.md#paper-dso-fairness-capability-steering)
+- [FlowComposer: Composable Flows for Compositional Zero-Shot Learning](../conferences/cvpr-2026/cards.md#paper-flowcomposer-primitive-composition)
+- [Egocentric Visibility-Aware Human Pose Estimation](../conferences/cvpr-2026/cards.md#paper-evapose-visibility-conditioned-keypoints)
 
 <!-- conference-classification:end -->

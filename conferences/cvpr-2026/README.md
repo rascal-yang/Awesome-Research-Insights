@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,217 篇，其中 1,402 篇暂收录、815 篇排除，另有 1,825 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,247 篇，其中 1,423 篇暂收录、824 篇排除，另有 1,795 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1408,3 +1408,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,217
 | 多模态学习 | 损失函数与优化 | [DEVA: Fine-tuning Multimodal Large Language Models for Visual Perception Tasks](cards.md#paper-deva-perception-rl-diversity-reward) | 诊断视觉强化微调中的探索收缩，并在训练目标和奖励聚合上同时保留多样性。 |
 | 计算机视觉 | 可控图像生成 | [SplitFlux: Learning to Decouple Content and Style from a Single Image](cards.md#paper-splitflux-layerwise-content-style) | 按层识别内容与风格作用，再把两类更新限制在不同的层段。 |
 | 计算机视觉 | 三维重建 | [BA-GS: Bayesian Adaptive Gaussian Splatting for SFM-Free 3D Reconstruction](cards.md#paper-bags-global-local-uncertainty) | 将云团级初始化的不确定性与基元级更新的不确定性分层处理。 |
+| 计算机视觉 | 推理策略 | [CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](cards.md#paper-cfg-ctrl-nonlinear-guidance) | 生成引导增益过高时，把条件差作为控制误差并比较非线性替代方案。 |
+| 计算机视觉 | 模型架构 | [VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation](cards.md#paper-vggt-object-attention-mask-refinement) | 跨视角局部投影不可靠时，先借用对象级对齐，再由掩码解码器恢复像素细节。 |
+| 多模态学习 | 表征学习 | [FlowComposer: Composable Flows for Compositional Zero-Shot Learning](cards.md#paper-flowcomposer-primitive-composition) | 开放组合识别可在嵌入空间显式组合属性和物体变换。 |
+| 计算机视觉 | 模型架构 | [Generalizable Sparse-View 3D Reconstruction from Unconstrained Images](cards.md#paper-genwildsplat-canonical-geometry-appearance) | 稀疏无位姿重建将规范空间几何与目标光照适配分开，以降低逐场景优化依赖。 |
+| 计算机视觉 | 模型架构 | [XPaintNet: An eXtreme Lightweight Framework for Stereoscopic Conversion without Inpainting Network](cards.md#paper-xpaintnet-bidirectional-warp-fusion) | 实时跨视角合成可在两个方向分别变形，再按像素融合替代重型补洞。 |
+| 多模态学习 | 推理策略 | [MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping](cards.md#paper-modes-layer-token-expert-skipping) | 多模态专家跳过时同时考虑层全局重要性和词元局部路由，并分别评估视觉任务。 |
+| 多模态学习 | 训练策略 | [Why Does RL Generalize Better Than SFT? A Data-Centric Perspective on VLM Post-Training](cards.md#paper-dc-sft-difficulty-curated-ood) | 比较强化与监督微调的泛化前，先控制样本难度构成，并分开评内外分布。 |
+| 机器人学 | 模型架构 | [Cross-Hand Latent Representation for Vision-Language-Action Models](cards.md#paper-xl-vla) | 跨机械手共享动作潜空间，并按目标手验证潜变量能否被可靠解码。 |
+| 计算机视觉 | 训练策略 | [NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection](cards.md#paper-noovd) | 开放词表检测同时诊断候选召回与分类错误，减轻学习时把未标注物体当背景的问题。 |
+| 计算机视觉 | 模型架构 | [Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping](cards.md#paper-mogaf-motion-groups) | 先按运动一致性组织动态场景的基元，再以组为单位做超出观测窗的外推。 |
+| 多模态学习 | 训练策略 | [POGA: Paraphrased and Oppositional Graph Alignment for Fine-Grained Cross-Modal Retrieval](cards.md#paper-poga-graph-alignment) | 细粒度检索同时使用保持事实的改写与改变局部事实的难负例，显式监督关系结构。 |
+| 计算机视觉 | 训练策略 | [PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding](cards.md#paper-patchalign3d) | 用二维教师的局部区域线索预训练三维补丁表示，推理时只运行点云编码器。 |
+| 计算机视觉 | 模型架构 | [Nonlinear Color Transfer via Learnable Bezier Flows](cards.md#paper-bezier-color-flows) | 将固定直线改为可学习曲线路径，并用重建及感知指标分别检验收益。 |
+| 机器人学 | 损失函数 | [TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection](cards.md#paper-taco-lidar) | 激光雷达定位和检测共享骨干时，用任务对比约束分离静态地理与物体特征。 |
+| 多模态学习 | 评测设计 | [WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](cards.md#paper-wiseedit-failure-stage-evaluation) | 将知识驱动的编辑能力按感知、解释与创意分阶段考查。 |
+| 多模态学习 | 音视频生成 | [UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions](cards.md#paper-uniavgen-asymmetric-timed-fusion) | 音画模态分开建模，再对齐时序后按方向做交互。 |
+| 多模态学习 | 推理优化 | [Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion](cards.md#paper-editable-hard-prompt-token-decorrelation) | 为后续词元编辑显式约束反演提示的词元冗余，并分别衡量重建和可编辑性。 |
+| 计算机视觉 | 表征学习 | [Egocentric Visibility-Aware Human Pose Estimation](cards.md#paper-evapose-visibility-conditioned-keypoints) | 将可见和不可见关键点区分建模和评估，避免遮挡监督压低有证据的定位。 |
+| 多模态学习 | 训练策略 | [CoLoGen: Progressive Learning of Concept-Localization Duality for Unified Image Generation](cards.md#paper-cologen-staged-concept-localization) | 先培养概念与定位子能力，再逐步接入条件和复杂指令，缓解共享表征冲突。 |
+| 计算机视觉 | 三维匹配 | [Topology-aware Feature Propagation for Unsupervised Non-rigid Point Cloud Correspondence](cards.md#paper-topology-propagation-deformable-correspondence) | 用可学习拓扑替代欧氏邻接，减少非刚性变形下的跨表面错误传播。 |
+| 多模态学习 | 评测设计 | [LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks](cards.md#paper-lifeeval-online-assistive-interaction) | 将任务导向、多轮互动和当前可见信息共同纳入第一视角助手评测。 |

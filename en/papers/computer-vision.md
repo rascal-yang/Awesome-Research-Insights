@@ -1422,5 +1422,15 @@ Visual representation, recognition, reconstruction, and generation.
 - [SAG-GNN: Semantic-Aware Guided GNN for Descriptor-Free 2D-3D Matching](../../conferences/cvpr-2026/cards.md#paper-saggnn-compact-semantic-correspondence)
 - [SplitFlux: Learning to Decouple Content and Style from a Single Image](../../conferences/cvpr-2026/cards.md#paper-splitflux-layerwise-content-style)
 - [BA-GS: Bayesian Adaptive Gaussian Splatting for SFM-Free 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-bags-global-local-uncertainty)
+- [CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](../../conferences/cvpr-2026/cards.md#paper-cfg-ctrl-nonlinear-guidance)
+- [VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation](../../conferences/cvpr-2026/cards.md#paper-vggt-object-attention-mask-refinement)
+- [Generalizable Sparse-View 3D Reconstruction from Unconstrained Images](../../conferences/cvpr-2026/cards.md#paper-genwildsplat-canonical-geometry-appearance)
+- [XPaintNet: An eXtreme Lightweight Framework for Stereoscopic Conversion without Inpainting Network](../../conferences/cvpr-2026/cards.md#paper-xpaintnet-bidirectional-warp-fusion)
+- [NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection](../../conferences/cvpr-2026/cards.md#paper-noovd)
+- [Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping](../../conferences/cvpr-2026/cards.md#paper-mogaf-motion-groups)
+- [PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding](../../conferences/cvpr-2026/cards.md#paper-patchalign3d)
+- [Nonlinear Color Transfer via Learnable Bezier Flows](../../conferences/cvpr-2026/cards.md#paper-bezier-color-flows)
+- [Egocentric Visibility-Aware Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-evapose-visibility-conditioned-keypoints)
+- [Topology-aware Feature Propagation for Unsupervised Non-rigid Point Cloud Correspondence](../../conferences/cvpr-2026/cards.md#paper-topology-propagation-deformable-correspondence)
 
 <!-- conference-classification:end -->

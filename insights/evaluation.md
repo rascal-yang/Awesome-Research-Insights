@@ -1553,5 +1553,7 @@
 - [VirtueBench: Evaluating Trustworthiness under Uncertainty in Long Video Understanding](../conferences/cvpr-2026/cards.md#paper-virtuebench-evidence-conditioned-abstention)
 - [Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](../conferences/cvpr-2026/cards.md#paper-hallucination-as-cue)
 - [Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](../conferences/cvpr-2026/cards.md#paper-back-to-the-feature)
+- [WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](../conferences/cvpr-2026/cards.md#paper-wiseedit-failure-stage-evaluation)
+- [LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks](../conferences/cvpr-2026/cards.md#paper-lifeeval-online-assistive-interaction)
 
 <!-- conference-classification:end -->

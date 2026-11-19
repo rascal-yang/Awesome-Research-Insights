@@ -468,5 +468,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-cim-caption-information-retrieval-reward)
 - [MatchED: Crisp Edge Detection Using End-to-End, Matching-based Supervision](../../conferences/cvpr-2026/cards.md#paper-matched-crisp-edges)
 - [DEVA: Fine-tuning Multimodal Large Language Models for Visual Perception Tasks](../../conferences/cvpr-2026/cards.md#paper-deva-perception-rl-diversity-reward)
+- [TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-taco-lidar)
 
 <!-- conference-classification:end -->

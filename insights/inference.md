@@ -1573,5 +1573,9 @@
 - [From Sketch to Fresco: Efficient Diffusion Transformer with Progressive Resolution](../conferences/cvpr-2026/cards.md#paper-fresco-consistent-progressive-resolution)
 - [Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain](../conferences/cvpr-2026/cards.md#paper-transient-glare-calibrated-operator)
 - [SplitFlux: Learning to Decouple Content and Style from a Single Image](../conferences/cvpr-2026/cards.md#paper-splitflux-layerwise-content-style)
+- [CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](../conferences/cvpr-2026/cards.md#paper-cfg-ctrl-nonlinear-guidance)
+- [MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping](../conferences/cvpr-2026/cards.md#paper-modes-layer-token-expert-skipping)
+- [UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions](../conferences/cvpr-2026/cards.md#paper-uniavgen-asymmetric-timed-fusion)
+- [Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion](../conferences/cvpr-2026/cards.md#paper-editable-hard-prompt-token-decorrelation)
 
 <!-- conference-classification:end -->

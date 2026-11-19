@@ -1163,5 +1163,10 @@ Training schedules, curricula, and task or stage composition.
 - [Vision-Speech Models: Teaching Speech Models to Converse about Images](../../conferences/cvpr-2026/cards.md#paper-moshivis)
 - [Robust Promptable Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-moga-robust-pvos)
 - [Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision](../../conferences/cvpr-2026/cards.md#paper-real-reasoning-attention-localization)
+- [Why Does RL Generalize Better Than SFT? A Data-Centric Perspective on VLM Post-Training](../../conferences/cvpr-2026/cards.md#paper-dc-sft-difficulty-curated-ood)
+- [NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection](../../conferences/cvpr-2026/cards.md#paper-noovd)
+- [POGA: Paraphrased and Oppositional Graph Alignment for Fine-Grained Cross-Modal Retrieval](../../conferences/cvpr-2026/cards.md#paper-poga-graph-alignment)
+- [PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding](../../conferences/cvpr-2026/cards.md#paper-patchalign3d)
+- [CoLoGen: Progressive Learning of Concept-Localization Duality for Unified Image Generation](../../conferences/cvpr-2026/cards.md#paper-cologen-staged-concept-localization)
 
 <!-- conference-classification:end -->

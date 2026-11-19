@@ -682,5 +682,11 @@
 - [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](../conferences/cvpr-2026/cards.md#paper-compact-world-tokenizer)
 - [Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding](../conferences/cvpr-2026/cards.md#paper-structure-aware-mamba)
 - [Geometric-Photometric Event-based 3D Gaussian Ray Tracing](../conferences/cvpr-2026/cards.md#paper-gpert-event-rays)
+- [VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation](../conferences/cvpr-2026/cards.md#paper-vggt-object-attention-mask-refinement)
+- [Generalizable Sparse-View 3D Reconstruction from Unconstrained Images](../conferences/cvpr-2026/cards.md#paper-genwildsplat-canonical-geometry-appearance)
+- [XPaintNet: An eXtreme Lightweight Framework for Stereoscopic Conversion without Inpainting Network](../conferences/cvpr-2026/cards.md#paper-xpaintnet-bidirectional-warp-fusion)
+- [Cross-Hand Latent Representation for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-xl-vla)
+- [Space-Time Forecasting of Dynamic Scenes with Motion-aware Gaussian Grouping](../conferences/cvpr-2026/cards.md#paper-mogaf-motion-groups)
+- [Nonlinear Color Transfer via Learnable Bezier Flows](../conferences/cvpr-2026/cards.md#paper-bezier-color-flows)
 
 <!-- conference-classification:end -->
