@@ -881,5 +881,9 @@
 - [Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](../conferences/cvpr-2026/cards.md#paper-ghost-fwl-waveform-returns)
 - [Unified Latent Space for Understanding and Generation via Semantic Auto-encoder](../conferences/cvpr-2026/cards.md#paper-semantic-autoencoder-geometry-detail)
 - [Talking Together: Synthesizing Co-Located 3D Conversations from Audio](../conferences/cvpr-2026/cards.md#paper-talking-together-cross-speaker-gaze)
+- [Learning Latent Proxies for Controllable Single-Image Relighting](../conferences/cvpr-2026/cards.md#paper-lightctrl-sparse-physical-proxies)
+- [ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Senisng](../conferences/cvpr-2026/cards.md#paper-changebridge-asynchronous-drift)
+- [PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](../conferences/cvpr-2026/cards.md#paper-physgm-joint-appearance-physics)
+- [STARFlow-V: End-to-End Video Generative Modeling with Autoregressive Normalizing Flows](../conferences/cvpr-2026/cards.md#paper-starflowv-causal-video-flows)
 
 <!-- conference-classification:end -->

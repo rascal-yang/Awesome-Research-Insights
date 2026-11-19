@@ -434,5 +434,7 @@ Reusable components and local changes to model inputs or connections.
 - [OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-oasis-hierarchical-event-memory-refinement)
 - [FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](../../conferences/cvpr-2026/cards.md#paper-fluxmem-temporal-spatial-adaptive-compression)
 - [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](../../conferences/cvpr-2026/cards.md#paper-onestory-global-frame-memory-next-shot)
+- [BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates](../../conferences/cvpr-2026/cards.md#paper-balm-missing-rate-gradient-rebalancing)
+- [ARES: Unifying Asymmetric RGB-Event Stereo for Probabilistic Scene Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-ares-temporal-disparity-posterior-fusion)
 
 <!-- conference-classification:end -->

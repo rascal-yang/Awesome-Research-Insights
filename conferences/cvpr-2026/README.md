@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,957 篇，其中 2,534 篇暂收录、1,423 篇排除，另有 85 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,987 篇，其中 2,552 篇暂收录、1,435 篇排除，另有 55 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2540,3 +2540,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,957
 | 高效深度学习 | 表征学习 | [Neural-Centric Video Processing Pipeline for Unified Multi-Task Inference](cards.md#paper-nvp-intermediate-neural-video-adapters) | 重复处理同一视频时，从隐式编码中直接读任务特征，用小型适配器避免全量像素解码。 |
 | 机器学习 | 多视角学习 | [Scalable Multi-View Subspace Clustering with Tensorized Anchor Guidance](cards.md#paper-tensorized-cross-view-anchor-guidance) | 聚类用锚点压缩时，联合约束视角间锚点的低秩关系，保留一致与互补信息。 |
 | 生成模型 | 世界模型 | [PHANTOM: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics](cards.md#paper-physics-infused-joint-visual-latent-dynamics) | 在生成视觉未来的同时预测隐式物理状态，分别评自然观感与物理常识。 |
+| 机器人学 | 合成监督 | [Learning Multi-View Spatial Reasoning from Cross-View Relations](cards.md#paper-xvr-cross-view-correspondence-verification-localization) | 给多视角模型分别训练跨图对应、关系验证和目标定位，避免只评单图空间理解。 |
+| 机器学习 | 评测设计 | [Measuring the (Un)Faithfulness of Concept-Based Explanations](cards.md#paper-concept-explanation-surrogate-complexity-audit) | 评概念解释必须控制代理复杂度和删除方式，避免把复杂拟合误认成更可信解释。 |
+| 多模态学习 | 可解释表征 | [TRANSPORTER: Transferring Visual Semantics from VLM Manifolds](cards.md#paper-transporter-logits-to-video-probing) | 用预测方向控制视频生成，把类别得分对应的抽象语义展示为可观察变化。 |
+| 多模态学习 | 传感器融合 | [BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates](cards.md#paper-balm-missing-rate-gradient-rebalancing) | 当各模态缺失比例不同，除了对齐特征还检查各分支梯度量级。 |
+| 三维视觉 | 时序状态建模 | [4D Primitive-Mache: Glueing Primitives for Persistent 4D Scene Reconstruction](cards.md#paper-4dpm-persistent-rigid-primitives) | 将已看到但后来被遮挡的几何保存在持久部件状态中，支持完整轨迹回放。 |
+| 计算机视觉 | 模型架构 | [Learning Latent Proxies for Controllable Single-Image Relighting](cards.md#paper-lightctrl-sparse-physical-proxies) | 照明控制可先标注变化敏感区域及局部材质几何代理，无需完整反演全部物性。 |
+| 计算机视觉 | 损失函数 | [Edit-aware RAW reconstruction](cards.md#paper-edit-aware-raw-isp) | 恢复中间表示时随机模拟其后处理，把多种下游编辑结果一起纳入训练。 |
+| 计算机视觉 | 模型架构 | [ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Senisng](cards.md#paper-changebridge-asynchronous-drift) | 事件稀疏发生时，用已观察状态而非噪声初始化，并允许不同位置变化速率不等。 |
+| 机器人学 | 模型架构 | [PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](cards.md#paper-physgm-joint-appearance-physics) | 从观测联合推断外观和物理参数，将可视线索用于立即可运行的动态模型。 |
+| 机器学习基础与统计 | 优化策略 | [AcTTA: Rethinking Test-Time Adaptation via Dynamic Activation](cards.md#paper-actta-adaptive-activation) | 测试域变化时可只调激活阈值与梯度敏感度，再比较归一化适配。 |
+| 计算机视觉 | 优化策略 | [Prospective Dynamic 3D MRI Reconstruction via Latent-Space Motion Tracking from Single Measurement](cards.md#paper-pdmr-low-dimensional-motion) | 离线学习低维形变流形，在线仅估计潜变量以降低稀疏重建搜索成本。 |
+| 计算机视觉 | 模型架构 | [STARFlow-V: End-to-End Video Generative Modeling with Autoregressive Normalizing Flows](cards.md#paper-starflowv-causal-video-flows) | 需要因果续写和似然建模时，可比较端到端归一化流视频模型与扩散。 |
+| 多模态学习 | 自监督表征 | [Self-guided Semantic Inspection for Zero-Shot Composed Image Retrieval](cards.md#paper-diffcomp-induced-cross-modal-discrepancy) | 组合查询由现状图和修改文本组成时，训练中主动制造有解释的模态差异。 |
+| 机器学习 | 测试时适配 | [Dance Across Shifts: Forward-Facilitation Continual Test-Time Adaptation through Dynamic Style Bridging](cards.md#paper-dynamic-style-bridging-forward-continual-adaptation) | 用当前输入的风格更新类别代理，使适配信号随部署流变化。 |
+| 多模态学习 | 持续学习 | [Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting](cards.md#paper-dpw-token-dependent-prefix-residual-adapters) | 让各 token 有不同适配强度，再分配未用前缀权重给适配器。 |
+| 多模态学习 | 自监督表征 | [Temporal Inversion for Learning Interval Change in Chest X-Rays](cards.md#paper-tila-temporal-inversion-directional-supervision) | 对前后帧反转并要求变化方向反转，避免时序模型只描述单帧状态。 |
+| 生成模型 | 动态推理 | [PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion](cards.md#paper-pssr-asymmetric-base-draft-refinement) | 大模型只确定整体结构，用小模型迭代补高频细节。 |
+| 机器人学 | 传感器融合 | [ARES: Unifying Asymmetric RGB-Event Stereo for Probabilistic Scene Flow Estimation](cards.md#paper-ares-temporal-disparity-posterior-fusion) | 先在空间时间共同对应空间估视差及光流，再融合随时间变化的视差分布。 |

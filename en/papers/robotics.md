@@ -1202,5 +1202,8 @@ Robot perception, policy learning, planning, and control.
 - [Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](../../conferences/cvpr-2026/cards.md#paper-gpocc-surface-to-volume-geometry-prior)
 - [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](../../conferences/cvpr-2026/cards.md#paper-closed-loop-difficulty-motion-synthesis)
 - [Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](../../conferences/cvpr-2026/cards.md#paper-ghost-fwl-waveform-returns)
+- [Learning Multi-View Spatial Reasoning from Cross-View Relations](../../conferences/cvpr-2026/cards.md#paper-xvr-cross-view-correspondence-verification-localization)
+- [PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](../../conferences/cvpr-2026/cards.md#paper-physgm-joint-appearance-physics)
+- [ARES: Unifying Asymmetric RGB-Event Stereo for Probabilistic Scene Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-ares-temporal-disparity-posterior-fusion)
 
 <!-- conference-classification:end -->

@@ -1774,5 +1774,7 @@
 - [Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising](../conferences/cvpr-2026/cards.md#paper-dsnet-patch-noise-adaptive-routing)
 - [ElasticFormer: Detecting Objects in HRW Shots via Elastic Computing Vision Transformer](../conferences/cvpr-2026/cards.md#paper-elasticformer-foreground-proportion-compute-budget)
 - [S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations](../conferences/cvpr-2026/cards.md#paper-s2d-dominant-singular-value-conditioning)
+- [Dance Across Shifts: Forward-Facilitation Continual Test-Time Adaptation through Dynamic Style Bridging](../conferences/cvpr-2026/cards.md#paper-dynamic-style-bridging-forward-continual-adaptation)
+- [PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion](../conferences/cvpr-2026/cards.md#paper-pssr-asymmetric-base-draft-refinement)
 
 <!-- conference-classification:end -->

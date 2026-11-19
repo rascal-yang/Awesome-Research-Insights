@@ -2683,5 +2683,9 @@
 - [Neural-Centric Video Processing Pipeline for Unified Multi-Task Inference](../conferences/cvpr-2026/cards.md#paper-nvp-intermediate-neural-video-adapters)
 - [Scalable Multi-View Subspace Clustering with Tensorized Anchor Guidance](../conferences/cvpr-2026/cards.md#paper-tensorized-cross-view-anchor-guidance)
 - [PHANTOM: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics](../conferences/cvpr-2026/cards.md#paper-physics-infused-joint-visual-latent-dynamics)
+- [Measuring the (Un)Faithfulness of Concept-Based Explanations](../conferences/cvpr-2026/cards.md#paper-concept-explanation-surrogate-complexity-audit)
+- [AcTTA: Rethinking Test-Time Adaptation via Dynamic Activation](../conferences/cvpr-2026/cards.md#paper-actta-adaptive-activation)
+- [Dance Across Shifts: Forward-Facilitation Continual Test-Time Adaptation through Dynamic Style Bridging](../conferences/cvpr-2026/cards.md#paper-dynamic-style-bridging-forward-continual-adaptation)
+- [PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion](../conferences/cvpr-2026/cards.md#paper-pssr-asymmetric-base-draft-refinement)
 
 <!-- conference-classification:end -->

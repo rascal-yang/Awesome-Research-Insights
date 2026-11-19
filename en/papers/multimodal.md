@@ -1718,5 +1718,10 @@ Learning across modalities such as images, text, audio, and video.
 - [LVLM-Aided Alignment of Task-Specific Vision Models](../../conferences/cvpr-2026/cards.md#paper-lvlm-va-image-critiques)
 - [DiGraphHal-Bench: Evaluating Multimodal Large Language Models on Complex Directed Graphs](../../conferences/cvpr-2026/cards.md#paper-digraphhal-structural-reasoning)
 - [Talking Together: Synthesizing Co-Located 3D Conversations from Audio](../../conferences/cvpr-2026/cards.md#paper-talking-together-cross-speaker-gaze)
+- [TRANSPORTER: Transferring Visual Semantics from VLM Manifolds](../../conferences/cvpr-2026/cards.md#paper-transporter-logits-to-video-probing)
+- [BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates](../../conferences/cvpr-2026/cards.md#paper-balm-missing-rate-gradient-rebalancing)
+- [Self-guided Semantic Inspection for Zero-Shot Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-diffcomp-induced-cross-modal-discrepancy)
+- [Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting](../../conferences/cvpr-2026/cards.md#paper-dpw-token-dependent-prefix-residual-adapters)
+- [Temporal Inversion for Learning Interval Change in Chest X-Rays](../../conferences/cvpr-2026/cards.md#paper-tila-temporal-inversion-directional-supervision)
 
 <!-- conference-classification:end -->

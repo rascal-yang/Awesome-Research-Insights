@@ -1655,5 +1655,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory](../../conferences/cvpr-2026/cards.md#paper-contextual-safety-matched-pairs)
 - [PhysGaia: A Physics-aware Benchmark with Multi-Body Interactions for Dynamic Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-physgaia-physics-ground-truth-for-dynamic-nvs)
 - [DiGraphHal-Bench: Evaluating Multimodal Large Language Models on Complex Directed Graphs](../../conferences/cvpr-2026/cards.md#paper-digraphhal-structural-reasoning)
+- [Measuring the (Un)Faithfulness of Concept-Based Explanations](../../conferences/cvpr-2026/cards.md#paper-concept-explanation-surrogate-complexity-audit)
+- [TRANSPORTER: Transferring Visual Semantics from VLM Manifolds](../../conferences/cvpr-2026/cards.md#paper-transporter-logits-to-video-probing)
 
 <!-- conference-classification:end -->

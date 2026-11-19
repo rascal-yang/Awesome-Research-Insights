@@ -743,5 +743,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Anatomical Domain Shifts: Test-time Heterogeneous Adaptation for 3D Human Pose Prediction](../../conferences/cvpr-2026/cards.md#paper-ttha-anatomical-shifts)
 - [3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-self-constrained-gaussian-tsdf)
 - [MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry](../../conferences/cvpr-2026/cards.md#paper-merg3r-confidence-fusion)
+- [AcTTA: Rethinking Test-Time Adaptation via Dynamic Activation](../../conferences/cvpr-2026/cards.md#paper-actta-adaptive-activation)
+- [Prospective Dynamic 3D MRI Reconstruction via Latent-Space Motion Tracking from Single Measurement](../../conferences/cvpr-2026/cards.md#paper-pdmr-low-dimensional-motion)
 
 <!-- conference-classification:end -->

@@ -506,5 +506,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Exemplar-Free Class Incremental Learning via Preserving Class-Discriminative Structure](../../conferences/cvpr-2026/cards.md#paper-efcil-class-geometry)
 - [Detecting Unknown Objects via Energy-based Separation for Open World Object Detection](../../conferences/cvpr-2026/cards.md#paper-deus-open-world-energy-separation)
 - [Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-dropansh-neighborhood-compensation-regularization)
+- [Edit-aware RAW reconstruction](../../conferences/cvpr-2026/cards.md#paper-edit-aware-raw-isp)
 
 <!-- conference-classification:end -->

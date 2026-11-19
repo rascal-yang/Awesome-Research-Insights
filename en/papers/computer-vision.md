@@ -1758,5 +1758,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [Diffusion-Based sRGB Real Noise Generation via Prompt-Driven Noise Representation Learning](../../conferences/cvpr-2026/cards.md#paper-png-metadata-free-noise)
 - [MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry](../../conferences/cvpr-2026/cards.md#paper-merg3r-confidence-fusion)
 - [Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-dropansh-neighborhood-compensation-regularization)
+- [4D Primitive-Mache: Glueing Primitives for Persistent 4D Scene Reconstruction](../../conferences/cvpr-2026/cards.md#paper-4dpm-persistent-rigid-primitives)
+- [Learning Latent Proxies for Controllable Single-Image Relighting](../../conferences/cvpr-2026/cards.md#paper-lightctrl-sparse-physical-proxies)
+- [Edit-aware RAW reconstruction](../../conferences/cvpr-2026/cards.md#paper-edit-aware-raw-isp)
+- [ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Senisng](../../conferences/cvpr-2026/cards.md#paper-changebridge-asynchronous-drift)
+- [Prospective Dynamic 3D MRI Reconstruction via Latent-Space Motion Tracking from Single Measurement](../../conferences/cvpr-2026/cards.md#paper-pdmr-low-dimensional-motion)
+- [STARFlow-V: End-to-End Video Generative Modeling with Autoregressive Normalizing Flows](../../conferences/cvpr-2026/cards.md#paper-starflowv-causal-video-flows)
 
 <!-- conference-classification:end -->

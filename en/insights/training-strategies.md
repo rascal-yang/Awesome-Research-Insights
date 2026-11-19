@@ -1409,5 +1409,9 @@ Training schedules, curricula, and task or stage composition.
 - [FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters](../../conferences/cvpr-2026/cards.md#paper-fastlightgen-joint-step-and-parameter-distillation)
 - [LVLM-Aided Alignment of Task-Specific Vision Models](../../conferences/cvpr-2026/cards.md#paper-lvlm-va-image-critiques)
 - [Diffusion-Based sRGB Real Noise Generation via Prompt-Driven Noise Representation Learning](../../conferences/cvpr-2026/cards.md#paper-png-metadata-free-noise)
+- [Learning Multi-View Spatial Reasoning from Cross-View Relations](../../conferences/cvpr-2026/cards.md#paper-xvr-cross-view-correspondence-verification-localization)
+- [Self-guided Semantic Inspection for Zero-Shot Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-diffcomp-induced-cross-modal-discrepancy)
+- [Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting](../../conferences/cvpr-2026/cards.md#paper-dpw-token-dependent-prefix-residual-adapters)
+- [Temporal Inversion for Learning Interval Change in Chest X-Rays](../../conferences/cvpr-2026/cards.md#paper-tila-temporal-inversion-directional-supervision)
 
 <!-- conference-classification:end -->
