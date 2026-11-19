@@ -1527,5 +1527,9 @@
 - [Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-image-derived-verifiable-spatial-rewards)
 - [SoliReward: Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models](../conferences/cvpr-2026/cards.md#paper-solireward-cross-prompt)
 - [Towards Streaming Referring Video Segmentation via Large Language Model](../conferences/cvpr-2026/cards.md#paper-streamingrvos-embedding-recycling)
+- [BOP-ASK: Object-Interaction Reasoning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-pose-derived-interaction-reasoning-tests)
+- [TIGER: A Unified Framework for Time, Images and Geo-location Retrieval](../conferences/cvpr-2026/cards.md#paper-tiger-geo-time-retrieval)
+- [Multimodal Learning on Low-Quality Data with Conformal Predictive Self-Calibration](../conferences/cvpr-2026/cards.md#paper-cpsc-reliability-calibration)
+- [MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models](../conferences/cvpr-2026/cards.md#paper-micon-multi-image-checkpoint-verification)
 
 <!-- conference-classification:end -->

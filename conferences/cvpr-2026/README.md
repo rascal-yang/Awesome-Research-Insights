@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,117 篇，其中 1,970 篇暂收录、1,147 篇排除，另有 925 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,147 篇，其中 1,989 篇暂收录、1,158 篇排除，另有 895 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1976,3 +1976,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,117
 | 机器学习 | 数据筛选 | [NTK-Guided Implicit Neural Teaching](cards.md#paper-nint-ntk-guided-coordinate-selection) | 拟合密集坐标信号时，同时考虑误差和训练样本对全局函数的影响。 |
 | 机器人学 | 主动感知 | [AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception](cards.md#paper-adaradar-task-feedback-adaptive-compression) | 让下游模型的置信反馈在线调节传感器压缩率，避免预先固定码率。 |
 | 生成模型 | 条件生成 | [Lighting-grounded Video Generation with Renderer-based Agent Reasoning](cards.md#paper-liver-unified-rendered-control-conditions) | 让布局、灯光与相机参数在同一可渲染状态中定义，再分别输出引导信号。 |
+| 计算机视觉 | 模型架构 | [WildPose: A Unified Framework for Robust Pose Estimation in the Wild](cards.md#paper-dynamic-masks-differentiable-bundle-adjustment) | 相机位姿估计可让前馈场景表征和可微束调整共同应对运动干扰。 |
+| 计算机视觉 | 数据策略 | [IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation](cards.md#paper-boundary-aware-inversion-dataset-distillation) | 生成数据用于分类时可显式补足判别边界，避免只复现高密度典型样本。 |
+| 多模态学习 | 数据策略 | [BOP-ASK: Object-Interaction Reasoning for Vision-Language Models](cards.md#paper-pose-derived-interaction-reasoning-tests) | 六维对象姿态可自动生成精确接地、物理兼容性和可供性训练题。 |
+| 机器学习基础与统计 | 优化 | [Label-Free Cross-Task LoRA Merging with Null-Space Compression](cards.md#paper-downprojection-null-space-adapter-merging) | 异构任务的 LoRA 可根据适配矩阵零空间变化定合并权重，无需让不同输出共享置信度定义。 |
+| 计算机视觉 | 训练策略 | [Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation](cards.md#paper-sequence-noise-and-residual-domain-harmonization) | 多域图像转换可先利用噪声使域分布接近，再分开去残差和去噪。 |
+| 机器学习基础与统计 | 训练策略 | [2ndMatch: Finetuning Pruned Diffusion Models via Second-Order Jacobian Matching](cards.md#paper-jacobian-gram-transfer-pruned-diffusion) | 剪枝扩散恢复可匹配教师与学生对输入扰动的二阶 Jacobian 结构。 |
+| 机器人学 | 表征学习 | [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](cards.md#paper-early-temporal-difference-continuous-action-latents) | 视频动作预训练可在早期显式提取时差，抑制静态捷径同时保留连续控制精度。 |
+| 机器学习基础与统计 | 优化策略 | [An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning](cards.md#paper-mmot-online-prototypes) | 当增量类别有多种外观或行为模式时，用可移动的多个中心维持其连续表示。 |
+| 智能体 | 推理策略 | [VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](cards.md#paper-visiondirector-goal-rollback) | 将复杂生成请求拆成可验证的小目标，每步发现损害已有目标就回退。 |
+| 多模态学习 | 模型架构 | [TIGER: A Unified Framework for Time, Images and Geo-location Retrieval](cards.md#paper-tiger-geo-time-retrieval) | 将地点身份与采集时间作为可独立指定的检索条件。 |
+| 机器人学 | 模型架构 | [Grounded Latents for Entity-Centric 4D Scene Generation](cards.md#paper-latentworld-grounded-entities) | 用语义实体的局部潜变量替代稠密世界状态，再将同一变量沿运动轨迹传播。 |
+| 智能体 | 推理策略 | [Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding](cards.md#paper-kfra-evidence-focused-agent) | 先检索候选所需的区分知识，再把关注区域和外部证据对应起来。 |
+| 机器人学 | 评测与诊断 | [DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR](cards.md#paper-dsert-roll-sensor-combinations) | 用同场景多传感同步观测按天气和光照比较各传感器的鲁棒性贡献。 |
+| 多模态学习 | 训练策略 | [Multimodal Learning on Low-Quality Data with Conformal Predictive Self-Calibration](cards.md#paper-cpsc-reliability-calibration) | 在多模态训练中同时按可信度选择融合特征和调节梯度。 |
+| 机器人学 | 评测设计 | [BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](cards.md#paper-bridgeeqa-image-citation-relevance) | 评估长程问答时要求引用观察图像，检查答案是否由真实观察支撑。 |
+| 机器人学 | 跨传感器表征 | [Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions](cards.md#paper-tactile-localization-material-diverse-pairing) | 为同一触觉材料配对外观不同的图像，逼模型学习材料而非外观捷径。 |
+| 生成模型 | 偏好优化 | [DynamicsBoost: Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization](cards.md#paper-dynamicsboost-continuation-length-preferences) | 通过改变真实参考帧的数量构造同长度续写偏好对，减少依赖人或模型标注。 |
+| 机器学习 | 元学习 | [Data-Centric Meta-Learning for Robust Few-Shot Generalization](cards.md#paper-dcml-align-task-input-gradient-discrepancy) | 出现跨域小样本负迁移时，先检查元训练任务间梯度冲突，再调整任务输入。 |
+| 多模态学习 | 评测设计 | [MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models](cards.md#paper-micon-multi-image-checkpoint-verification) | 用逐项检查点区分跨参考图生成中的对象、空间、语义与身份失败。 |

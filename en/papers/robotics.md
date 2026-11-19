@@ -1112,5 +1112,10 @@ Robot perception, policy learning, planning, and control.
 - [AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment](../../conferences/cvpr-2026/cards.md#paper-alignpose-multi-view-refinement)
 - [Den-TP: A Density-Balanced Data Curation and Evaluation Framework for Trajectory Prediction](../../conferences/cvpr-2026/cards.md#paper-dentp-density-balanced)
 - [AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception](../../conferences/cvpr-2026/cards.md#paper-adaradar-task-feedback-adaptive-compression)
+- [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](../../conferences/cvpr-2026/cards.md#paper-early-temporal-difference-continuous-action-latents)
+- [Grounded Latents for Entity-Centric 4D Scene Generation](../../conferences/cvpr-2026/cards.md#paper-latentworld-grounded-entities)
+- [DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR](../../conferences/cvpr-2026/cards.md#paper-dsert-roll-sensor-combinations)
+- [BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](../../conferences/cvpr-2026/cards.md#paper-bridgeeqa-image-citation-relevance)
+- [Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions](../../conferences/cvpr-2026/cards.md#paper-tactile-localization-material-diverse-pairing)
 
 <!-- conference-classification:end -->

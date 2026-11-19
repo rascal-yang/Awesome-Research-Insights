@@ -1680,5 +1680,7 @@
 - [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](../conferences/cvpr-2026/cards.md#paper-ishift-fast-slow-adaptive-perception)
 - [MemFlow: A Lightweight Forward Memorizing Framework for Quick Domain Adaptive Feature Mapping](../conferences/cvpr-2026/cards.md#paper-memflow-forward-feature-label-memory)
 - [Lighting-grounded Video Generation with Renderer-based Agent Reasoning](../conferences/cvpr-2026/cards.md#paper-liver-unified-rendered-control-conditions)
+- [VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](../conferences/cvpr-2026/cards.md#paper-visiondirector-goal-rollback)
+- [Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding](../conferences/cvpr-2026/cards.md#paper-kfra-evidence-focused-agent)
 
 <!-- conference-classification:end -->

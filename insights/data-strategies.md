@@ -456,5 +456,7 @@
 - [AnthroTAP: Learning Point Tracking with Real-World Motion](../conferences/cvpr-2026/cards.md#paper-mesh-derived-real-video-point-supervision)
 - [Annotation-Efficient Coreset Selection for Context-dependent Segmentation](../conferences/cvpr-2026/cards.md#paper-context-segmentation-point-transport-coreset)
 - [NTK-Guided Implicit Neural Teaching](../conferences/cvpr-2026/cards.md#paper-nint-ntk-guided-coordinate-selection)
+- [IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-boundary-aware-inversion-dataset-distillation)
+- [BOP-ASK: Object-Interaction Reasoning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-pose-derived-interaction-reasoning-tests)
 
 <!-- conference-classification:end -->

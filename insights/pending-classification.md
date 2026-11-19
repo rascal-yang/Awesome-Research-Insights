@@ -866,5 +866,6 @@
 - [Learning from Oblivion: Predicting Knowledge-Overflowed Weights via Retrodiction of Forgetting](../conferences/cvpr-2026/cards.md#paper-know-reverse-structured-forgetting)
 - [Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM](../conferences/cvpr-2026/cards.md#paper-flow4dgs-egomotion-residual-separation)
 - [AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception](../conferences/cvpr-2026/cards.md#paper-adaradar-task-feedback-adaptive-compression)
+- [Data-Centric Meta-Learning for Robust Few-Shot Generalization](../conferences/cvpr-2026/cards.md#paper-dcml-align-task-input-gradient-discrepancy)
 
 <!-- conference-classification:end -->

@@ -2466,5 +2466,7 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents](../../conferences/cvpr-2026/cards.md#paper-mmbench-gui-efficiency-quality-hierarchical-evaluation)
 - [Graph-to-Frame RAG: Visual-Space Knowledge Fusion for Training-Free and Auditable Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-g2frag-visual-knowledge-frame)
 - [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](../../conferences/cvpr-2026/cards.md#paper-ishift-fast-slow-adaptive-perception)
+- [VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](../../conferences/cvpr-2026/cards.md#paper-visiondirector-goal-rollback)
+- [Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding](../../conferences/cvpr-2026/cards.md#paper-kfra-evidence-focused-agent)
 
 <!-- conference-classification:end -->

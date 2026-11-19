@@ -1596,5 +1596,8 @@ Visual representation, recognition, reconstruction, and generation.
 - [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives](../../conferences/cvpr-2026/cards.md#paper-windowed-prompt-sparse-cross-shot-attention)
 - [Region-Adaptive Sampling for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-attention-driven-regional-diffusion-updates)
 - [Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](../../conferences/cvpr-2026/cards.md#paper-reward-forcing-ema-sink)
+- [WildPose: A Unified Framework for Robust Pose Estimation in the Wild](../../conferences/cvpr-2026/cards.md#paper-dynamic-masks-differentiable-bundle-adjustment)
+- [IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-boundary-aware-inversion-dataset-distillation)
+- [Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation](../../conferences/cvpr-2026/cards.md#paper-sequence-noise-and-residual-domain-harmonization)
 
 <!-- conference-classification:end -->

@@ -2577,5 +2577,10 @@ General learning methods, optimization, learning theory, and inference.
 - [MemFlow: A Lightweight Forward Memorizing Framework for Quick Domain Adaptive Feature Mapping](../../conferences/cvpr-2026/cards.md#paper-memflow-forward-feature-label-memory)
 - [NTK-Guided Implicit Neural Teaching](../../conferences/cvpr-2026/cards.md#paper-nint-ntk-guided-coordinate-selection)
 - [Lighting-grounded Video Generation with Renderer-based Agent Reasoning](../../conferences/cvpr-2026/cards.md#paper-liver-unified-rendered-control-conditions)
+- [Label-Free Cross-Task LoRA Merging with Null-Space Compression](../../conferences/cvpr-2026/cards.md#paper-downprojection-null-space-adapter-merging)
+- [2ndMatch: Finetuning Pruned Diffusion Models via Second-Order Jacobian Matching](../../conferences/cvpr-2026/cards.md#paper-jacobian-gram-transfer-pruned-diffusion)
+- [An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-mmot-online-prototypes)
+- [DynamicsBoost: Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-dynamicsboost-continuation-length-preferences)
+- [Data-Centric Meta-Learning for Robust Few-Shot Generalization](../../conferences/cvpr-2026/cards.md#paper-dcml-align-task-input-gradient-discrepancy)
 
 <!-- conference-classification:end -->

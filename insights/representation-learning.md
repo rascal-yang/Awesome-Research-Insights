@@ -765,5 +765,7 @@
 - [Learning Surgical Robotic Manipulation with 3D Spatial Priors](../conferences/cvpr-2026/cards.md#paper-sst-endoscopic-geometry-prior-policy)
 - [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](../conferences/cvpr-2026/cards.md#paper-compact-articulated-simulation-asset-tokens)
 - [S$^2$-MLLM: Boosting Spatial Reasoning Capability of MLLMs for 3D Visual Grounding with Structural Guidance](../conferences/cvpr-2026/cards.md#paper-train-time-geometry-teacher-implicit-grounding)
+- [CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning](../conferences/cvpr-2026/cards.md#paper-early-temporal-difference-continuous-action-latents)
+- [Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions](../conferences/cvpr-2026/cards.md#paper-tactile-localization-material-diverse-pairing)
 
 <!-- conference-classification:end -->

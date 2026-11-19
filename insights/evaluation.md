@@ -1600,5 +1600,8 @@
 - [Bridging the Perception Gap in Image Super-Resolution Evaluation](../conferences/cvpr-2026/cards.md#paper-rqi-relative-quality)
 - [Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations](../conferences/cvpr-2026/cards.md#paper-patch-concentration-token-hallucination)
 - [Globscope: Toward a Global View of the Loss Landscape](../conferences/cvpr-2026/cards.md#paper-globscope-loss-manifold)
+- [DSERT-RoLL: Robust Multi-Modal Perception for Diverse Driving Conditions with Stereo Event-RGB-Thermal Cameras, 4D Radar, and Dual-LiDAR](../conferences/cvpr-2026/cards.md#paper-dsert-roll-sensor-combinations)
+- [BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](../conferences/cvpr-2026/cards.md#paper-bridgeeqa-image-citation-relevance)
+- [MICON-Bench: Benchmarking and Enhancing Multi-Image Context Image Generation in Unified Multimodal Models](../conferences/cvpr-2026/cards.md#paper-micon-multi-image-checkpoint-verification)
 
 <!-- conference-classification:end -->

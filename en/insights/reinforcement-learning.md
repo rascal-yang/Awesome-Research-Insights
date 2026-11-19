@@ -815,5 +815,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction](../../conferences/cvpr-2026/cards.md#paper-mmrecoder-execution-feedback-self-correction)
 - [GDRO: Group-level Reward Post-training Suitable for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-gdro-offline-groupwise-flow-reward)
 - [SoliReward: Mitigating Susceptibility to Reward Hacking and Annotation Noise in Video Generation Reward Models](../../conferences/cvpr-2026/cards.md#paper-solireward-cross-prompt)
+- [DynamicsBoost: Dynamic Plausible Video Generation via Annotation-Free Continuation Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-dynamicsboost-continuation-length-preferences)
 
 <!-- conference-classification:end -->

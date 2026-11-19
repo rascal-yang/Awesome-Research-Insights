@@ -714,5 +714,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Efficient All-Pairs Correlation Volume Sampling for Optical Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-raft-exact-efficient-correlation-sampling)
 - [Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](../../conferences/cvpr-2026/cards.md#paper-neupig-sobolev-deformations)
 - [AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment](../../conferences/cvpr-2026/cards.md#paper-alignpose-multi-view-refinement)
+- [Label-Free Cross-Task LoRA Merging with Null-Space Compression](../../conferences/cvpr-2026/cards.md#paper-downprojection-null-space-adapter-merging)
+- [An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-mmot-online-prototypes)
 
 <!-- conference-classification:end -->

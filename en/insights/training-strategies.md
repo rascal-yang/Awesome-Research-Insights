@@ -1293,5 +1293,8 @@ Training schedules, curricula, and task or stage composition.
 - [Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-image-derived-verifiable-spatial-rewards)
 - [Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](../../conferences/cvpr-2026/cards.md#paper-reward-forcing-ema-sink)
 - [Den-TP: A Density-Balanced Data Curation and Evaluation Framework for Trajectory Prediction](../../conferences/cvpr-2026/cards.md#paper-dentp-density-balanced)
+- [Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation](../../conferences/cvpr-2026/cards.md#paper-sequence-noise-and-residual-domain-harmonization)
+- [2ndMatch: Finetuning Pruned Diffusion Models via Second-Order Jacobian Matching](../../conferences/cvpr-2026/cards.md#paper-jacobian-gram-transfer-pruned-diffusion)
+- [Multimodal Learning on Low-Quality Data with Conformal Predictive Self-Calibration](../../conferences/cvpr-2026/cards.md#paper-cpsc-reliability-calibration)
 
 <!-- conference-classification:end -->

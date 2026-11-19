@@ -774,5 +774,8 @@
 - [Contact-Aware Neural Dynamics](../conferences/cvpr-2026/cards.md#paper-contact-aware-neural-dynamics)
 - [Unified Spherical Frontend: Learning Rotation-Equivariant Representations of Spherical Images from Any Camera](../conferences/cvpr-2026/cards.md#paper-usf-spherical-frontend)
 - [HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives](../conferences/cvpr-2026/cards.md#paper-windowed-prompt-sparse-cross-shot-attention)
+- [WildPose: A Unified Framework for Robust Pose Estimation in the Wild](../conferences/cvpr-2026/cards.md#paper-dynamic-masks-differentiable-bundle-adjustment)
+- [TIGER: A Unified Framework for Time, Images and Geo-location Retrieval](../conferences/cvpr-2026/cards.md#paper-tiger-geo-time-retrieval)
+- [Grounded Latents for Entity-Centric 4D Scene Generation](../conferences/cvpr-2026/cards.md#paper-latentworld-grounded-entities)
 
 <!-- conference-classification:end -->
