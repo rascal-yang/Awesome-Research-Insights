@@ -2427,5 +2427,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](../../conferences/cvpr-2026/cards.md#paper-geocodebench)
 - [META: Meta Evolution of Tool Trajectory Adaptation for Long-Video Understanding](../../conferences/cvpr-2026/cards.md#paper-meta-tool-trajectory-abstraction)
 - [ProSoftArena: Benchmarking Hierarchical Capabilities of Multi-modal Agents in Professional Software Environments](../../conferences/cvpr-2026/cards.md#paper-prosoftarena-hierarchical-agent-evaluation)
+- [CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization](../../conferences/cvpr-2026/cards.md#paper-codev-evidence-based-visual-tool-reward)
 
 <!-- conference-classification:end -->

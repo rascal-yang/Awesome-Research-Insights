@@ -407,5 +407,9 @@ Objectives, auxiliary supervision, and regularization.
 - [Drainage: A Unifying Framework for Addressing Class Uncertainty](../../conferences/cvpr-2026/cards.md#paper-drainage-class-uncertainty)
 - [Cross-Axis Feature Fusion with Joint-Wise Motion Difference Prediction for Text-Based 3D Human Motion Editing](../../conferences/cvpr-2026/cards.md#paper-jointwise-motion-delta)
 - [GeCo: Geometry-Consistent Regularization for Domain Generalized Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-geco-geometry-consistent-regularization)
+- [CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization](../../conferences/cvpr-2026/cards.md#paper-codev-evidence-based-visual-tool-reward)
+- [STAR-R1: Multi-View Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-star-r1-referent-selection-rewards)
+- [Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment](../../conferences/cvpr-2026/cards.md#paper-nadb-noise-aligned-bridge)
+- [FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain](../../conferences/cvpr-2026/cards.md#paper-faithfusion-information-gain)
 
 <!-- conference-classification:end -->

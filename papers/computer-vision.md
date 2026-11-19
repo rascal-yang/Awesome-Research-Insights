@@ -1154,5 +1154,10 @@
 - [AVGGT: Rethinking Global Attention for Accelerating VGGT](../conferences/cvpr-2026/cards.md#paper-avggt-global-attention)
 - [Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration](../conferences/cvpr-2026/cards.md#paper-rar-latent-restoration-assessment)
 - [TimeBridge: Self-Supervised Video Representation Learning via Start-End Joint Embedding and In-Between Frame Prediction](../conferences/cvpr-2026/cards.md#paper-timebridge)
+- [ShapeAR: Generating Editable Shape Layers via Autoregressive Diffusion](../conferences/cvpr-2026/cards.md#paper-shapear)
+- [L3DR: 3D-aware LiDAR Diffusion and Rectification](../conferences/cvpr-2026/cards.md#paper-l3dr)
+- [Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration](../conferences/cvpr-2026/cards.md#paper-iqpir)
+- [Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition](../conferences/cvpr-2026/cards.md#paper-tcl-long-tail)
+- [FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain](../conferences/cvpr-2026/cards.md#paper-faithfusion-information-gain)
 
 <!-- conference-classification:end -->

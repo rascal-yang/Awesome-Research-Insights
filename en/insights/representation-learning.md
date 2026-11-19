@@ -580,5 +580,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [T2SGrid: Temporal-to-Spatial Gridification for Video Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-t2sgrid)
 - [Reconstructing CLIP for Open-Vocabulary Dense Perception](../../conferences/cvpr-2026/cards.md#paper-denserc)
 - [Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction](../../conferences/cvpr-2026/cards.md#paper-gen3r-aligned-geometry-latents)
+- [Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection](../../conferences/cvpr-2026/cards.md#paper-pointer-cad)
+- [VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM](../../conferences/cvpr-2026/cards.md#paper-varsplat-uncertainty)
 
 <!-- conference-classification:end -->

@@ -751,5 +751,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Leveraging Verifier-Based Reinforcement Learning in Image Editing](../../conferences/cvpr-2026/cards.md#paper-edit-r1-verifier-reward)
 - [From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding](../../conferences/cvpr-2026/cards.md#paper-group-revision-relative-reward)
 - [Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-srcp-visual-unsupervised-rl)
+- [Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-vital-difficulty-balanced-multitask-grpo)
 
 <!-- conference-classification:end -->

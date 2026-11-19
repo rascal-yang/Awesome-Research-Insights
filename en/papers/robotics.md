@@ -901,5 +901,7 @@ Robot perception, policy learning, planning, and control.
 - [SemanticVLA: Towards Semantic Reasoning over Action Memorization via Synergistic Explicit Trace and Latent Action Planning](../../conferences/cvpr-2026/cards.md#paper-semanticvla)
 - [OVI-MAP: Open-Vocabulary Instance-Semantic Mapping](../../conferences/cvpr-2026/cards.md#paper-ovi-map)
 - [Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment](../../conferences/cvpr-2026/cards.md#paper-latent-replay-angular-task-margin)
+- [MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-minddriver)
+- [VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM](../../conferences/cvpr-2026/cards.md#paper-varsplat-uncertainty)
 
 <!-- conference-classification:end -->

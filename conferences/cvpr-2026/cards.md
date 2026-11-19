@@ -8176,3 +8176,273 @@
 - **适用条件 / 局限** · 端点可能不足以唯一解释动作，中间帧恢复代理可能偏向像素可预测内容。
 
 **可复用机制** · 自监督视频学习时同时对齐起止帧表示，并要求从两端恢复中间帧。
+
+<a id="paper-vital-difficulty-balanced-multitask-grpo"></a>
+
+## Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Thinking_With_Videos_Multimodal_Tool-Augmented_Reinforcement_Learning_for_Long_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Thinking_With_Videos_Multimodal_Tool-Augmented_Reinforcement_Learning_for_Long_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长视频定位的 IoU 奖励增长慢，选择题奖励增长快，混合训练可能偏向容易优化的目标。
+- **核心创新 / 方法** · DGRPO 根据任务难度与样本难度调节奖励尺度；整套方法随后加入按需重新观察视频的工具策略。
+- **Baseline** · 表 5 在有文本推理的相同阶段比较 SFT 加 GRPO 与 SFT 加 DGRPO，并另列加入工具训练。
+- **Benchmark** · 长视频问答、通用多模态问答与时间定位等任务，报告准确率和 mIoU。
+- **关键结果 / 消融** · 表 5 在加入工具训练之前，DGRPO 使四项平均分从 50.3 增至 52.1；LVR 为 66.0 到 70.2，Cha mIoU 由 57.2 略降至 57.1。
+- **适用条件 / 局限** · 难度估计依赖训练奖励的可解释性和覆盖面，不能把随后加入工具的额外收益归给奖励重标定。
+
+**可复用机制** · 联合优化问答正确率与时间定位时，可先比较普通 GRPO 和任务、样本难度加权，核对不同奖励量尺上的表现。见表 5。
+
+<a id="paper-wfs-semantic-boundary-wavelet-selection"></a>
+
+## Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Wavelet-based_Frame_Selection_by_Detecting_Semantic_Boundary_for_Long_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Wavelet-based_Frame_Selection_by_Detecting_Semantic_Boundary_for_Long_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 依据帧与问题的瞬时相似度取高分帧会过度集中在少数片段，并漏掉叙事转折。
+- **核心创新 / 方法** · 对问题与各帧的相似度信号作小波分解，从粗尺度定位语义变化，再分配各片段的选帧预算。
+- **Baseline** · 同一模型对照均匀采样、不做小波时的原始局部极小值与梯度、固定预算和直接取 Top-K。
+- **Benchmark** · Qwen2.5-VL-7B 在 VideoMME 和 MLVU 的 16 帧预算，报告问答准确率。
+- **关键结果 / 消融** · 表 4 完整方法为 61.9%、67.9%，改用原始梯度为 61.2%、66.8%，均匀采样为 57.7%、56.2%。
+- **适用条件 / 局限** · 短促事件可能被粗尺度信号平滑，任务若要求找瞬时细节，应另测召回率。
+
+**可复用机制** · 按查询压缩视频时，可先在相关性序列里找低频语义变化，再在段内选帧，比较直接用原始分数找边界。见表 4。
+
+<a id="paper-codev-evidence-based-visual-tool-reward"></a>
+
+## CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hou_CodeV_Code_with_Images_for_Faithful_Visual_Reasoning_via_Tool-Aware_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hou_CodeV_Code_with_Images_for_Faithful_Visual_Reasoning_via_Tool-Aware_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 答案正确时，模型仍可能做无关裁剪甚至完全没有利用工具。
+- **核心创新 / 方法** · 根据问题和视觉操作结果给出步骤奖励，提高有证据支持的工具调用，并保留最终正确性监督。
+- **Baseline** · 对照只奖励答案、回答一致性、评判模型，以及 Pixel-Reasoner、DeepEyes、Thyme 等基线。
+- **Benchmark** · V* 和 HRBench-4K 评估忠实、非忠实和无工具使用，另报告推理和感知任务均值。
+- **关键结果 / 消融** · 表 2 中只奖准确率的推理、感知均值为 51.2、67.5，完整模型为 54.2、69.7；图 5 的忠实使用提高约 1.3–2 倍。
+- **适用条件 / 局限** · 可见证据与答案相关不等价于证明模型依赖该证据；迁移需能检查工具返回内容。
+
+**可复用机制** · 视觉工具智能体可把奖励落在工具输出是否包含问题证据，并把忠实调用率与答案准确率分开报告。见图 5、表 2。
+
+<a id="paper-neural-differentiation-loss-aware-pruning"></a>
+
+## Neural Differentiation in Deep Networks: A Theoretical Framework for Expressivity and Representational Diversity
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Neural_Differentiation_in_Deep_Networks_A_Theoretical_Framework_for_Expressivity_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Neural_Differentiation_in_Deep_Networks_A_Theoretical_Framework_for_Expressivity_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 按权重幅度或单一敏感度剪枝可能误删承担互补表示的单元。
+- **核心创新 / 方法** · 用神经分化指数衡量环境中的单元差异与损失代价，将几何、信息及曲率信号用于训练期结构化裁剪，再进行针对性微调。
+- **Baseline** · 与 CroPit-S、EarlyCroP-S、EarlySNAP、SNAP 等早期稀疏化方法比较。
+- **Benchmark** · CIFAR-10 ResNet-18 和其他分类架构，以权重稀疏度、准确率及计算指标评估。
+- **关键结果 / 消融** · 表 2 在 95% 稀疏度时 NDP 准确率为 92.56%，EarlyCroP-S 为 91.31%；98% 时为 90.03%、88.57%。
+- **适用条件 / 局限** · 误差界受正文假设约束，权重稀疏率不能直接换算成特定硬件或端到端延迟。
+
+**可复用机制** · 结构化剪枝可以基于损失与表征差异估计删除代价，同时检查给定稀疏度的准确率和实际吞吐。见理论章节与表 2。
+
+<a id="paper-star-r1-referent-selection-rewards"></a>
+
+## STAR-R1: Multi-View Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_STAR-R1_Multi-View_Spatial_TrAnsformation_Reasoning_by_Reinforcing_Multimodal_LLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_STAR-R1_Multi-View_Spatial_TrAnsformation_Reasoning_by_Reinforcing_Multimodal_LLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 模型从多个视角理解变换时，常先认错对应物体再产生结论，只有答案的奖励难定位这一失败。
+- **核心创新 / 方法** · 用结构化空间推理轨迹做监督热启动，再以物体选择、属性等细粒度监督和最终正确性共同优化。
+- **Baseline** · 对照朴素 GRPO、逐项去掉物体和属性奖励等策略。
+- **Benchmark** · TVR 多视角空间变换的整体准确率、对象准确率和按难度分组得分，另用 MMSI-Bench、MindCube-Tiny、SPAR-Bench 评估。
+- **关键结果 / 消融** · 表 3 完整方法 TAcc 为 61.4%，去掉对象项为 58.0%，普通 GRPO 为 54.5%；最难组分别为 37.5%、34.6%、31.1%。
+- **适用条件 / 局限** · 训练依赖物体与属性可以可靠标注，开放词汇、遮挡或难对应场景下的奖励质量需单独检查。
+
+**可复用机制** · 训练多视角推理时，可分别奖励指代物体选择和最终答案，避免仅靠答案奖励时对齐错误。见表 3。
+
+<a id="paper-shapear"></a>
+
+## ShapeAR: Generating Editable Shape Layers via Autoregressive Diffusion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chakraborty_ShapeAR_Generating_Editable_Shape_Layers_via_Autoregressive_Diffusion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chakraborty_ShapeAR_Generating_Editable_Shape_Layers_via_Autoregressive_Diffusion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 边界追踪或联合优化会留下破碎的路径，遮挡时难保留可编辑层。
+- **核心创新 / 方法** · 用 flow matching 逐步生成 RGBA 形状层，每步同时看全图和已生成层的部分合成。
+- **Baseline** · 表2比较 Adobe Illustrator，表3比较不同矢量化方法，表1改变层数。
+- **Benchmark** · 评估重建 L1、冗余和混合损失，并报告形状几何质量。
+- **关键结果 / 消融** · 表3三项指标为0.005、0.020、0.014，图6展示遮挡情形下形状完整性。
+- **适用条件 / 局限** · 目前面向图形形状分解，照片中透明材质与不可唯一分解的重叠区域需复验。
+
+**可复用机制** · 把难以一次求解的可编辑分解改写为依赖当前合成画布的逐层生成。
+
+<a id="paper-l3dr"></a>
+
+## L3DR: 3D-aware LiDAR Diffusion and Rectification
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_L3DR_3D-aware_LiDAR_Diffusion_and_Rectification_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_L3DR_3D-aware_LiDAR_Diffusion_and_Rectification_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 二维范围视图的 LiDAR 扩散可能产生深度泄漏和弯曲表面。
+- **核心创新 / 方法** · 以三维残差网络预测逐点偏移，使用 Welsch 损失减弱异常区域对纠正训练的影响。
+- **Baseline** · 表1直接比较 R2DM、LiDM 与加纠正网络后的变体，表3比较骨干和损失。
+- **Benchmark** · KITTI360 无条件生成及 nuScenes、Waymo 等语义条件生成，表4报告开销。
+- **关键结果 / 消融** · 表1在多个骨干和数据集上给出校正对照，表3单测损失，表4量化额外计算。
+- **适用条件 / 局限** · 仍有赖二维生成器提供合理初始点云；语义条件实验纠正阶段还会输入分割图。
+
+**可复用机制** · 快速生成保留二维范围视图，纠正边缘与表面伪影时再回到三维空间。
+
+<a id="paper-bpfedctta"></a>
+
+## Towards Stable Federated Continual Test-Time Adaptation in Wild World
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Towards_Stable_Federated_Continual_Test-Time_Adaptation_in_Wild_World_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Towards_Stable_Federated_Continual_Test-Time_Adaptation_in_Wild_World_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 客户端依次出现时，持续接受单个域更新容易让共享模型被带偏。
+- **核心创新 / 方法** · 用共享模型作为本地后验估计的先验，再以不确定性门控决定单客户端更新是否聚合。
+- **Baseline** · 表1–3比较源模型与联邦、个性化及测试时适应方法，表4消融更新组件，表5比较不确定性估计。
+- **Benchmark** · CIFAR10-C、CIFAR100-C 准确率，Cityscapes 到 ACDC 的 mIoU，眼底及前列腺 MRI 分割 Dice。
+- **关键结果 / 消融** · 表1平均准确率分别为68.44%和67.58%，表4比较两个组件同时使用与单独使用。
+- **适用条件 / 局限** · 依赖不确定性能够预示更新质量，连续强漂移或新域与既有域置信度不可比时需检查门控误判。
+
+**可复用机制** · 把无标签局部自适应与是否写回共享模型分成两个决策。
+
+<a id="paper-iqpir"></a>
+
+## Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_Beyond_Ground-Truth_Leveraging_Image_Quality_Priors_for_Real-World_Image_Restoration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_Beyond_Ground-Truth_Leveraging_Image_Quality_Priors_for_Real-World_Image_Restoration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 把所有配对真值作为同质量监督会让恢复模型学到训练集平均质量。
+- **核心创新 / 方法** · 用无参考图像质量评分条件化恢复网络，并用双分支码本区分共有特征与高质量特征。
+- **Baseline** · 表1–4比较各恢复任务方法，表5分解质量条件与码本等组件，表6做人评。
+- **Benchmark** · 盲人脸恢复、低照度、水下、逆光增强；表1含 TOPIQ、MUSIQ、CLIP-IQA 等。
+- **关键结果 / 消融** · 表5提供组件对照，表6在人脸恢复与低照度上补充人评。
+- **适用条件 / 局限** · 质量教师的分数可能奖励锐化或改变真实细节，感知质量与观测保真需分别评价。
+
+**可复用机制** · 当配对标签质量参差不齐时，用显式质量条件保留不同等级的数据，推理选择目标质量。
+
+<a id="paper-minddriver"></a>
+
+## MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_MindDriver_Introducing_Progressive_Multimodal_Reasoning_for_Autonomous_Driving_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_MindDriver_Introducing_Progressive_Multimodal_Reasoning_for_Autonomous_Driving_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 文本推理与轨迹坐标存在表示落差，通用未来帧可能忽略规划相关场景变化。
+- **核心创新 / 方法** · 先做语义理解，再生成规划相关的未来画面，最后输出轨迹；训练用反馈筛选多模态数据，并分阶段施加奖励。
+- **Baseline** · Qwen2.5-VL-3B 骨干，表1比较 UniAD、VAD 等，表4–7对照推理结构、未来帧、数据过滤与渐进奖励。
+- **Benchmark** · nuScenes 开环 L2 误差与碰撞率、未来帧质量，Bench2Drive/CARLA 闭环。
+- **关键结果 / 消融** · 表1报告开环结果，表3验证闭环，表4–7拆解中间态及训练组件贡献。
+- **适用条件 / 局限** · 闭环证据来自仿真，预测画面错误可能传给规划头，真实道路和其他控制域需另测。
+
+**可复用机制** · 需把语义推理转成动作时，可尝试预测与决策直接相关的物理中间态，并对各阶段分开消融。
+
+<a id="paper-htc-vlm"></a>
+
+## Hybrid Token Compression for Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Hybrid_Token_Compression_for_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Hybrid_Token_Compression_for_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单用连续压缩可能淡化对象身份，纯量化可能损失纹理。
+- **核心创新 / 方法** · 拼接 ViT 连续 patch 和四个 MGVQ 离散锚点，利用解耦注意力遮罩和 voco 瓶颈聚合为单 token。
+- **Baseline** · 表1比较之前的视觉压缩方法和连续基线，表2改变 token 预算，表3–4探测语义与消融配置。
+- **Benchmark** · GQA、VQAv2、MMBench、MME、POPE、SEED-Bench、ScienceQA-Image，采用相对上下界归一化的保留率。
+- **关键结果 / 消融** · 单 token 平均保留率87.2%，领先连续基线为81.0%；表3检查离散与连续表征。
+- **适用条件 / 局限** · 保留率随所选上下界改变，细粒度空间定位和流式视频输入需另测。
+
+**可复用机制** · 极端视觉 token 压缩时为可辨对象保留离散语义锚点，并留连续通道承载细节。
+
+<a id="paper-tcl-long-tail"></a>
+
+## Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Trust-calibrated_Collaborative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Trust-calibrated_Collaborative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多专家相互蒸馏会传播单个专家偏差，错误一致时还会强化误判。
+- **核心创新 / 方法** · 以知识质量门控选择可传递监督，尾类单独补偿，再压低专家一致高置信的负类。
+- **Baseline** · 表1含重现的既有长尾专家方法，表4–5消融质量门控与共识校准。
+- **Benchmark** · CIFAR10/100-LT、ImageNet-LT、Places-LT、iNaturalist 2018 的 Top-1，另比较头中尾类别。
+- **关键结果 / 消融** · 表1 CIFAR100-LT 不平衡率100时 Top-1 58.7%，尾类38.3%；表2–3给多个数据集对照。
+- **适用条件 / 局限** · 依赖专家保有互补性及训练标签能辨别错误共识，领域漂移或标签噪声下需复验。
+
+**可复用机制** · 互蒸馏时应筛掉专家的错误共识，并对尾类单独补偿监督。
+
+<a id="paper-imod-modality-decomposition"></a>
+
+## Parameter-Efficient Adaptation for MLLMs via Implicit Modality Decomposition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Parameter-Efficient_Adaptation_for_MLLMs_via_Implicit_Modality_Decomposition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Parameter-Efficient_Adaptation_for_MLLMs_via_Implicit_Modality_Decomposition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 混合监督时文本梯度占优，视觉或音频适配不足。
+- **核心创新 / 方法** · 将可训练增量拆为三类并施加模态特定解耦与共享对齐约束。
+- **Baseline** · 对照普通 LoRA 与表1–3列出的多模态参数高效微调方案。
+- **Benchmark** · 覆盖音视文本、图文、语音等设置，并比较任务分数与适配矩阵数量。
+- **关键结果 / 消融** · 表1–3报告多模态任务上的改善，验证分解比一体化更新更有利。
+- **适用条件 / 局限** · 模态特定和共享因素难完全分开，配比和参数分组会影响迁移。
+
+**可复用机制** · 多模态 LoRA 中将文本、非文本和共享更新分开，并约束干扰与对齐。
+
+<a id="paper-nadb-noise-aligned-bridge"></a>
+
+## Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Resolving_Endpoint_Underfitting_in_Diffusion_Bridges_via_Noise_Alignment_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_Resolving_Endpoint_Underfitting_in_Diffusion_Bridges_via_Noise_Alignment_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 标准扩散目标直接移植到扩散桥后，接近干净终点出现预测方差和方向偏差。
+- **核心创新 / 方法** · 先用均值网络得到较干净条件目标，再建立噪声对齐的桥映射。
+- **Baseline** · I2SB、标准扩散模型与其他图像翻译扩散桥。
+- **Benchmark** · 多种图像修复及翻译；表2以100次函数求值比较。
+- **关键结果 / 消融** · 表1–3报告多任务恢复或翻译收益，正文诊断终点处欠拟合。
+- **适用条件 / 局限** · 要求均值预测有用；不同端点、随机过程和少步求解设置需核验。
+
+**可复用机制** · 扩散桥终点附近欠拟合时，先核对输入和回归目标的噪声尺度，再修正监督。
+
+<a id="paper-faithfusion-information-gain"></a>
+
+## FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_FaithFusion_Harmonizing_Reconstruction_and_Generation_via_Pixel-wise_Information_Gain_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_FaithFusion_Harmonizing_Reconstruction_and_Generation_via_Pixel-wise_Information_Gain_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 扩散模型大范围恢复可能损坏已有可靠几何，逐像素信任机制缺失。
+- **核心创新 / 方法** · 以预期信息增益约束空间编辑，并以该权重更新高斯表示。
+- **Baseline** · 对照三维高斯和扩散融合方案，表2逐项消融增益策略。
+- **Benchmark** · Waymo 上不同车道偏移，报告 NTA-IoU、NTL-IoU 和 FID。
+- **关键结果 / 消融** · 作者报告6米偏移下 FID 107.47，表2检验组件。
+- **适用条件 / 局限** · 信息增益代理若错误标记遮挡或噪声，仍可能将虚假生成内容写回地图。
+
+**可复用机制** · 混合重建与生成时，以同一个像素级信息增益分数选择修补位置，以及控制编辑蒸馏回三维模型的权重。
+
+<a id="paper-pointer-cad"></a>
+
+## Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qi_Pointer-CAD_Unifying_B-Rep_and_Command_Sequences_via_Pointer-based_Edges__CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qi_Pointer-CAD_Unifying_B-Rep_and_Command_Sequences_via_Pointer-based_Edges__CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯命令序列不能方便表示选择某一边或面，离散几何还会造成错误。
+- **核心创新 / 方法** · 根据已有 B-rep 实体特征预测指针，生成一步命令后再用更新后的状态作为下一步条件。
+- **Baseline** · 与普通 CAD 命令序列及其他表示比较。
+- **Benchmark** · 评测 CAD 生成、几何实体选择与表示覆盖，表1比较表示差异。
+- **关键结果 / 消融** · 原文展示指针可表达依赖面和边选择的命令。
+- **适用条件 / 局限** · 依赖有效的结构执行器和实体特征；中间操作失败会影响后续指针集合。
+
+**可复用机制** · 让序列模型输出操作时，用指针选择当前结构中的实体，避免把动态对象列表硬编码到词表。
+
+<a id="paper-varsplat-uncertainty"></a>
+
+## VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tran_VarSplat_Uncertainty-aware_3D_Gaussian_Splatting_for_Robust_RGB-D_SLAM_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tran_VarSplat_Uncertainty-aware_3D_Gaussian_Splatting_for_Robust_RGB-D_SLAM_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 隐式可靠性在低纹理、透明和复杂反射区容易让位姿漂移。
+- **核心创新 / 方法** · 通过全方差公式与 alpha 合成渲染每像素不确定度，传给追踪、子图配准和回环。
+- **Baseline** · 对照现有 RGB-D SLAM 及原文方差引导配置。
+- **Benchmark** · Replica、TUM-RGBD、ScanNet、ScanNet++，评估 ATE RMSE、建图及重渲染。
+- **关键结果 / 消融** · 原文报告合成及真实数据追踪和建图表现，表1、3给出轨迹误差。
+- **适用条件 / 局限** · 外观方差只是观测可靠性的代理；错误置信会削弱有用点，深度质量仍制约结果。
+
+**可复用机制** · 高斯 SLAM 中学习逐图元方差，并用与渲染一致的像素不确定度为追踪和回环定权。
+
+<a id="paper-streamdit-moving-buffer"></a>
+
+## StreamDiT: Real-Time Streaming Text-to-Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kodaira_StreamDiT_Real-Time_Streaming_Text-to-Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kodaira_StreamDiT_Real-Time_Streaming_Text-to-Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 离线整段扩散不能边出帧边保有长历史一致性。
+- **核心创新 / 方法** · 在流匹配训练中引入逐步去噪缓冲区和混合分区，用分段少步蒸馏实现流式推理。
+- **Baseline** · 表2比较视频生成方法，表3比较固定与混合分区。
+- **Benchmark** · 512p 文生视频；VBench、人评、FPS 与函数评估次数。
+- **关键结果 / 消融** · 作者报告4B模型单卡达到512p 16 FPS，蒸馏后评估次数降至缓冲区块数。
+- **适用条件 / 局限** · 延迟、内容连贯性及内存依赖缓冲长度和分区，实时数字随硬件变化。
+
+**可复用机制** · 流式视频生成用移动缓冲区维护多噪声级片段，再按片段蒸馏减少函数评估。

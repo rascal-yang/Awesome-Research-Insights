@@ -1038,5 +1038,12 @@ Learning across modalities such as images, text, audio, and video.
 - [Accelerating Streaming Video Large Language Models via Hierarchical Token Compression](../../conferences/cvpr-2026/cards.md#paper-streaming-token-compression)
 - [G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-g-mixer)
 - [Cross-Axis Feature Fusion with Joint-Wise Motion Difference Prediction for Text-Based 3D Human Motion Editing](../../conferences/cvpr-2026/cards.md#paper-jointwise-motion-delta)
+- [Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-vital-difficulty-balanced-multitask-grpo)
+- [Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-wfs-semantic-boundary-wavelet-selection)
+- [STAR-R1: Multi-View Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-star-r1-referent-selection-rewards)
+- [Hybrid Token Compression for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-htc-vlm)
+- [Parameter-Efficient Adaptation for MLLMs via Implicit Modality Decomposition](../../conferences/cvpr-2026/cards.md#paper-imod-modality-decomposition)
+- [Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment](../../conferences/cvpr-2026/cards.md#paper-nadb-noise-aligned-bridge)
+- [StreamDiT: Real-Time Streaming Text-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-streamdit-moving-buffer)
 
 <!-- conference-classification:end -->

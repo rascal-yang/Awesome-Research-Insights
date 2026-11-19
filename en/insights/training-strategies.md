@@ -1003,5 +1003,8 @@ Training schedules, curricula, and task or stage composition.
 - [MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-motionenhancer)
 - [Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework](../../conferences/cvpr-2026/cards.md#paper-hierarchical-prompts-positive-transfer)
 - [TimeBridge: Self-Supervised Video Representation Learning via Start-End Joint Embedding and In-Between Frame Prediction](../../conferences/cvpr-2026/cards.md#paper-timebridge)
+- [Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration](../../conferences/cvpr-2026/cards.md#paper-iqpir)
+- [Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition](../../conferences/cvpr-2026/cards.md#paper-tcl-long-tail)
+- [Parameter-Efficient Adaptation for MLLMs via Implicit Modality Decomposition](../../conferences/cvpr-2026/cards.md#paper-imod-modality-decomposition)
 
 <!-- conference-classification:end -->

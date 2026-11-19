@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 837 篇，其中 545 篇暂收录、292 篇排除，另有 3,205 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 867 篇，其中 563 篇暂收录、304 篇排除，另有 3,175 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -551,3 +551,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 837 �
 | 计算机视觉 | 推理优化 | [AVGGT: Rethinking Global Attention for Accelerating VGGT](cards.md#paper-avggt-global-attention) | 多视图模型加速时先测各层跨视图作用，再将早层改为逐帧并对其余全局键值采样。 |
 | 计算机视觉 | 模型架构 | [Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration](cards.md#paper-rar-latent-restoration-assessment) | 多步图像恢复时在潜空间内同时判断退化和复核质量，减少反复解码。 |
 | 计算机视觉 | 自监督学习 | [TimeBridge: Self-Supervised Video Representation Learning via Start-End Joint Embedding and In-Between Frame Prediction](cards.md#paper-timebridge) | 自监督视频学习时同时对齐起止帧表示，并要求从两端恢复中间帧。 |
+| 多模态学习 | 强化学习 | [Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](cards.md#paper-vital-difficulty-balanced-multitask-grpo) | 联合优化问答正确率与时间定位时，可先比较普通 GRPO 和任务、样本难度加权，核对不同奖励量尺上的表现。见表 5。 |
+| 多模态学习 | 推理策略 | [Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding](cards.md#paper-wfs-semantic-boundary-wavelet-selection) | 按查询压缩视频时，可先在相关性序列里找低频语义变化，再在段内选帧，比较直接用原始分数找边界。见表 4。 |
+| 智能体 | 损失与奖励 | [CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization](cards.md#paper-codev-evidence-based-visual-tool-reward) | 视觉工具智能体可把奖励落在工具输出是否包含问题证据，并把忠实调用率与答案准确率分开报告。见图 5、表 2。 |
+| 机器学习 | 模型效率 | [Neural Differentiation in Deep Networks: A Theoretical Framework for Expressivity and Representational Diversity](cards.md#paper-neural-differentiation-loss-aware-pruning) | 结构化剪枝可以基于损失与表征差异估计删除代价，同时检查给定稀疏度的准确率和实际吞吐。见理论章节与表 2。 |
+| 多模态学习 | 损失与奖励 | [STAR-R1: Multi-View Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs](cards.md#paper-star-r1-referent-selection-rewards) | 训练多视角推理时，可分别奖励指代物体选择和最终答案，避免仅靠答案奖励时对齐错误。见表 3。 |
+| 计算机视觉 | 生成模型 | [ShapeAR: Generating Editable Shape Layers via Autoregressive Diffusion](cards.md#paper-shapear) | 把难以一次求解的可编辑分解改写为依赖当前合成画布的逐层生成。 |
+| 计算机视觉 | 生成模型 | [L3DR: 3D-aware LiDAR Diffusion and Rectification](cards.md#paper-l3dr) | 快速生成保留二维范围视图，纠正边缘与表面伪影时再回到三维空间。 |
+| 机器学习基础与统计 | 测试时适应与推理 | [Towards Stable Federated Continual Test-Time Adaptation in Wild World](cards.md#paper-bpfedctta) | 把无标签局部自适应与是否写回共享模型分成两个决策。 |
+| 计算机视觉 | 训练策略 | [Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration](cards.md#paper-iqpir) | 当配对标签质量参差不齐时，用显式质量条件保留不同等级的数据，推理选择目标质量。 |
+| 机器人学 | 推理与规划 | [MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving](cards.md#paper-minddriver) | 需把语义推理转成动作时，可尝试预测与决策直接相关的物理中间态，并对各阶段分开消融。 |
+| 多模态学习 | 推理压缩 | [Hybrid Token Compression for Vision-Language Models](cards.md#paper-htc-vlm) | 极端视觉 token 压缩时为可辨对象保留离散语义锚点，并留连续通道承载细节。 |
+| 计算机视觉 | 训练策略 | [Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition](cards.md#paper-tcl-long-tail) | 互蒸馏时应筛掉专家的错误共识，并对尾类单独补偿监督。 |
+| 多模态学习 | 微调与适配 | [Parameter-Efficient Adaptation for MLLMs via Implicit Modality Decomposition](cards.md#paper-imod-modality-decomposition) | 多模态 LoRA 中将文本、非文本和共享更新分开，并约束干扰与对齐。 |
+| 多模态学习 | 损失函数与优化 | [Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment](cards.md#paper-nadb-noise-aligned-bridge) | 扩散桥终点附近欠拟合时，先核对输入和回归目标的噪声尺度，再修正监督。 |
+| 计算机视觉 | 损失函数与优化 | [FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain](cards.md#paper-faithfusion-information-gain) | 混合重建与生成时，以同一个像素级信息增益分数选择修补位置，以及控制编辑蒸馏回三维模型的权重。 |
+| 机器学习基础 | 表示学习 | [Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection](cards.md#paper-pointer-cad) | 让序列模型输出操作时，用指针选择当前结构中的实体，避免把动态对象列表硬编码到词表。 |
+| 机器人学 | 表示学习 | [VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM](cards.md#paper-varsplat-uncertainty) | 高斯 SLAM 中学习逐图元方差，并用与渲染一致的像素不确定度为追踪和回环定权。 |
+| 多模态学习 | 推理优化 | [StreamDiT: Real-Time Streaming Text-to-Video Generation](cards.md#paper-streamdit-moving-buffer) | 流式视频生成用移动缓冲区维护多噪声级片段，再按片段蒸馏减少函数评估。 |

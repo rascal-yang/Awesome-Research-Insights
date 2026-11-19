@@ -769,5 +769,6 @@
 - [Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel](../../conferences/cvpr-2026/cards.md#paper-rds-mask-conditioned-video-routing)
 - [Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers](../../conferences/cvpr-2026/cards.md#paper-come-confidence-guided-geometric-token-merging)
 - [G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-g-mixer)
+- [Neural Differentiation in Deep Networks: A Theoretical Framework for Expressivity and Representational Diversity](../../conferences/cvpr-2026/cards.md#paper-neural-differentiation-loss-aware-pruning)
 
 <!-- conference-classification:end -->

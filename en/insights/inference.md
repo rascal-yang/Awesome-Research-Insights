@@ -1392,5 +1392,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-sattc-frozen-retrieval-hubness-calibration)
 - [Accelerating Streaming Video Large Language Models via Hierarchical Token Compression](../../conferences/cvpr-2026/cards.md#paper-streaming-token-compression)
 - [AVGGT: Rethinking Global Attention for Accelerating VGGT](../../conferences/cvpr-2026/cards.md#paper-avggt-global-attention)
+- [Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-wfs-semantic-boundary-wavelet-selection)
+- [ShapeAR: Generating Editable Shape Layers via Autoregressive Diffusion](../../conferences/cvpr-2026/cards.md#paper-shapear)
+- [L3DR: 3D-aware LiDAR Diffusion and Rectification](../../conferences/cvpr-2026/cards.md#paper-l3dr)
+- [Towards Stable Federated Continual Test-Time Adaptation in Wild World](../../conferences/cvpr-2026/cards.md#paper-bpfedctta)
+- [MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-minddriver)
+- [Hybrid Token Compression for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-htc-vlm)
+- [StreamDiT: Real-Time Streaming Text-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-streamdit-moving-buffer)
 
 <!-- conference-classification:end -->

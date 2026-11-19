@@ -2335,5 +2335,8 @@
 - [Towards Holistic Modeling for Video Frame Interpolation with Auto-regressive Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ldf-vfi-skip-concatenate-sampling)
 - [Drainage: A Unifying Framework for Addressing Class Uncertainty](../conferences/cvpr-2026/cards.md#paper-drainage-class-uncertainty)
 - [SATTC: Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval](../conferences/cvpr-2026/cards.md#paper-sattc-frozen-retrieval-hubness-calibration)
+- [Neural Differentiation in Deep Networks: A Theoretical Framework for Expressivity and Representational Diversity](../conferences/cvpr-2026/cards.md#paper-neural-differentiation-loss-aware-pruning)
+- [Towards Stable Federated Continual Test-Time Adaptation in Wild World](../conferences/cvpr-2026/cards.md#paper-bpfedctta)
+- [Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection](../conferences/cvpr-2026/cards.md#paper-pointer-cad)
 
 <!-- conference-classification:end -->
