@@ -179,3 +179,93 @@ poster_id	priority	evidence_scope	source	precedent	reason
 156785	2	author_abstract	https://neurips.cc/virtual/2026/poster/156785	https://proceedings.mlr.press/v235/goswami24a.html	在时序掩码预训基础上固定小骨干、分离分词及目标选择；可作数据效率对照，正文未核。
 149012	3	full_text_sections	https://arxiv.org/html/2610.25901v1	https://ojs.aaai.org/index.php/AAAI/article/view/38585	持续域外检测已有，此处把未知拒识与已学类持续分类合并验收；可指导无重放系统选阈，适用依未知数据定义。
 150982	3	author_abstract	https://openreview.net/forum?id=dndnlqP2vp	https://proceedings.mlr.press/v306/zou26k.html	潜态通信已有，低维协作投影及信噪调强度可与直接叠加对照；尚需核对异构通信及额外成本。
+152208	3	author_abstract	https://openreview.net/forum?id=Uly2PDh7XI	https://arxiv.org/abs/2410.00037	可决定全双工语音是否单独诊断从说到听的状态切换延迟，再考虑无训练干预。Moshi提供实时双流架构，本篇将诊断落到无缓冲打断起始词，迁移依赖访问内部激活。
+150716	3	author_abstract	https://openreview.net/forum?id=fzpG3voiei	https://arxiv.org/abs/2401.00396	可决定RAG幻觉检测是否使用推理中的知识冲突迹象。RAGTruth提供输出幻觉标注，本篇用一次输出区分冲突形态，三个数据集及三个模型的结果仍不足以覆盖无显式推理的系统。
+139810	3	author_abstract	https://openreview.net/forum?id=3A8dgOgJRK	https://arxiv.org/abs/2403.04132	可决定模型搭配时用交叉复测弱点互补性来替代按总排名选第二模型。Arena比较总体偏好，本篇从弱点生成递进题，再比较谁能覆盖这些失败，结论依赖所生成题目的有效性。
+149556	4	author_fulltext_sections	https://arxiv.org/html/2603.14371#S4	https://arxiv.org/abs/2509.21354	可决定语言与动作推理是否共用观测预填并跨控制周期调度不同速率的解码。KV-Efficient VLA侧重压缩历史缓存，本篇解决并行任务重复预填，有双硬件、其他骨干及实机证据，依赖可共享的观测表示。
+151385	4	author_fulltext_sections	https://arxiv.org/html/2605.20342#S1	https://arxiv.org/abs/2503.21776	可决定视频工具RL时是否随机化初始观测预算，使使用工具产生可测收益，并单独保护调用格式。Video-R1侧重视频推理奖励，本篇以跨模型对照与六项评估检查工具先验及调用训练，迁移取决于工具是否带来独占信息。
+151968	3	author_fulltext_sections	https://arxiv.org/html/2605.27336#S3	https://arxiv.org/abs/2210.09461	可决定视频扩散压缩时按时空职责评估注意力头，并按去噪步调节深度。ToMe合并冗余token，本篇拆开宽度剪枝与动态深度，对另一骨干需重查头部职责及路由开销。
+151064	3	author_fulltext_sections	https://arxiv.org/html/2610.32373#S1	https://arxiv.org/abs/1901.02860	可决定长序列生成用压缩状态记远期风格，用块内注意力处理即时动态。Transformer-XL回用片段表示，本篇把两者放入分块流匹配，运动风格和细节可分的假设应在其他序列复测。
+154566	3	author_abstract	https://openreview.net/forum?id=CenzhX8Go9	https://arxiv.org/abs/2307.06304	可决定文档视觉分块后是否加少量跨块桥接token，测同内容变布局时的性能。NaViT处理可变分辨率及打包，本篇针对编码分区间的结构断裂；证据来自三个视觉语言骨干，非文档迁移未核。
+139148	3	author_fulltext_sections	https://arxiv.org/html/2610.10276#S2	https://arxiv.org/abs/2308.01263	可决定安全修复验收是否增加相邻良性请求的能力保留检查。XSTest诊断过度拒绝，本篇将其纳入修复前后局部行为比较，正文显示总体能力分数可能掩盖局部退化，覆盖范围受测试近邻限制。
+152560	3	author_abstract	https://arxiv.org/abs/2611.10477	https://arxiv.org/abs/2308.09687	可决定多跳检索是否同时保存可复用的证据图推理骨架。Graph of Thoughts用图组织当次推理，本篇从训练轨迹抽取类型化图式供跨问题复用，依赖证据图质量和奖励代理。
+150489	3	author_abstract	https://openreview.net/forum?id=hiYMBdcGSJ	https://arxiv.org/abs/2311.16922	可决定视觉幻觉控制是否按输入图像调节隐藏态编辑。VCD对比解码分布，本篇使用预填充时的图像表示调整干预方向，适用性依赖校准及白盒访问。
+152045	3	author_abstract	https://openreview.net/forum?id=VvTOafbWm6	https://arxiv.org/abs/2501.12387	可决定流式三维重建是否允许有界前视和门控状态更新。CUT3R已有持续场景状态，本篇为高斯建模补局部观测，需在动作闭环中量化前视引入的延时。
+155415	3	author_abstract	https://openreview.net/forum?id=5qxJ8cZwVt	https://arxiv.org/abs/1709.07871	可决定接触对准阶段是否按近期运动状态提高视觉模态权重。FiLM提供条件调制原型，本篇针对本体捷径分离时相和空间对齐，低维状态占优的诊断需在新机器人复核。
+151017	3	author_fulltext_sections	https://arxiv.org/html/2608.15285#S2	https://arxiv.org/abs/2606.06154	可决定低秩适配方向是否随同一轨迹的控制状态改变。已有超网络LoRA支持跨个体条件适配，本篇在单轨迹逐动作块改变更新方向，弱监督相位描述及LIBERO范围限制外推。
+149703	2	author_fulltext_sections	https://arxiv.org/html/2605.23771#S3	https://arxiv.org/abs/2303.11366	可决定可渲染的空间规划任务是否把失败反馈变成位置记忆并重新分配搜索预算。相较Reflexion的语言反思，本篇显式记录空间区域，收益主要由虚拟摄影场景验证且依赖反馈模型。
+149085	4	author_full_text_sections	https://arxiv.org/html/2605.14269		§3–5。将动作、接触平衡和可行动态分别评分，可对照统一视觉奖励；依赖三维重建设定。
+150534	3	author_full_text_sections	https://arxiv.org/html/2607.25082		§4–6。直接指向当前任务集合，可对照固定动作头处理任务增减；受可表征任务属性限制。
+154712	4	author_full_text_sections	https://arxiv.org/html/2607.08233		§3–4。预测、规则恢复和实验选择独立评分，可区分猜对和主动归纳；评测规则需可明确验证。
+151476	3	author_abstract_only	https://openreview.net/forum?id=aKIJQBf4JP		跨域时冻结探针只调共形阈值，可对照重训；覆盖依赖足量目标校准样本。
+149146	4	author_full_text_sections	https://arxiv.org/html/2605.23856		§4–6。像素世界模型加入带可见标记的轨迹，仿真及实机遮挡对照支持迁移；依赖追踪质量。
+154799	4	author_full_text_sections	https://arxiv.org/html/2607.14107		§3–5。按表征漂移刷新缓存及提交词元，可对照固定日程；需要校准漂移与解码质量的关系。
+155227	3	author_abstract_only	https://openreview.net/forum?id=7K93T7me9y		显式约束优先关系可配置冲突处理，可对照统一松弛下的可行率；依赖合理的优先级定义。
+149030	3	author_full_text_sections	https://arxiv.org/html/2610.29467		§2–3。长期记忆先标待确认再写入，可对照即时覆写；阈值需要适应不同冲突信息。
+153413	4	author_full_text_sections	https://arxiv.org/html/2609.28270		§2–4。用同一误差口径选量化格式及粒度，可对照逐项实测；代理定价依赖校准输入。
+154820	3	author_abstract_only	https://openreview.net/forum?id=AiYvJPM2Oy		规划不可逆操作前预测结构化状态差量，可对照全观察建模的代价和风险；依赖能检查状态更新。
+149722	3	author_abstract_only	https://openreview.net/forum?id=ntjuLx6iMB		奖励目标先独立稳定再按偏好汇总，可对照梯度共用的干扰；受目标关联及偏好覆盖限制。
+154181	3	author_abstract_only	https://openreview.net/forum?id=FcPsdOYorV		按局部提示分歧挑偏好标注，可与随机查询比较；分歧必须能预测目标错误。
+154360	3	author_abstract_only	https://openreview.net/forum?id=E9x9Hty6Qa		对话维护信念并另选信息性问题，可对照纯生成式问答；依赖后验校准，摘要验证范围有限。
+149562	3	author_full_text_sections	https://arxiv.org/html/2610.16175		§3–5。以带类型证据约束编译研究任务，可验收执行和证据来源；依赖字段和端点语义可确认。
+148323	3	author_abstract_only	https://openreview.net/forum?id=yghv7C3L8K		在训练中把跨回合经验蒸馏入权重，可对照冻结记忆或策略的版本；摘要之外的任务迁移待核。
+151998	3	full_text_sections	https://arxiv.org/html/2510.18795v1	https://microsoft.github.io/LLM2CLIP/	相较直接以 LLM 代替 CLIP 文本侧，先继承共同空间再渐进更新；正文含现有 LLM 编码对照，迁移仍依双方空间可匹配。
+155115	2	author_abstract	https://openreview.net/forum?id=8I8z7rkr9Q		用生成器的结构错误画像决定分步图形生成顺序，适用于可识别结构错误的任务，跨生成器证据尚待正文。
+151422	3	author_abstract	https://openreview.net/forum?id=aoiSdieuFb	https://arxiv.org/abs/2203.00555	深层残差已有固定稳定缩放；此处按层渐进接入，适合独立比较早期稳定性和最终质量，尚缺正文确认日程敏感性。
+154744	3	full_text_sections	https://arxiv.org/html/2608.16844v1	https://arxiv.org/abs/2312.00752	状态空间模型可把记忆容量设为训练日程变量；先低容量再开放，与始终完整容量对照，需控制活跃计算量。
+152660	3	author_abstract	https://openreview.net/forum?id=RMJiMyWid7	https://arxiv.org/abs/2505.22167	视频扩散量化已有；自回归视频单独处理异常通道并验时间一致性，需区分帧内与跨帧收益。
+151910	2	author_abstract	https://openreview.net/forum?id=Wy1TkJYSdQ	https://arxiv.org/abs/2405.19209	自适应长视频取证已有，本文先压全局再恢复问题关联局部；需等时延对照和检验漏召回。
+154571	3	author_abstract	https://openreview.net/forum?id=CbyT2otOb4		用二维多视评分时分开验证三维指代属性、位置和关系，再合并证据；可诊断漏条件，依赖视角覆盖。
+151457	3	full_text_sections	https://arxiv.org/html/2611.22179v1	https://arxiv.org/abs/2310.08560	用检索存储为原点审计哪些任务需要额外记忆层；可决定先用简单检索或加时间更新，结论依任务类别。
+155394	3	author_abstract	https://openreview.net/forum?id=60UfWy2Mx4	https://www.openaccess.thecvf.com/content/ICCV2025/papers/Zhou_Multimodal_LLMs_as_Customized_Reward_Models_for_Text-to-Image_Generation_ICCV_2025_paper.pdf	已有用多模态模型作生图奖励；此处直接衡量原提示在生成图条件下的似然，免额外评分训练，仍需核长度与语言偏置。
+139504	3	full_text_sections	https://arxiv.org/html/2610.12586v1		在事件预测选择点准确和分布真实性双重指标，正文比较预测范式；需要可用的事件分布和模拟样本。
+152931	4	full_text_sections	https://arxiv.org/html/2605.13778v1	https://arxiv.org/abs/2506.07339	在实时动作分块上加入草稿与逐段验证回退，可选择每轮全扩散或复用候选；须关注闭环偏离和设备速度。
+139400	2	author_abstract	https://openreview.net/forum?id=Szz5xYoydw		按难度和推理预算估计测试题响应曲线，可比较单预算榜单的排序，依赖模型能力刻度稳定。
+154933	3	author_abstract	https://openreview.net/forum?id=9rcdHgSVwj	https://arxiv.org/abs/2303.17651	先例以模型自反馈修订答案；此处定位症状首次出现并用反事实修订核验，需区分局部标签与真正因果错误。
+139565	3	full_text_sections	https://arxiv.org/html/2505.17244v1		把防御性内容审核从最终回答扩到可观察推理段，正文有实验；需分别核查过程误报和正常任务保留。
+156787	3	full_text_sections	https://arxiv.org/html/2504.02273v1	https://arxiv.org/abs/2308.08998	已有强化自训练重用模型生成数据；小模型把成功旧轨迹与当前新分支结合，可做等交互预算对照，依赖初始成功种子。
+151965	3	author_abstract	https://openreview.net/forum?id=WTnplymile	https://arxiv.org/abs/2504.16084	可决定无主任务标签的RL是否用可核验前置任务为轨迹评分。TTRL依赖多数投票，本篇以确定性代理任务提供外部信号，前置成功和主任务成功的耦合需在迁移时重测。
+149165	4	author_fulltext_sections	https://arxiv.org/html/2608.26684#S3	https://arxiv.org/abs/2503.21776	可决定向视频推理模型注入教师轨迹前，是否在保留语义的同时让表述贴近学生分布。Video-R1侧重强化视频推理，本篇检验轨迹分布失配，覆盖多骨干及RL与SFT，仍需独立评估改写保真。
+154264	3	author_fulltext_sections	https://arxiv.org/html/2605.19398#S2		可决定图生视频运动不足时先检查去噪早期参考帧的注意力占比。正文将此与修改输入条件的既有方法区分开，跨模型迁移仍需同时量化运动和参考一致性。
+152784	3	author_abstract	https://openreview.net/forum?id=QMvrZxy8W9	https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/	可决定视频世界模型是否把动作状态规划与生成分离并闭环核验片段。Genie 2提供可交互模拟先例，本篇突出规划器验证和重生成，证据仍依赖自动判定及动作标注视频。
+155954	3	author_fulltext_sections	https://arxiv.org/html/2606.18439#S1	https://arxiv.org/abs/2210.09461	可决定多视角模型加速时是否按几何对齐和相机位姿功能分配压缩预算。ToMe以token冗余为主，本篇显式保护跨帧位姿路径，其他编码器须重新定位关键层。
+153478	4	author_fulltext_sections	https://arxiv.org/html/2601.23222#S3	https://arxiv.org/abs/2305.18290	可决定密集预测的DPO是否仅按候选分歧区域归一化。标准DPO未区分分歧面积，本篇在两种骨干、噪声评审和无噪声偏好下验证影响，迁移需检验区域权重和偏好语义。
+155015	4	author_fulltext_sections	https://arxiv.org/html/2506.10955#S1	https://arxiv.org/abs/2209.14687	可决定高欠定恢复中是否在多种已有解上追加扩散反演与确定性引导。DPS从含噪扩散轨迹做观测引导，本篇利用已有解作强初始化，有多初始化、多退化及简化理论证据，受初值质量与先验匹配限制。
+151586	3	author_abstract	https://openreview.net/forum?id=ZUmUvF2Vx9	https://arxiv.org/abs/2403.11481	可决定长视频问答RL是否同时监督答案正确和引用的视觉证据。VideoAgent已做迭代观测，本篇增加视觉一致性奖励，对验证器处理细粒度证据的可靠性仍需复验。
+154908	3	author_fulltext_sections	https://arxiv.org/html/2602.16704#S2	https://arxiv.org/abs/2404.19737	可决定固定内存序列模型的训练是否加从当前记忆出发的多词元续写奖励。多词元预测先例面向并行预测目标，本篇关注快权重内存可否支持自由续写，证据限所测快权重架构。
+149385	3	author_abstract	https://arxiv.org/abs/2607.25970		可决定通用代码性能RL是否把正确性与重复计时一起校准，并在计时噪声条件下单独重测。摘要展示两种基础模型的收益，迁移需可复现的计时及足够区分快慢的测试输入。
+154650	3	author_fulltext_sections	https://arxiv.org/html/2603.12554#S3	https://arxiv.org/abs/2504.12216	可决定扩散语言模型RL是否把信用分配移到去噪步骤。d1估计扩散序列训练目标，本篇用逐步优势处理生成过程，熵筛选与单步补全仍会受近似误差影响。
+152104	3	author_fulltext_sections	https://arxiv.org/html/2602.05842#S2	https://arxiv.org/abs/2201.07207	可决定文本世界模型是否以动作后实际状态的语义接近度监督预测。零样本规划先例主要生成可执行行动，本篇学习状态转移，依赖环境可观测及嵌入能区分关键状态差别。
+152003	3	author_abstract	https://openreview.net/forum?id=WECg95ixWE	https://arxiv.org/abs/2503.21776	可决定多模态后训练时是否以干净图像正确轨迹约束受损视图，避免受损输入直接采样污染奖励。Video-R1代表常规视频推理强化，本篇额外针对视觉退化，证据依赖扰动未破坏任务可判定性。
+150993	3	author_abstract	https://openreview.net/forum?id=dkHKGHN1xC	https://arxiv.org/abs/2302.08224	可决定生成式优化的推理预算是否优先扩展经过松弛投影的状态。DIFUSCO是图扩散求解先例，本篇区分搜索状态和终端解码输入，迁移需要可计算且与问题一致的松弛。
+156117	2	author_abstract	https://openreview.net/forum?id=0GkSxMZdx4	https://arxiv.org/abs/2107.03502	可决定缺模态时序系统是否把补全不确定性传给下游决策。CSDI已做概率补全，本篇在联合推理中建模时变可靠性，摘要未说明失准可靠性对最终决策的敏感度。
+153548	3	author_full_text_sections	https://arxiv.org/html/2610.30652		§3–6。全局校准后按局部特征估残差，可对照纯全局映射；依赖近邻密度和稳定性。
+148940	3	author_abstract_only	https://openreview.net/forum?id=u2TS1Rxun2		除策略成功率外量化恢复代价和压力完成率，可指导在不同部署条件下选型；摘要验证范围待复核。
+152894	3	author_abstract_only	https://openreview.net/forum?id=PcOi9GxwJj		对相似 KV 只裁中心偏差，可对照直接裁通道；实际收益依赖执行后端及稀疏模式。
+155192	3	author_abstract_only	https://openreview.net/forum?id=7aQyn669sE		把语义与空间赋给不同词元可对照共用表示导致的新视角含混；跨任务证据待核。
+152832	3	author_abstract_only	https://openreview.net/forum?id=Q5KwR2WUBr		估计的搜索价值同时反馈训练和解码，可对照只用其中一个位置；低成本价值估计需校准。
+148700	3	author_abstract_only	https://openreview.net/forum?id=vi37A4okc6		多跳问题可搜索语料内证据路径，可对照独立检索器的覆盖和消耗；依赖可遍历语料结构。
+154122	3	author_abstract_only	https://openreview.net/forum?id=G78WOdoS5c		离线索引候选轨迹并在线精排场景可行子集，可与穷举对比延迟；上限取决于词表覆盖。
+154552	3	author_abstract_only	https://openreview.net/forum?id=CiRFut5zi2		复用成功动作块引导冻结生成式策略，适合对照继续微调；依赖可匹配的成功记忆。
+148557	3	author_abstract_only	https://openreview.net/forum?id=x0gbPKK4uf		按未覆盖区域的边际增益选历史帧，可与按相似度取帧对照几何一致性；依赖可靠深度。
+154819	3	author_abstract_only	https://openreview.net/forum?id=AifzSQYpMJ		以同图对象移除衡量图文判断对该对象的依赖，可对照人类线索；移除操作不能额外改变场景含义。
+153961	3	author_abstract_only	https://openreview.net/forum?id=HEjj1BD9e9		逐层重新估计并平滑累计激活方向可对照固定方向；跨行为副作用需要独立验收。
+156114	3	author_abstract_only	https://openreview.net/forum?id=0Hg7gv5gwK		动作语言可在训练监督使用而部署直接输出控制，可对照推理也生成解释的延迟；依赖语言能表达动作差异。
+151129	3	author_abstract_only	https://openreview.net/forum?id=cmZXkyWcad		让小目标查询读取高分辨率特征，可对照全图保留特征的成本；高分辨率分支仍需显存。
+149798	3	author_abstract_only	https://openreview.net/forum?id=nGl0OxizaX		当神经元休眠时比较渐进奖励缩放与固定尺度，可分别验收活动恢复和回报；受初始尺度影响。
+154097	3	author_abstract_only	https://openreview.net/forum?id=GHEHItQouU		腕部演示生成外部视角作为策略监督，可对照仅腕视角的训练；依赖生成画面保持动作和几何。
+154510	3	full_text_sections	https://arxiv.org/html/2510.06982v1	https://proceedings.mlr.press/v162/wortsman22a.html	与训练多个模型后平均不同，单次微调以滚动快照形成隐式集成；正文跨多个分布偏移测试，需对照同算力均值。
+153543	3	full_text_sections	https://arxiv.org/html/2605.30855v1	https://arxiv.org/abs/2604.08995	长时交互世界模型已有记忆；本文加入潜三维高斯和偏差训练，适合分测视角一致及自回馈误差。
+153328	2	author_abstract	https://openreview.net/forum?id=M8tBI5LjWD	https://arxiv.org/abs/2403.06764	已有视觉词元按注意力剪枝；本文可独立比较相关性与不确定性是否救回细节，正文消融待核。
+154715	4	full_text_sections	https://arxiv.org/html/2611.23074v1		将多个自然语言准则独立并行判定，用逐准则误报及延迟决定何处引入治理检查；对模糊标准依赖标注质量。
+154429	3	author_abstract	https://openreview.net/forum?id=DfGZJUo1mT	https://arxiv.org/abs/2310.11511	与按需检索及反思相比，下一轮检索显式利用已核验答案证据寻找未覆盖部分；需初次验证可靠且确有多答案。
+152479	3	author_abstract	https://openreview.net/forum?id=SmZteLWKCK	https://ojs.aaai.org/index.php/AAAI/article/view/39464	子空间专家合并已有，补充稀疏专家保护被截断方向；可验合并后特有能力与实际内存。
+155682	3	full_text_sections	https://arxiv.org/html/2611.10677v1	https://arxiv.org/abs/2401.10700	可行性引导离线控制已有；把日志行为接近和潜可行性独立处理，适合检测二者冲突，依赖潜约束估计。
+155090	2	author_abstract	https://openreview.net/forum?id=8VwAj1accS		将良性仿真反馈同时用于初稿与修订训练，以区分单纯运行时工具带来的收益，当前应用及证据限电路任务。
+150164	3	full_text_sections	https://arxiv.org/html/2605.12022v1		用验收器排除改变事实的改写，再度量同义表述稳健性；适合评测生成流水线，验收器本身需人工标定。
+150303	3	author_abstract	https://openreview.net/forum?id=j95jiSEi4O	https://arxiv.org/abs/2004.12832	与统一检索容量相比，只在语义冲突局部增加排序能力。可测每单位算力的召回改善，依赖歧义探测。
+150336	3	full_text_sections	https://arxiv.org/html/2602.16702v1		为视觉代理候选指令按图像显著证据排序，可对照语言优先级；正文的候选相对选择仍受视觉证据可见性限制。
+153198	3	full_text_sections	https://arxiv.org/html/2610.06021v1	https://arxiv.org/abs/2211.09800	指令编辑另约束非目标区域变化，可沿编辑兑现和最小副作用两轴调奖励；依赖编辑区域定义。
+151201	3	author_abstract	https://openreview.net/forum?id=cCWvLZocDZ	https://arxiv.org/abs/2206.07568	由单代理对比式目标价值扩到集中协作 critic；可用稀疏任务检验已实现目标的重用价值，复杂交互证据待核。
+148846	3	author_abstract	https://openreview.net/forum?id=uiQy5sVoUd	https://arxiv.org/abs/2509.03531	实体幻觉即时判定已有，本文改用逐词元及错误跨度评估，适合定位局部核验预算，需处理边界标注偏差。
+152337	4	full_text_sections	https://arxiv.org/html/2602.17698v1	https://arxiv.org/abs/1905.03696	相比一次性曲率敏感度，按量化后的模型重估各层位宽；正文用复原单层的真实损失核对灵敏度，需目标硬件约束。
