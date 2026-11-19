@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 867 篇，其中 563 篇暂收录、304 篇排除，另有 3,175 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 897 篇，其中 583 篇暂收录、314 篇排除，另有 3,145 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -569,3 +569,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 867 �
 | 机器学习基础 | 表示学习 | [Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection](cards.md#paper-pointer-cad) | 让序列模型输出操作时，用指针选择当前结构中的实体，避免把动态对象列表硬编码到词表。 |
 | 机器人学 | 表示学习 | [VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM](cards.md#paper-varsplat-uncertainty) | 高斯 SLAM 中学习逐图元方差，并用与渲染一致的像素不确定度为追踪和回环定权。 |
 | 多模态学习 | 推理优化 | [StreamDiT: Real-Time Streaming Text-to-Video Generation](cards.md#paper-streamdit-moving-buffer) | 流式视频生成用移动缓冲区维护多噪声级片段，再按片段蒸馏减少函数评估。 |
+| 机器人学 | 规划与控制 | [GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving](cards.md#paper-guideflow-constraints-inside-trajectory-generation) | 可在候选轨迹生成期间约束状态和速度场，并将进度与约束指标分开比较。见表 5。 |
+| 生成模型 | 损失与奖励 | [The Image as Its Own Reward: Reinforcement Learning with Adversarial Reward for Image Generation](cards.md#paper-adv-grpo-reference-updated-image-reward) | 固定偏好分数引发图像质量失真时，可比较加入由真实参照图与当前产物持续更新的奖励，并做独立人评。见表 1 和第 4.3 节。 |
+| 多模态学习 | 表征学习 | [Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection](cards.md#paper-pda-phasewise-open-vocabulary-action-alignment) | 对未见动作做时间定位时，可以把类级标签拆为阶段，再用阶段数消融去确定效果与开销。见表 3。 |
+| 计算机视觉 | 时序建模 | [Event Stream Filtering via Probability Flux Estimation](cards.md#paper-edfilter-inter-event-probability-flux) | 过滤异步感知时，将事件间隔作为重建连续状态的证据并比较能否保留快速动态。见表 1、4。 |
+| 生成模型 | 推理策略 | [Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers](cards.md#paper-layerbind-early-latent-occlusion-composition) | 要控制对象遮挡顺序，可在去噪早期按深度顺序合并局部实例潜状态，再共享语义细化。见表 1、3。 |
+| 计算机视觉 | 三维重建与几何建模 | [Efficient Unrolled Networks for Large-Scale 3D Inverse Problems](cards.md#paper-partitioned-unrolling-global-normal-operator) | 大体积逆问题可将域分块与全局数据一致性联合起来，先验证分块节省显存，再看近似算子值不值得。见表 4。 |
+| 生成模型 | 参数高效微调 | [SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control](cards.md#paper-slideredit-shared-continuous-instruction-adapters) | 多指令编辑可给每条指令保留独立连续强度，用共享低秩参数支持新编辑，并单测连续性和编辑串扰。见表 1、2。 |
+| 多模态学习 | 生成模型 | [Open the Motion Door: Atomic Motion Decomposition and Recomposition for Open-Vocabulary Motion Generation](cards.md#paper-atomic-motion-recomposition) | 新指令超出训练词汇时，将文本先映射到可重组的身体部位动作，再检查组合泛化。 |
+| 计算机视觉 | 表示学习 | [Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface](cards.md#paper-faithful-contouring) | 输入可能非水密且需保留内层或锐边时，考虑直接编码局部表面而非依赖隐式等值面。 |
+| 多模态学习 | 推理策略 | [Image Generation from Contextually-Contradictory Prompts](cards.md#paper-stage-aware-prompt-decomposition) | 罕见组合被生成先验覆盖时，可把冲突概念放到不同去噪阶段表达，并对去噪时间段做扰动验证。 |
+| 多模态学习 | 损失函数 | [See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning](cards.md#paper-bips) | 同时训练证据充分性与必要性，让模型对保留答案证据的裁剪稳定，对遮掉关键证据敏感。 |
+| 机器学习基础与统计 | 强化学习 | [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](cards.md#paper-mesh-pro-arpo) | 生成样本昂贵时，可比较异步在线偏好排序和同步策略更新，并监测训练效率与几何奖励。 |
+| 多模态学习 | 模型架构 | [Causality in Video Diffusers is Separable from Denoising](cards.md#paper-separable-causal-diffusion) | 先逐层测去噪步间冗余与跨帧依赖，再将可复用的时序编码移出迭代循环。 |
+| 多模态学习 | 模型分析 | [An Empirical Study on How Video-LLMs Answer Video Questions](cards.md#paper-video-llm-layer-knockout) | 决定何处丢弃或缩窗视频 token 前，先按层定位时空信息进入推理的关键窗口。 |
+| 计算机视觉 | 条件生成 | [Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](cards.md#paper-todsynth-control-rectify) | 合成带分割标签的训练样本时，在采样早期以任务损失校正语义掩码一致性。 |
+| 机器学习基础 | 损失函数与优化 | [Robust Spiking Neural Networks by Temporal Mutual Information](cards.md#paper-temporal-mutual-information-snn) | 训练脉冲网络追求鲁棒性时，针对时序潜表示施加互信息正则。 |
+| 机器人学 | 表示学习 | [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](cards.md#paper-r2vlm-recurrent-progress) | 估计长程任务进度时逐段处理视频，只向下一段传递可更新的任务状态摘要。 |
+| 多模态学习 | 训练与数据策略 | [SRA 2: Variational Autoencoder Self-Representation Alignment  for Efficient Diffusion Training](cards.md#paper-sra2-vae-feature-alignment) | 训练扩散模型时先尝试把中层对齐到已有 VAE 特征，省去额外表征编码器。 |
+| 多模态学习 | 损失函数与优化 | [Correspondence-Attention Alignment for Multi-View Diffusion Models](cards.md#paper-cameo-correspondence-attention) | 多视角扩散训练中直接监督一层跨视图注意力的几何对应，作为提高视角一致性的低开销选择。 |
+| 机器学习基础 | 可解释性与诊断 | [CIGMA: Causal Information-Gain Mechanistic Attribution of Attention Heads in Vision Transformers](cards.md#paper-cigma-causal-head-attribution) | 模型依赖背景捷径时，用去对象和去背景两种成对干预区分注意力头处理的证据。 |

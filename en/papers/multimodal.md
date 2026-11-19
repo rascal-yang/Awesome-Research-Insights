@@ -1045,5 +1045,13 @@ Learning across modalities such as images, text, audio, and video.
 - [Parameter-Efficient Adaptation for MLLMs via Implicit Modality Decomposition](../../conferences/cvpr-2026/cards.md#paper-imod-modality-decomposition)
 - [Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment](../../conferences/cvpr-2026/cards.md#paper-nadb-noise-aligned-bridge)
 - [StreamDiT: Real-Time Streaming Text-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-streamdit-moving-buffer)
+- [Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection](../../conferences/cvpr-2026/cards.md#paper-pda-phasewise-open-vocabulary-action-alignment)
+- [Open the Motion Door: Atomic Motion Decomposition and Recomposition for Open-Vocabulary Motion Generation](../../conferences/cvpr-2026/cards.md#paper-atomic-motion-recomposition)
+- [Image Generation from Contextually-Contradictory Prompts](../../conferences/cvpr-2026/cards.md#paper-stage-aware-prompt-decomposition)
+- [See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-bips)
+- [Causality in Video Diffusers is Separable from Denoising](../../conferences/cvpr-2026/cards.md#paper-separable-causal-diffusion)
+- [An Empirical Study on How Video-LLMs Answer Video Questions](../../conferences/cvpr-2026/cards.md#paper-video-llm-layer-knockout)
+- [SRA 2: Variational Autoencoder Self-Representation Alignment  for Efficient Diffusion Training](../../conferences/cvpr-2026/cards.md#paper-sra2-vae-feature-alignment)
+- [Correspondence-Attention Alignment for Multi-View Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-cameo-correspondence-attention)
 
 <!-- conference-classification:end -->

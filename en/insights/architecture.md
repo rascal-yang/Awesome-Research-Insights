@@ -616,5 +616,6 @@ Model-wide design and information flow.
 - [Stereo World Model: Camera-Guided Stereo Video Generation](../../conferences/cvpr-2026/cards.md#paper-stereoworld)
 - [OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing](../../conferences/cvpr-2026/cards.md#paper-orionedit)
 - [Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration](../../conferences/cvpr-2026/cards.md#paper-rar-latent-restoration-assessment)
+- [Causality in Video Diffusers is Separable from Denoising](../../conferences/cvpr-2026/cards.md#paper-separable-causal-diffusion)
 
 <!-- conference-classification:end -->

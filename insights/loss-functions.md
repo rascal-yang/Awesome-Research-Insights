@@ -411,5 +411,9 @@
 - [STAR-R1: Multi-View Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs](../conferences/cvpr-2026/cards.md#paper-star-r1-referent-selection-rewards)
 - [Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment](../conferences/cvpr-2026/cards.md#paper-nadb-noise-aligned-bridge)
 - [FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain](../conferences/cvpr-2026/cards.md#paper-faithfusion-information-gain)
+- [The Image as Its Own Reward: Reinforcement Learning with Adversarial Reward for Image Generation](../conferences/cvpr-2026/cards.md#paper-adv-grpo-reference-updated-image-reward)
+- [See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-bips)
+- [Robust Spiking Neural Networks by Temporal Mutual Information](../conferences/cvpr-2026/cards.md#paper-temporal-mutual-information-snn)
+- [Correspondence-Attention Alignment for Multi-View Diffusion Models](../conferences/cvpr-2026/cards.md#paper-cameo-correspondence-attention)
 
 <!-- conference-classification:end -->

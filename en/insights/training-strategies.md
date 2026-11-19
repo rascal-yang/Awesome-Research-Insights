@@ -1006,5 +1006,6 @@ Training schedules, curricula, and task or stage composition.
 - [Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration](../../conferences/cvpr-2026/cards.md#paper-iqpir)
 - [Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition](../../conferences/cvpr-2026/cards.md#paper-tcl-long-tail)
 - [Parameter-Efficient Adaptation for MLLMs via Implicit Modality Decomposition](../../conferences/cvpr-2026/cards.md#paper-imod-modality-decomposition)
+- [SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control](../../conferences/cvpr-2026/cards.md#paper-slideredit-shared-continuous-instruction-adapters)
 
 <!-- conference-classification:end -->

@@ -1399,5 +1399,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-minddriver)
 - [Hybrid Token Compression for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-htc-vlm)
 - [StreamDiT: Real-Time Streaming Text-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-streamdit-moving-buffer)
+- [GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-guideflow-constraints-inside-trajectory-generation)
+- [Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-layerbind-early-latent-occlusion-composition)
+- [Open the Motion Door: Atomic Motion Decomposition and Recomposition for Open-Vocabulary Motion Generation](../../conferences/cvpr-2026/cards.md#paper-atomic-motion-recomposition)
+- [Image Generation from Contextually-Contradictory Prompts](../../conferences/cvpr-2026/cards.md#paper-stage-aware-prompt-decomposition)
+- [Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-todsynth-control-rectify)
 
 <!-- conference-classification:end -->

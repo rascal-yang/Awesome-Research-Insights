@@ -770,5 +770,7 @@
 - [Co-Me: Confidence Guided Token Merging for Visual Geometric Transformers](../conferences/cvpr-2026/cards.md#paper-come-confidence-guided-geometric-token-merging)
 - [G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-g-mixer)
 - [Neural Differentiation in Deep Networks: A Theoretical Framework for Expressivity and Representational Diversity](../conferences/cvpr-2026/cards.md#paper-neural-differentiation-loss-aware-pruning)
+- [Event Stream Filtering via Probability Flux Estimation](../conferences/cvpr-2026/cards.md#paper-edfilter-inter-event-probability-flux)
+- [An Empirical Study on How Video-LLMs Answer Video Questions](../conferences/cvpr-2026/cards.md#paper-video-llm-layer-knockout)
 
 <!-- conference-classification:end -->

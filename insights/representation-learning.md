@@ -582,5 +582,9 @@
 - [Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction](../conferences/cvpr-2026/cards.md#paper-gen3r-aligned-geometry-latents)
 - [Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection](../conferences/cvpr-2026/cards.md#paper-pointer-cad)
 - [VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM](../conferences/cvpr-2026/cards.md#paper-varsplat-uncertainty)
+- [Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection](../conferences/cvpr-2026/cards.md#paper-pda-phasewise-open-vocabulary-action-alignment)
+- [Efficient Unrolled Networks for Large-Scale 3D Inverse Problems](../conferences/cvpr-2026/cards.md#paper-partitioned-unrolling-global-normal-operator)
+- [Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface](../conferences/cvpr-2026/cards.md#paper-faithful-contouring)
+- [Recurrent Reasoning with Vision-Language Models for Estimating Long-Horizon Embodied Task Progress](../conferences/cvpr-2026/cards.md#paper-r2vlm-recurrent-progress)
 
 <!-- conference-classification:end -->

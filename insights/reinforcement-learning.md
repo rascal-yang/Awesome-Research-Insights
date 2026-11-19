@@ -752,5 +752,6 @@
 - [From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding](../conferences/cvpr-2026/cards.md#paper-group-revision-relative-reward)
 - [Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-srcp-visual-unsupervised-rl)
 - [Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning](../conferences/cvpr-2026/cards.md#paper-vital-difficulty-balanced-multitask-grpo)
+- [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](../conferences/cvpr-2026/cards.md#paper-mesh-pro-arpo)
 
 <!-- conference-classification:end -->

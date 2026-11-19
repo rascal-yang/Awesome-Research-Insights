@@ -391,5 +391,6 @@
 - [R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space](../conferences/cvpr-2026/cards.md#paper-r4-semantic-spatiotemporal-memory-retrieval)
 - [Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation](../conferences/cvpr-2026/cards.md#paper-simple-synthetic-video-controls)
 - [Socratic-Geo: Synthetic Data Generation and Cross-Modal Geometric Reasoning via Multi-Agent Interaction](../conferences/cvpr-2026/cards.md#paper-socratic-geo-failure-directed-synthesis)
+- [SRA 2: Variational Autoencoder Self-Representation Alignment  for Efficient Diffusion Training](../conferences/cvpr-2026/cards.md#paper-sra2-vae-feature-alignment)
 
 <!-- conference-classification:end -->

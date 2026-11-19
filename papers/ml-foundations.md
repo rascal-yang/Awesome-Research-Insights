@@ -2338,5 +2338,11 @@
 - [Neural Differentiation in Deep Networks: A Theoretical Framework for Expressivity and Representational Diversity](../conferences/cvpr-2026/cards.md#paper-neural-differentiation-loss-aware-pruning)
 - [Towards Stable Federated Continual Test-Time Adaptation in Wild World](../conferences/cvpr-2026/cards.md#paper-bpfedctta)
 - [Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection](../conferences/cvpr-2026/cards.md#paper-pointer-cad)
+- [The Image as Its Own Reward: Reinforcement Learning with Adversarial Reward for Image Generation](../conferences/cvpr-2026/cards.md#paper-adv-grpo-reference-updated-image-reward)
+- [Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-layerbind-early-latent-occlusion-composition)
+- [SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control](../conferences/cvpr-2026/cards.md#paper-slideredit-shared-continuous-instruction-adapters)
+- [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](../conferences/cvpr-2026/cards.md#paper-mesh-pro-arpo)
+- [Robust Spiking Neural Networks by Temporal Mutual Information](../conferences/cvpr-2026/cards.md#paper-temporal-mutual-information-snn)
+- [CIGMA: Causal Information-Gain Mechanistic Attribution of Attention Heads in Vision Transformers](../conferences/cvpr-2026/cards.md#paper-cigma-causal-head-attribution)
 
 <!-- conference-classification:end -->

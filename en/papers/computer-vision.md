@@ -1159,5 +1159,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration](../../conferences/cvpr-2026/cards.md#paper-iqpir)
 - [Trust-calibrated Collaborative Learning for Long-Tailed Visual Recognition](../../conferences/cvpr-2026/cards.md#paper-tcl-long-tail)
 - [FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain](../../conferences/cvpr-2026/cards.md#paper-faithfusion-information-gain)
+- [Event Stream Filtering via Probability Flux Estimation](../../conferences/cvpr-2026/cards.md#paper-edfilter-inter-event-probability-flux)
+- [Efficient Unrolled Networks for Large-Scale 3D Inverse Problems](../../conferences/cvpr-2026/cards.md#paper-partitioned-unrolling-global-normal-operator)
+- [Faithful Contouring: Near-Lossless 3D Voxel Representation Free from Iso-surface](../../conferences/cvpr-2026/cards.md#paper-faithful-contouring)
+- [Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-todsynth-control-rectify)
 
 <!-- conference-classification:end -->
