@@ -686,5 +686,6 @@
 - [HumanBA: Human-Aware Bundle Adjustment via Global Human-Camera Decoupling](../conferences/cvpr-2026/cards.md#paper-humanba-dynamic-landmark-recovery)
 - [Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation](../conferences/cvpr-2026/cards.md#paper-co-manipulation-simulation-stability)
 - [Lens Component Deletion based on Differentiable Ray Tracing](../conferences/cvpr-2026/cards.md#paper-lens-component-deletion)
+- [Fast Markov Random Field Optimisation for Topologically Noisy 3D Shape Matching](../conferences/cvpr-2026/cards.md#paper-affine-alpha-expansion-shape)
 
 <!-- conference-classification:end -->

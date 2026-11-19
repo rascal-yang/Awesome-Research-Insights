@@ -1491,5 +1491,12 @@ Decoding, test-time adaptation, and efficient execution.
 - [DuetMerging: Synergizing Dynamic and Static Strategies for Mitigating Task Interference in Model Merging](../../conferences/cvpr-2026/cards.md#paper-duetmerging)
 - [ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking](../../conferences/cvpr-2026/cards.md#paper-virc)
 - [Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache](../../conferences/cvpr-2026/cards.md#paper-dpcache-path-aware-scheduling)
+- [MAGICIAN: Efficient Long-Term Planning with Imagined Gaussians for Active Mapping](../../conferences/cvpr-2026/cards.md#paper-magician-long-horizon-coverage-planning)
+- [ForeAct: Steering Your VLA with Efficient Visual Foresight Planning](../../conferences/cvpr-2026/cards.md#paper-foreact-goal-image-and-subtask-conditioning)
+- [Adaptive Auxiliary Prompt Blending for Target-Faithful Diffusion Generation](../../conferences/cvpr-2026/cards.md#paper-adaptive-auxiliary-prompt-blending)
+- [DVAR: Dynamic Visual Autoregressive Modeling for Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-dvar-canonical-scale)
+- [Layered 4D-Rotor Gaussian Splatting: A Compressed Representation for Long Dynamic Scenes](../../conferences/cvpr-2026/cards.md#paper-l4drotorgs-temporal-buckets)
+- [Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-jit-spatial-diffusion-anchors)
+- [First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-first-logit-boosting)
 
 <!-- conference-classification:end -->

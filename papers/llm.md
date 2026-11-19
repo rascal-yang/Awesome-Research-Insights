@@ -2445,5 +2445,7 @@
 - [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](../conferences/cvpr-2026/cards.md#paper-proof-of-perception-conformal-tools)
 - [VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments](../conferences/cvpr-2026/cards.md#paper-vs-bench)
 - [ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-arm-thinker-tool-grounded-reward)
+- [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](../conferences/cvpr-2026/cards.md#paper-gui-sage)
+- [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](../conferences/cvpr-2026/cards.md#paper-3drawagent)
 
 <!-- conference-classification:end -->

@@ -1289,5 +1289,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather](../../conferences/cvpr-2026/cards.md#paper-nimbusgs-hybrid-weather)
 - [Computer Vision with a Superpixelation Camera](../../conferences/cvpr-2026/cards.md#paper-supercam)
 - [FinPercep-RM: A Fine-grained Reward Model and Co-evolutionary Curriculum for RL-based Real-world Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-finpercep-rm)
+- [Learning from Synthetic Data via Provenance-Based Input Gradient Guidance](../../conferences/cvpr-2026/cards.md#paper-synthetic-provenance-gradient-guidance)
+- [Fast Markov Random Field Optimisation for Topologically Noisy 3D Shape Matching](../../conferences/cvpr-2026/cards.md#paper-affine-alpha-expansion-shape)
+- [DVAR: Dynamic Visual Autoregressive Modeling for Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-dvar-canonical-scale)
+- [Layered 4D-Rotor Gaussian Splatting: A Compressed Representation for Long Dynamic Scenes](../../conferences/cvpr-2026/cards.md#paper-l4drotorgs-temporal-buckets)
+- [SigLino: Efficient Multi-Teacher Distillation for Agglomerative Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-siglino-asymmetric-relations)
 
 <!-- conference-classification:end -->

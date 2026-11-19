@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,617 篇，其中 1,024 篇暂收录、593 篇排除，另有 2,425 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,647 篇，其中 1,042 篇暂收录、605 篇排除，另有 2,395 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1030,3 +1030,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,617
 | 多模态学习 | 表示学习 | [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](cards.md#paper-mirage-latent-visual-thought) | 视觉规划需要内部空间表示时，让模型交织隐视觉词元和语言词元，无需生成像素供自己读取。 |
 | 机器学习基础 | 评测与分析 | [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](cards.md#paper-intrain-zero-cost-nas) | 零成本比较架构时同时检测激活有效维度与梯度传播，而非单用容量或单用梯度。 |
 | 多模态学习 | 知识蒸馏 | [Flow Map Distillation Without Data](cards.md#paper-data-free-flow-map-distillation) | 蒸馏生成流时可直接从教师原生先验采轨迹，避免外部数据与教师支持集错配。 |
+| 机器学习 | 表征学习 | [Cluster-aware Anchor Learning for Multi-View Clustering](cards.md#paper-cal-adaptive-cluster-anchor-budget) | 多视图聚类的锚点可按簇分配，让复杂簇保留更多锚点。见表 3。 |
+| 计算机视觉 | 训练策略 | [Learning from Synthetic Data via Provenance-Based Input Gradient Guidance](cards.md#paper-synthetic-provenance-gradient-guidance) | 合成数据时可用生成来源标注直接约束模型的输入梯度，检验模型是否仍依赖背景。见表 3。 |
+| 机器人学 | 规划与控制 | [MAGICIAN: Efficient Long-Term Planning with Imagined Gaussians for Active Mapping](cards.md#paper-magician-long-horizon-coverage-planning) | 主动建图可基于不完整场景预测预期表面覆盖，并对照树搜索与每步贪心。见表 2。 |
+| 机器人学 | 规划与控制 | [ForeAct: Steering Your VLA with Efficient Visual Foresight Planning](cards.md#paper-foreact-goal-image-and-subtask-conditioning) | 语言策略需要目标定位时，可比较目标图像和直接提供空间文本，并保留分步子任务。见表 4。 |
+| 生成模型 | 模型效率 | [RAPID: Reusing Attention Sparsity with Inter-step Adaptation for Efficient Video Diffusion](cards.md#paper-rapid-early-attention-mask-reuse) | 视频去噪可早期估计注意力块并在后续步复用，随阶段调节密度，避免反复筛块。见表 2。 |
+| 机器人学 | 表征学习 | [C-LaV: Conditional Latent Velocity Field Denoising for Weather-Robust LiDAR Place Recognition](cards.md#paper-clav-weather-invariant-latent-place-recognition) | 恶劣天气定位可先恢复冻结编码器的清晰域潜表示，再比较直接检索和不同去噪目标。见表 3。 |
+| 多模态学习 | 训练策略 | [Uncertainty-Aware Knowledge Distillation for Multimodal Large Language Models](cards.md#paper-beta-kd) | 蒸馏时按样本比较标签和教师可靠性，避免固定权重。 |
+| 多模态学习 | 推理策略 | [Adaptive Auxiliary Prompt Blending for Target-Faithful Diffusion Generation](cards.md#paper-adaptive-auxiliary-prompt-blending) | 低密度概念生成可用辅助语义支持，再按去噪步调节锚与目标的混合。 |
+| 计算机视觉 | 优化策略 | [Fast Markov Random Field Optimisation for Topologically Noisy 3D Shape Matching](cards.md#paper-affine-alpha-expansion-shape) | 有拓扑噪声时把表面对应改写为离散邻域一致性，保持近似保证同时利用标签结构加速。 |
+| 计算机视觉 | 生成模型 | [DVAR: Dynamic Visual Autoregressive Modeling for Image Super-Resolution](cards.md#paper-dvar-canonical-scale) | 多目标分辨率训练可学习相对尺度进程，再按目标尺寸呼叫同模型。 |
+| 智能体 | 强化学习 | [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](cards.md#paper-gui-sage) | 探索完全无正确动作时，以真动作提示诱导模型自己解释，再用信心和成功联合归因。 |
+| 智能体 | 自动化工作流 | [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](cards.md#paper-3drawagent) | 不方便微调工具代理时，可保存相对更好和更差的产物对，更新经验再生成。 |
+| 多模态学习 | 损失函数与优化 | [UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation](cards.md#paper-unifusion-source-preserving) | 让融合输出通过各来源重建约束保持信息，同时用双层训练平衡融合及重建。 |
+| 计算机视觉 | 推理优化 | [Layered 4D-Rotor Gaussian Splatting: A Compressed Representation for Long Dynamic Scenes](cards.md#paper-l4drotorgs-temporal-buckets) | 长动态场景按图元寿命建立时间桶，渲染只读当前活跃集合并分别量化。 |
+| 多模态学习 | 推理优化 | [Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers](cards.md#paper-jit-spatial-diffusion-anchors) | 扩散早期从稀疏空间锚点更新全局结构，按需要插入细节词元。 |
+| 计算机视觉 | 知识蒸馏 | [SigLino: Efficient Multi-Teacher Distillation for Agglomerative Vision Foundation Models](cards.md#paper-siglino-asymmetric-relations) | 多视觉教师几何不同，先蒸馏各自关系结构，配合等词元预算训练。 |
+| 多模态学习 | 推理优化 | [First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models](cards.md#paper-first-logit-boosting) | 开放式回答随长度丢失视觉信息时，可对照将早期视觉条件的分数作为后续解码先验。 |
+| 多模态学习 | 表示学习 | [Gravitation-Driven Semantic Alignment for Text Video Retrieval](cards.md#paper-gravialign-probabilistic-retrieval) | 一对多语义检索可同时要求分布中心接近和支持重叠，任一不足都降低匹配。 |

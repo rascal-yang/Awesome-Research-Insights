@@ -435,5 +435,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Hierarchical Action Learning for Weakly-Supervised Action Segmentation](../../conferences/cvpr-2026/cards.md#paper-hal-slow-action-latents)
 - [PowerCLIP: Powerset Alignment for Contrastive Pre-Training](../../conferences/cvpr-2026/cards.md#paper-powerclip)
 - [Improved Mean Flows: On the Challenges of Fastforward Generative Models](../../conferences/cvpr-2026/cards.md#paper-imf-instantaneous-regression)
+- [UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation](../../conferences/cvpr-2026/cards.md#paper-unifusion-source-preserving)
 
 <!-- conference-classification:end -->

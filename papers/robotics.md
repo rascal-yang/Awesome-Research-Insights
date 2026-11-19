@@ -962,5 +962,8 @@
 - [Adaptive Spatial-Temporal Window: Unlocking the Potential of Event Cameras in Heterogeneous Velocity Scenarios](../conferences/cvpr-2026/cards.md#paper-astw-local-event-time-window)
 - [RAG-TP: A General Framework for Vehicle Trajectory Prediction via Retrieval-Augmented Generation](../conferences/cvpr-2026/cards.md#paper-rag-tp-retrieved-trajectory-experts)
 - [Exploring Conditions for Diffusion Models in Robotic Control](../conferences/cvpr-2026/cards.md#paper-orca-task-adaptive-diffusion-features)
+- [MAGICIAN: Efficient Long-Term Planning with Imagined Gaussians for Active Mapping](../conferences/cvpr-2026/cards.md#paper-magician-long-horizon-coverage-planning)
+- [ForeAct: Steering Your VLA with Efficient Visual Foresight Planning](../conferences/cvpr-2026/cards.md#paper-foreact-goal-image-and-subtask-conditioning)
+- [C-LaV: Conditional Latent Velocity Field Denoising for Weather-Robust LiDAR Place Recognition](../conferences/cvpr-2026/cards.md#paper-clav-weather-invariant-latent-place-recognition)
 
 <!-- conference-classification:end -->

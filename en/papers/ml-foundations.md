@@ -2422,5 +2422,7 @@ General learning methods, optimization, learning theory, and inference.
 - [DuetMerging: Synergizing Dynamic and Static Strategies for Mitigating Task Interference in Model Merging](../../conferences/cvpr-2026/cards.md#paper-duetmerging)
 - [GPFlow: Gaussian Prototype Probability Flow for Unsupervised Multi-Modal Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-gpflow-gaussian-prototypes)
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](../../conferences/cvpr-2026/cards.md#paper-intrain-zero-cost-nas)
+- [Cluster-aware Anchor Learning for Multi-View Clustering](../../conferences/cvpr-2026/cards.md#paper-cal-adaptive-cluster-anchor-budget)
+- [RAPID: Reusing Attention Sparsity with Inter-step Adaptation for Efficient Video Diffusion](../../conferences/cvpr-2026/cards.md#paper-rapid-early-attention-mask-reuse)
 
 <!-- conference-classification:end -->

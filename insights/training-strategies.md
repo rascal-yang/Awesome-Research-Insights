@@ -1089,5 +1089,8 @@
 - [Exploring Conditions for Diffusion Models in Robotic Control](../conferences/cvpr-2026/cards.md#paper-orca-task-adaptive-diffusion-features)
 - [Residual Connections Harm Generative Representation Learning](../conferences/cvpr-2026/cards.md#paper-decayed-identity-shortcuts-semantic-representations)
 - [Flow Map Distillation Without Data](../conferences/cvpr-2026/cards.md#paper-data-free-flow-map-distillation)
+- [Learning from Synthetic Data via Provenance-Based Input Gradient Guidance](../conferences/cvpr-2026/cards.md#paper-synthetic-provenance-gradient-guidance)
+- [Uncertainty-Aware Knowledge Distillation for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-beta-kd)
+- [SigLino: Efficient Multi-Teacher Distillation for Agglomerative Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-siglino-asymmetric-relations)
 
 <!-- conference-classification:end -->

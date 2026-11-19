@@ -663,5 +663,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Computer Vision with a Superpixelation Camera](../../conferences/cvpr-2026/cards.md#paper-supercam)
 - [GPFlow: Gaussian Prototype Probability Flow for Unsupervised Multi-Modal Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-gpflow-gaussian-prototypes)
 - [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](../../conferences/cvpr-2026/cards.md#paper-mirage-latent-visual-thought)
+- [Cluster-aware Anchor Learning for Multi-View Clustering](../../conferences/cvpr-2026/cards.md#paper-cal-adaptive-cluster-anchor-budget)
+- [C-LaV: Conditional Latent Velocity Field Denoising for Weather-Robust LiDAR Place Recognition](../../conferences/cvpr-2026/cards.md#paper-clav-weather-invariant-latent-place-recognition)
+- [Gravitation-Driven Semantic Alignment for Text Video Retrieval](../../conferences/cvpr-2026/cards.md#paper-gravialign-probabilistic-retrieval)
 
 <!-- conference-classification:end -->

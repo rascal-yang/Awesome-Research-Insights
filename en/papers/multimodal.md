@@ -1215,5 +1215,11 @@ Learning across modalities such as images, text, audio, and video.
 - [Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache](../../conferences/cvpr-2026/cards.md#paper-dpcache-path-aware-scheduling)
 - [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](../../conferences/cvpr-2026/cards.md#paper-mirage-latent-visual-thought)
 - [Flow Map Distillation Without Data](../../conferences/cvpr-2026/cards.md#paper-data-free-flow-map-distillation)
+- [Uncertainty-Aware Knowledge Distillation for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-beta-kd)
+- [Adaptive Auxiliary Prompt Blending for Target-Faithful Diffusion Generation](../../conferences/cvpr-2026/cards.md#paper-adaptive-auxiliary-prompt-blending)
+- [UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation](../../conferences/cvpr-2026/cards.md#paper-unifusion-source-preserving)
+- [Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-jit-spatial-diffusion-anchors)
+- [First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-first-logit-boosting)
+- [Gravitation-Driven Semantic Alignment for Text Video Retrieval](../../conferences/cvpr-2026/cards.md#paper-gravialign-probabilistic-retrieval)
 
 <!-- conference-classification:end -->

@@ -780,5 +780,6 @@
 - [Learning to Focus and Precise Cropping:A Reinforcement Learning Framework with Information Gaps and Grounding Loss for MLLMs](../conferences/cvpr-2026/cards.md#paper-information-gap-crop-dependency-evaluation)
 - [FinPercep-RM: A Fine-grained Reward Model and Co-evolutionary Curriculum for RL-based Real-world Super-Resolution](../conferences/cvpr-2026/cards.md#paper-finpercep-rm)
 - [ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-arm-thinker-tool-grounded-reward)
+- [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](../conferences/cvpr-2026/cards.md#paper-gui-sage)
 
 <!-- conference-classification:end -->
