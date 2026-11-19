@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,927 篇，其中 2,516 篇暂收录、1,411 篇排除，另有 115 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,957 篇，其中 2,534 篇暂收录、1,423 篇排除，另有 85 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2522,3 +2522,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,927
 | 高效深度学习 | 时空表征 | [Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration](cards.md#paper-c2ssm-cluster-serial-global-context) | 以少数语义簇中心替代每个像素的全局状态扫描，再将全局信息写回像素。 |
 | 多模态学习 | 时序一致性 | [SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs](cards.md#paper-sparrow-tracked-features-box-mask-grounding) | 将时间对齐跟踪提示与空间框同时送给分割推理，降低对象身份切换。 |
 | 机器人学 | 课程学习 | [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](cards.md#paper-closed-loop-difficulty-motion-synthesis) | 周期性按当前控制器失败难度更新运动数据，使动作课程随策略能力扩展。 |
+| 多模态学习 | 表征学习 | [When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence](cards.md#paper-sfadift-cross-sparsity-spatial-frequency-alignment) | 匹配稀疏结构和纹理丰富观测时，将空间位置与低频结构分别对齐。 |
+| 三维视觉 | 动态推理 | [Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising](cards.md#paper-dsnet-patch-noise-adaptive-routing) | 按局部噪声选择迭代路径，避免把干净几何和高噪点用同一去噪强度处理。 |
+| 高效深度学习 | 动态推理 | [ElasticFormer: Detecting Objects in HRW Shots via Elastic Computing Vision Transformer](cards.md#paper-elasticformer-foreground-proportion-compute-budget) | 根据前景数量分配需处理的窗口，而不是固定保留比例。 |
+| 高效深度学习 | 模型量化 | [S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations](cards.md#paper-s2d-dominant-singular-value-conditioning) | 量化前仅衰减与激活异常值相关的权重主方向，避免均匀正则。 |
+| 三维视觉 | 评测设计 | [PhysGaia: A Physics-aware Benchmark with Multi-Body Interactions for Dynamic Novel View Synthesis](cards.md#paper-physgaia-physics-ground-truth-for-dynamic-nvs) | 对动态重建同时提供可验证的运动和物理真值，区分画质与动力学保真。 |
+| 生成模型 | 强化学习与奖励 | [NS-Diff: Fluid Navier-Stokes Guided Video Diffusion via Reinforcement Learning](cards.md#paper-nsdiff-material-dependent-physical-rewards) | 为不同材料分配不同动力学正则，避免给流体和刚体套用同一种运动约束。 |
+| 机器人学 | 模型架构 | [Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](cards.md#paper-ghost-fwl-waveform-returns) | 动态场景中几何滤波不可靠时，从回波的时间强度形状区分真点与多径。 |
+| 多模态学习 | 训练策略 | [LVLM-Aided Alignment of Task-Specific Vision Models](cards.md#paper-lvlm-va-image-critiques) | 用视觉语言模型把专家的类别规范转换为逐图反馈，再以组最差表现验证是否纠偏。 |
+| 计算机视觉 | 损失函数 | [Detecting Unknown Objects via Energy-based Separation for Open World Object Detection](cards.md#paper-deus-open-world-energy-separation) | 为未知对象保留独立特征区域，并将已知类区分与回放同时评估。 |
+| 计算机视觉 | 模型架构 | [Unified Latent Space for Understanding and Generation via Semantic Auto-encoder](cards.md#paper-semantic-autoencoder-geometry-detail) | 生成潜空间应同时保留语义和细几何，分别测重建、生成与理解。 |
+| 计算机视觉 | 训练策略 | [Diffusion-Based sRGB Real Noise Generation via Prompt-Driven Noise Representation Learning](cards.md#paper-png-metadata-free-noise) | 在缺少相机元数据时，以少量真实噪声作为条件合成匹配的训练对。 |
+| 多模态学习 | 评测与诊断 | [DiGraphHal-Bench: Evaluating Multimodal Large Language Models on Complex Directed Graphs](cards.md#paper-digraphhal-structural-reasoning) | 用真实有向图同时检查边方向、结构和语义推断，识别图表推理幻觉。 |
+| 多模态学习 | 模型架构 | [Talking Together: Synthesizing Co-Located 3D Conversations from Audio](cards.md#paper-talking-together-cross-speaker-gaze) | 给每个交互主体独立输出路径，通过跨主体注意力和相对视线约束保持互动。 |
+| 计算机视觉 | 优化策略 | [MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry](cards.md#paper-merg3r-confidence-fusion) | 大规模多视图重建先按共视拆成多样且重叠的子集，再以置信度合并几何。 |
+| 三维视觉 | 优化与正则化 | [Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting](cards.md#paper-dropansh-neighborhood-compensation-regularization) | 对局部强冗余表示施加成组 dropout，避免相邻单元补偿掩盖正则效果。 |
+| 高效深度学习 | 表征学习 | [Neural-Centric Video Processing Pipeline for Unified Multi-Task Inference](cards.md#paper-nvp-intermediate-neural-video-adapters) | 重复处理同一视频时，从隐式编码中直接读任务特征，用小型适配器避免全量像素解码。 |
+| 机器学习 | 多视角学习 | [Scalable Multi-View Subspace Clustering with Tensorized Anchor Guidance](cards.md#paper-tensorized-cross-view-anchor-guidance) | 聚类用锚点压缩时，联合约束视角间锚点的低秩关系，保留一致与互补信息。 |
+| 生成模型 | 世界模型 | [PHANTOM: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics](cards.md#paper-physics-infused-joint-visual-latent-dynamics) | 在生成视觉未来的同时预测隐式物理状态，分别评自然观感与物理常识。 |

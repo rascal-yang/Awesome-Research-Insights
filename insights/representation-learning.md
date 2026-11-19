@@ -816,5 +816,7 @@
 - [JUMP-Hand: Learning Joint-wise Uncertainty to Gate Mixture of View Experts for Multi-View 3D Hand Reconstruction](../conferences/cvpr-2026/cards.md#paper-joint-wise-view-uncertainty-gating)
 - [Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](../conferences/cvpr-2026/cards.md#paper-gpocc-surface-to-volume-geometry-prior)
 - [Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration](../conferences/cvpr-2026/cards.md#paper-c2ssm-cluster-serial-global-context)
+- [When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence](../conferences/cvpr-2026/cards.md#paper-sfadift-cross-sparsity-spatial-frequency-alignment)
+- [Neural-Centric Video Processing Pipeline for Unified Multi-Task Inference](../conferences/cvpr-2026/cards.md#paper-nvp-intermediate-neural-video-adapters)
 
 <!-- conference-classification:end -->

@@ -1407,5 +1407,7 @@
 - [Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach](../conferences/cvpr-2026/cards.md#paper-geolora-partial-shape-descriptors)
 - [Cross-View Distillation and Adaptive Masking for Incomplete Multi-View Multi-Label Classification](../conferences/cvpr-2026/cards.md#paper-cdam-cross-view-distillation-incomplete-labels)
 - [FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters](../conferences/cvpr-2026/cards.md#paper-fastlightgen-joint-step-and-parameter-distillation)
+- [LVLM-Aided Alignment of Task-Specific Vision Models](../conferences/cvpr-2026/cards.md#paper-lvlm-va-image-critiques)
+- [Diffusion-Based sRGB Real Noise Generation via Prompt-Driven Noise Representation Learning](../conferences/cvpr-2026/cards.md#paper-png-metadata-free-noise)
 
 <!-- conference-classification:end -->

@@ -1201,5 +1201,6 @@
 - [RARE: Learn to RAnk and REtrieve for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-rare-relative-quality-ranking)
 - [Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction](../conferences/cvpr-2026/cards.md#paper-gpocc-surface-to-volume-geometry-prior)
 - [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](../conferences/cvpr-2026/cards.md#paper-closed-loop-difficulty-motion-synthesis)
+- [Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](../conferences/cvpr-2026/cards.md#paper-ghost-fwl-waveform-returns)
 
 <!-- conference-classification:end -->

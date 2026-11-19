@@ -1001,5 +1001,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [HandWorld: Hand-Centric Unified Video Action Generation](../../conferences/cvpr-2026/cards.md#paper-handworld-shared-action-video-conditioning)
 - [DreamSAC: Learning Hamiltonian World Models via Symmetry Exploration](../../conferences/cvpr-2026/cards.md#paper-dreamsac-hamiltonian-symmetry-exploration)
 - [NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction](../../conferences/cvpr-2026/cards.md#paper-navforesee-dual-horizon-visual-imagination)
+- [PHANTOM: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics](../../conferences/cvpr-2026/cards.md#paper-physics-infused-joint-visual-latent-dynamics)
 
 <!-- conference-classification:end -->

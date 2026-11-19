@@ -1751,5 +1751,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation](../../conferences/cvpr-2026/cards.md#paper-flashmesh-structured-speculation)
 - [SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-seethrough3d-occlusion-layout)
 - [3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-self-constrained-gaussian-tsdf)
+- [Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising](../../conferences/cvpr-2026/cards.md#paper-dsnet-patch-noise-adaptive-routing)
+- [PhysGaia: A Physics-aware Benchmark with Multi-Body Interactions for Dynamic Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-physgaia-physics-ground-truth-for-dynamic-nvs)
+- [Detecting Unknown Objects via Energy-based Separation for Open World Object Detection](../../conferences/cvpr-2026/cards.md#paper-deus-open-world-energy-separation)
+- [Unified Latent Space for Understanding and Generation via Semantic Auto-encoder](../../conferences/cvpr-2026/cards.md#paper-semantic-autoencoder-geometry-detail)
+- [Diffusion-Based sRGB Real Noise Generation via Prompt-Driven Noise Representation Learning](../../conferences/cvpr-2026/cards.md#paper-png-metadata-free-noise)
+- [MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry](../../conferences/cvpr-2026/cards.md#paper-merg3r-confidence-fusion)
+- [Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-dropansh-neighborhood-compensation-regularization)
 
 <!-- conference-classification:end -->

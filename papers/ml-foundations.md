@@ -2677,5 +2677,11 @@
 - [Reasoning Diffusion for Unpaired Test Time Out-of-distribution Text-Image to Video Generation](../conferences/cvpr-2026/cards.md#paper-reasondiff-unpaired-condition-temporal-placement)
 - [Disentangling to Re-couple: Resolving the Similarity-Controllability Paradox in Subject-Driven Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-disco-disentangle-identity-and-edit-instructions)
 - [Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration](../conferences/cvpr-2026/cards.md#paper-c2ssm-cluster-serial-global-context)
+- [ElasticFormer: Detecting Objects in HRW Shots via Elastic Computing Vision Transformer](../conferences/cvpr-2026/cards.md#paper-elasticformer-foreground-proportion-compute-budget)
+- [S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations](../conferences/cvpr-2026/cards.md#paper-s2d-dominant-singular-value-conditioning)
+- [NS-Diff: Fluid Navier-Stokes Guided Video Diffusion via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-nsdiff-material-dependent-physical-rewards)
+- [Neural-Centric Video Processing Pipeline for Unified Multi-Task Inference](../conferences/cvpr-2026/cards.md#paper-nvp-intermediate-neural-video-adapters)
+- [Scalable Multi-View Subspace Clustering with Tensorized Anchor Guidance](../conferences/cvpr-2026/cards.md#paper-tensorized-cross-view-anchor-guidance)
+- [PHANTOM: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics](../conferences/cvpr-2026/cards.md#paper-physics-infused-joint-visual-latent-dynamics)
 
 <!-- conference-classification:end -->

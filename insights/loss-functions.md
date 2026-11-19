@@ -504,5 +504,7 @@
 - [VT-Intrinsic: Physics-Based Decomposition of Reflectance and Shading using a Single Visible-Thermal Image Pair](../conferences/cvpr-2026/cards.md#paper-vt-intrinsic-ordinal-cues)
 - [Exemplar-Free Continual Learning for State Space Models](../conferences/cvpr-2026/cards.md#paper-infssm-observability-regularization)
 - [Exemplar-Free Class Incremental Learning via Preserving Class-Discriminative Structure](../conferences/cvpr-2026/cards.md#paper-efcil-class-geometry)
+- [Detecting Unknown Objects via Energy-based Separation for Open World Object Detection](../conferences/cvpr-2026/cards.md#paper-deus-open-world-energy-separation)
+- [Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-dropansh-neighborhood-compensation-regularization)
 
 <!-- conference-classification:end -->

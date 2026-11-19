@@ -1714,5 +1714,9 @@
 - [Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering](../conferences/cvpr-2026/cards.md#paper-hint-pointing-intent-tokens)
 - [VideoSSR: Video Self-Supervised Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-videossr-intrinsic-verifiable-video-rewards)
 - [SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs](../conferences/cvpr-2026/cards.md#paper-sparrow-tracked-features-box-mask-grounding)
+- [When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence](../conferences/cvpr-2026/cards.md#paper-sfadift-cross-sparsity-spatial-frequency-alignment)
+- [LVLM-Aided Alignment of Task-Specific Vision Models](../conferences/cvpr-2026/cards.md#paper-lvlm-va-image-critiques)
+- [DiGraphHal-Bench: Evaluating Multimodal Large Language Models on Complex Directed Graphs](../conferences/cvpr-2026/cards.md#paper-digraphhal-structural-reasoning)
+- [Talking Together: Synthesizing Co-Located 3D Conversations from Audio](../conferences/cvpr-2026/cards.md#paper-talking-together-cross-speaker-gaze)
 
 <!-- conference-classification:end -->

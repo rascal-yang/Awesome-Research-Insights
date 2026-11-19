@@ -742,5 +742,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](../../conferences/cvpr-2026/cards.md#paper-grpo-guard-ratio-shift)
 - [Anatomical Domain Shifts: Test-time Heterogeneous Adaptation for 3D Human Pose Prediction](../../conferences/cvpr-2026/cards.md#paper-ttha-anatomical-shifts)
 - [3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-self-constrained-gaussian-tsdf)
+- [MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry](../../conferences/cvpr-2026/cards.md#paper-merg3r-confidence-fusion)
 
 <!-- conference-classification:end -->

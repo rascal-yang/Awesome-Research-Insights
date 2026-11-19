@@ -896,5 +896,6 @@
 - [Learning by Analogy: A Causal Framework for Compositional Generalization](../conferences/cvpr-2026/cards.md#paper-compositional-analogy-causal-minimal-changes)
 - [SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs](../conferences/cvpr-2026/cards.md#paper-sparrow-tracked-features-box-mask-grounding)
 - [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](../conferences/cvpr-2026/cards.md#paper-closed-loop-difficulty-motion-synthesis)
+- [Scalable Multi-View Subspace Clustering with Tensorized Anchor Guidance](../conferences/cvpr-2026/cards.md#paper-tensorized-cross-view-anchor-guidance)
 
 <!-- conference-classification:end -->

@@ -37741,3 +37741,273 @@
 - **适用条件 / 局限** · 动作课程必须满足控制安全和动力学约束，仿真稳定不保证真实硬件执行。
 
 **可复用机制** · 周期性按当前控制器失败难度更新运动数据，使动作课程随策略能力扩展。
+
+<a id="paper-sfadift-cross-sparsity-spatial-frequency-alignment"></a>
+
+## When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_When_Lines_Meet_Textures_Spatial-Frequency_Aligned_Diffusion_Features_for_Cross-Sparsity_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_When_Lines_Meet_Textures_Spatial-Frequency_Aligned_Diffusion_Features_for_Cross-Sparsity_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 草图到照片既有结构抽象和位置偏差，也有纹理频段差异。
+- **核心创新 / 方法** · 学习共享的干净扩散特征，并在频域聚合低频成分，降低纹理密度差的影响。
+- **Baseline** · 比较零样本的 SD、CLIP、DINOv2 等及监督匹配方案。
+- **Benchmark** · PSC6K 点对应，以 PCK@1、PCK@5、PCK@10 衡量。
+- **关键结果 / 消融** · 表 1 分正确点的容差报告匹配效果，支持检验细位置和粗对应。
+- **适用条件 / 局限** · 高频细节若具判别意义，低频聚合可能漏掉关键线索。
+
+**可复用机制** · 匹配稀疏结构和纹理丰富观测时，将空间位置与低频结构分别对齐。
+
+<a id="paper-dsnet-patch-noise-adaptive-routing"></a>
+
+## Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_Routing_on_Demand_DSNet_for_Efficient_Progressive_Point_Cloud_Denoising_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 均匀去噪会在低噪区域过平滑，在高噪区域做不足。
+- **核心创新 / 方法** · 以局部法向相似估计噪声，经反向单调规则选择模块，按路径决定迭代。
+- **Baseline** · 与 PD-Flow 和现有多阶段点云去噪对比。
+- **Benchmark** · 正文按点数和噪声强度比较恢复质量与开销。
+- **关键结果 / 消融** · 比较表展示低噪低点数与高噪条件下方法差异。
+- **适用条件 / 局限** · 法向估计依赖点密度，尖边也可能被当成噪声，宜按表面类型分层评估。
+
+**可复用机制** · 按局部噪声选择迭代路径，避免把干净几何和高噪点用同一去噪强度处理。
+
+<a id="paper-elasticformer-foreground-proportion-compute-budget"></a>
+
+## ElasticFormer: Detecting Objects in HRW Shots via Elastic Computing Vision Transformer
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_ElasticFormer_Detecting_Objects_in_HRW_Shots_via_Elastic_Computing_Vision_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_ElasticFormer_Detecting_Objects_in_HRW_Shots_via_Elastic_Computing_Vision_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 超宽高分辨率图像背景多，固定的窗口预算可能在目标多时漏检。
+- **核心创新 / 方法** · 先以方差为窗口打分，再用 ElasticSelector 预测前景比例控制 top-k。
+- **Baseline** · 对比固定稀疏的视觉骨干及已有超宽检测方案。
+- **Benchmark** · PANDA，比较前景、背景和整体表现及骨干与颈部 GFLOPs。
+- **关键结果 / 消融** · 表 1 同时列计算量和检测表现，可检查提效是否牺牲前景。
+- **适用条件 / 局限** · 前景比例预测错误会导致截断，极小物体和纹理背景需要单独验证。
+
+**可复用机制** · 根据前景数量分配需处理的窗口，而不是固定保留比例。
+
+<a id="paper-s2d-dominant-singular-value-conditioning"></a>
+
+## S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chavan_S2D_Selective_Spectral_Decay_for_Quantization-Friendly_Conditioning_of_Neural_Activations_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chavan_S2D_Selective_Spectral_Decay_for_Quantization-Friendly_Conditioning_of_Neural_Activations_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 少数激活异常值拉大动态范围，低比特量化会损失大量有效分辨率。
+- **核心创新 / 方法** · 把权重主奇异值与异常激活联系起来，在微调中选择性约束大奇异分量。
+- **Baseline** · 对比未经处理和常规正则的骨干，诊断 CLIP、SigLIP、SigLIP2。
+- **Benchmark** · 正文在多个 Transformer 比较激活异常和量化结果，表 1 报主成分比率。
+- **关键结果 / 消融** · 作者观察激活极值随部分预训练规模上升，且与权重主奇异值关联。
+- **适用条件 / 局限** · 选择性衰减也可能削弱主语义，具体位宽和校准集需验证。
+
+**可复用机制** · 量化前仅衰减与激活异常值相关的权重主方向，避免均匀正则。
+
+<a id="paper-physgaia-physics-ground-truth-for-dynamic-nvs"></a>
+
+## PhysGaia: A Physics-aware Benchmark with Multi-Body Interactions for Dynamic Novel View Synthesis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_PhysGaia_A_Physics-aware_Benchmark_with_Multi-Body_Interactions_for_Dynamic_Novel_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_PhysGaia_A_Physics-aware_Benchmark_with_Multi-Body_Interactions_for_Dynamic_Novel_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 外观逼真的新视角可能仍有错误碰撞或材料行为。
+- **核心创新 / 方法** · 用不同材料求解器生成多体互动场景，保存轨迹、参数和多视图信号。
+- **Baseline** · 比较现有动态新视角合成数据集和重建方法。
+- **Benchmark** · PhysGaia，覆盖流体、气体、织物和刚体等场景。
+- **关键结果 / 消融** · 正文的基准覆盖对照显示现有数据常缺明确物理状态或真实交互。
+- **适用条件 / 局限** · 模拟器模型和材质设置决定真值覆盖，真实物理表现仍需复核。
+
+**可复用机制** · 对动态重建同时提供可验证的运动和物理真值，区分画质与动力学保真。
+
+<a id="paper-nsdiff-material-dependent-physical-rewards"></a>
+
+## NS-Diff: Fluid Navier-Stokes Guided Video Diffusion via Reinforcement Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_NS-Diff_Fluid_Navier-Stokes_Guided_Video_Diffusion_via_Reinforcement_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Deng_NS-Diff_Fluid_Navier-Stokes_Guided_Video_Diffusion_via_Reinforcement_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频生成的视觉逼真不能保证流体和刚体运动均合理。
+- **核心创新 / 方法** · 从带噪潜帧识别材料区域，注入速度等动态特征，并分别约束流体散度与刚体平顺度。
+- **Baseline** · 比较现有视频扩散和不同物理条件配置。
+- **Benchmark** · PhysVideoBench、UCF、MSR-VTT，表 1 还按噪声报刚体 IoU 和流体 F1。
+- **关键结果 / 消融** · 正文分区域和噪声检验物理检测，并独立报告生成的物理表现。
+- **适用条件 / 局限** · 物理约束为简化模型，混合材料与不适用边界条件的场景需复测。
+
+**可复用机制** · 为不同材料分配不同动力学正则，避免给流体和刚体套用同一种运动约束。
+
+<a id="paper-ghost-fwl-waveform-returns"></a>
+
+## Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ikeda_Ghost-FWL_A_Large-Scale_Full-Waveform_LiDAR_Dataset_for_Ghost_Detection_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ikeda_Ghost-FWL_A_Large-Scale_Full-Waveform_LiDAR_Dataset_for_Ghost_Detection_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 玻璃反射引起虚假 LiDAR 返回，稀疏移动点云难靠共视核验。
+- **核心创新 / 方法** · Ghost-FWL 在完整回波波形中给峰值标注真伪并比较去除方法。
+- **Baseline** · 比较基于点云一致性和波形的处理。
+- **Benchmark** · 十类采集场景约2.4万帧，逐峰标注并测虚点去除。
+- **关键结果 / 消融** · 正文表2报告去除比较，支持保留原始波形作观测。
+- **适用条件 / 局限** · 需要可读取波形的设备，跨硬件及不同反射材质需重测。
+
+**可复用机制** · 动态场景中几何滤波不可靠时，从回波的时间强度形状区分真点与多径。
+
+<a id="paper-lvlm-va-image-critiques"></a>
+
+## LVLM-Aided Alignment of Task-Specific Vision Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Koebler_LVLM-Aided_Alignment_of_Task-Specific_Vision_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Koebler_LVLM-Aided_Alignment_of_Task-Specific_Vision_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 小模型的可视解释能显示捷径，但难直接将人类规范转成训练信号。
+- **核心创新 / 方法** · LVLM-VA 以语言连接模型行为及专家规范，并输出图像级批评。
+- **Baseline** · 比较不同判定方式及未对齐模型。
+- **Benchmark** · 合成及现实任务，报告判定准确率和最差组准确率变化。
+- **关键结果 / 消融** · 表1、2对照模型批评和任务表现。
+- **适用条件 / 局限** · 专家规范和多模态裁判可能出错，不能只用一致性替代人工复验。
+
+**可复用机制** · 用视觉语言模型把专家的类别规范转换为逐图反馈，再以组最差表现验证是否纠偏。
+
+<a id="paper-deus-open-world-energy-separation"></a>
+
+## Detecting Unknown Objects via Energy-based Separation for Open World Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Heo_Detecting_Unknown_Objects_via_Energy-based_Separation_for_Open_World_Object_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Heo_Detecting_Unknown_Objects_via_Energy-based_Separation_for_Open_World_Object_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 按已知类预测挖未知候选会漏掉无相似已知类别的对象。
+- **核心创新 / 方法** · DEUS 联用 ETF 子空间未知分离和已知类能量区分约束。
+- **Baseline** · 比较开放世界检测和既有记忆回放。
+- **Benchmark** · M-OWODB、S-OWODB 和 RS-OWODB，含 mAP。
+- **关键结果 / 消融** · 正文报告不同任务阶段的已知与未知检测。
+- **适用条件 / 局限** · 未知定义随部署变化，低置信背景与真实新类仍需区分。
+
+**可复用机制** · 为未知对象保留独立特征区域，并将已知类区分与回放同时评估。
+
+<a id="paper-semantic-autoencoder-geometry-detail"></a>
+
+## Unified Latent Space for Understanding and Generation via Semantic Auto-encoder
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Unified_Latent_Space_for_Understanding_and_Generation_via_Semantic_Auto-encoder_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Unified_Latent_Space_for_Understanding_and_Generation_via_Semantic_Auto-encoder_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常用语义编码器的抽象特征会遗漏细结构，并可能增加生成收敛成本。
+- **核心创新 / 方法** · 语义自编码器结合抽象表示与几何细节表示。
+- **Baseline** · 比较普通自动编码器和语义编码器变体。
+- **Benchmark** · 正文图像重建、判别及扩散训练，含 PSNR 和 SSIM。
+- **关键结果 / 消融** · 正文分析纯语义空间的取舍并比较混合结构。
+- **适用条件 / 局限** · 更高潜维度可能增加采样开销，视频及动作的几何语义尺度需另定。
+
+**可复用机制** · 生成潜空间应同时保留语义和细几何，分别测重建、生成与理解。
+
+<a id="paper-png-metadata-free-noise"></a>
+
+## Diffusion-Based sRGB Real Noise Generation via Prompt-Driven Noise Representation Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ko_Diffusion-Based_sRGB_Real_Noise_Generation_via_Prompt-Driven_Noise_Representation_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ko_Diffusion-Based_sRGB_Real_Noise_Generation_via_Prompt-Driven_Noise_Representation_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 真实 sRGB 噪声因设备而异，配对采集昂贵。
+- **核心创新 / 方法** · PNG 从噪声观测提取高维提示，扩散生成同分布的噪声。
+- **Baseline** · 比较元数据驱动等噪声建模，并训练同样的 DnCNN 对照。
+- **Benchmark** · SIDD-Benchmark 等噪声与去噪评测。
+- **关键结果 / 消融** · 正文分别评价模拟噪声和其训练出的去噪器。
+- **适用条件 / 局限** · 噪声提示若混入场景纹理会造成错误监督，新 ISP 需复验。
+
+**可复用机制** · 在缺少相机元数据时，以少量真实噪声作为条件合成匹配的训练对。
+
+<a id="paper-digraphhal-structural-reasoning"></a>
+
+## DiGraphHal-Bench: Evaluating Multimodal Large Language Models on Complex Directed Graphs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fan_DiGraphHal-Bench_Evaluating_Multimodal_Large_Language_Models_on_Complex_Directed_Graphs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fan_DiGraphHal-Bench_Evaluating_Multimodal_Large_Language_Models_on_Complex_Directed_Graphs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 自然图像幻觉基准难覆盖方向和多步流程逻辑。
+- **核心创新 / 方法** · DiGraphHal-Bench 对真实流程图自动筛查，并按四能力和十二任务提问。
+- **Baseline** · 对照现有多模态图结构基准及多种模型。
+- **Benchmark** · 六个以上领域真实流程图问答，检查结构与幻觉。
+- **关键结果 / 消融** · 正文按推理类型报告评测和数据设计。
+- **适用条件 / 局限** · 图的分辨率和标注质量影响证据，执行正确性仍需另测。
+
+**可复用机制** · 用真实有向图同时检查边方向、结构和语义推断，识别图表推理幻觉。
+
+<a id="paper-talking-together-cross-speaker-gaze"></a>
+
+## Talking Together: Synthesizing Co-Located 3D Conversations from Audio
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shan_Talking_Together_Synthesizing_Co-Located_3D_Conversations_from_Audio_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shan_Talking_Together_Synthesizing_Co-Located_3D_Conversations_from_Audio_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 混合音频下分别生成头像会遗漏同空间的朝向和眼神。
+- **核心创新 / 方法** · 双流结构借说话角色嵌入分离输入，用跨主体注意力与视线损失关联。
+- **Baseline** · 比较已有双人动画及基于检索的方法。
+- **Benchmark** · 正文共处双人三维对话，评估翻译位移、头姿、视线和唇形。
+- **关键结果 / 消融** · 正文量测多主体相对空间及音驱效果。
+- **适用条件 / 局限** · 适用于可观测双人场景，多人遮挡和真实因果交互需另验。
+
+**可复用机制** · 给每个交互主体独立输出路径，通过跨主体注意力和相对视线约束保持互动。
+
+<a id="paper-merg3r-confidence-fusion"></a>
+
+## MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cheng_MERG3R_A_Divide-and-Conquer_Approach_to_Large-Scale_Neural_Visual_Geometry_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cheng_MERG3R_A_Divide-and-Conquer_Approach_to_Large-Scale_Neural_Visual_Geometry_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 几何 Transformer 的全注意力限制可同时读入的图像数。
+- **核心创新 / 方法** · MERG3R 排序后分组独立重建，用全局对齐与置信加权光束调整合并。
+- **Baseline** · 接入 VGGT、Pi3 等骨干，与全量或已有大规模方案比较。
+- **Benchmark** · 7-Scenes、NRGBD、Tanks 等大规模重建及相机位姿。
+- **关键结果 / 消融** · 正文分别比较内存、精度和位姿结果。
+- **适用条件 / 局限** · 组间需有充分共视与准确尺度；弱重叠和误闭环会影响融合。
+
+**可复用机制** · 大规模多视图重建先按共视拆成多样且重叠的子集，再以置信度合并几何。
+
+<a id="paper-dropansh-neighborhood-compensation-regularization"></a>
+
+## Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fang_Dropping_Anchor_and_Spherical_Harmonics_for_Sparse-view_Gaussian_Splatting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fang_Dropping_Anchor_and_Spherical_Harmonics_for_Sparse-view_Gaussian_Splatting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 稀疏视角的高斯独立 dropout 容易被邻域补偿，颜色高频系数也会过拟合。
+- **核心创新 / 方法** · 随机选高斯锚点同时移除其邻域，并在颜色参数中随机去掉高阶球谐分量。
+- **Baseline** · 与 Mip-NeRF、DietNeRF 及其他稀疏视图高斯策略比较。
+- **Benchmark** · LLFF 的 3、6、9 输入视图，报告 PSNR、SSIM、LPIPS。
+- **关键结果 / 消融** · 正文诊断邻域补偿，表 1 随视图数比较正则效果。
+- **适用条件 / 局限** · 局部邻域尺度和球谐阶数需要按场景调整，过强删除会破坏稀疏细节。
+
+**可复用机制** · 对局部强冗余表示施加成组 dropout，避免相邻单元补偿掩盖正则效果。
+
+<a id="paper-nvp-intermediate-neural-video-adapters"></a>
+
+## Neural-Centric Video Processing Pipeline for Unified Multi-Task Inference
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_Neural-Centric_Video_Processing_Pipeline_for_Unified_Multi-Task_Inference_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_Neural-Centric_Video_Processing_Pipeline_for_Unified_Multi-Task_Inference_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 传统解码对每次查询重建像素，任务特定压缩又难复用。
+- **核心创新 / 方法** · 由隐式视频表示的中间层抽取特征，用微型适配器映射到下游任务空间。
+- **Baseline** · 对比 H.264 CPU 解码加预处理以及先重建像素的隐式神经管线。
+- **Benchmark** · 正文比较多个视频下游模型、任务精度与解码推理成本。
+- **关键结果 / 消融** · 表 1 分项报告相对两类管线的开销变化与任务效果。
+- **适用条件 / 局限** · 学习式表示需要前置编码成本，频繁切换任务与低重复使用率需核算总体收益。
+
+**可复用机制** · 重复处理同一视频时，从隐式编码中直接读任务特征，用小型适配器避免全量像素解码。
+
+<a id="paper-tensorized-cross-view-anchor-guidance"></a>
+
+## Scalable Multi-View Subspace Clustering with Tensorized Anchor Guidance
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jia_Scalable_Multi-View_Subspace_Clustering_with_Tensorized_Anchor_Guidance_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_Scalable_Multi-View_Subspace_Clustering_with_Tensorized_Anchor_Guidance_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 各视角单独找锚点会忽略相互作用，噪声锚传播到全局聚类。
+- **核心创新 / 方法** · 把多个视角锚点组成三阶张量，用张量 Schatten p 范数约束跨视角共享结构。
+- **Baseline** · 比较 LMVSC 等十种大规模多视角聚类方法。
+- **Benchmark** · 正文多视角数据套组，比较聚类表现和可扩展性。
+- **关键结果 / 消融** · 实验对照独立锚点与张量联合约束的表现。
+- **适用条件 / 局限** · 跨视角信号若高度异质，低秩约束可能削弱有效差异。
+
+**可复用机制** · 聚类用锚点压缩时，联合约束视角间锚点的低秩关系，保留一致与互补信息。
+
+<a id="paper-physics-infused-joint-visual-latent-dynamics"></a>
+
+## PHANTOM: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shen_PHANTOM_Physics-Infused_Video_Generation_via_Joint_Modeling_of_Visual_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shen_PHANTOM_Physics-Infused_Video_Generation_via_Joint_Modeling_of_Visual_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 更大视频生成器能提高视觉质量，却仍可能产生违背物理的相互作用。
+- **核心创新 / 方法** · 以观察帧和推断的物理状态作条件，联合建模后续画面与物理动态。
+- **Baseline** · 与 VideoREPA 等物理视频生成基线比较。
+- **Benchmark** · VideoPhy 和 VideoPhy2，测语义对齐及物理常识。
+- **关键结果 / 消融** · 表 1 将两类指标分列，便于核查物理建模是否只提高文本匹配。
+- **适用条件 / 局限** · 隐式物理状态需要在真实传感和闭环控制中另行验证，视频评分难覆盖精确动力学。
+
+**可复用机制** · 在生成视觉未来的同时预测隐式物理状态，分别评自然观感与物理常识。

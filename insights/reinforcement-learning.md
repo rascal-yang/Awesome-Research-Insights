@@ -831,5 +831,6 @@
 - [Towards Sparse Video Understanding and Reasoning](../conferences/cvpr-2026/cards.md#paper-revise-eager-sparse-video)
 - [Discriminative Perception via Anchored Description for Reasoning Segmentation](../conferences/cvpr-2026/cards.md#paper-dpad-anchored-description)
 - [VideoSSR: Video Self-Supervised Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-videossr-intrinsic-verifiable-video-rewards)
+- [NS-Diff: Fluid Navier-Stokes Guided Video Diffusion via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-nsdiff-material-dependent-physical-rewards)
 
 <!-- conference-classification:end -->

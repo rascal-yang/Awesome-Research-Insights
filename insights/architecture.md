@@ -878,5 +878,8 @@
 - [SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-seethrough3d-occlusion-layout)
 - [RARE: Learn to RAnk and REtrieve for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-rare-relative-quality-ranking)
 - [Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering](../conferences/cvpr-2026/cards.md#paper-hint-pointing-intent-tokens)
+- [Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](../conferences/cvpr-2026/cards.md#paper-ghost-fwl-waveform-returns)
+- [Unified Latent Space for Understanding and Generation via Semantic Auto-encoder](../conferences/cvpr-2026/cards.md#paper-semantic-autoencoder-geometry-detail)
+- [Talking Together: Synthesizing Co-Located 3D Conversations from Audio](../conferences/cvpr-2026/cards.md#paper-talking-together-cross-speaker-gaze)
 
 <!-- conference-classification:end -->

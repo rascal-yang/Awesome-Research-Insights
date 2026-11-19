@@ -1771,5 +1771,8 @@
 - [FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation](../conferences/cvpr-2026/cards.md#paper-flashmesh-structured-speculation)
 - [Reasoning Diffusion for Unpaired Test Time Out-of-distribution Text-Image to Video Generation](../conferences/cvpr-2026/cards.md#paper-reasondiff-unpaired-condition-temporal-placement)
 - [Disentangling to Re-couple: Resolving the Similarity-Controllability Paradox in Subject-Driven Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-disco-disentangle-identity-and-edit-instructions)
+- [Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising](../conferences/cvpr-2026/cards.md#paper-dsnet-patch-noise-adaptive-routing)
+- [ElasticFormer: Detecting Objects in HRW Shots via Elastic Computing Vision Transformer](../conferences/cvpr-2026/cards.md#paper-elasticformer-foreground-proportion-compute-budget)
+- [S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations](../conferences/cvpr-2026/cards.md#paper-s2d-dominant-singular-value-conditioning)
 
 <!-- conference-classification:end -->

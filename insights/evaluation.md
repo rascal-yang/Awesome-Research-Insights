@@ -1653,5 +1653,7 @@
 - [LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-cumulative-risk-audit-multimodal-dialogue)
 - [R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII](../conferences/cvpr-2026/cards.md#paper-controlled-information-parity-graph-representation)
 - [Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory](../conferences/cvpr-2026/cards.md#paper-contextual-safety-matched-pairs)
+- [PhysGaia: A Physics-aware Benchmark with Multi-Body Interactions for Dynamic Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-physgaia-physics-ground-truth-for-dynamic-nvs)
+- [DiGraphHal-Bench: Evaluating Multimodal Large Language Models on Complex Directed Graphs](../conferences/cvpr-2026/cards.md#paper-digraphhal-structural-reasoning)
 
 <!-- conference-classification:end -->
