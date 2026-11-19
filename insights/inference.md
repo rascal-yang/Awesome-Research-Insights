@@ -1311,5 +1311,10 @@
 - [FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](../conferences/cvpr-2026/cards.md#paper-flowdc)
 - [CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space](../conferences/cvpr-2026/cards.md#paper-clay)
 - [Are Image-to-Video Models Good Zero-Shot Image Editors?](../conferences/cvpr-2026/cards.md#paper-if-edit)
+- [Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?](../conferences/cvpr-2026/cards.md#paper-retrieve-and-segment)
+- [ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration](../conferences/cvpr-2026/cards.md#paper-shiftlut)
+- [One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](../conferences/cvpr-2026/cards.md#paper-one-shot-flow-any-time-frame)
+- [A Training-Free Style-Personalization via SVD-Based Feature Decomposition](../conferences/cvpr-2026/cards.md#paper-svd-style-personalization)
+- [Accelerating Autoregressive Video Diffusion via History-Guided Cache and Residual Correction](../conferences/cvpr-2026/cards.md#paper-arcache)
 
 <!-- conference-classification:end -->

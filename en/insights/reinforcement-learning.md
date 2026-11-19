@@ -740,5 +740,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](../../conferences/cvpr-2026/cards.md#paper-retouchiq-generalist-reward)
 - [JoPPO: Hierarchical Photography Assessment via Contrastive Joint Conditional Probabilistic Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-joppo)
 - [Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-d2-align)
+- [PointThinker: Point-Incentivized Parallel Thinking for Multimodal Large Language Model](../../conferences/cvpr-2026/cards.md#paper-pointthinker-pointwise-credit)
 
 <!-- conference-classification:end -->

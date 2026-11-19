@@ -909,5 +909,9 @@
 - [Learning from Semantic Dictionaries: Discriminative Codebook Contrastive Learning for Unified Visual Representation and Generation](../conferences/cvpr-2026/cards.md#paper-lease)
 - [SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-sgdrive)
 - [From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings](../conferences/cvpr-2026/cards.md#paper-laps)
+- [Beyond the Ground Truth: Enhanced Supervision for Image Restoration](../conferences/cvpr-2026/cards.md#paper-frequency-mixup-supervision)
+- [SineProject: Machine Unlearning for Stable Vision-Language Alignment](../conferences/cvpr-2026/cards.md#paper-sineproject)
+- [Unlocking Token Rewards via Training-Free Reward Attribution](../conferences/cvpr-2026/cards.md#paper-p2t-reward-attribution)
+- [PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-panda-multimodal-domain-adaptation)
 
 <!-- conference-classification:end -->

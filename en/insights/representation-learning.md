@@ -529,5 +529,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [POUR: A Provably Optimal Method for Unlearning Representation via Neural Collapse](../../conferences/cvpr-2026/cards.md#paper-pour-representation-unlearning)
 - [LATTICE: Democratize High-Fidelity 3D Generation at Scale](../../conferences/cvpr-2026/cards.md#paper-lattice-voxset)
 - [A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens](../../conferences/cvpr-2026/cards.md#paper-deltaworld-delta-tokens)
+- [NaTex: Seamless Texture Generation as Latent Color Diffusion](../../conferences/cvpr-2026/cards.md#paper-natex-native-color-diffusion)
+- [RI-Mamba: Rotation-Invariant Mamba for Robust Text-to-Shape Retrieval](../../conferences/cvpr-2026/cards.md#paper-ri-mamba-point-ordering)
+- [FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario](../../conferences/cvpr-2026/cards.md#paper-freeartgs)
+- [HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](../../conferences/cvpr-2026/cards.md#paper-hypernas)
 
 <!-- conference-classification:end -->

@@ -2419,4 +2419,8 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor’s Internal States](../../conferences/neurips-2026/cards-0013.md#paper-153139)
 - [Your Teacher Can’t Help You Here: Combating Supervision Fidelity Decay in On-Policy Distillation](../../conferences/neurips-2026/cards-0013.md#paper-154216)
 
+## CVPR 2026 (provisional)
+
+- [Unlocking Token Rewards via Training-Free Reward Attribution](../../conferences/cvpr-2026/cards.md#paper-p2t-reward-attribution)
+
 <!-- conference-classification:end -->

@@ -1413,5 +1413,7 @@
 - [LIBERO-Plus: A Progressive Robustness Benchmark for Visual-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-libero-plus)
 - [Inside-Out: Measuring Generalization in Vision Transformers Through Inner Workings](../conferences/cvpr-2026/cards.md#paper-inside-out-vit-generalization)
 - [CaptionQA: Is Your Caption as Useful as the Image Itself?](../conferences/cvpr-2026/cards.md#paper-captionqa)
+- [Language Models Can Explain Visual Features via Steering](../conferences/cvpr-2026/cards.md#paper-visual-feature-steering)
+- [The Drift Kernel: Why Diffusion Models Change Even When Told Not To](../conferences/cvpr-2026/cards.md#paper-diffusion-drift-kernel)
 
 <!-- conference-classification:end -->

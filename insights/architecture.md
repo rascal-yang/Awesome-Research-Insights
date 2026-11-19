@@ -564,5 +564,6 @@
 - [OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-onlinepg)
 - [PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](../conferences/cvpr-2026/cards.md#paper-pyratok)
 - [RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-rt-splatting)
+- [ReCoFuse: Ultra-Robust Image Fusion via Restorative Multi-Modal Diffusion Reciprocal Coupling](../conferences/cvpr-2026/cards.md#paper-recofuse)
 
 <!-- conference-classification:end -->

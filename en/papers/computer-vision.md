@@ -992,5 +992,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [ZipMap: Linear-Time Stateful 3D Reconstruction via Test-Time Training](../../conferences/cvpr-2026/cards.md#paper-zipmap)
 - [OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-onlinepg)
 - [RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-rt-splatting)
+- [ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration](../../conferences/cvpr-2026/cards.md#paper-shiftlut)
+- [NaTex: Seamless Texture Generation as Latent Color Diffusion](../../conferences/cvpr-2026/cards.md#paper-natex-native-color-diffusion)
+- [One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](../../conferences/cvpr-2026/cards.md#paper-one-shot-flow-any-time-frame)
+- [Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images](../../conferences/cvpr-2026/cards.md#paper-balanced-hierarchical-contrast)
+- [A Training-Free Style-Personalization via SVD-Based Feature Decomposition](../../conferences/cvpr-2026/cards.md#paper-svd-style-personalization)
+- [Beyond the Ground Truth: Enhanced Supervision for Image Restoration](../../conferences/cvpr-2026/cards.md#paper-frequency-mixup-supervision)
 
 <!-- conference-classification:end -->

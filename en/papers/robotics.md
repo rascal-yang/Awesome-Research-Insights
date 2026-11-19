@@ -852,5 +852,8 @@ Robot perception, policy learning, planning, and control.
 - [LIBERO-Plus: A Progressive Robustness Benchmark for Visual-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-libero-plus)
 - [SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-sgdrive)
 - [From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings](../../conferences/cvpr-2026/cards.md#paper-laps)
+- [Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation](../../conferences/cvpr-2026/cards.md#paper-feco-contact-style-randomization)
+- [PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-panda-multimodal-domain-adaptation)
+- [FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario](../../conferences/cvpr-2026/cards.md#paper-freeartgs)
 
 <!-- conference-classification:end -->

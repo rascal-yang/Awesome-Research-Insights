@@ -361,5 +361,8 @@ Data selection, annotation, augmentation, and sampling.
 
 - [Unique Lives, Shared World: Learning from Single-Life Videos](../../conferences/cvpr-2026/cards.md#paper-single-life-geometry)
 - [Federated Active Learning Under Extreme Non-IID and Global Class Imbalance](../../conferences/cvpr-2026/cards.md#paper-fairfal-local-global-querying)
+- [Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation](../../conferences/cvpr-2026/cards.md#paper-feco-contact-style-randomization)
+- [HoneyBee: Data Recipes for Vision-Language Reasoners](../../conferences/cvpr-2026/cards.md#paper-honeybee-data-interventions)
+- [Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-aleatoric-uncertainty-spectrum)
 
 <!-- conference-classification:end -->

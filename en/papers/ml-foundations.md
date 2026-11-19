@@ -2291,5 +2291,6 @@ General learning methods, optimization, learning theory, and inference.
 - [Tunable Soft Equivariance with Guarantees](../../conferences/cvpr-2026/cards.md#paper-tunable-soft-equivariance)
 - [Gated KalmaNet: A Fading Memory Layer through Test-time Ridge Regression](../../conferences/cvpr-2026/cards.md#paper-gated-kalmanet)
 - [The Surprising Effectiveness of Noise Pretraining for Implicit Neural Representations](../../conferences/cvpr-2026/cards.md#paper-noise-pretraining-inr)
+- [HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](../../conferences/cvpr-2026/cards.md#paper-hypernas)
 
 <!-- conference-classification:end -->

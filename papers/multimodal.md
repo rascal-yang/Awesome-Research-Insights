@@ -899,5 +899,14 @@
 - [CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space](../conferences/cvpr-2026/cards.md#paper-clay)
 - [Are Image-to-Video Models Good Zero-Shot Image Editors?](../conferences/cvpr-2026/cards.md#paper-if-edit)
 - [PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](../conferences/cvpr-2026/cards.md#paper-pyratok)
+- [Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?](../conferences/cvpr-2026/cards.md#paper-retrieve-and-segment)
+- [HoneyBee: Data Recipes for Vision-Language Reasoners](../conferences/cvpr-2026/cards.md#paper-honeybee-data-interventions)
+- [RI-Mamba: Rotation-Invariant Mamba for Robust Text-to-Shape Retrieval](../conferences/cvpr-2026/cards.md#paper-ri-mamba-point-ordering)
+- [PointThinker: Point-Incentivized Parallel Thinking for Multimodal Large Language Model](../conferences/cvpr-2026/cards.md#paper-pointthinker-pointwise-credit)
+- [SineProject: Machine Unlearning for Stable Vision-Language Alignment](../conferences/cvpr-2026/cards.md#paper-sineproject)
+- [Language Models Can Explain Visual Features via Steering](../conferences/cvpr-2026/cards.md#paper-visual-feature-steering)
+- [ReCoFuse: Ultra-Robust Image Fusion via Restorative Multi-Modal Diffusion Reciprocal Coupling](../conferences/cvpr-2026/cards.md#paper-recofuse)
+- [The Drift Kernel: Why Diffusion Models Change Even When Told Not To](../conferences/cvpr-2026/cards.md#paper-diffusion-drift-kernel)
+- [Accelerating Autoregressive Video Diffusion via History-Guided Cache and Residual Correction](../conferences/cvpr-2026/cards.md#paper-arcache)
 
 <!-- conference-classification:end -->

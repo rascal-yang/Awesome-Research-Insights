@@ -381,5 +381,6 @@
 - [Functional Mean Flow in Hilbert Space](../conferences/cvpr-2026/cards.md#paper-functional-mean-flow)
 - [SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-span-staged-geometric-alignment)
 - [Multi-Modal Image Fusion via Intervention-Stable Feature Learning](../conferences/cvpr-2026/cards.md#paper-intervention-stable-modal-fusion)
+- [Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images](../conferences/cvpr-2026/cards.md#paper-balanced-hierarchical-contrast)
 
 <!-- conference-classification:end -->

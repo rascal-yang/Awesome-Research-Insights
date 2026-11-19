@@ -398,4 +398,8 @@
 - [What do EEG Foundation Models Capture from Human Brain Signals?](../conferences/neurips-2026/cards-0012.md#paper-150770)
 - [Why Learning Rediscovers the Closed-Form Diagonal Regularizer](../conferences/neurips-2026/cards-0013.md#paper-152121)
 
+## CVPR 2026（暂收录）
+
+- [Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-aleatoric-uncertainty-spectrum)
+
 <!-- conference-classification:end -->
