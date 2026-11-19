@@ -736,5 +736,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes](../../conferences/cvpr-2026/cards.md#paper-probabilistic-dynamic-gaussian-deformation)
 - [RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cue for 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-adaptive-gaussians-radar-camera-fusion)
 - [Towards Intrinsic-Aware Monocular 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-intrinsic-conditioned-monocular-spatial-model)
+- [PointCSP: Cross-Sample Semantic Propagation and Stability Preservation in Self-Supervised Point Cloud Learning](../../conferences/cvpr-2026/cards.md#paper-cross-sample-state-space-point-ssl)
+- [PointCNN++: Performant Convolution on Native Points](../../conferences/cvpr-2026/cards.md#paper-pointcnn-native-point-convolution)
 
 <!-- conference-classification:end -->

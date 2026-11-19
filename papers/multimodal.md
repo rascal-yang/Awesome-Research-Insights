@@ -1442,5 +1442,12 @@
 - [WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation](../conferences/cvpr-2026/cards.md#paper-joint-language-mask-relative-depth-grounding)
 - [CaST-Bench: Benchmarking Causal Chain-Grounded Spatio-Temporal Reasoning for Video Question Answering](../conferences/cvpr-2026/cards.md#paper-cast-bench-causal-evidence)
 - [TTRV: Test-Time Reinforcement Learning for Vision Language Models](../conferences/cvpr-2026/cards.md#paper-ttrv-consensus-based-test-time-reward)
+- [Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis](../conferences/cvpr-2026/cards.md#paper-energy-equilibrium-modality-gradient-balancing)
+- [Efficient Frame Selection for Long Video Understanding via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-combination-frame-selection-reward)
+- [Mask to Align, Weight to Disambiguate: Reliable Unsupervised Cross-Modal Hashing with Masked-Weight Contrast](../conferences/cvpr-2026/cards.md#paper-mask-before-fusion-affinity-negative-weighting)
+- [PIX-TAB: Efficient PIXel-Precise TABle Structure Recognition Approach with Speculative Decoding and Region-Based Image Segmentation](../conferences/cvpr-2026/cards.md#paper-pix-tab-coordinate-tokens)
+- [CrossVL: Complexity-Aware Feature Routing and Paired Curriculum for Cross-View Vision-Language Detection](../conferences/cvpr-2026/cards.md#paper-crossvl-paired-curriculum)
+- [Grounding Everything in Tokens for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-getok-spatial-vocabulary)
+- [VLM-PTQ: Efficient Post-Training Quantization for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vlm-ptq-modality-aware)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,697 篇，其中 1,704 篇暂收录、993 篇排除，另有 1,345 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,727 篇，其中 1,723 篇暂收录、1,004 篇排除，另有 1,315 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1710,3 +1710,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,697
 | 计算机视觉 | 训练目标 | [MEMO: Human-like Crisp Edge Detection Using Masked Edge Prediction](cards.md#paper-memo-masked-edge-prediction) | 预测精细稀疏几何时，试用带不同掩蔽率的边缘补全而无需自定义损失。 |
 | 多模态学习 | 测试时强化学习 | [TTRV: Test-Time Reinforcement Learning for Vision Language Models](cards.md#paper-ttrv-consensus-based-test-time-reward) | 没有部署标签时，用同一输入多次采样的经验分布建立适配奖励。 |
 | 三维视觉 | 点云配准 | [FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](cards.md#paper-fuser-joint-se3-multiview-registration) | 在共享潜表征中一次预测多扫描位姿，联合细化避免逐对构图。 |
+| 计算机视觉 | 表征学习 | [PointCSP: Cross-Sample Semantic Propagation and Stability Preservation in Self-Supervised Point Cloud Learning](cards.md#paper-cross-sample-state-space-point-ssl) | 点云预训练可在同批不同场景之间传播语义状态，以约束跨场景表征一致性。 |
+| 多模态学习 | 训练策略 | [Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis](cards.md#paper-energy-equilibrium-modality-gradient-balancing) | 可先补强弱模态表征，再在可微平衡中协调主导模态与弱模态梯度。 |
+| 计算机视觉 | 训练策略 | [EvObj: Learning Evolving Object-centric Representations for 3D Instance Segmentation without Scene Supervision](cards.md#paper-evolve-complete-object-priors-target-domain) | 合成到真实的三维分割可迭代更新对象先验，再以补全判断局部候选是否符合完整物体。 |
+| 计算机视觉 | 模型架构 | [Joint Learning of General and Diverse Patterns with Mixture of Memory Experts for Weakly-Supervised Video Anomaly Detection](cards.md#paper-shared-private-memory-expert-routing) | 弱标签任务可给专家分配私有记忆以保持专长，同时用共享记忆提炼跨类规律。 |
+| 多模态学习 | 训练策略 | [Efficient Frame Selection for Long Video Understanding via Reinforcement Learning](cards.md#paper-combination-frame-selection-reward) | 关键帧选择器可同时接收单帧相关性和整组答案质量反馈，避免选出重复但各自相关的帧。 |
+| 多模态学习 | 训练策略 | [Mask to Align, Weight to Disambiguate: Reliable Unsupervised Cross-Modal Hashing with Masked-Weight Contrast](cards.md#paper-mask-before-fusion-affinity-negative-weighting) | 无监督跨模态对比可在融合前遮蔽输入，再以语义亲和权重降低疑似假负样本的影响。 |
+| 机器学习基础与统计 | 优化 | [Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models](cards.md#paper-initial-noise-neighbors-ode-policy-alignment) | 确定性流生成的候选多样性可以来自初始噪声邻域，使对齐训练兼容原来的 ODE 求解器。 |
+| 多模态学习 | 模型架构 | [PIX-TAB: Efficient PIXel-Precise TABle Structure Recognition Approach with Speculative Decoding and Region-Based Image Segmentation](cards.md#paper-pix-tab-coordinate-tokens) | 将语言内容与几何结构解耦，用位置令牌表达结构，并用仅训练期的框监督稳定定位。 |
+| 机器人学 | 模型架构 | [SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping](cards.md#paper-seegroup-layered-depth) | 当一个像素对应多个可见表面时，使用按层分解的深度预测，而非以单深度逼近。 |
+| 多模态学习 | 训练策略 | [CrossVL: Complexity-Aware Feature Routing and Paired Curriculum for Cross-View Vision-Language Detection](cards.md#paper-crossvl-paired-curriculum) | 跨视角训练先用空间同步对稳定语义，再逐步随机化；运行时可按场景复杂度分配特征路径。 |
+| 多模态学习 | 模型架构 | [Grounding Everything in Tokens for Multimodal Large Language Models](cards.md#paper-getok-spatial-vocabulary) | 在自回归输出中以粗网格加细偏移表达坐标，可让空间定位逐步细化。 |
+| 多模态学习 | 优化策略 | [VLM-PTQ: Efficient Post-Training Quantization for Large Vision-Language Models](cards.md#paper-vlm-ptq-modality-aware) | 非对称量化应先按已积累的输出残差修正舍入目标，再分别估计视觉和语言通道的重要性。 |
+| 计算机视觉 | 模型架构 | [MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second](cards.md#paper-movies-explicit-motion) | 让前馈三维表示显式预测基元运动，以共享几何支持视角合成与点跟踪。 |
+| 机器人学 | 模型架构 | [Affostruction: 3D Affordance Grounding with Generative Reconstruction](cards.md#paper-affostruction-active-affordance) | 对未见区域生成多个可供性假设，并据预测结果选择下一观察视角。 |
+| 三维视觉 | 高效几何表示 | [PointCNN++: Performant Convolution on Native Points](cards.md#paper-pointcnn-native-point-convolution) | 在保有原始点坐标的前提下，将点卷积重写为便于并行的矩阵向量运算。 |
+| 生成模型 | 偏好优化 | [Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](cards.md#paper-localdpo-counterfactual-video-regions) | 保留干净样本其余区域，只修改局部以构造明确偏好的反事实视频对。 |
+| 机器学习 | 持续学习 | [Is Parameter Isolation Better for Prompt-Based Continual Learning?](cards.md#paper-continual-shared-prompt-activation-protection) | 用稀疏共享提示池替代固定分任务参数，再依据历史使用率保护高复用提示。 |
+| 机器人学 | 策略纠错 | [Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](cards.md#paper-afi-on-demand-spatial-affordance-intervention) | 用执行信号识别重复失误，只在需要时调用三维可供性场修正策略。 |
+| 高效深度学习 | 模型量化 | [CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](cards.md#paper-carsam-cross-attention-quantization-reconstruction) | 量化交叉注意力解码器时，重建注意力信息，并将双向耦合误差纳入校准。 |

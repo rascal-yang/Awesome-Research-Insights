@@ -1225,5 +1225,11 @@ Training schedules, curricula, and task or stage composition.
 - [Tutor-Student Reinforcement Learning: A Dynamic Curriculum for Robust Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-learning-history-curriculum-weighting)
 - [Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-gkd-freeze-domain-general-representations)
 - [MEMO: Human-like Crisp Edge Detection Using Masked Edge Prediction](../../conferences/cvpr-2026/cards.md#paper-memo-masked-edge-prediction)
+- [Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis](../../conferences/cvpr-2026/cards.md#paper-energy-equilibrium-modality-gradient-balancing)
+- [EvObj: Learning Evolving Object-centric Representations for 3D Instance Segmentation without Scene Supervision](../../conferences/cvpr-2026/cards.md#paper-evolve-complete-object-priors-target-domain)
+- [Efficient Frame Selection for Long Video Understanding via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-combination-frame-selection-reward)
+- [Mask to Align, Weight to Disambiguate: Reliable Unsupervised Cross-Modal Hashing with Masked-Weight Contrast](../../conferences/cvpr-2026/cards.md#paper-mask-before-fusion-affinity-negative-weighting)
+- [CrossVL: Complexity-Aware Feature Routing and Paired Curriculum for Cross-View Vision-Language Detection](../../conferences/cvpr-2026/cards.md#paper-crossvl-paired-curriculum)
+- [Is Parameter Isolation Better for Prompt-Based Continual Learning?](../../conferences/cvpr-2026/cards.md#paper-continual-shared-prompt-activation-protection)
 
 <!-- conference-classification:end -->

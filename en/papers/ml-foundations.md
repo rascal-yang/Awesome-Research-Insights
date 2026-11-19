@@ -2533,5 +2533,9 @@ General learning methods, optimization, learning theory, and inference.
 - [Tutor-Student Reinforcement Learning: A Dynamic Curriculum for Robust Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-learning-history-curriculum-weighting)
 - [Learning to Learn Weight Generation via Local Consistency Diffusion](../../conferences/cvpr-2026/cards.md#paper-local-global-consistency-weight-generation)
 - [Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-gkd-freeze-domain-general-representations)
+- [Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models](../../conferences/cvpr-2026/cards.md#paper-initial-noise-neighbors-ode-policy-alignment)
+- [Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-localdpo-counterfactual-video-regions)
+- [Is Parameter Isolation Better for Prompt-Based Continual Learning?](../../conferences/cvpr-2026/cards.md#paper-continual-shared-prompt-activation-protection)
+- [CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](../../conferences/cvpr-2026/cards.md#paper-carsam-cross-attention-quantization-reconstruction)
 
 <!-- conference-classification:end -->

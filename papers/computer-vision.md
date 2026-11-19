@@ -1515,5 +1515,10 @@
 - [SODA: Sensitivity-Oriented Dynamic Acceleration for Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-soda-diffusion-sensitivity)
 - [MEMO: Human-like Crisp Edge Detection Using Masked Edge Prediction](../conferences/cvpr-2026/cards.md#paper-memo-masked-edge-prediction)
 - [FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](../conferences/cvpr-2026/cards.md#paper-fuser-joint-se3-multiview-registration)
+- [PointCSP: Cross-Sample Semantic Propagation and Stability Preservation in Self-Supervised Point Cloud Learning](../conferences/cvpr-2026/cards.md#paper-cross-sample-state-space-point-ssl)
+- [EvObj: Learning Evolving Object-centric Representations for 3D Instance Segmentation without Scene Supervision](../conferences/cvpr-2026/cards.md#paper-evolve-complete-object-priors-target-domain)
+- [Joint Learning of General and Diverse Patterns with Mixture of Memory Experts for Weakly-Supervised Video Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-shared-private-memory-expert-routing)
+- [MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second](../conferences/cvpr-2026/cards.md#paper-movies-explicit-motion)
+- [PointCNN++: Performant Convolution on Native Points](../conferences/cvpr-2026/cards.md#paper-pointcnn-native-point-convolution)
 
 <!-- conference-classification:end -->

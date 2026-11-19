@@ -1065,5 +1065,8 @@ Robot perception, policy learning, planning, and control.
 - [RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video](../../conferences/cvpr-2026/cards.md#paper-articulation-aware-segmentation-memory)
 - [PhysHO: Physics-Based Dynamic 3D Gaussian Human and Object from Monocular Video](../../conferences/cvpr-2026/cards.md#paper-physho-actuation-prior)
 - [Coverage Optimization for Camera View Selection](../../conferences/cvpr-2026/cards.md#paper-converge-underobserved-geometry-coverage)
+- [SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping](../../conferences/cvpr-2026/cards.md#paper-seegroup-layered-depth)
+- [Affostruction: 3D Affordance Grounding with Generative Reconstruction](../../conferences/cvpr-2026/cards.md#paper-affostruction-active-affordance)
+- [Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-afi-on-demand-spatial-affordance-intervention)
 
 <!-- conference-classification:end -->

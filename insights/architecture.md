@@ -738,5 +738,11 @@
 - [RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video](../conferences/cvpr-2026/cards.md#paper-articulation-aware-segmentation-memory)
 - [WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation](../conferences/cvpr-2026/cards.md#paper-joint-language-mask-relative-depth-grounding)
 - [PhysHO: Physics-Based Dynamic 3D Gaussian Human and Object from Monocular Video](../conferences/cvpr-2026/cards.md#paper-physho-actuation-prior)
+- [Joint Learning of General and Diverse Patterns with Mixture of Memory Experts for Weakly-Supervised Video Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-shared-private-memory-expert-routing)
+- [PIX-TAB: Efficient PIXel-Precise TABle Structure Recognition Approach with Speculative Decoding and Region-Based Image Segmentation](../conferences/cvpr-2026/cards.md#paper-pix-tab-coordinate-tokens)
+- [SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping](../conferences/cvpr-2026/cards.md#paper-seegroup-layered-depth)
+- [Grounding Everything in Tokens for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-getok-spatial-vocabulary)
+- [MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second](../conferences/cvpr-2026/cards.md#paper-movies-explicit-motion)
+- [Affostruction: 3D Affordance Grounding with Generative Reconstruction](../conferences/cvpr-2026/cards.md#paper-affostruction-active-affordance)
 
 <!-- conference-classification:end -->

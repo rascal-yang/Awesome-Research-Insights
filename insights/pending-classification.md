@@ -855,5 +855,6 @@
 - [From Contrast to Consistency: Rethinking Event-based Continuous-Time Optical Flow Estimation](../conferences/cvpr-2026/cards.md#paper-stsc-continuous-event-flow-structure)
 - [Coverage Optimization for Camera View Selection](../conferences/cvpr-2026/cards.md#paper-converge-underobserved-geometry-coverage)
 - [FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](../conferences/cvpr-2026/cards.md#paper-fuser-joint-se3-multiview-registration)
+- [Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-afi-on-demand-spatial-affordance-intervention)
 
 <!-- conference-classification:end -->

@@ -704,5 +704,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-pde-gaussian-optimization)
 - [Learning to Learn Weight Generation via Local Consistency Diffusion](../../conferences/cvpr-2026/cards.md#paper-local-global-consistency-weight-generation)
 - [Minimal Constraint Relaxation for Multiview Autocalibration](../../conferences/cvpr-2026/cards.md#paper-kruppa-minimal-relaxation)
+- [Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models](../../conferences/cvpr-2026/cards.md#paper-initial-noise-neighbors-ode-policy-alignment)
+- [VLM-PTQ: Efficient Post-Training Quantization for Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vlm-ptq-modality-aware)
 
 <!-- conference-classification:end -->
