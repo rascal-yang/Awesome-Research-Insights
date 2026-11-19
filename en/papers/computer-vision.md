@@ -1272,5 +1272,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-geoguide-3d)
 - [Volumetric Functional Maps](../../conferences/cvpr-2026/cards.md#paper-volumetric-functional-maps)
 - [DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation](../../conferences/cvpr-2026/cards.md#paper-dage-dual-stream-geometry)
+- [2D-LFM: Lifting Foundation Model without 3D Supervision](../../conferences/cvpr-2026/cards.md#paper-2dlfm-layerwise-correspondence-position-encoding)
+- [Gradient Knows Best: Mixed-Precision Quantization via Gradient-Guided Bit Allocation for Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-gradient-guided-weight-activation-bit-allocation)
+- [DualPrim: Compact 3D Reconstruction with Positive and Negative Primitives](../../conferences/cvpr-2026/cards.md#paper-dualprim-additive-subtractive-editable-reconstruction)
+- [TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking](../../conferences/cvpr-2026/cards.md#paper-tagsplat-topology-preserving-dynamic-gaussians)
+- [Diffusion-Based Native Adversarial Synthesis for Enhanced Medical Segmentation Generalization](../../conferences/cvpr-2026/cards.md#paper-synthetic-hard-example-utility)
+- [LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](../../conferences/cvpr-2026/cards.md#paper-locateanything3d-chain-of-sight)
 
 <!-- conference-classification:end -->

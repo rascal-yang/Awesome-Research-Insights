@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,527 篇，其中 968 篇暂收录、559 篇排除，另有 2,515 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,557 篇，其中 986 篇暂收录、571 篇排除，另有 2,485 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -974,3 +974,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,527
 | 机器人学 | 自监督学习 | [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](cards.md#paper-afro-latent-dynamics) | 预训练机器人三维表征时，用共享潜空间中的正逆动力代替显式三维重建，并用特征差防泄漏。 |
 | 计算机视觉 | 模型架构 | [DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation](cards.md#paper-dage-dual-stream-geometry) | 跨视图几何用低分辨率流保持一致，高分辨率流只逐帧处理边缘，再做轻量跨注意力。 |
 | 智能体 | 规划与决策 | [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](cards.md#paper-proof-of-perception-conformal-tools) | 工具推理图上给每步输出不确定集合，仅在集合无法支持结论时追加工具调用。 |
+| 计算机视觉 | 三维重建与几何建模 | [2D-LFM: Lifting Foundation Model without 3D Supervision](cards.md#paper-2dlfm-layerwise-correspondence-position-encoding) | 只用二维关键点训练三维恢复时，可比较每层注入对应位置与只在输入注入的几何误差。见表 1。 |
+| 计算机视觉 | 模型效率 | [Gradient Knows Best: Mixed-Precision Quantization via Gradient-Guided Bit Allocation for Super-Resolution](cards.md#paper-gradient-guided-weight-activation-bit-allocation) | 混合精度应分别测权重、激活位宽对损失的敏感度，而不只看静态张量统计。见表 4。 |
+| 机器人学 | 表征学习 | [StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation](cards.md#paper-stamo-compact-latent-state-and-motion-difference) | 操控可试用紧凑状态差表示运动，在同一 VLA 上区分普通图像特征、状态和运动条件的作用。见表 2。 |
+| 多模态学习 | 评估与诊断 | [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](cards.md#paper-interneg-cross-modal-distance-consistency) | 选域外负文本时可使用图像到文本距离，与最终打分的几何一致，分别测试负文本筛选和额外负表示。见表 3。 |
+| 计算机视觉 | 三维重建与几何建模 | [DualPrim: Compact 3D Reconstruction with Positive and Negative Primitives](cards.md#paper-dualprim-additive-subtractive-editable-reconstruction) | 需输出简洁可编辑几何时，可以同时使用加法和减法基元，并按形状误差与编辑性检查是否值得。见表 2。 |
+| 计算机视觉 | 三维重建与几何建模 | [TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking](cards.md#paper-tagsplat-topology-preserving-dynamic-gaussians) | 动态图形要导出时序一致网格时，可在高斯致密化和删减中显式保存连接，再用跨帧约束衡量轨迹稳定性。见表 3、4。 |
+| 智能体 | 评测与诊断 | [VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments](cards.md#paper-vs-bench) | 多智能体能力应分别测看懂画面、预测他人动作和实际交互收益。 |
+| 机器学习基础与统计 | 训练策略 | [Machine Unlearning via Adaptive Gradient Reweighting and Multi-stage Objective Optimization](cards.md#paper-adaptive-gradient-unlearning) | 遗忘任务应按样本记忆程度及邻近保留类风险加权，并分阶段优化两个目标。 |
+| 多模态学习 | 评测与诊断 | [CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](cards.md#paper-curve-evidence-graphs) | 文化视频问答可保留原语解释和证据关系，用逐步核查区分转述错误和地方知识缺失。 |
+| 计算机视觉 | 数据增强 | [Diffusion-Based Native Adversarial Synthesis for Enhanced Medical Segmentation Generalization](cards.md#paper-synthetic-hard-example-utility) | 评价合成增强时独立比较原分布支持的难样本和仅有逼真外观的样本。 |
+| 多模态学习 | 训练策略 | [Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation](cards.md#paper-proxy-tuning-ar) | 迁移生成任务能力时，可用另一类生成器作监督，并让学生与教师按相同提示比较。 |
+| 多模态学习 | 表示学习 | [Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](cards.md#paper-dictionary-missing-infrared) | 缺模态时在共享字典系数域估计信息，并保留可见结构作为独立来源。 |
+| 多模态学习 | 评测与诊断 | [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](cards.md#paper-timelens-benchmark-audit) | 训练前先抽检时间区间标注并重排基线，再在同数据条件下比较时间戳表示和训练方式。 |
+| 多模态学习 | 训练与数据策略 | [PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models](cards.md#paper-propfly-online-paired-supervision) | 没配对编辑视频时，利用同一冻结扩散模型的不同条件强度构造共享运动结构的训练对。 |
+| 多模态学习 | 表示学习 | [Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](cards.md#paper-qwen-image-layered-rgba) | 编辑模型需保留其余内容时，直接生成可独立操控的可变数量 RGBA 图层。 |
+| 计算机视觉 | 表示学习 | [LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](cards.md#paper-locateanything3d-chain-of-sight) | 统一视觉语言检测可先输出二维证据，再分解三维中心、尺度和姿态，并检验近远顺序。 |
+| 多模态学习 | 可解释性与诊断 | [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](cards.md#paper-daco-concept-aligned-safety) | 评估推理时安全调节时，同时测目标概念的可控性和非目标任务是否受损。 |
+| 机器学习基础 | 训练与数据策略 | [Image-based Outlier Synthesis With Training Data](cards.md#paper-ascood-inlier-derived-outliers) | 没有外部异常样本时，训练检测器应检验从正常数据构造的反例是否覆盖细粒度和伪相关两种失败。 |

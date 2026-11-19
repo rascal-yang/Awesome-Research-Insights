@@ -2413,5 +2413,7 @@
 - [Stepwise Credit Assignment for GRPO on Flow-Matching Models](../conferences/cvpr-2026/cards.md#paper-stepwise-flow-grpo-reward-gain-credit)
 - [Tea-Adapter: Teacher Adapter for Efficient Conditional Generation](../conferences/cvpr-2026/cards.md#paper-tea-adapter-small-to-large-control-distillation)
 - [Enhancing Visual Representation with Textual Semantics: Textual Semantics-Powered Prototypes for Heterogeneous Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedtsp-semantic-preserving-federated-prototypes)
+- [Machine Unlearning via Adaptive Gradient Reweighting and Multi-stage Objective Optimization](../conferences/cvpr-2026/cards.md#paper-adaptive-gradient-unlearning)
+- [Image-based Outlier Synthesis With Training Data](../conferences/cvpr-2026/cards.md#paper-ascood-inlier-derived-outliers)
 
 <!-- conference-classification:end -->

@@ -957,5 +957,6 @@
 - [Learnability-Driven Submodular Optimization for Active Roadside 3D Detection](../conferences/cvpr-2026/cards.md#paper-learnability-aware-active-geometry-labeling)
 - [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-pointworld)
 - [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](../conferences/cvpr-2026/cards.md#paper-afro-latent-dynamics)
+- [StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation](../conferences/cvpr-2026/cards.md#paper-stamo-compact-latent-state-and-motion-difference)
 
 <!-- conference-classification:end -->

@@ -411,5 +411,8 @@ Data selection, annotation, augmentation, and sampling.
 - [MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](../../conferences/cvpr-2026/cards.md#paper-muco-multi-turn-contrastive)
 - [FedRG: Unleashing the Representation Geometry for Federated Learning with Noisy Clients](../../conferences/cvpr-2026/cards.md#paper-fedrg-geometry-first-noisy-labels)
 - [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](../../conferences/cvpr-2026/cards.md#paper-vilomem-visual-and-logical-memory-streams)
+- [Diffusion-Based Native Adversarial Synthesis for Enhanced Medical Segmentation Generalization](../../conferences/cvpr-2026/cards.md#paper-synthetic-hard-example-utility)
+- [PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-propfly-online-paired-supervision)
+- [Image-based Outlier Synthesis With Training Data](../../conferences/cvpr-2026/cards.md#paper-ascood-inlier-derived-outliers)
 
 <!-- conference-classification:end -->

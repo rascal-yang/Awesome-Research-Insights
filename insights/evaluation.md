@@ -1504,5 +1504,10 @@
 - [DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-drivecombo-compositional-rules)
 - [Time Blindness: Why Video-Language Models Can't See What Humans Can?](../conferences/cvpr-2026/cards.md#paper-spookybench-single-frame-uninformative-temporal-testing)
 - [FAVE: A Structured Benchmark for Fine-Grained Audio-Visual Temporal Evaluation in Multimodal LLMs](../conferences/cvpr-2026/cards.md#paper-fave-av-temporal-diagnostics)
+- [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](../conferences/cvpr-2026/cards.md#paper-interneg-cross-modal-distance-consistency)
+- [VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments](../conferences/cvpr-2026/cards.md#paper-vs-bench)
+- [CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](../conferences/cvpr-2026/cards.md#paper-curve-evidence-graphs)
+- [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](../conferences/cvpr-2026/cards.md#paper-timelens-benchmark-audit)
+- [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](../conferences/cvpr-2026/cards.md#paper-daco-concept-aligned-safety)
 
 <!-- conference-classification:end -->

@@ -2443,5 +2443,6 @@
 - [ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory](../conferences/cvpr-2026/cards.md#paper-vilomem-visual-and-logical-memory-streams)
 - [Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs](../conferences/cvpr-2026/cards.md#paper-perception-programs-structured-cues)
 - [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](../conferences/cvpr-2026/cards.md#paper-proof-of-perception-conformal-tools)
+- [VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments](../conferences/cvpr-2026/cards.md#paper-vs-bench)
 
 <!-- conference-classification:end -->

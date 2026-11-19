@@ -1192,5 +1192,13 @@ Learning across modalities such as images, text, audio, and video.
 - [Memory Matters: Boosting Training-Free Zero-Shot Temporal Action Localization with a Learnable Lookup Table](../../conferences/cvpr-2026/cards.md#paper-llt-temporal-action)
 - [Improved Mean Flows: On the Challenges of Fastforward Generative Models](../../conferences/cvpr-2026/cards.md#paper-imf-instantaneous-regression)
 - [FAVE: A Structured Benchmark for Fine-Grained Audio-Visual Temporal Evaluation in Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-fave-av-temporal-diagnostics)
+- [Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs](../../conferences/cvpr-2026/cards.md#paper-interneg-cross-modal-distance-consistency)
+- [CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-curve-evidence-graphs)
+- [Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation](../../conferences/cvpr-2026/cards.md#paper-proxy-tuning-ar)
+- [Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](../../conferences/cvpr-2026/cards.md#paper-dictionary-missing-infrared)
+- [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-timelens-benchmark-audit)
+- [PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-propfly-online-paired-supervision)
+- [Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](../../conferences/cvpr-2026/cards.md#paper-qwen-image-layered-rgba)
+- [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-daco-concept-aligned-safety)
 
 <!-- conference-classification:end -->

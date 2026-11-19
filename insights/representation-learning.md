@@ -648,5 +648,12 @@
 - [PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-pointworld)
 - [Volumetric Functional Maps](../conferences/cvpr-2026/cards.md#paper-volumetric-functional-maps)
 - [Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs](../conferences/cvpr-2026/cards.md#paper-perception-programs-structured-cues)
+- [2D-LFM: Lifting Foundation Model without 3D Supervision](../conferences/cvpr-2026/cards.md#paper-2dlfm-layerwise-correspondence-position-encoding)
+- [StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation](../conferences/cvpr-2026/cards.md#paper-stamo-compact-latent-state-and-motion-difference)
+- [DualPrim: Compact 3D Reconstruction with Positive and Negative Primitives](../conferences/cvpr-2026/cards.md#paper-dualprim-additive-subtractive-editable-reconstruction)
+- [TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking](../conferences/cvpr-2026/cards.md#paper-tagsplat-topology-preserving-dynamic-gaussians)
+- [Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](../conferences/cvpr-2026/cards.md#paper-dictionary-missing-infrared)
+- [Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](../conferences/cvpr-2026/cards.md#paper-qwen-image-layered-rgba)
+- [LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight](../conferences/cvpr-2026/cards.md#paper-locateanything3d-chain-of-sight)
 
 <!-- conference-classification:end -->

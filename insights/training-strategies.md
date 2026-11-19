@@ -1081,5 +1081,7 @@
 - [Image-to-Point Cloud Feature Back-Projection for Multimodal Training of 3D Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-ipfp-backprojection)
 - [GeoGuide: Hierarchical Geometric Guidance for Open-Vocabulary 3D Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-geoguide-3d)
 - [Bootstrap Dynamic-Aware 3D Visual Representation for Scalable Robot Learning](../conferences/cvpr-2026/cards.md#paper-afro-latent-dynamics)
+- [Machine Unlearning via Adaptive Gradient Reweighting and Multi-stage Objective Optimization](../conferences/cvpr-2026/cards.md#paper-adaptive-gradient-unlearning)
+- [Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation](../conferences/cvpr-2026/cards.md#paper-proxy-tuning-ar)
 
 <!-- conference-classification:end -->

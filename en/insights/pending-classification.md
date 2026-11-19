@@ -807,5 +807,6 @@
 - [Yume1.5: A Text-Controlled Interactive World Generation Model](../../conferences/cvpr-2026/cards.md#paper-yume-temporal-spatial-channel-context-compression)
 - [Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-svd-cache-forecast-principal-stabilize-residual)
 - [Learnability-Driven Submodular Optimization for Active Roadside 3D Detection](../../conferences/cvpr-2026/cards.md#paper-learnability-aware-active-geometry-labeling)
+- [Gradient Knows Best: Mixed-Precision Quantization via Gradient-Guided Bit Allocation for Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-gradient-guided-weight-activation-bit-allocation)
 
 <!-- conference-classification:end -->
