@@ -825,5 +825,7 @@
 - [NAMI: Efficient Image Generation via Bridged Progressive Rectified Flow Transformers](../conferences/cvpr-2026/cards.md#paper-nami-bridgeflow-resolution-depth-schedule)
 - [FedHarmony: Harmonizing Heterogeneous Label Correlations in Federated Multi-Label Learning](../conferences/cvpr-2026/cards.md#paper-fedharmony)
 - [Hidden Monotonicity: Explaining Deep Neural Networks via their DC Decomposition](../conferences/cvpr-2026/cards.md#paper-hidden-monotonicity-dc)
+- [Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](../conferences/cvpr-2026/cards.md#paper-ace-zero-uncertainty-pose-graph)
+- [Follow the Saliency: Supervised Saliency for Retrieval-augmented Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-starc-saliency-segment-retrieve)
 
 <!-- conference-classification:end -->

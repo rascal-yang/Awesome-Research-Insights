@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,007 篇，其中 1,263 篇暂收录、744 篇排除，另有 2,035 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,037 篇，其中 1,283 篇暂收录、754 篇排除，另有 2,005 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1269,3 +1269,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,007
 | 机器人学 | 知识蒸馏 | [SkillSight: Efficient First-Person Skill Assessment with Gaze](cards.md#paper-skillsight-gaze-only-distillation) | 低功耗第一人称技能评估可用视频和凝视共同做教师，再蒸馏部署时只读凝视的学生。 |
 | 多模态学习 | 条件生成 | [TGT: Text-Grounded Trajectories for Locally Controlled Video Generation](cards.md#paper-tgt-local-text-trajectory-guidance) | 控制多主体视频时把局部文本与每条轨迹绑定，调节局部与全局引导强度。 |
 | 智能体 | 强化学习 | [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](cards.md#paper-crossha-agent-action-granularity) | 游戏代理可按当前进度选择高层宏动作或低层控制，用多轮训练学习切换。 |
+| 计算机视觉 | 表征学习 | [Beyond Text: Visual Description Assembly by Probabilistic Model for CLIP-based Weakly Supervised Semantic Segmentation](cards.md#paper-vda-instance-visual-prototypes) | 在弱监督区域定位中比较实例条件视觉原型与所有图像共享的文本原型。 |
+| 多模态学习 | 推理策略 | [R4-CGQA: Retrieval-based Vision Language Models for Computer Graphics Image Quality Assessment](cards.md#paper-r4-cgqa-retrieved-quality-evidence) | 给图像质量诊断提供视觉相似例的质量解释，分开消融内容和质量检索。 |
+| 多模态学习 | 推理策略 | [ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior](cards.md#paper-argus-instruction-adherence-defense) | 选择多模态防护时，同时测用户指令遵从和干预引起的效用下降。 |
+| 多模态学习 | 训练策略 | [MonoVLM: Monocular 3D Visual Grounding with Vision Language Models](cards.md#paper-monovlm-localize-then-lift) | 单目三维定位训练可先学习二维落点，再学习结构，最后拟合全三维框。 |
+| 多模态学习 | 评测与诊断 | [SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation](cards.md#paper-slvmeval-perceptible-pairwise-audit) | 用人类可辨的受控反事实视频对检验长视频评分器，而不只依赖生成样本平均排名。 |
+| 计算机视觉 | 推理压缩 | [Discovering Adaptive Task Dependencies for Efficient Multi-Task Representation Compression](cards.md#paper-atdc-image-dependent-task-graph) | 对多任务特征共享引入逐图编码顺序，并与固定顺序比较率失真和额外延迟。 |
+| 机器学习基础 | 优化 | [Single-Round Scalable Analytic Federated Learning](cards.md#paper-safle-one-round-analytic-aggregation) | 在单轮通信约束下比较带稀疏分组特征的解析头与线性解析头。 |
+| 计算机视觉 | 推理策略 | [HierEdit: Region-Aware Hierarchical Diffusion for Efficient High-Resolution Editing](cards.md#paper-hieredit) | 先低分辨率定位改动，再只细化高分辨率的局部窗口。 |
+| 计算机视觉 | 训练策略 | [BluRef: Unsupervised Image Deblurring with Dense-Matching References](cards.md#paper-bluref) | 同类场景的未配对清晰参考经对应筛选可构造去模糊伪监督。 |
+| 多模态学习 | 强化学习方法 | [Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](cards.md#paper-talk2move) | 把几何可判定的空间编辑指标用于探索，并拆分编辑成功与背景保真。 |
+| 计算机视觉 | 优化 | [Linear Fundamental Matrix Estimation from 7 or 5 Points](cards.md#paper-linear-fundamental-minimal) | 在最小求解前检测结构化对应，并按几何成立条件启用线性解。 |
+| 多模态学习 | 推理策略 | [Training-free Motion Factorization for Compositional Video Generation](cards.md#paper-motion-factorization) | 把静止、刚体与非刚体运动显式分解后，再以结构化计划指导合成。 |
+| 多模态学习 | 训练策略 | [Cluster-Wise Spatio-Temporal Masking for Efficient Video-Language Pretraining](cards.md#paper-clusterstm) | 高掩码率下先保留簇级视觉覆盖，再比较时序代表 token 与均匀采样。 |
+| 计算机视觉 | 模型架构 | [Selection-as-Nonlinearity: Bridging Attention and Activation via a Joint Game-Decision Lens for Interpretable, Discriminative Visual Representations](cards.md#paper-selection-as-nonlinearity) | 替换注意力和 FFN 时分别核对非线性表达、算力预算与下游复用。 |
+| 机器学习基础 | 持续学习 | [Decouple Your Discovery and Memory in Continual Generalized Category Discovery](cards.md#paper-dydm-decouple-discovery-memory) | 把新类发现和长期记忆交给不同分支，避免同一分支被旧类稳定性目标牵制。 |
+| 计算机视觉 | 可控视频生成 | [Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer](cards.md#paper-fleximmt-object-masked-motion) | 用对象特定的掩码约束条件作用范围，让多个动作可独立组合。 |
+| 多模态学习 | 神经符号推理 | [Synthesizing Visual Concepts as Vision-Language Programs](cards.md#paper-vision-language-program-synthesis) | 让模型描述可见事实，再合成可执行逻辑，便于验证规则是否满足正负示例。 |
+| 计算机视觉 | 三维重建 | [Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](cards.md#paper-ace-zero-uncertainty-pose-graph) | 把神经场景坐标产生的相对位姿接入图优化，并以几何置信度抑制不可靠约束。 |
+| 多模态学习 | 视频理解与检索 | [Follow the Saliency: Supervised Saliency for Retrieval-augmented Dense Video Captioning](cards.md#paper-starc-saliency-segment-retrieve) | 把已标事件边界转成显著性监督，让同一信号协调检索片段与生成提示。 |
+| 计算机视觉 | 动作生成 | [Focal-General Diffusion Model with Semantic Consistent Guidance for Sign Language Production](cards.md#paper-fgdm-focal-global-sign-motion) | 将局部骨架细化和全序列协调分配给不同去噪阶段。 |

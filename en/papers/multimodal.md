@@ -1293,5 +1293,14 @@ Learning across modalities such as images, text, audio, and video.
 - [Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding](../../conferences/cvpr-2026/cards.md#paper-attentionpack)
 - [Asynchronous Temporal Modeling with Two-Agent Framework for Streaming Dense Video Captioning](../../conferences/cvpr-2026/cards.md#paper-takusen-asynchronous-captioning)
 - [TGT: Text-Grounded Trajectories for Locally Controlled Video Generation](../../conferences/cvpr-2026/cards.md#paper-tgt-local-text-trajectory-guidance)
+- [R4-CGQA: Retrieval-based Vision Language Models for Computer Graphics Image Quality Assessment](../../conferences/cvpr-2026/cards.md#paper-r4-cgqa-retrieved-quality-evidence)
+- [ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior](../../conferences/cvpr-2026/cards.md#paper-argus-instruction-adherence-defense)
+- [MonoVLM: Monocular 3D Visual Grounding with Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-monovlm-localize-then-lift)
+- [SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation](../../conferences/cvpr-2026/cards.md#paper-slvmeval-perceptible-pairwise-audit)
+- [Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](../../conferences/cvpr-2026/cards.md#paper-talk2move)
+- [Training-free Motion Factorization for Compositional Video Generation](../../conferences/cvpr-2026/cards.md#paper-motion-factorization)
+- [Cluster-Wise Spatio-Temporal Masking for Efficient Video-Language Pretraining](../../conferences/cvpr-2026/cards.md#paper-clusterstm)
+- [Synthesizing Visual Concepts as Vision-Language Programs](../../conferences/cvpr-2026/cards.md#paper-vision-language-program-synthesis)
+- [Follow the Saliency: Supervised Saliency for Retrieval-augmented Dense Video Captioning](../../conferences/cvpr-2026/cards.md#paper-starc-saliency-segment-retrieve)
 
 <!-- conference-classification:end -->

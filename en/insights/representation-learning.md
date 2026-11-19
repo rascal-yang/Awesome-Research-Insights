@@ -702,5 +702,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors](../../conferences/cvpr-2026/cards.md#paper-dtof-directional-attention-preserves-depth-anchor)
 - [Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-neural-gabor-splatting)
 - [RaUF: Learning the Spatial Uncertainty Field of Radar](../../conferences/cvpr-2026/cards.md#paper-rauf-anisotropic-uncertainty)
+- [Beyond Text: Visual Description Assembly by Probabilistic Model for CLIP-based Weakly Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-vda-instance-visual-prototypes)
 
 <!-- conference-classification:end -->

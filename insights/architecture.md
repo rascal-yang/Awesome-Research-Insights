@@ -664,5 +664,6 @@
 - [LitePT: Lighter Yet Stronger Point Transformer](../conferences/cvpr-2026/cards.md#paper-litept)
 - [Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-diffrender-vla-differentiable-spatial-visual-interface)
 - [Asynchronous Temporal Modeling with Two-Agent Framework for Streaming Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-takusen-asynchronous-captioning)
+- [Selection-as-Nonlinearity: Bridging Attention and Activation via a Joint Game-Decision Lens for Interpretable, Discriminative Visual Representations](../conferences/cvpr-2026/cards.md#paper-selection-as-nonlinearity)
 
 <!-- conference-classification:end -->

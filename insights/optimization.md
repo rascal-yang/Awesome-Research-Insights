@@ -689,5 +689,7 @@
 - [Fast Markov Random Field Optimisation for Topologically Noisy 3D Shape Matching](../conferences/cvpr-2026/cards.md#paper-affine-alpha-expansion-shape)
 - [PrivSynth: Alternating and Control-Based Optimization for Privacy and Utility in Synthetic Data](../conferences/cvpr-2026/cards.md#paper-privsynth)
 - [Learning to Solve PDEs on Neural Shape Representations](../conferences/cvpr-2026/cards.md#paper-pde-neural-shape)
+- [Single-Round Scalable Analytic Federated Learning](../conferences/cvpr-2026/cards.md#paper-safle-one-round-analytic-aggregation)
+- [Linear Fundamental Matrix Estimation from 7 or 5 Points](../conferences/cvpr-2026/cards.md#paper-linear-fundamental-minimal)
 
 <!-- conference-classification:end -->

@@ -1363,5 +1363,14 @@ Visual representation, recognition, reconstruction, and generation.
 - [Masked-Diffusion Autoencoders for 3D Medical Vision Representation Learning](../../conferences/cvpr-2026/cards.md#paper-mdae-masked-structure-visible-texture-corruption)
 - [Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-neural-gabor-splatting)
 - [RaUF: Learning the Spatial Uncertainty Field of Radar](../../conferences/cvpr-2026/cards.md#paper-rauf-anisotropic-uncertainty)
+- [Beyond Text: Visual Description Assembly by Probabilistic Model for CLIP-based Weakly Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-vda-instance-visual-prototypes)
+- [Discovering Adaptive Task Dependencies for Efficient Multi-Task Representation Compression](../../conferences/cvpr-2026/cards.md#paper-atdc-image-dependent-task-graph)
+- [HierEdit: Region-Aware Hierarchical Diffusion for Efficient High-Resolution Editing](../../conferences/cvpr-2026/cards.md#paper-hieredit)
+- [BluRef: Unsupervised Image Deblurring with Dense-Matching References](../../conferences/cvpr-2026/cards.md#paper-bluref)
+- [Linear Fundamental Matrix Estimation from 7 or 5 Points](../../conferences/cvpr-2026/cards.md#paper-linear-fundamental-minimal)
+- [Selection-as-Nonlinearity: Bridging Attention and Activation via a Joint Game-Decision Lens for Interpretable, Discriminative Visual Representations](../../conferences/cvpr-2026/cards.md#paper-selection-as-nonlinearity)
+- [Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer](../../conferences/cvpr-2026/cards.md#paper-fleximmt-object-masked-motion)
+- [Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](../../conferences/cvpr-2026/cards.md#paper-ace-zero-uncertainty-pose-graph)
+- [Focal-General Diffusion Model with Semantic Consistent Guidance for Sign Language Production](../../conferences/cvpr-2026/cards.md#paper-fgdm-focal-global-sign-motion)
 
 <!-- conference-classification:end -->

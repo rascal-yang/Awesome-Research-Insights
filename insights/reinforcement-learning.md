@@ -791,5 +791,6 @@
 - [Reinforcing Structured Chain-of-Thought for Video Understanding](../conferences/cvpr-2026/cards.md#paper-sdrl-structured-video-cot)
 - [Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-ra-rft-hard-irrelevant-queries)
 - [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-crossha-agent-action-granularity)
+- [Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](../conferences/cvpr-2026/cards.md#paper-talk2move)
 
 <!-- conference-classification:end -->

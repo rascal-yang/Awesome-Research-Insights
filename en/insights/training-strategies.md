@@ -1131,5 +1131,9 @@ Training schedules, curricula, and task or stage composition.
 - [Towards Knowledge-augmented Bayesian Deep Learning For Computer Vision](../../conferences/cvpr-2026/cards.md#paper-knowledge-constrained-prior-and-adaptive-likelihood)
 - [Masked-Diffusion Autoencoders for 3D Medical Vision Representation Learning](../../conferences/cvpr-2026/cards.md#paper-mdae-masked-structure-visible-texture-corruption)
 - [SkillSight: Efficient First-Person Skill Assessment with Gaze](../../conferences/cvpr-2026/cards.md#paper-skillsight-gaze-only-distillation)
+- [MonoVLM: Monocular 3D Visual Grounding with Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-monovlm-localize-then-lift)
+- [BluRef: Unsupervised Image Deblurring with Dense-Matching References](../../conferences/cvpr-2026/cards.md#paper-bluref)
+- [Cluster-Wise Spatio-Temporal Masking for Efficient Video-Language Pretraining](../../conferences/cvpr-2026/cards.md#paper-clusterstm)
+- [Decouple Your Discovery and Memory in Continual Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-dydm-decouple-discovery-memory)
 
 <!-- conference-classification:end -->

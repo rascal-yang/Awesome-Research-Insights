@@ -1543,5 +1543,13 @@ Decoding, test-time adaptation, and efficient execution.
 - [Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-cazo-tta)
 - [Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding](../../conferences/cvpr-2026/cards.md#paper-attentionpack)
 - [TGT: Text-Grounded Trajectories for Locally Controlled Video Generation](../../conferences/cvpr-2026/cards.md#paper-tgt-local-text-trajectory-guidance)
+- [R4-CGQA: Retrieval-based Vision Language Models for Computer Graphics Image Quality Assessment](../../conferences/cvpr-2026/cards.md#paper-r4-cgqa-retrieved-quality-evidence)
+- [ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior](../../conferences/cvpr-2026/cards.md#paper-argus-instruction-adherence-defense)
+- [Discovering Adaptive Task Dependencies for Efficient Multi-Task Representation Compression](../../conferences/cvpr-2026/cards.md#paper-atdc-image-dependent-task-graph)
+- [HierEdit: Region-Aware Hierarchical Diffusion for Efficient High-Resolution Editing](../../conferences/cvpr-2026/cards.md#paper-hieredit)
+- [Training-free Motion Factorization for Compositional Video Generation](../../conferences/cvpr-2026/cards.md#paper-motion-factorization)
+- [Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer](../../conferences/cvpr-2026/cards.md#paper-fleximmt-object-masked-motion)
+- [Synthesizing Visual Concepts as Vision-Language Programs](../../conferences/cvpr-2026/cards.md#paper-vision-language-program-synthesis)
+- [Focal-General Diffusion Model with Semantic Consistent Guidance for Sign Language Production](../../conferences/cvpr-2026/cards.md#paper-fgdm-focal-global-sign-motion)
 
 <!-- conference-classification:end -->

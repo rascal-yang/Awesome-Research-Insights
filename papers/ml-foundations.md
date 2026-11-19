@@ -2482,5 +2482,7 @@
 - [Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-cazo-tta)
 - [Hidden Monotonicity: Explaining Deep Neural Networks via their DC Decomposition](../conferences/cvpr-2026/cards.md#paper-hidden-monotonicity-dc)
 - [Your Dissimilarities Define You: Complementary Learning Exploiting Class Diversities](../conferences/cvpr-2026/cards.md#paper-opposite-class-complementary-learning)
+- [Single-Round Scalable Analytic Federated Learning](../conferences/cvpr-2026/cards.md#paper-safle-one-round-analytic-aggregation)
+- [Decouple Your Discovery and Memory in Continual Generalized Category Discovery](../conferences/cvpr-2026/cards.md#paper-dydm-decouple-discovery-memory)
 
 <!-- conference-classification:end -->
