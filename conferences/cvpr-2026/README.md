@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,447 篇，其中 2,184 篇暂收录、1,263 篇排除，另有 595 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,477 篇，其中 2,203 篇暂收录、1,274 篇排除，另有 565 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2190,3 +2190,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,447
 | 三维视觉 | 空间表征 | [Token Warping Helps MLLMs Look from Nearby Viewpoints](cards.md#paper-backward-token-warping-nearby-viewpoints) | 小范围视点变化时，在特征 token 上做反向采样而非先合成目标像素。 |
 | 多模态学习 | 训练目标 | [Predictive Regularization Against Visual Representation Degradation in Multimodal Large Language Models](cards.md#paper-pre-preserve-intermediate-visual-patches) | 应用纯文本生成监督时，探测中间视觉表征并用初始特征预测约束保留信息。 |
 | 生成模型 | 参数高效适配 | [MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation](cards.md#paper-makeanything-asymmetric-lora-procedural-steps) | 在跨域多步生成中保留原有通用模块，并限制风格或任务适配修改范围。 |
+| 计算机视觉 | 模型架构 | [Depth Peeling for High-Fidelity Gaussian-Enhanced Surfel Rendering](cards.md#paper-per-pixel-ordering-hybrid-surfels-gaussians) | 三维渲染可用 surfel 表示粗几何、Gaussian 补细节，再按像素处理透射及遮挡。 |
+| 计算机视觉 | 训练策略 | [Memory-Efficient Fine-Tuning Diffusion Transformers via Dynamic Patch Sampling and Block Skipping](cards.md#paper-timestep-conditioned-image-patch-blockskip) | 显存受限时可按去噪阶段选择训练裁剪尺度，并跳过能够复用残差的块。 |
+| 计算机视觉 | 训练策略 | [Confidence-Guided Multi-Scale Aggregation for Sparse-View High-Resolution 3D Gaussian Splatting](cards.md#paper-confidence-gated-resolution-for-sparse-view-3d) | 稀疏视图宜先在低分辨率稳定全局几何，再在可信区域引入高分辨率细节。 |
+| 机器学习基础与统计 | 评测与诊断 | [pH-Strips for Selective Forgetting: A Blunt but Fast Diagnostic Baseline for Machine Unlearning](cards.md#paper-selective-forgetting-subspace-baseline) | 可用免重训的权重子空间移除作为机器遗忘诊断基准，分辨复杂方法是否有额外效用。 |
+| 多模态学习 | 训练策略 | [Enhancing Video Vision Language Model with Hippocampal Sensing](cards.md#paper-reciprocal-cross-modal-prediction-for-active-sensing) | 视频问答可以先学视听相互预测，再训练模型判断何时补充一个模态证据。 |
+| 多模态学习 | 推理策略 | [EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs](cards.md#paper-linguistic-scene-graphs-cross-frame-spatial-reasoning) | 欠缺三维标注时，可提出连贯的跨帧语言场景图，逐步筛出问题相关空间关系。 |
+| 计算机视觉 | 训练策略 | [COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification](cards.md#paper-shared-occlusion-augmentation-to-disentangle-identity) | 人为让不同对象共享同一种遮挡，再用对应区域的一致损失去掉遮挡与身份的伪相关。 |
+| 机器人学 | 模型架构 | [SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion](cards.md#paper-spread-physical-layout-guidance) | 生成仿真布局时以真实几何定位，并对碰撞、关系与重力施加可微约束。 |
+| 计算机视觉 | 训练策略 | [DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis](cards.md#paper-dmaligner-dynamics-masking) | 动态区与静态区分开监督，以免把未匹配对象或遮挡当作配准误差。 |
+| 计算机视觉 | 模型架构 | [ReflexSplit: Single Image Reflection Separation via Layer Fusion-Separation](cards.md#paper-reflexsplit-differential-separation) | 双流既融合共同结构也做差分去混叠，将分离强度按训练阶段递增。 |
+| 多模态学习 | 推理策略 | [Retrieving Counterfactuals Improves Visual In-Context Learning](cards.md#paper-circles-counterfactual-demonstrations) | 检索上下文示例时定向改变目标属性，以便区分表面相似与可区分证据。 |
+| 机器学习基础与统计 | 优化策略 | [LeapAlign: Post-training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories](cards.md#paper-leapalign-two-step-trajectories) | 用两次潜空间跨步近似长生成轨迹，将奖励直接传到早期更新。 |
+| 机器人学 | 模型架构 | [EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding](cards.md#paper-embodiedsplat-online-codebook) | 以共享语义码本和每高斯的稀疏系数融合长图像流，避免逐点存储高维特征。 |
+| 计算机视觉 | 训练策略 | [From Infusion to Assimilation Distillation for Medical Image Segmentation](cards.md#paper-iad-assimilation-distillation) | 蒸馏后让学生以自身语义做二阶段自优化，缓和骨干间能力差异。 |
+| 生成模型 | 世界模型 | [Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context](cards.md#paper-geometry-as-context-autoregressive-reconstruction) | 把显式几何作为生成器可更新的上下文，避免只靠帧级记忆维持场景。 |
+| 机器人学 | 场景状态更新 | [Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](cards.md#paper-online-scene-change-multiview-self-supervised-fusion) | 将多视角变化证据联合纳入更新，并把姿态估计与变更定位分别验证。 |
+| 多模态学习 | 测试时适配 | [Controllable Federated Prompt Learning at Test Time](cards.md#paper-cote-adaptive-federated-prompt-mixing) | 部署新域时保留全局、个性化及冻结基础提示，按置信度自适应选择。 |
+| 生成模型 | 推理时筛选 | [Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering](cards.md#paper-cfg-rejection-accumulated-score-difference) | 直接用采样轨迹信号提前筛掉较差候选，省去外部奖励或完整生成。 |
+| 生成模型 | 条件生成 | [Group Editing: Edit Multiple Images in One Go](cards.md#paper-groupediting-geometric-correspondence-pseudovideo) | 将明确几何对应与视频先验结合，使多张相关图的编辑保持一致。 |

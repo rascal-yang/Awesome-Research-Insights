@@ -1153,5 +1153,8 @@
 - [EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR](../conferences/cvpr-2026/cards.md#paper-egoposeformer-uncertainty-labels)
 - [ODGS-SLAM: Omnidirectional Gaussian Splatting SLAM](../conferences/cvpr-2026/cards.md#paper-odgs-slam-graph-keyframes)
 - [InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene](../conferences/cvpr-2026/cards.md#paper-interphys-continuous-contact-forces)
+- [SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion](../conferences/cvpr-2026/cards.md#paper-spread-physical-layout-guidance)
+- [EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding](../conferences/cvpr-2026/cards.md#paper-embodiedsplat-online-codebook)
+- [Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](../conferences/cvpr-2026/cards.md#paper-online-scene-change-multiview-self-supervised-fusion)
 
 <!-- conference-classification:end -->

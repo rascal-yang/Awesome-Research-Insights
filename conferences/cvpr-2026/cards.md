@@ -32761,3 +32761,288 @@
 - **适用条件 / 局限** · 良好视觉序列仍可能省略关键步骤，实际可执行性需要独立核查。
 
 **可复用机制** · 在跨域多步生成中保留原有通用模块，并限制风格或任务适配修改范围。
+
+<a id="paper-per-pixel-ordering-hybrid-surfels-gaussians"></a>
+
+## Depth Peeling for High-Fidelity Gaussian-Enhanced Surfel Rendering
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ye_Depth_Peeling_for_High-Fidelity_Gaussian-Enhanced_Surfel_Rendering_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Depth_Peeling_for_High-Fidelity_Gaussian-Enhanced_Surfel_Rendering_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 排序误差或免排序近似会出现走样与跳变。
+- **核心创新 / 方法** · 利用深度剥离确定 surfel 顺序，并调节周围 Gaussian 的透射率。
+- **Baseline** · 对比 Gaussian-Enhanced Surfels 及既有新视角基线。
+- **Benchmark** · Mip-NeRF360、Deep Blending、Tanks & Temples、NeRF Synthetic。
+- **关键结果 / 消融** · 正文报告四套数据集的图像质量。
+- **适用条件 / 局限** · 收益依赖渲染器和场景遮挡复杂度。
+
+**可复用机制** · 三维渲染可用 surfel 表示粗几何、Gaussian 补细节，再按像素处理透射及遮挡。
+
+<a id="paper-timestep-conditioned-image-patch-blockskip"></a>
+
+## Memory-Efficient Fine-Tuning Diffusion Transformers via Dynamic Patch Sampling and Block Skipping
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Park_Memory-Efficient_Fine-Tuning_Diffusion_Transformers_via_Dynamic_Patch_Sampling_and_Block_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Park_Memory-Efficient_Fine-Tuning_Diffusion_Transformers_via_Dynamic_Patch_Sampling_and_Block_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高分辨率扩散微调的前反向显存负担高。
+- **核心创新 / 方法** · 按步改变裁剪区域并缩放至统一较低分辨率，用预计算残差实现跳块。
+- **Baseline** · 比较 FLUX 与 SANA 的常规微调和不同跳过比率。
+- **Benchmark** · 固定 1024×1024 推理，比较质量、训练原始分辨率及成本。
+- **关键结果 / 消融** · 表 1 按分辨率和跳过比例报告。
+- **适用条件 / 局限** · 缓存和裁剪需适配主干，过度简化可能损伤局部一致性。
+
+**可复用机制** · 显存受限时可按去噪阶段选择训练裁剪尺度，并跳过能够复用残差的块。
+
+<a id="paper-confidence-gated-resolution-for-sparse-view-3d"></a>
+
+## Confidence-Guided Multi-Scale Aggregation for Sparse-View High-Resolution 3D Gaussian Splatting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Confidence-Guided_Multi-Scale_Aggregation_for_Sparse-View_High-Resolution_3D_Gaussian_Splatting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Confidence-Guided_Multi-Scale_Aggregation_for_Sparse-View_High-Resolution_3D_Gaussian_Splatting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 低分辨率缺细节，高分辨率会在缺约束时放大漂浮伪影。
+- **核心创新 / 方法** · 量化分辨率作用，以置信度引导多尺度从粗到细的重建。
+- **Baseline** · 比较普通稀疏视图重建及不同配置。
+- **Benchmark** · LLFF、Mip-NeRF360 的 12 视图设置。
+- **关键结果 / 消融** · 正文表 1 给出高分辨率条件的比较。
+- **适用条件 / 局限** · 置信度过高可能引入伪影，仍需要跨视图几何证据。
+
+**可复用机制** · 稀疏视图宜先在低分辨率稳定全局几何，再在可信区域引入高分辨率细节。
+
+<a id="paper-selective-forgetting-subspace-baseline"></a>
+
+## pH-Strips for Selective Forgetting: A Blunt but Fast Diagnostic Baseline for Machine Unlearning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qian_pH-Strips_for_Selective_Forgetting_A_Blunt_but_Fast_Diagnostic_Baseline_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qian_pH-Strips_for_Selective_Forgetting_A_Blunt_but_Fast_Diagnostic_Baseline_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 从头重训代价大，难作为每次比较的唯一基准。
+- **核心创新 / 方法** · 去除与目标概念相关的低维权重方向，并检查保留效用。
+- **Baseline** · 比较重训和其他遗忘方法。
+- **Benchmark** · CIFAR-100 类别遗忘，ResNet18，测遗忘、保留和执行时间。
+- **关键结果 / 消融** · 表 1 同时报告遗忘与保留成绩及耗时。
+- **适用条件 / 局限** · 子空间操作不能本身证明对目标信息的完全删除。
+
+**可复用机制** · 可用免重训的权重子空间移除作为机器遗忘诊断基准，分辨复杂方法是否有额外效用。
+
+<a id="paper-reciprocal-cross-modal-prediction-for-active-sensing"></a>
+
+## Enhancing Video Vision Language Model with Hippocampal Sensing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cao_Enhancing_Video_Vision_Language_Model_with_Hippocampal_Sensing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cao_Enhancing_Video_Vision_Language_Model_with_Hippocampal_Sensing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 将所有视频与声音等量输入难体现问题所需的证据。
+- **核心创新 / 方法** · 以双向视听摘要预测做微调，再用对比式强化学习优化证据请求。
+- **Baseline** · 比较 Qwen2.5-VL、InternVL3 等及不同训练设置。
+- **Benchmark** · 四项视频 VQA 基准，基线使用 64 帧。
+- **关键结果 / 消融** · 表 1 比较多个视频模型的问答表现。
+- **适用条件 / 局限** · 学习到的模态互补性依赖视音同步以及文字摘要覆盖。
+
+**可复用机制** · 视频问答可以先学视听相互预测，再训练模型判断何时补充一个模态证据。
+
+<a id="paper-linguistic-scene-graphs-cross-frame-spatial-reasoning"></a>
+
+## EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_EgoMind_Activating_Spatial_Cognition_through_Linguistic_Reasoning_in_MLLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_EgoMind_Activating_Spatial_Cognition_through_Linguistic_Reasoning_in_MLLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯逐帧推理难保留移动视角下的空间联系。
+- **核心创新 / 方法** · 角色视角描述构造语言场景图，再按任务逐步空间分析。
+- **Baseline** · 与已有空间视觉语言模型比较。
+- **Benchmark** · 四套空间推理基准，比较准确率和训练数据量。
+- **关键结果 / 消融** · 主表汇报场景语言推理与既有方案的对照。
+- **适用条件 / 局限** · 语言场景图可保留关系但缺少显式度量几何保证。
+
+**可复用机制** · 欠缺三维标注时，可提出连贯的跨帧语言场景图，逐步筛出问题相关空间关系。
+
+<a id="paper-shared-occlusion-augmentation-to-disentangle-identity"></a>
+
+## COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_COPE_Consistent_Occlusion_and_Prompt_Enhancement_Network_for_Occluded_Person_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_COPE_Consistent_Occlusion_and_Prompt_Enhancement_Network_for_Occluded_Person_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 遮挡模式和背景可能让不同身份的表示被错误匹配。
+- **核心创新 / 方法** · 跨身份施加一致遮挡，约束遮挡区表示并用提示做背景填充。
+- **Baseline** · 与已有遮挡增强和遮挡重识别比较。
+- **Benchmark** · 遮挡和无遮挡的人员重识别基准。
+- **关键结果 / 消融** · 正文表 1 并列报告两种条件，比较不同骨干和视野。
+- **适用条件 / 局限** · 合成遮挡与真实遮挡差异会限制迁移，数据需覆盖足够形态。
+
+**可复用机制** · 人为让不同对象共享同一种遮挡，再用对应区域的一致损失去掉遮挡与身份的伪相关。
+
+<a id="paper-spread-physical-layout-guidance"></a>
+
+## SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_SPREAD_Spatial-Physical_REasoning_via_geometry_Aware_Diffusion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_SPREAD_Spatial-Physical_REasoning_via_geometry_Aware_Diffusion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅统计布局相似不能保证场景物理连贯。
+- **核心创新 / 方法** · SPREAD 用姿态已知点云条件和图扩散表达关系，采样时加入可微物理引导。
+- **Baseline** · 与三维场景生成基线及无物理引导版本比较。
+- **Benchmark** · 3D-FRONT、ProcTHOR，比较 FID、空间关系和物理指标。
+- **关键结果 / 消融** · 表1报告跨基准结果，表2在 ProcTHOR 消融。
+- **适用条件 / 局限** · 依赖可靠对象几何和约束定义，真实接触及可操作性需实测。
+
+**可复用机制** · 生成仿真布局时以真实几何定位，并对碰撞、关系与重力施加可微约束。
+
+<a id="paper-dmaligner-dynamics-masking"></a>
+
+## DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Luo_DMAligner_Enhancing_Image_Alignment_via_Diffusion_Model_Based_View_Synthesis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Luo_DMAligner_Enhancing_Image_Alignment_via_Diffusion_Model_Based_View_Synthesis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 以光流直接变形会受遮挡、运动或光照变化影响。
+- **核心创新 / 方法** · DMAligner 做基于扩散的目标视图对齐，以动态掩码区分运动前景和其他区域。
+- **Baseline** · 与基于流变形及既有图像对齐方法比较。
+- **Benchmark** · DSIA 四类场景，报告 PSNR、SSIM 等。
+- **关键结果 / 消融** · 表2按不同动态与视角条件给出结果。
+- **适用条件 / 局限** · 合成补全部分不宜当成真实匹配证据，几何测量需单独验证。
+
+**可复用机制** · 动态区与静态区分开监督，以免把未匹配对象或遮挡当作配准误差。
+
+<a id="paper-reflexsplit-differential-separation"></a>
+
+## ReflexSplit: Single Image Reflection Separation via Layer Fusion-Separation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_ReflexSplit_Single_Image_Reflection_Separation_via_Layer_Fusion-Separation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_ReflexSplit_Single_Image_Reflection_Separation_via_Layer_Fusion-Separation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 混合信号的两层表征在深层解码中易混淆。
+- **核心创新 / 方法** · 交替跨流融合与相减注意力，再用课程训练加强分离。
+- **Baseline** · 对照已有反射分层及组件配置。
+- **Benchmark** · Real20、Nature、SIR2 等和 OpenRR-1K 跨数据测试。
+- **关键结果 / 消融** · 正文分别报告层分离和跨数据表现。
+- **适用条件 / 局限** · 非线性反射与真实几何可能难区分，迁移到其它信号需重估混合假设。
+
+**可复用机制** · 双流既融合共同结构也做差分去混叠，将分离强度按训练阶段递增。
+
+<a id="paper-circles-counterfactual-demonstrations"></a>
+
+## Retrieving Counterfactuals Improves Visual In-Context Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiong_Retrieving_Counterfactuals_Improves_Visual_In-Context_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiong_Retrieving_Counterfactuals_Improves_Visual_In-Context_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 被动相似度检索可能放大数据里的虚假关联。
+- **核心创新 / 方法** · CIRCLES 用属性引导的组合图像检索构造类反事实示例集。
+- **Baseline** · 比较零样本与常规相似度示例，并在不同视觉语言骨干评估。
+- **Benchmark** · 多项视觉推理任务，含 OK-VQA。
+- **关键结果 / 消融** · 正文表1、2对照不同骨干及任务中的示例检索。
+- **适用条件 / 局限** · 检索结果只是近似反事实，需检查其它属性是否也发生变化。
+
+**可复用机制** · 检索上下文示例时定向改变目标属性，以便区分表面相似与可区分证据。
+
+<a id="paper-leapalign-two-step-trajectories"></a>
+
+## LeapAlign: Post-training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_LeapAlign_Post-training_Flow_Matching_Models_at_Any_Generation_Step_by_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_LeapAlign_Post-training_Flow_Matching_Models_at_Any_Generation_Step_by_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长轨迹反传内存大且梯度不稳，导致早期结构难优化。
+- **核心创新 / 方法** · 随机改变两次跨步的起止时间，缩短反传路径并调节各训练时刻权重。
+- **Baseline** · 与直接梯度模型及 Flux 的其它后训练方法比较。
+- **Benchmark** · 正文以 HPSv2.1 等比较偏好对齐、生成质量和早期更新。
+- **关键结果 / 消融** · 表1、2分别对照直接梯度和后训练方式。
+- **适用条件 / 局限** · 跨步近似可能遗漏真实细化动态，换采样器或奖励需重测。
+
+**可复用机制** · 用两次潜空间跨步近似长生成轨迹，将奖励直接传到早期更新。
+
+<a id="paper-embodiedsplat-online-codebook"></a>
+
+## EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_EmbodiedSplat_Online_Feed-Forward_Semantic_3DGS_for_Open-Vocabulary_3D_Scene_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_EmbodiedSplat_Online_Feed-Forward_Semantic_3DGS_for_Open-Vocabulary_3D_Scene_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 开放词汇三维图的高维语义随探索帧数增加，难在线更新。
+- **核心创新 / 方法** · 将二维 CLIP 特征稀疏绑定到高斯，并做前馈局部与全局语义整合。
+- **Baseline** · 与现有三维开放词汇分割与重建方法比较。
+- **Benchmark** · ScanNet、ScanNet200、ScanNet++ 三维语义分割，正文还测长图像流。
+- **关键结果 / 消融** · 报告可处理300帧以上的流，并比较语义及重建结果。
+- **适用条件 / 局限** · 需二维表征能覆盖未见对象；码本容量、位姿漂移和计算预算应分别验证。
+
+**可复用机制** · 以共享语义码本和每高斯的稀疏系数融合长图像流，避免逐点存储高维特征。
+
+<a id="paper-iad-assimilation-distillation"></a>
+
+## From Infusion to Assimilation Distillation for Medical Image Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_From_Infusion_to_Assimilation_Distillation_for_Medical_Image_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hong_From_Infusion_to_Assimilation_Distillation_for_Medical_Image_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接拟合教师特征不等于学生能内化其空间语义。
+- **核心创新 / 方法** · IAD 先以软标签和类别原型对齐注入监督，再用对比优化学生表征。
+- **Baseline** · 在相同轻量学生上比较常见蒸馏设置。
+- **Benchmark** · Synapse、ACDC 医学分割，报告蒸馏相对学生的增减。
+- **关键结果 / 消融** · 正文比较两项数据及两阶段收益。
+- **适用条件 / 局限** · 证据来自医学分割，其它密集任务需检查教师和学生是否有互补特征。
+
+**可复用机制** · 蒸馏后让学生以自身语义做二阶段自优化，缓和骨干间能力差异。
+
+<a id="paper-geometry-as-context-autoregressive-reconstruction"></a>
+
+## Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hu_Geometry-as-context_Modulating_Explicit_3D_in_Scene-consistent_Video_Generation_to_Geometry_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_Geometry-as-context_Modulating_Explicit_3D_in_Scene-consistent_Video_Generation_to_Geometry_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单图出发的长视角生成易因独立重建与补绘累积错误。
+- **核心创新 / 方法** · 同一相机可控自回归模型交替估计当前几何、恢复新视角渲染，并以相机门控注意力注入控制。
+- **Baseline** · 比较 ViewCrafter、Voyager 等场景一致视频方法。
+- **Benchmark** · 单视图和给定相机轨迹的场景视频生成，对照图像与几何相关指标。
+- **关键结果 / 消融** · 表 1 比较已有方法，图 4 展示视角变化后的重建与生成。
+- **适用条件 / 局限** · 初始单图无法约束不可见区域，预测几何会影响后续自回归结果。
+
+**可复用机制** · 把显式几何作为生成器可更新的上下文，避免只靠帧级记忆维持场景。
+
+<a id="paper-online-scene-change-multiview-self-supervised-fusion"></a>
+
+## Changes in Real Time: Online Scene Change Detection with Multi-View Fusion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Galappaththige_Changes_in_Real_Time_Online_Scene_Change_Detection_with_Multi-View_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Galappaththige_Changes_in_Real_Time_Online_Scene_Change_Detection_with_Multi-View_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 机器人在线看到无约束视角时，单视图误差易被误判成场景变化。
+- **核心创新 / 方法** · 用自监督融合损失整合观测，快速 PnP 对齐参考场景，再对三维高斯做变化引导更新。
+- **Baseline** · 对照在线和离线变化检测方法。
+- **Benchmark** · PASLCD 20 个实例，比较变化检测及包含姿态估计的运行时间。
+- **关键结果 / 消融** · 论文报告超过 10 FPS，表 1 汇总多条件结果。
+- **适用条件 / 局限** · 依赖参考场景与足够可匹配的静态区域，短时遮挡与持久变化仍需区分。
+
+**可复用机制** · 将多视角变化证据联合纳入更新，并把姿态估计与变更定位分别验证。
+
+<a id="paper-cote-adaptive-federated-prompt-mixing"></a>
+
+## Controllable Federated Prompt Learning at Test Time
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Controllable_Federated_Prompt_Learning_at_Test_Time_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_Controllable_Federated_Prompt_Learning_at_Test_Time_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 本地提示适配了客户端却可能在未知目标域退化。
+- **核心创新 / 方法** · COTE 结合三类提示，以无标签目标域观测与置信信息调节权重。
+- **Baseline** · 比较标准联邦提示、个性化联邦提示及原 CLIP 提示。
+- **Benchmark** · CIFAR100、ImageNet 异构客户端切分与不同测试分布，报准确率。
+- **关键结果 / 消融** · 表 1 给出多个分布的成绩，验证三类先验是否互补。
+- **适用条件 / 局限** · 置信度误校准可能导致错误路由，目标流很少或剧烈变化时需复核。
+
+**可复用机制** · 部署新域时保留全局、个性化及冻结基础提示，按置信度自适应选择。
+
+<a id="paper-cfg-rejection-accumulated-score-difference"></a>
+
+## Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Diffusion_Sampling_Path_Tells_More_An_Efficient_Plug-and-Play_Strategy_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Diffusion_Sampling_Path_Tells_More_An_Efficient_Plug-and-Play_Strategy_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 先生成再评分对所有候选付出完整去噪成本。
+- **核心创新 / 方法** · 积累 CFG 有条件与无条件预测的差异，用早期统计代理样本质量并触发拒绝。
+- **Baseline** · 比较完整样本、不同时刻阈值及按分数的 Top 10%。
+- **Benchmark** · ImageNet 生成，以 PickScore 和 HPS v2 衡量。
+- **关键结果 / 消融** · 表 1 中完整集 HPS v2 为 26.13，阈值 20 为 26.55。
+- **适用条件 / 局限** · 偏好分数提升不代表多样性不变，需评估阈值、筛除率和实际算力。
+
+**可复用机制** · 直接用采样轨迹信号提前筛掉较差候选，省去外部奖励或完整生成。
+
+<a id="paper-groupediting-geometric-correspondence-pseudovideo"></a>
+
+## Group Editing: Edit Multiple Images in One Go
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ma_Group_Editing_Edit_Multiple_Images_in_One_Go_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_Group_Editing_Edit_Multiple_Images_in_One_Go_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐图编辑无法保证视角差异下语义相同区域接受同一修改。
+- **核心创新 / 方法** · 由 VGGT 提取显式对应，将图片组视作伪视频获取隐式一致性，再融合两类信号。
+- **Baseline** · 与已有单图或成组图像编辑方法比较。
+- **Benchmark** · 局部编辑任务，以 CLIP、DINO、PSNR、一致性及人工评价比较。
+- **关键结果 / 消融** · 表 1 同时报语义、身份一致性和保真度，避免单看文本匹配。
+- **适用条件 / 局限** · 相机几何错误或图像组无稳定对应时，显式和隐式线索可能冲突。
+
+**可复用机制** · 将明确几何对应与视频先验结合，使多张相关图的编辑保持一致。

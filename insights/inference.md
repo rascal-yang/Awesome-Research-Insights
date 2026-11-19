@@ -1710,5 +1710,9 @@
 - [WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](../conferences/cvpr-2026/cards.md#paper-multiscale-episodic-semantic-visual-memory)
 - [SpotEdit: Selective Region Editing in Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-spotedit-selective-computation)
 - [LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency](../conferences/cvpr-2026/cards.md#paper-lascomp-preserve-observed-geometry)
+- [EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs](../conferences/cvpr-2026/cards.md#paper-linguistic-scene-graphs-cross-frame-spatial-reasoning)
+- [Retrieving Counterfactuals Improves Visual In-Context Learning](../conferences/cvpr-2026/cards.md#paper-circles-counterfactual-demonstrations)
+- [Controllable Federated Prompt Learning at Test Time](../conferences/cvpr-2026/cards.md#paper-cote-adaptive-federated-prompt-mixing)
+- [Group Editing: Edit Multiple Images in One Go](../conferences/cvpr-2026/cards.md#paper-groupediting-geometric-correspondence-pseudovideo)
 
 <!-- conference-classification:end -->

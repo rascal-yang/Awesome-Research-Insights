@@ -1595,5 +1595,9 @@
 - [Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR](../conferences/cvpr-2026/cards.md#paper-consensus-entropy-adaptive-ocr-verification)
 - [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](../conferences/cvpr-2026/cards.md#paper-cb-sae-interpretability-steerability-audit)
 - [Predictive Regularization Against Visual Representation Degradation in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-pre-preserve-intermediate-visual-patches)
+- [Enhancing Video Vision Language Model with Hippocampal Sensing](../conferences/cvpr-2026/cards.md#paper-reciprocal-cross-modal-prediction-for-active-sensing)
+- [EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs](../conferences/cvpr-2026/cards.md#paper-linguistic-scene-graphs-cross-frame-spatial-reasoning)
+- [Retrieving Counterfactuals Improves Visual In-Context Learning](../conferences/cvpr-2026/cards.md#paper-circles-counterfactual-demonstrations)
+- [Controllable Federated Prompt Learning at Test Time](../conferences/cvpr-2026/cards.md#paper-cote-adaptive-federated-prompt-mixing)
 
 <!-- conference-classification:end -->

@@ -2609,5 +2609,10 @@ General learning methods, optimization, learning theory, and inference.
 - [Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-domain-routed-sample-conditional-residuals)
 - [Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-vpdr-variance-adaptive-prototype-privacy)
 - [MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation](../../conferences/cvpr-2026/cards.md#paper-makeanything-asymmetric-lora-procedural-steps)
+- [pH-Strips for Selective Forgetting: A Blunt but Fast Diagnostic Baseline for Machine Unlearning](../../conferences/cvpr-2026/cards.md#paper-selective-forgetting-subspace-baseline)
+- [LeapAlign: Post-training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories](../../conferences/cvpr-2026/cards.md#paper-leapalign-two-step-trajectories)
+- [Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context](../../conferences/cvpr-2026/cards.md#paper-geometry-as-context-autoregressive-reconstruction)
+- [Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering](../../conferences/cvpr-2026/cards.md#paper-cfg-rejection-accumulated-score-difference)
+- [Group Editing: Edit Multiple Images in One Go](../../conferences/cvpr-2026/cards.md#paper-groupediting-geometric-correspondence-pseudovideo)
 
 <!-- conference-classification:end -->

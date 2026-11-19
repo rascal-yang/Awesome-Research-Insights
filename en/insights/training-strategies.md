@@ -1346,5 +1346,11 @@ Training schedules, curricula, and task or stage composition.
 - [Revisiting the Necessity of Full Accuracy: Weakly Supervised Object-Level Offset Correction for Misaligned Building Labels](../../conferences/cvpr-2026/cards.md#paper-omaf-object-offset-correction)
 - [EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR](../../conferences/cvpr-2026/cards.md#paper-egoposeformer-uncertainty-labels)
 - [Predictive Regularization Against Visual Representation Degradation in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-pre-preserve-intermediate-visual-patches)
+- [Memory-Efficient Fine-Tuning Diffusion Transformers via Dynamic Patch Sampling and Block Skipping](../../conferences/cvpr-2026/cards.md#paper-timestep-conditioned-image-patch-blockskip)
+- [Confidence-Guided Multi-Scale Aggregation for Sparse-View High-Resolution 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-confidence-gated-resolution-for-sparse-view-3d)
+- [Enhancing Video Vision Language Model with Hippocampal Sensing](../../conferences/cvpr-2026/cards.md#paper-reciprocal-cross-modal-prediction-for-active-sensing)
+- [COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification](../../conferences/cvpr-2026/cards.md#paper-shared-occlusion-augmentation-to-disentangle-identity)
+- [DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis](../../conferences/cvpr-2026/cards.md#paper-dmaligner-dynamics-masking)
+- [From Infusion to Assimilation Distillation for Medical Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-iad-assimilation-distillation)
 
 <!-- conference-classification:end -->

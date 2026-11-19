@@ -468,5 +468,6 @@
 - [FrankenMotion: Part-level Human Motion Generation and Composition](../conferences/cvpr-2026/cards.md#paper-asynchronous-part-motion-language-supervision)
 - [Batch Loss Score for Dynamic Data Pruning](../conferences/cvpr-2026/cards.md#paper-batch-loss-score-ema-example-pruning)
 - [Grid Distillation: Compositional Image Distillation via Structured Generative Grids](../conferences/cvpr-2026/cards.md#paper-structured-semantic-grid-dataset-distillation)
+- [Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering](../conferences/cvpr-2026/cards.md#paper-cfg-rejection-accumulated-score-difference)
 
 <!-- conference-classification:end -->

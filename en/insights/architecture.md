@@ -812,5 +812,9 @@ Model-wide design and information flow.
 - [Unified Primitive Proxies for Structured Shape Completion](../../conferences/cvpr-2026/cards.md#paper-unico-primitive-proxies)
 - [Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses](../../conferences/cvpr-2026/cards.md#paper-tda-snn-time-space-tradeoff)
 - [RISE: Single Static Radar-based Indoor Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-rise-indoor-multipath)
+- [Depth Peeling for High-Fidelity Gaussian-Enhanced Surfel Rendering](../../conferences/cvpr-2026/cards.md#paper-per-pixel-ordering-hybrid-surfels-gaussians)
+- [SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion](../../conferences/cvpr-2026/cards.md#paper-spread-physical-layout-guidance)
+- [ReflexSplit: Single Image Reflection Separation via Layer Fusion-Separation](../../conferences/cvpr-2026/cards.md#paper-reflexsplit-differential-separation)
+- [EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-embodiedsplat-online-codebook)
 
 <!-- conference-classification:end -->

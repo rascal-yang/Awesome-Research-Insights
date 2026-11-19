@@ -1664,5 +1664,12 @@
 - [Revisiting the Necessity of Full Accuracy: Weakly Supervised Object-Level Offset Correction for Misaligned Building Labels](../conferences/cvpr-2026/cards.md#paper-omaf-object-offset-correction)
 - [LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency](../conferences/cvpr-2026/cards.md#paper-lascomp-preserve-observed-geometry)
 - [Token Warping Helps MLLMs Look from Nearby Viewpoints](../conferences/cvpr-2026/cards.md#paper-backward-token-warping-nearby-viewpoints)
+- [Depth Peeling for High-Fidelity Gaussian-Enhanced Surfel Rendering](../conferences/cvpr-2026/cards.md#paper-per-pixel-ordering-hybrid-surfels-gaussians)
+- [Memory-Efficient Fine-Tuning Diffusion Transformers via Dynamic Patch Sampling and Block Skipping](../conferences/cvpr-2026/cards.md#paper-timestep-conditioned-image-patch-blockskip)
+- [Confidence-Guided Multi-Scale Aggregation for Sparse-View High-Resolution 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-confidence-gated-resolution-for-sparse-view-3d)
+- [COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification](../conferences/cvpr-2026/cards.md#paper-shared-occlusion-augmentation-to-disentangle-identity)
+- [DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis](../conferences/cvpr-2026/cards.md#paper-dmaligner-dynamics-masking)
+- [ReflexSplit: Single Image Reflection Separation via Layer Fusion-Separation](../conferences/cvpr-2026/cards.md#paper-reflexsplit-differential-separation)
+- [From Infusion to Assimilation Distillation for Medical Image Segmentation](../conferences/cvpr-2026/cards.md#paper-iad-assimilation-distillation)
 
 <!-- conference-classification:end -->
