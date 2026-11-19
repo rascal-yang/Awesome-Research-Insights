@@ -1559,5 +1559,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-meanfuser-continuous-trajectory-prior)
 - [MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering](../../conferences/cvpr-2026/cards.md#paper-mukv-multigrained-streaming-cache)
 - [SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](../../conferences/cvpr-2026/cards.md#paper-sigma-selective-attribute-tokens)
+- [MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing](../../conferences/cvpr-2026/cards.md#paper-morphany3d)
+- [HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT](../../conferences/cvpr-2026/cards.md#paper-hess-headwise-sparsity-budget)
+- [Test-Time Perturbation Tuning with Delayed Feedback for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-pdf-delayed-feedback-perturbation)
 
 <!-- conference-classification:end -->

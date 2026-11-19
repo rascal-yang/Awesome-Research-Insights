@@ -833,5 +833,8 @@
 - [ART: Articulated Reconstruction Transformer](../conferences/cvpr-2026/cards.md#paper-art-part-slot-articulated-reconstruction)
 - [RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](../conferences/cvpr-2026/cards.md#paper-raven-calibrated-streaming-early-exit)
 - [Drift-Resilient Temporal Priors for Visual Tracking](../conferences/cvpr-2026/cards.md#paper-dtptrack-history-reliability)
+- [SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings](../conferences/cvpr-2026/cards.md#paper-sce-slam-coordinate-scale-anchor)
+- [InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs](../conferences/cvpr-2026/cards.md#paper-interagent-multistream-interaction-context)
+- [AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance](../conferences/cvpr-2026/cards.md#paper-area3d-decoupled-view-uncertainty)
 
 <!-- conference-classification:end -->

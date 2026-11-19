@@ -1547,5 +1547,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation](../../conferences/cvpr-2026/cards.md#paper-slvmeval-perceptible-pairwise-audit)
 - [Revisiting Visual Corruptions in LVLMs: A Shape-Texture Perspective on Model Failures](../../conferences/cvpr-2026/cards.md#paper-shape-texture-corruptions)
 - [CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods](../../conferences/cvpr-2026/cards.md#paper-crosshoi-explicit-negative-evaluation)
+- [Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-long-rvos-reappearance-evaluation)
+- [Beyond Global Similarity: Multi-Conditional Retrieval for Fine-Grained Cross-Modal Understanding](../../conferences/cvpr-2026/cards.md#paper-mcmr-conditional-retrieval)
 
 <!-- conference-classification:end -->

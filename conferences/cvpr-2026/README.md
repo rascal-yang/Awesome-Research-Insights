@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,097 篇，其中 1,322 篇暂收录、775 篇排除，另有 1,945 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,127 篇，其中 1,342 篇暂收录、785 篇排除，另有 1,915 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1328,3 +1328,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,097
 | 机器人学 | 表征学习 | [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](cards.md#paper-jala-joint-latent-action-alignment) | 以逆动力学和可用动作标签共同对齐潜在动作，使大量弱标签视频能参与策略预训练。 |
 | 多模态学习 | 可控图像生成 | [SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](cards.md#paper-sigma-selective-attribute-tokens) | 为交错图像来源标注可迁移属性，让模型区分需要保留的风格、内容与主体。 |
 | 机器学习基础 | 损失函数与优化 | [TaskForce: Cooperative Multi-agent Reinforcement Learning for Multi-task Optimization](cards.md#paper-taskforce-gradient-gram-policy) | 用梯度 Gram 矩阵和损失变化作反馈，学习多任务更新权重。 |
+| 机器学习基础与统计 | 训练策略 | [Flow Matching for Multimodal Distributions](cards.md#paper-mm-fm-source-coupling-codesign) | 多峰潜分布用自适应源分布时，应同步消融模态条件耦合并记录少步采样质量。 |
+| 计算机视觉 | 模型架构 | [Spatia: Video Generation with Updatable Spatial Memory](cards.md#paper-spatia-updatable-static-scene-memory) | 长视频生成可把静态场景持久存为几何记忆，并把动态对象一致性分开评测。 |
+| 机器学习基础与统计 | 训练策略 | [GaussianMatch: Semi-Supervised Regression with Pseudo-Label Filtering via Multi-View Gaussian Consistency](cards.md#paper-gaussianmatch-multiview-regression-filter) | 连续预测无天然置信度时，用多视图一致性过滤伪标签，并检查过滤和采样的独立作用。 |
+| 计算机视觉 | 优化 | [Fresco: Frequency-Spatial Consistent Optimization for Fine-Grained Head Avatar Modeling](cards.md#paper-fresco-frequency-curriculum-uv-consistency) | 多视角外观拟合先稳定低频，再加共享表面纹理一致性和高频细节约束。 |
+| 多模态学习 | 评测与诊断 | [Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation](cards.md#paper-long-rvos-reappearance-evaluation) | 长程指代分割把重现与镜头切换稳定性单测，并分属性、运动和关系描述。 |
+| 机器人学 | 模型架构 | [ORV: 4D Occupancy-centric Robot Video Generation](cards.md#paper-orv-occupancy-visual-action-conditioning) | 生成机器人视频时评估中间占据表示是否弥合稀疏动作到稠密像素的差距。 |
+| 多模态学习 | 模型架构 | [Curvature-Aware Captioning: Leveraging Geodesic Attention for 3D Scene Understanding](cards.md#paper-curvature-aware-captioning) | 将局部几何关系与全局语义层级分配给不同几何空间，再分别诊断定位和文本质量。 |
+| 多模态学习 | 训练策略 | [Personalized Image Descriptions from Attention Sequences](cards.md#paper-deper) | 用辅助注意预测把个人的感知偏好和语言风格共同编码，再适配冻结视觉语言模型。 |
+| 计算机视觉 | 损失函数 | [RiskProp: Collision-Anchored Self-Supervised Risk Propagation For Early Accident Anticipation](cards.md#paper-riskprop) | 事件起点标签不稳定时，可用可靠终点做锚，联合软目标传播和阶段性顺序约束。 |
+| 计算机视觉 | 模型架构 | [MER-Tracker: Towards High-Speed 3D Point Tracking via Multi-View Event-RGB Hybrid Cameras](cards.md#paper-mer-tracker) | 将不同采样率的视觉输入先对齐到同一三维表示，再保留快模态时间锚点。 |
+| 计算机视觉 | 推理策略 | [MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing](cards.md#paper-morphany3d) | 三维形变可分别融合两端结构信息和相邻帧时序信息，而后对齐姿态。 |
+| 多模态学习 | 损失函数 | [THE MORE, THE MERRIER: CONTRASTIVE FUSION FOR HIGHER-ORDER MULTIMODAL ALIGNMENT](cards.md#paper-confu-higher-order) | 保留模态对齐目标，另把成对融合表示与第三模态对比，以测出高阶互补。 |
+| 多模态学习 | 评测与诊断 | [Beyond Global Similarity: Multi-Conditional Retrieval for Fine-Grained Cross-Modal Understanding](cards.md#paper-mcmr-conditional-retrieval) | 用必须同时满足多个属性的检索查询，对照不同候选模态可见性。 |
+| 多模态学习 | 智能体记忆 | [Experience Transfer for Multimodal LLM Agents in Minecraft Game](cards.md#paper-echo-structured-analogical-experience) | 将过去轨迹归纳成可检索的关系和过程，再通过案例对照适配新任务。 |
+| 计算机视觉 | 三维重建 | [SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings](cards.md#paper-sce-slam-coordinate-scale-anchor) | 复用统一尺度的历史场景坐标，以限制局部视觉估计的尺度漂移。 |
+| 计算机视觉 | 推理优化 | [HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT](cards.md#paper-hess-headwise-sparsity-budget) | 将相同注意力预算重新分配给不同敏感度的注意力头。 |
+| 机器人学 | 时序建模 | [InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs](cards.md#paper-interagent-multistream-interaction-context) | 对本体状态、外部观测和动作分流建模，检验何时显式跨角色关系有帮助。 |
+| 多模态学习 | 持续学习 | [Towards Dynamic Modality Alignment in Multimodal Continual Learning](cards.md#paper-dagr-layerwise-modality-alignment) | 将模态配对看作随深度及任务改变的关系图，并对关系演化施加正则。 |
+| 机器人学 | 测试时适配 | [Test-Time Perturbation Tuning with Delayed Feedback for Vision-Language-Action Models](cards.md#paper-pdf-delayed-feedback-perturbation) | 用迟到的反馈回顾动作分数，并按当前不确定度调节测试时额外计算。 |
+| 机器人学 | 主动感知 | [AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance](cards.md#paper-area3d-decoupled-view-uncertainty) | 用独立模块估计视点不确定性，再组合前馈几何和视觉语言语义引导。 |

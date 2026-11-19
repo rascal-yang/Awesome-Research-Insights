@@ -460,5 +460,7 @@
 - [Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations](../conferences/cvpr-2026/cards.md#paper-reliev3r)
 - [Edges Compete for Trust: Group Relative Edge Optimization for Building Reconstruction from Point Clouds](../conferences/cvpr-2026/cards.md#paper-greo-wireframe)
 - [TaskForce: Cooperative Multi-agent Reinforcement Learning for Multi-task Optimization](../conferences/cvpr-2026/cards.md#paper-taskforce-gradient-gram-policy)
+- [RiskProp: Collision-Anchored Self-Supervised Risk Propagation For Early Accident Anticipation](../conferences/cvpr-2026/cards.md#paper-riskprop)
+- [THE MORE, THE MERRIER: CONTRASTIVE FUSION FOR HIGHER-ORDER MULTIMODAL ALIGNMENT](../conferences/cvpr-2026/cards.md#paper-confu-higher-order)
 
 <!-- conference-classification:end -->

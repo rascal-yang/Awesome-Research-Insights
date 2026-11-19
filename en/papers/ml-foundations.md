@@ -2486,5 +2486,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Decouple Your Discovery and Memory in Continual Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-dydm-decouple-discovery-memory)
 - [AnyPcc: Compressing Any Point Cloud with a Single Universal Model](../../conferences/cvpr-2026/cards.md#paper-anypcc-instance-weight-bits)
 - [TaskForce: Cooperative Multi-agent Reinforcement Learning for Multi-task Optimization](../../conferences/cvpr-2026/cards.md#paper-taskforce-gradient-gram-policy)
+- [Flow Matching for Multimodal Distributions](../../conferences/cvpr-2026/cards.md#paper-mm-fm-source-coupling-codesign)
+- [GaussianMatch: Semi-Supervised Regression with Pseudo-Label Filtering via Multi-View Gaussian Consistency](../../conferences/cvpr-2026/cards.md#paper-gaussianmatch-multiview-regression-filter)
 
 <!-- conference-classification:end -->

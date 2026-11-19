@@ -411,5 +411,6 @@ Reusable components and local changes to model inputs or connections.
 - [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](../../conferences/cvpr-2026/cards.md#paper-bdmerging-evidence-routed-model-merging)
 - [Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-chain-of-merging-activation-matched-layers)
 - [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](../../conferences/cvpr-2026/cards.md#paper-tara-merging-subspace-coverage-anisotropy)
+- [Experience Transfer for Multimodal LLM Agents in Minecraft Game](../../conferences/cvpr-2026/cards.md#paper-echo-structured-analogical-experience)
 
 <!-- conference-classification:end -->

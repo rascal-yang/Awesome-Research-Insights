@@ -989,5 +989,9 @@
 - [MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-meanfuser-continuous-trajectory-prior)
 - [CycleManip: Enabling Cycle-based Manipulation via Effective History Perception and Understanding](../conferences/cvpr-2026/cards.md#paper-cyclemanip)
 - [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](../conferences/cvpr-2026/cards.md#paper-jala-joint-latent-action-alignment)
+- [ORV: 4D Occupancy-centric Robot Video Generation](../conferences/cvpr-2026/cards.md#paper-orv-occupancy-visual-action-conditioning)
+- [InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs](../conferences/cvpr-2026/cards.md#paper-interagent-multistream-interaction-context)
+- [Test-Time Perturbation Tuning with Delayed Feedback for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-pdf-delayed-feedback-perturbation)
+- [AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance](../conferences/cvpr-2026/cards.md#paper-area3d-decoupled-view-uncertainty)
 
 <!-- conference-classification:end -->

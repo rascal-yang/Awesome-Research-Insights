@@ -1145,5 +1145,9 @@
 - [Decoupled and Reusable Adaptation for Efficient Cross-Modal Transfer](../conferences/cvpr-2026/cards.md#paper-reusable-modal-lora)
 - [UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](../conferences/cvpr-2026/cards.md#paper-unityvideo)
 - [ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark](../conferences/cvpr-2026/cards.md#paper-elvis-low-light-vis)
+- [Flow Matching for Multimodal Distributions](../conferences/cvpr-2026/cards.md#paper-mm-fm-source-coupling-codesign)
+- [GaussianMatch: Semi-Supervised Regression with Pseudo-Label Filtering via Multi-View Gaussian Consistency](../conferences/cvpr-2026/cards.md#paper-gaussianmatch-multiview-regression-filter)
+- [Personalized Image Descriptions from Attention Sequences](../conferences/cvpr-2026/cards.md#paper-deper)
+- [Towards Dynamic Modality Alignment in Multimodal Continual Learning](../conferences/cvpr-2026/cards.md#paper-dagr-layerwise-modality-alignment)
 
 <!-- conference-classification:end -->

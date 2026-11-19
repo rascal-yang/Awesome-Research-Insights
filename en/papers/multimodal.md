@@ -1315,5 +1315,12 @@ Learning across modalities such as images, text, audio, and video.
 - [CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods](../../conferences/cvpr-2026/cards.md#paper-crosshoi-explicit-negative-evaluation)
 - [MuKV: Multi-Grained KV Cache Compression for Long Streaming Video Question-Answering](../../conferences/cvpr-2026/cards.md#paper-mukv-multigrained-streaming-cache)
 - [SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](../../conferences/cvpr-2026/cards.md#paper-sigma-selective-attribute-tokens)
+- [Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-long-rvos-reappearance-evaluation)
+- [Curvature-Aware Captioning: Leveraging Geodesic Attention for 3D Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-curvature-aware-captioning)
+- [Personalized Image Descriptions from Attention Sequences](../../conferences/cvpr-2026/cards.md#paper-deper)
+- [THE MORE, THE MERRIER: CONTRASTIVE FUSION FOR HIGHER-ORDER MULTIMODAL ALIGNMENT](../../conferences/cvpr-2026/cards.md#paper-confu-higher-order)
+- [Beyond Global Similarity: Multi-Conditional Retrieval for Fine-Grained Cross-Modal Understanding](../../conferences/cvpr-2026/cards.md#paper-mcmr-conditional-retrieval)
+- [Experience Transfer for Multimodal LLM Agents in Minecraft Game](../../conferences/cvpr-2026/cards.md#paper-echo-structured-analogical-experience)
+- [Towards Dynamic Modality Alignment in Multimodal Continual Learning](../../conferences/cvpr-2026/cards.md#paper-dagr-layerwise-modality-alignment)
 
 <!-- conference-classification:end -->

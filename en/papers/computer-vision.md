@@ -1391,5 +1391,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation](../../conferences/cvpr-2026/cards.md#paper-armflow)
 - [ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark](../../conferences/cvpr-2026/cards.md#paper-elvis-low-light-vis)
 - [Drift-Resilient Temporal Priors for Visual Tracking](../../conferences/cvpr-2026/cards.md#paper-dtptrack-history-reliability)
+- [Spatia: Video Generation with Updatable Spatial Memory](../../conferences/cvpr-2026/cards.md#paper-spatia-updatable-static-scene-memory)
+- [Fresco: Frequency-Spatial Consistent Optimization for Fine-Grained Head Avatar Modeling](../../conferences/cvpr-2026/cards.md#paper-fresco-frequency-curriculum-uv-consistency)
+- [RiskProp: Collision-Anchored Self-Supervised Risk Propagation For Early Accident Anticipation](../../conferences/cvpr-2026/cards.md#paper-riskprop)
+- [MER-Tracker: Towards High-Speed 3D Point Tracking via Multi-View Event-RGB Hybrid Cameras](../../conferences/cvpr-2026/cards.md#paper-mer-tracker)
+- [MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing](../../conferences/cvpr-2026/cards.md#paper-morphany3d)
+- [SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings](../../conferences/cvpr-2026/cards.md#paper-sce-slam-coordinate-scale-anchor)
+- [HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT](../../conferences/cvpr-2026/cards.md#paper-hess-headwise-sparsity-budget)
 
 <!-- conference-classification:end -->

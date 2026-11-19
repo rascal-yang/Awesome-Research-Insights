@@ -669,5 +669,9 @@
 - [OmniZip: Learning a Unified and Lightweight Lossless Compressor for Multi-Modal Data](../conferences/cvpr-2026/cards.md#paper-omnizip)
 - [AdapTok: Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space](../conferences/cvpr-2026/cards.md#paper-adaptok)
 - [Event6D: Event-based Novel Object 6D Pose Tracking](../conferences/cvpr-2026/cards.md#paper-eventtrack6d-dual-reconstruction)
+- [Spatia: Video Generation with Updatable Spatial Memory](../conferences/cvpr-2026/cards.md#paper-spatia-updatable-static-scene-memory)
+- [ORV: 4D Occupancy-centric Robot Video Generation](../conferences/cvpr-2026/cards.md#paper-orv-occupancy-visual-action-conditioning)
+- [Curvature-Aware Captioning: Leveraging Geodesic Attention for 3D Scene Understanding](../conferences/cvpr-2026/cards.md#paper-curvature-aware-captioning)
+- [MER-Tracker: Towards High-Speed 3D Point Tracking via Multi-View Event-RGB Hybrid Cameras](../conferences/cvpr-2026/cards.md#paper-mer-tracker)
 
 <!-- conference-classification:end -->
