@@ -1383,5 +1383,6 @@ Decoding, test-time adaptation, and efficient execution.
 - [ResDiT: Evoking the Intrinsic Resolution Scalability in Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-resdit-position-extrapolation-resolution)
 - [REACH: Explicit Recovery Behavior for Diffusion Policies](../../conferences/cvpr-2026/cards.md#paper-reach-error-conditioned-action-recovery)
 - [Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference](../../conferences/cvpr-2026/cards.md#paper-remix-continuous-decoding)
+- [Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](../../conferences/cvpr-2026/cards.md#paper-hilbert-geo-formal-parse-solver-control)
 
 <!-- conference-classification:end -->

@@ -2327,5 +2327,9 @@ General learning methods, optimization, learning theory, and inference.
 - [TopoSlide: Topologically-Informed Histopathology Whole Slide Image Representation Learning](../../conferences/cvpr-2026/cards.md#paper-toposlide-cluster-topology-pretext)
 - [ResDiT: Evoking the Intrinsic Resolution Scalability in Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-resdit-position-extrapolation-resolution)
 - [Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference](../../conferences/cvpr-2026/cards.md#paper-remix-continuous-decoding)
+- [FedCART: Tackling Long-Tailed Distributions in Federated Adversarial Training via Classifier Refinement](../../conferences/cvpr-2026/cards.md#paper-fedcart-defense)
+- [Reading Your Actions: Learning Generalizable Action Representations via Pre-training AEMG](../../conferences/cvpr-2026/cards.md#paper-aemg)
+- [When Pretty Isn't Useful: Investigating Why Modern Text-to-Image Models Fail as Reliable Training Data Generators](../../conferences/cvpr-2026/cards.md#paper-synthetic-data-aesthetic-bias)
+- [Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](../../conferences/cvpr-2026/cards.md#paper-refine-active-learning)
 
 <!-- conference-classification:end -->

@@ -765,5 +765,6 @@
 ## CVPR 2026（暂收录）
 
 - [ReMoE: Region-Mixture Experts for Adversarially-Robust Vision Transformers](../conferences/cvpr-2026/cards.md#paper-remoe-region-aware-defensive-vision)
+- [No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models](../conferences/cvpr-2026/cards.md#paper-c2lip-concept-phrase-contrastive-binding)
 
 <!-- conference-classification:end -->

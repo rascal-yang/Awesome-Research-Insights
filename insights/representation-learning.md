@@ -573,5 +573,7 @@
 - [Hyperbolic Gramian Volumes for Multimodal Alignment](../conferences/cvpr-2026/cards.md#paper-hypergram-mixed-geometry-alignment)
 - [From Rays to Projections: Better Inputs for Feed-Forward View Synthesis](../conferences/cvpr-2026/cards.md#paper-projective-conditioning-view-synthesis)
 - [NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks](../conferences/cvpr-2026/cards.md#paper-nexusflow)
+- [OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data](../conferences/cvpr-2026/cards.md#paper-opent2m-partwise-2d-motion-quantization)
+- [I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](../conferences/cvpr-2026/cards.md#paper-i-scene-instance-generator)
 
 <!-- conference-classification:end -->

@@ -610,5 +610,6 @@ Model-wide design and information flow.
 - [Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs](../../conferences/cvpr-2026/cards.md#paper-hg-i2p)
 - [VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations](../../conferences/cvpr-2026/cards.md#paper-vibetoken)
 - [TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction](../../conferences/cvpr-2026/cards.md#paper-tokensplat)
+- [DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities](../../conferences/cvpr-2026/cards.md#paper-dpl-missing-modality)
 
 <!-- conference-classification:end -->

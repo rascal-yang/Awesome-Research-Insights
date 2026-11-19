@@ -1454,5 +1454,7 @@
 - [PAS: Prelim Attention Score for Detecting Object Hallucinations in Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-prelim-attention-hallucination)
 - [When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm](../conferences/cvpr-2026/cards.md#paper-unified-image-generation-risk-audit)
 - [Scaling View Synthesis Transformers](../conferences/cvpr-2026/cards.md#paper-svsm-compute-matched-scaling)
+- [FailureAtlas: Mapping the Failure Landscape of T2I Models via Active Exploration](../conferences/cvpr-2026/cards.md#paper-failureatlas)
+- [When Pretty Isn't Useful: Investigating Why Modern Text-to-Image Models Fail as Reliable Training Data Generators](../conferences/cvpr-2026/cards.md#paper-synthetic-data-aesthetic-bias)
 
 <!-- conference-classification:end -->

@@ -1016,5 +1016,11 @@
 - [PAS: Prelim Attention Score for Detecting Object Hallucinations in Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-prelim-attention-hallucination)
 - [When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm](../conferences/cvpr-2026/cards.md#paper-unified-image-generation-risk-audit)
 - [Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration](../conferences/cvpr-2026/cards.md#paper-multimodal-gaussian-tta)
+- [No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models](../conferences/cvpr-2026/cards.md#paper-c2lip-concept-phrase-contrastive-binding)
+- [CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-ccf-complementary-sensor-masking)
+- [Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](../conferences/cvpr-2026/cards.md#paper-hilbert-geo-formal-parse-solver-control)
+- [DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities](../conferences/cvpr-2026/cards.md#paper-dpl-missing-modality)
+- [OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning](../conferences/cvpr-2026/cards.md#paper-openvision-2-generative-pretraining)
+- [FailureAtlas: Mapping the Failure Landscape of T2I Models via Active Exploration](../conferences/cvpr-2026/cards.md#paper-failureatlas)
 
 <!-- conference-classification:end -->

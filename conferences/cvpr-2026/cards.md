@@ -7351,3 +7351,243 @@
 - **适用条件 / 局限** · 分布可能非高斯，未标注伪标签不可靠或两路同时损坏时需要额外验证。
 
 **可复用机制** · 测试时音视频质量不对称时，用类别条件高斯校准并纠正跨模态分布偏差。
+
+<a id="paper-mpa-progressive-query-view-adaptation"></a>
+
+## Cross-Domain Few-Shot Segmentation via Multi-view Progressive Adaptation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Nie_Cross-Domain_Few-Shot_Segmentation_via_Multi-view_Progressive_Adaptation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Nie_Cross-Domain_Few-Shot_Segmentation_via_Multi-view_Progressive_Adaptation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 源域训练的小样本分割模型在目标域起点较弱，直接使用强增强或只使用少量目标样本可能限制适配。
+- **核心创新 / 方法** · 累积强增强得到逐渐更难的查询视图；顺序与并行预测路径共同利用这些视图，提升跨增强预测一致性。
+- **Baseline** · 与 TAFT、CPFT、IFA 等适配策略相比；表 7 对照固定一个增强查询、始终使用简单增强与渐进调度。
+- **Benchmark** · 四种低样本目标域的跨域小样本分割，作者比较目标域 mIoU 和不同适配设置。
+- **关键结果 / 消融** · 表 7 固定单个增强查询为 50.5 mIoU，逐渐增加视图数为 52.0；始终使用简单增强为 51.3，逐渐提高增强难度为 52.4，两种进度组合为 53.1。
+- **适用条件 / 局限** · 需要增强变换在任务中保持或可恢复标签，困难程度与额外视图的开销应随目标域重新评估。
+
+**可复用机制** · 目标域只有少量监督时，可分别提高增强视图的难度和数量，并比较各进度对适配效果的影响。见表 7。
+
+<a id="paper-c2lip-concept-phrase-contrastive-binding"></a>
+
+## No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pham_No_Hard_Negatives_Required_Concept_Centric_Learning_Leads_to_Compositionality_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pham_No_Hard_Negatives_Required_Concept_Centric_Learning_Leads_to_Compositionality_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整句图文对比和全局池化允许模型识别概念，却可能不必区分某个属性依附于哪个对象。
+- **核心创新 / 方法** · 从现有标题提取短名词短语，增加短语图像对比监督；用无参数的跨模态注意力池化汇聚短语对应的图像信息。
+- **Baseline** · 以原 SigLIP ViT-B/16、同 CC3M 微调模型及只加入短语损失的模型为对照，并与使用困难负例的组合感知模型比较。
+- **Benchmark** · SugarCrepe 等组合评估、属性绑定和 Flickr8K 检索，同时检查零样本和通用图文能力。
+- **关键结果 / 消融** · 表 5 中 CC3M 微调基线的 SugarCrepe 平均为 81.7，增加短语损失后为 85.3，再加概念池化为 85.6；Flickr8K 从 95.2 到 96.4，但属性替换一列的完整模型略低于仅加短语损失。
+- **适用条件 / 局限** · 依赖原始标题包含可分解的概念，且短语抽取质量影响监督；结果不能外推到没有明确局部绑定的语句。
+
+**可复用机制** · 视觉语言模型的属性绑定不佳时，可先增加短概念短语监督，再核对概念条件池化的边际收益和通用检索表现。见表 5。
+
+<a id="paper-ccf-complementary-sensor-masking"></a>
+
+## CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_CCF_Complementary_Collaborative_Fusion_for_Domain_Generalized_Multi-Modal_3D_Object_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_CCF_Complementary_Collaborative_Fusion_for_Domain_Generalized_Multi-Modal_3D_Object_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 点云和图像融合检测中，点云主导的训练容易忽略图像，在点云退化时暴露弱点。
+- **核心创新 / 方法** · 将不同传感器的空间区域互补遮盖，避免二者同时依赖同一可见区域；再为各单模态及融合查询分别提供监督。
+- **Baseline** · 同一双分支检测器移除所有新模块作基线，分别加入解耦损失、深度先验或互补遮盖。
+- **Benchmark** · nuScenes 划分源域、雨天、夜间和 Boston，以 mAP 与 NDS 衡量跨域检测。
+- **关键结果 / 消融** · 表 3 只加互补遮盖时雨天 mAP 从 41.9 到 44.5，Boston 从 47.4 到 49.6，源域维持 68.4；只加解耦损失时夜间 mAP 从 42.9 降至 42.1。
+- **适用条件 / 局限** · 空间互补依赖模态配准及其冗余结构，两者同时损坏或各自观察到互不重叠的内容时仍需验证。
+
+**可复用机制** · 一个传感器主导融合时，可对照互补空间遮盖与原训练，检验弱模态是否成为有用后备。见表 3。
+
+<a id="paper-hilbert-geo-formal-parse-solver-control"></a>
+
+## Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Hilbert-Geo_Solving_Solid_Geometric_Problems_by_Neural-Symbolic_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Hilbert-Geo_Solving_Solid_Geometric_Problems_by_Neural-Symbolic_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 立体图与自然语言条件交织，使直接作答的模型容易犯不可追溯的空间推理错误。
+- **核心创新 / 方法** · 把图文解析成统一的条件描述语言，再用符号定理库做关系推断与代数计算；分别检查解析和可验证求解。
+- **Baseline** · 比较 Gemini 2.5 Pro 等直接作答、使用同一模型生成形式条件，以及输入人工标注条件的求解器设置。
+- **Benchmark** · SolidFGeo2k 四类立体几何问题和 MathVerse-Solid，以答案准确率衡量；另用模糊 Jaccard 评价形式解析。
+- **关键结果 / 消融** · 表 1 中 Gemini 2.5 Pro 直接作答 54.2%，Hilbert-Geo 使用该模型解析为 77.3%，使用人工条件为 78.7%；后者仍低于人工解答 81.8%。
+- **适用条件 / 局限** · 依赖领域谓词与定理库覆盖有效解法，人工条件下未解决的案例也可能来自搜索和规则覆盖。
+
+**可复用机制** · 对图文推理接符号求解器时，可以用人工形式化输入测试求解上限，再与真实解析的端到端结果对照。见表 1 及第 6.3 节。
+
+<a id="paper-opent2m-partwise-2d-motion-quantization"></a>
+
+## OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cao_OpenT2M_No-frill_Motion_Generation_with_Open-source_Large-scale_High-quality_Data_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cao_OpenT2M_No-frill_Motion_Generation_with_Open-source_Large-scale_High-quality_Data_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 把人体动作压到单一时间轴可能破坏同时发生的局部运动与部位依赖。
+- **核心创新 / 方法** · 2D-PRQ 按身体部位组织动作，并用二维卷积在空间与时间轴共同做表征，再残差量化。
+- **Baseline** · 比较 VQ-VAE、FSQ、RQ-VAE 和 PRQ，并用相同量化层数对照普通 PRQ 与 2D-PRQ。
+- **Benchmark** · HumanML3D、Motion-X 与 OpenT2M 的动作重建，以 FID 和 MPJPE 衡量；另外评估文字到动作生成。
+- **关键结果 / 消融** · 表 6 四层 2D-PRQ 与 PRQ 的 MPJPE 在 HumanML3D 为 28.628 与 28.703，Motion-X 为 54.493 与 73.989，OpenT2M 为 49.134 与 95.743。
+- **适用条件 / 局限** · 依赖可定义的部位划分和固定拓扑；同一重建改进未必对应新骨架或少量数据上的生成表现。
+
+**可复用机制** · 动作表示可以按身体部位保留空间轴并与时间联合量化；先在不同动作复杂度的数据上实测重建，再决定是否换分词器。见表 6。
+
+<a id="paper-genmask"></a>
+
+## GenMask: Adapting DiT for Segmentation via Direct Mask Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_GenMask_Adapting_DiT_for_Segmentation_via_Direct_Mask_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_GenMask_Adapting_DiT_for_Segmentation_via_Direct_Mask_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接借用图像去噪分布训练掩码会忽略掩码潜变量的高可分性。
+- **核心创新 / 方法** · 用预训练 DiT 直接生成掩码，并为二值目标增加对极端噪声级的采样。
+- **Baseline** · 与间接提取生成特征及其他时间步采样策略比较。
+- **Benchmark** · 正文表1–3报告指代分割及 ReasonSeg，表3比较采样策略。
+- **关键结果 / 消融** · 正文展示用面向掩码的采样调整后可直接做生成式分割。
+- **适用条件 / 局限** · 依赖掩码编码器保留窄区域与边界，软标签或多类别掩码必须重新测噪声分布。
+
+**可复用机制** · 根据输出潜分布设定扩散采样日程，二值掩码与自然图像分开对照。
+
+<a id="paper-dpl-missing-modality"></a>
+
+## DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_DPL_Decoupled_Prototype_Learning_for_Enhancing_Robustness_of_Vision-Language_Transformers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_DPL_Decoupled_Prototype_Learning_for_Enhancing_Robustness_of_Vision-Language_Transformers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 用同一分类头处理完整和缺失输入会让类别证据不对称。
+- **核心创新 / 方法** · 依缺失模式选择原型，再分解为图像和文字分量以计算类别分数。
+- **Baseline** · 正文表3比较全连接头、DePT 和 DPL，表1–2变化缺失率及骨干。
+- **Benchmark** · 正文包含 Hateful-Memes 等数据，按不同模态可得条件测分类表现和 AUROC。
+- **关键结果 / 消融** · 正文在多骨干和缺失场景检验分类头的收益。
+- **适用条件 / 局限** · 未见缺失组合和低质量但未缺失的模态需要独立评估。
+
+**可复用机制** · 缺失模态时不仅调整输入提示，也应让分类原型按实际可用模态变化。
+
+<a id="paper-fedcart-defense"></a>
+
+## FedCART: Tackling Long-Tailed Distributions in Federated Adversarial Training via Classifier Refinement
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qin_FedCART_Tackling_Long-Tailed_Distributions_in_Federated_Adversarial_Training_via_Classifier_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qin_FedCART_Tackling_Long-Tailed_Distributions_in_Federated_Adversarial_Training_via_Classifier_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全局长尾与客户端异质性可能使低频类表现被整体分数掩盖。
+- **核心创新 / 方法** · 用分类器精化处理特征偏斜与分类边界问题，改善防御训练。
+- **Baseline** · 与常用联邦稳健训练方法对照，并按类频率和异质性分层。
+- **Benchmark** · 正文表1–3使用不同数据和异质性条件，分别报告自然和稳健准确率。
+- **关键结果 / 消融** · 正文定位长尾条件下的表征及分类器问题，并报告不同类别组表现。
+- **适用条件 / 局限** · 结论依赖分组样本量和客户端构成，未测部署条件需要重新核查。
+
+**可复用机制** · 联邦稳健训练要按类别频率分拆干净与稳健表现，再判断是否进行分类器精化。
+
+<a id="paper-aemg"></a>
+
+## Reading Your Actions: Learning Generalizable Action Representations via Pre-training AEMG
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Reading_Your_Actions_Learning_Generalizable_Action_Representations_via_Pre-training_AEMG_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Reading_Your_Actions_Learning_Generalizable_Action_Representations_via_Pre-training_AEMG_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 设备、人员和动作协议差异使直接共享原始时序表示失效。
+- **核心创新 / 方法** · 用收缩级词元编码基础动态，利用跨设备信号和自监督时序上下文预训练。
+- **Baseline** · 对照现有肌电表示及不同少样本适配预算。
+- **Benchmark** · 正文表1做留一受试者识别，表2比较少样本适配。
+- **关键结果 / 消融** · 正文报告未见受试者手势识别和少样本迁移，并将两种设置区分。
+- **适用条件 / 局限** · 依赖设备与个体的收缩事件可对齐，传感布置变化需要单独复验。
+
+**可复用机制** · 生理时序预训练可先将局部收缩与跨时模式分成不同层级，再按未见受试者和设备分别验证。
+
+<a id="paper-dfa-frequency-affinity"></a>
+
+## Frequency-Aware Affinity for Weakly Supervised Semantic Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Frequency-Aware_Affinity_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Frequency-Aware_Affinity_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉注意力的平滑性会让伪标签混过边缘或无法覆盖内部。
+- **核心创新 / 方法** · 用低频相关增强类内一致，并保留高频关联约束边界。
+- **Baseline** · 对照原始类别激活结果与仅使用分频单支路的变体。
+- **Benchmark** · 正文表1–3在 PASCAL 等分割上分开报告种子、伪标签及最终结果。
+- **关键结果 / 消融** · 正文比较不同模块对初始定位和最终分割的作用。
+- **适用条件 / 局限** · 高频不一定是真实边界，噪声和纹理复杂时要控制误扩散。
+
+**可复用机制** · 弱监督分割扩散伪标签时可将低频语义和高频边界作为不同传播信号。
+
+<a id="paper-openvision-2-generative-pretraining"></a>
+
+## OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_OpenVision_2_A_Family_of_Generative_Pretrained_Visual_Encoders_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_OpenVision_2_A_Family_of_Generative_Pretrained_Visual_Encoders_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 对比目标额外需要文本编码器和大批次资源，其下游增益不明。
+- **核心创新 / 方法** · 移除 OpenVision 文本编码器与对比损失，仅由描述生成监督视觉编码。
+- **Baseline** · 原 OpenVision、CLIP 变体，接入 LLaVA-1.5 与 Open-LLaVA-Next 对照。
+- **Benchmark** · 多模态理解和 OCR 等任务；TPU v4-512 测训练效率。
+- **关键结果 / 消融** · ViT-L/14 训练从83小时到57小时，显存从24.5 GB到13.8 GB；下游整体有竞争力。
+- **适用条件 / 局限** · 结论主要针对接入生成式解码器，检索等依赖直接图文嵌入对齐的任务需另验。
+
+**可复用机制** · 面向多模态解码器预训练视觉编码器时，把只用描述损失作为单独受控的低成本基线。
+
+<a id="paper-failureatlas"></a>
+
+## FailureAtlas: Mapping the Failure Landscape of T2I Models via Active Exploration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_FailureAtlas_Mapping_the_Failure_Landscape_of_T2I_Models_via_Active_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_FailureAtlas_Mapping_the_Failure_Landscape_of_T2I_Models_via_Active_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定提示集合难定位哪种条件组合触发错误，也难估计遗漏范围。
+- **核心创新 / 方法** · 以可组合概念展开主动诊断并收缩到较小错误切片，之后关联训练数据稀缺性。
+- **Baseline** · 表1与固定评测的概念覆盖比较，并分析多个 Stable Diffusion 模型。
+- **Benchmark** · 概念和属性覆盖、错误切片大小及训练数据频次，表2按模型和层级报告。
+- **关键结果 / 消融** · SD1.5 发现超过24.7万个切片，作者强调不能直接把数量作为跨模型排名。
+- **适用条件 / 局限** · 诊断依赖评价器、概念词表及训练统计，数据稀缺与错误的相关性不能确立全部因果。
+
+**可复用机制** · 审计生成模型时搜索导致稳定错误的最小概念组合，并用训练分布频次检查覆盖缺口。
+
+<a id="paper-srcp-visual-unsupervised-rl"></a>
+
+## Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Saliency-Guided_Representation_with_Consistency_Policy_Learning_for_Visual_Unsupervised_Reinforcement_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Saliency-Guided_Representation_with_Consistency_Policy_Learning_for_Visual_Unsupervised_Reinforcement_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高维观测下后继目标可能关注无关区域，损害零样本技能控制。
+- **核心创新 / 方法** · 引入显著性引导的动态任务，独立于后继训练，并以快速一致性策略建模多种可能技能。
+- **Baseline** · 已有后继类无监督策略及不同表征和策略消融。
+- **Benchmark** · 16项零样本控制任务，四数据集四种子，比较回报；RND 用于模块和参数消融。
+- **关键结果 / 消融** · 表1–3报告跨任务及领域回报，并检查显著性与策略模块。
+- **适用条件 / 局限** · 环境动态不易从图像辨识时，显著性代理可能误选背景，仿真不能代替实机。
+
+**可复用机制** · 视觉无监督强化学习先单独学习动力相关表征，再估计后继测度和训练技能策略。
+
+<a id="paper-i-scene-instance-generator"></a>
+
+## I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ling_I-Scene_3D_Instance_Models_are_Implicit_Generalizable_Spatial_Learners_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ling_I-Scene_3D_Instance_Models_are_Implicit_Generalizable_Spatial_Learners_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 真实场景组合规模有限，场景模型容易记忆布局。
+- **核心创新 / 方法** · 在视角中心空间把实例生成器调整为可编码场景关系的模型，并用无语义随机对象组合监督。
+- **Baseline** · 与 PartCrafter 等景物生成方法比较，消融场景上下文、坐标与无语义组合。
+- **Benchmark** · 3D-FRONT、BlendSwap、Scenethesis，按场景和物体测 Chamfer、F-score 和边界框体积 IoU。
+- **关键结果 / 消融** · 表1–3给出未见组合表现及随机组合监督的效果。
+- **适用条件 / 局限** · 实例先验覆盖受限，几何关系不一定对应语义、物理支撑或可操作性。
+
+**可复用机制** · 场景训练数据少时，用预训练单物体生成器的几何先验在随机组合场景中学习布局。
+
+<a id="paper-synthetic-data-aesthetic-bias"></a>
+
+## When Pretty Isn't Useful: Investigating Why Modern Text-to-Image Models Fail as Reliable Training Data Generators
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Adamkiewicz_When_Pretty_Isnt_Useful_Investigating_Why_Modern_Text-to-Image_Models_Fail_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Adamkiewicz_When_Pretty_Isnt_Useful_Investigating_Why_Modern_Text-to-Image_Models_Fail_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 生成外观指标变好可能与训练样本对真实分布的覆盖下降同时发生。
+- **核心创新 / 方法** · 以受控类别提示为2022–2025年的生成器构建合成集，训练固定分类器，再按真实测试和覆盖指标比较。
+- **Baseline** · 不同年代模型的合成训练集，以标准 ResNet-50 和真实测试作为共同设置。
+- **Benchmark** · ImageNet-1K 的200类别子集，合成训练并在真实相应类别评测，同时分析语义匹配和分布。
+- **关键结果 / 消融** · 图1及正文报告新生成器的审美和提示对齐更好，但真实分类准确率呈下降，伴随更集中覆盖。
+- **适用条件 / 局限** · 仅用所测模型和分类条件，不代表合成数据用于检测或操作时必然同趋势。
+
+**可复用机制** · 选择合成训练数据生成器时，用真实下游准确率及覆盖度作门槛，不以图好看或提示匹配选型。
+
+<a id="paper-refine-active-learning"></a>
+
+## Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huseljic_Cleaning_the_Pool_Progressive_Filtering_of_Unlabeled_Pools_in_Deep_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huseljic_Cleaning_the_Pool_Progressive_Filtering_of_Unlabeled_Pools_in_Deep_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只用不确定性或代表性在不同轮次和数据集的表现不稳。
+- **核心创新 / 方法** · 迭代筛选候选并以覆盖目标组批，使不同策略偏好的样本都可能留下。
+- **Baseline** · 单策略主动学习和已有组合方法，另检验对单策略加预筛。
+- **Benchmark** · 六个分类集、三个基础模型，另测音频频谱；以学习曲线面积等评价。
+- **关键结果 / 消融** · 作者报告多数据集组合改善，音频例说明预筛本身也可带来收益。
+- **适用条件 / 局限** · 选择依据及过滤强度影响少数类，集成查询比单策略有额外成本。
+
+**可复用机制** · 每轮主动学习先用多个策略交替缩小未标注池，再按不同信息价值的覆盖选最终批次。

@@ -1136,5 +1136,9 @@
 - [Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation](../conferences/cvpr-2026/cards.md#paper-iris-spectral-depth)
 - [Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-ditta-video-distillation)
 - [Scaling View Synthesis Transformers](../conferences/cvpr-2026/cards.md#paper-svsm-compute-matched-scaling)
+- [Cross-Domain Few-Shot Segmentation via Multi-view Progressive Adaptation](../conferences/cvpr-2026/cards.md#paper-mpa-progressive-query-view-adaptation)
+- [GenMask: Adapting DiT for Segmentation via Direct Mask Generation](../conferences/cvpr-2026/cards.md#paper-genmask)
+- [Frequency-Aware Affinity for Weakly Supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-dfa-frequency-affinity)
+- [I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](../conferences/cvpr-2026/cards.md#paper-i-scene-instance-generator)
 
 <!-- conference-classification:end -->

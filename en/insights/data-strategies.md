@@ -385,5 +385,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Generalizable Video Quality Assessment via Weak-to-Strong Learning](../../conferences/cvpr-2026/cards.md#paper-weak-to-strong-video-quality)
 - [DiG: Differential Grounding for Enhancing Fine-Grained Perception in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-dig-differential-grounding)
 - [MDS-VQA: Model-Informed Data Selection for Video Quality Assessment](../../conferences/cvpr-2026/cards.md#paper-mds-vqa)
+- [OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning](../../conferences/cvpr-2026/cards.md#paper-openvision-2-generative-pretraining)
+- [Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](../../conferences/cvpr-2026/cards.md#paper-refine-active-learning)
 
 <!-- conference-classification:end -->

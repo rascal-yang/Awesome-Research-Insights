@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 747 篇，其中 490 篇暂收录、257 篇排除，另有 3,295 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 777 篇，其中 506 篇暂收录、271 篇排除，另有 3,265 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -496,3 +496,19 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 747 �
 | 计算机视觉 | 知识蒸馏 | [Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation](cards.md#paper-ditta-video-distillation) | 只能短时调用视频教师时，用开头片段蒸馏时序一致性，随后让轻量学生独立预测。 |
 | 计算机视觉 | 评测与分析 | [Scaling View Synthesis Transformers](cards.md#paper-svsm-compute-matched-scaling) | 比较新视角模型架构时对齐训练 FLOPs，检验编码器—解码器是否真的不如纯解码器。 |
 | 多模态学习 | 微调与适配 | [Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration](cards.md#paper-multimodal-gaussian-tta) | 测试时音视频质量不对称时，用类别条件高斯校准并纠正跨模态分布偏差。 |
+| 计算机视觉 | 训练策略 | [Cross-Domain Few-Shot Segmentation via Multi-view Progressive Adaptation](cards.md#paper-mpa-progressive-query-view-adaptation) | 目标域只有少量监督时，可分别提高增强视图的难度和数量，并比较各进度对适配效果的影响。见表 7。 |
+| 多模态学习 | 对比学习 | [No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models](cards.md#paper-c2lip-concept-phrase-contrastive-binding) | 视觉语言模型的属性绑定不佳时，可先增加短概念短语监督，再核对概念条件池化的边际收益和通用检索表现。见表 5。 |
+| 多模态学习 | 训练策略 | [CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection](cards.md#paper-ccf-complementary-sensor-masking) | 一个传感器主导融合时，可对照互补空间遮盖与原训练，检验弱模态是否成为有用后备。见表 3。 |
+| 多模态学习 | 推理策略 | [Hilbert-Geo: Solving Solid Geometric Problems by Neural-Symbolic Reasoning](cards.md#paper-hilbert-geo-formal-parse-solver-control) | 对图文推理接符号求解器时，可以用人工形式化输入测试求解上限，再与真实解析的端到端结果对照。见表 1 及第 6.3 节。 |
+| 机器人学 | 表征学习 | [OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data](cards.md#paper-opent2m-partwise-2d-motion-quantization) | 动作表示可以按身体部位保留空间轴并与时间联合量化；先在不同动作复杂度的数据上实测重建，再决定是否换分词器。见表 6。 |
+| 计算机视觉 | 训练策略 | [GenMask: Adapting DiT for Segmentation via Direct Mask Generation](cards.md#paper-genmask) | 根据输出潜分布设定扩散采样日程，二值掩码与自然图像分开对照。 |
+| 多模态学习 | 模型架构 | [DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities](cards.md#paper-dpl-missing-modality) | 缺失模态时不仅调整输入提示，也应让分类原型按实际可用模态变化。 |
+| 机器学习基础与统计 | 训练策略 | [FedCART: Tackling Long-Tailed Distributions in Federated Adversarial Training via Classifier Refinement](cards.md#paper-fedcart-defense) | 联邦稳健训练要按类别频率分拆干净与稳健表现，再判断是否进行分类器精化。 |
+| 机器学习基础与统计 | 训练策略 | [Reading Your Actions: Learning Generalizable Action Representations via Pre-training AEMG](cards.md#paper-aemg) | 生理时序预训练可先将局部收缩与跨时模式分成不同层级，再按未见受试者和设备分别验证。 |
+| 计算机视觉 | 训练策略 | [Frequency-Aware Affinity for Weakly Supervised Semantic Segmentation](cards.md#paper-dfa-frequency-affinity) | 弱监督分割扩散伪标签时可将低频语义和高频边界作为不同传播信号。 |
+| 多模态学习 | 训练与数据策略 | [OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning](cards.md#paper-openvision-2-generative-pretraining) | 面向多模态解码器预训练视觉编码器时，把只用描述损失作为单独受控的低成本基线。 |
+| 多模态学习 | 评测与分析 | [FailureAtlas: Mapping the Failure Landscape of T2I Models via Active Exploration](cards.md#paper-failureatlas) | 审计生成模型时搜索导致稳定错误的最小概念组合，并用训练分布频次检查覆盖缺口。 |
+| 机器人学 | 强化学习 | [Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](cards.md#paper-srcp-visual-unsupervised-rl) | 视觉无监督强化学习先单独学习动力相关表征，再估计后继测度和训练技能策略。 |
+| 计算机视觉 | 表示学习 | [I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners](cards.md#paper-i-scene-instance-generator) | 场景训练数据少时，用预训练单物体生成器的几何先验在随机组合场景中学习布局。 |
+| 机器学习基础 | 评测与分析 | [When Pretty Isn't Useful: Investigating Why Modern Text-to-Image Models Fail as Reliable Training Data Generators](cards.md#paper-synthetic-data-aesthetic-bias) | 选择合成训练数据生成器时，用真实下游准确率及覆盖度作门槛，不以图好看或提示匹配选型。 |
+| 机器学习基础 | 训练与数据策略 | [Cleaning the Pool: Progressive Filtering of Unlabeled Pools in Deep Active Learning](cards.md#paper-refine-active-learning) | 每轮主动学习先用多个策略交替缩小未标注池，再按不同信息价值的覆盖选最终批次。 |

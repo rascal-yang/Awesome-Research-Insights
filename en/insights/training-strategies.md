@@ -990,5 +990,11 @@ Training schedules, curricula, and task or stage composition.
 - [Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-iris-spectral-depth)
 - [Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-ditta-video-distillation)
 - [Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration](../../conferences/cvpr-2026/cards.md#paper-multimodal-gaussian-tta)
+- [Cross-Domain Few-Shot Segmentation via Multi-view Progressive Adaptation](../../conferences/cvpr-2026/cards.md#paper-mpa-progressive-query-view-adaptation)
+- [CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-ccf-complementary-sensor-masking)
+- [GenMask: Adapting DiT for Segmentation via Direct Mask Generation](../../conferences/cvpr-2026/cards.md#paper-genmask)
+- [FedCART: Tackling Long-Tailed Distributions in Federated Adversarial Training via Classifier Refinement](../../conferences/cvpr-2026/cards.md#paper-fedcart-defense)
+- [Reading Your Actions: Learning Generalizable Action Representations via Pre-training AEMG](../../conferences/cvpr-2026/cards.md#paper-aemg)
+- [Frequency-Aware Affinity for Weakly Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-dfa-frequency-affinity)
 
 <!-- conference-classification:end -->

@@ -895,5 +895,7 @@ Robot perception, policy learning, planning, and control.
 - [REACH: Explicit Recovery Behavior for Diffusion Policies](../../conferences/cvpr-2026/cards.md#paper-reach-error-conditioned-action-recovery)
 - [Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols](../../conferences/cvpr-2026/cards.md#paper-vifailback)
 - [PAMotion: Physics-Aware Motion Generation for Full-Body Interaction with Multiple Objects](../../conferences/cvpr-2026/cards.md#paper-pamotion-contact-acceleration)
+- [OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data](../../conferences/cvpr-2026/cards.md#paper-opent2m-partwise-2d-motion-quantization)
+- [Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-srcp-visual-unsupervised-rl)
 
 <!-- conference-classification:end -->

@@ -750,5 +750,6 @@
 - [Write Where It Matters: Policy-Guided Watermarks for 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-adaptive-3d-watermark-quality-tradeoff)
 - [Leveraging Verifier-Based Reinforcement Learning in Image Editing](../conferences/cvpr-2026/cards.md#paper-edit-r1-verifier-reward)
 - [From Failure to Feedback: Group Revision Unlocks Hard Cases in Object-Level Grounding](../conferences/cvpr-2026/cards.md#paper-group-revision-relative-reward)
+- [Saliency-Guided Representation with Consistency Policy Learning for Visual Unsupervised Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-srcp-visual-unsupervised-rl)
 
 <!-- conference-classification:end -->
