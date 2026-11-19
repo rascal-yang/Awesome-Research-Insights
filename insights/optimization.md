@@ -720,5 +720,7 @@
 - [Model Merging in the Essential Subspace](../conferences/cvpr-2026/cards.md#paper-feature-shift-pca-model-merging)
 - [DABO: Difficulty-Aware Bayesian Optimization with Diffusion-Learned Priors](../conferences/cvpr-2026/cards.md#paper-dabo-difficulty-priors)
 - [Bypassing the Transport Plan: Dynamic Reweighting for Out-of-Distribution Detection with Optimal Transport](../conferences/cvpr-2026/cards.md#paper-drew-ood-reweighting)
+- [MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization](../conferences/cvpr-2026/cards.md#paper-modulewise-pretrained-proximity-vla)
+- [ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction](../conferences/cvpr-2026/cards.md#paper-clipgstream-inherited-anchors)
 
 <!-- conference-classification:end -->

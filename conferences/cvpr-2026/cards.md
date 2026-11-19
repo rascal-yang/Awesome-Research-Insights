@@ -30736,3 +30736,288 @@
 - **适用条件 / 局限** · 正交映射要求骨干嵌入保留任务特征，复杂非线性漂移可能无法修复。
 
 **可复用机制** · 在骨干只提供黑盒嵌入时，用客户端正交变换与共享分类器分担个性化和泛化。
+
+<a id="paper-reference-from-masked-video-text-only"></a>
+
+## Scaling Zero-Shot Reference-to-Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Scaling_Zero-Shot_Reference-to-Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Scaling_Zero-Shot_Reference-to-Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 参考身份的视频生成难获取大规模高质量三元组。
+- **核心创新 / 方法** · 只用图文配对的视频样本，遮蔽部分视频并改变掩码形态避免直接复制。
+- **Baseline** · 比较显式参考训练模型和不同掩码配置。
+- **Benchmark** · OpenS2V-Eval，测身份一致性及生成质量。
+- **关键结果 / 消融** · 正文表 1 报告零样本和显式训练的对照，表 2 评估掩码策略。
+- **适用条件 / 局限** · 视频内提取的参考分布可能比真实任意参考更窄。
+
+**可复用机制** · 可用遮蔽视频训练从已有帧提炼参考条件，绕开显式参考图–视频–文本三元组。
+
+<a id="paper-modulewise-pretrained-proximity-vla"></a>
+
+## MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_MAPS_Preserving_Vision-Language_Representations_via_Module-Wise_Proximity_Scheduling_for_Better_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_MAPS_Preserving_Vision-Language_Representations_via_Module-Wise_Proximity_Scheduling_for_Better_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 冻结过强会欠适配，统一权重约束忽略各模块角色，全部微调又会降低迁移。
+- **核心创新 / 方法** · 使用分模块的近端约束和线性放松调度。
+- **Baseline** · 比较冻结、统一训练和不同模块设定，在 MiniVLA-VQ、MiniVLA-OFT、OpenVLA-OFT 上验证。
+- **Benchmark** · SimplerEnv 等，测域内和域外机器人任务。
+- **关键结果 / 消融** · 表 1、2 分开报告冻结和稳健微调对域内外表现的影响。
+- **适用条件 / 局限** · 调度顺序是经验结论，骨干架构或控制任务变化后需重新选择。
+
+**可复用机制** · VLA 微调可按模块以不同速度放松初始权重约束，保护视觉先验并允许动作相关特征变化。
+
+<a id="paper-failure-driven-narrative-video-retrieval"></a>
+
+## SVAgent: Storyline-guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_SVAgent_Storyline-guided_Long_Video_Understanding_via_Cross-Modal_Multi-Agent_Collaboration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_SVAgent_Storyline-guided_Long_Video_Understanding_via_Cross-Modal_Multi-Agent_Collaboration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只检索单个相关帧不能表示事件之间的演化和因果。
+- **核心创新 / 方法** · 逐步构造叙事，让改进代理检查历史失败并建议补充帧，再跨模态复核。
+- **Baseline** · 对比 Qwen2.5VL-7B 原始及不同代理模块配置。
+- **Benchmark** · 长视频理解与问答基准。
+- **关键结果 / 消融** · 主表比较长视频理解，表 2 分析各组件。
+- **适用条件 / 局限** · 依赖失败反馈可用，叙事错误可能传到后续取证。
+
+**可复用机制** · 长视频问答可让已有叙事和历史回答错误共同驱动下一轮取证。
+
+<a id="paper-geometry-aware-optimal-transport-video-distillation"></a>
+
+## VDOT: Efficient Unified Video Creation via Optimal Transport Distillation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_VDOT_Efficient_Unified_Video_Creation_via_Optimal_Transport_Distillation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_VDOT_Efficient_Unified_Video_Creation_via_Optimal_Transport_Distillation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅用 KL 相关目标匹配教师和学生的分数分布可能出现梯度塌缩。
+- **核心创新 / 方法** · 在分布匹配蒸馏中加入最优传输差异，统一视频多条件生成。
+- **Baseline** · 比较 UVCBench 上各生成方案及不同蒸馏步骤。
+- **Benchmark** · UVCBench 的多项视频生成设置，报告质量、条件对齐及生成步数。
+- **关键结果 / 消融** · 表 2 列出 Wan-14B 的四步版本对照。
+- **适用条件 / 局限** · 收益依赖传输距离设计和其计算预算。
+
+**可复用机制** · 少步生成蒸馏可在分数分布之间增加传输距离，显式约束几何并缓解梯度消失。
+
+<a id="paper-motion-conditioned-adaptive-burst-exposure"></a>
+
+## Dynamic Exposure Burst Image Restoration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Dynamic_Exposure_Burst_Image_Restoration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Dynamic_Exposure_Burst_Image_Restoration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 预先固定的曝光组合在运动或暗背景下无法同时控制噪声和模糊。
+- **核心创新 / 方法** · 根据预览、运动幅度和增益预测各帧曝光，用可微 burst 模拟联合训练复原。
+- **Baseline** · 对比现有曝光与复原管线，并消融预测输入。
+- **Benchmark** · 合成测试和真实相机，分别测恢复质量。
+- **关键结果 / 消融** · 正文表 2 单列真实设备，表 3 对比各输入。
+- **适用条件 / 局限** · 需要能动态设定曝光的传感器，模拟器和实际摄影误差会影响效果。
+
+**可复用机制** · 可联合学习采集和复原，让曝光按现场运动和亮度动态调整。
+
+<a id="paper-self-supervised-qa-reward-document-structure"></a>
+
+## TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_TRivia_Self-supervised_Fine-tuning_of_Vision-Language_Models_for_Table_Recognition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_TRivia_Self-supervised_Fine-tuning_of_Vision-Language_Models_for_Table_Recognition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高质量表格结构标签昂贵，输出合法也不保证内容完整。
+- **核心创新 / 方法** · 让注意力引导模块提出表格问题，奖励依据生成结构能否支持正确回答。
+- **Baseline** · 与专家表格模型、通用 VLM 和文档微调模型共 12 项比较。
+- **Benchmark** · 四个表格识别基准，用 TEDS 和 S-TEDS。
+- **关键结果 / 消融** · 正文表 1 报告 3B 模型四基准比较结果。
+- **适用条件 / 局限** · 奖励受所提问题覆盖与可验证性制约，可能忽略不常被问到的表格细节。
+
+**可复用机制** · 可以用图像可回答的问题检验生成结构的有效性，从未标注文档获得强化学习奖励。
+
+<a id="paper-audiostory-event-bridging"></a>
+
+## AudioStory: Generating Long-Form Narrative Audio with Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Guo_AudioStory_Generating_Long-Form_Narrative_Audio_with_Large_Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Guo_AudioStory_Generating_Long-Form_Narrative_Audio_with_Large_Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 短音频生成器难处理包含多事件转换的长指令。
+- **核心创新 / 方法** · 语言模型拆解叙事，桥接查询用于事件内语义对齐，残差查询用于事件间连贯。
+- **Baseline** · 对照已有长音频生成与理解方案，并比较指令输入设置。
+- **Benchmark** · 正文长音频生成评测及单段音频理解，报告指令匹配和连贯性。
+- **关键结果 / 消融** · 正文分别比较叙事生成和单事件理解，检验跨事件条件。
+- **适用条件 / 局限** · 拆解错误会传到后续音频，重叠事件和跨模态同步需另验。
+
+**可复用机制** · 长序列生成先拆事件，再用独立条件维持事件内语义与事件间连续性。
+
+<a id="paper-pcd-reliable-detection-distance"></a>
+
+## Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Perception_Characteristics_Distance_Measuring_Stability_and_Robustness_of_Perception_System_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_Perception_Characteristics_Distance_Measuring_Stability_and_Robustness_of_Perception_System_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整体检测精度不能表达传感器在不同距离和雨强下的稳定性。
+- **核心创新 / 方法** · PCD 估计给定可靠性条件下的最远距离，aPCD 在多个质量和概率阈值之间取平均。
+- **Baseline** · 比较不同传感器、天气及检测规则的结果。
+- **Benchmark** · SensorRainFall 包含车载相机、雷达和 LiDAR 在受控雨况下的观测。
+- **关键结果 / 消融** · 正文给出典型基准结果，显示稳定距离可补充聚合精度。
+- **适用条件 / 局限** · 平均化可能掩盖特定安全阈值，决策用途需按真实动作时间窗验证。
+
+**可复用机制** · 按检测概率及质量阈值计算可靠感知距离，再将结果和控制决策关联。
+
+<a id="paper-dialoguevpr-clarifying-loop"></a>
+
+## DialogueVPR: Towards Conversational Visual Place Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_DialogueVPR_Towards_Conversational_Visual_Place_Recognition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_DialogueVPR_Towards_Conversational_Visual_Place_Recognition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一次性语言描述容易不完整，直接检索难消除相似地点歧义。
+- **核心创新 / 方法** · DlgPR 把视觉地点检索改为多轮对话推理流程。
+- **Baseline** · 比较静态细粒度长描述与互动式检索。
+- **Benchmark** · 正文五个地理区域，报告第3轮和第5轮召回与静态检索指标。
+- **关键结果 / 消融** · 正文结果给出不同轮数以及静态设置的直接对照。
+- **适用条件 / 局限** · 依赖对话能补充可检索线索，用户不可用、给出错误描述时需单独测试。
+
+**可复用机制** · 当地点检索信息不足时，通过追问区分候选并维护多轮空间假设。
+
+<a id="paper-rcnf-manipulation-anomaly"></a>
+
+## RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_RC-NF_Robot-Conditioned_Normalizing_Flow_for_Real-Time_Anomaly_Detection_in_Robotic_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_RC-NF_Robot-Conditioned_Normalizing_Flow_for_Real-Time_Anomaly_Detection_in_Robotic_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 模仿策略遇到未见状态可能继续执行，收集真实异常样本又昂贵。
+- **核心创新 / 方法** · RC-NF 分开编码机器人和物体状态，以概率密度给操控过程打异常分数。
+- **Baseline** · 与现有异常检测基线比较，在实验中去除条件点查询等模块。
+- **Benchmark** · LIBERO-Anomaly-10，含三类操控异常及运行时监测。
+- **关键结果 / 消融** · 正文表1比较检测效果，表2检验机器人条件机制。
+- **适用条件 / 局限** · 需要正常轨迹覆盖合法变体，低似然也可能是罕见但正确操作，干预阈值需实测。
+
+**可复用机制** · 用正常操控轨迹拟合机器人条件的对象状态密度，以便实时发现异常并干预。
+
+<a id="paper-clipgstream-inherited-anchors"></a>
+
+## ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_ClipGStream_Clip-Stream_Gaussian_Splatting_for_Any_Length_and_Any_Motion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_ClipGStream_Clip-Stream_Gaussian_Splatting_for_Any_Length_and_Any_Motion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐帧流式拟合会闪烁，全局长片联合拟合难满足内存预算。
+- **核心创新 / 方法** · ClipGStream 各片用独立时空场与锚点残差，跨片继承部分状态。
+- **Baseline** · 比较逐帧及按片的传统高斯重建方法。
+- **Benchmark** · Long 360 和 VRU（GZ）多视图动态重建，比较视觉保真和时间稳定。
+- **关键结果 / 消融** · 正文表1、2报告长序列与复杂运动场景表现。
+- **适用条件 / 局限** · 片段边界如果对应突变或较长遮挡，继承状态可能失效，需重新判定锚点。
+
+**可复用机制** · 动态长序列用短片局部优化，在片间继承关系锚点及解码器保持连续。
+
+<a id="paper-unicorrn-shared-geometry-matching"></a>
+
+## UniCorrn: Unified Correspondence Transformer Across 2D and 3D
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Goswami_UniCorrn_Unified_Correspondence_Transformer_Across_2D_and_3D_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Goswami_UniCorrn_Unified_Correspondence_Transformer_Across_2D_and_3D_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 分别构建每种传感器组合的网络会重复学习几何匹配。
+- **核心创新 / 方法** · UniCorrn 用模态专用骨干和共享编解码器，解码时分开外观与位置流。
+- **Baseline** · 比较任务专用匹配及不同共享模式，做匹配范式消融。
+- **Benchmark** · 图像–图像、图像–点云和点云–点云三类几何对应设置。
+- **关键结果 / 消融** · 正文比较各模态组合及解码设置，验证同参数跨任务的可行性。
+- **适用条件 / 局限** · 依赖各输入可得到可靠位置特征，低共视和未知传感器时需验证共享是否引入负迁移。
+
+**可复用机制** · 对 2D 和 3D 输入保留模态专用前端，但共享求对应关系的编码和查询。
+
+<a id="paper-gift-irreplaceable-frame-selection"></a>
+
+## GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ma_GIFT_Global_Irreplaceability_Frame_Targeting_for_Efficient_Video_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_GIFT_Global_Irreplaceability_Frame_Targeting_for_Efficient_Video_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 分开贪心排序相关性和多样性易把独特但无关的噪声选入。
+- **核心创新 / 方法** · GIFT 以指向多样性构造统一分数，用预算自适应细化从关键证据转向时序覆盖。
+- **Baseline** · 在 LLaVA-Video-7B 等骨干对比已有选帧及有无 GIFT。
+- **Benchmark** · 多套视频理解问答基准，在有限输入帧下比较表现。
+- **关键结果 / 消融** · 正文表1、2分骨干检验推理阶段使用该机制的效果。
+- **适用条件 / 局限** · 相关性打分若漏检短事件会排除所需证据，强时间顺序问题须另测。
+
+**可复用机制** · 选帧同时考虑与问题相关和无法被其他帧替代的证据，先保核心再填时间空缺。
+
+<a id="paper-topomesh-shared-dmc-topology"></a>
+
+## TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Luo_TopoMesh_High-Fidelity_Mesh_Autoencoding_via_Topological_Unification_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Luo_TopoMesh_High-Fidelity_Mesh_Autoencoding_via_Topological_Unification_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 真值网格拓扑不固定，隐式体素输出无法直接做逐网格监督。
+- **核心创新 / 方法** · TopoMesh 将原网格转换到 Dual Marching Cubes 框架，再训练稀疏体素 VAE。
+- **Baseline** · 比较重网格算法及 Trellis 等三维 VAE。
+- **Benchmark** · 网格重采样及自动编码，含 Chamfer 距离与高分辨率重建。
+- **关键结果 / 消融** · 正文表1、2分别报告重采样和重建结果，支持直接匹配细节。
+- **适用条件 / 局限** · 细结构仍受网格离散分辨率影响，拓扑变化及动态物体需要新评测。
+
+**可复用机制** · 先给预测与真值统一的拓扑框架，再直接监督网格对应，保护尖锐结构。
+
+<a id="paper-talo-propagated-spline-submap-alignment"></a>
+
+## TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_TALO_Pushing_3D_Vision_Foundation_Models_Towards_Globally_Consistent_Online_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_TALO_Pushing_3D_Vision_Foundation_Models_Towards_Globally_Consistent_Online_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅配准相邻窗口的整体变换，无法修正空间非均匀误差。
+- **核心创新 / 方法** · 使用薄板样条变换和跨时间传播的控制点，并以点无关子图配准缓解噪声。
+- **Baseline** · 按相同三维基础模型比较既有窗口对齐方案。
+- **Benchmark** · Waymo 轨迹，以 ATE、相对平移误差和相对旋转误差 RMSE 衡量。
+- **关键结果 / 消融** · 表 1 明确标识 ATE 超过真值轨迹长度 5% 的失败，便于检查尾部误差。
+- **适用条件 / 局限** · 高自由度对齐取决于控制点覆盖，几何长期缺失时仍会失效。
+
+**可复用机制** · 通过跨窗口传播的控制点修正局部三维变化，减少在线重建的漂移。
+
+<a id="paper-samn-monotonic-classifier-norms"></a>
+
+## Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Why_Not_Hyperparameter-Friendly_Optimisation_A_Monotonic_Adaptive_Norm_Rescaling_Approach_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Why_Not_Hyperparameter-Friendly_Optimisation_A_Monotonic_Adaptive_Norm_Rescaling_Approach_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长尾识别的自适应范数重缩放对正则超参数敏感。
+- **核心创新 / 方法** · 分开表征学习与头部重训，在重训阶段直接施加逐类范数单调约束。
+- **Baseline** · 与原范数重缩放和权重衰减变体比较。
+- **Benchmark** · CIFAR100-LT、CIFAR10-LT，不平衡度 100、50、10，测准确率。
+- **关键结果 / 消融** · 表 1 对比多个不平衡度与原方法的复现。
+- **适用条件 / 局限** · 类别频次与最优权重范数若不单调，应重新验证或调整约束。
+
+**可复用机制** · 重训长尾分类头时直接约束权重范数的单调性，省去正则强度搜索。
+
+<a id="paper-mvp-view-spatial-dual-hierarchy"></a>
+
+## Multi-view Pyramid Transformer: Look Coarser to See Broader
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kang_Multi-view_Pyramid_Transformer_Look_Coarser_to_See_Broader_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kang_Multi-view_Pyramid_Transformer_Look_Coarser_to_See_Broader_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 十到数百张图全量交互代价高，过早压缩每帧又会丢失细节。
+- **核心创新 / 方法** · 视图按局部、分组、全场景层级组织，每视图同时由精细空间表示聚合为紧凑 token。
+- **Baseline** · 比较其他多视图前馈重建方案，区分 16 视图固定训练对照。
+- **Benchmark** · DL3DV 多种输入视图数，比较重建质量和运行时间。
+- **关键结果 / 消融** · 表 1 随视图数考查画质与开销，验证双层级结构的扩展性。
+- **适用条件 / 局限** · 分组依赖有效的视角组织，场景稀疏或拓扑复杂时需验证聚合信息损失。
+
+**可复用机制** · 跨视图逐步扩大覆盖，同时压缩每图空间 token，控制全局交互成本。
+
+<a id="paper-llm-scheduling-constrained-motion-planners"></a>
+
+## Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Open-Ended_Instruction_Realization_with_LLM-Enabled_Multi-Planner_Scheduling_in_Autonomous_Vehicles_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Open-Ended_Instruction_Realization_with_LLM-Enabled_Multi-Planner_Scheduling_in_Autonomous_Vehicles_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 开放式乘客指令很难直接映射为可追溯的连续控制序列。
+- **核心创新 / 方法** · 在语言层生成可执行调度，以预测控制规划器和实时反馈决定轨迹，再交给控制层。
+- **Baseline** · 在相同 LLM 骨干下比较不同指令实现方案。
+- **Benchmark** · 正文测试仿真指令实现，表 1 跨随机种子报告成功及碰撞等指标。
+- **关键结果 / 消融** · 对照验证高层调度和低层控制可分开评估。
+- **适用条件 / 局限** · 正确性依赖可用规划器、语言映射和控制约束，仿真不足以验证实际道路安全。
+
+**可复用机制** · 让语言模型只安排经过约束的运动规划器，执行器根据实时反馈工作。
+
+<a id="paper-lsvit-covariance-aware-hessian-quantization"></a>
+
+## LS-ViT: Least-Squares Hessian Based Block Reconstruction for Low-Bit Post-Training Quantization of Vision Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hwang_LS-ViT_Least-Squares_Hessian_Based_Block_Reconstruction_for_Low-Bit_Post-Training_Quantization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hwang_LS-ViT_Least-Squares_Hessian_Based_Block_Reconstruction_for_Low-Bit_Post-Training_Quantization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 独立样本近似省略协方差项，低于四比特时近似偏差可能很大。
+- **核心创新 / 方法** · 用最小二乘视角构造块重建度量，将相关性影响纳入 Hessian 估计。
+- **Baseline** · 比较 APHQ-ViT 和 FIMA-Q 等 PTQ 方法，部分对照只改变重建度量。
+- **Benchmark** · ImageNet 多种 ViT 图像分类，报告不同配置的 Top-1 准确率。
+- **关键结果 / 消融** · 表 1 列出固定其他条件的重建度量对照，正文分析低位宽的误差。
+- **适用条件 / 局限** · 相关性估计依赖校准样本规模和代表性，模型结构改变后需要重测。
+
+**可复用机制** · 超低比特块重建时检查忽略样本相关性是否使 Hessian 近似失真。

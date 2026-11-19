@@ -1126,5 +1126,10 @@ Robot perception, policy learning, planning, and control.
 - [MAD: Motion Appearance Decoupling for efficient Driving World Models](../../conferences/cvpr-2026/cards.md#paper-mad-structured-motion-appearance-decoupling)
 - [DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-style-and-affordance-factorized-dexterous-goals)
 - [CoopDiff: A Diffusion-Guided Approach for Cooperation under Corruptions](../../conferences/cvpr-2026/cards.md#paper-coopdiff-quality-aware-cooperation)
+- [MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization](../../conferences/cvpr-2026/cards.md#paper-modulewise-pretrained-proximity-vla)
+- [Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule](../../conferences/cvpr-2026/cards.md#paper-pcd-reliable-detection-distance)
+- [RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-rcnf-manipulation-anomaly)
+- [TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction](../../conferences/cvpr-2026/cards.md#paper-talo-propagated-spline-submap-alignment)
+- [Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles](../../conferences/cvpr-2026/cards.md#paper-llm-scheduling-constrained-motion-planners)
 
 <!-- conference-classification:end -->

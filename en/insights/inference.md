@@ -1687,5 +1687,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery](../../conferences/cvpr-2026/cards.md#paper-opendpr-visual-proto-change)
 - [ViT$^3$: Unlocking Test-Time Training in Vision](../../conferences/cvpr-2026/cards.md#paper-vit3-inner-learning-loss-design)
 - [Interactive Episodic Memory with User Feedback](../../conferences/cvpr-2026/cards.md#paper-episodic-interactive-memory)
+- [SVAgent: Storyline-guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration](../../conferences/cvpr-2026/cards.md#paper-failure-driven-narrative-video-retrieval)
+- [DialogueVPR: Towards Conversational Visual Place Recognition](../../conferences/cvpr-2026/cards.md#paper-dialoguevpr-clarifying-loop)
+- [GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding](../../conferences/cvpr-2026/cards.md#paper-gift-irreplaceable-frame-selection)
+- [Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles](../../conferences/cvpr-2026/cards.md#paper-llm-scheduling-constrained-motion-planners)
+- [LS-ViT: Least-Squares Hessian Based Block Reconstruction for Low-Bit Post-Training Quantization of Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-lsvit-covariance-aware-hessian-quantization)
 
 <!-- conference-classification:end -->

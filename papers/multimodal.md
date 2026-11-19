@@ -1551,5 +1551,9 @@
 - [PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction](../conferences/cvpr-2026/cards.md#paper-polyslgen-interaction-cues)
 - [A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking](../conferences/cvpr-2026/cards.md#paper-pl-stitch-procedural-order-pretraining)
 - [ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-conesep-hard-noisy-correspondence)
+- [SVAgent: Storyline-guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration](../conferences/cvpr-2026/cards.md#paper-failure-driven-narrative-video-retrieval)
+- [TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition](../conferences/cvpr-2026/cards.md#paper-self-supervised-qa-reward-document-structure)
+- [AudioStory: Generating Long-Form Narrative Audio with Large Language Models](../conferences/cvpr-2026/cards.md#paper-audiostory-event-bridging)
+- [GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding](../conferences/cvpr-2026/cards.md#paper-gift-irreplaceable-frame-selection)
 
 <!-- conference-classification:end -->

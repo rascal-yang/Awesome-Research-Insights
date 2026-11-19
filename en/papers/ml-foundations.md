@@ -2591,5 +2591,7 @@ General learning methods, optimization, learning theory, and inference.
 - [DABO: Difficulty-Aware Bayesian Optimization with Diffusion-Learned Priors](../../conferences/cvpr-2026/cards.md#paper-dabo-difficulty-priors)
 - [Bypassing the Transport Plan: Dynamic Reweighting for Out-of-Distribution Detection with Optimal Transport](../../conferences/cvpr-2026/cards.md#paper-drew-ood-reweighting)
 - [Generalized and Personalized Federated Learning with Black-Box Foundation Models via Orthogonal Transformations](../../conferences/cvpr-2026/cards.md#paper-fedot-orthogonal-client-embedding-adaptation)
+- [Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition](../../conferences/cvpr-2026/cards.md#paper-samn-monotonic-classifier-norms)
+- [LS-ViT: Least-Squares Hessian Based Block Reconstruction for Low-Bit Post-Training Quantization of Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-lsvit-covariance-aware-hessian-quantization)
 
 <!-- conference-classification:end -->

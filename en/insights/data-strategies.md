@@ -460,5 +460,6 @@ Data selection, annotation, augmentation, and sampling.
 - [BOP-ASK: Object-Interaction Reasoning for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pose-derived-interaction-reasoning-tests)
 - [Scaling4D: Pushing the Frontier of Video Novel View Synthesis through Large-Scale Monocular Videos](../../conferences/cvpr-2026/cards.md#paper-monocular-to-conditional-novel-view-training)
 - [2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition](../../conferences/cvpr-2026/cards.md#paper-minimal-sensor-noise-calibration-frequency-sampling)
+- [Scaling Zero-Shot Reference-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-reference-from-masked-video-text-only)
 
 <!-- conference-classification:end -->

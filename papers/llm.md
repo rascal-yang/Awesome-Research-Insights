@@ -2469,5 +2469,6 @@
 - [VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis](../conferences/cvpr-2026/cards.md#paper-visiondirector-goal-rollback)
 - [Seeing as Experts Do: A Knowledge-Augmented Agent for Open-Set Fine-Grained Visual Understanding](../conferences/cvpr-2026/cards.md#paper-kfra-evidence-focused-agent)
 - [Interactive Episodic Memory with User Feedback](../conferences/cvpr-2026/cards.md#paper-episodic-interactive-memory)
+- [DialogueVPR: Towards Conversational Visual Place Recognition](../conferences/cvpr-2026/cards.md#paper-dialoguevpr-clarifying-loop)
 
 <!-- conference-classification:end -->

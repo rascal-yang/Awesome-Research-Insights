@@ -1610,5 +1610,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [What Matters in Practical Learned Image Compression](../../conferences/cvpr-2026/cards.md#paper-runtime-constrained-perceptual-codec-ablation)
 - [Explaining Object Detectors via Collective Contribution of Pixels](../../conferences/cvpr-2026/cards.md#paper-collective-pixel-interactions-object-detectors)
 - [UAVLight: A Benchmark for Illumination-Robust 3D Reconstruction in Unmanned Aerial Vehicle (UAV) Scenes](../../conferences/cvpr-2026/cards.md#paper-reconstruction-lighting-held-variable-evaluation)
+- [Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule](../../conferences/cvpr-2026/cards.md#paper-pcd-reliable-detection-distance)
 
 <!-- conference-classification:end -->

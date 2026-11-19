@@ -1316,5 +1316,7 @@ Training schedules, curricula, and task or stage composition.
 - [Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning](../../conferences/cvpr-2026/cards.md#paper-realiz3d-domain-covariate)
 - [A Stitch in Time: Learning Procedural Workflow via Self-Supervised Plackett-Luce Ranking](../../conferences/cvpr-2026/cards.md#paper-pl-stitch-procedural-order-pretraining)
 - [Foundry: Distilling 3D Foundation Models for the Edge](../../conferences/cvpr-2026/cards.md#paper-foundry-supertokens-foundation-distillation)
+- [VDOT: Efficient Unified Video Creation via Optimal Transport Distillation](../../conferences/cvpr-2026/cards.md#paper-geometry-aware-optimal-transport-video-distillation)
+- [TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition](../../conferences/cvpr-2026/cards.md#paper-self-supervised-qa-reward-document-structure)
 
 <!-- conference-classification:end -->

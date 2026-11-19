@@ -786,5 +786,10 @@
 - [PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction](../conferences/cvpr-2026/cards.md#paper-polyslgen-interaction-cues)
 - [Advancing Image Classification with Discrete Diffusion Classification Modeling](../conferences/cvpr-2026/cards.md#paper-didicm-diffusion-posterior)
 - [CoopDiff: A Diffusion-Guided Approach for Cooperation under Corruptions](../conferences/cvpr-2026/cards.md#paper-coopdiff-quality-aware-cooperation)
+- [Dynamic Exposure Burst Image Restoration](../conferences/cvpr-2026/cards.md#paper-motion-conditioned-adaptive-burst-exposure)
+- [AudioStory: Generating Long-Form Narrative Audio with Large Language Models](../conferences/cvpr-2026/cards.md#paper-audiostory-event-bridging)
+- [RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-rcnf-manipulation-anomaly)
+- [UniCorrn: Unified Correspondence Transformer Across 2D and 3D](../conferences/cvpr-2026/cards.md#paper-unicorrn-shared-geometry-matching)
+- [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](../conferences/cvpr-2026/cards.md#paper-topomesh-shared-dmc-topology)
 
 <!-- conference-classification:end -->

@@ -871,5 +871,7 @@
 - [AntiStyler: Defending Object Detection Models Against Adversarial Patch Attacks Using Style Removal](../conferences/cvpr-2026/cards.md#paper-antistyler-zero-shot-style-defense)
 - [ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-conesep-hard-noisy-correspondence)
 - [Generalized and Personalized Federated Learning with Black-Box Foundation Models via Orthogonal Transformations](../conferences/cvpr-2026/cards.md#paper-fedot-orthogonal-client-embedding-adaptation)
+- [TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction](../conferences/cvpr-2026/cards.md#paper-talo-propagated-spline-submap-alignment)
+- [Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition](../conferences/cvpr-2026/cards.md#paper-samn-monotonic-classifier-norms)
 
 <!-- conference-classification:end -->

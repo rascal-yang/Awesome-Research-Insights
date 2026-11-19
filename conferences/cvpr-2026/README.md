@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,237 篇，其中 2,049 篇暂收录、1,188 篇排除，另有 805 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,267 篇，其中 2,068 篇暂收录、1,199 篇排除，另有 775 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2055,3 +2055,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,237
 | 多模态学习 | 噪声鲁棒学习 | [ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval](cards.md#paper-conesep-hard-noisy-correspondence) | 噪声筛选时检查图像对很近但编辑文本错误的低损失反例。 |
 | 三维视觉 | 知识蒸馏 | [Foundry: Distilling 3D Foundation Models for the Edge](cards.md#paper-foundry-supertokens-foundation-distillation) | 压缩三维基础模型时重建教师 token，避免只针对单一任务蒸馏。 |
 | 机器学习 | 联邦学习 | [Generalized and Personalized Federated Learning with Black-Box Foundation Models via Orthogonal Transformations](cards.md#paper-fedot-orthogonal-client-embedding-adaptation) | 在骨干只提供黑盒嵌入时，用客户端正交变换与共享分类器分担个性化和泛化。 |
+| 计算机视觉 | 数据策略 | [Scaling Zero-Shot Reference-to-Video Generation](cards.md#paper-reference-from-masked-video-text-only) | 可用遮蔽视频训练从已有帧提炼参考条件，绕开显式参考图–视频–文本三元组。 |
+| 机器人学 | 优化 | [MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization](cards.md#paper-modulewise-pretrained-proximity-vla) | VLA 微调可按模块以不同速度放松初始权重约束，保护视觉先验并允许动作相关特征变化。 |
+| 多模态学习 | 推理策略 | [SVAgent: Storyline-guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration](cards.md#paper-failure-driven-narrative-video-retrieval) | 长视频问答可让已有叙事和历史回答错误共同驱动下一轮取证。 |
+| 计算机视觉 | 训练策略 | [VDOT: Efficient Unified Video Creation via Optimal Transport Distillation](cards.md#paper-geometry-aware-optimal-transport-video-distillation) | 少步生成蒸馏可在分数分布之间增加传输距离，显式约束几何并缓解梯度消失。 |
+| 计算机视觉 | 模型架构 | [Dynamic Exposure Burst Image Restoration](cards.md#paper-motion-conditioned-adaptive-burst-exposure) | 可联合学习采集和复原，让曝光按现场运动和亮度动态调整。 |
+| 多模态学习 | 训练策略 | [TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition](cards.md#paper-self-supervised-qa-reward-document-structure) | 可以用图像可回答的问题检验生成结构的有效性，从未标注文档获得强化学习奖励。 |
+| 多模态学习 | 模型架构 | [AudioStory: Generating Long-Form Narrative Audio with Large Language Models](cards.md#paper-audiostory-event-bridging) | 长序列生成先拆事件，再用独立条件维持事件内语义与事件间连续性。 |
+| 机器人学 | 评测与诊断 | [Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule](cards.md#paper-pcd-reliable-detection-distance) | 按检测概率及质量阈值计算可靠感知距离，再将结果和控制决策关联。 |
+| 智能体 | 推理策略 | [DialogueVPR: Towards Conversational Visual Place Recognition](cards.md#paper-dialoguevpr-clarifying-loop) | 当地点检索信息不足时，通过追问区分候选并维护多轮空间假设。 |
+| 机器人学 | 模型架构 | [RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation](cards.md#paper-rcnf-manipulation-anomaly) | 用正常操控轨迹拟合机器人条件的对象状态密度，以便实时发现异常并干预。 |
+| 计算机视觉 | 优化策略 | [ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction](cards.md#paper-clipgstream-inherited-anchors) | 动态长序列用短片局部优化，在片间继承关系锚点及解码器保持连续。 |
+| 计算机视觉 | 模型架构 | [UniCorrn: Unified Correspondence Transformer Across 2D and 3D](cards.md#paper-unicorrn-shared-geometry-matching) | 对 2D 和 3D 输入保留模态专用前端，但共享求对应关系的编码和查询。 |
+| 多模态学习 | 推理策略 | [GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding](cards.md#paper-gift-irreplaceable-frame-selection) | 选帧同时考虑与问题相关和无法被其他帧替代的证据，先保核心再填时间空缺。 |
+| 计算机视觉 | 模型架构 | [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](cards.md#paper-topomesh-shared-dmc-topology) | 先给预测与真值统一的拓扑框架，再直接监督网格对应，保护尖锐结构。 |
+| 机器人学 | 视觉定位 | [TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction](cards.md#paper-talo-propagated-spline-submap-alignment) | 通过跨窗口传播的控制点修正局部三维变化，减少在线重建的漂移。 |
+| 机器学习 | 长尾学习 | [Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition](cards.md#paper-samn-monotonic-classifier-norms) | 重训长尾分类头时直接约束权重范数的单调性，省去正则强度搜索。 |
+| 三维视觉 | 高效注意力 | [Multi-view Pyramid Transformer: Look Coarser to See Broader](cards.md#paper-mvp-view-spatial-dual-hierarchy) | 跨视图逐步扩大覆盖，同时压缩每图空间 token，控制全局交互成本。 |
+| 机器人学 | 工具调度 | [Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles](cards.md#paper-llm-scheduling-constrained-motion-planners) | 让语言模型只安排经过约束的运动规划器，执行器根据实时反馈工作。 |
+| 高效深度学习 | 模型量化 | [LS-ViT: Least-Squares Hessian Based Block Reconstruction for Low-Bit Post-Training Quantization of Vision Transformers](cards.md#paper-lsvit-covariance-aware-hessian-quantization) | 超低比特块重建时检查忽略样本相关性是否使 Hessian 近似失真。 |

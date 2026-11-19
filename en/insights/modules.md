@@ -424,5 +424,6 @@ Reusable components and local changes to model inputs or connections.
 - [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](../../conferences/cvpr-2026/cards.md#paper-look-before-fuse-boundary-prealignment)
 - [EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](../../conferences/cvpr-2026/cards.md#paper-editctrl-mask-local-global-context)
 - [VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](../../conferences/cvpr-2026/cards.md#paper-vecattention-vertical-vector-sparsity)
+- [Multi-view Pyramid Transformer: Look Coarser to See Broader](../../conferences/cvpr-2026/cards.md#paper-mvp-view-spatial-dual-hierarchy)
 
 <!-- conference-classification:end -->

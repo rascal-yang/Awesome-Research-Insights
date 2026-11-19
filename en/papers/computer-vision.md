@@ -1620,5 +1620,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [Advancing Image Classification with Discrete Diffusion Classification Modeling](../../conferences/cvpr-2026/cards.md#paper-didicm-diffusion-posterior)
 - [AntiStyler: Defending Object Detection Models Against Adversarial Patch Attacks Using Style Removal](../../conferences/cvpr-2026/cards.md#paper-antistyler-zero-shot-style-defense)
 - [Foundry: Distilling 3D Foundation Models for the Edge](../../conferences/cvpr-2026/cards.md#paper-foundry-supertokens-foundation-distillation)
+- [Scaling Zero-Shot Reference-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-reference-from-masked-video-text-only)
+- [VDOT: Efficient Unified Video Creation via Optimal Transport Distillation](../../conferences/cvpr-2026/cards.md#paper-geometry-aware-optimal-transport-video-distillation)
+- [Dynamic Exposure Burst Image Restoration](../../conferences/cvpr-2026/cards.md#paper-motion-conditioned-adaptive-burst-exposure)
+- [ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction](../../conferences/cvpr-2026/cards.md#paper-clipgstream-inherited-anchors)
+- [UniCorrn: Unified Correspondence Transformer Across 2D and 3D](../../conferences/cvpr-2026/cards.md#paper-unicorrn-shared-geometry-matching)
+- [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](../../conferences/cvpr-2026/cards.md#paper-topomesh-shared-dmc-topology)
+- [Multi-view Pyramid Transformer: Look Coarser to See Broader](../../conferences/cvpr-2026/cards.md#paper-mvp-view-spatial-dual-hierarchy)
 
 <!-- conference-classification:end -->
