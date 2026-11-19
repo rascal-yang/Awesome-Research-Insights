@@ -2306,5 +2306,10 @@ General learning methods, optimization, learning theory, and inference.
 - [Scaling-Aware Data Selection for End-to-End Autonomous Driving Systems](../../conferences/cvpr-2026/cards.md#paper-mosaic-scaling-aware-selection)
 - [A Faster Path to Continual Learning](../../conferences/cvpr-2026/cards.md#paper-c-flat-turbo)
 - [HAD: Heterogeneity-Aware Distillation for Lifelong Heterogeneous Learning](../../conferences/cvpr-2026/cards.md#paper-heterogeneity-aware-distillation)
+- [Generative Modeling of Weights: Generalization or Memorization?](../../conferences/cvpr-2026/cards.md#paper-generated-weights-memorization)
+- [CGU-Bayes: Causal Graph Uncertainty-Guided Bayesian Inference for Domain Generalization](../../conferences/cvpr-2026/cards.md#paper-cgu-bayes-graph-uncertainty)
+- [S2FT: Parameter-Efficient Fine-Tuning in Sparse Spectrum Domain](../../conferences/cvpr-2026/cards.md#paper-s2ft-sparse-spectrum)
+- [PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning](../../conferences/cvpr-2026/cards.md#paper-perturbation-aware-filtering)
+- [Global Information Thresholding for Sufficient and Necessary Circuits](../../conferences/cvpr-2026/cards.md#paper-global-information-thresholding)
 
 <!-- conference-classification:end -->

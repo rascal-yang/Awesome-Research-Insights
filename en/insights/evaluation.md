@@ -1431,5 +1431,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Unstitching the Chimera: Frame-Level Risk and Train-Free Mitigation for Video Hallucination](../../conferences/cvpr-2026/cards.md#paper-chimera-temporal-risk)
 - [Deconstructing the Failure of Ideal Noise Correction: A Three-Pillar Diagnosis](../../conferences/cvpr-2026/cards.md#paper-ideal-noise-correction-failure)
 - [VCU-Bridge: Hierarchical Visual Connotation Understanding via Semantic Bridging](../../conferences/cvpr-2026/cards.md#paper-vcu-bridge)
+- [Generative Modeling of Weights: Generalization or Memorization?](../../conferences/cvpr-2026/cards.md#paper-generated-weights-memorization)
+- [OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery](../../conferences/cvpr-2026/cards.md#paper-onlinehmr-causal-delay-evaluation)
+- [I'm a Map! Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-imap-motion-token-diagnostics)
+- [Global Information Thresholding for Sufficient and Necessary Circuits](../../conferences/cvpr-2026/cards.md#paper-global-information-thresholding)
 
 <!-- conference-classification:end -->

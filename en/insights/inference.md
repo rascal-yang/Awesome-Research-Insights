@@ -1347,5 +1347,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Dynamic Token Reweighting for Robust Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-dtr-safe-token-reweighting)
 - [Residual Diffusion Bridge Model for Image Restoration](../../conferences/cvpr-2026/cards.md#paper-residual-diffusion-bridge)
 - [YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal](../../conferences/cvpr-2026/cards.md#paper-yose-essential-tokens)
+- [Parallel Jacobi Decoding for Fast Autoregressive Image Generation](../../conferences/cvpr-2026/cards.md#paper-parallel-jacobi-image-decoding)
+- [MODIX: A Training-Free Multimodal Information-Driven Positional Index Scaling for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-modix-position-stride)
+- [Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-tanl)
+- [GeoRK2: Geometry-Guided Runge-Kutta Integration for Diffusion Transformer Acceleration](../../conferences/cvpr-2026/cards.md#paper-geork2)
 
 <!-- conference-classification:end -->

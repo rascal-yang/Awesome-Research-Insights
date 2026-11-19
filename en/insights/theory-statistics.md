@@ -984,5 +984,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 ## CVPR 2026 (provisional)
 
 - [Is the Modality Gap a Bug or a Feature? A Robustness Perspective](../../conferences/cvpr-2026/cards.md#paper-modality-gap-robustness)
+- [CGU-Bayes: Causal Graph Uncertainty-Guided Bayesian Inference for Domain Generalization](../../conferences/cvpr-2026/cards.md#paper-cgu-bayes-graph-uncertainty)
 
 <!-- conference-classification:end -->

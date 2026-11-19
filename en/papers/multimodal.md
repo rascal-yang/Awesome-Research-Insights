@@ -951,5 +951,11 @@ Learning across modalities such as images, text, audio, and video.
 - [VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](../../conferences/cvpr-2026/cards.md#paper-vold)
 - [VCU-Bridge: Hierarchical Visual Connotation Understanding via Semantic Bridging](../../conferences/cvpr-2026/cards.md#paper-vcu-bridge)
 - [Seeing What Matters: Visual Preference Policy Optimization for Visual Generation](../../conferences/cvpr-2026/cards.md#paper-vipo-visual-advantages)
+- [Addressing Exacerbated Attention Sink for Source-Free Cross-Domain Few-Shot Learning](../../conferences/cvpr-2026/cards.md#paper-few-shot-attention-sink)
+- [MODIX: A Training-Free Multimodal Information-Driven Positional Index Scaling for Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-modix-position-stride)
+- [Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-tanl)
+- [Improving Vision-language Models with Perception-centric Process Reward Models](../../conferences/cvpr-2026/cards.md#paper-perceval)
+- [M3Grounder: Mask-Based Multi-Span and Multi-Granular Grounding for Document QA](../../conferences/cvpr-2026/cards.md#paper-m3grounder)
+- [GeoRK2: Geometry-Guided Runge-Kutta Integration for Diffusion Transformer Acceleration](../../conferences/cvpr-2026/cards.md#paper-geork2)
 
 <!-- conference-classification:end -->

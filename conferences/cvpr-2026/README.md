@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 447 篇，其中 311 篇暂收录、136 篇排除，另有 3,595 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 477 篇，其中 330 篇暂收录、147 篇排除，另有 3,565 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -317,3 +317,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 447 �
 | 多模态学习 | 评测与分析 | [VCU-Bridge: Hierarchical Visual Connotation Understanding via Semantic Bridging](cards.md#paper-vcu-bridge) | 诊断抽象视觉推理时，把低层观察、中间语义和抽象结论标注为可追踪链，并测试低层训练能否向上传导。 |
 | 多模态学习 | 强化学习 | [Seeing What Matters: Visual Preference Policy Optimization for Visual Generation](cards.md#paper-vipo-visual-advantages) | 视觉生成后训练可把整图或整段标量优势分配为局部优势，以强调感知重要区域。 |
 | 计算机视觉 | 表示学习 | [Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis](cards.md#paper-motion-3-to-4) | 从单目视频重建动态资产时，把静态网格生成与逐顶点时序变形分开建模。 |
+| 机器学习基础与统计 | 评测与诊断 | [Generative Modeling of Weights: Generalization or Memorization?](cards.md#paper-generated-weights-memorization) | 权重生成方法必须与权重加噪和均值插值比较，并同时用参数近邻与功能相似判断新颖性。见 §3、表 1。 |
+| 计算机视觉 | 评测与诊断 | [OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery](cards.md#paper-onlinehmr-causal-delay-evaluation) | 流式人体网格恢复应同时验收因果性、单帧等待时间与世界坐标误差，不能只看处理 FPS。见表 3。 |
+| 计算机视觉 | 评测与诊断 | [I'm a Map! Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers](cards.md#paper-imap-motion-token-diagnostics) | 视频扩散的概念解释应分别找在哪帧、哪里、哪个对象发生动作，并把动作相关头与全头对照。见表 1–2。 |
+| 计算机视觉 | 推理策略 | [Parallel Jacobi Decoding for Fast Autoregressive Image Generation](cards.md#paper-parallel-jacobi-image-decoding) | 对自回归图像尝试从一维连续草稿切到二维局部并行更新，并在相同骨干测收敛与 FID。见表 1–2。 |
+| 多模态学习 | 训练策略 | [Addressing Exacerbated Attention Sink for Source-Free Cross-Domain Few-Shot Learning](cards.md#paper-few-shot-attention-sink) | 用少量目标域样本微调视觉语言模型时，应诊断是否进一步集中注意到原本容易对齐的词元，再分别测试抑制与增强。见表 2。 |
+| 多模态学习 | 推理策略 | [MODIX: A Training-Free Multimodal Information-Driven Positional Index Scaling for Vision-Language Models](cards.md#paper-modix-position-stride) | 视觉语言推理可只改位置索引跨度来检验信息分配作用，避免与删词元的效果混在一起。见表 2–4。 |
+| 机器学习基础与统计 | 理论与统计 | [CGU-Bayes: Causal Graph Uncertainty-Guided Bayesian Inference for Domain Generalization](cards.md#paper-cgu-bayes-graph-uncertainty) | 域泛化若依赖推断的因果图，应比较固定图、等权候选图和不确定性加权，区分真实数据与已知机制仿真。见表 1–3。 |
+| 多模态学习 | 推理策略 | [Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models](cards.md#paper-tanl) | 开放集检测选负类时用测试分布的激活统计，检查固定文本负类是否与真实外域样本脱节。 |
+| 计算机视觉 | 模型架构 | [3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding](cards.md#paper-cvm-dense-mtl) | 多任务密集预测共享跨视相关信息，不只在同一图像特征上学习任务关系。 |
+| 机器人学 | 训练策略 | [CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection](cards.md#paper-coin3d) | 换相机阵列部署三维检测时，分别验证观测增广与显式相机特征调制。 |
+| 计算机视觉 | 模型架构 | [FisherPoser: Human Motion Estimation from Sparse Observations with Hierarchical Region-Wise Fisher-Matrix Uncertainty Modeling](cards.md#paper-fisherposer) | 稀疏姿态估计可直接预测旋转分布，再沿运动链条件化传播不确定性。 |
+| 计算机视觉 | 训练策略 | [Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements](cards.md#paper-action-motifs) | 运动序列先学习可变长的局部动作单位，再对其组合做掩码预测，以检查跨动作的复用。 |
+| 多模态学习 | 训练策略 | [Improving Vision-language Models with Perception-centric Process Reward Models](cards.md#paper-perceval) | 用视觉声明核验定位错误片段，按词元调优势并对照整轨迹奖励。 |
+| 计算机视觉 | 模型架构 | [RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations](cards.md#paper-rng-3d-kv-cache) | 稀疏视图三维推理时，隔离观测重建和不可见区域生成，并用同一缓存支持反复视角查询。 |
+| 机器学习基础 | 微调与适配 | [S2FT: Parameter-Efficient Fine-Tuning in Sparse Spectrum Domain](cards.md#paper-s2ft-sparse-spectrum) | 傅里叶微调前先测权重增量的频谱，若不稀疏则以可逆神经元重排聚拢能量。 |
+| 机器学习基础 | 自监督学习 | [PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning](cards.md#paper-perturbation-aware-filtering) | 开放集半监督数据清理可用语义保持扰动下的表示不稳定性评估样本是否域外。 |
+| 机器学习基础 | 可解释性与诊断 | [Global Information Thresholding for Sufficient and Necessary Circuits](cards.md#paper-global-information-thresholding) | 定位模型电路时，用行为保留阈值自动决定边数，并分开报告充分性与必要性。 |
+| 多模态学习 | 损失函数与优化 | [M3Grounder: Mask-Based Multi-Span and Multi-Granular Grounding for Document QA](cards.md#paper-m3grounder) | 文档问答需要可定位证据时，让每个答案短语输出掩码，并约束粒度间的包含关系。 |
+| 多模态学习 | 推理优化 | [GeoRK2: Geometry-Guided Runge-Kutta Integration for Diffusion Transformer Acceleration](cards.md#paper-geork2) | 为扩散推理减少步数时，用经验激活协方差定义积分几何，检验大步长下保真度。 |

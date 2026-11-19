@@ -587,5 +587,8 @@ Model-wide design and information flow.
 - [FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting](../../conferences/cvpr-2026/cards.md#paper-fov-net)
 - [VideoCoF: Unified Video Editing with Temporal Reasoner](../../conferences/cvpr-2026/cards.md#paper-videocof)
 - [PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection](../../conferences/cvpr-2026/cards.md#paper-paq-detr)
+- [3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-cvm-dense-mtl)
+- [FisherPoser: Human Motion Estimation from Sparse Observations with Hierarchical Region-Wise Fisher-Matrix Uncertainty Modeling](../../conferences/cvpr-2026/cards.md#paper-fisherposer)
+- [RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations](../../conferences/cvpr-2026/cards.md#paper-rng-3d-kv-cache)
 
 <!-- conference-classification:end -->

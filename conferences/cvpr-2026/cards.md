@@ -4666,3 +4666,288 @@
 - **适用条件 / 局限** · 依赖规范网格保留所需拓扑，形状错误会传到运动阶段，拓扑改变不适合固定顶点轨迹。
 
 **可复用机制** · 从单目视频重建动态资产时，把静态网格生成与逐顶点时序变形分开建模。
+
+<a id="paper-generated-weights-memorization"></a>
+
+## Generative Modeling of Weights: Generalization or Memorization?
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_Generative_Modeling_of_Weights_Generalization_or_Memorization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng_Generative_Modeling_of_Weights_Generalization_or_Memorization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 新权重准确率提高，可能只是在复制或插值训练检查点，不能单凭指标判断生成了新函数。
+- **核心创新 / 方法** · 分别比较生成权重与训练最近邻的距离、预测行为和性能，再重置训练权重以诊断直接记忆。
+- **Baseline** · 对照四种权重生成方法、加噪、权重均值和逐参数高斯采样。
+- **Benchmark** · 在所测权重生成任务上联合测权重距离、功能相似度和任务质量，并测试参数置换增强。
+- **关键结果 / 消融** · 表 1 全层随机重置后，HyperDiffusion 生成与训练近邻平均距离 0.8，训练样本之间的近邻距离 16.0；仍能复制训练数据。
+- **适用条件 / 局限** · 权重距离本身受参数对称影响，须和功能对比同看。结论限所测方法和规模，增加数据对部分方法有帮助。
+
+**可复用机制** · 权重生成方法必须与权重加噪和均值插值比较，并同时用参数近邻与功能相似判断新颖性。见 §3、表 1。
+
+<a id="paper-onlinehmr-causal-delay-evaluation"></a>
+
+## OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_OnlineHMR_Video-based_Online_World-Grounded_Human_Mesh_Recovery_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_OnlineHMR_Video-based_Online_World-Grounded_Human_Mesh_Recovery_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 允许看到未来帧的批式网格恢复可能显示吞吐可用，却无法实时响应。
+- **核心创新 / 方法** · 用因果 KV 缓存与滑窗训练做在线网格恢复，增量人体中心 SLAM 将结果对齐世界坐标。
+- **Baseline** · 对比 TRACE、GLAMR、SLAHMR、WHAM、TRAM 等在线或非在线方法。
+- **Benchmark** · EMDB 中报告世界或相机坐标运动误差、FPS 和平均输出延迟，并补测动态视频。
+- **关键结果 / 消融** · 表 3 OnlineHMR 为 3.3 FPS、0.30 秒、WA-MPJPE100 93.5；TRAM 是 2.1 FPS、115.95 秒和 76.4。
+- **适用条件 / 局限** · 世界轨迹依赖增量定位和可见人体，3.3 FPS 无法满足所有高频控制需求，应按场景测端到端反馈。
+
+**可复用机制** · 流式人体网格恢复应同时验收因果性、单帧等待时间与世界坐标误差，不能只看处理 FPS。见表 3。
+
+<a id="paper-imap-motion-token-diagnostics"></a>
+
+## I'm a Map! Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jun_Im_a_Map_Interpretable_Motion-Attentive_Maps_Spatio-Temporally_Localizing_Concepts_in_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jun_Im_a_Map_Interpretable_Motion-Attentive_Maps_Spatio-Temporally_Localizing_Concepts_in_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接显示交叉注意力常偏对象而非动作，在每帧看起来合理却无法指出动作时刻。
+- **核心创新 / 方法** · 从概念特征产生逐帧空间图，再筛选与运动有关的注意力层或头形成时空热图，无需训练。
+- **Baseline** · 比较交叉注意力、ConceptAttention、全层 GramCol 和逐项筛层筛头。
+- **Benchmark** · 动作定位五项度量含时间和空间定位，另测零样本视频语义分割。
+- **关键结果 / 消融** · 表 2 交叉注意力平均 0.36，GramCol 全层 0.41，加层选择 0.46，再加运动头为 0.47。
+- **适用条件 / 局限** · 仅说明内部特征与可定位动作相关，尚不能当因果证据；多对象共同行为和抽象动作需单测。
+
+**可复用机制** · 视频扩散的概念解释应分别找在哪帧、哪里、哪个对象发生动作，并把动作相关头与全头对照。见表 1–2。
+
+<a id="paper-parallel-jacobi-image-decoding"></a>
+
+## Parallel Jacobi Decoding for Fast Autoregressive Image Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liao_Parallel_Jacobi_Decoding_for_Fast_Autoregressive_Image_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liao_Parallel_Jacobi_Decoding_for_Fast_Autoregressive_Image_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 延长一维 Jacobi 草稿会积累依赖误差，迭代速度收益趋于饱和。
+- **核心创新 / 方法** · 利用图像的二维邻域相关性在空间上展开预测并调整注意力掩码，反复并行精化草稿。
+- **Baseline** · 比较原始自回归、SJD、GSD，保持生成骨干不变。
+- **Benchmark** · MS-COCO、PartiPrompt，在 Lumina-mGPT 和 LlamaGen-XL 等模型报单图延迟、步数、FID、CLIP 和 IS。
+- **关键结果 / 消融** · 表 1 Lumina-mGPT 一项设置为 24.78 秒、FID 32.38，原自回归为 197.16 秒、30.79。
+- **适用条件 / 局限** · 依赖二维词元布局及模型对局部相关的利用；图像布局一致性和随机采样分布应独立复测。
+
+**可复用机制** · 对自回归图像尝试从一维连续草稿切到二维局部并行更新，并在相同骨干测收敛与 FID。见表 1–2。
+
+<a id="paper-few-shot-attention-sink"></a>
+
+## Addressing Exacerbated Attention Sink for Source-Free Cross-Domain Few-Shot Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yi_Addressing_Exacerbated_Attention_Sink_for_Source-Free_Cross-Domain_Few-Shot_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yi_Addressing_Exacerbated_Attention_Sink_for_Source-Free_Cross-Domain_Few-Shot_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 目标标签稀少时训练可能放大本来就与文本类名接近的特征，挤压其他判别线索。
+- **核心创新 / 方法** · 在原模型和目标微调模型间诊断注意力汇聚，抑制易词元并增强较难但有区分力的词元。
+- **Baseline** · 对照原微调、仅抑制、仅增强和完整策略。
+- **Benchmark** · CropDiseases、EuroSAT、ISIC2018、ChestX，做 5-way 1-shot 和 5-shot 准确率比较。
+- **关键结果 / 消融** · 表 2 的 5-shot 平均由 65.99 升至 68.44；仅抑制为 67.66，仅增强为 67.23。
+- **适用条件 / 局限** · 少样本中所谓难词元也可能是噪声或背景，换骨干与大域差时应复审其关注的部位。
+
+**可复用机制** · 用少量目标域样本微调视觉语言模型时，应诊断是否进一步集中注意到原本容易对齐的词元，再分别测试抑制与增强。见表 2。
+
+<a id="paper-modix-position-stride"></a>
+
+## MODIX: A Training-Free Multimodal Information-Driven Positional Index Scaling for Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_MODIX_A_Training-Free_Multimodal_Information-Driven_Positional_Index_Scaling_for_Vision-Language_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_MODIX_A_Training-Free_Multimodal_Information-Driven_Positional_Index_Scaling_for_Vision-Language_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 位置编号等距分配可能让冗余模态或重复画面占用过多位置分辨率。
+- **核心创新 / 方法** · 用模态内协方差熵和跨模态对齐估计信息，对不同模态重新缩放位置索引步幅，无需训练。
+- **Baseline** · 对照同模型原索引、不同位置编码变体、不同熵与对齐权重。
+- **Benchmark** · 图像问答、图表与 Video-MME 长中短视频，比较公开骨干的任务准确率。
+- **关键结果 / 消融** · 表 2 Qwen3-VL-8B 的 Video-MME 中等时长由 58.79 到 61.45，长时长由 48.86 到 49.44。
+- **适用条件 / 局限** · 需可访问模型位置参数且改后不超训练长度范围；熵、对齐与真正的任务信息可能偏离。
+
+**可复用机制** · 视觉语言推理可只改位置索引跨度来检验信息分配作用，避免与删词元的效果混在一起。见表 2–4。
+
+<a id="paper-cgu-bayes-graph-uncertainty"></a>
+
+## CGU-Bayes: Causal Graph Uncertainty-Guided Bayesian Inference for Domain Generalization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_CGU-Bayes_Causal_Graph_Uncertainty-Guided_Bayesian_Inference_for_Domain_Generalization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yin_CGU-Bayes_Causal_Graph_Uncertainty-Guided_Bayesian_Inference_for_Domain_Generalization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 数据不足或存在偏差时，单一估计因果图可能将偶然关联视为稳定关系。
+- **核心创新 / 方法** · 对候选图进行贝叶斯推断，以任务相关的图不确定性给预测加权，让不确定边影响减弱。
+- **Baseline** · 比较 ERM、IRM 等，以及去掉不确定性引导和加入模型集合的版本。
+- **Benchmark** · BLT 一组设定用域外相对 MSE，CMNIST、VLCS、PACS、OfficeHome 比较准确率。
+- **关键结果 / 消融** · 表 1 的平均域外相对 MSE 从去不确定性引导的 59.7 降至 54.2；正文说明单模型在自然视觉数据上未一致改善。
+- **适用条件 / 局限** · 估计分布受因果候选模型和独立性假设限制，准确率提升不能证明恢复真实因果图。
+
+**可复用机制** · 域泛化若依赖推断的因果图，应比较固定图、等权候选图和不确定性加权，区分真实数据与已知机制仿真。见表 1–3。
+
+<a id="paper-tanl"></a>
+
+## Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Activation_Matters_Test-time_Activated_Negative_Labels_for_OOD_Detection_with_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Activation_Matters_Test-time_Activated_Negative_Labels_for_OOD_Detection_with_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 语义距离远的负类标签未必在真正外域样本上得到响应。
+- **核心创新 / 方法** · 用保留的高置信测试图估计语料标签活跃度，按历史或当前批次更新负标签和分数。
+- **Baseline** · 以 NegLabel 为直接对照，表4消融负类选取及打分。
+- **Benchmark** · ImageNet-1k 及 OpenOOD，表1–4报告 FPR95、AUROC、域内准确率。
+- **关键结果 / 消融** · 正文报告相对固定负类方法的改进，并比较自动与手工置信阈值。
+- **适用条件 / 局限** · 测试序列需要足够代表性；流式偏移或批次强相关时需重新测误报。
+
+**可复用机制** · 开放集检测选负类时用测试分布的激活统计，检查固定文本负类是否与真实外域样本脱节。
+
+<a id="paper-cvm-dense-mtl"></a>
+
+## 3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_3D-Aware_Multi-Task_Learning_with_Cross-View_Correlations_for_Dense_Scene_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_3D-Aware_Multi-Task_Learning_with_Cross-View_Correlations_for_Dense_Scene_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯二维特征使联合分割与深度缺少三维约束。
+- **核心创新 / 方法** · 以共享跨视模块向编码器注入代价体和增强跨视特征。
+- **Baseline** · 比较标准多任务编码器、只用代价体及只用跨视增强。
+- **Benchmark** · NYUv2、PASCAL-Context；表4分测 mIoU、深度 RMSE、法向和边界。
+- **关键结果 / 消融** · 表4完整模块使 mIoU 从64.03到65.27、深度 RMSE 从0.3954降到0.3836，法向误差同为15.35。
+- **适用条件 / 局限** · 跨视证据取决于几何质量，各输出量的收益可能不一致。
+
+**可复用机制** · 多任务密集预测共享跨视相关信息，不只在同一图像特征上学习任务关系。
+
+<a id="paper-coin3d"></a>
+
+## CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kuang_CoIn3D_Revisiting_Configuration-Invariant_Multi-Camera_3D_Object_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kuang_CoIn3D_Revisiting_Configuration-Invariant_Multi-Camera_3D_Object_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 内外参和相机阵列的同时变化会破坏在固定配置中学到的空间先验。
+- **核心创新 / 方法** · 在输入层做相机感知增广，在特征层加入焦距、地面几何及射线表示。
+- **Baseline** · 以 BEVDepth、BEVFormer、PETR 为基础，表3–4分别消融观测和特征模块。
+- **Benchmark** · nuScenes、Waymo 等跨配置测试，报告 mAP、平移和朝向误差及 NDS。
+- **关键结果 / 消融** · 表1–2验证在不同检测主干和训练测试配置上的迁移，表3列出两个改动的组合。
+- **适用条件 / 局限** · 依赖可用相机内外参，域间目标类别和成像变化也可能影响结果。
+
+**可复用机制** · 换相机阵列部署三维检测时，分别验证观测增广与显式相机特征调制。
+
+<a id="paper-fisherposer"></a>
+
+## FisherPoser: Human Motion Estimation from Sparse Observations with Hierarchical Region-Wise Fisher-Matrix Uncertainty Modeling
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xia_FisherPoser_Human_Motion_Estimation_from_Sparse_Observations_with_Hierarchical_Region-Wise_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xia_FisherPoser_Human_Motion_Estimation_from_Sparse_Observations_with_Hierarchical_Region-Wise_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅头显加双手控制器不足以唯一推断全身姿势，不同关节的歧义也不相同。
+- **核心创新 / 方法** · 在 SO(3) 上按关节输出矩阵 Fisher 分布，结合区域词元并用父关节分布细化子关节。
+- **Baseline** · 与常用稀疏运动估计方法比较，表2–3消融姿态结构与不确定性估计。
+- **Benchmark** · 正文表1–3分别报告姿态估计及不确定性比较。
+- **关键结果 / 消融** · 正文对照点式姿态及概率配置，检验层级结构和不确定表征。
+- **适用条件 / 局限** · 边缘旋转分布未必覆盖联合多峰姿态，传感器布局变化需校验。
+
+**可复用机制** · 稀疏姿态估计可直接预测旋转分布，再沿运动链条件化传播不确定性。
+
+<a id="paper-action-motifs"></a>
+
+## Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kinoshita_Action_Motifs_Self-Supervised_Hierarchical_Representation_of_Human_Body_Movements_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kinoshita_Action_Motifs_Self-Supervised_Hierarchical_Representation_of_Human_Body_Movements_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 定长帧词元难表达共享身体动作和持续时间差异。
+- **核心创新 / 方法** · A4Mer 对三维姿态学习短时潜词元和组合模式，在两层潜空间做掩码预测。
+- **Baseline** · 表2比较同数据预训练方法，表3拆分层级组件。
+- **Benchmark** · AMD 上预训练，正文评动作识别、运动相关任务及消融。
+- **关键结果 / 消融** · 表2–3分别检验表示迁移和各层级贡献。
+- **适用条件 / 局限** · 三维姿态质量和动作分段影响模式发现，与机器人控制语义的对应待验。
+
+**可复用机制** · 运动序列先学习可变长的局部动作单位，再对其组合做掩码预测，以检查跨动作的复用。
+
+<a id="paper-perceval"></a>
+
+## Improving Vision-language Models with Perception-centric Process Reward Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Min_Improving_Vision-language_Models_with_Perception-centric_Process_Reward_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Min_Improving_Vision-language_Models_with_Perception-centric_Process_Reward_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 终局反馈无法指出是哪个感知声明导致错误，可能惩罚正确推理。
+- **核心创新 / 方法** · 感知过程评审逐条比对视觉声明和图像，只降低错误片段词元的优势。
+- **Baseline** · 对照普通 GRPO、不同局部惩罚强度及不同测试时策略。
+- **Benchmark** · 正文表1–3覆盖视觉查找、RealWorldQA、MathVision 和 ChartQA 等正确率。
+- **关键结果 / 消融** · 表3设局部惩罚为零的基线，并对照开启不同惩罚强度后的各项表现。
+- **适用条件 / 局限** · 评审器会错定位或漏标，正常答复和感知错误应分别验收。
+
+**可复用机制** · 用视觉声明核验定位错误片段，按词元调优势并对照整轨迹奖励。
+
+<a id="paper-rng-3d-kv-cache"></a>
+
+## RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_RnG_A_Unified_Transformer_for_Complete_3D_Modeling_from_Partial_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiang_RnG_A_Unified_Transformer_for_Complete_3D_Modeling_from_Partial_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 快速重建只覆盖视频或图像已观测部分，单独生成又可能扭曲可见几何。
+- **核心创新 / 方法** · 重建引导因果注意力隔离重建和生成，以 Transformer KV 缓存作为可由目标位姿查询的三维表示。
+- **Baseline** · 表1–2比较已有重建和新视角生成方法，表3与 LVSM 对照训练效率并做结构消融。
+- **Benchmark** · GSO 稀疏视图重建与生成测试，比较新视角 RGBD 的几何、外观及开销。
+- **关键结果 / 消融** · 表2–3显示同一模型兼顾观测区重建与不可见视角生成，原文报告缓存可快速查询。
+- **适用条件 / 局限** · 未见区域只能生成合理解释，不能当作真实可测的几何。
+
+**可复用机制** · 稀疏视图三维推理时，隔离观测重建和不可见区域生成，并用同一缓存支持反复视角查询。
+
+<a id="paper-s2ft-sparse-spectrum"></a>
+
+## S2FT: Parameter-Efficient Fine-Tuning in Sparse Spectrum Domain
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_S2FT_Parameter-Efficient_Fine-Tuning_in_Sparse_Spectrum_Domain_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_S2FT_Parameter-Efficient_Fine-Tuning_in_Sparse_Spectrum_Domain_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 原始权重轴上微调增量的能量近似均匀，冻结大部分傅里叶系数可能丢掉信号。
+- **核心创新 / 方法** · 先估计粗增量，以行列重排促进局部平滑和频谱稀疏，再只学习重排频谱中的少量系数。
+- **Baseline** · 与直接傅里叶参数适配及其他 PEFT 方案在同骨干对照。
+- **Benchmark** · ImageNet-21K 预训练 ViT-B/16 在 VTAB-1k 与 FGVC 测分类，另有主观生成评测。
+- **关键结果 / 消融** · 表1–3比较参数预算下的任务表现，正文的频谱诊断支持重排的必要性。
+- **适用条件 / 局限** · 需要预估增量，所得重排未必适合不同任务、骨干或权重层。
+
+**可复用机制** · 傅里叶微调前先测权重增量的频谱，若不稀疏则以可逆神经元重排聚拢能量。
+
+<a id="paper-perturbation-aware-filtering"></a>
+
+## PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Han_PAF_Perturbation-Aware_Filtering_for_Open-Set_Semi-Supervised_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_PAF_Perturbation-Aware_Filtering_for_Open-Set_Semi-Supervised_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 未标注池同时有已知和未知类别，单看分类分数可能保留与已知类别不相干的样本。
+- **核心创新 / 方法** · 用保语义扰动构造同样本变体，测其表示变化作为过滤分数；先利用未标注数据，再进入过滤适配阶段。
+- **Baseline** · 同任务其他开放集半监督方法，并用不同外部域外源对照。
+- **Benchmark** · 四套开放集分类数据；表1报告已知类准确率，表2报告域外识别 AUC，表3改变 CIFAR-10 外部域外来源。
+- **关键结果 / 消融** · 表1–3报告不稳定性过滤在多个条件改善域外识别及已知类分类。
+- **适用条件 / 局限** · 扰动必须对已知样本保留语义，天然不稳定的困难类可能被误过滤。
+
+**可复用机制** · 开放集半监督数据清理可用语义保持扰动下的表示不稳定性评估样本是否域外。
+
+<a id="paper-global-information-thresholding"></a>
+
+## Global Information Thresholding for Sufficient and Necessary Circuits
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cho_Global_Information_Thresholding_for_Sufficient_and_Necessary_Circuits_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cho_Global_Information_Thresholding_for_Sufficient_and_Necessary_Circuits_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定电路预算不保证剩余边足以重现行为，也不反映删除这些边会造成的损失。
+- **核心创新 / 方法** · 用保留符号的积分梯度评分，以目标行为保留率确定全局阈值，通过反事实消融检查选中电路和补集。
+- **Baseline** · 与 EAP-IG-inputs (CF) 等归因定位方法比较。
+- **Benchmark** · Mechanistic Interpretability Benchmark 测 CPR、CMD 和部分任务 AUROC；GPT-2 IOI 另外测 ΔNLL、Brier 和 ECE。
+- **关键结果 / 消融** · 表1–2显示跨任务结果有竞争力；表3报告在 IOI 的充分性及所报必要性诊断改善。
+- **适用条件 / 局限** · 电路及阈值依赖任务、行为指标和消融基准；验证范围不足以断言全局唯一电路。
+
+**可复用机制** · 定位模型电路时，用行为保留阈值自动决定边数，并分开报告充分性与必要性。
+
+<a id="paper-m3grounder"></a>
+
+## M3Grounder: Mask-Based Multi-Span and Multi-Granular Grounding for Document QA
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Venna_M3Grounder_Mask-Based_Multi-Span_and_Multi-Granular_Grounding_for_Document_QA_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Venna_M3Grounder_Mask-Based_Multi-Span_and_Multi-Granular_Grounding_for_Document_QA_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 答案可能来自多个不连续区域；粗框遇弯曲文字或图文混排会连入无关像素。
+- **核心创新 / 方法** · 在答案文字中穿插引用令牌，预测短语、行与块的掩码，以溢出抑制及包含损失约束。
+- **Baseline** · 表1与文档证据定位方法比较，表3在普通文档问答对照相似规模模型。
+- **Benchmark** · BoundingDocs、DOGR-Bench、MMDocBench 与 GroundingDocQA-Bench；多粒度测 F1g。
+- **关键结果 / 消融** · 表1–2报告短语及多粒度定位改善，原文比较常规文档问答表现。
+- **适用条件 / 局限** · 需要细粒度掩码及对应层级，非嵌套证据不能直接套用包含约束。
+
+**可复用机制** · 文档问答需要可定位证据时，让每个答案短语输出掩码，并约束粒度间的包含关系。
+
+<a id="paper-geork2"></a>
+
+## GeoRK2: Geometry-Guided Runge-Kutta Integration for Diffusion Transformer Acceleration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_GeoRK2_Geometry-Guided_Runge-Kutta_Integration_for_Diffusion_Transformer_Acceleration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_GeoRK2_Geometry-Guided_Runge-Kutta_Integration_for_Diffusion_Transformer_Acceleration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 抽稀采样步会放大误差，欧氏积分无法量化特征中的各向异性变化。
+- **核心创新 / 方法** · 以经验协方差度量模型激活几何，将噪声预测引出的几何流与二阶 Runge–Kutta 积分结合。
+- **Baseline** · 与 DDIM-50 及相应模型50步参考和少步采样对照。
+- **Benchmark** · DiT-XL/2 的 ImageNet-256、FLUX.1-dev 图像生成、HunyuanVideo 的 VBench；五次运行均值。
+- **关键结果 / 消融** · 作者报告所测场景约4–5倍加速，FID 差约0.81；表1–3按模型列出速度和质量。
+- **适用条件 / 局限** · 通道协方差估计稳定性及重计算开销随模型而异，极少步数不能保证保真。
+
+**可复用机制** · 为扩散推理减少步数时，用经验激活协方差定义积分几何，检验大步长下保真度。

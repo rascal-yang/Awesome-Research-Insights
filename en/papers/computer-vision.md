@@ -1069,5 +1069,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [VideoCoF: Unified Video Editing with Temporal Reasoner](../../conferences/cvpr-2026/cards.md#paper-videocof)
 - [PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection](../../conferences/cvpr-2026/cards.md#paper-paq-detr)
 - [Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis](../../conferences/cvpr-2026/cards.md#paper-motion-3-to-4)
+- [OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery](../../conferences/cvpr-2026/cards.md#paper-onlinehmr-causal-delay-evaluation)
+- [I'm a Map! Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-imap-motion-token-diagnostics)
+- [Parallel Jacobi Decoding for Fast Autoregressive Image Generation](../../conferences/cvpr-2026/cards.md#paper-parallel-jacobi-image-decoding)
+- [3D-Aware Multi-Task Learning with Cross-View Correlations for Dense Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-cvm-dense-mtl)
+- [FisherPoser: Human Motion Estimation from Sparse Observations with Hierarchical Region-Wise Fisher-Matrix Uncertainty Modeling](../../conferences/cvpr-2026/cards.md#paper-fisherposer)
+- [Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements](../../conferences/cvpr-2026/cards.md#paper-action-motifs)
+- [RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations](../../conferences/cvpr-2026/cards.md#paper-rng-3d-kv-cache)
 
 <!-- conference-classification:end -->
