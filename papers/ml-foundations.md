@@ -2593,5 +2593,7 @@
 - [Generalized and Personalized Federated Learning with Black-Box Foundation Models via Orthogonal Transformations](../conferences/cvpr-2026/cards.md#paper-fedot-orthogonal-client-embedding-adaptation)
 - [Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition](../conferences/cvpr-2026/cards.md#paper-samn-monotonic-classifier-norms)
 - [LS-ViT: Least-Squares Hessian Based Block Reconstruction for Low-Bit Post-Training Quantization of Vision Transformers](../conferences/cvpr-2026/cards.md#paper-lsvit-covariance-aware-hessian-quantization)
+- [Learnability-Guided Diffusion for Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-lgd-complementary-distilled-samples)
+- [Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models](../conferences/cvpr-2026/cards.md#paper-variance-expansion-latent-perturbation-robustness)
 
 <!-- conference-classification:end -->

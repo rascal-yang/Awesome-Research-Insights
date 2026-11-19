@@ -819,5 +819,6 @@
 - [General Process Reward Modeling for Robotic Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-dopamine-step-aware-reward)
 - [VES-RFT: Rewarding Visual Evidence Sensitivity to Mitigate Hallucinations in Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-ves-rft-image-conditional-entropy-reward)
 - [Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](../conferences/cvpr-2026/cards.md#paper-gvu-intrinsic-token-level-alignment-reward)
+- [OraPO: Oracle-educated Reinforcement Learning for Data-efficient and Factual Radiology Report Generation](../conferences/cvpr-2026/cards.md#paper-orapo-failed-rollout-supervision)
 
 <!-- conference-classification:end -->

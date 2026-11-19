@@ -1131,5 +1131,9 @@ Robot perception, policy learning, planning, and control.
 - [RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-rcnf-manipulation-anomaly)
 - [TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction](../../conferences/cvpr-2026/cards.md#paper-talo-propagated-spline-submap-alignment)
 - [Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles](../../conferences/cvpr-2026/cards.md#paper-llm-scheduling-constrained-motion-planners)
+- [NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning](../../conferences/cvpr-2026/cards.md#paper-within-group-difficulty-bias-trajectory-rl)
+- [Sparse-View Localization via Online Neural 3D Regression](../../conferences/cvpr-2026/cards.md#paper-on3r-sparse-localization)
+- [KV-Tracker: Real-Time Pose Tracking with Transformers](../../conferences/cvpr-2026/cards.md#paper-kvtracker-bidirectional-cache)
+- [When Robots Should Say ''I Don't Know'': Benchmarking Abstention in Embodied Question Answering](../../conferences/cvpr-2026/cards.md#paper-abstaineqa-underspecified-query-taxonomy)
 
 <!-- conference-classification:end -->

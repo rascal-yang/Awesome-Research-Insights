@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,267 篇，其中 2,068 篇暂收录、1,199 篇排除，另有 775 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,297 篇，其中 2,087 篇暂收录、1,210 篇排除，另有 745 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2074,3 +2074,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,267
 | 三维视觉 | 高效注意力 | [Multi-view Pyramid Transformer: Look Coarser to See Broader](cards.md#paper-mvp-view-spatial-dual-hierarchy) | 跨视图逐步扩大覆盖，同时压缩每图空间 token，控制全局交互成本。 |
 | 机器人学 | 工具调度 | [Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles](cards.md#paper-llm-scheduling-constrained-motion-planners) | 让语言模型只安排经过约束的运动规划器，执行器根据实时反馈工作。 |
 | 高效深度学习 | 模型量化 | [LS-ViT: Least-Squares Hessian Based Block Reconstruction for Low-Bit Post-Training Quantization of Vision Transformers](cards.md#paper-lsvit-covariance-aware-hessian-quantization) | 超低比特块重建时检查忽略样本相关性是否使 Hessian 近似失真。 |
+| 多模态学习 | 表征学习 | [Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval](cards.md#paper-dual-semantic-phase-priors-domain-retrieval) | 无监督跨域检索可用文本语义修正离散伪标签，另用相位先验缓解域特征混杂。 |
+| 多模态学习 | 训练策略 | [Learning complete and explainable visual representations from itemized text supervision](cards.md#paper-independent-complete-itemized-language-supervision) | 若一图对应多条互不等价的描述，应同时限制各条证据混叠并保证全部条目被表示。 |
+| 计算机视觉 | 训练策略 | [Your Latent Mask is Wrong: Pixel-Equivalent Latent Compositing for Diffusion Models](cards.md#paper-pixel-equivalent-latent-compositing) | 潜空间融合可以用解码后像素合成一致性校准，而不必假设下采样掩码的线性加权精确。 |
+| 计算机视觉 | 模型架构 | [NAF: Zero-Shot Feature Upsampling via Neighborhood Attention Filtering](cards.md#paper-image-conditioned-backbone-agnostic-upsampling) | 可仅从高分辨率原图估计局部重采样权重，让上采样器与被插值的视觉骨干解耦。 |
+| 机器人学 | 训练策略 | [NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning](cards.md#paper-within-group-difficulty-bias-trajectory-rl) | 小数据策略的组相对奖励学习可诊断组方差归一化是否压制高难轨迹的梯度。 |
+| 多模态学习 | 推理策略 | [AR2-4FV: Anchored Referring and Re-identification for Long-Term Grounding in Fixed-View Videos](cards.md#paper-static-anchor-memory-target-reentry) | 固定相机长期目标接地可用静态环境锚点维持记忆并约束目标重入后的重识别。 |
+| 机器人学 | 推理策略 | [Sparse-View Localization via Online Neural 3D Regression](cards.md#paper-on3r-sparse-localization) | 极稀疏视图无地图时，在线回归查询点三维位置，再用经典求解器估姿。 |
+| 计算机视觉 | 训练策略 | [Free-Grained Hierarchical Visual Recognition](cards.md#paper-free-grained-hierarchical-recognition) | 标签粒度不一时，用部分层级监督并单独验证各层，避免把粗标注强转成细类。 |
+| 机器人学 | 推理策略 | [KV-Tracker: Real-Time Pose Tracking with Transformers](cards.md#paper-kvtracker-bidirectional-cache) | 对关键帧做全双向建图，再缓存全局注意力键值用于实时姿态查询。 |
+| 计算机视觉 | 推理策略 | [PhysGen: Physically Grounded 3D Shape Generation for Industrial Design](cards.md#paper-physgen-alternating-refinement) | 生成过程中交替应用生成速度场和物理优化，避免最后一次性修正几何。 |
+| 多模态学习 | 奖励函数 | [OraPO: Oracle-educated Reinforcement Learning for Data-efficient and Factual Radiology Report Generation](cards.md#paper-orapo-failed-rollout-supervision) | 强化训练难例没有有效成功轨迹时，用参考答案将失败转为偏好监督，并核对原子事实。 |
+| 多模态学习 | 推理策略 | [Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](cards.md#paper-variation-aware-token-dropping) | 用视觉令牌在语言层间的变化衡量保留价值，并检查评分是否偏向固定位置。 |
+| 多模态学习 | 模型架构 | [M4V: Multimodal Mamba for Efficient Text-to-Video Generation](cards.md#paper-m4v-multimodal-mamba) | 用多模态令牌重组协调语言和视觉扫描，而非直接将文本与长视频拼接给原始状态空间层。 |
+| 多模态学习 | 训练策略 | [TableMix: Enhancing Multimodal Table Reasoning in MLLMs from a Data-Centric Perspective](cards.md#paper-tablemix-reasoning-perception-data) | 配比训练数据时分别覆盖目标推理、一般逻辑和基本感知，避免微调只学任务格式。 |
+| 多模态学习 | 传感器融合 | [Information-Theoretic Decomposition for Multimodal Interaction Learning](cards.md#paper-decomposition-sample-specific-modal-interactions) | 按样本判断冗余、独有和协同信息各有多少，再选择融合方式。 |
+| 机器学习 | 数据蒸馏 | [Learnability-Guided Diffusion for Dataset Distillation](cards.md#paper-lgd-complementary-distilled-samples) | 逐步生成补足已选样本欠缺训练信号的图像，而不只追求表面多样。 |
+| 机器人学 | 评测设计 | [When Robots Should Say ''I Don't Know'': Benchmarking Abstention in Embodied Question Answering](cards.md#paper-abstaineqa-underspecified-query-taxonomy) | 显式加入应拒答或需澄清的问题，分别测环境理解和缺失信息判断。 |
+| 多模态学习 | 评测设计 | [VABench: A Comprehensive Benchmark for Audio-Video Generation](cards.md#paper-vabench-synchronized-audio-video-evaluation) | 分别验证文本对齐、声画事件同步与立体声空间一致性。 |
+| 生成模型 | 训练目标 | [Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models](cards.md#paper-variance-expansion-latent-perturbation-robustness) | 训练 tokenizer 时给潜空间保留吸收采样误差的余量，分别验证重建和生成。 |

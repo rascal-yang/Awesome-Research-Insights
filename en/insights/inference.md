@@ -1692,5 +1692,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding](../../conferences/cvpr-2026/cards.md#paper-gift-irreplaceable-frame-selection)
 - [Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles](../../conferences/cvpr-2026/cards.md#paper-llm-scheduling-constrained-motion-planners)
 - [LS-ViT: Least-Squares Hessian Based Block Reconstruction for Low-Bit Post-Training Quantization of Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-lsvit-covariance-aware-hessian-quantization)
+- [AR2-4FV: Anchored Referring and Re-identification for Long-Term Grounding in Fixed-View Videos](../../conferences/cvpr-2026/cards.md#paper-static-anchor-memory-target-reentry)
+- [Sparse-View Localization via Online Neural 3D Regression](../../conferences/cvpr-2026/cards.md#paper-on3r-sparse-localization)
+- [KV-Tracker: Real-Time Pose Tracking with Transformers](../../conferences/cvpr-2026/cards.md#paper-kvtracker-bidirectional-cache)
+- [PhysGen: Physically Grounded 3D Shape Generation for Industrial Design](../../conferences/cvpr-2026/cards.md#paper-physgen-alternating-refinement)
+- [Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-variation-aware-token-dropping)
 
 <!-- conference-classification:end -->

@@ -461,5 +461,6 @@ Data selection, annotation, augmentation, and sampling.
 - [Scaling4D: Pushing the Frontier of Video Novel View Synthesis through Large-Scale Monocular Videos](../../conferences/cvpr-2026/cards.md#paper-monocular-to-conditional-novel-view-training)
 - [2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition](../../conferences/cvpr-2026/cards.md#paper-minimal-sensor-noise-calibration-frequency-sampling)
 - [Scaling Zero-Shot Reference-to-Video Generation](../../conferences/cvpr-2026/cards.md#paper-reference-from-masked-video-text-only)
+- [Learnability-Guided Diffusion for Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-lgd-complementary-distilled-samples)
 
 <!-- conference-classification:end -->

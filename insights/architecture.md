@@ -791,5 +791,7 @@
 - [RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-rcnf-manipulation-anomaly)
 - [UniCorrn: Unified Correspondence Transformer Across 2D and 3D](../conferences/cvpr-2026/cards.md#paper-unicorrn-shared-geometry-matching)
 - [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](../conferences/cvpr-2026/cards.md#paper-topomesh-shared-dmc-topology)
+- [NAF: Zero-Shot Feature Upsampling via Neighborhood Attention Filtering](../conferences/cvpr-2026/cards.md#paper-image-conditioned-backbone-agnostic-upsampling)
+- [M4V: Multimodal Mamba for Efficient Text-to-Video Generation](../conferences/cvpr-2026/cards.md#paper-m4v-multimodal-mamba)
 
 <!-- conference-classification:end -->

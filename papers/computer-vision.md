@@ -1627,5 +1627,9 @@
 - [UniCorrn: Unified Correspondence Transformer Across 2D and 3D](../conferences/cvpr-2026/cards.md#paper-unicorrn-shared-geometry-matching)
 - [TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification](../conferences/cvpr-2026/cards.md#paper-topomesh-shared-dmc-topology)
 - [Multi-view Pyramid Transformer: Look Coarser to See Broader](../conferences/cvpr-2026/cards.md#paper-mvp-view-spatial-dual-hierarchy)
+- [Your Latent Mask is Wrong: Pixel-Equivalent Latent Compositing for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-pixel-equivalent-latent-compositing)
+- [NAF: Zero-Shot Feature Upsampling via Neighborhood Attention Filtering](../conferences/cvpr-2026/cards.md#paper-image-conditioned-backbone-agnostic-upsampling)
+- [Free-Grained Hierarchical Visual Recognition](../conferences/cvpr-2026/cards.md#paper-free-grained-hierarchical-recognition)
+- [PhysGen: Physically Grounded 3D Shape Generation for Industrial Design](../conferences/cvpr-2026/cards.md#paper-physgen-alternating-refinement)
 
 <!-- conference-classification:end -->

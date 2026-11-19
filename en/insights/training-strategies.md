@@ -1318,5 +1318,11 @@ Training schedules, curricula, and task or stage composition.
 - [Foundry: Distilling 3D Foundation Models for the Edge](../../conferences/cvpr-2026/cards.md#paper-foundry-supertokens-foundation-distillation)
 - [VDOT: Efficient Unified Video Creation via Optimal Transport Distillation](../../conferences/cvpr-2026/cards.md#paper-geometry-aware-optimal-transport-video-distillation)
 - [TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition](../../conferences/cvpr-2026/cards.md#paper-self-supervised-qa-reward-document-structure)
+- [Learning complete and explainable visual representations from itemized text supervision](../../conferences/cvpr-2026/cards.md#paper-independent-complete-itemized-language-supervision)
+- [Your Latent Mask is Wrong: Pixel-Equivalent Latent Compositing for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-pixel-equivalent-latent-compositing)
+- [NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning](../../conferences/cvpr-2026/cards.md#paper-within-group-difficulty-bias-trajectory-rl)
+- [Free-Grained Hierarchical Visual Recognition](../../conferences/cvpr-2026/cards.md#paper-free-grained-hierarchical-recognition)
+- [TableMix: Enhancing Multimodal Table Reasoning in MLLMs from a Data-Centric Perspective](../../conferences/cvpr-2026/cards.md#paper-tablemix-reasoning-perception-data)
+- [Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-variance-expansion-latent-perturbation-robustness)
 
 <!-- conference-classification:end -->

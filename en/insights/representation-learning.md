@@ -770,5 +770,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Chain of World: World Model Thinking in Latent Motion](../../conferences/cvpr-2026/cards.md#paper-latent-motion-world-chain-vla)
 - [MuM: Multi-View Masked Image Modeling for 3D Vision](../../conferences/cvpr-2026/cards.md#paper-uniform-multiview-masking-geometry-pretraining)
 - [LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds](../../conferences/cvpr-2026/cards.md#paper-sparse-semantic-indexes-for-open-vocabulary-3d)
+- [Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-dual-semantic-phase-priors-domain-retrieval)
 
 <!-- conference-classification:end -->

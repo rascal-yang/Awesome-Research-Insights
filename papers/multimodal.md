@@ -1555,5 +1555,14 @@
 - [TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition](../conferences/cvpr-2026/cards.md#paper-self-supervised-qa-reward-document-structure)
 - [AudioStory: Generating Long-Form Narrative Audio with Large Language Models](../conferences/cvpr-2026/cards.md#paper-audiostory-event-bridging)
 - [GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding](../conferences/cvpr-2026/cards.md#paper-gift-irreplaceable-frame-selection)
+- [Text-Phase Synergy Network with Dual Priors for Unsupervised Cross-Domain Image Retrieval](../conferences/cvpr-2026/cards.md#paper-dual-semantic-phase-priors-domain-retrieval)
+- [Learning complete and explainable visual representations from itemized text supervision](../conferences/cvpr-2026/cards.md#paper-independent-complete-itemized-language-supervision)
+- [AR2-4FV: Anchored Referring and Re-identification for Long-Term Grounding in Fixed-View Videos](../conferences/cvpr-2026/cards.md#paper-static-anchor-memory-target-reentry)
+- [OraPO: Oracle-educated Reinforcement Learning for Data-efficient and Factual Radiology Report Generation](../conferences/cvpr-2026/cards.md#paper-orapo-failed-rollout-supervision)
+- [Variation-aware Vision Token Dropping for Faster Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-variation-aware-token-dropping)
+- [M4V: Multimodal Mamba for Efficient Text-to-Video Generation](../conferences/cvpr-2026/cards.md#paper-m4v-multimodal-mamba)
+- [TableMix: Enhancing Multimodal Table Reasoning in MLLMs from a Data-Centric Perspective](../conferences/cvpr-2026/cards.md#paper-tablemix-reasoning-perception-data)
+- [Information-Theoretic Decomposition for Multimodal Interaction Learning](../conferences/cvpr-2026/cards.md#paper-decomposition-sample-specific-modal-interactions)
+- [VABench: A Comprehensive Benchmark for Audio-Video Generation](../conferences/cvpr-2026/cards.md#paper-vabench-synchronized-audio-video-evaluation)
 
 <!-- conference-classification:end -->
