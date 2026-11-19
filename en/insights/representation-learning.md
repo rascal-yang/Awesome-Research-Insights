@@ -738,5 +738,11 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Towards Intrinsic-Aware Monocular 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-intrinsic-conditioned-monocular-spatial-model)
 - [PointCSP: Cross-Sample Semantic Propagation and Stability Preservation in Self-Supervised Point Cloud Learning](../../conferences/cvpr-2026/cards.md#paper-cross-sample-state-space-point-ssl)
 - [PointCNN++: Performant Convolution on Native Points](../../conferences/cvpr-2026/cards.md#paper-pointcnn-native-point-convolution)
+- [Vision Transformers Need More Than Registers](../../conferences/cvpr-2026/cards.md#paper-selective-cls-background-shortcut)
+- [Evidential Neural Radiance Fields](../../conferences/cvpr-2026/cards.md#paper-single-pass-evidential-radiance-uncertainty)
+- [Prompt Yourself: Awakening Textual Semantics in 1D Visual Tokenizers](../../conferences/cvpr-2026/cards.md#paper-train-only-language-alignment-visual-tokenizer)
+- [Uncertainty-Aware Modality Fusion for Unaligned RGB-T Salient Object Detection](../../conferences/cvpr-2026/cards.md#paper-uncertainty-gating-unaligned-sensors)
+- [MD2E: Modeling Depth-to-Edge Cues for Monocular Metric Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-edge-spectrum-metric-depth-scale)
+- [Language-Grounded Decoupled Action Representation for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-lada-language-grounded-action-primitives)
 
 <!-- conference-classification:end -->

@@ -1576,5 +1576,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](../../conferences/cvpr-2026/cards.md#paper-mmrb2-interleaved-judges)
 - [A Debiased Reconstruction-based Framework for Training-Free Detection of AI-Generated Images](../../conferences/cvpr-2026/cards.md#paper-rdd-instance-reconstruction-debiasing)
 - [CaST-Bench: Benchmarking Causal Chain-Grounded Spatio-Temporal Reasoning for Video Question Answering](../../conferences/cvpr-2026/cards.md#paper-cast-bench-causal-evidence)
+- [VisualOverload: Probing Visual Understanding of VLMs in Really Dense Scenes](../../conferences/cvpr-2026/cards.md#paper-visualoverload-dense-detail-diagnostic)
 
 <!-- conference-classification:end -->

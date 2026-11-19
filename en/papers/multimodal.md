@@ -1449,5 +1449,13 @@ Learning across modalities such as images, text, audio, and video.
 - [CrossVL: Complexity-Aware Feature Routing and Paired Curriculum for Cross-View Vision-Language Detection](../../conferences/cvpr-2026/cards.md#paper-crossvl-paired-curriculum)
 - [Grounding Everything in Tokens for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-getok-spatial-vocabulary)
 - [VLM-PTQ: Efficient Post-Training Quantization for Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vlm-ptq-modality-aware)
+- [Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation](../../conferences/cvpr-2026/cards.md#paper-grid-progressive-partial-image-search)
+- [Cluster-Aware Neural Collapse Prompt Tuning for Long-Tailed Generalization of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-cluster-local-neural-collapse-prompts)
+- [Prompt Yourself: Awakening Textual Semantics in 1D Visual Tokenizers](../../conferences/cvpr-2026/cards.md#paper-train-only-language-alignment-visual-tokenizer)
+- [Uncertainty-Aware Modality Fusion for Unaligned RGB-T Salient Object Detection](../../conferences/cvpr-2026/cards.md#paper-uncertainty-gating-unaligned-sensors)
+- [Video Panels for Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-video-panels-temporal-budget)
+- [Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](../../conferences/cvpr-2026/cards.md#paper-synrl-temporal-primitives)
+- [VisualOverload: Probing Visual Understanding of VLMs in Really Dense Scenes](../../conferences/cvpr-2026/cards.md#paper-visualoverload-dense-detail-diagnostic)
+- [Video-CoE: Reinforcing Video Event Prediction via Chain of Events](../../conferences/cvpr-2026/cards.md#paper-video-coe-event-chain-training)
 
 <!-- conference-classification:end -->

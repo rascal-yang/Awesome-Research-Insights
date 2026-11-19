@@ -1068,5 +1068,6 @@
 - [SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping](../conferences/cvpr-2026/cards.md#paper-seegroup-layered-depth)
 - [Affostruction: 3D Affordance Grounding with Generative Reconstruction](../conferences/cvpr-2026/cards.md#paper-affostruction-active-affordance)
 - [Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-afi-on-demand-spatial-affordance-intervention)
+- [Language-Grounded Decoupled Action Representation for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-lada-language-grounded-action-primitives)
 
 <!-- conference-classification:end -->

@@ -2537,5 +2537,9 @@
 - [Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](../conferences/cvpr-2026/cards.md#paper-localdpo-counterfactual-video-regions)
 - [Is Parameter Isolation Better for Prompt-Based Continual Learning?](../conferences/cvpr-2026/cards.md#paper-continual-shared-prompt-activation-protection)
 - [CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](../conferences/cvpr-2026/cards.md#paper-carsam-cross-attention-quantization-reconstruction)
+- [Distilling Balanced Knowledge from a Biased Teacher](../conferences/cvpr-2026/cards.md#paper-ltkd-groupwise-distillation)
+- [Understanding, Accelerating, and Improving MeanFlow Training](../conferences/cvpr-2026/cards.md#paper-meanflow-velocity-curriculum)
+- [FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-fozo-forward-only-prompt-adaptation)
+- [PixelDiT: Pixel Diffusion Transformers for Image Generation](../conferences/cvpr-2026/cards.md#paper-pixeldit-patch-pixel-hierarchical-diffusion)
 
 <!-- conference-classification:end -->

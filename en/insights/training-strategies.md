@@ -1231,5 +1231,10 @@ Training schedules, curricula, and task or stage composition.
 - [Mask to Align, Weight to Disambiguate: Reliable Unsupervised Cross-Modal Hashing with Masked-Weight Contrast](../../conferences/cvpr-2026/cards.md#paper-mask-before-fusion-affinity-negative-weighting)
 - [CrossVL: Complexity-Aware Feature Routing and Paired Curriculum for Cross-View Vision-Language Detection](../../conferences/cvpr-2026/cards.md#paper-crossvl-paired-curriculum)
 - [Is Parameter Isolation Better for Prompt-Based Continual Learning?](../../conferences/cvpr-2026/cards.md#paper-continual-shared-prompt-activation-protection)
+- [Cluster-Aware Neural Collapse Prompt Tuning for Long-Tailed Generalization of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-cluster-local-neural-collapse-prompts)
+- [GenSplat: Bridging the Generalization Gap in 3DGS Language Comprehension](../../conferences/cvpr-2026/cards.md#paper-gensplat-progressive-grounding)
+- [Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](../../conferences/cvpr-2026/cards.md#paper-synrl-temporal-primitives)
+- [UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision](../../conferences/cvpr-2026/cards.md#paper-unreflectanything-specular-supervision)
+- [Understanding, Accelerating, and Improving MeanFlow Training](../../conferences/cvpr-2026/cards.md#paper-meanflow-velocity-curriculum)
 
 <!-- conference-classification:end -->

@@ -744,5 +744,7 @@ Model-wide design and information flow.
 - [Grounding Everything in Tokens for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-getok-spatial-vocabulary)
 - [MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second](../../conferences/cvpr-2026/cards.md#paper-movies-explicit-motion)
 - [Affostruction: 3D Affordance Grounding with Generative Reconstruction](../../conferences/cvpr-2026/cards.md#paper-affostruction-active-affordance)
+- [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](../../conferences/cvpr-2026/cards.md#paper-phygap-polarization)
+- [PixelDiT: Pixel Diffusion Transformers for Image Generation](../../conferences/cvpr-2026/cards.md#paper-pixeldit-patch-pixel-hierarchical-diffusion)
 
 <!-- conference-classification:end -->

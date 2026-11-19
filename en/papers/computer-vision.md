@@ -1520,5 +1520,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [Joint Learning of General and Diverse Patterns with Mixture of Memory Experts for Weakly-Supervised Video Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-shared-private-memory-expert-routing)
 - [MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second](../../conferences/cvpr-2026/cards.md#paper-movies-explicit-motion)
 - [PointCNN++: Performant Convolution on Native Points](../../conferences/cvpr-2026/cards.md#paper-pointcnn-native-point-convolution)
+- [Vision Transformers Need More Than Registers](../../conferences/cvpr-2026/cards.md#paper-selective-cls-background-shortcut)
+- [Evidential Neural Radiance Fields](../../conferences/cvpr-2026/cards.md#paper-single-pass-evidential-radiance-uncertainty)
+- [ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference](../../conferences/cvpr-2026/cards.md#paper-confidence-routed-nested-attention-heads)
+- [MD2E: Modeling Depth-to-Edge Cues for Monocular Metric Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-edge-spectrum-metric-depth-scale)
+- [GenSplat: Bridging the Generalization Gap in 3DGS Language Comprehension](../../conferences/cvpr-2026/cards.md#paper-gensplat-progressive-grounding)
+- [Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](../../conferences/cvpr-2026/cards.md#paper-coupled-diffusion-multiview)
+- [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](../../conferences/cvpr-2026/cards.md#paper-phygap-polarization)
+- [UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision](../../conferences/cvpr-2026/cards.md#paper-unreflectanything-specular-supervision)
 
 <!-- conference-classification:end -->

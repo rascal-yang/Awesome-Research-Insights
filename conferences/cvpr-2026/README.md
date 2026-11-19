@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,727 篇，其中 1,723 篇暂收录、1,004 篇排除，另有 1,315 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,757 篇，其中 1,744 篇暂收录、1,013 篇排除，另有 1,285 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1729,3 +1729,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,727
 | 机器学习 | 持续学习 | [Is Parameter Isolation Better for Prompt-Based Continual Learning?](cards.md#paper-continual-shared-prompt-activation-protection) | 用稀疏共享提示池替代固定分任务参数，再依据历史使用率保护高复用提示。 |
 | 机器人学 | 策略纠错 | [Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation](cards.md#paper-afi-on-demand-spatial-affordance-intervention) | 用执行信号识别重复失误，只在需要时调用三维可供性场修正策略。 |
 | 高效深度学习 | 模型量化 | [CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](cards.md#paper-carsam-cross-attention-quantization-reconstruction) | 量化交叉注意力解码器时，重建注意力信息，并将双向耦合误差纳入校准。 |
+| 计算机视觉 | 表征学习 | [Vision Transformers Need More Than Registers](cards.md#paper-selective-cls-background-shortcut) | ViT 中异常高范数并非伪影的充分诊断，限制背景块参与 CLS 聚合可直接抑制捷径。 |
+| 计算机视觉 | 表征学习 | [Evidential Neural Radiance Fields](cards.md#paper-single-pass-evidential-radiance-uncertainty) | 三维渲染可在一次前向中同时估算数据噪声和模型知识不足，避免把二者混成单一质量分。 |
+| 计算机视觉 | 推理策略 | [ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference](cards.md#paper-confidence-routed-nested-attention-heads) | 弹性 ViT 可以用小头集合先判别，再仅对低置信度样本激活更多头。 |
+| 多模态学习 | 推理策略 | [Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation](cards.md#paper-grid-progressive-partial-image-search) | 自回归图像的推理时搜索可以比较同一网格区域的多个局部进度并提前剪枝。 |
+| 多模态学习 | 训练策略 | [Cluster-Aware Neural Collapse Prompt Tuning for Long-Tailed Generalization of Vision-Language Models](cards.md#paper-cluster-local-neural-collapse-prompts) | 长尾提示微调可按预训练语义簇施加类间几何约束，保护全局泛化结构。 |
+| 多模态学习 | 表征学习 | [Prompt Yourself: Awakening Textual Semantics in 1D Visual Tokenizers](cards.md#paper-train-only-language-alignment-visual-tokenizer) | 图像 tokenizer 可在训练期生成文本表征辅助视觉编码，使推理仍只需要图像。 |
+| 多模态学习 | 表征学习 | [Uncertainty-Aware Modality Fusion for Unaligned RGB-T Salient Object Detection](cards.md#paper-uncertainty-gating-unaligned-sensors) | 传感器空间未对齐时，可估计局部表示不确定性，只在有共识区域增强跨模态融合。 |
+| 计算机视觉 | 表征学习 | [MD2E: Modeling Depth-to-Edge Cues for Monocular Metric Depth Estimation](cards.md#paper-edge-spectrum-metric-depth-scale) | 单目深度尺度未知时，可用预测边缘的频谱统计作为附加尺度证据。 |
+| 计算机视觉 | 训练策略 | [GenSplat: Bridging the Generalization Gap in 3DGS Language Comprehension](cards.md#paper-gensplat-progressive-grounding) | 先对齐类别，再对齐实例，最后对齐自由形式查询，以减少三维语言模型对单场景的过拟合。 |
+| 计算机视觉 | 推理策略 | [Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](cards.md#paper-coupled-diffusion-multiview) | 部署时让具有不同能力的两个扩散模型交互采样，以保留编辑语义和跨视角一致性。 |
+| 多模态学习 | 推理策略 | [Video Panels for Long Video Understanding](cards.md#paper-video-panels-temporal-budget) | 固定视觉输入预算下，用多帧面板换取时间覆盖，并根据问题是否依赖细节选择拼接程度。 |
+| 计算机视觉 | 模型架构 | [PhyGaP: Physically-Grounded Gaussians with Polarization Cues](cards.md#paper-phygap-polarization) | 反光物体光度约束不足时，可增加部分偏振观测来分解材质与反射。 |
+| 机器学习基础与统计 | 损失函数 | [Distilling Balanced Knowledge from a Biased Teacher](cards.md#paper-ltkd-groupwise-distillation) | 蒸馏时分离组间先验和组内判别，校准教师在长尾类别上的偏置。 |
+| 多模态学习 | 训练策略 | [Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](cards.md#paper-synrl-temporal-primitives) | 用时间标签可精确生成的简单视频训练基础运动推理，再用真实数据验证迁移。 |
+| 计算机视觉 | 训练策略 | [UnReflectAnything: RGB-Only Highlight Removal by Rendering Synthetic Specular Supervision](cards.md#paper-unreflectanything-specular-supervision) | 用几何一致的合成高光监督局部干扰定位，再在特征中恢复受损区域。 |
+| 机器学习基础与统计 | 训练策略 | [Understanding, Accelerating, and Improving MeanFlow Training](cards.md#paper-meanflow-velocity-curriculum) | 先学习瞬时和短间隔平均速度，再强化长间隔目标，可减少少步生成中的梯度冲突。 |
+| 高效深度学习 | 测试时适配 | [FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](cards.md#paper-fozo-forward-only-prompt-adaptation) | 部署端只能运行前向时，用零阶扰动更新小型提示参数。 |
+| 多模态学习 | 评测设计 | [VisualOverload: Probing Visual Understanding of VLMs in Really Dense Scenes](cards.md#paper-visualoverload-dense-detail-diagnostic) | 用知识需求低但视觉负载高的场景检验细节识别，并用分辨率消融区分输入瓶颈。 |
+| 机器人学 | 动作表征 | [Language-Grounded Decoupled Action Representation for Robotic Manipulation](cards.md#paper-lada-language-grounded-action-primitives) | 把平移、旋转和夹爪分开建模，并用语言相似性定义动作软标签。 |
+| 生成模型 | 多尺度架构 | [PixelDiT: Pixel Diffusion Transformers for Image Generation](cards.md#paper-pixeldit-patch-pixel-hierarchical-diffusion) | 将全局语义放在 patch 级，把细纹理留给压缩后的像素 token，从而在像素空间端到端训练。 |
+| 多模态学习 | 时序推理 | [Video-CoE: Reinforcing Video Event Prediction via Chain of Events](cards.md#paper-video-coe-event-chain-training) | 将未来预测的中间监督写成连续事件链，让模型显式关联观察与后续事件。 |

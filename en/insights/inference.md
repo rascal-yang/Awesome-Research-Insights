@@ -1634,5 +1634,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Active Intelligence in Video Avatars via Closed-loop World Modeling](../../conferences/cvpr-2026/cards.md#paper-orca-closed-loop-avatar)
 - [SODA: Sensitivity-Oriented Dynamic Acceleration for Diffusion Transformer](../../conferences/cvpr-2026/cards.md#paper-soda-diffusion-sensitivity)
 - [CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](../../conferences/cvpr-2026/cards.md#paper-carsam-cross-attention-quantization-reconstruction)
+- [ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference](../../conferences/cvpr-2026/cards.md#paper-confidence-routed-nested-attention-heads)
+- [Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation](../../conferences/cvpr-2026/cards.md#paper-grid-progressive-partial-image-search)
+- [Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](../../conferences/cvpr-2026/cards.md#paper-coupled-diffusion-multiview)
+- [Video Panels for Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-video-panels-temporal-budget)
+- [FOZO: Forward-Only Zeroth-Order Prompt Optimization for Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-fozo-forward-only-prompt-adaptation)
+- [Video-CoE: Reinforcing Video Event Prediction via Chain of Events](../../conferences/cvpr-2026/cards.md#paper-video-coe-event-chain-training)
 
 <!-- conference-classification:end -->
