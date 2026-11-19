@@ -822,5 +822,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [OraPO: Oracle-educated Reinforcement Learning for Data-efficient and Factual Radiology Report Generation](../../conferences/cvpr-2026/cards.md#paper-orapo-failed-rollout-supervision)
 - [SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization](../../conferences/cvpr-2026/cards.md#paper-safegrpo-rule-based-checks)
 - [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-var-rl-asynchronous-stage-credit)
+- [PromptEnhancer: Taming Your Rewriter for Text-to-Image Generation via Fine-Grained Reward](../../conferences/cvpr-2026/cards.md#paper-promptenhancer-failure-taxonomy)
+- [WebGym: Scaling Training Environments for Long-Horizon Visual Web Agents with Realistic Tasks](../../conferences/cvpr-2026/cards.md#paper-webgym-asynchronous-long-horizon-rollouts)
 
 <!-- conference-classification:end -->

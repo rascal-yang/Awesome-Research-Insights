@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,537 篇，其中 2,244 篇暂收录、1,293 篇排除，另有 505 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,567 篇，其中 2,263 篇暂收录、1,304 篇排除，另有 475 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2250,3 +2250,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,537
 | 智能体 | 检索增强 | [Resolving Evidence Sparsity: Agentic Context Engineering for Long-Document Understanding](cards.md#paper-sleuth-evidence-sparsity-context-selection) | 长文档先查相关页，再按内容类型细筛证据，减少把整页冗余输入推理器。 |
 | 多模态学习 | 评测设计 | [4DP-QA: Scalable QA for 4D Perception in Vision Language Models](cards.md#paper-4dpqa-fixed-reference-motion-qa) | 同时评价图像平面轨迹和固定坐标系的物体运动，区分相机变化与对象位移。 |
 | 多模态学习 | 视觉 Token 筛选 | [HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models](cards.md#paper-hawk-importance-weighted-attention-head-pruning) | 以视觉任务相关的注意力头加权 token 重要性，不把每个头等权平均。 |
+| 多模态学习 | 训练策略 | [TriSim: Tri-Dimensional Similarity Modeling with Extreme Value Theory for False-Negative Mitigation in Remote Sensing Image-Text Retrieval](cards.md#paper-three-way-similarity-false-negative-tail) | 图文对比学习可结合图图、文文和图文相似度识别假负例，避免单一阈值误伤。 |
+| 机器学习基础与统计 | 优化 | [MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models](cards.md#paper-iterative-reward-expert-lora-merging) | 多个奖励目标出现对齐冲突时，可让 LoRA 专家独立训练并周期合并，再用奖励 token 控制推理侧偏好。 |
+| 机器学习基础与统计 | 优化 | [FedSST: Rethinking Fair Federated Graph Learning under Structural Shift](cards.md#paper-structural-complexity-aware-federated-weighting) | 图联邦学习可让结构复杂性参与客户端聚合和本地预算，而不只按样本数。 |
+| 多模态学习 | 训练策略 | [Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs](cards.md#paper-shortcut-reference-policy-lightweight-video-rl) | 小型视频模型的 RL 可先估计捷径策略，再用它作参照降低投机样本的强化。 |
+| 多模态学习 | 推理策略 | [Self-Consistency for LLM-Based Motion Trajectory Generation and Verification](cards.md#paper-transformation-group-consistency-trajectory-verification) | 连续轨迹的自一致性可按变换群聚类，而非逐坐标比较。 |
+| 机器人学 | 数据策略 | [Scalable Trajectory Generation for Whole-Body Mobile Manipulation](cards.md#paper-unified-base-arm-object-kinematics-data-generation) | 合成全身操作轨迹时，可将底盘、手臂和物体约束写入同一运动链进行并行优化。 |
+| 计算机视觉 | 推理策略 | [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](cards.md#paper-dependency-aware-joint-tracking-token-pruning) | 跟踪模型可联合剪枝静态模板、动态模板和搜索 token，保护三者的互补依赖。 |
+| 多模态学习 | 模型架构 | [CLCR: Cross-Level Semantic Collaborative Representation for Multimodal Learning](cards.md#paper-clcr-tiered-modality-exchange) | 在浅中深各级明确哪些特征跨模态共享，限制注意力改写专有信息。 |
+| 机器人学 | 模型架构 | [Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](cards.md#paper-sensor2sensor-cross-embodiment) | 跨机器人设备布局迁移时，将传感器输出转换问题与无配对监督分开验证。 |
+| 机器学习基础与统计 | 损失函数 | [GSNR: Graph Smooth Null-Space Representation for Inverse Problems](cards.md#paper-gsnr-nullspace-prior) | 逆问题的结构先验只作用在不可观测分量，以免破坏真实测量。 |
+| 计算机视觉 | 推理策略 | [RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360deg Image Quality Assessment](cards.md#paper-rl-scaniqa-task-aware-viewports) | 训练主动视点策略时用最终评估任务给反馈，而非先模仿视线再冻结。 |
+| 多模态学习 | 模型架构 | [U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation](cards.md#paper-umind-segmentwise-alignment) | 实时交互以分段同步语言、音频、动作和画面，并独立测推理是否受损。 |
+| 多模态学习 | 训练策略 | [ReasonEdit: Towards Reasoning-Enhanced Image Editing Models](cards.md#paper-reasonedit-thinking-reflection) | 将解释抽象编辑意图与检查修改结果分开训练，使闭环能修复意外改动。 |
+| 多模态学习 | 奖励函数 | [PromptEnhancer: Taming Your Rewriter for Text-to-Image Generation via Fine-Grained Reward](cards.md#paper-promptenhancer-failure-taxonomy) | 训练提示改写器时按属性绑定、否定等不同失败类型独立反馈。 |
+| 机器学习 | 数据筛选 | [FAST: Topology-Aware Frequency-Domain Distribution Matching for Coreset Selection](cards.md#paper-fast-frequency-distribution-coreset) | 选代表性数据时直接约束频域分布差异，减少对下游网络的依赖。 |
+| 智能体 | 强化学习与仿真 | [WebGym: Scaling Training Environments for Long-Horizon Visual Web Agents with Realistic Tasks](cards.md#paper-webgym-asynchronous-long-horizon-rollouts) | 让高等待时间的网页轨迹异步采样，并用分项标准生成可训练的任务反馈。 |
+| 机器人学 | 传感器融合 | [The Midas Touch for Metric Depth](cards.md#paper-mtd-segmentwise-sparse-metric-depth) | 以少量米制深度锚定相对预测，用分段尺度和边界约束减少局部误差。 |
+| 多模态学习 | 结构化生成 | [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](cards.md#paper-omnilottie-structured-command-tokenization) | 为结构化动画生成剥离不变序列化字段，只学习命令和参数。 |
+| 生成模型 | 记忆机制 | [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](cards.md#paper-narrative-weaver-dynamic-visual-memory) | 高层叙事计划与细粒度视觉记忆分开更新，相邻输出无需承担全部历史一致性。 |

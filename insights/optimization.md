@@ -726,5 +726,7 @@
 - [ODGS-SLAM: Omnidirectional Gaussian Splatting SLAM](../conferences/cvpr-2026/cards.md#paper-odgs-slam-graph-keyframes)
 - [LeapAlign: Post-training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories](../conferences/cvpr-2026/cards.md#paper-leapalign-two-step-trajectories)
 - [FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes](../conferences/cvpr-2026/cards.md#paper-freeform-particle-eigenmodes)
+- [MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models](../conferences/cvpr-2026/cards.md#paper-iterative-reward-expert-lora-merging)
+- [FedSST: Rethinking Fair Federated Graph Learning under Structural Shift](../conferences/cvpr-2026/cards.md#paper-structural-complexity-aware-federated-weighting)
 
 <!-- conference-classification:end -->

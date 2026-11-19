@@ -1718,5 +1718,9 @@
 - [InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](../conferences/cvpr-2026/cards.md#paper-inverfill-one-step-inversion)
 - [RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment](../conferences/cvpr-2026/cards.md#paper-requirement-adaptive-test-time-generation)
 - [PromptLoop: Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment](../conferences/cvpr-2026/cards.md#paper-promptloop-latent-feedback)
+- [Self-Consistency for LLM-Based Motion Trajectory Generation and Verification](../conferences/cvpr-2026/cards.md#paper-transformation-group-consistency-trajectory-verification)
+- [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](../conferences/cvpr-2026/cards.md#paper-dependency-aware-joint-tracking-token-pruning)
+- [RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360deg Image Quality Assessment](../conferences/cvpr-2026/cards.md#paper-rl-scaniqa-task-aware-viewports)
+- [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](../conferences/cvpr-2026/cards.md#paper-omnilottie-structured-command-tokenization)
 
 <!-- conference-classification:end -->

@@ -2619,5 +2619,10 @@
 - [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-var-rl-asynchronous-stage-credit)
 - [Beyond Myopic Alignment: Lookahead Optimization for Online Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-lookahead-rehearsal-hypergradient-alignment)
 - [BiGain: Unified Token Compression for Joint Generation and Classification](../conferences/cvpr-2026/cards.md#paper-bigain-frequency-aware-token-merging)
+- [MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models](../conferences/cvpr-2026/cards.md#paper-iterative-reward-expert-lora-merging)
+- [FedSST: Rethinking Fair Federated Graph Learning under Structural Shift](../conferences/cvpr-2026/cards.md#paper-structural-complexity-aware-federated-weighting)
+- [GSNR: Graph Smooth Null-Space Representation for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-gsnr-nullspace-prior)
+- [FAST: Topology-Aware Frequency-Domain Distribution Matching for Coreset Selection](../conferences/cvpr-2026/cards.md#paper-fast-frequency-distribution-coreset)
+- [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](../conferences/cvpr-2026/cards.md#paper-narrative-weaver-dynamic-visual-memory)
 
 <!-- conference-classification:end -->

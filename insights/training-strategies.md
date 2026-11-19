@@ -1362,5 +1362,8 @@
 - [RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution](../conferences/cvpr-2026/cards.md#paper-raw-device-specific-degradation)
 - [LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving](../conferences/cvpr-2026/cards.md#paper-lead-expert-learner-asymmetry)
 - [DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](../conferences/cvpr-2026/cards.md#paper-dsca-structural-subspaces-lifelong-editing)
+- [TriSim: Tri-Dimensional Similarity Modeling with Extreme Value Theory for False-Negative Mitigation in Remote Sensing Image-Text Retrieval](../conferences/cvpr-2026/cards.md#paper-three-way-similarity-false-negative-tail)
+- [Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs](../conferences/cvpr-2026/cards.md#paper-shortcut-reference-policy-lightweight-video-rl)
+- [ReasonEdit: Towards Reasoning-Enhanced Image Editing Models](../conferences/cvpr-2026/cards.md#paper-reasonedit-thinking-reflection)
 
 <!-- conference-classification:end -->

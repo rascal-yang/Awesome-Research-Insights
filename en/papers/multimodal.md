@@ -1613,5 +1613,13 @@ Learning across modalities such as images, text, audio, and video.
 - [DSCA: Dynamic Subspace Concept Alignment for Lifelong VLM Editing](../../conferences/cvpr-2026/cards.md#paper-dsca-structural-subspaces-lifelong-editing)
 - [4DP-QA: Scalable QA for 4D Perception in Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-4dpqa-fixed-reference-motion-qa)
 - [HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-hawk-importance-weighted-attention-head-pruning)
+- [TriSim: Tri-Dimensional Similarity Modeling with Extreme Value Theory for False-Negative Mitigation in Remote Sensing Image-Text Retrieval](../../conferences/cvpr-2026/cards.md#paper-three-way-similarity-false-negative-tail)
+- [Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs](../../conferences/cvpr-2026/cards.md#paper-shortcut-reference-policy-lightweight-video-rl)
+- [Self-Consistency for LLM-Based Motion Trajectory Generation and Verification](../../conferences/cvpr-2026/cards.md#paper-transformation-group-consistency-trajectory-verification)
+- [CLCR: Cross-Level Semantic Collaborative Representation for Multimodal Learning](../../conferences/cvpr-2026/cards.md#paper-clcr-tiered-modality-exchange)
+- [U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation](../../conferences/cvpr-2026/cards.md#paper-umind-segmentwise-alignment)
+- [ReasonEdit: Towards Reasoning-Enhanced Image Editing Models](../../conferences/cvpr-2026/cards.md#paper-reasonedit-thinking-reflection)
+- [PromptEnhancer: Taming Your Rewriter for Text-to-Image Generation via Fine-Grained Reward](../../conferences/cvpr-2026/cards.md#paper-promptenhancer-failure-taxonomy)
+- [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](../../conferences/cvpr-2026/cards.md#paper-omnilottie-structured-command-tokenization)
 
 <!-- conference-classification:end -->

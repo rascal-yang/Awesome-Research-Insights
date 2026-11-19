@@ -1685,5 +1685,7 @@
 - [TriLite: Efficient Weakly Supervised Object Localization with Universal Visual Features and Tri-Region Disentanglement](../conferences/cvpr-2026/cards.md#paper-foreground-background-ambiguity-localization-head)
 - [RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution](../conferences/cvpr-2026/cards.md#paper-raw-device-specific-degradation)
 - [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Urban Scenes](../conferences/cvpr-2026/cards.md#paper-pritti-urban-primitives)
+- [UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking](../conferences/cvpr-2026/cards.md#paper-dependency-aware-joint-tracking-token-pruning)
+- [RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360deg Image Quality Assessment](../conferences/cvpr-2026/cards.md#paper-rl-scaniqa-task-aware-viewports)
 
 <!-- conference-classification:end -->

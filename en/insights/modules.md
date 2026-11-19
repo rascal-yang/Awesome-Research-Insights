@@ -429,5 +429,7 @@ Reusable components and local changes to model inputs or connections.
 - [Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-shapley-modality-learning-regulation)
 - [Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer](../../conferences/cvpr-2026/cards.md#paper-attention-surgery-hybrid-video-diffusion)
 - [VMonarch: Efficient Video Diffusion Transformers with Structured Attention](../../conferences/cvpr-2026/cards.md#paper-vmonarch-spatiotemporal-structured-attention)
+- [The Midas Touch for Metric Depth](../../conferences/cvpr-2026/cards.md#paper-mtd-segmentwise-sparse-metric-depth)
+- [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](../../conferences/cvpr-2026/cards.md#paper-narrative-weaver-dynamic-visual-memory)
 
 <!-- conference-classification:end -->

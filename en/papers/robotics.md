@@ -1163,5 +1163,8 @@ Robot perception, policy learning, planning, and control.
 - [LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving](../../conferences/cvpr-2026/cards.md#paper-lead-expert-learner-asymmetry)
 - [DIMOS: Disentangling Instance-level Moving Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-dimos-event-motion-disentangling)
 - [DreamSAC: Learning Hamiltonian World Models via Symmetry Exploration](../../conferences/cvpr-2026/cards.md#paper-dreamsac-hamiltonian-symmetry-exploration)
+- [Scalable Trajectory Generation for Whole-Body Mobile Manipulation](../../conferences/cvpr-2026/cards.md#paper-unified-base-arm-object-kinematics-data-generation)
+- [Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-sensor2sensor-cross-embodiment)
+- [The Midas Touch for Metric Depth](../../conferences/cvpr-2026/cards.md#paper-mtd-segmentwise-sparse-metric-depth)
 
 <!-- conference-classification:end -->

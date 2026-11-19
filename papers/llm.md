@@ -2472,5 +2472,6 @@
 - [DialogueVPR: Towards Conversational Visual Place Recognition](../conferences/cvpr-2026/cards.md#paper-dialoguevpr-clarifying-loop)
 - [VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension](../conferences/cvpr-2026/cards.md#paper-viro-verification-integrated-operators)
 - [Resolving Evidence Sparsity: Agentic Context Engineering for Long-Document Understanding](../conferences/cvpr-2026/cards.md#paper-sleuth-evidence-sparsity-context-selection)
+- [WebGym: Scaling Training Environments for Long-Horizon Visual Web Agents with Realistic Tasks](../conferences/cvpr-2026/cards.md#paper-webgym-asynchronous-long-horizon-rollouts)
 
 <!-- conference-classification:end -->

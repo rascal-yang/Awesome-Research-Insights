@@ -827,5 +827,8 @@
 - [TouchDream: 3D Object Completion through Imagined Touch](../conferences/cvpr-2026/cards.md#paper-touchdream-imagined-tactile-shape)
 - [DIMOS: Disentangling Instance-level Moving Object Segmentation](../conferences/cvpr-2026/cards.md#paper-dimos-event-motion-disentangling)
 - [PrITTI: Primitive-based Generation of Controllable and Editable 3D Semantic Urban Scenes](../conferences/cvpr-2026/cards.md#paper-pritti-urban-primitives)
+- [CLCR: Cross-Level Semantic Collaborative Representation for Multimodal Learning](../conferences/cvpr-2026/cards.md#paper-clcr-tiered-modality-exchange)
+- [Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-sensor2sensor-cross-embodiment)
+- [U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation](../conferences/cvpr-2026/cards.md#paper-umind-segmentwise-alignment)
 
 <!-- conference-classification:end -->

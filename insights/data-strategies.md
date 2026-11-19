@@ -474,5 +474,7 @@
 - [BiGain: Unified Token Compression for Joint Generation and Classification](../conferences/cvpr-2026/cards.md#paper-bigain-frequency-aware-token-merging)
 - [Resolving Evidence Sparsity: Agentic Context Engineering for Long-Document Understanding](../conferences/cvpr-2026/cards.md#paper-sleuth-evidence-sparsity-context-selection)
 - [HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models](../conferences/cvpr-2026/cards.md#paper-hawk-importance-weighted-attention-head-pruning)
+- [Scalable Trajectory Generation for Whole-Body Mobile Manipulation](../conferences/cvpr-2026/cards.md#paper-unified-base-arm-object-kinematics-data-generation)
+- [FAST: Topology-Aware Frequency-Domain Distribution Matching for Coreset Selection](../conferences/cvpr-2026/cards.md#paper-fast-frequency-distribution-coreset)
 
 <!-- conference-classification:end -->
