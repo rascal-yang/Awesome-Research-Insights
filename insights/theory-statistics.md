@@ -992,5 +992,6 @@
 - [PerpetualWonder: Long-horizon Action-conditioned 4D Scene Generation](../conferences/cvpr-2026/cards.md#paper-perpetualwonder-shared-visual-physics-state)
 - [ParticleGS: Learning Neural Gaussian Particle Dynamics from Videos for Prior-free Physical Motion Extrapolation](../conferences/cvpr-2026/cards.md#paper-particlegs-continuous-particle-dynamics)
 - [LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs](../conferences/cvpr-2026/cards.md#paper-lata-label-free-transductive-conformal)
+- [Think Before You Drive: World Model-Inspired Multimodal Grounding](../conferences/cvpr-2026/cards.md#paper-thinkdeeper-latent-rollout-grounding)
 
 <!-- conference-classification:end -->

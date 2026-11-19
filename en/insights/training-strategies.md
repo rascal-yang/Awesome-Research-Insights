@@ -1284,5 +1284,10 @@ Training schedules, curricula, and task or stage composition.
 - [Masking Teacher and Reinforcing Student for Distilling Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-masked-progressive-teacher-distillation)
 - [VL-Eraser: Vacuum Distillation for Machine Unlearning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vl-eraser-vacuum-distillation)
 - [FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance](../../conferences/cvpr-2026/cards.md#paper-flashmotion-distilled-adapter)
+- [mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds](../../conferences/cvpr-2026/cards.md#paper-origin-aware-reversible-sensor-transport)
+- [Hierarchical Process Reward Models are Symbolic Vision Learners](../../conferences/cvpr-2026/cards.md#paper-hierarchical-symbolic-reconstruction-rewards)
+- [CodePercept: Code-Grounded Visual STEM Perception for MLLMs](../../conferences/cvpr-2026/cards.md#paper-codepercept-perception-solver)
+- [Selective, Regularized, and Calibrated: Harnessing Vision Foundation Models for Cross-Domain Few-Shot Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-hera-exemplar-transfer-risk)
+- [Evidential Deep Partial Label Learning to Quantify Disambiguation Uncertainty](../../conferences/cvpr-2026/cards.md#paper-edpll-uncertainty-aware-partial-labels)
 
 <!-- conference-classification:end -->

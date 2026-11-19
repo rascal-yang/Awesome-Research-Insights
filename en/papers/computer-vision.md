@@ -1582,5 +1582,14 @@ Visual representation, recognition, reconstruction, and generation.
 - [CASR: A Robust Cyclic Framework for Arbitrary Large-Scale Super-Resolution with Distribution Alignment and Self-Similarity Awareness](../../conferences/cvpr-2026/cards.md#paper-casr-in-distribution-cycles)
 - [FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance](../../conferences/cvpr-2026/cards.md#paper-flashmotion-distilled-adapter)
 - [Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](../../conferences/cvpr-2026/cards.md#paper-neupig-sobolev-deformations)
+- [Learning 3D Representations for Spatial Intelligence from Unposed Multi-View Images](../../conferences/cvpr-2026/cards.md#paper-dual-masked-geometric-unified-splat)
+- [Occlusion-Aware SORT: Observing Occlusion for Robust Multi-Object Tracking](../../conferences/cvpr-2026/cards.md#paper-occlusion-aware-tracking-cost-motion)
+- [V-DPM: 4D Video Reconstruction with Dynamic Point Maps](../../conferences/cvpr-2026/cards.md#paper-video-dynamic-point-map-coordinates)
+- [AnthroTAP: Learning Point Tracking with Real-World Motion](../../conferences/cvpr-2026/cards.md#paper-mesh-derived-real-video-point-supervision)
+- [Bridging the Perception Gap in Image Super-Resolution Evaluation](../../conferences/cvpr-2026/cards.md#paper-rqi-relative-quality)
+- [Unified Spherical Frontend: Learning Rotation-Equivariant Representations of Spherical Images from Any Camera](../../conferences/cvpr-2026/cards.md#paper-usf-spherical-frontend)
+- [RADAR: VQ-VAE Decoder of VAR is a Good Student for Restoring Against Degradation by Acceleration](../../conferences/cvpr-2026/cards.md#paper-radar-decoder-post-adaptation)
+- [Selective, Regularized, and Calibrated: Harnessing Vision Foundation Models for Cross-Domain Few-Shot Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-hera-exemplar-transfer-risk)
+- [Annotation-Efficient Coreset Selection for Context-dependent Segmentation](../../conferences/cvpr-2026/cards.md#paper-context-segmentation-point-transport-coreset)
 
 <!-- conference-classification:end -->

@@ -1597,5 +1597,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models](../../conferences/cvpr-2026/cards.md#paper-state-space-activation-map-diagnostics)
 - [HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](../../conferences/cvpr-2026/cards.md#paper-herbench-minimum-required-frame-set)
 - [MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents](../../conferences/cvpr-2026/cards.md#paper-mmbench-gui-efficiency-quality-hierarchical-evaluation)
+- [Bridging the Perception Gap in Image Super-Resolution Evaluation](../../conferences/cvpr-2026/cards.md#paper-rqi-relative-quality)
 
 <!-- conference-classification:end -->

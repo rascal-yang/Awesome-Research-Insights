@@ -1516,5 +1516,11 @@
 - [Self-Corrected Image Generation with Explainable Latent Rewards](../conferences/cvpr-2026/cards.md#paper-xlard-differentiable-reward-surrogate)
 - [See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs](../conferences/cvpr-2026/cards.md#paper-ecrd-stepwise-dynamic-visual-evidence)
 - [HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](../conferences/cvpr-2026/cards.md#paper-herbench-minimum-required-frame-set)
+- [mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds](../conferences/cvpr-2026/cards.md#paper-origin-aware-reversible-sensor-transport)
+- [DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](../conferences/cvpr-2026/cards.md#paper-factorized-local-ambient-sensor-alignment)
+- [Hierarchical Process Reward Models are Symbolic Vision Learners](../conferences/cvpr-2026/cards.md#paper-hierarchical-symbolic-reconstruction-rewards)
+- [CodePercept: Code-Grounded Visual STEM Perception for MLLMs](../conferences/cvpr-2026/cards.md#paper-codepercept-perception-solver)
+- [Collaborative Multi-Mode Pruning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-comp-coupled-pruning)
+- [MIBURI: Towards Expressive Interactive Gesture Synthesis](../conferences/cvpr-2026/cards.md#paper-miburi-causal-partwise-gesture-codec)
 
 <!-- conference-classification:end -->

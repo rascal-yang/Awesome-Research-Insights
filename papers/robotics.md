@@ -1105,5 +1105,7 @@
 - [Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment](../conferences/cvpr-2026/cards.md#paper-high-value-zone-registration)
 - [DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning](../conferences/cvpr-2026/cards.md#paper-embodiment-contact-tokens-before-grasp)
 - [Contact-Aware Neural Dynamics](../conferences/cvpr-2026/cards.md#paper-contact-aware-neural-dynamics)
+- [Think Before You Drive: World Model-Inspired Multimodal Grounding](../conferences/cvpr-2026/cards.md#paper-thinkdeeper-latent-rollout-grounding)
+- [Learning Surgical Robotic Manipulation with 3D Spatial Priors](../conferences/cvpr-2026/cards.md#paper-sst-endoscopic-geometry-prior-policy)
 
 <!-- conference-classification:end -->

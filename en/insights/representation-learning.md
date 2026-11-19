@@ -759,5 +759,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](../../conferences/cvpr-2026/cards.md#paper-appearance-separated-latent-video-policies)
 - [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-uncertain-joint-replacement-pose-graph)
 - [MoLingo: Motion-Language Alignment for Text-to-Human Motion Generation](../../conferences/cvpr-2026/cards.md#paper-frame-level-language-aligned-motion-latents)
+- [Learning 3D Representations for Spatial Intelligence from Unposed Multi-View Images](../../conferences/cvpr-2026/cards.md#paper-dual-masked-geometric-unified-splat)
+- [V-DPM: 4D Video Reconstruction with Dynamic Point Maps](../../conferences/cvpr-2026/cards.md#paper-video-dynamic-point-map-coordinates)
+- [DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](../../conferences/cvpr-2026/cards.md#paper-factorized-local-ambient-sensor-alignment)
+- [Learning Surgical Robotic Manipulation with 3D Spatial Priors](../../conferences/cvpr-2026/cards.md#paper-sst-endoscopic-geometry-prior-policy)
 
 <!-- conference-classification:end -->

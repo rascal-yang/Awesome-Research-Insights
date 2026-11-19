@@ -1667,5 +1667,10 @@
 - [CASR: A Robust Cyclic Framework for Arbitrary Large-Scale Super-Resolution with Distribution Alignment and Self-Similarity Awareness](../conferences/cvpr-2026/cards.md#paper-casr-in-distribution-cycles)
 - [Self-Corrected Image Generation with Explainable Latent Rewards](../conferences/cvpr-2026/cards.md#paper-xlard-differentiable-reward-surrogate)
 - [See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs](../conferences/cvpr-2026/cards.md#paper-ecrd-stepwise-dynamic-visual-evidence)
+- [Occlusion-Aware SORT: Observing Occlusion for Robust Multi-Object Tracking](../conferences/cvpr-2026/cards.md#paper-occlusion-aware-tracking-cost-motion)
+- [Collaborative Multi-Mode Pruning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-comp-coupled-pruning)
+- [RADAR: VQ-VAE Decoder of VAR is a Good Student for Restoring Against Degradation by Acceleration](../conferences/cvpr-2026/cards.md#paper-radar-decoder-post-adaptation)
+- [LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing](../conferences/cvpr-2026/cards.md#paper-ldp-slicing-bit-plane)
+- [MIBURI: Towards Expressive Interactive Gesture Synthesis](../conferences/cvpr-2026/cards.md#paper-miburi-causal-partwise-gesture-codec)
 
 <!-- conference-classification:end -->

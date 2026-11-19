@@ -2571,5 +2571,7 @@
 - [EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](../conferences/cvpr-2026/cards.md#paper-editctrl-mask-local-global-context)
 - [VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](../conferences/cvpr-2026/cards.md#paper-vecattention-vertical-vector-sparsity)
 - [GDRO: Group-level Reward Post-training Suitable for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-gdro-offline-groupwise-flow-reward)
+- [LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing](../conferences/cvpr-2026/cards.md#paper-ldp-slicing-bit-plane)
+- [Evidential Deep Partial Label Learning to Quantify Disambiguation Uncertainty](../conferences/cvpr-2026/cards.md#paper-edpll-uncertainty-aware-partial-labels)
 
 <!-- conference-classification:end -->

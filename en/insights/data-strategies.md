@@ -453,5 +453,7 @@ Data selection, annotation, augmentation, and sampling.
 - [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](../../conferences/cvpr-2026/cards.md#paper-hats-semantic-ambiguity-trajectory-synthesis)
 - [Rethinking Dataset Distillation: Hard Truths about Soft Labels](../../conferences/cvpr-2026/cards.md#paper-dataset-distillation-soft-label-confound)
 - [Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained Classification](../../conferences/cvpr-2026/cards.md#paper-context-marginalized-few-shot-synthesis)
+- [AnthroTAP: Learning Point Tracking with Real-World Motion](../../conferences/cvpr-2026/cards.md#paper-mesh-derived-real-video-point-supervision)
+- [Annotation-Efficient Coreset Selection for Context-dependent Segmentation](../../conferences/cvpr-2026/cards.md#paper-context-segmentation-point-transport-coreset)
 
 <!-- conference-classification:end -->

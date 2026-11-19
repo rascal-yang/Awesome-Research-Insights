@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,057 篇，其中 1,930 篇暂收录、1,127 篇排除，另有 985 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,087 篇，其中 1,949 篇暂收录、1,138 篇排除，另有 955 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1936,3 +1936,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,057
 | 多模态学习 | 评测设计 | [HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](cards.md#paper-herbench-minimum-required-frame-set) | 用最小必需帧集合验证多证据推理，减少只看一处仍然答对的题目。 |
 | 智能体 | 评测设计 | [MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents](cards.md#paper-mmbench-gui-efficiency-quality-hierarchical-evaluation) | 把界面内容、定位、执行及跨应用协作分开评，并将冗余动作计入结果。 |
 | 生成模型 | 强化学习与奖励 | [GDRO: Group-level Reward Post-training Suitable for Diffusion Models](cards.md#paper-gdro-offline-groupwise-flow-reward) | 对确定性流模型按样本组离线优化奖励，并用人工评价检查奖励投机。 |
+| 计算机视觉 | 表征学习 | [Learning 3D Representations for Spatial Intelligence from Unposed Multi-View Images](cards.md#paper-dual-masked-geometric-unified-splat) | 从无位姿图像学习三维表征时，可分别遮蔽编码和解码 token 强化几何推断。 |
+| 多模态学习 | 训练策略 | [mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds](cards.md#paper-origin-aware-reversible-sensor-transport) | 在稀疏与稠密传感器表征间做双向流时，可以保留起始信息来区分潜空间交叉的路径。 |
+| 计算机视觉 | 推理策略 | [Occlusion-Aware SORT: Observing Occlusion for Robust Multi-Object Tracking](cards.md#paper-occlusion-aware-tracking-cost-motion) | 可把遮挡状态同时用于匹配代价和运动动量，避免遮挡框误差干扰轨迹。 |
+| 计算机视觉 | 表征学习 | [V-DPM: 4D Video Reconstruction with Dynamic Point Maps](cards.md#paper-video-dynamic-point-map-coordinates) | 动态图点图可同时表示多时刻的三维形状和运动，让成对预测扩展到整段视频。 |
+| 多模态学习 | 表征学习 | [DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](cards.md#paper-factorized-local-ambient-sensor-alignment) | 非穿戴传感器和第三视角视频对齐时，可分别保留局部空间运动和全局时序分量。 |
+| 计算机视觉 | 数据策略 | [AnthroTAP: Learning Point Tracking with Real-World Motion](cards.md#paper-mesh-derived-real-video-point-supervision) | 可从结构化三维拟合生成真实视频的稠密点跟踪伪标注，再用独立运动线索过滤。 |
+| 多模态学习 | 训练策略 | [Hierarchical Process Reward Models are Symbolic Vision Learners](cards.md#paper-hierarchical-symbolic-reconstruction-rewards) | 图表理解可通过结构序列的分层过程奖励训练，并用可执行重建核查中间表示。 |
+| 多模态学习 | 训练策略 | [CodePercept: Code-Grounded Visual STEM Perception for MLLMs](cards.md#paper-codepercept-perception-solver) | 先独立对照感知和解题能力，再用可执行程序为图像描述提供可核对的监督。 |
+| 计算机视觉 | 评测与诊断 | [Bridging the Perception Gap in Image Super-Resolution Evaluation](cards.md#paper-rqi-relative-quality) | 用人工成对偏好校准恢复指标，再选择是否按绝对分数或相对质量评估。 |
+| 多模态学习 | 推理策略 | [Collaborative Multi-Mode Pruning for Vision-Language Models](cards.md#paper-comp-coupled-pruning) | 同时减少参数和令牌时联合估计它们的重要性，并按任务预算分配两种剪枝。 |
+| 计算机视觉 | 模型架构 | [Unified Spherical Frontend: Learning Rotation-Equivariant Representations of Spherical Images from Any Camera](cards.md#paper-usf-spherical-frontend) | 跨相机镜头时先把像素转成统一方向，再在球面上建模邻域。 |
+| 计算机视觉 | 推理策略 | [RADAR: VQ-VAE Decoder of VAR is a Good Student for Restoring Against Degradation by Acceleration](cards.md#paper-radar-decoder-post-adaptation) | 先按语义成本剪生成注意力，再用生成端自身知识微调最终解码器补偿失真。 |
+| 计算机视觉 | 训练策略 | [Selective, Regularized, and Calibrated: Harnessing Vision Foundation Models for Cross-Domain Few-Shot Semantic Segmentation](cards.md#paper-hera-exemplar-transfer-risk) | 少标签域适配时，用示例迁移风险选择冻结骨干层，避免全量微调。 |
+| 机器学习基础与统计 | 推理策略 | [LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing](cards.md#paper-ldp-slicing-bit-plane) | 在源端图像隐私预算受限时，按位平面的表达差异分配扰动并单独测下游效用。 |
+| 计算机视觉 | 数据筛选 | [Annotation-Efficient Coreset Selection for Context-dependent Segmentation](cards.md#paper-context-segmentation-point-transport-coreset) | 先用便宜点标注估计前景和背景混淆，再决定哪些图像值得完整标注。 |
+| 多模态学习 | 流式生成 | [MIBURI: Towards Expressive Interactive Gesture Synthesis](cards.md#paper-miburi-causal-partwise-gesture-codec) | 把动作按身体部件分层编码，让语音驱动动作在无未来输入时实时生成。 |
+| 机器学习 | 弱监督学习 | [Evidential Deep Partial Label Learning to Quantify Disambiguation Uncertainty](cards.md#paper-edpll-uncertainty-aware-partial-labels) | 候选标签中只有一个正确时，显式估计消歧证据与可信度。 |
+| 机器人学 | 世界模型 | [Think Before You Drive: World Model-Inspired Multimodal Grounding](cards.md#paper-thinkdeeper-latent-rollout-grounding) | 在对含糊指令做定位前，先展开与命令有关的未来潜状态。 |
+| 机器人学 | 几何策略学习 | [Learning Surgical Robotic Manipulation with 3D Spatial Priors](cards.md#paper-sst-endoscopic-geometry-prior-policy) | 在固定双目观察下用预训练几何特征提供空间先验，让策略保留端到端控制。 |
