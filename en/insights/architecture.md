@@ -618,5 +618,7 @@ Model-wide design and information flow.
 - [Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration](../../conferences/cvpr-2026/cards.md#paper-rar-latent-restoration-assessment)
 - [Causality in Video Diffusers is Separable from Denoising](../../conferences/cvpr-2026/cards.md#paper-separable-causal-diffusion)
 - [CUBic: Coordinated Unified Bimanual Perception and Control Framework](../../conferences/cvpr-2026/cards.md#paper-cubic-bimanual)
+- [Semantic Context Matters: Improving Conditioning for Autoregressive Models](../../conferences/cvpr-2026/cards.md#paper-scar-semantic-context)
+- [SRA-Det: Learning Omni-Grained Open-Vocabulary Detection Beyond Category Names](../../conferences/cvpr-2026/cards.md#paper-sra-det)
 
 <!-- conference-classification:end -->

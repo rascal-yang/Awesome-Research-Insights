@@ -9031,3 +9031,273 @@
 - **适用条件 / 局限** · 需要可追踪表面及有效光照变化，非刚体对应失真或纯静态场景缺少该监督。
 
 **可复用机制** · 动态逆渲染利用同一表面随运动经过不同光照的观测，辅助分离材质和照明。
+
+<a id="paper-clean-pretraining-feature-target-multimodal-fusion"></a>
+
+## Distribution-Aligned Multimodal Fusion for Robust Object Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hao_Distribution-Aligned_Multimodal_Fusion_for_Robust_Object_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hao_Distribution-Aligned_Multimodal_Fusion_for_Robust_Object_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 针对训练退化优化 RGB 和红外融合，可能会损害新退化下的检测。
+- **核心创新 / 方法** · 从正常图像估计冻结检测器的特征分布，训练轻量融合层将退化观测映射到该分布。
+- **Baseline** · 对照不对齐、对齐训练退化分布、冻结模型只优化任务损失及端到端更新。
+- **Benchmark** · 包括 LLVIP 等数据集，训练使用过曝样本，测试过曝与未见的夜间、欠曝和模糊，使用 IoU 0.5 的 mAP。
+- **关键结果 / 消融** · 表 3 对齐正常分布的夜间、模糊结果为 76.8、40.6，对齐过曝分布为 67.5、28.5；过曝条件则为 47.3 对 48.2。
+- **适用条件 / 局限** · 依赖取得能代表良好工作区间的正常数据，也依赖另一模态提供退化时仍有效的信息。
+
+**可复用机制** · 训练只包含少数退化时，可让融合特征对齐冻结检测器已熟悉的正常分布，并用未见退化对照。见表 3。
+
+<a id="paper-driffusion-parallel-draft-noise-refinement"></a>
+
+## DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Bai_DRiffusion_Draft-and-Refine_Process_Parallelizes_Diffusion_Models_with_Ease_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Bai_DRiffusion_Draft-and-Refine_Process_Parallelizes_Diffusion_Models_with_Ease_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 扩散采样各步依赖上一步，直接并行会破坏走过的状态或需要复制大量中间特征。
+- **核心创新 / 方法** · 跳步构造未来时间的候选状态，并行计算噪声估计，再把结果用于常规去噪过程，提供保守与激进两种模式。
+- **Baseline** · 与单设备原采样、少步采样、AsyncDiff 在 SDXL 上比较。
+- **Benchmark** · MS-COCO 上以加速比、额外显存、FID、CLIP、PickScore 衡量。
+- **关键结果 / 消融** · 表 2 四设备激进模式相对单设备快 3.6 倍、增加 222 MB、FID 24.14；AsyncDiff 四设备一配置快 3.4 倍、增加 554 MB、FID 24.25。
+- **适用条件 / 局限** · 需要多设备有效并行与通信，草稿近似误差和加速受模型及采样计划影响。
+
+**可复用机制** · 多设备扩散加速可比较先草拟未来状态并批量计算去噪，再以常规轨迹细化，检查延迟、显存和图像质量。见表 2。
+
+<a id="paper-feat-shared-prototype-geometry-replay"></a>
+
+## From Selection to Scheduling: Federated Geometry-Aware Correction Makes Exemplar Replay Work Better under Continual Dynamic Heterogeneity
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qi_From_Selection_to_Scheduling_Federated_Geometry-Aware_Correction_Makes_Exemplar_Replay_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qi_From_Selection_to_Scheduling_Federated_Geometry-Aware_Correction_Makes_Exemplar_Replay_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 客户端与任务的类比例会变，代表样本回放仍可能把稀有类表征拉向常见类。
+- **核心创新 / 方法** · 用固定等角原型约束各端的表征角度结构，利用基于能量的推理几何校正减弱常见类偏置。
+- **Baseline** · 在 FedCBDR 上比较只设固定原型、加入几何结构对齐、加入推理校正与组合。
+- **Benchmark** · 五个客户端的 CIFAR-10 三任务和 CIFAR-100 五任务，在不同异质性参数下比较平均准确率。
+- **关键结果 / 消融** · 表 2 的 CIFAR-10 在 β=0.5 时，FedCBDR 为 63.32%，只加固定原型反降到 62.17%，再加两项完整机制为 72.67%。
+- **适用条件 / 局限** · 依赖客户端间可协调的类别和参照空间；固定原型本身未必有利，开放标签或更复杂任务需重测。
+
+**可复用机制** · 联邦回放发生少数类塌缩时，可用跨客户端共享固定原型作角度锚点，再单测训练时几何对齐和推理校正。见表 2。
+
+<a id="paper-star-separability-gated-test-time-prompts"></a>
+
+## STAR: Test-Time Adaptation Can Enhance Universal Prompt Learning for Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fu_STAR_Test-Time_Adaptation_Can_Enhance_Universal_Prompt_Learning_for_Vision-Language_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_STAR_Test-Time_Adaptation_Can_Enhance_Universal_Prompt_Learning_for_Vision-Language_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无标签测试流可能包含易被模型高置信误识别的域外样本。
+- **核心创新 / 方法** · 用 Fisher 可分性软门控区分样本，以不确定性感知的共轭优化构造伪标签并通过原型检索校准。
+- **Baseline** · 与 LoCoOp 等提示适配法比较，并消融软门控、共轭优化和测试时独立提示更新。
+- **Benchmark** · ImageNet-1k 作为域内集，表 3 在 iNaturalist 与 SUN 汇总 FPR95 和 AUROC。
+- **关键结果 / 消融** · 表 3 的 STAR-L 完整设置 FPR95、AUROC 为 14.55、97.08，移除软门控后为 83.02、74.28。
+- **适用条件 / 局限** · 依赖域内和域外在当前嵌入下具有一定可分性，目标流中发生分布占比改变时需重验门控。
+
+**可复用机制** · 测试流混有域外数据时，用可分性门控划分提示更新与伪标注，避免把低熵直接当作高可信。见表 3。
+
+<a id="paper-almc-nullspace-retained-view-updates"></a>
+
+## Anti-Degradation Lifelong Multi-View Clustering
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Anti-Degradation_Lifelong_Multi-View_Clustering_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Anti-Degradation_Lifelong_Multi-View_Clustering_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 新增视图的梯度可能改坏旧视图的聚类空间，仅对齐现有分布不足以确保旧结构保持。
+- **核心创新 / 方法** · 以保存的表征知识定义零空间，只允许新更新沿与旧知识正交的方向改变，并配合结构保持目标。
+- **Baseline** · 与 DSVC、ICMVC、MCMVC 等对照，表 3 同框架比较去掉零空间投影以及其他损失。
+- **Benchmark** · Oxford4、ALOI-10、NUS 等持续多视图聚类，以 ACC 与 NMI 评估。
+- **关键结果 / 消融** · 表 3 的 ALOI-10 去掉零空间投影时 ACC、NMI 为 76.92、80.08，完整设置为 90.90、87.32。
+- **适用条件 / 局限** · 约束基于可保存的近似旧子空间，若有效子空间逐渐占满，新视图可使用的方向会收缩。
+
+**可复用机制** · 持续新增视图时，可把更新限制在旧表征的零空间，再与同模型不投影的版本比较聚类稳定性。见表 3。
+
+<a id="paper-fedsdr-spectral-fidelity-client-aggregation"></a>
+
+## FedSDR: Federated Graph Learning with Structural Noise Detection and Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_FedSDR_Federated_Graph_Learning_with_Structural_Noise_Detection_and_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_FedSDR_Federated_Graph_Learning_with_Structural_Noise_Detection_and_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 节点关系记录不可靠会使图网络邻域传播偏离，并通过聚合影响其他客户端。
+- **核心创新 / 方法** · 用谱结构保真度调整客户端上行权重，同时在客户端重建结构以改善本地传播。
+- **Baseline** · 对照 FedAvg、其他联邦图方法，以及只用聚合或只做重建的消融。
+- **Benchmark** · PubMed、Actor、ogbn-products 的非独立同分布子图任务，报告节点分类准确率与不同结构噪声水平。
+- **关键结果 / 消融** · 表 2 的 ogbn-products 无两模块为 72.66%，只加聚合为 74.25%，只加重建为 75.92%，完整 78.57%。
+- **适用条件 / 局限** · 结构保真度低也可能表示真实分布差异，应用到异质图时需检验是否压低有价值的少数客户端。
+
+**可复用机制** · 联邦图协作时可单独比较结构质量加权聚合和本地拓扑重建，分清全局与客户端收益。见表 2。
+
+<a id="paper-speede3dgs"></a>
+
+## SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tu_SpeeDe3DGS_Speedy_Deformable_3D_Gaussian_Splatting_with_Temporal_Pruning_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tu_SpeeDe3DGS_Speedy_Deformable_3D_Gaussian_Splatting_with_Temporal_Pruning_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 动态3DGS 对每个高斯执行神经形变，限制实时渲染。
+- **核心创新 / 方法** · 按时间聚合敏感度裁剪，扰动时间戳训练以减轻漂浮点，再以 GroupFlow 得到共享 SE(3) 变换。
+- **Baseline** · 基于 DeformableGS，表2也在4DGS上累积加入组件。
+- **Benchmark** · NeRF-DS 七真实场景，MonoDyGauBench 五数据集50场景，比较渲染速度、训练耗时和画质。
+- **关键结果 / 消融** · 正文报告 DeformableGS 加两项时间机制后平均渲染加速6.78倍，加入 GroupFlow 后13.71倍。
+- **适用条件 / 局限** · 依赖运动可被分组近似为刚体，细薄且快速非刚性形变需单测。
+
+**可复用机制** · 动态场景可先按跨时间贡献裁剪，再把多点的形变蒸馏为共享刚体运动。
+
+<a id="paper-scar-semantic-context"></a>
+
+## Semantic Context Matters: Improving Conditioning for Autoregressive Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Semantic_Context_Matters_Improving_Conditioning_for_Autoregressive_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jin_Semantic_Context_Matters_Improving_Conditioning_for_Autoregressive_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅在解码阶段注入条件，或用密集视觉 token 作前缀，会遗漏高层语义或增加开销。
+- **核心创新 / 方法** · 压缩预填充中的语义表示，解码时用末端视觉状态对齐目标语义。
+- **Baseline** · 表1比较 next-token、next-set，表2基于 LlamaGen-XL，表3包含重训 ControlAR。
+- **Benchmark** · ImageNet 条件生成、MultiGen-20M 深度/边缘控制及 PIE-Bench 编辑，报告 FID、控制一致性与 CLIP 等。
+- **关键结果 / 消融** · 表2跨四种控制类型比较画质与条件一致性，表5比较压缩率。
+- **适用条件 / 局限** · 需能取得可靠的目标语义，压缩前缀不足以保证小区域和低层条件被保留。
+
+**可复用机制** · 自回归视觉编辑可同时压缩语义前缀，并使解码隐藏状态对齐目标语义。
+
+<a id="paper-sra-det"></a>
+
+## SRA-Det: Learning Omni-Grained Open-Vocabulary Detection Beyond Category Names
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_SRA-Det_Learning_Omni-Grained_Open-Vocabulary_Detection_Beyond_Category_Names_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_SRA-Det_Learning_Omni-Grained_Open-Vocabulary_Detection_Beyond_Category_Names_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 按类别名称匹配的检测器难区分同类对象的颜色、材质或纹理。
+- **核心创新 / 方法** · 从文本 token 检索多个语义分面，使用 soft-min 匹配模拟逻辑 AND，并利用筛验的属性标注训练。
+- **Baseline** · 表1–2比较既有开放词汇检测器，表3加入 MLLM。
+- **Benchmark** · LVIS minival 按频率组报 AP，FG-OVD 八子集报细粒度检测。
+- **关键结果 / 消融** · Swin-T 达 FG-OVD 零样本54.9 mAP、LVIS 40.4 AP。
+- **适用条件 / 局限** · soft-min 可能对噪声属性过于敏感，含可选条件、否定或逻辑 OR 的查询需单测。
+
+**可复用机制** · 组合检索或检测含多个必要属性时，评估可微合取，防止一项高分掩盖缺少的约束。
+
+<a id="paper-rescene4d"></a>
+
+## ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Steiner_ReScene4D_Temporally_Consistent_Semantic_Instance_Segmentation_of_Evolving_Indoor_3D_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Steiner_ReScene4D_Temporally_Consistent_Semantic_Instance_Segmentation_of_Evolving_Indoor_3D_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 独立分割再匹配不利用跨次语义，高频跟踪假设又不符合间歇重扫。
+- **核心创新 / 方法** · 在3D实例分割器中用时空对比损失、掩码和序列化跨扫描分享信息。
+- **Baseline** · 表1比较时序实例分割对照，表2比较逐阶段3D预测，表3拆解时序共享策略。
+- **Benchmark** · 3RScan 18类，不同 IoU 阈值的时序 t-mAP 和3D mAP。
+- **关键结果 / 消融** · 表1–2同时评估跨扫描身份一致性和单次分割，表3区分时空组件。
+- **适用条件 / 局限** · 要求存在足够重叠的室内扫描和可用于训练的时序关联，长间隔重现、剧烈布局变化需复验。
+
+**可复用机制** · 低频观测的对象跟踪可把跨次扫描的关联融入分割训练，并用带身份约束的指标检验。
+
+<a id="paper-lite-vggt"></a>
+
+## LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shu_LiteVGGT_Boosting_Vanilla_VGGT_via_Geometry-aware_Cached_Token_Merging_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shu_LiteVGGT_Boosting_Vanilla_VGGT_via_Geometry-aware_Cached_Token_Merging_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · VGGT 长序列的全局注意和相似度计算在数百张图像下开销高。
+- **核心创新 / 方法** · 用几何重要性挑选合并锚点，缓存相邻层可复用的 token 合并索引。
+- **Baseline** · 基于原 VGGT，正文比较几何重建对照，另验证微调与 FP8。
+- **Benchmark** · ScanNet-50、7 Scenes、NRGBD、Tanks & Temples，比较点云质量、耗时和显存可用性。
+- **关键结果 / 消融** · 官方正文报告最高约10倍加速并处理1000张图的场景，表1–4量化质量和时延。
+- **适用条件 / 局限** · 缓存依赖层间特征近邻保持稳定，低重叠或跨层几何特征改变时应重算并验质量。
+
+**可复用机制** · 长多视图网络先测相邻层合并决策是否稳定，再缓存索引，避免重复匹配。
+
+<a id="paper-homography-verification"></a>
+
+## Lipschitz Optimization for Formal Verification of Homographies
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Durand_Lipschitz_Optimization_for_Formal_Verification_of_Homographies_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Durand_Lipschitz_Optimization_for_Formal_Verification_of_Homographies_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常见像素范数或仿射认证未覆盖投影成像变化。
+- **核心创新 / 方法** · 从相机位姿推导像素映射，利用单应连续性和 Lipschitz 优化计算线性像素界。
+- **Baseline** · 表1与 PWL 比较，表2非仿射扰动认证，表3–4测试偏航与填充。
+- **Benchmark** · MNIST、CIFAR-10 的变换下认证比例及验证时间。
+- **关键结果 / 消融** · 表2表明既有 PGD 训练并不保证对3D相机运动的认证；表3–4考察角度和填充。
+- **适用条件 / 局限** · 平面假设限制对明显视差或被遮挡内容的适用性，完整分支定界运行时间也可能较高。
+
+**可复用机制** · 对近似平面视觉任务，把相机位姿扰动直接编码进形式验证范围。
+
+<a id="paper-planner-rft"></a>
+
+## PlannerRFT: Reinforcing Diffusion Planners through Closed-Loop and Sample-Efficient Fine-Tuning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_PlannerRFT_Reinforcing_Diffusion_Planners_through_Closed-Loop_and_Sample-Efficient_Fine-Tuning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_PlannerRFT_Reinforcing_Diffusion_Planners_through_Closed-Loop_and_Sample-Efficient_Fine-Tuning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定锚点或普通扩散采样容易重复不适合当前场景的轨迹，奖励利用效率低。
+- **核心创新 / 方法** · 双分支同时更新轨迹分布与去噪探索策略；训练使用并行闭环仿真。
+- **Baseline** · 表1比较 Diffusion Planner、Flow Planner 等，表2用相同5步 DDIM 比较探索，表3–4消融数据和奖励。
+- **Benchmark** · 闭环规划在 NR/R 设置下比较，表2看采样多模态性和奖励统计。
+- **关键结果 / 消融** · 表1四列均优于 Diffusion Planner，最后一列由69.22升至72.21；表2在相同采样步数下对照引导策略。
+- **适用条件 / 局限** · 闭环证据依赖仿真和奖励设计，硬件上更换动力学或安全约束须复验。
+
+**可复用机制** · 闭环奖励稀疏时，训练阶段专门控制去噪探索分布并保留部署路径。
+
+<a id="paper-dynamic-attention-sae"></a>
+
+## Improving Sparse Autoencoder with Dynamic Attention
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Improving_Sparse_Autoencoder_with_Dynamic_Attention_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Improving_Sparse_Autoencoder_with_Dynamic_Attention_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定稀疏预算在不同输入上难兼顾可解释性与恢复。
+- **核心创新 / 方法** · 让潜特征查询可学习字典键值，以 sparsemax 激活生成稀疏概念子集。
+- **Baseline** · 与 ReLU、TopK 等稀疏自编码器设定比较，改变字典大小。
+- **Benchmark** · OpenWeb、WikiText-103 测 NMSE 与交叉熵退化，ImageNet 做消融。
+- **关键结果 / 消融** · 表1–3比较适应性稀疏的重建、语言性能改变与视觉消融。
+- **适用条件 / 局限** · 字典规模、训练稳定和概念解释仍需分别检验，自动稀疏不会保证语义可分。
+
+**可复用机制** · 训练稀疏自编码器时，用 sparsemax 求输入依赖的激活数量，比较固定 TopK。
+
+<a id="paper-switchcraft-event-aligned-steering"></a>
+
+## SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_SwitchCraft_Training-Free_Multi-Event_Video_Generation_with_Attention_Controls_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_SwitchCraft_Training-Free_Multi-Event_Video_Generation_with_Attention_Controls_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 同一文本作用在全部帧会混合不同事件，强行隔离又可能损伤转场。
+- **核心创新 / 方法** · 用帧级查询引导注意力到相应事件，自动调节强度保持过渡。
+- **Baseline** · 对比标准生视频及已有多事件条件方法，表1做消融。
+- **Benchmark** · 多事件提示视频，量化文本对齐、时序平滑；人评关注漏项、串扰。
+- **关键结果 / 消融** · 表1–2对比事件完整性、对齐和时序质量。
+- **适用条件 / 局限** · 要求能把事件映射到时间段，重叠事件和不确定顺序可能降低适用性。
+
+**可复用机制** · 多事件视频按帧段注入各自事件条件，并动态控制强度以维持时间连贯。
+
+<a id="paper-hificl-virtual-kv"></a>
+
+## HiFICL: High-Fidelity In-Context Learning for Multimodal Tasks
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_HiFICL_High-Fidelity_In-Context_Learning_for_Multimodal_Tasks_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_HiFICL_High-Fidelity_In-Context_Learning_for_Multimodal_Tasks_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 用一个固定偏移向量无法模拟示例对不同查询的动态权重。
+- **核心创新 / 方法** · 根据注意力分解构造低秩可训虚拟键和值，再做端到端训练。
+- **Baseline** · 现有偏移向量近似和原始上下文演示设置。
+- **Benchmark** · 多模态任务与 COCO Captioning；表3用 Idefics2 分析生成幻觉。
+- **关键结果 / 消融** · 原文报告在多项任务超出之前近似，并检查提示替代的幻觉风险。
+- **适用条件 / 局限** · 虚拟上下文依赖任务训练，遇到新任务或演示变化时可能仍需适配。
+
+**可复用机制** · 近似多模态示例学习时，拟合虚拟键值以保留依查询而变的注意力分量。
+
+<a id="paper-binaural-spatial-reasoning"></a>
+
+## Hear you are: Teaching LLMs Spatial Reasoning with Vision and Spatial Sound
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ryu_Hear_you_are_Teaching_LLMs_Spatial_Reasoning_with_Vision_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ryu_Hear_you_are_Teaching_LLMs_Spatial_Reasoning_with_Vision_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 现有语义或时间配对任务可用声音类别捷径完成，不能确认是否会声源定位。
+- **核心创新 / 方法** · 构造必须根据空间吻合或多个同类声源消歧的问题，比较不同模态信号。
+- **Baseline** · 对照 RGB、单声道、双耳等输入组合及原有模型。
+- **Benchmark** · 空间视听问答和声源定位，按题型比较正确性。
+- **关键结果 / 消融** · 原文表2区分不同模态输入在需空间理解题目上的表现。
+- **适用条件 / 局限** · 双耳线索取决于采集几何，房间声学、传感配置与合成题迁移需复核。
+
+**可复用机制** · 验证视听空间推理时设置语义不匹配但位置吻合的样本，并比较双耳和单声道。
+
+<a id="paper-energy-wave-test-time-adaptation"></a>
+
+## Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Energy_Waveify_and_Redistribution_for_Test-Time_Adaptation_A_Control_System_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Energy_Waveify_and_Redistribution_for_Test-Time_Adaptation_A_Control_System_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 蒙特卡洛或 Langevin 近似需要对每实例反复采样，部署延时高。
+- **核心创新 / 方法** · 将能量表示为复值波，以随时间演化及概率流守恒作不含额外随机采样的适配。
+- **Baseline** · 以 WRN-28-10、ResNet-50 等，比现有能量式和其他测试适配方法。
+- **Benchmark** · CIFAR-10-C、CIFAR-100-C、TinyImageNet-200-C 的图像扰动，另测 PACS 域泛化。
+- **关键结果 / 消融** · 表1–3报告准确率，正文比较不经额外采样的适配开销。
+- **适用条件 / 局限** · 依赖所设能量动力学与目标域的连续性，突变和预测高置信错误时需验证。
+
+**可复用机制** · 能量式测试时适配可检验确定性概率流更新能否减少逐样本随机采样。

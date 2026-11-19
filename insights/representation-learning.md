@@ -593,5 +593,7 @@
 - [Residual Primitive Fitting of 3D Shapes with SuperFrusta](../conferences/cvpr-2026/cards.md#paper-resfit-superfrusta)
 - [BrickNet: Graph-Backed Generative Brick Assembly](../conferences/cvpr-2026/cards.md#paper-bricknet-connectivity-programs)
 - [RNED: Rotary Number Encoding and Decoding for Medical VLMs](../conferences/cvpr-2026/cards.md#paper-rned-continuous-number-tokens)
+- [Distribution-Aligned Multimodal Fusion for Robust Object Detection](../conferences/cvpr-2026/cards.md#paper-clean-pretraining-feature-target-multimodal-fusion)
+- [ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes](../conferences/cvpr-2026/cards.md#paper-rescene4d)
 
 <!-- conference-classification:end -->

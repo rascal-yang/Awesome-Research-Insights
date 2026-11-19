@@ -1060,5 +1060,12 @@
 - [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](../conferences/cvpr-2026/cards.md#paper-geo3dpruner)
 - [Diffusion Mental Averages](../conferences/cvpr-2026/cards.md#paper-diffusion-mental-averages)
 - [RNED: Rotary Number Encoding and Decoding for Medical VLMs](../conferences/cvpr-2026/cards.md#paper-rned-continuous-number-tokens)
+- [Distribution-Aligned Multimodal Fusion for Robust Object Detection](../conferences/cvpr-2026/cards.md#paper-clean-pretraining-feature-target-multimodal-fusion)
+- [STAR: Test-Time Adaptation Can Enhance Universal Prompt Learning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-star-separability-gated-test-time-prompts)
+- [Semantic Context Matters: Improving Conditioning for Autoregressive Models](../conferences/cvpr-2026/cards.md#paper-scar-semantic-context)
+- [SRA-Det: Learning Omni-Grained Open-Vocabulary Detection Beyond Category Names](../conferences/cvpr-2026/cards.md#paper-sra-det)
+- [SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls](../conferences/cvpr-2026/cards.md#paper-switchcraft-event-aligned-steering)
+- [HiFICL: High-Fidelity In-Context Learning for Multimodal Tasks](../conferences/cvpr-2026/cards.md#paper-hificl-virtual-kv)
+- [Hear you are: Teaching LLMs Spatial Reasoning with Vision and Spatial Sound](../conferences/cvpr-2026/cards.md#paper-binaural-spatial-reasoning)
 
 <!-- conference-classification:end -->

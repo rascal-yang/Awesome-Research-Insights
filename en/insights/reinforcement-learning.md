@@ -755,5 +755,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](../../conferences/cvpr-2026/cards.md#paper-mesh-pro-arpo)
 - [ReasonX: MLLM-Guided Intrinsic Image Decomposition](../../conferences/cvpr-2026/cards.md#paper-reasonx)
 - [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](../../conferences/cvpr-2026/cards.md#paper-relax-latent-exploration)
+- [PlannerRFT: Reinforcing Diffusion Planners through Closed-Loop and Sample-Efficient Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-planner-rft)
 
 <!-- conference-classification:end -->

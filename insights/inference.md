@@ -1408,5 +1408,9 @@
 - [Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](../conferences/cvpr-2026/cards.md#paper-fast-thinkact)
 - [Geometry-Guided 3D Visual Token Pruning for Video-Language Models](../conferences/cvpr-2026/cards.md#paper-geo3dpruner)
 - [DiP: Taming Diffusion Models in Pixel Space](../conferences/cvpr-2026/cards.md#paper-dip-pixel-diffusion)
+- [STAR: Test-Time Adaptation Can Enhance Universal Prompt Learning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-star-separability-gated-test-time-prompts)
+- [SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping](../conferences/cvpr-2026/cards.md#paper-speede3dgs)
+- [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](../conferences/cvpr-2026/cards.md#paper-lite-vggt)
+- [SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls](../conferences/cvpr-2026/cards.md#paper-switchcraft-event-aligned-steering)
 
 <!-- conference-classification:end -->

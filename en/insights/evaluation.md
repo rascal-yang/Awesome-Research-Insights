@@ -1462,5 +1462,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Fine-Grained Multi Image Object Hallucination Benchmark](../../conferences/cvpr-2026/cards.md#paper-mioh-joint-versus-decomposed-visual-verification)
 - [CIGMA: Causal Information-Gain Mechanistic Attribution of Attention Heads in Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-cigma-causal-head-attribution)
 - [Diffusion Mental Averages](../../conferences/cvpr-2026/cards.md#paper-diffusion-mental-averages)
+- [Improving Sparse Autoencoder with Dynamic Attention](../../conferences/cvpr-2026/cards.md#paper-dynamic-attention-sae)
+- [Hear you are: Teaching LLMs Spatial Reasoning with Vision and Spatial Sound](../../conferences/cvpr-2026/cards.md#paper-binaural-spatial-reasoning)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 927 篇，其中 602 篇暂收录、325 篇排除，另有 3,115 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 957 篇，其中 620 篇暂收录、337 篇排除，另有 3,085 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -608,3 +608,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 927 �
 | 多模态学习 | 可解释性与诊断 | [Diffusion Mental Averages](cards.md#paper-diffusion-mental-averages) | 审计生成器的概念原型时，比较去噪轨迹的语义中心，避免直接均值造成模糊。 |
 | 多模态学习 | 表示学习 | [RNED: Rotary Number Encoding and Decoding for Medical VLMs](cards.md#paper-rned-continuous-number-tokens) | 多模态回归用数值相关旋转编码连续数，在隐层解码实数，避免把数值当普通离散字符串。 |
 | 计算机视觉 | 自监督学习 | [LumiMotion: Improving Gaussian Relighting with Scene Dynamics](cards.md#paper-lumimotion-dynamic-inverse-rendering) | 动态逆渲染利用同一表面随运动经过不同光照的观测，辅助分离材质和照明。 |
+| 多模态学习 | 表征学习 | [Distribution-Aligned Multimodal Fusion for Robust Object Detection](cards.md#paper-clean-pretraining-feature-target-multimodal-fusion) | 训练只包含少数退化时，可让融合特征对齐冻结检测器已熟悉的正常分布，并用未见退化对照。见表 3。 |
+| 生成模型 | 模型效率 | [DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease](cards.md#paper-driffusion-parallel-draft-noise-refinement) | 多设备扩散加速可比较先草拟未来状态并批量计算去噪，再以常规轨迹细化，检查延迟、显存和图像质量。见表 2。 |
+| 机器学习 | 持续学习 | [From Selection to Scheduling: Federated Geometry-Aware Correction Makes Exemplar Replay Work Better under Continual Dynamic Heterogeneity](cards.md#paper-feat-shared-prototype-geometry-replay) | 联邦回放发生少数类塌缩时，可用跨客户端共享固定原型作角度锚点，再单测训练时几何对齐和推理校正。见表 2。 |
+| 多模态学习 | 推理策略 | [STAR: Test-Time Adaptation Can Enhance Universal Prompt Learning for Vision-Language Models](cards.md#paper-star-separability-gated-test-time-prompts) | 测试流混有域外数据时，用可分性门控划分提示更新与伪标注，避免把低熵直接当作高可信。见表 3。 |
+| 机器学习 | 持续学习 | [Anti-Degradation Lifelong Multi-View Clustering](cards.md#paper-almc-nullspace-retained-view-updates) | 持续新增视图时，可把更新限制在旧表征的零空间，再与同模型不投影的版本比较聚类稳定性。见表 3。 |
+| 机器学习 | 图学习 | [FedSDR: Federated Graph Learning with Structural Noise Detection and Reconstruction](cards.md#paper-fedsdr-spectral-fidelity-client-aggregation) | 联邦图协作时可单独比较结构质量加权聚合和本地拓扑重建，分清全局与客户端收益。见表 2。 |
+| 计算机视觉 | 推理加速 | [SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping](cards.md#paper-speede3dgs) | 动态场景可先按跨时间贡献裁剪，再把多点的形变蒸馏为共享刚体运动。 |
+| 多模态学习 | 模型架构 | [Semantic Context Matters: Improving Conditioning for Autoregressive Models](cards.md#paper-scar-semantic-context) | 自回归视觉编辑可同时压缩语义前缀，并使解码隐藏状态对齐目标语义。 |
+| 多模态学习 | 模型架构 | [SRA-Det: Learning Omni-Grained Open-Vocabulary Detection Beyond Category Names](cards.md#paper-sra-det) | 组合检索或检测含多个必要属性时，评估可微合取，防止一项高分掩盖缺少的约束。 |
+| 计算机视觉 | 表示学习 | [ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes](cards.md#paper-rescene4d) | 低频观测的对象跟踪可把跨次扫描的关联融入分割训练，并用带身份约束的指标检验。 |
+| 计算机视觉 | 推理加速 | [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](cards.md#paper-lite-vggt) | 长多视图网络先测相邻层合并决策是否稳定，再缓存索引，避免重复匹配。 |
+| 机器学习基础与统计 | 鲁棒性 | [Lipschitz Optimization for Formal Verification of Homographies](cards.md#paper-homography-verification) | 对近似平面视觉任务，把相机位姿扰动直接编码进形式验证范围。 |
+| 机器人学 | 强化学习 | [PlannerRFT: Reinforcing Diffusion Planners through Closed-Loop and Sample-Efficient Fine-Tuning](cards.md#paper-planner-rft) | 闭环奖励稀疏时，训练阶段专门控制去噪探索分布并保留部署路径。 |
+| 机器学习基础 | 可解释性与诊断 | [Improving Sparse Autoencoder with Dynamic Attention](cards.md#paper-dynamic-attention-sae) | 训练稀疏自编码器时，用 sparsemax 求输入依赖的激活数量，比较固定 TopK。 |
+| 多模态学习 | 推理优化 | [SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls](cards.md#paper-switchcraft-event-aligned-steering) | 多事件视频按帧段注入各自事件条件，并动态控制强度以维持时间连贯。 |
+| 多模态学习 | 微调与适配 | [HiFICL: High-Fidelity In-Context Learning for Multimodal Tasks](cards.md#paper-hificl-virtual-kv) | 近似多模态示例学习时，拟合虚拟键值以保留依查询而变的注意力分量。 |
+| 多模态学习 | 评测与分析 | [Hear you are: Teaching LLMs Spatial Reasoning with Vision and Spatial Sound](cards.md#paper-binaural-spatial-reasoning) | 验证视听空间推理时设置语义不匹配但位置吻合的样本，并比较双耳和单声道。 |
+| 机器学习基础 | 微调与适配 | [Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective](cards.md#paper-energy-wave-test-time-adaptation) | 能量式测试时适配可检验确定性概率流更新能否减少逐样本随机采样。 |

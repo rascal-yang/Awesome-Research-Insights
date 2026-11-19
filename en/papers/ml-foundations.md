@@ -2346,5 +2346,12 @@ General learning methods, optimization, learning theory, and inference.
 - [CIGMA: Causal Information-Gain Mechanistic Attribution of Attention Heads in Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-cigma-causal-head-attribution)
 - [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](../../conferences/cvpr-2026/cards.md#paper-orthogonal-gradient-matching)
 - [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](../../conferences/cvpr-2026/cards.md#paper-relax-latent-exploration)
+- [DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease](../../conferences/cvpr-2026/cards.md#paper-driffusion-parallel-draft-noise-refinement)
+- [From Selection to Scheduling: Federated Geometry-Aware Correction Makes Exemplar Replay Work Better under Continual Dynamic Heterogeneity](../../conferences/cvpr-2026/cards.md#paper-feat-shared-prototype-geometry-replay)
+- [Anti-Degradation Lifelong Multi-View Clustering](../../conferences/cvpr-2026/cards.md#paper-almc-nullspace-retained-view-updates)
+- [FedSDR: Federated Graph Learning with Structural Noise Detection and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-fedsdr-spectral-fidelity-client-aggregation)
+- [Lipschitz Optimization for Formal Verification of Homographies](../../conferences/cvpr-2026/cards.md#paper-homography-verification)
+- [Improving Sparse Autoencoder with Dynamic Attention](../../conferences/cvpr-2026/cards.md#paper-dynamic-attention-sae)
+- [Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective](../../conferences/cvpr-2026/cards.md#paper-energy-wave-test-time-adaptation)
 
 <!-- conference-classification:end -->

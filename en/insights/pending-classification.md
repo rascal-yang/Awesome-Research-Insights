@@ -772,5 +772,8 @@
 - [Neural Differentiation in Deep Networks: A Theoretical Framework for Expressivity and Representational Diversity](../../conferences/cvpr-2026/cards.md#paper-neural-differentiation-loss-aware-pruning)
 - [Event Stream Filtering via Probability Flux Estimation](../../conferences/cvpr-2026/cards.md#paper-edfilter-inter-event-probability-flux)
 - [An Empirical Study on How Video-LLMs Answer Video Questions](../../conferences/cvpr-2026/cards.md#paper-video-llm-layer-knockout)
+- [DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease](../../conferences/cvpr-2026/cards.md#paper-driffusion-parallel-draft-noise-refinement)
+- [FedSDR: Federated Graph Learning with Structural Noise Detection and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-fedsdr-spectral-fidelity-client-aggregation)
+- [Lipschitz Optimization for Formal Verification of Homographies](../../conferences/cvpr-2026/cards.md#paper-homography-verification)
 
 <!-- conference-classification:end -->

@@ -1170,5 +1170,8 @@
 - [Residual Primitive Fitting of 3D Shapes with SuperFrusta](../conferences/cvpr-2026/cards.md#paper-resfit-superfrusta)
 - [BrickNet: Graph-Backed Generative Brick Assembly](../conferences/cvpr-2026/cards.md#paper-bricknet-connectivity-programs)
 - [LumiMotion: Improving Gaussian Relighting with Scene Dynamics](../conferences/cvpr-2026/cards.md#paper-lumimotion-dynamic-inverse-rendering)
+- [SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping](../conferences/cvpr-2026/cards.md#paper-speede3dgs)
+- [ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes](../conferences/cvpr-2026/cards.md#paper-rescene4d)
+- [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](../conferences/cvpr-2026/cards.md#paper-lite-vggt)
 
 <!-- conference-classification:end -->

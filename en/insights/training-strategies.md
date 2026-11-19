@@ -1009,5 +1009,9 @@ Training schedules, curricula, and task or stage composition.
 - [SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control](../../conferences/cvpr-2026/cards.md#paper-slideredit-shared-continuous-instruction-adapters)
 - [CHIPS: Efficient CLIP Adaptation via Curvature-aware Hybrid Influence-based Data Selection](../../conferences/cvpr-2026/cards.md#paper-chips-data-selection)
 - [LumiMotion: Improving Gaussian Relighting with Scene Dynamics](../../conferences/cvpr-2026/cards.md#paper-lumimotion-dynamic-inverse-rendering)
+- [From Selection to Scheduling: Federated Geometry-Aware Correction Makes Exemplar Replay Work Better under Continual Dynamic Heterogeneity](../../conferences/cvpr-2026/cards.md#paper-feat-shared-prototype-geometry-replay)
+- [Anti-Degradation Lifelong Multi-View Clustering](../../conferences/cvpr-2026/cards.md#paper-almc-nullspace-retained-view-updates)
+- [HiFICL: High-Fidelity In-Context Learning for Multimodal Tasks](../../conferences/cvpr-2026/cards.md#paper-hificl-virtual-kv)
+- [Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective](../../conferences/cvpr-2026/cards.md#paper-energy-wave-test-time-adaptation)
 
 <!-- conference-classification:end -->
