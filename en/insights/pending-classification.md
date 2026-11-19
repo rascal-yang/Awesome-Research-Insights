@@ -838,5 +838,7 @@
 - [AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance](../../conferences/cvpr-2026/cards.md#paper-area3d-decoupled-view-uncertainty)
 - [MaxMark: High-Capacity Diffusion-Native Watermarking via Robust and Invertible Latent Embedding](../../conferences/cvpr-2026/cards.md#paper-maxmark-latent-distribution-preservation)
 - [Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance](../../conferences/cvpr-2026/cards.md#paper-gw-vision-encoder-selection)
+- [SAG-GNN: Semantic-Aware Guided GNN for Descriptor-Free 2D-3D Matching](../../conferences/cvpr-2026/cards.md#paper-saggnn-compact-semantic-correspondence)
+- [BA-GS: Bayesian Adaptive Gaussian Splatting for SFM-Free 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-bags-global-local-uncertainty)
 
 <!-- conference-classification:end -->

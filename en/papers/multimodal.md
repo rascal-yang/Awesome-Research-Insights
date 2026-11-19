@@ -1339,5 +1339,8 @@ Learning across modalities such as images, text, audio, and video.
 - [Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance](../../conferences/cvpr-2026/cards.md#paper-gw-vision-encoder-selection)
 - [Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-cim-caption-information-retrieval-reward)
 - [CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-ccvqa-visual-evidence-conflict)
+- [Vision-Speech Models: Teaching Speech Models to Converse about Images](../../conferences/cvpr-2026/cards.md#paper-moshivis)
+- [Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision](../../conferences/cvpr-2026/cards.md#paper-real-reasoning-attention-localization)
+- [DEVA: Fine-tuning Multimodal Large Language Models for Visual Perception Tasks](../../conferences/cvpr-2026/cards.md#paper-deva-perception-rl-diversity-reward)
 
 <!-- conference-classification:end -->

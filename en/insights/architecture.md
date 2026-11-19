@@ -677,5 +677,10 @@ Model-wide design and information flow.
 - [PackUV: Packed Gaussian UV Maps for 4D Volumetric Video](../../conferences/cvpr-2026/cards.md#paper-packuv)
 - [Haptic Neural Fields: Bringing Tactile Interactions to 3D Rendered Scenes](../../conferences/cvpr-2026/cards.md#paper-haptic-fields-action-conditioned-response)
 - [GOR-IS: 3D Gaussian Object Removal In the Intrinsic Space](../../conferences/cvpr-2026/cards.md#paper-gor-is)
+- [ModularAgent: A Task-Aware Modular Framework for Joint Optimization of Multimodal Large Language Models and World Models](../../conferences/cvpr-2026/cards.md#paper-modularagent-bidirectional-semantic-dynamics)
+- [Hist2Style: Histogram-Guided Stylization with Bilateral Grids](../../conferences/cvpr-2026/cards.md#paper-hist2style-editable-histogram-bilateral-grid)
+- [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](../../conferences/cvpr-2026/cards.md#paper-compact-world-tokenizer)
+- [Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding](../../conferences/cvpr-2026/cards.md#paper-structure-aware-mamba)
+- [Geometric-Photometric Event-based 3D Gaussian Ray Tracing](../../conferences/cvpr-2026/cards.md#paper-gpert-event-rays)
 
 <!-- conference-classification:end -->

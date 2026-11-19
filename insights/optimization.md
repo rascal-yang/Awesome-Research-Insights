@@ -692,5 +692,6 @@
 - [Single-Round Scalable Analytic Federated Learning](../conferences/cvpr-2026/cards.md#paper-safle-one-round-analytic-aggregation)
 - [Linear Fundamental Matrix Estimation from 7 or 5 Points](../conferences/cvpr-2026/cards.md#paper-linear-fundamental-minimal)
 - [Fresco: Frequency-Spatial Consistent Optimization for Fine-Grained Head Avatar Modeling](../conferences/cvpr-2026/cards.md#paper-fresco-frequency-curriculum-uv-consistency)
+- [PnP-CM: Consistency Models as Plug-and-Play Priors for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-pnp-cm-consistency-proximal-prior)
 
 <!-- conference-classification:end -->

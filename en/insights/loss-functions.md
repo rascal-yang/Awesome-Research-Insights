@@ -466,5 +466,7 @@ Objectives, auxiliary supervision, and regularization.
 - [b-CLIP: Text-Conditioned Contrastive Learning for Multi-Granular Vision-Language Alignment](../../conferences/cvpr-2026/cards.md#paper-beta-clip)
 - [From Pixel to Precision: Enhancing Handwritten Mathematical Expression Recognition with Image-Level Reward](../../conferences/cvpr-2026/cards.md#paper-impo-rendered-structure-reward)
 - [Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-cim-caption-information-retrieval-reward)
+- [MatchED: Crisp Edge Detection Using End-to-End, Matching-based Supervision](../../conferences/cvpr-2026/cards.md#paper-matched-crisp-edges)
+- [DEVA: Fine-tuning Multimodal Large Language Models for Visual Perception Tasks](../../conferences/cvpr-2026/cards.md#paper-deva-perception-rl-diversity-reward)
 
 <!-- conference-classification:end -->

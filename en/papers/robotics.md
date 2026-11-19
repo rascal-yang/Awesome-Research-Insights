@@ -1003,5 +1003,8 @@ Robot perception, policy learning, planning, and control.
 - [Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals](../../conferences/cvpr-2026/cards.md#paper-goal-force-physical-goal-conditioning)
 - [VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-vla-viewpoint-visual-feature-recalibration)
 - [TSTM: Temporal Segmentation for Task-relevant Mask in Visual Reinforcement Learning Generalization](../../conferences/cvpr-2026/cards.md#paper-tstm-temporal-task-relevance-mask)
+- [ModularAgent: A Task-Aware Modular Framework for Joint Optimization of Multimodal Large Language Models and World Models](../../conferences/cvpr-2026/cards.md#paper-modularagent-bidirectional-semantic-dynamics)
+- [Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](../../conferences/cvpr-2026/cards.md#paper-vipa-vla-human-video-3d-pretraining)
+- [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](../../conferences/cvpr-2026/cards.md#paper-compact-world-tokenizer)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,187 篇，其中 1,383 篇暂收录、804 篇排除，另有 1,855 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,217 篇，其中 1,402 篇暂收录、815 篇排除，另有 1,825 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1389,3 +1389,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,187
 | 机器人学 | 强化学习 | [TSTM: Temporal Segmentation for Task-relevant Mask in Visual Reinforcement Learning Generalization](cards.md#paper-tstm-temporal-task-relevance-mask) | 用历史视觉信息帮助识别与策略相关的区域，并用轻量学生控制推理成本。 |
 | 多模态学习 | 损失函数与优化 | [Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](cards.md#paper-cim-caption-information-retrieval-reward) | 用描述反向检索相关图像，作为跨模态转换信息保留的弱反馈。 |
 | 多模态学习 | 检索增强 | [CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering](cards.md#paper-ccvqa-visual-evidence-conflict) | 当检索证据与模型知识冲突时，用图像相关性参与识别冲突和过滤。 |
+| 计算机视觉 | 推理策略 | [Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain](cards.md#paper-transient-glare-calibrated-operator) | 将传感器内部伪影建模为可标定的暂态算子，在生成几何前消除其影响。 |
+| 机器人学 | 模型架构 | [ModularAgent: A Task-Aware Modular Framework for Joint Optimization of Multimodal Large Language Models and World Models](cards.md#paper-modularagent-bidirectional-semantic-dynamics) | 联用语义模型和动力学模型时，分别消融语义到动力学、状态反馈到语义两个方向。 |
+| 机器学习基础与统计 | 训练策略 | [Bridging Domains through Subspace-Aware Model Merging](cards.md#paper-score-shared-singular-subspace-merging) | 合并不同数据域微调模型时，先核对更新子空间冲突，并在留一域上验证共享基。 |
+| 机器人学 | 训练策略 | [Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](cards.md#paper-vipa-vla-human-video-3d-pretraining) | 在机器人策略学习前用人体视频提供三维视觉和动作监督，并分单视点及多视点验收。 |
+| 计算机视觉 | 优化 | [PnP-CM: Consistency Models as Plug-and-Play Priors for Inverse Problems](cards.md#paper-pnp-cm-consistency-proximal-prior) | 把预训练一致性模型作为即插即用的恢复先验，分别检查数据一致性和网络调用成本。 |
+| 计算机视觉 | 模型架构 | [Hist2Style: Histogram-Guided Stylization with Bilateral Grids](cards.md#paper-hist2style-editable-histogram-bilateral-grid) | 若只需高速外观调整，将编辑限制为分区局部仿射颜色变换，并给可编辑的直方图条件。 |
+| 计算机视觉 | 评测与诊断 | [Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](cards.md#paper-back-to-the-feature) | 解释视频分类时联合衡量预测变化、时间一致性与可理解性。 |
+| 机器人学 | 模型架构 | [Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model](cards.md#paper-compact-world-tokenizer) | 为决策时规划单独设词元预算，并同时验重建、规划成功及端到端耗时。 |
+| 计算机视觉 | 模型架构 | [Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding](cards.md#paper-structure-aware-mamba) | 点云序列化可用结构连续性替代绝对坐标顺序，并跨域测对局部缺失的敏感性。 |
+| 多模态学习 | 训练策略 | [Vision-Speech Models: Teaching Speech Models to Converse about Images](cards.md#paper-moshivis) | 以少量图像语音配对补充更丰富的图文监督，并按话题动态打开视觉条件。 |
+| 计算机视觉 | 模型架构 | [Geometric-Photometric Event-based 3D Gaussian Ray Tracing](cards.md#paper-gpert-event-rays) | 非同步传感渲染可让快速的几何查询与较慢的辐射估计分别采样。 |
+| 计算机视觉 | 损失函数 | [MatchED: Crisp Edge Detection Using End-to-End, Matching-based Supervision](cards.md#paper-matched-crisp-edges) | 若希望输出细边界，可把唯一对应关系放进训练监督，再检验省略细化后处理的表现。 |
+| 计算机视觉 | 训练策略 | [Robust Promptable Video Object Segmentation](cards.md#paper-moga-robust-pvos) | 可提示视频分割的域适配按记忆对象调节参数容量，并分别验证退化与时序一致性。 |
+| 计算机视觉 | 三维匹配 | [SAG-GNN: Semantic-Aware Guided GNN for Descriptor-Free 2D-3D Matching](cards.md#paper-saggnn-compact-semantic-correspondence) | 以低维类别概率辅助几何匹配，缓解无描述符方法的对应歧义。 |
+| 机器学习基础 | 不确定性估计 | [Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation](cards.md#paper-etn-posthoc-dirichlet-logits) | 在冻结模型外学习样本相关的证据映射，避免重新训练骨干。 |
+| 多模态学习 | 弱监督定位 | [Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision](cards.md#paper-real-reasoning-attention-localization) | 以与异常有关的推理词元为索引，从跨模态注意力生成像素热图。 |
+| 多模态学习 | 损失函数与优化 | [DEVA: Fine-tuning Multimodal Large Language Models for Visual Perception Tasks](cards.md#paper-deva-perception-rl-diversity-reward) | 诊断视觉强化微调中的探索收缩，并在训练目标和奖励聚合上同时保留多样性。 |
+| 计算机视觉 | 可控图像生成 | [SplitFlux: Learning to Decouple Content and Style from a Single Image](cards.md#paper-splitflux-layerwise-content-style) | 按层识别内容与风格作用，再把两类更新限制在不同的层段。 |
+| 计算机视觉 | 三维重建 | [BA-GS: Bayesian Adaptive Gaussian Splatting for SFM-Free 3D Reconstruction](cards.md#paper-bags-global-local-uncertainty) | 将云团级初始化的不确定性与基元级更新的不确定性分层处理。 |

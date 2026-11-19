@@ -1411,5 +1411,16 @@
 - [LogCD: Local-to-global Consistency Distillation for Few-step Image Generation](../conferences/cvpr-2026/cards.md#paper-logcd)
 - [GOR-IS: 3D Gaussian Object Removal In the Intrinsic Space](../conferences/cvpr-2026/cards.md#paper-gor-is)
 - [From Sketch to Fresco: Efficient Diffusion Transformer with Progressive Resolution](../conferences/cvpr-2026/cards.md#paper-fresco-consistent-progressive-resolution)
+- [Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain](../conferences/cvpr-2026/cards.md#paper-transient-glare-calibrated-operator)
+- [PnP-CM: Consistency Models as Plug-and-Play Priors for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-pnp-cm-consistency-proximal-prior)
+- [Hist2Style: Histogram-Guided Stylization with Bilateral Grids](../conferences/cvpr-2026/cards.md#paper-hist2style-editable-histogram-bilateral-grid)
+- [Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](../conferences/cvpr-2026/cards.md#paper-back-to-the-feature)
+- [Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding](../conferences/cvpr-2026/cards.md#paper-structure-aware-mamba)
+- [Geometric-Photometric Event-based 3D Gaussian Ray Tracing](../conferences/cvpr-2026/cards.md#paper-gpert-event-rays)
+- [MatchED: Crisp Edge Detection Using End-to-End, Matching-based Supervision](../conferences/cvpr-2026/cards.md#paper-matched-crisp-edges)
+- [Robust Promptable Video Object Segmentation](../conferences/cvpr-2026/cards.md#paper-moga-robust-pvos)
+- [SAG-GNN: Semantic-Aware Guided GNN for Descriptor-Free 2D-3D Matching](../conferences/cvpr-2026/cards.md#paper-saggnn-compact-semantic-correspondence)
+- [SplitFlux: Learning to Decouple Content and Style from a Single Image](../conferences/cvpr-2026/cards.md#paper-splitflux-layerwise-content-style)
+- [BA-GS: Bayesian Adaptive Gaussian Splatting for SFM-Free 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-bags-global-local-uncertainty)
 
 <!-- conference-classification:end -->

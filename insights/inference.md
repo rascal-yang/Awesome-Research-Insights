@@ -1571,5 +1571,7 @@
 - [Universal Guideline-Driven Image Clustering via a Hybrid LLM Agent](../conferences/cvpr-2026/cards.md#paper-guideline-clustering-agent)
 - [QuietPrune: Query-Guided Early Token Pruning for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-quietprune)
 - [From Sketch to Fresco: Efficient Diffusion Transformer with Progressive Resolution](../conferences/cvpr-2026/cards.md#paper-fresco-consistent-progressive-resolution)
+- [Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain](../conferences/cvpr-2026/cards.md#paper-transient-glare-calibrated-operator)
+- [SplitFlux: Learning to Decouple Content and Style from a Single Image](../conferences/cvpr-2026/cards.md#paper-splitflux-layerwise-content-style)
 
 <!-- conference-classification:end -->

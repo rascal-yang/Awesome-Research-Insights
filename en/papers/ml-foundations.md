@@ -2489,5 +2489,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Flow Matching for Multimodal Distributions](../../conferences/cvpr-2026/cards.md#paper-mm-fm-source-coupling-codesign)
 - [GaussianMatch: Semi-Supervised Regression with Pseudo-Label Filtering via Multi-View Gaussian Consistency](../../conferences/cvpr-2026/cards.md#paper-gaussianmatch-multiview-regression-filter)
 - [Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-l2p-diffusion)
+- [Bridging Domains through Subspace-Aware Model Merging](../../conferences/cvpr-2026/cards.md#paper-score-shared-singular-subspace-merging)
+- [Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation](../../conferences/cvpr-2026/cards.md#paper-etn-posthoc-dirichlet-logits)
 
 <!-- conference-classification:end -->

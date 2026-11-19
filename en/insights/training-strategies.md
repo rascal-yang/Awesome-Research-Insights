@@ -1158,5 +1158,10 @@ Training schedules, curricula, and task or stage composition.
 - [VLA Models Are More Generalizable Than You Think: Revisiting Physical and Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-vla-viewpoint-visual-feature-recalibration)
 - [Composing Concepts from Images and Videos via Concept-prompt Binding](../../conferences/cvpr-2026/cards.md#paper-bind-compose)
 - [LogCD: Local-to-global Consistency Distillation for Few-step Image Generation](../../conferences/cvpr-2026/cards.md#paper-logcd)
+- [Bridging Domains through Subspace-Aware Model Merging](../../conferences/cvpr-2026/cards.md#paper-score-shared-singular-subspace-merging)
+- [Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos](../../conferences/cvpr-2026/cards.md#paper-vipa-vla-human-video-3d-pretraining)
+- [Vision-Speech Models: Teaching Speech Models to Converse about Images](../../conferences/cvpr-2026/cards.md#paper-moshivis)
+- [Robust Promptable Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-moga-robust-pvos)
+- [Reasoning-Driven Anomaly Detection and Localization with Image-Level Supervision](../../conferences/cvpr-2026/cards.md#paper-real-reasoning-attention-localization)
 
 <!-- conference-classification:end -->
