@@ -1700,5 +1700,8 @@ Visual representation, recognition, reconstruction, and generation.
 - [PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation](../../conferences/cvpr-2026/cards.md#paper-prmagic-mask-gradient)
 - [Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition](../../conferences/cvpr-2026/cards.md#paper-tcei-short-long-track-memory)
 - [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](../../conferences/cvpr-2026/cards.md#paper-d4rt-unified-spatiotemporal-geometry-queries)
+- [Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization](../../conferences/cvpr-2026/cards.md#paper-bridge-low-rank-frontdoor)
+- [Extend3D: Town-Scale 3D Generation](../../conferences/cvpr-2026/cards.md#paper-extend3d-overlap-latents)
+- [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-vggtdet-internal-semantic-geometric-priors)
 
 <!-- conference-classification:end -->

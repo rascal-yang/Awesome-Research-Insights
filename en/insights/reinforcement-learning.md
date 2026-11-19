@@ -825,5 +825,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [PromptEnhancer: Taming Your Rewriter for Text-to-Image Generation via Fine-Grained Reward](../../conferences/cvpr-2026/cards.md#paper-promptenhancer-failure-taxonomy)
 - [WebGym: Scaling Training Environments for Long-Horizon Visual Web Agents with Realistic Tasks](../../conferences/cvpr-2026/cards.md#paper-webgym-asynchronous-long-horizon-rollouts)
 - [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-rc2-cross-modal-cycle-consistency-reward)
+- [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-pacorl-pairwise-consistency)
 
 <!-- conference-classification:end -->

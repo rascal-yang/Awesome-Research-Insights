@@ -1629,5 +1629,7 @@
 - [Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models](../conferences/cvpr-2026/cards.md#paper-downscaling-perception-bottleneck)
 - [FPS-Bench: A Benchmark for High Frame-Rate Video Understanding](../conferences/cvpr-2026/cards.md#paper-fps-bench-minfps)
 - [Ref4D-VideoBench: Four-Dimensional Reference-Based Evaluation of Text-to-Video Generative Models](../conferences/cvpr-2026/cards.md#paper-ref4d-reference-video-grounded-evaluation)
+- [Mechanisms of Object Localization in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vlm-localization-containerization)
+- [INSIGHT Bench: Towards Grounded IN-SItu Guidance for Robotic ManipulaTion](../conferences/cvpr-2026/cards.md#paper-insightbench-in-situ-guide-constraints)
 
 <!-- conference-classification:end -->

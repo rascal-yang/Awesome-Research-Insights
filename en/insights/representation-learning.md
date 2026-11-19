@@ -790,5 +790,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ORD: Object-Relation Decoupling for Generalized 3D Visual Grounding](../../conferences/cvpr-2026/cards.md#paper-explicit-target-anchor-relation-grounding)
 - [PARSE: Part-Aware Relational Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-part-level-spatial-constraint-graphs)
 - [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](../../conferences/cvpr-2026/cards.md#paper-d4rt-unified-spatiotemporal-geometry-queries)
+- [Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](../../conferences/cvpr-2026/cards.md#paper-target-local-evidence-rectification)
+- [GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection](../../conferences/cvpr-2026/cards.md#paper-genhoi-head-sliding-reference-conditioning)
+- [GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](../../conferences/cvpr-2026/cards.md#paper-geopredict-training-only-kinematic-geometry)
+- [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-vggtdet-internal-semantic-geometric-priors)
 
 <!-- conference-classification:end -->

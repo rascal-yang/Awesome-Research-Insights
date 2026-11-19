@@ -1731,5 +1731,12 @@
 - [Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition](../conferences/cvpr-2026/cards.md#paper-tcei-short-long-track-memory)
 - [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](../conferences/cvpr-2026/cards.md#paper-snrt-bias-wavelet-differential-correction)
 - [CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection](../conferences/cvpr-2026/cards.md#paper-cdbuffer-shift-adaptive-additive-subtractive-tta)
+- [Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing](../conferences/cvpr-2026/cards.md#paper-coarse-contextual-document-region-token-budget)
+- [Dynamic Logits Adjustment and Exploration for Test-Time Adaptation in Vision Language Models](../conferences/cvpr-2026/cards.md#paper-class-bias-calibrated-exploratory-tta)
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](../conferences/cvpr-2026/cards.md#paper-self-adaptive-transport-foundation-ensemble)
+- [Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation](../conferences/cvpr-2026/cards.md#paper-refer-agent-reasoning-reflection)
+- [KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing](../conferences/cvpr-2026/cards.md#paper-kvsmooth-adaptive-smoothing)
+- [Extend3D: Town-Scale 3D Generation](../conferences/cvpr-2026/cards.md#paper-extend3d-overlap-latents)
+- [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](../conferences/cvpr-2026/cards.md#paper-gacd-gradient-attribution-constrained-decoding)
 
 <!-- conference-classification:end -->

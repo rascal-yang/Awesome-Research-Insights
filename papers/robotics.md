@@ -1172,5 +1172,8 @@
 - [Long-SCOPE: Fully Sparse Long-Range Cooperative 3D Perception](../conferences/cvpr-2026/cards.md#paper-longscope-sparse-cooperation)
 - [Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors](../conferences/cvpr-2026/cards.md#paper-sepatch3d-nearby-object-adaptive-patches)
 - [CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection](../conferences/cvpr-2026/cards.md#paper-cdbuffer-shift-adaptive-additive-subtractive-tta)
+- [Structural Action Transformer for 3D Dexterous Manipulation](../conferences/cvpr-2026/cards.md#paper-joint-trajectory-tokens-cross-embodiment)
+- [GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](../conferences/cvpr-2026/cards.md#paper-geopredict-training-only-kinematic-geometry)
+- [INSIGHT Bench: Towards Grounded IN-SItu Guidance for Robotic ManipulaTion](../conferences/cvpr-2026/cards.md#paper-insightbench-in-situ-guide-constraints)
 
 <!-- conference-classification:end -->

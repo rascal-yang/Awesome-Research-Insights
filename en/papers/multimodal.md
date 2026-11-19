@@ -1635,5 +1635,18 @@ Learning across modalities such as images, text, audio, and video.
 - [WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces](../../conferences/cvpr-2026/cards.md#paper-separated-grounding-and-planning-ui-training)
 - [EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling](../../conferences/cvpr-2026/cards.md#paper-evocomp-evolutionary-token-labels)
 - [DynFusion: Rethinking Condition Fusion for Adaptive Multi-Conditional Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-dynfusion-heterogeneous-conditions)
+- [Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing](../../conferences/cvpr-2026/cards.md#paper-coarse-contextual-document-region-token-budget)
+- [Dynamic Logits Adjustment and Exploration for Test-Time Adaptation in Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-class-bias-calibrated-exploratory-tta)
+- [Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](../../conferences/cvpr-2026/cards.md#paper-target-local-evidence-rectification)
+- [SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning](../../conferences/cvpr-2026/cards.md#paper-direct-text-label-open-world-semisupervision)
+- [CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-hard-negative-reflection-rlvr)
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](../../conferences/cvpr-2026/cards.md#paper-self-adaptive-transport-foundation-ensemble)
+- [Mechanisms of Object Localization in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vlm-localization-containerization)
+- [Dual-Level Confidence based Implicit Self-Refinement for Medical Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-ducor-dual-pseudo-confidence)
+- [Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](../../conferences/cvpr-2026/cards.md#paper-video-as-answer-joint-grpo)
+- [SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition](../../conferences/cvpr-2026/cards.md#paper-skeletoncontext-masked-context)
+- [KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing](../../conferences/cvpr-2026/cards.md#paper-kvsmooth-adaptive-smoothing)
+- [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-pacorl-pairwise-consistency)
+- [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](../../conferences/cvpr-2026/cards.md#paper-gacd-gradient-attribution-constrained-decoding)
 
 <!-- conference-classification:end -->

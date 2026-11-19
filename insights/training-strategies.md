@@ -1372,5 +1372,11 @@
 - [WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces](../conferences/cvpr-2026/cards.md#paper-separated-grounding-and-planning-ui-training)
 - [EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling](../conferences/cvpr-2026/cards.md#paper-evocomp-evolutionary-token-labels)
 - [Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation](../conferences/cvpr-2026/cards.md#paper-adaptive-video-distillation-temporal-collapse)
+- [SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning](../conferences/cvpr-2026/cards.md#paper-direct-text-label-open-world-semisupervision)
+- [CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-hard-negative-reflection-rlvr)
+- [Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization](../conferences/cvpr-2026/cards.md#paper-bridge-low-rank-frontdoor)
+- [Dual-Level Confidence based Implicit Self-Refinement for Medical Visual Question Answering](../conferences/cvpr-2026/cards.md#paper-ducor-dual-pseudo-confidence)
+- [Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](../conferences/cvpr-2026/cards.md#paper-video-as-answer-joint-grpo)
+- [SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition](../conferences/cvpr-2026/cards.md#paper-skeletoncontext-masked-context)
 
 <!-- conference-classification:end -->

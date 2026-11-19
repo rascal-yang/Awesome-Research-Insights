@@ -839,5 +839,6 @@ Model-wide design and information flow.
 - [Probabilistic Precipitation Nowcasting with Rectified Flow Transformers](../../conferences/cvpr-2026/cards.md#paper-freud-uncertainty-preserving-video)
 - [DynFusion: Rethinking Condition Fusion for Adaptive Multi-Conditional Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-dynfusion-heterogeneous-conditions)
 - [Long-SCOPE: Fully Sparse Long-Range Cooperative 3D Perception](../../conferences/cvpr-2026/cards.md#paper-longscope-sparse-cooperation)
+- [Structural Action Transformer for 3D Dexterous Manipulation](../../conferences/cvpr-2026/cards.md#paper-joint-trajectory-tokens-cross-embodiment)
 
 <!-- conference-classification:end -->

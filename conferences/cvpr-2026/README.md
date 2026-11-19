@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,627 篇，其中 2,304 篇暂收录、1,323 篇排除，另有 415 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,657 篇，其中 2,326 篇暂收录、1,331 篇排除，另有 385 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2310,3 +2310,25 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,627
 | 机器人学 | 测试时适配 | [CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection](cards.md#paper-cdbuffer-shift-adaptive-additive-subtractive-tta) | 根据偏移程度选择增补特征还是删除不可靠通道。 |
 | 生成模型 | 评测设计 | [Ref4D-VideoBench: Four-Dimensional Reference-Based Evaluation of Text-to-Video Generative Models](cards.md#paper-ref4d-reference-video-grounded-evaluation) | 对具有明确期望的生成任务，引入参考视频分开检查语义、动作、事件与时序。 |
 | 生成模型 | 知识蒸馏 | [Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation](cards.md#paper-adaptive-video-distillation-temporal-collapse) | 少步视频蒸馏应给空间回归设置动态权重，并单独约束时间崩塌。 |
+| 多模态学习 | 推理策略 | [Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing](cards.md#paper-coarse-contextual-document-region-token-budget) | 高分辨率文档可先定位有语义及结构依赖的区域，再只对有用的 token 分配细粒度处理。 |
+| 多模态学习 | 推理策略 | [Dynamic Logits Adjustment and Exploration for Test-Time Adaptation in Vision Language Models](cards.md#paper-class-bias-calibrated-exploratory-tta) | 测试自适应可先用预测统计校正类别偏差，再通过一致性接纳一部分低置信候选。 |
+| 多模态学习 | 表征学习 | [Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](cards.md#paper-target-local-evidence-rectification) | 少样本跨域适配应单独评估并矫正局部证据，因为全局匹配可能掩盖细节失准。 |
+| 机器人学 | 模型架构 | [Structural Action Transformer for 3D Dexterous Manipulation](cards.md#paper-joint-trajectory-tokens-cross-embodiment) | 控制 chunk 可编码为长度随关节数变化的关节轨迹集合，支持跨本体共享。 |
+| 多模态学习 | 训练策略 | [SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning](cards.md#paper-direct-text-label-open-world-semisupervision) | 开放世界半监督训练可直接学习输出候选文字标签，避免推理后把匿名簇再映射为新类。 |
+| 多模态学习 | 训练策略 | [CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal Reasoning](cards.md#paper-hard-negative-reflection-rlvr) | 可验证奖励训练可利用全错或近错轨迹，通过失败再采样和近邻负例对比增加有信息的梯度。 |
+| 多模态学习 | 推理策略 | [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](cards.md#paper-self-adaptive-transport-foundation-ensemble) | 零样本集成可以按当前数据自适应分配视觉模型和图文模型的互补信息。 |
+| 多模态学习 | 评测与诊断 | [Mechanisms of Object Localization in Vision-Language Models](cards.md#paper-vlm-localization-containerization) | 用边界与内部令牌分开干预测定位究竟使用何种信息。 |
+| 计算机视觉 | 训练策略 | [Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization](cards.md#paper-bridge-low-rank-frontdoor) | 域泛化时用低秩中间表示削弱源域虚假关联。 |
+| 多模态学习 | 训练策略 | [Dual-Level Confidence based Implicit Self-Refinement for Medical Visual Question Answering](cards.md#paper-ducor-dual-pseudo-confidence) | 以损失分布和语义原型两类证据判断伪标签可信度。 |
+| 多模态学习 | 训练策略 | [Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](cards.md#paper-video-as-answer-joint-grpo) | 让后续事件预测用视频作答案，并联合训练事件选择与呈现。 |
+| 智能体 | 推理策略 | [Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation](cards.md#paper-refer-agent-reasoning-reflection) | 视频指代分割可粗到细选择证据帧，并在看见分割输出后纠偏。 |
+| 多模态学习 | 训练策略 | [SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition](cards.md#paper-skeletoncontext-masked-context) | 骨骼缺少物体等上下文时，用掩码语言提示训练区分近似动作。 |
+| 多模态学习 | 推理策略 | [KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing](cards.md#paper-kvsmooth-adaptive-smoothing) | 长解码时按注意力熵调节键值平滑，抑制视觉依据逐步丢失。 |
+| 计算机视觉 | 推理策略 | [Extend3D: Town-Scale 3D Generation](cards.md#paper-extend3d-overlap-latents) | 将固定大小生成器复用到重叠三维块，并在每步耦合以扩展场景。 |
+| 多模态学习 | 奖励函数 | [PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling](cards.md#paper-pacorl-pairwise-consistency) | 以样本对而非孤立单张衡量跨图像的身份和风格保持。 |
+| 多模态学习 | 推理时干预 | [Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](cards.md#paper-gacd-gradient-attribution-constrained-decoding) | 以当前输出对图文 token 的影响定位偏差，再选择性抑制虚假共现。 |
+| 生成模型 | 时空表征 | [GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection](cards.md#paper-genhoi-head-sliding-reference-conditioning) | 将参考信息错开分配给不同注意头，并集中作用于需要维持身份的区域。 |
+| 机器学习 | 课程学习 | [Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions](cards.md#paper-class-fair-policy-gradient-curriculum) | 为无监督适配学习随进度变化的类别顺序，并避免课程只提升易类。 |
+| 机器人学 | 预测表征 | [GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation](cards.md#paper-geopredict-training-only-kinematic-geometry) | 用未来运动和三维几何作为训练监督，部署时只保留轻量控制查询。 |
+| 机器人学 | 评测设计 | [INSIGHT Bench: Towards Grounded IN-SItu Guidance for Robotic ManipulaTion](cards.md#paper-insightbench-in-situ-guide-constraints) | 通过改变物体自身标记和对应物理约束，检验机器人是否读取现场说明。 |
+| 三维视觉 | 几何表征 | [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](cards.md#paper-vggtdet-internal-semantic-geometric-priors) | 下游无位姿检测可用三维基础模型内部特征而非只消费其最后位姿和深度。 |

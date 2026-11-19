@@ -2631,5 +2631,7 @@
 - [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](../conferences/cvpr-2026/cards.md#paper-snrt-bias-wavelet-differential-correction)
 - [Ref4D-VideoBench: Four-Dimensional Reference-Based Evaluation of Text-to-Video Generative Models](../conferences/cvpr-2026/cards.md#paper-ref4d-reference-video-grounded-evaluation)
 - [Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation](../conferences/cvpr-2026/cards.md#paper-adaptive-video-distillation-temporal-collapse)
+- [GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection](../conferences/cvpr-2026/cards.md#paper-genhoi-head-sliding-reference-conditioning)
+- [Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions](../conferences/cvpr-2026/cards.md#paper-class-fair-policy-gradient-curriculum)
 
 <!-- conference-classification:end -->
