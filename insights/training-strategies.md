@@ -881,5 +881,13 @@
 - [Physical Simulator In-the-Loop Video Generation](../conferences/cvpr-2026/cards.md#paper-psivg)
 - [PR-IQA: Partial-Reference Image Quality Assessment for Diffusion-Based Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-pr-iqa)
 - [FloVerse: Floor Plan-Guided Multi-Modal Navigation](../conferences/cvpr-2026/cards.md#paper-floverse)
+- [CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention](../conferences/cvpr-2026/cards.md#paper-causalvad-shortcut-intervention)
+- [AdaBet: Gradient-free Layer Selection for Efficient Training of Deep Neural Networks](../conferences/cvpr-2026/cards.md#paper-adabet)
+- [Dr. Seg: Revisiting GRPO Training for Visual Large Language Models through Perception-Oriented Design](../conferences/cvpr-2026/cards.md#paper-dr-seg)
+- [GR-Gauge: Cost-efficient Training Configuration By Gauging the Gradient Redundancy](../conferences/cvpr-2026/cards.md#paper-gr-gauge)
+- [Towards Robust Multi-Modal Semantic Segmentation with Teacher-Student Framework and Hybrid Prototype Distillation](../conferences/cvpr-2026/cards.md#paper-robustseg)
+- [Vocabulary Scaling Law: Tuning Open-vocabulary Predictors for Their Openness](../conferences/cvpr-2026/cards.md#paper-svft)
+- [The Consistency Critic: Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment](../conferences/cvpr-2026/cards.md#paper-imagecritic)
+- [StyleDoctor: Towards Specialist Reward Model for Style-centric Generation Tasks](../conferences/cvpr-2026/cards.md#paper-styledoctor)
 
 <!-- conference-classification:end -->

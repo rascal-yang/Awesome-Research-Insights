@@ -869,5 +869,18 @@
 - [MovieRecapsQA: A Multimodal Open-Ended Video Question-Answering Benchmark](../conferences/cvpr-2026/cards.md#paper-movierecapsqa)
 - [Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models](../conferences/cvpr-2026/cards.md#paper-quatrope)
 - [Physical Simulator In-the-Loop Video Generation](../conferences/cvpr-2026/cards.md#paper-psivg)
+- [JoPPO: Hierarchical Photography Assessment via Contrastive Joint Conditional Probabilistic Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-joppo)
+- [One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework](../conferences/cvpr-2026/cards.md#paper-patch-ioner)
+- [Grounded 3D-Aware Spatial Vision-Language Modeling](../conferences/cvpr-2026/cards.md#paper-gr3d)
+- [Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients](../conferences/cvpr-2026/cards.md#paper-qig-ptq)
+- [Dr. Seg: Revisiting GRPO Training for Visual Large Language Models through Perception-Oriented Design](../conferences/cvpr-2026/cards.md#paper-dr-seg)
+- [Towards Robust Multi-Modal Semantic Segmentation with Teacher-Student Framework and Hybrid Prototype Distillation](../conferences/cvpr-2026/cards.md#paper-robustseg)
+- [RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space](../conferences/cvpr-2026/cards.md#paper-raynova)
+- [Vocabulary Scaling Law: Tuning Open-vocabulary Predictors for Their Openness](../conferences/cvpr-2026/cards.md#paper-svft)
+- [The Consistency Critic: Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment](../conferences/cvpr-2026/cards.md#paper-imagecritic)
+- [StyleDoctor: Towards Specialist Reward Model for Style-centric Generation Tasks](../conferences/cvpr-2026/cards.md#paper-styledoctor)
+- [Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](../conferences/cvpr-2026/cards.md#paper-contrastive-attention-fusion)
+- [Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-d2-align)
+- [DocPrune: Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning](../conferences/cvpr-2026/cards.md#paper-docprune)
 
 <!-- conference-classification:end -->

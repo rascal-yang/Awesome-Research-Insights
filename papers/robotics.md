@@ -845,5 +845,7 @@
 - [HybridDriveVLA: Vision-Language-Action Model with Visual CoT reasoning and ToT Evaluation for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-hybriddrivevla)
 - [Beyond Mimicry: Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations](../conferences/cvpr-2026/cards.md#paper-pair-d-star)
 - [FloVerse: Floor Plan-Guided Multi-Modal Navigation](../conferences/cvpr-2026/cards.md#paper-floverse)
+- [ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors](../conferences/cvpr-2026/cards.md#paper-conceptpose)
+- [CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention](../conferences/cvpr-2026/cards.md#paper-causalvad-shortcut-intervention)
 
 <!-- conference-classification:end -->

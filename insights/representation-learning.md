@@ -524,5 +524,7 @@
 
 - [HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-hycal)
 - [Anomaly-Related Residual Fields for Cross-domain Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-anomaly-residual-evolution-field)
+- [ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors](../conferences/cvpr-2026/cards.md#paper-conceptpose)
+- [One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework](../conferences/cvpr-2026/cards.md#paper-patch-ioner)
 
 <!-- conference-classification:end -->

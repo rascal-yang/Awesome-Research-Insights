@@ -2281,5 +2281,8 @@
 - [Continual Distillation of Teachers from Different Domains](../conferences/cvpr-2026/cards.md#paper-se2d)
 - [Beyond Euclidean Gossip: KL-Barycentric Consensus on Heterogeneous and Imbalanced Images](../conferences/cvpr-2026/cards.md#paper-kl-barycentric-consensus)
 - [What Is the Optimal Ranking Score Between Precision and Recall? We Can Always Find It and It Is Rarely F1](../conferences/cvpr-2026/cards.md#paper-precision-recall-rank-tradeoff)
+- [Functional Mean Flow in Hilbert Space](../conferences/cvpr-2026/cards.md#paper-functional-mean-flow)
+- [AdaBet: Gradient-free Layer Selection for Efficient Training of Deep Neural Networks](../conferences/cvpr-2026/cards.md#paper-adabet)
+- [GR-Gauge: Cost-efficient Training Configuration By Gauging the Gradient Redundancy](../conferences/cvpr-2026/cards.md#paper-gr-gauge)
 
 <!-- conference-classification:end -->

@@ -1406,5 +1406,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [What Is the Optimal Ranking Score Between Precision and Recall? We Can Always Find It and It Is Rarely F1](../../conferences/cvpr-2026/cards.md#paper-precision-recall-rank-tradeoff)
 - [GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning](../../conferences/cvpr-2026/cards.md#paper-graphvlm)
 - [MovieRecapsQA: A Multimodal Open-Ended Video Question-Answering Benchmark](../../conferences/cvpr-2026/cards.md#paper-movierecapsqa)
+- [Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](../../conferences/cvpr-2026/cards.md#paper-contrastive-attention-fusion)
 
 <!-- conference-classification:end -->

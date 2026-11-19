@@ -952,5 +952,12 @@
 - [Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ppcl)
 - [Rethinking Asymmetric Quantization: Hidden Symmetry in Vision Model Weights](../conferences/cvpr-2026/cards.md#paper-dasq)
 - [PR-IQA: Partial-Reference Image Quality Assessment for Diffusion-Based Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-pr-iqa)
+- [Dual Ascent Diffusion for Inverse Problems](../conferences/cvpr-2026/cards.md#paper-dual-ascent-diffusion)
+- [Masked Region Transformer for Layered Image Generation and Editing at Scale](../conferences/cvpr-2026/cards.md#paper-masked-region-transformer-layer-editing)
+- [DROID-SLAM in the Wild](../conferences/cvpr-2026/cards.md#paper-droid-w)
+- [Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing](../conferences/cvpr-2026/cards.md#paper-kontinuous-kontext)
+- [SPEGC: Continual Test-Time Adaptation via Semantic-Prompt-Enhanced Graph Clustering for Medical Image Segmentation](../conferences/cvpr-2026/cards.md#paper-spegc)
+- [ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-extrinsplat)
+- [From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing](../conferences/cvpr-2026/cards.md#paper-evdehaze)
 
 <!-- conference-classification:end -->

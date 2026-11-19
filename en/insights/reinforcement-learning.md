@@ -738,5 +738,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 
 - [SenseSearch: Empowering Vision-Language Models with High-Resolution Agentic Search-Reasoning via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-sensesearch)
 - [RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](../../conferences/cvpr-2026/cards.md#paper-retouchiq-generalist-reward)
+- [JoPPO: Hierarchical Photography Assessment via Contrastive Joint Conditional Probabilistic Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-joppo)
+- [Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-d2-align)
 
 <!-- conference-classification:end -->

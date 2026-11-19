@@ -1301,5 +1301,8 @@
 - [Ultra Diffusion Poser: Diffusion-Based Human Motion Tracking from Sparse Inertial Sensors and Ranging-based Between-sensor Distances](../conferences/cvpr-2026/cards.md#paper-ultra-diffusion-poser)
 - [Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ppcl)
 - [Rethinking Asymmetric Quantization: Hidden Symmetry in Vision Model Weights](../conferences/cvpr-2026/cards.md#paper-dasq)
+- [Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients](../conferences/cvpr-2026/cards.md#paper-qig-ptq)
+- [SPEGC: Continual Test-Time Adaptation via Semantic-Prompt-Enhanced Graph Clustering for Medical Image Segmentation](../conferences/cvpr-2026/cards.md#paper-spegc)
+- [DocPrune: Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning](../conferences/cvpr-2026/cards.md#paper-docprune)
 
 <!-- conference-classification:end -->

@@ -378,5 +378,6 @@ Objectives, auxiliary supervision, and regularization.
 ## CVPR 2026 (provisional)
 
 - [SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception](../../conferences/cvpr-2026/cards.md#paper-synclip)
+- [Functional Mean Flow in Hilbert Space](../../conferences/cvpr-2026/cards.md#paper-functional-mean-flow)
 
 <!-- conference-classification:end -->

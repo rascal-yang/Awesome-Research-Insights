@@ -536,5 +536,12 @@ Model-wide design and information flow.
 - [LongStream: Long-Sequence Streaming Autoregressive Visual Geometry](../../conferences/cvpr-2026/cards.md#paper-longstream)
 - [Hierarchical Enhancement of Semantic Priors for Disentangled Text-Driven Motion Generation](../../conferences/cvpr-2026/cards.md#paper-hesp)
 - [Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models](../../conferences/cvpr-2026/cards.md#paper-quatrope)
+- [Masked Region Transformer for Layered Image Generation and Editing at Scale](../../conferences/cvpr-2026/cards.md#paper-masked-region-transformer-layer-editing)
+- [Grounded 3D-Aware Spatial Vision-Language Modeling](../../conferences/cvpr-2026/cards.md#paper-gr3d)
+- [DROID-SLAM in the Wild](../../conferences/cvpr-2026/cards.md#paper-droid-w)
+- [Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing](../../conferences/cvpr-2026/cards.md#paper-kontinuous-kontext)
+- [RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space](../../conferences/cvpr-2026/cards.md#paper-raynova)
+- [ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-extrinsplat)
+- [From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing](../../conferences/cvpr-2026/cards.md#paper-evdehaze)
 
 <!-- conference-classification:end -->
