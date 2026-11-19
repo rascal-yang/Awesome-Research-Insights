@@ -1191,5 +1191,6 @@ Robot perception, policy learning, planning, and control.
 - [AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction](../../conferences/cvpr-2026/cards.md#paper-amap-future-teacher)
 - [WorldGen: From Text to Traversable and Interactive 3D Worlds](../../conferences/cvpr-2026/cards.md#paper-worldgen-navigable-entity-reconstruction)
 - [NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction](../../conferences/cvpr-2026/cards.md#paper-navforesee-dual-horizon-visual-imagination)
+- [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](../../conferences/cvpr-2026/cards.md#paper-fast-foundationstereo-budgeted-blocks)
 
 <!-- conference-classification:end -->

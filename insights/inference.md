@@ -1755,5 +1755,8 @@
 - [Guiding Diffusion Models with Semantically Degraded Conditions](../conferences/cvpr-2026/cards.md#paper-cdg-degraded-conditions)
 - [TempoControl: Temporal Attention Guidance for Text-to-Video Models](../conferences/cvpr-2026/cards.md#paper-tempocontrol-temporal-attention)
 - [SJD-PAC: Accelerating Speculative Jacobi Decoding via Proactive Drafting and Adaptive Continuation](../conferences/cvpr-2026/cards.md#paper-sjd-pac-adaptive-continuation)
+- [Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs](../conferences/cvpr-2026/cards.md#paper-latent-strategy-diversity-before-reasoning)
+- [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-tays-streaming-dual-kv)
+- [PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-pearl-align-then-propagate-open-vocabulary)
 
 <!-- conference-classification:end -->

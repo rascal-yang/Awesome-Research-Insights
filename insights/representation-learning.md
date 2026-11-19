@@ -806,5 +806,7 @@
 - [Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-uncertainty-weighted-hyperbolic-part-whole)
 - [TF-CADE: Foreground-Concentrated Text-Video Alignment for Zero-Shot Temporal Action Detection](../conferences/cvpr-2026/cards.md#paper-foreground-concentrated-temporal-text-alignment)
 - [DepthFocus: Controllable Depth Estimation for See-Through Scenes](../conferences/cvpr-2026/cards.md#paper-depthfocus-reference-plane-conditional-depth)
+- [CaReFlow: Cyclic Adaptive Rectified Flow for Multimodal Fusion](../conferences/cvpr-2026/cards.md#paper-one-to-many-cross-modal-distribution-flow)
+- [Convolutional Neural Networks Driven by Content Similarity](../conferences/cvpr-2026/cards.md#paper-content-sorted-convolution-aggregation)
 
 <!-- conference-classification:end -->

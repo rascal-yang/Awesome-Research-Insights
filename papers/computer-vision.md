@@ -1727,5 +1727,10 @@
 - [Guiding Diffusion Models with Semantically Degraded Conditions](../conferences/cvpr-2026/cards.md#paper-cdg-degraded-conditions)
 - [Z-Order Transformer for Feed-Forward Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-zorder-sparse-gaussian-attention)
 - [DepthFocus: Controllable Depth Estimation for See-Through Scenes](../conferences/cvpr-2026/cards.md#paper-depthfocus-reference-plane-conditional-depth)
+- [ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-gaussian-feature-blend-ambiguity-localization)
+- [RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing](../conferences/cvpr-2026/cards.md#paper-view-independent-gaussian-primitive-importance)
+- [From Detection to Association: Learning Discriminative Object Embeddings for Multi-Object Tracking](../conferences/cvpr-2026/cards.md#paper-fdta-detection-association-embeddings)
+- [LangField4D: Learning Identity-Adaptive and Spatio-Temporal Continuous 4D Language Fields for Dynamic Scenes](../conferences/cvpr-2026/cards.md#paper-langfield4d-identity-continuity)
+- [Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](../conferences/cvpr-2026/cards.md#paper-fob-background-prompt-localization)
 
 <!-- conference-classification:end -->

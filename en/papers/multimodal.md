@@ -1681,5 +1681,14 @@ Learning across modalities such as images, text, audio, and video.
 - [TiViBench: Benchmarking Think-in-Video Reasoning for Video Generation](../../conferences/cvpr-2026/cards.md#paper-task-completion-over-fidelity-video-reasoning)
 - [Meta-CoT: Enhancing Granularity and Generalization in Image Editing](../../conferences/cvpr-2026/cards.md#paper-metacot-task-target-decomposition)
 - [TempoControl: Temporal Attention Guidance for Text-to-Video Models](../../conferences/cvpr-2026/cards.md#paper-tempocontrol-temporal-attention)
+- [Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding](../../conferences/cvpr-2026/cards.md#paper-egocentric-step-level-multimodal-verification)
+- [CaReFlow: Cyclic Adaptive Rectified Flow for Multimodal Fusion](../../conferences/cvpr-2026/cards.md#paper-one-to-many-cross-modal-distribution-flow)
+- [Enhancing Descriptive Captions with Visual Attributes for Multimodal Perception](../../conferences/cvpr-2026/cards.md#paper-visual-specialist-evidence-caption-supervision)
+- [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-tays-streaming-dual-kv)
+- [UniChange: Unifying Change Detection with Multimodal Large Language Model](../../conferences/cvpr-2026/cards.md#paper-unichange-temporal-tokens)
+- [Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](../../conferences/cvpr-2026/cards.md#paper-omniattribute-paired-disentangling)
+- [ChartR: Evaluating Reasoning Accuracy and Robustness in Chart Question Answering](../../conferences/cvpr-2026/cards.md#paper-chartr-stepwise-perturbation-evaluation)
+- [FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](../../conferences/cvpr-2026/cards.md#paper-fluxmem-temporal-spatial-adaptive-compression)
+- [PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-pearl-align-then-propagate-open-vocabulary)
 
 <!-- conference-classification:end -->

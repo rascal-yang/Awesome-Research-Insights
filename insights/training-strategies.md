@@ -1394,5 +1394,9 @@
 - [AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction](../conferences/cvpr-2026/cards.md#paper-amap-future-teacher)
 - [Meta-CoT: Enhancing Granularity and Generalization in Image Editing](../conferences/cvpr-2026/cards.md#paper-metacot-task-target-decomposition)
 - [Few-Shot Hybrid Incremental Learning:Continually Learning under Data Scarcity and Task Uncertainty](../conferences/cvpr-2026/cards.md#paper-fshil-conditional-meta-expansion)
+- [From Detection to Association: Learning Discriminative Object Embeddings for Multi-Object Tracking](../conferences/cvpr-2026/cards.md#paper-fdta-detection-association-embeddings)
+- [Unlocking Pre-trained Weights: Parameter Inheritance for Zero-Shot Initialization](../conferences/cvpr-2026/cards.md#paper-pith-parameter-inheritance)
+- [Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](../conferences/cvpr-2026/cards.md#paper-omniattribute-paired-disentangling)
+- [Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](../conferences/cvpr-2026/cards.md#paper-fob-background-prompt-localization)
 
 <!-- conference-classification:end -->

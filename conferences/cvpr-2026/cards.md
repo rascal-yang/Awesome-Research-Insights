@@ -36436,3 +36436,303 @@
 - **适用条件 / 局限** · 依赖模型族内矩阵形状和层功能相容，跨不同骨干仍需重训或验证。
 
 **可复用机制** · 训练一次跨层共享矩阵，再按部署深度选择层特定因子初始化。
+
+<a id="paper-gaussian-feature-blend-ambiguity-localization"></a>
+
+## ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gu_ULF-Loc_Unbiased_Landmark_Feature_for_Robust_Visual_Localization_with_3D_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gu_ULF-Loc_Unbiased_Landmark_Feature_for_Robust_Visual_Localization_with_3D_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 渲染优化后的图元向量含邻居贡献，使二维查询配到错误空间点。
+- **核心创新 / 方法** · 通过特征学习过程分析定位偏置，并在匹配中修正受混合影响的证据。
+- **Baseline** · 比较 HLoc、DVLAD+R2D2 等定位方案。
+- **Benchmark** · 7Scenes 的定位，按场景测中位平移和旋转误差。
+- **关键结果 / 消融** · 表 1 分开报告各场景误差并汇总。
+- **适用条件 / 局限** · 分析适用的混合规则和视角覆盖有限，场景遮挡还会引入额外误差。
+
+**可复用机制** · 地图定位时可显式诊断 Gaussian alpha 混合造成的局部特征纠缠，再改变匹配表示。
+
+<a id="paper-latent-strategy-diversity-before-reasoning"></a>
+
+## Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Long_Reasoning_Palette_Modulating_Reasoning_via_Latent_Contextualization_for_Controllable_Exploration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Long_Reasoning_Palette_Modulating_Reasoning_via_Latent_Contextualization_for_Controllable_Exploration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅改词级随机性容易反复生成相似解题路径。
+- **核心创新 / 方法** · 用问答表示训练 VAE，对推理条件加入随机潜上下文。
+- **Baseline** · 比较普通随机解码和不同潜源。
+- **Benchmark** · MATH500、Olympic、GSM8K 等，测 Pass@8。
+- **关键结果 / 消融** · 表 1 分潜变量来源列出相同候选预算下的结果。
+- **适用条件 / 局限** · 潜空间不保证每个方向有可辨策略，训练问答覆盖限制探索。
+
+**可复用机制** · 在生成首 token 之前采样高层策略潜变量，可增加候选之间的推理差别。
+
+<a id="paper-egocentric-step-level-multimodal-verification"></a>
+
+## Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Nagrani_Minerva-Ego_Spatiotemporal_Hints_for_Egocentric_Video_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Nagrani_Minerva-Ego_Spatiotemporal_Hints_for_Egocentric_Video_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只有最终文本答案难识别模型是猜中、错误接地还是推理确实正确。
+- **核心创新 / 方法** · 用人工密集时空轨迹标注多步多模态推理，并分开评估过程与答案。
+- **Baseline** · 比较现有视频语言模型。
+- **Benchmark** · Minerva-Ego，含多步问题、时空推理证据和 MCQ。
+- **关键结果 / 消融** · 正文表 1 提供最后答案准确率，并在其他实验分析过程质量。
+- **适用条件 / 局限** · 人工过程标签只能覆盖可见且可记录的证据链。
+
+**可复用机制** · 评估第一视角推理时应同时检查中间视觉证据与最终答案。
+
+<a id="paper-one-to-many-cross-modal-distribution-flow"></a>
+
+## CaReFlow: Cyclic Adaptive Rectified Flow for Multimodal Fusion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mai_CaReFlow_Cyclic_Adaptive_Rectified_Flow_for_Multimodal_Fusion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mai_CaReFlow_Cyclic_Adaptive_Rectified_Flow_for_Multimodal_Fusion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一对一映射难捕捉样本级多义性和模态分布差异。
+- **核心创新 / 方法** · 在 rectified flow 中一对多匹配并学习跨模态迁移。
+- **Baseline** · 比较既有情感融合及分布对齐方法。
+- **Benchmark** · CMU-MOSI、CMU-MOSEI，比较情感分类与回归。
+- **关键结果 / 消融** · 正文表 1 报告同协议对照并说明引用结果。
+- **适用条件 / 局限** · 非对应样本过多可能使身份或事件语义失真。
+
+**可复用机制** · 跨模态域映射可用一对多输运让一个源点观察目标分布，减少固定成对对齐缺失全局结构。
+
+<a id="paper-visual-specialist-evidence-caption-supervision"></a>
+
+## Enhancing Descriptive Captions with Visual Attributes for Multimodal Perception
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Enhancing_Descriptive_Captions_with_Visual_Attributes_for_Multimodal_Perception_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Enhancing_Descriptive_Captions_with_Visual_Attributes_for_Multimodal_Perception_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅靠已有大模型描述可能遗漏属性或局部事实。
+- **核心创新 / 方法** · 组织视觉专家输出，将对应对象及属性填入综合字幕流程。
+- **Baseline** · 比较常规图文说明及不采用专家的配置。
+- **Benchmark** · 生成字幕和训练后的复杂视觉推理。
+- **关键结果 / 消融** · 正文分别列出提取证据类型、专家模型及使用方式。
+- **适用条件 / 局限** · 专家检测错误可能被写成流畅却不真实的字幕。
+
+**可复用机制** · 构造图文训练数据时可调用独立视觉专家，先提取细节证据再合成说明。
+
+<a id="paper-view-independent-gaussian-primitive-importance"></a>
+
+## RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_RAP_Fast_Feedforward_Rendering-Free_Attribute-Guided_Primitive_Importance_Score_Prediction_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_RAP_Fast_Feedforward_Rendering-Free_Attribute-Guided_Primitive_Importance_Score_Prediction_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅按多视角渲染贡献排序对视角采样敏感，且评估成本高。
+- **核心创新 / 方法** · 提出替代重要性依据，评估删减图元后重建与压缩。
+- **Baseline** · 比较 opacity 排序及已有剪枝方法。
+- **Benchmark** · 三维 Gaussian 压缩，测 BD-Rate 等。
+- **关键结果 / 消融** · 正文表 1 以 opacity 为参照列出不同剪枝结果。
+- **适用条件 / 局限** · 实际有用性还取决于未见视角中细薄结构的覆盖。
+
+**可复用机制** · 压缩三维图元时可降低重要性评估对特定渲染视角集合的依赖。
+
+<a id="paper-nestor-nested-operator-experts"></a>
+
+## NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_NESTOR_A_Nested_MOE-based_Neural_Operator_for_Large-Scale_PDE_Pre-Training_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_NESTOR_A_Nested_MOE-based_Neural_Operator_for_Large-Scale_PDE_Pre-Training_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单算子难兼顾多种方程及不同空间依赖。
+- **核心创新 / 方法** · NESTOR 的图像级 MoE 捕捉全局关系，令牌级子 MoE 补局部。
+- **Baseline** · 对照已有算子及不同非共享专家数量。
+- **Benchmark** · 正文大型 PDE 预训练和下游比较。
+- **关键结果 / 消融** · 表1、2分别评估整体及专家配置。
+- **适用条件 / 局限** · 依赖训练方程覆盖，接触等非连续动态需独立验证。
+
+**可复用机制** · 在物理预测中以不同层级专家分别处理全局系统和局部行为。
+
+<a id="paper-tays-streaming-dual-kv"></a>
+
+## Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Think-as-You-See_Streaming_Chain-of-Thought_Reasoning_for_Large_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Think-as-You-See_Streaming_Chain-of-Thought_Reasoning_for_Large_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频需全读完才推理会造成延迟及时间漂移。
+- **核心创新 / 方法** · TaYS 组合流式注意力、解耦位置编码和并行双 KV 缓存。
+- **Baseline** · 对照批量推理及不同帧率设置。
+- **Benchmark** · 扩展 VIDEOESPRESSO，报告推理准确率与延迟。
+- **关键结果 / 消融** · 表1、2比较任务成绩及 FPS 条件。
+- **适用条件 / 局限** · 实时收益依赖设备并行能力，过多新帧可能导致队列积累。
+
+**可复用机制** · 视觉读帧和文字推理用独立缓存并行运行，以因果掩码约束信息流。
+
+<a id="paper-fdta-detection-association-embeddings"></a>
+
+## From Detection to Association: Learning Discriminative Object Embeddings for Multi-Object Tracking
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shao_From_Detection_to_Association_Learning_Discriminative_Object_Embeddings_for_Multi-Object_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shao_From_Detection_to_Association_Learning_Discriminative_Object_Embeddings_for_Multi-Object_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 共享检测特征对同类实例相似度过高。
+- **核心创新 / 方法** · FDTA 对编码器对象特征做面向时空身份关联的显式细化。
+- **Baseline** · 比较现有端到端跟踪以及只用统一检测嵌入。
+- **Benchmark** · 正文多目标跟踪基准，区分检测和关联指标。
+- **关键结果 / 消融** · 报告改进的跨帧关联并分析嵌入同质性。
+- **适用条件 / 局限** · 身份监督或近似实例覆盖不足时需检验追踪断裂。
+
+**可复用机制** · 跟踪单独优化跨帧实例区分，避免以单帧检测的类别相似度作关联。
+
+<a id="paper-pith-parameter-inheritance"></a>
+
+## Unlocking Pre-trained Weights: Parameter Inheritance for Zero-Shot Initialization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Unlocking_Pre-trained_Weights_Parameter_Inheritance_for_Zero-Shot_Initialization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Unlocking_Pre-trained_Weights_Parameter_Inheritance_for_Zero-Shot_Initialization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 软标签间接监督不能充分利用已学参数。
+- **核心创新 / 方法** · PITH 以超网络和参数投影产生目标模型初始权重。
+- **Baseline** · 对照 GHN、TAL 及普通初始化。
+- **Benchmark** · ImageNet-1K 下游与训练时间比较。
+- **关键结果 / 消融** · 正文报告不再训练时已有竞争力，并比较成本。
+- **适用条件 / 局限** · 跨架构形状与功能匹配要验证，扩展到不同模态需重新校验。
+
+**可复用机制** · 将预训练参数直接投影给不同形状的目标网络，并测零训练初始化质量。
+
+<a id="paper-fast-foundationstereo-budgeted-blocks"></a>
+
+## Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wen_Fast-FoundationStereo_Real-Time_Zero-Shot_Stereo_Matching_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wen_Fast-FoundationStereo_Real-Time_Zero-Shot_Stereo_Matching_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高泛化立体匹配骨干难实时运行。
+- **核心创新 / 方法** · 蒸馏骨干、分块架构搜索代价过滤，再剪除细化模块冗余。
+- **Baseline** · 比较原立体基础模型和实时匹配方法。
+- **Benchmark** · 正文公开立体基准，分是否实时报告零样本结果。
+- **关键结果 / 消融** · 正文给出实时帧率下的泛化比较。
+- **适用条件 / 局限** · 预算依赖硬件以及图像尺寸，透明物体和大视差需实测。
+
+**可复用机制** · 立体深度压缩中把视觉骨干、代价过滤和迭代细化分开纳入延迟预算。
+
+<a id="paper-unichange-temporal-tokens"></a>
+
+## UniChange: Unifying Change Detection with Multimodal Large Language Model
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_UniChange_Unifying_Change_Detection_with_Multimodal_Large_Language_Model_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_UniChange_Unifying_Change_Detection_with_Multimodal_Large_Language_Model_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 二值标签和语义标签通常只能分开训练。
+- **核心创新 / 方法** · UniChange 在多模态骨干内区分两个时间状态与变化输出。
+- **Baseline** · 比较单类监督的变化检测器及通用模型。
+- **Benchmark** · WHU-CD、S2Looking、LEVIR-CD+ 和 SECOND。
+- **关键结果 / 消融** · 正文分别报告二值与语义变化检测对照。
+- **适用条件 / 局限** · 跨时间配准误差会伪装成变化，动态视频和机器人场景需单独验证。
+
+**可复用机制** · 用两个时间令牌与一个变化令牌统一不同标签粒度的视觉变化检测。
+
+<a id="paper-omniattribute-paired-disentangling"></a>
+
+## Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Omni-Attribute_Open-vocabulary_Attribute_Encoder_for_Visual_Concept_Personalization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_Omni-Attribute_Open-vocabulary_Attribute_Encoder_for_Visual_Concept_Personalization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全局嵌入容易把身份、光照和风格一并传入生成模型。
+- **核心创新 / 方法** · Omni-Attribute 以正负属性对训练开放词汇编码器，并结合生成和对比目标。
+- **Baseline** · 比较整体视觉编码及去掉各监督的设置。
+- **Benchmark** · 正文属性个性化生成及独立成分消融。
+- **关键结果 / 消融** · 正文检验未见语境的属性保真和干扰。
+- **适用条件 / 局限** · 属性本身常相关，取样和标签若不能解耦则会继续泄漏。
+
+**可复用机制** · 用配对数据标明应保留和应抑制的属性，联合监督属性迁移和解耦。
+
+<a id="paper-langfield4d-identity-continuity"></a>
+
+## LangField4D: Learning Identity-Adaptive and Spatio-Temporal Continuous 4D Language Fields for Dynamic Scenes
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_LangField4D_Learning_Identity-Adaptive_and_Spatio-Temporal_Continuous_4D_Language_Fields_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_LangField4D_Learning_Identity-Adaptive_and_Spatio-Temporal_Continuous_4D_Language_Fields_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 将高斯固定绑定身份会在形变跨边界时造成语义跳动。
+- **核心创新 / 方法** · LangField4D 联合建模可变身份及连续时空语言语义。
+- **Baseline** · 比较已有静态和动态语言高斯场。
+- **Benchmark** · 正文分别评估时间敏感和时间无关的三维查询。
+- **关键结果 / 消融** · 表1、2报告两类查询结果。
+- **适用条件 / 局限** · 重度遮挡和对象暂时离场会影响身份一致性。
+
+**可复用机制** · 动态语言地图需把实例身份随时序重分配与语义连续性一起学习。
+
+<a id="paper-chartr-stepwise-perturbation-evaluation"></a>
+
+## ChartR: Evaluating Reasoning Accuracy and Robustness in Chart Question Answering
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_ChartR_Evaluating_Reasoning_Accuracy_and_Robustness_in_Chart_Question_Answering_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_ChartR_Evaluating_Reasoning_Accuracy_and_Robustness_in_Chart_Question_Answering_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 最终答案正确可能掩盖错误推理，静态图表评测也无法判断噪声敏感性。
+- **核心创新 / 方法** · 将题目拆成 4–10 个子题，为图表建立模糊、噪声、加水印、去注释四种变体。
+- **Baseline** · 比较通用多模态与专用模型。
+- **Benchmark** · ChartR 含 200 张原图、800 个变体及 8,260 图题对，分步骤及最终答案评准确与鲁棒性。
+- **关键结果 / 消融** · 表 1 按图表变体给出中间和最终得分，支持诊断降质传播。
+- **适用条件 / 局限** · 约定的推理路径可能不是唯一合理路径，指标应允许等价解法。
+
+**可复用机制** · 同时检查中间步骤和最终答案，并用视觉扰动定位误差从哪一步扩散。
+
+<a id="paper-eda-arbitrary-noise-restoration-path"></a>
+
+## Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qiu_Elucidating_the_Design_Space_of_Arbitrary-Noise-Based_Diffusion_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qiu_Elucidating_the_Design_Space_of_Arbitrary-Noise-Based_Diffusion_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定高斯的 EDM 难统一任意噪声流程，强行加噪也会改变已有退化程度。
+- **核心创新 / 方法** · EDA 放宽噪声分布并保留模块化设计，将噪声模型与实际恢复目标对齐。
+- **Baseline** · 与 EDM 模块化设计及 MRI 偏置场校正 N4 等比较。
+- **Benchmark** · 正文验证三种代表性恢复，MRI 偏置校正报告 SSIM、PSNR 与组织区域变异。
+- **关键结果 / 消融** · 理论分析噪声复杂度和恢复计算量的关系，表 1 检查实际恢复效果。
+- **适用条件 / 局限** · 需要可靠退化假设，未建模的混合噪声和非成像任务需另行核验。
+
+**可复用机制** · 恢复任务中让噪声过程贴近实际退化，避免额外高斯扰动拉长恢复路径。
+
+<a id="paper-fluxmem-temporal-spatial-adaptive-compression"></a>
+
+## FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xie_FluxMem_Adaptive_Hierarchical_Memory_for_Streaming_Video_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xie_FluxMem_Adaptive_Hierarchical_Memory_for_Streaming_Video_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长视频会产生大量冗余，并且固定压缩率可能损坏高动态片段。
+- **核心创新 / 方法** · TAS 去除相邻帧重复，SDC 压缩帧内重复，两阶段分别依据场景统计自适应。
+- **Baseline** · 与已有流式视频理解和固定压缩设置比较。
+- **Benchmark** · StreamingBench、OVO-Bench 的实时分项，包含文字、动作、属性等。
+- **关键结果 / 消融** · 作者报告实时条件下总体 76.4 与 67.2，分别对应 StreamingBench 和 OVO-Bench。
+- **适用条件 / 局限** · 相似画面可能包含微小关键变化，需要在快动作和视觉密集任务上复核。
+
+**可复用机制** · 流式视频压缩先检查邻帧重复，再合并帧内重复区域，随内容决定压缩率。
+
+<a id="paper-fob-background-prompt-localization"></a>
+
+## Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Bo_Focus_on_Background_Exploring_SAMs_Potential_in_Few-shot_Medical_Image_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Bo_Focus_on_Background_Exploring_SAMs_Potential_in_Few-shot_Medical_Image_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 解剖边界模糊时 SAM 可能把邻近背景并入目标。
+- **核心创新 / 方法** · 从支持样本获取类别无关背景提示，建模局部上下文并在查询图中定位。
+- **Baseline** · 比较既有少样本医学分割及 SAM 提示策略。
+- **Benchmark** · Abd-MRI、Abd-CT、Skin-DS，两个设置的 Dice。
+- **关键结果 / 消融** · 表 1 区分不同成像与设置，检验背景提示能否缓解过分割。
+- **适用条件 / 局限** · 支持背景与查询域需有可辨联系，组织外观变化时需检查背景误约束。
+
+**可复用机制** · 少样本分割出现过分割时，直接学习定位背景提示，而不是只加强前景。
+
+<a id="paper-content-sorted-convolution-aggregation"></a>
+
+## Convolutional Neural Networks Driven by Content Similarity
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zou_Convolutional_Neural_Networks_Driven_by_Content_Similarity_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Convolutional_Neural_Networks_Driven_by_Content_Similarity_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 标准卷积只按物理邻域聚合，难显式利用远处语义关联。
+- **核心创新 / 方法** · 将内容相似性转成 token 的相对次序，在重排序列上应用卷积。
+- **Baseline** · 对照传统 CNN、Transformer 和不同 Ego 规模。
+- **Benchmark** · 正文在多种视觉任务比较，表 1 给出主干的通道和层数。
+- **关键结果 / 消融** · 正文检验内容排序卷积作为独立主干的表现。
+- **适用条件 / 局限** · 排序会改变空间邻域，几何依赖强的输出需补充位置信息并测额外开销。
+
+**可复用机制** · 通过重排让相似特征靠近，再用卷积聚合不相邻的原图内容。
+
+<a id="paper-pearl-align-then-propagate-open-vocabulary"></a>
+
+## PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pei_PEARL_Geometry_Aligns_Semantics_for_Training-Free_Open-Vocabulary_Semantic_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pei_PEARL_Geometry_Aligns_Semantics_for_Training-Free_Open-Vocabulary_Semantic_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 训练外开放词汇分割常用额外骨干，或忽略视觉与文本表征的几何差异。
+- **核心创新 / 方法** · 以 Procrustes 正交旋转对齐键和查询，以文本引导拉普拉斯传播优化像素 logits。
+- **Baseline** · 与其他训练外开放词汇分割方法比较，分别记录额外数据及骨干。
+- **Benchmark** · 正文开放词汇语义分割评测，比较各类别分割表现。
+- **关键结果 / 消融** · 表 1 给出资源条件和结果，区分是否依赖附加模型。
+- **适用条件 / 局限** · 语义传播依赖文本先验可信，近邻中混入相似类别时可能扩散错误。
+
+**可复用机制** · 先在视觉注意力中校正子空间，再用文本置信传播像素分数。

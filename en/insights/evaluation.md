@@ -1642,5 +1642,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World](../../conferences/cvpr-2026/cards.md#paper-dynbench-localized-dynamics)
 - [Emergent Outlier View Rejection in Visual Geometry Grounded Transformers](../../conferences/cvpr-2026/cards.md#paper-latent-outlier-view-rejection-probe)
 - [TiViBench: Benchmarking Think-in-Video Reasoning for Video Generation](../../conferences/cvpr-2026/cards.md#paper-task-completion-over-fidelity-video-reasoning)
+- [ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-gaussian-feature-blend-ambiguity-localization)
+- [Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding](../../conferences/cvpr-2026/cards.md#paper-egocentric-step-level-multimodal-verification)
+- [RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing](../../conferences/cvpr-2026/cards.md#paper-view-independent-gaussian-primitive-importance)
+- [ChartR: Evaluating Reasoning Accuracy and Robustness in Chart Question Answering](../../conferences/cvpr-2026/cards.md#paper-chartr-stepwise-perturbation-evaluation)
 
 <!-- conference-classification:end -->

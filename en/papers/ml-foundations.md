@@ -2658,5 +2658,10 @@ General learning methods, optimization, learning theory, and inference.
 - [SJD-PAC: Accelerating Speculative Jacobi Decoding via Proactive Drafting and Adaptive Continuation](../../conferences/cvpr-2026/cards.md#paper-sjd-pac-adaptive-continuation)
 - [Few-Shot Hybrid Incremental Learning:Continually Learning under Data Scarcity and Task Uncertainty](../../conferences/cvpr-2026/cards.md#paper-fshil-conditional-meta-expansion)
 - [FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-fine-shared-factors-variable-depth-initialization)
+- [Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs](../../conferences/cvpr-2026/cards.md#paper-latent-strategy-diversity-before-reasoning)
+- [NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training](../../conferences/cvpr-2026/cards.md#paper-nestor-nested-operator-experts)
+- [Unlocking Pre-trained Weights: Parameter Inheritance for Zero-Shot Initialization](../../conferences/cvpr-2026/cards.md#paper-pith-parameter-inheritance)
+- [Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-eda-arbitrary-noise-restoration-path)
+- [Convolutional Neural Networks Driven by Content Similarity](../../conferences/cvpr-2026/cards.md#paper-content-sorted-convolution-aggregation)
 
 <!-- conference-classification:end -->

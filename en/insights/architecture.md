@@ -858,5 +858,9 @@ Model-wide design and information flow.
 - [Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](../../conferences/cvpr-2026/cards.md#paper-roboperform-audio-style-control)
 - [Z-Order Transformer for Feed-Forward Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-zorder-sparse-gaussian-attention)
 - [WorldGen: From Text to Traversable and Interactive 3D Worlds](../../conferences/cvpr-2026/cards.md#paper-worldgen-navigable-entity-reconstruction)
+- [NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training](../../conferences/cvpr-2026/cards.md#paper-nestor-nested-operator-experts)
+- [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](../../conferences/cvpr-2026/cards.md#paper-fast-foundationstereo-budgeted-blocks)
+- [UniChange: Unifying Change Detection with Multimodal Large Language Model](../../conferences/cvpr-2026/cards.md#paper-unichange-temporal-tokens)
+- [LangField4D: Learning Identity-Adaptive and Spatio-Temporal Continuous 4D Language Fields for Dynamic Scenes](../../conferences/cvpr-2026/cards.md#paper-langfield4d-identity-continuity)
 
 <!-- conference-classification:end -->

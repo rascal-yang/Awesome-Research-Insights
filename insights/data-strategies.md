@@ -484,5 +484,6 @@
 - [Accelerating Diffusion Model Training under Minimal Budgets: A Condensation-Based Perspective](../conferences/cvpr-2026/cards.md#paper-d2c-diffusion-difficulty-select-and-attach)
 - [Regulating Rather than Constraining: Adaptive Guidance for Complex Spectral Reconstruction in Pansharpening](../conferences/cvpr-2026/cards.md#paper-spatial-spectral-mixing-for-rare-reconstruction)
 - [Inter-Edit: First Benchmark for Interactive Instruction-Based Image Editing](../conferences/cvpr-2026/cards.md#paper-imprecise-user-mask-simulation-for-editing)
+- [Enhancing Descriptive Captions with Visual Attributes for Multimodal Perception](../conferences/cvpr-2026/cards.md#paper-visual-specialist-evidence-caption-supervision)
 
 <!-- conference-classification:end -->

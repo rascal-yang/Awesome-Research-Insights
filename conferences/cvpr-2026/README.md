@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,807 篇，其中 2,429 篇暂收录、1,378 篇排除，另有 235 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,837 篇，其中 2,449 篇暂收录、1,388 篇排除，另有 205 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2435,3 +2435,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,807
 | 机器学习 | 持续学习 | [Few-Shot Hybrid Incremental Learning:Continually Learning under Data Scarcity and Task Uncertainty](cards.md#paper-fshil-conditional-meta-expansion) | 在任务划分未知且样本很少时，有条件扩展参数而非每轮都冻结或扩张。 |
 | 三维视觉 | 空间表征 | [DepthFocus: Controllable Depth Estimation for See-Through Scenes](cards.md#paper-depthfocus-reference-plane-conditional-depth) | 透明或多层场景中让观察者选择参考深度，再预测其附近的目标表面。 |
 | 生成模型 | 参数高效适配 | [FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models](cards.md#paper-fine-shared-factors-variable-depth-initialization) | 训练一次跨层共享矩阵，再按部署深度选择层特定因子初始化。 |
+| 计算机视觉 | 评测与诊断 | [ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting](cards.md#paper-gaussian-feature-blend-ambiguity-localization) | 地图定位时可显式诊断 Gaussian alpha 混合造成的局部特征纠缠，再改变匹配表示。 |
+| 机器学习基础与统计 | 推理策略 | [Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs](cards.md#paper-latent-strategy-diversity-before-reasoning) | 在生成首 token 之前采样高层策略潜变量，可增加候选之间的推理差别。 |
+| 多模态学习 | 评测与诊断 | [Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding](cards.md#paper-egocentric-step-level-multimodal-verification) | 评估第一视角推理时应同时检查中间视觉证据与最终答案。 |
+| 多模态学习 | 表征学习 | [CaReFlow: Cyclic Adaptive Rectified Flow for Multimodal Fusion](cards.md#paper-one-to-many-cross-modal-distribution-flow) | 跨模态域映射可用一对多输运让一个源点观察目标分布，减少固定成对对齐缺失全局结构。 |
+| 多模态学习 | 数据策略 | [Enhancing Descriptive Captions with Visual Attributes for Multimodal Perception](cards.md#paper-visual-specialist-evidence-caption-supervision) | 构造图文训练数据时可调用独立视觉专家，先提取细节证据再合成说明。 |
+| 计算机视觉 | 评测与诊断 | [RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing](cards.md#paper-view-independent-gaussian-primitive-importance) | 压缩三维图元时可降低重要性评估对特定渲染视角集合的依赖。 |
+| 机器学习基础与统计 | 模型架构 | [NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training](cards.md#paper-nestor-nested-operator-experts) | 在物理预测中以不同层级专家分别处理全局系统和局部行为。 |
+| 多模态学习 | 推理策略 | [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](cards.md#paper-tays-streaming-dual-kv) | 视觉读帧和文字推理用独立缓存并行运行，以因果掩码约束信息流。 |
+| 计算机视觉 | 训练策略 | [From Detection to Association: Learning Discriminative Object Embeddings for Multi-Object Tracking](cards.md#paper-fdta-detection-association-embeddings) | 跟踪单独优化跨帧实例区分，避免以单帧检测的类别相似度作关联。 |
+| 机器学习基础与统计 | 训练策略 | [Unlocking Pre-trained Weights: Parameter Inheritance for Zero-Shot Initialization](cards.md#paper-pith-parameter-inheritance) | 将预训练参数直接投影给不同形状的目标网络，并测零训练初始化质量。 |
+| 机器人学 | 模型架构 | [Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching](cards.md#paper-fast-foundationstereo-budgeted-blocks) | 立体深度压缩中把视觉骨干、代价过滤和迭代细化分开纳入延迟预算。 |
+| 多模态学习 | 模型架构 | [UniChange: Unifying Change Detection with Multimodal Large Language Model](cards.md#paper-unichange-temporal-tokens) | 用两个时间令牌与一个变化令牌统一不同标签粒度的视觉变化检测。 |
+| 多模态学习 | 训练策略 | [Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](cards.md#paper-omniattribute-paired-disentangling) | 用配对数据标明应保留和应抑制的属性，联合监督属性迁移和解耦。 |
+| 计算机视觉 | 模型架构 | [LangField4D: Learning Identity-Adaptive and Spatio-Temporal Continuous 4D Language Fields for Dynamic Scenes](cards.md#paper-langfield4d-identity-continuity) | 动态语言地图需把实例身份随时序重分配与语义连续性一起学习。 |
+| 多模态学习 | 评测设计 | [ChartR: Evaluating Reasoning Accuracy and Robustness in Chart Question Answering](cards.md#paper-chartr-stepwise-perturbation-evaluation) | 同时检查中间步骤和最终答案，并用视觉扰动定位误差从哪一步扩散。 |
+| 生成模型 | 流匹配 | [Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models](cards.md#paper-eda-arbitrary-noise-restoration-path) | 恢复任务中让噪声过程贴近实际退化，避免额外高斯扰动拉长恢复路径。 |
+| 多模态学习 | 记忆机制 | [FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](cards.md#paper-fluxmem-temporal-spatial-adaptive-compression) | 流式视频压缩先检查邻帧重复，再合并帧内重复区域，随内容决定压缩率。 |
+| 计算机视觉 | 弱监督学习 | [Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](cards.md#paper-fob-background-prompt-localization) | 少样本分割出现过分割时，直接学习定位背景提示，而不是只加强前景。 |
+| 机器学习 | 表征学习 | [Convolutional Neural Networks Driven by Content Similarity](cards.md#paper-content-sorted-convolution-aggregation) | 通过重排让相似特征靠近，再用卷积聚合不相邻的原图内容。 |
+| 多模态学习 | 推理时适配 | [PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](cards.md#paper-pearl-align-then-propagate-open-vocabulary) | 先在视觉注意力中校正子空间，再用文本置信传播像素分数。 |
