@@ -2546,5 +2546,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Learning Straight Flows: Variational Flow Matching for Efficient Generation](../../conferences/cvpr-2026/cards.md#paper-svfm-variational-latent-straight-flows)
 - [DCoAR: Deep Concept Injection into Unified Autoregressive Models for Personalized Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-dcoar-deep-frozen-concept-injection)
 - [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](../../conferences/cvpr-2026/cards.md#paper-onesparse-memory-moe-unified-routing)
+- [Content-Aware Frequency Encoding for Implicit Neural Representations with Fourier-Chebyshev Features](../../conferences/cvpr-2026/cards.md#paper-multiplicative-content-aware-frequency-basis)
+- [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-diffgraph-subgraph-model-merging)
 
 <!-- conference-classification:end -->

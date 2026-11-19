@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,787 篇，其中 1,762 篇暂收录、1,025 篇排除，另有 1,255 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,817 篇，其中 1,780 篇暂收录、1,037 篇排除，另有 1,225 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1768,3 +1768,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,787
 | 生成模型 | 参数高效适配 | [DCoAR: Deep Concept Injection into Unified Autoregressive Models for Personalized Text-to-Image Generation](cards.md#paper-dcoar-deep-frozen-concept-injection) | 冻结整座生成模型，在多层注入可学习概念，以很少参数支持新概念控制。 |
 | 机器学习 | 稀疏路由 | [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](cards.md#paper-onesparse-memory-moe-unified-routing) | 在同一设计空间内混合快速记忆查找和专家计算，用负载均衡稳定稀疏分配。 |
 | 机器人学 | 视觉定位 | [Dynamic Visual SLAM using a General 3D Prior](cards.md#paper-dynamic-slam-feedforward-geometry-prior) | 前馈三维先验只负责去动态区域和提供深度，在线局部几何优化仍保持闭环更新。 |
+| 机器人学 | 训练策略 | [W2W: Language-Model-Based Trajectory Prediction with Reinforcement Learning](cards.md#paper-trajectory-geometry-reward-text-decoder) | 语言轨迹生成可在监督训练后通过可解析坐标上的几何奖励补足 token 损失。 |
+| 多模态学习 | 评测与诊断 | [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](cards.md#paper-video-reasoning-task-conditional-benefits) | 使用视频作为中间推理表示前，可以按任务判断是否需要连续变化，而非统一提高生成预算。 |
+| 计算机视觉 | 推理策略 | [RAID: Retrieval-Augmented Anomaly Detection](cards.md#paper-normal-template-guidance-anomaly-residual) | 检索正常模板时可把它用于抑制异常图中的匹配噪声。 |
+| 机器学习基础与统计 | 模型架构 | [Content-Aware Frequency Encoding for Implicit Neural Representations with Fourier-Chebyshev Features](cards.md#paper-multiplicative-content-aware-frequency-basis) | 隐式神经表示可通过并联 Fourier 特征的逐元素乘积显式构造复合频率，再学习任务适用频率。 |
+| 多模态学习 | 评测与诊断 | [PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing](cards.md#paper-explicit-negatives-paraphrase-retrieval-test) | 组合检索可在相同查询下标注明确反例并测试改写稳定性，暴露单正例指标掩盖的错误。 |
+| 机器人学 | 表征学习 | [Physical Object Understanding with a Physically Controllable World Model](cards.md#paper-conditional-world-model-motion-intervention) | 世界模型可通过在部分观测上生成多种运动后果，为判断可移动对象及其部件提供证据。 |
+| 多模态学习 | 训练策略 | [Same or Not? Enhancing Visual Perception in Vision-Language Models](cards.md#paper-twin-same-instance) | 用外观相似的难负例训练同实例判别，并在新类别与新视角检查细粒度迁移。 |
+| 计算机视觉 | 优化策略 | [Turbo-GS: Accelerating 3D Gaussian Fitting for High-Resolution Radiance Fields](cards.md#paper-turbo-gs-convergence-budget) | 按拟合收敛程度决定何时新增基元，再按位置和外观误差定位需要增密的区域。 |
+| 机器人学 | 训练策略 | [EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents](cards.md#paper-embodmocap-dual-rgbd) | 以双移动 RGB-D 的联合标定收集人与场景共享尺度的示教，缓解单目深度歧义。 |
+| 多模态学习 | 训练策略 | [Learning Effective Sign Features without Text for Gloss-free Sign Language Translation](cards.md#paper-signdino-local-pretrain) | 局部动作线索只在预训练提供，也能训练部署时仅读全帧的编码器。 |
+| 计算机视觉 | 训练策略 | [Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning](cards.md#paper-slotcurri-reconstruction-guidance) | 让模型从少量对象槽开始，仅在残差表明容量不足时新增槽位。 |
+| 计算机视觉 | 训练策略 | [Towards Foundation Models for 3D Scene Understanding: Instance-Aware Self-Supervised Learning for Point Clouds](cards.md#paper-pointins-instance-aware-ssl) | 在点云自监督中加入对象中心偏移目标，并独立测实例定位能力。 |
+| 多模态学习 | 训练策略 | [Building a Precise Video Language with Human-AI Oversight](cards.md#paper-chai-video-caption-oversight) | 把人类时间用在检验和纠错，用前后描述与纠错意见同时训练生成器和裁判。 |
+| 多模态学习 | 偏好优化 | [MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](cards.md#paper-moddpo-relevant-modality-invariance) | 用相关模态敏感、无关模态不变的成对约束，检查答案真正依赖哪个传感器。 |
+| 机器人学 | 世界模型 | [PerpetualWonder: Long-horizon Action-conditioned 4D Scene Generation](cards.md#paper-perpetualwonder-shared-visual-physics-state) | 把外观和物理状态接入共享表示，让生成修正可以影响后续模拟。 |
+| 多模态学习 | 跨模态自监督 | [Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion](cards.md#paper-arbitrary-pairing-infrared-visible-fusion) | 配准对稀缺时，将配对监督与非配对数据结合并比较三种数据协议。 |
+| 机器人学 | 评测设计 | [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](cards.md#paper-worldlens-functional-world-model-evaluation) | 对世界模型同时检查几何、动作执行和下游任务，避免以画质代替仿真有效性。 |
+| 生成模型 | 专家合并 | [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](cards.md#paper-diffgraph-subgraph-model-merging) | 用请求相关子图挑选兼容专家，再有条件地合并生成模型。 |

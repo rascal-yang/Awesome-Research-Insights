@@ -1462,5 +1462,12 @@
 - [Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR](../conferences/cvpr-2026/cards.md#paper-fdrl-format-rewards)
 - [$\phi$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-phi-dpo-continual-balance)
 - [PhyCo: Learning Controllable Physical Priors for Generative Motion](../conferences/cvpr-2026/cards.md#paper-phyco-physical-property-control)
+- [Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](../conferences/cvpr-2026/cards.md#paper-video-reasoning-task-conditional-benefits)
+- [PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing](../conferences/cvpr-2026/cards.md#paper-explicit-negatives-paraphrase-retrieval-test)
+- [Same or Not? Enhancing Visual Perception in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-twin-same-instance)
+- [Learning Effective Sign Features without Text for Gloss-free Sign Language Translation](../conferences/cvpr-2026/cards.md#paper-signdino-local-pretrain)
+- [Building a Precise Video Language with Human-AI Oversight](../conferences/cvpr-2026/cards.md#paper-chai-video-caption-oversight)
+- [MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](../conferences/cvpr-2026/cards.md#paper-moddpo-relevant-modality-invariance)
+- [Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion](../conferences/cvpr-2026/cards.md#paper-arbitrary-pairing-infrared-visible-fusion)
 
 <!-- conference-classification:end -->

@@ -989,5 +989,6 @@
 - [Evidential Transformation Network: Turning Pretrained Models into Evidential Models for Post-hoc Uncertainty Estimation](../conferences/cvpr-2026/cards.md#paper-etn-posthoc-dirichlet-logits)
 - [Enhancing Out-of-Distribution Detection with Extended Logit Normalization](../conferences/cvpr-2026/cards.md#paper-elogitnorm-feature-distance-calibration)
 - [Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift](../conferences/cvpr-2026/cards.md#paper-query2uncertainty-query-density-calibration)
+- [PerpetualWonder: Long-horizon Action-conditioned 4D Scene Generation](../conferences/cvpr-2026/cards.md#paper-perpetualwonder-shared-visual-physics-state)
 
 <!-- conference-classification:end -->

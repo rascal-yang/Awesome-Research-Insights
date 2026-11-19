@@ -806,5 +806,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [TTRV: Test-Time Reinforcement Learning for Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-ttrv-consensus-based-test-time-reward)
 - [Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-localdpo-counterfactual-video-regions)
 - [Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR](../../conferences/cvpr-2026/cards.md#paper-fdrl-format-rewards)
+- [MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-moddpo-relevant-modality-invariance)
 
 <!-- conference-classification:end -->

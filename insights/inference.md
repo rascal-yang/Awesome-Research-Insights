@@ -1643,5 +1643,6 @@
 - [QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-attention-scale-calibration-vla-ptq)
 - [Global Structure-from-Motion Meets Feedforward Reconstruction](../conferences/cvpr-2026/cards.md#paper-feedforward-priors-global-sfm)
 - [Compositional Transformation Reasoning for Composed Video Retrieval](../conferences/cvpr-2026/cards.md#paper-decomposed-transformation-video-retrieval)
+- [RAID: Retrieval-Augmented Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-normal-template-guidance-anomaly-residual)
 
 <!-- conference-classification:end -->

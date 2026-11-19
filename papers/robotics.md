@@ -1073,5 +1073,10 @@
 - [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-past-future-motion-latents-vla)
 - [IGen: Scalable Data Generation for Robot Learning from Open-World Images](../conferences/cvpr-2026/cards.md#paper-igen-images-to-actions)
 - [Dynamic Visual SLAM using a General 3D Prior](../conferences/cvpr-2026/cards.md#paper-dynamic-slam-feedforward-geometry-prior)
+- [W2W: Language-Model-Based Trajectory Prediction with Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-trajectory-geometry-reward-text-decoder)
+- [Physical Object Understanding with a Physically Controllable World Model](../conferences/cvpr-2026/cards.md#paper-conditional-world-model-motion-intervention)
+- [EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents](../conferences/cvpr-2026/cards.md#paper-embodmocap-dual-rgbd)
+- [PerpetualWonder: Long-horizon Action-conditioned 4D Scene Generation](../conferences/cvpr-2026/cards.md#paper-perpetualwonder-shared-visual-physics-state)
+- [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](../conferences/cvpr-2026/cards.md#paper-worldlens-functional-world-model-evaluation)
 
 <!-- conference-classification:end -->

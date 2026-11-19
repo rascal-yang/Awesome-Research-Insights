@@ -748,5 +748,6 @@ Model-wide design and information flow.
 - [PixelDiT: Pixel Diffusion Transformers for Image Generation](../../conferences/cvpr-2026/cards.md#paper-pixeldit-patch-pixel-hierarchical-diffusion)
 - [RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection](../../conferences/cvpr-2026/cards.md#paper-regformer-relational-grounding)
 - [MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-motionscale-cluster-motion)
+- [Content-Aware Frequency Encoding for Implicit Neural Representations with Fourier-Chebyshev Features](../../conferences/cvpr-2026/cards.md#paper-multiplicative-content-aware-frequency-basis)
 
 <!-- conference-classification:end -->

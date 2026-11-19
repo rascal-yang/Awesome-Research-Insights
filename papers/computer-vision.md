@@ -1532,5 +1532,9 @@
 - [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](../conferences/cvpr-2026/cards.md#paper-falcon-sfod-object-priors)
 - [RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection](../conferences/cvpr-2026/cards.md#paper-regformer-relational-grounding)
 - [MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-motionscale-cluster-motion)
+- [RAID: Retrieval-Augmented Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-normal-template-guidance-anomaly-residual)
+- [Turbo-GS: Accelerating 3D Gaussian Fitting for High-Resolution Radiance Fields](../conferences/cvpr-2026/cards.md#paper-turbo-gs-convergence-budget)
+- [Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning](../conferences/cvpr-2026/cards.md#paper-slotcurri-reconstruction-guidance)
+- [Towards Foundation Models for 3D Scene Understanding: Instance-Aware Self-Supervised Learning for Point Clouds](../conferences/cvpr-2026/cards.md#paper-pointins-instance-aware-ssl)
 
 <!-- conference-classification:end -->

@@ -1239,5 +1239,13 @@ Training schedules, curricula, and task or stage composition.
 - [Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection](../../conferences/cvpr-2026/cards.md#paper-falcon-sfod-object-priors)
 - [IGen: Scalable Data Generation for Robot Learning from Open-World Images](../../conferences/cvpr-2026/cards.md#paper-igen-images-to-actions)
 - [PhyCo: Learning Controllable Physical Priors for Generative Motion](../../conferences/cvpr-2026/cards.md#paper-phyco-physical-property-control)
+- [W2W: Language-Model-Based Trajectory Prediction with Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-trajectory-geometry-reward-text-decoder)
+- [Same or Not? Enhancing Visual Perception in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-twin-same-instance)
+- [EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents](../../conferences/cvpr-2026/cards.md#paper-embodmocap-dual-rgbd)
+- [Learning Effective Sign Features without Text for Gloss-free Sign Language Translation](../../conferences/cvpr-2026/cards.md#paper-signdino-local-pretrain)
+- [Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning](../../conferences/cvpr-2026/cards.md#paper-slotcurri-reconstruction-guidance)
+- [Towards Foundation Models for 3D Scene Understanding: Instance-Aware Self-Supervised Learning for Point Clouds](../../conferences/cvpr-2026/cards.md#paper-pointins-instance-aware-ssl)
+- [Building a Precise Video Language with Human-AI Oversight](../../conferences/cvpr-2026/cards.md#paper-chai-video-caption-oversight)
+- [Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion](../../conferences/cvpr-2026/cards.md#paper-arbitrary-pairing-infrared-visible-fusion)
 
 <!-- conference-classification:end -->

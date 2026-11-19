@@ -747,5 +747,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-past-future-motion-latents-vla)
 - [TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-shared-continuous-latents-understanding-generation)
 - [Weight Space Representation Learning via Neural Field Adaptation](../../conferences/cvpr-2026/cards.md#paper-mlora-structured-weight-space)
+- [Physical Object Understanding with a Physically Controllable World Model](../../conferences/cvpr-2026/cards.md#paper-conditional-world-model-motion-intervention)
 
 <!-- conference-classification:end -->
