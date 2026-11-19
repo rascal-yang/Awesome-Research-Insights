@@ -1411,5 +1411,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [GuardTrace-VL: Detecting Unsafe Multimodel Reasoning via Iterative Safety Supervision](../../conferences/cvpr-2026/cards.md#paper-guardtrace-vl)
 - [Exposing and Evaluating Hallucinations for GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-gui-hallubench)
 - [LIBERO-Plus: A Progressive Robustness Benchmark for Visual-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-libero-plus)
+- [Inside-Out: Measuring Generalization in Vision Transformers Through Inner Workings](../../conferences/cvpr-2026/cards.md#paper-inside-out-vit-generalization)
+- [CaptionQA: Is Your Caption as Useful as the Image Itself?](../../conferences/cvpr-2026/cards.md#paper-captionqa)
 
 <!-- conference-classification:end -->

@@ -557,5 +557,12 @@
 - [MultiAnimate: Pose-Guided Image Animation Made Extensible](../conferences/cvpr-2026/cards.md#paper-multianimate)
 - [Beyond Sequential Tools: A Unified VLM Agent System for Photographic Post-Processing via Dynamic Multi-Expert Fusion](../conferences/cvpr-2026/cards.md#paper-dynamic-expert-restoration)
 - [ReAttnCLIP: Training-Free Open-Vocabulary Remote Sensing Image Segmentation via Re-defined Attention in CLIP](../conferences/cvpr-2026/cards.md#paper-reattnclip)
+- [Gated KalmaNet: A Fading Memory Layer through Test-time Ridge Regression](../conferences/cvpr-2026/cards.md#paper-gated-kalmanet)
+- [The Missing Point in Vision Transformers for Universal Image Segmentation](../conferences/cvpr-2026/cards.md#paper-vit-p-point-mask-classification)
+- [Reviving ConvNeXt for Efficient Convolutional Diffusion Models](../conferences/cvpr-2026/cards.md#paper-fcdm-convolutional-diffusion)
+- [ZipMap: Linear-Time Stateful 3D Reconstruction via Test-Time Training](../conferences/cvpr-2026/cards.md#paper-zipmap)
+- [OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-onlinepg)
+- [PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](../conferences/cvpr-2026/cards.md#paper-pyratok)
+- [RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-rt-splatting)
 
 <!-- conference-classification:end -->

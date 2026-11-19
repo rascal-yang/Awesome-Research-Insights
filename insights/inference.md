@@ -1307,5 +1307,9 @@
 - [FlowMotion: Training-Free Flow Guidance for Video Motion Transfer](../conferences/cvpr-2026/cards.md#paper-flowmotion)
 - [Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](../conferences/cvpr-2026/cards.md#paper-harmony-synccfg)
 - [Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling](../conferences/cvpr-2026/cards.md#paper-hybridiff)
+- [Rethinking Token Reduction for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-metacompress)
+- [FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](../conferences/cvpr-2026/cards.md#paper-flowdc)
+- [CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space](../conferences/cvpr-2026/cards.md#paper-clay)
+- [Are Image-to-Video Models Good Zero-Shot Image Editors?](../conferences/cvpr-2026/cards.md#paper-if-edit)
 
 <!-- conference-classification:end -->

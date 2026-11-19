@@ -981,5 +981,16 @@ Visual representation, recognition, reconstruction, and generation.
 - [Beyond Sequential Tools: A Unified VLM Agent System for Photographic Post-Processing via Dynamic Multi-Expert Fusion](../../conferences/cvpr-2026/cards.md#paper-dynamic-expert-restoration)
 - [ReAttnCLIP: Training-Free Open-Vocabulary Remote Sensing Image Segmentation via Re-defined Attention in CLIP](../../conferences/cvpr-2026/cards.md#paper-reattnclip)
 - [AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion](../../conferences/cvpr-2026/cards.md#paper-anylift)
+- [Inside-Out: Measuring Generalization in Vision Transformers Through Inner Workings](../../conferences/cvpr-2026/cards.md#paper-inside-out-vit-generalization)
+- [Building Robust Vision Encoders for Cross-Dataset Evaluation in Immunofluorescent Microscopy](../../conferences/cvpr-2026/cards.md#paper-c3r-variable-sensor-channels)
+- [The Missing Point in Vision Transformers for Universal Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-vit-p-point-mask-classification)
+- [Reviving ConvNeXt for Efficient Convolutional Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-fcdm-convolutional-diffusion)
+- [DetAny4D: Detect Anything 4D Temporally in a Streaming RGB Video](../../conferences/cvpr-2026/cards.md#paper-detany4d-temporal-box-stability)
+- [FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](../../conferences/cvpr-2026/cards.md#paper-flowdc)
+- [MeanFlow Transformers with Representation Autoencoders](../../conferences/cvpr-2026/cards.md#paper-mf-rae)
+- [Learning from Semantic Dictionaries: Discriminative Codebook Contrastive Learning for Unified Visual Representation and Generation](../../conferences/cvpr-2026/cards.md#paper-lease)
+- [ZipMap: Linear-Time Stateful 3D Reconstruction via Test-Time Training](../../conferences/cvpr-2026/cards.md#paper-zipmap)
+- [OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-onlinepg)
+- [RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-rt-splatting)
 
 <!-- conference-classification:end -->

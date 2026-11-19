@@ -850,5 +850,7 @@
 - [SHARP: Short-Window Streaming for Accurate and Robust Prediction in Motion Forecasting](../conferences/cvpr-2026/cards.md#paper-sharp)
 - [Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration](../conferences/cvpr-2026/cards.md#paper-lmee-memory-retrieval-training)
 - [LIBERO-Plus: A Progressive Robustness Benchmark for Visual-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-libero-plus)
+- [SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-sgdrive)
+- [From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings](../conferences/cvpr-2026/cards.md#paper-laps)
 
 <!-- conference-classification:end -->

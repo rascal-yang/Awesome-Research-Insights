@@ -892,5 +892,12 @@
 - [Exposing and Evaluating Hallucinations for GUI Grounding](../conferences/cvpr-2026/cards.md#paper-gui-hallubench)
 - [Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling](../conferences/cvpr-2026/cards.md#paper-hybridiff)
 - [UniVerse: Empower Unified Generation with Reasoning and Knowledge](../conferences/cvpr-2026/cards.md#paper-universe)
+- [Rethinking Token Reduction for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-metacompress)
+- [CaptionQA: Is Your Caption as Useful as the Image Itself?](../conferences/cvpr-2026/cards.md#paper-captionqa)
+- [Dynamics-Aware Preference Optimization for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-cw-dpo)
+- [PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning](../conferences/cvpr-2026/cards.md#paper-pdcr)
+- [CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space](../conferences/cvpr-2026/cards.md#paper-clay)
+- [Are Image-to-Video Models Good Zero-Shot Image Editors?](../conferences/cvpr-2026/cards.md#paper-if-edit)
+- [PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](../conferences/cvpr-2026/cards.md#paper-pyratok)
 
 <!-- conference-classification:end -->

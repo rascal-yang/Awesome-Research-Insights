@@ -2289,5 +2289,7 @@
 - [Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-dual-e)
 - [Federated Active Learning Under Extreme Non-IID and Global Class Imbalance](../conferences/cvpr-2026/cards.md#paper-fairfal-local-global-querying)
 - [Tunable Soft Equivariance with Guarantees](../conferences/cvpr-2026/cards.md#paper-tunable-soft-equivariance)
+- [Gated KalmaNet: A Fading Memory Layer through Test-time Ridge Regression](../conferences/cvpr-2026/cards.md#paper-gated-kalmanet)
+- [The Surprising Effectiveness of Noise Pretraining for Implicit Neural Representations](../conferences/cvpr-2026/cards.md#paper-noise-pretraining-inr)
 
 <!-- conference-classification:end -->

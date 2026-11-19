@@ -900,5 +900,14 @@
 - [Detecting Compressed AI-Generated Images via Phase Spectrum Robustness](../conferences/cvpr-2026/cards.md#paper-compression-phase-detection)
 - [AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion](../conferences/cvpr-2026/cards.md#paper-anylift)
 - [UniVerse: Empower Unified Generation with Reasoning and Knowledge](../conferences/cvpr-2026/cards.md#paper-universe)
+- [Building Robust Vision Encoders for Cross-Dataset Evaluation in Immunofluorescent Microscopy](../conferences/cvpr-2026/cards.md#paper-c3r-variable-sensor-channels)
+- [DetAny4D: Detect Anything 4D Temporally in a Streaming RGB Video](../conferences/cvpr-2026/cards.md#paper-detany4d-temporal-box-stability)
+- [Dynamics-Aware Preference Optimization for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-cw-dpo)
+- [PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning](../conferences/cvpr-2026/cards.md#paper-pdcr)
+- [MeanFlow Transformers with Representation Autoencoders](../conferences/cvpr-2026/cards.md#paper-mf-rae)
+- [The Surprising Effectiveness of Noise Pretraining for Implicit Neural Representations](../conferences/cvpr-2026/cards.md#paper-noise-pretraining-inr)
+- [Learning from Semantic Dictionaries: Discriminative Codebook Contrastive Learning for Unified Visual Representation and Generation](../conferences/cvpr-2026/cards.md#paper-lease)
+- [SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-sgdrive)
+- [From Observation to Action: Latent Action-based Primitive Segmentation for VLA Pre-training in Industrial Settings](../conferences/cvpr-2026/cards.md#paper-laps)
 
 <!-- conference-classification:end -->
