@@ -1658,5 +1658,11 @@
 - [Radiance Meshes for Volumetric Reconstruction](../conferences/cvpr-2026/cards.md#paper-radiance-meshes-delaunay)
 - [Unified Primitive Proxies for Structured Shape Completion](../conferences/cvpr-2026/cards.md#paper-unico-primitive-proxies)
 - [DeepfakeImpact: A Two-Stage Benchmark with Real-World Impact in Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-deepfakeimpact-error-cost-aware-evaluation)
+- [Logit-Margin Repulsion for Backdoor Defense](../conferences/cvpr-2026/cards.md#paper-clean-calibrated-margin-model-integrity)
+- [Grid Distillation: Compositional Image Distillation via Structured Generative Grids](../conferences/cvpr-2026/cards.md#paper-structured-semantic-grid-dataset-distillation)
+- [SpotEdit: Selective Region Editing in Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-spotedit-selective-computation)
+- [Revisiting the Necessity of Full Accuracy: Weakly Supervised Object-Level Offset Correction for Misaligned Building Labels](../conferences/cvpr-2026/cards.md#paper-omaf-object-offset-correction)
+- [LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency](../conferences/cvpr-2026/cards.md#paper-lascomp-preserve-observed-geometry)
+- [Token Warping Helps MLLMs Look from Nearby Viewpoints](../conferences/cvpr-2026/cards.md#paper-backward-token-warping-nearby-viewpoints)
 
 <!-- conference-classification:end -->

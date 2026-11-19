@@ -780,5 +780,8 @@
 - [SO(3)-Equivariant ViT-Adapter for Data-Efficient Zero-Shot Sim-to-Real Indoor Panoramic Depth Estimation](../conferences/cvpr-2026/cards.md#paper-rotation-equivariant-panorama-depth-adaptation)
 - [Large-scale Robust Enhanced Ensemble Clustering via Outlier Decoupling](../conferences/cvpr-2026/cards.md#paper-outlier-decoupled-anchor-ensemble-clustering)
 - [Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations](../conferences/cvpr-2026/cards.md#paper-image-conditioned-event-spacetime-aggregation)
+- [Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking](../conferences/cvpr-2026/cards.md#paper-short-long-history-missing-sensor-denoising)
+- [Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery](../conferences/cvpr-2026/cards.md#paper-analogical-text-concepts-category-discovery)
+- [Token Warping Helps MLLMs Look from Nearby Viewpoints](../conferences/cvpr-2026/cards.md#paper-backward-token-warping-nearby-viewpoints)
 
 <!-- conference-classification:end -->

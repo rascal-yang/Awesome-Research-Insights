@@ -722,5 +722,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Bypassing the Transport Plan: Dynamic Reweighting for Out-of-Distribution Detection with Optimal Transport](../../conferences/cvpr-2026/cards.md#paper-drew-ood-reweighting)
 - [MAPS: Preserving Vision-Language Representations via Module-Wise Proximity Scheduling for Better Vision-Language-Action Generalization](../../conferences/cvpr-2026/cards.md#paper-modulewise-pretrained-proximity-vla)
 - [ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction](../../conferences/cvpr-2026/cards.md#paper-clipgstream-inherited-anchors)
+- [Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers](../../conferences/cvpr-2026/cards.md#paper-domain-routed-sample-conditional-residuals)
+- [ODGS-SLAM: Omnidirectional Gaussian Splatting SLAM](../../conferences/cvpr-2026/cards.md#paper-odgs-slam-graph-keyframes)
 
 <!-- conference-classification:end -->

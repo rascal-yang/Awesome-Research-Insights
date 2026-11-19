@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,417 篇，其中 2,164 篇暂收录、1,253 篇排除，另有 625 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,447 篇，其中 2,184 篇暂收录、1,263 篇排除，另有 595 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2170,3 +2170,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,417
 | 机器人学 | 自监督学习 | [TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation](cards.md#paper-teflow-temporal-ensemble-supervision) | 训练时从多帧中聚合稳定运动伪标签，推理仍可保持轻量前馈。 |
 | 机器学习 | 数据筛选 | [Batch Loss Score for Dynamic Data Pruning](cards.md#paper-batch-loss-score-ema-example-pruning) | 只暴露批损失时，用每个样本经历的批损失滑动均值近似其重要性。 |
 | 计算机视觉 | 评测设计 | [DeepfakeImpact: A Two-Stage Benchmark with Real-World Impact in Deepfake Detection](cards.md#paper-deepfakeimpact-error-cost-aware-evaluation) | 将高代价错误和平均技术表现分开评估，避免模型整体指标掩盖关键失败。 |
+| 多模态学习 | 表征学习 | [Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking](cards.md#paper-short-long-history-missing-sensor-denoising) | 传感器缺失时可从近期细节和长期模态演变分别提取重建条件。 |
+| 多模态学习 | 表征学习 | [Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery](cards.md#paper-analogical-text-concepts-category-discovery) | 细粒度新类发现可借已知类文字概念生成类比，再用于视觉分组。 |
+| 机器学习基础与统计 | 优化 | [Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers](cards.md#paper-domain-routed-sample-conditional-residuals) | 冻结骨干时可按样本合成低秩残差，避免为不同域各维护整套参数。 |
+| 计算机视觉 | 训练策略 | [Logit-Margin Repulsion for Backdoor Defense](cards.md#paper-clean-calibrated-margin-model-integrity) | 部署模型完整性检查可用少量干净样本约束 logit margin，再按防御目标清理可疑通道。 |
+| 多模态学习 | 训练策略 | [Compositional Text-to-Image Generation Via Region-aware Bimodal Direct Preference Optimization](cards.md#paper-region-aware-bidirectional-generation-preference) | 组合生成的偏好训练可对文字和图像同时建对照，并聚焦发生属性关系错误的区域。 |
+| 多模态学习 | 推理策略 | [WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](cards.md#paper-multiscale-episodic-semantic-visual-memory) | 长视频选择可用多尺度情节索引找到时间段，再回到视觉记忆核对细节。 |
+| 计算机视觉 | 数据策略 | [Grid Distillation: Compositional Image Distillation via Structured Generative Grids](cards.md#paper-structured-semantic-grid-dataset-distillation) | 蒸馏数据可用语义多样性优化组织复合网格，并让裁剪配合网格边界。 |
+| 计算机视觉 | 推理策略 | [SpotEdit: Selective Region Editing in Diffusion Transformers](cards.md#paper-spotedit-selective-computation) | 局部编辑可以按条件图像的稳定性跳过无关区域，并校验编辑边界。 |
+| 多模态学习 | 损失函数 | [Easy2Hard: From Partially to Fully Unmatched Modalities as Negative Samples in Contrastive Learning](cards.md#paper-easy2hard-multimodal-negatives) | 三种以上模态训练时，分别构造部分和全部错配负例，避免只用最明显的负对。 |
+| 计算机视觉 | 训练策略 | [Revisiting the Necessity of Full Accuracy: Weakly Supervised Object-Level Offset Correction for Misaligned Building Labels](cards.md#paper-omaf-object-offset-correction) | 标注偏差可按对象近似为位移时，先自动选择高置信修正，再训练局部对齐器。 |
+| 机器人学 | 训练策略 | [EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR](cards.md#paper-egoposeformer-uncertainty-labels) | 在第一视角姿态监督不全时，用估计的不确定度过滤或加权大规模自动标签。 |
+| 机器人学 | 优化策略 | [ODGS-SLAM: Omnidirectional Gaussian Splatting SLAM](cards.md#paper-odgs-slam-graph-keyframes) | 全向相机建图应使用原生投影梯度，并按图结构删关键帧以控制内存。 |
+| 计算机视觉 | 推理策略 | [LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency](cards.md#paper-lascomp-preserve-observed-geometry) | 三维补全先固定已见几何，再只细化真实和生成部分的边界。 |
+| 机器人学 | 损失函数 | [InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene](cards.md#paper-interphys-continuous-contact-forces) | 动作生成中用连续接触力及力矩平衡限制人、物体和场景交互。 |
+| 多模态学习 | 不确定性校准 | [Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR](cards.md#paper-consensus-entropy-adaptive-ocr-verification) | 把独立模型输出的集中度用作无需标注的质量信号，高不确定样本再调用更多模型。 |
+| 机器学习 | 隐私保护学习 | [Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning](cards.md#paper-vpdr-variance-adaptive-prototype-privacy) | 共享原型时按维度调节扰动，保护辨别性并测量个性化收益。 |
+| 多模态学习 | 可解释表征 | [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](cards.md#paper-cb-sae-interpretability-steerability-audit) | 同时检查稀疏特征是否可理解与可干预，再补充真正需要的概念。 |
+| 三维视觉 | 空间表征 | [Token Warping Helps MLLMs Look from Nearby Viewpoints](cards.md#paper-backward-token-warping-nearby-viewpoints) | 小范围视点变化时，在特征 token 上做反向采样而非先合成目标像素。 |
+| 多模态学习 | 训练目标 | [Predictive Regularization Against Visual Representation Degradation in Multimodal Large Language Models](cards.md#paper-pre-preserve-intermediate-visual-patches) | 应用纯文本生成监督时，探测中间视觉表征并用初始特征预测约束保留信息。 |
+| 生成模型 | 参数高效适配 | [MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation](cards.md#paper-makeanything-asymmetric-lora-procedural-steps) | 在跨域多步生成中保留原有通用模块，并限制风格或任务适配修改范围。 |

@@ -2606,5 +2606,8 @@
 - [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](../conferences/cvpr-2026/cards.md#paper-schirn-high-rank-labels)
 - [Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses](../conferences/cvpr-2026/cards.md#paper-tda-snn-time-space-tradeoff)
 - [Batch Loss Score for Dynamic Data Pruning](../conferences/cvpr-2026/cards.md#paper-batch-loss-score-ema-example-pruning)
+- [Keep It Frozen: Domain-Routed Conditional Residual Modulation for Multi-Domain Vision Transformers](../conferences/cvpr-2026/cards.md#paper-domain-routed-sample-conditional-residuals)
+- [Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning](../conferences/cvpr-2026/cards.md#paper-vpdr-variance-adaptive-prototype-privacy)
+- [MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation](../conferences/cvpr-2026/cards.md#paper-makeanything-asymmetric-lora-procedural-steps)
 
 <!-- conference-classification:end -->

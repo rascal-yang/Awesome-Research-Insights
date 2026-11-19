@@ -996,5 +996,6 @@
 - [WPT: World-to-Policy Transfer via Online World Model Distillation](../conferences/cvpr-2026/cards.md#paper-wpt-distill-world-model-into-policy)
 - [MAD: Motion Appearance Decoupling for efficient Driving World Models](../conferences/cvpr-2026/cards.md#paper-mad-structured-motion-appearance-decoupling)
 - [SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](../conferences/cvpr-2026/cards.md#paper-sparseworld-tc-trajectory-conditioned-occupancy)
+- [Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR](../conferences/cvpr-2026/cards.md#paper-consensus-entropy-adaptive-ocr-verification)
 
 <!-- conference-classification:end -->

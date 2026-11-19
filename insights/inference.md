@@ -1707,5 +1707,8 @@
 - [ActiveGrasp: Information-Guided Active Grasping with Calibrated Energy-based Model](../conferences/cvpr-2026/cards.md#paper-activegrasp-calibrated-information-gain)
 - [IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment](../conferences/cvpr-2026/cards.md#paper-isoclip-intramodal-projectors)
 - [FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching](../conferences/cvpr-2026/cards.md#paper-flowdis-position-aware-instance-pairing)
+- [WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](../conferences/cvpr-2026/cards.md#paper-multiscale-episodic-semantic-visual-memory)
+- [SpotEdit: Selective Region Editing in Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-spotedit-selective-computation)
+- [LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency](../conferences/cvpr-2026/cards.md#paper-lascomp-preserve-observed-geometry)
 
 <!-- conference-classification:end -->

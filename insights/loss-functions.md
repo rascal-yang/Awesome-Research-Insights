@@ -497,5 +497,7 @@
 - [Mind the Discriminability Trap in Source-Free Cross-domain Few-shot Learning](../conferences/cvpr-2026/cards.md#paper-discriminability-trap-cross-domain)
 - [FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-framer-frequency-self-distillation)
 - [Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning](../conferences/cvpr-2026/cards.md#paper-schirn-high-rank-labels)
+- [Easy2Hard: From Partially to Fully Unmatched Modalities as Negative Samples in Contrastive Learning](../conferences/cvpr-2026/cards.md#paper-easy2hard-multimodal-negatives)
+- [InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene](../conferences/cvpr-2026/cards.md#paper-interphys-continuous-contact-forces)
 
 <!-- conference-classification:end -->

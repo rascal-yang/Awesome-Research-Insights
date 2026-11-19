@@ -1587,5 +1587,13 @@
 - [IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment](../conferences/cvpr-2026/cards.md#paper-isoclip-intramodal-projectors)
 - [SARL-STG: A Spatially Aware Reinforcement Learning Framework for Refining MLLMs in Spatio-Temporal Video Grounding](../conferences/cvpr-2026/cards.md#paper-sarl-stg-iterative-grounding)
 - [FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching](../conferences/cvpr-2026/cards.md#paper-flowdis-position-aware-instance-pairing)
+- [Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking](../conferences/cvpr-2026/cards.md#paper-short-long-history-missing-sensor-denoising)
+- [Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery](../conferences/cvpr-2026/cards.md#paper-analogical-text-concepts-category-discovery)
+- [Compositional Text-to-Image Generation Via Region-aware Bimodal Direct Preference Optimization](../conferences/cvpr-2026/cards.md#paper-region-aware-bidirectional-generation-preference)
+- [WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning](../conferences/cvpr-2026/cards.md#paper-multiscale-episodic-semantic-visual-memory)
+- [Easy2Hard: From Partially to Fully Unmatched Modalities as Negative Samples in Contrastive Learning](../conferences/cvpr-2026/cards.md#paper-easy2hard-multimodal-negatives)
+- [Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR](../conferences/cvpr-2026/cards.md#paper-consensus-entropy-adaptive-ocr-verification)
+- [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](../conferences/cvpr-2026/cards.md#paper-cb-sae-interpretability-steerability-audit)
+- [Predictive Regularization Against Visual Representation Degradation in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-pre-preserve-intermediate-visual-patches)
 
 <!-- conference-classification:end -->

@@ -1341,5 +1341,10 @@ Training schedules, curricula, and task or stage composition.
 - [ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images](../../conferences/cvpr-2026/cards.md#paper-point-box-mask-feedback-segmentation)
 - [SARL-STG: A Spatially Aware Reinforcement Learning Framework for Refining MLLMs in Spatio-Temporal Video Grounding](../../conferences/cvpr-2026/cards.md#paper-sarl-stg-iterative-grounding)
 - [TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-teflow-temporal-ensemble-supervision)
+- [Logit-Margin Repulsion for Backdoor Defense](../../conferences/cvpr-2026/cards.md#paper-clean-calibrated-margin-model-integrity)
+- [Compositional Text-to-Image Generation Via Region-aware Bimodal Direct Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-region-aware-bidirectional-generation-preference)
+- [Revisiting the Necessity of Full Accuracy: Weakly Supervised Object-Level Offset Correction for Misaligned Building Labels](../../conferences/cvpr-2026/cards.md#paper-omaf-object-offset-correction)
+- [EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR](../../conferences/cvpr-2026/cards.md#paper-egoposeformer-uncertainty-labels)
+- [Predictive Regularization Against Visual Representation Degradation in Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-pre-preserve-intermediate-visual-patches)
 
 <!-- conference-classification:end -->

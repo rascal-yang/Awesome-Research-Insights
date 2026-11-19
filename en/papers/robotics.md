@@ -1150,5 +1150,8 @@ Robot perception, policy learning, planning, and control.
 - [Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field](../../conferences/cvpr-2026/cards.md#paper-gavis-anisotropic-visibility)
 - [RISE: Single Static Radar-based Indoor Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-rise-indoor-multipath)
 - [TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-teflow-temporal-ensemble-supervision)
+- [EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR](../../conferences/cvpr-2026/cards.md#paper-egoposeformer-uncertainty-labels)
+- [ODGS-SLAM: Omnidirectional Gaussian Splatting SLAM](../../conferences/cvpr-2026/cards.md#paper-odgs-slam-graph-keyframes)
+- [InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene](../../conferences/cvpr-2026/cards.md#paper-interphys-continuous-contact-forces)
 
 <!-- conference-classification:end -->

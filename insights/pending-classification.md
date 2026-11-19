@@ -874,5 +874,7 @@
 - [TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction](../conferences/cvpr-2026/cards.md#paper-talo-propagated-spline-submap-alignment)
 - [Why Not Hyperparameter-Friendly Optimisation? A Monotonic Adaptive Norm Rescaling Approach For Long-Tailed Recognition](../conferences/cvpr-2026/cards.md#paper-samn-monotonic-classifier-norms)
 - [Modeling the Visual Ambiguity of Human Sketches](../conferences/cvpr-2026/cards.md#paper-disamb-ambiguity-adaptive-pairing)
+- [Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning](../conferences/cvpr-2026/cards.md#paper-vpdr-variance-adaptive-prototype-privacy)
+- [MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation](../conferences/cvpr-2026/cards.md#paper-makeanything-asymmetric-lora-procedural-steps)
 
 <!-- conference-classification:end -->
