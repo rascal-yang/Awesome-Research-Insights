@@ -1372,5 +1372,18 @@ Visual representation, recognition, reconstruction, and generation.
 - [Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer](../../conferences/cvpr-2026/cards.md#paper-fleximmt-object-masked-motion)
 - [Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](../../conferences/cvpr-2026/cards.md#paper-ace-zero-uncertainty-pose-graph)
 - [Focal-General Diffusion Model with Semantic Consistent Guidance for Sign Language Production](../../conferences/cvpr-2026/cards.md#paper-fgdm-focal-global-sign-motion)
+- [MatchMask: Mask-Centric Generative Data Augmentation for Label-Scarce Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-matchmask-gradient-probe)
+- [E-3DPSM: A State Machine for Event-based Egocentric 3D Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-event-driven-pose-state-machine)
+- [The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](../../conferences/cvpr-2026/cards.md#paper-synps-stepwise-attention-balance)
+- [ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data](../../conferences/cvpr-2026/cards.md#paper-remogen-modular-interaction-prior)
+- [Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations](../../conferences/cvpr-2026/cards.md#paper-reliev3r)
+- [AdapTok: Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space](../../conferences/cvpr-2026/cards.md#paper-adaptok)
+- [ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control](../../conferences/cvpr-2026/cards.md#paper-projflow)
+- [Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-proxygs-unified-occlusion-prior)
+- [SparseCam4D: Spatio-Temporally Consistent 4D Reconstruction from Sparse Cameras](../../conferences/cvpr-2026/cards.md#paper-sparsecam4d-generative-distortion-fields)
+- [ART: Articulated Reconstruction Transformer](../../conferences/cvpr-2026/cards.md#paper-art-part-slot-articulated-reconstruction)
+- [RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](../../conferences/cvpr-2026/cards.md#paper-raven-calibrated-streaming-early-exit)
+- [SAIDO: Generalizable Detection of AI-Generated Images via Scene-Aware and Importance-Guided Dynamic Optimization in Continual Learning](../../conferences/cvpr-2026/cards.md#paper-saido-scene-experts-continual-detection)
+- [Generative Video Motion Editing with 3D Point Tracks](../../conferences/cvpr-2026/cards.md#paper-edit-by-track-paired-3d-correspondence)
 
 <!-- conference-classification:end -->

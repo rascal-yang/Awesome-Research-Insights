@@ -1135,5 +1135,9 @@
 - [BluRef: Unsupervised Image Deblurring with Dense-Matching References](../conferences/cvpr-2026/cards.md#paper-bluref)
 - [Cluster-Wise Spatio-Temporal Masking for Efficient Video-Language Pretraining](../conferences/cvpr-2026/cards.md#paper-clusterstm)
 - [Decouple Your Discovery and Memory in Continual Generalized Category Discovery](../conferences/cvpr-2026/cards.md#paper-dydm-decouple-discovery-memory)
+- [GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](../conferences/cvpr-2026/cards.md#paper-gtr-turbo-merged-checkpoint-teacher)
+- [ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data](../conferences/cvpr-2026/cards.md#paper-remogen-modular-interaction-prior)
+- [PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-palm-affordance-subtask-progress)
+- [SAIDO: Generalizable Detection of AI-Generated Images via Scene-Aware and Importance-Guided Dynamic Optimization in Continual Learning](../conferences/cvpr-2026/cards.md#paper-saido-scene-experts-continual-detection)
 
 <!-- conference-classification:end -->

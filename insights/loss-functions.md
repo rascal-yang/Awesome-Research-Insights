@@ -457,5 +457,6 @@
 - [Multimodal Distribution Matching for Vision-Language Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-mdm-joint-hyperspherical-paired-distillation)
 - [BEV-CAR: Enhancing Monocular Bird's Eye View Segmentation with Context-Aware Rasterization](../conferences/cvpr-2026/cards.md#paper-bev-car-ray-context-layout-supervision)
 - [Your Dissimilarities Define You: Complementary Learning Exploiting Class Diversities](../conferences/cvpr-2026/cards.md#paper-opposite-class-complementary-learning)
+- [Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations](../conferences/cvpr-2026/cards.md#paper-reliev3r)
 
 <!-- conference-classification:end -->

@@ -2484,5 +2484,6 @@
 - [Your Dissimilarities Define You: Complementary Learning Exploiting Class Diversities](../conferences/cvpr-2026/cards.md#paper-opposite-class-complementary-learning)
 - [Single-Round Scalable Analytic Federated Learning](../conferences/cvpr-2026/cards.md#paper-safle-one-round-analytic-aggregation)
 - [Decouple Your Discovery and Memory in Continual Generalized Category Discovery](../conferences/cvpr-2026/cards.md#paper-dydm-decouple-discovery-memory)
+- [AnyPcc: Compressing Any Point Cloud with a Single Universal Model](../conferences/cvpr-2026/cards.md#paper-anypcc-instance-weight-bits)
 
 <!-- conference-classification:end -->

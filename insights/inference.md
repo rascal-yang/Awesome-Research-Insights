@@ -1551,5 +1551,9 @@
 - [Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer](../conferences/cvpr-2026/cards.md#paper-fleximmt-object-masked-motion)
 - [Synthesizing Visual Concepts as Vision-Language Programs](../conferences/cvpr-2026/cards.md#paper-vision-language-program-synthesis)
 - [Focal-General Diffusion Model with Semantic Consistent Guidance for Sign Language Production](../conferences/cvpr-2026/cards.md#paper-fgdm-focal-global-sign-motion)
+- [The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](../conferences/cvpr-2026/cards.md#paper-synps-stepwise-attention-balance)
+- [ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control](../conferences/cvpr-2026/cards.md#paper-projflow)
+- [Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](../conferences/cvpr-2026/cards.md#paper-autogaze)
+- [Generative Video Motion Editing with 3D Point Tracks](../conferences/cvpr-2026/cards.md#paper-edit-by-track-paired-3d-correspondence)
 
 <!-- conference-classification:end -->

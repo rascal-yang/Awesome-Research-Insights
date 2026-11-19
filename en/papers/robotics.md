@@ -984,5 +984,6 @@ Robot perception, policy learning, planning, and control.
 - [Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-diffrender-vla-differentiable-spatial-visual-interface)
 - [BEV-CAR: Enhancing Monocular Bird's Eye View Segmentation with Context-Aware Rasterization](../../conferences/cvpr-2026/cards.md#paper-bev-car-ray-context-layout-supervision)
 - [SkillSight: Efficient First-Person Skill Assessment with Gaze](../../conferences/cvpr-2026/cards.md#paper-skillsight-gaze-only-distillation)
+- [PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-palm-affordance-subtask-progress)
 
 <!-- conference-classification:end -->

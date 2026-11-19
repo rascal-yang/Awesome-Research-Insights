@@ -703,5 +703,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-neural-gabor-splatting)
 - [RaUF: Learning the Spatial Uncertainty Field of Radar](../../conferences/cvpr-2026/cards.md#paper-rauf-anisotropic-uncertainty)
 - [Beyond Text: Visual Description Assembly by Probabilistic Model for CLIP-based Weakly Supervised Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-vda-instance-visual-prototypes)
+- [Decoupling Vision and Language: Codebook Anchored Visual Adaptation](../../conferences/cvpr-2026/cards.md#paper-craft-codebook-stable-vision-interface)
 
 <!-- conference-classification:end -->

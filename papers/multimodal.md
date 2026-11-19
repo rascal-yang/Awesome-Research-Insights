@@ -1302,5 +1302,11 @@
 - [Cluster-Wise Spatio-Temporal Masking for Efficient Video-Language Pretraining](../conferences/cvpr-2026/cards.md#paper-clusterstm)
 - [Synthesizing Visual Concepts as Vision-Language Programs](../conferences/cvpr-2026/cards.md#paper-vision-language-program-synthesis)
 - [Follow the Saliency: Supervised Saliency for Retrieval-augmented Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-starc-saliency-segment-retrieve)
+- [GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](../conferences/cvpr-2026/cards.md#paper-gtr-turbo-merged-checkpoint-teacher)
+- [Decoupling Vision and Language: Codebook Anchored Visual Adaptation](../conferences/cvpr-2026/cards.md#paper-craft-codebook-stable-vision-interface)
+- [OmniZip: Learning a Unified and Lightweight Lossless Compressor for Multi-Modal Data](../conferences/cvpr-2026/cards.md#paper-omnizip)
+- [Revisiting Visual Corruptions in LVLMs: A Shape-Texture Perspective on Model Failures](../conferences/cvpr-2026/cards.md#paper-shape-texture-corruptions)
+- [Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](../conferences/cvpr-2026/cards.md#paper-autogaze)
+- [Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization](../conferences/cvpr-2026/cards.md#paper-dpp-grpo)
 
 <!-- conference-classification:end -->

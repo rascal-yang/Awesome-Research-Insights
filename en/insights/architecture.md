@@ -665,5 +665,8 @@ Model-wide design and information flow.
 - [Localizing, Structuring, and Rendering: Bridging 3D and 2D Vision-Language-Action Models for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-diffrender-vla-differentiable-spatial-visual-interface)
 - [Asynchronous Temporal Modeling with Two-Agent Framework for Streaming Dense Video Captioning](../../conferences/cvpr-2026/cards.md#paper-takusen-asynchronous-captioning)
 - [Selection-as-Nonlinearity: Bridging Attention and Activation via a Joint Game-Decision Lens for Interpretable, Discriminative Visual Representations](../../conferences/cvpr-2026/cards.md#paper-selection-as-nonlinearity)
+- [E-3DPSM: A State Machine for Event-based Egocentric 3D Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-event-driven-pose-state-machine)
+- [OmniZip: Learning a Unified and Lightweight Lossless Compressor for Multi-Modal Data](../../conferences/cvpr-2026/cards.md#paper-omnizip)
+- [AdapTok: Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space](../../conferences/cvpr-2026/cards.md#paper-adaptok)
 
 <!-- conference-classification:end -->

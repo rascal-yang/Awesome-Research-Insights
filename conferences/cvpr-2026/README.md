@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,037 篇，其中 1,283 篇暂收录、754 篇排除，另有 2,005 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,067 篇，其中 1,304 篇暂收录、763 篇排除，另有 1,975 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1289,3 +1289,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,037
 | 计算机视觉 | 三维重建 | [Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](cards.md#paper-ace-zero-uncertainty-pose-graph) | 把神经场景坐标产生的相对位姿接入图优化，并以几何置信度抑制不可靠约束。 |
 | 多模态学习 | 视频理解与检索 | [Follow the Saliency: Supervised Saliency for Retrieval-augmented Dense Video Captioning](cards.md#paper-starc-saliency-segment-retrieve) | 把已标事件边界转成显著性监督，让同一信号协调检索片段与生成提示。 |
 | 计算机视觉 | 动作生成 | [Focal-General Diffusion Model with Semantic Consistent Guidance for Sign Language Production](cards.md#paper-fgdm-focal-global-sign-motion) | 将局部骨架细化和全序列协调分配给不同去噪阶段。 |
+| 计算机视觉 | 数据策略 | [MatchMask: Mask-Centric Generative Data Augmentation for Label-Scarce Semantic Segmentation](cards.md#paper-matchmask-gradient-probe) | 少量分割标签下，先探测生成器各层对掩码对齐的贡献，再决定适配位置。 |
+| 计算机视觉 | 模型架构 | [E-3DPSM: A State Machine for Event-based Egocentric 3D Human Pose Estimation](cards.md#paper-event-driven-pose-state-machine) | 异步观测下融合连续状态增量与绝对位置锚定，并分别测抖动和漂移。 |
+| 计算机视觉 | 推理策略 | [The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](cards.md#paper-synps-stepwise-attention-balance) | 对非刚性编辑按去噪步估计修改需求，并消融位置与语义注意的权衡。 |
+| 多模态学习 | 训练策略 | [GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](cards.md#paper-gtr-turbo-merged-checkpoint-teacher) | 多轮强化学习中对照内部检查点合并教师与外部教师，记录同任务训练成本。 |
+| 计算机视觉 | 训练策略 | [ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data](cards.md#paper-remogen-modular-interaction-prior) | 将通用动作先验与独立交互模块分开训练，并核对混合交互和端到端延迟。 |
+| 机器人学 | 训练策略 | [PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation](cards.md#paper-palm-affordance-subtask-progress) | 长程操作把交互可供性与子任务进度分开建模，以遗漏、重复和过早结束为诊断。 |
+| 多模态学习 | 表征学习 | [Decoupling Vision and Language: Codebook Anchored Visual Adaptation](cards.md#paper-craft-codebook-stable-vision-interface) | 跨语言骨干复用领域视觉编码器时，比较固定离散码本接口与联合重对齐。 |
+| 计算机视觉 | 损失函数 | [Reliev3R: Relieving Feed-forward 3D Reconstruction from Multi-View Geometric Annotations](cards.md#paper-reliev3r) | 缺少跨视图标注时，可把相对深度和稀疏对应拆作互补的几何监督。 |
+| 多模态学习 | 模型架构 | [OmniZip: Learning a Unified and Lightweight Lossless Compressor for Multi-Modal Data](cards.md#paper-omnizip) | 比较统一可逆标记与模态专用上下文，区分接口复用和概率建模收益。 |
+| 计算机视觉 | 模型架构 | [AdapTok: Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space](cards.md#paper-adaptok) | 固定总词元预算时，用前缀质量评分在时间块间分配容量。 |
+| 多模态学习 | 评测与诊断 | [Revisiting Visual Corruptions in LVLMs: A Shape-Texture Perspective on Model Failures](cards.md#paper-shape-texture-corruptions) | 把扰动按形状和纹理分层诊断，再与单一对比视图解码比较。 |
+| 计算机视觉 | 推理策略 | [ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control](cards.md#paper-projflow) | 对线性硬约束先选结构感知的投影度量，再验局部精确性与整体自然度。 |
+| 多模态学习 | 推理策略 | [Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing](cards.md#paper-autogaze) | 在重视觉骨干前用重建误差预算选多尺度视频区域，并独立核对问答保真。 |
+| 多模态学习 | 强化学习方法 | [Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization](cards.md#paper-dpp-grpo) | 对同提示的多样生成采用集合级奖励，并同时验对齐、质量与多样性。 |
+| 计算机视觉 | 三维重建 | [Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting](cards.md#paper-proxygs-unified-occlusion-prior) | 可视性代理同时给训练增密和推理剔除提供同一遮挡信号。 |
+| 机器学习基础 | 压缩与域适配 | [AnyPcc: Compressing Any Point Cloud with a Single Universal Model](cards.md#paper-anypcc-instance-weight-bits) | 测试时更新可用少量模型参数的码率换取数据码率，评估时应把两者一并计入。 |
+| 计算机视觉 | 三维重建 | [SparseCam4D: Spatio-Temporally Consistent 4D Reconstruction from Sparse Cameras](cards.md#paper-sparsecam4d-generative-distortion-fields) | 生成观测用于重建时，可先显式建模它相对真实观测的偏差。 |
+| 计算机视觉 | 三维重建 | [ART: Articulated Reconstruction Transformer](cards.md#paper-art-part-slot-articulated-reconstruction) | 把稀疏多状态观测映射到部件槽位，再联合解码部件几何和运动参数。 |
+| 计算机视觉 | 高效感知 | [RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](cards.md#paper-raven-calibrated-streaming-early-exit) | 用校准的早退规则处理逐步到达的传感器信号，减少等待完整帧的开销。 |
+| 计算机视觉 | 持续学习 | [SAIDO: Generalizable Detection of AI-Generated Images via Scene-Aware and Importance-Guided Dynamic Optimization in Continual Learning](cards.md#paper-saido-scene-experts-continual-detection) | 面向防御检测，可按场景分配专家，并用参数重要性约束持续更新导致的遗忘。 |
+| 计算机视觉 | 可控视频生成 | [Generative Video Motion Editing with 3D Point Tracks](cards.md#paper-edit-by-track-paired-3d-correspondence) | 用成对的三维轨迹描述源与目标对应，以深度帮助维持遮挡顺序。 |

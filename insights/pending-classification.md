@@ -827,5 +827,10 @@
 - [Hidden Monotonicity: Explaining Deep Neural Networks via their DC Decomposition](../conferences/cvpr-2026/cards.md#paper-hidden-monotonicity-dc)
 - [Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization](../conferences/cvpr-2026/cards.md#paper-ace-zero-uncertainty-pose-graph)
 - [Follow the Saliency: Supervised Saliency for Retrieval-augmented Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-starc-saliency-segment-retrieve)
+- [Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-proxygs-unified-occlusion-prior)
+- [AnyPcc: Compressing Any Point Cloud with a Single Universal Model](../conferences/cvpr-2026/cards.md#paper-anypcc-instance-weight-bits)
+- [SparseCam4D: Spatio-Temporally Consistent 4D Reconstruction from Sparse Cameras](../conferences/cvpr-2026/cards.md#paper-sparsecam4d-generative-distortion-fields)
+- [ART: Articulated Reconstruction Transformer](../conferences/cvpr-2026/cards.md#paper-art-part-slot-articulated-reconstruction)
+- [RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](../conferences/cvpr-2026/cards.md#paper-raven-calibrated-streaming-early-exit)
 
 <!-- conference-classification:end -->

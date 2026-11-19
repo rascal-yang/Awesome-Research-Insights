@@ -792,5 +792,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-ra-rft-hard-irrelevant-queries)
 - [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-crossha-agent-action-granularity)
 - [Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](../../conferences/cvpr-2026/cards.md#paper-talk2move)
+- [Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization](../../conferences/cvpr-2026/cards.md#paper-dpp-grpo)
 
 <!-- conference-classification:end -->

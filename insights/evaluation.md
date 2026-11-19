@@ -1545,5 +1545,6 @@
 - [Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](../conferences/cvpr-2026/cards.md#paper-lida-generator-attribution-retrieval)
 - [VL-RouterBench: A Benchmark for Vision-Language Model Routing](../conferences/cvpr-2026/cards.md#paper-vl-routerbench)
 - [SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation](../conferences/cvpr-2026/cards.md#paper-slvmeval-perceptible-pairwise-audit)
+- [Revisiting Visual Corruptions in LVLMs: A Shape-Texture Perspective on Model Failures](../conferences/cvpr-2026/cards.md#paper-shape-texture-corruptions)
 
 <!-- conference-classification:end -->
