@@ -1438,5 +1438,16 @@ Visual representation, recognition, reconstruction, and generation.
 - [D2FANet: Enhancing Video Object Detection with Dual-Domain Feature Aggregation Network](../../conferences/cvpr-2026/cards.md#paper-d2fanet)
 - [Radar-Guided Polynomial Fitting for Metric Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-polar-radar-depth)
 - [QuadSync: Quadrifocal Tensor Synchronization via Tucker Decomposition](../../conferences/cvpr-2026/cards.md#paper-quadsync)
+- [VVS: Accelerating Speculative Decoding for Visual Autoregressive Generation via Partial Verification Skipping](../../conferences/cvpr-2026/cards.md#paper-vvs-visual-speculative-verification-skipping)
+- [Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution](../../conferences/cvpr-2026/cards.md#paper-bps-balanced-visual-pattern-coresets)
+- [NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing](../../conferences/cvpr-2026/cards.md#paper-nova-sparse-keyframe-dense-source-conditioning)
+- [FE2E: From Editor to Dense Geometry Estimator](../../conferences/cvpr-2026/cards.md#paper-fe2e-editor-initialization-dense-geometry)
+- [ChimeraLoRA: Multi-Head LoRA-Guided Synthetic Datasets](../../conferences/cvpr-2026/cards.md#paper-chimeralora)
+- [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](../../conferences/cvpr-2026/cards.md#paper-tapformer-asynchronous)
+- [FVAR: Next-Focus Prediction for Visual Autoregressive Modeling](../../conferences/cvpr-2026/cards.md#paper-fvar-next-focus)
+- [Landscape-Awareness for Geometric View Diffusion Model](../../conferences/cvpr-2026/cards.md#paper-landscape-aware-view-diffusion)
+- [Beyond [CLS] Token: Query-Driven Token-Level Forgery Purification for Generalizable Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-qtfp-local-patch-evidence-queries)
+- [LoST: Level of Semantics Tokenization for 3D Shapes](../../conferences/cvpr-2026/cards.md#paper-lost-semantic-prefix-tokenization)
+- [iLRM: An Iterative Large 3D Reconstruction Model](../../conferences/cvpr-2026/cards.md#paper-ilrm-iterative-compact-scene-tokens)
 
 <!-- conference-classification:end -->

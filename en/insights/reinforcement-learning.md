@@ -794,5 +794,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](../../conferences/cvpr-2026/cards.md#paper-talk2move)
 - [Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization](../../conferences/cvpr-2026/cards.md#paper-dpp-grpo)
 - [TSTM: Temporal Segmentation for Task-relevant Mask in Visual Reinforcement Learning Generalization](../../conferences/cvpr-2026/cards.md#paper-tstm-temporal-task-relevance-mask)
+- [MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](../../conferences/cvpr-2026/cards.md#paper-medgrpo-cross-dataset-reward)
 
 <!-- conference-classification:end -->

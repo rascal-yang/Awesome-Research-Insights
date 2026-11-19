@@ -430,5 +430,6 @@ Data selection, annotation, augmentation, and sampling.
 - [CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-ccvqa-visual-evidence-conflict)
 - [Decision Boundary-aware Generation for Long-tailed Learning](../../conferences/cvpr-2026/cards.md#paper-dbg-long-tail-boundary-aware-generation)
 - [LoPrune: Efficient Data Pruning for LoRA-Based Fine-Tuning of Vision Transformer](../../conferences/cvpr-2026/cards.md#paper-loprune-trainable-subspace-alignment)
+- [Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution](../../conferences/cvpr-2026/cards.md#paper-bps-balanced-visual-pattern-coresets)
 
 <!-- conference-classification:end -->

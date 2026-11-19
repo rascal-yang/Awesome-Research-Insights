@@ -695,5 +695,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [PnP-CM: Consistency Models as Plug-and-Play Priors for Inverse Problems](../../conferences/cvpr-2026/cards.md#paper-pnp-cm-consistency-proximal-prior)
 - [QuadSync: Quadrifocal Tensor Synchronization via Tucker Decomposition](../../conferences/cvpr-2026/cards.md#paper-quadsync)
 - [A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems](../../conferences/cvpr-2026/cards.md#paper-polynomial-chaos-causal-discovery)
+- [Landscape-Awareness for Geometric View Diffusion Model](../../conferences/cvpr-2026/cards.md#paper-landscape-aware-view-diffusion)
 
 <!-- conference-classification:end -->

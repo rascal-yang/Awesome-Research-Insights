@@ -1557,5 +1557,7 @@
 - [LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks](../conferences/cvpr-2026/cards.md#paper-lifeeval-online-assistive-interaction)
 - [Visual Grounding for Object Questions](../conferences/cvpr-2026/cards.md#paper-vgoq-graded-visual-evidence)
 - [Bridging Domain Expertise and Generalization for Performance Estimation](../conferences/cvpr-2026/cards.md#paper-frap-calibrated-reference-performance-estimation)
+- [Beyond Top Activations: Efficient and Reliable Crowdsourced Evaluation of Automated Interpretability](../conferences/cvpr-2026/cards.md#paper-mgis-interpretability-crowd-evaluation)
+- [CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions](../conferences/cvpr-2026/cards.md#paper-creval-qa-editing)
 
 <!-- conference-classification:end -->

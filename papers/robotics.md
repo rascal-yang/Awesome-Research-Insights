@@ -1010,5 +1010,6 @@
 - [TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-taco-lidar)
 - [R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-r4det-relative-absolute-depth-fusion)
 - [LA-Pose: Latent Action Pretraining Meets Pose Estimation](../conferences/cvpr-2026/cards.md#paper-la-pose-inverse-dynamics-features)
+- [Predict Before You Explore: Predictive Planning with Specialized Memory for Embodied Question Answering](../conferences/cvpr-2026/cards.md#paper-pred-eqa-prediction-correction-memory)
 
 <!-- conference-classification:end -->

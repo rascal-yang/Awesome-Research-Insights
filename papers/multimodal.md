@@ -1355,5 +1355,10 @@
 - [When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness](../conferences/cvpr-2026/cards.md#paper-mac-defensive-multiview-adaptive-fusion)
 - [Modeling Cross-vision Synergy for Unified Large Vision Model](../conferences/cvpr-2026/cards.md#paper-polyv-cross-vision)
 - [VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](../conferences/cvpr-2026/cards.md#paper-videoarm-hierarchical-multimodal-memory)
+- [Adaptive Confidence Regularization for Multimodal Failure Detection](../conferences/cvpr-2026/cards.md#paper-acr-cross-modal-confidence-degradation)
+- [CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions](../conferences/cvpr-2026/cards.md#paper-creval-qa-editing)
+- [MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](../conferences/cvpr-2026/cards.md#paper-medgrpo-cross-dataset-reward)
+- [One Algorithm to Align Them All](../conferences/cvpr-2026/cards.md#paper-rectified-flow-paired-alignment)
+- [Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing](../conferences/cvpr-2026/cards.md#paper-adtrack-holistic-token-early-exit)
 
 <!-- conference-classification:end -->

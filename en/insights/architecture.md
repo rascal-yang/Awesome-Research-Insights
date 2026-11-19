@@ -693,5 +693,9 @@ Model-wide design and information flow.
 - [DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation](../../conferences/cvpr-2026/cards.md#paper-deco-pixel-diffusion)
 - [Modeling Cross-vision Synergy for Unified Large Vision Model](../../conferences/cvpr-2026/cards.md#paper-polyv-cross-vision)
 - [D2FANet: Enhancing Video Object Detection with Dual-Domain Feature Aggregation Network](../../conferences/cvpr-2026/cards.md#paper-d2fanet)
+- [NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing](../../conferences/cvpr-2026/cards.md#paper-nova-sparse-keyframe-dense-source-conditioning)
+- [Hyperbolic Busemann Neural Networks](../../conferences/cvpr-2026/cards.md#paper-busemann-networks)
+- [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](../../conferences/cvpr-2026/cards.md#paper-tapformer-asynchronous)
+- [FVAR: Next-Focus Prediction for Visual Autoregressive Modeling](../../conferences/cvpr-2026/cards.md#paper-fvar-next-focus)
 
 <!-- conference-classification:end -->

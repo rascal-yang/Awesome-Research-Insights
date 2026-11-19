@@ -1172,5 +1172,9 @@ Training schedules, curricula, and task or stage composition.
 - [Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors](../../conferences/cvpr-2026/cards.md#paper-attribution-guided-defensive-layer-selection)
 - [Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning](../../conferences/cvpr-2026/cards.md#paper-fedpurel)
 - [LA-Pose: Latent Action Pretraining Meets Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-la-pose-inverse-dynamics-features)
+- [FE2E: From Editor to Dense Geometry Estimator](../../conferences/cvpr-2026/cards.md#paper-fe2e-editor-initialization-dense-geometry)
+- [Adaptive Confidence Regularization for Multimodal Failure Detection](../../conferences/cvpr-2026/cards.md#paper-acr-cross-modal-confidence-degradation)
+- [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](../../conferences/cvpr-2026/cards.md#paper-ace-merging-covariance-from-task-updates)
+- [ChimeraLoRA: Multi-Head LoRA-Guided Synthetic Datasets](../../conferences/cvpr-2026/cards.md#paper-chimeralora)
 
 <!-- conference-classification:end -->

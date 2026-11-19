@@ -2499,5 +2499,9 @@
 - [Enhancing Out-of-Distribution Detection with Extended Logit Normalization](../conferences/cvpr-2026/cards.md#paper-elogitnorm-feature-distance-calibration)
 - [Bridging Domain Expertise and Generalization for Performance Estimation](../conferences/cvpr-2026/cards.md#paper-frap-calibrated-reference-performance-estimation)
 - [Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling](../conferences/cvpr-2026/cards.md#paper-composer-one-shot-parameter-adaptation)
+- [Beyond Top Activations: Efficient and Reliable Crowdsourced Evaluation of Automated Interpretability](../conferences/cvpr-2026/cards.md#paper-mgis-interpretability-crowd-evaluation)
+- [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](../conferences/cvpr-2026/cards.md#paper-ace-merging-covariance-from-task-updates)
+- [Hyperbolic Busemann Neural Networks](../conferences/cvpr-2026/cards.md#paper-busemann-networks)
+- [RenderFlow: Single-Step Neural Rendering via Flow Matching](../conferences/cvpr-2026/cards.md#paper-renderflow-sparse-keyframe-guidance)
 
 <!-- conference-classification:end -->

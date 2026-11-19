@@ -413,5 +413,6 @@
 - [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](../conferences/cvpr-2026/cards.md#paper-tara-merging-subspace-coverage-anisotropy)
 - [Experience Transfer for Multimodal LLM Agents in Minecraft Game](../conferences/cvpr-2026/cards.md#paper-echo-structured-analogical-experience)
 - [VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](../conferences/cvpr-2026/cards.md#paper-videoarm-hierarchical-multimodal-memory)
+- [iLRM: An Iterative Large 3D Reconstruction Model](../conferences/cvpr-2026/cards.md#paper-ilrm-iterative-compact-scene-tokens)
 
 <!-- conference-classification:end -->

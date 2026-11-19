@@ -1579,5 +1579,10 @@
 - [Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion](../conferences/cvpr-2026/cards.md#paper-editable-hard-prompt-token-decorrelation)
 - [When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness](../conferences/cvpr-2026/cards.md#paper-mac-defensive-multiview-adaptive-fusion)
 - [Radar-Guided Polynomial Fitting for Metric Depth Estimation](../conferences/cvpr-2026/cards.md#paper-polar-radar-depth)
+- [VVS: Accelerating Speculative Decoding for Visual Autoregressive Generation via Partial Verification Skipping](../conferences/cvpr-2026/cards.md#paper-vvs-visual-speculative-verification-skipping)
+- [One Algorithm to Align Them All](../conferences/cvpr-2026/cards.md#paper-rectified-flow-paired-alignment)
+- [Predict Before You Explore: Predictive Planning with Specialized Memory for Embodied Question Answering](../conferences/cvpr-2026/cards.md#paper-pred-eqa-prediction-correction-memory)
+- [RenderFlow: Single-Step Neural Rendering via Flow Matching](../conferences/cvpr-2026/cards.md#paper-renderflow-sparse-keyframe-guidance)
+- [Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing](../conferences/cvpr-2026/cards.md#paper-adtrack-holistic-token-early-exit)
 
 <!-- conference-classification:end -->

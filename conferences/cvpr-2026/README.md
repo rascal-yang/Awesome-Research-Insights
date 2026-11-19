@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,277 篇，其中 1,443 篇暂收录、834 篇排除，另有 1,765 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,307 篇，其中 1,464 篇暂收录、843 篇排除，另有 1,735 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1449,3 +1449,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,277
 | 多模态学习 | 记忆与工具调用 | [VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](cards.md#paper-videoarm-hierarchical-multimodal-memory) | 将长序列理解改为按需工具调用，对 Agent 的观察和记忆预算选择有直接参考。 |
 | 生成模型 | 参数高效适配 | [Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling](cards.md#paper-composer-one-shot-parameter-adaptation) | 在迭代生成之前一次性合成输入相关的参数更新。 |
 | 机器人学 | 自监督表征 | [LA-Pose: Latent Action Pretraining Meets Pose Estimation](cards.md#paper-la-pose-inverse-dynamics-features) | 用逆动力学的动作表征替代部分三维监督来估计位姿。 |
+| 计算机视觉 | 推理策略 | [VVS: Accelerating Speculative Decoding for Visual Autoregressive Generation via Partial Verification Skipping](cards.md#paper-vvs-visual-speculative-verification-skipping) | 视觉自回归中把目标网络校验安排和草稿计算分开优化，联验质量与实际耗时。 |
+| 机器学习基础与统计 | 评测与诊断 | [Beyond Top Activations: Efficient and Reliable Crowdsourced Evaluation of Automated Interpretability](cards.md#paper-mgis-interpretability-crowd-evaluation) | 评估单元解释不要只展示最大激活样本，改用信息驱动抽样并实测人评预算。 |
+| 计算机视觉 | 数据策略 | [Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution](cards.md#paper-bps-balanced-visual-pattern-coresets) | 少图蒸馏按类内多模式同时保留典型和边缘样本，而非只设每类配额。 |
+| 计算机视觉 | 模型架构 | [NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing](cards.md#paper-nova-sparse-keyframe-dense-source-conditioning) | 无配对视频编辑将稀疏编辑意图与稠密源视频运动及纹理条件分开。 |
+| 计算机视觉 | 训练策略 | [FE2E: From Editor to Dense Geometry Estimator](cards.md#paper-fe2e-editor-initialization-dense-geometry) | 稠密几何估计先比较图像编辑与纯生成骨干的初始化，而不只比微调配方。 |
+| 多模态学习 | 训练策略 | [Adaptive Confidence Regularization for Multimodal Failure Detection](cards.md#paper-acr-cross-modal-confidence-degradation) | 把融合置信度低于单模态分支作为故障信号，并用风险覆盖曲线验证。 |
+| 机器学习基础与统计 | 训练策略 | [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](cards.md#paper-ace-merging-covariance-from-task-updates) | 无数据合并可从微调更新估计任务统计，再以协方差归一检查跨任务干扰。 |
+| 机器学习基础与统计 | 模型架构 | [Hyperbolic Busemann Neural Networks](cards.md#paper-busemann-networks) | 层级表示中可替换为基于 Busemann 函数的分类和全连接层，并同步衡量精度与复杂度。 |
+| 计算机视觉 | 训练策略 | [ChimeraLoRA: Multi-Head LoRA-Guided Synthetic Datasets](cards.md#paper-chimeralora) | 少样本合成可把共享类先验和单样本细节分层建模，再组装生成。 |
+| 计算机视觉 | 模型架构 | [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](cards.md#paper-tapformer-asynchronous) | 异步视觉融合可让事件更新帧间状态，并按局部可靠性调节模态权重。 |
+| 多模态学习 | 评测与诊断 | [CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions](cards.md#paper-creval-qa-editing) | 复杂编辑评测将要求拆成可追溯的问答，并用人工偏好核对自动分数。 |
+| 计算机视觉 | 模型架构 | [FVAR: Next-Focus Prediction for Visual Autoregressive Modeling](cards.md#paper-fvar-next-focus) | 自回归视觉金字塔用逐步去模糊代替直接下采样，单独建模高频残差。 |
+| 计算机视觉 | 优化 | [Landscape-Awareness for Geometric View Diffusion Model](cards.md#paper-landscape-aware-view-diffusion) | 扩散模型做双视图姿态优化时显式诊断对称引起的局部极小，再调整搜索目标。 |
+| 多模态学习 | 强化学习方法 | [MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](cards.md#paper-medgrpo-cross-dataset-reward) | 异质任务联合强化训练时，先校准各数据集的奖励中位点，再分数据监测崩溃。 |
+| 多模态学习 | 推理策略 | [One Algorithm to Align Them All](cards.md#paper-rectified-flow-paired-alignment) | 同骨干生成结构配对样本时，可联合输运潜空间中的关联表示，再同时评结构与质量。 |
+| 计算机视觉 | 表征学习 | [Beyond [CLS] Token: Query-Driven Token-Level Forgery Purification for Generalizable Deepfake Detection](cards.md#paper-qtfp-local-patch-evidence-queries) | 当预训练全局表示掩盖稀疏局部线索时，用独立查询重新聚合 patch 证据。 |
+| 三维视觉 | 表征学习 | [LoST: Level of Semantics Tokenization for 3D Shapes](cards.md#paper-lost-semantic-prefix-tokenization) | 以语义而非空间细节决定 token 顺序，使短前缀也能恢复完整对象。 |
+| 机器人学 | 规划与记忆 | [Predict Before You Explore: Predictive Planning with Specialized Memory for Embodied Question Answering](cards.md#paper-pred-eqa-prediction-correction-memory) | 将长期空间先验与当前问题证据拆开，让预测落空成为明确的重规划信号。 |
+| 生成模型 | 条件生成 | [RenderFlow: Single-Step Neural Rendering via Flow Matching](cards.md#paper-renderflow-sparse-keyframe-guidance) | 用少量高质量关键帧指导确定性的一步生成，权衡精度和推理延迟。 |
+| 三维视觉 | 高效注意力 | [iLRM: An Iterative Large 3D Reconstruction Model](cards.md#paper-ilrm-iterative-compact-scene-tokens) | 将跨视角场景状态与输入分离，用分解注意力持续注入细节。 |
+| 多模态学习 | 动态推理 | [Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing](cards.md#paper-adtrack-holistic-token-early-exit) | 把退出置信度与跨模态压缩分开设计，可迁移到边缘多传感器推理。 |

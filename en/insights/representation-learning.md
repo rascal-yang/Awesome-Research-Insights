@@ -714,5 +714,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [DSO: Direct Steering Optimization for Bias Mitigation](../../conferences/cvpr-2026/cards.md#paper-dso-fairness-capability-steering)
 - [FlowComposer: Composable Flows for Compositional Zero-Shot Learning](../../conferences/cvpr-2026/cards.md#paper-flowcomposer-primitive-composition)
 - [Egocentric Visibility-Aware Human Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-evapose-visibility-conditioned-keypoints)
+- [Beyond [CLS] Token: Query-Driven Token-Level Forgery Purification for Generalizable Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-qtfp-local-patch-evidence-queries)
+- [LoST: Level of Semantics Tokenization for 3D Shapes](../../conferences/cvpr-2026/cards.md#paper-lost-semantic-prefix-tokenization)
 
 <!-- conference-classification:end -->
