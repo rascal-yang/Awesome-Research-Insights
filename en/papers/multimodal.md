@@ -847,4 +847,9 @@ Learning across modalities such as images, text, audio, and video.
 - [XMNoise2Clean: Cross-Modal Denoising Under Sparse Data](../../conferences/neurips-2026/cards-0013.md#paper-151207)
 - [Your Embedding Model Is SMARTer Than You Think](../../conferences/neurips-2026/cards-0013.md#paper-152683)
 
+## CVPR 2026 (provisional)
+
+- [SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](../../conferences/cvpr-2026/cards.md#paper-season)
+- [QUANTIPHY: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-quantiphy)
+
 <!-- conference-classification:end -->

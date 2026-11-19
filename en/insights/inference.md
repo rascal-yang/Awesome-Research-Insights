@@ -1286,4 +1286,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Why Speculative Decoding Works Better Than Predicted on Sparse MoE Models](../../conferences/neurips-2026/cards-0013.md#paper-150811)
 - [WORD: Diffusion-Based Posterior Inference for Online Goal Recognition](../../conferences/neurips-2026/cards-0013.md#paper-148579)
 
+## CVPR 2026 (provisional)
+
+- [SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](../../conferences/cvpr-2026/cards.md#paper-season)
+
 <!-- conference-classification:end -->

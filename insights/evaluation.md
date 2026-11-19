@@ -1399,4 +1399,8 @@
 - [Your Self-Supervised Projection Head Captures Object Co-Occurrence Statistics](../conferences/neurips-2026/cards-0013.md#paper-148520)
 - [Z0-Inf: Zeroth Order Approximation for Data Influence](../conferences/neurips-2026/cards-0013.md#paper-155811)
 
+## CVPR 2026（暂收录）
+
+- [QUANTIPHY: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-quantiphy)
+
 <!-- conference-classification:end -->

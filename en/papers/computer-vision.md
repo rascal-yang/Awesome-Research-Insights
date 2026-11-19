@@ -929,4 +929,8 @@ Visual representation, recognition, reconstruction, and generation.
 - [You Don’t Need Aligned Representations: Knowledge Distillation via Random Prototype Spaces](../../conferences/neurips-2026/cards-0013.md#paper-153784)
 - [Your Self-Supervised Projection Head Captures Object Co-Occurrence Statistics](../../conferences/neurips-2026/cards-0013.md#paper-148520)
 
+## CVPR 2026 (provisional)
+
+- [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](../../conferences/cvpr-2026/cards.md#paper-ecosplat)
+
 <!-- conference-classification:end -->

@@ -5,7 +5,7 @@ from pathlib import Path
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
-VENUES = ("corl-2026", "neurips-2026")
+VENUES = {"corl-2026": "CoRL 2026", "neurips-2026": "NeurIPS 2026", "cvpr-2026": "CVPR 2026"}
 START = "<!-- conference-classification:start -->"
 END = "<!-- conference-classification:end -->"
 CARD = re.compile(r"(cards(?:-\d{4})?\.md)#(paper-[\w-]+)")
@@ -98,8 +98,8 @@ def update_index(path, entries, english, index_type, neurips_provisional):
             links = [f"- {title}({prefix}conferences/{venue}/{file}#{anchor})"
                      for v, file, anchor, title in entries if v == venue]
             if links:
-                name = "CoRL 2026" if venue == "corl-2026" else "NeurIPS 2026"
-                if venue == "neurips-2026" and neurips_provisional:
+                name = VENUES[venue]
+                if venue == "cvpr-2026" or (venue == "neurips-2026" and neurips_provisional):
                     name += " (provisional)" if english else "（暂收录）"
                 lines.extend([f"## {name}", "", *links, ""])
         body += "\n" + "\n".join([*lines, END, ""])

@@ -2275,4 +2275,8 @@
 - [ZNO: Stable Rational Neural Operators in the Z-Domain for Discrete-Time Dynamics](../conferences/neurips-2026/cards-0013.md#paper-155054)
 - [ZO-F2: Low-variance Fisher preconditioner via bilinear estimation for zeroth-order optimization](../conferences/neurips-2026/cards-0013.md#paper-153380)
 
+## CVPR 2026（暂收录）
+
+- [HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-hycal)
+
 <!-- conference-classification:end -->

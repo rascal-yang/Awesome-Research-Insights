@@ -866,4 +866,8 @@
 - [Zeroth-Order Sharpness-Aware Learning with Exponential Tilting](../conferences/neurips-2026/cards-0013.md#paper-155109)
 - [ZO-F2: Low-variance Fisher preconditioner via bilinear estimation for zeroth-order optimization](../conferences/neurips-2026/cards-0013.md#paper-153380)
 
+## CVPR 2026（暂收录）
+
+- [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](../conferences/cvpr-2026/cards.md#paper-ecosplat)
+
 <!-- conference-classification:end -->

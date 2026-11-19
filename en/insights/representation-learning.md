@@ -520,4 +520,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [You CAN Teach an Old Model New Tricks: Domain Adaptation via Complementary Subspace Expansion](../../conferences/neurips-2026/cards-0013.md#paper-149203)
 - [Your Embedding Model Is SMARTer Than You Think](../../conferences/neurips-2026/cards-0013.md#paper-152683)
 
+## CVPR 2026 (provisional)
+
+- [HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-hycal)
+
 <!-- conference-classification:end -->
