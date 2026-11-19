@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 507 篇，其中 348 篇暂收录、159 篇排除，另有 3,535 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 537 篇，其中 367 篇暂收录、170 篇排除，另有 3,505 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -354,3 +354,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 507 �
 | 多模态学习 | 迁移与泛化 | [A Causal Marriage between VLM and IRM from Understanding to Reasoning](cards.md#paper-clip-irm) | 当图文模型依赖背景时，按词元分开类别语义和环境线索，对比目标显式引入不变性。 |
 | 多模态学习 | 推理优化 | [CamDirector: Towards Long-Term Coherent Video Trajectory Editing](cards.md#paper-camdirector-world-cache) | 长视频相机重拍时用世界坐标缓存静态背景、单独变换动态区域，并让后段复用历史。 |
 | 多模态学习 | 推理优化 | [Denoising, Fast and Slow: Difficulty-Aware Adaptive Sampling for Image Generation](cards.md#paper-patch-forcing) | 扩散以块为单位动态分配步数时，训练先限制跨块可见信息，避免产生推理见不到的提示。 |
+| 多模态学习 | 数据策略 | [Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization](cards.md#paper-minimal-grounding-cot-generalization) | 制作视觉推理监督时应对比最少可核验落点与完整长轨迹，同时测收敛速度和未见难度的最终上限。见 §4.2、表 1。 |
+| 计算机视觉 | 训练策略 | [Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation](cards.md#paper-uni-dad-dual-domain-distillation) | 少目标样本又要求少步采样时，应比较同时保留源教师和目标教师监督，与先迁移再蒸馏的效果。见表 1–2。 |
+| 计算机视觉 | 表征学习 | [Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs](cards.md#paper-reference-guided-causal-video-vae) | 压缩参考条件下的流视频时可绕过重复的静态外观编码，用参考图辅助因果 VAE 表示动态残差。见表 2。 |
+| 计算机视觉 | 数据策略 | [AE2VID: Event-based Video Reconstruction via Aperture Modulation](cards.md#paper-ae2vid-active-event-acquisition) | 事件视觉对静态区域信息不足时，可主动调节采集条件产生强度事件，并与仅靠场景运动的事件对照。见 §4、表 1–2。 |
+| 计算机视觉 | 推理策略 | [Anchoring and Rescaling Attention for Semantically Coherent Inbetweening](cards.md#paper-keyframe-anchored-inbetweening) | 生成式补帧跨度较大时，可分别对照关键帧条件强化和时间位置重缩放，估计语义与连贯性的取舍。见表 3。 |
+| 机器学习基础与统计 | 评测与诊断 | [Verifying Neural Network Robustness with Dual Perturbations](cards.md#paper-veridou-combined-verification) | 模型鲁棒验收应区分单一变化条件和复合变化条件的保证，单独报告求解超时。见实验部分、图 7。 |
+| 多模态学习 | 模型架构 | [Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter](cards.md#paper-vertex-random-graph-adapter) | 少样本提示存在同名多属性时，可把每类文本适配为分布并传播类间消息，再和确定性图及辅助分类器做消融。见表 3。 |
+| 多模态学习 | 模型架构 | [VGent: Visual Grounding via Modular Design for Disentangling Reasoning and Prediction](cards.md#paper-vgent) | 把视觉推理留在冻结编码器，用候选框选择替代逐词元生成坐标，分别测召回上限和选择质量。 |
+| 多模态学习 | 推理策略 | [HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models](cards.md#paper-hulluedit) | 抑制视觉幻觉时先隔离与证据正交的冲突分量，在同一次推理验收真实证据保留。 |
+| 计算机视觉 | 模型架构 | [LiveGesture: Streamable Co-Speech Gesture Generation Model](cards.md#paper-livegesture) | 实时多区域动作应同时满足局部词元因果和跨区协调，分别评估无前瞻条件下的同步性。 |
+| 计算机视觉 | 评测与诊断 | [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](cards.md#paper-activityforensics-eval) | 防御评测要检验篡改时间段的定位和域外泛化，不能只验整段真假。 |
+| 计算机视觉 | 优化算法 | [Affine Perspective-Three-Point Problem](cards.md#paper-affine-p3p) | 将便宜的近似几何闭式解作为初值，再用少次校正恢复精确相机模型。 |
+| 多模态学习 | 条件生成 | [Refacade: Editing Object with Given Reference Texture](cards.md#paper-refacade) | 参考图纹理迁移时打乱参考全局结构，用局部纹理统计防止复制参考形状。 |
+| 机器学习基础 | 训练与数据策略 | [Mitigating The Distribution Shift of Diffusion-based Dataset Distillation](cards.md#paper-diffusion-dataset-distribution-shift) | 合成少量蒸馏样本时，联合去噪整批以控制覆盖，并在训练限制模型对原分布复杂性的拟合。 |
+| 机器人学 | 表示学习 | [MoEActok: A MoE-based Action Tokenizer for Vision-Language-Action Models](cards.md#paper-moeactok) | 多个技能共用动作词元时，按动作块聚类训练专家量化器，再映回共享动作空间。 |
+| 计算机视觉 | 损失函数与优化 | [COG: Confidence-aware Optimal Geometric Correspondence for Unsupervised Single-reference Novel Object Pose Estimation](cards.md#paper-confidence-aware-optimal-correspondence) | 存在未重叠视野的位姿配准时，把点置信度作为最优传输边际，而非一一硬匹配。 |
+| 多模态学习 | 表示学习 | [Generative Video Compression with One-Dimensional Latent Representation](cards.md#paper-gvc1d) | 高压缩率下用不绑定二维位置的词元和长程记忆，减少局部及跨帧冗余。 |
+| 计算机视觉 | 强化学习 | [ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation](cards.md#paper-expose-pose-consistency) | 用生成中间帧辅助稀疏位姿估计时，用下游几何一致性奖励优化插值模型。 |
+| 多模态学习 | 微调与适配 | [Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](cards.md#paper-flatness-aware-prompt-pretraining) | 测试时提示词调优前，选平坦度更高的无数据初始化以改善置信校准。 |

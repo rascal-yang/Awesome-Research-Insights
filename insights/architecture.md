@@ -595,5 +595,8 @@
 - [ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-rehyat-chunk-recurrent-hybrid-attention)
 - [Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation](../conferences/cvpr-2026/cards.md#paper-poco-reference-positioning)
 - [Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark](../conferences/cvpr-2026/cards.md#paper-scaleformer)
+- [Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter](../conferences/cvpr-2026/cards.md#paper-vertex-random-graph-adapter)
+- [VGent: Visual Grounding via Modular Design for Disentangling Reasoning and Prediction](../conferences/cvpr-2026/cards.md#paper-vgent)
+- [LiveGesture: Streamable Co-Speech Gesture Generation Model](../conferences/cvpr-2026/cards.md#paper-livegesture)
 
 <!-- conference-classification:end -->

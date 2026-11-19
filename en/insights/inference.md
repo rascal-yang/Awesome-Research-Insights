@@ -1355,5 +1355,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [It's Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-diffusion-noise-diversity-recovery)
 - [CamDirector: Towards Long-Term Coherent Video Trajectory Editing](../../conferences/cvpr-2026/cards.md#paper-camdirector-world-cache)
 - [Denoising, Fast and Slow: Difficulty-Aware Adaptive Sampling for Image Generation](../../conferences/cvpr-2026/cards.md#paper-patch-forcing)
+- [Anchoring and Rescaling Attention for Semantically Coherent Inbetweening](../../conferences/cvpr-2026/cards.md#paper-keyframe-anchored-inbetweening)
+- [HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-hulluedit)
+- [Refacade: Editing Object with Given Reference Texture](../../conferences/cvpr-2026/cards.md#paper-refacade)
 
 <!-- conference-classification:end -->

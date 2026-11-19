@@ -374,5 +374,8 @@
 - [Portable Active Learning for Object Detection](../conferences/cvpr-2026/cards.md#paper-portable-active-learning-detection)
 - [Concept-Aware Batch Sampling Improves Language-Image Pretraining](../conferences/cvpr-2026/cards.md#paper-concept-aware-batch-sampling)
 - [StaR-KVQA: Structured Reasoning Traces for Implicit-Knowledge Visual Question Answering](../conferences/cvpr-2026/cards.md#paper-star-kvqa)
+- [Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization](../conferences/cvpr-2026/cards.md#paper-minimal-grounding-cot-generalization)
+- [AE2VID: Event-based Video Reconstruction via Aperture Modulation](../conferences/cvpr-2026/cards.md#paper-ae2vid-active-event-acquisition)
+- [Mitigating The Distribution Shift of Diffusion-based Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-diffusion-dataset-distribution-shift)
 
 <!-- conference-classification:end -->

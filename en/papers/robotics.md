@@ -877,5 +877,6 @@ Robot perception, policy learning, planning, and control.
 - [Probing and Bridging Geometry-Interaction Cues for Affordance Reasoning in Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-affordance-geometry-interaction-probing)
 - [Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation](../../conferences/cvpr-2026/cards.md#paper-vita-shared-action-vision-latents)
 - [CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-coin3d)
+- [MoEActok: A MoE-based Action Tokenizer for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-moeactok)
 
 <!-- conference-classification:end -->

@@ -682,5 +682,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Globally Optimal Pose from Orthographic Silhouettes](../../conferences/cvpr-2026/cards.md#paper-orthographic-silhouette-pose-search)
 - [Task-Driven Implicit Representations for Automated Design of LiDAR Systems](../../conferences/cvpr-2026/cards.md#paper-implicit-lidar-design)
 - [The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-eagc-gcd)
+- [Affine Perspective-Three-Point Problem](../../conferences/cvpr-2026/cards.md#paper-affine-p3p)
 
 <!-- conference-classification:end -->

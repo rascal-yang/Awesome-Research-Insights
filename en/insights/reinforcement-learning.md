@@ -746,5 +746,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](../../conferences/cvpr-2026/cards.md#paper-g2rpo-stepwise-preference)
 - [CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning](../../conferences/cvpr-2026/cards.md#paper-cccaption-symmetric-visual-rewards)
 - [Seeing What Matters: Visual Preference Policy Optimization for Visual Generation](../../conferences/cvpr-2026/cards.md#paper-vipo-visual-advantages)
+- [ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-expose-pose-consistency)
 
 <!-- conference-classification:end -->

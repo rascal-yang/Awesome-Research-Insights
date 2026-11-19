@@ -1083,5 +1083,14 @@
 - [Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation](../conferences/cvpr-2026/cards.md#paper-poco-reference-positioning)
 - [PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion](../conferences/cvpr-2026/cards.md#paper-pixelrush)
 - [Cross-Scale Pansharpening via ScaleFormer and the PanScale Benchmark](../conferences/cvpr-2026/cards.md#paper-scaleformer)
+- [Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation](../conferences/cvpr-2026/cards.md#paper-uni-dad-dual-domain-distillation)
+- [Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs](../conferences/cvpr-2026/cards.md#paper-reference-guided-causal-video-vae)
+- [AE2VID: Event-based Video Reconstruction via Aperture Modulation](../conferences/cvpr-2026/cards.md#paper-ae2vid-active-event-acquisition)
+- [Anchoring and Rescaling Attention for Semantically Coherent Inbetweening](../conferences/cvpr-2026/cards.md#paper-keyframe-anchored-inbetweening)
+- [LiveGesture: Streamable Co-Speech Gesture Generation Model](../conferences/cvpr-2026/cards.md#paper-livegesture)
+- [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](../conferences/cvpr-2026/cards.md#paper-activityforensics-eval)
+- [Affine Perspective-Three-Point Problem](../conferences/cvpr-2026/cards.md#paper-affine-p3p)
+- [COG: Confidence-aware Optimal Geometric Correspondence for Unsupervised Single-reference Novel Object Pose Estimation](../conferences/cvpr-2026/cards.md#paper-confidence-aware-optimal-correspondence)
+- [ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation](../conferences/cvpr-2026/cards.md#paper-expose-pose-consistency)
 
 <!-- conference-classification:end -->

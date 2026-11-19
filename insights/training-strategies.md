@@ -957,5 +957,7 @@
 - [Mitigating Error Amplification in Fast Adversarial Training](../conferences/cvpr-2026/cards.md#paper-ddg-fast-robust-training)
 - [MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-msrl-multimodal-reward)
 - [A Causal Marriage between VLM and IRM from Understanding to Reasoning](../conferences/cvpr-2026/cards.md#paper-clip-irm)
+- [Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation](../conferences/cvpr-2026/cards.md#paper-uni-dad-dual-domain-distillation)
+- [Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](../conferences/cvpr-2026/cards.md#paper-flatness-aware-prompt-pretraining)
 
 <!-- conference-classification:end -->

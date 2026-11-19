@@ -2312,5 +2312,7 @@ General learning methods, optimization, learning theory, and inference.
 - [PAF: Perturbation-Aware Filtering for Open-Set Semi-Supervised Learning](../../conferences/cvpr-2026/cards.md#paper-perturbation-aware-filtering)
 - [Global Information Thresholding for Sufficient and Necessary Circuits](../../conferences/cvpr-2026/cards.md#paper-global-information-thresholding)
 - [Negative Binomial Variational Autoencoders for Overdispersed Latent Modeling](../../conferences/cvpr-2026/cards.md#paper-negative-binomial-count-latents)
+- [Verifying Neural Network Robustness with Dual Perturbations](../../conferences/cvpr-2026/cards.md#paper-veridou-combined-verification)
+- [Mitigating The Distribution Shift of Diffusion-based Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-diffusion-dataset-distribution-shift)
 
 <!-- conference-classification:end -->

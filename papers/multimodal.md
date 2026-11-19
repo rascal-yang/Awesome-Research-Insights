@@ -966,5 +966,12 @@
 - [A Causal Marriage between VLM and IRM from Understanding to Reasoning](../conferences/cvpr-2026/cards.md#paper-clip-irm)
 - [CamDirector: Towards Long-Term Coherent Video Trajectory Editing](../conferences/cvpr-2026/cards.md#paper-camdirector-world-cache)
 - [Denoising, Fast and Slow: Difficulty-Aware Adaptive Sampling for Image Generation](../conferences/cvpr-2026/cards.md#paper-patch-forcing)
+- [Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization](../conferences/cvpr-2026/cards.md#paper-minimal-grounding-cot-generalization)
+- [Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter](../conferences/cvpr-2026/cards.md#paper-vertex-random-graph-adapter)
+- [VGent: Visual Grounding via Modular Design for Disentangling Reasoning and Prediction](../conferences/cvpr-2026/cards.md#paper-vgent)
+- [HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-hulluedit)
+- [Refacade: Editing Object with Given Reference Texture](../conferences/cvpr-2026/cards.md#paper-refacade)
+- [Generative Video Compression with One-Dimensional Latent Representation](../conferences/cvpr-2026/cards.md#paper-gvc1d)
+- [Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](../conferences/cvpr-2026/cards.md#paper-flatness-aware-prompt-pretraining)
 
 <!-- conference-classification:end -->

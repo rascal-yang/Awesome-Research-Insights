@@ -1436,5 +1436,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [I'm a Map! Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-imap-motion-token-diagnostics)
 - [Global Information Thresholding for Sufficient and Necessary Circuits](../../conferences/cvpr-2026/cards.md#paper-global-information-thresholding)
 - [Benchmarking PhD-Level Coding in 3D Geometric Computer Vision](../../conferences/cvpr-2026/cards.md#paper-geocodebench)
+- [Verifying Neural Network Robustness with Dual Perturbations](../../conferences/cvpr-2026/cards.md#paper-veridou-combined-verification)
+- [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](../../conferences/cvpr-2026/cards.md#paper-activityforensics-eval)
 
 <!-- conference-classification:end -->
