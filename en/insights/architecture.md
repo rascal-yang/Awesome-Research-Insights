@@ -673,5 +673,7 @@ Model-wide design and information flow.
 - [ORV: 4D Occupancy-centric Robot Video Generation](../../conferences/cvpr-2026/cards.md#paper-orv-occupancy-visual-action-conditioning)
 - [Curvature-Aware Captioning: Leveraging Geodesic Attention for 3D Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-curvature-aware-captioning)
 - [MER-Tracker: Towards High-Speed 3D Point Tracking via Multi-View Event-RGB Hybrid Cameras](../../conferences/cvpr-2026/cards.md#paper-mer-tracker)
+- [Unifying Language-Action Understanding and Generation for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-linkvla-shared-action-language-codebook)
+- [PackUV: Packed Gaussian UV Maps for 4D Volumetric Video](../../conferences/cvpr-2026/cards.md#paper-packuv)
 
 <!-- conference-classification:end -->

@@ -1149,5 +1149,9 @@ Training schedules, curricula, and task or stage composition.
 - [GaussianMatch: Semi-Supervised Regression with Pseudo-Label Filtering via Multi-View Gaussian Consistency](../../conferences/cvpr-2026/cards.md#paper-gaussianmatch-multiview-regression-filter)
 - [Personalized Image Descriptions from Attention Sequences](../../conferences/cvpr-2026/cards.md#paper-deper)
 - [Towards Dynamic Modality Alignment in Multimodal Continual Learning](../../conferences/cvpr-2026/cards.md#paper-dagr-layerwise-modality-alignment)
+- [Towards High-resolution and Disentangled Reference-based Sketch Colorization](../../conferences/cvpr-2026/cards.md#paper-sketch-colorization-dual-branch-gram)
+- [ExpoCM: Exposure-Aware One-Step Generative Single-Image HDR Reconstruction](../../conferences/cvpr-2026/cards.md#paper-expocm-degradation-aware-consistency)
+- [DNF-SR: Dual-Input and Negative-Aware Feature Fine-Tuning for Real-World Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-dnfsr-clean-noisy-dual-conditioning)
+- [Recovering Physically Plausible Human-Object Interactions from Monocular Videos](../../conferences/cvpr-2026/cards.md#paper-adaptive-hoi-refinement)
 
 <!-- conference-classification:end -->

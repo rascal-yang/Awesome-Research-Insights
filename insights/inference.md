@@ -1562,5 +1562,10 @@
 - [MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing](../conferences/cvpr-2026/cards.md#paper-morphany3d)
 - [HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT](../conferences/cvpr-2026/cards.md#paper-hess-headwise-sparsity-budget)
 - [Test-Time Perturbation Tuning with Delayed Feedback for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-pdf-delayed-feedback-perturbation)
+- [ProFocus: Proactive Perception and Focused Reasoning in Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-profocus-missing-evidence-query)
+- [Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models](../conferences/cvpr-2026/cards.md#paper-l2p-diffusion)
+- [LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](../conferences/cvpr-2026/cards.md#paper-lasm-gui-defense)
+- [AGiLe: Learning Robust Long-Horizon Manipulation via Affordance-Grounded Bidirectional Latent Planning](../conferences/cvpr-2026/cards.md#paper-agile-bidirectional-planning)
+- [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](../conferences/cvpr-2026/cards.md#paper-streamingtom-prefill-and-cache-bounds)
 
 <!-- conference-classification:end -->

@@ -706,5 +706,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Decoupling Vision and Language: Codebook Anchored Visual Adaptation](../../conferences/cvpr-2026/cards.md#paper-craft-codebook-stable-vision-interface)
 - [MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-medclipseg-probabilistic-cross-modal-adapter)
 - [Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild](../../conferences/cvpr-2026/cards.md#paper-jala-joint-latent-action-alignment)
+- [Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation](../../conferences/cvpr-2026/cards.md#paper-hoi-contact-structure-supervision)
+- [LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference](../../conferences/cvpr-2026/cards.md#paper-lamogen-symbolic-motion-interface)
+- [See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding](../../conferences/cvpr-2026/cards.md#paper-swim-training-only-mask-grounding)
+- [Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](../../conferences/cvpr-2026/cards.md#paper-drp-local-motion-recomposition)
 
 <!-- conference-classification:end -->

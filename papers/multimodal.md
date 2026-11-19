@@ -1322,5 +1322,12 @@
 - [Beyond Global Similarity: Multi-Conditional Retrieval for Fine-Grained Cross-Modal Understanding](../conferences/cvpr-2026/cards.md#paper-mcmr-conditional-retrieval)
 - [Experience Transfer for Multimodal LLM Agents in Minecraft Game](../conferences/cvpr-2026/cards.md#paper-echo-structured-analogical-experience)
 - [Towards Dynamic Modality Alignment in Multimodal Continual Learning](../conferences/cvpr-2026/cards.md#paper-dagr-layerwise-modality-alignment)
+- [LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference](../conferences/cvpr-2026/cards.md#paper-lamogen-symbolic-motion-interface)
+- [Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos](../conferences/cvpr-2026/cards.md#paper-ego2web)
+- [LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](../conferences/cvpr-2026/cards.md#paper-lasm-gui-defense)
+- [Unlocking Strong Supervision: A Data-Centric Study of General-Purpose Audio Pre-Training Methods](../conferences/cvpr-2026/cards.md#paper-audio-strong-supervision-objective-tradeoffs)
+- [See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding](../conferences/cvpr-2026/cards.md#paper-swim-training-only-mask-grounding)
+- [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](../conferences/cvpr-2026/cards.md#paper-streamingtom-prefill-and-cache-bounds)
+- [VirtueBench: Evaluating Trustworthiness under Uncertainty in Long Video Understanding](../conferences/cvpr-2026/cards.md#paper-virtuebench-evidence-conditioned-abstention)
 
 <!-- conference-classification:end -->

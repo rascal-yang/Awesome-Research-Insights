@@ -1549,5 +1549,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CrossHOI-Bench: A Unified Benchmark for HOI Evaluation across Vision-Language Models and HOI-Specific Methods](../../conferences/cvpr-2026/cards.md#paper-crosshoi-explicit-negative-evaluation)
 - [Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation](../../conferences/cvpr-2026/cards.md#paper-long-rvos-reappearance-evaluation)
 - [Beyond Global Similarity: Multi-Conditional Retrieval for Fine-Grained Cross-Modal Understanding](../../conferences/cvpr-2026/cards.md#paper-mcmr-conditional-retrieval)
+- [Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos](../../conferences/cvpr-2026/cards.md#paper-ego2web)
+- [VirtueBench: Evaluating Trustworthiness under Uncertainty in Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-virtuebench-evidence-conditioned-abstention)
 
 <!-- conference-classification:end -->

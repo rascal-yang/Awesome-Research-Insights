@@ -426,5 +426,6 @@
 - [FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model](../conferences/cvpr-2026/cards.md#paper-foundir-v2-data-equilibrium)
 - [MatchMask: Mask-Centric Generative Data Augmentation for Label-Scarce Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-matchmask-gradient-probe)
 - [CLIP-like Model as a Foundational Density Ratio Estimator](../conferences/cvpr-2026/cards.md#paper-clip-foundational-density-ratio)
+- [Unlocking Strong Supervision: A Data-Centric Study of General-Purpose Audio Pre-Training Methods](../conferences/cvpr-2026/cards.md#paper-audio-strong-supervision-objective-tradeoffs)
 
 <!-- conference-classification:end -->

@@ -462,5 +462,6 @@ Objectives, auxiliary supervision, and regularization.
 - [TaskForce: Cooperative Multi-agent Reinforcement Learning for Multi-task Optimization](../../conferences/cvpr-2026/cards.md#paper-taskforce-gradient-gram-policy)
 - [RiskProp: Collision-Anchored Self-Supervised Risk Propagation For Early Accident Anticipation](../../conferences/cvpr-2026/cards.md#paper-riskprop)
 - [THE MORE, THE MERRIER: CONTRASTIVE FUSION FOR HIGHER-ORDER MULTIMODAL ALIGNMENT](../../conferences/cvpr-2026/cards.md#paper-confu-higher-order)
+- [Diversity over Uniformity: Rethinking Representation in Generated Image Detection](../../conferences/cvpr-2026/cards.md#paper-diverse-forgery-representation)
 
 <!-- conference-classification:end -->

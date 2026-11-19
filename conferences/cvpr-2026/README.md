@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,127 篇，其中 1,342 篇暂收录、785 篇排除，另有 1,915 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,157 篇，其中 1,363 篇暂收录、794 篇排除，另有 1,885 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1348,3 +1348,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,127
 | 多模态学习 | 持续学习 | [Towards Dynamic Modality Alignment in Multimodal Continual Learning](cards.md#paper-dagr-layerwise-modality-alignment) | 将模态配对看作随深度及任务改变的关系图，并对关系演化施加正则。 |
 | 机器人学 | 测试时适配 | [Test-Time Perturbation Tuning with Delayed Feedback for Vision-Language-Action Models](cards.md#paper-pdf-delayed-feedback-perturbation) | 用迟到的反馈回顾动作分数，并按当前不确定度调节测试时额外计算。 |
 | 机器人学 | 主动感知 | [AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance](cards.md#paper-area3d-decoupled-view-uncertainty) | 用独立模块估计视点不确定性，再组合前馈几何和视觉语言语义引导。 |
+| 计算机视觉 | 训练策略 | [Towards High-resolution and Disentangled Reference-based Sketch Colorization](cards.md#paper-sketch-colorization-dual-branch-gram) | 参考图与目标结构不一致时，将匹配和不匹配样本分支建模，再约束两路特征统计。 |
+| 计算机视觉 | 训练策略 | [ExpoCM: Exposure-Aware One-Step Generative Single-Image HDR Reconstruction](cards.md#paper-expocm-degradation-aware-consistency) | 单步逆问题可按空间退化强度设计一致性训练轨迹，分别检验不同退化区间的恢复。 |
+| 机器人学 | 表征学习 | [Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation](cards.md#paper-hoi-contact-structure-supervision) | 交互视频生成可把接触、遮挡和整体结构作为辅助监督，并和其他交互表示做隔离对照。 |
+| 多模态学习 | 表征学习 | [LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference](cards.md#paper-lamogen-symbolic-motion-interface) | 细粒度文字到动作可先生成可检查的身体部位符号，再由专门模型解码为轨迹。 |
+| 计算机视觉 | 训练策略 | [DNF-SR: Dual-Input and Negative-Aware Feature Fine-Tuning for Real-World Image Super-Resolution](cards.md#paper-dnfsr-clean-noisy-dual-conditioning) | 低质量条件需匹配生成器输入分布时，保留原条件并加入带噪副本以区分先验适配与内容丢失。 |
+| 机器人学 | 模型架构 | [Unifying Language-Action Understanding and Generation for Autonomous Driving](cards.md#paper-linkvla-shared-action-language-codebook) | 用共享离散接口联合动作与语言，另以理解生成双任务检验控制语义对齐。 |
+| 机器人学 | 推理策略 | [ProFocus: Proactive Perception and Focused Reasoning in Vision-and-Language Navigation](cards.md#paper-profocus-missing-evidence-query) | 导航代理先列出当前决策缺失的视觉证据，再请求对应局部观察，以分离感知开销与推理表现。 |
+| 计算机视觉 | 模型架构 | [PackUV: Packed Gaussian UV Maps for 4D Volumetric Video](cards.md#paper-packuv) | 把动态三维基元打包成保结构的二维图集，用现成视频编解码链分开测成本和画质。 |
+| 机器人学 | 训练策略 | [Recovering Physically Plausible Human-Object Interactions from Monocular Videos](cards.md#paper-adaptive-hoi-refinement) | 将运动估计用于物理策略时，按帧信息量和可靠性动态选监督。 |
+| 多模态学习 | 评测与诊断 | [Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos](cards.md#paper-ego2web) | 把第一视角所见物体与后续网页任务绑定，再分别衡量任务成功与自动评分一致性。 |
+| 机器学习基础与统计 | 推理策略 | [Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models](cards.md#paper-l2p-diffusion) | 缓存加速时先实测历史特征可预测性，再对照固定公式和少量轨迹拟合。 |
+| 计算机视觉 | 损失函数 | [Diversity over Uniformity: Rethinking Representation in Generated Image Detection](cards.md#paper-diverse-forgery-representation) | 检测器应分开检验冗余线索抑制和任务无关成分约束，并用未见生成器验泛化。 |
+| 多模态学习 | 推理策略 | [LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](cards.md#paper-lasm-gui-defense) | 评估 GUI 助手的防御时，核对逐层任务证据关注，并同步监测正常任务效用。 |
+| 机器人学 | 推理策略 | [AGiLe: Learning Robust Long-Horizon Manipulation via Affordance-Grounded Bidirectional Latent Planning](cards.md#paper-agile-bidirectional-planning) | 长时操作中从最终目标倒推子目标，再由前向可达性评估拒绝难以执行的计划。 |
+| 多模态学习 | 训练数据 | [Unlocking Strong Supervision: A Data-Centric Study of General-Purpose Audio Pre-Training Methods](cards.md#paper-audio-strong-supervision-objective-tradeoffs) | 先比较音频标注覆盖与质量，再按下游偏重的能力选择预训练目标。 |
+| 计算机视觉 | 深度估计 | [UniDAC: Universal Metric Depth Estimation for Any Camera](cards.md#paper-unidac-local-metric-scale) | 把相对深度与空间变化的度量尺度分开预测，以应对不同相机投影。 |
+| 计算机视觉 | 内容溯源 | [MaxMark: High-Capacity Diffusion-Native Watermarking via Robust and Invertible Latent Embedding](cards.md#paper-maxmark-latent-distribution-preservation) | 用可逆分布变换在提高水印容量时约束生成潜变量的分布变化。 |
+| 多模态学习 | 表征学习 | [See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding](cards.md#paper-swim-training-only-mask-grounding) | 只在训练期用掩码对齐对象名词的注意力，推理仍可只输入自然语言。 |
+| 多模态学习 | 推理优化 | [StreamingTOM: Streaming Token Compression for Efficient Video Understanding](cards.md#paper-streamingtom-prefill-and-cache-bounds) | 同步限制因果流式输入的每帧预算和可访问历史缓存。 |
+| 机器人学 | 表征学习 | [Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](cards.md#paper-drp-local-motion-recomposition) | 从视频抽取局部运动再重组为可适配下游动作空间的动态表征。 |
+| 多模态学习 | 评测设计 | [VirtueBench: Evaluating Trustworthiness under Uncertainty in Long Video Understanding](cards.md#paper-virtuebench-evidence-conditioned-abstention) | 评估时根据模型实际收到的帧区分可答和不可答，单独衡量拒答。 |

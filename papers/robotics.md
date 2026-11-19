@@ -993,5 +993,11 @@
 - [InterAgent: Physics-based Multi-agent Command Execution via Diffusion on Interaction Graphs](../conferences/cvpr-2026/cards.md#paper-interagent-multistream-interaction-context)
 - [Test-Time Perturbation Tuning with Delayed Feedback for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-pdf-delayed-feedback-perturbation)
 - [AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance](../conferences/cvpr-2026/cards.md#paper-area3d-decoupled-view-uncertainty)
+- [Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation](../conferences/cvpr-2026/cards.md#paper-hoi-contact-structure-supervision)
+- [Unifying Language-Action Understanding and Generation for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-linkvla-shared-action-language-codebook)
+- [ProFocus: Proactive Perception and Focused Reasoning in Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-profocus-missing-evidence-query)
+- [Recovering Physically Plausible Human-Object Interactions from Monocular Videos](../conferences/cvpr-2026/cards.md#paper-adaptive-hoi-refinement)
+- [AGiLe: Learning Robust Long-Horizon Manipulation via Affordance-Grounded Bidirectional Latent Planning](../conferences/cvpr-2026/cards.md#paper-agile-bidirectional-planning)
+- [Local Motion Matters: A Deconstruct-Recompose Paradigm for Reinforcement Learning Pre-training from Videos](../conferences/cvpr-2026/cards.md#paper-drp-local-motion-recomposition)
 
 <!-- conference-classification:end -->

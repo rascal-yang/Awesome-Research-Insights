@@ -1398,5 +1398,12 @@
 - [MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing](../conferences/cvpr-2026/cards.md#paper-morphany3d)
 - [SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings](../conferences/cvpr-2026/cards.md#paper-sce-slam-coordinate-scale-anchor)
 - [HeSS: Head Sensitivity Score for Sparsity Redistribution in VGGT](../conferences/cvpr-2026/cards.md#paper-hess-headwise-sparsity-budget)
+- [Towards High-resolution and Disentangled Reference-based Sketch Colorization](../conferences/cvpr-2026/cards.md#paper-sketch-colorization-dual-branch-gram)
+- [ExpoCM: Exposure-Aware One-Step Generative Single-Image HDR Reconstruction](../conferences/cvpr-2026/cards.md#paper-expocm-degradation-aware-consistency)
+- [DNF-SR: Dual-Input and Negative-Aware Feature Fine-Tuning for Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-dnfsr-clean-noisy-dual-conditioning)
+- [PackUV: Packed Gaussian UV Maps for 4D Volumetric Video](../conferences/cvpr-2026/cards.md#paper-packuv)
+- [Diversity over Uniformity: Rethinking Representation in Generated Image Detection](../conferences/cvpr-2026/cards.md#paper-diverse-forgery-representation)
+- [UniDAC: Universal Metric Depth Estimation for Any Camera](../conferences/cvpr-2026/cards.md#paper-unidac-local-metric-scale)
+- [MaxMark: High-Capacity Diffusion-Native Watermarking via Robust and Invertible Latent Embedding](../conferences/cvpr-2026/cards.md#paper-maxmark-latent-distribution-preservation)
 
 <!-- conference-classification:end -->
