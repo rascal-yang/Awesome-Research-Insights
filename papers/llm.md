@@ -2461,5 +2461,7 @@
 - [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](../conferences/cvpr-2026/cards.md#paper-reag-critic-filtered-multimodal-retrieval)
 - [Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs](../conferences/cvpr-2026/cards.md#paper-graph2eval-grounded-task-subgraphs)
 - [SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-sage-any-horizon)
+- [MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction](../conferences/cvpr-2026/cards.md#paper-mmrecoder-execution-feedback-self-correction)
+- [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](../conferences/cvpr-2026/cards.md#paper-hats-semantic-ambiguity-trajectory-synthesis)
 
 <!-- conference-classification:end -->

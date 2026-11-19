@@ -448,5 +448,9 @@ Data selection, annotation, augmentation, and sampling.
 - [Label What Matters: Modality-Balanced and Difficulty-Aware Multimodal Active Learning](../../conferences/cvpr-2026/cards.md#paper-modality-and-difficulty-adaptive-active-labeling)
 - [Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](../../conferences/cvpr-2026/cards.md#paper-diq-difficulty-gradient-data-selection)
 - [Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection](../../conferences/cvpr-2026/cards.md#paper-hilo-prune-absorb-before-removal)
+- [CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning](../../conferences/cvpr-2026/cards.md#paper-graph-constructed-complementary-modal-reasoning)
+- [Rethinking Knowledge Transfer in Image Quality Assessment: A Perceptual Preference Structure Alignment Perspective](../../conferences/cvpr-2026/cards.md#paper-preference-structure-dataset-transfer-selection)
+- [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](../../conferences/cvpr-2026/cards.md#paper-hats-semantic-ambiguity-trajectory-synthesis)
+- [Rethinking Dataset Distillation: Hard Truths about Soft Labels](../../conferences/cvpr-2026/cards.md#paper-dataset-distillation-soft-label-confound)
 
 <!-- conference-classification:end -->

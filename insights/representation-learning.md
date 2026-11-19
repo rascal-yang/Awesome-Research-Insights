@@ -756,5 +756,6 @@
 - [SIR: Structured Image Representations for Explainable Robot Learning](../conferences/cvpr-2026/cards.md#paper-learned-sparse-object-graphs-for-policy)
 - [ChronoGS: Disentangling Invariants and Changes in Multi-Period Scenes](../conferences/cvpr-2026/cards.md#paper-stable-anchor-time-discontinuous-scene)
 - [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](../conferences/cvpr-2026/cards.md#paper-sparse-irregular-temporal-view-invariance)
+- [VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](../conferences/cvpr-2026/cards.md#paper-appearance-separated-latent-video-policies)
 
 <!-- conference-classification:end -->

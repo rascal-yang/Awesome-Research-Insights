@@ -1277,5 +1277,8 @@
 - [Incentivizing Versatile Video Reasoning in MLLMs via Data-Efficient Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-multitask-visual-reasoning-rl)
 - [Multimodal Continual Instruction Tuning with Dynamic Gradient Guidance](../conferences/cvpr-2026/cards.md#paper-dynamic-gradient-guidance-continual-tuning)
 - [Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners](../conferences/cvpr-2026/cards.md#paper-lila-linear-in-context-dense-video-features)
+- [MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture](../conferences/cvpr-2026/cards.md#paper-slowed-interpolation-diffusion-exposure)
+- [Through the Frequency Lens: Cross-Domain Generalisable Gaze Estimation with Adaptive Modulation](../conferences/cvpr-2026/cards.md#paper-fgal-domain-frequency)
+- [LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models](../conferences/cvpr-2026/cards.md#paper-lift-place-coarse-to-fine-distillation)
 
 <!-- conference-classification:end -->

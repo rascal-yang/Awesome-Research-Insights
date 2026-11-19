@@ -1571,5 +1571,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors](../../conferences/cvpr-2026/cards.md#paper-orbital-video-dual-3d-priors)
 - [Enabling Supervised Learning of Generative Signatures for Generalized AI-Generated Images Detection](../../conferences/cvpr-2026/cards.md#paper-gensign-surrogate-supervision)
 - [Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners](../../conferences/cvpr-2026/cards.md#paper-lila-linear-in-context-dense-video-features)
+- [Rethinking Knowledge Transfer in Image Quality Assessment: A Perceptual Preference Structure Alignment Perspective](../../conferences/cvpr-2026/cards.md#paper-preference-structure-dataset-transfer-selection)
+- [MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture](../../conferences/cvpr-2026/cards.md#paper-slowed-interpolation-diffusion-exposure)
+- [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](../../conferences/cvpr-2026/cards.md#paper-amb3r-volumetric-backend)
+- [Through the Frequency Lens: Cross-Domain Generalisable Gaze Estimation with Adaptive Modulation](../../conferences/cvpr-2026/cards.md#paper-fgal-domain-frequency)
 
 <!-- conference-classification:end -->

@@ -766,5 +766,8 @@
 - [Bi-directional Autoregressive Diffusion for Large Complex Motion Interpolation](../conferences/cvpr-2026/cards.md#paper-bidirectional-feature-first-motion-interpolation)
 - [Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors](../conferences/cvpr-2026/cards.md#paper-orbital-video-dual-3d-priors)
 - [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-lcdrive-latent-action-reasoning)
+- [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](../conferences/cvpr-2026/cards.md#paper-amb3r-volumetric-backend)
+- [PatchScene: Patch-based Voxel Diffusion Model for Large-Scale Scene Completion](../conferences/cvpr-2026/cards.md#paper-patchscene-overlap-fusion)
+- [Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment](../conferences/cvpr-2026/cards.md#paper-high-value-zone-registration)
 
 <!-- conference-classification:end -->

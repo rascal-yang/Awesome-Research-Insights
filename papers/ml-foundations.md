@@ -2565,5 +2565,9 @@
 - [Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](../conferences/cvpr-2026/cards.md#paper-diq-difficulty-gradient-data-selection)
 - [SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-segquant-graph-based-quantization)
 - [Efficient All-Pairs Correlation Volume Sampling for Optical Flow Estimation](../conferences/cvpr-2026/cards.md#paper-raft-exact-efficient-correlation-sampling)
+- [RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models](../conferences/cvpr-2026/cards.md#paper-state-space-activation-map-diagnostics)
+- [Rethinking Dataset Distillation: Hard Truths about Soft Labels](../conferences/cvpr-2026/cards.md#paper-dataset-distillation-soft-label-confound)
+- [LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models](../conferences/cvpr-2026/cards.md#paper-lift-place-coarse-to-fine-distillation)
+- [EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](../conferences/cvpr-2026/cards.md#paper-editctrl-mask-local-global-context)
 
 <!-- conference-classification:end -->

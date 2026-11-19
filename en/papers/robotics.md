@@ -1100,5 +1100,8 @@ Robot perception, policy learning, planning, and control.
 - [ArtPro: Self-Supervised Articulated Object Reconstruction with Adaptive Integration of Mobility Proposals](../../conferences/cvpr-2026/cards.md#paper-artpro-mobility-proposals)
 - [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-lcdrive-latent-action-reasoning)
 - [RoboTAG: End-to-end Robot Pose Estimation via Topological Alignment Graph](../../conferences/cvpr-2026/cards.md#paper-robotag-loop-alignment)
+- [VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](../../conferences/cvpr-2026/cards.md#paper-appearance-separated-latent-video-policies)
+- [PatchScene: Patch-based Voxel Diffusion Model for Large-Scale Scene Completion](../../conferences/cvpr-2026/cards.md#paper-patchscene-overlap-fusion)
+- [Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment](../../conferences/cvpr-2026/cards.md#paper-high-value-zone-registration)
 
 <!-- conference-classification:end -->

@@ -1504,5 +1504,10 @@
 - [Incentivizing Versatile Video Reasoning in MLLMs via Data-Efficient Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-multitask-visual-reasoning-rl)
 - [Multimodal Continual Instruction Tuning with Dynamic Gradient Guidance](../conferences/cvpr-2026/cards.md#paper-dynamic-gradient-guidance-continual-tuning)
 - [Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection](../conferences/cvpr-2026/cards.md#paper-hilo-prune-absorb-before-removal)
+- [ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](../conferences/cvpr-2026/cards.md#paper-verifier-guided-parallel-video-speculation)
+- [CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning](../conferences/cvpr-2026/cards.md#paper-graph-constructed-complementary-modal-reasoning)
+- [TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-ttp-detect-then-adapt)
+- [MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](../conferences/cvpr-2026/cards.md#paper-mllm-hwsi-cross-scale-alignment)
+- [Fuel Gauge: Estimating Chain-of-Thought Length Ahead of Time in Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-fuel-gauge-cot-length)
 
 <!-- conference-classification:end -->

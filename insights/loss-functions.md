@@ -491,5 +491,6 @@
 - [TWEO: Transformers Without Extreme Outliers Enables FP8 Training And Quantization For Dummies](../conferences/cvpr-2026/cards.md#paper-tweo-weight-collinearity)
 - [SPOT: Spatiotemporal Prompt Optimization for Motion-Stabilized MLLM-Guided Video Segmentation](../conferences/cvpr-2026/cards.md#paper-spot-brownian-prompt)
 - [RoboTAG: End-to-end Robot Pose Estimation via Topological Alignment Graph](../conferences/cvpr-2026/cards.md#paper-robotag-loop-alignment)
+- [MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](../conferences/cvpr-2026/cards.md#paper-mllm-hwsi-cross-scale-alignment)
 
 <!-- conference-classification:end -->

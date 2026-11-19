@@ -1661,5 +1661,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-dtg-restore-decoupled-guidance-timesteps)
 - [INSID3: Training-Free In-Context Segmentation with DINOv3](../../conferences/cvpr-2026/cards.md#paper-insid3-frozen-dense-features)
 - [SegQuant: A Semantics-Aware and Generalizable Quantization Framework for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-segquant-graph-based-quantization)
+- [ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](../../conferences/cvpr-2026/cards.md#paper-verifier-guided-parallel-video-speculation)
+- [TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ttp-detect-then-adapt)
+- [Fuel Gauge: Estimating Chain-of-Thought Length Ahead of Time in Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-fuel-gauge-cot-length)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,997 篇，其中 1,893 篇暂收录、1,104 篇排除，另有 1,045 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,027 篇，其中 1,911 篇暂收录、1,116 篇排除，另有 1,015 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1899,3 +1899,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,997
 | 多模态学习 | 持续学习 | [Multimodal Continual Instruction Tuning with Dynamic Gradient Guidance](cards.md#paper-dynamic-gradient-guidance-continual-tuning) | 存储阶段最优参数，用参数间位移近似旧任务引导并与小回放合用。 |
 | 三维视觉 | 自监督表征 | [Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners](cards.md#paper-lila-linear-in-context-dense-video-features) | 用带噪深度和运动线索学习可在线性探针下迁移的逐像素时空描述子。 |
 | 多模态学习 | 视觉 Token 筛选 | [Hi-Lo Prune: Look at What You'll Lose before Pruning with Hierarchical Token Selection](cards.md#paper-hilo-prune-absorb-before-removal) | 先让保留的 token 吸收将被裁剪的信息，再执行粗到细删除。 |
+| 多模态学习 | 推理策略 | [ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](cards.md#paper-verifier-guided-parallel-video-speculation) | 用视觉 token 剪枝加速草稿模型并保留原模型验证，可同时优化速度和输出保真。 |
+| 多模态学习 | 数据策略 | [CRIT: Graph-Based Automatic Data Synthesis to Enhance Cross-Modal Multi-Hop Reasoning](cards.md#paper-graph-constructed-complementary-modal-reasoning) | 合成多跳训练题时可用证据图确保任一模态单独不足以推出答案。 |
+| 计算机视觉 | 数据策略 | [Rethinking Knowledge Transfer in Image Quality Assessment: A Perceptual Preference Structure Alignment Perspective](cards.md#paper-preference-structure-dataset-transfer-selection) | 跨数据集迁移前可比较任务标注偏好结构，评估联合训练是否会传递错误的信号。 |
+| 机器学习基础与统计 | 评测与诊断 | [RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models](cards.md#paper-state-space-activation-map-diagnostics) | 视觉状态空间模型可以用局部分割式激活指标测长距离响应，并和注意力机制做理论对照。 |
+| 机器人学 | 表征学习 | [VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](cards.md#paper-appearance-separated-latent-video-policies) | 可将外观重建交给预训练视频扩散模型，只用紧凑动态码学习任务过程。 |
+| 计算机视觉 | 训练策略 | [MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture](cards.md#paper-slowed-interpolation-diffusion-exposure) | 若扩散推理状态更接近训练中的高噪时刻，可以把减慢的插值混入训练来缓解暴露偏差。 |
+| 多模态学习 | 推理策略 | [TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models](cards.md#paper-ttp-detect-then-adapt) | 在鲁棒推理中先按输入稳定性判断是否需要适配，再分别检查干净和受扰样本准确率。 |
+| 计算机视觉 | 模型架构 | [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](cards.md#paper-amb3r-volumetric-backend) | 将前馈三维网络的逐图点预测转为稀疏体积后端，以共享空间表示整合多视图。 |
+| 多模态学习 | 损失函数 | [MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](cards.md#paper-mllm-hwsi-cross-scale-alignment) | 跨尺度理解时给局部与全局分别配语言监督，并要求解释在尺度间一致。 |
+| 机器人学 | 模型架构 | [PatchScene: Patch-based Voxel Diffusion Model for Large-Scale Scene Completion](cards.md#paper-patchscene-overlap-fusion) | 以局部体素图块扩展大空间，用置信度处理相邻区域与时间的重叠，再按观测密度扩到远处。 |
+| 计算机视觉 | 训练策略 | [Through the Frequency Lens: Cross-Domain Generalisable Gaze Estimation with Adaptive Modulation](cards.md#paper-fgal-domain-frequency) | 用频谱扰动诊断跨域退化，并把样本特异干扰与可迁移频段分别处理。 |
+| 机器人学 | 模型架构 | [Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment](cards.md#paper-high-value-zone-registration) | 跨二维与三维匹配时先选择对位姿有用的局部，再做跨模态表示对齐。 |
+| 多模态学习 | 推理策略 | [Fuel Gauge: Estimating Chain-of-Thought Length Ahead of Time in Large Multimodal Models](cards.md#paper-fuel-gauge-cot-length) | 从解码前内部状态估计推理长度，供缓存预分配与推理预算调整。 |
+| 智能体 | 强化学习与反馈 | [MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction](cards.md#paper-mmrecoder-execution-feedback-self-correction) | 为可执行输出单独训练多轮自修复，使用执行后的结果而非只模仿代码。 |
+| 智能体 | 数据合成 | [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](cards.md#paper-hats-semantic-ambiguity-trajectory-synthesis) | 筛选任务轨迹时保留语义模糊动作，补足只用简单交互训练的盲区。 |
+| 机器学习 | 数据筛选 | [Rethinking Dataset Distillation: Hard Truths about Soft Labels](cards.md#paper-dataset-distillation-soft-label-confound) | 对比数据筛选算法时固定标签与蒸馏协议，并加入随机子集基线。 |
+| 生成模型 | 知识蒸馏 | [LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models](cards.md#paper-lift-place-coarse-to-fine-distillation) | 学生难以直接拟合教师复杂去噪时，先做粗对齐，再按局部误差调整指导。 |
+| 生成模型 | 高效注意力 | [EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](cards.md#paper-editctrl-mask-local-global-context) | 把昂贵计算限制为待编辑 token，再用轻量全局上下文保持一致性。 |

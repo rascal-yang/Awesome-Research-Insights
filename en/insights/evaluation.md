@@ -1594,5 +1594,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark](../../conferences/cvpr-2026/cards.md#paper-scenebench-long-context-forgetting)
 - [Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation](../../conferences/cvpr-2026/cards.md#paper-spatialsky-spatial-diagnosis)
 - [HalluGen: Synthesizing Realistic and Controllable Hallucinations for Evaluating Image Restoration](../../conferences/cvpr-2026/cards.md#paper-controlled-restoration-hallucination-evaluation)
+- [RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models](../../conferences/cvpr-2026/cards.md#paper-state-space-activation-map-diagnostics)
 
 <!-- conference-classification:end -->
