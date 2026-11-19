@@ -1509,5 +1509,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-step-aware-distillation-joint-refinement)
 - [TAP: A Token-Adaptive Predictor Framework for Training-Free Diffusion Acceleration](../../conferences/cvpr-2026/cards.md#paper-shallow-probe-token-adaptive-diffusion-cache)
 - [GeodesicNVS: Probability Density Geodesic Flow Matching for Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-geodesicnvs-density-flow)
+- [ProOOD: Prototype-Guided Out-of-Distribution 3D Occupancy Prediction](../../conferences/cvpr-2026/cards.md#paper-separate-rare-classes-voxel-open-set)
+- [3D-LATTE: Latent Space 3D Editing from Textual Instructions](../../conferences/cvpr-2026/cards.md#paper-3d-latte-latent-editing)
+- [Minimal Constraint Relaxation for Multiview Autocalibration](../../conferences/cvpr-2026/cards.md#paper-kruppa-minimal-relaxation)
+- [SODA: Sensitivity-Oriented Dynamic Acceleration for Diffusion Transformer](../../conferences/cvpr-2026/cards.md#paper-soda-diffusion-sensitivity)
+- [MEMO: Human-like Crisp Edge Detection Using Masked Edge Prediction](../../conferences/cvpr-2026/cards.md#paper-memo-masked-edge-prediction)
+- [FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](../../conferences/cvpr-2026/cards.md#paper-fuser-joint-se3-multiview-registration)
 
 <!-- conference-classification:end -->

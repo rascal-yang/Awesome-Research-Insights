@@ -2456,5 +2456,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs](../../conferences/cvpr-2026/cards.md#paper-vista-gym-tool-reasoning)
 - [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-drs-gui-region-search)
 - [RoboAgent: Chaining Basic Capabilities for Embodied Task Planning](../../conferences/cvpr-2026/cards.md#paper-roboagent-capability-local-context-scheduling)
+- [Active Intelligence in Video Avatars via Closed-loop World Modeling](../../conferences/cvpr-2026/cards.md#paper-orca-closed-loop-avatar)
 
 <!-- conference-classification:end -->

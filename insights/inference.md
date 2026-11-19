@@ -1629,5 +1629,9 @@
 - [ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain](../conferences/cvpr-2026/cards.md#paper-activepolicy-global-local-gain)
 - [Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models](../conferences/cvpr-2026/cards.md#paper-thinking-diffusion-grounding)
 - [Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models](../conferences/cvpr-2026/cards.md#paper-visual-aware-cot-checklist-correction)
+- [ProOOD: Prototype-Guided Out-of-Distribution 3D Occupancy Prediction](../conferences/cvpr-2026/cards.md#paper-separate-rare-classes-voxel-open-set)
+- [3D-LATTE: Latent Space 3D Editing from Textual Instructions](../conferences/cvpr-2026/cards.md#paper-3d-latte-latent-editing)
+- [Active Intelligence in Video Avatars via Closed-loop World Modeling](../conferences/cvpr-2026/cards.md#paper-orca-closed-loop-avatar)
+- [SODA: Sensitivity-Oriented Dynamic Acceleration for Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-soda-diffusion-sensitivity)
 
 <!-- conference-classification:end -->

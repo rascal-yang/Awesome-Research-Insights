@@ -702,5 +702,7 @@
 - [Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift](../conferences/cvpr-2026/cards.md#paper-uncertainty-feature-drift-learning-rate)
 - [Parameter-efficient Continual Learning for Enhancing Plasticity without Forgetting under Limited Model Capacity](../conferences/cvpr-2026/cards.md#paper-gradient-guided-frozen-parameter-reuse)
 - [Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction](../conferences/cvpr-2026/cards.md#paper-pde-gaussian-optimization)
+- [Learning to Learn Weight Generation via Local Consistency Diffusion](../conferences/cvpr-2026/cards.md#paper-local-global-consistency-weight-generation)
+- [Minimal Constraint Relaxation for Multiview Autocalibration](../conferences/cvpr-2026/cards.md#paper-kruppa-minimal-relaxation)
 
 <!-- conference-classification:end -->

@@ -803,5 +803,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](../../conferences/cvpr-2026/cards.md#paper-elf-vla-structured-failure-feedback)
 - [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](../../conferences/cvpr-2026/cards.md#paper-saliency-r1-alignment)
 - [Unified Customized Generation by Disentangled Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-uso-disentangled-subject-style-rewards)
+- [TTRV: Test-Time Reinforcement Learning for Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-ttrv-consensus-based-test-time-reward)
 
 <!-- conference-classification:end -->

@@ -1439,5 +1439,8 @@ Learning across modalities such as images, text, audio, and video.
 - [Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models](../../conferences/cvpr-2026/cards.md#paper-visual-aware-cot-checklist-correction)
 - [ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-recall-diagnose-generate-refine-retrieval)
 - [Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training](../../conferences/cvpr-2026/cards.md#paper-wanweaver-text-proxy-visualizer-decoupling)
+- [WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation](../../conferences/cvpr-2026/cards.md#paper-joint-language-mask-relative-depth-grounding)
+- [CaST-Bench: Benchmarking Causal Chain-Grounded Spatio-Temporal Reasoning for Video Question Answering](../../conferences/cvpr-2026/cards.md#paper-cast-bench-causal-evidence)
+- [TTRV: Test-Time Reinforcement Learning for Vision Language Models](../../conferences/cvpr-2026/cards.md#paper-ttrv-consensus-based-test-time-reward)
 
 <!-- conference-classification:end -->

@@ -1062,5 +1062,8 @@ Robot perception, policy learning, planning, and control.
 - [ActivePolicy: Active Gaussian Reconstruction and Optimization Strategy Based on Global-Local Information Gain](../../conferences/cvpr-2026/cards.md#paper-activepolicy-global-local-gain)
 - [Unified Number-Free Text-to-Motion Generation Via Flow Matching](../../conferences/cvpr-2026/cards.md#paper-umf-variable-count-motion)
 - [From Contrast to Consistency: Rethinking Event-based Continuous-Time Optical Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-stsc-continuous-event-flow-structure)
+- [RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video](../../conferences/cvpr-2026/cards.md#paper-articulation-aware-segmentation-memory)
+- [PhysHO: Physics-Based Dynamic 3D Gaussian Human and Object from Monocular Video](../../conferences/cvpr-2026/cards.md#paper-physho-actuation-prior)
+- [Coverage Optimization for Camera View Selection](../../conferences/cvpr-2026/cards.md#paper-converge-underobserved-geometry-coverage)
 
 <!-- conference-classification:end -->

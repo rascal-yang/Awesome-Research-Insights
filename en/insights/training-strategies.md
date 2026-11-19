@@ -1222,5 +1222,8 @@ Training schedules, curricula, and task or stage composition.
 - [Text-Printed Image: Bridging the Image-Text Modality Gap for Text-centric Training of Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-text-printed-image)
 - [Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training](../../conferences/cvpr-2026/cards.md#paper-wanweaver-text-proxy-visualizer-decoupling)
 - [ChordEdit: One-Step Low-Energy Transport for Image Editing](../../conferences/cvpr-2026/cards.md#paper-chordedit-low-energy-single-step-transport)
+- [Tutor-Student Reinforcement Learning: A Dynamic Curriculum for Robust Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-learning-history-curriculum-weighting)
+- [Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-gkd-freeze-domain-general-representations)
+- [MEMO: Human-like Crisp Edge Detection Using Masked Edge Prediction](../../conferences/cvpr-2026/cards.md#paper-memo-masked-edge-prediction)
 
 <!-- conference-classification:end -->

@@ -2530,5 +2530,8 @@ General learning methods, optimization, learning theory, and inference.
 - [Neural Collapse in Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-nctta-sample-alignment-pseudolabels)
 - [Debiased Sample Selection for Learning with Noisy Labels](../../conferences/cvpr-2026/cards.md#paper-class-instance-bias-noisy-selection)
 - [ChordEdit: One-Step Low-Energy Transport for Image Editing](../../conferences/cvpr-2026/cards.md#paper-chordedit-low-energy-single-step-transport)
+- [Tutor-Student Reinforcement Learning: A Dynamic Curriculum for Robust Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-learning-history-curriculum-weighting)
+- [Learning to Learn Weight Generation via Local Consistency Diffusion](../../conferences/cvpr-2026/cards.md#paper-local-global-consistency-weight-generation)
+- [Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-gkd-freeze-domain-general-representations)
 
 <!-- conference-classification:end -->

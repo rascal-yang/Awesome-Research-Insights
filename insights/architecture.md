@@ -735,5 +735,8 @@
 - [HBridge: H-Shape Bridging of Heterogeneous Experts for Unified Multimodal Understanding and Generation](../conferences/cvpr-2026/cards.md#paper-hbridge-heterogeneous-experts)
 - [Unified Number-Free Text-to-Motion Generation Via Flow Matching](../conferences/cvpr-2026/cards.md#paper-umf-variable-count-motion)
 - [Mixture of States: Routing Token-Level Dynamics for Multimodal Generation](../conferences/cvpr-2026/cards.md#paper-mos-token-state-routing)
+- [RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video](../conferences/cvpr-2026/cards.md#paper-articulation-aware-segmentation-memory)
+- [WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation](../conferences/cvpr-2026/cards.md#paper-joint-language-mask-relative-depth-grounding)
+- [PhysHO: Physics-Based Dynamic 3D Gaussian Human and Object from Monocular Video](../conferences/cvpr-2026/cards.md#paper-physho-actuation-prior)
 
 <!-- conference-classification:end -->

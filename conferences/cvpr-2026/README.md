@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,667 篇，其中 1,688 篇暂收录、979 篇排除，另有 1,375 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,697 篇，其中 1,704 篇暂收录、993 篇排除，另有 1,345 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1694,3 +1694,19 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,667
 | 多模态学习 | 训练数据筛选 | [ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](cards.md#paper-recall-diagnose-generate-refine-retrieval) | 生成模型压缩为检索器后，先定位原有推理能力退化的位置，再按困难样本补训。 |
 | 多模态学习 | 解耦训练 | [Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training](cards.md#paper-wanweaver-text-proxy-visualizer-decoupling) | 用文字代理学习长程图文规划，用参考图学习视觉一致性，缓解交错图文数据不足。 |
 | 生成模型 | 免训练编辑 | [ChordEdit: One-Step Low-Energy Transport for Image Editing](cards.md#paper-chordedit-low-energy-single-step-transport) | 将一步编辑视为低能量运输，避免直接做高步幅引导导致背景变化。 |
+| 机器人学 | 模型架构 | [RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video](cards.md#paper-articulation-aware-segmentation-memory) | 视频分割可让记忆关联显式适配关节结构和快速形变，减少逐帧掩码及手工提示负担。 |
+| 机器学习基础与统计 | 训练策略 | [Tutor-Student Reinforcement Learning: A Dynamic Curriculum for Robust Deepfake Detection](cards.md#paper-learning-history-curriculum-weighting) | 动态课程可根据样本历史损失和遗忘次数调整权重，并由学习反馈更新课程。 |
+| 多模态学习 | 模型架构 | [WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation](cards.md#paper-joint-language-mask-relative-depth-grounding) | 空间对话可以同时输出文字、像素区域与相对深度，让用户核查建议的视觉依据。 |
+| 机器学习基础与统计 | 优化 | [Learning to Learn Weight Generation via Local Consistency Diffusion](cards.md#paper-local-global-consistency-weight-generation) | 元学习生成权重时，可用局部目标增加密集监督，再以一致性约束保留最终目标。 |
+| 计算机视觉 | 推理策略 | [ProOOD: Prototype-Guided Out-of-Distribution 3D Occupancy Prediction](cards.md#paper-separate-rare-classes-voxel-open-set) | 空间开放集预测可同时检查局部 logits 与类别原型，避免将异常吸收到罕见类。 |
+| 计算机视觉 | 推理策略 | [3D-LATTE: Latent Space 3D Editing from Textual Instructions](cards.md#paper-3d-latte-latent-editing) | 编辑一致性受视图条件影响时，可在原生三维潜空间中约束目标与源的注意力。 |
+| 智能体 | 推理策略 | [Active Intelligence in Video Avatars via Closed-loop World Modeling](cards.md#paper-orca-closed-loop-avatar) | 在生成式环境中预测下一状态，再用真实输出修正信念，减轻长时计划的误差传播。 |
+| 计算机视觉 | 优化策略 | [Minimal Constraint Relaxation for Multiview Autocalibration](cards.md#paper-kruppa-minimal-relaxation) | 过约束几何求解可先判断删约束后的有限解与条件数，再选择运行时方程组。 |
+| 计算机视觉 | 推理策略 | [SODA: Sensitivity-Oriented Dynamic Acceleration for Diffusion Transformer](cards.md#paper-soda-diffusion-sensitivity) | 离线测每层、每步对近似的敏感度，再按误差预算联合决定缓存和剪枝。 |
+| 机器人学 | 模型架构 | [PhysHO: Physics-Based Dynamic 3D Gaussian Human and Object from Monocular Video](cards.md#paper-physho-actuation-prior) | 用人体轨迹作为内部驱动先验，将接触传播与材质响应交给可微物理模型。 |
+| 多模态学习 | 评测与诊断 | [CaST-Bench: Benchmarking Causal Chain-Grounded Spatio-Temporal Reasoning for Video Question Answering](cards.md#paper-cast-bench-causal-evidence) | 视频因果问答同时评分结论和时空证据链，以区分真正视觉推理与答案猜测。 |
+| 机器学习 | 知识蒸馏 | [Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation](cards.md#paper-gkd-freeze-domain-general-representations) | 先蒸馏稳健视觉表示并冻结，再训练任务头，避免域内任务直接改写表示。 |
+| 机器人学 | 主动感知 | [Coverage Optimization for Camera View Selection](cards.md#paper-converge-underobserved-geometry-coverage) | 下一视角优先覆盖相机尚未充分看见的几何，避免每次估计复杂的透射率。 |
+| 计算机视觉 | 训练目标 | [MEMO: Human-like Crisp Edge Detection Using Masked Edge Prediction](cards.md#paper-memo-masked-edge-prediction) | 预测精细稀疏几何时，试用带不同掩蔽率的边缘补全而无需自定义损失。 |
+| 多模态学习 | 测试时强化学习 | [TTRV: Test-Time Reinforcement Learning for Vision Language Models](cards.md#paper-ttrv-consensus-based-test-time-reward) | 没有部署标签时，用同一输入多次采样的经验分布建立适配奖励。 |
+| 三维视觉 | 点云配准 | [FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](cards.md#paper-fuser-joint-se3-multiview-registration) | 在共享潜表征中一次预测多扫描位姿，联合细化避免逐对构图。 |
