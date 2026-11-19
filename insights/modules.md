@@ -436,5 +436,7 @@
 - [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](../conferences/cvpr-2026/cards.md#paper-onestory-global-frame-memory-next-shot)
 - [BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates](../conferences/cvpr-2026/cards.md#paper-balm-missing-rate-gradient-rebalancing)
 - [ARES: Unifying Asymmetric RGB-Event Stereo for Probabilistic Scene Flow Estimation](../conferences/cvpr-2026/cards.md#paper-ares-temporal-disparity-posterior-fusion)
+- [Ego: Embedding-Guided Personalization of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-ego-internal-attention-concept-memory)
+- [Random Wins All: Rethinking Grouping Strategies for Vision Tokens](../conferences/cvpr-2026/cards.md#paper-random-token-grouping-baseline)
 
 <!-- conference-classification:end -->

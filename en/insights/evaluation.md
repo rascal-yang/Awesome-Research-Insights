@@ -1657,5 +1657,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [DiGraphHal-Bench: Evaluating Multimodal Large Language Models on Complex Directed Graphs](../../conferences/cvpr-2026/cards.md#paper-digraphhal-structural-reasoning)
 - [Measuring the (Un)Faithfulness of Concept-Based Explanations](../../conferences/cvpr-2026/cards.md#paper-concept-explanation-surrogate-complexity-audit)
 - [TRANSPORTER: Transferring Visual Semantics from VLM Manifolds](../../conferences/cvpr-2026/cards.md#paper-transporter-logits-to-video-probing)
+- [SpatialTree: How Spatial Intelligence Branches Out in MLLMs](../../conferences/cvpr-2026/cards.md#paper-spatialtree-hierarchical-transfer)
+- [Towards Robust Sequential Decomposition for Complex Image Editing](../../conferences/cvpr-2026/cards.md#paper-robust-sequential-editing-decomposition)
 
 <!-- conference-classification:end -->

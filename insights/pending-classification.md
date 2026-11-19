@@ -898,5 +898,9 @@
 - [Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control](../conferences/cvpr-2026/cards.md#paper-closed-loop-difficulty-motion-synthesis)
 - [Scalable Multi-View Subspace Clustering with Tensorized Anchor Guidance](../conferences/cvpr-2026/cards.md#paper-tensorized-cross-view-anchor-guidance)
 - [4D Primitive-Mache: Glueing Primitives for Persistent 4D Scene Reconstruction](../conferences/cvpr-2026/cards.md#paper-4dpm-persistent-rigid-primitives)
+- [RFDM: Residual Flow Diffusion Models for Video Editing](../conferences/cvpr-2026/cards.md#paper-rfdm-causal-residual-video-editing)
+- [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](../conferences/cvpr-2026/cards.md#paper-omnivggt-zero-init-optional-geometry-adapters)
+- [Natural Human Motion Recovery by Aligning High-Order Temporal Dynamics from Monocular Videos](../conferences/cvpr-2026/cards.md#paper-htdrefine-velocity-acceleration-constraints)
+- [OptiMVMap: Offline Vectorized Map Construction via Optimal Multi-vehicle Perspectives](../conferences/cvpr-2026/cards.md#paper-optimvmap-select-complementary-cooperative-views)
 
 <!-- conference-classification:end -->

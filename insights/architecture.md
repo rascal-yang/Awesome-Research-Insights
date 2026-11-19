@@ -885,5 +885,7 @@
 - [ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Senisng](../conferences/cvpr-2026/cards.md#paper-changebridge-asynchronous-drift)
 - [PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](../conferences/cvpr-2026/cards.md#paper-physgm-joint-appearance-physics)
 - [STARFlow-V: End-to-End Video Generative Modeling with Autoregressive Normalizing Flows](../conferences/cvpr-2026/cards.md#paper-starflowv-causal-video-flows)
+- [Prototypical Action Reasoning Facilitated by Vision-Language Alignment for Egocentric Action Anticipation](../conferences/cvpr-2026/cards.md#paper-parvla-verb-noun-prototypes)
+- [GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation](../conferences/cvpr-2026/cards.md#paper-gavln-explicit-implicit-geometry)
 
 <!-- conference-classification:end -->

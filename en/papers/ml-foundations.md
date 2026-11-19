@@ -2687,5 +2687,11 @@ General learning methods, optimization, learning theory, and inference.
 - [AcTTA: Rethinking Test-Time Adaptation via Dynamic Activation](../../conferences/cvpr-2026/cards.md#paper-actta-adaptive-activation)
 - [Dance Across Shifts: Forward-Facilitation Continual Test-Time Adaptation through Dynamic Style Bridging](../../conferences/cvpr-2026/cards.md#paper-dynamic-style-bridging-forward-continual-adaptation)
 - [PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion](../../conferences/cvpr-2026/cards.md#paper-pssr-asymmetric-base-draft-refinement)
+- [RFDM: Residual Flow Diffusion Models for Video Editing](../../conferences/cvpr-2026/cards.md#paper-rfdm-causal-residual-video-editing)
+- [SAME: Sparse and Anchored Model Editing for Heterogeneous Incremental Learning under Limited Data](../../conferences/cvpr-2026/cards.md#paper-same-double-anchored-editing)
+- [QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer](../../conferences/cvpr-2026/cards.md#paper-qvggt-block-sensitive-mixed-precision)
+- [MotionV2V: Editing Motion in a Video](../../conferences/cvpr-2026/cards.md#paper-motionv2v-counterfactual-sparse-trajectory-edits)
+- [DC-Merge: Improving Model Merging with Directional Consistency](../../conferences/cvpr-2026/cards.md#paper-dcmerge-directional-singular-space-consistency)
+- [Random Wins All: Rethinking Grouping Strategies for Vision Tokens](../../conferences/cvpr-2026/cards.md#paper-random-token-grouping-baseline)
 
 <!-- conference-classification:end -->

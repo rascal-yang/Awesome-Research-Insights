@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,987 篇，其中 2,552 篇暂收录、1,435 篇排除，另有 55 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 4,017 篇，其中 2,573 篇暂收录、1,444 篇排除，另有 25 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2558,3 +2558,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,987
 | 多模态学习 | 自监督表征 | [Temporal Inversion for Learning Interval Change in Chest X-Rays](cards.md#paper-tila-temporal-inversion-directional-supervision) | 对前后帧反转并要求变化方向反转，避免时序模型只描述单帧状态。 |
 | 生成模型 | 动态推理 | [PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion](cards.md#paper-pssr-asymmetric-base-draft-refinement) | 大模型只确定整体结构，用小模型迭代补高频细节。 |
 | 机器人学 | 传感器融合 | [ARES: Unifying Asymmetric RGB-Event Stereo for Probabilistic Scene Flow Estimation](cards.md#paper-ares-temporal-disparity-posterior-fusion) | 先在空间时间共同对应空间估视差及光流，再融合随时间变化的视差分布。 |
+| 计算机视觉 | 自监督学习 | [SelfHVD: Self-Supervised Handheld Video Deblurring](cards.md#paper-selfhvd-neighbor-sharp-clue-supervision) | 从视频中较清晰的时刻提取局部线索，用来监督邻近模糊帧。 |
+| 生成模型 | 时序状态建模 | [RFDM: Residual Flow Diffusion Models for Video Editing](cards.md#paper-rfdm-causal-residual-video-editing) | 用上一帧的编辑预测作为下一帧条件，并只为变化部分学习残差。 |
+| 三维视觉 | 参数高效适配 | [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](cards.md#paper-omnivggt-zero-init-optional-geometry-adapters) | 让三维模型支持可缺省的深度和内外参，以零初始化逐步引入额外模态。 |
+| 机器人学 | 时序一致性 | [Natural Human Motion Recovery by Aligning High-Order Temporal Dynamics from Monocular Videos](cards.md#paper-htdrefine-velocity-acceleration-constraints) | 动作恢复除关节位置还应预测速度和加速度，并把它们用于全局优化。 |
+| 多模态学习 | 记忆机制 | [Ego: Embedding-Guided Personalization of Vision-Language Models](cards.md#paper-ego-internal-attention-concept-memory) | 从预训练模型直接提取代表个人概念的 token，作为后续识别的记忆。 |
+| 智能体 | 推理时校验 | [Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding](cards.md#paper-videohv-hypothesis-before-retrieval) | 先写出各候选答案必须满足的可验证条件，再找区分候选的证据。 |
+| 多模态学习 | 时空表征 | [MoVie: Broaden Your Views with Human Motion for Action Detection](cards.md#paper-movie-skeleton-motion-visual-alignment) | 用结构化人体骨架补足 RGB 的运动细节，同时分开诊断融合干扰。 |
+| 智能体 | 奖励函数 | [CodeDance: A Dynamic Tool-integrated MLLM for Executable Visual Reasoning](cards.md#paper-codedance-executable-visual-tools) | 允许代码组合视觉工具，用中间可视结果自验，并奖励适量调用。 |
+| 多模态学习 | 评测与诊断 | [SpatialTree: How Spatial Intelligence Branches Out in MLLMs](cards.md#paper-spatialtree-hierarchical-transfer) | 分层评测空间感知、建图、模拟与行动，再以单项微调检验迁移。 |
+| 多模态学习 | 评测与诊断 | [Towards Robust Sequential Decomposition for Complex Image Editing](cards.md#paper-robust-sequential-editing-decomposition) | 复杂任务按操作依赖选择一次执行或分步执行，并独立测误差累积。 |
+| 机器人学 | 模型架构 | [Prototypical Action Reasoning Facilitated by Vision-Language Alignment for Egocentric Action Anticipation](cards.md#paper-parvla-verb-noun-prototypes) | 第一视角未来动作预测用解耦动词和名词的原型表达多种可能。 |
+| 计算机视觉 | 推理策略 | [STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction](cards.md#paper-stac-streaming-3d-cache) | 在有限缓存下按空间和时间覆盖保留关键重建证据，避免简单先进先出。 |
+| 机器人学 | 模型架构 | [GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation](cards.md#paper-gavln-explicit-implicit-geometry) | 以紧凑鸟瞰表征同时保留深度投影和预训练三维特征，减少导航视频令牌。 |
+| 机器学习基础与统计 | 训练策略 | [SAME: Sparse and Anchored Model Editing for Heterogeneous Incremental Learning under Limited Data](cards.md#paper-same-double-anchored-editing) | 任务边界不清时用局部键值知识编辑，并分别约束新知识与既有能力。 |
+| 机器人学 | 行动规划 | [Context-Nav: Context-Driven Exploration and Viewpoint-Aware 3D Spatial Reasoning for Instance Navigation](cards.md#paper-contextnav-viewpoint-aware-instance-verification) | 把目标描述用于全局探索，再从多个可能观察角度验证空间关系。 |
+| 高效深度学习 | 模型量化 | [QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer](cards.md#paper-qvggt-block-sensitive-mixed-precision) | 先评每块对下游几何的量化敏感性，再按敏感度配置精度。 |
+| 机器人学 | 主动感知 | [OptiMVMap: Offline Vectorized Map Construction via Optimal Multi-vehicle Perspectives](cards.md#paper-optimvmap-select-complementary-cooperative-views) | 多设备协作感知时先选互补视角，再纠正噪声融合。 |
+| 生成模型 | 条件生成 | [MotionV2V: Editing Motion in a Video](cards.md#paper-motionv2v-counterfactual-sparse-trajectory-edits) | 将动作改动编码为稀疏轨迹差，并以内容相同、运动不同的视频配对作为监督。 |
+| 机器学习 | 模型合并 | [DC-Merge: Improving Model Merging with Directional Consistency](cards.md#paper-dcmerge-directional-singular-space-consistency) | 合并多任务参数时兼顾中弱奇异方向，避免强能量任务吞没局部能力。 |
+| 高效深度学习 | 稀疏注意力 | [Random Wins All: Rethinking Grouping Strategies for Vision Tokens](cards.md#paper-random-token-grouping-baseline) | 给局部注意分组加随机对照，检验复杂手工选择是否真有价值。 |
+| 多模态学习 | 动态推理 | [R-4B: Incentivizing General-Purpose Auto-Thinking in MLLMs via Bi-Mode Annealing and Reinforce Learning](cards.md#paper-r4b-bi-mode-auto-thinking) | 让同一模型保留直接回答和长推理两种模式，再由双路结果学习何时切换。 |

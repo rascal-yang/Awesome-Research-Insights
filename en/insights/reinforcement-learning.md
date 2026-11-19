@@ -832,5 +832,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Discriminative Perception via Anchored Description for Reasoning Segmentation](../../conferences/cvpr-2026/cards.md#paper-dpad-anchored-description)
 - [VideoSSR: Video Self-Supervised Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-videossr-intrinsic-verifiable-video-rewards)
 - [NS-Diff: Fluid Navier-Stokes Guided Video Diffusion via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-nsdiff-material-dependent-physical-rewards)
+- [CodeDance: A Dynamic Tool-integrated MLLM for Executable Visual Reasoning](../../conferences/cvpr-2026/cards.md#paper-codedance-executable-visual-tools)
 
 <!-- conference-classification:end -->

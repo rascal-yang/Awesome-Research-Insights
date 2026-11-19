@@ -1205,5 +1205,10 @@ Robot perception, policy learning, planning, and control.
 - [Learning Multi-View Spatial Reasoning from Cross-View Relations](../../conferences/cvpr-2026/cards.md#paper-xvr-cross-view-correspondence-verification-localization)
 - [PhysGM: Large Physical Gaussian Model for Feed-Forward 4D Synthesis](../../conferences/cvpr-2026/cards.md#paper-physgm-joint-appearance-physics)
 - [ARES: Unifying Asymmetric RGB-Event Stereo for Probabilistic Scene Flow Estimation](../../conferences/cvpr-2026/cards.md#paper-ares-temporal-disparity-posterior-fusion)
+- [Natural Human Motion Recovery by Aligning High-Order Temporal Dynamics from Monocular Videos](../../conferences/cvpr-2026/cards.md#paper-htdrefine-velocity-acceleration-constraints)
+- [Prototypical Action Reasoning Facilitated by Vision-Language Alignment for Egocentric Action Anticipation](../../conferences/cvpr-2026/cards.md#paper-parvla-verb-noun-prototypes)
+- [GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation](../../conferences/cvpr-2026/cards.md#paper-gavln-explicit-implicit-geometry)
+- [Context-Nav: Context-Driven Exploration and Viewpoint-Aware 3D Spatial Reasoning for Instance Navigation](../../conferences/cvpr-2026/cards.md#paper-contextnav-viewpoint-aware-instance-verification)
+- [OptiMVMap: Offline Vectorized Map Construction via Optimal Multi-vehicle Perspectives](../../conferences/cvpr-2026/cards.md#paper-optimvmap-select-complementary-cooperative-views)
 
 <!-- conference-classification:end -->

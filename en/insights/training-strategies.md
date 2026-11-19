@@ -1413,5 +1413,8 @@ Training schedules, curricula, and task or stage composition.
 - [Self-guided Semantic Inspection for Zero-Shot Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-diffcomp-induced-cross-modal-discrepancy)
 - [Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting](../../conferences/cvpr-2026/cards.md#paper-dpw-token-dependent-prefix-residual-adapters)
 - [Temporal Inversion for Learning Interval Change in Chest X-Rays](../../conferences/cvpr-2026/cards.md#paper-tila-temporal-inversion-directional-supervision)
+- [SelfHVD: Self-Supervised Handheld Video Deblurring](../../conferences/cvpr-2026/cards.md#paper-selfhvd-neighbor-sharp-clue-supervision)
+- [SAME: Sparse and Anchored Model Editing for Heterogeneous Incremental Learning under Limited Data](../../conferences/cvpr-2026/cards.md#paper-same-double-anchored-editing)
+- [DC-Merge: Improving Model Merging with Directional Consistency](../../conferences/cvpr-2026/cards.md#paper-dcmerge-directional-singular-space-consistency)
 
 <!-- conference-classification:end -->

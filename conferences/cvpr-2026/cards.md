@@ -38281,3 +38281,318 @@
 - **适用条件 / 局限** · 依赖双目外参及两模态时间同步，事件稀疏与遮挡时需复测。
 
 **可复用机制** · 先在空间时间共同对应空间估视差及光流，再融合随时间变化的视差分布。
+
+<a id="paper-selfhvd-neighbor-sharp-clue-supervision"></a>
+
+## SelfHVD: Self-Supervised Handheld Video Deblurring
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_SelfHVD_Self-Supervised_Handheld_Video_Deblurring_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_SelfHVD_Self-Supervised_Handheld_Video_Deblurring_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 合成训练模糊与手持视频的实际退化不同。
+- **核心创新 / 方法** · 用清晰线索作邻帧的非严格对齐监督，再生成改进配对并以空间一致性约束。
+- **Baseline** · 比较 ESTRNN 等去模糊骨干和以其他方法训练的同类网络。
+- **Benchmark** · 合成 GoProShake 和真实 HVD 数据，分别报告去模糊表现。
+- **关键结果 / 消融** · 表 1 分传感器和合成真实设置对照，核查域偏移。
+- **适用条件 / 局限** · 依赖序列中仍有清晰线索，持续抖动或遮挡可能破坏监督。
+
+**可复用机制** · 从视频中较清晰的时刻提取局部线索，用来监督邻近模糊帧。
+
+<a id="paper-rfdm-causal-residual-video-editing"></a>
+
+## RFDM: Residual Flow Diffusion Models for Video Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Salehi_RFDM_Residual_Flow_Diffusion_Models_for_Video_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Salehi_RFDM_Residual_Flow_Diffusion_Models_for_Video_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定长度的视频编辑开销较大，直接逐帧又不保证连贯。
+- **核心创新 / 方法** · 将图像扩散改为因果视频模型，训练其预测当前预期结果与上次预测的残差。
+- **Baseline** · 与 Fairy、EVE 等视频编辑方法比较。
+- **Benchmark** · TGVE、TGVE+，评编辑结果与延迟。
+- **关键结果 / 消融** · 论文报告 RFDM3.5 在两个基准共六个指标中四项领先，并与 Fairy 延迟相近。
+- **适用条件 / 局限** · 串行误差可能积累，大范围运动和镜头切换需复核。
+
+**可复用机制** · 用上一帧的编辑预测作为下一帧条件，并只为变化部分学习残差。
+
+<a id="paper-omnivggt-zero-init-optional-geometry-adapters"></a>
+
+## OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Peng_OmniVGGT_Omni-Modality_Driven_Visual_Geometry_Grounded_Transformer_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Peng_OmniVGGT_Omni-Modality_Driven_Visual_Geometry_Grounded_Transformer_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只接受 RGB 的底座浪费现成几何，直接加入新输入又可能改变预训练表示。
+- **核心创新 / 方法** · GeoAdapter 编码深度、内参及位姿，以零初始化卷积接入空间底座。
+- **Baseline** · 与无附加信息的 VGGT 设置比较。
+- **Benchmark** · 在未见 Sintel 中改变附加真值比例，测深度和位姿。
+- **关键结果 / 消融** · 表 1 按不同比例报告增益，支持评估部分模态可用时的取舍。
+- **适用条件 / 局限** · 误差较大的外部几何可能有害，真实传感器噪声需单独校准。
+
+**可复用机制** · 让三维模型支持可缺省的深度和内外参，以零初始化逐步引入额外模态。
+
+<a id="paper-htdrefine-velocity-acceleration-constraints"></a>
+
+## Natural Human Motion Recovery by Aligning High-Order Temporal Dynamics from Monocular Videos
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wei_Natural_Human_Motion_Recovery_by_Aligning_High-Order_Temporal_Dynamics_from_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Natural_Human_Motion_Recovery_by_Aligning_High-Order_Temporal_Dynamics_from_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 坐标误差小的轨迹仍可能过平滑，丢失动量或出现抖动。
+- **核心创新 / 方法** · 从单目序列预测二维位置、三维速度与加速度，将高阶动态作为软约束修正世界坐标轨迹。
+- **Baseline** · 比较已有动作恢复方法与添加 HTD-Refine 的版本。
+- **Benchmark** · EMDB-2 移动相机条件，报告 Jitter、MPJVE、MPJAE 等及全局位置误差。
+- **关键结果 / 消融** · 表 1 将运动质量与位置精度分列，支持排查只优化位置的失败。
+- **适用条件 / 局限** · 预测导数容易受帧率和遮挡影响，快速运动及新相机需独立复核。
+
+**可复用机制** · 动作恢复除关节位置还应预测速度和加速度，并把它们用于全局优化。
+
+<a id="paper-ego-internal-attention-concept-memory"></a>
+
+## Ego: Embedding-Guided Personalization of Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Seifi_Ego_Embedding-Guided_Personalization_of_Vision-Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Seifi_Ego_Embedding-Guided_Personalization_of_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 个性化常要另训模型或接外部模型，增加更新和推理成本。
+- **核心创新 / 方法** · 根据内部注意选出概念相关视觉 token，随后将其作为参考用于识别和描述。
+- **Baseline** · 在 InternVL3 14B、Qwen2.5-VL 7B 对比其他个性化方法。
+- **Benchmark** · 正文评图像及视频个性化识别，表 1 区分训练或注册成本。
+- **关键结果 / 消融** · 表 1 对照两个骨干下的识别效果，展示免训练方法的开销。
+- **适用条件 / 局限** · 概念 token 质量依赖参考图，同名或高度相似概念易混淆。
+
+**可复用机制** · 从预训练模型直接提取代表个人概念的 token，作为后续识别的记忆。
+
+<a id="paper-videohv-hypothesis-before-retrieval"></a>
+
+## Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Think_Then_Verify_A_Hypothesis-Verification_Multi-Agent_Framework_for_Long_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Think_Then_Verify_A_Hypothesis-Verification_Multi-Agent_Framework_for_Long_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接检索或长思维链易因干扰片段逐步偏离问题。
+- **核心创新 / 方法** · 用 Thinker 生成假设，Judge 提取判别线索，Verifier 以局部视频验证，最后汇总。
+- **Baseline** · 对比 TS-LLAVA、VideoAgent、VideoTree、LifelongMemory 等。
+- **Benchmark** · EgoSchema 子集零样本准确率。
+- **关键结果 / 消融** · 表 1 比较多个长视频基线，正文检查假设生成和局部核验。
+- **适用条件 / 局限** · 候选描述过度简化会丢失边界条件，无明确选项时需另行验证。
+
+**可复用机制** · 先写出各候选答案必须满足的可验证条件，再找区分候选的证据。
+
+<a id="paper-movie-skeleton-motion-visual-alignment"></a>
+
+## MoVie: Broaden Your Views with Human Motion for Action Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_MoVie_Broaden_Your_Views_with_Human_Motion_for_Action_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_MoVie_Broaden_Your_Views_with_Human_Motion_for_Action_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · RGB 提供场景语义，但难分辨细动作，简单拼接骨架会混合异质特征。
+- **核心创新 / 方法** · 引入运动与视频统一处理，让骨架作为两种特征之间的结构桥接。
+- **Baseline** · 对比 RGB 与骨架动作识别及使用 ViCLIP 的设置。
+- **Benchmark** · TSU、Charades、Multi-THUMOS 的逐帧动作检测 mAP。
+- **关键结果 / 消融** · 表 1 同时报输入模态和帧级结果，支持检查运动信息的增益。
+- **适用条件 / 局限** · 骨架估计误差会向下游传播，人体关节以外的对象运动需不同表示。
+
+**可复用机制** · 用结构化人体骨架补足 RGB 的运动细节，同时分开诊断融合干扰。
+
+<a id="paper-codedance-executable-visual-tools"></a>
+
+## CodeDance: A Dynamic Tool-integrated MLLM for Executable Visual Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_CodeDance_A_Dynamic_Tool-integrated_MLLM_for_Executable_Visual_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_CodeDance_A_Dynamic_Tool-integrated_MLLM_for_Executable_Visual_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定工具接口和单轮流水线难支持组合视觉推理。
+- **核心创新 / 方法** · CodeDance 编写执行程序以组织视觉工具，输出标记或图表供后续复核。
+- **Baseline** · 比较纯文字、预定义调用及现有视觉推理模型。
+- **Benchmark** · 计数、视觉搜索与通用视觉理解。
+- **关键结果 / 消融** · 表1比较多种能力，论文分析组合调用和训练信号。
+- **适用条件 / 局限** · 代码需隔离执行，工具误差和调用预算会影响结果。
+
+**可复用机制** · 允许代码组合视觉工具，用中间可视结果自验，并奖励适量调用。
+
+<a id="paper-spatialtree-hierarchical-transfer"></a>
+
+## SpatialTree: How Spatial Intelligence Branches Out in MLLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_SpatialTree_How_Spatial_Intelligence_Branches_Out_in_MLLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_SpatialTree_How_Spatial_Intelligence_Branches_Out_in_MLLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 平均空间得分难显示低层能力独立性及高层依赖。
+- **核心创新 / 方法** · SpatialTree 组织四层27项能力，并分别用距离、对应或尺寸监督微调。
+- **Baseline** · 比较主流模型及基础微调与单项技能补充。
+- **Benchmark** · SpatialTree 分层空间评测，含受控监督微调。
+- **关键结果 / 消融** · 低层能力多近似独立，高层能力相关更强。
+- **适用条件 / 局限** · 相关性不等于技能间因果依赖，不同模型须独立核验。
+
+**可复用机制** · 分层评测空间感知、建图、模拟与行动，再以单项微调检验迁移。
+
+<a id="paper-robust-sequential-editing-decomposition"></a>
+
+## Towards Robust Sequential Decomposition for Complex Image Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_Towards_Robust_Sequential_Decomposition_for_Complex_Image_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng_Towards_Robust_Sequential_Decomposition_for_Complex_Image_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单轮易漏指令，逐步编辑又可能反复修改原图。
+- **核心创新 / 方法** · 在统一上下文编辑框架对两种执行及分解方式作对照。
+- **Baseline** · 比较单轮、串行及同接口的分解变体。
+- **Benchmark** · 正文分别评测有与无步骤依赖的指令编辑。
+- **关键结果 / 消融** · 表1、2区分不同依赖条件下分解的效果。
+- **适用条件 / 局限** · 裁判需核对每个操作的完成度，不能只看最后图像整体相似度。
+
+**可复用机制** · 复杂任务按操作依赖选择一次执行或分步执行，并独立测误差累积。
+
+<a id="paper-parvla-verb-noun-prototypes"></a>
+
+## Prototypical Action Reasoning Facilitated by Vision-Language Alignment for Egocentric Action Anticipation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shao_Prototypical_Action_Reasoning_Facilitated_by_Vision-Language_Alignment_for_Egocentric_Action_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shao_Prototypical_Action_Reasoning_Facilitated_by_Vision-Language_Alignment_for_Egocentric_Action_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接预测视频上下文中的下一动作常难处理未来不确定性。
+- **核心创新 / 方法** · PAR-VLA 用图文对齐学习动词／名词视觉原型，将预测条件化。
+- **Baseline** · 比较直接时空动作预测和不同原型配置。
+- **Benchmark** · 正文多项第一视角动作预判实验。
+- **关键结果 / 消融** · 主结果和组件比较用于衡量原型约束对预测的作用。
+- **适用条件 / 局限** · 预定义动词和名词覆盖有限，实际未知动作与开放交互需复测。
+
+**可复用机制** · 第一视角未来动作预测用解耦动词和名词的原型表达多种可能。
+
+<a id="paper-stac-streaming-3d-cache"></a>
+
+## STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_STAC_Plug-and-Play_Spatio-Temporal_Aware_Cache_Compression_for_Streaming_3D_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_STAC_Plug-and-Play_Spatio-Temporal_Aware_Cache_Compression_for_Streaming_3D_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 因果几何 Transformer 的键值随视频增长，提前删缓存会破坏长时一致性。
+- **核心创新 / 方法** · STAC 按注意力的时空稀疏结构选择缓存内容。
+- **Baseline** · 在 STream3R 等因果重建模型上对照原缓存与裁剪方案。
+- **Benchmark** · NRGBD、7 Scenes 点云重建及 Sintel、TUM Dynamics、ScanNet 位姿。
+- **关键结果 / 消融** · 正文分别比较点云和位姿，验证固定缓存下时序一致性。
+- **适用条件 / 局限** · 快速重新访问、长遮挡与场景切换可能改变必需的缓存内容。
+
+**可复用机制** · 在有限缓存下按空间和时间覆盖保留关键重建证据，避免简单先进先出。
+
+<a id="paper-gavln-explicit-implicit-geometry"></a>
+
+## GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_GA-VLN_Geometry-Aware_BEV_Representation_for_Efficient_Vision-Language_Navigation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_GA-VLN_Geometry-Aware_BEV_Representation_for_Efficient_Vision-Language_Navigation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整段 RGB 令牌冗余，也缺少显式可达结构。
+- **核心创新 / 方法** · GA-BEV 从 RGB-D 投影并聚合自车中心地图，再融合几何基础模型先验。
+- **Baseline** · 比较现有视觉语言导航与去掉两类几何输入的方案。
+- **Benchmark** · R2R-CE、RxR-CE、NavRAG-CE 的未见验证集，并测每步用时。
+- **关键结果 / 消融** · 表1、2分别对照导航表现和几何表达效用。
+- **适用条件 / 局限** · 依赖深度及定位，楼层转换与动态障碍处理需复测。
+
+**可复用机制** · 以紧凑鸟瞰表征同时保留深度投影和预训练三维特征，减少导航视频令牌。
+
+<a id="paper-same-double-anchored-editing"></a>
+
+## SAME: Sparse and Anchored Model Editing for Heterogeneous Incremental Learning under Limited Data
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Duan_SAME_Sparse_and_Anchored_Model_Editing_for_Heterogeneous_Incremental_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Duan_SAME_Sparse_and_Anchored_Model_Editing_for_Heterogeneous_Incremental_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 传统增量设置经常假定域或任务 ID 可知。
+- **核心创新 / 方法** · SAME 从少量数据提取任务键值并在双锚条件下稀疏写入参数。
+- **Baseline** · 比较持续学习及其他模型编辑方案。
+- **Benchmark** · MTIL 的 Split-2、Split-3 和5样本异构增量设置。
+- **关键结果 / 消融** · 正文报告多个分割下的编辑与保持表现。
+- **适用条件 / 局限** · 任务知识重叠时锚点可能冲突，长期重复编辑需检查。
+
+**可复用机制** · 任务边界不清时用局部键值知识编辑，并分别约束新知识与既有能力。
+
+<a id="paper-contextnav-viewpoint-aware-instance-verification"></a>
+
+## Context-Nav: Context-Driven Exploration and Viewpoint-Aware 3D Spatial Reasoning for Instance Navigation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jang_Context-Nav_Context-Driven_Exploration_and_Viewpoint-Aware_3D_Spatial_Reasoning_for_Instance_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jang_Context-Nav_Context-Driven_Exploration_and_Viewpoint-Aware_3D_Spatial_Reasoning_for_Instance_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只用近处检测匹配会被同类物体干扰，左右等关系还依赖视点。
+- **核心创新 / 方法** · 将密集文图匹配写入前沿价值图，抽样可能的观察位姿验证候选。
+- **Baseline** · 比较强化学习策略与免训练模块化导航。
+- **Benchmark** · InstanceNav 和 CoIN-Bench 三个验证拆分，分别观察已见、同义和未见描述。
+- **关键结果 / 消融** · 表 1 对照导航成功与路径结果，正文区分探索与候选核验。
+- **适用条件 / 局限** · 对场景重建和语言关系解析有依赖，采样视点不足可能拒绝正确实例。
+
+**可复用机制** · 把目标描述用于全局探索，再从多个可能观察角度验证空间关系。
+
+<a id="paper-qvggt-block-sensitive-mixed-precision"></a>
+
+## QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_QVGGT_Post-Training_Quantized_Visual_Geometry_Grounded_Transformer_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_QVGGT_Post-Training_Quantized_Visual_Geometry_Grounded_Transformer_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 按统一位宽压缩大型 VGGT 会损伤关键几何模块且不保证降延迟。
+- **核心创新 / 方法** · 分析 Transformer 块敏感性，让最脆弱模块保持较高精度，其他块采用低位宽。
+- **Baseline** · 比较 FP16、SmoothQuant、QuantVGGT 等。
+- **Benchmark** · CO3Dv2、RealEstate10K 取 10 个随机帧，报位姿 AUC@30 与时延。
+- **关键结果 / 消融** · 表 1 的 SmoothQuant 在 CO3Dv2 比 FP16 更慢，说明位宽下降不能直接当作加速。
+- **适用条件 / 局限** · 需要目标硬件支持混合精度，层敏感性也可能随视角分布变化。
+
+**可复用机制** · 先评每块对下游几何的量化敏感性，再按敏感度配置精度。
+
+<a id="paper-optimvmap-select-complementary-cooperative-views"></a>
+
+## OptiMVMap: Offline Vectorized Map Construction via Optimal Multi-vehicle Perspectives
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dan_OptiMVMap_Offline_Vectorized_Map_Construction_via_Optimal_Multi-vehicle_Perspectives_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dan_OptiMVMap_Offline_Vectorized_Map_Construction_via_Optimal_Multi-vehicle_Perspectives_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单车时序不能看到遮挡区，直接融合所有外部视角又引入成本、重叠及定位误差。
+- **核心创新 / 方法** · 以视角互补性选取有限车辆，再进行多视图地图构建。
+- **Baseline** · 与 MapTR、MapVR、VectorMapNet 等及附加模块比较。
+- **Benchmark** · nuScenes，评道路分隔线、行人过道、边界及总体 mAP，常用两辆辅助车。
+- **关键结果 / 消融** · 正文报告插件对不同原地图模型的增益，并对比视角选择。
+- **适用条件 / 局限** · 需要共享车辆位姿与可用场景覆盖，受外参误差和数据采集条件限制。
+
+**可复用机制** · 多设备协作感知时先选互补视角，再纠正噪声融合。
+
+<a id="paper-motionv2v-counterfactual-sparse-trajectory-edits"></a>
+
+## MotionV2V: Editing Motion in a Video
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Burgert_MotionV2V_Editing_Motion_in_a_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Burgert_MotionV2V_Editing_Motion_in_a_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 文字难精确指定现有视频的几何运动变化，单纯图像编辑会破坏时序内容。
+- **核心创新 / 方法** · 在输入视频提取稀疏轨迹，用输入输出的轨迹差定义编辑，微调生成骨干。
+- **Baseline** · 与已有运动编辑和视频生成编辑基线比较。
+- **Benchmark** · 正文做视频运动编辑及人工胜率实验。
+- **关键结果 / 消融** · 表 1 人工总体偏好胜率为 69%，其余三个参评条件为 25%、1%、5%。
+- **适用条件 / 局限** · 依赖可稳定追踪的点，拓扑变化或出视野运动难准确用稀疏轨迹表示。
+
+**可复用机制** · 将动作改动编码为稀疏轨迹差，并以内容相同、运动不同的视频配对作为监督。
+
+<a id="paper-dcmerge-directional-singular-space-consistency"></a>
+
+## DC-Merge: Improving Model Merging with Directional Consistency
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_DC-Merge_Improving_Model_Merging_with_Directional_Consistency_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_DC-Merge_Improving_Model_Merging_with_Directional_Consistency_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 权重直接相加会扭曲任务方向，而且少数大奇异值主导总能量。
+- **核心创新 / 方法** · 先平衡各任务向量的奇异值能量，再维持合并和单任务奇异子空间方向。
+- **Baseline** · 比较 LoRA 场景下已有视觉模型合并方法。
+- **Benchmark** · ViT-B/32、ViT-B/16、ViT-L/14，报绝对和按单任务归一化准确率。
+- **关键结果 / 消融** · 表 1 分任务数和骨干给出合并对照。
+- **适用条件 / 局限** · 需要共享底座和可比任务权重，跨架构或任务冲突较强时需验证。
+
+**可复用机制** · 合并多任务参数时兼顾中弱奇异方向，避免强能量任务吞没局部能力。
+
+<a id="paper-random-token-grouping-baseline"></a>
+
+## Random Wins All: Rethinking Grouping Strategies for Vision Tokens
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fan_Random_Wins_All_Rethinking_Grouping_Strategies_for_Vision_Tokens_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fan_Random_Wins_All_Rethinking_Grouping_Strategies_for_Vision_Tokens_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · ViT 分组降低复杂度，但精心设计的分组未必优于简单随机。
+- **核心创新 / 方法** · 随机分配视觉 token，在组内执行注意力，并跨多骨干复用。
+- **Baseline** · 比较原分组、Focal 等和相应随机版本。
+- **Benchmark** · 正文比较视觉任务的准确率、吞吐、参数与运算量，另评语义分割。
+- **关键结果 / 消融** · 表 1 报告 Random-Focal-S 准确率 84.2，标注比对照高 0.7。
+- **适用条件 / 局限** · 随机分组作用依赖任务几何需求及硬件，密集输出应防止局部连贯性损失。
+
+**可复用机制** · 给局部注意分组加随机对照，检验复杂手工选择是否真有价值。
+
+<a id="paper-r4b-bi-mode-auto-thinking"></a>
+
+## R-4B: Incentivizing General-Purpose Auto-Thinking in MLLMs via Bi-Mode Annealing and Reinforce Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_R-4B_Incentivizing_General-Purpose_Auto-Thinking_in_MLLMs_via_Bi-Mode_Annealing_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_R-4B_Incentivizing_General-Purpose_Auto-Thinking_in_MLLMs_via_Bi-Mode_Annealing_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 对简单问题固定生成完整推理会浪费 token 和延迟。
+- **核心创新 / 方法** · 用双模式退火训练两种能力，再以双轨迹策略优化学习自动选择，不依赖复杂度人工标签。
+- **Baseline** · 比较长推理、直接回答和自动思考模式，以及相关多模态模型。
+- **Benchmark** · 多个多模态评测，正文并列推理模式的任务得分与开销。
+- **关键结果 / 消融** · 表 1 分开显示三种模式的成绩，可检查省略推理在哪些任务有效。
+- **适用条件 / 局限** · 复杂度感知依赖训练分布，容易低估视觉模糊或高风险的短问题。
+
+**可复用机制** · 让同一模型保留直接回答和长推理两种模式，再由双路结果学习何时切换。

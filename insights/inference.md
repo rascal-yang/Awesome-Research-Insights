@@ -1776,5 +1776,11 @@
 - [S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations](../conferences/cvpr-2026/cards.md#paper-s2d-dominant-singular-value-conditioning)
 - [Dance Across Shifts: Forward-Facilitation Continual Test-Time Adaptation through Dynamic Style Bridging](../conferences/cvpr-2026/cards.md#paper-dynamic-style-bridging-forward-continual-adaptation)
 - [PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion](../conferences/cvpr-2026/cards.md#paper-pssr-asymmetric-base-draft-refinement)
+- [Think, Then Verify: A Hypothesis-Verification Multi-Agent Framework for Long Video Understanding](../conferences/cvpr-2026/cards.md#paper-videohv-hypothesis-before-retrieval)
+- [STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-stac-streaming-3d-cache)
+- [Context-Nav: Context-Driven Exploration and Viewpoint-Aware 3D Spatial Reasoning for Instance Navigation](../conferences/cvpr-2026/cards.md#paper-contextnav-viewpoint-aware-instance-verification)
+- [QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer](../conferences/cvpr-2026/cards.md#paper-qvggt-block-sensitive-mixed-precision)
+- [MotionV2V: Editing Motion in a Video](../conferences/cvpr-2026/cards.md#paper-motionv2v-counterfactual-sparse-trajectory-edits)
+- [R-4B: Incentivizing General-Purpose Auto-Thinking in MLLMs via Bi-Mode Annealing and Reinforce Learning](../conferences/cvpr-2026/cards.md#paper-r4b-bi-mode-auto-thinking)
 
 <!-- conference-classification:end -->

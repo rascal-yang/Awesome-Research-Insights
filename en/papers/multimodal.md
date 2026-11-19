@@ -1723,5 +1723,10 @@ Learning across modalities such as images, text, audio, and video.
 - [Self-guided Semantic Inspection for Zero-Shot Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-diffcomp-induced-cross-modal-discrepancy)
 - [Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting](../../conferences/cvpr-2026/cards.md#paper-dpw-token-dependent-prefix-residual-adapters)
 - [Temporal Inversion for Learning Interval Change in Chest X-Rays](../../conferences/cvpr-2026/cards.md#paper-tila-temporal-inversion-directional-supervision)
+- [Ego: Embedding-Guided Personalization of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ego-internal-attention-concept-memory)
+- [MoVie: Broaden Your Views with Human Motion for Action Detection](../../conferences/cvpr-2026/cards.md#paper-movie-skeleton-motion-visual-alignment)
+- [SpatialTree: How Spatial Intelligence Branches Out in MLLMs](../../conferences/cvpr-2026/cards.md#paper-spatialtree-hierarchical-transfer)
+- [Towards Robust Sequential Decomposition for Complex Image Editing](../../conferences/cvpr-2026/cards.md#paper-robust-sequential-editing-decomposition)
+- [R-4B: Incentivizing General-Purpose Auto-Thinking in MLLMs via Bi-Mode Annealing and Reinforce Learning](../../conferences/cvpr-2026/cards.md#paper-r4b-bi-mode-auto-thinking)
 
 <!-- conference-classification:end -->

@@ -818,5 +818,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Scan Clusters, Not Pixels: A Cluster-Centric Paradigm for Efficient Ultra-high-definition Image Restoration](../../conferences/cvpr-2026/cards.md#paper-c2ssm-cluster-serial-global-context)
 - [When Lines Meet Textures: Spatial-Frequency Aligned Diffusion Features for Cross-Sparsity Correspondence](../../conferences/cvpr-2026/cards.md#paper-sfadift-cross-sparsity-spatial-frequency-alignment)
 - [Neural-Centric Video Processing Pipeline for Unified Multi-Task Inference](../../conferences/cvpr-2026/cards.md#paper-nvp-intermediate-neural-video-adapters)
+- [MoVie: Broaden Your Views with Human Motion for Action Detection](../../conferences/cvpr-2026/cards.md#paper-movie-skeleton-motion-visual-alignment)
 
 <!-- conference-classification:end -->

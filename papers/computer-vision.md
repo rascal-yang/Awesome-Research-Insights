@@ -1764,5 +1764,8 @@
 - [ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Senisng](../conferences/cvpr-2026/cards.md#paper-changebridge-asynchronous-drift)
 - [Prospective Dynamic 3D MRI Reconstruction via Latent-Space Motion Tracking from Single Measurement](../conferences/cvpr-2026/cards.md#paper-pdmr-low-dimensional-motion)
 - [STARFlow-V: End-to-End Video Generative Modeling with Autoregressive Normalizing Flows](../conferences/cvpr-2026/cards.md#paper-starflowv-causal-video-flows)
+- [SelfHVD: Self-Supervised Handheld Video Deblurring](../conferences/cvpr-2026/cards.md#paper-selfhvd-neighbor-sharp-clue-supervision)
+- [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](../conferences/cvpr-2026/cards.md#paper-omnivggt-zero-init-optional-geometry-adapters)
+- [STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-stac-streaming-3d-cache)
 
 <!-- conference-classification:end -->
