@@ -1354,5 +1354,11 @@
 - [MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy](../conferences/cvpr-2026/cards.md#paper-muvit-world-resolution)
 - [SuP: Sub-cloud Driven Point Cloud Registration](../conferences/cvpr-2026/cards.md#paper-sup-subcloud-registration)
 - [Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features](../conferences/cvpr-2026/cards.md#paper-dgaf-vsr-feature-compensation)
+- [FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy](../conferences/cvpr-2026/cards.md#paper-fluoclip-condition-dependent-ordinal-quality)
+- [Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset](../conferences/cvpr-2026/cards.md#paper-real-iisr-relative-order-under-drift)
+- [Scale Space Diffusion](../conferences/cvpr-2026/cards.md#paper-scale-space-diffusion)
+- [LitePT: Lighter Yet Stronger Point Transformer](../conferences/cvpr-2026/cards.md#paper-litept)
+- [WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments](../conferences/cvpr-2026/cards.md#paper-wildrayzer-static-residual-masks)
+- [Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](../conferences/cvpr-2026/cards.md#paper-lida-generator-attribution-retrieval)
 
 <!-- conference-classification:end -->

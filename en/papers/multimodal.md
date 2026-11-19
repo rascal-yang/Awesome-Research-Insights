@@ -1281,5 +1281,10 @@ Learning across modalities such as images, text, audio, and video.
 - [When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs](../../conferences/cvpr-2026/cards.md#paper-visual-token-information-horizon)
 - [TANGO: Text-Anchored Guided Optimization for Robust Fine-tuning Vision-Language Models under Label Noise](../../conferences/cvpr-2026/cards.md#paper-tango-text-anchored-noisy-labels)
 - [Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity](../../conferences/cvpr-2026/cards.md#paper-generative-color-fidelity-audit)
+- [Reinforcing Structured Chain-of-Thought for Video Understanding](../../conferences/cvpr-2026/cards.md#paper-sdrl-structured-video-cot)
+- [VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs](../../conferences/cvpr-2026/cards.md#paper-visres-controlled-visual-reasoning)
+- [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](../../conferences/cvpr-2026/cards.md#paper-dcr-contrastive-reconstruction)
+- [MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment](../../conferences/cvpr-2026/cards.md#paper-mobind-hierarchical-motion-alignment)
+- [Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-ra-rft-hard-irrelevant-queries)
 
 <!-- conference-classification:end -->

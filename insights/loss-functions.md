@@ -450,5 +450,9 @@
 - [Differentiable Laplacian Matrix Guided Superpixel Segmentation](../conferences/cvpr-2026/cards.md#paper-differentiable-graph-laplacian-superpixel-connectivity)
 - [Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-dense-video-role-specific-queries)
 - [Revisiting F-measure Optimization in Multi-Label Classification: A Sampling-based Approach](../conferences/cvpr-2026/cards.md#paper-fft-sampled-f-measure-optimization)
+- [Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset](../conferences/cvpr-2026/cards.md#paper-real-iisr-relative-order-under-drift)
+- [Omni-Supervised Motion Editing: Balancing Change and Invariance through Positive-Negative Learning](../conferences/cvpr-2026/cards.md#paper-omnime-edit-preserve-triplet-supervision)
+- [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](../conferences/cvpr-2026/cards.md#paper-dcr-contrastive-reconstruction)
+- [FedAdamom: Adaptive Momentum for Improved Generalization in Federated Optimization](../conferences/cvpr-2026/cards.md#paper-fedadamom-momentum-generalization)
 
 <!-- conference-classification:end -->

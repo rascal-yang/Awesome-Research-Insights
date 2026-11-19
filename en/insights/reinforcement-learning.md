@@ -788,5 +788,7 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-rler-video-evidence-election)
 - [Let VLMs Grade Their Own Thoughts: A Self-Quantification Approach to Reasoning-Aware Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-video-raise)
 - [PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards](../../conferences/cvpr-2026/cards.md#paper-psr-pairwise-subject)
+- [Reinforcing Structured Chain-of-Thought for Video Understanding](../../conferences/cvpr-2026/cards.md#paper-sdrl-structured-video-cot)
+- [Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-ra-rft-hard-irrelevant-queries)
 
 <!-- conference-classification:end -->

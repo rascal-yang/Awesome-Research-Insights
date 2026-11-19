@@ -1123,5 +1123,9 @@
 - [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](../conferences/cvpr-2026/cards.md#paper-tipsv2-visible-patch-distillation)
 - [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](../conferences/cvpr-2026/cards.md#paper-spear-1)
 - [TANGO: Text-Anchored Guided Optimization for Robust Fine-tuning Vision-Language Models under Label Noise](../conferences/cvpr-2026/cards.md#paper-tango-text-anchored-noisy-labels)
+- [FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedre-shared-weight-client-representation-and-label-mix)
+- [SelecTKD: Selective Token-Weighted Knowledge Distillation for LLMs](../conferences/cvpr-2026/cards.md#paper-selectkd)
+- [MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment](../conferences/cvpr-2026/cards.md#paper-mobind-hierarchical-motion-alignment)
+- [WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments](../conferences/cvpr-2026/cards.md#paper-wildrayzer-static-residual-masks)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,947 篇，其中 1,227 篇暂收录、720 篇排除，另有 2,095 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,977 篇，其中 1,245 篇暂收录、732 篇排除，另有 2,065 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1233,3 +1233,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,947
 | 多模态学习 | 微调与适配 | [TANGO: Text-Anchored Guided Optimization for Robust Fine-tuning Vision-Language Models under Label Noise](cards.md#paper-tango-text-anchored-noisy-labels) | 图文模型的噪声标签微调可用固定文本语义锚校正，避免仅依赖模型的视觉自纠。 |
 | 多模态学习 | 评测与分析 | [Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity](cards.md#paper-generative-color-fidelity-audit) | 评估照片风格生成时，独立衡量色彩真实感，而不将鲜艳高对比与质量等同。 |
 | 机器人学 | 模型架构 | [EgoRoC: Towards Egocentric Robotic Control via Task-Agnostic Visual Alignment](cards.md#paper-egoroc-reusable-visual-alignment) | 跨任务控制可将腕部视觉对齐训练成共享头，给冻结策略传六自由度位姿。 |
+| 计算机视觉 | 评估与诊断 | [FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy](cards.md#paper-fluoclip-condition-dependent-ordinal-quality) | 不同传感条件的质量排序若有反转，应比较共享序数轴和条件化序数轴。 |
+| 生成模型 | 推理策略 | [PoseD-Flow: Versatile and Guided Flow Matching Model of Human Pose](cards.md#paper-posed-flow-manifold-ode-inference-guidance) | 旋转约束的逆问题可比较内禀流先验和欧氏流，并通过采样 ODE 注入观测损失。 |
+| 计算机视觉 | 损失与奖励 | [Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset](cards.md#paper-real-iisr-relative-order-under-drift) | 相机响应有漂移时，可用相对强度顺序约束补充绝对像素误差。见第 4.5 节和图 7。 |
+| 机器人学 | 表征学习 | [Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors](cards.md#paper-dtof-directional-attention-preserves-depth-anchor) | 可对传感器锚点使用定向注意力，防止密集 RGB 特征覆盖可靠的稀疏深度。见表 3。 |
+| 生成模型 | 损失与奖励 | [Omni-Supervised Motion Editing: Balancing Change and Invariance through Positive-Negative Learning](cards.md#paper-omnime-edit-preserve-triplet-supervision) | 局部编辑可单独对照源目标相似性引导的保持项，以及指导改变方向的三元组约束。见表 3。 |
+| 机器学习 | 训练策略 | [FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning](cards.md#paper-fedre-shared-weight-client-representation-and-label-mix) | 异构联邦客户端可比较一次上传联合混合表征与按类上传原型，分别计量上下行。见表 2。 |
+| 计算机视觉 | 生成模型 | [Scale Space Diffusion](cards.md#paper-scale-space-diffusion) | 高噪声阶段先检验空间信息带宽，可从低分辨率去噪并按时恢复细节。 |
+| 机器学习基础与统计 | 训练策略 | [SelecTKD: Selective Token-Weighted Knowledge Distillation for LLMs](cards.md#paper-selectkd) | 师生能力有差距时，按教师能否验证学生候选决定 token 监督强度。 |
+| 多模态学习 | 强化学习 | [Reinforcing Structured Chain-of-Thought for Video Understanding](cards.md#paper-sdrl-structured-video-cot) | 强化训练时可约束共享视觉事实一致，同时允许推理路线多样。 |
+| 计算机视觉 | 模型架构 | [LitePT: Lighter Yet Stronger Point Transformer](cards.md#paper-litept) | 点云骨干可在高分辨率阶段用卷积提取局部几何，在降采样后再用注意力。 |
+| 多模态学习 | 评测与诊断 | [VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs](cards.md#paper-visres-controlled-visual-reasoning) | 判断视觉推理是否依赖语言时，拿掉语言线索，将局部感知、单规则和组合分别测试。 |
+| 多模态学习 | 损失函数 | [Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](cards.md#paper-dcr-contrastive-reconstruction) | 重建和判别目标冲突时，把对比信号施加到重建结果，再分别测能力。 |
+| 多模态学习 | 自监督学习 | [MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment](cards.md#paper-mobind-hierarchical-motion-alignment) | 将视觉和可穿戴信号先在身体部位及短时间片对齐，再聚合到全身。 |
+| 多模态学习 | 强化学习 | [Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](cards.md#paper-ra-rft-hard-irrelevant-queries) | 给视频片段检索增加与内容相似但事实不成立的负请求，单独训练和测拒绝。 |
+| 机器学习基础 | 损失函数与优化 | [FedAdamom: Adaptive Momentum for Improved Generalization in Federated Optimization](cards.md#paper-fedadamom-momentum-generalization) | 联邦自适应更新应分开检验逃离鞍点和偏好平坦极小值，并联调全局动量。 |
+| 机器学习基础 | 可解释性与诊断 | [Rethinking Concept Bottleneck Models: From Pitfalls to Solutions](cards.md#paper-cbm-suite-bottleneck-bypass) | 概念瓶颈模型选择概念集前测适用性，并检查线性头是否等价绕过瓶颈。 |
+| 计算机视觉 | 自监督学习 | [WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments](cards.md#paper-wildrayzer-static-residual-masks) | 从动态视频学静态三维一致性时，用仅相机运动解释后的渲染残差生成运动掩码。 |
+| 计算机视觉 | 评测与分析 | [Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](cards.md#paper-lida-generator-attribution-retrieval) | 生成图来源随新模型增加时，用可更新的参考库检索替代固定分类头。 |

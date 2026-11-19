@@ -1537,5 +1537,7 @@
 - [Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-atv-pruning)
 - [Test-Time Alignment of Text-to-Image Diffusion Models via Null-Text Embedding Optimisation](../conferences/cvpr-2026/cards.md#paper-null-tta)
 - [Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features](../conferences/cvpr-2026/cards.md#paper-dgaf-vsr-feature-compensation)
+- [PoseD-Flow: Versatile and Guided Flow Matching Model of Human Pose](../conferences/cvpr-2026/cards.md#paper-posed-flow-manifold-ode-inference-guidance)
+- [Scale Space Diffusion](../conferences/cvpr-2026/cards.md#paper-scale-space-diffusion)
 
 <!-- conference-classification:end -->

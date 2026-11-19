@@ -2472,5 +2472,11 @@
 - [Temporal Equilibrium MeanFlow: Bridging the Scale Gap for One-Step Generation](../conferences/cvpr-2026/cards.md#paper-temf)
 - [FedHarmony: Harmonizing Heterogeneous Label Correlations in Federated Multi-Label Learning](../conferences/cvpr-2026/cards.md#paper-fedharmony)
 - [Revisiting F-measure Optimization in Multi-Label Classification: A Sampling-based Approach](../conferences/cvpr-2026/cards.md#paper-fft-sampled-f-measure-optimization)
+- [PoseD-Flow: Versatile and Guided Flow Matching Model of Human Pose](../conferences/cvpr-2026/cards.md#paper-posed-flow-manifold-ode-inference-guidance)
+- [Omni-Supervised Motion Editing: Balancing Change and Invariance through Positive-Negative Learning](../conferences/cvpr-2026/cards.md#paper-omnime-edit-preserve-triplet-supervision)
+- [FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedre-shared-weight-client-representation-and-label-mix)
+- [SelecTKD: Selective Token-Weighted Knowledge Distillation for LLMs](../conferences/cvpr-2026/cards.md#paper-selectkd)
+- [FedAdamom: Adaptive Momentum for Improved Generalization in Federated Optimization](../conferences/cvpr-2026/cards.md#paper-fedadamom-momentum-generalization)
+- [Rethinking Concept Bottleneck Models: From Pitfalls to Solutions](../conferences/cvpr-2026/cards.md#paper-cbm-suite-bottleneck-bypass)
 
 <!-- conference-classification:end -->

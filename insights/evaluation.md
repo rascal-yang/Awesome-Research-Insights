@@ -1539,5 +1539,9 @@
 - [The LLM Bottleneck: Why Open-Source Vision LLMs Struggle with Hierarchical Visual Recognition](../conferences/cvpr-2026/cards.md#paper-hierarchical-recognition-llm-bottleneck)
 - [When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs](../conferences/cvpr-2026/cards.md#paper-visual-token-information-horizon)
 - [Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity](../conferences/cvpr-2026/cards.md#paper-generative-color-fidelity-audit)
+- [FluoCLIP: Stain-Aware Focus Quality Assessment in Fluorescence Microscopy](../conferences/cvpr-2026/cards.md#paper-fluoclip-condition-dependent-ordinal-quality)
+- [VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs](../conferences/cvpr-2026/cards.md#paper-visres-controlled-visual-reasoning)
+- [Rethinking Concept Bottleneck Models: From Pitfalls to Solutions](../conferences/cvpr-2026/cards.md#paper-cbm-suite-bottleneck-bypass)
+- [Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution](../conferences/cvpr-2026/cards.md#paper-lida-generator-attribution-retrieval)
 
 <!-- conference-classification:end -->

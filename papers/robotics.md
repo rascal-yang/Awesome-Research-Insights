@@ -980,5 +980,6 @@
 - [SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens](../conferences/cvpr-2026/cards.md#paper-scemos-geometry-tokens)
 - [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](../conferences/cvpr-2026/cards.md#paper-spear-1)
 - [EgoRoC: Towards Egocentric Robotic Control via Task-Agnostic Visual Alignment](../conferences/cvpr-2026/cards.md#paper-egoroc-reusable-visual-alignment)
+- [Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors](../conferences/cvpr-2026/cards.md#paper-dtof-directional-attention-preserves-depth-anchor)
 
 <!-- conference-classification:end -->

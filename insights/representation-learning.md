@@ -699,5 +699,6 @@
 - [SIMPLEPOSTER: A SIMPLE BASELINE FOR PRODUCT POSTER GENERATION](../conferences/cvpr-2026/cards.md#paper-simpleposter-character-position-encoding)
 - [MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy](../conferences/cvpr-2026/cards.md#paper-muvit-world-resolution)
 - [SuP: Sub-cloud Driven Point Cloud Registration](../conferences/cvpr-2026/cards.md#paper-sup-subcloud-registration)
+- [Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors](../conferences/cvpr-2026/cards.md#paper-dtof-directional-attention-preserves-depth-anchor)
 
 <!-- conference-classification:end -->
