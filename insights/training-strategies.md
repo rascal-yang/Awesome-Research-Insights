@@ -1087,5 +1087,7 @@
 - [Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation](../conferences/cvpr-2026/cards.md#paper-carve-geometry-ablation)
 - [Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling](../conferences/cvpr-2026/cards.md#paper-upsample-anything)
 - [Exploring Conditions for Diffusion Models in Robotic Control](../conferences/cvpr-2026/cards.md#paper-orca-task-adaptive-diffusion-features)
+- [Residual Connections Harm Generative Representation Learning](../conferences/cvpr-2026/cards.md#paper-decayed-identity-shortcuts-semantic-representations)
+- [Flow Map Distillation Without Data](../conferences/cvpr-2026/cards.md#paper-data-free-flow-map-distillation)
 
 <!-- conference-classification:end -->

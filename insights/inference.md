@@ -1488,5 +1488,8 @@
 - [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](../conferences/cvpr-2026/cards.md#paper-twig-interleaved-regional-reasoning)
 - [Sparsity-Aware Voxel Attention and Foreground Modulation for 3D Semantic Scene Completion](../conferences/cvpr-2026/cards.md#paper-voxsamnet-empty-voxel-shortcut)
 - [LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration](../conferences/cvpr-2026/cards.md#paper-lesa-stage-aware-forecasting)
+- [DuetMerging: Synergizing Dynamic and Static Strategies for Mitigating Task Interference in Model Merging](../conferences/cvpr-2026/cards.md#paper-duetmerging)
+- [ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking](../conferences/cvpr-2026/cards.md#paper-virc)
+- [Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache](../conferences/cvpr-2026/cards.md#paper-dpcache-path-aware-scheduling)
 
 <!-- conference-classification:end -->

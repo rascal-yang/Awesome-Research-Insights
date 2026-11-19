@@ -1207,5 +1207,13 @@ Learning across modalities such as images, text, audio, and video.
 - [LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-lottiegpt-native-animation)
 - [TV2TV: A Unified Framework for Interleaved Language and Video Generation](../../conferences/cvpr-2026/cards.md#paper-tv2tv-interleaved-video-language)
 - [LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration](../../conferences/cvpr-2026/cards.md#paper-lesa-stage-aware-forecasting)
+- [Learning What Matters: Prioritized Concept Learning via Relative Error-driven Sample Selection](../../conferences/cvpr-2026/cards.md#paper-progress-relative-error-curriculum-selection)
+- [Learning to Focus and Precise Cropping:A Reinforcement Learning Framework with Information Gaps and Grounding Loss for MLLMs](../../conferences/cvpr-2026/cards.md#paper-information-gap-crop-dependency-evaluation)
+- [LangRef3DGS: Natural Language-Guided 3D Referential Segmentation from Partial Observations via 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-langref3dgs-category-discovery-under-partial-views)
+- [Premier: Personalized Preference Modulation with Learnable User Embedding in Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-premier-user-preference)
+- [ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking](../../conferences/cvpr-2026/cards.md#paper-virc)
+- [Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache](../../conferences/cvpr-2026/cards.md#paper-dpcache-path-aware-scheduling)
+- [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](../../conferences/cvpr-2026/cards.md#paper-mirage-latent-visual-thought)
+- [Flow Map Distillation Without Data](../../conferences/cvpr-2026/cards.md#paper-data-free-flow-map-distillation)
 
 <!-- conference-classification:end -->

@@ -777,5 +777,8 @@
 - [Monet: Reasoning in Latent Visual Space Beyond Image and Language](../conferences/cvpr-2026/cards.md#paper-monet-visual-latent)
 - [Stepwise Credit Assignment for GRPO on Flow-Matching Models](../conferences/cvpr-2026/cards.md#paper-stepwise-flow-grpo-reward-gain-credit)
 - [Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing](../conferences/cvpr-2026/cards.md#paper-realign-in-context-editing)
+- [Learning to Focus and Precise Cropping:A Reinforcement Learning Framework with Information Gaps and Grounding Loss for MLLMs](../conferences/cvpr-2026/cards.md#paper-information-gap-crop-dependency-evaluation)
+- [FinPercep-RM: A Fine-grained Reward Model and Co-evolutionary Curriculum for RL-based Real-world Super-Resolution](../conferences/cvpr-2026/cards.md#paper-finpercep-rm)
+- [ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-arm-thinker-tool-grounded-reward)
 
 <!-- conference-classification:end -->

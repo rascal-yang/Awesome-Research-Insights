@@ -646,5 +646,7 @@ Model-wide design and information flow.
 - [DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation](../../conferences/cvpr-2026/cards.md#paper-dage-dual-stream-geometry)
 - [PositionIC: Unified Position and Identity Consistency for Image Customization](../../conferences/cvpr-2026/cards.md#paper-positionic)
 - [TV2TV: A Unified Framework for Interleaved Language and Video Generation](../../conferences/cvpr-2026/cards.md#paper-tv2tv-interleaved-video-language)
+- [Premier: Personalized Preference Modulation with Learnable User Embedding in Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-premier-user-preference)
+- [NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather](../../conferences/cvpr-2026/cards.md#paper-nimbusgs-hybrid-weather)
 
 <!-- conference-classification:end -->

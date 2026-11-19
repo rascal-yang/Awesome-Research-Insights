@@ -658,5 +658,10 @@
 - [A Bit is All You Need! Efficient Video Capture via Single Bit Imaging](../conferences/cvpr-2026/cards.md#paper-one-bit-computational-video)
 - [LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-lottiegpt-native-animation)
 - [Matching Every Pair to Track Every Point: PairFormer for All-Pairs Tracking and Video Trajectory Fields](../conferences/cvpr-2026/cards.md#paper-pairformer-all-pairs-tracking)
+- [LangRef3DGS: Natural Language-Guided 3D Referential Segmentation from Partial Observations via 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-langref3dgs-category-discovery-under-partial-views)
+- [RawMetaDiff: Unlocking Extreme Darkness from Dual-Exposure RAW with Meta-Guided Diffusion](../conferences/cvpr-2026/cards.md#paper-rawmetadiff-metadata-conditioned-asymmetric-observations)
+- [Computer Vision with a Superpixelation Camera](../conferences/cvpr-2026/cards.md#paper-supercam)
+- [GPFlow: Gaussian Prototype Probability Flow for Unsupervised Multi-Modal Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-gpflow-gaussian-prototypes)
+- [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](../conferences/cvpr-2026/cards.md#paper-mirage-latent-visual-thought)
 
 <!-- conference-classification:end -->

@@ -2444,5 +2444,6 @@
 - [Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs](../conferences/cvpr-2026/cards.md#paper-perception-programs-structured-cues)
 - [Proof-of-Perception: Certified Tool-Using Multimodal Reasoning with Compositional Conformal Guarantees](../conferences/cvpr-2026/cards.md#paper-proof-of-perception-conformal-tools)
 - [VS-Bench: Evaluating VLMs for Strategic Abilities in Multi-Agent Environments](../conferences/cvpr-2026/cards.md#paper-vs-bench)
+- [ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-arm-thinker-tool-grounded-reward)
 
 <!-- conference-classification:end -->

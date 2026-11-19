@@ -1285,5 +1285,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [Matching Every Pair to Track Every Point: PairFormer for All-Pairs Tracking and Video Trajectory Fields](../../conferences/cvpr-2026/cards.md#paper-pairformer-all-pairs-tracking)
 - [Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling](../../conferences/cvpr-2026/cards.md#paper-upsample-anything)
 - [Sparsity-Aware Voxel Attention and Foreground Modulation for 3D Semantic Scene Completion](../../conferences/cvpr-2026/cards.md#paper-voxsamnet-empty-voxel-shortcut)
+- [RawMetaDiff: Unlocking Extreme Darkness from Dual-Exposure RAW with Meta-Guided Diffusion](../../conferences/cvpr-2026/cards.md#paper-rawmetadiff-metadata-conditioned-asymmetric-observations)
+- [NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather](../../conferences/cvpr-2026/cards.md#paper-nimbusgs-hybrid-weather)
+- [Computer Vision with a Superpixelation Camera](../../conferences/cvpr-2026/cards.md#paper-supercam)
+- [FinPercep-RM: A Fine-grained Reward Model and Co-evolutionary Curriculum for RL-based Real-world Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-finpercep-rm)
 
 <!-- conference-classification:end -->

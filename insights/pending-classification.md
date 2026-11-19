@@ -811,5 +811,7 @@
 - [Adaptive Spatial-Temporal Window: Unlocking the Potential of Event Cameras in Heterogeneous Velocity Scenarios](../conferences/cvpr-2026/cards.md#paper-astw-local-event-time-window)
 - [Dual-Granularity Memory for Efficient Video Generation](../conferences/cvpr-2026/cards.md#paper-dual-granularity-memory-video-generation)
 - [RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-rs-ssm-complementary-forgotten-detail)
+- [Learning What Matters: Prioritized Concept Learning via Relative Error-driven Sample Selection](../conferences/cvpr-2026/cards.md#paper-progress-relative-error-curriculum-selection)
+- [SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models](../conferences/cvpr-2026/cards.md#paper-seacache-spectrum-aware-refresh-decision)
 
 <!-- conference-classification:end -->

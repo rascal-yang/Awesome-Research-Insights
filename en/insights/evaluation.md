@@ -1510,5 +1510,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-timelens-benchmark-audit)
 - [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-daco-concept-aligned-safety)
 - [VinQA: Visual Elements Interleaved Long-form Answer Generation for Real-World Multimodal Document QA](../../conferences/cvpr-2026/cards.md#paper-vinqa-page-versus-element-citation-encoding)
+- [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](../../conferences/cvpr-2026/cards.md#paper-intrain-zero-cost-nas)
 
 <!-- conference-classification:end -->

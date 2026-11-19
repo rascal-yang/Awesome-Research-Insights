@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,587 篇，其中 1,006 篇暂收录、581 篇排除，另有 2,455 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,617 篇，其中 1,024 篇暂收录、593 篇排除，另有 2,425 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1012,3 +1012,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,587
 | 机器人学 | 微调与适配 | [Exploring Conditions for Diffusion Models in Robotic Control](cards.md#paper-orca-task-adaptive-diffusion-features) | 把冻结生成模型当机器人视觉编码器时，分开测试任务可学提示和当前帧视觉提示。 |
 | 多模态学习 | 模型架构 | [TV2TV: A Unified Framework for Interleaved Language and Video Generation](cards.md#paper-tv2tv-interleaved-video-language) | 生成长叙事可让语言计划和像素生成交织，推理期间也允许更新计划。 |
 | 多模态学习 | 推理优化 | [LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration](cards.md#paper-lesa-stage-aware-forecasting) | 加速扩散缓存时可按噪声阶段分别学习特征预测器，避免用单个外推规则。 |
+| 表征学习 | 训练策略 | [Residual Connections Harm Generative Representation Learning](cards.md#paper-decayed-identity-shortcuts-semantic-representations) | 自编码重建表现好但语义探针弱时，可调低残差块内部恒等支路的贡献，分别测重建与迁移。见表 1、4。 |
+| 多模态学习 | 主动学习 | [Learning What Matters: Prioritized Concept Learning via Relative Error-driven Sample Selection](cards.md#paper-progress-relative-error-curriculum-selection) | 指令微调可按当前技能的相对误差更新数据选择，避免固定选择最易或最难样本。见表 3。 |
+| 多模态学习 | 强化学习 | [Learning to Focus and Precise Cropping:A Reinforcement Learning Framework with Information Gaps and Grounding Loss for MLLMs](cards.md#paper-information-gap-crop-dependency-evaluation) | 视觉裁剪训练可检查将裁剪替换为真实区域与噪声时答案的变化，验证模型是否真正使用了工具。见表 4、5。 |
+| 生成模型 | 模型效率 | [SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models](cards.md#paper-seacache-spectrum-aware-refresh-decision) | 选择缓存刷新时可比较原始特征差和随去噪阶段过滤频谱后的差，避免噪声主导判断。见表 1。 |
+| 多模态学习 | 三维重建与几何建模 | [LangRef3DGS: Natural Language-Guided 3D Referential Segmentation from Partial Observations via 3D Gaussian Splatting](cards.md#paper-langref3dgs-category-discovery-under-partial-views) | 三维语言指代缺少视角时，可比较适应性类别发现和抑制冗余梯度，以及两者在移除视角后的增量。见表 4。 |
+| 计算机视觉 | 表征学习 | [RawMetaDiff: Unlocking Extreme Darkness from Dual-Exposure RAW with Meta-Guided Diffusion](cards.md#paper-rawmetadiff-metadata-conditioned-asymmetric-observations) | 融合不同曝光传感器读数时可显式给出成像元数据，分别检验配准不确定性和颜色恢复。见表 3。 |
+| 多模态学习 | 模型架构 | [Premier: Personalized Preference Modulation with Learnable User Embedding in Text-to-Image Generation](cards.md#paper-premier-user-preference) | 有少量新用户反馈时，可先用已有用户嵌入的组合初始化偏好，再按一致性审计。 |
+| 计算机视觉 | 模型架构 | [NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather](cards.md#paper-nimbusgs-hybrid-weather) | 多视重建把视角共享的衰减与单视图瞬变干扰分支建模，并分别监督几何。 |
+| 计算机视觉 | 输入表示 | [Computer Vision with a Superpixelation Camera](cards.md#paper-supercam) | 传感器带宽不足可保留空间自适应区域统计，并以同内存预算检验下游效用。 |
+| 机器学习基础与统计 | 推理压缩 | [DuetMerging: Synergizing Dynamic and Static Strategies for Mitigating Task Interference in Model Merging](cards.md#paper-duetmerging) | 合并多个任务模型时，先在共享张量内分解共用与特异方向，再按激活稀疏化。 |
+| 多模态学习 | 推理策略 | [ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking](cards.md#paper-virc) | 视觉数学题可按可校验的中间命题分块，并在块间主动追加图面证据。 |
+| 计算机视觉 | 强化学习 | [FinPercep-RM: A Fine-grained Reward Model and Co-evolutionary Curriculum for RL-based Real-world Super-Resolution](cards.md#paper-finpercep-rm) | 当全局视觉评分会奖励局部伪影时，加入可定位局部缺陷的奖励，并分阶段训练。 |
+| 智能体 | 强化学习 | [ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](cards.md#paper-arm-thinker-tool-grounded-reward) | 训练多模态奖励模型时，把何时调用视觉工具及如何用证据判断作为优化目标。 |
+| 多模态学习 | 推理优化 | [Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache](cards.md#paper-dpcache-path-aware-scheduling) | 扩散缓存按上次重算点估计跳步代价并做全局调度，避免只看当前步。 |
+| 机器学习基础 | 表示学习 | [GPFlow: Gaussian Prototype Probability Flow for Unsupervised Multi-Modal Anomaly Detection](cards.md#paper-gpflow-gaussian-prototypes) | 少样本正常特征建模时，用带协方差的高斯原型替代点原型，保留方向相关的正常变化。 |
+| 多模态学习 | 表示学习 | [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](cards.md#paper-mirage-latent-visual-thought) | 视觉规划需要内部空间表示时，让模型交织隐视觉词元和语言词元，无需生成像素供自己读取。 |
+| 机器学习基础 | 评测与分析 | [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](cards.md#paper-intrain-zero-cost-nas) | 零成本比较架构时同时检测激活有效维度与梯度传播，而非单用容量或单用梯度。 |
+| 多模态学习 | 知识蒸馏 | [Flow Map Distillation Without Data](cards.md#paper-data-free-flow-map-distillation) | 蒸馏生成流时可直接从教师原生先验采轨迹，避免外部数据与教师支持集错配。 |

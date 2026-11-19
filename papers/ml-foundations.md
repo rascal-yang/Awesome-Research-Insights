@@ -2417,5 +2417,10 @@
 - [Image-based Outlier Synthesis With Training Data](../conferences/cvpr-2026/cards.md#paper-ascood-inlier-derived-outliers)
 - [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](../conferences/cvpr-2026/cards.md#paper-twig-interleaved-regional-reasoning)
 - [Dual-Granularity Memory for Efficient Video Generation](../conferences/cvpr-2026/cards.md#paper-dual-granularity-memory-video-generation)
+- [Residual Connections Harm Generative Representation Learning](../conferences/cvpr-2026/cards.md#paper-decayed-identity-shortcuts-semantic-representations)
+- [SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models](../conferences/cvpr-2026/cards.md#paper-seacache-spectrum-aware-refresh-decision)
+- [DuetMerging: Synergizing Dynamic and Static Strategies for Mitigating Task Interference in Model Merging](../conferences/cvpr-2026/cards.md#paper-duetmerging)
+- [GPFlow: Gaussian Prototype Probability Flow for Unsupervised Multi-Modal Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-gpflow-gaussian-prototypes)
+- [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](../conferences/cvpr-2026/cards.md#paper-intrain-zero-cost-nas)
 
 <!-- conference-classification:end -->
