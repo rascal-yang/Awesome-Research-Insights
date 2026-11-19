@@ -2507,5 +2507,6 @@
 - [DGS: Dual Gradient and Semantic-Shift Guided Low-Rank Adaptation for Class Incremental Learning](../conferences/cvpr-2026/cards.md#paper-dgs-soft-projected-gradient-lora)
 - [Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization](../conferences/cvpr-2026/cards.md#paper-pjfth-incomplete-clustering)
 - [LumiX: Structured and Coherent Text-to-Intrinsic Generation](../conferences/cvpr-2026/cards.md#paper-lumix-broadcast-query-tensor-lora)
+- [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](../conferences/cvpr-2026/cards.md#paper-higrpo-token-and-semantic-policy-optimization)
 
 <!-- conference-classification:end -->

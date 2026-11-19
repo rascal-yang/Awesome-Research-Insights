@@ -1589,5 +1589,9 @@
 - [DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ddit-dynamic-patch)
 - [AXG-Reasoner: Error Detection and Explanation in Long Task Videos with Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-normal-execution-graph-video-errors)
 - [LumiX: Structured and Coherent Text-to-Intrinsic Generation](../conferences/cvpr-2026/cards.md#paper-lumix-broadcast-query-tensor-lora)
+- [GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](../conferences/cvpr-2026/cards.md#paper-task-aware-gaussian-token-sampling)
+- [Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization](../conferences/cvpr-2026/cards.md#paper-rg-dno)
+- [History to Future: Evolving Agent with Experience and Thought for Zero-shot Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-evonav)
+- [Low-Rank Test-Time Training for Pre-Trained Point Cloud Models](../conferences/cvpr-2026/cards.md#paper-lott-pc-masked-latent-alignment)
 
 <!-- conference-classification:end -->

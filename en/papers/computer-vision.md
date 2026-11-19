@@ -1460,5 +1460,7 @@ Visual representation, recognition, reconstruction, and generation.
 - [FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision](../../conferences/cvpr-2026/cards.md#paper-flexavatar-bias-tokens)
 - [The Road Less Seen: Segment Exploration for Weakly Supervised Video Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-dual-exploration-low-fpr-video-anomaly)
 - [Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding](../../conferences/cvpr-2026/cards.md#paper-ndtokenizer-multiscale-scene-tokens)
+- [CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird's-Eye-View Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-cycle-consistency-view-lifting)
+- [Low-Rank Test-Time Training for Pre-Trained Point Cloud Models](../../conferences/cvpr-2026/cards.md#paper-lott-pc-masked-latent-alignment)
 
 <!-- conference-classification:end -->

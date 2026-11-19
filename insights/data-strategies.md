@@ -434,5 +434,6 @@
 - [Learning to Generate Highly Dynamic Videos using Synthetic Motion Data](../conferences/cvpr-2026/cards.md#paper-dynavid-synthetic-motion-without-appearance)
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](../conferences/cvpr-2026/cards.md#paper-focusui-position-preserving-selection)
 - [Style-GRPO: Semantic-Aware Preference Optimization for Image Style Transfer Guided by Reward Modeling](../conferences/cvpr-2026/cards.md#paper-targeted-style-preference-pairs)
+- [Watch and Learn: Learning to Use Computers from Online Videos](../conferences/cvpr-2026/cards.md#paper-inverse-dynamics-ui-demonstrations)
 
 <!-- conference-classification:end -->

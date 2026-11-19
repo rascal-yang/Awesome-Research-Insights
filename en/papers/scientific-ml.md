@@ -409,5 +409,6 @@ Machine learning for physics, medicine, biology, and engineering.
 - [FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-fluidgaussian-functional-reconstruction)
 - [Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework](../../conferences/cvpr-2026/cards.md#paper-hierarchical-prompts-positive-transfer)
 - [Spatial-SAM: Spatially Consistent 3D Electron Microscopy Segmentation with SDF Memory and Semi-Supervised Learning](../../conferences/cvpr-2026/cards.md#paper-spatial-sam-sdf-memory)
+- [Pixel2Phys: Distilling Governing Laws from Visual Dynamics](../../conferences/cvpr-2026/cards.md#paper-pixel2phys-hypothesis-validation-loop)
 
 <!-- conference-classification:end -->

@@ -1019,5 +1019,11 @@
 - [Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift](../conferences/cvpr-2026/cards.md#paper-query2uncertainty-query-density-calibration)
 - [V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](../conferences/cvpr-2026/cards.md#paper-v2sam-cyclic-consistency-prompt-selection)
 - [PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency](../conferences/cvpr-2026/cards.md#paper-ptc-depth-bayesian-metric-scale)
+- [Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](../conferences/cvpr-2026/cards.md#paper-lifted-affinity-distillation-affordance)
+- [ESAM++: Efficient Online 3D Perception on the Edge](../conferences/cvpr-2026/cards.md#paper-esam-plus-plus)
+- [Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization](../conferences/cvpr-2026/cards.md#paper-rg-dno)
+- [History to Future: Evolving Agent with Experience and Thought for Zero-shot Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-evonav)
+- [Learning Spatial-Temporal Consistency for 3D Semantic Scene Completion](../conferences/cvpr-2026/cards.md#paper-conssc)
+- [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-drivemoe-view-skill-routing)
 
 <!-- conference-classification:end -->

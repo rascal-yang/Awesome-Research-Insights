@@ -1374,5 +1374,12 @@
 - [AXG-Reasoner: Error Detection and Explanation in Long Task Videos with Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-normal-execution-graph-video-errors)
 - [Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis](../conferences/cvpr-2026/cards.md#paper-cacr-cross-reconstruction)
 - [AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization](../conferences/cvpr-2026/cards.md#paper-anydoc-height-reward)
+- [ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos](../conferences/cvpr-2026/cards.md#paper-differentiable-viterbi-procedure-prior)
+- [A Mixed Diet Makes DINO An Omnivorous Vision Encoder](../conferences/cvpr-2026/cards.md#paper-frozen-teacher-cross-sensor-alignment)
+- [GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](../conferences/cvpr-2026/cards.md#paper-task-aware-gaussian-token-sampling)
+- [Watch and Learn: Learning to Use Computers from Online Videos](../conferences/cvpr-2026/cards.md#paper-inverse-dynamics-ui-demonstrations)
+- [VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues](../conferences/cvpr-2026/cards.md#paper-vrr-qa)
+- [CTCal: Rethinking Text-to-Image Diffusion Models via Cross-Timestep Self-Calibration](../conferences/cvpr-2026/cards.md#paper-ctcal-cross-timestep)
+- [Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models](../conferences/cvpr-2026/cards.md#paper-mmhnet-train-short-test-long)
 
 <!-- conference-classification:end -->

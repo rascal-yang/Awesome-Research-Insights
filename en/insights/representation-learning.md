@@ -721,5 +721,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](../../conferences/cvpr-2026/cards.md#paper-skeletal-training-prior-motion-latent)
 - [Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding](../../conferences/cvpr-2026/cards.md#paper-ndtokenizer-multiscale-scene-tokens)
 - [V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](../../conferences/cvpr-2026/cards.md#paper-v2sam-cyclic-consistency-prompt-selection)
+- [A Mixed Diet Makes DINO An Omnivorous Vision Encoder](../../conferences/cvpr-2026/cards.md#paper-frozen-teacher-cross-sensor-alignment)
+- [Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](../../conferences/cvpr-2026/cards.md#paper-lifted-affinity-distillation-affordance)
 
 <!-- conference-classification:end -->

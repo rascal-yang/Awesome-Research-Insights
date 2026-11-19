@@ -1185,5 +1185,7 @@ Training schedules, curricula, and task or stage composition.
 - [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-activead-planning-label-budget)
 - [Learning to See Through a Baby's Eyes: Early Visual Diets Enable Robust Visual Intelligence in Humans and Machines](../../conferences/cvpr-2026/cards.md#paper-catdiet)
 - [The Road Less Seen: Segment Exploration for Weakly Supervised Video Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-dual-exploration-low-fpr-video-anomaly)
+- [ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos](../../conferences/cvpr-2026/cards.md#paper-differentiable-viterbi-procedure-prior)
+- [CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird's-Eye-View Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-cycle-consistency-view-lifting)
 
 <!-- conference-classification:end -->

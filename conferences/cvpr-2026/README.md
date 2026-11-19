@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,367 篇，其中 1,502 篇暂收录、865 篇排除，另有 1,675 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,397 篇，其中 1,519 篇暂收录、878 篇排除，另有 1,645 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1508,3 +1508,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,367
 | 机器人学 | 跨视角表征 | [V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](cards.md#paper-v2sam-cyclic-consistency-prompt-selection) | 融合互补的跨视角提示时，用往返一致性为每个样本选择专家。 |
 | 机器人学 | 多传感器融合 | [PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency](cards.md#paper-ptc-depth-bayesian-metric-scale) | 将相对深度模型与具噪稀疏几何结合，用递归估计稳定米制尺度。 |
 | 生成模型 | 条件生成 | [LumiX: Structured and Coherent Text-to-Intrinsic Generation](cards.md#paper-lumix-broadcast-query-tensor-lora) | 让多个互补输出共享空间查询与低秩适配，降低跨输出结构不一致。 |
+| 多模态学习 | 训练策略 | [ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos](cards.md#paper-differentiable-viterbi-procedure-prior) | 可把流程图放入结构化解码层，让动作预测模型在训练时学习合法转移约束。 |
+| 计算机视觉 | 训练策略 | [CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird's-Eye-View Semantic Segmentation](cards.md#paper-cycle-consistency-view-lifting) | 正向的透视到俯视变换可在训练时接受逆向重投影监督，减少仅靠目标视角标签时的几何歧义。 |
+| 多模态学习 | 表征学习 | [A Mixed Diet Makes DINO An Omnivorous Vision Encoder](cards.md#paper-frozen-teacher-cross-sensor-alignment) | 对齐不同传感器的同场景特征时，可用冻结的单模态教师作为语义锚点。 |
+| 机器人学 | 表征学习 | [Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](cards.md#paper-lifted-affinity-distillation-affordance) | 给稀疏三维骨干蒸馏二维语义时，可传递点与点的语义亲和结构。 |
+| 多模态学习 | 推理策略 | [GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](cards.md#paper-task-aware-gaussian-token-sampling) | 把三维场景转成有限数量的模型 token 时，可按任务切换全局覆盖与局部相似性采样。 |
+| 多模态学习 | 数据策略 | [Watch and Learn: Learning to Use Computers from Online Videos](cards.md#paper-inverse-dynamics-ui-demonstrations) | 有状态画面但缺少动作标签时，可以训练逆动力学标注器，从状态变化恢复示范轨迹。 |
+| 多模态学习 | 评测与诊断 | [VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues](cards.md#paper-vrr-qa) | 用依赖跨帧隐含证据的样例检验视频模型是否真正使用时序关系。 |
+| 机器人学 | 模型架构 | [ESAM++: Efficient Online 3D Perception on the Edge](cards.md#paper-esam-plus-plus) | 用边缘设备实测定位在线三维感知瓶颈，并受控替换其中的三维特征编码器。 |
+| 机器人学 | 推理策略 | [Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization](cards.md#paper-rg-dno) | 将难满足的约束交给检索初始化，再用可微目标修正动作。 |
+| 机器人学 | 推理策略 | [History to Future: Evolving Agent with Experience and Thought for Zero-shot Vision-and-Language Navigation](cards.md#paper-evonav) | 将历史经验与前向假设分别维护，用作智能体动作选择的两种反馈。 |
+| 多模态学习 | 损失函数 | [CTCal: Rethinking Text-to-Image Diffusion Models via Cross-Timestep Self-Calibration](cards.md#paper-ctcal-cross-timestep) | 可用同一模型低噪声状态中更可靠的对齐信号监督高噪声状态。 |
+| 机器人学 | 模型架构 | [Learning Spatial-Temporal Consistency for 3D Semantic Scene Completion](cards.md#paper-conssc) | 将历史信息对齐到当前三维体素，并用可见性和相似性筛选再融合。 |
+| 三维视觉 | 测试时适配 | [Low-Rank Test-Time Training for Pre-Trained Point Cloud Models](cards.md#paper-lott-pc-masked-latent-alignment) | 用预训练编码器的掩蔽不变性代替解码重建，降低无标签测试时适配成本。 |
+| 机器人学 | 专家路由 | [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](cards.md#paper-drivemoe-view-skill-routing) | 分别按场景选择输入视角、按技能选择行动专家，可指导多摄像头 VLA 的路由粒度。 |
+| 科学机器学习 | 智能体验证 | [Pixel2Phys: Distilling Governing Laws from Visual Dynamics](cards.md#paper-pixel2phys-hypothesis-validation-loop) | 将高维观测到低维规律分成可检验的候选构造与验证，适用于可仿真的视觉动态。 |
+| 生成模型 | 强化学习与奖励 | [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](cards.md#paper-higrpo-token-and-semantic-policy-optimization) | 为长生成序列区分 token 级优化和高层语义规划，并先检查奖励与人工偏好的对应关系。 |
+| 多模态学习 | 长度外推 | [Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models](cards.md#paper-mmhnet-train-short-test-long) | 长时音画生成可先尝试层级状态空间记忆，在短训练样本下验证推理长度外推。 |

@@ -22531,3 +22531,258 @@
 - **适用条件 / 局限** · 需要可对应的多通道监督，其他传感器通道上的一致性需独立评估。
 
 **可复用机制** · 让多个互补输出共享空间查询与低秩适配，降低跨输出结构不一致。
+
+<a id="paper-differentiable-viterbi-procedure-prior"></a>
+
+## ViterbiPlanNet: Injecting Procedural Knowledge via Differentiable Viterbi for Planning in Instructional Videos
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Seminara_ViterbiPlanNet_Injecting_Procedural_Knowledge_via_Differentiable_Viterbi_for_Planning_in_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Seminara_ViterbiPlanNet_Injecting_Procedural_Knowledge_via_Differentiable_Viterbi_for_Planning_in_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 从起止画面预测中间动作时，隐式学习流程结构需要较大模型且可能生成不连贯动作。
+- **核心创新 / 方法** · 将流程知识图嵌入 Viterbi 解码，用平滑运算使模型可通过解码层端到端学习。
+- **Baseline** · 对比 KEPP 的图条件化及扩散或语言模型规划器，并比较去掉流程图的自身变体。
+- **Benchmark** · CrossTask、COIN、NIV 视觉流程规划，比较完整序列成功率、动作准确率和动作集合交并比。
+- **关键结果 / 消融** · CrossTask 三步规划加入流程图后，成功率从 32.47% 升至 38.45%。
+- **适用条件 / 局限** · 需要任务可离散成可建图的步骤，评测针对离线流程预测。
+
+**可复用机制** · 可把流程图放入结构化解码层，让动作预测模型在训练时学习合法转移约束。
+
+<a id="paper-cycle-consistency-view-lifting"></a>
+
+## CycleBEV: Regularizing View Transformation Networks via View Cycle Consistency for Bird's-Eye-View Semantic Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hong_CycleBEV_Regularizing_View_Transformation_Networks_via_View_Cycle_Consistency_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hong_CycleBEV_Regularizing_View_Transformation_Networks_via_View_Cycle_Consistency_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 车辆多相机图像转到俯视空间时，深度歧义和遮挡会损失语义和几何信息。
+- **核心创新 / 方法** · 把俯视分割通过逆视角网络映回透视空间，以循环一致性和高度、潜特征对齐作为训练正则。
+- **Baseline** · 基于 CVT、LSS、PETRv2、BEVFormer，对比原骨干及 CVTM、FocusBEV 正则方案。
+- **Benchmark** · nuScenes 多相机俯视语义分割，报告各类和平均 IoU。
+- **关键结果 / 消融** · CVT 平均 IoU 从 39.70 升至 41.78，LSS 从 28.59 升至 31.55。
+- **适用条件 / 局限** · 需要训练期可获得透视分割监督，核心验证为自动驾驶数据。
+
+**可复用机制** · 正向的透视到俯视变换可在训练时接受逆向重投影监督，减少仅靠目标视角标签时的几何歧义。
+
+<a id="paper-frozen-teacher-cross-sensor-alignment"></a>
+
+## A Mixed Diet Makes DINO An Omnivorous Vision Encoder
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kabra_A_Mixed_Diet_Makes_DINO_An_Omnivorous_Vision_Encoder_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kabra_A_Mixed_Diet_Makes_DINO_An_Omnivorous_Vision_Encoder_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 同一场景的 RGB 与深度特征在预训练视觉模型中可能与随机图像对近似同样不相似。
+- **核心创新 / 方法** · 同时优化同场景的跨模态对齐和向冻结 DINOv2 教师蒸馏，让学生保留原语义空间。
+- **Baseline** · 以 DINOv2 为冻结教师和检索基准，并评估冻结骨干加线性或 DPT 下游头。
+- **Benchmark** · 在 MOVi、ScanNet、TartanAir 上测跨模态检索 R@1、R@5、mAP、MedR，并评估单目深度和分割。
+- **关键结果 / 消融** · ScanNet 上原 DINOv2 池化特征平均跨模态 R@1 为 4.6%，学生改善检索，另有分类评测的 top-1 从 80.4% 提高至 83.8%。
+- **适用条件 / 局限** · 需要对齐的同场景跨模态训练样本，迁移到未见传感器仍需验证。
+
+**可复用机制** · 对齐不同传感器的同场景特征时，可用冻结的单模态教师作为语义锚点。
+
+<a id="paper-lifted-affinity-distillation-affordance"></a>
+
+## Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_Unlocking_3D_Affordance_Segmentation_with_2D_Semantic_Knowledge_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_Unlocking_3D_Affordance_Segmentation_with_2D_Semantic_Knowledge_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 稀疏点云里的局部几何相似，功能却可能不同，仅靠形状难以分割可供操作的部位。
+- **核心创新 / 方法** · 将二维视觉模型特征提升到三维点上，以亲和关系作为核心预训练目标，辅以额外的一致性损失。
+- **Baseline** · 相同 LAS 分割器比较原生预训练 PointMAE 与 CMAT 预训练权重，也对比其他可供性模型。
+- **Benchmark** · PIAD、PIADv2 和 LASO，比较可供性分割及已见与未见划分。
+- **关键结果 / 消融** · PIADv2 已见划分中，表 1 的 IoU 从 38.16 提高到 44.88。
+- **适用条件 / 局限** · 需要可靠的二维到三维映射，评测为离线点云分割。
+
+**可复用机制** · 给稀疏三维骨干蒸馏二维语义时，可传递点与点的语义亲和结构。
+
+<a id="paper-task-aware-gaussian-token-sampling"></a>
+
+## GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_GaussianDWM_3D_Gaussian_Driving_World_Model_for_Unified_Scene_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Deng_GaussianDWM_3D_Gaussian_Driving_World_Model_for_Unified_Scene_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 密集三维 Gaussian 特征含有大量冗余，全量送入语言模型会超出 token 预算，局部接地还需细节。
+- **核心创新 / 方法** · 统一投影 Gaussian、图像和文本特征，并以均匀、显著性与相似性采样适配不同场景任务。
+- **Baseline** · 比较不使用三维 Gaussian 表征及不同采样方式的变体，并对比代表性场景理解模型。
+- **Benchmark** · NuInteract 的区域理解、二维及三维接地和规划，另在 nuScenes 测场景生成。
+- **关键结果 / 消融** · 正文表 2 在接地任务中专门消融相似度采样，完整框架在 NuInteract 四类任务的平均表现领先。
+- **适用条件 / 局限** · 依赖多视角三维场景构建，结果主要来自自动驾驶场景。
+
+**可复用机制** · 把三维场景转成有限数量的模型 token 时，可按任务切换全局覆盖与局部相似性采样。
+
+<a id="paper-inverse-dynamics-ui-demonstrations"></a>
+
+## Watch and Learn: Learning to Use Computers from Online Videos
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_Watch_and_Learn_Learning_to_Use_Computers_from_Online_Videos_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_Watch_and_Learn_Learning_to_Use_Computers_from_Online_Videos_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 普通界面教学视频覆盖丰富工作流，但视频缺少能直接监督助手的动作记录。
+- **核心创新 / 方法** · 以相邻屏幕状态预测用户动作，配合按任务检索和轨迹标注，将人类演示转化为上下文样例或微调数据。
+- **Baseline** · 对比无检索样例基线、TongUI 标注以及原始开源助手。
+- **Benchmark** · OSWorld-Verified 的常规界面任务，50 步限制，报告任务完成率。
+- **关键结果 / 消融** · 正文表 2 报告相对基线或 TongUI 标注的最高绝对提升为 11.1 个百分点。
+- **适用条件 / 局限** · 屏幕状态变化难以反推出没有视觉反馈的动作，迁移取决于视频与目标软件任务的匹配。
+
+**可复用机制** · 有状态画面但缺少动作标签时，可以训练逆动力学标注器，从状态变化恢复示范轨迹。
+
+<a id="paper-vrr-qa"></a>
+
+## VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Swetha_VRR-QA_Visual_Relational_Reasoning_in_Videos_Beyond_Explicit_Cues_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Swetha_VRR-QA_Visual_Relational_Reasoning_in_Videos_Beyond_Explicit_Cues_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常见视频问答可从单帧或短片段直接读出答案，难识别模型是否遗漏时间分散的视觉证据。
+- **核心创新 / 方法** · 从刻意省略事件或关系的叙事视频构造隐含关系题，并对选择题过滤捷径。
+- **Baseline** · 与已有视频问答集比较，评估含 LLaVA-OneVision 的视频语言模型及启用推理令牌的设置。
+- **Benchmark** · VRR-QA 多选视频问答，正文表3在统一输入16帧下按题型报告准确率。
+- **关键结果 / 消融** · 正文显示模型在跨帧隐含关系题上仍会失误，并按推理类型分析表现差异。
+- **适用条件 / 局限** · 短视频之外的更长视频推理和机器人视频需单独验证，电影剪辑规律会影响题目难度。
+
+**可复用机制** · 用依赖跨帧隐含证据的样例检验视频模型是否真正使用时序关系。
+
+<a id="paper-esam-plus-plus"></a>
+
+## ESAM++: Efficient Online 3D Perception on the Edge
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_ESAM_Efficient_Online_3D_Perception_on_the_Edge_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_ESAM_Efficient_Online_3D_Perception_on_the_Edge_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · EmbodiedSAM 的稀疏 3D U-Net 占据三维推理的大部分用时。
+- **核心创新 / 方法** · 用轻量稀疏特征金字塔 SFPN 替换三维编码器，比较不同宽度和结构配置对在线实例分割的影响。
+- **Baseline** · 基于 ESAM；与采用不同架构的在线三维实例分割方法对照，另比较 SFPN 变体。
+- **Benchmark** · ScanNet 和 ScanNet200 在线实例分割，SceneNN 和 3RScan 跨域评估，指标包括 AP 和边缘端延迟、功耗。
+- **关键结果 / 消融** · 表3检验跨数据集迁移，表5报告设备端延迟和功耗，表6比较架构配置。
+- **适用条件 / 局限** · 依赖 RGB-D、相机姿态与二维掩膜，上游感知延迟变化会改变压缩收益。
+
+**可复用机制** · 用边缘设备实测定位在线三维感知瓶颈，并受控替换其中的三维特征编码器。
+
+<a id="paper-rg-dno"></a>
+
+## Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Towards_Highly-Constrained_Human_Motion_Generation_with_Retrieval-Guided_Diffusion_Noise_Optimization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Towards_Highly-Constrained_Human_Motion_Generation_with_Retrieval-Guided_Diffusion_Noise_Optimization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 扩散噪声直接优化在障碍约束、步数限制等困难零样本条件下难以找到可行动作。
+- **核心创新 / 方法** · 解析约束组，按最难条件从动作库检索参考，用其引导扩散噪声初始化，再优化完整目标。
+- **Baseline** · 基于训练无需更新的 DNO，与 ProgMoGen+DNO 及其多初值设置比较。
+- **Benchmark** · 正文表1、2分别报告时空约束和数值约束任务，指标含约束误差、足滑与动作平滑性。
+- **关键结果 / 消融** · 在多类高度受限任务优于原始 DNO；关节约束对照见表3。
+- **适用条件 / 局限** · 依赖覆盖相近动作的检索库和可优化目标，真实机器人控制约束需另行验证。
+
+**可复用机制** · 将难满足的约束交给检索初始化，再用可微目标修正动作。
+
+<a id="paper-evonav"></a>
+
+## History to Future: Evolving Agent with Experience and Thought for Zero-shot Vision-and-Language Navigation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dai_History_to_Future_Evolving_Agent_with_Experience_and_Thought_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dai_History_to_Future_Evolving_Agent_with_Experience_and_Thought_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 零样本视觉语言导航在初始判断错误时可能连续走错，逐步推理缺少历史反馈和对未来地标的预判。
+- **核心创新 / 方法** · EVONAV 用 H-CoE 总结历史轨迹与场景，以 F-CoT 推断后续地标和动作，联合辅助方向选择。
+- **Baseline** · 与已有训练式及基于 LLM 的零样本视觉语言导航方法比较，并分别去掉历史与前向模块。
+- **Benchmark** · 连续环境 VLN 仿真和实景导航实验，报告成功率及路径效率。
+- **关键结果 / 消融** · 论文报告仿真和实景改善，并比较两个反馈来源的消融设置。
+- **适用条件 / 局限** · 历史摘要与预判来自模型推理，会受错误观察影响；场景规模和交互预算改变时需复测。
+
+**可复用机制** · 将历史经验与前向假设分别维护，用作智能体动作选择的两种反馈。
+
+<a id="paper-ctcal-cross-timestep"></a>
+
+## CTCal: Rethinking Text-to-Image Diffusion Models via Cross-Timestep Self-Calibration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Guo_CTCal_Rethinking_Text-to-Image_Diffusion_Models_via_Cross-Timestep_Self-Calibration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Guo_CTCal_Rethinking_Text-to-Image_Diffusion_Models_via_Cross-Timestep_Self-Calibration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 扩散重建损失对细粒度文本与图像匹配监督较弱，高噪声时间步对齐更难。
+- **核心创新 / 方法** · CTCal 将低噪声时间步的文本图像交叉注意力作为监督，校准更高噪声时间步的对齐。
+- **Baseline** · 比较常规文本到图像扩散、推理时优化等方法，并评估跨时间步校准。
+- **Benchmark** · T2I-CompBench++ 检验属性和关系组合，GenEval 按提示类别评估目标对齐，另有人评。
+- **关键结果 / 消融** · 正文表2报告 GenEval 所列类别上的提升，另报告组合性和用户偏好结果。
+- **适用条件 / 局限** · 低噪声注意力仍可能存在错误，迁移到动作扩散时需验证条件输入是否具有可靠的对应关系。
+
+**可复用机制** · 可用同一模型低噪声状态中更可靠的对齐信号监督高噪声状态。
+
+<a id="paper-conssc"></a>
+
+## Learning Spatial-Temporal Consistency for 3D Semantic Scene Completion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xue_Learning_Spatial-Temporal_Consistency_for_3D_Semantic_Scene_Completion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xue_Learning_Spatial-Temporal_Consistency_for_3D_Semantic_Scene_Completion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 历史帧简单堆叠会将遮挡、观察角度变化和来自不同位置的特征混在一起，造成时序预测不一致。
+- **核心创新 / 方法** · ConSSC 由深度构建粗占据并逐层细化，再在当前体素查询历史 2D 与 3D 特征，利用二维可见性和相似信号调节融合。
+- **Baseline** · 与单帧及多帧语义场景补全方法比较，另分析体素细化和时序组件。
+- **Benchmark** · SemanticKITTI 隐藏测试集及 SSCBench-KITTI360，以几何占据 IoU 和语义 mIoU 衡量。
+- **关键结果 / 消融** · 正文表1、2报告两套测试集比较，并用组件分析验证历史消息利用方式。
+- **适用条件 / 局限** · 依赖深度、姿态和时间配准，动态物体和配准误差下需验证历史信息是否仍可靠。
+
+**可复用机制** · 将历史信息对齐到当前三维体素，并用可见性和相似性筛选再融合。
+
+<a id="paper-lott-pc-masked-latent-alignment"></a>
+
+## Low-Rank Test-Time Training for Pre-Trained Point Cloud Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ye_Low-Rank_Test-Time_Training_for_Pre-Trained_Point_Cloud_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Low-Rank_Test-Time_Training_for_Pre-Trained_Point_Cloud_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 重建作为测试时自监督目标需调用解码器，且与分类目标耦合较弱。
+- **核心创新 / 方法** · 冻结大部分预训练参数，以低秩单元适配并对齐相同点云的不同掩蔽视图编码。
+- **Baseline** · 比较无适配原模型、MATE、SMART-PC 等测试时方法，并区分单样本和在线。
+- **Benchmark** · ModelNet40-C、ScanObjectNN-C 等点云扰动基准，比较分类准确率和适配成本。
+- **关键结果 / 消融** · 单样本适配在 ModelNet40-C 达 74.4%，在线设置每样本使用一对视图，MATE 官方在线设置使用 48 个增强视图。
+- **适用条件 / 局限** · 需要掩蔽增强能保留类别信息，强遮挡和不同点分布下应验证这一条件。
+
+**可复用机制** · 用预训练编码器的掩蔽不变性代替解码重建，降低无标签测试时适配成本。
+
+<a id="paper-drivemoe-view-skill-routing"></a>
+
+## DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_DriveMoE_Mixture-of-Experts_for_Vision-Language-Action_Model_in_End-to-End_Autonomous_Driving_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_DriveMoE_Mixture-of-Experts_for_Vision-Language-Action_Model_in_End-to-End_Autonomous_Driving_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 每步处理所有视角效率较低，罕见动作难用单一专家覆盖。
+- **核心创新 / 方法** · 在 Drive-π0 上分别建立场景专用视觉 MoE 和技能专用动作 MoE，视觉路由器选相机，动作路由器选轨迹专家。
+- **Baseline** · Drive-π0 是底座，对比 Bench2Drive 的 TCP-traj、AD-MLP、UniAD 等方法。
+- **Benchmark** · Bench2Drive 闭环多能力基准，按汇入、超车、紧急刹车、让行和交通标志报告成功比例及平均值。
+- **关键结果 / 消融** · 表 1 按技能给出效果，正文结合视角与技能路由分析不同类型的驾驶行为。
+- **适用条件 / 局限** · 技能划分和相机配置来自驾驶设置，传感器覆盖和长尾动作迁移需额外验证。
+
+**可复用机制** · 分别按场景选择输入视角、按技能选择行动专家，可指导多摄像头 VLA 的路由粒度。
+
+<a id="paper-pixel2phys-hypothesis-validation-loop"></a>
+
+## Pixel2Phys: Distilling Governing Laws from Visual Dynamics
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Pixel2Phys_Distilling_Governing_Laws_from_Visual_Dynamics_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Pixel2Phys_Distilling_Governing_Laws_from_Visual_Dynamics_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频像素冗余大，直接做轨迹预测难得到可解释的动力学方程。
+- **核心创新 / 方法** · 让多模态代理迭代提出、验证和简化候选方程，通过观测拟合筛选更紧凑的动力学变量和表达。
+- **Baseline** · 与 AE-SINDy、Latent-ODE、Coord-Equ 比较。
+- **Benchmark** · 线性、立方、圆周等运动对象评测，跨 5 个种子比较方程项恢复、误检项及 R²@1000。
+- **关键结果 / 消融** · 线性案例 R²@1000 为 0.9913，Coord-Equ 为 0.8647，且本方法报告的误检项数为 0。
+- **适用条件 / 局限** · 实验集中在可观测的结构化运动，复杂遮挡或不可辨识变量会限制方程恢复。
+
+**可复用机制** · 将高维观测到低维规律分成可检验的候选构造与验证，适用于可仿真的视觉动态。
+
+<a id="paper-higrpo-token-and-semantic-policy-optimization"></a>
+
+## Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Are_We_Ready_for_RL_in_Text-to-3D_Generation_A_Progressive_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_Are_We_Ready_for_RL_in_Text-to-3D_Generation_A_Progressive_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 三维对象要兼顾整体几何和局部细节，直接借用语言模型的奖励和损失聚合会丢失局部学习信号。
+- **核心创新 / 方法** · 比较 GRPO 变体、奖励维度与打分模型，再以 Hi-GRPO 将高层语义推理与 token 级生成组合。
+- **Baseline** · 对比 HPS v2.1、UnifiedReward、Qwen-VL 奖励及不同 GRPO 损失和层级设置。
+- **Benchmark** · Toys4k 奖励实验及 MME-3DR 的隐式推理评测，比较三维属性与提示对齐。
+- **关键结果 / 消融** · 文中消融显示 token 级平均优于所测替代聚合，并报告层级优化配置的收益。
+- **适用条件 / 局限** · 结论依赖自回归三维 token、奖励模型质量及渲染视图，迁移到连续生成时需重新验证。
+
+**可复用机制** · 为长生成序列区分 token 级优化和高层语义规划，并先检查奖励与人工偏好的对应关系。
+
+<a id="paper-mmhnet-train-short-test-long"></a>
+
+## Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Simon_Echoes_Over_Time_Unlocking_Length_Generalization_in_Video-to-Audio_Generation_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Simon_Echoes_Over_Time_Unlocking_Length_Generalization_in_Video-to-Audio_Generation_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 音画长样本较少，文本往往与逐帧事件对不齐，短训练模型容易在长条件上退化。
+- **核心创新 / 方法** · 结合多模态层级网络和非因果 Mamba，把时序局部对齐与长程生成状态分层处理。
+- **Baseline** · 比较 MMAudio、LoVA、V-AURA、HunyuanVideo-Foley 等方法。
+- **Benchmark** · UnAV100、LongVale 比较长视频生成，VGGSound 比较短视频，报告分布质量与同步指标。
+- **关键结果 / 消融** · 表 1 报告短训长推条件下长时基准改进，并展示超过 5 分钟的生成。
+- **适用条件 / 局限** · 五分钟为展示范围，不能由此推得任意长度均稳定，音频与视觉事件数据仍需匹配。
+
+**可复用机制** · 长时音画生成可先尝试层级状态空间记忆，在短训练样本下验证推理长度外推。

@@ -702,5 +702,7 @@ Model-wide design and information flow.
 - [MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction](../../conferences/cvpr-2026/cards.md#paper-mv-roma)
 - [FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision](../../conferences/cvpr-2026/cards.md#paper-flexavatar-bias-tokens)
 - [Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation](../../conferences/cvpr-2026/cards.md#paper-adaptive-text-dreamer)
+- [ESAM++: Efficient Online 3D Perception on the Edge](../../conferences/cvpr-2026/cards.md#paper-esam-plus-plus)
+- [Learning Spatial-Temporal Consistency for 3D Semantic Scene Completion](../../conferences/cvpr-2026/cards.md#paper-conssc)
 
 <!-- conference-classification:end -->

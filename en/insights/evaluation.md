@@ -1561,5 +1561,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions](../../conferences/cvpr-2026/cards.md#paper-creval-qa-editing)
 - [Spot The Ball: A Benchmark for Visual Social Inference](../../conferences/cvpr-2026/cards.md#paper-spot-the-ball-heuristic-controls)
 - [4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models](../../conferences/cvpr-2026/cards.md#paper-adaptive-world-model-rubrics)
+- [VRR-QA: Visual Relational Reasoning in Videos Beyond Explicit Cues](../../conferences/cvpr-2026/cards.md#paper-vrr-qa)
+- [Pixel2Phys: Distilling Governing Laws from Visual Dynamics](../../conferences/cvpr-2026/cards.md#paper-pixel2phys-hypothesis-validation-loop)
 
 <!-- conference-classification:end -->

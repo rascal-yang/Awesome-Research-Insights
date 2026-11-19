@@ -470,5 +470,6 @@
 - [DEVA: Fine-tuning Multimodal Large Language Models for Visual Perception Tasks](../conferences/cvpr-2026/cards.md#paper-deva-perception-rl-diversity-reward)
 - [TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-taco-lidar)
 - [Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis](../conferences/cvpr-2026/cards.md#paper-cacr-cross-reconstruction)
+- [CTCal: Rethinking Text-to-Image Diffusion Models via Cross-Timestep Self-Calibration](../conferences/cvpr-2026/cards.md#paper-ctcal-cross-timestep)
 
 <!-- conference-classification:end -->
