@@ -936,5 +936,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization](../../conferences/cvpr-2026/cards.md#paper-directfisheye-gs)
 - [Choreographing a World of Dynamic Objects](../../conferences/cvpr-2026/cards.md#paper-chord)
 - [Spk2VidNet: A Hierarchical Recurrent Architecture for High-Fidelity Video Reconstruction from Long Spike-Camera Streams](../../conferences/cvpr-2026/cards.md#paper-spk2vidnet)
+- [Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-commutator-zero-diffusion-preview)
+- [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](../../conferences/cvpr-2026/cards.md#paper-catalyst4d)
+- [Unique Lives, Shared World: Learning from Single-Life Videos](../../conferences/cvpr-2026/cards.md#paper-single-life-geometry)
+- [UniComp: Rethinking Video Compression Through Informational Uniqueness](../../conferences/cvpr-2026/cards.md#paper-unicomp)
+- [AD-GBC: Anisotropic Granular-Ball Skip-Connection Refiner for UNet-Based Medical Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-ad-gbc)
+- [White-Balance First, Adjust Later: Cross-Camera Color Constancy via Vision-Language Evaluation](../../conferences/cvpr-2026/cards.md#paper-vlm-cc)
+- [TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery](../../conferences/cvpr-2026/cards.md#paper-talon)
+- [REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-reartgs-plus)
 
 <!-- conference-classification:end -->

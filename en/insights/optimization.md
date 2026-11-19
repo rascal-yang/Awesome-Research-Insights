@@ -671,5 +671,6 @@ Gradient updates, parameterization, and optimization dynamics.
 ## CVPR 2026 (provisional)
 
 - [DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization](../../conferences/cvpr-2026/cards.md#paper-directfisheye-gs)
+- [Beyond Euclidean Gossip: KL-Barycentric Consensus on Heterogeneous and Imbalanced Images](../../conferences/cvpr-2026/cards.md#paper-kl-barycentric-consensus)
 
 <!-- conference-classification:end -->

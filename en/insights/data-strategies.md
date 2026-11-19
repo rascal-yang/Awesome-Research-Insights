@@ -357,4 +357,8 @@ Data selection, annotation, augmentation, and sampling.
 - [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](../../conferences/neurips-2026/cards-0013.md#paper-153215)
 - [XMNoise2Clean: Cross-Modal Denoising Under Sparse Data](../../conferences/neurips-2026/cards-0013.md#paper-151207)
 
+## CVPR 2026 (provisional)
+
+- [Unique Lives, Shared World: Learning from Single-Life Videos](../../conferences/cvpr-2026/cards.md#paper-single-life-geometry)
+
 <!-- conference-classification:end -->

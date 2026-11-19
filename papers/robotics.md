@@ -840,4 +840,8 @@
 - [WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation](../conferences/neurips-2026/cards-0013.md#paper-150851)
 - [Zero-Shot Instruction Following in RL via Structured LTL Representations](../conferences/neurips-2026/cards-0013.md#paper-150080)
 
+## CVPR 2026（暂收录）
+
+- [HybridDriveVLA: Vision-Language-Action Model with Visual CoT reasoning and ToT Evaluation for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-hybriddrivevla)
+
 <!-- conference-classification:end -->

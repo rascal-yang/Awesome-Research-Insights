@@ -734,4 +734,8 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry](../../conferences/neurips-2026/cards-0013.md#paper-149004)
 - [Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor’s Internal States](../../conferences/neurips-2026/cards-0013.md#paper-153139)
 
+## CVPR 2026 (provisional)
+
+- [SenseSearch: Empowering Vision-Language Models with High-Resolution Agentic Search-Reasoning via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-sensesearch)
+
 <!-- conference-classification:end -->

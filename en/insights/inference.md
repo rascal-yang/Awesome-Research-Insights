@@ -1289,5 +1289,12 @@ Decoding, test-time adaptation, and efficient execution.
 ## CVPR 2026 (provisional)
 
 - [SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](../../conferences/cvpr-2026/cards.md#paper-season)
+- [HybridDriveVLA: Vision-Language-Action Model with Visual CoT reasoning and ToT Evaluation for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-hybriddrivevla)
+- [Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-commutator-zero-diffusion-preview)
+- [UniComp: Rethinking Video Compression Through Informational Uniqueness](../../conferences/cvpr-2026/cards.md#paper-unicomp)
+- [White-Balance First, Adjust Later: Cross-Camera Color Constancy via Vision-Language Evaluation](../../conferences/cvpr-2026/cards.md#paper-vlm-cc)
+- [Reallocating Attention Across Layers to Reduce Multimodal Hallucination](../../conferences/cvpr-2026/cards.md#paper-attention-head-reallocation)
+- [TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery](../../conferences/cvpr-2026/cards.md#paper-talon)
+- [Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization](../../conferences/cvpr-2026/cards.md#paper-quant-experts)
 
 <!-- conference-classification:end -->

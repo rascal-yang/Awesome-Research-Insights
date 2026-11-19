@@ -529,5 +529,9 @@
 ## CVPR 2026（暂收录）
 
 - [Spk2VidNet: A Hierarchical Recurrent Architecture for High-Fidelity Video Reconstruction from Long Spike-Camera Streams](../conferences/cvpr-2026/cards.md#paper-spk2vidnet)
+- [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](../conferences/cvpr-2026/cards.md#paper-catalyst4d)
+- [AD-GBC: Anisotropic Granular-Ball Skip-Connection Refiner for UNet-Based Medical Image Segmentation](../conferences/cvpr-2026/cards.md#paper-ad-gbc)
+- [REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-reartgs-plus)
+- [Efficient and High-Fidelity Omni Modality Retrieval](../conferences/cvpr-2026/cards.md#paper-omniret)
 
 <!-- conference-classification:end -->

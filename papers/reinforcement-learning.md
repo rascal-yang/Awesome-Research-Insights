@@ -664,4 +664,8 @@
 - [Why Copy Others? Insights into Social Learning from Multi-Agent Reinforcement Learning](../conferences/neurips-2026/cards-0012.md#paper-154639)
 - [WTF?! Simulation-Free Reinforcement Learning with Wasserstein-Tilted Flow Maps](../conferences/neurips-2026/cards-0013.md#paper-150454)
 
+## CVPR 2026（暂收录）
+
+- [Cloning Deterministic Worlds: The Critical Role of Latent Geometry in Long-Horizon World Models](../conferences/cvpr-2026/cards.md#paper-grwm-latent-geometry)
+
 <!-- conference-classification:end -->

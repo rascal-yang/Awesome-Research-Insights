@@ -852,5 +852,13 @@ Learning across modalities such as images, text, audio, and video.
 - [SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](../../conferences/cvpr-2026/cards.md#paper-season)
 - [QUANTIPHY: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-quantiphy)
 - [CompBench: Benchmarking Complex Instruction-guided Image Editing](../../conferences/cvpr-2026/cards.md#paper-compbench)
+- [GT-SVJ: Generative-Transformer-Based Self-Supervised Video Judge For Efficient Video Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-gt-svj)
+- [Quantized Residuals to Continuous Prompts for Few-Shot Class Incremental Learning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-qr-prompt)
+- [Reallocating Attention Across Layers to Reduce Multimodal Hallucination](../../conferences/cvpr-2026/cards.md#paper-attention-head-reallocation)
+- [PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-panoenv)
+- [Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-etc)
+- [SenseSearch: Empowering Vision-Language Models with High-Resolution Agentic Search-Reasoning via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-sensesearch)
+- [Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization](../../conferences/cvpr-2026/cards.md#paper-quant-experts)
+- [Efficient and High-Fidelity Omni Modality Retrieval](../../conferences/cvpr-2026/cards.md#paper-omniret)
 
 <!-- conference-classification:end -->

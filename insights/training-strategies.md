@@ -871,5 +871,10 @@
 - [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](../conferences/cvpr-2026/cards.md#paper-ecosplat)
 - [Choreographing a World of Dynamic Objects](../conferences/cvpr-2026/cards.md#paper-chord)
 - [Continual Distillation of Teachers from Different Domains](../conferences/cvpr-2026/cards.md#paper-se2d)
+- [GT-SVJ: Generative-Transformer-Based Self-Supervised Video Judge For Efficient Video Reward Modeling](../conferences/cvpr-2026/cards.md#paper-gt-svj)
+- [Cloning Deterministic Worlds: The Critical Role of Latent Geometry in Long-Horizon World Models](../conferences/cvpr-2026/cards.md#paper-grwm-latent-geometry)
+- [Quantized Residuals to Continuous Prompts for Few-Shot Class Incremental Learning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-qr-prompt)
+- [PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-panoenv)
+- [Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models](../conferences/cvpr-2026/cards.md#paper-etc)
 
 <!-- conference-classification:end -->
