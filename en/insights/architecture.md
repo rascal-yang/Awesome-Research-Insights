@@ -577,5 +577,7 @@ Model-wide design and information flow.
 - [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](../../conferences/cvpr-2026/cards.md#paper-llada-v-attention-mask-tradeoff)
 - [LiDAR Prompted Spatio-Temporal Multi-View Stereo for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-drivemvs)
 - [CrackSSM: Reviving SSMs for Crack Segmentation via Dynamic Scanning](../../conferences/cvpr-2026/cards.md#paper-crackssm-dynamic-scan)
+- [Unified Camera Positional Encoding for Controlled Video Generation](../../conferences/cvpr-2026/cards.md#paper-unified-camera-positional-encoding)
+- [Rethinking Intermediate Representation for VLM-based Robot Manipulation](../../conferences/cvpr-2026/cards.md#paper-seam)
 
 <!-- conference-classification:end -->

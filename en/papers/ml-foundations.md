@@ -2298,5 +2298,6 @@ General learning methods, optimization, learning theory, and inference.
 - [Make it SING: Analyzing Semantic Invariants in Classifiers](../../conferences/cvpr-2026/cards.md#paper-sing-classifier-invariants)
 - [MOMO: Mars Orbital MOdel Foundation Model for Mars Orbital Applications](../../conferences/cvpr-2026/cards.md#paper-momo-validation-loss-checkpoint-alignment)
 - [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](../../conferences/cvpr-2026/cards.md#paper-bidirectional-wavelet-model-scaling)
+- [Revisiting Unknowns: Towards Effective and Efficient Open-Set Active Learning](../../conferences/cvpr-2026/cards.md#paper-e2oal)
 
 <!-- conference-classification:end -->

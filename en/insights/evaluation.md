@@ -1428,5 +1428,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [PRISM: Prototype-based Reasoning with Inter-modal Semantic Mining for Interpretable Image Recognition](../../conferences/cvpr-2026/cards.md#paper-prism-semantic-prototypes)
 - [Event Structural Valley: A Unified Theoretical and Practical Framework for Event Camera Autofocus](../../conferences/cvpr-2026/cards.md#paper-event-structural-valley)
 - [AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-ava-bench-atomic-abilities)
+- [Unstitching the Chimera: Frame-Level Risk and Train-Free Mitigation for Video Hallucination](../../conferences/cvpr-2026/cards.md#paper-chimera-temporal-risk)
 
 <!-- conference-classification:end -->

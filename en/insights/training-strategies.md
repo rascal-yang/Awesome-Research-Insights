@@ -931,5 +931,8 @@ Training schedules, curricula, and task or stage composition.
 - [MOMO: Mars Orbital MOdel Foundation Model for Mars Orbital Applications](../../conferences/cvpr-2026/cards.md#paper-momo-validation-loss-checkpoint-alignment)
 - [LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-longvideo-r1)
 - [Zero-Shot Image Denoising via Hybrid Prior-Guided Pseudo Sample Generation](../../conferences/cvpr-2026/cards.md#paper-zs-hpd)
+- [ProM3E: Probabilistic Masked MultiModal Embedding Model for Ecology](../../conferences/cvpr-2026/cards.md#paper-prom3e)
+- [Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-mvc-zigal)
+- [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](../../conferences/cvpr-2026/cards.md#paper-steph-sparse-task-mixup)
 
 <!-- conference-classification:end -->

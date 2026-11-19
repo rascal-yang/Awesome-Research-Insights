@@ -1036,5 +1036,13 @@
 - [Zero-Shot Image Denoising via Hybrid Prior-Guided Pseudo Sample Generation](../conferences/cvpr-2026/cards.md#paper-zs-hpd)
 - [MeshFlow: Efficient Artistic Mesh Generation via MeshVAE and Flow-based Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-meshflow)
 - [CrackSSM: Reviving SSMs for Crack Segmentation via Dynamic Scanning](../conferences/cvpr-2026/cards.md#paper-crackssm-dynamic-scan)
+- [MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-moeclip-expert-diversity)
+- [Rectifying Latent Space for Generative Single-Image Reflection Removal](../conferences/cvpr-2026/cards.md#paper-reflection-equivariant-latents)
+- [Refracting Reality: Generating Images with Realistic Transparent Objects](../conferences/cvpr-2026/cards.md#paper-physical-refraction-generation)
+- [Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-stochastic-gaussian-raytracing)
+- [Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ralu-edge-aware-latent-upsampling)
+- [Unified Camera Positional Encoding for Controlled Video Generation](../conferences/cvpr-2026/cards.md#paper-unified-camera-positional-encoding)
+- [Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-mvc-zigal)
+- [Learning Diffeomorphism for Medical Image Registration with Time-Embedded Architectures Using Semigroup Regularization](../conferences/cvpr-2026/cards.md#paper-sgdir)
 
 <!-- conference-classification:end -->

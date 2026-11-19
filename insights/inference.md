@@ -1330,5 +1330,11 @@
 - [TRM-VLA: Temporal-Aware Chain-of-Thought Reasoning and Memorization for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-trm-vla)
 - [C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion](../conferences/cvpr-2026/cards.md#paper-c-genreg)
 - [ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding](../conferences/cvpr-2026/cards.md#paper-remora-compressed-motion)
+- [Refracting Reality: Generating Images with Realistic Transparent Objects](../conferences/cvpr-2026/cards.md#paper-physical-refraction-generation)
+- [Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ralu-edge-aware-latent-upsampling)
+- [Driving on Registers](../conferences/cvpr-2026/cards.md#paper-drivor-camera-registers)
+- [TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery](../conferences/cvpr-2026/cards.md#paper-tokentrace)
+- [NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration](../conferences/cvpr-2026/cards.md#paper-nanosd-latency-aware-distillation)
+- [MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-mad-modality-adaptive-decoding)
 
 <!-- conference-classification:end -->

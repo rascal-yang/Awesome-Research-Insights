@@ -677,5 +677,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization](../../conferences/cvpr-2026/cards.md#paper-generalized-cvo)
 - [MHopReg: Efficient Hierarchical Multi-Hop Graph Search for Point Cloud Registration](../../conferences/cvpr-2026/cards.md#paper-mhopreg)
 - [Self-Diffusion Driven Blind Imaging](../../conferences/cvpr-2026/cards.md#paper-deblursdi-blind-self-diffusion)
+- [Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-stochastic-gaussian-raytracing)
 
 <!-- conference-classification:end -->

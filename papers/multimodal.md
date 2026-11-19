@@ -929,5 +929,12 @@
 - [When Local Rules Create Global Order: Self-Organized Representation Learning for Latent Diffusion Models](../conferences/cvpr-2026/cards.md#paper-sorl-latent-diffusion)
 - [ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding](../conferences/cvpr-2026/cards.md#paper-remora-compressed-motion)
 - [UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking](../conferences/cvpr-2026/cards.md#paper-unils)
+- [Unstitching the Chimera: Frame-Level Risk and Train-Free Mitigation for Video Hallucination](../conferences/cvpr-2026/cards.md#paper-chimera-temporal-risk)
+- [ProM3E: Probabilistic Masked MultiModal Embedding Model for Ecology](../conferences/cvpr-2026/cards.md#paper-prom3e)
+- [MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-moe-grpo-routing)
+- [TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery](../conferences/cvpr-2026/cards.md#paper-tokentrace)
+- [Twin-T & TwintVQA: A Reliable Structure-Detail Separating VLM and a Comprehensive Benchmark for Chart and Table Tasks](../conferences/cvpr-2026/cards.md#paper-twin-t-structure-detail)
+- [NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration](../conferences/cvpr-2026/cards.md#paper-nanosd-latency-aware-distillation)
+- [MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-mad-modality-adaptive-decoding)
 
 <!-- conference-classification:end -->

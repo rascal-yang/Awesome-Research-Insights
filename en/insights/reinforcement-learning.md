@@ -742,5 +742,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-d2-align)
 - [PointThinker: Point-Incentivized Parallel Thinking for Multimodal Large Language Model](../../conferences/cvpr-2026/cards.md#paper-pointthinker-pointwise-credit)
 - [NIL: No-data Imitation Learning](../../conferences/cvpr-2026/cards.md#paper-no-data-imitation-learning)
+- [MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-moe-grpo-routing)
 
 <!-- conference-classification:end -->

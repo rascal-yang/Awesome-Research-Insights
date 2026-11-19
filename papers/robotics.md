@@ -867,5 +867,7 @@
 - [TRM-VLA: Temporal-Aware Chain-of-Thought Reasoning and Memorization for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-trm-vla)
 - [Seeing without Pixels: Perception from Camera Trajectories](../conferences/cvpr-2026/cards.md#paper-camformer)
 - [NIL: No-data Imitation Learning](../conferences/cvpr-2026/cards.md#paper-no-data-imitation-learning)
+- [Rethinking Intermediate Representation for VLM-based Robot Manipulation](../conferences/cvpr-2026/cards.md#paper-seam)
+- [Driving on Registers](../conferences/cvpr-2026/cards.md#paper-drivor-camera-registers)
 
 <!-- conference-classification:end -->

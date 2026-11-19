@@ -402,5 +402,6 @@ Machine learning for physics, medicine, biology, and engineering.
 
 - [Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-aleatoric-uncertainty-spectrum)
 - [Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation](../../conferences/cvpr-2026/cards.md#paper-frequency-prompt-multi-rater-segmentation)
+- [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](../../conferences/cvpr-2026/cards.md#paper-steph-sparse-task-mixup)
 
 <!-- conference-classification:end -->

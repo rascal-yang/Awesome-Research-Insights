@@ -369,5 +369,6 @@ Data selection, annotation, augmentation, and sampling.
 - [JRM: Joint Reconstruction Model for Multiple Objects without Alignment](../../conferences/cvpr-2026/cards.md#paper-jrm-negative-support-reconstruction)
 - [UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking](../../conferences/cvpr-2026/cards.md#paper-unils)
 - [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](../../conferences/cvpr-2026/cards.md#paper-bidirectional-wavelet-model-scaling)
+- [Revisiting Unknowns: Towards Effective and Efficient Open-Set Active Learning](../../conferences/cvpr-2026/cards.md#paper-e2oal)
 
 <!-- conference-classification:end -->

@@ -387,5 +387,9 @@ Objectives, auxiliary supervision, and regularization.
 - [What Is It Like to Be a Noise? An Entropy-based Gaussian Noise Regularization for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-entropy-based-gaussianity)
 - [Linking Perception, Confidence and Accuracy in MLLMs](../../conferences/cvpr-2026/cards.md#paper-confidence-driven-visual-reasoning)
 - [When Local Rules Create Global Order: Self-Organized Representation Learning for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-sorl-latent-diffusion)
+- [MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-moeclip-expert-diversity)
+- [Rectifying Latent Space for Generative Single-Image Reflection Removal](../../conferences/cvpr-2026/cards.md#paper-reflection-equivariant-latents)
+- [Learning Diffeomorphism for Medical Image Registration with Time-Embedded Architectures Using Semigroup Regularization](../../conferences/cvpr-2026/cards.md#paper-sgdir)
+- [Twin-T & TwintVQA: A Reliable Structure-Detail Separating VLM and a Comprehensive Benchmark for Chart and Table Tasks](../../conferences/cvpr-2026/cards.md#paper-twin-t-structure-detail)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 328 篇，其中 237 篇暂收录、91 篇排除，另有 3,714 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 358 篇，其中 256 篇暂收录、102 篇排除，另有 3,684 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -243,3 +243,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 328 �
 | 机器人学 | 强化学习 | [NIL: No-data Imitation Learning](cards.md#paper-no-data-imitation-learning) | 缺少动作捕捉演示时，可用合成视频作为视觉奖励参照，由仿真器负责约束物理可行性。 |
 | 计算机视觉 | 模型架构 | [CrackSSM: Reviving SSMs for Crack Segmentation via Dynamic Scanning](cards.md#paper-crackssm-dynamic-scan) | 对细长结构使用视觉状态空间模型时，依当前样本方向响应改变序列顺序。 |
 | 机器学习基础 | 训练与数据策略 | [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](cards.md#paper-bidirectional-wavelet-model-scaling) | 缩放预训练模型时，把同层权重当作多分辨率信号，用小波重采样初始化大小两种目标。 |
+| 计算机视觉 | 损失函数 | [MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection](cards.md#paper-moeclip-expert-diversity) | 逐 patch 的 LoRA 专家出现冗余时，可分别消融输入子空间正交化和输出等角约束。见表 2。 |
+| 计算机视觉 | 损失函数 | [Rectifying Latent Space for Generative Single-Image Reflection Removal](cards.md#paper-reflection-equivariant-latents) | 用生成模型分离叠加成像时，应检测编码器能否保留物理混合关系，并与仅重建微调比较。见表 4。 |
+| 多模态学习 | 评测与诊断 | [Unstitching the Chimera: Frame-Level Risk and Train-Free Mitigation for Video Hallucination](cards.md#paper-chimera-temporal-risk) | 视频问答可单独检测把本来存在但互不相干的片段拼成同一叙事的失效，并比较先分段再校准的顺序。见表 2–3。 |
+| 计算机视觉 | 推理策略 | [Refracting Reality: Generating Images with Realistic Transparent Objects](cards.md#paper-physical-refraction-generation) | 当图像生成受可计算成像方程约束时，可以在去噪过程中显式同步图内和旁视角的同源像素，并分开检查物理与感知指标。见表 2。 |
+| 计算机视觉 | 优化 | [Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting](cards.md#paper-stochastic-gaussian-raytracing) | 训练可微高斯光追时，可用每条光线的无偏随机梯度替代确定性遍历排序，并对照时间与画质。见表 1–2。 |
+| 计算机视觉 | 推理策略 | [Training-free Mixed-Resolution Latent Upsampling for Spatially Accelerated Diffusion Transformers](cards.md#paper-ralu-edge-aware-latent-upsampling) | 扩散空间加速应分别处理边缘混叠和上采样后噪声时刻失配；对比不同区域预算和噪声匹配。见图 8、表 3。 |
+| 多模态学习 | 训练策略 | [ProM3E: Probabilistic Masked MultiModal Embedding Model for Ecology](cards.md#paper-prom3e) | 缺失模态不必重建原始信号，可学习潜表示分布并以检索对照判断融合哪些模态。 |
+| 计算机视觉 | 模型架构 | [Unified Camera Positional Encoding for Controlled Video Generation](cards.md#paper-unified-camera-positional-encoding) | 以相对射线表达相机姿态、内参和镜头畸变，并将初始绝对朝向单独编码。 |
+| 计算机视觉 | 训练策略 | [Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning](cards.md#paper-mvc-zigal) | 少步多视图生成的奖励要同时测视图保真和跨视一致，可在同一采样预算验证约束取舍。 |
+| 机器人学 | 模型架构 | [Rethinking Intermediate Representation for VLM-based Robot Manipulation](cards.md#paper-seam) | 在高层 VLM 和机器执行之间分别定义操作词汇与组合语法，检验新任务重组是否可执行。 |
+| 计算机视觉 | 损失函数 | [Learning Diffeomorphism for Medical Image Registration with Time-Embedded Architectures Using Semigroup Regularization](cards.md#paper-sgdir) | 连续形变用时间半群一致性约束取代显式积分，并按正则强度验拓扑与配准精度。 |
+| 机器学习基础 | 训练与数据策略 | [Revisiting Unknowns: Towards Effective and Efficient Open-Set Active Learning](cards.md#paper-e2oal) | 开放集主动学习中保存人工确认的未知样本，用其校准查询池并训练辅助类别头。 |
+| 机器人学 | 推理优化 | [Driving on Registers](cards.md#paper-drivor-camera-registers) | 多相机行为模型让相机感知的寄存器 token 先压缩视图，再让同一紧凑表示服务候选与打分。 |
+| 多模态学习 | 强化学习 | [MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models](cards.md#paper-moe-grpo-routing) | 稀疏多模态专家中，用奖励反馈探索专家组合，并按模态约束不必要的探索。 |
+| 科学与医学 AI | 迁移与泛化 | [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](cards.md#paper-steph-sparse-task-mixup) | 目标数据少且已有多个任务模型时，先混合源与目标的任务向量，再稀疏选择贡献。 |
+| 多模态学习 | 条件生成 | [TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery](cards.md#paper-tokentrace) | 生成图的多概念归因需要按查询解码，先区分概念级可验证性与整图水印存在性。 |
+| 多模态学习 | 损失函数与优化 | [Twin-T & TwintVQA: A Reliable Structure-Detail Separating VLM and a Comprehensive Benchmark for Chart and Table Tasks](cards.md#paper-twin-t-structure-detail) | 训练图表问答时，把布局理解与数字细节分开建模，并在偏好目标中显式核对数值和关键词。 |
+| 多模态学习 | 推理优化 | [NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration](cards.md#paper-nanosd-latency-aware-distillation) | 边缘扩散部署时把 VAE 和去噪器共同蒸馏，并用目标硬件实测延迟选结构。 |
+| 多模态学习 | 推理优化 | [MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models](cards.md#paper-mad-modality-adaptive-decoding) | 音视频问答先估计问题需要哪些模态，再按该概率调整不同解码分支。 |
