@@ -1455,5 +1455,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration](../../conferences/cvpr-2026/cards.md#paper-spectrum-diffusion-forecast)
 - [EDGS: Eliminating Densification for Efficient Convergence of 3DGS](../../conferences/cvpr-2026/cards.md#paper-edgs-dense-initialization)
 - [When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-numina)
+- [DynBridge: Bridging Imagination and Control through Interaction Dynamics for Robot Manipulation](../../conferences/cvpr-2026/cards.md#paper-dynbridge-shared-interaction-dynamics)
+- [BulletTime: Decoupled Control of Time and Camera Pose for Video Generation](../../conferences/cvpr-2026/cards.md#paper-bullettime-independent-world-time-camera-control)
+- [Adaptive Action Chunking at Inference-time for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-aac-action-entropy-adaptive-horizon)
+- [Render-to-Adapt: Unsupervised Personal Adaptation for Gaze Estimation](../../conferences/cvpr-2026/cards.md#paper-render-to-adapt)
 
 <!-- conference-classification:end -->

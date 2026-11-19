@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,287 篇，其中 820 篇暂收录、467 篇排除，另有 2,755 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,317 篇，其中 839 篇暂收录、478 篇排除，另有 2,725 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -826,3 +826,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,287
 | 多模态学习 | 评测与分析 | [Think 360deg: Beyond Depth: Evaluating the Width-centric Reasoning Capability of MLLMs](cards.md#paper-think360-reasoning-width) | 评估多模态搜索时除了推理步数，还控制需要探索的并行候选和回溯。 |
 | 计算机视觉 | 自监督学习 | [Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection](cards.md#paper-pgbl-boundary-anomaly-synthesis) | 正常类别有多个模式时，以多原型建模，并在簇边界构造难伪异常。 |
 | 计算机视觉 | 评测与分析 | [ORBIT: Benchmarking SfM in the Wild with 360deg Video](cards.md#paper-orbit-panoramic-pose-reference) | 要低成本获得窄视场视频难例的位姿参照，可用同一全景视频先估轨迹再进行裁剪重投影。 |
+| 多模态学习 | 数据增强 | [VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](cards.md#paper-videonet-single-action-filtering) | 训练细粒度视频识别时应对照按单一动作净化与仅按字幕定位扩样，分开测数据量和任务准确率。见表 5。 |
+| 机器人学 | 规划与控制 | [DynBridge: Bridging Imagination and Control through Interaction Dynamics for Robot Manipulation](cards.md#paper-dynbridge-shared-interaction-dynamics) | 将未来预测用于动作时，可共享对象位移与交互表征，比较面向控制的变化模型和仅预测画面或轨迹的方案。见第 4.2 节、表 1。 |
+| 多模态学习 | 评估与诊断 | [Deeper Thought, Weaker Aim: Understanding and Mitigating Perceptual Impairment during Reasoning in Multimodal Large Language Models](cards.md#paper-vrga-reasoning-visual-attention-dispersion) | 长推理若降低视觉题表现，可用空间聚焦而非只用图像注意总量定位关键头，再做遮蔽对照。见表 2。 |
+| 生成模型 | 生成建模 | [BulletTime: Decoupled Control of Time and Camera Pose for Video Generation](cards.md#paper-bullettime-independent-world-time-camera-control) | 视频世界模型可将世界时间与相机轨迹独立采样和输入，并单独验证时间控制、位置编码与归一化。见表 4、5。 |
+| 机器人学 | 规划与控制 | [Adaptive Action Chunking at Inference-time for Vision-Language-Action Models](cards.md#paper-aac-action-entropy-adaptive-horizon) | 视觉动作控制可用多个候选动作块的分歧决定执行多久后重新观测，同时测选样开销。见表 3、4。 |
+| 多模态学习 | 模型融合 | [Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models](cards.md#paper-chain-of-merging-activation-matched-layers) | 融合语言模型与视觉语言模型时，可按输入的层激活结构选配层，再决定每层合并权重。见第 3.3、3.4 节与表 1。 |
+| 计算机视觉 | 数据增强 | [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](cards.md#paper-soc-label-preserving-object-composition) | 需要准确掩膜的合成训练可从独立对象片段与可控布局出发，再做保标签的外观协调。见表 4。 |
+| 多模态学习 | 训练策略 | [WeaveTime: Streaming from Earlier Frames into Emergent Memory in VideoLLMs](cards.md#paper-weavetime) | 先用打乱帧对照诊断时序盲区，再对在线缓存分别处理当前帧和历史证据。 |
+| 计算机视觉 | 数据增强 | [Towards Generalized Multimodal Homography Estimation](cards.md#paper-multimodal-homography-synthesis) | 没有目标传感器配对监督时，可保留几何结构并合成外观差异，再在真实未知模态上测试。 |
+| 机器人学 | 训练策略 | [FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation](cards.md#paper-flare-retry-reset) | 按错误是否能从现有环境状态继续，把可重试偏差和需重置的失败分开收集。 |
+| 计算机视觉 | 测试时适应与推理 | [Render-to-Adapt: Unsupervised Personal Adaptation for Gaze Estimation](cards.md#paper-render-to-adapt) | 个体适配缺标注时，可从模型预测渲染对照，再按观测局部一致性优化，并报告个体退化。 |
+| 多模态学习 | 强化学习 | [VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](cards.md#paper-videoauto-r1) | 训练时同时奖励首答与复核答案，推理按首答置信度决定是否继续长链。 |
+| 智能体 | 自动化工作流 | [ReFAct: Empowering Multimodal Web Agents with Visual and Context Focusing](cards.md#paper-refact) | 网页视觉噪声大时，代理应能聚焦判断相关区域，并将暂时无关信息放入可回读记忆。 |
+| 计算机视觉 | 表示学习 | [SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation](cards.md#paper-sharptimegs-lifespan-modulation) | 动态场景用平顶时域可见性记录图元何时存在，并以寿命调节运动先验。 |
+| 多模态学习 | 表示学习 | [Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation](cards.md#paper-meanflow-discriminative-text) | 把一步生图扩展到开放文本时，单独测条件的区分性，而不只扩大文本编码器。 |
+| 计算机视觉 | 可解释性与诊断 | [FILTR: Extracting Topological Features from Pretrained 3D Models](cards.md#paper-filtr-topology-probes) | 几何任务表现好也应探测冻结点云特征是否包含需要的拓扑环和空腔。 |
+| 机器人学 | 表示学习 | [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](cards.md#paper-msgnav-visual-scene-graph-edges) | 导航场景图的关系边保留可重查图像，决策终点时另检查目标可见性。 |
+| 机器学习基础 | 评测与分析 | [A Combination of Noise and Bilateral Filters Achieve Supralinear and Scalable Adversarial Robustness in CNNs](cards.md#paper-noise-bilateral-defense-synergy) | 鲁棒视觉防御可比较随机化和保边去噪的组合收益，单项增益不足以预测叠加。 |
+| 计算机视觉 | 知识蒸馏 | [Distilling Quasi-Conformal Mapping: A Generalizable and Efficient Solution for Wide-Angle Correction](cards.md#paper-qdwc-geometric-teacher-distillation) | 昂贵几何求解器无需人工标签也可当教师，蒸馏预测连续校正流。 |

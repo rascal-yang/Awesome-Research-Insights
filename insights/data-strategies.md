@@ -404,5 +404,8 @@
 - [IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework](../conferences/cvpr-2026/cards.md#paper-introsvg-render-feedback)
 - [Stitch-a-Demo: Creating Video Demonstrations from Multistep Descriptions](../conferences/cvpr-2026/cards.md#paper-stitch-a-demo-coherence-hard-negatives)
 - [From Panel to Pixel: Zoom-In Vision-Language Pretraining from Biomedical Scientific Literature](../conferences/cvpr-2026/cards.md#paper-panel2patch-hierarchical-figure-supervision)
+- [VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](../conferences/cvpr-2026/cards.md#paper-videonet-single-action-filtering)
+- [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](../conferences/cvpr-2026/cards.md#paper-soc-label-preserving-object-composition)
+- [Towards Generalized Multimodal Homography Estimation](../conferences/cvpr-2026/cards.md#paper-multimodal-homography-synthesis)
 
 <!-- conference-classification:end -->

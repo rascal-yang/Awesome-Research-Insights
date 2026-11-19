@@ -1232,5 +1232,11 @@
 - [EDGS: Eliminating Densification for Efficient Convergence of 3DGS](../conferences/cvpr-2026/cards.md#paper-edgs-dense-initialization)
 - [Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-pgbl-boundary-anomaly-synthesis)
 - [ORBIT: Benchmarking SfM in the Wild with 360deg Video](../conferences/cvpr-2026/cards.md#paper-orbit-panoramic-pose-reference)
+- [Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](../conferences/cvpr-2026/cards.md#paper-soc-label-preserving-object-composition)
+- [Towards Generalized Multimodal Homography Estimation](../conferences/cvpr-2026/cards.md#paper-multimodal-homography-synthesis)
+- [Render-to-Adapt: Unsupervised Personal Adaptation for Gaze Estimation](../conferences/cvpr-2026/cards.md#paper-render-to-adapt)
+- [SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation](../conferences/cvpr-2026/cards.md#paper-sharptimegs-lifespan-modulation)
+- [FILTR: Extracting Topological Features from Pretrained 3D Models](../conferences/cvpr-2026/cards.md#paper-filtr-topology-probes)
+- [Distilling Quasi-Conformal Mapping: A Generalizable and Efficient Solution for Wide-Angle Correction](../conferences/cvpr-2026/cards.md#paper-qdwc-geometric-teacher-distillation)
 
 <!-- conference-classification:end -->

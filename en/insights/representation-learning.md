@@ -624,5 +624,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning](../../conferences/cvpr-2026/cards.md#paper-cosettle-temporal-consistency-semantic-separability)
 - [PQDT: Pseudo-Query Dual Transformer for Robust Point Cloud Restoration](../../conferences/cvpr-2026/cards.md#paper-pqdt-pseudo-query-spatial-restoration)
 - [MeshRipple: Structured Autoregressive Generation of Artist-Meshes](../../conferences/cvpr-2026/cards.md#paper-meshripple-frontier-topology-tokenization)
+- [SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation](../../conferences/cvpr-2026/cards.md#paper-sharptimegs-lifespan-modulation)
+- [Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation](../../conferences/cvpr-2026/cards.md#paper-meanflow-discriminative-text)
+- [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](../../conferences/cvpr-2026/cards.md#paper-msgnav-visual-scene-graph-edges)
 
 <!-- conference-classification:end -->

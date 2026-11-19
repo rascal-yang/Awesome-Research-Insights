@@ -2435,5 +2435,6 @@
 - [See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles](../conferences/cvpr-2026/cards.md#paper-star-gui-state-aware)
 - [OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models](../conferences/cvpr-2026/cards.md#paper-os-oracle-consistent-critics)
 - [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-clivis-cognitive-map)
+- [ReFAct: Empowering Multimodal Web Agents with Visual and Context Focusing](../conferences/cvpr-2026/cards.md#paper-refact)
 
 <!-- conference-classification:end -->

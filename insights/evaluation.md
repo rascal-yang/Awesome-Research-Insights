@@ -1489,5 +1489,8 @@
 - [Failure Modes for Deep Learning-Based Online Mapping: How to Measure and Address Them](../conferences/cvpr-2026/cards.md#paper-online-mapping-failure-mode-controls)
 - [Think 360deg: Beyond Depth: Evaluating the Width-centric Reasoning Capability of MLLMs](../conferences/cvpr-2026/cards.md#paper-think360-reasoning-width)
 - [ORBIT: Benchmarking SfM in the Wild with 360deg Video](../conferences/cvpr-2026/cards.md#paper-orbit-panoramic-pose-reference)
+- [Deeper Thought, Weaker Aim: Understanding and Mitigating Perceptual Impairment during Reasoning in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-vrga-reasoning-visual-attention-dispersion)
+- [FILTR: Extracting Topological Features from Pretrained 3D Models](../conferences/cvpr-2026/cards.md#paper-filtr-topology-probes)
+- [A Combination of Noise and Bilateral Filters Achieve Supralinear and Scalable Adversarial Robustness in CNNs](../conferences/cvpr-2026/cards.md#paper-noise-bilateral-defense-synergy)
 
 <!-- conference-classification:end -->

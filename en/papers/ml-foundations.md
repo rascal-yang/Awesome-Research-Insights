@@ -2389,5 +2389,7 @@ General learning methods, optimization, learning theory, and inference.
 - [MeshRipple: Structured Autoregressive Generation of Artist-Meshes](../../conferences/cvpr-2026/cards.md#paper-meshripple-frontier-topology-tokenization)
 - [Progressive Neural Architecture Generation](../../conferences/cvpr-2026/cards.md#paper-progressive-architecture-generation)
 - [Critical Patch-Aware Sparse Prompting with Decoupled Training for Continual Learning on the Edge](../../conferences/cvpr-2026/cards.md#paper-cps-prompt-edge-continual)
+- [BulletTime: Decoupled Control of Time and Camera Pose for Video Generation](../../conferences/cvpr-2026/cards.md#paper-bullettime-independent-world-time-camera-control)
+- [A Combination of Noise and Bilateral Filters Achieve Supralinear and Scalable Adversarial Robustness in CNNs](../../conferences/cvpr-2026/cards.md#paper-noise-bilateral-defense-synergy)
 
 <!-- conference-classification:end -->

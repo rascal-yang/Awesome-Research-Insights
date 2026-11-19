@@ -1052,5 +1052,8 @@ Training schedules, curricula, and task or stage composition.
 - [Shape-of-You: Fused Gromov-Wasserstein Optimal Transport for Semantic Correspondence in-the-Wild](../../conferences/cvpr-2026/cards.md#paper-shape-of-you-fgw)
 - [Critical Patch-Aware Sparse Prompting with Decoupled Training for Continual Learning on the Edge](../../conferences/cvpr-2026/cards.md#paper-cps-prompt-edge-continual)
 - [Multi-Prototype Compactness and Boundary-Aware Synthesis for Unsupervised Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-pgbl-boundary-anomaly-synthesis)
+- [WeaveTime: Streaming from Earlier Frames into Emergent Memory in VideoLLMs](../../conferences/cvpr-2026/cards.md#paper-weavetime)
+- [FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-flare-retry-reset)
+- [Distilling Quasi-Conformal Mapping: A Generalizable and Efficient Solution for Wide-Angle Correction](../../conferences/cvpr-2026/cards.md#paper-qdwc-geometric-teacher-distillation)
 
 <!-- conference-classification:end -->

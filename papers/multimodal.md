@@ -1138,5 +1138,11 @@
 - [Text-Image Conditioned 3D Generation](../conferences/cvpr-2026/cards.md#paper-tigon-conditioned-3d)
 - [Soft Modality-Guided Expert Specialization in MoE-VLMs](../conferences/cvpr-2026/cards.md#paper-smoes-soft-modality-routing)
 - [Think 360deg: Beyond Depth: Evaluating the Width-centric Reasoning Capability of MLLMs](../conferences/cvpr-2026/cards.md#paper-think360-reasoning-width)
+- [VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](../conferences/cvpr-2026/cards.md#paper-videonet-single-action-filtering)
+- [Deeper Thought, Weaker Aim: Understanding and Mitigating Perceptual Impairment during Reasoning in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-vrga-reasoning-visual-attention-dispersion)
+- [Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-chain-of-merging-activation-matched-layers)
+- [WeaveTime: Streaming from Earlier Frames into Emergent Memory in VideoLLMs](../conferences/cvpr-2026/cards.md#paper-weavetime)
+- [VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](../conferences/cvpr-2026/cards.md#paper-videoauto-r1)
+- [Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation](../conferences/cvpr-2026/cards.md#paper-meanflow-discriminative-text)
 
 <!-- conference-classification:end -->

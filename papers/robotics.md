@@ -935,5 +935,9 @@
 - [MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos](../conferences/cvpr-2026/cards.md#paper-mocapanything-reference-conditioned-skeleton-ik)
 - [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vlm-loc-partial-scene-node-assignment)
 - [Failure Modes for Deep Learning-Based Online Mapping: How to Measure and Address Them](../conferences/cvpr-2026/cards.md#paper-online-mapping-failure-mode-controls)
+- [DynBridge: Bridging Imagination and Control through Interaction Dynamics for Robot Manipulation](../conferences/cvpr-2026/cards.md#paper-dynbridge-shared-interaction-dynamics)
+- [Adaptive Action Chunking at Inference-time for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-aac-action-entropy-adaptive-horizon)
+- [FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-flare-retry-reset)
+- [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](../conferences/cvpr-2026/cards.md#paper-msgnav-visual-scene-graph-edges)
 
 <!-- conference-classification:end -->

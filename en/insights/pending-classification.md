@@ -794,5 +794,6 @@
 - [CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning](../../conferences/cvpr-2026/cards.md#paper-clivis-cognitive-map)
 - [FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation](../../conferences/cvpr-2026/cards.md#paper-flooddiffusion-streaming-motion-noise-schedule)
 - [Love Me, Love My Label: Rethinking the Role of Labels in Prompt Retrieval for Visual In-Context Learning](../../conferences/cvpr-2026/cards.md#paper-lapr-label-consistent-demonstration-retrieval)
+- [ReFAct: Empowering Multimodal Web Agents with Visual and Context Focusing](../../conferences/cvpr-2026/cards.md#paper-refact)
 
 <!-- conference-classification:end -->
