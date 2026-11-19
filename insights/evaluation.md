@@ -1402,5 +1402,6 @@
 ## CVPR 2026（暂收录）
 
 - [QUANTIPHY: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-quantiphy)
+- [CompBench: Benchmarking Complex Instruction-guided Image Editing](../conferences/cvpr-2026/cards.md#paper-compbench)
 
 <!-- conference-classification:end -->

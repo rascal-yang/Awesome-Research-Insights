@@ -405,4 +405,8 @@
 - [When LLM Routers Overpay: Strong-Model Over-Selection under Loose Budgets](../conferences/neurips-2026/cards-0012.md#paper-148797)
 - [Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs](../conferences/neurips-2026/cards-0012.md#paper-153354)
 
+## CVPR 2026（暂收录）
+
+- [Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking](../conferences/cvpr-2026/cards.md#paper-unikpt)
+
 <!-- conference-classification:end -->

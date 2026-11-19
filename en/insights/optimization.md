@@ -668,4 +668,8 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Why Routers Freeze: Infinite Width Learning Dynamics for Mixture of Experts](../../conferences/neurips-2026/cards-0013.md#paper-152363)
 - [Your Hypergradient is Skewed: Antithetic Neumann Estimation for Bilevel Optimization](../../conferences/neurips-2026/cards-0013.md#paper-155284)
 
+## CVPR 2026 (provisional)
+
+- [DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization](../../conferences/cvpr-2026/cards.md#paper-directfisheye-gs)
+
 <!-- conference-classification:end -->

@@ -932,5 +932,7 @@
 ## CVPR 2026（暂收录）
 
 - [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](../conferences/cvpr-2026/cards.md#paper-ecosplat)
+- [Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking](../conferences/cvpr-2026/cards.md#paper-unikpt)
+- [DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization](../conferences/cvpr-2026/cards.md#paper-directfisheye-gs)
 
 <!-- conference-classification:end -->

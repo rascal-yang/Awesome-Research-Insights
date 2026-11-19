@@ -851,5 +851,6 @@
 
 - [SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](../conferences/cvpr-2026/cards.md#paper-season)
 - [QUANTIPHY: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-quantiphy)
+- [CompBench: Benchmarking Complex Instruction-guided Image Editing](../conferences/cvpr-2026/cards.md#paper-compbench)
 
 <!-- conference-classification:end -->
