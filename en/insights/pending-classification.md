@@ -877,5 +877,7 @@
 - [Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-vpdr-variance-adaptive-prototype-privacy)
 - [MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation](../../conferences/cvpr-2026/cards.md#paper-makeanything-asymmetric-lora-procedural-steps)
 - [Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](../../conferences/cvpr-2026/cards.md#paper-online-scene-change-multiview-self-supervised-fusion)
+- [ROSE: Rotate Your Large Language Model to See](../../conferences/cvpr-2026/cards.md#paper-rose-visual-weight-space-rotations)
+- [Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation](../../conferences/cvpr-2026/cards.md#paper-imat-interactive-language-memory-tracking)
 
 <!-- conference-classification:end -->

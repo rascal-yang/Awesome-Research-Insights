@@ -816,5 +816,10 @@
 - [SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion](../conferences/cvpr-2026/cards.md#paper-spread-physical-layout-guidance)
 - [ReflexSplit: Single Image Reflection Separation via Layer Fusion-Separation](../conferences/cvpr-2026/cards.md#paper-reflexsplit-differential-separation)
 - [EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding](../conferences/cvpr-2026/cards.md#paper-embodiedsplat-online-codebook)
+- [SAMosaic3D: Modular Scene Assembly for Real-Time 3D Segment Anything](../conferences/cvpr-2026/cards.md#paper-learned-mosaic-mask-composition-3d)
+- [RigMo: Unifying Rig and Motion Learning for Generative Animation](../conferences/cvpr-2026/cards.md#paper-rigmo-rig-motion-latents)
+- [TokenLight: Precise Lighting Control in Images using Attribute Tokens](../conferences/cvpr-2026/cards.md#paper-tokenlight-continuous-light-tokens)
+- [Linking Modality Isolation in Heterogeneous Collaborative Perception](../conferences/cvpr-2026/cards.md#paper-codealign-isolated-modalities)
+- [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-dtpsr-spatial-frequency-priors)
 
 <!-- conference-classification:end -->

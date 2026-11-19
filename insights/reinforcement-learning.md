@@ -821,5 +821,6 @@
 - [Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models](../conferences/cvpr-2026/cards.md#paper-gvu-intrinsic-token-level-alignment-reward)
 - [OraPO: Oracle-educated Reinforcement Learning for Data-efficient and Factual Radiology Report Generation](../conferences/cvpr-2026/cards.md#paper-orapo-failed-rollout-supervision)
 - [SafeGRPO: Self-Rewarded Multimodal Safety Alignment via Rule-Governed Policy Optimization](../conferences/cvpr-2026/cards.md#paper-safegrpo-rule-based-checks)
+- [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-var-rl-asynchronous-stage-credit)
 
 <!-- conference-classification:end -->

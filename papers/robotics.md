@@ -1156,5 +1156,6 @@
 - [SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion](../conferences/cvpr-2026/cards.md#paper-spread-physical-layout-guidance)
 - [EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding](../conferences/cvpr-2026/cards.md#paper-embodiedsplat-online-codebook)
 - [Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](../conferences/cvpr-2026/cards.md#paper-online-scene-change-multiview-self-supervised-fusion)
+- [HandWorld: Hand-Centric Unified Video Action Generation](../conferences/cvpr-2026/cards.md#paper-handworld-shared-action-video-conditioning)
 
 <!-- conference-classification:end -->

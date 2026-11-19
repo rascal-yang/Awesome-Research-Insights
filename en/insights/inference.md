@@ -1714,5 +1714,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Retrieving Counterfactuals Improves Visual In-Context Learning](../../conferences/cvpr-2026/cards.md#paper-circles-counterfactual-demonstrations)
 - [Controllable Federated Prompt Learning at Test Time](../../conferences/cvpr-2026/cards.md#paper-cote-adaptive-federated-prompt-mixing)
 - [Group Editing: Edit Multiple Images in One Go](../../conferences/cvpr-2026/cards.md#paper-groupediting-geometric-correspondence-pseudovideo)
+- [VDFE: Difference-Aware 3D Scene Editing with Non-Intrusive Video Diffusion Priors for Multi-View Consistency and Efficiency](../../conferences/cvpr-2026/cards.md#paper-vdfe-flow-difference-regions)
+- [InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](../../conferences/cvpr-2026/cards.md#paper-inverfill-one-step-inversion)
 
 <!-- conference-classification:end -->

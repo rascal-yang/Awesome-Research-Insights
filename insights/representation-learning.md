@@ -783,5 +783,6 @@
 - [Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking](../conferences/cvpr-2026/cards.md#paper-short-long-history-missing-sensor-denoising)
 - [Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery](../conferences/cvpr-2026/cards.md#paper-analogical-text-concepts-category-discovery)
 - [Token Warping Helps MLLMs Look from Nearby Viewpoints](../conferences/cvpr-2026/cards.md#paper-backward-token-warping-nearby-viewpoints)
+- [HERO: Hierarchical Embedding-Refinement for Open-Vocabulary Temporal Sentence Grounding in Videos](../conferences/cvpr-2026/cards.md#paper-hierarchical-language-cues-open-video-grounding)
 
 <!-- conference-classification:end -->

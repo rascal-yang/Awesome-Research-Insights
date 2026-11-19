@@ -2614,5 +2614,9 @@
 - [Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context](../conferences/cvpr-2026/cards.md#paper-geometry-as-context-autoregressive-reconstruction)
 - [Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering](../conferences/cvpr-2026/cards.md#paper-cfg-rejection-accumulated-score-difference)
 - [Group Editing: Edit Multiple Images in One Go](../conferences/cvpr-2026/cards.md#paper-groupediting-geometric-correspondence-pseudovideo)
+- [Reliable Clustering Number Estimation for Contrastive Multi-View Clustering](../conferences/cvpr-2026/cards.md#paper-semantic-agreement-and-cluster-count-estimation)
+- [Expand and Prune: Maximizing Trajectory Diversity for Effective GRPO in Generative Models](../conferences/cvpr-2026/cards.md#paper-progrpo-trajectory-diversity)
+- [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-var-rl-asynchronous-stage-credit)
+- [Beyond Myopic Alignment: Lookahead Optimization for Online Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-lookahead-rehearsal-hypergradient-alignment)
 
 <!-- conference-classification:end -->

@@ -1623,5 +1623,7 @@
 - [DeepfakeImpact: A Two-Stage Benchmark with Real-World Impact in Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-deepfakeimpact-error-cost-aware-evaluation)
 - [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](../conferences/cvpr-2026/cards.md#paper-cb-sae-interpretability-steerability-audit)
 - [pH-Strips for Selective Forgetting: A Blunt but Fast Diagnostic Baseline for Machine Unlearning](../conferences/cvpr-2026/cards.md#paper-selective-forgetting-subspace-baseline)
+- [Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly](../conferences/cvpr-2026/cards.md#paper-stage-specific-spatiotemporal-assembly-puzzles)
+- [VoDaSuRe: A Large-Scale Dataset Revealing Domain Shift in Volumetric Super-Resolution](../conferences/cvpr-2026/cards.md#paper-real-resolution-versus-synthetic-downsampling-audit)
 
 <!-- conference-classification:end -->

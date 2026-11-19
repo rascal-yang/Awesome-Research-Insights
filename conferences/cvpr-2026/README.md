@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,477 篇，其中 2,203 篇暂收录、1,274 篇排除，另有 565 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,507 篇，其中 2,224 篇暂收录、1,283 篇排除，另有 535 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2209,3 +2209,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,477
 | 多模态学习 | 测试时适配 | [Controllable Federated Prompt Learning at Test Time](cards.md#paper-cote-adaptive-federated-prompt-mixing) | 部署新域时保留全局、个性化及冻结基础提示，按置信度自适应选择。 |
 | 生成模型 | 推理时筛选 | [Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering](cards.md#paper-cfg-rejection-accumulated-score-difference) | 直接用采样轨迹信号提前筛掉较差候选，省去外部奖励或完整生成。 |
 | 生成模型 | 条件生成 | [Group Editing: Edit Multiple Images in One Go](cards.md#paper-groupediting-geometric-correspondence-pseudovideo) | 将明确几何对应与视频先验结合，使多张相关图的编辑保持一致。 |
+| 多模态学习 | 表征学习 | [HERO: Hierarchical Embedding-Refinement for Open-Vocabulary Temporal Sentence Grounding in Videos](cards.md#paper-hierarchical-language-cues-open-video-grounding) | 时间接地可按语言概念粒度编码查询，测试时区分未见词汇和措辞变化。 |
+| 多模态学习 | 数据策略 | [Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision](cards.md#paper-intent-grounding-with-pixel-mask-supervision) | 可为视觉分割显式构造意图、可供性和物理问题的像素监督，而非只标物体类。 |
+| 计算机视觉 | 模型架构 | [SAMosaic3D: Modular Scene Assembly for Real-Time 3D Segment Anything](cards.md#paper-learned-mosaic-mask-composition-3d) | 在线三维实例分割可学习组合二维掩码碎片，降低只用交并比关联导致的漂移。 |
+| 多模态学习 | 评测与诊断 | [Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly](cards.md#paper-stage-specific-spatiotemporal-assembly-puzzles) | 程序视频评测可用外观相近的部件和中间装配状态，检查模型是否真正掌握步骤进度。 |
+| 多模态学习 | 数据策略 | [Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](cards.md#paper-hierarchical-workflow-graphs-instruction-data) | 原始交互示范可以先恢复动作和意图，再以任务图压缩为可供人或 agent 复用的教程。 |
+| 机器学习基础与统计 | 训练策略 | [Reliable Clustering Number Estimation for Contrastive Multi-View Clustering](cards.md#paper-semantic-agreement-and-cluster-count-estimation) | 多视图聚类可按表示差异降低不一致视图影响，同时以学习过程估计未知簇数。 |
+| 计算机视觉 | 评测与诊断 | [VoDaSuRe: A Large-Scale Dataset Revealing Domain Shift in Volumetric Super-Resolution](cards.md#paper-real-resolution-versus-synthetic-downsampling-audit) | 超分评测应加入真实低分辨率配对样本，验证锐利输出究竟恢复了结构还是补出了伪细节。 |
+| 计算机视觉 | 训练策略 | [Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model](cards.md#paper-online3r-local-global-prompts) | 在线重建只更新提示参数，用近帧重建和远距关键帧分别校验一致性。 |
+| 计算机视觉 | 推理策略 | [VDFE: Difference-Aware 3D Scene Editing with Non-Intrusive Video Diffusion Priors for Multi-View Consistency and Efficiency](cards.md#paper-vdfe-flow-difference-regions) | 以编辑前后的流差异定位哪些三维基元需改动，降低对注意力图的依赖。 |
+| 计算机视觉 | 模型架构 | [RigMo: Unifying Rig and Motion Learning for Generative Animation](cards.md#paper-rigmo-rig-motion-latents) | 将显式骨架和随时间变化的运动拆成两个可交换潜变量，从原始网格序列学习。 |
+| 计算机视觉 | 模型架构 | [TokenLight: Precise Lighting Control in Images using Attribute Tokens](cards.md#paper-tokenlight-continuous-light-tokens) | 把亮度、色彩、位置等传感环境变量编码为连续条件，用合成真值加少量实拍保留可控性。 |
+| 多模态学习 | 模型架构 | [Linking Modality Isolation in Heterogeneous Collaborative Perception](cards.md#paper-codealign-isolated-modalities) | 传感模态未曾在同一帧出现时，以共享码本做中间桥梁学习特征空间变换。 |
+| 计算机视觉 | 推理策略 | [InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](cards.md#paper-inverfill-one-step-inversion) | 少步修复先用已见上下文反演初始噪声，避免有限采样预算浪费在纠正语义。 |
+| 机器学习基础与统计 | 训练策略 | [Expand and Prune: Maximizing Trajectory Diversity for Effective GRPO in Generative Models](cards.md#paper-progrpo-trajectory-diversity) | 在尚未完整生成时按轨迹潜特征保持组内多样性，减少围绕平均奖励的冗余采样。 |
+| 多模态学习 | 模型架构 | [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](cards.md#paper-dtpsr-spatial-frequency-priors) | 将语言先验按全局／局部及低频／高频分开，检查它们对几何和细纹理是否各有收益。 |
+| 机器人学 | 世界模型 | [HandWorld: Hand-Centric Unified Video Action Generation](cards.md#paper-handworld-shared-action-video-conditioning) | 共享视频和动作条件，但用独立生成头处理不同模态输出。 |
+| 多模态学习 | 知识蒸馏 | [Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters](cards.md#paper-graph-teacher-training-only-adapter-supervision) | 把高成本多尺度图文交互只留在训练教师中，推理维持简单缓存适配器。 |
+| 多模态学习 | 参数空间学习 | [ROSE: Rotate Your Large Language Model to See](cards.md#paper-rose-visual-weight-space-rotations) | 将视觉条件写入参数空间旋转，减少为输入拼接大量视觉 token 的成本。 |
+| 计算机视觉 | 在线适配 | [Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation](cards.md#paper-imat-interactive-language-memory-tracking) | 将用户发出的中途语言纠正存入跟踪记忆，并测量后续能否按指令改变。 |
+| 生成模型 | 强化学习与奖励 | [VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation](cards.md#paper-var-rl-asynchronous-stage-credit) | 在尺度不同步的生成步骤之间分配奖励，减少后阶段更新干扰早阶段。 |
+| 机器学习 | 持续学习 | [Beyond Myopic Alignment: Lookahead Optimization for Online Class-Incremental Learning](cards.md#paper-lookahead-rehearsal-hypergradient-alignment) | 比较更新一步后旧任务损失的变化，避免只对齐当前梯度方向。 |

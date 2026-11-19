@@ -1671,5 +1671,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis](../../conferences/cvpr-2026/cards.md#paper-dmaligner-dynamics-masking)
 - [ReflexSplit: Single Image Reflection Separation via Layer Fusion-Separation](../../conferences/cvpr-2026/cards.md#paper-reflexsplit-differential-separation)
 - [From Infusion to Assimilation Distillation for Medical Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-iad-assimilation-distillation)
+- [SAMosaic3D: Modular Scene Assembly for Real-Time 3D Segment Anything](../../conferences/cvpr-2026/cards.md#paper-learned-mosaic-mask-composition-3d)
+- [VoDaSuRe: A Large-Scale Dataset Revealing Domain Shift in Volumetric Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-real-resolution-versus-synthetic-downsampling-audit)
+- [Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model](../../conferences/cvpr-2026/cards.md#paper-online3r-local-global-prompts)
+- [VDFE: Difference-Aware 3D Scene Editing with Non-Intrusive Video Diffusion Priors for Multi-View Consistency and Efficiency](../../conferences/cvpr-2026/cards.md#paper-vdfe-flow-difference-regions)
+- [RigMo: Unifying Rig and Motion Learning for Generative Animation](../../conferences/cvpr-2026/cards.md#paper-rigmo-rig-motion-latents)
+- [TokenLight: Precise Lighting Control in Images using Attribute Tokens](../../conferences/cvpr-2026/cards.md#paper-tokenlight-continuous-light-tokens)
+- [InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](../../conferences/cvpr-2026/cards.md#paper-inverfill-one-step-inversion)
+- [Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation](../../conferences/cvpr-2026/cards.md#paper-imat-interactive-language-memory-tracking)
 
 <!-- conference-classification:end -->

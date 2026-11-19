@@ -1352,5 +1352,10 @@
 - [COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification](../conferences/cvpr-2026/cards.md#paper-shared-occlusion-augmentation-to-disentangle-identity)
 - [DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis](../conferences/cvpr-2026/cards.md#paper-dmaligner-dynamics-masking)
 - [From Infusion to Assimilation Distillation for Medical Image Segmentation](../conferences/cvpr-2026/cards.md#paper-iad-assimilation-distillation)
+- [Reliable Clustering Number Estimation for Contrastive Multi-View Clustering](../conferences/cvpr-2026/cards.md#paper-semantic-agreement-and-cluster-count-estimation)
+- [Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model](../conferences/cvpr-2026/cards.md#paper-online3r-local-global-prompts)
+- [Expand and Prune: Maximizing Trajectory Diversity for Effective GRPO in Generative Models](../conferences/cvpr-2026/cards.md#paper-progrpo-trajectory-diversity)
+- [Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters](../conferences/cvpr-2026/cards.md#paper-graph-teacher-training-only-adapter-supervision)
+- [Beyond Myopic Alignment: Lookahead Optimization for Online Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-lookahead-rehearsal-hypergradient-alignment)
 
 <!-- conference-classification:end -->

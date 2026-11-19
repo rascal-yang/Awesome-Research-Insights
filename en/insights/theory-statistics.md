@@ -998,5 +998,6 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](../../conferences/cvpr-2026/cards.md#paper-sparseworld-tc-trajectory-conditioned-occupancy)
 - [Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR](../../conferences/cvpr-2026/cards.md#paper-consensus-entropy-adaptive-ocr-verification)
 - [Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context](../../conferences/cvpr-2026/cards.md#paper-geometry-as-context-autoregressive-reconstruction)
+- [HandWorld: Hand-Centric Unified Video Action Generation](../../conferences/cvpr-2026/cards.md#paper-handworld-shared-action-video-conditioning)
 
 <!-- conference-classification:end -->

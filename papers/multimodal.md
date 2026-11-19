@@ -1599,5 +1599,13 @@
 - [EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs](../conferences/cvpr-2026/cards.md#paper-linguistic-scene-graphs-cross-frame-spatial-reasoning)
 - [Retrieving Counterfactuals Improves Visual In-Context Learning](../conferences/cvpr-2026/cards.md#paper-circles-counterfactual-demonstrations)
 - [Controllable Federated Prompt Learning at Test Time](../conferences/cvpr-2026/cards.md#paper-cote-adaptive-federated-prompt-mixing)
+- [HERO: Hierarchical Embedding-Refinement for Open-Vocabulary Temporal Sentence Grounding in Videos](../conferences/cvpr-2026/cards.md#paper-hierarchical-language-cues-open-video-grounding)
+- [Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision](../conferences/cvpr-2026/cards.md#paper-intent-grounding-with-pixel-mask-supervision)
+- [Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly](../conferences/cvpr-2026/cards.md#paper-stage-specific-spatiotemporal-assembly-puzzles)
+- [Demo2Tutorial: From Human Experience to Multimodal Software Tutorials](../conferences/cvpr-2026/cards.md#paper-hierarchical-workflow-graphs-instruction-data)
+- [Linking Modality Isolation in Heterogeneous Collaborative Perception](../conferences/cvpr-2026/cards.md#paper-codealign-isolated-modalities)
+- [Disentangled Textual Priors for Diffusion-based Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-dtpsr-spatial-frequency-priors)
+- [Training-Only Heterogeneous Image-Patch-Text Graph Supervision for Advancing Few-Shot Learning Adapters](../conferences/cvpr-2026/cards.md#paper-graph-teacher-training-only-adapter-supervision)
+- [ROSE: Rotate Your Large Language Model to See](../conferences/cvpr-2026/cards.md#paper-rose-visual-weight-space-rotations)
 
 <!-- conference-classification:end -->
