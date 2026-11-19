@@ -1061,5 +1061,10 @@
 - [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](../conferences/cvpr-2026/cards.md#paper-unish-real-geometry-supervision)
 - [Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness](../conferences/cvpr-2026/cards.md#paper-concept-guided-vit)
 - [Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](../conferences/cvpr-2026/cards.md#paper-tg-dp-decoupled-masking)
+- [GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation](../conferences/cvpr-2026/cards.md#paper-geosam2-geometry-aware-prompted-part-segmentation)
+- [Time Without Time: Pseudo-Temporal Representation for Space-Time Super-Resolution](../conferences/cvpr-2026/cards.md#paper-pseudo-time-masked-image-pretraining-for-video-sr)
+- [Exploring Adaptive Masked Reconstruction for Self-Supervised Skeleton-Based Action Recognition](../conferences/cvpr-2026/cards.md#paper-amr-skeleton)
+- [3D-IDE: 3D Implicit Depth Emergent](../conferences/cvpr-2026/cards.md#paper-3d-ide-privileged-geometry)
+- [FedARA: Resource-adaptive Low-rank Personalized Federated Learning via Anchor-driven Representation Alignment on Heterogeneous Edge Devices](../conferences/cvpr-2026/cards.md#paper-fedara-anchor-rank-adaptation)
 
 <!-- conference-classification:end -->

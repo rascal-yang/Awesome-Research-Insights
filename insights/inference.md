@@ -1462,5 +1462,9 @@
 - [Diffusion Forcing Planner: History-Annealed Planning with Time-Dependent Guidance for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-dfp-annealed-history-conditioning-for-planning)
 - [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](../conferences/cvpr-2026/cards.md#paper-slow4fast-vln)
 - [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](../conferences/cvpr-2026/cards.md#paper-flashvggt-descriptor-attention)
+- [GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-gaussianvision)
+- [Learning 3D Reconstruction with Priors in Test Time](../conferences/cvpr-2026/cards.md#paper-test-time-3d-priors)
+- [Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-optimusvla-dual-memory)
+- [WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration](../conferences/cvpr-2026/cards.md#paper-whispernet-receiver-centric-budget)
 
 <!-- conference-classification:end -->

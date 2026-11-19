@@ -1495,5 +1495,6 @@
 - [StreamReady: Learning What to Answer and When in Long Streaming Videos](../conferences/cvpr-2026/cards.md#paper-streamready)
 - [Benchmarking Single-Factor Physical Video-to-Audio Generation](../conferences/cvpr-2026/cards.md#paper-flatsounds-single-factor)
 - [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](../conferences/cvpr-2026/cards.md#paper-auditdm-model-disagreement)
+- [EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions](../conferences/cvpr-2026/cards.md#paper-egoxtreme-pose-evaluation)
 
 <!-- conference-classification:end -->

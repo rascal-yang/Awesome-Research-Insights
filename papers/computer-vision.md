@@ -1243,5 +1243,10 @@
 - [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](../conferences/cvpr-2026/cards.md#paper-unish-real-geometry-supervision)
 - [Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness](../conferences/cvpr-2026/cards.md#paper-concept-guided-vit)
 - [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](../conferences/cvpr-2026/cards.md#paper-flashvggt-descriptor-attention)
+- [GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation](../conferences/cvpr-2026/cards.md#paper-geosam2-geometry-aware-prompted-part-segmentation)
+- [Time Without Time: Pseudo-Temporal Representation for Space-Time Super-Resolution](../conferences/cvpr-2026/cards.md#paper-pseudo-time-masked-image-pretraining-for-video-sr)
+- [Learning 3D Reconstruction with Priors in Test Time](../conferences/cvpr-2026/cards.md#paper-test-time-3d-priors)
+- [EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions](../conferences/cvpr-2026/cards.md#paper-egoxtreme-pose-evaluation)
+- [Exploring Adaptive Masked Reconstruction for Self-Supervised Skeleton-Based Action Recognition](../conferences/cvpr-2026/cards.md#paper-amr-skeleton)
 
 <!-- conference-classification:end -->

@@ -1150,5 +1150,11 @@ Learning across modalities such as images, text, audio, and video.
 - [SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-spacemind)
 - [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](../../conferences/cvpr-2026/cards.md#paper-auditdm-model-disagreement)
 - [Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](../../conferences/cvpr-2026/cards.md#paper-tg-dp-decoupled-masking)
+- [MTA: Multimodal Task Alignment for BEV Perception and Captioning](../../conferences/cvpr-2026/cards.md#paper-mta-intermediate-alignment-for-joint-perception-captioning)
+- [Unsafe2Safe: Controllable Image Anonymization for Downstream Utility](../../conferences/cvpr-2026/cards.md#paper-unsafe2safe-privacy-utility-edit-evaluation)
+- [GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-gaussianvision)
+- [PAVAS: Physics-Aware Video-to-Audio Synthesis](../../conferences/cvpr-2026/cards.md#paper-pavas-physical-video-audio)
+- [3D-IDE: 3D Implicit Depth Emergent](../../conferences/cvpr-2026/cards.md#paper-3d-ide-privileged-geometry)
+- [Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-sculpt4d-sparse-time-mask)
 
 <!-- conference-classification:end -->

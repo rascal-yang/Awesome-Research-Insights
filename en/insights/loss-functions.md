@@ -427,5 +427,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Eulerian Gaussian Splatting using Hashed Probability Pyramids](../../conferences/cvpr-2026/cards.md#paper-eulerian-gaussian-splatting)
 - [COPO: Causal-Oriented Policy Optimization for Hallucinations of MLLMs](../../conferences/cvpr-2026/cards.md#paper-copo-token-sufficiency-necessity-grounding)
 - [Confusion-Aware Spectral Regularizer for Long-Tailed Recognition](../../conferences/cvpr-2026/cards.md#paper-car-spectral-confusion-regularizer)
+- [CoRiM: Conflict-driven Risk Minimization for Dynamic Multimodal Fusion](../../conferences/cvpr-2026/cards.md#paper-corim-conflict-risk-fusion)
 
 <!-- conference-classification:end -->

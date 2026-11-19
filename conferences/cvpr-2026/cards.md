@@ -12871,3 +12871,258 @@
 - **适用条件 / 局限** · 网格不均匀、尖角及离散近似会影响梯度，GPU 性能取决于批规模。
 
 **可复用机制** · 网格模型需要沿曲面卷积或流动时，使用可并行、可微的指数映射代替欧氏邻域。
+
+<a id="paper-floorplan-distribution-aware-depth-semantic-fusion"></a>
+
+## Fusion of Depth and Semantics for Probabilistic Floorplan Localization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ye_Fusion_of_Depth_and_Semantics_for_Probabilistic_Floorplan_Localization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_Fusion_of_Depth_and_Semantics_for_Probabilistic_Floorplan_Localization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 遮挡、相似房间与语义误判都可能让点值射线与平面图匹配到错误位置。
+- **核心创新 / 方法** · 统一融合深度与语义分布，按射线分布估计可靠性，并对语义概率使用 Jensen–Shannon 距离。
+- **Baseline** · 比较 SemRayLoc、单独平面图条件、射线置信度与概率语义匹配。
+- **Benchmark** · S3D 与 ZInD 的室内平面图定位，以相机位置召回率和姿态误差评估。
+- **关键结果 / 消融** · 表 4 S3D(full) 上 UFA 单独加置信度与精化为 69.8，完整方案召回为 71.4。
+- **适用条件 / 局限** · 高度依赖平面图可用且深度与语义预测经过校准，修改后布局或透明遮挡需再测。
+
+**可复用机制** · 用二维地图定位时，可匹配射线概率分布并按不确定性降权，减少遮挡导致的虚假几何约束。见表 4。
+
+<a id="paper-mta-intermediate-alignment-for-joint-perception-captioning"></a>
+
+## MTA: Multimodal Task Alignment for BEV Perception and Captioning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ma_MTA_Multimodal_Task_Alignment_for_BEV_Perception_and_Captioning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_MTA_Multimodal_Task_Alignment_for_BEV_Perception_and_Captioning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单独优化鸟瞰三维检测与物体描述会丢掉两项任务可共享的关系线索。
+- **核心创新 / 方法** · 对齐鸟瞰场景语义与语言，通过跨模态目标补充检测输出，并比较在 Q-Former 不同层施加约束。
+- **Baseline** · 以 TOD3Cap 为基础，分别加入 BLA、DCA，比较同一 Q-Former 的首层、中层和末层。
+- **Benchmark** · TOD3Cap 的三维密集描述与 nuScenes 三维检测，报告 CIDEr、BLEU-4、NDS 与 mAP。
+- **关键结果 / 消融** · 表 5 中层 CIDEr 为 111.9、mAP 为 27.7，首层为 111.2、27.3，末层为 107.7、27.1。
+- **适用条件 / 局限** · 中层选择依赖桥接深度与感知模型，别的模态组合需要重新寻找对齐位置。
+
+**可复用机制** · 让语言与三维感知共享信息时，可以在跨模态桥的不同深度挂对齐目标，分别检查感知与描述的变化。见表 4、5。
+
+<a id="paper-geosam2-geometry-aware-prompted-part-segmentation"></a>
+
+## GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_GeoSAM2_Unleashing_the_Power_of_SAM2_for_3D_Part_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Deng_GeoSAM2_Unleashing_the_Power_of_SAM2_for_3D_Part_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无纹理三维模型缺少自然图像线索，直接渲染后使用分割器难区分部件。
+- **核心创新 / 方法** · 渲染法线与点图，用残差几何融合和低秩适配把几何引入共享 SAM2，再反投影多视角掩膜。
+- **Baseline** · 与原始 SAM2 及去点图、去特征融合等版本对照。
+- **Benchmark** · PartObjaverse-Tiny 与 PartNetE 的开放类别部件分割，以平均 IoU 衡量。
+- **关键结果 / 消融** · 表 3 PartObjaverse-Tiny 原始 SAM2 为 62.59%，去点图的模型为 75.56%，完整模型为 84.06%。
+- **适用条件 / 局限** · 依赖可渲染视角和已知几何；可见性稀疏、内部部件与不到位提示仍可能失败。
+
+**可复用机制** · 把二维提示分割用到无纹理物体，可渲染不同几何视图，以残差适配复用分割先验，再回投到三维。见表 3。
+
+<a id="paper-pseudo-time-masked-image-pretraining-for-video-sr"></a>
+
+## Time Without Time: Pseudo-Temporal Representation for Space-Time Super-Resolution
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Choi_Time_Without_Time_Pseudo-Temporal_Representation_for_Space-Time_Super-Resolution_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Choi_Time_Without_Time_Pseudo-Temporal_Representation_for_Space-Time_Super-Resolution_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 时空超分依赖有高质量时空细节的训练视频，少量下游数据难以充分训练模型。
+- **核心创新 / 方法** · 复制单图为多个伪时间帧，每帧遮盖不同像素区域，用超分骨干从互补观测恢复干净稠密输出。
+- **Baseline** · 同一 Zooming、TMNet、RSTT 对照有无预训练，另消融预训练集与遮盖。
+- **Benchmark** · Vimeo-90K 快速动作和 REDS 的不同微调样本比例，报告 PSNR、SSIM、LPIPS。
+- **关键结果 / 消融** · 表 1 在 1% Vimeo-90K 上 TMNet 从 28.91 到 34.79 dB，RSTT 从 31.66 到 34.18 dB；REDS 全量时 TMNet 从 26.56 到 26.93。
+- **适用条件 / 局限** · 静态伪序列无法提供真实位移规律，仍需真实动态数据微调，完整下游数据时收益有限。
+
+**可复用机制** · 缺少视频标注时，可把一张图变成互补缺失的伪时序预训练输入，尤其检查低数据微调是否改善。见表 1。
+
+<a id="paper-unsafe2safe-privacy-utility-edit-evaluation"></a>
+
+## Unsafe2Safe: Controllable Image Anonymization for Downstream Utility
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dinh_Unsafe2Safe_Controllable_Image_Anonymization_for_Downstream_Utility_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dinh_Unsafe2Safe_Controllable_Image_Anonymization_for_Downstream_Utility_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 删掉所有含个体线索的图像会损害数据覆盖，全面改写又可能破坏任务所需语义。
+- **核心创新 / 方法** · 把包含与不包含敏感属性的描述分开，用中性的编辑条件修改隐私相关区域，并检查剩余可识别性。
+- **Baseline** · 比较原图、不同提示条件，以及 DeepPrivacy2、FaceAnonSimple。
+- **Benchmark** · Caltech101、室内图像分类、MS-COCO 描述与 OK-VQA，测下游分数与身份、文本隐私代理。
+- **关键结果 / 消融** · 表 3 的 Caltech101 中，cedit 设置分类为 94.792%、FaceSim 0.3658；原图为 94.277%、1.0000。同配置室内分类从 83.881% 降至 77.090%。
+- **适用条件 / 局限** · 代理分数无法保证匿名，漏识别区域与无脸身份线索需要另行审核。
+
+**可复用机制** · 训练图像匿名化可只编辑敏感区域，并以模型效用和身份残留分别对比不同文本条件。见表 3。
+
+<a id="paper-gaussianvision"></a>
+
+## GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Omri_GaussianVision_Vision-Language_Alignment_from_Compressed_Image_Representations_using_2D_Gaussian_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Omri_GaussianVision_Vision-Language_Alignment_from_Compressed_Image_Representations_using_2D_Gaussian_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 传输完整 RGB 和编码密集图块对端侧带宽与注意力都有开销。
+- **核心创新 / 方法** · 将图像拟合为2D高斯，冻结既有 RGB Transformer，用专用输入层及 resampler 适配图文对齐。
+- **Baseline** · 表1比较 RGB 与高斯表示，正文对照已有高斯拟合实现和图文适配。
+- **Benchmark** · 比较压缩比、加载解码速度及图文表征表现。
+- **关键结果 / 消融** · 作者报告拟合相比已有实现快90倍以上，适配训练约9.7–13.8%参数。
+- **适用条件 / 局限** · 仍有拟合和抽样成本，预算应端到端核算，文字与小目标的损失需单测。
+
+**可复用机制** · 视觉输入压缩可从空间自适应表示直接接到跨模态骨干，并对照解码回像素的成本。
+
+<a id="paper-test-time-3d-priors"></a>
+
+## Learning 3D Reconstruction with Priors in Test Time
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Learning_3D_Reconstruction_with_Priors_in_Test_Time_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Learning_3D_Reconstruction_with_Priors_in_Test_Time_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 预训练图像重建器通常无法直接接收不同形式先验。
+- **核心创新 / 方法** · 在推理优化多视渲染一致性，并对已有信息加入对应输出的惩罚项。
+- **Baseline** · 表1–4比较图像基座与先验感知网络。
+- **Benchmark** · ETH3D、DTU、7-Scenes、NRGBD，点图与相机估计。
+- **关键结果 / 消融** · 作者报告在 ETH3D、7-Scenes、NRGBD 点图距离误差较仅图像基线减半以上。
+- **适用条件 / 局限** · 按实例优化增加延迟，错误先验或重复纹理可能使优化收敛到错误解。
+
+**可复用机制** · 相机姿态、内参和深度不规则可用时，将它们转为输出约束，避免为每种输入组合重训。
+
+<a id="paper-fedfip"></a>
+
+## Domain Sensitive Federated Learning with Fisher-Informed Pruning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_Domain_Sensitive_Federated_Learning_with_Fisher-Informed_Pruning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_Domain_Sensitive_Federated_Learning_with_Fisher-Informed_Pruning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一掩码忽略客户端内部多域，独立掩码又会降低可聚合性。
+- **核心创新 / 方法** · 用分域 Fisher 估重要性，聚合共享掩码，客户端重激活域特异通道并使用域原型正则。
+- **Baseline** · 表1比较联邦方法，表2–3消融 Fisher 裁剪和正则等。
+- **Benchmark** · Digits、Office-Caltech、PACS 的平均 Top-1 与离散性。
+- **关键结果 / 消融** · 表1跨三数据集对照，表2–3区分各模块作用。
+- **适用条件 / 局限** · 需要可区分的域信号，域稀少时 Fisher 估计和跨端聚合应做稳健性检验。
+
+**可复用机制** · 联邦模型需要结构对齐又有域偏差时，共享稀疏核心并允许客户端恢复少数域特异通道。
+
+<a id="paper-egoxtreme-pose-evaluation"></a>
+
+## EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yoon_EgoXtreme_A_Dataset_for_Robust_Object_Pose_Estimation_in_Egocentric_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yoon_EgoXtreme_A_Dataset_for_Robust_Object_Pose_Estimation_in_Egocentric_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常规位姿基准难体现极端第一视角视觉歧义。
+- **核心创新 / 方法** · 采集第一视角6D位姿并在不同扰动条件下评测，同基座测试预处理。
+- **Baseline** · 表3比较多种可泛化姿态估计器，表4对 Pi 系方法做预处理条件比较。
+- **Benchmark** · 第一视角极端条件，ADD(S) 在0.1d、0.2d、0.3d 的召回。
+- **关键结果 / 消融** · 作者报告常规泛化能力在极端条件下不能保持，表4将预处理和位姿指标连接。
+- **适用条件 / 局限** · 不同情境中多种扰动可能共现，未独立控制的效应需要进一步实验。
+
+**可复用机制** · 可穿戴位姿评估按光照、模糊和遮挡分层，检查预处理能否真正改善下游位姿。
+
+<a id="paper-pavas-physical-video-audio"></a>
+
+## PAVAS: Physics-Aware Video-to-Audio Synthesis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hyun-Bin_PAVAS_Physics-Aware_Video-to-Audio_Synthesis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hyun-Bin_PAVAS_Physics-Aware_Video-to-Audio_Synthesis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 外观相关性能拟合声音风格，但不能保证视频物理状态改变时声音随之变化。
+- **核心创新 / 方法** · 以估计的质量和三维轨迹导出物理条件，经适配器输入音频扩散模型。
+- **Baseline** · 表1比较既有视频生音频方法，表3消融适配及物理特征。
+- **Benchmark** · VGGSound、人评和 VGG-Impact 的物理声学一致性 APCC。
+- **关键结果 / 消融** · 表2用27参与者的人评补充自动指标，表3分解物理条件贡献。
+- **适用条件 / 局限** · 质量和轨迹来自估计，材质、接触和不可见声源会削弱物理条件的解释力。
+
+**可复用机制** · 视频到音频生成可加入物体级物理条件，并用声学物理一致性与同步指标分别验收。
+
+<a id="paper-amr-skeleton"></a>
+
+## Exploring Adaptive Masked Reconstruction for Self-Supervised Skeleton-Based Action Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_Exploring_Adaptive_Masked_Reconstruction_for_Self-Supervised_Skeleton-Based_Action_Recognition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Exploring_Adaptive_Masked_Reconstruction_for_Self-Supervised_Skeleton-Based_Action_Recognition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 重建大量骨架时空块训练慢，等权重点又会落在静态片段。
+- **核心创新 / 方法** · 解耦编码和重建块尺寸，自适应标出每个块中有动作信息的位置。
+- **Baseline** · 表1–4比较此前掩码骨架重建方法，含线性与其他训练协议。
+- **Benchmark** · NTU 和 PKU-II 等动作识别，线性、微调及半监督结果。
+- **关键结果 / 消融** · 正文比较重建训练效率与识别结果，并评估大块及引导组件。
+- **适用条件 / 局限** · 运动幅度代理可能漏掉关键的微动作或静态姿态，其他传感器需校准选择规则。
+
+**可复用机制** · 自监督重建可用更大输出块加速，再以运动信息聚焦解码监督。
+
+<a id="paper-optimusvla-dual-memory"></a>
+
+## Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Global_Prior_Meets_Local_Consistency_Dual-Memory_Augmented_Vision-Language-Action_Model_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Global_Prior_Meets_Local_Consistency_Dual-Memory_Augmented_Vision-Language-Action_Model_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 各向同性初噪距真实动作远，单帧条件也看不到任务进展。
+- **核心创新 / 方法** · 全局记忆检索类似轨迹并替代高斯初始化，局部记忆编码已执行序列以控制连续性。
+- **Baseline** · 比较表1–3的现有 VLA，并检查动作生成配置。
+- **Benchmark** · LIBERO、CALVIN、RoboTwin 2.0，比较操作成功率与生成函数评估开销。
+- **关键结果 / 消融** · 三基准报告成功率和效率，在 RoboTwin Hard 以100次执行评估。
+- **适用条件 / 局限** · 库中近邻不一定可行；环境变化和历史错误需要防止错误动作先验。
+
+**可复用机制** · 将相似任务轨迹检索为动作生成先验，再用已执行动作约束当前生成。
+
+<a id="paper-3d-ide-privileged-geometry"></a>
+
+## 3D-IDE: 3D Implicit Depth Emergent
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_3D-IDE_3D_Implicit_Depth_Emergent_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_3D-IDE_3D_Implicit_Depth_Emergent_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 显式深度和位姿增加部署依赖，接入额外模型也会影响延迟。
+- **核心创新 / 方法** · 使用局部几何验证和全局表征约束训练视觉特征，使空间信息从统一表示可读。
+- **Baseline** · 比较需要显式三维输入的专用或通用方法，以及无几何训练骨干。
+- **Benchmark** · 室内三维场景理解，表1去掉推理时几何，表2–3比较任务和组件。
+- **关键结果 / 消融** · 原文报告只用二维推理的任务改善与去模块对照。
+- **适用条件 / 局限** · 特权监督覆盖决定可迁移范围，单视图歧义不会被训练完全消除。
+
+**可复用机制** · 视觉语言模型需要空间理解时，可在训练提供几何特权信息，而部署只读二维观察。
+
+<a id="paper-corim-conflict-risk-fusion"></a>
+
+## CoRiM: Conflict-driven Risk Minimization for Dynamic Multimodal Fusion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zou_CoRiM_Conflict-driven_Risk_Minimization_for_Dynamic_Multimodal_Fusion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_CoRiM_Conflict-driven_Risk_Minimization_for_Dynamic_Multimodal_Fusion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只按各路置信或损失加权可能忽略高置信但互相矛盾的模态。
+- **核心创新 / 方法** · 定义融合冲突风险，在概率单纯形用无投影 Frank-Wolfe 优化权重。
+- **Baseline** · 和已有动态多模态融合及单路/均匀融合方法对照。
+- **Benchmark** · MVSA、NYUD 等，比较平均及最差分类准确率。
+- **关键结果 / 消融** · 表1–2报告融合平均和最差准确率，正文分析目标平滑性及收敛。
+- **适用条件 / 局限** · 收敛不等于全局最优；预测分布失校准或所有模态同时错误会损害融合。
+
+**可复用机制** · 按样本动态融合时权重应同时反映预测分布冲突及不确定性。
+
+<a id="paper-sculpt4d-sparse-time-mask"></a>
+
+## Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_Sculpt4D_Generating_4D_Shapes_via_Sparse-Attention_Diffusion_Transformers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yin_Sculpt4D_Generating_4D_Shapes_via_Sparse-Attention_Diffusion_Transformers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全时序注意力昂贵，过度裁剪又易丢身份或动作连贯性。
+- **核心创新 / 方法** · 由静态三维 DiT 扩展为动态生成，按首帧锚定和时间稀疏块分配注意力。
+- **Baseline** · 已有四维生成方法及去掉时序稀疏结构的对照。
+- **Benchmark** · 四维对象序列，比较形状质量、时间一致性及计算量。
+- **关键结果 / 消融** · 原文报告总计算减少56%，并以表2对照稀疏设计。
+- **适用条件 / 局限** · 首帧不是总能提供后续部件信息，周期和突变运动的稀疏规则须另测。
+
+**可复用机制** · 动态对象生成可同时保留首帧身份锚点和随时间衰减的局部上下文。
+
+<a id="paper-fedara-anchor-rank-adaptation"></a>
+
+## FedARA: Resource-adaptive Low-rank Personalized Federated Learning via Anchor-driven Representation Alignment on Heterogeneous Edge Devices
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_FedARA_Resource-adaptive_Low-rank_Personalized_Federated_Learning_via_Anchor-driven_Representation_Alignment_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_FedARA_Resource-adaptive_Low-rank_Personalized_Federated_Learning_via_Anchor-driven_Representation_Alignment_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一提取器忽略端侧预算，非独立同分布又会使模型表征偏离。
+- **核心创新 / 方法** · 对共享提取器分解后按设备预算选秩，用锚一致性训练聚合后的表示。
+- **Baseline** · 对照个性化联邦学习及异构模型配置。
+- **Benchmark** · CIFAR-10、CIFAR-100，分别比较数据异构和模型异构的客户端准确率。
+- **关键结果 / 消融** · 表1–3覆盖两种异构性及相应训练结果。
+- **适用条件 / 局限** · 需要代表性锚点和可兼容层结构；不代表额外隐私保证。
+
+**可复用机制** · 异构设备共同训练时，让不同客户端选低秩容量，以公共锚表征对齐不同子模型。
+
+<a id="paper-whispernet-receiver-centric-budget"></a>
+
+## WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_WhisperNet_A_Scalable_Solution_for_Bandwidth-Efficient_Collaboration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_WhisperNet_A_Scalable_Solution_for_Bandwidth-Efficient_Collaboration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定码率和逐发送端区域选择可能重复发送同类内容，遗漏全局上下文。
+- **核心创新 / 方法** · 发送显著性摘要，由接收者按预算选信息块，再进行对齐和融合。
+- **Baseline** · 对比协同感知压缩与稀疏传输方法，测试作为插件的已有骨干。
+- **Benchmark** · OPV2V，测 AP@0.7、带宽及定位噪声下表现。
+- **关键结果 / 消融** · 作者报告使用0.5%通信成本时 AP@0.7 改善2.4%，并测试5%带宽配置。
+- **适用条件 / 局限** · 需往返通信且摘要可信，链路延迟与异步传输可能削弱收益。
+
+**可复用机制** · 多智能体共享观察时，由接收者看低带宽摘要再全局分配请求，而非各发送端彼此独立筛选。

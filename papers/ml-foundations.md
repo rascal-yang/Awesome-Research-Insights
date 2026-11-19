@@ -2395,5 +2395,8 @@
 - [Splatent: Splatting Diffusion Latents for Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-splatent-geometry-detail-split-latent-rendering)
 - [Confusion-Aware Spectral Regularizer for Long-Tailed Recognition](../conferences/cvpr-2026/cards.md#paper-car-spectral-confusion-regularizer)
 - [Parallelised Differentiable Straightest Geodesics for 3D Meshes](../conferences/cvpr-2026/cards.md#paper-differentiable-straightest-geodesics)
+- [Domain Sensitive Federated Learning with Fisher-Informed Pruning](../conferences/cvpr-2026/cards.md#paper-fedfip)
+- [CoRiM: Conflict-driven Risk Minimization for Dynamic Multimodal Fusion](../conferences/cvpr-2026/cards.md#paper-corim-conflict-risk-fusion)
+- [FedARA: Resource-adaptive Low-rank Personalized Federated Learning via Anchor-driven Representation Alignment on Heterogeneous Edge Devices](../conferences/cvpr-2026/cards.md#paper-fedara-anchor-rank-adaptation)
 
 <!-- conference-classification:end -->

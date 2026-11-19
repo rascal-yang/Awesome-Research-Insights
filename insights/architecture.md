@@ -636,5 +636,7 @@
 - [Soft Modality-Guided Expert Specialization in MoE-VLMs](../conferences/cvpr-2026/cards.md#paper-smoes-soft-modality-routing)
 - [SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-spacemind)
 - [Parallelised Differentiable Straightest Geodesics for 3D Meshes](../conferences/cvpr-2026/cards.md#paper-differentiable-straightest-geodesics)
+- [PAVAS: Physics-Aware Video-to-Audio Synthesis](../conferences/cvpr-2026/cards.md#paper-pavas-physical-video-audio)
+- [Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-sculpt4d-sparse-time-mask)
 
 <!-- conference-classification:end -->

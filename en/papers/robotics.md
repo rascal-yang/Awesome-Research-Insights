@@ -942,5 +942,8 @@ Robot perception, policy learning, planning, and control.
 - [Diffusion Forcing Planner: History-Annealed Planning with Time-Dependent Guidance for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-dfp-annealed-history-conditioning-for-planning)
 - [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](../../conferences/cvpr-2026/cards.md#paper-slow4fast-vln)
 - [SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-srpo-self-referential-policy)
+- [Fusion of Depth and Semantics for Probabilistic Floorplan Localization](../../conferences/cvpr-2026/cards.md#paper-floorplan-distribution-aware-depth-semantic-fusion)
+- [Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-optimusvla-dual-memory)
+- [WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration](../../conferences/cvpr-2026/cards.md#paper-whispernet-receiver-centric-budget)
 
 <!-- conference-classification:end -->

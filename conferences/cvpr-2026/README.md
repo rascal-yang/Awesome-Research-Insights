@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,347 篇，其中 858 篇暂收录、489 篇排除，另有 2,695 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,377 篇，其中 875 篇暂收录、502 篇排除，另有 2,665 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -864,3 +864,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,347
 | 多模态学习 | 评测与分析 | [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](cards.md#paper-auditdm-model-disagreement) | 对照多个模型的相互分歧，主动构造诊断样例，再把找到的失败用于定向修正训练。 |
 | 多模态学习 | 自监督学习 | [Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](cards.md#paper-tg-dp-decoupled-masking) | 同时做掩码恢复和跨模态对比时，分开为两路选择可见 token。 |
 | 机器学习基础 | 模型架构 | [Parallelised Differentiable Straightest Geodesics for 3D Meshes](cards.md#paper-differentiable-straightest-geodesics) | 网格模型需要沿曲面卷积或流动时，使用可并行、可微的指数映射代替欧氏邻域。 |
+| 机器人学 | 三维重建与几何建模 | [Fusion of Depth and Semantics for Probabilistic Floorplan Localization](cards.md#paper-floorplan-distribution-aware-depth-semantic-fusion) | 用二维地图定位时，可匹配射线概率分布并按不确定性降权，减少遮挡导致的虚假几何约束。见表 4。 |
+| 多模态学习 | 表征学习 | [MTA: Multimodal Task Alignment for BEV Perception and Captioning](cards.md#paper-mta-intermediate-alignment-for-joint-perception-captioning) | 让语言与三维感知共享信息时，可以在跨模态桥的不同深度挂对齐目标，分别检查感知与描述的变化。见表 4、5。 |
+| 计算机视觉 | 参数高效微调 | [GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation](cards.md#paper-geosam2-geometry-aware-prompted-part-segmentation) | 把二维提示分割用到无纹理物体，可渲染不同几何视图，以残差适配复用分割先验，再回投到三维。见表 3。 |
+| 计算机视觉 | 自监督学习 | [Time Without Time: Pseudo-Temporal Representation for Space-Time Super-Resolution](cards.md#paper-pseudo-time-masked-image-pretraining-for-video-sr) | 缺少视频标注时，可把一张图变成互补缺失的伪时序预训练输入，尤其检查低数据微调是否改善。见表 1。 |
+| 多模态学习 | 隐私保护 | [Unsafe2Safe: Controllable Image Anonymization for Downstream Utility](cards.md#paper-unsafe2safe-privacy-utility-edit-evaluation) | 训练图像匿名化可只编辑敏感区域，并以模型效用和身份残留分别对比不同文本条件。见表 3。 |
+| 多模态学习 | 推理压缩 | [GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting](cards.md#paper-gaussianvision) | 视觉输入压缩可从空间自适应表示直接接到跨模态骨干，并对照解码回像素的成本。 |
+| 计算机视觉 | 测试时适应与推理 | [Learning 3D Reconstruction with Priors in Test Time](cards.md#paper-test-time-3d-priors) | 相机姿态、内参和深度不规则可用时，将它们转为输出约束，避免为每种输入组合重训。 |
+| 机器学习基础与统计 | 联邦学习 | [Domain Sensitive Federated Learning with Fisher-Informed Pruning](cards.md#paper-fedfip) | 联邦模型需要结构对齐又有域偏差时，共享稀疏核心并允许客户端恢复少数域特异通道。 |
+| 计算机视觉 | 评测与诊断 | [EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions](cards.md#paper-egoxtreme-pose-evaluation) | 可穿戴位姿评估按光照、模糊和遮挡分层，检查预处理能否真正改善下游位姿。 |
+| 多模态学习 | 模型架构 | [PAVAS: Physics-Aware Video-to-Audio Synthesis](cards.md#paper-pavas-physical-video-audio) | 视频到音频生成可加入物体级物理条件，并用声学物理一致性与同步指标分别验收。 |
+| 计算机视觉 | 自监督学习 | [Exploring Adaptive Masked Reconstruction for Self-Supervised Skeleton-Based Action Recognition](cards.md#paper-amr-skeleton) | 自监督重建可用更大输出块加速，再以运动信息聚焦解码监督。 |
+| 机器人学 | 推理优化 | [Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation](cards.md#paper-optimusvla-dual-memory) | 将相似任务轨迹检索为动作生成先验，再用已执行动作约束当前生成。 |
+| 多模态学习 | 自监督学习 | [3D-IDE: 3D Implicit Depth Emergent](cards.md#paper-3d-ide-privileged-geometry) | 视觉语言模型需要空间理解时，可在训练提供几何特权信息，而部署只读二维观察。 |
+| 机器学习基础 | 损失函数与优化 | [CoRiM: Conflict-driven Risk Minimization for Dynamic Multimodal Fusion](cards.md#paper-corim-conflict-risk-fusion) | 按样本动态融合时权重应同时反映预测分布冲突及不确定性。 |
+| 多模态学习 | 模型架构 | [Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers](cards.md#paper-sculpt4d-sparse-time-mask) | 动态对象生成可同时保留首帧身份锚点和随时间衰减的局部上下文。 |
+| 机器学习基础 | 迁移与泛化 | [FedARA: Resource-adaptive Low-rank Personalized Federated Learning via Anchor-driven Representation Alignment on Heterogeneous Edge Devices](cards.md#paper-fedara-anchor-rank-adaptation) | 异构设备共同训练时，让不同客户端选低秩容量，以公共锚表征对齐不同子模型。 |
+| 机器人学 | 推理优化 | [WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration](cards.md#paper-whispernet-receiver-centric-budget) | 多智能体共享观察时，由接收者看低带宽摘要再全局分配请求，而非各发送端彼此独立筛选。 |

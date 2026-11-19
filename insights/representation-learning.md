@@ -629,5 +629,7 @@
 - [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](../conferences/cvpr-2026/cards.md#paper-msgnav-visual-scene-graph-edges)
 - [From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching](../conferences/cvpr-2026/cards.md#paper-advanced-functional-maps-learned-spectral-basis)
 - [Splatent: Splatting Diffusion Latents for Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-splatent-geometry-detail-split-latent-rendering)
+- [Fusion of Depth and Semantics for Probabilistic Floorplan Localization](../conferences/cvpr-2026/cards.md#paper-floorplan-distribution-aware-depth-semantic-fusion)
+- [MTA: Multimodal Task Alignment for BEV Perception and Captioning](../conferences/cvpr-2026/cards.md#paper-mta-intermediate-alignment-for-joint-perception-captioning)
 
 <!-- conference-classification:end -->

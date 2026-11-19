@@ -796,5 +796,7 @@
 - [Love Me, Love My Label: Rethinking the Role of Labels in Prompt Retrieval for Visual In-Context Learning](../conferences/cvpr-2026/cards.md#paper-lapr-label-consistent-demonstration-retrieval)
 - [ReFAct: Empowering Multimodal Web Agents with Visual and Context Focusing](../conferences/cvpr-2026/cards.md#paper-refact)
 - [TC-Pade: Trajectory-Consistent Pade Approximation for Diffusion Acceleration](../conferences/cvpr-2026/cards.md#paper-tc-pade-rational-feature-trajectory-extrapolation)
+- [Unsafe2Safe: Controllable Image Anonymization for Downstream Utility](../conferences/cvpr-2026/cards.md#paper-unsafe2safe-privacy-utility-edit-evaluation)
+- [Domain Sensitive Federated Learning with Fisher-Informed Pruning](../conferences/cvpr-2026/cards.md#paper-fedfip)
 
 <!-- conference-classification:end -->
