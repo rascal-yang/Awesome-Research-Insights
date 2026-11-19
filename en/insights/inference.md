@@ -1507,5 +1507,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-assistive-control-contact-aware-reference-retargeting)
 - [Linear Image Generation by Synthesizing Exposure Brackets](../../conferences/cvpr-2026/cards.md#paper-linear-exposure-bracket-generation)
 - [Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning](../../conferences/cvpr-2026/cards.md#paper-bayesmm)
+- [VOSR: A Vision-Only Generative Model for Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-vosr-restoration-guidance)
+- [Mixture of Prototypes for Test-time Adaptive Segmentation](../../conferences/cvpr-2026/cards.md#paper-mixture-of-prototypes-tta)
+- [Generative Neural Video Compression via Video Diffusion Prior](../../conferences/cvpr-2026/cards.md#paper-gnvc-video-diffusion)
 
 <!-- conference-classification:end -->

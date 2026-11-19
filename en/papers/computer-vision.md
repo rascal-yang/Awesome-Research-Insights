@@ -1307,5 +1307,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-had-multiview-hallucination-masks)
 - [Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration](../../conferences/cvpr-2026/cards.md#paper-dctta-redegradation-consistency)
 - [ManifoldNeuS: Manifold-aware View Optimizability for Pose-Free Neural Surface Reconstruction](../../conferences/cvpr-2026/cards.md#paper-manifoldneus-view-optimizability)
+- [TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-twings-nonrigid-depth-anchor-initialization)
+- [CUE: Concept-Aware Multi-Label Expansion to Mitigate Concept Confusion in Long-Tailed Learning](../../conferences/cvpr-2026/cards.md#paper-cue-long-tail)
+- [VOSR: A Vision-Only Generative Model for Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-vosr-restoration-guidance)
+- [Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-cov2pose)
+- [Mixture of Prototypes for Test-time Adaptive Segmentation](../../conferences/cvpr-2026/cards.md#paper-mixture-of-prototypes-tta)
+- [Generative Neural Video Compression via Video Diffusion Prior](../../conferences/cvpr-2026/cards.md#paper-gnvc-video-diffusion)
+- [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](../../conferences/cvpr-2026/cards.md#paper-blackmirror-instruction-response-audit)
 
 <!-- conference-classification:end -->

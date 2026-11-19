@@ -782,5 +782,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning](../../conferences/cvpr-2026/cards.md#paper-arm-thinker-tool-grounded-reward)
 - [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](../../conferences/cvpr-2026/cards.md#paper-gui-sage)
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](../../conferences/cvpr-2026/cards.md#paper-spacetools-dirl)
+- [Stable and Efficient Single-Rollout RL for Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-mssr-entropy-advantage)
 
 <!-- conference-classification:end -->

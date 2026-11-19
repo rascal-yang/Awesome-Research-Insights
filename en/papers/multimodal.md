@@ -1227,5 +1227,11 @@ Learning across modalities such as images, text, audio, and video.
 - [Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism](../../conferences/cvpr-2026/cards.md#paper-flexmem-visual-kv-memory)
 - [Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning](../../conferences/cvpr-2026/cards.md#paper-bayesmm)
 - [Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning](../../conferences/cvpr-2026/cards.md#paper-anga-incomplete-multimodal)
+- [PE3R: Perception-Efficient 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-pe3r-multilevel-crossview-semantic-disambiguation)
+- [VKG-QA: Visual Knowledge Graph-based Question Answer for Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-vkgqa-rendered-knowledge-graph-reasoning)
+- [LOREAL: Mitigating Low-Resolution Challenges in Vision-Language Models with Attribute-driven Prompt Self-Distillation](../../conferences/cvpr-2026/cards.md#paper-loreal-low-resolution)
+- [Stable and Efficient Single-Rollout RL for Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-mssr-entropy-advantage)
+- [Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models](../../conferences/cvpr-2026/cards.md#paper-multimodal-cot-divergent-hallucination)
+- [Phrase-Grounding-Aware Supervised Fine-Tuning for Chart Recognition via Side-Masked Attention](../../conferences/cvpr-2026/cards.md#paper-smam-phrase-grounded-logits)
 
 <!-- conference-classification:end -->

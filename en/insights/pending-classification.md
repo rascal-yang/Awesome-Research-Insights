@@ -816,5 +816,7 @@
 - [RAPID: Reusing Attention Sparsity with Inter-step Adaptation for Efficient Video Diffusion](../../conferences/cvpr-2026/cards.md#paper-rapid-early-attention-mask-reuse)
 - [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](../../conferences/cvpr-2026/cards.md#paper-3drawagent)
 - [UETrack: A Unified and Efficient Framework for Single Object Tracking](../../conferences/cvpr-2026/cards.md#paper-uetrack-token-pooled-multimodal-tracking)
+- [Unlearning without Forgetting: Securely Removing Targeted Concepts from Large-Scale Vision-Language Open-Vocabulary Detectors](../../conferences/cvpr-2026/cards.md#paper-safedetect-retained-subspace-unlearning)
+- [AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation](../../conferences/cvpr-2026/cards.md#paper-adacluster-asymmetric-query-key-clustering)
 
 <!-- conference-classification:end -->

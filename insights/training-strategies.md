@@ -1100,5 +1100,8 @@
 - [Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning](../conferences/cvpr-2026/cards.md#paper-anga-incomplete-multimodal)
 - [Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation](../conferences/cvpr-2026/cards.md#paper-doco-open-set-domain-compensation)
 - [Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration](../conferences/cvpr-2026/cards.md#paper-dctta-redegradation-consistency)
+- [InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior](../conferences/cvpr-2026/cards.md#paper-instantvir-bidirectional-prior-causal-restoration)
+- [LOREAL: Mitigating Low-Resolution Challenges in Vision-Language Models with Attribute-driven Prompt Self-Distillation](../conferences/cvpr-2026/cards.md#paper-loreal-low-resolution)
+- [OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-orthofuse)
 
 <!-- conference-classification:end -->

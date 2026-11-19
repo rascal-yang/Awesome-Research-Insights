@@ -2435,5 +2435,10 @@
 - [Stake the Points: Structure-Faithful Instance Unlearning](../conferences/cvpr-2026/cards.md#paper-structure-faithful-unlearning)
 - [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](../conferences/cvpr-2026/cards.md#paper-orthoreg-task-vector-disentanglement)
 - [Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation](../conferences/cvpr-2026/cards.md#paper-doco-open-set-domain-compensation)
+- [Unlearning without Forgetting: Securely Removing Targeted Concepts from Large-Scale Vision-Language Open-Vocabulary Detectors](../conferences/cvpr-2026/cards.md#paper-safedetect-retained-subspace-unlearning)
+- [AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation](../conferences/cvpr-2026/cards.md#paper-adacluster-asymmetric-query-key-clustering)
+- [InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior](../conferences/cvpr-2026/cards.md#paper-instantvir-bidirectional-prior-causal-restoration)
+- [OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-orthofuse)
+- [Conditional Factuality Controlled LLMs with Generalization Certificates via Conformal Sampling](../conferences/cvpr-2026/cards.md#paper-cfc-conditional-conformal-sampling)
 
 <!-- conference-classification:end -->

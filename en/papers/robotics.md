@@ -969,5 +969,6 @@ Robot perception, policy learning, planning, and control.
 - [Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-assistive-control-contact-aware-reference-retargeting)
 - [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](../../conferences/cvpr-2026/cards.md#paper-sage-visual-and-physics-critic-separation)
 - [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](../../conferences/cvpr-2026/cards.md#paper-glmap-instance-region-memory-navigation)
+- [From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-sfi-bench-spatial-functional-diagnostics)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,707 篇，其中 1,077 篇暂收录、630 篇排除，另有 2,335 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,737 篇，其中 1,096 篇暂收录、641 篇排除，另有 2,305 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1083,3 +1083,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,707
 | 计算机视觉 | 训练与数据策略 | [HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction](cards.md#paper-had-multiview-hallucination-masks) | 用生成视图训练三维模型时，按像素对生成内容做几何可信度掩码，并聚合不同输入视图的证据。 |
 | 计算机视觉 | 微调与适配 | [Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration](cards.md#paper-dctta-redegradation-consistency) | 无源数据的恢复适配用同一场景的多种再退化训练一致性，并只更新对退化敏感的参数。 |
 | 计算机视觉 | 损失函数与优化 | [ManifoldNeuS: Manifold-aware View Optimizability for Pose-Free Neural Surface Reconstruction](cards.md#paper-manifoldneus-view-optimizability) | 联合估位姿和表面时，为视图调度同时看当前可拟合性与补足未来表面覆盖的价值。 |
+| 机器学习 | 隐私保护 | [Unlearning without Forgetting: Securely Removing Targeted Concepts from Large-Scale Vision-Language Open-Vocabulary Detectors](cards.md#paper-safedetect-retained-subspace-unlearning) | 移除目标概念时可把保留语义作为更新空间的约束，并分别评估忘记、保留与零样本能力。见表 2、3。 |
+| 多模态学习 | 三维重建与几何建模 | [PE3R: Perception-Efficient 3D Reconstruction](cards.md#paper-pe3r-multilevel-crossview-semantic-disambiguation) | 二维语义监督回投三维时可以分开消除多粒度与跨视角歧义，再检查语义分割质量。见表 5。 |
+| 多模态学习 | 评估与诊断 | [VKG-QA: Visual Knowledge Graph-based Question Answer for Large Multimodal Models](cards.md#paper-vkgqa-rendered-knowledge-graph-reasoning) | 结构化问答可同时测试图像和关系线性化两种输入，逐一比较连通、环和多跳任务。见表 2。 |
+| 生成模型 | 模型效率 | [AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation](cards.md#paper-adacluster-asymmetric-query-key-clustering) | 注意力压缩可以分别依角度和距离聚类查询与键，并按层调整容量。见表 3。 |
+| 生成模型 | 模型蒸馏 | [InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior](cards.md#paper-instantvir-bidirectional-prior-causal-restoration) | 实时视频恢复可把双向教师的视频先验蒸馏给只读过去帧的学生，分别考核时序质量和帧率。见表 1。 |
+| 计算机视觉 | 三维重建与几何建模 | [TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting](cards.md#paper-twings-nonrigid-depth-anchor-initialization) | 稀疏新视角可先用可靠三角化点校正密集单目深度，而非直接拿深度点作为高斯初值。见表 1。 |
+| 计算机视觉 | 损失函数 | [CUE: Concept-Aware Multi-Label Expansion to Mitigate Concept Confusion in Long-Tailed Learning](cards.md#paper-cue-long-tail) | 长尾微调时保留预训练表征中的相关类局部邻域，让监督允许共享概念。 |
+| 多模态学习 | 参数高效微调 | [LOREAL: Mitigating Low-Resolution Challenges in Vision-Language Models with Attribute-driven Prompt Self-Distillation](cards.md#paper-loreal-low-resolution) | 部署分辨率受限时，用同一内容的异分辨率学生互蒸馏，并检查文字属性是否仍可观测。 |
+| 计算机视觉 | 生成模型 | [VOSR: A Vision-Only Generative Model for Image Super-Resolution](cards.md#paper-vosr-restoration-guidance) | 对恢复任务设计辅助引导分支时，保留弱观测结构而只移除高层语义。 |
+| 计算机视觉 | 输入表示 | [Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation](cards.md#paper-cov2pose) | 直接回归位姿可保留空间二阶统计，并选连续、可做几何运算的输出表示。 |
+| 计算机视觉 | 测试时适应与推理 | [Mixture of Prototypes for Test-time Adaptive Segmentation](cards.md#paper-mixture-of-prototypes-tta) | 域偏移时每类保留多原型并逐样本加权，而非用一个全局中心。 |
+| 机器学习基础与统计 | 参数高效微调 | [OrthoFuse: Training-free Riemannian Fusion of Orthogonal Style-Concept Adapters for Diffusion Models](cards.md#paper-orthofuse) | 合并正交适配器时在结构允许的流形内插值，并核查融合后谱。 |
+| 计算机视觉 | 推理压缩 | [Generative Neural Video Compression via Video Diffusion Prior](cards.md#paper-gnvc-video-diffusion) | 压缩后生成式增强可从已解码潜变量开始，按序列而非逐帧修正。 |
+| 机器学习基础 | 评测与分析 | [Conditional Factuality Controlled LLMs with Generalization Certificates via Conformal Sampling](cards.md#paper-cfc-conditional-conformal-sampling) | 模型假事实率随请求类型变化时，用特征条件阈值替代统一阈值，输出经过覆盖校准的答案集合。 |
+| 多模态学习 | 强化学习 | [Stable and Efficient Single-Rollout RL for Multimodal Reasoning](cards.md#paper-mssr-entropy-advantage) | 单轨迹可验证奖励训练若不稳，可按熵约束优势幅度，再比较相同算力下的多轨迹方案。 |
+| 多模态学习 | 可解释性与诊断 | [Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models](cards.md#paper-multimodal-cot-divergent-hallucination) | 检测多模态长推理幻觉时，把跨线索联想步骤与其他步骤分开核查，避免对全链统一干预。 |
+| 计算机视觉 | 评测与分析 | [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](cards.md#paper-blackmirror-instruction-response-audit) | 黑盒生成服务防御审计应比较指令偏离是否在多种情形保持，而非只看整图相似。 |
+| 机器人学 | 评测与分析 | [From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs](cards.md#paper-sfi-bench-spatial-functional-diagnostics) | 评估室内代理同时测试空间布局与物体用途，并加打乱帧和描述输入以诊断缺口。 |
+| 多模态学习 | 损失函数与优化 | [Phrase-Grounding-Aware Supervised Fine-Tuning for Chart Recognition via Side-Masked Attention](cards.md#paper-smam-phrase-grounded-logits) | 训练视觉语言生成时，可在同层让短语只读对应图块的辅助 logit，再与全图生成目标联训。 |

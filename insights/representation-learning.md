@@ -671,5 +671,8 @@
 - [HSI-GPT2: A Dual-Granularity Large Motion Reasoning Model with Diffusion Refinement for Human-Scene Interaction](../conferences/cvpr-2026/cards.md#paper-hsi-gpt2-dual-motion-token)
 - [LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis](../conferences/cvpr-2026/cards.md#paper-lagernvs-three-dimensional-pretraining-and-direct-rendering)
 - [Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-part2gs)
+- [PE3R: Perception-Efficient 3D Reconstruction](../conferences/cvpr-2026/cards.md#paper-pe3r-multilevel-crossview-semantic-disambiguation)
+- [TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-twings-nonrigid-depth-anchor-initialization)
+- [Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation](../conferences/cvpr-2026/cards.md#paper-cov2pose)
 
 <!-- conference-classification:end -->

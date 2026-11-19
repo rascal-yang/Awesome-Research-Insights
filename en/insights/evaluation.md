@@ -1514,5 +1514,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Enhancing Accuracy of Uncertainty Estimation in Appearance-based Gaze Tracking with Probabilistic Evaluation and Calibration](../../conferences/cvpr-2026/cards.md#paper-gaze-conditional-distribution-coverage-calibration)
 - [Learning 3D Shape Fidelity Metric from Real-world Distortions](../../conferences/cvpr-2026/cards.md#paper-locase-real-shape-fidelity)
 - [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](../../conferences/cvpr-2026/cards.md#paper-sage-visual-and-physics-critic-separation)
+- [VKG-QA: Visual Knowledge Graph-based Question Answer for Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-vkgqa-rendered-knowledge-graph-reasoning)
+- [Conditional Factuality Controlled LLMs with Generalization Certificates via Conformal Sampling](../../conferences/cvpr-2026/cards.md#paper-cfc-conditional-conformal-sampling)
+- [Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models](../../conferences/cvpr-2026/cards.md#paper-multimodal-cot-divergent-hallucination)
+- [BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](../../conferences/cvpr-2026/cards.md#paper-blackmirror-instruction-response-audit)
+- [From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs](../../conferences/cvpr-2026/cards.md#paper-sfi-bench-spatial-functional-diagnostics)
 
 <!-- conference-classification:end -->
