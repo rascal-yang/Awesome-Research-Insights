@@ -1319,5 +1319,10 @@
 - [Breaking the Regional Perception Bottleneck of Multimodal Large Language Models via External Reasoning Framework](../conferences/cvpr-2026/cards.md#paper-r-ground-region-search)
 - [Direct Segmentation without Logits Optimization for Training-Free Open-Vocabulary Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-direct-ovss)
 - [PhysVid: Physics Aware Local Conditioning for Generative Video Models](../conferences/cvpr-2026/cards.md#paper-physvid)
+- [ANTS: Adaptive Negative Textual Space Shaping for OOD Detection via Test-Time MLLM Understanding and Reasoning](../conferences/cvpr-2026/cards.md#paper-ants-ood-negative-labels)
+- [HTTM: Head-wise Temporal Token Merging for Faster VGGT](../conferences/cvpr-2026/cards.md#paper-httm-vggt-headwise-merging)
+- [SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching](../conferences/cvpr-2026/cards.md#paper-sencache)
+- [Structure-to-Intensity Diffusion for Adverse-Weather LiDAR Generation](../conferences/cvpr-2026/cards.md#paper-structure-to-intensity-diffusion)
+- [VIAFormer: Voxel-Image Alignment Transformer for High-Fidelity Voxel Refinement](../conferences/cvpr-2026/cards.md#paper-viaformer)
 
 <!-- conference-classification:end -->

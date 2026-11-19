@@ -858,5 +858,8 @@ Robot perception, policy learning, planning, and control.
 - [Semantic Audio-Visual Navigation in Continuous Environments](../../conferences/cvpr-2026/cards.md#paper-savn-ce-magnet)
 - [OrienPose: Orientation-Guided Novel View Synthesis for Single-Image Unseen Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-orienpose)
 - [Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots](../../conferences/cvpr-2026/cards.md#paper-motion-turing-test)
+- [PAI-Bench: A Comprehensive Benchmark For Physical AI](../../conferences/cvpr-2026/cards.md#paper-pai-bench-physical-grounding)
+- [QueryOcc: Query-based Self-Supervision for 3D Semantic Occupancy](../../conferences/cvpr-2026/cards.md#paper-queryocc)
+- [Structure-to-Intensity Diffusion for Adverse-Weather LiDAR Generation](../../conferences/cvpr-2026/cards.md#paper-structure-to-intensity-diffusion)
 
 <!-- conference-classification:end -->

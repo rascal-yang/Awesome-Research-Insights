@@ -2656,3 +2656,303 @@
 - **适用条件 / 局限** · 移植时需明确周期轴和有效的投影变换，对普通平面图像不具备同样的几何假设。
 
 **可复用机制** · 数据稀缺的周期视觉生成中，将边界周期先验与几何变换一致性同时纳入训练。
+
+<a id="paper-ants-ood-negative-labels"></a>
+
+## ANTS: Adaptive Negative Textual Space Shaping for OOD Detection via Test-Time MLLM Understanding and Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_ANTS_Adaptive_Negative_Textual_Space_Shaping_for_OOD_Detection_via_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_ANTS_Adaptive_Negative_Textual_Space_Shaping_for_OOD_Detection_via_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定负标签缺少实际远域图像的描述，也很难覆盖与已知类外观相似的近域样本。
+- **核心创新 / 方法** · 从历史测试缓存中生成疑似远域的文本描述，同时针对频现且相似的已知类生成近域负标签，按样本动态结合两种分数。
+- **Baseline** · 比较 NegLabel 与关闭远域挖掘、相似已知类挖掘或自适应打分的版本。
+- **Benchmark** · 以 ImageNet-1K 等作为已知类，同时评估近域、远域分布外检测，报告 FPR95 等。
+- **关键结果 / 消融** · 表 4 完整方法近域、远域 FPR95 分别为 60.98、15.38，NegLabel 为 68.18、27.34。
+- **适用条件 / 局限** · 依赖历史批次代表部署分布；缓存被已知类或错误描述污染时应复查误报与拒绝率。
+
+**可复用机制** · 开放集检测应分开构造近域难负标签和远域描述，分别验收误报。见表 4。
+
+<a id="paper-httm-vggt-headwise-merging"></a>
+
+## HTTM: Head-wise Temporal Token Merging for Faster VGGT
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_HTTM_Head-wise_Temporal_Token_Merging_for_Faster_VGGT_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_HTTM_Head-wise_Temporal_Token_Merging_for_Faster_VGGT_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 跨所有视图密集注意力随帧数迅速变贵；跨头一致合并容易让输出位置变得重复。
+- **核心创新 / 方法** · 分别按注意力头匹配并合并时空令牌，保留离群查询，再拼接各头的结果。
+- **Baseline** · 对照 FlashAttention VGGT、FastVGGT 和固定合并后长度下不同的离群过滤比。
+- **Benchmark** · 在视频三维重建评估 Chamfer 准确度与完整度；另测 100–1,000 帧时延，离群消融使用 NRGBD。
+- **关键结果 / 消融** · 表 2 的 1,000 帧从 724.6 秒降到 102.8 秒，FastVGGT 为 175.2 秒。表 4 等令牌长度下，移除离群过滤的准确度距离为 0.240，保留过滤为 0.012–0.013。
+- **适用条件 / 局限** · 依赖注意力头的局部时空冗余；输入视角稀疏、快速运动或纹理弱时需要重新校验合并率。
+
+**可复用机制** · 多视角注意力合并应允许各头保留不同信息，并在相同令牌长度对照离群信息的保留。见表 2–4。
+
+<a id="paper-sencache"></a>
+
+## SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Haghighi_SenCache_Accelerating_Diffusion_Model_Inference_via_Sensitivity-Aware_Caching_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Haghighi_SenCache_Accelerating_Diffusion_Model_Inference_via_Sensitivity-Aware_Caching_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 去噪刷新周期可能跨过对输入变化敏感的时刻，固定间隔复用会造成质量波动。
+- **核心创新 / 方法** · 用有限差分校准输出对噪声潜变量及时间变化的敏感度，据估计误差做逐样本缓存决策。
+- **Baseline** · 比较 TeaCache、MagCache，在相同函数评估次数优先比较速度质量折中。
+- **Benchmark** · VBench 提示生成，覆盖 Wan 2.1、CogVideoX、LTX-Video；报告调用次数、缓存比、LPIPS、PSNR 和 SSIM。
+- **关键结果 / 消融** · 表 1 Wan 2.1 的 21 次调用下，SenCache 的 LPIPS 为 0.0540，MagCache 为 0.0603；25 次调用的两者几乎持平。
+- **适用条件 / 局限** · 需要代表性视频校准敏感度，函数调用数并非实际延迟，高动态、不同采样器或不同分辨率应复测。
+
+**可复用机制** · 扩散缓存何时刷新可按去噪器对当前输入的敏感度预估误差，并固定实际函数调用数评估。见表 1。
+
+<a id="paper-pai-bench-physical-grounding"></a>
+
+## PAI-Bench: A Comprehensive Benchmark For Physical AI
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_PAI-Bench_A_Comprehensive_Benchmark_For_Physical_AI_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_PAI-Bench_A_Comprehensive_Benchmark_For_Physical_AI_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉质量高不保证事件动态合理，模型增加文字推理也可能不改善具身判断。
+- **核心创新 / 方法** · 按生成、条件生成和理解设立真实场景及任务指标，并拆分单/多控制输入和思考开关。
+- **Baseline** · 对照多种专有及开放视频生成器和多模态模型，比较相同骨干开启与关闭思考。
+- **Benchmark** · PAI-Bench 共 2,808 个案例。条件生成测对应控制的保真；理解部分区分常识与具身推理。
+- **关键结果 / 消融** · 表 6 Qwen3-VL-8B 开启思考后总体从 56.8 到 57.3，具身推理由 58.7 到 57.7；32B 的具身推理由 61.1 到 58.4。
+- **适用条件 / 局限** · 结论限所测评估及思考模式，离线视频评测不能替代交互控制验证；自动评分也需人工校准。
+
+**可复用机制** · 物理视频及具身推理验收应分别看视觉逼真、物理约束和预测，把启用思考与不用思考拆开。见表 3–6。
+
+<a id="paper-bolt-spectral-transfer"></a>
+
+## Basis-Oriented Low-rank Transfer for Few-Shot and Test-Time Adaptation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Park_Basis-Oriented_Low-rank_Transfer_for_Few-Shot_and_Test-Time_Adaptation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Park_Basis-Oriented_Low-rank_Transfer_for_Few-Shot_and_Test-Time_Adaptation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 权重插值会混合不同源任务更新，少样本下重新学习整个低秩方向也可能不稳。
+- **核心创新 / 方法** · 逐层从多个任务向量抽主要奇异方向并正交化，冻结形成的谱基，仅学习新任务的对角系数。
+- **Baseline** · 比较零样本 CLIP、线性探针、LoRA、TIP、LP++ 和 aTLAS。
+- **Benchmark** · 在通用及遥感分类集合做 1–16 shot，三种 CLIP 骨干上报告平均准确率，另测测试时适配。
+- **关键结果 / 消融** · 表 1 通用 1-shot 为 71.30%，aTLAS 为 66.34%；遥感 1-shot 为 80.77%，LoRA 为 70.12%。
+- **适用条件 / 局限** · 要求源权重可构成可对齐的任务向量，若目标更新不在源任务方向张成的空间内，仅调系数可能欠拟合。
+
+**可复用机制** · 多个同源已微调模型用于新任务时，可重用更新方向而保留独立的可学习尺度，比较直接合并与从头学习低秩方向。见表 1。
+
+<a id="paper-spatialstack-geometry-layer-injection"></a>
+
+## SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_SpatialStack_Layered_Geometry-Language_Fusion_for_3D_VLM_Spatial_Reasoning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_SpatialStack_Layered_Geometry-Language_Fusion_for_3D_VLM_Spatial_Reasoning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只用末层几何可能漏掉局部结构，把多层几何信号平铺拼接也可能干扰语言推理。
+- **核心创新 / 方法** · 从 VGGT 不同深度提取几何，按尺度对齐，作为残差依次注入语言模型的浅层解码块。
+- **Baseline** · 同微调 Qwen3.5、单层几何视觉融合及多层几何视觉融合对照。
+- **Benchmark** · VSI-Bench、SPAR-Bench、BLINK-Spatial、CV-Bench，报告各基准得分和跨任务均值。
+- **关键结果 / 消融** · 表 2 SpatialStack 平均 69.14，视觉端多层融合为 67.99；BLINK-Spatial 52.12 仍低于基础微调模型的 56.10。
+- **适用条件 / 局限** · 依赖外部几何编码和各层对齐；不适用于所有空间任务，图像重叠不足及新骨干影响需再测。
+
+**可复用机制** · 接入多层三维几何时，比较在视觉端一次融合与逐层接入语言解码器，见表 1–2。
+
+<a id="paper-hint2gen"></a>
+
+## Hint2Gen: Bridging Understanding and Generation via Code-structured Hints
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tu_Hint2Gen_Bridging_Understanding_and_Generation_via_Code-structured_Hints_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tu_Hint2Gen_Bridging_Understanding_and_Generation_via_Code-structured_Hints_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 模型可能知道解法却无法把路线或组合规则直接体现在生成画面里。
+- **核心创新 / 方法** · 以 SVG 或 HTML 叠图编码推理结果，并以叠图作为 FLUX.1 Kontext 的条件。
+- **Baseline** · 表2对照移除提示、换文字推理及不同提示生成与评估模型。
+- **Benchmark** · Reason2Gen 含3300样本、22类任务，表1–2按路径、组装等能力报告准确率。
+- **关键结果 / 消融** · 表2移除提示的平均准确率6.93，只提供文字推理10.94，使用结构化提示的多组配置约30至31。
+- **适用条件 / 局限** · 依赖约束能编码在图像平面，评分会受所用评估模型影响。
+
+**可复用机制** · 把图像推理结果编码成与画面坐标对齐的结构化提示，比只传递文字更容易保留空间约束。
+
+<a id="paper-goldilocks-verification-audit"></a>
+
+## Goldilocks Test Sets for Face Verification
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Goldilocks_Test_Sets_for_Face_Verification_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_Goldilocks_Test_Sets_for_Face_Verification_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常见人脸核验测试趋于饱和，简单劣化图像不能诊断身份判别混淆。
+- **核心创新 / 方法** · 按外观变化和难度组织配对，并控制样本重复以及不同组参与频次。
+- **Baseline** · 用同一 ResNet100 骨干比较既有测试集与 Hadrian、Eclipse、ND-Twins，并做域因素消融。
+- **Benchmark** · 表1–3采用十折核验设置，报告不同受控数据集的准确率。
+- **关键结果 / 消融** · 正文表2显示受控高质量难例仍能分开在常见测试集已饱和的方法。
+- **适用条件 / 局限** · 配对采样改变了总体构成，困难集结果不能代替部署人群上的误识率验证。
+
+**可复用机制** · 防御性核验用受控难例区分身份判别与外观相似性，并限制少数样本反复影响分数。
+
+<a id="paper-lrdun"></a>
+
+## LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_LRDUN_A_Low-Rank_Deep_Unfolding_Network_for_Efficient_Spectral_Compressive_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_LRDUN_A_Low-Rank_Deep_Unfolding_Network_for_Efficient_Spectral_Compressive_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 二维压缩测量直接还原整个高维光谱立方体既昂贵又欠定。
+- **核心创新 / 方法** · 显式分解光谱基和子空间图像，展开近端梯度联合更新，并将物理秩与先验通道数解耦。
+- **Baseline** · 表2对照完整立方体展开、核范数、截断 SVD 和其他低秩嵌入。
+- **Benchmark** · 正文表1–2在仿真场景比较 PSNR、SSIM、参数和 FLOPs，另展示实拍光谱复原。
+- **关键结果 / 消融** · 表2 LRDUN 的39.44 dB、10.26 GFLOPs 对应完整立方体基线的38.16 dB、26.95 GFLOPs。
+- **适用条件 / 局限** · 物体光谱需可由低秩子空间近似，迁移需可区分测量模型和先验表示。
+
+**可复用机制** · 将物理重建的秩约束和学习先验的特征宽度分开设定，避免低秩物理模型限制网络容量。
+
+<a id="paper-gsi-spatial-transfer"></a>
+
+## Exploring Spatial Intelligence from a Generative Perspective
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Exploring_Spatial_Intelligence_from_a_Generative_Perspective_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_Exploring_Spatial_Intelligence_from_a_Generative_Perspective_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只看图像生成拟合或综合空间分数，会遗漏生成训练对不同理解能力的作用。
+- **核心创新 / 方法** · 用三维约束明确的空间编辑任务微调统一模型，再分别验收空间编辑和空间理解。
+- **Baseline** · 以原 BAGEL 为主对照，另比较已有视觉语言模型。
+- **Benchmark** · GSI-Real、GSI-Syn、OmniSpatial、SAT-Real，分别以生成约束遵循和理解准确率衡量。
+- **关键结果 / 消融** · 表3中 BAGEL 加 GSI-Syn 后 OmniSpatial 总分41.55至42.07，空间交互45.67至47.67，逻辑32.14降至28.97。
+- **适用条件 / 局限** · 收益依赖编辑数据与下游技能的匹配，目前不能概括所有空间推理。
+
+**可复用机制** · 空间生成监督能迁移到部分理解任务，但可能损伤逻辑，选数据时应按空间能力分项比较。
+
+<a id="paper-driving-adaptation-forgetting"></a>
+
+## The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mao_The_Blind_Spot_of_Adaptation_Quantifying_and_Mitigating_Forgetting_in_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mao_The_Blind_Spot_of_Adaptation_Quantifying_and_Mitigating_Forgetting_in_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 领域微调可能提高驾驶数据分数，却削弱基础模型原有的长尾知识。
+- **核心创新 / 方法** · 以场景线索路由知识专家，在提示空间做适配，同时保留基础参数。
+- **Baseline** · 正文表3–5对照未微调基础模型、LoRA 前后和不同适配策略。
+- **Benchmark** · 驾驶视觉问答及针对遗忘构建的场景评测，分别估计专项表现和知识保留。
+- **关键结果 / 消融** · 表4直接量化 LoRA 前后的得失，表5报告提示适配的保留与适配权衡。
+- **适用条件 / 局限** · 专家覆盖与路由质量依赖交通数据分布，问答结果不能直接代表真实驾驶安全。
+
+**可复用机制** · 驾驶适配应在同一评测上同时记录专项增益和通用知识遗忘，并比较改权重与运行时路由。
+
+<a id="paper-av-deepfake-representation-audit"></a>
+
+## Investigating Self-Supervised Representations for Audio-Visual Deepfake Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Boldisor_Investigating_Self-Supervised_Representations_for_Audio-Visual_Deepfake_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Boldisor_Investigating_Self-Supervised_Representations_for_Audio-Visual_Deepfake_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 不同检测流水线的探针和训练数据不同，难判别收益来自表征还是分类器。
+- **核心创新 / 方法** · 使用统一线性探针比较不同模态的自监督表示，并报告域外结果与组合收益。
+- **Baseline** · 表2–4比较 Wav2Vec2、BRAVEn、AV-HuBERT 及已有防御检测方法。
+- **Benchmark** · AV1M、FAVC、AVLips、DFE-2024 等，表2–3按域报告 AUC。
+- **关键结果 / 消融** · 表3的线性探针中，BRAVEn 四集平均91.1，AV-HuBERT 84.5；结果显著随训练域和测试域变化。
+- **适用条件 / 局限** · 有些数据缺少完整音频变化，音频探针不适合单独概括多模态整体鲁棒性。
+
+**可复用机制** · 防御检测先用相同线性探针比较冻结表示，并把同域和域外拆分，避免复杂检测头掩盖表征差距。
+
+<a id="paper-clp-restore-segment-tradeoff"></a>
+
+## CLP: A Real-World Dataset of Contaminated Lens Protectors for Robust Semantic Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Park_CLP_A_Real-World_Dataset_of_Contaminated_Lens_Protectors_for_Robust_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Park_CLP_A_Real-World_Dataset_of_Contaminated_Lens_Protectors_for_Robust_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 训练中常将真实污染简化为全局图像退化，复原也可能损失分割线索。
+- **核心创新 / 方法** · 收集带语义标签和对齐清晰参考的真实污染图，比较直接分割与串接复原。
+- **Baseline** · 同一 Mask2Former 单独运行，或接 NAFNet、DiffUIR、URIE 等。
+- **Benchmark** · CLP 的水、泥、凝露及不同污染距离，表1–4分别衡量 mIoU 和复原质量。
+- **关键结果 / 消融** · 表3 DiffUIR 在凝露 mIoU 从32.5升至34.9，但水从39.8降至37.9，泥从29.5降至29.2。
+- **适用条件 / 局限** · 证据来自特定镜头保护片，复用时应按目标光学位置和污染类型重新分层。
+
+**可复用机制** · 真实镜头污染下先分污染类型比较恢复后的分割与直接分割，避免只按恢复质量接入前处理。
+
+<a id="paper-queryocc"></a>
+
+## QueryOcc: Query-based Self-Supervision for 3D Semantic Occupancy
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lilja_QueryOcc_Query-based_Self-Supervision_for_3D_Semantic_Occupancy_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lilja_QueryOcc_Query-based_Self-Supervision_for_3D_Semantic_Occupancy_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 图像渲染一致性只间接约束三维结构，而累积激光点云后离散成栅格会牺牲监督精度与扩展性。
+- **核心创新 / 方法** · 由相邻帧伪点云或原始激光数据采样独立时空查询，直接监督连续语义占据；用空间收缩压缩远处并保留近场细节。
+- **Baseline** · 表1比较 SelfOcc、OccNeRF、GaussianFlowOcc 等；QueryOcc+ 同时使用多种监督与高分辨率输入。
+- **Benchmark** · Occ3D-nuScenes 自监督占据测试，报告语义及占据 RayIoU、体素 IoU 与推理速度。
+- **关键结果 / 消融** · 文中相对 GaussianFlowOcc 报告语义 RayIoU 提升26%、占据 RayIoU 提升25%，推理11.6 FPS。
+- **适用条件 / 局限** · 伪点云质量取决于视觉基础模型，远处压缩影响细节；部分罕见类别仍落后。
+
+**可复用机制** · 训练相机三维占据模型时，用跨帧独立四维查询监督连续占据，减少稠密体素和渲染依赖。
+
+<a id="paper-structure-to-intensity-diffusion"></a>
+
+## Structure-to-Intensity Diffusion for Adverse-Weather LiDAR Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ni_Structure-to-Intensity_Diffusion_for_Adverse-Weather_LiDAR_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ni_Structure-to-Intensity_Diffusion_for_Adverse-Weather_LiDAR_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 坏天气改变激光点云几何和反射强度的机制不同，直接联合去噪使二者相互干扰。
+- **核心创新 / 方法** · 每个扩散步先去噪点云结构，再用估得结构条件化强度去噪；训练增加根据真实统计生成的退化样本。
+- **Baseline** · 对比 WeatherGen，表3拆分其 MDP/SMG 与本文 SiD、RPWS，并测真实数据微调。
+- **Benchmark** · STF 多种恶劣天气与 KITTI-360；分别衡量点云结构及反射强度相关分布。
+- **关键结果 / 消融** · 表1–3报告相近复杂度下结构和强度总体更接近真实数据，并在 STF 雪景消融分解设计。
+- **适用条件 / 局限** · 依赖结构对强度有方向性解释，天气仿真还依赖采集统计；新型号传感器需复核。
+
+**可复用机制** · 当传感器强度取决于几何时，在每个去噪步先估结构，再让强度分支以该结构为条件。
+
+<a id="paper-instap"></a>
+
+## InstAP: Instance-Aware Vision-Language Pre-Train for Spatial-Temporal Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kumar_InstAP_Instance-Aware_Vision-Language_Pre-Train_for_Spatial-Temporal_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kumar_InstAP_Instance-Aware_Vision-Language_Pre-Train_for_Spatial-Temporal_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只做全局对齐时，模型可凭场景理解完成检索，却不能可靠区分同场景个体。
+- **核心创新 / 方法** · 联合全局图文与实例级对比目标，把实例文本同图像区域或视频时空区域显式对齐。
+- **Baseline** · UMT-L 使用完全相同训练语料的全局描述版，以及把实例描述也当全局描述的版本。
+- **Benchmark** · InstVL 图像、零样本图像和视频用实例与全局 T2V/V2T R@1；InstVL-1K 测 IoU@50/70/90；另测 MSR-VTT 和 DiDeMo。
+- **关键结果 / 消融** · 表1显示同语料条件下实例级目标明显改善实例检索；表3检验定位而非只看全局分数。
+- **适用条件 / 局限** · 依赖实例文本和定位数据质量，误指代会直接污染局部对比信号。
+
+**可复用机制** · 需要实例指代或时空检索时，在全局图文对齐外用区域和文本提及做对比学习。
+
+<a id="paper-av-reasoner"></a>
+
+## AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_AV-Reasoner_Improving_and_Benchmarking_Clue-Grounded_Audio-Visual_Counting_for_MLLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_AV-Reasoner_Improving_and_Benchmarking_Clue-Grounded_Audio-Visual_Counting_for_MLLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 端到端计数错了时，单一正确率不能判断是漏找事件、定位错误还是计数失败。
+- **核心创新 / 方法** · 用带时段线索的视听问题组织整段输入和参考线索输入，并联合度量线索定位及计数；模型端另对照课程学习与 GRPO。
+- **Baseline** · 比较 Gemini 2.5 Pro 等视听或视觉语言模型，以及训练策略变化。
+- **Benchmark** · CG-AV-Counting 为497个长视频、1027个问题及5845条线索；报告精确匹配、差一容忍与定位-计数联合指标，另测外部基准。
+- **关键结果 / 消融** · 模型训练提高多项计数指标，但正文报告在域外基准上语言空间推理的提升有限。
+- **适用条件 / 局限** · 结论依赖计数及证据标注任务，不能推断语言推理对所有域外视频任务均无益。
+
+**可复用机制** · 给长视频计数模型做诊断时分开测试线索定位和给定线索后的计数，并在外部数据验证语言推理收益。
+
+<a id="paper-wadi"></a>
+
+## WaDi: Weight Direction-aware Distillation for One-step Image Synthesis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_WaDi_Weight_Direction-aware_Distillation_for_One-step_Image_Synthesis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_WaDi_Weight_Direction-aware_Distillation_for_One-step_Image_Synthesis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一步学生需要重构去噪行为，全参训练昂贵，常规低秩增量未利用教师与学生之间的变化结构。
+- **核心创新 / 方法** · 对比 U-Net 和 DiT 教师学生的权重方向及范数变化，以低秩旋转 LoRaD 参数化方向，再与变分分数蒸馏联用。
+- **Baseline** · 表1比较既有一步蒸馏；表2固定 SD1.5 和 VSD 比较适配器类型，表3改变秩。
+- **Benchmark** · COCO 2014/2017 零样本文本生图，比较 FID、参数量以及权重方向和范数变化。
+- **关键结果 / 消融** · 作者报告蒸馏后方向变化超过范数变化；WaDi 约用全参 U-Net/DiT 的10%可训练参数，表2检验参数化收益。
+- **适用条件 / 局限** · 低秩方向偏好在所测扩散师生配置得到支持，跨架构和不同目标的蒸馏需重测。
+
+**可复用机制** · 从多步扩散蒸馏到一步时，根据教师到学生的权重变化选择低秩旋转适配器。
+
+<a id="paper-viaformer"></a>
+
+## VIAFormer: Voxel-Image Alignment Transformer for High-Fidelity Voxel Refinement
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fang_VIAFormer_Voxel-Image_Alignment_Transformer_for_High-Fidelity_Voxel_Refinement_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fang_VIAFormer_Voxel-Image_Alignment_Transformer_for_High-Fidelity_Voxel_Refinement_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 从噪声重新生成会浪费粗体素中的正确结构，而图像 token 没有直接的三维定位。
+- **核心创新 / 方法** · 把相机标定对应关系编码成图像索引，用混合流 Transformer 融合体素与视图信息，学习从有损体素到干净体素的修正流。
+- **Baseline** · 表1–2比较视觉基础模型产出的粗体素、已有重建与体素修复方案，并分别测真实伪影和合成损坏。
+- **Benchmark** · Toys4k、Dora；衡量体积 IoU、表面 Chamfer 距离，并记录生成开销。
+- **关键结果 / 消融** · 表1–2显示两类损坏下修正后整体指标改善；正文给出10步求解约14.5秒的配置。
+- **适用条件 / 局限** · 需要校准图像并依赖粗形状输入含有有用结构；迭代成本及域外形状需另估。
+
+**可复用机制** · 修复已有粗三维表示时，使生成轨迹从受损潜变量直接走向干净目标，并显式对齐校准图像。
+
+<a id="paper-mv-tap"></a>
+
+## MV-TAP: Tracking Any Point in Multi-View Videos
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Koo_MV-TAP_Tracking_Any_Point_in_Multi-View_Videos_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Koo_MV-TAP_Tracking_Any_Point_in_Multi-View_Videos_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐路独立追踪无法用其他相机补偿遮挡，两视角对应错误也会累积到后续帧。
+- **核心创新 / 方法** · 依据相机几何从当前轨迹构建跨视图信息交换，再结合时序特征迭代更新二维轨迹和遮挡状态。
+- **Baseline** · 对照 CoTracker2/3 的单视角或多视角扩展，并比较所测多视角方案。
+- **Benchmark** · Studio、Kubric、Harmony4D 等多视角序列，测跟踪精度、AJ 和遮挡相关指标。
+- **关键结果 / 消融** · 原文定量结果与样例显示动态遮挡和困难视角下联合追踪提升，跨视图信息消融检验其贡献。
+- **适用条件 / 局限** · 依赖同步及相机几何质量，所有视角都不可见时仍缺少观察证据。
+
+**可复用机制** · 多相机追踪遇到遮挡时，将相机几何作为跨视角注意力的约束，联合更新轨迹和可见性。

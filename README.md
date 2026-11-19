@@ -16,23 +16,23 @@
 
 <a id="conference-sources"></a>
 
-**最新筛选 · 2026-11-19** · [ICML 2026 · 6,552 / 6,552 篇已筛选 · 收录 3,276 篇](conferences/icml-2026/README.md) · [CoRL 2026 · 687 / 687 篇已筛选 · 收录 343 篇](conferences/corl-2026/README.md) · [NeurIPS 2026 · 已筛选 9,144 条 · 收录 4,572 篇](conferences/neurips-2026/README.md) · [CVPR 2026 · 239 / 4,042 篇已筛选 · 暂收录 177 篇](conferences/cvpr-2026/README.md)
+**最新筛选 · 2026-11-19** · [ICML 2026 · 6,552 / 6,552 篇已筛选 · 收录 3,276 篇](conferences/icml-2026/README.md) · [CoRL 2026 · 687 / 687 篇已筛选 · 收录 343 篇](conferences/corl-2026/README.md) · [NeurIPS 2026 · 已筛选 9,144 条 · 收录 4,572 篇](conferences/neurips-2026/README.md) · [CVPR 2026 · 269 / 4,042 篇已筛选 · 暂收录 197 篇](conferences/cvpr-2026/README.md)
 
 <a id="papers-by-domain"></a>
 
 ## 按领域浏览
 
-**共 8,369 篇论文。** 计数覆盖当前索引中的 ICML、CoRL、NeurIPS 和 CVPR 论文卡，含 CVPR 暂收录及待归类条目。
+**共 8,389 篇论文。** 计数覆盖当前索引中的 ICML、CoRL、NeurIPS 和 CVPR 论文卡，含 CVPR 暂收录及待归类条目。
 
 | 领域 | 收录论文 | 收录范围 |
 | :--- | ---: | :--- |
 | <a id="large-language-models"></a>[大语言模型](papers/llm.md) | 2,352 | 语言模型、工具调用与智能体。 |
-| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 935 | 视觉识别、表征学习与生成。 |
+| <a id="computer-vision"></a>[计算机视觉](papers/computer-vision.md) | 943 | 视觉识别、表征学习与生成。 |
 | <a id="natural-language-processing"></a>[自然语言处理](papers/nlp.md) | 56 | 语言、语音、检索与文本处理。 |
 | <a id="reinforcement-learning"></a>[强化学习](papers/reinforcement-learning.md) | 593 | 交互决策、奖励、策略学习与博弈。 |
-| <a id="robotics"></a>[机器人学](papers/robotics.md) | 784 | 机器人感知、策略学习、规划与控制。 |
-| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 843 | 跨视觉、文本、音频等模态的学习与推理。 |
-| <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 2,223 | 通用学习方法、优化、学习理论与统计推断。 |
+| <a id="robotics"></a>[机器人学](papers/robotics.md) | 787 | 机器人感知、策略学习、规划与控制。 |
+| <a id="multimodal-learning"></a>[多模态学习](papers/multimodal.md) | 851 | 跨视觉、文本、音频等模态的学习与推理。 |
+| <a id="ml-foundations"></a>[机器学习基础与统计](papers/ml-foundations.md) | 2,224 | 通用学习方法、优化、学习理论与统计推断。 |
 | <a id="graph-and-recommendation"></a>[图学习与推荐](papers/graph-and-recommendation.md) | 168 | 图模型、知识图谱与推荐系统。 |
 | <a id="scientific-ml"></a>[科学机器学习](papers/scientific-ml.md) | 330 | 物理、医学、生物与工程中的机器学习。 |
 | [待归类](papers/pending-classification.md) | 85 | 会议原标签待映射到统一分类。 |
@@ -41,20 +41,20 @@
 
 ## 跨领域技术索引
 
-**共 8,370 个技术机制。** 一篇论文可贡献多个机制，待归类机制也计入总数。
+**共 8,390 个技术机制。** 一篇论文可贡献多个机制，待归类机制也计入总数。
 
 | 技术分类 | 机制数 | 收录范围 |
 | :--- | ---: | :--- |
-| <a id="architectures"></a>[模型架构](insights/architecture.md) | 503 | 整体架构与信息流。 |
+| <a id="architectures"></a>[模型架构](insights/architecture.md) | 506 | 整体架构与信息流。 |
 | <a id="computer-vision-modules"></a><a id="modules"></a>[模块](insights/modules.md) | 344 | 局部组件、连接与参数化。 |
 | <a id="loss-functions"></a>[损失函数](insights/loss-functions.md) | 321 | 训练目标、辅助监督与正则化。 |
 | <a id="optimization"></a>[优化](insights/optimization.md) | 616 | 梯度更新、求解器与优化过程。 |
 | <a id="reward-and-advantage-estimation"></a><a id="reinforcement-learning-methods"></a>[强化学习方法](insights/reinforcement-learning.md) | 677 | 奖励、探索、信用分配与策略更新。 |
-| <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 854 | 训练日程、微调、蒸馏与迁移。 |
+| <a id="training-strategies"></a>[训练策略](insights/training-strategies.md) | 860 | 训练日程、微调、蒸馏与迁移。 |
 | <a id="data-strategies"></a>[数据策略](insights/data-strategies.md) | 302 | 数据构造、筛选、标注与采样。 |
-| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 1,255 | 解码、搜索、推理时适配与高效执行。 |
-| [表征学习](insights/representation-learning.md) | 471 | 表征提取、对齐、迁移与解耦。 |
-| [评测与诊断](insights/evaluation.md) | 1,354 | 基准、评测协议、消融与失效诊断。 |
+| <a id="inference-strategies"></a>[推理策略](insights/inference.md) | 1,260 | 解码、搜索、推理时适配与高效执行。 |
+| [表征学习](insights/representation-learning.md) | 472 | 表征提取、对齐、迁移与解耦。 |
+| [评测与诊断](insights/evaluation.md) | 1,359 | 基准、评测协议、消融与失效诊断。 |
 | [理论与统计](insights/theory-statistics.md) | 920 | 学习保证、反例、估计与统计检验。 |
 | [待归类](insights/pending-classification.md) | 753 | 会议原标签待映射到统一分类。 |
 

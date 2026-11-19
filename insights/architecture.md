@@ -567,5 +567,8 @@
 - [ReCoFuse: Ultra-Robust Image Fusion via Restorative Multi-Modal Diffusion Reciprocal Coupling](../conferences/cvpr-2026/cards.md#paper-recofuse)
 - [Semantic Audio-Visual Navigation in Continuous Environments](../conferences/cvpr-2026/cards.md#paper-savn-ce-magnet)
 - [DDT: Decoupled Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-decoupled-diffusion-transformer)
+- [SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning](../conferences/cvpr-2026/cards.md#paper-spatialstack-geometry-layer-injection)
+- [Hint2Gen: Bridging Understanding and Generation via Code-structured Hints](../conferences/cvpr-2026/cards.md#paper-hint2gen)
+- [LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging](../conferences/cvpr-2026/cards.md#paper-lrdun)
 
 <!-- conference-classification:end -->

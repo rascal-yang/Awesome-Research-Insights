@@ -535,5 +535,6 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](../../conferences/cvpr-2026/cards.md#paper-hypernas)
 - [Rank-Guided Pseudo-Bias Learning for Robust Black-Box Adaptation](../../conferences/cvpr-2026/cards.md#paper-pld-blackbox-debias)
 - [CrossHOI: Learning Cross-View Representations for Monocular 3D Human-Object Interaction Reconstruction](../../conferences/cvpr-2026/cards.md#paper-crosshoi)
+- [MV-TAP: Tracking Any Point in Multi-View Videos](../../conferences/cvpr-2026/cards.md#paper-mv-tap)
 
 <!-- conference-classification:end -->

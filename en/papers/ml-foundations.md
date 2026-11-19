@@ -2294,5 +2294,6 @@ General learning methods, optimization, learning theory, and inference.
 - [HyperNAS: Enhancing Architecture Representation for NAS Predictor via Hypernetwork](../../conferences/cvpr-2026/cards.md#paper-hypernas)
 - [Personalized Federated Training of Diffusion Models with Privacy Guarantees](../../conferences/cvpr-2026/cards.md#paper-private-personalized-federated-diffusion)
 - [Rank-Guided Pseudo-Bias Learning for Robust Black-Box Adaptation](../../conferences/cvpr-2026/cards.md#paper-pld-blackbox-debias)
+- [Basis-Oriented Low-rank Transfer for Few-Shot and Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-bolt-spectral-transfer)
 
 <!-- conference-classification:end -->

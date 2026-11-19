@@ -914,5 +914,13 @@
 - [PhysVid: Physics Aware Local Conditioning for Generative Video Models](../conferences/cvpr-2026/cards.md#paper-physvid)
 - [DDT: Decoupled Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-decoupled-diffusion-transformer)
 - [DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training](../conferences/cvpr-2026/cards.md#paper-dit360)
+- [ANTS: Adaptive Negative Textual Space Shaping for OOD Detection via Test-Time MLLM Understanding and Reasoning](../conferences/cvpr-2026/cards.md#paper-ants-ood-negative-labels)
+- [SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning](../conferences/cvpr-2026/cards.md#paper-spatialstack-geometry-layer-injection)
+- [Hint2Gen: Bridging Understanding and Generation via Code-structured Hints](../conferences/cvpr-2026/cards.md#paper-hint2gen)
+- [Exploring Spatial Intelligence from a Generative Perspective](../conferences/cvpr-2026/cards.md#paper-gsi-spatial-transfer)
+- [The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models](../conferences/cvpr-2026/cards.md#paper-driving-adaptation-forgetting)
+- [InstAP: Instance-Aware Vision-Language Pre-Train for Spatial-Temporal Understanding](../conferences/cvpr-2026/cards.md#paper-instap)
+- [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](../conferences/cvpr-2026/cards.md#paper-av-reasoner)
+- [WaDi: Weight Direction-aware Distillation for One-step Image Synthesis](../conferences/cvpr-2026/cards.md#paper-wadi)
 
 <!-- conference-classification:end -->

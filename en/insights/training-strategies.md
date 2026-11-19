@@ -918,5 +918,11 @@ Training schedules, curricula, and task or stage composition.
 - [Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](../../conferences/cvpr-2026/cards.md#paper-ces-execution-feedback)
 - [Moving Border Ownership for Event-based Motion Segmentation](../../conferences/cvpr-2026/cards.md#paper-moving-border-ownership)
 - [TGTrack: Temporal Generative Learning for Unified Single Object Tracking](../../conferences/cvpr-2026/cards.md#paper-tgtrack)
+- [Basis-Oriented Low-rank Transfer for Few-Shot and Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-bolt-spectral-transfer)
+- [Exploring Spatial Intelligence from a Generative Perspective](../../conferences/cvpr-2026/cards.md#paper-gsi-spatial-transfer)
+- [The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models](../../conferences/cvpr-2026/cards.md#paper-driving-adaptation-forgetting)
+- [QueryOcc: Query-based Self-Supervision for 3D Semantic Occupancy](../../conferences/cvpr-2026/cards.md#paper-queryocc)
+- [InstAP: Instance-Aware Vision-Language Pre-Train for Spatial-Temporal Understanding](../../conferences/cvpr-2026/cards.md#paper-instap)
+- [WaDi: Weight Direction-aware Distillation for One-step Image Synthesis](../../conferences/cvpr-2026/cards.md#paper-wadi)
 
 <!-- conference-classification:end -->

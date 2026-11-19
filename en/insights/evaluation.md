@@ -1418,5 +1418,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [KaLOS finds Consensus: A Meta-Algorithm for Evaluating Inter-Annotator Agreement in Complex Vision Tasks](../../conferences/cvpr-2026/cards.md#paper-kalos-localization-first-agreement)
 - [Scaling Spatial Intelligence with Multimodal Foundation Models](../../conferences/cvpr-2026/cards.md#paper-sensenova-si-spatial-diagnostics)
 - [Towards Motion Turing Test: Evaluating Human-Likeness in Humanoid Robots](../../conferences/cvpr-2026/cards.md#paper-motion-turing-test)
+- [PAI-Bench: A Comprehensive Benchmark For Physical AI](../../conferences/cvpr-2026/cards.md#paper-pai-bench-physical-grounding)
+- [Goldilocks Test Sets for Face Verification](../../conferences/cvpr-2026/cards.md#paper-goldilocks-verification-audit)
+- [Investigating Self-Supervised Representations for Audio-Visual Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-av-deepfake-representation-audit)
+- [CLP: A Real-World Dataset of Contaminated Lens Protectors for Robust Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-clp-restore-segment-tradeoff)
+- [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](../../conferences/cvpr-2026/cards.md#paper-av-reasoner)
 
 <!-- conference-classification:end -->

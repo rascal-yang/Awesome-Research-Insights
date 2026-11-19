@@ -1006,5 +1006,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [Moving Border Ownership for Event-based Motion Segmentation](../../conferences/cvpr-2026/cards.md#paper-moving-border-ownership)
 - [TGTrack: Temporal Generative Learning for Unified Single Object Tracking](../../conferences/cvpr-2026/cards.md#paper-tgtrack)
 - [CrossHOI: Learning Cross-View Representations for Monocular 3D Human-Object Interaction Reconstruction](../../conferences/cvpr-2026/cards.md#paper-crosshoi)
+- [HTTM: Head-wise Temporal Token Merging for Faster VGGT](../../conferences/cvpr-2026/cards.md#paper-httm-vggt-headwise-merging)
+- [SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching](../../conferences/cvpr-2026/cards.md#paper-sencache)
+- [Goldilocks Test Sets for Face Verification](../../conferences/cvpr-2026/cards.md#paper-goldilocks-verification-audit)
+- [LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging](../../conferences/cvpr-2026/cards.md#paper-lrdun)
+- [Investigating Self-Supervised Representations for Audio-Visual Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-av-deepfake-representation-audit)
+- [CLP: A Real-World Dataset of Contaminated Lens Protectors for Robust Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-clp-restore-segment-tradeoff)
+- [VIAFormer: Voxel-Image Alignment Transformer for High-Fidelity Voxel Refinement](../../conferences/cvpr-2026/cards.md#paper-viaformer)
+- [MV-TAP: Tracking Any Point in Multi-View Videos](../../conferences/cvpr-2026/cards.md#paper-mv-tap)
 
 <!-- conference-classification:end -->
