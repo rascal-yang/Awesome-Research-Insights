@@ -398,16 +398,13 @@ Machine learning for physics, medicine, biology, and engineering.
 - [What do EEG Foundation Models Capture from Human Brain Signals?](../../conferences/neurips-2026/cards-0012.md#paper-150770)
 - [Why Learning Rediscovers the Closed-Form Diagonal Regularizer](../../conferences/neurips-2026/cards-0013.md#paper-152121)
 
-## CVPR 2026 (provisional)
+## CVPR 2026
 
-- [Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-aleatoric-uncertainty-spectrum)
 - [Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation](../../conferences/cvpr-2026/cards.md#paper-frequency-prompt-multi-rater-segmentation)
-- [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](../../conferences/cvpr-2026/cards.md#paper-steph-sparse-task-mixup)
 - [Revisiting 2D Foundation Models for Scalable 3D Medical Image Classification](../../conferences/cvpr-2026/cards.md#paper-anymc3d-frozen-2d-transfer)
 - [Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-anatomica-local-constraints)
 - [FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment](../../conferences/cvpr-2026/cards.md#paper-fbta-feature-bridging)
 - [FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-fluidgaussian-functional-reconstruction)
-- [Unlocking Positive Transfer in Incrementally Learning Surgical Instruments: A Self-reflection Hierarchical Prompt Framework](../../conferences/cvpr-2026/cards.md#paper-hierarchical-prompts-positive-transfer)
 - [Spatial-SAM: Spatially Consistent 3D Electron Microscopy Segmentation with SDF Memory and Semi-Supervised Learning](../../conferences/cvpr-2026/cards.md#paper-spatial-sam-sdf-memory)
 - [Pixel2Phys: Distilling Governing Laws from Visual Dynamics](../../conferences/cvpr-2026/cards.md#paper-pixel2phys-hypothesis-validation-loop)
 

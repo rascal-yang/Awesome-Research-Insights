@@ -405,7 +405,7 @@
 - [When LLM Routers Overpay: Strong-Model Over-Selection under Loose Budgets](../conferences/neurips-2026/cards-0012.md#paper-148797)
 - [Who Says What: Symbolic Trimodal Binding Mechanisms in Audio-Visual LLMs](../conferences/neurips-2026/cards-0012.md#paper-153354)
 
-## CVPR 2026（暂收录）
+## CVPR 2026
 
 - [Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking](../conferences/cvpr-2026/cards.md#paper-unikpt)
 - [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](../conferences/cvpr-2026/cards.md#paper-bdmerging-evidence-routed-model-merging)
@@ -419,24 +419,16 @@
 - [DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-drivemoe-view-skill-routing)
 - [TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation](../conferences/cvpr-2026/cards.md#paper-trajrag-topopolar-experience-retrieval)
 - [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](../conferences/cvpr-2026/cards.md#paper-avavla-recurrent-belief-visual-attention)
-- [UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition](../conferences/cvpr-2026/cards.md#paper-unimernet-horizontal-vertical-raster-attention)
 - [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](../conferences/cvpr-2026/cards.md#paper-onesparse-memory-moe-unified-routing)
 - [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](../conferences/cvpr-2026/cards.md#paper-look-before-fuse-boundary-prealignment)
-- [EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](../conferences/cvpr-2026/cards.md#paper-editctrl-mask-local-global-context)
 - [VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](../conferences/cvpr-2026/cards.md#paper-vecattention-vertical-vector-sparsity)
 - [Multi-view Pyramid Transformer: Look Coarser to See Broader](../conferences/cvpr-2026/cards.md#paper-mvp-view-spatial-dual-hierarchy)
 - [Information-Theoretic Decomposition for Multimodal Interaction Learning](../conferences/cvpr-2026/cards.md#paper-decomposition-sample-specific-modal-interactions)
 - [Towards Balanced Multi-Modal Learning in 3D Human Pose Estimation](../conferences/cvpr-2026/cards.md#paper-shapley-modality-learning-regulation)
 - [Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer](../conferences/cvpr-2026/cards.md#paper-attention-surgery-hybrid-video-diffusion)
-- [VMonarch: Efficient Video Diffusion Transformers with Structured Attention](../conferences/cvpr-2026/cards.md#paper-vmonarch-spatiotemporal-structured-attention)
-- [The Midas Touch for Metric Depth](../conferences/cvpr-2026/cards.md#paper-mtd-segmentwise-sparse-metric-depth)
-- [Narrative Weaver: Towards Controllable Long-Range Visual Consistency with Multi-Modal Conditioning](../conferences/cvpr-2026/cards.md#paper-narrative-weaver-dynamic-visual-memory)
 - [OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning](../conferences/cvpr-2026/cards.md#paper-oasis-hierarchical-event-memory-refinement)
-- [FluxMem: Adaptive Hierarchical Memory for Streaming Video Understanding](../conferences/cvpr-2026/cards.md#paper-fluxmem-temporal-spatial-adaptive-compression)
-- [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](../conferences/cvpr-2026/cards.md#paper-onestory-global-frame-memory-next-shot)
 - [BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates](../conferences/cvpr-2026/cards.md#paper-balm-missing-rate-gradient-rebalancing)
 - [ARES: Unifying Asymmetric RGB-Event Stereo for Probabilistic Scene Flow Estimation](../conferences/cvpr-2026/cards.md#paper-ares-temporal-disparity-posterior-fusion)
-- [Ego: Embedding-Guided Personalization of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-ego-internal-attention-concept-memory)
 - [Random Wins All: Rethinking Grouping Strategies for Vision Tokens](../conferences/cvpr-2026/cards.md#paper-random-token-grouping-baseline)
 
 <!-- conference-classification:end -->

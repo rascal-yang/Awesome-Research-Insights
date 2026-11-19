@@ -981,7 +981,7 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [WorldVLA: A Unified Vision-Language-Action and World Model](../../conferences/neurips-2026/cards-0013.md#paper-155786)
 - [WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation](../../conferences/neurips-2026/cards-0013.md#paper-150851)
 
-## CVPR 2026 (provisional)
+## CVPR 2026
 
 - [Is the Modality Gap a Bug or a Feature? A Robustness Perspective](../../conferences/cvpr-2026/cards.md#paper-modality-gap-robustness)
 - [CGU-Bayes: Causal Graph Uncertainty-Guided Bayesian Inference for Domain Generalization](../../conferences/cvpr-2026/cards.md#paper-cgu-bayes-graph-uncertainty)
@@ -994,11 +994,9 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs](../../conferences/cvpr-2026/cards.md#paper-lata-label-free-transductive-conformal)
 - [Think Before You Drive: World Model-Inspired Multimodal Grounding](../../conferences/cvpr-2026/cards.md#paper-thinkdeeper-latent-rollout-grounding)
 - [WPT: World-to-Policy Transfer via Online World Model Distillation](../../conferences/cvpr-2026/cards.md#paper-wpt-distill-world-model-into-policy)
-- [MAD: Motion Appearance Decoupling for efficient Driving World Models](../../conferences/cvpr-2026/cards.md#paper-mad-structured-motion-appearance-decoupling)
 - [SparseWorld-TC: Trajectory-Conditioned Sparse Occupancy World Model](../../conferences/cvpr-2026/cards.md#paper-sparseworld-tc-trajectory-conditioned-occupancy)
 - [Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR](../../conferences/cvpr-2026/cards.md#paper-consensus-entropy-adaptive-ocr-verification)
 - [Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context](../../conferences/cvpr-2026/cards.md#paper-geometry-as-context-autoregressive-reconstruction)
-- [HandWorld: Hand-Centric Unified Video Action Generation](../../conferences/cvpr-2026/cards.md#paper-handworld-shared-action-video-conditioning)
 - [DreamSAC: Learning Hamiltonian World Models via Symmetry Exploration](../../conferences/cvpr-2026/cards.md#paper-dreamsac-hamiltonian-symmetry-exploration)
 - [NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction](../../conferences/cvpr-2026/cards.md#paper-navforesee-dual-horizon-visual-imagination)
 - [PHANTOM: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics](../../conferences/cvpr-2026/cards.md#paper-physics-infused-joint-visual-latent-dynamics)
