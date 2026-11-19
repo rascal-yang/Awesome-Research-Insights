@@ -1697,5 +1697,15 @@ Learning across modalities such as images, text, audio, and video.
 - [CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](../../conferences/cvpr-2026/cards.md#paper-codemmr-trimodal-artifact-retrieval)
 - [Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking](../../conferences/cvpr-2026/cards.md#paper-visual-to-linguistic-implicit-tracking)
 - [EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](../../conferences/cvpr-2026/cards.md#paper-eaglevision-diverse-keyframes-bev-active-reasoning)
+- [From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](../../conferences/cvpr-2026/cards.md#paper-weight-space-per-direction-transformer-interpretation)
+- [Locate-then-Sparsify: Attribution Guided Sparse Strategy for Visual Hallucination Mitigation](../../conferences/cvpr-2026/cards.md#paper-layer-selective-hallucination-feature-steering)
+- [VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-communicating-parallel-video-tool-policies)
+- [SketchVL: Policy Optimization via Fine-Grained Credit Assignment for Chart Understanding and More](../../conferences/cvpr-2026/cards.md#paper-visual-markers-stepwise-credit-chart-rl)
+- [Structural Graph Probing of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vlm-structural-graph-probes)
+- [One Token, Two Fates: A Unified Framework via Vision Token Manipulation Against MLLMs Hallucination](../../conferences/cvpr-2026/cards.md#paper-dual-vision-token-calibration)
+- [Multi-modal Frequency Decomposition Network for Semantic Scene Completion](../../conferences/cvpr-2026/cards.md#paper-mfdnet-frequency-fusion)
+- [Beyond Missing Modalities: Hypergraph Conditioned Diffusion for Uncertainty-Aware Multimodal Emotion Recognition](../../conferences/cvpr-2026/cards.md#paper-hyperef-missing-modality-evidence)
+- [Cross-View Distillation and Adaptive Masking for Incomplete Multi-View Multi-Label Classification](../../conferences/cvpr-2026/cards.md#paper-cdam-cross-view-distillation-incomplete-labels)
+- [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pti-prefill-kv-hallucination-control)
 
 <!-- conference-classification:end -->

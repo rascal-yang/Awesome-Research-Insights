@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,867 篇，其中 2,471 篇暂收录、1,396 篇排除，另有 175 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,897 篇，其中 2,493 篇暂收录、1,404 篇排除，另有 145 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2477,3 +2477,25 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,867
 | 智能体 | 工具调度 | [DRAMA: Next-Gen Dynamic Orchestration for Resilient Multi-Agent Ecosystems in Flux](cards.md#paper-drama-dynamic-team-orchestration) | 用人员退出、重返和替换测试任务重分配，以过程冲突和吞吐衡量协调。 |
 | 多模态学习 | 主动感知 | [EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](cards.md#paper-eaglevision-diverse-keyframes-bev-active-reasoning) | 固定帧预算下兼顾语义相关与视点多样性，必要时再以俯视图定位新观察。 |
 | 生成模型 | 记忆机制 | [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](cards.md#paper-onestory-global-frame-memory-next-shot) | 逐镜头生成时从全局历史选相关帧，而不是只用上一帧或固定短窗。 |
+| 计算机视觉 | 模型架构 | [Tavatar: Topology-Aware Gaussian Attribute Derivation for Animatable Human Avatars](cards.md#paper-mesh-derived-scale-in-animatable-gaussians) | 可将动画图元的尺度和方向直接绑定局部网格，减少未见形变中的无约束漂移。 |
+| 多模态学习 | 评测与诊断 | [From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](cards.md#paper-weight-space-per-direction-transformer-interpretation) | 无需任务样本即可在权重空间拆解注意头，并分别解释其奇异方向。 |
+| 计算机视觉 | 训练策略 | [StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets](cards.md#paper-shared-latent-multitask-partial-supervision) | 稠密多任务可把只标部分任务的数据统一到潜回归损失，并用共享任务注意力避免二次交互开销。 |
+| 多模态学习 | 推理策略 | [Locate-then-Sparsify: Attribution Guided Sparse Strategy for Visual Hallucination Mitigation](cards.md#paper-layer-selective-hallucination-feature-steering) | 特征引导可先定位对幻觉敏感的层，再稀疏安排校正强度。 |
+| 机器人学 | 训练策略 | [Beyond Rule-Based Agents: Active Markov Games for Realistic Multi-Agent Interaction in Autonomous Driving](cards.md#paper-interactive-coevolution-for-driving-policy) | 交互策略的训练可让其他模拟主体随学习过程变化，增加固定轨迹从未覆盖的协作情形。 |
+| 机器学习基础与统计 | 评测与诊断 | [Spectral Conformal Risk Control: Distribution-Free Tail Guarantees via Bayesian Quadrature](cards.md#paper-distribution-free-tail-risk-conformal-calibration) | 高代价低频错误可用尾部风险校准，而非只控制平均错误。 |
+| 多模态学习 | 推理策略 | [VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning](cards.md#paper-communicating-parallel-video-tool-policies) | 多代理可各自规划视频取证工具，再在执行中共享已获得的证据以减少重复。 |
+| 多模态学习 | 训练策略 | [SketchVL: Policy Optimization via Fine-Grained Credit Assignment for Chart Understanding and More](cards.md#paper-visual-markers-stepwise-credit-chart-rl) | 可把多模态推理中间状态渲染为可核查的标记，为每一步独立分配训练奖励。 |
+| 多模态学习 | 评测与诊断 | [Structural Graph Probing of Vision-Language Models](cards.md#paper-vlm-structural-graph-probes) | 用层内激活相关图定位跨模态共享枢纽，再用干预核验其影响。 |
+| 计算机视觉 | 训练策略 | [Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach](cards.md#paper-geolora-partial-shape-descriptors) | 为遮挡与局部扫描微调视觉特征时，用缺失结构自监督测试对应稳定性。 |
+| 多模态学习 | 推理策略 | [One Token, Two Fates: A Unified Framework via Vision Token Manipulation Against MLLMs Hallucination](cards.md#paper-dual-vision-token-calibration) | 用增强视觉令牌补充证据，再做删令牌对照估计语言先验影响。 |
+| 计算机视觉 | 模型架构 | [SpatialDiff: 3D-Aware Object Movement via Implicit Spatial Modeling](cards.md#paper-spatialdiff-implicit-3d) | 对象位移编辑需按场景深度和遮挡处理，而不是只对二维坐标变换。 |
+| 多模态学习 | 模型架构 | [Multi-modal Frequency Decomposition Network for Semantic Scene Completion](cards.md#paper-mfdnet-frequency-fusion) | 深度和图像在空间域错位时，可在频域调节各模态的特征融合。 |
+| 多模态学习 | 模型架构 | [Beyond Missing Modalities: Hypergraph Conditioned Diffusion for Uncertainty-Aware Multimodal Emotion Recognition](cards.md#paper-hyperef-missing-modality-evidence) | 恢复缺失模态时保留不确定性，用多元上下文条件约束重建。 |
+| 机器学习基础与统计 | 优化策略 | [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](cards.md#paper-grpo-guard-ratio-shift) | 流式生成强化学习需按时间步检查重要性比率分布和裁剪有效范围。 |
+| 多模态学习 | 知识蒸馏 | [Cross-View Distillation and Adaptive Masking for Incomplete Multi-View Multi-Label Classification](cards.md#paper-cdam-cross-view-distillation-incomplete-labels) | 同时缺视角和标签时，用较可靠视角指导较弱视角，再适应各路缺失程度。 |
+| 生成模型 | 采样与调度 | [Efficient Weighted Sampling via Score-based Generative Models](cards.md#paper-weighted-diffusion-uncertainty-guidance) | 已有基础分布时直接施加目标权重引导，以时间不确定度降低昂贵的修正。 |
+| 生成模型 | 知识蒸馏 | [FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters](cards.md#paper-fastlightgen-joint-step-and-parameter-distillation) | 压缩视频生成同时比较步数和参数预算，避免单方向优化转移瓶颈。 |
+| 机器学习 | 分布外检测 | [The Invisible Gorilla Effect in Out-of-distribution Detection](cards.md#paper-invisible-gorilla-roi-similarity-ood) | 测试近域异常时独立改变其与模型注意区域的外观相似度，防止低估远离表征的异常。 |
+| 机器学习 | 组合泛化 | [Learning by Analogy: A Causal Framework for Compositional Generalization](cards.md#paper-compositional-analogy-causal-minimal-changes) | 用只改变少数低层成分的类比对测试和训练新概念组合。 |
+| 多模态学习 | 推理时干预 | [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](cards.md#paper-pti-prefill-kv-hallucination-control) | 只在预填充阶段修改初始 KV 状态，检查幻觉是否能在串行放大前被抑制。 |
+| 三维视觉 | 结构化生成 | [UniPart: Part-Level 3D Generation with Unified 3D Geom-Seg Latents](cards.md#paper-unipart-joint-geometry-segmentation-latents) | 将整体几何和部件结构共同编码，再在局部潜变量内细化可拆分资产。 |

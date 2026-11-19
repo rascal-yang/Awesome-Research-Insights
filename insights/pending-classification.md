@@ -893,5 +893,6 @@
 - [Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models](../conferences/cvpr-2026/cards.md#paper-eda-arbitrary-noise-restoration-path)
 - [RemedyGS: Defend 3D Gaussian Splatting Against Computation Cost Attacks](../conferences/cvpr-2026/cards.md#paper-remedygs-reconstruction-resource-defense)
 - [EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](../conferences/cvpr-2026/cards.md#paper-eaglevision-diverse-keyframes-bev-active-reasoning)
+- [Learning by Analogy: A Causal Framework for Compositional Generalization](../conferences/cvpr-2026/cards.md#paper-compositional-analogy-causal-minimal-changes)
 
 <!-- conference-classification:end -->

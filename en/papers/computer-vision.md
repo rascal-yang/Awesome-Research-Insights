@@ -1739,5 +1739,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation](../../conferences/cvpr-2026/cards.md#paper-hypergraph-point-class-discovery)
 - [Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions](../../conferences/cvpr-2026/cards.md#paper-dual-band-thermal-temporal-separation)
 - [RemedyGS: Defend 3D Gaussian Splatting Against Computation Cost Attacks](../../conferences/cvpr-2026/cards.md#paper-remedygs-reconstruction-resource-defense)
+- [Tavatar: Topology-Aware Gaussian Attribute Derivation for Animatable Human Avatars](../../conferences/cvpr-2026/cards.md#paper-mesh-derived-scale-in-animatable-gaussians)
+- [StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets](../../conferences/cvpr-2026/cards.md#paper-shared-latent-multitask-partial-supervision)
+- [Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach](../../conferences/cvpr-2026/cards.md#paper-geolora-partial-shape-descriptors)
+- [SpatialDiff: 3D-Aware Object Movement via Implicit Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-spatialdiff-implicit-3d)
+- [UniPart: Part-Level 3D Generation with Unified 3D Geom-Seg Latents](../../conferences/cvpr-2026/cards.md#paper-unipart-joint-geometry-segmentation-latents)
 
 <!-- conference-classification:end -->

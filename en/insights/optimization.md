@@ -739,5 +739,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models](../../conferences/cvpr-2026/cards.md#paper-cse-cross-dataset-unlearning)
 - [Outlier-Robust Diffusion Solvers for Inverse Problems](../../conferences/cvpr-2026/cards.md#paper-robust-diffusion-huber-inverse-solvers)
 - [Protect to Adapt: Orthogonal Subspace Control with Ranked Negative-Prompt Curriculum for Few-Shot Action Recognition](../../conferences/cvpr-2026/cards.md#paper-orthogonal-protected-subspace-few-shot-adaptation)
+- [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](../../conferences/cvpr-2026/cards.md#paper-grpo-guard-ratio-shift)
 
 <!-- conference-classification:end -->

@@ -869,5 +869,9 @@
 - [Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation](../conferences/cvpr-2026/cards.md#paper-hypergraph-point-class-discovery)
 - [Dual Band Thermal Videography: Separating Time-Varying Reflection and Emission Near Ambient Conditions](../conferences/cvpr-2026/cards.md#paper-dual-band-thermal-temporal-separation)
 - [Breaking the Continuum: Discrete Distribution Learning for Structural MRI Reconstruction](../conferences/cvpr-2026/cards.md#paper-dicos-discrete-continuous-reconstruction)
+- [Tavatar: Topology-Aware Gaussian Attribute Derivation for Animatable Human Avatars](../conferences/cvpr-2026/cards.md#paper-mesh-derived-scale-in-animatable-gaussians)
+- [SpatialDiff: 3D-Aware Object Movement via Implicit Spatial Modeling](../conferences/cvpr-2026/cards.md#paper-spatialdiff-implicit-3d)
+- [Multi-modal Frequency Decomposition Network for Semantic Scene Completion](../conferences/cvpr-2026/cards.md#paper-mfdnet-frequency-fusion)
+- [Beyond Missing Modalities: Hypergraph Conditioned Diffusion for Uncertainty-Aware Multimodal Emotion Recognition](../conferences/cvpr-2026/cards.md#paper-hyperef-missing-modality-evidence)
 
 <!-- conference-classification:end -->

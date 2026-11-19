@@ -2666,5 +2666,11 @@
 - [Differentially Private 2D Human Pose Estimation](../conferences/cvpr-2026/cards.md#paper-low-dimensional-gradient-privacy-structured-prediction)
 - [Breaking the Continuum: Discrete Distribution Learning for Structural MRI Reconstruction](../conferences/cvpr-2026/cards.md#paper-dicos-discrete-continuous-reconstruction)
 - [OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory](../conferences/cvpr-2026/cards.md#paper-onestory-global-frame-memory-next-shot)
+- [Spectral Conformal Risk Control: Distribution-Free Tail Guarantees via Bayesian Quadrature](../conferences/cvpr-2026/cards.md#paper-distribution-free-tail-risk-conformal-calibration)
+- [GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping](../conferences/cvpr-2026/cards.md#paper-grpo-guard-ratio-shift)
+- [Efficient Weighted Sampling via Score-based Generative Models](../conferences/cvpr-2026/cards.md#paper-weighted-diffusion-uncertainty-guidance)
+- [FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters](../conferences/cvpr-2026/cards.md#paper-fastlightgen-joint-step-and-parameter-distillation)
+- [The Invisible Gorilla Effect in Out-of-distribution Detection](../conferences/cvpr-2026/cards.md#paper-invisible-gorilla-roi-similarity-ood)
+- [Learning by Analogy: A Causal Framework for Compositional Generalization](../conferences/cvpr-2026/cards.md#paper-compositional-analogy-causal-minimal-changes)
 
 <!-- conference-classification:end -->

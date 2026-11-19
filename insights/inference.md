@@ -1760,5 +1760,11 @@
 - [PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-pearl-align-then-propagate-open-vocabulary)
 - [Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-adaptive-rendered-views-and-two-stage-localization)
 - [DRAMA: Next-Gen Dynamic Orchestration for Resilient Multi-Agent Ecosystems in Flux](../conferences/cvpr-2026/cards.md#paper-drama-dynamic-team-orchestration)
+- [Locate-then-Sparsify: Attribution Guided Sparse Strategy for Visual Hallucination Mitigation](../conferences/cvpr-2026/cards.md#paper-layer-selective-hallucination-feature-steering)
+- [VideoChat-M1: Collaborative Policy Planning for Video Understanding via Multi-Agent Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-communicating-parallel-video-tool-policies)
+- [One Token, Two Fates: A Unified Framework via Vision Token Manipulation Against MLLMs Hallucination](../conferences/cvpr-2026/cards.md#paper-dual-vision-token-calibration)
+- [Efficient Weighted Sampling via Score-based Generative Models](../conferences/cvpr-2026/cards.md#paper-weighted-diffusion-uncertainty-guidance)
+- [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-pti-prefill-kv-hallucination-control)
+- [UniPart: Part-Level 3D Generation with Unified 3D Geom-Seg Latents](../conferences/cvpr-2026/cards.md#paper-unipart-joint-geometry-segmentation-latents)
 
 <!-- conference-classification:end -->

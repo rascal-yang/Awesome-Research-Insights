@@ -1401,5 +1401,11 @@
 - [MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation](../conferences/cvpr-2026/cards.md#paper-information-gain-selected-mask-policy-updates)
 - [Differentially Private 2D Human Pose Estimation](../conferences/cvpr-2026/cards.md#paper-low-dimensional-gradient-privacy-structured-prediction)
 - [ChartNet: A Million-Scale, High-Quality Multimodal Dataset for Robust Chart Understanding](../conferences/cvpr-2026/cards.md#paper-chartnet-code-verified-modalities)
+- [StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets](../conferences/cvpr-2026/cards.md#paper-shared-latent-multitask-partial-supervision)
+- [Beyond Rule-Based Agents: Active Markov Games for Realistic Multi-Agent Interaction in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-interactive-coevolution-for-driving-policy)
+- [SketchVL: Policy Optimization via Fine-Grained Credit Assignment for Chart Understanding and More](../conferences/cvpr-2026/cards.md#paper-visual-markers-stepwise-credit-chart-rl)
+- [Teaching DINOv3 About Partial 3D Geometry: A Self-Supervised Geometry-Aware Approach](../conferences/cvpr-2026/cards.md#paper-geolora-partial-shape-descriptors)
+- [Cross-View Distillation and Adaptive Masking for Incomplete Multi-View Multi-Label Classification](../conferences/cvpr-2026/cards.md#paper-cdam-cross-view-distillation-incomplete-labels)
+- [FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters](../conferences/cvpr-2026/cards.md#paper-fastlightgen-joint-step-and-parameter-distillation)
 
 <!-- conference-classification:end -->

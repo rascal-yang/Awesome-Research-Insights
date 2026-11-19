@@ -1646,5 +1646,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding](../../conferences/cvpr-2026/cards.md#paper-egocentric-step-level-multimodal-verification)
 - [RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing](../../conferences/cvpr-2026/cards.md#paper-view-independent-gaussian-primitive-importance)
 - [ChartR: Evaluating Reasoning Accuracy and Robustness in Chart Question Answering](../../conferences/cvpr-2026/cards.md#paper-chartr-stepwise-perturbation-evaluation)
+- [From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition](../../conferences/cvpr-2026/cards.md#paper-weight-space-per-direction-transformer-interpretation)
+- [Spectral Conformal Risk Control: Distribution-Free Tail Guarantees via Bayesian Quadrature](../../conferences/cvpr-2026/cards.md#paper-distribution-free-tail-risk-conformal-calibration)
+- [Structural Graph Probing of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vlm-structural-graph-probes)
+- [The Invisible Gorilla Effect in Out-of-distribution Detection](../../conferences/cvpr-2026/cards.md#paper-invisible-gorilla-roi-similarity-ood)
 
 <!-- conference-classification:end -->

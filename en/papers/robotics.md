@@ -1196,5 +1196,6 @@ Robot perception, policy learning, planning, and control.
 - [TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion](../../conferences/cvpr-2026/cards.md#paper-persistent-confidence-aware-gaussian-memory)
 - [GraspGen-X: Cross-Embodiment 6-DOF Diffusion-based Grasping](../../conferences/cvpr-2026/cards.md#paper-graspgenx-swept-volume)
 - [SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-spacedrive-explicit-coordinate-encoding)
+- [Beyond Rule-Based Agents: Active Markov Games for Realistic Multi-Agent Interaction in Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-interactive-coevolution-for-driving-policy)
 
 <!-- conference-classification:end -->
