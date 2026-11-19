@@ -927,5 +927,9 @@ Training schedules, curricula, and task or stage composition.
 - [End-to-End Language-Action Model for Humanoid Whole Body Control](../../conferences/cvpr-2026/cards.md#paper-sentinel-language-action-history)
 - [Learning Generalizable 3D Medical Image Representations from Mask-Guided Self-Supervision](../../conferences/cvpr-2026/cards.md#paper-mass-mask-guided-ssl)
 - [Toward Diffusible High-Dimensional Latent Spaces: A Frequency Perspective](../../conferences/cvpr-2026/cards.md#paper-freqwarm)
+- [MacTok: Robust Continuous Tokenization for Image Generation](../../conferences/cvpr-2026/cards.md#paper-mactok-mask-alignment)
+- [MOMO: Mars Orbital MOdel Foundation Model for Mars Orbital Applications](../../conferences/cvpr-2026/cards.md#paper-momo-validation-loss-checkpoint-alignment)
+- [LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-longvideo-r1)
+- [Zero-Shot Image Denoising via Hybrid Prior-Guided Pseudo Sample Generation](../../conferences/cvpr-2026/cards.md#paper-zs-hpd)
 
 <!-- conference-classification:end -->

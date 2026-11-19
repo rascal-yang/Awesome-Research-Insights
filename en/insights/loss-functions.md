@@ -386,5 +386,6 @@ Objectives, auxiliary supervision, and regularization.
 - [OrienPose: Orientation-Guided Novel View Synthesis for Single-Image Unseen Object Pose Estimation](../../conferences/cvpr-2026/cards.md#paper-orienpose)
 - [What Is It Like to Be a Noise? An Entropy-based Gaussian Noise Regularization for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-entropy-based-gaussianity)
 - [Linking Perception, Confidence and Accuracy in MLLMs](../../conferences/cvpr-2026/cards.md#paper-confidence-driven-visual-reasoning)
+- [When Local Rules Create Global Order: Self-Organized Representation Learning for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-sorl-latent-diffusion)
 
 <!-- conference-classification:end -->

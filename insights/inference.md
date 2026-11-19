@@ -1328,5 +1328,7 @@
 - [Suppressing Non-Semantic Noise in Masked Image Modeling Representations](../conferences/cvpr-2026/cards.md#paper-soap-mim-artifacts)
 - [CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs](../conferences/cvpr-2026/cards.md#paper-core-object-token-merging)
 - [TRM-VLA: Temporal-Aware Chain-of-Thought Reasoning and Memorization for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-trm-vla)
+- [C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion](../conferences/cvpr-2026/cards.md#paper-c-genreg)
+- [ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding](../conferences/cvpr-2026/cards.md#paper-remora-compressed-motion)
 
 <!-- conference-classification:end -->

@@ -366,5 +366,8 @@
 - [Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-aleatoric-uncertainty-spectrum)
 - [Does YOLO Really Need to See Every Training Image in Every Epoch?](../conferences/cvpr-2026/cards.md#paper-afss-anti-forgetting-sampling)
 - [DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training](../conferences/cvpr-2026/cards.md#paper-dit360)
+- [JRM: Joint Reconstruction Model for Multiple Objects without Alignment](../conferences/cvpr-2026/cards.md#paper-jrm-negative-support-reconstruction)
+- [UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking](../conferences/cvpr-2026/cards.md#paper-unils)
+- [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](../conferences/cvpr-2026/cards.md#paper-bidirectional-wavelet-model-scaling)
 
 <!-- conference-classification:end -->

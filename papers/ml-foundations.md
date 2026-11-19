@@ -2296,5 +2296,7 @@
 - [Rank-Guided Pseudo-Bias Learning for Robust Black-Box Adaptation](../conferences/cvpr-2026/cards.md#paper-pld-blackbox-debias)
 - [Basis-Oriented Low-rank Transfer for Few-Shot and Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-bolt-spectral-transfer)
 - [Make it SING: Analyzing Semantic Invariants in Classifiers](../conferences/cvpr-2026/cards.md#paper-sing-classifier-invariants)
+- [MOMO: Mars Orbital MOdel Foundation Model for Mars Orbital Applications](../conferences/cvpr-2026/cards.md#paper-momo-validation-loss-checkpoint-alignment)
+- [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](../conferences/cvpr-2026/cards.md#paper-bidirectional-wavelet-model-scaling)
 
 <!-- conference-classification:end -->

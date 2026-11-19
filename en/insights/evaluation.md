@@ -1427,5 +1427,6 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Make it SING: Analyzing Semantic Invariants in Classifiers](../../conferences/cvpr-2026/cards.md#paper-sing-classifier-invariants)
 - [PRISM: Prototype-based Reasoning with Inter-modal Semantic Mining for Interpretable Image Recognition](../../conferences/cvpr-2026/cards.md#paper-prism-semantic-prototypes)
 - [Event Structural Valley: A Unified Theoretical and Practical Framework for Event Camera Autofocus](../../conferences/cvpr-2026/cards.md#paper-event-structural-valley)
+- [AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-ava-bench-atomic-abilities)
 
 <!-- conference-classification:end -->

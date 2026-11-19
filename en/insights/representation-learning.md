@@ -540,5 +540,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation](../../conferences/cvpr-2026/cards.md#paper-frequency-prompt-multi-rater-segmentation)
 - [Velox: Learning Representations of 4D Geometry and Appearance](../../conferences/cvpr-2026/cards.md#paper-velox-4d-representation)
 - [Aligning Text, Images and 3D Structure Token-by-Token](../../conferences/cvpr-2026/cards.md#paper-kyvo-3d-token-alignment)
+- [BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation](../../conferences/cvpr-2026/cards.md#paper-bimotion-spline-motion)
+- [MeshFlow: Efficient Artistic Mesh Generation via MeshVAE and Flow-based Diffusion Transformer](../../conferences/cvpr-2026/cards.md#paper-meshflow)
+- [Seeing without Pixels: Perception from Camera Trajectories](../../conferences/cvpr-2026/cards.md#paper-camformer)
 
 <!-- conference-classification:end -->

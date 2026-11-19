@@ -925,5 +925,9 @@ Learning across modalities such as images, text, audio, and video.
 - [CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs](../../conferences/cvpr-2026/cards.md#paper-core-object-token-merging)
 - [Aligning Text, Images and 3D Structure Token-by-Token](../../conferences/cvpr-2026/cards.md#paper-kyvo-3d-token-alignment)
 - [Linking Perception, Confidence and Accuracy in MLLMs](../../conferences/cvpr-2026/cards.md#paper-confidence-driven-visual-reasoning)
+- [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](../../conferences/cvpr-2026/cards.md#paper-llada-v-attention-mask-tradeoff)
+- [When Local Rules Create Global Order: Self-Organized Representation Learning for Latent Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-sorl-latent-diffusion)
+- [ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding](../../conferences/cvpr-2026/cards.md#paper-remora-compressed-motion)
+- [UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking](../../conferences/cvpr-2026/cards.md#paper-unils)
 
 <!-- conference-classification:end -->

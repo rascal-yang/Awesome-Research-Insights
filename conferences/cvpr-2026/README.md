@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 299 篇，其中 219 篇暂收录、80 篇排除，另有 3,743 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 328 篇，其中 237 篇暂收录、91 篇排除，另有 3,714 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -225,3 +225,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 299 �
 | 多模态学习 | 表示学习 | [Aligning Text, Images and 3D Structure Token-by-Token](cards.md#paper-kyvo-3d-token-alignment) | 把结构化三维场景加入多模态语言模型时，分别选对象形状和位姿的离散粒度，并以重建辅助目标检验。 |
 | 计算机视觉 | 评测与分析 | [Event Structural Valley: A Unified Theoretical and Practical Framework for Event Camera Autofocus](cards.md#paper-event-structural-valley) | 事件相机扫描焦距时，找两峰之间的事件率谷，而非将事件率峰值当焦点。 |
 | 多模态学习 | 损失函数与优化 | [Linking Perception, Confidence and Accuracy in MLLMs](cards.md#paper-confidence-driven-visual-reasoning) | 多模态推理训练用清晰与扰动图像的配对置信奖励，推理时按置信度分配验证预算。 |
+| 计算机视觉 | 表征学习 | [BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation](cards.md#paper-bimotion-spline-motion) | 变长三维动作可用固定数量 B 样条控制点做生成表示，在同容量下单测连续时域重建。见图 5、表 2。 |
+| 计算机视觉 | 评测与诊断 | [AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](cards.md#paper-ava-bench-atomic-abilities) | 选视觉骨干时可保持语言头和训练任务分布一致，拆测单项能力，并用给定框的对照定位复合任务瓶颈。见图 5–8。 |
+| 计算机视觉 | 训练策略 | [MacTok: Robust Continuous Tokenization for Image Generation](cards.md#paper-mactok-mask-alignment) | 极少连续图像词元容易后验坍塌，可混合随机与语义遮盖并同时验收重建与下游生成。见表 4–5。 |
+| 计算机视觉 | 数据策略 | [JRM: Joint Reconstruction Model for Multiple Objects without Alignment](cards.md#paper-jrm-negative-support-reconstruction) | 跨观测联合重建的支持项可能匹配错误，训练时应混入一定比例错配组合，并单独测误匹配和正确匹配两类表现。见表 5。 |
+| 机器学习基础与统计 | 训练策略 | [MOMO: Mars Orbital MOdel Foundation Model for Mars Orbital Applications](cards.md#paper-momo-validation-loss-checkpoint-alignment) | 跨传感器权重合并可比较按验证损失匹配收敛阶段与直接用各自末次或早停检查点。见表 2。 |
+| 多模态学习 | 模型架构 | [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](cards.md#paper-llada-v-attention-mask-tradeoff) | 多模态扩散语言模型先在同数据和骨干下消融对话因果掩码与双向注意力，再测有效并行增益。见表 3–4。 |
+| 计算机视觉 | 推理策略 | [C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion](cards.md#paper-c-genreg) | 几何与生成图像两路先各自匹配再融置信，不在特征层提前混合。 |
+| 计算机视觉 | 模型架构 | [LiDAR Prompted Spatio-Temporal Multi-View Stereo for Autonomous Driving](cards.md#paper-drivemvs) | 把稀疏度量观测分别作为代价体的几何锚和软特征，独立检验尺度精度与跨帧稳定性。 |
+| 智能体 | 训练策略 | [LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](cards.md#paper-longvideo-r1) | 给逐步缩窄长视频检索范围的代理加入证据定位奖励，用同一问答测试检查额外导航监督。 |
+| 计算机视觉 | 训练策略 | [Zero-Shot Image Denoising via Hybrid Prior-Guided Pseudo Sample Generation](cards.md#paper-zs-hpd) | 单张图像的零样本复原可同时构造局部邻域对与全局自相似对，按噪声强度做失效对照。 |
+| 多模态学习 | 损失函数与优化 | [When Local Rules Create Global Order: Self-Organized Representation Learning for Latent Diffusion Models](cards.md#paper-sorl-latent-diffusion) | 训练扩散模型的自编码器时同时检验邻近重建平滑性与潜变量分散度。 |
+| 计算机视觉 | 表示学习 | [MeshFlow: Efficient Artistic Mesh Generation via MeshVAE and Flow-based Diffusion Transformer](cards.md#paper-meshflow) | 生成拓扑离散、坐标连续的网格时，先学共享潜变量，再选择并行流生成替代顶点序列生成。 |
+| 多模态学习 | 推理优化 | [ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding](cards.md#paper-remora-compressed-motion) | 长视频问答用稀疏 RGB 取外观、压缩码流运动取动态，避免解码全部帧。 |
+| 机器人学 | 表示学习 | [Seeing without Pixels: Perception from Camera Trajectories](cards.md#paper-camformer) | 视频行为检索或具身轨迹学习中，将相机位姿序列对齐文本，并用轨迹单模态作旁路基线。 |
+| 多模态学习 | 训练与数据策略 | [UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking](cards.md#paper-unils) | 当条件模态与输出弱相关时，先无条件学自然动态，再微调用弱条件修饰，而非从头强条件拟合。 |
+| 机器人学 | 强化学习 | [NIL: No-data Imitation Learning](cards.md#paper-no-data-imitation-learning) | 缺少动作捕捉演示时，可用合成视频作为视觉奖励参照，由仿真器负责约束物理可行性。 |
+| 计算机视觉 | 模型架构 | [CrackSSM: Reviving SSMs for Crack Segmentation via Dynamic Scanning](cards.md#paper-crackssm-dynamic-scan) | 对细长结构使用视觉状态空间模型时，依当前样本方向响应改变序列顺序。 |
+| 机器学习基础 | 训练与数据策略 | [A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling](cards.md#paper-bidirectional-wavelet-model-scaling) | 缩放预训练模型时，把同层权重当作多分辨率信号，用小波重采样初始化大小两种目标。 |

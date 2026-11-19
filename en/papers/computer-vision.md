@@ -1027,5 +1027,14 @@ Visual representation, recognition, reconstruction, and generation.
 - [Velox: Learning Representations of 4D Geometry and Appearance](../../conferences/cvpr-2026/cards.md#paper-velox-4d-representation)
 - [PRISM: Prototype-based Reasoning with Inter-modal Semantic Mining for Interpretable Image Recognition](../../conferences/cvpr-2026/cards.md#paper-prism-semantic-prototypes)
 - [Event Structural Valley: A Unified Theoretical and Practical Framework for Event Camera Autofocus](../../conferences/cvpr-2026/cards.md#paper-event-structural-valley)
+- [BiMotion: B-spline Motion for Text-guided Dynamic 3D Character Generation](../../conferences/cvpr-2026/cards.md#paper-bimotion-spline-motion)
+- [AVA-Bench: Atomic Visual Ability Benchmark for Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-ava-bench-atomic-abilities)
+- [MacTok: Robust Continuous Tokenization for Image Generation](../../conferences/cvpr-2026/cards.md#paper-mactok-mask-alignment)
+- [JRM: Joint Reconstruction Model for Multiple Objects without Alignment](../../conferences/cvpr-2026/cards.md#paper-jrm-negative-support-reconstruction)
+- [C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion](../../conferences/cvpr-2026/cards.md#paper-c-genreg)
+- [LiDAR Prompted Spatio-Temporal Multi-View Stereo for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-drivemvs)
+- [Zero-Shot Image Denoising via Hybrid Prior-Guided Pseudo Sample Generation](../../conferences/cvpr-2026/cards.md#paper-zs-hpd)
+- [MeshFlow: Efficient Artistic Mesh Generation via MeshVAE and Flow-based Diffusion Transformer](../../conferences/cvpr-2026/cards.md#paper-meshflow)
+- [CrackSSM: Reviving SSMs for Crack Segmentation via Dynamic Scanning](../../conferences/cvpr-2026/cards.md#paper-crackssm-dynamic-scan)
 
 <!-- conference-classification:end -->

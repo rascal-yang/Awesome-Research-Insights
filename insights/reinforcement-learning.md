@@ -741,5 +741,6 @@
 - [JoPPO: Hierarchical Photography Assessment via Contrastive Joint Conditional Probabilistic Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-joppo)
 - [Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-d2-align)
 - [PointThinker: Point-Incentivized Parallel Thinking for Multimodal Large Language Model](../conferences/cvpr-2026/cards.md#paper-pointthinker-pointwise-credit)
+- [NIL: No-data Imitation Learning](../conferences/cvpr-2026/cards.md#paper-no-data-imitation-learning)
 
 <!-- conference-classification:end -->

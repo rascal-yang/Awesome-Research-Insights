@@ -574,5 +574,8 @@ Model-wide design and information flow.
 - [IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-idesplat-iterative-depth)
 - [LacTokGen: Latent Consistency Tokenizer for 1024-pixel Image Generation by 256 Tokens](../../conferences/cvpr-2026/cards.md#paper-lactok)
 - [ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos](../../conferences/cvpr-2026/cards.md#paper-forehoi)
+- [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](../../conferences/cvpr-2026/cards.md#paper-llada-v-attention-mask-tradeoff)
+- [LiDAR Prompted Spatio-Temporal Multi-View Stereo for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-drivemvs)
+- [CrackSSM: Reviving SSMs for Crack Segmentation via Dynamic Scanning](../../conferences/cvpr-2026/cards.md#paper-crackssm-dynamic-scan)
 
 <!-- conference-classification:end -->
