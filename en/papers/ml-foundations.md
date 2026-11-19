@@ -2569,5 +2569,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Rethinking Dataset Distillation: Hard Truths about Soft Labels](../../conferences/cvpr-2026/cards.md#paper-dataset-distillation-soft-label-confound)
 - [LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-lift-place-coarse-to-fine-distillation)
 - [EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](../../conferences/cvpr-2026/cards.md#paper-editctrl-mask-local-global-context)
+- [VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](../../conferences/cvpr-2026/cards.md#paper-vecattention-vertical-vector-sparsity)
+- [GDRO: Group-level Reward Post-training Suitable for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-gdro-offline-groupwise-flow-reward)
 
 <!-- conference-classification:end -->

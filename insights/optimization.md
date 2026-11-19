@@ -712,5 +712,6 @@
 - [Simple but Effective Triplet-Based Compression Strategies for Compact Visual Localization](../conferences/cvpr-2026/cards.md#paper-triplet-localization-compression)
 - [ArtPro: Self-Supervised Articulated Object Reconstruction with Adaptive Integration of Mobility Proposals](../conferences/cvpr-2026/cards.md#paper-artpro-mobility-proposals)
 - [Efficient All-Pairs Correlation Volume Sampling for Optical Flow Estimation](../conferences/cvpr-2026/cards.md#paper-raft-exact-efficient-correlation-sampling)
+- [Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](../conferences/cvpr-2026/cards.md#paper-neupig-sobolev-deformations)
 
 <!-- conference-classification:end -->

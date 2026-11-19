@@ -757,5 +757,7 @@
 - [ChronoGS: Disentangling Invariants and Changes in Multi-Period Scenes](../conferences/cvpr-2026/cards.md#paper-stable-anchor-time-discontinuous-scene)
 - [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](../conferences/cvpr-2026/cards.md#paper-sparse-irregular-temporal-view-invariance)
 - [VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](../conferences/cvpr-2026/cards.md#paper-appearance-separated-latent-video-policies)
+- [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](../conferences/cvpr-2026/cards.md#paper-uncertain-joint-replacement-pose-graph)
+- [MoLingo: Motion-Language Alignment for Text-to-Human Motion Generation](../conferences/cvpr-2026/cards.md#paper-frame-level-language-aligned-motion-latents)
 
 <!-- conference-classification:end -->

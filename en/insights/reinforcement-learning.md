@@ -813,5 +813,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](../../conferences/cvpr-2026/cards.md#paper-revel-verifiable-openqa-rewriting)
 - [Enhancing Spatial Understanding in Image Generation via Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-spatialscore-controlled-spatial-preference-pairs)
 - [MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction](../../conferences/cvpr-2026/cards.md#paper-mmrecoder-execution-feedback-self-correction)
+- [GDRO: Group-level Reward Post-training Suitable for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-gdro-offline-groupwise-flow-reward)
 
 <!-- conference-classification:end -->

@@ -2463,5 +2463,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-sage-any-horizon)
 - [MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction](../../conferences/cvpr-2026/cards.md#paper-mmrecoder-execution-feedback-self-correction)
 - [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](../../conferences/cvpr-2026/cards.md#paper-hats-semantic-ambiguity-trajectory-synthesis)
+- [MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents](../../conferences/cvpr-2026/cards.md#paper-mmbench-gui-efficiency-quality-hierarchical-evaluation)
 
 <!-- conference-classification:end -->

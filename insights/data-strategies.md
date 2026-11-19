@@ -452,5 +452,6 @@
 - [Rethinking Knowledge Transfer in Image Quality Assessment: A Perceptual Preference Structure Alignment Perspective](../conferences/cvpr-2026/cards.md#paper-preference-structure-dataset-transfer-selection)
 - [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](../conferences/cvpr-2026/cards.md#paper-hats-semantic-ambiguity-trajectory-synthesis)
 - [Rethinking Dataset Distillation: Hard Truths about Soft Labels](../conferences/cvpr-2026/cards.md#paper-dataset-distillation-soft-label-confound)
+- [Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained Classification](../conferences/cvpr-2026/cards.md#paper-context-marginalized-few-shot-synthesis)
 
 <!-- conference-classification:end -->

@@ -1664,5 +1664,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding](../../conferences/cvpr-2026/cards.md#paper-verifier-guided-parallel-video-speculation)
 - [TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ttp-detect-then-adapt)
 - [Fuel Gauge: Estimating Chain-of-Thought Length Ahead of Time in Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-fuel-gauge-cot-length)
+- [CASR: A Robust Cyclic Framework for Arbitrary Large-Scale Super-Resolution with Distribution Alignment and Self-Similarity Awareness](../../conferences/cvpr-2026/cards.md#paper-casr-in-distribution-cycles)
+- [Self-Corrected Image Generation with Explainable Latent Rewards](../../conferences/cvpr-2026/cards.md#paper-xlard-differentiable-reward-surrogate)
+- [See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs](../../conferences/cvpr-2026/cards.md#paper-ecrd-stepwise-dynamic-visual-evidence)
 
 <!-- conference-classification:end -->

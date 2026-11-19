@@ -1575,5 +1575,12 @@
 - [MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture](../conferences/cvpr-2026/cards.md#paper-slowed-interpolation-diffusion-exposure)
 - [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](../conferences/cvpr-2026/cards.md#paper-amb3r-volumetric-backend)
 - [Through the Frequency Lens: Cross-Domain Generalisable Gaze Estimation with Adaptive Modulation](../conferences/cvpr-2026/cards.md#paper-fgal-domain-frequency)
+- [BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation](../conferences/cvpr-2026/cards.md#paper-shared-velocity-bidirectional-image-flow)
+- [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](../conferences/cvpr-2026/cards.md#paper-uncertain-joint-replacement-pose-graph)
+- [Lite Any Stereo: Efficient Zero-Shot Stereo Matching](../conferences/cvpr-2026/cards.md#paper-compact-stereo-progressive-sim-real)
+- [Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained Classification](../conferences/cvpr-2026/cards.md#paper-context-marginalized-few-shot-synthesis)
+- [CASR: A Robust Cyclic Framework for Arbitrary Large-Scale Super-Resolution with Distribution Alignment and Self-Similarity Awareness](../conferences/cvpr-2026/cards.md#paper-casr-in-distribution-cycles)
+- [FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance](../conferences/cvpr-2026/cards.md#paper-flashmotion-distilled-adapter)
+- [Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](../conferences/cvpr-2026/cards.md#paper-neupig-sobolev-deformations)
 
 <!-- conference-classification:end -->

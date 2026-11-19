@@ -1509,5 +1509,12 @@ Learning across modalities such as images, text, audio, and video.
 - [TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-ttp-detect-then-adapt)
 - [MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](../../conferences/cvpr-2026/cards.md#paper-mllm-hwsi-cross-scale-alignment)
 - [Fuel Gauge: Estimating Chain-of-Thought Length Ahead of Time in Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-fuel-gauge-cot-length)
+- [MoLingo: Motion-Language Alignment for Text-to-Human Motion Generation](../../conferences/cvpr-2026/cards.md#paper-frame-level-language-aligned-motion-latents)
+- [Masking Teacher and Reinforcing Student for Distilling Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-masked-progressive-teacher-distillation)
+- [VL-Eraser: Vacuum Distillation for Machine Unlearning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vl-eraser-vacuum-distillation)
+- [Bootstrap Your Own AV-Proxies: Adaptive Contrastive and Prototype Learning for Audio-Visual Segmentation](../../conferences/cvpr-2026/cards.md#paper-byoavp-stop-gradient-prototypes)
+- [Self-Corrected Image Generation with Explainable Latent Rewards](../../conferences/cvpr-2026/cards.md#paper-xlard-differentiable-reward-surrogate)
+- [See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs](../../conferences/cvpr-2026/cards.md#paper-ecrd-stepwise-dynamic-visual-evidence)
+- [HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](../../conferences/cvpr-2026/cards.md#paper-herbench-minimum-required-frame-set)
 
 <!-- conference-classification:end -->

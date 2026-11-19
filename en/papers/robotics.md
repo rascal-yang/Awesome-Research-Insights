@@ -1103,5 +1103,7 @@ Robot perception, policy learning, planning, and control.
 - [VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](../../conferences/cvpr-2026/cards.md#paper-appearance-separated-latent-video-policies)
 - [PatchScene: Patch-based Voxel Diffusion Model for Large-Scale Scene Completion](../../conferences/cvpr-2026/cards.md#paper-patchscene-overlap-fusion)
 - [Rethinking 2D-3D Registration: A Novel Network for High-Value Zone Selection and Representation Consistency Alignment](../../conferences/cvpr-2026/cards.md#paper-high-value-zone-registration)
+- [DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning](../../conferences/cvpr-2026/cards.md#paper-embodiment-contact-tokens-before-grasp)
+- [Contact-Aware Neural Dynamics](../../conferences/cvpr-2026/cards.md#paper-contact-aware-neural-dynamics)
 
 <!-- conference-classification:end -->

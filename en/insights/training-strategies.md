@@ -1280,5 +1280,9 @@ Training schedules, curricula, and task or stage composition.
 - [MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture](../../conferences/cvpr-2026/cards.md#paper-slowed-interpolation-diffusion-exposure)
 - [Through the Frequency Lens: Cross-Domain Generalisable Gaze Estimation with Adaptive Modulation](../../conferences/cvpr-2026/cards.md#paper-fgal-domain-frequency)
 - [LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-lift-place-coarse-to-fine-distillation)
+- [Lite Any Stereo: Efficient Zero-Shot Stereo Matching](../../conferences/cvpr-2026/cards.md#paper-compact-stereo-progressive-sim-real)
+- [Masking Teacher and Reinforcing Student for Distilling Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-masked-progressive-teacher-distillation)
+- [VL-Eraser: Vacuum Distillation for Machine Unlearning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vl-eraser-vacuum-distillation)
+- [FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance](../../conferences/cvpr-2026/cards.md#paper-flashmotion-distilled-adapter)
 
 <!-- conference-classification:end -->

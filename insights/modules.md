@@ -423,5 +423,6 @@
 - [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](../conferences/cvpr-2026/cards.md#paper-onesparse-memory-moe-unified-routing)
 - [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](../conferences/cvpr-2026/cards.md#paper-look-before-fuse-boundary-prealignment)
 - [EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](../conferences/cvpr-2026/cards.md#paper-editctrl-mask-local-global-context)
+- [VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](../conferences/cvpr-2026/cards.md#paper-vecattention-vertical-vector-sparsity)
 
 <!-- conference-classification:end -->

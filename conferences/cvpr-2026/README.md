@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,027 篇，其中 1,911 篇暂收录、1,116 篇排除，另有 1,015 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,057 篇，其中 1,930 篇暂收录、1,127 篇排除，另有 985 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1917,3 +1917,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 3,027
 | 机器学习 | 数据筛选 | [Rethinking Dataset Distillation: Hard Truths about Soft Labels](cards.md#paper-dataset-distillation-soft-label-confound) | 对比数据筛选算法时固定标签与蒸馏协议，并加入随机子集基线。 |
 | 生成模型 | 知识蒸馏 | [LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models](cards.md#paper-lift-place-coarse-to-fine-distillation) | 学生难以直接拟合教师复杂去噪时，先做粗对齐，再按局部误差调整指导。 |
 | 生成模型 | 高效注意力 | [EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](cards.md#paper-editctrl-mask-local-global-context) | 把昂贵计算限制为待编辑 token，再用轻量全局上下文保持一致性。 |
+| 计算机视觉 | 模型架构 | [BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation](cards.md#paper-shared-velocity-bidirectional-image-flow) | 少步图像编辑可联合学习反演与生成，并用共享瞬时速度约束两种方向。 |
+| 计算机视觉 | 表征学习 | [CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation](cards.md#paper-uncertain-joint-replacement-pose-graph) | 结构化姿态估计可先用不确定性选出可疑局部证据，再用位置模板和图关系恢复。 |
+| 计算机视觉 | 训练策略 | [Lite Any Stereo: Efficient Zero-Shot Stereo Matching](cards.md#paper-compact-stereo-progressive-sim-real) | 小型双目网络可以按阶段从模拟向真实数据过渡，保持零样本精度与计算预算。 |
+| 多模态学习 | 表征学习 | [MoLingo: Motion-Language Alignment for Text-to-Human Motion Generation](cards.md#paper-frame-level-language-aligned-motion-latents) | 动作潜空间可在扩散前借助帧级语义排列，使语义相近运动更接近，再用多 token 文本做局部条件。 |
+| 计算机视觉 | 数据策略 | [Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained Classification](cards.md#paper-context-marginalized-few-shot-synthesis) | 合成训练数据时，可在生成器微调过程中显式条件化背景和姿态，在生成时将其边缘化。 |
+| 多模态学习 | 训练策略 | [Masking Teacher and Reinforcing Student for Distilling Vision-Language Models](cards.md#paper-masked-progressive-teacher-distillation) | 大教师与小学生差距过大时，可逐渐恢复教师复杂度，并用奖励反馈辅助难度过渡。 |
+| 机器人学 | 模型架构 | [DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning](cards.md#paper-embodiment-contact-tokens-before-grasp) | 灵巧抓取生成可先预测具体手部链接和物体表面的接触关系，再回归整手抓取。 |
+| 机器人学 | 模型架构 | [Contact-Aware Neural Dynamics](cards.md#paper-contact-aware-neural-dynamics) | 把真实触觉用作仿真动力学残差的条件，单独验证接触模型的预测和策略价值。 |
+| 多模态学习 | 训练策略 | [VL-Eraser: Vacuum Distillation for Machine Unlearning in Vision-Language Models](cards.md#paper-vl-eraser-vacuum-distillation) | 遗忘时先把目标知识集中到可移除模块，再用跨模态测试检查是否真正去除。 |
+| 计算机视觉 | 推理策略 | [CASR: A Robust Cyclic Framework for Arbitrary Large-Scale Super-Resolution with Distribution Alignment and Self-Similarity Awareness](cards.md#paper-casr-in-distribution-cycles) | 把远离训练尺度的映射拆成多次训练范围内的过渡，并抑制中间输出漂移。 |
+| 多模态学习 | 损失函数 | [Bootstrap Your Own AV-Proxies: Adaptive Contrastive and Prototype Learning for Audio-Visual Segmentation](cards.md#paper-byoavp-stop-gradient-prototypes) | 一侧模态可靠时用停止梯度的目标做对比对齐，再以动态原型处理多模态噪声。 |
+| 多模态学习 | 推理策略 | [Self-Corrected Image Generation with Explainable Latent Rewards](cards.md#paper-xlard-differentiable-reward-surrogate) | 将结构化的图像级评价代理为潜空间可微信号，生成过程中可直接做小幅纠偏。 |
+| 计算机视觉 | 训练策略 | [FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance](cards.md#paper-flashmotion-distilled-adapter) | 先固定条件控制能力，再精简生成器，最后重新适配已变更的去噪动态。 |
+| 计算机视觉 | 优化策略 | [Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](cards.md#paper-neupig-sobolev-deformations) | 相对参考帧共同拟合全部形变，再用空间相关的梯度预条件控制长序列漂移。 |
+| 高效深度学习 | 稀疏注意力 | [VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference](cards.md#paper-vecattention-vertical-vector-sparsity) | 长视频做稀疏注意力时，先检查列向量模式，再选择稀疏粒度。 |
+| 多模态学习 | 推理时校验 | [See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs](cards.md#paper-ecrd-stepwise-dynamic-visual-evidence) | 每步先查已有视觉证据，证据不足时主动提取新证据来打断幻觉传播。 |
+| 多模态学习 | 评测设计 | [HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](cards.md#paper-herbench-minimum-required-frame-set) | 用最小必需帧集合验证多证据推理，减少只看一处仍然答对的题目。 |
+| 智能体 | 评测设计 | [MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents](cards.md#paper-mmbench-gui-efficiency-quality-hierarchical-evaluation) | 把界面内容、定位、执行及跨应用协作分开评，并将冗余动作计入结果。 |
+| 生成模型 | 强化学习与奖励 | [GDRO: Group-level Reward Post-training Suitable for Diffusion Models](cards.md#paper-gdro-offline-groupwise-flow-reward) | 对确定性流模型按样本组离线优化奖励，并用人工评价检查奖励投机。 |

@@ -1595,5 +1595,7 @@
 - [Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation](../conferences/cvpr-2026/cards.md#paper-spatialsky-spatial-diagnosis)
 - [HalluGen: Synthesizing Realistic and Controllable Hallucinations for Evaluating Image Restoration](../conferences/cvpr-2026/cards.md#paper-controlled-restoration-hallucination-evaluation)
 - [RNN as Linear Transformer: A Closer Investigation into Representational Potentials of Visual Mamba Models](../conferences/cvpr-2026/cards.md#paper-state-space-activation-map-diagnostics)
+- [HERBench: A Benchmark for Multi-Evidence Integration in Video Question Answering](../conferences/cvpr-2026/cards.md#paper-herbench-minimum-required-frame-set)
+- [MMBench-GUI: A Unified Hierarchical Evaluation Framework for Multi-Platform GUI Agents](../conferences/cvpr-2026/cards.md#paper-mmbench-gui-efficiency-quality-hierarchical-evaluation)
 
 <!-- conference-classification:end -->
