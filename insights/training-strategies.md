@@ -1023,5 +1023,12 @@
 - [Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](../conferences/cvpr-2026/cards.md#paper-flow3r-factored-flow)
 - [See Through the Noise: Improving Domain Generalization in Gaze Estimation](../conferences/cvpr-2026/cards.md#paper-seetn-continuous-label-affinity-denoising)
 - [Progressive Mask Distillation for Self-supervised Video Representation](../conferences/cvpr-2026/cards.md#paper-progressive-mask-distillation)
+- [BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation](../conferences/cvpr-2026/cards.md#paper-backsplit-fine-grained-background-supervision)
+- [FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories](../conferences/cvpr-2026/cards.md#paper-flowsteer-online-teacher-trajectory-alignment)
+- [Cross-Architecture Adaptation: Cloud-Edge Continual Test-Time Adaptation with Dynamic Sampling and Heterogeneous Distillation](../conferences/cvpr-2026/cards.md#paper-cloud-edge-cross-architecture-distillation)
+- [UZ3DVG: Unaided Zero-Shot 3D Visual Grounding with Generated Language Conditions](../conferences/cvpr-2026/cards.md#paper-uz3dvg)
+- [Learning from Noisy Supervision: A Denoising-Debiasing Framework for Weakly Supervised Video Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-d2mil)
+- [CoLoR: The Devil is in Scene Coordinate Regression for Large-Scale Visual Localization](../conferences/cvpr-2026/cards.md#paper-color-scene-coordinate-regression)
+- [Progressive Cross-Modal Causal Intervention for Long-Term Action Recognition](../conferences/cvpr-2026/cards.md#paper-pcmci-action-confounders)
 
 <!-- conference-classification:end -->

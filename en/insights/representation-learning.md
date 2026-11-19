@@ -599,5 +599,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Spatial-SAM: Spatially Consistent 3D Electron Microscopy Segmentation with SDF Memory and Semi-Supervised Learning](../../conferences/cvpr-2026/cards.md#paper-spatial-sam-sdf-memory)
 - [Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes](../../conferences/cvpr-2026/cards.md#paper-poisson-gaussian-to-occupancy-weak-supervision)
 - [Any4D: Unified Feed-Forward Metric 4D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-any4d-modular-coordinate-factors)
+- [DiffuView: Multi-View Diffusion Pretraining for 3D Aware Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-diffuview-camera-conditioned-diffusion-features)
+- [Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement](../../conferences/cvpr-2026/cards.md#paper-hrnet-hybrid-multimodal-registration)
 
 <!-- conference-classification:end -->

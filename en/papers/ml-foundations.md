@@ -2358,5 +2358,9 @@ General learning methods, optimization, learning theory, and inference.
 - [Towards Uncertainty-aware Unsupervised Domain Adaptation for Videos and Time-Series with Causal Optimal Transport](../../conferences/cvpr-2026/cards.md#paper-causal-ot-cross-channel-alignment)
 - [Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards](../../conferences/cvpr-2026/cards.md#paper-solace-denoising-self-confidence-reward)
 - [Markovian Scale Prediction: A New Era of Visual Autoregressive Generation](../../conferences/cvpr-2026/cards.md#paper-markov-var-sliding-scale-history)
+- [OS-Fed: One Snapshot Is All You Need](../../conferences/cvpr-2026/cards.md#paper-osfed-compact-learned-update-snapshot)
+- [FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers](../../conferences/cvpr-2026/cards.md#paper-flashdecoder-rolling-kv-streaming-video-decode)
+- [FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories](../../conferences/cvpr-2026/cards.md#paper-flowsteer-online-teacher-trajectory-alignment)
+- [Cross-Architecture Adaptation: Cloud-Edge Continual Test-Time Adaptation with Dynamic Sampling and Heterogeneous Distillation](../../conferences/cvpr-2026/cards.md#paper-cloud-edge-cross-architecture-distillation)
 
 <!-- conference-classification:end -->

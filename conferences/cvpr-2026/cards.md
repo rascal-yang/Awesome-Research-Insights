@@ -10096,3 +10096,273 @@
 - **适用条件 / 局限** · 需要解析概念覆盖对象形态和功能，未知或复杂变形结构须扩展表达。
 
 **可复用机制** · 把语言常识作为对象功能假设，再用可计算几何与物理概念约束操作。
+
+<a id="paper-osfed-compact-learned-update-snapshot"></a>
+
+## OS-Fed: One Snapshot Is All You Need
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qian_OS-Fed_One_Snapshot_Is_All_You_Need_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qian_OS-Fed_One_Snapshot_Is_All_You_Need_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 压缩逐元素更新可能丢掉有效梯度，导致异质客户端收敛性能下降。
+- **核心创新 / 方法** · 将本地训练更新编码为图像形状的紧凑快照及可学习标签，并在服务器用快照重建训练更新。
+- **Baseline** · 比较 FedAvg、RandTopk、LoRA-FAIR 及用相同优化目标但无多网格快照的 FedAF+。
+- **Benchmark** · AGNews、Sogou 和图像分类，以 Top-1、通信大小、压缩与解压时间衡量。
+- **关键结果 / 消融** · 表 4 的 AGNews 上快照为 80.0%、7.66 MB，FedAvg 为 82.3%、3124 MB，FedAF+ 为 80.0%、11.2 MB。
+- **适用条件 / 局限** · 上报成本之外仍有客户端优化开销，重建精度依赖架构与数据；实验结果不构成隐私保证。
+
+**可复用机制** · 联邦通信受限时，可比较把更新编码成少量可学习样本与发送稀疏梯度，并同时计入编码、解码和精度。见表 4。
+
+<a id="paper-backsplit-fine-grained-background-supervision"></a>
+
+## BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Saluja_BackSplit_The_Importance_of_Sub-dividing_the_Background_in_Biomedical_Lesion_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Saluja_BackSplit_The_Importance_of_Sub-dividing_the_Background_in_Biomedical_Lesion_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 将病灶之外的全部像素标成背景，会丢掉组织间有助于识别稀疏目标的区别。
+- **核心创新 / 方法** · 训练时把背景按支持结构细分，使用现有架构学习辅助标签，再针对目标报告分割。
+- **Baseline** · 同 U-Net、ResEncU-Net、SegResNet 的原始训练比较；另测自动生成辅助标注。
+- **Benchmark** · KiTS23、PANTHER-MR、NSCLC-Radiomics 等，五折验证，报告 Dice、HD95、NSD。
+- **关键结果 / 消融** · 表 1 的 NSCLC 上，ResEncU-Net 的 Dice 从 0.5020 到 0.5386，HD95 从 145.0108 到 125.9383；SegResNet 的 NSD 由 0.3921 降至 0.3842。
+- **适用条件 / 局限** · 需要与目标有稳定关系且质量足够的背景结构标签，辅助标签错误和新的采集域应单测。
+
+**可复用机制** · 稀疏目标分割可在训练时细分异质背景，仅在输出时合并，验证辅助标签加到现有分割器是否有效。见表 1。
+
+<a id="paper-flashdecoder-rolling-kv-streaming-video-decode"></a>
+
+## FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kang_FlashDecoder_Real-Time_Latent-to-Pixel_Streaming_Decoder_with_Transformers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kang_FlashDecoder_Real-Time_Latent-to-Pixel_Streaming_Decoder_with_Transformers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视频潜变量的三维卷积解码在高分辨率和长序列上成本较高。
+- **核心创新 / 方法** · 用逐帧 Transformer 把潜变量解码为像素，只关注固定长度历史，以滚动缓存和窗口内相对位置支持持续生成。
+- **Baseline** · 与 Wan2.1、Wan2.2 的卷积解码器对照，并消融 2、3、4 帧窗口。
+- **Benchmark** · UltraVideo 的 480p、720p、1080p 重建，比较 PSNR、LPIPS、rFVD、FPS 与显存。
+- **关键结果 / 消融** · 表 3 的 Wan2.2 原解码器为 16.1 FPS、19.3 GB，替换后为 76.3 FPS、2.4 GB，rFVD 从 10.39 增至 12.75。
+- **适用条件 / 局限** · 窗口会截断长期信息；帧率收益须在目标硬件和完整生成流程中验证。
+
+**可复用机制** · 流式视频解码可对照固定长度的滚动 KV 窗口，按窗口大小测画质、峰值显存和帧率。见表 3、4。
+
+<a id="paper-diffuview-camera-conditioned-diffusion-features"></a>
+
+## DiffuView: Multi-View Diffusion Pretraining for 3D Aware Robotic Manipulation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_DiffuView_Multi-View_Diffusion_Pretraining_for_3D_Aware_Robotic_Manipulation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_DiffuView_Multi-View_Diffusion_Pretraining_for_3D_Aware_Robotic_Manipulation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉操控遇到新相机位姿时，单视图掩码预训练往往缺少一致的三维对应。
+- **核心创新 / 方法** · 预训练相机条件的多视图扩散模型，用其特征和基于射线的 Plücker 表示为闭环模仿策略提供条件。
+- **Baseline** · 与现有操控表征基线比较，移除机器人数据预训练、射线嵌入或 FiLM。
+- **Benchmark** · LIBERO、MetaWorld、多视图基准和真实操控，以任务成功率评估。
+- **关键结果 / 消融** · 表 5 总体成功率 89.2%，去掉机器人数据预训练为 63.3%，去掉 Plücker 嵌入为 76.2%。
+- **适用条件 / 局限** · 需要视角几何与额外机器人预训练数据，未标定相机、严重遮挡或新动作空间需单测。
+
+**可复用机制** · 视觉操控可从相机条件多视角扩散取特征，再分别检查机器人数据和相机编码对新视角的贡献。见表 5。
+
+<a id="paper-flowsteer-online-teacher-trajectory-alignment"></a>
+
+## FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ke_FlowSteer_Guiding_Few-Step_Image_Synthesis_with_Authentic_Trajectories_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ke_FlowSteer_Guiding_Few-Step_Image_Synthesis_with_Authentic_Trajectories_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 分段 ReFlow 在训练和采样时遇到的状态分布不同，少步推理时误差容易集中。
+- **核心创新 / 方法** · 训练学生时让时间段与教师实际轨迹对齐，再结合蒸馏损失改善有限步数生成。
+- **Baseline** · 比较 PeRFlow、PCM、Hyper-SD、Flash Diffusion 与原模型，并报告实际函数评估次数。
+- **Benchmark** · COCO 10k 和 GenEval，比较 PickScore、HPSv2、CLIP 及组合生成得分。
+- **关键结果 / 消融** · 表 3 对 SD3-Medium，以 4 次函数评估得到 GenEval 0.6859，PeRFlow 为 0.6357，Flash Diffusion 为 0.6672。
+- **适用条件 / 局限** · 依赖可生成轨迹的教师，在线对齐增加训练开销；不同骨干对单项能力的增益不完全一致。
+
+**可复用机制** · 少步流模型蒸馏可检验在线对齐真实教师轨迹，以减少分段重流与推理时轨迹的分布差。见表 3。
+
+<a id="paper-syncmos-dependency-conditioned-time-warp"></a>
+
+## SyncMos: Scalable Motion Synchronisation for Multi-Agent Scene Interaction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_SyncMos_Scalable_Motion_Synchronisation_for_Multi-Agent_Scene_Interaction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_SyncMos_Scalable_Motion_Synchronisation_for_Multi-Agent_Scene_Interaction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 分别生成多个角色的动作，即使动作各自合理，也可能错过共同接触或传递的时机。
+- **核心创新 / 方法** · 先把文本拆成具有依赖的事件，再在单人动作生成之上用时间变形与条件采样对齐交互。
+- **Baseline** · 与 LINGO 单角色运动基线和无时序依赖的规划比较。
+- **Benchmark** · 合成交互的事件覆盖和依赖测试，以及正负偏移下的抓取对时成功率。
+- **关键结果 / 消融** · 表 2 在 +0.5 秒成功率为 84.7%，-1.5 秒为 37.3%，基线在所列偏移均为 0。
+- **适用条件 / 局限** · 极端提前的效果较差；生成动作同步不等同于真实多机器人硬件上的闭环接触可行。
+
+**可复用机制** · 用单个动作模型生成多角色交互时，可以先显式列出事件依赖，再根据同步目标做时间变形，单测偏移范围。见表 2、3。
+
+<a id="paper-cloud-edge-cross-architecture-distillation"></a>
+
+## Cross-Architecture Adaptation: Cloud-Edge Continual Test-Time Adaptation with Dynamic Sampling and Heterogeneous Distillation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Cross-Architecture_Adaptation_Cloud-Edge_Continual_Test-Time_Adaptation_with_Dynamic_Sampling_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Cross-Architecture_Adaptation_Cloud-Edge_Continual_Test-Time_Adaptation_with_Dynamic_Sampling_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 实时边缘模型适配漂移时，云端模型与端侧通常具有不同表示和计算预算。
+- **核心创新 / 方法** · 从边缘流动态选样上传，以异构教师和学生间蒸馏适配端侧。
+- **Baseline** · 对比 Tent、CoTTA、ETA、CEMA 与 CoLA，并消融云边采样和异构蒸馏。
+- **Benchmark** · ImageNet-C 五级持续退化，报告各退化分类准确率及上报样本。
+- **关键结果 / 消融** · 表 1 使用 ViT-B 云教师与 ResNet-18 边模型，平均 41.2%，CoLA 为 38.6%；表 2 去掉 MAHD 后为 36.2%。
+- **适用条件 / 局限** · 依赖网络传输和云教师的可信度，弱网络、教师误判或训练流不可上传时需重新评估。
+
+**可复用机制** · 边缘模型遇到持续分布漂移时，可选择只上传有价值的样本，由更强异构云模型提供蒸馏信号，再逐项测适配收益和传输。见表 1–3。
+
+<a id="paper-uz3dvg"></a>
+
+## UZ3DVG: Unaided Zero-Shot 3D Visual Grounding with Generated Language Conditions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tan_UZ3DVG_Unaided_Zero-Shot_3D_Visual_Grounding_with_Generated_Language_Conditions_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tan_UZ3DVG_Unaided_Zero-Shot_3D_Visual_Grounding_with_Generated_Language_Conditions_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 零样本3D指代模型常在推理需要外部视觉或重复模型调用。
+- **核心创新 / 方法** · 教师产生物体级空间伪标签及推理链，以几何感知模块把空间推理蒸馏进轻量学生。
+- **Baseline** · 表1比较 LERF、VLM-G 等，协议区分是否用 Mask3D，表3消融。
+- **Benchmark** · ScanRefer 验证集 Acc@0.25/0.5、单3090吞吐；Nr3D 用同一检查点直接推理。
+- **关键结果 / 消融** · 表1无 Mask3D 配置总体43.13/35.05，吞吐9.43 FPS；较小子集协议需分开看。
+- **适用条件 / 局限** · 要求投影视图与三维点的配准可靠，遮挡会污染教师标签。
+
+**可复用机制** · 把跨模态教师移到离线数据生成，部署只留点云和指令，单测外部依赖与定位准确率。
+
+<a id="paper-d2mil"></a>
+
+## Learning from Noisy Supervision: A Denoising-Debiasing Framework for Weakly Supervised Video Anomaly Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_Learning_from_Noisy_Supervision_A_Denoising-Debiasing_Framework_for_Weakly_Supervised_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_Learning_from_Noisy_Supervision_A_Denoising-Debiasing_Framework_for_Weakly_Supervised_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 正样本包仍包含大量正常片段，按损失一次丢弃会同时丢掉难异常。
+- **核心创新 / 方法** · 动态过滤可疑高损失片段，再以视觉语言模型重新检查被滤实例。
+- **Baseline** · 表1–3比较原 MIL 方法和加入 D2MIL 的结果，含 UR-DMU 等。
+- **Benchmark** · ShanghaiTech、UCF-Crime、MSAD 的视频异常检测 AUC。
+- **关键结果 / 消融** · 表1–3在多个数据集比较原基线与嵌入 D2MIL 后的表现。
+- **适用条件 / 局限** · 需要教师适于识别异常，误判高度相关时复核无法恢复真阳性。
+
+**可复用机制** · 在弱监督多实例训练中，把大损失样本暂缓训练并用独立教师复核，保留难正例。
+
+<a id="paper-color-scene-coordinate-regression"></a>
+
+## CoLoR: The Devil is in Scene Coordinate Regression for Large-Scale Visual Localization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mao_CoLoR_The_Devil_is_in_Scene_Coordinate_Regression_for_Large-Scale_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mao_CoLoR_The_Devil_is_in_Scene_Coordinate_Regression_for_Large-Scale_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 大规模场景共视稀疏、局部外观重复，单一监督无法覆盖全部点。
+- **核心创新 / 方法** · 显式切分单/多视点，两阶段自举；对图像级与像素级特征共同施加检索目标。
+- **Baseline** · 表1比较特征匹配和场景坐标回归，表3逐步加入机制。
+- **Benchmark** · Aachen Day-Night 与 Hyundai 室内，报告地图大小和三档位姿容差的通过率。
+- **关键结果 / 消融** · 表1 CoLoR 地图47 MB，Aachen 日间最严格阈值78.6%、夜间67.3%。
+- **适用条件 / 局限** · 自举依赖初始几何和可用多视对应，重复结构或单视占比更高需重新验证。
+
+**可复用机制** · 按观察冗余分开训练可靠多视点与弱单视点，再统一局部和全局检索特征。
+
+<a id="paper-splat-ct-pose-sensitivity"></a>
+
+## Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Choi_Revisiting_Pose_Sensitivity_in_Splat-based_Computed_Tomography_under_Sparse-view_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Choi_Revisiting_Pose_Sensitivity_in_Splat-based_Computed_Tomography_under_Sparse-view_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 实测稀疏 CT 的条纹常归因于视角稀少，掩盖采集几何误差。
+- **核心创新 / 方法** · 分析扰动如何经可微投影传播，并在重建时联合校准几何参数。
+- **Baseline** · 表1–3对比原始 splat 重建和加入校准，表4报告耗时。
+- **Benchmark** · 有/无几何噪声的稀疏视角 CT，PSNR 和位姿平移/旋转 RMSE。
+- **关键结果 / 消融** · 表1显示无噪声时差异小，加入位姿噪声时联合校准获益；表3改变扰动幅度。
+- **适用条件 / 局限** · 校准依赖初始几何可辨识，错误严重与真实散射等其他伪影要单独评估。
+
+**可复用机制** · 稀疏视角重建遇到条纹时，应先把姿态误差和视图数量作为独立因素诊断。
+
+<a id="paper-real2edit2real"></a>
+
+## Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_Real2Edit2Real_Generating_Robotic_Demonstrations_via_a_3D_Control_Interface_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_Real2Edit2Real_Generating_Robotic_Demonstrations_via_a_3D_Control_Interface_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 真实演示难覆盖对象空间布局，纯2D编辑不能保证几何一致。
+- **核心创新 / 方法** · 多视重建再编辑点云，调整姿态和深度，以深度、动作、边缘和射线图约束合成。
+- **Baseline** · 表1比较 Go-1 与 π0.5 分别用实采和生成增强训练，表2–3比较高度与桌面纹理。
+- **Benchmark** · 四项实机操作任务成功率及未见高度与纹理。
+- **关键结果 / 消融** · 作者报告从1–5条原始演示合成的数据在实验任务上可匹配或超过50条实采训练。
+- **适用条件 / 局限** · 需要可靠的度量重建，复杂接触、遮挡及不同机械臂运动学需重新验证。
+
+**可复用机制** · 扩增操作演示时，可先在度量3D空间编辑轨迹和姿态，再用校准深度作视频生成主约束。
+
+<a id="paper-u4d-uncertainty-first"></a>
+
+## U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_U4D_Uncertainty-Aware_4D_World_Modeling_from_LiDAR_Sequences_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_U4D_Uncertainty-Aware_4D_World_Modeling_from_LiDAR_Sequences_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一分配生成容量会忽视几何或语义困难区域，造成时序不稳。
+- **核心创新 / 方法** · 由分割模型给出不确定图，依次生成高熵区域和剩余结构，并融合时空特征。
+- **Baseline** · 与既有激光雷达生成及原文组件配置比较。
+- **Benchmark** · 表1–3比较激光雷达场景生成质量与四维时序一致性。
+- **关键结果 / 消融** · 原文报告几何及时间一致性提升。
+- **适用条件 / 局限** · 分割熵不一定反映真实几何难度，错误锚点可能污染后续生成。
+
+**可复用机制** · 生成时序三维场景时，先从高不确定区域构建结构锚点，再用其条件化剩余区域。
+
+<a id="paper-hrnet-hybrid-multimodal-registration"></a>
+
+## Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Disentangle-then-Align_Non-Iterative_Hybrid_Multimodal_Image_Registration_via_Cross-Scale_Feature_Disentanglement_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Disentangle-then-Align_Non-Iterative_Hybrid_Multimodal_Image_Registration_via_Cross-Scale_Feature_Disentanglement_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只约束共享表示容易漏入模态私有线索；单一变换难建模全局与局部变化。
+- **核心创新 / 方法** · 用模态特定归一化、跨尺度解耦及投影提取共享表示，粗到细一次预测刚体和形变。
+- **Baseline** · 与既有刚体及多模态配准方案比较。
+- **Benchmark** · 四套多模态图像配准数据，测重投影等配准精度并按变换类型比较。
+- **关键结果 / 消融** · 原文报告各类配准场景的表现，并比较训练配置与刚体结果。
+- **适用条件 / 局限** · 共享特征需要真正对应的跨模态证据，极少重叠或强非刚性仍会困难。
+
+**可复用机制** · 同时存在大尺度错位和局部形变时，先对齐去模态差异的特征，再联合预测两类变换。
+
+<a id="paper-introsvg-render-feedback"></a>
+
+## IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_IntroSVG_Learning_from_Rendering_Feedback_for_Text-to-SVG_Generation_via_an_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_IntroSVG_Learning_from_Rendering_Feedback_for_Text-to-SVG_Generation_via_an_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 基于源码的自回归目标无法检查实际显示结果。
+- **核心创新 / 方法** · 示范草稿与渲染批评，重用早期失败样本做纠正监督，再用偏好优化及迭代细化。
+- **Baseline** · 表1比较数据标准化配置，表2比较不同生成模型。
+- **Benchmark** · 文本到 SVG，以渲染图画质及文本语义等评价。
+- **关键结果 / 消融** · 原文比较生成、评审和修正流程的表现。
+- **适用条件 / 局限** · 依赖可靠的渲染器和评审，单视图渲染不能评估全部代码结构及可编辑性。
+
+**可复用机制** · 生成可执行视觉程序时，用渲染反馈构造自我修正数据并训练同一模型扮演生成器与评审。
+
+<a id="paper-pcmci-action-confounders"></a>
+
+## Progressive Cross-Modal Causal Intervention for Long-Term Action Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Progressive_Cross-Modal_Causal_Intervention_for_Long-Term_Action_Recognition_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Progressive_Cross-Modal_Causal_Intervention_for_Long-Term_Action_Recognition_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 上下文共现和动作依赖会引入虚假跨模态对齐。
+- **核心创新 / 方法** · 以最优传输校正共现，建模动作相互依赖，并用校正文本作为中介开展前门式调整。
+- **Baseline** · 对比有无 VLM 的长程动作方法，表3对干预模块消融。
+- **Benchmark** · Breakfast、COIN、Charades，报告准确率和 mAP。
+- **关键结果 / 消融** · 表1–3显示所测动作识别提升并给出消融。
+- **适用条件 / 局限** · 中介和混淆变量的因果假设需独立成立，预测改善本身不能证明去混淆。
+
+**可复用机制** · 长视频动作识别要减轻场景共现捷径时，先校正动作文本关系，再作为视觉去混淆的中介。
+
+<a id="paper-bpgo-reward-trust"></a>
+
+## Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Learning_What_to_Trust_Bayesian_Prior-Guided_Optimization_for_Visual_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Learning_What_to_Trust_Bayesian_Prior-Guided_Optimization_for_Visual_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一条提示可对应多种输出，评分噪声使各组和组内差异的置信度不一。
+- **核心创新 / 方法** · 用语义先验锚定奖励，给一致组更多更新权，再按先验重新缩放组内优势。
+- **Baseline** · 标准 GRPO 及近期变体，表3消融组间和组内调整。
+- **Benchmark** · 图像与视频生成，评价语义对齐、画质与收敛，含 VideoAlign 相关结果。
+- **关键结果 / 消融** · 表1–3报告生成和训练改善，分别检查两级权重。
+- **适用条件 / 局限** · 先验可能偏向常见模式和已有审美，错误锚定可损害多样性。
+
+**可复用机制** · 组相对策略优化可分别估计组间奖励可信度与组内样本区分度。
+
+<a id="paper-binaryattention-one-bit-qk"></a>
+
+## BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_BinaryAttention_One-Bit_QK-Attention_for_Vision_and_Diffusion_Transformers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiao_BinaryAttention_One-Bit_QK-Attention_for_Vision_and_Diffusion_Transformers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常见4位和8位量化仍保留部分乘加成本，二值化又会损失幅度信息。
+- **核心创新 / 方法** · 用符号表示 Q/K 并执行位运算，加学习偏置，以量化感知训练和自蒸馏缓解误差。
+- **Baseline** · 全精度注意力、其他量化比较及 FlashAttention2 性能对照。
+- **Benchmark** · ImageNet-1K、COCO、ADE20K 及扩散 Transformer，衡量任务表现及 A100 速度。
+- **关键结果 / 消融** · 作者报告 A100 上比 FlashAttention2 快超2倍，任务分数保持在所测全精度附近。
+- **适用条件 / 局限** · 需要可用内核及重训练，幅值信息关键的层或其他硬件上须重测。
+
+**可复用机制** · 若硬件支持位运算，可只二值化查询键相似度，再用学习补偿和自蒸馏恢复质量。

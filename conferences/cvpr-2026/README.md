@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,047 篇，其中 673 篇暂收录、374 篇排除，另有 2,995 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,077 篇，其中 691 篇暂收录、386 篇排除，另有 2,965 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -679,3 +679,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,047
 | 计算机视觉 | 知识蒸馏 | [Progressive Mask Distillation for Self-supervised Video Representation](cards.md#paper-progressive-mask-distillation) | 掩码视频预训练时，让低遮盖阶段的学生教高遮盖阶段，避免大遮盖初期无法学习。 |
 | 多模态学习 | 训练与数据策略 | [GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking](cards.md#paper-gthinker-cue-rethinking) | 多模态模型推理初始观察可能错误时，引入证据冲突触发的视觉重新检查。 |
 | 机器人学 | 规划与决策 | [Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](cards.md#paper-analytic-concepts-articulation) | 把语言常识作为对象功能假设，再用可计算几何与物理概念约束操作。 |
+| 机器学习 | 数据蒸馏 | [OS-Fed: One Snapshot Is All You Need](cards.md#paper-osfed-compact-learned-update-snapshot) | 联邦通信受限时，可比较把更新编码成少量可学习样本与发送稀疏梯度，并同时计入编码、解码和精度。见表 4。 |
+| 计算机视觉 | 训练策略 | [BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation](cards.md#paper-backsplit-fine-grained-background-supervision) | 稀疏目标分割可在训练时细分异质背景，仅在输出时合并，验证辅助标签加到现有分割器是否有效。见表 1。 |
+| 生成模型 | 模型效率 | [FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers](cards.md#paper-flashdecoder-rolling-kv-streaming-video-decode) | 流式视频解码可对照固定长度的滚动 KV 窗口，按窗口大小测画质、峰值显存和帧率。见表 3、4。 |
+| 机器人学 | 表征学习 | [DiffuView: Multi-View Diffusion Pretraining for 3D Aware Robotic Manipulation](cards.md#paper-diffuview-camera-conditioned-diffusion-features) | 视觉操控可从相机条件多视角扩散取特征，再分别检查机器人数据和相机编码对新视角的贡献。见表 5。 |
+| 生成模型 | 模型蒸馏 | [FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories](cards.md#paper-flowsteer-online-teacher-trajectory-alignment) | 少步流模型蒸馏可检验在线对齐真实教师轨迹，以减少分段重流与推理时轨迹的分布差。见表 3。 |
+| 机器人学 | 时序建模 | [SyncMos: Scalable Motion Synchronisation for Multi-Agent Scene Interaction](cards.md#paper-syncmos-dependency-conditioned-time-warp) | 用单个动作模型生成多角色交互时，可以先显式列出事件依赖，再根据同步目标做时间变形，单测偏移范围。见表 2、3。 |
+| 机器学习 | 模型蒸馏 | [Cross-Architecture Adaptation: Cloud-Edge Continual Test-Time Adaptation with Dynamic Sampling and Heterogeneous Distillation](cards.md#paper-cloud-edge-cross-architecture-distillation) | 边缘模型遇到持续分布漂移时，可选择只上传有价值的样本，由更强异构云模型提供蒸馏信号，再逐项测适配收益和传输。见表 1–3。 |
+| 多模态学习 | 训练策略 | [UZ3DVG: Unaided Zero-Shot 3D Visual Grounding with Generated Language Conditions](cards.md#paper-uz3dvg) | 把跨模态教师移到离线数据生成，部署只留点云和指令，单测外部依赖与定位准确率。 |
+| 计算机视觉 | 训练策略 | [Learning from Noisy Supervision: A Denoising-Debiasing Framework for Weakly Supervised Video Anomaly Detection](cards.md#paper-d2mil) | 在弱监督多实例训练中，把大损失样本暂缓训练并用独立教师复核，保留难正例。 |
+| 计算机视觉 | 训练策略 | [CoLoR: The Devil is in Scene Coordinate Regression for Large-Scale Visual Localization](cards.md#paper-color-scene-coordinate-regression) | 按观察冗余分开训练可靠多视点与弱单视点，再统一局部和全局检索特征。 |
+| 计算机视觉 | 模型分析 | [Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction](cards.md#paper-splat-ct-pose-sensitivity) | 稀疏视角重建遇到条纹时，应先把姿态误差和视图数量作为独立因素诊断。 |
+| 机器人学 | 数据增强 | [Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](cards.md#paper-real2edit2real) | 扩增操作演示时，可先在度量3D空间编辑轨迹和姿态，再用校准深度作视频生成主约束。 |
+| 机器人学 | 条件生成 | [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](cards.md#paper-u4d-uncertainty-first) | 生成时序三维场景时，先从高不确定区域构建结构锚点，再用其条件化剩余区域。 |
+| 计算机视觉 | 表示学习 | [Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement](cards.md#paper-hrnet-hybrid-multimodal-registration) | 同时存在大尺度错位和局部形变时，先对齐去模态差异的特征，再联合预测两类变换。 |
+| 多模态学习 | 训练与数据策略 | [IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework](cards.md#paper-introsvg-render-feedback) | 生成可执行视觉程序时，用渲染反馈构造自我修正数据并训练同一模型扮演生成器与评审。 |
+| 多模态学习 | 迁移与泛化 | [Progressive Cross-Modal Causal Intervention for Long-Term Action Recognition](cards.md#paper-pcmci-action-confounders) | 长视频动作识别要减轻场景共现捷径时，先校正动作文本关系，再作为视觉去混淆的中介。 |
+| 多模态学习 | 强化学习 | [Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](cards.md#paper-bpgo-reward-trust) | 组相对策略优化可分别估计组间奖励可信度与组内样本区分度。 |
+| 计算机视觉 | 推理优化 | [BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers](cards.md#paper-binaryattention-one-bit-qk) | 若硬件支持位运算，可只二值化查询键相似度，再用学习补偿和自蒸馏恢复质量。 |

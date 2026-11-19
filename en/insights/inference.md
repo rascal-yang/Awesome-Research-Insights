@@ -1427,5 +1427,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention](../../conferences/cvpr-2026/cards.md#paper-jiti-elegant-execution)
 - [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](../../conferences/cvpr-2026/cards.md#paper-cubic-discrete-diffusion)
 - [Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](../../conferences/cvpr-2026/cards.md#paper-analytic-concepts-articulation)
+- [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](../../conferences/cvpr-2026/cards.md#paper-u4d-uncertainty-first)
+- [BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-binaryattention-one-bit-qk)
 
 <!-- conference-classification:end -->

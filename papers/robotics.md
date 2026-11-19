@@ -917,5 +917,9 @@
 - [Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes](../conferences/cvpr-2026/cards.md#paper-poisson-gaussian-to-occupancy-weak-supervision)
 - [Beyond Success: Refining Elegant Robot Manipulation from Mixed-Quality Data via Just-in-Time Intervention](../conferences/cvpr-2026/cards.md#paper-jiti-elegant-execution)
 - [Physically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](../conferences/cvpr-2026/cards.md#paper-analytic-concepts-articulation)
+- [DiffuView: Multi-View Diffusion Pretraining for 3D Aware Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-diffuview-camera-conditioned-diffusion-features)
+- [SyncMos: Scalable Motion Synchronisation for Multi-Agent Scene Interaction](../conferences/cvpr-2026/cards.md#paper-syncmos-dependency-conditioned-time-warp)
+- [Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](../conferences/cvpr-2026/cards.md#paper-real2edit2real)
+- [U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences](../conferences/cvpr-2026/cards.md#paper-u4d-uncertainty-first)
 
 <!-- conference-classification:end -->

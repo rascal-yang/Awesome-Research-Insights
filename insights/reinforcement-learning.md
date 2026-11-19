@@ -758,5 +758,6 @@
 - [PlannerRFT: Reinforcing Diffusion Planners through Closed-Loop and Sample-Efficient Fine-Tuning](../conferences/cvpr-2026/cards.md#paper-planner-rft)
 - [Reinforcing Video Object Segmentation to Think before it Segments](../conferences/cvpr-2026/cards.md#paper-veason-r1-sequential-segmentation)
 - [Select Less, Reason More: Prioritizing Evidence Purity for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-earl-video-evidence)
+- [Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](../conferences/cvpr-2026/cards.md#paper-bpgo-reward-trust)
 
 <!-- conference-classification:end -->

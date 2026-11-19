@@ -399,5 +399,8 @@ Data selection, annotation, augmentation, and sampling.
 - [MR-RAG: Multimodal Relevance-Aware Retrieval-Augmented Generation for Medical Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-mr-rag)
 - [EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval](../../conferences/cvpr-2026/cards.md#paper-evograph-online-multimodal-graph-refinement)
 - [GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking](../../conferences/cvpr-2026/cards.md#paper-gthinker-cue-rethinking)
+- [OS-Fed: One Snapshot Is All You Need](../../conferences/cvpr-2026/cards.md#paper-osfed-compact-learned-update-snapshot)
+- [Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](../../conferences/cvpr-2026/cards.md#paper-real2edit2real)
+- [IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework](../../conferences/cvpr-2026/cards.md#paper-introsvg-render-feedback)
 
 <!-- conference-classification:end -->

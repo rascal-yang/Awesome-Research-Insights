@@ -780,5 +780,8 @@
 - [Markovian Scale Prediction: A New Era of Visual Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-markov-var-sliding-scale-history)
 - [Edge-RecViT: Efficient Vision Transformer via Semantic-Refined Dynamic Recursion](../conferences/cvpr-2026/cards.md#paper-edge-recvit-boundary-aware-token-depth)
 - [NERFIFY: A Multi-Agent Framework for Turning NeRF Papers into Code](../conferences/cvpr-2026/cards.md#paper-nerfify)
+- [FlashDecoder: Real-Time Latent-to-Pixel Streaming Decoder with Transformers](../conferences/cvpr-2026/cards.md#paper-flashdecoder-rolling-kv-streaming-video-decode)
+- [SyncMos: Scalable Motion Synchronisation for Multi-Agent Scene Interaction](../conferences/cvpr-2026/cards.md#paper-syncmos-dependency-conditioned-time-warp)
+- [Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction](../conferences/cvpr-2026/cards.md#paper-splat-ct-pose-sensitivity)
 
 <!-- conference-classification:end -->

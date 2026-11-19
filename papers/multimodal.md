@@ -1085,5 +1085,9 @@
 - [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](../conferences/cvpr-2026/cards.md#paper-cubic-discrete-diffusion)
 - [Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers](../conferences/cvpr-2026/cards.md#paper-gated-condition-linear-attention)
 - [GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking](../conferences/cvpr-2026/cards.md#paper-gthinker-cue-rethinking)
+- [UZ3DVG: Unaided Zero-Shot 3D Visual Grounding with Generated Language Conditions](../conferences/cvpr-2026/cards.md#paper-uz3dvg)
+- [IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework](../conferences/cvpr-2026/cards.md#paper-introsvg-render-feedback)
+- [Progressive Cross-Modal Causal Intervention for Long-Term Action Recognition](../conferences/cvpr-2026/cards.md#paper-pcmci-action-confounders)
+- [Learning What to Trust: Bayesian Prior-Guided Optimization for Visual Generation](../conferences/cvpr-2026/cards.md#paper-bpgo-reward-trust)
 
 <!-- conference-classification:end -->

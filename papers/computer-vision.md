@@ -1191,5 +1191,11 @@
 - [Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-monocop-uncertainty-routing)
 - [Any4D: Unified Feed-Forward Metric 4D Reconstruction](../conferences/cvpr-2026/cards.md#paper-any4d-modular-coordinate-factors)
 - [Progressive Mask Distillation for Self-supervised Video Representation](../conferences/cvpr-2026/cards.md#paper-progressive-mask-distillation)
+- [BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation](../conferences/cvpr-2026/cards.md#paper-backsplit-fine-grained-background-supervision)
+- [Learning from Noisy Supervision: A Denoising-Debiasing Framework for Weakly Supervised Video Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-d2mil)
+- [CoLoR: The Devil is in Scene Coordinate Regression for Large-Scale Visual Localization](../conferences/cvpr-2026/cards.md#paper-color-scene-coordinate-regression)
+- [Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction](../conferences/cvpr-2026/cards.md#paper-splat-ct-pose-sensitivity)
+- [Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement](../conferences/cvpr-2026/cards.md#paper-hrnet-hybrid-multimodal-registration)
+- [BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-binaryattention-one-bit-qk)
 
 <!-- conference-classification:end -->
