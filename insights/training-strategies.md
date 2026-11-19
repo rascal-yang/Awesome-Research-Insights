@@ -1266,5 +1266,11 @@
 - [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](../conferences/cvpr-2026/cards.md#paper-neoverse-monocular-degradation)
 - [PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference](../conferences/cvpr-2026/cards.md#paper-pyramidalwan-pretrained-conversion)
 - [Revisiting Model Stitching In the Foundation Model Era](../conferences/cvpr-2026/cards.md#paper-model-stitching-penultimate)
+- [D-Convexity: A Unified Differentiable Convex Shape Prior via Quasi-Concavity for Data-driven Image Segmentation](../conferences/cvpr-2026/cards.md#paper-threshold-free-quasiconcave-segmentation)
+- [Uncertainty-Aware Exploratory Direct Preference Optimization for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-uncertainty-guided-token-dpo-exploration)
+- [SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-sage-any-horizon)
+- [Towards Multimodal Domain Generalization with Few Labels](../conferences/cvpr-2026/cards.md#paper-ssmdg-consensus-disagreement)
+- [Smoothing the Score Function to Enhance Generalization in Diffusion Models](../conferences/cvpr-2026/cards.md#paper-score-smoothing-diffusion)
+- [Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning](../conferences/cvpr-2026/cards.md#paper-lost-text-layer-reuse)
 
 <!-- conference-classification:end -->

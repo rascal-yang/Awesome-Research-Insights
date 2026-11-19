@@ -27841,3 +27841,303 @@
 - **适用条件 / 局限** · 校准依赖具体求解器和步数，重新安排采样时间后需复核。
 
 **可复用机制** · 量化扩散模型时校准实际采样轨迹，尤其是高阶求解器的方向估计。
+
+<a id="paper-camera-guided-prior-view-video-retrieval"></a>
+
+## Plenoptic Video Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fu_Plenoptic_Video_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_Plenoptic_Video_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 互相独立的视角生成容易在原视频未见区域产生跨视角冲突。
+- **核心创新 / 方法** · 训练自回归多入单出模型，用相机引导检索此前视图，并逐步扩大训练上下文。
+- **Baseline** · 对比 ReCamMaster 及相同数据下重训的版本，并消融检索。
+- **Benchmark** · Basic Benchmark 和 Agibot，评估视角同步、图像质量及相机控制。
+- **关键结果 / 消融** · 表 1 报告跨镜头视图同步结果，正文另改变历史检索的数量。
+- **适用条件 / 局限** · 历史结果可能已含错误，重复检索会累积不一致。
+
+**可复用机制** · 生成不同相机轨迹的视频时，可检索视角相关的已生成视频作为场景记忆。
+
+<a id="paper-modality-and-difficulty-adaptive-active-labeling"></a>
+
+## Label What Matters: Modality-Balanced and Difficulty-Aware Multimodal Active Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_Label_What_Matters_Modality-Balanced_and_Difficulty-Aware_Multimodal_Active_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng_Label_What_Matters_Modality-Balanced_and_Difficulty-Aware_Multimodal_Active_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定选样规则无法处理强弱模态交换或易学样本逐渐耗尽。
+- **核心创新 / 方法** · 将选样建模为强化学习过程，以模态均衡及难度信号调整优先级。
+- **Baseline** · 比较主动选样基线并消融 AMCB、EFDA 组件。
+- **Benchmark** · Food101、KineticsSound、VGGSound 的 3000 标注样本预算，比较 top-1。
+- **关键结果 / 消融** · 完整方案三项准确率为 86.50%、48.41% 和 22.23%。
+- **适用条件 / 局限** · 策略依赖切实反映标注收益的状态和反馈，不同成本的标注单位需重新校准。
+
+**可复用机制** · 多模态主动学习可以按训练轮次动态重估模态价值和样本难度，再决定标注预算。
+
+<a id="paper-threshold-free-quasiconcave-segmentation"></a>
+
+## D-Convexity: A Unified Differentiable Convex Shape Prior via Quasi-Concavity for Data-driven Image Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_D-Convexity_A_Unified_Differentiable_Convex_Shape_Prior_via_Quasi-Concavity_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_D-Convexity_A_Unified_Differentiable_Convex_Shape_Prior_via_Quasi-Concavity_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只对某个二值掩码限制凸性，难直接端到端训练，也可能改变阈值后失效。
+- **核心创新 / 方法** · 由拟凹性导出函数值、梯度或二阶局部约束。
+- **Baseline** · 比较普通分割和已有形状感知方案，消融不同骨干和凸性条件。
+- **Benchmark** · ACDC、CASIA、REFUGE，另从 REFUGE 测试至 RIM-ONE-r3。
+- **关键结果 / 消融** · 正文比较不同先验的分割表现，也包含跨数据集验证。
+- **适用条件 / 局限** · 真实目标若明显非凸或包含多个实例，强凸性会抹除正确区域。
+
+**可复用机制** · 可对软掩码的全部超水平集施加凸性，减少训练约束对二值阈值的依赖。
+
+<a id="paper-counterfactual-visual-feature-correction"></a>
+
+## Fighting Hallucinations with Counterfactuals: Diffusion-Guided Perturbations for LVLM Hallucination Suppression
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dastmalchi_Fighting_Hallucinations_with_Counterfactuals_Diffusion-Guided_Perturbations_for_LVLM_Hallucination_Suppression_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dastmalchi_Fighting_Hallucinations_with_Counterfactuals_Diffusion-Guided_Perturbations_for_LVLM_Hallucination_Suppression_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉语言模型可能在图像证据不足时生成看似合理的对象描述。
+- **核心创新 / 方法** · 离线使用扩散编辑构造与原图描述冲突的配对，估计特征方向并用于推理期修正。
+- **Baseline** · 在 LLaVA-1.5、MiniGPT-4 等比较现有幻觉抑制及未修正模型。
+- **Benchmark** · CHAIR 与 BLEU 评估描述，OPOPE 报告准确率、精确率和 F1。
+- **关键结果 / 消融** · 正文同时给出幻觉率与语言表现，避免单一指标掩盖修正副作用。
+- **适用条件 / 局限** · 依赖反事实编辑覆盖且不过度改变无关内容，跨模型方向未必稳定。
+
+**可复用机制** · 可在模型外构造事实与反事实的视觉配对，用其差异寻找应在推理期校正的表征方向。
+
+<a id="paper-mono-structure-stereo-motion-refinement"></a>
+
+## PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_PromptStereo_Zero-Shot_Stereo_Matching_via_Structure_and_Motion_Prompts_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_PromptStereo_Zero-Shot_Stereo_Matching_via_Structure_and_Motion_Prompts_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单目深度先验有助于跨域，但传统 GRU 细化难充分利用其表示。
+- **核心创新 / 方法** · Prompt Recurrent Unit 把单目结构和双目运动信号作为提示送入单目基础模型解码器。
+- **Baseline** · 比较常规双目方法、同代码重训的 MonSter，并列出 FoundationStereo 参考。
+- **Benchmark** · 零样本双目匹配基准，以像素误差与 bad-pixel 指标对比。
+- **关键结果 / 消融** · 正文表 1 报告多个未见域的对比，并区分不可公平对比的参考模型。
+- **适用条件 / 局限** · 需要高质量的单目先验及可用的双目匹配特征。
+
+**可复用机制** · 可在双目迭代细化中反复使用单目基础模型的结构先验，而非只在初始化阶段使用。
+
+<a id="paper-uncertainty-guided-token-dpo-exploration"></a>
+
+## Uncertainty-Aware Exploratory Direct Preference Optimization for Multimodal Large Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Uncertainty-Aware_Exploratory_Direct_Preference_Optimization_for_Multimodal_Large_Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Uncertainty-Aware_Exploratory_Direct_Preference_Optimization_for_Multimodal_Large_Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 序列级 DPO 难为关键视觉细节分配监督，模型自身敏感度会偏向已经会看的证据。
+- **核心创新 / 方法** · 用不确定性感知探索调整视觉 token 的学习重点，并消融探索强度和敏感度阈值。
+- **Baseline** · 比较其他视觉语言偏好对齐及无探索的策略。
+- **Benchmark** · 多种视觉语言幻觉基准，进行训练数据及检查点来源区分。
+- **关键结果 / 消融** · 正文同时报告多基准比较与探索阈值消融。
+- **适用条件 / 局限** · 不确定性代理可能难区分真实模糊和模型知识不足。
+
+**可复用机制** · 视觉偏好学习可主动补充尚不确定的关键 token，减少以当前模型敏感度决定监督时的自我强化。
+
+<a id="paper-adaptive-tactile-injection-action-feedback"></a>
+
+## AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_AT-VLA_Adaptive_Tactile_Injection_for_Enhanced_Feedback_Reaction_in_Vision-Language-Action_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_AT-VLA_Adaptive_Tactile_Injection_for_Enhanced_Feedback_Reaction_in_Vision-Language-Action_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 新增模态可能扰动原有表征，慢推理也使触觉反馈无法及时参与控制。
+- **核心创新 / 方法** · 引入自适应触觉注入与快速反馈通路，在需要接触感知时增强动作生成。
+- **Baseline** · 比较有无触觉的 AT-VLA 及其他操作配置。
+- **Benchmark** · 开拉链、盖章等接触任务，报告分步骤和整体成功率。
+- **关键结果 / 消融** · 表 1 完整开拉链和盖章任务的整体成功率分别为 33% 和 46%。
+- **适用条件 / 局限** · 依赖触觉传感器和接触分布，整体成功率显示仍有明显部署空间。
+
+**可复用机制** · 给预训练 VLA 新增触觉时可按接触需求动态注入，将反馈用于动作调整。
+
+<a id="paper-sage-any-horizon"></a>
+
+## SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jain_SAGE_Training_Smart_Any-Horizon_Agents_for_Long_Video_Reasoning_with_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jain_SAGE_Training_Smart_Any-Horizon_Agents_for_Long_Video_Reasoning_with_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一单轮处理大量采样帧会浪费简单问题的预算，也可能漏掉长视频稀疏证据。
+- **核心创新 / 方法** · SAGE 用可调用工具的编排模型判断是否继续观察、检索或直接答复，在合成轨迹上训练并强化微调。
+- **Baseline** · 与单轮视频模型及未用相同强化训练的编排设置对照。
+- **Benchmark** · SAGE-Bench 平均视频长逾700秒，正文还比较多轮工具和通用视频推理。
+- **关键结果 / 消融** · 正文报告在长视频使用多轮而在简单条件保留单轮能力，并研究训练配方。
+- **适用条件 / 局限** · 工具的可用性和中间反馈会影响收益，线上成本还包括工具调用及多轮等待。
+
+**可复用机制** · 让视频智能体在单轮作答和多轮检索之间自主选择，并将工具开销纳入比较。
+
+<a id="paper-spatialsky-spatial-diagnosis"></a>
+
+## Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Is_your_VLM_Sky-Ready_A_Comprehensive_Spatial_Intelligence_Benchmark_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Is_your_VLM_Sky-Ready_A_Comprehensive_Spatial_Intelligence_Benchmark_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 通用图像问答难判断模型是否识别航拍中的尺度、深度与空间关系。
+- **核心创新 / 方法** · SpatialSky-Bench 按环境感知和场景理解拆解能力，并验证多阶段训练和奖励。
+- **Baseline** · 与多个视觉语言模型比较，另消融 Sky-VLM 的训练阶段和奖励。
+- **Benchmark** · SpatialSky-Bench 涵盖13类空间问答与定位能力，报告分项表现。
+- **关键结果 / 消融** · 正文比较模型在不同空间子能力上的表现，并检查任务适配训练。
+- **适用条件 / 局限** · 基准上的空间识别不等同于真实闭环导航，需要在视角、光照及动作反馈变化下检查。
+
+**可复用机制** · 在不同俯视条件下分开测量环境感知与空间理解，再决定是否把视觉语言模型接入导航。
+
+<a id="paper-optical-flow-continuous-transport"></a>
+
+## Optical Flow Matching: Reframing Optical Flow as Continuous Transport Dynamics
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Luo_Optical_Flow_Matching_Reframing_Optical_Flow_as_Continuous_Transport_Dynamics_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Luo_Optical_Flow_Matching_Reframing_Optical_Flow_as_Continuous_Transport_Dynamics_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 离散光流只预测端点位移，无法直接描述其间的运动演化。
+- **核心创新 / 方法** · OFM 以三角速度构造稳定的时间条件速度，用欧拉积分传播像素坐标。
+- **Baseline** · 与已有两帧光流估计方法比较，并消融速度构造及求解配置。
+- **Benchmark** · Sintel、KITTI 与零样本 Spring 光流，使用各基准官方误差指标。
+- **关键结果 / 消融** · 正文报告基准准确度与时间稳定性，并检查遮挡、边缘等场景。
+- **适用条件 / 局限** · 光流不直接等于三维速度，快速遮挡、瞬间运动变化及求解步长仍影响可靠性。
+
+**可复用机制** · 将两帧位移改写为连续速度场，在需要中间状态和一致轨迹时显式积分。
+
+<a id="paper-ssmdg-consensus-disagreement"></a>
+
+## Towards Multimodal Domain Generalization with Few Labels
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Towards_Multimodal_Domain_Generalization_with_Few_Labels_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Towards_Multimodal_Domain_Generalization_with_Few_Labels_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只靠融合预测产生伪标签会掩盖模态冲突，丢弃冲突样本又浪费稀缺数据。
+- **核心创新 / 方法** · 联合置信一致性、分歧感知正则与跨模态原型对齐，区分可靠伪标签和模糊样本。
+- **Baseline** · 比较单模态半监督、半监督多模态及多模态域泛化方法。
+- **Benchmark** · 含 HAC 的多域评测，测试每类5标注、其他标注量及测试缺模态情形。
+- **关键结果 / 消融** · 表1–3专门覆盖低标注和测试模态缺失，为选择伪标签规则提供对照。
+- **适用条件 / 局限** · 共同错误也可能被当作一致性，换传感器或严重漂移需要检验伪标签可靠性。
+
+**可复用机制** · 在跨域少标签训练中，将融合与单模态一致样本用于伪标签，把分歧样本用在不同目标上。
+
+<a id="paper-score-smoothing-diffusion"></a>
+
+## Smoothing the Score Function to Enhance Generalization in Diffusion Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Smoothing_the_Score_Function_to_Enhance_Generalization_in_Diffusion_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Smoothing_the_Score_Function_to_Enhance_Generalization_in_Diffusion_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 经验分布的得分可被很尖锐的权重主导，采样可能返回已有样本而非局部流形。
+- **核心创新 / 方法** · 分析经验得分中的软最大权重，并用包括噪声去条件化的策略平滑得分学习。
+- **Baseline** · 比较常规得分训练、网络近似及正文平滑变体。
+- **Benchmark** · 正文结合合成分布和扩散生成实验，比较记忆与泛化现象。
+- **关键结果 / 消融** · 理论和实验观察到平滑估计可延迟个别样本主导采样。
+- **适用条件 / 局限** · 过强平滑可能损失稀有模式，真实高维场景需独立衡量重复率与质量。
+
+**可复用机制** · 以不同样本对得分的竞争解释记忆现象，并在拟合中降低局部单样本支配。
+
+<a id="paper-segmo-locally-cohesive-prefill"></a>
+
+## SegMo: Co-Designing Content-Aware Sparsity and Locally-Cohesive Segment Parallelism for Efficient VLM Inference
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_SegMo_Co-Designing_Content-Aware_Sparsity_and_Locally-Cohesive_Segment_Parallelism_for_Efficient_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_SegMo_Co-Designing_Content-Aware_Sparsity_and_Locally-Cohesive_Segment_Parallelism_for_Efficient_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长视频令牌使预填充昂贵；盲目裁剪损害准确率，统一并行切分带来冗余通信。
+- **核心创新 / 方法** · 先按场景查询相关性和帧间冗余删减，再使用局部连贯的分段并行。
+- **Baseline** · 比较未裁剪骨干和既有稀疏、并行方法，线上同时测准确率及用时。
+- **Benchmark** · 正文对两种 VLM 的三套视频问答基准评估，并报告延迟。
+- **关键结果 / 消融** · 表1、2用于比较端到端准确率和计算收益。
+- **适用条件 / 局限** · 依赖片段内注意力的局部集中，跨片段问题及硬件通信变化需复测。
+
+**可复用机制** · 稀疏化和并行切分应共享视频内容结构，以减少令牌数与段间通信。
+
+<a id="paper-lost-text-layer-reuse"></a>
+
+## Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Reclaiming_Lost_Text_Layers_for_Source-Free_Cross-Domain_Few-Shot_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Reclaiming_Lost_Text_Layers_for_Source-Free_Cross-Domain_Few-Shot_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · CLIP 中间文本层在目标域看似冗余，部分有用语义可能因视觉域差距无法利用。
+- **核心创新 / 方法** · 从层级与编码器级重新引入文本中间层信息，指导视觉支路在目标域学习。
+- **Baseline** · 比较直接保留、裁剪相应文本层及所提修复。
+- **Benchmark** · 四个跨域目标数据集，5-way 1-shot 和 5-shot 分类准确率。
+- **关键结果 / 消融** · 正文报告有些层移除后起初更好，但修复对齐可重新利用其信息，表3做消融。
+- **适用条件 / 局限** · 取决于文本模板和目标类别与预训练语义的覆盖，需重验开放类及跨模态任务。
+
+**可复用机制** · 诊断跨域时看似有害的文本层，尝试修复视觉对齐而非直接裁剪。
+
+<a id="paper-tempomaster-frame-rate-levels"></a>
+
+## TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ma_TempoMaster_Efficient_Long_Video_Generation_via_Next-Frame-Rate_Prediction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_TempoMaster_Efficient_Long_Video_Generation_via_Next-Frame-Rate_Prediction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐帧自回归效率较低，也难提前统一长视频的运动。
+- **核心创新 / 方法** · TempoMaster 先生成低帧率全片，在帧率层间自回归，层内用双向注意力并行细化。
+- **Baseline** · 比较同等及更大长视频模型，并对照并行配置。
+- **Benchmark** · VBench 和500帧生成的人评，检查视觉质量和时序一致性。
+- **关键结果 / 消融** · 正文报告长视频比较，表3检验长短视频的并行配置。
+- **适用条件 / 局限** · 初始低采样率可能错过短暂事件，须测对互动动作和条件切换的响应。
+
+**可复用机制** · 长序列先生成低频全局结构，再并行填入各层时间细节。
+
+<a id="paper-dtg-restore-decoupled-guidance-timesteps"></a>
+
+## DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yesiltepe_DTG-Restore_Training-Free_Diffusion_Refinement_for_Generative_Video_Super-Resolution_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yesiltepe_DTG-Restore_Training-Free_Diffusion_Refinement_for_Generative_Video_Super-Resolution_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 低质量视频作为条件时，标准 CFG 容易复制输入里的结构扭曲。
+- **核心创新 / 方法** · 将无条件分支放到更干净的扩散时间获得结构先验，在采样过程中退火时间偏差，可接已有恢复器。
+- **Baseline** · 对照 RealViformer、MGLD-VSR、VEnhancer、SeedVR 系列等。
+- **Benchmark** · SPMCS 等视频超分辨率基准，比较 PSNR、SSIM 等重建指标。
+- **关键结果 / 消融** · SPMCS 的 PSNR 为 22.76，低于 RealViformer 的 24.18，高于表中多项生成式对照。
+- **适用条件 / 局限** · 依赖视频模型的结构先验，真实输入扭曲严重时应检查恢复是否改变场景。
+
+**可复用机制** · 在无条件与有条件分支使用不同噪声时间，再逐步缩小差异以兼顾结构和细节。
+
+<a id="paper-know-reverse-structured-forgetting"></a>
+
+## Learning from Oblivion: Predicting Knowledge-Overflowed Weights via Retrodiction of Forgetting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jang_Learning_from_Oblivion_Predicting_Knowledge-Overflowed_Weights_via_Retrodiction_of_Forgetting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jang_Learning_from_Oblivion_Predicting_Knowledge-Overflowed_Weights_via_Retrodiction_of_Forgetting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 目标训练样本少时，现有预训练权重可能没有保留全部有用信息。
+- **核心创新 / 方法** · 在逐步缩小的数据集上微调构造权重转移序列，以元学习预测朝向信息更丰富模型的权重。
+- **Baseline** · 对比朴素迁移和不同 KNOW 权重预测配置。
+- **Benchmark** · 以 CIFAR100 预训练 ResNet18，CIFAR10 下游测试准确率。
+- **关键结果 / 消融** · 表 1 在不同数据量下比较权重预测策略，报告均值与波动。
+- **适用条件 / 局限** · 依赖受控退化轨迹及学习分布，无法凭空保证恢复未见知识。
+
+**可复用机制** · 以受控数据缩减形成权重退化轨迹，再学习逆转轨迹作为迁移初始化。
+
+<a id="paper-spatialscore-controlled-spatial-preference-pairs"></a>
+
+## Enhancing Spatial Understanding in Image Generation via Reward Modeling
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Enhancing_Spatial_Understanding_in_Image_Generation_via_Reward_Modeling_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_Enhancing_Spatial_Understanding_in_Image_Generation_via_Reward_Modeling_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 复杂位置关系可能被图像偏好打分忽略，增加采样次数难解决语义错位。
+- **核心创新 / 方法** · 构造八万余空间偏好对，以 SpatialScore 奖励空间对齐，再用 Flow-GRPO 在线优化。
+- **Baseline** · 和通用图像奖励、Qwen2.5-VL 及商用评估模型比较。
+- **Benchmark** · 空间奖励基准按一次和两至三次提示扰动分组，报告配对准确率。
+- **关键结果 / 消融** · 表 1 给出不同扰动组的识别对照，正文检验奖励对生成模型的作用。
+- **适用条件 / 局限** · 空间奖励的覆盖取决于关系模板，生成质量及其他语义维度要独立检查。
+
+**可复用机制** · 用有控制的关系扰动构造近似反事实配对，训练奖励识别空间关系而非整体画质。
+
+<a id="paper-diq-difficulty-gradient-data-selection"></a>
+
+## Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhuang_Towards_Efficient_Medical_Reasoning_with_Minimal_Fine-Tuning_Data_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhuang_Towards_Efficient_Medical_Reasoning_with_Minimal_Fine-Tuning_Data_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅用梯度容易偏向可快速优化的样本，只按难度又会引入噪声。
+- **核心创新 / 方法** · 以样本优化贡献和推理难度共同决定优先级，给语言骨干选择微调子集。
+- **Baseline** · 对比完整数据训练与既有数据选择策略。
+- **Benchmark** · Llama3.1-8B-Instruct 医疗推理，以 1% 和 10% 数据保留率对照，每设五次重复。
+- **关键结果 / 消融** · 表 1 列出不同保留率和下游任务成绩，比较筛选与全量的差异。
+- **适用条件 / 局限** · 梯度估计及难度定义依赖基础模型，迁移到不同领域时要重新估计。
+
+**可复用机制** · 筛选少量微调数据时联合考虑推理难度和梯度影响，避免只选容易或异常难的样本。
+
+<a id="paper-flow4dgs-egomotion-residual-separation"></a>
+
+## Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Flow4DGS-SLAM_Optical_Flow-Guided_4D_Gaussian_Splatting_SLAM_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Flow4DGS-SLAM_Optical_Flow-Guided_4D_Gaussian_Splatting_SLAM_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 移动物体和相机运动混合时，动态区域会干扰静态地图及位姿。
+- **核心创新 / 方法** · 结合深度与先验光流拆分相机自运动，并用三维场景流在关键帧间传播动态高斯中心。
+- **Baseline** · 比较 RoDyn-SLAM、MonoGS、SplaTAM 等。
+- **Benchmark** · TUM RGB-D 的坐姿和步行序列，以厘米计轨迹 ATE RMSE。
+- **关键结果 / 消融** · 表 1 对照不同运动模式的跟踪，正文分别检验运动遮罩与初始位姿。
+- **适用条件 / 局限** · 深度和光流偏差会影响残差，主导动态区域或匹配失效时需要独立验证。
+
+**可复用机制** · 先拟合相机自身运动解释光流，再用剩余运动划分动态区域并初始化位姿。

@@ -1655,5 +1655,9 @@
 - [Obstruction Reasoning for Robotic Grasping](../conferences/cvpr-2026/cards.md#paper-unograsp-obstruction-path-reasoning)
 - [PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion](../conferences/cvpr-2026/cards.md#paper-partdiffuser-hybrid-partwise-mesh-generation)
 - [Sampling-Aware Quantization for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-sampling-aware-diffusion-quantization)
+- [Plenoptic Video Generation](../conferences/cvpr-2026/cards.md#paper-camera-guided-prior-view-video-retrieval)
+- [Fighting Hallucinations with Counterfactuals: Diffusion-Guided Perturbations for LVLM Hallucination Suppression](../conferences/cvpr-2026/cards.md#paper-counterfactual-visual-feature-correction)
+- [SegMo: Co-Designing Content-Aware Sparsity and Locally-Cohesive Segment Parallelism for Efficient VLM Inference](../conferences/cvpr-2026/cards.md#paper-segmo-locally-cohesive-prefill)
+- [DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution](../conferences/cvpr-2026/cards.md#paper-dtg-restore-decoupled-guidance-timesteps)
 
 <!-- conference-classification:end -->

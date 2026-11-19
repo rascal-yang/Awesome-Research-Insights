@@ -1494,5 +1494,11 @@
 - [MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition-Perception-Reasoning Guided Text-Image Machine Translation](../conferences/cvpr-2026/cards.md#paper-visual-translation-reasoning-data-ablation)
 - [Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark](../conferences/cvpr-2026/cards.md#paper-scenebench-long-context-forgetting)
 - [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](../conferences/cvpr-2026/cards.md#paper-revel-verifiable-openqa-rewriting)
+- [Label What Matters: Modality-Balanced and Difficulty-Aware Multimodal Active Learning](../conferences/cvpr-2026/cards.md#paper-modality-and-difficulty-adaptive-active-labeling)
+- [Fighting Hallucinations with Counterfactuals: Diffusion-Guided Perturbations for LVLM Hallucination Suppression](../conferences/cvpr-2026/cards.md#paper-counterfactual-visual-feature-correction)
+- [Uncertainty-Aware Exploratory Direct Preference Optimization for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-uncertainty-guided-token-dpo-exploration)
+- [Towards Multimodal Domain Generalization with Few Labels](../conferences/cvpr-2026/cards.md#paper-ssmdg-consensus-disagreement)
+- [SegMo: Co-Designing Content-Aware Sparsity and Locally-Cohesive Segment Parallelism for Efficient VLM Inference](../conferences/cvpr-2026/cards.md#paper-segmo-locally-cohesive-prefill)
+- [Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning](../conferences/cvpr-2026/cards.md#paper-lost-text-layer-reuse)
 
 <!-- conference-classification:end -->

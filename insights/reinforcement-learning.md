@@ -811,5 +811,6 @@
 - [Detect Anything via Next Point Prediction](../conferences/cvpr-2026/cards.md#paper-rex-omni-next-point)
 - [Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-pearl-perception-gated-rewards)
 - [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](../conferences/cvpr-2026/cards.md#paper-revel-verifiable-openqa-rewriting)
+- [Enhancing Spatial Understanding in Image Generation via Reward Modeling](../conferences/cvpr-2026/cards.md#paper-spatialscore-controlled-spatial-preference-pairs)
 
 <!-- conference-classification:end -->

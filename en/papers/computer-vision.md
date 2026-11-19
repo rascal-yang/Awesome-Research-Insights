@@ -1560,5 +1560,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference](../../conferences/cvpr-2026/cards.md#paper-pyramidalwan-pretrained-conversion)
 - [Nestwork: Conditional 3D Furnished House Layout Generation through Latent Heterogeneous Graph Diffusion](../../conferences/cvpr-2026/cards.md#paper-nestwork-heterogeneous-layout)
 - [PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion](../../conferences/cvpr-2026/cards.md#paper-partdiffuser-hybrid-partwise-mesh-generation)
+- [Plenoptic Video Generation](../../conferences/cvpr-2026/cards.md#paper-camera-guided-prior-view-video-retrieval)
+- [PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts](../../conferences/cvpr-2026/cards.md#paper-mono-structure-stereo-motion-refinement)
+- [Optical Flow Matching: Reframing Optical Flow as Continuous Transport Dynamics](../../conferences/cvpr-2026/cards.md#paper-optical-flow-continuous-transport)
+- [TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction](../../conferences/cvpr-2026/cards.md#paper-tempomaster-frame-rate-levels)
 
 <!-- conference-classification:end -->

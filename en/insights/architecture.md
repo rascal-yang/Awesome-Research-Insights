@@ -758,5 +758,9 @@ Model-wide design and information flow.
 - [Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](../../conferences/cvpr-2026/cards.md#paper-drive-my-way-dual-preferences)
 - [PFGNet: A Fully Convolutional Frequency-Guided Peripheral Gating Network for Efficient Spatiotemporal Predictive Learning](../../conferences/cvpr-2026/cards.md#paper-local-frequency-adaptive-receptive-fields)
 - [Nestwork: Conditional 3D Furnished House Layout Generation through Latent Heterogeneous Graph Diffusion](../../conferences/cvpr-2026/cards.md#paper-nestwork-heterogeneous-layout)
+- [PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts](../../conferences/cvpr-2026/cards.md#paper-mono-structure-stereo-motion-refinement)
+- [AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-adaptive-tactile-injection-action-feedback)
+- [Optical Flow Matching: Reframing Optical Flow as Continuous Transport Dynamics](../../conferences/cvpr-2026/cards.md#paper-optical-flow-continuous-transport)
+- [TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction](../../conferences/cvpr-2026/cards.md#paper-tempomaster-frame-rate-levels)
 
 <!-- conference-classification:end -->

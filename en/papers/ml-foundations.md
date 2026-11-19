@@ -2557,5 +2557,11 @@ General learning methods, optimization, learning theory, and inference.
 - [COT-FM: Cluster-wise Optimal Transport Flow Matching](../../conferences/cvpr-2026/cards.md#paper-cot-fm-cluster-transport)
 - [Revisiting Model Stitching In the Foundation Model Era](../../conferences/cvpr-2026/cards.md#paper-model-stitching-penultimate)
 - [Sampling-Aware Quantization for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-sampling-aware-diffusion-quantization)
+- [D-Convexity: A Unified Differentiable Convex Shape Prior via Quasi-Concavity for Data-driven Image Segmentation](../../conferences/cvpr-2026/cards.md#paper-threshold-free-quasiconcave-segmentation)
+- [Smoothing the Score Function to Enhance Generalization in Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-score-smoothing-diffusion)
+- [DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-dtg-restore-decoupled-guidance-timesteps)
+- [Learning from Oblivion: Predicting Knowledge-Overflowed Weights via Retrodiction of Forgetting](../../conferences/cvpr-2026/cards.md#paper-know-reverse-structured-forgetting)
+- [Enhancing Spatial Understanding in Image Generation via Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-spatialscore-controlled-spatial-preference-pairs)
+- [Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](../../conferences/cvpr-2026/cards.md#paper-diq-difficulty-gradient-data-selection)
 
 <!-- conference-classification:end -->

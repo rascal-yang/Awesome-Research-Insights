@@ -863,5 +863,7 @@
 - [LiDeRe: A Lightweight Readout for Fast and Data-Efficient Dense Prediction](../../conferences/cvpr-2026/cards.md#paper-lidere-frozen-dense-readout)
 - [Live Interactive Training for Video Segmentation](../../conferences/cvpr-2026/cards.md#paper-lit-lora-live-correction-learning)
 - [SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics](../../conferences/cvpr-2026/cards.md#paper-sapave-separate-camera-and-manipulation)
+- [Learning from Oblivion: Predicting Knowledge-Overflowed Weights via Retrodiction of Forgetting](../../conferences/cvpr-2026/cards.md#paper-know-reverse-structured-forgetting)
+- [Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM](../../conferences/cvpr-2026/cards.md#paper-flow4dgs-egomotion-residual-separation)
 
 <!-- conference-classification:end -->

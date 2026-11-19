@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,937 篇，其中 1,856 篇暂收录、1,081 篇排除，另有 1,105 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,967 篇，其中 1,876 篇暂收录、1,091 篇排除，另有 1,075 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1862,3 +1862,23 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,937
 | 多模态学习 | 强化学习与奖励 | [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](cards.md#paper-revel-verifiable-openqa-rewriting) | 先移除选项泄漏，再按答案类型构造可自动验证的开放问答。 |
 | 三维视觉 | 分层生成 | [PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion](cards.md#paper-partdiffuser-hybrid-partwise-mesh-generation) | 全局结构按部件顺序生成，局部几何用并行离散去噪生成。 |
 | 生成模型 | 模型量化 | [Sampling-Aware Quantization for Diffusion Models](cards.md#paper-sampling-aware-diffusion-quantization) | 量化扩散模型时校准实际采样轨迹，尤其是高阶求解器的方向估计。 |
+| 计算机视觉 | 推理策略 | [Plenoptic Video Generation](cards.md#paper-camera-guided-prior-view-video-retrieval) | 生成不同相机轨迹的视频时，可检索视角相关的已生成视频作为场景记忆。 |
+| 多模态学习 | 数据策略 | [Label What Matters: Modality-Balanced and Difficulty-Aware Multimodal Active Learning](cards.md#paper-modality-and-difficulty-adaptive-active-labeling) | 多模态主动学习可以按训练轮次动态重估模态价值和样本难度，再决定标注预算。 |
+| 机器学习基础与统计 | 训练策略 | [D-Convexity: A Unified Differentiable Convex Shape Prior via Quasi-Concavity for Data-driven Image Segmentation](cards.md#paper-threshold-free-quasiconcave-segmentation) | 可对软掩码的全部超水平集施加凸性，减少训练约束对二值阈值的依赖。 |
+| 多模态学习 | 推理策略 | [Fighting Hallucinations with Counterfactuals: Diffusion-Guided Perturbations for LVLM Hallucination Suppression](cards.md#paper-counterfactual-visual-feature-correction) | 可在模型外构造事实与反事实的视觉配对，用其差异寻找应在推理期校正的表征方向。 |
+| 计算机视觉 | 模型架构 | [PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts](cards.md#paper-mono-structure-stereo-motion-refinement) | 可在双目迭代细化中反复使用单目基础模型的结构先验，而非只在初始化阶段使用。 |
+| 多模态学习 | 训练策略 | [Uncertainty-Aware Exploratory Direct Preference Optimization for Multimodal Large Language Models](cards.md#paper-uncertainty-guided-token-dpo-exploration) | 视觉偏好学习可主动补充尚不确定的关键 token，减少以当前模型敏感度决定监督时的自我强化。 |
+| 机器人学 | 模型架构 | [AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models](cards.md#paper-adaptive-tactile-injection-action-feedback) | 给预训练 VLA 新增触觉时可按接触需求动态注入，将反馈用于动作调整。 |
+| 智能体 | 训练策略 | [SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning](cards.md#paper-sage-any-horizon) | 让视频智能体在单轮作答和多轮检索之间自主选择，并将工具开销纳入比较。 |
+| 机器人学 | 评测与诊断 | [Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation](cards.md#paper-spatialsky-spatial-diagnosis) | 在不同俯视条件下分开测量环境感知与空间理解，再决定是否把视觉语言模型接入导航。 |
+| 计算机视觉 | 模型架构 | [Optical Flow Matching: Reframing Optical Flow as Continuous Transport Dynamics](cards.md#paper-optical-flow-continuous-transport) | 将两帧位移改写为连续速度场，在需要中间状态和一致轨迹时显式积分。 |
+| 多模态学习 | 训练策略 | [Towards Multimodal Domain Generalization with Few Labels](cards.md#paper-ssmdg-consensus-disagreement) | 在跨域少标签训练中，将融合与单模态一致样本用于伪标签，把分歧样本用在不同目标上。 |
+| 机器学习基础与统计 | 训练策略 | [Smoothing the Score Function to Enhance Generalization in Diffusion Models](cards.md#paper-score-smoothing-diffusion) | 以不同样本对得分的竞争解释记忆现象，并在拟合中降低局部单样本支配。 |
+| 多模态学习 | 推理策略 | [SegMo: Co-Designing Content-Aware Sparsity and Locally-Cohesive Segment Parallelism for Efficient VLM Inference](cards.md#paper-segmo-locally-cohesive-prefill) | 稀疏化和并行切分应共享视频内容结构，以减少令牌数与段间通信。 |
+| 多模态学习 | 训练策略 | [Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning](cards.md#paper-lost-text-layer-reuse) | 诊断跨域时看似有害的文本层，尝试修复视觉对齐而非直接裁剪。 |
+| 计算机视觉 | 模型架构 | [TempoMaster: Efficient Long Video Generation via Next-Frame-Rate Prediction](cards.md#paper-tempomaster-frame-rate-levels) | 长序列先生成低频全局结构，再并行填入各层时间细节。 |
+| 生成模型 | 推理时引导 | [DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution](cards.md#paper-dtg-restore-decoupled-guidance-timesteps) | 在无条件与有条件分支使用不同噪声时间，再逐步缩小差异以兼顾结构和细节。 |
+| 机器学习 | 参数空间学习 | [Learning from Oblivion: Predicting Knowledge-Overflowed Weights via Retrodiction of Forgetting](cards.md#paper-know-reverse-structured-forgetting) | 以受控数据缩减形成权重退化轨迹，再学习逆转轨迹作为迁移初始化。 |
+| 生成模型 | 强化学习与奖励 | [Enhancing Spatial Understanding in Image Generation via Reward Modeling](cards.md#paper-spatialscore-controlled-spatial-preference-pairs) | 用有控制的关系扰动构造近似反事实配对，训练奖励识别空间关系而非整体画质。 |
+| 机器学习 | 数据筛选 | [Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](cards.md#paper-diq-difficulty-gradient-data-selection) | 筛选少量微调数据时联合考虑推理难度和梯度影响，避免只选容易或异常难的样本。 |
+| 机器人学 | 视觉定位 | [Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM](cards.md#paper-flow4dgs-egomotion-residual-separation) | 先拟合相机自身运动解释光流，再用剩余运动划分动态区域并初始化位姿。 |

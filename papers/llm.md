@@ -2460,5 +2460,6 @@
 - [LAM: Language Articulated Object Modelers](../conferences/cvpr-2026/cards.md#paper-lam-articulated-code-generation)
 - [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](../conferences/cvpr-2026/cards.md#paper-reag-critic-filtered-multimodal-retrieval)
 - [Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs](../conferences/cvpr-2026/cards.md#paper-graph2eval-grounded-task-subgraphs)
+- [SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-sage-any-horizon)
 
 <!-- conference-classification:end -->

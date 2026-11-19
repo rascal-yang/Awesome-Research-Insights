@@ -1093,5 +1093,8 @@
 - [AssemblyBench: Physics-Aware Assembly of Complex Industrial Objects](../conferences/cvpr-2026/cards.md#paper-physical-trajectory-evaluation-assembly)
 - [Simple but Effective Triplet-Based Compression Strategies for Compact Visual Localization](../conferences/cvpr-2026/cards.md#paper-triplet-localization-compression)
 - [Obstruction Reasoning for Robotic Grasping](../conferences/cvpr-2026/cards.md#paper-unograsp-obstruction-path-reasoning)
+- [AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-adaptive-tactile-injection-action-feedback)
+- [Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation](../conferences/cvpr-2026/cards.md#paper-spatialsky-spatial-diagnosis)
+- [Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM](../conferences/cvpr-2026/cards.md#paper-flow4dgs-egomotion-residual-separation)
 
 <!-- conference-classification:end -->

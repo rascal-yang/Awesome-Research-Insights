@@ -445,5 +445,7 @@
 - [Data Leakage Detection and De-duplication in Large Scale Geospatial Image Datasets](../conferences/cvpr-2026/cards.md#paper-split-leakage-duplicate-geospatial-audit)
 - [Toward Early Quality Assessment of Text-to-Image Diffusion Models](../conferences/cvpr-2026/cards.md#paper-probe-select-early-diffusion-ranking)
 - [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-scene-graph-difficulty-adaptive-curriculum)
+- [Label What Matters: Modality-Balanced and Difficulty-Aware Multimodal Active Learning](../conferences/cvpr-2026/cards.md#paper-modality-and-difficulty-adaptive-active-labeling)
+- [Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](../conferences/cvpr-2026/cards.md#paper-diq-difficulty-gradient-data-selection)
 
 <!-- conference-classification:end -->
