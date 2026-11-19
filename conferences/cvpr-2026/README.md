@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 717 篇，其中 471 篇暂收录、246 篇排除，另有 3,325 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 747 篇，其中 490 篇暂收录、257 篇排除，另有 3,295 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -477,3 +477,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 717 �
 | 机器学习基础 | 表示学习 | [NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks](cards.md#paper-nexusflow) | 多任务标注不重叠时，以可逆坐标变换对齐特征，避免对齐损失直接丢弃原信息。 |
 | 计算机视觉 | 训练与数据策略 | [MDS-VQA: Model-Informed Data Selection for Video Quality Assessment](cards.md#paper-mds-vqa) | 制定小规模新域标注预算时，以排序预测模型失败程度，再用语义多样性避免重复采样。 |
 | 多模态学习 | 损失函数与优化 | [Aligning Multi-Character Narrative Image Generation with Multi-Aspect Human Preferences](cards.md#paper-adpo-multi-aspect-preferences) | 多目标生成偏好不一致时，用维度优势和奖励边际分配训练强度。 |
+| 机器学习 | 训练策略 | [Mitigating Instance Entanglement in Instance-Dependent Partial Label Learning](cards.md#paper-cad-ambiguity-weighted-partial-label-learning) | 候选标签随样本特征而变化时，可对照统一加权与偏重高歧义标签的间隔惩罚。见附录表 5。 |
+| 多模态学习 | 损失与奖励 | [InterRVOS: Interaction-Aware Referring Video Object Segmentation](cards.md#paper-interrvos-role-conditioned-segmentation) | 语言指令指定交互时，可给施动者和受动目标分配不同输出标记，并用角色级注意力监督和分项指标核对证据。见表 3。 |
+| 机器人学 | 生成建模 | [VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents](cards.md#paper-videoweaver-asynchronous-view-conditioning) | 需要从已有相机视角补齐新视角时，可训练各视角位于不同加噪阶段，并对照统一阶段的跨视角一致性。见表 2。 |
+| 表征学习 | 自监督学习 | [TopoSlide: Topologically-Informed Histopathology Whole Slide Image Representation Learning](cards.md#paper-toposlide-cluster-topology-pretext) | 超大图像的局部块聚合可增加拓扑自监督，让全局表示预测各语义簇的空间形态。见第 3 节与表 1。 |
+| 生成模型 | 推理策略 | [ResDiT: Evoking the Intrinsic Resolution Scalability in Diffusion Transformers](cards.md#paper-resdit-position-extrapolation-resolution) | 扩散 Transformer 外推分辨率时，可先检查位置编码，再比较局部细节模块是否必要。见正文位置编码分析及表 1。 |
+| 机器人学 | 推理策略 | [REACH: Explicit Recovery Behavior for Diffusion Policies](cards.md#paper-reach-error-conditioned-action-recovery) | 扩散策略执行错位时，先检测异常历史，再把不希望延续的动作模式作为负条件；可分别测提示和检测贡献。见表 4。 |
+| 多模态学习 | 评估与诊断 | [Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs](cards.md#paper-rest-render-equivalence-consistency) | 诊断多模态推理时，把同一题变成文本、图片、混合输入，再在 OCR 完全正确子集检查跨模态一致性。见表 1、4。 |
+| 计算机视觉 | 模型架构 | [VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations](cards.md#paper-vibetoken) | 将生成分辨率和视觉词元数分开设定，按长宽比和预算验收重建及生成。 |
+| 计算机视觉 | 训练策略 | [Tracking by Predicting 3-D Gaussians Over Time](cards.md#paper-video-gmae) | 把视频隐表示建模成动态三维高斯，测试追踪是否能不经显式轨迹标注自然形成。 |
+| 计算机视觉 | 模型架构 | [TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction](cards.md#paper-tokensplat) | 将相机词元和场景词元采用有方向的信息交换，并分开验收位姿与渲染质量。 |
+| 计算机视觉 | 训练策略 | [Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation](cards.md#paper-iris-spectral-depth) | 实域先验与合成真值可分别用于低频和高频约束，验证是否改善仿真到实拍的深度精细度。 |
+| 机器人学 | 评测与诊断 | [Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols](cards.md#paper-vifailback) | 操控失败应分开考核识别、空间定位和纠正反馈，单独验证人能否把标注转为可执行信号。 |
+| 多模态学习 | 评测与诊断 | [PAS: Prelim Attention Score for Detecting Object Hallucinations in Large Vision-Language Models](cards.md#paper-prelim-attention-hallucination) | 检测物体幻觉时区分视觉条件与前文条件，先测额外推理前能否用历史注意做代理。 |
+| 多模态学习 | 评测与分析 | [When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm](cards.md#paper-unified-image-generation-risk-audit) | 比较生成器安全性时单独统计损坏输出，并按生成架构验证取证检测器。 |
+| 机器人学 | 损失函数与优化 | [PAMotion: Physics-Aware Motion Generation for Full-Body Interaction with Multiple Objects](cards.md#paper-pamotion-contact-acceleration) | 人体物体运动生成时，将物体非重力加速度作为接触一致性的软监督。 |
+| 机器学习基础 | 推理优化 | [Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference](cards.md#paper-remix-continuous-decoding) | 扩散语言模型并行解码时，先交换连续候选的信息，再提交离散词元，不确定位置退回掩码。 |
+| 计算机视觉 | 知识蒸馏 | [Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation](cards.md#paper-ditta-video-distillation) | 只能短时调用视频教师时，用开头片段蒸馏时序一致性，随后让轻量学生独立预测。 |
+| 计算机视觉 | 评测与分析 | [Scaling View Synthesis Transformers](cards.md#paper-svsm-compute-matched-scaling) | 比较新视角模型架构时对齐训练 FLOPs，检验编码器—解码器是否真的不如纯解码器。 |
+| 多模态学习 | 微调与适配 | [Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration](cards.md#paper-multimodal-gaussian-tta) | 测试时音视频质量不对称时，用类别条件高斯校准并纠正跨模态分布偏差。 |

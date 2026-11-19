@@ -891,5 +891,9 @@
 - [Resolving the Stability-Plasticity Dilemma in Reinforcement Learning via Complementary Continual Critics](../conferences/cvpr-2026/cards.md#paper-cd-cca)
 - [Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](../conferences/cvpr-2026/cards.md#paper-evo1-staged-vlm-action-alignment)
 - [EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models](../conferences/cvpr-2026/cards.md#paper-energyaction)
+- [VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents](../conferences/cvpr-2026/cards.md#paper-videoweaver-asynchronous-view-conditioning)
+- [REACH: Explicit Recovery Behavior for Diffusion Policies](../conferences/cvpr-2026/cards.md#paper-reach-error-conditioned-action-recovery)
+- [Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols](../conferences/cvpr-2026/cards.md#paper-vifailback)
+- [PAMotion: Physics-Aware Motion Generation for Full-Body Interaction with Multiple Objects](../conferences/cvpr-2026/cards.md#paper-pamotion-contact-acceleration)
 
 <!-- conference-classification:end -->

@@ -1011,5 +1011,10 @@
 - [DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs](../conferences/cvpr-2026/cards.md#paper-dynamicgtr-query-adaptive-graph-rendering)
 - [ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-zoo-prune)
 - [Aligning Multi-Character Narrative Image Generation with Multi-Aspect Human Preferences](../conferences/cvpr-2026/cards.md#paper-adpo-multi-aspect-preferences)
+- [InterRVOS: Interaction-Aware Referring Video Object Segmentation](../conferences/cvpr-2026/cards.md#paper-interrvos-role-conditioned-segmentation)
+- [Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs](../conferences/cvpr-2026/cards.md#paper-rest-render-equivalence-consistency)
+- [PAS: Prelim Attention Score for Detecting Object Hallucinations in Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-prelim-attention-hallucination)
+- [When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm](../conferences/cvpr-2026/cards.md#paper-unified-image-generation-risk-audit)
+- [Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration](../conferences/cvpr-2026/cards.md#paper-multimodal-gaussian-tta)
 
 <!-- conference-classification:end -->

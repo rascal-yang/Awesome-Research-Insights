@@ -1379,5 +1379,9 @@ Decoding, test-time adaptation, and efficient execution.
 - [NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-nvgs-neural-visibility)
 - [DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs](../../conferences/cvpr-2026/cards.md#paper-dynamicgtr-query-adaptive-graph-rendering)
 - [ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-zoo-prune)
+- [VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents](../../conferences/cvpr-2026/cards.md#paper-videoweaver-asynchronous-view-conditioning)
+- [ResDiT: Evoking the Intrinsic Resolution Scalability in Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-resdit-position-extrapolation-resolution)
+- [REACH: Explicit Recovery Behavior for Diffusion Policies](../../conferences/cvpr-2026/cards.md#paper-reach-error-conditioned-action-recovery)
+- [Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference](../../conferences/cvpr-2026/cards.md#paper-remix-continuous-decoding)
 
 <!-- conference-classification:end -->

@@ -1449,5 +1449,10 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Vision-Oriented Lightweight Neural Architecture Search with Budget-Adaptive Evaluation](../../conferences/cvpr-2026/cards.md#paper-budget-adaptive-micro-task-nas)
 - [Relational Visual Similarity](../../conferences/cvpr-2026/cards.md#paper-relational-visual-similarity-structural-metric)
 - [ProSoftArena: Benchmarking Hierarchical Capabilities of Multi-modal Agents in Professional Software Environments](../../conferences/cvpr-2026/cards.md#paper-prosoftarena-hierarchical-agent-evaluation)
+- [Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs](../../conferences/cvpr-2026/cards.md#paper-rest-render-equivalence-consistency)
+- [Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols](../../conferences/cvpr-2026/cards.md#paper-vifailback)
+- [PAS: Prelim Attention Score for Detecting Object Hallucinations in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-prelim-attention-hallucination)
+- [When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm](../../conferences/cvpr-2026/cards.md#paper-unified-image-generation-risk-audit)
+- [Scaling View Synthesis Transformers](../../conferences/cvpr-2026/cards.md#paper-svsm-compute-matched-scaling)
 
 <!-- conference-classification:end -->

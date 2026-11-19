@@ -1130,5 +1130,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [OntoAug: Rethinking Generative Data Augmentation via Ontology Guidance](../../conferences/cvpr-2026/cards.md#paper-ontoaug)
 - [From Rays to Projections: Better Inputs for Feed-Forward View Synthesis](../../conferences/cvpr-2026/cards.md#paper-projective-conditioning-view-synthesis)
 - [MDS-VQA: Model-Informed Data Selection for Video Quality Assessment](../../conferences/cvpr-2026/cards.md#paper-mds-vqa)
+- [VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations](../../conferences/cvpr-2026/cards.md#paper-vibetoken)
+- [Tracking by Predicting 3-D Gaussians Over Time](../../conferences/cvpr-2026/cards.md#paper-video-gmae)
+- [TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction](../../conferences/cvpr-2026/cards.md#paper-tokensplat)
+- [Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-iris-spectral-depth)
+- [Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-ditta-video-distillation)
+- [Scaling View Synthesis Transformers](../../conferences/cvpr-2026/cards.md#paper-svsm-compute-matched-scaling)
 
 <!-- conference-classification:end -->

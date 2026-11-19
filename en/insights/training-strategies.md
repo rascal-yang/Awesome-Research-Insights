@@ -984,5 +984,11 @@ Training schedules, curricula, and task or stage composition.
 - [OntoAug: Rethinking Generative Data Augmentation via Ontology Guidance](../../conferences/cvpr-2026/cards.md#paper-ontoaug)
 - [EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models](../../conferences/cvpr-2026/cards.md#paper-energyaction)
 - [Immunizing Models Against Harmful Long-Horizon Fine-Tuning via Contractive Optimization Dynamics](../../conferences/cvpr-2026/cards.md#paper-clamp-defense)
+- [Mitigating Instance Entanglement in Instance-Dependent Partial Label Learning](../../conferences/cvpr-2026/cards.md#paper-cad-ambiguity-weighted-partial-label-learning)
+- [TopoSlide: Topologically-Informed Histopathology Whole Slide Image Representation Learning](../../conferences/cvpr-2026/cards.md#paper-toposlide-cluster-topology-pretext)
+- [Tracking by Predicting 3-D Gaussians Over Time](../../conferences/cvpr-2026/cards.md#paper-video-gmae)
+- [Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation](../../conferences/cvpr-2026/cards.md#paper-iris-spectral-depth)
+- [Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-ditta-video-distillation)
+- [Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration](../../conferences/cvpr-2026/cards.md#paper-multimodal-gaussian-tta)
 
 <!-- conference-classification:end -->

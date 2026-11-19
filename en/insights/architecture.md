@@ -608,5 +608,7 @@ Model-wide design and information flow.
 - [CHEEM: Continual Learning by Reuse, New, Adapt and Skip - A Hierarchical Exploration-Exploitation Approach](../../conferences/cvpr-2026/cards.md#paper-cheem-hierarchical-continual-learning)
 - [OpenVO: Open-World Visual Odometry with Temporal Dynamics Awareness](../../conferences/cvpr-2026/cards.md#paper-openvo)
 - [Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs](../../conferences/cvpr-2026/cards.md#paper-hg-i2p)
+- [VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations](../../conferences/cvpr-2026/cards.md#paper-vibetoken)
+- [TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction](../../conferences/cvpr-2026/cards.md#paper-tokensplat)
 
 <!-- conference-classification:end -->

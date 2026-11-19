@@ -2323,5 +2323,9 @@
 - [CHEEM: Continual Learning by Reuse, New, Adapt and Skip - A Hierarchical Exploration-Exploitation Approach](../conferences/cvpr-2026/cards.md#paper-cheem-hierarchical-continual-learning)
 - [Immunizing Models Against Harmful Long-Horizon Fine-Tuning via Contractive Optimization Dynamics](../conferences/cvpr-2026/cards.md#paper-clamp-defense)
 - [NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks](../conferences/cvpr-2026/cards.md#paper-nexusflow)
+- [Mitigating Instance Entanglement in Instance-Dependent Partial Label Learning](../conferences/cvpr-2026/cards.md#paper-cad-ambiguity-weighted-partial-label-learning)
+- [TopoSlide: Topologically-Informed Histopathology Whole Slide Image Representation Learning](../conferences/cvpr-2026/cards.md#paper-toposlide-cluster-topology-pretext)
+- [ResDiT: Evoking the Intrinsic Resolution Scalability in Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-resdit-position-extrapolation-resolution)
+- [Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference](../conferences/cvpr-2026/cards.md#paper-remix-continuous-decoding)
 
 <!-- conference-classification:end -->
