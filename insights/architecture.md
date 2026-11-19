@@ -650,5 +650,8 @@
 - [NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather](../conferences/cvpr-2026/cards.md#paper-nimbusgs-hybrid-weather)
 - [Enhancing Mixture-of-Experts Specialization via Cluster-Aware Upcycling](../conferences/cvpr-2026/cards.md#paper-cluster-aware-upcycling)
 - [Align Images Before You Generate](../conferences/cvpr-2026/cards.md#paper-corradapter)
+- [Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs](../conferences/cvpr-2026/cards.md#paper-node-rf)
+- [PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation](../conferences/cvpr-2026/cards.md#paper-pca-seg-parallel-cost)
+- [Motus: A Unified Latent Action World Model](../conferences/cvpr-2026/cards.md#paper-motus-unified-latent-action)
 
 <!-- conference-classification:end -->

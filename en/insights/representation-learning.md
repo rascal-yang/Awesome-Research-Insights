@@ -685,5 +685,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Lenses: Toward Polysemous Vision-Language Understanding](../../conferences/cvpr-2026/cards.md#paper-lenses-category-slots-for-image-polysemy)
 - [AnchorSplat: Feed-Forward 3D Gaussian Splatting With 3D Geometric Priors](../../conferences/cvpr-2026/cards.md#paper-anchorsplat)
 - [CoSMo3D: Open-World Promptable 3D Semantic Segmentation through LLM-Guided Canonical Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-cosmo3d)
+- [FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift](../../conferences/cvpr-2026/cards.md#paper-feddap-domain-specific-prototype-alignment)
+- [Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery](../../conferences/cvpr-2026/cards.md#paper-assignment-driven-category-discovery)
+- [ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss](../../conferences/cvpr-2026/cards.md#paper-resihmr-topology-adaptive)
 
 <!-- conference-classification:end -->

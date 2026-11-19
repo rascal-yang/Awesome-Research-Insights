@@ -1110,5 +1110,7 @@ Training schedules, curricula, and task or stage composition.
 - [Few-for-Many Personalized Federated Learning](../../conferences/cvpr-2026/cards.md#paper-fedfew-pareto-model-bank-for-heterogeneous-clients)
 - [Circular-DPO: Aligning Multi-Stage 3D Generative Models via Preference Feedback Loop](../../conferences/cvpr-2026/cards.md#paper-circular-dpo)
 - [Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction](../../conferences/cvpr-2026/cards.md#paper-progressive-retrospective-trajectory)
+- [Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning](../../conferences/cvpr-2026/cards.md#paper-pntrack)
+- [CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion](../../conferences/cvpr-2026/cards.md#paper-craft-lora)
 
 <!-- conference-classification:end -->

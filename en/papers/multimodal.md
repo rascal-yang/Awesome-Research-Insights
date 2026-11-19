@@ -1241,5 +1241,12 @@ Learning across modalities such as images, text, audio, and video.
 - [Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](../../conferences/cvpr-2026/cards.md#paper-cinema-structured-visual-meta-actions)
 - [ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Video Understanding](../../conferences/cvpr-2026/cards.md#paper-elv-halluc-semantic-aggregation)
 - [M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](../../conferences/cvpr-2026/cards.md#paper-m4-rag-model-scale-diagnostics)
+- [M^3KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](../../conferences/cvpr-2026/cards.md#paper-m3kg-rag-modality-retrieval-graph-filtering)
+- [RealUnify: Do Unified Models Truly Benefit from Unification? A Comprehensive Benchmark](../../conferences/cvpr-2026/cards.md#paper-realunify-bidirectional-understanding-generation-evaluation)
+- [Grounded Chain-of-Thought for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-grounded-cot-separate-answer-and-evidence-accuracy)
+- [MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-masquant)
+- [CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion](../../conferences/cvpr-2026/cards.md#paper-craft-lora)
+- [LaRP: Efficient Multi-View Inpainting with Latent Reprojection Priors](../../conferences/cvpr-2026/cards.md#paper-larp-latent-reprojection)
+- [Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation](../../conferences/cvpr-2026/cards.md#paper-distok-distribution-conditional-generation)
 
 <!-- conference-classification:end -->

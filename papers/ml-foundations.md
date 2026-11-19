@@ -2452,5 +2452,8 @@
 - [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](../conferences/cvpr-2026/cards.md#paper-tara-merging-subspace-coverage-anisotropy)
 - [Learning to Solve PDEs on Neural Shape Representations](../conferences/cvpr-2026/cards.md#paper-pde-neural-shape)
 - [Select, Hypothesize and Verify: Towards Verified Neuron Concept Interpretation](../conferences/cvpr-2026/cards.md#paper-verified-neuron-concepts)
+- [Guiding Token-Sparse Diffusion Models](../conferences/cvpr-2026/cards.md#paper-sparse-guidance-token-capacity-gap)
+- [FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift](../conferences/cvpr-2026/cards.md#paper-feddap-domain-specific-prototype-alignment)
+- [Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery](../conferences/cvpr-2026/cards.md#paper-assignment-driven-category-discovery)
 
 <!-- conference-classification:end -->

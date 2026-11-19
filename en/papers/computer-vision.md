@@ -1327,5 +1327,11 @@ Visual representation, recognition, reconstruction, and generation.
 - [CoSMo3D: Open-World Promptable 3D Semantic Segmentation through LLM-Guided Canonical Spatial Modeling](../../conferences/cvpr-2026/cards.md#paper-cosmo3d)
 - [Stabilizing Streaming Video Geometry via Dynamic Feature Normalization](../../conferences/cvpr-2026/cards.md#paper-dyfn-streaming-geometry)
 - [SparseOIT: Improving Order-Independent Transparency 3DGS via Active Set Method](../../conferences/cvpr-2026/cards.md#paper-sparseoit-active-set)
+- [Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs](../../conferences/cvpr-2026/cards.md#paper-node-rf)
+- [EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors](../../conferences/cvpr-2026/cards.md#paper-eventhub)
+- [Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning](../../conferences/cvpr-2026/cards.md#paper-pntrack)
+- [EI-Part:Explode for Completion and Implode for Refinement](../../conferences/cvpr-2026/cards.md#paper-ei-part)
+- [PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation](../../conferences/cvpr-2026/cards.md#paper-pca-seg-parallel-cost)
+- [ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss](../../conferences/cvpr-2026/cards.md#paper-resihmr-topology-adaptive)
 
 <!-- conference-classification:end -->

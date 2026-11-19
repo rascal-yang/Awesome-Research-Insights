@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,797 篇，其中 1,133 篇暂收录、664 篇排除，另有 2,245 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,827 篇，其中 1,151 篇暂收录、676 篇排除，另有 2,215 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1139,3 +1139,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,797
 | 机器学习基础 | 可解释性与诊断 | [Select, Hypothesize and Verify: Towards Verified Neuron Concept Interpretation](cards.md#paper-verified-neuron-concepts) | 为神经元生成概念解释后，独立测该概念能否诱发目标激活，并允许没有可信概念。 |
 | 多模态学习 | 评测与分析 | [M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](cards.md#paper-m4-rag-model-scale-diagnostics) | 是否为多语视觉问答开启检索应按模型规模、语言和证据质量实测，允许跳过。 |
 | 计算机视觉 | 损失函数与优化 | [SparseOIT: Improving Order-Independent Transparency 3DGS via Active Set Method](cards.md#paper-sparseoit-active-set) | 改用透明度渲染近似后重新测变量依赖；依赖稀疏时只优化活跃图元。 |
+| 智能体 | 评估与诊断 | [Simple Agents Outperform Experts in Biomedical Imaging Workflow Optimization](cards.md#paper-workflow-agents-separate-structure-and-parameter-search) | 优化已有图像工作流时应比较基础搜索代理和专家函数、函数库、反思等增强，按可选操作与参数复杂度分层。见表 2。 |
+| 多模态学习 | 检索增强 | [M^3KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](cards.md#paper-m3kg-rag-modality-retrieval-graph-filtering) | 音视频检索可保留模态专属入口，在检索后用图结构筛选知识，并单测两者是否互补。见表 4。 |
+| 生成模型 | 推理策略 | [Guiding Token-Sparse Diffusion Models](cards.md#paper-sparse-guidance-token-capacity-gap) | 稀疏训练的扩散模型不能从普通 CFG 获益时，可用疏密不同的视觉标记预测形成指导信号。见表 1。 |
+| 机器学习 | 表征学习 | [FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift](cards.md#paper-feddap-domain-specific-prototype-alignment) | 异质联邦识别可保留每个域的类原型，避免全局平均掩盖域内结构，再比较聚合策略。见表 4。 |
+| 多模态学习 | 评估与诊断 | [RealUnify: Do Unified Models Truly Benefit from Unification? A Comprehensive Benchmark](cards.md#paper-realunify-bidirectional-understanding-generation-evaluation) | 评估统一理解与生成模型可分别测试理解帮助生成和生成帮助理解，再和专用模型对照。见表 3。 |
+| 多模态学习 | 评估与诊断 | [Grounded Chain-of-Thought for Multimodal Large Language Models](cards.md#paper-grounded-cot-separate-answer-and-evidence-accuracy) | 视觉推理可要求各步给坐标，并将答案正确、定位正确和两者一致分开计分。见表 1。 |
+| 计算机视觉 | 模型架构 | [Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs](cards.md#paper-node-rf) | 需要连续时间外推时，可将场景动力学与渲染分开学习，并在长于训练窗的轨迹上验收。 |
+| 计算机视觉 | 数据增强 | [EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors](cards.md#paper-eventhub) | 普通相机可作为训练辅助，通过新视角生成分离估计视差标签与生成事件数据两条路径。 |
+| 计算机视觉 | 自监督学习 | [Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning](cards.md#paper-pntrack) | 无标签跟踪可先用实例 patch 形成语义关联，再逐渐加入上下文噪声。 |
+| 计算机视觉 | 生成模型 | [EI-Part:Explode for Completion and Implode for Refinement](cards.md#paper-ei-part) | 多部件生成可在分散规范态补齐零件，再回装配态细化对接几何。 |
+| 机器学习基础与统计 | 表示学习 | [Assignment-Driven Hash Learning in a Hyper-Semantic Space for On-the-Fly Category Discovery](cards.md#paper-assignment-driven-category-discovery) | 流式开放类别发现时，分别检验已知类是否占满表示空间，以及连续表示到哈希的损失。 |
+| 多模态学习 | 推理压缩 | [MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models](cards.md#paper-masquant) | 低比特多模态模型要先测各模态激活尺度差异，再决定平滑因子能否共享。 |
+| 多模态学习 | 参数高效微调 | [CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion](cards.md#paper-craft-lora) | 融合主体和风格适配器时，先约束训练得到的子空间，再按去噪阶段分配权重。 |
+| 计算机视觉 | 模型架构 | [PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation](cards.md#paper-pca-seg-parallel-cost) | 开放词汇分割的代价体可并行聚合空间与类别维度，比较是否减少串行语义干扰。 |
+| 多模态学习 | 条件生成 | [LaRP: Efficient Multi-View Inpainting with Latent Reprojection Priors](cards.md#paper-larp-latent-reprojection) | 多视图补绘在生成阶段输入跨视角重投影潜变量，避免各图独立补后再耗时对齐。 |
+| 多模态学习 | 条件生成 | [Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation](cards.md#paper-distok-distribution-conditional-generation) | 探索生成语义时，把软类别分布作为连续条件，而非只串接两个现有概念名。 |
+| 计算机视觉 | 表示学习 | [ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss](cards.md#paper-resihmr-topology-adaptive) | 形体拓扑与标准模板不符时，先定义可见且有效的关节子图，再单独建模末端表面。 |
+| 机器人学 | 模型架构 | [Motus: A Unified Latent Action World Model](cards.md#paper-motus-unified-latent-action) | 统一策略和世界模型时，用模态噪声日程切换动作、视频及联合预测，跨数据共享潜动作。 |

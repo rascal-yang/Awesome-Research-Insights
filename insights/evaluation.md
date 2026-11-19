@@ -1523,5 +1523,8 @@
 - [ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Video Understanding](../conferences/cvpr-2026/cards.md#paper-elv-halluc-semantic-aggregation)
 - [Select, Hypothesize and Verify: Towards Verified Neuron Concept Interpretation](../conferences/cvpr-2026/cards.md#paper-verified-neuron-concepts)
 - [M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](../conferences/cvpr-2026/cards.md#paper-m4-rag-model-scale-diagnostics)
+- [Simple Agents Outperform Experts in Biomedical Imaging Workflow Optimization](../conferences/cvpr-2026/cards.md#paper-workflow-agents-separate-structure-and-parameter-search)
+- [RealUnify: Do Unified Models Truly Benefit from Unification? A Comprehensive Benchmark](../conferences/cvpr-2026/cards.md#paper-realunify-bidirectional-understanding-generation-evaluation)
+- [Grounded Chain-of-Thought for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-grounded-cot-separate-answer-and-evidence-accuracy)
 
 <!-- conference-classification:end -->

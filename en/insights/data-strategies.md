@@ -420,5 +420,7 @@ Data selection, annotation, augmentation, and sampling.
 - [Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning](../../conferences/cvpr-2026/cards.md#paper-glmap-instance-region-memory-navigation)
 - [HAD: Hallucination-Aware Diffusion Priors for 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-had-multiview-hallucination-masks)
 - [FreeScale: Scaling 3D Scenes via Certainty-Aware Free-View Generation](../../conferences/cvpr-2026/cards.md#paper-freescale-certainty-views)
+- [M^3KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](../../conferences/cvpr-2026/cards.md#paper-m3kg-rag-modality-retrieval-graph-filtering)
+- [EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors](../../conferences/cvpr-2026/cards.md#paper-eventhub)
 
 <!-- conference-classification:end -->

@@ -1515,5 +1515,10 @@ Decoding, test-time adaptation, and efficient execution.
 - [GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion](../../conferences/cvpr-2026/cards.md#paper-graspldp-grasp-priors)
 - [Stabilizing Streaming Video Geometry via Dynamic Feature Normalization](../../conferences/cvpr-2026/cards.md#paper-dyfn-streaming-geometry)
 - [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-and-Language Navigation](../../conferences/cvpr-2026/cards.md#paper-fantasyvln-latent-navigation-reasoning)
+- [Guiding Token-Sparse Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-sparse-guidance-token-capacity-gap)
+- [EI-Part:Explode for Completion and Implode for Refinement](../../conferences/cvpr-2026/cards.md#paper-ei-part)
+- [MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-masquant)
+- [LaRP: Efficient Multi-View Inpainting with Latent Reprojection Priors](../../conferences/cvpr-2026/cards.md#paper-larp-latent-reprojection)
+- [Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation](../../conferences/cvpr-2026/cards.md#paper-distok-distribution-conditional-generation)
 
 <!-- conference-classification:end -->

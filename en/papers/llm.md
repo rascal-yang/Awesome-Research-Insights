@@ -2448,5 +2448,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](../../conferences/cvpr-2026/cards.md#paper-gui-sage)
 - [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](../../conferences/cvpr-2026/cards.md#paper-3drawagent)
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](../../conferences/cvpr-2026/cards.md#paper-spacetools-dirl)
+- [Simple Agents Outperform Experts in Biomedical Imaging Workflow Optimization](../../conferences/cvpr-2026/cards.md#paper-workflow-agents-separate-structure-and-parameter-search)
 
 <!-- conference-classification:end -->

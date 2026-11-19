@@ -974,5 +974,6 @@
 - [GraspLDP: Towards Generalizable Grasping Policy via Latent Diffusion](../conferences/cvpr-2026/cards.md#paper-graspldp-grasp-priors)
 - [Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction](../conferences/cvpr-2026/cards.md#paper-progressive-retrospective-trajectory)
 - [FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-fantasyvln-latent-navigation-reasoning)
+- [Motus: A Unified Latent Action World Model](../conferences/cvpr-2026/cards.md#paper-motus-unified-latent-action)
 
 <!-- conference-classification:end -->
