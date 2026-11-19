@@ -728,5 +728,6 @@
 - [UniPixie: Unified and Probabilistic 3D Physics Learning via Flow Matching](../conferences/cvpr-2026/cards.md#paper-probabilistic-material-fields-single-view)
 - [Boosting Visual Reprogramming for CLIP with Dual Granularity Alignment](../conferences/cvpr-2026/cards.md#paper-multiscale-hierarchical-clip-reprogramming)
 - [RINO: Rotation-Invariant Non-Rigid Correspondences](../conferences/cvpr-2026/cards.md#paper-rino-so3-invariant-nonrigid-correspondence)
+- [SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](../conferences/cvpr-2026/cards.md#paper-swiftvla-future-trained-fusion-tokens)
 
 <!-- conference-classification:end -->

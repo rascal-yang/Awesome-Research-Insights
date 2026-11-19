@@ -2451,5 +2451,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Simple Agents Outperform Experts in Biomedical Imaging Workflow Optimization](../../conferences/cvpr-2026/cards.md#paper-workflow-agents-separate-structure-and-parameter-search)
 - [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-crossha-agent-action-granularity)
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](../../conferences/cvpr-2026/cards.md#paper-focusui-position-preserving-selection)
+- [JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](../../conferences/cvpr-2026/cards.md#paper-jarvisevo-joint-editor-evaluator-optimization)
 
 <!-- conference-classification:end -->

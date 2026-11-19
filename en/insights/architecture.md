@@ -715,5 +715,10 @@ Model-wide design and information flow.
 - [SOUPLE: Enhancing Audio-Visual Localization and Segmentation with Learnable Prompt Contexts](../../conferences/cvpr-2026/cards.md#paper-souple-audio-visual)
 - [ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding](../../conferences/cvpr-2026/cards.md#paper-redirector-roce)
 - [Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection](../../conferences/cvpr-2026/cards.md#paper-herod-reasoning-priors)
+- [TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-vision-to-instruction-token-transfer)
+- [Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator](../../conferences/cvpr-2026/cards.md#paper-specialist-modulation-global-pose)
+- [Reparameterized Tensor Ring Functional Decomposition for Multi-Dimensional Data Recovery](../../conferences/cvpr-2026/cards.md#paper-reptrfd)
+- [EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement](../../conferences/cvpr-2026/cards.md#paper-efficientvpr)
+- [VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-vqrae-unified-tokenizer)
 
 <!-- conference-classification:end -->

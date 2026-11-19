@@ -23386,3 +23386,258 @@
 - **适用条件 / 局限** · 依赖专家分工和目标可相互转换，最优专家数应按规模和数据重新验证。
 
 **可复用机制** · 统一异构目标专家的推理接口，并在融合前验证专家选择数量。
+
+<a id="paper-multiview-mask-consensus-zero-shot-3d"></a>
+
+## Zoo3D: Zero-Shot 3D Object Detection at Scene Level
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lemeshko_Zoo3D_Zero-Shot_3D_Object_Detection_at_Scene_Level_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lemeshko_Zoo3D_Zero-Shot_3D_Object_Detection_at_Scene_Level_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 开放词汇三维检测通常仍需要预先看到训练场景。
+- **核心创新 / 方法** · 将二维实例掩码经图聚类变为三维框，选择可信视角并利用多视角共识进行语义标注，可进一步用伪标注训练类无关探测器。
+- **Baseline** · 对比无需训练的 Zoo3D0、伪标签训练的 Zoo3D1，以及既有开放词汇三维检测器。
+- **Benchmark** · ScanNet 的多个类别设置和 ARKitScenes，覆盖不同输入可用性，报告三维框 mAP25 等指标。
+- **关键结果 / 消融** · 表中 ScanNet20 对照里，Zoo3D0 的 mAP25 为 24.2，自监督版本 Zoo3D1 为 27.9。
+- **适用条件 / 局限** · 依赖二维掩码、可用的多视角覆盖以及深度和相机位姿的可靠性。
+
+**可复用机制** · 场景三维检测可以先聚合多视角二维掩码，再用视角共识标注开放词汇类别。
+
+<a id="paper-vision-to-instruction-token-transfer"></a>
+
+## TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_TimeViper_A_Hybrid_Mamba-Transformer_Vision-Language_Model_for_Efficient_Long_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_TimeViper_A_Hybrid_Mamba-Transformer_Vision-Language_Model_for_Efficient_Long_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 对于长视频，即使使用混合状态空间架构，保留每个视觉 token 也会限制帧预算。
+- **核心创新 / 方法** · 根据视觉信息逐层进入文本 token 的现象，TransV 将视觉信息移入指令 token 后做分层压缩。
+- **Baseline** · 基于 Nanov2-9B 的 Mamba–Transformer，对比不压缩 TimeViper 及不同层、不同压缩率的变体。
+- **Benchmark** · VideoMME、VDC、Charades 等，比较问答成绩与最大输入帧数。
+- **关键结果 / 消融** · 消融中从约 5K 帧扩至超过 10K 帧时，VideoMME 从 58.8 降到 56.2。
+- **适用条件 / 局限** · 帧容量数字依赖论文的骨干和资源设定，压缩可能丢失细粒度动作证据。
+
+**可复用机制** · 压缩长视频时，可以先让中间层把视觉信息转入指令 token，再删减冗余视觉 token。
+
+<a id="paper-video-diffusion-goal-reward"></a>
+
+## Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Goal-Driven_Reward_by_Video_Diffusion_Models_for_Reinforcement_Learning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Goal-Driven_Reward_by_Video_Diffusion_Models_for_Reinforcement_Learning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐任务编写奖励难扩展，单纯图像相似度也难区分动作是否有效。
+- **核心创新 / 方法** · 用域适配的视频扩散编码器比较预测及实际行为片段，用文本图像匹配选目标帧并建模状态动作到达目标的概率。
+- **Baseline** · 与 RoboCLIP、TADPoLe 等视觉奖励方案比较。
+- **Benchmark** · Meta-World 操作和 Distracting Control，评估不同奖励设置下的 episode return。
+- **关键结果 / 消融** · 论文报告 Meta-World 的五项任务回报，并以 Bin Picking 展示与 TADPoLe 的行为差异。
+- **适用条件 / 局限** · 不要求专家演示的奖励仍依赖生成目标的合理性和域内视频适配。
+
+**可复用机制** · 可将生成视频的阶段语义和目标帧可达性一起用于强化学习奖励。
+
+<a id="paper-specialist-modulation-global-pose"></a>
+
+## Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Moon_Enhancing_Hands_in_3D_Whole-Body_Pose_Estimation_with_Conditional_Hands_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Moon_Enhancing_Hands_in_3D_Whole-Body_Pose_Estimation_with_Conditional_Hands_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 整身训练集的手部监督多样性不足，独立手部模型又缺少躯体坐标与手腕上下文。
+- **核心创新 / 方法** · 借助轻量条件调制模块让预训练手部特征进入全身支路，联合恢复手腕和手部。
+- **Baseline** · 比较原全身估计、Hand4Whole 等全身估计器及不同手部专家和模块变体。
+- **Benchmark** · AGORA、ARCTIC、EHF 及手部集 IH26M、ReIH、HIC，测全身、手部 MPVPE 和手部根位置误差。
+- **关键结果 / 消融** · AGORA 表 1 的全身与手部 MPVPE 从 85.61/52.31 降到 76.84/49.71。
+- **适用条件 / 局限** · 依赖可用的手部检测及预训练专家，在极端遮挡下局部条件可能不可靠。
+
+**可复用机制** · 局部专家和全局估计器互补时，可用专家特征调制全局网络，保留跨部位姿态约束。
+
+<a id="paper-subgoal-and-consistent-trajectory-ranking"></a>
+
+## GeniNav: Generative Model Driven Image-Goal Navigation via Imagination-Guided Consistency Flow Matching
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_GeniNav_Generative_Model_Driven_Image-Goal_Navigation_via_Imagination-Guided_Consistency_Flow_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_GeniNav_Generative_Model_Driven_Image-Goal_Navigation_via_Imagination-Guided_Consistency_Flow_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 生成导航候选容易随时间抖动，缺少轨迹评估也使动作与目标不一致。
+- **核心创新 / 方法** · 由 VLM 在潜空间预测子目标，以多段一致性生成轨迹，再按候选轨迹评价结果进行闭环选择。
+- **Baseline** · 比较 NoMaD、FlowNav、NaviDiffusor、MetricNet、Navibridger 等。
+- **Benchmark** · Gibson 训练集训练，在未见 Gibson 及 MP3D 做闭环图像目标导航，测成功率、SPL 和碰撞率。
+- **关键结果 / 消融** · GeniNav 在 Gibson 和 MP3D 的成功率为 68.7% 和 55.2%，MetricNet 对应 54.5% 和 41.2%。
+- **适用条件 / 局限** · 表中完整方案使用深度信息，验证主要在模拟环境。
+
+**可复用机制** · 闭环目标导航可把高层视觉子目标、时间一致性生成和候选轨迹排序分别设计。
+
+<a id="paper-reptrfd"></a>
+
+## Reparameterized Tensor Ring Functional Decomposition for Multi-Dimensional Data Recovery
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xu_Reparameterized_Tensor_Ring_Functional_Decomposition_for_Multi-Dimensional_Data_Recovery_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Reparameterized_Tensor_Ring_Functional_Decomposition_for_Multi-Dimensional_Data_Recovery_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 离散张量环依赖固定网格；改成连续隐式表示后，普通优化仍难恢复高频细节。
+- **核心创新 / 方法** · 将各张量环因子写成固定基与可学习潜张量的组合，并按频域分析初始化固定基。
+- **Baseline** · 对照普通张量环和连续函数分解，并与各数据恢复任务的已有方法比较。
+- **Benchmark** · 图像补全、高光谱及多光谱去噪、超分辨率和点云恢复，按任务采用恢复质量指标。
+- **关键结果 / 消融** · 正文给出频谱与训练动态分析，并在规则和非规则数据恢复设置验证重参数化。
+- **适用条件 / 局限** · 依赖低秩结构和固定基覆盖所需频段，处理动态连续序列时需重估适配性。
+
+**可复用机制** · 将连续低秩分解的固定频谱基与可训练权重分离，改善对高频信息的拟合。
+
+<a id="paper-semicp-nearest-neighbor"></a>
+
+## Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_Semi-Supervised_Conformal_Prediction_With_Unlabeled_Nonconformity_Score_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Semi-Supervised_Conformal_Prediction_With_Unlabeled_Nonconformity_Score_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 少量有标签校准点令分割式保形预测的重复运行覆盖率波动较大。
+- **核心创新 / 方法** · 保留标注样本的真实非一致性分数，并用相似伪标注点的匹配分数纳入未标样本。
+- **Baseline** · 对照仅标注数据的分割式保形预测，并比较 APS、RAPS 等评分设置。
+- **Benchmark** · CIFAR-10、CIFAR-100 和 ImageNet 图像分类，报告经验覆盖率与目标覆盖率差距。
+- **关键结果 / 消融** · 理论上覆盖率差距随未标样本数的平方根倒数收敛至误差项；实验检验不同校准规模的波动。
+- **适用条件 / 局限** · 依赖近邻及伪标签的可靠性，分布漂移和非独立在线观察时需重新验证覆盖率。
+
+**可复用机制** · 少量标签校准置信区间时，通过近邻给未标数据匹配非一致性分数。
+
+<a id="paper-efficientvpr"></a>
+
+## EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_EfficientVPR_Toward_Efficient_Visual_Place_Recognition_via_Scene-Aware_Prompt_Tuning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_EfficientVPR_Toward_Efficient_Visual_Place_Recognition_via_Scene-Aware_Prompt_Tuning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 地点识别面对天气和视角变化时，放大骨干或重排候选会增加在线部署开销。
+- **核心创新 / 方法** · 以场景感知视觉提示调整预训练特征，再按样本增强关键局部区域，单阶段完成检索。
+- **Baseline** · 比较同规模 DINOv2-small 方法，另对照 DINOv2-large 双阶段重排方法。
+- **Benchmark** · Pitts250k、MSLS、Eynsham、AmsterTime 和 SVOX 等地点检索，关注 Recall@1、速度和特征维度。
+- **关键结果 / 消融** · 对正文指定大型两阶段基线，报告 73 倍加速、60% 更低特征维度，平均 R@1 差距在 2.5% 内。
+- **适用条件 / 局限** · 运行收益依赖硬件及候选库大小；室内连续导航中的闭环表现需验证。
+
+**可复用机制** · 在线地点检索中用输入条件化提示和局部增强替代高开销二次排序。
+
+<a id="paper-mu-generf"></a>
+
+## MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mu_MU-GeNeRF_Multi-view_Uncertainty-guided_Generalizable_Neural_Radiance_Fields_for_Distractor-aware_Scene_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mu_MU-GeNeRF_Multi-view_Uncertainty-guided_Generalizable_Neural_Radiance_Fields_for_Distractor-aware_Scene_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 动态干扰破坏多视图一致性，单靠目标重建误差可能误判真实静态细节。
+- **核心创新 / 方法** · 分别估计源视图间结构不确定性与目标视图异常，再以异方差损失调节重建。
+- **Baseline** · 对比已有泛化 NeRF 与抗干扰重建方法，表1标注逐场景微调设置。
+- **Benchmark** · On-the-go 与 RobustNeRF 的抗干扰重建，以 PSNR、SSIM 和 LPIPS 评估。
+- **关键结果 / 消融** · 正文表1、2比较两种基准，表3检验两类不确定性和重建目标。
+- **适用条件 / 局限** · 依赖视图有足够重叠，长期占据多个视角的动态目标与真实结构仍可能难区分。
+
+**可复用机制** · 把输入视图内部冲突与目标观察异常分开估计，避免用单视图残差决定是否剔除静态结构。
+
+<a id="paper-vqrae-unified-tokenizer"></a>
+
+## VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Du_VQRAE_Representation_Quantization_Autoencoders_for_Multimodal_Understanding_Generation_and_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Du_VQRAE_Representation_Quantization_Autoencoders_for_Multimodal_Understanding_Generation_and_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 双编码器使理解和生成接口分离，而直接学习重建可能牺牲预训练语义。
+- **核心创新 / 方法** · 冻结预训练编码器学习高维语义码本，再联合优化编码器并施加自蒸馏。
+- **Baseline** · 比较已有统一及双编码范式，并对照不同码本维度和训练配置。
+- **Benchmark** · 含 MME-Perception、GQA、POPE 的多模态理解及 ImageNet-1K 256 像素重建，后者含 rFID、PSNR 和 SSIM。
+- **关键结果 / 消融** · 正文联合评估理解、生成和重建，指出高维码本对量化预训练语义表示有益。
+- **适用条件 / 局限** · 高维码本有额外存储和计算成本，视频或动作令牌中的保真权衡需重新检验。
+
+**可复用机制** · 共享视觉编码器输出连续理解特征及离散生成令牌，并用自蒸馏限制量化训练改变语义。
+
+<a id="paper-sparse-lavida"></a>
+
+## Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Sparse-LaViDa_Sparse_Multimodal_Discrete_Diffusion_Language_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Sparse-LaViDa_Sparse_Multimodal_Discrete_Diffusion_Language_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 掩码离散扩散每轮重新处理大量无变化的掩码令牌，浪费推理预算。
+- **核心创新 / 方法** · 按步截断冗余掩码令牌，以寄存令牌压缩相关状态，并用专用注意力掩码保持训练与推理一致。
+- **Baseline** · 基于 LaViDa-O，对照完整掩码扩散及相关统一多模态模型。
+- **Benchmark** · GenEval 文生图、ImgEdit 图像编辑和正文数学推理设置，同时考察任务指标与用时。
+- **关键结果 / 消融** · 正文报告在多类任务维持生成质量的同时最高约两倍提速。
+- **适用条件 / 局限** · 收益依赖可安全截断的掩码比例，代理令牌的容量对长序列和多轮交互仍需验证。
+
+**可复用机制** · 以少量寄存令牌代理未参与本轮计算的掩码位置，并在训练中模拟同一稀疏过程。
+
+<a id="paper-geoid-lidar-test-time"></a>
+
+## Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Test-Time_Training_for_LiDAR_Semantic_Segmentation_under_Corruption_via_Geometric_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Test-Time_Training_for_LiDAR_Semantic_Segmentation_under_Corruption_via_Geometric_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · LiDAR 在传感器损坏和环境变化下出现分布漂移，伪标签与归一化更新容易受强噪声影响。
+- **核心创新 / 方法** · 向点云注入离流形点，用区分几何内点的任务适配；用源模型内点分数过滤两侧的不可靠点。
+- **Baseline** · 对照伪标签及统计适配等测试时方法，并分析过滤组件。
+- **Benchmark** · SemanticKITTI-C 和 nuScenes-C 多类型 LiDAR 损坏，按损坏类型报告语义分割 mIoU。
+- **关键结果 / 消融** · 正文表1、2报告跨损坏类型改进，表3分析自监督适配组件。
+- **适用条件 / 局限** · 扰动需与真实几何差别可分，严重漂移时源模型筛出的高置信点也可能偏向少数区域。
+
+**可复用机制** · 测试时用可控几何扰动构造自监督目标，并筛除原始与合成两侧的不可靠点。
+
+<a id="paper-leader-truncated-relative-reliability"></a>
+
+## LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_LEADER_Learning_Reliable_Local-to-Global_Correspondences_for_LiDAR_Relocalization_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_LEADER_Learning_Reliable_Local-to-Global_Correspondences_for_LiDAR_Relocalization_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无显式地图的 LiDAR 位姿回归若等权处理所有点，会受动态点和匹配歧义干扰。
+- **核心创新 / 方法** · 投影式几何编码器提取多尺度信息，截断相对可靠性损失建模逐点歧义，减小不可靠对应的影响。
+- **Baseline** · 与既有学习式 LiDAR 重定位方法比较，同时报告位置和方向误差。
+- **Benchmark** · Oxford RobotCar 和 NCLT，六自由度重定位以米及角度衡量。
+- **关键结果 / 消融** · 作者报告两套数据上相对现有方法的位置误差分别降低 24.1% 和 73.9%。
+- **适用条件 / 局限** · 可靠性仍依赖局部几何可区分性，环境变化可能让原先可靠的点失效。
+
+**可复用机制** · 用相对可靠性分配点对应监督，降低不确定匹配对位姿估计的影响。
+
+<a id="paper-jarvisevo-joint-editor-evaluator-optimization"></a>
+
+## JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_JarvisEvo_Towards_a_Self-Evolving_Photo_Editing_Agent_with_Synergistic_Editor-Evaluator_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_JarvisEvo_Towards_a_Self-Evolving_Photo_Editing_Agent_with_Synergistic_Editor-Evaluator_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯文本思维链缺失中间编辑证据，固定奖励模型也容易被持续变化的策略利用。
+- **核心创新 / 方法** · 交错使用文本和视觉推理，按编辑、工具选择、评价和反思循环操作，并协同优化编辑器及评价器。
+- **Baseline** · 比较 SFT、完整 SEPO、去除评价循环或其他组件的变体。
+- **Benchmark** · ArtEdit-Bench-Lr，报告 GPT-4o 对语义一致性、感知质量及整体结果的评分。
+- **关键结果 / 消融** · 正文比较 SFT 与 SEPO，并显示完整循环和去除评价器更新时的差异。
+- **适用条件 / 局限** · 协同更新仍需独立评价来检验共同偏差，证据主要来自照片编辑。
+
+**可复用机制** · 让编辑策略和评价策略交替改进，并把每次编辑的视觉证据放回决策过程。
+
+<a id="paper-swiftvla-future-trained-fusion-tokens"></a>
+
+## SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ni_SwiftVLA_Unlocking_Spatiotemporal_Dynamics_for_Lightweight_VLA_Models_at_Minimal_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ni_SwiftVLA_Unlocking_Spatiotemporal_Dynamics_for_Lightweight_VLA_Models_at_Minimal_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 轻量 VLM 的时空能力不足，直接输入完整额外三维信息又增加算力。
+- **核心创新 / 方法** · 以缓存的预训练几何模型从图像提取 4D 特征，用未来预测训练融合 token，并采用遮蔽重建策略。
+- **Baseline** · 对比 SmolVLA、匹配训练配置的 SmolVLA 与显式 4D 输入变体。
+- **Benchmark** · RoboTwin 2.0 和 LIBERO 仿真，报告任务成功率和平均轨迹长度。
+- **关键结果 / 消融** · 表 1 的对应汇总中 SwiftVLA 成功率为 0.53，匹配配置的 SmolVLA 为 0.36，显式 4D 变体为 0.55。
+- **适用条件 / 局限** · 需要预训练几何特征以及能提供运动信号的视频，实际部署收益应按输入和算力测量。
+
+**可复用机制** · 用未来预测监督少量融合 token，并测试缺失显式 4D 输入时的策略性能。
+
+<a id="paper-spatialqa-content-precondition-evaluation"></a>
+
+## SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xie_SpatiaLQA_A_Benchmark_for_Evaluating_Spatial_Logical_Reasoning_in_Vision-Language_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xie_SpatiaLQA_A_Benchmark_for_Evaluating_Spatial_Logical_Reasoning_in_Vision-Language_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 普通视觉问答对多步骤行动中的空间逻辑依赖覆盖不足。
+- **核心创新 / 方法** · 从室内场景构建开放式空间推理问题，分别匹配动作内容和动作前置条件。
+- **Baseline** · 比较 41 个视觉语言模型，正文同时报告人类参考。
+- **Benchmark** · SpatiaLQA 9,605 个问答、241 个室内场景，以内容和前置条件 F1 为主要指标。
+- **关键结果 / 消融** · 实验显示领先模型仍难处理空间逻辑，换用评分模型也会显著改变部分模型的得分。
+- **适用条件 / 局限** · 自动评分和题目场景决定诊断范围，应对同义动作和替代可行路径进行复核。
+
+**可复用机制** · 把空间任务的步骤内容和前置条件分开评分，用来定位规划失败由感知还是约束引起。
+
+<a id="paper-few-shot-continual-mixture-prototype-replay"></a>
+
+## Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Robustness_Under_Data_Scarcity_Few-Shot_Continual_Adversarial_Training_for_Evolving_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Robustness_Under_Data_Scarcity_Few-Shot_Continual_Adversarial_Training_for_Evolving_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 少样本持续鲁棒训练容易记住当前扰动域并遗忘历史域。
+- **核心创新 / 方法** · 在既有防御训练中加入分类间隔正则，用高斯混合原型回放历史域特征，并平衡多域更新。
+- **Baseline** · 比较常规对抗训练、AWP 和持续训练基线。
+- **Benchmark** · ImageNet-1K 上依次经历多种评测扰动，报告各域鲁棒准确率和干净准确率。
+- **关键结果 / 消融** · 表 1 按阶段报告鲁棒表现，研究同时比较原型回放与多域目标的作用。
+- **适用条件 / 局限** · 回放有效性取决于原型对历史域的覆盖；未见域或偏置累积时需独立评估。
+
+**可复用机制** · 阶段样本很少时以混合分布回放特征，并平衡旧域保留和新域适应。

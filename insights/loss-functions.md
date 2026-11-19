@@ -475,5 +475,7 @@
 - [SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning](../conferences/cvpr-2026/cards.md#paper-soc-semantic-orthogonal)
 - [Learning a Unified Latent Action Space from Videos with Action-centric Cycle Consistency](../conferences/cvpr-2026/cards.md#paper-latent-action-cycle-consistency)
 - [ORION: ORthonormal Text Encoding for Universal VLM AdaptatION](../conferences/cvpr-2026/cards.md#paper-orion-text-prototypes)
+- [MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene](../conferences/cvpr-2026/cards.md#paper-mu-generf)
+- [LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization](../conferences/cvpr-2026/cards.md#paper-leader-truncated-relative-reliability)
 
 <!-- conference-classification:end -->

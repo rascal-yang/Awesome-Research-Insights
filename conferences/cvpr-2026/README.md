@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,457 篇，其中 1,559 篇暂收录、898 篇排除，另有 1,585 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,487 篇，其中 1,576 篇暂收录、911 篇排除，另有 1,555 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1565,3 +1565,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,457
 | 机器人学 | 点云配准 | [DualReg: Dual-Space Filtering and Reinforcement for Rigid Registration](cards.md#paper-dualreg-filtered-anchors-geometric-refinement) | 用可靠特征匹配作为局部几何精配准的锚点。 |
 | 机器人学 | 时序状态建模 | [UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling](cards.md#paper-ufo-visible-recurrent-scene-tokens) | 保留可被后续观测修正的场景 token，并按可见性筛选更新。 |
 | 生成模型 | 分布式训练 | [Heterogeneous Decentralized Diffusion Models](cards.md#paper-heterogeneous-diffusion-topk-expert-fusion) | 统一异构目标专家的推理接口，并在融合前验证专家选择数量。 |
+| 计算机视觉 | 推理策略 | [Zoo3D: Zero-Shot 3D Object Detection at Scene Level](cards.md#paper-multiview-mask-consensus-zero-shot-3d) | 场景三维检测可以先聚合多视角二维掩码，再用视角共识标注开放词汇类别。 |
+| 多模态学习 | 模型架构 | [TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding](cards.md#paper-vision-to-instruction-token-transfer) | 压缩长视频时，可以先让中间层把视觉信息转入指令 token，再删减冗余视觉 token。 |
+| 机器人学 | 训练策略 | [Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning](cards.md#paper-video-diffusion-goal-reward) | 可将生成视频的阶段语义和目标帧可达性一起用于强化学习奖励。 |
+| 计算机视觉 | 模型架构 | [Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator](cards.md#paper-specialist-modulation-global-pose) | 局部专家和全局估计器互补时，可用专家特征调制全局网络，保留跨部位姿态约束。 |
+| 机器人学 | 推理策略 | [GeniNav: Generative Model Driven Image-Goal Navigation via Imagination-Guided Consistency Flow Matching](cards.md#paper-subgoal-and-consistent-trajectory-ranking) | 闭环目标导航可把高层视觉子目标、时间一致性生成和候选轨迹排序分别设计。 |
+| 机器学习基础与统计 | 模型架构 | [Reparameterized Tensor Ring Functional Decomposition for Multi-Dimensional Data Recovery](cards.md#paper-reptrfd) | 将连续低秩分解的固定频谱基与可训练权重分离，改善对高频信息的拟合。 |
+| 机器学习基础与统计 | 评测与诊断 | [Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score](cards.md#paper-semicp-nearest-neighbor) | 少量标签校准置信区间时，通过近邻给未标数据匹配非一致性分数。 |
+| 机器人学 | 模型架构 | [EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement](cards.md#paper-efficientvpr) | 在线地点检索中用输入条件化提示和局部增强替代高开销二次排序。 |
+| 计算机视觉 | 损失函数 | [MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene](cards.md#paper-mu-generf) | 把输入视图内部冲突与目标观察异常分开估计，避免用单视图残差决定是否剔除静态结构。 |
+| 多模态学习 | 模型架构 | [VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction](cards.md#paper-vqrae-unified-tokenizer) | 共享视觉编码器输出连续理解特征及离散生成令牌，并用自蒸馏限制量化训练改变语义。 |
+| 多模态学习 | 推理策略 | [Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](cards.md#paper-sparse-lavida) | 以少量寄存令牌代理未参与本轮计算的掩码位置，并在训练中模拟同一稀疏过程。 |
+| 机器人学 | 训练策略 | [Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination](cards.md#paper-geoid-lidar-test-time) | 测试时用可控几何扰动构造自监督目标，并筛除原始与合成两侧的不可靠点。 |
+| 机器人学 | 鲁棒损失 | [LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization](cards.md#paper-leader-truncated-relative-reliability) | 用相对可靠性分配点对应监督，降低不确定匹配对位姿估计的影响。 |
+| 智能体 | 奖励与自我改进 | [JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](cards.md#paper-jarvisevo-joint-editor-evaluator-optimization) | 让编辑策略和评价策略交替改进，并把每次编辑的视觉证据放回决策过程。 |
+| 机器人学 | 时空表征 | [SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](cards.md#paper-swiftvla-future-trained-fusion-tokens) | 用未来预测监督少量融合 token，并测试缺失显式 4D 输入时的策略性能。 |
+| 多模态学习 | 评测设计 | [SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](cards.md#paper-spatialqa-content-precondition-evaluation) | 把空间任务的步骤内容和前置条件分开评分，用来定位规划失败由感知还是约束引起。 |
+| 机器学习 | 持续学习 | [Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats](cards.md#paper-few-shot-continual-mixture-prototype-replay) | 阶段样本很少时以混合分布回放特征，并平衡旧域保留和新域适应。 |

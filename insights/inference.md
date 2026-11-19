@@ -1600,5 +1600,8 @@
 - [Breaking the Illusion: When Positive Meets Negative in Multimodal Decoding](../conferences/cvpr-2026/cards.md#paper-dual-evidence-counterfactual-decoding)
 - [Language-Free Generative Editing from One Visual Example](../conferences/cvpr-2026/cards.md#paper-visual-diffusion-conditioning)
 - [Native and Compact Structured Latents for 3D Generation](../conferences/cvpr-2026/cards.md#paper-o-voxel-native-structured-latent)
+- [Zoo3D: Zero-Shot 3D Object Detection at Scene Level](../conferences/cvpr-2026/cards.md#paper-multiview-mask-consensus-zero-shot-3d)
+- [GeniNav: Generative Model Driven Image-Goal Navigation via Imagination-Guided Consistency Flow Matching](../conferences/cvpr-2026/cards.md#paper-subgoal-and-consistent-trajectory-ranking)
+- [Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](../conferences/cvpr-2026/cards.md#paper-sparse-lavida)
 
 <!-- conference-classification:end -->

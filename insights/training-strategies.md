@@ -1194,5 +1194,8 @@
 - [Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals](../conferences/cvpr-2026/cards.md#paper-phase-local-distribution-distillation)
 - [EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing](../conferences/cvpr-2026/cards.md#paper-effecterase)
 - [Heterogeneous Decentralized Diffusion Models](../conferences/cvpr-2026/cards.md#paper-heterogeneous-diffusion-topk-expert-fusion)
+- [Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning](../conferences/cvpr-2026/cards.md#paper-video-diffusion-goal-reward)
+- [Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination](../conferences/cvpr-2026/cards.md#paper-geoid-lidar-test-time)
+- [Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats](../conferences/cvpr-2026/cards.md#paper-few-shot-continual-mixture-prototype-replay)
 
 <!-- conference-classification:end -->

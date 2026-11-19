@@ -1032,5 +1032,11 @@ Robot perception, policy learning, planning, and control.
 - [Learning a Unified Latent Action Space from Videos with Action-centric Cycle Consistency](../../conferences/cvpr-2026/cards.md#paper-latent-action-cycle-consistency)
 - [DualReg: Dual-Space Filtering and Reinforcement for Rigid Registration](../../conferences/cvpr-2026/cards.md#paper-dualreg-filtered-anchors-geometric-refinement)
 - [UFO: Unifying Feed-Forward and Optimization-based Methods for Large Driving Scene Modeling](../../conferences/cvpr-2026/cards.md#paper-ufo-visible-recurrent-scene-tokens)
+- [Goal-Driven Reward by Video Diffusion Models for Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-video-diffusion-goal-reward)
+- [GeniNav: Generative Model Driven Image-Goal Navigation via Imagination-Guided Consistency Flow Matching](../../conferences/cvpr-2026/cards.md#paper-subgoal-and-consistent-trajectory-ranking)
+- [EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement](../../conferences/cvpr-2026/cards.md#paper-efficientvpr)
+- [Test-Time Training for LiDAR Semantic Segmentation under Corruption via Geometric Inlier Discrimination](../../conferences/cvpr-2026/cards.md#paper-geoid-lidar-test-time)
+- [LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization](../../conferences/cvpr-2026/cards.md#paper-leader-truncated-relative-reliability)
+- [SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead](../../conferences/cvpr-2026/cards.md#paper-swiftvla-future-trained-fusion-tokens)
 
 <!-- conference-classification:end -->

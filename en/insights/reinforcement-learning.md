@@ -797,5 +797,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](../../conferences/cvpr-2026/cards.md#paper-medgrpo-cross-dataset-reward)
 - [AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization](../../conferences/cvpr-2026/cards.md#paper-anydoc-height-reward)
 - [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](../../conferences/cvpr-2026/cards.md#paper-higrpo-token-and-semantic-policy-optimization)
+- [JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](../../conferences/cvpr-2026/cards.md#paper-jarvisevo-joint-editor-evaluator-optimization)
 
 <!-- conference-classification:end -->

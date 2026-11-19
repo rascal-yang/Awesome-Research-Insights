@@ -1565,5 +1565,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Pixel2Phys: Distilling Governing Laws from Visual Dynamics](../../conferences/cvpr-2026/cards.md#paper-pixel2phys-hypothesis-validation-loop)
 - [RMIR: A Benchmark Dataset for Reasoning-Intensive Multimodal Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-rmir-reasoning-retrieval)
 - [EduDiag: A Benchmark for Educational Diagnostic Reasoning with Error Tracing and Correction on Large Multimodal Models](../../conferences/cvpr-2026/cards.md#paper-edudiag-error-reconstruction-and-correction)
+- [Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score](../../conferences/cvpr-2026/cards.md#paper-semicp-nearest-neighbor)
+- [SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-spatialqa-content-precondition-evaluation)
 
 <!-- conference-classification:end -->

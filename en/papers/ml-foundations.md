@@ -2511,5 +2511,8 @@ General learning methods, optimization, learning theory, and inference.
 - [Decompose, Mix, Adapt: A Unified Framework for Parameter-Efficient Neural Network Recombination and Compression](../../conferences/cvpr-2026/cards.md#paper-crisp-shared-basis-recombination)
 - [Stable Mean Flow: Lyapunov-Inspired One-Step Flow Matching](../../conferences/cvpr-2026/cards.md#paper-stable-mean-flow-local-nonexpansivity)
 - [Heterogeneous Decentralized Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-heterogeneous-diffusion-topk-expert-fusion)
+- [Reparameterized Tensor Ring Functional Decomposition for Multi-Dimensional Data Recovery](../../conferences/cvpr-2026/cards.md#paper-reptrfd)
+- [Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score](../../conferences/cvpr-2026/cards.md#paper-semicp-nearest-neighbor)
+- [Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats](../../conferences/cvpr-2026/cards.md#paper-few-shot-continual-mixture-prototype-replay)
 
 <!-- conference-classification:end -->

@@ -1397,5 +1397,9 @@ Learning across modalities such as images, text, audio, and video.
 - [SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning](../../conferences/cvpr-2026/cards.md#paper-soc-semantic-orthogonal)
 - [Language-Free Generative Editing from One Visual Example](../../conferences/cvpr-2026/cards.md#paper-visual-diffusion-conditioning)
 - [ORION: ORthonormal Text Encoding for Universal VLM AdaptatION](../../conferences/cvpr-2026/cards.md#paper-orion-text-prototypes)
+- [TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding](../../conferences/cvpr-2026/cards.md#paper-vision-to-instruction-token-transfer)
+- [VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-vqrae-unified-tokenizer)
+- [Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](../../conferences/cvpr-2026/cards.md#paper-sparse-lavida)
+- [SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-spatialqa-content-precondition-evaluation)
 
 <!-- conference-classification:end -->

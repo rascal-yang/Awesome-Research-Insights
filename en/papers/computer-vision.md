@@ -1476,5 +1476,8 @@ Visual representation, recognition, reconstruction, and generation.
 - [ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding](../../conferences/cvpr-2026/cards.md#paper-redirector-roce)
 - [RINO: Rotation-Invariant Non-Rigid Correspondences](../../conferences/cvpr-2026/cards.md#paper-rino-so3-invariant-nonrigid-correspondence)
 - [Native and Compact Structured Latents for 3D Generation](../../conferences/cvpr-2026/cards.md#paper-o-voxel-native-structured-latent)
+- [Zoo3D: Zero-Shot 3D Object Detection at Scene Level](../../conferences/cvpr-2026/cards.md#paper-multiview-mask-consensus-zero-shot-3d)
+- [Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator](../../conferences/cvpr-2026/cards.md#paper-specialist-modulation-global-pose)
+- [MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene](../../conferences/cvpr-2026/cards.md#paper-mu-generf)
 
 <!-- conference-classification:end -->
