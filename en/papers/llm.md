@@ -2450,5 +2450,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL](../../conferences/cvpr-2026/cards.md#paper-spacetools-dirl)
 - [Simple Agents Outperform Experts in Biomedical Imaging Workflow Optimization](../../conferences/cvpr-2026/cards.md#paper-workflow-agents-separate-structure-and-parameter-search)
 - [Training One Model to Master Cross-Level Agentic Actions via Reinforcement Learning](../../conferences/cvpr-2026/cards.md#paper-crossha-agent-action-granularity)
+- [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](../../conferences/cvpr-2026/cards.md#paper-focusui-position-preserving-selection)
 
 <!-- conference-classification:end -->

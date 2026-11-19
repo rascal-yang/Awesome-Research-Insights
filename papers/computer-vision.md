@@ -1449,5 +1449,9 @@
 - [Beyond [CLS] Token: Query-Driven Token-Level Forgery Purification for Generalizable Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-qtfp-local-patch-evidence-queries)
 - [LoST: Level of Semantics Tokenization for 3D Shapes](../conferences/cvpr-2026/cards.md#paper-lost-semantic-prefix-tokenization)
 - [iLRM: An Iterative Large 3D Reconstruction Model](../conferences/cvpr-2026/cards.md#paper-ilrm-iterative-compact-scene-tokens)
+- [Learning to Generate Highly Dynamic Videos using Synthetic Motion Data](../conferences/cvpr-2026/cards.md#paper-dynavid-synthetic-motion-without-appearance)
+- [Adapting Lightweight Image-based Counting Models for Video Crowd Counting](../conferences/cvpr-2026/cards.md#paper-lightweight-temporal-counting)
+- [Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment](../conferences/cvpr-2026/cards.md#paper-gsa-cross-instance)
+- [DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ddit-dynamic-patch)
 
 <!-- conference-classification:end -->

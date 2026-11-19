@@ -696,5 +696,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [QuadSync: Quadrifocal Tensor Synchronization via Tucker Decomposition](../../conferences/cvpr-2026/cards.md#paper-quadsync)
 - [A Polynomial Chaos Framework for Causal Discovery in Nonlinear Uncertain Systems](../../conferences/cvpr-2026/cards.md#paper-polynomial-chaos-causal-discovery)
 - [Landscape-Awareness for Geometric View Diffusion Model](../../conferences/cvpr-2026/cards.md#paper-landscape-aware-view-diffusion)
+- [Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization](../../conferences/cvpr-2026/cards.md#paper-pjfth-incomplete-clustering)
+- [Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment](../../conferences/cvpr-2026/cards.md#paper-gsa-cross-instance)
 
 <!-- conference-classification:end -->

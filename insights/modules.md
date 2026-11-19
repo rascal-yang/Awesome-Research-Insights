@@ -414,5 +414,6 @@
 - [Experience Transfer for Multimodal LLM Agents in Minecraft Game](../conferences/cvpr-2026/cards.md#paper-echo-structured-analogical-experience)
 - [VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](../conferences/cvpr-2026/cards.md#paper-videoarm-hierarchical-multimodal-memory)
 - [iLRM: An Iterative Large 3D Reconstruction Model](../conferences/cvpr-2026/cards.md#paper-ilrm-iterative-compact-scene-tokens)
+- [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vismem-dual-latent-vision-memory)
 
 <!-- conference-classification:end -->

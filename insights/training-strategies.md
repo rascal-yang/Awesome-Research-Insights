@@ -1176,5 +1176,12 @@
 - [Adaptive Confidence Regularization for Multimodal Failure Detection](../conferences/cvpr-2026/cards.md#paper-acr-cross-modal-confidence-degradation)
 - [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](../conferences/cvpr-2026/cards.md#paper-ace-merging-covariance-from-task-updates)
 - [ChimeraLoRA: Multi-Head LoRA-Guided Synthetic Datasets](../conferences/cvpr-2026/cards.md#paper-chimeralora)
+- [Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective](../conferences/cvpr-2026/cards.md#paper-incremental-multimodal-anomaly-denoising)
+- [Unified Multimodal Models as Auto-Encoders](../conferences/cvpr-2026/cards.md#paper-unified-grpo-text-as-latent)
+- [DGS: Dual Gradient and Semantic-Shift Guided Low-Rank Adaptation for Class Incremental Learning](../conferences/cvpr-2026/cards.md#paper-dgs-soft-projected-gradient-lora)
+- [Vision-Language Model Guided Source-Free Domain Adaptation via Optimal Transport](../conferences/cvpr-2026/cards.md#paper-vsfot-vision-language-transport-guidance)
+- [Adapting Lightweight Image-based Counting Models for Video Crowd Counting](../conferences/cvpr-2026/cards.md#paper-lightweight-temporal-counting)
+- [FedAFD: Multimodal Federated Learning via Adversarial Fusion and Distillation](../conferences/cvpr-2026/cards.md#paper-fedafd)
+- [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-activead-planning-label-budget)
 
 <!-- conference-classification:end -->

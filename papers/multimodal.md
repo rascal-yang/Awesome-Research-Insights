@@ -1360,5 +1360,12 @@
 - [MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](../conferences/cvpr-2026/cards.md#paper-medgrpo-cross-dataset-reward)
 - [One Algorithm to Align Them All](../conferences/cvpr-2026/cards.md#paper-rectified-flow-paired-alignment)
 - [Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing](../conferences/cvpr-2026/cards.md#paper-adtrack-holistic-token-early-exit)
+- [Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective](../conferences/cvpr-2026/cards.md#paper-incremental-multimodal-anomaly-denoising)
+- [Unified Multimodal Models as Auto-Encoders](../conferences/cvpr-2026/cards.md#paper-unified-grpo-text-as-latent)
+- [Vision-Language Model Guided Source-Free Domain Adaptation via Optimal Transport](../conferences/cvpr-2026/cards.md#paper-vsfot-vision-language-transport-guidance)
+- [FedAFD: Multimodal Federated Learning via Adversarial Fusion and Distillation](../conferences/cvpr-2026/cards.md#paper-fedafd)
+- [Spot The Ball: A Benchmark for Visual Social Inference](../conferences/cvpr-2026/cards.md#paper-spot-the-ball-heuristic-controls)
+- [Bridging the Modality Gap in Compositional Zero-Shot Learning via Sparse Alignment and Unimodal Memory Bank](../conferences/cvpr-2026/cards.md#paper-sam-sparse-crossmodal-alignment)
+- [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vismem-dual-latent-vision-memory)
 
 <!-- conference-classification:end -->

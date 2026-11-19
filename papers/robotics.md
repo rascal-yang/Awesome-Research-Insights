@@ -1011,5 +1011,9 @@
 - [R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-r4det-relative-absolute-depth-fusion)
 - [LA-Pose: Latent Action Pretraining Meets Pose Estimation](../conferences/cvpr-2026/cards.md#paper-la-pose-inverse-dynamics-features)
 - [Predict Before You Explore: Predictive Planning with Specialized Memory for Embodied Question Answering](../conferences/cvpr-2026/cards.md#paper-pred-eqa-prediction-correction-memory)
+- [Test-Time 3D Occupancy Prediction](../conferences/cvpr-2026/cards.md#paper-tt-occ-gaussian-runtime-voxelization)
+- [ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-consisvla-4d)
+- [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-activead-planning-label-budget)
+- [Real-World Point Tracking with Verifier-Guided Pseudo-Labeling](../conferences/cvpr-2026/cards.md#paper-verifier-per-frame-pseudo-label-selection)
 
 <!-- conference-classification:end -->

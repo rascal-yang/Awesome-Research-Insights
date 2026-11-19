@@ -2503,5 +2503,8 @@
 - [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](../conferences/cvpr-2026/cards.md#paper-ace-merging-covariance-from-task-updates)
 - [Hyperbolic Busemann Neural Networks](../conferences/cvpr-2026/cards.md#paper-busemann-networks)
 - [RenderFlow: Single-Step Neural Rendering via Flow Matching](../conferences/cvpr-2026/cards.md#paper-renderflow-sparse-keyframe-guidance)
+- [PhaseWin Search Framework Enable Efficient Object-Level Interpretation](../conferences/cvpr-2026/cards.md#paper-phasewin-coarse-to-fine-attribution)
+- [DGS: Dual Gradient and Semantic-Shift Guided Low-Rank Adaptation for Class Incremental Learning](../conferences/cvpr-2026/cards.md#paper-dgs-soft-projected-gradient-lora)
+- [Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization](../conferences/cvpr-2026/cards.md#paper-pjfth-incomplete-clustering)
 
 <!-- conference-classification:end -->

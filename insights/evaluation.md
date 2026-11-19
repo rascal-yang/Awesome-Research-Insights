@@ -1559,5 +1559,6 @@
 - [Bridging Domain Expertise and Generalization for Performance Estimation](../conferences/cvpr-2026/cards.md#paper-frap-calibrated-reference-performance-estimation)
 - [Beyond Top Activations: Efficient and Reliable Crowdsourced Evaluation of Automated Interpretability](../conferences/cvpr-2026/cards.md#paper-mgis-interpretability-crowd-evaluation)
 - [CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions](../conferences/cvpr-2026/cards.md#paper-creval-qa-editing)
+- [Spot The Ball: A Benchmark for Visual Social Inference](../conferences/cvpr-2026/cards.md#paper-spot-the-ball-heuristic-controls)
 
 <!-- conference-classification:end -->

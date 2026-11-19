@@ -716,5 +716,6 @@
 - [Egocentric Visibility-Aware Human Pose Estimation](../conferences/cvpr-2026/cards.md#paper-evapose-visibility-conditioned-keypoints)
 - [Beyond [CLS] Token: Query-Driven Token-Level Forgery Purification for Generalizable Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-qtfp-local-patch-evidence-queries)
 - [LoST: Level of Semantics Tokenization for 3D Shapes](../conferences/cvpr-2026/cards.md#paper-lost-semantic-prefix-tokenization)
+- [Bridging the Modality Gap in Compositional Zero-Shot Learning via Sparse Alignment and Unimodal Memory Bank](../conferences/cvpr-2026/cards.md#paper-sam-sparse-crossmodal-alignment)
 
 <!-- conference-classification:end -->

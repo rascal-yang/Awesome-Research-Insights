@@ -1584,5 +1584,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Predict Before You Explore: Predictive Planning with Specialized Memory for Embodied Question Answering](../../conferences/cvpr-2026/cards.md#paper-pred-eqa-prediction-correction-memory)
 - [RenderFlow: Single-Step Neural Rendering via Flow Matching](../../conferences/cvpr-2026/cards.md#paper-renderflow-sparse-keyframe-guidance)
 - [Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing](../../conferences/cvpr-2026/cards.md#paper-adtrack-holistic-token-early-exit)
+- [Test-Time 3D Occupancy Prediction](../../conferences/cvpr-2026/cards.md#paper-tt-occ-gaussian-runtime-voxelization)
+- [PhaseWin Search Framework Enable Efficient Object-Level Interpretation](../../conferences/cvpr-2026/cards.md#paper-phasewin-coarse-to-fine-attribution)
+- [DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-ddit-dynamic-patch)
 
 <!-- conference-classification:end -->

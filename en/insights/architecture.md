@@ -697,5 +697,6 @@ Model-wide design and information flow.
 - [Hyperbolic Busemann Neural Networks](../../conferences/cvpr-2026/cards.md#paper-busemann-networks)
 - [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](../../conferences/cvpr-2026/cards.md#paper-tapformer-asynchronous)
 - [FVAR: Next-Focus Prediction for Visual Autoregressive Modeling](../../conferences/cvpr-2026/cards.md#paper-fvar-next-focus)
+- [ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-consisvla-4d)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,307 篇，其中 1,464 篇暂收录、843 篇排除，另有 1,735 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,337 篇，其中 1,483 篇暂收录、854 篇排除，另有 1,705 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1470,3 +1470,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,307
 | 生成模型 | 条件生成 | [RenderFlow: Single-Step Neural Rendering via Flow Matching](cards.md#paper-renderflow-sparse-keyframe-guidance) | 用少量高质量关键帧指导确定性的一步生成，权衡精度和推理延迟。 |
 | 三维视觉 | 高效注意力 | [iLRM: An Iterative Large 3D Reconstruction Model](cards.md#paper-ilrm-iterative-compact-scene-tokens) | 将跨视角场景状态与输入分离，用分解注意力持续注入细节。 |
 | 多模态学习 | 动态推理 | [Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing](cards.md#paper-adtrack-holistic-token-early-exit) | 把退出置信度与跨模态压缩分开设计，可迁移到边缘多传感器推理。 |
+| 多模态学习 | 训练策略 | [Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective](cards.md#paper-incremental-multimodal-anomaly-denoising) | 增量异常检测先对照单模态、朴素融合及去冗余融合，再判断遗忘来自何处。 |
+| 多模态学习 | 训练策略 | [Unified Multimodal Models as Auto-Encoders](cards.md#paper-unified-grpo-text-as-latent) | 统一理解与生成的后训练可把文本当中间表示，用图文往返保持结构来验两侧。 |
+| 机器人学 | 推理策略 | [Test-Time 3D Occupancy Prediction](cards.md#paper-tt-occ-gaussian-runtime-voxelization) | 分辨率或类别变化时以连续场景基元存储占据，并将体素分辨率留到测试时指定。 |
+| 机器学习基础与统计 | 推理策略 | [PhaseWin Search Framework Enable Efficient Object-Level Interpretation](cards.md#paper-phasewin-coarse-to-fine-attribution) | 在区域归因的前向预算有限时，先粗筛再在保留窗口精搜，并量化与完整贪心的差距。 |
+| 机器学习基础与统计 | 训练策略 | [DGS: Dual Gradient and Semantic-Shift Guided Low-Rank Adaptation for Class Incremental Learning](cards.md#paper-dgs-soft-projected-gradient-lora) | 增量低秩适配比较硬投影与原梯度和投影梯度的插值，并同时测遗忘与末轮性能。 |
+| 多模态学习 | 训练策略 | [Vision-Language Model Guided Source-Free Domain Adaptation via Optimal Transport](cards.md#paper-vsfot-vision-language-transport-guidance) | 无源数据适配把源原型、目标表示和语言语义联合匹配，避免直接强化初始伪标签。 |
+| 计算机视觉 | 数据策略 | [Learning to Generate Highly Dynamic Videos using Synthetic Motion Data](cards.md#paper-dynavid-synthetic-motion-without-appearance) | 视频动态样本稀少时，将合成运动用于控制信号，外观仍由真实数据提供。 |
+| 计算机视觉 | 训练策略 | [Adapting Lightweight Image-based Counting Models for Video Crowd Counting](cards.md#paper-lightweight-temporal-counting) | 把视频时序规律放在训练损失里，让实际推理保留逐帧接口。 |
+| 多模态学习 | 训练策略 | [FedAFD: Multimodal Federated Learning via Adversarial Fusion and Distillation](cards.md#paper-fedafd) | 客户端保留个性化特征，服务端以蒸馏协调不同模型，并分别验证各端收益。 |
+| 机器人学 | 模型架构 | [ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation](cards.md#paper-consisvla-4d) | 对指令相关物体显式核对跨视角身份、空间布局与时间演化，再测试对操作的贡献。 |
+| 机器人学 | 训练策略 | [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](cards.md#paper-activead-planning-label-budget) | 标注预算固定时，将起始多样性与后续规划相关性作为独立选样信号。 |
+| 机器学习基础与统计 | 优化 | [Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization](cards.md#paper-pjfth-incomplete-clustering) | 多视图图聚类先区分共享关系与视图私有关系，再校正不同视图锚点次序。 |
+| 计算机视觉 | 优化 | [Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment](cards.md#paper-gsa-cross-instance) | 跨实例配准先以局部对应粗估尺度与姿态，再在固定表示上做多视特征一致性精化。 |
+| 计算机视觉 | 推理策略 | [DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers](cards.md#paper-ddit-dynamic-patch) | 扩散推理按时间步和局部内容分配图块尺寸，并用画质及总计算核对。 |
+| 多模态学习 | 评测设计 | [Spot The Ball: A Benchmark for Visual Social Inference](cards.md#paper-spot-the-ball-heuristic-controls) | 用删除目标和空间捷径对照，判断模型是否真的使用人的姿态与互动证据。 |
+| 多模态学习 | 表征学习 | [Bridging the Modality Gap in Compositional Zero-Shot Learning via Sparse Alignment and Unimodal Memory Bank](cards.md#paper-sam-sparse-crossmodal-alignment) | 让语言监督只对齐语义相关图像 patch，可用于标签只描述画面一部分的视觉任务。 |
+| 智能体 | 视觉 Token 筛选 | [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](cards.md#paper-focusui-position-preserving-selection) | 裁掉高分辨率观察中无关 patch 时保留坐标，避免节省算力却破坏行动定位。 |
+| 多模态学习 | 记忆机制 | [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](cards.md#paper-vismem-dual-latent-vision-memory) | 把视觉证据的短期保存和语义巩固分开，按推理需要调用潜在记忆。 |
+| 机器人学 | 伪标签学习 | [Real-World Point Tracking with Verifier-Guided Pseudo-Labeling](cards.md#paper-verifier-per-frame-pseudo-label-selection) | 混合教师时按局部预测可信度选标签，避免一位教师在所有样本上占优的假设。 |

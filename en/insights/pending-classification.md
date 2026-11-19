@@ -842,5 +842,6 @@
 - [BA-GS: Bayesian Adaptive Gaussian Splatting for SFM-Free 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-bags-global-local-uncertainty)
 - [Topology-aware Feature Propagation for Unsupervised Non-rigid Point Cloud Correspondence](../../conferences/cvpr-2026/cards.md#paper-topology-propagation-deformable-correspondence)
 - [Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling](../../conferences/cvpr-2026/cards.md#paper-composer-one-shot-parameter-adaptation)
+- [Real-World Point Tracking with Verifier-Guided Pseudo-Labeling](../../conferences/cvpr-2026/cards.md#paper-verifier-per-frame-pseudo-label-selection)
 
 <!-- conference-classification:end -->

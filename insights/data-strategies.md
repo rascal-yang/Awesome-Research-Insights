@@ -431,5 +431,7 @@
 - [Decision Boundary-aware Generation for Long-tailed Learning](../conferences/cvpr-2026/cards.md#paper-dbg-long-tail-boundary-aware-generation)
 - [LoPrune: Efficient Data Pruning for LoRA-Based Fine-Tuning of Vision Transformer](../conferences/cvpr-2026/cards.md#paper-loprune-trainable-subspace-alignment)
 - [Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution](../conferences/cvpr-2026/cards.md#paper-bps-balanced-visual-pattern-coresets)
+- [Learning to Generate Highly Dynamic Videos using Synthetic Motion Data](../conferences/cvpr-2026/cards.md#paper-dynavid-synthetic-motion-without-appearance)
+- [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](../conferences/cvpr-2026/cards.md#paper-focusui-position-preserving-selection)
 
 <!-- conference-classification:end -->
