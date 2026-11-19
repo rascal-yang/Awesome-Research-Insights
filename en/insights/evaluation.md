@@ -1586,5 +1586,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-handvqa-articulated-reasoning)
 - [Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs](../../conferences/cvpr-2026/cards.md#paper-graph2eval-grounded-task-subgraphs)
 - [Explaining CLIP Zero-shot Predictions Through Concepts](../../conferences/cvpr-2026/cards.md#paper-ezpc-zero-shot-concept-projection)
+- [Consensus vs. Controversy: Mapping the Decision Space Where Architectures Diverge](../../conferences/cvpr-2026/cards.md#paper-architecture-disagreement-tail-diagnostics)
+- [Understanding Task Transfer in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pgf-vision-language-task-transfer-graph)
 
 <!-- conference-classification:end -->

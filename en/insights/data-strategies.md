@@ -444,5 +444,6 @@ Data selection, annotation, augmentation, and sampling.
 - [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-reag-critic-filtered-multimodal-retrieval)
 - [Data Leakage Detection and De-duplication in Large Scale Geospatial Image Datasets](../../conferences/cvpr-2026/cards.md#paper-split-leakage-duplicate-geospatial-audit)
 - [Toward Early Quality Assessment of Text-to-Image Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-probe-select-early-diffusion-ranking)
+- [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-scene-graph-difficulty-adaptive-curriculum)
 
 <!-- conference-classification:end -->

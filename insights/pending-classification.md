@@ -861,5 +861,7 @@
 - [Dynamic Visual SLAM using a General 3D Prior](../conferences/cvpr-2026/cards.md#paper-dynamic-slam-feedforward-geometry-prior)
 - [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-diffgraph-subgraph-model-merging)
 - [LiDeRe: A Lightweight Readout for Fast and Data-Efficient Dense Prediction](../conferences/cvpr-2026/cards.md#paper-lidere-frozen-dense-readout)
+- [Live Interactive Training for Video Segmentation](../conferences/cvpr-2026/cards.md#paper-lit-lora-live-correction-learning)
+- [SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics](../conferences/cvpr-2026/cards.md#paper-sapave-separate-camera-and-manipulation)
 
 <!-- conference-classification:end -->

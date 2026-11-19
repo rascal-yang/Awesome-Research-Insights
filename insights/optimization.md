@@ -708,5 +708,6 @@
 - [VLM-PTQ: Efficient Post-Training Quantization for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vlm-ptq-modality-aware)
 - [Turbo-GS: Accelerating 3D Gaussian Fitting for High-Resolution Radiance Fields](../conferences/cvpr-2026/cards.md#paper-turbo-gs-convergence-budget)
 - [ReFTA: Breaking the Weight Reconstruction Bottleneck in Tensorized Parameter-Efficient Fine-Tuning](../conferences/cvpr-2026/cards.md#paper-factor-space-tensor-finetuning)
+- [Dynamic Important Example Mining for Reinforcement Finetuning](../conferences/cvpr-2026/cards.md#paper-diem-gradient-example-mining)
 
 <!-- conference-classification:end -->

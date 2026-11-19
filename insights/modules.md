@@ -421,5 +421,6 @@
 - [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](../conferences/cvpr-2026/cards.md#paper-avavla-recurrent-belief-visual-attention)
 - [UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition](../conferences/cvpr-2026/cards.md#paper-unimernet-horizontal-vertical-raster-attention)
 - [OneSparse: A Unified Framework for Sparse Activation Layers in Vision Models](../conferences/cvpr-2026/cards.md#paper-onesparse-memory-moe-unified-routing)
+- [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](../conferences/cvpr-2026/cards.md#paper-look-before-fuse-boundary-prealignment)
 
 <!-- conference-classification:end -->

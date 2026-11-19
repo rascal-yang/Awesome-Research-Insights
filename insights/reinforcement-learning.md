@@ -809,5 +809,6 @@
 - [MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](../conferences/cvpr-2026/cards.md#paper-moddpo-relevant-modality-invariance)
 - [Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning](../conferences/cvpr-2026/cards.md#paper-doge-context-first-self-evolving-learning)
 - [Detect Anything via Next Point Prediction](../conferences/cvpr-2026/cards.md#paper-rex-omni-next-point)
+- [Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-pearl-perception-gated-rewards)
 
 <!-- conference-classification:end -->

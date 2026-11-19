@@ -2553,5 +2553,7 @@
 - [LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs](../conferences/cvpr-2026/cards.md#paper-lata-label-free-transductive-conformal)
 - [TWEO: Transformers Without Extreme Outliers Enables FP8 Training And Quantization For Dummies](../conferences/cvpr-2026/cards.md#paper-tweo-weight-collinearity)
 - [Toward Early Quality Assessment of Text-to-Image Diffusion Models](../conferences/cvpr-2026/cards.md#paper-probe-select-early-diffusion-ranking)
+- [Dynamic Important Example Mining for Reinforcement Finetuning](../conferences/cvpr-2026/cards.md#paper-diem-gradient-example-mining)
+- [COT-FM: Cluster-wise Optimal Transport Flow Matching](../conferences/cvpr-2026/cards.md#paper-cot-fm-cluster-transport)
 
 <!-- conference-classification:end -->

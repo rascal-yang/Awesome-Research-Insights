@@ -1254,5 +1254,11 @@ Training schedules, curricula, and task or stage composition.
 - [VAST: Video Ability-Stratified Taxonomy for Data-Efficient Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-vast-ability-stratified-training)
 - [FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Alignment](../../conferences/cvpr-2026/cards.md#paper-falcon-negative-scheduler)
 - [Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs](../../conferences/cvpr-2026/cards.md#paper-hpa-continual-alignment-retention)
+- [From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection](../../conferences/cvpr-2026/cards.md#paper-sequence-track-reward-keypoints)
+- [VisionLeaf: Entropy-Guided Leaf-First Reasoning for Efficient and Accurate Think-with-Image](../../conferences/cvpr-2026/cards.md#paper-entropy-frontier-visual-reasoning)
+- [Unified Generation and Self-Verification for Vision-Language Models via Advantage Decoupled Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-decoupled-advantages-shared-generator-verifier)
+- [Towards Calibrating Prompt Tuning of Vision- Language Models](../../conferences/cvpr-2026/cards.md#paper-logit-margin-text-moment-calibration)
+- [Do Less, Achieve More: Do We Need Every-Step Optimization for RL Fine-tuning of Diffusion Models?](../../conferences/cvpr-2026/cards.md#paper-adaptive-denoising-window-rl-alignment)
+- [COT-FM: Cluster-wise Optimal Transport Flow Matching](../../conferences/cvpr-2026/cards.md#paper-cot-fm-cluster-transport)
 
 <!-- conference-classification:end -->

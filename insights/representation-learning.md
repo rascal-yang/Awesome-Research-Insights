@@ -753,5 +753,6 @@
 - [MORE-STEM: Long-Short MemOry REcall and Spatio-TEmporal Consistency Model for Query-Driven 3D/4D Point Cloud Segmentation](../conferences/cvpr-2026/cards.md#paper-hierarchical-memory-dynamic-point-segmentation)
 - [Learnable Motion-Focused Tokenization for Effective and Efficient Video Unsupervised Domain Adaptation](../conferences/cvpr-2026/cards.md#paper-motion-guided-token-pruning-video-adaptation)
 - [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](../conferences/cvpr-2026/cards.md#paper-mantis-decoupled-visual-foresight)
+- [SIR: Structured Image Representations for Explainable Robot Learning](../conferences/cvpr-2026/cards.md#paper-learned-sparse-object-graphs-for-policy)
 
 <!-- conference-classification:end -->

@@ -1083,5 +1083,11 @@ Robot perception, policy learning, planning, and control.
 - [ParticleGS: Learning Neural Gaussian Particle Dynamics from Videos for Prior-free Physical Motion Extrapolation](../../conferences/cvpr-2026/cards.md#paper-particlegs-continuous-particle-dynamics)
 - [HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-handvqa-articulated-reasoning)
 - [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](../../conferences/cvpr-2026/cards.md#paper-mantis-decoupled-visual-foresight)
+- [SIR: Structured Image Representations for Explainable Robot Learning](../../conferences/cvpr-2026/cards.md#paper-learned-sparse-object-graphs-for-policy)
+- [KASALv2: Fully Automatic 3D Rotational Symmetry Classification and Axis Localization](../../conferences/cvpr-2026/cards.md#paper-kasalv2-symmetry-prior)
+- [Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](../../conferences/cvpr-2026/cards.md#paper-drive-my-way-dual-preferences)
+- [Test-time Sparsity for Extreme Fast Action Diffusion](../../conferences/cvpr-2026/cards.md#paper-action-diffusion-test-time-residual-sparsity)
+- [SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics](../../conferences/cvpr-2026/cards.md#paper-sapave-separate-camera-and-manipulation)
+- [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](../../conferences/cvpr-2026/cards.md#paper-look-before-fuse-boundary-prealignment)
 
 <!-- conference-classification:end -->

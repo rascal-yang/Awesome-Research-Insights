@@ -1650,5 +1650,7 @@ Decoding, test-time adaptation, and efficient execution.
 - [TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification](../../conferences/cvpr-2026/cards.md#paper-tape-prototype-evolution)
 - [Image Guides Images: Consistent Video Amodal Completion with Rectified In-Context Exemplar Guidance](../../conferences/cvpr-2026/cards.md#paper-rectified-exemplar-video-completion)
 - [Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](../../conferences/cvpr-2026/cards.md#paper-gated-cross-modal-source-verification)
+- [Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach](../../conferences/cvpr-2026/cards.md#paper-flashcache-outlier-kv)
+- [Test-time Sparsity for Extreme Fast Action Diffusion](../../conferences/cvpr-2026/cards.md#paper-action-diffusion-test-time-residual-sparsity)
 
 <!-- conference-classification:end -->

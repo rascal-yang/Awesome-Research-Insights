@@ -1546,5 +1546,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [iSplat: Iterative Learning for Fine-Grained Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-recurrent-uncertainty-guided-gaussian-refinement)
 - [Gyro-based Deep Video Deblurring](../../conferences/cvpr-2026/cards.md#paper-gyrodvd-blur-kernels)
 - [VidEoMT: Your ViT is Secretly Also a Video Segmentation Model](../../conferences/cvpr-2026/cards.md#paper-videomt-query-propagation)
+- [From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection](../../conferences/cvpr-2026/cards.md#paper-sequence-track-reward-keypoints)
+- [Consensus vs. Controversy: Mapping the Decision Space Where Architectures Diverge](../../conferences/cvpr-2026/cards.md#paper-architecture-disagreement-tail-diagnostics)
+- [Do Less, Achieve More: Do We Need Every-Step Optimization for RL Fine-tuning of Diffusion Models?](../../conferences/cvpr-2026/cards.md#paper-adaptive-denoising-window-rl-alignment)
+- [Opti-NeuS: Neural Reconstruction for Dual-Layered Transparent and Opaque Objects](../../conferences/cvpr-2026/cards.md#paper-optineus-dual-layer-refraction)
+- [Live Interactive Training for Video Segmentation](../../conferences/cvpr-2026/cards.md#paper-lit-lora-live-correction-learning)
 
 <!-- conference-classification:end -->

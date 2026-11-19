@@ -1483,5 +1483,13 @@ Learning across modalities such as images, text, audio, and video.
 - [FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Alignment](../../conferences/cvpr-2026/cards.md#paper-falcon-negative-scheduler)
 - [Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs](../../conferences/cvpr-2026/cards.md#paper-hpa-continual-alignment-retention)
 - [Explaining CLIP Zero-shot Predictions Through Concepts](../../conferences/cvpr-2026/cards.md#paper-ezpc-zero-shot-concept-projection)
+- [VisionLeaf: Entropy-Guided Leaf-First Reasoning for Efficient and Accurate Think-with-Image](../../conferences/cvpr-2026/cards.md#paper-entropy-frontier-visual-reasoning)
+- [Unified Generation and Self-Verification for Vision-Language Models via Advantage Decoupled Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-decoupled-advantages-shared-generator-verifier)
+- [Towards Calibrating Prompt Tuning of Vision- Language Models](../../conferences/cvpr-2026/cards.md#paper-logit-margin-text-moment-calibration)
+- [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](../../conferences/cvpr-2026/cards.md#paper-scene-graph-difficulty-adaptive-curriculum)
+- [Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach](../../conferences/cvpr-2026/cards.md#paper-flashcache-outlier-kv)
+- [SPOT: Spatiotemporal Prompt Optimization for Motion-Stabilized MLLM-Guided Video Segmentation](../../conferences/cvpr-2026/cards.md#paper-spot-brownian-prompt)
+- [Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-pearl-perception-gated-rewards)
+- [Understanding Task Transfer in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pgf-vision-language-task-transfer-graph)
 
 <!-- conference-classification:end -->

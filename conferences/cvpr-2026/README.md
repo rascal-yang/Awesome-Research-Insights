@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,877 篇，其中 1,817 篇暂收录、1,060 篇排除，另有 1,165 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,907 篇，其中 1,838 篇暂收录、1,069 篇排除，另有 1,135 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1823,3 +1823,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,877
 | 智能体 | 评测设计 | [Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs](cards.md#paper-graph2eval-grounded-task-subgraphs) | 从真实资料之间的关系采样子图，构造答案可追溯的多步智能体任务。 |
 | 多模态学习 | 持续学习 | [Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs](cards.md#paper-hpa-continual-alignment-retention) | 持续调优时分别监测任务遗忘和安全对齐退化，再约束参数更新方向。 |
 | 多模态学习 | 可解释表征 | [Explaining CLIP Zero-shot Predictions Through Concepts](cards.md#paper-ezpc-zero-shot-concept-projection) | 解释零样本分类时，让图像与文本投影到同一概念空间，并检验预测是否保真。 |
+| 计算机视觉 | 训练策略 | [From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection](cards.md#paper-sequence-track-reward-keypoints) | 关键点检测可直接优化跨帧轨迹的长期可跟踪性。 |
+| 计算机视觉 | 评测与诊断 | [Consensus vs. Controversy: Mapping the Decision Space Where Architectures Diverge](cards.md#paper-architecture-disagreement-tail-diagnostics) | 比较视觉架构时可对分歧尾部单独设测试，以免平均准确率掩盖失效差异。 |
+| 多模态学习 | 训练策略 | [VisionLeaf: Entropy-Guided Leaf-First Reasoning for Efficient and Accurate Think-with-Image](cards.md#paper-entropy-frontier-visual-reasoning) | 多轮视觉推理的训练采样可以从不确定前沿续接分支以减少重复前缀。 |
+| 机器人学 | 表征学习 | [SIR: Structured Image Representations for Explainable Robot Learning](cards.md#paper-learned-sparse-object-graphs-for-policy) | 机器人策略可从稠密对象图学习任务相关子图，以压制背景干扰并显式暴露决策输入。 |
+| 多模态学习 | 训练策略 | [Unified Generation and Self-Verification for Vision-Language Models via Advantage Decoupled Preference Optimization](cards.md#paper-decoupled-advantages-shared-generator-verifier) | 同一策略可同时学习作答与验证，通过分别估计 advantage 缓解训练信号相互干扰。 |
+| 多模态学习 | 训练策略 | [Towards Calibrating Prompt Tuning of Vision- Language Models](cards.md#paper-logit-margin-text-moment-calibration) | 图文提示微调可同时约束类别 margin 的均值方差和文本嵌入分布，兼顾置信与迁移。 |
+| 计算机视觉 | 训练策略 | [Do Less, Achieve More: Do We Need Every-Step Optimization for RL Fine-tuning of Diffusion Models?](cards.md#paper-adaptive-denoising-window-rl-alignment) | 生成奖励对齐可集中在高边际收益的去噪阶段，并在奖励改善饱和时停止。 |
+| 多模态学习 | 数据策略 | [Synthetic Curriculum Reinforces Compositional Text-to-Image Generation](cards.md#paper-scene-graph-difficulty-adaptive-curriculum) | 组合能力的课程可以用结构化场景图控制难度，按当前能力采样关系丰富的训练例。 |
+| 多模态学习 | 推理策略 | [Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach](cards.md#paper-flashcache-outlier-kv) | 压缩多模态缓存时同时检查键和值的异常成分，避免删掉对推理重要的低频主体之外的信息。 |
+| 计算机视觉 | 模型架构 | [Opti-NeuS: Neural Reconstruction for Dual-Layered Transparent and Opaque Objects](cards.md#paper-optineus-dual-layer-refraction) | 用空间变化的折射率描述透明表面，再分阶段重建内外两层几何。 |
+| 机器学习基础与统计 | 优化策略 | [Dynamic Important Example Mining for Reinforcement Finetuning](cards.md#paper-diem-gradient-example-mining) | 强化微调按当前训练梯度重新衡量样本价值，同时保持更新尺度。 |
+| 多模态学习 | 损失函数 | [SPOT: Spatiotemporal Prompt Optimization for Motion-Stabilized MLLM-Guided Video Segmentation](cards.md#paper-spot-brownian-prompt) | 约束模型输给下游分割器的提示轨迹，而非重训整个视频感知骨干。 |
+| 机器学习基础与统计 | 训练策略 | [COT-FM: Cluster-wise Optimal Transport Flow Matching](cards.md#paper-cot-fm-cluster-transport) | 当生成流路径过弯时，可按目标数据成簇并为各簇建立近源分布。 |
+| 机器人学 | 模型架构 | [KASALv2: Fully Automatic 3D Rotational Symmetry Classification and Axis Localization](cards.md#paper-kasalv2-symmetry-prior) | 先由形状与纹理自动估计等价旋转，再让姿态训练和评测按对称性处理歧义。 |
+| 多模态学习 | 奖励函数 | [Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning](cards.md#paper-pearl-perception-gated-rewards) | 先验证模型是否识别了关键视觉证据，再给推理奖励，降低猜对答案带来的错误激励。 |
+| 机器人学 | 模型架构 | [Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](cards.md#paper-drive-my-way-dual-preferences) | 将稳定用户习惯编码为长期输入，并用即时语言命令表达短期意图。 |
+| 计算机视觉 | 在线适配 | [Live Interactive Training for Video Segmentation](cards.md#paper-lit-lora-live-correction-learning) | 把用户纠正转化为同一视频后续帧的在线监督，减少反复标注。 |
+| 机器人学 | 动态推理 | [Test-time Sparsity for Extreme Fast Action Diffusion](cards.md#paper-action-diffusion-test-time-residual-sparsity) | 根据当前观测与去噪步选择可跳过的残差计算，并在高稀疏下补偿误差。 |
+| 机器人学 | 主动感知 | [SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics](cards.md#paper-sapave-separate-camera-and-manipulation) | 将主动摄像头动作与操作控制分开训练，再用混合数据联合优化。 |
+| 多模态学习 | 评测设计 | [Understanding Task Transfer in Vision-Language Models](cards.md#paper-pgf-vision-language-task-transfer-graph) | 衡量辅助任务迁移时，按目标剩余提升空间归一化，并报告负迁移。 |
+| 机器人学 | 传感器融合 | [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](cards.md#paper-look-before-fuse-boundary-prealignment) | 融合相机和点云前，用二维边界先定位误差集中区域。 |

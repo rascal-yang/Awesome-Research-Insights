@@ -753,5 +753,8 @@ Model-wide design and information flow.
 - [iSplat: Iterative Learning for Fine-Grained Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-recurrent-uncertainty-guided-gaussian-refinement)
 - [Gyro-based Deep Video Deblurring](../../conferences/cvpr-2026/cards.md#paper-gyrodvd-blur-kernels)
 - [VidEoMT: Your ViT is Secretly Also a Video Segmentation Model](../../conferences/cvpr-2026/cards.md#paper-videomt-query-propagation)
+- [Opti-NeuS: Neural Reconstruction for Dual-Layered Transparent and Opaque Objects](../../conferences/cvpr-2026/cards.md#paper-optineus-dual-layer-refraction)
+- [KASALv2: Fully Automatic 3D Rotational Symmetry Classification and Axis Localization](../../conferences/cvpr-2026/cards.md#paper-kasalv2-symmetry-prior)
+- [Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](../../conferences/cvpr-2026/cards.md#paper-drive-my-way-dual-preferences)
 
 <!-- conference-classification:end -->
