@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 4,017 篇，其中 2,573 篇暂收录、1,444 篇排除，另有 25 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 4,042 篇，其中 2,590 篇暂收录、1,452 篇排除，另有 0 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -2579,3 +2579,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 4,017
 | 机器学习 | 模型合并 | [DC-Merge: Improving Model Merging with Directional Consistency](cards.md#paper-dcmerge-directional-singular-space-consistency) | 合并多任务参数时兼顾中弱奇异方向，避免强能量任务吞没局部能力。 |
 | 高效深度学习 | 稀疏注意力 | [Random Wins All: Rethinking Grouping Strategies for Vision Tokens](cards.md#paper-random-token-grouping-baseline) | 给局部注意分组加随机对照，检验复杂手工选择是否真有价值。 |
 | 多模态学习 | 动态推理 | [R-4B: Incentivizing General-Purpose Auto-Thinking in MLLMs via Bi-Mode Annealing and Reinforce Learning](cards.md#paper-r4b-bi-mode-auto-thinking) | 让同一模型保留直接回答和长推理两种模式，再由双路结果学习何时切换。 |
+| 生成模型 | 课程学习 | [Efficient Training for Human Video Generation with Entropy-Guided Prioritized Progressive Learning](cards.md#paper-entprog-entropy-prioritized-progressive-training) | 按条件生成的重要性挑选先训练的组件，再依据收敛效率提高复杂度。 |
+| 生成模型 | 条件生成 | [CoT-Edit: Let CoT Guide Instruction Video Editing](cards.md#paper-cotedit-explicit-spatial-plan-before-mask) | 先把编辑意图变成带属性和位置的框序列，再局部生成遮罩与执行。 |
+| 多模态学习 | 参数高效适配 | [Sparse Spectral LoRA: Routed Experts for Medical VLMs](cards.md#paper-sparse-spectral-lora-disjoint-expert-initialization) | 用互不重叠的权重谱区间初始化 LoRA 专家，并校准残差和更新尺度。 |
+| 机器学习 | 弱监督学习 | [From Softmax to Dirichlet: Evidential Learning for Semi-supervised Semantic Segmentation](cards.md#paper-hess-dirichlet-evidence-pseudolabels) | 用证据分布的不确定性筛伪标签，避免只用 softmax 置信度。 |
+| 生成模型 | 免训练编辑 | [FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing](cards.md#paper-flowdirector-data-space-video-editing) | 直接在数据空间沿连续流编辑，避免先反演造成外观和运动误差。 |
+| 多模态学习 | 推理策略 | [ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models](cards.md#paper-imageragturbo-one-step) | 少步生成可在去噪前检索相关图文例子，测试能否用外部条件抵消迭代减少。 |
+| 多模态学习 | 推理策略 | [Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](cards.md#paper-nullsteer-benign-subspace-defense) | 在安全干预中保留正常输入的表征子空间，并同时测过度拒绝。 |
+| 计算机视觉 | 模型架构 | [PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding](cards.md#paper-pointtpa-local-parameter-projector) | 场景几何变化时对局部空间块生成小规模适配权重，保持大骨干固定。 |
+| 机器学习基础与统计 | 模型架构 | [Can Natural Image Autoencoders Compactly Tokenize fMRI Volumes for Long-Range Dynamics Modeling?](cards.md#paper-tablet-reused-volume-tokenizer) | 对于高维时序体数据，先测试复用二维自编码器压缩空间，再建模长时间范围。 |
+| 机器人学 | 模型架构 | [Dexterous World Models](cards.md#paper-dwm-scene-hand-conditioning) | 将静态场景观测和第一视角手部运动作为独立条件来合成交互动态。 |
+| 计算机视觉 | 训练策略 | [You Only Erase Once: Erasing Anything without Bringing Unexpected Content](cards.md#paper-yoeo-unpaired-context-constraints) | 无配对擦除训练中显式检测新引入的物体，并用上下文约束补全。 |
+| 计算机视觉 | 模型架构 | [TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens](cards.md#paper-tokengs-learned-gaussian-queries) | 把高斯基元数与像素数解耦，以独立查询直接预测三维坐标。 |
+| 计算机视觉 | 推理策略 | [EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing](cards.md#paper-editmgt-localized-decoding) | 用局部令牌解码修改相关区域，并锁定无需改动的部分。 |
+| 多模态学习 | 评测与诊断 | [World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models](cards.md#paper-culturemix-context-reliance) | 让同一目标保持不变而替换上下文，测试视觉语言模型是否用背景捷径替代识别。 |
+| 高效深度学习 | 模型剪枝 | [NuWa: Deriving Lightweight Class-Specific Vision Transformers for Edge Devices](cards.md#paper-nuwa-class-detrimental-weight-pruning) | 为端侧任务剪枝时区别冗余权重与会妨碍目标类别的权重。 |
+| 机器人学 | 自监督表征 | [SCAPO: Self-Supervised Category-Level Articulated Pose Estimation from a Single 3D Observation](cards.md#paper-scapo-equivariant-canonical-articulation) | 先借等变表征消除全局位姿，再学习规范几何和可用于控制的关节参数。 |
+| 机器人学 | 行动规划 | [E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving](cards.md#paper-e3ad-affective-intent-and-spatial-planning) | 规划时把乘客的连续舒适度或紧急偏好与几何可行性分开编码。 |

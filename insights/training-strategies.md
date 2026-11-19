@@ -1416,5 +1416,9 @@
 - [SelfHVD: Self-Supervised Handheld Video Deblurring](../conferences/cvpr-2026/cards.md#paper-selfhvd-neighbor-sharp-clue-supervision)
 - [SAME: Sparse and Anchored Model Editing for Heterogeneous Incremental Learning under Limited Data](../conferences/cvpr-2026/cards.md#paper-same-double-anchored-editing)
 - [DC-Merge: Improving Model Merging with Directional Consistency](../conferences/cvpr-2026/cards.md#paper-dcmerge-directional-singular-space-consistency)
+- [From Softmax to Dirichlet: Evidential Learning for Semi-supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-hess-dirichlet-evidence-pseudolabels)
+- [FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing](../conferences/cvpr-2026/cards.md#paper-flowdirector-data-space-video-editing)
+- [You Only Erase Once: Erasing Anything without Bringing Unexpected Content](../conferences/cvpr-2026/cards.md#paper-yoeo-unpaired-context-constraints)
+- [SCAPO: Self-Supervised Category-Level Articulated Pose Estimation from a Single 3D Observation](../conferences/cvpr-2026/cards.md#paper-scapo-equivariant-canonical-articulation)
 
 <!-- conference-classification:end -->

@@ -2693,5 +2693,11 @@
 - [MotionV2V: Editing Motion in a Video](../conferences/cvpr-2026/cards.md#paper-motionv2v-counterfactual-sparse-trajectory-edits)
 - [DC-Merge: Improving Model Merging with Directional Consistency](../conferences/cvpr-2026/cards.md#paper-dcmerge-directional-singular-space-consistency)
 - [Random Wins All: Rethinking Grouping Strategies for Vision Tokens](../conferences/cvpr-2026/cards.md#paper-random-token-grouping-baseline)
+- [Efficient Training for Human Video Generation with Entropy-Guided Prioritized Progressive Learning](../conferences/cvpr-2026/cards.md#paper-entprog-entropy-prioritized-progressive-training)
+- [CoT-Edit: Let CoT Guide Instruction Video Editing](../conferences/cvpr-2026/cards.md#paper-cotedit-explicit-spatial-plan-before-mask)
+- [From Softmax to Dirichlet: Evidential Learning for Semi-supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-hess-dirichlet-evidence-pseudolabels)
+- [FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing](../conferences/cvpr-2026/cards.md#paper-flowdirector-data-space-video-editing)
+- [Can Natural Image Autoencoders Compactly Tokenize fMRI Volumes for Long-Range Dynamics Modeling?](../conferences/cvpr-2026/cards.md#paper-tablet-reused-volume-tokenizer)
+- [NuWa: Deriving Lightweight Class-Specific Vision Transformers for Edge Devices](../conferences/cvpr-2026/cards.md#paper-nuwa-class-detrimental-weight-pruning)
 
 <!-- conference-classification:end -->

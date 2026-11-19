@@ -1659,5 +1659,6 @@
 - [TRANSPORTER: Transferring Visual Semantics from VLM Manifolds](../conferences/cvpr-2026/cards.md#paper-transporter-logits-to-video-probing)
 - [SpatialTree: How Spatial Intelligence Branches Out in MLLMs](../conferences/cvpr-2026/cards.md#paper-spatialtree-hierarchical-transfer)
 - [Towards Robust Sequential Decomposition for Complex Image Editing](../conferences/cvpr-2026/cards.md#paper-robust-sequential-editing-decomposition)
+- [World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-culturemix-context-reliance)
 
 <!-- conference-classification:end -->

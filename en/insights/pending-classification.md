@@ -902,5 +902,7 @@
 - [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](../../conferences/cvpr-2026/cards.md#paper-omnivggt-zero-init-optional-geometry-adapters)
 - [Natural Human Motion Recovery by Aligning High-Order Temporal Dynamics from Monocular Videos](../../conferences/cvpr-2026/cards.md#paper-htdrefine-velocity-acceleration-constraints)
 - [OptiMVMap: Offline Vectorized Map Construction via Optimal Multi-vehicle Perspectives](../../conferences/cvpr-2026/cards.md#paper-optimvmap-select-complementary-cooperative-views)
+- [Efficient Training for Human Video Generation with Entropy-Guided Prioritized Progressive Learning](../../conferences/cvpr-2026/cards.md#paper-entprog-entropy-prioritized-progressive-training)
+- [Sparse Spectral LoRA: Routed Experts for Medical VLMs](../../conferences/cvpr-2026/cards.md#paper-sparse-spectral-lora-disjoint-expert-initialization)
 
 <!-- conference-classification:end -->

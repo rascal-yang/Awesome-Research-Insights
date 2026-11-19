@@ -1210,5 +1210,8 @@
 - [GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation](../conferences/cvpr-2026/cards.md#paper-gavln-explicit-implicit-geometry)
 - [Context-Nav: Context-Driven Exploration and Viewpoint-Aware 3D Spatial Reasoning for Instance Navigation](../conferences/cvpr-2026/cards.md#paper-contextnav-viewpoint-aware-instance-verification)
 - [OptiMVMap: Offline Vectorized Map Construction via Optimal Multi-vehicle Perspectives](../conferences/cvpr-2026/cards.md#paper-optimvmap-select-complementary-cooperative-views)
+- [Dexterous World Models](../conferences/cvpr-2026/cards.md#paper-dwm-scene-hand-conditioning)
+- [SCAPO: Self-Supervised Category-Level Articulated Pose Estimation from a Single 3D Observation](../conferences/cvpr-2026/cards.md#paper-scapo-equivariant-canonical-articulation)
+- [E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-e3ad-affective-intent-and-spatial-planning)
 
 <!-- conference-classification:end -->

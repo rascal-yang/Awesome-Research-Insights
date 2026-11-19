@@ -1728,5 +1728,9 @@
 - [SpatialTree: How Spatial Intelligence Branches Out in MLLMs](../conferences/cvpr-2026/cards.md#paper-spatialtree-hierarchical-transfer)
 - [Towards Robust Sequential Decomposition for Complex Image Editing](../conferences/cvpr-2026/cards.md#paper-robust-sequential-editing-decomposition)
 - [R-4B: Incentivizing General-Purpose Auto-Thinking in MLLMs via Bi-Mode Annealing and Reinforce Learning](../conferences/cvpr-2026/cards.md#paper-r4b-bi-mode-auto-thinking)
+- [Sparse Spectral LoRA: Routed Experts for Medical VLMs](../conferences/cvpr-2026/cards.md#paper-sparse-spectral-lora-disjoint-expert-initialization)
+- [ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models](../conferences/cvpr-2026/cards.md#paper-imageragturbo-one-step)
+- [Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-nullsteer-benign-subspace-defense)
+- [World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-culturemix-context-reliance)
 
 <!-- conference-classification:end -->

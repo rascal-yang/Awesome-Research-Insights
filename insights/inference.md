@@ -1782,5 +1782,11 @@
 - [QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer](../conferences/cvpr-2026/cards.md#paper-qvggt-block-sensitive-mixed-precision)
 - [MotionV2V: Editing Motion in a Video](../conferences/cvpr-2026/cards.md#paper-motionv2v-counterfactual-sparse-trajectory-edits)
 - [R-4B: Incentivizing General-Purpose Auto-Thinking in MLLMs via Bi-Mode Annealing and Reinforce Learning](../conferences/cvpr-2026/cards.md#paper-r4b-bi-mode-auto-thinking)
+- [CoT-Edit: Let CoT Guide Instruction Video Editing](../conferences/cvpr-2026/cards.md#paper-cotedit-explicit-spatial-plan-before-mask)
+- [ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models](../conferences/cvpr-2026/cards.md#paper-imageragturbo-one-step)
+- [Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-nullsteer-benign-subspace-defense)
+- [EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing](../conferences/cvpr-2026/cards.md#paper-editmgt-localized-decoding)
+- [NuWa: Deriving Lightweight Class-Specific Vision Transformers for Edge Devices](../conferences/cvpr-2026/cards.md#paper-nuwa-class-detrimental-weight-pruning)
+- [E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-e3ad-affective-intent-and-spatial-planning)
 
 <!-- conference-classification:end -->

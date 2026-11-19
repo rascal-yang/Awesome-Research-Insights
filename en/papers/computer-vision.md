@@ -1767,5 +1767,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [SelfHVD: Self-Supervised Handheld Video Deblurring](../../conferences/cvpr-2026/cards.md#paper-selfhvd-neighbor-sharp-clue-supervision)
 - [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](../../conferences/cvpr-2026/cards.md#paper-omnivggt-zero-init-optional-geometry-adapters)
 - [STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-stac-streaming-3d-cache)
+- [PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding](../../conferences/cvpr-2026/cards.md#paper-pointtpa-local-parameter-projector)
+- [You Only Erase Once: Erasing Anything without Bringing Unexpected Content](../../conferences/cvpr-2026/cards.md#paper-yoeo-unpaired-context-constraints)
+- [TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens](../../conferences/cvpr-2026/cards.md#paper-tokengs-learned-gaussian-queries)
+- [EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing](../../conferences/cvpr-2026/cards.md#paper-editmgt-localized-decoding)
 
 <!-- conference-classification:end -->

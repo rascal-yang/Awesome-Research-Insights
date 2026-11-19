@@ -38596,3 +38596,258 @@
 - **适用条件 / 局限** · 复杂度感知依赖训练分布，容易低估视觉模糊或高风险的短问题。
 
 **可复用机制** · 让同一模型保留直接回答和长推理两种模式，再由双路结果学习何时切换。
+
+<a id="paper-entprog-entropy-prioritized-progressive-training"></a>
+
+## Efficient Training for Human Video Generation with Entropy-Guided Prioritized Progressive Learning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Efficient_Training_for_Human_Video_Generation_with_Entropy-Guided_Prioritized_Progressive_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Efficient_Training_for_Human_Video_Generation_with_Entropy-Guided_Prioritized_Progressive_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高分辨率多帧训练成本高，固定复杂度日程难反映模型当前收敛。
+- **核心创新 / 方法** · 以条件熵变化估计组件重要性并排序，按收敛效率逐步增加训练复杂度。
+- **Baseline** · 与原训练和其他提效日程比较。
+- **Benchmark** · Bilibili 人体视频，测 PSNR、SSIM、LPIPS、FID、显存和实际用时。
+- **关键结果 / 消融** · 表 1 所列 Ent-Prog 配置训练速度为原设置的 2.17 倍，并列出重建和生成质量。
+- **适用条件 / 局限** · 熵和收敛代理未必反映运动表现，跨任务需重新测日程与成本。
+
+**可复用机制** · 按条件生成的重要性挑选先训练的组件，再依据收敛效率提高复杂度。
+
+<a id="paper-cotedit-explicit-spatial-plan-before-mask"></a>
+
+## CoT-Edit: Let CoT Guide Instruction Video Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liang_CoT-Edit_Let_CoT_Guide_Instruction_Video_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liang_CoT-Edit_Let_CoT_Guide_Instruction_Video_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 文字未指定清晰空间约束时，通用编辑器可能改错对象或导致不合理接触。
+- **核心创新 / 方法** · 用多模态模型按视频和指令规划框及编辑指令，以框条件生成遮罩后再编辑。
+- **Baseline** · 对比其他指令视频编辑器及规划和遮罩变体。
+- **Benchmark** · 正文用 FVD、VBench 比较画质与时序，并用 Gemini 核对空间和物理约束。
+- **关键结果 / 消融** · 表 1 区分指令遵守、空间关系和物理合理性，避免只测画质。
+- **适用条件 / 局限** · 框定位不准会传到遮罩，自动评价器自身的空间偏差也需复核。
+
+**可复用机制** · 先把编辑意图变成带属性和位置的框序列，再局部生成遮罩与执行。
+
+<a id="paper-sparse-spectral-lora-disjoint-expert-initialization"></a>
+
+## Sparse Spectral LoRA: Routed Experts for Medical VLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Nejatimanzari_Sparse_Spectral_LoRA_Routed_Experts_for_Medical_VLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Nejatimanzari_Sparse_Spectral_LoRA_Routed_Experts_for_Medical_VLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 异构监督会相互干扰，持续调整同组参数容易遗忘。
+- **核心创新 / 方法** · 从预训练权重的不同奇异分解区间初始化专家，结合稀疏路由及残差补偿。
+- **Baseline** · 对比通用和医学视觉语言模型及不同适配方式。
+- **Benchmark** · 正文医学视觉理解，区分封闭和开放问题设置。
+- **关键结果 / 消融** · 表 1 分题型和模型比较，另检验混合及顺序训练。
+- **适用条件 / 局限** · 簇的任务相关性和谱划分影响结果，替换底座时需重测。
+
+**可复用机制** · 用互不重叠的权重谱区间初始化 LoRA 专家，并校准残差和更新尺度。
+
+<a id="paper-hess-dirichlet-evidence-pseudolabels"></a>
+
+## From Softmax to Dirichlet: Evidential Learning for Semi-supervised Semantic Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mai_From_Softmax_to_Dirichlet_Evidential_Learning_for_Semi-supervised_Semantic_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mai_From_Softmax_to_Dirichlet_Evidential_Learning_for_Semi-supervised_Semantic_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 过置信分割会把错误伪标签带入训练。
+- **核心创新 / 方法** · 用 Dirichlet 描述类别概率，并以 HESS 分解排他和集合证据。
+- **Baseline** · 与仅有标注训练及既有半监督分割方法比较。
+- **Benchmark** · Pascal 高质量子集，按 1/16、1/8、1/4、1/2 和全标注比例测 mIoU。
+- **关键结果 / 消融** · 表 1 比较不同标注预算的稠密分类结果。
+- **适用条件 / 局限** · 不确定性估计依赖分布假设，面对新类或系统性偏差仍需核验。
+
+**可复用机制** · 用证据分布的不确定性筛伪标签，避免只用 softmax 置信度。
+
+<a id="paper-flowdirector-data-space-video-editing"></a>
+
+## FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_FlowDirector_Training-Free_Flow_Steering_for_Precise_Text-to-Video_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_FlowDirector_Training-Free_Flow_Steering_for_Precise_Text-to-Video_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 现有免训练视频编辑将反演误差带入后续重建，影响一致性。
+- **核心创新 / 方法** · 用 ODE 直接演化视频状态，并对外观和运动等信号分别校正流。
+- **Baseline** · 比较已有反演式及免训练编辑基线。
+- **Benchmark** · 41、81 帧，评 PickScore、CLIP-T、CLIP-F、WarpSSIM 和 Qedit。
+- **关键结果 / 消融** · 表 1 按两种长度对照文本、外观和时序相关指标。
+- **适用条件 / 局限** · 所需编辑若跳出原有几何或运动流形，直接校正可能不够。
+
+**可复用机制** · 直接在数据空间沿连续流编辑，避免先反演造成外观和运动误差。
+
+<a id="paper-imageragturbo-one-step"></a>
+
+## ImageRAGTurbo: Towards One-step Text-to-Image Generation with Retrieval-Augmented Diffusion Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Qiu_ImageRAGTurbo_Towards_One-step_Text-to-Image_Generation_with_Retrieval-Augmented_Diffusion_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Qiu_ImageRAGTurbo_Towards_One-step_Text-to-Image_Generation_with_Retrieval-Augmented_Diffusion_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一步扩散经常损失画质和提示对齐。
+- **核心创新 / 方法** · ImageRAGTurbo 将检索图文对作为去噪器条件，并做高效微调。
+- **Baseline** · 比较无检索的一步及少步生成。
+- **Benchmark** · 正文文生图质量、提示一致与计算比较。
+- **关键结果 / 消融** · 论文报告检索条件对低步生成有益。
+- **适用条件 / 局限** · 检索延迟、数据覆盖及近重复内容需要另外量测。
+
+**可复用机制** · 少步生成可在去噪前检索相关图文例子，测试能否用外部条件抵消迭代减少。
+
+<a id="paper-nullsteer-benign-subspace-defense"></a>
+
+## Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_Principled_Steering_via_Null-space_Projection_for_Jailbreak_Defense_in_Vision-Language_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_Principled_Steering_via_Null-space_Projection_for_Jailbreak_Defense_in_Vision-Language_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单一拒答方向可能影响正常任务。
+- **核心创新 / 方法** · NullSteer 应用保持正常子空间的零空间投影，调整安全方向。
+- **Baseline** · 比较激活引导防护和无防护模型。
+- **Benchmark** · 正文跨 VLM 的安全与正常用途评估。
+- **关键结果 / 消融** · 表1、2分别报告防护和效用。
+- **适用条件 / 局限** · 正常子空间依赖代表性数据，新任务需校验过度拒绝。
+
+**可复用机制** · 在安全干预中保留正常输入的表征子空间，并同时测过度拒绝。
+
+<a id="paper-pointtpa-local-parameter-projector"></a>
+
+## PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_PointTPA_Dynamic_Network_Parameter_Adaptation_for_3D_Scene_Understanding_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_PointTPA_Dynamic_Network_Parameter_Adaptation_for_3D_Scene_Understanding_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定参数不易适配场景级点云的局部几何与稀有类别。
+- **核心创新 / 方法** · PointTPA 序列化邻域组块，再以投影器生成自适应权重。
+- **Baseline** · 在 PTv3 上对照静态网络和选择性插入模块。
+- **Benchmark** · ScanNet、S3DIS、ScanNet++，并报参与训练的参数。
+- **关键结果 / 消融** · 正文比较不同场景和解码器设置。
+- **适用条件 / 局限** · 块划分可能割裂小结构，密度不均和传感变化需验证。
+
+**可复用机制** · 场景几何变化时对局部空间块生成小规模适配权重，保持大骨干固定。
+
+<a id="paper-tablet-reused-volume-tokenizer"></a>
+
+## Can Natural Image Autoencoders Compactly Tokenize fMRI Volumes for Long-Range Dynamics Modeling?
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Can_Natural_Image_Autoencoders_Compactly_Tokenize_fMRI_Volumes_for_Long-Range_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Can_Natural_Image_Autoencoders_Compactly_Tokenize_fMRI_Volumes_for_Long-Range_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 4D 体素表示占内存，时间上下文因此被缩短。
+- **核心创新 / 方法** · TABLeT 用自然图像预训练自编码器压缩各三维体数据，再用普通 Transformer。
+- **Baseline** · 比较体素序列基线及随机训练与掩码预训练。
+- **Benchmark** · UK-Biobank、HCP、ADHD-200 上的回归与分类及资源使用。
+- **关键结果 / 消融** · 正文报告多任务与长序列效率比较。
+- **适用条件 / 局限** · 二维编码可能损失轴间关系或细粒度信号，迁移需校验重建和任务指标。
+
+**可复用机制** · 对于高维时序体数据，先测试复用二维自编码器压缩空间，再建模长时间范围。
+
+<a id="paper-dwm-scene-hand-conditioning"></a>
+
+## Dexterous World Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_Dexterous_World_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_Dexterous_World_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态数字孪生能渲染但难表达动作导致的环境变化。
+- **核心创新 / 方法** · DWM 以给定相机轨迹的场景渲染和时变手网格约束视频扩散。
+- **Baseline** · 比较既有方法以及不同真实和合成训练构成。
+- **Benchmark** · 正文合成、真实场景的动作条件视频。
+- **关键结果 / 消融** · 表1、2比较输出一致性以及真实数据贡献。
+- **适用条件 / 局限** · 可视运动不等于接触成功，真实状态及跨机器人本体需验证。
+
+**可复用机制** · 将静态场景观测和第一视角手部运动作为独立条件来合成交互动态。
+
+<a id="paper-yoeo-unpaired-context-constraints"></a>
+
+## You Only Erase Once: Erasing Anything without Bringing Unexpected Content
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhu_You_Only_Erase_Once_Erasing_Anything_without_Bringing_Unexpected_Content_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhu_You_Only_Erase_Once_Erasing_Anything_without_Bringing_Unexpected_Content_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 只靠生成式修补容易在擦除区创造新对象。
+- **核心创新 / 方法** · YOEO 基于实体分割构造异常内容检测和上下文一致性损失，再蒸馏为少步。
+- **Baseline** · 对照 Stable Diffusion 1.5、Flux 等骨干上的既有擦除。
+- **Benchmark** · 正文物体擦除、上下文保真及消融。
+- **关键结果 / 消融** · 正文报告比较与非配对数据消融。
+- **适用条件 / 局限** · 掩膜和检测器未知类别会影响纠错，擦除结果不等于实测背景。
+
+**可复用机制** · 无配对擦除训练中显式检测新引入的物体，并用上下文约束补全。
+
+<a id="paper-tokengs-learned-gaussian-queries"></a>
+
+## TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ren_TokenGS_Decoupling_3D_Gaussian_Prediction_from_Pixels_with_Learnable_Tokens_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ren_TokenGS_Decoupling_3D_Gaussian_Prediction_from_Pixels_with_Learnable_Tokens_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 沿像素射线回归深度会依赖姿态准确及视图共识，基元数也随输入增长。
+- **核心创新 / 方法** · TokenGS 用编解码器和可学习高斯令牌，仅靠渲染损失回归三维中心。
+- **Baseline** · 比较像素对齐前馈基线，另测试令牌空间适配。
+- **Benchmark** · 正文双视角及多种视图设置的静态和动态重建。
+- **关键结果 / 消融** · 论文报告姿态噪声与不一致条件下效果，并比较几何规律性。
+- **适用条件 / 局限** · 基元预算影响细节，动态遮挡和长程地图仍需测试。
+
+**可复用机制** · 把高斯基元数与像素数解耦，以独立查询直接预测三维坐标。
+
+<a id="paper-editmgt-localized-decoding"></a>
+
+## EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chow_EditMGT_Unleashing_Potentials_of_Masked_Generative_Transformers_in_Image_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chow_EditMGT_Unleashing_Potentials_of_Masked_Generative_Transformers_in_Image_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全图扩散去噪可能改变编辑区以外的像素。
+- **核心创新 / 方法** · EditMGT 由交叉注意力确定相关区域，仅重建被掩码令牌。
+- **Baseline** · 比较扩散式和现有局部指令编辑方法。
+- **Benchmark** · EMU Edit、MagicBrush 和 GEdit-EN-full。
+- **关键结果 / 消融** · 正文报告局部编辑和泛化表现。
+- **适用条件 / 局限** · 依赖定位准确，涉及全局光照或长程关系的指令需要另设条件。
+
+**可复用机制** · 用局部令牌解码修改相关区域，并锁定无需改动的部分。
+
+<a id="paper-culturemix-context-reliance"></a>
+
+## World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_World_in_a_Frame_Understanding_Culture_Mixing_as_a_New_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_World_in_a_Frame_Understanding_Culture_Mixing_as_a_New_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 在混合文化元素下，模型可能改变对同一对象的判断。
+- **核心创新 / 方法** · CultureMix 以对象及背景是否混合构造四类受控问答。
+- **Baseline** · 比较十种视觉语言模型及相同对象的无背景对照。
+- **Benchmark** · 23K 人工核验合成食品问答，覆盖四种组合。
+- **关键结果 / 消融** · 加入文化背景后，正文报告准确率下降14%，同一目标的答案也会变。
+- **适用条件 / 局限** · 标签和合成图可能带文化偏差，真实混合场景需独立核验。
+
+**可复用机制** · 让同一目标保持不变而替换上下文，测试视觉语言模型是否用背景捷径替代识别。
+
+<a id="paper-nuwa-class-detrimental-weight-pruning"></a>
+
+## NuWa: Deriving Lightweight Class-Specific Vision Transformers for Edge Devices
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wei_NuWa_Deriving_Lightweight_Class-Specific_Vision_Transformers_for_Edge_Devices_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_NuWa_Deriving_Lightweight_Class-Specific_Vision_Transformers_for_Edge_Devices_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全类别 ViT 的压缩可能保留干扰目标类别的特征，仅更换校准数据也不足以消除。
+- **核心创新 / 方法** · 根据目标类别与性能影响识别可移除权重，为不同端侧预算导出专用模型。
+- **Baseline** · 比较 DeiT 基础模型、需训练的剪枝方法与相应微调变体。
+- **Benchmark** · 正文对多个 DeiT 规模和目标类别设置比较准确率与压缩配置。
+- **关键结果 / 消融** · 表 1 分列相对 DeiT-Base 的变化，支持检查剪枝后目标类表现是否反而提高。
+- **适用条件 / 局限** · 需要稳定的目标类别范围，部署任务扩展后应重新检查被删能力。
+
+**可复用机制** · 为端侧任务剪枝时区别冗余权重与会妨碍目标类别的权重。
+
+<a id="paper-scapo-equivariant-canonical-articulation"></a>
+
+## SCAPO: Self-Supervised Category-Level Articulated Pose Estimation from a Single 3D Observation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_SCAPO_Self-Supervised_Category-Level_Articulated_Pose_Estimation_from_a_Single_3D_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_SCAPO_Self-Supervised_Category-Level_Articulated_Pose_Estimation_from_a_Single_3D_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单个 RGB-D 观测下，部件几何、物体整体位姿和关节运动容易混淆。
+- **核心创新 / 方法** · 使用 SE(3) 等变向量神经元编码器对齐规范空间，以关节感知蒙皮、循环重建和跨空间对齐学习。
+- **Baseline** · 比较需要标签、模板或额外观测的关节物体估计方案。
+- **Benchmark** · HOI4D、Shape2Motion，报告部件 IoU、关节轴及支点误差、部件旋转和平移误差。
+- **关键结果 / 消融** · 表 1 以同协议报告不同监督需求和关节估计误差。
+- **适用条件 / 局限** · 单视角不可见部件、对称结构和未出现的运动类型仍存在辨识歧义。
+
+**可复用机制** · 先借等变表征消除全局位姿，再学习规范几何和可用于控制的关节参数。
+
+<a id="paper-e3ad-affective-intent-and-spatial-planning"></a>
+
+## E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_E3AD_An_Emotion-Aware_Vision-Language-Action_Model_for_Human-Centric_End-to-End_Autonomous_Driving_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_E3AD_An_Emotion-Aware_Vision-Language-Action_Model_for_Human-Centric_End-to-End_Autonomous_Driving_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 自由指令除了动作语义还含紧急或舒适意图，单纯文本解析可能忽略偏好。
+- **核心创新 / 方法** · 用连续效价、唤醒度和支配感表征语言情绪，通过自车与全局视角双路推理，并用偏好对齐训练。
+- **Baseline** · 与 A*-ROL 等端到端或规划基线比较。
+- **Benchmark** · OD-E2E 驾驶任务，报告 ADE、Fréchet、DTW、FDE 和规划准确等指标。
+- **关键结果 / 消融** · 表 1 以多个轨迹距离指标比较端到端计划，正文另分析偏好设计。
+- **适用条件 / 局限** · 语言情绪推断可能受用户表达差异影响，舒适偏好与硬性安全约束需分别验证。
+
+**可复用机制** · 规划时把乘客的连续舒适度或紧急偏好与几何可行性分开编码。
