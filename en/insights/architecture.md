@@ -583,5 +583,9 @@ Model-wide design and information flow.
 - [Temporal Interaction in Spiking Transformers with Multi-Delay Mixer](../../conferences/cvpr-2026/cards.md#paper-md-mixer-spiking-temporal-delays)
 - [Efficient Equivariant Transformer for Self-Driving Agent Modeling](../../conferences/cvpr-2026/cards.md#paper-drivegatr)
 - [DREAM: Document Recognition with Explicit Adaptive Memory](../../conferences/cvpr-2026/cards.md#paper-dream-prototype-memory)
+- [FARMER: Flow AutoRegressive Transformer over Pixels](../../conferences/cvpr-2026/cards.md#paper-farmer-likelihood-latent-partition)
+- [FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting](../../conferences/cvpr-2026/cards.md#paper-fov-net)
+- [VideoCoF: Unified Video Editing with Temporal Reasoner](../../conferences/cvpr-2026/cards.md#paper-videocof)
+- [PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection](../../conferences/cvpr-2026/cards.md#paper-paq-detr)
 
 <!-- conference-classification:end -->

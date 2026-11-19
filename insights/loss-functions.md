@@ -391,5 +391,6 @@
 - [Rectifying Latent Space for Generative Single-Image Reflection Removal](../conferences/cvpr-2026/cards.md#paper-reflection-equivariant-latents)
 - [Learning Diffeomorphism for Medical Image Registration with Time-Embedded Architectures Using Semigroup Regularization](../conferences/cvpr-2026/cards.md#paper-sgdir)
 - [Twin-T & TwintVQA: A Reliable Structure-Detail Separating VLM and a Comprehensive Benchmark for Chart and Table Tasks](../conferences/cvpr-2026/cards.md#paper-twin-t-structure-detail)
+- [A Faster Path to Continual Learning](../conferences/cvpr-2026/cards.md#paper-c-flat-turbo)
 
 <!-- conference-classification:end -->

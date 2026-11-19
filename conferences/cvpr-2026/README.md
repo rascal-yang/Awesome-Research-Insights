@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 417 篇，其中 292 篇暂收录、125 篇排除，另有 3,625 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 447 篇，其中 311 篇暂收录、136 篇排除，另有 3,595 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -298,3 +298,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 417 �
 | 机器人学 | 表示学习 | [LASAR: Towards Spatio-temporal Reasoning with Latent Cognitive Map](cards.md#paper-lasar-cognitive-map) | 训练导航智能体时分开存情节记忆和语义地图，再用关系对比目标直接约束地图。 |
 | 多模态学习 | 模型架构 | [DREAM: Document Recognition with Explicit Adaptive Memory](cards.md#paper-dream-prototype-memory) | 文档识别反复遇到相似版式时，可为局部视觉块添加多尺度原型记忆。 |
 | 多模态学习 | 推理优化 | [YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal](cards.md#paper-yose-essential-tokens) | 局部视频编辑只计算掩码内关键 token，并用低成本路径近似掩码外上下文影响。 |
+| 多模态学习 | 训练策略 | [Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions](cards.md#paper-geoint-verified-auxiliary-geometry) | 视觉几何证明可把辅助构造作为程序可验的中间步骤，并单独比较需要与不需要辅助线的题。见表 3–4。 |
+| 机器人学 | 表征学习 | [Geometric Neural Distance Fields for Learning Human Motion Priors](cards.md#paper-nrmf-motion-distance-fields) | 拟合含噪或局部人体运动可把旋转、速度和加速度分别作为可投影的几何先验，并同时测位置和运动误差。见表 1–3。 |
+| 计算机视觉 | 模型架构 | [FARMER: Flow AutoRegressive Transformer over Pixels](cards.md#paper-farmer-likelihood-latent-partition) | 可逆像素生成可把信息性潜通道与冗余通道拆开建模，在显式似然与自回归计算之间做比较。见表 2。 |
+| 多模态学习 | 强化学习方法 | [CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning](cards.md#paper-cccaption-symmetric-visual-rewards) | 描述生成奖励可分开计来自图像的事实覆盖和来自文本的事实真实性，避免单边奖励鼓励遗漏或编造。见表 2–3。 |
+| 计算机视觉 | 训练策略 | [LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation](cards.md#paper-linvideo-selective-linear-attention) | 后训练转换视频注意力时可逐步选择容易替换的层，同时让学生在不同去噪时刻贴近教师。见表 3–4。 |
+| 机器人学 | 表征学习 | [Probing and Bridging Geometry-Interaction Cues for Affordance Reasoning in Vision Foundation Models](cards.md#paper-affordance-geometry-interaction-probing) | 无动作标签的可供性定位可把部件几何和动词条件热图作为两路证据，再与单路探针对照。见表 2。 |
+| 机器人学 | 表征学习 | [Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation](cards.md#paper-vita-shared-action-vision-latents) | 机器人策略可测试让动作与未来图像共用离散词元，并用同一分段的两路监督对照仅动作目标。见 §4 与消融。 |
+| 机器学习基础与统计 | 优化算法 | [The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery](cards.md#paper-eagc-gcd) | 混合有标注与无标注目标时诊断梯度纠缠，再调无标注更新方向。 |
+| 计算机视觉 | 训练策略 | [MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator](cards.md#paper-matanyone2-mqe) | 把像素级质量评估器同时用于在线监督和离线筛标签，分别验收边缘质量收益。 |
+| 多模态学习 | 训练策略 | [VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](cards.md#paper-vold) | 用纯文本教师在线蒸馏视觉语言策略前，先检查学生是否与教师输出分布对齐。 |
+| 计算机视觉 | 模型架构 | [FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting](cards.md#paper-fov-net) | 通过面局部坐标系表达边界表示，并用局部射线保留全局几何；评测须包含任意三维旋转。 |
+| 计算机视觉 | 模型架构 | [VideoCoF: Unified Video Editing with Temporal Reasoner](cards.md#paper-videocof) | 复杂视频编辑先生成定位表征再出成片，比较是否比无定位的时序生成更能保护非目标区域。 |
+| 机器学习基础与统计 | 训练策略 | [Scaling-Aware Data Selection for End-to-End Autonomous Driving Systems](cards.md#paper-mosaic-scaling-aware-selection) | 数据采集可按域拟合多个指标的规模曲线，再用边际收益确定下一批选择。 |
+| 机器学习基础 | 损失函数与优化 | [A Faster Path to Continual Learning](cards.md#paper-c-flat-turbo) | 当平坦度优化的梯度方向可复用时，跨扰动步骤共享计算，并随任务逐渐加大复用步。 |
+| 机器学习基础 | 知识蒸馏 | [HAD: Heterogeneity-Aware Distillation for Lifelong Heterogeneous Learning](cards.md#paper-heterogeneity-aware-distillation) | 连续训练异构密集任务时，按每项输出分布平衡蒸馏，同时保护显著边界。 |
+| 计算机视觉 | 模型架构 | [PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection](cards.md#paper-paq-detr) | 集合预测中固定查询利用率偏斜时，用少量共享模式组合按图生成查询，再按分类定位匹配质量分配正例。 |
+| 多模态学习 | 评测与分析 | [VCU-Bridge: Hierarchical Visual Connotation Understanding via Semantic Bridging](cards.md#paper-vcu-bridge) | 诊断抽象视觉推理时，把低层观察、中间语义和抽象结论标注为可追踪链，并测试低层训练能否向上传导。 |
+| 多模态学习 | 强化学习 | [Seeing What Matters: Visual Preference Policy Optimization for Visual Generation](cards.md#paper-vipo-visual-advantages) | 视觉生成后训练可把整图或整段标量优势分配为局部优势，以强调感知重要区域。 |
+| 计算机视觉 | 表示学习 | [Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis](cards.md#paper-motion-3-to-4) | 从单目视频重建动态资产时，把静态网格生成与逐顶点时序变形分开建模。 |

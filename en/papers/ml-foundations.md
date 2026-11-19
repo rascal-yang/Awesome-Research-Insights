@@ -2302,5 +2302,9 @@ General learning methods, optimization, learning theory, and inference.
 - [Deconstructing the Failure of Ideal Noise Correction: A Three-Pillar Diagnosis](../../conferences/cvpr-2026/cards.md#paper-ideal-noise-correction-failure)
 - [Efficient Equivariant Transformer for Self-Driving Agent Modeling](../../conferences/cvpr-2026/cards.md#paper-drivegatr)
 - [Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for Enhanced Temporal Spiking Features](../../conferences/cvpr-2026/cards.md#paper-tre-spiking)
+- [The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-eagc-gcd)
+- [Scaling-Aware Data Selection for End-to-End Autonomous Driving Systems](../../conferences/cvpr-2026/cards.md#paper-mosaic-scaling-aware-selection)
+- [A Faster Path to Continual Learning](../../conferences/cvpr-2026/cards.md#paper-c-flat-turbo)
+- [HAD: Heterogeneity-Aware Distillation for Lifelong Heterogeneous Learning](../../conferences/cvpr-2026/cards.md#paper-heterogeneity-aware-distillation)
 
 <!-- conference-classification:end -->

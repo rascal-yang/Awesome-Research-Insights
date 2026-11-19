@@ -681,5 +681,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Solving Minimal Problems Without Matrix Inversion Using FFT-Based Interpolation](../../conferences/cvpr-2026/cards.md#paper-fft-minimal-polynomial-solvers)
 - [Globally Optimal Pose from Orthographic Silhouettes](../../conferences/cvpr-2026/cards.md#paper-orthographic-silhouette-pose-search)
 - [Task-Driven Implicit Representations for Automated Design of LiDAR Systems](../../conferences/cvpr-2026/cards.md#paper-implicit-lidar-design)
+- [The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-eagc-gcd)
 
 <!-- conference-classification:end -->

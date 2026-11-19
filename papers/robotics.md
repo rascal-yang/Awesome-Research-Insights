@@ -873,5 +873,8 @@
 - [Task-Driven Implicit Representations for Automated Design of LiDAR Systems](../conferences/cvpr-2026/cards.md#paper-implicit-lidar-design)
 - [Paparazzo: Active Mapping of Moving 3D Objects](../conferences/cvpr-2026/cards.md#paper-paparazzo)
 - [LASAR: Towards Spatio-temporal Reasoning with Latent Cognitive Map](../conferences/cvpr-2026/cards.md#paper-lasar-cognitive-map)
+- [Geometric Neural Distance Fields for Learning Human Motion Priors](../conferences/cvpr-2026/cards.md#paper-nrmf-motion-distance-fields)
+- [Probing and Bridging Geometry-Interaction Cues for Affordance Reasoning in Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-affordance-geometry-interaction-probing)
+- [Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation](../conferences/cvpr-2026/cards.md#paper-vita-shared-action-vision-latents)
 
 <!-- conference-classification:end -->

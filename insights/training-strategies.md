@@ -942,5 +942,11 @@
 - [Temporal Representation Enhancement (TRE): Learning to Forget Dominant Patterns for Enhanced Temporal Spiking Features](../conferences/cvpr-2026/cards.md#paper-tre-spiking)
 - [Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding](../conferences/cvpr-2026/cards.md#paper-chorus-3dgs)
 - [Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-rewis3d)
+- [Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions](../conferences/cvpr-2026/cards.md#paper-geoint-verified-auxiliary-geometry)
+- [LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation](../conferences/cvpr-2026/cards.md#paper-linvideo-selective-linear-attention)
+- [MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator](../conferences/cvpr-2026/cards.md#paper-matanyone2-mqe)
+- [VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](../conferences/cvpr-2026/cards.md#paper-vold)
+- [Scaling-Aware Data Selection for End-to-End Autonomous Driving Systems](../conferences/cvpr-2026/cards.md#paper-mosaic-scaling-aware-selection)
+- [HAD: Heterogeneity-Aware Distillation for Lifelong Heterogeneous Learning](../conferences/cvpr-2026/cards.md#paper-heterogeneity-aware-distillation)
 
 <!-- conference-classification:end -->

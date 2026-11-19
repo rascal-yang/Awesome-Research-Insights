@@ -1062,5 +1062,12 @@
 - [Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding](../conferences/cvpr-2026/cards.md#paper-chorus-3dgs)
 - [Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-rewis3d)
 - [Portable Active Learning for Object Detection](../conferences/cvpr-2026/cards.md#paper-portable-active-learning-detection)
+- [FARMER: Flow AutoRegressive Transformer over Pixels](../conferences/cvpr-2026/cards.md#paper-farmer-likelihood-latent-partition)
+- [LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation](../conferences/cvpr-2026/cards.md#paper-linvideo-selective-linear-attention)
+- [MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator](../conferences/cvpr-2026/cards.md#paper-matanyone2-mqe)
+- [FoV-Net: Rotation-Invariant CAD B-rep Learning via Field-of-View Ray Casting](../conferences/cvpr-2026/cards.md#paper-fov-net)
+- [VideoCoF: Unified Video Editing with Temporal Reasoner](../conferences/cvpr-2026/cards.md#paper-videocof)
+- [PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection](../conferences/cvpr-2026/cards.md#paper-paq-detr)
+- [Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis](../conferences/cvpr-2026/cards.md#paper-motion-3-to-4)
 
 <!-- conference-classification:end -->

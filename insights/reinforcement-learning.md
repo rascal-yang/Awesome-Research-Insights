@@ -744,5 +744,7 @@
 - [NIL: No-data Imitation Learning](../conferences/cvpr-2026/cards.md#paper-no-data-imitation-learning)
 - [MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-moe-grpo-routing)
 - [Fine-Grained GRPO for Precise Preference Alignment in Flow Models](../conferences/cvpr-2026/cards.md#paper-g2rpo-stepwise-preference)
+- [CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning](../conferences/cvpr-2026/cards.md#paper-cccaption-symmetric-visual-rewards)
+- [Seeing What Matters: Visual Preference Policy Optimization for Visual Generation](../conferences/cvpr-2026/cards.md#paper-vipo-visual-advantages)
 
 <!-- conference-classification:end -->

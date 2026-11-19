@@ -946,5 +946,10 @@
 - [Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-sympl)
 - [DREAM: Document Recognition with Explicit Adaptive Memory](../conferences/cvpr-2026/cards.md#paper-dream-prototype-memory)
 - [YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal](../conferences/cvpr-2026/cards.md#paper-yose-essential-tokens)
+- [Geoint-R1: Formalizing Multimodal Geometric Reasoning with Dynamic Auxiliary Constructions](../conferences/cvpr-2026/cards.md#paper-geoint-verified-auxiliary-geometry)
+- [CCCaption: Dual-Reward Reinforcement Learning for Complete and Correct Image Captioning](../conferences/cvpr-2026/cards.md#paper-cccaption-symmetric-visual-rewards)
+- [VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation](../conferences/cvpr-2026/cards.md#paper-vold)
+- [VCU-Bridge: Hierarchical Visual Connotation Understanding via Semantic Bridging](../conferences/cvpr-2026/cards.md#paper-vcu-bridge)
+- [Seeing What Matters: Visual Preference Policy Optimization for Visual Generation](../conferences/cvpr-2026/cards.md#paper-vipo-visual-advantages)
 
 <!-- conference-classification:end -->

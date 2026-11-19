@@ -549,5 +549,9 @@
 - [Prune Wisely, Reconstruct Sharply: Compact 3D Gaussian Splatting via Adaptive Pruning and Difference-of-Gaussian Primitives](../conferences/cvpr-2026/cards.md#paper-difference-of-gaussians-primitives)
 - [Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-sympl)
 - [LASAR: Towards Spatio-temporal Reasoning with Latent Cognitive Map](../conferences/cvpr-2026/cards.md#paper-lasar-cognitive-map)
+- [Geometric Neural Distance Fields for Learning Human Motion Priors](../conferences/cvpr-2026/cards.md#paper-nrmf-motion-distance-fields)
+- [Probing and Bridging Geometry-Interaction Cues for Affordance Reasoning in Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-affordance-geometry-interaction-probing)
+- [Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation](../conferences/cvpr-2026/cards.md#paper-vita-shared-action-vision-latents)
+- [Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis](../conferences/cvpr-2026/cards.md#paper-motion-3-to-4)
 
 <!-- conference-classification:end -->
