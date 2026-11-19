@@ -810,5 +810,6 @@
 - [Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning](../conferences/cvpr-2026/cards.md#paper-doge-context-first-self-evolving-learning)
 - [Detect Anything via Next Point Prediction](../conferences/cvpr-2026/cards.md#paper-rex-omni-next-point)
 - [Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-pearl-perception-gated-rewards)
+- [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](../conferences/cvpr-2026/cards.md#paper-revel-verifiable-openqa-rewriting)
 
 <!-- conference-classification:end -->

@@ -1491,5 +1491,8 @@ Learning across modalities such as images, text, audio, and video.
 - [SPOT: Spatiotemporal Prompt Optimization for Motion-Stabilized MLLM-Guided Video Segmentation](../../conferences/cvpr-2026/cards.md#paper-spot-brownian-prompt)
 - [Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning](../../conferences/cvpr-2026/cards.md#paper-pearl-perception-gated-rewards)
 - [Understanding Task Transfer in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pgf-vision-language-task-transfer-graph)
+- [MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition-Perception-Reasoning Guided Text-Image Machine Translation](../../conferences/cvpr-2026/cards.md#paper-visual-translation-reasoning-data-ablation)
+- [Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark](../../conferences/cvpr-2026/cards.md#paper-scenebench-long-context-forgetting)
+- [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](../../conferences/cvpr-2026/cards.md#paper-revel-verifiable-openqa-rewriting)
 
 <!-- conference-classification:end -->

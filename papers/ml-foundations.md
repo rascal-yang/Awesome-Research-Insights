@@ -2555,5 +2555,7 @@
 - [Toward Early Quality Assessment of Text-to-Image Diffusion Models](../conferences/cvpr-2026/cards.md#paper-probe-select-early-diffusion-ranking)
 - [Dynamic Important Example Mining for Reinforcement Finetuning](../conferences/cvpr-2026/cards.md#paper-diem-gradient-example-mining)
 - [COT-FM: Cluster-wise Optimal Transport Flow Matching](../conferences/cvpr-2026/cards.md#paper-cot-fm-cluster-transport)
+- [Revisiting Model Stitching In the Foundation Model Era](../conferences/cvpr-2026/cards.md#paper-model-stitching-penultimate)
+- [Sampling-Aware Quantization for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-sampling-aware-diffusion-quantization)
 
 <!-- conference-classification:end -->

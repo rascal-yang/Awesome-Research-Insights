@@ -756,5 +756,7 @@
 - [Opti-NeuS: Neural Reconstruction for Dual-Layered Transparent and Opaque Objects](../conferences/cvpr-2026/cards.md#paper-optineus-dual-layer-refraction)
 - [KASALv2: Fully Automatic 3D Rotational Symmetry Classification and Axis Localization](../conferences/cvpr-2026/cards.md#paper-kasalv2-symmetry-prior)
 - [Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](../conferences/cvpr-2026/cards.md#paper-drive-my-way-dual-preferences)
+- [PFGNet: A Fully Convolutional Frequency-Guided Peripheral Gating Network for Efficient Spatiotemporal Predictive Learning](../conferences/cvpr-2026/cards.md#paper-local-frequency-adaptive-receptive-fields)
+- [Nestwork: Conditional 3D Furnished House Layout Generation through Latent Heterogeneous Graph Diffusion](../conferences/cvpr-2026/cards.md#paper-nestwork-heterogeneous-layout)
 
 <!-- conference-classification:end -->

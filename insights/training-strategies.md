@@ -1260,5 +1260,11 @@
 - [Towards Calibrating Prompt Tuning of Vision- Language Models](../conferences/cvpr-2026/cards.md#paper-logit-margin-text-moment-calibration)
 - [Do Less, Achieve More: Do We Need Every-Step Optimization for RL Fine-tuning of Diffusion Models?](../conferences/cvpr-2026/cards.md#paper-adaptive-denoising-window-rl-alignment)
 - [COT-FM: Cluster-wise Optimal Transport Flow Matching](../conferences/cvpr-2026/cards.md#paper-cot-fm-cluster-transport)
+- [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](../conferences/cvpr-2026/cards.md#paper-monotonic-semantic-progress-navigation)
+- [RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model](../conferences/cvpr-2026/cards.md#paper-rosamdepth-object-reliability)
+- [SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation](../conferences/cvpr-2026/cards.md#paper-spar-single-pass-distillation)
+- [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](../conferences/cvpr-2026/cards.md#paper-neoverse-monocular-degradation)
+- [PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference](../conferences/cvpr-2026/cards.md#paper-pyramidalwan-pretrained-conversion)
+- [Revisiting Model Stitching In the Foundation Model Era](../conferences/cvpr-2026/cards.md#paper-model-stitching-penultimate)
 
 <!-- conference-classification:end -->

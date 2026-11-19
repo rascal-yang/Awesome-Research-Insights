@@ -1652,5 +1652,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](../../conferences/cvpr-2026/cards.md#paper-gated-cross-modal-source-verification)
 - [Revisiting Multimodal KV Cache Compression: A Frequency-Domain-Guided Outlier-KV-Aware Approach](../../conferences/cvpr-2026/cards.md#paper-flashcache-outlier-kv)
 - [Test-time Sparsity for Extreme Fast Action Diffusion](../../conferences/cvpr-2026/cards.md#paper-action-diffusion-test-time-residual-sparsity)
+- [Obstruction Reasoning for Robotic Grasping](../../conferences/cvpr-2026/cards.md#paper-unograsp-obstruction-path-reasoning)
+- [PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion](../../conferences/cvpr-2026/cards.md#paper-partdiffuser-hybrid-partwise-mesh-generation)
+- [Sampling-Aware Quantization for Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-sampling-aware-diffusion-quantization)
 
 <!-- conference-classification:end -->

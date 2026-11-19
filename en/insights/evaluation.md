@@ -1588,5 +1588,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Explaining CLIP Zero-shot Predictions Through Concepts](../../conferences/cvpr-2026/cards.md#paper-ezpc-zero-shot-concept-projection)
 - [Consensus vs. Controversy: Mapping the Decision Space Where Architectures Diverge](../../conferences/cvpr-2026/cards.md#paper-architecture-disagreement-tail-diagnostics)
 - [Understanding Task Transfer in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-pgf-vision-language-task-transfer-graph)
+- [MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition-Perception-Reasoning Guided Text-Image Machine Translation](../../conferences/cvpr-2026/cards.md#paper-visual-translation-reasoning-data-ablation)
+- [PRIMU: Uncertainty Estimation for Novel Views in Gaussian Splatting from Primitive-Based Representations of Error and Coverage](../../conferences/cvpr-2026/cards.md#paper-projected-primitive-coverage-uncertainty)
+- [AssemblyBench: Physics-Aware Assembly of Complex Industrial Objects](../../conferences/cvpr-2026/cards.md#paper-physical-trajectory-evaluation-assembly)
+- [Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark](../../conferences/cvpr-2026/cards.md#paper-scenebench-long-context-forgetting)
 
 <!-- conference-classification:end -->

@@ -709,5 +709,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Turbo-GS: Accelerating 3D Gaussian Fitting for High-Resolution Radiance Fields](../../conferences/cvpr-2026/cards.md#paper-turbo-gs-convergence-budget)
 - [ReFTA: Breaking the Weight Reconstruction Bottleneck in Tensorized Parameter-Efficient Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-factor-space-tensor-finetuning)
 - [Dynamic Important Example Mining for Reinforcement Finetuning](../../conferences/cvpr-2026/cards.md#paper-diem-gradient-example-mining)
+- [Simple but Effective Triplet-Based Compression Strategies for Compact Visual Localization](../../conferences/cvpr-2026/cards.md#paper-triplet-localization-compression)
 
 <!-- conference-classification:end -->

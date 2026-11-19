@@ -1551,5 +1551,14 @@ Visual representation, recognition, reconstruction, and generation.
 - [Do Less, Achieve More: Do We Need Every-Step Optimization for RL Fine-tuning of Diffusion Models?](../../conferences/cvpr-2026/cards.md#paper-adaptive-denoising-window-rl-alignment)
 - [Opti-NeuS: Neural Reconstruction for Dual-Layered Transparent and Opaque Objects](../../conferences/cvpr-2026/cards.md#paper-optineus-dual-layer-refraction)
 - [Live Interactive Training for Video Segmentation](../../conferences/cvpr-2026/cards.md#paper-lit-lora-live-correction-learning)
+- [PFGNet: A Fully Convolutional Frequency-Guided Peripheral Gating Network for Efficient Spatiotemporal Predictive Learning](../../conferences/cvpr-2026/cards.md#paper-local-frequency-adaptive-receptive-fields)
+- [ChronoGS: Disentangling Invariants and Changes in Multi-Period Scenes](../../conferences/cvpr-2026/cards.md#paper-stable-anchor-time-discontinuous-scene)
+- [PRIMU: Uncertainty Estimation for Novel Views in Gaussian Splatting from Primitive-Based Representations of Error and Coverage](../../conferences/cvpr-2026/cards.md#paper-projected-primitive-coverage-uncertainty)
+- [RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model](../../conferences/cvpr-2026/cards.md#paper-rosamdepth-object-reliability)
+- [SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation](../../conferences/cvpr-2026/cards.md#paper-spar-single-pass-distillation)
+- [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](../../conferences/cvpr-2026/cards.md#paper-neoverse-monocular-degradation)
+- [PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference](../../conferences/cvpr-2026/cards.md#paper-pyramidalwan-pretrained-conversion)
+- [Nestwork: Conditional 3D Furnished House Layout Generation through Latent Heterogeneous Graph Diffusion](../../conferences/cvpr-2026/cards.md#paper-nestwork-heterogeneous-layout)
+- [PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion](../../conferences/cvpr-2026/cards.md#paper-partdiffuser-hybrid-partwise-mesh-generation)
 
 <!-- conference-classification:end -->

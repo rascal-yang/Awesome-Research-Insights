@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,907 篇，其中 1,838 篇暂收录、1,069 篇排除，另有 1,135 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,937 篇，其中 1,856 篇暂收录、1,081 篇排除，另有 1,105 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1844,3 +1844,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,907
 | 机器人学 | 主动感知 | [SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics](cards.md#paper-sapave-separate-camera-and-manipulation) | 将主动摄像头动作与操作控制分开训练，再用混合数据联合优化。 |
 | 多模态学习 | 评测设计 | [Understanding Task Transfer in Vision-Language Models](cards.md#paper-pgf-vision-language-task-transfer-graph) | 衡量辅助任务迁移时，按目标剩余提升空间归一化，并报告负迁移。 |
 | 机器人学 | 传感器融合 | [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](cards.md#paper-look-before-fuse-boundary-prealignment) | 融合相机和点云前，用二维边界先定位误差集中区域。 |
+| 计算机视觉 | 模型架构 | [PFGNet: A Fully Convolutional Frequency-Guided Peripheral Gating Network for Efficient Spatiotemporal Predictive Learning](cards.md#paper-local-frequency-adaptive-receptive-fields) | 预测视频时可按位置频谱动态调卷积感受野，无需将所有区域统一扩展到长程。 |
+| 多模态学习 | 评测与诊断 | [MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition-Perception-Reasoning Guided Text-Image Machine Translation](cards.md#paper-visual-translation-reasoning-data-ablation) | 视觉翻译可专门比较推理数据与直接翻译监督，判断额外推理在哪些语言和场景有效。 |
+| 计算机视觉 | 表征学习 | [ChronoGS: Disentangling Invariants and Changes in Multi-Period Scenes](cards.md#paper-stable-anchor-time-discontinuous-scene) | 跨期建图遇到不连续变化时，可以共享空间锚点并把变化作为独立分量。 |
+| 机器人学 | 训练策略 | [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](cards.md#paper-monotonic-semantic-progress-navigation) | 多步指令执行可把进度预测成语义中间状态，并以观察和指令的单向推进关系监督。 |
+| 计算机视觉 | 评测与诊断 | [PRIMU: Uncertainty Estimation for Novel Views in Gaussian Splatting from Primitive-Based Representations of Error and Coverage](cards.md#paper-projected-primitive-coverage-uncertainty) | 新视点的不确定性可由原语的训练误差与可见覆盖分别渲染，再用少量留出视图校准。 |
+| 机器人学 | 评测与诊断 | [AssemblyBench: Physics-Aware Assembly of Complex Industrial Objects](cards.md#paper-physical-trajectory-evaluation-assembly) | 装配规划应联合检验部件次序和轨迹可行性，避免只按最终姿态评估。 |
+| 计算机视觉 | 训练策略 | [RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model](cards.md#paper-rosamdepth-object-reliability) | 用实例区域组织深度自监督，同时按区域可靠性限制错误监督的传播。 |
+| 计算机视觉 | 训练策略 | [SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation](cards.md#paper-spar-single-pass-distillation) | 把滑窗教师的局部细节蒸馏进高分辨率单次前向，减少密集感知的测试成本。 |
+| 计算机视觉 | 训练策略 | [NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos](cards.md#paper-neoverse-monocular-degradation) | 用在线模拟单目观测的不完整性训练世界模型，利用可规模获得的非受控视频。 |
+| 计算机视觉 | 训练策略 | [PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference](cards.md#paper-pyramidalwan-pretrained-conversion) | 用低成本微调将预训练视频扩散转换为分辨率金字塔，再独立比较步数蒸馏。 |
+| 机器学习基础与统计 | 训练策略 | [Revisiting Model Stitching In the Foundation Model Era](cards.md#paper-model-stitching-penultimate) | 将异构骨干拼接时监督目标模型倒数层，比只匹配接口特征更能保留总体功能。 |
+| 机器人学 | 优化策略 | [Simple but Effective Triplet-Based Compression Strategies for Compact Visual Localization](cards.md#paper-triplet-localization-compression) | 地图内存不足时优先保留能从每个原始观测重定位的三点集合。 |
+| 计算机视觉 | 模型架构 | [Nestwork: Conditional 3D Furnished House Layout Generation through Latent Heterogeneous Graph Diffusion](cards.md#paper-nestwork-heterogeneous-layout) | 同一异构图生成器可联合建模空间与物体，并通过条件随机掩码适配不同交互要求。 |
+| 多模态学习 | 评测设计 | [Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark](cards.md#paper-scenebench-long-context-forgetting) | 用场景级证据跨度诊断长视频遗忘，分别验证帧细节和远程上下文。 |
+| 机器人学 | 行动规划 | [Obstruction Reasoning for Robotic Grasping](cards.md#paper-unograsp-obstruction-path-reasoning) | 在抓取前显式搜索遮挡依赖及可行移除次序，用视觉证据监督每一步。 |
+| 多模态学习 | 强化学习与奖励 | [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](cards.md#paper-revel-verifiable-openqa-rewriting) | 先移除选项泄漏，再按答案类型构造可自动验证的开放问答。 |
+| 三维视觉 | 分层生成 | [PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion](cards.md#paper-partdiffuser-hybrid-partwise-mesh-generation) | 全局结构按部件顺序生成，局部几何用并行离散去噪生成。 |
+| 生成模型 | 模型量化 | [Sampling-Aware Quantization for Diffusion Models](cards.md#paper-sampling-aware-diffusion-quantization) | 量化扩散模型时校准实际采样轨迹，尤其是高阶求解器的方向估计。 |

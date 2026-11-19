@@ -1089,5 +1089,9 @@
 - [Test-time Sparsity for Extreme Fast Action Diffusion](../conferences/cvpr-2026/cards.md#paper-action-diffusion-test-time-residual-sparsity)
 - [SaPaVe: Towards Active Perception and Manipulation in Vision-Language Action Models for Robotics](../conferences/cvpr-2026/cards.md#paper-sapave-separate-camera-and-manipulation)
 - [Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection](../conferences/cvpr-2026/cards.md#paper-look-before-fuse-boundary-prealignment)
+- [Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation](../conferences/cvpr-2026/cards.md#paper-monotonic-semantic-progress-navigation)
+- [AssemblyBench: Physics-Aware Assembly of Complex Industrial Objects](../conferences/cvpr-2026/cards.md#paper-physical-trajectory-evaluation-assembly)
+- [Simple but Effective Triplet-Based Compression Strategies for Compact Visual Localization](../conferences/cvpr-2026/cards.md#paper-triplet-localization-compression)
+- [Obstruction Reasoning for Robotic Grasping](../conferences/cvpr-2026/cards.md#paper-unograsp-obstruction-path-reasoning)
 
 <!-- conference-classification:end -->
