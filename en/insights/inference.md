@@ -1459,5 +1459,8 @@ Decoding, test-time adaptation, and efficient execution.
 - [BulletTime: Decoupled Control of Time and Camera Pose for Video Generation](../../conferences/cvpr-2026/cards.md#paper-bullettime-independent-world-time-camera-control)
 - [Adaptive Action Chunking at Inference-time for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-aac-action-entropy-adaptive-horizon)
 - [Render-to-Adapt: Unsupervised Personal Adaptation for Gaze Estimation](../../conferences/cvpr-2026/cards.md#paper-render-to-adapt)
+- [Diffusion Forcing Planner: History-Annealed Planning with Time-Dependent Guidance for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-dfp-annealed-history-conditioning-for-planning)
+- [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](../../conferences/cvpr-2026/cards.md#paper-slow4fast-vln)
+- [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](../../conferences/cvpr-2026/cards.md#paper-flashvggt-descriptor-attention)
 
 <!-- conference-classification:end -->

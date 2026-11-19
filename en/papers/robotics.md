@@ -939,5 +939,8 @@ Robot perception, policy learning, planning, and control.
 - [Adaptive Action Chunking at Inference-time for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-aac-action-entropy-adaptive-horizon)
 - [FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-flare-retry-reset)
 - [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](../../conferences/cvpr-2026/cards.md#paper-msgnav-visual-scene-graph-edges)
+- [Diffusion Forcing Planner: History-Annealed Planning with Time-Dependent Guidance for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-dfp-annealed-history-conditioning-for-planning)
+- [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](../../conferences/cvpr-2026/cards.md#paper-slow4fast-vln)
+- [SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-srpo-self-referential-policy)
 
 <!-- conference-classification:end -->

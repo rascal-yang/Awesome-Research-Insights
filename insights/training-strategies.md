@@ -1055,5 +1055,11 @@
 - [WeaveTime: Streaming from Earlier Frames into Emergent Memory in VideoLLMs](../conferences/cvpr-2026/cards.md#paper-weavetime)
 - [FLARE: A Failure-Aware Framework for Autonomous Correction and Recovery in Visual-Language Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-flare-retry-reset)
 - [Distilling Quasi-Conformal Mapping: A Generalizable and Efficient Solution for Wide-Angle Correction](../conferences/cvpr-2026/cards.md#paper-qdwc-geometric-teacher-distillation)
+- [Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis](../conferences/cvpr-2026/cards.md#paper-cca-cl-crossmodal-drift-sufficient-statistics)
+- [CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning](../conferences/cvpr-2026/cards.md#paper-cgl-constrained-rl-for-continual-gui-retention)
+- [Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning](../conferences/cvpr-2026/cards.md#paper-franca-nested-clustering)
+- [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](../conferences/cvpr-2026/cards.md#paper-unish-real-geometry-supervision)
+- [Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness](../conferences/cvpr-2026/cards.md#paper-concept-guided-vit)
+- [Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](../conferences/cvpr-2026/cards.md#paper-tg-dp-decoupled-masking)
 
 <!-- conference-classification:end -->

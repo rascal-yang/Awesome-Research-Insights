@@ -1492,5 +1492,8 @@
 - [Deeper Thought, Weaker Aim: Understanding and Mitigating Perceptual Impairment during Reasoning in Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-vrga-reasoning-visual-attention-dispersion)
 - [FILTR: Extracting Topological Features from Pretrained 3D Models](../conferences/cvpr-2026/cards.md#paper-filtr-topology-probes)
 - [A Combination of Noise and Bilateral Filters Achieve Supralinear and Scalable Adversarial Robustness in CNNs](../conferences/cvpr-2026/cards.md#paper-noise-bilateral-defense-synergy)
+- [StreamReady: Learning What to Answer and When in Long Streaming Videos](../conferences/cvpr-2026/cards.md#paper-streamready)
+- [Benchmarking Single-Factor Physical Video-to-Audio Generation](../conferences/cvpr-2026/cards.md#paper-flatsounds-single-factor)
+- [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](../conferences/cvpr-2026/cards.md#paper-auditdm-model-disagreement)
 
 <!-- conference-classification:end -->

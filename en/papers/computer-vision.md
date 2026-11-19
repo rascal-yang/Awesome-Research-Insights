@@ -1238,5 +1238,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation](../../conferences/cvpr-2026/cards.md#paper-sharptimegs-lifespan-modulation)
 - [FILTR: Extracting Topological Features from Pretrained 3D Models](../../conferences/cvpr-2026/cards.md#paper-filtr-topology-probes)
 - [Distilling Quasi-Conformal Mapping: A Generalizable and Efficient Solution for Wide-Angle Correction](../../conferences/cvpr-2026/cards.md#paper-qdwc-geometric-teacher-distillation)
+- [From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching](../../conferences/cvpr-2026/cards.md#paper-advanced-functional-maps-learned-spectral-basis)
+- [Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning](../../conferences/cvpr-2026/cards.md#paper-franca-nested-clustering)
+- [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](../../conferences/cvpr-2026/cards.md#paper-unish-real-geometry-supervision)
+- [Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness](../../conferences/cvpr-2026/cards.md#paper-concept-guided-vit)
+- [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](../../conferences/cvpr-2026/cards.md#paper-flashvggt-descriptor-attention)
 
 <!-- conference-classification:end -->

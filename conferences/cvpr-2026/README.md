@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,317 篇，其中 839 篇暂收录、478 篇排除，另有 2,725 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,347 篇，其中 858 篇暂收录、489 篇排除，另有 2,695 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -845,3 +845,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,317
 | 机器人学 | 表示学习 | [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](cards.md#paper-msgnav-visual-scene-graph-edges) | 导航场景图的关系边保留可重查图像，决策终点时另检查目标可见性。 |
 | 机器学习基础 | 评测与分析 | [A Combination of Noise and Bilateral Filters Achieve Supralinear and Scalable Adversarial Robustness in CNNs](cards.md#paper-noise-bilateral-defense-synergy) | 鲁棒视觉防御可比较随机化和保边去噪的组合收益，单项增益不足以预测叠加。 |
 | 计算机视觉 | 知识蒸馏 | [Distilling Quasi-Conformal Mapping: A Generalizable and Efficient Solution for Wide-Angle Correction](cards.md#paper-qdwc-geometric-teacher-distillation) | 昂贵几何求解器无需人工标签也可当教师，蒸馏预测连续校正流。 |
+| 多模态学习 | 持续学习 | [Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis](cards.md#paper-cca-cl-crossmodal-drift-sufficient-statistics) | 一侧模态持续漂移时，可累计图文协方差并用 CCA 重建共享子空间，先对照不作任何对齐的基线。见表 2。 |
+| 智能体 | 持续学习 | [CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning](cards.md#paper-cgl-constrained-rl-for-continual-gui-retention) | 连续学习 GUI 操作时，可把新任务成功率和旧技能遗忘一起测，验证受约束强化学习与监督微调比例。见表 4。 |
+| 计算机视觉 | 三维重建与几何建模 | [From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching](cards.md#paper-advanced-functional-maps-learned-spectral-basis) | 形状对应可在优化特征的同时学习映射所用基函数，对照固定谱基在跨数据、各向异性网格下的表现。见表 4。 |
+| 机器人学 | 规划与控制 | [Diffusion Forcing Planner: History-Annealed Planning with Time-Dependent Guidance for Autonomous Driving](cards.md#paper-dfp-annealed-history-conditioning-for-planning) | 历史既提供平滑性也会诱使规划器照搬旧轨迹，可以比较固定历史引导和随去噪阶段变化的引导。见表 3。 |
+| 生成模型 | 模型效率 | [TC-Pade: Trajectory-Consistent Pade Approximation for Diffusion Acceleration](cards.md#paper-tc-pade-rational-feature-trajectory-extrapolation) | 低步扩散缓存可以比较有理与多项式外推，并根据轨迹变化动态刷新，统计时延和输出质量。见表 1、5。 |
+| 生成模型 | 三维重建与几何建模 | [Splatent: Splatting Diffusion Latents for Novel View Synthesis](cards.md#paper-splatent-geometry-detail-split-latent-rendering) | 潜空间多视图重建可把低频几何交给三维渲染，仅以参考图引导扩散补充高频，单测参考数量与跨视角一致性。见表 2、3。 |
+| 计算机视觉 | 自监督学习 | [Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning](cards.md#paper-franca-nested-clustering) | 自监督聚类用多粒度嵌套标签处理语义歧义，并分离与内容无关的空间位置偏差。 |
+| 机器人学 | 推理与规划 | [Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning](cards.md#paper-slow4fast-vln) | 陌生环境导航可用慢推理提供开放语义策略，再让快策略在闭环按最新观测执行。 |
+| 多模态学习 | 评测与诊断 | [StreamReady: Learning What to Answer and When in Long Streaming Videos](cards.md#paper-streamready) | 在线答复应把证据出现前猜测与出现后延迟分开处罚，结合正确性报告有效准确率。 |
+| 多模态学习 | 评测与诊断 | [Benchmarking Single-Factor Physical Video-to-Audio Generation](cards.md#paper-flatsounds-single-factor) | 评估跨模态物理推理时用单因素反事实和有无文本对照，同时监测正确性与时序。 |
+| 计算机视觉 | 训练策略 | [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](cards.md#paper-unish-real-geometry-supervision) | 合成数据学粗几何后，用真实无标签数据上可量化的跨表示对应缩小域差。 |
+| 多模态学习 | 模型架构 | [SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models](cards.md#paper-spacemind) | 将相机嵌入用于几何 token 选择与融合门控，而非仅作附带信息。 |
+| 计算机视觉 | 训练策略 | [Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness](cards.md#paper-concept-guided-vit) | 为降低背景捷径，用多个属性级概念区域监督相关性，而不是只提供前景掩码。 |
+| 机器学习基础 | 损失函数与优化 | [Confusion-Aware Spectral Regularizer for Long-Tailed Recognition](cards.md#paper-car-spectral-confusion-regularizer) | 关注长尾最差类别时，把频率加权的混淆谱范数纳入训练。 |
+| 机器人学 | 强化学习 | [SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](cards.md#paper-srpo-self-referential-policy) | 二元成功奖励太稀疏时，可用同批成功轨迹给失败轨迹的进度分级。 |
+| 计算机视觉 | 推理优化 | [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](cards.md#paper-flashvggt-descriptor-attention) | 前馈多视图重建可将跨帧的全局键值替换为每帧压缩描述符，并缓存跨块。 |
+| 多模态学习 | 评测与分析 | [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](cards.md#paper-auditdm-model-disagreement) | 对照多个模型的相互分歧，主动构造诊断样例，再把找到的失败用于定向修正训练。 |
+| 多模态学习 | 自监督学习 | [Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](cards.md#paper-tg-dp-decoupled-masking) | 同时做掩码恢复和跨模态对比时，分开为两路选择可见 token。 |
+| 机器学习基础 | 模型架构 | [Parallelised Differentiable Straightest Geodesics for 3D Meshes](cards.md#paper-differentiable-straightest-geodesics) | 网格模型需要沿曲面卷积或流动时，使用可并行、可微的指数映射代替欧氏邻域。 |

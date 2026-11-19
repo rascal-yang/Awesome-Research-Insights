@@ -1144,5 +1144,11 @@
 - [WeaveTime: Streaming from Earlier Frames into Emergent Memory in VideoLLMs](../conferences/cvpr-2026/cards.md#paper-weavetime)
 - [VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](../conferences/cvpr-2026/cards.md#paper-videoauto-r1)
 - [Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation](../conferences/cvpr-2026/cards.md#paper-meanflow-discriminative-text)
+- [Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis](../conferences/cvpr-2026/cards.md#paper-cca-cl-crossmodal-drift-sufficient-statistics)
+- [StreamReady: Learning What to Answer and When in Long Streaming Videos](../conferences/cvpr-2026/cards.md#paper-streamready)
+- [Benchmarking Single-Factor Physical Video-to-Audio Generation](../conferences/cvpr-2026/cards.md#paper-flatsounds-single-factor)
+- [SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-spacemind)
+- [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](../conferences/cvpr-2026/cards.md#paper-auditdm-model-disagreement)
+- [Semantic Noise Reduction via Teacher-Guided Dual-Path Audio-Visual Representation Learning](../conferences/cvpr-2026/cards.md#paper-tg-dp-decoupled-masking)
 
 <!-- conference-classification:end -->

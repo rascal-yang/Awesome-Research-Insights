@@ -766,5 +766,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [RebRL: Reinforcing Discrete Visual Diffusion Models with Rebalanced Timestep Credits](../../conferences/cvpr-2026/cards.md#paper-rebrl-discrete-token-timestep-credit)
 - [PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](../../conferences/cvpr-2026/cards.md#paper-pvp-privileged-proprioception)
 - [VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice](../../conferences/cvpr-2026/cards.md#paper-videoauto-r1)
+- [SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-srpo-self-referential-policy)
 
 <!-- conference-classification:end -->

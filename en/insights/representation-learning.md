@@ -627,5 +627,7 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation](../../conferences/cvpr-2026/cards.md#paper-sharptimegs-lifespan-modulation)
 - [Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation](../../conferences/cvpr-2026/cards.md#paper-meanflow-discriminative-text)
 - [MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](../../conferences/cvpr-2026/cards.md#paper-msgnav-visual-scene-graph-edges)
+- [From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching](../../conferences/cvpr-2026/cards.md#paper-advanced-functional-maps-learned-spectral-basis)
+- [Splatent: Splatting Diffusion Latents for Novel View Synthesis](../../conferences/cvpr-2026/cards.md#paper-splatent-geometry-detail-split-latent-rendering)
 
 <!-- conference-classification:end -->

@@ -634,5 +634,7 @@ Model-wide design and information flow.
 - [Progressive Neural Architecture Generation](../../conferences/cvpr-2026/cards.md#paper-progressive-architecture-generation)
 - [Text-Image Conditioned 3D Generation](../../conferences/cvpr-2026/cards.md#paper-tigon-conditioned-3d)
 - [Soft Modality-Guided Expert Specialization in MoE-VLMs](../../conferences/cvpr-2026/cards.md#paper-smoes-soft-modality-routing)
+- [SpaceMind: Camera-Guided Modality Fusion for Spatial Reasoning in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-spacemind)
+- [Parallelised Differentiable Straightest Geodesics for 3D Meshes](../../conferences/cvpr-2026/cards.md#paper-differentiable-straightest-geodesics)
 
 <!-- conference-classification:end -->
