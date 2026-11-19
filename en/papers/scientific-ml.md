@@ -401,5 +401,6 @@ Machine learning for physics, medicine, biology, and engineering.
 ## CVPR 2026 (provisional)
 
 - [Delving Aleatoric Uncertainty in Medical Image Segmentation via Vision Foundation Models](../../conferences/cvpr-2026/cards.md#paper-aleatoric-uncertainty-spectrum)
+- [Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation](../../conferences/cvpr-2026/cards.md#paper-frequency-prompt-multi-rater-segmentation)
 
 <!-- conference-classification:end -->

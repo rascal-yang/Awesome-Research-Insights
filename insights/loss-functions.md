@@ -385,5 +385,6 @@
 - [Dehallu3D: Hallucination-Mitigated 3D Generation from a Single Image via Cyclic View Consistency Refinement](../conferences/cvpr-2026/cards.md#paper-dehallu3d-cyclic-view-consistency)
 - [OrienPose: Orientation-Guided Novel View Synthesis for Single-Image Unseen Object Pose Estimation](../conferences/cvpr-2026/cards.md#paper-orienpose)
 - [What Is It Like to Be a Noise? An Entropy-based Gaussian Noise Regularization for Diffusion Models](../conferences/cvpr-2026/cards.md#paper-entropy-based-gaussianity)
+- [Linking Perception, Confidence and Accuracy in MLLMs](../conferences/cvpr-2026/cards.md#paper-confidence-driven-visual-reasoning)
 
 <!-- conference-classification:end -->

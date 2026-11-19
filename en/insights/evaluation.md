@@ -1423,5 +1423,9 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [Investigating Self-Supervised Representations for Audio-Visual Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-av-deepfake-representation-audit)
 - [CLP: A Real-World Dataset of Contaminated Lens Protectors for Robust Semantic Segmentation](../../conferences/cvpr-2026/cards.md#paper-clp-restore-segment-tradeoff)
 - [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](../../conferences/cvpr-2026/cards.md#paper-av-reasoner)
+- [EgoProx: Evaluating MLLMs on Egocentric 3D Proximity Reasoning Across a Cognitive Hierarchy](../../conferences/cvpr-2026/cards.md#paper-egoprox-transfer-diagnostic)
+- [Make it SING: Analyzing Semantic Invariants in Classifiers](../../conferences/cvpr-2026/cards.md#paper-sing-classifier-invariants)
+- [PRISM: Prototype-based Reasoning with Inter-modal Semantic Mining for Interpretable Image Recognition](../../conferences/cvpr-2026/cards.md#paper-prism-semantic-prototypes)
+- [Event Structural Valley: A Unified Theoretical and Practical Framework for Event Camera Autofocus](../../conferences/cvpr-2026/cards.md#paper-event-structural-valley)
 
 <!-- conference-classification:end -->

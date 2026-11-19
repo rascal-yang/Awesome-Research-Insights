@@ -536,5 +536,9 @@
 - [Rank-Guided Pseudo-Bias Learning for Robust Black-Box Adaptation](../conferences/cvpr-2026/cards.md#paper-pld-blackbox-debias)
 - [CrossHOI: Learning Cross-View Representations for Monocular 3D Human-Object Interaction Reconstruction](../conferences/cvpr-2026/cards.md#paper-crosshoi)
 - [MV-TAP: Tracking Any Point in Multi-View Videos](../conferences/cvpr-2026/cards.md#paper-mv-tap)
+- [EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-evatok-adaptive-video-token-budget)
+- [Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation](../conferences/cvpr-2026/cards.md#paper-frequency-prompt-multi-rater-segmentation)
+- [Velox: Learning Representations of 4D Geometry and Appearance](../conferences/cvpr-2026/cards.md#paper-velox-4d-representation)
+- [Aligning Text, Images and 3D Structure Token-by-Token](../conferences/cvpr-2026/cards.md#paper-kyvo-3d-token-alignment)
 
 <!-- conference-classification:end -->

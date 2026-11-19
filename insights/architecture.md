@@ -570,5 +570,9 @@
 - [SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning](../conferences/cvpr-2026/cards.md#paper-spatialstack-geometry-layer-injection)
 - [Hint2Gen: Bridging Understanding and Generation via Code-structured Hints](../conferences/cvpr-2026/cards.md#paper-hint2gen)
 - [LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging](../conferences/cvpr-2026/cards.md#paper-lrdun)
+- [PPISP: Physically-Plausible Compensation and Control of Photometric Variations in Radiance Field Reconstruction](../conferences/cvpr-2026/cards.md#paper-ppisp-photometric-reconstruction)
+- [IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-idesplat-iterative-depth)
+- [LacTokGen: Latent Consistency Tokenizer for 1024-pixel Image Generation by 256 Tokens](../conferences/cvpr-2026/cards.md#paper-lactok)
+- [ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos](../conferences/cvpr-2026/cards.md#paper-forehoi)
 
 <!-- conference-classification:end -->

@@ -861,5 +861,9 @@
 - [PAI-Bench: A Comprehensive Benchmark For Physical AI](../conferences/cvpr-2026/cards.md#paper-pai-bench-physical-grounding)
 - [QueryOcc: Query-based Self-Supervision for 3D Semantic Occupancy](../conferences/cvpr-2026/cards.md#paper-queryocc)
 - [Structure-to-Intensity Diffusion for Adverse-Weather LiDAR Generation](../conferences/cvpr-2026/cards.md#paper-structure-to-intensity-diffusion)
+- [End-to-End Language-Action Model for Humanoid Whole Body Control](../conferences/cvpr-2026/cards.md#paper-sentinel-language-action-history)
+- [EgoProx: Evaluating MLLMs on Egocentric 3D Proximity Reasoning Across a Cognitive Hierarchy](../conferences/cvpr-2026/cards.md#paper-egoprox-transfer-diagnostic)
+- [ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos](../conferences/cvpr-2026/cards.md#paper-forehoi)
+- [TRM-VLA: Temporal-Aware Chain-of-Thought Reasoning and Memorization for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-trm-vla)
 
 <!-- conference-classification:end -->

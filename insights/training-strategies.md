@@ -924,5 +924,8 @@
 - [QueryOcc: Query-based Self-Supervision for 3D Semantic Occupancy](../conferences/cvpr-2026/cards.md#paper-queryocc)
 - [InstAP: Instance-Aware Vision-Language Pre-Train for Spatial-Temporal Understanding](../conferences/cvpr-2026/cards.md#paper-instap)
 - [WaDi: Weight Direction-aware Distillation for One-step Image Synthesis](../conferences/cvpr-2026/cards.md#paper-wadi)
+- [End-to-End Language-Action Model for Humanoid Whole Body Control](../conferences/cvpr-2026/cards.md#paper-sentinel-language-action-history)
+- [Learning Generalizable 3D Medical Image Representations from Mask-Guided Self-Supervision](../conferences/cvpr-2026/cards.md#paper-mass-mask-guided-ssl)
+- [Toward Diffusible High-Dimensional Latent Spaces: A Frequency Perspective](../conferences/cvpr-2026/cards.md#paper-freqwarm)
 
 <!-- conference-classification:end -->

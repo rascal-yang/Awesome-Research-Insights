@@ -2956,3 +2956,333 @@
 - **适用条件 / 局限** · 依赖同步及相机几何质量，所有视角都不可见时仍缺少观察证据。
 
 **可复用机制** · 多相机追踪遇到遮挡时，将相机几何作为跨视角注意力的约束，联合更新轨迹和可见性。
+
+<a id="paper-mhopreg"></a>
+
+## MHopReg: Efficient Hierarchical Multi-Hop Graph Search for Point Cloud Registration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_MHopReg_Efficient_Hierarchical_Multi-Hop_Graph_Search_for_Point_Cloud_Registration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MHopReg_Efficient_Hierarchical_Multi-Hop_Graph_Search_for_Point_Cloud_Registration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 低重叠时正确匹配稀疏且分散，单次全局挑选容易遗漏，密集场景穷举又昂贵。
+- **核心创新 / 方法** · 在变换不变的对应兼容图上均衡取各簇种子，再从粗到细多跳扩张，按一致性与空间覆盖给变换打分。
+- **Baseline** · 比较 SC2-PCR、PointDSC 等，并消融采样、扩张和排序。
+- **Benchmark** · 3DMatch、3DLoMatch、KITTI，报告配准召回和误差；KITTI 另看 500–20,000 个对应的处理耗时。
+- **关键结果 / 消融** · 图 5 在 500 对应时召回 97.82%，SC2-PCR为 54.05%，PointDSC 为 97.47%；20,000 对应时 99.82% 且耗时 0.24 秒。
+- **适用条件 / 局限** · 依赖初始匹配质量与兼容图，重叠趋零或重复几何会使多跳传播误匹配。
+
+**可复用机制** · 低重叠点云存在分散内点时，比较簇平衡种子及分层多跳扩张和穷举全局搜索。见图 5、表 4。
+
+<a id="paper-ppisp-photometric-reconstruction"></a>
+
+## PPISP: Physically-Plausible Compensation and Control of Photometric Variations in Radiance Field Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Deutsch_PPISP_Physically-Plausible_Compensation_and_Control_of_Photometric_Variations_in_Radiance_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Deutsch_PPISP_Physically-Plausible_Compensation_and_Control_of_Photometric_Variations_in_Radiance_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 跨视角曝光、白平衡及暗角变化会被吸收到三维外观或几何中，干扰新视图。
+- **核心创新 / 方法** · 将曝光、暗角、颜色及响应曲线拆成可解释的成像模块，并训练控制器预测新视角的拍摄参数。
+- **Baseline** · 对照仿射或潜变量补偿方案、GLO、ADOP、BilaRF，以及有无控制器和各物理项。
+- **Benchmark** · 在 Tanks and Temples 等新视图上测 PSNR、SSIM、LPIPS，补充有 EXIF 的数据。
+- **关键结果 / 消融** · 表 2 完整新视图 PSNR 为 24.62 dB，去曝光为 23.33，去暗角为 24.08。
+- **适用条件 / 局限** · 需要训练视图能支持光度变化估计；视角独有的非朗伯反射或自动处理突变不一定能由该模型解释。
+
+**可复用机制** · 多视角重建宜把传感器固有偏差与拍摄条件变化分开估计，并在未知目标视图单独测试光度控制。见表 1–2。
+
+<a id="paper-evatok-adaptive-video-token-budget"></a>
+
+## EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiong_EVATok_Adaptive_Length_Video_Tokenization_for_Efficient_Visual_Autoregressive_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiong_EVATok_Adaptive_Length_Video_Tokenization_for_Efficient_Visual_Autoregressive_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定每个时间块的词元量浪费在静态片段，在动态片段则可能不足。
+- **核心创新 / 方法** · 离线求质量与成本折中的块级分配，再以轻量路由预测长度，让分词器适应可变长度。
+- **Baseline** · 与 LARP、AdapTok、固定长度对照和不同解码器规模比较。
+- **Benchmark** · WebVid/UCF 上评估重建，UCF-101 类条件生成和 Kinetics-600 帧预测比较词元量及生成质量。
+- **关键结果 / 消融** · 表 3 重建平均从 1,024 词元降到约 774，UCF 类生成约 756；相对固定 1,024 分别减少 24.4%、26.2%。
+- **适用条件 / 局限** · 路由误差可能压缩掉短时关键事件；平均长度下降不能直接换算成任何系统的延迟收益。
+
+**可复用机制** · 视频生成可按时间块分配不同离散词元长度，再测等生成骨干下的质量与成本。见表 1–3。
+
+<a id="paper-sentinel-language-action-history"></a>
+
+## End-to-End Language-Action Model for Humanoid Whole Body Control
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_End-to-End_Language-Action_Model_for_Humanoid_Whole_Body_Control_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_End-to-End_Language-Action_Model_for_Humanoid_Whole_Body_Control_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 生成的人体动作在语义上相符，也未必满足机器人全身执行和稳定性约束。
+- **核心创新 / 方法** · 用模拟跟踪人类动作生成语言与低层动作对，以流匹配从文字和本体状态生成分块动作，部署时增加残差修正。
+- **Baseline** · 对照 MDM 加重定向、LangWBC；消融观测时窗、状态预测及完成预测。
+- **Benchmark** · 文本命令全身控制的模拟测试，测 R@1、MMD 与物理成功率，并报告真机演示。
+- **关键结果 / 消融** · 表 3 基础模型 R@1 为 0.582、成功 99.45；0.2 秒观测变为 0.153、99.50，说明只看执行成功会漏掉语义失效。
+- **适用条件 / 局限** · 依赖模拟跟踪控制器和动作覆盖；真机演示不能保证未见动作、不同机器人或复杂接触稳定。
+
+**可复用机制** · 语言驱动全身控制应把语义对齐与动作执行成功分开验收，并在固定骨干上对照本体观测时窗。见表 2–3。
+
+<a id="paper-deblursdi-blind-self-diffusion"></a>
+
+## Self-Diffusion Driven Blind Imaging
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Self-Diffusion_Driven_Blind_Imaging_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Self-Diffusion_Driven_Blind_Imaging_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 光学像差叠加运动模糊时，退化核未知，用单一预设退化训练的模型可能失效。
+- **核心创新 / 方法** · 以单幅观测自监督，从噪声开始反向自扩散，迭代细化图像和模糊核，无需额外预训练。
+- **Baseline** · 比较 Phase-Only、FFT-ReLU Deblur、SelfDeblur、FastDiffusionEM。
+- **Benchmark** · Levin、Cho、Kohler 和 FFHQ 的光学像差去模糊以及运动模糊案例，报告 PSNR、SSIM。
+- **关键结果 / 消融** · 表 4 Levin 上为 28.36 dB/0.8598，SelfDeblur 为 18.13 dB/0.4706。
+- **适用条件 / 局限** · 图像和核联合恢复仍不唯一；仿真与光路变化、空间变化模糊以及逐图优化耗时须单独评估。
+
+**可复用机制** · 未知成像退化下，可测试同一观测自扩散同时更新图像与核，作为预训练恢复先验的对照。见表 4。
+
+<a id="paper-drfs-path-aware-editing"></a>
+
+## Delta Rectified Flow Sampling for Text-to-Image Editing
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Beaudouin_Delta_Rectified_Flow_Sampling_for_Text-to-Image_Editing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Beaudouin_Delta_Rectified_Flow_Sampling_for_Text-to-Image_Editing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 以速度差直接蒸馏进行编辑时容易过度平滑，偏离目标路径，也可能改变背景。
+- **核心创新 / 方法** · 用源与目标速度场差配合时变轨迹位移引导；正文给出关掉位移与选取线性位移时分别与 DDS 和 FlowEdit 的关系。
+- **Baseline** · 比较 FlowEdit、iRFDS、RF-Solver 等，区分 SD3 和 SD3.5 骨干。
+- **Benchmark** · PIE-Bench 上测结构距离、背景 PSNR/LPIPS/SSIM 和全图及编辑区 CLIP 相似度。
+- **关键结果 / 消融** · 表 2 同 SD3.5 下 FlowEdit 的背景 PSNR 为 26.59、编辑区 CLIP 为 23.00；DRFS 分别为 26.97、23.17。
+- **适用条件 / 局限** · 需要能计算来源和目标条件速度，位移强度要随骨干和编辑幅度校准；像素保真与语义变化并非同一指标。
+
+**可复用机制** · 无需反演的流编辑可独立调整源目标轨迹位移，并分别检查保背景和改语义；见表 1–2。
+
+<a id="paper-egoprox-transfer-diagnostic"></a>
+
+## EgoProx: Evaluating MLLMs on Egocentric 3D Proximity Reasoning Across a Cognitive Hierarchy
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_EgoProx_Evaluating_MLLMs_on_Egocentric_3D_Proximity_Reasoning_Across_a_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_EgoProx_Evaluating_MLLMs_on_Egocentric_3D_Proximity_Reasoning_Across_a_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 总体第一视角问答分数会隐藏模型能判断自身附近对象，却不能正确推断动作链的情况。
+- **核心创新 / 方法** · 将接近推理分成意图、探索、利用和动作链，按类别追加数据、交叉测量其余类别。
+- **Baseline** · 比较未微调 Qwen2.5-VL-7B 和只在特定类别增强后的版本，同时测多种现有模型。
+- **Benchmark** · EgoProx 的近似/相对距离、动作准确与动作链关系判断，另测跨数据集迁移。
+- **关键结果 / 消融** · 表 3 加意图数据后，利用类别的近似分从 38.63 到 64.93，动作链长程关系却从 46.21 降到 14.29。
+- **适用条件 / 局限** · 问答层级与控制表现仍有距离，交叉退化可能受指令样式或标注分布影响，应在真实行为和新视角上复核。
+
+**可复用机制** · 具身空间推理微调须区分一阶接近判断和多步动作链，跨子任务对照迁移与遗忘。见表 3–4。
+
+<a id="paper-idesplat-iterative-depth"></a>
+
+## IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Long_IDESplat_Iterative_Depth_Probability_Estimation_for_Generalizable_3D_Gaussian_Splatting_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Long_IDESplat_Iterative_Depth_Probability_Estimation_for_Generalizable_3D_Gaussian_Splatting_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单次极线对齐容易输出粗或不可靠的深度概率，三维高斯中心随之偏移。
+- **核心创新 / 方法** · 级联跨视图 warping，把极线注意力置信作乘性积累，逐轮更新深度候选并映射到高斯中心。
+- **Baseline** · 比较 DepthSplat、MVSplat、MonoSplat，另消融迭代深度、概率增强及高斯模块。
+- **Benchmark** · RealEstate10K、ACID 和 DL3DV 的新视图合成测 PSNR、LPIPS、SSIM，另报告深度估计及效率。
+- **关键结果 / 消融** · 表 5 在 RE10K 中完整版本 PSNR 为 27.56 dB；把概率增强加入已有迭代过程约提高 0.46 dB。
+- **适用条件 / 局限** · 依赖跨视图场景一致和相机标定；大遮挡下多次置信乘积可能强化相关错误，需测随迭代和视图跨度的稳定性。
+
+**可复用机制** · 前馈高斯重建遇到单次跨视图对齐不可靠时，比较迭代深度候选和多次匹配置信连乘。见表 5–6。
+
+<a id="paper-lactok"></a>
+
+## LacTokGen: Latent Consistency Tokenizer for 1024-pixel Image Generation by 256 Tokens
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xie_LacTokGen_Latent_Consistency_Tokenizer_for_1024-pixel_Image_Generation_by_256_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xie_LacTokGen_Latent_Consistency_Tokenizer_for_1024-pixel_Image_Generation_by_256_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高分辨图像需要很多离散词元；直接采用扩散解码会带来颜色和亮度偏差。
+- **核心创新 / 方法** · 量化编码接入预训练扩散潜空间，将多步解码器改为少步一致性解码并加入像素监督。
+- **Baseline** · 表1–3比较 VQGAN 等词元器及 LacTok 变体，正文另做解码消融。
+- **Benchmark** · ImageNet、MSCOCO-2017 和 MJHQ-5K 的重建实验，以及表4的文字生成图像实验。
+- **关键结果 / 消融** · 正文报告1024×1024的输入可用256词元表示，较该 VQGAN 配置压缩16倍。
+- **适用条件 / 局限** · 词元数减少不等于整体加速，仍须计入解码器计算及细节丢失。
+
+**可复用机制** · 压低视觉词元数时可用一步或两步一致性解码器支持直接像素监督，检查保真是否受解码器瓶颈限制。
+
+<a id="paper-forehoi"></a>
+
+## ForeHOI: Feed-forward 3D Object Reconstruction from Daily Hand-Object Interaction Videos
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_ForeHOI_Feed-forward_3D_Object_Reconstruction_from_Daily_Hand-Object_Interaction_Videos_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_ForeHOI_Feed-forward_3D_Object_Reconstruction_from_Daily_Hand-Object_Interaction_Videos_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 手部遮挡和相机、物体耦合运动使单目互动视频中的三维物体不完整。
+- **核心创新 / 方法** · 在同一前馈框架联合预测二维遮罩和三维形状，令二者共享补全证据。
+- **Baseline** · 正文表2–3对照 EasyHOI、HOLD、HORT、MagicHOI 及主干与训练数据变化。
+- **Benchmark** · HO3D 和 HOI 实拍数据，报告 Chamfer 距离、F@5、F@10及耗时。
+- **关键结果 / 消融** · 表2在 HO3D 的 Chamfer 距离为0.79厘米，HOLD 为1.36；两数据集平均耗时为1.1分钟，HORT 为0.8分钟但仅列出 HOI 结果。
+- **适用条件 / 局限** · 严重遮挡下补全仍受未见物体几何和真实手部遮挡覆盖限制。
+
+**可复用机制** · 严重遮挡时可以让二维遮罩补全与三维形状补全交换信息，再与独立重建比较。
+
+<a id="paper-mass-mask-guided-ssl"></a>
+
+## Learning Generalizable 3D Medical Image Representations from Mask-Guided Self-Supervision
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gao_Learning_Generalizable_3D_Medical_Image_Representations_from_Mask-Guided_Self-Supervision_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gao_Learning_Generalizable_3D_Medical_Image_Representations_from_Mask-Guided_Self-Supervision_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 重建和对比预训练可能学习低层纹理，忽略三维区域和周围解剖关系。
+- **核心创新 / 方法** · 以自动生成的无类别候选掩码定义上下文分割任务，学习外观、结构及位置关联。
+- **Baseline** · 比较常见自监督预训练和从头训练，并消融掩码来源及骨干。
+- **Benchmark** · 正文表1–4测不同规模下的分割 Dice、分类 AUC，以及自动掩码质量与单样本分割。
+- **关键结果 / 消融** · 表4的 BCV 自动候选平均重叠 Dice 15.2，MASS 单样本上下文分割 Dice 65.5，说明不完美候选仍可用。
+- **适用条件 / 局限** · 结构来自自动候选，少见或难分病变可能在预训练中缺少覆盖。
+
+**可复用机制** · 用无需语义类别的区域掩码做上下文分割预训练，可测试不完美结构伪标签能否支持少样本迁移。
+
+<a id="paper-freqwarm"></a>
+
+## Toward Diffusible High-Dimensional Latent Spaces: A Frequency Perspective
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lai_Toward_Diffusible_High-Dimensional_Latent_Spaces_A_Frequency_Perspective_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lai_Toward_Diffusible_High-Dimensional_Latent_Spaces_A_Frequency_Perspective_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高维自编码器可提高重建，生成模型仍可能在高频欠拟合。
+- **核心创新 / 方法** · 受控扰动定位编码与解码的频率错配，在扩散或流匹配早期提高高频暴露，保持自编码器冻结。
+- **Baseline** · 同一潜空间和生成器对比无热身，另比较不同频带划分和自编码器。
+- **Benchmark** · ImageNet 256和512 等，正文表1–4报告生成 FID 等并切换引导。
+- **关键结果 / 消融** · 表1报告 USiT-H 无分类器引导时，Wan2.2 的 gFID 改善14.11、LTX 改善6.13。
+- **适用条件 / 局限** · 频率错配与编码器、数据和分辨率相关，边界频带需重新验证。
+
+**可复用机制** · 潜空间越大未必越适合生成，先拆开测频带的编码覆盖和解码依赖，再以高频热身调整训练。
+
+<a id="paper-soap-mim-artifacts"></a>
+
+## Suppressing Non-Semantic Noise in Masked Image Modeling Representations
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Hjelkrem-Tan_Suppressing_Non-Semantic_Noise_in_Masked_Image_Modeling_Representations_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Hjelkrem-Tan_Suppressing_Non-Semantic_Noise_in_Masked_Image_Modeling_Representations_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 掩码图像建模的表示可能保留与语义无关的图块信息，影响零样本迁移。
+- **核心创新 / 方法** · 用真实和合成非语义图像做 PCA 捕捉伪影分量，在推理中通过线性投影抑制。
+- **Baseline** · 对照原特征、不同投影尺度及 RASA，在多个 MIM 骨干比较。
+- **Benchmark** · 表2测 ECSSD、DUTS、DUT-OMRON 的零样本显著分割，表3–4用 ADE20K 与 ImageNet 的近邻评测。
+- **关键结果 / 消融** · 正文报告多个 MIM 模型零样本分割改善，非 MIM 模型的结果取决于其原有表征。
+- **适用条件 / 局限** · 无语义探针可能并未覆盖所有伪影，投影也可能移除任务需要的信息。
+
+**可复用机制** · 用无语义输入估计表征中的伪影方向，并在冻结骨干上先做投影对照。
+
+<a id="paper-core-object-token-merging"></a>
+
+## CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lei_CORE_Compact_Object-centric_REpresentations_as_a_New_Paradigm_for_Token_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lei_CORE_Compact_Object-centric_REpresentations_as_a_New_Paradigm_for_Token_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定格点或按相似度合并容易跨过对象边界，破坏实体提问所需信息。
+- **核心创新 / 方法** · 轻量分割解码器生成对象掩码，以掩码聚合视觉 token，再按质心排序。
+- **Baseline** · 比较 ToMe、FastV 等，以及同骨干全 token CORE 作为保留率参照。
+- **Benchmark** · 六个 LVLM 基准，含 MME、MMBench-CN、ScienceQA-IMG；对比固定和自适应 token 预算、任务分数及计算量。
+- **关键结果 / 消融** · 作者报告自适应极端设定保留2.2% token 时，仍达到自己全 token 基线97.4%的表现。
+- **适用条件 / 局限** · 依赖对象掩码质量；文本、背景关系和掩码遗漏的小物体可能在压缩时丢失。
+
+**可复用机制** · 压缩视觉 token 时按对象掩码合并，并用对象质心恢复合并后序列的空间顺序。
+
+<a id="paper-frequency-prompt-multi-rater-segmentation"></a>
+
+## Harmonized Feature Conditioning and Frequency-Prompt Personalization for Multi-Rater Medical Segmentation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Karimijafarbigloo_Harmonized_Feature_Conditioning_and_Frequency-Prompt_Personalization_for_Multi-Rater_Medical_Segmentation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Karimijafarbigloo_Harmonized_Feature_Conditioning_and_Frequency-Prompt_Personalization_for_Multi-Rater_Medical_Segmentation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 信号噪声和专家对边界的真实分歧可能被模型混为一谈。
+- **核心创新 / 方法** · 以 Harmonizer 调制图像特征，给标注者加入高频提示，并用 GED 正则拟合标注分布。
+- **Baseline** · 对照 PHiSeg、单标注者 U-Net 及表2–3的个性化分割方法。
+- **Benchmark** · LIDC-IDRI 和 NPC-170；以多标注分布 GED 和分割 Dice 等评估。
+- **关键结果 / 消融** · 表1–3显示模型在分布拟合及个体分割表现上改善，正文报告额外参数较少。
+- **适用条件 / 局限** · 需要每例多标注或可追踪的标注者标签；高频提示只能表示模型已学到的样式差异。
+
+**可复用机制** · 多标注者分割中降除扫描差异，同时显式用频域提示保存标注者的边界偏好。
+
+<a id="paper-velox-4d-representation"></a>
+
+## Velox: Learning Representations of 4D Geometry and Appearance
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Malik_Velox_Learning_Representations_of_4D_Geometry_and_Appearance_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Malik_Velox_Learning_Representations_of_4D_Geometry_and_Appearance_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐帧三维编码缺少统一动态表示，纯渲染监督也可能不足以定位几何。
+- **核心创新 / 方法** · 编码非结构化时空彩色点云，用4D表面解码器和高斯解码器分别监督几何与外观。
+- **Baseline** · 与逐帧或独立编码方案比较；视频生成比较 GVF 等相关基线。
+- **Benchmark** · Objaverse 三维点追踪用 L2 和 APD；Consistent4D 与 Objaverse 视频到4D测输入视角和九个新视角；另测布料模拟。
+- **关键结果 / 消融** · 原文表2–3报告共享动态表示可用于追踪和生成，输入视角重建优于所测生成基线。
+- **适用条件 / 局限** · 点云覆盖和时间采样决定可编码的信息，验证以对象级动态为主。
+
+**可复用机制** · 压缩动态物体点云时，用时变表面与可渲染外观两条监督共同训练一组 4D token。
+
+<a id="paper-trm-vla"></a>
+
+## TRM-VLA: Temporal-Aware Chain-of-Thought Reasoning and Memorization for Vision-Language-Action Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_TRM-VLA_Temporal-Aware_Chain-of-Thought_Reasoning_and_Memorization_for_Vision-Language-Action_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_TRM-VLA_Temporal-Aware_Chain-of-Thought_Reasoning_and_Memorization_for_Vision-Language-Action_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 每帧生成完整推理导致延迟，独立生成还会在长程任务中前后冲突。
+- **核心创新 / 方法** · KTR 仅在关键决策帧生成分层显式计划，GCM 按所需粒度存取历史推理。
+- **Baseline** · 基于 CogACT，对照 CogACT-Base、CogACT-ECoT 等；在模拟和实机任务中比较。
+- **Benchmark** · LIBERO-90、SIMPLER 的 SimplerEnv-Bridge 与4项实机操作；报告成功率、进度和每步生成 token。
+- **关键结果 / 消融** · 表1报告模拟任务平均成功率72.9%；表2–3显示长程成功和推理开销相较所测对照改善。
+- **适用条件 / 局限** · 依赖关键帧判定和历史记录的正确性；任务环境变化时旧计划可能失效。
+
+**可复用机制** · 机器人滚动决策时，仅在任务进展关键帧触发推理，并按粒度检索历史推理状态。
+
+<a id="paper-sing-classifier-invariants"></a>
+
+## Make it SING: Analyzing Semantic Invariants in Classifiers
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yadid_Make_it_SING_Analyzing_Semantic_Invariants_in_Classifiers_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yadid_Make_it_SING_Analyzing_Semantic_Invariants_in_Classifiers_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 两个样本可有相同读出却存在语义差异，常见显著性方法难指出哪些属性被读出忽略。
+- **核心创新 / 方法** · 分析线性分类映射的零空间，将等效特征的差异交由视觉语言映射生成自然语言解释和视觉例子。
+- **Baseline** · 在相同干预标准下对照 ResNet50、ResNeXt101 与 DinoViT 等骨干。
+- **Benchmark** · 从单图到类和模型级做等输出语义分析；表1用标准化干预的语义变化角度对比。
+- **关键结果 / 消融** · 表1所测 DinoViT 的语义变化最小，ResNet 系列部分相关属性变化落在读出忽略的空间。
+- **适用条件 / 局限** · 线性读出假设及跨模型映射忠实度限制解释；等输出特征未必对应真实图像分布。
+
+**可复用机制** · 审计分类器特征时，通过读出层零空间区分已表征的属性与最终分类采用的属性。
+
+<a id="paper-prism-semantic-prototypes"></a>
+
+## PRISM: Prototype-based Reasoning with Inter-modal Semantic Mining for Interpretable Image Recognition
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_PRISM_Prototype-based_Reasoning_with_Inter-modal_Semantic_Mining_for_Interpretable_Image_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_PRISM_Prototype-based_Reasoning_with_Inter-modal_Semantic_Mining_for_Interpretable_Image_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 纯视觉原型能定位局部证据，却容易缺少可解释概念或重复聚焦同一区域。
+- **核心创新 / 方法** · 用信息论归因从描述获得相关区域，令原型激活对齐，并约束各原型空间集中及减少重叠。
+- **Baseline** · 对照 ProtoPNet、TesNet、ProtoViT、Label-Free CBM 等。
+- **Benchmark** · CUB-200-2011 等两个细粒度数据集，跨 CNN/ViT 骨干比较 top-1 与局部解释。
+- **关键结果 / 消融** · 表1–3报告对比视觉原型和图文解释基线的性能，消融验证归因与空间约束的贡献。
+- **适用条件 / 局限** · 描述覆盖和视觉语言归因质量影响原型语义；共现概念仍可能被误配。
+
+**可复用机制** · 让细粒度分类的部件原型对齐文本相关区域，并用紧致性约束减少原型重复。
+
+<a id="paper-kyvo-3d-token-alignment"></a>
+
+## Aligning Text, Images and 3D Structure Token-by-Token
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Sahoo_Aligning_Text_Images_and_3D_Structure_Token-by-Token_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Sahoo_Aligning_Text_Images_and_3D_Structure_Token-by-Token_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 原始网格和位姿没有适于自回归模型的统一序列单位，离散过粗还会损失空间细节。
+- **核心创新 / 方法** · 将对象几何及位姿编码成三维场景词元，与文本和图像共同自回归训练，并比较几何重建辅助项与量化粒度。
+- **Baseline** · 表1比较带或去掉辅助重建的分词器，表2比较三维分词方案，表3比较位姿粒度。
+- **Benchmark** · Objaverse、CLEVR 等四个三维数据集，覆盖渲染、识别、指令遵循和问答；分词实验用人工平均排名等指标。
+- **关键结果 / 消融** · 表3中0.05是所测 CLEVR 上最优粒度；表1–2报告分词和重建监督影响人评。
+- **适用条件 / 局限** · 最佳粒度取决于场景尺寸与布局，依赖结构化对象表示，开放世界未分割场景仍需验证。
+
+**可复用机制** · 把结构化三维场景加入多模态语言模型时，分别选对象形状和位姿的离散粒度，并以重建辅助目标检验。
+
+<a id="paper-event-structural-valley"></a>
+
+## Event Structural Valley: A Unified Theoretical and Practical Framework for Event Camera Autofocus
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_Event_Structural_Valley_A_Unified_Theoretical_and_Practical_Framework_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiang_Event_Structural_Valley_A_Unified_Theoretical_and_Practical_Framework_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 运动和离焦共同影响事件率，用最大事件率对焦假设可能错过最清晰位置。
+- **核心创新 / 方法** · 从事件触发推导事件率双峰一谷规律，使用平滑和一致性约束提取主峰之间的谷。
+- **Baseline** · 原文表1–3对照已有事件相机自动对焦算法。
+- **Benchmark** · SYN、DAVIS、EVK4 上不同光照与运动条件，以平均对焦时间戳误差（毫秒）评估。
+- **关键结果 / 消融** · 表1–3报告所测合成和实拍环境误差改善，展示无需重建图像的事件对焦度量。
+- **适用条件 / 局限** · 需要扫焦窗内观察到两侧结构；缺纹理、事件稀疏或场景迅速变化时峰谷可能难辨。
+
+**可复用机制** · 事件相机扫描焦距时，找两峰之间的事件率谷，而非将事件率峰值当焦点。
+
+<a id="paper-confidence-driven-visual-reasoning"></a>
+
+## Linking Perception, Confidence and Accuracy in MLLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Du_Linking_Perception_Confidence_and_Accuracy_in_MLLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Du_Linking_Perception_Confidence_and_Accuracy_in_MLLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 感知证据受损时多模态模型仍可能过度自信，固定次数复核浪费计算。
+- **核心创新 / 方法** · 对原图和加噪图配对施加置信奖励；测试时用置信信号调度一致性、反思和视觉复核，由外部专家提供判断。
+- **Baseline** · Qwen2.5-VL-7B 训练及免训练对照，表2分别消融置信训练和推理调度，表3替换专家。
+- **Benchmark** · Math-Vision、MathVista 等四个视觉推理基准，比较开放问答和选择题准确率及测试时扩展。
+- **关键结果 / 消融** · 作者报告整套方法跨四基准约8.8%的总体增益，表2显示单项与联合效果。
+- **适用条件 / 局限** · 加噪样本未必覆盖真实感知失败；外部专家会带来额外成本、偏差和相关错误。
+
+**可复用机制** · 多模态推理训练用清晰与扰动图像的配对置信奖励，推理时按置信度分配验证预算。

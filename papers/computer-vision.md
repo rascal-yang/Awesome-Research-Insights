@@ -1014,5 +1014,18 @@
 - [CLP: A Real-World Dataset of Contaminated Lens Protectors for Robust Semantic Segmentation](../conferences/cvpr-2026/cards.md#paper-clp-restore-segment-tradeoff)
 - [VIAFormer: Voxel-Image Alignment Transformer for High-Fidelity Voxel Refinement](../conferences/cvpr-2026/cards.md#paper-viaformer)
 - [MV-TAP: Tracking Any Point in Multi-View Videos](../conferences/cvpr-2026/cards.md#paper-mv-tap)
+- [MHopReg: Efficient Hierarchical Multi-Hop Graph Search for Point Cloud Registration](../conferences/cvpr-2026/cards.md#paper-mhopreg)
+- [PPISP: Physically-Plausible Compensation and Control of Photometric Variations in Radiance Field Reconstruction](../conferences/cvpr-2026/cards.md#paper-ppisp-photometric-reconstruction)
+- [EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation](../conferences/cvpr-2026/cards.md#paper-evatok-adaptive-video-token-budget)
+- [Self-Diffusion Driven Blind Imaging](../conferences/cvpr-2026/cards.md#paper-deblursdi-blind-self-diffusion)
+- [Delta Rectified Flow Sampling for Text-to-Image Editing](../conferences/cvpr-2026/cards.md#paper-drfs-path-aware-editing)
+- [IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-idesplat-iterative-depth)
+- [LacTokGen: Latent Consistency Tokenizer for 1024-pixel Image Generation by 256 Tokens](../conferences/cvpr-2026/cards.md#paper-lactok)
+- [Learning Generalizable 3D Medical Image Representations from Mask-Guided Self-Supervision](../conferences/cvpr-2026/cards.md#paper-mass-mask-guided-ssl)
+- [Toward Diffusible High-Dimensional Latent Spaces: A Frequency Perspective](../conferences/cvpr-2026/cards.md#paper-freqwarm)
+- [Suppressing Non-Semantic Noise in Masked Image Modeling Representations](../conferences/cvpr-2026/cards.md#paper-soap-mim-artifacts)
+- [Velox: Learning Representations of 4D Geometry and Appearance](../conferences/cvpr-2026/cards.md#paper-velox-4d-representation)
+- [PRISM: Prototype-based Reasoning with Inter-modal Semantic Mining for Interpretable Image Recognition](../conferences/cvpr-2026/cards.md#paper-prism-semantic-prototypes)
+- [Event Structural Valley: A Unified Theoretical and Practical Framework for Event Camera Autofocus](../conferences/cvpr-2026/cards.md#paper-event-structural-valley)
 
 <!-- conference-classification:end -->

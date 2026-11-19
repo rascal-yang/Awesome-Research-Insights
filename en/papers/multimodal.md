@@ -922,5 +922,8 @@ Learning across modalities such as images, text, audio, and video.
 - [InstAP: Instance-Aware Vision-Language Pre-Train for Spatial-Temporal Understanding](../../conferences/cvpr-2026/cards.md#paper-instap)
 - [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](../../conferences/cvpr-2026/cards.md#paper-av-reasoner)
 - [WaDi: Weight Direction-aware Distillation for One-step Image Synthesis](../../conferences/cvpr-2026/cards.md#paper-wadi)
+- [CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs](../../conferences/cvpr-2026/cards.md#paper-core-object-token-merging)
+- [Aligning Text, Images and 3D Structure Token-by-Token](../../conferences/cvpr-2026/cards.md#paper-kyvo-3d-token-alignment)
+- [Linking Perception, Confidence and Accuracy in MLLMs](../../conferences/cvpr-2026/cards.md#paper-confidence-driven-visual-reasoning)
 
 <!-- conference-classification:end -->

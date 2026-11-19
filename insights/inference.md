@@ -1324,5 +1324,9 @@
 - [SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching](../conferences/cvpr-2026/cards.md#paper-sencache)
 - [Structure-to-Intensity Diffusion for Adverse-Weather LiDAR Generation](../conferences/cvpr-2026/cards.md#paper-structure-to-intensity-diffusion)
 - [VIAFormer: Voxel-Image Alignment Transformer for High-Fidelity Voxel Refinement](../conferences/cvpr-2026/cards.md#paper-viaformer)
+- [Delta Rectified Flow Sampling for Text-to-Image Editing](../conferences/cvpr-2026/cards.md#paper-drfs-path-aware-editing)
+- [Suppressing Non-Semantic Noise in Masked Image Modeling Representations](../conferences/cvpr-2026/cards.md#paper-soap-mim-artifacts)
+- [CORE: Compact Object-centric REpresentations as a New Paradigm for Token Merging in LVLMs](../conferences/cvpr-2026/cards.md#paper-core-object-token-merging)
+- [TRM-VLA: Temporal-Aware Chain-of-Thought Reasoning and Memorization for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-trm-vla)
 
 <!-- conference-classification:end -->
