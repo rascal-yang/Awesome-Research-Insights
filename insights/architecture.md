@@ -620,5 +620,6 @@
 - [CUBic: Coordinated Unified Bimanual Perception and Control Framework](../conferences/cvpr-2026/cards.md#paper-cubic-bimanual)
 - [Semantic Context Matters: Improving Conditioning for Autoregressive Models](../conferences/cvpr-2026/cards.md#paper-scar-semantic-context)
 - [SRA-Det: Learning Omni-Grained Open-Vocabulary Detection Beyond Category Names](../conferences/cvpr-2026/cards.md#paper-sra-det)
+- [Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token](../conferences/cvpr-2026/cards.md#paper-self1e)
 
 <!-- conference-classification:end -->

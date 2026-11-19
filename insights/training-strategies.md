@@ -1013,5 +1013,10 @@
 - [Anti-Degradation Lifelong Multi-View Clustering](../conferences/cvpr-2026/cards.md#paper-almc-nullspace-retained-view-updates)
 - [HiFICL: High-Fidelity In-Context Learning for Multimodal Tasks](../conferences/cvpr-2026/cards.md#paper-hificl-virtual-kv)
 - [Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective](../conferences/cvpr-2026/cards.md#paper-energy-wave-test-time-adaptation)
+- [OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation](../conferences/cvpr-2026/cards.md#paper-olmoearth-modality-masked-latent-modeling)
+- [Geometry-driven OOD Detectors Are Class-Incremental Learners](../conferences/cvpr-2026/cards.md#paper-geometry-driven-ood-heads)
+- [ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation](../conferences/cvpr-2026/cards.md#paper-realign-forgery-detection)
+- [Learning from Itself: Mining Internal Knowledge from Vision Language Models for Continual Learning](../conferences/cvpr-2026/cards.md#paper-learning-from-itself-clip-continual)
+- [Scene-Centric Unsupervised Video Panoptic Segmentation](../conferences/cvpr-2026/cards.md#paper-videocups-video-droploss)
 
 <!-- conference-classification:end -->

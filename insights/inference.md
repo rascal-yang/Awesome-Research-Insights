@@ -1412,5 +1412,11 @@
 - [SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping](../conferences/cvpr-2026/cards.md#paper-speede3dgs)
 - [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](../conferences/cvpr-2026/cards.md#paper-lite-vggt)
 - [SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls](../conferences/cvpr-2026/cards.md#paper-switchcraft-event-aligned-steering)
+- [DICArt: Advancing Category-level Articulated Object Pose Estimation in Discrete State-Spaces](../conferences/cvpr-2026/cards.md#paper-dicart-discrete-kinematic-pose-diffusion)
+- [Global-Aware Edge Prioritization for Pose Graph Initialization](../conferences/cvpr-2026/cards.md#paper-global-edge-prior)
+- [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](../conferences/cvpr-2026/cards.md#paper-adaptvision)
+- [Saliency-Driven Token Merging for Vision Transformers](../conferences/cvpr-2026/cards.md#paper-sad-tm-saliency-merging)
+- [FastGS: Training 3D Gaussian Splatting in 100 Seconds](../conferences/cvpr-2026/cards.md#paper-fastgs-multiview-consistency)
+- [Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing](../conferences/cvpr-2026/cards.md#paper-edit-as-act-goal-regressive)
 
 <!-- conference-classification:end -->

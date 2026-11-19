@@ -417,5 +417,6 @@ Objectives, auxiliary supervision, and regularization.
 - [Correspondence-Attention Alignment for Multi-View Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-cameo-correspondence-attention)
 - [AToken: A Unified Tokenizer for Vision](../../conferences/cvpr-2026/cards.md#paper-atoken-covariance-loss-visual-tokenizer)
 - [Beyond Soft Label: Dataset Distillation via Orthogonal Gradient Matching](../../conferences/cvpr-2026/cards.md#paper-orthogonal-gradient-matching)
+- [Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-temporal-adjusted-loss)
 
 <!-- conference-classification:end -->

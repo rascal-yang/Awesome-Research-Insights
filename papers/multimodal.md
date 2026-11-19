@@ -1067,5 +1067,12 @@
 - [SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls](../conferences/cvpr-2026/cards.md#paper-switchcraft-event-aligned-steering)
 - [HiFICL: High-Fidelity In-Context Learning for Multimodal Tasks](../conferences/cvpr-2026/cards.md#paper-hificl-virtual-kv)
 - [Hear you are: Teaching LLMs Spatial Reasoning with Vision and Spatial Sound](../conferences/cvpr-2026/cards.md#paper-binaural-spatial-reasoning)
+- [OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation](../conferences/cvpr-2026/cards.md#paper-olmoearth-modality-masked-latent-modeling)
+- [InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity](../conferences/cvpr-2026/cards.md#paper-infinibench-irrelevant-object-spatial-stress-test)
+- [Beyond Semantic Search: Towards Referential Anchoring in Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-oacir-instance-anchor-retrieval)
+- [Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token](../conferences/cvpr-2026/cards.md#paper-self1e)
+- [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](../conferences/cvpr-2026/cards.md#paper-adaptvision)
+- [Learning from Itself: Mining Internal Knowledge from Vision Language Models for Continual Learning](../conferences/cvpr-2026/cards.md#paper-learning-from-itself-clip-continual)
+- [Reinforcing Video Object Segmentation to Think before it Segments](../conferences/cvpr-2026/cards.md#paper-veason-r1-sequential-segmentation)
 
 <!-- conference-classification:end -->

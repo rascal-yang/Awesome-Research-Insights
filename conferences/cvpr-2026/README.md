@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 957 篇，其中 620 篇暂收录、337 篇排除，另有 3,085 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 987 篇，其中 638 篇暂收录、349 篇排除，另有 3,055 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -626,3 +626,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 957 �
 | 多模态学习 | 微调与适配 | [HiFICL: High-Fidelity In-Context Learning for Multimodal Tasks](cards.md#paper-hificl-virtual-kv) | 近似多模态示例学习时，拟合虚拟键值以保留依查询而变的注意力分量。 |
 | 多模态学习 | 评测与分析 | [Hear you are: Teaching LLMs Spatial Reasoning with Vision and Spatial Sound](cards.md#paper-binaural-spatial-reasoning) | 验证视听空间推理时设置语义不匹配但位置吻合的样本，并比较双耳和单声道。 |
 | 机器学习基础 | 微调与适配 | [Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective](cards.md#paper-energy-wave-test-time-adaptation) | 能量式测试时适配可检验确定性概率流更新能否减少逐样本随机采样。 |
+| 多模态学习 | 自监督学习 | [OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation](cards.md#paper-olmoearth-modality-masked-latent-modeling) | 多传感器预训练可优先实测整模态遮盖，并区分潜空间预测方案本身是否存在训练坍塌。见表 4。 |
+| 多模态学习 | 评估与诊断 | [InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity](cards.md#paper-infinibench-irrelevant-object-spatial-stress-test) | 空间推理测试可固定目标关系，只分别改变无关物体数，避免总体分数掩盖对时空跟踪的特定影响。见表 5。 |
+| 机器人学 | 生成建模 | [DICArt: Advancing Category-level Articulated Object Pose Estimation in Discrete State-Spaces](cards.md#paper-dicart-discrete-kinematic-pose-diffusion) | 估计具有运动学约束的姿态时，可对照离散扩散与连续扩散，并用部件间层次关系减少独立搜索。见表 2。 |
+| 机器人学 | 数据增强 | [AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Affordance Correspondence](cards.md#paper-affordgen-geometry-demonstration-budget) | 示教增强时可固定总轨迹数，分别试验多对象网格与每对象多轨迹如何分配预算。见表 1。 |
+| 多模态学习 | 检索增强 | [Beyond Semantic Search: Towards Referential Anchoring in Composed Image Retrieval](cards.md#paper-oacir-instance-anchor-retrieval) | 当检索必须找回同一实例，可在查询中提供显式局部锚点，并对相似实例干扰单列身份召回。见表 3。 |
+| 计算机视觉 | 模型效率 | [UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders](cards.md#paper-uplift-local-attender-iterative-feature-upsampling) | 稠密下游任务可比较逐级局部上采样和大规模跨注意力，联合看时延、分割精度与深度误差。见表 1。 |
+| 多模态学习 | 模型架构 | [Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token](cards.md#paper-self1e) | 想去掉外部分割头时，保留未压缩视觉网格，并把语言侧语义作为残差补回。 |
+| 机器学习基础与统计 | 损失函数 | [Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning](cards.md#paper-temporal-adjusted-loss) | 类别分期到达时，统计旧类被当负样本的累计监督，再决定是否重加权交叉熵。 |
+| 计算机视觉 | 推理与规划 | [Global-Aware Edge Prioritization for Pose Graph Initialization](cards.md#paper-global-edge-prior) | 昂贵几何验证前按全图约束排序候选边，优先补弱连通区域而非仅做节点最近邻。 |
+| 多模态学习 | 推理策略 | [AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition](cards.md#paper-adaptvision) | 按问题主动获取视觉细节，把何时裁剪与答题质量的优化信号分开。 |
+| 机器学习基础与统计 | 持续学习 | [Geometry-driven OOD Detectors Are Class-Incremental Learners](cards.md#paper-geometry-driven-ood-heads) | 增量分类可将任务头同时训练成域内分类器与域外拒绝器，并联合考察类间分离和类内紧致。 |
+| 计算机视觉 | 训练策略 | [ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation](cards.md#paper-realign-forgery-detection) | 只在训练使用教师提供语义异常解释，用对比蒸馏比较解释、描述和类别标签的贡献。 |
+| 计算机视觉 | 推理优化 | [Saliency-Driven Token Merging for Vision Transformers](cards.md#paper-sad-tm-saliency-merging) | 免训练裁并视觉词元时，将输入显著性异常作为补充，并推迟早层的合并。 |
+| 计算机视觉 | 推理优化 | [FastGS: Training 3D Gaussian Splatting in 100 Seconds](cards.md#paper-fastgs-multiview-consistency) | 三维高斯训练时使用多视图一致性定新增和剪枝优先级，而非先锁定统一数量预算。 |
+| 多模态学习 | 知识蒸馏 | [Learning from Itself: Mining Internal Knowledge from Vision Language Models for Continual Learning](cards.md#paper-learning-from-itself-clip-continual) | 持续适配图文模型时，根据当前强弱动态调整视觉分类支路与文本支路之间的蒸馏方向。 |
+| 多模态学习 | 强化学习 | [Reinforcing Video Object Segmentation to Think before it Segments](cards.md#paper-veason-r1-sequential-segmentation) | 视频分割需要多步推理时，把关键帧选择、框定位和传播一致性变成分别可核查的奖励。 |
+| 机器人学 | 规划与决策 | [Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing](cards.md#paper-edit-as-act-goal-regressive) | 编辑三维环境时先写目标状态，再反向规划最少可验操作，保留未涉及对象。 |
+| 计算机视觉 | 自监督学习 | [Scene-Centric Unsupervised Video Panoptic Segmentation](cards.md#paper-videocups-video-droploss) | 时序全景伪标签噪声大时，在训练损失侧排除不可靠监督，并单独评估关联和语义。 |

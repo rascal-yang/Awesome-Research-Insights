@@ -1173,5 +1173,11 @@
 - [SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping](../conferences/cvpr-2026/cards.md#paper-speede3dgs)
 - [ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes](../conferences/cvpr-2026/cards.md#paper-rescene4d)
 - [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](../conferences/cvpr-2026/cards.md#paper-lite-vggt)
+- [UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders](../conferences/cvpr-2026/cards.md#paper-uplift-local-attender-iterative-feature-upsampling)
+- [Global-Aware Edge Prioritization for Pose Graph Initialization](../conferences/cvpr-2026/cards.md#paper-global-edge-prior)
+- [ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation](../conferences/cvpr-2026/cards.md#paper-realign-forgery-detection)
+- [Saliency-Driven Token Merging for Vision Transformers](../conferences/cvpr-2026/cards.md#paper-sad-tm-saliency-merging)
+- [FastGS: Training 3D Gaussian Splatting in 100 Seconds](../conferences/cvpr-2026/cards.md#paper-fastgs-multiview-consistency)
+- [Scene-Centric Unsupervised Video Panoptic Segmentation](../conferences/cvpr-2026/cards.md#paper-videocups-video-droploss)
 
 <!-- conference-classification:end -->

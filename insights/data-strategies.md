@@ -392,5 +392,7 @@
 - [Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation](../conferences/cvpr-2026/cards.md#paper-simple-synthetic-video-controls)
 - [Socratic-Geo: Synthetic Data Generation and Cross-Modal Geometric Reasoning via Multi-Agent Interaction](../conferences/cvpr-2026/cards.md#paper-socratic-geo-failure-directed-synthesis)
 - [SRA 2: Variational Autoencoder Self-Representation Alignment  for Efficient Diffusion Training](../conferences/cvpr-2026/cards.md#paper-sra2-vae-feature-alignment)
+- [AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Affordance Correspondence](../conferences/cvpr-2026/cards.md#paper-affordgen-geometry-demonstration-budget)
+- [Beyond Semantic Search: Towards Referential Anchoring in Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-oacir-instance-anchor-retrieval)
 
 <!-- conference-classification:end -->

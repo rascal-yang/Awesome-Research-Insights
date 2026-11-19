@@ -2353,5 +2353,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Lipschitz Optimization for Formal Verification of Homographies](../../conferences/cvpr-2026/cards.md#paper-homography-verification)
 - [Improving Sparse Autoencoder with Dynamic Attention](../../conferences/cvpr-2026/cards.md#paper-dynamic-attention-sae)
 - [Energy Waveify and Redistribution for Test-Time Adaptation: A Control System Perspective](../../conferences/cvpr-2026/cards.md#paper-energy-wave-test-time-adaptation)
+- [Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-temporal-adjusted-loss)
+- [Geometry-driven OOD Detectors Are Class-Incremental Learners](../../conferences/cvpr-2026/cards.md#paper-geometry-driven-ood-heads)
 
 <!-- conference-classification:end -->

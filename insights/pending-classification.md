@@ -775,5 +775,6 @@
 - [DRiffusion: Draft-and-Refine Process Parallelizes Diffusion Models with Ease](../conferences/cvpr-2026/cards.md#paper-driffusion-parallel-draft-noise-refinement)
 - [FedSDR: Federated Graph Learning with Structural Noise Detection and Reconstruction](../conferences/cvpr-2026/cards.md#paper-fedsdr-spectral-fidelity-client-aggregation)
 - [Lipschitz Optimization for Formal Verification of Homographies](../conferences/cvpr-2026/cards.md#paper-homography-verification)
+- [UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders](../conferences/cvpr-2026/cards.md#paper-uplift-local-attender-iterative-feature-upsampling)
 
 <!-- conference-classification:end -->

@@ -909,5 +909,8 @@ Robot perception, policy learning, planning, and control.
 - [CUBic: Coordinated Unified Bimanual Perception and Control Framework](../../conferences/cvpr-2026/cards.md#paper-cubic-bimanual)
 - [Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](../../conferences/cvpr-2026/cards.md#paper-fast-thinkact)
 - [PlannerRFT: Reinforcing Diffusion Planners through Closed-Loop and Sample-Efficient Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-planner-rft)
+- [DICArt: Advancing Category-level Articulated Object Pose Estimation in Discrete State-Spaces](../../conferences/cvpr-2026/cards.md#paper-dicart-discrete-kinematic-pose-diffusion)
+- [AffordGen: Generating Diverse Demonstrations for Generalizable Object Manipulation with Affordance Correspondence](../../conferences/cvpr-2026/cards.md#paper-affordgen-geometry-demonstration-budget)
+- [Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing](../../conferences/cvpr-2026/cards.md#paper-edit-as-act-goal-regressive)
 
 <!-- conference-classification:end -->
