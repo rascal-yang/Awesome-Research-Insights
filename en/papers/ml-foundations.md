@@ -2525,5 +2525,8 @@ General learning methods, optimization, learning theory, and inference.
 - [OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation](../../conferences/cvpr-2026/cards.md#paper-opro-orthogonal-panel-relative-operators)
 - [Improving Controllable Generation: Faster Training and Better Performance via x0-Supervision](../../conferences/cvpr-2026/cards.md#paper-x0-supervision-controllable-generation)
 - [DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-diversedit-block-diversity)
+- [Parameter-efficient Continual Learning for Enhancing Plasticity without Forgetting under Limited Model Capacity](../../conferences/cvpr-2026/cards.md#paper-gradient-guided-frozen-parameter-reuse)
+- [Unified Customized Generation by Disentangled Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-uso-disentangled-subject-style-rewards)
+- [Neural Collapse in Test-Time Adaptation](../../conferences/cvpr-2026/cards.md#paper-nctta-sample-alignment-pseudolabels)
 
 <!-- conference-classification:end -->

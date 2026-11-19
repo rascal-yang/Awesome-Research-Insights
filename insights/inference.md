@@ -1622,5 +1622,8 @@
 - [SCoRe: Salience-Coverage Reduction for Vision Token Pruning in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-score-vision-token-pruning)
 - [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](../conferences/cvpr-2026/cards.md#paper-drs-gui-region-search)
 - [RoboAgent: Chaining Basic Capabilities for Embodied Task Planning](../conferences/cvpr-2026/cards.md#paper-roboagent-capability-local-context-scheduling)
+- [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](../conferences/cvpr-2026/cards.md#paper-videoitg-instructed-sampling)
+- [Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep](../conferences/cvpr-2026/cards.md#paper-hetcache-video-editing)
+- [Neural Collapse in Test-Time Adaptation](../conferences/cvpr-2026/cards.md#paper-nctta-sample-alignment-pseudolabels)
 
 <!-- conference-classification:end -->

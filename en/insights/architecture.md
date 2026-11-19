@@ -730,5 +730,7 @@ Model-wide design and information flow.
 - [Language-guided Frequency Modulation for Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-language-conditioned-frequency-modulation)
 - [Hear What Matters! Text-conditioned Selective Video-to-Audio Generation](../../conferences/cvpr-2026/cards.md#paper-selva-selective-video-audio)
 - [Perceiving the Near, Reasoning the Distant: Coherent Long-Horizon Trajectory Prediction for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-ndpnet-horizon-transition)
+- [WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-metric-discrete-flow-trajectory-planning)
+- [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](../../conferences/cvpr-2026/cards.md#paper-temporal-shapes-to-reference-deformation)
 
 <!-- conference-classification:end -->

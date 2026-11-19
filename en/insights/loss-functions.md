@@ -483,5 +483,7 @@ Objectives, auxiliary supervision, and regularization.
 - [ReFlow: Self-correction Motion Learning for Dynamic Scene Reconstruction](../../conferences/cvpr-2026/cards.md#paper-reflow-motion-self-correction)
 - [PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery](../../conferences/cvpr-2026/cards.md#paper-pad-hand-physics-variance)
 - [DiverseDiT: Towards Diverse Representation Learning in Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-diversedit-block-diversity)
+- [Boosting Vision-Language-Action Finetuning with Feasible Action Neighborhood Prior](../../conferences/cvpr-2026/cards.md#paper-fan-action-neighborhood)
+- [High-Precision Dichotomous Image Segmentation via Depth Integrity-Prior and Fine-Grained Patch Strategy](../../conferences/cvpr-2026/cards.md#paper-pdfnet-depth-integrity)
 
 <!-- conference-classification:end -->

@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,607 篇，其中 1,650 篇暂收录、957 篇排除，另有 1,435 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,637 篇，其中 1,669 篇暂收录、968 篇排除，另有 1,405 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1656,3 +1656,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,607
 | 机器人学 | 时序记忆 | [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](cards.md#paper-avavla-recurrent-belief-visual-attention) | 用递归信念状态按指令和动作历史重加权当前视觉 token。 |
 | 多模态学习 | 主动感知 | [Act2See: Emergent Active Visual Perception for Video Reasoning](cards.md#paper-act2see-retrieve-or-synthesize-frames) | 训练模型在推理中按需获取视觉帧，并把检索的观测和生成的假设分开使用。 |
 | 多模态学习 | 评测设计 | [From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](cards.md#paper-osi-bench-metric-spatial-reasoning-gap) | 用度量真值及盲视对照诊断空间推理是否使用了视觉证据。 |
+| 多模态学习 | 训练策略 | [Noise-Aware Few-Shot Learning through Bi-directional Multi-View Prompt Alignment](cards.md#paper-bidirectional-region-prompt-noise-control) | 少样本提示微调遇到噪声标签时，可以以区域与提示的部分匹配保留可靠信号。 |
+| 多模态学习 | 表征学习 | [RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cue for 3D Object Detection](cards.md#paper-adaptive-gaussians-radar-camera-fusion) | 可通过稀疏而可移动的三维原语，把异质传感器的计算预算集中于目标附近。 |
+| 机器人学 | 模型架构 | [WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving](cards.md#paper-metric-discrete-flow-trajectory-planning) | 连续轨迹若需离散生成，可让 token 表征保留数值距离，再并行粗到细去噪。 |
+| 机器学习基础与统计 | 优化 | [Parameter-efficient Continual Learning for Enhancing Plasticity without Forgetting under Limited Model Capacity](cards.md#paper-gradient-guided-frozen-parameter-reuse) | 容量受限的持续学习可把冻结权重复用与新增参数分配作为两个独立决策。 |
+| 计算机视觉 | 模型架构 | [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](cards.md#paper-temporal-shapes-to-reference-deformation) | 可将时间同步的独立三维形状转换成对同一参考网格的形变，以得到一致拓扑的动画。 |
+| 计算机视觉 | 表征学习 | [Towards Intrinsic-Aware Monocular 3D Object Detection](cards.md#paper-intrinsic-conditioned-monocular-spatial-model) | 单目模型跨设备部署可用相机内参的视觉几何条件做分层适配，并按焦距外插单独评测。 |
+| 计算机视觉 | 训练策略 | [From Few-way to Many-way: Rethinking Few-shot Fine-grained Image Classification](cards.md#paper-sceg-many-way-few-shot) | 少样本任务的训练类别数显著小于部署类别数时，加入全局分离约束并直接测试多类泛化。 |
+| 机器人学 | 损失函数 | [Boosting Vision-Language-Action Finetuning with Feasible Action Neighborhood Prior](cards.md#paper-fan-action-neighborhood) | 当相邻动作具有同等进展时，可让动作输出分布反映局部容忍度以提高示教利用效率。 |
+| 计算机视觉 | 损失函数 | [High-Precision Dichotomous Image Segmentation via Depth Integrity-Prior and Fine-Grained Patch Strategy](cards.md#paper-pdfnet-depth-integrity) | 用深度结构先验辅助 RGB 掩膜学习，在局部修复前检查目标内外的几何连续性。 |
+| 多模态学习 | 评测与诊断 | [Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](cards.md#paper-mmrb2-interleaved-judges) | 奖励模型需用专家匹配的跨模态偏好对做分任务校准，避免把单一生成评分推广到交错推理。 |
+| 多模态学习 | 推理策略 | [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](cards.md#paper-videoitg-instructed-sampling) | 视频读入预算有限时，按指令查找关键片段并选择帧，将选帧和回答分开比较。 |
+| 计算机视觉 | 推理策略 | [Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep](cards.md#paper-hetcache-video-editing) | 在扩散的选定计算步内按令牌作用分配刷新，避免每次刷新重算全部上下文。 |
+| 多模态学习 | 奖励函数 | [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](cards.md#paper-saliency-r1-alignment) | 将关键区域与生成时实际用到的视觉证据对齐，作为答案正确性之外的奖励。 |
+| 计算机视觉 | 优化策略 | [Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction](cards.md#paper-pde-gaussian-optimization) | 点基元优化出现结构漂浮时，用局部粘性约束稳定更新，再评估渲染与几何两种目标。 |
+| 计算机视觉 | 分布外检测 | [A Debiased Reconstruction-based Framework for Training-Free Detection of AI-Generated Images](cards.md#paper-rdd-instance-reconstruction-debiasing) | 用保留背景的同图扰动建立参照，减少内容复杂度对重建异常分数的影响。 |
+| 计算机视觉 | 高效注意力 | [UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition](cards.md#paper-unimernet-horizontal-vertical-raster-attention) | 依据视觉读取顺序将二维全局注意力拆为先横向再纵向。 |
+| 机器人学 | 仿真与数据增广 | [SimScale: Learning to Drive via Real-World Simulation at Scale](cards.md#paper-simscale-reactive-perturbations-pseudo-expert) | 对日志中的自车状态施加反事实偏移，并给出新状态下的恢复轨迹监督。 |
+| 生成模型 | 强化学习与奖励 | [Unified Customized Generation by Disentangled Reward Modeling](cards.md#paper-uso-disentangled-subject-style-rewards) | 联合学习多个参考维度时，为容易互相泄漏的因素使用分离的反馈。 |
+| 机器学习 | 测试时适配 | [Neural Collapse in Test-Time Adaptation](cards.md#paper-nctta-sample-alignment-pseudolabels) | 在置信度自训练前检查样本特征和分类器权重是否仍对齐。 |

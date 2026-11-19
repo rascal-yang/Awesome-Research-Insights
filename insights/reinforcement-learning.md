@@ -801,5 +801,7 @@
 - [Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage](../conferences/cvpr-2026/cards.md#paper-instance-schedules-james-stein-reinforce)
 - [DRM: Diffusion-based Reward Model With Step-wise Guidance](../conferences/cvpr-2026/cards.md#paper-drm-intermediate-latent-stepwise-reward)
 - [Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures](../conferences/cvpr-2026/cards.md#paper-elf-vla-structured-failure-feedback)
+- [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](../conferences/cvpr-2026/cards.md#paper-saliency-r1-alignment)
+- [Unified Customized Generation by Disentangled Reward Modeling](../conferences/cvpr-2026/cards.md#paper-uso-disentangled-subject-style-rewards)
 
 <!-- conference-classification:end -->

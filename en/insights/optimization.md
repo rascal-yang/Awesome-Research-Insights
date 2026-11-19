@@ -700,5 +700,7 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment](../../conferences/cvpr-2026/cards.md#paper-gsa-cross-instance)
 - [TaskIT: Memory-Efficient Fine-Tuning of Multi-LoRA LLMs via Cross-Task Importance Transfer](../../conferences/cvpr-2026/cards.md#paper-budgeted-lora-module-selection)
 - [Fed-ADE: Adaptive Learning Rate for Federated Post-adaptation under Distribution Shift](../../conferences/cvpr-2026/cards.md#paper-uncertainty-feature-drift-learning-rate)
+- [Parameter-efficient Continual Learning for Enhancing Plasticity without Forgetting under Limited Model Capacity](../../conferences/cvpr-2026/cards.md#paper-gradient-guided-frozen-parameter-reuse)
+- [Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-pde-gaussian-optimization)
 
 <!-- conference-classification:end -->

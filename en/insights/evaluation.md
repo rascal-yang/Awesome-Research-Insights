@@ -1573,5 +1573,7 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [RealBirdID: Benchmarking Bird Species Identification in the Era of MLLMs](../../conferences/cvpr-2026/cards.md#paper-realbirdid-abstention)
 - [Exploring 6D Object Pose Estimation with Deformation](../../conferences/cvpr-2026/cards.md#paper-desope-deformation-failure)
 - [From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](../../conferences/cvpr-2026/cards.md#paper-osi-bench-metric-spatial-reasoning-gap)
+- [Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](../../conferences/cvpr-2026/cards.md#paper-mmrb2-interleaved-judges)
+- [A Debiased Reconstruction-based Framework for Training-Free Detection of AI-Generated Images](../../conferences/cvpr-2026/cards.md#paper-rdd-instance-reconstruction-debiasing)
 
 <!-- conference-classification:end -->

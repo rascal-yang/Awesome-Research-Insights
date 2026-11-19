@@ -1425,5 +1425,10 @@ Learning across modalities such as images, text, audio, and video.
 - [Role-SynthCLIP: A Role-Play Driven Diverse Synthetic Data Approach](../../conferences/cvpr-2026/cards.md#paper-role-synthclip-caption-diversity)
 - [Act2See: Emergent Active Visual Perception for Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-act2see-retrieve-or-synthesize-frames)
 - [From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](../../conferences/cvpr-2026/cards.md#paper-osi-bench-metric-spatial-reasoning-gap)
+- [Noise-Aware Few-Shot Learning through Bi-directional Multi-View Prompt Alignment](../../conferences/cvpr-2026/cards.md#paper-bidirectional-region-prompt-noise-control)
+- [RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cue for 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-adaptive-gaussians-radar-camera-fusion)
+- [Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](../../conferences/cvpr-2026/cards.md#paper-mmrb2-interleaved-judges)
+- [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](../../conferences/cvpr-2026/cards.md#paper-videoitg-instructed-sampling)
+- [Saliency-R1: Enforcing Interpretable and Faithful Vision-language Reasoning via Saliency-map Alignment Reward](../../conferences/cvpr-2026/cards.md#paper-saliency-r1-alignment)
 
 <!-- conference-classification:end -->

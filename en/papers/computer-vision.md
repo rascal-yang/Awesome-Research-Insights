@@ -1497,5 +1497,13 @@ Visual representation, recognition, reconstruction, and generation.
 - [Compressed-Domain-Aware Online Video Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-codec-motion-residual-online-video)
 - [GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes](../../conferences/cvpr-2026/cards.md#paper-probabilistic-dynamic-gaussian-deformation)
 - [Masked Representation Modeling for Domain-Adaptive Segmentation](../../conferences/cvpr-2026/cards.md#paper-semantic-latent-masking-domain-adaptation)
+- [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](../../conferences/cvpr-2026/cards.md#paper-temporal-shapes-to-reference-deformation)
+- [Towards Intrinsic-Aware Monocular 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-intrinsic-conditioned-monocular-spatial-model)
+- [From Few-way to Many-way: Rethinking Few-shot Fine-grained Image Classification](../../conferences/cvpr-2026/cards.md#paper-sceg-many-way-few-shot)
+- [High-Precision Dichotomous Image Segmentation via Depth Integrity-Prior and Fine-Grained Patch Strategy](../../conferences/cvpr-2026/cards.md#paper-pdfnet-depth-integrity)
+- [Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep](../../conferences/cvpr-2026/cards.md#paper-hetcache-video-editing)
+- [Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction](../../conferences/cvpr-2026/cards.md#paper-pde-gaussian-optimization)
+- [A Debiased Reconstruction-based Framework for Training-Free Detection of AI-Generated Images](../../conferences/cvpr-2026/cards.md#paper-rdd-instance-reconstruction-debiasing)
+- [UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition](../../conferences/cvpr-2026/cards.md#paper-unimernet-horizontal-vertical-raster-attention)
 
 <!-- conference-classification:end -->

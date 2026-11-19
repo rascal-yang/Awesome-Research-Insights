@@ -438,5 +438,6 @@
 - [EVLF: Early Vision-Language Fusion for Generative Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-early-conditioning-dataset-distillation)
 - [What's Wrong with Synthetic Data for Scene Text Recognition? A Strong Synthetic Engine with Diverse Simulations and Self-Evolution](../conferences/cvpr-2026/cards.md#paper-factorized-synthetic-real-data-gap)
 - [PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion](../conferences/cvpr-2026/cards.md#paper-adaptive-video-condensation-anchors)
+- [SimScale: Learning to Drive via Real-World Simulation at Scale](../conferences/cvpr-2026/cards.md#paper-simscale-reactive-perturbations-pseudo-expert)
 
 <!-- conference-classification:end -->

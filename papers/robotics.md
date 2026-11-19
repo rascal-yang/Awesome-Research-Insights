@@ -1055,5 +1055,8 @@
 - [Perceiving the Near, Reasoning the Distant: Coherent Long-Horizon Trajectory Prediction for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-ndpnet-horizon-transition)
 - [LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception](../conferences/cvpr-2026/cards.md#paper-lidas-task-directed-active-illumination)
 - [AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention](../conferences/cvpr-2026/cards.md#paper-avavla-recurrent-belief-visual-attention)
+- [WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-metric-discrete-flow-trajectory-planning)
+- [Boosting Vision-Language-Action Finetuning with Feasible Action Neighborhood Prior](../conferences/cvpr-2026/cards.md#paper-fan-action-neighborhood)
+- [SimScale: Learning to Drive via Real-World Simulation at Scale](../conferences/cvpr-2026/cards.md#paper-simscale-reactive-perturbations-pseudo-expert)
 
 <!-- conference-classification:end -->

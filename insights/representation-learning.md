@@ -734,5 +734,7 @@
 - [Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3-D Constrained Terrains](../conferences/cvpr-2026/cards.md#paper-vertical-grouped-voxel-locomotion)
 - [OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation](../conferences/cvpr-2026/cards.md#paper-opro-orthogonal-panel-relative-operators)
 - [GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes](../conferences/cvpr-2026/cards.md#paper-probabilistic-dynamic-gaussian-deformation)
+- [RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cue for 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-adaptive-gaussians-radar-camera-fusion)
+- [Towards Intrinsic-Aware Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-intrinsic-conditioned-monocular-spatial-model)
 
 <!-- conference-classification:end -->

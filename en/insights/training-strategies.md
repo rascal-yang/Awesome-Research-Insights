@@ -1212,5 +1212,7 @@ Training schedules, curricula, and task or stage composition.
 - [Asking like Socrates: Socrates helps VLMs understand remote sensing images](../../conferences/cvpr-2026/cards.md#paper-iterative-visual-evidence-trace-supervision)
 - [Masked Representation Modeling for Domain-Adaptive Segmentation](../../conferences/cvpr-2026/cards.md#paper-semantic-latent-masking-domain-adaptation)
 - [Role-SynthCLIP: A Role-Play Driven Diverse Synthetic Data Approach](../../conferences/cvpr-2026/cards.md#paper-role-synthclip-caption-diversity)
+- [Noise-Aware Few-Shot Learning through Bi-directional Multi-View Prompt Alignment](../../conferences/cvpr-2026/cards.md#paper-bidirectional-region-prompt-noise-control)
+- [From Few-way to Many-way: Rethinking Few-shot Fine-grained Image Classification](../../conferences/cvpr-2026/cards.md#paper-sceg-many-way-few-shot)
 
 <!-- conference-classification:end -->
