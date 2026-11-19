@@ -1498,5 +1498,11 @@ Decoding, test-time adaptation, and efficient execution.
 - [Layered 4D-Rotor Gaussian Splatting: A Compressed Representation for Long Dynamic Scenes](../../conferences/cvpr-2026/cards.md#paper-l4drotorgs-temporal-buckets)
 - [Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers](../../conferences/cvpr-2026/cards.md#paper-jit-spatial-diffusion-anchors)
 - [First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-first-logit-boosting)
+- [FlexTraj: Image-to-Video Generation with Flexible Point Trajectory Control](../../conferences/cvpr-2026/cards.md#paper-flextraj-trajectory-sequence-conditioning)
+- [Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement](../../conferences/cvpr-2026/cards.md#paper-vflm-render-feedback-layout-refinement)
+- [DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation](../../conferences/cvpr-2026/cards.md#paper-dbmsolver-semilinear-exponential-bridge-sampling)
+- [CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion](../../conferences/cvpr-2026/cards.md#paper-colc-lidar-completion)
+- [Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex](../../conferences/cvpr-2026/cards.md#paper-multinex)
+- [Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism](../../conferences/cvpr-2026/cards.md#paper-flexmem-visual-kv-memory)
 
 <!-- conference-classification:end -->

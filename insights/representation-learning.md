@@ -666,5 +666,8 @@
 - [Cluster-aware Anchor Learning for Multi-View Clustering](../conferences/cvpr-2026/cards.md#paper-cal-adaptive-cluster-anchor-budget)
 - [C-LaV: Conditional Latent Velocity Field Denoising for Weather-Robust LiDAR Place Recognition](../conferences/cvpr-2026/cards.md#paper-clav-weather-invariant-latent-place-recognition)
 - [Gravitation-Driven Semantic Alignment for Text Video Retrieval](../conferences/cvpr-2026/cards.md#paper-gravialign-probabilistic-retrieval)
+- [Hier-COS: Making Deep Features Hierarchy-aware via Composition of Orthogonal Subspaces](../conferences/cvpr-2026/cards.md#paper-hiercos-orthogonal-feature-hierarchy)
+- [Consistent Instance Field for Dynamic Scene Understanding](../conferences/cvpr-2026/cards.md#paper-consistent-instance-field)
+- [HSI-GPT2: A Dual-Granularity Large Motion Reasoning Model with Diffusion Refinement for Human-Scene Interaction](../conferences/cvpr-2026/cards.md#paper-hsi-gpt2-dual-motion-token)
 
 <!-- conference-classification:end -->

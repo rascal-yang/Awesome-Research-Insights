@@ -2424,5 +2424,12 @@ General learning methods, optimization, learning theory, and inference.
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](../../conferences/cvpr-2026/cards.md#paper-intrain-zero-cost-nas)
 - [Cluster-aware Anchor Learning for Multi-View Clustering](../../conferences/cvpr-2026/cards.md#paper-cal-adaptive-cluster-anchor-budget)
 - [RAPID: Reusing Attention Sparsity with Inter-step Adaptation for Efficient Video Diffusion](../../conferences/cvpr-2026/cards.md#paper-rapid-early-attention-mask-reuse)
+- [FlexTraj: Image-to-Video Generation with Flexible Point Trajectory Control](../../conferences/cvpr-2026/cards.md#paper-flextraj-trajectory-sequence-conditioning)
+- [Enhancing Accuracy of Uncertainty Estimation in Appearance-based Gaze Tracking with Probabilistic Evaluation and Calibration](../../conferences/cvpr-2026/cards.md#paper-gaze-conditional-distribution-coverage-calibration)
+- [Hier-COS: Making Deep Features Hierarchy-aware via Composition of Orthogonal Subspaces](../../conferences/cvpr-2026/cards.md#paper-hiercos-orthogonal-feature-hierarchy)
+- [DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation](../../conferences/cvpr-2026/cards.md#paper-dbmsolver-semilinear-exponential-bridge-sampling)
+- [Streamlined Knowledge Distillation](../../conferences/cvpr-2026/cards.md#paper-streamlined-kd)
+- [Prototype-based Causal Intervention for Multi-Label Image Classification](../../conferences/cvpr-2026/cards.md#paper-proci-context-prototypes)
+- [HFedATM: Hierarchical Federated Domain Generalization via Optimal Transport and Regularized Mean Aggregation](../../conferences/cvpr-2026/cards.md#paper-hfedatm-hierarchical-aggregation)
 
 <!-- conference-classification:end -->

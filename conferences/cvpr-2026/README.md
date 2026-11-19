@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,647 篇，其中 1,042 篇暂收录、605 篇排除，另有 2,395 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,677 篇，其中 1,059 篇暂收录、618 篇排除，另有 2,365 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1048,3 +1048,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,647
 | 计算机视觉 | 知识蒸馏 | [SigLino: Efficient Multi-Teacher Distillation for Agglomerative Vision Foundation Models](cards.md#paper-siglino-asymmetric-relations) | 多视觉教师几何不同，先蒸馏各自关系结构，配合等词元预算训练。 |
 | 多模态学习 | 推理优化 | [First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models](cards.md#paper-first-logit-boosting) | 开放式回答随长度丢失视觉信息时，可对照将早期视觉条件的分数作为后续解码先验。 |
 | 多模态学习 | 表示学习 | [Gravitation-Driven Semantic Alignment for Text Video Retrieval](cards.md#paper-gravialign-probabilistic-retrieval) | 一对多语义检索可同时要求分布中心接近和支持重叠，任一不足都降低匹配。 |
+| 生成模型 | 生成建模 | [FlexTraj: Image-to-Video Generation with Flexible Point Trajectory Control](cards.md#paper-flextraj-trajectory-sequence-conditioning) | 图像到视频的轨迹控制可把稀疏与稠密轨迹统一为可对应点序列，再与独立条件网络对照。见表 3。 |
+| 机器学习 | 评估与诊断 | [Enhancing Accuracy of Uncertainty Estimation in Appearance-based Gaze Tracking with Probabilistic Evaluation and Calibration](cards.md#paper-gaze-conditional-distribution-coverage-calibration) | 连续回归的置信度遇到域漂移时，可用少量数据校准误差条件分布，并检查名义覆盖是否达标。见表 2。 |
+| 多模态学习 | 推理策略 | [Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement](cards.md#paper-vflm-render-feedback-layout-refinement) | 生成可渲染布局时，可让模型看见自己的渲染结果后再修订，并分开测可读性和排版。见表 3。 |
+| 机器学习 | 表征学习 | [Hier-COS: Making Deep Features Hierarchy-aware via Composition of Orthogonal Subspaces](cards.md#paper-hiercos-orthogonal-feature-hierarchy) | 类别层次应同时约束表示和评估，可用正交子空间组合保障粗到细关系，再单测层级一致性。见表 4。 |
+| 生成模型 | 推理策略 | [DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation](cards.md#paper-dbmsolver-semilinear-exponential-bridge-sampling) | 扩散桥少步推理时可利用半线性结构分别积分线性项和非线性项，以相同函数评估预算对照。见表 2。 |
+| 计算机视觉 | 模型效率 | [UETrack: A Unified and Efficient Framework for Single Object Tracking](cards.md#paper-uetrack-token-pooled-multimodal-tracking) | 资源受限追踪可在共享模型内用池化标记路由专家，而不是为每种模态部署独立骨干，并实测多种设备。见表 3。 |
+| 机器人学 | 推理压缩 | [CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion](cards.md#paper-colc-lidar-completion) | 协作感知可传稀疏关键测量，在接收端用密集观测作为训练目标补全。 |
+| 计算机视觉 | 表示学习 | [Consistent Instance Field for Dynamic Scene Understanding](cards.md#paper-consistent-instance-field) | 持续对象记忆把占用和存在条件下的身份分别表示，避免不可见等于身份消失。 |
+| 计算机视觉 | 推理压缩 | [Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex](cards.md#paper-multinex) | 部署极小视觉网络时，先用解析先验提供互补通道，由网络学习少量残差。 |
+| 多模态学习 | 表示学习 | [HSI-GPT2: A Dual-Granularity Large Motion Reasoning Model with Diffusion Refinement for Human-Scene Interaction](cards.md#paper-hsi-gpt2-dual-motion-token) | 统一动作理解与生成时，可分别编码与文字对齐的语义层和构成连续动作的细节层。 |
+| 机器学习基础与统计 | 损失函数 | [Streamlined Knowledge Distillation](cards.md#paper-streamlined-kd) | 蒸馏可把实例分布和跨类别方向相关性拆开，避免多套重复目标。 |
+| 计算机视觉 | 训练策略 | [Closed-Form Concept Erasure via Double Projections](cards.md#paper-double-projection-concept-erasure) | 概念删除时定义需保留的方向，并按目标删除率和邻近概念效用分别评估。 |
+| 机器学习基础 | 迁移与泛化 | [Prototype-based Causal Intervention for Multi-Label Image Classification](cards.md#paper-proci-context-prototypes) | 多标签分类缺少对象框时，可用动态的类条件背景原型估计样本级共现偏差。 |
+| 多模态学习 | 训练与数据策略 | [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment](cards.md#paper-brima-modality-aware-replay) | 模态会中途异步缺失时，将补全记忆与按失真和漂移挑选的回放联合考虑。 |
+| 机器学习基础 | 迁移与泛化 | [HFedATM: Hierarchical Federated Domain Generalization via Optimal Transport and Regularized Mean Aggregation](cards.md#paper-hfedatm-hierarchical-aggregation) | 多个联邦站点聚合时，先对齐卷积滤波器，再用结构相关的线性聚合替代逐权重平均。 |
+| 多模态学习 | 推理优化 | [Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism](cards.md#paper-flexmem-visual-kv-memory) | 视频问答可分开设计视觉键值压缩写入和按查询或流任务读取。 |
+| 计算机视觉 | 评测与分析 | [Learning 3D Shape Fidelity Metric from Real-world Distortions](cards.md#paper-locase-real-shape-fidelity) | 三维质量评价可以真实重建错误和人评训练局部连接指标，补充 Chamfer 距离。 |

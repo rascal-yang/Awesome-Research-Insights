@@ -1511,5 +1511,7 @@
 - [Dictionary-Aligned Concept Control for Safeguarding Multimodal LLMs](../conferences/cvpr-2026/cards.md#paper-daco-concept-aligned-safety)
 - [VinQA: Visual Elements Interleaved Long-form Answer Generation for Real-World Multimodal Document QA](../conferences/cvpr-2026/cards.md#paper-vinqa-page-versus-element-citation-encoding)
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](../conferences/cvpr-2026/cards.md#paper-intrain-zero-cost-nas)
+- [Enhancing Accuracy of Uncertainty Estimation in Appearance-based Gaze Tracking with Probabilistic Evaluation and Calibration](../conferences/cvpr-2026/cards.md#paper-gaze-conditional-distribution-coverage-calibration)
+- [Learning 3D Shape Fidelity Metric from Real-world Distortions](../conferences/cvpr-2026/cards.md#paper-locase-real-shape-fidelity)
 
 <!-- conference-classification:end -->

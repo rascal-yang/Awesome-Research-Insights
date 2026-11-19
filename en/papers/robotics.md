@@ -965,5 +965,6 @@ Robot perception, policy learning, planning, and control.
 - [MAGICIAN: Efficient Long-Term Planning with Imagined Gaussians for Active Mapping](../../conferences/cvpr-2026/cards.md#paper-magician-long-horizon-coverage-planning)
 - [ForeAct: Steering Your VLA with Efficient Visual Foresight Planning](../../conferences/cvpr-2026/cards.md#paper-foreact-goal-image-and-subtask-conditioning)
 - [C-LaV: Conditional Latent Velocity Field Denoising for Weather-Robust LiDAR Place Recognition](../../conferences/cvpr-2026/cards.md#paper-clav-weather-invariant-latent-place-recognition)
+- [CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion](../../conferences/cvpr-2026/cards.md#paper-colc-lidar-completion)
 
 <!-- conference-classification:end -->

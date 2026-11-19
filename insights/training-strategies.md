@@ -1092,5 +1092,8 @@
 - [Learning from Synthetic Data via Provenance-Based Input Gradient Guidance](../conferences/cvpr-2026/cards.md#paper-synthetic-provenance-gradient-guidance)
 - [Uncertainty-Aware Knowledge Distillation for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-beta-kd)
 - [SigLino: Efficient Multi-Teacher Distillation for Agglomerative Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-siglino-asymmetric-relations)
+- [Closed-Form Concept Erasure via Double Projections](../conferences/cvpr-2026/cards.md#paper-double-projection-concept-erasure)
+- [Prototype-based Causal Intervention for Multi-Label Image Classification](../conferences/cvpr-2026/cards.md#paper-proci-context-prototypes)
+- [HFedATM: Hierarchical Federated Domain Generalization via Optimal Transport and Regularized Mean Aggregation](../conferences/cvpr-2026/cards.md#paper-hfedatm-hierarchical-aggregation)
 
 <!-- conference-classification:end -->

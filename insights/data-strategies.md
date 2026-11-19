@@ -416,5 +416,6 @@
 - [Image-based Outlier Synthesis With Training Data](../conferences/cvpr-2026/cards.md#paper-ascood-inlier-derived-outliers)
 - [RAG-TP: A General Framework for Vehicle Trajectory Prediction via Retrieval-Augmented Generation](../conferences/cvpr-2026/cards.md#paper-rag-tp-retrieved-trajectory-experts)
 - [No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-lavida-pseudo-anomalies)
+- [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment](../conferences/cvpr-2026/cards.md#paper-brima-modality-aware-replay)
 
 <!-- conference-classification:end -->

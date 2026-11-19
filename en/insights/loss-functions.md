@@ -436,5 +436,6 @@ Objectives, auxiliary supervision, and regularization.
 - [PowerCLIP: Powerset Alignment for Contrastive Pre-Training](../../conferences/cvpr-2026/cards.md#paper-powerclip)
 - [Improved Mean Flows: On the Challenges of Fastforward Generative Models](../../conferences/cvpr-2026/cards.md#paper-imf-instantaneous-regression)
 - [UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation](../../conferences/cvpr-2026/cards.md#paper-unifusion-source-preserving)
+- [Streamlined Knowledge Distillation](../../conferences/cvpr-2026/cards.md#paper-streamlined-kd)
 
 <!-- conference-classification:end -->

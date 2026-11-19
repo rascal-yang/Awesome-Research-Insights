@@ -1221,5 +1221,9 @@
 - [Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-jit-spatial-diffusion-anchors)
 - [First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-first-logit-boosting)
 - [Gravitation-Driven Semantic Alignment for Text Video Retrieval](../conferences/cvpr-2026/cards.md#paper-gravialign-probabilistic-retrieval)
+- [Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement](../conferences/cvpr-2026/cards.md#paper-vflm-render-feedback-layout-refinement)
+- [HSI-GPT2: A Dual-Granularity Large Motion Reasoning Model with Diffusion Refinement for Human-Scene Interaction](../conferences/cvpr-2026/cards.md#paper-hsi-gpt2-dual-motion-token)
+- [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment](../conferences/cvpr-2026/cards.md#paper-brima-modality-aware-replay)
+- [Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism](../conferences/cvpr-2026/cards.md#paper-flexmem-visual-kv-memory)
 
 <!-- conference-classification:end -->

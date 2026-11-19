@@ -1294,5 +1294,10 @@
 - [DVAR: Dynamic Visual Autoregressive Modeling for Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-dvar-canonical-scale)
 - [Layered 4D-Rotor Gaussian Splatting: A Compressed Representation for Long Dynamic Scenes](../conferences/cvpr-2026/cards.md#paper-l4drotorgs-temporal-buckets)
 - [SigLino: Efficient Multi-Teacher Distillation for Agglomerative Vision Foundation Models](../conferences/cvpr-2026/cards.md#paper-siglino-asymmetric-relations)
+- [UETrack: A Unified and Efficient Framework for Single Object Tracking](../conferences/cvpr-2026/cards.md#paper-uetrack-token-pooled-multimodal-tracking)
+- [Consistent Instance Field for Dynamic Scene Understanding](../conferences/cvpr-2026/cards.md#paper-consistent-instance-field)
+- [Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex](../conferences/cvpr-2026/cards.md#paper-multinex)
+- [Closed-Form Concept Erasure via Double Projections](../conferences/cvpr-2026/cards.md#paper-double-projection-concept-erasure)
+- [Learning 3D Shape Fidelity Metric from Real-world Distortions](../conferences/cvpr-2026/cards.md#paper-locase-real-shape-fidelity)
 
 <!-- conference-classification:end -->

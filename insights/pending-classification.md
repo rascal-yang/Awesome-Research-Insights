@@ -815,5 +815,6 @@
 - [SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models](../conferences/cvpr-2026/cards.md#paper-seacache-spectrum-aware-refresh-decision)
 - [RAPID: Reusing Attention Sparsity with Inter-step Adaptation for Efficient Video Diffusion](../conferences/cvpr-2026/cards.md#paper-rapid-early-attention-mask-reuse)
 - [3DrawAgent: Teaching LLM to Draw in 3D with Early Contrastive Experience](../conferences/cvpr-2026/cards.md#paper-3drawagent)
+- [UETrack: A Unified and Efficient Framework for Single Object Tracking](../conferences/cvpr-2026/cards.md#paper-uetrack-token-pooled-multimodal-tracking)
 
 <!-- conference-classification:end -->
