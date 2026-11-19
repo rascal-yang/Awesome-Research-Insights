@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,857 篇，其中 1,170 篇暂收录、687 篇排除，另有 2,185 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,887 篇，其中 1,188 篇暂收录、699 篇排除，另有 2,155 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1176,3 +1176,21 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,857
 | 计算机视觉 | 损失函数与优化 | [Real-Time Dynamic Scene Rendering with Controlled Compressibility and Contact Awareness](cards.md#paper-dynamic-gaussian-velocity-projection) | 动态场景的图元速度可投影至具有不同压缩性约束的物理分量，再做渲染。 |
 | 多模态学习 | 推理优化 | [Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation](cards.md#paper-pris-elementwise-prompt-revision) | 生成推理扩展可按属性聚合多个候选的共同失误，再重写提示，而非持续抽样原提示。 |
 | 计算机视觉 | 可解释性与诊断 | [Finding Distributed Object-Centric Properties in Self-Supervised Transformers](cards.md#paper-object-dino-distributed-patch-attention) | 提取无监督对象线索时，先检查跨层 patch 注意力的 Q/K/V 相似关系，避免只用末层全局词元。 |
+| 生成模型 | 模型效率 | [DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching](cards.md#paper-disca-distillation-compatible-video-feature-cache) | 视频扩散少步蒸馏完成后，决定缓存残余特征是否需要学预测器。见表 3。 |
+| 计算机视觉 | 表征学习 | [Spike-driven Discrete Aggregation for Event-based Object Detection](cards.md#paper-spike-driven-discrete-event-aggregation) | 异步传感器转稠密特征时，可先测选事件是否优于等时间分辨率的全事件累积。见表 3。 |
+| 机器学习 | 训练策略 | [Reframing Long-Tailed Learning via Loss Landscape Geometry](cards.md#paper-grouped-sharpness-long-tail-training) | 稀有类后期退化时，可以比较组特异扰动与被头类主导的全局 SAM 扰动。见表 4–5。 |
+| 计算机视觉 | 评估与诊断 | [KLIP: Localized Distribution Shift Detection via KL-Divergence with Diffusion Priors in Inverse Problems](cards.md#paper-klip-local-diffusion-posterior-shift) | 间接观测下，可比较全局异常分数与基于先验到后验变化的局部分块评分。见表 2–3。 |
+| 生成模型 | 推理策略 | [Precise Object and Effect Removal with Adaptive Target-Aware Attention](cards.md#paper-objectclear-effect-aware-diffusion-compositing) | 消除物体时，可用可超出物体掩模的效应图限制实际重绘范围，单独验证背景保真。见表 2。 |
+| 计算机视觉 | 表征学习 | [Scaling Up AI-Generated Image Detection with Generator-Aware Prototypes](cards.md#paper-gapl-diverse-source-detector-prototypes) | 防御性图像检测扩充来源之前，应把多源原型与单个聚合边界一起评估，检查盲目扩充导致的性能反转。 |
+| 多模态学习 | 输入表示 | [ViKey: Enhancing Temporal Understanding in Videos via Visual Prompting](cards.md#paper-vikey-visual-temporal-prompt) | 视频只采少量帧时可把原始顺序写到视觉输入，并对照词语到帧的检索定位。 |
+| 机器人学 | 推理与规划 | [SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens](cards.md#paper-scemos-geometry-tokens) | 动作生成可用全局鸟瞰规划与局部高度图接触建模取代统一高维3D输入。 |
+| 多模态学习 | 评测与诊断 | [TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection](cards.md#paper-tridf-explanation-audit) | 检测系统同时测判别、证据识别和解释幻觉，避免把分类正确当作证据可靠。 |
+| 多模态学习 | 评测与诊断 | [Re-evaluating Continual VQA: Toward Fair and Robust Evaluation for Multimodal Continual Learning](cards.md#paper-uco-vqa-evaluation) | 持续问答评估应分开检查跨任务答案重叠与任务内先验变化，再据此度量遗忘。 |
+| 多模态学习 | 强化学习 | [Let VLMs Grade Their Own Thoughts: A Self-Quantification Approach to Reasoning-Aware Reward Modeling](cards.md#paper-video-raise) | 采用模型自评分奖励前，区分逐步信心约束与组内相对排序，并和外部评分对照。 |
+| 多模态学习 | 强化学习 | [PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards](cards.md#paper-psr-pairwise-subject) | 多个个性化对象同画面时按主体配对评分，再与整个画面审美和提示一致性分开衡量。 |
+| 机器学习基础 | 模型架构 | [UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression](cards.md#paper-unimmad-expert-feature-decompression) | 多个感知域共用异常模型时，把通用特征压缩与模态和类别特定的恢复分开。 |
+| 多模态学习 | 可解释性与诊断 | [Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation](cards.md#paper-eagle-autoregressive-token-attribution) | 解读特定生成词时，用同一个局部区域分别验证保留后是否足够与删除后的影响。 |
+| 多模态学习 | 条件生成 | [SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](cards.md#paper-symphomotion-camera-object-control) | 视频生成时把相机运动和物体轨迹分开输入，再检查深度感知的运动可控性。 |
+| 多模态学习 | 推理优化 | [Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention](cards.md#paper-vision-guided-attention-coverage) | 描述图像时先由视觉词元定位证据，并抑制已经描述的区域，减少重复及幻觉。 |
+| 计算机视觉 | 微调与适配 | [Measure The Feature Universe: Topology-based Pseudo Labeling and Gravity Consistency for Source-Free Domain Adaptation](cards.md#paper-feature-universe-source-free-adaptation) | 无源适配的伪标签优先沿高置信特征区传播，并按特征相似性加权一致约束。 |
+| 计算机视觉 | 微调与适配 | [Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection](cards.md#paper-dgs-cross-domain-incremental-detection) | 类别与域同时变化的检测中，按任务分布动态分组适配器，定期合并共享子空间。 |

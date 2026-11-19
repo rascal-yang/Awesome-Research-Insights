@@ -656,5 +656,6 @@
 - [VIRST: Video-Instructed Reasoning Assistant for SpatioTemporal Segmentation](../conferences/cvpr-2026/cards.md#paper-virst-dynamic-anchors)
 - [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](../conferences/cvpr-2026/cards.md#paper-mergevla)
 - [HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling](../conferences/cvpr-2026/cards.md#paper-hieramamba)
+- [UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression](../conferences/cvpr-2026/cards.md#paper-unimmad-expert-feature-decompression)
 
 <!-- conference-classification:end -->

@@ -690,5 +690,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss](../../conferences/cvpr-2026/cards.md#paper-resihmr-topology-adaptive)
 - [ARC Is a Vision Problem!](../../conferences/cvpr-2026/cards.md#paper-vision-arc)
 - [Latent Implicit Visual Reasoning](../../conferences/cvpr-2026/cards.md#paper-latent-implicit-visual-reasoning)
+- [Spike-driven Discrete Aggregation for Event-based Object Detection](../../conferences/cvpr-2026/cards.md#paper-spike-driven-discrete-event-aggregation)
+- [Scaling Up AI-Generated Image Detection with Generator-Aware Prototypes](../../conferences/cvpr-2026/cards.md#paper-gapl-diverse-source-detector-prototypes)
+- [ViKey: Enhancing Temporal Understanding in Videos via Visual Prompting](../../conferences/cvpr-2026/cards.md#paper-vikey-visual-temporal-prompt)
 
 <!-- conference-classification:end -->

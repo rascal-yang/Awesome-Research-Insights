@@ -1115,5 +1115,8 @@
 - [HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-hispatial-lower-level-spatial-supervision-dependencies)
 - [FedRAC: Rolling Submodel Allocation for Collaborative Fairness in Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedrac-rolling-submodel-allocation-fairness)
 - [Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection](../conferences/cvpr-2026/cards.md#paper-pdp-dual-prompt-pool)
+- [Reframing Long-Tailed Learning via Loss Landscape Geometry](../conferences/cvpr-2026/cards.md#paper-grouped-sharpness-long-tail-training)
+- [Measure The Feature Universe: Topology-based Pseudo Labeling and Gravity Consistency for Source-Free Domain Adaptation](../conferences/cvpr-2026/cards.md#paper-feature-universe-source-free-adaptation)
+- [Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection](../conferences/cvpr-2026/cards.md#paper-dgs-cross-domain-incremental-detection)
 
 <!-- conference-classification:end -->

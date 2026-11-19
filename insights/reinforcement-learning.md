@@ -786,5 +786,7 @@
 - [Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching](../conferences/cvpr-2026/cards.md#paper-dcrl-wide-baseline-curriculum)
 - [Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](../conferences/cvpr-2026/cards.md#paper-cinema-structured-visual-meta-actions)
 - [Reinforce to Learn, Elect to Reason: A Dual Paradigm for Video Reasoning](../conferences/cvpr-2026/cards.md#paper-rler-video-evidence-election)
+- [Let VLMs Grade Their Own Thoughts: A Self-Quantification Approach to Reasoning-Aware Reward Modeling](../conferences/cvpr-2026/cards.md#paper-video-raise)
+- [PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards](../conferences/cvpr-2026/cards.md#paper-psr-pairwise-subject)
 
 <!-- conference-classification:end -->

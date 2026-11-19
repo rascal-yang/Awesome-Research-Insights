@@ -1528,5 +1528,9 @@
 - [Grounded Chain-of-Thought for Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-grounded-cot-separate-answer-and-evidence-accuracy)
 - [Neural Distribution Prior for LiDAR Out-of-Distribution Detection](../conferences/cvpr-2026/cards.md#paper-ndp-imbalanced-lidar-ood-score-prior)
 - [Finding Distributed Object-Centric Properties in Self-Supervised Transformers](../conferences/cvpr-2026/cards.md#paper-object-dino-distributed-patch-attention)
+- [KLIP: Localized Distribution Shift Detection via KL-Divergence with Diffusion Priors in Inverse Problems](../conferences/cvpr-2026/cards.md#paper-klip-local-diffusion-posterior-shift)
+- [TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection](../conferences/cvpr-2026/cards.md#paper-tridf-explanation-audit)
+- [Re-evaluating Continual VQA: Toward Fair and Robust Evaluation for Multimodal Continual Learning](../conferences/cvpr-2026/cards.md#paper-uco-vqa-evaluation)
+- [Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation](../conferences/cvpr-2026/cards.md#paper-eagle-autoregressive-token-attribution)
 
 <!-- conference-classification:end -->

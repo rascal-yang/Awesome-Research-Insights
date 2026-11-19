@@ -977,5 +977,6 @@ Robot perception, policy learning, planning, and control.
 - [Motus: A Unified Latent Action World Model](../../conferences/cvpr-2026/cards.md#paper-motus-unified-latent-action)
 - [Neural Distribution Prior for LiDAR Out-of-Distribution Detection](../../conferences/cvpr-2026/cards.md#paper-ndp-imbalanced-lidar-ood-score-prior)
 - [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](../../conferences/cvpr-2026/cards.md#paper-mergevla)
+- [SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens](../../conferences/cvpr-2026/cards.md#paper-scemos-geometry-tokens)
 
 <!-- conference-classification:end -->

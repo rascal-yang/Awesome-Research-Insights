@@ -1255,5 +1255,13 @@
 - [HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling](../conferences/cvpr-2026/cards.md#paper-hieramamba)
 - [Latent Implicit Visual Reasoning](../conferences/cvpr-2026/cards.md#paper-latent-implicit-visual-reasoning)
 - [Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation](../conferences/cvpr-2026/cards.md#paper-pris-elementwise-prompt-revision)
+- [ViKey: Enhancing Temporal Understanding in Videos via Visual Prompting](../conferences/cvpr-2026/cards.md#paper-vikey-visual-temporal-prompt)
+- [TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection](../conferences/cvpr-2026/cards.md#paper-tridf-explanation-audit)
+- [Re-evaluating Continual VQA: Toward Fair and Robust Evaluation for Multimodal Continual Learning](../conferences/cvpr-2026/cards.md#paper-uco-vqa-evaluation)
+- [Let VLMs Grade Their Own Thoughts: A Self-Quantification Approach to Reasoning-Aware Reward Modeling](../conferences/cvpr-2026/cards.md#paper-video-raise)
+- [PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards](../conferences/cvpr-2026/cards.md#paper-psr-pairwise-subject)
+- [Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation](../conferences/cvpr-2026/cards.md#paper-eagle-autoregressive-token-attribution)
+- [SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](../conferences/cvpr-2026/cards.md#paper-symphomotion-camera-object-control)
+- [Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention](../conferences/cvpr-2026/cards.md#paper-vision-guided-attention-coverage)
 
 <!-- conference-classification:end -->

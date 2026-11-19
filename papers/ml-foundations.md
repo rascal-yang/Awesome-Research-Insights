@@ -2459,5 +2459,9 @@
 - [FedRAC: Rolling Submodel Allocation for Collaborative Fairness in Federated Learning](../conferences/cvpr-2026/cards.md#paper-fedrac-rolling-submodel-allocation-fairness)
 - [SpeeDiff: Scalable Pixel-Anchored End-to-End Latent Diffusion Model](../conferences/cvpr-2026/cards.md#paper-speediff-pixel-anchored-joint-latent-training)
 - [AdaSVD: Singular Value Decomposition with Adaptive Mechanisms for Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-adasvd)
+- [DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching](../conferences/cvpr-2026/cards.md#paper-disca-distillation-compatible-video-feature-cache)
+- [Reframing Long-Tailed Learning via Loss Landscape Geometry](../conferences/cvpr-2026/cards.md#paper-grouped-sharpness-long-tail-training)
+- [Precise Object and Effect Removal with Adaptive Target-Aware Attention](../conferences/cvpr-2026/cards.md#paper-objectclear-effect-aware-diffusion-compositing)
+- [UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression](../conferences/cvpr-2026/cards.md#paper-unimmad-expert-feature-decompression)
 
 <!-- conference-classification:end -->

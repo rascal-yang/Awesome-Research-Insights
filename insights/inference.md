@@ -1524,5 +1524,9 @@
 - [AdaSVD: Singular Value Decomposition with Adaptive Mechanisms for Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-adasvd)
 - [WeDetect: Fast Open-Vocabulary Object Detection as Retrieval](../conferences/cvpr-2026/cards.md#paper-wedetect-region-retrieval)
 - [Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation](../conferences/cvpr-2026/cards.md#paper-pris-elementwise-prompt-revision)
+- [Precise Object and Effect Removal with Adaptive Target-Aware Attention](../conferences/cvpr-2026/cards.md#paper-objectclear-effect-aware-diffusion-compositing)
+- [SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens](../conferences/cvpr-2026/cards.md#paper-scemos-geometry-tokens)
+- [SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation](../conferences/cvpr-2026/cards.md#paper-symphomotion-camera-object-control)
+- [Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention](../conferences/cvpr-2026/cards.md#paper-vision-guided-attention-coverage)
 
 <!-- conference-classification:end -->

@@ -1339,5 +1339,10 @@ Visual representation, recognition, reconstruction, and generation.
 - [Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views](../../conferences/cvpr-2026/cards.md#paper-hairguard-soft-boundary-correction)
 - [Real-Time Dynamic Scene Rendering with Controlled Compressibility and Contact Awareness](../../conferences/cvpr-2026/cards.md#paper-dynamic-gaussian-velocity-projection)
 - [Finding Distributed Object-Centric Properties in Self-Supervised Transformers](../../conferences/cvpr-2026/cards.md#paper-object-dino-distributed-patch-attention)
+- [Spike-driven Discrete Aggregation for Event-based Object Detection](../../conferences/cvpr-2026/cards.md#paper-spike-driven-discrete-event-aggregation)
+- [KLIP: Localized Distribution Shift Detection via KL-Divergence with Diffusion Priors in Inverse Problems](../../conferences/cvpr-2026/cards.md#paper-klip-local-diffusion-posterior-shift)
+- [Scaling Up AI-Generated Image Detection with Generator-Aware Prototypes](../../conferences/cvpr-2026/cards.md#paper-gapl-diverse-source-detector-prototypes)
+- [Measure The Feature Universe: Topology-based Pseudo Labeling and Gravity Consistency for Source-Free Domain Adaptation](../../conferences/cvpr-2026/cards.md#paper-feature-universe-source-free-adaptation)
+- [Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection](../../conferences/cvpr-2026/cards.md#paper-dgs-cross-domain-incremental-detection)
 
 <!-- conference-classification:end -->
