@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,167 篇，其中 746 篇暂收录、421 篇排除，另有 2,875 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,197 篇，其中 765 篇暂收录、432 篇排除，另有 2,845 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -752,3 +752,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,167
 | 计算机视觉 | 表示学习 | [4D Local Modeling Toward Dynamic Global Perception for Ambiguity-free Rotation-Invariant Point Cloud Analysis](cards.md#paper-ga4dpf-global-pose-reference) | 做旋转不变点云任务时，以可转向局部表示配合概率化全局姿态参考，处理对称引起的不确定。 |
 | 智能体 | 强化学习 | [OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models](cards.md#paper-os-oracle-consistent-critics) | 长程 GUI 操作可在执行前检查单步，并对不同平台验证评审的一致性。 |
 | 计算机视觉 | 表示学习 | [Mocap-2-to-3: Multi-view Lifting for Monocular Motion Recovery with 2D Pretraining](cards.md#paper-mocap-2-to-3) | 真实三维动作标签不足时，把单目动作升维写成多视图合成，以大量二维动作预训练。 |
+| 多模态学习 | 检索增强 | [Stitch-a-Demo: Creating Video Demonstrations from Multistep Descriptions](cards.md#paper-stitch-a-demo-coherence-hard-negatives) | 组装多步骤视频时，可以训练模型拒绝单步正确但状态衔接错误的组合，再分别评估步骤与整体连贯。见图 3、表 1。 |
+| 生成模型 | 推理策略 | [Few-Step Diffusion Sampling Through Instance-Aware Discretizations](cards.md#paper-indis-instance-conditioned-sampling-grid) | 少步采样应对照全局最优时点和按样本分配时点，尤其在极小函数评估预算下实测。见表 4。 |
+| 计算机视觉 | 三维重建与几何建模 | [Revisiting 3D Reconstruction Kernels as Low-Pass Filters](cards.md#paper-reconstruction-kernel-frequency-shape) | 选择三维重建核时可单独比较频域截止形状和空间衰减，并在不同骨干检查是否减少混叠。见表 1、3。 |
+| 计算机视觉 | 三维重建与几何建模 | [P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction](cards.md#paper-p2gs-factorized-camera-photometric-rendering) | 多相机观测外观不一致时，可把曝光与相机响应设为成像变量，避免重建把采集偏差写入场景。见表 3。 |
+| 多模态学习 | 评估与诊断 | [UNI-OOD: Unified Object- and Image-level Out-of-Distribution Detection via Cross-Context Attentive Vision-Language Modeling](cards.md#paper-uni-ood-object-and-context-diagnostic) | 多对象场景不能用单个全图域外分数，可分别估计目标与背景的证据，在同一模型上按两个粒度验证。见表 1–3。 |
+| 多模态学习 | 训练策略 | [Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](cards.md#paper-airknow-external-arbitration-partial-match-triplets) | 图文三元组部分匹配常使低损失分不出错标，可用离线独立验证与双流训练处理不确定数据。见表 3。 |
+| 计算机视觉 | 三维重建与几何建模 | [MeshSplatting: Differentiable Rendering with Opaque Meshes](cards.md#paper-meshsplatting-connected-opaque-geometry-optimization) | 若输出要进网格引擎，可在可微渲染中直接优化互相连接的不透明网格，比较导出、显存和视角结果。见表 1–4。 |
+| 多模态学习 | 评测与诊断 | [ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps](cards.md#paper-reasonmap) | 细粒度图图推理应测有图与无图，并比较相同系列基础版和推理版。 |
+| 计算机视觉 | 自监督学习 | [3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](cards.md#paper-lam3c-video-pointcloud) | 缺扫描数据时，视频重建可作3D预训练输入，但应对几何噪声验证正则。 |
+| 计算机视觉 | 生成模型 | [CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling](cards.md#paper-cupid-object-pose) | 由粗几何对应先估计相机位姿，再对齐像素条件细化对象。 |
+| 机器学习基础与统计 | 表示学习 | [Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery](cards.md#paper-gslr-low-rank-tensor) | 低秩张量补全时同时检验潜张量和变换基底能否表征局部高频。 |
+| 多模态学习 | 模型架构 | [MUST: Modality-Specific Representation-Aware Transformer for Diffusion-Enhanced Survival Prediction with Missing Modality](cards.md#paper-must-missing-modality) | 填补缺失模态之前先分解可从其他模态推断的共有信息与不可观测的私有部分。 |
+| 机器人学 | 推理与规划 | [FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denoising](cards.md#paper-fm-steer) | 实时控制可以在早期含噪动作上做价值筛选，再精化保留候选。 |
+| 计算机视觉 | 推理优化 | [LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction](cards.md#paper-laser-layer-wise-scale-alignment) | 离线重建改成滑窗流式时，按深度层对齐尺度，避免整窗只拟合一个相似变换。 |
+| 多模态学习 | 模型架构 | [Efficient Encoder-Free Fourier-based 3D Large Multimodal Model](cards.md#paper-fase3d-fourier-tokenizer) | 场景点云太长时，使用空间序列化及频域混合设计轻量 tokenizer，并测不依赖重型视觉编码器的代价。 |
+| 多模态学习 | 推理优化 | [SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](cards.md#paper-sparvar-cross-scale-sparsity) | 多尺度自回归生图应从中间尺度推断后续稀疏注意力，保留高分辨率生成步骤。 |
+| 多模态学习 | 模型架构 | [Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation](cards.md#paper-harope-head-wise-position) | 生成任务的位置编码可按注意力头拟合坐标投影，在保持相对性时允许空间轴耦合。 |
+| 多模态学习 | 评测与分析 | [SO-Bench: A Structural Output Evaluation of Multimodal LLM](cards.md#paper-so-bench-structured-output-diagnostics) | 评估视觉智能体的结构化输出时，将模式合规与字段事实正确分别验收。 |
+| 计算机视觉 | 损失函数与优化 | [Eulerian Gaussian Splatting using Hashed Probability Pyramids](cards.md#paper-eulerian-gaussian-splatting) | 优化离散渲染图元分布时，把图元位置视作可训练连续密度的样本。 |

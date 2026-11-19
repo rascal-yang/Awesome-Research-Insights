@@ -424,5 +424,6 @@
 - [ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization](../conferences/cvpr-2026/cards.md#paper-conceptprism-residual-tokens)
 - [MERIT: Multi-domain Efficient RAW Image Translation](../conferences/cvpr-2026/cards.md#paper-merit-raw-translation)
 - [Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation](../conferences/cvpr-2026/cards.md#paper-spectral-scalpel)
+- [Eulerian Gaussian Splatting using Hashed Probability Pyramids](../conferences/cvpr-2026/cards.md#paper-eulerian-gaussian-splatting)
 
 <!-- conference-classification:end -->

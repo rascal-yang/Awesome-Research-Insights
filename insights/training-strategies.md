@@ -1037,5 +1037,7 @@
 - [CLEX: Complementary Label Exchange Learning for Noisy Facial Expression Recognition](../conferences/cvpr-2026/cards.md#paper-clex-non-target-logit-consistency)
 - [Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models](../conferences/cvpr-2026/cards.md#paper-rsiat-fixed-shared-incremental-adapter)
 - [FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection](../conferences/cvpr-2026/cards.md#paper-faar-rank-shrinking)
+- [Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](../conferences/cvpr-2026/cards.md#paper-airknow-external-arbitration-partial-match-triplets)
+- [3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](../conferences/cvpr-2026/cards.md#paper-lam3c-video-pointcloud)
 
 <!-- conference-classification:end -->

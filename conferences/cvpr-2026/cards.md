@@ -11191,3 +11191,288 @@
 - **适用条件 / 局限** · 依赖地面与视角先验，复杂非平面场景及尺度歧义仍存在。
 
 **可复用机制** · 真实三维动作标签不足时，把单目动作升维写成多视图合成，以大量二维动作预训练。
+
+<a id="paper-stitch-a-demo-coherence-hard-negatives"></a>
+
+## Stitch-a-Demo: Creating Video Demonstrations from Multistep Descriptions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Stitch-a-Demo_Creating_Video_Demonstrations_from_Multistep_Descriptions_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_Stitch-a-Demo_Creating_Video_Demonstrations_from_Multistep_Descriptions_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 逐步骤独立检索容易拼出动作都对、但对象或前后状态不一致的演示。
+- **核心创新 / 方法** · 从弱标注过程构造候选视频组合，加入步骤错误、视觉冲突与状态不连续的难负例，学习整体检索。
+- **Baseline** · 与 CoVR、VidDetours、InternVideo、Recipe2Video 及仅文本检索比较。
+- **Benchmark** · 烹饪等多领域视频演示检索，包含 SaD-MC、SaD-VD、HT-Step 等，用中位排名、R@50 和人类偏好。
+- **关键结果 / 消融** · 表 1 的 SaD-VD 烹饪检索中，本方法中位排名 3.5、R@50 0.91，InternVideo 为 8、0.71。
+- **适用条件 / 局限** · 训练弱标注和候选库可能错误表达步骤，脱离已有视频素材的流程无法靠检索覆盖。
+
+**可复用机制** · 组装多步骤视频时，可以训练模型拒绝单步正确但状态衔接错误的组合，再分别评估步骤与整体连贯。见图 3、表 1。
+
+<a id="paper-indis-instance-conditioned-sampling-grid"></a>
+
+## Few-Step Diffusion Sampling Through Instance-Aware Discretizations
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yuan_Few-Step_Diffusion_Sampling_Through_Instance-Aware_Discretizations_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yuan_Few-Step_Diffusion_Sampling_Through_Instance-Aware_Discretizations_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一时序网格无法适应不同输入下的流轨迹与局部复杂度。
+- **核心创新 / 方法** · 学习按输入条件分配少量采样时点，通过实例条件改变离散化，保持主生成器。
+- **Baseline** · 与 RDS、全局优化离散 GOD 及不同求解器或蒸馏配置对比。
+- **Benchmark** · 像素和潜空间图像生成、FLUX.1-dev 及 LTX-Video，按函数评估次数比较 FID、CLIP、CMMD 等。
+- **关键结果 / 消融** · 表 4 FLUX.1-dev 三次评估时 FID 44.35，GOD 为 56.82；七次时该方法 FID 22.70，RDS 为 22.58。
+- **适用条件 / 局限** · 时点预测有额外开销，且已测优势主要集中在非常少步的设定。
+
+**可复用机制** · 少步采样应对照全局最优时点和按样本分配时点，尤其在极小函数评估预算下实测。见表 4。
+
+<a id="paper-reconstruction-kernel-frequency-shape"></a>
+
+## Revisiting 3D Reconstruction Kernels as Low-Pass Filters
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Revisiting_3D_Reconstruction_Kernels_as_Low-Pass_Filters_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Revisiting_3D_Reconstruction_Kernels_as_Low-Pass_Filters_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 离散像素采样带来周期性频谱扩展，核的非理想截止会使高频与低频重叠。
+- **核心创新 / 方法** · 把重建核当作低通滤波器，使用 Jinc 的截止特性，再做调制以改善其空间尾部衰减。
+- **Baseline** · 对照 3DGS 与 SSS 的原核，同时对比等类新视角方法。
+- **Benchmark** · Mip-NeRF360、Tanks & Temples 与 Deep Blending 的新视角，报告 PSNR、SSIM、LPIPS。
+- **关键结果 / 消融** · 表 3 的 3DGS 在 Tanks & Temples 由 23.14 到 23.86 dB；SSS 在同集从 24.87 到 24.95 dB。
+- **适用条件 / 局限** · 核的截止与采样条件有关，尾部影响开销，且已有较强重建核时边际收益有限。
+
+**可复用机制** · 选择三维重建核时可单独比较频域截止形状和空间衰减，并在不同骨干检查是否减少混叠。见表 1、3。
+
+<a id="paper-p2gs-factorized-camera-photometric-rendering"></a>
+
+## P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shimomura_P2GS_Physical_Prior-guided_Gaussian_Splatting_for_Photometrically_Consistent_Urban_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shimomura_P2GS_Physical_Prior-guided_Gaussian_Splatting_for_Photometrically_Consistent_Urban_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 各视角的曝光和色调不同会使高斯重建把相机偏差误作物体辐射变化。
+- **核心创新 / 方法** · 联合估计不随曝光变化的场景、每视角曝光与色调映射，学习符合物理成像的重渲染。
+- **Baseline** · 比较 3DGS、PVG、仿射曝光修正和 Luminance-GS，消融曝光与正则损失。
+- **Benchmark** · Waymo 与 CARLA 的重建与新视角，报告 PSNR、SSIM、LPIPS；模拟改变相机间曝光。
+- **关键结果 / 消融** · 表 3 高曝光差下的新视角 PSNR 为 21.77 dB，原 3DGS 为 16.04 dB，仿射修正为 16.14 dB。
+- **适用条件 / 局限** · 需要相机响应可辨识，场景照明变化或饱和像素可能与曝光混淆。
+
+**可复用机制** · 多相机观测外观不一致时，可把曝光与相机响应设为成像变量，避免重建把采集偏差写入场景。见表 3。
+
+<a id="paper-uni-ood-object-and-context-diagnostic"></a>
+
+## UNI-OOD: Unified Object- and Image-level Out-of-Distribution Detection via Cross-Context Attentive Vision-Language Modeling
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_UNI-OOD_Unified_Object-_and_Image-level_Out-of-Distribution_Detection_via_Cross-Context_Attentive_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_UNI-OOD_Unified_Object-_and_Image-level_Out-of-Distribution_Detection_via_Cross-Context_Attentive_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 全图域外检测常假定只有一个主对象，背景容易掩盖单个目标是否属于未知类。
+- **核心创新 / 方法** · 分别建模对象内部细节和跨图背景，通过图文对齐汇合证据，同时支持对象与图像两级检测。
+- **Baseline** · 比较对象级 RUNA 与图像级视觉语言基线，并去掉跨图、图内注意力和文本对齐做消融。
+- **Benchmark** · BDD-100k、PASCAL-VOC 等对象级设置及以 ImageNet-1K 为域内的图像级测试，使用 AUROC、FPR95。
+- **关键结果 / 消融** · 表 1 对象级 16-shot 设置中平均 AUROC、FPR95 为 96.83、15.93，RUNA 为 93.32、26.58。
+- **适用条件 / 局限** · 依赖对象候选和背景描述，拥挤场景漏检或背景持续漂移会影响校准。
+
+**可复用机制** · 多对象场景不能用单个全图域外分数，可分别估计目标与背景的证据，在同一模型上按两个粒度验证。见表 1–3。
+
+<a id="paper-airknow-external-arbitration-partial-match-triplets"></a>
+
+## Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fu_Air-Know_Arbiter-Calibrated_Knowledge-Internalizing_Robust_Network_for_Composed_Image_Retrieval_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_Air-Know_Arbiter-Calibrated_Knowledge-Internalizing_Robust_Network_for_Composed_Image_Retrieval_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 由参考图、改写文本和目标图组成的三元组即使只部分正确，也可能让当前学员给出较低损失。
+- **核心创新 / 方法** · 用独立多模态模型审查匹配程度，再让可信匹配和疑似错配采用不同的训练目标。
+- **Baseline** · 对照去掉外部仲裁、多步核实及以普通 InfoNCE 替换双流。
+- **Benchmark** · FashionIQ 与 CIRR 的组合检索，用 R@10、R@50 与 CIRR 总体和子集召回。
+- **关键结果 / 消融** · 表 3 FashionIQ R@10 为 55.18，去外部仲裁为 53.99，去双流为 49.53。
+- **适用条件 / 局限** · 外部判断质量取决于专家的视觉对齐，还可能继承其偏好；检索代理变化时需新核验。
+
+**可复用机制** · 图文三元组部分匹配常使低损失分不出错标，可用离线独立验证与双流训练处理不确定数据。见表 3。
+
+<a id="paper-meshsplatting-connected-opaque-geometry-optimization"></a>
+
+## MeshSplatting: Differentiable Rendering with Opaque Meshes
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Held_MeshSplatting_Differentiable_Rendering_with_Opaque_Meshes_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Held_MeshSplatting_Differentiable_Rendering_with_Opaque_Meshes_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 点基元渲染速度很高，但通常不能直接作为常规引擎的连通网格使用。
+- **核心创新 / 方法** · 利用受限 Delaunay 三角化保持连接，用可微渲染共同优化表面几何与外观。
+- **Baseline** · 与 GOF、RaDe-GS、MiLo 对照，并消融连通与正则模型。
+- **Benchmark** · Mip-NeRF360、Tanks & Temples 的新视角，测 PSNR、LPIPS、训练时间、内存及引擎渲染速度。
+- **关键结果 / 消融** · 表 2 的 Mip-NeRF360 上 MeshSplatting 训练 48 分钟、100 MB，MiLo 为 106 分钟、253 MB；全高清分别为 190 和 160 FPS。
+- **适用条件 / 局限** · 不透明网格对透明与体积效应表示有限，速度依赖具体引擎和设备。
+
+**可复用机制** · 若输出要进网格引擎，可在可微渲染中直接优化互相连接的不透明网格，比较导出、显存和视角结果。见表 1–4。
+
+<a id="paper-reasonmap"></a>
+
+## ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Feng_ReasonMap_Towards_Fine-Grained_Visual_Reasoning_from_Transit_Maps_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_ReasonMap_Towards_Fine-Grained_Visual_Reasoning_from_Transit_Maps_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 总体正确率难区分模型用图求解或凭语言先验猜测。
+- **核心创新 / 方法** · 构造高分辨率交通图问题，以分级评分和去图对照诊断看图与推理。
+- **Baseline** · 表2比较16个 MLLM，表3移除视觉，表4另列 RL 训练模型。
+- **Benchmark** · 30城、1008问，按长短及题型测分。
+- **关键结果 / 消融** · 原文发现开放模型中基础版和推理版的相对关系与闭源组不同。
+- **适用条件 / 局限** · 对照结论依赖交通图与当前模型版本，不能据此泛化所有视觉推理任务。
+
+**可复用机制** · 细粒度图图推理应测有图与无图，并比较相同系列基础版和推理版。
+
+<a id="paper-lam3c-video-pointcloud"></a>
+
+## 3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yamada_3D_sans_3D_Scans_Scalable_Pre-training_from_Video-Generated_Point_Clouds_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yamada_3D_sans_3D_Scans_Scalable_Pre-training_from_Video-Generated_Point_Clouds_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 网络视频便宜，估计点云却有局部噪声及尺度差异。
+- **核心创新 / 方法** · 视频生成点云，结合拉普拉斯感知多级聚类和噪声正则维持几何与表示稳定。
+- **Baseline** · 表1–2比较现有自监督方法，表3在 PTv3 上消融。
+- **Benchmark** · 室内语义、实例分割，比较全量微调和线性评估。
+- **关键结果 / 消融** · 表3报告尺度对齐及正则的作用，表1–2测两类下游。
+- **适用条件 / 局限** · 视频重建偏向可见充分的区域，室外快速运动或遮挡域需复验。
+
+**可复用机制** · 缺扫描数据时，视频重建可作3D预训练输入，但应对几何噪声验证正则。
+
+<a id="paper-cupid-object-pose"></a>
+
+## CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_CUPID_Generative_3D_Reconstruction_via_Joint_Object_and_Pose_Modeling_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_CUPID_Generative_3D_Reconstruction_via_Joint_Object_and_Pose_Modeling_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 生成先验可能产生合理外观却偏离输入视角。
+- **核心创新 / 方法** · 第一阶段生成粗3D和2D–3D对应，第二阶段以估计位姿注入像素对齐特征。
+- **Baseline** · 表1–3比较重建、生成与点图基线，表4消融位姿条件。
+- **Benchmark** · 单视图几何、输入视角一致性与整体3D质量，含 Chamfer、PSNR。
+- **关键结果 / 消融** · 摘要报告相对既有方法超过3 dB PSNR 提升及10% Chamfer 改善。
+- **适用条件 / 局限** · 粗对应错误会传给精化，严重遮挡或难区分对称姿态需另外检验。
+
+**可复用机制** · 由粗几何对应先估计相机位姿，再对齐像素条件细化对象。
+
+<a id="paper-gslr-low-rank-tensor"></a>
+
+## Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_Gaussian_Splatting-based_Low-Rank_Tensor_Representation_for_Multi-Dimensional_Image_Recovery_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng_Gaussian_Splatting-based_Low-Rank_Tensor_Representation_for_Multi-Dimensional_Image_Recovery_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 低秩潜张量与固定 DFT/DCT 基底都可能损失局部细节。
+- **核心创新 / 方法** · 用2D与1D Gaussian 分别参数化潜张量和变换矩阵。
+- **Baseline** · 表1–3比较图像恢复及张量基线，表4对照不同近似。
+- **Benchmark** · 多维图像随机缺失、管状缺失和切片缺失。
+- **关键结果 / 消融** · 表1–3跨缺失模式检验，表4对比表示近似。
+- **适用条件 / 局限** · 高斯局部基能否覆盖快速变化取决于尺度与密度，复杂非局部缺失需重测。
+
+**可复用机制** · 低秩张量补全时同时检验潜张量和变换基底能否表征局部高频。
+
+<a id="paper-must-missing-modality"></a>
+
+## MUST: Modality-Specific Representation-Aware Transformer for Diffusion-Enhanced Survival Prediction with Missing Modality
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kim_MUST_Modality-Specific_Representation-Aware_Transformer_for_Diffusion-Enhanced_Survival_Prediction_with_Missing_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kim_MUST_Modality-Specific_Representation-Aware_Transformer_for_Diffusion-Enhanced_Survival_Prediction_with_Missing_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接特征对齐可能混淆跨模态共识与某模态独有证据。
+- **核心创新 / 方法** · 用低秩子空间约束拆分私有和共享上下文，再用条件生成建模缺失部分。
+- **Baseline** · 表1–2比较可见和缺失情形，表3消融渐进训练与条件生成。
+- **Benchmark** · 五个 TCGA 数据集，病理和基因输入的生存排序 C-index。
+- **关键结果 / 消融** · 表1–2按模态可用性分别报告，表3验证训练组件。
+- **适用条件 / 局限** · 生成私有部分有不可约不确定性，不能把估计当成有效观测，迁移需校准。
+
+**可复用机制** · 填补缺失模态之前先分解可从其他模态推断的共有信息与不可观测的私有部分。
+
+<a id="paper-fm-steer"></a>
+
+## FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denoising
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Song_FM-Steer_Enhance_Generalist_Policies_with_Value-Guided_Cascaded_Denoising_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Song_FM-Steer_Enhance_Generalist_Policies_with_Value-Guided_Cascaded_Denoising_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多候选全部完整去噪会增加推理开销，单样本又缺少纠错。
+- **核心创新 / 方法** · 训练中间流动作价值验证器，级联去噪时筛掉较低价值候选。
+- **Baseline** · 表2比较 V-GPS 与 RoboMonkey，表3消融级联及策略配置。
+- **Benchmark** · LIBERO 四套任务、SimplerEnv，比较成功率及运算分配。
+- **关键结果 / 消融** · 表1报告成功率和标准误，表3比较采样和验证器作用。
+- **适用条件 / 局限** · 验证器须能可靠评价未充分去噪的轨迹，策略和硬件变化时需重校。
+
+**可复用机制** · 实时控制可以在早期含噪动作上做价值筛选，再精化保留候选。
+
+<a id="paper-laser-layer-wise-scale-alignment"></a>
+
+## LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Ding_LASER_Layer-wise_Scale_Alignment_for_Training-Free_Streaming_4D_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Ding_LASER_Layer-wise_Scale_Alignment_for_Training-Free_Streaming_4D_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 相邻窗口近远景之间的相对尺度会不一致。
+- **核心创新 / 方法** · 分层估计尺度并跨窗传播，复用原模型权重。
+- **Baseline** · VGGT、π3 及全局 Sim(3) 等窗对齐或重建方案。
+- **Benchmark** · Sintel、ScanNet、TUM、KITTI 等，评估深度、ATE、平移及旋转 RPE。
+- **关键结果 / 消融** · 作者报告 RTX A6000 上14 FPS、峰值6 GB，表1–3比较几何精度。
+- **适用条件 / 局限** · 深度分层需要共视和可靠对应，纯转动或快速动态场景可能出错。
+
+**可复用机制** · 离线重建改成滑窗流式时，按深度层对齐尺度，避免整窗只拟合一个相似变换。
+
+<a id="paper-fase3d-fourier-tokenizer"></a>
+
+## Efficient Encoder-Free Fourier-based 3D Large Multimodal Model
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Mei_Efficient_Encoder-Free_Fourier-based_3D_Large_Multimodal_Model_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Mei_Efficient_Encoder-Free_Fourier-based_3D_Large_Multimodal_Model_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 点云无序且点数多，外部编码器推理昂贵。
+- **核心创新 / 方法** · 超点结构压缩后经空间填充曲线序列化和 FFT 混合，图式合并词元并用频域 LoRA 补上下文。
+- **Baseline** · 编码器式三维多模态模型，及表3不同视觉嵌入模块。
+- **Benchmark** · ScanQA、SQA3D 问答和 ScanRefer、Nr3D 密集描述，统计参数与 FLOPs。
+- **关键结果 / 消融** · 表1–3报告近似的任务表现与较低编码计算。
+- **适用条件 / 局限** · 序列化和频域近似不保证保留所有三维邻接关系，细对象或密度变化需另测。
+
+**可复用机制** · 场景点云太长时，使用空间序列化及频域混合设计轻量 tokenizer，并测不依赖重型视觉编码器的代价。
+
+<a id="paper-sparvar-cross-scale-sparsity"></a>
+
+## SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_SparVAR_Exploring_Sparsity_in_Visual_AutoRegressive_Modeling_for_Training-Free_Acceleration_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_SparVAR_Exploring_Sparsity_in_Visual_AutoRegressive_Modeling_for_Training-Free_Acceleration_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高分辨率注意力昂贵，跳过大尺度会丢细节。
+- **核心创新 / 方法** · 利用锚点、跨尺度激活相似性与局部性，在决策尺度生成稀疏索引并映射给高分辨率。
+- **Baseline** · 常规全注意力生成和已有加速方法。
+- **Benchmark** · 1024×1024 GenEval，另以 HPSv2.1 等测偏好和质量，记录推理开销。
+- **关键结果 / 消融** · 表2–3报告所测加速与质量的权衡。
+- **适用条件 / 局限** · 跨尺度显著性可能变化，稀有高频细节和不同尺度日程需重新评估。
+
+**可复用机制** · 多尺度自回归生图应从中间尺度推断后续稀疏注意力，保留高分辨率生成步骤。
+
+<a id="paper-harope-head-wise-position"></a>
+
+## Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Li_Head-wise_Adaptive_Rotary_Positional_Encoding_for_Fine-Grained_Image_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Head-wise_Adaptive_Rotary_Positional_Encoding_for_Fine-Grained_Image_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 分轴且各头共享的 RoPE 难表达细粒度布局。
+- **核心创新 / 方法** · 旋转前加入以 SVD 参数化的可学线性变换，让各头感受野与旋转平面可适配。
+- **Baseline** · 标准多维 RoPE、其他位置编码变体及绝对位置嵌入。
+- **Benchmark** · ImageNet 类条件生成，Flux、SD3 文生图及图像理解对照。
+- **关键结果 / 消融** · 原文显示不同生成骨干的视觉表现改善，并分析细粒度布局。
+- **适用条件 / 局限** · 需学习位置参数，分辨率外推及不同坐标系仍要验证。
+
+**可复用机制** · 生成任务的位置编码可按注意力头拟合坐标投影，在保持相对性时允许空间轴耦合。
+
+<a id="paper-so-bench-structured-output-diagnostics"></a>
+
+## SO-Bench: A Structural Output Evaluation of Multimodal LLM
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Feng_SO-Bench_A_Structural_Output_Evaluation_of_Multimodal_LLM_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_SO-Bench_A_Structural_Output_Evaluation_of_Multimodal_LLM_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 有效 JSON 可能没有依据，正确值也可能落在错误字段。
+- **核心创新 / 方法** · 构造跨视觉域的图像—结构模式题，比较通用、结构化接口和调整训练后的输出。
+- **Baseline** · 开源及专有多模态模型，比较结构化输出 API 和指令遵循。
+- **Benchmark** · UI、自然图、文档、图表；超过6500种 JSON schema，约1800个人工核对图像—模式对。
+- **关键结果 / 消融** · 原文报告语义正确与模式遵守仍有明显缺口，且有训练对照。
+- **适用条件 / 局限** · 字段答案和模式需有可靠人工核对，合法输出率不能代表下游工作流完成率。
+
+**可复用机制** · 评估视觉智能体的结构化输出时，将模式合规与字段事实正确分别验收。
+
+<a id="paper-eulerian-gaussian-splatting"></a>
+
+## Eulerian Gaussian Splatting using Hashed Probability Pyramids
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Polansky_Eulerian_Gaussian_Splatting_using_Hashed_Probability_Pyramids_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Polansky_Eulerian_Gaussian_Splatting_using_Hashed_Probability_Pyramids_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 手工切分、删除和移动图元难由最终误差统一驱动。
+- **核心创新 / 方法** · 以哈希多尺度网格学习位置概率，并用控制变量降低密度梯度方差。
+- **Baseline** · Taming-3DGS、3DGS-MCMC 与去掉组件配置。
+- **Benchmark** · mip-NeRF 360、Tanks & Temples 等，比较重建和渲染速率。
+- **关键结果 / 消融** · 表1–2报告重建质量及密度相关消融，保持接近3DGS渲染效率。
+- **适用条件 / 局限** · 取样和密度优化会增加训练开销，细薄表面的覆盖依赖概率网格。
+
+**可复用机制** · 优化离散渲染图元分布时，把图元位置视作可训练连续密度的样本。

@@ -1212,5 +1212,12 @@ Visual representation, recognition, reconstruction, and generation.
 - [GenMatter: Perceiving Physical Objects with Generative Matter Models](../../conferences/cvpr-2026/cards.md#paper-genmatter-motion-grouping)
 - [4D Local Modeling Toward Dynamic Global Perception for Ambiguity-free Rotation-Invariant Point Cloud Analysis](../../conferences/cvpr-2026/cards.md#paper-ga4dpf-global-pose-reference)
 - [Mocap-2-to-3: Multi-view Lifting for Monocular Motion Recovery with 2D Pretraining](../../conferences/cvpr-2026/cards.md#paper-mocap-2-to-3)
+- [Revisiting 3D Reconstruction Kernels as Low-Pass Filters](../../conferences/cvpr-2026/cards.md#paper-reconstruction-kernel-frequency-shape)
+- [P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction](../../conferences/cvpr-2026/cards.md#paper-p2gs-factorized-camera-photometric-rendering)
+- [MeshSplatting: Differentiable Rendering with Opaque Meshes](../../conferences/cvpr-2026/cards.md#paper-meshsplatting-connected-opaque-geometry-optimization)
+- [3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](../../conferences/cvpr-2026/cards.md#paper-lam3c-video-pointcloud)
+- [CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling](../../conferences/cvpr-2026/cards.md#paper-cupid-object-pose)
+- [LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction](../../conferences/cvpr-2026/cards.md#paper-laser-layer-wise-scale-alignment)
+- [Eulerian Gaussian Splatting using Hashed Probability Pyramids](../../conferences/cvpr-2026/cards.md#paper-eulerian-gaussian-splatting)
 
 <!-- conference-classification:end -->

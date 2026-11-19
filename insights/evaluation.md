@@ -1474,5 +1474,8 @@
 - [X-AVDT: Audio-Visual Cross-Attention for Robust Deepfake Detection](../conferences/cvpr-2026/cards.md#paper-x-avdt-cross-modal-forensics)
 - [Reevaluating the Intra-Modal Misalignment Hypothesis in CLIP](../conferences/cvpr-2026/cards.md#paper-clip-intramodal-misalignment-task-axis-control)
 - [When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought](../conferences/cvpr-2026/cards.md#paper-mira-visual-cot)
+- [UNI-OOD: Unified Object- and Image-level Out-of-Distribution Detection via Cross-Context Attentive Vision-Language Modeling](../conferences/cvpr-2026/cards.md#paper-uni-ood-object-and-context-diagnostic)
+- [ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps](../conferences/cvpr-2026/cards.md#paper-reasonmap)
+- [SO-Bench: A Structural Output Evaluation of Multimodal LLM](../conferences/cvpr-2026/cards.md#paper-so-bench-structured-output-diagnostics)
 
 <!-- conference-classification:end -->

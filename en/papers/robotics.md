@@ -925,5 +925,6 @@ Robot perception, policy learning, planning, and control.
 - [ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation](../../conferences/cvpr-2026/cards.md#paper-activevla)
 - [MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters](../../conferences/cvpr-2026/cards.md#paper-maskadapt)
 - [LAOF: Robust Latent Action Learning with Optical Flow Constraints](../../conferences/cvpr-2026/cards.md#paper-laof-latent-action-flow)
+- [FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denoising](../../conferences/cvpr-2026/cards.md#paper-fm-steer)
 
 <!-- conference-classification:end -->

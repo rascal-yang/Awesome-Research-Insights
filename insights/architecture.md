@@ -626,5 +626,8 @@
 - [Unleashing the Power of Chain-of-Prediction for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-monocop-uncertainty-routing)
 - [CompetitorFormer: Mitigating Query Conflicts for 3D Instance Segmentation via Competitive Strategy](../conferences/cvpr-2026/cards.md#paper-competitorformer)
 - [SeD-UD: An Influence-Driven and Hierarchically-Decoupled Information Bottleneck for Multimodal Intent Recognition](../conferences/cvpr-2026/cards.md#paper-sed-ud)
+- [MUST: Modality-Specific Representation-Aware Transformer for Diffusion-Enhanced Survival Prediction with Missing Modality](../conferences/cvpr-2026/cards.md#paper-must-missing-modality)
+- [Efficient Encoder-Free Fourier-based 3D Large Multimodal Model](../conferences/cvpr-2026/cards.md#paper-fase3d-fourier-tokenizer)
+- [Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation](../conferences/cvpr-2026/cards.md#paper-harope-head-wise-position)
 
 <!-- conference-classification:end -->

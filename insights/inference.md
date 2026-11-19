@@ -1441,5 +1441,10 @@
 - [FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation](../conferences/cvpr-2026/cards.md#paper-face-mesh-token)
 - [GeoWorld: Geometric World Models](../conferences/cvpr-2026/cards.md#paper-geoworld)
 - [IFCSR: Inference-Free Fidelity-Realism Control for One-Step Diffusion-based Real-World Image Super-Resolution](../conferences/cvpr-2026/cards.md#paper-ifcsr-endpoint-image-control)
+- [Few-Step Diffusion Sampling Through Instance-Aware Discretizations](../conferences/cvpr-2026/cards.md#paper-indis-instance-conditioned-sampling-grid)
+- [CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling](../conferences/cvpr-2026/cards.md#paper-cupid-object-pose)
+- [FM-Steer: Enhance Generalist Policies with Value-Guided Cascaded Denoising](../conferences/cvpr-2026/cards.md#paper-fm-steer)
+- [LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction](../conferences/cvpr-2026/cards.md#paper-laser-layer-wise-scale-alignment)
+- [SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](../conferences/cvpr-2026/cards.md#paper-sparvar-cross-scale-sparsity)
 
 <!-- conference-classification:end -->

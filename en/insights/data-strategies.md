@@ -402,5 +402,6 @@ Data selection, annotation, augmentation, and sampling.
 - [OS-Fed: One Snapshot Is All You Need](../../conferences/cvpr-2026/cards.md#paper-osfed-compact-learned-update-snapshot)
 - [Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface](../../conferences/cvpr-2026/cards.md#paper-real2edit2real)
 - [IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework](../../conferences/cvpr-2026/cards.md#paper-introsvg-render-feedback)
+- [Stitch-a-Demo: Creating Video Demonstrations from Multistep Descriptions](../../conferences/cvpr-2026/cards.md#paper-stitch-a-demo-coherence-hard-negatives)
 
 <!-- conference-classification:end -->

@@ -2376,5 +2376,7 @@ General learning methods, optimization, learning theory, and inference.
 - [Reevaluating the Intra-Modal Misalignment Hypothesis in CLIP](../../conferences/cvpr-2026/cards.md#paper-clip-intramodal-misalignment-task-axis-control)
 - [Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models](../../conferences/cvpr-2026/cards.md#paper-rsiat-fixed-shared-incremental-adapter)
 - [FAAR: Efficient Frequency-Aware Multi-Task Fine-Tuning via Automatic Rank Selection](../../conferences/cvpr-2026/cards.md#paper-faar-rank-shrinking)
+- [Few-Step Diffusion Sampling Through Instance-Aware Discretizations](../../conferences/cvpr-2026/cards.md#paper-indis-instance-conditioned-sampling-grid)
+- [Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery](../../conferences/cvpr-2026/cards.md#paper-gslr-low-rank-tensor)
 
 <!-- conference-classification:end -->

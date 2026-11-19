@@ -1108,5 +1108,14 @@ Learning across modalities such as images, text, audio, and video.
 - [DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance](../../conferences/cvpr-2026/cards.md#paper-duetsvg)
 - [GeoWorld: Geometric World Models](../../conferences/cvpr-2026/cards.md#paper-geoworld)
 - [IFCSR: Inference-Free Fidelity-Realism Control for One-Step Diffusion-based Real-World Image Super-Resolution](../../conferences/cvpr-2026/cards.md#paper-ifcsr-endpoint-image-control)
+- [Stitch-a-Demo: Creating Video Demonstrations from Multistep Descriptions](../../conferences/cvpr-2026/cards.md#paper-stitch-a-demo-coherence-hard-negatives)
+- [UNI-OOD: Unified Object- and Image-level Out-of-Distribution Detection via Cross-Context Attentive Vision-Language Modeling](../../conferences/cvpr-2026/cards.md#paper-uni-ood-object-and-context-diagnostic)
+- [Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-airknow-external-arbitration-partial-match-triplets)
+- [ReasonMap: Towards Fine-Grained Visual Reasoning from Transit Maps](../../conferences/cvpr-2026/cards.md#paper-reasonmap)
+- [MUST: Modality-Specific Representation-Aware Transformer for Diffusion-Enhanced Survival Prediction with Missing Modality](../../conferences/cvpr-2026/cards.md#paper-must-missing-modality)
+- [Efficient Encoder-Free Fourier-based 3D Large Multimodal Model](../../conferences/cvpr-2026/cards.md#paper-fase3d-fourier-tokenizer)
+- [SparVAR: Exploring Sparsity in Visual AutoRegressive Modeling for Training-Free Acceleration](../../conferences/cvpr-2026/cards.md#paper-sparvar-cross-scale-sparsity)
+- [Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation](../../conferences/cvpr-2026/cards.md#paper-harope-head-wise-position)
+- [SO-Bench: A Structural Output Evaluation of Multimodal LLM](../../conferences/cvpr-2026/cards.md#paper-so-bench-structured-output-diagnostics)
 
 <!-- conference-classification:end -->
