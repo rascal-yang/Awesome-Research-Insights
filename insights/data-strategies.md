@@ -433,5 +433,6 @@
 - [Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution](../conferences/cvpr-2026/cards.md#paper-bps-balanced-visual-pattern-coresets)
 - [Learning to Generate Highly Dynamic Videos using Synthetic Motion Data](../conferences/cvpr-2026/cards.md#paper-dynavid-synthetic-motion-without-appearance)
 - [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](../conferences/cvpr-2026/cards.md#paper-focusui-position-preserving-selection)
+- [Style-GRPO: Semantic-Aware Preference Optimization for Image Style Transfer Guided by Reward Modeling](../conferences/cvpr-2026/cards.md#paper-targeted-style-preference-pairs)
 
 <!-- conference-classification:end -->

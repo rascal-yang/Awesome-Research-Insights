@@ -1453,5 +1453,12 @@
 - [Adapting Lightweight Image-based Counting Models for Video Crowd Counting](../conferences/cvpr-2026/cards.md#paper-lightweight-temporal-counting)
 - [Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment](../conferences/cvpr-2026/cards.md#paper-gsa-cross-instance)
 - [DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ddit-dynamic-patch)
+- [ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions](../conferences/cvpr-2026/cards.md#paper-hierarchical-multi-shot-control)
+- [Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](../conferences/cvpr-2026/cards.md#paper-skeletal-training-prior-motion-latent)
+- [Learning to See Through a Baby's Eyes: Early Visual Diets Enable Robust Visual Intelligence in Humans and Machines](../conferences/cvpr-2026/cards.md#paper-catdiet)
+- [MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction](../conferences/cvpr-2026/cards.md#paper-mv-roma)
+- [FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision](../conferences/cvpr-2026/cards.md#paper-flexavatar-bias-tokens)
+- [The Road Less Seen: Segment Exploration for Weakly Supervised Video Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-dual-exploration-low-fpr-video-anomaly)
+- [Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding](../conferences/cvpr-2026/cards.md#paper-ndtokenizer-multiscale-scene-tokens)
 
 <!-- conference-classification:end -->

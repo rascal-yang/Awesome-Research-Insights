@@ -22246,3 +22246,288 @@
 - **适用条件 / 局限** · 依赖候选教师具备互补能力，教师共同失误时验证器缺乏可靠候选。
 
 **可复用机制** · 混合教师时按局部预测可信度选标签，避免一位教师在所有样本上占优的假设。
+
+<a id="paper-rate-reduction-category-discovery"></a>
+
+## Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/He_Multi-Modal_Representation_Learning_via_Semi-Supervised_Rate_Reduction_for_Generalized_Category_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/He_Multi-Modal_Representation_Learning_via_Semi-Supervised_Rate_Reduction_for_Generalized_Category_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 已知类只有部分标签，图文对齐本身未约束两种模态各自的类别结构。
+- **核心创新 / 方法** · 用半监督率约简学习紧凑而可区分的类结构，同时将候选提示词通过跨模态对齐引入表征。
+- **Baseline** · 沿用 SimGCD 聚类设置，对比 SimGCD、PromptCAL、SPTNet、SelEx 等。
+- **Benchmark** · ImageNet-100/1k、CIFAR-10/100、CUB、Stanford Cars、Oxford Pets、Flowers102，报告全部、已知及未知类准确率。
+- **关键结果 / 消融** · ImageNet-100 全部类 92.1%、新类 90.2%，CLIP 版 SimGCD 分别为 86.1%、81.9%。
+- **适用条件 / 局限** · 方法依赖部分已知类标签及可用的视觉语言骨干。
+
+**可复用机制** · 开放类别发现可同时优化模态内类别结构与跨模态对齐。
+
+<a id="paper-hierarchical-multi-shot-control"></a>
+
+## ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_ShotDirector_Directorially_Controllable_Multi-Shot_Video_Generation_with_Cinematographic_Transitions_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_ShotDirector_Directorially_Controllable_Multi-Shot_Video_Generation_with_Cinematographic_Transitions_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多镜头生成容易将转场当作连续画面变化，忽略剪辑类型和各镜头的相机运动。
+- **核心创新 / 方法** · 分层提示编码剪辑样式和镜头内容，以镜头感知掩码对语义和视觉信息实施差异化控制，并加入相机条件。
+- **Baseline** · 对比 Mask2 DiT 等多镜头生成方案，并比较去除掩码及相机分支的变体。
+- **Benchmark** · 多镜头转场生成，评估转场类型准确率、FVD、跨镜头一致性和相机误差。
+- **关键结果 / 消融** · 去掉镜头感知掩码时转场类型准确率为 54.22%，完整方案为 67.44%。
+- **适用条件 / 局限** · 结论来自论文所覆盖的转场类型和相机条件。
+
+**可复用机制** · 将局部镜头控制与跨镜头共享信息分开处理，可改进视频生成的剪辑控制。
+
+<a id="paper-adaptive-world-model-rubrics"></a>
+
+## 4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_4DWorldBench_A_Comprehensive_Evaluation_Framework_for_3D4D_World_Generation_Models_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_4DWorldBench_A_Comprehensive_Evaluation_Framework_for_3D4D_World_Generation_Models_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 外观质量高的生成世界也可能在物理、视角或指令一致性上失败。
+- **核心创新 / 方法** · 分别定义感知质量、条件对齐、物理真实性和四维一致性，并为样本选择适用的评分维度。
+- **Baseline** · 对比固定维度的 GPT-5 评估器与同类自适应评估器，以及训练自由的代表性评估方案。
+- **Benchmark** · 4DWorldBench 的 3D 和 4D 生成评测，参考人工判断及分维模型排名。
+- **关键结果 / 消融** · GPT-5 版本从固定维度换为自适应维度后，表中两项相关性由 0.351/0.402 升到 0.452/0.461。
+- **适用条件 / 局限** · 自动评分与人工判断仍有差距。
+
+**可复用机制** · 世界模型评测可以按条件动态挑选维度，并逐项校准与人工评分的相关性。
+
+<a id="paper-budgeted-lora-module-selection"></a>
+
+## TaskIT: Memory-Efficient Fine-Tuning of Multi-LoRA LLMs via Cross-Task Importance Transfer
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Fang_TaskIT_Memory-Efficient_Fine-Tuning_of_Multi-LoRA_LLMs_via_Cross-Task_Importance_Transfer_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Fang_TaskIT_Memory-Efficient_Fine-Tuning_of_Multi-LoRA_LLMs_via_Cross-Task_Importance_Transfer_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 端侧多 LoRA 适配受显存限制，传统稀疏更新只能给已实例化模块打分，且串行显存模型不适用于 Transformer。
+- **核心创新 / 方法** · 估计已有和潜在新增模块对目标任务的重要性，显式建模 Transformer 块内并行的显存成本，据预算选更新模块。
+- **Baseline** · 比较 AdapterFusion、UniPT 等免微调、非 LoRA 和 LoRA 方案。
+- **Benchmark** · 按序适配图像、语言及视觉语言任务，报告任务成绩、可训练参数与显存。
+- **关键结果 / 消融** · 跨模态结果中 TaskIT 的平均任务成绩为 80.4，原文另报告对应显存统计。
+- **适用条件 / 局限** · 重要性估计依赖已有任务迁移信息，性能受预算及任务序列影响。
+
+**可复用机制** · 预算有限时可用任务间迁移证据选择已有和新增 LoRA 模块，再按峰值显存约束分配训练。
+
+<a id="paper-targeted-style-preference-pairs"></a>
+
+## Style-GRPO: Semantic-Aware Preference Optimization for Image Style Transfer Guided by Reward Modeling
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_Style-GRPO_Semantic-Aware_Preference_Optimization_for_Image_Style_Transfer_Guided_by_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhao_Style-GRPO_Semantic-Aware_Preference_Optimization_for_Image_Style_Transfer_Guided_by_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 参考图风格迁移可能误改目标内容，单一风格相似度无法区分不同失败类型。
+- **核心创新 / 方法** · 构造理想结果和定向反例的配对偏好样本，训练多模态 StyleScore，再以 Style-GRPO 适配生成模型。
+- **Baseline** · 以 FLUX.1 Kontext 为生成基础，对比 DiffStyler、StyleBooth 等，奖励模型对比 Qwen2.5-VL 与 ImageReward。
+- **Benchmark** · ImgEdit、AnyEdit、StyleReward-Dataset 及人工偏好，报告风格、内容和奖励判别指标。
+- **关键结果 / 消融** · 论文的奖励偏好判断准确率为 98.6%，两个比较项为 65.2% 和 48.7%。
+- **适用条件 / 局限** · 奖励对受论文定义的定向违例覆盖限制，成绩依赖其偏好评测设置。
+
+**可复用机制** · 多目标生成奖励可用定向违例偏好对来独立监督风格、内容与视觉质量。
+
+<a id="paper-normal-execution-graph-video-errors"></a>
+
+## AXG-Reasoner: Error Detection and Explanation in Long Task Videos with Vision-Language Models
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_AXG-Reasoner_Error_Detection_and_Explanation_in_Long_Task_Videos_with_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_AXG-Reasoner_Error_Detection_and_Explanation_in_Long_Task_Videos_with_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 长操作视频的错误证据可能出现在少数短片段，均匀采帧难以保留这些信号。
+- **核心创新 / 方法** · 从正常视频学习子动作和可行执行路径，以正常动作图和时序分割定位证据，再调用冻结 VLM 解释。
+- **Baseline** · 错误解释对比 Naive 均匀采样与 VTREE，错误检测对比 GTG2Vid 和 EgoPED。
+- **Benchmark** · EgoPER 和 CaptainCook4D，评估错误解释及检测，并区分真实动作分段和自动分段。
+- **关键结果 / 消融** · 两套数据中的错误解释均优于均匀采样基线，正文还报告自动检测中不同分割器的结果。
+- **适用条件 / 局限** · 依赖正常示范及子动作识别质量，适合有可描述执行结构的任务。
+
+**可复用机制** · 长视频异常推理可用正常执行图先找出证据稀疏的动作片段，再交给冻结视觉语言模型解释。
+
+<a id="paper-skeletal-training-prior-motion-latent"></a>
+
+## Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_Mesh4D_4D_Mesh_Reconstruction_and_Tracking_from_Monocular_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_Mesh4D_4D_Mesh_Reconstruction_and_Tracking_from_Monocular_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单目动态网格重建需补足遮挡处形状并产生时间一致的全物体形变。
+- **核心创新 / 方法** · 用骨架指导时空注意力自编码器学习完整动画潜空间，再以视频和初始形状为条件建模潜空间中的形变。
+- **Baseline** · 对比正文的 4D 重建和跟踪方法及去除时序和全局注意力的 VAE 变体。
+- **Benchmark** · 动画 Objaverse 子集，评估几何 IoU、P2S、Chamfer、跟踪及新视角合成。
+- **关键结果 / 消融** · 未执行额外对齐的 Mesh4D 几何 IoU 为 0.3731，Chamfer 为 0.0273。
+- **适用条件 / 局限** · 训练需要有骨架的对象及较强的动画先验，核心定量结果来自 Objaverse 子集。
+
+**可复用机制** · 动态重建可以只在训练期用骨架监督动画潜空间，推理时仍接受普通单目视频。
+
+<a id="paper-catdiet"></a>
+
+## Learning to See Through a Baby's Eyes: Early Visual Diets Enable Robust Visual Intelligence in Humans and Machines
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Cai_Learning_to_See_Through_a_Babys_Eyes_Early_Visual_Diets_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Cai_Learning_to_See_Through_a_Babys_Eyes_Early_Visual_Diets_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 物体中心视觉表征需要可靠的形状、颜色和深度线索，单一预训练目标未必覆盖这些能力。
+- **核心创新 / 方法** · CATDiet 从物体中心视频构造灰度恢复颜色、模糊恢复细节和时间连续性任务。
+- **Baseline** · 在 CombDiet 上对照不同自监督模型，并比较训练目标的组合。
+- **Benchmark** · 正文以十个数据集评估标准和腐蚀条件下的识别、形状与纹理偏好及轮廓、深度顺序等属性。
+- **关键结果 / 消融** · 正文分别列出各能力测试的结果，支持按下游需求选择预训练目标；不同指标上的表现需分别比较。
+- **适用条件 / 局限** · 训练依赖物体中心视频，拥挤场景和任务域外的数据条件仍需验证。
+
+**可复用机制** · 通过改变自监督目标，检验模型学到的物体属性，而非仅比较分类分数。
+
+<a id="paper-cacr-cross-reconstruction"></a>
+
+## Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Conflict-Aware_Adaptive_Cross-Reconstruction_for_Multimodal_Sentiment_Analysis_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Conflict-Aware_Adaptive_Cross-Reconstruction_for_Multimodal_Sentiment_Analysis_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多模态情感预测中，语言和非语言信号可能表达不一致情绪，直接对齐会丢失部分线索。
+- **核心创新 / 方法** · 用其他模态的共享表征和目标模态的私有表征重建目标，按模态冲突调节跨重建约束。
+- **Baseline** · 与正文表1至3中的多模态情感模型比较，另检验移除跨重建等模块。
+- **Benchmark** · CMU-MOSI、CMU-MOSEI、CH-SIMS，报告分类准确率、F1 和回归误差等指标。
+- **关键结果 / 消融** · 正文分别报告三个数据集的比较结果；消融用于验证冲突加权跨重建的作用。
+- **适用条件 / 局限** · 证据来自情感预测；迁移到时序机器人传感器时需区分真实冲突与时间错位。
+
+**可复用机制** · 存在模态冲突时，可用跨模态重建约束区分共享信息与私有信息。
+
+<a id="paper-mv-roma"></a>
+
+## MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_MV-RoMa_From_Pairwise_Matching_into_Multi-View_Track_Reconstruction_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_MV-RoMa_From_Pairwise_Matching_into_Multi-View_Track_Reconstruction_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 多张图像独立计算稠密对应会产生与其他图像不一致的匹配。
+- **核心创新 / 方法** · MV-RoMa 从两视图匹配获得几何先验，以逐像素注意力聚合其他视图的证据并更新匹配。
+- **Baseline** · 基于 RoMa 的两视图估计，比较原两视图匹配和正文列出的多视图方法。
+- **Benchmark** · HPatches 单应性、3D 三角化，以及 Texture-Poor SfM 和 IMC PhotoTourism 相机姿态，后者以 3°、5°、10°姿态误差 AUC 评价。
+- **关键结果 / 消融** · 正文表1至3分别报告单应性、三角化和姿态估计结果，后两项直接检验跨视图一致性的价值。
+- **适用条件 / 局限** · 需有重叠视角和足够可靠的初始对应，动态物体和严重误配时需单独验证。
+
+**可复用机制** · 把可靠的两视图对应当成多视图优化的初值，以跨视图信息减少几何不一致。
+
+<a id="paper-flexavatar-bias-tokens"></a>
+
+## FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kirschstein_FlexAvatar_Learning_Complete_3D_Head_Avatars_with_Partial_Supervision_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kirschstein_FlexAvatar_Learning_Complete_3D_Head_Avatars_with_Partial_Supervision_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单视角人脸驱动数据中，动作与视角偏差纠缠，多来源训练时偏差也会随数据集变化。
+- **核心创新 / 方法** · FlexAvatar 加入可学习的数据来源令牌用于吸收来源偏差，让主模型集中学习跨域共享的动画映射。
+- **Baseline** · 与正文中的三维肖像动画和单图、少样本头像生成方法比较，另消融数据偏差处理。
+- **Benchmark** · VFHQ 等三个数据集、四种任务，分别评估三维肖像动画、单图和少样本头像生成等设置。
+- **关键结果 / 消融** · 正文表1汇总不同任务，表2和表3分别比较动画与单图、少样本生成表现，支持用显式域变量处理训练来源差异。
+- **适用条件 / 局限** · 依赖可区分的数据来源，未见采集条件和遮挡下的效果需另验。
+
+**可复用机制** · 训练时为已知数据来源分配专门的可学习表征，有助于隔离采集域偏差。
+
+<a id="paper-anydoc-height-reward"></a>
+
+## AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_AnyDoc_Enhancing_Document_Generation_via_Large-Scale_HTMLCSS_Data_Synthesis_and_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_AnyDoc_Enhancing_Document_Generation_via_Large-Scale_HTMLCSS_Data_Synthesis_and_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 以 HTML/CSS 表示的文档可能在生成后出现正文溢出，语言模型微调无法直接约束渲染高度。
+- **核心创新 / 方法** · AnyDoc 对模型输出渲染后计算其与目标文档的高度差，构造 HARL 奖励惩罚溢出。
+- **Baseline** · 采用多模态基座经监督微调作为强化阶段起点，与通用多模态模型和任务专用方法对照。
+- **Benchmark** · DocHTML 含 265,206 个样本，论文评估意图到文档、截图反渲染和元素到文档，分别比较渲染与任务表现。
+- **关键结果 / 消融** · 正文报告 HARL 逐步缓解溢出，三张结果表分别覆盖三个生成任务。
+- **适用条件 / 局限** · 需要可渲染反馈和目标高度，满足高度约束仍可能出现重叠、错误排序或视觉风格偏差。
+
+**可复用机制** · 对生成物执行渲染后测量具体失效，可将布局错误变成可优化的标量信号。
+
+<a id="paper-adaptive-text-dreamer"></a>
+
+## Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Cross_from_Left_to_Right_Brain_Adaptive_Text_Dreamer_for_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Cross_from_Left_to_Right_Brain_Adaptive_Text_Dreamer_for_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 视觉语言导航需要预判候选动作的后续观察，但生成完整未来图像成本高且细节不一定对决策有益。
+- **核心创新 / 方法** · Adaptive Text Dreamer 用双支 Q-Former 融合当前视觉表征与想象的未来语言语义，辅助选路。
+- **Baseline** · 与 DUET 等导航模型及 LLM 导航方法对照，并消融双分支结构中的 SGCA。
+- **Benchmark** · R2R、REVERIE 和 R4R 导航，包含零样本迁移评估，报告成功率及路径效率等指标。
+- **关键结果 / 消融** · 正文表1显示其在 R2R 上超过所比较的 LLM 导航方法，表2比较零样本迁移，表3检验融合模块作用。
+- **适用条件 / 局限** · 未来语义依赖历史观察与语言表征，连续控制和真实环境中的接触变化未验证。
+
+**可复用机制** · 用预期未来语义代替逐像素预测，可降低想象模块的输出负担。
+
+<a id="paper-dual-exploration-low-fpr-video-anomaly"></a>
+
+## The Road Less Seen: Segment Exploration for Weakly Supervised Video Anomaly Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Acharya_The_Road_Less_Seen_Segment_Exploration_for_Weakly_Supervised_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Acharya_The_Road_Less_Seen_Segment_Exploration_for_Weakly_Supervised_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 弱监督视频异常检测的 AUROC 可掩盖实际低误报率下的低召回。
+- **核心创新 / 方法** · 以时空语义聚类选取多样片段，再探索低分但高不确定且接近异常记忆的候选，缓解只训练显著片段的偏差。
+- **Baseline** · 与 MIL、RTFM、BNSVP、UR-DMU 比较，消融不同探索组件。
+- **Benchmark** · UCF-Crime，报告 AP 及 FPR 为 1%、2%、3% 时的召回。
+- **关键结果 / 消融** · 表 1 的双探索加 InternVL 方案在 FPR 3% 的召回为 0.336，UR-DMU 为 0.212。
+- **适用条件 / 局限** · 工作阈值应随误报成本调整，探索仍依赖特征质量及已有异常原型。
+
+**可复用机制** · 用部署工作点检验不平衡检测器，并以多样性和不确定性拓宽弱监督选样。
+
+<a id="paper-ndtokenizer-multiscale-scene-tokens"></a>
+
+## Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Scenes_as_Tokens_Multi-Scale_Normal_Distributions_Transform_Tokenizer_for_General_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_Scenes_as_Tokens_Multi-Scale_Normal_Distributions_Transform_Tokenizer_for_General_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接将大规模点云接到语言模型难保留全局结构和局部几何，并增加输入开销。
+- **核心创新 / 方法** · 对点云建立多尺度 NDT 表征，由多尺度解码器融合为场景 token，并复用解码器接收点、框或掩码提示。
+- **Baseline** · 比较 3D-LLaVA、LSceneLLM、Oryx MLLM 等通用 3D 视觉语言模型。
+- **Benchmark** · ScanQA、SQA3D 等 3D 理解任务，ScanQA 报 CIDEr 和 METEOR 等生成指标。
+- **关键结果 / 消融** · 表 1 中 ScanQA CIDEr 为 98.6、METEOR 为 19.4，3D-LLaVA 对应 92.6、18.4。
+- **适用条件 / 局限** · 依赖点云质量和多尺度划分，所测场景的结果需随场景分布复核。
+
+**可复用机制** · 用多尺度分布统一场景压缩、交互提示与掩码解码。
+
+<a id="paper-query2uncertainty-query-density-calibration"></a>
+
+## Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Beemelmanns_Query2Uncertainty_Robust_Uncertainty_Quantification_and_Calibration_for_3D_Object_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Beemelmanns_Query2Uncertainty_Robust_Uncertainty_Quantification_and_Calibration_for_3D_Object_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常规后验校准通常以固定映射处理置信度，在分布偏移下映射可能失效。
+- **核心创新 / 方法** · 拟合潜在对象 query 的特征密度，将密度信息与后验校准器结合，同时调整分类置信度和框回归不确定性。
+- **Baseline** · 比较 PETR 摄像头与 SECOND LiDAR 检测设置中的常规后验校准、深度集成及 MC dropout。
+- **Benchmark** · 基于 nuScenes 的域内及分布偏移评测，分类报告跨阈值 D-ECE 和 LaECE，另评回归校准。
+- **关键结果 / 消融** · 正文表格分别报告分类与回归校准，密度感知方案在两类传感器设置均可改善校准。
+- **适用条件 / 局限** · 依赖检测器潜在特征有可估计的分布结构，换传感器或域后应检查密度与误差相关性。
+
+**可复用机制** · 用目标级潜在特征的密度修正分布偏移下的检测置信度和框不确定性。
+
+<a id="paper-v2sam-cyclic-consistency-prompt-selection"></a>
+
+## V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_V2-SAM_Marrying_SAM2_with_Multi-Prompt_Experts_for_Cross-View_Object_Correspondence_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_V2-SAM_Marrying_SAM2_with_Multi-Prompt_Experts_for_Cross-View_Object_Correspondence_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 直接用单视图分割模型处理大视角差异时，坐标和外观提示容易失效。
+- **核心创新 / 方法** · 基于 DINOv3 构建几何坐标提示，另建外观提示匹配器，通过循环一致性选择 SAM2 的提示专家。
+- **Baseline** · 以 SAM2 为分割基础，比较单专家、多专家及 O-MaMa 等对应方法。
+- **Benchmark** · Ego-Exo4D Correspondences v2 测试集，按双方向及整体报告跨视角对应结果。
+- **关键结果 / 消融** · 表 1 中多专家整体分数 48.0，单专家 45.9，相关开销也随多专家增加。
+- **适用条件 / 局限** · 往返一致性也可能在重复纹理产生错误闭环，且推理需要额外的专家判断。
+
+**可复用机制** · 融合互补的跨视角提示时，用往返一致性为每个样本选择专家。
+
+<a id="paper-ptc-depth-bayesian-metric-scale"></a>
+
+## PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Han_PTC-Depth_Pose-Refined_Monocular_Depth_Estimation_with_Temporal_Consistency_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_PTC-Depth_Pose-Refined_Monocular_Depth_Estimation_with_Temporal_Consistency_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单目深度基础模型在连续帧的相对深度尺度会漂移。
+- **核心创新 / 方法** · 以轮式里程计和光流估计位姿及三角化稀疏深度，递归贝叶斯地更新尺度，再缩放预训练深度结果。
+- **Baseline** · 比较 MADPose 加 UniDepth，表 1 以真值位姿作参考，本方法使用 Depth Anything V2 相对深度。
+- **Benchmark** · KITTI、TartanAir、MS2 和作者数据，测三角化与连续深度表现，包括 AbsRel 和 δ<1.25。
+- **关键结果 / 消融** · 表 1 在所列设置的多数列中，本方法稀疏三角化深度优于 MADPose，但首个设置接近。
+- **适用条件 / 局限** · 依赖里程计、光流匹配与可用视差，标定偏差或接近静止时尺度更新会受限。
+
+**可复用机制** · 将相对深度模型与具噪稀疏几何结合，用递归估计稳定米制尺度。
+
+<a id="paper-lumix-broadcast-query-tensor-lora"></a>
+
+## LumiX: Structured and Coherent Text-to-Intrinsic Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Han_LumiX_Structured_and_Coherent_Text-to-Intrinsic_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_LumiX_Structured_and_Coherent_Text-to-Intrinsic_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 独立生成颜色、反照率、光照、法线和深度会导致地图结构不对齐。
+- **核心创新 / 方法** · 在各自注意力模块中共享查询，并使用 Tensor LoRA 以少量参数学习地图之间的耦合，在同一扩散模型中生成多种属性。
+- **Baseline** · 与 IntrinsiX 比较，表 1 对比不同注意力和 LoRA 设计。
+- **Benchmark** · Hypersim 测试集，评估跨地图一致性、人工偏好及每块训练参数和 FLOPs。
+- **关键结果 / 消融** · 论文摘要报告对齐提升 23%，偏好分数 0.19 对 −0.41，并展示文本训练模型的图像条件分解。
+- **适用条件 / 局限** · 需要可对应的多通道监督，其他传感器通道上的一致性需独立评估。
+
+**可复用机制** · 让多个互补输出共享空间查询与低秩适配，降低跨输出结构不一致。

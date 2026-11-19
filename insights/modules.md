@@ -415,5 +415,6 @@
 - [VideoARM: Agentic Reasoning over Hierarchical Memory for Long-Form Video Understanding](../conferences/cvpr-2026/cards.md#paper-videoarm-hierarchical-multimodal-memory)
 - [iLRM: An Iterative Large 3D Reconstruction Model](../conferences/cvpr-2026/cards.md#paper-ilrm-iterative-compact-scene-tokens)
 - [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-vismem-dual-latent-vision-memory)
+- [PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency](../conferences/cvpr-2026/cards.md#paper-ptc-depth-bayesian-metric-scale)
 
 <!-- conference-classification:end -->

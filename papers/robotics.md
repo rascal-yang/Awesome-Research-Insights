@@ -1015,5 +1015,9 @@
 - [ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-consisvla-4d)
 - [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-activead-planning-label-budget)
 - [Real-World Point Tracking with Verifier-Guided Pseudo-Labeling](../conferences/cvpr-2026/cards.md#paper-verifier-per-frame-pseudo-label-selection)
+- [Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-adaptive-text-dreamer)
+- [Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift](../conferences/cvpr-2026/cards.md#paper-query2uncertainty-query-density-calibration)
+- [V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](../conferences/cvpr-2026/cards.md#paper-v2sam-cyclic-consistency-prompt-selection)
+- [PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency](../conferences/cvpr-2026/cards.md#paper-ptc-depth-bayesian-metric-scale)
 
 <!-- conference-classification:end -->

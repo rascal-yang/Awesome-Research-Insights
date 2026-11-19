@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,337 篇，其中 1,483 篇暂收录、854 篇排除，另有 1,705 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,367 篇，其中 1,502 篇暂收录、865 篇排除，另有 1,675 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1489,3 +1489,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,337
 | 智能体 | 视觉 Token 筛选 | [FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection](cards.md#paper-focusui-position-preserving-selection) | 裁掉高分辨率观察中无关 patch 时保留坐标，避免节省算力却破坏行动定位。 |
 | 多模态学习 | 记忆机制 | [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](cards.md#paper-vismem-dual-latent-vision-memory) | 把视觉证据的短期保存和语义巩固分开，按推理需要调用潜在记忆。 |
 | 机器人学 | 伪标签学习 | [Real-World Point Tracking with Verifier-Guided Pseudo-Labeling](cards.md#paper-verifier-per-frame-pseudo-label-selection) | 混合教师时按局部预测可信度选标签，避免一位教师在所有样本上占优的假设。 |
+| 多模态学习 | 表征学习 | [Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](cards.md#paper-rate-reduction-category-discovery) | 开放类别发现可同时优化模态内类别结构与跨模态对齐。 |
+| 计算机视觉 | 模型架构 | [ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions](cards.md#paper-hierarchical-multi-shot-control) | 将局部镜头控制与跨镜头共享信息分开处理，可改进视频生成的剪辑控制。 |
+| 多模态学习 | 评测与诊断 | [4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models](cards.md#paper-adaptive-world-model-rubrics) | 世界模型评测可以按条件动态挑选维度，并逐项校准与人工评分的相关性。 |
+| 多模态学习 | 优化 | [TaskIT: Memory-Efficient Fine-Tuning of Multi-LoRA LLMs via Cross-Task Importance Transfer](cards.md#paper-budgeted-lora-module-selection) | 预算有限时可用任务间迁移证据选择已有和新增 LoRA 模块，再按峰值显存约束分配训练。 |
+| 多模态学习 | 数据策略 | [Style-GRPO: Semantic-Aware Preference Optimization for Image Style Transfer Guided by Reward Modeling](cards.md#paper-targeted-style-preference-pairs) | 多目标生成奖励可用定向违例偏好对来独立监督风格、内容与视觉质量。 |
+| 多模态学习 | 推理策略 | [AXG-Reasoner: Error Detection and Explanation in Long Task Videos with Vision-Language Models](cards.md#paper-normal-execution-graph-video-errors) | 长视频异常推理可用正常执行图先找出证据稀疏的动作片段，再交给冻结视觉语言模型解释。 |
+| 计算机视觉 | 表征学习 | [Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](cards.md#paper-skeletal-training-prior-motion-latent) | 动态重建可以只在训练期用骨架监督动画潜空间，推理时仍接受普通单目视频。 |
+| 计算机视觉 | 训练策略 | [Learning to See Through a Baby's Eyes: Early Visual Diets Enable Robust Visual Intelligence in Humans and Machines](cards.md#paper-catdiet) | 通过改变自监督目标，检验模型学到的物体属性，而非仅比较分类分数。 |
+| 多模态学习 | 损失函数 | [Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis](cards.md#paper-cacr-cross-reconstruction) | 存在模态冲突时，可用跨模态重建约束区分共享信息与私有信息。 |
+| 计算机视觉 | 模型架构 | [MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction](cards.md#paper-mv-roma) | 把可靠的两视图对应当成多视图优化的初值，以跨视图信息减少几何不一致。 |
+| 计算机视觉 | 模型架构 | [FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision](cards.md#paper-flexavatar-bias-tokens) | 训练时为已知数据来源分配专门的可学习表征，有助于隔离采集域偏差。 |
+| 多模态学习 | 奖励函数 | [AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization](cards.md#paper-anydoc-height-reward) | 对生成物执行渲染后测量具体失效，可将布局错误变成可优化的标量信号。 |
+| 机器人学 | 模型架构 | [Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation](cards.md#paper-adaptive-text-dreamer) | 用预期未来语义代替逐像素预测，可降低想象模块的输出负担。 |
+| 计算机视觉 | 弱监督学习 | [The Road Less Seen: Segment Exploration for Weakly Supervised Video Anomaly Detection](cards.md#paper-dual-exploration-low-fpr-video-anomaly) | 用部署工作点检验不平衡检测器，并以多样性和不确定性拓宽弱监督选样。 |
+| 三维视觉 | 多尺度表征 | [Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding](cards.md#paper-ndtokenizer-multiscale-scene-tokens) | 用多尺度分布统一场景压缩、交互提示与掩码解码。 |
+| 机器人学 | 不确定性校准 | [Query2Uncertainty: Robust Uncertainty Quantification and Calibration for 3D Object Detection under Distribution Shift](cards.md#paper-query2uncertainty-query-density-calibration) | 用目标级潜在特征的密度修正分布偏移下的检测置信度和框不确定性。 |
+| 机器人学 | 跨视角表征 | [V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](cards.md#paper-v2sam-cyclic-consistency-prompt-selection) | 融合互补的跨视角提示时，用往返一致性为每个样本选择专家。 |
+| 机器人学 | 多传感器融合 | [PTC-Depth: Pose-Refined Monocular Depth Estimation with Temporal Consistency](cards.md#paper-ptc-depth-bayesian-metric-scale) | 将相对深度模型与具噪稀疏几何结合，用递归估计稳定米制尺度。 |
+| 生成模型 | 条件生成 | [LumiX: Structured and Coherent Text-to-Intrinsic Generation](cards.md#paper-lumix-broadcast-query-tensor-lora) | 让多个互补输出共享空间查询与低秩适配，降低跨输出结构不一致。 |

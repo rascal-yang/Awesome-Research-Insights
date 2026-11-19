@@ -698,5 +698,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Landscape-Awareness for Geometric View Diffusion Model](../../conferences/cvpr-2026/cards.md#paper-landscape-aware-view-diffusion)
 - [Plug-and-Play Incomplete Multi-View Clustering via Janus-Faced Affinity Learning with Topology Harmonization](../../conferences/cvpr-2026/cards.md#paper-pjfth-incomplete-clustering)
 - [Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment](../../conferences/cvpr-2026/cards.md#paper-gsa-cross-instance)
+- [TaskIT: Memory-Efficient Fine-Tuning of Multi-LoRA LLMs via Cross-Task Importance Transfer](../../conferences/cvpr-2026/cards.md#paper-budgeted-lora-module-selection)
 
 <!-- conference-classification:end -->

@@ -698,5 +698,9 @@
 - [TTAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events](../conferences/cvpr-2026/cards.md#paper-tapformer-asynchronous)
 - [FVAR: Next-Focus Prediction for Visual Autoregressive Modeling](../conferences/cvpr-2026/cards.md#paper-fvar-next-focus)
 - [ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation](../conferences/cvpr-2026/cards.md#paper-consisvla-4d)
+- [ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions](../conferences/cvpr-2026/cards.md#paper-hierarchical-multi-shot-control)
+- [MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction](../conferences/cvpr-2026/cards.md#paper-mv-roma)
+- [FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision](../conferences/cvpr-2026/cards.md#paper-flexavatar-bias-tokens)
+- [Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation](../conferences/cvpr-2026/cards.md#paper-adaptive-text-dreamer)
 
 <!-- conference-classification:end -->

@@ -1587,5 +1587,7 @@
 - [Test-Time 3D Occupancy Prediction](../conferences/cvpr-2026/cards.md#paper-tt-occ-gaussian-runtime-voxelization)
 - [PhaseWin Search Framework Enable Efficient Object-Level Interpretation](../conferences/cvpr-2026/cards.md#paper-phasewin-coarse-to-fine-attribution)
 - [DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers](../conferences/cvpr-2026/cards.md#paper-ddit-dynamic-patch)
+- [AXG-Reasoner: Error Detection and Explanation in Long Task Videos with Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-normal-execution-graph-video-errors)
+- [LumiX: Structured and Coherent Text-to-Intrinsic Generation](../conferences/cvpr-2026/cards.md#paper-lumix-broadcast-query-tensor-lora)
 
 <!-- conference-classification:end -->

@@ -1183,5 +1183,7 @@ Training schedules, curricula, and task or stage composition.
 - [Adapting Lightweight Image-based Counting Models for Video Crowd Counting](../../conferences/cvpr-2026/cards.md#paper-lightweight-temporal-counting)
 - [FedAFD: Multimodal Federated Learning via Adversarial Fusion and Distillation](../../conferences/cvpr-2026/cards.md#paper-fedafd)
 - [ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving](../../conferences/cvpr-2026/cards.md#paper-activead-planning-label-budget)
+- [Learning to See Through a Baby's Eyes: Early Visual Diets Enable Robust Visual Intelligence in Humans and Machines](../../conferences/cvpr-2026/cards.md#paper-catdiet)
+- [The Road Less Seen: Segment Exploration for Weakly Supervised Video Anomaly Detection](../../conferences/cvpr-2026/cards.md#paper-dual-exploration-low-fpr-video-anomaly)
 
 <!-- conference-classification:end -->

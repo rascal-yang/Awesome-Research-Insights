@@ -1367,5 +1367,12 @@ Learning across modalities such as images, text, audio, and video.
 - [Spot The Ball: A Benchmark for Visual Social Inference](../../conferences/cvpr-2026/cards.md#paper-spot-the-ball-heuristic-controls)
 - [Bridging the Modality Gap in Compositional Zero-Shot Learning via Sparse Alignment and Unimodal Memory Bank](../../conferences/cvpr-2026/cards.md#paper-sam-sparse-crossmodal-alignment)
 - [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-vismem-dual-latent-vision-memory)
+- [Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-rate-reduction-category-discovery)
+- [4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models](../../conferences/cvpr-2026/cards.md#paper-adaptive-world-model-rubrics)
+- [TaskIT: Memory-Efficient Fine-Tuning of Multi-LoRA LLMs via Cross-Task Importance Transfer](../../conferences/cvpr-2026/cards.md#paper-budgeted-lora-module-selection)
+- [Style-GRPO: Semantic-Aware Preference Optimization for Image Style Transfer Guided by Reward Modeling](../../conferences/cvpr-2026/cards.md#paper-targeted-style-preference-pairs)
+- [AXG-Reasoner: Error Detection and Explanation in Long Task Videos with Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-normal-execution-graph-video-errors)
+- [Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis](../../conferences/cvpr-2026/cards.md#paper-cacr-cross-reconstruction)
+- [AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization](../../conferences/cvpr-2026/cards.md#paper-anydoc-height-reward)
 
 <!-- conference-classification:end -->

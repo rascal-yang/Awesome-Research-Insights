@@ -795,5 +795,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization](../../conferences/cvpr-2026/cards.md#paper-dpp-grpo)
 - [TSTM: Temporal Segmentation for Task-relevant Mask in Visual Reinforcement Learning Generalization](../../conferences/cvpr-2026/cards.md#paper-tstm-temporal-task-relevance-mask)
 - [MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding](../../conferences/cvpr-2026/cards.md#paper-medgrpo-cross-dataset-reward)
+- [AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization](../../conferences/cvpr-2026/cards.md#paper-anydoc-height-reward)
 
 <!-- conference-classification:end -->

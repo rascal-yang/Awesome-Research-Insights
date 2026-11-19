@@ -469,5 +469,6 @@ Objectives, auxiliary supervision, and regularization.
 - [MatchED: Crisp Edge Detection Using End-to-End, Matching-based Supervision](../../conferences/cvpr-2026/cards.md#paper-matched-crisp-edges)
 - [DEVA: Fine-tuning Multimodal Large Language Models for Visual Perception Tasks](../../conferences/cvpr-2026/cards.md#paper-deva-perception-rl-diversity-reward)
 - [TACO: Task-Aware Contrastive Learning for Joint LiDAR Localization and 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-taco-lidar)
+- [Conflict-Aware Adaptive Cross-Reconstruction for Multimodal Sentiment Analysis](../../conferences/cvpr-2026/cards.md#paper-cacr-cross-reconstruction)
 
 <!-- conference-classification:end -->

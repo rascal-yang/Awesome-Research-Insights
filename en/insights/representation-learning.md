@@ -717,5 +717,9 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Beyond [CLS] Token: Query-Driven Token-Level Forgery Purification for Generalizable Deepfake Detection](../../conferences/cvpr-2026/cards.md#paper-qtfp-local-patch-evidence-queries)
 - [LoST: Level of Semantics Tokenization for 3D Shapes](../../conferences/cvpr-2026/cards.md#paper-lost-semantic-prefix-tokenization)
 - [Bridging the Modality Gap in Compositional Zero-Shot Learning via Sparse Alignment and Unimodal Memory Bank](../../conferences/cvpr-2026/cards.md#paper-sam-sparse-crossmodal-alignment)
+- [Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery](../../conferences/cvpr-2026/cards.md#paper-rate-reduction-category-discovery)
+- [Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](../../conferences/cvpr-2026/cards.md#paper-skeletal-training-prior-motion-latent)
+- [Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding](../../conferences/cvpr-2026/cards.md#paper-ndtokenizer-multiscale-scene-tokens)
+- [V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](../../conferences/cvpr-2026/cards.md#paper-v2sam-cyclic-consistency-prompt-selection)
 
 <!-- conference-classification:end -->
