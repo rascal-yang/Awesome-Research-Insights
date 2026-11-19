@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,847 篇，其中 1,798 篇暂收录、1,049 篇排除，另有 1,195 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,877 篇，其中 1,817 篇暂收录、1,060 篇排除，另有 1,165 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1804,3 +1804,22 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 2,847
 | 高效深度学习 | 参数高效适配 | [LiDeRe: A Lightweight Readout for Fast and Data-Efficient Dense Prediction](cards.md#paper-lidere-frozen-dense-readout) | 小数据密集预测可先尝试冻结底座，仅训练插值和注意力读出。 |
 | 机器学习 | 不确定性校准 | [LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs](cards.md#paper-lata-label-free-transductive-conformal) | 在不读取标签的情况下对校准与测试样本联合做图平滑，再进行保形校准。 |
 | 多模态学习 | 强化学习与奖励 | [Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning](cards.md#paper-doge-context-first-self-evolving-learning) | 少监督场景先训练理解上下文，再练问题求解，降低直接自奖励形成捷径的风险。 |
+| 多模态学习 | 表征学习 | [MORE-STEM: Long-Short MemOry REcall and Spatio-TEmporal Consistency Model for Query-Driven 3D/4D Point Cloud Segmentation](cards.md#paper-hierarchical-memory-dynamic-point-segmentation) | 语言指代的动态点云分割可分别维护即时运动记忆和长期语义记忆。 |
+| 计算机视觉 | 评测与诊断 | [Homaloidal parametrization for detecting critical two-view configurations](cards.md#paper-critical-two-view-test-without-fundamental) | 计算基础矩阵前可直接检查图像对应点是否落入一般临界配置。 |
+| 计算机视觉 | 数据策略 | [Data Leakage Detection and De-duplication in Large Scale Geospatial Image Datasets](cards.md#paper-split-leakage-duplicate-geospatial-audit) | 切分或扩充图像数据前后应同时检查集内重复和跨集合近似重复。 |
+| 多模态学习 | 推理策略 | [Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](cards.md#paper-gated-cross-modal-source-verification) | 跨模态定位可先生成候选，再检查多模态角色一致性，并只在证据充分时修订。 |
+| 计算机视觉 | 表征学习 | [Learnable Motion-Focused Tokenization for Effective and Efficient Video Unsupervised Domain Adaptation](cards.md#paper-motion-guided-token-pruning-video-adaptation) | 视频域适配可训练 tokenizer 优先保留动作相关区域，削弱背景捷径并降计算量。 |
+| 计算机视觉 | 模型架构 | [Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model](cards.md#paper-coarse-to-fine-patch-diffusion-transformer) | 扩散 Transformer 可让前段大 patch 提取全局结构，后段缩小 patch 恢复细节。 |
+| 计算机视觉 | 模型架构 | [iSplat: Iterative Learning for Fine-Grained Gaussian Splatting](cards.md#paper-recurrent-uncertainty-guided-gaussian-refinement) | 前馈三维重建可以用小次数递归更新与不确定性缩小深度搜索区间。 |
+| 计算机视觉 | 模型架构 | [Gyro-based Deep Video Deblurring](cards.md#paper-gyrodvd-blur-kernels) | 在基于惯性信息的视觉恢复中显式分离相机旋转和平移对曝光的贡献。 |
+| 多模态学习 | 奖励函数 | [Detect Anything via Next Point Prediction](cards.md#paper-rex-omni-next-point) | 让视觉语言模型以离散位置输出动作空间锚点，再用几何反馈处理重复和坐标偏差。 |
+| 计算机视觉 | 模型架构 | [VidEoMT: Your ViT is Secretly Also a Video Segmentation Model](cards.md#paper-videomt-query-propagation) | 在线分割时将上一帧查询与可发现新对象的当前查询融合，替代独立跟踪模块。 |
+| 多模态学习 | 训练策略 | [VAST: Video Ability-Stratified Taxonomy for Data-Efficient Video Reasoning](cards.md#paper-vast-ability-stratified-training) | 视频强化训练按底层能力组织数据，避免把同一能力分散在表面题型中。 |
+| 机器学习基础与统计 | 损失函数 | [TWEO: Transformers Without Extreme Outliers Enables FP8 Training And Quantization For Dummies](cards.md#paper-tweo-weight-collinearity) | 遇到低精度溢出时先排查权重结构诱发的异常值，再决定是否提高激活精度。 |
+| 机器人学 | 评测与诊断 | [HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models](cards.md#paper-handvqa-articulated-reasoning) | 由三维实例构建受控的关节角度和距离问题，检查视觉模型是否真的理解局部空间关系。 |
+| 多模态学习 | 训练策略 | [FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Alignment](cards.md#paper-falcon-negative-scheduler) | 让负样本难度随锚点和对齐收益调整，避免持续把潜在正对当作硬负例。 |
+| 生成模型 | 推理时筛选 | [Toward Early Quality Assessment of Text-to-Image Diffusion Models](cards.md#paper-probe-select-early-diffusion-ranking) | 按早期去噪特征预测最终质量，优先继续计算更有希望的采样轨迹。 |
+| 机器人学 | 预测表征 | [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](cards.md#paper-mantis-decoupled-visual-foresight) | 把高维未来视觉预测交给独立头，让动作骨干保留用于控制的容量。 |
+| 智能体 | 评测设计 | [Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs](cards.md#paper-graph2eval-grounded-task-subgraphs) | 从真实资料之间的关系采样子图，构造答案可追溯的多步智能体任务。 |
+| 多模态学习 | 持续学习 | [Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs](cards.md#paper-hpa-continual-alignment-retention) | 持续调优时分别监测任务遗忘和安全对齐退化，再约束参数更新方向。 |
+| 多模态学习 | 可解释表征 | [Explaining CLIP Zero-shot Predictions Through Concepts](cards.md#paper-ezpc-zero-shot-concept-projection) | 解释零样本分类时，让图像与文本投影到同一概念空间，并检验预测是否保真。 |

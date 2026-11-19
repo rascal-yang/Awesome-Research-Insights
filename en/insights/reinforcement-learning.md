@@ -808,5 +808,6 @@ Rewards, exploration, credit assignment, and policy improvement.
 - [Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR](../../conferences/cvpr-2026/cards.md#paper-fdrl-format-rewards)
 - [MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](../../conferences/cvpr-2026/cards.md#paper-moddpo-relevant-modality-invariance)
 - [Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning](../../conferences/cvpr-2026/cards.md#paper-doge-context-first-self-evolving-learning)
+- [Detect Anything via Next Point Prediction](../../conferences/cvpr-2026/cards.md#paper-rex-omni-next-point)
 
 <!-- conference-classification:end -->

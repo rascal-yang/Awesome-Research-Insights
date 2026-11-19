@@ -1539,5 +1539,12 @@
 - [Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation](../conferences/cvpr-2026/cards.md#paper-tracker-correspondence-dynamic-generation)
 - [Edit2Perceive: Image Editing Diffusion Models Are Strong Dense Perceivers](../conferences/cvpr-2026/cards.md#paper-editing-backbone-deterministic-dense-perception)
 - [Image Guides Images: Consistent Video Amodal Completion with Rectified In-Context Exemplar Guidance](../conferences/cvpr-2026/cards.md#paper-rectified-exemplar-video-completion)
+- [Homaloidal parametrization for detecting critical two-view configurations](../conferences/cvpr-2026/cards.md#paper-critical-two-view-test-without-fundamental)
+- [Data Leakage Detection and De-duplication in Large Scale Geospatial Image Datasets](../conferences/cvpr-2026/cards.md#paper-split-leakage-duplicate-geospatial-audit)
+- [Learnable Motion-Focused Tokenization for Effective and Efficient Video Unsupervised Domain Adaptation](../conferences/cvpr-2026/cards.md#paper-motion-guided-token-pruning-video-adaptation)
+- [Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model](../conferences/cvpr-2026/cards.md#paper-coarse-to-fine-patch-diffusion-transformer)
+- [iSplat: Iterative Learning for Fine-Grained Gaussian Splatting](../conferences/cvpr-2026/cards.md#paper-recurrent-uncertainty-guided-gaussian-refinement)
+- [Gyro-based Deep Video Deblurring](../conferences/cvpr-2026/cards.md#paper-gyrodvd-blur-kernels)
+- [VidEoMT: Your ViT is Secretly Also a Video Segmentation Model](../conferences/cvpr-2026/cards.md#paper-videomt-query-propagation)
 
 <!-- conference-classification:end -->

@@ -1081,5 +1081,7 @@ Robot perception, policy learning, planning, and control.
 - [Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling](../../conferences/cvpr-2026/cards.md#paper-recent-and-global-keyframe-spatial-memory)
 - [HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation](../../conferences/cvpr-2026/cards.md#paper-hg-lane-label-preserving-weather)
 - [ParticleGS: Learning Neural Gaussian Particle Dynamics from Videos for Prior-free Physical Motion Extrapolation](../../conferences/cvpr-2026/cards.md#paper-particlegs-continuous-particle-dynamics)
+- [HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-handvqa-articulated-reasoning)
+- [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](../../conferences/cvpr-2026/cards.md#paper-mantis-decoupled-visual-foresight)
 
 <!-- conference-classification:end -->

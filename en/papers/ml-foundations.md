@@ -2551,5 +2551,7 @@ General learning methods, optimization, learning theory, and inference.
 - [ReFTA: Breaking the Weight Reconstruction Bottleneck in Tensorized Parameter-Efficient Fine-Tuning](../../conferences/cvpr-2026/cards.md#paper-factor-space-tensor-finetuning)
 - [LiDeRe: A Lightweight Readout for Fast and Data-Efficient Dense Prediction](../../conferences/cvpr-2026/cards.md#paper-lidere-frozen-dense-readout)
 - [LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs](../../conferences/cvpr-2026/cards.md#paper-lata-label-free-transductive-conformal)
+- [TWEO: Transformers Without Extreme Outliers Enables FP8 Training And Quantization For Dummies](../../conferences/cvpr-2026/cards.md#paper-tweo-weight-collinearity)
+- [Toward Early Quality Assessment of Text-to-Image Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-probe-select-early-diffusion-ranking)
 
 <!-- conference-classification:end -->

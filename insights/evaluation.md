@@ -1582,5 +1582,9 @@
 - [PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing](../conferences/cvpr-2026/cards.md#paper-explicit-negatives-paraphrase-retrieval-test)
 - [WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](../conferences/cvpr-2026/cards.md#paper-worldlens-functional-world-model-evaluation)
 - [Will Multimodal Models Be Dazzled by Multi-Image Visual Puzzles?](../conferences/cvpr-2026/cards.md#paper-cross-image-dependency-evaluation)
+- [Homaloidal parametrization for detecting critical two-view configurations](../conferences/cvpr-2026/cards.md#paper-critical-two-view-test-without-fundamental)
+- [HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-handvqa-articulated-reasoning)
+- [Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs](../conferences/cvpr-2026/cards.md#paper-graph2eval-grounded-task-subgraphs)
+- [Explaining CLIP Zero-shot Predictions Through Concepts](../conferences/cvpr-2026/cards.md#paper-ezpc-zero-shot-concept-projection)
 
 <!-- conference-classification:end -->

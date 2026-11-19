@@ -442,5 +442,7 @@ Data selection, annotation, augmentation, and sampling.
 - [ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-hierarchical-latent-prototypes-distillation)
 - [ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval](../../conferences/cvpr-2026/cards.md#paper-recall-diagnose-generate-refine-retrieval)
 - [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-reag-critic-filtered-multimodal-retrieval)
+- [Data Leakage Detection and De-duplication in Large Scale Geospatial Image Datasets](../../conferences/cvpr-2026/cards.md#paper-split-leakage-duplicate-geospatial-audit)
+- [Toward Early Quality Assessment of Text-to-Image Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-probe-select-early-diffusion-ranking)
 
 <!-- conference-classification:end -->

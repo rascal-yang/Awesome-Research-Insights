@@ -488,5 +488,6 @@
 - [InsCal: Calibrated Multi-Source Fully Test-Time Prompt Tuning for Object Detection](../conferences/cvpr-2026/cards.md#paper-inscal-instance-calibration)
 - [Distilling Balanced Knowledge from a Biased Teacher](../conferences/cvpr-2026/cards.md#paper-ltkd-groupwise-distillation)
 - [$\phi$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models](../conferences/cvpr-2026/cards.md#paper-phi-dpo-continual-balance)
+- [TWEO: Transformers Without Extreme Outliers Enables FP8 Training And Quantization For Dummies](../conferences/cvpr-2026/cards.md#paper-tweo-weight-collinearity)
 
 <!-- conference-classification:end -->

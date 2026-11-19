@@ -1476,5 +1476,12 @@ Learning across modalities such as images, text, audio, and video.
 - [The Power of Prior: Training-Free Open-Vocabulary Semantic Segmentation with LLaVA](../../conferences/cvpr-2026/cards.md#paper-llava-layer-spatial-priors)
 - [TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification](../../conferences/cvpr-2026/cards.md#paper-tape-prototype-evolution)
 - [Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning](../../conferences/cvpr-2026/cards.md#paper-doge-context-first-self-evolving-learning)
+- [MORE-STEM: Long-Short MemOry REcall and Spatio-TEmporal Consistency Model for Query-Driven 3D/4D Point Cloud Segmentation](../../conferences/cvpr-2026/cards.md#paper-hierarchical-memory-dynamic-point-segmentation)
+- [Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](../../conferences/cvpr-2026/cards.md#paper-gated-cross-modal-source-verification)
+- [Detect Anything via Next Point Prediction](../../conferences/cvpr-2026/cards.md#paper-rex-omni-next-point)
+- [VAST: Video Ability-Stratified Taxonomy for Data-Efficient Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-vast-ability-stratified-training)
+- [FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Alignment](../../conferences/cvpr-2026/cards.md#paper-falcon-negative-scheduler)
+- [Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs](../../conferences/cvpr-2026/cards.md#paper-hpa-continual-alignment-retention)
+- [Explaining CLIP Zero-shot Predictions Through Concepts](../../conferences/cvpr-2026/cards.md#paper-ezpc-zero-shot-concept-projection)
 
 <!-- conference-classification:end -->

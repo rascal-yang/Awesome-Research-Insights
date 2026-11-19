@@ -1251,5 +1251,8 @@ Training schedules, curricula, and task or stage composition.
 - [Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation](../../conferences/cvpr-2026/cards.md#paper-tracker-correspondence-dynamic-generation)
 - [Edit2Perceive: Image Editing Diffusion Models Are Strong Dense Perceivers](../../conferences/cvpr-2026/cards.md#paper-editing-backbone-deterministic-dense-perception)
 - [HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation](../../conferences/cvpr-2026/cards.md#paper-hg-lane-label-preserving-weather)
+- [VAST: Video Ability-Stratified Taxonomy for Data-Efficient Video Reasoning](../../conferences/cvpr-2026/cards.md#paper-vast-ability-stratified-training)
+- [FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Alignment](../../conferences/cvpr-2026/cards.md#paper-falcon-negative-scheduler)
+- [Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs](../../conferences/cvpr-2026/cards.md#paper-hpa-continual-alignment-retention)
 
 <!-- conference-classification:end -->

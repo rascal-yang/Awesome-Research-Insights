@@ -749,5 +749,9 @@ Model-wide design and information flow.
 - [RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection](../../conferences/cvpr-2026/cards.md#paper-regformer-relational-grounding)
 - [MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-motionscale-cluster-motion)
 - [Content-Aware Frequency Encoding for Implicit Neural Representations with Fourier-Chebyshev Features](../../conferences/cvpr-2026/cards.md#paper-multiplicative-content-aware-frequency-basis)
+- [Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model](../../conferences/cvpr-2026/cards.md#paper-coarse-to-fine-patch-diffusion-transformer)
+- [iSplat: Iterative Learning for Fine-Grained Gaussian Splatting](../../conferences/cvpr-2026/cards.md#paper-recurrent-uncertainty-guided-gaussian-refinement)
+- [Gyro-based Deep Video Deblurring](../../conferences/cvpr-2026/cards.md#paper-gyrodvd-blur-kernels)
+- [VidEoMT: Your ViT is Secretly Also a Video Segmentation Model](../../conferences/cvpr-2026/cards.md#paper-videomt-query-propagation)
 
 <!-- conference-classification:end -->

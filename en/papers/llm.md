@@ -2459,5 +2459,6 @@ Language modeling, post-training, and reasoning methods from LLM research.
 - [Active Intelligence in Video Avatars via Closed-loop World Modeling](../../conferences/cvpr-2026/cards.md#paper-orca-closed-loop-avatar)
 - [LAM: Language Articulated Object Modelers](../../conferences/cvpr-2026/cards.md#paper-lam-articulated-code-generation)
 - [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](../../conferences/cvpr-2026/cards.md#paper-reag-critic-filtered-multimodal-retrieval)
+- [Graph2Eval: Automatic Multimodal Task Generation for Agents via Knowledge Graphs](../../conferences/cvpr-2026/cards.md#paper-graph2eval-grounded-task-subgraphs)
 
 <!-- conference-classification:end -->

@@ -750,5 +750,8 @@ Representation extraction, alignment, transfer, and disentanglement.
 - [Physical Object Understanding with a Physically Controllable World Model](../../conferences/cvpr-2026/cards.md#paper-conditional-world-model-motion-intervention)
 - [Revisiting Monocular SLAM with Spatio-Temporal Scene Modeling](../../conferences/cvpr-2026/cards.md#paper-recent-and-global-keyframe-spatial-memory)
 - [RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations](../../conferences/cvpr-2026/cards.md#paper-degradation-conditioned-document-rag)
+- [MORE-STEM: Long-Short MemOry REcall and Spatio-TEmporal Consistency Model for Query-Driven 3D/4D Point Cloud Segmentation](../../conferences/cvpr-2026/cards.md#paper-hierarchical-memory-dynamic-point-segmentation)
+- [Learnable Motion-Focused Tokenization for Effective and Efficient Video Unsupervised Domain Adaptation](../../conferences/cvpr-2026/cards.md#paper-motion-guided-token-pruning-video-adaptation)
+- [Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](../../conferences/cvpr-2026/cards.md#paper-mantis-decoupled-visual-foresight)
 
 <!-- conference-classification:end -->
