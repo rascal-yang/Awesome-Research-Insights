@@ -559,5 +559,9 @@
 - [MoEActok: A MoE-based Action Tokenizer for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-moeactok)
 - [Generative Video Compression with One-Dimensional Latent Representation](../conferences/cvpr-2026/cards.md#paper-gvc1d)
 - [Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation](../conferences/cvpr-2026/cards.md#paper-action-geometry-prediction)
+- [UniCompress: Token Compression for Unified Vision-Language Understanding and Generation](../conferences/cvpr-2026/cards.md#paper-unicompress-bidirectional-token-bottleneck)
+- [Envisioning the Future, One Step at a Time](../conferences/cvpr-2026/cards.md#paper-sparse-point-future-ensembles)
+- [EMMA: Extracting Multiple physical parameters from Multimodal Data](../conferences/cvpr-2026/cards.md#paper-emma-multimodal-dynamics)
+- [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](../conferences/cvpr-2026/cards.md#paper-tracegen-3d-trace-space)
 
 <!-- conference-classification:end -->

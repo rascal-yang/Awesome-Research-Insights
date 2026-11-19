@@ -1098,5 +1098,14 @@
 - [Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](../conferences/cvpr-2026/cards.md#paper-faster-gs-optimization)
 - [DiverseGRPO: Mitigating Mode Collapse in Image Generation via Diversity-Aware GRPO](../conferences/cvpr-2026/cards.md#paper-diversegrpo)
 - [Breaking Smooth-Motion Assumptions: A UAV Benchmark for Multi-Object Tracking in Complex and Adverse Conditions](../conferences/cvpr-2026/cards.md#paper-dynuav-motion-failure-audit)
+- [Progressive Multi-cue Alignment for Unaligned RGBT Tracking](../conferences/cvpr-2026/cards.md#paper-pmatrack-progressive-rgbt-alignment)
+- [DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-dynamicvggt-future-point-map)
+- [Self-Evaluation Unlocks Any-Step Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-self-e-any-step-self-evaluation)
+- [Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](../conferences/cvpr-2026/cards.md#paper-semantic-first-diffusion)
+- [Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-aard-geometry-noise)
+- [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](../conferences/cvpr-2026/cards.md#paper-versecrafter-4d-control)
+- [PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning](../conferences/cvpr-2026/cards.md#paper-physskin)
+- [Learning Where to Look and How to Judge: Resolution-agnostic Image Quality Assessment with Quality-aware Saliency](../conferences/cvpr-2026/cards.md#paper-reliqs-quality-aware-saliency)
+- [Agile Deliberation: Concept Deliberation for Subjective Visual Classification](../conferences/cvpr-2026/cards.md#paper-agile-deliberation)
 
 <!-- conference-classification:end -->

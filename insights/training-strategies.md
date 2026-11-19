@@ -965,5 +965,10 @@
 - [DiverseGRPO: Mitigating Mode Collapse in Image Generation via Diversity-Aware GRPO](../conferences/cvpr-2026/cards.md#paper-diversegrpo)
 - [Unleashing the Intrinsic Visual Representation Capability of Multimodal Large Language Models](../conferences/cvpr-2026/cards.md#paper-laver-latent-visual-reconstruction)
 - [Revisiting 2D Foundation Models for Scalable 3D Medical Image Classification](../conferences/cvpr-2026/cards.md#paper-anymc3d-frozen-2d-transfer)
+- [DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving](../conferences/cvpr-2026/cards.md#paper-dynamicvggt-future-point-map)
+- [Self-Evaluation Unlocks Any-Step Text-to-Image Generation](../conferences/cvpr-2026/cards.md#paper-self-e-any-step-self-evaluation)
+- [AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video](../conferences/cvpr-2026/cards.md#paper-avatar-av-rl)
+- [Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](../conferences/cvpr-2026/cards.md#paper-semantic-first-diffusion)
+- [Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection](../conferences/cvpr-2026/cards.md#paper-aard-geometry-noise)
 
 <!-- conference-classification:end -->

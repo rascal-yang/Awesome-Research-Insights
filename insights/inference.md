@@ -1362,5 +1362,8 @@
 - [Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow](../conferences/cvpr-2026/cards.md#paper-adaptive-vlm-information-flow)
 - [Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](../conferences/cvpr-2026/cards.md#paper-faster-gs-optimization)
 - [Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models](../conferences/cvpr-2026/cards.md#paper-anatomica-local-constraints)
+- [MeToM: Metadata-Guided Token Merging for Efficient Video LLMs](../conferences/cvpr-2026/cards.md#paper-metom-codec-guided-token-merging)
+- [Progressive Multi-cue Alignment for Unaligned RGBT Tracking](../conferences/cvpr-2026/cards.md#paper-pmatrack-progressive-rgbt-alignment)
+- [Learning Where to Look and How to Judge: Resolution-agnostic Image Quality Assessment with Quality-aware Saliency](../conferences/cvpr-2026/cards.md#paper-reliqs-quality-aware-saliency)
 
 <!-- conference-classification:end -->

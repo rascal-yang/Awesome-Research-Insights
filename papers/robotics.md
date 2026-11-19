@@ -880,5 +880,7 @@
 - [MoEActok: A MoE-based Action Tokenizer for Vision-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-moeactok)
 - [Cross-Domain Demo-to-Code via Neurosymbolic Counterfactual Reasoning](../conferences/cvpr-2026/cards.md#paper-nesycr-cross-domain-procedure-checks)
 - [Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation](../conferences/cvpr-2026/cards.md#paper-action-geometry-prediction)
+- [Envisioning the Future, One Step at a Time](../conferences/cvpr-2026/cards.md#paper-sparse-point-future-ensembles)
+- [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](../conferences/cvpr-2026/cards.md#paper-tracegen-3d-trace-space)
 
 <!-- conference-classification:end -->

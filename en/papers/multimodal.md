@@ -979,5 +979,9 @@ Learning across modalities such as images, text, audio, and video.
 - [Unleashing the Intrinsic Visual Representation Capability of Multimodal Large Language Models](../../conferences/cvpr-2026/cards.md#paper-laver-latent-visual-reconstruction)
 - [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](../../conferences/cvpr-2026/cards.md#paper-motionnft)
 - [Leveraging Verifier-Based Reinforcement Learning in Image Editing](../../conferences/cvpr-2026/cards.md#paper-edit-r1-verifier-reward)
+- [UniCompress: Token Compression for Unified Vision-Language Understanding and Generation](../../conferences/cvpr-2026/cards.md#paper-unicompress-bidirectional-token-bottleneck)
+- [MeToM: Metadata-Guided Token Merging for Efficient Video LLMs](../../conferences/cvpr-2026/cards.md#paper-metom-codec-guided-token-merging)
+- [AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video](../../conferences/cvpr-2026/cards.md#paper-avatar-av-rl)
+- [Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training](../../conferences/cvpr-2026/cards.md#paper-tqd-video-diffusion)
 
 <!-- conference-classification:end -->

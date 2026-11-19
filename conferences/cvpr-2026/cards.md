@@ -5746,3 +5746,258 @@
 - **适用条件 / 局限** · 验证器可能偏见、漏项或依赖可见证据，聚合权重仍影响行为。
 
 **可复用机制** · 多条件图像编辑策略训练时，把一条指令拆成可核查要求再聚合奖励。
+
+<a id="paper-unicompress-bidirectional-token-bottleneck"></a>
+
+## UniCompress: Token Compression for Unified Vision-Language Understanding and Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_UniCompress_Token_Compression_for_Unified_Vision-Language_Understanding_and_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_UniCompress_Token_Compression_for_Unified_Vision-Language_Understanding_and_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 同一自回归骨干处理图像理解和生成时，大量视觉词元拉高成本，而生成端还需保留局部信息。
+- **核心创新 / 方法** · 在既有统一骨干外挂由全局可学习词元引导的压缩及解压模块，无需全量重训。
+- **Baseline** · 比较 UniTok、VILA-U 原版及其压缩版本，另消融局部聚合方法。
+- **Benchmark** · 用标准视觉理解任务和 MJHQ-30K 图像生成测任务成绩、FID、图文相似度；表 3 单测墙钟。
+- **关键结果 / 消融** · 表 3 UniTok 的生成推理由 32.25 降为 18.96 分钟，理解推理仅由 5.41 降为 5.25 分钟。
+- **适用条件 / 局限** · 解压不能保证恢复已丢失细节；不同负载下两条路径的成本收益需分开验证。
+
+**可复用机制** · 统一图像理解和生成可在主模型前压缩、在生成解码前恢复局部视觉词元，独立测两条路径的墙钟时间。见表 1–3。
+
+<a id="paper-sparse-point-future-ensembles"></a>
+
+## Envisioning the Future, One Step at a Time
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Baumann_Envisioning_the_Future_One_Step_at_a_Time_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Baumann_Envisioning_the_Future_One_Step_at_a_Time_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 预测稠密外观会挤占搜索大量运动未来的计算，而单个预测会忽略结果不确定性。
+- **核心创新 / 方法** · 对稀疏点轨迹做逐短步自回归扩散，并在滚动中生成多个未来。
+- **Baseline** · 对照 MAGI、Wan、CV-X、SRv2、SVD 等视频预测及二维轨迹训练变体。
+- **Benchmark** · 开放世界及物理约束的运动预测，用最佳 5 个及五分钟预算中的备选最小误差评估，另测台球规划。
+- **关键结果 / 消融** · 表 1 和图 10 显示少量候选时已可比，按墙钟允许多采样时差距更大；作者用 665M 参数模型报告结果。
+- **适用条件 / 局限** · 最小误差指标受样本数及候选挑选器影响；稀疏点不必保留接触力、遮挡或任务语义，部署需检验平均质量。
+
+**可复用机制** · 探索大量未来时，可以把稠密视频预测换成短步自回归点轨迹，并同时比较等样本和等墙钟的最好候选。见表 1、图 10。
+
+<a id="paper-metom-codec-guided-token-merging"></a>
+
+## MeToM: Metadata-Guided Token Merging for Efficient Video LLMs
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 固定删词元忽略镜头与区域复杂度差异，编码完成后才筛也省不掉视觉编码成本。
+- **核心创新 / 方法** · 用视频编解码残差信号指示空间密度，用 GoP 包大小指示时间复杂度，在编码前分配并合并视觉词元。
+- **Baseline** · 比较 FastV、ToMe、DyCoke、STTM、HoliTom 和全词元。
+- **Benchmark** · VideoMME、LongVideoBench、MLVU、EgoSchema、NExT-QA；测相对完整模型的准确率、TTFT 与视觉词元数。
+- **关键结果 / 消融** · 表 1 在约 30% 词元预算中，五任务平均相对准确率为 101.2%，平均相对 TTFT 为 27.3%。
+- **适用条件 / 局限** · 依赖输入视频保有可解释的编码元数据；强压缩、重编码及小而静态的关键线索应独立分组复测。
+
+**可复用机制** · 视频问答压缩可用现成编码元数据决定每帧预算与空间合并位置，再用端到端首词元时延核算。见表 1–4。
+
+<a id="paper-pmatrack-progressive-rgbt-alignment"></a>
+
+## Progressive Multi-cue Alignment for Unaligned RGBT Tracking
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Progressive_Multi-cue_Alignment_for_Unaligned_RGBT_Tracking_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Jin_Progressive_Multi-cue_Alignment_for_Unaligned_RGBT_Tracking_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 一次拟合全部跨模态偏移既容易失败，也为轻度偏移过度计算。
+- **核心创新 / 方法** · 把中心、尺度及剩余局部偏差分段估计，按难度启用空间线索。
+- **Baseline** · 比较无对齐主干及逐项使用组件，另对照现有 RGBT 跟踪器。
+- **Benchmark** · LasHeR-Unaligned、MUART244 用 PR、NPR、SR 与 FLOPs。
+- **关键结果 / 消融** · 表 3 MUART244 的 PR/NPR/SR 从 58.7/51.1/42.1 变为 62.7/55.9/45.8，完整 FLOPs 为 72.6G。
+- **适用条件 / 局限** · 依赖两通道仍有共同可定位目标；极端非重叠、异步或尺度错位需要独立验证。
+
+**可复用机制** · 视野未标定的红外可见跟踪宜分开估计平移、尺度和局部残差，并依对齐难度选择提示。见表 3。
+
+<a id="paper-dynamicvggt-future-point-map"></a>
+
+## DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/He_DynamicVGGT_Learning_Dynamic_Point_Maps_for_4D_Scene_Reconstruction_in_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/He_DynamicVGGT_Learning_Dynamic_Point_Maps_for_4D_Scene_Reconstruction_in_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 静态前馈几何网络在运动物体和变视角下不能维持跨帧点对应。
+- **核心创新 / 方法** · 在同一参考坐标预测各时刻点图，以运动注意力连接帧，再用显式运动头给高斯估速度。
+- **Baseline** · 比较原 VGGT、加动态点图及运动注意力的消融和已有场景重建模型。
+- **Benchmark** · KITTI 单目及 Waymo 三摄像头片段测点图精度、完整性和法向一致性，也评新视图及单目深度。
+- **关键结果 / 消融** · 正文表 4 把动态约束和时序模块逐项加入，报告 KITTI 和 Waymo 的点图改善；两者的输入视角协议不同。
+- **适用条件 / 局限** · 依赖参考坐标稳定，快速突变、非车载场景和跟踪标签长时正确性需另测。
+
+**可复用机制** · 动态三维网络可在共享世界坐标直接联合预测当前和未来点图，显式测对应连续性而非只评逐帧几何。见表 4。
+
+<a id="paper-self-e-any-step-self-evaluation"></a>
+
+## Self-Evaluation Unlocks Any-Step Text-to-Image Generation
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Yu_Self-Evaluation_Unlocks_Any-Step_Text-to-Image_Generation_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Yu_Self-Evaluation_Unlocks_Any-Step_Text-to-Image_Generation_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 常规流匹配依赖许多采样步；借助已有教师的蒸馏又要求额外可用模型。
+- **核心创新 / 方法** · 用模型自己的分数估计评估生成样本，与瞬时局部监督一起训练，不需要预训练教师。
+- **Baseline** · 比较 Flow Matching、IMM；消融目标归一化和全程开启辅助损失。
+- **Benchmark** · GenEval 对 2、4、8、50 步的生成做同训练迭代比较。
+- **关键结果 / 消融** · 表 2 在 300K 迭代，两步 Self-E 为 0.6097，Flow Matching 为 0.2523；50 步为 0.7543 与 0.7311。
+- **适用条件 / 局限** · 自评分会随训练阶段变化，辅助项过早使用会有退化；分数收益需要进一步核对视觉伪影和实际延迟。
+
+**可复用机制** · 希望从头训练可任意步数生成的模型时，应试验局部流目标加自评全局匹配，分别看极少步和多步质量。见表 2。
+
+<a id="paper-avatar-av-rl"></a>
+
+## AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Kulkarni_AVATAR_Reinforcement_Learning_to_See_Hear_and_Reason_Over_Video_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Kulkarni_AVATAR_Reinforcement_Learning_to_See_Hear_and_Reason_Over_Video_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 近似相同的采样结果让组相对奖励没有梯度，均匀权重还忽略计划和汇总阶段。
+- **核心创新 / 方法** · 用分层回放复用异策略样本，并以阶段加权区分计划、主体推理与总结。
+- **Baseline** · 对照 GRPO、无分层回放、均匀及反向阶段权重。
+- **Benchmark** · 表2–5用 OmniBench、DailyOmni、MMVU、Video-Holmes 等音视频和视频推理题。
+- **关键结果 / 消融** · 图5所示实验在1600次独立生成达0.80，GRPO 在8000次后仍未达到；表5单独对照阶段权重。
+- **适用条件 / 局限** · 旧样本会出现策略漂移，首尾权重也未必适于所有轨迹长度和任务。
+
+**可复用机制** · 组内优势消失时从含不同奖励的历史轨迹补信号，并单独检验推理首尾的信用权重。
+
+<a id="paper-semantic-first-diffusion"></a>
+
+## Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_Semantics_Lead_the_Way_Harmonizing_Semantic_and_Texture_Modeling_with_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Semantics_Lead_the_Way_Harmonizing_Semantic_and_Texture_Modeling_with_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 同步去噪没有利用语义结构较早确定的生成顺序。
+- **核心创新 / 方法** · 组合独立语义潜量和纹理潜量，以不同噪声日程让语义先形成。
+- **Baseline** · 表3对比基础模型、REPA、加 SemVAE 及加入语义优先，表5另验证 ReDi。
+- **Benchmark** · ImageNet 类条件图像生成，使用 FID 等指标。
+- **关键结果 / 消融** · 表3在 REPA 与 SemVAE 已启用时，加入语义优先使 FID 从5.24降到3.03；表5在 ReDi 为5.33降至4.41。
+- **适用条件 / 局限** · 依赖语义表示确实反映目标构图，同步任务及强局部条件下需复测。
+
+**可复用机制** · 语义和纹理采用错开的去噪日程，对照同步去噪能否改善细节形成。
+
+<a id="paper-aard-geometry-noise"></a>
+
+## Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Geometry-Aligned_and_Anomaly-Aware_Reconstruction_for_3D_Anomaly_Detection_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_Geometry-Aligned_and_Anomaly-Aware_Reconstruction_for_3D_Anomaly_Detection_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 无约束随机噪声会扰动法向和局部表面，重建残差混入正常区域误差。
+- **核心创新 / 方法** · 逐步沿法向校准扰动方向并维持图结构，加入面向异常的参考条件。
+- **Baseline** · 对照其他三维异常检测器，表4消融几何和参考组件。
+- **Benchmark** · Real3D-AD、Anomaly-ShapeNet；正文表1–4报告对象及点级 AUROC。
+- **关键结果 / 消融** · 正文分开测对象级和点级检出，并用表4检验几何约束及条件贡献。
+- **适用条件 / 局限** · 法向不可靠、表面稀疏或扫描噪声变化会影响约束效果。
+
+**可复用机制** · 点云复原的扰动分布可按局部表面几何约束，再测是否兼顾结构保留和异常定位。
+
+<a id="paper-versecrafter-4d-control"></a>
+
+## VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Zheng_VerseCrafter_Dynamic_Realistic_Video_World_Model_with_4D_Geometric_Control_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_VerseCrafter_Dynamic_Realistic_Video_World_Model_with_4D_Geometric_Control_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 仅用二维控制图容易把相机运动和物体运动混为一谈。
+- **核心创新 / 方法** · 以静态点云与动态高斯轨迹编码世界状态，渲染时空控制图引导视频生成。
+- **Baseline** · 表1–2对比相机与对象控制基线，表3消融掩码、深度及几何表达。
+- **Benchmark** · VerseControl4D 测 VBench-I2V、旋转等三维控制误差及单相机条件。
+- **关键结果 / 消融** · 表3对比三维表示和解耦控制，正文分别报告观感与几何控制结果。
+- **适用条件 / 局限** · 条件质量依赖初始几何及物体轨迹，视频可控不保证物理可执行。
+
+**可复用机制** · 视频世界模型把静态几何、对象轨迹和镜头变化分开表示，在同一条件下核查几何与观感。
+
+<a id="paper-physskin"></a>
+
+## PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lei_PhysSkin_Real-Time_and_Generalizable_Physics-Based_Animation_via_Self-Supervised_Neural_Skinning_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lei_PhysSkin_Real-Time_and_Generalizable_Physics-Based_Animation_via_Self-Supervised_Neural_Skinning_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 高维物理模拟成本高，依赖拓扑的皮肤权重难迁移到其他网格。
+- **核心创新 / 方法** · 学习连续皮肤权重场，将低维控制变换提升为完整空间形变，以自监督能量和冲突感知梯度约束训练。
+- **Baseline** · 在 RigNet 和 ShapeNet 对照既有方法，表3比较逐步仿真开销并在表4做消融。
+- **Benchmark** · 正文表1–4报告权重表现、逐步耗时、正交性与条件性。
+- **关键结果 / 消融** · 表3在10K元素飞机上所提方法为12.26毫秒，表列另两方法为79.83及141.83毫秒。
+- **适用条件 / 局限** · 泛化受控制柄布局及物理目标影响，复杂碰撞时需重新验证变形和能量误差。
+
+**可复用机制** · 把连续形变基从离散网格中分离，检验同一子空间是否可迁移到不同几何采样。
+
+<a id="paper-reliqs-quality-aware-saliency"></a>
+
+## Learning Where to Look and How to Judge: Resolution-agnostic Image Quality Assessment with Quality-aware Saliency
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Gedik_Learning_Where_to_Look_and_How_to_Judge_Resolution-agnostic_Image_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Gedik_Learning_Where_to_Look_and_How_to_Judge_Resolution-agnostic_Image_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 统一缩图会丢掉微小失真，拼接主观评分也会混入量表差异。
+- **核心创新 / 方法** · 多尺度采样固定大小块，由 CLIP 编码后预测质量显著性，用少量块汇聚潜在质量分。
+- **Baseline** · 对照单数据训练和多数据训练下的现有无参考质量模型。
+- **Benchmark** · KonIQ-10K 训练及其他真实、合成、AIGC 数据测试，另测 UHD；报告 PLCC 和 SRCC。
+- **关键结果 / 消融** · 表1–3比较不同训练和分辨率的相关性，支持保留原始分辨率特征。
+- **适用条件 / 局限** · 稀疏采样可能漏局部缺陷，质量轴是否跨人群和评价量表一致仍需验证。
+
+**可复用机制** · 高分辨率质量评估使用按预算选择的原尺寸小块，并以潜在评分轴联合不同数据集。
+
+<a id="paper-fbta-feature-bridging"></a>
+
+## FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Dong_FBTA_Enabling_Single-GPU_End-to-End_Gigapixel_WSI_Classification_with_Feature_Bridging_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Dong_FBTA_Enabling_Single-GPU_End-to-End_Gigapixel_WSI_Classification_with_Feature_Bridging_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 冻结提取器有下游语义差距，整图端到端训练又超出单卡显存。
+- **核心创新 / 方法** · 把可梯度优化的端到端特征袋与冻结特征袋桥接，以翻译特征对齐训练和推理过程。
+- **Baseline** · 同提取器和 MIL 有无 FBTA 对照，覆盖 ABMIL、MambaMIL 及监督或自监督初始化。
+- **Benchmark** · TCGA-NSCLC 的 Shot20/50/100 和 TCGA-STAD；用 AUC、ACC、F1 及单卡显存评估。
+- **关键结果 / 消融** · 作者报告单24 GB GPU 可训练，ResNet-50 下 ABMIL 在 Shot50 和 STAD 准确率改善13.1%和15.8%。
+- **适用条件 / 局限** · 特征翻译需保留任务信息，证据以全切片分类为主。
+
+**可复用机制** · 高分辨率多实例学习显存不足时，将端到端、冻结以及可部署的翻译特征袋分别用于优化、稳定和推理。
+
+<a id="paper-tqd-video-diffusion"></a>
+
+## Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Luo_Beyond_the_Golden_Data_Resolving_the_Motion-Vision_Quality_Dilemma_via_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Luo_Beyond_the_Golden_Data_Resolving_the_Motion-Vision_Quality_Dilemma_via_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 运动丰富与外观清晰往往不能兼得，只挑双高样本会损失训练覆盖。
+- **核心创新 / 方法** · 用梯度分析找质量不均数据有效的时间步，偏向在高噪声步采运动丰富样本、低噪声步采视觉清晰样本。
+- **Baseline** · 对照统一时间步采样、各种筛选数据设置，表3分解时间步策略。
+- **Benchmark** · Wan 视频训练等设置，VBench、VideoAlign，VideoPhy2 用主体对齐和提示一致性。
+- **关键结果 / 消融** · 表1–3报告针对采样时间步分配可改善运动与视觉综合表现。
+- **适用条件 / 局限** · 时间步与所学内容的关系依赖噪声调度和数据质量测量，需针对骨干复核。
+
+**可复用机制** · 视频去噪训练时根据样本的运动和画质差异调整采样时间步。
+
+<a id="paper-agile-deliberation"></a>
+
+## Agile Deliberation: Concept Deliberation for Subjective Visual Classification
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Agile_Deliberation_Concept_Deliberation_for_Subjective_Visual_Classification_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Agile_Deliberation_Concept_Deliberation_for_Subjective_Visual_Classification_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 用户实际偏好会在看例子后变动，固定概念的主动学习会收集互相冲突的监督。
+- **核心创新 / 方法** · 先构造概念和子概念，再展示语义边界案例，让用户反思并反馈。
+- **Baseline** · 人工请用户自行审议与 Agile Deliberation 的系统辅助对照。
+- **Benchmark** · 两种主观视觉概念的用户实验，记录参与者与分类器的 F1、查准查全及主观评级。
+- **关键结果 / 消融** · 表1–2提供分类对齐及主观体验对照，验证流程中的概念迭代。
+- **适用条件 / 局限** · 依赖用户持续参与，少量概念与给定参与者结果不代表一般偏好。
+
+**可复用机制** · 主观概念标注中先分解待定义概念，再用边界样例迭代修正概念及分类器。
+
+<a id="paper-emma-multimodal-dynamics"></a>
+
+## EMMA: Extracting Multiple physical parameters from Multimodal Data
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Shaikh_EMMA_Extracting_Multiple_physical_parameters_from_Multimodal_Data_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Shaikh_EMMA_Extracting_Multiple_physical_parameters_from_Multimodal_Data_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 单视频下有遮挡和隐藏外力，部分参数不可仅凭视觉轨迹识别。
+- **核心创新 / 方法** · 用液态时间常数网络建模共享潜动态，以方程损失约束参数、潜状态和校准量的联合推断。
+- **Baseline** · 原文表1–2与基于视频的参数恢复及多系统基线比较。
+- **Benchmark** · 摆、滑块、流出等动力学系统，含 Delfys 视频与非运动观测，比较参数估计误差。
+- **关键结果 / 消融** · 表2报告在多种动力参数任务表现有竞争力，正文展示部分非运动观测扩展。
+- **适用条件 / 局限** · 参数可辨识性和方程先验决定能否恢复；不充分观测下可能有等价解释。
+
+**可复用机制** · 从异构时间序列推断动力参数时，让观测通道共享连续时间隐状态并以已知物理方程约束。
+
+<a id="paper-tracegen-3d-trace-space"></a>
+
+## TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos
+
+[官方论文页](https://openaccess.thecvf.com/content/CVPR2026/html/Lee_TraceGen_World_Modeling_in_3D_Trace_Space_Enables_Learning_from_CVPR_2026_paper.html) · [官方正文](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_TraceGen_World_Modeling_in_3D_Trace_Space_Enables_Learning_from_CVPR_2026_paper.pdf)
+
+- **问题 / 瓶颈** · 外观、视角和机体差异使跨具身视频难直接用于少样本操作。
+- **核心创新 / 方法** · 将视频转换成统一三维场景轨迹，在轨迹空间预测后续运动，并用少量目标机器人视频适配。
+- **Baseline** · 对照无跨具身预训练、不同适配数据量及基于视频的世界模型。
+- **Benchmark** · 四项操作任务的5或15视频适配、任务成功率与推理开销。
+- **关键结果 / 消融** · 作者在5个目标视频的条件下报告四任务80%成功率，较所测视频世界模型快50–600倍。
+- **适用条件 / 局限** · 依赖点追踪和三维配准质量，轨迹不会表达纹理、力或所有接触信息。
+
+**可复用机制** · 跨机器人和人类视频预训练时，预测场景三维点轨迹而非像素，以复用运动先验。

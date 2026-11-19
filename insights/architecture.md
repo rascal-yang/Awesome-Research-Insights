@@ -598,5 +598,7 @@
 - [Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter](../conferences/cvpr-2026/cards.md#paper-vertex-random-graph-adapter)
 - [VGent: Visual Grounding via Modular Design for Disentangling Reasoning and Prediction](../conferences/cvpr-2026/cards.md#paper-vgent)
 - [LiveGesture: Streamable Co-Speech Gesture Generation Model](../conferences/cvpr-2026/cards.md#paper-livegesture)
+- [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](../conferences/cvpr-2026/cards.md#paper-versecrafter-4d-control)
+- [PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning](../conferences/cvpr-2026/cards.md#paper-physskin)
 
 <!-- conference-classification:end -->

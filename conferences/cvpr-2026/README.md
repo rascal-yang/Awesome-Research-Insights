@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 567 篇，其中 383 篇暂收录、184 篇排除，另有 3,475 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 597 篇，其中 400 篇暂收录、197 篇排除，另有 3,445 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -389,3 +389,20 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 567 �
 | 科学与医学 AI | 迁移与泛化 | [Revisiting 2D Foundation Models for Scalable 3D Medical Image Classification](cards.md#paper-anymc3d-frozen-2d-transfer) | 三维分类资源有限时，先以冻结通用二维基础模型和轻量多视角适配作受控基线。 |
 | 科学与医学 AI | 条件生成 | [Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models](cards.md#paper-anatomica-local-constraints) | 需要区域级三维形状控制时，只解码目标子域并组合可微几何与拓扑约束。 |
 | 多模态学习 | 强化学习 | [Leveraging Verifier-Based Reinforcement Learning in Image Editing](cards.md#paper-edit-r1-verifier-reward) | 多条件图像编辑策略训练时，把一条指令拆成可核查要求再聚合奖励。 |
+| 多模态学习 | 表征学习 | [UniCompress: Token Compression for Unified Vision-Language Understanding and Generation](cards.md#paper-unicompress-bidirectional-token-bottleneck) | 统一图像理解和生成可在主模型前压缩、在生成解码前恢复局部视觉词元，独立测两条路径的墙钟时间。见表 1–3。 |
+| 机器人学 | 表征学习 | [Envisioning the Future, One Step at a Time](cards.md#paper-sparse-point-future-ensembles) | 探索大量未来时，可以把稠密视频预测换成短步自回归点轨迹，并同时比较等样本和等墙钟的最好候选。见表 1、图 10。 |
+| 多模态学习 | 推理策略 | [MeToM: Metadata-Guided Token Merging for Efficient Video LLMs](cards.md#paper-metom-codec-guided-token-merging) | 视频问答压缩可用现成编码元数据决定每帧预算与空间合并位置，再用端到端首词元时延核算。见表 1–4。 |
+| 计算机视觉 | 推理策略 | [Progressive Multi-cue Alignment for Unaligned RGBT Tracking](cards.md#paper-pmatrack-progressive-rgbt-alignment) | 视野未标定的红外可见跟踪宜分开估计平移、尺度和局部残差，并依对齐难度选择提示。见表 3。 |
+| 计算机视觉 | 训练策略 | [DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving](cards.md#paper-dynamicvggt-future-point-map) | 动态三维网络可在共享世界坐标直接联合预测当前和未来点图，显式测对应连续性而非只评逐帧几何。见表 4。 |
+| 计算机视觉 | 训练策略 | [Self-Evaluation Unlocks Any-Step Text-to-Image Generation](cards.md#paper-self-e-any-step-self-evaluation) | 希望从头训练可任意步数生成的模型时，应试验局部流目标加自评全局匹配，分别看极少步和多步质量。见表 2。 |
+| 多模态学习 | 训练策略 | [AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video](cards.md#paper-avatar-av-rl) | 组内优势消失时从含不同奖励的历史轨迹补信号，并单独检验推理首尾的信用权重。 |
+| 计算机视觉 | 训练策略 | [Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](cards.md#paper-semantic-first-diffusion) | 语义和纹理采用错开的去噪日程，对照同步去噪能否改善细节形成。 |
+| 计算机视觉 | 训练策略 | [Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection](cards.md#paper-aard-geometry-noise) | 点云复原的扰动分布可按局部表面几何约束，再测是否兼顾结构保留和异常定位。 |
+| 计算机视觉 | 模型架构 | [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](cards.md#paper-versecrafter-4d-control) | 视频世界模型把静态几何、对象轨迹和镜头变化分开表示，在同一条件下核查几何与观感。 |
+| 计算机视觉 | 模型架构 | [PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning](cards.md#paper-physskin) | 把连续形变基从离散网格中分离，检验同一子空间是否可迁移到不同几何采样。 |
+| 计算机视觉 | 推理优化 | [Learning Where to Look and How to Judge: Resolution-agnostic Image Quality Assessment with Quality-aware Saliency](cards.md#paper-reliqs-quality-aware-saliency) | 高分辨率质量评估使用按预算选择的原尺寸小块，并以潜在评分轴联合不同数据集。 |
+| 科学与医学 AI | 训练与数据策略 | [FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment](cards.md#paper-fbta-feature-bridging) | 高分辨率多实例学习显存不足时，将端到端、冻结以及可部署的翻译特征袋分别用于优化、稳定和推理。 |
+| 多模态学习 | 训练与数据策略 | [Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training](cards.md#paper-tqd-video-diffusion) | 视频去噪训练时根据样本的运动和画质差异调整采样时间步。 |
+| 计算机视觉 | 训练与数据策略 | [Agile Deliberation: Concept Deliberation for Subjective Visual Classification](cards.md#paper-agile-deliberation) | 主观概念标注中先分解待定义概念，再用边界样例迭代修正概念及分类器。 |
+| 机器学习基础 | 表示学习 | [EMMA: Extracting Multiple physical parameters from Multimodal Data](cards.md#paper-emma-multimodal-dynamics) | 从异构时间序列推断动力参数时，让观测通道共享连续时间隐状态并以已知物理方程约束。 |
+| 机器人学 | 表示学习 | [TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos](cards.md#paper-tracegen-3d-trace-space) | 跨机器人和人类视频预训练时，预测场景三维点轨迹而非像素，以复用运动先验。 |

@@ -379,5 +379,8 @@ Data selection, annotation, augmentation, and sampling.
 - [Mitigating The Distribution Shift of Diffusion-based Dataset Distillation](../../conferences/cvpr-2026/cards.md#paper-diffusion-dataset-distribution-shift)
 - [Long-Tail Internet Photo Reconstruction](../../conferences/cvpr-2026/cards.md#paper-megadepth-x-sparse-view-sampling)
 - [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](../../conferences/cvpr-2026/cards.md#paper-motionnft)
+- [FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment](../../conferences/cvpr-2026/cards.md#paper-fbta-feature-bridging)
+- [Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training](../../conferences/cvpr-2026/cards.md#paper-tqd-video-diffusion)
+- [Agile Deliberation: Concept Deliberation for Subjective Visual Classification](../../conferences/cvpr-2026/cards.md#paper-agile-deliberation)
 
 <!-- conference-classification:end -->

@@ -2314,5 +2314,6 @@
 - [Negative Binomial Variational Autoencoders for Overdispersed Latent Modeling](../conferences/cvpr-2026/cards.md#paper-negative-binomial-count-latents)
 - [Verifying Neural Network Robustness with Dual Perturbations](../conferences/cvpr-2026/cards.md#paper-veridou-combined-verification)
 - [Mitigating The Distribution Shift of Diffusion-based Dataset Distillation](../conferences/cvpr-2026/cards.md#paper-diffusion-dataset-distribution-shift)
+- [EMMA: Extracting Multiple physical parameters from Multimodal Data](../conferences/cvpr-2026/cards.md#paper-emma-multimodal-dynamics)
 
 <!-- conference-classification:end -->

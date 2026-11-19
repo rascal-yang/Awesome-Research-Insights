@@ -405,5 +405,6 @@
 - [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](../conferences/cvpr-2026/cards.md#paper-steph-sparse-task-mixup)
 - [Revisiting 2D Foundation Models for Scalable 3D Medical Image Classification](../conferences/cvpr-2026/cards.md#paper-anymc3d-frozen-2d-transfer)
 - [Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models](../conferences/cvpr-2026/cards.md#paper-anatomica-local-constraints)
+- [FBTA: Enabling Single-GPU End-to-End Gigapixel WSI Classification with Feature Bridging and Translation Alignment](../conferences/cvpr-2026/cards.md#paper-fbta-feature-bridging)
 
 <!-- conference-classification:end -->
