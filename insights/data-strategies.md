@@ -360,5 +360,6 @@
 ## CVPR 2026（暂收录）
 
 - [Unique Lives, Shared World: Learning from Single-Life Videos](../conferences/cvpr-2026/cards.md#paper-single-life-geometry)
+- [Federated Active Learning Under Extreme Non-IID and Global Class Imbalance](../conferences/cvpr-2026/cards.md#paper-fairfal-local-global-querying)
 
 <!-- conference-classification:end -->

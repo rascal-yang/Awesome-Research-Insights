@@ -674,5 +674,6 @@ Gradient updates, parameterization, and optimization dynamics.
 - [Beyond Euclidean Gossip: KL-Barycentric Consensus on Heterogeneous and Imbalanced Images](../../conferences/cvpr-2026/cards.md#paper-kl-barycentric-consensus)
 - [Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty](../../conferences/cvpr-2026/cards.md#paper-probabilistic-gs-pose-refinement)
 - [Dual Ascent Diffusion for Inverse Problems](../../conferences/cvpr-2026/cards.md#paper-dual-ascent-diffusion)
+- [Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization](../../conferences/cvpr-2026/cards.md#paper-generalized-cvo)
 
 <!-- conference-classification:end -->

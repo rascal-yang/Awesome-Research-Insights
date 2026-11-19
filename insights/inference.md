@@ -1306,5 +1306,6 @@
 - [DocPrune: Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning](../conferences/cvpr-2026/cards.md#paper-docprune)
 - [FlowMotion: Training-Free Flow Guidance for Video Motion Transfer](../conferences/cvpr-2026/cards.md#paper-flowmotion)
 - [Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](../conferences/cvpr-2026/cards.md#paper-harmony-synccfg)
+- [Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling](../conferences/cvpr-2026/cards.md#paper-hybridiff)
 
 <!-- conference-classification:end -->

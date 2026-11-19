@@ -551,5 +551,11 @@ Model-wide design and information flow.
 - [MoCoDiff: A Controllable Autoregressive Diffusion Model for Expressive Motion Generation](../../conferences/cvpr-2026/cards.md#paper-mocodiff)
 - [SHARP: Short-Window Streaming for Accurate and Robust Prediction in Motion Forecasting](../../conferences/cvpr-2026/cards.md#paper-sharp)
 - [SAM 3D Body: Robust Full-Body Human Mesh Recovery](../../conferences/cvpr-2026/cards.md#paper-sam-3d-body)
+- [Efficient and Training-Free Single-Image Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-single-image-patch-diffusion)
+- [OSA: Echocardiography Video Segmentation via Orthogonalized State Update and Anatomical Prior-aware Feature Enhancement](../../conferences/cvpr-2026/cards.md#paper-osa)
+- [Tunable Soft Equivariance with Guarantees](../../conferences/cvpr-2026/cards.md#paper-tunable-soft-equivariance)
+- [MultiAnimate: Pose-Guided Image Animation Made Extensible](../../conferences/cvpr-2026/cards.md#paper-multianimate)
+- [Beyond Sequential Tools: A Unified VLM Agent System for Photographic Post-Processing via Dynamic Multi-Expert Fusion](../../conferences/cvpr-2026/cards.md#paper-dynamic-expert-restoration)
+- [ReAttnCLIP: Training-Free Open-Vocabulary Remote Sensing Image Segmentation via Re-defined Attention in CLIP](../../conferences/cvpr-2026/cards.md#paper-reattnclip)
 
 <!-- conference-classification:end -->

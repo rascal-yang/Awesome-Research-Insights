@@ -379,5 +379,7 @@
 
 - [SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception](../conferences/cvpr-2026/cards.md#paper-synclip)
 - [Functional Mean Flow in Hilbert Space](../conferences/cvpr-2026/cards.md#paper-functional-mean-flow)
+- [SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection](../conferences/cvpr-2026/cards.md#paper-span-staged-geometric-alignment)
+- [Multi-Modal Image Fusion via Intervention-Stable Feature Learning](../conferences/cvpr-2026/cards.md#paper-intervention-stable-modal-fusion)
 
 <!-- conference-classification:end -->

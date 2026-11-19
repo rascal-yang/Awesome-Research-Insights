@@ -895,5 +895,10 @@
 - [On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks](../conferences/cvpr-2026/cards.md#paper-tg-reg)
 - [Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning](../conferences/cvpr-2026/cards.md#paper-dual-e)
 - [Boosting Quantitive and Spatial Awareness for Zero-Shot Object Counting](../conferences/cvpr-2026/cards.md#paper-qica)
+- [Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration](../conferences/cvpr-2026/cards.md#paper-lmee-memory-retrieval-training)
+- [Dark3R: Learning Structure from Motion in the Dark](../conferences/cvpr-2026/cards.md#paper-dark3r)
+- [Detecting Compressed AI-Generated Images via Phase Spectrum Robustness](../conferences/cvpr-2026/cards.md#paper-compression-phase-detection)
+- [AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion](../conferences/cvpr-2026/cards.md#paper-anylift)
+- [UniVerse: Empower Unified Generation with Reasoning and Knowledge](../conferences/cvpr-2026/cards.md#paper-universe)
 
 <!-- conference-classification:end -->

@@ -848,5 +848,7 @@
 - [ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors](../conferences/cvpr-2026/cards.md#paper-conceptpose)
 - [CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention](../conferences/cvpr-2026/cards.md#paper-causalvad-shortcut-intervention)
 - [SHARP: Short-Window Streaming for Accurate and Robust Prediction in Motion Forecasting](../conferences/cvpr-2026/cards.md#paper-sharp)
+- [Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration](../conferences/cvpr-2026/cards.md#paper-lmee-memory-retrieval-training)
+- [LIBERO-Plus: A Progressive Robustness Benchmark for Visual-Language-Action Models](../conferences/cvpr-2026/cards.md#paper-libero-plus)
 
 <!-- conference-classification:end -->

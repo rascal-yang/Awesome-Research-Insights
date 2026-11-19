@@ -972,5 +972,14 @@ Visual representation, recognition, reconstruction, and generation.
 - [SRGCD: Stability-Driven Region Growth Framework for 3D Change Detection](../../conferences/cvpr-2026/cards.md#paper-srgcd)
 - [SAM 3D Body: Robust Full-Body Human Mesh Recovery](../../conferences/cvpr-2026/cards.md#paper-sam-3d-body)
 - [Boosting Quantitive and Spatial Awareness for Zero-Shot Object Counting](../../conferences/cvpr-2026/cards.md#paper-qica)
+- [SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection](../../conferences/cvpr-2026/cards.md#paper-span-staged-geometric-alignment)
+- [Dark3R: Learning Structure from Motion in the Dark](../../conferences/cvpr-2026/cards.md#paper-dark3r)
+- [Efficient and Training-Free Single-Image Diffusion Models](../../conferences/cvpr-2026/cards.md#paper-single-image-patch-diffusion)
+- [OSA: Echocardiography Video Segmentation via Orthogonalized State Update and Anatomical Prior-aware Feature Enhancement](../../conferences/cvpr-2026/cards.md#paper-osa)
+- [Detecting Compressed AI-Generated Images via Phase Spectrum Robustness](../../conferences/cvpr-2026/cards.md#paper-compression-phase-detection)
+- [Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization](../../conferences/cvpr-2026/cards.md#paper-generalized-cvo)
+- [Beyond Sequential Tools: A Unified VLM Agent System for Photographic Post-Processing via Dynamic Multi-Expert Fusion](../../conferences/cvpr-2026/cards.md#paper-dynamic-expert-restoration)
+- [ReAttnCLIP: Training-Free Open-Vocabulary Remote Sensing Image Segmentation via Re-defined Attention in CLIP](../../conferences/cvpr-2026/cards.md#paper-reattnclip)
+- [AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion](../../conferences/cvpr-2026/cards.md#paper-anylift)
 
 <!-- conference-classification:end -->

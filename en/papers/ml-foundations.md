@@ -2287,5 +2287,7 @@ General learning methods, optimization, learning theory, and inference.
 - [POUR: A Provably Optimal Method for Unlearning Representation via Neural Collapse](../../conferences/cvpr-2026/cards.md#paper-pour-representation-unlearning)
 - [On the Role of Temporal Granularity in the Robustness of Spiking Neural Networks](../../conferences/cvpr-2026/cards.md#paper-tg-reg)
 - [Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning](../../conferences/cvpr-2026/cards.md#paper-dual-e)
+- [Federated Active Learning Under Extreme Non-IID and Global Class Imbalance](../../conferences/cvpr-2026/cards.md#paper-fairfal-local-global-querying)
+- [Tunable Soft Equivariance with Guarantees](../../conferences/cvpr-2026/cards.md#paper-tunable-soft-equivariance)
 
 <!-- conference-classification:end -->

@@ -885,5 +885,12 @@ Learning across modalities such as images, text, audio, and video.
 - [Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](../../conferences/cvpr-2026/cards.md#paper-skyra-grounded-video-detection)
 - [Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](../../conferences/cvpr-2026/cards.md#paper-harmony-synccfg)
 - [MoCoDiff: A Controllable Autoregressive Diffusion Model for Expressive Motion Generation](../../conferences/cvpr-2026/cards.md#paper-mocodiff)
+- [GuardTrace-VL: Detecting Unsafe Multimodel Reasoning via Iterative Safety Supervision](../../conferences/cvpr-2026/cards.md#paper-guardtrace-vl)
+- [Is the Modality Gap a Bug or a Feature? A Robustness Perspective](../../conferences/cvpr-2026/cards.md#paper-modality-gap-robustness)
+- [Multi-Modal Image Fusion via Intervention-Stable Feature Learning](../../conferences/cvpr-2026/cards.md#paper-intervention-stable-modal-fusion)
+- [MultiAnimate: Pose-Guided Image Animation Made Extensible](../../conferences/cvpr-2026/cards.md#paper-multianimate)
+- [Exposing and Evaluating Hallucinations for GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-gui-hallubench)
+- [Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling](../../conferences/cvpr-2026/cards.md#paper-hybridiff)
+- [UniVerse: Empower Unified Generation with Reasoning and Knowledge](../../conferences/cvpr-2026/cards.md#paper-universe)
 
 <!-- conference-classification:end -->

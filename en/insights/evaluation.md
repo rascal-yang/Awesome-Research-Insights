@@ -1408,5 +1408,8 @@ Benchmarks, evaluation protocols, ablations, and failure diagnosis.
 - [MovieRecapsQA: A Multimodal Open-Ended Video Question-Answering Benchmark](../../conferences/cvpr-2026/cards.md#paper-movierecapsqa)
 - [Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](../../conferences/cvpr-2026/cards.md#paper-contrastive-attention-fusion)
 - [Illustrator's Depth: Monocular Layer Index Prediction for Image Decomposition](../../conferences/cvpr-2026/cards.md#paper-illustrators-depth)
+- [GuardTrace-VL: Detecting Unsafe Multimodel Reasoning via Iterative Safety Supervision](../../conferences/cvpr-2026/cards.md#paper-guardtrace-vl)
+- [Exposing and Evaluating Hallucinations for GUI Grounding](../../conferences/cvpr-2026/cards.md#paper-gui-hallubench)
+- [LIBERO-Plus: A Progressive Robustness Benchmark for Visual-Language-Action Models](../../conferences/cvpr-2026/cards.md#paper-libero-plus)
 
 <!-- conference-classification:end -->

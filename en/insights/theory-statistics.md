@@ -981,4 +981,8 @@ Learning guarantees, counterexamples, estimation, and statistical tests.
 - [WorldVLA: A Unified Vision-Language-Action and World Model](../../conferences/neurips-2026/cards-0013.md#paper-155786)
 - [WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation](../../conferences/neurips-2026/cards-0013.md#paper-150851)
 
+## CVPR 2026 (provisional)
+
+- [Is the Modality Gap a Bug or a Feature? A Robustness Perspective](../../conferences/cvpr-2026/cards.md#paper-modality-gap-robustness)
+
 <!-- conference-classification:end -->
