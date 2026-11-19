@@ -449,5 +449,6 @@
 - [StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues](../conferences/cvpr-2026/cards.md#paper-structxlip-structure-aware-contrastive-retrieval)
 - [Differentiable Laplacian Matrix Guided Superpixel Segmentation](../conferences/cvpr-2026/cards.md#paper-differentiable-graph-laplacian-superpixel-connectivity)
 - [Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning](../conferences/cvpr-2026/cards.md#paper-dense-video-role-specific-queries)
+- [Revisiting F-measure Optimization in Multi-Label Classification: A Sampling-based Approach](../conferences/cvpr-2026/cards.md#paper-fft-sampled-f-measure-optimization)
 
 <!-- conference-classification:end -->

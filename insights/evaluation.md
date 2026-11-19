@@ -1533,5 +1533,11 @@
 - [Re-evaluating Continual VQA: Toward Fair and Robust Evaluation for Multimodal Continual Learning](../conferences/cvpr-2026/cards.md#paper-uco-vqa-evaluation)
 - [Where MLLMs Attend and What They Rely On: Explaining Autoregressive Token Generation](../conferences/cvpr-2026/cards.md#paper-eagle-autoregressive-token-attribution)
 - [SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning](../conferences/cvpr-2026/cards.md#paper-salmubench-association-unlearning)
+- [Towards Policy-Adaptive Image Guardrail: Benchmark and Method](../conferences/cvpr-2026/cards.md#paper-policy-conditioned-visual-moderation-diagnostics)
+- [Beyond Single-View Sufficiency: CVBench for Cross-View Human Understanding](../conferences/cvpr-2026/cards.md#paper-cvbench-verified-single-view-insufficiency)
+- [Sparsity as a Key: Unlocking New Insights from Latent Structures for Out-of-Distribution Detection](../conferences/cvpr-2026/cards.md#paper-sae-class-activation-profile-ood-diagnosis)
+- [The LLM Bottleneck: Why Open-Source Vision LLMs Struggle with Hierarchical Visual Recognition](../conferences/cvpr-2026/cards.md#paper-hierarchical-recognition-llm-bottleneck)
+- [When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs](../conferences/cvpr-2026/cards.md#paper-visual-token-information-horizon)
+- [Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity](../conferences/cvpr-2026/cards.md#paper-generative-color-fidelity-audit)
 
 <!-- conference-classification:end -->

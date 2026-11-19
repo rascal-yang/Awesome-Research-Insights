@@ -1272,5 +1272,14 @@ Learning across modalities such as images, text, audio, and video.
 - [SALMUBench: A Benchmark for Sensitive Association-Level Multimodal Unlearning](../../conferences/cvpr-2026/cards.md#paper-salmubench-association-unlearning)
 - [Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning](../../conferences/cvpr-2026/cards.md#paper-dense-video-role-specific-queries)
 - [Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](../../conferences/cvpr-2026/cards.md#paper-group-diffusion-cross-sample-attention)
+- [Towards Policy-Adaptive Image Guardrail: Benchmark and Method](../../conferences/cvpr-2026/cards.md#paper-policy-conditioned-visual-moderation-diagnostics)
+- [Beyond Single-View Sufficiency: CVBench for Cross-View Human Understanding](../../conferences/cvpr-2026/cards.md#paper-cvbench-verified-single-view-insufficiency)
+- [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](../../conferences/cvpr-2026/cards.md#paper-tipsv2-visible-patch-distillation)
+- [Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models](../../conferences/cvpr-2026/cards.md#paper-atv-pruning)
+- [The LLM Bottleneck: Why Open-Source Vision LLMs Struggle with Hierarchical Visual Recognition](../../conferences/cvpr-2026/cards.md#paper-hierarchical-recognition-llm-bottleneck)
+- [Test-Time Alignment of Text-to-Image Diffusion Models via Null-Text Embedding Optimisation](../../conferences/cvpr-2026/cards.md#paper-null-tta)
+- [When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs](../../conferences/cvpr-2026/cards.md#paper-visual-token-information-horizon)
+- [TANGO: Text-Anchored Guided Optimization for Robust Fine-tuning Vision-Language Models under Label Noise](../../conferences/cvpr-2026/cards.md#paper-tango-text-anchored-noisy-labels)
+- [Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity](../../conferences/cvpr-2026/cards.md#paper-generative-color-fidelity-audit)
 
 <!-- conference-classification:end -->

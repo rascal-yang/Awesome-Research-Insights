@@ -1119,5 +1119,9 @@
 - [Measure The Feature Universe: Topology-based Pseudo Labeling and Gravity Consistency for Source-Free Domain Adaptation](../conferences/cvpr-2026/cards.md#paper-feature-universe-source-free-adaptation)
 - [Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection](../conferences/cvpr-2026/cards.md#paper-dgs-cross-domain-incremental-detection)
 - [CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference](../conferences/cvpr-2026/cards.md#paper-cofida-m)
+- [Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](../conferences/cvpr-2026/cards.md#paper-adamab-bandit-augmentation-frozen-embeddings)
+- [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](../conferences/cvpr-2026/cards.md#paper-tipsv2-visible-patch-distillation)
+- [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](../conferences/cvpr-2026/cards.md#paper-spear-1)
+- [TANGO: Text-Anchored Guided Optimization for Robust Fine-tuning Vision-Language Models under Label Noise](../conferences/cvpr-2026/cards.md#paper-tango-text-anchored-noisy-labels)
 
 <!-- conference-classification:end -->

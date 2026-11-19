@@ -1350,5 +1350,9 @@ Visual representation, recognition, reconstruction, and generation.
 - [WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories](../../conferences/cvpr-2026/cards.md#paper-worldstereo)
 - [FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model](../../conferences/cvpr-2026/cards.md#paper-foundir-v2-data-equilibrium)
 - [MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer](../../conferences/cvpr-2026/cards.md#paper-more-motion-aware-reconstruction)
+- [Sparsity as a Key: Unlocking New Insights from Latent Structures for Out-of-Distribution Detection](../../conferences/cvpr-2026/cards.md#paper-sae-class-activation-profile-ood-diagnosis)
+- [MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy](../../conferences/cvpr-2026/cards.md#paper-muvit-world-resolution)
+- [SuP: Sub-cloud Driven Point Cloud Registration](../../conferences/cvpr-2026/cards.md#paper-sup-subcloud-registration)
+- [Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features](../../conferences/cvpr-2026/cards.md#paper-dgaf-vsr-feature-compensation)
 
 <!-- conference-classification:end -->

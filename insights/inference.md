@@ -1533,5 +1533,9 @@
 - [Object-WIPER: Training-Free Object and Associated Effect Removal in Videos](../conferences/cvpr-2026/cards.md#paper-object-wiper)
 - [EarlyTom: Early Token Compression Completes Fast Video Understanding](../conferences/cvpr-2026/cards.md#paper-earlytom)
 - [ReaGEN: Adaptive Generation of Structured Chains-of-Thought for Efficient Multimodal Reasoning](../conferences/cvpr-2026/cards.md#paper-reagen)
+- [Temporal Equilibrium MeanFlow: Bridging the Scale Gap for One-Step Generation](../conferences/cvpr-2026/cards.md#paper-temf)
+- [Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models](../conferences/cvpr-2026/cards.md#paper-atv-pruning)
+- [Test-Time Alignment of Text-to-Image Diffusion Models via Null-Text Embedding Optimisation](../conferences/cvpr-2026/cards.md#paper-null-tta)
+- [Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features](../conferences/cvpr-2026/cards.md#paper-dgaf-vsr-feature-compensation)
 
 <!-- conference-classification:end -->

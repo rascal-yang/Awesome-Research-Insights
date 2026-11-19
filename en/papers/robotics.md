@@ -978,5 +978,7 @@ Robot perception, policy learning, planning, and control.
 - [Neural Distribution Prior for LiDAR Out-of-Distribution Detection](../../conferences/cvpr-2026/cards.md#paper-ndp-imbalanced-lidar-ood-score-prior)
 - [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](../../conferences/cvpr-2026/cards.md#paper-mergevla)
 - [SceMoS: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens](../../conferences/cvpr-2026/cards.md#paper-scemos-geometry-tokens)
+- [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](../../conferences/cvpr-2026/cards.md#paper-spear-1)
+- [EgoRoC: Towards Egocentric Robotic Control via Task-Agnostic Visual Alignment](../../conferences/cvpr-2026/cards.md#paper-egoroc-reusable-visual-alignment)
 
 <!-- conference-classification:end -->

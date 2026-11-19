@@ -696,5 +696,8 @@
 - [Deformation-based In-Context Learning for Point Cloud Understanding](../conferences/cvpr-2026/cards.md#paper-deformpic-query-deformation-point-cloud-icl)
 - [PoseAnything: General Pose-guided Video Generation with Part-aware Temporal Coherence](../conferences/cvpr-2026/cards.md#paper-poseanything-part-matched-temporal-coherence)
 - [MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer](../conferences/cvpr-2026/cards.md#paper-more-motion-aware-reconstruction)
+- [SIMPLEPOSTER: A SIMPLE BASELINE FOR PRODUCT POSTER GENERATION](../conferences/cvpr-2026/cards.md#paper-simpleposter-character-position-encoding)
+- [MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy](../conferences/cvpr-2026/cards.md#paper-muvit-world-resolution)
+- [SuP: Sub-cloud Driven Point Cloud Registration](../conferences/cvpr-2026/cards.md#paper-sup-subcloud-registration)
 
 <!-- conference-classification:end -->

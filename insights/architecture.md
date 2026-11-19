@@ -660,5 +660,6 @@
 - [WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories](../conferences/cvpr-2026/cards.md#paper-worldstereo)
 - [Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis](../conferences/cvpr-2026/cards.md#paper-eckconv-coordinate-equivariant-kernels)
 - [Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](../conferences/cvpr-2026/cards.md#paper-group-diffusion-cross-sample-attention)
+- [EgoRoC: Towards Egocentric Robotic Control via Task-Agnostic Visual Alignment](../conferences/cvpr-2026/cards.md#paper-egoroc-reusable-visual-alignment)
 
 <!-- conference-classification:end -->

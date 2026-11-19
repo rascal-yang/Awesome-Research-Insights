@@ -2,7 +2,7 @@
 
 [首页](../../README.md) · [官方论文目录](https://openaccess.thecvf.com/CVPR2026?day=all) · [筛选底册](papers.tsv)
 
-CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,917 篇，其中 1,206 篇暂收录、711 篇排除，另有 2,125 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
+CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,947 篇，其中 1,227 篇暂收录、720 篇排除，另有 2,095 篇待筛。最终按贡献指南统一排名，收录上限为 50%。
 
 | 领域 | 技术类型 | 论文卡 | 能改变的技术选择 |
 | --- | --- | --- | --- |
@@ -1212,3 +1212,24 @@ CVF Open Access 主会目录含 4,042 个不同的论文页面。已筛选 1,917
 | 多模态学习 | 损失函数与优化 | [Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning](cards.md#paper-dense-video-role-specific-queries) | 视频事件定位和描述可分别用角色查询，并监督二者对齐和区间去重。 |
 | 多模态学习 | 模型架构 | [Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](cards.md#paper-group-diffusion-cross-sample-attention) | 重复采样可比较样本间注意力协作，避免默认批中每张图独立去噪。 |
 | 计算机视觉 | 表示学习 | [MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer](cards.md#paper-more-motion-aware-reconstruction) | 动态重建要稳定估相机时，可通过注意力监督区分随视图一致的结构和独立运动。 |
+| 生成模型 | 表征学习 | [SIMPLEPOSTER: A SIMPLE BASELINE FOR PRODUCT POSTER GENERATION](cards.md#paper-simpleposter-character-position-encoding) | 多行文字生成时可用逐字符位置编码替代额外的布局控制器，并直接比较文字正确率。见表 3。 |
+| 多模态学习 | 评估与诊断 | [Towards Policy-Adaptive Image Guardrail: Benchmark and Method](cards.md#paper-policy-conditioned-visual-moderation-diagnostics) | 动态审核应保留变更规则的独立测试，通过视觉匹配对照诊断模型学的是当前政策还是固定标签。见表 6。 |
+| 多模态学习 | 评估与诊断 | [Beyond Single-View Sufficiency: CVBench for Cross-View Human Understanding](cards.md#paper-cvbench-verified-single-view-insufficiency) | 多视角评测可逐项要求单视角不足，并对空间和时间错误分别统计。见表 4。 |
+| 机器学习 | 训练策略 | [Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](cards.md#paper-adamab-bandit-augmentation-frozen-embeddings) | 只有少数样本且编码器不可训练时，可比较自适应增强分配和随机增强的效果。见表 2。 |
+| 计算机视觉 | 评估与诊断 | [Sparsity as a Key: Unlocking New Insights from Latent Structures for Out-of-Distribution Detection](cards.md#paper-sae-class-activation-profile-ood-diagnosis) | 异常分数可从全局距离切换到稀疏类别激活结构偏差，并应跨骨干检查稳定性。 |
+| 多模态学习 | 训练策略 | [TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment](cards.md#paper-tipsv2-visible-patch-distillation) | 视觉语言的局部词义对齐可测试可见 patch 是否也纳入蒸馏目标。见表 2。 |
+| 生成模型 | 模型效率 | [NAMI: Efficient Image Generation via Bridged Progressive Rectified Flow Transformers](cards.md#paper-nami-bridgeflow-resolution-depth-schedule) | 大分辨率生成可把模型深度预算推迟到高分辨率，并测试阶段桥接成本。见表 7。 |
+| 机器学习基础与统计 | 生成模型 | [Temporal Equilibrium MeanFlow: Bridging the Scale Gap for One-Step Generation](cards.md#paper-temf) | 单步生成训练要按时间跨度审计梯度贡献，再分别调权和安排课程。 |
+| 多模态学习 | 推理压缩 | [Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models](cards.md#paper-atv-pruning) | VLM 权重裁剪应拆开文本和视觉校准，并根据各自敏感性决定是否共享样本。 |
+| 多模态学习 | 评测与诊断 | [The LLM Bottleneck: Why Open-Source Vision LLMs Struggle with Hierarchical Visual Recognition](cards.md#paper-hierarchical-recognition-llm-bottleneck) | 层级视觉识别先用对应纯文本题诊断语言骨干的分类树知识，再做图文适配。 |
+| 多模态学习 | 测试时适应与推理 | [Test-Time Alignment of Text-to-Image Diffusion Models via Null-Text Embedding Optimisation](cards.md#paper-null-tta) | 推理期优化奖励时，可调整生成引导的语义锚并检查辅助奖励与人评，避免像素噪声虚高。 |
+| 机器学习基础与统计 | 联邦学习 | [FedHarmony: Harmonizing Heterogeneous Label Correlations in Federated Multi-Label Learning](cards.md#paper-fedharmony) | 联邦多标签宜按标签相关统计质量加权，并将共享相关结构作为本地约束。 |
+| 机器人学 | 训练策略 | [SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding](cards.md#paper-spear-1) | 机器人数据昂贵时，先在普通图像补三维定位监督，再比较对操作迁移的贡献。 |
+| 计算机视觉 | 输入表示 | [MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy](cards.md#paper-muvit-world-resolution) | 对真实多尺度输入共享物理坐标位置编码，使细节直接与粗视野对齐。 |
+| 计算机视觉 | 表示学习 | [SuP: Sub-cloud Driven Point Cloud Registration](cards.md#paper-sup-subcloud-registration) | 全局低重叠时，先挖高重叠局部锚块，再合并对应做全局配准。 |
+| 多模态学习 | 可解释性与诊断 | [When Token Pruning is Worse than Random: Understanding Visual Token Information in VLLMs](cards.md#paper-visual-token-information-horizon) | 剪视觉词元时用同预算随机剪枝作逐层对照，别假定深层依旧需要显著性排序。 |
+| 计算机视觉 | 条件生成 | [Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features](cards.md#paper-dgaf-vsr-feature-compensation) | 视频扩散恢复中优先在特征空间补偿跨帧信息，逐级复核变换分辨率的收益。 |
+| 机器学习基础 | 损失函数与优化 | [Revisiting F-measure Optimization in Multi-Label Classification: A Sampling-based Approach](cards.md#paper-fft-sampled-f-measure-optimization) | 多标签以 F 值作目标时，利用其预测规则矩阵的结构转为卷积，并避免难估的直接多项分布。 |
+| 多模态学习 | 微调与适配 | [TANGO: Text-Anchored Guided Optimization for Robust Fine-tuning Vision-Language Models under Label Noise](cards.md#paper-tango-text-anchored-noisy-labels) | 图文模型的噪声标签微调可用固定文本语义锚校正，避免仅依赖模型的视觉自纠。 |
+| 多模态学习 | 评测与分析 | [Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity](cards.md#paper-generative-color-fidelity-audit) | 评估照片风格生成时，独立衡量色彩真实感，而不将鲜艳高对比与质量等同。 |
+| 机器人学 | 模型架构 | [EgoRoC: Towards Egocentric Robotic Control via Task-Agnostic Visual Alignment](cards.md#paper-egoroc-reusable-visual-alignment) | 跨任务控制可将腕部视觉对齐训练成共享头，给冻结策略传六自由度位姿。 |

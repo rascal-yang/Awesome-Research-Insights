@@ -2466,5 +2466,11 @@ General learning methods, optimization, learning theory, and inference.
 - [D2Cache: Second-Order Delta Caching for Higher Video Diffusion Acceleration](../../conferences/cvpr-2026/cards.md#paper-d2cache-second-difference-video-cache)
 - [PoseAnything: General Pose-guided Video Generation with Part-aware Temporal Coherence](../../conferences/cvpr-2026/cards.md#paper-poseanything-part-matched-temporal-coherence)
 - [Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis](../../conferences/cvpr-2026/cards.md#paper-eckconv-coordinate-equivariant-kernels)
+- [SIMPLEPOSTER: A SIMPLE BASELINE FOR PRODUCT POSTER GENERATION](../../conferences/cvpr-2026/cards.md#paper-simpleposter-character-position-encoding)
+- [Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](../../conferences/cvpr-2026/cards.md#paper-adamab-bandit-augmentation-frozen-embeddings)
+- [NAMI: Efficient Image Generation via Bridged Progressive Rectified Flow Transformers](../../conferences/cvpr-2026/cards.md#paper-nami-bridgeflow-resolution-depth-schedule)
+- [Temporal Equilibrium MeanFlow: Bridging the Scale Gap for One-Step Generation](../../conferences/cvpr-2026/cards.md#paper-temf)
+- [FedHarmony: Harmonizing Heterogeneous Label Correlations in Federated Multi-Label Learning](../../conferences/cvpr-2026/cards.md#paper-fedharmony)
+- [Revisiting F-measure Optimization in Multi-Label Classification: A Sampling-based Approach](../../conferences/cvpr-2026/cards.md#paper-fft-sampled-f-measure-optimization)
 
 <!-- conference-classification:end -->
